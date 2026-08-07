@@ -1,4 +1,5 @@
 ---
+
 title: "Mccokaige LED Chandelier Modern Pendant Light Fixture Simple"
 seo_title: "Mccokaige LED Chandelier Modern Pendant Light Fixt Review"
 meta_description: "Our full mccokaige led chandelier modern pendant light fixture simple review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7GZNG2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711MbpVfdeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most LED chandeliers under $100 look like they belong in a dentist's waiting room — all glare and no grace. The Mccokaige LED Chandelier breaks that pattern. With 220 ratings averaging 4.4 stars, it's clearly earning its place in real homes. But is it right for yours? Here's what I found after digging through the specs, the customer feedback, and the gotchas.

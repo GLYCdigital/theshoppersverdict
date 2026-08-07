@@ -1,4 +1,5 @@
 ---
+
 title: "Brightown LED Night Light Plug in, Modern Night Lights Plug"
 seo_title: "Brightown LED Night Light Plug In Review: Smart Buy?"
 meta_description: "Honest Brightown LED night light plug-in review: brightness, energy use, durability. See what 235 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G1HLP8T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XPurWGoGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto on/off photocell sensor responds reliably to darkness without flickering"
   - "Compact housing with dual-sided outlet design doesn't block the second socket"
   - "Warm 3000K glow is bright enough for hallway navigation but soft enough for sleep"
-cons:
+cons: 
   - "No USB passthrough — you lose the outlet entirely when plugged in"
   - "Sensor can be triggered by distant lamps, keeping the light on longer than needed"
+
 ---
 
 Let's be direct: most plug-in night lights are either blindingly bright garage floods or useless little glow-worms that die in six months. The **Brightown LED Night Light** sits in a rare sweet spot — it's actually thoughtful about how it works, and the 4.7-star average across 235 ratings suggests buyers agree. The question is whether it deserves a spot in your hallway, bathroom, or kid's room. Here's the real story.

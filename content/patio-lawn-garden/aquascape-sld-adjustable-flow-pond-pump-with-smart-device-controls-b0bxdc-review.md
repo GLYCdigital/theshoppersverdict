@@ -1,4 +1,5 @@
 ---
+
 title: "Aquascape SLD Adjustable Flow Pond Pump with Smart Device Co"
 seo_title: "Aquascape SLD Pond Pump Review: Smart Control, Solid Flow"
 meta_description: "Aquascape SLD adjustable flow pond pump review: smart device controls, energy efficiency, and real-world performance for water features and ponds."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BXDCKJLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zyWqTvaoL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Adjustable flow via smartphone app (Wi-Fi enabled) — no more guessing with mechanical dials"
   - "Energy-efficient variable-speed motor that pulls under 100W at max output on most models"
   - "Built-in thermal overload protection and dry-run shutdown for equipment safety"
-cons:
+cons: 
   - "Wi-Fi setup can be finicky — several users report connection drops requiring re-pairing"
   - "App interface feels dated and lacks scheduling presets found on competitors"
   - "No included hose barbs or fittings — you'll spend extra on adapters for standard tubing"
+
 ---
 
 **The Aquascape SLD Adjustable Flow Pond Pump** is trying to be the smart home of water features — and it mostly gets there, with a few hiccups worth knowing before you buy.

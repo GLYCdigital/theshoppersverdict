@@ -1,4 +1,5 @@
 ---
+
 title: "Flush Mount Ceiling Fan no Light, Ceiling Fan with Remote, 6 inch"
 seo_title: "Flush Mount Ceiling Fan No Light Review: 6-Speed Remote Control"
 meta_description: "Honest flush mount ceiling fan no light review: 6-speed remote control, low-profile design, 4.3/5 rating. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FPDJJPQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xj8EgwKdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True flush mount fits ceilings as low as 8 feet without a downrod"
   - "Quiet 6-speed DC motor with reversible airflow for year-round use"
   - "Remote control with timer and sleep mode — no wall switch wiring needed"
-cons:
+cons: 
   - "No light kit included or compatible — this is strictly airflow"
   - "Remote uses a proprietary RF signal; you'll need to keep the handset handy"
   - "Some buyers report slight wobble at higher speeds on uneven ceilings"
+
 ---
 
 **The Short Version: Low-Profile Airflow That Won't Break the Bank**

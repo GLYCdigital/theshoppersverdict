@@ -1,4 +1,5 @@
 ---
+
 title: "Cometofit Adjustable Bench, Professional Weight Bench, Incli"
 seo_title: "Cometofit Adjustable Bench Review: Solid Value at $119?"
 meta_description: "Cometofit adjustable bench review: 7 back positions, 660-lb capacity, compact fold. Is this $119 incline bench worth it? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CRB246P7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613ODRerVpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "7 adjustable back positions (including decline) for under $120 — rare at this price point"
   - "660-lb weight capacity with heavy-gauge steel frame that doesn't wobble during pressing"
   - "Folds flat for storage — takes up about 2 square feet when tucked away"
-cons:
+cons: 
   - "Seat pad doesn't adjust independently from the backrest, limiting certain press angles"
   - "Leg hold-down roller sits wide for some users — taller lifters may need to adjust foot placement"
+
 ---
 
 Let's be direct: most sub-$150 adjustable benches are wobbly, flimsy, or both. The Cometofit Adjustable Bench sits at $119.95 and claims a 660-pound capacity. I tested it against that promise — and checked what the 200 Amazon reviewers are actually saying.

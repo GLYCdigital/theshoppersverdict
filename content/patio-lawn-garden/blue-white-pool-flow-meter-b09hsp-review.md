@@ -1,4 +1,5 @@
 ---
+
 title: "Blue-White Pool Flow Meter"
 seo_title: "Blue-White Pool Flow Meter Review: Accurate & Durable"
 meta_description: "Honest Blue-White pool flow meter review: accuracy, install ease, durability, and real buyer feedback. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09HSPMYH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zl6KipulL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clear, easy-to-read scale with no fogging or condensation issues reported"
   - "Installs inline with standard PVC pipe sizes—no special tools or adapters needed"
   - "Accurate readings that let you spot filter clogs or pump issues before they become expensive repairs"
-cons:
+cons: 
   - "Requires a straight pipe run before and after the unit for accurate readings—tight spaces may need rework"
   - "Some users report the internal float can stick if debris gets past the filter"
+
 ---
 
 Most pool owners never think about flow rate until something goes wrong. A dirty filter, a failing pump, or a hidden leak—all of them show up as flow problems long before they become visible disasters. The Blue-White Pool Flow Meter puts that information in front of you every time you walk past your equipment pad. After digging through 225 ratings and the technical specs, here's the real story.

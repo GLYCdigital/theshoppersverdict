@@ -1,24 +1,26 @@
 ---
+
 title: "Creole Feast SBK0601/SBK0801/SBK1001 Outdoor Cooking and Sea"
 seo_title: "Creole Feast Seafood Boiling Kit Review: Worth It?"
 meta_description: "Creole Feast SBK0601/SBK0801/SBK1001 outdoor cooking & seafood boiling kit review: capacity, build, real buyer feedback, and who should skip it."
 slug: "creole-feast-sbk0601-sbk0801-sbk1001-outdoor-cooking-and-seafood-boiling-kit-with-b093pt-review"
 image_alt: "Creole Feast outdoor seafood boiling kit with large pot, basket, and burner on patio"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B093PT97BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tpy6KN-pS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Three size options (6, 8, 10 gallons) with matching 304 stainless steel pots and lift baskets"  
   - "Jet-style burner puts out serious BTUs — boils 10 gallons in under 20 minutes on a standard propane tank"  
   - "Includes a built-in thermometer, straining basket with long handles, and a stable 4-leg base"  
-cons:  
+cons: 
   - "Burner hose and regulator feel thin — several buyers replaced them within a season"  
   - "Lid fits loosely; steam escapes and can slow boil times in windy conditions"  
   - "No included propane tank or grease tray — you'll need to buy those separately"
+
 ---
 
 If you've ever hosted a crawfish boil or a low-country shrimp feast, you know the pain of juggling a flimsy stockpot on a wobbly camping burner. The **Creole Feast SBK0601/SBK0801/SBK1001** takes that chaos and turns it into a proper setup. After digging through 235 ratings and the spec sheet, here's the honest breakdown.

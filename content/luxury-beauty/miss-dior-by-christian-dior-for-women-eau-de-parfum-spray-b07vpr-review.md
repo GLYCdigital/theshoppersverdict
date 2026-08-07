@@ -1,4 +1,5 @@
 ---
+
 title: "Miss Dior By Christian Dior For Women Eau De Parfum Spray"
 seo_title: "Miss Dior By Christian Dior For Women Eau De Parfu Review"
 meta_description: "Our full miss dior by christian dior for women eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VPRSG15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hh-zpaZrL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Miss Dior Eau de Parfum is one of those fragrances that's been everywhere for a decade, yet when you finally smell it on skin, you understand why it's a bestseller.** The 2021 reformulation (which is what you'll receive from this listing) ditched the syrupy sweetness of the previous version for something more refined — and honestly, it's the best iteration yet.

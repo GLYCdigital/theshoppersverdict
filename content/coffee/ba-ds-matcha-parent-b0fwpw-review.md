@@ -1,4 +1,5 @@
 ---
+
 title: "BA DS Matcha Parent"
 seo_title: "BA DS Matcha Parent Review: Is It Worth It? | 2026 inch"
 meta_description: "BA DS Matcha Parent review: 4.4-star rated coffee gear. We break down build quality, ease of use, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FWPW7LJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811fiH+ZxEL._SL1500_.jpg"
-pros:
+pros: 
   - "Ceramic-coated interior prevents flavor ghosting between matcha and coffee brews"
   - "Built-in whisk attachment with three speed settings actually breaks up clumps"
   - Compact footprint (7.2 inch " wide) fits under standard upper cabinets without modification
-cons:
+cons: 
   - "No programmable timer — you're manually starting every brew cycle"
   - "Whisk attachment creates a slight rattle at highest speed setting"
+
 ---
 
 **The Matcha Machine That Also Does Coffee — But Is It a Master of Either?**

@@ -1,4 +1,5 @@
 ---
+
 title: "CAMEL CROWN Tents for Camping 4/6 Person Tent Waterproof Eas"
 seo_title: "CAMEL CROWN 4/6 Person Tent Review: Waterproof & Easy Setup"
 meta_description: "Honest CAMEL CROWN 4/6 person tent review: waterproof performance, setup ease, real owner feedback, and who should buy it. Read before you camp."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FYFWGYR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cleBUk8gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof flysheet with taped seams — holds up in sustained downpours"
   - "Color-coded poles and single-hub design make setup possible in under 10 minutes solo"
   - "Two large doors and vestibules provide real storage and entry flexibility at this price point"
-cons:
+cons: 
   - "Included stakes are thin and bend easily in hard or rocky ground — plan to upgrade"
   - "Ventilation is mediocre in warm weather; condensation builds up if you don't crack the fly"
   - "Fits 4 people comfortably, but 6 is a squeeze — the 6-person rating is optimistic"
+
 ---
 
 Let's cut through the listing photos. The CAMEL CROWN 4/6 person tent is a budget-friendly dome shelter that promises waterproofing and quick setup. At a 3.9-star average across 195 ratings, it's neither a disaster nor a revelation — it's a solid value with specific tradeoffs you need to know before buying.

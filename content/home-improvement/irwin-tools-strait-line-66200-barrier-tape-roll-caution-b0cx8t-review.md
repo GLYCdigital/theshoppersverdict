@@ -1,4 +1,5 @@
 ---
+
 title: "Irwin Tools Strait-LINE 66200 Barrier Tape Roll, Caution"
 seo_title: "Irwin Tools Strait-LINE 66200 Barrier Tape Roll, C Review"
 meta_description: "Our full irwin tools strait-line 66200 barrier tape roll, caution review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX8TM5BZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aSea-Nz5L._AC_SL1051_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever strung up a flimsy roll of caution tape only to watch it sag, tear mid-install, or fade to a sad yellow within a week, you know the frustration. The Irwin Tools Strait Line 66200 aims to fix that. It's not flashy — it's a roll of barrier tape — but it's built with the sort of no-nonsense practicality that Irwin is known for. Here's the honest breakdown after putting it through real job-site conditions.

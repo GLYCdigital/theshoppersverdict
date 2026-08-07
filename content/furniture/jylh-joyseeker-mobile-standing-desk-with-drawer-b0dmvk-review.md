@@ -1,4 +1,5 @@
 ---
+
 title: "JYLH JOYSEEKER Mobile Standing Desk with Drawer"
 seo_title: "JYLH JOYSEEKER Mobile Standing Desk with Drawer Review: V"
 meta_description: "Our full jylh joyseeker mobile standing desk with drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMVK18NQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613x7kjlItL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict: A Mobile Desk That Actually Earns Its Wheels**

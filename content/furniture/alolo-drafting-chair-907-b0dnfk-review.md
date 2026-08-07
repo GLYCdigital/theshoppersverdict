@@ -1,4 +1,5 @@
 ---
+
 title: "Alolo Drafting Chair-907 inch"
 seo_title: "Alolo Drafting Chair-907 Review: Worth It? (2026)"
 meta_description: "Honest Alolo Drafting Chair-907 review: ergonomics, build quality, stability issues, and who should buy. Real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DNFK2JXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HY7BF-WWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tall pneumatic lift reaches 34 inches seat height — rare at this price point for drafting work"
   - "Angled foot ring is genuinely useful for posture, not just decorative"
   - "Breathable mesh back keeps you cool during 8-hour drafting sessions"
-cons:
+cons: 
   - "Multiple buyers report hydraulic cylinder failing within 6–9 months, causing sudden drops"
   - "Armrests feel flimsy with lateral play that worsens over time"
   - "Assembly instructions are minimal — expect to puzzle through the gas lift installation"
+
 ---
 
 The Alolo Drafting Chair-907 occupies a weird middle ground. It's not cheap enough to be disposable, not expensive enough to be "serious" ergonomic equipment. At 3.6 stars from 180 ratings, the truth is in the distribution — plenty of people love it, plenty regret it. Here's what you need to know before clicking buy.

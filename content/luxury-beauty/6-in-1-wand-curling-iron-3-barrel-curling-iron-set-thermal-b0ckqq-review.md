@@ -1,4 +1,5 @@
 ---
+
 title: "6 in 1 Wand Curling Iron, 3 Barrel Curling Iron Set Thermal"
 seo_title: "6 in 1 Wand Curling Iron Review: 3 Barrel Set Tested (2026)"
 meta_description: "Honest 6 in 1 wand curling iron review: 3 interchangeable barrels, heat settings, and real results. See if this thermal set beats your current curler."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKQQ8Z7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E9B8vPHVL._SL1500_.jpg"
-pros:
+pros: 
   - "Three interchangeable barrels (1-inch, 1.25-inch, and cone) deliver loose waves, tight curls, or voluminous bends without buying multiple tools"
   - "Dual-voltage with swivel cord — actually travel-ready, not just travel-claimed"
   - "Heats to 410°F in under 60 seconds with consistent temperature across the barrel surface"
-cons:
+cons: 
   - "No heat-resistant glove included — you'll need to buy one separately or burn your fingers on the cone barrel"
   - "Barrel swap mechanism requires a firm twist that feels stiff initially and gets harder with product buildup on the threads"
   - "Auto-shutoff kicks in at 30 minutes, which interrupts long styling sessions if you're doing intricate looks"
+
 ---
 
 You've got three different curl patterns living in your bathroom already, don't you? A wand for loose waves, a clipless iron for tight ringlets, and that one conical thing you bought on impulse. This 6-in-1 set from the 3 Barrel Curling Iron line tries to replace all of them with a single handle and three interchangeable heads. At 4.2 stars from 210 Amazon ratings, it's not perfect — but it might be the only curling tool you need.

@@ -1,4 +1,5 @@
 ---
+
 title: "VIZ-PRO Notice Board Felt Blue, Silver Aluminium Frame"
 seo_title: "VIZ-PRO Notice Board Felt Blue, Silver Aluminium F Review"
 meta_description: "Our full viz-pro notice board felt blue, silver aluminium frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00XIXA5Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dcsTivqIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: most notice boards under $50 are flimsy cork slabs wrapped in cheap plastic that warp within six months. The VIZ-PRO Felt Blue board is not that. After 225 ratings averaging 4.5 stars, this board has earned a reputation — but it's not perfect. Here's the unvarnished truth.

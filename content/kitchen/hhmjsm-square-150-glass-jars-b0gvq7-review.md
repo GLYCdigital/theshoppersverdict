@@ -1,4 +1,5 @@
 ---
+
 title: "HHMJSM square 150 glass jars"
 seo_title: "HHMJSM square 150 glass jars Review: Verdict | TSV"
 meta_description: "Our full hhmjsm square 150 glass jars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVQ7HRFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dPDppPs2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a cluttered spice rack or a drawer full of mismatched lotion jars, the HHMJSM square 150 glass jars look like the solution you've been hunting for. As shown in the product image, these are compact, squat, and satisfyingly uniform. But before you hit buy, let's get one thing straight: 150ml is *small*. That's roughly 5 ounces — about the size of a single-serve yogurt cup. These aren't for bulk storage. They're for precision organization.

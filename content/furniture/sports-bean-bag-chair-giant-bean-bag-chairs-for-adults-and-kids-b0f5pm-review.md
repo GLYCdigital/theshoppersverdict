@@ -1,4 +1,5 @@
 ---
+
 title: "Sports Bean Bag Chair - Giant Bean Bag Chairs for Adults and"
 seo_title: "Sports Bean Bag Chair - Giant Bean Bag Chairs for  Review"
 meta_description: "Our full sports bean bag chair - giant bean bag chairs for adults and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5PM78SZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JZhisW8cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This The Last Bean Bag You'll Ever Buy?

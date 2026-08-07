@@ -1,4 +1,5 @@
 ---
+
 title: "ExpressDesigns Up to 500 Pcs Custom Pens Bulk | Rainbow of C"
 seo_title: "ExpressDesigns Custom Pens Bulk Review: 500 Pcs Rainbow"
 meta_description: "ExpressDesigns custom pens bulk review: 500 rainbow pens for branding. Real buyer feedback, quality check, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYWPDDZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718ZJ+w1IEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 500-piece order with 12 rainbow barrel colors — no per-unit hidden fees at checkout"
   - "Soft-touch matte finish barrel resists fingerprints and feels premium for a promo pen"
   - "Custom imprint is centered and legible on the barrel, even with small fonts"
-cons:
+cons: 
   - "Black ink only — no blue or red option for the refill"
   - "Wave-style barrel texture can catch on fabric when clipped in a pocket"
+
 ---
 
 If you're ordering 500 custom pens, you've got one job: get your name in as many hands as possible without looking cheap. The ExpressDesigns bulk custom pens do exactly that, with a twist most promo suppliers don't offer — a rainbow of 12 barrel colors at no upcharge.

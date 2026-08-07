@@ -1,4 +1,5 @@
 ---
+
 title: "Micro Ingredients Organic Non-Fortified Nutritional Yeast Fl"
 seo_title: "Micro Ingredients Organic Non-Fortified Nutritiona Review"
 meta_description: "Our full micro ingredients organic non-fortified nutritional yeast fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BCMNBZPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xsijFT9gL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something upfront: this is not your standard nutritional yeast. Micro Ingredients sells an organic, **non-fortified** version, which puts it in a smaller category than the fortified stuff most shoppers grab. That distinction matters more than you might think — and it's the reason this review exists.

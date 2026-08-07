@@ -1,4 +1,5 @@
 ---
+
 title: "Chafing Dishes for Buffet, [Elegant Gold and Silver] Stainle"
 seo_title: "Chafing Dishes for Buffet Review: Gold & Silver Stainless"
 meta_description: "Honest review of gold & silver stainless chafing dishes for buffet service. Real feedback on heat retention, build quality, and value."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ8JSD4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8136tQGswVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-tone gold and silver finish looks significantly more premium than single-color buffet sets — photographs well for events"
   - "Heavy-gauge stainless steel construction with reinforced rims resists warping even with high BTU fuel cans underneath"
   - "Full-size 8-quart capacity with deep 2.5-inch food pans that hold substantial portions for catering"
-cons:
+cons: 
   - "Gold finish is electroplated, not brushed through — expect minor scratching at corners within 3-6 months of regular commercial use"
   - "No built-in drain spout on the water pan makes emptying awkward; you'll tilt and pour carefully or use a siphon"
   - "Fuel holder is slightly shallow — standard 2-hour chafing fuel cans sit proud and can wobble if bumped"
+
 ---
 
 If you're hosting a buffet, wedding reception, or holiday gathering, the chafing dish is the unsung hero of the whole operation. It keeps the food hot, looks presentable, and ideally doesn't make you wrestle with cheap hinges mid-event. This gold and silver stainless set from Amazon's buffet category has earned a solid 4.2 out of 5 across 210 ratings — and the feedback tells a consistent story about what this set does well and where it cuts corners.

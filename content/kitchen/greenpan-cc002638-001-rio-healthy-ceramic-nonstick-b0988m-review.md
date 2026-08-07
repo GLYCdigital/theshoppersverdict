@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan CC002638-001 Rio Healthy Ceramic Nonstick"
 seo_title: "GreenPan CC002638-001 Rio Healthy Ceramic Nonstick Review"
 meta_description: "Our full greenpan cc002638-001 rio healthy ceramic nonstick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0988MJ15D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i6eLvNNkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past ceramic cookware because you assume "healthy" means "sticks like glue," the GreenPan Rio line might make you reconsider. With a 4.6-star average across 229 Amazon ratings, this isn't just another pretty pan — it's a legitimate alternative for cooks who want nonstick convenience without PFAS chemicals in their food.

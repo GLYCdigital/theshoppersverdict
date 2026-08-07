@@ -1,4 +1,5 @@
 ---
+
 title: "Allclad Stainless Steel Brushed D5 Saucepan cooking pot"
 seo_title: "All-Clad D5 Saucepan Review: Is It Worth the Price?"
 meta_description: "Honest All-Clad D5 stainless saucepan review: 5-ply performance, heat control, durability. See pros, cons, and who should buy this 4.7-star pot."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYGXHJ13/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qfpiiy3ZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "5-ply bonded construction (stainless-aluminum-stainless-aluminum-stainless) eliminates hot spots for even simmering"
   - "Flared rim design pours cleanly without dripping — a small detail most saucepans get wrong"
   - "Oven-safe up to 600°F including the lid, so you can start on stovetop and finish in the oven"
-cons:
+cons: 
   - "Heavy — the 3-quart version weighs over 4 pounds empty, which can strain wrists during single-handed pouring"
   - "Stainless interior requires technique; eggs and dairy will stick if you don't preheat properly"
   - "No helper handle on smaller sizes, making a full pot awkward to lift with one hand"
+
 ---
 
 Let's cut through the noise: You don't need to spend All-Clad money on a saucepan. A $30 nonstick from the big-box store will boil pasta water just fine. So why does the D5 Brushed Saucepan command a premium that's 10x that? Because it does everything else better — and does it for decades. Here's the real story.

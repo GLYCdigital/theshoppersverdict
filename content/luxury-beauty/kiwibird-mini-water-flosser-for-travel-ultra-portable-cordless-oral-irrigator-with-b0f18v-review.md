@@ -1,4 +1,5 @@
 ---
+
 title: "KIWIBIRD Mini Water Flosser for Travel, Ultra-Portable Cordl"
 seo_title: "KIWIBIRD Mini Water Flosser for Travel, Ultra-Port Review"
 meta_description: "Our full kiwibird mini water flosser for travel, ultra-portable cordl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F18VJCXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z48Dt33tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance: Does It Actually Floss?

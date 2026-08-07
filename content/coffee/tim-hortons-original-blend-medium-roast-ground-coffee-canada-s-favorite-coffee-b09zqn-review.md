@@ -1,4 +1,5 @@
 ---
+
 title: "Tim Hortons Original Blend, Medium Roast Ground Coffee, Cana"
 seo_title: "Tim Hortons Original Blend, Medium Roast Ground Co Review"
 meta_description: "Our full tim hortons original blend, medium roast ground coffee, cana review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZQN6DVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7117ZjUPuuL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tim Hortons Original Blend: The Canadian Icon, Tested at Home

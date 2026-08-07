@@ -1,4 +1,5 @@
 ---
+
 title: "Le Creuset Stoneware Espresso Mug"
 seo_title: "Le Creuset Stoneware Espresso Mug Review: Verdict | TSV"
 meta_description: "Our full le creuset stoneware espresso mug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTTFLBYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wWapqCVdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a $30 espresso mug. You could buy a four-pack of perfectly serviceable ceramic mugs for the same money. So the question isn't whether the Le Creuset Stoneware Espresso Mug holds liquid — it's whether it earns that premium. After handling one and digging through 235 Amazon ratings, here's the honest answer.

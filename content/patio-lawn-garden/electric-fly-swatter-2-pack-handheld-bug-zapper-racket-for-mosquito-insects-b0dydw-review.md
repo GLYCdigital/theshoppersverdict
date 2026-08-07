@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Fly Swatter 2 Pack, Handheld Bug Zapper Racket for"
 seo_title: "Electric Fly Swatter 2 Pack Review: Bug Zapper Racket Worth It?"
 meta_description: "Honest Electric Fly Swatter 2 Pack review: coverage, battery life, safety, and real buyer feedback. Is this handheld bug zapper worth your money?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYDW5QGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dYhW0BxKL._AC_SL1299_.jpg"
-pros:
+pros: 
   - "Triple-layer mesh delivers a satisfying zap on contact — flies, mosquitoes, and moths die instantly, no chasing required"
   - "Two rackets in the box means one for the kitchen, one for the patio — no arguing over who gets the good one"
   - "Rechargeable via USB-C, so you're not burning through AAA batteries every summer weekend"
-cons:
+cons: 
   - "Only holds a charge for about 2–3 weeks of casual use; you'll need to remember to top it off before outdoor gatherings"
   - "The racket head is smaller than a traditional fly swatter, so you need to be within a few inches of the bug for the zap to connect"
+
 ---
 
 If you've ever spent a July evening slapping at mosquitoes with a rolled-up magazine, you know the frustration. The Electric Fly Swatter 2 Pack aims to end that misery with a satisfying *zap* instead of a missed swing. After digging through 215 Amazon ratings and testing the physics of how these things actually work, here's the real story.

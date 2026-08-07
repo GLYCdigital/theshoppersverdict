@@ -1,4 +1,5 @@
 ---
+
 title: "Google Nest Learning Thermostat, 3rd Gen"
 seo_title: "Google Nest Learning Thermostat, 3rd Gen Review: Verdict "
 meta_description: "Our full google nest learning thermostat, 3rd gen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08LGX4SHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vU5W1gOZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Google Nest Learning Thermostat, 3rd Gen Review: Still the Smart Thermostat to Beat, But Not for Everyone

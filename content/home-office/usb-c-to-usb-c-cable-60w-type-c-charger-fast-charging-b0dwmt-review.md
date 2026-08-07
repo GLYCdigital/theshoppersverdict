@@ -1,4 +1,5 @@
 ---
+
 title: "USB C to USB C Cable, 60W Type C Charger Fast Charging, Nylo"
 seo_title: "USB C to USB C Cable, 60W Type C Charger Fast Char Review"
 meta_description: "Our full usb c to usb c cable, 60w type c charger fast charging, nylo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWMTZR67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xW7ce31rL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The USB-C cable market is a wasteland of cheap, flimsy cords that stop working in three months. The Nylo 60W USB-C cable aims to be the exception — and based on 220 ratings averaging 4.4 stars, it's mostly succeeding. Here's what you need to know before you buy.

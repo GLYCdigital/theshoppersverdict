@@ -1,4 +1,5 @@
 ---
+
 title: "Brother 4-Color Ink Cartridge Set, LC404 inch"
 seo_title: "Brother LC404 Ink Cartridge Set Review: Worth It? (2026)"
 meta_description: "Honest Brother LC404 4-color ink cartridge review. Real print quality, page yield, and cost per page. See if this set fits your printer and budget."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097NLX62F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JVzT5Hc5S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Brother ink with consistent color accuracy — no third-party quality gamble"
   - "Solid page yield for the price point (roughly 300 black / 260 color pages per cart)"
   - "Chip communicates remaining ink levels accurately through the Brother Status Monitor"
-cons:
+cons: 
   - "Only one black cartridge included — no XL option in this set for high-volume users"
   - "Individual replacement costs add up if you burn through one color faster than others"
+
 ---
 
 If you own a Brother INKvestment or standard inkjet printer, the LC404 set is the "safe bet" cartridge kit — but safe doesn't always mean cheap. Let's break down whether this four-pack is actually worth your money or if you should be shopping alternatives.

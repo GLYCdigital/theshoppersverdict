@@ -1,5 +1,6 @@
 ---
 
+
 title: "Bosceos Solar String Lights Outdoor Waterproof, Solar String"
 seo_title: "Bosceos Solar String Lights Review: Honest 2026 Verdict"
 meta_description: "Bosceos solar string lights review: 27ft waterproof LED string with 8 modes. See real-world performance, battery life, and durability issues before you buy."
@@ -12,13 +13,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FWHKRYPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QwzjbWTrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 lighting modes including steady, fading, and chasing patterns controlled by a single button"
   - "IP65 waterproof rating handles direct rain and snow exposure without failure"
   - "Fully cordless design with 27ft of lighting from a single solar panel"
-cons:
+cons: 
   - "Solar output drops dramatically in winter months — expect 3-4 hours of light instead of 8 inch"
   - "The included stakes are thin; upgrade them if you're mounting in soft soil or high wind areas"
+
 
 ---
 

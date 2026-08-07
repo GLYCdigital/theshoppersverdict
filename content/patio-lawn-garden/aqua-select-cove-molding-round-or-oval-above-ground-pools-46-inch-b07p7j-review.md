@@ -1,4 +1,5 @@
 ---
+
 title: "Aqua Select Cove Molding Round or Oval Above Ground Pools |"
 seo_title: "Aqua Select Cove Molding Review: Pool Floor Protection"
 meta_description: "Aqua Select Cove Molding review: durable foam cove for above-ground pools. See if it prevents wrinkles and protects liners before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07P7JC6NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715g-eB-vLh._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-formed 45-degree angle eliminates guesswork; no need to cut and fold your own foam cove"
   - "Closed-cell foam resists water absorption and won't break down over multiple seasons"
   - "Sold in 10-foot sections — you can order exactly what your pool circumference needs"
-cons:
+cons: 
   - "Price per linear foot is higher than DIY foam pool noodle alternatives"
   - "Sections require taping at the seams; tape isn't included in the box"
+
 ---
 
 ## The Unsung Hero of a Smooth Pool Floor

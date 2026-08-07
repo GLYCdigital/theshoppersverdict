@@ -1,4 +1,5 @@
 ---
+
 title: "T3 Women's T3 Aire IQ Intelligent Hair Dryer"
 seo_title: "T3 Women's T3 Aire IQ Intelligent Hair Dryer Review: Verd"
 meta_description: "Our full t3 women's t3 aire iq intelligent hair dryer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F5BV7VBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ek5W-FjIL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The T3 Aire IQ isn't just another expensive hair dryer. It's a bet that intelligent heat control can replace brute-force drying. And for the most part, that bet pays off — but with some notable caveats that explain the 3.7-star average across 185 ratings.

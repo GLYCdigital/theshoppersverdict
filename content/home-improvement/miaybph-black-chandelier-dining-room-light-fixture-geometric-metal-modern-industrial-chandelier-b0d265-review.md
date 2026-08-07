@@ -1,4 +1,5 @@
 ---
+
 title: "MIAYBPH Black Chandelier, Dining Room Light Fixture Geometri"
 seo_title: "MIAYBPH Black Chandelier, Dining Room Light Fixtur Review"
 meta_description: "Our full miaybph black chandelier, dining room light fixture geometri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2651XXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-8zP4eyML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dining room currently has a boob light or a builder-grade flush mount, this MIAYBPH chandelier is the upgrade you've been putting off. It's the kind of fixture that makes people walk into your house and say "oh, nice light" — without being so avant-garde that it fights your existing decor.

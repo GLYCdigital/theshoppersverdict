@@ -1,4 +1,5 @@
 ---
+
 title: "KISLOT Upholstered Dining Chairs with Casters, Modern Dining"
 seo_title: "KISLOT Upholstered Dining Chairs with Casters, Mod Review"
 meta_description: "Our full kislot upholstered dining chairs with casters, modern dining review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FT8CFHLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DSTRlwC-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most rolling dining chairs are either ugly office rejects or flimsy gimmicks. The KISLOT upholstered dining chairs with casters sit somewhere more interesting — a genuinely modern take on the wheeled chair that doesn't look like it escaped from a cubicle farm.

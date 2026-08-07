@@ -1,4 +1,5 @@
 ---
+
 title: "KITCHENDAO 2 in 1 Salad Dressing Shaker"
 seo_title: "KITCHENDAO 2 in 1 Salad Dressing Shaker Review: Verdict |"
 meta_description: "Our full kitchendao 2 in 1 salad dressing shaker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D492FLR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iMncGA-YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about salad dressing shakers: most of them are just glorified cups with lids. You still need a separate strainer for fresh herbs, a whisk for emulsifying, and a measuring cup for the olive oil. The KITCHENDAO 2 in 1 tries to collapse all of that into one piece of borosilicate glass. For the most part, it works.

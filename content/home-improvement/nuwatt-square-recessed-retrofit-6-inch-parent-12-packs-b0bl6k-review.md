@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT Square Recessed Retrofit 6 Inch Parent 12 Packs"
 seo_title: "NUWATT Square Recessed Retrofit 6 Inch Parent 12 P Review"
 meta_description: "Our full nuwatt square recessed retrofit 6 inch parent 12 packs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BL6K6SCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tBu90ePlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Opening hook: Most retrofit LEDs feel like an afterthought — a round puck shoved into a round hole with a spring that fights you the whole way. The NUWATT Square Recessed Retrofit 6-inch breaks that mold, and at 4.9 stars from 245 ratings, buyers clearly agree. But square trims bring their own quirks, and I'm going to walk you through exactly what works, what doesn't, and whether a 12-pack of these belongs in your cart.

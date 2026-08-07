@@ -1,4 +1,5 @@
 ---
+
 title: "ANJHOME Mid Century Modern Accent Chair, Comfy Fabric Living"
 seo_title: "ANJHOME Mid Century Modern Accent Chair Review (2026)"
 meta_description: "Honest ANJHOME Mid Century Modern Accent Chair review: comfort, build quality, assembly, and who should buy this 4.1-star fabric chair."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BLZDVQZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RphxXqiPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood legs with a mid-century splayed angle that actually hold up — no wobble reported after months of daily use"
   - "Fabric upholstery is soft to the touch and resists pilling better than most chairs in this price bracket"
   - "Assembly takes under 15 minutes with only four bolts — no specialized tools needed"
-cons:
+cons: 
   - "Seat cushion is firmer than the 'comfy' name suggests — not ideal for marathon TV sessions"
   - Backrest sits lower than standard accent chairs, which can be an issue for taller users (5'10 inch " and up)
+
 ---
 
 **The ANJHOME Mid Century Modern Accent Chair: Style That Doesn't Cut Corners (Mostly)**

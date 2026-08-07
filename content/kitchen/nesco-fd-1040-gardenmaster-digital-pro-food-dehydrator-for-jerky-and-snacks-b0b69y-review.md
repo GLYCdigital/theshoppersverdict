@@ -1,4 +1,5 @@
 ---
+
 title: "Nesco FD-1040 Gardenmaster Digital Pro Food Dehydrator, for "
 seo_title: "Nesco FD-1040 Gardenmaster Digital Pro Food Dehydr Review"
 meta_description: "Our full nesco fd-1040 gardenmaster digital pro food dehydrator, for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B69Y3VR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u+19kHUQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Gardenmaster Digital Pro is the dehydrator for people who treat drying as a production process, not a hobby.** With a 1,000-watt motor and a fan mounted in the lid rather than the base, Nesco flipped the conventional design to push heated air downward through the stack. That means you don't rotate trays every two hours like you do with cheaper rear-fan units. It's a meaningful upgrade if you're serious about jerky, fruit leather, or bulk herb drying.

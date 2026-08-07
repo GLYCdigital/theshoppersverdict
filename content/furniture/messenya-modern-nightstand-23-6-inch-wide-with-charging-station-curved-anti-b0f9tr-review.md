@@ -1,4 +1,5 @@
 ---
+
 title: "Messenya Modern Nightstand, 23.6-Inch Wide with Charging Sta"
 seo_title: "Messenya Modern Nightstand, 23.6-Inch Wide with Ch Review"
 meta_description: "Our full messenya modern nightstand, 23.6-inch wide with charging sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9TR9L9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A8gACKT0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 4.7-star average on 235 ratings tells you something, but it doesn't tell you everything. After digging through the spec sheet, customer photos, and the actual build details, here's what I found about the Messenya Modern Nightstand — and whether it deserves a spot next to your bed.

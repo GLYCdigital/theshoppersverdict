@@ -1,4 +1,5 @@
 ---
+
 title: "Mehron Makeup Liquid Makeup | Face Paint and Body Paint Perf"
 seo_title: "Mehron Makeup Liquid Makeup | Face Paint and Body  Review"
 meta_description: "Our full mehron makeup liquid makeup | face paint and body paint perf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00JSC38K0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FfEdElulL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Frontmatter**

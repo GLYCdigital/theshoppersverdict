@@ -1,4 +1,5 @@
 ---
+
 title: "BagDream 100Pcs 16x6x12 Inches Kraft Paper Bags with Handles"
 seo_title: "BagDream Kraft Paper Bags Review: 100-Pack Bulk Gift Bags"
 meta_description: "Honest BagDream 100-pack kraft paper bag review: 16x6x12 size, twisted handles, real-world durability, and who should buy. Find out if it's worth it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07QWR9RCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413pQVnD60L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Thick 100gsm kraft paper holds up to ~8-10 lbs without tearing at the handles"
   - "Flat-folded flat bottom pops open easily — no wrestling with stubborn creases"
   - "Consistent 16x6x12 inch dimensions across all 100 bags (verified by multiple buyers)"
-cons:
+cons: 
   - "No gussets on the sides — width is locked at 6 inches, so bulky round items fit tight"
   - "Twisted paper handles can irritate hands carrying heavier loads for more than a few minutes"
   - "Plain kraft color shows scuffs and smudges quickly; no coating or lamination"
+
 ---
 
 Let's be direct: you don't need 100 paper bags unless you're running a business, packing lunches for a small army, or hosting events that demand serious volume. But if that's you, the BagDream 100-pack at 16x6x12 inches is one of the better bulk options on Amazon — and here's the proof beyond the 4.7-star average.

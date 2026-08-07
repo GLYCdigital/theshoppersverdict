@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: The Mandalorian Ambush on Mandalore Battle P"
 seo_title: "LEGO Star Wars: The Mandalorian Ambush on Mandalor Review"
 meta_description: "Our full lego star wars: the mandalorian ambush on mandalore battle p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV2F9R7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xilTYo96L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 2024 wave of LEGO Star Wars battle packs has been hit-or-miss, but the Ambush on Mandalore set (set number 75373) is the one collectors have been circling since the first leaked images. At roughly $20 for 157 pieces, you're paying a premium per brick — but you're not buying this for the bricks. You're buying it for the four minifigures, and those are genuinely excellent.

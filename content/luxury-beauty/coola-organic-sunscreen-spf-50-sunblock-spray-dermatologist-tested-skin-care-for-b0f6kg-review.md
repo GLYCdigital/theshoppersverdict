@@ -1,4 +1,5 @@
 ---
+
 title: "COOLA Organic Sunscreen SPF 50 Sunblock Spray, Dermatologist"
 seo_title: "COOLA Organic Sunscreen SPF 50 Spray Review: Worth It?"
 meta_description: "COOLA Organic Sunscreen SPF 50 Sunblock Spray review: Does this dermatologist-tested mist deliver? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6KGSZHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617v6grXtVL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly weightless finish — dries down in under 60 seconds with zero greasy residue"
   - "Clean formula with 70%+ organic ingredients and no oxybenzone or octinoxate"
   - "Spray nozzle delivers a fine, even mist that doesn't clog or sputter"
-cons:
+cons: 
   - "Price per ounce runs high compared to drugstore sprays — you'll feel it if you're applying liberally"
   - "Scent leans heavily coconut-vanilla; sensitive noses or fragrance-averse buyers may find it strong"
+
 ---
 
 **Is this the luxury sunscreen that actually earns its price tag? I tested it for two weeks on beach days, city commutes, and sweaty hikes — here's the honest breakdown.**

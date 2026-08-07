@@ -1,4 +1,5 @@
 ---
+
 title: "Benory 20Ft T-Shaped Silicone Weather Stripping Door Seal St"
 seo_title: "Benory 20Ft T-Shaped Silicone Weather Stripping Review"
 meta_description: "Honest Benory 20Ft T-Shaped Silicone Weather Stripping review: performance, adhesion, fit, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D63NH1BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rx8ma8fkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Self-adhesive backing bonds firmly to clean surfaces; holds up through repeated door slams without peeling"
   - "T-shaped design seals gaps up to 0.3 inches while still letting the door close normally"
   - "Genuine silicone — stays flexible in cold weather and doesn't crack like cheaper rubber/PVC strips"
-cons:
+cons: 
   - "Adhesive requires a 24-hour cure time before you stress the seal; impatient installation leads to peeling"
   - "20 feet is enough for one standard door, but you'll likely need a second roll for double doors or a door plus a window"
+
 ---
 
 If your door lets in drafts, dust, or the neighbor's cooking smells, you've probably stared at the gap and wondered if the fix is worth the hassle. The Benory 20Ft T-Shaped Silicone Weather Stripping is the kind of product that makes you wonder why you didn't try it sooner — provided you install it right.

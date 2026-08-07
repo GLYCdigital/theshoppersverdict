@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Expressions Round Heavy Duty Patio Umbrella Base"
 seo_title: "Backyard Expressions Umbrella Base Review: Worth It? (2026)"
 meta_description: "Honest Backyard Expressions round patio umbrella base review: weight, stability, real buyer feedback. Does this calcium carbonate base hold up? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT2QXXWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OvkOziNVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fillable design lets you choose weight — water for portability, sand for maximum stability"
   - "Fits standard 1.5-inch and 2-inch umbrella poles with the included reducer insert"
   - "Holds up in wind well when filled with sand, per multiple buyer reports"
-cons:
+cons: 
   - "Filling with sand is messy and slow — the opening is narrow and you'll need a funnel and patience"
   - "No wheels or handles, so moving it once filled is a two-person job"
   - "Plastic shell can crack if overfilled with sand or dropped on hard surfaces"
+
 ---
 
 A patio umbrella base is the least glamorous purchase you'll make this summer, and honestly, it should be. You don't buy it for looks — you buy it so your $150 umbrella doesn't become a projectile in a gust of wind. The Backyard Expressions Round Heavy Duty base has 220 ratings averaging 4.4 stars, and it's been gaining traction as a budget-friendly option. Here's the real story after digging through buyer feedback and the spec sheet.

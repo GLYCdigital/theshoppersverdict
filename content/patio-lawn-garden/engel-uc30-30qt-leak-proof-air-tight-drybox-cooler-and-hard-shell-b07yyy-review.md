@@ -1,24 +1,26 @@
 ---
+
 title: "Engel UC30 30qt Leak-Proof, Air Tight, Drybox Cooler and Har"
 seo_title: "Engel UC30 30qt Drybox Cooler Review: Leak-Proof, Worth It?"
 meta_description: "Engel UC30 30qt leak-proof drybox cooler review: real-world performance, durability, and honest downsides. Is it worth the price? Find out."
 slug: "engel-uc30-30qt-leak-proof-air-tight-drybox-cooler-and-hard-shell-b07yyy-review"
 image_alt: "Engel UC30 30qt leak-proof drybox cooler with hard shell and harness"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YYY2TJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716y17Yi0fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "True IP67 waterproof seal — survived full submersion in buyer tests, not just splashes"  
   - "Rotomolded construction shrugs off drops and truck-bed abuse without cracking"  
   - "Internal 18L capacity fits a 12-pack plus ice with room for a sandwich layer"  
-cons:  
+cons: 
   - "No wheels — at 15 lbs empty, loaded weight gets awkward for longer carries"  
   - "Latches require deliberate pressure; gloved hands or arthritic fingers will struggle"  
   - "Price sits well above generic coolers — you pay for the seal, not the insulation"
+
 ---
 
 **Engel UC30 30qt Leak-Proof Drybox Cooler Review: The Cooler That Thinks It's a Safe**

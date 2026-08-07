@@ -1,23 +1,25 @@
 ---
+
 title: "Flip Cap Lids with Leak-Proof Seal for Wide Mouth Mason Jars"
 seo_title: "Flip Cap Lids Review: Leak-Proof Wide Mouth Mason Jar Lids"
 meta_description: "Honest Flip Cap Lids review: Do these leak-proof wide mouth mason jar lids hold up? We tested sealing, durability, and real buyer feedback."
 slug: "flip-cap-lids-with-leak-proof-seal-for-wide-mouth-mason-jars-b085c8-review"
 image_alt: "Flip cap lids with leak-proof seal fitted on wide mouth mason jars"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B085C8YBSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XpLrpuOGL._AC_SL1200_.jpg"
-pros:  
+pros: 
   - "True leak-proof seal holds water upside down for hours—verified in multiple buyer tests"  
   - "Fits all standard wide mouth mason jars (Ball, Kerr, generic) without wobble or cross-threading"  
   - "Flip cap mechanism is spring-loaded and snaps shut with a satisfying click; no fumbling"  
-cons:  
+cons: 
   - "Plastic construction feels lighter than expected—not ideal for glass jars you drop frequently"  
   - "The gasket is not replaceable; once it wears out (roughly 6–8 months of heavy use), you buy a new lid"
+
 ---
 
 **The Flip Cap Lid That Actually Keeps Its Promise (Mostly)**  

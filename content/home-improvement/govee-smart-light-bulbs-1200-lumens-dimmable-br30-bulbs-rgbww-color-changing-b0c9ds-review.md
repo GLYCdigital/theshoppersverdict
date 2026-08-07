@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Smart Light Bulbs, 1200 Lumens Dimmable BR30 Bulbs, RG"
 seo_title: "Govee Smart Light Bulbs, 1200 Lumens Dimmable BR30 Review"
 meta_description: "Our full govee smart light bulbs, 1200 lumens dimmable br30 bulbs, rg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9DSQPD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X27IypvjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got recessed lighting, you know the struggle: most smart BR30 bulbs are either dim, overpriced, or both. The Govee Smart Light Bulbs (1200 Lumens, BR30) punch well above their weight class. At 4.5 stars across 225 ratings, these are quietly becoming the default recommendation for smart can lighting — and after digging into the specs and user feedback, I get why.

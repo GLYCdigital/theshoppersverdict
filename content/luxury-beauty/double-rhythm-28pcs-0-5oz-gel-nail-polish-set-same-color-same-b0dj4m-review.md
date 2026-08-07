@@ -1,4 +1,5 @@
 ---
+
 title: "Double Rhythm 28Pcs 0.5Oz Gel Nail Polish Set Same Color Sam"
 seo_title: "Double Rhythm 28Pcs Gel Nail Polish Set Review (2026)"
 meta_description: "Honest Double Rhythm 28Pcs 0.5Oz gel nail polish set review: color payoff, durability, curing time, and if this 28-shade kit is worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJ4MMNRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nkNanbvKL._SL1500_.jpg"
-pros:
+pros: 
   - "28 full-size 0.5oz bottles — not sample vials, so this kit genuinely replaces a salon polish collection"
   - "Consistent pigmentation across all 28 shades; even the light nudes and pastels hit full opacity in two coats"
   - "Self-leveling formula that smooths out brush strokes during curing, reducing filing and buffing time"
-cons:
+cons: 
   - "No color chart or swatch stickers included — you'll need to label bottles yourself to find shades quickly"
   - "The included brush is on the narrower side, so full-coverage application on wide nail beds takes an extra pass"
   - "Some darker reds and blues show minor shrinkage at the cuticle line if you don't cap the free edge properly"
+
 ---
 
 Let me be upfront: when I saw "28 pieces for this price," I assumed I'd be unboxing a set of tiny 5ml sample bottles. That's not what this is. The Double Rhythm 28Pcs Gel Polish Set delivers 28 full 0.5oz (15ml) bottles — the same size you'd buy individually from a salon supply store. That alone changes the value equation dramatically.

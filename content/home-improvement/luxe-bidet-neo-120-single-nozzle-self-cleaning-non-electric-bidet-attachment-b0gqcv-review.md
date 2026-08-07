@@ -1,4 +1,5 @@
 ---
+
 title: "LUXE Bidet NEO 120 - Single Nozzle, Self-Cleaning, Non-Elect"
 seo_title: "LUXE Bidet NEO 120 - Single Nozzle, Self-Cleaning, Review"
 meta_description: "Our full luxe bidet neo 120 - single nozzle, self-cleaning, non-elect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQCV5R7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618s5Od1+7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: you don't need a $500 smart toilet to get the benefits of a bidet. The LUXE Bidet NEO 120 proves that point with a simple, mechanical design that costs a fraction of what electric models run. But "simple" doesn't mean "perfect" — here's what 229 buyers and I have found.

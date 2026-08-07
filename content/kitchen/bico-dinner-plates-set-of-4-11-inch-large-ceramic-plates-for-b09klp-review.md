@@ -1,4 +1,5 @@
 ---
+
 title: "Bico Dinner Plates Set of 4, 11 Inch Large Ceramic Plates fo"
 seo_title: "Bico Dinner Plates Set of 4 Review: 11-Inch Ceramic"
 meta_description: "Bico dinner plates set of 4 review: 11-inch ceramic plates that resist chips, stack neatly, and survive daily use. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KLPP3GH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wplPw1tVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 11-inch diameter — handles full plated meals without crowding, unlike many 'dinner' plates that run small"
   - "Durable ceramic resists chipping; multiple buyers report drops and dishwasher cycles with no damage"
   - "Heat-resistant glaze safe for microwave and oven up to 350°F, so they pull double duty as serving pieces"
-cons:
+cons: 
   - "Heavier than typical stoneware at roughly 2.5 lbs per plate — not ideal for weak cabinets or arthritic hands"
   - "No non-slip ring on the base; plates can slide on smooth tables unless placemats are used"
   - "Speckled finish shows fork scratches over time on dark colors, per a handful of long-term reviews"
+
 ---
 
 You know those dinner plates that look great in the listing photos, then arrive looking like salad plates? The Bico Dinner Plates Set of 4 is not that. At a true 11 inches across, these are unapologetically large — the kind of plate that lets you build a full meal without the roast touching the green beans. After digging through 229 ratings averaging 4.6 stars, here's the real story.

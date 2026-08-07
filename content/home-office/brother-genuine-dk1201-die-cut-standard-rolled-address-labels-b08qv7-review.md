@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine DK1201 Die-Cut Standard Rolled Address Label"
 seo_title: "Brother DK1201 Label Review: Reliable Address Labels"
 meta_description: "Honest Brother DK1201 label review: 4.8-star rated die-cut address labels for QL printers. See real user feedback, sizing details, and compatibility tips."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08QV7P791/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711CaB09J9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True die-cut perforation — labels peel cleanly without tearing or curling edges, even when you're in a hurry"
   - "Consistent adhesive that sticks firmly to envelopes, poly mailers, and corrugated boxes without lifting"
   - "Prints crisp, smudge-free text at high speed with zero jams in Brother QL label printers"
-cons:
+cons: 
   - "Price per label runs higher than third-party alternatives — you're paying for the Brother name"
   - "Only 62mm x 29mm size — no flexibility if you need larger or custom dimensions"
   - "Rolls are non-refillable; you must buy new cartridges rather than reloading with generic tape"
+
 ---
 
 If you own a Brother QL label printer, you already know the frustration of a label roll that jams mid-run or peels apart in your hands. The DK1201 is Brother's answer to that — and with a 4.8-star average across 240 ratings, it's clearly working for most people. But is it worth the premium over generic alternatives? Let's dig in.

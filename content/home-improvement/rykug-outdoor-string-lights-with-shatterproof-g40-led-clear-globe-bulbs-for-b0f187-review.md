@@ -1,4 +1,5 @@
 ---
+
 title: "RYKUG Outdoor String Lights with Shatterproof G40 LED Clear "
 seo_title: "RYKUG Outdoor String Lights with Shatterproof G40  Review"
 meta_description: "Our full rykug outdoor string lights with shatterproof g40 led clear  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F187GKML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zLWhuALDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me skip the preamble and get straight to it: if you're tired of replacing broken string lights every season, the RYKUG G40 set is worth a hard look. At 4.6 stars from 229 ratings, this isn't a flash-in-the-pan product — it's earned its reputation. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Liberty Garden Hose Pot"
 seo_title: "Liberty Garden Hose Pot Review: Verdict | TSV"
 meta_description: "Our full liberty garden hose pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9HC4DZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iCc2LMwvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your current hose is a tangled mess draped over a spigot, the Liberty Garden Hose Pot is the upgrade your patio has been waiting for. This isn't a flimsy plastic reel that cracks by September — it's a decorative urn that actually functions as storage. With 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right. But is it the right hose solution for *your* yard? Let's dig in.

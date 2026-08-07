@@ -1,4 +1,5 @@
 ---
+
 title: "Apple MacBook Air 13-inch (M2)"
 seo_title: "Apple MacBook Air 13-inch M2 Review: Still Worth It in 2026?"
 meta_description: "Honest Apple MacBook Air 13-inch M2 review: performance, battery, display, and real tradeoffs. Is this 2022 laptop still worth buying in 2026?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLJ564WX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eXNIDUGjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "M2 chip sustains full performance without a fan — genuinely silent under heavy spreadsheet and video workloads"
   - "18-hour real-world battery life; I got a full work week on 4–5 hours of daily use"
   - "Liquid Retina display hits 500 nits — readable in direct sunlight on a patio table"
-cons:
+cons: 
   - "Single external display support only — a genuine constraint for multi-monitor office setups"
   - "Base model ships with 8GB RAM and 256GB SSD; the SSD is slower than the 512GB version"
+
 ---
 
 **Review Body:**

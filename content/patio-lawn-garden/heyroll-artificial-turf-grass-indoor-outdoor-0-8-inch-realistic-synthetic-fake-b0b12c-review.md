@@ -1,4 +1,5 @@
 ---
+
 title: "Heyroll Artificial Turf Grass Indoor Outdoor, 0.8 inch Reali"
 seo_title: "Heyroll Artificial Turf Grass Indoor Outdoor, 0.8  Review"
 meta_description: "Our full heyroll artificial turf grass indoor outdoor, 0.8 inch reali review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B12CB2YH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rUsfUSGYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Heyroll 0.8-Inch Turf Worth Your Money?

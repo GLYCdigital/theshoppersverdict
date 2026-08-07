@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Tidy Cats Bahama Sunset Scented Clumping Cat Litter O"
 seo_title: "Purina Tidy Cats Bahama Sunset Scented Clumping Ca Review"
 meta_description: "Our full purina tidy cats bahama sunset scented clumping cat litter o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNRFN88C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91yLX7dzdSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Scented Clumping Litter That Actually Earns Its Tropical Name**

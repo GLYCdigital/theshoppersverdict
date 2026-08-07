@@ -1,4 +1,5 @@
 ---
+
 title: "Well Woven Lezlee Glam Abstract Pattern Area Rug"
 seo_title: "Well Woven Lezlee Glam Abstract Pattern Area Rug Review: "
 meta_description: "Our full well woven lezlee glam abstract pattern area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Z7MJ6ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91qXlA2kXUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Well Woven Lezlee Glam worth your floor space? Here's the honest breakdown.**

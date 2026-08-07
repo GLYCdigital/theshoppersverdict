@@ -1,4 +1,5 @@
 ---
+
 title: "Workstation 16 Gauge Stainless Steel Undermount Kitchen Sink"
 seo_title: "Workstation 16 Gauge Stainless Steel Undermount Ki Review"
 meta_description: "Our full workstation 16 gauge stainless steel undermount kitchen sink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FR98SGPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rIIlJCEKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Workstation 16 Gauge Stainless Steel Undermount Kitchen Sink** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

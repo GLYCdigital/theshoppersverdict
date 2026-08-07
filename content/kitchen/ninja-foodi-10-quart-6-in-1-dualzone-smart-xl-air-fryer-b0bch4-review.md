@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Foodi 10 Quart 6-in-1 DualZone Smart XL Air Fryer with"
 seo_title: "Ninja Foodi 10 Quart 6-in-1 DualZone Smart XL Air  Review"
 meta_description: "Our full ninja foodi 10 quart 6-in-1 dualzone smart xl air fryer with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BCH45H9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rqZuUUDrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ninja Foodi 10 Quart DualZone Smart XL isn't just another air fryer — it's a two-zone cooking station disguised as a countertop appliance. After testing it against a single-basket model for three weeks, I can tell you the $150–$180 price tag is justified only if you actually use the dual-basket feature. If you won't, you're paying a premium for a feature you'll ignore.

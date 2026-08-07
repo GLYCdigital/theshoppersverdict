@@ -1,4 +1,5 @@
 ---
+
 title: "Clinique For Men Super Energizer Anti-Fatigue De-Puffing Eye"
 seo_title: "Clinique For Men Super Energizer Eye Review (2026): Worth It?"
 meta_description: "Clinique For Men Super Energizer De-Puffing Eye review: Does this caffeine-packed eye gel cream beat dark circles? Real results, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07GV1C8WL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w4gY4PzQL._SL1500_.jpg"
-pros:
+pros: 
   - "Caffeine and vitamin C formula visibly tightens under-eye bags within 10 minutes of application"
   - "Oil-free gel texture absorbs in seconds with zero greasy residue — ideal under sunscreen or moisturizer"
   - "Fragrance-free and ophthalmologist-tested, so it won't sting even if you rub your eyes post-application"
-cons:
+cons: 
   - "The 0.5 oz tube is small for the price point — expect 6-8 weeks of twice-daily use, not months"
   - "Cooling effect is subtle and short-lived; don't expect a dramatic menthol blast like some competitors"
+
 ---
 
 **The $30 Question: Can a Men's Eye Cream Actually Fix Your 7 AM Face?**

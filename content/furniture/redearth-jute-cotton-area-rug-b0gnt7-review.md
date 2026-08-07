@@ -1,4 +1,5 @@
 ---
+
 title: "Â· REDEARTH Â· Jute Cotton Area Rug"
 seo_title: "Â· REDEARTH Â· Jute Cotton Area Rug Review: Verdict | TSV"
 meta_description: "Our full â· redearth â· jute cotton area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GNT7X738/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d7Sk2UPVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for that beach-house-meets-Brooklyn-loft look without dropping $400 on a wool rug, the REDEARTH Jute Cotton Area Rug is worth a serious look. At 4.3 stars across 215 ratings, this one's got real traction with buyers. But jute is a specific material with specific quirks — let's talk about whether it actually fits your life.

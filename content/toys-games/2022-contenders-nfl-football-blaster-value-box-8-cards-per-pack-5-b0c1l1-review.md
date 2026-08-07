@@ -1,24 +1,26 @@
 ---
+
 title: "2022 Contenders NFL Football Blaster Value Box 8 Cards Per P"
 seo_title: "2022 Contenders NFL Blaster Value Box Review: Worth It?"
 meta_description: "2022 Contenders NFL Football Blaster Value Box review: 8 cards per pack, 5 packs, autograph odds, card quality, and who should buy. Honest verdict inside."
 slug: "2022-contenders-nfl-football-blaster-value-box-8-cards-per-pack-5-b0c1l1-review"
 image_alt: "2022 Contenders NFL Football Blaster Value Box with 5 packs of 8 cards each, featuring rookie ticket cards and autograph chase cards"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1L1648Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yvRS+mJOL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Five packs per box — 40 total cards for a budget-friendly entry into Contenders"  
   - "Rookie Ticket inserts are the chase — real on-card autograph potential in every box"  
   - "Thick card stock and clean design hold up well for collectors and casual fans"  
-cons:  
+cons: 
   - "Only 8 cards per pack — most are base veterans, so filler is unavoidable"  
   - "Autograph odds are long (1 in ~24 boxes) — don't buy expecting a hit"  
   - "No guaranteed rookie or parallel in every box; you can strike out entirely"
+
 ---
 
 If you've ever stared at a hobby box of Contenders and winced at the $300+ price tag, this blaster is the gateway drug. The 2022 Contenders NFL Football Blaster Value Box gives you five packs of eight cards for a fraction of hobby cost — but "value" is doing a lot of heavy lifting here. Let's break down what you're actually getting.

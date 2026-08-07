@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Aaron's Strawberry Shortcake™ SCENTsory® Putty - Ma"
 seo_title: "Crazy Aaron's Strawberry Shortcake Putty Review (2026)"
 meta_description: "Honest Crazy Aaron's Strawberry Shortcake SCENTsory Putty review: texture, scent strength, durability, and whether this 4.7-star sensory toy is worth buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJGZX4CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gClrTHK7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Signature Crazy Aaron's buttery texture that stretches without tearing or leaving residue"
   - "Genuine strawberry scent that's noticeable but not overpowering — lasts weeks with regular play"
   - "Comes in a resealable tin that actually protects the putty from dust and drying out"
-cons:
+cons: 
   - "Scent fades noticeably after 3-4 weeks of daily handling, not indefinite as some expect"
   - "Pink color transfers slightly to hands with heavy play — harmless but worth knowing"
   - "No heat-sensitive color change or glitter, so it's simpler than other SCENTsory varieties"
+
 ---
 
 Crazy Aaron's has built a cult following for one reason: their putty feels unlike anything else in the sensory toy aisle. The Strawberry Shortcake™ SCENTsory® Putty carries that reputation forward with a sweet twist — but is it worth your money, or just another gimmick in a tin? After digging through 235 ratings and the product specs, here's the real story.

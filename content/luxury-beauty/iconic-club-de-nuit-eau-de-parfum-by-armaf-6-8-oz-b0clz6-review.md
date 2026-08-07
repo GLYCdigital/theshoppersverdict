@@ -1,4 +1,5 @@
 ---
+
 title: "Iconic Club De Nuit Eau De Parfum by Armaf 6.8 Oz (Men)"
 seo_title: "Iconic Club De Nuit Eau De Parfum by Armaf 6.8 Oz  Review"
 meta_description: "Our full iconic club de nuit eau de parfum by armaf 6.8 oz (men) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLZ6P4HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FxGeCr6hL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. Armaf's Iconic Club De Nuit is the fragrance equivalent of discovering a well-kept secret — a 200ml bottle of Eau de Parfum that undercuts designer pricing by a staggering margin. But is it actually good, or just cheap? I've worn this for three weeks across office days, evening dinners, and gym sessions. Here's the unfiltered truth.

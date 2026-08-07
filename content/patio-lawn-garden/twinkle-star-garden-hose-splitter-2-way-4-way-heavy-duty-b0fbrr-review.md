@@ -1,4 +1,5 @@
 ---
+
 title: "Twinkle Star Garden Hose Splitter 2 Way 4 Way Heavy Duty"
 seo_title: "Twinkle Star Garden Hose Splitter 2 Way 4 Way Heav Review"
 meta_description: "Our full twinkle star garden hose splitter 2 way 4 way heavy duty review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBRR73HT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ofbybNkvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Twinkle Star Garden Hose Splitter 2 Way 4 Way Heavy Duty Review: Two Brass Workhorses for Under $30**

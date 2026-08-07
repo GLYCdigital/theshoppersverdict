@@ -1,4 +1,5 @@
 ---
+
 title: "ZeeDix Coconut Liners for Planters, Round Hanging Basket 100"
 seo_title: "ZeeDix Coconut Liners for Planters, Round Hanging  Review"
 meta_description: "Our full zeedix coconut liners for planters, round hanging basket 100 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLYWPLRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jvmOBA8kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **ZeeDix Coconut Liners for Planters, Round Hanging Basket 100** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

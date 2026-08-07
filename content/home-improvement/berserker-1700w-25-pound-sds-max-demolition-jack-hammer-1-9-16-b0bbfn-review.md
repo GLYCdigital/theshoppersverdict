@@ -1,4 +1,5 @@
 ---
+
 title: "Berserker 1700W 25-Pound SDS-Max Demolition Jack Hammer, 1-9 inch"
 seo_title: "Berserker 1700W SDS-Max Jack Hammer Review: Real Power?"
 meta_description: "Berserker 1700W 25-pound SDS-Max demolition jack hammer review: real-world breaking power, durability, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BBFN8LZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71liC6iBgmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1700W motor delivers genuine 45+ joules of impact energy — breaks 6-inch concrete slabs without bogging down"
   - "Anti-vibration handle system plus rubberized grips make extended demo work far less punishing than typical sub-$300 breakers"
   - "Includes 3 quality SDS-Max chisels, spare carbon brushes, and a hard case — value that undercuts rental costs after just 2 uses"
-cons:
+cons: 
   - "Weighs 27.5 pounds with the side handle mounted — genuinely tiring overhead or vertical work; plan for two-handed control"
   - "Safety trigger requires constant pressure; a lock-on button is absent, so sustained horizontal breaking fatigues your index finger"
+
 ---
 
 If you've priced a weekend jackhammer rental lately, you know the drill: $80–120 per day, a deposit, and a return deadline that looms over the job. The Berserker 1700W SDS-Max demolition hammer — priced at roughly the cost of two rental days — changes that math. But does a sub-$300 breaker actually hold up when you're smashing through a driveway or chipping out a foundation footer? Having tracked 229 verified buyer experiences and dug into the specs, here's the real story.

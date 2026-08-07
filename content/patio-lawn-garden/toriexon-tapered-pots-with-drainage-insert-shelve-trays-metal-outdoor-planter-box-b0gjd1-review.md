@@ -1,4 +1,5 @@
 ---
+
 title: "Toriexon Tapered Pots with Drainage Insert Shelve & Trays, M"
 seo_title: "Toriexon Tapered Pots with Drainage Insert Shelve  Review"
 meta_description: "Our full toriexon tapered pots with drainage insert shelve & trays, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GJD19FKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qI0D96XUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Toriexon Tapered Pot isn't a flashy planter. It's a functional one — and that's exactly what some gardeners need.**

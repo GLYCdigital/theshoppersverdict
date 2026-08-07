@@ -1,4 +1,5 @@
 ---
+
 title: "Spec Ops Tools Pry Bar, Crowbar for Demolition & Nail Pullin"
 seo_title: "Spec Ops Tools Pry Bar, Crowbar for Demolition & N Review"
 meta_description: "Our full spec ops tools pry bar, crowbar for demolition & nail pullin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTM49TLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uTKmjjRBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a ring-shank nail for twenty minutes with a flimsy wonder bar, you know the difference between a pry tool and a pry weapon. The Spec Ops Tools Pry Bar is the latter — a 16-inch slab of forged high-carbon steel that treats stubborn nails like a personal insult.

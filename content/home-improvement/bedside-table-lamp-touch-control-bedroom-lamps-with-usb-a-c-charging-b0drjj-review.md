@@ -1,4 +1,5 @@
 ---
+
 title: "Bedside Table Lamp Touch Control Bedroom Lamps with USB A +"
 seo_title: "Bedside Table Lamp Touch Control Review: USB Charging & Dimming"
 meta_description: "Honest review of the touch control bedside lamp with USB-A+C charging. See how it performs for nightstand use, plus real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRJJDLYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71ZBacTW+aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-step dimming (bright, medium, nightlight) with a simple tap — no fumbling for a switch in the dark"
   - "Built-in USB-A and USB-C ports deliver 5V/2A charging, so your phone and earbuds stay topped off overnight"
   - "Stable weighted base and fabric shade diffuse light evenly without hot spots"
-cons:
+cons: 
   - "Touch controls are sensitive — brushing the base while reaching for your phone can accidentally cycle through brightness modes"
   - "USB ports sit on the base, so cable management gets messy if you don't have a short right-angle cord"
+
 ---
 
 ### The Nightstand Upgrade That Actually Earns Its Keep

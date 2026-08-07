@@ -1,4 +1,5 @@
 ---
+
 title: "Full Circle International Inc. R360 Radius360 Sanding Tool w"
 seo_title: "Radius360 Sanding Tool Review: Full Circle R360 Tested"
 meta_description: "Full Circle R360 Radius360 sanding tool review: Does this curved-sanding attachment beat standard blocks? Real-world test results, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B18KH1LB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a6Uz1-rKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flexible curved sanding surface conforms to contours, coves, and rounded edges that standard blocks and orbital sanders can't reach"
   - "Interchangeable center hub system lets you swap grits mid-project without digging out a new tool"
   - "Ergonomic grip reduces hand fatigue during extended sanding sessions"
-cons:
+cons: 
   - "Requires proprietary Radius360 replacement sheets — standard 1/4-sheet paper won't fit"
   - "Not ideal for large flat surfaces where a power sander is significantly faster"
+
 ---
 
 Sanding curved surfaces has always been the awkward stepchild of woodworking. You've got your orbital sander for flat panels, your detail sander for corners, and then... what? A rolled-up piece of paper and a prayer? The Full Circle International R360 Radius360 aims to close that gap, and with 235 ratings averaging 4.7 stars, it's clearly earning its keep in workshops. Here's what you need to know before adding it to your cart.

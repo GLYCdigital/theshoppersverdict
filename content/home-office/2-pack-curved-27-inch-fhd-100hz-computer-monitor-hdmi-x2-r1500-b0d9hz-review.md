@@ -1,4 +1,5 @@
 ---
+
 title: "2-Pack Curved 27 Inch FHD 100Hz Computer Monitor, HDMI X2, R"
 seo_title: "2-Pack Curved 27 Inch FHD 100Hz Monitors Review (2026)"
 meta_description: "Honest review of the 2-Pack Curved 27 inch  FHD 100Hz monitor with dual HDMI. Real performance, build quality, and who should buy it. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9HZDBFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Jv1u-M+RL._AC_SL1409_.jpg"
-pros:
+pros: 
   - "True 100Hz refresh rate with FreeSync support delivers noticeably smoother scrolling and motion than standard 60Hz panels"
   - "Out-of-box color accuracy is surprisingly solid for the price, with minimal calibration needed for office work"
   - "VESA 100x100 mount compatibility on both units means you're not locked into the included stands"
-cons:
+cons: 
   - "The 1500R curve is subtle — if you want an immersive wrap-around feel, this won't deliver it"
   - "Only 2 HDMI inputs per monitor, no DisplayPort or USB-C, limiting modern laptop connectivity options"
   - "Stand offers tilt-only adjustment; no height or swivel without buying aftermarket arms"
+
 ---
 
 Two 27-inch curved monitors for the price of one decent panel — that's the headline grabber. But the real question is whether these budget-friendly displays hold up for daily work or if you're just stacking up cheap glass. After digging through the specs and the 229 ratings (4.6/5 average), here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Power Chew Double Bone Chew Toy"
 seo_title: "Power Chew Double Bone Chew Toy Review: Verdict | TSV"
 meta_description: "Our full power chew double bone chew toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8RWMH1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610pS6SxhBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog treats every plush toy as a personal challenge to find the stuffing inside, you've probably cycled through a dozen "indestructible" claims that fell apart in under an hour. The Power Chew Double Bone takes a different approach — it doesn't try to be soft or cuddly. It's a dense, dual-ended nylon chew with a rope core, and it's designed for one thing: giving heavy chewers something that outlasts their determination.

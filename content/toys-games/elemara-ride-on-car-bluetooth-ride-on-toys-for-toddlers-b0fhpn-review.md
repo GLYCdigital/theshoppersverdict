@@ -1,4 +1,5 @@
 ---
+
 title: "ELEMARA Ride On Car, Bluetooth Ride on Toys for Toddlers"
 seo_title: "ELEMARA Ride On Car Review: Bluetooth Toddler Toy (2026)"
 meta_description: "Honest ELEMARA ride on car review: Bluetooth audio, 2-speed modes, and build quality tested. See what 225+ parents say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHPN319S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hku5KHC9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual control modes (parent remote + child steering) give you real oversight at low speeds"
   - "Bluetooth pairing actually works — pairs fast and holds connection at 15+ feet"
   - "2.4G remote with 3-speed settings lets you lock it to 1.5 mph for indoor first rides"
-cons:
+cons: 
   - "Assembly takes 45+ minutes — the steering column and front wheel alignment are fiddly"
   - "Battery life is 60–90 minutes per charge, which feels short for the price tier"
+
 ---
 
 ## Is the ELEMARA Ride On Car Worth Your Money?

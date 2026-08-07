@@ -1,4 +1,5 @@
 ---
+
 title: "ControlTek SafeLok 9 inch  x 12 inch , Clear, 100 Bags, Tamper-Evident"
 seo_title: "ControlTek SafeLok 9x12 Clear Bags Review: Tamper-Evident Security"
 meta_description: "ControlTek SafeLok 9 inch x12 inch  clear tamper-evident bags reviewed: 100-count security seal bags for cash deposits, evidence, and sensitive documents. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07TYVC8YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qi7Fv9oVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clear 2-mil plastic lets you verify contents without opening — no guessing what's inside"
   - "Red tamper-evident seal leaves a permanent 'VOID' pattern if anyone tries to peel it"
   - "Numbered sequential ID strips on each bag create a simple audit trail for cash handling"
-cons:
+cons: 
   - "Plastic is thinner than heavy-duty evidence bags — not ideal for sharp objects or long-term storage"
   - "Adhesive seal requires a firm, deliberate press; a rushed close can leave weak spots"
+
 ---
 
 Let’s be honest about what these bags are: they’re not a luxury purchase. They’re a security tool for anyone who moves cash, sensitive documents, or controlled materials between locations. And for that job, the ControlTek SafeLok 9" x 12" clear bags are quietly excellent.

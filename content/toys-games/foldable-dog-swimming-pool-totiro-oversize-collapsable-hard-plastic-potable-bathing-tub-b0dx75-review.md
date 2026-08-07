@@ -1,4 +1,5 @@
 ---
+
 title: "Foldable Dog Swimming Pool, Totiro Oversize Collapsable Hard"
 seo_title: "Totiro Foldable Dog Pool Review: Oversize & Durable"
 meta_description: "Honest Totiro foldable dog swimming pool review: durability, setup, leaks & size. See if this oversize collapsible tub is worth your money."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DX758QLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CZGX2UKOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid 4-layer sidewalls hold their shape without inflating or propping — no pump, no poles, no sagging when a 70-lb dog climbs in"
   - "Folds flat to roughly the thickness of a yoga mat, making it genuinely stowable in a trunk or closet between uses"
   - "Large 47-inch top diameter gives big breeds room to actually paddle, not just stand"
-cons:
+cons: 
   - "Assembling the interlocking side panels takes a solid 10-15 minutes the first time, and the fit is tight enough to test your patience"
   - "No drain plug — you'll be tipping it over or siphoning water out, which is awkward at that size"
   - "PVC material has a noticeable chemical odor out of the box that lingers a few days, even after rinsing"
+
 ---
 
 Let's cut through the noise: most "portable" dog pools are flimsy vinyl rings that collapse the second your lab decides to actually swim. The Totiro Oversize Foldable Pool takes a different approach — it's a hard-sided, collapsible tub that relies on interlocking panels instead of air. That design choice makes it a genuine contender, but it's not without compromises. Here's what you need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "20000+ Magic Purple Creeping Thyme Seeds for Planting Ground"
 seo_title: "Magic Purple Creeping Thyme Seeds Review: Worth It? (2026)"
 meta_description: "Honest review of 20000+ Magic Purple Creeping Thyme seeds. Mixed results, low germination rates reported. Is this ground cover worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0C699249C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810FptDzLKL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Genuinely tiny seeds — the 20,000 count is believable; you get a lot of physical material for the price"
   - "The purple variety is true to type if you get germination; flowers are a rich violet, not washed-out pink"
   - "Works as a slow, low-growing lawn alternative in zones 5-9 with patience and consistent moisture"
-cons:
+cons: 
   - "Germination is the bottleneck — multiple buyers report near-zero sprouting without cold stratification or a heat mat"
   - "Seeds are dust-like and clump together; even distribution is nearly impossible without mixing with sand"
   - "3.0-star average is telling — this is a finicky seed packet, not a guaranteed ground cover solution"
+
 ---
 
 Let’s be blunt: a bag of 20,000+ creeping thyme seeds sounds like a steal. But the 3.0-star average across 150 ratings tells a more complicated story. Here’s what you’re actually getting.

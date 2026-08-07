@@ -1,4 +1,5 @@
 ---
+
 title: "BLANCO Kitchen Sink"
 seo_title: "BLANCO Kitchen Sink Review (2026): Is It Worth It?"
 meta_description: "Honest BLANCO kitchen sink review: build quality, real-world performance, and who should buy it. Pros, cons, and verdict from 215 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CBL71ZH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LirAYxCWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "16-gauge stainless steel resists dents and warping far better than the 18-gauge sinks common at this price"
   - "Undermount design with a 33-inch bowl fits standard 36-inch cabinets without custom fabrication"
   - "Sound-dampening pads and undercoating cut dishwasher and disposal noise by roughly half in real use"
-cons:
+cons: 
   - "Shows water spots and fingerprints quickly—a matte finish option would help but isn't offered"
   - "Packaging is minimal; several buyers reported minor scratches on arrival that required polishing"
+
 ---
 
 A kitchen sink is one of those purchases you make once and live with for a decade. Get it wrong and you're staring at scratches, dents, and annoying noise every single day. The BLANCO kitchen sink (model B0CBL71ZH9) has been sitting at a solid 4.3 stars across 215 Amazon ratings, so the baseline is promising. But let's dig past the star average and talk about whether this specific sink belongs in your kitchen.

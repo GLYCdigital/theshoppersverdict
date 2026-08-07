@@ -1,4 +1,5 @@
 ---
+
 title: "Fitness Journal Workout Planner for Women & Men"
 seo_title: "Fitness Journal Workout Planner for Women & Men Review: V"
 meta_description: "Our full fitness journal workout planner for women & men review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FX26ZL7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813dHwvaD4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some fitness journals are basically glorified calendars. This one actually understands how people train. The **Fitness Journal Workout Planner** earns its 4.7-star rating across 235 reviews by doing the unglamorous work: giving you structured spaces to log sets, reps, and weights without forcing you into a rigid schedule.

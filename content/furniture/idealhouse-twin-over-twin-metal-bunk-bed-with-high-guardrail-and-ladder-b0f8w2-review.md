@@ -1,4 +1,5 @@
 ---
+
 title: "IDEALHOUSE Twin Over Twin Metal Bunk Bed with High Guardrail"
 seo_title: "IDEALHOUSE Twin Over Twin Metal Bunk Bed with High Review"
 meta_description: "Our full idealhouse twin over twin metal bunk bed with high guardrail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F8W2TQ61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DGS7JHPfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

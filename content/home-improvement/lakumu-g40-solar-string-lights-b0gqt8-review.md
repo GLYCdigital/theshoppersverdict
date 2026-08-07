@@ -1,4 +1,5 @@
 ---
+
 title: "Lakumu G40 Solar String Lights"
 seo_title: "Lakumu G40 Solar String Lights Review: Verdict | TSV"
 meta_description: "Our full lakumu g40 solar string lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQT8Q56K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7179ChSaRoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lakumu G40 Solar String Lights solve the problem most solar sets get wrong: they actually look like real string lights. Most budget globes are tiny, dim, and plastic-looking. These are 2.4-inch diameter bulbs with visible filament-style LEDs inside. From 15 feet away, guests can't tell they're solar. That's the whole ballgame for outdoor entertaining.

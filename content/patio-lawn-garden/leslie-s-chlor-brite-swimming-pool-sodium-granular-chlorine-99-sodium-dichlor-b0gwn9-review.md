@@ -1,4 +1,5 @@
 ---
+
 title: "Leslie's Chlor Brite Swimming Pool Sodium Granular Chlorine "
 seo_title: "Leslie's Chlor Brite Swimming Pool Sodium Granular Review"
 meta_description: "Our full leslie's chlor brite swimming pool sodium granular chlorine  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWN9F6NF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RlGIst39L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about pool chlorine: most granular options are either slow-dissolving calcium hypochlorite that clouds your water, or unstabilized dichlor that evaporates in an afternoon of full sun. Leslie's Chlor Brite sidesteps both problems with a 99% sodium dichlor formula that's stabilized and fast-acting. If you're tired of shocking your pool only to see chlorine readings drop to zero by dinner, this is worth a serious look.

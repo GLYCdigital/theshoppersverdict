@@ -1,4 +1,5 @@
 ---
+
 title: "Pterying Weed Barrier Landscape Fabric Heavy Duty, Premium G"
 seo_title: "Pterying Weed Barrier Landscape Fabric Heavy Duty, Review"
 meta_description: "Our full pterying weed barrier landscape fabric heavy duty, premium g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GMGNKPZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E5jpjns8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Does This Fabric Actually Stop Weeds—or Just Slow Them Down?

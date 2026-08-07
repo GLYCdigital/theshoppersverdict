@@ -1,4 +1,5 @@
 ---
+
 title: "InSinkErator Premium Instant Hot Water Dispenser"
 seo_title: "InSinkErator Premium Instant Hot Water Dispenser Review: "
 meta_description: "Our full insinkerator premium instant hot water dispenser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVSJLBP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iOIjytWnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood at the stove waiting for a kettle to boil just to make one cup of tea, the InSinkErator Premium Instant Hot Water Dispenser is about to change your kitchen workflow. This isn't a fancy electric kettle—it's a dedicated under-sink system that puts 200°F water on tap, 24/7. That's the headline feature, and it delivers.

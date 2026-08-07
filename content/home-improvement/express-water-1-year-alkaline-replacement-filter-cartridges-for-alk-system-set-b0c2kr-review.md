@@ -1,4 +1,5 @@
 ---
+
 title: "Express Water 1-Year Alkaline Replacement Filter Cartridges"
 seo_title: "Express Water Alkaline Filter Cartridges Review (2026)"
 meta_description: "Honest review of Express Water 1-Year Alkaline Replacement Filter Cartridges. Real performance data, lifespan details, and buying advice for your RO system."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2KR5RFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717mchJnjVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Restores beneficial minerals stripped by RO filtration, improving taste and pH balance"
   - "True 12-month lifespan at standard household usage — fewer changeouts than 6-month competitors"
   - "Direct drop-in fit for Express Water RO systems with standard 1/4-inch quick-connect fittings"
-cons:
+cons: 
   - "Only compatible with Express Water systems — not universal across other RO brands"
   - "Filter housing wrench required for installation, which isn't included in this set"
+
 ---
 
 You've already dropped serious money on a reverse osmosis system. Now you're staring at the replacement filter schedule and wondering if the alkaline stage is worth the extra cost — or if you can just skip it and save twenty bucks. Here's the straight answer: if you care about water taste and pH, the alkaline cartridge is the one filter you shouldn't skip. Here's why.

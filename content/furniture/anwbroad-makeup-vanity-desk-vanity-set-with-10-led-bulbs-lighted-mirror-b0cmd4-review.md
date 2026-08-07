@@ -1,4 +1,5 @@
 ---
+
 title: "ANWBROAD Makeup Vanity Desk Vanity Set with 10 LED Bulbs Lig"
 seo_title: "ANWBROAD Makeup Vanity Desk Review: 10 LED Bulbs & Storage (2026)"
 meta_description: "ANWBROAD makeup vanity desk with 10 LED bulbs, cushioned stool & storage drawers. Real buyer feedback, pros, cons, and who should buy it in our 2026 review."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CMD4G5J7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pimzDRHQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ten bright LED bulbs provide shadow-free, adjustable lighting with three color modes — genuinely useful for makeup application, not just decorative"
   - "Includes a matching cushioned stool and two side storage drawers, so you get a complete setup for the price of what many brands charge for just the desk"
   - "Sturdy particleboard construction with a smooth, easy-to-clean surface that holds up well for daily use"
-cons:
+cons: 
   - "Assembly is time-consuming (45–60 minutes) with multiple small screws; the instructions are mostly diagram-based with minimal text"
   - "The mirror is not height-adjustable, which can be a problem for taller users or those who prefer to sit higher"
   - "LED bulbs are non-replaceable individually — if one burns out, you need to replace the entire light strip (roughly $20–$30)"
+
 ---
 
 If you've been scrolling past "Hollywood mirror" vanities because they look like overpriced dorm-room decor, the ANWBROAD Makeup Vanity Set deserves a second look. This isn't a flimsy prop piece — it's a functional workstation that actually solves the two biggest vanity problems: poor lighting and zero storage. With 215 ratings averaging 4.3 stars, the consensus is clear: this is a solid mid-range option that undercuts the big names without feeling cheap.

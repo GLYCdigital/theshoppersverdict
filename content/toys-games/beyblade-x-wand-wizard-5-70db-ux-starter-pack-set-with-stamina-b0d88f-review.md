@@ -1,4 +1,5 @@
 ---
+
 title: "Beyblade X Wand Wizard 5-70DB UX Starter Pack Set with Stami"
 seo_title: "Beyblade X Wand Wizard 5-70DB UX Starter Pack Review"
 meta_description: "Beyblade X Wand Wizard 5-70DB UX Starter Pack review: balanced stamina build, solid launcher, and real tournament potential. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D88F42DH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r2Z1ixH+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wand Wizard's 5-70 DB combo delivers genuine tournament-level stamina — it outlasts most attack-types in the current X-verse meta"
   - "The Stami launcher grip is surprisingly ergonomic for a starter set, with a satisfying ratchet click that gives consistent ripcord pulls"
   - "Comes with a proper UX-10 stadium that's 20% wider than the standard entry arena — matches actual WBO tournament dimensions"
-cons:
+cons: 
   - "DB (Disc Ball) bit has a tendency to self-destruct on hard X-Dash launches if you over-rip — the ball tip can crack with aggressive use"
   - "The included sticker sheet is finicky to apply; the foil layer peels if you reposition, so take your time or buy a spare sheet"
+
 ---
 
 If you're jumping into Beyblade X and want a blade that actually competes — not just one that looks cool on a shelf — the Wand Wizard 5-70DB UX Starter Pack deserves a hard look. This isn't a gimmick set. It's a legitimately viable stamina build that's been showing up in WBO tournament top cuts since its release.

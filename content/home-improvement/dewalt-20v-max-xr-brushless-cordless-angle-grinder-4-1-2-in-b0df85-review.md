@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX XR Brushless Cordless Angle Grinder, 4-1/2 in"
 seo_title: "DEWALT 20V MAX XR 4-1/2 in Angle Grinder Review (2026)"
 meta_description: "DEWALT 20V MAX XR brushless cordless angle grinder review: real power tests, battery life, cutoff wheel performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF85XFJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vFtaKRFrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers near-corded power on a 5Ah battery — cuts through 1/4-inch steel plate without bogging down"
   - "Weighs just 4.2 lbs with a 5Ah battery, noticeably lighter than corded models, reducing forearm fatigue on extended grinding sessions"
   - "Tool-free guard rotation and quick-release spindle lock make wheel changes a 10-second job, even with gloves on"
-cons:
+cons: 
   - "Battery drain is real — expect 15-20 minutes of continuous heavy grinding per 5Ah charge, so budget for multiple packs"
   - "No brake — the wheel free-spins for 10+ seconds after trigger release, which feels sluggish compared to higher-end models"
+
 ---
 
 The cordless angle grinder market is crowded with underpowered disappointments. The DEWALT 20V MAX XR isn't one of them. This is the grinder that finally makes "cordless" feel like a legitimate choice for real work — not just quick touch-ups. But it comes with compromises you need to understand before dropping your money.

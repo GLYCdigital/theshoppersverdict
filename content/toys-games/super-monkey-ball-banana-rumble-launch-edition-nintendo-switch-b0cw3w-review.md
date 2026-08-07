@@ -1,4 +1,5 @@
 ---
+
 title: "Super Monkey Ball Banana Rumble: Launch Edition - Nintendo S"
 seo_title: "Super Monkey Ball Banana Rumble: Launch Edition -  Review"
 meta_description: "Our full super monkey ball banana rumble: launch edition - nintendo s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW3W97PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BQ1UPgqVL._AC_SL1499_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Super Monkey Ball Banana Rumble the return to form fans have been waiting for, or another banana-scented misfire? After 235 Amazon ratings averaging 4.7 stars, the community has spoken. Here's what you need to know before dropping your cash.**

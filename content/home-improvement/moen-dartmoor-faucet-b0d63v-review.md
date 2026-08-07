@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Dartmoor - Faucet"
 seo_title: "Moen Dartmoor - Faucet Review: Verdict | TSV"
 meta_description: "Our full moen dartmoor - faucet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D63VLNCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uW4eQfb3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Moen Dartmoor isn't the flashiest kitchen faucet on the market. It won't win design awards, and it doesn't have touchless sensors or voice controls. What it does — reliably, day after day — is deliver solid performance at a fair price, and that's exactly why 225 Amazon shoppers have pushed it to a 4.5-star average.**

@@ -1,23 +1,25 @@
 ---
+
 title: "Clonex Hydrodynamics Rooting Gel Review"
 seo_title: "Clonex Rooting Gel Review: Does It Really Work? (2026)"
 meta_description: "Honest Clonex Hydrodynamics Rooting Gel review: success rates, how to use it, and whether it beats cheaper rooting powders. Read before you buy."
 slug: "clonex-hydrodynamics-rooting-gel-b0b2kv-review"
 image_alt: "Clonex Hydrodynamics Rooting Gel tube with green gel visible, shown on a gardening workbench with cuttings"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B2KVTDKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VZU5zJjcL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Gel clings to stems — no dripping mess like liquid formulas"  
   - "Works on both softwood and hardwood cuttings without burning"  
   - "Visible root formation in 7–14 days on most common houseplants"  
-cons:  
+cons: 
   - "Small 50ml tube runs out fast if you propagate in bulk"  
   - "Costs more per ounce than powder alternatives"
+
 ---
 
 If you’ve ever dipped a cutting into water, prayed, and watched it rot, you know the frustration. Clonex Hydrodynamics Rooting Gel exists to eliminate that gamble. With 229 Amazon ratings averaging 4.6 stars, this is the gel most serious propagators reach for — but is it worth the premium over a $6 powder? After digging through buyer feedback and testing data, here’s the straight answer.

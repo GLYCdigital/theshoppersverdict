@@ -1,4 +1,5 @@
 ---
+
 title: "3-Flap Steel Large Dog Door for Exterior Doors with Sliding"
 seo_title: "3-Flap Steel Dog Door Review: Secure Exterior Door Option"
 meta_description: "Honest 3-Flap Steel Large Dog Door review: security, insulation, sizing for exterior sliding doors. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DHRFCJVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MxB9cveNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Triple-flap design with magnetic seals cuts drafts significantly better than single-flap panels"
   - "Heavy-gauge steel frame holds up to enthusiastic dogs without flexing or warping"
   - "Sliding door installation requires no cutting — just a few screws and the included spacer strips"
-cons:
+cons: 
   - "The three flaps add resistance; very small or timid dogs may struggle to push through"
   - "Top-mounted sliding lock is plastic and feels less durable than the steel frame"
+
 ---
 
 Let’s be blunt: most dog doors for sliding glass doors are flimsy acrylic panels that bow after a season, leak cold air, and look like a temporary fix that became permanent. The 3-Flap Steel Large Dog Door is not that. It’s a metal-framed, triple-flap system aimed at owners who want a permanent solution without cutting a hole in their wall. At 4.1 stars across 204 ratings, it’s decently received — but is it right for your dog and your door? Here’s the breakdown.

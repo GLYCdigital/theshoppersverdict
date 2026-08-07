@@ -1,7 +1,8 @@
 ---
-title: "KES Bathroom Vessel Sink, 16\" x 13\" Oval Vessel Sink for Bat"
-seo_title: "KES Bathroom Vessel Sink, 16\" x 13\" Oval Vessel Si Review"
-meta_description: "Our full kes bathroom vessel sink, 16\" x 13\" oval vessel sink for bat review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "KES Bathroom Vessel Sink, 16\ x 13\ Oval Vessel Sink for Bat"
+seo_title: "KES Bathroom Vessel Sink, 16\ x 13\ Oval Vessel Si Review"
+meta_description: "Our full kes bathroom vessel sink, 16\ x 13\ oval vessel sink for bat review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kes-bathroom-vessel-sink-16-x-13-oval-vessel-sink-for-bathroom-b0gmm6-review"
 image_alt: "KES Bathroom Vessel Sink, 16 x 13 Oval Vessel Sink for Bathroom Vanity Countertop, Ceramic Bowl Sink Egg Shape Above Cou"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMM6MG1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QV1BX20ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KES 16" x 13" Oval Vessel Sink is a compact statement piece that punches above its weight class — if you understand what you're buying before checkout.**

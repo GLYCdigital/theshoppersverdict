@@ -1,4 +1,5 @@
 ---
+
 title: "RASASI La Yuqawam Collection EDP - 75 ml(2.5 oz) | Signature"
 seo_title: "RASASI La Yuqawam Collection EDP - 75 ml(2.5 oz) | Review"
 meta_description: "Our full rasasi la yuqawam collection edp - 75 ml(2.5 oz) | signature review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C45BB452/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LpYrM5gXL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some fragrances whisper. RASASI La Yuqawam Collection EDP shouts — then settles into a warm, leathery embrace that lasts longer than most relationships. If you've smelled Tom Ford's Tuscan Leather, you know the DNA. This is the louder, bolder Arabian cousin that costs a fraction of the price. But loud isn't for everyone.

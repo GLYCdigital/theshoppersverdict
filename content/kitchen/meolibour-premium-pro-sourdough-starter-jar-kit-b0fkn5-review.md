@@ -1,4 +1,5 @@
 ---
+
 title: "Meolibour Premium Pro Sourdough Starter Jar Kit"
 seo_title: "Meolibour Premium Pro Sourdough Starter Jar Kit Review: V"
 meta_description: "Our full meolibour premium pro sourdough starter jar kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKN5683G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q2Qu-BymL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Meolibour Premium Pro Sourdough Starter Jar Kit Review: The $15 Starter Setup That Actually Works**

@@ -1,4 +1,5 @@
 ---
+
 title: "GEARWRENCH 120XP"
 seo_title: "GEARWRENCH 120XP Review: Is 120 Teeth Worth It?"
 meta_description: "GEARWRENCH 120XP ratchet review: 120-tooth mechanism, dual-pawl design, real-world performance. See if this tool earns its place in your box."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08V8WD17Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51I5pIeesCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3-degree swing arc reaches fasteners in tight engine bays where 72-tooth ratchets physically won't fit"
   - "Dual-pawl 120-tooth mechanism engages with a crisp, positive click — no sloppy backdrag"
   - "Full-polish chrome finish resists corrosion and wipes clean of grease in one pass"
-cons:
+cons: 
   - "Slim-profile head is noticeably thicker than comparable low-profile ratchets from Snap-on or Matco"
   - "No quick-release button on the drive end — you'll be popping sockets off by hand"
+
 ---
 
 Let me be direct: if you've ever contorted your arm into a rusted engine bay, knuckles bleeding, swearing at a bolt you can't get a swing on — the GEARWRENCH 120XP is built for exactly that moment. The headline feature is the 120-tooth mechanism, which gives you a 3-degree swing arc. That's not marketing math; that's the difference between finishing a job and pulling the battery to get more room.

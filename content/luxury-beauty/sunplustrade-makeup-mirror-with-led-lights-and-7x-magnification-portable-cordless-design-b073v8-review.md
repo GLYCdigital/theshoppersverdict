@@ -1,4 +1,5 @@
 ---
+
 title: "SunplusTrade Makeup Mirror with LED Lights and 7X Magnificat"
 seo_title: "SunplusTrade Makeup Mirror with LED Lights and 7X  Review"
 meta_description: "Our full sunplustrade makeup mirror with led lights and 7x magnificat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B073V877RL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5195IHnIjmL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: this mirror solves a specific problem — seeing your face clearly in bad lighting — and it does that job well. But it's not without compromises.

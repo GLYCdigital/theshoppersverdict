@@ -1,4 +1,5 @@
 ---
+
 title: "Safavieh Evoke Collection Abstract Burst Non-Shedding Living"
 seo_title: "Safavieh Evoke Collection Abstract Burst Non-Shedd Review"
 meta_description: "Our full safavieh evoke collection abstract burst non-shedding living review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP9GD11H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DQmZPVqwS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Safavieh Evoke Collection Abstract Burst rug sits in an interesting spot in the market: it's not a luxury wool piece you'll obsess over, and it's not a disposable $50 trend rug either. With 225 ratings holding a solid 4.5-star average, this is the rug people actually live on — pets, kids, coffee spills, the works. Here's the real story after digging through buyer experiences and the spec sheet.

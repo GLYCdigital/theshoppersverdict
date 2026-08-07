@@ -1,4 +1,5 @@
 ---
+
 title: "Scoop Away Complete Performance, Scented Cat Litter, 42 Poun"
 seo_title: "Scoop Away Complete Performance, Scented Cat Litte Review"
 meta_description: "Our full scoop away complete performance, scented cat litter, 42 poun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08VGWNPPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hYdkkYLgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 42-Pound Workhorse That Actually Delivers on Its Odor Promises**

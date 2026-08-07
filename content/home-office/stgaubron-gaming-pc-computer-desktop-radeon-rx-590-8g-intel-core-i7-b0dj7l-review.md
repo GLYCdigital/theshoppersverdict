@@ -1,4 +1,5 @@
 ---
+
 title: "STGAubron Gaming PC Computer Desktop, Radeon RX 590 8G, Inte"
 seo_title: "STGAubron Gaming PC Computer Desktop, Radeon RX 59 Review"
 meta_description: "Our full stgaubron gaming pc computer desktop, radeon rx 590 8g, inte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0DJ7LCSLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nm7ltE03L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what a 3.3-star rating on a prebuilt gaming PC actually means. It means some buyers got a great machine and others got a headache. The STGAubron desktop with a Radeon RX 590 8G and Intel Core i7 sits squarely in that frustrating middle ground. You’re not buying a boutique build here — you’re buying a value-oriented prebuilt that could work out great or send you down a return-request rabbit hole.

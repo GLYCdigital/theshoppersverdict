@@ -1,4 +1,5 @@
 ---
+
 title: "Curve by Liz Claiborne For Women, Eau De Toilette Spray"
 seo_title: "Curve by Liz Claiborne Review: Is This Iconic Scent Worth It?"
 meta_description: "Honest Curve by Liz Claiborne women's EDT review: longevity, sillage, value. See why 229 shoppers rate it 4.6 stars—and who should skip it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGNGFLH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6196z8ssI+L._SL1500_.jpg"
-pros:
+pros: 
   - "Projects strongly for the first 2–3 hours without becoming cloying—one spray on skin, two on clothes hits the sweet spot"
   - "The green floral heart (lily of the valley, jasmine) cuts through the sweetness, keeping it wearable in warm weather"
   - "A 3.4 oz bottle at this price point delivers 6+ months of daily wear; the value math is hard to beat"
-cons:
+cons: 
   - "Longevity drops to a skin scent after 5–6 hours; don't expect all-day projection from a single morning application"
   - "The bottle design, while iconic, is awkward to grip—the curved waist makes it easy to fumble during a rushed morning routine"
+
 ---
 
 ## Curve by Liz Claiborne: The 90s Icon That Still Earns Its Place on Your Vanity

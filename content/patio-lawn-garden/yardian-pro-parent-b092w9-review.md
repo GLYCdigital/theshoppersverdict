@@ -1,4 +1,5 @@
 ---
+
 title: "Yardian Pro Parent"
 seo_title: "Yardian Pro Parent Review: Verdict | TSV"
 meta_description: "Our full yardian pro parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B092W9QNC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-CsimFFEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever come home to a $400 water bill after a sprinkler head cracked while you were on vacation, the Yardian Pro Parent is the insurance policy you didn't know you needed. This isn't a standalone controller — it's the brain that pairs with the Yardian Pro Sprinkler unit to add flow monitoring, leak detection, and weather-smart scheduling to your existing irrigation system. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in real yards.

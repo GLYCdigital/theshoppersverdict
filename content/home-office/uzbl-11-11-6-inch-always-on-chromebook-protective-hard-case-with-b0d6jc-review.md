@@ -1,4 +1,5 @@
 ---
+
 title: "UZBL 11-11.6 Inch Always-on Chromebook Protective Hard Case "
 seo_title: "UZBL 11-11.6 Inch Always-on Chromebook Protective  Review"
 meta_description: "Our full uzbl 11-11.6 inch always-on chromebook protective hard case  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6JC8R2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ez8TKQzHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # UZBL 11-11.6 Inch Chromebook Hard Case: A No-Nonsense Shell That Actually Fits

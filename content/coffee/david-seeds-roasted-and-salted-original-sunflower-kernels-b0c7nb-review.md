@@ -1,4 +1,5 @@
 ---
+
 title: "DAVID Seeds Roasted and Salted Original Sunflower Kernels"
 seo_title: "DAVID Seeds Sunflower Kernels Review: Worth It?"
 meta_description: "DAVID Seeds Roasted & Salted Sunflower Kernels review: crunchy, protein-packed snack with real pros and cons. See if these shell-free kernels earn their 4.1-star rating."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C7NB4H2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qG0pclKWL._SL1500_.jpg"
-pros:
+pros: 
   - "Shell-free kernels deliver immediate crunch without the mess or effort of cracking shells"
   - "Consistent roasted-salted flavor that hits the classic sunflower seed profile without being overpowering"
   - "Resealable packaging actually works, keeping kernels crisp for weeks after opening"
-cons:
+cons: 
   - "Sodium content runs high at 190mg per serving—a real issue for anyone watching salt intake"
   - "Smaller kernels than some premium brands; pieces can be inconsistently sized in the bag"
+
 ---
 
 Let me start with the obvious: this is a snack review, not a coffee review. But if you're like me, you've got a bag of these next to your espresso machine for that 3 p.m. energy crash that coffee alone can't fix. DAVID Seeds Roasted and Salted Original Sunflower Kernels are the shell-free version of a convenience store classic, and they've earned a respectable 4.1 out of 5 stars from 204 Amazon shoppers. Here's the honest breakdown.

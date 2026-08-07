@@ -1,4 +1,5 @@
 ---
+
 title: "15 Pack PGI-280XXL/CLI-281XXL Replacement for Canon 280 281 inch"
 seo_title: "15 Pack PGI-280XXL CLI-281XXL Ink Review: Is It Worth It?"
 meta_description: "Honest review of the 15-pack PGI-280XXL/CLI-281XXL replacement ink for Canon printers. Real-world testing, compatibility, and value compared."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09PVCB8JL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TrsyKXWqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine XXL capacity — 6 PGI-280XXL black cartridges and 9 CLI-281XXL color cartridges deliver roughly 400 black pages and 340 color pages each, per manufacturer specs"
   - "Chipset recognition is flawless on Maxify series printers — no error codes, no 'non-genuine ink' warnings from the printer firmware"
   - "Color accuracy is surprisingly close to OEM — photo prints on glossy paper show minimal banding or color shift in side-by-side tests"
-cons:
+cons: 
   - "No individual color cartridges in the pack — you get 3 of each color (cyan, magenta, yellow), so if you burn through one color faster, you're stuck with extras of others"
   - "Some users report occasional ink level misreadings after the first refill cycle — the chips reset fine, but the printer may show 'low ink' prematurely on the last 10% of a cartridge"
+
 ---
 
 If you own a Canon Maxify or MegaTank printer, you already know the pain of OEM ink prices. A full set of genuine PGI-280XXL and CLI-281XXL cartridges can run you $80–100. This 15-pack replacement costs a fraction of that, and with 240 ratings averaging 4.8 stars, it's clearly earning its keep. But is it actually good, or just cheap? I tested it head-to-head against OEM to find out.

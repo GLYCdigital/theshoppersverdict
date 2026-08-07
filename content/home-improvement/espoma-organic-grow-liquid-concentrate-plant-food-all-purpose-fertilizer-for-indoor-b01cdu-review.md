@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Grow! Liquid Concentrate Plant Food - All Pur"
 seo_title: "Espoma Organic Grow! Review: Best Liquid Plant Food?"
 meta_description: "Espoma Organic Grow! liquid concentrate review: Does this all-purpose plant food deliver? Real performance, pros, cons, and verdict for indoor & outdoor plants."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01CDU0E8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813q0vM+N7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "OMRI-listed organic formula — safe for edibles, kids, and pets when used as directed"
   - "16 oz concentrate makes up to 32 gallons of fertilizer — roughly $0.25 per feeding"
   - "No chemical burn risk; gentle enough for seedlings and weekly feeding schedules"
-cons:
+cons: 
   - "The dropper cap is imprecise — easy to over-pour if you're not paying attention"
   - "Organic nitrogen sources smell earthy/compost-like for a few hours after application"
+
 ---
 
 Let me save you 20 minutes of label-reading: **Espoma Organic Grow!** is the liquid fertilizer I'd hand to a first-time houseplant owner and a 20-year greenhouse veteran alike. With 229 ratings averaging 4.6 stars, it's not flashy — it's just effective. Here's what you actually need to know before buying.

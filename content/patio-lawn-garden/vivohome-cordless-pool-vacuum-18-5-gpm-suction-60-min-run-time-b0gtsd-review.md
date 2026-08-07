@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOHOME Cordless Pool Vacuum 18.5 GPM Suction, 60-Min Run T"
 seo_title: "VIVOHOME Cordless Pool Vacuum 18.5 GPM Suction, 60 Review"
 meta_description: "Our full vivohome cordless pool vacuum 18.5 gpm suction, 60-min run t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GTSDKWQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nw4wRJrlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're shopping for a cordless pool vacuum in this price range, you're weighing convenience against cleaning power. The VIVOHOME Cordless Pool Vacuum with 18.5 GPM suction and 60-minute runtime sits right in that tradeoff zone. Here's what 190 Amazon reviewers (averaging 3.8 stars) actually experienced — and what you should expect.

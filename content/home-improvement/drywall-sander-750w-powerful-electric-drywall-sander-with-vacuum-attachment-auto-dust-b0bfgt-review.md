@@ -1,4 +1,5 @@
 ---
+
 title: "Drywall Sander, 750W Powerful Electric Drywall Sander with V"
 seo_title: "750W Drywall Sander Review: Dust-Extracting Power Tool"
 meta_description: "Our 750W drywall sander review covers dust collection, variable speed, and real user feedback. Is this auto-vacuum sander worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BFGT1LGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817aZOzgqPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "750W motor genuinely sands through cured joint compound without bogging down, even on ceilings"
   - "The 5-stage variable speed dial (1200–2000 RPM) gives real control for feathering edges vs. heavy stock removal"
   - "Auto-vacuum dust collection catches the majority of fine gypsum dust — noticeably cleaner job site"
-cons:
+cons: 
   - "At roughly 7.5 lbs with the hose attached, arm fatigue sets in during extended ceiling work — plan breaks"
   - "The included 5 sanding discs are low-quality; budget for aftermarket mesh discs immediately"
   - "Vacuum hose connection is friction-fit only — a clamp or tape is needed to prevent pop-offs mid-stroke"
+
 ---
 
 If you've ever sanded a ceiling with a pole sander, you know the punishment: a sore neck, a gritty mouth, and a fine layer of gypsum dust coating everything in a 20-foot radius. This 750W electric drywall sander with its vacuum attachment promises to end that misery. After digging through 210 ratings and the technical specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cafe Flow Stainless Steel Reusable K Cup, 2-Pk by Perfect Po"
 seo_title: "Cafe Flow Reusable K Cup Review: Stainless Steel 2-Pk"
 meta_description: "Cafe Flow stainless steel reusable K Cup review: Durable 2-pack, easy to fill, eco-friendly. See how it performs, real pros/cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07ZG5VPMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81B8EZqkTKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full stainless steel body and filter basket — no plastic touches your hot water, unlike most reusable pods"
   - "Two pods included means you can prep one while the other brews, or keep a spare for when one needs deep cleaning"
   - "Fits standard K-Cup brewers without the need for a separate adapter ring or cutting the foil lid"
-cons:
+cons: 
   - "Requires a medium-to-coarse grind; fine coffee grounds will sneak through the mesh and leave silt in your mug"
   - "The lid snaps on securely but can be stubborn to remove when the pod is hot — let it cool before handling"
+
 ---
 
 **Opening Hook**

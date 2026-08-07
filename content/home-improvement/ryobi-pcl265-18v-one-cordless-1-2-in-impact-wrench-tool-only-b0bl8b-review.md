@@ -1,4 +1,5 @@
 ---
+
 title: "Ryobi PCL265 18V ONE+ Cordless 1/2 in. Impact Wrench (Tool O"
 seo_title: "Ryobi PCL265 18V ONE+ Cordless 1/2 in. Impact Wren Review"
 meta_description: "Our full ryobi pcl265 18v one+ cordless 1/2 in. impact wrench (tool o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BL8BC8MF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IDofFvPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Ryobi PCL265 is the impact wrench that finally makes the ONE+ platform credible for serious automotive work. It won't replace a pneumatic gun, but it'll handle lug nuts, suspension bolts, and rusted fasteners that stall lesser cordless tools — and it'll do it on the same batteries you already own.

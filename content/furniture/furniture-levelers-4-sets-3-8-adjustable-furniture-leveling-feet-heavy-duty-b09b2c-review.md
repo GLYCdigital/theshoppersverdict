@@ -1,4 +1,5 @@
 ---
+
 title: "Furniture levelers,4 Sets 3/8 inch  Adjustable Furniture Leveling"
 seo_title: "Furniture Levelers 3/8 inch  Review: 4 Sets Adjustable Feet"
 meta_description: "Honest review of 4-set 3/8 inch  adjustable furniture levelers. Heavy-duty steel, 500lb capacity. See real pros, cons & buyer feedback before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09B2CJ3DN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bDB4oFVeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 3/8-inch threaded rod provides up to 2 inches of leveling adjustment — enough to fix seriously uneven floors"
   - "Welded steel construction with 500-pound per set capacity handles heavy furniture without flexing"
   - "Rubber base pads grip hardwood and tile while preventing scratches and dampening vibration"
-cons:
+cons: 
   - "The 3/8-inch bolts won't fit pre-drilled holes in some mass-market furniture — you'll need to widen them or use the included washers creatively"
   - "No locking nut included; heavier pieces can slowly rotate the adjuster over months of use"
+
 ---
 
 If you've ever shoved a matchbook under a wobbly table leg, you know the cheap fix. This 4-set of 3/8-inch adjustable furniture levelers from the B09B2CJ3DN listing is the grown-up version of that trick — and it actually works. With 235 ratings averaging 4.7 stars, it's clearly solving a real problem for people. But is it the right fix for *your* furniture? Let's dig in.

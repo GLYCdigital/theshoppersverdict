@@ -1,4 +1,5 @@
 ---
+
 title: "1Zpresso K-Ultra Main manual coffee grinder"
 seo_title: "1Zpresso K-Ultra Review: Is This Manual Grinder Worth It?"
 meta_description: "1Zpresso K-Ultra manual coffee grinder review: 4.6-star rated. Tested for espresso & filter. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTQ9FDGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618n6WtwT7L._AC_SL1400_.jpg"
-pros:
+pros: 
   - "48mm conical steel burrs produce exceptionally uniform grounds across grind sizes from Turkish to French press — verified by particle distribution tests, not marketing claims"
   - "External adjustment ring with 15 microns per click gives 90+ grind settings; you can dial in espresso precisely without needing a separate shim kit"
   - "Magnetic catch cup and folding handle make it genuinely travel-friendly; the whole unit weighs just 780g and fits in a backpack side pocket"
-cons:
+cons: 
   - "Grinding 18g of light roast for espresso takes 40–60 seconds of steady cranking — the smooth bearing means effort is consistent, but it's not fast"
   - "No grind size indicator markings on the adjustment ring; you'll need to count clicks from zero or remember your settings"
   - "At its price point, electric grinders like the Baratza Encore ESP offer comparable conical burr quality with zero manual effort"
+
 ---
 
 **The 1Zpresso K-Ultra is the manual grinder that makes you question why you ever tolerated a blade grinder.** With a 4.6-star average across 229 Amazon ratings, this isn't a niche tool for coffee snobs — it's a serious upgrade for anyone who wants cafe-quality grounds without the noise, footprint, or price tag of a high-end electric grinder.

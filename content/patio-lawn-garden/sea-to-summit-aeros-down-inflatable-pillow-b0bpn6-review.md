@@ -1,4 +1,5 @@
 ---
+
 title: "Sea to Summit Aeros Down Inflatable Pillow"
 seo_title: "Sea to Summit Aeros Down Inflatable Pillow Review: Verdic"
 meta_description: "Our full sea to summit aeros down inflatable pillow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BPN69QRR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L6Fl7bdHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Sea to Summit Aeros Down Inflatable Pillow solves the classic camper's dilemma: you want the packability of an inflatable pillow, but you hate the feeling of sleeping on a squeaky pool toy. At 4.5 stars across 225 ratings, it's clearly doing something right. After digging into the specs and what owners actually say, here's the real story.

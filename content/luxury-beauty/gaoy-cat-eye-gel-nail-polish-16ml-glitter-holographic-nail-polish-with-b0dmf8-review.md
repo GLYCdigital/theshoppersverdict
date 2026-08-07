@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Cat Eye Gel Nail Polish, 16ml Glitter Holographic Nail "
 seo_title: "GAOY Cat Eye Gel Nail Polish, 16ml Glitter Hologra Review"
 meta_description: "Our full gaoy cat eye gel nail polish, 16ml glitter holographic nail  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMF855TW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713XxlQukYL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cat eye nail polish is one of those things that looks like magic in salon photos and like a muddy mess in real life. The GAOY version, though, actually delivers the effect it promises. After testing the 16ml holographic glitter shade, I can tell you exactly where this polish earns its 4.4-star rating — and where it trips.

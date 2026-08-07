@@ -1,4 +1,5 @@
 ---
+
 title: "OREO Chocolate Sandwich Cookies & Chips AHOY! Chocolate Chip"
 seo_title: "OREO Chocolate Sandwich Cookies & Chips AHOY! Choc Review"
 meta_description: "Our full oreo chocolate sandwich cookies & chips ahoy! chocolate chip review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHYXP1J3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lKz-HxRKL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you don't need a reviewer to tell you what an OREO tastes like. You've eaten a billion of them. What you actually need to know is whether this particular bundle — OREO Chocolate Sandwich Cookies paired with Chips AHOY! Chocolate Chip — is worth your money, or whether you'd be better off grabbing both at your local grocery store.

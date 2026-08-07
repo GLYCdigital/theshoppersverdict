@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch 1617EVS 2.25 HP Electronic Fixed-Base Router"
 seo_title: "Bosch 1617EVS Fixed-Base Router Review (2026): Is It Worth It?"
 meta_description: "Bosch 1617EVS 2.25 HP router review: real-world performance, build quality, and honest downsides. See if this 4.8-star tool fits your shop."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00004TKHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41woXvar2RL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Soft-start electronic speed control holds RPM under heavy loads in hardwoods"
   - "Integrated dust collection shroud that actually captures most chips"
   - "Tool-free bit changes with the spindle lock — no wrenches needed"
-cons:
+cons: 
   - "Fixed base only — plunge base sold separately (factor that into cost)"
   - "Cord is only 8 feet, so you'll likely need an extension for large workpieces"
+
 ---
 
 Let's be honest: there are dozens of fixed-base routers under $200, and most of them feel like toys the first time you hog out a 3/4-inch dado in white oak. The Bosch 1617EVS is not one of them. It's been a workshop staple for over a decade, and with a 4.8-star average across 240 Amazon ratings, it's earned that reputation through sheer performance. But is it still the right buy in 2026? Yes — with a couple of caveats.

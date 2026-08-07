@@ -1,4 +1,5 @@
 ---
+
 title: "ELISWEEN Wireless Switch Controller for Switch/Lite/OLED/Swi"
 seo_title: "ELISWEEN Wireless Switch Controller Review (2026): Worth It?"
 meta_description: "ELISWEEN wireless Switch controller review: 4.5-star grip, turbo, motion controls. Is it worth $30? Real pros, cons & verdict for Switch/Lite/OLED."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GX1QY77R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d5pil4zHL._SL1500_.jpg"
-pros:
+pros: 
   - "Includes two full-size wireless controllers for roughly the price of one official Pro Controller — massive value for multiplayer households"
   - "6-axis gyro motion control and turbo function work reliably across Switch, Switch Lite, and OLED without any adapters or dongles"
   - "Ergonomic sculpted grips with textured palm rests actually help during 3+ hour sessions, unlike flat third-party pads"
-cons:
+cons: 
   - "No NFC/amiibo support — you'll still need your Joy-Cons for scanning figures"
   - "Battery life is solid but not exceptional at roughly 10-12 hours per charge; no USB-C passthrough charging while playing"
   - "Wake-up function occasionally requires pressing the home button twice if the controller has been idle for extended periods"
+
 ---
 
 Let me be direct about the third-party controller market: most of it is garbage. Cheap sticks, mushy buttons, connection drops mid-boss-fight. The ELISWEEN Wireless Switch Controller, however, is not that. With 225 ratings averaging 4.5 stars, this two-pack has carved out a legitimate following — and after looking at what buyers actually report, I understand why.

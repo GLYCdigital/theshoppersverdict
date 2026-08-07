@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Minecraft Legends Action Figure Set"
 seo_title: "Mattel Minecraft Legends Action Figure Set Review: Verdic"
 meta_description: "Our full mattel minecraft legends action figure set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G274XG48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VexEqng5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has ever built a dirt hut and called it a castle, you already know the Minecraft obsession is real. The **Mattel Minecraft Legends Action Figure Set** (currently 4.7 stars on Amazon from 235 ratings) is aimed squarely at that demographic — and honestly, it delivers more than I expected for the price point.

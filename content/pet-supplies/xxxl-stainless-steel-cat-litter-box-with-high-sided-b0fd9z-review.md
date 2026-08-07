@@ -1,4 +1,5 @@
 ---
+
 title: "XXXL Stainless Steel Cat Litter Box with High Sided"
 seo_title: "XXXL Stainless Steel Cat Litter Box with High Side Review"
 meta_description: "Our full xxxl stainless steel cat litter box with high sided review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD9ZL4JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aOZ-n3DmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're tired of replacing plastic litter boxes every six months because they've permanently absorbed the smell of ammonia, this stainless steel box is the upgrade you've been looking for.**

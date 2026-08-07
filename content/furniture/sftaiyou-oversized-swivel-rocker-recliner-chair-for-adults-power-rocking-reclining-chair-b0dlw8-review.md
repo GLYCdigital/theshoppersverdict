@@ -1,4 +1,5 @@
 ---
+
 title: "Sftaiyou Oversized Swivel Rocker Recliner Chair for Adults, "
 seo_title: "Sftaiyou Oversized Swivel Rocker Recliner Chair fo Review"
 meta_description: "Our full sftaiyou oversized swivel rocker recliner chair for adults,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DLW8Y6ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QsrAmWhXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sftaiyou Oversized Swivel Rocker Recliner: Big Comfort, Real Tradeoffs

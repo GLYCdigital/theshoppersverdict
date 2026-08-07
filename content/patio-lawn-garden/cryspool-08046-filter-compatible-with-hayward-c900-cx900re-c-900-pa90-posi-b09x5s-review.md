@@ -1,4 +1,5 @@
 ---
+
 title: "CryspoolÂ® 08046 Filter Compatible with Hayward C900, CX900R"
 seo_title: "Cryspool 08046 Filter Review: Hayward C900 Alternative"
 meta_description: "Honest Cryspool 08046 filter review for Hayward C900/CX900R owners. Compare cost, quality, and performance before you buy. Read pros, cons, and real user feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09X5SZ5WG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BVcrdo-6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 50 sq ft of filtration media at roughly half the price of the Hayward OEM cartridge"
   - "Precisely molded end caps and gasket seats that align with C900/CX900R housings without forcing"
   - "Fully assembled and ready to drop in — no soaking, no fuss, no separate parts"
-cons:
+cons: 
   - "No brand markings on the cartridge itself, which may matter for warranty sticklers"
   - "A few users report the pleats compress slightly after a month of heavy use, affecting water flow marginally"
   - "Not a genuine Hayward part — if you demand OEM-only for resale value, look elsewhere"
+
 ---
 
 Let's cut to the chase: if you own a Hayward C900 or CX900R filter system, you already know the OEM replacement cartridges cost an arm and a leg. The Cryspool 08046 is the aftermarket answer that's been sitting in 235 Amazon carts with a 4.7-star average. Here's the real story.

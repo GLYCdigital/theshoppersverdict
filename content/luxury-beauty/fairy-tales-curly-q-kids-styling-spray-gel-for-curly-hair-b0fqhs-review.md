@@ -1,4 +1,5 @@
 ---
+
 title: "Fairy Tales Curly-Q™ Kids Styling Spray Gel for Curly Hair"
 seo_title: "Fairy Tales Curly-Q Spray Gel Review: Kids' Curls Tamed"
 meta_description: "Honest Fairy Tales Curly-Q Kids Styling Spray Gel review: Does this 4.6-star detangler define curls without crunch? Real parent feedback, pros, cons."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FQHSCQSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Cui6P63mL._SL1500_.jpg"
-pros:
+pros: 
   - "Defines curls and controls frizz without the stiff, crunchy cast typical of kids' gels"
   - "Spray application reaches roots and mid-lengths easily — no sticky fingers fighting a toddler"
   - "Lightweight formula that doesn't weigh down fine or thin curly hair"
-cons:
+cons: 
   - "Bottle can clog if you don't rinse the nozzle after each use"
   - "Scent is noticeable — some kids (and parents) find it strong"
   - "Not a heavy-hold product; very thick, coily hair may need a stronger styler"
+
 ---
 
 If you've ever wrestled a wiggly 4-year-old while trying to distribute gel evenly through tangled curls, you already know the struggle. Fairy Tales Curly-Q Kids Styling Spray Gel attacks that problem directly: instead of a tub you scoop your fingers into, it's a spray that gets the product where it needs to go — fast.

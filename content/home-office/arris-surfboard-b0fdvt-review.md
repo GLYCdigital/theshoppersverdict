@@ -1,4 +1,5 @@
 ---
+
 title: "Arris Surfboard"
 seo_title: "Arris Surfboard Review: Is It Worth It for Your Workspace?"
 meta_description: "Read our honest Arris Surfboard review. We break down the pros, cons, and whether this 4.0-star rated office gear is right for your setup."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FDVT3118/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510v5MQ3lqL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Compact footprint that frees up significant desk space compared to standard modem/router combos"
   - "Tool-free vertical or horizontal mounting options make it genuinely flexible for tight setups"
   - "Consistent throughput in real-world testing, holding steady speeds during video calls and large file transfers"
-cons:
+cons: 
   - "Setup documentation is sparse and assumes you already know your ISP's configuration requirements"
   - "Lacks Wi-Fi 6 support, which feels dated if you're building a future-proof home office"
   - "LED indicators are bright with no dimming option — annoying in low-light rooms"
+
 ---
 
 Let's be blunt: most people don't get excited about a modem. But if you've been renting one from your ISP for years, you're literally throwing money away monthly. The Arris Surfboard is the product that finally makes cutting that cord painless — mostly.

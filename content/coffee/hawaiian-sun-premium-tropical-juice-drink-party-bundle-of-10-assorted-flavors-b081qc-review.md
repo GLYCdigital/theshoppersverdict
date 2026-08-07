@@ -1,4 +1,5 @@
 ---
+
 title: "Hawaiian Sun Premium Tropical Juice Drink Party Bundle of 10"
 seo_title: "Hawaiian Sun Premium Tropical Juice Drink Party Bu Review"
 meta_description: "Our full hawaiian sun premium tropical juice drink party bundle of 10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081QCCN21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V7Bv1KG9L._SL1440_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: this isn't coffee gear. But if you're looking for a taste of Hawaii delivered to your door, this 10-can bundle from Hawaiian Sun is the closest thing to a tropical vacation in beverage form. After digging through the 229 ratings and the flavor lineup, here's what you need to know before adding it to your cart.

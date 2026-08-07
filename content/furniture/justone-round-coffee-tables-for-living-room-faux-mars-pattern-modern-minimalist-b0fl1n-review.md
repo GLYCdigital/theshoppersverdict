@@ -1,4 +1,5 @@
 ---
+
 title: "JUSTONE Round Coffee Tables for Living Room, Faux Mars Patte"
 seo_title: "JUSTONE Round Coffee Tables for Living Room, Faux  Review"
 meta_description: "Our full justone round coffee tables for living room, faux mars patte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FL1N2RKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91v6cQQvqKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the staging photos. The JUSTONE Round Coffee Table is a 30-inch diameter, 14.5-inch tall pedestal table with a faux marble top and a matte black base. It’s designed for small-to-medium living rooms, studio apartments, or as a side table flanking a sofa. At a glance, it looks like a $400 stone piece. It’s not. But for the price, it might be close enough.

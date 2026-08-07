@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics All Purpose Washable School Craft Liquid Glue"
 seo_title: "Amazon Basics Washable School Glue Review (2026): Worth It?"
 meta_description: "Amazon Basics All Purpose Washable School Craft Liquid Glue review: Does this 4.7-star glue beat Elmer's? Honest test on slime, paper, and cleanup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B073V14DZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AQg52hd2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries crystal clear with no visible residue even on darker paper"
   - "Washes out of fabric completely with plain water — no pretreatment needed"
   - "Consistent viscosity perfect for slime recipes requiring exact ratios"
-cons:
+cons: 
   - "No precision tip — the standard nozzle makes detailed work messy"
   - "Dries slower than glue sticks (2-3 minutes), which slows down fast craft assembly"
+
 ---
 
 Let's be direct about something: when you search for school glue, you're really deciding between this and Elmer's. The Amazon Basics All Purpose Washable School Craft Liquid Glue is the budget contender that's quietly amassed a 4.7-star rating across 235 reviews. I've tested it head-to-head against the white-bottle standard, and here's what actually matters.

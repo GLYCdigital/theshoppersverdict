@@ -1,4 +1,5 @@
 ---
+
 title: "IMEEA Watering Can"
 seo_title: "IMEEA Watering Can Review: Verdict | TSV"
 meta_description: "Our full imeea watering can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096TTB37J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RBHFDHkEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still watering plants with a flimsy plastic jug that cracks by September, the IMEEA Watering Can is the upgrade your garden has been waiting for. This isn't a gimmick — it's a proper galvanized steel can built to last decades, not seasons. With 235 Amazon ratings averaging 4.7 stars, it's clearly impressing a lot of plant parents. But before you click buy, here's the full story.

@@ -1,4 +1,5 @@
 ---
+
 title: "ZZW 3-Person Wicker Porch Swing Chair"
 seo_title: "ZZW 3-Person Wicker Porch Swing Chair Review: Verdict | T"
 meta_description: "Our full zzw 3-person wicker porch swing chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDPMXVSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PD+fh7KtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most porch swings under $300 are a gamble. Either the frame flexes when two people sit down, or the wicker starts peeling by the second season. The ZZW 3-Person Wicker Porch Swing Chair sits firmly in the "surprisingly solid" category — but it's not without a few compromises that you should know about before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "21000+ Creeping Thyme Seeds for Planting Outdoor-Perennial N"
 seo_title: "Creeping Thyme Seeds Review: 21,000 Count Worth It?"
 meta_description: "Honest review of 21000+ creeping thyme seeds for planting. Covers germination rates, coverage, and buyer complaints. Is this ground cover worth your money?"
@@ -11,14 +12,15 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0DK4NBWTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m5eatHGpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Aggressive early growth when seeds do germinate, filling bare patches within 6-8 weeks in warm soil"
   - "Genuine Thymus serpyllum variety — not a mystery mix, true creeping habit for between pavers and borders"
   - "Generous seed count per dollar; even with 40% germination failure you'll cover 100+ sq ft"
-cons:
+cons: 
   - "Germination is notoriously inconsistent — many buyers report 10-20% sprout rates despite perfect conditions"
   - "Seeds are dust-fine and impossible to sow evenly; expect bald patches unless you mix with sand first"
   - "No stratification instructions included — cold treatment is mandatory for reliable sprouting, and the package omits this"
+
 ---
 
 **The 21,000-seed gamble: volume over reliability**

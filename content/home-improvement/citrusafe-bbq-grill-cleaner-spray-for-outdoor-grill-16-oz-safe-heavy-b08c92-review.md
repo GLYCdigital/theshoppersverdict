@@ -1,4 +1,5 @@
 ---
+
 title: "Citrusafe BBQ Grill Cleaner Spray for Outdoor Grill 16 OZ â€"
 seo_title: "Citrusafe BBQ Grill Cleaner Spray Review (2026): Does It Work?"
 meta_description: "Honest Citrusafe BBQ Grill Cleaner Spray review: tested on caked-on grease. See pros, cons, and whether this 16 oz citrus spray is worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08C92F6KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OAyvj3KHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cuts through weeks of baked-on grease without harsh fumes — the citrus solvent actually works, not just marketing"
   - "Food-safe formula means no toxic residue worries on grates you'll cook on next weekend"
   - "Works on cold grills — no need to heat up the grill first, saving time and propane"
-cons:
+cons: 
   - "Spray nozzle can clog if you don't rinse it after use — a minor annoyance that's easily avoided"
   - "Strong citrus scent that lingers for a few minutes; sensitive noses may find it overpowering initially"
   - "Heavy-duty buildup may require a second application or a grill brush assist for truly neglected grates"
+
 ---
 
 **The Short Version: Should You Buy Citrusafe BBQ Grill Cleaner?**

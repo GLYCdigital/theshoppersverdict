@@ -1,4 +1,5 @@
 ---
+
 title: "tarte maneater silk stick bronzer"
 seo_title: "tarte maneater silk stick bronzer Review: Verdict | TSV"
 meta_description: "Our full tarte maneater silk stick bronzer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXHD5WKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Eimp2MxqL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by cream bronzers that tug, skip, or turn orange by noon, the tarte maneater silk stick bronzer is the antidote. With 225 Amazon ratings sitting at 4.5 stars, this is one of those rare formulas that actually delivers on the "silk" promise baked into its name. It's not perfect—no product is—but for the majority of buyers, this stick earns its spot in the daily rotation.

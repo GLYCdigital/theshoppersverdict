@@ -1,4 +1,5 @@
 ---
+
 title: "Self Cleaning Litter Box - Automatic Cat Litter Box self Cle"
 seo_title: "Self Cleaning Litter Box - Automatic Cat Litter Bo Review"
 meta_description: "Our full self cleaning litter box - automatic cat litter box self cle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F3P6DNH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mALOkzv7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Self Cleaning Litter Box - Automatic Cat Litter Box self Cle** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

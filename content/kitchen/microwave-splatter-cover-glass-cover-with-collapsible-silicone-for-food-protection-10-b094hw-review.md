@@ -1,4 +1,5 @@
 ---
+
 title: "Microwave Splatter Cover Glass Cover with Collapsible Silico"
 seo_title: "Microwave Splatter Cover Glass Cover with Collapsi Review"
 meta_description: "Our full microwave splatter cover glass cover with collapsible silico review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B094HW6TC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NjoLB8H0L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some kitchen gadgets are gimmicks. This one actually earns its drawer space. If you've ever spent ten minutes scrubbing dried tomato sauce off the inside of your microwave, you already know the pain this product solves. The question is whether it solves it well enough to justify the purchase.

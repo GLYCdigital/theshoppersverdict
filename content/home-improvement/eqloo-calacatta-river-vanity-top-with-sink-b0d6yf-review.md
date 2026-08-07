@@ -1,4 +1,5 @@
 ---
+
 title: "EQLOO Calacatta River Vanity Top with Sink"
 seo_title: "EQLOO Calacatta River Vanity Top Review: Real Pros & Cons"
 meta_description: "EQLOO Calacatta River vanity top with sink review: build quality, installation, durability, and honest downsides. See if this 4.5-star top fits your bath remodel."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6YFG7C3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Nfw0COILL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Calacatta-style veining with a polished finish that holds up to daily bathroom use without etching or staining"
   - "Integrated sink bowl is seamless — no caulk lines to fail or collect grime, and the 3-hole drilling for a widespread faucet is pre-done"
   - "Solid engineered quartz construction feels substantial and arrives with thick foam corner protection; reports of shipping damage are rare"
-cons:
+cons: 
   - "At roughly 60-70 lbs depending on size, this is a two-person install — do not attempt solo, especially when setting it over a cabinet"
   - "The 3-hole pre-drill pattern won't work if you want a single-hole vessel or wall-mount faucet; you'll need to return it or get a deck plate"
   - "No backsplash included — the flat top edge meets the wall bare, so you'll need caulk and careful prep to avoid water wicking behind"
+
 ---
 
 If you're replacing a dated vanity, the EQLOO Calacatta River top with integrated sink sits in a sweet spot: it looks like a $2,000 stone slab but costs a fraction. The question is whether engineered quartz at this price point actually delivers. After digging through 225 ratings and the specifics of the product itself, here's the real story.

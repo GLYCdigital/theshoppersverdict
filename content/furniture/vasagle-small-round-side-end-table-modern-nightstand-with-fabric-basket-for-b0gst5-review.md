@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Small Round Side End Table, Modern Nightstand with F"
 seo_title: "VASAGLE Small Round Side End Table, Modern Nightst Review"
 meta_description: "Our full vasagle small round side end table, modern nightstand with f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GST5F27L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uKPTfqt5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about small side tables: most are either flimsy junk that wobbles after a month, or overpriced designer pieces that cost more than your monthly grocery run. The VASAGLE Small Round Side End Table with fabric basket sits somewhere in the middle — and for most shoppers, that's exactly the sweet spot.

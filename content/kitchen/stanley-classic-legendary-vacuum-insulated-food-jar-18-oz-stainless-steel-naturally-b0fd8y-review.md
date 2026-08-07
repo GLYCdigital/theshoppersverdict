@@ -1,4 +1,5 @@
 ---
+
 title: "Stanley Classic Legendary Vacuum Insulated Food Jar 18 oz â€"
 seo_title: "Stanley Classic Legendary Vacuum Insulated Food Ja Review"
 meta_description: "Our full stanley classic legendary vacuum insulated food jar 18 oz â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8YXQM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NtmaAOJhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most food jars promise “hot at lunch” and deliver lukewarm soup by 11 AM. The Stanley Classic Legendary 18 oz isn’t most food jars. This thing is a legitimate insulated vault that takes a beating and keeps your chili bubbling.

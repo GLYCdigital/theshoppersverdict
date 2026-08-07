@@ -1,4 +1,5 @@
 ---
+
 title: "Kreg KPHJ320-22 Pocket-Hole Jig 320 with Classic 2 Inch Face"
 seo_title: "Kreg KPHJ320-22 Pocket-Hole Jig 320 with Classic 2 Review"
 meta_description: "Our full kreg kphj320-22 pocket-hole jig 320 with classic 2 inch face review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B15KFCDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KACT7fccL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you build cabinets, shelving, or furniture frames, you already know Kreg’s name. The KPHJ320-22 is their mid-tier portable jig, and it hits a sweet spot between the bare-bones Mini and the auto-clamping K5. After 235 ratings averaging 4.7 stars, the consensus is clear: this is the one to buy if you want pro-level pocket holes without the $150 price tag.

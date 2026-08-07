@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Grill Mates SEASONING"
 seo_title: "McCormick Grill Mates SEASONING Review: Verdict | TSV"
 meta_description: "Our full mccormick grill mates seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2PG5YH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u2kIEFLXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: McCormick Grill Mates seasoning isn't a coffee maker. It's not even close. But if you clicked past the category mismatch, here's what you actually need to know about this spice blend that's racked up a 4.7-star average across 235 Amazon ratings.

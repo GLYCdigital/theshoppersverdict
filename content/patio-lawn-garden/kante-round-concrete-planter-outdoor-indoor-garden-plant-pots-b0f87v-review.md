@@ -1,4 +1,5 @@
 ---
+
 title: "Kante Round Concrete Planter, Outdoor Indoor Garden Plant Po"
 seo_title: "Kante Round Concrete Planter, Outdoor Indoor Garde Review"
 meta_description: "Our full kante round concrete planter, outdoor indoor garden plant po review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F87V4JGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+rm-eDNaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a cheap plastic pot blow across your patio in a gust of wind, you know why concrete planters exist. The Kante Round Concrete Planter is a 12-inch diameter, 10-inch tall cylinder that weighs roughly 20 pounds empty. That heft is the whole point — it stays put.

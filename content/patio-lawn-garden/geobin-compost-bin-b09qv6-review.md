@@ -1,4 +1,5 @@
 ---
+
 title: "GEOBIN Compost Bin"
 seo_title: "GEOBIN Compost Bin Review: Is It Worth It? (2026)"
 meta_description: "Read our honest GEOBIN Compost Bin review. We break down capacity, airflow, assembly, and real user feedback to help you decide before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09QV6VF1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VS1PmcHAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expands to 246 gallons but folds flat to 4 inches for off-season storage"
   - "Open-bottom design allows direct soil contact for natural worm and microbe activity"
   - "Assembles in under 5 minutes with no tools — just interlocking plastic panels"
-cons:
+cons: 
   - "Thin plastic walls (about 1/8 inch) can crack in extreme cold or when shifting heavy loads"
   - "No lid or base included — you'll need to buy or rig a cover to keep pests out"
   - "Lightweight construction means it can blow over in strong winds when empty"
+
 ---
 
 If you've been circling the idea of composting but balked at $200 wooden bins or complicated tumblers, the GEOBIN is the pragmatic middle ground. It's a 246-gallon black plastic cylinder that costs a fraction of the fancy options and does the one thing that actually matters: it breaks down your kitchen scraps and yard waste into usable soil. But the question isn't whether it works — it's whether the tradeoffs are worth it for your situation.

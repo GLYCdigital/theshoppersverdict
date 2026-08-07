@@ -1,4 +1,5 @@
 ---
+
 title: "Method Men Body Wash"
 seo_title: "Method Men Body Wash Review: Verdict | TSV"
 meta_description: "Our full method men body wash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQ4BK4HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Method Men Body Wash Review: The Plant-Based Wash That Actually Cleans

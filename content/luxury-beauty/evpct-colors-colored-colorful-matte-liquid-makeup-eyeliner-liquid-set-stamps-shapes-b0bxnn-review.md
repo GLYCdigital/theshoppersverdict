@@ -1,4 +1,5 @@
 ---
+
 title: "evpct Colors Colored Colorful Matte Liquid Makeup Eyeliner L"
 seo_title: "evpct Colored Matte Liquid Eyeliner Review: Bold & Fun"
 meta_description: "Honest evpct Colors liquid eyeliner review: 12 vivid matte shades, stamp tips, smudge-test results. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BXNN9263/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/410P1Vdr6ZL._SS40_.jpg"
-pros:
+pros: 
   - "12 highly pigmented matte shades with a single-stroke payoff that rivals higher-end brands"
   - "Dual-ended design pairs precision brush tip with fun stamp shapes for quick graphic looks"
   - "Dries to a true matte finish in under 60 seconds — no shine, no transfer once set"
-cons:
+cons: 
   - "Formula runs thin — you'll need two coats for full opacity on darker skin tones"
   - "Stamp pads dry out quickly if caps aren't sealed perfectly; store upright or they'll stiffen"
+
 ---
 
 Let's be honest: colored eyeliner is a gamble. Most drugstore options turn chalky or fade by lunch. So when the evpct Colors set showed up with 12 matte shades, I had to test whether this $20-ish kit (price fluctuates, so check current) actually earns its keep or just looks pretty in the listing photos.

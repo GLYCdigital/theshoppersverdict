@@ -1,4 +1,5 @@
 ---
+
 title: "Lacoste - Pour Femme Eau de Parfum - Women's Fragrance - Flo"
 seo_title: "Lacoste - Pour Femme Eau de Parfum - Women's Fragr Review"
 meta_description: "Our full lacoste - pour femme eau de parfum - women's fragrance - flo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN4STCCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Sls0XYFYL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you test a fragrance in-store, walk around for an hour, and keep catching whiffs of something that just *works*? That's the Lacoste Pour Femme experience, minus the department store markup. With 225 ratings averaging 4.5 stars, this isn't a cult classic — but it's quietly building a following among women who want elegance without screaming for attention.

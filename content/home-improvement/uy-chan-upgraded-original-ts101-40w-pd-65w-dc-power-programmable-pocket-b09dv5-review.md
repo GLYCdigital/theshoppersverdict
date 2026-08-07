@@ -1,4 +1,5 @@
 ---
+
 title: "UY CHAN Upgraded Original TS101 40W PD 65W DC Power Programm"
 seo_title: "UY CHAN Upgraded Original TS101 40W PD 65W DC Powe Review"
 meta_description: "Our full uy chan upgraded original ts101 40w pd 65w dc power programm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09DV5N7NB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eBdypQOiL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The UY CHAN TS101 isn't just another USB-C soldering iron. It's the answer to a specific question: do you need a full station for occasional board work, or do you want something that heats up before you finish plugging it in? At 4.5 stars across 225 ratings, this pocket-sized iron has clearly found its audience. Here's who that audience is — and isn't.

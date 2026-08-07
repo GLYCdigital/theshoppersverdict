@@ -1,4 +1,5 @@
 ---
+
 title: "knoworld Rolling Kitchen Island with Storage Cabinet, 35.4''"
 seo_title: "knoworld Rolling Kitchen Island with Storage Cabin Review"
 meta_description: "Our full knoworld rolling kitchen island with storage cabinet, 35.4'' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GH795K79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VJoCdVSxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen is short on counter space, a rolling island is one of the quickest fixes — provided it's actually sturdy enough to work on. The knoworld Rolling Kitchen Island (35.4-inch width) clears that bar, and then some. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in real kitchens. But "good" and "right for you" aren't always the same thing. Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Wicked Emerald City & Kiamo Ko Castle Building Toy - El"
 seo_title: "LEGO Wicked Emerald City & Kiamo Ko Castle Buildin Review"
 meta_description: "Our full lego wicked emerald city & kiamo ko castle building toy - el review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRW6GDXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RVdEEqNQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wanted to own a piece of Oz without the flying monkeys, the **LEGO Wicked Emerald City & Kiamo Ko Castle** (set #75683) is the closest you’ll get. This 1,322-piece set is the first LEGO build based on the *Wicked* franchise, and it does something clever: it crams two distinct locations into one box. That dual-set design is the headline feature here, and it mostly delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dash Everyday Stand Mixer - Compact Tilt-Head Stand Mixer fo"
 seo_title: "Dash Everyday Stand Mixer Review: Compact Power for Small Kitchens"
 meta_description: "Our honest Dash Everyday Stand Mixer review: 4.2-star rated compact tilt-head mixer. Is it worth it for small kitchens? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09MGQN29B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713lD9y3qsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compact footprint (about 8 inches wide) that fits under standard upper cabinets without sacrificing bowl capacity"
   - "5-quart stainless steel bowl handles full batch cookie recipes despite the small frame"
   - "Tilt-head design locks securely in three positions, making attachment swaps genuinely one-handed"
-cons:
+cons: 
   - "350-watt motor strains noticeably on thick doughs like bagels or heavy bread — plan for slower mixing speeds"
   - "Only 6 speed settings with no pulse option, limiting precision for delicate whipped cream or meringue work"
+
 ---
 
 The Dash Everyday Stand Mixer has carved out a specific niche: it's for people who want stand mixer convenience but physically don't have the counter space for a KitchenAid. At roughly 8 inches wide and 12 inches tall, this thing tucks under cabinets that would swallow a full-size unit. But does compact mean compromised? I dug through 210 ratings (averaging 4.2 stars) to give you the straight story.

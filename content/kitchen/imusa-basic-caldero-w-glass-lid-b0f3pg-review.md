@@ -1,4 +1,5 @@
 ---
+
 title: "IMUSA Basic Caldero w/Glass Lid"
 seo_title: "IMUSA Basic Caldero w/Glass Lid Review: Verdict | TSV"
 meta_description: "Our full imusa basic caldero w/glass lid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3PGH8SM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xd3a47zvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 Rice Pot That Takes Your Arroz Con Pollo From Fine to Fuego**

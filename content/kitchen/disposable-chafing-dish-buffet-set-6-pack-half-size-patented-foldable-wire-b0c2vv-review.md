@@ -1,4 +1,5 @@
 ---
+
 title: "Disposable Chafing Dish Buffet Set – 6 Pack Half Size | Pa"
 seo_title: "Disposable Chafing Dish Buffet Set Review: 6-Pack Half Size"
 meta_description: "Honest review of the 6-pack disposable chafing dish buffet set. Build quality, heat retention, real customer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C2VV3W9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gXWY22WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Foldable wire frame collapses flat for storage — no more wrestling with bulky chafing stands"
   - "Gel fuel burners included (6 per pack) — actually enough to run all three hours of a typical event"
   - "Half-size pans fit standard 12-inch chafing dishes, so you can mix and match with existing gear"
-cons:
+cons: 
   - "Pans are thin aluminum — they dent if you stack heavy food directly on top"
   - "No lid clips or locking tabs — wind will flip the lids if you're serving outdoors"
+
 ---
 
 **Frontmatter complete. Now the review body:**

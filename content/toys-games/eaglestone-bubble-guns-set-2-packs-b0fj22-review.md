@@ -1,4 +1,5 @@
 ---
+
 title: "EagleStone Bubble Guns Set 2 Packs"
 seo_title: "EagleStone Bubble Guns Review: 2-Pack Fun for Kids (2026)"
 meta_description: "Honest EagleStone Bubble Guns 2-pack review: performance, leak issues, battery life, and whether this 4.4-star toy is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJ227P3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jm6jHQ7DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two complete units in one box — siblings can play simultaneously without fighting over a single gun"
   - "Leak-resistant battery compartment with a secure screw-on cap that survives toddler drops"
   - "High bubble output per pull — roughly 40-60 bubbles per trigger squeeze, not a weak dribble"
-cons:
+cons: 
   - "Requires 3 AA batteries per gun (6 total) that aren't included — hidden cost at checkout"
   - "Bubble solution bottles are small (2oz); heavy play drains them in about 20 minutes"
   - "Plastic feels lightweight; aggressive kids may crack the trigger mechanism within months"
+
 ---
 
 **Bottom line: For the price of a single fancy bubble machine, you get two guns that actually work well — but budget for extra solution and batteries upfront.**

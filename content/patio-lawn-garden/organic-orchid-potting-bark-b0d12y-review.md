@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Orchid Potting Bark"
 seo_title: "Organic Orchid Potting Bark Review: Verdict | TSV"
 meta_description: "Our full organic orchid potting bark review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D12YVJZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mqWVI4U5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most orchid bark sold online is either too fine, too dusty, or breaks down into mush within six months. This organic mix from the B0D12YVJZ listing appears to have solved that problem — at least for the 229 shoppers who've pushed it to a 4.6-star average. Here's the full breakdown before you spend your money.

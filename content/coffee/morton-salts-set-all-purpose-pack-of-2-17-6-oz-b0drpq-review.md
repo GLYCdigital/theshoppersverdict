@@ -1,4 +1,5 @@
 ---
+
 title: "Morton, Salts Set, All-Purpose (Pack of 2, 17.6 Oz)"
 seo_title: "Morton, Salts Set, All-Purpose (Pack of 2, 17.6 Oz Review"
 meta_description: "Our full morton, salts set, all-purpose (pack of 2, 17.6 oz) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRPQVWQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cu-1MsgTL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: Morton All-Purpose Salt is the workhorse of the kitchen, not the show pony. This 2-pack gives you two 17.6-ounce cylinders — 35.2 ounces total — and for most households, that's roughly four to six months of daily cooking, depending on how heavy-handed you are. It's iodized, which matters if you're not getting iodine from seafood or dairy.

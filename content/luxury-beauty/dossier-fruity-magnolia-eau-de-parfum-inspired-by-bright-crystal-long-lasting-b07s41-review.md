@@ -1,4 +1,5 @@
 ---
+
 title: "Dossier - Fruity Magnolia - Eau de Parfum - Inspired by Brig"
 seo_title: "Dossier Fruity Magnolia Review: Worth It? Honest Take"
 meta_description: "Dossier Fruity Magnolia Eau de Parfum review: long-lasting, budget-friendly dupe of Bright Crystal. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S414Q67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618izk97TgL._SL1500_.jpg"
-pros:
+pros: 
   - "Lasts 6-8 hours on skin with solid projection for the first 2-3 hours"
   - "Near-identical scent profile to the $100+ designer original at a fraction of the cost"
   - "Clean, fresh magnolia note doesn't turn powdery or synthetic as it dries down"
-cons:
+cons: 
   - "Becomes a skin scent after 4 hours — reapplication needed for evening wear"
   - "Bottle design is functional but unremarkable; no magnetic cap or weighty glass"
+
 ---
 
 Let's cut through the noise: **Dossier's Fruity Magnolia** is a clone of Versace Bright Crystal, and it's a remarkably good one. At roughly a third of the price of the original, it delivers 90% of the experience. But as with any dupe, there are tradeoffs you need to know before you click "add to cart."

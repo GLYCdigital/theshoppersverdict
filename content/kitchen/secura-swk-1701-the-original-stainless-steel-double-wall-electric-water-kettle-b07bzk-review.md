@@ -1,4 +1,5 @@
 ---
+
 title: "Secura SWK-1701 The Original Stainless Steel Double Wall Ele"
 seo_title: "Secura SWK-1701 The Original Stainless Steel Doubl Review"
 meta_description: "Our full secura swk-1701 the original stainless steel double wall ele review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07BZK6C6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tzejCp78L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the cheap plastic kettles that crack, taste like chemicals, and cool off before your tea even steeps. The Secura SWK-1701 is not that. This is the double-wall stainless model that's been a quiet bestseller for years — and for good reason. But it's not perfect, and I'll tell you exactly where it stumbles.

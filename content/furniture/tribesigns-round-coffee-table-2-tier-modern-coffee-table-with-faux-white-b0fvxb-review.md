@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Round Coffee Table, 2 Tier Modern Coffee Table wi"
 seo_title: "Tribesigns Round Coffee Table, 2 Tier Modern Coffe Review"
 meta_description: "Our full tribesigns round coffee table, 2 tier modern coffee table wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVXBH1Z3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H3YDUJYhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re looking at a round coffee table, and the first question that pops into your head is probably: *Why round?* For starters, it kills the bruised-shin problem dead — no corners to catch you at 2 a.m. But the Tribesigns Round Coffee Table 2-Tier isn't just about avoiding bruises. It's a compact, two-level piece that tries to nail the modern farmhouse look without charging modern farmhouse prices. Here's the honest breakdown.

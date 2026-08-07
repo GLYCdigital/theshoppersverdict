@@ -1,4 +1,5 @@
 ---
+
 title: "Motion Activated Sprinkler to Deter Animal Cat, Birds, Dogs "
 seo_title: "Motion Activated Sprinkler to Deter Animal Cat, Bi Review"
 meta_description: "Our full motion activated sprinkler to deter animal cat, birds, dogs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GV8NNCT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41SRBl4SmQL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Decent Perimeter Guard With One Glaring Flaw**

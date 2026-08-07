@@ -1,4 +1,5 @@
 ---
+
 title: "FRIGIDAIRE Stainless Steel Microwave Oven, Multi Function, P"
 seo_title: "FRIGIDAIRE Stainless Steel Microwave Oven, Multi F Review"
 meta_description: "Our full frigidaire stainless steel microwave oven, multi function, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D54RB8KW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g0WfoNUpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most microwaves under $100 are disposable junk with a spinning plate and three buttons. The FRIGIDAIRE 1.1 cu ft stainless model tries to be smarter than that — and mostly succeeds. With a 4.1-star average across 204 ratings, it's not perfect, but it's a solid mid-tier countertop unit that gets the basics right and adds genuinely useful presets.

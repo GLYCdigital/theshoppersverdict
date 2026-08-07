@@ -1,4 +1,5 @@
 ---
+
 title: "Vista Hermosa Flour Tortillas 8 Count, 12 OZ"
 seo_title: "Vista Hermosa Flour Tortillas 8 Count, 12 OZ Review: Verd"
 meta_description: "Our full vista hermosa flour tortillas 8 count, 12 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DRKBGJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l53inxapL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most grocery-store flour tortillas taste like cardboard wrapped in plastic. The Vista Hermosa 8-count, 12-ounce pack is not that. These are the real deal — the kind of tortillas you'd get at a family-run taqueria, not the factory-extruded discs that crack when you look at them wrong.

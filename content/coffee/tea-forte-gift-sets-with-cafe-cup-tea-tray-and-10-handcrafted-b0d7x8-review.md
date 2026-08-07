@@ -1,4 +1,5 @@
 ---
+
 title: "Tea Forte Gift Sets with Cafe Cup, Tea Tray and 10 Handcraft"
 seo_title: "Tea Forte Gift Sets with Cafe Cup, Tea Tray and 10 Review"
 meta_description: "Our full tea forte gift sets with cafe cup, tea tray and 10 handcraft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D7X8QH4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qeswJ+VRL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a tea lover who already owns a drawer full of novelty mugs, stop right here. The **Tea Forte Gift Set with Cafe Cup, Tea Tray, and 10 Handcrafted Sachets** is the rare gift that actually gets used daily instead of collecting dust. At 4.3 stars across 215 Amazon ratings, it's not perfect — but it's close for what it aims to be.

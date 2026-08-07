@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell Water Heater Gas Valve, Standing Pilot with PIEZO,"
 seo_title: "Honeywell Water Heater Gas Valve, Standing Pilot w Review"
 meta_description: "Our full honeywell water heater gas valve, standing pilot with piezo, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B06XNVJQD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FGtvMafGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your water heater just died. You call a plumber, and they quote you $450 for a part that costs a fraction of that online. Sound familiar? The Honeywell Water Heater Gas Valve with PIEZO ignition is the exact replacement part that DIY homeowners buy to skip that markup. But is it worth the hassle of swapping it yourself? Here's what 210 Amazon reviewers found.

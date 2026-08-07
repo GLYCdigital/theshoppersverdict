@@ -1,4 +1,5 @@
 ---
+
 title: "Bergamot Black Tea by Art of Tea"
 seo_title: "Art of Tea Bergamot Black Tea Review: Worth It?"
 meta_description: "Honest Art of Tea Bergamot Black Tea review: flavor, aroma, and value. See if this Earl Grey upgrade earns its price for your daily cup."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BZ4HYWDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Whole-leaf black tea base with real Calabrian bergamot oil — not artificial flavoring"
   - "Bright, citrusy aroma that fills the room the moment the pouch opens"
   - "Holds up to multiple infusions; second and third steeps still deliver flavor"
-cons:
+cons: 
   - "Priced noticeably higher per ounce than grocery-store Earl Grey options"
   - "Loose-leaf format requires an infuser or teapot — not convenient for office desks"
   - "Bergamot intensity fades faster than expected if you brew at full rolling boil"
+
 ---
 
 Let's be blunt: most Earl Grey on supermarket shelves tastes like a tea bag that got a perfume sample sprayed on it. Art of Tea's Bergamot Black Tea is not that. This is a loose-leaf whole-leaf tea using real Calabrian bergamot oil, and the difference shows up in the first sip. But at a premium price with a 4.0-star average across 200 ratings, is it actually worth switching your morning routine for? Here's the honest breakdown.

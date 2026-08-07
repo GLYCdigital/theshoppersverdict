@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair Vengeance RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL36-44 inch"
 seo_title: "Corsair Vengeance RGB DDR5 32GB Review: Worth It in 2026?"
 meta_description: "Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz CL36 review: real benchmarks, build quality, compatibility issues, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FH52VPN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XsKRKsGoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Excellent 6000MHz performance with tight CL36 latency — ideal for Ryzen 7000/9000 series CPUs where 6000MT/s is the sweet spot"
   - "Clean, low-profile heat spreader at 44mm tall clears most large air coolers like the Noctua NH-D15 and be quiet! Dark Rock Pro"
   - "Per-module RGB lighting with 10 individually addressable LEDs per stick, fully compatible with iCUE and motherboard ARGB sync"
-cons:
+cons: 
   - "XMP/EXPO profiles can be finicky on some AM5 motherboards — expect to manually set voltages if your board has older BIOS"
   - "No built-in thermal sensor readout in iCUE, so you can't monitor DIMM temps without third-party software"
+
 ---
 
 If you're building a DDR5 system in 2026, the Corsair Vengeance RGB 32GB kit at 6000MHz CL36 sits in a weirdly perfect spot. It's not the fastest kit on the shelf, and it's not the cheapest either. But it's the kit that makes the most sense for most people — especially if you've gone AMD. Here's the real story after spending time with it.

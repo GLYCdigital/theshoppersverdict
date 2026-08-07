@@ -1,4 +1,5 @@
 ---
+
 title: "Oak&Sparrow Rattan Nightstand, 23.6'' Rattan End Table with "
 seo_title: "Oak&Sparrow Rattan Nightstand, 23.6'' Rattan End T Review"
 meta_description: "Our full oak&sparrow rattan nightstand, 23.6'' rattan end table with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F6KH82FY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OOOGNPclL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a hundred identical black-and-brown nightstands, the Oak&Sparrow rattan end table is the one that makes you stop. That woven cane front isn't printed on — it's actual hand-woven rattan wrapped around solid MDF drawer fronts. At 23.6 inches wide and roughly 23 inches tall, it's sized right for a queen bed without dominating the room. But at 4.2 stars from 210 ratings, the story is more nuanced than "pretty boho table." Here's what you actually need to know.

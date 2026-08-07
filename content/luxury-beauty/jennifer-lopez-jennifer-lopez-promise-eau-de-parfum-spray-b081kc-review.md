@@ -1,4 +1,5 @@
 ---
+
 title: "Jennifer Lopez Jennifer Lopez Promise Eau de Parfum Spray"
 seo_title: "Jennifer Lopez Jennifer Lopez Promise Eau de Parfu Review"
 meta_description: "Our full jennifer lopez jennifer lopez promise eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B081KCVYZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eF9dvnzhL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Celebrity fragrances get a bad rap. Most are thin, fleeting, and smell like the marketing brief they were built from. The Jennifer Lopez Promise Eau de Parfum is not that. It's a genuinely well-constructed warm floral that earns its 4.5-star average across 225 Amazon ratings — but it's not without quirks.

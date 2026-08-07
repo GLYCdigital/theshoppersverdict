@@ -1,4 +1,5 @@
 ---
+
 title: "PHI VILLA Solid Wood Bed Frame with Rattan Headboard, Mid Ce"
 seo_title: "PHI VILLA Solid Wood Bed Frame with Rattan Headboa Review"
 meta_description: "Our full phi villa solid wood bed frame with rattan headboard, mid ce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6CVVJR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9128EbVdVNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Phi Villa Solid Wood Bed Frame with Rattan Headboard** walks a careful line between furniture and decor piece. At a glance, it's the kind of mid-century modern bed that makes a bedroom look intentionally styled rather than just furnished. But with zero verified reviews on Amazon at this writing, you're essentially buying on spec. Here's what the product photos and specifications tell us — and what they don't.

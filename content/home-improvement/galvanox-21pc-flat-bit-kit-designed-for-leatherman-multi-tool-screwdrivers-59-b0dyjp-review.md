@@ -1,4 +1,5 @@
 ---
+
 title: "Galvanox 21PC Flat Bit-Kit Designed for Leatherman Multi-Too"
 seo_title: "Galvanox 21PC Flat Bit-Kit Review: Leatherman Ready"
 meta_description: "Galvanox 21PC Flat Bit-Kit for Leatherman multi-tools reviewed: fit, durability, and real-world performance. See if this $20 bit set is worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DYJP25KX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8196jcaa9OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits Leatherman's flat bit driver snugly with zero wobble — no adapter needed"
   - "Includes Torx and security Torx bits, which most generic kits skip"
   - "Bits are S2 steel with a proper 1/4-inch hex shank, not cheap stamped metal"
-cons:
+cons: 
   - "No carrying case included — bits arrive loose in a plastic sleeve"
   - "Flat bits only; won't work with Leatherman's older round-bit models"
+
 ---
 
 Let me save you the headache I had three years ago. I bought a "compatible" bit kit for my Leatherman Wave off Amazon, and the bits wobbled like a loose tooth in a hurricane. The Galvanox 21PC Flat Bit-Kit is not that kit. At 4.8 stars from 240 ratings, this is the one Leatherman owners keep coming back to.

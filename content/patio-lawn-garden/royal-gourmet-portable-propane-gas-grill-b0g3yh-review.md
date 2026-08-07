@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Gourmet Portable Propane Gas Grill"
 seo_title: "Royal Gourmet Portable Propane Gas Grill Review: Verdict "
 meta_description: "Our full royal gourmet portable propane gas grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G3YHSYBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w30ziqc+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped portable grills, you know the category splits into two camps: tailgate-sized toys that struggle to cook for more than two people, and bulky "portable" units that require a pickup truck. The Royal Gourmet Portable Propane Gas Grill sits in a rare middle ground—it folds down compact enough to justify the "portable" label while still delivering legitimate cooking surface. At 320 square inches across three burners, it's not the smallest option out there, but it's a real grill, not a toy.

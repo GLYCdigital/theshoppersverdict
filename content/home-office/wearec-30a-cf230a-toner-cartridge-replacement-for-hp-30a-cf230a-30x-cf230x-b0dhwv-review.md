@@ -1,4 +1,5 @@
 ---
+
 title: "WEAREC 30A CF230A Toner Cartridge Replacement for HP 30A CF2"
 seo_title: "WEAREC 30A CF230A Toner Cartridge Replacement for  Review"
 meta_description: "Our full wearec 30a cf230a toner cartridge replacement for hp 30a cf2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHWVZKSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cENTfxjKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front**

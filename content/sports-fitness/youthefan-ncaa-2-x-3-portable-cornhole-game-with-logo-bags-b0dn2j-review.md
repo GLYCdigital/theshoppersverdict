@@ -1,4 +1,5 @@
 ---
+
 title: "YouTheFan NCAA 2' x 3' Portable Cornhole Game with Logo Bags"
 seo_title: "YouTheFan NCAA 2' x 3' Portable Cornhole Game with Review"
 meta_description: "Our full youthefan ncaa 2' x 3' portable cornhole game with logo bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DN2JKM4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w8giiWzRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to play cornhole on one of those flimsy 1' x 2' travel sets, you know the frustration: bags bounce off, the board wobbles, and nobody's actually improving their toss. The YouTheFan NCAA 2' x 3' Portable Cornhole Game fixes the biggest sin of portable sets by keeping the full regulation playing surface. At 2' x 3', you're getting the exact same target dimensions as the boards at your local bar league—just in a lighter, carry-friendly package.

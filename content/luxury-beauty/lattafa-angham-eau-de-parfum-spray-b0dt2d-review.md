@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Angham Eau de Parfum Spray"
 seo_title: "Lattafa Angham Eau de Parfum Spray Review: Verdict | TSV"
 meta_description: "Our full lattafa angham eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT2DR99G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51020z42mVL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Lattafa Angham Eau de Parfum Spray Review: The $40 Vanilla That Thinks It's $200**

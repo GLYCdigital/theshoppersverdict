@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA L Shaped Gaming Desk, Reversible U Shaped Computer De"
 seo_title: "SEDETA L Shaped Gaming Desk, Reversible U Shaped C Review"
 meta_description: "Our full sedeta l shaped gaming desk, reversible u shaped computer de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBH3CN1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fx-Wg1zeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SEDETA L Shaped Gaming Desk Review: Big Corner Real Estate Without the Assembly Nightmare

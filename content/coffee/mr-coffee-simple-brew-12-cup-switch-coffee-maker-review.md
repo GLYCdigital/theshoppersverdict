@@ -1,16 +1,17 @@
 ---
+
 title: "Mr. Coffee® Simple Brew 12-Cup Switch Coffee Maker"
 seo_title: "Mr. Coffee® Simple Brew 12-Cup Switch Coffee Maker Review"
 meta_description: "Our full mr. coffee® simple brew 12-cup switch coffee maker. Read real Amazon customer insights, pros, cons, and our verdict. 44,478+ reviews analyzed."
 slug: "mr-coffee-simple-brew-12-cup-switch-coffee-maker-review"
 image_alt: "Mr. Coffee® Simple Brew 12-Cup Switch Coffee Maker"
-keywords:
+keywords: 
   - "mr coffee simple review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the Mr. Coffee® Simple Brew 12-Cup Switch Coffee Maker?"
     answer: "Users consistently praise the easy to set up and use right out of the box. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,13 +24,14 @@ review_count: 44478
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002YI49H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Jtl9s4DSL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Easy to set up and use right out of the box"
   - "Strong performance that meets expectations"
   - "Attractive design that looks good in any setting"
-cons:
+cons: 
   - "Some users report durability concerns over time"
   - "Performance may not satisfy power users"
+
 ---
 
 There's a reason this machine has over 44,000 ratings and still holds a 4.4-star average after all these years: it does exactly what it says, nothing more, nothing less. The Mr. Coffee Simple Brew is the automotive equivalent of a base-model Corolla — unglamorous, unbreakable, and utterly dependable. At $54.98, it's priced to be the last drip coffee maker you buy for a dorm room, a rental, or a household that just wants hot coffee without a Bluetooth pairing ritual.

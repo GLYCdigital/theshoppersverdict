@@ -1,4 +1,5 @@
 ---
+
 title: "RWYHG Farmhouse Night Stand with Charging Stationï¼Œ18'' Sid"
 seo_title: "RWYHG Farmhouse Night Stand with Charging Stationï Review"
 meta_description: "Our full rwyhg farmhouse night stand with charging stationï¼œ18'' sid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK3TMYG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aWY4eMvCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A compact nightstand that actually solves the bedside clutter problem — if you've got the outlet placement for it.**

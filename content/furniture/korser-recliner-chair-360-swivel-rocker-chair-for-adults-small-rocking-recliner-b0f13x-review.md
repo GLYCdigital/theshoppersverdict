@@ -1,4 +1,5 @@
 ---
+
 title: "Korser Recliner Chair, 360 Swivel Rocker Chair for Adults, S"
 seo_title: "Korser Recliner Chair, 360 Swivel Rocker Chair for Review"
 meta_description: "Our full korser recliner chair, 360 swivel rocker chair for adults, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F13XM41K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NHU6U8H6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a compact recliner that doesn't swallow your living room, the Korser 360 Swivel Rocker Recliner deserves a hard look. But "hard look" is the operative phrase — this chair has some genuine strengths and a couple of dealbreaker quirks depending on how you plan to use it. Let me break down what 195 Amazon reviewers (averaging 3.9 stars) are actually saying.

@@ -1,4 +1,5 @@
 ---
+
 title: "L'Oreal Paris True Match Super Blendable Crayon Concealer"
 seo_title: "L'Oreal Paris True Match Super Blendable Crayon Co Review"
 meta_description: "Our full l'oreal paris true match super blendable crayon concealer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB1DXV9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iKZvjbpwL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The drugstore concealer that thinks it's luxury — and mostly pulls it off**

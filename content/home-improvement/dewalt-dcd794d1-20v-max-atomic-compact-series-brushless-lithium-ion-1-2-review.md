@@ -1,4 +1,5 @@
 ---
+
 title: "Dewalt DCD794D1 20V MAX ATOMIC COMPACT SERIES Brushless Lithium-Ion 1/2 in. Cordless Drill Driver Kit (2 Ah)"
 seo_title: "Dewalt DCD794D1 Atomic Drill Review: Compact Power"
 meta_description: "Dewalt DCD794D1 Atomic compact drill review: 4.7/5 rating. Is this 20V brushless driver worth it? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 248
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BY1BQ285/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617QVCvhcXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Weighs just 2.8 lbs with battery — genuinely one-hand friendly for overhead work"
   - "Brushless motor delivers 340 unit watts out (UWO) in a frame shorter than a 12V competitor"
   - "LED work light with 20-second delay after trigger release — actually useful in dark corners"
-cons:
+cons: 
   - "Included 2Ah battery is underwhelming for sustained heavy drilling — plan for a spare"
   - "No belt clip or bit holder included in the kit — minor but annoying for a 'compact' tool"
   - "Chuck is plastic-bodied, not all-metal like the higher-tier XR line"
+
 ---
 
 ## The Compact That Actually Feels Compact

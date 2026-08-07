@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: A New Hope Tantive IV - Creative Building Se"
 seo_title: "LEGO Star Wars: A New Hope Tantive IV - Creative B Review"
 meta_description: "Our full lego star wars: a new hope tantive iv - creative building se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGYH4VG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wilPGyaAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Tantive IV is the ship where Star Wars begins — the Blockade Runner that gets boarded in the opening crawl, the vessel Leia flees in with the Death Star plans. LEGO's 502-piece interpretation of this iconic corvette is a curious middle ground: not the massive 1,368-piece UCS version, not a cheap impulse build either. It sits right in the sweet spot for fans who want a recognizable display piece without mortgaging the monthly Lego budget.

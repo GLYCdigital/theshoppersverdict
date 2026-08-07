@@ -1,4 +1,5 @@
 ---
+
 title: "Weruva Pumpkin Patch Up! Pumpkin Pouches for Dogs & Cats"
 seo_title: "Weruva Pumpkin Patch Up! Pumpkin Pouches for Dogs  Review"
 meta_description: "Our full weruva pumpkin patch up! pumpkin pouches for dogs & cats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08FLF1RJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ia-WbuEmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most pet supplement products are overpriced marketing fluff. Weruva Pumpkin Patch Up! isn't one of them — but it's also not the budget option. Here's the real breakdown.

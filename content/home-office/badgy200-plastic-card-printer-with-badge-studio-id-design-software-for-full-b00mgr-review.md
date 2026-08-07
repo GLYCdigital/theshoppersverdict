@@ -1,4 +1,5 @@
 ---
+
 title: "Badgy200 Plastic Card Printer with Badge Studio+ ID design s"
 seo_title: "Badgy200 Card Printer Review: ID Badges Made Easy"
 meta_description: "Honest Badgy200 plastic card printer review: print quality, software, reliability, and real buyer feedback. Is this ID badge printer worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B00MGRDVF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ufqWjiWML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint fits on a standard desk without dominating it"
   - "Badge Studio+ software is genuinely intuitive for basic ID design"
   - "Single-sided printing on CR80 cards is crisp and professional"
-cons:
+cons: 
   - "Printer jams are a recurring theme in buyer feedback, especially with thicker cards"
   - "Driver setup on modern operating systems (Windows 11, macOS) can be finicky"
   - "Replacement ribbon and card costs add up quickly for high-volume use"
+
 ---
 
 **The Badgy200 is a classic "right tool, right price, wrong expectations" situation.** It's a dedicated single-sided card printer that's been around for years, and at a glance, it looks like the perfect solution for a small office needing employee badges or membership cards. But with a 3.7-star average across 185 ratings, the real story is more nuanced. This is a capable machine with a specific sweet spot — and a few sharp edges you need to know about before you click buy.

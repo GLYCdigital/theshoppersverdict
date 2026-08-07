@@ -1,4 +1,5 @@
 ---
+
 title: "Dripex Rowing Machines for Home, Rowing Machine Magnetic Row"
 seo_title: "Dripex Magnetic Rowing Machine Review: Home Rower Worth It?"
 meta_description: "Read our Dripex magnetic rowing machine review. 4.4-star rated home rower with 350-lb capacity. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMT4YWQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LmEu5O8iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-level magnetic resistance delivers whisper-quiet workouts — no squeaky chain or air-fan roar"
   - 350-pound weight capacity with a 16.4-inch stride rail that fits users up to 6'4 inch "
   - "Folds upright to under 2 square feet of floor space with a transport wheel for easy storage"
-cons:
+cons: 
   - "Bluetooth connectivity is limited to the Dripex app, which feels basic compared to Kinomap or Zwift"
   - "Assembly takes a solid 45 minutes with some awkward bolt alignment on the rail-to-frame connection"
   - "Monitor lacks backlight — hard to read in dim home gyms or early-morning sessions"
+
 ---
 
 **The Dripex magnetic rower at a glance**

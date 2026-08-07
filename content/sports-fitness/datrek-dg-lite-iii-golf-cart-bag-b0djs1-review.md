@@ -1,4 +1,5 @@
 ---
+
 title: "Datrek DG Lite III Golf Cart Bag"
 seo_title: "Datrek DG Lite III Review: Is This Cart Bag Worth It?"
 meta_description: "Datrek DG Lite III Golf Cart Bag review: 14-way organizer, 9.5 lbs, waterproof valuables pocket. See pros, cons, and verdict for cart golfers."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJS1JRCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q7aQBeIWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14-way full-length dividers keep every club separated and tangle-free, with a dedicated putter well"
   - "Weighs only 9.5 lbs — noticeably lighter than most cart bags in this class"
   - "Waterproof valuables pocket with fleece lining actually protects your phone and wallet"
-cons:
+cons: 
   - "No integrated cooler pocket — you'll need a separate solution for drinks"
   - "Base is slightly less stable on uneven terrain when fully loaded"
+
 ---
 
 Look, most cart bags are heavy, overbuilt, and honestly kind of annoying. The Datrek DG Lite III is different — it's a 9.5-pound bag that doesn't sacrifice organization for weight. After 235 ratings averaging 4.7 stars, it's clear this bag has found its audience. The question is whether that audience includes you.

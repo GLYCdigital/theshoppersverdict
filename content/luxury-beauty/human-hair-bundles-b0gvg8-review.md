@@ -1,4 +1,5 @@
 ---
+
 title: "Human Hair Bundles"
 seo_title: "Human Hair Bundles Review: Verdict | TSV"
 meta_description: "Our full human hair bundles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GVG8WGB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711FiYMFyhL._SL1024_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Honest Truth About These Bundles**

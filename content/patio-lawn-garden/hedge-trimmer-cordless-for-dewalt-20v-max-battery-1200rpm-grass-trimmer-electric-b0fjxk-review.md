@@ -1,4 +1,5 @@
 ---
+
 title: "Hedge Trimmer Cordless for DEWALT 20V MAX Battery, 1200RPM G"
 seo_title: "Hedge Trimmer Cordless for DEWALT 20V MAX Battery, Review"
 meta_description: "Our full hedge trimmer cordless for dewalt 20v max battery, 1200rpm g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJXKRBQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MlZTT8ALL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're already in the DEWALT 20V MAX ecosystem, this $49.99 hedge trimmer is arguably the smartest $50 you'll spend on yard work this year. If you're not, read closely before you buy—because the real cost may be higher than the sticker price.

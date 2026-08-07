@@ -1,4 +1,5 @@
 ---
+
 title: "SITMOD Fabric Office Chair, Computer Gaming Chair"
 seo_title: "SITMOD Fabric Office Chair, Computer Gaming Chair Review:"
 meta_description: "Our full sitmod fabric office chair, computer gaming chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G2LJFYRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L9Z72z2aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Build Quality and Real-World Performance

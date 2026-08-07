@@ -1,7 +1,8 @@
 ---
-title: "Chabatree Shower Door 60\" W x 76\" H Frameless Sliding Shower"
-seo_title: "Chabatree 60\" Frameless Sliding Shower Door Review"
-meta_description: "Honest Chabatree 60\" frameless sliding shower door review: build quality, installation difficulty, real user feedback, and who should buy it."
+
+title: "Chabatree Shower Door 60\ W x 76\ H Frameless Sliding Shower"
+seo_title: "Chabatree 60\ Frameless Sliding Shower Door Review"
+meta_description: "Honest Chabatree 60\ frameless sliding shower door review: build quality, installation difficulty, real user feedback, and who should buy it."
 slug: "chabatree-shower-door-60-w-x-76-h-frameless-sliding-shower-door-b0g1rb-review"
 image_alt: "Chabatree 60 inch frameless sliding shower door with clear tempered glass and brushed nickel hardware"
 verdict_score: 4.2
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G1RBX9NG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U2lK3WbfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10mm tempered glass feels substantial and premium — noticeably thicker than the 6mm or 8mm glass on cheaper frameless kits"
   - "Pre-drilled holes and labeled hardware cut installation time roughly in half compared to similar kits from competing brands"
   - "Bottom roller system glides smoothly and stays quiet; no annoying rattling even with an off-level floor"
-cons:
+cons: 
   - The 60\" width is a nominal measurement — actual glass panels run slightly narrower, so measure your opening before ordering
   - "Installation requires two people and a helper with a strong back; the heavy glass panels are unforgiving if you're solo"
   - "Some buyers report the brushed nickel finish scuffs easily during installation — handle the trim pieces with care"
+
 ---
 
 **The Verdict: A solid frameless slider that beats the price-point competition — if you're ready for a real install**

@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStation PS5 Console â€“ God of War RagnarÃ¶k Bundle"
 seo_title: "PlayStation PS5 Console â€“ God of War RagnarÃ¶k B Review"
 meta_description: "Our full playstation ps5 console â€“ god of war ragnarã¶k bundle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BHC395WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Lp5LfK9uL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been circling the PS5 for a year waiting for the right bundle, this God of War Ragnarök edition is the one that finally makes the math work. You're getting Sony's flagship console plus a $70 game for essentially the price of the hardware alone. That's not marketing math — that's actual value.

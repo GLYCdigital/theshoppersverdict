@@ -1,24 +1,26 @@
 ---
+
 title: "EASYERA Nugget Ice Maker Countertop, 33LBS/24H, Self-Cleanin"
 seo_title: "EASYERA Nugget Ice Maker Review: 33LBS/Day Countertop"
 meta_description: "EASYERA nugget ice maker review: 33 lbs/day, self-cleaning, countertop design. Real pros, cons, and buying advice for pebble ice lovers."
 slug: "easyera-nugget-ice-maker-countertop-33lbs-24h-self-cleaning-portable-pebble-ice-b0c3r1-review"
 image_alt: "EASYERA countertop nugget ice maker with self-cleaning function and 33 lbs daily capacity"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3R14HHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gXIKkBdhL._SL1500_.jpg"
-pros:  
+pros: 
   - "Compact 11.4 x 8.3 x 13.2-inch footprint fits tight countertops"  
   - "Self-cleaning cycle saves manual descaling hassle"  
   - "First batch of chewable nugget ice in under 10 minutes"  
-cons:  
+cons: 
   - "Ice melts fast if left in basket — no built-in refrigeration"  
   - "Noisy compressor — noticeable in open kitchens"  
   - "33 lbs/day is optimistic; realistic output closer to 25 lbs"
+
 ---
 
 If you've ever paid $4 for a bag of Sonic-style nugget ice, you already know the appeal: soft, chewable, and somehow better than anything your freezer makes. The EASYERA Nugget Ice Maker aims to end that store run for good, packing a self-cleaning cycle and a 33-pound daily output into a machine barely larger than a toaster. At 4.2 stars across 210 ratings, it's clearly earning its keep in most kitchens. But as with any countertop ice maker, there are tradeoffs worth knowing before you hit "add to cart."

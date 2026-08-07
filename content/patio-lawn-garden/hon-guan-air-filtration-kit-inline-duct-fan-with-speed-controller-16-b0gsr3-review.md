@@ -1,4 +1,5 @@
 ---
+
 title: "Hon&Guan Air Filtration Kit: Inline Duct Fan with Speed Cont"
 seo_title: "Hon&Guan Air Filtration Kit: Inline Duct Fan with  Review"
 meta_description: "Our full hon&guan air filtration kit: inline duct fan with speed cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSR38QFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Z+LTE0kgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're circulating air in a grow tent, greenhouse, or workshop, you've probably stared at a wall of inline fans and wondered which one won't burn your plants — or your budget. The Hon&Guan 6-inch Air Filtration Kit bundles a centrifugal inline fan, speed controller, and activated carbon filter into one package that undercuts the premium brands by a significant margin. Here's what you actually get for the money.

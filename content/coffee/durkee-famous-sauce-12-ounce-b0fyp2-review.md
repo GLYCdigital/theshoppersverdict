@@ -1,4 +1,5 @@
 ---
+
 title: "Durkee Famous Sauce, 12 Ounce"
 seo_title: "Durkee Famous Sauce Review: 12 oz Bottle Worth It?"
 meta_description: "Durkee Famous Sauce 12 oz review: tangy-sweet condiment with 4.7 stars. Is it worth buying? Real taste, uses, and honest downsides."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYP2PGQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lFJAG397L._SL1000_.jpg"
-pros:
+pros: 
   - "Balanced sweet-tangy flavor that works as both a dip and a finishing sauce without overpowering the main dish"
   - "12-ounce bottle is a practical size — enough for multiple uses but small enough to store in a fridge door"
   - "Smooth, pourable consistency that clings to food without being runny or gloppy"
-cons:
+cons: 
   - "Contains high-fructose corn syrup — a dealbreaker for shoppers avoiding processed sweeteners"
   - "Flavor profile is similar to a thousand-island-style dressing, so it's not wildly unique if you already keep that on hand"
+
 ---
 
 # Durkee Famous Sauce, 12 Ounce: The Condiment That Outperforms Its Humble Packaging

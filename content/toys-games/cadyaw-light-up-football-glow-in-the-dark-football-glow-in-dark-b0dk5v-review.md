@@ -1,4 +1,5 @@
 ---
+
 title: "Cadyaw Light up Football Glow in The Dark Football Glow in D"
 seo_title: "Cadyaw Glow in the Dark Football Review: Worth It? (2026)"
 meta_description: "Cadyaw light-up football review: bright LEDs, durable build, 4.4-star rating. Does it survive night games? Read our honest verdict before buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK5VX3QR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71knjKTAscL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Bright LED lights visible from 100+ yards, making night games genuinely playable"
   - "Decent weight and standard size (roughly 11 inches) for real throwing mechanics"
   - "USB-C rechargeable — no constant battery replacement costs"
-cons:
+cons: 
   - "Light-up shell adds noticeable slickness in wet conditions"
   - "Stitching on the panel edges shows wear after heavy use on rough surfaces"
+
 ---
 
 If you've ever tried to play catch after sunset, you know the drill: squinting into darkness, losing the ball in the grass, and giving up early. The Cadyaw Light Up Football aims to fix that with a built-in LED system that turns dusk into prime throwing time. After digging through 220 ratings and testing the mechanics, here's the real story.

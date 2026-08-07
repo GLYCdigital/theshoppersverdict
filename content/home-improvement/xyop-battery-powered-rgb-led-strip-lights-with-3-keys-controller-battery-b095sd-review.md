@@ -1,4 +1,5 @@
 ---
+
 title: "XYOP Battery Powered RGB LED Strip Lights with 3 Keys Contro"
 seo_title: "XYOP Battery Powered RGB LED Strip Lights with 3 K Review"
 meta_description: "Our full xyop battery powered rgb led strip lights with 3 keys contro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B095SD126K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LuxdvTPaL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about this product: the XYOP Battery Powered RGB LED Strip Lights solve a problem most LED strips create — the need for a nearby outlet. If you've ever wanted under-cabinet lighting in a rental, accent lighting on a bookshelf with no power nearby, or a quick TV backlight without running extension cords, this is the strip designed for that exact scenario.

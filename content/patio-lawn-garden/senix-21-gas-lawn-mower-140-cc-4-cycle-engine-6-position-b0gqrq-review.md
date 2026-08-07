@@ -1,4 +1,5 @@
 ---
+
 title: "SENIX 21'' Gas Lawn Mower, 140 cc 4-Cycle Engine, 6-Position"
 seo_title: "SENIX 21'' Gas Lawn Mower, 140 cc 4-Cycle Engine,  Review"
 meta_description: "Our full senix 21'' gas lawn mower, 140 cc 4-cycle engine, 6-position review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GQRQPS3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SENIX 21'' Gas Mower: Budget-Friendly, But Is It Built to Last?**  

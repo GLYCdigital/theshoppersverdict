@@ -1,17 +1,18 @@
 ---
+
 title: "Hamilton Beach 2-Way 12 Cup Programmable Drip Hot and Iced Coffee Maker"
 seo_title: "Hamilton Beach 2-Way Coffee Maker Review: Full Pot + Single Serve (4.3★)"
 meta_description: "Hamilton Beach 2-Way 12-Cup Programmable Coffee Maker review. 4.3 stars from 625 ratings. Brews a full pot or a single cup — both from the same machine."
 slug: "hamilton-beach-2-way-coffee-maker-review"
 image_alt: "Hamilton Beach 2-Way 12 Cup Programmable Drip Coffee Maker in black with glass carafe"
-keywords:
+keywords: 
   - "Hamilton Beach 2-Way coffee maker review"
   - "Hamilton Beach 47500J review"
   - "best dual brew coffee maker"
   - "programmable coffee maker full pot single serve"
   - "Hamilton Beach coffee maker iced coffee"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "Does the Hamilton Beach 2-Way make iced coffee?"
     answer: "Yes, it has a cold brew / iced coffee option. However, several reviewers note the iced coffee function brews hot — it doesn't use a cold extraction method. You'll need to add your own ice."
   - question: "Does the single-serve side use K-Cups?"
@@ -26,18 +27,19 @@ review_count: 625
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPR511FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xu7HtJjIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual functionality — full 12-cup pot on one side, single serve on the other"
   - "Programmable timer for wake-up coffee"
   - "Compact footprint for a dual-function machine"
   - "Auto shut-off after 2 hours — safety feature for forgetful mornings"
   - "Single-serve works with your own ground coffee, no pods required"
-cons:
+cons: 
   - "Carafe design makes pouring messy — several reviewers report dripping"
   - "Iced coffee function is just hot brew over ice, not true cold brew"
   - "Single-serve reusable filter included but carafe side needs separate filter purchase"
   - "Some splashing from the single-serve dispensing spout"
   - "No K-Cup compatibility — ground coffee only on both sides"
+
 ---
 
 There's a gap in the coffee maker market that's been annoying me for years: you either get a full pot machine or a single-serve unit. Nobody makes both well. The Hamilton Beach 2-Way tries to be that unicorn, and honestly? It gets closer than most.

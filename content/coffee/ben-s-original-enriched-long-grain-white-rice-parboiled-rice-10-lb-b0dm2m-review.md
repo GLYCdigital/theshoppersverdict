@@ -1,4 +1,5 @@
 ---
+
 title: "BEN'S ORIGINAL Enriched Long Grain White Rice, Parboiled Ric"
 seo_title: "BEN'S ORIGINAL Parboiled Rice Review: Worth It? (2026)"
 meta_description: "Honest BEN'S ORIGINAL Enriched Long Grain Parboiled Rice review: texture, cook time, and value. See if this 10-lb bag earns its 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM2M6RBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Iu2Odw-VS._SL1500_.jpg"
-pros:
+pros: 
   - "Steam-parboiled process locks in B-vitamins and yields separate, non-clumping grains every time"
   - "Forgiving cook cycle — holds up to 15 minutes on warm without turning mushy or sticking to the pot"
   - "10-pound bag delivers roughly 40 half-cup servings, undercutting grocery store per-pound prices"
-cons:
+cons: 
   - "Parboiled texture is noticeably firmer and chewier than standard white rice — not ideal if you prefer fluffy, soft grains"
   - "Requires 25 minutes simmer time versus 15-18 for conventional white rice, so it's not the quickest weeknight option"
+
 ---
 
 Let’s be clear about what this is: BEN'S ORIGINAL Enriched Long Grain White Rice is parboiled rice, not your standard white rice. That distinction matters more than most shoppers realize.

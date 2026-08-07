@@ -1,4 +1,5 @@
 ---
+
 title: "Merrick Dry Puppy Food, Real Beef and Sweet Potato Grain Fre"
 seo_title: "Merrick Dry Puppy Food, Real Beef and Sweet Potato Review"
 meta_description: "Our full merrick dry puppy food, real beef and sweet potato grain fre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNLGW984/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811kq2JF5-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Is This Worth Your Puppy's Bowl?**

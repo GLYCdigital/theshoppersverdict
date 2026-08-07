@@ -1,4 +1,5 @@
 ---
+
 title: "EGOFIX Drive Deep Impact Socket Set, 6 Point"
 seo_title: "EGOFIX Deep Impact Socket Set Review: 6-Point Drive Tested"
 meta_description: "EGOFIX Drive Deep Impact Socket Set 6-point review: durability, fit, and value tested. See pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFGYYDZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H5ywcyqwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chrome molybdenum alloy construction holds up to impact wrench torque without cracking or rounding"
   - "Laser-etched size markings stay legible after weeks of grease and solvent exposure — no stamping to wear off"
   - "Full 6-point design grips fastener corners completely, reducing the risk of stripping on stubborn bolts"
-cons:
+cons: 
   - "No rail or case organizer included — sockets arrive loose in a pouch, which makes drawer storage messy"
   - "Deep well profile adds length that can be awkward in tight engine bays despite the slim wall design"
+
 ---
 
 Let's be direct about what matters with impact sockets: they either survive contact with a torque wrench or they don't. The EGOFIX Drive Deep Impact Socket Set earns its 4.7-star rating because it does exactly what it promises — and skips the marketing theater.

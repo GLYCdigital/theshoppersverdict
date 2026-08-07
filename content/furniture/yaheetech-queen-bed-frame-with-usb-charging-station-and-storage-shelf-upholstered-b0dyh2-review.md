@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Queen Bed Frame with USB Charging Station and Stor"
 seo_title: "Yaheetech Queen Bed Frame with USB Charging Statio Review"
 meta_description: "Our full yaheetech queen bed frame with usb charging station and stor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYH2YMGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91eOuyJBhGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most bed frames under $300 are either flimsy metal skeletons or particleboard boxes that sag within a year. The Yaheetech Queen Bed Frame with USB Charging Station and Storage aims to be the exception — and after digging through 225 ratings and the spec sheet, I think it mostly pulls it off.

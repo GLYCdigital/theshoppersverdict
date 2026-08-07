@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Stainless Steel 11-Piece Cookware Set"
 seo_title: "Amazon Basics Stainless Steel Cookware Set Review (2026)"
 meta_description: "Honest Amazon Basics 11-piece stainless steel cookware review: build quality, heat performance, what's included, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07Y3MFQ4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kqrf7a+nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply construction with aluminum core delivers even heating across all pieces, not just the skillets"
   - "Oven-safe to 500°F including lids, which covers nearly every stovetop-to-oven recipe you'll actually make"
   - "Stainless steel cooking surface means no nonstick coating to flake or degrade — this set will outlive cheaper alternatives"
-cons:
+cons: 
   - "No helper handle on the 8-quart stockpot makes lifting a full pot of pasta water genuinely awkward"
   - "Stainless steel requires a learning curve — food will stick if you don't preheat properly or use enough fat"
   - "Lids don't sit completely flush on every pot; minor steam escape on the smaller saucepan"
+
 ---
 
 # Amazon Basics Stainless Steel 11-Piece Cookware Set Review: The Budget Set That Punches Above Its Weight

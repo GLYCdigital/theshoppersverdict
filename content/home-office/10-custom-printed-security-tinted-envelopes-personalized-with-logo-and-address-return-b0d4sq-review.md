@@ -1,4 +1,5 @@
 ---
+
 title: "#10 Custom Printed Security Tinted Envelopes – Personalize"
 seo_title: "Custom Printed Security Tinted Envelopes Review (2026)"
 meta_description: "Honest review of #10 custom printed security tinted envelopes. Do they protect privacy and look professional? We tested durability, print quality, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4SQFVQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AlluJTW1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine privacy shield — the tinted interior patterns make check amounts and account numbers unreadable when held to light"
   - "Crisp, smudge-resistant custom printing that holds up through postal sorting machines without flaking"
   - Standard #10 dimensions (4.125 inch " x 9.5 inch ") with true self-seal adhesive that actually bonds — no licking, no failed seals
-cons:
+cons: 
   - "Minimum order quantities start at 100, so this isn't a budget-friendly option for solo freelancers sending 10 letters a month"
   - "The security tint has a visible blue-gray cast on the outside that some customers find less crisp than plain white envelopes"
+
 ---
 
 Most people don't think about envelopes until one fails them — a check arrives with the account number visible through the paper, or a client sees a sloppy handwritten return address. These custom-printed security tinted envelopes exist to solve both problems at once. At 4.5 stars across 225 Amazon ratings, they're clearly doing something right. Here's what you actually need to know before ordering.

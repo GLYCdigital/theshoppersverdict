@@ -1,23 +1,25 @@
 ---
+
 title: "ChemWorld Boiler Rust Inhibitor - Wood Boiler Chemical - 1 G"
 seo_title: "ChemWorld Boiler Rust Inhibitor Review: 1-Gal Wood Boiler Treatment"
 meta_description: "Honest ChemWorld Boiler Rust Inhibitor review: Does this 1-gal wood boiler chemical stop rust and scale? Real buyer feedback, pros, cons, and verdict."
 slug: "chemworld-boiler-rust-inhibitor-wood-boiler-chemical-1-gallon-treats-250-to-b006ke-review"
 image_alt: "ChemWorld Boiler Rust Inhibitor 1-gallon jug for wood boiler corrosion protection"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B006KEC4DG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KXxx-zDNL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "One gallon treats up to 250 gallons of boiler water — cost-effective for most residential wood boilers"  
   - "Liquid formula mixes easily; no messy powders to dissolve or clump"  
   - "Works as both a rust inhibitor and scale preventer, protecting heat exchangers and pump seals"  
-cons:  
+cons: 
   - "No built-in antifreeze — if your boiler sits in an unheated shed, you'll still need a separate antifreeze product"  
   - "Requires re-dosing after system drain/refill; some buyers missed this and saw rust return within a season"
+
 ---
 
 If you own an outdoor wood boiler, you already know the silent killer: rust. It eats heat exchangers, clogs pump seals, and turns a $5,000 investment into a $500 repair job. ChemWorld’s Boiler Rust Inhibitor is a liquid corrosion fighter that 235 Amazon reviewers have rated 4.7 out of 5 stars. But does it actually hold up in real-world, wood-burning conditions? Here’s what I found after digging through the specs and buyer experiences.

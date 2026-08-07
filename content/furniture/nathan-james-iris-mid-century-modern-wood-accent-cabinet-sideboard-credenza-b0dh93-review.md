@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Iris Mid-Century Modern Wood Accent Cabinet Sid"
 seo_title: "Nathan James Iris Mid-Century Modern Wood Accent C Review"
 meta_description: "Our full nathan james iris mid-century modern wood accent cabinet sid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DH93SQXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tT16NogFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Opening a box from Nathan James usually means one thing: you're getting a lot of furniture for less than you'd expect. The Iris Mid-Century Modern Wood Accent Cabinet follows that playbook, but with a twist — it's actually got some design thought behind it. At 4.1 stars across 204 ratings, shoppers are mostly satisfied, but there's a clear pattern in the criticism that you need to know before you hit "add to cart."

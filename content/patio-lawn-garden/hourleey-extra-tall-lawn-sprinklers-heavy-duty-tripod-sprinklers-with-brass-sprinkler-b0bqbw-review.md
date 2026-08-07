@@ -1,4 +1,5 @@
 ---
+
 title: "Hourleey Extra Tall Lawn Sprinklers, Heavy Duty Tripod Sprin"
 seo_title: "Hourleey Extra Tall Lawn Sprinklers, Heavy Duty Tr Review"
 meta_description: "Our full hourleey extra tall lawn sprinklers, heavy duty tripod sprin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BQBW696T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EhkdYGoeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the low-profile sprinklers.** If you're watering anything taller than a freshly mowed fescue lawn, the Hourleey Extra Tall Tripod Sprinkler solves a problem most sprinklers ignore: getting water *over* the plants, not into them.

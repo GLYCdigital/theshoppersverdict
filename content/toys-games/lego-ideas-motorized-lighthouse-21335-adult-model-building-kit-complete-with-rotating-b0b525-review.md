@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Ideas Motorized Lighthouse 21335 Adult Model Building K"
 seo_title: "LEGO Ideas Motorized Lighthouse 21335 Adult Model  Review"
 meta_description: "Our full lego ideas motorized lighthouse 21335 adult model building k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B525G8WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810H+tEwP-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $400 LEGO Set That Actually Does Something

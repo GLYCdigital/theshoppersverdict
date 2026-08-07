@@ -1,4 +1,5 @@
 ---
+
 title: "Amada Convertible Futon Sofa Bed"
 seo_title: "Amada Convertible Futon Sofa Bed Review: Is It Worth It?"
 meta_description: "Honest Amada Convertible Futon Sofa Bed review: build quality, comfort, and value. See what 200 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GCZQKCB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+QX6DptvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position backrest locks securely for sitting, lounging, or flat sleeping without complicated mechanisms"
   - "Compact footprint (~75 inches wide) fits apartments and guest rooms while still accommodating a standard twin mattress"
   - "Solid hardwood frame rated for daily use — not the particleboard you find at this price point"
-cons:
+cons: 
   - "Assembly requires two people and roughly 45–60 minutes; hardware holes occasionally misalign on early units"
   - "Upholstery is stain-prone light gray — consider a throw blanket if you have pets or kids"
+
 ---
 
 ## The futon that actually feels like a sofa

@@ -1,4 +1,5 @@
 ---
+
 title: "DAP Alex Plus Acrylic Latex Caulk, White, 10.1 Oz, 12 Pack ("
 seo_title: "DAP Alex Plus Caulk Review: 12-Pack Value for DIYers"
 meta_description: "DAP Alex Plus acrylic latex caulk 12-pack review: paintability, flexibility, and real-world performance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0026T11R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BpBwCH1LL._SL1500_.jpg"
-pros:
+pros: 
   - "Paintable in just 30 minutes with acrylic latex, matching the 4.6-star consensus that it takes paint without priming"
   - "Flexible up to 25% joint movement, so it won't crack in baseboard or trim gaps that shift seasonally"
   - "Easy water cleanup and tooling — no solvents or special caulk finishers needed for a smooth bead"
-cons:
+cons: 
   - "Not for exterior or wet areas — acrylic latex fails where silicone or polyurethane is required, like showers or window exteriors"
   - "Every tube must be punctured and nozzle-cut individually, which is tedious for a 12-pack but a one-time setup cost"
+
 ---
 
 You're about to seal baseboards, crown molding, or that gap between the tub and tile — and you've got a choice. You could grab a single $5 tube of silicone and fight with cleanup, or you could buy in bulk and get a product that paints like a dream. The **DAP Alex Plus Acrylic Latex Caulk 12-pack** is the workhorse of interior sealing, and at 4.6 stars across 229 ratings, it's the default pick for a reason.

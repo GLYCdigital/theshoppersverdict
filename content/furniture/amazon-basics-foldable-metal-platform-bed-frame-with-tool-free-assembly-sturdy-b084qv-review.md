@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Foldable, Metal Platform Bed Frame with Tool-F"
 seo_title: "Amazon Basics Metal Platform Bed Frame Review (2026)"
 meta_description: "Amazon Basics Foldable Metal Platform Bed Frame: honest review of tool-free assembly, durability, noise, and value. See pros, cons, and verdict."
@@ -11,15 +12,16 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084QV5F98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612pWBiPhkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly takes under 10 minutes — genuinely no wrench or screwdriver needed, just fold out and lock"
   - "Folds flat for storage or moving; fits in a car trunk when collapsed"
   - "14 inches of under-bed clearance — enough for storage bins or a robot vacuum"
   - "Weight capacity up to 700 lbs (queen size), which is unusually high for a sub-$100 frame"
-cons:
+cons: 
   - "No headboard brackets — you can't attach a traditional headboard without DIY modification"
   - "Center support bar can be felt through the mattress if you use a thin mattress (under 8 inches)"
   - "Slightly noisy if assembled on carpet without the included rubber pads seated properly"
+
 ---
 
 # Amazon Basics Foldable, Metal Platform Bed Frame with Tool-F: A No-Tools Bed Frame That Actually Works

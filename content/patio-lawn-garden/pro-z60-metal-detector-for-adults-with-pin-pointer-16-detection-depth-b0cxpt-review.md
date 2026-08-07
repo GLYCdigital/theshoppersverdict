@@ -1,7 +1,8 @@
 ---
-title: "PRO-Z60 Metal Detector for Adults with Pin Pointer,16\" Detec"
+
+title: "PRO-Z60 Metal Detector for Adults with Pin Pointer,16\ Detec"
 seo_title: "PRO-Z60 Metal Detector for Adults with Pin Pointer Review"
-meta_description: "Our full pro-z60 metal detector for adults with pin pointer,16\" detec review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full pro-z60 metal detector for adults with pin pointer,16\ detec review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pro-z60-metal-detector-for-adults-with-pin-pointer-16-detection-depth-b0cxpt-review"
 image_alt: "PRO-Z60 Metal Detector for Adults with Pin Pointer,16 Detection Depth Professional Metal Detector Kit High Frequency 19."
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXPTPDRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714noW7Z4hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook**

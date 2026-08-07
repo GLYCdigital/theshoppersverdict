@@ -1,24 +1,26 @@
 ---
+
 title: "AC Infinity AIRLIFT, Shutter Exhaust Fan 14-Inch with Contro"
 seo_title: "AC Infinity AIRLIFT 14-Inch Shutter Fan Review (2026)"
 meta_description: "AC Infinity AIRLIFT 14-inch shutter exhaust fan review: airflow, noise, controller, and build quality tested. Is it worth $200? Find out."
 slug: "ac-infinity-airlift-shutter-exhaust-fan-14-inch-with-controller-wall-mount-b0cvln-review"
 image_alt: "AC Infinity AIRLIFT 14-inch shutter exhaust fan with wall controller mounted on a garage wall"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVLNDF5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SCj7TLe4L._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "True 1,040 CFM airflow at 14 inches — moves serious volume for grow rooms, shops, or garages"  
   - "Temperature/humidity-triggered auto mode with the included controller — set it and forget it"  
   - "Dual-ball bearing motor and sealed shutter design hold up to dust and years of cycling"  
-cons:  
+cons: 
   - "Shutter rattle at low speeds — audible flutter below 40% power that some owners fix with tape"  
   - "Controller wire is only 16 feet — longer runs need an extension or relocation planning"  
   - "No built-in speed presets — you're scrolling through 10 levels manually each power cycle"
+
 ---
 
 If you're venting a grow tent, drying room, or a garage that hits 110°F by July, you've probably stared at a wall of cheap shutter fans that wobble, hum, and die within a season. The AC Infinity AIRLIFT 14-inch is not that fan. It's the one you buy when you're tired of replacing the other ones.  

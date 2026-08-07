@@ -1,17 +1,18 @@
 ---
+
 title: "Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Espresso Roast for Keurig"
 seo_title: "Starbucks Espresso Roast K-Cups Review: Bold, Reliable, 4.8★"
 meta_description: "Starbucks Espresso Roast K-Cup pods review. 4.8 stars from 995 ratings. Bold dark roast, 100% Arabica, 75-count box. Worth the subscription?"
 slug: "starbucks-espresso-roast-k-cups-review"
 image_alt: "Starbucks Espresso Roast K-Cup Coffee Pods 75-count box for Keurig brewers"
-keywords:
+keywords: 
   - "Starbucks K-Cup review"
   - "Starbucks Espresso Roast pods"
   - "best Keurig coffee pods"
   - "Starbucks dark roast K-Cups"
   - "K-Cup coffee review"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "What brew size works best for Starbucks Espresso Roast K-Cups?"
     answer: "For the true espresso taste, brew at the 2 oz setting if your Keurig supports it. Larger brew sizes dilute the intensity. Several reviewers confirm the smaller shot size preserves the caramel notes and bold profile."
   - question: "How does Starbucks Espresso Roast compare to other dark roast K-Cups?"
@@ -26,16 +27,17 @@ review_count: 995
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGL212LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sc2GgzxkL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Starbucks quality — same espresso roast you get in-store"
   - "Bold flavor with low bitterness and subtle caramel notes"
   - "100% Arabica beans, consistent from pod to pod"
   - "75-count bulk box reduces per-cup cost significantly"
-cons:
+cons: 
   - "Full-sized brew settings dilute the espresso character — best at smaller volumes"
   - "K-Cup format generates more plastic waste per cup than ground coffee"
   - "Some reviewers note the bold flavor can be too intense for lighter coffee drinkers"
   - "Price per pod is still higher than bulk ground coffee alternatives"
+
 ---
 
 Some coffee snobs will tell you that K-Cups are a compromise. They're not wrong — but they're also not drinking Starbucks Espresso Roast at 6 AM on a Tuesday, when compromise sounds pretty good.

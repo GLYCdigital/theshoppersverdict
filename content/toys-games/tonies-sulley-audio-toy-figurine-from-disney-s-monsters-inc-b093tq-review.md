@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Sulley Audio Toy Figurine from Disney's Monsters Inc."
 seo_title: "Tonies Sulley Audio Toy Figurine from Disney's Mon Review"
 meta_description: "Our full tonies sulley audio toy figurine from disney's monsters inc. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B093TQHLF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V9XSeOwxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is already hooked on the Toniebox, Sulley is one of the best character additions you can buy. This little blue figurine packs over an hour of Monsters Inc. content into a 3-inch plastic figure that even a toddler can operate independently. But if you don't own a Toniebox yet, this isn't the place to start — and that's worth knowing before you hit add to cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Thousand Lakes Minnesota Grown Wild Rice - 100% All Natural"
 seo_title: "Thousand Lakes Minnesota Grown Wild Rice - 100% Al Review"
 meta_description: "Our full thousand lakes minnesota grown wild rice - 100% all natural review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BK3RQTY5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qZX8PPiDL._SL1125_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "wild rice" sold in America is paddy-grown, machine-harvested, and tastes like brown rice with delusions of grandeur. Thousand Lakes Minnesota Grown Wild Rice is not that. This is the real deal — lake-harvested grain from Minnesota's northern waters, and if you've only ever had the cultivated stuff, the difference is immediately obvious.

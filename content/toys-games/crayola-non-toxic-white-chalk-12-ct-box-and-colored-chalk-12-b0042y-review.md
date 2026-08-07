@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Non-Toxic White Chalk(12 ct box)and Colored Chalk(12 inch"
 seo_title: "Crayola Non-Toxic Chalk Review: 24 Sticks Tested"
 meta_description: "Crayola Non-Toxic White & Colored Chalk 12ct boxes reviewed. We test brightness, dust, durability, and value. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0042Y450Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71McPuzeJRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24 total sticks across two 12-count boxes — white plus six classic colors — for roughly the price of a single specialty chalk set"
   - "Consistently smooth, non-gritty application on both slate and porous concrete; no squeaking or scratching"
   - "True non-toxic formulation (ACMI AP-certified) that parents can trust for young kids without hovering"
-cons:
+cons: 
   - "Colored chalk runs noticeably softer than white — expect more breakage and faster wear on rough surfaces"
   - "No built-in storage or chalk holder; loose sticks roll around in a backpack or drawer"
+
 ---
 
 Let me be direct: chalk is chalk until it isn't. Cheap sidewalk chalk crumbles in your hand, squeals on the pavement, and leaves pasty smears instead of crisp lines. Crayola's offering—two 12-count boxes, one white, one colored—sits at a familiar 4.5-star average across 225 ratings, and after breaking down what buyers actually say, here's the real story.

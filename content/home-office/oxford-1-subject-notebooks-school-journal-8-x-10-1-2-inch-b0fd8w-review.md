@@ -1,4 +1,5 @@
 ---
+
 title: "Oxford 1-Subject Notebooks, School Journal, 8 x 10-1/2 Inch,"
 seo_title: "Oxford 1-Subject Notebooks, School Journal, 8 x 10 Review"
 meta_description: "Our full oxford 1-subject notebooks, school journal, 8 x 10-1/2 inch, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8WB66L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K-lann8rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Oxford 1-Subject Notebook is the quiet workhorse of the school supply aisle. It doesn't have a leather cover or premium paper, and it's not trying to be your bullet journal. What it does — reliably, for millions of students every year — is hold up to a semester of abuse while your handwriting stays legible. At 8 x 10-1/2 inches, it's the standard size for a reason: big enough to write comfortably, small enough to not weigh down a backpack.

@@ -1,4 +1,5 @@
 ---
+
 title: "LIVEBOX Washable Area Rug - Vintage Living Room Rug Oriental"
 seo_title: "LIVEBOX Washable Area Rug - Vintage Living Room Ru Review"
 meta_description: "Our full livebox washable area rug - vintage living room rug oriental review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9S52BM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jxpsqA3jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The LIVEBOX Washable Area Rug is a 4.5-star-rated vintage oriental rug with 225 Amazon reviews. It’s not trying to be a luxury wool heirloom — it’s trying to be the rug you can actually live with. Here’s what that means for your money.

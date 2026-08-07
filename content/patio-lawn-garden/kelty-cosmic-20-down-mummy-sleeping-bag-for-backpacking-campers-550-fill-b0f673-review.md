@@ -1,4 +1,5 @@
 ---
+
 title: "Kelty Cosmic 20 Down Mummy Sleeping Bag for Backpacking, Cam"
 seo_title: "Kelty Cosmic 20 Down Mummy Sleeping Bag for Backpa Review"
 meta_description: "Our full kelty cosmic 20 down mummy sleeping bag for backpacking, cam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F673C47Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tiHd10hnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Kelty Cosmic 20 Down is the sleeping bag that makes you question why you ever carried three pounds of synthetic insulation. It's been a backpacking staple for years, and the current 550-fill iteration earns its keep. At 3 pounds 10 ounces, it's not ultralight — but it's dramatically lighter and pack smaller than any synthetic bag at this price point.

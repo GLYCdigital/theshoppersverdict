@@ -1,4 +1,5 @@
 ---
+
 title: "OCEAIR New Upgraded 946-05098c Throttle Choke Cable for Cub "
 seo_title: "OCEAIR New Upgraded 946-05098c Throttle Choke Cabl Review"
 meta_description: "Our full oceair new upgraded 946-05098c throttle choke cable for cub  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D65GG4V5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rWbhTTfxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Cub Cadet XT1's throttle lever suddenly feels like it's stirring pudding — loose, unresponsive, or stuck at half-choke — you've got a stretched or broken cable. The factory replacement runs $40+ at a dealer. The OCEAIR 946-05098c comes in around half that. The question is whether saving twenty bucks costs you a weekend of fiddling.

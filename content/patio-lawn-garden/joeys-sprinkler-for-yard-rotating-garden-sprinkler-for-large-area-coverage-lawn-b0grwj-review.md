@@ -1,4 +1,5 @@
 ---
+
 title: "Joeys Sprinkler for Yard, Rotating Garden Sprinkler for Larg"
 seo_title: "Joeys Sprinkler for Yard, Rotating Garden Sprinkle Review"
 meta_description: "Our full joeys sprinkler for yard, rotating garden sprinkler for larg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRWJLNR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EvAyIHxDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4,500-Square-Foot Question: Does This Sprinkler Actually Deliver?**

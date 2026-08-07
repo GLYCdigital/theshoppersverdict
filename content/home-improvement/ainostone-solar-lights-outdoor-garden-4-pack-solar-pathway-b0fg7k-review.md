@@ -1,4 +1,5 @@
 ---
+
 title: "Ainostone Solar Lights Outdoor Garden 4 Pack Solar Pathway"
 seo_title: "Ainostone Solar Lights Review: 4-Pack Pathway Worth It?"
 meta_description: "Honest Ainostone Solar Lights 4-pack review: build quality, brightness, battery life, and real buyer feedback. See if these pathway lights fit your yard."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FG7KX3QS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tRSctAvwL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sturdy aluminum alloy housing with rust-resistant finish — holds up in rain and snow"
   - "Warm white LED output is bright enough to define edges without blinding glare"
   - "Auto on/off sensor is reliable; lights charge fully in 6–8 hours and run 8–10 hours after dusk"
-cons:
+cons: 
   - "Plastic ground stake feels lightweight; can bend if you force it into compacted soil"
   - "Panel angle is fixed — you can't tilt it to chase winter sun, so runtime drops noticeably in shade"
+
 ---
 
 Let’s cut through the listing photos. These Ainostone solar path lights aren't trying to be floodlights, and that's exactly why they work. In a category flooded with flimsy plastic stakes that crack by October, this 4-pack from Ainostone stands out for one reason: the housing is actually metal. At 4.2 stars from 210 ratings, buyers mostly agree — but there are tradeoffs worth knowing before you click buy.

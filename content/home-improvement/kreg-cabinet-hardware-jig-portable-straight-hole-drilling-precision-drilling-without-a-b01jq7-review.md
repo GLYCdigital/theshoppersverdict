@@ -1,4 +1,5 @@
 ---
+
 title: "Kreg Cabinet Hardware Jig - Portable Straight Hole Drilling "
 seo_title: "Kreg Cabinet Hardware Jig - Portable Straight Hole Review"
 meta_description: "Our full kreg cabinet hardware jig - portable straight hole drilling  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01JQ74J5E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xk29iEiVL._AC_SL1338_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever drilled a cabinet pull hole that came out crooked, you know the frustration. The hole walks, the bit wanders, and suddenly your "professional" cabinet installation has a 1/8-inch mistake staring at you every time you open the drawer. The Kreg Cabinet Hardware Jig is designed to eliminate that problem — and for the most part, it delivers.

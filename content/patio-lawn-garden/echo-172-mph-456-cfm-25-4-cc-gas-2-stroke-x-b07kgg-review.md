@@ -1,4 +1,5 @@
 ---
+
 title: "Echo 172 MPH 456 CFM 25.4 cc Gas 2-Stroke X Series Handheld"
 seo_title: "Echo 172 MPH 456 CFM Blower Review: X Series Power"
 meta_description: "Echo 172 MPH 456 CFM gas blower review: real power, easy start, 5-year warranty. See how this X Series handles wet leaves and debris."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07KGG9QZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41LYPYL2NmL._SL1000_.jpg"
-pros:
+pros: 
   - "Genuine 456 CFM and 172 MPH at the nozzle — moves wet, matted leaves that stall lesser blowers"
   - "i-30 starting system fires up in 1-2 pulls cold, even after months of storage"
   - "5-year consumer warranty and Echo's reputation for decades-long service life"
-cons:
+cons: 
   - "No variable-speed trigger — just a fixed high idle and a cruise control lever"
   - "2-stroke means mixing oil and gas; no fuel stabilizer leads to carburetor issues"
   - "Weighs 9.9 lbs dry — arm fatigue sets in during extended cleanup sessions"
+
 ---
 
 **If you've ever spent 45 minutes wrestling a pile of wet, maple-heavy leaves with a battery blower that dies halfway through, you already know why the Echo X Series exists.** This isn't a whisper-quiet neighborhood accessory; it's a 25.4 cc two-stroke workhorse that moves air like a small hurricane. With 229 Amazon ratings averaging 4.6 stars, it's clear this blower has found its audience among people who take fall cleanup seriously.

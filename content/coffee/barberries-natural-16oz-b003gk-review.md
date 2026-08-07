@@ -1,4 +1,5 @@
 ---
+
 title: "Barberries [Natural], 16oz"
 seo_title: "Barberries Natural 16oz Review: Tart Superfood for Cooking"
 meta_description: "Honest review of natural barberries 16oz. Are these dried berries worth it for Persian cooking, rice, and salads? Flavor, texture, and value analyzed."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B003GK5WTU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s6dBitRBL._SL1454_.jpg"
-pros:
+pros: 
   - "Genuinely tart, sour profile that holds up in cooked rice dishes — not sweetened or adulterated"
   - "16oz bag is substantial; lasts 10-15 uses for a household cooking Persian or Middle Eastern recipes weekly"
   - "Minimal stems and debris compared to other bulk barberry options; mostly plump, intact berries"
-cons:
+cons: 
   - "Can be dry and dusty on arrival; needs a quick rinse and soak to rehydrate properly"
   - "Some bags arrive with a mix of berry sizes — smaller ones turn mushy faster when cooked"
+
 ---
 
 ## The Tart Jewel Your Rice Dishes Have Been Missing

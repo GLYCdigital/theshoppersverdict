@@ -1,4 +1,5 @@
 ---
+
 title: "GIKPAL Climbing Dome, Upgraded Geometric Dome Climber with C"
 seo_title: "GIKPAL Climbing Dome Review: 2026 Buyer's Guide"
 meta_description: "Honest GIKPAL Climbing Dome review: 225+ ratings, 4.5 stars. We break down build quality, safety, and who this geometric climber is actually for."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09Z6ZN51Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-CknDgkkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 1.5mm steel frame with reinforced joints holds up to 220 lbs — actually supports adults"
   - "Upgraded anti-slip climbing grips and rounded caps reduce scrape risk versus bare-pipe domes"
   - "Assembles in about 20 minutes with color-coded poles and clear instructions"
-cons:
+cons: 
   - "No anchor stakes included — you'll want to buy ground anchors separately for grass installs"
   - "At roughly 6.5 feet wide, it's too large for most small patios or indoor playrooms"
   - "Grips are plastic and can get slippery when wet — supervise rainy-day climbing"
+
 ---
 
 ## Is the GIKPAL Climbing Dome Worth Your Backyard Space?

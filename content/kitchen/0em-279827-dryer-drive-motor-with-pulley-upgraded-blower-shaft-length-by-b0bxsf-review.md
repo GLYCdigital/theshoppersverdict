@@ -1,4 +1,5 @@
 ---
+
 title: "0EM 279827 Dryer Drive Motor with Pulley (Upgraded Blower Sh"
 seo_title: "0EM 279827 Dryer Motor Review: Upgraded Shaft Worth It?"
 meta_description: "Honest 0EM 279827 dryer drive motor review: upgraded blower shaft length, fit, noise, and value. See if this replacement is right for your dryer."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BXSFR785/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KtRgcL11L._SL1500_.jpg"
-pros:
+pros: 
   - "Upgraded blower shaft length eliminates the common stripped-shaft failure that kills OEM motors"
   - "Includes pulley and all necessary mounting hardware — no surprise trips to the hardware store"
   - "Direct drop-in replacement for Whirlpool, Maytag, and Kenmore models; consistent 4.4-star reliability"
-cons:
+cons: 
   - "Some buyers report needing to swap the old pulley if the included one doesn't seat perfectly on certain models"
   - "Not universal — verify your model number before ordering or you'll face a return"
+
 ---
 
 ## The $80 Fix That Saves You a $500 Service Call

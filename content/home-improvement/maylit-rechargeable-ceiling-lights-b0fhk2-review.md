@@ -1,4 +1,5 @@
 ---
+
 title: "maylit Rechargeable Ceiling Lights"
 seo_title: "maylit Rechargeable Ceiling Lights Review: Verdict | TSV"
 meta_description: "Our full maylit rechargeable ceiling lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FHK2ZC92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sye0fh5qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # maylit Rechargeable Ceiling Lights: A Handy Fix With a Catch

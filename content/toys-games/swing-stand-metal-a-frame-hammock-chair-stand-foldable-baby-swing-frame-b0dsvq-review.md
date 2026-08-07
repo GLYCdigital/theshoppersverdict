@@ -1,4 +1,5 @@
 ---
+
 title: "Swing Stand, Metal A-Frame Hammock Chair Stand, Foldable Bab"
 seo_title: "Swing Stand, Metal A-Frame Hammock Chair Stand, Fo Review"
 meta_description: "Our full swing stand, metal a-frame hammock chair stand, foldable bab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSVQQ4KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61shB9wKJrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about what this is: a metal frame that turns any hammock chair into a portable swing. That's it. No chair included, no cushions, no frills. But for parents who've tried hanging a swing from a tree branch that wasn't there, or from a doorframe that couldn't take the weight, this A-frame stand solves a very specific problem.

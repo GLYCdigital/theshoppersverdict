@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Precise V5 RT Refillable"
 seo_title: "Pilot Precise V5 RT Refillable Review: Verdict | TSV"
 meta_description: "Our full pilot precise v5 rt refillable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GTMPRX65/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the Pilot Precise V5 RT is the pen that keeps showing up in “best everyday pen” lists for a reason. With a 4.8-star average across 240 Amazon ratings, it’s clearly doing something right. But is it the right pen for *your* hand? I’ve put it through the paces—long writing sessions, quick jotting, even a left-handed smear test—so you don’t have to guess.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tintris Journal Cover for Field Notes Notebooks Moleskine Ca"
 seo_title: "Tintris Journal Cover for Field Notes Notebooks Mo Review"
 meta_description: "Our full tintris journal cover for field notes notebooks moleskine ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B9H5DWW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OKOrbwZ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weather-resistant construction for outdoor use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 Leather Case That Finally Makes Sense of Your Notebook Addiction**

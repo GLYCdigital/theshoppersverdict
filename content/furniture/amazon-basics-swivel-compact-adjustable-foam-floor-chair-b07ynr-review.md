@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Swivel Compact Adjustable Foam Floor Chair"
 seo_title: "Amazon Basics Swivel Floor Chair Review (2026): Worth It?"
 meta_description: "Amazon Basics Swivel Compact Adjustable Foam Floor Chair review: 4.2★ rating. Is this 360° swivel floor seat comfy for adults? Read pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07YNR989X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1wBlCSBiiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 360-degree swivel base that works smoothly on both carpet and hardwood — rare at this price point"
   - "Three-position adjustable backrest locks firmly, letting you sit upright for gaming or recline flat for reading"
   - "High-density foam holds its shape; multiple buyers report zero sagging after six months of daily use"
-cons:
+cons: 
   - "Fabric cover is not removable or machine-washable — spot cleaning only, which gets old fast with pets or kids"
   - "At roughly 4 inches thick, heavier adults (200+ lbs) report feeling the floor through the foam after extended sitting"
   - "No lumbar support built in; the flat back panel can fatigue your lower back during marathon gaming sessions"
+
 ---
 
 Let me be straight with you: most floor chairs under $60 are disposable junk. The Amazon Basics Swivel Compact Adjustable Foam Floor Chair is not that — but it's also not a premium gaming throne. After digging through 210 ratings and customer feedback, here's the real story.

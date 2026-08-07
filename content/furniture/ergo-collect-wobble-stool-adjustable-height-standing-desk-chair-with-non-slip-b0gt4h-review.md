@@ -1,24 +1,26 @@
 ---
+
 title: "ERGO COLLECT Wobble Stool Adjustable Height Standing Desk Ch"
 seo_title: "ERGO COLLECT Wobble Stool Review: Adjustable Height, Non-Slip Base"
 meta_description: "ERGO COLLECT wobble stool review: adjustable height, non-slip base, and active sitting comfort. See pros, cons, and who should buy it."
 slug: "ergo-collect-wobble-stool-adjustable-height-standing-desk-chair-with-non-slip-b0gt4h-review"
 image_alt: "ERGO COLLECT adjustable height wobble stool with non-slip base for standing desk"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GT4HJP5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512+JA78DHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Pneumatic gas lift adjusts smoothly from roughly 20 to 27 inches, fitting most standing desk heights"  
   - "360° wobble motion engages core muscles without forcing unstable posture"  
   - "Non-slip rubber base grips hard floors and carpets well; stays put during active sitting"  
-cons:  
+cons: 
   - "Seat cushion is firm and thin — fine for 30-minute sessions, uncomfortable past an hour"  
   - "Weight capacity is listed at 250 lbs; heavier users report wobble becomes shaky"  
   - "Gas lift can sink slowly over months of use; some units arrive with minor hissing"
+
 ---
 
 **Is the ERGO COLLECT Wobble Stool a gimmick or a genuine upgrade for your standing desk?** After digging through 195 Amazon ratings (3.9 stars) and testing the mechanics, here’s the honest breakdown.

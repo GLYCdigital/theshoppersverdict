@@ -1,16 +1,17 @@
 ---
+
 title: "HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-for-home, 3 month Instant Ink trial included. This printer is only 2.4 ghz capable. (588S5A)"
 seo_title: "HP DeskJet 2855e Wireless All-in-One Color Inkjet  Review"
 meta_description: "Honest hp deskjet 2855e wireless all-in-one col review based on 18,649+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "hp-deskjet-2855e-wireless-all-in-one-color-inkjet-printer-scanner-copier-review"
 image_alt: "HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-for-home, 3 month Instant Ink trial inc"
-keywords:
+keywords: 
   - "hp deskjet 2855e review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 3.7
-faq:
+faq: 
   - question: "Is the HP DeskJet 2855e Wireless All-in-One well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the HP DeskJet 2855e Wireless All-in-One?"
@@ -23,13 +24,14 @@ review_count: 18649
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CT2R7199/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X+gMIMsxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Great value for the price"
   - "Clean and practical design"
-cons:
+cons: 
   - "Missing some advanced features"
   - "Setup could be more intuitive"
+
 ---
 
 If you're shopping for a home office accessory, you've probably noticed the HP DeskJet 2855e Wireless All-in-One Color.... After combing through 18,649 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

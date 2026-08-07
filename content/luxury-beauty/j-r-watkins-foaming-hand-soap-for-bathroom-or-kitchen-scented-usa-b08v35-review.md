@@ -1,4 +1,5 @@
 ---
+
 title: "J.R. Watkins Foaming Hand Soap For Bathroom or Kitchen, Scen"
 seo_title: "J.R. Watkins Foaming Hand Soap For Bathroom or Kit Review"
 meta_description: "Our full j.r. watkins foaming hand soap for bathroom or kitchen, scen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08V35R7GB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NwKMC54kL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: J.R. Watkins has been making soap since 1860, and that longevity means something. This foaming hand soap line has earned a 4.5-star average across 225 Amazon ratings — respectable, but not flawless. Here's what you actually need to know before buying.

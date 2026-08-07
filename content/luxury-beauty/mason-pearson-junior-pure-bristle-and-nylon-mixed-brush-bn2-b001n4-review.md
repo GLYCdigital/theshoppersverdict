@@ -1,4 +1,5 @@
 ---
+
 title: "Mason Pearson Junior Pure Bristle and Nylon Mixed Brush BN2"
 seo_title: "Mason Pearson Junior Pure Bristle and Nylon Mixed  Review"
 meta_description: "Our full mason pearson junior pure bristle and nylon mixed brush bn2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001N444I6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B7eGcYncL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Mason Pearson Junior Pure Bristle and Nylon Mixed Brush BN2: The $150 Hairbrush That's Actually Worth It

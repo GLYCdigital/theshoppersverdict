@@ -1,4 +1,5 @@
 ---
+
 title: "addlon Outdoor String Lights LED"
 seo_title: "addlon Outdoor String Lights LED Review (2026): Worth It?"
 meta_description: "Read our honest addlon Outdoor String Lights LED review. See real performance, durability, and buyer feedback before you buy. 4.6-star rated."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCTRBDXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XHoO7sX4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True weatherproofing — IP65-rated sockets and sealed lenses hold up through rain, snow, and coastal humidity"
   - "Warm 2700K glow that looks like classic incandescent patio bulbs but sips electricity at a fraction of the wattage"
   - "Replaceable S14 bulbs mean you don't toss the whole set when one burns out — rare at this price point"
-cons:
+cons: 
   - "The 48-foot cord is generous, but the 24-foot lead wire from plug to first bulb is a fixed length — you can't shorten it without cutting"
   - "Some units ship with one dead bulb out of the box; easy to swap but annoying on day one"
+
 ---
 
 If you've ever squinted at a $15 string light set from a big-box store, you know the drill: plastic sockets that crack by October, bulbs that flicker in the first rain, and a warm glow that's really just a dull yellow haze. The addlon Outdoor String Lights LED is not that product. At 4.6 stars across 229 ratings, this is the set people buy once and forget about — in the best way.

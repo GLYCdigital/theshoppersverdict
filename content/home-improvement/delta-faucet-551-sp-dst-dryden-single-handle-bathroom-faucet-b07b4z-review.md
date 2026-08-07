@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet 551-SP-DST Dryden single Handle Bathroom Faucet"
 seo_title: "Delta 551-SP-DST Dryden Faucet Review: Worth It? (2026)"
 meta_description: "Honest Delta 551-SP-DST Dryden bathroom faucet review: Diamond Seal tech, spot-resistant finish, real pros & cons. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07B4Z773K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51m+K7vXGhL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Diamond Seal Technology — ceramic disc cartridges that Delta backs with a lifetime warranty, no washers to replace"
   - "SpotShield stainless finish actually resists water spots and fingerprints; tested noticeably better than standard chrome"
   - "Single-handle lever design with 4-inch centerset layout fits most existing 3-hole sinks without buying a deck plate"
-cons:
+cons: 
   - "8-1/8-inch height is shorter than many modern faucets — may feel cramped under a shallow medicine cabinet"
   - "Drain assembly not included; you'll spend an extra $15–25 for a matching pop-up drain"
   - "Some buyers report the lever handle feels slightly loose out of the box, requiring a hex wrench tighten"
+
 ---
 
 **Bottom line:** The Delta Dryden isn't flashy, but it's the sensible, low-drama choice for a bathroom remodel. It does what a faucet should do, does it quietly, and keeps doing it for years. At 4.2 stars across 210 ratings, it's a solidly average-to-good performer — and for many buyers, that's exactly what they need.

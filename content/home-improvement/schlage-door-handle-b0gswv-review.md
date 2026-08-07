@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE Door Handle"
 seo_title: "SCHLAGE Door Handle Review: Verdict | TSV"
 meta_description: "Our full schlage door handle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSWVS1GC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JIxsg5OiL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: Most door handles in this price range are hollow-feeling junk with a latch that jiggles loose within six months. The SCHLAGE door handle isn't that. But it's also not the last word in premium hardware — here's the honest breakdown.

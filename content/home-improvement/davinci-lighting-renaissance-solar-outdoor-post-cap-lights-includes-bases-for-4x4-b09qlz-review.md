@@ -1,4 +1,5 @@
 ---
+
 title: "Davinci Lighting Renaissance Solar Outdoor Post Cap Lights -"
 seo_title: "Davinci Lighting Renaissance Solar Post Cap Review"
 meta_description: "Davinci Lighting Renaissance Solar Post Cap Lights review: build quality, brightness, battery life, and real buyer feedback. See if they fit your 4x4 posts."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09QLZN2ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oBi9b6dXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid cast aluminum housing with a real bronze finish — not cheap plastic that fades in a season"
   - "Warm 3000K LED glow mimics traditional gas-lamp aesthetics without the maintenance"
   - "Universal base fits both 4x4 and 6x6 posts, so you won't be stuck if you swap fence sections"
-cons:
+cons: 
   - "Solar panel is integrated into the cap itself, so heavily shaded posts will get marginal runtime — plan placement carefully"
   - "Battery replacement requires removing four small screws; not hard, but fiddly for a product you'll service every 18-24 months"
+
 ---
 
 Let's cut to it. You've got fence posts, deck posts, or gate pillars that need a finishing touch. You want something that looks like it cost real money but doesn't require running low-voltage wire across your yard. That's exactly the niche the Davinci Lighting Renaissance Solar Post Cap Lights are aiming for — and for the most part, they hit it.

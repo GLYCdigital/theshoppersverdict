@@ -1,4 +1,5 @@
 ---
+
 title: "Pretty Pretty Princess Board Game, Classic Jewelry Dress-Up "
 seo_title: "Pretty Pretty Princess Board Game, Classic Jewelry Review"
 meta_description: "Our full pretty pretty princess board game, classic jewelry dress-up  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MVPYTHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fnWY9WtKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The crown jewel of preschool board games — but it's not without a few cracks.**

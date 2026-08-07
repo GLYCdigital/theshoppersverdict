@@ -1,4 +1,5 @@
 ---
+
 title: "Christian Dior Addict Lip Glow #001 Pink 3.2 g"
 seo_title: "Dior Addict Lip Glow #001 Pink Review: Worth It? (2026)"
 meta_description: "Honest Dior Addict Lip Glow #001 Pink review: Does the iconic balm deliver? Real results, shade accuracy, longevity & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CPCHR14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1oSFdO+xYL._SL1500_.jpg"
-pros:
+pros: 
   - "Color-adapting formula reacts to your natural pH for a bespoke pink flush — no two wearers get the exact same shade"
   - "Featherweight, non-sticky texture that layers cleanly under gloss or over lipstick without pilling"
   - "Delivers visible hydration for 4–6 hours thanks to shea butter and mango seed oil in the ingredient deck"
-cons:
+cons: 
   - "At 3.2 g (0.11 oz), you're paying luxury pricing for a modest amount of product — heavy daily use can deplete it in 6–8 weeks"
   - "The color payoff is subtle; if you're expecting an opaque lipstick, this is not it — it's a tinted balm, full stop"
+
 ---
 
 Let me cut through the hype: The Dior Addict Lip Glow #001 Pink isn't a lipstick, isn't a gloss, and isn't just a balm. It's a color-adapting hybrid that's been a cult favorite for over a decade, and after testing it against cheaper alternatives, I understand why it still holds the throne — and also why some shoppers feel let down.

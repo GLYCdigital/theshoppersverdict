@@ -1,4 +1,5 @@
 ---
+
 title: "Modway Duval Oval Wood Grain 71 Inch Sideboard with Doors an"
 seo_title: "Modway Duval Oval Wood Grain 71 Inch Sideboard wit Review"
 meta_description: "Our full modway duval oval wood grain 71 inch sideboard with doors an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGZGM4VV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OyV780-EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 71-inch sideboard that keeps showing up in "mid-century modern" searches is also the one that has 225 Amazon reviewers averaging 4.5 stars. Here's the honest breakdown of whether the Modway Duval earns a spot in your dining room or office.**

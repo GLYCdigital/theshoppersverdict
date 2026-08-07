@@ -1,4 +1,5 @@
 ---
+
 title: "Elmer's Squishies Minis Make Your Own Squishies"
 seo_title: "Elmer's Squishies Minis Review: DIY Craft Fun for Kids"
 meta_description: "Our honest Elmer's Squishies Minis review: 5-star rated DIY craft kit. See what buyers love, real drawbacks, and who should buy this fun toy."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0GQ98G9TD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Kids can create 6-8 mini squishies per kit, giving strong repeat-play value for the price"
   - "Squishies retain their soft, squishy texture even after drying — they don't harden into brittle plastic"
   - "Paint and accessories included, so no extra purchases needed for a complete project"
-cons:
+cons: 
   - "Drying time runs 2-4 hours, which tests the patience of younger kids who want instant gratification"
   - "Paint can smear if kids handle squishies before fully cured; adult supervision recommended for under-8s"
   - "Small parts pose a choking hazard, making it unsuitable for children under 3 years old"
+
 ---
 
 If you've got a craft-obsessed kid who's already squeezed the life out of every store-bought squishy on the shelf, Elmer's Squishies Minis turns that obsession into a hands-on project. This isn't just another coloring book or sticker set — it's a full DIY experience where kids mix, mold, and paint their own squishy toys from scratch. And with a perfect 5-star average across 250 ratings, it's clearly hitting the mark.

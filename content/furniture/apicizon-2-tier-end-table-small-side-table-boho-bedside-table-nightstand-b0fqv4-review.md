@@ -1,4 +1,5 @@
 ---
+
 title: "Apicizon 2 Tier End Table, Small Side Table, Boho Bedside Ta"
 seo_title: "Apicizon 2 Tier End Table Review: Boho Nightstand Tested (2026)"
 meta_description: "Honest Apicizon 2 Tier End Table review: boho design, build quality, real-world use. Is this $40 nightstand worth it? Pros, cons, who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQV44X92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619Z25CALBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 4-leg metal frame with X-cross brace — rated for 50 lbs on top, doesn't wobble on carpet"
   - "Boho woven rattan door hides clutter; lower tier is open for display or extra storage"
   - "Easy 15-minute assembly with pre-drilled holes and included hex wrench — no power tools needed"
-cons:
+cons: 
   - "Rattan door is decorative, not lockable — magnets hold it shut, so it won't secure valuables"
   - "Finish is matte and can scratch if you drag heavy objects across the top"
   - At 18.5 inch " tall, it runs lower than standard nightstands (24-26 inch ") — check your bed height first
+
 ---
 
 If you're tired of the same flat-pack particleboard nightstand that wobbles after six months, the Apicizon 2 Tier End Table is a breath of fresh air — literally. The woven rattan front gives it a warm, organic look that reads "boho chic" without screaming "dorm room." At 4.5 stars across 225 ratings, it's clearly earning its keep in real homes. But is it the right piece for your space? Let's dig into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nerf Mini Foam Basketballs - Indoor + Outdoor Foam Balls - 5"
 seo_title: "Nerf Mini Foam Basketballs - Indoor + Outdoor Foam Review"
 meta_description: "Our full nerf mini foam basketballs - indoor + outdoor foam balls - 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BG3LKJXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IPacYAmHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: if you’re shopping for a foam basketball, you already know the drill. Your kid wants to chuck things at a hoop mounted on a door, and you don’t want to repaint your hallway every weekend. The Nerf Mini Foam Basketballs 5-pack is the most popular answer to that problem, sitting at 4.5 stars across 225 ratings. But is it actually the right call for your specific situation? Here’s what I found after looking at the specs, the materials, and what real buyers keep repeating.

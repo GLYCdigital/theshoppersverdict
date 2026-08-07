@@ -1,4 +1,5 @@
 ---
+
 title: "Berlin Modisch"
 seo_title: "Berlin Modisch Review: Durable Tool Worth Buying?"
 meta_description: "Our Berlin Modisch review covers build quality, performance, and real buyer feedback. See if this 4.3-star tool earns a spot in your workshop."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B088F5HQZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611QtOFQ2FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined aluminum body holds up to repeated drops without denting"
   - "Ergonomic grip reduces hand fatigue during extended use"
   - "Precision-fit components deliver consistent results across 200+ verified buyer tests"
-cons:
+cons: 
   - "No carrying case included — you'll need to source your own storage"
   - "Setup instructions are minimal; newer users should watch a video tutorial first"
+
 ---
 
 # Berlin Modisch Review: A Tool That Respects Your Time and Wallet

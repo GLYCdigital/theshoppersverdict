@@ -1,4 +1,5 @@
 ---
+
 title: "Frito-Lay Snacks Variety Pack, Family Fun Mix, Single Serve"
 seo_title: "Frito-Lay Snacks Variety Pack Review: Family Fun Mix (2026)"
 meta_description: "Honest Frito-Lay Family Fun Mix review: 40 single-serve bags, 7 flavors. See what buyers love, portion gripes, and if it's worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09J1Q733S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iLgffNT9L._SL1500_.jpg"
-pros:
+pros: 
   - "40 individually wrapped bags across 7 classic flavors — enough variety that nobody in a family of four eats the same thing twice in a week"
   - "Single-serve 1-ounce portions actually help with portion control; several reviewers confirmed they snack less than when buying full-size bags"
   - "Resealable shipping box doubles as a pantry organizer, keeping bags from getting crushed or stale before you get through them"
-cons:
+cons: 
   - "No Doritos in this mix — if your household lives on Cool Ranch, you'll need to buy those separately"
   - "Bags are smaller than they look in photos; at roughly 1 oz each, heavy snackers may blow through several per sitting"
+
 ---
 
 **If your household treats snack time like a free-for-all where someone always finishes the bag and leaves you crumbs, this 40-count Frito-Lay Family Fun Mix ends that war.**

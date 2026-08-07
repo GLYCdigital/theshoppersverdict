@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Good Grips 2 Piece Silicone Spatula Set, One size and Tw"
 seo_title: "OXO Good Grips 2 Piece Silicone Spatula Set, One s Review"
 meta_description: "Our full oxo good grips 2 piece silicone spatula set, one size and tw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BXHLVHYF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ig5Yu6AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've melted one too many plastic spatulas into your scrambled eggs, this OXO set is the upgrade that makes that a non-issue.**

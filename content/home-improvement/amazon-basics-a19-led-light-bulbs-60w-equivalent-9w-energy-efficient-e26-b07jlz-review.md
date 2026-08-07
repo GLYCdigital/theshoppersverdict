@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics A19 LED Light Bulbs, 60W Equivalent, 9W Energy"
 seo_title: "Amazon Basics A19 LED Bulbs Review: 9W, 60W Equivalent"
 meta_description: "Honest Amazon Basics A19 LED light bulb review. 9W energy use, 800 lumens, E26 base. Real buyer feedback on brightness, warmth, and durability."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JLZN1RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XVNzzzx3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Draws only 9W while producing 800 lumens — that's a genuine 85% energy reduction versus a 60W incandescent"
   - "Frosted lens diffuses light evenly, eliminating harsh hotspots typical of cheaper LED bulbs"
   - "Consistent 2700K warm white color temperature that matches traditional incandescent output"
-cons:
+cons: 
   - "No dimming capability on this specific model — make sure your fixture has a compatible switch before buying"
   - "Light output noticeably drops in enclosed fixtures due to heat buildup, so skip fully sealed lamps"
+
 ---
 
 ## The $3 Bulb That Makes You Question Why You Ever Bought Anything Fancier

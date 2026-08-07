@@ -1,4 +1,5 @@
 ---
+
 title: "TLSUNNY Patio Dining Set 5 Pieces, All Weather Outdoor Furni"
 seo_title: "TLSUNNY Patio Dining Set 5 Pieces, All Weather Out Review"
 meta_description: "Our full tlsunny patio dining set 5 pieces, all weather outdoor furni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DTV2QQZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p0rHpvhWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most patio sets under $300 are disposable junk that rusts by the second season. The TLSUNNY 5-piece set isn't that — but it's not built like a heirloom either. Here's what 200 Amazon reviewers at a 4.0 average actually tell us about living with this thing.

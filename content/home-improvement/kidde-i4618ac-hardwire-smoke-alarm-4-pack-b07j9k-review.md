@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde i4618AC Hardwire Smoke Alarm, 4 Pack"
 seo_title: "Kidde i4618AC Hardwire Smoke Alarm, 4 Pack Review: Verdic"
 meta_description: "Our full kidde i4618ac hardwire smoke alarm, 4 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07J9KC24B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mGNlntQIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're replacing an old hardwired detector, the Kidde i4618AC is the no-drama option that just works — but let's be clear about what you're getting before you buy a 4-pack.**

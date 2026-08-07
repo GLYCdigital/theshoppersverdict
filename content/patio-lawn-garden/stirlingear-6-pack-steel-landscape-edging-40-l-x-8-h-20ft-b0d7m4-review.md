@@ -1,7 +1,8 @@
 ---
-title: "STIRLINGEAR 6 Pack Steel Landscape Edging- 40\" L x 8\" H (20f"
-seo_title: "STIRLINGEAR 6 Pack Steel Landscape Edging- 40\" L x Review"
-meta_description: "Our full stirlingear 6 pack steel landscape edging- 40\" l x 8\" h (20f review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "STIRLINGEAR 6 Pack Steel Landscape Edging- 40\ L x 8\ H (20f"
+seo_title: "STIRLINGEAR 6 Pack Steel Landscape Edging- 40\ L x Review"
+meta_description: "Our full stirlingear 6 pack steel landscape edging- 40\ l x 8\ h (20f review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "stirlingear-6-pack-steel-landscape-edging-40-l-x-8-h-20ft-b0d7m4-review"
 image_alt: "STIRLINGEAR 6 Pack Steel Landscape Edging- 40 L x 8 H (20ft Total) Lawn Edging, Metal Garden Edging, Metal Edging for La"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7M4B48G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KmJQFb2RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # STIRLINGEAR 6-Pack Steel Landscape Edging: The 8-Inch Height That Actually Works

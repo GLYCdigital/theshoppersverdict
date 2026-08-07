@@ -1,4 +1,5 @@
 ---
+
 title: "Dobyns Rods Casting Reels"
 seo_title: "Dobyns Rods Casting Reels Review: Worth It? (2026)"
 meta_description: "Honest Dobyns Rods casting reels review: build quality, drag performance, and real angler feedback. Is this $99 reel worth your money?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F6MN6Z78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tTfD5S01L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machined aluminum frame stays rigid under heavy hooksets—no flex even when cranking hard against structure"
   - "Carbon fiber drag system delivers smooth, consistent pressure from 2 lbs to 15 lbs without stutter"
   - "10+1 stainless steel bearing system runs quiet and smooth right out of the box"
-cons:
+cons: 
   - "Braking system runs heavier than advertised—expect to dial it down significantly for lighter lures"
   - "Handle knobs are slick when wet; aftermarket grips are almost mandatory for all-day fishing"
+
 ---
 
 **The $99 Casting Reel That Thinks It's a $200 Reel — Mostly**

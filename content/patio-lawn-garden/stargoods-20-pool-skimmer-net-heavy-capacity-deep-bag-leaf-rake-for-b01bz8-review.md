@@ -1,7 +1,8 @@
 ---
-title: "STARGOODS 20\" Pool Skimmer Net - Heavy-Capacity Deep Bag Lea"
-seo_title: "STARGOODS 20\" Pool Skimmer Net - Heavy-Capacity De Review"
-meta_description: "Our full stargoods 20\" pool skimmer net - heavy-capacity deep bag lea review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "STARGOODS 20\ Pool Skimmer Net - Heavy-Capacity Deep Bag Lea"
+seo_title: "STARGOODS 20\ Pool Skimmer Net - Heavy-Capacity De Review"
+meta_description: "Our full stargoods 20\ pool skimmer net - heavy-capacity deep bag lea review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "stargoods-20-pool-skimmer-net-heavy-capacity-deep-bag-leaf-rake-for-b01bz8-review"
 image_alt: "STARGOODS 20 Pool Skimmer Net - Heavy-Capacity Deep Bag Leaf Rake for Inground & Above Ground Pools - Fine Mesh Catches "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BZ8BI7E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r1BorZXiL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever spent a fall afternoon scooping a swamp of leaves out of a pool with a flimsy net that bends, tears, or takes 40 passes to clear a corner, you know the pain. The STARGOODS 20" Pool Skimmer Net is built to end that specific frustration. After digging through 225 ratings and the specs, here's the real story on whether this deep-bag leaf rake earns a spot on your pool-cleaning gear.

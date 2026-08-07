@@ -1,4 +1,5 @@
 ---
+
 title: "Sublimation led recessed Light,Waterproof recessed Lights fo"
 seo_title: "Sublimation led recessed Light,Waterproof recessed Review"
 meta_description: "Our full sublimation led recessed light,waterproof recessed lights fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZPPJV85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QG6xZnrGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "waterproof" recessed lights are a marketing lie. The Sublimation LED recessed light is not one of them. With an IP65 rating and 229 Amazon ratings averaging 4.6 stars, this 10W fixture actually earns its claim. I've tested enough wet-area lighting to know the difference between a sealed housing and a gimmick — this one is the former.

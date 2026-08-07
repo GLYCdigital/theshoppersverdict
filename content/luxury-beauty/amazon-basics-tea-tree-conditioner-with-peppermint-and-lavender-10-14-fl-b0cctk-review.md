@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Tea Tree Conditioner with Peppermint and Laven"
 seo_title: "Amazon Basics Tea Tree Conditioner Review: Worth It? (2026)"
 meta_description: "Honest Amazon Basics Tea Tree Conditioner review: cooling tingle, scalp relief, and whether this budget buy beats premium brands. Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CCTKQ2MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YBwmDt0JL._SL1500_.jpg"
-pros:
+pros: 
   - "Provides a genuinely cooling, invigorating tingle that lasts several minutes after rinsing — rare at this price point"
   - "Tea tree oil and peppermint combination effectively calms itchy, flaky scalps without stripping moisture"
   - "Cruelty-free formula with no parabens or phthalates, in a generous 10.14 fl oz bottle that outlasts most salon brands"
-cons:
+cons: 
   - "Lavender scent is barely detectable — if you're buying for aromatherapy, you'll be underwhelmed"
   - "Can leave fine or thin hair feeling slightly heavy if you don't rinse thoroughly"
   - "No pump dispenser — you'll be shaking and tapping the bottle in the last third"
+
 ---
 
 # Amazon Basics Tea Tree Conditioner with Peppermint and Lavender: A Budget Scalp Savior or Just Another Drugstore Bottle?

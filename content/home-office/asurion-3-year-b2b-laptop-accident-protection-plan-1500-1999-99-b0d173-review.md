@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year B2B Laptop Accident Protection Plan ($1500 -"
 seo_title: "ASURION 3-Year B2B Laptop Accident Protection Review"
 meta_description: "ASURION 3 Year B2B Laptop Accident Protection Plan review: coverage details, claim process, deductibles, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D1733XRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CCjD0tELECT._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers drops, spills, and electrical surges — the three most common laptop killers — with no per-claim cap on repairs"
   - "Asurion handles the entire claim process directly with the repair center; you never prepay out of pocket for covered fixes"
   - "Transferable if you sell the laptop within the coverage window, which adds resale value"
-cons:
+cons: 
   - "Deductible applies per claim (typically $99–$149 depending on laptop tier), so minor fixes may not be worth filing"
   - "B2B designation means you need a business entity or sole proprietorship to purchase — not for personal-use laptops"
   - "Accidental damage from 'unreasonable' incidents (e.g., intentional damage, fire, theft) is excluded; read the fine print"
+
 ---
 
 Let’s be honest: laptop insurance reads like a gamble. You’re betting $150–$300 that your $1,800 workhorse will take a dive off a desk or meet a spilled coffee before the warranty expires. ASURION’s 3 Year B2B Accident Protection Plan for laptops priced $1,500–$1,999.99 is one of the most popular bets on Amazon — 200 ratings, averaging 4.0 stars. Is it a smart hedge or a sucker’s bet? Here’s the breakdown.

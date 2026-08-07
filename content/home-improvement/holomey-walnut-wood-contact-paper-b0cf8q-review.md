@@ -1,4 +1,5 @@
 ---
+
 title: "HOLOMEY Walnut Wood Contact Paper"
 seo_title: "HOLOMEY Walnut Wood Contact Paper Review: Verdict | TSV"
 meta_description: "Our full holomey walnut wood contact paper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CF8QXGSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xyRqMChNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most contact paper looks like what it is — printed plastic pretending to be wood. The HOLOMEY Walnut Wood Contact Paper is one of the few exceptions that might actually fool someone from across the room.

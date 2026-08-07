@@ -1,4 +1,5 @@
 ---
+
 title: "Ankle Weights, 1/2/3/4/6/8/10 LBS 1 Pair Wrist Leg Arm Weigh"
 seo_title: "Ankle Weights Review: 1-10 LBS Adjustable Pair for Walking & Rehab"
 meta_description: "Honest review of adjustable ankle weights from 1-10 lbs per pair. See how they hold up for walking, physical therapy, and home workouts. Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPQVWSVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711GtyT6YVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable weight system (1-10 lbs per pair) means you don't need to buy multiple sets as you progress"
   - "Sand-filled fabric pouches conform to your ankle better than rigid iron-core weights"
   - "Wide, padded velcro straps distribute pressure evenly — no digging into your shin during walks"
-cons:
+cons: 
   - "Maximum 5 lbs per ankle may be too light for advanced lower-body strength work"
   - "Fabric exterior shows wear quickly if used outdoors on rough surfaces"
   - "Weight pouches can shift slightly during high-intensity movements like jumping jacks"
+
 ---
 
 ## Adjustable Resistance Without the Bulk

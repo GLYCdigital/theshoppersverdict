@@ -1,4 +1,5 @@
 ---
+
 title: "JUNNAI LED Tree Floor Lamp with 3 Adjustable Lights"
 seo_title: "JUNNAI LED Tree Floor Lamp with 3 Adjustable Light Review"
 meta_description: "Our full junnai led tree floor lamp with 3 adjustable lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8PMRYXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T5eCQqrxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the JUNNAI LED Tree Floor Lamp the three-headed lighting solution your living room has been waiting for? Or is it another Amazon gadget with more hype than function? I dug through 220 ratings and the specs to give you the straight answer.**

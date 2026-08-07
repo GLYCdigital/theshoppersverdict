@@ -1,4 +1,5 @@
 ---
+
 title: "Meridian Furniture Waverly Cream Bench"
 seo_title: "Meridian Furniture Waverly Cream Bench Review: Verdict | "
 meta_description: "Our full meridian furniture waverly cream bench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQ66CSQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nUBctM2JL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the listing photos. The Meridian Furniture Waverly Cream Bench is one of those Amazon finds that looks like a boutique piece but costs a fraction of what you’d pay at a design showroom. With a 4.6-star average across 229 ratings, it’s clearly resonating with shoppers — but is it the right bench for your entryway, bedroom, or dining nook? Here’s what you actually need to know.

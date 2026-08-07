@@ -1,16 +1,17 @@
 ---
+
 title: "Holstein Housewares 5 Cup Drip Coffee Maker – Compact and User-Friendly with Auto Pause & Serve, Reusable Filter, Measuring Spoon & Glass Carafe, Office & Dorm Use, Teal"
 seo_title: "Holstein Housewares 5 Review: Verdict (4.2/5) | TSV"
 meta_description: "really pretty teal color brews quickly and hot cute compact size I received my 13,338+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "holstein-housewares-5-cup-drip-coffee-maker-compact-and-user-friendly-with-review"
 image_alt: "Holstein Housewares 5 Cup Drip Coffee Maker – Compact and User-Friendly with Auto Pause & Serve, Reusable Filter, Measur"
-keywords:
+keywords: 
   - "holstein housewares 5 review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Holstein Housewares 5 Cup?"
     answer: "really pretty teal color brews quickly and hot cute compact size I received my coffee pot yesterday and w... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Holstein Housewares 5 Cup?"
@@ -23,12 +24,13 @@ review_count: 13338
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B077V4LNL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SIfyrHGML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "really pretty teal color brews quickly and hot cute compact size I received my coffee pot yesterday."
   - "This coffee maker is not just an elegant addition to my kitchen; it’s a testament to quality and eff."
   - "By following the simple care and use instructions."
-cons:
+cons: 
   - "Get what you pay for Had it 5 months then the button broke."
+
 ---
 
 **The $27 Coffee Maker That Won't Clutter Your Dorm Counter (But Won't Wake You Up Either)**

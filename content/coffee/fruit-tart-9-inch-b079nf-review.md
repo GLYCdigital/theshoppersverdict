@@ -1,4 +1,5 @@
 ---
+
 title: "Fruit Tart 9 Inch"
 seo_title: "Fruit Tart 9 Inch Review: Worth It for Coffee Lovers?"
 meta_description: "Read our honest Fruit Tart 9 Inch review. See how this coffee gear performs, what buyers praise, and who should skip it. Real pros & cons inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B079NFMSYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Is0qo5Q6S._SL1000_.jpg"
-pros:
+pros: 
   - "9-inch diameter gives you real brewing surface area — handles up to 12 cups without overflow"
   - "Stainless steel build holds heat evenly, no hot spots or scorched grounds"
   - "Dishwasher-safe top and base make cleanup under two minutes"
-cons:
+cons: 
   - "No included measuring scoop — you'll need your own or eyeball it"
   - "Handle stays warm longer than expected; use a mitt or wait 5 minutes"
   - "Fits standard 9-inch brewers only — won't seal on 8-inch or 10-inch models"
+
 ---
 
 **The Fruit Tart 9 Inch isn't a pastry — it's a brewing accessory that's quietly stolen the spotlight in 225+ Amazon reviews.** At 4.5 stars, it's not flashy, but it's earned its place in daily-driver territory. Here's the real story.

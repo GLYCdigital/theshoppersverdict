@@ -1,4 +1,5 @@
 ---
+
 title: "WEAREC Compatible Toner Cartridge & Drum Unit Replacement fo"
 seo_title: "WEAREC Compatible Toner Cartridge & Drum Unit Repl Review"
 meta_description: "Our full wearec compatible toner cartridge & drum unit replacement fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKV937R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YA64SNQFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Build Quality and Performance

@@ -1,4 +1,5 @@
 ---
+
 title: "Grills House Gas and Charcoal Grill Combo with Offset Smoker"
 seo_title: "Grills House Gas and Charcoal Grill Combo with Off Review"
 meta_description: "Our full grills house gas and charcoal grill combo with offset smoker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GLXXVVTY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ESMAFBn9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a patio crammed with a gas grill, a charcoal kettle, and a smoker you barely use, the Grills House combo is built for you. This 3-in-1 unit packs a gas grill, charcoal grill, and offset smoker into one steel frame — plus a side burner that pushes it to four cooking zones. At 4.2 stars from 210 Amazon ratings, it's clearly winning fans. But is it the right centerpiece for *your* backyard? Let's break down what you actually get.

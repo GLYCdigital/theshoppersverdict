@@ -1,4 +1,5 @@
 ---
+
 title: "eos FlavorLab Pops! Lip Balm"
 seo_title: "eos FlavorLab Pops! Lip Balm Review: Worth It? (2026)"
 meta_description: "eos FlavorLab Pops! Lip Balm review: 4.8-star rated. Does this viral lip balm deliver softness & flavor? Ingredients, pros, cons & verdict inside."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSV4SR35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AGT6n54VL._SL1500_.jpg"
-pros:
+pros: 
   - "Flavor intensity is genuinely strong—each of the 6 flavors tastes like the real fruit, not artificial candy"
   - "Formula uses shea butter and jojoba oil, so it conditions for hours rather than just sitting on the surface"
   - "Slim, angled applicator hits the lip line precisely without needing a mirror or a fingertip"
-cons:
+cons: 
   - "Tube holds only 0.14 oz—expect to repurchase monthly if you reapply throughout the day"
   - "Flavor fades within 45–60 minutes, though the moisture layer persists underneath"
+
 ---
 
 Let me cut to the chase: eos has been making lip balm for years, but FlavorLab Pops! is a different beast. This isn't the chunky egg-shaped sphere you remember from drugstore aisles. It's a slim, angled-tip tube with a formula that punches well above its price point. I've tested it against balms costing three times as much, and here's what actually matters.

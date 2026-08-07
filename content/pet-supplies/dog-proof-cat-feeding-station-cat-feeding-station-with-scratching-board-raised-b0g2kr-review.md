@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Proof Cat Feeding Station, Cat Feeding Station with Scra"
 seo_title: "Dog Proof Cat Feeding Station Review: Raised, Scratcher"
 meta_description: "Honest review of the Dog Proof Cat Feeding Station with scratching board. Does it keep dogs out? We analyze build, size, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G2KR9NKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iEii2mzNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Elevated design actually blocks most medium and large dogs from reaching bowls — verified by multiple buyers with determined canines"
   - "Integrated sisal scratching post serves double duty, giving cats a designated clawing spot right where they eat"
   - "Raised bowl height promotes better posture for senior cats and reduces whisker fatigue compared to floor-level dishes"
-cons:
+cons: 
   - "Smaller or agile dogs (and some determined cats) can still jump the barrier — it's a deterrent, not an impenetrable fortress"
   - "Scratching surface is replaceable but not reinforced; heavy clawing can wear it down faster than standalone posts"
   - "Assembly requires a Phillips screwdriver and some patience — the included hex key is flimsy and strips easily"
+
 ---
 
 ## Does This Feeding Station Actually Keep the Dog Out?

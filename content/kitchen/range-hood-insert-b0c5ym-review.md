@@ -1,4 +1,5 @@
 ---
+
 title: "Range Hood Insert"
 seo_title: "Range Hood Insert Review: Verdict | TSV"
 meta_description: "Our full range hood insert review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C5YMKQPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PYyCbX2zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about range hood inserts: most shoppers buy these because they're remodeling a kitchen and want something that blends into a custom cabinet setup. The problem is that most inserts on Amazon are either underpowered junk or overpriced units with a shiny face and a weak motor behind it. This one — sitting at 4.1 stars from 204 ratings — sits in the middle, and the verdict score of 4.2 reflects that it does its job without pretending to be a commercial-grade system.

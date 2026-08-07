@@ -1,4 +1,5 @@
 ---
+
 title: "Rigel 600lbs 6 in 1 Adjustable Olympic Weight Bench Set with"
 seo_title: "Rigel 600lbs 6 in 1 Adjustable Olympic Weight Benc Review"
 meta_description: "Our full rigel 600lbs 6 in 1 adjustable olympic weight bench set with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D53QC1V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XVklTAD5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Rigel 600lbs 6-in-1 Bench: One Station to Rule Your Home Gym, or a Compromise in Every Direction?**

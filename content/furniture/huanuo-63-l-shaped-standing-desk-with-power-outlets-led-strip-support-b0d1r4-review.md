@@ -1,4 +1,5 @@
 ---
+
 title: "HUANUO 63â€³ L-Shaped Standing Desk with Power Outlets & LED"
 seo_title: "HUANUO 63â€³ L-Shaped Standing Desk with Power Out Review"
 meta_description: "Our full huanuo 63â€³ l-shaped standing desk with power outlets & led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1R421K8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZfFmVHcDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HUANUO 63″ L-Shaped Standing Desk: The Corner Office Upgrade That Actually Delivers

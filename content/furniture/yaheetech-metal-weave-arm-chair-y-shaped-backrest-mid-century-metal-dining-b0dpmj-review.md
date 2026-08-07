@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Metal Weave Arm Chair Y-Shaped Backrest Mid-Centur"
 seo_title: "Yaheetech Metal Weave Arm Chair Y-Shaped Backrest  Review"
 meta_description: "Our full yaheetech metal weave arm chair y-shaped backrest mid-centur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPMJ1N9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M7KabSQjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Yaheetech Metal Weave Arm Chair is a mid-century modern statement piece that delivers on looks and structural integrity, but sacrifices comfort for that sleek profile. At 4.3 stars from 215 ratings, it's clearly satisfying most buyers—but you need to know what you're signing up for.

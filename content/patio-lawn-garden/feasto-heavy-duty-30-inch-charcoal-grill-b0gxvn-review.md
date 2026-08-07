@@ -1,4 +1,5 @@
 ---
+
 title: "Feasto Heavy-Duty 30-Inch Charcoal Grill"
 seo_title: "Feasto Heavy-Duty 30-Inch Charcoal Grill Review (2026)"
 meta_description: "Feasto 30-inch charcoal grill review: 443 sq in cooking space, heavy-gauge steel build. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXVNPNWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IOJuJKR3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "443 sq in of primary cooking space across two grates — fits 12+ burgers or a full brisket flat without crowding"
   - "Heavy-gauge steel body with porcelain-coated grates resists warping and rust far better than $100 barrel grills"
   - "Dual dampers (top and bottom) give real temperature control — you can hold 225°F for low-and-slow or open up for 500°F+ searing"
-cons:
+cons: 
   - "No built-in thermometer — you'll need a probe or instant-read to monitor temps accurately"
   - "Wheels are solid plastic with no locking mechanism, so it can roll on sloped patios"
   - "Assembly takes 45-60 minutes and the instructions are sparse line drawings"
+
 ---
 
 Let me be direct: most sub-$200 charcoal grills are flimsy tin cans that rust out in two seasons. The Feasto Heavy-Duty 30-Inch isn't that. But it's not without quirks. Here's what you need to know before buying.

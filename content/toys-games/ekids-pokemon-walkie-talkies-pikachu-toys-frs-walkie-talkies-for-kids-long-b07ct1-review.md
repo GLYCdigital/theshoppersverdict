@@ -1,4 +1,5 @@
 ---
+
 title: "eKids Pokemon Walkie Talkies Pikachu Toys FRS Walkie Talkies"
 seo_title: "eKids Pokemon Walkie Talkies Review: Pikachu FRS for Kids"
 meta_description: "Honest eKids Pokemon Walkie Talkies review: range, sound quality, durability, and whether these Pikachu FRS radios are worth it for kids."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07CT18VJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91XHc2pHizL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real FRS licensing means actual 2-mile range, not the fake 'up to 3 miles' marketing you see on cheap toy radios"
   - "Pikachu face lights up and makes Pokemon sound effects — a genuine detail kids notice immediately"
   - "Built-in belt clips and lanyard loops that survive actual playground abuse"
-cons:
+cons: 
   - "Requires 6 AAA batteries total (3 per unit) — not included, and they drain fast if kids leave them on"
   - "Sound quality gets muffled at the edge of range; fine for yards, frustrating in parks"
   - "No volume control on the side — only a 2-step toggle that's easy for small fingers to bump accidentally"
+
 ---
 
 If you've bought kids' walkie talkies before, you know the drill: package promises 3-mile range, delivers 30 feet of crackly static. The eKids Pokemon Walkie Talkies are different — these actually use FRS (Family Radio Service) licensing, the same spectrum real adult radios use. That's why they hold up on Amazon with a 4.3 average across 215 reviews, and why they're worth a closer look.

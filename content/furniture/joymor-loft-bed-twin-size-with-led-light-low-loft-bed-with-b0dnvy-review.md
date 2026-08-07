@@ -1,4 +1,5 @@
 ---
+
 title: "JOYMOR Loft Bed Twin Size with Led Light, Low Loft Bed with "
 seo_title: "JOYMOR Loft Bed Twin Size with Led Light, Low Loft Review"
 meta_description: "Our full joymor loft bed twin size with led light, low loft bed with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DNVYVV8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bixaoMyhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most loft beds under $400 are wobbly particleboard nightmares that creak louder than a haunted house. The JOYMOR Twin Loft Bed with LED lighting isn't that — but it's not a heirloom-quality piece either. At 3.9 stars from 195 ratings, it sits firmly in "solid budget option with caveats" territory. Here's what you need to know before you buy.

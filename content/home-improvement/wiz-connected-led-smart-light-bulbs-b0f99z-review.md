@@ -1,4 +1,5 @@
 ---
+
 title: "WiZ Connected LED Smart Light Bulbs"
 seo_title: "WiZ Connected LED Smart Light Bulbs Review: Verdict | TSV"
 meta_description: "Our full wiz connected led smart light bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F99ZYSXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71czoBKENeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The WiZ Connected LED smart bulb is the rare smart home product that doesn't demand a hub, a bridge, or a tech degree to get working.** At 4.2 stars across 210 Amazon ratings, it's clearly doing something right — but it's not without quirks. Here's the honest breakdown before you buy.

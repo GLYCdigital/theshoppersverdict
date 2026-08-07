@@ -1,4 +1,5 @@
 ---
+
 title: "Fab Brows Duo Eyebrow Stencil Kit"
 seo_title: "Fab Brows Duo Eyebrow Stencil Kit Review (2026): Worth It?"
 meta_description: "Honest Fab Brows Duo Eyebrow Stencil Kit review: 4.4-star rated brow shaping tool. See pros, cons, and whether this luxury stencil kit delivers."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BW4JRDMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yzkFX5wvL._SL1500_.jpg"
-pros:
+pros: 
   - "Six distinct arch shapes included, so you can match your natural bone structure instead of forcing one trend"
   - "Flexible, medical-grade silicone molds grip powder and pomade without slipping mid-stroke"
   - "Dual-ended design covers both sparse-tail filling and full-arch mapping in one tool"
-cons:
+cons: 
   - "No clear step-by-step guide included — beginners will need to watch videos to get the hang of placement"
   - "Silicone edges can lift if you press too hard with cream products; light hand required"
+
 ---
 
 You've got one brow shape that works for you. Most stencil kits force you into a single Instagram-arch cookie cutter, which is why they end up in a drawer after two uses. The Fab Brows Duo Eyebrow Stencil Kit takes a different approach — it hands you six distinct shapes and lets you find your match. After digging through 220 ratings averaging 4.4 stars, here's the honest breakdown.

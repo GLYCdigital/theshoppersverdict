@@ -1,4 +1,5 @@
 ---
+
 title: "Hill's Science Diet Small & Mini Breeds Senior Premium Nutri"
 seo_title: "Hill's Science Diet Small & Mini Breeds Senior Pre Review"
 meta_description: "Our full hill's science diet small & mini breeds senior premium nutri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8B744CQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RrrgjRvnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: aging small-breed dogs have different nutritional needs than their larger counterparts, and most commercial dog foods don't bother addressing that. Hill's Science Diet Small & Mini Breeds Senior is one of the few that actually does. After digging through 225 ratings and the specific formulation data, here's what you need to know before spending your money.

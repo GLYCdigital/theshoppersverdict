@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA 94.5'' Two Person Desk with Monitor Stand, Power Stri"
 seo_title: "SEDETA 94.5'' Two Person Desk with Monitor Stand,  Review"
 meta_description: "Our full sedeta 94.5'' two person desk with monitor stand, power stri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09PV4Y6BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QA9df8VzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A 94.5-Inch Dual Workstation That Actually Delivers on Space

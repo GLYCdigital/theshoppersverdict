@@ -1,4 +1,5 @@
 ---
+
 title: "Cocofloss DENTAL_FLOSS"
 seo_title: "Cocofloss Review: Is This Coconut-Infused Floss Worth It?"
 meta_description: "Honest Cocofloss review: coconut oil-infused, plastic-free dental floss with 4.0/5 rating. Does it beat standard floss? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CJCNVHGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610bLgLUaVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured coconut-fiber weave grips plaque and debris noticeably better than slippery standard floss"
   - "Plant-based, plastic-free formula infused with coconut oil and candelilla wax — genuinely better for the environment"
   - "Generous 40-yard spool with a metal cutter built into the dispenser; no plastic waste on refills"
-cons:
+cons: 
   - "Wide, ribbon-like texture can feel tight between closely spaced teeth; you'll need to ease it in gently"
   - "At roughly $8–10 per spool, it's 3–4x the cost of drugstore floss — a premium you'll feel monthly"
   - "Some users report the floss shreds or frays on sharp molars, especially with rough fillings or crowns"
+
 ---
 
 **Opening Hook**

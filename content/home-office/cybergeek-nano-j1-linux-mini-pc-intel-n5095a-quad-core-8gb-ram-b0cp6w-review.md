@@ -1,4 +1,5 @@
 ---
+
 title: "CyberGeek Nano J1 Linux Mini PC, Intel N5095A Quad-Core, 8GB"
 seo_title: "CyberGeek Nano J1 Linux Mini PC Review: 8GB N5095A"
 meta_description: "CyberGeek Nano J1 Linux Mini PC review: Intel N5095A, 8GB RAM. Real performance, Linux compatibility, and who should buy this $150-class desktop."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CP6W2GBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617Sq+zfg9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-loaded Linux (Ubuntu-based) with zero driver headaches out of the box"
   - "Fanless design option — completely silent operation for office environments"
   - "Quad-core N5095A handles 4K video playback and 20+ browser tabs without choking"
-cons:
+cons: 
   - "8GB RAM is non-upgradeable on many units — soldered, so pick your config carefully"
   - "eMMC storage (not NVMe) means slower app installs and file transfers than expected"
   - "Wi-Fi 5 only — no Wi-Fi 6E, noticeable if you're on a modern mesh network"
+
 ---
 
 ## The Budget Linux Box That Actually Works — With Caveats

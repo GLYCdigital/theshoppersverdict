@@ -1,4 +1,5 @@
 ---
+
 title: "Flezoo 4Pcs Coffee Scoop Spoon - 1 Tablespoon 15ML Stainless"
 seo_title: "Flezoo Coffee Scoop Spoon Review: 4-Pack Stainless Steel 15ML"
 meta_description: "Honest Flezoo 4-pack coffee scoop spoon review. Tested for accuracy, durability, and value. See why 225+ buyers rate this stainless 15ML scoop 4.5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5Q27Y6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610GNPHKPHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Deep 15ML bowl holds a true level tablespoon — no heaping guesswork"
   - "Long 6.5-inch handle reaches bottom of standard coffee canisters without finger drag"
   - "Mirror-polished 304 stainless resists staining and bends; four scoops means one for every container"
-cons:
+cons: 
   - "No measurement markings etched on the handle — you get 15ML or nothing"
   - "Lightweight feel may read as flimsy until you bend-test it (it doesn't flex)"
+
 ---
 
 Some kitchen tools are so forgettable you don't realize they're bad until you've lived with them for a month. The Flezoo 4-pack coffee scoop is the opposite — it's the kind of boring, functional purchase you make once and never think about again, which is exactly what you want from a $10 utensil.

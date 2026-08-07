@@ -1,4 +1,5 @@
 ---
+
 title: "DND Gel Polish Set, Green Collection, UV/LED GelPolish and A"
 seo_title: "DND Gel Polish Green Collection Review: Worth It? (2026)"
 meta_description: "DND Gel Polish Green Collection review: 4.6-star rated UV/LED set. We break down colors, wear time, and value. Is this luxury set worth your money?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZRWV93Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YURq+RHBL._SL1500_.jpg"
-pros:
+pros: 
   - "Six full-size 15ml bottles — not the mini travel sizes competitors ship — giving you roughly 30+ manicures per set"
   - "Self-leveling formula that cures bubble-free in 45 seconds under a 36W LED lamp, cutting salon time in half"
   - "Color payoff is genuinely opaque in two thin coats; no patchy sheer layers even on the lighter sage tones"
-cons:
+cons: 
   - "No base or top coat included — that's an extra $15-20 purchase if you don't already own them"
   - "The two olive-toned shades read warmer on the nail than in the bottle; cool-toned skin may find them slightly muddy"
+
 ---
 
 # DND Gel Polish Set, Green Collection: The 4.6-Star Set That Actually Deserves the Hype

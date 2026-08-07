@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V Max Cordless Drill Driver Set"
 seo_title: "DEWALT 20V Max Drill Driver Review (2026): Is It Worth It?"
 meta_description: "Honest DEWALT 20V Max Cordless Drill Driver review: torque, battery life, build quality, and real buyer feedback. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 49327
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dmm7FomNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-torque 340 UWO motor handles 3-inch hole saws and 6-inch lag screws without bogging down"
   - "Two 20V Max batteries included — real runtime for all-day projects, not just light DIY"
   - "Compact 8.65-inch length fits into tight spaces like cabinet interiors and stud bays"
-cons:
+cons: 
   - "Heavy at 3.6 lbs with battery — arm fatigue sets in during overhead work"
   - "Chuck is metal but can slip on fully worn hex bits; no auto-lock in the trigger"
   - "Case has shallow interior — deep sockets or extra bits require a separate organizer"
+
 ---
 
 This drill driver has sat in 49,327 Amazon reviews, holding a 4.8-star average. That's not a fluke. The DEWALT 20V Max is the benchmark for a reason, but it's not perfect for everyone. Let's break down what you're actually paying for.

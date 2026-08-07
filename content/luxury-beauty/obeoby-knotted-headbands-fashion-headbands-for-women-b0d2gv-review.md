@@ -1,4 +1,5 @@
 ---
+
 title: "obeoby Knotted Headbands Fashion Headbands for Women"
 seo_title: "obeoby Knotted Headbands Fashion Headbands for Wom Review"
 meta_description: "Our full obeoby knotted headbands fashion headbands for women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2GV8BYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815zifto4wL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 Headband That Actually Looks Expensive (and Stays Put)**

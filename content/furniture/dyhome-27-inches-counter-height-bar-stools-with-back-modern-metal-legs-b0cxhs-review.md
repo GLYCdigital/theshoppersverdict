@@ -1,4 +1,5 @@
 ---
+
 title: "DYHOME 27 Inches Counter Height Bar Stools with Back, Modern"
 seo_title: "DYHOME 27 Inch Counter Stools Review (2026): Worth It?"
 meta_description: "DYHOME 27-inch counter height bar stools with back: honest review of comfort, build quality, and value. See what 225 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXHSBW94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fmbkwqoyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel frame with a 300-lb weight capacity — noticeably sturdier than comparably priced stools"
   - "High-density foam seat and curved backrest provide genuine comfort for 2+ hour sits"
   - "Scratch-resistant PVC leather upholstery wipes clean easily — pet and kid friendly"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver; included Allen wrench is too short for comfortable leverage"
   - Footrest is fixed at one height — shorter users (under 5'4 inch ") may find it awkward
   - "No floor glides included; bare metal feet can scratch hardwood if you skip felt pads"
+
 ---
 
 ## The 27-Inch Sweet Spot

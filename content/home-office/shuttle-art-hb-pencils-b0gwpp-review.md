@@ -1,4 +1,5 @@
 ---
+
 title: "Shuttle Art HB pencils"
 seo_title: "Shuttle Art HB pencils Review: Verdict | TSV"
 meta_description: "Our full shuttle art hb pencils review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWPPYJ7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sF4LU9GdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most HB pencil reviews read like a love letter to a stick of wood and graphite. Not this one. I've put the Shuttle Art HB pencils through the wringer — the sharpener, the test sheet, the eraser torture test — and here's what actually matters if you're about to drop money on these.

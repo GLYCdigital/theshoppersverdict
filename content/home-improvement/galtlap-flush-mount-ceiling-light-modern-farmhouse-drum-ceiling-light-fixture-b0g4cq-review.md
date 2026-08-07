@@ -1,4 +1,5 @@
 ---
+
 title: "Galtlap Flush Mount Ceiling Light Modern Farmhouse Drum Ceil"
 seo_title: "Galtlap Flush Mount Ceiling Light Review: Farmhouse Drum Fixture"
 meta_description: "Honest Galtlap flush mount ceiling light review: modern farmhouse drum design, build quality, brightness, and installation tips. See if it fits your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G4CQLZF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eF49dVuCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Seeded glass diffuses light evenly, eliminating harsh hotspots common in cheaper drum fixtures"
   - "Solid steel construction with a textured matte black finish that resists fingerprints and smudges"
   - "Compact 12-inch diameter makes it ideal for hallways, closets, and low ceilings without feeling bulky"
-cons:
+cons: 
   - "Bulbs not included — you'll need to budget for two medium-base LED bulbs separately"
   - "Finish is matte, not glossy — if you're expecting a shiny black, this will disappoint"
+
 ---
 
 If you've been scrolling through a hundred identical black drum lights and they all blur together, the Galtlap Flush Mount deserves a second look. It's not flashy, but it nails the modern farmhouse aesthetic in a way that most budget fixtures miss. Here's the honest breakdown.

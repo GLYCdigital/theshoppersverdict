@@ -1,4 +1,5 @@
 ---
+
 title: "Hunter Hydrawise HPC400 Smart WiFi Irrigation Controller for"
 seo_title: "Hunter Hydrawise HPC400 Smart WiFi Irrigation Cont Review"
 meta_description: "Our full hunter hydrawise hpc400 smart wifi irrigation controller for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BJBKW44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7112oelzMJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're still waking up at 6 AM to manually turn sprinkler valves, you're wasting water and time. The Hunter Hydrawise HPC400 is the smart irrigation controller that finally makes "set it and forget it" actually true — but only if you're willing to invest an afternoon in setup.

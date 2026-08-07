@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Mandrake Figure & Pot Plant Toy, Harry Pot"
 seo_title: "LEGO Harry Potter Mandrake Figure & Pot Plant Toy, Review"
 meta_description: "Our full lego harry potter mandrake figure & pot plant toy, harry pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CRVXBLW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uT-ovsbkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've watched *Harry Potter and the Chamber of Secrets* more times than you'd like to admit, you know exactly which scene this LEGO set is recreating. The mandrake — that grumpy, screaming root baby that Professor Sprout yanks from its pot in Herbology class — is one of the most memorable comedic moments in the franchise. LEGO's take on it is charming, compact, and surprisingly detailed for a set that fits in the palm of your hand.

@@ -1,4 +1,5 @@
 ---
+
 title: "Animal Barrier Fence - 17 inch x12 inch  Decorative Garden Fencing wit"
 seo_title: "Animal Barrier Fence Review: 17x12 Garden Fencing (2026)"
 meta_description: "Honest review of the 17x12 Animal Barrier decorative garden fence. Build quality, real-world use, and whether it keeps critters out. Read before buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3C42VFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rnd+HLGIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy steel construction with a rust-resistant powder coat that holds up through rain and sprinkler overspray"
   - "Slender 12-inch width lets you snake it around tight corners, tree trunks, and irregular bed edges without cutting"
   - "Decorative arched top looks intentional — blends with the garden rather than reading as a prison fence"
-cons:
+cons: 
   - "No included stakes. You'll need to buy ground staples separately or the panels shift in loose soil"
   - "Only 17 inches tall — a determined rabbit or small dog will clear it easily"
   - "Not flexible. It's solid steel, so bending it to fit curves risks cracking the finish"
+
 ---
 
 If you've ever watched a squirrel treat your tulip bed like a buffet, you know the frustration. This 17"x12" decorative fence from Animal Barrier won't stop a determined deer, but it's an honest, well-built solution for keeping smaller critters — and clumsy pets — out of your flower beds. After 225 ratings averaging 4.5 stars, it's clearly doing something right.

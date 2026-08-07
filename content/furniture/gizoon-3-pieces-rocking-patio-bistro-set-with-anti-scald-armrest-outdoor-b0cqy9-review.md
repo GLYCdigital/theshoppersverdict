@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon 3 Pieces Rocking Patio Bistro Set with Anti-Scald Arm"
 seo_title: "Gizoon Rocking Bistro Set Review: Worth It? (2026)"
 meta_description: "Honest Gizoon 3-piece rocking patio bistro set review: anti-scald arm, comfort, durability, and real buyer feedback. See if it fits your porch."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQY9C7SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YhbTdpqkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Anti-scald armrest is genuinely functional — stays cool even after hours of direct sun, a thoughtful touch most bistro sets skip"
   - "Rocking motion is smooth and silent thanks to pre-installed curved gliders; no assembly headaches with the base"
   - "Compact footprint fits tight balconies and small porches while still supporting up to 300 lbs per chair"
-cons:
+cons: 
   - "Table is smaller than it looks in photos — roughly 19 inches wide, so don't expect to host a full meal service"
   - "Cushions are thin (about 2 inches) and not weatherproof; you'll want to store them indoors or buy covers"
   - "Assembly requires a Phillips screwdriver and some patience — the arms attach with small bolts that can be fiddly"
+
 ---
 
 The Gizoon 3-Piece Rocking Bistro Set isn't trying to be your grand patio centerpiece. It's trying to be the spot where your morning coffee actually gets finished while it's still hot. And based on 235 Amazon ratings averaging 4.7 stars, it's succeeding.

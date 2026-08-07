@@ -1,23 +1,25 @@
 ---
+
 title: "Desk Lamp for Home Office Metal Extra Long Swing Arm Stable"
 seo_title: "Extra Long Swing Arm Desk Lamp Review: Stable Metal Build"
 meta_description: "Honest review of the Extra Long Swing Arm Desk Lamp: stable metal build, 229 ratings at 4.6 stars. Is it worth your desk space? Find out."
 slug: "desk-lamp-for-home-office-metal-extra-long-swing-arm-stable-clamp-b0by8v-review"
 image_alt: "Metal extra long swing arm desk lamp with clamp base on a home office desk"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BY8VXPD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EI8nxiOcL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "All-metal construction with a weighted clamp base — no wobble even at full extension"  
   - "Swing arm extends roughly 30 inches from the pivot, covering a large work surface"  
   - "Three brightness levels and a warm/cool color temperature toggle (3000K–6000K)"  
-cons:  
+cons: 
   - "Clamp pad can mar softer wood finishes if over-tightened — use a cloth protector"  
   - "No USB charging port, which some newer lamps in this price range include"
+
 ---
 
 **Skip the flimsy LED strips. This is a real lamp.**  

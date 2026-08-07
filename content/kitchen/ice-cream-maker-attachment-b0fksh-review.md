@@ -1,4 +1,5 @@
 ---
+
 title: "Ice Cream Maker Attachment"
 seo_title: "Ice Cream Maker Attachment Review: Verdict | TSV"
 meta_description: "Our full ice cream maker attachment review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FKSHZ93H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ozKa53zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Stand Mixer Add-On That Earns Its Keep

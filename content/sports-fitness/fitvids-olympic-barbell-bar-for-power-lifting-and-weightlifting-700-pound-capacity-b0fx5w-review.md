@@ -1,23 +1,25 @@
 ---
+
 title: "Fitvids Olympic Barbell Bar for Power Lifting and Weightlift"
 seo_title: "Fitvids Olympic Barbell Review: 700-LB Capacity, 4.5 Stars"
 meta_description: "Read our honest Fitvids Olympic Barbell review: 700-lb capacity, dual knurling, needle bearings. See who should buy it, who should skip, and real buyer feedback."
 slug: "fitvids-olympic-barbell-bar-for-power-lifting-and-weightlifting-700-pound-capacity-b0fx5w-review"
 image_alt: "Fitvids Olympic barbell bar with dual knurling and bronze bushings on a rack"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX5WXCZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vJvihK6cL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Knurling is aggressive but not skin-shredding — secure grip without needing chalk on lighter sets"  
   - "Shaft flex is stiff enough for heavy deadlifts but has a touch of whip for clean pulls"  
   - "Needle bearings spin smoothly for Olympic lifts; no grinding or wobble at the sleeves"  
-cons:  
+cons: 
   - "Center knurling is present but mild — powerlifters wanting a pronounced bite will be disappointed"  
   - "No center knurling on the 20kg version? Check listing carefully — some batches ship without it"
+
 ---
 
 A sub-$200 Olympic barbell that doesn't feel like a bent pipe. That's the bar Fitvids is selling, and for most home gym owners, it's the right call. Let's cut through the listing photos and talk about what actually matters when you're loading 300+ pounds on a bar.

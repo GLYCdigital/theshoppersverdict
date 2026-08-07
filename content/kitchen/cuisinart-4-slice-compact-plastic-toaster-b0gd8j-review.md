@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart 4-Slice Compact Plastic Toaster"
 seo_title: "Cuisinart 4-Slice Compact Toaster Review (2026): Worth It?"
 meta_description: "Read our honest Cuisinart 4-Slice Compact Plastic Toaster review. See how it toasts, where it falls short, and who should buy it. Real buyer insights included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GD8J8M1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p-lN3WP-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide slots fit bagels, thick sourdough, and artisan bread without forcing"
   - "Compact footprint (about 11 inches deep) frees up counter space in small kitchens"
   - "Dual independent controls let you toast one side dark and the other light simultaneously"
-cons:
+cons: 
   - "Plastic housing feels less premium than Cuisinart's stainless steel models"
   - "No cancel button — you have to wait out the cycle or unplug to stop it"
   - "Crumb tray is shallow and slides out from the side, awkward if the toaster sits against a backsplash"
+
 ---
 
 Most toasters under $50 are disposable appliances — you use them for two years, they stop popping evenly, and you recycle them without a second thought. The Cuisinart 4-Slice Compact Plastic Toaster sits in that price range, but the brand name suggests it might be different. After digging through 220 ratings and the specs, here's the real story.

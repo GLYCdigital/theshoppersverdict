@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Electric Scissors, Rechargeable Cardboard Cutter, 4 inch"
 seo_title: "Cordless Electric Scissors Review: Rechargeable Cardboard Cutter"
 meta_description: "Honest review of the 4V cordless electric scissors. Fast cutting, USB-C charging, but trigger design divides users. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FK2BZLBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71utFMnpkDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cuts through double-wall corrugated cardboard in one pass without the wrist strain of manual cutters"
   - "USB-C charging with roughly 90 minutes of runtime per charge — enough for a full day of box breakdowns"
   - "Safety lock switch plus trigger design prevents accidental activation when tossed in a tool bag"
-cons:
+cons: 
   - "Trigger requires constant pressure — some users with arthritis or weaker grip report hand fatigue after extended use"
   - "Blade guard is thin plastic; dropping it on concrete can crack the housing, leaving the blade partially exposed"
+
 ---
 
 If you break down more than a handful of boxes a week, you've felt that dull ache in your wrist and forearm by the third or fourth cut. Manual box cutters are cheap, but they cost you in repetitive strain. This cordless electric scissors from the 4V upgrade motor line aims to solve that with a motorized blade that chews through corrugated cardboard while your hand stays mostly stationary. It's a niche tool, but for the right user, it's genuinely transformative.

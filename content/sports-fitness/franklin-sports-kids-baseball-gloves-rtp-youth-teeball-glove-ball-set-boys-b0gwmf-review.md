@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Kids Baseball Gloves - RTP Youth Teeball Glo"
 seo_title: "Franklin Sports Kids Teeball Glove Review: Worth It? (2026)"
 meta_description: "Franklin Sports RTP Youth Teeball Glove review: sizing, durability, and real parent feedback. Is this 4.6-star glove right for your young player?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWMFZ9C1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Hvch+rx0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-broken-in RTP (Ready to Play) construction means zero break-in time — kids can catch on day one"
   - "Small 9-inch pattern sized specifically for 3-7 year olds, not just a scaled-down adult glove"
   - "Comes with a matching teeball, so it's a complete starter package"
-cons:
+cons: 
   - "Synthetic leather won't hold up to competitive play past tee-ball level"
   - "No adjustable wrist strap on some colorways, which can be tricky for very small hands"
+
 ---
 
 **The honest scoop on the Franklin RTP Youth Teeball Glove**

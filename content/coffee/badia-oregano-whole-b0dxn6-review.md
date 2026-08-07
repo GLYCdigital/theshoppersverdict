@@ -1,4 +1,5 @@
 ---
+
 title: "Badia Oregano Whole"
 seo_title: "Badia Oregano Whole Review: Is It Worth Buying? (2026)"
 meta_description: "Badia Oregano Whole review: 4.8-star rated dried oregano. We tested aroma, shelf life, and value. See if this pantry staple earns a spot in your kitchen."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DXN6THRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tAuCDE54L._SL1500_.jpg"
-pros:
+pros: 
   - "Whole oregano leaves retain volatile oils far better than pre-ground versions, delivering noticeably stronger aroma and flavor in cooked dishes"
   - "Large 2.5-ounce bottle provides roughly 3-4 months of regular use for the average home cook — strong value at the typical sub-$5 price point"
   - "No stems, no filler, no added salt — just whole Mediterranean oregano leaves, which is rare at this price tier"
-cons:
+cons: 
   - "Plastic bottle with a shaker top is flimsy; the lid cracks if you overtighten it, and the holes clog easily with whole leaves"
   - "No resealable freshness pouch inside, so the oregano starts losing potency faster than jarred competitors once opened"
+
 ---
 
 Let's be honest: most dried oregano on grocery shelves tastes like dusty hay. Badia's whole-leaf version is different — and it's earned a 4.8-star rating from 240 buyers for a reason.

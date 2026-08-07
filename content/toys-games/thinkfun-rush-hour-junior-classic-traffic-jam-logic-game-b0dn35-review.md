@@ -1,4 +1,5 @@
 ---
+
 title: "ThinkFun Rush Hour Junior - Classic Traffic Jam Logic Game"
 seo_title: "ThinkFun Rush Hour Junior - Classic Traffic Jam Lo Review"
 meta_description: "Our full thinkfun rush hour junior - classic traffic jam logic game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DN35R1LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ehTuIv2mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **ThinkFun Rush Hour Junior isn't just a smaller version of the adult classic — it's a smarter one.** While the original Rush Hour can leave adults scratching their heads, this junior edition was redesigned from the ground up for kids aged 5 and up. And after spending time with it, I can tell you the design decisions matter.

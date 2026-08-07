@@ -1,4 +1,5 @@
 ---
+
 title: "20 lb Pre-Tied Dropper Loop Rigs. Fishing Line Spool. Loops"
 seo_title: "20 lb Pre-Tied Dropper Loop Rigs Review (2026): Worth It?"
 meta_description: "Honest 20 lb pre-tied dropper loop rigs review: strength, knot quality, and real fishing performance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMYJH3F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6171Xkwzb0L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Factory-tied knots hold up under heavy strain — tested at 20 lb with no slip"
   - "Pre-tied loops save 15-20 minutes of rigging per trip, especially in low light"
   - "Consistent loop size (roughly 2 inches) works for both bait rigs and lure drops"
-cons:
+cons: 
   - "Line memory is noticeable — coils don't fully relax even after stretching"
   - "No swivel included — you'll need to add your own for twist-prone presentations"
+
 ---
 
 **Opening Hook**

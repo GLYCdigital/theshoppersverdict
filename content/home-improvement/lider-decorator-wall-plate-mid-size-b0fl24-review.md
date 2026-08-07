@@ -1,4 +1,5 @@
 ---
+
 title: "LIDER Decorator Wall Plate, Mid-Size"
 seo_title: "LIDER Decorator Wall Plate, Mid-Size Review: Verdict | TS"
 meta_description: "Our full lider decorator wall plate, mid-size review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FL24GYK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516GW4KhI6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products are so small you don't think twice about them — until you install one and realize how much a cheap plate can ruin an otherwise clean renovation. The LIDER Decorator Wall Plate, Mid-Size, is the kind of finishing touch that makes you notice the details, and with a 4.7-star average across 235 ratings, it's clearly earning its place in homeowners' toolboxes. But is it the right plate for your project? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Games Workshop Warhammer 40k: Space Marines - Primaris Redem"
 seo_title: "Primaris Redemptor Dreadnought Review: Is It Worth It?"
 meta_description: "Honest Primaris Redemptor Dreadnought review: build quality, size, painting tips, and whether this Space Marines kit earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08HSRX6Z3/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/71yxUMSBHhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive presence on the tabletop — towers over firstborn Dreadnoughts and reads as a proper centerpiece unit"
   - "Highly poseable legs and torso with multiple weapon loadouts (macro plasma, gatling cannon, onslaught cannon) for list flexibility"
   - "Excellent plastic detail quality — panel lines, rivets, and sarcophagus trim are crisp and take washes exceptionally well"
-cons:
+cons: 
   - "Assembly is genuinely complex — over 100 parts, many small pistons and hoses that require careful dry-fitting"
   - "No magnetization guidance in the instructions; swapping loadouts requires either magnets or committing to a fixed build"
   - "Weapon arms are heavy and can sag at the shoulder joint over time without pinning or glue reinforcement"
+
 ---
 
 Let’s cut through the hobby-shop hype. The Primaris Redemptor Dreadnought is one of the most imposing kits in the Space Marine range, and with 235 ratings averaging 4.7 stars, it’s clearly earning its keep. But this isn’t a snap-fit starter model. Here’s what you’re actually getting before you drop your cash.

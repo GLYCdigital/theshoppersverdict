@@ -1,4 +1,5 @@
 ---
+
 title: "iPaw Turkey Tendons for Large Dogs"
 seo_title: "iPaw Turkey Tendons for Large Dogs Review: Verdict | TSV"
 meta_description: "Our full ipaw turkey tendons for large dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FR3MZ5HK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sm5nvdXBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These Turkey Tendons Actually Worth the Hype?

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Dgb2 Single Serve Coffee Maker 48 inch"
 seo_title: "Cuisinart DGB2 Single Serve Coffee Maker Review (2026)"
 meta_description: "Cuisinart DGB2 Single Serve Coffee Maker review: 48oz tank, brew sizes, real user feedback. Is this 3.8-star brewer worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D322MRWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mtuiJWmiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "48-ounce removable reservoir means fewer refills than most single-serve units"
   - "Brews into any mug up to 7 inches tall — no proprietary cup system required"
   - "Simple dial controls with 6, 8, and 10-ounce brew sizes"
-cons:
+cons: 
   - "No programmable auto-brew timer; it's strictly manual operation"
   - "Some users report inconsistent brew temperature on early units"
   - "Drip tray is shallow — tall travel mugs can leave puddles"
+
 ---
 
 **The 48-ounce twist on single-serve brewing: Is bigger actually better?**

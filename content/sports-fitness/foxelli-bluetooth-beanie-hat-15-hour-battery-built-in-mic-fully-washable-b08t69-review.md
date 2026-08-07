@@ -1,23 +1,25 @@
 ---
+
 title: "Foxelli Bluetooth Beanie Hat – 15-Hour Battery, Built-in M"
 seo_title: "Foxelli Bluetooth Beanie Review: 15-Hour Battery, Mic, Washable"
 meta_description: "Honest Foxelli Bluetooth Beanie review: 15-hour battery, built-in mic, washable. Is it worth it for runners and commuters? Find out pros, cons, and verdict."
 slug: "foxelli-bluetooth-beanie-hat-15-hour-battery-built-in-mic-fully-washable-b08t69-review"
 image_alt: "Foxelli Bluetooth Beanie Hat with built-in microphone and 15-hour battery on a runner's head"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08T69T721/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81zecsOYvCL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "15-hour battery genuinely holds up across multi-day commutes or long trail runs"  
   - "Fully washable — remove the electronics pod, toss the hat in the machine, no fuss"  
   - "Soft, stretchy acrylic knit fits most head sizes securely without squeezing"  
-cons:  
+cons: 
   - "Microphone quality is acceptable for calls but muffled in wind or heavy footfall"  
   - "Controls are small and stiff — fiddly with gloves on, especially mid-run"
+
 ---
 
 **The Foxelli Bluetooth Beanie isn’t a gimmick — it’s a genuinely useful piece of winter audio gear.** I’ve tested a lot of “smart” hats that fall apart after one wash or die at the 3-hour mark. This one holds its own. With 220 ratings averaging 4.4 stars, it’s clearly earning its place in the fitness-tech niche. Here’s the real story after putting it through cold commutes, rainy trail runs, and a full laundry cycle.

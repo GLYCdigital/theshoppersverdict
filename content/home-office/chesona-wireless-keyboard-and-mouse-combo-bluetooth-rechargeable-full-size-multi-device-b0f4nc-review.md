@@ -1,4 +1,5 @@
 ---
+
 title: "CHESONA Wireless Keyboard and Mouse Combo, Bluetooth Recharg"
 seo_title: "CHESONA Wireless Keyboard Mouse Combo Review (2026) | 4.4★"
 meta_description: "CHESONA wireless keyboard and mouse combo review: full-size Bluetooth rechargeable set, multi-device pairing, battery life, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4NC42RG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F9e19ES9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-size layout with numeric keypad — rare in Bluetooth combos, saves desk space vs. two separate devices"
   - "3-device pairing on both keyboard and mouse with one-touch switching (Windows, macOS, Android, iOS)"
   - "Built-in 1500mAh keyboard battery lasts 3–4 months per charge; mouse recharges via USB-C in under 2 hours"
-cons:
+cons: 
   - "Scissor-switch keys feel mushy compared to mechanical or even decent membrane boards; no backlighting"
   - "Mouse is small-to-medium sized — not ideal for large hands; no adjustable DPI button on the unit itself"
+
 ---
 
 Let's be direct: most wireless combos under $40 are disposable junk you'll replace within a year. The CHESONA combo doesn't fit that mold — but it's not flawless either. Here's what you need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Gator Moka Pot"
 seo_title: "Coffee Gator Moka Pot Review: Bold Stovetop Espresso in 2026 inch"
 meta_description: "Coffee Gator Moka Pot review: 4.4-star rated stovetop espresso maker. Tested for brew quality, durability, and ease of use. Find out if it's worth $32.99."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVNYJ9G9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q2RgZe9VL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full stainless steel body (no aluminum) means no metallic taste and safe for induction cooktops"
   - "Heat-resistant silicone handle stays cool during brewing — a real safety upgrade over cheap metal-handle rivals"
   - "Includes a free 100g bag of Colombian coffee and a steel scoop, so it's ready to use out of the box"
-cons:
+cons: 
   - "Small 6-cup capacity actually yields about 4 standard espresso shots — measure expectations"
   - "Requires hand washing; dishwasher cycles will dull the brushed finish and can warp the gasket over time"
+
 ---
 
 **The Coffee Gator Moka Pot is the rare stovetop brewer that treats the process seriously.** Most moka pots under $40 are flimsy aluminum throwaways that impart a tinny aftertaste. This one is built from full stainless steel — a material choice that immediately separates it from the Bialetti pack. At $32.99 with 4.4 stars across 220 ratings, it's positioned as the budget-friendly upgrade for people who want real espresso-adjacent coffee without a $500 machine.

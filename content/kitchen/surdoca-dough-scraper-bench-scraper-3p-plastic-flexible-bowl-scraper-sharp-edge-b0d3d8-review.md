@@ -1,4 +1,5 @@
 ---
+
 title: "SURDOCA Dough Scraper Bench Scraper - 3P Plastic Flexible Bo"
 seo_title: "SURDOCA Dough Scraper Bench Scraper - 3P Plastic F Review"
 meta_description: "Our full surdoca dough scraper bench scraper - 3p plastic flexible bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3D8PN54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xfy0orbKL._AC_SL1496_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $10 Tool That Makes You Look Like a Professional Baker**

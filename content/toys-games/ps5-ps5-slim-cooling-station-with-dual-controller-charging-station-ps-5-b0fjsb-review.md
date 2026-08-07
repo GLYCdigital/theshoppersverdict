@@ -1,4 +1,5 @@
 ---
+
 title: "PS5 / PS5 Slim Cooling Station with Dual Controller Charging"
 seo_title: "PS5 / PS5 Slim Cooling Station with Dual Controlle Review"
 meta_description: "Our full ps5 / ps5 slim cooling station with dual controller charging review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJSB69M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WJmYGNhzL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most PS5 cooling attachments are plastic junk that does nothing but look busy. This one is different — and it's not because of the fans. It's because the dual controller charger actually works well enough to justify buying this as a charging station that happens to cool your console, rather than the other way around.

@@ -1,4 +1,5 @@
 ---
+
 title: "CROC Rose Gold Titanium Flat Iron 1.25 inch "
 seo_title: "CROC Rose Gold Titanium Flat Iron Review (2026): Worth It?"
 meta_description: "CROC Rose Gold Titanium Flat Iron 1.25 inch  review: 4.0-star rated. Tested for heat-up speed, smoothness & durability. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07T9NS52K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617Ub5jjKSL._SL1500_.jpg"
-pros:
+pros: 
   - "1.25-inch floating titanium plates heat to 450°F in under 30 seconds, with consistent temperature recovery even on thick, coarse sections"
   - "Rose gold ceramic coating actually reduces drag—hair glides through without snagging, unlike cheaper titanium plates that catch on split ends"
   - "Dual voltage (100-240V) makes it a genuine travel companion, not just a marketing checkbox"
-cons:
+cons: 
   - "The swivel cord is stiff out of the box and kinks easily at the base, which gets annoying during styling marathons"
   - "No auto-shutoff—if you're the type to plug in and wander off, this is a genuine safety concern"
   - "Rose gold finish shows fingerprints and heat marks quickly; it's pretty but high-maintenance cosmetically"
+
 ---
 
 # CROC Rose Gold Titanium Flat Iron 1.25" Review: Luxury Looks, Real Performance

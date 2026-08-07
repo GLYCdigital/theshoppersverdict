@@ -1,4 +1,5 @@
 ---
+
 title: "Himotor Electric Pressure Washer - 4000PSI 2.8GPM Electric P"
 seo_title: "Himotor Electric Pressure Washer - 4000PSI 2.8GPM  Review"
 meta_description: "Our full himotor electric pressure washer - 4000psi 2.8gpm electric p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0D61QG715/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N0Vuqd+ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Himotor Electric Pressure Washer - 4000PSI 2.8GPM Electric P** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

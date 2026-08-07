@@ -1,4 +1,5 @@
 ---
+
 title: "Born Pretty Cat Magnetic Eye Gel Nail Polish"
 seo_title: "Born Pretty Cat Magnetic Eye Gel Polish Review (2026)"
 meta_description: "Born Pretty Cat Magnetic Eye Gel Nail Polish review: 4.0-star rated cat-eye gel polish. Real swatches, magnet tips, wear time, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GTV5TCXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81h9PqFOJ2L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3D cat-eye effect with a single magnet pass — no special tools required beyond the included wand"
   - "One-coat opacity on most shades; the magnetic pigment density is noticeably higher than budget competitors"
   - "Self-leveling formula that doesn't pool at cuticles or drag when you pull the magnet through"
-cons:
+cons: 
   - "Requires a separate LED lamp and base/top coat — this is not a true one-step system despite the 'gel' label"
   - "Magnetic effect weakens significantly if you apply more than one coat; the second pass pulls pigment from the first layer"
   - "Removal takes 10-15 minutes of soaking; some buyers report staining on lighter shades"
+
 ---
 
 **The Short Version:** If you've been scrolling past those viral cat-eye nail videos wondering if the effect actually translates to real life, this is the polish that delivers—with a few caveats. Born Pretty's Cat Magnetic Eye Gel has earned its 4.0-star rating across 200+ reviews for good reason: the magnetic pull is crisp, the color payoff is serious, and the price point undercuts salon gel brands by a mile. But it's not the effortless one-step miracle some listings imply.

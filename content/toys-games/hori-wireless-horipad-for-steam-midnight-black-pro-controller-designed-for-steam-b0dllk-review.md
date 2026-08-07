@@ -1,4 +1,5 @@
 ---
+
 title: "HORI Wireless HORIPAD for Steam (Midnight Black) - Pro Contr"
 seo_title: "HORI Wireless HORIPAD for Steam Review: PC Gaming Controller"
 meta_description: "HORI Wireless HORIPAD for Steam review: Native Steam compatibility, ergonomic grips, but no gyro or haptics. Is this $60 PC controller worth it?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DLLKRFG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XozmDmgiL._SL1500_.jpg"
-pros:
+pros: 
   - "Native Steam integration — pairs instantly over 2.4GHz wireless dongle, no third-party software or configuration needed"
   - "Ergonomic grips modeled after Steam Deck handles; comfortable for 3+ hour sessions"
   - "Full-size offset sticks with textured tops, plus rear paddle buttons mapped via Steam Input"
-cons:
+cons: 
   - "No gyroscope or HD haptics — features Steam Deck owners will immediately miss"
   - "D-pad feels mushy with shallow actuation; problematic for fighting games and precise platformers"
   - "Non-removable 1000mAh battery; claims 10-hour life but real-world usage closer to 7-8 hours"
+
 ---
 
 The HORI Wireless HORIPAD for Steam is a controller that understands its assignment perfectly — and that's both its greatest strength and its biggest limitation. This is a controller built exclusively for PC gamers living inside the Steam ecosystem. If that's you, it's genuinely compelling. If you're hoping for a Switch Pro Controller alternative that also works on Steam, keep reading before you click buy.

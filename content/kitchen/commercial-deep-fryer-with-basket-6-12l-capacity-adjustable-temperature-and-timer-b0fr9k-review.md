@@ -1,23 +1,25 @@
 ---
+
 title: "Commercial Deep Fryer with Basket 6-12L Capacity Adjustable"
 seo_title: "Commercial Deep Fryer with Basket Review: 6-12L Adjustable"
 meta_description: "Honest review of the Commercial Deep Fryer with Basket 6-12L. Adjustable temp & timer, real-world performance, pros/cons, and who should buy it."
 slug: "commercial-deep-fryer-with-basket-6-12l-capacity-adjustable-temperature-and-timer-b0fr9k-review"
 image_alt: "Commercial deep fryer with basket showing adjustable temperature dial and 6-12L capacity pot"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FR9K49M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "Genuinely adjustable 6-12L capacity — the marked fill lines inside the pot actually match the oil volumes, not just marketing math."  
   - "Heating element reaches 350°F in under 9 minutes from cold oil; recovery time after adding frozen food is respectable at 2-3 minutes."  
   - "Basket handle stays cool during extended frying sessions — the double-wall design isn't gimmicky, it works."  
-cons:  
+cons: 
   - "No built-in drain valve; you'll need to siphon or ladle out oil for changes, which is messy at the 12L mark."  
   - "Temperature dial lacks fine control — the difference between 325°F and 350°F settings is a wide turn, making precise adjustments tricky."
+
 ---
 
 **Opening: Is this a real commercial fryer or just a big home unit?**  

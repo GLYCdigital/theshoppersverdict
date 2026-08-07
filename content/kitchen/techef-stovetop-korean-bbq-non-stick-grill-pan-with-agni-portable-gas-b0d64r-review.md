@@ -1,4 +1,5 @@
 ---
+
 title: "TECHEF - Stovetop Korean BBQ Non-Stick Grill Pan with Agni P"
 seo_title: "TECHEF - Stovetop Korean BBQ Non-Stick Grill Pan w Review"
 meta_description: "Our full techef - stovetop korean bbq non-stick grill pan with agni p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D64RY5D3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KTRo0FGSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TECHEF Stovetop Korean BBQ Grill Pan: The At-Home KBBQ Pan That Actually Delivers

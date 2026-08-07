@@ -1,4 +1,5 @@
 ---
+
 title: "COSORI Pro Gen 2 Air Fryer 5.8QT, Upgraded Version with Stab"
 seo_title: "COSORI Pro Gen 2 Air Fryer 5.8QT Review (2026): Worth It?"
 meta_description: "COSORI Pro Gen 2 Air Fryer 5.8QT review: 4.7-star rated. We test the upgraded EvenCrisp technology, 5.8QT capacity, and 100+ recipes. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRYJ5S3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xlEWE3e+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "EvenCrisp 360° technology delivers genuinely even browning across the full 5.8QT basket — no more shaking mid-cycle for most foods"
   - "12 preset functions with a responsive touchscreen that's actually intuitive, plus a shake reminder that's audible and clear"
   - "Square basket design maximizes usable capacity — fits a whole 5-lb chicken or 12 chicken wings in a single layer"
-cons:
+cons: 
   - "Preheat cycle adds 3-4 minutes to every cook; there's no way to skip it without manually overriding the timer"
   - "Exterior gets noticeably hot around the top vent — keep it at least 5 inches from your upper cabinets"
   - "The non-stick coating on the basket is durable but not dishwasher-safe; hand washing is recommended for longevity"
+
 ---
 
 **The COSORI Pro Gen 2 is the air fryer you'll actually use daily — if you can get past its one annoying habit.**

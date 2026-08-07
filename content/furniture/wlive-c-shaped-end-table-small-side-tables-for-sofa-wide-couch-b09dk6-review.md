@@ -1,4 +1,5 @@
 ---
+
 title: "WLIVE C-Shaped End Table, Small Side Tables for Sofa, Wide C"
 seo_title: "WLIVE C-Shaped End Table, Small Side Tables for So Review"
 meta_description: "Our full wlive c-shaped end table, small side tables for sofa, wide c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09DK6K86D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614MCM+B5eL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **WLIVE C-Shaped End Table, Small Side Tables for Sofa, Wide C** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

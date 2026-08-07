@@ -1,4 +1,5 @@
 ---
+
 title: "KINGWONG White Rectangle Vessel Sink Small Undermount Bathro"
 seo_title: "KINGWONG White Rectangle Vessel Sink Small Undermo Review"
 meta_description: "Our full kingwong white rectangle vessel sink small undermount bathro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C16PLHM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bfp-zdiXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about bathroom sinks: most look fine in the showroom and become a headache after six months of toothpaste, hard water, and daily abuse. The KINGWONG White Rectangle Vessel Sink Small Undermount Bathroom Sink is trying to dodge that trap with a compact ceramic undermount design. After digging through 229 Amazon ratings (4.6 stars) and the specs, here’s what you actually need to know before you cut a hole in your countertop.

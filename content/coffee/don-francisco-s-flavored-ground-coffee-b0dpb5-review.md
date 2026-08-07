@@ -1,24 +1,26 @@
 ---
+
 title: "Don Francisco's Flavored Ground Coffee Review"
 seo_title: "Don Francisco's Flavored Ground Coffee Review (2026): Worth It?"
 meta_description: "Honest Don Francisco's Flavored Ground Coffee review: flavors, strength, value, and who should buy. See real pros, cons, and verdict."
 slug: "don-francisco-s-flavored-ground-coffee-b0dpb5-review"
 image_alt: "Don Francisco's Flavored Ground Coffee bag with flavor variety options"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPB5WWKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713iAkVMD4L._SL1500_.jpg"
-pros:  
+pros: 
   - "Flavors are bold and authentic—not artificial-tasting; the Vanilla and Hazelnut stand out."  
   - "Roast is smooth with low bitterness, even at full strength."  
   - "Resealable 12-oz bag keeps grounds fresh for weeks."  
-cons:  
+cons: 
   - "Flavored beans can leave residual oils in your grinder or drip machine—clean regularly."  
   - "Sweetness is subtle; if you expect a sugary dessert coffee, you'll be disappointed."  
   - "Whole bean option is limited; most flavors only come pre-ground."
+
 ---
 
 ## Don Francisco's Flavored Ground Coffee: The Real Story  

@@ -1,4 +1,5 @@
 ---
+
 title: "Nostalgia Two-Speed Electric Milkshake Maker and Drink Mixer"
 seo_title: "Nostalgia Two-Speed Electric Milkshake Maker and D Review"
 meta_description: "Our full nostalgia two-speed electric milkshake maker and drink mixer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FF64T486/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IhzuBqK0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nostalgia Two-Speed Electric Milkshake Maker brings the soda fountain home — but is it a genuine workhorse or just a retro showpiece?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Grill Replacement Parts for Weber Spirit Series"
 seo_title: "Grill Replacement Parts for Weber Spirit Series Review: V"
 meta_description: "Our full grill replacement parts for weber spirit series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRDLSJYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-bWVQvNmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve owned your Weber Spirit for six years. The burners have rusted through, the flavorizer bars are flaking, and the heat distribution is now a gamble — hot on the left, cold on the right. A new Spirit runs $400–$600. This replacement kit costs a fraction of that. The question is whether it actually fits and lasts. Here’s what 229 buyers found.

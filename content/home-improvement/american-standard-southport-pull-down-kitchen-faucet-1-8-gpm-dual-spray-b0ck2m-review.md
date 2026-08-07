@@ -1,4 +1,5 @@
 ---
+
 title: "American Standard Southport Pull-Down Kitchen Faucet, 1.8 GP"
 seo_title: "American Standard Southport Pull-Down Faucet Review (2026)"
 meta_description: "American Standard Southport pull-down kitchen faucet review: 1.8 GPM flow, dual spray, Spot Defense finish. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CK2MD27R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512uJJNUhmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spot Defense finish actually resists water spots and fingerprints — a real win if you have hard water"
   - "1.8 GPM flow rate hits the sweet spot between water savings and usable pressure for filling pots"
   - "Dual-spray toggle on the pull-down head is stiff enough to avoid accidental switching mid-rinse"
-cons:
+cons: 
   - "Pull-down hose has noticeable drag — doesn't retract as smoothly as higher-priced rivals like Delta or Moen"
   - "Installation is doable but tight under sink; the mounting hardware requires patience if you have deep cabinets"
   - "No magnetic docking — the head clicks in but can sag slightly if you don't seat it firmly"
+
 ---
 
 The American Standard Southport Pull-Down Kitchen Faucet sits in a crowded, competitive zone. You've got Moen and Delta fighting over the $150–$250 range, and then you've got this — a faucet that undercuts them on price but asks you to compromise on a few things. After digging through 204 ratings and the specs, here's the real story.

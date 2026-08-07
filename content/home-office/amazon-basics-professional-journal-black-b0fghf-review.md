@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Professional Journal,Black"
 seo_title: "Amazon Basics Professional Journal Review: Worth It? (2026)"
 meta_description: "Honest Amazon Basics Professional Journal review: build quality, paper performance, pros/cons. Is this black hardcover notebook worth buying? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGHFPC61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pOPer1eIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lay-flat binding that actually stays open — no fighting to keep your page flat while writing"
   - "Thick 100gsm paper that handles fountain pens and gel inks without bleed-through"
   - "Stitched elastic closure and ribbon bookmark hold up to daily bag carry without fraying"
-cons:
+cons: 
   - "Cover shows fingerprints and scuffs easily — the matte black finish isn't smudge-resistant"
   - "No page numbers or table of contents, so tracking entries requires manual indexing"
+
 ---
 
 Let's be direct: the notebook market is crowded with $25+ "premium" journals that do the exact same thing as this $9 Amazon Basics option. The question isn't whether this journal works — it's whether the cost savings come with compromises you'll regret. After digging through 235 ratings and testing the construction details, here's the honest picture.

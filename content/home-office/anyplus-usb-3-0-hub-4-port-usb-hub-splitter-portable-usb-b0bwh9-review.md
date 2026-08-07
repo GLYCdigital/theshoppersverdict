@@ -1,4 +1,5 @@
 ---
+
 title: "ANYPLUS USB 3.0 Hub, 4 Port USB Hub Splitter,Portable USB Ad"
 seo_title: "ANYPLUS USB 3.0 Hub Review: 4-Port Splitter for $10 inch"
 meta_description: "Honest ANYPLUS USB 3.0 Hub review: 4-port splitter tested for speed, build, and real-world use. See who it's for, who should skip it, and if it's worth $9.99."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWH9DZRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IFBKbuCnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True USB 3.0 speeds up to 5Gbps—transferred a 2GB file in under 6 seconds"
   - "Compact aluminum shell measures just 3.2 x 1.2 x 0.6 inches; disappears behind a laptop"
   - "Works with USB-C and Thunderbolt ports via included USB-A to USB-C adapter"
-cons:
+cons: 
   - "No power adapter included—portable drives with high draw may need a powered hub instead"
   - "Cable is short (4.7 inches); fine for a laptop, awkward for a desktop tower"
+
 ---
 
 ## The $10 Fix for a Laptop That Ran Out of Ports

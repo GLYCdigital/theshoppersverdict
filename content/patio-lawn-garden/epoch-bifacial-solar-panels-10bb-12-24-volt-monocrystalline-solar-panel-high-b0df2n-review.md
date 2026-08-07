@@ -1,4 +1,5 @@
 ---
+
 title: "Epoch Bifacial Solar Panels,10BB 12/24 Volt Monocrystalline"
 seo_title: "Epoch Bifacial Solar Panel Review: 10BB 12/24V Monocrystalline"
 meta_description: "Honest Epoch Bifacial 10BB solar panel review: efficiency, build quality, real-world output, and who should buy. 4.5-star rated with 225 reviews."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF2N28WZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91K429rcC1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10BB (busbar) monocrystalline cells deliver noticeably higher efficiency in low-light conditions than older 5BB panels"
   - "Bifacial design captures reflected light from below, boosting output by 10-25% when mounted over light-colored surfaces"
   - "IP67-rated junction box and reinforced aluminum frame handle weather exposure without corrosion or moisture ingress"
-cons:
+cons: 
   - "No pre-drilled mounting holes for ground-level installation — you'll need to source brackets separately"
   - "Bifacial gain is marginal if you mount flat on a dark rooftop; the real benefit requires elevation and reflective ground"
+
 ---
 
 **The short version:** The Epoch Bifacial 10BB panel is a legitimate upgrade over budget monofacial panels — but only if you install it the way bifacial technology demands. Mounted properly, it outperforms panels at twice the price. Mounted flat on a dark surface, you're leaving 20% of its potential on the table.

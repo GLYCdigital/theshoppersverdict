@@ -1,4 +1,5 @@
 ---
+
 title: "Carolina Herrera Bad Boy Cobalt Elixir"
 seo_title: "Bad Boy Cobalt Elixir Review: Bold Scent Worth It?"
 meta_description: "Carolina Herrera Bad Boy Cobalt Elixir review: performance, longevity, and projection. See if this bold fragrance earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSMSSJ3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kw9-FMuhL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional 10-12 hour longevity on skin; projects strongly for the first 4-5 hours"
   - "Unique metallic-amber dry down that sets it apart from the original Bad Boy and most designer releases"
   - "Bottle design is a genuine conversation piece — the cobalt blue lightning bolt looks even better in person"
-cons:
+cons: 
   - "Strong sillage means 2 sprays max; overspraying will clear a room (not in a good way)"
   - "The metallic facet in the opening can read as sharp or synthetic to some noses — sample first if you're sensitive to that accord"
   - "Price point sits at the premium end of designer fragrances; if you want a safe, office-friendly scent, this is not it"
+
 ---
 
 The original Bad Boy was a safe, mass-appealing amber-woody. Cobalt Elixir is not that. This is the flanker that throws the rulebook out the window — and for the 235 Amazon reviewers averaging 4.7 stars, that's exactly why it works.

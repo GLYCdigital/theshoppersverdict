@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Summit Supplies 100 Manila Fastener File Folders with E"
 seo_title: "Blue Summit Supplies Manila File Folders Review (2026)"
 meta_description: "Blue Summit Supplies 100 Manila Fastener File Folders review: reinforced end tabs, brass fasteners, letter size. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C66H8L5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+5hXI8M9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced end tabs and top edge resist tearing where folders get the most abuse"
   - "Brass fasteners are 2 inches long — enough for 150+ sheets without struggling"
   - "Heavyweight 11-point manila stock holds up to repeated filing and retrieval"
-cons:
+cons: 
   - "Fastener prongs can snag on documents when sliding papers in quickly"
   - "No interior pockets — you'll need a separate folder for loose sheets"
+
 ---
 
 Let's be honest: a manila folder is a manila folder. Until it rips at the tab, spills your client's paperwork across the floor, or the fastener tears through the paper. That's where the Blue Summit Supplies 100-count box tries to earn its keep — and for the most part, it delivers.

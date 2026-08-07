@@ -1,4 +1,5 @@
 ---
+
 title: "Spurtar Cap Oil Filter Wrench Oil Filter Removal Tool"
 seo_title: "Spurtar Cap Oil Filter Wrench Oil Filter Removal T Review"
 meta_description: "Our full spurtar cap oil filter wrench oil filter removal tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZ74JRBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xp1lPPAgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a rounded-off oil filter with a strap wrench at 7 a.m. on a cold garage floor, you already know why cap-style wrenches exist. The Spurtar Cap Oil Filter Wrench is a straightforward solution to a very specific problem: getting a stubborn filter off without destroying it or your knuckles.

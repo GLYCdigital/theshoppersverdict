@@ -1,4 +1,5 @@
 ---
+
 title: "LOVE STORY Hardware Kit and Clips"
 seo_title: "LOVE STORY Hardware Kit and Clips Review: Verdict | TSV"
 meta_description: "Our full love story hardware kit and clips review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07V26LW45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713rogQr9GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $15 Fix That Should've Come With Your Patio Furniture

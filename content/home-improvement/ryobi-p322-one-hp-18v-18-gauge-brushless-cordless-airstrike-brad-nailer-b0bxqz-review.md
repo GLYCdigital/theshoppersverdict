@@ -1,4 +1,5 @@
 ---
+
 title: "RYOBI P322 ONE+ HP 18V 18-Gauge Brushless Cordless AirStrike"
 seo_title: "RYOBI P322 ONE+ HP 18V 18-Gauge Brushless Cordless Review"
 meta_description: "Our full ryobi p322 one+ hp 18v 18-gauge brushless cordless airstrike review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BXQZ1QFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XwcEBASbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dragged an air compressor up a ladder just to run a few pieces of trim, the RYOBI P322 ONE+ HP AirStrike is the tool that makes you wonder why you waited so long. This isn't a toy-grade cordless nailer — it's a legitimate finish-work tool that trades the compressor for a 18V battery and a clever internal air chamber that builds pressure on its own. The catch? It's a 4.2/5-star tool, which means there are real tradeoffs. Let's get into them.

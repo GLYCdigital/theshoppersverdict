@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XT297T 18V LXTÂ® Lithium-Ion Brushless Cordless 2-Pc."
 seo_title: "Makita XT297T 18V LXTÂ® Lithium-Ion Brushless Cord Review"
 meta_description: "Our full makita xt297t 18v lxtâ® lithium-ion brushless cordless 2-pc. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G64QSP4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y3-k-1CfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Makita XT297T is the kit that makes you question why you ever lugged around a full-size drill/driver.**

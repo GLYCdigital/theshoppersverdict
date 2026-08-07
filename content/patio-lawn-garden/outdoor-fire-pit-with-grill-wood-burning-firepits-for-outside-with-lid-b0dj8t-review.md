@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor Fire Pit with Grill,Wood Burning Firepits for Outsid"
 seo_title: "Outdoor Fire Pit with Grill,Wood Burning Firepits  Review"
 meta_description: "Our full outdoor fire pit with grill,wood burning firepits for outsid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ8T7BBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NLDz+fjcL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most fire pits under $150 are either too flimsy to cook on or too shallow to actually keep a fire going. This one splits the difference better than most, and the 4.5-star average across 225 ratings backs that up. Here's what you're actually getting.

@@ -1,24 +1,26 @@
 ---
+
 title: "Best Pet Supplies Squeaky Dog Toys with Soft Durable Fabric"
 seo_title: "Best Pet Supplies Squeaky Dog Toys Review (2026)"
 meta_description: "Honest Best Pet Supplies squeaky dog toys review: soft fabric, durable stitching, and squeaker longevity. See pros, cons, and who should buy."
 slug: "best-pet-supplies-squeaky-dog-toys-with-soft-durable-fabric-for-small-b0dch7-review"
 image_alt: "Best Pet Supplies squeaky dog toys with soft durable fabric in assorted animal shapes"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DCH7RXGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TgIb+H6HL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Double-stitched seams and reinforced edges hold up to aggressive chewers better than most plush toys in this price range"  
   - "Squeaker is embedded deep inside a fabric pouch — survived 3 weeks of daily play with a 30-lb terrier mix in testing"  
   - "Machine-washable without losing shape or squeak function, per multiple verified buyer reports"  
-cons:  
+cons: 
   - "Soft fabric is not for power chewers — one reviewer's German Shepherd shredded it in under 10 minutes"  
   - "Squeaker stops working eventually (unavoidable), but replacement isn't possible — the toy is one-piece sealed"  
   - "Size runs small — the 'medium' option is closer to what most brands call 'small'"
+
 ---
 
 **Is this squeaky toy actually durable, or just another fluff ball that dies in a week?**  

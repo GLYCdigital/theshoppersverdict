@@ -1,4 +1,5 @@
 ---
+
 title: "Airscape Stainless Steel Coffee Scoop - Perfectly Proportion"
 seo_title: "Airscape Coffee Scoop Review: 2-Tbsp Stainless Steel (2026)"
 meta_description: "Airscape stainless steel coffee scoop review: accurate 2-tbsp measure, ergonomic handle, rust-proof build. See pros, cons & verdict before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BYGX53ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EFfz1MM4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Accurate 2-tablespoon capacity with a level edge — consistent coffee-to-water ratio every brew, no guessing"
   - "Heavy-gauge stainless steel with a satin finish that resists rust, bending, and coffee staining over years of daily use"
   - "Ergonomic handle with a comfortable grip and rounded scoop end that reaches deep into 12-oz bags without bending"
-cons:
+cons: 
   - "No measurement markings on the handle — if you want half-scoop increments, you'll need a separate spoon"
   - "Metal handle transfers heat if left resting against a hot drip brewer carafe — minor but worth noting"
+
 ---
 
 Most coffee scoops are afterthoughts — flimsy plastic things that crack in six months or the ones that come free with a can of Folgers. The Airscape Stainless Steel Coffee Scoop starts from a different premise: your coffee-to-water ratio is the single biggest variable in a good cup, and you deserve a tool that nails it every time.

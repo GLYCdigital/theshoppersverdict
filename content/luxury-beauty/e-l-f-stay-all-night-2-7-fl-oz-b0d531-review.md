@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Stay All Night, 2.7 Fl Oz"
 seo_title: "e.l.f. Stay All Night Setting Spray Review (2026)"
 meta_description: "Honest e.l.f. Stay All Night setting spray review: does the 2.7 Fl Oz bottle lock makeup for 16 hours? Real wear tests, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5317ZSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bFg6cUDKL._SL1500_.jpg"
-pros:
+pros: 
   - "Fine, even mist that won't drench your face — two quick spritzes cover the whole face without disturbing makeup"
   - "Genuinely keeps foundation and concealer in place through sweat, humidity, and 10+ hour wear days"
   - "Vegan, cruelty-free formula with a comfortable matte finish that doesn't feel tight or drying"
-cons:
+cons: 
   - "Scent is noticeable at first spray — a slightly chemical, alcohol-forward smell that fades in about 30 seconds"
   - "Doesn't control oil for truly oily skin types past the 6-hour mark; blotting may be needed for shine control"
+
 ---
 
 **The $10 setting spray that punches way above its price point — but it's not magic.**

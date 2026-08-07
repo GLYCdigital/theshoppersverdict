@@ -1,4 +1,5 @@
 ---
+
 title: "4 Person Pop Up Tents for Camping - AYAMAYA Upgraded Large S"
 seo_title: "AYAMAYA 4 Person Pop Up Tent Review: Instant Setup"
 meta_description: "AYAMAYA 4 person pop up tent review: 60-second setup, skylight design, and real durability tested. Read before you buy this instant cabin tent."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3LBS28S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SubVqNgUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 60-second setup — pre-attached poles mean you unfold, stake, and go"
   - "Full-coverage rainfly with taped seams handles real downpours, not just sprinkles"
   - "Skylight mesh ceiling adds ventilation and stargazing without compromising bug protection"
-cons:
+cons: 
   - "Packed size is bulky (about 4 feet long) — won't fit in a standard car trunk flat"
   - "4-person rating is generous; two adults plus gear is comfortable, four is cramped"
   - "Re-folding requires practice and the included storage bag is snug"
+
 ---
 
 ## The 60-Second Setup That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & DougÂ® Ms. Rachelâ„¢ Wooden Peek-a-Boo Jumbo Peg P"
 seo_title: "Melissa & DougÂ® Ms. Rachelâ„¢ Wooden Peek-a-Boo J Review"
 meta_description: "Our full melissa & dougâ® ms. rachelâ„¢ wooden peek-a-boo jumbo peg p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D936HF3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JVhTa+tSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # A Toddler's First Puzzle That Actually Gets Used — Not Just Displayed

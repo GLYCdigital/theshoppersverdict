@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity LED Wall Pack Light"
 seo_title: "hykolity LED Wall Pack Light Review: Verdict | TSV"
 meta_description: "Our full hykolity led wall pack light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVCRJ5RH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71416GmFAIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The hykolity LED Wall Pack Light delivers commercial-grade illumination at a price that undercuts most electrical supply houses. If you need to flood a driveway, barn, or loading area with light and want zero maintenance for years, this is a serious contender. But it's not the right fixture for every situation — here's the honest breakdown.

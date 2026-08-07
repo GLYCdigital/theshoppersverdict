@@ -1,4 +1,5 @@
 ---
+
 title: "Honda HRX Blade Kit, (1) 72511-VH7-000 Blade & (1) 72531-VH7"
 seo_title: "Honda HRX Blade Kit, (1) 72511-VH7-000 Blade & (1) Review"
 meta_description: "Our full honda hrx blade kit, (1) 72511-vh7-000 blade & (1) 72531-vh7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01IO0RRKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rbD-XeBwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Right Blades for Your Honda HRX — No Guesswork

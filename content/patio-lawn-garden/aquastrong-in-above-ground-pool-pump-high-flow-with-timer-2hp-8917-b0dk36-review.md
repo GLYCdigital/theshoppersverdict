@@ -1,4 +1,5 @@
 ---
+
 title: "AQUASTRONG In/Above Ground Pool Pump, High Flow (with Timer,"
 seo_title: "AQUASTRONG Pool Pump Review: High Flow With Timer (2026)"
 meta_description: "Honest AQUASTRONG in/above ground pool pump review: flow rate, timer reliability, build quality, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DK365Y3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6113Ri-tfNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine high flow — moves serious water for the price point, clears debris faster than comparable models"
   - "Built-in timer actually works and holds settings through power outages"
   - "Handles both in-ground and above-ground setups with included adapters"
-cons:
+cons: 
   - "Noise level is noticeable — louder than premium variable-speed pumps at full throttle"
   - "Some units arrive with minor cosmetic damage from shipping; verify seals before install"
   - "Timer interface is basic — no Wi-Fi or app control, just manual programming"
+
 ---
 
 Let me cut through the listing photos and get to what matters: will this pump keep your pool clear without draining your wallet? The AQUASTRONG High Flow pump sits in a crowded market of budget-friendly pool pumps, and at 3.8 stars from 190 ratings, the story is more nuanced than the marketing suggests.

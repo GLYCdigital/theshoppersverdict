@@ -1,4 +1,5 @@
 ---
+
 title: "Yves Saint Laurent Lash Clash Mascara 01 Noir"
 seo_title: "Yves Saint Laurent Lash Clash Mascara 01 Noir Review: Ver"
 meta_description: "Our full yves saint laurent lash clash mascara 01 noir review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09SQBXSQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41MbhBvqEyL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $32 Question: Is YSL Lash Clash Worth the Splurge?**

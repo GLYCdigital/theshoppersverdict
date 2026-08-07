@@ -1,4 +1,5 @@
 ---
+
 title: "KDD Headphone Stand, Game Controller Holder & Headset Holder"
 seo_title: "KDD Headphone Stand, Game Controller Holder & Head Review"
 meta_description: "Our full kdd headphone stand, game controller holder & headset holder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCDN3NT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Azm-Vg63L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Desk Real-Estate Problem, Solved

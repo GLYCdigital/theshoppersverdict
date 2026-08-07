@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Olympic Bumper Plates Set, 2 inch  Weight Plates for Stre"
 seo_title: "Fitvids Olympic Bumper Plates Review: 2 inch  Plates for Strength Training"
 meta_description: "Honest Fitvids Olympic bumper plates review: durability, bounce, odor, and value. See if these 2 inch  plates fit your home gym before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F7X7YSCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hB3vh5esL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crumb rubber construction deadens sound and protects floors better than cheaper virgin rubber or urethane alternatives"
   - "IPF-style 450mm diameter matches competition spec, so they fit standard Olympic bars without wobble"
   - "The 10lb and 25lb pairs are true to listed weight within a few ounces—rare at this price tier"
-cons:
+cons: 
   - "Strong rubber smell lingers for 1–2 weeks even after airing out, which bothers sensitive noses in small spaces"
   - The 55lb plates measure slightly thicker than advertised (about 3.1 inch " vs 2.9 inch "), so a full barbell load runs tight on shorter sleeves
   - "No center hole chamfer—plates can stick on the sleeve if you load them wet or sweaty"
+
 ---
 
 Let's be honest: most budget bumper plates are either too stiff, too smelly, or too inconsistent in weight. The Fitvids Olympic Bumper Plates Set sits in that crowded sub-$200 territory, but it does a few things smartly that cheaper sets don't. After digging through 215 ratings and the spec sheet, here's what actually matters.

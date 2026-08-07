@@ -1,4 +1,5 @@
 ---
+
 title: "Algreen Receptacle Large Multipurpose Lightweight Realistic"
 seo_title: "Algreen Receptacle Large Review: Realistic Faux Rock Cover"
 meta_description: "Honest Algreen Receptacle Large review: lightweight faux rock cover hides utility boxes. Real pros, cons, and buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3GRHXBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81COs0pt4kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weighs under 10 lbs yet looks convincingly like a real boulder from a distance — easy to move solo"
   - "Pre-drilled ventilation slots keep air flowing to the covered equipment, preventing heat buildup"
   - "UV-stabilized resin holds color well; multiple owners report no fading after 12+ months in direct sun"
-cons:
+cons: 
   - "Hollow plastic shell sounds noticeably hollow when knocked or bumped — not a solid rock by any means"
   - "At roughly 24 x 18 x 15 inches, it won't cover larger water meters or tall gas risers without sitting awkwardly"
+
 ---
 
 You've got an ugly utility box, a sprinkler valve cluster, or a wellhead sitting smack in the middle of your otherwise manicured yard. It's an eyesore, and you're tired of looking at it. The Algreen Receptacle Large is a lightweight faux rock designed to hide exactly that kind of infrastructure — but is it convincing enough to fool your neighbors, and sturdy enough to survive a Midwest winter? I dug through the 210 ratings and owner feedback to give you the straight story.

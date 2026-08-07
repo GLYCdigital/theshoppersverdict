@@ -1,4 +1,5 @@
 ---
+
 title: "Antimbee Vinyl Siding Clips - No-Hole Needed Outdoor Camera"
 seo_title: "Antimbee Vinyl Siding Clips Review: No-Drill Camera Mount"
 meta_description: "Honest Antimbee Vinyl Siding Clips review: Do no-drill camera mounts hold up? Tested for weight, grip, and weather. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSSCPRQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lSTdh4b9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slides under siding panels with zero drilling — removes cleanly with no scars on your vinyl"
   - "Fits standard 3/4-inch overlap siding without shims or modification"
   - "Rated for cameras up to 3 pounds; plenty for most security cams and smart doorbells"
-cons:
+cons: 
   - "Only works on horizontal lap siding — useless on brick, stucco, or vertical panels"
   - "Can pop loose in extreme cold if the siding gets brittle and shifts"
+
 ---
 
 If you've ever drilled into vinyl siding to mount a camera, you know the regret that follows. The holes are permanent. The sealant cracks. And when you move or reposition, you're left with a pattern of holes that scream "a camera was here." The Antimbee Vinyl Siding Clips solve that problem with an elegantly simple wedge design that slides between your siding panels — no drill, no screws, no mess.

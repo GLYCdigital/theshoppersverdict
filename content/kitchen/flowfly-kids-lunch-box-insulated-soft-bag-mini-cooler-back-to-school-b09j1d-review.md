@@ -1,4 +1,5 @@
 ---
+
 title: "FlowFly Kids Lunch box Insulated Soft Bag Mini Cooler Back t"
 seo_title: "FlowFly Kids Lunch Box Insulated Bag Review (2026)"
 meta_description: "FlowFly kids lunch box insulated soft bag review: 4.6/5 stars. Real-world cooling test, size check, durability report. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09J1DL7M7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vCkvTn10L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True thermal insulation — keeps yogurt and fruit cold for 4-5 hours, verified in field tests"
   - "Leak-resistant interior lining wipes clean in seconds; no lingering smells"
   - "Fits standard bento boxes and juice pouches without bulging the zipper"
-cons:
+cons: 
   - "Not leakproof — a cracked yogurt cup will still soak the interior"
   - "No separate compartment for an ice pack; you'll lose some capacity if you add one"
   - "Handle is thin; not comfortable for long carries by older kids"
+
 ---
 
 Let's be honest: most kids' lunch bags are glorified tote bags with a thin layer of foil that gives up by 10 a.m. The FlowFly Kids Lunch Box Insulated Soft Bag Mini Cooler actually does what it claims—and at a price that won't make you wince when it gets tossed into a school locker.

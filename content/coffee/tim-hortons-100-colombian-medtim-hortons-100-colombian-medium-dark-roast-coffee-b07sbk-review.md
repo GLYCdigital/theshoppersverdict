@@ -1,4 +1,5 @@
 ---
+
 title: "Tim Hortons 100% Colombian, MedTim Hortons 100% Colombian, M"
 seo_title: "Tim Hortons 100% Colombian, MedTim Hortons 100% Co Review"
 meta_description: "Our full tim hortons 100% colombian, medtim hortons 100% colombian, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07SBKKYSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91erpNf-J6L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a Tim Hortons line at 6 AM, you know that coffee has a distinct character — smooth, unpretentious, and reliably drinkable. The question is whether that translates to a bag of ground beans you brew at home. Short answer: mostly yes, with a couple of caveats.

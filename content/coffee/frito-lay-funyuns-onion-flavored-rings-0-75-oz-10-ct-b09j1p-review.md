@@ -1,4 +1,5 @@
 ---
+
 title: "Frito Lay, Funyuns Onion Flavored Rings, 0.75 Oz, 10 Ct"
 seo_title: "Funyuns Onion Rings 10 Ct Review: Perfect Snack Packs"
 meta_description: "Honest Funyuns Onion Flavored Rings 0.75 oz 10 ct review. Crunchy, salty, portable snack packs. Real buyer feedback on taste, texture & value."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09J1PWSDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s4PG0z22L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent crunchy texture with bold onion flavor that doesn't fade halfway through the bag"
   - "Portion-controlled 0.75 oz packs are ideal for lunchboxes, road trips, and snack drawers"
   - "Corn-based rings hold up well — no stale, soft pieces even in multi-pack storage"
-cons:
+cons: 
   - "At 0.75 oz per bag, you get about 12-15 rings — heavy snackers may need two bags"
   - "Powdery onion seasoning sticks to fingers; you'll want a napkin nearby"
+
 ---
 
 Let's be honest: Funyuns are a polarizing snack. Either you grew up eating them by the handful, or you think they taste like dusty onion cereal. If you're in the first camp, this 10-count variety pack of 0.75 oz bags is exactly what you need for portion control without sacrificing the experience.

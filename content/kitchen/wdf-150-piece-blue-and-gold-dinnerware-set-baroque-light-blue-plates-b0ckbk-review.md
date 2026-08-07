@@ -1,4 +1,5 @@
 ---
+
 title: "WDF 150-Piece Blue and Gold Dinnerware Set - Baroque Light B"
 seo_title: "WDF 150-Piece Blue and Gold Dinnerware Set - Baroq Review"
 meta_description: "Our full wdf 150-piece blue and gold dinnerware set - baroque light b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKBKC32X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p27t6o3pL._AC_SL1383_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WDF 150-Piece Blue and Gold Dinnerware Set: A Baroque Bargain or a Royal Pain?

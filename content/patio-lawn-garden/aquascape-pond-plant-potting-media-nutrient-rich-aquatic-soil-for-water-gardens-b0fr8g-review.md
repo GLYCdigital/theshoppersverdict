@@ -1,4 +1,5 @@
 ---
+
 title: "Aquascape Pond Plant Potting Media, Nutrient-Rich Aquatic So"
 seo_title: "Aquascape Pond Plant Potting Media Review: 4.4-Star Aquatic Soil"
 meta_description: "Aquascape Pond Plant Potting Media review: nutrient-rich aquatic soil for water gardens. See pros, cons, and real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FR8G6WRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t3KeOMGBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-charged with slow-release nutrients that feed aquatic plants for months without clouding the water"
   - "Heavy clay-based formula anchors deep-rooted plants like lilies and marginal bog plants in place"
   - "Works as both a planting medium and a top dressing for established pots — no need to repot everything"
-cons:
+cons: 
   - "Bag size is smaller than it looks — heavy clay means less volume per weight than standard potting mixes"
   - "Not suitable for bare-root floating plants; you still need a mesh basket or fabric pot to contain it"
   - "First-time pond owners may over-apply, causing a temporary ammonia spike in new setups"
+
 ---
 
 **Bottom line: If you're tired of replanting water lilies that float to the surface or fighting murky water from cheap topsoil, this is the aquatic planting medium you've been looking for. It's not flashy, but it does exactly what it claims.**

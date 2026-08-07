@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 4 Year Home Improvement Protection Plan ($800 - $899 inch"
 seo_title: "ASURION 4 Year Home Improvement Protection Plan Review"
 meta_description: "Honest ASURION 4 Year Home Improvement Protection Plan review for $800-$899 tools. Coverage details, real claims experience, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07P5GH5SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5179luWipLu._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers tools in the $800-$899 range that manufacturers typically only warranty for 1-3 years"
   - "Claims process is handled directly through Asurion's portal — no shipping your equipment to a third party"
   - "Includes accidental damage from drops and spills, which standard manufacturer warranties exclude"
-cons:
+cons: 
   - "You're paying $100+ for coverage that may duplicate a credit card's extended warranty benefit"
   - "Reimbursement is based on depreciated value, not full replacement cost, if repair isn't possible"
   - "Doesn't cover consumable parts like blades, bits, or batteries that wear out with normal use"
+
 ---
 
 Let's be direct: a 4-year protection plan for a tool that costs $800-$899 is a bet. The question is whether Asurion's odds are worth your money.

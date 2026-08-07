@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Smart Phone Gifts for Boys Girls Age 5 6 7 8"
 seo_title: "Kids Smart Phone Gifts for Boys Girls Age 5 6 7 8 Review:"
 meta_description: "Our full kids smart phone gifts for boys girls age 5 6 7 8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CV946DCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DaGT-EB6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Kids Smart Phone Gifts for Boys Girls Age 5 6 7 8"
 seo_title: "Kids Smart Phone Gifts Age 5-8 Review: Worth It?"

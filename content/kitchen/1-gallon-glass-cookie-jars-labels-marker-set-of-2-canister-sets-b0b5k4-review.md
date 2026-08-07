@@ -1,4 +1,5 @@
 ---
+
 title: "1 Gallon Glass Cookie Jars + Labels & Marker - Set of 2 Cani"
 seo_title: "1 Gallon Glass Cookie Jars Review: Set of 2 w/ Labels"
 meta_description: "Honest review of the 1 Gallon Glass Cookie Jars set of 2 by Cani. See how these airtight canisters hold up for cookies, flour, and pantry storage."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5K4MZ2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rVZFJvWVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 1-gallon capacity fits a standard 12-ounce bag of chocolate chips plus a full batch of cookie dough"
   - "Airtight metal clamp lids with silicone gaskets keep cookies soft for 10+ days without going stale"
   - "Included chalk labels and liquid chalk marker are actually reusable — wipe clean with a damp cloth"
-cons:
+cons: 
   - "Heavy when full — the glass is thick (about 6mm) and a full jar weighs nearly 10 pounds, so you won't be moving it around"
   - "Clamp lids require a firm press to fully seal; some buyers report needing two hands to snap them shut"
+
 ---
 
 # 1 Gallon Glass Cookie Jars + Labels & Marker — Set of 2 Cani Review

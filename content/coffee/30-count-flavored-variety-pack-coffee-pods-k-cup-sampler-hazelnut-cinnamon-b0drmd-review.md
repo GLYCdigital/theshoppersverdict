@@ -1,4 +1,5 @@
 ---
+
 title: "30 Count Flavored Variety Pack Coffee Pods K Cup Sampler"
 seo_title: "30 Count Flavored Coffee Pods Review: K Cup Sampler Tested"
 meta_description: "Honest review of the 30 Count Flavored Variety Pack K Cup Sampler. We tested the flavors, strength, and value. See if this coffee pod bundle is worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRMDZ8ML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SAD5kd50L._SL1080_.jpg"
-pros:
+pros: 
   - "30 pods across multiple flavor profiles means roughly a week of varied morning coffee without committing to a full box of one flavor"
   - "Works in standard Keurig 2.0 brewers and most single-serve machines — no compatibility headaches reported"
   - "Flavored options (hazelnut, cinnamon, caramel) are aromatic without tasting artificial or syrupy"
-cons:
+cons: 
   - "No strength control — these are fixed-roast pods, so dark-roast lovers may find the medium blends too mild"
   - "Flavor distribution isn't equal; you'll get more of some varieties than others, which can be annoying if you fall for one specific pod"
+
 ---
 
 Let me be direct: **The 30 Count Flavored Variety Pack K Cup Sampler** is the coffee equivalent of a greatest-hits album. It's not trying to be the single greatest cup you've ever had — it's trying to be the box you reach for when you don't know what you want on a Tuesday morning. And for that job, it mostly nails it.

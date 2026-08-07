@@ -1,4 +1,5 @@
 ---
+
 title: "BLITZHOME Portable Dishwasher Countertop, WIFI Smart Dishwas"
 seo_title: "BLITZHOME Portable Dishwasher Review: WiFi Countertop Model"
 meta_description: "BLITZHOME countertop dishwasher review: 5-Liter tank, WiFi app control, 4.4-star rating. Does it actually clean? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9GJFNLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K8IaXrhNL._SL1500_.jpg"
-pros:
+pros: 
   - "5-liter built-in water tank means zero faucet hookup needed — fill it, run it, done. A rare feature at this price point."
   - "WiFi app control with 8 wash programs including fruit/vegetable wash mode, which doubles as a mini food cleaner."
   - Compact footprint (about 16.5 inch " wide) fits tight countertops while still holding 4 full place settings
-cons:
+cons: 
   - "Drying performance is mediocre — plastics come out wet. You'll hand-dry Tupperware or run an extra cycle."
   - "No drain hose included in the box. You must buy a Y-adapter or siphon kit separately for continuous drainage."
   - "App setup can be finicky — several buyers report Bluetooth pairing drops that require resetting the unit"
+
 ---
 
 **The countertop dishwasher that doesn't need a faucet — but is it worth your counter space?**

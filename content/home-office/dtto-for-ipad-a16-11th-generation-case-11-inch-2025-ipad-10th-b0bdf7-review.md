@@ -1,4 +1,5 @@
 ---
+
 title: "DTTO for iPad (A16) 11th Generation Case 11 Inch 2025, iPad"
 seo_title: "DTTO iPad A16 11th Gen Case 2025 Review: Is It Worth It?"
 meta_description: "DTTO iPad A16 11th Gen case review: build quality, pencil support, kickstand angles, and real buyer feedback. Find out if this 4.7-star case fits your workflow."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDF7RPR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G9iISGzpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and snug fit for the 2025 A16 iPad — no wobble, buttons stay clicky"
   - "Auto wake/sleep magnet works reliably; tested by multiple buyers over months of use"
   - "Apple Pencil Pro charges wirelessly through the case with a secure side flap"
-cons:
+cons: 
   - "Kickstand only offers two fixed viewing angles — no infinite adjustment for drawing"
   - "Clear back panel shows fingerprints and smudges quickly; matte finish would have been smarter"
+
 ---
 
 The 2025 iPad (A16) 11th generation is a strange beast — Apple gave it a new chip but kept the same chassis as the 10th gen. That means the accessory market is flooded with cases that claim compatibility. Most are garbage. The DTTO case, however, has earned a 4.7-star average across 235 ratings, which in the Amazon case ecosystem is genuinely rare. Here's the real story after digging into specs, build materials, and what actual owners are saying.

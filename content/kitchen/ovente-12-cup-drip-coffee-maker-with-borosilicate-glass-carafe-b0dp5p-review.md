@@ -1,4 +1,5 @@
 ---
+
 title: "OVENTE 12-Cup Drip Coffee Maker with Borosilicate Glass Cara"
 seo_title: "OVENTE 12-Cup Drip Coffee Maker with Borosilicate  Review"
 meta_description: "Our full ovente 12-cup drip coffee maker with borosilicate glass cara review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP5PHHLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K-s-eEZVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $22 coffee maker that doesn't taste like $22. That's the headline for the OVENTE 12-Cup Drip Coffee Maker with Borosilicate Glass Carafe. But before you hit "add to cart," let's be clear about what you're getting — and what you're not.

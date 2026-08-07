@@ -1,4 +1,5 @@
 ---
+
 title: "Ergonomic Office Chair with Footrest - Adjustable Lumbar Support & Headrest, 90-160° Reclining Mesh Back Computer Chair - Home Office/Gaming, 350lbs Capacity"
 seo_title: "Ergonomic Office Chair with Footrest Review (2026): Worth It?"
 meta_description: "Honest ergonomic office chair with footrest review: 90-160° recline, mesh back, 350lb capacity. Real pros, cons & verdict at $169."
@@ -11,14 +12,15 @@ review_count: 1014
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXMC32S4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mMGidxz-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 160° recline with flip-out footrest delivers near-flat lounging — rare at this price point"
   - "Breathable mesh back keeps you cool during marathon sessions; no sweaty-back syndrome"
   - "350lb weight capacity with reinforced gas lift and steel frame — solid for larger users"
-cons:
+cons: 
   - "Seat cushion runs firm; lighter users (under 150lbs) may find it unforgiving after hour three"
   - "Armrests adjust only up/down, not in/out or angle — limited for varied desk heights"
   - "Footrest adds ~11 inches to chair depth; measure your room before buying"
+
 ---
 
 A $169 chair that reclines to 160 degrees with a footrest sounds like a gimmick. After digging through 1,014 ratings and the spec sheet, it's not. This mesh-back ergonomic chair from the generic-but-capable Chinese office furniture tier actually delivers the lounging experience it promises — with a few compromises you need to know about before clicking buy.

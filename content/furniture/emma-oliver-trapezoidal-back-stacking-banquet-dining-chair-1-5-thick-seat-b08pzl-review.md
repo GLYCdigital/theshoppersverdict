@@ -1,4 +1,5 @@
 ---
+
 title: "EMMA + OLIVER Trapezoidal Back Stacking Banquet Dining Chair"
 seo_title: "EMMA + OLIVER Stacking Dining Chair Review (2026)"
 meta_description: "EMMA + OLIVER trapezoidal stacking chair review: 1.5 inch  thick seat, sturdy steel frame, stackable design. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08PZLX47B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qPpeebn4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1.5-inch thick padded seat holds up to 500 lbs — genuinely rare at this price point"
   - "Stackable design stores 6+ chairs in under 2 square feet of floor space"
   - "Commercial-grade steel frame with reinforced cross-bracing, not flimsy tubing"
-cons:
+cons: 
   - "Assembly requires an Allen wrench (included) and about 20 minutes per chair — no pre-built option"
   - "Trapezoidal backrest is stylish but offers minimal lumbar support for long sits"
+
 ---
 
 Let's be blunt: most stacking chairs under $100 are wobbly, thinly padded, and fall apart after a year of dinner parties. The EMMA + OLIVER Trapezoidal Back Stacking Banquet Dining Chair isn't most stacking chairs. With 225 ratings averaging 4.5 stars, it's earned its place in dining rooms, church basements, and event halls alike. Here's the real breakdown.

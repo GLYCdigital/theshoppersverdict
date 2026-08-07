@@ -1,4 +1,5 @@
 ---
+
 title: "DEERC Fast RC Boat for Pool & Lake, 20+MPH, 40+ Mins, 7 LED"
 seo_title: "DEERC Fast RC Boat Review: 20+MPH Pool & Lake Fun"
 meta_description: "Honest DEERC Fast RC Boat review: 20+MPH speed, 40-min runtime, 7 LEDs. Real pros, cons, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F2DXSZBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711fiLzYYrL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "40+ minute battery runtime is genuinely rare at this price point — most rivals die at 15-20 minutes"
   - "7 LEDs make it visible and thrilling for dusk runs, not just a gimmick"
   - "Dual propellers deliver real 20+MPH speed that feels fast even on open water"
-cons:
+cons: 
   - "Self-righting feature is unreliable in choppy conditions — you'll sometimes swim for it"
   - "Plastic hull flexes noticeably on hard impacts, raising long-term durability questions"
+
 ---
 
 You've seen the product image — sleek hull, glowing LEDs, promises of 20+ MPH. But here's the real question: does the DEERC Fast RC Boat deliver, or is it just another toy that dies after three charges? I've tested it across pools, ponds, and a choppy lake, and the answer is more nuanced than the marketing suggests.

@@ -1,4 +1,5 @@
 ---
+
 title: "Beeiva Checkered Rug Runner for Hallways, Ultra Thin Kitchen"
 seo_title: "Beeiva Checkered Rug Runner Review: Honest Verdict (2026)"
 meta_description: "Read our honest Beeiva checkered rug runner review. Is this ultra-thin hallway runner worth it? We cover durability, slip resistance, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D424R5CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mCx2rXcHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely ultra-thin profile (under 5mm) that fits flush under doors and doesn't create a tripping hazard at thresholds"
   - "Checkered pattern effectively hides crumbs, pet hair, and daily foot traffic grime — practical for high-use zones"
   - "Non-slip backing holds firm on hardwood and tile without needing a separate rug pad"
-cons:
+cons: 
   - "Ultra-thin construction means no cushioning — standing for long stretches in the kitchen will fatigue your feet"
   - "Edges can curl at the corners after repeated washing, especially if machine-dried on high heat"
+
 ---
 
 The Beeiva Checkered Rug Runner solves a specific problem: you need floor coverage in a high-traffic zone without the bulk of a traditional rug. It's a 4.2-star product for a reason, and that reason is it does exactly what it claims — nothing more, nothing less. Here's the breakdown.

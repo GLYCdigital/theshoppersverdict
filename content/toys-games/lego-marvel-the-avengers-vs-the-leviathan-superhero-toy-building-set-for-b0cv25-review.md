@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Marvel The Avengers vs. The Leviathan Superhero Toy, Bu"
 seo_title: "LEGO Marvel The Avengers vs. The Leviathan Superhe Review"
 meta_description: "Our full lego marvel the avengers vs. the leviathan superhero toy, bu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV252PHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VD4efxNvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **LEGO Marvel The Avengers vs. The Leviathan Superhero Toy, Bu** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

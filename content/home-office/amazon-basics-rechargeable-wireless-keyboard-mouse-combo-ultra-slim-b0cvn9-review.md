@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Rechargeable Wireless Keyboard Mouse Combo - U"
 seo_title: "Amazon Basics Wireless Keyboard Mouse Combo Review (2026)"
 meta_description: "Honest Amazon Basics Rechargeable Wireless Keyboard Mouse Combo review: build quality, battery life, connectivity issues, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CVN9D1ZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mPuDag1XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in rechargeable batteries in both devices—no AA/AAA hunting, charges via included USB-C cable"
   - "Ultra-slim, lightweight design that pairs instantly via a single 2.4GHz USB receiver"
   - "Full-size keyboard with number pad and media keys at a budget price point"
-cons:
+cons: 
   - "3.6/5 Amazon rating reflects recurring connectivity dropouts and Bluetooth pairing frustrations"
   - "Keycaps feel shallow with a mushy bottom-out—not ideal for heavy typists"
   - "Mouse is small and flat, causing hand fatigue during extended use for larger hands"
+
 ---
 
 **The $30 Question: Is This Combo a Deal or a Gamble?**

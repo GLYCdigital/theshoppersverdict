@@ -1,4 +1,5 @@
 ---
+
 title: "Express Medals Various Sport Styles of 7 Inch Sun Ray Style"
 seo_title: "Express Medals 7 Inch Sun Ray Review: Awards That Impress"
 meta_description: "Express Medals 7 Inch Sun Ray Style review: premium award medals with sharp detail, versatile sports designs, and sturdy build. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6P7LKRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91YgbbYK-jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 7-inch diameter with a dense zinc alloy core that feels genuinely premium in hand"
   - "Sharp, multi-layered engraving on the sun ray pattern catches light and gives a trophy-grade look"
   - "Versatile sport icon options covered — team orders can mix styles without overhauling the whole design"
-cons:
+cons: 
   - "Ribbon quality is basic; the 3-inch neck strap feels thin compared to the medal's weight and may fray with heavy use"
   - "No customization option — you're locked to the pre-printed sport icons and text formats"
+
 ---
 
 Some awards are participation trophies you'll find in a drawer a year later. The Express Medals 7 Inch Sun Ray isn't one of them. 

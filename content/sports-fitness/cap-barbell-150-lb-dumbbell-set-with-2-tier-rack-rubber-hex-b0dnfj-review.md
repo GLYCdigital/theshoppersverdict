@@ -1,4 +1,5 @@
 ---
+
 title: "CAP Barbell 150 LB Dumbbell Set with 2-Tier Rack, Rubber Hex"
 seo_title: "CAP Barbell 150 LB Dumbbell Set Review (2026): Worth It?"
 meta_description: "Honest CAP Barbell 150 lb rubber hex dumbbell set review: build quality, rack stability, weight gaps, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNFJLCL4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w7R-WiVZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid cast-iron core with 3mm rubber coating that holds up to drops without chipping or smelling like cheap rubber"
   - "The 2-tier A-frame rack is genuinely stable — welded steel with a wide base, no wobble even loading the heaviest pairs on the top tier"
   - "Contoured, knurled chrome handles are 35mm thick — comfortable for both men's and women's grips during high-rep sets"
-cons:
+cons: 
   - "The 5 lb through 10 lb pairs feel noticeably lighter in build quality; the rubber is thinner and the handles are slightly narrower than the 15 lb+ weights"
   - "Rack requires about 4 feet of wall space and 30 minutes to assemble — you'll need a Phillips head screwdriver and some patience with the included allen wrench"
   - "No incremental 7.5 lb or 12.5 lb pairs included — you jump from 10 to 15 lbs, which is a big gap for shoulder presses and lateral raises"
+
 ---
 
 If you're shopping for a home dumbbell set, you've probably noticed the price range is all over the place — from $200 plastic-filled junk to $2,000+ premium sets. The CAP Barbell 150 lb set sits right in that practical middle zone. After digging through 225 ratings and the spec sheet, here's the real story.

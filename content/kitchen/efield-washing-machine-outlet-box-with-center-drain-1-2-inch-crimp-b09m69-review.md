@@ -1,5 +1,6 @@
 ---
 
+
 title: "EFIELD Washing Machine Outlet Box with Center Drain 1/2-inch"
 seo_title: "EFIELD Washing Machine Outlet Box Review: Center Drain 2026 inch"
 meta_description: "Honest EFIELD washing machine outlet box review: 4.6-star rated center drain box. Read pros, cons, and installation tips before you buy."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M69T7ZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719QxZurMWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 18-gauge galvanized steel frame with a powder-coated finish that resists rust and denting during rough-in"
   - "Pre-installed 1/2-inch crimp-style water hammer arrestors — no need to buy them separately, saving roughly $30 inch"
   - "Center drain design fits perfectly between studs without offset piping, simplifying the rough-in for standard 16-inch on-center framing"
-cons:
+cons: 
   - "Plastic drain outlet elbow feels less substantial than the metal box — careful not to overtighten the hose clamp"
   - "Mounting screws included are basic drywall anchors; you'll want to swap in #10 wood screws for stud mounting"
+
 
 ---
 

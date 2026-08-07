@@ -1,4 +1,5 @@
 ---
+
 title: "Vegetable Seeds Variety Pack - Non-GMO Heirloom Seeds for Pl"
 seo_title: "Vegetable Seeds Variety Pack - Non-GMO Heirloom Se Review"
 meta_description: "Our full vegetable seeds variety pack - non-gmo heirloom seeds for pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCYLJ68S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91U94koC7jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this seed variety pack a genuine deal or just another drawer of duds? Here's the honest breakdown after digging through 229 verified buyer ratings.**

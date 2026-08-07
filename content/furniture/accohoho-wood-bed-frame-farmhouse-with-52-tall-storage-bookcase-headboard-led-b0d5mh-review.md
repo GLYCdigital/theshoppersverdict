@@ -1,4 +1,5 @@
 ---
+
 title: "ACCOHOHO Wood Bed Frame Farmhouse with 52 inch  Tall Storage Book"
 seo_title: "ACCOHOHO Wood Bed Frame Farmhouse Review: 52 inch  Bookcase Headboard"
 meta_description: "Honest ACCOHOHO wood bed frame farmhouse review: 52 inch  tall bookcase headboard, LED lights, storage. Build quality, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5MH2ZV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Uq6M-Z-AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "52-inch bookcase headboard with 8 open shelves — genuinely replaces a nightstand and gives you serious vertical storage"
   - "Solid pine wood construction with a genuine farmhouse aesthetic, not cheap MDF veneer"
   - "Integrated LED lighting with remote control adds functional ambient lighting without extra lamps"
-cons:
+cons: 
   - "Assembly is a multi-hour project — plan for 3+ hours with two people; one reviewer called it 'a puzzle'"
   - "The 52-inch headboard is visually dominant — if your bedroom ceiling is under 8 feet, it can feel imposing"
   - "LED strip is visible along the shelf edges when lit; some buyers found it less 'integrated' than product photos suggest"
+
 ---
 
 ## Is the ACCOHOHO Farmhouse Bed Frame Worth Your Money?

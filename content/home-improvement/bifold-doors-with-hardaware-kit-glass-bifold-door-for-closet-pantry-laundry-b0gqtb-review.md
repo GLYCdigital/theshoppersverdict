@@ -1,4 +1,5 @@
 ---
+
 title: "Bifold Doors with Hardware Kit, Glass Bifold Door for Close"
 seo_title: "Bifold Doors with Hardware Kit Review: Glass Bifold Door for Closet"
 meta_description: "Honest review of the Bifold Doors with Hardware Kit — glass bifold door for closets. See pros, cons, sizing tips, and installation advice before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GQTBZB58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zs7UKH77L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tempered glass panels with aluminum frames feel solid — no flimsy plastic or wobbly vinyl like cheap bifold alternatives"
   - "Hardware kit included (track, pivots, floor guides) means you don't need to source parts separately"
   - "Lets natural light flow through while still providing privacy — works great for laundry rooms and pantries"
-cons:
+cons: 
   - "Installation is NOT plug-and-play — you'll need a drill, level, and patience; alignment takes trial and error"
   - "Size tolerance is tight — measure your opening carefully because there's minimal adjustment range in the track"
   - "Glass shows fingerprints and smudges quickly — plan on wiping them down regularly, especially with kids around"
+
 ---
 
 **Opening: What this glass bifold door actually delivers**

@@ -1,4 +1,5 @@
 ---
+
 title: "Panini VX 5050IJ Check Scanner - 50 DPM, 50 doc Feeder, Ink "
 seo_title: "Panini VX 5050IJ Check Scanner - 50 DPM, 50 doc Fe Review"
 meta_description: "Our full panini vx 5050ij check scanner - 50 dpm, 50 doc feeder, ink  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B018ORHTZE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515jXfICMpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Panini VX 5050IJ: A Workhorse That Demands Respect (and Flat Checks)

@@ -1,4 +1,5 @@
 ---
+
 title: "Play-Doh Rainbow Swirl Ice Cream Playset with 7 Pretend Play"
 seo_title: "Play-Doh Rainbow Swirl Ice Cream Playset with 7 Pr Review"
 meta_description: "Our full play-doh rainbow swirl ice cream playset with 7 pretend play review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHXPPGPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qsvDFU4TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most ice-cream-themed Play-Doh sets are just a mold with a plastic cone. The Rainbow Swirl set is different — it actually *extrudes* three colors at once through a single nozzle, producing a legit spiral that looks like soft serve. That's the headline feature, and it works better than you'd expect for a toy in this price range.

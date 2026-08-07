@@ -1,4 +1,5 @@
 ---
+
 title: "INSOON 30 Packs Animal Party Favors for Kids, 810 PCS Mini A"
 seo_title: "INSOON 30-Pack Animal Party Favors Review: 810 PCS Value"
 meta_description: "INSOON 30 packs animal party favors review: 810 mini animal toys for kids. Is this bulk set worth it? Read pros, cons & real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6XJK63R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mk05fY9mL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "810 pieces across 30 packs means under $0.03 per toy at typical pricing — best per-unit cost in this category"
   - "Includes 30 drawstring bags, so you don't need to buy separate favor packaging"
   - "Assortment covers 8+ animal types (zoo, farm, sea) giving variety for scavenger hunts or piñata stuffing"
-cons:
+cons: 
   - "Small size (~1-2 inches) — not suitable for children under 3 due to choking hazard"
   - "Some buyers report paint wear after heavy play; these are party favors, not collector-grade toys"
   - "No custom mix option — you get whatever assortment is in the box, which may not match a specific theme"
+
 ---
 
 Let's talk about the math first, because that's what actually sells this product. Thirty packs. Eight hundred ten pieces. At typical pricing that's roughly two to three cents per toy. You will not find cheaper per-unit pricing for animal figurines anywhere on Amazon, and I checked.

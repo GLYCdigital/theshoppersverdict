@@ -1,4 +1,5 @@
 ---
+
 title: "Bvlgari Splendida Jasmin Noir Women"
 seo_title: "Bvlgari Splendida Jasmin Noir Review: Is It Worth It? (2026)"
 meta_description: "Honest Bvlgari Splendida Jasmin Noir review: sillage, longevity, and value. See if this 4.5-star luxury floral is worth your money before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B084BSNB1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41qh4AY9PZL._SS40_.jpg"
-pros:
+pros: 
   - "Exceptional 8-10 hour longevity with only 2-3 sprays needed — a little goes a long way"
   - "Sophisticated jasmine-sambac heart balanced by warm woody base notes, not a screechy floral"
   - "Flacon design is substantial — heavy glass with a gold magnetic cap that feels genuinely premium"
-cons:
+cons: 
   - "Projection is moderate-to-soft; don't expect a room-filling scent trail after the first hour"
   - "Price point sits in luxury territory, and the scent leans formal — not an everyday casual reach"
   - "Some batches show inconsistent performance, with a few buyers reporting weaker sillage"
+
 ---
 
 Let me be blunt: you're paying a luxury premium for this bottle. The question is whether the juice inside justifies the dent in your wallet. After digging through 225 ratings and testing notes, here's the real story on Bvlgari Splendida Jasmin Noir.

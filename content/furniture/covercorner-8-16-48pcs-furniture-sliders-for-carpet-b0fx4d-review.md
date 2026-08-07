@@ -1,4 +1,5 @@
 ---
+
 title: "COVERCORNER 8/16/48PCS Furniture Sliders for Carpet"
 seo_title: "COVERCORNER Furniture Sliders for Carpet Review (2026)"
 meta_description: "Honest COVERCORNER furniture sliders for carpet review: Do they actually glide? Real buyer feedback, carpet-test results, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX4DG574/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RpSLvVCoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slides smoothly across plush carpet without catching or snagging — tested on thick berber"
   - "Adhesive backing grips furniture legs securely; no sliding off mid-move"
   - "Multi-pack sizes (8/16/48) let you cover everything from a single armchair to a full living room set"
-cons:
+cons: 
   - "Not designed for hard floors — use the included felt pads separately or buy dedicated hard-floor sliders"
   - "Adhesive can leave residue on unfinished wood legs when removed"
   - "Very heavy furniture (300+ lbs) may compress the slider over time, requiring replacement"
+
 ---
 
 Let's be honest: most furniture sliders are cheap plastic discs that slide out from under your sofa the moment you look at them. The COVERCORNER set tries to fix that with a layered design — and for the most part, it works.

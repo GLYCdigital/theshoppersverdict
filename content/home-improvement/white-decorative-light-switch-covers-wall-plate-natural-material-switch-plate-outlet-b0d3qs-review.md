@@ -1,4 +1,5 @@
 ---
+
 title: "White Decorative Light Switch Covers Wall Plate, Natural Mat"
 seo_title: "White Decorative Light Switch Covers Wall Plate, N Review"
 meta_description: "Our full white decorative light switch covers wall plate, natural mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3QSTDYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nMM9QrIJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # White Decorative Light Switch Covers Wall Plate: The Understated Upgrade Your Walls Actually Need

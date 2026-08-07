@@ -1,4 +1,5 @@
 ---
+
 title: "Zoo Med Forest Floor Bedding"
 seo_title: "Zoo Med Forest Floor Bedding Review: Verdict | TSV"
 meta_description: "Our full zoo med forest floor bedding review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00ZK0K1MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tQRXdaCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you keep tropical reptiles or amphibians, you already know the struggle: cheap substrates dry out in hours, leaving your humidity-loving pet shedding in patches. Zoo Med Forest Floor Bedding is the product most keepers reach for when they're tired of fighting that battle. After digging through 240 Amazon ratings (4.8 stars) and the actual user experiences behind them, here's the honest breakdown.

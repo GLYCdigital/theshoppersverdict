@@ -1,4 +1,5 @@
 ---
+
 title: "Lepro 8.7 inch Flush Mount LED Ceiling Light for Bathroom, W"
 seo_title: "Lepro 8.7 inch Flush Mount LED Ceiling Light for B Review"
 meta_description: "Our full lepro 8.7 inch flush mount led ceiling light for bathroom, w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CS5PFRH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/418trUV-A2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a bathroom staring at a builder-grade boob light with a cracked plastic globe and a bulb that's somehow both too dim and too harsh, you already know why a fixture like the Lepro 8.7-inch flush mount makes sense. This is a no-nonsense, sealed LED unit designed for one job: putting even, glare-free light over your vanity or shower without requiring an electrician. At 4.4 stars across 220 ratings, it's clearly doing that job well for most buyers.

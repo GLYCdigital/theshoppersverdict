@@ -1,4 +1,5 @@
 ---
+
 title: "Solo Stove Heat Deflector, with 3 Detachable Legs, Accessory"
 seo_title: "Solo Stove Heat Deflector, with 3 Detachable Legs, Review"
 meta_description: "Our full solo stove heat deflector, with 3 detachable legs, accessory review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP999N8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712OoJnenFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you own a Solo Stove fire pit, you already know the one complaint everyone repeats: all the heat goes straight up.** The burn is beautiful, but you're freezing while staring at a column of fire. This Heat Deflector is the accessory that actually fixes that problem — mostly.

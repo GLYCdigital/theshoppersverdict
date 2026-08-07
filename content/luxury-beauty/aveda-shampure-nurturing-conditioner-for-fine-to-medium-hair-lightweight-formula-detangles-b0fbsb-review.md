@@ -1,4 +1,5 @@
 ---
+
 title: "Aveda Shampure Nurturing Conditioner for Fine to Medium Hair"
 seo_title: "Aveda Shampure Conditioner Review: Lightweight Nourishment"
 meta_description: "Our honest Aveda Shampure Nurturing Conditioner review: Does this lightweight formula truly detangle fine hair without weighing it down? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBSB3X4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nI+NPiAcL._SL1500_.jpg"
-pros:
+pros: 
   - "Detangles wet hair effectively with just a quarter-size amount — no tugging or breakage"
   - "Weightless formula that hydrates without flattening fine roots or killing natural volume"
   - "Calming, spa-like aroma of 25 pure flower and plant essences that lingers subtly for hours"
-cons:
+cons: 
   - "Premium price point runs $28–32 for 8.5 oz — roughly double drugstore alternatives"
   - "Not intensive enough for severely damaged or color-treated strands needing deep repair"
+
 ---
 
 Here's the thing about fine hair: most conditioners either do nothing or turn your head into a limp, greasy mop by noon. The Aveda Shampure Nurturing Conditioner for Fine to Medium Hair claims to thread that needle — and after digging through 225 Amazon ratings and testing the formula myself, I'm here to tell you whether it actually works or just smells expensive.

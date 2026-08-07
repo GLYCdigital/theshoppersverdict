@@ -1,4 +1,5 @@
 ---
+
 title: "Devoko Patio Day Bed Rattan Lounge Bed with 2 Side Tables fo"
 seo_title: "Devoko Patio Day Bed Review: Rattan Lounge With Side Tables"
 meta_description: "Devoko rattan patio day bed with 2 side tables: sturdy steel frame, weather-resistant PE rattan, but cushion issues. Read our honest 3.7/5 review."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DDJMYRVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816co1y7JBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly takes under 15 minutes; locking mechanism secures side tables firmly"
   - "Powder-coated steel frame rated for 550 lbs — genuinely sturdy, not flimsy"
   - "Full-length backrest with adjustable recline positions, unlike many flat daybeds"
-cons:
+cons: 
   - "Cushions arrive vacuum-packed and take 24-48 hours to fully puff up; some report uneven filling"
   - "PE rattan weave is thin and can crack in freezing temps below 32°F despite 'all-weather' claims"
   - "No cover included — you'll spend an extra $30-40 on a properly sized patio furniture cover"
+
 ---
 
 **Is this the backyard lounger you've been hunting for, or a $400 compromise? After digging through 195 ratings and counting, here's what you need to know before clicking buy.**

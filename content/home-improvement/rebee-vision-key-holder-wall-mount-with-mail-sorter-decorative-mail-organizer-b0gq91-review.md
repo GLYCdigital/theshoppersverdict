@@ -1,4 +1,5 @@
 ---
+
 title: "Rebee Vision Key Holder Wall Mount with Mail Sorter - Decora"
 seo_title: "Rebee Vision Key Holder Wall Mount with Mail Sorte Review"
 meta_description: "Our full rebee vision key holder wall mount with mail sorter - decora review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQ91CY41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xKHWjfcvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The entryway is where clutter goes to die. Keys vanish, mail piles up, and the wall stays bare because most organizers look like they belong in a tool shed. The Rebee Vision Key Holder Wall Mount with Mail Sorter — Decora tries to fix all three problems with one piece of steel. After digging through the specs and 215 buyer ratings, here's what actually matters.

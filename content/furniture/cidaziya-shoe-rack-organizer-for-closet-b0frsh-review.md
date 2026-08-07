@@ -1,5 +1,6 @@
 ---
 
+
 title: "Cidaziya Shoe Rack Organizer for Closet"
 seo_title: "Cidaziya Shoe Rack Organizer Review: Closet Storage Tested"
 meta_description: "Cidaziya Shoe Rack Organizer review: 225+ ratings, 4.5 stars. Does this stackable closet rack hold up? Build quality, real capacity, and honest downsides."
@@ -12,13 +13,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRSHNYKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h3ys5An3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with reinforced joints holds up to 30 lbs per tier — no sagging even with heavy boots"
   - "Fully adjustable shelf heights let you reconfigure for sneakers, heels, or tall boots without tools"
   - "Compact footprint (12.6 inch  deep) fits narrow closets while still holding 10-12 pairs depending on configuration"
-cons:
+cons: 
   - "Assembly requires aligning multiple parts — plan on 20-30 minutes, not the advertised 5 inch"
   - "Shoe rods are fixed-width; oversized men's size 13+ sneakers overhang slightly and can snag adjacent pairs"
+
 
 ---
 

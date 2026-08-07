@@ -1,23 +1,25 @@
 ---
+
 title: "Besiost AV Media Stand with Outlets, Stereo Stands and Racks"
 seo_title: "Besiost AV Media Stand Review: Outlets, Vinyl Storage"
 meta_description: "Besiost AV Media Stand with outlets: sturdy steel frame, 3 power ports, vinyl-friendly shelves. Read our honest 4.6-star review."
 slug: "besiost-av-media-stand-with-outlets-stereo-stands-and-racks-with-vinyl-b0gby7-review"
 image_alt: "Besiost AV media stand with outlets, stereo rack, and vinyl record storage shelves"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GBY7B96R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G0EOWJNjL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Integrated 3-outlet power strip with USB ports hidden in a cable-management cubby"  
   - "Adjustable shelf heights accommodate turntables, receivers, or tall vinyl box sets"  
   - "Solid steel frame rated for 110 lbs per shelf — no wobble at full load"  
-cons:  
+cons: 
   - "Open-back design exposes cables unless you use the included zip ties and clips"  
   - "Assembly requires a Phillips head and about 45 minutes — not tool-free"
+
 ---
 
 # Besiost AV Media Stand Review: Does It Actually Hold Your Gear and Hide Your Mess?

@@ -1,4 +1,5 @@
 ---
+
 title: "HONBAY Convertible Sectional Sofa, L Shaped Couch, Reversibl"
 seo_title: "HONBAY Convertible Sectional Sofa, L Shaped Couch, Review"
 meta_description: "Our full honbay convertible sectional sofa, l shaped couch, reversibl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FC6XRGRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91qxhc7Nl+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about the $400–$600 sectional market: most of it is disposable junk wrapped in attractive product photos. The HONBAY Convertible Sectional Sofa sits above that crowd, but it's not without compromises. Here's what 210 Amazon ratings at 4.2 stars actually tell you — and what they don't.

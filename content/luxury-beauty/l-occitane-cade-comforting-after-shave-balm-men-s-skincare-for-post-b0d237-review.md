@@ -1,4 +1,5 @@
 ---
+
 title: "Lâ€™Occitane Cade Comforting After-Shave Balm, Menâ€™s Skinc"
 seo_title: "Lâ€™Occitane Cade Comforting After-Shave Balm, Men Review"
 meta_description: "Our full lâ€™occitane cade comforting after-shave balm, menâ€™s skinc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D237Q2DF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KHWAMRiqL._SL1200_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # L’Occitane Cade Comforting After-Shave Balm: The $40 Question

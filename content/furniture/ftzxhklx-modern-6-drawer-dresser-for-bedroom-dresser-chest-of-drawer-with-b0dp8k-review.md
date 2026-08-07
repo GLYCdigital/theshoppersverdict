@@ -1,4 +1,5 @@
 ---
+
 title: "FTZxHKLX Modern 6-Drawer Dresser for Bedroom, Dresser Chest"
 seo_title: "FTZxHKLX 6-Drawer Dresser Review: Honest Verdict (2026)"
 meta_description: "FTZxHKLX Modern 6-Drawer Dresser review: sturdy build or frustrating assembly? Real pros, cons, and buying advice before you spend."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DP8K9PYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PuTjG5hvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six full-width drawers provide genuinely usable storage — each drawer fits folded sweaters or jeans stacked flat, not just t-shirts"
   - "Compact footprint (roughly 30 inches wide) works in tight bedrooms or apartments where a wider dresser won't fit"
   - "Smooth-gliding drawer tracks hold up well with daily use, per multiple long-term owner reports"
-cons:
+cons: 
   - "Assembly is a genuine pain point — several buyers report misaligned screw holes and instructions that read like a puzzle"
   - "Particle board construction means you must avoid overloading drawers; the bottom drawer is especially vulnerable to sagging"
   - "Back panel is thin and arrives prone to bending during shipping, which complicates the build"
+
 ---
 
 A 6-drawer dresser at this price point is a gamble. You're either getting a surprisingly solid workhorse or a wobbly particle-board nightmare that fights you at every screw turn. The FTZxHKLX Modern 6-Drawer Dresser sits somewhere in the middle — and the 3.8-star average across 190 ratings tells you exactly why.

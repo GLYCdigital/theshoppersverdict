@@ -1,4 +1,5 @@
 ---
+
 title: "MAXBECK Dog Companion for Heavy Chewers- Indestructible Robu"
 seo_title: "MAXBECK Dog Companion for Heavy Chewers- Indestruc Review"
 meta_description: "Our full maxbeck dog companion for heavy chewers- indestructible robu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.1
 amazon_url: "https://www.amazon.com/dp/B0CDJ7KX2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OrZuXfZbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MAXBECK Dog Companion for Heavy Chewers: The Truth Behind the 2.1-Star Rating

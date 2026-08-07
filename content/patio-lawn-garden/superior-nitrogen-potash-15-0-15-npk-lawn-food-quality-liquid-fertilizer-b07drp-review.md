@@ -1,4 +1,5 @@
 ---
+
 title: "Superior Nitrogen & Potash 15-0-15 NPK- Lawn Food Quality Li"
 seo_title: "Superior Nitrogen & Potash 15-0-15 NPK- Lawn Food  Review"
 meta_description: "Our full superior nitrogen & potash 15-0-15 npk- lawn food quality li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07DRPNX2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kryTVAJ7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The no-phosphorus lawn food that actually earns its "Superior" name — most of the time.**

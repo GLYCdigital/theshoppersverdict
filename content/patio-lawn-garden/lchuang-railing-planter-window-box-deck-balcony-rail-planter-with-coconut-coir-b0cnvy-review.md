@@ -1,4 +1,5 @@
 ---
+
 title: "LCHUANG Railing Planter Window Box - Deck Balcony Rail Plant"
 seo_title: "LCHUANG Railing Planter Window Box - Deck Balcony  Review"
 meta_description: "Our full lchuang railing planter window box - deck balcony rail plant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNVYLSKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91eUR5wGPBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a deck rail that's doing nothing but holding up the balusters, the LCHUANG Railing Planter turns it into 24 inches of growing space. It's a simple concept executed decently — a powder-coated steel box that clamps onto your railing with an adjustable bracket, lined with coconut coir, and fitted with a drip tray. At 4.3 stars across 215 ratings, it's clearly working for most people. But it's not without quirks that could matter depending on where you hang it.

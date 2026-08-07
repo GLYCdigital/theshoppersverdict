@@ -1,4 +1,5 @@
 ---
+
 title: "Stone Street Cold Brew Coffee, Low Acid, 100% Arabica, Gourm"
 seo_title: "Stone Street Cold Brew Coffee, Low Acid, 100% Arab Review"
 meta_description: "Our full stone street cold brew coffee, low acid, 100% arabica, gourm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGTYFWWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gvLwIxuIL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Stone Street Cold Brew Coffee Review: Smooth, Low-Acid, and Actually Worth It

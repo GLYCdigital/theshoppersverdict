@@ -1,4 +1,5 @@
 ---
+
 title: "Magik & Kover Dog Crate Pad 2 Pack, Soft Dog Crate Mat with "
 seo_title: "Magik & Kover Dog Crate Pad 2 Pack, Soft Dog Crate Review"
 meta_description: "Our full magik & kover dog crate pad 2 pack, soft dog crate mat with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F66QRQ5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mgDutUbzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Two crate pads for the price of one usually means you're getting two flimsy pieces of nothing. The Magik & Kover Dog Crate Pad 2 Pack doesn't quite fall into that trap, but it also isn't the orthopedic luxury liner some listings imply. Here's what 225 buyers at a 4.5-star average are actually getting.

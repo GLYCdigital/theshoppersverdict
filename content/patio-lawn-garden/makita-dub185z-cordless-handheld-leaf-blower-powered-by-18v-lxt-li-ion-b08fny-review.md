@@ -1,4 +1,5 @@
 ---
+
 title: "Makita DUB185Z Cordless Handheld Leaf Blower Powered by 18V "
 seo_title: "Makita DUB185Z Cordless Handheld Leaf Blower Power Review"
 meta_description: "Our full makita dub185z cordless handheld leaf blower powered by 18v  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FNYKHF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l3PjN3tGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Makita DUB185Z is a lesson in restraint.** At $82 (bare tool), it doesn't try to blow your fence into the neighbor's yard. Instead, it delivers surgical precision for the 80% of leaf-blowing tasks that don't require hurricane-force wind. And for anyone already invested in Makita's 18V LXT system, this is a no-brainer add-on. For everyone else? Let's talk.

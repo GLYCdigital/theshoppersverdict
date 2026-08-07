@@ -1,4 +1,5 @@
 ---
+
 title: "5W=40W, A15 Smart Bulb, Compatible with Alexa, Google Home,"
 seo_title: "5W=40W A15 Smart Bulb Review: Alexa & Google Home Compatible"
 meta_description: "Honest 5W=40W A15 smart bulb review covering Alexa/Google Home setup, brightness, color accuracy, and real-world performance. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09JC17QG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F2ZWv5XsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 40W-equivalent brightness at just 5W draw — genuine energy savings without dim, cave-like output"
   - "Compact A15 shape fits lamps, sconces, and tight fixtures where standard A19 bulbs won't clear the shade"
   - "Direct Alexa and Google Home pairing via voice — no separate hub or bridge required"
-cons:
+cons: 
   - "Warm white maxes out around 2700K — don't expect daylight (5000K+) tones from this bulb"
   - "Some buyers report occasional Wi-Fi dropouts requiring a power cycle to reconnect"
   - "Color saturation in RGB mode is decent but not as vivid as premium Hue or Lifx bulbs"
+
 ---
 
 **Is this the budget smart bulb that actually delivers? Here's what 204 Amazon reviewers found.**

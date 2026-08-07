@@ -1,23 +1,25 @@
 ---
+
 title: "Cuisinart Food Processor 14-Cup Review"
 seo_title: "Cuisinart Food Processor 14-Cup Review: Is It Worth It?"
 meta_description: "Cuisinart Food Processor 14-Cup review: 4.6★ from 21K+ buyers. Tested performance, real user feedback, and honest downsides before you buy."
 slug: "cuisinart-food-processor-14-cup-review"
 image_alt: "Cuisinart 14-cup food processor with stainless steel blade and work bowl on countertop"
-verdict_score: 9.0  
-date: 2026-08-06  
-price: Check price on Amazon  
-review_count: 21370  
-amazon_rating: 4.6  
+verdict_score: 9.0
+date: 2026-08-06
+price: Check price on Amazon
+review_count: 21370
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K1SPT9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7114eh3ap-L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Wide 4.5-inch feed tube processes whole fruits and veggies without pre-chopping"  
   - "Supreme® 720-watt motor handles dense dough and hard vegetables without stalling"  
   - "Three interlocking safety mechanisms prevent bowl or lid operation errors"  
-cons:  
+cons: 
   - "Large 14-cup capacity requires significant counter and storage space"  
   - "Bowl and lid are not dishwasher-safe for top-rack cleaning"
+
 ---
 
 The Cuisinart 14-Cup Food Processor is the model that shows up in nearly every “best food processor” roundup for a reason — it’s been the benchmark since the 1970s, and the current version (model DFP-14BCNY) refines that legacy without messing with what works. With 21,370 Amazon ratings averaging 4.6 stars, this isn’t a niche gadget; it’s the workhorse that thousands of home cooks swear by. But at this price point, you deserve to know exactly what you’re getting — and where it might frustrate you.

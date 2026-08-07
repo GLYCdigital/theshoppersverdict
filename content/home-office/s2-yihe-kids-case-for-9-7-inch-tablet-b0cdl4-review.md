@@ -1,4 +1,5 @@
 ---
+
 title: "S2 - YIHE Kids Case for 9.7 Inch Tablet"
 seo_title: "S2 - YIHE Kids Case for 9.7 Inch Tablet Review: Verdict |"
 meta_description: "Our full s2 - yihe kids case for 9.7 inch tablet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDL4HSZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716HIYWY4ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're handing a 9.7-inch iPad or Android tablet to a toddler, you already know the math: one fumble, one cracked screen, one expensive lesson. The S2-YIHE Kids Case exists to make that lesson unnecessary. After digging through 229 ratings and the spec sheet, here's what actually matters before you add it to your cart.

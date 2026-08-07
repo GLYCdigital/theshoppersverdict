@@ -1,4 +1,5 @@
 ---
+
 title: "3PC Kids Tent with Kids Ball Pit, Kids Play Tents and Crawl "
 seo_title: "3PC Kids Tent with Kids Ball Pit, Kids Play Tents  Review"
 meta_description: "Our full 3pc kids tent with kids ball pit, kids play tents and crawl  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B094QYCLWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TSUSKfhyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **3PC Kids Tent with Kids Ball Pit, Kids Play Tents and Crawl ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

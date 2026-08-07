@@ -1,4 +1,5 @@
 ---
+
 title: "Quictent Pop up Canopy Tent with Netting, Auto-Close Magneti"
 seo_title: "Quictent Pop up Canopy Tent with Netting, Auto-Clo Review"
 meta_description: "Our full quictent pop up canopy tent with netting, auto-close magneti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GGH1MMD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uIWee1lGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Quictent Pop Up Canopy with Netting solves the classic backyard dilemma: you want shade without becoming a buffet for every mosquito in the county. At 4.3 stars across 215 ratings, it's clearly earning its keep — but let's dig into whether the auto-close magnetic doors are a gimmick or a genuine upgrade.

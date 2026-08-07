@@ -1,4 +1,5 @@
 ---
+
 title: "Makita DTM52Z 18V LXT Brushless Cordless Starlock Compatible"
 seo_title: "Makita DTM52Z 18V LXT Brushless Cordless Starlock  Review"
 meta_description: "Our full makita dtm52z 18v lxt brushless cordless starlock compatible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCRS8CX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BlwlultuL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Makita DTM52Z isn't the cheapest multi-tool you'll find. It's not even the most powerful on paper. But after a few weeks of heavy use — cutting door jambs, trimming baseboards, and plunging through drywall — I can tell you exactly why it carries a 4.7-star average across 235 ratings.**

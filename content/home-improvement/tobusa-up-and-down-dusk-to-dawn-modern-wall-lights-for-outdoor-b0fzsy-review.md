@@ -1,4 +1,5 @@
 ---
+
 title: "TOBUSA Up and Down Dusk to Dawn Modern Wall Lights for Outdo"
 seo_title: "TOBUSA Up and Down Dusk to Dawn Modern Wall Lights Review"
 meta_description: "Our full tobusa up and down dusk to dawn modern wall lights for outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZSY88T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E7X2Y--8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

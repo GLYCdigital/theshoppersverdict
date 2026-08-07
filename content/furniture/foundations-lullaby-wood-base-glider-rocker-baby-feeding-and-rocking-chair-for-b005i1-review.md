@@ -1,4 +1,5 @@
 ---
+
 title: "Foundations Lullaby Wood Base Glider Rocker - Baby Feeding a"
 seo_title: "Foundations Lullaby Glider Rocker Review: Is It Worth It?"
 meta_description: "Read our honest Foundations Lullaby Wood Base Glider Rocker review. See how it performs for feeding, comfort, and durability before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B005I1VMC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O3e5ZZSAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Smooth, silent gliding motion that doesn't squeak or catch even after months of nightly use"
   - "Compact footprint fits tight nursery corners where full-size recliners won't"
   - "Wood base with solid construction feels sturdier than many $300+ options"
-cons:
+cons: 
   - "Seat cushion is firmer than expected — some users add a separate pad for longer sessions"
   - "Assembly requires two people; the glider mechanism alignment is finicky"
+
 ---
 
 If you've spent any time scrolling nursery furniture, you know the market splits into two camps: $800 motorized recliners that do everything but burp the baby, and cheap gliders that wobble by week three. The Foundations Lullaby sits in a rare middle ground — a no-nonsense wood-base glider that's been quietly earning 4.5 stars from 225 reviewers. After digging through the feedback and specs, here's the honest breakdown.

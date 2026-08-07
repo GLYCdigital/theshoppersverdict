@@ -1,4 +1,5 @@
 ---
+
 title: "JERDON Modern Tri-Fold Makeup Mirror with Lights - Vanity Mi"
 seo_title: "JERDON Modern Tri-Fold Makeup Mirror with Lights - Review"
 meta_description: "Our full jerdon modern tri-fold makeup mirror with lights - vanity mi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4XVTF4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QtbBQwRRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a luxury beauty product, the **JERDON Modern Tri-Fold Makeup Mirror with Lights - Vanity Mi** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

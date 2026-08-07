@@ -1,16 +1,17 @@
 ---
+
 title: "Keurig K-Mini Coffee Maker, Certified Refurbished, Oasis"
 seo_title: "Keurig K-Mini Coffee Maker Review: Verdict (4.2/5) | The Shopper's Verdict"
 meta_description: "Keurig K-Mini single-serve coffee maker review: 635+ Amazon reviews analyzed. Compact 5-inch wide brewer with auto-off. Real pros, cons, and our verdict."
 slug: "keurig-k-mini-single-serve-coffee-maker-review"
 image_alt: "Keurig K-Mini Coffee Maker - Certified Refurbished Oasis model - Single Serve K-Cup Brewer"
-keywords:
+keywords: 
   - "Keurig K-Mini review"
   - "single serve coffee maker review"
   - "best compact coffee maker"
   - "K-Cup coffee brewer"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "How small is the Keurig K-Mini?"
     answer: "The K-Mini measures less than 5 inches wide, making it one of the most compact single-serve brewers available. It fits easily on tight countertops, shelves, or even in a desk setup."
   - question: "Does the K-Mini work with travel mugs?"
@@ -23,17 +24,18 @@ review_count: 635
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B085FQBG5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WnTUSD7UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-compact — under 5 inches wide, fits anywhere"
   - "Brews 6-12 oz with any K-Cup pod"
   - "Auto-off after 90 seconds saves energy"
   - "Removable drip tray fits travel mugs"
   - "Cord storage for tidy countertops"
-cons:
+cons: 
   - "Refurbished unit may have cosmetic blemishes"
   - "Single-cup reservoir — refill for each brew"
   - "No brew strength or temperature controls"
   - "Limited to K-Cup pods unless you buy reusable filter separately"
+
 ---
 
 **Bottom line:** The Keurig K-Mini Certified Refurbished in Oasis is the smart pick for solo coffee drinkers who value counter space over capacity — but only if you accept the single-serve tradeoffs.

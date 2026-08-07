@@ -1,4 +1,5 @@
 ---
+
 title: "VICLLAX Outdoor Roller Shade Fabric for Porch Gazebo, Patio "
 seo_title: "VICLLAX Outdoor Roller Shade Fabric for Porch Gaze Review"
 meta_description: "Our full vicllax outdoor roller shade fabric for porch gazebo, patio  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSR3F8LS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Mw7sd-L9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your backyard pergola turns into a sauna by 2 p.m., you've probably stared at a dozen shade options and walked away confused. The VICLLAX Outdoor Roller Shade doesn't reinvent the wheel — but it nails the fundamentals so well that you'll wonder why other brands charge double.

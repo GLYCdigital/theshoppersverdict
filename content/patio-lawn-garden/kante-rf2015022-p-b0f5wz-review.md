@@ -1,4 +1,5 @@
 ---
+
 title: "Kante RF2015022-P"
 seo_title: "Kante RF2015022-P Review: Verdict | TSV"
 meta_description: "Our full kante rf2015022-p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F5WZJGHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61908P74P5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about patio gear: most of it looks great in the product photos and falls apart by the second season. The Kante RF2015022-P sits squarely in the middle — it's not the cheapest option, not the most premium, but it earns its 4.3-star average across 215 ratings by doing the basics right. Here's what you actually need to know before you click buy.

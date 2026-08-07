@@ -1,4 +1,5 @@
 ---
+
 title: "GLAXYFUR 43 Inches Folding Storage Ottoman Bench, Storage Ch"
 seo_title: "GLAXYFUR 43 inch Folding Ottoman Bench Review: Worth It?"
 meta_description: "Honest GLAXYFUR 43-inch folding storage ottoman bench review: build quality, real capacity, assembly, and who should buy this versatile entryway piece."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5QPXLD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yDp+PWUiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat for storage, yet holds its shape firmly when open — no wobble at the hinge point"
   - "43-inch width genuinely seats two adults comfortably; not a cramped 'two-person' claim"
   - "Faux leather surface wipes clean easily and resists scuffs from shoes and bags"
-cons:
+cons: 
   - "At roughly 15 pounds, the bench is light enough to slide on hardwood floors when someone sits down abruptly"
   - "The storage compartment is roughly 4 inches deep — fine for throws and shoes, not for bulky items"
+
 ---
 
 Let’s be honest about multi-purpose furniture: most of it does one job well and the other job poorly. The GLAXYFUR 43-inch folding storage ottoman bench is a rare exception. It’s not perfect, but after digging through 225 ratings and the specs, this is one of the better entryway/bench hybrids under $100.

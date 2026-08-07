@@ -1,4 +1,5 @@
 ---
+
 title: "Mkono 43 Inch Macrame Plant Hanger Large for up to 12 Inch P"
 seo_title: "Mkono 43 Inch Macrame Plant Hanger Large for up to Review"
 meta_description: "Our full mkono 43 inch macrame plant hanger large for up to 12 inch p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B59F9T2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616pzWCuu+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 43-inch macrame hanger that actually looks like it was made by hand

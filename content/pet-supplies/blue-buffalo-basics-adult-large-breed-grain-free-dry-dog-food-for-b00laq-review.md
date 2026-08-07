@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Basics Adult Large Breed Grain-Free Dry Dog Foo"
 seo_title: "Blue Buffalo Basics Large Breed Dog Food Review (2026)"
 meta_description: "Honest Blue Buffalo Basics Adult Large Breed grain-free dog food review: ingredients, portion sizes, real owner feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00LAQW9GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f5TdeizPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single animal protein (salmon) with limited ingredients — genuinely helpful for dogs with food sensitivities"
   - "Large-breed specific kibble size and calcium-to-phosphorus ratio support joint health in big dogs"
   - "LifeSource Bits provide antioxidant blend that survives the baking process, unlike many competing formulas"
-cons:
+cons: 
   - "Grain-free formula means higher legume content — not ideal for every dog, especially those with heart concerns"
   - "The 24-lb bag runs roughly $65–75 depending on retailer; cheaper grain-inclusive options exist from the same brand"
   - "Some owners report the kibble is too small for very large breeds despite the 'large breed' label"
+
 ---
 
 **Blue Buffalo Basics Adult Large Breed Grain-Free Dry Dog Food Review: Is the Salmon Recipe Worth It for Your Big Dog?**

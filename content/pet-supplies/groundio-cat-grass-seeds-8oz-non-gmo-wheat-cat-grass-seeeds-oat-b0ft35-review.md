@@ -1,4 +1,5 @@
 ---
+
 title: "Groundio Cat Grass Seeds 8oz, Non-GMO Wheat Cat Grass Seeeds"
 seo_title: "Groundio Cat Grass Seeds 8oz Review: Non-GMO Wheat Grass"
 meta_description: "Read our honest Groundio Cat Grass Seeds 8oz review. Non-GMO wheat grass for cats. See germination rates, value, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FT35FCDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "8oz resealable bag yields multiple trays of grass — a 4-month supply for most single-cat households"
   - "Non-GMO wheat seeds germinate in 3-5 days with consistent results across buyer reports"
   - "Unwashed seeds retain natural coating that holds moisture better during germination than pre-washed competitors"
-cons:
+cons: 
   - "No growing instructions included in the bag — first-time growers will need to look up the process online"
   - "Some batches arrive with hull debris mixed in, requiring a quick rinse before planting"
+
 ---
 
 Let’s be honest about cat grass: most of it is overpriced, dies in a week, and comes in those sad little plastic tubs that cost more than the seeds inside. Groundio’s 8oz bag of non-GMO wheat seeds is the opposite approach — buy once, grow repeatedly, and skip the markup. But does the value hold up when the seeds actually hit the dirt? I’ve dug through 200 ratings and the real-world feedback to give you the straight story.

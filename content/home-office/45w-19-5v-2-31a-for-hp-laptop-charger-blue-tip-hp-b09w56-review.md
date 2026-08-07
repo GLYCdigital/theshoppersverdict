@@ -1,4 +1,5 @@
 ---
+
 title: "45W 19.5V 2.31A for HP Laptop Charger Blue Tip, HP Pavilion"
 seo_title: "45W HP Laptop Charger Blue Tip Review (2026): Is It Worth It?"
 meta_description: "Honest 45W 19.5V 2.31A HP Pavilion charger review: compatibility, build quality, heat, and longevity. See if this blue-tip adapter beats OEM."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09W565TW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61915P98HOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM specs (19.5V/2.31A) means safe, stable power delivery for Pavilion and other blue-tip HP models"
   - "Compact 45W brick — lighter and smaller than the 65W stock adapters, ideal for travel bags"
   - "Cable length is generous at roughly 1.8m tip-to-brick, giving real desk flexibility"
-cons:
+cons: 
   - "The blue tip is polarity-specific — won't fit HP models with white or yellow connectors, so verify before buying"
   - "No fray-resistant strain relief at the barrel connector; heavy bending near the tip may eventually expose wire"
   - "Brick runs warm under sustained load — normal for 45W, but notable if you game or render for hours"
+
 ---
 
 If you've lost yet another HP charger to a frayed cable or a dead short, the 45W 19.5V 2.31A blue-tip adapter is the replacement you've been looking for — provided you own the right Pavilion. I've tested this against a genuine HP unit and the differences are subtle but important. This isn't a "universal" charger with a drawer full of tips; it's a purpose-built, exact-spec replacement for a specific family of HP laptops. That specificity is exactly what makes it reliable.

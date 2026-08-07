@@ -1,4 +1,5 @@
 ---
+
 title: "3C 65W USB Outlets"
 seo_title: "3C 65W USB Outlets Review: Fast Charging Wall Plate"
 meta_description: "Honest 3C 65W USB Outlets review: build quality, real charging speeds, and installation tips. See if this USB wall outlet is worth upgrading your home."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FF89WKN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cL4n7RJgL._SL1500_.jpg"
-pros:
+pros: 
   - "True 65W total output — a single USB-C port can deliver a full 65W, enough to fast-charge a MacBook Pro or other USB-C laptops"
   - "Compact depth (under 1.5 inches) fits standard electrical boxes without the junction-box bulge many competitors require"
   - "Includes both 15A and 20A versions, so you can match your existing circuit breaker without rewiring"
-cons:
+cons: 
   - "USB ports are recessed — some thicker charging cables with oversized connector housings won't seat fully"
   - "No indicator light to confirm power is live at the outlet, which makes troubleshooting a dead circuit more annoying"
   - "The included screws are soft — replace them with better quality ones during installation or risk stripping the heads"
+
 ---
 
 Let's be direct about what the 3C 65W USB Outlet really is: a wall receptacle that eliminates the need for a laptop brick and a separate phone charger. It takes the place of a standard duplex outlet and gives you two AC plugs plus three USB-C ports. That's the pitch. Here's whether it delivers.

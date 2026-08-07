@@ -1,23 +1,25 @@
 ---
+
 title: "BEOTBRMI Grill Cover for Outdoor Grill for Blackstone"
 seo_title: "BEOTBRMI Grill Cover Review: Best Blackstone Protection?"
 meta_description: "BEOTBRMI grill cover for Blackstone: durable, weatherproof fit for 36-inch griddles. Read our honest review on value, fit, and real-world performance."
 slug: "beotbrmi-grill-cover-for-outdoor-grill-for-blackstone-b0f4qw-review"
 image_alt: "BEOTBRMI heavy-duty waterproof grill cover fitted over a Blackstone flat top grill"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4QWSPYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oFDXtovyL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Reinforced 600D Oxford fabric with PVC backing — sheds rain and blocks UV without feeling like flimsy tarp"  
   - "Adjustable hem straps and side buckles keep it locked down in wind; no more hunting covers across the yard"  
   - "Priced well below Blackstone-branded covers while offering similar thickness and build quality"  
-cons:  
+cons: 
   - "Not fully waterproof at the seams — heavy downpours can seep through stitching if water pools"  
   - "Fits 36-inch models snugly but runs loose on 28-inch griddles; measure your grill before ordering"
+
 ---
 
 **The Bottom Line Up Front**  

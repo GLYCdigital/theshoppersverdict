@@ -1,4 +1,5 @@
 ---
+
 title: "Charcoal Body Wash for Men"
 seo_title: "Charcoal Body Wash for Men Review: Deep Clean or Gimmick?"
 meta_description: "Honest Charcoal Body Wash for Men review: does this 4.4-star cleanser deliver real detox benefits? We break down lather, scent, and skin feel."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CL1G1YM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511IwKrKGTL._SL1080_.jpg"
-pros:
+pros: 
   - "Activated charcoal actually lifts body odor and excess oil without stripping skin — most users report lasting freshness 12+ hours"
   - "Thick, gel-like texture lathers well with a washcloth or loofah; a little goes a long way (one bottle lasts ~2 months with daily use)"
   - "Scent is a refined sandalwood-cedar blend — masculine without being overpowering or 'old spice cabinet'"
-cons:
+cons: 
   - "Can leave a slight cooling sensation (menthol derivative) that some users with sensitive skin find irritating — test on a small patch first"
   - "Pump dispenser can clog if the charcoal settles; shake well before each use or you'll get a watery first squirt"
   - "No exfoliating beads or physical scrub — if you want grit, this isn't it; it's a chemical cleanse only"
+
 ---
 
 ## The 4.4-Star Question: Is Charcoal Body Wash Actually Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Dog Train-Me! Training Treats 16 oz. Bag, Bacon Flavor"
 seo_title: "Crazy Dog Train-Me! Treats Review: Are They Worth It?"
 meta_description: "Honest Crazy Dog Train-Me! training treats review: flavor, size, ingredients, and value. See if this 16 oz bacon bag suits your dog before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY4S993Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F0s8gg4DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tiny 2-calorie pieces — you can reward frequently without blowing your dog's daily food budget"
   - "Soft, pliable texture that breaks apart easily, ideal for puppies and senior dogs with dental issues"
   - "Strong bacon aroma that genuinely holds dog attention during outdoor or high-distraction training"
-cons:
+cons: 
   - "Contains chicken by-product meal and artificial smoke flavor — not for owners seeking all-natural ingredients"
   - "Bag reseal is mediocre; treats can dry out and harden if you don't transfer them to an airtight container"
+
 ---
 
 Let me be direct: most "training treats" are just tiny versions of regular treats, overpriced and under-effective. The Crazy Dog Train-Me! Bacon Flavor treats are different — and after looking at the specs, the 4.7-star rating from 235 buyers makes sense.

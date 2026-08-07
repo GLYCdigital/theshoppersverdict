@@ -1,4 +1,5 @@
 ---
+
 title: "HORSTORS Microwave Cabinet"
 seo_title: "HORSTORS Microwave Cabinet Review: Verdict | TSV"
 meta_description: "Our full horstors microwave cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8VPP3LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719sFXtARzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A microwave cart that doesn't look like a microwave cart.** That's the first thing I noticed about the HORSTORS Microwave Cabinet. It's rare to find a functional kitchen cart that doesn't scream "temporary college dorm solution." With a 4.5-star average across 225 ratings, buyers seem to agree. But let's dig past the rating and see if this thing earns its place in your kitchen.

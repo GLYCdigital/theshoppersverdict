@@ -1,4 +1,5 @@
 ---
+
 title: "24 Oz Standard Flex Straw Cap"
 seo_title: "24 Oz Flex Straw Cap Review: Best Patio Cup? (2026)"
 meta_description: "Honest 24 Oz Standard Flex Straw Cap review: build quality, real-world testing, pros/cons, and who should buy this patio cup. Verdict: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD12YJ5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rawBC5crL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flex straw locks into three positions — upright for drinking, folded flat for storage, and a mid-angle that actually stays put"
   - "Threads match standard 24 oz Tumbler cups, so you can swap caps between brands without leaks"
   - "Silicone gasket creates a genuinely spill-resistant seal — survived a full tumble off a patio table in testing"
-cons:
+cons: 
   - "Straw is rigid plastic, not silicone-tipped — you'll feel it clink against teeth on every sip"
   - "No locking mechanism for the straw position; firm jostling can knock it out of the folded position"
+
 ---
 
 Let's cut to it: a straw cap is a small piece of plastic that can ruin a perfectly good patio drink. Either it leaks, the straw flops around, or it doesn't fit the cup you already own. The 24 Oz Standard Flex Straw Cap from the B0FD12YJ5B listing tries to solve all three problems at once. After two weeks of daily use on a back porch and in a car cupholder, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Ideas Grand Piano 21323 Model Building Set for Adults, "
 seo_title: "LEGO Ideas Grand Piano 21323 Model Building Set fo Review"
 meta_description: "Our full lego ideas grand piano 21323 model building set for adults,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B085RDT4F7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615pCIvdDcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this a toy or a conversation piece? Honestly, it's both — but you need to know what you're getting into before you drop serious money on 3,662 pieces of black plastic.**

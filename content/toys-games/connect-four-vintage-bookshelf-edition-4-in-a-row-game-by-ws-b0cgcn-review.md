@@ -1,4 +1,5 @@
 ---
+
 title: "Connect Four Vintage Bookshelf Edition - 4 in a Row Game by"
 seo_title: "Connect Four Vintage Bookshelf Edition Review: Worth It?"
 meta_description: "Connect Four Vintage Bookshelf Edition review: a gorgeous wooden 4-in-a-row game. We break down build quality, gameplay, and whether it's worth the price."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGCN162F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wbo+bEsDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine wood construction with a premium, weighted feel — no flimsy plastic tray here"
   - "Stores flat like a real book, so it doubles as shelf decor when not in play"
   - "Magnetic discs stay put during play and fold securely for travel"
-cons:
+cons: 
   - "Smaller disc size than the classic plastic version — not ideal for very young children"
   - "The book-style hinge can pinch fingers if you're not careful when closing it"
+
 ---
 
 Connect Four has been the gateway strategy game for generations — the one that teaches kids to think two moves ahead without feeling like homework. But the classic plastic version has always had a problem: it looks like a toy, so it lives in the toy bin, not on your coffee table. The Vintage Bookshelf Edition solves that in a way that's honestly clever. It looks like a handsome hardcover book on your shelf, but opens into a fully playable 4-in-a-row game with real wooden heft.

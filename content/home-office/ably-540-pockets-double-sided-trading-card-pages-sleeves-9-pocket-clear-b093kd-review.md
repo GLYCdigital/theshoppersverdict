@@ -1,24 +1,26 @@
 ---
+
 title: "ABLY 540 Pockets Double-Sided Trading Card Pages Sleeves 9-P"
 seo_title: "ABLY 540 Pocket Card Pages Review: Best Value for Collectors"
 meta_description: "ABLY 540 pocket double-sided card pages hold 540 cards in 9 sheets. Read our honest review on durability, fit, and value for TCG collectors."
 slug: "ably-540-pockets-double-sided-trading-card-pages-sleeves-9-pocket-clear-b093kd-review"
 image_alt: "ABLY 540 pocket double-sided trading card pages sleeves in clear plastic binder sheet"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B093KDQNNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "540 total pockets across 9 sheets — 60 per page, double-sided, at a per-pocket cost that undercuts most competitors"  
   - "Acid-free, PVC-free polypropylene construction protects cards without off-gassing or yellowing over time"  
   - "Reinforced top edge and consistent pocket sizing fit standard 2.5x3.5-inch cards (Pokémon, MTG, sports) snugly"  
-cons:  
+cons: 
   - "Thinner film than premium brands like Ultra Pro — cards can slip slightly if the binder is jostled aggressively"  
   - "Pockets run a touch tight for cards inside penny sleeves; use only raw cards to avoid buckling"  
   - "No side-loading option — top-loading design risks cards sliding out if the binder is stored upside down"
+
 ---
 
 **The ABLY 540 Pocket Pages: Cheap Storage That Actually Holds Up — Mostly**

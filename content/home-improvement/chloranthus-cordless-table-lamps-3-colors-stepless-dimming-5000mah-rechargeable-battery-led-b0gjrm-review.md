@@ -1,4 +1,5 @@
 ---
+
 title: "CHLORANTHUS Cordless Table Lamps, 3 Colors Stepless Dimming,"
 seo_title: "CHLORANTHUS Cordless Table Lamps Review: 3 Colors & Stepless Dimming"
 meta_description: "CHLORANTHUS cordless table lamp review: 5000mAh battery, 3 color temps, stepless dimming. Is it worth it? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GJRM8X6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A2CGZIdJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5000mAh battery delivers genuinely useful cordless runtime — 8-30 hours depending on brightness"
   - "True stepless dimming (not just 3 preset levels) gives precise light control from 1% to 100%"
   - "Independent color temperature selection for warm, neutral, and cool white — no cycling through modes"
-cons:
+cons: 
   - "Touch controls are sensitive — easy to accidentally trigger when grabbing the lamp base"
   - "No USB-C fast charging; full recharge takes roughly 5-6 hours via the included cable"
+
 ---
 
 You've seen a hundred "cordless" lamps that die after two evenings of use. The CHLORANTHUS Cordless Table Lamp is not that lamp. With a 5000mAh battery pack inside, this thing actually delivers on the cordless promise — and the three-color, stepless dimming system puts it a cut above the typical $30 Amazon special.

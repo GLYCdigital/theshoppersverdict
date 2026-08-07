@@ -1,4 +1,5 @@
 ---
+
 title: "Sepetrel Above Ground Pool Surface Skimmer, Wall Mount Pool "
 seo_title: "Sepetrel Above Ground Pool Surface Skimmer, Wall M Review"
 meta_description: "Our full sepetrel above ground pool surface skimmer, wall mount pool  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CQNYBZ1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615JipLt8UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an above-ground pool, you know the drill: every morning brings a fresh layer of leaves, bugs, and pollen floating on the surface. Netting them out by hand gets old by mid-July. The Sepetrel wall-mount skimmer promises to do that work for you — and for the most part, it delivers. Here's the honest breakdown after digging through 200 ratings and real buyer experiences.

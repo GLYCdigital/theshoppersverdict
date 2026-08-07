@@ -1,4 +1,5 @@
 ---
+
 title: "Dickinson's Original Witch Hazel Pore-Perfecting Toner, 100%"
 seo_title: "Dickinson's Witch Hazel Toner Review: 100% Natural Pore Perfector"
 meta_description: "Honest Dickinson's Original Witch Hazel Pore-Perfecting Toner review. Is 100% natural toner worth it? Real results, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CS17CD4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SB2YohHFL._SL1064_.jpg"
-pros:
+pros: 
   - "100% natural witch hazel — zero alcohol, zero synthetic fragrance, zero added dyes, so it won't strip or burn like drugstore astringents"
   - "PH-balanced formula tightens pores and controls excess oil without leaving that tacky, tight feeling most toners cause"
   - "One ingredient does the heavy lifting — no filler botanicals or irritating preservatives to trigger sensitive skin"
-cons:
+cons: 
   - "The earthy, botanical scent is noticeably strong — if you prefer fragrance-free skincare, this will take getting used to"
   - "Glass bottle feels premium but is heavy and breakable; not ideal for travel or bathroom shelves with tile floors"
   - "Can be mildly drying if you have very dry or compromised skin — you'll need to follow up with a rich moisturizer immediately"
+
 ---
 
 Let's be direct: most toners are 90% water with a dash of active ingredients and a whole lot of marketing. Dickinson's Original Witch Hazel Pore-Perfecting Toner flips that script. This is 100% witch hazel — no dilution games, no synthetic additives. At 4.7 stars across 235 Amazon ratings, it's clearly earning its keep. But is a single-ingredient toner worth your money? Let's dig in.

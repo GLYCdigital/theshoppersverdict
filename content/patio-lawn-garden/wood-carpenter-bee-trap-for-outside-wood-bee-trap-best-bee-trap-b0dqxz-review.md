@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Carpenter Bee Trap for Outside - Wood Bee Trap - Best B"
 seo_title: "Wood Carpenter Bee Trap for Outside - Wood Bee Tra Review"
 meta_description: "Our full wood carpenter bee trap for outside - wood bee trap - best b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DQXZ43TN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D4c90Vz5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a carpenter bee hover inches from your fascia board, you know the drill: that rhythmic thud as it rams its head into the wood, scouting for a spot to chew. The Best B Wood Carpenter Bee Trap aims to intercept those drills before they turn your porch into a honeycomb. At a 3.6-star average across 180 ratings, it's not a perfect tool — but for the right situation, it genuinely works.

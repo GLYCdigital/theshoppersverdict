@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Super Bloom Water Soluble Plant Food, 2 lb - NPK 12-5"
 seo_title: "Scotts Super Bloom Water Soluble Plant Food, 2 lb  Review"
 meta_description: "Our full scotts super bloom water soluble plant food, 2 lb - npk 12-5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXCDCH6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RiRa8chrL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most bloom boosters are overpriced snake oil with a pretty label. The Scotts Super Bloom Water Soluble Plant Food is not that. This is a straightforward, high-phosphorus feed that does exactly what it claims — and at a price point that won't make you wince.

@@ -1,4 +1,5 @@
 ---
+
 title: "Abahub EVA Foam Boat Decking 96''x45.6''/36''/28.8''/24''/16 inch"
 seo_title: "Abahub EVA Foam Boat Decking Review: Real Buyer Test"
 meta_description: "Abahub EVA foam boat decking review: cut-to-size sheets, adhesive strength, and real-world durability tested. See if this 4-star marine flooring is worth it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F66VB4QR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dDkajFYIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Closed-cell EVA foam resists water absorption — won't rot or mildew like carpet"
   - "Adhesive backing grips well on clean, dry surfaces; several buyers report solid hold after a full season"
   - Multiple width options (16 inch " to 45.6 inch ") let you size precisely for kayaks, pontoons, or deck strips
-cons:
+cons: 
   - "Surface scratches easily with abrasive sand or dirt tracked onto the boat"
   - "Adhesive is unforgiving during install — once it touches, repositioning is nearly impossible"
   - "Some buyers report edges lifting if the surface wasn't degreased thoroughly before application"
+
 ---
 
 **Is this the upgrade your boat deck has been waiting for?** If you're tired of slippery, sun-baked fiberglass or mildew-prone carpet, Abahub's EVA foam decking is a serious contender. But before you peel that backing off, let's talk about what 200 buyers discovered — the good, the frustrating, and the dealbreakers.

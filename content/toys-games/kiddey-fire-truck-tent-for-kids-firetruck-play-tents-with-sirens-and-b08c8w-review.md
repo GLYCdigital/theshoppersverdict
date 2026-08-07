@@ -1,4 +1,5 @@
 ---
+
 title: "Kiddey Fire Truck Tent for Kids | Firetruck Play Tents with "
 seo_title: "Kiddey Fire Truck Tent for Kids | Firetruck Play T Review"
 meta_description: "Our full kiddey fire truck tent for kids | firetruck play tents with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08C8WQTC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GiQqBkv-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with fire trucks — and let's be honest, most are — this tent delivers the fantasy without the $40,000 emergency vehicle price tag. The Kiddey Fire Truck Tent is exactly what it claims: a crawl-in, imagination-fueled play space shaped like a classic red fire engine. But is it worth your money? After digging through 229 ratings and real parent feedback, here's the honest breakdown.

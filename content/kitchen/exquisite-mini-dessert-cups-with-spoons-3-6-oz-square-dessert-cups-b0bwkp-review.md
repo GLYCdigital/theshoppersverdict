@@ -1,4 +1,5 @@
 ---
+
 title: "Exquisite Mini Dessert Cups With Spoons - 3.6 Oz Square Dess"
 seo_title: "Exquisite Mini Dessert Cups With Spoons Review (2026)"
 meta_description: "Honest review of 3.6 oz square mini dessert cups with spoons. See real pros, cons, and who should buy before spending money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BWKP1722/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kHLp8UKYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Square shape gives desserts a modern, upscale presentation that round cups can't match"
   - "3.6 oz capacity is genuinely useful for single servings, mousse cups, and tasting portions"
   - "Matching spoons included — no more mismatched silverware at parties"
-cons:
+cons: 
   - "Smaller than they look in photos — always check dimensions before ordering"
   - "Not oven-safe, so you can't bake individual desserts directly in these cups"
+
 ---
 
 Let's be straight about these square dessert cups: they're a presentation upgrade, not a baking tool. If you're buying them for the visual impact at a dinner party, they'll deliver. If you're expecting to bake individual cheesecakes in them, you'll be disappointed.

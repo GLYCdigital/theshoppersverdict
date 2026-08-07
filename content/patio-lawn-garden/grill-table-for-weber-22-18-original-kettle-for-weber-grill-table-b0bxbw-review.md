@@ -1,7 +1,8 @@
 ---
-title: "Grill Table for Weber 22\" &18\" Original Kettle, for Weber Gr"
-seo_title: "Grill Table for Weber 22\" &18\" Original Kettle, fo Review"
-meta_description: "Our full grill table for weber 22\" &18\" original kettle, for weber gr review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Grill Table for Weber 22\ &18\ Original Kettle, for Weber Gr"
+seo_title: "Grill Table for Weber 22\ &18\ Original Kettle, fo Review"
+meta_description: "Our full grill table for weber 22\ &18\ original kettle, for weber gr review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "grill-table-for-weber-22-18-original-kettle-for-weber-grill-table-b0bxbw-review"
 image_alt: "Grill Table for Weber 22 &18 Original Kettle, for Weber Grill Table, Stand Cart for JumboJoe Master-Touch Charcoal Outdo"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXBWM2Q3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ikBcf77L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Weber Kettle, you already know the struggle: you've got tongs in one hand, a plate of raw chicken in the other, and nowhere to set anything down. This grill table from the aftermarket solves that problem without modifying your grill. Here's the honest breakdown after digging through 229 ratings and the specs.

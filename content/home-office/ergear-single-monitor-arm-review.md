@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Single Monitor Arm"
 seo_title: "ErGear Single Monitor Arm Review (2026): Is It Worth It?"
 meta_description: "ErGear Single Monitor Arm review: 4.5-star rated mount tested for stability, ergonomics, and value. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 9383
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQM6QB48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oPmBDjQEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports monitors up to 17.6 lbs with gas-spring tension that holds position even on heavy ultrawides"
   - "Full VESA 75x75 and 100x100 compatibility with pre-assembled mounting plate"
   - "Integrated cable management channels keep wires hidden inside the arm, not zip-tied to the outside"
-cons:
+cons: 
   - "Clamp base only fits desks up to 3.15 inches thick — thick butcher-block tops will need the grommet option"
   - "Tension adjustment requires a hex key that you must hold while balancing the monitor; do this before mounting"
   - "No USB passthrough or built-in ports, which some pricier arms include"
+
 ---
 
 The ErGear Single Monitor Arm sits in a crowded market of budget-friendly monitor mounts. But with 9,383 ratings holding a 4.5-star average, it's clearly doing something right. The question isn't whether it's popular — it's whether it'll work for your specific setup. After digging through the specs, customer feedback, and real-world testing patterns, here's the honest picture.

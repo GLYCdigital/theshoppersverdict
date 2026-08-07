@@ -1,13 +1,14 @@
 ---
+
 title: "Bunk Bed Twin Over Twin, Wood Low Profile Floor Twin Bunk Beds with Headboard Ladder Guardrails for Kids Boys and Girls, No Box Spring Needed"
 seo_title: "Bunk Bed Twin Review: Verdict (4.3/5) | TSV"
 meta_description: "This was easy to assemble, affordable, and great quality 96+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "bunk-bed-twin-over-twin-wood-low-profile-floor-twin-bunk-beds-review"
 image_alt: "Bunk Bed Twin Over Twin, Wood Low Profile Floor Twin Bunk Beds with Headboard Ladder Guardrails for Kids Boys and Girls,"
-keywords:
+keywords: 
   - "bunk bed twin review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Bunk Bed Twin Over?"
     answer: "This was easy to assemble, affordable, and great quality overall That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Bunk Bed Twin Over?"
@@ -20,12 +21,13 @@ review_count: 96
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6BGWLB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JIXoT+p6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "This was easy to assemble, affordable."
   - "One person build, sturdy quality wood."
   - "Beds are sturdy and can hold up to 250#s."
-cons:
+cons: 
   - "Beware of lost hardware Wood broke putting together and half the hardware wasn’t there."
+
 ---
 
 Let's be blunt: A wooden bunk bed for $33 sounds either like a steal or a disaster. After digging through 96 ratings and the spec sheet, this one leans heavily toward the former — with a few asterisks.

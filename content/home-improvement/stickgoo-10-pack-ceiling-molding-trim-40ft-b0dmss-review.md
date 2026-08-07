@@ -1,4 +1,5 @@
 ---
+
 title: "STICKGOO 10-Pack Ceiling Molding Trim 40Ft"
 seo_title: "STICKGOO 10-Pack Ceiling Molding Trim 40Ft Review: Verdic"
 meta_description: "Our full stickgoo 10-pack ceiling molding trim 40ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMSSR5V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J8kjoRK4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the DIY Ceiling Fix You've Been Avoiding?

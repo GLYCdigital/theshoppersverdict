@@ -1,4 +1,5 @@
 ---
+
 title: "PRINA 81 Drawing Set Sketching Kit, Pro Sketch Pencils Art S"
 seo_title: "PRINA 81 Drawing Set Sketching Kit, Pro Sketch Pen Review"
 meta_description: "Our full prina 81 drawing set sketching kit, pro sketch pencils art s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRV789HC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q+lewmy1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # PRINA 81 Drawing Set Review: A Complete Sketch Kit That Actually Delivers

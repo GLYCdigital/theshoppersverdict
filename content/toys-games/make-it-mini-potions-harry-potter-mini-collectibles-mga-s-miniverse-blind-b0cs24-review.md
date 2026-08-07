@@ -1,4 +1,5 @@
 ---
+
 title: "Make It Mini Potions Harry Potter Mini Collectibles - MGA's "
 seo_title: "Make It Mini Potions Harry Potter Mini Collectible Review"
 meta_description: "Our full make it mini potions harry potter mini collectibles - mga's  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CS249YBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+8cwSDHBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever wished you could brew your own Polyjuice Potion without the risk of turning into a cat, MGA's Make It Mini Potions line is the closest you'll get legally.** This Harry Potter edition takes the viral Miniverse format and douses it in Hogwarts nostalgia, giving you actual resin-crafting materials to create miniature potion bottles that look like they were pulled straight from Snape's storage closet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Four Candies 12Pack 0.5mm Quick Dry Retractable Gel Pen Set"
 seo_title: "Four Candies 12Pack 0.5mm Quick Dry Retractable Ge Review"
 meta_description: "Our full four candies 12pack 0.5mm quick dry retractable gel pen set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGQ6CZPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gcmUuKAjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: if you're left-handed or just tired of ink smeared across your fingers and page, the Four Candies 12-pack deserves a hard look. This is a budget-friendly gel pen set that claims quick-dry performance, and for the most part, it delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "La-Z-Boy Nova Executive Office Chair - Ergonomic High Back D"
 seo_title: "La-Z-Boy Nova Executive Office Chair - Ergonomic H Review"
 meta_description: "Our full la-z-boy nova executive office chair - ergonomic high back d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CQ397M8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716hSVZGh+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **La-Z-Boy Nova Executive Office Chair Review: Comfort You Can Sink Into, With a Few Caveats**

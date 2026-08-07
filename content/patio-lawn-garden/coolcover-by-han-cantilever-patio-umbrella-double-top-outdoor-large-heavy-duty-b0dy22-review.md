@@ -1,4 +1,5 @@
 ---
+
 title: "CoolCover by Han Cantilever Patio Umbrella Double Top Outdoo"
 seo_title: "CoolCover Han Cantilever Umbrella Review: Worth It? | 2026 inch"
 meta_description: "Honest CoolCover by Han cantilever patio umbrella review: double-top design, coverage, build quality, and real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY2252M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vlr8emVIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-top canopy design significantly improves heat dissipation and airflow compared to single-layer umbrellas"
   - "Offset cantilever pole frees up the entire seating area — no center post blocking conversation or furniture placement"
   - "Crank lift and tilt mechanism makes adjusting the canopy effortless even when fully extended"
-cons:
+cons: 
   - "Base not included — factor in an additional $100-200 for a proper weighted base or permanent mounting"
   - "Assembly requires two people and roughly 45-60 minutes; the pole sections are heavy and awkward solo"
   - "Canopy fabric is not waterproof — it sheds light rain but will soak through in a downpour"
+
 ---
 
 **The Short Version: Why This Umbrella Earns Its 4.6 Stars**

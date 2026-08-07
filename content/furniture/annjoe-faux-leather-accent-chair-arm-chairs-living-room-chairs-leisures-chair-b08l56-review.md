@@ -1,4 +1,5 @@
 ---
+
 title: "annjoe Faux Leather Accent Chair Arm Chairs Living Room Chai"
 seo_title: "annjoe Faux Leather Accent Chair Review: Worth It? (2026)"
 meta_description: "Our honest annjoe faux leather accent chair review: build quality, comfort, real buyer feedback, and who should buy this mid-century arm chair."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08L56PWHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p1+sk22fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood frame rated to 300+ lbs despite the lightweight look"
   - "Easy 10-minute assembly with all tools and hardware included"
   - "Sleek mid-century silhouette that reads far more expensive than the price tag"
-cons:
+cons: 
   - "Faux leather is bonded PU — will show wear faster than genuine leather"
   - "Seat cushion is firm; not ideal for marathon TV binges without a throw pillow"
+
 ---
 
 Let's be honest about the annjoe Faux Leather Accent Chair: this is a $150-ish (pricing fluctuates) statement piece, not a luxury lounger. And for what it is—a compact, mid-century-inspired armchair with clean lines—it overdelivers in a few surprising ways. I've combed through the 225 ratings (4.5 stars) and broken down what actually matters before you click buy.

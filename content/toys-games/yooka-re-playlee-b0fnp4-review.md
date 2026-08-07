@@ -1,4 +1,5 @@
 ---
+
 title: "Yooka-Re-Playlee"
 seo_title: "Yooka-Re-Playlee Review: Verdict | TSV"
 meta_description: "Our full yooka-re-playlee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNP47641/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iaQqgk3EL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** Yooka-Re-Playlee is the definitive version of a solid 3D platformer that finally fixes its most glaring issue — the useless partner character — while polishing everything else to a shine. If you skipped the 2017 original because of its underwhelming co-op, this remaster earns a second look.

@@ -1,4 +1,5 @@
 ---
+
 title: "DUHOME Linen Accent Chair, Upholstered Armchair with 4 Caste"
 seo_title: "DUHOME Linen Accent Chair Review: Worth It? (2026)"
 meta_description: "Honest DUHOME Linen Accent Chair review: comfort, caster mobility, build quality, and who should buy. Real buyer feedback on this 4.4-star armchair."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D62J1V9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o07ebwnoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four smooth-rolling casters make it genuinely easy to move from desk to dining table without lifting"
   - "Linen-blend upholstery resists pilling and feels cooler than velvet or leather alternatives"
   - "Solid wood frame rated to 330 lbs — sturdier than most chairs in this price bracket"
-cons:
+cons: 
   - "Casters lack locks — chair can roll unexpectedly on hardwood or tile floors"
   - "Assembly requires two people; the armrest-to-back bolts are finicky to align"
   - "Seat cushion is firm for the first few weeks; some buyers report it needs a break-in period"
+
 ---
 
 ## Is the DUHOME Linen Accent Chair the Multi-Room Workhorse It Claims to Be?

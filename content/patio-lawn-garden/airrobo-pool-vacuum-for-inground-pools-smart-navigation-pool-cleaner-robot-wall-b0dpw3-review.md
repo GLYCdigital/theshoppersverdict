@@ -1,4 +1,5 @@
 ---
+
 title: "AIRROBO Pool Vacuum for Inground Pools, Smart Navigation Poo"
 seo_title: "AIRROBO Pool Vacuum Review: Smart Navigation Inground Cleaner"
 meta_description: "Honest AIRROBO Pool Vacuum review: smart navigation, wall climbing, and filtration for inground pools. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DPW38B4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZEFG4GqOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless operation with a 2.5-hour runtime covers average inground pools in a single charge"
   - "Smart gyroscope navigation maps the pool floor systematically rather than bouncing randomly"
   - "Wall-climbing capability with dual-drive motors actually reaches the waterline to scrub tile"
-cons:
+cons: 
   - "Filter basket is small and requires emptying every 1-2 cleanings, especially with leaves or debris"
   - "No remote control or app scheduling — you press one button and hope it covers everything"
   - "3.5-star average suggests consistency issues; several buyers report units dying within months"
+
 ---
 
 The robotic pool cleaner market is crowded with $300+ gadgets that promise a spotless pool and deliver a wet paperweight. The AIRROBO Pool Vacuum sits squarely in the middle — not premium, not budget junk. After digging through 175 ratings and the spec sheet, here's the honest picture.

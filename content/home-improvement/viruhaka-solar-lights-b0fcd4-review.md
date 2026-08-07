@@ -1,4 +1,5 @@
 ---
+
 title: "Viruhaka Solar Lights"
 seo_title: "Viruhaka Solar Lights Review: Verdict | TSV"
 meta_description: "Our full viruhaka solar lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FCD4GDWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-oAcsDTHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Viruhaka's solar lights are a solid, no-fuss choice for anyone who needs reliable overnight illumination without running electrical lines. They're not the brightest or the most rugged, but the detachable panel and responsive motion sensor make them a smart buy for the price.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Lid for Pyrex 9x13 Casserole Glass Baking Dish C"
 seo_title: "Replacement Lid for Pyrex 9x13 Casserole Glass Bak Review"
 meta_description: "Our full replacement lid for pyrex 9x13 casserole glass baking dish c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G4SPVDNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-2JoOvgdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever lost the lid to your Pyrex 9x13, you know the pain: plastic wrap battles, foil origami, and fridge odors escaping into your leftovers. This $12 replacement from a third-party seller claims to solve that, and for the most part, it does. But it’s not a perfect clone of the original — here’s what you need to know before clicking buy.

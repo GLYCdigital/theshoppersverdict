@@ -1,4 +1,5 @@
 ---
+
 title: "BORNOON Makeup Vanity with Large Lighted Mirror and Chair, 7 inch"
 seo_title: "BORNOON Makeup Vanity Review: 7 Drawers, Lighted Mirror (2026)"
 meta_description: "Honest BORNOON makeup vanity review: 7-drawer storage, large lighted mirror, and chair. Real pros, cons, and who should buy it. Read before you spend."
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DQXZ7MGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AS70fvuTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14-inch round LED mirror with 3 color temperatures and dimmable brightness — genuinely useful for matching makeup to natural light"
   - "Seven smooth-glide drawers with soft-close hardware; the shallow top drawers are sized perfectly for palettes and brushes"
   - "Solid MDF construction with a sturdy steel frame; feels stable at 40+ pounds, doesn't wobble when opening drawers"
   - "Built-in USB and Type-C charging ports on the desktop — a practical touch for keeping devices topped off while you get ready"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with two people; the drawer slides are finicky to align and the included hex wrench strips easily"
   - "The included velvet stool has minimal padding — fine for a 20-minute routine, but uncomfortable for extended sitting sessions"
   - Mirror is not height-adjustable; shorter users (under 5'2 inch ") may find the angle slightly high for close-up work
+
 ---
 
 Let me be blunt: most makeup vanities under $200 are flimsy particleboard disasters that wobble the moment you touch a drawer. The BORNOON Makeup Vanity with Large Lighted Mirror and Chair is not that. With a 4.8-star average across 240 ratings, this 7-drawer setup has earned its reputation — but it's not without tradeoffs. Here's what you need to know before you click "add to cart."

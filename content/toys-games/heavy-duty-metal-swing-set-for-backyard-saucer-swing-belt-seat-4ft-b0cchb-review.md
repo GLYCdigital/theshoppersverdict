@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Metal Swing Set for Backyard - Saucer Swing, Belt"
 seo_title: "Heavy Duty Metal Swing Set Review: Saucer & Belt Seats"
 meta_description: "Honest review of the Heavy Duty Metal Swing Set with saucer and belt seats. Build quality, stability, real buyer feedback, and who it's for."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CCHB3YDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818w8PXrlEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal A-frame construction with powder-coated finish resists rust and wobble better than typical plastic-joint swing sets"
   - "Includes both a 360° spinning saucer seat and a classic belt seat, giving two kids different riding experiences on one frame"
   - "Tool-free assembly with snap-in connectors takes most buyers under 30 minutes per Amazon feedback"
-cons:
+cons: 
   - "At roughly 4 feet tall, the swing height is better suited for ages 3-8; older kids will find it undersized"
   - "No ground anchors included — several buyers report the frame shifts on grass without staking it down"
+
 ---
 
 Let’s be blunt: most backyard swing sets under $150 are flimsy plastic-tube contraptions that wobble the moment a kid leans back. This heavy-duty metal frame from Amazon’s catalog is different. With a 4.4-star average across 220 ratings, it’s clearly doing something right — but it’s not perfect. Here’s the real breakdown.

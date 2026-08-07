@@ -1,4 +1,5 @@
 ---
+
 title: "FurRain Ceramic Pie Weights Reusable 10mm Baking Beans Pie C"
 seo_title: "FurRain Ceramic Pie Weights Reusable 10mm Baking B Review"
 meta_description: "Our full furrain ceramic pie weights reusable 10mm baking beans pie c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083NQXPCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TJ2IrpguL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These Just Fancy Rocks? Let's Find Out

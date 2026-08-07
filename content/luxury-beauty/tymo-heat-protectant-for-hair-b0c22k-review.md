@@ -1,4 +1,5 @@
 ---
+
 title: "TYMO Heat Protectant for Hair"
 seo_title: "TYMO Heat Protectant for Hair Review: Verdict | TSV"
 meta_description: "Our full tymo heat protectant for hair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C22KWPCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t9h67ArsL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've spent $200 on a flat iron. You've mastered the perfect blowout. But if you're skipping heat protectant, you're literally cooking your hair from the inside out — and that's where TYMO's entry into the market deserves a closer look.

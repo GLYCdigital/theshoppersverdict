@@ -1,4 +1,5 @@
 ---
+
 title: "INFOOD Retro Electric Kettle 1.8L/60.8oz with Thermometer"
 seo_title: "INFOOD Retro Electric Kettle 1.8L/60.8oz with Ther Review"
 meta_description: "Our full infood retro electric kettle 1.8l/60.8oz with thermometer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0G57V9W3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Zr6JPCroL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The INFOOD Retro Electric Kettle is the rare appliance that wins on looks but loses on execution.** That 3.0-star average across 150 ratings isn't an accident. It's the story of a kettle that photographs beautifully, promises precision, and then stumbles on the two things that actually matter: accurate temperature and clean taste.

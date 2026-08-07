@@ -1,4 +1,5 @@
 ---
+
 title: "MAZ-TEK Plug-in Led Night Light with Auto Dusk to Dawn Senso"
 seo_title: "MAZ-TEK Plug-in Led Night Light with Auto Dusk to  Review"
 meta_description: "Our full maz-tek plug-in led night light with auto dusk to dawn senso review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078NTXH9N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nZk0vB4KL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about night lights: most are either blindingly bright, burn out in three months, or require you to remember to unplug them every morning. The MAZ-TEK Plug-in LED Night Light with its auto dusk-to-dawn sensor attacks all three problems at once. With 235 ratings averaging 4.7 stars, it's clearly doing something right — but let's dig into whether it's the right light for your hallway, bathroom, or nursery.

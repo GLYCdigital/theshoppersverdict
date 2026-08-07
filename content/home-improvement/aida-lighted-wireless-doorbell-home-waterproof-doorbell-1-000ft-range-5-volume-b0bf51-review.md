@@ -1,4 +1,5 @@
 ---
+
 title: "AIDA Lighted Wireless Doorbell, Home Waterproof Doorbell 1,0 inch"
 seo_title: "AIDA Lighted Wireless Doorbell Review: 1,000ft Range & Waterproof"
 meta_description: "AIDA Lighted Wireless Doorbell review: 1,000ft range, waterproof build, 5 volumes, 52 chimes. See real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BF51Q7YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JcGF9VgXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1,000-foot wireless range in open air — actually reaches detached garages and long driveways"
   - "Built-in LED night light on receiver doubles as a subtle hallway or entryway night lamp"
   - "52 chime options with 5 volume levels including a true silent mode for babies or night shifts"
-cons:
+cons: 
   - "Plug-in receiver blocks the second outlet on most standard duplex wall sockets"
   - "Chime melodies are noticeably compressed — some sound tinny at high volume"
+
 ---
 
 Let’s be blunt: most wireless doorbells under $30 are junk. The transmitter dies in six months, the range is a marketing lie, and the chime sounds like a dying calculator. The AIDA Lighted Wireless Doorbell isn't that. With 229 ratings averaging 4.6 stars, it's quietly become one of the more reliable budget options on Amazon. Here's the real story after digging through specs and buyer experiences.

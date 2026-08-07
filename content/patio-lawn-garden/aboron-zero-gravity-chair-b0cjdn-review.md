@@ -1,4 +1,5 @@
 ---
+
 title: "ABORON Zero Gravity Chair"
 seo_title: "ABORON Zero Gravity Chair Review: Worth It in 2026?"
 meta_description: "Honest ABORON Zero Gravity Chair review: comfort, build quality, weight capacity, and real buyer feedback. Is this patio chair worth your money?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJDN52X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l7bX7yBTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Locking mechanism holds position reliably at multiple recline angles, including full zero-gravity tilt"
   - "Breathable mesh fabric stays cool even in direct summer sun — no sweaty-back complaints"
   - "Tool-free assembly in under 5 minutes; folds flat for transport or storage"
-cons:
+cons: 
   - "Locking lever requires firm pull to release — some users with weaker grip struggle one-handed"
   - "Cup holder sits low and shallow; taller beverage cans can tip when chair adjusts"
   - "Frame creaks audibly during the first few recline cycles until joints seat properly"
+
 ---
 
 Let's cut through the noise on the ABORON Zero Gravity Chair — a 4.2-star patio staple with 210 ratings. Is it genuinely worth your money, or just another mass-produced recliner that'll rust by September? I've dug into the specs, the customer feedback, and the real-world tradeoffs.

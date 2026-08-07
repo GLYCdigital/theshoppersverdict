@@ -1,4 +1,5 @@
 ---
+
 title: "FAME - Electric shower110V - SUPERDUCHA QUATTRO. Tankless Wa"
 seo_title: "FAME SUPERDUCHA QUATTRO Review: 4-Temp Tankless Shower Heater"
 meta_description: "FAME SUPERDUCHA QUATTRO electric shower review: 4 temperature settings, 110V tankless water heater. Real performance, install tips, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4572HXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ENUbzXZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four distinct temperature settings give real control — from lukewarm to properly hot — without mixing valves or guesswork"
   - "Tankless design heats water instantly; no recovery time means back-to-back showers won't run cold"
   - "110V plug-in operation means most buyers can install it themselves in under an hour with basic plumbing tools"
-cons:
+cons: 
   - "Output is limited by the 110V circuit — winter inlet water temps below 50°F will produce barely-warm showers at best"
   - "Included showerhead feels cheap and restricts flow; plan to swap it for a quality low-flow head"
   - "A dedicated 20-amp circuit is strongly recommended — sharing a line with other appliances causes noticeable temperature drops"
+
 ---
 
 ## The 110V Tankless Shower Heater That Actually Works — With Caveats

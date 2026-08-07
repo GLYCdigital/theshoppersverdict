@@ -1,5 +1,6 @@
 ---
 
+
 title: "Concepdesigns Picture Light, Battery Operated Picture Light,"
 seo_title: "Concepdesigns Picture Light Review: Wireless & Dimmable"
 meta_description: "Honest Concepdesigns battery-operated picture light review: dimmable, wireless, warm LED. See pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRPW219K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612zLcAq1VL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three color temperatures (2700K/3000K/4000K) with stepless dimming from 5% to 100% gives gallery-grade control"
   - "Rechargeable 2000mAh battery delivers 6–20 hours per charge depending on brightness level"
   - "Self-adhesive mounting plate plus magnetic attachment means no drilling and tool-free repositioning"
-cons:
+cons: 
   - "Battery life drops sharply at 100% brightness — expect closer to 6 hours, not the full 20 inch"
   - "Light coverage is narrow; wide frames over 36 inches need two units for even illumination"
   - "USB-C charging cable included, but no wall adapter — you'll need your own power brick"
+
 
 ---
 

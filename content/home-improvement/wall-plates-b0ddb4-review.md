@@ -1,4 +1,5 @@
 ---
+
 title: "Wall Plates"
 seo_title: "Wall Plates Review: Verdict | TSV"
 meta_description: "Our full wall plates review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDB4DQQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xqmboAoBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Wall plates are the unsung heroes of any finished room. Get them wrong and you've got yellowed plastic, cracked corners, or visible screws ruining an otherwise clean paint job. Get them right and nobody notices them at all — which is exactly the point.

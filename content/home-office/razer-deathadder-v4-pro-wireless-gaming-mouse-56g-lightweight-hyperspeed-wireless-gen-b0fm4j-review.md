@@ -1,4 +1,5 @@
 ---
+
 title: "Razer DeathAdder V4 Pro Wireless Gaming Mouse: 56g Lightweig"
 seo_title: "Razer DeathAdder V4 Pro Wireless Gaming Mouse: 56g Review"
 meta_description: "Our full razer deathadder v4 pro wireless gaming mouse: 56g lightweig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FM4JQDTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j6PDIwegL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The DeathAdder name has been a fixture on competitive desks for over a decade. The Razer DeathAdder V4 Pro wireless gaming mouse keeps the DNA but slashes the weight to a ridiculous 56g — lighter than most wired mice. But shaving grams isn't free. Let's break down what you actually get.

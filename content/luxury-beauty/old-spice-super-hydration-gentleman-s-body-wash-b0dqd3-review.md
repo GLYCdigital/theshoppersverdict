@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Super Hydration GentleManâ€™s Body Wash"
 seo_title: "Old Spice Super Hydration GentleManâ€™s Body Wash Review:"
 meta_description: "Our full old spice super hydration gentlemanâ€™s body wash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQD3JYRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HgOdjSO9L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "hydration" body washes for men are either glorified liquid soap that dries you out, or greasy lotion masquerading as a cleanser. Old Spice’s Super Hydration GentleMan’s Body Wash actually threads that needle. With 235 ratings averaging 4.7 stars, it’s clearly doing something right. I tested it for two weeks to see if it holds up to the hype.

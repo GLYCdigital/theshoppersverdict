@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad Specialty Stainless Steel and Plastic Lid Square Co"
 seo_title: "All-Clad Square Covered Cookware Review (2026): Worth It?"
 meta_description: "Honest All-Clad Specialty Square Covered Cookware review: build quality, performance, lid fit, and who should buy. Real pros, cons, and verdict."
@@ -11,15 +12,16 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB6F8M73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e+uGB8s+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Square shape maximizes burner surface contact and provides 20% more cooking area than a round pan of comparable width"
   - "Tri-ply bonded construction (aluminum core between stainless layers) delivers even heat with no hot spots, even on induction"
   - "Oven-safe to 600°F with lid off — the stainless lid handles broiling and roasting tasks a glass lid can't"
-cons:
+cons: 
   - "Plastic lid components are not oven-safe — you must remove them before any high-heat cooking, and the knob can loosen over time"
   - "Square corners are noticeably harder to clean than round pans — food gets trapped in the seams, and most standard spatulas don't reach the edges"
   - "Plastic lid components are not oven-safe — you must remove them before any high-heat cooking, and the knob can loosen with regular use"
   - "Square corners trap food and are harder to clean than round pans — standard spatulas don't reach the edges, and you'll need to hand-wash the lid"
+
 ---
 
 Here's the honest truth about All-Clad Specialty Stainless Steel and Plastic Lid Square Cookware: it's a niche tool that solves a real problem for some cooks, and creates a new one for others.

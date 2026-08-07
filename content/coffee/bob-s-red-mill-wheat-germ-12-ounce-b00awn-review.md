@@ -1,4 +1,5 @@
 ---
+
 title: "Bob's Red Mill Wheat Germ, 12 Ounce"
 seo_title: "Bob's Red Mill Wheat Germ Review: Is It Worth It? (2026)"
 meta_description: "Read our honest Bob's Red Mill Wheat Germ review. We break down nutrition, texture, taste, and value. See if this 12-oz jar deserves a spot in your pantry."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00AWNXMI2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lkiVCjnrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Toasted flavor adds nutty depth to smoothies, yogurt, and baked goods without needing extra prep"
   - "Excellent source of folate, vitamin E, and fiber — one 2-tbsp serving packs meaningful nutrition"
   - "Resealable 12-oz jar keeps the germ fresh far longer than bagged alternatives"
-cons:
+cons: 
   - "Must be refrigerated after opening — forget this and it goes rancid fast"
   - "Not gluten-free; contains wheat, so celiac shoppers need to steer clear entirely"
+
 ---
 
 Let's cut through the noise: Bob's Red Mill Wheat Germ is not a trendy superfood. It's a humble pantry staple that's been around for generations because it *works*. At 4.7 stars from 235 Amazon ratings, it's clearly earning its keep in real kitchens. But is it worth your money? Here's the honest breakdown.

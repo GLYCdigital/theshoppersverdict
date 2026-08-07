@@ -1,4 +1,5 @@
 ---
+
 title: "Shea Moisture Multi-Action Leave-In Conditioner Manuka Honey"
 seo_title: "Shea Moisture Multi-Action Leave-In Conditioner Ma Review"
 meta_description: "Our full shea moisture multi-action leave-in conditioner manuka honey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHGYW3BC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f9LeWrNtL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the hype around Manuka honey in skincare. Now it's in your hair care aisle. The **Shea Moisture Multi-Action Leave-In Conditioner with Manuka Honey & Yogurt** promises detangling, heat protection, and hydration in one pump. At 4.4 stars from 220 ratings, it's clearly working for many — but the real question is whether it'll work for *your* specific hair type. Here's what I found digging through the specs and buyer experiences.

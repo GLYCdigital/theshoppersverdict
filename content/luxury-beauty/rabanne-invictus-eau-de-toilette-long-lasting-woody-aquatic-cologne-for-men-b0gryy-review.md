@@ -1,4 +1,5 @@
 ---
+
 title: "Rabanne Invictus Eau de Toilette - Long Lasting Woody Aquati"
 seo_title: "Rabanne Invictus Eau de Toilette - Long Lasting Wo Review"
 meta_description: "Our full rabanne invictus eau de toilette - long lasting woody aquati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRYYNS7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41rwCbKr2vL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Rabanne Invictus Eau de Toilette: The Trophy Bottle That Earns Its Place

@@ -1,4 +1,5 @@
 ---
+
 title: "GWT 36 inch  x 78 inch  Durable Anti-Slip Workout Mat - 1/4 inch  Thick Ult"
 seo_title: "GWT 36x78 Anti-Slip Workout Mat Review: 1/4 inch  Thick Floor Guard"
 meta_description: "Read our honest GWT 36 inch  x 78 inch  anti-slip workout mat review. Covers durability, grip, and floor protection for home gyms. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLX4M3MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iCXpDzcHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured PVC surface grips bare feet and shoe soles firmly, even during sweaty sessions"
   - "6.5-foot length covers more floor than standard 72-inch mats—enough for tall lifters doing floor work"
   - "At 1/4-inch thick, it deadens impact noise from dumbbells and kettlebells without feeling like a squishy mattress"
-cons:
+cons: 
   - "Has a noticeable rubber/vinyl smell that takes 3–5 days of airing out to fully dissipate"
   - "Surface shows scuff marks from dark-soled training shoes—cleaning requires more than a quick wipe"
   - "Rolls tightly in packaging; the corners want to curl for the first week without heavy weights on the edges"
+
 ---
 
 ## A 6.5-foot mat that actually stays put

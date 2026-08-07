@@ -1,4 +1,5 @@
 ---
+
 title: "iWEDN 40 Inch Bar Height Table Legs, Heavy Duty Metal Bar Ta"
 seo_title: "iWEDN 40 Inch Bar Height Table Legs, Heavy Duty Me Review"
 meta_description: "Our full iwedn 40 inch bar height table legs, heavy duty metal bar ta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6HJDYCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51B9BclDO0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out a solid wood bar table lately, you know the sticker shock is real. The iWEDN 40-inch bar height table legs are the workaround — a heavy-duty metal base that lets you build your own bar table for a fraction of the cost. With 235 ratings averaging 4.7 stars, this is one of the more popular DIY table bases on Amazon. Here's the honest breakdown after digging through the specs and real buyer feedback.

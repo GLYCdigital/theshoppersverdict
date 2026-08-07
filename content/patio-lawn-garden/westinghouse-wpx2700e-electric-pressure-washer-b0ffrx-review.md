@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse WPX2700e Electric Pressure Washer"
 seo_title: "Westinghouse WPX2700e Electric Pressure Washer Review: Ve"
 meta_description: "Our full westinghouse wpx2700e electric pressure washer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFRXQKFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d7DSIT3aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of renting a gas pressure washer every spring or fighting with a weak 1,200 PSI unit that just smears dirt around, the Westinghouse WPX2700e deserves a hard look. It's an electric unit that actually delivers gas-washer cleaning power without the noise, fumes, or maintenance headaches.

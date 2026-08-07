@@ -1,4 +1,5 @@
 ---
+
 title: "LTBLIGHT 18W LED Wall Pack Light with Dusk to Dawn Photocell"
 seo_title: "LTBLIGHT 18W LED Wall Pack Light with Dusk to Dawn Review"
 meta_description: "Our full ltblight 18w led wall pack light with dusk to dawn photocell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BBZTCPZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615mJWL2EJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most sub-$30 wall pack lights are cheap stamped steel with a mediocre LED chip that dies in 18 months. The LTBLIGHT 18W isn't that. This is a die-cast aluminum fixture with a tempered glass lens and a real photoresistor — not the cheap CDS cell you see on bargain-bin floodlights. It's built like a commercial-grade unit, just scaled down for residential use.

@@ -1,4 +1,5 @@
 ---
+
 title: "Revlon ColorStay Limitless Matte Liquid Lipstick"
 seo_title: "Revlon ColorStay Limitless Matte Liquid Lipstick Review: "
 meta_description: "Our full revlon colorstay limitless matte liquid lipstick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3HZBC99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HDhN6QOsL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Revlon ColorStay Limitless Matte Liquid Lipstick** sits in an odd spot: it's priced like a drugstore product but performs like something you'd expect from a $34 Sephora brand. After testing three shades for two weeks straight — including a 14-hour workday with a burrito bowl involved — here's the real story.

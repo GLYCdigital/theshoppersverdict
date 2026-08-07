@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman Electric Kettle Review: Fast, Quiet, and Built to Last"
 seo_title: "Chefman Electric Kettle Review (2026): Fast & Reliable"
 meta_description: "Our Chefman electric kettle review covers boil speed, build quality, and real-world performance. See if this 4.5-star kettle is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7QPY8P7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jTnZnfDqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Boils a full 1.7L in roughly 4-5 minutes — noticeably faster than stovetop and most competitor kettles in this price band"
   - "Auto shut-off and boil-dry protection actually work reliably; the switch clicks off cleanly every time"
   - "The blue interior light and water level window make it genuinely easy to see how much water is inside, even in dim kitchens"
-cons:
+cons: 
   - "The exterior gets hot to the touch near the top — you won't burn yourself, but you'll want to grip the handle and nothing else"
   - "The lid is stiff to open initially; it loosens up with use but takes some effort for the first few weeks"
+
 ---
 
 If you're still boiling water in a pot on the stove, you're wasting roughly six minutes of every morning. The Chefman Electric Kettle drags that down to about four, and it does it quietly enough that you won't wake the whole house. After digging through the 225 Amazon ratings and the specific complaints and praise buyers leave, here's the real story.

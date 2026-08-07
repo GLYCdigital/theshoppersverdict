@@ -1,4 +1,5 @@
 ---
+
 title: "BukSuk Book Tabs"
 seo_title: "BukSuk Book Tabs Review: Do They Actually Stick?"
 meta_description: "Honest BukSuk Book Tabs review: 4.8-star rated page markers tested for adhesion, reusability, and durability. See who should buy and who should skip."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYTKBBBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nCKUVqocL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Adhesive holds firmly through repeated page turns without leaving residue or tearing thin book pages"
   - "Transparent design lets you read text underneath, so you can mark passages without obscuring content"
   - "Dispenser-style packaging makes one-handed application easy — no fumbling with liner strips"
-cons:
+cons: 
   - "Smaller surface area than full-size sticky notes, so they're better for page marking than margin notes"
   - "Some users report the tabs can lose adhesion if folded back repeatedly on the same spot"
+
 ---
 
 Let's be honest: most book tabs are either glorified sticky notes that peel off by chapter three, or they're so aggressive they rip the page when you finally need to remove them. The BukSuk Book Tabs sit in a rare middle ground — they actually work.

@@ -1,4 +1,5 @@
 ---
+
 title: "IJIGU Remote Control Tractor Toys, Farm Monster Trucks Toy f"
 seo_title: "IJIGU Remote Control Tractor Toy Review: Farm Monster Truck for Boys"
 meta_description: "Honest IJIGU Remote Control Tractor Toy review: performance, durability, and real buyer feedback. Is this farm monster truck worth it for kids ages 3+?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPD1P6DC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QzXcbrw8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2.4GHz dual-remote system lets two kids race simultaneously without signal interference"
   - "Chunky oversize wheels handle grass, dirt, and gravel — not just hardwood floors"
   - "Simple two-button control (forward + reverse with auto-steer) is genuinely usable for 3-year-olds"
-cons:
+cons: 
   - "Battery life runs roughly 40 minutes per charge — plan for recharge breaks during heavy play"
   - "Plastic body shell feels sturdy but won't survive being thrown or dropped on concrete"
+
 ---
 
 **The Short Version:**

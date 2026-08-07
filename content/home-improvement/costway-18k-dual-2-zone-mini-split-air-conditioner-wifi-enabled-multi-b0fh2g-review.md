@@ -1,4 +1,5 @@
 ---
+
 title: "COSTWAY 18k Dual 2 Zone Mini Split Air Conditioner, Wifi Ena"
 seo_title: "COSTWAY 18k Dual Zone Mini Split AC Review (2026)"
 meta_description: "Honest COSTWAY 18k dual-zone mini split AC review: performance, WiFi app quirks, installation reality, and whether it's worth your money in 2026."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FH2GK7TJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UIvO4kqyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 18,000 BTU cooling capacity split across two independently controlled zones — rare at this price point"
   - "WiFi control works reliably with the native app after initial setup; no hub required"
   - "Line sets, mounting brackets, and refrigerant pre-charged in outdoor unit — saves roughly $200–$400 in accessory costs"
-cons:
+cons: 
   - "Installation is NOT DIY-friendly despite the marketing; requires vacuum pump and flare tools most homeowners don't own"
   - "Cooling distribution between zones is uneven — the zone closer to the condenser runs noticeably colder"
   - "WiFi app interface feels dated and occasionally drops connection during scheduled temperature changes"
+
 ---
 
 ## The 18,000 BTU question: Can COSTWAY actually deliver dual-zone comfort?

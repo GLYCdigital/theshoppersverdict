@@ -1,4 +1,5 @@
 ---
+
 title: "Le Monde Gourmand Eau de Parfum - Seasonal Scents"
 seo_title: "Le Monde Gourmand Eau de Parfum - Seasonal Scents Review:"
 meta_description: "Our full le monde gourmand eau de parfum - seasonal scents review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GML53D5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SoDMZ2EXL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Le Monde Gourmand Eau de Parfum Review: Seasonal Scents with Real Character — But Longevity Is a Gamble**

@@ -1,4 +1,5 @@
 ---
+
 title: "3.15-Inch Door Stoppers Wall Protector"
 seo_title: "3.15-Inch Door Stoppers Review: Do They Really Protect Walls?"
 meta_description: "Honest review of 3.15-inch door stoppers wall protector. Do they stop door damage? We tested grip, durability, and installation. Read before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FSBVXKQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CoEe01wZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3.15-inch reach clears thick baseboards and most door handles before contact"
   - "Self-adhesive backing holds firm on painted drywall and wood trim without screws"
   - "Rubber bumper absorbs impact silently — no metallic clang when the door swings"
-cons:
+cons: 
   - "Adhesive can fail on textured or popcorn walls; you'll need the screw-mount option"
   - "Not suitable for exterior doors or heavy steel doors that slam with force"
+
 ---
 
 Door stops are one of those purchases you don't think about until the day your door knob punches a hole in your hallway drywall. The 3.15-inch Door Stoppers Wall Protector aims to prevent exactly that scenario. After looking at the specs, the customer feedback, and how these compare to cheaper alternatives, here's what you need to know before adding them to your cart.

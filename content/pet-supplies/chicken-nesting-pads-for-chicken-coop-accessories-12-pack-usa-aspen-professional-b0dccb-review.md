@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken Nesting Pads for Chicken Coop Accessories - 12 Pack"
 seo_title: "Chicken Nesting Pads Review: 12-Pack Coop Accessory for Clean Eggs"
 meta_description: "Honest review of 12-pack chicken nesting pads for coop accessories. See if these absorbent liners cut egg cleaning time and keep nests fresh."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCCB8ZX7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715Uii6EtoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pre-cut 12x12 inch size fits standard nesting boxes without trimming"
   - "Absorbent pressed-fiber core keeps eggs clean and dry even after heavy rain"
   - "Disposable design cuts daily coop cleaning time from minutes to seconds"
-cons:
+cons: 
   - "Thin material tears if hens aggressively scratch before laying"
   - "12-pack lasts roughly 2-3 weeks for a small flock; frequent reordering required"
+
 ---
 
 Let's be honest about chicken keeping: the worst part isn't the crowing or the feed bill — it's scrubbing manure off eggs before breakfast. These nesting pads from USA Aspen Professional claim to solve that. After digging through 220 ratings and the specs, here's what you actually need to know.

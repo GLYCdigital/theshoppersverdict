@@ -1,4 +1,5 @@
 ---
+
 title: "Berkley PowerBait Floating Mice Tails Fishing Soft Bait (1)"
 seo_title: "Berkley PowerBait Floating Mice Tails Review (2026): Does It Catch?"
 meta_description: "Honest Berkley PowerBait Floating Mice Tails review: scent, durability, and action tested. See if this panfish bait is worth your money before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVJ4192J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bpwRLnqmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Floating action keeps the bait off the bottom, which triggers strikes from suspended panfish when standard worms sink into weeds"
   - "PowerBait scent formula outlasts three to four fish before needing replacement, per multiple verified buyer reports"
   - "Works on a plain hook with no added weight — ideal for slip-bobber rigs targeting stocked trout and bluegill"
-cons:
+cons: 
   - "Soft body tears easily on aggressive strikes, especially if fish inhale it deep; you'll burn through a pack on a hot day"
   - "Scent washes off faster in current or when casting repeatedly — plan to reapply attractant or swap bait every 20 minutes in moving water"
+
 ---
 
 If you fish for stocked trout, bluegill, or crappie, you already know the struggle: standard PowerBait sinks into muck, and live bait dies in your pocket. Berkley's Floating Mice Tails fixes the first problem with a simple trick — the tail floats. Whether that earns a permanent spot in your tackle box depends on how you fish.

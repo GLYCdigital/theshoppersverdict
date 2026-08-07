@@ -1,4 +1,5 @@
 ---
+
 title: "chicka-d NCAA womens Burnout Fleece Pullover"
 seo_title: "chicka-d NCAA Women's Burnout Fleece Review (2026)"
 meta_description: "Honest chicka-d NCAA women's burnout fleece pullover review: fit, fabric, shrinkage, and whether it's worth it for game-day gear."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08B4D31NC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EuQoIUpzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine team-colored burnout fabric that softens with every wash without fading"
   - "oversized, relaxed fit that drapes well over jeans or leggings — true to size"
   - "Embroidery holds up through repeated machine washing, no peeling or thread pulls"
-cons:
+cons: 
   - "Runs warm — not ideal for layering in mild climates or indoor tailgates"
   - "Fabric is thin in spots; the burnout treatment can create small holes if snagged"
   - "Sizing inconsistent across different NCAA teams — check recent reviews for your school"
+
 ---
 
 Let's cut through the "licensed merchandise" hype for a second. Most college apparel is either a stiff, boxy tee that shrinks to crop-top length or a cheap hoodie that pills after three washes. The chicka-d NCAA Women's Burnout Fleece Pullover is different — and at 4.4 stars across 220 ratings, most buyers agree. But it's not perfect. Here's what you need to know before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Norelco SH30/52 Shaving Heads, Compatible with Phili"
 seo_title: "Philips Norelco SH30/52 Shaving Heads, Compatible  Review"
 meta_description: "Our full philips norelco sh30/52 shaving heads, compatible with phili review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8XXHNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zzoh0Q5vL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Philips Norelco Series 1000 or any shaver that takes the SH30 heads, you already know the dirty secret: the razor works great for about 12 months, then slowly turns into a tugging, skipping mess. The SH30/52 replacement heads are the fix — and they're the real deal, not a gamble on unbranded metal.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hodiax Premium Coco Coir Brick, High Nutrinent Coconut Soil,"
 seo_title: "Hodiax Premium Coco Coir Brick, High Nutrinent Coc Review"
 meta_description: "Our full hodiax premium coco coir brick, high nutrinent coconut soil, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5YYMLQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mkenmYjfL._AC_SL1430_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hodiax Premium Coco Coir Brick: The Garden Workhorse That Earns Its Keep

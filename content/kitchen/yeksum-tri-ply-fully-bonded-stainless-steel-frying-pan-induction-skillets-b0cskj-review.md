@@ -1,4 +1,5 @@
 ---
+
 title: "Yeksum Tri-Ply Fully Bonded Stainless Steel Frying Pan Induc"
 seo_title: "Yeksum Tri-Ply Fully Bonded Stainless Steel Frying Review"
 meta_description: "Our full yeksum tri-ply fully bonded stainless steel frying pan induc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CSKJBQXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A6bTeXwxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: another stainless steel frying pan isn't exactly thrilling. But the Yeksum Tri-Ply Fully Bonded Stainless Steel Frying Pan earns a look because it punches well above its price point in the one area that matters most — even heat distribution.

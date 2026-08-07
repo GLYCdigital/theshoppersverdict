@@ -1,4 +1,5 @@
 ---
+
 title: "Furhaven Orthopedic Dog Bed"
 seo_title: "Furhaven Orthopedic Dog Bed Review: Worth It in 2026?"
 meta_description: "Furhaven Orthopedic Dog Bed review: 79K+ ratings, 4.4 stars. We break down support, durability, and whether it's worth your money."
@@ -11,15 +12,16 @@ review_count: 79789
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xK-gJaK4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Egg-crate orthopedic foam base provides genuine joint relief without the $150+ price tag of memory foam competitors"
   - "Removable, machine-washable cover with a zipper that actually survives repeated washing — rare in this category"
   - "Four-sided bolster design gives senior dogs a headrest and a sense of security while still allowing easy entry"
-cons:
+cons: 
   - "Foam is only 4 inches thick at the center; heavier dogs (80+ lbs) will compress it noticeably within months"
   - "The faux suede surface is a fur magnet — if you have a shedding breed, expect to lint-roll weekly"
   - "The foam core is only 4 inches at the center — heavy dogs (80+ lbs) will compress it faster than you'd like"
   - "Faux suede surface attracts fur like crazy; you'll be lint-rolling weekly if you own a shedding breed"
+
 ---
 
 # Furhaven Orthopedic Dog Bed Review: The People's Champion, With Caveats

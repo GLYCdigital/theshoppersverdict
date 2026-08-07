@@ -1,4 +1,5 @@
 ---
+
 title: "Bumble and bumble. Super Rich Hair Conditioner For Every Day"
 seo_title: "Bumble and bumble Super Rich Conditioner Review (2026)"
 meta_description: "Bumble and bumble Super Rich Conditioner review: Does this everyday detangler deliver for dry hair? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FB9GSS1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E020WS48L._SL1500_.jpg"
-pros:
+pros: 
   - "Instantly detangles even thick, knotted hair without weighing it down or leaving a greasy residue"
   - "Coconut-derived cleansing agents and shea butter deliver deep moisture that lasts between washes"
   - "Pleasant, subtle scent that fades quickly and won't compete with your styling products or perfume"
-cons:
+cons: 
   - "Price point is steep for a daily-use product — you'll go through a bottle faster than you'd like"
   - "Fine or very oily hair types may find it too heavy, even with the 'every day' label"
+
 ---
 
 Some conditioners promise softness but leave your hair feeling like straw by noon. Others coat your strands in so much goop that you're washing again by evening. The Bumble and bumble Super Rich Hair Conditioner sits in that rare sweet spot — it actually does what the name claims, and it does it daily without buildup.

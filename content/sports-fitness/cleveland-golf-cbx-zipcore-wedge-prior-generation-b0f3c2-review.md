@@ -1,4 +1,5 @@
 ---
+
 title: "Cleveland Golf CBX Zipcore Wedge (Prior Generation)"
 seo_title: "Cleveland CBX Zipcore Wedge Review: Game Improvement"
 meta_description: "Cleveland CBX Zipcore wedge review: forgiving cavity back, ZipCore weighting, Rotex face. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F3C2YYPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zzpXeELEL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "ZipCore weighting shifts center of gravity toward the hosel for noticeably better contact on toe-side misses"
   - "Rotex face with Tour Zip Grooves delivers elite spin numbers even from wet rough or tight fairway lies"
   - "Cavity-back design and wider sole provide genuine forgiveness — mishits lose far less distance than blade wedges"
-cons:
+cons: 
   - "Head shape is noticeably larger and more offset than traditional blade wedges — better players may not like the look at address"
   - "Prior generation model — newer CBX 4.0 is out, so availability and color options are getting limited"
+
 ---
 
 The Cleveland CBX Zipcore wedge sits in a weird spot in the golf market: it's not a blade for scratch players, and it's not a beginner's club either. It's for the 90-percent of golfers who chunk chips, blade pitches, and leave sand shots in the bunker — but who still want real spin and control. That's a bigger audience than most wedge companies want to admit exists.

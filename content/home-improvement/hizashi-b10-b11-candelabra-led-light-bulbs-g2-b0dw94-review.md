@@ -1,4 +1,5 @@
 ---
+
 title: "Hizashi B10&B11 Candelabra LED Light Bulbs G2"
 seo_title: "Hizashi B10&B11 Candelabra LED Light Bulbs G2 Review: Ver"
 meta_description: "Our full hizashi b10&b11 candelabra led light bulbs g2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW943HTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bwqG0spqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought "candelabra" LED bulbs online only to discover they look like glowing plastic golf balls in your grandmother's chandelier, you know the struggle. The Hizashi B10&B11 G2 set out to fix that specific annoyance — and for the most part, they succeeded.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Replacement Water Filters for Water Pitchers"
 seo_title: "Amazon Basics Water Pitcher Filters Review (2026) | Honest"
 meta_description: "Amazon Basics replacement water pitcher filters reviewed: 4.6★ from 229 ratings. Do they fit? How long do they last? Honest pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YT1LN5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616Dd9mu2SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Certified to reduce chlorine taste/odor and particulates — independently tested, not just marketing claims"
   - "Universal fit works with most standard pitcher brands including Brita and Pur-style reservoirs"
   - "Noticeably better flow rate than OEM filters — water passes through without the 10-minute wait"
-cons:
+cons: 
   - "No NSF 53 certification, so it doesn't remove heavy metals like lead or mercury"
   - "Lifespan is inconsistent across batches — some users report 30 days, others get 3 months"
+
 ---
 
 The water filter aisle is a racket. You buy a perfectly good pitcher for $25, then the brand locks you into $12-per-filter replacements forever. The Amazon Basics Replacement Water Filters undercut that pricing while claiming compatibility with most standard pitchers. But does "compatible" actually mean "works as well"? I tested these against the OEM filters and dug through the 229 ratings to give you the real story.

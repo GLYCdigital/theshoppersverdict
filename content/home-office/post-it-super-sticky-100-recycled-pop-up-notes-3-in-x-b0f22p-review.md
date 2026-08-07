@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Super Sticky 100% Recycled Pop-up Notes, 3 in. x 3 i"
 seo_title: "Post-it Super Sticky 100% Recycled Pop-up Notes, 3 Review"
 meta_description: "Our full post-it super sticky 100% recycled pop-up notes, 3 in. x 3 i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F22PD5FD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ujBh-8ZsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sticky notes are an afterthought. You grab whatever is near the register, stick it to your monitor, and forget it exists until it falls on your keyboard three days later. So when a product like the Post-it Super Sticky 100% Recycled Pop-up Notes earns a 4.7-star average across 235 ratings, it's worth asking *why* — and whether the eco-friendly angle actually holds up in daily use.

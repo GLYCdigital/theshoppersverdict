@@ -1,4 +1,5 @@
 ---
+
 title: "DoMatcha - Organic Ceremonial Green Tea Matcha Powder, USDA"
 seo_title: "DoMatcha Organic Ceremonial Matcha Review (2026): Worth It?"
 meta_description: "DoMatcha Organic Ceremonial Matcha review: taste, quality, and value. Is this USDA-certified powder worth $40+? Find out what 229 buyers say."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BK2H31Y9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7131jDRxBPL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep umami flavor with zero bitterness — even when whisked with water alone, no milk or sweetener needed"
   - "Vibrant, electric-green color that signals proper shade-grown, first-harvest leaves"
   - "Resealable pouch with nitrogen flush keeps powder fresh for months; 30g lasts 15–30 servings depending on strength"
-cons:
+cons: 
   - "Premium price — expect to pay $1.50–$2.50 per serving, which is 3–5x cheaper supermarket matcha"
   - "Single-origin Uji batch means flavor varies slightly between harvests — loyalists may notice"
   - "No scoop included in every batch — some pouches ship with a bamboo scoop, others don't, which is inconsistent"
+
 ---
 
 # DoMatcha Organic Ceremonial Matcha Review: Is This the Last Matcha You'll Buy?

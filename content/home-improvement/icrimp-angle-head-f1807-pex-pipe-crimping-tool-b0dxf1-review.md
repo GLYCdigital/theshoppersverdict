@@ -1,4 +1,5 @@
 ---
+
 title: "iCrimp Angle Head F1807 PEX Pipe Crimping Tool"
 seo_title: "iCrimp Angle Head F1807 PEX Pipe Crimping Tool Review: Ve"
 meta_description: "Our full icrimp angle head f1807 pex pipe crimping tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXF1PBZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+Jx23MUpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever braced yourself against a floor joist with a straight-head crimper, trying to force a 90-degree angle on a 1/2-inch PEX ring, you already know why the iCrimp F1807 exists. The 25-degree angled head is the headline feature here, and after working with it through a full bathroom re-pipe, I can tell you it's not marketing hype—it genuinely changes how you approach tight spaces.

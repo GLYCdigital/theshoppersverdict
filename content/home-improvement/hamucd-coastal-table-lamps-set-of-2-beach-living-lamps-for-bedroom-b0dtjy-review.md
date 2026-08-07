@@ -1,4 +1,5 @@
 ---
+
 title: "Hamucd Coastal Table Lamps Set of 2, Beach Living Lamps for "
 seo_title: "Hamucd Coastal Table Lamps Set of 2, Beach Living  Review"
 meta_description: "Our full hamucd coastal table lamps set of 2, beach living lamps for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTJYXYR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HMeBiSX9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hamucd Coastal Table Lamps Set of 2: Beach Style That Actually Holds Up

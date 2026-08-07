@@ -1,4 +1,5 @@
 ---
+
 title: "Lightweight Electric Dirt Bike for Kids, 170/340W Electric M"
 seo_title: "Lightweight Electric Dirt Bike for Kids, 170/340W  Review"
 meta_description: "Our full lightweight electric dirt bike for kids, 170/340w electric m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CZ71PK7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UAGQax9mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The first electric bike that actually fits your kid — not the other way around.**

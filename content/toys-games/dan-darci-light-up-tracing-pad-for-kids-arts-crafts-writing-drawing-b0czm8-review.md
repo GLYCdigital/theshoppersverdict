@@ -1,23 +1,25 @@
 ---
+
 title: "Dan&Darci Light Up Tracing Pad for Kids - Arts & Crafts Writ"
 seo_title: "Dan&Darci Light Up Tracing Pad Review: 4.6 Stars"
 meta_description: "Dan&Darci Light Up Tracing Pad for Kids review: bright LED surface, 3 tracing modes, and durable build. See pros, cons, and who should buy."
 slug: "dan-darci-light-up-tracing-pad-for-kids-arts-crafts-writing-drawing-b0czm8-review"
 image_alt: "Dan&Darci Light Up Tracing Pad for Kids with LED surface and tracing paper"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZM89L46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Hv8vLD4-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Bright, even LED surface eliminates shadows—trace fine details without squinting"  
   - "3 adjustable brightness levels let kids work in low light or bright rooms"  
   - "Slim 0.4-inch profile with rounded corners fits on small desks; USB powered (adapter included)"  
-cons:  
+cons: 
   - "Small 8.5x6 inch tracing area limits large poster-sized projects"  
   - "Plastic surface scratches if you press hard with pencils—use light strokes"
+
 ---
 
 ## The tracing pad that actually makes kids want to practice writing

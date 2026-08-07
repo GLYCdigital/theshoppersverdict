@@ -1,4 +1,5 @@
 ---
+
 title: "ATTITUDE Body Lotion for Sensitive Skin with Oat, EWG Verifi"
 seo_title: "ATTITUDE Body Lotion Review: EWG-Verified Oat Formula (2026)"
 meta_description: "Read our honest ATTITUDE Body Lotion for Sensitive Skin review. We test the EWG-verified oat formula, scent, absorption & value. See who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9QW595F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O4dfRQsSL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly fragrance-free formula with colloidal oat that calms active eczema flare-ups without stinging"
   - "EWG Verified certification means every ingredient is disclosed and screened against strict toxicity standards"
   - "Fast-absorbing pump dispenser delivers generous hydration without greasy residue — ideal for daytime use"
-cons:
+cons: 
   - "Thin lotion texture feels insufficient for severely dry, cracked winter skin — you'll need a balm on top"
   - "Pump mechanism can clog if product dries around the nozzle between uses"
   - "Premium pricing for the bottle size — you'll pay a clean-beauty tax versus drugstore alternatives"
+
 ---
 
 ## A Clean-Beauy Heavyweight That Actually Walks the Walk

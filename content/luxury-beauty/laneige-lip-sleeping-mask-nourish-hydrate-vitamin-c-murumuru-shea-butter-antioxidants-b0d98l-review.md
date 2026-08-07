@@ -1,4 +1,5 @@
 ---
+
 title: "LANEIGE Lip Sleeping Mask: Nourish, Hydrate, Vitamin C, Muru"
 seo_title: "LANEIGE Lip Sleeping Mask: Nourish, Hydrate, Vitam Review"
 meta_description: "Our full laneige lip sleeping mask: nourish, hydrate, vitamin c, muru review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D98L6Q51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bHKet2shL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3 a.m. lip rescue that actually works — most of the time**

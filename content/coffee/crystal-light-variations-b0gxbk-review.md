@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Light Variations"
 seo_title: "Crystal Light Variations Review: Real Coffee Maker Verdict"
 meta_description: "Crystal Light Variations review: 3.1/5 rating from 155 buyers. Is this coffee gear worth it? We break down build, performance, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0GXBKN63L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JYhOZ0VXL._SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint fits tight counter spaces under standard cabinets"
   - "Programmable timer actually works — coffee's ready when you wake up"
   - "Carafe pours clean with no drips down the side"
-cons:
+cons: 
   - "Brew temperature runs cool — coffee tastes weak and under-extracted"
   - "Plastic housing feels thin; several buyers report cracking near the base"
   - "No auto-shutoff on the warming plate, which scorches coffee fast"
+
 ---
 
 **The 3.1-star rating isn't a fluke. Here's what 155 buyers actually found.**

@@ -1,4 +1,5 @@
 ---
+
 title: "USTELLAR 3 Pack 80W LED Flood Lights Outdoor"
 seo_title: "USTELLAR 3 Pack 80W LED Flood Lights Outdoor Review: Verd"
 meta_description: "Our full ustellar 3 pack 80w led flood lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FDLLNQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QWgjA2ZZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought an "80W equivalent" floodlight that hums, flickers, or turns your backyard into a dim approximation of moonlight, the USTELLAR 3-pack is the correction. At 4.5 stars across 225 ratings, these fixtures don't just claim brightness — they deliver a measured 8000 lumens per head at a true 6500K daylight temperature. That's not marketing math. That's "I can read a book from 40 feet away" light.

@@ -1,4 +1,5 @@
 ---
+
 title: "SUNGATOR PEX Pipe Fittings Mixed Set"
 seo_title: "SUNGATOR PEX Pipe Fittings Mixed Set Review: Verdict | TS"
 meta_description: "Our full sungator pex pipe fittings mixed set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DDCQV7GL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DQD9AP78L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring down a PEX plumbing project — whether it's a full repipe or just adding a laundry box — the first decision isn't which pipe. It's which fittings. And that's exactly the problem SUNGATOR's Mixed Set tries to solve: one kit, both common sizes, both brass and stainless options, all in a case that won't leave you digging through a ziplock bag at 9 PM on a Sunday.

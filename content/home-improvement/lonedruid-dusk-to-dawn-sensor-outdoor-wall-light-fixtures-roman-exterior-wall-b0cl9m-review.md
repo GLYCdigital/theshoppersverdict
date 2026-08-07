@@ -1,4 +1,5 @@
 ---
+
 title: "LONEDRUID Dusk to Dawn Sensor Outdoor Wall Light Fixtures Ro"
 seo_title: "LONEDRUID Dusk to Dawn Sensor Outdoor Wall Light F Review"
 meta_description: "Our full lonedruid dusk to dawn sensor outdoor wall light fixtures ro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL9M3SDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gf7hZU8JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about the LONEDRUID dusk-to-dawn outdoor wall light: this is a fixture that solves one specific problem — never touching your exterior lights again — and it does it without requiring a smart home setup, a timer, or a degree in electrical engineering.

@@ -1,4 +1,5 @@
 ---
+
 title: "DerBlue 3PCS HAPF600 Filter Replacement and 3PCS pre filter"
 seo_title: "DerBlue HAPF600 Filter Replacement Review: 6-Piece Kit"
 meta_description: "DerBlue HAPF600 filter replacement review: 3 HEPA filters + 3 pre-filters for Holmes units. Cuts cost 40% vs OEM. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07R18V5LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TExwS3x7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Costs roughly 40% less per filter than OEM Holmes replacements while delivering comparable filtration"
   - "Bundle includes paired pre-filters — extends HEPA life by 2-3 months per cycle"
   - "Sealed edges and consistent dimensions — no air bypass gaps reported in fitment"
-cons:
+cons: 
   - "No carbon layer — odor neutralization is weaker than OEM's activated carbon option"
   - "Packaging is minimal; filters can arrive slightly compressed if box is crushed in transit"
+
 ---
 
 Let's be honest about air purifier filters: the markup on OEM replacements is borderline predatory. A Holmes HAPF600 costs you $25-30 for a single filter. DerBlue's six-piece kit — three HEPA filters plus three matching pre-filters — undercuts that by a wide margin. The question is whether the savings cost you filtration quality. After digging through 235 ratings and the spec sheet, here's the real picture.

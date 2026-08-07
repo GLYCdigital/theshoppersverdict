@@ -1,4 +1,5 @@
 ---
+
 title: "Chillife Princess Dress Up Fairy & Unicorn Costume for Girls"
 seo_title: "Chillife Princess Dress Up Costume Review: Is It Worth It?"
 meta_description: "Read our honest Chillife Princess Dress Up Fairy & Unicorn Costume review. See real pros, cons, fit details, and who should buy this 4.6-star dress-up set."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8Y3WMLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812ZoLaBP4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete set with 4-6 mix-and-match pieces (tutus, wings, wands, headbands) — no need to buy accessories separately"
   - "Adjustable elastic waistbands and velcro wing straps fit toddlers through early elementary sizes (2T–6)"
   - "Machine-washable tulle that holds up to repeated dress-up sessions without fraying or losing shape"
-cons:
+cons: 
   - "Wings are attached with thin elastic straps that can dig into shoulders on larger kids — need frequent readjustment"
   - "Some smaller pieces (wands, crowns) feel lightweight and may bend or break with aggressive play"
+
 ---
 
 If there's one thing I've learned watching kids play dress-up, it's that the packaging promises a fantasy, but the product delivers either a cheap pile of disappointment or a genuinely magical afternoon. The Chillife Princess Dress Up Fairy & Unicorn Costume for Girls lands firmly in the second camp — with a few caveats worth knowing before you click buy.

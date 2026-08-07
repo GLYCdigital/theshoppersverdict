@@ -1,23 +1,25 @@
 ---
+
 title: "Brother HL-L6200DW Wireless Monochrome Single-Function Laser"
 seo_title: "Brother HL-L6200DW Review: Fast, Reliable Mono Laser (2026)"
 meta_description: "Brother HL-L6200DW review: 48ppm mono laser with wireless, duplex, and 300-sheet capacity. Is it worth it for your office? Read our honest verdict."
 slug: "brother-hl-l6200dw-wireless-monochrome-single-function-laser-printer-print-only-48-b0bh7t-review"
 image_alt: "Brother HL-L6200DW monochrome laser printer on desk with paper tray extended"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BH7TZZL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tCOnNq4HL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Blazing 48ppm print speed — among the fastest in its class"  
   - "300-sheet paper capacity with 50-sheet multipurpose tray handles heavy workloads"  
   - "Auto-duplex printing saves paper without slowing down"  
-cons:  
+cons: 
   - "No scanner or fax — strictly print-only, which limits small-office appeal"  
   - "Toner costs add up fast; high-yield cartridge needed for real savings"
+
 ---
 
 If your office prints 50+ pages a day, you don’t need another all-in-one with a scanner you never use. You need a workhorse that spits out crisp text fast and doesn’t jam. The Brother HL-L6200DW is exactly that—and it does the job with fewer headaches than most printers in its price range. But it’s not for everyone, and I’ll get to that in a second.

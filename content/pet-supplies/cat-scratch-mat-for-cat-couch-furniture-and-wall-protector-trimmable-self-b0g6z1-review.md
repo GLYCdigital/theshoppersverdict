@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Scratch Mat for Cat Couch Furniture and Wall Protector |"
 seo_title: "Cat Scratch Mat Review: Trimmable Couch & Wall Protector"
 meta_description: "Honest review of the trimmable Cat Scratch Mat for couches and walls. 3.9-star rating analyzed. Does it stop scratching? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G6Z1GSFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AvMe34j2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Trimmable design lets you custom-fit to any couch arm, corner, or wall section without wasting material"
   - "Self-adhesive backing grips firmly to fabric and painted surfaces — no nails or tools required"
   - "Dense sisal texture satisfies the scratching instinct while protecting furniture from claw damage"
-cons:
+cons: 
   - "Adhesive can leave sticky residue when removed, especially on delicate fabrics or fresh paint"
   - "Not all cats take to it — some will scratch beside the mat instead of on it, requiring retraining"
   - "Thin material wears through faster than premium sisal posts, especially with heavy scratchers"
+
 ---
 
 ## Is this the answer to shredded sofas, or just another band-aid?

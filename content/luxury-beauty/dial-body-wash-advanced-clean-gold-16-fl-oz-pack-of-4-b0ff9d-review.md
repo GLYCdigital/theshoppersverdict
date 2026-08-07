@@ -1,4 +1,5 @@
 ---
+
 title: "Dial Body Wash, Advanced Clean Gold, 16 Fl Oz, Pack of 4, Hy"
 seo_title: "Dial Advanced Clean Gold Body Wash Review (4-Pack) | Worth It?"
 meta_description: "Honest Dial Advanced Clean Gold Body Wash review: lather, scent, skin feel, and value of the 16 oz 4-pack. See if it beats premium brands."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FF9D1T8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U4IJWH9UL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, creamy lather that rinses clean without stripping — surprising for a drugstore price point"
   - "Gold-infused formula delivers visible softness for 24+ hours, even on dry winter skin"
   - "4-pack value works out to roughly $3.50 per 16 oz bottle, undercutting most premium body washes"
-cons:
+cons: 
   - "Scent is subtle and fades quickly — if you want fragrance that lingers, look elsewhere"
   - "Pump dispenser isn't included; you'll pour from the flip cap, which gets messy in the shower"
+
 ---
 
 Let's be blunt: most body washes under $10 a bottle either smell like a chemistry experiment or leave your skin feeling like you just washed with dish soap. The Dial Advanced Clean Gold line sits in a weird middle ground — it's not trying to be a $30 luxury product, but it's clearly not the blue gel your dad has used since 1998. After two weeks of daily use, here's the honest breakdown.

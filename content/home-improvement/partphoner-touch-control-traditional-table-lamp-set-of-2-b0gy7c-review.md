@@ -1,4 +1,5 @@
 ---
+
 title: "PARTPHONER Touch Control Traditional Table Lamp Set of 2"
 seo_title: "PARTPHONER Touch Control Traditional Table Lamp Se Review"
 meta_description: "Our full partphoner touch control traditional table lamp set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY7C5H9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wNyatsvxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most table lamps under $40 a pair are junk. The PARTPHONER Touch Control Traditional Table Lamp Set of 2 is not junk — but it’s also not the last lamp you’ll ever buy. At 4.4 stars across 220 ratings, it’s a solid mid-tier pick for anyone who wants functional bedside lighting with a classic look and modern convenience. Here’s the real breakdown.

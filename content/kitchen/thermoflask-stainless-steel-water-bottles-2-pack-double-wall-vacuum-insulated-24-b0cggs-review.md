@@ -1,4 +1,5 @@
 ---
+
 title: "ThermoFlask Stainless Steel Water Bottles 2-Pack - Double-Wa"
 seo_title: "ThermoFlask Stainless Steel Water Bottles 2-Pack - Review"
 meta_description: "Our full thermoflask stainless steel water bottles 2-pack - double-wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGGSWBYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6101EkOjQ3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: you don't need another $35 water bottle. You need one that works, and ideally two so one can be in the dishwasher while the other is on your desk. The ThermoFlask 2-pack delivers exactly that — and it's currently sitting at a solid 4.7 stars from 235 buyers who've put it through real life.

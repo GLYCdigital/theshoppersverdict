@@ -1,7 +1,8 @@
 ---
-title: "TREKOLOGY Sleeping Pad for Campingâ€“ Ultra-Lightweight, 4\" "
+
+title: "TREKOLOGY Sleeping Pad for Campingâ€“ Ultra-Lightweight, 4\ "
 seo_title: "TREKOLOGY Sleeping Pad for Campingâ€“ Ultra-Lightw Review"
-meta_description: "Our full trekology sleeping pad for campingâ€“ ultra-lightweight, 4\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full trekology sleeping pad for campingâ€“ ultra-lightweight, 4\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "trekology-sleeping-pad-for-camping-ultra-lightweight-4-thick-camping-mat-with-b0dpwn-review"
 image_alt: "TREKOLOGY Sleeping Pad for Campingâ€“ Ultra-Lightweight, 4 Thick Camping Mat with 7.2 R-Value for All Seasonsâ€“ Compact"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPWNYF91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813tLZwNg2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 4-inch thick camping pad that doesn't weigh like one — but there's a catch.**

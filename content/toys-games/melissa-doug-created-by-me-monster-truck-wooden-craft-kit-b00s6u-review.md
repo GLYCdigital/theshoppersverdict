@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Created by Me! Monster Truck Wooden Craft Kit"
 seo_title: "Melissa & Doug Created by Me! Monster Truck Wooden Review"
 meta_description: "Our full melissa & doug created by me! monster truck wooden craft kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00S6UZW18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-bzyuymcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a kid obliterate a $30 plastic monster truck in a week, you'll understand the appeal of this kit. The Melissa & Doug Created by Me! Monster Truck Wooden Craft Kit gives kids something better: a truck they build, paint, and wreck with pride. At 4.6 stars across 229 ratings, it's clearly earning its keep in living rooms. Here's the honest breakdown.

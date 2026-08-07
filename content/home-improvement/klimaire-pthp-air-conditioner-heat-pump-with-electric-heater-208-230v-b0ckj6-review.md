@@ -1,4 +1,5 @@
 ---
+
 title: "KLIMAIRE PTHP Air Conditioner Heat Pump with Electric Heater"
 seo_title: "KLIMAIRE PTHP Air Conditioner Heat Pump with Elect Review"
 meta_description: "Our full klimaire pthp air conditioner heat pump with electric heater review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKJ6B4PK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rZPo11pOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're shopping for a through-wall heat pump, you already know the usual suspects — the hotel-grade names that cost twice as much and the cheap imports that die in two seasons. The KLIMAIRE PTHP sits in that uncomfortable middle ground, and the 4.2-star average from 210 ratings tells you it's doing something right. The question is whether it's right for *your* wall.

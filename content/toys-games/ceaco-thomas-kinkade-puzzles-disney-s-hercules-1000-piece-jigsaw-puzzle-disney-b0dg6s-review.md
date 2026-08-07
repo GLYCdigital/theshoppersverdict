@@ -1,4 +1,5 @@
 ---
+
 title: "Ceaco Thomas Kinkade Puzzles – Disney’s Hercules 1000 Pi"
 seo_title: "Ceaco Thomas Kinkade Hercules 1000-Piece Puzzle Review"
 meta_description: "Ceaco Thomas Kinkade Disney Hercules 1000-piece puzzle review: build quality, image clarity, piece fit, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DG6SVT8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yw4jr5tEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Kinkade's signature glowing light effects make the completed image genuinely beautiful to display"
   - "Sturdy, thick pieces with a matte finish that resists glare and fingerprints"
   - "Consistent, non-repeating piece shapes across the 1000-count — no frustrating false fits"
-cons:
+cons: 
   - "Large dark sections (Hercules's cape, the shadows around the temple) can be tedious to sort"
   - "Box is thin and arrives easily dented in shipping; not ideal for collectors preserving packaging"
+
 ---
 
 **The glowing light painting meets the Greek hero — but is the puzzle fun or just pretty?**

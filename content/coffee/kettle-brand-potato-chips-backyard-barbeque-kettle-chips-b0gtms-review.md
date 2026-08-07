@@ -1,4 +1,5 @@
 ---
+
 title: "Kettle Brand Potato Chips, Backyard Barbeque Kettle Chips"
 seo_title: "Kettle Brand Potato Chips, Backyard Barbeque Kettl Review"
 meta_description: "Our full kettle brand potato chips, backyard barbeque kettle chips review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTMSY5FJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815nZ5KI8vL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a snack review, not a coffee review — but the question is the same. Is the premium worth it? Kettle Brand's Backyard Barbeque has a 4.5-star average across 225 Amazon ratings, which tells you something. People who buy kettle chips are a particular breed. They want crunch that hurts a little and flavor that doesn't quit. This bag delivers on both counts, but not without caveats.

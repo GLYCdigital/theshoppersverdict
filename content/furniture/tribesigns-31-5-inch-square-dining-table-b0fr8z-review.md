@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns 31.5-Inch Square Dining Table"
 seo_title: "Tribesigns 31.5-Inch Square Dining Table Review: Verdict "
 meta_description: "Our full tribesigns 31.5-inch square dining table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR8Z6J2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91uIcW5foWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **Tribesigns 31.5-Inch Square Dining Table** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

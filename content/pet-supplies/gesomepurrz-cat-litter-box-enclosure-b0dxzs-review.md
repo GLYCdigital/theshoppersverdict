@@ -1,4 +1,5 @@
 ---
+
 title: "Gesomepurrz Cat Litter Box Enclosure"
 seo_title: "Gesomepurrz Cat Litter Box Enclosure Review (2026)"
 meta_description: "Honest Gesomepurrz Cat Litter Box Enclosure review: hides mess, controls odor, but has size limits. See pros, cons & who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXZSF6HG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x4ag-tMzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid MDF construction with a clean wood-grain finish that actually looks like furniture, not a plastic bin"
   - "Dual-access design — top opening for easy scooping plus front entry for cats who prefer privacy"
   - "Folds flat for storage and takes under 10 minutes to assemble with included hex wrench"
-cons:
+cons: 
   - Interior is snug — fits standard litter boxes up to roughly 20 inch "L x 15 inch "W, but jumbo boxes won't fit
   - "No carbon filter or odor-sealing gasket, so smells can escape if you don't scoop daily"
   - "Front door doesn't latch, which some cats learn to push open — defeats the privacy purpose"
+
 ---
 
 # Gesomepurrz Cat Litter Box Enclosure Review: Furniture That Hides the Mess, Mostly

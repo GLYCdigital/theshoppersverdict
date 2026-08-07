@@ -1,16 +1,17 @@
 ---
+
 title: "Juniors Swim Goggles Hydrospex Bungee"
 seo_title: "Speedo Juniors Hydrospex Bungee Swim Goggles Review: Verdict (4.6/5) | TSV"
 meta_description: "Our honest review of the juniors Hydrospex Bungee swim goggles: real buyer quotes on fit, comfort, and leaks. Are these the best kids' swim goggles? Verdict inside."
 slug: "juniors-swim-goggles-hydrospex-bungee-review"
 image_alt: "Speedo Juniors Hydrospex Bungee swim goggles for kids"
-keywords:
+keywords: 
   - "juniors swim goggles hydrospex review"
   - "speedo kids swim goggles"
   - "bungee swim goggles for kids"
   - "best childrens swim goggles"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Are the Juniors Hydrospex Bungee goggles comfortable for kids?"
     answer: "Yes — comfort is the most consistent praise. One parent said her daughter 'totally loves the comfort,' and another parent of a 2.5-year-old says the goggles ended the 'oww! Mine eyes!' complaints, with her toddler keeping them on all session."
   - question: "Do the Juniors Hydrospex Bungee goggles leak?"
@@ -24,14 +25,15 @@ review_count: 4483
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081ZW77HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AOZsaKrvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Comfortable fit that kids actually keep on"
   - "Bungee strap is easy to tighten and adjust"
   - "Strong suction at the eyes keeps water out"
   - "Larger eye pieces don't hurt kids' faces"
-cons:
+cons: 
   - "Some water can get in for certain kids, per a few reviewers"
   - "Designed for juniors — not a fit for adult swimmers"
+
 ---
 
 ## The Kids' Goggle That Actually Stays On (And Doesn't Hurt)

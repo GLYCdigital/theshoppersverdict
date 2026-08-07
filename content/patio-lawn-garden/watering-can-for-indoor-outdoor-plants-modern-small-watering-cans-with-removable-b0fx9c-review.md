@@ -1,4 +1,5 @@
 ---
+
 title: "Watering Can for Indoor Outdoor Plants, Modern Small Waterin"
 seo_title: "Watering Can for Indoor Outdoor Plants, Modern Sma Review"
 meta_description: "Our full watering can for indoor outdoor plants, modern small waterin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FX9CYK2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cmlHRzlsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The little can that punches above its weight — with one asterisk

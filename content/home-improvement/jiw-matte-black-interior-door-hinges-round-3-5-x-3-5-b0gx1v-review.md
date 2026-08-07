@@ -1,7 +1,8 @@
 ---
-title: "JIW Matte Black Interior Door Hinges Round 3.5\" x 3.5 Inch 5"
-seo_title: "JIW Matte Black Interior Door Hinges Round 3.5\" x  Review"
-meta_description: "Our full jiw matte black interior door hinges round 3.5\" x 3.5 inch 5 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JIW Matte Black Interior Door Hinges Round 3.5\ x 3.5 Inch 5"
+seo_title: "JIW Matte Black Interior Door Hinges Round 3.5\ x  Review"
+meta_description: "Our full jiw matte black interior door hinges round 3.5\ x 3.5 inch 5 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "jiw-matte-black-interior-door-hinges-round-3-5-x-3-5-b0gx1v-review"
 image_alt: "JIW Matte Black Interior Door Hinges Round 3.5 x 3.5 Inch 5/8 Radius Heavy-Duty Mat Hinge for Doors Standard Bedroom Wor"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GX1V1MKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vVi6e7FkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're swapping out dated brass or polished chrome hinges for a modern matte black look, the JIW 3.5" round hinges deserve a hard look. This 5-pack runs about $20–25 depending on the day, which lands squarely in the "reasonable for what you get" zone. But the real question isn't price—it's whether these hold up and whether the round style fits your doors without a fight.

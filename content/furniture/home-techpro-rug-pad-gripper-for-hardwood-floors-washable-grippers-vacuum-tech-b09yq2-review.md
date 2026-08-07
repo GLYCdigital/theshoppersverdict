@@ -1,4 +1,5 @@
 ---
+
 title: "Home Techpro Rug Pad Gripper for Hardwood Floors, Washable G"
 seo_title: "Home Techpro Rug Pad Gripper for Hardwood Floors,  Review"
 meta_description: "Our full home techpro rug pad gripper for hardwood floors, washable g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09YQ29M8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Mg42QKQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If your area rug slides every time someone walks across it — or worse, bunches up and becomes a trip hazard — the Home Techpro Rug Pad Gripper is a solid, affordable fix. It grips hardwood without sticky adhesives, survives the washing machine, and stays flat. But it's not perfect: some rug backing materials defeat its grip entirely, and the sizing can be finicky.**

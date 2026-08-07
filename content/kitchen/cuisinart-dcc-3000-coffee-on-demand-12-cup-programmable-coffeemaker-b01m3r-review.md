@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart DCC-3000 Coffee-on-Demand 12-Cup Programmable Coff"
 seo_title: "Cuisinart DCC-3000 Review: Hot Coffee, No Warming Plate"
 meta_description: "Cuisinart DCC-3000 Coffee-on-Demand review: 12-cup thermal carafe, brew directly into your mug, no burnt taste. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01M3RTF68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i+rN1LkzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Brews directly into your mug — no carafe to wash, no burnt coffee sitting on a hot plate"
   - "12-cup capacity with a thermal carafe that actually keeps coffee hot for hours, not just lukewarm"
   - "Charcoal water filter and programmable settings (auto-on, 1-4 cup, bold) deliver consistent flavor"
-cons:
+cons: 
   - "No brew-strength memory — you must reset the bold setting every single time you brew"
   - "Carafe lid is not fully sealed; pouring at steep angles can drip down the side"
   - "Drip tray is shallow — a tall travel mug fits, but a standard mug underneath leaves splashback"
+
 ---
 
 **The Short Version:** The Cuisinart DCC-3000 solves the two biggest complaints about everyday coffeemakers: burnt coffee and washing a carafe. If you're the only coffee drinker in the house, or you want to pour a cup directly from the brewer into your travel mug, this is one of the smartest designs on the market.

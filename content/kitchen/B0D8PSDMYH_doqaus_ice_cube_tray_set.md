@@ -1,4 +1,5 @@
 ---
+
 title: "DOQAUS Ice Cube Tray Set"
 seo_title: "DOQAUS Ice Cube Tray Set Review: Worth It? (2026)"
 meta_description: "DOQAUS Ice Cube Tray Set review: 4.5-star rated silicone trays with lids. Do they freeze fast, leak, or smell? Real buyer insights inside."
@@ -11,13 +12,14 @@ review_count: 12639
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8PSDMYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NNkHyvrjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stackable design with spill-proof lids means you can actually fill trays and shove them in the freezer without losing half the water en route"
   - "Flexible food-grade silicone releases cubes with a simple twist — no more banging trays against the counter and losing a finger"
   - "Two different cube sizes (small and large) give you flexibility for cocktails, iced coffee, or lunchbox cooling without buying two separate sets"
-cons:
+cons: 
   - "Silicone trays can absorb odors from strong-smelling freezer items (garlic, fish) if stored uncovered — the lids help but don't fully seal"
   - "Cubes are smaller than standard ice maker cubes — if you're used to big-boy cubes from a countertop machine, these will melt faster in drinks"
+
 ---
 
 # DOQAUS Ice Cube Tray Set Review: The 13,000-Rating Truth

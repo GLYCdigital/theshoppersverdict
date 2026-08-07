@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS USB Rechargeable Book Light for Kids, LED Clip on"
 seo_title: "DEWENWILS Kids Book Light Review: USB Rechargeable Clip-On"
 meta_description: "Honest DEWENWILS USB rechargeable book light review: brightness, battery life, clip strength, and if it's worth buying for kids. Real user feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B2NK5JF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kJSuSgd9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperatures (warm, natural, cool) with stepless dimming — rare at this price point"
   - "USB-C rechargeable with genuine 30+ hour battery life on the lowest warm setting"
   - "Flexible gooseneck arm holds position firmly without drooping, even on thick hardcovers"
-cons:
+cons: 
   - "Clip won't open wide enough for boards thicker than 1.5 inches — e-reader cases with rigid backs are a problem"
   - "No auto-off timer, so kids will drain the battery if they fall asleep reading"
+
 ---
 
 If you’ve ever bought a cheap clip-on book light and watched it dim to a sad orange glow by page 10, you know the pain. The DEWENWILS USB Rechargeable Book Light for Kids is not that light. With a 4.6-star average across 229 ratings, this little clip-on has quietly become a bedtime staple — and after digging into what buyers actually say, the praise is deserved.

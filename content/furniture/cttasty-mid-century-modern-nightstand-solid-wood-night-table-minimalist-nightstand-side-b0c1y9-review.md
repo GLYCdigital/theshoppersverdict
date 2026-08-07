@@ -1,4 +1,5 @@
 ---
+
 title: "Cttasty Mid Century Modern Nightstand, Solid Wood Night Tabl"
 seo_title: "Cttasty Mid Century Modern Nightstand Review (2026): Solid Wood"
 meta_description: "Honest Cttasty Mid Century Modern Nightstand review: solid wood build, real dimensions, assembly quirks. Is this 4.2-star nightstand worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C1Y9JJ4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kjimpn+ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real solid wood top and frame (not MDF or particleboard) — rare at this price point"
   - "Mid-century tapered legs with a 45-degree angle give genuine retro character"
   - "Tempered glass shelf included for display space without adding visual bulk"
-cons:
+cons: 
   - "Assembly requires patience — predrilled holes occasionally misalign on the drawer slides"
   - "Finish is matte and can scratch if you drag heavy objects across the surface"
   - "No cable management cutout — phone chargers will dangle awkwardly"
+
 ---
 
 Let’s be blunt: most nightstands under $150 are glorified cardboard boxes with a wood-print sticker slapped on the side. The Cttasty Mid Century Modern Nightstand isn’t that. It’s real wood, real tapered legs, and a real design pedigree — but it’s also not perfect. Here’s what 210 Amazon reviewers (4.2 stars) and my own research tell you before you click buy.

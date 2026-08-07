@@ -1,4 +1,5 @@
 ---
+
 title: "TOOHUB Soft Area Rug"
 seo_title: "TOOHUB Soft Area Rug Review: Verdict | TSV"
 meta_description: "Our full toohub soft area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSB57W3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ni+++s1pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the TOOHUB Soft Area Rug actually soft, or is that just marketing?

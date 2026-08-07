@@ -1,4 +1,5 @@
 ---
+
 title: "Nuts Gift Basket Mixed Nuts Assortments | Mixed Nut by Oh Nu"
 seo_title: "Nuts Gift Basket Mixed Nuts Assortments | Mixed Nu Review"
 meta_description: "Our full nuts gift basket mixed nuts assortments | mixed nut by oh nu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPWTSPQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1SjMtlH8vL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Front & Center: A Gift That Actually Gets Eaten**

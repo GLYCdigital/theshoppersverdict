@@ -1,4 +1,5 @@
 ---
+
 title: "iATOM 1176 Pieces Johnny 5 Robot Building Set with Remote Co"
 seo_title: "iATOM Johnny 5 Robot Building Set Review: Worth It? (2026)"
 meta_description: "Honest iATOM 1176-piece Johnny 5 robot building set review. Is this Short Circuit tribute worth your money? Build quality, remote play, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8149WMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GforoZsIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1176 pieces deliver a substantial, display-worthy build that captures Johnny 5's iconic silhouette with surprising accuracy"
   - "Remote control functions actually work well — motorized treads and moving head/arms add real play value beyond static display"
   - "Rechargeable battery included, so you're not hunting for AAAs or sinking money into replacements"
-cons:
+cons: 
   - "Build is intricate with small pieces; younger kids (under 10) will likely need adult help or lose patience"
   - "Remote requires 2 AAA batteries not included — minor annoyance given the rechargeable main unit"
+
 ---
 
 Look, I'll be honest: when I saw "Johnny 5 building set with remote control," I expected another overpriced brick set that looks vaguely robot-shaped and falls apart when you sneeze near it. The iATOM 1176-piece set isn't that. It's a genuinely impressive tribute to *Short Circuit's* most lovable robot — with enough mechanical ambition to justify the price tag. But it's not without quirks, and you need to know what you're getting into before you commit.

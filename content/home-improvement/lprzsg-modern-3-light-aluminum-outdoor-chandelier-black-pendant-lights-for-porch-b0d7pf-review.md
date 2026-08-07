@@ -1,4 +1,5 @@
 ---
+
 title: "LPRZSG Modern 3-Light Aluminum Outdoor Chandelier, Black Pen"
 seo_title: "LPRZSG Modern 3-Light Aluminum Outdoor Chandelier, Review"
 meta_description: "Our full lprzsg modern 3-light aluminum outdoor chandelier, black pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7PFQJDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DlWNTvLKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LPRZSG Modern 3-Light Outdoor Chandelier sits in that tricky middle ground of outdoor lighting: cheap enough to feel like a gamble, but priced like a product that actually takes weather seriously. After combing through 235 ratings and the material specs, here's the honest breakdown.

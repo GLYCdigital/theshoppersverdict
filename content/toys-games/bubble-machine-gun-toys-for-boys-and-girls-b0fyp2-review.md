@@ -1,4 +1,5 @@
 ---
+
 title: "Bubble Machine Gun Toys for Boys and Girls"
 seo_title: "Bubble Machine Gun Toy Review: Worth It or Gimmick?"
 meta_description: "Honest Bubble Machine Gun toy review: battery life, bubble output, durability, and whether kids actually love it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYP29X67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wci79CJML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rapid bubble output — shoots hundreds of bubbles per minute, not the sad trickle you get from cheap wands"
   - "Leak-resistant tank design that doesn't dump solution everywhere when tipped over mid-play"
   - "Built to survive drops — the plastic body handles typical kid abuse without cracking"
-cons:
+cons: 
   - "Battery drain is real — you'll go through AAAs fast if your kid plays daily"
   - "Bubble solution refills aren't included, and it's picky about cheap generic brands"
   - "Gun-style design may not fit every family's values, even if it's clearly a toy"
+
 ---
 
 **Is This Bubble Gun Actually Fun, or Just Another Plastic Gimmick?**

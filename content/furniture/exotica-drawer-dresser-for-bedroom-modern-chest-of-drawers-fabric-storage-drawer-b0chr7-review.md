@@ -1,4 +1,5 @@
 ---
+
 title: "EXOTICA Drawer Dresser for Bedroom Modern Chest of Drawers F"
 seo_title: "EXOTICA Drawer Dresser Review: Modern Fabric Chest (2026)"
 meta_description: "Read our honest EXOTICA fabric drawer dresser review. See pros, cons, real customer feedback, and who should buy this modern bedroom chest."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHR7L2ML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91E8OMcPOiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six spacious fabric drawers hold a surprising amount — deep enough for folded sweaters or jeans stacked two deep"
   - "Assembles in roughly 20 minutes with a single Allen wrench; frame clicks together with cam locks, no power tools needed"
   - "Fabric bins are removable and washable — a practical upgrade over solid wood drawers that can't be cleaned"
-cons:
+cons: 
   - "Fabric drawers slide on a plastic track; they work smoothly but won't feel as sturdy as metal glides on a $400+ dresser"
   - "The lightweight frame (under 30 lbs) can wobble slightly if you overload the top with a TV or heavy decor"
   - "No anti-tip wall anchor included — you'll want to buy one separately if you have curious toddlers"
+
 ---
 
 # EXOTICA Drawer Dresser Review: The Fabric Chest That Punches Above Its Weight

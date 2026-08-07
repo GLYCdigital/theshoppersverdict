@@ -1,4 +1,5 @@
 ---
+
 title: "Berkland SSSCat Refill 2 Pack - PetSafe SSSCAT Compatible Ca"
 seo_title: "Berkland SSSCat Refill 2 Pack Review: Worth It? (2026)"
 meta_description: "Honest Berkland SSSCat Refill 2 Pack review: compatibility, spray volume, and value vs. PetSafe brand. See if this cheaper refill actually works."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0BLJ4G66B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HXHw+HiFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Significantly cheaper per ounce than PetSafe's branded refills—often half the price"
   - "Fits the SSSCAT spray unit without modification; nozzle alignment matches the sensor"
   - "Uses the same bitter apple + isopropyl alcohol formula that deters repeat offenders"
-cons:
+cons: 
   - "Inconsistent spray pattern—some cans mist weakly while others fire a hard jet"
   - "Canister lifespan runs shorter than claimed; heavy-use households report 15-20% fewer sprays"
   - "No expiry date printed on the can, making it hard to know if you're getting fresh stock"
+
 ---
 
 **The 3.3-star reality check: This refill works—when it works.**

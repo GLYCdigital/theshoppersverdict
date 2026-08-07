@@ -1,4 +1,5 @@
 ---
+
 title: "Portable Countertop Dishwasher with 5 Programs, 3-Cup Water "
 seo_title: "Portable Countertop Dishwasher with 5 Programs, 3- Review"
 meta_description: "Our full portable countertop dishwasher with 5 programs, 3-cup water  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08C6GQKQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611mdnszpiL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: a countertop dishwasher with a 3-cup water tank sounds like a gimmick. But after digging into the specs, the customer feedback (220 ratings at 4.4 stars), and the real-world constraints of apartment living, this little unit earns its place — with clear caveats.

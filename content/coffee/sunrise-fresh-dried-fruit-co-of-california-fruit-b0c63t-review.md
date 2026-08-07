@@ -1,4 +1,5 @@
 ---
+
 title: "SUNRISE FRESH DRIED FRUIT CO. OF CALIFORNIA FRUIT"
 seo_title: "SUNRISE FRESH DRIED FRUIT CO. OF CALIFORNIA FRUIT Review:"
 meta_description: "Our full sunrise fresh dried fruit co. of california fruit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C63T9KM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xVsfKDetL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this isn't a coffee maker. The product data says "coffee gear," but SUNRISE FRESH DRIED FRUIT CO. OF CALIFORNIA FRUIT is exactly what the name claims — dried fruit from California. If you're here expecting a review of a roaster or grinder, scroll on. For everyone else who accidentally clicked and now realizes this pairs brilliantly with your morning pour-over, let's dig in.

@@ -1,23 +1,25 @@
 ---
+
 title: "BLUEY Camping Activity Fort | Indoor and Outdoor Play House"
 seo_title: "BLUEY Camping Activity Fort Review: Is It Worth It? (2026)"
 meta_description: "Our honest BLUEY Camping Activity Fort review: build quality, setup, indoor/outdoor use, and what 220+ Amazon buyers really think. Buy or skip?"
 slug: "bluey-camping-activity-fort-indoor-and-outdoor-play-house-toy-for-kids-b0dk63-review"
 image_alt: "BLUEY Camping Activity Fort playhouse set up indoors with kids playing inside the tent-like fort"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK63JXZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C8TV6DbNL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Sturdy pop-up frame holds shape well on carpet and grass — no sagging after weeks of use"  
   - "Two side doors and a mesh window keep air flowing; kids don't overheat during long play sessions"  
   - "Bluey-themed details (campfire decal, paw prints) are printed, not stickers — they don't peel off"  
-cons:  
+cons: 
   - "Fabric is thin polyester; expect rips if kids are rough or if it snags on sharp toys"  
   - "No stakes or tie-downs included — it'll shift in moderate wind outdoors"
+
 ---
 
 ## Is the BLUEY Camping Activity Fort Worth Your Money?

@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Industrial Console Table, Hallway Table with 2 Mesh "
 seo_title: "VASAGLE Industrial Console Table, Hallway Table wi Review"
 meta_description: "Our full vasagle industrial console table, hallway table with 2 mesh  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08P2XH3HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zjX0I8uwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VASAGLE Industrial Console Table isn't just another flat-pack rectangle.** It's the piece that finally makes your entryway look intentional rather than accidental. With a 4.8-star average across 240 ratings, this table has clearly earned its place in hundreds of homes. But is it right for yours? Let's dig past the star rating and get to what matters.

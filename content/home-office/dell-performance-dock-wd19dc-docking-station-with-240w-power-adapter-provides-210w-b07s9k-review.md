@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dell Performance Dock WD19DC Docking Station with 240W Power"
 seo_title: "Dell WD19DC Docking Station Review: 240W Power for Big Laptops"
 meta_description: "Dell WD19DC docking station review: dual USB-C 240W power, dual display support, and fast charging. See real pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07S9KNR7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XFcUywiKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual USB-C cables deliver a genuine 210W to the laptop — enough to run and charge even the Dell Precision 7750 or a fully loaded XPS 17 inch"
   - "Daisy-chaining a second DP monitor at 4K 60Hz works flawlessly when using both USB-C connections"
   - "Front-facing USB-C and USB-A ports are conveniently placed for quick flash drive access"
-cons:
+cons: 
   - "Requires two USB-C ports on your laptop — if your machine only has one, this dock is useless to you"
   - "The 240W power brick is massive — roughly the size of a paperback novel and heavy enough to weigh down a bag"
   - "No Thunderbolt 3 support, so MacBook users and some newer Dell models will need the WD19TB instead"
+
 
 ---
 

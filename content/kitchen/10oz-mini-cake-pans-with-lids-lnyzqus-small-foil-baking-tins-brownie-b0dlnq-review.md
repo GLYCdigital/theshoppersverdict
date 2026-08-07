@@ -1,4 +1,5 @@
 ---
+
 title: "10oz Mini Cake Pans with Lids,LNYZQUS Small Foil Baking Tins"
 seo_title: "10oz Mini Cake Pans with Lids Review: LNYZQUS Foil Tins"
 meta_description: "Honest LNYZQUS 10oz mini cake pans with lids review. Are these foil baking tins worth $25.99? Real pros, cons, and buyer verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLNQ3F6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HGIW1U8JL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 10oz capacity with rigid foil that doesn't buckle — even with dense pound cake batter"
   - "Snap-on lids create a leak-resistant seal for gifting or fridge storage"
   - "Reusable — hand-wash carefully and you'll get 5+ bakes per pan, not single-use"
-cons:
+cons: 
   - "Foil is thin enough that hot pans need two hands; edges can bend if gripped aggressively"
   - "No included recipes or baking times — you'll need to adjust your standard recipes down"
   - "Lids are clear plastic, not foil — they'll crack if dropped or over-tightened"
+
 ---
 
 Let's be direct: you're looking at a $25.99 set of small foil pans and wondering if they're just overpriced disposables. Here's the short answer — no, but with a caveat. These LNYZQUS 10oz mini cake pans with lids occupy a weird middle ground between flimsy one-time tins and proper bakeware, and they do it better than most.

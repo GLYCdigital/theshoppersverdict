@@ -1,23 +1,25 @@
 ---
+
 title: "Home Composer 4 Pack DIY Bird House Wind Chime Kits for Chil"
 seo_title: "Home Composer 4-Pack DIY Bird House Wind Chime Kits Review"
 meta_description: "Home Composer 4-pack DIY bird house wind chime kits for kids: paint, assemble, and hang. Honest review of quality, paint, and value."
 slug: "home-composer-4-pack-diy-bird-house-wind-chime-kits-for-children-b08pz6-review"
 image_alt: "Home Composer 4-pack DIY bird house wind chime kits for children, unassembled wooden pieces with paint pots"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08PZ63BP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rcdXv71lL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Pre-cut wooden pieces fit snugly; no sanding needed out of the box"  
   - "Includes 4 complete kits — enough for a sibling group or birthday party activity"  
   - "Paints are washable and non-toxic, with good pigment payoff on raw wood"  
-cons:  
+cons: 
   - "Glue is not included; you'll need a strong wood glue for the chime rods"  
   - "Wind chime tubes are thin plastic, not metal — sound is more 'tink' than 'ring'"
+
 ---
 
 **If you're looking for a rainy-day craft that actually keeps kids busy for more than 20 minutes, the Home Composer 4-pack deserves a hard look.** At 4.3 stars from 215 ratings, this kit consistently lands in the "surprisingly good for the price" camp — but it has a couple of quirks you should know about before you hit buy.

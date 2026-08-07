@@ -1,4 +1,5 @@
 ---
+
 title: "Cantis Case for iPad 11-inch (A16) 2025, iPad 10th Generatio"
 seo_title: "Cantis iPad 11-Inch Case Review (2025 A16 & 10th Gen)"
 meta_description: "Cantis iPad 11-inch case review: durable build, multi-angle stand, and precise cutouts. See if this 4.6-star case fits your 2025 A16 or 10th Gen iPad."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D41TPT5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QMAtYDziL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise cutouts and snug fit for both the 2025 A16 and 10th Gen iPad 11-inch models"
   - "Multi-angle stand offers a stable typing wedge and two viewing positions"
   - "Magnetic sleep/wake lid works reliably — closes flush, wakes instantly"
-cons:
+cons: 
   - "Adds noticeable bulk; not the slim profile some minimalists expect"
   - "No Apple Pencil charging pass-through — you must remove the case to charge"
   - "Fabric exterior picks up lint and light scuffs over time"
+
 ---
 
 **The Cantis Case for iPad 11-inch (A16) 2025 and 10th Generation is a solid, utilitarian folio that nails the basics. After 229 ratings averaging 4.6 stars, it's clear this case earns its keep. But it's not flawless — here's the honest breakdown before you buy.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Nordic Pure Pleated MERV 10 Air Filters 12 Pack"
 seo_title: "Nordic Pure Pleated MERV 10 Air Filters 12 Pack Review: V"
 meta_description: "Our full nordic pure pleated merv 10 air filters 12 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX1FF9MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bn-45m7KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nordic Pure MERV 10 12-pack looks unremarkable at first glance — white cardboard frame, standard pleated media, the usual "3-month" promise printed on the box. But here's the thing: this is a 12-pack, and that changes the math entirely. If you're changing filters every 60–90 days like you're supposed to, you're looking at a year to 18 months of filters for the price of what you'd pay for 4–6 at a big-box hardware store. The 4.5-star rating across 225 reviews suggests I'm not the only one who noticed.

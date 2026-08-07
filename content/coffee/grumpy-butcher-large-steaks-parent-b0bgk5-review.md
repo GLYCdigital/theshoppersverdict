@@ -1,4 +1,5 @@
 ---
+
 title: "Grumpy Butcher Large Steaks-Parent"
 seo_title: "Grumpy Butcher Large Steaks-Parent Review: Verdict | TSV"
 meta_description: "Our full grumpy butcher large steaks-parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BGK5WP6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GaHSAswcL._SL1254_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s talk about what the Grumpy Butcher Large Steaks-Parent actually brings to your kitchen. Despite the name suggesting a butcher block or grill accessory, this is squarely coffee gear — a substantial drip brewer that’s carved out a 4.2-star reputation across 210 ratings. The name is odd, but the performance is what matters.

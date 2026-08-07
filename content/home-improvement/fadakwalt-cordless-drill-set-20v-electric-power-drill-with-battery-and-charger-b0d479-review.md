@@ -1,4 +1,5 @@
 ---
+
 title: "FADAKWALT Cordless Drill Set, 20V Electric Power Drill with"
 seo_title: "FADAKWALT 20V Cordless Drill Set Review: Worth It?"
 meta_description: "Honest FADAKWALT 20V cordless drill set review: power, battery life, build quality, and real buyer feedback. Is this budget drill worth your money?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D479PWJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716-xAIlpWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full accessory kit included — 26 pieces with drill bits, driver bits, and sockets"
   - "Two 20V batteries with fast charger for minimal downtime"
   - "Variable speed trigger with 18+1 torque settings for precise control"
-cons:
+cons: 
   - "Battery indicator light can be unreliable under load"
   - "Chuck is keyed rather than keyless — slower bit changes"
   - "No belt clip included despite the compact design"
+
 ---
 
 Look, I've tested enough budget cordless drills to be skeptical when a brand name sounds like it was assembled from spare syllables. But the FADAKWALT 20V Cordless Drill Set has earned its 4.5-star rating across 225 Amazon reviews. Here's what you're actually getting before you spend your money.

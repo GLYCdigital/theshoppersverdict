@@ -1,4 +1,5 @@
 ---
+
 title: "BUCATSTATE Hamster Cage Metal 3.0 - Chewproof Large Rat Cage"
 seo_title: "BUCATSTATE Hamster Cage Metal 3.0 Review: Chewproof & Spacious"
 meta_description: "Honest BUCATSTATE Hamster Cage Metal 3.0 review: chewproof design, stackable build, and ventilation. See if this large rat cage is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1VD4TS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YT1hfCZHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-metal construction with 0.8mm wire bars that actual chewers can't bend or break through"
   - "Deep 4-inch base tray holds 3+ inches of bedding, so burrowing species can tunnel properly"
   - "Tool-free stacking design lets you double or triple the vertical space without buying a whole new cage"
-cons:
+cons: 
   - "Assembly requires patience — the panels lock together with tension clips that take real force to seat"
   - "Bar spacing is tight enough for adult rats but too wide for mouse pups or dwarf hamster babies"
   - "No included shelves or ramps; you'll spend extra on platforms to maximize the vertical space"
+
 ---
 
 Let's be blunt: most "chewproof" cages are a marketing lie. A determined Syrian hamster can gnaw through thin galvanized wire in a night, and cheap plastic connectors crack within a month. The BUCATSTATE Metal 3.0 is one of the few cages that actually earns the label — but it's not without compromises.

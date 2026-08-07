@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde AccessPoint 001795 Combination TouchPoint Entry Key Lo"
 seo_title: "Kidde AccessPoint 001795 Combination TouchPoint En Review"
 meta_description: "Our full kidde accesspoint 001795 combination touchpoint entry key lo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0114ECWZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YcJpLqh7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most key lock boxes under $30 are flimsy plastic gadgets that scream "I'm hiding a spare key." The Kidde AccessPoint 001795 is different. It's a solid, metal-constructed entry lock that attaches directly to your door handle — no mounting hardware, no drilling, no leaving a key under a rock that says "key."

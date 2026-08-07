@@ -1,4 +1,5 @@
 ---
+
 title: "DUILE 5 Pcs Self Standing Unicorn Balloons - 3D Rainbow and Star Foil"
 seo_title: "DUILE Unicorn Balloons Review: Self-Standing Foil Set"
 meta_description: "Honest DUILE unicorn balloon review: 5 self-standing 3D foil balloons for birthdays. See what 210+ Amazon buyers say about quality, value, and ease."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CS32C1Z3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TkdXcuwvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Five separate balloons per pack — enough for a whole party scene, not just one accent piece"
   - "Self-standing bases actually work without helium; each balloon includes a weighted plastic stand"
   - "3D foil construction holds air for days, not hours — multiple buyers report lasting through the celebration"
-cons:
+cons: 
   - "Balloons arrive flat and require careful unfolding; foil creases are noticeable on lighter colors"
   - "Self-standing bases are a bit wobbly on carpet — need a flat, hard surface for best stability"
   - "Not reusable in practice — deflating and re-folding foil balloons without damage is fiddly"
+
 ---
 
 Planning a unicorn-themed party and dreading the helium run? The **DUILE 5 Pcs Self Standing Unicorn Balloons** cut that errand entirely. This set gives you five individual 3D foil balloons — unicorns, rainbows, stars — each with its own plastic base that lets them stand upright without gas. For a themed birthday or baby shower, that's a genuinely useful design.

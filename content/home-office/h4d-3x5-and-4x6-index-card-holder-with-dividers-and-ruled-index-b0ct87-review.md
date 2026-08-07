@@ -1,4 +1,5 @@
 ---
+
 title: "H4D 3x5 and 4x6 Index Card Holder with Dividers and Ruled In"
 seo_title: "H4D 3x5 and 4x6 Index Card Holder with Dividers an Review"
 meta_description: "Our full h4d 3x5 and 4x6 index card holder with dividers and ruled in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CT874Y2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nLEbsxDPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got a system. Index cards — whether for study sessions, recipe collections, or client notes — only work if they stay sorted and flat. The H4D 3x5 and 4x6 Index Card Holder aims to be the single box that handles both sizes without chaos. After digging through 229 ratings and the build details, here's the real picture.

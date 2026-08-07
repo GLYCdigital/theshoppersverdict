@@ -1,4 +1,5 @@
 ---
+
 title: "ERP IG9998 Universal Gas Range Oven Igniter"
 seo_title: "ERP IG9998 Oven Igniter Review: Reliable Fix for 2026 inch"
 meta_description: "Honest ERP IG9998 oven igniter review: compatibility, install tips, and real customer results. See if this $15 part fixes your gas range before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B006ZZU55Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510AsATJd7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Universal fit covers most major brands (GE, Whirlpool, Frigidaire, Samsung) with an adjustable mounting bracket"
   - "Genuine OEM-quality ceramic body and resistance wire rated for 3,000+ ignition cycles"
   - "Two-wire quick-connect system with 24-inch leads simplifies DIY replacement — no soldering required"
-cons:
+cons: 
   - "Not compatible with flat-surface igniters used in some newer slide-in ranges — check your old part first"
   - "Mounting holes are slightly wider than OEM specs on some Whirlpool models; may need minor bending of the bracket"
+
 ---
 
 When your oven won't light but the gas is flowing, you've got two options: pay a technician $150 to swap a $15 part, or spend 20 minutes doing it yourself. The ERP IG9998 is designed for the second option. Here's what you need to know before you order.

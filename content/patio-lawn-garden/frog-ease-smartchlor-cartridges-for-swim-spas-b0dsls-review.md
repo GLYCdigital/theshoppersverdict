@@ -1,4 +1,5 @@
 ---
+
 title: "FROG @Ease SmartChlor Cartridges for Swim Spas"
 seo_title: "FROG @Ease SmartChlor Cartridges Review (2026): Swim Spa Tested"
 meta_description: "Honest FROG @Ease SmartChlor cartridges review for swim spas. See how 3-week chlorine lasts, real water clarity results, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSLS195W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZsIgTpdNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One cartridge delivers up to 3 weeks of chlorine for swim spas up to 2,000 gallons — no daily shocking or measuring"
   - "Works with the FROG @Ease floating dispenser system, so chlorine levels stay consistent without constant testing"
   - "SmartChlor technology activates only when water flows through the cartridge, extending lifespan between uses"
-cons:
+cons: 
   - "Requires the separate FROG @Ease floating dispenser — not included, so factor in that upfront cost"
   - "Not suitable for saltwater swim spas or pools over 2,000 gallons; check your system before buying"
   - "Cartridges are pricey compared to granular chlorine, though the convenience offsets it for many users"
+
 ---
 
 **Bottom line:** If you own a swim spa and are tired of playing chemist every weekend, the FROG @Ease SmartChlor Cartridges are a legitimate timesaver. They're not cheap, and they won't work in every setup, but for the right owner, this is the closest thing to "set and forget" sanitizing you'll find.

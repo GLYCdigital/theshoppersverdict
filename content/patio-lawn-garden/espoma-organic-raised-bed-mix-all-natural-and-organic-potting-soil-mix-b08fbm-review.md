@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Raised Bed Mix - All Natural and Organic Pott"
 seo_title: "Espoma Organic Raised Bed Mix Review: Worth It? (2026)"
 meta_description: "Espoma Organic Raised Bed Mix review: 4.6-star soil for raised gardens. Real performance, drawbacks, and who should buy it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08FBM56FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WVIo13iyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-mixed with Espoma's proprietary Myco-Tone mycorrhizae, which colonizes roots and improves nutrient uptake from day one"
   - "Contains 30-40% composted organic matter by volume — noticeably richer than generic bagged raised bed fills"
   - "Holds moisture well in hot weather; 2-cubic-foot bag covers a 4x4x6-inch bed with minimal settling"
-cons:
+cons: 
   - "Bag weight (~35 lbs) is awkward to maneuver solo; plan for a wheelbarrow or second set of hands"
   - "No perlite in the mix — drainage is adequate but not excellent for containers with poor bottom drainage"
   - "Price per cubic foot runs higher than big-box store brands; you pay for the organic certification"
+
 ---
 
 If you've ever filled a raised bed with bargain topsoil only to watch your tomatoes sulk and your lettuce bolt, you know the difference soil makes. Espoma's Organic Raised Bed Mix aims to eliminate that guesswork. At 4.6 stars across 229 Amazon ratings, it's clearly doing something right — but is it worth the premium over the generic stuff? Here's the honest breakdown.

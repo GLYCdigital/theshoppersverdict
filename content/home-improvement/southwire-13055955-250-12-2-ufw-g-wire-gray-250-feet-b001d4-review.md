@@ -1,4 +1,5 @@
 ---
+
 title: "Southwire 13055955 250' 12-2 UFW/G Wire, Gray, 250 Feet"
 seo_title: "Southwire 13055955 250' 12-2 UFW/G Wire, Gray, 250 Review"
 meta_description: "Our full southwire 13055955 250' 12-2 ufw/g wire, gray, 250 feet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001D4A9EO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/913SbrU-VeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the confusion: if you're wiring a shed, a well pump, outdoor lighting, or a garage sub-feed, you need **UF-B cable**, not NM-B (Romex). This Southwire 12/2 with ground is the real deal — direct burial rated, solid copper, and built to survive decades underground. At 4.8 stars from 240 buyers, it's clearly doing something right. Here's what you need to know before you spend.

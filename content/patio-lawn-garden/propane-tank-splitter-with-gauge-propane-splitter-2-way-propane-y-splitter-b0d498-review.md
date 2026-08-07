@@ -1,4 +1,5 @@
 ---
+
 title: "Propane Tank Splitter with Gauge, Propane Splitter 2 Way, Pr"
 seo_title: "Propane Tank Splitter with Gauge, Propane Splitter Review"
 meta_description: "Our full propane tank splitter with gauge, propane splitter 2 way, pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D49868K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E7+hWEVeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

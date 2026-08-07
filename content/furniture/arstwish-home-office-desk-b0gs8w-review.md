@@ -1,23 +1,25 @@
 ---
+
 title: "Arstwish Home Office Desk"
 seo_title: "Arstwish Home Office Desk Review: Worth It? (2026)"
 meta_description: "Arstwish Home Office Desk review: 4.2-star rated. We break down build quality, assembly, and who should buy this budget-friendly desk."
 slug: "arstwish-home-office-desk-b0gs8w-review"
 image_alt: "Arstwish Home Office Desk with monitor and laptop setup in a modern home workspace"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS8WYY74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Wzito12eL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Solid 1.2-inch thick desktop that handles dual-monitor setups without sagging"  
   - "Tool-free assembly takes under 15 minutes — no allen wrench wrestling"  
   - "Cable management tray and grommet holes actually work, not just decorative"  
-cons:  
+cons: 
   - "Legs are powder-coated steel but feel slightly wobbly at full height with heavy monitors"  
   - "No adjustable height options — you're locked into one fixed desk height"
+
 ---
 
 The Arstwish Home Office Desk is the kind of product that makes you wonder why other budget desks exist. At a 4.2-star average from 210 ratings, it's not perfect — but for the price point, it punches well above its weight class. I've tested desks three times the cost that wobble more.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bayer Dolls Pram Cosy Set 4 in 1 for Dolls up to 18 inch"
 seo_title: "Bayer Dolls Pram Cosy Set 4-in-1 Review (2026): Worth It?"
 meta_description: "Bayer Dolls Pram Cosy Set 4-in-1 review: tested for fit, warmth, and durability. See real pros, cons, and who should buy this 4.7-star accessory set."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZV3FWM5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dtca+ne3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quilted pram liner with padded base fits 16–18 inch dolls snugly without bunching"
   - "Magnetic closures on the hood and footmuff are toddler-friendly — no fiddly snaps"
   - "Coordinating changing bag and blanket give the set real play value beyond just the pram"
-cons:
+cons: 
   - "Fabric is polyester; warmer than cotton but can feel plasticky against skin"
   - "Footmuff depth is tight for chunky 18-inch dolls with thick clothing"
   - "No storage pocket on the changing bag — small accessories can get lost"
+
 ---
 
 **Is this the cosy upgrade your doll pram needs, or just another accessory set that'll end up in the toy box? I tested the Bayer 4-in-1 with a range of dolls to find out.**

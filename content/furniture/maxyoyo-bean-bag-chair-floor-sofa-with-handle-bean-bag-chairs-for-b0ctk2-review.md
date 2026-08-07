@@ -1,4 +1,5 @@
 ---
+
 title: "MAXYOYO Bean Bag Chair, Floor Sofa with Handle, Bean Bag Cha"
 seo_title: "MAXYOYO Bean Bag Chair, Floor Sofa with Handle, Be Review"
 meta_description: "Our full maxyoyo bean bag chair, floor sofa with handle, bean bag cha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CTK2JDB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mx9+Dds9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s skip the pleasantries. You’re looking at a bean bag chair that costs less than a night out, and you want to know if it’ll actually hold up. I’ve spent time with the MAXYOYO Bean Bag Chair, and here’s the unvarnished picture.

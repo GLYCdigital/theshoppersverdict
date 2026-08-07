@@ -1,4 +1,5 @@
 ---
+
 title: "Fluke 325 True-RMS Clamp Meter with Frequency, Temperature &"
 seo_title: "Fluke 325 True-RMS Clamp Meter Review: Worth It? [2026]"
 meta_description: "Fluke 325 True-RMS clamp meter review: accuracy, build quality, and real-world performance. See if it's worth the premium price for electricians."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0091EXB2A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VwXbOhWjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-RMS accuracy on non-linear loads — handles VFDs and switch-mode power supplies without reading errors"
   - "Built-in temperature measurement with Type K thermocouple input saves you from carrying a separate meter"
   - "CAT III 600V safety rating with 0.9% basic DC accuracy — genuinely safe for commercial panel work"
-cons:
+cons: 
   - "Jaw opening is only 1.2 inches — too small for 500 MCM or larger bus bars, so you'll still need a bigger clamp for heavy industrial work"
   - "No backlight on the display — the screen is hard to read in dim crawl spaces or dark panels"
   - "Significant price premium over comparable Uni-T or Klein meters that offer similar features for half the cost"
+
 ---
 
 ## The Fluke 325: Is the Premium Price Actually Justified?

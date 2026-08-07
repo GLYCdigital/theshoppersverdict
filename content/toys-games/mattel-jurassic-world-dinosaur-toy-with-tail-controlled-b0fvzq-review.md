@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Jurassic World Dinosaur Toy with Tail-Controlled"
 seo_title: "Mattel Jurassic World Dinosaur Toy with Tail-Contr Review"
 meta_description: "Our full mattel jurassic world dinosaur toy with tail-controlled review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVZQBJKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LLkFn0GQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If your kid has ever dragged a toy dinosaur around by the tail pretending it's hunting, this Mattel Jurassic World figure actually delivers on that fantasy — minus the batteries-for-sound gimmicks.**

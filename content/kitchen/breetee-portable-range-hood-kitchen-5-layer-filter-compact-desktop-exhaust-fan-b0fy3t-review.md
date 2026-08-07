@@ -1,4 +1,5 @@
 ---
+
 title: "BREETEE Portable Range Hood Kitchenâ€“5-Layer Filter Compact"
 seo_title: "BREETEE Portable Range Hood Review: Compact 5-Layer Filter"
 meta_description: "BREETEE portable range hood review: 5-layer filter, compact design, real performance data. See pros, cons, and who should buy this desktop exhaust fan."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FY3T1WXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e22t9m5uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5-layer aluminum mesh filter actually traps grease and smoke at the source, not just recirculating it"
   - "Compact footprint (roughly 12 inches wide) fits under upper cabinets or on countertops without permanent installation"
   - "Includes carbon filter option for true recirculating mode when ducting isn't possible"
-cons:
+cons: 
   - "Suction power tops out around 120 CFM — adequate for a single burner or griddle, not for heavy searing on multiple burners"
   - "Filter requires regular degreasing; the 5 layers mean more surfaces to clean than a standard single-mesh hood"
   - "Fan noise is noticeable at max speed — fine for conversation, but you'll raise your voice"
+
 ---
 
 # BREETEE Portable Range Hood Kitchen Review: Does This Compact Exhaust Fan Actually Work?

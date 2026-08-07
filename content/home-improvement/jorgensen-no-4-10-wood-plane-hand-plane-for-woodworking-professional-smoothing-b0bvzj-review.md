@@ -1,7 +1,8 @@
 ---
-title: "JORGENSEN No.4 10\" Wood Plane , Hand Plane for Woodworking, "
-seo_title: "JORGENSEN No.4 10\" Wood Plane , Hand Plane for Woo Review"
-meta_description: "Our full jorgensen no.4 10\" wood plane , hand plane for woodworking,  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JORGENSEN No.4 10\ Wood Plane , Hand Plane for Woodworking, "
+seo_title: "JORGENSEN No.4 10\ Wood Plane , Hand Plane for Woo Review"
+meta_description: "Our full jorgensen no.4 10\ wood plane , hand plane for woodworking,  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "jorgensen-no-4-10-wood-plane-hand-plane-for-woodworking-professional-smoothing-b0bvzj-review"
 image_alt: "JORGENSEN No.4 10 Wood Plane , Hand Plane for Woodworking, Professional Smoothing Plane for Trimming, Craft - Hand Plane"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVZJ15S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SHGS2g5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The JORGENSEN No.4 is the kind of tool that makes you ask why you waited so long to ditch power sanders. At 10 inches long with a 2-inch blade, this is a classic smoothing plane — the one tool every furniture maker keeps within arm's reach. But here's the thing about budget-priced planes: they're either diamond rough or hidden gems. After 225 Amazon ratings averaging 4.5 stars, this one leans hard toward gem territory, though it's not without quirks.

@@ -1,4 +1,5 @@
 ---
+
 title: "Single Panels"
 seo_title: "Single Panels Review: Verdict | TSV"
 meta_description: "Our full single panels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJTS9H8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/917hy880VXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Single Panels Review: Privacy Screens That Actually Deliver**

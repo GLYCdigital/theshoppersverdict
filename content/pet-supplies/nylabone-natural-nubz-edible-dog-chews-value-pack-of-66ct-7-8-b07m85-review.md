@@ -1,4 +1,5 @@
 ---
+
 title: "Nylabone Natural Nubz Edible Dog Chews Value Pack of 66ct. /"
 seo_title: "Nylabone Natural Nubz Edible Dog Chews Value Pack  Review"
 meta_description: "Our full nylabone natural nubz edible dog chews value pack of 66ct. / review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07M85ZRLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aeD4sjTlL._AC_SL1474_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your dog demolishes a bully stick in four minutes flat, you know the pain of watching money turn into slobber.** The Nylabone Natural Nubz Value Pack of 66ct is designed to solve that problem—or at least make it affordable enough to stop crying about it.

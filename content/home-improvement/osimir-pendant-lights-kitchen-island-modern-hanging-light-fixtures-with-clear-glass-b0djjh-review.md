@@ -1,4 +1,5 @@
 ---
+
 title: "Osimir Pendant Lights Kitchen Island, Modern Hanging Light F"
 seo_title: "Osimir Pendant Lights Kitchen Island, Modern Hangi Review"
 meta_description: "Our full osimir pendant lights kitchen island, modern hanging light f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJJHTVRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51P70OIoMlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Osimir Pendant Lights Review: Is This $60 Kitchen Island Fixture Worth It?

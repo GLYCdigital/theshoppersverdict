@@ -1,4 +1,5 @@
 ---
+
 title: "Google Nest Learning Thermostat - 3rd Gen - Programmable Sma"
 seo_title: "Google Nest Learning Thermostat - 3rd Gen - Progra Review"
 meta_description: "Our full google nest learning thermostat - 3rd gen - programmable sma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZF6W26P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61upql0BSGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The smart thermostat that actually learns — but is it worth the premium in 2026?**

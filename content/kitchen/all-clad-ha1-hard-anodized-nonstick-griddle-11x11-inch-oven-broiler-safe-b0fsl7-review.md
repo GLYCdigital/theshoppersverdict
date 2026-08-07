@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad HA1 Hard Anodized Nonstick Griddle 11x11 Inch Oven"
 seo_title: "All-Clad HA1 Griddle Review: 11x11 Nonstick Pan Worth It?"
 meta_description: "All-Clad HA1 hard anodized nonstick griddle review: broiler-safe, oven-safe to 500°F. Is this 11x11 pan worth the price? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSL73QSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b37-+LuHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True All-Clad build quality — thick hard anodized body heats evenly across the full 11x11 surface, no hot spots when searing"
   - "Genuinely oven-safe to 500°F including the stainless handle, so it moves from stovetop to broiler without a towel-wrapped panic"
   - "Nonstick surface releases eggs, pancakes, and fish with minimal oil — buyers report it holding up after months of daily use"
-cons:
+cons: 
   - "11x11 square is compact — fits four standard pancakes max; larger families will want the 13-inch version"
   - "Not induction-compatible despite the hard anodized base, which rules it out for a growing segment of induction cooktop owners"
   - "Shorter side walls (about 1 inch) mean bacon splatter escapes — this is a griddle, not a skillet, so plan accordingly"
+
 ---
 
 The All-Clad HA1 11x11 griddle occupies an oddly specific sweet spot. It's not the biggest griddle you can buy, and it's not the cheapest. But if you're tired of thin nonstick pans that warp after three months, this square of hard anodized aluminum is built like a tank and cooks like one too.

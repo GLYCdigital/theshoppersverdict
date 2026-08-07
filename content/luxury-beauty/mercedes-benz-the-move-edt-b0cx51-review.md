@@ -1,4 +1,5 @@
 ---
+
 title: "Mercedes-Benz The Move EDT"
 seo_title: "Mercedes-Benz The Move EDT Review: Verdict | TSV"
 meta_description: "Our full mercedes-benz the move edt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX51LYFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pdi9Uz+HL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Mercedes-Benz The Move EDT: A Surprisingly Serious Luxury Scent

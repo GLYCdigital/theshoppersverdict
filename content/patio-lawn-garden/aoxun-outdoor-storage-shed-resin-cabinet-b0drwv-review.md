@@ -1,4 +1,5 @@
 ---
+
 title: "Aoxun Outdoor Storage Shed, Resin Cabinet"
 seo_title: "Aoxun Outdoor Storage Shed Review: Worth It? (2026)"
 meta_description: "Honest Aoxun Outdoor Storage Shed review: build quality, weather resistance, assembly time, and real buyer feedback. Is this resin cabinet worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRWV7S7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K+d4QDwML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall resin panels resist warping and UV damage better than thin plastic sheds in the same price bracket"
   - "Assembles in under an hour with no tools required — panels click together with a mallet, not screws"
   - "Two adjustable shelving tracks let you reconfigure interior height for tall tools or stacked bins"
-cons:
+cons: 
   - "Floor is not included — you'll need to set it on concrete, pavers, or a wooden base or the door will drag"
   - "Lacks internal locking hasp; the included padlock tab is flimsy and can be pried open with moderate force"
+
 ---
 
 **The $200 resin shed that won't warp in the sun — but read this before you buy**

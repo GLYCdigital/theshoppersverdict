@@ -1,4 +1,5 @@
 ---
+
 title: "GobiDex 100PCS Magnetic Blocks Kid Building Toys for 3+ Year"
 seo_title: "GobiDex 100PCS Magnetic Blocks Review: Worth It? (2026)"
 meta_description: "GobiDex 100PCS magnetic blocks review: 4.8-star rated building toy for ages 3+. Strong magnets, 100 pieces, $23.99. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D3PL4CP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/917x5II26fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Strong neodymium magnets hold structures firmly — towers and bridges stay up even with rough play from younger kids"
   - "100 pieces at $23.99 works out to about 24 cents per tile, which undercuts most comparable sets by 30-40%"
   - "BPA-free ABS plastic with rounded corners and sealed edges — no sharp points or pinch hazards for 3-year-olds"
-cons:
+cons: 
   - "No storage bag or bin included — the 100 pieces arrive loose in a thin cardboard box that won't survive long-term use"
   - "Instruction booklet only shows 8 basic models; kids who need guided builds will outgrow it quickly"
+
 ---
 
 Let me be direct: most magnetic tile sets under $25 are garbage. Weak magnets, flimsy plastic, pieces that crack the first time a toddler drops them. The GobiDex 100PCS set isn't that. But it's also not a premium Magna-Tiles replacement. Here's the real breakdown.

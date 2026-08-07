@@ -1,4 +1,5 @@
 ---
+
 title: "DecoBasics 1/2 inch  Overlay 3/4 inch  Frame Partial Semi Wrap Cabinet"
 seo_title: "DecoBasics Semi Wrap Cabinet Hinge Review (2026): 4.6 Stars"
 meta_description: "DecoBasics 1/2 inch  overlay 3/4 inch  frame partial semi wrap hinge review. 4.6/5 from 229 buyers. Sturdy steel, easy install, but check your overlay first."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096RX5SZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+qZCQMewL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 1.2mm cold-rolled steel construction with anti-rust coating — these won't sag or corrode in humid kitchens"
   - "Pre-drilled screw holes match standard 3/4-inch face frames perfectly; no pilot hole guessing"
   - "Self-closing mechanism is consistent across all four hinges in the pack — no 'one lazy hinge' problem"
-cons:
+cons: 
   - "No soft-close feature — if you're used to gentle cabinet closures, these will click"
   - "The included screws are basic zinc-plated; upgrade to stainless if mounting in a coastal or high-humidity area"
+
 ---
 
 You're mid-renovation, staring at a cabinet door that won't hang straight. The old hinge is stripped, the new one you grabbed from the big-box store doesn't match your 3/4-inch face frame, and you're about to make a third trip. The DecoBasics 1/2" Overlay 3/4" Frame Partial Semi Wrap Hinge is the "buy once, stop thinking about it" solution for this exact moment.

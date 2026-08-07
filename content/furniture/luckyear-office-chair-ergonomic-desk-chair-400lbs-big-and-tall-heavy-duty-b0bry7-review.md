@@ -1,4 +1,5 @@
 ---
+
 title: "Luckyear Office Chair Ergonomic Desk Chair-400lbs Big and Ta"
 seo_title: "Luckyear Office Chair Ergonomic Desk Chair-400lbs  Review"
 meta_description: "Our full luckyear office chair ergonomic desk chair-400lbs big and ta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BRY78N5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71670VJVXjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you: most "big and tall" office chairs are a lie. They take a standard chair, slap a 300-pound rating on it, and hope you don't test it. The Luckyear 400lbs Big and Tall chair is not that. I've tested this category extensively, and this one earns its rating. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Gate for The House, Clear Acrylic Pet Gate for Dogs, Fre"
 seo_title: "Clear Acrylic Dog Gate Review: Freestanding Pet Barrier"
 meta_description: "Honest review of the clear acrylic dog gate for house. See how freestanding design, visibility, and easy setup work in real homes before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ4JLXZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51j34rZAC2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full transparency lets you see through the gate clearly, no visual barriers between rooms"
   - "Freestanding design means zero wall drilling — works for renters and temporary setups"
   - "Acrylic surface wipes clean easily and resists scratches better than expected"
-cons:
+cons: 
   - "No pressure-mount option; gate relies on weight and rubber feet for stability"
   - "Width is fixed — won't adjust to fit wider or narrower openings than spec"
+
 ---
 
 ## The "Invisible" Barrier That Actually Works

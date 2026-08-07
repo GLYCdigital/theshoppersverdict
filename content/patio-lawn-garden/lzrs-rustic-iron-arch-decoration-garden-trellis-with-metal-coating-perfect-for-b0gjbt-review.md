@@ -1,4 +1,5 @@
 ---
+
 title: "LZRS Rustic Iron Arch Decoration Garden Trellis with Metal C"
 seo_title: "LZRS Rustic Iron Arch Decoration Garden Trellis wi Review"
 meta_description: "Our full lzrs rustic iron arch decoration garden trellis with metal c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GJBT2DSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WB3fV-b+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most garden trellises under $50 are flimsy wire contraptions that buckle under a single zucchini vine. The LZRS Rustic Iron Arch is not that. At 4.6 stars across 229 ratings, this is one of those rare budget finds that actually feels like it was built by someone who gardens.

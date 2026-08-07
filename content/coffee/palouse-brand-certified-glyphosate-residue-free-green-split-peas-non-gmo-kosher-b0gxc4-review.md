@@ -1,4 +1,5 @@
 ---
+
 title: "Palouse Brand Certified Glyphosate Residue Free Green Split "
 seo_title: "Palouse Brand Certified Glyphosate Residue Free Gr Review"
 meta_description: "Our full palouse brand certified glyphosate residue free green split  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXC4DMYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81txtqf29lL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this is: Palouse Brand is selling split peas at a premium price because they've done something almost nobody else in this category bothers to do — they've independently verified that their product contains no glyphosate residue. The question is whether that certification justifies the price tag for your kitchen. After digging through the specs, the testing protocols, and what 240 buyers actually experienced, here's the full picture.

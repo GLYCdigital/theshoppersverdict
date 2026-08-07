@@ -1,4 +1,5 @@
 ---
+
 title: "Rechargeable Portable and Cordless Mini Food Processor 300ML"
 seo_title: "Rechargeable Portable and Cordless Mini Food Proce Review"
 meta_description: "Our full rechargeable portable and cordless mini food processor 300ml review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B091B2J7LT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dgs-6tioL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise here. You've seen a dozen "mini choppers" on Amazon, all promising to replace your full-size food processor. Most are plastic junk with weak motors that die after three uses. This one is different — but it's also not what some listings imply.

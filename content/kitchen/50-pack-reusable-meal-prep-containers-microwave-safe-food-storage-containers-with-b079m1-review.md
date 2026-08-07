@@ -1,4 +1,5 @@
 ---
+
 title: "50-Pack Reusable Meal Prep Containers Microwave Safe Food St"
 seo_title: "50-Pack Meal Prep Containers Review: Worth It? (2026)"
 meta_description: "Honest review of 50-pack reusable meal prep containers: microwave-safe, leak-resistant, and budget-friendly. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B079M174TQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815JjiBlrBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "At $0.41 per container, this is one of the cheapest per-unit costs for reusable meal prep containers on Amazon"
   - "Containers are microwave-safe and dishwasher-safe (top rack), surviving repeated heating without warping"
   - "Leak-resistant snap-on lids with 4 locking tabs keep liquids contained during transport"
-cons:
+cons: 
   - "Lids are not completely airtight — thin liquids like soup can seep if you shake or tilt the container"
   - "BPA-free plastic is lightweight and can crack if dropped on hard floors, especially when cold"
+
 ---
 
 **The math on these containers is almost too good to ignore.**

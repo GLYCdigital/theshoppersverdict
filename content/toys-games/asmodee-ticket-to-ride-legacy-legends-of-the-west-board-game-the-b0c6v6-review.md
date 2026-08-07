@@ -1,4 +1,5 @@
 ---
+
 title: "Asmodee Ticket to Ride Legacy: Legends of The West Board Gam"
 seo_title: "Ticket to Ride Legacy Review: Is Legends of the West Worth It?"
 meta_description: "Ticket to Ride Legacy: Legends of the West review — 12-game campaign, permanent map changes, and real stakes. See if this 4.7-star board game earns your table."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6V67YZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91g4rzcbiPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Permanent sticker-and-pen map changes make every decision carry real weight across the full 12-game campaign"
   - "Legacy mechanics work seamlessly with the classic Ticket to Ride route-building — no new players left behind"
   - "Sticker book, secret envelopes, and legacy deck add genuine surprise without gimmicky randomness"
-cons:
+cons: 
   - "Strictly a campaign game — once the 12 sessions end, the board is spent and replayability drops hard"
   - "Requires the same 4-5 player group for the full experience; dropping players mid-campaign creates awkward gaps"
   - "Game night needs 60-90 minutes minimum — this is not a quick filler round of standard Ticket to Ride"
+
 ---
 
 # Ticket to Ride Legacy: Legends of the West Review — A 12-Game Railroad Saga Worth Every Minute

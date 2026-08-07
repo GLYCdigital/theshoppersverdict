@@ -1,4 +1,5 @@
 ---
+
 title: "Verizon/Fios Wi Fi Home Router G3100 ,tri band"
 seo_title: "Verizon/Fios Wi Fi Home Router G3100 ,tri band Review: Ve"
 meta_description: "Our full verizon/fios wi fi home router g3100 ,tri band review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B082BLM2KH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M1Kxq7HHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a Verizon Fios subscriber, the G3100 is likely already sitting in your closet or on your desk — either as a rental or a $299 purchase. But is it actually good, or are you just stuck with it? I tested this tri-band Wi-Fi 6 router against a few retail alternatives to find out where it shines and where it frustrates.

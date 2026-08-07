@@ -1,4 +1,5 @@
 ---
+
 title: "CM Scrubber Chainmail Scrubber"
 seo_title: "CM Scrubber Chainmail Scrubber Review: Real Cleaning Power"
 meta_description: "CM Scrubber Chainmail Scrubber review: Does this stainless steel scrubber clean cast iron and remove stuck-on food? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BMBCL9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iqKDDEUUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rust-proof 316 stainless steel construction won't corrode or shed particles into food"
   - "Cleans cast iron, carbon steel, and stainless steel without stripping seasoning—just rinse and wipe dry"
   - "Ergonomic handle design keeps hands dry and gives you leverage on tough baked-on residue"
-cons:
+cons: 
   - "Not for non-stick pans or ceramic coatings—the abrasiveness will scratch them"
   - "Requires thorough rinsing after each use to prevent food particles from lodging in the mesh"
+
 ---
 
 If you've ever stared down a cast iron skillet with burnt cheese welded to the surface, you know the drill: soak it, scrape it, curse it, repeat. The CM Scrubber Chainmail Scrubber claims to end that cycle with a simple loop of stainless steel. After digging through 235 ratings and the real-world feedback behind that 4.7-star average, here's what actually matters before you add it to your cart.

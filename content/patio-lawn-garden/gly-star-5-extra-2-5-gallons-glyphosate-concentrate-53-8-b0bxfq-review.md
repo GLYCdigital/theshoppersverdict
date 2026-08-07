@@ -1,4 +1,5 @@
 ---
+
 title: "Gly Star 5 Extra (2.5 Gallons) Glyphosate Concentrate...53.8"
 seo_title: "Gly Star 5 Extra (2.5 Gallons) Glyphosate Concentr Review"
 meta_description: "Our full gly star 5 extra (2.5 gallons) glyphosate concentrate...53.8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BXFQGGL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UTvfIIkcL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of paying triple for half-strength weed killer in a spray bottle, this 2.5-gallon jug of Gly Star 5 Extra is the grown-up choice. At 53.8% glyphosate — the same active ingredient as Roundup but at roughly double the concentration — this is the stuff farmers actually buy, repackaged for serious homeowners.

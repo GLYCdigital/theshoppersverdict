@@ -1,4 +1,5 @@
 ---
+
 title: "Fencing"
 seo_title: "Fencing Review: Honest Look Before You Buy (2026)"
 meta_description: "Read our hands-on fencing review covering build quality, real-world performance, and buyer feedback. See pros, cons, and who should buy before spending."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZ96SY17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VD1MEPt3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-galvanized steel core resists rust significantly better than raw steel panels in coastal or high-humidity climates"
   - "Pre-drilled holes align perfectly with standard 4x4 posts, cutting installation time roughly in half compared to field-drilling"
   - "Powder-coated finish holds up against UV fade — multiple buyers report no color change after two full summers"
-cons:
+cons: 
   - "Panels arrive with minor surface scratches from shipping; touch-up paint is included but matches imperfectly on darker colors"
   - "At roughly 42 lbs per 6-foot section, solo installation is physically demanding — plan for a second person or a panel lifter"
+
 ---
 
 Fencing is one of those purchases where you don't realize how much you needed it until you're staring at your neighbor's yard during a barbecue. This particular panel system has earned a 4.5-star average across 225 ratings, which tells me real buyers are mostly satisfied — but not universally thrilled. Here's the unfiltered breakdown.

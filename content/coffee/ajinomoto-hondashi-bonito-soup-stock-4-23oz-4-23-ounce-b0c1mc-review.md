@@ -1,4 +1,5 @@
 ---
+
 title: "Ajinomoto HONDASHI Bonito Soup Stock 4.23oz, 4.23 Ounce"
 seo_title: "Ajinomoto HONDASHI Bonito Stock Review: Is It Worth It?"
 meta_description: "Honest Ajinomoto HONDASHI bonito soup stock review: flavor, uses, MSG content, and value. See if this 4.23oz dashi base earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1MCFTDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tI9HcoyUL._SL1134_.jpg"
-pros:
+pros: 
   - "Instant umami depth that mimics hours-simmered dashi — a half teaspoon transforms plain water into flavorful broth"
   - "Incredibly shelf-stable and versatile; works for soups, rice dishes, dipping sauces, and braising liquids"
   - "Low calorie and low sodium per serving compared to liquid stock concentrates — about 10 calories and 320mg sodium per teaspoon"
-cons:
+cons: 
   - "Contains MSG (monosodium glutamate) and bonito fish — not suitable for those avoiding either"
   - "4.23oz jar is small; frequent cooks will go through it quickly, making per-use cost higher than buying bulk"
   - "Fish-forward flavor can overpower delicate dishes if you over-measure — precise dosing matters"
+
 ---
 
 Here's the thing about HONDASHI: it's the dashi equivalent of a cheat code. This 4.23-ounce jar of golden granules is what Japanese home cooks have been using for decades when they don't have three hours to simmer kombu and bonito flakes from scratch. And honestly? The shortcut works.

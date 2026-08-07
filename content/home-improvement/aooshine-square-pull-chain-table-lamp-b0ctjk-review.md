@@ -1,4 +1,5 @@
 ---
+
 title: "aooshine Square Pull Chain Table Lamp Review"
 seo_title: "aooshine Square Pull Chain Table Lamp Review (2026): Worth It?"
 meta_description: "Honest aooshine Square Pull Chain Table Lamp review: build quality, brightness, real buyer feedback, and who should buy it. 4.6/5 rating analyzed."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTJK67JP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ib3NrbEDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy metal base and square column don't wobble; no assembly required beyond plugging in"
   - "Pull chain gives a satisfying, tactile on/off that avoids fumbling for a switch in the dark"
   - "Fabric shade diffuses light evenly, reducing harsh glare for reading or bedside use"
-cons:
+cons: 
   - "Requires an E26 bulb — not included — so factor in an extra $5–8 for a quality LED"
   - "Chain is on the shorter side; if you place the lamp on a tall dresser, you'll have to reach for it"
   - "The 15-inch height is compact; not ideal as a primary room light for larger spaces"
+
 ---
 
 If you're tired of fumbling for a tiny switch in the dark, the aooshine Square Pull Chain Table Lamp is a small but meaningful upgrade to your bedside setup. This is a no-frills, functional lamp that does exactly what it promises — and at a 4.6/5 average across 229 ratings, buyers mostly agree.

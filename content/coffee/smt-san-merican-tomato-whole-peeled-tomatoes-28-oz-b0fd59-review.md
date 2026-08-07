@@ -1,4 +1,5 @@
 ---
+
 title: "SMT San Merican Tomato Whole Peeled Tomatoes, 28 oz"
 seo_title: "SMT San Merican Tomato Whole Peeled Tomatoes, 28 o Review"
 meta_description: "Our full smt san merican tomato whole peeled tomatoes, 28 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD59W851/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UBHKdJPXL._SL1080_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most canned tomatoes taste like tin and regret. The SMT San Merican Tomato whole peeled tomatoes are not most canned tomatoes. At 4.8 stars across 240 ratings, this 28-ounce can has earned a following among home cooks who care about their sauce. The question is whether it lives up to the hype — or just the price tag.

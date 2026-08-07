@@ -1,4 +1,5 @@
 ---
+
 title: "Aromaster Burr Coffee Grinder with 48 Gind Settings, Conical"
 seo_title: "Aromaster Burr Coffee Grinder Review: 48 Settings Tested"
 meta_description: "Aromaster burr coffee grinder review: 48 grind settings, conical burs, real customer feedback. Is this budget grinder worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DTHPXMN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61swhAjp1gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "48 grind settings from espresso-fine to French press coarse, with a stepless-style adjustment ring that clicks into place"
   - "Conical steel burs produce noticeably more consistent grounds than blade grinders at this price point"
   - "Quiet operation — measured under 70dB in real-world use, so early-morning grinding won't wake the household"
-cons:
+cons: 
   - "Static cling causes grounds to stick to the collection cup and chute; a spritz of water on beans helps but shouldn't be necessary"
   - "The 30-second auto-shutoff timer is awkward for larger batches — you'll need to restart it for anything beyond a single dose"
+
 ---
 
 **Is the Aromaster Burr Coffee Grinder the budget-friendly upgrade your morning routine needs?** For anyone stuck with a blade grinder that produces powdery fines and boulder-sized chunks, the jump to a burr grinder is the single biggest upgrade you can make to your coffee — and the Aromaster is squarely aimed at that transition. With 48 grind settings and conical steel burs at a price that undercuts the big-name competition, it's earned a 4.2-star average from 210 Amazon ratings. Here's the honest breakdown.

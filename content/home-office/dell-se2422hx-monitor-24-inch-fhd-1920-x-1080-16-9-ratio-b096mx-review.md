@@ -1,4 +1,5 @@
 ---
+
 title: "Dell SE2422HX Monitor - 24 inch FHD (1920 x 1080) 16:9 Ratio"
 seo_title: "Dell SE2422HX Review: 24-Inch FHD Monitor Worth It?"
 meta_description: "Dell SE2422HX 24-inch FHD monitor review: sharp 1080p, slim bezels, eye-care tech. Is it the right budget office display? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096MXR34N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xrHN1BYFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "IPS panel with 178° viewing angles and accurate color out of the box (99% sRGB coverage)"
   - "Ultra-thin 3-sided bezel design that makes it ideal for dual-monitor setups"
   - "Built-in ComfortView Plus reduces blue light emissions without washing out colors"
-cons:
+cons: 
   - "Only 75Hz refresh rate and no DisplayPort — HDMI and VGA only"
   - "Stand offers tilt only; no height adjustment or VESA mounting via the included base"
+
 ---
 
 **The office monitor that quietly gets everything right — and a few things wrong.**

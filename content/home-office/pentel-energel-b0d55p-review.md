@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel EnerGel"
 seo_title: "Pentel EnerGel Review: Verdict | TSV"
 meta_description: "Our full pentel energel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D55P25S7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wu1MSSLwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever written a page of notes, flipped it over, and found a mirrored smudge of everything you just wrote, you know the gel pen struggle. The Pentel EnerGel exists to end that particular frustration, and after putting it through real office use, I can confirm it mostly delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lundberg Basmati Rice, Organic Long Grain White Rice - Non-S"
 seo_title: "Lundberg Basmati Rice, Organic Long Grain White Ri Review"
 meta_description: "Our full lundberg basmati rice, organic long grain white rice - non-s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000VKA1SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7103lBjnt6L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about something: basmati rice is not all the same. The chemical-laden, dusty stuff in the bargain bin cooks into a sad, clumpy paste. Lundberg's Organic Long Grain White Basmati sits at the premium end of the shelf, and it earns that position — mostly. At 4.6 stars across 229 Amazon ratings, this is a rice that shoppers consistently repurchase. Here's what you're actually paying for.

@@ -1,4 +1,5 @@
 ---
+
 title: "Unicozin Table Lamp 3 CCT 3000K/4500K/6500K & RGB Color Chan"
 seo_title: "Unicozin Table Lamp 3 CCT 3000K/4500K/6500K & RGB  Review"
 meta_description: "Our full unicozin table lamp 3 cct 3000k/4500k/6500k & rgb color chan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DHWX72YC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71edrzviwXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the Unicozin Table Lamp: it's not trying to reinvent lighting, but it packs more color and temperature flexibility than most lamps twice its price. With 204 ratings averaging 4.1 stars, it's a solid mid-tier option — but it has quirks you should know before buying.

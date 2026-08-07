@@ -1,4 +1,5 @@
 ---
+
 title: "lexall LED Work Light, 1600 Lumens Mini Magnetic Flat EDC Fl"
 seo_title: "lexall LED Work Light, 1600 Lumens Mini Magnetic F Review"
 meta_description: "Our full lexall led work light, 1600 lumens mini magnetic flat edc fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9Q83HM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U9E2aeqRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most "work lights" are either too bulky to carry or too weak to actually light anything up. The lexall 1600 Lumen Mini Magnetic Flat EDC sits in a rare sweet spot — pocket-sized but genuinely bright. After spending time with it, here's what I found.

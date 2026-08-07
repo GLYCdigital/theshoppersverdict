@@ -1,4 +1,5 @@
 ---
+
 title: "Slofoodgroup Ceylon Cinnamon Sticks - Pure Ceylon Cinnamon Q"
 seo_title: "Slofoodgroup Ceylon Cinnamon Sticks - Pure Ceylon  Review"
 meta_description: "Our full slofoodgroup ceylon cinnamon sticks - pure ceylon cinnamon q review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01NCT6B7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ELJlOousS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cinnamon sold in American grocery stores isn't cinnamon. It's cassia — a harder, cheaper bark with a harsher flavor and significantly higher coumarin levels. Slofoodgroup's Ceylon sticks are the real thing, and if you've been stirring cassia into your coffee for years, the difference is immediate. These are thin, tightly rolled quills with that characteristic papery layering you only see in genuine *Cinnamomum verum*.

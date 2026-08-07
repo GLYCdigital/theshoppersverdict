@@ -1,4 +1,5 @@
 ---
+
 title: "Hongdian Fountain Pen Bottled Ink, 60ml Non Carbon Inkwell B"
 seo_title: "Hongdian Fountain Pen Bottled Ink, 60ml Non Carbon Review"
 meta_description: "Our full hongdian fountain pen bottled ink, 60ml non carbon inkwell b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TVXVRP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5100gbWoVKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the ink snobbery for a second. You don't need a $40 bottle of Japanese import to get a satisfying writing experience. The Hongdian 60ml Non-Carbon Inkwell B sits in that sweet spot where price, performance, and volume actually make sense for daily use — and with 235 Amazon ratings averaging 4.7 stars, I'm not the only one who thinks so.

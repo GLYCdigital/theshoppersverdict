@@ -1,4 +1,5 @@
 ---
+
 title: "5FT Modern Aluminum Handrail Set, handrails for Indoor Stair"
 seo_title: "5FT Aluminum Handrail Set Review: Modern Indoor Stair Rail"
 meta_description: "Honest review of the 5FT Modern Aluminum Handrail Set for indoor stairs. See what 225+ Amazon buyers say, plus installation tips and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CHWLZ75G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-2WEwI3qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled 5-foot rail with all mounting hardware included — no extra trips to the hardware store"
   - "Aluminum construction with powder-coated matte black finish resists rust, corrosion, and fingerprints"
   - "Fits both 2x4 and 2x6 wall studs; included 4-inch screws bite into studs for a genuinely solid mount"
-cons:
+cons: 
   - "Hardware is not pre-drilled for angled stair installations — you'll need a level and patience to mark the mounting holes correctly"
   - "At 5 feet, it's short for long staircases; you'll likely need two units for standard residential runs"
+
 ---
 
 Let's be direct: most handrails you can order online are flimsy, hollow aluminum tubes with brackets that wobble. This 5-foot modern aluminum handrail set from the reviews I've combed through is not that. With a 4.5-star average across 225 ratings, it's punching well above its weight class for a product in this category.

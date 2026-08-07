@@ -1,4 +1,5 @@
 ---
+
 title: "Savannah Bee Company Honey - Pure, Natural, Organic Raw Hone"
 seo_title: "Savannah Bee Company Honey - Pure, Natural, Organi Review"
 meta_description: "Our full savannah bee company honey - pure, natural, organic raw hone review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP4Q9498/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uqFwxSGcL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been stirring the same clover honey from a plastic bear into your morning pour-over, Savannah Bee Company’s raw honey is the upgrade you didn’t know you needed — but only if you’re willing to pay for it. This isn’t the cheapest way to sweeten your coffee. It might be the *best* way, though.  

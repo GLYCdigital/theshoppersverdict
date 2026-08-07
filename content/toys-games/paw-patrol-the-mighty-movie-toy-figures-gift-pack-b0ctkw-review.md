@@ -1,4 +1,5 @@
 ---
+
 title: "Paw Patrol: The Mighty Movie, Toy Figures Gift Pack"
 seo_title: "Paw Patrol: The Mighty Movie, Toy Figures Gift Pac Review"
 meta_description: "Our full paw patrol: the mighty movie, toy figures gift pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTKWRY65/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What's Actually in the Box

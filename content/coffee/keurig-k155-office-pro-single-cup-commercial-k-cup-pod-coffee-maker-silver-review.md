@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K155 Office Pro Single Cup Commercial K-Cup Pod Coffee Maker, Silver"
 seo_title: "Keurig K155 Office Pro Review: Commercial-Grade K-Cup Brewer"
 meta_description: "Read our honest Keurig K155 Office Pro review. See how this commercial K-Cup brewer performs in offices, waiting rooms, and high-traffic kitchens. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 4977
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J+8j1upTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade internal components with a 50-cup-per-day rating, built for continuous brewing without the overheating shutdowns home units suffer"
   - "Extra-large 90-ounce removable water reservoir means you're not refilling mid-morning even in a busy break room"
   - "Programmable brew sizes (6, 8, 10, and 12 ounces) with strong 1,500-watt heating element that brews faster than most home Keurigs"
-cons:
+cons: 
   - "Tall 14-inch clearance under the brew head blocks most travel mugs — you'll be pouring into a ceramic cup or using the removable drip tray"
   - "Plastic housing and internal tubing degrade over time with hard water; expect scale buildup unless you're religious about descaling"
+
 ---
 
 The Keurig K155 Office Pro isn't a dressed-up home brewer. It's the machine you've likely used in a hotel lobby, a dental office, or a car dealership waiting room — and there's a reason businesses put it there. At $355, it costs about triple what a standard K-Classic runs, so the question isn't whether it makes good coffee. It's whether your situation justifies the premium.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cozy Up Coffee Pods Compatible with Keurig K-Cup Brewers"
 seo_title: "Cozy Up Coffee Pods Review: Keurig-Compatible Value"
 meta_description: "Cozy Up Coffee Pods Keurig-compatible review: flavor, strength, value, and brew quality. See how these pods stack up against name brands."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B1H6ZT2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qm1p9vJKL._SL1500_.jpg"
-pros:
+pros: 
   - "Significant cost savings per pod compared to name-brand K-Cups"
   - "Consistent extraction across multiple brew sizes without bitter over-extraction"
   - "Recyclable pod construction that holds up without bursting or jamming"
-cons:
+cons: 
   - "Flavor profile leans medium-bold regardless of roast label — light roast drinkers may find it too strong"
   - "Packaging lacks per-pod freshness seal; long-term storage affects aroma after a few months"
+
 ---
 
 # Cozy Up Coffee Pods: The Budget K-Cup That Actually Delivers

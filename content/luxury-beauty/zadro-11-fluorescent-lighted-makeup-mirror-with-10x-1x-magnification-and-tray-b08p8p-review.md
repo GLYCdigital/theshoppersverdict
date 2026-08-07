@@ -1,7 +1,8 @@
 ---
-title: "Zadro 11\" Fluorescent Lighted Makeup Mirror with 10X/1X Magn"
-seo_title: "Zadro 11\" Fluorescent Lighted Makeup Mirror with 1 Review"
-meta_description: "Our full zadro 11\" fluorescent lighted makeup mirror with 10x/1x magn review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Zadro 11\ Fluorescent Lighted Makeup Mirror with 10X/1X Magn"
+seo_title: "Zadro 11\ Fluorescent Lighted Makeup Mirror with 1 Review"
+meta_description: "Our full zadro 11\ fluorescent lighted makeup mirror with 10x/1x magn review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "zadro-11-fluorescent-lighted-makeup-mirror-with-10x-1x-magnification-and-tray-b08p8p-review"
 image_alt: "Zadro 11 Fluorescent Lighted Makeup Mirror with 10X/1X Magnification and Tray"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08P8P6X2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51d5lcxDU9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Zadro 11" Fluorescent Lighted Makeup Mirror with 10X/1X Magnification

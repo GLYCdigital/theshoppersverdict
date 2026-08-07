@@ -1,4 +1,5 @@
 ---
+
 title: "LOAKEKEL Night Stand Set 2, LED Nightstand with Charging Sta"
 seo_title: "LOAKEKEL Night Stand Set 2, LED Nightstand with Ch Review"
 meta_description: "Our full loakekel night stand set 2, led nightstand with charging sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRY26TL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SHydkEINL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LOAKEKEL Night Stand Set 2 Review: Do You Actually Need LED Nightstands?

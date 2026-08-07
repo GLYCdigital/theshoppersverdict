@@ -1,4 +1,5 @@
 ---
+
 title: "sopbost 24V Kids UTV, 2 Seater Ride On Car with Remote Contr"
 seo_title: "sopbost 24V Kids UTV, 2 Seater Ride On Car with Re Review"
 meta_description: "Our full sopbost 24v kids utv, 2 seater ride on car with remote contr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FJ1Y9XP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KOpBOpFnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24V difference is real — this isn't your neighbor's 12V Costco special.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Benebone Wishbone"
 seo_title: "Benebone Wishbone Review: Durable Chew for Aggressive Chewers"
 meta_description: "Our Benebone Wishbone review covers durability, bacon flavor, and safety. Is this 4.7-star chew toy worth it for heavy chewers? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FPD8WT9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81E6N1pLR0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real bacon flavor infused throughout the nylon, not just coated on the surface"
   - "Curved wishbone shape lets dogs grip it comfortably with both paws while chewing"
   - "Holds up for weeks with aggressive chewers, unlike rawhide or bully sticks"
-cons:
+cons: 
   - "Nylon material has a strong initial smell that some owners find off-putting"
   - "Not indestructible — determined power chewers will eventually wear it down"
   - "Too hard for puppies or senior dogs with sensitive teeth"
+
 ---
 
 You've watched your dog destroy yet another "indestructible" toy in under an hour. I get it. The Benebone Wishbone has earned its reputation as one of the few chews that actually survives contact with a determined dog, and with 235 ratings averaging 4.7 stars, the buzz is warranted. But is it right for your dog? Let's dig in.

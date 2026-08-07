@@ -1,4 +1,5 @@
 ---
+
 title: "Gotrax Adult Electric Scooter with Seat, Max 19-25miles Rang"
 seo_title: "Gotrax Adult Electric Scooter with Seat, Max 19-25 Review"
 meta_description: "Our full gotrax adult electric scooter with seat, max 19-25miles rang review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GX5J98SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615A3N3iKNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase. The Gotrax Adult Electric Scooter with Seat sits at a 4.2-star average from 210 Amazon ratings, which tells you most people are satisfied but not ecstatic. After digging through the buyer feedback and the spec sheet, here's what you need to know before spending your money.

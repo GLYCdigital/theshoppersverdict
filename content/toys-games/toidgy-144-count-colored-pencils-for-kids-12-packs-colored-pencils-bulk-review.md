@@ -1,13 +1,14 @@
 ---
+
 title: "Toidgy 144 Count Colored Pencils for Kids, 12 Packs Colored Pencils Bulk 12 Colors, Pre-sharpened Color Pencils for Adults, Bulk School Supplies for Teachers, Back to School Supplies, Classroom Prizes"
 seo_title: "Toidgy 144 Count Review: Verdict (4.7/5) | TSV"
 meta_description: "Honest toidgy 144 count colored penci review 514+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "toidgy-144-count-colored-pencils-for-kids-12-packs-colored-pencils-bulk-review"
 image_alt: "Toidgy 144 Count Colored Pencils for Kids, 12 Packs Colored Pencils Bulk 12 Colors, Pre-sharpened Color Pencils for Adul"
-keywords:
+keywords: 
   - "toidgy 144 count review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the Toidgy 144 Count Colored?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the Toidgy 144 Count Colored?"
@@ -18,10 +19,11 @@ review_count: 514
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D12MV7JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PfrIVemoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let’s cut through the noise: you’re looking at 144 pencils for $15.29. That’s 10.6 cents per pencil. At that price, you’re not buying art supplies — you’re buying volume. And for that purpose, the Toidgy 144 Count Colored Pencils deliver exactly what they promise, with a few tradeoffs you should know about before you hit “add to cart.”

@@ -1,4 +1,5 @@
 ---
+
 title: "SANDJEST Stainless Sleel Slider Tumbler with Handle 40oz"
 seo_title: "SANDJEST Stainless Sleel Slider Tumbler with Handl Review"
 meta_description: "Our full sandjest stainless sleel slider tumbler with handle 40oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GLF3K6JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41u5xsE75hL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SANDJEST 40oz Slider Tumbler with Handle: The Stanley Alternative That Actually Holds Up

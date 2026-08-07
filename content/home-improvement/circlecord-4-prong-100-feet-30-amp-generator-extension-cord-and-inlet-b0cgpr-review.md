@@ -1,4 +1,5 @@
 ---
+
 title: "CircleCord 4 Prong 100 Feet 30 Amp Generator Extension Cord"
 seo_title: "CircleCord 4 Prong 100ft Generator Cord Review (2026)"
 meta_description: "Honest CircleCord 4-prong 30-amp generator extension cord review: 100ft length, build quality, real-world performance, and downsides. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGPRQTFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QBE+1HhNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10/4 gauge stranded copper wire handles full 30-amp draw without voltage drop, even at the full 100-foot run"
   - "Molded NEMA L14-30 connectors with strain relief — no flimsy screw-together ends that crack after a season"
   - "Heavy-duty flame-retardant PVC jacket stays pliable in freezing temps, unlike stiff cords that fight you when coiling"
-cons:
+cons: 
   - "At 100 feet, the coiled bundle weighs roughly 18–20 pounds — noticeably heavier than shorter cords, awkward for one-handed carry"
   - "No built-in cord wrap or strap included, so you'll need your own Velcro ties or bungee to keep it tidy in storage"
+
 ---
 
 Let's be blunt: most generator extension cords on Amazon are either too short, too thin, or built with connectors that feel like they'll crack the first time you yank them out of a receptacle. The CircleCord 4 Prong 100 Feet 30 Amp cord sidesteps those pitfalls with actual 10/4 gauge wire and molded ends. Here's the full breakdown after digging through specs and 240 buyer ratings.

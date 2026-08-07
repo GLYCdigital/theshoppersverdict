@@ -1,4 +1,5 @@
 ---
+
 title: "BookFactory Lab Notebook/Laboratory Notebook - 96 Pages (.25 inch"
 seo_title: "BookFactory Lab Notebook Review: Grid Format, 96 Pages (2026)"
 meta_description: "Honest BookFactory Lab Notebook review: 96 pages, .25 grid format, durable build. See pros, cons, and who should buy this lab notebook."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00QFFB1JS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/312pM5PRJcL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Numbered pages with a permanent-bound spine make it legally defensible for patent work and research documentation"
   - ".25-inch grid format is tight enough for detailed diagrams yet spacious enough for calculations"
   - "Water-resistant cover and stitched binding hold up to daily lab wear and tear"
-cons:
+cons: 
   - "96 pages disappear fast for high-volume labs — you'll be reordering monthly"
   - "Paper is thinner than some competitors; heavy ink users may see ghosting on the reverse side"
+
 ---
 
 If you're documenting research, patents, or experimental data, the notebook you choose isn't just paper — it's legal evidence. The BookFactory Lab Notebook (96 pages, .25-inch grid) understands that. With 229 Amazon ratings averaging 4.6 stars, it's clearly doing something right for scientists, engineers, and students. But is it the right notebook for *your* workflow? Let's dig in.

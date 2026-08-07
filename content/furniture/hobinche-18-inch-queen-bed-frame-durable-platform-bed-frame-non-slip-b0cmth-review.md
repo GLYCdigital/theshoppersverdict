@@ -1,4 +1,5 @@
 ---
+
 title: "HOBINCHE 18 Inch Queen Bed Frame - Durable Platform Bed Fram"
 seo_title: "HOBINCHE 18 Inch Queen Bed Frame - Durable Platfor Review"
 meta_description: "Our full hobinche 18 inch queen bed frame - durable platform bed fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMTHSXB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61es4X0E7XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 18-inch platform bed frame is the sweet spot of the furniture world: high enough to store stuff underneath, low enough to not feel like you're sleeping on a loft. The HOBINCHE 18 Inch Queen Bed Frame sits right in that zone, and with 225 ratings averaging 4.5 stars, it's clearly doing something right. But is it the right frame for *your* bedroom? Let's dig in.

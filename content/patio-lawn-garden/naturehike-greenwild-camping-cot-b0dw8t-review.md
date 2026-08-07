@@ -1,4 +1,5 @@
 ---
+
 title: "Naturehike GreenWild Camping Cot"
 seo_title: "Naturehike GreenWild Camping Cot Review: Verdict | TSV"
 meta_description: "Our full naturehike greenwild camping cot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DW8TTZZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ITUUYAWDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever woken up on a camping cot feeling like you slept in a slingshot, you know the problem this Naturehike cot is trying to solve. The GreenWild line has become a go-to for budget-conscious campers who refuse to accept the "you get what you pay for" excuse from cheap cot manufacturers. At 4.3 stars across 215 Amazon ratings, it's clearly doing something right — but let's talk about whether it's the right cot for *your* sleep setup.

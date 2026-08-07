@@ -1,4 +1,5 @@
 ---
+
 title: "BG Frigi-Fresh 5.5 oz. (156g)"
 seo_title: "BG Frigi-Fresh 5.5 oz Review: Cooling Gel or Gimmick?"
 meta_description: "Read our honest BG Frigi-Fresh 5.5 oz review. Does this cooling gel deliver real relief? We analyze ingredients, performance, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0777TWFG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pms1An6eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fast-acting menthol cooling that lasts 30-45 minutes per application"
   - "Non-greasy, fast-absorbing formula that doesn't stain clothing"
   - "Compact 5.5 oz jar is travel-friendly and requires only pea-sized amounts"
-cons:
+cons: 
   - "Scent is strong medicinal menthol — not for sensitive noses"
   - "Cooling effect fades faster than advertised for some users on large muscle groups"
+
 ---
 
 **The Short Version:** BG Frigi-Fresh is a menthol-based cooling gel that delivers exactly what it promises — temporary topical relief for sore muscles, joints, and post-workout aches. It's not a miracle cure, but for the price per ounce, it outperforms most big-box sports creams. Here's the honest breakdown.

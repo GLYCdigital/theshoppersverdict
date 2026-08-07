@@ -1,4 +1,5 @@
 ---
+
 title: "Vikaey Modern LED Ceiling Light, Minimalist Wood Style Flush"
 seo_title: "Vikaey Modern LED Ceiling Light, Minimalist Wood S Review"
 meta_description: "Our full vikaey modern led ceiling light, minimalist wood style flush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08QLXPSW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810RwUPa0WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most ceiling lights under $60 are ugly, cheap, or both. The Vikaey Modern LED Ceiling Light tries to be the exception — a minimalist wood-accented flush mount that looks like it belongs in a $4,000/foot remodel, not a budget Amazon order. Does it pull it off? Mostly yes, with a few caveats worth knowing before you buy.

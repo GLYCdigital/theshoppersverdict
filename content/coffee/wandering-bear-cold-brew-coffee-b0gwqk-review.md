@@ -1,4 +1,5 @@
 ---
+
 title: "Wandering Bear Cold Brew Coffee"
 seo_title: "Wandering Bear Cold Brew Coffee Review: Verdict | TSV"
 meta_description: "Our full wandering bear cold brew coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWQKDGTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611f2H4yb1L._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The 96-ounce box that thinks it's a keg**

@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Floating TV Stand with Power Outlets, Modern Wall Mou"
 seo_title: "HOOBRO Floating TV Stand with Power Outlets, Moder Review"
 meta_description: "Our full hoobro floating tv stand with power outlets, modern wall mou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CB7K588R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814y6q2YFhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **HOOBRO Floating TV Stand with Power Outlets, Modern Wall Mou** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

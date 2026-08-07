@@ -1,4 +1,5 @@
 ---
+
 title: "WATERSY 1 Gallon Water Bottle Insulated"
 seo_title: "WATERSY 1 Gallon Water Bottle Insulated Review: Verdict |"
 meta_description: "Our full watersy 1 gallon water bottle insulated review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CS3KY8MQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611pQo2YtOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WATERSY 1 Gallon Water Bottle Insulated: Does It Actually Keep Water Cold All Day?

@@ -1,4 +1,5 @@
 ---
+
 title: "BAMEOS Floating Shelves with LED Light, Wall Mounted Wooden"
 seo_title: "BAMEOS Floating Shelves with LED Light Review (2026)"
 meta_description: "BAMEOS floating shelves with LED light reviewed: build quality, installation, lighting performance, and who should buy these wall-mounted wooden shelves."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DTF4G2KS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817EevnZWxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED strip lighting creates a warm ambient glow that highlights displayed items without visible wires or fixtures"
   - "Solid engineered wood construction with a smooth matte finish that resists fingerprints and cleans easily"
   - "Hidden mounting bracket system allows for a true floating look with a clean, minimal profile"
-cons:
+cons: 
   - "LED power connection requires a visible plug and transformer that can be tricky to hide depending on wall layout"
   - "Mounting hardware quality is inconsistent — some units arrive with stripped screws or misaligned brackets"
   - "Max weight capacity is modest at roughly 15 lbs per shelf, so heavy books or decor will sag over time"
+
 ---
 
 **The BAMEOS Floating Shelves with LED Light promise a sleek, modern display solution — but do they deliver?**

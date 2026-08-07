@@ -1,4 +1,5 @@
 ---
+
 title: "Teton 20F and 5F Degree Sleeping Bag; Lightweight, Warm Weat"
 seo_title: "Teton 20F and 5F Degree Sleeping Bag; Lightweight, Review"
 meta_description: "Our full teton 20f and 5f degree sleeping bag; lightweight, warm weat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CNBKCQ7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ebE5iJ3sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Teton 20F and 5F Degree Sleeping Bag: The Honest Breakdown**

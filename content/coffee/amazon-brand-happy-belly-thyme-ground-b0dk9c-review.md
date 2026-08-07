@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Brand - Happy Belly Thyme Ground"
 seo_title: "Happy Belly Thyme Ground Review: Worth It? (2026)"
 meta_description: "Honest Happy Belly Thyme Ground review: aroma, potency, value, and downsides. Is this 4.7-star spice worth buying? Find out before you order."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK9CK9RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71stiGdv-0L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently aromatic with a strong, classic thyme scent that holds up in slow-cooked dishes"
   - "Fine, consistent grind that disperses evenly — no clumping or woody stem chunks in the bottle"
   - "Resealable shaker-top lid keeps the spice fresh and makes portioning mess-free"
-cons:
+cons: 
   - "No harvest date or origin info on the label — you can't verify freshness before buying"
   - "Aroma fades noticeably after about 6 months once opened, so buy the smaller size unless you cook with thyme daily"
+
 ---
 
 Let's be direct: ground thyme is ground thyme, right? Not exactly. The gap between a spice that's been sitting in a warehouse for two years and one that's recently packed is the difference between a herb that elevates your stew and dust that just makes it brown. The Happy Belly Thyme Ground sits firmly in the former camp — and the 4.7-star average across 235 ratings backs that up.

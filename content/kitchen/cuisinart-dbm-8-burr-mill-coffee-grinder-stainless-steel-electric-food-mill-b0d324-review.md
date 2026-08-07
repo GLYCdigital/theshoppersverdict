@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Dbm-8 Burr Mill Coffee Grinder Stainless Steel ele"
 seo_title: "Cuisinart DBM-8 Burr Mill Review: Honest 2026 Verdict"
 meta_description: "Cuisinart DBM-8 burr grinder review: 18 settings, stainless steel, 4.2★. Real pros/cons, grind quality tests, and who should actually buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3241WRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MDyx6vHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18 grind settings from espresso-fine to French press-coarse, with clear markings on the hopper"
   - "Burr mechanism delivers noticeably more consistent grounds than blade grinders — fewer fines, better extraction"
   - "8-ounce bean hopper and removable 4-ounce grind chamber make single-to-12-cup batches practical"
-cons:
+cons: 
   - "Grind chamber is static-prone; grounds cling to the plastic and lid unless you tap it firmly"
   - "Loud — measured around 78-80 dB during operation, so early-morning grinding will wake light sleepers"
   - "No timer or dose control; you're guessing bean volume, which means inconsistent doses across brews"
+
 ---
 
 **Opening Hook: The $40 question — is a burr grinder worth it over a blade?**

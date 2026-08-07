@@ -1,4 +1,5 @@
 ---
+
 title: "Custom Engraved Name Plate with Square Corners"
 seo_title: "Custom Engraved Name Plate Review: Worth It? (2026)"
 meta_description: "Honest review of the Custom Engraved Name Plate with Square Corners. See real pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08YZ8LPKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IEIh1eIeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Laser engraving is crisp and permanent — no peeling, fading, or chipping after months of daily use"
   - "Solid brushed aluminum build (approx. 8x2 inches) feels substantial, not flimsy like acrylic alternatives"
   - "Free proof sent before production catches typos and layout issues before they cost you"
-cons:
+cons: 
   - "Square corners can catch on sleeves and bags — a minor snag risk on crowded desks"
   - "No mounting hardware included; you'll need to supply your own adhesive strips or stand"
+
 ---
 
 The Custom Engraved Name Plate with Square Corners is exactly what it claims to be: a no-nonsense, laser-etched aluminum plate that makes your desk look intentional. But after digging through 240 ratings and testing the build quality myself, the real story is about whether this $20-ish upgrade beats the cheap plastic alternatives — and for most people, it does.

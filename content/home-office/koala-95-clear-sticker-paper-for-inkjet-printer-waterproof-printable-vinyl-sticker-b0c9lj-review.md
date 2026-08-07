@@ -1,4 +1,5 @@
 ---
+
 title: "Koala 95% Clear Sticker Paper for Inkjet Printer - Waterproo"
 seo_title: "Koala 95% Clear Sticker Paper for Inkjet Printer - Review"
 meta_description: "Our full koala 95% clear sticker paper for inkjet printer - waterproo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9LJNVM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YjijbbciL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever printed on "clear" sticker paper only to end up with a milky, translucent rectangle around your design, you know the frustration. The Koala 95% Clear Sticker Paper claims to fix that — and after digging through 225 ratings and the specs, it mostly delivers.

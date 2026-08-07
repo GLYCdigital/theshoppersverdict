@@ -1,4 +1,5 @@
 ---
+
 title: "RACGTING Racing Simulator Cockpit for G920 G29 G923, Foldabl"
 seo_title: "RACGTING Racing Simulator Cockpit for G920 G29 G92 Review"
 meta_description: "Our full racgting racing simulator cockpit for g920 g29 g923, foldabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BTYJPNN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612qVlx7hvL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced dedicated racing cockpits lately, you know the sting. Full rigs with seats run $500–$1,000, and most of them are permanent furniture. The RACGTING Foldable Racing Simulator Cockpit takes a different approach: it's a space-saving steel frame that folds flat, mounts your Logitech G920/G29/G923 (or comparable wheel), and costs a fraction of a permanent rig. With a 4.3-star average across 215 ratings, it's clearly connecting with budget-conscious sim racers. Here's who it's actually for — and who should keep scrolling.

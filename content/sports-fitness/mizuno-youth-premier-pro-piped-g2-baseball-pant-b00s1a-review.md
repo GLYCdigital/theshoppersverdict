@@ -1,4 +1,5 @@
 ---
+
 title: "Mizuno Youth Premier Pro Piped G2 Baseball Pant"
 seo_title: "Mizuno Youth Premier Pro Piped G2 Baseball Pant Review: V"
 meta_description: "Our full mizuno youth premier pro piped g2 baseball pant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00S1ACNHE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516U63GEjEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the kid who slides headfirst into second base every single time? These pants are for that kid. The Mizuno Youth Premier Pro Piped G2 has earned its 4.5-star rating across 225 Amazon reviews for one simple reason: it survives actual baseball. Not tee-ball. Not practice. Real, dirt-in-the-cleats, hook-slide baseball.

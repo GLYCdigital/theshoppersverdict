@@ -1,4 +1,5 @@
 ---
+
 title: "Days of Wonder |Ticket to Ride Europe Board Game"
 seo_title: "Ticket to Ride Europe Review: Is This Rail Game Worth It?"
 meta_description: "Ticket to Ride Europe review: 4.8-star rated train board game. See what's in the box, gameplay depth, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G39X4T6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91pgJCyeTDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tunnels, ferries, and stations add meaningful strategic depth over the original"
   - "240 plastic trains and 15 colored train cars per player — high component quality"
   - "Plays 2-5 players smoothly in 60-90 minutes, ideal for families and casual gamers"
-cons:
+cons: 
   - "Station rules can confuse first-time players — expect a learning curve"
   - "Board is smaller than the original, making some route names harder to read"
   - "No expansion included; the Europe map is all you get in the box"
+
 ---
 
 Let's cut to the chase: **Ticket to Ride Europe** isn't just a re-skin of the original. Days of Wonder took the beloved train-building formula and made it smarter, tighter, and more interesting for anyone who's played the classic version and wants more.

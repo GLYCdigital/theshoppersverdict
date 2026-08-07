@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Cookie Jars for Kitchen Counter (3 Pack) 75oz Food Sto"
 seo_title: "Glass Cookie Jars for Kitchen Counter (3 Pack) 75o Review"
 meta_description: "Our full glass cookie jars for kitchen counter (3 pack) 75oz food sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CS12C7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LaiaZkUYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

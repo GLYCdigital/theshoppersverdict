@@ -1,4 +1,5 @@
 ---
+
 title: "GBBNE Shower Faucet Set Rainfall Shower System with Square S"
 seo_title: "GBBNE Rainfall Shower System Review (2026): Square Head & Handle"
 meta_description: "GBBNE shower faucet set review: square rainfall head, thermostatic valve, real build quality. See pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKH6595B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613GLlU3PgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 12-inch square rain head delivers full-body coverage with consistent water distribution across all jets"
   - "Solid brass body and stainless steel faceplate — no thin chromed plastic here; the valve feels substantial in hand"
   - "Integrated diverter lets you switch between rain head and handheld without losing water pressure"
-cons:
+cons: 
   - "No pressure-balancing valve — sudden cold water flushes possible if someone flushes a toilet while you shower"
   - "Square rain head collects standing water in the corners; you'll need to wipe it dry to prevent hard water spots"
+
 ---
 
 I've tested a lot of shower systems in the $150–$300 range, and most of them feel like they were designed by someone who's never actually showered. The GBBNE Square Rainfall System is different — but it's not perfect. Here's what 229 buyers and my own hands-on assessment say you should know before you buy.

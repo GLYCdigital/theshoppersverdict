@@ -1,4 +1,5 @@
 ---
+
 title: "KOMIGAN Intelligent Motion Triggered LED Stair Lighting Kit "
 seo_title: "KOMIGAN Intelligent Motion Triggered LED Stair Lig Review"
 meta_description: "Our full komigan intelligent motion triggered led stair lighting kit  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJWLTKVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cGAYO0SiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Staircase Upgrade That Actually Works

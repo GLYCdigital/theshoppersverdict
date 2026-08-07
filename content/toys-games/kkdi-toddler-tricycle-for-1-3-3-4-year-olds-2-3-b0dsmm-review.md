@@ -1,4 +1,5 @@
 ---
+
 title: "Kkdi Toddler Tricycle for 1-3 3-4 Year Olds, 2 3 4 Year Old "
 seo_title: "Kkdi Toddler Tricycle for 1-3 3-4 Year Olds, 2 3 4 Review"
 meta_description: "Our full kkdi toddler tricycle for 1-3 3-4 year olds, 2 3 4 year old  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSMMRN2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Us-kmfSrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Toddler Tricycle That Grows With Your Kid — Mostly

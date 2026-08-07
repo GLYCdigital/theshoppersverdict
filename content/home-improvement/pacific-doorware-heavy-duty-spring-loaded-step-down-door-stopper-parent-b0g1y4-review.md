@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Doorware Heavy Duty Spring Loaded Step Down Door Sto"
 seo_title: "Pacific Doorware Heavy Duty Spring Loaded Step Dow Review"
 meta_description: "Our full pacific doorware heavy duty spring loaded step down door sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1Y4BZ29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R0snNdKVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pacific Doorware Heavy Duty Spring Loaded Step Down Door Stopper: A Small Device That Ends a Big Annoyance**

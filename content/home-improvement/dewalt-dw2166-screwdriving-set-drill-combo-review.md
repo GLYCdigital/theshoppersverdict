@@ -1,17 +1,18 @@
 ---
+
 title: "DEWALT DW2166 45-Piece Screwdriving Set & DCD771C2 Drill Review"
 seo_title: "DEWALT DW2166 Screwdriving Set & Drill Review: Verdict (4.8/5) | The Shopper's Verdict"
 meta_description: "DEWALT DW2166 45-Piece Screwdriving Set & DCD771C2 20V MAX Drill review: 3,500+ Amazon reviews analyzed. 45 bits, tough case, 2 batteries. Real pros, cons, and our verdict on this $126 DeWalt combo."
 slug: "dewalt-dw2166-screwdriving-set-drill-combo-review"
 image_alt: "DEWALT DW2166 45-Piece Screwdriving Set with Tough Case and DCD771C2 20V MAX Cordless Drill Driver Kit"
-keywords:
+keywords: 
   - "DEWALT drill combo review"
   - "DEWALT DW2166 screwdriving set"
   - "best cordless drill for DIY"
   - "DEWALT DCD771C2 review"
   - "drill and bit set combo"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "Is the DEWALT DCD771C2 drill powerful enough for home renovation projects?"
     answer: "Yes. The drill delivers 300 unit watts out (UWO) of power, which is more than enough for drilling through wood, metal, and light masonry. Multiple owners report using it for years on everything from furniture assembly to deck building without issues."
   - question: "How long do the batteries last on a single charge?"
@@ -26,7 +27,7 @@ review_count: 3505
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01EXQ0ZV0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41B49ljnP7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Powerful 300 UWO motor handles drilling through wood, metal, and masonry"
   - "Compact and lightweight design fits tight spaces easily"
   - "Two 20V MAX batteries provide uninterrupted workflow"
@@ -35,12 +36,13 @@ pros:
   - "Ergonomic grip reduces fatigue during extended use"
   - "Excellent DEWALT build quality and reliability"
   - "Proven longevity — multiple owners report 4+ years of heavy use"
-cons:
+cons: 
   - "Bits are standard quality, not professional-grade"
   - "No hammer drill function for masonry drilling"
   - "Some users prefer a chuck with higher clamping force"
   - "Kit does not include a carrying bag for the drill itself"
   - "Case size may be larger than needed for basic users"
+
 ---
 
 ## DEWALT DW2166 & DCD771C2: The DIY Power Combo That Keeps Delivering

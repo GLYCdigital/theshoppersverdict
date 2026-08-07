@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Wooden Dining Chairs Set of 4, Modern Fabric Upholste"
 seo_title: "COLAMY Wooden Dining Chairs Set of 4 Review (2026): Worth It?"
 meta_description: "COLAMY wooden dining chairs set of 4 review: fabric upholstery, solid wood frame, assembly ease, comfort, and durability. Is this 4.3-star set right for you?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9FKDTSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XxDbo2XjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid rubberwood legs with cross-bracing — noticeably sturdier than the MDF-particle-board legs common at this price point"
   - "Fabric upholstery is a soft woven linen-blend that resists pilling and doesn't feel cheap against bare arms"
   - "Assembly takes roughly 15 minutes per chair with the included Allen wrench; pre-drilled holes align properly"
-cons:
+cons: 
   - "Seat cushion is firm — 2.5 inches of foam with no spring support, so heavy or long-sitting users may find it unforgiving after an hour"
   - "Fabric is light-colored on some options and not removable; stains require spot-cleaning, and the care label warns against machine washing"
+
 ---
 
 You see a lot of dining chairs online. Most of them are wobbly, hollow, or look like they'll splinter if you look at them wrong. The COLAMY Wooden Dining Chairs Set of 4 — currently holding a 4.3 out of 5 across 215 ratings — is not that. But it's also not a $300-per-chair showpiece. Here's the honest breakdown of what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "N30 Protective Case for ESP32 LoRa V3 Development Board Ante"
 seo_title: "N30 Protective Case for ESP32 LoRa V3 Development  Review"
 meta_description: "Our full n30 protective case for esp32 lora v3 development board ante review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DX6Z4WSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Th03dKSYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're building a LoRa node for your garden sensor network, and the bare ESP32 LoRa V3 board is sitting on your bench, pins exposed, antenna dangling. You need a case. The N30 Protective Case looks like the obvious answer — but is it actually protective, or just a plastic box with pretty pictures?

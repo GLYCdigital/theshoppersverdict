@@ -1,4 +1,5 @@
 ---
+
 title: "Daubigny Makeup Brushes Foundation Brush Concealer Brush for"
 seo_title: "Daubigny Makeup Brushes Review: Foundation & Concealer (2026)"
 meta_description: "Honest Daubigny makeup brush review: dense synthetic bristles, zero streaks, and easy cleaning. See if this foundation brush set is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJMBP9LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GFLQSa4YL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-dense synthetic bristles that buff liquid foundation to an airbrushed finish without streaks or brush marks"
   - "Dual-ended design pairs a flat concealer tip with a domed foundation head, cutting your morning routine down to one tool"
   - "Machine-washable construction holds its shape after repeated cleaning cycles without shedding or splaying"
-cons:
+cons: 
   - "The handle is shorter than standard brushes, which can feel cramped for users with larger hands"
   - "Blending cream-based products takes more effort — this brush shines with liquids but struggles slightly with thicker formulas"
+
 ---
 
 Let's be direct about what the Daubigny makeup brushes are: they're not the most expensive brushes on the market, but they're also not the cheapest. At 4.4 stars across 220 ratings, they occupy that sweet spot where performance and price actually meet. The question is whether they belong in your makeup bag.

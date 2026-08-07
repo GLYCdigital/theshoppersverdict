@@ -1,4 +1,5 @@
 ---
+
 title: "Optish Over Door Hook Coat Hook Over Door Hook"
 seo_title: "Optish Over Door Hook Coat Hook Over Door Hook Review: Ve"
 meta_description: "Our full optish over door hook coat hook over door hook review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BR8S398Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511M7d-L0CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $15 Fix for Your Overflowing Coat Closet

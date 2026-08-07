@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market, Organic Pipe Rigate, 16 Ounce"
 seo_title: "Whole Foods Market, Organic Pipe Rigate, 16 Ounce Review:"
 meta_description: "Our full whole foods market, organic pipe rigate, 16 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9ZZJ9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815d5wPxlyL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Whole Foods Market Organic Pipe Rigate Review: The Shape Does the Heavy Lifting

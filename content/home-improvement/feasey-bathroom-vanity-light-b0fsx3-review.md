@@ -1,4 +1,5 @@
 ---
+
 title: "Feasey Bathroom Vanity Light"
 seo_title: "Feasey Bathroom Vanity Light Review: Honest Buyer's Guide"
 meta_description: "Feasey Bathroom Vanity Light review: 4.7-star rated LED fixture. See real pros, cons, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSX3QL11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j5uBSvVlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dimmable LED globes included — no separate bulb purchase needed, saving $20–$40 upfront"
   - "Wet-rated for direct shower installs, not just above sinks"
   - "Tool-free wire connectors in the box speed up installation to under 30 minutes"
-cons:
+cons: 
   - "Globes are non-replaceable — when the LED dies, you replace the whole fixture"
   - "Mounting plate is brushed nickel only — won't match oil-rubbed bronze or matte black fixtures"
   - "Light output is cool-toned (4000K); no warm 2700K option for cozy bathrooms"
+
 ---
 
 If you're staring at a dated boob light above your bathroom mirror, the Feasey Bathroom Vanity Light is a legitimate upgrade — but it's not for everyone. With a 4.7-star average across 235 ratings, this three-globe LED fixture has earned its reputation. Here's the unfiltered breakdown.

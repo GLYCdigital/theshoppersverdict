@@ -1,4 +1,5 @@
 ---
+
 title: "AOOSTAR GEM12 PRO MAX AMD R7 8845HS Mini PC"
 seo_title: "AOOSTAR GEM12 PRO MAX Review: R7 8845HS Powerhouse (2026)"
 meta_description: "AOOSTAR GEM12 PRO MAX review: Is the AMD R7 8845HS mini PC worth it? Performance, thermals, and real-world value tested. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4D67GNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7107Y1p3xvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-power 54W AMD Ryzen 7 8845HS with 8 Zen 4 cores — desktop-class performance in a 0.6L chassis"
   - "Dual 2.5GbE LAN ports plus Wi-Fi 6E and Bluetooth 5.2 — exceptional I/O for a mini PC at this price"
   - "OCuLink port (PCIe 4.0 x4) lets you connect an external GPU dock for serious gaming or AI workloads"
-cons:
+cons: 
   - "Fan noise ramps up noticeably under sustained all-core load — audible in a quiet office"
   - "No USB4 port; the USB-C on the front is DisplayPort-only and capped at 10Gbps"
   - "Included 65W power adapter is undersized for peak draw; expect power limiting under stress"
+
 ---
 
 The desktop PC is dying. That's not hyperbole — it's just math. A full tower with a mid-range CPU costs more, takes up more space, and draws more power than what the AOOSTAR GEM12 PRO MAX delivers in a chassis smaller than a paperback novel. At 0.6 liters, this AMD Ryzen 7 8845HS mini PC is the kind of machine that makes you question why you ever tolerated a beige box under your desk.

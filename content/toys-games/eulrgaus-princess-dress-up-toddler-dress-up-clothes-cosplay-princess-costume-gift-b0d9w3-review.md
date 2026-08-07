@@ -1,4 +1,5 @@
 ---
+
 title: "EULRGAUS Princess Dress Up, Toddler Dress Up Clothes, Cospla"
 seo_title: "EULRGAUS Princess Dress Up Review: Toddler Costume Worth It?"
 meta_description: "EULRGAUS princess dress up review: 4.5-star toddler costume. Check fabric quality, sizing, durability, and if it's worth the buy for your little one."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9W3KMLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pLu5C0BcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable tulle and satin construction survives repeated dress-up sessions without fraying or losing shape"
   - "Adjustable velcro closures at the back accommodate growth spurts and make independent dressing possible for 3-year-olds"
   - "Complete set includes tiara, wand, and necklace — no need to buy accessories separately"
-cons:
+cons: 
   - "Sizing runs small; several buyers recommend ordering one size up, especially for taller toddlers"
   - "Tulle skirt can irritate sensitive skin without a layer of clothing underneath"
+
 ---
 
 Let's be honest: most toddler princess costumes are disposable glitter bombs that fall apart after two wears. The EULRGAUS Princess Dress Up set is trying to be different — and based on 225 ratings averaging 4.5 stars, it might actually be succeeding.

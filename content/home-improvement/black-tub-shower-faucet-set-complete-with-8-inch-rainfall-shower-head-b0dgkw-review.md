@@ -1,4 +1,5 @@
 ---
+
 title: "Black Tub Shower Faucet Set Complete with 8-Inch Rainfall Sh"
 seo_title: "Black Tub Shower Faucet Set Review: 8-Inch Rainfall Head"
 meta_description: "Honest review of the Black Tub Shower Faucet Set with 8-inch rainfall head. See pros, cons, real buyer feedback, and who should buy this 4.2-star fixture."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGKWRYG7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+T0SvlYSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Matte black finish holds up well against water spots and fingerprints compared to chrome or brushed nickel"
   - "Includes both an 8-inch rainfall head AND a handheld sprayer — most sets at this price point only give you one"
   - "Pressure-balanced valve core prevents scalding when someone flushes a toilet mid-shower"
-cons:
+cons: 
   - "Installation requires a 3-hole 6-inch center setup — won't fit existing 8-inch or 12-inch rough-ins without an adapter plate"
   - "Some buyers report the diverter knob feels stiff for the first few weeks until it breaks in"
+
 ---
 
 # Black Tub Shower Faucet Set Complete with 8-Inch Rainfall Shower Head — Is It Worth the Upgrade?

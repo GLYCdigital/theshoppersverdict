@@ -1,4 +1,5 @@
 ---
+
 title: "AMZASA Lantern Pendant Light"
 seo_title: "AMZASA Lantern Pendant Light Review: Farmhouse Style Worth It?"
 meta_description: "Honest AMZASA Lantern Pendant Light review: build quality, brightness, installation tips, and who should buy this 4.5-star farmhouse fixture."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW36JG2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oIihx0byL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel frame with a true matte black finish that resists chipping during install"
   - "Adjustable 59-inch cord gives real flexibility for 8-10 foot ceilings without buying extra parts"
   - "Compatible with standard dimmer switches when paired with dimmable bulbs — tested by multiple buyers"
-cons:
+cons: 
   - "Glass panels arrive separate and require careful handling — one reviewer reported cracked glass in transit"
   - "Hardwired only, no plug-in option, so renters or anyone avoiding electrical work will need an electrician"
   - "Open-bottom design means bulbs are fully exposed — dusty kitchens will need regular wipe-downs"
+
 ---
 
 If you've been scrolling past a hundred identical farmhouse pendants wondering which one actually looks like the photos, the AMZASA Lantern Pendant Light is one of the few that delivers. At 4.5 stars across 225 ratings, this fixture has earned its place above countless kitchen islands — but it's not without a quirk or two worth knowing before you commit.

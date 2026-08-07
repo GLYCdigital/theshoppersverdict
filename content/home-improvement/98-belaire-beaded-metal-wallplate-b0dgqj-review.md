@@ -1,4 +1,5 @@
 ---
+
 title: "98 Belaire Beaded Metal Wallplate"
 seo_title: "98 Belaire Beaded Metal Wallplate Review: Worth It?"
 meta_description: "Honest 98 Belaire Beaded Metal Wallplate review: build quality, finish durability, fit, and whether this decorative cover justifies the price."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DGQJZ2S7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uc4nnhuFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine stamped metal with visible beaded relief—not a printed or painted faux texture"
   - "Consistent finish across multiple plates ordered at different times, so matching isn't a gamble"
   - "Standard US sizing fits recessed boxes without the gap issues common with thicker decorative plates"
-cons:
+cons: 
   - "Screw heads sit slightly proud of the beaded surface; countersinking could be deeper for a flush look"
   - "Beaded pattern collects dust in the crevices—plan for periodic cleaning with a soft brush"
+
 ---
 
 If you've ever swapped a basic white plastic cover for a "decorative" one only to find it's a thin stamped sheet with paint that scratches off in week one, you know the disappointment. The 98 Belaire Beaded Metal Wallplate isn't that. With 240 ratings averaging 4.8 stars, it's the rare decorative cover that actually delivers on the "metal" promise.

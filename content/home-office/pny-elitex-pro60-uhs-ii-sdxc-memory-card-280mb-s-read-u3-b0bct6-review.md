@@ -1,4 +1,5 @@
 ---
+
 title: "PNY EliteX-PRO60 UHS-II SDXC Memory Card - 280MB/s Read, U3,"
 seo_title: "PNY EliteX-PRO60 UHS-II SDXC Memory Card - 280MB/s Review"
 meta_description: "Our full pny elitex-pro60 uhs-ii sdxc memory card - 280mb/s read, u3, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCT65Z6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618SkaS9FvL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been shooting on a UHS-I card and wondering why your mirrorless camera's buffer clears so slowly, the PNY EliteX-PRO60 is the upgrade you've been putting off. This card isn't for casual phone backup or point-and-shoot snaps — it's aimed squarely at photographers and videographers who need sustained write speeds without paying the Sony tax. At 4.7 stars across 235 ratings, it's clearly earning its keep. Here's the full breakdown after putting it through real shooting conditions.

@@ -1,4 +1,5 @@
 ---
+
 title: "Connect 4 Batman Game | Batman-Themed 4 in a Row Game | Ages"
 seo_title: "Connect 4 Batman Game Review: Is It Worth It? (2026)"
 meta_description: "Our Connect 4 Batman Game review covers gameplay, build quality, and value. See if this 4-in-a-row favorite earns its 4.8-star rating before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJGWSLT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PaHc+pjBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely useful Batman theming — character discs actually change how you track your pieces mid-game"
   - "Sturdy grid frame that holds up to aggressive drops from younger players without warping"
   - "Doubles as a display piece when not in use; the black-and-yellow scheme looks sharp on a shelf"
-cons:
+cons: 
   - "Discs are slightly smaller than the classic version, which can feel cramped for adult hands"
   - "No storage tray for discs — you'll need the original box or a baggie to keep pieces together"
   - "The Batman logo on the frame is a sticker, not printed; expect peeling after heavy use"
+
 ---
 
 **The Hook: A Classic That Finally Gets the Dark Knight Treatment**

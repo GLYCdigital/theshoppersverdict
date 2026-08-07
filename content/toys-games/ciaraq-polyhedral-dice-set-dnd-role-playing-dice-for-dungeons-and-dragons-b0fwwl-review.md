@@ -1,5 +1,6 @@
 ---
 
+
 title: "CiaraQ Polyhedral Dice Set - DND Role Playing Dice for Dunge"
 seo_title: "CiaraQ Polyhedral Dice Set Review: Best DND Dice?"
 meta_description: "Honest CiaraQ polyhedral dice set review: durability, readability, and value for D&D players. See pros, cons, and who should buy."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FWWLPS8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81upmJMaWgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, deeply etched numerals stay legible even after months of table use"
   - "Seven-die set covers all standard D&D rolls — d4 through d20 inch"
   - "Resin construction feels weighty and rolls true without excessive bounce"
-cons:
+cons: 
   - "Numbers are painted, not inlaid — heavy-handed dice towers may chip the paint"
   - "No storage pouch or box included in the basic set"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Single Pack Garage Door Torsion Springs FUTI-US"
 seo_title: "Single Pack Garage Door Torsion Springs FUTI-US Review: V"
 meta_description: "Our full single pack garage door torsion springs futi-us review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRVD8T6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zN1sIgvKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: replacing a torsion spring is one of the most dangerous DIY jobs in home maintenance. That coil stores enough energy to break bones — or worse. So when you're shopping for a replacement, you want precision and reliability, not guesswork.

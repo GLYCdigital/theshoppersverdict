@@ -1,4 +1,5 @@
 ---
+
 title: "Caramel Cubes Candy - 2 Pound Pack (150 Count) - Green Apple"
 seo_title: "Caramel Cubes Candy Green Apple Review: 2 lb Bulk Pack"
 meta_description: "Honest review of Caramel Cubes Candy Green Apple 2 lb pack. 150 soft caramels, bulk value, real flavor. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CWS6RKGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FZpJ1seNL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine green apple flavor that cuts the sweetness — tastes like a caramel apple, not artificial candy"
   - "150 individually wrapped pieces in a 2-pound bag — solid value for parties, candy dishes, or resale"
   - "Soft, chewy texture that doesn't stick to teeth like many mass-market caramels"
-cons:
+cons: 
   - "No zip-top closure on the bag — you'll need your own container to keep the remaining pieces fresh"
   - "Flavor is consistent but one-dimensional; don't expect layers of tartness or complexity"
   - "Individual wrappers are thin and can tear if you grab them roughly from the bag"
+
 ---
 
 **Opening: The caramel apple candy you actually want to finish**

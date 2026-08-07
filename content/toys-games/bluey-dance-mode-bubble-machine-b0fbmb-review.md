@@ -1,4 +1,5 @@
 ---
+
 title: "BLUEY Dance Mode Bubble Machine"
 seo_title: "BLUEY Dance Mode Bubble Machine Review: Worth It? (2026)"
 meta_description: "Honest BLUEY Dance Mode Bubble Machine review: bubble output, battery life, toddler durability, and whether it's worth $30+ for Bluey fans."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FBMBL33S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l4CdYwiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct bubble modes (Dance, Steady, Pop) give real variety beyond a single on/off switch"
   - "Sturdy drop-resistant body that survives typical toddler abuse — reported falls from waist height without cracks"
   - "Auto shut-off at 90 seconds prevents battery drain and sticky messes when kids wander off"
-cons:
+cons: 
   - "Requires 4 AA batteries (not included) and chews through them fast — expect 2-3 sessions before fading"
   - "Bubble solution reservoir leaks when tipped sideways, which happens constantly in little hands"
+
 ---
 
 **The Short Version:** If your kid is Bluey-obsessed, this bubble machine delivers exactly what the box promises — dancing, flashing, bubble-blowing chaos that toddlers find absolutely mesmerizing. But it's not without quirks. Here's the real deal after digging through 200+ buyer experiences.

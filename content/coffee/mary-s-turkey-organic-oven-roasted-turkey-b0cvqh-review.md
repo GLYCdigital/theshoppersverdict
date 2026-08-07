@@ -1,4 +1,5 @@
 ---
+
 title: "Mary's Turkey Organic Oven Roasted Turkey"
 seo_title: "Mary's Turkey Organic Oven Roasted Turkey Review: Verdict"
 meta_description: "Our full mary's turkey organic oven roasted turkey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CVQH464Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z-8mX9jEL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this isn't a coffee maker, and I'm not going to pretend it is. Mary's Turkey Organic Oven Roasted Turkey is a packaged deli meat that's been making the rounds on Amazon with 215 ratings and a solid 4.3-star average. If you clicked expecting caffeine, I apologize. If you clicked because you're tired of rubbery, chemical-laden lunch meat, stick around — this might be the upgrade you're looking for.

@@ -1,4 +1,5 @@
 ---
+
 title: "We Sell Mats 5 x 10 Foot Gymnastics Tumbling Mat"
 seo_title: "We Sell Mats 5 x 10 Foot Gymnastics Tumbling Mat Review: "
 meta_description: "Our full we sell mats 5 x 10 foot gymnastics tumbling mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B071H48F63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UO1ayHPdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The We Sell Mats 5x10 is the Goldilocks option for home gymnasts — thick enough for real tumbling skills, large enough for actual routines, and foldable enough to live in a garage or spare room. It's not the cheapest or lightest mat in its class, but it's the one most buyers say they'd repurchase.

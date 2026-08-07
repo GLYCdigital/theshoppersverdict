@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Princess Dress Up Trunk Deluxe 21 Piece Officially Li"
 seo_title: "Disney Princess Dress Up Trunk Deluxe Review: 21-Piece Set"
 meta_description: "Honest Disney Princess Dress Up Trunk Deluxe 21-Piece review: quality, sizing, what's inside, and who should buy it. Real parent feedback included."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07BZYL5F8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oo0dsTetL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes 5 full-length princess gowns with matching accessories in one organized trunk"
   - "Officially licensed Disney product with recognizable character designs kids actually want"
   - "Trunk doubles as storage — keeps 21 pieces contained when playtime ends"
-cons:
+cons: 
   - "Gown sizes run small; taller 6-7 year olds may find dresses too short or snug"
   - "Velcro closures and shoe straps are the weak points — expect some wear with heavy use"
   - "Plastic gems and tiaras can pop off; not a toy for rough handlers"
+
 ---
 
 If your kid has ever twirled in front of the TV during a Disney movie, you already know what this trunk represents. It's the difference between watching Cinderella and *being* Cinderella. The Disney Princess Dress Up Trunk Deluxe 21 Piece is exactly what the name promises — a full costume wardrobe in a box. But is it worth the shelf space? Here's what 225 buyers at 4.5 stars have to say, plus what the listing photos don't tell you.

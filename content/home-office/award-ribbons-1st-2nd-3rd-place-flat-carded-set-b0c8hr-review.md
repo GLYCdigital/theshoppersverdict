@@ -1,4 +1,5 @@
 ---
+
 title: "Award Ribbons 1st, 2nd, 3rd Place Flat Carded Set"
 seo_title: "Award Ribbons 1st 2nd 3rd Place Review: Worth It?"
 meta_description: "Honest review of Award Ribbons 1st, 2nd, 3rd Place Flat Carded Set. See quality, sizing, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C8HRFWY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dG8auuW-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, bold lettering that stays legible from across a room — no peeling or fading after repeated handling"
   - "Sturdy 100% polyester ribbon with clean, heat-sealed edges that don't fray or curl"
   - "Gold-plated clasps actually hold — no accidental drops when pinned to shirts or hung on lanyards"
-cons:
+cons: 
   - "Ribbons arrive folded in the carded packaging, so crease lines remain unless you steam or iron them flat"
   - "Only one of each place (1st, 2nd, 3rd) per pack — not ideal if you're running multiple heats or categories"
+
 ---
 
 Let’s be honest: most award ribbons are afterthoughts. You pin one on a kid, they wear it for an hour, and it ends up in a drawer. This flat carded set from B0C8HRFWY8 isn't trying to reinvent the wheel — but it does the basics so well that you'll actually feel good handing these out.

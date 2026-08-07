@@ -1,4 +1,5 @@
 ---
+
 title: "Minetom Solar String Lights Outdoor Waterproof"
 seo_title: "Minetom Solar String Lights Outdoor Waterproof Review: Ve"
 meta_description: "Our full minetom solar string lights outdoor waterproof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CX8SB45V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Svvp3zelL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Solar string lights are a crowded category. Most are cheap, dim, and die after one season. The Minetom set, at 4.3 stars across 215 ratings, is doing something right. But is it the right pick for your deck, pergola, or balcony? Here's the honest breakdown.

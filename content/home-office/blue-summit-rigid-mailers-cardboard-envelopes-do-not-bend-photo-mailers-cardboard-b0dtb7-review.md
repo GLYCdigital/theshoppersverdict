@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Summit Rigid Mailers, Cardboard Envelopes, Do Not Bend"
 seo_title: "Blue Summit Rigid Mailers Review: 2026 Cardboard Envelope Test"
 meta_description: "Honest Blue Summit rigid mailers review: thickness, durability, real-world shipping tests, and who should buy these Do Not Bend cardboard envelopes."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTB7KK768/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KmZp6-yqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Substantial 38-point cardboard resists bending — noticeably stiffer than standard manila mailers"
   - "Self-seal adhesive strip holds firmly even after repeated postal sorting"
   - "Fits 8.5x11 documents flat without folding; no need for extra bubble wrap on most items"
-cons:
+cons: 
   - "No peel-and-stick closure on all variants — some require moistening or tape"
   - "Bulkier than poly mailers; shipping costs slightly more for lightweight items"
   - "Limited size range; larger formats for posters or blueprints not offered"
+
 ---
 
 You've shipped one too many bent photographs, an art print that arrived creased, or a certificate that looked like it went through a washing machine. The Blue Summit rigid mailers exist to end that frustration. With a 4.6-star average across 229 ratings, these cardboard envelopes have become the quiet workhorse for sellers, photographers, and anyone who refuses to trust their important paper to flimsy packaging.

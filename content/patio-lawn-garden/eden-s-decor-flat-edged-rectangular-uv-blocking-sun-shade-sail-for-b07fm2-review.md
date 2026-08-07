@@ -1,4 +1,5 @@
 ---
+
 title: "Eden's Decor Flat-Edged Rectangular UV-Blocking Sun Shade Sa"
 seo_title: "Eden's Decor Sun Shade Sail Review: 4.6-Star UV Protection"
 meta_description: "Eden's Decor flat-edge sun shade sail review: real UV protection, easy install, durable fabric. See pros, cons, and who should buy this 4.6-star patio cover."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07FM2TVMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I-enkFbnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 95% UV blockage with a tight 200gsm HDPE weave that actually cools the space beneath"
   - "Flat-edged rectangular design installs taut without the saggy center dip common to curved sails"
   - "Reinforced triple-stitched hems and stainless steel D-rings hold up in real wind, not just calm days"
-cons:
+cons: 
   - "No included hardware — you're buying turnbuckles, carabiners, and mounting points separately, which adds $15–30 to the total"
   - "Water pools in the center during heavy rain; it's a shade sail, not a waterproof roof, and some buyers were surprised by that"
+
 ---
 
 The backyard shade market is flooded with cheap triangles that fade, tear, or droop within a season. The Eden's Decor Flat-Edged Rectangular Sun Shade Sail is not one of those. With a 4.6-star average across 229 ratings, this is a legitimately solid piece of patio hardware — but it's not a magic umbrella. Here's what you need to know before you buy.

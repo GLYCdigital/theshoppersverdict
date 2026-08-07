@@ -1,4 +1,5 @@
 ---
+
 title: "fash n kolor Exquisite Buggy | Foldable Pram for Baby Doll w"
 seo_title: "fash n kolor Exquisite Buggy Review: Foldable Doll Pram"
 meta_description: "Honest fash n kolor Exquisite Buggy review: foldable doll pram with polka-dot canopy. Real pros, cons, and who should buy it. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTML5ZN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rxMgNIV+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely folds flat for storage — rare in this price tier of doll strollers"
   - "Sturdy steel frame holds up to 33 lbs, so it survives aggressive toddler pushing"
   - "Polka-dot canopy and padded seat give it a premium look that photographs well"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 15 minutes of patience; wheels can be finicky to snap on"
   - "No storage basket underneath — you'll need to carry doll accessories separately"
+
 ---
 
 **The fash n kolor Exquisite Buggy isn't just another plastic doll stroller that collapses after a week of aggressive toddler play.** After digging through 229 ratings averaging 4.6 stars, the pattern is clear: this one holds up. The steel frame is the headline feature here — most doll prams in this price range use thin plastic that warps or cracks. This one doesn't.

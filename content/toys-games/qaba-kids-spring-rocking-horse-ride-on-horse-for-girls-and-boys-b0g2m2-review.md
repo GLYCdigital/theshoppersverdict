@@ -1,4 +1,5 @@
 ---
+
 title: "Qaba Kids Spring Rocking Horse, Ride on Horse for Girls and "
 seo_title: "Qaba Kids Spring Rocking Horse, Ride on Horse for  Review"
 meta_description: "Our full qaba kids spring rocking horse, ride on horse for girls and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G2M2F36Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715cka6H7iL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Qaba Kids Spring Rocking Horse isn't trying to be a tablet with a saddle.** It's a throwback — a mechanical bouncer that builds gross motor skills the old-fashioned way. And for most toddlers, that's exactly the point. With a 4.3-star average across 215 ratings, it's clearly connecting with families. But is it worth your money? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Arnold Corporation 19A30034000 Twin Bagger for Husqvarna Out"
 seo_title: "Arnold 19A30034000 Twin Bagger Review: Husqvarna 42 inch  Fit"
 meta_description: "Arnold Corporation 19A30034000 Twin Bagger review for Husqvarna 42 inch  tractors. Real pros, cons, fit issues, and buying verdict from 185+ ratings."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B06XRVSGK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vn20HHJ4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - Genuine Arnold OEM part — direct bolt-on for Husqvarna 42 inch " decks without adapter kits
   - "Twin 6-bushel bags with steel frames and canvas construction that hold up to regular mowing"
   - "Includes all mounting hardware, brackets, and a full instruction manual — no surprise trips to the hardware store"
-cons:
+cons: 
   - "Bag attachment arms can bind against the rear tires on tight turns, especially on uneven ground"
   - "Several owners report the chute-to-deck seal isn't perfect, leading to grass clippings escaping onto the lawn"
   - "Fan impeller is plastic — it cracks if you suck up sticks or large debris, and replacements aren't cheap"
+
 ---
 
 If you own a Husqvarna 42-inch lawn tractor and you're tired of raking, the Arnold Corporation 19A30034000 Twin Bagger looks like the obvious fix. It's a genuine OEM part, not a universal fit-this-maybe adapter kit. But with a 3.7-star average across 185 ratings, the real story is more complicated than "it works." Here's what you actually need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Buffalo MediaStation 16x Desktop BDXL Blu-Ray Writer (BRXL-1 inch"
 seo_title: "Buffalo MediaStation 16x BDXL Blu-Ray Writer Review (2026)"
 meta_description: "Honest Buffalo MediaStation 16x BDXL Blu-Ray Writer review: speed, build quality, M-DISC support, and whether it's worth your money in 2026."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B093QHMGMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kB3xlkBsL._AC_SL1191_.jpg"
-pros:
+pros: 
   - "True 16x BD-R write speed — burns a 25GB disc in under 10 minutes, not the 6x/8x you get from slimmer portables"
   - "BDXL support up to 128GB per disc, plus M-DISC compatibility for 1,000-year archival-grade burns"
   - "USB 3.0 with a separate AC adapter — consistent power delivery means fewer failed burns at high speeds"
-cons:
+cons: 
   - "Bulky and heavy (2.6 lbs) — this is not a travel drive, despite its desktop-friendly footprint"
   - "No bundled CyberLink or PowerDVD software — you'll need third-party burning apps for BDXL and M-DISC"
   - "Firmware updates require a Windows PC; Mac users can't update via the included utility"
+
 ---
 
 Let's cut through the noise: most external Blu-ray writers under $150 are slim, plastic, and burn at 6x or 8x speeds. The Buffalo MediaStation 16x is not that. It's a full-height desktop drive in a vertical-friendly enclosure, and it's built for people who actually archive data rather than just rip a few movies.

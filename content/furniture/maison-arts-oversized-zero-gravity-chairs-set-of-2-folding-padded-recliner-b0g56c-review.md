@@ -1,4 +1,5 @@
 ---
+
 title: "MAISON ARTS Oversized Zero Gravity Chairs Set of 2, Folding "
 seo_title: "MAISON ARTS Oversized Zero Gravity Chairs Set of 2 Review"
 meta_description: "Our full maison arts oversized zero gravity chairs set of 2, folding  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G56CW86X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X4-0K5lVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you: most zero-gravity chairs on Amazon are built for someone who's 5'8" and 160 pounds. If that's not you, you've probably felt the frame digging into your shoulders or your legs hanging off the edge. The MAISON ARTS Oversized Zero Gravity Chairs set of 2 is explicitly designed for the rest of us. And after digging through 225 ratings averaging 4.5 stars, the consensus is clear — this is one of the better values in the oversized category, with a few honest tradeoffs you need to know about before buying.

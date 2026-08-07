@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Door Lock Installation Kit, C Clamp Design Hole Saw K"
 seo_title: "DEWALT Door Lock Installation Kit Review: Is It Worth It?"
 meta_description: "Our DEWALT Door Lock Installation Kit review covers the C-clamp hole saw design, build quality, and real-world performance. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000BOPE56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dmY9HjkxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "C-clamp design locks both sides of the door simultaneously, eliminating tear-out and blowout on the backside"
   - Includes both 2-1/8\" and 2-1/2\" hole saws plus a 1\" latch bore bit — covers virtually all standard residential lockset sizes
   - "Hardened steel hole saws with carbide teeth stay sharp through multiple installs"
-cons:
+cons: 
   - "The pilot drill bit is not replaceable — once it dulls, you're buying a whole new kit"
   - "Clamp alignment requires careful setup; off-center mounting causes the saw to bind on thicker doors"
+
 ---
 
 # DEWALT Door Lock Installation Kit Review: Precision Boring Without the Splintered Backs

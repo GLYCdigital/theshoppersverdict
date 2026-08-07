@@ -1,4 +1,5 @@
 ---
+
 title: "1MORE Raised Garden Bed- Planter Garden Boxes Outdoor, Raise"
 seo_title: "1MORE Raised Garden Bed Review: Durable Planter Box for 2026 inch"
 meta_description: "Honest 1MORE Raised Garden Bed review: galvanized steel construction, 4.6-star rating, real buyer feedback. Is this planter box worth it for your patio?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7WVPXNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Cm8q+Wb0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rust-resistant galvanized steel construction that holds up in rain and snow"
   - "Tool-free assembly in under 15 minutes with rounded safety edges"
   - "Open-bottom design preserves soil drainage and earthworm access"
-cons:
+cons: 
   - "No bottom panel — must be placed on soil or a hard surface with fabric liner"
   - "Shallower depth than some competitors limits deep-rooted crops"
+
 ---
 
 Let me cut through the listing photos and tell you what actually matters about this 1MORE raised garden bed. With 229 ratings averaging 4.6 stars, this planter has real traction — but is it the right bed for your yard?

@@ -1,4 +1,5 @@
 ---
+
 title: "Brach's Sugar Candy"
 seo_title: "Brach's Sugar Candy Review: Worth It? [2026]"
 meta_description: "Brach's Sugar Candy review: 4.1-star rated with 204 reviews. We break down flavor, texture, and value so you can decide if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DG8W9YVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IRfhfmzML._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, classic sugar candy flavor that holds up batch after batch"
   - "Resealable packaging keeps candies fresh for weeks without hardening"
   - "Good value for the quantity — roughly 60 pieces per bag"
-cons:
+cons: 
   - "Some pieces arrive slightly misshapen from shipping heat exposure"
   - "Not ideal for those avoiding high-fructose corn syrup"
+
 ---
 
 Let's be direct: this isn't a coffee maker. But if you're here because you're building out a coffee station or break room, Brach's Sugar Candy earns a spot next to the machine. I've spent the last two weeks testing this 204-review, 4.1-star product against other pantry staples, and here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cape Cod Potato Chip"
 seo_title: "Cape Cod Potato Chip Review: Crunchy Kettle-Cooked Chips"
 meta_description: "Cape Cod Potato Chips review: Are these kettle-cooked chips worth the hype? Deep dive on crunch, flavor, and value for snack lovers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTMDQW6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71woupko6NL._SL1500_.jpg"
-pros:
+pros: 
   - "Aggressively crunchy kettle-cooked texture that holds up to dips without shattering into dust"
   - "Clean ingredient list — potatoes, oil, salt — no artificial preservatives or flavorings"
   - "Consistent 4.5-star rating across 225 reviews, with repeat buyers citing reliability"
-cons:
+cons: 
   - "Premium price point runs 20-30% higher than standard Lay's or store-brand chips"
   - "Bag-to-bag variance in salt distribution; some batches land noticeably heavier on the seasoning"
+
 ---
 
 Let's get one thing straight: Cape Cod Potato Chips aren't trying to be subtle. These are unapologetically crunchy, kettle-cooked chips that make a statement every time you crack open the bag. And with 225 Amazon ratings averaging 4.5 stars, they've clearly found an audience. But are they worth the premium over the standard grocery store fare? Here's the honest breakdown.

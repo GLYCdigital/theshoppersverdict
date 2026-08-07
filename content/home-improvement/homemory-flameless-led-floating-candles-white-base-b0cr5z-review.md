@@ -1,4 +1,5 @@
 ---
+
 title: "Homemory Flameless Led Floating Candles (White Base)"
 seo_title: "Homemory Flameless Led Floating Candles (White Bas Review"
 meta_description: "Our full homemory flameless led floating candles (white base) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CR5Z3MDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AXm+hwqoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** These are the rare floating candles that actually look real. The white base disappears against water, the 3D wick throws a convincing warm flicker, and 240 buyers agree — 4.8 stars speaks for itself. If you're planning a wedding centerpiece, a bathtub setup, or a backyard pond feature, these earn their keep. Just know what you're NOT getting before you click buy.

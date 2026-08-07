@@ -1,4 +1,5 @@
 ---
+
 title: "ECO-WORTHY Solar Panel Dual Axis Tracking System"
 seo_title: "ECO-WORTHY Dual Axis Solar Tracker Review (2026)"
 meta_description: "Honest ECO-WORTHY dual axis solar tracking system review: build quality, real output gains, installation pain points, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F5HGK5ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZP+z1Cu0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-axis tracking delivers measurable 25–40% output gains over fixed mounts in real user tests"
   - "All-aluminum frame and stainless hardware survive high winds when properly guy-wired"
   - "Universal mounting rails fit most 100W–400W panels without drilling custom holes"
-cons:
+cons: 
   - "Controller setup is finicky — several buyers report needing multiple attempts to calibrate the light sensors"
   - "No wind sensor means the tracker stays flat in gusts instead of stowing to protect the panel"
+
 ---
 
 Let's be blunt: most solar trackers under $500 are flimsy, overpriced gimmicks. The ECO-WORTHY Dual Axis Tracking System is not that. It's a legitimate piece of hardware that can squeeze 30% more juice out of your panels — but only if you're willing to wrestle with the electronics during setup.

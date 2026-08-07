@@ -1,4 +1,5 @@
 ---
+
 title: "Sour Gushers, Super Sour Viral Gushers, Irresistable Extra S"
 seo_title: "Sour Gushers, Super Sour Viral Gushers, Irresistab Review"
 meta_description: "Our full sour gushers, super sour viral gushers, irresistable extra s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSRWFW8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819DIERAeeL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what's happening here: these are not your grocery-store gummy bears with a sprinkle of citric acid. The Sour Gushers, Super Sour Viral Gushers, Irresistable Extra S — the name is a mouthful, and so is the flavor — have built a reputation online as the candy that makes you involuntarily squint. At 4.2 stars from 210 ratings, they're not perfect, but they're close to exactly what sour candy enthusiasts want.

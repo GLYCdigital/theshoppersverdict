@@ -1,4 +1,5 @@
 ---
+
 title: "Not Your Mother's Curl Talk Frizz Control Sculpting Gel and "
 seo_title: "Not Your Mother's Curl Talk Frizz Control Sculptin Review"
 meta_description: "Our full not your mother's curl talk frizz control sculpting gel and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FR6G8Q7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c0-i48QYL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: most drugstore curl gels either give you crunchy 1980s curls or do absolutely nothing against frizz. This one from Not Your Mother's sits in a sweeter spot — and here's why it's earned a 4.5-star average from 225 reviewers.

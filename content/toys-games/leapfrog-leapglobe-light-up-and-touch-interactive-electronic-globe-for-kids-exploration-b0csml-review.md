@@ -1,4 +1,5 @@
 ---
+
 title: "LeapFrog LeapGlobe Light-Up and Touch Interactive Electronic"
 seo_title: "LeapFrog LeapGlobe Light-Up and Touch Interactive  Review"
 meta_description: "Our full leapfrog leapglobe light-up and touch interactive electronic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSML2XW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hPGmn-UbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've got a curious 4-to-8-year-old who asks "where do penguins live?" on repeat, the LeapFrog LeapGlobe delivers. It's a light-up, touch-activated globe that turns geography into a game — no apps, no Wi-Fi, no screen. At a 4.6-star average across 229 ratings, it's clearly earning its keep in living rooms. But it's not without quirks.

@@ -1,4 +1,5 @@
 ---
+
 title: "CIDETTY Laptop Screen Extender Portable, Detachable 15.6 inch  FH"
 seo_title: "CIDETTY Laptop Screen Extender Review: Detachable 15.6 inch  FHD"
 meta_description: "CIDETTY laptop screen extender review: detachable 15.6 inch  FHD 1080p portable monitor. Real performance, build quality, and buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DC6BTJMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ErgfModTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Detachable design — works as a standalone portable monitor via HDMI, not just a clipped extender"
   - "True 1080p FHD resolution on a 15.6-inch panel with solid color reproduction for spreadsheets and documents"
   - "Plug-and-play USB-C connectivity with no driver installation required on Windows, Mac, and most Linux builds"
-cons:
+cons: 
   - "Single USB-C cable carries both power and video; if your laptop's port doesn't output enough wattage, you'll need the included power adapter, adding cable clutter"
   - "Hinge mechanism is functional but not premium — repeated detaching and reattaching can feel slightly loose over time"
   - "No built-in battery, so it's strictly a tethered device; don't expect to use it as a standalone tablet or wireless display"
+
 ---
 
 The CIDETTY Laptop Screen Extender is a different beast from the dozens of "plug-and-pray" portable monitors flooding Amazon. It's a 15.6-inch 1080p panel that clips onto the back of your laptop lid, flips out to one side, and gives you an instant dual-screen setup. But here's the twist that sets it apart: it detaches completely and works as a standalone portable monitor via HDMI. That's not marketing fluff — it's a genuinely useful feature that most competing extenders lack.

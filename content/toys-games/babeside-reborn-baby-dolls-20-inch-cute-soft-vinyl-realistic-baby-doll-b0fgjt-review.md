@@ -1,24 +1,26 @@
 ---
+
 title: "BABESIDE Reborn Baby Dolls - 20-inch Cute Soft Vinyl Realist"
 seo_title: "BABESIDE Reborn Baby Doll Review: 20-Inch Realistic Vinyl"
 meta_description: "Honest BABESIDE 20-inch reborn baby doll review: soft vinyl realism, weight, and cuddliness. See pros, cons, and who should buy."
 slug: "babeside-reborn-baby-dolls-20-inch-cute-soft-vinyl-realistic-baby-doll-b0fgjt-review"
 image_alt: "BABESIDE 20-inch reborn baby doll with soft vinyl limbs and realistic facial details"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGJTZY5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R6aWz+VNL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Weighted cloth body with soft vinyl limbs feels substantial (about 3–4 lbs), not hollow or cheap"  
   - "Realistic painted details — veins, creases, and rooted eyelashes — for the price point"  
   - "Fully poseable head and limbs; easy to dress in standard 18–20 inch baby clothes"  
-cons:  
+cons: 
   - "Scented vinyl smell out of the box lingers for a few days; some buyers dislike the artificial baby powder odor"  
   - "Rooted hair is sparse in spots and can shed slightly; not meant for aggressive brushing"  
   - "Clothing and accessories in the box are minimal — you'll likely want to buy separate outfits"
+
 ---
 
 **Is the BABESIDE 20-inch reborn doll a convincing cuddle companion or just another collectible dust magnet?**  

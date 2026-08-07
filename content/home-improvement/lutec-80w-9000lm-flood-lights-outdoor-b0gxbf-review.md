@@ -1,4 +1,5 @@
 ---
+
 title: "LUTEC 80W 9000LM Flood Lights Outdoor"
 seo_title: "LUTEC 80W 9000LM Flood Lights Outdoor Review: Verdict | T"
 meta_description: "Our full lutec 80w 9000lm flood lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXBFQW96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uDbNTPk1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you need to turn your backyard into a daylight-bright security zone, the LUTEC 80W 9000LM flood light delivers serious output for the price. It's not fancy — no motion detection, no smart features — but it does one thing exceptionally well: flood an area with light.

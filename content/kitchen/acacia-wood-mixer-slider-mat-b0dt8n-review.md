@@ -1,4 +1,5 @@
 ---
+
 title: "Acacia Wood Mixer Slider Mat"
 seo_title: "Acacia Wood Mixer Slider Mat Review: Solid Grip or Gimmick?"
 meta_description: "Our honest Acacia Wood Mixer Slider Mat review: durable acacia build, non-slip grip, real kitchen results. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DT8NG1YH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f1rkqxq5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 1-inch acacia wood slab with rounded edges that won't splinter or warp under a heavy 20-quart mixer"
   - "Silicone feet grip granite, quartz, and butcher block — mixer stays put even at speed 10 with stiff dough"
   - "Doubles as a serving board for bread or charcuterie — genuinely useful beyond the mixer"
-cons:
+cons: 
   - "Shows water rings if you leave it wet — needs occasional mineral oil treatment to keep the finish"
   - "At roughly 24 x 16 inches, it's tight for larger 7-quart commercial mixers with wide bases"
+
 ---
 
 If you've ever wrestled a stand mixer across a slick countertop while it kneads stiff dough, you know the frustration. The Acacia Wood Mixer Slider Mat aims to end that dance. After 235 Amazon ratings averaging 4.7 stars, I dug into what real buyers say — and put this board through its paces.

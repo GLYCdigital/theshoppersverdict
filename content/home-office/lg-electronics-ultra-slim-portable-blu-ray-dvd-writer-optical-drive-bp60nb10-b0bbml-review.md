@@ -1,4 +1,5 @@
 ---
+
 title: "LG Electronics Ultra Slim Portable Blu-ray/DVD Writer Optica"
 seo_title: "LG Electronics Ultra Slim Portable Blu-ray/DVD Wri Review"
 meta_description: "Our full lg electronics ultra slim portable blu-ray/dvd writer optica review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BBMLSC8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TzNPhqWtL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most laptops in 2026 don't have optical drives, and most people don't miss them. But if you're archiving family videos, backing up 50GB of project files, or still buying physical media, the LG BP60NB10 makes a compelling case for itself. At 4.3 stars across 215 ratings, it's the portable Blu-ray burner that keeps showing up in "best external optical drive" roundups — and not just because LG dominates this niche.

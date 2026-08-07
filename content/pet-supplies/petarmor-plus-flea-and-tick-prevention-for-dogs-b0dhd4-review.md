@@ -1,4 +1,5 @@
 ---
+
 title: "PetArmor Plus Flea and Tick Prevention for Dogs"
 seo_title: "PetArmor Plus Flea and Tick Prevention for Dogs Review: V"
 meta_description: "Our full petarmor plus flea and tick prevention for dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHD4MM96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71InlugjBXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # PetArmor Plus Flea and Tick Prevention for Dogs: The Budget-Friendly Frontline Clone That Actually Works

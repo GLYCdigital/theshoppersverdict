@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons PAC-Man Arcade Building Sets for Adults - Collect"
 seo_title: "LEGO Icons PAC-Man Arcade Building Sets for Adults Review"
 meta_description: "Our full lego icons pac-man arcade building sets for adults - collect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGYQ2WJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RTcZf5fmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Icons PAC-Man Arcade set is the rare build that earns its shelf space.** It's not just another brick cabinet with a sticker slapped on the front. This thing has a working crank that literally moves PAC-Man and the ghosts around a fully realized maze. That mechanical detail separates it from every other retro-gaming LEGO set on the market.

@@ -1,4 +1,5 @@
 ---
+
 title: "Glorious Gaming Model O 2 Wireless Gaming Mouse - Hybrid 2.4"
 seo_title: "Glorious Gaming Model O 2 Wireless Gaming Mouse -  Review"
 meta_description: "Our full glorious gaming model o 2 wireless gaming mouse - hybrid 2.4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BLF5NH32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DinzbxU3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Glorious Gaming Model O 2 Wireless: The Featherweight That Pulls Double Duty

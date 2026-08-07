@@ -1,4 +1,5 @@
 ---
+
 title: "Gorilla Mats Extra Large Exercise Mat â€“ 9'x6', 12'x6', 15'"
 seo_title: "Gorilla Mats Extra Large Exercise Mat â€“ 9'x6', 1 Review"
 meta_description: "Our full gorilla mats extra large exercise mat â€“ 9'x6', 12'x6', 15' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07WZQ9GVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H5DQ+6YqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most extra-large exercise mats are either glorified yoga mats stretched thin or industrial stall mats that smell like a tire fire for a month. The Gorilla Mats Extra Large line sits in a sweet spot that's surprisingly rare: genuine 8mm thickness, closed-cell rubber construction, and a reversible surface that actually serves two different training styles. But at these sizes and weights, it's not for everyone. Here's the breakdown.

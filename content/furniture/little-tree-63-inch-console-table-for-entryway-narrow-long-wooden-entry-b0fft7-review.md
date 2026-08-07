@@ -1,4 +1,5 @@
 ---
+
 title: "LITTLE TREE 63-Inch Console Table for Entryway, Narrow Long "
 seo_title: "LITTLE TREE 63-Inch Console Table for Entryway, Na Review"
 meta_description: "Our full little tree 63-inch console table for entryway, narrow long  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFT7NDP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qTEJ8Fw4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 63-inch LITTLE TREE console table solves a specific problem: you need serious surface area in a hallway that isn't wide enough for a standard 16-inch-deep buffet.** At 11.8 inches deep, it hugs the wall without eating your walkway. But is it worth your money? I've dug through 225 ratings to give you the real picture.

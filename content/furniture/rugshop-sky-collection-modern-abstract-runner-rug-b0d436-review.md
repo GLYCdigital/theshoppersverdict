@@ -1,4 +1,5 @@
 ---
+
 title: "Rugshop Sky Collection Modern Abstract Runner Rug"
 seo_title: "Rugshop Sky Collection Modern Abstract Runner Rug Review:"
 meta_description: "Our full rugshop sky collection modern abstract runner rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D436QK3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Io1MbuaL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A runner rug has a thankless job: it sits in a hallway, catches muddy boots and coffee drips, and gets walked over hundreds of times a day. The Rugshop Sky Collection Modern Abstract Runner Rug understands its role. At 4.6 stars from 229 ratings, it's clearly doing something right — but before you add it to your cart, here's what you actually need to know.

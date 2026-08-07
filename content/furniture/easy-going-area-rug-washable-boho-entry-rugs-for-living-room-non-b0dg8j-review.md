@@ -1,4 +1,5 @@
 ---
+
 title: "Easy-Going Area Rug Washable Boho Entry Rugs for Living Room"
 seo_title: "Easy-Going Washable Boho Area Rug Review: Worth It?"
 meta_description: "Honest Easy-Going washable boho area rug review: durability, cleaning results, shedding, and sizing. Is this 4.4-star entry rug right for your home?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DG8JYG8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MFrxYSojL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True machine-washable construction holds up to repeated cycles without fraying or losing fiber integrity"
   - "Low-profile 0.2-inch pile sits flat under doors and chairs — no tripping hazard in high-traffic entries"
   - "Non-slip latex backing grips hardwood and tile firmly, even without a separate rug pad"
-cons:
+cons: 
   - "Thin cushioning means it's not comfortable for extended standing — better as a visual accent than a kitchen work mat"
   - "Boho pattern shows lint and pet hair quickly on darker contrast areas; requires frequent vacuuming to stay crisp"
+
 ---
 
 ## The Washable Rug That Actually Survives the Wash

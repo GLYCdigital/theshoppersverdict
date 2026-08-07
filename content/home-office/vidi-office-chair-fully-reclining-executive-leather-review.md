@@ -1,16 +1,17 @@
 ---
+
 title: "VIDI Office Chair Fully Reclining Executive Leather"
 seo_title: "VIDI Office Chair Review: Verdict (3.6/5) | TSV"
 meta_description: "VIDI fully reclining executive leather chair reviewed: 7-point vibration massage, ergonomic backrest, metal frame. Our honest verdict on a new listing."
 slug: "vidi-office-chair-fully-reclining-executive-leather-review"
 image_alt: "VIDI fully reclining executive leather office chair with vibration massage"
-keywords:
+keywords: 
   - "vidi office chair review"
   - "fully reclining executive chair"
   - "office chair with massage"
   - "leather office chair"
 verdict_score: 3.6
-faq:
+faq: 
   - question: "Does the VIDI office chair have a massage function?"
     answer: "Yes — the chair includes seven vibration points designed to ease body soreness after long hours of desk work, along with a fully reclining backrest."
   - question: "Is the VIDI executive chair good for long office hours?"
@@ -23,15 +24,16 @@ review_count: 0
 amazon_rating: null
 amazon_url: "https://www.amazon.com/dp/B0GV3X5T9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Em7m6RaDL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Fully reclining backrest with seven vibration massage points"
   - "Curved ergonomic backrest targeting back fatigue"
   - "Weight-bearing metal frame adds stability"
   - "Waist, back, and neck support in one seat"
-cons:
+cons: 
   - "New listing — no verified customer reviews yet"
   - "Premium $250 price point with no long-term durability data"
   - "Leather upholstery comfort unverified for hot climates"
+
 ---
 
 Let me be direct with you: a $249.99 "fully reclining executive leather" chair is a gamble. The VIDI Office Chair is exactly that kind of bet, and the 3.6-star rating tells you part of the story. Here's the rest.

@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Albion Brushed Gold Bathroom Faucet 1 Hole"
 seo_title: "Delta Albion Brushed Gold Faucet Review: Worth It?"
 meta_description: "Delta Albion Brushed Gold bathroom faucet review: real-world performance, finish durability, and installation tips from 220+ ratings."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FNX7FSHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iHsWFvAKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal Technology eliminates the need for a rubber washer, reducing leak points and extending valve life"
   - "Brushed gold finish resists fingerprints and water spots far better than polished gold alternatives"
   - "Single-hole design with optional deck plate gives flexibility for 1 or 3-hole sink configurations"
-cons:
+cons: 
   - "Brushed gold won't perfectly match polished gold fixtures—finish mismatch is a real complaint"
   - "Pop-up drain assembly feels lighter than premium brands; some buyers swapped it out immediately"
   - "Handle throw is shorter than expected, making precise temperature adjustment trickier"
+
 ---
 
 The Delta Albion in brushed gold is the faucet you buy when you want the warm, luxury look of gold without the maintenance nightmare of polished finishes. At 4.4 stars across 220 ratings, it's clearly doing something right—but let's dig into whether it's the right pick for your bathroom remodel.

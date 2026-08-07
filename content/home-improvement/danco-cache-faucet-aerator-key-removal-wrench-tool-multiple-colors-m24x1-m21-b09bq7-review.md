@@ -1,4 +1,5 @@
 ---
+
 title: "Danco Cache Faucet Aerator Key Removal Wrench Tool, Multiple"
 seo_title: "Danco Cache Faucet Aerator Wrench Review: Does It Work?"
 meta_description: "Honest Danco Cache faucet aerator key review: tested on M24x1 and M21 threads. See pros, cons, and whether this $10 tool beats pliers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BQ79GTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZHagP1AjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits both M24x1 and M21 cache aerator threads — covers the two most common hidden aerator sizes"
   - "Machined aluminum with knurled grip gives solid torque without marring chrome finishes"
   - "Under $10 — cheaper than a plumber visit and pays for itself the first time you use it"
-cons:
+cons: 
   - "Won't touch standard external-thread aerators — you still need a separate key for those"
   - "Short handle limits leverage on aerators seized by hard water scale"
   - "No size markings on the tool itself — easy to grab the wrong end in a cluttered drawer"
+
 ---
 
 Some faucet aerators are designed to be invisible. That's the problem. The cache (or concealed) aerator sits flush inside the faucet spout with no external threads to grip, so you can't just twist it off with your fingers or a standard key. You need a specialized removal tool. The Danco Cache Faucet Aerator Key is one of the most affordable options for this job, and at 4.4 stars across 220 ratings, it's clearly helping people. But is it the right tool for *your* faucet? Let's break it down.

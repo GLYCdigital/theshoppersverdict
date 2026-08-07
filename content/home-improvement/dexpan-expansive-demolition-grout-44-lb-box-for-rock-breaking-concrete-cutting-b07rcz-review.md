@@ -1,4 +1,5 @@
 ---
+
 title: "Dexpan Expansive Demolition Grout 44 Lb. Box for Rock Breaki"
 seo_title: "Dexpan Expansive Demolition Grout Review: 44 Lb. Box (2026)"
 meta_description: "Dexpan 44 lb. expansive demolition grout review: silent rock breaking, no explosives. Real performance data, buyer feedback, pros & cons."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07RCZHKRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wdsERnPjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "No vibration, dust, or flyrock — works in tight urban spaces where blasting is illegal or unsafe"
   - One 44 lb. box yields roughly 0.87 cubic feet of grout, enough for 12–16 holes at 1.5 inch " diameter × 18 inch " deep
   - "Consistent 18,000 psi expansion force; cracks rock and concrete within 10–24 hours regardless of temperature down to 32°F"
-cons:
+cons: 
   - "Slow process — it's not instant. You drill, mix, pour, then wait. Plan for 24+ hours of downtime"
   - Requires a hammer drill, 1.5 inch "–2 inch " bits, and careful hole spacing (10–12 inch " apart); no shortcuts if you want clean breaks
   - "Boxes arrive as 4 separate 11 lb. bags — you may need to buy multiple boxes for larger jobs"
+
 ---
 
 Let's be blunt: if you're expecting a jackhammer substitute that cracks concrete in five minutes, Dexpan will frustrate you. But if you need to split rock or concrete where explosives are illegal, vibration is a hazard, or noise complaints are a real threat, this is the most elegant solution you'll find — provided you respect the physics.

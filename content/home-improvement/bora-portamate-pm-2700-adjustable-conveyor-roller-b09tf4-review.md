@@ -1,4 +1,5 @@
 ---
+
 title: "Bora Portamate PM-2700 Adjustable Conveyor Roller"
 seo_title: "Bora Portamate PM-2700 Review: Adjustable Roller Stand"
 meta_description: "Bora Portamate PM-2700 adjustable conveyor roller review: height range, weight capacity, build quality, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TF462P1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ek6wUzkhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Height range from 25.5 to 44 inches covers table saws, miter saws, and workbenches without swapping stands"
   - "Steel frame and rubber-coated rollers handle heavy sheet goods without marring surfaces"
   - "Folds flat in seconds with no tools, storing in tight spaces between jobs"
-cons:
+cons: 
   - "Rubber roller surface creates noticeable drag on lightweight materials like thin trim"
   - "Base footprint is narrower than some competitors, requiring care on uneven shop floors"
   - "No quick-release height lock — adjusting requires loosening a knob each time"
+
 ---
 
 If you've ever wrestled a 4x8 sheet of plywood through a table saw alone, you know the pain — the sag, the bind, the dangerous kickback when the sheet catches. The Bora Portamate PM-2700 takes direct aim at that problem with an adjustable conveyor roller that's become a staple in 220 Amazon reviews averaging 4.4 stars. Here's the real story after digging through buyer feedback and spec sheets.

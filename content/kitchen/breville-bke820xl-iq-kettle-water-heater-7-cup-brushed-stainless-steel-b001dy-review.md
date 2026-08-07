@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BKE820XL IQ Kettle Water Heater, 7 Cup, Brushed Sta"
 seo_title: "Breville BKE820XL IQ Kettle Review: Precise Temps, 7-Cup"
 meta_description: "Breville BKE820XL IQ Kettle review: variable temperature control, 7-cup capacity, brushed steel build. Is it worth the price? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001DYERBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hsqzZhjZL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Variable temperature dial from 140°F to 212°F with 1.7L capacity"
   - "One-touch hold temperature function keeps water at set temp for 20 minutes"
   - "Cool-touch brushed stainless steel body with hidden, auto-cleaning heating element"
-cons:
+cons: 
   - "No auto shutoff when lifted from base — must manually power off"
   - "Cord storage is minimal; cord is fixed and somewhat short (about 30 inches)"
   - "Price sits well above basic kettles — a premium for precision you may not need"
+
 ---
 
 Let me be straight with you: most electric kettles are dumb. They boil water to 212°F and stop. That's fine for pasta water, but it ruins delicate teas and pour-over coffee. The Breville BKE820XL IQ Kettle is not dumb. It's a precision instrument disguised as a kitchen appliance — and for the right person, it's worth every penny.

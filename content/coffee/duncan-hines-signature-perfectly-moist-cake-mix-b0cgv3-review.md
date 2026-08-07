@@ -1,4 +1,5 @@
 ---
+
 title: "Duncan Hines Signature Perfectly Moist Cake Mix"
 seo_title: "Duncan Hines Perfectly Moist Cake Mix Review (2026)"
 meta_description: "Honest Duncan Hines Signature Perfectly Moist Cake Mix review: taste, texture, real buyer feedback, and who should buy it. Read before you bake."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGV35N84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E-e7S7HOL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently produces a tender crumb with real structure — not gummy or greasy like many boxed mixes"
   - "Signature line uses higher-quality cocoa and vanilla notes that taste closer to bakery than box mix"
   - "Requires only oil, water, and eggs — no butter softening or extra steps that complicate weeknight baking"
-cons:
+cons: 
   - "One 15.25-ounce box yields only a single 8- or 9-inch layer; you'll need two boxes for a standard two-layer cake"
   - "Sweetness level runs noticeably high — if you prefer desserts that lean less sugary, you'll want to reduce sugar elsewhere or skip the frosting"
+
 ---
 
 Let me be blunt: most boxed cake mixes taste like sweetened sawdust with a chemical aftertaste. The Duncan Hines Signature Perfectly Moist line, however, is a different animal entirely. This is the mix that convinced me boxed cakes deserve a seat at the dessert table — not just for convenience, but for genuine quality.

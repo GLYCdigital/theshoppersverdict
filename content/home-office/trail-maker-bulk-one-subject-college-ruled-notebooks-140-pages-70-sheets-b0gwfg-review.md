@@ -1,4 +1,5 @@
 ---
+
 title: "Trail maker Bulk One Subject College Ruled Notebooks, 140 Pa"
 seo_title: "Trail maker Bulk One Subject College Ruled Noteboo Review"
 meta_description: "Our full trail maker bulk one subject college ruled notebooks, 140 pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWFGQLCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813Do+zqZEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 140-page math that makes this bulk buy actually worth it**

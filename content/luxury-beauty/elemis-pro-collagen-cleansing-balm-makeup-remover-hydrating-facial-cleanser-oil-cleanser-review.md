@@ -1,4 +1,5 @@
 ---
+
 title: "ELEMIS Pro-Collagen Cleansing Balm Makeup Remover, Hydrating Facial Cleanser, Oil Cleanser, Oil Makeup Remover, Deep Cleanse"
 seo_title: "ELEMIS Pro-Collagen Cleansing Balm Review (2026): Is It Worth $61?"
 meta_description: "ELEMIS Pro-Collagen Cleansing Balm review: Does this $61 luxury cleanser remove makeup without stripping skin? Real pros, cons, and verdict from 16,000+ ratings."
@@ -11,14 +12,15 @@ review_count: 16002
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08MJZYW8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513nclII+JL._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves stubborn waterproof mascara and long-wear foundation in under 60 seconds with zero harsh rubbing"
   - "Contains padina pavonica, optimega, and chia seed oil — a genuinely hydrating formula that leaves skin soft, not stripped"
   - "One tub lasts 3–4 months with daily use, making the $61 price point more reasonable per application"
-cons:
+cons: 
   - "Some users report eye irritation if balm gets into eyes — requires careful rinsing"
   - "The fragrance, though light, may bother sensitive or reactive skin types"
   - "Melts in warm hands but turns thick and difficult to scoop in cold bathrooms — store in a warmer spot"
+
 ---
 
 **The $61 Cleansing Balm That 16,000+ Reviewers Swear By — Here's the Real Story**

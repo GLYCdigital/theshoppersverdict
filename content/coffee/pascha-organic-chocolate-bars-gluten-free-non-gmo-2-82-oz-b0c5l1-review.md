@@ -1,4 +1,5 @@
 ---
+
 title: "Pascha Organic Chocolate Bars, Gluten Free, Non GMO, 2.82 Oz"
 seo_title: "Pascha Organic Chocolate Bars, Gluten Free, Non GM Review"
 meta_description: "Our full pascha organic chocolate bars, gluten free, non gmo, 2.82 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5L1HYGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ubwFsNj2L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got your pour-over dialed in, your beans are fresh, and then you realize: there's nothing to nibble alongside that first bitter sip. Pascha's Organic 55% Dark Chocolate Bar steps into that gap — a clean-label bar that's become a quiet favorite among coffee drinkers who want something sweet that doesn't fight the roast.

@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS 30 Inch Counter Height Bar Stools Set of 4, Modern Fau"
 seo_title: "DUMOS 30 inch  Bar Stools Review: Set of 4 Worth It?"
 meta_description: "DUMOS 30-inch counter height bar stools set of 4 review. Real pros, cons, and buyer feedback on comfort, assembly, and quality. Is this 4.3-star set right for your kitchen?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPHVRNJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zCekjqHcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free assembly takes under 10 minutes per stool — legs screw directly into the pre-drilled seat base with included hex wrench"
   - "Faux leather upholstery is genuinely easy to wipe clean; several buyers report removing wine and coffee stains with a damp cloth"
   - "Solid steel frame with a 300-pound weight capacity per stool, verified by multiple larger-framed reviewers"
-cons:
+cons: 
   - "Seat is firm with minimal padding — not ideal for marathon sitting sessions or people with tailbone sensitivity"
   - No footrest adjustment; fixed at a height that may feel awkward for shorter users (under 5'4 inch ") even at standard 36-inch counter height
+
 ---
 
 Let's be direct: buying a four-pack of bar stools sight-unseen is a gamble. You're committing to four identical seats that will either anchor your kitchen island or become a constant source of wobble and buyer's remorse. The DUMOS 30-inch counter height set has earned a 4.3-star average from 215 ratings — solid, but not spectacular. Here's what that rating actually means for your kitchen.

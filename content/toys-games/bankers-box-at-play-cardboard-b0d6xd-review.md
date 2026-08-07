@@ -1,4 +1,5 @@
 ---
+
 title: "Bankers Box at Play Cardboard"
 seo_title: "Bankers Box at Play Cardboard Review: Is It Worth It?"
 meta_description: "Honest Bankers Box at Play Cardboard review: build quality, real play value, what buyers love and hate. See if this toy earns its 4.0-star rating."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D6XDWYRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sturdy corrugated cardboard holds up to daily rough play — much thicker than shoebox material"
   - "Folds flat for storage; no permanent assembly means you can reconfigure builds endlessly"
   - "Encourages open-ended creativity without screens — kids aged 4-10 stay engaged for hours"
-cons:
+cons: 
   - "Cardboard edges can fray after repeated folding; tape recommended for long-term builds"
   - "No included decorations or markers — you'll need to supply your own art supplies for customization"
+
 ---
 
 **The $20 cardboard box that beats a $200 plastic playset? Sometimes.**

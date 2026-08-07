@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Smart Switch Review: Budget Home Automation"
 seo_title: "Amazon Basics Smart Switch Review (2026): Honest Verdict"
 meta_description: "Amazon Basics Smart Switch review: 4.1-star rated, budget Wi-Fi switch. We test setup, app reliability, wiring needs, and value. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C9DZPRRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SPb6cM1vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works without a hub — connects directly to 2.4GHz Wi-Fi via the Amazon Alexa app"
   - "Physical rocker switch still functions mechanically, so you're not locked out if Wi-Fi drops"
   - "Fits standard US wall boxes; no neutral wire required for most setups"
-cons:
+cons: 
   - "2.4GHz-only connectivity won't work on mesh networks that force 5GHz"
   - "App setup can be finicky if you have an existing Alexa routine tied to the same switch name"
   - "No energy monitoring or scheduling granularity beyond basic on/off timers"
+
 ---
 
 # Amazon Basics Smart Switch: The $20 Question Your Smart Home Needs Answered

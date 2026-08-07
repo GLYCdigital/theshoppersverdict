@@ -1,4 +1,5 @@
 ---
+
 title: "Trekking Poles Collapsible Hiking Poles - 2 Pack Adjustable "
 seo_title: "Trekking Poles Collapsible Hiking Poles - 2 Pack A Review"
 meta_description: "Our full trekking poles collapsible hiking poles - 2 pack adjustable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHTQQFM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613do0vnybL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: These are honest, no-gimmick poles for day hikers who want a dependable second pair or a budget-friendly upgrade from rental gear. But they're not expedition tools, and the twist locks will test your patience if you adjust height frequently.**

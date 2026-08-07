@@ -1,4 +1,5 @@
 ---
+
 title: "Penn Squadron IV Surf Spinning Rod"
 seo_title: "Penn Squadron IV Surf Spinning Rod Review: Verdict | TSV"
 meta_description: "Our full penn squadron iv surf spinning rod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07CS94DHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sJCSW1rKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a surf rod that won't break the bank but still needs to hurl a 4-ounce sinker past the breakers, the Penn Squadron IV deserves a hard look. Penn has been making serious saltwater gear for decades, and this rod carries that heritage at a price that won't make you wince.

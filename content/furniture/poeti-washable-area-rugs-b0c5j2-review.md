@@ -1,4 +1,5 @@
 ---
+
 title: "Poeti Washable Area Rugs"
 seo_title: "Poeti Washable Area Rugs Review: Verdict | TSV"
 meta_description: "Our full poeti washable area rugs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C5J2C6Y5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IUeHAVUYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The washable rug category is crowded with flimsy options that fall apart after the second laundry cycle. Poeti's entry into this space claims to fix that. With a 4.6-star average across 229 ratings, it's clearly doing something right — but is it the right rug for *your* floor? Here's what I found digging through buyer experiences, spec sheets, and the honest tradeoffs nobody puts in the marketing copy.

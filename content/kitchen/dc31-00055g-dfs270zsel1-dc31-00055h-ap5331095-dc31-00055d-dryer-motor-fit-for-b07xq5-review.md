@@ -1,4 +1,5 @@
 ---
+
 title: "DC31-00055G DFS270ZSEL1 DC31-00055H AP5331095 DC31-00055D Dr"
 seo_title: "DC31-00055G Dryer Motor Review: OEM Alternative That Works"
 meta_description: "DC31-00055G dryer motor replacement review: OEM alternative for Samsung dryers. 4.7-star rated, 235 reviews. Does it fit? Is it reliable? Find out here."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07XQ5WWHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R52YtWCnL._SL1500_.jpg"
-pros:
+pros: 
   - "Interchangeable with four OEM part numbers (DC31-00055G/H/D and DFS270ZSEL1), so cross-referencing your model is straightforward"
   - "Includes the blower wheel and wiring harness pre-attached, saving you a separate parts order and roughly 20 minutes of disassembly time"
   - "Matched OEM mounting points and shaft dimensions precisely in long-term testing — no shims, no grinding, no returns"
-cons:
+cons: 
   - "The aftermarket branding means you forfeit Samsung's OEM warranty; if your dryer is under 12 months old, buy the genuine part instead"
   - "Wiring harness gauge is slightly thinner than OEM — fine for the 120V motor circuit, but don't reuse it if you're also replacing the heating element"
+
 ---
 
 If your Samsung dryer started humming but the drum won't turn, you've just met the DC31-00055G motor — the part that fails most often in this generation of dryers. The good news: this aftermarket replacement, cross-listed under four OEM part numbers (DC31-00055G, DC31-00055H, DC31-00055D, and DFS270ZSEL1), is a legitimate fix that's earned a 4.7-star rating across 235 verified purchases. Let's get into whether it's the right call for your repair.

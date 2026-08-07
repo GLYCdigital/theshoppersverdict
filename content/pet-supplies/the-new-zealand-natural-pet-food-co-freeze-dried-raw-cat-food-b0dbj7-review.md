@@ -1,4 +1,5 @@
 ---
+
 title: "The New Zealand Natural Pet Food Co. Freeze Dried Raw Cat Fo"
 seo_title: "The New Zealand Natural Pet Food Co. Freeze Dried  Review"
 meta_description: "Our full the new zealand natural pet food co. freeze dried raw cat fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DBJ758LC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716aOq1IExL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat turns up its nose at everything in the pantry, you've probably cycled through a dozen brands with the same result: untouched bowl, judgmental stare. The New Zealand Natural Pet Food Co. Freeze Dried Raw Cat Food takes a different approach — it skips the extrusion process entirely and serves up meat in its most primal form. But at this price point, the real question isn't whether it's *good* — it's whether your specific cat will actually eat it.

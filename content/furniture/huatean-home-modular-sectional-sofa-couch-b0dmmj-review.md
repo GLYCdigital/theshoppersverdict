@@ -1,4 +1,5 @@
 ---
+
 title: "Huatean Home-Modular-Sectional-Sofa-Couch"
 seo_title: "Huatean Home-Modular-Sectional-Sofa-Couch Review: Verdict"
 meta_description: "Our full huatean home-modular-sectional-sofa-couch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DMMJCN63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZUV5TyYKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.0-Star Modular Sofa That's Better Than Its Rating Suggests — If You Fit the Profile**

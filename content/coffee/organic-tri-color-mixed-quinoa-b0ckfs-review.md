@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Tri-Color Mixed Quinoa"
 seo_title: "Organic Tri-Color Mixed Quinoa Review: Verdict | TSV"
 meta_description: "Our full organic tri-color mixed quinoa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKFS2ZMS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81D3STsispL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested a lot of quinoa over the years, and most tri-color blends are a marketing gimmick. They toss three grain types together, one cooks faster than the others, and you end up with a bowl of uneven mush. This Organic Tri-Color Mixed Quinoa from B0CKFS2ZMS is the exception.

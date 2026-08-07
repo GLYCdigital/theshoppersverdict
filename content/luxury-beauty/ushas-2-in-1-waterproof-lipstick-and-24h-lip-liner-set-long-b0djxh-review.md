@@ -1,4 +1,5 @@
 ---
+
 title: "USHAS 2 in 1 Waterproof Lipstick and 24H Lip Liner Set - Lon"
 seo_title: "USHAS 2 in 1 Waterproof Lipstick and 24H Lip Liner Review"
 meta_description: "Our full ushas 2 in 1 waterproof lipstick and 24h lip liner set - lon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJXHDQPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OVAIMdp1L._SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing noise. The USHAS 2-in-1 Waterproof Lipstick and 24H Lip Liner Set promises a lot: waterproof wear, a matching liner, and all-day staying power. At around 4.1 stars from 204 ratings, the consensus is mostly positive — but "mostly" isn't "universally." Here's what you actually need to know before adding this to your cart.

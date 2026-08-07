@@ -1,4 +1,5 @@
 ---
+
 title: "JAPER BEES Billiard Ball/Pool Ball Set Complete 16balls 2-1/"
 seo_title: "JAPER BEES Billiard Ball/Pool Ball Set Complete 16 Review"
 meta_description: "Our full japer bees billiard ball/pool ball set complete 16balls 2-1/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0975TGX5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MwXhwPv5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JAPER BEES Billiard Ball Set: The Budget Set That Actually Plays Well

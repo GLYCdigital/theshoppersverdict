@@ -1,4 +1,5 @@
 ---
+
 title: "HOMEDEC Thermostatic Shower Valve"
 seo_title: "HOMEDEC Thermostatic Shower Valve Review: Verdict | TSV"
 meta_description: "Our full homedec thermostatic shower valve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B8YDNNG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51syxSpJxUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most thermostatic shower valves under $100 are a gamble. You're rolling the dice on cheap internals, leaky cartridges, or a finish that peels in year one. The HOMEDEC thermostatic valve sits in that budget tier, but with 220 ratings and a 4.4-star average, it's clearly doing something right. After digging through the feedback and the specs, here's the real story.

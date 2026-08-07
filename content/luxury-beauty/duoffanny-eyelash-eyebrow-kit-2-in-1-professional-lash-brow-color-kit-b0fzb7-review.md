@@ -1,4 +1,5 @@
 ---
+
 title: "Duoffanny Eyelash & Eyebrow Kit, 2-In-1 Professional Lash &"
 seo_title: "Duoffanny Eyelash & Eyebrow Kit Review: 2-in-1 Brow & Lash Dye"
 meta_description: "Honest Duoffanny Eyelash & Eyebrow Kit review: test results, color payoff, longevity, and who should buy this 2-in-1 professional lash & brow tint kit."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FZB7GW3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616uX4QMc8L._SL1500_.jpg"
-pros:
+pros: 
   - "Salon-strength dye that holds up 3–4 weeks on brows when applied correctly"
   - "Generous kit includes mixing tray, applicator, and enough product for 15+ full uses"
   - "Works on both lashes and brows — one purchase replaces two separate tinting products"
-cons:
+cons: 
   - "Patch test is mandatory — several buyers report allergic reactions when skipping it"
   - "No clear instructions for mixing ratios; beginners may struggle with consistency"
   - "Color selection leans conservative — no vivid or fashion shades beyond basics"
+
 ---
 
 If you're tired of penciling in your brows every morning or wrestling with a lash curler before coffee, the Duoffanny Eyelash & Eyebrow Kit promises a 30-day fix from your own bathroom mirror. At 4.1 stars across 204 ratings, it's not a runaway bestseller — but the people who get it right are loyal. Here's the unvarnished truth after digging through customer experiences, ingredient lists, and application logistics.

@@ -1,4 +1,5 @@
 ---
+
 title: "DICTAC Wood Medicine Cabinet Review"
 seo_title: "DICTAC Wood Medicine Cabinet Review (2026): Worth It?"
 meta_description: "DICTAC Wood Medicine Cabinet review: 4.2-star rated wall-mounted storage. Real pros, cons, and who should buy. Honest buying advice before you spend."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CP92DY2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Okap3WzcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with real beveled mirror — not the flimsy MDF most cabinets in this price range use"
   - "Soft-close hinge mechanism that actually works — no slamming at 2 AM"
   - "Pre-drilled mounting holes and included template make installation a genuinely 20-minute job"
-cons:
+cons: 
   - "Interior shelves are fixed — you can't adjust spacing for tall bottles, which limits what fits"
   - "No built-in electrical outlet or lighting, so you'll need battery-operated options if you want illumination"
   - "White finish shows water spots and toothpaste splatter quickly — you'll be wiping it down weekly"
+
 ---
 
 A medicine cabinet is one of those purchases you don't think about until you're staring at a pile of prescriptions, half-used tubes of toothpaste, and a hairbrush that refuses to fit anywhere. The DICTAC Wood Medicine Cabinet aims to solve that problem with a solid-wood build and a price that won't make you wince. After digging through 210 Amazon ratings and the spec sheet, here's the real story.

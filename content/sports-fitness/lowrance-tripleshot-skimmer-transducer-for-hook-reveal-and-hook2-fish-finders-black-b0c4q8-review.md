@@ -1,4 +1,5 @@
 ---
+
 title: "Lowrance TripleShot Skimmer Transducer for Hook Reveal and H"
 seo_title: "Lowrance TripleShot Skimmer Transducer for Hook Re Review"
 meta_description: "Our full lowrance tripleshot skimmer transducer for hook reveal and h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4Q8Z9KR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/4125+X2PfML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the headache I went through: that fish finder you bought with your boat is only as good as the transducer bolted to your transom. The Lowrance TripleShot Skimmer is the upgrade that turns a decent Hook Reveal unit into a serious structure-finding machine — but it's not without quirks.

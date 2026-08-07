@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Water Boiler and Warmer"
 seo_title: "Electric Water Boiler and Warmer Review: Worth It?"
 meta_description: "Honest Electric Water Boiler and Warmer review: capacity, heating speed, temp control, and durability. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B97Y72PR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EO3Jy1QBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heats water to boiling in under 5 minutes for a full pot"
   - "Keeps water at your chosen temperature for hours without re-boiling"
   - "Stainless steel interior doesn't leach plastic taste into the water"
-cons:
+cons: 
   - "The lid hinge feels flimsy; don't yank it open or it may snap"
   - "No water level window on the side, so you're guessing how much is inside"
   - "Drip tray collects water but slides out too easily when bumped"
+
 ---
 
 ## The 4:00 AM Tea Problem, Solved

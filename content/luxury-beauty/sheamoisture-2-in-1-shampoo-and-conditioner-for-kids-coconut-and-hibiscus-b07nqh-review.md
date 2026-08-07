@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture 2-in-1 Shampoo and Conditioner for Kids Coconut"
 seo_title: "SheaMoisture 2-in-1 Shampoo and Conditioner for Ki Review"
 meta_description: "Our full sheamoisture 2-in-1 shampoo and conditioner for kids coconut review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07NQH9BDB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Arcmx6yaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If bath time is a daily battle in your house, this 13-ounce pump bottle might just be the truce you need.** SheaMoisture's 2-in-1 for kids has earned its 4.5-star rating across 225 reviews for a simple reason: it actually works on the hair types that most kids' shampoos ignore.

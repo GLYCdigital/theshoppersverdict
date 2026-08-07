@@ -1,4 +1,5 @@
 ---
+
 title: "EBYPHAN Dimmable USB Lamp, Flexible Keyboard Light, Mini USB"
 seo_title: "EBYPHAN Dimmable USB Lamp Review: Flexible Keyboard Light (2026)"
 meta_description: "Honest EBYPHAN Dimmable USB Lamp review: flexible neck, 3 brightness levels, USB powered. See pros, cons, and who should buy this mini keyboard light."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PDZGY8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517tv-DJa8L._AC_SL1406_.jpg"
-pros:
+pros: 
   - "Three brightness levels (low/medium/high) with touch-sensitive dimmer — no fiddly buttons"
   - "Flexible gooseneck holds position well, bends ~360° for targeted illumination"
   - "Draws power from any USB port — laptop, power bank, or wall adapter — no batteries needed"
-cons:
+cons: 
   - "USB cable is short (~3 feet), limiting placement options away from power source"
   - "Clip is snug on thick laptops; may struggle with devices over 0.8 inches thick"
   - "Light is warm-white only — no cool-white option for those who prefer daylight tones"
+
 ---
 
 ## The 3 AM Keyboard Struggle Is Over — But Read This First

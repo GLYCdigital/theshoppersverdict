@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE 12 Pack Landscape Lighting Kit with 300W Low Votlage "
 seo_title: "SUNVIE 12 Pack Landscape Lighting Kit with 300W Lo Review"
 meta_description: "Our full sunvie 12 pack landscape lighting kit with 300w low votlage  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSG54H26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rt8eIfCvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** You're looking at a 12-fixture landscape lighting kit with a 300W transformer, and honestly, it's a solid middle-ground purchase. Not the cheapest, not the most premium, but the build quality punches above the price point. Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Drafting Chair Tall Office Chair with Padded Flip-up Armrest"
 seo_title: "Drafting Chair Tall Office Chair Review: Padded Flip-Up Arms"
 meta_description: "Drafting chair tall office chair review: padded flip-up armrests, ergonomic support for standing desks. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGGFPYQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uXYkzQWFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flip-up armrests clear the way for guitar playing, drawing, or sliding close to low tables"
   - "Pneumatic lift reaches true drafting heights—most buyers report using it comfortably at 40-inch standing desks"
   - "Padded seat holds up through 8-hour workdays without flattening, per multiple long-term reviews"
-cons:
+cons: 
   - "Foot ring is fixed, not height-adjustable, which can be awkward for shorter or taller users"
   - "Headrest absent—if you lean back frequently, your neck gets no support"
+
 ---
 
 Tall chairs are a gamble. You either get a wobbly stool pretending to be ergonomic, or you pay triple digits for something that still doesn't adjust the way you need. This drafting chair with flip-up armrests sits somewhere in the middle—and for most buyers, that's exactly the sweet spot.

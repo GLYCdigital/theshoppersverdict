@@ -1,4 +1,5 @@
 ---
+
 title: "Bucktool Low Speed Bench Grinder"
 seo_title: "Bucktool Low Speed Bench Grinder Review (2026): Worth It?"
 meta_description: "Bucktool Low Speed Bench Grinder review: 4.6★ rated. Tested for sharpening, deburring & polishing. See pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6R1LGNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vibkKxZIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 1,750 RPM low-speed operation prevents heat buildup that ruins tool temper on chisels and plane irons"
   - "8-inch wheels with 1-inch arbor fit most aftermarket sharpening jigs, including Wolverine and Tormek-style systems"
   - "Cast-iron base and balanced motor keep vibration minimal at speed — no walking across the bench"
-cons:
+cons: 
   - "No built-in work light, which is a notable omission at this price point for detail sharpening work"
   - "Supplied wheels are decent but not premium — most serious sharpeners swap them for CBN or white aluminum oxide immediately"
+
 ---
 
 The Bucktool Low Speed Bench Grinder has carved out a reputation as a budget-friendly option for woodworkers and knife enthusiasts who need to sharpen without scorching their steel. With a 4.6-star average across 229 Amazon ratings, it's clearly earning its keep in home shops. Here's the real breakdown.

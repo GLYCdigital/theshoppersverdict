@@ -1,4 +1,5 @@
 ---
+
 title: "Korky QuietFILL Toilet Fill Valve"
 seo_title: "Korky QuietFILL Toilet Fill Valve Review: Verdict | TSV"
 meta_description: "Our full korky quietfill toilet fill valve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL7B8XZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uGof6NDuL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your toilet sounds like a jet engine taking off every time someone flushes, you already know the problem. The stock fill valve in most toilets is loud, finicky, and prone to hissing. The Korky QuietFILL promises to fix that with a design focused on one thing: silence. But does quiet come at the cost of performance? Here's what 229 buyers found out.

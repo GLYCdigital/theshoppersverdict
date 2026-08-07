@@ -1,4 +1,5 @@
 ---
+
 title: "Party Factory â€“ 2x Helium Tank - for up to 100 assorted ba"
 seo_title: "Party Factory â€“ 2x Helium Tank - for up to 100 a Review"
 meta_description: "Our full party factory â€“ 2x helium tank - for up to 100 assorted ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CDPVVNSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Yw1KExbyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Party Factory 2x Helium Tank Review: Two Tanks, 100 Balloons, One Big Question**

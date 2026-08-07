@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton T5636-W 60W (6A) USB Dual Type-C/C Power Delivery in"
 seo_title: "Leviton T5636-W 60W (6A) USB Dual Type-C/C Power D Review"
 meta_description: "Our full leviton t5636-w 60w (6a) usb dual type-c/c power delivery in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FG7NGP47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U3ZXjVKOL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "USB outlets" on the market are glorified phone chargers. They push 12W or maybe 20W total, which is fine for an iPhone but useless for a MacBook or modern tablet. The Leviton T5636-W is different — it's a 60W Power Delivery receptacle that can actually charge a laptop. As shown in the product image, this is a standard duplex outlet with two USB-C ports stacked on the bottom half. The white nylon faceplate is matte-finished, resists fingerprints, and won't yellow like cheaper polycarbonate options.

@@ -1,23 +1,25 @@
 ---
+
 title: "DP330/ DP342 Parent Review: Honest Office Workspace Verdict"
 seo_title: "DP330/ DP342 Parent Review: 4.2-Star Office Gear Worth It?"
 meta_description: "Read our DP330/DP342 Parent review: build quality, real-world performance, pros, cons, and who should buy. 4.2/5 rating from 210 Amazon shoppers."
 slug: "dp330-dp342-parent-b0ckvy-review"
 image_alt: "DP330/ DP342 Parent office workspace product on desk with accessories"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKVYY4K9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j+3LLoavL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Sturdy aluminum construction holds up to daily desk abuse without flex or wobble"  
   - "Tool-free height adjustment works smoothly across the full 6-inch travel range"  
   - "Cable management channel actually fits thick power bricks, not just slim cords"  
-cons:  
+cons: 
   - "Non-slip pads leave faint residue marks on light-colored wooden desks"  
   - "No built-in USB passthrough — surprising for the price point"
+
 ---
 
 # DP330/ DP342 Parent Review: The Workhorse Your Desk Has Been Missing

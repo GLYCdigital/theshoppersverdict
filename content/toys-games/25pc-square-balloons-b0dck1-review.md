@@ -1,4 +1,5 @@
 ---
+
 title: "25pc Square Balloons"
 seo_title: "25pc Square Balloons Review: Worth Buying? | 2026 inch"
 meta_description: "Square balloons 25pc set review: durability, ease of inflation, real buyer feedback. Find out if these cube-shaped party balloons are worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCK1FP7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81noXheFJaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thicker latex than standard balloons — survives squeezing and light roughhousing without popping instantly"
   - "Genuinely square shape when fully inflated — holds the cube form better than cheap knockoffs"
   - "Bright, saturated colors that photograph well for parties and content creators"
-cons:
+cons: 
   - "Requires a pump — mouth inflation is nearly impossible due to the thick latex and square seams"
   - "Some packs arrive with 1-2 defective balloons that won't hold air past 24 hours"
+
 ---
 
 Look, you don't buy square balloons because you need balloons. You buy them because round is boring and you want people to do a double-take at your party. This 25-piece set delivers exactly that novelty — but with a few quirks you should know about before checkout.

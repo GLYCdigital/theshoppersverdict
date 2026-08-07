@@ -1,4 +1,5 @@
 ---
+
 title: "Cast Iron Enameled Dutch Ovens"
 seo_title: "Cast Iron Enameled Dutch Oven Review (2026): Worth It?"
 meta_description: "Honest Cast Iron Enameled Dutch Oven review: 6-qt capacity, heat retention, and durability tested. See pros, cons, and who should buy this $40 pot."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F7SWQ6M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812hhQA30FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Even heat distribution with no hot spots — sears meat properly and simmers sauces without scorching"
   - "Enamel coating is genuinely chip-resistant through 6 months of daily use, including metal utensils"
   - "Oven-safe to 500°F with a stainless steel knob — not the cheap plastic you see at this price"
-cons:
+cons: 
   - "At 13.5 lbs empty, it's heavy — difficult for anyone with wrist or grip issues to maneuver"
   - "Hand wash only despite what the listing implies; dishwasher use dulls the exterior gloss"
+
 ---
 
 **A $40 Dutch Oven That Cooks Like a $200 One — With Caveats**

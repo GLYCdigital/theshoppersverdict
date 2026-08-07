@@ -1,4 +1,5 @@
 ---
+
 title: "Big Floors GarageDeck Coin Pattern Durable Non-Slip Interloc"
 seo_title: "Big Floors GarageDeck Coin Pattern Review: Non-Slip Tiles"
 meta_description: "Honest Big Floors GarageDeck Coin Pattern interlocking garage tile review: durability, non-slip grip, installation tips, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0758H2JBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e5sEmVkYL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Rigid polypropylene construction that holds up under vehicle weight without cracking or warping"
   - "Coin-pattern surface provides genuine slip resistance even with oil or water present"
   - "Tool-free interlocking tabs snap together securely; no adhesive or specialized equipment required"
-cons:
+cons: 
   - "Edges can curl slightly if installed over uneven concrete without proper floor prep"
   - "Tiles are heavy — shipping weight makes large garage projects a two-person job"
+
 ---
 
 You've seen those flimsy foam mats that shift underfoot and tear the moment you drop a jack stand. The Big Floors GarageDeck Coin Pattern tiles are not that product. These are rigid, engineering-grade polypropylene tiles designed for actual garage duty — and they deliver exactly what the marketing promises.

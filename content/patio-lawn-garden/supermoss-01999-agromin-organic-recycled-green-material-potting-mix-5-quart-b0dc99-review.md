@@ -1,4 +1,5 @@
 ---
+
 title: "SuperMoss (01999 Agromin Organic Recycled Green Material Pot"
 seo_title: "SuperMoss (01999 Agromin Organic Recycled Green Ma Review"
 meta_description: "Our full supermoss (01999 agromin organic recycled green material pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DC999H3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v+-Zu4AXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** This isn't your big-box-store potting soil. SuperMoss's Agromin mix is a recycled green waste product that behaves more like a premium blend — dark, crumbly, and almost fluffy — but the 5-quart size will surprise you if you're used to 8-quart bags at the same price point.

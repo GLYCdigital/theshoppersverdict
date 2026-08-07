@@ -1,4 +1,5 @@
 ---
+
 title: "MDHAO Dog Kennel Cover 600D Heavy Duty Waterproof Replaceabl"
 seo_title: "MDHAO Dog Kennel Cover 600D Heavy Duty Waterproof  Review"
 meta_description: "Our full mdhao dog kennel cover 600d heavy duty waterproof replaceabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FD9JJX3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tp3OGP1rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog lives outdoors in a wire crate, you already know the problem: sun degrades the plastic roof, rain soaks through the gaps, and the whole thing looks like a disaster after two seasons. The MDHAO 600D Dog Kennel Cover is designed to fix exactly that — and for the most part, it does. With a 4.1-star average across 204 ratings, it's not perfect, but it's a solid upgrade over leaving your dog exposed to the elements.

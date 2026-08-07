@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe Micellar Water, Hydrating Facial Cleanser & Eye Makeu"
 seo_title: "CeraVe Micellar Water Review: Hydrating Cleanser & Eye Makeup Remover"
 meta_description: "Read our honest CeraVe Micellar Water review: Does this 3-in-1 hydrating cleanser with niacinamide & ceramides really remove eye makeup? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGQKDNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dKvChIZ1L._SL1500_.jpg"
-pros:
+pros: 
   - "Removes waterproof mascara in one pass without harsh rubbing — no stinging even on sensitive eyes"
   - "Non-greasy formula with niacinamide and ceramides that leaves skin soft, not tight or stripped"
   - "Fragrance-free and ophthalmologist-tested, making it a safe bet for contact lens wearers"
-cons:
+cons: 
   - "Full-face cleansing requires 2-3 cotton pads for heavy sunscreen or layered makeup"
   - "No rinse-off claim is misleading — skin feels slightly tacky unless you follow with water or moisturizer"
+
 ---
 
 CeraVe has built a reputation as the no-nonsense brand dermatologists actually recommend, and the Micellar Water with niacinamide and ceramides fits that mold. But here's the thing — micellar waters are everywhere, and most of them are just fancy soap water. This one earns its 4.7-star rating because it actually solves the two biggest complaints in the category: waterproof makeup removal and post-cleanse tightness.

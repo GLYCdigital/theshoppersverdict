@@ -1,4 +1,5 @@
 ---
+
 title: "Consolidated Plastics Brush Dry Mat - Made in USA, Heavy-Dut"
 seo_title: "Consolidated Plastics Brush Dry Mat Review: Heavy-Duty USA"
 meta_description: "Honest Consolidated Plastics Brush Dry Mat review: heavy-duty USA-made door mat, real-world performance, downsides, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B091KNH6VG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v4us5cnPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive bristle surface strips mud, snow, and fine dust from boots far better than standard coir or rubber mats"
   - "Made in USA from recycled rubber and nylon — holds up in commercial-grade traffic without curling or flattening"
   - "Water and debris fall through the open brushing surface, so the mat doesn't stay soggy or track moisture indoors"
-cons:
+cons: 
   - "No backing lip or border — edges can flip if not placed flush against a wall or under a door"
   - "Bristles trap fine sand deeply; requires occasional vacuuming or hosing to maintain maximum scraping power"
   - "Priced above typical residential mats — best value for entryways that see daily heavy use"
+
 ---
 
 Let's be blunt: most door mats are decorative afterthoughts. The Consolidated Plastics Brush Dry Mat is not that. This is a commercial-grade scraping surface disguised as a home accessory — and for the right buyer, it's a genuine upgrade over the coir and rubber mats that dominate Amazon.

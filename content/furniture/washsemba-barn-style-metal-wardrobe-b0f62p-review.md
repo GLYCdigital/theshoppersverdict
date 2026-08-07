@@ -1,4 +1,5 @@
 ---
+
 title: "Washsemba barn-Style Metal Wardrobe"
 seo_title: "Washsemba barn-Style Metal Wardrobe Review: Verdict | TSV"
 meta_description: "Our full washsemba barn-style metal wardrobe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F62P76MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nupA33RAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most metal wardrobes under $200 look like they belong in a garage. The Washsemba barn-style unit tries to fix that with a sliding-door design and a matte finish that mimics wood grain. Does it pull it off? Mostly, yes — with a few honest tradeoffs.

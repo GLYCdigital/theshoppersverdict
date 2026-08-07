@@ -1,4 +1,5 @@
 ---
+
 title: "Mac Book Pro Charger - USB C to Magnetic 3 Charger for Mac p"
 seo_title: "Mac Book Pro Charger - USB C to Magnetic 3 Charger Review"
 meta_description: "Our full mac book pro charger - usb c to magnetic 3 charger for mac p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GB1FKY42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MC0w0QEBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the MagSafe 3 charger Apple should have shipped?** 

@@ -1,4 +1,5 @@
 ---
+
 title: "Artena Large Ceramic Dinner Plates Set Of 4, Embossed Kitche"
 seo_title: "Artena Large Ceramic Dinner Plates Review (2026): Worth It?"
 meta_description: "Honest Artena large ceramic dinner plates review: embossed design, durability, and real-world use. See pros, cons, and who should buy this 4-piece set."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPKHSVN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C-TRbLQhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 10.5-inch diameter with a thoughtful embossed rim that actually improves grip when carrying"
   - "Dense, chip-resistant ceramic body that handles daily dishwasher use without crazing or fading"
   - "Microwave-safe glaze with no metallic accents — verified by multiple long-term buyers"
-cons:
+cons: 
   - "Slightly heavier than standard stoneware at 2.4 lbs per plate — may feel bulky for smaller hands"
   - "Embossed texture can trap food particles in the grooves if you don't rinse promptly"
+
 ---
 
 **The Short Version: Are These Worth Your Money?**

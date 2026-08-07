@@ -1,4 +1,5 @@
 ---
+
 title: "Water Based Penetrating Sealer"
 seo_title: "Water Based Penetrating Sealer Review: Verdict | TSV"
 meta_description: "Our full water based penetrating sealer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B097B46G2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EU7skD6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched water soak into your driveway or garage floor, you know the problem: freeze-thaw cycles turn that absorbed moisture into cracks and spalling.

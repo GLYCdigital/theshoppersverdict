@@ -1,4 +1,5 @@
 ---
+
 title: "Welder Extension Cord, Heavy Duty 25 Feet 6-50 Nema R Plug W"
 seo_title: "Welder Extension Cord, Heavy Duty 25 Feet 6-50 Nem Review"
 meta_description: "Our full welder extension cord, heavy duty 25 feet 6-50 nema r plug w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07S2P6HG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G7UAL44sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever run a 220V welder on a flimsy extension cord, you know the symptoms: voltage sag, overheated plugs, and that sickening smell of melting insulation. This 25-foot heavy duty cord from the 6-50 NEMA family aims to end that misery. At $40, it's positioned squarely between budget no-name cords and overpriced contractor-grade options. The question is whether it actually delivers.

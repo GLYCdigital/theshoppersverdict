@@ -1,4 +1,5 @@
 ---
+
 title: "ACTION AIR Inflatable Water Slide, Red Shark Bounce House wi"
 seo_title: "ACTION AIR Shark Water Slide Review: Is It Worth It?"
 meta_description: "ACTION AIR Red Shark water slide bounce house review: setup, durability, blower power, and real buyer feedback. See if this splash pad earns its 4.5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGX8FSL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7165oU3NB0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated water sprayers attach to a standard garden hose with no separate pump needed"
   - "Heavy-duty 840D Oxford fabric with reinforced stitching holds up to aggressive play"
   - "Integrated ground stakes and sandbag loops keep it planted even on windy days"
-cons:
+cons: 
   - "Requires a continuously running garden hose, which can spike water bills during long sessions"
   - "The included blower is loud — measured conversations nearby are difficult while it runs"
+
 ---
 
 Let’s be honest: most inflatable water slides under $300 are either glorified splash pads or flimsy bounce houses that deflate by August. The ACTION AIR Red Shark is neither — and that’s precisely why it holds a 4.5-star average across 225 ratings. But before you hand over your credit card, there are a few things you need to know.

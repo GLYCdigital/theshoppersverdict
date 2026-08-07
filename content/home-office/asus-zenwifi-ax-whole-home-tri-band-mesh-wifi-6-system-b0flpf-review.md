@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS ZenWiFi AX Whole-Home Tri-Band Mesh WiFi 6 System"
 seo_title: "ASUS ZenWiFi AX Mesh WiFi 6 Review: Reliable Coverage"
 meta_description: "ASUS ZenWiFi AX tri-band mesh WiFi 6 review: speeds, coverage, setup, and honest downsides for home offices and streaming. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FLPFV6SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mXt+SvM7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dedicated third 5GHz band for backhaul keeps speeds stable even when nodes are far apart"
   - "Compact, modern tower design that blends into office shelves — no spider-leg antennas"
   - "AiMesh support lets you mix with older ASUS routers to expand coverage later"
-cons:
+cons: 
   - "No 2.5GbE WAN port at this price point — limits future gigabit+ fiber plans"
   - "Parental controls and QoS require the ASUS app, which can feel cluttered with extra features"
+
 ---
 
 If your home office is the room where video calls go to die — frozen screens, robotic audio, that spinning wheel of doom — the ASUS ZenWiFi AX is built specifically to fix that. This is a tri-band WiFi 6 mesh system with two nodes designed to cover up to 5,500 square feet, and it's currently sitting at a solid 4.2 out of 5 from 210 Amazon ratings. But is it the right mesh system for your workspace? Let's dig past the marketing specs.

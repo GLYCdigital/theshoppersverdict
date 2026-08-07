@@ -1,4 +1,5 @@
 ---
+
 title: "Pull Up Bar for Doorway: Sportneer Strength Training Pull-up"
 seo_title: "Pull Up Bar for Doorway: Sportneer Strength Traini Review"
 meta_description: "Our full pull up bar for doorway: sportneer strength training pull-up review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DD37TYC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jjTiTLmsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you 20 minutes of YouTube rabbit-holing. Doorway pull-up bars fall into two categories: the ones that screw into your frame and the ones that clamp with pressure. The Sportneer is firmly in the second camp, and for most renters or apartment dwellers, that's exactly what you want.

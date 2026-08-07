@@ -1,4 +1,5 @@
 ---
+
 title: "DINTY MOORE Beef Stew, 15 oz (8 Pack), Fully Cooked & Ready-"
 seo_title: "DINTY MOORE Beef Stew 15 oz 8 Pack Review: Is It Worth It?"
 meta_description: "DINTY MOORE Beef Stew 15 oz 8-pack review: taste, texture, portion size, and value. See what 229 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC27CN7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UuUzVACvL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine beef chunks, not the shredded mush you find in cheaper canned stews"
   - "15-oz can is a solid single-serve portion — two cans make a real meal for two"
   - "Consistent texture across the 8-pack; no watery or under-filled cans reported"
-cons:
+cons: 
   - "Sodium runs high at 790mg per can — a dealbreaker for anyone on a low-salt diet"
   - "Potatoes and carrots are soft; if you expect crisp vegetables, this isn't it"
   - "Flavor leans salty-savory with little pepper or herb complexity"
+
 ---
 
 You don't buy canned beef stew for fine dining. You buy it for the nights when you need dinner on the table in five minutes without thawing anything or washing a pot. DINTY MOORE has been the default answer to that problem for decades, and this 8-pack of 15-ounce cans keeps that promise intact. But is it still worth your money in 2026 when fresh meal kits and frozen options are everywhere? Here's the breakdown after digging through the specs and what 229 Amazon buyers are actually saying.

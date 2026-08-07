@@ -1,4 +1,5 @@
 ---
+
 title: "Dalstrong Pizza Wheel Review"
 seo_title: "Dalstrong Pizza Wheel Review: A $99 Game Changer?"
 meta_description: "Dalstrong Pizza Wheel review: Is this $99 cutter worth it? Tested performance, durability, and value. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJPX7GFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VT6yTj2JL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-tang AUS-10 Japanese steel blade holds a razor edge far longer than stamped stainless wheels"
   - "Oversized 4.5-inch blade with a comfortable G10 handle makes clean cuts through thick, crispy crusts in one pass"
   - "Includes a leather blade guard and a 30-day money-back guarantee with lifetime warranty"
-cons:
+cons: 
   - "At $99, it's a serious investment for a tool that only does one job"
   - "The handle is on the larger side, which may feel bulky for smaller hands"
+
 ---
 
 Let’s be honest: a $99 pizza cutter sounds absurd. You can grab a perfectly functional wheel for $8 at any grocery store. But after spending two weeks with the Dalstrong Pizza Wheel, I understand why it's earned 4.7 stars from 235 buyers. This isn’t a gadget. It’s a precision tool for anyone who treats pizza night with the same seriousness as a chef’s knife.

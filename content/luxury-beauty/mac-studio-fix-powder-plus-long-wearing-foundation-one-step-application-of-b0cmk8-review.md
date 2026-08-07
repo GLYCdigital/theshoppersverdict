@@ -1,4 +1,5 @@
 ---
+
 title: "MAC Studio Fix Powder Plus Long-wearing Foundation - One-ste"
 seo_title: "MAC Studio Fix Powder Plus Long-wearing Foundation Review"
 meta_description: "Our full mac studio fix powder plus long-wearing foundation - one-ste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMK8M9NZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Qk7xwIT4L._SX355_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one-step powder that actually delivers full coverage — if your skin cooperates.**

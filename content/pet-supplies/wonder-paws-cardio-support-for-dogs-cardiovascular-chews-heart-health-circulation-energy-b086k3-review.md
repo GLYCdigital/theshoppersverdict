@@ -1,4 +1,5 @@
 ---
+
 title: "Wonder Paws Cardio Support for Dogs â€“ Cardiovascular Chews"
 seo_title: "Wonder Paws Cardio Support for Dogs â€“ Cardiovasc Review"
 meta_description: "Our full wonder paws cardio support for dogs â€“ cardiovascular chews review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086K3Y82R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81luWywzR-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your dog's heart doesn't send warning signs until things are already strained. If you're here because your vet mentioned a heart murmur, or your senior dog tires out faster on walks, Wonder Paws Cardio Support is one of those supplements worth a serious look — with a few caveats.

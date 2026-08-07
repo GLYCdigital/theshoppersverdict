@@ -1,4 +1,5 @@
 ---
+
 title: "lilybyred Luv Beam Cheek Balm | Heart-Shaped Korean Cream Bl"
 seo_title: "lilybyred Luv Beam Cheek Balm | Heart-Shaped Korea Review"
 meta_description: "Our full lilybyred luv beam cheek balm | heart-shaped korean cream bl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08CMW669S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p8g5UjYBL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The K-beauty world loves a gimmick, and the lilybyred Luv Beam Cheek Balm has a good one: a blush shaped like a literal heart, pressed into a compact that snaps shut with a satisfying click. But cute packaging doesn't earn a 4.2-star average from 210+ Amazon ratings on its own. So does this semi-matte cream blush actually perform, or is it just a pretty object for your vanity?

@@ -1,4 +1,5 @@
 ---
+
 title: "Adetu Battery Operated Wall Sconces Set of Two, Gold Recharg"
 seo_title: "Adetu Battery Wall Sconces Review: Gold Rechargeable Set"
 meta_description: "Adetu battery operated wall sconces set of two review: gold rechargeable lights with remote, dimmable, 4.3 stars. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G22NQZ15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610PpLxoh7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2700K warm light that feels like hardwired sconces, not harsh LED blue"
   - "Magnetic mount plate makes recharging effortless — no tool required to remove fixture"
   - "Dimmable via remote with memory function; retains last brightness setting"
-cons:
+cons: 
   - "Battery life drops noticeably at higher brightness — expect ~6 hours at full output"
   - "Remote requires line-of-sight; no wall switch option for toggling on/off"
+
 ---
 
 You've seen the Pinterest photos: warm sconces flanking a bed, no cords visible, that soft glow that makes a room feel expensive. The Adetu Battery Operated Wall Sconces set of two tries to deliver that look without an electrician — and for the most part, it succeeds. But the tradeoffs are real, and you should know them before you buy.

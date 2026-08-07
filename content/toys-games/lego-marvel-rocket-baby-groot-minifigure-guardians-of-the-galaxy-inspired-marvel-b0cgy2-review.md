@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Marvel Rocket & Baby Groot Minifigure, Guardians of The"
 seo_title: "LEGO Marvel Rocket & Baby Groot Minifigure, Guardi Review"
 meta_description: "Our full lego marvel rocket & baby groot minifigure, guardians of the review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY26FY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NLWLU42bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Build Quality and Design: Where LEGO Shines

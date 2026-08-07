@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee 8-12 Cup Coffee Filters, Box, Assorted, 100 Count"
 seo_title: "Mr. Coffee 8-12 Cup Coffee Filters, Box, Assorted, Review"
 meta_description: "Our full mr. coffee 8-12 cup coffee filters, box, assorted, 100 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000VB63Z4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gw-YvV1sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Coffee filters are one of those purchases you don't think about until you're staring at a wet, torn mess at the bottom of your carafe. The Mr. Coffee 8-12 Cup Filters aim to be the boring, reliable workhorse of your morning routine. After digging through 240 ratings averaging 4.8 stars, here's the real story on whether these brown paper circles deserve a permanent spot in your pantry.

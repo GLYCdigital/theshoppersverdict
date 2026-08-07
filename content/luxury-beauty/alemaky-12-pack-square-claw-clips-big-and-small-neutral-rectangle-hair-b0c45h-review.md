@@ -1,4 +1,5 @@
 ---
+
 title: "Alemaky 12 Pack Square Claw Clips, Big and Small Neutral Rec"
 seo_title: "Alemaky 12 Pack Square Claw Clips Review: Worth It?"
 meta_description: "Honest Alemaky 12 Pack Square Claw Clips review: 12 neutral rectangle claw clips in 2 sizes. Do they hold thick hair? Read pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C45H4HRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X6HpOt-nL._SL1500_.jpg"
-pros:
+pros: 
   - "12 clips for roughly the price of 2–3 salon clips — genuine value, not just bulk filler"
   - "Matte neutral finish (beige, taupe, black) looks expensive and doesn't snag hair"
   - "Spring tension is strong enough for thick, heavy hair without feeling like it'll crack"
-cons:
+cons: 
   - "Small clips are genuinely small — not ideal for anything beyond half-up styles or thin hair"
   - "No individual storage pouch; loose clips will scratch if tossed in a bag unprotected"
+
 ---
 
 Some products are overhyped. This one isn't — and that's exactly why it's earned a 4.7-star average from 235 buyers. The **Alemaky 12 Pack Square Claw Clips** delivers exactly what the product image promises: a dozen matte-finish rectangular clips in neutral shades, split between six large (about 2.5 inches) and six small (about 1.5 inches) sizes. No gimmicks, no glitter, no branding slapped across the top. Just functional, good-looking hair hardware.

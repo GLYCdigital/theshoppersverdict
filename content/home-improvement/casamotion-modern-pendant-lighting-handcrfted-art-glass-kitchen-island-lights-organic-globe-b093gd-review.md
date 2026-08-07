@@ -1,4 +1,5 @@
 ---
+
 title: "CASAMOTION Modern Pendant Lighting Handcrfted Art Glass Kitc"
 seo_title: "CASAMOTION Art Glass Pendant Light Review: Worth It?"
 meta_description: "CASAMOTION handcrafted art glass pendant light review: build quality, brightness, sizing tips, and honest downsides for kitchen islands."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B093GD2345/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sfpjMbNFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine handcrafted art glass — each shade has visible organic variation, not a mass-produced identical dome"
   - "Substantial feel at roughly 8–9 lbs with a sturdy steel canopy and full-length adjustable cord"
   - "Warm, diffused light that flatters both modern and transitional kitchens without harsh glare"
-cons:
+cons: 
   - "No dimmer compatibility noted — you'll need to add your own dimmer switch or smart bulb for variable brightness"
   - "Glass shade is delicate during installation; several buyers reported cracks from over-tightening the mounting nut"
   - "Bulb not included, and the open bottom means you'll see the bulb — choose an Edison-style bulb or it looks utilitarian"
+
 ---
 
 The CASAMOTION Modern Pendant Lighting is one of those rare Amazon lighting finds that actually looks better in person than in the listing photos. The "Handcrafted Art Glass" descriptor isn't marketing fluff — each shade shows subtle striations and color shifts that you simply don't get from a vacuum-formed plastic dome. With 235 ratings averaging 4.7 stars, it's clearly resonating with buyers. But before you hang it over your island, let's talk about what you're actually getting.

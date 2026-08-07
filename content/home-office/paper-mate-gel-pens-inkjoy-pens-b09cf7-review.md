@@ -1,4 +1,5 @@
 ---
+
 title: "Paper Mate Gel Pens | InkJoy Pens"
 seo_title: "Paper Mate Gel Pens | InkJoy Pens Review: Verdict | TSV"
 meta_description: "Our full paper mate gel pens | inkjoy pens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CF7X2KP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever written with a gel pen that skips, drags, or smears the moment your hand passes over it, you know the frustration. Paper Mate's InkJoy line was designed to kill those three complaints dead. After testing these pens across notebooks, sticky notes, and even glossy magazine pages, here's the honest breakdown.

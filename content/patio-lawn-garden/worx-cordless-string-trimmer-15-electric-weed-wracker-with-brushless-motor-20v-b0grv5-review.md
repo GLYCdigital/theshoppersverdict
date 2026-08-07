@@ -1,7 +1,8 @@
 ---
-title: "WORX Cordless String Trimmer, 15\" Electric Weed Wracker with"
-seo_title: "WORX Cordless String Trimmer, 15\" Electric Weed Wr Review"
-meta_description: "Our full worx cordless string trimmer, 15\" electric weed wracker with review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WORX Cordless String Trimmer, 15\ Electric Weed Wracker with"
+seo_title: "WORX Cordless String Trimmer, 15\ Electric Weed Wr Review"
+meta_description: "Our full worx cordless string trimmer, 15\ electric weed wracker with review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "worx-cordless-string-trimmer-15-electric-weed-wracker-with-brushless-motor-20v-b0grv5-review"
 image_alt: "WORX Cordless String Trimmer, 15 Electric Weed Wracker with Brushless Motor, 20V Electric Weed Wacker"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GRV5WRPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most cordless trimmers under $100 feel like toys. The WORX Weed Wracker is not that. It’s a legitimately capable machine for small-to-mid-sized properties — if you understand its limits before you buy.

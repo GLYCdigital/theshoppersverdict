@@ -1,4 +1,5 @@
 ---
+
 title: "[400 Count] Heavy Duty Plastic Spoons, Premium Disposable Sp"
 seo_title: "Heavy Duty Plastic Spoons Review: 400 Count Worth It?"
 meta_description: "Read our honest review of 400-count heavy duty plastic spoons. Are they really sturdy? We test durability, value, and real-world use."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNN5X442/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x-Zdh7yJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely thick plastic — resists bending even in thick chili or ice cream"
   - "400 pieces per case means roughly 8 cents per spoon at typical pricing"
   - "Smooth edges with no flashing or burrs — rare at this price point"
-cons:
+cons: 
   - "Not compostable or biodegradable — standard polypropylene plastic"
   - "Slightly shorter than restaurant-grade spoons at 6 inches"
   - "No individual wrapping — bulk bag only"
+
 ---
 
 You've bought cheap plastic spoons before. The ones that flex like a wet noodle when you hit a chunk of ice cream, or snap clean in half when you're scooping something denser than Jell-O. This 400-count bulk pack from a brand that's clearly leaning on its specs rather than name recognition is not that spoon. Here's what you're actually getting.

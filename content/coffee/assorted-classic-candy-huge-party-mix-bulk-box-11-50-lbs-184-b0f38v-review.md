@@ -1,4 +1,5 @@
 ---
+
 title: "Assorted Classic Candy - Huge PARTY MIX Bulk BOX! 11.50 lbs"
 seo_title: "Assorted Classic Candy Bulk Box Review: 11.5 lbs Party Mix"
 meta_description: "Honest review of the 11.5 lb Assorted Classic Candy Party Mix Bulk Box. We break down value, variety, freshness, and who should actually buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F38V3K5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91dEYb4EbaL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely 11.5 pounds of candy — that's roughly 300+ individual pieces depending on mix, not a box padded with air"
   - "Classic brands you recognize (think Mars, Hershey, Nestle items) — no off-brand chalky knockoffs"
   - "Individually wrapped pieces make it perfect for pinatas, goodie bags, office bowls, or party favors without extra prep"
-cons:
+cons: 
   - "Mix ratio varies by shipment — you might get heavy on one type (like Twix) and light on another; no way to customize"
   - "No full-size bars here — all fun-size or miniatures, so if you wanted king-size for stockings, look elsewhere"
   - "Arrives in a plain brown box, not a display-ready container — you'll need your own bowl or tray for serving"
+
 ---
 
 **Is 11.5 pounds of candy a smart buy or a sugar coma waiting to happen? I weighed the options.**

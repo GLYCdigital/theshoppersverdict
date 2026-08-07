@@ -1,4 +1,5 @@
 ---
+
 title: "New Star Foodservice 50875 Aluminum Wide Rim Pizza Tray Pizz"
 seo_title: "New Star Foodservice 50875 Aluminum Wide Rim Pizza Review"
 meta_description: "Our full new star foodservice 50875 aluminum wide rim pizza tray pizz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00LUQLE0S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gqQ2Xj2ZL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # New Star Foodservice 50875 Aluminum Wide Rim Pizza Tray Review: The Commercial Standard for Home Ovens

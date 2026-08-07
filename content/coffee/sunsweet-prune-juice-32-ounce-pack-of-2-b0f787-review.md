@@ -1,4 +1,5 @@
 ---
+
 title: "Sunsweet Prune Juice - 32 Ounce (Pack of 2)"
 seo_title: "Sunsweet Prune Juice - 32 Ounce (Pack of 2) Review: Verdi"
 meta_description: "Our full sunsweet prune juice - 32 ounce (pack of 2) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F787TQNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EW9RKdX-L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you're not buying Sunsweet Prune Juice because you're craving a refreshing beverage. You're buying it because you need things to *move*. And the real question isn't whether prune juice works — it's whether this particular bottle is worth your money compared to the generic stuff at the grocery store.

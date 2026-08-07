@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Precise V5 RT Refillable & Retractable Rollerball Pens"
 seo_title: "Pilot Precise V5 RT Refillable & Retractable Rolle Review"
 meta_description: "Our full pilot precise v5 rt refillable & retractable rollerball pens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FC2QGH51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812pwfPRCVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the full review:

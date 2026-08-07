@@ -1,4 +1,5 @@
 ---
+
 title: "KastKing ReKon Round Baitcasting Fishing Reel, Saltwater Ins"
 seo_title: "KastKing ReKon Round Baitcasting Fishing Reel, Sal Review"
 meta_description: "Our full kastking rekon round baitcasting fishing reel, saltwater ins review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CF5BRVD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XJ6LnFe7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the KastKing ReKon isn't the reel you buy to look cool on a charter boat. It's the reel you buy because you want a round-profile workhorse that can handle salt spray, a 5-foot surf rod, and a pissed-off striper without making you weep over the price tag. At 4.2 stars across 210 ratings, it's earning its keep — but with some caveats you need to know before you click buy.

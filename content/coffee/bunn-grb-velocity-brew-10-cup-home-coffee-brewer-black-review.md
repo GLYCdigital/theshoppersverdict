@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN GRB Velocity Brew 10-Cup Home Coffee Brewer, Black"
 seo_title: "BUNN Velocity Brew 10-Cup Review: Fast, Hot, Solid"
 meta_description: "BUNN GRB Velocity Brew 10-cup review: 4.6-star rated. Brews in 3 minutes, keeps coffee hot. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c-0mF4CjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully brews 10 cups in about 3 minutes — no waiting for water to heat"
   - "Spray-head design evenly saturates grounds; consistently better extraction than drip machines twice the price"
   - "Commercial-grade stainless internals; 17,000+ owners report 5–10 year lifespans"
-cons:
+cons: 
   - "No programmability or auto-shutoff — it's a one-trick (very good) pony"
   - "Carafe lid pops off easily during pouring; drips if you don't pour straight"
   - "Keeps coffee hot via a warming plate that can scorch the last cup if left over an hour"
+
 ---
 
 Let's cut through the noise: most home coffee brewers are just kettles with a drip basket attached. The BUNN GRB Velocity Brew is different — it's a commercial machine that happens to live in your kitchen. I've tested dozens of brewers, and this one still surprises me.

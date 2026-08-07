@@ -1,4 +1,5 @@
 ---
+
 title: "Bug Zapper Racket – Electric Fly Swatter for Gnats, Mosqui"
 seo_title: "Bug Zapper Racket Review: Does It Kill Gnats & Mosquitoes?"
 meta_description: "Honest Bug Zapper Racket review: 4.3-star electric fly swatter tested for gnats, mosquitoes & flies. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09V4D3BJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VfJjbKVPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Triple-layer mesh delivers a satisfying zap on contact — no chemicals or sprays needed"
   - "Lightweight at under 1 pound, with a comfortable grip that makes swatting feel natural"
   - "Built-in LED light lets you hunt mosquitoes at dusk or in dark corners effectively"
-cons:
+cons: 
   - "AAA batteries not included — you'll need 2 fresh ones before first use"
   - "Not effective on tiny fruit flies smaller than the mesh spacing; they slip through"
   - "Requires deliberate swing speed — a lazy swat just bounces bugs off without zapping"
+
 ---
 
 If you've ever chased a mosquito around the bedroom at 2 a.m. with a rolled-up magazine, you already know the frustration this product is designed to solve. The Bug Zapper Racket takes the familiar fly swatter shape and adds a 3,000-volt punch — and at 4.3 stars from 215 Amazon shoppers, it's clearly earning its keep. But is it worth your money? Let's break down what actually matters.

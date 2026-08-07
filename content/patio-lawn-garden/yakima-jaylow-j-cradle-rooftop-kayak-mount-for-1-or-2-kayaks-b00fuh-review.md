@@ -1,4 +1,5 @@
 ---
+
 title: "Yakima JayLow J-Cradle Rooftop Kayak Mount for 1 or 2 Kayaks"
 seo_title: "Yakima JayLow J-Cradle Rooftop Kayak Mount for 1 o Review"
 meta_description: "Our full yakima jaylow j-cradle rooftop kayak mount for 1 or 2 kayaks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00FUHDYZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OUKQIDsRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The J-Cradle that actually respects your kayak**

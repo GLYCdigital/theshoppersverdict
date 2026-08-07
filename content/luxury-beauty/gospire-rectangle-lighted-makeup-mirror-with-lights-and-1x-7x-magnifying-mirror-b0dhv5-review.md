@@ -1,4 +1,5 @@
 ---
+
 title: "Gospire Rectangle Lighted Makeup Mirror with Lights and 1X/7"
 seo_title: "Gospire Rectangle Lighted Makeup Mirror with Light Review"
 meta_description: "Our full gospire rectangle lighted makeup mirror with lights and 1x/7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHV581CS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZnI6sl7cL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Lighted Mirror That Actually Earns Its Spot on Your Vanity

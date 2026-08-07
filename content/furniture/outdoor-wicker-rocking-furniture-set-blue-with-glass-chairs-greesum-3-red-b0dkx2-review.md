@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor Wicker Rocking Furniture Set Blue with Glass Chairs "
 seo_title: "Outdoor Wicker Rocking Furniture Set Blue with Gla Review"
 meta_description: "Our full outdoor wicker rocking furniture set blue with glass chairs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKX26SZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JJ1dznFGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most outdoor rocking sets under $400 are flimsy, squeaky, and look like they’ll dissolve in the first rain. This blue wicker set with glass chairs isn’t that. But it also isn’t a turnkey purchase, and the fine print matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "G128 - American Flag | Various Sizes | Deluxe TearProof Spun"
 seo_title: "G128 American Flag Review: TearProof Spun Polyester (2026)"
 meta_description: "Honest G128 American Flag review: TearProof spun polyester durability, stitching quality, and fading resistance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09VCPBVMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9153qvyCobL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "TearProof spun polyester resists fraying and edge wear significantly longer than standard polyester flags in wind"
   - "Double-stitched fly end and reinforced header with brass grommets survive repeated hoisting without pulling loose"
   - "Vibrant, deep colors that hold up through 3–4 months of continuous outdoor exposure before noticeable fading"
-cons:
+cons: 
   - "Not fully waterproof — heavy rain soaks the fabric, making it hang limp until it dries"
   - "Sizes run slightly small versus the pole height you might expect; order one size up for a full display"
+
 ---
 
 # Is the G128 TearProof American Flag Worth Your Money?

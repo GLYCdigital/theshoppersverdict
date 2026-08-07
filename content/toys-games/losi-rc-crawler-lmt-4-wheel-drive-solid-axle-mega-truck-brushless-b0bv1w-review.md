@@ -1,4 +1,5 @@
 ---
+
 title: "Losi RC Crawler LMT 4 Wheel Drive Solid Axle Mega Truck Brus"
 seo_title: "Losi RC Crawler LMT 4 Wheel Drive Solid Axle Mega  Review"
 meta_description: "Our full losi rc crawler lmt 4 wheel drive solid axle mega truck brus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BV1W5NZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Th1ULIioL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Losi LMT Isn't a Toy — It's a Crawler Disguised as a Monster Truck

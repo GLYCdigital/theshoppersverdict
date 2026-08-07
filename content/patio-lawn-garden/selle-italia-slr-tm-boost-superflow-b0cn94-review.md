@@ -1,4 +1,5 @@
 ---
+
 title: "Selle Italia SLR TM Boost Superflow"
 seo_title: "Selle Italia SLR TM Boost Superflow Review: Verdict | TSV"
 meta_description: "Our full selle italia slr tm boost superflow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN94P48S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x-XAjiHZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 145g Saddle That Demands a Specific Body

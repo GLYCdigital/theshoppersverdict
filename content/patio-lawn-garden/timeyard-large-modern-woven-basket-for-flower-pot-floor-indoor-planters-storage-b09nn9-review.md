@@ -1,4 +1,5 @@
 ---
+
 title: "TIMEYARD Large Modern Woven Basket for Flower Pot Floor Indo"
 seo_title: "TIMEYARD Large Modern Woven Basket for Flower Pot  Review"
 meta_description: "Our full timeyard large modern woven basket for flower pot floor indo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NN9V2WT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810fTFEcILL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to hide a cracked plastic nursery pot inside something that doesn't look like a dorm room throw rug, you know the struggle. The TIMEYARD Large Modern Woven Basket solves that problem with a design that's genuinely nicer than the price suggests — and it holds up better than I expected.

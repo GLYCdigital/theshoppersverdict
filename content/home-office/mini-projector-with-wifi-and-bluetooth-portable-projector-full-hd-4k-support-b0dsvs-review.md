@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Projector with WiFi and Bluetooth, Portable Projector F"
 seo_title: "Mini Projector with WiFi and Bluetooth, Portable P Review"
 meta_description: "Our full mini projector with wifi and bluetooth, portable projector f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DSVSP1SD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81awwIUHFdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** This mini projector nails the basics — sharp 1080p image, working WiFi/Bluetooth, and a compact build — but its modest brightness and manual keystone correction make it a "good for the price" rather than a "great" device. Here's who should actually buy it.

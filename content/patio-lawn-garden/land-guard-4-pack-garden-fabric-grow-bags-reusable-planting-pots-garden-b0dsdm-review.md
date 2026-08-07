@@ -1,4 +1,5 @@
 ---
+
 title: "Land Guard 4 Pack Garden Fabric Grow Bags, Reusable Planting"
 seo_title: "Land Guard 4 Pack Garden Fabric Grow Bags, Reusabl Review"
 meta_description: "Our full land guard 4 pack garden fabric grow bags, reusable planting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSDMRHSN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810I7rOfc-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Budget Grow Bag That Actually Earns Its Keep

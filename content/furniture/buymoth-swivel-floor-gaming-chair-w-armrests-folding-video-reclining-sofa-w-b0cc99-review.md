@@ -1,4 +1,5 @@
 ---
+
 title: "Buymoth Swivel Floor Gaming Chair w/Armrests, Folding Video"
 seo_title: "Buymoth Swivel Floor Gaming Chair Review: Worth It? (2026)"
 meta_description: "Buymoth swivel floor gaming chair review: comfort, build quality, and real user feedback. Is this folding video chair worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CC99HW3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H7pRIoM0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360-degree swivel base with smooth rotation that works on both carpet and hardwood without scratching floors"
   - "Folding design actually compresses flat for storage — rare for a chair with this much padding and structure"
   - "Padded armrests provide genuine support during long sessions, not just decorative foam strips"
-cons:
+cons: 
   - "Backrest angle is fixed; no recline adjustment despite the 'reclining sofa' phrasing in some listings"
   - "At roughly 15 pounds, it's lighter than expected — heavier users may feel the frame flex during aggressive swiveling"
   - "Assembly requires a hex key (included) and about 15 minutes; the base bolts can loosen over time if not tightened periodically"
+
 ---
 
 **Skip the floor pillow. This is the chair your knees have been begging for.**

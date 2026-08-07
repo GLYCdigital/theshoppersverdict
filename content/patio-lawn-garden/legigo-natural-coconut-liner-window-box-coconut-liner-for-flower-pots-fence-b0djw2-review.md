@@ -1,4 +1,5 @@
 ---
+
 title: "Legigo Natural Coconut Liner - Window Box Coconut Liner for "
 seo_title: "Legigo Natural Coconut Liner - Window Box Coconut  Review"
 meta_description: "Our full legigo natural coconut liner - window box coconut liner for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJW2XHKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8132O3pCXzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever ripped open a cheap plastic liner only to have it tear at the seams two weeks into the season, you already know why natural fiber alternatives are gaining ground. The Legigo Natural Coconut Liner sits in that sweet spot between disposable and permanent — but it's not without quirks. Here's what 225 Amazon reviewers at 4.5 stars are actually saying, and what they're not.

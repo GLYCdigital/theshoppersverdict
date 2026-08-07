@@ -1,4 +1,5 @@
 ---
+
 title: "BONTEC Mobile Standing Desk with Keyboard Tray, Mobile Podiu"
 seo_title: "BONTEC Mobile Standing Desk Review: Keyboard Tray & Mobility"
 meta_description: "BONTEC Mobile Standing Desk with keyboard tray review: 4.5-star rated rolling workstation. Is it stable? Worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGD5F8V7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OlsB6H2oL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Gas-spring height adjustment glides from 28.3 inch " to 45.6 inch " — no cranking or electric motor required
   - "Four locking casters make it genuinely mobile; locks hold firm even on hardwood floors"
   - Integrated keyboard tray slides out 11.8 inch " and tilts, saving desk space while keeping ergonomic alignment
-cons:
+cons: 
   - "Max weight capacity is 33 lbs — a heavy all-in-one desktop PC will push it to its limits"
   - "Assembly requires a Phillips screwdriver and about 30-40 minutes; instructions are adequate but not exceptional"
   - "Keyboard tray is not height-adjustable independently — you must move the entire desktop to match your arms"
+
 ---
 
 **The BONTEC Mobile Standing Desk with Keyboard Tray is a rolling workstation that answers a simple question: what if your desk followed you around the room?**

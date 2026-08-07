@@ -1,7 +1,8 @@
 ---
-title: "Weber 28\" Rust Resistant Liquid Propane Gas Griddle for Outd"
-seo_title: "Weber 28\" Rust Resistant Liquid Propane Gas Griddl Review"
-meta_description: "Our full weber 28\" rust resistant liquid propane gas griddle for outd review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Weber 28\ Rust Resistant Liquid Propane Gas Griddle for Outd"
+seo_title: "Weber 28\ Rust Resistant Liquid Propane Gas Griddl Review"
+meta_description: "Our full weber 28\ rust resistant liquid propane gas griddle for outd review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "weber-28-rust-resistant-liquid-propane-gas-griddle-for-outdoor-grilling-black-b0dy91-review"
 image_alt: "Weber 28 Rust Resistant Liquid Propane Gas Griddle for Outdoor Grilling, Black"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DY912SB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PBY7vdsyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Weber 28" gas griddle is the one I'd recommend if you're tired of rusted carbon steel plates that peel after one winter. Weber's porcelain-enameled surface is the rare griddle that actually survives outdoor storage — but it comes with a design compromise you need to know about before you buy.

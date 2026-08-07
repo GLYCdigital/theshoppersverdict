@@ -1,4 +1,5 @@
 ---
+
 title: "Century BOB XL Punching Bags - Style Options | Freestanding"
 seo_title: "Century BOB XL Punching Bag Review: Worth It? (2026)"
 meta_description: "Century BOB XL freestanding punching bag review: 4.7★ rated. Real buyer feedback on stability, durability, and whether it's worth the price."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXGCPWLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41r5-Kbha7L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Realistic head and body target zones that train accuracy, not just power"
   - "Weight-adjustable base (fill with sand or water) lets you scale stability to your space"
   - Tool-free height adjustment accommodates users from roughly 5'2 inch " to 6'4 inch "
-cons:
+cons: 
   - "Unfilled base is dangerously light — you must commit to a full sand fill for heavy hitters"
   - "Punching surface is firm; those with hand or wrist issues need quality wraps and gloves"
+
 ---
 
 Let's be honest about the home boxing market: most freestanding bags are glorified pool noodles on a plastic disc. The Century BOB XL is not that. This is the bag that forces you to aim, not just swing — and at 4.7 stars across 235 ratings, it's earned its reputation. But it's also not perfect, and you need to know exactly what you're signing up for before you drop the cash.

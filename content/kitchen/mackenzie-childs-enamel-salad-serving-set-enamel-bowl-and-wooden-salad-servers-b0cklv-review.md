@@ -1,4 +1,5 @@
 ---
+
 title: "MACKENZIE-CHILDS Enamel Salad Serving Set, Enamel Bowl and W"
 seo_title: "MACKENZIE-CHILDS Enamel Salad Serving Set, Enamel  Review"
 meta_description: "Our full mackenzie-childs enamel salad serving set, enamel bowl and w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKLVG3XJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AQMUmwhSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the aesthetic noise. The MACKENZIE-CHILDS Enamel Salad Serving Set costs more than most complete salad bowl sets on Amazon, and you need to know exactly what that premium buys before you hit "add to cart."

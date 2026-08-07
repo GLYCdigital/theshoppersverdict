@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Bombs for Kids with Toys Inside - 24 Pack Kid Bath Bomb"
 seo_title: "Bath Bombs for Kids with Toys Inside: 24 Pack Review"
 meta_description: "Honest review of 24-pack kids bath bombs with hidden toys. Fizzes well, smells great, but toy quality varies. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3H93WBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AEmcsA1zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each bath bomb is individually wrapped, keeping them fresh and making them easy to give as party favors"
   - "The fizz lasts 3-5 minutes — long enough to entertain without dragging bath time out"
   - "Strong, pleasant fruit scents that don't trigger sensitive noses (per multiple parent reviews)"
-cons:
+cons: 
   - "Toy quality is hit-or-miss — several buyers report receiving cheap, broken, or duplicate toys"
   - "Colors can stain light bathtub surfaces if not rinsed promptly after draining"
+
 ---
 
 Let's be honest: you're not buying this for the bath bomb. You're buying it because you want five peaceful minutes to yourself while your kid splashes around hunting for a surprise. The question is whether this 24-pack delivers on that promise — or just leaves you scrubbing blue residue off the tub.

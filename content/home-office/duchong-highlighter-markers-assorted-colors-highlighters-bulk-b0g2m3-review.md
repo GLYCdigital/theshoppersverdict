@@ -1,4 +1,5 @@
 ---
+
 title: "Duchong Highlighter Markers, Assorted Colors Highlighters Bu"
 seo_title: "Duchong Highlighter Markers Review: 8-Pack Bulk Value (2026)"
 meta_description: "Duchong highlighter markers bulk 8-pack review: chisel tips, vivid colors, smudge-resistant ink. See if these $1-per-marker pens beat Stabilo. Real buyer verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2M386DF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KIQzG96bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual chisel and fine tips in one marker — no switching pens for underlining vs. margin notes"
   - "Ink stays put through standard inkjets and most gel pens without bleeding through 80gsm paper"
   - "8 assorted colors per pack at a bulk price point — roughly $1 per marker vs. $3+ for Stabilo"
-cons:
+cons: 
   - "Caps pop off too easily in a pencil case — one reviewer lost three in a week"
   - "Ink runs dry faster than premium brands when left uncapped overnight"
   - "Pastel shades (yellow, pink) are less pigmented than the neon greens and blues"
+
 ---
 
 Let's be blunt: most budget highlighters are garbage. They bleed through paper, dry out in a month, or the color looks like someone sneezed on the page. The Duchong Highlighter Markers 8-pack isn't that. At roughly a dollar a marker, it punches well above its price class — with a couple of caveats you need to know before buying.

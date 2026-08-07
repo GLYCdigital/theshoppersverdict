@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmanity Spanish Paella Rice for Paella, Rey del Arroz Aut"
 seo_title: "Gourmanity Spanish Paella Rice for Paella, Rey del Review"
 meta_description: "Our full gourmanity spanish paella rice for paella, rey del arroz aut review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8QMVMBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1uwH6uwiTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short-Grain Rice That Actually Behaves Like Paella Should**

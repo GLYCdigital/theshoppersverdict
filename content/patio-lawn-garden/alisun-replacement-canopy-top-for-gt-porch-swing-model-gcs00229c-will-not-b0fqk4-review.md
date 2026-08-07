@@ -1,4 +1,5 @@
 ---
+
 title: "ALISUN Replacement Canopy Top for GT Porch Swing Model #GCS0 inch"
 seo_title: "ALISUN Replacement Canopy Top Review: Worth It? (2026)"
 meta_description: "Honest ALISUN replacement canopy top review for GT porch swing GCS0. Real pros, cons, fit issues & buyer feedback. See if it beats buying a new swing."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQK41KKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gjAFkmdRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Durable 600D Oxford fabric with water-resistant coating that actually holds up through multiple rainy seasons"
   - "Pre-attached hooks and reinforced stitching at stress points make installation a 15-minute job with no tools"
   - "Fits GT GCS0 models precisely — no sagging, no gap between canopy and frame rails"
-cons:
+cons: 
   - "Color fades noticeably after 3–4 months of direct afternoon sun, especially the darker shades"
   - "No tie-down straps included — strong gusts can flip the canopy up if you don't rig your own anchors"
+
 ---
 
 If your GT porch swing's original canopy has turned into a sun-bleached, torn mess, you're staring at two options: drop $300+ on a whole new swing, or spend about a third of that on the ALISUN replacement top. After digging through 220 ratings and the fitment details, here's what you actually need to know before you click buy.

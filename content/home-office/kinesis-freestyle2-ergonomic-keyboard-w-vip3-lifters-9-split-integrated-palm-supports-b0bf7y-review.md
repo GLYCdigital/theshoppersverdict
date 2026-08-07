@@ -1,7 +1,8 @@
 ---
-title: "KINESIS Freestyle2 Ergonomic Keyboard w/ VIP3 Lifters - 9\" S"
+
+title: "KINESIS Freestyle2 Ergonomic Keyboard w/ VIP3 Lifters - 9\ S"
 seo_title: "KINESIS Freestyle2 Ergonomic Keyboard w/ VIP3 Lift Review"
-meta_description: "Our full kinesis freestyle2 ergonomic keyboard w/ vip3 lifters - 9\" s review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full kinesis freestyle2 ergonomic keyboard w/ vip3 lifters - 9\ s review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kinesis-freestyle2-ergonomic-keyboard-w-vip3-lifters-9-split-integrated-palm-supports-b0bf7y-review"
 image_alt: "KINESIS Freestyle2 Ergonomic Keyboard w/ VIP3 Lifters - 9 Split | Integrated Palm Supports and Adjustable Tenting | PC o"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BF7YTR5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FxuxaamML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your wrists have been sending you increasingly urgent warning messages after eight-hour typing sessions, the KINESIS Freestyle2 with VIP3 lifters is the kind of product that makes you wonder why every keyboard isn't built this way. But at roughly $150–$180 depending on the day, it's also a specialized tool that demands you know exactly what you're buying.

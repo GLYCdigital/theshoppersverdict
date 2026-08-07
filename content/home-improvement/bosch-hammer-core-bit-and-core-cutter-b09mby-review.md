@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH Hammer core BIT and core cutter"
 seo_title: "BOSCH Hammer Core Bit & Cutter Review (2026): Worth It?"
 meta_description: "BOSCH hammer core bit & core cutter review: real-world drilling performance, durability, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09MBYJCWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NMOB0viKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Carbide-tipped teeth cut through reinforced concrete and rebar without dulling after dozens of holes"
   - "Quick-change SDS-plus shank locks firmly into rotary hammers with zero wobble at speed"
   - "Built-in depth stop keeps hole depth consistent across multiple penetrations—no tape marking needed"
-cons:
+cons: 
   - "Single flute design ejects dust slowly; you'll need to pull the bit out frequently on deep holes"
   - "Not for SDS-max hammers—check your chuck compatibility before ordering"
+
 ---
 
 If you've ever fought a cheap hole saw through a concrete wall, you know the frustration. The BOSCH Hammer Core Bit and Core Cutter set is the antidote to that misery. This isn't a budget accessory—it's a purpose-built tool for anyone who regularly drills through masonry, rebar-laced concrete, or block. With a 4.7-star average across 235 ratings, it's clearly earning its keep in contractors' bags and DIYers' garages. But is it the right bit for *your* job? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "N9R 60 Pack Black Square Plastic Plates - Disposable Plates "
 seo_title: "N9R 60 Pack Black Square Plastic Plates - Disposab Review"
 meta_description: "Our full n9r 60 pack black square plastic plates - disposable plates  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BMQ7WGHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717+gOdRzaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about disposable plates: most are flimsy, ugly, and you feel guilty using them. The N9R 60-pack of black square plastic plates tries to change that equation — and for the most part, it succeeds.

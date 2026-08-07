@@ -1,4 +1,5 @@
 ---
+
 title: "AIRYOMI 110,000 RPM High Speed Hair Dryer"
 seo_title: "AIRYOMI 110K RPM Hair Dryer Review: Worth It?"
 meta_description: "AIRYOMI 110,000 RPM hair dryer review: Fast drying, ionic tech, heat control. Real pros, cons, and who should buy. See if it beats Dyson."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2VXFJFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HgsJA+bkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "110,000 RPM brushless motor cuts drying time to roughly half of a standard 1800W dryer"
   - "Smart heat control with 50 million negative ions per cubic centimeter — noticeably less frizz on humid days"
   - "Magnetic attachments (diffuser, concentrator, smoothing nozzle) snap on securely and swivel 360 degrees for angled styling"
-cons:
+cons: 
   - "The 'cold shot' button triggers the coolest air, but it's not freezing — expect a cool breeze, not a cold blast"
   - "Motor noise is high-pitched and whirring, not loud in decibels but annoying for sensitive ears"
   - "Inlet filter is removable for cleaning, but it's recessed — you'll need a small brush or vacuum attachment to reach debris"
+
 ---
 
 Let me be upfront: I've tested a dozen "Dyson killers" in this price range, and most are marketing fluff with a hot coil inside a plastic shell. The AIRYOMI 110,000 RPM is not that. This is a genuinely engineered tool that gets real results — but it has quirks you should know about before you hit "buy."

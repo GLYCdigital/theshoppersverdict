@@ -1,4 +1,5 @@
 ---
+
 title: "Rugg Original Leaf Scoops; 1 Pair"
 seo_title: "Rugg Original Leaf Scoops; 1 Pair Review: Verdict | TSV"
 meta_description: "Our full rugg original leaf scoops; 1 pair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MD1LXRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S8p4YCa6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: raking is the worst part of autumn. You spend an hour gathering leaves into a pile, then the wind laughs at you. The Rugg Original Leaf Scoops are designed to fix that second half of the chore, and after digging through 235 ratings averaging 4.7 stars, the consensus is clear — these things work.

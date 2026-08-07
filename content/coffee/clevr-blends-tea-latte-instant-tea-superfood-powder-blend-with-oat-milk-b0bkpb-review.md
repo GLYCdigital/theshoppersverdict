@@ -1,4 +1,5 @@
 ---
+
 title: "Clevr Blends Tea Latte, Instant Tea, Superfood Powder Blend"
 seo_title: "Clevr Blends Tea Latte Review: Is This Superfood Powder Worth It?"
 meta_description: "Clevr Blends Tea Latte review: Taste, mixability, ingredients, and value. See what 210+ Amazon buyers say before you buy this superfood instant latte."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BKPBXF2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pMNl0jeSL._SL1302_.jpg"
-pros:
+pros: 
   - "Clean ingredient list with adaptogens like L-theanine and lion's mane — no artificial sweeteners or gums"
   - "Dissolves smoothly in hot water with no clumping, even without a frother"
   - "Oat milk base gives a creamy mouthfeel that rivals café lattes at a fraction of the cost"
-cons:
+cons: 
   - "Sweetness is subtle — buyers expecting a sweet tea latte will be disappointed"
   - "Price per serving is steep compared to plain tea or coffee"
   - "Flavor leans more 'earthy matcha' than 'tea latte' — not for everyone"
+
 ---
 
 If you've been burned by "clean" instant lattes that taste like chalk dust, I get the skepticism. But Clevr Blends Tea Latte is genuinely different — and for a specific kind of buyer, it's a daily-driver replacement for that $7 oat milk latte habit.

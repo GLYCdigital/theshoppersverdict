@@ -1,4 +1,5 @@
 ---
+
 title: "CHITA 3 Pieces Boho Patio Rattan Bistro Set, Outdoor Wicker"
 seo_title: "CHITA Boho Patio Bistro Set Review: 3-Piece Wicker"
 meta_description: "CHITA 3-piece boho patio rattan bistro set review: real durability, comfort, and assembly insights from 245+ verified ratings. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0F1YK89QF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81810n88dpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-weather wicker is hand-woven over a rust-proof aluminum frame — no chipping or peeling after months outdoors"
   - "Ergonomic high-back chairs with plush 3-inch cushions that actually stay put thanks to non-slip ties"
   - "Tempered glass table top with a lower shelf — plenty of room for two drinks, a book, and a small plant"
-cons:
+cons: 
   - "Cushions are NOT waterproof — they're water-resistant at best, so you'll want covers or to store them in wet climates"
   - "Assembly takes 40-60 minutes; the chair backs require aligning bolts that are fiddly without a second person"
+
 ---
 
 Let me be blunt: most bistro sets under $300 are flimsy, wobbly, and look like they'll blow away in a stiff breeze. The CHITA 3-piece boho rattan set is not that. With a 4.9-star average across 245 ratings, this set has clearly resonated with buyers — but let's dig into whether it's the right outdoor furniture for *your* patio.

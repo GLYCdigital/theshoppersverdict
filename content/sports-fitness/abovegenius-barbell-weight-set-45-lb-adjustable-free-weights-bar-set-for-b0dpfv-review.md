@@ -1,4 +1,5 @@
 ---
+
 title: "AboveGenius Barbell Weight Set, 45 LB Adjustable Free Weight"
 seo_title: "AboveGenius 45 LB Barbell Set Review: Worth It?"
 meta_description: "Honest AboveGenius barbell weight set review: 45 LB adjustable free weight bar. Build quality, real user feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPFVVJ46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GQD-FWmKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Knurled grip on the bar provides solid traction even with sweaty hands — no chalk needed for most lifts"
   - "Quick-release threaded collars lock plates firmly; no rattling or sliding mid-set"
   - "Compact 45 lb total weight is ideal for beginners, seniors, or anyone rehabbing — not intimidating"
-cons:
+cons: 
   - "Plate increments are limited — you can't micro-load below 2.5 lb jumps, which frustrates progressive overload"
   - "Bar length may feel short for taller lifters doing wide-grip deadlifts or overhead presses"
+
 ---
 
 Let's cut through the noise: a 45 lb adjustable barbell set is not a powerlifter's tool. It's a gateway piece of equipment — and the AboveGenius version does that job better than most budget options I've handled.

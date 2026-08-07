@@ -1,7 +1,8 @@
 ---
-title: "WETARE 11'6\"x35\" Inflatable Paddle Board, 450lbs Extra Wide "
-seo_title: "WETARE 11'6\"x35\" Inflatable Paddle Board, 450lbs E Review"
-meta_description: "Our full wetare 11'6\"x35\" inflatable paddle board, 450lbs extra wide  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WETARE 11'6\x35\ Inflatable Paddle Board, 450lbs Extra Wide "
+seo_title: "WETARE 11'6\x35\ Inflatable Paddle Board, 450lbs E Review"
+meta_description: "Our full wetare 11'6\x35\ inflatable paddle board, 450lbs extra wide  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wetare-11-6-x35-inflatable-paddle-board-450lbs-extra-wide-stand-up-b0dszq-review"
 image_alt: "WETARE 116x35 Inflatable Paddle Board, 450lbs Extra Wide Stand Up Sup Board for Adults, Blow Up Paddleboard Kayak Non-Sl"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSZQR2KJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91cfner+mvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **WETARE 11'6"x35" Inflatable Paddle Board Review: Big, Stable, and Built for Real Life**

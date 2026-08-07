@@ -1,4 +1,5 @@
 ---
+
 title: "CRYSTOP Classic Vintage Crystal Candle Chandeliers Lighting"
 seo_title: "CRYSTOP Vintage Crystal Candle Chandelier Review (2026)"
 meta_description: "Honest CRYSTOP vintage crystal candle chandelier review: build quality, light output, installation tips, and who should buy this 4.4-star ceiling fixture."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GFNLMB3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71619SYqcrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine K9 crystal drops and beads — not cheap acrylic — with visible sparkle and light refraction"
   - "Fully adjustable chain and hanging height lets you fit it over dining tables or in two-story foyers"
   - "E26 standard sockets accept any bulb type, including LED filaments for period-correct warm glow"
-cons:
+cons: 
   - "Assembly is genuinely tedious — 100+ individual crystal pieces to hang, taking most buyers 1.5–2 hours"
   - "No bulbs included despite the product images showing lit candles; factor in an extra $15–25 for six bulbs"
   - "Finial caps on the candle sleeves can loosen during shipping; check and tighten before hanging"
+
 ---
 
 If you've been scrolling past $800 chandeliers wondering why a six-light crystal fixture has to cost more than your monthly grocery budget, the CRYSTOP Classic Vintage Crystal Candle Chandelier is the reality check you need. This fixture lands in that sweet spot between "too cheap to trust" and "overpriced for what it is" — and with 220 ratings averaging 4.4 stars, it's clearly doing something right for most buyers.

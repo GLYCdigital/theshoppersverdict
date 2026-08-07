@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Wooden Sofa Console Table with Drawers"
 seo_title: "Nathan James Wooden Sofa Console Table with Drawer Review"
 meta_description: "Our full nathan james wooden sofa console table with drawers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7P7ZYKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AFkRYUTyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most sofa console tables are either cheap particleboard junk or wildly overpriced "live-edge" slabs that cost more than your couch. The Nathan James Wooden Sofa Console Table with Drawers sits in a rare middle ground — and with 229 ratings averaging 4.6 stars, it's clearly doing something right. Here's the real story after digging through customer experiences and the spec sheet.

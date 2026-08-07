@@ -1,4 +1,5 @@
 ---
+
 title: "Indoor Flag Pole Kit - Telescoping 6FT-8FT Flag Pole with Ba"
 seo_title: "Indoor Flag Pole Kit - Telescoping 6FT-8FT Flag Po Review"
 meta_description: "Our full indoor flag pole kit - telescoping 6ft-8ft flag pole with ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DCW7GFX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j3vkN45zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be straight about this: buying a flag pole for **inside** your house is a niche move. Most people default to hanging a flag on a wall or draping it over a shelf. But if you want that proper, vertical display — the kind you see in veterans' homes, man caves, or offices — this telescoping kit from Amazon is one of the more practical options under $50. Here’s what 210 buyers at a 4.2-star average are actually saying, and what they’re not telling you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Caffè Borbone Whole Bean Coffee Review"
 seo_title: "Caffè Borbone Whole Bean Coffee Review: Bold Italian Espresso (2026)"
 meta_description: "Caffè Borbone whole bean coffee review: bold Neapolitan espresso blend, pros, cons, and who should buy. Honest verdict from real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXPDP26Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jk7p-IjLL._SL1024_.jpg"
-pros:
+pros: 
   - "Authentic Neapolitan espresso profile with dark roasted intensity that holds up in milk drinks"
   - "Consistently fresh whole beans with visible oil sheen, indicating proper roast date rotation"
   - "Strong crema production in espresso machines and moka pots — buyers report thick, hazelnut-colored foam"
-cons:
+cons: 
   - "Very dark roast leans bitter for drip coffee drinkers; best reserved for espresso or moka brewing"
   - "Bag lacks a one-way degassing valve on some batches, leading to staling if stored longer than 3 weeks"
   - "Price per pound runs higher than supermarket Italian blends, though quality justifies it for espresso purists"
+
 ---
 
 **Caffè Borbone Whole Bean Coffee Review: Is This Neapolitan Blend Worth Your Counter Space?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Oxford 6-Ring Professional Notebook, 7 x 9 Inch, Refillable "
 seo_title: "Oxford 6-Ring Professional Notebook, 7 x 9 Inch, R Review"
 meta_description: "Our full oxford 6-ring professional notebook, 7 x 9 inch, refillable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FH5Q2LQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q+nsfWfAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Frontmatter complete. Review body below:**

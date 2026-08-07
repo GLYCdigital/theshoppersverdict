@@ -1,4 +1,5 @@
 ---
+
 title: "COTULIN Small Bedroom Table Lamp,Modern Desk Lamp with TC Fabric Shade Review"
 seo_title: "COTULIN Small Bedroom Table Lamp Review (2026): Honest Verdict"
 meta_description: "COTULIN small bedroom table lamp review: modern desk lamp with TC fabric shade. See pros, cons, and who should buy this 4.4-star bedside essential."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CK6BJ6XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nOCJstuTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "TC fabric shade diffuses light evenly without harsh hotspots — rare at this price point"
   - "Compact 12-inch height fits nightstands, desks, and cramped corners without dominating"
   - "Stable weighted base prevents tipping even with a 9-watt LED bulb installed"
-cons:
+cons: 
   - "No built-in USB port or outlet — you'll need an adapter for phone charging"
   - "In-line switch requires finding the cord, not ideal for bedside reach in the dark"
+
 ---
 
 Let's cut through the noise: the COTULIN Small Bedroom Table Lamp isn't trying to reinvent lighting. It's a straightforward, well-executed modern lamp that does the basics right — and for most shoppers, that's exactly what a bedside or desk lamp needs to be.

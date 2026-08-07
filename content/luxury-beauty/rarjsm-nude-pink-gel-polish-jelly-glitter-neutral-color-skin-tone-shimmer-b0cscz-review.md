@@ -1,4 +1,5 @@
 ---
+
 title: "RARJSM Nude Pink Gel Polish Jelly Glitter Neutral Color Skin"
 seo_title: "RARJSM Nude Pink Gel Polish Jelly Glitter Neutral  Review"
 meta_description: "Our full rarjsm nude pink gel polish jelly glitter neutral color skin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSCZJYJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514IYZOnNqL._SL1300_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Nude Pink That Finally Looks Nude

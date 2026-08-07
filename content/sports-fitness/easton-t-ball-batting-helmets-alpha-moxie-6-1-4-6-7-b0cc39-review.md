@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | T-Ball Batting Helmets | Alpha | Moxie | 6 1/4 inch  - 6 inch"
 seo_title: "Easton T-Ball Batting Helmet Review: Alpha Moxie Safety"
 meta_description: "Easton T-Ball Batting Helmet review: 4.8-star Alpha Moxie offers pro-level protection for young sluggers. See sizing, safety features, and real parent feedback."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CC399VCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Pw+q7qCmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-density foam liner absorbs impact better than single-layer helmets in its price range"
   - "Extended back-shell coverage protects the occipital area where many youth helmets fall short"
   - "Tool-free adjustable fit system works with a simple turn dial — no wrestling with snaps"
-cons:
+cons: 
   - "Runs small — several parents report needing to size up for kids with thicker heads or hair"
   - "Ventilation is limited; head sweat builds up during summer games and practices"
   - "Glossy finish scratches easily if you toss it in a gear bag without a cover"
+
 ---
 
 ## A Youth Helmet That Takes Hits Seriously (and Looks Good Doing It)

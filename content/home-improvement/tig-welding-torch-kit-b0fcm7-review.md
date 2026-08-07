@@ -1,4 +1,5 @@
 ---
+
 title: "TIG Welding Torch Kit"
 seo_title: "TIG Welding Torch Kit Review: Verdict | TSV"
 meta_description: "Our full tig welding torch kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FCM71WBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7153pHzdnaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a TIG torch kit on a budget, you've probably noticed the price spread is wild — from $35 no-name specials to $200+ name-brand setups. This kit lands somewhere in the middle, and based on the 4.4-star average across 220 ratings, it's getting real attention from hobbyists and working fabricators alike. Here's what you're actually getting.

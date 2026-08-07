@@ -1,4 +1,5 @@
 ---
+
 title: "Barnyard Designs Natural Coco Coir Heavy Duty Backing Doorma"
 seo_title: "Barnyard Designs Coco Coir Doormat Review: Heavy Duty & Natural"
 meta_description: "Read our Barnyard Designs coco coir doormat review. Heavy-duty natural fiber, non-slip backing, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4C98Y5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91W3zy+ylLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 1-inch coco coir fibers scrape off mud and debris more aggressively than flat mats"
   - "Natural rubber backing stays put on concrete and wood porches without curling at edges"
   - "Farmhouse-style design holds up visually after months of foot traffic and weather exposure"
-cons:
+cons: 
   - "Coco coir sheds loose fibers for the first couple weeks — expect some mess on your porch"
   - "Not ideal for covered entryways only; heavy rain can saturate it and slow drying"
+
 ---
 
 Let’s be honest: most doormats are an afterthought. You grab whatever’s on sale, it looks decent for a month, then it curls, fades, or turns into a muddy mess. The Barnyard Designs Natural Coco Coir mat actually tries to be better — and for the most part, it succeeds. With a 4.6-star average across 229 ratings, it’s clearly resonating with buyers who want something that works as hard as it looks.

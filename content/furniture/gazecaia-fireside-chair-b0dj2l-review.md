@@ -1,4 +1,5 @@
 ---
+
 title: "Gazecaia Fireside Chair"
 seo_title: "Gazecaia Fireside Chair Review: Cozy, Durable & Worth It"
 meta_description: "Honest Gazecaia Fireside Chair review: build quality, comfort, size, and who should buy. See real pros, cons, and ratings before you spend."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ2L62CB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91A7H-P13DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deep, generously padded seat with high-density foam that holds its shape after months of daily use"
   - "Sturdy solid wood frame and legs rated to support up to 350 lbs without wobble or creak"
   - "Breathable linen-look upholstery that resists pilling and is easy to vacuum clean"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes and requires a hex key (included), but the holes on the base don't always align perfectly"
   - "Arms are lower than typical accent chairs — comfortable for lounging but not ideal for working on a laptop"
   - "Backrest is more upright than photos suggest; you'll want a lumbar pillow for extended reading sessions"
+
 ---
 
 If you've been scrolling through accent chair listings for hours, the Gazecaia Fireside Chair is likely on your radar. With 225 ratings and a 4.5-star average, it's clearly doing something right. But is it worth the space in your living room — and your budget? Here's the real story.

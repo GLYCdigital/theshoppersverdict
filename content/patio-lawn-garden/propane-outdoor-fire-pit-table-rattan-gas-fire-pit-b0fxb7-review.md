@@ -1,4 +1,5 @@
 ---
+
 title: "Propane Outdoor Fire Pit Table Rattan Gas Fire Pit"
 seo_title: "Propane Outdoor Fire Pit Table Rattan Gas Fire Pit Review"
 meta_description: "Our full propane outdoor fire pit table rattan gas fire pit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXB7YP6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91J7FFcEnHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. You’re looking at a propane fire pit table because you want warmth, ambiance, and something that doesn’t require chopping wood or cleaning ash. This rattan gas fire pit delivers on all three — but it’s not without its quirks. Here’s what 229 buyers (averaging 4.6 stars) actually think, plus what the product listing doesn’t tell you.

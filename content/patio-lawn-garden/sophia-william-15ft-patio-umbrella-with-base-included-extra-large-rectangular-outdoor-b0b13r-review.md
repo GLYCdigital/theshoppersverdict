@@ -1,4 +1,5 @@
 ---
+
 title: "Sophia & William 15ft Patio Umbrella with Base Included, Ext"
 seo_title: "Sophia & William 15ft Patio Umbrella with Base Inc Review"
 meta_description: "Our full sophia & william 15ft patio umbrella with base included, ext review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B13RXX46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ko58U8ksL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # A 15-Foot Shade Monster That Actually Covers the Whole Table

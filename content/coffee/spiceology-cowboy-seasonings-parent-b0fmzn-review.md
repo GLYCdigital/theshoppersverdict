@@ -1,4 +1,5 @@
 ---
+
 title: "Spiceology Cowboy Seasonings Parent"
 seo_title: "Spiceology Cowboy Seasonings Parent Review: Verdict | TSV"
 meta_description: "Our full spiceology cowboy seasonings parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMZNZD8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NNK-QslOL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Spiceology Cowboy Seasonings: The Coffee-Enthusiast's Secret Weapon

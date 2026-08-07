@@ -1,4 +1,5 @@
 ---
+
 title: "PetSafe ScoopFree Crystal Litter Tray Refills"
 seo_title: "PetSafe ScoopFree Crystal Litter Tray Refills Review: Ver"
 meta_description: "Our full petsafe scoopfree crystal litter tray refills review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXT4D44R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812VFuAy-5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still scooping a traditional litter box twice a day, you're wasting time you'll never get back. The PetSafe ScoopFree system eliminates that chore entirely — but the refill trays are where the magic (and the ongoing cost) actually lives. Here's what you need to know before you commit to this system.

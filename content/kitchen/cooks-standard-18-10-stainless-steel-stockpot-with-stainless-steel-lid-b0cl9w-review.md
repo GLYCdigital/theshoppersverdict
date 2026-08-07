@@ -1,4 +1,5 @@
 ---
+
 title: "Cooks Standard 18/10 Stainless Steel Stockpot with Stainless"
 seo_title: "Cooks Standard 18/10 Stockpot Review: Worth It? (2026)"
 meta_description: "Cooks Standard 18/10 stainless steel stockpot review: 4.7★ rated. Tested for heat distribution, durability & value. See who should buy & who should skip."
@@ -11,15 +12,16 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CL9WPMBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WrrLhUjJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply base (aluminum core) delivers even heating across the bottom — no scorching on a full batch of chili"
   - "18/10 stainless steel interior won't react with acidic ingredients like tomatoes or wine"
   - "Oven-safe up to 500°F including the lid — sear on stovetop, braise in oven, no second vessel needed"
   - "Encapsulated base works on induction, gas, electric, and ceramic cooktops"
-cons:
+cons: 
   - "No pour spouts — draining pasta requires a colander, and pouring hot stock risks drips down the side"
   - "Stainless interior shows water spots and discoloration if you don't dry it immediately after washing"
   - "Staying handles are riveted but can get warm on long simmers — keep a mitt nearby"
+
 ---
 
 Let me cut through the noise: most stockpots under $100 are thin, flimsy aluminum that warps on medium heat. The Cooks Standard 18/10 Stainless Steel Stockpot is not that. With a 4.7-star average across 235 ratings, this pot has earned its reputation — but it's not perfect, and you should know exactly where it falls short before you commit.

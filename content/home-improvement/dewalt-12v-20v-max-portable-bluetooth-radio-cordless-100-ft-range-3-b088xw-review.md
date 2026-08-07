@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 12V/20V MAX Portable Bluetooth Radio, Cordless, 100 f"
 seo_title: "DEWALT 12V/20V MAX Bluetooth Radio Review (2026)"
 meta_description: "Honest DEWALT 12V/20V MAX Portable Bluetooth Radio review: 100-ft range, battery compatibility, sound quality, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B088XW3HND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FAv4QeAbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Runs on any DEWALT 12V or 20V MAX battery you already own — no proprietary packs needed"
   - "100-foot Bluetooth range holds a stable connection through walls and across job sites"
   - "IP54-rated dust and water resistance survives real jobsite abuse, not just light splashes"
-cons:
+cons: 
   - "No AC adapter included — you're tethered to batteries unless you buy the optional power cord separately"
   - "Bass response is thin at higher volumes; fine for talk radio or podcasts, less ideal for music-heavy workdays"
+
 ---
 
 If you're a tradesperson who's burned through cheap Bluetooth speakers that die after three months of sawdust and drops, the DEWALT 12V/20V MAX Portable Bluetooth Radio deserves a hard look. This isn't a lifestyle speaker designed for poolside lounging — it's a job site tool that happens to play audio. Priced competitively and rated 4.7 out of 5 across 235 Amazon reviews, it earns its keep by doing one thing exceptionally well: playing loud, clear audio all day without ever needing to hunt for an outlet.

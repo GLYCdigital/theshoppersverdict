@@ -1,24 +1,26 @@
 ---
+
 title: "Globlazer F80 Big Cat Tower for Indoor Cats, 80inch Cat Towe"
 seo_title: "Globlazer F80 Cat Tower Review: 80-Inch Big Cat Tree"
 meta_description: "Globlazer F80 80-inch cat tower review: sturdy, tall, and built for big cats. See pros, cons, and who should buy this 4.4-star cat tree."
 slug: "globlazer-f80-big-cat-tower-for-indoor-cats-80inch-cat-tower-for-b0dkss-review"
 image_alt: "Globlazer F80 80-inch cat tower with multiple platforms, sisal posts, and a top perch for indoor cats"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKSS6CJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81saGFIATNL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "80-inch height gives active climbers serious vertical territory without needing wall mounting"  
   - "Wide, reinforced platforms (roughly 18x14 inches) hold 20+ lb Maine Coons and chunky tabbies comfortably"  
   - "Sisal-wrapped posts are thick and rough enough to actually satisfy scratching instincts — not the flimsy glued-on rope you see on cheap towers"  
-cons:  
+cons: 
   - "Assembly takes 45–60 minutes with two people; the base is heavy and the instructions are mostly diagrams with tiny print"  
   - "Top perch lacks a safety lip — a cat mid-zoomies can overshoot and slide off the edge"  
   - "Faux fur sheds a bit during the first week; expect to vacuum more than usual"
+
 ---
 
 **An 80-inch cat tower is a big commitment — both in floor space and in your cat's enthusiasm. The Globlazer F80 aims to be the final word in vertical territory for big breeds and multi-cat homes. After digging through 220 ratings and the specs, here's what actually matters.**

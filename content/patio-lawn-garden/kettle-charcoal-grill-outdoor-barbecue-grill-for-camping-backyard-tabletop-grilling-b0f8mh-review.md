@@ -1,4 +1,5 @@
 ---
+
 title: "Kettle Charcoal Grill,Outdoor Barbecue Grill for Camping/Bac"
 seo_title: "Kettle Charcoal Grill,Outdoor Barbecue Grill for C Review"
 meta_description: "Our full kettle charcoal grill,outdoor barbecue grill for camping/bac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F8MHWDP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oWibxMlML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced a Weber Jumbo Joe lately, you know portability costs a premium. This kettle charcoal grill undercuts it significantly while offering the same fundamental design: a porcelain-enameled bowl, a chrome cooking grate, and a domed lid that turns your grill into a convection oven. After 210 Amazon ratings averaging 4.2 stars, the consensus is clear — this is a legit budget contender, not a disposable toy. But "budget" always means tradeoffs, and I'll walk you through exactly where this grill earns its keep and where it'll frustrate you.

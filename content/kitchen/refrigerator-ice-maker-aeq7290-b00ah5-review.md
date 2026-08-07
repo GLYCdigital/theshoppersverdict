@@ -1,4 +1,5 @@
 ---
+
 title: "REFRIGERATOR ICE MAKER AEQ7290"
 seo_title: "REFRIGERATOR ICE MAKER AEQ7290 Review: Verdict | TSV"
 meta_description: "Our full refrigerator ice maker aeq7290 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00AH5ZMVK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dkjEZAh9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your ice maker stopped dropping cubes weeks ago and you've been living on bagged ice, the AEQ7290 is likely the exact cure. This is the genuine OEM replacement for the factory unit in a wide range of GE and Hotpoint refrigerators — not a generic "universal" part that sort of works. At a 4.5-star average across 225 ratings, it's the kind of part that quietly fixes a daily annoyance and then gets forgotten. Here's what you need to know before you buy.

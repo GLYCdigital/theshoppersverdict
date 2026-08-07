@@ -1,4 +1,5 @@
 ---
+
 title: "Nabisco Sweet Treats Cookie Variety Pack OREO, OREO Golden &"
 seo_title: "Nabisco Sweet Treats Cookie Variety Pack OREO, ORE Review"
 meta_description: "Our full nabisco sweet treats cookie variety pack oreo, oreo golden & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D15BQZPT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JOwWiSpPL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: you don’t need a review to know what an OREO tastes like. What you actually need to know is whether this specific variety pack — the Nabisco Sweet Treats box with classic OREO, Golden OREO, and Chips Ahoy! — earns its spot in your cart versus just grabbing a regular bag at the grocery store. After digging through 235 ratings and the real-world feedback baked into that 4.7-star average, here’s the straight story.

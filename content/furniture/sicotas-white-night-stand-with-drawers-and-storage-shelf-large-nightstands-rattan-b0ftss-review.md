@@ -1,4 +1,5 @@
 ---
+
 title: "SICOTAS White Night Stand with Drawers and Storage Shelf - L"
 seo_title: "SICOTAS White Night Stand with Drawers and Storage Review"
 meta_description: "Our full sicotas white night stand with drawers and storage shelf - l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTSS452Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HLPksynWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Shopper's Verdict: SICOTAS White Night Stand with Drawers and Storage Shelf – L**

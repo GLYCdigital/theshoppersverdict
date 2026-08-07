@@ -1,4 +1,5 @@
 ---
+
 title: "Naturium Intense Overnight Sleeping Cream, Hydrating & Anti-"
 seo_title: "Naturium Intense Overnight Sleeping Cream, Hydrati Review"
 meta_description: "Our full naturium intense overnight sleeping cream, hydrating & anti- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B2KRRBZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XoPhEvs3L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that feeling when you wake up with skin that still feels tight by 10 a.m.? That’s the problem Naturium’s Intense Overnight Sleeping Cream is trying to solve — and for most users, it actually does. This is a serious night cream for dry and dehydrated skin, not a lightweight gel that evaporates by midnight.

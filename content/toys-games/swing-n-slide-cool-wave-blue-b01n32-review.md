@@ -1,4 +1,5 @@
 ---
+
 title: "Swing-N-Slide Cool Wave , Blue"
 seo_title: "Swing-N-Slide Cool Wave , Blue Review: Verdict | TSV"
 meta_description: "Our full swing-n-slide cool wave , blue review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01N327CO1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xQ6TyHNeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Swing-N-Slide Cool Wave is the rare backyard toy that delivers on its name. It's not just a slide — it's a 12-foot long, wave-shaped ride with a built-in water hookup that turns a boring summer afternoon into a splash zone. With 229 ratings averaging 4.6 stars, most buyers are genuinely happy. But before you drop your money, let's talk about what the reviews don't tell you upfront.

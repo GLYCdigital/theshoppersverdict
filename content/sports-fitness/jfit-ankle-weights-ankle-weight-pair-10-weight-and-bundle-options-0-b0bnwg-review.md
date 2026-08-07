@@ -1,4 +1,5 @@
 ---
+
 title: "JFIT Ankle Weights - Ankle Weight Pair 10 Weight and Bundle "
 seo_title: "JFIT Ankle Weights - Ankle Weight Pair 10 Weight a Review"
 meta_description: "Our full jfit ankle weights - ankle weight pair 10 weight and bundle  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BNWGLLNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61thi3MC5TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The JFIT ankle weights aren't the flashiest piece of gear in your gym bag, but they might be the most practical. With a 4.4-star average across 220 ratings, these adjustable 10-pound pairs have carved out a loyal following among walkers, physical therapy patients, and casual trainers who want progression without a closet full of equipment.

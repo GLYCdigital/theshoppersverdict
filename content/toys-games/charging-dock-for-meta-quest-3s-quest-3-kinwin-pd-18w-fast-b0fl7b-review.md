@@ -1,4 +1,5 @@
 ---
+
 title: "Charging Dock for Meta Quest 3S/Quest 3, Kinwin PD 18W Fast"
 seo_title: "Kinwin Quest 3S Charging Dock Review: PD 18W Fast Charging"
 meta_description: "Kinwin charging dock for Meta Quest 3S/3 review: 18W PD fast charging, magnetic alignment, and controller charging. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FL7B4GX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YbNH96cjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "18W PD USB-C power delivery charges the Quest 3S from empty to full in roughly 2.5 hours — noticeably faster than the stock 18W wall adapter alone"
   - "Magnetic pogo-pin connectors on both headset and controllers make dock alignment foolproof; no fumbling for USB-C ports in the dark"
   - "Integrated controller charging contacts eliminate the need for separate battery packs — works with the stock wrist straps and standard Quest 3/3S controllers"
-cons:
+cons: 
   - "The included USB-C cable is only 3.3 feet long, which limits where you can place the dock relative to an outlet; you may need to buy a longer cable"
   - "No pass-through charging for the Link cable or PCVR use — the dock occupies the headset's USB-C port entirely while charging"
   - "The LED indicator stays solid green even at 80% charge; there's no way to tell when it hits 100% without checking the headset's battery menu"
+
 ---
 
 The Kinwin charging dock for Meta Quest 3S and Quest 3 solves a problem you didn't realize you had — until you've picked up a dead headset at 9 PM on a Friday. If you've been living with the stock wall charger and a tangled USB-C cable, this dock is the organizational upgrade your VR corner actually needs.

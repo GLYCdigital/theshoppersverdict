@@ -1,4 +1,5 @@
 ---
+
 title: "AILITOR 9x5 Enameled Cast Iron Loaf Pan"
 seo_title: "AILITOR 9x5 Enameled Cast Iron Loaf Pan Review (2026)"
 meta_description: "AILITOR 9x5 enameled cast iron loaf pan review: even baking, easy release, heavy-duty build. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9T7NPVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-V1GlJKiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Superior heat retention produces evenly browned crusts with no burnt edges or raw centers"
   - "Smooth enamel coating allows bread to release cleanly without sticking or greasing"
   - "Oven-safe up to 500°F and compatible with all cooktops, including induction"
-cons:
+cons: 
   - "Weighs over 5 pounds empty — not ideal for those with wrist or grip issues"
   - "Hand-wash only; dishwasher detergent will dull and chip the enamel over time"
+
 ---
 
 # AILITOR 9x5 Enameled Cast Iron Loaf Pan Review: Worth the Weight?

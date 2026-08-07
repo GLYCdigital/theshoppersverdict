@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Screwdriver Set, 12 Pc, Includes Flat Head and Phi"
 seo_title: "CRAFTSMAN 12-Pc Screwdriver Set Review (2026): Worth It?"
 meta_description: "CRAFTSMAN 12-pc screwdriver set review: flat head & Phillips drivers, comfort grip, and durability tested. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXC5YJ4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aC4N2UxbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnetic tips actually hold screws firmly during installation"
   - "Cushioned grips reduce hand fatigue on long jobs"
   - "Heat-treated steel shafts resist bending under heavy torque"
-cons:
+cons: 
   - "No case included — drivers will roll around in a toolbox drawer"
   - "Handle diameter is thick for users with smaller hands"
   - "Lacks stubby or precision drivers for tight-space work"
+
 ---
 
 You know that moment when you start a project with a $5 screwdriver from the grocery store, and the tip rounds off on the second screw? This CRAFTSMAN 12-piece set is the answer to that frustration. With a 4.8-star average across 240 ratings, it's clearly earning its place in toolboxes — but it's not without a few compromises worth knowing before you buy.

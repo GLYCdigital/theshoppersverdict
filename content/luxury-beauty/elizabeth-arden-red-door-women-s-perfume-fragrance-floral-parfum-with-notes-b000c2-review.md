@@ -1,4 +1,5 @@
 ---
+
 title: "Elizabeth Arden Red Door Women's Perfume, Fragrance, Floral"
 seo_title: "Elizabeth Arden Red Door Perfume Review: Classic Floral (2026)"
 meta_description: "Read our honest Elizabeth Arden Red Door perfume review. A rich floral with rose, jasmine & sandalwood. See pros, cons & who should buy this iconic scent."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000C212QC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TyTfLfRLf._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8+ hours on skin, days on fabric"
   - "Complex floral bouquet with rose, jasmine, and violet notes that evolve beautifully"
   - "Concentrated parfum formula means a little goes a long way"
-cons:
+cons: 
   - "Fragrance is strong and bold — not for those who prefer subtle, skin-scents"
   - "Classic 80s-style floral may feel dated to younger shoppers"
   - "Bottle lacks a sprayer on some versions — splash application is messy"
+
 ---
 
 **The Iconic Red Door: Still Worth Opening in 2026?**

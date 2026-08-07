@@ -1,4 +1,5 @@
 ---
+
 title: "Myco Labs 350 Watt Mushroom Dehydrator with Adjustable Tempe"
 seo_title: "Myco Labs 350 Watt Mushroom Dehydrator with Adjust Review"
 meta_description: "Our full myco labs 350 watt mushroom dehydrator with adjustable tempe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C8TSKKCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fr3fJ3P6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most dehydrators under $60 are the same white plastic tower with a weak 250W motor and a single on/off switch. The **Myco Labs 350 Watt Mushroom Dehydrator** isn't that. It's aimed squarely at home mushroom growers and foragers who need precise low-temperature drying to preserve potency — and it mostly delivers.

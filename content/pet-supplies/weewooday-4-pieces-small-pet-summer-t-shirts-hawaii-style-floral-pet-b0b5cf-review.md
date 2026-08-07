@@ -1,4 +1,5 @@
 ---
+
 title: "Weewooday 4 Pieces Small Pet Summer T-Shirts Hawaii Style Fl"
 seo_title: "Weewooday 4 Pieces Small Pet Summer T-Shirts Hawai Review"
 meta_description: "Our full weewooday 4 pieces small pet summer t-shirts hawaii style fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0B5CF5HZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716xR2yV4rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You love your dog. You also love a good deal. The Weewooday 4-pack of Hawaiian-style pet tees promises both — four tropical-print shirts for roughly the price of one boutique-brand dog tee. But at 3.6 stars across 180 ratings, there's clearly a split opinion. Let me tell you which side you'll land on.

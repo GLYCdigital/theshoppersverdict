@@ -1,4 +1,5 @@
 ---
+
 title: "Gardener's Supply Company Lifetime Tomato Cages | Heavy Gaug"
 seo_title: "Lifetime Tomato Cages Review: Sturdy Heavy-Gauge Support"
 meta_description: "Our Gardener's Supply Lifetime Tomato Cages review covers build quality, real-world performance, and who should buy. See why 229 shoppers rate these 4.6/5."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWTBYFPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EZQMCFAoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True heavy-gauge steel construction that doesn't flex or collapse under a full indeterminate plant loaded with fruit"
   - "Powder-coated finish resists rust and UV damage far better than the bare galvanized wire on $15 cages"
   - "Tall enough (roughly 5 feet) to handle most indeterminate varieties without needing to stack or improvise extensions"
   - "Folds flat for off-season storage — a genuine space-saver if you garage your gear"
-cons:
+cons: 
   - "Significantly pricier than standard cone cages — expect to pay a premium per cage that stings if you need a dozen"
   - "The legs lack ground-staking holes; in loose soil or high wind, the whole assembly can shift unless you anchor it yourself"
   - "Not infinitely expandable — truly massive 8-foot vines will still outgrow the top, and there's no add-on kit"
+
 ---
 
 You've bought the $12 cone cage. You've watched it buckle by mid-July, listing sideways under the weight of a single Celebrity vine. That's the problem the Gardener's Supply Company Lifetime Tomato Cages are engineered to solve — and mostly, they do.

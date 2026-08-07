@@ -1,4 +1,5 @@
 ---
+
 title: "CORAZAZA Armoire Wardrobe Closet with Mirror Door and 2 Larg"
 seo_title: "CORAZAZA Armoire Wardrobe Closet Review: Mirror Door & 2 Large Drawers"
 meta_description: "CORAZAZA armoire wardrobe closet review: mirror door, 2 large drawers, 4.4★ rating. Real pros, cons, assembly tips & who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F24ZZ9LK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Full-length mirror door saves floor space by combining a dressing mirror with storage"
   - "Two large drawers glide smoothly on metal tracks and handle heavy sweaters/jeans without sagging"
   - "Sturdy engineered wood frame holds up well; several buyers noted zero wobble even when fully loaded"
-cons:
+cons: 
   - "Assembly requires two people and roughly 2–3 hours — the mirror door is heavy and awkward to mount solo"
   - "Interior shelf is fixed, not adjustable; tall boots or stacked bins may not fit as flexibly as you'd like"
+
 ---
 
 If you're short on floor space but need a real wardrobe, the CORAZAZA Armoire with mirror door is a smart compromise. At 4.4 stars across 220 ratings, it's not perfect — but it solves a specific problem well: consolidating a dresser and full-length mirror into one footprint. Here's what 220 reviewers actually experienced.

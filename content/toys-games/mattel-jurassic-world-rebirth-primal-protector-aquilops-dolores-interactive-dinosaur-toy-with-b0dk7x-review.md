@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Jurassic World Rebirth Primal Protector Aquilops Dolo"
 seo_title: "Mattel Jurassic World Rebirth Primal Protector Aqu Review"
 meta_description: "Our full mattel jurassic world rebirth primal protector aquilops dolo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK7XZ26N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MbPBysiGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has been begging for a dinosaur that actually *does* something — not just another plastic statue to line the shelf — the Mattel Jurassic World Rebirth Primal Protector Aquilops Dolo might be the pick. It walks, it roars, it reacts to motion. But before you hit add-to-cart, let's talk about what's actually in the box and whether this thing holds up to real playroom abuse.

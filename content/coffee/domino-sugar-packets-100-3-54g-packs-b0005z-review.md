@@ -1,4 +1,5 @@
 ---
+
 title: "DOMINO SUGAR PACKETS - 100/ 3.54g Packs"
 seo_title: "Domino Sugar Packets Review: 100 Count, 3.54g Each"
 meta_description: "Domino Sugar Packets (100 count, 3.54g) reviewed: portion control, dissolving speed, value, and real buyer feedback for coffee lovers."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0005ZXKX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+tScZ0haL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 3.54g portion — roughly 1 teaspoon, so no guesswork when sweetening coffee or tea"
   - "Pure cane sugar dissolves quickly in hot beverages without gritty residue"
   - "Sealed packets keep sugar fresh and dry for months — no clumping or ant issues"
-cons:
+cons: 
   - "Only 100 packets per box — heavy coffee drinkers will burn through this fast"
   - "At roughly 14 calories per packet, it's easy to lose track of how much sugar you're actually adding"
+
 ---
 
 ## The Unsexy Truth About Sugar Packets

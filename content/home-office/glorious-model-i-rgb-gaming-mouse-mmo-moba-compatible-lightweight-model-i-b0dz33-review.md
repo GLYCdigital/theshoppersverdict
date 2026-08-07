@@ -1,4 +1,5 @@
 ---
+
 title: "Glorious Model I RGB Gaming Mouse MMO MOBA Compatible Lightw"
 seo_title: "Glorious Model I RGB Gaming Mouse MMO MOBA Compati Review"
 meta_description: "Our full glorious model i rgb gaming mouse mmo moba compatible lightw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZ33M8ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RRBhqwzjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've reviewed over 40 gaming mice in the past two years, and the MMO category has been stuck in a rut. Most "MMO mice" weigh 110+ grams, look like they belong in a 2012 esports LAN party, and cram 12 side buttons into a space where your thumb actually needs to rest. The Glorious Model I takes a different approach — it's a lightweight honeycomb mouse with nine buttons, designed for people who play MOBAs and MMOs but don't want to feel like they're dragging a brick across their desk.

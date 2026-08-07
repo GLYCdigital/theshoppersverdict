@@ -1,4 +1,5 @@
 ---
+
 title: "Carrington Farms Organic Refined Coconut Oil, Gluten Free, N"
 seo_title: "Carrington Farms Coconut Oil Review: Honest Look (2026)"
 meta_description: "Our Carrington Farms Organic Refined Coconut Oil review covers taste, smoke point, and keto coffee use. See if this 4.7-star oil is worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZLQX8ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ApjEQy7FL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly neutral flavor — no coconut taste, which matters for coffee and high-heat cooking"
   - "Refined but still organic and non-GMO verified, so you're not sacrificing quality for convenience"
   - "Solid at room temperature with a reliable 350°F smoke point — versatile across cooking methods"
-cons:
+cons: 
   - "Refined means fewer antioxidants and phytonutrients than unrefined virgin coconut oil"
   - "Glass jar is heavy and can crack if dropped; no plastic alternative offered at this price point"
+
 ---
 
 **Is This the Right Coconut Oil for Your Kitchen (and Your Coffee)?**

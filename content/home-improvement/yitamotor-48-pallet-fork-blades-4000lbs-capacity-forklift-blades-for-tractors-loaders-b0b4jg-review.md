@@ -1,7 +1,8 @@
 ---
-title: "YITAMOTOR 48\" Pallet Fork Blades, 4000lbs Capacity Forklift "
-seo_title: "YITAMOTOR 48\" Pallet Fork Blades, 4000lbs Capacity Review"
-meta_description: "Our full yitamotor 48\" pallet fork blades, 4000lbs capacity forklift  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "YITAMOTOR 48\ Pallet Fork Blades, 4000lbs Capacity Forklift "
+seo_title: "YITAMOTOR 48\ Pallet Fork Blades, 4000lbs Capacity Review"
+meta_description: "Our full yitamotor 48\ pallet fork blades, 4000lbs capacity forklift  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yitamotor-48-pallet-fork-blades-4000lbs-capacity-forklift-blades-for-tractors-loaders-b0b4jg-review"
 image_alt: "YITAMOTOR 48 Pallet Fork Blades, 4000lbs Capacity Forklift Blades for Tractors Loaders Skid Steer Attachment, 2 Packs"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B4JGBRHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LtooJXVhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## YITAMOTOR 48" Pallet Fork Blades Review: Cheap Forklift Attachments That Actually Work?

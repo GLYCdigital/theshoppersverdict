@@ -1,4 +1,5 @@
 ---
+
 title: "Bumble Bee Lunch On The Run Chicken Salad with Crackers Kit"
 seo_title: "Bumble Bee Chicken Salad Kit Review: Worth It? (2026)"
 meta_description: "Bumble Bee Lunch On The Run Chicken Salad with Crackers Kit review: taste, portion size, value, and real buyer feedback. Is this shelf-stable lunch worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GDRRP8HY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+qUaDeR2L._SL1500_.jpg"
-pros:
+pros: 
   - "Shelf-stable packaging means no fridge required until opened — ideal for desk drawers and emergency kits"
   - "Includes a spoon and crackers, so it's a complete grab-and-go meal with zero prep"
   - "Chicken salad has actual chicken chunks, not the mushy paste found in cheaper kits"
-cons:
+cons: 
   - "Portion is modest — around 3.5 oz of chicken salad — likely not enough for a hearty lunch"
   - "Sodium content runs high (roughly 600mg per kit), which is a consideration for anyone watching salt intake"
   - "Crackers arrive crushed in some shipments — packaging could use more cushioning"
+
 ---
 
 Let's be honest: the phrase "shelf-stable chicken salad" doesn't exactly make your mouth water. But Bumble Bee's Lunch On The Run kit has carved out a loyal following among busy shoppers who need a protein-packed lunch that survives a hot car, a desk drawer, or a hiking backpack. With 215 ratings averaging 4.3 stars, it's clearly doing something right. Here's my full breakdown.

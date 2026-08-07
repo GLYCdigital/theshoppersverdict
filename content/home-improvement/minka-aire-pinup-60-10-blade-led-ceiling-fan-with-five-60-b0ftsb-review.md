@@ -1,7 +1,8 @@
 ---
-title: "MINKA-AIRE Pinup 60\" 10-Blade LED Ceiling Fan with Five 60\" "
-seo_title: "MINKA-AIRE Pinup 60\" 10-Blade LED Ceiling Fan with Review"
-meta_description: "Our full minka-aire pinup 60\" 10-blade led ceiling fan with five 60\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MINKA-AIRE Pinup 60\ 10-Blade LED Ceiling Fan with Five 60\ "
+seo_title: "MINKA-AIRE Pinup 60\ 10-Blade LED Ceiling Fan with Review"
+meta_description: "Our full minka-aire pinup 60\ 10-blade led ceiling fan with five 60\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "minka-aire-pinup-60-10-blade-led-ceiling-fan-with-five-60-b0ftsb-review"
 image_alt: "MINKA-AIRE Pinup 60 10-Blade LED Ceiling Fan with Five 60 blades and Five 41 Counter Rotating Blades"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FTSB82J3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l2IhPSvYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The 10-Blade Fan That Actually Earns Its Spec Sheet

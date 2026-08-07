@@ -1,4 +1,5 @@
 ---
+
 title: "PANDAFLY Calligraphy Pen, 10 Size Calligraphy Pens for Writi"
 seo_title: "PANDAFLY Calligraphy Pen, 10 Size Calligraphy Pens Review"
 meta_description: "Our full pandafly calligraphy pen, 10 size calligraphy pens for writi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BV6VTWVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s158w9g7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PANDAFLY Calligraphy Pen Set: One Box, Ten Nib Sizes — But Is It Enough?**

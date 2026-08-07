@@ -1,4 +1,5 @@
 ---
+
 title: "Hanging File Folders, Standard Green, Letter Size, 25 Pack"
 seo_title: "Hanging File Folders, Standard Green, Letter Size, Review"
 meta_description: "Our full hanging file folders, standard green, letter size, 25 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07HDXCL5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618lAjcAdNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: hanging file folders are the least glamorous purchase you'll make all year. But if you've ever had a folder rip off its hooks mid-drawer, scattering documents like confetti, you know the pain of buying cheap. This 25-pack from a no-name brand (at least on the label) has quietly racked up a 4.6-star rating from 229 buyers. I've tested them against the big names — here's the real breakdown.

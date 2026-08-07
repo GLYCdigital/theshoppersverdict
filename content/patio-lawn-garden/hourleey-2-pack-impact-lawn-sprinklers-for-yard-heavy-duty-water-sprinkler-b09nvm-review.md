@@ -1,4 +1,5 @@
 ---
+
 title: "Hourleey 2 Pack Impact Lawn Sprinklers for Yard, Heavy Duty "
 seo_title: "Hourleey 2 Pack Impact Lawn Sprinklers for Yard, H Review"
 meta_description: "Our full hourleey 2 pack impact lawn sprinklers for yard, heavy duty  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B09NVMKRXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PszAlWdaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Hourleey 2 Pack Impact Lawn Sprinklers for Yard, Heavy Duty ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

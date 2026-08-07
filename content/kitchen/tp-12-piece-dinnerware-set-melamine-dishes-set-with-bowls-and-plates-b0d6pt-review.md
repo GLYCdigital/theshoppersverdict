@@ -1,4 +1,5 @@
 ---
+
 title: "TP 12-Piece Dinnerware Set, Melamine Dishes Set with Bowls a"
 seo_title: "TP 12-Piece Dinnerware Set, Melamine Dishes Set wi Review"
 meta_description: "Our full tp 12-piece dinnerware set, melamine dishes set with bowls a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6PT617V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V1-gnMTAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Dinnerware Set That Actually Survives Real Life?

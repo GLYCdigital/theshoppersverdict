@@ -1,4 +1,5 @@
 ---
+
 title: "MENEEA Cooling Fan & Charging Stand for Xbox Series X Consol"
 seo_title: "MENEEA Cooling Fan & Charging Stand for Xbox Serie Review"
 meta_description: "Our full meneea cooling fan & charging stand for xbox series x consol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKSGXBYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r0zMz9dGL._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Xbox Series X is a thermal beast. Under heavy load, that monolithic tower runs hot enough to double as a space heater. Most cooling stands on Amazon are cheap plastic afterthoughts that do nothing but elevate the console. The MENEEA Cooling Fan & Charging Stand actually tries to solve two problems at once — overheating and the never-ending controller battery shuffle. Here's the honest breakdown after digging through 225 ratings and the spec sheet.

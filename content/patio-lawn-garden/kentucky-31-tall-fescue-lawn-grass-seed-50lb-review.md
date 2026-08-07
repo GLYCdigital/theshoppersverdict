@@ -1,16 +1,17 @@
 ---
+
 title: "Kentucky 31 Tall Fescue Lawn Grass Seed — 50 Pounds"
 seo_title: "Kentucky 31 Tall Fescue Review — 4.3★ Hard-Wearing Grass at $53"
 meta_description: "Kentucky 31 Tall Fescue grass seed review: 179 reviews analyzed. Tough, drought-resistant turf for high-traffic lawns. Does the 50lb bag deliver results?"
 slug: "kentucky-31-tall-fescue-lawn-grass-seed-50lb-review"
 image_alt: "Kentucky 31 Tall Fescue Lawn Grass Seed 50 Pound Bag"
-keywords:
+keywords: 
   - "Kentucky 31 tall fescue review"
   - "best grass seed for high traffic lawns"
   - "tall fescue grass seed review"
   - "Kentucky 31 lawn seed"
 verdict_score: 4.1
-faq:
+faq: 
   - question: "How fast does Kentucky 31 tall fescue germinate?"
     answer: "Under ideal conditions (consistent moisture, proper soil temperature), germination typically begins within 5-10 days. Zone 9 reviewers reported sprouting after just 5 days in December/January."
   - question: "What is Kentucky 31 tall fescue best used for?"
@@ -23,14 +24,15 @@ review_count: 179
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B001PCUTB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21wOO0gxe4L._AC_.jpg"
-pros:
+pros: 
   - "Excellent drought tolerance — thrives where other grasses struggle"
   - "Fast germination reported by most users — some seeing sprouts in under a week"
   - "50lb bag provides excellent value for large lawns and pasture projects"
-cons:
+cons: 
   - "Not all bags produce consistent results — some users report zero germination"
   - "Coarser texture than premium turf-type fescues — not a 'putting green' grass"
   - "Germination success is heavily dependent on proper soil preparation and watering"
+
 ---
 
 Kentucky 31 Tall Fescue is the workhorse of the grass seed world. It's not the prettiest grass on the block, but it's the one that survives when other varieties give up. With 179 Amazon reviews averaging 4.3 stars, it's earned a reputation as the tough stuff. Here's what the lawn experts and weekend warriors are saying.

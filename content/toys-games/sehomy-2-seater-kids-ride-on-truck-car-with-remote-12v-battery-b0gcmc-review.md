@@ -1,4 +1,5 @@
 ---
+
 title: "SEHOMY 2-Seater Kids Ride On Truck Car with Remote, 12V Batt"
 seo_title: "SEHOMY 2-Seater Kids Ride On Truck Car with Remote Review"
 meta_description: "Our full sehomy 2-seater kids ride on truck car with remote, 12v batt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GCMC5BWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r+hiPAjvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got two kids under six and you're tired of the "my turn" battlefield that comes with every single-seat ride-on, the SEHOMY 2-Seater is worth a hard look. This isn't just a bigger chassis with a second seat bolted on — it's a properly engineered twin-rider truck with the power to actually move both of them.

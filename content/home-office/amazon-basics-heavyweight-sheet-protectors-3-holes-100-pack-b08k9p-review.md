@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Heavyweight Sheet Protectors, 3 holes, 100 Pac"
 seo_title: "Amazon Basics Sheet Protectors Review: 100-Pack Value"
 meta_description: "Amazon Basics Heavyweight Sheet Protectors 3-hole 100-pack review: durability, clarity, and value. See why 240+ buyers rate it 4.8 stars."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08K9PB83M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AyQDgR4fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine heavyweight 3-mil plastic that resists curling and tearing far better than thin budget sleeves"
   - "True 3-hole punch alignment that fits standard and premium binders without fighting the rings"
   - "100-count bulk pack works out to roughly 15 cents per sleeve — cheaper than most office supply store brands"
-cons:
+cons: 
   - "No archival-grade acid-free certification, so long-term document preservation is not their purpose"
   - "Slight glare on the plastic surface can make scanning or photographing pages tricky under direct light"
+
 ---
 
 If you've ever bought cheap sheet protectors and watched them wrinkle, curl, or split at the seams within a month, you know the pain. The Amazon Basics Heavyweight Sheet Protectors, 3-hole, 100-pack, are the antidote to that frustration — and at 4.8 stars across 240 ratings, plenty of shoppers agree.

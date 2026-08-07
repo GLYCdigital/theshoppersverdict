@@ -1,4 +1,5 @@
 ---
+
 title: "fesnne Night Light, LED Night Lights Plug into Wall,2 Pack 0 inch"
 seo_title: "fesnne Night Light 2 Pack Review: Smart Auto-On LED"
 meta_description: "Honest fesnne LED night light 2-pack review. Auto-on sensor, warm glow, easy install. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHY984F9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yJubXq0eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto dusk-to-dawn sensor works reliably — no switches to fumble in the dark"
   - "Compact 2.4-inch housing sits flush against wall, leaving the second outlet fully usable"
   - "Warm 3000K glow (10 lumens) is bright enough for hallways but soft enough for nurseries"
-cons:
+cons: 
   - "Fixed light output — no dimming or brightness adjustment options"
   - "Sensor can be overly sensitive in rooms with strong ambient light from TVs or monitors"
   - "Plastic housing feels lightweight; not built for rough handling or outdoor use"
+
 ---
 
 ## A $10 Fix for Stubbed Toes and 3 AM Bathroom Trips

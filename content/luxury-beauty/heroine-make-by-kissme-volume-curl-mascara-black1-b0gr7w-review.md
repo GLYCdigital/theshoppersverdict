@@ -1,4 +1,5 @@
 ---
+
 title: "Heroine Make by KissMe Volume & Curl Mascara Black1"
 seo_title: "Heroine Make by KissMe Volume & Curl Mascara Black Review"
 meta_description: "Our full heroine make by kissme volume & curl mascara black1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GR7W6R5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714xUjD9XXL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a Japanese beauty influencer’s lashes survive a 14-hour workday, a humid commute, and maybe a few tears, this is the mascara they were wearing. The Heroine Make Volume & Curl Mascara has been a cult favorite in Asia for over a decade, and the Black1 shade is the one that started it all. But cult status doesn't automatically mean it’s right for *your* lashes. Let’s break down what you’re actually getting.

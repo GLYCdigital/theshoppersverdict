@@ -1,4 +1,5 @@
 ---
+
 title: "The Original Donut Shop Coffee Chocolate Glazed Donut Keurig"
 seo_title: "The Original Donut Shop Coffee Chocolate Glazed Do Review"
 meta_description: "Our full the original donut shop coffee chocolate glazed donut keurig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TRGN675/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uWFLY9mrL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Original Donut Shop Chocolate Glazed Donut K-Cup Review: Worth the Hype or Just Gimmick?**

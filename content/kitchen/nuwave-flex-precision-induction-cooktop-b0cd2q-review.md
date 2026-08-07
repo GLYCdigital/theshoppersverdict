@@ -1,4 +1,5 @@
 ---
+
 title: "Nuwave Flex Precision Induction Cooktop"
 seo_title: "Nuwave Flex Precision Induction Cooktop Review: Verdict |"
 meta_description: "Our full nuwave flex precision induction cooktop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CD2Q6DCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SE50Oz5jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nuwave Flex Precision Induction Cooktop Review: Is the Flexible Zone Worth the Premium?

@@ -1,4 +1,5 @@
 ---
+
 title: "Diyel Outdoor Barn Light"
 seo_title: "Diyel Outdoor Barn Light Review: Honest 4.6-Star Verdict"
 meta_description: "Diyel Outdoor Barn Light review: build quality, brightness, and real-world performance. See pros, cons, and who should buy this 4.6-star rated fixture."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHFF72H7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Rv30yeG+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant finish that holds up in rain, snow, and direct sun"
   - "Flexible mounting options — wall, eave, or pole mount — with included hardware for each configuration"
   - "Warm 3000K light output that feels like traditional barn lighting, not harsh blue-white LED"
-cons:
+cons: 
   - "Motion sensor version triggers on small animals — expect false alarms if mounted near bushes or walkways"
   - "Screws included are soft metal; replace with stainless steel if mounting into brick or stucco"
+
 ---
 
 Let me be direct: the Diyel Outdoor Barn Light is the rare Amazon fixture that actually looks like the photos. No bait-and-switch with flimsy plastic pretending to be metal. This is a die-cast aluminum housing with a powder-coated finish that has real heft — you'll notice it the moment you lift it out of the box.

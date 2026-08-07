@@ -1,4 +1,5 @@
 ---
+
 title: "Flendy Gravity Electric Salt and Pepper Grinder Set Recharge"
 seo_title: "Flendy Gravity Electric Salt & Pepper Grinder Set Review (2026)"
 meta_description: "Flendy gravity electric salt and pepper grinder set review: one-handed operation, USB-C rechargeable, adjustable coarseness. Is it worth $32? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D411621P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wBRtu6FiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely one-handed operation — gravity sensor activates grinding the moment you tilt the unit, no button hunting mid-cook"
   - "USB-C rechargeable with a 4-hour full charge lasting roughly 2-3 weeks of daily family meals"
   - "Dual ceramic rotors handle both coarse sea salt and black peppercorns without jamming or corroding"
-cons:
+cons: 
   - "LED light is more accent than utility — it illuminates the plate, not the food, so you'll still need overhead light for precise seasoning"
   - "Plastic body feels lighter than the $32 price suggests, though the internals are solid"
   - "No auto-off timer; if left tilted in the holder, the sensor can occasionally trigger a brief grind"
+
 ---
 
 ## Stop fumbling with twist grinders — this one works on instinct

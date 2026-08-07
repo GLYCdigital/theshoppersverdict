@@ -1,4 +1,5 @@
 ---
+
 title: "POP MART Nyota Growing up by Your Way Series Figures, Blind "
 seo_title: "POP MART Nyota Growing up by Your Way Series Figur Review"
 meta_description: "Our full pop mart nyota growing up by your way series figures, blind  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DLWKY6JH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're a POP MART collector, you already know the drill — premium blind boxes, addictive reveals, and that 1-in-144 chase figure dopamine hit. The Nyota Growing Up series delivers exactly what you expect from POP MART's quality bar, with one notable twist: it's cuter and more emotionally resonant than most of their recent releases. At 4.8 stars from 240+ ratings, this is one of the better-reviewed series in their current lineup. But blind box gambling isn't for everyone, and the smaller scale might surprise you.

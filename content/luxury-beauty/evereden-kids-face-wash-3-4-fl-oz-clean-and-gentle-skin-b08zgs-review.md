@@ -1,4 +1,5 @@
 ---
+
 title: "Evereden Kids Face Wash - 3.4 fl oz, Clean and Gentle Skin C"
 seo_title: "Evereden Kids Face Wash Review: Gentle Clean for Sensitive Skin"
 meta_description: "Evereden Kids Face Wash review: Is this 3.4 oz gentle cleanser worth $20+? We break down ingredients, results, and who it's best for."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08ZGSY3S5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615Pn5-RQAL._SL1500_.jpg"
-pros:
+pros: 
   - "Plant-based, tear-free formula with no harsh sulfates, parabens, or synthetic fragrances"
   - "One pump delivers enough product — the 3.4 fl oz bottle lasts 2-3 months with daily use"
   - "Gentle enough for eczema-prone skin while still removing sunscreen and daily grime"
-cons:
+cons: 
   - "Premium price point — you're paying 2-3x more than drugstore kids' cleansers"
   - "Light foam texture takes getting used to if your child prefers a bubbly lather"
   - "Pump can dispense too much product if pressed quickly, wasting the pricey formula"
+
 ---
 
 Let's be honest about kids' face wash: most of it is either harsh enough to strip a car's wax or so fragranced it belongs in a candle aisle. Evereden's Kids Face Wash sits in a different lane entirely — it's a clean, plant-based cleanser that takes children's skincare as seriously as adult luxury brands. At 4.6 stars across 229 ratings, it's clearly working for most families. But is it worth the premium? Here's the breakdown.

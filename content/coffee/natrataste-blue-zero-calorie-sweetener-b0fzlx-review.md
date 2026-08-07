@@ -1,4 +1,5 @@
 ---
+
 title: "NatraTaste Blue Zero Calorie Sweetener"
 seo_title: "NatraTaste Blue Zero Calorie Sweetener Review: Verdict | "
 meta_description: "Our full natrataste blue zero calorie sweetener review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FZLXWTM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J-1uWo6GL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about aspartame sweeteners: most of them taste like a chemistry experiment gone wrong. NatraTaste Blue isn't most of them. After two weeks of using this in everything from black drip coffee to iced lattes, I can tell you exactly where this 4.7-star sweetener earns its rating — and where it doesn't.

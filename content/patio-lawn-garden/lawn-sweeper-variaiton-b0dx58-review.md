@@ -1,4 +1,5 @@
 ---
+
 title: "Lawn Sweeper Variaiton"
 seo_title: "Lawn Sweeper Variaiton Review: Verdict | TSV"
 meta_description: "Our full lawn sweeper variaiton review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DX58TDSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q0ZovzefL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some lawn tools you buy once and forget. Others you curse every single weekend. The Lawn Sweeper Variaiton sits somewhere in between — and after digging through nearly 200 owner experiences, I can tell you exactly where it earns its keep and where it'll test your patience.

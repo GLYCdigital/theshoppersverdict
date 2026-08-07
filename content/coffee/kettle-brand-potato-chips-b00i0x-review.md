@@ -1,4 +1,5 @@
 ---
+
 title: "Kettle Brand Potato Chips"
 seo_title: "Kettle Brand Potato Chips Review: Verdict | TSV"
 meta_description: "Our full kettle brand potato chips review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00I0XLUE4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E+bigHCWL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Kettle Brand Potato Chips** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

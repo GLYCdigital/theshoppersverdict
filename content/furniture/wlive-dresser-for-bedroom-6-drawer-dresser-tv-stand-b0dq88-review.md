@@ -1,4 +1,5 @@
 ---
+
 title: "WLIVE Dresser for Bedroom, 6 Drawer Dresser TV Stand"
 seo_title: "WLIVE Dresser for Bedroom, 6 Drawer Dresser TV Sta Review"
 meta_description: "Our full wlive dresser for bedroom, 6 drawer dresser tv stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQ889V1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81csHr1BIoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Six drawers of actual storage plus a TV stand in one unit — that's the pitch. But does the WLIVE 6 Drawer Dresser deliver, or is it another wobbly particle board nightmare dressed up in product photos? I've dug through the 225 ratings and the 4.5-star average to give you the real story before you spend your money.

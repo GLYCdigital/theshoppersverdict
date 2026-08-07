@@ -1,4 +1,5 @@
 ---
+
 title: "Nitecore EDC31 3500 Lumen EDC Flashlight, USB-C Rechargeable"
 seo_title: "Nitecore EDC31 3500 Lumen EDC Flashlight, USB-C Re Review"
 meta_description: "Our full nitecore edc31 3500 lumen edc flashlight, usb-c rechargeable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSCGY287/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GYY4VFAHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nitecore EDC31 is the kind of flashlight that makes you question why anyone still carries a phone-light. At 4.7 inches long and 3.4 ounces, it squeezes 3500 lumens into a package that disappears in a jeans pocket. But raw numbers only tell half the story — the real question is whether it sustains that output and survives daily abuse. I've carried it for two weeks of evening dog walks, garage work, and one genuinely dark basement crawl. Here's the honest breakdown.

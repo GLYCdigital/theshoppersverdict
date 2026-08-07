@@ -1,4 +1,5 @@
 ---
+
 title: "Fluval M50 Submersible Heater"
 seo_title: "Fluval M50 Submersible Heater Review: Reliable 50W"
 meta_description: "Read our Fluval M50 submersible heater review. Covers 50W performance, accuracy, durability, and fit for 10-20 gallon tanks. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08VTGPKGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JRKsqOfHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Accurate temperature control within ±1°F once dial is calibrated to your thermometer"
   - "Compact 7.9-inch body fits small tanks and sumps without cluttering the aquascape"
   - "Automatic shutoff when water level drops below minimum line — a real safety feature, not a gimmick"
-cons:
+cons: 
   - "Temperature dial requires trial-and-error calibration; markings don't always match actual water temp"
   - "Suction cup brackets are flimsy and lose grip within weeks on glass thicker than 5mm"
+
 ---
 
 The Fluval M50 is the kind of heater that makes you wonder why budget brands exist. It's a 50-watt submersible unit designed for tanks in the 10–20 gallon range, and it does one thing exceptionally well: hold a stable temperature. As shown in the product image, it's a sleek, low-profile cylinder with a clear temperature dial on top and dual suction cups for mounting. No digital display, no smartphone app — just a mechanical workhorse that gets the job done.

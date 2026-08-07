@@ -1,24 +1,26 @@
 ---
+
 title: "ASUS ZenWiFi BD5 Dual-Band WiFi 7 Mesh, 5000 Mbps, Dual 2.5G"
 seo_title: "ASUS ZenWiFi BD5 Review: WiFi 7 Mesh at 5000 Mbps"
 meta_description: "ASUS ZenWiFi BD5 WiFi 7 mesh review: dual 2.5G ports, 5000 Mbps speed, but 3.6-star rating reveals flaws. Is it worth it? Read our honest take."
 slug: "asus-zenwifi-bd5-dual-band-wifi-7-mesh-5000-mbps-dual-2-b0dzrn-review"
 image_alt: "ASUS ZenWiFi BD5 dual-band WiFi 7 mesh router with two 2.5G ports"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 180  
-amazon_rating: 3.6  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 180
+amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DZRNMMVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "Dual 2.5G Ethernet ports on each node — rare at this price, future-proofs wired backhaul or NAS connections"  
   - "WiFi 7 (802.11be) with 5000 Mbps aggregate speed, handles 8+ devices without bandwidth drop"  
   - "Compact, wall-mountable design that blends into an office — not a gamer-tower eyesore"  
-cons:  
+cons: 
   - "Setup app is finicky on iOS — multiple users report failed node pairing on first try"  
   - "No USB port for shared storage or printer — a miss for home office users"  
   - "Parental controls and QoS are buried in the app, not intuitive for non-techies"
+
 ---
 
 # ASUS ZenWiFi BD5 Review: WiFi 7 Mesh That’s Almost There

@@ -1,4 +1,5 @@
 ---
+
 title: "DOWAN Pour Over Coffee Maker, Non-Electric Pour Over Coffee Dripper, Manual Brew Maker, Single Cups Porcelain Slow Brewing Accessories for Gifts,White"
 seo_title: "DOWAN Pour Over Coffee Maker Review: Worth It? (2026)"
 meta_description: "DOWAN porcelain pour over coffee dripper review: brew quality, durability, ease of use, and who should buy it. Honest verdict at $13.24."
@@ -11,14 +12,15 @@ review_count: 1939
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07RT4S7K9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XkovbCLHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, durable porcelain with a smooth glazed finish that holds heat well — noticeably heavier than cheap ceramic drippers"
   - "Integrated porcelain filter basket means zero paper filters needed; the fine holes produce a clean, sediment-free cup"
   - "Fits standard mugs and carafes up to roughly 4 inches wide, making it versatile across most kitchen setups"
-cons:
+cons: 
   - "Brewing is slow by design — a full 12oz cup takes 4-6 minutes, which won't suit people in a hurry"
   - "No markings or measurements on the dripper itself, so you'll need a separate scale or scoop for consistent dosing"
   - "Porcelain can chip if dropped on hard surfaces; it's not travel-friendly without careful packing"
+
 ---
 
 **The $13 Pour Over That Made Me Ditch My Plastic Dripper**

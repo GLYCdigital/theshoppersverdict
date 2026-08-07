@@ -1,4 +1,5 @@
 ---
+
 title: "Art Leon Dining Chair, Mid Century Modern Boucle Fabric Upho"
 seo_title: "Art Leon Dining Chair Review: Mid-Century Boucle Comfort (2026)"
 meta_description: "Read our honest Art Leon dining chair review. Tested for comfort, build quality, and swivel performance. See pros, cons, and who should buy this 4.8-star boucle chair."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CS2V3BDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810y9et-GML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine swivel function on a smooth 360-degree base — rare at this price point for a dining chair"
   - "Dense foam cushioning over a solid wood frame that holds up to daily use without sagging"
   - "Boucle fabric is thicker and more tightly woven than typical budget options, resisting pilling so far"
-cons:
+cons: 
   - "Boucle is notoriously hard to clean — spills need immediate attention or they'll set into the texture"
   - "No armrests, which some users with back issues may find less supportive for long meals"
   - "Assembly requires a hex wrench (included) and about 20 minutes; the swivel mechanism arrives pre-attached but the base bolts need tightening"
+
 ---
 
 The Art Leon Mid-Century Modern Dining Chair with boucle upholstery is having a moment. With a 4.8-star average across 240 ratings, it's clearly resonating with shoppers who want that organic, textured look without paying designer prices. But is it actually comfortable for a 45-minute dinner, or just pretty to look at? I've spent time with this chair, and here's the honest breakdown.

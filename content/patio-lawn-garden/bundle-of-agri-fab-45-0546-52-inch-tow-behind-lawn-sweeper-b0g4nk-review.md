@@ -1,4 +1,5 @@
 ---
+
 title: "Bundle of Agri-Fab 45-0546, 52-Inch Tow-Behind Lawn Sweeper,"
 seo_title: "Agri-Fab 45-0546 52-Inch Tow-Behind Lawn Sweeper Review"
 meta_description: "Honest Agri-Fab 45-0546 52-inch tow-behind lawn sweeper review: build quality, real-world pickup performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G4NKNB1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7176HtE-LfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "52-inch brush width cuts down pass count dramatically on mid-size lawns"
   - "Full 200-pound hopper capacity means fewer trips to the compost pile"
   - "Brush height adjusts in seconds with a single lever — no tools required"
-cons:
+cons: 
   - "Won't pick up wet, matted leaves — drives over them and leaves a smear"
   - "Frame flexes noticeably on uneven ground; the hitch pin rattles at speed"
   - "Assembly takes a solid 90 minutes with two people, not the 30 listed in the manual"
+
 ---
 
 If your fall routine involves raking leaves into piles, wrestling them into bags, and repeating until your back files a formal complaint — stop. The Agri-Fab 45-0546 is a 52-inch tow-behind sweeper that straps onto your lawn tractor and turns that whole miserable process into a few lazy loops around the yard.

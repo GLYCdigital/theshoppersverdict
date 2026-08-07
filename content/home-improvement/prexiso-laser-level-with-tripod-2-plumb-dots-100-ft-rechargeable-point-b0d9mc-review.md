@@ -1,4 +1,5 @@
 ---
+
 title: "PREXISO Laser Level with Tripod & 2 Plumb Dots - 100 Ft Rech"
 seo_title: "PREXISO Laser Level with Tripod & 2 Plumb Dots - 1 Review"
 meta_description: "Our full prexiso laser level with tripod & 2 plumb dots - 100 ft rech review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9MCFQ61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718FbHZSm7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this PREXISO laser level actually is: a solid mid-range self-leveling tool that gives you a visible green beam, two plumb dots for transfer work, and a rechargeable battery — all for a price that undercuts the big-name brands. The 4.3-star average across 215 ratings tells you most buyers are satisfied, but let's dig into whether it's the right tool for *your* specific jobs.

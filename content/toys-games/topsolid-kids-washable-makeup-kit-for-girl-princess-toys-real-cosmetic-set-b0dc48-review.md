@@ -1,4 +1,5 @@
 ---
+
 title: "Topsolid Kids Washable Makeup Kit for Girl, Princess Toys Re"
 seo_title: "Topsolid Kids Washable Makeup Kit for Girl, Prince Review"
 meta_description: "Our full topsolid kids washable makeup kit for girl, princess toys re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DC48MFRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l8tHSitHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front:** If your daughter has been begging for "real makeup" and you've been stalling because you dread the stains, the Topsolid Kids Washable Makeup Kit is the compromise you've been looking for. At 4.6 stars across 229 ratings, it's not perfect — but it's genuinely better than most kids' makeup sets I've tested.

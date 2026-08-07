@@ -1,5 +1,6 @@
 ---
 
+
 title: "iGRATENS Animal Figures with Sounds Book"
 seo_title: "iGRATENS Animal Figures with Sounds Book Review (2026)"
 meta_description: "Honest iGRATENS Animal Figures with Sounds Book review: 30+ animals, real sounds, interactive quiz mode. See pros, cons, and if it's worth buying."
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F8VFDFTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EAXoS8soL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "30+ realistic animal sounds triggered by placing figures on the book's sensor pad"
   - "Sturdy, chunky figures that survive toddler drops and chewing attempts"
   - "Quiz mode actively engages kids instead of just passive noise-making"
-cons:
+cons: 
   - "Sounds can't be adjusted for volume — no mute option when you need quiet"
   - "Figures are small enough to be a choking hazard for kids under 3 inch"
   - "Batteries not included despite the book arriving ready-to-use out of the box"
+
 
 ---
 

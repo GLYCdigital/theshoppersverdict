@@ -1,4 +1,5 @@
 ---
+
 title: "336 Packs Colored Pencils Bulk Classroom, Colored Pencils fo"
 seo_title: "336 Packs Colored Pencils Bulk Classroom Review: Worth It?"
 meta_description: "Honest review of 336-pack bulk colored pencils for classrooms. 12 assorted colors, durability, and value — see if it beats cheaper alternatives."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5MK8J2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o2TxPAFFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "28 individual boxes of 12 pencils each — genuinely classroom-sized, not a marketing gimmick"
   - "Pre-sharpened tips survive shipping; cores are thick enough to resist snapping under normal kid pressure"
   - "Vibrant color payoff on standard copy paper, with decent layering for a budget pencil"
-cons:
+cons: 
   - "Color distribution is uneven — expect 20+ of some hues and far fewer of others"
   - "Erasers are nearly useless; they smear rather than lift pigment cleanly"
   - "Barrels are thin and can crack if kids press hard or sharpen aggressively"
+
 ---
 
 ## The Math That Actually Matters

@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Bed Frame Upholstered Platform Bed with 3 Storage "
 seo_title: "Yaheetech Bed Frame Upholstered Platform Bed with  Review"
 meta_description: "Our full yaheetech bed frame upholstered platform bed with 3 storage  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D6GXXY67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c6ktYUWeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a bed frame that pulls double duty as a storage solution, the Yaheetech Upholstered Platform Bed with 3 Storage Drawers deserves a serious look. At a 4.1-star average across 204 ratings, it's not perfect — but for the price point, it punches well above its weight. Here's the unvarnished truth.

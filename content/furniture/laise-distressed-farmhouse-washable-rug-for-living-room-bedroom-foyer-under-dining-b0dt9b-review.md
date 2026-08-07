@@ -1,4 +1,5 @@
 ---
+
 title: "LAISE Distressed Farmhouse Washable Rug for Living Room, Bed"
 seo_title: "LAISE Distressed Farmhouse Washable Rug for Living Review"
 meta_description: "Our full laise distressed farmhouse washable rug for living room, bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT9BYQZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tKTCCwCvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped washable rugs lately, you know the category splits into two camps: flimsy mats that slide around and $300 "machine-washable" rugs that technically fit your washer but scare you every time you load them. The LAISE Distressed Farmhouse sits somewhere smarter — it's a low-pile, printed rug that actually launders well without feeling like a bathmat. At 4.4 stars from 220 ratings, it's not flawless, but for the price, it punches above its weight in the most practical ways.

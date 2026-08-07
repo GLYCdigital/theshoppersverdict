@@ -1,4 +1,5 @@
 ---
+
 title: "FadimiKoo Farmhouse Vanity Light Fixtures with Cage Metal Sh"
 seo_title: "FadimiKoo Farmhouse Vanity Light Review: Cage Shade Style"
 meta_description: "FadimiKoo farmhouse vanity light fixtures with cage metal shades: 4.7-star rated. Read our honest review on build, installation, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCZDK2VP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m80O5DCTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable individual light heads let you angle each cage shade exactly where you need task lighting"
   - "Durable matte black finish that resists fingerprints and bathroom humidity without flaking"
   - "Clear seeded glass cages provide warm, diffused light without harsh glare"
-cons:
+cons: 
   - "Requires hardwiring — no plug-in option if you don't have existing junction boxes"
   - "Bulbs not included, and you need to choose your own A19 bulbs (max 60W)"
   - "Some buyers reported the mounting screws could be longer for thicker drywall"
+
 ---
 
 Let's be straight about this FadimiKoo farmhouse vanity light: it's not trying to be a statement piece. It's trying to be the *right* light for your bathroom or hallway — and based on 235 ratings averaging 4.7 stars, it's succeeding. Here's what you actually need to know before you order.

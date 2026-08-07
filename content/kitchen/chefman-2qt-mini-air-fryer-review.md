@@ -1,4 +1,5 @@
 ---
+
 title: "CHEFMAN 2 Qt Mini Air Fryer"
 seo_title: "CHEFMAN 2 Qt Mini Air Fryer Review: Worth It? (2026)"
 meta_description: "Honest CHEFMAN 2 Qt Mini Air Fryer review: performance, capacity, real buyer feedback. Is this compact air fryer right for your kitchen? Find out."
@@ -11,14 +12,15 @@ review_count: 29177
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DC11YH4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vpqwqi+lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely small footprint — about 9.5 inches deep, fits under most upper cabinets and tucks into tight corners"
   - "Simple manual dials (time and temperature) with no digital menu maze — set it and walk away"
   - "Nonstick basket and tray pop out for quick hand-washing; no dishwasher-safe fuss"
-cons:
+cons: 
   - "2-quart capacity realistically serves one, maybe two if you're cooking a side dish — not a family appliance"
   - "No preset buttons or auto-shutoff chime; you have to remember to check your food"
   - "Manual dials aren't precise — temperature increments are approximate, not exact degrees"
+
 ---
 
 If you've been eyeing an air fryer but balked at the countertop-hogging behemoths that dominate the category, the CHEFMAN 2 Qt Mini Air Fryer makes a compelling case for going small. With 29,000+ ratings averaging 4.5 stars, this compact unit is clearly doing something right. But "mini" is the operative word here, and that cuts both ways.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aluminum Foil Lids for Reusable Nespresso Vertuo Pods, 100 P"
 seo_title: "Aluminum Foil Lids for Vertuo Pods Review (2026): Worth It?"
 meta_description: "Honest review of 100-pack aluminum foil lids for reusable Nespresso Vertuo pods. Do they seal well? Fit all pods? We tested them."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8FF5BJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71phwjETrOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut 63mm diameter fits Vertuo Next, Plus, and Evoluo reusable pods without trimming"
   - "Consistent seal at 9 bars of pressure — no leaking or spraying reported by most users"
   - "Foil thickness (30 microns) resists tearing even with dense, finely-ground coffee"
-cons:
+cons: 
   - "Not compatible with original Vertuo-line pods (the round ones), only the reusable aluminum inserts"
   - "You'll need to buy a separate pod-press tool if you don't already own one — not included"
+
 ---
 
 Let's be blunt: using a reusable Nespresso Vertuo pod without foil lids is like jumping into a pool with your socks on. It technically works, but it's messy, and you'll regret it. These aluminum foil lids solve the one problem that makes DIY refillable pods annoying — the seal.

@@ -1,4 +1,5 @@
 ---
+
 title: "Caraway Glass Airtight Food Storage Containers with Lids"
 seo_title: "Caraway Glass Food Storage Containers Review (2026): Worth It?"
 meta_description: "Honest Caraway Glass Airtight Food Storage Containers review: borosilicate build, airtight seals, and real downsides. Is the premium price justified? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GPF43LSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C2MEcdRlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty borosilicate glass survives thermal shock — go from fridge to microwave without shattering"
   - "True airtight seal with locking clips; liquids stay put in bags and backpacks"
   - "Non-toxic, BPA-free build with no plastic touching your food"
-cons:
+cons: 
   - "Lids are plastic, not glass — the seal is great but the lid design feels less premium than the base"
   - "Significantly heavier than plastic or even other glass sets; stacking in tight cabinets is awkward"
   - "No measurement marks or pour spouts — basic functionality at a premium price"
+
 ---
 
 Most glass storage sets promise "leakproof" and deliver "mostly leakproof until you tip the container sideways." The Caraway Glass Airtight set actually delivers on that promise — with a few tradeoffs you should know about before you spend.

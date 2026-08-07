@@ -1,4 +1,5 @@
 ---
+
 title: "APOXCON Coffee Percolator Pot, Stainless Steel"
 seo_title: "APOXCON Coffee Percolator Review: Sturdy Stovetop Brews"
 meta_description: "APOXCON stainless steel percolator review: durable 8-cup stovetop brewer with rich flavor. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GH7FJJ9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bgYnpI5iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 316 stainless steel construction (including the basket and stem) — no cheap plastic parts touching your coffee"
   - "8-cup capacity actually brews 6 usable cups without overflow risk; works on all stovetops including induction"
   - "Clear glass knob lets you watch the percolation cycle so you can pull it off the heat at peak strength"
-cons:
+cons: 
   - "No heat-resistant handle cover beyond the basic plastic — you'll need a potholder every time"
   - "Fine grounds can slip through the basket holes, leaving silt in your last cup; use a coarser grind"
   - "Not dishwasher safe despite the product photos suggesting otherwise — hand wash only"
+
 ---
 
 If you grew up watching a percolator bubble on a camp stove, you already know the appeal: full-bodied, bold coffee that a drip machine just can't replicate. The APOXCON Coffee Percolator Pot brings that experience into a modern stainless steel package, and at 4.1 stars across 204 ratings, it's earning its place on stovetops. But is it the right brewer for your morning routine? Here's the honest breakdown.

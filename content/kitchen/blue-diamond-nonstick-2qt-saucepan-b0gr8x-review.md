@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Diamond Nonstick 2QT Saucepan Review"
 seo_title: "Blue Diamond Nonstick 2QT Saucepan Review (2026): Is It Worth It?"
 meta_description: "Blue Diamond Nonstick 2QT Saucepan review: real performance, durability, and value. See why 4.7-star buyers love it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GR8XZBG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kTnfzWVvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond-infused ceramic nonstick releases eggs and cheese sauce with zero oil and wipes clean with a paper towel"
   - "Oven-safe to 600°F including the lid, which is rare at this price point for a saucepan"
   - "Stays cooler on the handle during stovetop use thanks to the stainless steel riveted construction"
-cons:
+cons: 
   - "Not induction-compatible — buyers with induction cooktops will need a different pan"
   - "The 2QT capacity is snug for batch cooking; cooks making larger quantities may want the 3QT version"
+
 ---
 
 Let's be direct: most nonstick saucepans under $50 are disposable junk. The Blue Diamond 2QT, however, has earned a 4.7-star average across 235 ratings for a reason. This isn't the same thin-gauge aluminum pan you've replaced twice a year. It's a legitimately well-built piece of cookware that handles the daily grind — as long as you match it to the right kitchen.

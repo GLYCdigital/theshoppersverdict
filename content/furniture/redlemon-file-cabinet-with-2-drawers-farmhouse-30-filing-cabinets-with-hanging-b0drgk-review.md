@@ -1,7 +1,8 @@
 ---
-title: "RedLemon File Cabinet with 2 Drawers, Farmhouse 30\" Filing C"
+
+title: "RedLemon File Cabinet with 2 Drawers, Farmhouse 30\ Filing C"
 seo_title: "RedLemon File Cabinet with 2 Drawers, Farmhouse 30 Review"
-meta_description: "Our full redlemon file cabinet with 2 drawers, farmhouse 30\" filing c review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full redlemon file cabinet with 2 drawers, farmhouse 30\ filing c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "redlemon-file-cabinet-with-2-drawers-farmhouse-30-filing-cabinets-with-hanging-b0drgk-review"
 image_alt: "RedLemon File Cabinet with 2 Drawers, Farmhouse 30 Filing Cabinets with Hanging File Folders for A4/Letter/Legal Size Do"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRGKR687/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iJ485EYuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RedLemon 2-Drawer File Cabinet: Farmhouse Function Meets Office Reality

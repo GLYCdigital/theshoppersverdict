@@ -1,7 +1,8 @@
 ---
-title: "Liberty Pumps P372LE51 Sewage Pump System, 1/2HP, 115V, 2\" d"
+
+title: "Liberty Pumps P372LE51 Sewage Pump System, 1/2HP, 115V, 2\ d"
 seo_title: "Liberty Pumps P372LE51 Sewage Pump System, 1/2HP,  Review"
-meta_description: "Our full liberty pumps p372le51 sewage pump system, 1/2hp, 115v, 2\" d review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full liberty pumps p372le51 sewage pump system, 1/2hp, 115v, 2\ d review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "liberty-pumps-p372le51-sewage-pump-system-1-2hp-115v-2-discharge-21-b0057i-review"
 image_alt: "Liberty Pumps P372LE51 Sewage Pump System, 1/2HP, 115V, 2 discharge, 21x30 basin"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0057IHTMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511E9k3BzWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's skip the pleasantries. If you're looking at the Liberty Pumps P372LE51, you either have a basement bathroom that gravity refuses to drain, or you're replacing a pump that already failed once. This is the kind of purchase where "good enough" costs you a flooded floor, so let's be honest about what this 4.3-star unit actually delivers.

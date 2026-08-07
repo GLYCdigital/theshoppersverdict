@@ -1,4 +1,5 @@
 ---
+
 title: "Impremey Folding Treadmill with Incline, Electric Treadmill "
 seo_title: "Impremey Folding Treadmill with Incline, Electric  Review"
 meta_description: "Our full impremey folding treadmill with incline, electric treadmill  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09Z8CNV5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619hoSEahmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Impremey Folding Treadmill with Incline isn't trying to be a gym-quality commercial machine. It's aiming for something smarter: a compact, quiet, incline-capable treadmill that disappears when you're done. And for the most part, it hits that target squarely.

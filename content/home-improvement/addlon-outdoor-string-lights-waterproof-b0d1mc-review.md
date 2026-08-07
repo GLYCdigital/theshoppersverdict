@@ -1,4 +1,5 @@
 ---
+
 title: "addlon Outdoor String Lights Waterproof"
 seo_title: "addlon Outdoor String Lights Review: Worth It? (2026)"
 meta_description: "Honest addlon Outdoor String Lights review: 4.2/5 rating. Are these waterproof patio lights worth buying? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1MCDVGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cuTsrq+KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True weatherproofing — IP65-rated sockets and fully sealed LED bulbs survive rain, snow, and coastal humidity without flickering"
   - "Warm, even glow at 2700K that doesn't cast harsh shadows — comparable to vintage Edison bulbs but at a fraction of the energy cost"
   - "Heavy-duty 16 AWG wire with reinforced plugs handles tension across 100+ foot runs without sagging between supports"
-cons:
+cons: 
   - "Bulbs are non-replaceable — when an LED burns out (typically 2-3 years), you must replace the entire strand, not just the socket"
   - "The 22-foot cords have a fixed bulb spacing of 12 inches, which may feel too tight for pergolas or too loose for railings depending on your layout"
   - "No dimmer or smart-home integration — you get one brightness, one color temperature, and that's it"
+
 ---
 
 If you've priced out standalone patio lighting, you already know the pain: $40 for a single strand of "weatherproof" bulbs that crack in the first freeze. The addlon Outdoor String Lights aren't revolutionary, but they solve the two problems that matter most — actually surviving the elements and putting out light that doesn't look like a surgical suite. After testing these across a full rainy season, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "SEOUFRDZ Stepless Dimming LED Desk Lamp with 3 Color Modes, "
 seo_title: "SEOUFRDZ Stepless Dimming LED Desk Lamp with 3 Col Review"
 meta_description: "Our full seoufrdz stepless dimming led desk lamp with 3 color modes,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1K5FYNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81loE4a3v8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Just Another Amazon LED Lamp? Not Quite.

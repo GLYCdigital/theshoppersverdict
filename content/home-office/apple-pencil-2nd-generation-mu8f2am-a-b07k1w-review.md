@@ -1,4 +1,5 @@
 ---
+
 title: "Apple Pencil (2ND Generation) (MU8F2AM/A)"
 seo_title: "Apple Pencil 2nd Gen Review: Is It Worth It in 2026?"
 meta_description: "Apple Pencil 2nd Gen review: latency, magnetic charging, double-tap features, and iPad compatibility. See if this $129 stylus earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07K1WWBJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21SPDoiRuGL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Near-zero 9ms latency and pixel-perfect tilt/pressure detection make it feel like writing on paper, not glass"
   - "Magnetic snap-on charging is genuinely seamless — it pairs and powers up just by attaching to the iPad's edge"
   - "Double-tap gesture on the barrel quickly switches between tools without breaking your drawing flow"
-cons:
+cons: 
   - Works only with iPad Pro 11 inch/12.9 inch (2018+), iPad Air 4th gen+, and iPad mini 6th gen — no iPhone or older iPad support
   - "No USB-C port on the pencil itself; if you lose the magnetic charging surface, you're locked out until you find an iPad"
   - "Round barrel rolls off desks constantly; third-party grips are almost mandatory for heavy use"
+
 ---
 
 The Apple Pencil 2nd Generation is the benchmark every other stylus is measured against—and for good reason. But before you drop your money, understand this: it's a precision instrument with a very specific list of iPads it will actually work with.

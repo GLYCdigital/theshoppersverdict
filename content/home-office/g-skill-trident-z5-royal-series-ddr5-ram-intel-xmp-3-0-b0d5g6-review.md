@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Trident Z5 Royal Series DDR5 RAM (Intel XMP 3.0) 64G"
 seo_title: "G.SKILL Trident Z5 Royal Series DDR5 RAM (Intel XM Review"
 meta_description: "Our full g.skill trident z5 royal series ddr5 ram (intel xmp 3.0) 64g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5G6JS7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fq1NtkAPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The G.SKILL Trident Z5 Royal Series is not subtle. It's the Lamborghini of RAM — the kit you buy when you want your PC to look like a Fabergé egg exploded inside a mirror factory. But beneath the crystalline facade is genuinely serious silicon. After running this 64GB (2x32GB) kit at DDR5-6400 CL32 for three weeks on an Intel Z790 platform, here's what actually matters beyond the bling.

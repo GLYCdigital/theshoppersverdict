@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original - Official Jazwares Plush"
 seo_title: "Squishmallows Original - Official Jazwares Plush Review: "
 meta_description: "Our full squishmallows original - official jazwares plush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DHDFMF8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818E6q2ZtNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: The Squishmallows Original from Jazwares is the plush toy that launched a thousand copycats — and for good reason. With a 4.9-star average across 245 Amazon ratings, this is one of the most consistently beloved soft toys on the market. But is it actually worth the hype, or are you just paying for the brand name? Here's what I found after digging through buyer experiences and testing the build quality myself.

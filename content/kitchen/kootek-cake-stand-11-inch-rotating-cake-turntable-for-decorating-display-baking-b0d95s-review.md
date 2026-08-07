@@ -1,4 +1,5 @@
 ---
+
 title: "Kootek Cake Stand, 11 Inch Rotating Cake Turntable for Decor"
 seo_title: "Kootek Cake Stand, 11 Inch Rotating Cake Turntable Review"
 meta_description: "Our full kootek cake stand, 11 inch rotating cake turntable for decor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D95SS7D6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FnWEiIw7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most cake turntables under $25 are flimsy plastic discs that wobble the moment you add frosting pressure. The Kootek 11-inch rotating turntable isn't that. With a 4.6-star average across 229 ratings, it's quietly become a favorite among home bakers who don't want to drop $60+ on a professional-grade spinner. Here's the real breakdown.

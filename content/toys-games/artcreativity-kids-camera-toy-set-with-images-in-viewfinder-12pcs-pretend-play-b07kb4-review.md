@@ -1,4 +1,5 @@
 ---
+
 title: "ArtCreativity Kids Camera Toy Set with Images in Viewfinder"
 seo_title: "ArtCreativity Kids Camera Toy Set Review: 12-Piece Pretend Play"
 meta_description: "Honest ArtCreativity Kids Camera Toy Set review: 12-piece pretend play set with real viewfinder images. See what 220 Amazon reviewers love and what falls short."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07KB4QZW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Np6AoexvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real viewfinder images kids actually see when they press the shutter"
   - "12-piece set covers multiple kids at once — great for playdates and siblings"
   - "Sturdy plastic body holds up to drops and toddler handling"
-cons:
+cons: 
   - "Viewfinder images are fixed — no ability to change or swap photo cards"
   - "Sound effects are basic and may annoy adults after extended play"
+
 ---
 
 Most kids' toy cameras are a cruel joke. You press the button, a flash goes off, and nothing actually happens. The ArtCreativity Kids Camera Toy Set is different — and that difference is exactly why it holds a 4.4-star rating across 220 Amazon reviews.

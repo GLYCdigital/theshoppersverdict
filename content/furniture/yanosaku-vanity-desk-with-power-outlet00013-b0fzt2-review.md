@@ -1,4 +1,5 @@
 ---
+
 title: "Yanosaku Vanity Desk with Power Outlet00013"
 seo_title: "Yanosaku Vanity Desk with Power Outlet00013 Review: Verdi"
 meta_description: "Our full yanosaku vanity desk with power outlet00013 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FZT2MDNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818bKbealJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: a vanity desk with a power outlet is a practical upgrade, but only if the desk itself holds up. The Yanosaku Vanity Desk with Power Outlet (model 00013) has earned a 4.2-star average from 210 Amazon ratings — solid, but not spectacular. Here’s what that rating actually means for you.

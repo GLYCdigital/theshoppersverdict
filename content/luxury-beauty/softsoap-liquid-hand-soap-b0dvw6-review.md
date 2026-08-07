@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Liquid Hand Soap"
 seo_title: "Softsoap Liquid Hand Soap Review: Verdict | TSV"
 meta_description: "Our full softsoap liquid hand soap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DVW6X18K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vEFag8EyL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about hand soap: it's a commodity you grab without thinking. But Softsoap's Liquid Hand Soap has quietly amassed 235 ratings at a 4.7 average — and that kind of consistency signals something worth examining. Here's the real breakdown.

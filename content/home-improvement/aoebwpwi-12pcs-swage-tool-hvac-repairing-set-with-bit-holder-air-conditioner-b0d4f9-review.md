@@ -1,4 +1,5 @@
 ---
+
 title: "Aoebwpwi 12PCS Swage Tool HVAC Repairing Set with Bit Holder"
 seo_title: "Aoebwpwi Swage Tool Set Review: 12-Piece HVAC Kit"
 meta_description: "Aoebwpwi 12PCS swage tool HVAC set review: Does this 12-piece kit deliver? Tested for copper flaring, sizing, and durability. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4F9JYKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L1NvczpcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hardened steel swaging cones hold their edge through multiple copper sizes without galling"
   - "Full 12-piece range covers 1/4-inch through 7/8-inch — rare at this price point"
   - "Integrated bit holder keeps the most-used adapters within arm's reach on the job"
-cons:
+cons: 
   - "No dedicated storage case — loose bits will rattle around your toolbox unless you add your own organizer"
   - "Knurled grip is functional but slick when your hands are coated in refrigerant oil"
+
 ---
 
 If you've ever tried to swage copper line set with a cheap cone and a hammer, you know the drill: crushed tubing, uneven flares, and a prayer that the joint holds pressure. The Aoebwpwi 12-piece set is aimed squarely at that problem. Priced like a weekend-warrior tool but built with enough rigidity for light daily use, this kit has earned a 4.5-star average across 225 ratings — and after digging into the specs and user feedback, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ignik FireCan Deluxe Portable Propane Fire Pit and Grill"
 seo_title: "Ignik FireCan Deluxe Portable Propane Fire Pit and Review"
 meta_description: "Our full ignik firecan deluxe portable propane fire pit and grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BSXRT8ZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71plB6Ky7xL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most portable propane fire pits are glorified candle warmers. The Ignik FireCan Deluxe is not that. This is a genuinely clever piece of gear that solves the two biggest complaints about portable fire pits — weak flames and limited use — by doing something simple: flipping over.

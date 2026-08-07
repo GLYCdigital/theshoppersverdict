@@ -1,4 +1,5 @@
 ---
+
 title: "Party Factory â€“ Helium Tank - for up to 30 assorted balloo"
 seo_title: "Party Factory â€“ Helium Tank - for up to 30 assor Review"
 meta_description: "Our full party factory â€“ helium tank - for up to 30 assorted balloo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0B31HZT5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLGLP06WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a party store checkout holding a receipt for $40 worth of helium-filled latex, the Party Factory helium tank looks like a lifeline. The math seems obvious: pay roughly the same amount, get the tank, inflate 30 balloons yourself, and keep the leftover gas for emergencies. The reality is more nuanced — and that's exactly why this thing sits at 3.5 stars across 175 ratings. Let me break down whether it's actually worth your money.

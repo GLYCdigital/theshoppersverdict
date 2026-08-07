@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX Drywall Cutting Tool"
 seo_title: "DEWALT 20V MAX Drywall Cutting Tool Review (2026): Is It Worth It?"
 meta_description: "Honest DEWALT 20V MAX drywall cutting tool review: speed, dust control, battery life, and real tradeoffs. See if it beats a manual keyhole saw."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8TFS8XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51v2lyIJaDL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cuts through 1/2-inch drywall in under two seconds with zero tear-out on the face paper"
   - "Variable-speed trigger gives real control for plunge cuts and switch/outlet boxes"
   - "Built-in dust collection shroud captures most debris when hooked to a vac"
-cons:
+cons: 
   - "Blade is proprietary and DEWALT-branded — replacements run $15–20 and aren't universal"
   - "No battery or charger included; you're paying $100+ for a bare tool"
   - "Depth stop maxes at 5/8-inch, so it's useless for double-layer or 3/4-inch cement board"
+
 ---
 
 Let's be blunt: a manual keyhole saw costs $8 and takes 45 seconds per outlet cut. The DEWALT 20V MAX Drywall Cutting Tool costs over $100 (bare) and does the same job in about four seconds flat. That's the entire value proposition in one sentence. If speed on a big drywall job matters — and it should if you're hanging more than a single room — this tool earns its place in the bag.

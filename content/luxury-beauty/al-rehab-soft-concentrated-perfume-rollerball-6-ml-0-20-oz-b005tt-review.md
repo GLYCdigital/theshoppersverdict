@@ -1,4 +1,5 @@
 ---
+
 title: "Al Rehab Soft Concentrated Perfume Rollerball 6 Ml/0.20 Oz"
 seo_title: "Al Rehab Soft Perfume Rollerball Review: Worth It?"
 meta_description: "Al Rehab Soft rollerball review: 6ml concentrated oil, long-lasting scent, under $10. Is it worth buying? Real pros, cons, and honest verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B005TT8RPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WLKEQ8q1L._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated oil formula lasts 6-8 hours on skin, outperforming most alcohol-based sprays at this price"
   - "Pocket-friendly 6ml rollerball delivers precise, mess-free application — ideal for touch-ups and travel"
   - "Soft, powdery floral musk scent that layers well under other fragrances without clashing"
-cons:
+cons: 
   - "Scent is subtle — not for anyone wanting strong projection or compliments from across the room"
   - "Rollerball can deposit too much oil if pressed firmly, risking over-application and fabric stains"
   - "No listed notes breakdown from the brand; you're guessing at the exact composition"
+
 ---
 
 **The $6 perfume oil that outperforms $80 sprays (with one catch)**

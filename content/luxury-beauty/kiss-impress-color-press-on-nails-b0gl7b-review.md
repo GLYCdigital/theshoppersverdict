@@ -1,4 +1,5 @@
 ---
+
 title: "KISS imPRESS Color Press-On Nails"
 seo_title: "KISS imPRESS Color Press-On Nails Review: Verdict | TSV"
 meta_description: "Our full kiss impress color press-on nails review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GL7B1K7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tR7sEMlYL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about press-on nails: most of them look like plastic Halloween props. The KISS imPRESS Color line, however, has built a loyal following for a reason — and with a 4.1-star average across 204 Amazon ratings, it's worth understanding why before you buy.

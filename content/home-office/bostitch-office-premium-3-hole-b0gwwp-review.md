@@ -1,4 +1,5 @@
 ---
+
 title: "Bostitch Office Premium 3 Hole"
 seo_title: "Bostitch Office Premium 3 Hole Punch Review (2026) | Honest"
 meta_description: "Bostitch Office Premium 3 Hole punch review: 4.7/5 rated. Tested for alignment, durability, and jam-free punching. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWWP91S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Crisp, clean holes on 12-sheet stacks with zero tearing or ragged edges"
   - "Adjustable paper guide locks in place for consistent 3-hole spacing every punch"
   - "Soft-grip handle and low-effort lever make batch punching easy on the wrist"
-cons:
+cons: 
   - "Chip tray fills fast — you'll empty it after roughly 30-40 full punches"
   - "Fixed 3-hole pattern means no 2-hole or 4-hole option for international paper"
+
 ---
 
 If you've ever wrestled with a flimsy $8 punch that chews paper edges and misaligns by the third sheet, you know the pain. The Bostitch Office Premium 3 Hole aims to end that struggle. With 235 Amazon ratings averaging 4.7 stars, this isn't an unknown quantity — but let's dig into whether it actually delivers or just rides on brand reputation.

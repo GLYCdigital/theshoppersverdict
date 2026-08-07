@@ -1,4 +1,5 @@
 ---
+
 title: "Bubble Bros. Deodorizing Dog Shampoo, Gallon - Naturally Der"
 seo_title: "Bubble Bros. Deodorizing Dog Shampoo Review: 4.6/5 inch"
 meta_description: "Bubble Bros. Deodorizing Dog Shampoo review: does this gallon-size, naturally derived formula actually eliminate pet odor? We break down pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B094YR34L8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jRcJYtIuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gallon size (128 oz) delivers serious per-wash value — most users report 6+ months of baths for a single dog"
   - "Naturally derived deodorizing formula with oatmeal and coconut-based cleansers that actually neutralizes, not just masks, odors"
   - "Low-sud, easy-rinse formula cuts bath time nearly in half compared to thick shampoos"
-cons:
+cons: 
   - "Fragrance is subjective — some buyers find the botanical scent too mild or herbal for their liking"
   - "Slick-feeling bottle with no pump included; you'll need to buy one separately for convenient dispensing"
+
 ---
 
 Let's be blunt about dog shampoo: most of it is overpriced detergent in a pretty bottle that leaves your dog smelling like a candle store exploded. The Bubble Bros. Deodorizing Dog Shampoo takes a different approach — and for the most part, it works. Here's the honest breakdown after digging through 225 ratings and real user experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cocoa Powder - Dutch Processed Cocoa Powder, Unsweetened, Ex"
 seo_title: "Dutch Processed Cocoa Powder Review: Unsweetened & Rich"
 meta_description: "Honest review of Dutch processed unsweetened cocoa powder: flavor depth, solubility, bitterness, and best uses for baking and hot cocoa."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJFYJ5W5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UKN6s5KGL._SL1500_.jpg"
-pros:
+pros: 
   - "Alkalized Dutch process delivers a smooth, mellow flavor with zero acidity — noticeably darker and less bitter than natural cocoa"
   - "Dissolves cleanly in hot liquids without clumping, making it reliable for both baking and stirred drinks"
   - "Unsweetened formula gives full control over sugar levels; one container goes far in weekly baking"
-cons:
+cons: 
   - "Dutch processing strips some of the antioxidant compounds found in natural cocoa — a tradeoff for the smoother taste"
   - "The package reseals adequately but isn't airtight; in humid climates, the powder can clump over time"
+
 ---
 
 **Bottom line up front:** If you've been making hot cocoa or brownies with natural cocoa powder and wondering why they taste sharp or slightly sour, this Dutch-processed option is the upgrade you didn't know you needed. At 4.7 stars across 235 ratings, it's earning its keep in kitchens that take chocolate seriously.

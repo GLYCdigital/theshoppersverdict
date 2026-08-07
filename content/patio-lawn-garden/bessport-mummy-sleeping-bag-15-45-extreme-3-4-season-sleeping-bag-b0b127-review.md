@@ -1,4 +1,5 @@
 ---
+
 title: "Bessport Mummy Sleeping Bag | 15-45 ℉ Extreme 3-4 Season S"
 seo_title: "Bessport Mummy Sleeping Bag Review: 15-45°F 3-4 Season (2026)"
 meta_description: "Honest Bessport Mummy Sleeping Bag review: 15-45°F rating, build quality, warmth, comfort. Real buyer feedback. Is it worth it for camping? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B127T4CM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tXjo6OBCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine warmth at 15-20°F with the hollow fiber fill — verified by multiple cold-weather campers"
   - "Packs down to roughly a 12x8-inch stuff sack, light enough at 3.3 lbs for backpacking"
   - "Two-way zipper with anti-snag webbing and an internal draft tube that actually works"
-cons:
+cons: 
   - Mummy cut is snug in the shoulders — side sleepers over 6'0 inch " will feel restricted
   - "Listed 15°F rating is 'extreme survival,' not comfort; expect 25-30°F for a decent night's sleep"
+
 ---
 
 ## The Bessport Mummy Sleeping Bag: Is It Actually Warm Enough?

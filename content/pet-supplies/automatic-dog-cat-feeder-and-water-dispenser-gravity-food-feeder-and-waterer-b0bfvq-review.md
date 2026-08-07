@@ -1,4 +1,5 @@
 ---
+
 title: "Automatic Dog Cat Feeder and Water Dispenser Gravity Food Fe"
 seo_title: "Automatic Dog Cat Feeder and Water Dispenser Review (2026)"
 meta_description: "Honest review of the Automatic Dog Cat Feeder and Water Dispenser: 4.4-star rated gravity feeder. Capacity, build quality, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFVQZ7QB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KoL2vB8hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 1.5-liter reservoirs provide roughly 3-4 days of food and water for an average adult cat"
   - "Stainless steel bowls are removable, dishwasher-safe, and won't harbor bacteria like plastic alternatives"
   - "Anti-skid rubber feet and weighted base keep the unit stable even with enthusiastic eaters"
-cons:
+cons: 
   - "No portion control — this is a free-feeding system that can lead to weight gain for food-motivated pets"
   - "Water reservoir is translucent but not transparent enough to gauge remaining levels at a glance"
   - "Assembly requires careful alignment of the lid gasket or you'll get slow drips on the floor"
+
 ---
 
 If you're tired of refilling bowls twice a day, this gravity-fed combo unit deserves a hard look. With 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right. Here's the honest breakdown after digging through the specs and owner feedback.

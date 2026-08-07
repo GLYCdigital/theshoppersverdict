@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena MoistureShine Lip Soother Gloss with SPF 20 Sun P"
 seo_title: "Neutrogena MoistureShine Lip Soother Gloss with SP Review"
 meta_description: "Our full neutrogena moistureshine lip soother gloss with spf 20 sun p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4QDZVNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Uy-o0kz0L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most lip products with SPF feel like punishment. Chalky, thick, or that weird bitter sunscreen taste — you know the drill. The Neutrogena MoistureShine Lip Soother Gloss with SPF 20 sidesteps most of those issues, which is why it holds a solid 4.5-star average across 225 ratings. But is it worth your money? Here's the real breakdown.

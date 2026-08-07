@@ -1,4 +1,5 @@
 ---
+
 title: "LETMOON King Size Mattress, 14 Inch Gel Memory Foam Hybrid M"
 seo_title: "LETMOON King Size Mattress, 14 Inch Gel Memory Foa Review"
 meta_description: "Our full letmoon king size mattress, 14 inch gel memory foam hybrid m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F485BYCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mlmU4Lu4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 14-inch Hybrid That Checks Most Boxes — But Has One Big Question Mark

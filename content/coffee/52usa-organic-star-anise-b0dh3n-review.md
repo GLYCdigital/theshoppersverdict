@@ -1,4 +1,5 @@
 ---
+
 title: "52USA Organic Star Anise"
 seo_title: "52USA Organic Star Anise Review: Bold, Aromatic Spice"
 meta_description: "52USA Organic Star Anise review: bold aroma, whole stars, clean flavor. See if this spice earns its 4.8-star rating for your kitchen."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DH3NY3XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q9I8attfL._SL1500_.jpg"
-pros:
+pros: 
   - "Whole star pods arrive intact with strong licorice aroma that holds up through a full brew cycle"
   - "Organic certification verified, no fillers or broken pieces in the bag"
   - "Versatile beyond coffee—works for pho, chai, baked goods, and mulled wine"
-cons:
+cons: 
   - "Flavor can overwhelm if you use more than one star per 12-ounce brew"
   - "Pods are slightly smaller than some competing brands, so you'll use more per batch"
+
 ---
 
 Walk into any specialty coffee shop and you'll see star anise on the counter next to the cinnamon and cardamom. It's not decoration—it's one of the most underrated additions to a morning brew, especially if you're into spiced lattes or Vietnamese-style coffee. The 52USA Organic Star Anise has carved out a reputation on Amazon with a 4.8-star average across 240 ratings, and after digging into what buyers actually say, the hype mostly holds up.

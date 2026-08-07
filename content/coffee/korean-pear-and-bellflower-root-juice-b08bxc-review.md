@@ -1,4 +1,5 @@
 ---
+
 title: "Korean Pear and Bellflower Root Juice [ ë°°ë"
 seo_title: "Korean Pear and Bellflower Root Juice [ ë°°ë Review: Verd"
 meta_description: "Our full korean pear and bellflower root juice [ ë°°ë review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08BXCSTD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718Yzg3FbaL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: **Korean Pear and Bellflower Root Juice** (배도라지즙) isn't a coffee product, but if you're a coffee drinker who's wrecked your throat with three shots of espresso daily, this is the traditional Korean remedy your vocal cords have been begging for. This isn't a trendy wellness drink — it's a centuries-old folk remedy packaged into modern single-serve pouches.

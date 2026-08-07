@@ -1,4 +1,5 @@
 ---
+
 title: "Propane Fire Table for Outside Steel Gas Fire Pit Outdoor Fi"
 seo_title: "Propane Fire Table for Outside Steel Gas Fire Pit  Review"
 meta_description: "Our full propane fire table for outside steel gas fire pit outdoor fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BNBDQ244/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817TKL8K2cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this propane fire table a real buy or a backyard gamble?

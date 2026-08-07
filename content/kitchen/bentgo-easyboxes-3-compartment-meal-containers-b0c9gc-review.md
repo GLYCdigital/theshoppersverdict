@@ -1,4 +1,5 @@
 ---
+
 title: "Bentgo Easyboxes 3-Compartment Meal Containers"
 seo_title: "Bentgo Easyboxes Review: 3-Compartment Containers Worth It?"
 meta_description: "Bentgo Easyboxes 3-compartment meal containers review: leak-resistant, microwave-safe, and dishwasher-safe. See if these meal prep containers earn their 4.6-star rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C9GCZTDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y9-MmqACL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True leak-resistant seal with four locking tabs that hold tight even with soups and saucy dishes"
   - "Each compartment is fully separated with no divider gaps, so juices don't migrate between foods"
   - "Microwave-safe lid and base — you can reheat without transferring to a plate"
-cons:
+cons: 
   - "The 3-compartment design means smaller portions; the main compartment fits roughly 1.5 cups, which may be too small for big eaters"
   - "Lids require a firm press to lock all four tabs — some users with arthritis or weaker grip find it fiddly"
   - "Not freezer-safe for long-term storage; the plastic becomes brittle below -4°F"
+
 ---
 
 Let's talk about meal prep containers like they're the workhorses of the kitchen. Most are flimsy, leaky, and crack after a month. The Bentgo Easyboxes set out to fix that — and largely succeed. With a 4.6-star average from 229 ratings, these aren't some random no-name brand. Bentgo has built a reputation on the kids' lunchbox market, and they've brought that same engineering to adult meal prep. Are they worth your money? Let's dig in.

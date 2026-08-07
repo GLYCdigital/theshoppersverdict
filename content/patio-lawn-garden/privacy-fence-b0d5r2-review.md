@@ -1,4 +1,5 @@
 ---
+
 title: "Privacy Fence"
 seo_title: "Privacy Fence Review: Verdict | TSV"
 meta_description: "Our full privacy fence review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5R25TBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hw1xyblvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most privacy screens on Amazon are flimsy, ugly, or both. This one manages to dodge that fate — mostly. With a 4.6-star average across 229 ratings, the Privacy Fence has clearly won over a lot of backyard dwellers. But is it the right screen for your specific situation? That depends on how much you hate sand.

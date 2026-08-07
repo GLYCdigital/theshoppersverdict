@@ -1,4 +1,5 @@
 ---
+
 title: "GEPLAD LED Night Light"
 seo_title: "GEPLAD LED Night Light Review: Smart, Dimmable, Worth It?"
 meta_description: "GEPLAD LED Night Light review: 4.7-star rated, dimmable, motion-sensing. See real pros, cons, and who should buy this smart plug-in light."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FK5PCD3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tz93sEE+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dusk-to-dawn sensor and adjustable brightness levels work independently, so you can run it as a true night light or a subtle always-on accent lamp"
   - "Rotating head and compact footprint fit both horizontal and vertical outlets without blocking the second socket"
   - "Warm 3000K light at low settings is genuinely dim enough for nurseries or midnight bathroom trips — no harsh blue-white glare"
-cons:
+cons: 
   - "Light sensor is aggressive in hallways or rooms with indirect daylight, occasionally triggering the light on before it's fully dark"
   - "The touch-sensitive brightness control is on the face of the unit, easy to bump accidentally when unplugging or adjusting the head"
+
 ---
 
 The GEPLAD LED Night Light sits in that rare category of cheap home hardware that actually does what it promises. At 4.7 stars across 235 ratings, it's clearly earning its keep in bedrooms, hallways, and bathrooms. But is it the right night light for *your* specific outlet and lighting situation? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hydroponics Growing System Indoor Garden: URUQ Indoor Garden"
 seo_title: "Hydroponics Growing System Indoor Garden: URUQ Ind Review"
 meta_description: "Our full hydroponics growing system indoor garden: uruq indoor garden review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D4FPRWM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c7iWD6gdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The URUQ Indoor Garden is a solid mid-range hydroponics system that bridges the gap between cheap countertop kits and $300+ smart gardens. It's not perfect — the water level indicator is genuinely frustrating — but for the price, you get a capable 8-pod system with enough light output to grow fruiting plants, not just salad greens.

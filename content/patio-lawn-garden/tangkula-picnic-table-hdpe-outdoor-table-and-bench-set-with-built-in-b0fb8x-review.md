@@ -1,4 +1,5 @@
 ---
+
 title: "Tangkula Picnic Table, HDPE Outdoor Table and Bench Set with"
 seo_title: "Tangkula Picnic Table, HDPE Outdoor Table and Benc Review"
 meta_description: "Our full tangkula picnic table, hdpe outdoor table and bench set with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB8X9NKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OtRxdllsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever hauled a rotting wooden picnic table to the curb after three winters, the Tangkula HDPE set speaks directly to you. This is a plastic table — but not the flimsy resin stuff you find at big-box stores. It's high-density polyethylene, the same material used for cutting boards and kayaks. It won't splinter, won't warp, and won't need a single coat of stain. The question isn't whether it's durable. It's whether the assembly headache and fixed bench height are worth the trade-off.

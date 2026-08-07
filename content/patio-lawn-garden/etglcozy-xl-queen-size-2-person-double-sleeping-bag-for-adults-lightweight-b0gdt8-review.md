@@ -1,4 +1,5 @@
 ---
+
 title: "ETGLCOZY XL Queen Size 2 Person Double Sleeping Bag for Adul"
 seo_title: "ETGLCOZY XL Queen 2-Person Sleeping Bag Review (2026)"
 meta_description: "ETGLCOZY XL queen double sleeping bag review: roomy 2-person design, warm flannel lining, and honest cons. See if this couples' camping bag is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GDT8P39S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NhKnpX6ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - Genuinely fits two average adults — 87 inch " x 59 inch " flat dimensions don't shrink when zipped; shoulders and feet both have room
   - "Dual-zipper design lets each person regulate temperature independently without waking the other"
   - "Flannel inner lining feels soft and traps heat well; rated for 50°F but comfortable down to mid-40s with layers"
-cons:
+cons: 
   - "At 7.5 lbs packed, it's heavy for backpacking — this is a car-camping or glamping bag, not a hike-in option"
   - "The included compression sack is barely larger than the bag itself; you'll want a separate larger stuff sack for real packing"
+
 ---
 
 **Opening: Is this actually a two-person bag, or two sleeping bags sewn together?**

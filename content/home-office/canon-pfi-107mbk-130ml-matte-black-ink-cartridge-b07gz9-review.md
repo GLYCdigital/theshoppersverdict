@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PFI-107MBK 130ml Matte Black Ink Cartridge"
 seo_title: "Canon PFI-107MBK Matte Black Ink Review (130ml)"
 meta_description: "Canon PFI-107MBK 130ml Matte Black ink cartridge review: real-world print quality, page yield, compatibility, and value compared to OEM alternatives."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GZ9G8Y1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a7inBRF0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canon pigment ink — consistent density and neutral black tones on matte papers, no banding or clogging issues reported"
   - "130ml high-capacity format delivers roughly 2-3x the page yield of standard 50ml cartridges, lowering per-print cost for heavy users"
   - Chip communicates accurate remaining ink levels — no premature "low ink" warnings that plague third-party alternatives
-cons:
+cons: 
   - "Premium OEM pricing per milliliter makes it painful for high-volume printing; third-party refillable cartridges exist but void warranty"
   - "Only compatible with Canon imagePROGRAF Pro-1000, Pro-2000, Pro-4000, and Pro-6000 series — not for desktop PIXMA printers"
+
 ---
 
 If you own a Canon imagePROGRAF Pro-1000 or any of the Pro-2000/4000/6000 series, you already know the dirty secret: these printers are ink-hungry beasts, and the PFI-107MBK is the lifeblood that keeps them running. This 130ml matte black cartridge is the specific ink you need for matte fine art papers, and it's been earning a 4.6-star rating from 229 buyers. Let's break down whether it's worth the premium.

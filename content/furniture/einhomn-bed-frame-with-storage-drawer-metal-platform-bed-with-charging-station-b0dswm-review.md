@@ -1,4 +1,5 @@
 ---
+
 title: "Einhomn Bed Frame with Storage Drawer, Metal Platform Bed wi"
 seo_title: "Einhomn Bed Frame with Storage Drawer Review (2026)"
 meta_description: "Einhomn metal platform bed with storage drawer and charging station — honest review of build quality, assembly, and real-world use. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DSWMT85Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built-in USB and AC charging ports on both sides of the headboard — genuinely useful, not a gimmick"
   - "Under-bed storage drawer on casters glides smoothly and holds a surprising amount (fits king-size blankets)"
   - "Tool-free assembly takes under 30 minutes — no wrench required, all parts labeled"
-cons:
+cons: 
   - "Metal slats are 2.5 inches apart — fine for foam mattresses but you'll want a bunkie board for innerspring"
   - "Drawer only on one side; if your room layout flips the bed, you're stuck with the draw facing the wrong way"
   - "Headboard is hollow and echoes if you lean against it — not ideal for reading in bed"
+
 ---
 
 **Bottom line: This is the bed frame for renters and dorm-dwellers who want storage without the bulk of a platform base. The charging ports are the real selling point — but the one-sided drawer and hollow headboard mean it's not for everyone.**

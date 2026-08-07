@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Plate Real Mayonnaise"
 seo_title: "Blue Plate Real Mayonnaise Review: Is It Worth It?"
 meta_description: "Blue Plate Real Mayonnaise review: 4.5-star rated spread. We break down taste, texture, ingredients, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZFFDL5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813oJxwKyEL._SL1500_.jpg"
-pros:
+pros: 
   - "Tangier, more distinctive flavor than Hellmann's or Duke's — stands up in sandwiches and dips"
   - "Thick, spoonable texture that clings to bread without soaking it through"
   - "Made with simple ingredients — soybean oil, egg yolks, vinegar — no high-fructose corn syrup"
-cons:
+cons: 
   - "Regional availability is spotty; you'll likely pay a premium for shipping outside the South"
   - "The 30-ounce jar is bulky and can be tough to fit in standard fridge door shelves"
+
 ---
 
 Let's be blunt: most mayonnaise is just a white, creamy vehicle for other flavors. Blue Plate is not that. This is the mayo that Southern cooks have sworn by since 1927, and it has a personality — a tangy, slightly sweet zip that makes you notice it. If you're tired of bland, one-note spreads, this jar deserves a spot on your counter.

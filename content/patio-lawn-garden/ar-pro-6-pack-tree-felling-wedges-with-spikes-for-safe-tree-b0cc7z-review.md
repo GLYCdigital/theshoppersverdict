@@ -1,4 +1,5 @@
 ---
+
 title: "AR-PRO 6 Pack Tree Felling Wedges with Spikes for Safe Tree"
 seo_title: "AR-PRO Tree Felling Wedges Review: 6-Pack Safety"
 meta_description: "Honest AR-PRO 6-pack tree felling wedges review. Tested for chain saw kickback prevention, durability, and real-world use. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC7ZGBXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DO3iiGIsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hardened steel spikes bite into the cut, preventing the wedge from popping out mid-fell"
   - "Bright orange color makes them visible in leaf litter and snow — you won't lose them"
   - "Six wedges in the pack cover everything from a 12-inch trunk to a 30-inch oak"
-cons:
+cons: 
   - "No storage bag included — the spikes will scratch your truck bed if you toss them loose"
   - "Spikes require a firm swing to seat properly in frozen or hardwood cuts"
+
 ---
 
 If you've ever had a wedge spit out of a back cut while the tree started to lean, you know the panic. The AR-PRO 6-pack with spikes is designed to eliminate that exact scenario. At 4.6 stars across 229 ratings, it's earning its place in serious cutting kits. But are the spikes a gimmick or a genuine upgrade? I dug into the specs, the customer feedback, and the physics to give you a straight answer.

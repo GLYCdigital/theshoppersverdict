@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Mountain Men's C130 Sync Lightweight Cart Golf Bag 14-Wa"
 seo_title: "Sun Mountain Men's C130 Sync Lightweight Cart Golf Review"
 meta_description: "Our full sun mountain men's c130 sync lightweight cart golf bag 14-wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FR2BS64N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fI3JDJh7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 14-Way Cart Bag That Actually Stays Put**

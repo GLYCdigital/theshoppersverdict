@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Hogwarts Castle: Herbology Class Kids Toy "
 seo_title: "LEGO Harry Potter Hogwarts Castle: Herbology Class Review"
 meta_description: "Our full lego harry potter hogwarts castle: herbology class kids toy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DRW5H79H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816HVygQFcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the rare LEGO set that nails both play and display, but it's priced like a collectible, not a toy.**

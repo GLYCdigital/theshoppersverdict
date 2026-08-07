@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Dryer Ionic, 150,000 RPM Hair Dryers for Women w/Cerami"
 seo_title: "Hair Dryer Ionic, 150,000 RPM Hair Dryers for Wome Review"
 meta_description: "Our full hair dryer ionic, 150,000 rpm hair dryers for women w/cerami review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D5M3Y97W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qUAJR6t-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 150,000 RPM Promise: Real Speed or Just a Number?**

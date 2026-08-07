@@ -1,4 +1,5 @@
 ---
+
 title: "Libre by Yves Saint Laurent for Women - 2 Pc Gift Set 3oz ED"
 seo_title: "Libre by Yves Saint Laurent for Women - 2 Pc Gift  Review"
 meta_description: "Our full libre by yves saint laurent for women - 2 pc gift set 3oz ed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4B7PBDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z+GdR9K+L._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've smelled one celebrity or designer floral-woody fragrance in the last five years, you've smelled a dozen. Libre isn't that. Yves Saint Laurent took a gamble in 2019 by pushing lavender — typically a masculine barbershop note — into a women's Eau de Parfum, and the result became a modern icon. This 2-piece set is the brand's most practical way to own it: you get the full 3oz bottle plus a 0.33oz travel spray, which is the same size as a standard deluxe sample but actually filled with the same juice. No dilution, no separate "rollerball" nonsense.

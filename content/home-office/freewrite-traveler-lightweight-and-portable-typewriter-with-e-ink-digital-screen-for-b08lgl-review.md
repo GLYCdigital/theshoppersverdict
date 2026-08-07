@@ -1,4 +1,5 @@
 ---
+
 title: "Freewrite Traveler | Lightweight and Portable Typewriter wit"
 seo_title: "Freewrite Traveler | Lightweight and Portable Type Review"
 meta_description: "Our full freewrite traveler | lightweight and portable typewriter wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08LGLSZP5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HlD77Gd3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Freewrite Traveler isn't a laptop, and that's exactly the point.**

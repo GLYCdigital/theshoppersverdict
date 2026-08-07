@@ -1,4 +1,5 @@
 ---
+
 title: "Shower Body Brush,Soft Bristles and Beautiful Pumpkin Loofah"
 seo_title: "Shower Body Brush,Soft Bristles and Beautiful Pump Review"
 meta_description: "Our full shower body brush,soft bristles and beautiful pumpkin loofah review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8L73XZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GfhMZZF-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most shower brushes are either too scratchy to enjoy or too flimsy to matter. The Shower Body Brush with Soft Bristles and Pumpkin Loofah sits in a genuinely useful middle ground. With a 4.4-star average across 220 ratings, it's clearly earning its keep in real bathrooms — not just on a product page.

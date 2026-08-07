@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate 09782 Toothpaste, Personal Size, .85oz Tube, Unboxed"
 seo_title: "Colgate 09782 Toothpaste Review: Travel-Size Essential (2026)"
 meta_description: "Colgate 09782 personal-size toothpaste review: compact .85oz tube, bulk case of 240, ideal for travel bags, offices, and emergency kits. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004EHZ7N0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Smo5zX0VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Meets TSA 3-1-1 liquid limits at exactly 0.85oz — no confiscation at security"
   - "Bulk case of 240 unboxed tubes cuts per-unit cost dramatically vs. retail singles"
   - "Standard Colgate cavity protection formula — familiar taste, reliable cleaning"
-cons:
+cons: 
   - "No box means tubes can arrive slightly dented or with scuffed crimps in transit"
   - "Not available in a smaller case size — you're committing to 240 tubes upfront"
   - "Unboxed tubes lack ingredient labels on some units, which may concern sensitive buyers"
+
 ---
 
 # Colgate 09782 Toothpaste Review: The 240-Tube Bulk Buy That Makes Sense (and When It Doesn't)

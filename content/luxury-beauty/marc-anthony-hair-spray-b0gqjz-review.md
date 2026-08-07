@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Anthony Hair Spray"
 seo_title: "Marc Anthony Hair Spray Review: Verdict | TSV"
 meta_description: "Our full marc anthony hair spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQJZ5WD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L9dSq8MhL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I’ve tested dozens of hair sprays over the years, and most fall into one of two camps: the “shellac” that keeps your style frozen but leaves your hair feeling like cardboard, or the “water” that does nothing beyond making your hair wet. The Marc Anthony Hair Spray sits in a rare middle ground — it actually holds, but it doesn’t punish you for it.

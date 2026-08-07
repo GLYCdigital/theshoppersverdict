@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Major Appliance Protection Plan ($1500 - $199 inch"
 seo_title: "ASURION 3-Year Appliance Plan Review: Worth It? (2026)"
 meta_description: "ASURION 3-year appliance protection plan for $1500-$1999 items. 2.8/5 rating. We analyze coverage, claims process, and whether it's worth the cost."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.8
 amazon_url: "https://www.amazon.com/dp/B0C4FZHX4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GL9YNrhgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers full replacement cost up to $1,999.99 — not depreciated value like many competitors"
   - "Includes 3 years of coverage beyond the manufacturer's warranty, with no deductibles per claim"
   - "24/7 claims line and the option for direct-to-home service or in-home repair for major appliances"
-cons:
+cons: 
   - "2.8/5 Amazon rating driven by widespread reports of slow claim approvals and repair delays"
   - "Fine print excludes pre-existing conditions, cosmetic damage, and improper installation — a common denial reason"
   - "You're paying upfront for 3 years; if you sell the appliance or never file a claim, that money is gone"
+
 ---
 
 # ASURION 3-Year Appliance Protection Plan: Read This Before You Click "Add to Cart"

@@ -1,4 +1,5 @@
 ---
+
 title: "Doritos Minis Canisters"
 seo_title: "Doritos Minis Canisters Review: Are They Worth the Hype?"
 meta_description: "We tested Doritos Minis Canisters — 4.5-star rated snack packs. Check portion control, freshness, crunch factor, and value before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGJVX772/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HCY91s2LL._SL1500_.jpg"
-pros:
+pros: 
   - "Crunchy, evenly seasoned chips that stay fresh thanks to the resealable canister design"
   - "Convenient grab-and-go size (roughly 1 oz per canister) that fits in lunchboxes and car cup holders"
   - "Multi-pack value beats buying single bags at convenience stores — you get 12+ canisters per order"
-cons:
+cons: 
   - "Canisters are plastic-heavy — not recyclable in most curbside programs, which might bother eco-conscious snackers"
   - "Smaller chips mean more crumbs at the bottom of the canister compared to full-size Doritos bags"
+
 ---
 
 Let me be blunt: a $20.83 price tag for snack chips raised my eyebrows too. But after testing these Doritos Minis Canisters for two weeks, I get why they've earned a 4.5-star average across 225 Amazon ratings. These aren't just smaller versions of the classic bag — they're a genuinely different snacking experience.

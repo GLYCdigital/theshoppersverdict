@@ -1,4 +1,5 @@
 ---
+
 title: "Kirkland Signature Pecan Halves, 2 Pound (3 Pack)"
 seo_title: "Kirkland Signature Pecan Halves, 2 Pound (3 Pack) Review:"
 meta_description: "Our full kirkland signature pecan halves, 2 pound (3 pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077MRQJJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Qxrnr3XML._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's skip the preamble: these are the pecan halves you buy when you're done playing games with tiny overpriced bags at the grocery store. Kirkland's 3-pack gives you six pounds of raw pecan halves, and at a 4.7-star average across 235 ratings, the crowd has spoken. Here's the real story after digging through what buyers actually say.

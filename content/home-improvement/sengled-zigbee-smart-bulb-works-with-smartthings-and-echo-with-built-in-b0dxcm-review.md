@@ -1,4 +1,5 @@
 ---
+
 title: "Sengled Zigbee Smart Bulb, Works with SmartThings and Echo w"
 seo_title: "Sengled Zigbee Smart Bulb, Works with SmartThings  Review"
 meta_description: "Our full sengled zigbee smart bulb, works with smartthings and echo w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DXCM1GJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CxLffdLZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance and Real-World Use

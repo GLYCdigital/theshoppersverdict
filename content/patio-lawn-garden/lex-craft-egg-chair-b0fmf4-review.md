@@ -1,4 +1,5 @@
 ---
+
 title: "LEX CRAFT Egg Chair"
 seo_title: "LEX CRAFT Egg Chair Review: Verdict | TSV"
 meta_description: "Our full lex craft egg chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMF4Z7S9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fip+c3qXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEX CRAFT Egg Chair is the rare patio piece that looks like a design statement but sits like actual furniture.** At a 4.5-star average across 225 ratings, it's clearly earning its keep on porches and balconies. But is it worth the space and the money? Here's the real breakdown.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "910 910XL Ink CartridgesWork with OfficeJet Pro 8015e 8025e"
 seo_title: "910XL Ink Cartridges for OfficeJet Pro 8015e Review (2026)"
 meta_description: "Honest review of 910/910XL ink cartridges for HP OfficeJet Pro 8015e & 8025e. Real print yields, color accuracy, and cost-per-page breakdown."
@@ -12,13 +13,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZCZ25L6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718PMNiAVoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine HP 910XL high-yield formula — no clogs or compatibility errors reported in the first 200+ pages"
   - "Full set (black + 3 color) costs roughly 40% less per page than standard-yield 910 carts"
   - "Chip reset works cleanly with OfficeJet Pro 8015e and 8025e firmware updates through mid-2026 inch"
-cons:
+cons: 
   - "Black cartridge yields are rated at 825 pages — 125 pages less than HP's official XL spec"
   - "Color cartridges run dry noticeably faster on photo paper — expect ~500 prints max on glossy"
+
 
 ---
 

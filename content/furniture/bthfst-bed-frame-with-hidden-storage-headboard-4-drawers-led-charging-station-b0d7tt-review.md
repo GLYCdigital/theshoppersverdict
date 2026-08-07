@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST Bed Frame With Hidden Storage Headboard & 4 Drawers,"
 seo_title: "BTHFST Bed Frame Review: Hidden Storage & 4 Drawers (2026)"
 meta_description: "Honest BTHFST bed frame review: hidden storage headboard, 4 drawers, LED & charging station. Build quality, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7TTHZQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R3CU0NAqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden storage headboard with dual flip-up compartments — keeps bedside clutter off your nightstand"
   - "Four full-extension under-bed drawers on smooth ball-bearing glides; no tools needed to assemble the drawer boxes"
   - "Built-in LED strip with remote (16 colors + dimming) and dual USB/Type-C charging ports on both sides of the headboard"
-cons:
+cons: 
   - "Headboard USB ports output only 5V/1A — slow charging for modern phones; plan for overnight top-ups, not quick boosts"
   - "Drawers are shallow (roughly 5.5 inches deep) — good for linens and off-season clothes, not bulky sweaters or shoes"
   - "Assembly takes two adults a solid 90–120 minutes; the hidden storage hinges need careful alignment or they bind"
+
 ---
 
 **The bed that hides your chaos — but is the storage actually useful?**

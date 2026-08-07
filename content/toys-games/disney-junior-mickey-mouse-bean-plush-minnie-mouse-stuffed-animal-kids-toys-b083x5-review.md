@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Junior Mickey Mouse Bean Plush Minnie Mouse Stuffed A"
 seo_title: "Disney Junior Minnie Mouse Bean Plush Review: Cute & Cuddly"
 meta_description: "Our honest Disney Junior Minnie Mouse bean plush review: soft, durable, and toddler-approved. See pros, cons, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B083X5CKV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vwcu+yKvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft, huggable fabric that holds up to repeated toddler play and washing"
   - "Bean-filled bottom makes Minnie easy for small hands to grip and pose"
   - "Authentic Disney Junior design with accurate face details and signature bow"
-cons:
+cons: 
   - "Smaller in person than many buyers expect — roughly 12 inches tall"
   - "Not a talking or interactive plush; purely a cuddle companion"
+
 ---
 
 If you're shopping for a toddler who's obsessed with Minnie Mouse, this bean plush from Disney Junior is probably already in your cart. The question is whether it's worth the money — and at 4.8 stars with 240 ratings, the answer is mostly yes. But let's dig into the specifics before you hit buy.

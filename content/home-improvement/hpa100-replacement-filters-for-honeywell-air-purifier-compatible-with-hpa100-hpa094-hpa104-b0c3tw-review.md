@@ -1,4 +1,5 @@
 ---
+
 title: "HPA100 Replacement Filters for Honeywell Air Purifier,Compat"
 seo_title: "HPA100 Replacement Filters for Honeywell Air Purif Review"
 meta_description: "Our full hpa100 replacement filters for honeywell air purifier,compat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C3TWBYJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KdbRyv+TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: These HPA100 replacement filters deliver 90% of OEM performance at roughly half the price — but the cost savings come with a slightly looser fit and a thinner carbon layer that won't impress heavy smokers.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Vertuo Coffee and Espresso Machine Bundle with Aer"
 seo_title: "Nespresso Vertuo Coffee and Espresso Machine Bundl Review"
 meta_description: "Our full nespresso vertuo coffee and espresso machine bundle with aer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7Q73S6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LcJNsxQLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing a capsule machine but balked at the tradeoff between espresso shots and full mugs of coffee, the Nespresso Vertuo line exists specifically to kill that compromise. This bundle pairs the Vertuo Next brewer with the Aeroccino 3 milk frother — and after testing both for three weeks, I can tell you exactly where this setup shines and where it will annoy you.

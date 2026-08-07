@@ -1,4 +1,5 @@
 ---
+
 title: "Dole Fruit Bowls Low Fat Apples and Creme Parfait, Gluten Fr"
 seo_title: "Dole Fruit Bowls Apples & Creme Parfait Review (2026)"
 meta_description: "Honest Dole Fruit Bowls Low Fat Apples & Creme Parfait review: taste, texture, nutrition, and value. See if these gluten-free snack cups are worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZBSZLPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rhr+zNZhL._SL1500_.jpg"
-pros:
+pros: 
   - "Real diced apple pieces with a thick, pudding-like creme sauce — not watery or artificial-tasting"
   - "Only 70 calories per 4-oz cup with 0g fat, making it a genuinely guilt-free snack option"
   - "Sturdy, peel-back lids that don't splatter when opened — a small but meaningful design win"
-cons:
+cons: 
   - "Each cup is just 4 ounces — you'll likely want two to feel satisfied as a snack"
   - "The creme sauce is sweet; if you prefer tart apples, this leans noticeably dessert-like"
+
 ---
 
 Here's the thing — I've reviewed dozens of "healthy snacks" that taste like cardboard wrapped in good intentions. The Dole Fruit Bowls Low Fat Apples and Creme Parfait isn't that. It's not a whole-food apple, and it's not trying to be. What it is, is a surprisingly well-executed fruit cup that earns its 4.6-star rating across 229 Amazon reviews.

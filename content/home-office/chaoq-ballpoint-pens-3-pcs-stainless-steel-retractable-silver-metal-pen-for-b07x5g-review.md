@@ -1,4 +1,5 @@
 ---
+
 title: "ChaoQ Ballpoint Pens, 3 Pcs Stainless Steel Retractable Silv"
 seo_title: "ChaoQ Stainless Steel Pens Review: Worth It? (2026)"
 meta_description: "ChaoQ retractable ballpoint pens reviewed: solid stainless steel build, smooth ink, and real-world durability tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07X5GT6C4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eH4Xrc0XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full stainless steel barrel with a satisfying 0.9 oz heft that feels premium without being tiring"
   - "Precise 0.7mm medium point lays down consistent, skip-free ink on standard copy paper"
   - "Retractable mechanism clicks cleanly and locks tight — no accidental pocket retractions"
-cons:
+cons: 
   - "Grip section is smooth metal with no rubber texture, so fingers can slip during long writing sessions"
   - "Refills are proprietary; standard Parker-style refills won't fit without modification"
+
 ---
 
 If you've ever clicked a cheap plastic pen and felt it flex under your fingers, the ChaoQ stainless steel set is the antidote. Three solid metal pens for roughly the price of one boutique-brand equivalent—but do they write as well as they look? I've put them through a week of note-taking, form-filling, and the dreaded left-handed smudge test. Here's the honest breakdown.

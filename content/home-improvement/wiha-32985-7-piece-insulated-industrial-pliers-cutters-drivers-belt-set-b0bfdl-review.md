@@ -1,4 +1,5 @@
 ---
+
 title: "Wiha 32985 7 Piece Insulated Industrial Pliers/Cutters/Drive"
 seo_title: "Wiha 32985 7 Piece Insulated Industrial Pliers/Cut Review"
 meta_description: "Our full wiha 32985 7 piece insulated industrial pliers/cutters/drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BFDLDWTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81d+-JcbE6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re working anywhere near live electrical panels, the difference between a $30 pair of insulated pliers and a $90 pair is not markup — it’s your safety margin. The Wiha 32985 7-piece set sits firmly in the premium tier, and after handling these tools, I understand why electricians and industrial maintenance pros tend to treat Wiha as the default answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Philips 40W 48in T12 Cool White Fluorescent Tube"
 seo_title: "Philips 40W 48in T12 Cool White Fluorescent Tube Review: "
 meta_description: "Our full philips 40w 48in t12 cool white fluorescent tube review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B016V1IW3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/113pyabDUAL._AC_SX355_PIbundle-10,TopRight,0,0_SH20_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some shoppers see "T12" and assume it's obsolete junk. That's half true. T12 is a dying platform, but if you've got magnetic-ballast fixtures already wired into your garage ceiling, replacing them with LED retrofits means rewiring or buying adapter tubes. This Philips 40W T12 is the pragmatic play: same form factor, same ballast, just a fresh tube that lights up the moment you twist it in.

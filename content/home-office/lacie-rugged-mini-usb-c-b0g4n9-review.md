@@ -1,4 +1,5 @@
 ---
+
 title: "LaCie Rugged mini USB-C"
 seo_title: "LaCie Rugged mini USB-C Review: Verdict | TSV"
 meta_description: "Our full lacie rugged mini usb-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G4N9X6BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-ae8wRTjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LaCie Rugged mini USB-C Review: A Tough Little Drive That Earns Its Orange Jacket**

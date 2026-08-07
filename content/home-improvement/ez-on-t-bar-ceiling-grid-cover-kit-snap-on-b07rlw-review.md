@@ -1,4 +1,5 @@
 ---
+
 title: "EZ-On T-bar Ceiling Grid Cover Kit - Snap On"
 seo_title: "EZ-On T-bar Ceiling Grid Cover Kit Review (2026) | Snap-On"
 meta_description: "Honest EZ-On T-bar Ceiling Grid Cover Kit review. See how this snap-on grid cover hides rust, stains & seams. Real pros, cons & buyer tips."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07RLWLFJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DLC9lK7jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "EZ-On covers 12 linear feet per kit — enough for one 4x4 bay — and snaps on without removing ceiling tiles"
   - "Works over both 15/16-inch and 9/16-inch standard grid systems with a firm push-fit that hides rust and stains"
   - "Includes inside and outside corner pieces plus end caps, so you don't need to buy separate trim accessories"
-cons:
+cons: 
   - "PVC material can feel brittle in cold temps — warm it slightly before installation to prevent cracking at corners"
   - "Does not include the T-bar cross tees themselves; you're buying only the cosmetic cap, not structural support"
+
 ---
 
 Let’s be honest about drop ceilings: they’re practical, ugly, and after a decade, the metal grid starts to look like a crime scene — rust spots, yellowed paint, and that annoying seam where two T-bars meet. The EZ-On T-bar Ceiling Grid Cover Kit is a cosmetic rescue mission. It’s a snap-on PVC cap that slides over your existing grid to make it look new without tearing down the ceiling. But is it a quick fix or a waste of $40? Here’s the real breakdown after digging through 210 buyer reviews.

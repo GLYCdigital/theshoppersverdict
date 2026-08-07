@@ -1,4 +1,5 @@
 ---
+
 title: "Breyer Horses Stablemates Paint Craft Set"
 seo_title: "Breyer Stablemates Paint Craft Set Review: Worth It?"
 meta_description: "Hands-on Breyer Horses Stablemates Paint Craft Set review: paint quality, ease of use, and whether this craft kit delivers for young horse lovers."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09R4RXTSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z7fwCAUyL._AC_SL1104_.jpg"
-pros:
+pros: 
   - "Includes 6 unpainted Stablemates-scale horses — enough for multiple painting sessions"
   - "Paints are pre-mixed and match Breyer's official coat colors, so results look like store-bought models"
   - "Brush quality is genuinely decent for a craft kit; fine tip holds a point for detail work"
-cons:
+cons: 
   - "Paint pots are small (about 2ml each) — you'll likely need refills for larger models or touch-ups"
   - "No sealant included, so painted finishes can chip if horses are handled roughly during play"
+
 ---
 
 If you've got a horse-obsessed kid at home, you already know Breyer. The Stablemates Paint Craft Set is the brand's entry point into the custom-model world — six unpainted horses, a palette of authentic coat colors, and a brush. At a 4.7-star average across 235 ratings, it's clearly connecting with families. But is it a craft kit that delivers, or a packaging exercise that disappoints once the paint dries? Here's the honest breakdown.

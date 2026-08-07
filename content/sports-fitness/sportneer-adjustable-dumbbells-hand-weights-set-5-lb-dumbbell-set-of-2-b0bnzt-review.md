@@ -1,4 +1,5 @@
 ---
+
 title: "Sportneer Adjustable Dumbbells Hand Weights Set: 5 lb Dumbbe"
 seo_title: "Sportneer Adjustable Dumbbells Hand Weights Set: 5 Review"
 meta_description: "Our full sportneer adjustable dumbbells hand weights set: 5 lb dumbbe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNZTV7JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711XOGZFEoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sportneer 5 lb Adjustable Dumbbells Set: Compact Strength Training That Actually Works**

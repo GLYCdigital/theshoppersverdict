@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns 1"
 seo_title: "Solar Lanterns 1 Review: Verdict | TSV"
 meta_description: "Our full solar lanterns 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5VPPX9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AUzxonN2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: there are roughly 9,000 solar lantern options on Amazon, and most are disposable junk that stops charging by October. The Solar Lanterns 1 (that's literally the product name — branding isn't their strength) manages to stand out. Here's why it earned a 4.6 from 229 shoppers.

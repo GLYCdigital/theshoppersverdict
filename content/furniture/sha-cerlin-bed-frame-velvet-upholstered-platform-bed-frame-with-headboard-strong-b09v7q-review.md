@@ -1,4 +1,5 @@
 ---
+
 title: "SHA CERLIN Bed Frame/Velvet Upholstered Platform Bed Frame w"
 seo_title: "SHA CERLIN Bed Frame/Velvet Upholstered Platform B Review"
 meta_description: "Our full sha cerlin bed frame/velvet upholstered platform bed frame w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09V7QJW9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ef8btJ1mL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $300 velvet bed frame that punches above its weight — if you can live with the height.**

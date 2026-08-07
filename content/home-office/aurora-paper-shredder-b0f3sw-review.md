@@ -1,23 +1,25 @@
 ---
+
 title: "Aurora Paper Shredder"
 seo_title: "Aurora Paper Shredder Review (2026): Honest Verdict & Buying Guide"
 meta_description: "Read our honest Aurora Paper Shredder review — real pros, cons, and who should buy it. 4.6/5 stars from 229 shoppers. See if it fits your office."
 slug: "aurora-paper-shredder-b0f3sw-review"
 image_alt: "Aurora paper shredder on a desk with shredded paper strips visible in the basket"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3SWZRZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MXPG+SPsL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Shreds 6 sheets at once into micro-cut particles (4x12mm) — small enough for sensitive documents"  
   - "Runs quietly at 58 dB, so you can shred during calls without annoying coworkers"  
   - "Built-in 5-gallon bin with clear window — you see when it's full, not guess"  
-cons:  
+cons: 
   - "No auto-feed or jam reversal button — you're manually clearing jams when you overstuff"  
   - "Continuous run time is 3 minutes, then a 30-minute cooldown — slow for bulk shredding"
+
 ---
 
 If you're drowning in old bank statements, expired credit card offers, or documents with your social security number on them, the Aurora Paper Shredder looks like a no-brainer at 4.6 stars. But here's the thing — most shredders in this price range are either flimsy toys or loud beasts that give up after 30 seconds. I tested this one against those expectations. Here's the real story.

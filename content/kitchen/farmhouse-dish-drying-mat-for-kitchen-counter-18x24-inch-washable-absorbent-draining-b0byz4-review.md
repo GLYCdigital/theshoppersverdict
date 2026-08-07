@@ -1,4 +1,5 @@
 ---
+
 title: "Farmhouse Dish Drying Mat for Kitchen Counter 18x24 Inch Was"
 seo_title: "Farmhouse Dish Drying Mat 18x24 Review: Absorbent & Washable"
 meta_description: "Read our honest Farmhouse Dish Drying Mat 18x24 review. Is this washable, absorbent counter mat worth it? Real pros, cons & buyer verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYZ4XJXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YSikHbKPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable and dryable without warping or losing absorbency"
   - "Thick enough to protect counters from scratches and clinks"
   - "Farmhouse print stays vibrant after repeated washes"
-cons:
+cons: 
   - "18x24 is tight for large dinner plates side-by-side"
   - "Edges can curl slightly if you overload it with water-heavy items"
+
 ---
 
 If your counter doubles as a drying rack every evening, you already know the drill: puddles of water, scratched granite, and that damp towel that never fully dries. The Farmhouse Dish Drying Mat (18x24 inches) aims to replace all of that with a single, foldable layer of absorbent fabric. After digging through 229 ratings and the design specs, here's the honest breakdown.

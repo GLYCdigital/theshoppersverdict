@@ -1,4 +1,5 @@
 ---
+
 title: "KANKA Rotisserie Grill Kit â€“ Heavy Duty Portable Spit Roas"
 seo_title: "KANKA Rotisserie Grill Kit â€“ Heavy Duty Portable Review"
 meta_description: "Our full kanka rotisserie grill kit â€“ heavy duty portable spit roas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B074G29QVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SnzFSc1KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most rotisserie kits under $100 are flimsy, wobble-prone disappointments that make your chicken look like it lost a fight with a lawnmower. The KANKA Rotisserie Grill Kit isn't that. With a 4.7-star average across 235 ratings, this is one of the most consistently praised spit roasters for kettle grills on the market. Here's the real story.

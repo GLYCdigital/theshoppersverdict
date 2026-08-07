@@ -1,4 +1,5 @@
 ---
+
 title: "KOUSEI 5-Tier Bookshelf Reversible,Corner Bookcase 4 Hooks,6"
 seo_title: "KOUSEI 5-Tier Bookshelf Reversible,Corner Bookcase Review"
 meta_description: "Our full kousei 5-tier bookshelf reversible,corner bookcase 4 hooks,6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQP8TXKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zvsIESHZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most corner bookshelves under $100 are wobbly particleboard nightmares that make you question your life choices during assembly. The KOUSEI 5-Tier isn't that — but it's not a heirloom piece either. It's a genuinely clever space-saver that earns its 4.6-star rating through smart design choices, not premium materials.

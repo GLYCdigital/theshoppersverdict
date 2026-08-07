@@ -1,4 +1,5 @@
 ---
+
 title: "NEW Hair Dye Shampoo1"
 seo_title: "NEW Hair Dye Shampoo1 Review: Verdict | TSV"
 meta_description: "Our full new hair dye shampoo1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQ5DGKHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z1nFYLZDL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: **NEW Hair Dye Shampoo1** is not a magic wand for instant transformation. It’s a gradual color-depositing shampoo that works more like a toner-meets-stain than a traditional box dye. And for a certain type of buyer, that’s exactly the point.

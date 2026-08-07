@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Solid Wood Wide Armrests Accent Chair,Upholstered Mid"
 seo_title: "VINGLI Solid Wood Wide Armrests Accent Chair,Uphol Review"
 meta_description: "Our full vingli solid wood wide armrests accent chair,upholstered mid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDC3RNBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Aj0SsJgsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through accent chairs for weeks, you've probably noticed a pattern: everything under $200 is either flimsy particleboard disguised as wood or a fabric-covered frame that wobbles after a month. The VINGLI Solid Wood Wide Armrests Accent Chair sits in a different lane. At a 4.3-star average across 215 ratings, it's not perfect — but for the price, it punches well above its weight class.

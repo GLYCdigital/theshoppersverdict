@@ -1,4 +1,5 @@
 ---
+
 title: "QuliMetal 7MM Grill Grates for Weber Gas Grills"
 seo_title: "QuliMetal 7MM Grill Grates for Weber Gas Grills Review: V"
 meta_description: "Our full qulimetal 7mm grill grates for weber gas grills review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXVWK3H2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qTKIFAbqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a steak slide across thin, rusty OEM grates and wished your Weber cooked more like a steakhouse, the QuliMetal 7MM Grill Grates are the answer you've been looking for. These aren't a subtle upgrade — they're a complete change in how your grill transfers heat. At 4.8 stars from 240 ratings, buyers are clearly onto something. Let me break down whether the hype is justified.

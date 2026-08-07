@@ -1,4 +1,5 @@
 ---
+
 title: "SAMTRA Wooden Bed Frame with Headboard, Farmhouse Platform B"
 seo_title: "SAMTRA Wooden Bed Frame with Headboard, Farmhouse  Review"
 meta_description: "Our full samtra wooden bed frame with headboard, farmhouse platform b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DLWCBX8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VKkSdPvML._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The farmhouse aesthetic has hit peak saturation, which means you can now buy a wood bed frame that looks like it belongs in a $400,000 renovation for roughly the cost of a decent dinner out. The SAMTRA Wooden Bed Frame with Headboard sits squarely in that budget-friendly sweet spot. But does it hold up past the honeymoon phase? After digging through 190 ratings and verified buyer feedback, here's the real story.

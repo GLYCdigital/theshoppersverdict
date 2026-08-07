@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Police Station 10278 Building Kit"
 seo_title: "Lego Police Station 10278 Building Kit Review: Verdict | "
 meta_description: "Our full lego police station 10278 building kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BLLQC6WT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qx1OdkslL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the Lego Police Station 10278 isn't just another police set. This is a modular building — part of Lego's adult-oriented Creator Expert line — and it shows in every brick. If you've built modulars before, you know what you're getting. If you haven't, this is one of the strongest entry points in the series.

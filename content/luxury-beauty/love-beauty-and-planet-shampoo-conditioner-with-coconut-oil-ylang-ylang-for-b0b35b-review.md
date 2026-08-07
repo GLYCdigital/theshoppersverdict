@@ -1,4 +1,5 @@
 ---
+
 title: "Love Beauty and Planet Shampoo & Conditioner with Coconut Oi"
 seo_title: "Love Beauty and Planet Shampoo & Conditioner with  Review"
 meta_description: "Our full love beauty and planet shampoo & conditioner with coconut oi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B35BX3GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hmA+fDYuL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about something first: most “clean beauty” shampoos feel like a compromise. You trade lather for ethics, and your hair pays the price. Love Beauty and Planet’s Coconut Oil & Ylang Ylang duo tries to have it both ways — sulfate-free cleansing, ethically sourced coconut oil, and packaging that doesn't hate the planet. Does it actually work? After digging through 220 ratings and the fine print, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fortitude V2 Series Sediment/Carbon/Zinc Bacteria Inhibiting"
 seo_title: "Fortitude V2 Series Filter Review: Triple-Stage Protection"
 meta_description: "Honest Fortitude V2 Series Sediment/Carbon/Zinc filter review. Does triple-stage filtration deliver? Build quality, lifespan, and real buyer feedback covered."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3MWD8JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eB6zv0avL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-stage filtration (sediment, carbon, zinc) in a single cartridge — no need for separate housings"
   - "Zinc layer actively inhibits bacteria growth, something most standard carbon blocks don't address"
   - "Fits standard 10-inch whole-house filter housings — drop-in replacement, no adapter kit required"
-cons:
+cons: 
   - "Flow rate drops noticeably in high-demand households; you'll feel it during simultaneous showers"
   - "Zinc media has a finite lifespan — expect to replace closer to the 3-month mark if you have hard water"
+
 ---
 
 Let's be blunt: most whole-house filters are one-trick ponies. They catch sediment OR improve taste, but rarely both. The Fortitude V2 Series tries something different — stacking three filtration stages into a single 10-inch cartridge. Does it actually work, or is it just marketing on a stick? After digging through 229 ratings and the technical specs, here's what you need to know.

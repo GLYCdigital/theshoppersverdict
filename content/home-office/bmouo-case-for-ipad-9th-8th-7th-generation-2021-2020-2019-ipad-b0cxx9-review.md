@@ -1,4 +1,5 @@
 ---
+
 title: "BMOUO Case for iPad 9th 8th 7th Generation 2021/2020/2019, i"
 seo_title: "BMOUO iPad 9th/8th/7th Gen Case Review: Worth It?"
 meta_description: "BMOUO iPad 9th/8th/7th Gen case review: Build quality, pencil holder, kickstand, and auto wake tested. Is this 4.7-star case worth your money?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXX9MXKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TIONgCinL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and responsive auto wake/sleep — the magnetic flap works reliably every time"
   - "Built-in Apple Pencil holder charges wirelessly without removing the case"
   - "Rigid polycarbonate back with soft TPU edges absorbs drops better than single-material cases"
-cons:
+cons: 
   - "Kickstand only locks at two angles — no infinite adjustability for odd viewing positions"
   - "Adds noticeable bulk; not ideal if you prefer a slim folio profile"
   - "Pencil slot leaves the tip partially exposed if you drop the iPad corner-first"
+
 ---
 
 If you own an iPad 9th, 8th, or 7th generation, you're dealing with a device Apple has essentially orphaned — the accessories market is flooded with cheap cases that either fit poorly or fall apart in three months. The BMOUO case aims to be the exception. After digging through 235 ratings and the spec sheet, here's the real story.

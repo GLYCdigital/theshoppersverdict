@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Dryer, 160000 RPM Professional High Speed Ionic Blow Dr"
 seo_title: "Hair Dryer, 160000 RPM Professional High Speed Ion Review"
 meta_description: "Our full hair dryer, 160000 rpm professional high speed ionic blow dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJQH6NXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KYZnXbiJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the 160,000 RPM marketing hype and talk about what this dryer actually does to your hair. I've tested it for three weeks on everything from fine, fragile strands to thick, coarse curls. Here's the honest breakdown.

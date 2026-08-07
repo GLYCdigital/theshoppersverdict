@@ -1,23 +1,25 @@
 ---
+
 title: "612 Vermont Clear Christmas String Lights on White Wire Cord"
 seo_title: "612 Vermont Clear String Lights Review: 4.6-Star Verdict"
 meta_description: "Read our honest 612 Vermont Clear Christmas String Lights review. 4.6/5 rating, 229 reviews. See pros, cons, and who should buy these UL-approved lights."
 slug: "612-vermont-clear-christmas-string-lights-on-white-wire-cord-ul-approved-b0fwd6-review"
 image_alt: "612 Vermont Clear Christmas string lights on white wire cord, UL approved, with glowing bulbs"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FWD641NF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718vxFYUNfL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True clear glass bulbs with warm white glow — no cheap plastic tint"  
   - "UL-approved for indoor/outdoor use with sturdy white wire that blends on light surfaces"  
   - "Replacement bulbs and fuses included — practical for multi-season use"  
-cons:  
+cons: 
   - "Bulbs are small (C7-style) — not the large vintage look some expect"  
   - "White wire shows dirt on dusty eaves or dark trim"
+
 ---
 
 **The 612 Vermont Clear Christmas String Lights aren't trying to reinvent the holiday wheel. They're just doing the classic thing — clear glass bulbs, warm white glow, reliable wiring — and doing it well enough to earn a 4.6-star average from 229 shoppers. That's not flashy, but it's trustworthy.**

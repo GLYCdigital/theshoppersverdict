@@ -1,4 +1,5 @@
 ---
+
 title: "Floating Shelf Bracket Heavy Duty Shelf Brackets, Black Wall"
 seo_title: "Floating Shelf Bracket Review: Heavy Duty Black Wall Brackets (2026)"
 meta_description: "Honest review of heavy duty floating shelf brackets in black. Real load capacity, installation tips, and buyer feedback. See if these brackets are right for your shelves."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHXL9B37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7156DODkE0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Welded steel construction rated for significantly more weight than typical floating shelf brackets"
   - "Hidden mounting design creates a true floating look while remaining fully adjustable"
   - "Black matte finish resists scratches and matches most modern decor without needing touch-ups"
-cons:
+cons: 
   - "Hardware kit lacks wall anchors for drywall-only installations — you'll need to source your own"
   - "Requires precise drilling; the mounting plate leaves minimal room for alignment error once set"
+
 ---
 
 Let's cut through the noise: most floating shelf brackets are flimsy stamped steel that bend under a stack of books. This one is different. The heavy duty black wall brackets from this manufacturer use welded steel construction — not the thin, spot-welded stuff you see at big box stores. At 4.6 stars across 229 ratings, buyers consistently confirm these hold up where others sag.

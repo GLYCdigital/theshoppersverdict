@@ -1,4 +1,5 @@
 ---
+
 title: "Freud 99-001 Door Lip Router Bit Review"
 seo_title: "Freud 99-001 Door Lip Router Bit Review (2026): Worth It?"
 meta_description: "Freud 99-001 door lip router bit review: 4.7/5 stars. Cuts 1/2 inch  to 1-1/4 inch  door lips. See pros, cons, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRB68RS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711ABwHSYCL._SL1500_.jpg"
-pros:
+pros: 
   - "Cuts a clean, uniform 1/4-inch lip in one pass without chatter on solid wood and MDF"
   - "Ball-bearing pilot guide follows the door edge accurately, eliminating the need for a template"
   - "TiCo-coated carbide stays sharp through 40+ doors; shank is precision-ground for a true runout"
-cons:
+cons: 
   - "Single cutting height (1/4-inch lip) means you can't adjust for thicker veneers without a second bit"
   - "Requires a 1/2-inch collet router; won't fit compact trim routers with 1/4-inch collets"
   - "Pilot bearing is not replaceable — once worn, the entire bit needs replacing"
+
 ---
 
 If you've ever tried to router a door lip with a straight bit and a straightedge clamped to the door, you know the drill: two passes, constant measuring, and the sinking feeling when the bit wanders off-line. The Freud 99-001 eliminates all of that. This is a specialized bit with one job, and it does that job exceptionally well. But "specialized" means it's not for everyone — here's the full breakdown.

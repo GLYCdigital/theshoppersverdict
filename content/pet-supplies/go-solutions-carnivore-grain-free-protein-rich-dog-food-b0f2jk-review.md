@@ -1,4 +1,5 @@
 ---
+
 title: "Go! Solutions Carnivore Grain-Free, Protein Rich Dog Food"
 seo_title: "Go! Solutions Carnivore Dog Food Review: Protein-Rich, Grain-Free"
 meta_description: "Honest Go! Solutions Carnivore Grain-Free Dog Food review: protein-rich recipe, real meat first, picky eater results, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F2JKWFKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XE5Dwgx0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First five ingredients are all animal-based — deboned chicken, chicken meal, turkey meal, salmon meal, and deboned turkey — no plant protein fillers padding the formula"
   - "38% protein content is genuinely high; works well for active working breeds and dogs that struggle to hold weight on standard kibble"
   - "Zero grain, potato, tapioca, or carrageenan — a cleaner carbohydrate profile than many grain-free competitors in the same price bracket"
-cons:
+cons: 
   - "Transition period is rough for some dogs; multiple buyers report loose stools for the first week even when mixing gradually"
   - "The 25lb bag has a thin, resealable zipper that fails after a few opens — transfer to an airtight container immediately"
   - "At roughly $2.50–$3.00 per pound, it's pricier than comparable protein-forward kibble from Costco or Tractor Supply brands"
+
 ---
 
 ## Is This Actually a Carnivore Diet in a Kibble Bag?

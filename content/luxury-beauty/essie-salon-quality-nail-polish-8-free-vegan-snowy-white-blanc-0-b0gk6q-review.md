@@ -1,4 +1,5 @@
 ---
+
 title: "essie Salon-Quality Nail Polish, 8-Free Vegan, Snowy White,"
 seo_title: "essie Snowy White Nail Polish Review: 8-Free & Vegan"
 meta_description: "essie 8-Free vegan nail polish in Snowy White reviewed: formula, wear time, brush quality, and honest downsides from 220+ Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GK6QM96S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41XBf-fmfTL._SY355_PIbundle-2,TopRight,0,0_SX298SY355SH20_.jpg"
-pros:
+pros: 
   - "Genuinely 8-free formula with no toluene, formaldehyde, or camphor — clean enough for sensitive nail beds"
   - "Snowy White is a true opaque white in two coats, not streaky or chalky like many drugstore whites"
   - "Wide, flat brush makes one-stroke application achievable even for non-dominant hands"
-cons:
+cons: 
   - "Chips by day 3-4 without a top coat — this is not a week-long wear polish despite the salon claim"
   - "White pigment settles quickly in the bottle; requires vigorous shaking or you'll get clumpy, uneven coats"
   - "Price per ounce is steep compared to drugstore alternatives, and the small 0.33 fl oz bottle runs out fast if you do weekly manicures"
+
 ---
 
 White nail polish is a category where most brands fail spectacularly. Too chalky, too streaky, too translucent. The essie Salon-Quality 8-Free formula in Snowy White (officially shade "Blanc") sidesteps most of those traps — but not all of them. Here's the honest breakdown after digging through real customer experiences and the product specs.

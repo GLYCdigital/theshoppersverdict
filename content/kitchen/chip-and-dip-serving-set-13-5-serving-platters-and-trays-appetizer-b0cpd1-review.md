@@ -1,4 +1,5 @@
 ---
+
 title: "Chip and Dip Serving Set, 13.5 inch  Serving Platters and Trays,"
 seo_title: "Chip and Dip Serving Set Review: 13.5 inch  Trays Tested"
 meta_description: "Our honest chip and dip serving set review covers the 13.5-inch platters, durability, and real buyer feedback. See who should buy this appetizer tray set."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CPD1MZ87/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eTvQXfrtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "13.5-inch diameter gives generous serving space for large gatherings without needing multiple refills"
   - "Multiple compartments keep chips, dip, and veggies separated so nothing gets soggy"
   - "Sturdy construction that holds up to repeated dishwasher cycles without warping"
-cons:
+cons: 
   - "No lid or cover included, so leftovers need separate storage containers"
   - "Some buyers report the center dip bowl sits shallow and may not hold a full 16oz container"
   - "Larger footprint requires substantial counter or table space to set up comfortably"
+
 ---
 
 Here's the honest truth about this chip and dip set: it's not flashy, it's not fancy, but it does exactly what it promises — and for most hosts, that's worth the $20-30 you'll spend.

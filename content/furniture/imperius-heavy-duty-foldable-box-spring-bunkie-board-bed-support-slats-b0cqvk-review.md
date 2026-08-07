@@ -1,4 +1,5 @@
 ---
+
 title: "Imperius Heavy Duty Foldable Box Spring, Bunkie Board, Bed S"
 seo_title: "Imperius Heavy Duty Foldable Box Spring, Bunkie Bo Review"
 meta_description: "Our full imperius heavy duty foldable box spring, bunkie board, bed s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CQVK4LQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UYmgpZ4gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most bunkie boards are cheap particleboard wrapped in fabric that bends after six months. The Imperius Heavy Duty Foldable Box Spring is a different animal — a steel-frame alternative that actually tries to solve the sagging problem. But is it worth your money over a $40 plywood board? Here’s the breakdown after digging into the specs and real-world use.

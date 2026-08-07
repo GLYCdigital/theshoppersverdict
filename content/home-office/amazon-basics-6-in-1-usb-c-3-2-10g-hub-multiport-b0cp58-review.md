@@ -1,5 +1,6 @@
 ---
 
+
 title: "Amazon Basics 6-in-1 USB-C 3.2 (10G) Hub, Multiport Adapter"
 seo_title: "Amazon Basics 6-in-1 USB-C Hub Review (2026): Worth It?"
 meta_description: "Amazon Basics 6-in-1 USB-C 3.2 hub review: 10Gbps speeds, 4K HDMI, 100W PD. Real buyer feedback, port quality, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CP58HPYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712crHM11pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10Gbps data transfer on the USB-C data port and both USB-A ports — verified by multiple buyers, not just marketing specs"
   - "4K60 HDMI output that actually holds a stable signal, even with an extended desktop setup on M-series MacBooks"
   - "100W pass-through charging means the hub doesn't drain your laptop battery during heavy multi-port use"
-cons:
+cons: 
   - "The aluminum body runs noticeably hot during sustained file transfers or extended 4K output — concerning if you leave it plugged in 24/7 inch"
   - "Ethernet port is limited to 1Gbps, which is fine for most, but power users with 2.5G+ connections will hit a ceiling"
   - "No USB-C host cable included in the box — you must use the built-in 8-inch cable, which can strain tight setups"
+
 
 ---
 

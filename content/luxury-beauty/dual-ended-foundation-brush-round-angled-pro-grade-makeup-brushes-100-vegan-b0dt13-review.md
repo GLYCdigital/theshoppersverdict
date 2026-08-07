@@ -1,4 +1,5 @@
 ---
+
 title: "Dual-Ended Foundation Brush: Round & Angled Pro-Grade makeup"
 seo_title: "Dual-Ended Foundation Brush Review: Pro-Grade Round & Angled"
 meta_description: "Our honest review of the Dual-Ended Foundation Brush with round and angled pro-grade ends. Is this 4.6-star vegan brush worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT13S4JN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AkJpw9eNL._SL1500_.jpg"
-pros:
+pros: 
   - "Two brushes in one — the round end buffs liquid foundation to an airbrushed finish while the angled end precisely contours cheekbones and jawlines"
   - "Ultra-dense synthetic bristles don't absorb excess product, so you use noticeably less foundation per application"
   - "Feels genuinely premium in hand with a weighted aluminum ferrule and comfortable grip that doesn't slip mid-application"
-cons:
+cons: 
   - "No protective cap included — if you toss this in a makeup bag unprotected, the bristles will splay and lose their shape"
   - "The dual-ended design means you can't store it upright in a standard brush holder; it must lay flat, which takes up drawer space"
+
 ---
 
 Let's be honest about foundation brushes: most are either too flimsy to blend properly or so dense they drink your expensive foundation like a thirsty sponge. The Dual-Ended Foundation Brush from this pro-grade line sits in a rare middle ground — it actually performs like a tool, not an accessory.

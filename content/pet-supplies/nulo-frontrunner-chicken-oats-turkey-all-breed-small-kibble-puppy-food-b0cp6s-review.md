@@ -1,4 +1,5 @@
 ---
+
 title: "Nulo Frontrunner Chicken, Oats, & Turkey All Breed Small Kib"
 seo_title: "Nulo Frontrunner Chicken, Oats, & Turkey All Breed Review"
 meta_description: "Our full nulo frontrunner chicken, oats, & turkey all breed small kib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP6SQZLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XQQ1IwuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a small-breed puppy food that actually lists meat first, Nulo Frontrunner Chicken, Oats, & Turkey deserves a look. This isn't another bag of corn-and-filler kibble. It's a 32% protein formula built around chicken and turkey as the first two ingredients, with oats providing the carbohydrate backbone. For pet parents tired of deciphering vague "poultry meal" labels, this one's refreshingly transparent.

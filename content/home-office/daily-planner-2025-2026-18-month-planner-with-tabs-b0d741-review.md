@@ -1,4 +1,5 @@
 ---
+
 title: "Daily Planner 2025-2026 - 18 Month Planner with Tabs"
 seo_title: "Daily Planner 2025-2026 Review: 18-Month Tabs Worth It?"
 meta_description: "Daily Planner 2025-2026 review: 18-month layout, durable tabs, real paper quality. See pros, cons, and who should buy this 4.7-star planner."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D741T8G8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k6l6Gb7jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 100gsm paper handles fountain pens and heavy markers without bleed-through"
   - "Color-coded monthly tabs are reinforced and actually lie flat when flipping"
   - "Hourly breakdown from 7 AM to 9 PM on each daily page fits shift workers and students"
-cons:
+cons: 
   - "No built-in pen loop — you'll need a separate holder or clip"
   - "18-month span makes it bulky in small bags; the cover adds noticeable weight"
+
 ---
 
 ## The 18-Month Commitment That Actually Works

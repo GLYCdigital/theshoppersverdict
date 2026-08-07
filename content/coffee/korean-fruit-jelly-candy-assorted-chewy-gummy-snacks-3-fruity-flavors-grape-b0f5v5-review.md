@@ -1,4 +1,5 @@
 ---
+
 title: "Korean Fruit Jelly Candy â€“ Assorted Chewy Gummy Snacks â€“"
 seo_title: "Korean Fruit Jelly Candy â€“ Assorted Chewy Gummy  Review"
 meta_description: "Our full korean fruit jelly candy â€“ assorted chewy gummy snacks â€“ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F5V5RLG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sxQLtolOL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.2-star truth about this Korean jelly candy**

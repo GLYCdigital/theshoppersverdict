@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic NEOM McLaren Formula E Toy Cars - Building Toy "
 seo_title: "LEGO Technic NEOM McLaren Formula E Toy Cars - Bui Review"
 meta_description: "Our full lego technic neom mclaren formula e toy cars - building toy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY3XWPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lQ7gel+pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Technic NEOM McLaren Formula E car is the rare set that respects both halves of its name. It's genuinely *Technic* — with working rack-and-pinion steering and independent suspension — and it's genuinely *McLaren*, down to the lime green halo and the NEOM branding that's been impossible to escape if you've watched a single Formula E race since 2021.

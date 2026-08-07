@@ -1,4 +1,5 @@
 ---
+
 title: "DecoBasics Cabinet Hinges for Kitchen Cabinets -1/2 inch  Overlay"
 seo_title: "DecoBasics Cabinet Hinges Review: 1/2 inch  Overlay Self-Closing (2026)"
 meta_description: "Honest DecoBasics 1/2 inch  overlay cabinet hinge review: 4.6/5 rating. Real buyer feedback on self-closing action, adjustability, and installation. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XLF5HGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r4wxigVZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in soft-close mechanism works quietly and consistently across multiple doors without slamming"
   - "Three-way adjustable (up/down, left/right, in/out) with hex screws, not cheap cam locks"
   - "Zinc alloy construction with anti-rust coating holds up in humid bathrooms and kitchens"
-cons:
+cons: 
   - "Cup depth of 35mm requires a Forstner bit — no template included in the box"
   - "Screws provided are soft; several buyers stripped heads torquing into hardwood"
+
 ---
 
 **The 4.6-Star Hinge That's Quietly Taking Over Kitchen Renovations**

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports NCAA College Team Fabric Storage Cubes Made"
 seo_title: "Franklin Sports NCAA Storage Cubes Review (2026): Worth It?"
 meta_description: "Franklin Sports NCAA college team fabric storage cubes review: durability, fit, real user feedback. Are these 4.8-star cubes worth buying?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DMFC3QR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Mq09X+38L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Structured fabric walls hold their shape even when half-empty, unlike flimsy canvas bins that sag"
   - "Officially licensed team graphics that survive repeated washing without peeling or cracking"
   - "Reinforced stitching on handles rated for heavy loads — no tearing at the stress points"
-cons:
+cons: 
   - "Only fits standard 11-inch cube organizers — measure your shelf depth before buying"
   - "Fabric shows lint and pet hair quickly, especially on darker team color schemes"
+
 ---
 
 Let's be honest: most storage bins are ugly. They're functional, sure, but you're shoving them in a closet or under a bed where nobody has to look at them. The Franklin Sports NCAA Fabric Storage Cubes are different — these are meant to be seen. And that's exactly why they've earned a 4.8-star rating from 240 Amazon shoppers.

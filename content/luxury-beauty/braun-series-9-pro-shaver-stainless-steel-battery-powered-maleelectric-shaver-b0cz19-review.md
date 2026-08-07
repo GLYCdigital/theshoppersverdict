@@ -1,4 +1,5 @@
 ---
+
 title: "Braun Series 9 Pro+ Shaver Stainless Steel Battery Powered M"
 seo_title: "Braun Series 9 Pro+ Shaver Review: Worth It in 2026?"
 meta_description: "Our Braun Series 9 Pro+ shaver review covers real-world performance, build quality, and whether this premium stainless steel razor justifies the price."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZ19K9N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DqZ8uy6YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pro+ upgrade delivers noticeably closer shave on dense, multi-day growth compared to older Series 9 models"
   - "Stainless steel body with premium heft feels substantial and survives drops that would crack plastic rivals"
   - "AutoSense technology genuinely adapts power on-the-fly — no more tugging on coarse neck hair"
-cons:
+cons: 
   - "Replacement blades and foils run $60+ per set, making this a steep long-term investment"
   - "Cleaning station adds bulk and noise; you'll likely hand-rinse more often than you expect"
   - "No USB-C charging in 2026 feels dated for a flagship at this price point"
+
 ---
 
 # Braun Series 9 Pro+ Shaver: The Premium Electric Shave, Deconstructed

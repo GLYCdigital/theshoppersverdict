@@ -1,4 +1,5 @@
 ---
+
 title: "Stonemaier Games | Wingspan: Asia (standalone Expansion) | B"
 seo_title: "Stonemaier Games | Wingspan: Asia (standalone Expa Review"
 meta_description: "Our full stonemaier games | wingspan: asia (standalone expansion) | b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DPGBMJJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812noL4zLgL._AC_SL1369_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Wingspan: Asia** isn't just another expansion pack — it's the answer to two of the biggest complaints fans have had since 2019: the base game doesn't work well at 2 players, and it caps out at 5. This standalone expansion fixes both, and it does so with the same polish Stonemaier is known for.

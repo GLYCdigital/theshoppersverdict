@@ -1,4 +1,5 @@
 ---
+
 title: "Goodyear Extension Cord Reel Retractable 12AWG x 50' Feet 3C"
 seo_title: "Goodyear Extension Cord Reel Retractable 12AWG x 5 Review"
 meta_description: "Our full goodyear extension cord reel retractable 12awg x 50' feet 3c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B75LW6D3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J3ktPr2KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the preamble. If you're shopping for a retractable extension cord reel, you're tired of tripping over tangled 12-gauge runs in the garage or workshop. The Goodyear 12AWG x 50-foot model is one of the most popular options on Amazon — 4.7 stars from 235 ratings — and after digging through the specs and buyer feedback, here's what you actually need to know before handing over your money.

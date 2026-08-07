@@ -1,4 +1,5 @@
 ---
+
 title: "Donut Stop Flavored Coffee Pods, Compatible with 2.0 K-Cup B"
 seo_title: "Donut Stop Flavored Coffee Pods Review (2026): K-Cup Compatible"
 meta_description: "Honest Donut Stop Flavored Coffee Pods review: taste, strength, and K-Cup 2.0 compatibility. See if these 4.4-star pods are worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B54693JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qjv+n+szL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced flavor intensity — the donut shop taste reads as sweet vanilla-forward, not chemical or syrupy"
   - "Genuine Keurig 2.0 compatibility — no hacks or foil-peeling needed, which is rare for third-party pods"
   - "Consistent 8-10 oz brew strength across all flavors; no weak or watery cups reported"
-cons:
+cons: 
   - "Flavor variety skews sweet — if you prefer dark roast or earthy notes, these won't scratch that itch"
   - "A few reviewers noted the vanilla can linger in the brewer reservoir, so run a rinse cycle between flavors"
   - "No strength control — locked at standard brew, so you can't coax a bolder cup from these pods"
+
 ---
 
 # Donut Stop Flavored Coffee Pods Review: Worth the Hype?

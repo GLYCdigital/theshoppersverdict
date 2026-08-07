@@ -1,4 +1,5 @@
 ---
+
 title: "Acovy Floating Shelves"
 seo_title: "Acovy Floating Shelves Review: Worth It? (2026)"
 meta_description: "Honest Acovy Floating Shelves review: load capacity, mounting hardware, real buyer feedback. See if these wall shelves fit your space before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQTVPJNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71JL8lpA-QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden bracket system with 50+ lb per shelf rated capacity when anchored into studs"
   - "Pre-drilled mounting holes and included template paper simplify wall alignment"
   - "Rounded front edges and sealed finish resist chipping in high-traffic areas"
-cons:
+cons: 
   - "Drywall-only installation without studs drops safe capacity to roughly 15-20 lbs"
   - "Glossy finish shows fingerprints and dust more than matte alternatives"
+
 ---
 
 Floating shelves are one of those purchases where you don't realize how much bad engineering exists until you've mounted three different sets and one falls on your coffee mug. The Acovy Floating Shelves sit in a crowded market of lookalikes, but a 4.2-star average across 210 ratings tells you they're doing something right — and something wrong.

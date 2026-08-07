@@ -1,4 +1,5 @@
 ---
+
 title: "Fitgriff® Elite Straps - Lifting Wrist Straps (Rubber Grips"
 seo_title: "Fitgriff Elite Straps Review: Rubber Grip Wrist Straps for Lifting"
 meta_description: "Fitgriff Elite Straps review: Do rubber-grip lifting straps hold up under heavy deadlifts? Tested for grip, durability, and wrist support. See pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRGY78N3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w6XhDZpZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rubber grip pads add real traction — no more bar slippage on heavy deadlifts, even with sweaty palms"
   - "1.5-inch neoprene wrist padding distributes load evenly, reducing wrist strain during high-rep pulling work"
   - "Dual-stitched nylon webbing shows no fraying after months of heavy use, per multiple long-term owner reports"
-cons:
+cons: 
   - "Rubber grip sections add bulk — not ideal for lifters with smaller hands or those who prefer a bare-hand feel"
   - "Loop design is fixed, so you can't micro-adjust tightness mid-set without fully unthreading the strap"
+
 ---
 
 Let’s be blunt about lifting straps: most are either too flimsy to matter or so stiff they feel like bondage gear. The Fitgriff® Elite Straps sit in a sweet spot — they’re not revolutionary, but they solve the two biggest problems lifters actually have: grip failure and wrist pain. After digging through user feedback and the specs, here’s the real story.

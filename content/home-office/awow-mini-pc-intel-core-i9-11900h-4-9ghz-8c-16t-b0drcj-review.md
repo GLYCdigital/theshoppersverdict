@@ -1,4 +1,5 @@
 ---
+
 title: "AWOW Mini PC Intel Core i9-11900H(4.9GHz, 8C/16T)"
 seo_title: "AWOW Mini PC i9-11900H Review: 8-Core Power, Tiny Footprint"
 meta_description: "AWOW Mini PC with Intel Core i9-11900H (8C/16T, 4.9GHz) reviewed: performance benchmarks, thermals, real-world use, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRCJHC5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N4LUvo3PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 8-core/16-thread i9-11900H delivers desktop-class multi-threaded performance in a 4.5-inch chassis"
   - "Dual 2.5G Ethernet ports plus Wi-Fi 6E give serious networking flexibility for homelab or office setups"
   - "Tool-free access to 2x DDR4 SODIMM slots and dual M.2 NVMe slots makes upgrades genuinely painless"
-cons:
+cons: 
   - "Under sustained all-core load, the cooling fan becomes audible — expect a low whine above 60% fan speed"
   - "Integrated Intel UHD graphics are fine for office work but will struggle with anything beyond light photo editing"
   - "No USB4 or Thunderbolt port, so external GPU enclosure users should look elsewhere"
+
 ---
 
 ## The compact desktop that punches above its size class

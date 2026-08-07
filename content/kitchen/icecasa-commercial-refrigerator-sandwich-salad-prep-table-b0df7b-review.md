@@ -1,4 +1,5 @@
 ---
+
 title: "ICECASA Commercial Refrigerator Sandwich&Salad Prep Table"
 seo_title: "ICECASA Commercial Refrigerator Sandwich&Salad Pre Review"
 meta_description: "Our full icecasa commercial refrigerator sandwich&salad prep table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF7BGBJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sYI8HWugL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Cold Truth About the ICECASA Prep Table

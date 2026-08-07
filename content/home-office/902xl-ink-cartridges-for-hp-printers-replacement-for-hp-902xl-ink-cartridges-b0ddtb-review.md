@@ -1,4 +1,5 @@
 ---
+
 title: "902XL Ink Cartridges for HP Printers Replacement for HP 902X"
 seo_title: "902XL Ink Cartridges Review: Honest HP 902X Replacement"
 meta_description: "Are 902XL ink cartridges worth it? Read our hands-on review of this HP 902X replacement — print quality, page yield, and cost per page."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DDTB3Y6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LgNxpWZ4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full four-color set (black, cyan, magenta, yellow) at a fraction of HP OEM cost — roughly 40% less per page"
   - "Chipset recognized instantly by HP printers with zero installation issues reported across majority of reviews"
   - "Vivid color output on glossy photo paper — several buyers noted prints looked indistinguishable from OEM cartridges"
-cons:
+cons: 
   - "Reported page yield falls short of OEM 902XL ratings — expect closer to 80-85% of advertised 2,000 pages for black"
   - "Ink level monitoring can be unreliable — some users reported low-ink warnings appearing early despite physical ink remaining"
+
 ---
 
 Let's be honest about third-party ink: you're saving money, but you're gambling on quality control. This 902XL replacement set from a generic manufacturer at $23.89 for all four cartridges is a calculated bet that mostly pays off — with a few caveats you should know before checkout.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rao's Homemade Tomato Sauce, Roasted Garlic"
 seo_title: "Rao's Homemade Tomato Sauce, Roasted Garlic Review: Verdi"
 meta_description: "Our full rao's homemade tomato sauce, roasted garlic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FFHNW3BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Rao's Homemade Tomato Sauce, Roasted Garlic"
 seo_title: "Rao's Roasted Garlic Sauce Review: Worth It? (2026)"

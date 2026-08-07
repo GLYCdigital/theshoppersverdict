@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrish Grain Free Wet Cat Food"
 seo_title: "Nutrish Grain Free Wet Cat Food Review: Verdict | TSV"
 meta_description: "Our full nutrish grain free wet cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FG37KNL3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qh4G3JeeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the pet food aisle wondering whether you're overpaying for marketing or underpaying for nutrition, Nutrish Grain Free Wet Cat Food sits in a genuinely interesting middle ground. This is Rachael Ray's brand, but don't let the celebrity name fool you — the ingredient list actually holds up.

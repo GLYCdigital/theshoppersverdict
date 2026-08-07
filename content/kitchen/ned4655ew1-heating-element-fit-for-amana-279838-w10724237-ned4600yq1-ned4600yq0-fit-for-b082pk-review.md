@@ -1,4 +1,5 @@
 ---
+
 title: "NED4655EW1 Heating Element fit for Amana 279838 W10724237 NE"
 seo_title: "NED4655EW1 Heating Element fit for Amana 279838 W1 Review"
 meta_description: "Our full ned4655ew1 heating element fit for amana 279838 w10724237 ne review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B082PKPJ5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813ZxCvT-RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 fix that saves you a $200 service call

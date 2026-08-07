@@ -1,4 +1,5 @@
 ---
+
 title: "COSTWAY Portable Twin Tub Laundry Washer, 26lbs Capacity, 18 inch"
 seo_title: "COSTWAY Portable Twin Tub Washer Review: 26lbs Capacity"
 meta_description: "COSTWAY portable twin tub washer review: 26lbs capacity, 18lbs wash/8lbs spin. Real pros, cons & verdict for apartments, RVs, dorms."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CNXRYNZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r2DP-L7WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-tub design lets you wash and spin simultaneously, cutting total laundry time roughly in half"
   - "Genuine 18lbs wash / 8lbs spin capacity — handles a queen-sized sheet set or a week of one person's clothes"
   - "Compact footprint (about the size of a small cooler) rolls on casters, stores in a closet when not in use"
-cons:
+cons: 
   - "No spin-drain pump — you must manually transfer wet clothes to the spinner, and the drain hose needs gravity (elevate the unit)"
   - "Fill and drain via garden hose attachment; you'll need a sink adapter (not included) for most apartment setups"
   - "Timer is mechanical, not digital — you'll be guessing at cycle times beyond the preset 15-minute max"
+
 ---
 
 If you're staring down a stack of laundry and a coin-op machine that eats $3 per load, the COSTWAY Portable Twin Tub is the kind of product that makes you question why you didn't buy one sooner. This 26lbs-capacity unit (18lbs wash, 8lbs spin) is aimed squarely at apartment dwellers, RV owners, and anyone tired of laundromats. It's not a full-size washer replacement — but for a single person or couple, it's close.

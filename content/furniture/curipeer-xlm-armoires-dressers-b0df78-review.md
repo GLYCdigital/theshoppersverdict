@@ -1,4 +1,5 @@
 ---
+
 title: "Curipeer XLM Armoires Dressers"
 seo_title: "Curipeer XLM Armoires Dressers Review: Is It Worth It?"
 meta_description: "Read our honest Curipeer XLM Armoires Dressers review. See pros, cons, build quality, and who should buy this 4.5-star rated furniture piece."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF782J3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+xKYGKyaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid engineered wood construction with a smooth, splinter-free finish that feels more expensive than the price point"
   - "Versatile hybrid design combines three drawers with two cabinet compartments, giving you both concealed and open storage options"
   - "Assembly is straightforward with labeled parts and clear instructions — most buyers report completing it solo in under an hour"
-cons:
+cons: 
   - "Back panel is thin and requires careful handling during assembly; it can warp if you overtighten the screws"
   - "Cabinet doors lack soft-close hinges, so they can slam shut if you're not deliberate about closing them"
+
 ---
 
 # Curipeer XLM Armoires Dressers: The Hybrid Storage Solution That Actually Works

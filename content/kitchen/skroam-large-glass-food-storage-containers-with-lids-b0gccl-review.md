@@ -1,4 +1,5 @@
 ---
+
 title: "Skroam Large Glass Food Storage Containers with Lids"
 seo_title: "Skroam Large Glass Food Storage Containers with Li Review"
 meta_description: "Our full skroam large glass food storage containers with lids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GCCLCVWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g1WtJ-GtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've been burned before by "glass" containers that shatter in the microwave or lids that pop off in your work bag. The Skroam Large Glass Food Storage Containers claim to solve both problems. After digging through 235 verified ratings and the spec sheet, here's what you actually need to know before adding these to your cart.

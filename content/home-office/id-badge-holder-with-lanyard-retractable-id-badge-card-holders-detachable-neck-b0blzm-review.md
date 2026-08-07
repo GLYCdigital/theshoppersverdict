@@ -1,4 +1,5 @@
 ---
+
 title: "ID Badge Holder with Lanyard,Retractable ID Badge Card Holde"
 seo_title: "ID Badge Holder with Lanyard,Retractable ID Badge  Review"
 meta_description: "Our full id badge holder with lanyard,retractable id badge card holde review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLZMLMCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AOPBRR8pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you're not shopping for excitement here. You need something that keeps your badge from swinging into your keyboard for the eighth time today, and you don't want to replace it in three months. This retractable ID badge holder with detachable lanyard does that — and mostly does it well.

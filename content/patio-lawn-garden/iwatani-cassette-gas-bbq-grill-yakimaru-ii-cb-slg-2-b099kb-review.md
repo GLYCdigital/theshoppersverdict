@@ -1,4 +1,5 @@
 ---
+
 title: "Iwatani Cassette Gas BBQ Grill YAKIMARU II, CB-SLG-2"
 seo_title: "Iwatani Cassette Gas BBQ Grill YAKIMARU II, CB-SLG Review"
 meta_description: "Our full iwatani cassette gas bbq grill yakimaru ii, cb-slg-2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B099KBQF4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dLDgx61HL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Iwatani YAKIMARU II isn't trying to replace your backyard kettle grill. It's aiming at something narrower: high-heat, tabletop cooking with zero fuss. And for that specific job, it's one of the best portable gas grills you can buy right now.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lightdot Floor Lamp for Living Room, Mid Century Modern Stan"
 seo_title: "Lightdot Floor Lamp for Living Room, Mid Century M Review"
 meta_description: "Our full lightdot floor lamp for living room, mid century modern stan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GGZ5X8GN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+EsRcytQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lightdot Floor Lamp: Mid-Century Looks Without the Mid-Century Price Tag**

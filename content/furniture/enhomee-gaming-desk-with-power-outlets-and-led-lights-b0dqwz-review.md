@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee Gaming Desk with Power Outlets and LED Lights"
 seo_title: "EnHomee Gaming Desk Review: Power Outlets & LED Lights (2026)"
 meta_description: "Honest EnHomee gaming desk review: 4.5-star rated with built-in power outlets, LED lights & sturdy steel frame. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQWZC9L4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IFnMhP2JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in 3-outlet power strip with 2 USB ports routed through a cable management tray — no more wall-hugging for chargers"
   - "Carbon fiber-textured waterproof surface resists spills and is easy to wipe clean after long sessions"
   - "48-inch wide desktop with a heavy-duty steel frame rated for 220 lbs, including a monitor riser for dual-screen setups"
-cons:
+cons: 
   - "LED lights are not individually addressable — single-color cycling only, no app control or custom patterns"
   - "Assembly takes 30-45 minutes with clear but small-print instructions; you'll need a Phillips screwdriver"
   - "Power outlets are located on the right side only — left-handed users may find cable routing awkward"
+
 ---
 
 **The EnHomee Gaming Desk isn't trying to reinvent the wheel. It's trying to make the wheel more convenient — and for the most part, it succeeds.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Panasonic WhisperGreen Select Ceiling Mount Exhaust Fan, Cus"
 seo_title: "Panasonic WhisperGreen Select Ceiling Mount Exhaus Review"
 meta_description: "Our full panasonic whispergreen select ceiling mount exhaust fan, cus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSYJ3VV9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61icnFyeq7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a bathroom that smells like a gym locker room an hour after a shower, you know the problem isn't the exhaust fan's motor — it's the CFM rating. Most builders install 50–80 CFM units that are underpowered for the space. Panasonic's WhisperGreen Select fixes that with a dial on the motor housing that lets you choose 110, 130, or 150 cubic feet per minute. That's the headline feature, and for once, it's not marketing fluff.

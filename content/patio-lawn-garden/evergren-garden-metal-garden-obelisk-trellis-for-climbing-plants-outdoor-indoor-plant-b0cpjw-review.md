@@ -1,4 +1,5 @@
 ---
+
 title: "Evergren Garden Metal Garden Obelisk Trellis for Climbing Pl"
 seo_title: "Evergren Metal Obelisk Trellis Review: Sturdy Garden Support"
 meta_description: "Honest Evergren Garden Metal Obelisk Trellis review: build quality, real-world use, and who should buy. 4.4-star rated garden support for climbing plants."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPJW9CPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E0nCxinmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Welded crossbars create a rigid pyramid that doesn't rack or wobble even when loaded with heavy vines"
   - "Powder-coated finish resists chipping and rust through multiple seasons of outdoor exposure"
   - "Pointed base legs press into soil for tool-free installation that stays anchored in wind"
-cons:
+cons: 
   - "Top finial is purely decorative and adds height without additional climbing surface"
   - "Paint can scratch during shipping — inspect before planting, touch up with exterior enamel"
+
 ---
 
 If you've ever watched a flimsy bamboo teepee collapse under the weight of a mature clematis, you know the value of a trellis that actually stands up. The Evergren Garden Metal Obelisk Trellis is built to be that permanent solution — a welded steel pyramid that gives climbing plants a rigid framework without requiring you to anchor it to a wall or fence.

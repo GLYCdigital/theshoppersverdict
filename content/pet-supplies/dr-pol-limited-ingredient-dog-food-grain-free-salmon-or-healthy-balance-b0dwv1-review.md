@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Pol Limited Ingredient Dog Food - Grain Free Salmon or H"
 seo_title: "Dr. Pol Limited Ingredient Dog Food Review (2026): Salmon or H"
 meta_description: "Honest Dr. Pol Limited Ingredient Dog Food review. We analyze the grain-free salmon recipe, ingredient quality, and real owner feedback. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DWV1YNLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CI+EaIH-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single animal protein source (salmon) with no chicken, beef, or dairy — a solid choice for dogs with common food sensitivities"
   - "Grain-free formula uses peas and sweet potatoes as carbohydrate sources rather than corn, wheat, or soy fillers"
   - "Omega-3 and omega-6 fatty acids from salmon support coat condition and joint health in senior dogs"
-cons:
+cons: 
   - "Bag size options are limited compared to mainstream brands; larger households may need to buy multiple bags"
   - "Transition period can cause loose stools in some dogs — plan a 7-10 day gradual switch, especially if coming from a chicken-based food"
+
 ---
 
 **The Review**

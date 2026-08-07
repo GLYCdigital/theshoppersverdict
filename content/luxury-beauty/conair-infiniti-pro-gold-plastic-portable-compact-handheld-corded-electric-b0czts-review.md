@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR Infiniti Pro,Gold Plastic Portable Compact Handheld C"
 seo_title: "CONAIR Infiniti Pro Gold Compact Dryer Review (2026)"
 meta_description: "Honest CONAIR Infiniti Pro Gold compact handheld dryer review: power, portability, and where it falls short. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CZTSK517/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AywCJjTiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1875-watt motor delivers salon-level heat and airflow in a body that's roughly the size of a water bottle"
   - "The gold ceramic coating glides smoothly and distributes heat evenly, cutting dry time noticeably on thick hair"
   - "Foldable handle with a hanging loop makes it genuinely travel-friendly — fits in a toiletry bag without bulging"
-cons:
+cons: 
   - "The gold finish is cosmetic only — the plastic housing scuffs and shows fingerprints almost immediately"
   - "Only two heat settings and one speed; no cool-shot button, which limits styling control for finer hair types"
+
 ---
 
 Let’s be honest about the CONAIR Infiniti Pro Gold Plastic Portable Compact Handheld dryer: it’s a study in contradictions. At first glance, the gold exterior screams luxury. In practice, it’s a compact workhorse that’s more about function than flash — and that’s not necessarily a bad thing.

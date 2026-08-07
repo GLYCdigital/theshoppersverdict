@@ -1,4 +1,5 @@
 ---
+
 title: "Biolage Hydra Source Shampoo - Softens, Moisturizes & Adds S"
 seo_title: "Biolage Hydra Source Shampoo Review: Real Results for Dry Hair"
 meta_description: "Honest Biolage Hydra Source Shampoo review: Does it truly moisturize dry hair? Real user feedback, ingredient analysis, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTNQ2CYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fq2RBnLTL._SL1500_.jpg"
-pros:
+pros: 
   - "Aloe vera as the hero ingredient actually delivers visible softness from the first wash, not just marketing claims"
   - "Sulfate-free formula cleanses without stripping color-treated or chemically processed hair"
   - "Salon-quality lather in a drugstore-accessible price range — a rare combination"
-cons:
+cons: 
   - "The fragrance is strong and lingers; sensitive noses may find it overwhelming"
   - "Thicker, coarser hair types may need a second pass or a deep conditioner paired with it"
+
 ---
 
 Let me be direct: most "hydrating" shampoos are just watered-down detergents with a pretty label. The Biolage Hydra Source Shampoo isn't that. This is the real deal for anyone fighting parched, straw-like strands.

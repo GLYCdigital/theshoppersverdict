@@ -1,4 +1,5 @@
 ---
+
 title: "Eco Style Ecoco Gel Oil Oz"
 seo_title: "Eco Style Ecoco Gel Oil Review: Worth It? (2026)"
 meta_description: "Honest Eco Style Ecoco Gel Oil review: Does this 4.5-star styling gel deliver hold without crunch? Tested pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZST8MGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bugbV-D6L._SL1500_.jpg"
-pros:
+pros: 
   - "Infused with argan and coconut oils that visibly tame frizz while locking in hold — dual action most gels miss"
   - "Flake-free formula even after 12+ hours of wear, which is rare in the eco-friendly styling category"
   - "Stronghold that doesn't require reapplying mid-day, even in humid conditions"
-cons:
+cons: 
   - "Thick consistency makes it tricky to distribute evenly through fine or thin hair without weighing it down"
   - "The 8-ounce jar runs $21.60 — roughly 30% pricier than comparable eco gels on the market"
   - "Scent leans heavily coconut; if you prefer fragrance-free styling products, this will bother you"
+
 ---
 
 Let's be direct: most "eco" styling gels are either too weak to hold anything or leave your hair feeling like a science experiment. The Eco Style Ecoco Gel Oil Oz sits in a rare middle ground — it actually works. With a 4.5-star average across 225 ratings, it's clearly resonating with buyers. But at $21.60 for an 8-ounce jar, you're paying a premium. Here's what that money gets you.

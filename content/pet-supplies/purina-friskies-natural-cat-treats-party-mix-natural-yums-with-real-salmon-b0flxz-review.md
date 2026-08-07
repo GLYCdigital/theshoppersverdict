@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Natural Cat Treats, Party Mix Natural YUMS w"
 seo_title: "Purina Friskies Natural Cat Treats, Party Mix Natu Review"
 meta_description: "Our full purina friskies natural cat treats, party mix natural yums w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FLXZCR7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PqQXbJioL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cat treats: most of them are junk. Wheat fillers, artificial colors, and "meat" that's really just rendered mystery parts. So when a big brand like Purina puts out a "Natural" line, the skeptic in me pays attention.

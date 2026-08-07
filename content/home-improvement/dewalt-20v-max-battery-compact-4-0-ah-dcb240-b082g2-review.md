@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* Battery, Compact, 4.0-Ah (DCB240)"
 seo_title: "DEWALT 20V MAX Compact 4.0-Ah Battery Review (DCB240)"
 meta_description: "Honest DEWALT DCB240 review: compact 4.0-Ah battery tested for runtime, weight, and compatibility. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B082G2ZZKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X009WSOcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weighs noticeably less than the 5.0-Ah DCB205 while delivering 80% of the runtime"
   - "Fits in tight spaces where larger batteries snag — under cabinets and in corners"
   - "Fuel gauge on the pack gives accurate readouts, not the usual guesswork"
-cons:
+cons: 
   - "No battery charge indicator light on the tool itself — you must check the pack"
   - "Runtime gap vs. the 6.0-Ah is real if you're running high-drain tools all day"
+
 ---
 
 Let’s cut through the spec-sheet noise. The DEWALT DCB240 is the battery you buy when you’re tired of lugging a brick on your drill but not ready to sacrifice a full shift of runtime. It’s the Goldilocks option in DEWALT’s 20V MAX lineup — and for most homeowners and pros doing light-to-moderate work, it’s the sweet spot.

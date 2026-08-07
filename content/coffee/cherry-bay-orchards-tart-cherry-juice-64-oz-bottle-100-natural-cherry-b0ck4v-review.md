@@ -1,4 +1,5 @@
 ---
+
 title: "Cherry Bay Orchards Tart Cherry Juice (64 oz Bottle) - 100%"
 seo_title: "Cherry Bay Orchards Tart Cherry Juice Review (2026): Worth It?"
 meta_description: "Honest Cherry Bay Orchards Tart Cherry Juice review: 100% Montmorency, 64 oz. Taste, sleep benefits, sugar content, and value compared."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CK4VXLHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v2W98Y63L._SL1500_.jpg"
-pros:
+pros: 
   - "100% Montmorency tart cherry juice with zero added sugar, water, or preservatives"
   - "64 oz bottle delivers roughly 8 servings at a competitive per-ounce price"
   - "Consistent tart flavor that actually tastes like cherries, not syrup"
-cons:
+cons: 
   - "Must be refrigerated after opening and has a short 2-3 week shelf life once opened"
   - "Strong tartness may be off-putting for those expecting sweet cherry juice"
   - "No concentrate — but that means you pay for shipping heavy glass bottles"
+
 ---
 
 Let's get one thing straight: this is not a coffee maker. It's not even coffee gear. But if you're here, you probably already know that — and you're looking for a straight answer on whether Cherry Bay Orchards' 64 oz bottle of 100% tart cherry juice is worth your money. I've tested it, I've read through the 225 Amazon ratings, and here's the real story.

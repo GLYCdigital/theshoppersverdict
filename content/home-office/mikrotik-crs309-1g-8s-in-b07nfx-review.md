@@ -1,4 +1,5 @@
 ---
+
 title: "MikroTik CRS309-1G-8S+in"
 seo_title: "MikroTik CRS309-1G-8S+in Review: Verdict | TSV"
 meta_description: "Our full mikrotik crs309-1g-8s+in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NFXN4SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ji+JdFA8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your home lab or small office has outgrown gigabit, the MikroTik CRS309-1G-8S+in is the quietest way to jump to 10G without taking out a second mortgage. As shown in the product image, this is a compact 19-inch rackmount switch — just 11 inches deep and 1U tall — with a fanless aluminum case that weighs barely over a pound. But the real story is inside: eight SFP+ ports running at 10Gbps each, plus a single gigabit RJ45 port for management access.

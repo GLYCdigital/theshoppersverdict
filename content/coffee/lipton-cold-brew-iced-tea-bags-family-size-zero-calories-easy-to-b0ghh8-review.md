@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Cold Brew Iced Tea Bags, Family Size Zero Calories, E"
 seo_title: "Lipton Cold Brew Iced Tea Bags, Family Size Zero C Review"
 meta_description: "Our full lipton cold brew iced tea bags, family size zero calories, e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHH83LHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IoXkpQ5GL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Lipton Cold Brew Iced Tea Bags, Family Size Zero Calories, E"
 seo_title: "Lipton Cold Brew Iced Tea Bags Review: Real Taste, No Heat"

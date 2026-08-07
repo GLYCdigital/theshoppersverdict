@@ -1,4 +1,5 @@
 ---
+
 title: "Cowdog Chews Retriever Roll 9-10 inch All Natural Rawhide Do"
 seo_title: "Cowdog Chews Retriever Roll Review: 9-10 inch  Rawhide for Dogs"
 meta_description: "Honest Cowdog Chews Retriever Roll review: 9-10 inch  natural rawhide chew. 4.4/5 stars from 220 ratings. Pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08D32G9ZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QbKSPfl8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made from single-ingredient, all-natural rawhide — no bleaches or chemicals, which is rare at this price point"
   - "9-10 inch size suits medium-to-large breeds and aggressive chewers, lasting several sessions"
   - "Dense rolled construction keeps dogs engaged longer than flat rawhide strips"
-cons:
+cons: 
   - "Can get slimy and leave residue on carpets or furniture as your dog works it down"
   - "Not suitable for puppies under 6 months or dogs with sensitive stomachs — monitor first use"
   - "Smell is noticeable, though most dogs find it appealing"
+
 ---
 
 # Cowdog Chews Retriever Roll 9-10 Inch Review: Is This Natural Rawhide Worth It?

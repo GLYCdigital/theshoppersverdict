@@ -1,4 +1,5 @@
 ---
+
 title: "TineDew Large Clear Nursery Pot"
 seo_title: "TineDew Large Clear Nursery Pot Review: Verdict | TSV"
 meta_description: "Our full tinedew large clear nursery pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQ43ZBS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I6pwr7OiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **TineDew Large Clear Nursery Pot** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

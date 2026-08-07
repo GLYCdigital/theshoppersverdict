@@ -1,4 +1,5 @@
 ---
+
 title: "Fanbulous Ceiling Fans with Lights and Remote,46 Inch Modern"
 seo_title: "Fanbulous 46 Inch Ceiling Fan Review: Quiet & Smart"
 meta_description: "Fanbulous 46-inch ceiling fan with lights and remote review: quiet motor, 6 speeds, dimmable LEDs. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DNF94Q2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RHI3pQTVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "DC motor delivers genuinely quiet operation at 6 speeds, with a reverse function for year-round use"
   - "Integrated 24W dimmable LED light (3000K-6000K color temp) eliminates the need for separate bulbs"
   - "Compact 46-inch sweep fits bedrooms, offices, and smaller living spaces where 52-inch fans overwhelm"
-cons:
+cons: 
   - "Remote is required for all functions — no pull chains means you lose control if the remote goes missing"
   - "Installation requires two people; the canopy and motor housing alignment is finicky on sloped ceilings"
+
 ---
 
 If you’ve been scrolling through the endless sea of ceiling fans on Amazon, you’ve probably noticed the Fanbulous 46-inch model with its clean, minimalist profile and integrated LED ring. It’s priced to compete with budget fans, but the specs sheet reads like something from a premium brand: DC motor, six speeds, dimmable lighting, and a memory function that remembers your last settings. After digging through 204 ratings and the technical details, here’s what actually matters before you buy.

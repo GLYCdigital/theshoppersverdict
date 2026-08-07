@@ -1,4 +1,5 @@
 ---
+
 title: "IOTXY Solid Wood Writing Desk - Home Office Workbench Desk w"
 seo_title: "IOTXY Solid Wood Writing Desk - Home Office Workbe Review"
 meta_description: "Our full iotxy solid wood writing desk - home office workbench desk w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BG8TNCGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Os-EJpE6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most desks under $200 are glorified cardboard. The IOTXY Solid Wood Writing Desk is not that. It’s a legitimate hardwood top bolted to a steel frame, and that alone puts it ahead of 80% of what Amazon sells in this category. But is it the right desk for *your* setup? Here’s what 220 buyers and my own teardown of the specs reveal.

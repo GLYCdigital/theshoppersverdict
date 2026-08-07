@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER Double Take Liquid Foundation | Medium to Full "
 seo_title: "LAURA GELLER Double Take Liquid Foundation | Mediu Review"
 meta_description: "Our full laura geller double take liquid foundation | medium to full  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CCXG12BS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MUfjlC1bL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the before-and-afters. The LAURA GELLER Double Take Liquid Foundation promises medium-to-full coverage with a natural matte finish — and at 4.3 stars across 215 Amazon ratings, it's clearly delivering for a lot of people. But here's what the marketing doesn't tell you: this isn't a one-size-fits-all formula. It's a specific tool for a specific skin type, and knowing which camp you're in before you buy will save you a return trip.

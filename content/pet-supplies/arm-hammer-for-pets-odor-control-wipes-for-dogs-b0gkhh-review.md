@@ -1,4 +1,5 @@
 ---
+
 title: "Arm & Hammer for Pets Odor Control Wipes for Dogs"
 seo_title: "Arm & Hammer Odor Control Dog Wipes Review (2026)"
 meta_description: "Honest Arm & Hammer for Pets Odor Control Wipes review: Do these dog wipes actually neutralize smells? Tested for coverage, durability, and scent."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKHH52VY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lYdia+clL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Baking soda-based formula actually neutralizes odors at the source rather than just masking them with perfume"
   - "Large 9x9-inch wipes are thick enough to handle muddy paws and post-walk grime without tearing mid-wipe"
   - "Fragrance-free option available for dogs with sensitive noses or skin allergies"
-cons:
+cons: 
   - "Wipes can dry out quickly if the resealable tab isn't pressed down firmly after every use"
   - "Not formulated for use on the face — you'll still need a separate solution for tear stains or eye area cleaning"
   - "Packaging is bulky; doesn't fit easily in a standard glove box or small walking bag"
+
 ---
 
 If you've ever tried to wipe down a muddy golden retriever with a flimsy baby wipe, you know the struggle: the wipe shreds, the dirt spreads, and the smell lingers no matter what you do. Arm & Hammer's Odor Control Wipes for Dogs are engineered to solve both problems at once. After testing these on a wet, grass-stained border collie and a notoriously stinky senior hound, here's the honest breakdown.

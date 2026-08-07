@@ -1,4 +1,5 @@
 ---
+
 title: "Open Farm Freeze Dried Raw Cat Morsels"
 seo_title: "Open Farm Freeze Dried Raw Cat Morsels Review: Verdict | "
 meta_description: "Our full open farm freeze dried raw cat morsels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D18982R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n6f+3R4KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me tell you something that might surprise you: your cat doesn't need kibble. And if you've been reading ingredient labels lately, you already suspect it. Open Farm's Freeze Dried Raw Cat Morsels is the brand that finally made me feel okay about saying that out loud — but it's not without its caveats.

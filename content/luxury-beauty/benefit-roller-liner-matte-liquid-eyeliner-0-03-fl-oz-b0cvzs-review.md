@@ -1,4 +1,5 @@
 ---
+
 title: "Benefit Roller Liner Matte Liquid Eyeliner 0.03 Fl Oz"
 seo_title: "Benefit Roller Liner Matte Review: Precision Tip & Wear Test"
 meta_description: "Honest Benefit Roller Liner Matte review: ultra-precise felt tip, 12-hour wear, and smudge resistance tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVZS4MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31+sk7WCb1L._SL1000_.jpg"
-pros:
+pros: 
   - "Ultra-fine felt tip delivers hair-thin lines without dragging or skipping, even on mature eyelids"
   - "True matte finish dries down completely — no shine, no transfer onto hooded lid creases"
   - "Stays put through sweat, tears, and oily lids for 10-12 hours without flaking"
-cons:
+cons: 
   - "0.03 fl oz is only about 2-3 months of daily use — expensive per application"
   - "Tip can dry out if you don't cap it immediately after every use"
+
 ---
 
 The eyeliner graveyard is full of pens that promised precision and delivered raccoon eyes by noon. Benefit's Roller Liner Matte has earned its 4.6-star rating across 229 Amazon reviews for one simple reason: it actually works. But at this price point for a 0.03 fl oz pen, you need to know exactly what you're getting before you commit.

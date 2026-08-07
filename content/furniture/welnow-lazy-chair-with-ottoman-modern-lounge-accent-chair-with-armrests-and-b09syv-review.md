@@ -1,4 +1,5 @@
 ---
+
 title: "Welnow Lazy Chair with Ottoman, Modern Lounge Accent Chair w"
 seo_title: "Welnow Lazy Chair with Ottoman, Modern Lounge Acce Review"
 meta_description: "Our full welnow lazy chair with ottoman, modern lounge accent chair w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09SYVWSG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QxSRyLfyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Welnow Lazy Chair isn't a lazy-boy recliner, and that's exactly why it works.**

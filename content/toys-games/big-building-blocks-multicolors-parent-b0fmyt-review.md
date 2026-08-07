@@ -1,4 +1,5 @@
 ---
+
 title: "Big Building Blocks - Multicolors - Parent"
 seo_title: "Big Building Blocks Multicolors Review: Worth It? (2026)"
 meta_description: "Honest Big Building Blocks Multicolors review: size, durability, safety, and value. See what 240+ Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FMYT5SVZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P3nsYDYpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-large block size (fits toddler hands, prevents choking hazards)"
   - "Durable, thick plastic that survives drops and chewing without cracking"
   - "Vibrant multicolor set that holds kids' attention during solo play"
-cons:
+cons: 
   - "Blocks can be slippery on hard floors — towers slide apart on tile or wood"
   - "No storage bag or bin included, so pieces scatter quickly"
   - "Limited variety in block shapes (mostly cubes and rectangles, few special pieces)"
+
 ---
 
 **Big Building Blocks - Multicolors - Parent Review: Big on Fun, Small on Frustration**

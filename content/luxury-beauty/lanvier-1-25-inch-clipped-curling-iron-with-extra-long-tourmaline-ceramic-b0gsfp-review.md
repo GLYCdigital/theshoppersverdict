@@ -1,4 +1,5 @@
 ---
+
 title: "Lanvier 1.25 Inch Clipped Curling Iron with Extra Long Tourm"
 seo_title: "Lanvier 1.25 Inch Clipped Curling Iron with Extra  Review"
 meta_description: "Our full lanvier 1.25 inch clipped curling iron with extra long tourm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GSFPY4W7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FXqI-8ieL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Long-Barrel Curling Iron That Actually Earns the "Extra Long" Label

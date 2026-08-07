@@ -1,5 +1,6 @@
 ---
 
+
 title: "ColourPop Pretty Fresh Tinted Moisturizer - Hydrating Skin T"
 seo_title: "ColourPop Pretty Fresh Tinted Moisturizer Review (2026): Hydrating, Lightweight"
 meta_description: "Honest ColourPop Pretty Fresh Tinted Moisturizer review: lightweight coverage, hyaluronic acid hydration, 24 shades. See pros, cons, and if it's worth buying."
@@ -12,13 +13,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHJBNH9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61svyv1qigL._SL1500_.jpg"
-pros:
+pros: 
   - "Hyaluronic acid and coconut water in the formula give genuine all-day hydration — no dry patches by hour 8 inch"
   - "24-shade range with olive and neutral undertones that actually match medium and tan skin tones"
   - "Squeeze tube with flip cap dispenses exactly the right amount — no pump clogging or wasted product"
-cons:
+cons: 
   - "Coverage is truly sheer — won't hide active breakouts, dark spots, or redness without a separate concealer"
   - "Dewy finish can look greasy on oily skin types by midday unless you powder heavily"
+
 
 ---
 

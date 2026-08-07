@@ -1,4 +1,5 @@
 ---
+
 title: "AreShark Patio Umbrella with Solar Lights 32 LED LightedTabl"
 seo_title: "AreShark Patio Umbrella Review: 32 LED Solar Lights (2026)"
 meta_description: "AreShark patio umbrella with 32 LED solar lights reviewed: brightness, build quality, tilt function, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G592KYX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515uoufwmbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in 32 LED solar lights eliminate the need for separate string lights or extension cords"
   - "Double canopy with air vent reduces heat buildup and prevents wind inversion damage"
   - "Push-button tilt with 4 preset angles gives flexible sun coverage throughout the day"
-cons:
+cons: 
   - "Solar panel placement on top of canopy means lights dim significantly on overcast days"
   - "Pole diameter (1.5 inches) requires a compatible base — not universal fit"
   - "No built-in table or side table option despite the name suggesting otherwise"
+
 ---
 
 You know that moment when the sun drops below the treeline and your patio suddenly becomes useless because you can't see your drink, let alone your guests? The AreShark Patio Umbrella with 32 LED solar lights tries to solve that exact problem — and mostly succeeds. After digging through 220 ratings and the spec sheet, here's the honest breakdown.

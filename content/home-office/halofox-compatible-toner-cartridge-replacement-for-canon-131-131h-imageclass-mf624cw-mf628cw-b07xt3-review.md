@@ -1,4 +1,5 @@
 ---
+
 title: "HaloFox Compatible Toner Cartridge Replacement for Canon 131"
 seo_title: "HaloFox Compatible Toner Cartridge Replacement for Review"
 meta_description: "Our full halofox compatible toner cartridge replacement for canon 131 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07XT3LHHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D5Ws2km0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: Canon's OEM 131 toner cartridges will run you about $110 a pop. That's brutal when you're running a small office or a home workspace that chews through a cartridge every couple of months. The HaloFox compatible replacement lands at $45.97 — less than half the price — and claims to match the 1,800-page yield. After putting it through real-world testing and digging through 204 Amazon ratings, here's the honest picture.

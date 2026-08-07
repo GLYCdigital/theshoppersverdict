@@ -1,7 +1,8 @@
 ---
-title: "GHB Agility Hurdles 8\" Speed Agility Training Hurdles, Detac"
-seo_title: "GHB Agility Hurdles 8\" Speed Agility Training Hurd Review"
-meta_description: "Our full ghb agility hurdles 8\" speed agility training hurdles, detac review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "GHB Agility Hurdles 8\ Speed Agility Training Hurdles, Detac"
+seo_title: "GHB Agility Hurdles 8\ Speed Agility Training Hurd Review"
+meta_description: "Our full ghb agility hurdles 8\ speed agility training hurdles, detac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ghb-agility-hurdles-8-speed-agility-training-hurdles-detachable-sturdy-hurdles-training-b0f249-review"
 image_alt: "GHB Agility Hurdles 8 Speed Agility Training Hurdles, Detachable Sturdy Hurdles Training Equipment Set with Carry Bag fo"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F249649K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714PVrLOgZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're coaching youth sports or just starting your own agility work, the GHB 8" Speed Agility Hurdles hit a sweet spot between functionality and price. These aren't the flimsy cone-style markers you'll find at big-box stores — but they're also not competition-grade steel hurdles. They sit somewhere in the practical middle, and for most buyers, that's exactly where you want to be.

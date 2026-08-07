@@ -1,4 +1,5 @@
 ---
+
 title: "WTRAVEL Rolling Tool Chest with 9-Drawer"
 seo_title: "WTRAVEL Rolling Tool Chest with 9-Drawer Review: Verdict "
 meta_description: "Our full wtravel rolling tool chest with 9-drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D69LSJWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719SWWVjwsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this $200-ish rolling cabinet a garage workhorse or a wobbly compromise? I dug through 215 ratings and the spec sheet to give you the straight answer.**

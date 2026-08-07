@@ -1,4 +1,5 @@
 ---
+
 title: "XTERRA Fitness Folding Exercise Bike, 225 LB Weight Capacity"
 seo_title: "XTERRA Fitness Folding Exercise Bike, 225 LB Weigh Review"
 meta_description: "Our full xterra fitness folding exercise bike, 225 lb weight capacity review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B96P7XZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612LBoLNKJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $200 Question: Can a Folding Bike Actually Feel Solid?

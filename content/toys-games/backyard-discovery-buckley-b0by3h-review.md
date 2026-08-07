@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery Buckley"
 seo_title: "Backyard Discovery Buckley Review: Worth It in 2026?"
 meta_description: "Honest Backyard Discovery Buckley review: build quality, backyard play value, real owner feedback, and who should buy this playset."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BY3HB1WF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YJ15O52uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cedar wood construction resists rot and splintering better than pine alternatives in this price range"
   - "Compact 13' x 10' footprint fits smaller yards without sacrificing swing or slide access"
   - "Tool-free assembly with pre-drilled holes and color-coded parts cuts build time to roughly 4-6 hours for two adults"
-cons:
+cons: 
   - "Hardware kit uses hex bolts that strip easily if you overtighten with a standard wrench — use the included Allen key"
   - "Slide lacks the curved 'speed bump' found on pricier models, so older kids may find it underwhelming"
+
 ---
 
 # Backyard Discovery Buckley Review: Solid Starter Playset or Budget Compromise?

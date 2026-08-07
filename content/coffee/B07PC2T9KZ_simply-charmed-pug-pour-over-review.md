@@ -1,4 +1,5 @@
 ---
+
 title: "Simply Charmed Pug Ceramic Pour Over Coffee Maker"
 seo_title: "Simply Charmed Pug Ceramic Pour Over Review: Adorable + Functional"
 meta_description: "Simply Charmed Pug Ceramic Pour Over Coffee Maker review: cute ceramic dripper, solid brewing performance, 4.7/5 stars. Is it worth $21.95?"
@@ -11,13 +12,14 @@ review_count: 1985
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PC2T9KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wT1CMTpnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely functional ceramic dripper—not just a novelty—with proper V60-style spiral ridges for even extraction"
   - "Adorable pug face design that actually makes a great gift for dog lovers without sacrificing brew quality"
   - "Dishwasher-safe stoneware construction that holds heat well and won't absorb odors or flavors"
-cons:
+cons: 
   - "Small 2-cup capacity means you'll brew twice if making coffee for two people"
   - "Pug nose and face details can trap coffee residue if you don't rinse immediately after use"
+
 ---
 
 Let's be honest: most novelty coffee gear is junk. It's a mug shaped like a cat that leaks, or a French press with a cartoon face that chips after three washes. So when a pug-faced ceramic pour-over dripper shows up with 1,985 ratings and a 4.7-star average, my first instinct is skepticism. But this thing earns its spot on your counter.

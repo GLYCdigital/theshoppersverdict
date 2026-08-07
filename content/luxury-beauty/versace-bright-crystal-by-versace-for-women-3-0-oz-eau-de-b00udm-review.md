@@ -1,4 +1,5 @@
 ---
+
 title: "Versace Bright Crystal by Versace for Women 3.0 oz Eau de To"
 seo_title: "Versace Bright Crystal by Versace for Women 3.0 oz Review"
 meta_description: "Our full versace bright crystal by versace for women 3.0 oz eau de to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00UDMK0DM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518ONQ2J2eL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-Second Hook**

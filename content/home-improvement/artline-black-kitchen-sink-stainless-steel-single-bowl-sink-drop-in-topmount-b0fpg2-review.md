@@ -1,4 +1,5 @@
 ---
+
 title: "ARTLINE Black Kitchen Sink, Stainless Steel Single Bowl Sink"
 seo_title: "ARTLINE Black Kitchen Sink Review: Honest 2026 Verdict"
 meta_description: "ARTLINE Black Kitchen Sink review: Is this 30-inch single bowl stainless steel sink worth it? Real pros, cons, and buying advice for your remodel."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPG2J1NQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51L0LDd6GgL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "16-gauge T-304 stainless steel construction feels substantial and resists denting during heavy use"
   - "Nano-coating black finish holds up well against scratches and water spots based on long-term owner reports"
   - "Sound-dampening pads and undercoating reduce clatter noticeably compared to thinner 18-gauge sinks"
-cons:
+cons: 
   - "Top-mount design means food and water can collect in the rim gap — you'll need to dry it after every use to prevent buildup"
   - "Black finish shows soap scum and hard water stains more visibly than traditional stainless, requiring more frequent wiping"
+
 ---
 
 **The ARTLINE Black Kitchen Sink: A 16-Gauge Workhorse That Looks the Part**

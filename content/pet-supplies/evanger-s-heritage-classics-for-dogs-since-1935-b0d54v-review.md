@@ -1,4 +1,5 @@
 ---
+
 title: "Evanger's Heritage Classics for Dogs - Since 1935!"
 seo_title: "Evanger's Heritage Classics Dog Food Review (2026): Worth It?"
 meta_description: "Evanger's Heritage Classics dog food review: 4.3-star rated, 215+ reviews. We analyze ingredients, portion sizes, and real buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D54V5BB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719I8DsM2wL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Family-owned brand operating since 1935 with US-sourced meats and no recalls in recent decades"
   - "High meat-to-filler ratio; first ingredient is always a named protein, not 'meat by-products'"
   - "Multiple protein options (beef, chicken, turkey, lamb) let you rotate without digestive upset"
-cons:
+cons: 
   - "Strong smell — several buyers report it's noticeably more pungent than typical canned food"
   - "Pâté texture is dense; picky eaters may reject it if they prefer shredded or chunked food"
   - "Small 5.5-oz cans mean larger breeds need 3–4 cans daily, driving up cost per feeding"
+
 ---
 
 **Evanger's Heritage Classics for Dogs Review: A 90-Year-Old Recipe Worth the Hype?**

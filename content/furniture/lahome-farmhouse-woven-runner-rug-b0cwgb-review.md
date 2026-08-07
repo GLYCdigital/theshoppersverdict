@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Farmhouse Woven Runner Rug"
 seo_title: "Lahome Farmhouse Woven Runner Rug Review: Verdict | TSV"
 meta_description: "Our full lahome farmhouse woven runner rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CWGBXMLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91e0QeiDkUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most runner rugs under $50 are either paper-thin flatweaves that slide around or cheap piles that shed for months. The Lahome Farmhouse Woven Runner sits somewhere in the middle, and for a specific type of buyer, it's genuinely the right call. At 4.3 stars across 215 ratings, the consensus is solid — but let's dig into what that rating actually means.

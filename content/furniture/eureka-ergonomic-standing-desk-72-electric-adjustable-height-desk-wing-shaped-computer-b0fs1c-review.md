@@ -1,4 +1,5 @@
 ---
+
 title: "EUREKA ERGONOMIC Standing Desk, 72 inch  Electric Adjustable Heig"
 seo_title: "EUREKA 72 inch  Standing Desk Review: Worth It? (2026)"
 meta_description: "Honest EUREKA ERGONOMIC 72 inch  electric standing desk review. Tested for stability, noise, and build. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FS1CPYN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E6MkgUGbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72-inch desktop actually fits three monitors plus a laptop stand without crowding"
   - "Dual-motor lift handles 265 lbs — no straining or stuttering even at full load"
   - "Wing-shaped desktop gives you extra reachable surface without adding depth to the room footprint"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes solo; the desktop is heavy and awkward for one person to flip over"
   - "No pre-set memory buttons on the base model — you're holding the height button every time"
+
 ---
 
 If you've been shopping standing desks, you've probably noticed most max out at 60 inches wide. That's fine for a single monitor. But if you're running dual ultrawides or a three-monitor setup, the EUREKA ERGONOMIC 72-inch is one of the few electric options that actually gives you breathing room.

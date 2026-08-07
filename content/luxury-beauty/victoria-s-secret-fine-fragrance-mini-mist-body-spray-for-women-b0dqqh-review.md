@@ -1,4 +1,5 @@
 ---
+
 title: "Victoria's Secret Fine Fragrance Mini Mist, Body Spray for W"
 seo_title: "Victoria's Secret Fine Fragrance Mini Mist, Body S Review"
 meta_description: "Our full victoria's secret fine fragrance mini mist, body spray for w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQQHFY5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-0LiIeCVL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Mini Mist That Travels Like a Champ — But Fades Fast**

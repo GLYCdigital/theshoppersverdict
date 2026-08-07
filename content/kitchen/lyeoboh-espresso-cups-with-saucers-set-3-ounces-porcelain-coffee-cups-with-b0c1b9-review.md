@@ -1,4 +1,5 @@
 ---
+
 title: "LYEOBOH Espresso Cups with Saucers Set, 3 Ounces Porcelain C"
 seo_title: "LYEOBOH Espresso Cups with Saucers Set, 3 Ounces P Review"
 meta_description: "Our full lyeoboh espresso cups with saucers set, 3 ounces porcelain c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1B92BSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PAka6e7tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LYEOBOH 3 oz Espresso Cups Review: The Porcelain Set That Gets the Details Right

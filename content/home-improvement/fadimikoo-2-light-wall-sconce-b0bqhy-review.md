@@ -1,4 +1,5 @@
 ---
+
 title: "FadimiKoo 2-Light Wall Sconce"
 seo_title: "FadimiKoo 2-Light Wall Sconce Review: Honest 2026 Look"
 meta_description: "FadimiKoo 2-Light Wall Sconce review: 4.5-star rated bath vanity light. Real buyer feedback on install, finish, and brightness. Worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BQHYGD7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XwbOSnAEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clear glass shades with open bottom accept standard bulbs — no weird proprietary sizing"
   - "Backplate covers standard 4-inch junction boxes; no drywall patching needed for most swaps"
   - "Dimmable when paired with compatible bulbs and a dimmer switch — verified by multiple buyers"
-cons:
+cons: 
   - "Shades are glass and ship unprotected — a few buyers reported cracks on arrival"
   - "Fabric-wrapped wire is stiff; makes the final connection inside the backplate finicky"
+
 ---
 
 The FadimiKoo 2-Light Wall Sconce sits in that crowded middle tier of Amazon vanity lighting — not the cheapest, not the priciest, but carrying a 4.5-star average across 225 ratings. The question isn't whether it's a decent fixture. It's whether it's *your* fixture. Here's what 225 buyers and I have to say.

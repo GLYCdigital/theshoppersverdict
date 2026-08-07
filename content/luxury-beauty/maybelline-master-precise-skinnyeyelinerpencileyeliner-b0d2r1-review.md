@@ -1,4 +1,5 @@
 ---
+
 title: "Maybelline master precise skinnyeyelinerpencileyeliner"
 seo_title: "Maybelline master precise skinnyeyelinerpencileyel Review"
 meta_description: "Our full maybelline master precise skinnyeyelinerpencileyeliner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2R1SB6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7137RkrOVZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a wobbly felt-tip liner or a pencil that tugs at your eyelid like a rubber eraser, you understand the appeal of a tool that just *works*. The Maybelline Master Precise Skinny Eyeliner Pencil has built a reputation on one promise: precision without the fight. With 225 Amazon ratings averaging 4.5 out of 5, it's clearly earning its keep in makeup bags. But is it the right liner for *your* routine? Let's break it down.

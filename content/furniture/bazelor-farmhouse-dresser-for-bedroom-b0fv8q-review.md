@@ -1,4 +1,5 @@
 ---
+
 title: "BAZELOR Farmhouse Dresser for Bedroom"
 seo_title: "BAZELOR Farmhouse Dresser Review: Worth It? [2026]"
 meta_description: "Honest BAZELOR Farmhouse Dresser review: build quality, storage capacity, assembly difficulty, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FV8Q8QZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818BNY2wrqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sliding barn door design hides clutter while adding farmhouse character — no protruding handles to catch on clothing"
   - "Solid engineered wood frame with a natural wood top that resists scratches better than laminate-only competitors"
   - "Six spacious drawers with smooth metal glides hold folded clothes, linens, or kids' gear without sticking"
-cons:
+cons: 
   - "Assembly takes 1.5–2 hours with two people; cam locks are fiddly and instructions have a few unclear steps"
   - "Back panel is thin fiberboard — securing it to the wall is strongly recommended if you have toddlers or pets"
+
 ---
 
 The farmhouse aesthetic is everywhere, but most dressers in this category are all looks and no substance. The BAZELOR Farmhouse Dresser tries to be the exception. After digging through 200 ratings and customer feedback, here's the real story.

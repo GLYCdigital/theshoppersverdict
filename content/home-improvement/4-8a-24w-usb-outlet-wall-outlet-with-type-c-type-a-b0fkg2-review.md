@@ -1,4 +1,5 @@
 ---
+
 title: "4.8A/24W USB Outlet, Wall Outlet with Type C & Type A Ports"
 seo_title: "4.8A/24W USB Outlet Review: Type C & A Wall Plate"
 meta_description: "Honest 4.8A/24W USB wall outlet review: dual Type C & A ports, 4.8A output, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FKG22TS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SLvS7j8QL._SL1500_.jpg"
-pros:
+pros: 
   - "Full 24W total output with two ports — charges a tablet and phone simultaneously without dropping speed"
   - "Type C port delivers up to 2.4A on its own, meaning faster charging for newer devices than most dual-USB outlets"
   - "Standard duplex receptacle keeps both 3-prong outlets functional — you don't lose wall socket real estate"
-cons:
+cons: 
   - "No USB power delivery (PD) — capped at 5V/2.4A per port, so it won't fast-charge USB-C laptops"
   - "Screwless wall plate not included — you'll need to reuse your existing plate or buy one separately"
+
 ---
 
 Every kitchen and bedroom has that one outlet hogged by charging bricks. This 4.8A/24W duplex receptacle from the B0FKG22TS9 line aims to eliminate that problem by building two USB ports directly into the wall. After digging through 240 ratings averaging 4.8 stars, here's what actually matters before you buy.

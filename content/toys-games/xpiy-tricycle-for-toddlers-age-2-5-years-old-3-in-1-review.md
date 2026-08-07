@@ -1,13 +1,14 @@
 ---
+
 title: "XPIY Tricycle for Toddlers Age 2-5 Years Old, 3 in 1 Folding Toddler Bike for Boys and Girls, Kids' Bike Trike with Detachable Pedal and Adjustable Seat (Blue) | Blue toddler bike for boys & girls. Features a detachable pedal and adjustable seat to grow with your child"
 seo_title: "XPIY Tricycle for Review: Verdict (4.6/5) | TSV"
 meta_description: "It's light weight but durable and it FOLDS 726+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "xpiy-tricycle-for-toddlers-age-2-5-years-old-3-in-1-review"
 image_alt: "XPIY Tricycle for Toddlers Age 2-5 Years Old, 3 in 1 Folding Toddler Bike for Boys and Girls, Kids Bike Trike with Detac"
-keywords:
+keywords: 
   - "xpiy tricycle for review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the XPIY Tricycle for Toddlers?"
     answer: "It's light weight but durable and it FOLDS AWAY That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the XPIY Tricycle for Toddlers?"
@@ -20,12 +21,13 @@ review_count: 726
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M3W5GKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-9d0oTNAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It's light weight but durable and it FOLDS AWAY."
   - "they’re good quality they’re easy to put together."
   - "I am glad I bought it ,the quality is very good."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Most toddler trikes are one-trick ponies: they pedal, they stop, they get outgrown. The XPIY 3-in-1 takes a different approach — it's three bikes disguised as one. For $55, that's compelling math for parents who don't want to buy a balance bike, a push trike, and a pedal bike across three years. But does the folding mechanism and detachable pedal system actually hold up in daily use, or is it just clever marketing? Here's what 726 Amazon reviewers and my own teardown of the specs reveal.

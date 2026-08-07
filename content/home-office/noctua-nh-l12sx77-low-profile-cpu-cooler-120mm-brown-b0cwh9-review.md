@@ -1,4 +1,5 @@
 ---
+
 title: "Noctua NH-L12Sx77, Low-Profile CPU Cooler (120mm, Brown)"
 seo_title: "Noctua NH-L12Sx77, Low-Profile CPU Cooler (120mm,  Review"
 meta_description: "Our full noctua nh-l12sx77, low-profile cpu cooler (120mm, brown) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWH97GKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-BeBHzi9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Noctua NH-L12Sx77 walks a tightrope that most low-profile coolers fall off: it's short enough for slim cases yet beefy enough to cool a mid-range CPU under sustained load. At 77mm tall with a 120mm fan, it splits the difference between the older L12S (70mm, 92mm fan) and the full-size NH-L12S. For anyone building in an SFF case with 80-90mm of cooler clearance, this is likely the best thermal option you can fit — but it demands careful part selection.

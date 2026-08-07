@@ -1,4 +1,5 @@
 ---
+
 title: "ASOKO UNO-DG Series Under Cabinet Light,Desk Light Bar"
 seo_title: "ASOKO UNO-DG Under Cabinet Light Review (2026): Worth It?"
 meta_description: "ASOKO UNO-DG under cabinet light review: motion sensor, dimmable, USB-C. See pros, cons, and who should buy this 4.2-star desk light bar."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BPXWKWR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hxZpjC6XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rechargeable battery with USB-C, so no hardwiring or constant battery swaps — charges fully in about 2 hours"
   - "Three color temperature modes (3000K/4500K/6500K) plus stepless dimming, giving real flexibility from warm task lighting to cool work light"
   - "Integrated motion sensor with a 120° detection angle and adjustable auto-off timer (15s/30s/60s), which actually works reliably in kitchen use"
-cons:
+cons: 
   - "Magnetic mount is strong, but the included adhesive metal strips may fail on textured or uneven surfaces — several owners report lights falling after a few months"
   - "At max brightness, the 1200mAh battery lasts only about 2-3 hours, so heavy daily use means recharging every couple of days"
   - "The motion sensor can be overly sensitive in high-traffic areas, triggering the light when you just walk past the kitchen doorway"
+
 ---
 
 If you've ever squinted while chopping onions because your overhead kitchen light casts a shadow right where the knife meets the board, you already know why under-cabinet lighting is worth the money. The ASOKO UNO-DG Series aims to solve that problem without an electrician, a hardwired fixture, or a pile of AA batteries. After digging through 210 ratings and the real-world feedback baked into that 4.2-star average, here's what you actually need to know before you buy.

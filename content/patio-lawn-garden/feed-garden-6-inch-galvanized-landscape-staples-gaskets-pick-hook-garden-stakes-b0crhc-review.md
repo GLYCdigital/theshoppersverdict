@@ -1,4 +1,5 @@
 ---
+
 title: "FEED GARDEN 6 Inch Galvanized Landscape Staples Gaskets Pick"
 seo_title: "FEED GARDEN 6-Inch Landscape Staples Review: Worth It?"
 meta_description: "FEED GARDEN 6-inch galvanized landscape staples review: 4.8-star rated ground staples with gaskets and pick. Do they hold up in real soil? Find out."
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRHCZKGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Dzft8z1-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "6-inch length bites deep enough to hold fabric, netting, and edging through heavy rain and wind"
   - "Galvanized steel with a black coating resists rust far better than plain steel staples"
   - "Included gaskets distribute pressure, preventing the staple head from tearing thin landscape fabric"
   - "The pick hook is genuinely useful for pulling staples without bending them or your back"
-cons:
+cons: 
   - "Black powder coating can chip at the tips if you hammer at an angle into rocky soil"
   - "6-inch length is overkill for light-duty jobs like temporary netting or thin weed barriers"
   - "Gaskets are small and easy to lose between uses — buy the pack with extras if you're prone to dropping things"
+
 ---
 
 **The 6-inch staple that actually stays put — most of the time**

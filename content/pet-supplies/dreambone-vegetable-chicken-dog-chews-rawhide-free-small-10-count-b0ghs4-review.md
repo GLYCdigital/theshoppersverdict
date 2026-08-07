@@ -1,4 +1,5 @@
 ---
+
 title: "DreamBone Vegetable & Chicken Dog Chews, Rawhide Free, Small"
 seo_title: "DreamBone Vegetable & Chicken Dog Chews Review (Small)"
 meta_description: "DreamBone Vegetable & Chicken Dog Chews review: rawhide-free, digestible, 4.7-star rated. See if these small chews are right for your pup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHS4V4GK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vamM6a33L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Digestible rawhide-free formula with real chicken as the first ingredient — safer for aggressive chewers"
   - "Small size (roughly 4 inches) is ideal for dogs 5–15 lbs without being a choking hazard"
   - "Vegetable-based matrix holds up for 10–15 minutes of active chewing, longer than most soft treats"
-cons:
+cons: 
   - "Some picky dogs may turn their noses up at the vegetable-forward scent despite the chicken flavor"
   - "Not suitable for heavy chewers over 20 lbs — they'll finish these in under two minutes"
+
 ---
 
 **DreamBone Vegetable & Chicken Dog Chews, Rawhide Free, Small: A Safer Chew for Small Pups**

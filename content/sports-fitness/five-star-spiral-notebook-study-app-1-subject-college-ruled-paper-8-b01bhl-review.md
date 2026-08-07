@@ -1,4 +1,5 @@
 ---
+
 title: "Five Star Spiral Notebook + Study App, 1 Subject, College Ru"
 seo_title: "Five Star Notebook + Study App Review: 2026 Verdict"
 meta_description: "Honest Five Star Spiral Notebook + Study App review. Tested for build quality, paper feel, and app value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01BHL3DCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810ZUATQekL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tough poly cover and reinforced spiral that survives a full semester tossed in a backpack"
   - "Water-resistant, tear-resistant paper that handles gel pens and highlighters without bleed-through"
   - "Free study app scans notes into searchable PDFs — genuinely useful, not just a gimmick"
-cons:
+cons: 
   - "App requires Wi-Fi to sync; offline scanning is limited on the free tier"
   - "Only 70 sheets — heavier note-takers may run out mid-semester"
+
 ---
 
 Let’s be honest: most school supplies are interchangeable. A notebook is a notebook, right? Then why do 240 Amazon shoppers rate this one 4.8 out of 5 stars? Because the Five Star Spiral Notebook + Study App isn’t just paper and wire — it’s a system. And after testing it through a full semester of lectures, group projects, and the occasional coffee spill, I understand the hype.

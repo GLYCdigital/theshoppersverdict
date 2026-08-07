@@ -1,4 +1,5 @@
 ---
+
 title: "Beauty by Earth HAIR_BRUSH"
 seo_title: "Beauty by Earth Hair Brush Review: Worth It? (2026)"
 meta_description: "Our Beauty by Earth hair brush review covers build quality, real user feedback, and who should buy. See if this 4.5-star brush delivers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BSFVVND8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KQn-2vAYL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual-bristle design (natural boar + nylon pins) distributes scalp oils while detangling wet or dry hair without snagging"
   - "Cushioned, flexible pad reduces scalp pressure and makes brushing comfortable even for dense or curly textures"
   - "Lightweight bamboo handle with non-slip grip feels substantial but won't fatigue your wrist during long styling sessions"
-cons:
+cons: 
   - "Bristles can bend permanently if you press too hard on thick, tangled hair—requires a gentle hand"
   - "No heat-resistant rating published; avoid using as a hot styling tool or near a blow dryer nozzle"
+
 ---
 
 A hair brush is one of those products you don't think about until you're standing in the aisle at Target, staring at 40 options, wondering why a piece of plastic costs $25. The Beauty by Earth brush sits at a different price point entirely, and the question shoppers actually ask is: does the premium justify the purchase?

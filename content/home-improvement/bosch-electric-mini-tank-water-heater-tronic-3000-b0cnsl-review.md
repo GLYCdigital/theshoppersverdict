@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch Electric Mini-Tank Water Heater Tronic 3000 inch"
 seo_title: "Bosch Tronic 3000 Mini-Tank Review: Honest 2026 Verdict"
 meta_description: "Bosch Tronic 3000 mini-tank water heater review: real-world performance, install tips, and limitations. Is it worth it for sinks and workshops?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNSL5LF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615tg4J4n6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Point-of-use hot water in under 10 seconds — no waiting for a distant main tank"
   - "Compact 2.7-gallon footprint fits under most kitchen or bathroom sinks with room to spare"
   - "120V plug-in design means DIY installation without electrical panel changes"
-cons:
+cons: 
   - "Recovery time is slow — roughly 8–10 minutes between full draws, so it's not for continuous use"
   - "Inlet/outlet fittings are 1/2-inch NPT but the included flex lines are short and cheaply made"
   - "Thermostat dial is unmarked; you're guessing between warm and hot settings"
+
 ---
 
 If you've ever stood at a bathroom sink for ninety seconds waiting for hot water to crawl through thirty feet of pipe, you already know the problem the Bosch Tronic 3000 solves. This 2.7-gallon point-of-use tank sits right where you need it — under the sink, beside the workshop basin, or behind a wet bar — and delivers hot water in a fraction of the time. At 4.3 stars across 215 ratings, it's clearly working for most people. But it's not a whole-house solution, and pretending otherwise will leave you disappointed.

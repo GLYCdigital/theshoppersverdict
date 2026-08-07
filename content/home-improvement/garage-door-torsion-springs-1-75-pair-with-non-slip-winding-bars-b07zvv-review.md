@@ -1,24 +1,26 @@
 ---
+
 title: "Garage Door Torsion Springs 1.75'' (Pair) with Non-Slip Winding Bars Review"
 seo_title: "Garage Door Torsion Springs 1.75'' Pair Review (2026)"
 meta_description: "Honest 2026 review of 1.75'' garage door torsion springs pair with non-slip winding bars. Covers durability, fit, safety, and who should buy."
 slug: "garage-door-torsion-springs-1-75-pair-with-non-slip-winding-bars-b07zvv-review"
 image_alt: "Pair of 1.75 inch garage door torsion springs with non-slip winding bars on workbench"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07ZVVBKK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mLqk1j+6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Pair includes matching left-wound and right-wound springs — no guessing which side goes where"  
   - "Non-slip winding bars grip the cone securely, reducing the risk of the bar slipping mid-tension"  
   - "Oil-tempered steel construction with 10,000-cycle rating; buyers report 3–5 years of daily use"  
-cons:  
+cons: 
   - "No installation instructions included — you must know how to identify spring wind and adjust cable drums"  
   - "Winding bars are 18 inches long, which is short for some 10-foot-wide doors; may need a cheater bar for full tension"  
   - "Not compatible with 2-inch or 2.5-inch shafts — verify your tube diameter before ordering"
+
 ---
 
 If your garage door slams down like a guillotine or refuses to open past knee height, the culprit is almost always a snapped torsion spring. Replacing it is a DIY job that scares most homeowners — and rightfully so. But if you’re comfortable with basic tools and have a healthy respect for stored energy, this 1.75-inch pair from the B07ZVVBKK2 listing is one of the better options at this price point. With a 4.6-star average across 229 ratings, it’s clearly doing something right.

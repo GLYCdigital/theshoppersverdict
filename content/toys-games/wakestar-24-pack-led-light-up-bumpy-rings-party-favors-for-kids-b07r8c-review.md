@@ -1,4 +1,5 @@
 ---
+
 title: "Wakestar - 24 Pack LED Light Up Bumpy Rings Party Favors For"
 seo_title: "Wakestar - 24 Pack LED Light Up Bumpy Rings Party  Review"
 meta_description: "Our full wakestar - 24 pack led light up bumpy rings party favors for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07R8C3YJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tRcxH-YSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re planning a birthday party, school event, or Halloween stash and want something that doesn’t end up in the trash by 8 PM, the Wakestar 24-pack of LED bumpy rings deserves a hard look. With a 4.5-star average across 225 ratings, these aren’t just cheap throwaways—they’re actually engineered with a few thoughtful touches that elevate them above the typical glow-junk you find in party favor bins.

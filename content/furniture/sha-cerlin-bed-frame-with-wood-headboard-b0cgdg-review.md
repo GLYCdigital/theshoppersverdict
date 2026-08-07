@@ -1,4 +1,5 @@
 ---
+
 title: "SHA CERLIN Bed Frame with Wood Headboard"
 seo_title: "SHA CERLIN Bed Frame with Wood Headboard Review: Verdict "
 meta_description: "Our full sha cerlin bed frame with wood headboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGDG1R1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71viZGpRJ8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The SHA CERLIN Bed Frame with Wood Headboard is the rare Amazon furniture find that doesn't make you sacrifice stability for style — or your Saturday afternoon for assembly. At 4.5 stars across 225 ratings, it's earning its keep in real bedrooms. But it's not without quirks, and I'll get to those.

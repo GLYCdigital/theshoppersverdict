@@ -1,4 +1,5 @@
 ---
+
 title: "VENDORZ TV Stand with 36'' Fireplace - 20 LED Light Entertai"
 seo_title: "VENDORZ TV Stand with 36'' Fireplace - 20 LED Ligh Review"
 meta_description: "Our full vendorz tv stand with 36'' fireplace - 20 led light entertai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPDYZCML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R3WfIzfhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The VENDORZ TV Stand with 36-inch fireplace is a solid mid-range entertainment center that pulls double duty — it's a functional media console *and* a room-warming centerpiece. At 4.6 stars from 229 shoppers, it's clearly doing something right. But the real question is whether it fits *your* space and *your* TV setup.

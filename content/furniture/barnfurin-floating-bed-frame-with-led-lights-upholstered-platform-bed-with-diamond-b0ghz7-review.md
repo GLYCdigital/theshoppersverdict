@@ -1,4 +1,5 @@
 ---
+
 title: "BarnFurin Floating Bed Frame with LED Lights, Upholstered Pl"
 seo_title: "BarnFurin Floating Bed Frame Review: LED, Upholstered, Worth It?"
 meta_description: "Honest BarnFurin floating bed frame review: LED lights, upholstered headboard, assembly, and durability. Is this 4.5-star platform bed worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHZ75C6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61k6jvFxfEL._AC_SL1019_.jpg"
-pros:
+pros: 
   - "Diamond-stitched upholstered headboard adds substantial visual weight; looks far more expensive than the price point suggests"
   - "LED strip lighting with remote control offers adjustable brightness and color options — genuinely useful for late-night reading or mood lighting"
   - "Sturdy steel slat system eliminates box spring need; supports up to 800 lbs when properly assembled"
-cons:
+cons: 
   - "Assembly requires two people and roughly 60-90 minutes; the LED wiring channels are fiddly and easy to pinch during frame alignment"
   - "The fabric is a light gray that shows dust and pet hair quickly; darker colors would hide wear better"
+
 ---
 
 # BarnFurin Floating Bed Frame Review: Does the LED Glow Justify the Buy?

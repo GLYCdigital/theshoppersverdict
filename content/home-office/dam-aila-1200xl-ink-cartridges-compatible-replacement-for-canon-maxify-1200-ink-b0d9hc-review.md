@@ -1,4 +1,5 @@
 ---
+
 title: "DAM aila 1200XL Ink cartridges Compatible Replacement for Ca"
 seo_title: "DAM Aila 1200XL Ink Review: Best Canon Maxify Alternative?"
 meta_description: "DAM Aila 1200XL ink cartridges for Canon Maxify: 4.4-star rated. Read our honest review on print quality, yield, and value before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9HC2DX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fSmU1b5sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine page yield matching OEM 1200XL specs — roughly 2,400 black pages per cartridge"
   - "Simple tool-free installation with no chip errors reported in recent batches"
   - "Consistent color output with no banding or streaking across standard office documents"
-cons:
+cons: 
   - "No individual cartridge purchase option — you must buy the full 4-pack"
   - "Some users report minor ink residue after multiple refill cycles"
+
 ---
 
 Let's be blunt: compatible ink is a gamble. You're betting your print head and your patience against saving 40-60% over Canon's OEM cartridges. The DAM Aila 1200XL set for Canon Maxify printers (PGI-1200 and CLI-1200 equivalents) mostly pays out that bet — but with a caveat or two you should know before clicking buy.

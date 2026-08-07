@@ -1,4 +1,5 @@
 ---
+
 title: "HP 312X Black High-Yield Toner Cartridge | Works Color Laser"
 seo_title: "HP 312X Black High-Yield Toner Cartridge | Works C Review"
 meta_description: "Our full hp 312x black high-yield toner cartridge | works color laser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00IGOQVYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aoV35wQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

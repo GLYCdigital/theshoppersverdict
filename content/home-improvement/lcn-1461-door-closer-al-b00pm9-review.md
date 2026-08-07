@@ -1,4 +1,5 @@
 ---
+
 title: "LCN 1461 DOOR CLOSER AL"
 seo_title: "LCN 1461 DOOR CLOSER AL Review: Verdict | TSV"
 meta_description: "Our full lcn 1461 door closer al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00PM92A6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LTW4EtA5L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A door closer is one of those products nobody notices until it fails — and then everyone notices. The LCN 1461 is the kind of closer you'll likely forget is there, which is exactly the point. This isn't the sleekest hardware on the market, but it's a serious piece of commercial-grade machinery that has earned its 4.3-star rating across 215 reviews.

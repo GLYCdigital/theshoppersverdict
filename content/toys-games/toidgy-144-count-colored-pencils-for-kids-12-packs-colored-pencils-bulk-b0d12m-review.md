@@ -1,4 +1,5 @@
 ---
+
 title: "Toidgy 144 Count Colored Pencils for Kids, 12 Packs Colored "
 seo_title: "Toidgy 144 Count Colored Pencils for Kids, 12 Pack Review"
 meta_description: "Our full toidgy 144 count colored pencils for kids, 12 packs colored  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D12MV7JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PfrIVemoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Toidgy 144 Count Colored Pencils Review: The Classroom Workhorse

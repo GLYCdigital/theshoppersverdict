@@ -1,4 +1,5 @@
 ---
+
 title: "Funko Pop NBA: Los Angeles Lakers - Lebron Lebron James - Co"
 seo_title: "Funko Pop LeBron James Lakers Review: Worth It? (2026)"
 meta_description: "Honest Funko Pop LeBron James Lakers review: build quality, box condition, sizing, and who should buy. Real buyer feedback on this 4.8-star collectible."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B12PX768/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YjnDdxE8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spot-on LeBron likeness with the Lakers purple-and-gold jersey, not a generic athlete mold"
   - "Sturdy vinyl construction and a stable base—no tipping over on shelves"
   - "Box arrives well-protected in Funko's standard window packaging, good for in-box collectors"
-cons:
+cons: 
   - "No pose variation—standard standing stance, same as most NBA Pops"
   - "Head is disproportionately large (classic Funko style), which some buyers find goofy"
   - "Price fluctuates; occasionally marked up by third-party sellers, so check before checkout"
+
 ---
 
 If you're a Lakers fan or a LeBron collector, you already know the drill: Funko Pops are the gateway drug of sports memorabilia. This LeBron James Lakers figure sits at a 4.8-star average from 240 ratings, and honestly, it earns that score—with a few caveats worth knowing before you click buy.

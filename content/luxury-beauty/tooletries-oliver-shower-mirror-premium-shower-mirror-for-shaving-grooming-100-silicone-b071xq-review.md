@@ -1,4 +1,5 @@
 ---
+
 title: "TOOLETRIES Oliver Shower Mirror - Premium Shower Mirror for "
 seo_title: "TOOLETRIES Oliver Shower Mirror - Premium Shower M Review"
 meta_description: "Our full tooletries oliver shower mirror - premium shower mirror for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B071XQ355Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fO9SQdHUL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TOOLETRIES Oliver Shower Mirror Review: The Unbreakable Grooming Mirror That Actually Stays Put

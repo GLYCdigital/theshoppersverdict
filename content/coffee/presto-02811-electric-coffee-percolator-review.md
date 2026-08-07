@@ -1,24 +1,26 @@
 ---
+
 title: "Presto 02811 Stainless Steel Electric Coffee Percolator"
 seo_title: "Presto 02811 Percolator Review: Bold Coffee, 4.5 Stars"
 meta_description: "Presto 02811 stainless steel percolator review: 4.5-star rated, makes 12 cups of strong coffee. See pros, cons, and who should buy."
 slug: "presto-02811-electric-coffee-percolator-review"
 image_alt: "Presto 02811 stainless steel electric coffee percolator with glass knob lid"
-verdict_score: 4.5  
-date: 2026-08-06  
-price: 76.85  
-review_count: 19303  
-amazon_rating: 4.5  
+verdict_score: 4.5
+date: 2026-08-06
+price: 76.85
+review_count: 19303
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Brews 12 cups of strong, hot coffee in about 10 minutes—faster than most drip machines"  
   - "All-stainless interior and exterior; no plastic touching your brew, no lingering flavors"  
   - "Simple, mechanical design with no carafe to break; built like a tank for decades of use"  
-cons:  
+cons: 
   - "No auto-off timer; you must unplug it manually or coffee keeps simmering"  
   - "Coffee grounds can sneak past the basket if you grind too fine—use a coarse grind"  
   - "Lid handle gets hot during brewing; need a mitt or careful fingers to check the glass knob"
+
 ---
 
 **The Presto 02811 is a 12-cup workhorse that delivers the bold, old-school coffee your drip machine can't touch—if you can handle its quirks.**

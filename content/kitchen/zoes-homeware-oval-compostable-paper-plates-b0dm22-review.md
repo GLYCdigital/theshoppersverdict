@@ -1,4 +1,5 @@
 ---
+
 title: "ZOES HOMEWARE OVAL Compostable Paper Plates"
 seo_title: "ZOES HOMEWARE OVAL Compostable Paper Plates Review: Verdi"
 meta_description: "Our full zoes homeware oval compostable paper plates review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM22S3RL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IpsqpwTQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most disposable plates are a compromise: flimsy enough to bend under a loaded burger, or coated in plastic that never breaks down. The ZOES HOMEWARE oval compostable plates try to thread that needle — rigid enough for a full meal, yet certified compostable. After testing these at a backyard cookout and a weekday dinner, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "GARDENIX DECOR Self Watering Round Pot 3 Pack"
 seo_title: "GARDENIX DECOR Self Watering Pot 3 Pack Review (2026)"
 meta_description: "GARDENIX DECOR self watering round pot 3 pack review: real test results, water reservoir capacity, durability, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0838M88L7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V7Rg17fyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Double-wall reservoir design holds roughly 2 weeks of water for medium plants, cutting watering frequency dramatically"
   - "Overflow hole at the correct height prevents root rot — a common failure point on cheaper self-watering pots"
   - "Weather-resistant polypropylene build survives frost without cracking, unlike ceramic alternatives"
-cons:
+cons: 
   - "No drainage hole in the bottom, so outdoor use in heavy rain requires monitoring or the overflow port can get overwhelmed"
   - "Smaller than photos suggest — the 3-pack is best for herbs and compact houseplants, not large shrubs"
+
 ---
 
 If you've killed more houseplants than you'd like to admit, the GARDENIX DECOR Self Watering Round Pot 3 Pack is the safety net you didn't know you needed. This isn't a gimmick — the double-wall reservoir system actually works, and with 225 ratings averaging 4.5 stars, it's proven itself to a lot of forgetful plant parents.

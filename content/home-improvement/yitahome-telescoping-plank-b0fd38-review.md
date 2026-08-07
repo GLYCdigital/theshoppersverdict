@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Telescoping Plank"
 seo_title: "YITAHOME Telescoping Plank Review: Verdict | TSV"
 meta_description: "Our full yitahome telescoping plank review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD38SRCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cUTR7dejL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced on a warped 2x10 stretched between two ladders, you already know why a purpose-built telescoping plank is worth considering. The YITAHOME Telescoping Plank replaces that sketchy setup with an adjustable aluminum platform that extends from 3.3 to 5.6 feet—and it carries a 1,100-pound rating. Here's what 229 buyers and I found when putting it to real work.

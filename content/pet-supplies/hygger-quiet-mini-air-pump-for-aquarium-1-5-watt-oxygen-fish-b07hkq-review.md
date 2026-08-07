@@ -1,4 +1,5 @@
 ---
+
 title: "hygger Quiet Mini Air Pump for Aquarium 1.5 Watt Oxygen Fish"
 seo_title: "hygger Quiet Mini Air Pump for Aquarium 1.5 Watt O Review"
 meta_description: "Our full hygger quiet mini air pump for aquarium 1.5 watt oxygen fish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HKQC6CQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KrpqskzFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The hygger Quiet Mini Air Pump is the kind of product that makes you wonder why other budget pumps exist. At 1.5 watts, it's not trying to power a commercial fish room — it's aimed squarely at nano tanks, betta bowls, and shrimp setups where noise matters more than raw output. And for that job, it mostly nails it.

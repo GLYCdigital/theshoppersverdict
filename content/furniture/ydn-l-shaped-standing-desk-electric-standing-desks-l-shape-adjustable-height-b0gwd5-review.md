@@ -1,4 +1,5 @@
 ---
+
 title: "YDN L Shaped Standing Desk, Electric Standing Desks L Shape "
 seo_title: "YDN L Shaped Standing Desk, Electric Standing Desk Review"
 meta_description: "Our full ydn l shaped standing desk, electric standing desks l shape  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWD59987/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JFnp+ktqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The YDN L-Shaped Standing Desk: A Serious Corner Office Upgrade

@@ -1,4 +1,5 @@
 ---
+
 title: "DevaCurl Frizz-Fighting Volumizing Foam Lightweight Body Boo"
 seo_title: "DevaCurl Volumizing Foam Review: Frizz Control Worth It?"
 meta_description: "Our DevaCurl Frizz-Fighting Volumizing Foam review: Does this lightweight body booster deliver volume without crunch? Real results, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFVGLYBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sFQfYWNIL._SL1500_.jpg"
-pros:
+pros: 
   - "Alcohol-free formula won't strip moisture or leave that crispy, straw-like feel on curls"
   - "Dispenses as a true mousse foam that distributes evenly through thick or coarse hair without heavy buildup"
   - "Fragrance-free — a genuine plus for sensitive scalps or anyone who layers other styling products"
-cons:
+cons: 
   - "Volume payoff is subtle — not the dramatic root lift that some 'volumizing' foams promise"
   - "The pump can clog if you don't rinse the nozzle after use, especially with product residue"
+
 ---
 
 Let's be honest about curly hair products: most either weigh your curls down into limp ropes or dry them out until they feel like straw. The DevaCurl Frizz-Fighting Volumizing Foam sits in a rare middle ground, and with 225 ratings averaging 4.5 stars, it's clearly earning its keep in curly-haired bathrooms. I've tested this against other mousse-style foams, and here's what actually matters.

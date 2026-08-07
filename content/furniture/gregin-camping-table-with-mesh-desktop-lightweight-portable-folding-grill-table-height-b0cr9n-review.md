@@ -1,23 +1,25 @@
 ---
+
 title: "GREGIN Camping Table with Mesh Desktop, Lightweight & Portab"
 seo_title: "GREGIN Camping Table Review: Lightweight Mesh Top Portable"
 meta_description: "GREGIN camping table with mesh desktop review: lightweight, portable, sturdy. See pros, cons, and who should buy this folding table."
 slug: "gregin-camping-table-with-mesh-desktop-lightweight-portable-folding-grill-table-height-b0cr9n-review"
 image_alt: "GREGIN lightweight camping table with mesh desktop, folded and set up outdoors"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CR9N3F9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nuBrW5pZL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Mesh top drains water and sheds debris instantly—no wiping needed after rain or spills"  
   - "Collapses to a flat 2-inch profile that slides into a backpack side pocket"  
   - "Aluminum frame holds steady on uneven ground thanks to adjustable leg locks"  
-cons:  
+cons: 
   - "Mesh surface is too textured for precision tasks like map reading or card games"  
   - "Leg locks require firm pressure to engage—gloved hands will struggle in cold weather"
+
 ---
 
 **The GREGIN Camping Table: The Mesh-Top Table That Actually Earns Its Weight**  

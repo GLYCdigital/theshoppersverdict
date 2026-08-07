@@ -1,4 +1,5 @@
 ---
+
 title: "Prince Of Peace SUGAR_CANDY"
 seo_title: "Prince Of Peace SUGAR_CANDY Review: Verdict | TSV"
 meta_description: "Our full prince of peace sugar_candy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5KLR67D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5100f+jSfyS._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

@@ -1,4 +1,5 @@
 ---
+
 title: "Granted By Grace Acacia Cutting Board with Containers & Lids"
 seo_title: "Granted By Grace Acacia Cutting Board with Contain Review"
 meta_description: "Our full granted by grace acacia cutting board with containers & lids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BTQM4YYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dj96Zx7tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This isn't a gimmick — but it's not a full meal-prep system either

@@ -1,4 +1,5 @@
 ---
+
 title: "We Love Doodles Dog Detangler Spray - Leave-in Conditioner f"
 seo_title: "We Love Doodles Dog Detangler Spray - Leave-in Con Review"
 meta_description: "Our full we love doodles dog detangler spray - leave-in conditioner f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C15YTRNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715rn76nsiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Doodle — any Doodle — you already know the enemy: mats. They form behind ears, under armpits, and around collars overnight. You've tried the metal comb, the slicker brush, and possibly tears. The We Love Doodles Dog Detangler Spray claims to be the answer. After digging through 220 ratings and testing the formula myself, here's the real story.

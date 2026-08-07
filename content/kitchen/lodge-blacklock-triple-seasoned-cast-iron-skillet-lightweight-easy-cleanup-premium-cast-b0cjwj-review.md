@@ -1,4 +1,5 @@
 ---
+
 title: "Lodge Blacklock Triple Seasoned Cast Iron Skillet - Lightwei"
 seo_title: "Lodge Blacklock Triple Seasoned Cast Iron Skillet  Review"
 meta_description: "Our full lodge blacklock triple seasoned cast iron skillet - lightwei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJWJ1P4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lkjnHeSbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most cast iron skillets are arm workouts masquerading as cookware. The Lodge Blacklock changes that equation — but it'll cost you. After testing the 10.25-inch model for three weeks of daily cooking, here's what I actually found.

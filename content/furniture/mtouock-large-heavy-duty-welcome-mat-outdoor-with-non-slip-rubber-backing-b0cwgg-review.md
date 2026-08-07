@@ -1,4 +1,5 @@
 ---
+
 title: "MTOUOCK Large Heavy Duty Welcome Mat Outdoor with Non-Slip R"
 seo_title: "MTOUOCK Large Heavy Duty Welcome Mat Outdoor with  Review"
 meta_description: "Our full mtouock large heavy duty welcome mat outdoor with non-slip r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWGGDJ1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718U1eMDP7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Doorway Gatekeeper That Actually Works

@@ -1,4 +1,5 @@
 ---
+
 title: "Mayne Fairfield 20x36-inch Rectangular Planter Planters"
 seo_title: "Mayne Fairfield 20x36-inch Rectangular Planter Pla Review"
 meta_description: "Our full mayne fairfield 20x36-inch rectangular planter planters review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DY2Y4NR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i2pXGeQFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about large planters: most are either cheap plastic that fades to chalky gray in one season, or overpriced ceramic that shatters the first time a freeze hits. The Mayne Fairfield 20x36-inch rectangular planter sits in a different category — and with a 4.7-star average across 235 ratings, it’s clearly earning its keep on patios across the country. Here’s the full breakdown.

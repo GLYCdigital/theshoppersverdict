@@ -1,4 +1,5 @@
 ---
+
 title: "KAMPKEEPER Camping Inner Tent for Pop Up Canopy, Converts 10"
 seo_title: "KAMPKEEPER Camping Inner Tent for Pop Up Canopy, C Review"
 meta_description: "Our full kampkeeper camping inner tent for pop up canopy, converts 10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWNF5GHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71esR+PqPML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: camping with a pop-up canopy is a great way to get shade, but it gives you zero privacy and zero protection from bugs. The KAMPKEEPER Camping Inner Tent solves both problems by turning that 10x10 canopy into something resembling an actual tent. After digging through 225 ratings and the buyer feedback, here's the real story.

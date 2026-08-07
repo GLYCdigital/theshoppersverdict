@@ -1,4 +1,5 @@
 ---
+
 title: "Nootie Supplement"
 seo_title: "Nootie Supplement Review: Verdict | TSV"
 meta_description: "Our full nootie supplement review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3VFXN76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618eyaouXaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: the pet supplement aisle is a graveyard of overpriced promises. Most products are glorified fish oil in a fancy bottle. So when a supplement holds a 4.4-star average across 220 ratings, it earns a closer look. Here’s the real breakdown of Nootie Supplement — what it does, what it doesn’t, and whether your pet actually needs it.

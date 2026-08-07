@@ -1,4 +1,5 @@
 ---
+
 title: "EVERGRACE Otis Checkerboard Faux Wool Area Rugs"
 seo_title: "EVERGRACE Otis Checkerboard Rug Review: 4.2-Star Value"
 meta_description: "EVERGRACE Otis checkerboard faux wool rug review: durability, shedding, and style. See if this 4.2-star area rug fits your space and budget."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D25RGJ55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-+SuNRCcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Checkerboard pattern hides dirt and pet hair between cleanings far better than solid-color rugs"
   - "Faux wool pile has a soft, substantial feel underfoot without the $500+ price tag of real wool"
   - "Low-profile construction lies flat immediately — no curling corners or tripping hazards at doorways"
-cons:
+cons: 
   - "Synthetic fibers can develop a slight static charge in dry climates or with heavy foot traffic"
   - "The 0.3-inch pile won't provide the plush cushioning you'd want for long floor-sitting sessions"
+
 ---
 
 The checkerboard is having a moment. And honestly, most of the options out there are either cheap printed mats that slide around or actual wool rugs that cost more than your coffee table. The EVERGRACE Otis sits in that sweet middle — a faux wool rug that delivers the geometric look without the boutique price tag. Here's the real story after digging through 210 ratings and the spec sheet.

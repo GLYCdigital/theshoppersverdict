@@ -1,4 +1,5 @@
 ---
+
 title: "DaduoRi Wet Core Drill Bits, Core Bit for Concrete, 14 inch  Dril"
 seo_title: "DaduoRi 14 inch  Wet Core Drill Bit Review: Concrete Reality Check"
 meta_description: "Honest DaduoRi wet core drill bit review: 14 inch  drilling depth, diamond segments, real performance on concrete. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLJ113Z7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YhEG9BcdL._SL1500_.jpg"
-pros:
+pros: 
   - "Cuts clean through rebar-reinforced concrete when paired with a proper wet rig"
   - "14-inch drilling depth handles slab penetrations most budget bits can't reach"
   - "Segments are laser-welded, not brazed — they stay put under sustained load"
-cons:
+cons: 
   - "Requires a dedicated wet core drill motor; won't work in a standard rotary hammer"
   - "Slow feed rate on hard aggregate — patience is mandatory, not optional"
   - "No pilot bit or centering guide included for starting holes"
+
 ---
 
 Let's cut through the marketing. A wet core drill bit is only as good as its diamond segments, and the DaduoRi 14-inch model earns its keep if you bring the right equipment to the job. This isn't a grab-and-go accessory for a weekend warrior with a $99 hammer drill. It's a serious tool for serious concrete work.

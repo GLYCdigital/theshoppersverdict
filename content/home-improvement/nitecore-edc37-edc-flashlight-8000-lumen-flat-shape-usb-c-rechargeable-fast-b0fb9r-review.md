@@ -1,4 +1,5 @@
 ---
+
 title: "Nitecore EDC37 EDC Flashlight, 8000 Lumen Flat Shape USB-C R"
 seo_title: "Nitecore EDC37 EDC Flashlight, 8000 Lumen Flat Sha Review"
 meta_description: "Our full nitecore edc37 edc flashlight, 8000 lumen flat shape usb-c r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FB9RHVF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PSdi0UINL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nitecore EDC37 is a flashlight that makes tube-style EDC lights look positively outdated — until you hit the thermal limits.**

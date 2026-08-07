@@ -1,4 +1,5 @@
 ---
+
 title: "Funko POP Rides Deluxe: Spongebob Squarepants - Mermaid Man"
 seo_title: "Funko POP Mermaid Man Rides Review: Is It Worth It?"
 meta_description: "Honest Funko POP Rides Deluxe Mermaid Man review: build quality, size, display appeal, and who should buy this SpongeBob collectible."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYT9MY75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e87JbniqL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "The Invisible Boatmobile is a substantial die-cast-style vehicle with real heft — not a flimsy hollow shell"
   - "Mermaid Man's cape, belt, and shell details are crisp and accurate to the show"
   - "Box art and window display are collector-friendly — easy to keep mint or remove for display"
-cons:
+cons: 
   - "Barnacle Boy is not included — the $30+ price feels steep if you expected the duo"
   - "The 'invisible' effect is just clear plastic — no glow or special finish to justify the premium"
+
 ---
 
 Let's be honest: when you hear "Mermaid Man," you picture him with Barnacle Boy. That duo is the whole joke. So the first thing you need to know about this Funko POP Rides Deluxe set is that it's Mermaid Man *alone* — riding the Invisible Boatmobile. No sidekick. No "Evil!" catchphrase. Just the man himself, gripping the wheel of a boat that's mostly clear plastic.

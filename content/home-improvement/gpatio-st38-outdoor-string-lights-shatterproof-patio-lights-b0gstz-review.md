@@ -1,4 +1,5 @@
 ---
+
 title: "GPATIO ST38 Outdoor String Lights Shatterproof Patio Lights"
 seo_title: "GPATIO ST38 Outdoor String Lights Shatterproof Pat Review"
 meta_description: "Our full gpatio st38 outdoor string lights shatterproof patio lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSTZLFXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710+j0iw99L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most string lights under $25 are disposable junk that dies after one season. The GPATIO ST38 set is the exception—and at $19.99, it's the rare budget pick that actually earns its keep.

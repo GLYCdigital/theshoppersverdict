@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Iced Tea K-Cups, Unsweetened Black Iced Tea, 24 Total"
 seo_title: "Lipton Iced Tea K-Cups, Unsweetened Black Iced Tea Review"
 meta_description: "Our full lipton iced tea k-cups, unsweetened black iced tea, 24 total review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07QP44X8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iURATFT6L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Lipton Iced Tea K-Cups Review: The Fastest Route to Unsweetened Iced Tea

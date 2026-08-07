@@ -1,4 +1,5 @@
 ---
+
 title: "Calvin Klein Eternity Men's Deodorant Spray – With Notes of"
 seo_title: "Calvin Klein Eternity Deodorant Spray Review (2026): Fresh or Fade?"
 meta_description: "Honest Calvin Klein Eternity Men's Deodorant Spray review: scent longevity, skin irritation, value. See if this 4.5-star fragrance holds up all day."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTKG7Y91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-RJJz25WL._SL1500_.jpg"
-pros:
+pros: 
   - "Projects the classic Eternity fragrance for 6–8 hours without competing with the cologne"
   - "Dries down fast with zero white residue on dark shirts — no chalky marks"
   - "Alcohol-based spray delivers broad coverage in two quick passes, not a damp pit patch"
-cons:
+cons: 
   - "The spray nozzle can clog if you store it cap-down or leave it in a hot car"
   - "Fragrance leans mature — younger guys after sweet/amber scents may find it too green"
+
 ---
 
 Here’s the thing about deodorant sprays: most either smell like a chemistry lab’s floor wax or vanish thirty minutes after you apply them. The Calvin Klein Eternity Men’s Deodorant Spray sidesteps both traps, but it’s not without quirks. Let’s break down what 225 Amazon reviewers (4.5 stars) are actually saying — and whether this belongs in your gym bag or your office drawer.

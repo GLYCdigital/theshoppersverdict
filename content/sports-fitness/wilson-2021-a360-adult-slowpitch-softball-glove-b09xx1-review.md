@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson 2021 A360 Adult Slowpitch Softball Glove"
 seo_title: "Wilson 2021 A360 Adult Slowpitch Softball Glove Review: V"
 meta_description: "Our full wilson 2021 a360 adult slowpitch softball glove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09XX12Z6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ro6IEukhS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real about slowpitch gloves: most players either buy a $40 special that falls apart in a season or drop $200+ on a pro-grade leather glove they'll spend two months breaking in. The Wilson A360 sits in that awkward middle ground — and surprisingly, it nails it.

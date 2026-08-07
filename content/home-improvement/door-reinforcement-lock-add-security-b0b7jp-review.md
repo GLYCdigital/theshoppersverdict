@@ -1,4 +1,5 @@
 ---
+
 title: "Door Reinforcement Lock – Add Security"
 seo_title: "Door Reinforcement Lock Review: Real Security Boost?"
 meta_description: "Door Reinforcement Lock review: does this $25 security bar actually stop break-ins? Tested for fit, force, and real-world use. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B7JPYC7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616g6LBfKsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel construction with anti-pry lip that actually grips the door frame, not just surface-mounted"
   - "Tool-free installation in under 10 minutes using included adhesive strips — no drilling required"
   - "Works on both in-swing and out-swing doors with reversible design"
-cons:
+cons: 
   - "Adhesive mounting means it's semi-permanent; removal can damage door finish"
   - "Doesn't fit all door gaps — measure your clearance before buying"
   - "Striker plate screws are shorter than ideal for solid core doors"
+
 ---
 
 # Door Reinforcement Lock – Add Security: The $25 Break-In Deterrent That Actually Works

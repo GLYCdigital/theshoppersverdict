@@ -1,4 +1,5 @@
 ---
+
 title: "KEYYOU Invisible Band Lashes"
 seo_title: "KEYYOU Invisible Band Lashes Review: Verdict | TSV"
 meta_description: "Our full keyyou invisible band lashes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GX4Y7WRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xEh-3k9gL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever peeled off a pair of strip lashes at the end of the night to reveal a red, irritated lash line, you already know the struggle. KEYYOU's Invisible Band Lashes are built to solve that specific problem — and for the most part, they deliver.

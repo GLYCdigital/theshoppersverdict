@@ -1,4 +1,5 @@
 ---
+
 title: "Ondder Assorted Spa Headbands - Makeup, Face Wash, and Skinc"
 seo_title: "Ondder Assorted Spa Headbands - Makeup, Face Wash, Review"
 meta_description: "Our full ondder assorted spa headbands - makeup, face wash, and skinc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMR1JSF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vwvX5vsSL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $12 Hair Band That Actually Stays Put (Mostly)**  

@@ -1,7 +1,8 @@
 ---
-title: "Mini Split Line Set,3/8\" 5/8\" OD Copper Pipes Tubing and 3/8"
-seo_title: "Mini Split Line Set,3/8\" 5/8\" OD Copper Pipes Tubi Review"
-meta_description: "Our full mini split line set,3/8\" 5/8\" od copper pipes tubing and 3/8 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Mini Split Line Set,3/8\ 5/8\ OD Copper Pipes Tubing and 3/8"
+seo_title: "Mini Split Line Set,3/8\ 5/8\ OD Copper Pipes Tubi Review"
+meta_description: "Our full mini split line set,3/8\ 5/8\ od copper pipes tubing and 3/8 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mini-split-line-set-3-8-5-8-od-copper-pipes-tubing-b0cgrj-review"
 image_alt: "Mini Split Line Set,3/8 5/8 OD Copper Pipes Tubing and 3/8 White PE Thickened Insulated Coil with Flared Nuts for Mini S"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGRJSQYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71POvInI6eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're installing a mini split, the line set is the one component where cutting corners costs you big. A pinhole leak behind a finished wall means drywall repair, refrigerant recharge, and a very bad afternoon. This 3/8" x 5/8" OD copper line set from the Amazon marketplace has earned a 4.8 rating across 240 reviews — and after looking at the construction, the specs, and what buyers actually report, it's easy to see why it's become a default pick for DIY ductless installs.

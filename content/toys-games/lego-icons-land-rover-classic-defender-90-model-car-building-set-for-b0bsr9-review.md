@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons Land Rover Classic Defender 90, Model Car Buildin"
 seo_title: "LEGO Icons Land Rover Classic Defender 90, Model C Review"
 meta_description: "Our full lego icons land rover classic defender 90, model car buildin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BSR933M2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81klwAFhARL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dreamed of owning a classic Land Rover Defender but don't have $50,000 sitting around for a restored 90, this LEGO Icons set gets you surprisingly close — for about $279 and a solid weekend of building.

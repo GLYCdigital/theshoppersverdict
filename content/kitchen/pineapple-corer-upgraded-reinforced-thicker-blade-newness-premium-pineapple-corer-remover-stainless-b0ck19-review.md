@@ -1,4 +1,5 @@
 ---
+
 title: "Pineapple Corer, [Upgraded, Reinforced, Thicker Blade] Newne"
 seo_title: "Pineapple Corer, [Upgraded, Reinforced, Thicker Bl Review"
 meta_description: "Our full pineapple corer, [upgraded, reinforced, thicker blade] newne review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK19THJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vvy8BmU3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most pineapple corers are flimsy aluminum rings that bend on the second pineapple and leave half the fruit stuck in the blades. The Newne upgraded corer is trying to change that with a thicker, reinforced stainless blade — and for the most part, it actually delivers.

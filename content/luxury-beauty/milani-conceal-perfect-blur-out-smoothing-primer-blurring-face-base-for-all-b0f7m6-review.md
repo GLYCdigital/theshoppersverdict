@@ -1,4 +1,5 @@
 ---
+
 title: "Milani Conceal + Perfect Blur Out Smoothing Primer - Blurrin"
 seo_title: "Milani Conceal + Perfect Blur Out Smoothing Primer Review"
 meta_description: "Our full milani conceal + perfect blur out smoothing primer - blurrin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F7M63LKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611QA-mfvrL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: for under $15, the Milani Conceal + Perfect Blur Out Smoothing Primer has no business performing this well. It's not a dupe for the $50+ luxury blurring primers — it's better than some of them. But it's not perfect, and you deserve to know exactly where it cuts corners.

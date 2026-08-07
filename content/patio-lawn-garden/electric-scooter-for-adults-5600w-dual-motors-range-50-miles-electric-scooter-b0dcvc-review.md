@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Scooter for Adults,5600W Dual Motors Range 50 Miles"
 seo_title: "Electric Scooter for Adults Review: 5600W Dual Motor Power"
 meta_description: "Honest review of the 5600W dual-motor electric scooter for adults. 50-mile range, real-world performance, and buyer complaints analyzed."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DCVCNV1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/images/I/71v+gM8zyrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine dual 2800W motors deliver hill-climbing torque that single-motor scooters can't match"
   - "Large 10-inch pneumatic tires absorb road vibration better than solid rubber alternatives"
   - "Hydraulic disc brakes on both wheels provide confident stopping power at higher speeds"
-cons:
+cons: 
   - "Claimed 50-mile range is optimistic — real-world range drops to 30-35 miles with aggressive riding"
   - "47-pound weight makes it impractical to carry up stairs or load into a car trunk solo"
   - "Customer service response times are slow when warranty issues arise"
+
 ---
 
 If you're shopping for an electric scooter in this power class, you're looking at a machine that's less "last-mile commuter" and more "pocket rocket with handlebars." The 5600W dual-motor setup is serious hardware — but serious hardware comes with serious caveats. Here's what 175 buyers discovered after the excitement of unboxing wore off.

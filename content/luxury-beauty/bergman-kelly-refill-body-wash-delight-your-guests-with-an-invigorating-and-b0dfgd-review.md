@@ -1,4 +1,5 @@
 ---
+
 title: "BERGMAN KELLY Refill Body Wash, Delight Your Guests with an"
 seo_title: "BERGMAN KELLY Refill Body Wash Review: Worth It? (2026)"
 meta_description: "Honest BERGMAN KELLY Refill Body Wash review: scent, lather, value. See if this luxury hotel-style wash is worth your money before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFGDBFV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810MAFFWyBL._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated refill formula delivers 2-3x more washes per ounce than typical drugstore body wash"
   - "Sulfate-free, paraben-free blend with aloe and vitamin E — doesn't strip skin or leave tight feeling"
   - "Hotel-quality unisex scent (white tea and bergamot) that lingers subtly without overpowering"
-cons:
+cons: 
   - "No pump included with the refill pouch — you'll need to source or reuse a dispenser"
   - "Thinner viscosity than expected; takes a moment to adjust to the watery texture"
+
 ---
 
 Let me be blunt: most refill body washes are a compromise. You trade the nice pump bottle for a crinkly pouch and hope the formula isn't watery garbage. The BERGMAN KELLY Refill Body Wash flips that script — mostly.

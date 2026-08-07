@@ -1,16 +1,17 @@
 ---
+
 title: "Klein Tools NCVT1P Voltage Tester, Non-Contact Low Voltage Tester Pen, 50V to 1000V AC, Audible and Flashing LED Alarms, Pocket Clip"
 seo_title: "Klein Tools NCVT1P Voltage Tester, Non-Contact Low Review"
 meta_description: "Our full klein tools ncvt1p voltage tester, non-contact low voltage tester pen, 50v to 1000v ac, audible and flashing led alarms, pocket clip. Read real Amaz"
 slug: "klein-tools-ncvt1p-voltage-tester-non-contact-low-voltage-tester-pen-50v-review"
 image_alt: "Klein Tools NCVT1P Voltage Tester, Non-Contact Low Voltage Tester Pen, 50V to 1000V AC, Audible and Flashing LED Alarms,"
-keywords:
+keywords: 
   - "klein tools ncvt1p review"
   - "home improvement review"
   - "best tool review"
   - "diy project"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the Klein Tools NCVT1P Voltage Tester, Non-Contact Low Voltage Tester Pen, 50V to 1000V AC, Audible and Flashing LED Alarms, Pocket Clip?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 7482
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B099SJ6469/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41InHNfIYlL._SL1000_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 If you're shopping for a klein tools ncvt1p voltage tester non contact low voltage tester pen 50v, the Klein Tools NCVT1P Voltage Tester, Non-Contact Low Voltage Tester Pen, 50V to 1000V AC, Audible and Flashing LED Alarms, Pocket Clip has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.

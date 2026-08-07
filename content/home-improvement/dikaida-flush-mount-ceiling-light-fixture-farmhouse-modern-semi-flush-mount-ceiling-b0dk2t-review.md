@@ -1,4 +1,5 @@
 ---
+
 title: "DIKAIDA Flush Mount Ceiling Light Fixture Farmhouse Modern S"
 seo_title: "DIKAIDA Flush Mount Ceiling Light Review: Farmhouse Style"
 meta_description: "Honest DIKAIDA flush mount ceiling light review: build quality, brightness, installation ease, and who should buy this farmhouse modern fixture."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK2T2418/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YTbgUL80L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-profile 7-inch height fits tight hallways and 8-foot ceilings without feeling cramped"
   - "Seeded glass diffuses light evenly, eliminating harsh glare while keeping the farmhouse aesthetic"
   - "Compatible with dimmable LED bulbs and standard E26 sockets — no special wiring needed"
-cons:
+cons: 
   - "Requires a ceiling box with 3-inch depth; older homes with shallow boxes may need an extension ring"
   - "Black finish is prone to showing dust and fingerprints, especially in high-traffic areas"
+
 ---
 
 If you're shopping for a flush mount that doesn't look like a builder-grade boob light, the DIKAIDA Farmhouse Modern fixture deserves a hard look. At 4.7 stars across 235 ratings, it's clearly resonating with homeowners who want farmhouse character without the visual weight of a pendant or chandelier. I've dug through the specs, the customer feedback, and the installation realities — here's what actually matters before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bardeau Essentials Professional 7 Inch Black Carbon Fiber An"
 seo_title: "Bardeau Essentials Carbon Fiber Anti-Static Comb Review"
 meta_description: "Honest Bardeau Essentials 7-inch carbon fiber anti-static comb review. See how it performs on fine, thick, and chemically treated hair before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R211DSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nkj3G0LtL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely anti-static — carbon fiber construction eliminates the crackle and flyaways you get with plastic combs"
   - "Heat resistant up to high styling temperatures, so it won't warp or melt during blowouts or flat iron touch-ups"
   - "Seamless, rounded teeth glide through wet or dry hair without snagging or scratching the scalp"
-cons:
+cons: 
   - "At 7 inches, it's compact — not ideal for those with very long, thick hair who need a longer stroke"
   - "Pricier than basic plastic combs; you're paying for the carbon fiber material and durability"
+
 ---
 
 Let's be direct: most combs are an afterthought. You grab whatever's in the drawer, wrestle with static, and move on. The Bardeau Essentials Professional 7 Inch Carbon Fiber Comb is not that comb. At 4.6 stars across 229 ratings, it's earned a loyal following among people who take their hair seriously. Here's the real story.

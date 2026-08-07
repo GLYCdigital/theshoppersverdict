@@ -1,4 +1,5 @@
 ---
+
 title: "OLIXIS Computer Gaming Desk Chair"
 seo_title: "OLIXIS Computer Gaming Desk Chair Review: Verdict | TSV"
 meta_description: "Our full olixis computer gaming desk chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJY7LZ5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ifOqt7RcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Olixis B0Fjy7: A Promising Chair With a Caveat**

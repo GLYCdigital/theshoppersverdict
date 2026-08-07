@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Hue Smart Retrofit Recessed Lighting 4 inch - White "
 seo_title: "Philips Hue Smart Retrofit Recessed Lighting 4 inc Review"
 meta_description: "Our full philips hue smart retrofit recessed lighting 4 inch - white  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY2STLXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The Smart Can Light That Actually Earns Its Place**

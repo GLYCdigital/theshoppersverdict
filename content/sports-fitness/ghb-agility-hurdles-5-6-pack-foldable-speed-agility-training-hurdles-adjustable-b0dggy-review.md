@@ -1,4 +1,5 @@
 ---
+
 title: "GHB Agility Hurdles 5/6 Pack Foldable Speed Agility Training"
 seo_title: "GHB Agility Hurdles 5/6 Pack Foldable Speed Agilit Review"
 meta_description: "Our full ghb agility hurdles 5/6 pack foldable speed agility training review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGGYJ83B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZmPFhKnQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the GHB Agility Hurdles: these are a solid, no-nonsense tool for anyone serious about footwork, speed, or rehab work. At 4.4 stars from 220 ratings, they're not perfect — but they solve the biggest problem most agility equipment has: storage. 

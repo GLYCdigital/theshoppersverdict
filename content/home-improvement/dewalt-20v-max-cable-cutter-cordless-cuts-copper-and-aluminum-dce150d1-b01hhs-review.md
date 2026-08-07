@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX Cable Cutter, Cordless, Cuts Copper and Alumi"
 seo_title: "DEWALT 20V MAX Cable Cutter Review: Cordless Copper/Aluminum"
 meta_description: "Honest DEWALT 20V MAX cordless cable cutter review: cuts copper & aluminum up to 750 MCM. Real-world performance, durability issues, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01HHS1L9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hFI7sQ9gL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Clean, burr-free cuts on copper and aluminum up to 750 MCM in under three seconds"
   - "One-handed operation with a 360° swivel head that reaches tight panel spaces"
   - "No more crushed fingers or mangled conductors—consistently square cuts every time"
-cons:
+cons: 
   - "Struggles with thicker steel-armored cable (AC/MC); head binds and stalls"
   - "No onboard blade storage or spare blade included—a real oversight for jobsite use"
+
 ---
 
 **The problem with manual cable cutters isn’t the cutting—it’s the aftermath.** Crushed copper, jagged aluminum burrs, and forearms that feel like jelly after a 200-cable panel rough-in. The DEWALT 20V MAX Cable Cutter (DCE150D1) aims to eliminate all three. After testing it against service entrance cable, THHN bundles, and some stubborn MC, here’s the honest breakdown.

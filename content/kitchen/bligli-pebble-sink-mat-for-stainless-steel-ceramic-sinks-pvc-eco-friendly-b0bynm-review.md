@@ -1,4 +1,5 @@
 ---
+
 title: "Bligli Pebble Sink Mat for Stainless Steel/Ceramic Sinks, PV"
 seo_title: "Bligli Pebble Sink Mat Review: Real Protection for $15?"
 meta_description: "Honest Bligli Pebble Sink Mat review: Does the PVC pebble design protect stainless & ceramic sinks? Real pros, cons, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYNMN896/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ISQcRO39L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 5mm PVC cushioning genuinely absorbs impact — no more clanging cast iron or chipping ceramic"
   - "Pebble texture lifts dishes off the sink floor for faster draining and fewer water spots"
   - "Flexible enough to trim with scissors for a custom fit in most standard 15-18 inch sinks"
-cons:
+cons: 
   - "Smooth backing can slide slightly on very glossy ceramic sinks unless the sink is bone dry"
   - "Pebble nubs trap small food debris — needs a quick rinse or shake every couple of days"
+
 ---
 
 Let me be blunt: a sink mat is not a sexy purchase. But if you've ever winced when a cast iron skillet clangs against your stainless steel basin — or watched a ceramic sink chip from a dropped mug — you know the value of a few millimeters of rubber between your cookware and your sink. The Bligli Pebble Sink Mat is a straightforward solution to a very real problem, and at its price point, it deserves a hard look.

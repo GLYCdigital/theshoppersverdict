@@ -1,4 +1,5 @@
 ---
+
 title: "Almay Thickening & Tint Mascara"
 seo_title: "Almay Thickening & Tint Mascara Review: Does It Deliver?"
 meta_description: "Honest Almay Thickening & Tint Mascara review: buildable volume, sensitive-eye safe, but does it smudge? Real buyer feedback, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DMLJXB4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K1EvXYLQL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable formula layers from natural daytime definition to full evening volume without clumping or flaking"
   - "Hypoallergenic and ophthalmologist-tested formula that genuinely works for sensitive eyes and contact lens wearers"
   - "The tapered brush reaches short inner-corner lashes that most wands miss entirely"
-cons:
+cons: 
   - "Not truly waterproof — heavy sweat, tears, or rain will cause it to run, so keep it away from the gym"
   - "The formula takes about 60 seconds to set; blinking too quickly after application can transfer to the upper lid"
+
 ---
 
 Let's be direct: the drugstore mascara aisle is a graveyard of disappointment. Tubes promise "dramatic volume" and deliver spidery clumps. Almay's Thickening & Tint Mascara has been around for years, quietly building a 4.1-star rating from 204 Amazon shoppers. But does it actually earn that? Here's what you need to know before you check out.

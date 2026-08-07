@@ -1,4 +1,5 @@
 ---
+
 title: "BREYDROK Coat Hooks"
 seo_title: "BREYDROK Coat Hooks Review: Sturdy, Rust-Resistant Wall Hooks"
 meta_description: "Honest BREYDROK coat hooks review: 6-pack heavy-duty steel hooks with rust-resistant finish. See real pros, cons, and who should buy them."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRTWD62D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712gQdDyZ3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Holds heavy winter coats and bags without bending — solid steel construction with reinforced base plates"
   - "Rust-resistant matte black finish that doesn't chip or scratch during installation"
   - "Generous 6-hook pack with staggered spacing that lets you hang multiple items without crowding"
-cons:
+cons: 
   - "Screws included are average quality — swap them for better anchors if mounting in drywall"
   - "Matte finish shows dust and fingerprints more readily than brushed or polished options"
+
 ---
 
 Some coat hooks are decorative afterthoughts — pretty to look at, useless when you actually hang a wet winter coat on them. The BREYDROK set isn't that. With 225 ratings averaging 4.5 stars, these hooks have earned their place in mudrooms and entryways through sheer practicality.

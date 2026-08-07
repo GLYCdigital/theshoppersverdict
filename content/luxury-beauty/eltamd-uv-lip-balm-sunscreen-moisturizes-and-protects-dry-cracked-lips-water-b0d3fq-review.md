@@ -1,4 +1,5 @@
 ---
+
 title: "EltaMD UV Lip Balm Sunscreen, Moisturizes and Protects Dry C"
 seo_title: "EltaMD UV Lip Balm Review: SPF 31 Protection That Hydrates"
 meta_description: "EltaMD UV Lip Balm SPF 31 review: Does this dermatologist-favorite protect dry, cracked lips without the white cast? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3FQDBGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610Ydj0HJKL._SL1500_.jpg"
-pros:
+pros: 
   - "SPF 31 with transparent zinc oxide — no white cast, unlike most mineral lip sunscreens"
   - "8-hour moisture lock with shea butter and jojoba ester, not just temporary relief"
   - "Fragrance-free and paraben-free, safe for sensitive and allergy-prone skin"
-cons:
+cons: 
   - "Small 0.21 oz tube — expect to repurchase monthly if you reapply daily"
   - "Thicker balm texture; not ideal for layering under liquid lipsticks"
+
 ---
 
 **The lip sunscreen that actually feels like a balm — not a chalk stick.** Most SPF lip products force you to choose: sun protection that leaves a gray-white film, or a comfortable balm that offers zero UV defense. EltaMD's UV Lip Balm tries to end that tradeoff with a transparent zinc oxide formula and a price point that says "dermatologist office," not drugstore impulse buy. After digging through 220 ratings and testing the texture claims, here's who should spend the money — and who should scroll past.

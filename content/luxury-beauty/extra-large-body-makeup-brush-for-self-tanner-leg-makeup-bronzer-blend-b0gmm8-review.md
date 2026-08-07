@@ -1,4 +1,5 @@
 ---
+
 title: "Extra Large Body Makeup Brush For Self Tanner, Leg Makeup &B"
 seo_title: "Extra Large Body Makeup Brush Review: Self Tanner & Leg Makeup"
 meta_description: "Honest review of the Extra Large Body Makeup Brush for self tanner and leg makeup. Covers coverage, streaks, handle grip, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMM83C15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nDD0HMrnL._SL1500_.jpg"
-pros:
+pros: 
   - "Oversized head covers legs and arms in 60-90 seconds, eliminating the 'one stripe at a time' tedium of applicator mitts"
   - "Ultra-dense synthetic bristles don't absorb product, so you use less self tanner per application"
   - "Extra-long bamboo handle reaches your back and the backs of your legs without contorting"
-cons:
+cons: 
   - "Bristles are so dense they can leave visible drag marks if you don't move quickly with fast-drying tanning mousses"
   - "Larger than standard brush holders — won't fit in most vanity organizers or makeup bags"
+
 ---
 
 If you've ever wrestled with a sticky applicator mitt, trying to evenly coat the back of your thigh while holding a phone in one hand, you already know why this brush exists. This isn't a gimmick. It's a genuinely better way to apply self tanner, body bronzer, and leg makeup — provided you adjust your technique slightly.

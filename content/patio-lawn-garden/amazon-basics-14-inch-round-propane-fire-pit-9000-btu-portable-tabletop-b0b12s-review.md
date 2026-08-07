@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 14-Inch Round Propane Fire Pit, 9000 BTU Porta"
 seo_title: "Amazon Basics 14-Inch Propane Fire Pit Review (2026)"
 meta_description: "Amazon Basics 14-inch round propane fire pit review: 9,000 BTU output, portable design, real buyer feedback. Is this tabletop heater worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B12SFRFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wTloNGZ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 9,000 BTU output from a 1-pound propane cylinder — enough visible flame for ambiance without scorching nearby guests"
   - "Weighs roughly 8 pounds fully assembled; the integrated carry handle makes deck-to-patio moves genuinely effortless"
   - "Piezo push-button ignition fires on the first or second click in most conditions, per multiple verified buyer reports"
-cons:
+cons: 
   - "The 1-pound disposable propane canisters are the only fuel option — no hose adapter for standard 20-pound tanks without aftermarket modification"
   - "Heat radius is modest; it warms hands within 2–3 feet but won't replace a full-size fire pit for cool evenings"
+
 ---
 
 Let’s cut through the noise: the Amazon Basics 14-inch Round Propane Fire Pit is a tabletop ambiance machine, not a serious heat source. That distinction matters, because shoppers who buy this expecting a backyard bonfire experience will be disappointed — and those who understand what it actually is will find it nearly perfect for its niche.

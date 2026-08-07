@@ -1,24 +1,26 @@
 ---
+
 title: "CREPOW Solar Spotlights 6-in-1 inch  "
 seo_title: "CREPOW Solar Spotlights 6-in-1 Review: Worth It? (2026)"
 meta_description: "Honest CREPOW Solar Spotlights 6-in-1 review: performance, beam spread, battery life, and downsides. See if these 6-in-1 lights fit your yard before you buy."
 slug: "crepow-solar-spotlights-6-in-1-b0d1r2-review"
 image_alt: "CREPOW Solar Spotlights 6-in-1 mounted on a wooden fence, showing adjustable panels and warm LED glow"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1R28LZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pl2CQ2aEL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Six independent light heads with 270° rotation each — aim them in completely different directions from one unit"  
   - "IP65 weatherproof housing held up through rain and snow in customer tests, no water ingress after months"  
   - "Detachable solar panel lets you mount the panel in full sun while the lights sit in shaded areas"  
-cons:  
+cons: 
   - "Battery capacity is modest — expect 4–6 hours of full brightness, not the advertised 8–10 in real winter conditions"  
   - "Light output is warm and dimmer than plug-in spotlights; fine for accent lighting, not security-grade illumination"  
   - "Some buyers report the ground stakes bend easily when pushed into hard or rocky soil — pre-drill if your yard is tough"
+
 ---
 
 **The 6-in-1 gimmick is actually useful — here’s who should buy it**  

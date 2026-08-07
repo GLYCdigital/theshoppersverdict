@@ -1,4 +1,5 @@
 ---
+
 title: "Brilvibera Outdoor Post Lights"
 seo_title: "Brilvibera Outdoor Post Lights Review: Honest Buyer's Guide"
 meta_description: "Brilvibera outdoor post lights review: build quality, brightness, installation, and real owner feedback. See if these 4.4-star lights are worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSD17WNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71He1Va3mIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn photocell sensor that reliably distinguishes ambient light from headlight glare"
   - "Die-cast aluminum housing with powder-coated finish resists rust and UV fading in coastal climates"
   - "Warm 3000K LED output provides even illumination without harsh hotspots on walkways"
-cons:
+cons: 
   - "Mounting plate uses metric bolts that don't align with standard US junction box spacing on some homes"
   - "Photocell has a slight delay — lights may stay on 2–3 minutes past sunrise on overcast mornings"
   - "Glass panel is thin; one reviewer reported cracking during a hailstorm, and replacements aren't sold separately"
+
 ---
 
 **Brilvibera Outdoor Post Lights Review: 4.4-Star Lighting That Actually Works**

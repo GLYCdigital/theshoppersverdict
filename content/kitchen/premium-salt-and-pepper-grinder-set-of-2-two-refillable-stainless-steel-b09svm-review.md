@@ -1,4 +1,5 @@
 ---
+
 title: "Premium Salt and Pepper Grinder Set of 2 - Two Refillable St"
 seo_title: "Premium Salt and Pepper Grinder Set of 2 - Two Ref Review"
 meta_description: "Our full premium salt and pepper grinder set of 2 - two refillable st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SVMXBYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71maVbOmFsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products promise "premium" and deliver a flimsy plastic knockoff. This salt and pepper grinder set actually earns the label. At $16.97 for two stainless steel grinders with ceramic mechanisms, it sits in a sweet spot — affordable enough for everyday use, built well enough that you won't replace it in six months.

@@ -1,4 +1,5 @@
 ---
+
 title: "Enbrighten 700 Series Z-Wave Plus Fan Control, Compatible wi"
 seo_title: "Enbrighten 700 Z-Wave Fan Control Review (2026): Worth It?"
 meta_description: "Enbrighten 700 Series Z-Wave Plus Fan Control review: real performance, setup ease, Alexa/Google compatibility, and honest downsides before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DWVBTT6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RINXAhvLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True Z-Wave Plus S2 security with 800-series radio for reliable mesh range"
   - "Works with standard 3-speed ceiling fans without needing a neutral wire"
   - "Simple paddle design fits in a single-gang box; no hub required if you use Z-Wave USB stick"
-cons:
+cons: 
   - "Setup requires a Z-Wave hub — no native Wi-Fi or Bluetooth, so it won't pair directly with Alexa"
   - "Some buyers report a faint humming noise at medium speeds with certain fan motors"
   - "Limited to fan control only — no integrated light control on the same switch"
+
 ---
 
 **The Short Version: Is This Fan Switch Worth Your Wall Space?**

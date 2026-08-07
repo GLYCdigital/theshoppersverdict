@@ -1,4 +1,5 @@
 ---
+
 title: "FlyFlag Air Dry Clay - 70 Colors, Ultra Light and Soft, Non-"
 seo_title: "FlyFlag Air Dry Clay Review: 70 Colors, Worth It? (2026)"
 meta_description: "Honest FlyFlag Air Dry Clay review: 70 ultra-light colors, soft texture, real drying results. See pros, cons, and who should buy this craft kit."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B093P5QK9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hlSbZEHZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "70 individual color containers — no mixing required to get exact shades, from pastels to neons"
   - "Ultra-light formula that doesn't crack during drying, even on thin sculpted details"
   - "Soft, pliable texture right out of the package — no kneading or warming needed for kids"
-cons:
+cons: 
   - "Small 10g portions per color — larger projects will exhaust multiple containers quickly"
   - "Dried pieces are lightweight and somewhat fragile; not suitable for heavy functional items"
+
 ---
 
 Seventy colors in one box sounds like a craft-store impulse buy that'll gather dust. But the FlyFlag Air Dry Clay kit has quietly earned 225 ratings at 4.5 stars, and there's a reason beyond the rainbow presentation. Let's dig into whether this is the clay set your shelf needs.

@@ -1,4 +1,5 @@
 ---
+
 title: "JTYP Large Farmhouse Wagon Wheel Chandelier, Round Industria"
 seo_title: "JTYP Large Farmhouse Wagon Wheel Chandelier, Round Review"
 meta_description: "Our full jtyp large farmhouse wagon wheel chandelier, round industria review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB9Z8MHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jLqQGxP3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The JTYP Large Farmhouse Wagon Wheel Chandelier is the kind of fixture that makes people walk into a room and pause. It's big — a genuine 28 inches in diameter — and it commits fully to the rustic-industrial aesthetic. If you're shopping for that look, you've probably seen cheaper, flimsier versions that look like costume jewelry for your ceiling. This one is not that.

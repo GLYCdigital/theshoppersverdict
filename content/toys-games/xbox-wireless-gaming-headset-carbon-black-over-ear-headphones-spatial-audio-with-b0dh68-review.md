@@ -1,4 +1,5 @@
 ---
+
 title: "Xbox Wireless Gaming Headset | Carbon Black | Over Ear Headp"
 seo_title: "Xbox Wireless Gaming Headset | Carbon Black | Over Review"
 meta_description: "Our full xbox wireless gaming headset | carbon black | over ear headp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DH689JGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a4QQm1OqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If you live inside Xbox Game Pass, this is the smartest $100 you'll spend on audio this year. If you need multi-device flexibility, look elsewhere.**

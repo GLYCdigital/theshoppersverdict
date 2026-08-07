@@ -1,4 +1,5 @@
 ---
+
 title: "EasyFlex Dock Edging Coil"
 seo_title: "EasyFlex Dock Edging Coil Review: Smart Buoy & Dock Protector"
 meta_description: "Read our honest EasyFlex Dock Edging Coil review. See how this flexible dock edge protector performs, where it falls short, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4ZV281V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y-0MILLNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "UV-stabilized polyethylene holds up to sun and saltwater without cracking or fading"
   - "Pre-drilled holes every 6 inches make mounting straightforward with stainless hardware"
   - "Coil form factor ships flat and unrolls easily — no kinks or memory curl to fight"
-cons:
+cons: 
   - "Requires drilling into your dock deck — no adhesive or clamp option for renters"
   - "Sharp corners need sanding after cutting to length; edges can catch swimsuits"
+
 ---
 
 Let’s be honest about what the EasyFlex Dock Edging Coil actually is: a roll of tough, flexible polyethylene that wraps around the exposed edges of your dock. It’s not flashy. It doesn’t have Bluetooth. But if you’ve ever caught a toe on a splintered dock plank or watched your kayak get chewed up against a rough edge, you already know why this product earns its 4.5-star rating across 225 reviews.

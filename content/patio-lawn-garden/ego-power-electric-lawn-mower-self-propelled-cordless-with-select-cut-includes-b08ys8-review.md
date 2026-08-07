@@ -1,4 +1,5 @@
 ---
+
 title: "EGO POWER+ Electric Lawn Mower, Self-Propelled Cordless with"
 seo_title: "EGO POWER+ Self-Propelled Cordless Mower Review (2026)"
 meta_description: "Honest EGO POWER+ self-propelled cordless mower review: battery life, cutting performance, Select Cut features, and who should buy. Real buyer insights."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08YS8WQDB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BgIWWWihL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Select Cut dual-blade system delivers genuinely finer clippings than single-blade electrics, reducing bagging frequency"
   - "56V ARC lithium battery holds charge through a full 0.5-acre mow on a single charge in real-world use"
   - "Self-propelled variable-speed drive handles slopes up to 15 degrees without bogging down"
-cons:
+cons: 
   - "Heavier than expected at 67 pounds — the 10Ah battery adds noticeable heft when lifting into a truck bed"
   - "Mulch plug is fiddly to seat properly; several buyers report clippings escaping if not clicked in with force"
+
 ---
 
 # EGO POWER+ Electric Lawn Mower: The Cordless That Finally Feels Like a Gas Replacement

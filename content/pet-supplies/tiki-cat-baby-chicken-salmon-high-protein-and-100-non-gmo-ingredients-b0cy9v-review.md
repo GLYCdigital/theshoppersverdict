@@ -1,4 +1,5 @@
 ---
+
 title: "Tiki Cat Baby, Chicken & Salmon, High-Protein and 100% Non-G"
 seo_title: "Tiki Cat Baby, Chicken & Salmon, High-Protein and  Review"
 meta_description: "Our full tiki cat baby, chicken & salmon, high-protein and 100% non-g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CY9VLSQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71suNHk5eNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Tiki Cat Baby worth the premium price for your kitten? Here's the honest breakdown after digging through 220+ ratings.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Maranatha Organic, Creamy Raw Almond Butter Spread 12 Ounce"
 seo_title: "Maranatha Organic, Creamy Raw Almond Butter Spread Review"
 meta_description: "Our full maranatha organic, creamy raw almond butter spread 12 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1GLFKHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XwbRW6+GL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** Maranatha’s Organic Creamy Raw Almond Butter is the real deal for purists — one ingredient, organic almonds, nothing else. But that purity comes with tradeoffs: a firmer texture when refrigerated and a flavor that's more subtle than roasted versions. Here’s the full breakdown.

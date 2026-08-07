@@ -1,4 +1,5 @@
 ---
+
 title: "Small Pet Select - Chicken Nesting Pads (8-Pack), 13x13, for"
 seo_title: "Small Pet Select - Chicken Nesting Pads (8-Pack),  Review"
 meta_description: "Our full small pet select - chicken nesting pads (8-pack), 13x13, for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7RRZR2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ifDLWv0+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: cleaning a chicken coop is nobody's favorite chore. If you're looking at these Small Pet Select nesting pads, you're probably tired of picking soiled straw out of nest boxes with a rake and a grimace. The question is whether a disposable 13x13 pad actually replaces the straw, or just adds another layer of stuff to manage. I've dug through the specs, the buyer feedback, and the math on this one. Here's the real story.

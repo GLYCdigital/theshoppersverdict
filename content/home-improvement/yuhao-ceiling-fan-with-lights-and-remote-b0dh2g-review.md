@@ -1,4 +1,5 @@
 ---
+
 title: "YUHAO Ceiling Fan with Lights and Remote"
 seo_title: "YUHAO Ceiling Fan with Lights and Remote Review: Verdict "
 meta_description: "Our full yuhao ceiling fan with lights and remote review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DH2GTYJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IdfjTZGCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're replacing a builder-grade ceiling fan with something that actually moves air without sounding like a helicopter, the YUHAO Ceiling Fan with Lights and Remote deserves a look. It sits at 4.4 stars from 220 ratings for a reason — but it's not perfect. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Christopher Knight Home Nadine Acacia Wood Club Chairs Set o"
 seo_title: "Christopher Knight Nadine Acacia Club Chairs Review (Set of 2)"
 meta_description: "Honest review of the Christopher Knight Home Nadine Acacia Wood Club Chair Set. Real pros, cons, build quality, and who should buy. 4.2/5 rating."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTXLDNJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l0Jnan7gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid acacia hardwood construction — noticeably heavier and sturdier than typical teak-oil-stained pine alternatives at this price"
   - "Classic mid-century club chair silhouette that actually looks like a $400+ chair, not a budget patio special"
   - "Generous 30-inch seat width accommodates larger frames comfortably — rare in outdoor seating"
-cons:
+cons: 
   - "Acacia arrives with a dry, unfinished feel; you'll want to oil it within the first month or it will gray and crack"
   - "Assembly requires two people and a drill — the pre-drilled holes occasionally misalign on the crossbars"
   - "No cushion included, and the flat seat slats can dig into your thighs during long sits without a pad"
+
 ---
 
 # Christopher Knight Home Nadine Acacia Wood Club Chairs: Worth the Assembly Headache?

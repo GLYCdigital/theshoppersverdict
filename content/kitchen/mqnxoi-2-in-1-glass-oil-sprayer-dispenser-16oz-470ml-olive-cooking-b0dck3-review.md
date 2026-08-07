@@ -1,4 +1,5 @@
 ---
+
 title: "mqnxoi 2 in 1 Glass Oil Sprayer & Dispenser,16oz/470ml Olive"
 seo_title: "mqnxoi 2 in 1 Glass Oil Sprayer & Dispenser,16oz/4 Review"
 meta_description: "Our full mqnxoi 2 in 1 glass oil sprayer & dispenser,16oz/470ml olive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DCK39BBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YA6SGFSLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a slick, oil-smeared cruet that drips down the bottle every time you pour, the mqnxoi 2-in-1 Glass Oil Sprayer & Dispenser is a breath of fresh air — provided you're realistic about what it can and can't do. This 16oz/470ml bottle splits the difference between a precision sprayer and a functional pourer, and it mostly pulls it off.

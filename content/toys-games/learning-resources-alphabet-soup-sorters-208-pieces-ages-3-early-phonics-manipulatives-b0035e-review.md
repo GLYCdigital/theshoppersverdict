@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources Alphabet Soup Sorters - 208 Pieces, Ages "
 seo_title: "Learning Resources Alphabet Soup Sorters - 208 Pie Review"
 meta_description: "Our full learning resources alphabet soup sorters - 208 pieces, ages  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0035EQDUY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z+f-xjf8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

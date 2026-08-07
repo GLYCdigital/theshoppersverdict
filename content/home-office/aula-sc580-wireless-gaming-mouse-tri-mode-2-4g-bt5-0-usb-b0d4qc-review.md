@@ -1,5 +1,6 @@
 ---
 
+
 title: "AULA SC580 Wireless Gaming Mouse, Tri-Mode 2.4G/BT5.0/USB-C"
 seo_title: "AULA SC580 Wireless Mouse Review: Tri-Mode at $27 (2026)"
 meta_description: "AULA SC580 wireless gaming mouse review: tri-mode 2.4G/BT/USB-C, 4.6-star rating. Is this $27 budget pick worth it? Real-world performance, battery, and build tested."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4QCXRWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U5KlOxHbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tri-mode connectivity (2.4G dongle, Bluetooth 5.0, USB-C wired) covers every setup — desktop, laptop, tablet, even a phone with OTG"
   - "Symmetrical ambidextrous shape with textured side grips works for both claw and palm grips despite the budget price"
   - "Hot-swappable main switches mean you can replace worn-out clicks without soldering — rare below $30 inch"
-cons:
+cons: 
   - "Not software-programmable; macro assignment and DPI remapping require third-party tools, and the manual's English is rough"
   - "Battery life is modest at 3-5 days with RGB on — you'll want to disable the lighting for actual wireless longevity"
   - "Build is solid for the price but the coating picks up fingerprints quickly, and the scroll wheel has a slight wobble"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "COBANA 7.5'by 4'Half Rectangular Outdoor Patio Umbrella"
 seo_title: "COBANA Half Rectangular Patio Umbrella Review (2026)"
 meta_description: "Honest COBANA 7.5'x4' half rectangular patio umbrella review: coverage, build quality, wind resistance, and who should buy it. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09D7C82FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TGd37Ey7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True half-umbrella design maximizes shade against a wall or fence — no wasted canopy over open space"
   - "Crank tilt mechanism is smooth and holds position even in light breezes"
   - "Fabric is thick, water-resistant, and shows no fading after a full season of UV exposure"
-cons:
+cons: 
   - "Center pole requires a table with a hole — not freestanding out of the box"
   - "Base not included; you'll need at least a 40-50 lb weighted base to keep it stable in gusts"
   - "Ribs are aluminum, not fiberglass — adequate but less forgiving in sudden strong winds"
+
 ---
 
 # COBANA 7.5'x4' Half Rectangular Patio Umbrella: The Space-Smart Shade Solution Most Brands Overlook

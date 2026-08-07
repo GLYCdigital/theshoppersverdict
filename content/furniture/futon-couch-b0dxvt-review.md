@@ -1,4 +1,5 @@
 ---
+
 title: "Futon Couch"
 seo_title: "Futon Couch Review: Is This 3-in-1 Sleeper Worth It?"
 meta_description: "Honest futon couch review: build quality, comfort as sofa and bed, real buyer feedback, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DXVTLRJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915kp3br1TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame rated for 600+ lbs — holds up where cheap MDF frames fail"
   - "Three-position backrest adjusts from 90° upright to fully flat in seconds"
   - "Removable, machine-washable cover makes cleanup genuinely practical"
-cons:
+cons: 
   - "Mattress is thin (4–5 inches) — side sleepers will feel the slats underneath"
   - "Assembly requires two people and about 90 minutes; hardware alignment can be finicky"
   - "No built-in storage — the space under the seat is inaccessible once assembled"
+
 ---
 
 A futon couch is the furniture equivalent of a Swiss Army knife: it promises to be a sofa, a lounger, and a bed, all in one compact footprint. The problem is that most of them fail at at least one of those jobs. This one, with its 3.8-star average across 190 ratings, lands somewhere in the middle — and that's actually more useful than you might think.

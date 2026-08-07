@@ -1,4 +1,5 @@
 ---
+
 title: "Amartisan 20-Piece Hex Head Allen Wrench Drill Bit Set, Metr"
 seo_title: "Amartisan 20-Piece Hex Allen Wrench Drill Bit Set Review"
 meta_description: "Amartisan 20-piece hex head Allen wrench drill bit set review: S2 steel, metric & SAE sizes, magnetic tips. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM9S9WTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vWAviq3ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - Full 20-piece coverage: 10 metric (1.5–10mm) and 10 SAE (5/64 inch–3/8 inch) sizes with 1 inch hex shafts that fit standard 1/4 inch quick-change chucks
   - "S2 alloy steel construction with black oxide finish resists stripping on stubborn fasteners better than typical CR-V bits"
   - "Magnetic tips hold screws and bolts in place during removal—a genuine time-saver in tight engine bays or recessed hardware"
-cons:
+cons: 
   - "No ball-end option; straight tips only, so angled insertion into recessed fasteners isn't possible"
   - "Storage case is functional but basic—no size markings on individual slots, requiring a glance at the bit itself"
   - Larger sizes (8mm, 10mm, 3/8 inch) lack the torque head design found on dedicated impact driver sets
+
 ---
 
 If you've ever dropped a tiny hex screw into an engine bay or fumbled with a loose Allen key while trying to reach a recessed bolt, you already know the pain this set solves. The Amartisan 20-piece hex head Allen wrench drill bit set consolidates every common metric and SAE size into one magnetic, chuck-ready package—and at 4.4 stars from 220 ratings, it's clearly earning its keep in real workshops.

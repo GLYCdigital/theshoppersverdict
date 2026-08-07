@@ -1,4 +1,5 @@
 ---
+
 title: "Brioschi Lemon Flavored Effervescent Fizzy Digestive Italian"
 seo_title: "Brioschi Lemon Digestive Review: Fizzy Italian Relief"
 meta_description: "Brioschi Lemon Effervescent review: Does this Italian fizzy digestive deliver? Real taste, effectiveness, and value analysis from 235+ ratings."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BM4Z91SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91e89kVamML._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves instantly in water with zero grit or residue — smoother than Alka-Seltzer"
   - "Gentle sodium bicarbonate formula that neutralizes acid without the chalky aftertaste"
   - "Single-serve packets are airplane-friendly and survive a gym bag without clumping"
-cons:
+cons: 
   - "Lemon flavor is subtle — more mineral-forward than sweet, which may disappoint some"
   - "No pain reliever included; this is purely an antacid, not a multi-symptom remedy"
+
 ---
 
 Let's cut through the packaging. Brioschi has been making this fizzy digestive since 1901, and it shows. This isn't a novelty Italian import — it's a functional antacid with a century of formulation behind it. The question isn't whether it works; it's whether it works for *you*.

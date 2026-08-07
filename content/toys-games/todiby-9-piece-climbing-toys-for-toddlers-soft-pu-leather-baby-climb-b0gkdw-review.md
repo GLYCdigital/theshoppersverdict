@@ -1,4 +1,5 @@
 ---
+
 title: "TODIBY 9-Piece Climbing Toys for Toddlers: Soft PU Leather -"
 seo_title: "TODIBY 9-Piece Climbing Toys for Toddlers: Soft PU Review"
 meta_description: "Our full todiby 9-piece climbing toys for toddlers: soft pu leather - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GKDWJS2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-TpJQjFbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the TODIBY 9-Piece Climbing Set the Indoor Playground Your Toddler Actually Needs?**

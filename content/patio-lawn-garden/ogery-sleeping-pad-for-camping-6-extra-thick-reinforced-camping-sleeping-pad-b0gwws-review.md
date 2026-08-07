@@ -1,7 +1,8 @@
 ---
-title: "OGERY Sleeping Pad for Camping, 6\" Extra-Thick Reinforced Ca"
-seo_title: "OGERY Sleeping Pad for Camping, 6\" Extra-Thick Rei Review"
-meta_description: "Our full ogery sleeping pad for camping, 6\" extra-thick reinforced ca review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "OGERY Sleeping Pad for Camping, 6\ Extra-Thick Reinforced Ca"
+seo_title: "OGERY Sleeping Pad for Camping, 6\ Extra-Thick Rei Review"
+meta_description: "Our full ogery sleeping pad for camping, 6\ extra-thick reinforced ca review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ogery-sleeping-pad-for-camping-6-extra-thick-reinforced-camping-sleeping-pad-b0gwws-review"
 image_alt: "OGERY Sleeping Pad for Camping, 6 Extra-Thick Reinforced Camping Sleeping Pad with Pillows & Built-in Foot Pump, Ultrali"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWWSV3C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TB27+QA+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: a 4.2-star rating across 210 reviews tells you this pad works for most people, but it's not perfect. Here's what you actually need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Solid Gold Dry Dog Food for Adult & Senior Dogs - Made with "
 seo_title: "Solid Gold Dry Dog Food for Adult & Senior Dogs -  Review"
 meta_description: "Our full solid gold dry dog food for adult & senior dogs - made with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00ZK0Z1M2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6178L4XuFTL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

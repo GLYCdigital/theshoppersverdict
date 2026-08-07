@@ -1,4 +1,5 @@
 ---
+
 title: "Dahle ShredMATIC SM 300 Auto-Feed Paper Shredder, Cross Cut,"
 seo_title: "Dahle ShredMATIC SM 300 Review: Auto-Feed Shredder Tested"
 meta_description: "Dahle ShredMATIC SM 300 auto-feed cross-cut shredder review: test capacity, jam resistance, and real-world performance before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F498RS7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UmRzy4MoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Auto-feed tray handles up to 80 sheets unattended — set it and walk away"
   - "German-engineered solid-steel cutting cylinders stay sharp through heavy use"
   - "P-4 cross-cut (4x40mm) delivers genuine security for sensitive documents"
-cons:
+cons: 
   - "Auto-feed only accepts sheets up to 8.5x14 inches — legal-size documents must be hand-fed one at a time"
   - "9.5-gallon bin fills quickly if you use the auto-feed regularly; expect frequent emptying"
   - "Plastic housing feels less premium than Dahle's higher-end steel-bodied models"
+
 ---
 
 ## The Shredder That Actually Shreds While You Work

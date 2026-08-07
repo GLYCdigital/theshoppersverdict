@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Chef Cast Iron Skillet Sets"
 seo_title: "Simple Chef Cast Iron Skillet Sets Review: Verdict | TSV"
 meta_description: "Our full simple chef cast iron skillet sets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CLHFF2BD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O91I48RlL._AC_SL1472_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me get this out of the way first: buying cast iron online is a gamble. You don't get to heft the pan, check the surface smoothness, or feel the handle balance. But after combing through 210 ratings and testing the Simple Chef set myself, I can tell you this is one of the safer bets in the budget cast iron category.

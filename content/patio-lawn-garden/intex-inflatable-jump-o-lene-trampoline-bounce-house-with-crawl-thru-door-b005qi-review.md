@@ -1,4 +1,5 @@
 ---
+
 title: "Intex Inflatable Jump-O-Lene Trampoline Bounce House with Cr"
 seo_title: "Intex Inflatable Jump-O-Lene Trampoline Bounce Hou Review"
 meta_description: "Our full intex inflatable jump-o-lene trampoline bounce house with cr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B005QIYUMU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71njnZ-LKvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Intex Jump-O-Lene is the inflatable that makes you the most popular house on the block — assuming you're prepared for the noise and the space it demands. After 215 Amazon ratings averaging 4.3 stars, this is clearly a backyard staple for many families. But is it right for yours? Here's what you need to know before you pull the trigger.

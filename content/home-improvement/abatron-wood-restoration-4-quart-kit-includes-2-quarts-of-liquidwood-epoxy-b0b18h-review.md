@@ -1,4 +1,5 @@
 ---
+
 title: "Abatron Wood Restoration 4 Quart Kit Includes 2 Quarts of Li"
 seo_title: "Abatron Wood Restoration 4 Quart Kit Review (2026)"
 meta_description: "Honest Abatron Wood Restoration 4 Quart Kit review: LiquidWood epoxy performance, real-world results, and who should buy it. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B18HHCFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xrlMSJYyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Penetrates deep into rotted wood — actually consolidates, not just coats"
   - "Two-part system gives you 24+ hours of working time before it cures"
   - "Solvent-free formula means no harsh fumes, safe for interior work"
-cons:
+cons: 
   - "Expensive per quart compared to generic wood hardeners"
   - "Requires multiple coats for severely rotted wood — can eat through the kit fast"
   - "Not a structural fix alone — needs companion Abatron epoxy for large gaps"
+
 ---
 
 Most wood hardeners are snake oil. You brush them on, they dry to a shiny shell, and the rot keeps spreading underneath. The Abatron Wood Restoration Kit takes a fundamentally different approach — and it's why this kit has earned a 4.6-star average from 229 buyers who've actually used it on real projects.

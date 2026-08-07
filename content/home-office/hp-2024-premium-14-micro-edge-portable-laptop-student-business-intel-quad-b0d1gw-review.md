@@ -1,7 +1,8 @@
 ---
-title: "HP 2024 Premium 14\" Micro-Edge Portable Laptop Student Busin"
-seo_title: "HP 2024 Premium 14\" Micro-Edge Portable Laptop Stu Review"
-meta_description: "Our full hp 2024 premium 14\" micro-edge portable laptop student busin review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 2024 Premium 14\ Micro-Edge Portable Laptop Student Busin"
+seo_title: "HP 2024 Premium 14\ Micro-Edge Portable Laptop Stu Review"
+meta_description: "Our full hp 2024 premium 14\ micro-edge portable laptop student busin review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-2024-premium-14-micro-edge-portable-laptop-student-business-intel-quad-b0d1gw-review"
 image_alt: "HP 2024 Premium 14 Micro-Edge Portable Laptop Student Business, Intel Quad-Core N4120, 4GB RAM, 128GB (64GB eMMC+ 64GB C"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D1GWMVF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BWRFDmzJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $300 Laptop That Actually Gets the Basics Right

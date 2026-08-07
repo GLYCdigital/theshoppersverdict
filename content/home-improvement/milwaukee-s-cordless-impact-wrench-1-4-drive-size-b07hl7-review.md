@@ -1,7 +1,8 @@
 ---
-title: "MILWAUKEE'S Cordless Impact Wrench,1/4\" Drive Size"
-seo_title: "MILWAUKEE'S Cordless Impact Wrench,1/4\" Drive Size Review"
-meta_description: "Our full milwaukee's cordless impact wrench,1/4\" drive size review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MILWAUKEE'S Cordless Impact Wrench,1/4\ Drive Size"
+seo_title: "MILWAUKEE'S Cordless Impact Wrench,1/4\ Drive Size Review"
+meta_description: "Our full milwaukee's cordless impact wrench,1/4\ drive size review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-s-cordless-impact-wrench-1-4-drive-size-b07hl7-review"
 image_alt: "MILWAUKEES Cordless Impact Wrench,1/4 Drive Size"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07HL7VB6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51T4QU-ZNSL._SL1022_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Performance: Real-World Muscle

@@ -1,4 +1,5 @@
 ---
+
 title: "Poolmaster Manual Pool Vacuum Hose, 35 Ft x 1-1/2â€"
 seo_title: "Poolmaster Manual Pool Vacuum Hose, 35 Ft x 1-1/2â Review"
 meta_description: "Our full poolmaster manual pool vacuum hose, 35 ft x 1-1/2â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0007PZNDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kchKtWAWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the preface: a pool vacuum hose is the most boring purchase you’ll make all summer, but the wrong one will have you cursing every weekend. The Poolmaster 35-foot manual hose sits in the middle of the market — not the cheapest, not the priciest — and with 220 ratings averaging 4.4 stars, it’s clearly doing something right. Here’s what that star rating actually means for your pool.

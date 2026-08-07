@@ -1,4 +1,5 @@
 ---
+
 title: "REP Fitness Kettlebell Set and Singles, 4kg to 24kg, 9lb to "
 seo_title: "REP Fitness Kettlebell Set and Singles, 4kg to 24k Review"
 meta_description: "Our full rep fitness kettlebell set and singles, 4kg to 24kg, 9lb to  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CXJSJ2NQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jIPsVE6qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're buying your first kettlebell or upgrading a mismatched set, REP Fitness delivers exactly what the 4.8-star average suggests — solid cast iron, consistent sizing across the range, and a handle that works for both swings and presses. But it's not without quirks, and the sizing nuances matter more than most reviews let on.

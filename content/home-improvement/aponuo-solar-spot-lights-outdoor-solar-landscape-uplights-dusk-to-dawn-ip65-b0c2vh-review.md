@@ -1,4 +1,5 @@
 ---
+
 title: "APONUO Solar Spot Lights - Outdoor Solar Landscape Uplights,"
 seo_title: "APONUO Solar Spot Lights Review: Best Budget Uplights?"
 meta_description: "Honest APONUO solar spot lights review: brightness, battery life, IP65 durability, and real buyer feedback. See if these landscape uplights are worth it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2VHPH37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jM5a0ll4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn operation — lights stay on all night without flickering or early shutdown, unlike many budget solar units"
   - "Rotatable lamp head with 120° adjustment range lets you aim light exactly where you need it"
   - "IP65 waterproof rating holds up through heavy rain and snow — multiple buyers report surviving full winters"
-cons:
+cons: 
   - "Battery capacity is modest — in deep winter or heavily shaded spots, runtime drops to 4-5 hours"
   - "Plastic housing feels less premium than metal competitors; fine for the price but not for commercial-grade use"
   - "The included ground stakes are thin — on hard-packed soil you'll want to pre-drill or replace them"
+
 ---
 
 Let me be direct about the APONUO solar spot lights: they're not the brightest, toughest landscape lights on the market, but they punch well above their price point in one critical area — reliability. With a 4.4-star average across 220 ratings, these have quietly become a solid choice for homeowners who want functional uplighting without running conduit or paying an electrician.

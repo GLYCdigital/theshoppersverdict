@@ -1,4 +1,5 @@
 ---
+
 title: "HP High-Yield Ink Cartridge"
 seo_title: "HP High-Yield Ink Cartridge Review: Verdict | TSV"
 meta_description: "Our full hp high-yield ink cartridge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVV34D6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ohniylIsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: buying ink is the most frustrating part of owning a printer. You either pay pennies for a cartridge that dies in a week, or you pay a fortune for one that's supposed to last but doesn't. The HP High-Yield Ink Cartridge sits in the middle of that spectrum — and for most home offices, it's actually the sweet spot.

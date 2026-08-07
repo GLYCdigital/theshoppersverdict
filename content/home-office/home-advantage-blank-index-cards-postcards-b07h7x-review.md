@@ -1,4 +1,5 @@
 ---
+
 title: "Home Advantage Blank Index Cards, Postcards"
 seo_title: "Home Advantage Blank Index Cards, Postcards Review: Verdi"
 meta_description: "Our full home advantage blank index cards, postcards review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07H7X33HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716pfM5oFHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products quietly do their job. Others make you wonder why you ever bought the cheaper alternative. The Home Advantage Blank Index Cards fall firmly into the second camp — and at 4.7 stars from 235 Amazon ratings, I'm not alone in that assessment.

@@ -1,4 +1,5 @@
 ---
+
 title: "BCKENEY Bath Loofah Shower Sponge Body Back Scrubber Soft Me"
 seo_title: "BCKENEY Bath Loofah Review: Soft Mesh Back Scrubber"
 meta_description: "Honest BCKENEY bath loofah review: soft mesh back scrubber performance, durability, and real buyer feedback. See if this shower sponge is worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC51X5NF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dSyOnsT2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-long handle reaches entire back without contorting — no more strained shoulders"
   - "Soft mesh material lathers generously while staying gentle on sensitive skin"
   - "Durable construction holds shape after months of daily use, unlike cheap puffs that flatten"
-cons:
+cons: 
   - "Handle length can feel unwieldy for shorter users or small shower stalls"
   - "Mesh loops require thorough rinsing to prevent soap residue buildup inside"
   - "Not ideal for exfoliation junkies wanting aggressive scrubbing texture"
+
 ---
 
 Let's be honest about shower loofahs: most are disposable fluff that disintegrates in three weeks. The BCKENEY Bath Loofah Shower Sponge Body Back Scrubber Soft Me is trying to be different — and with 229 ratings averaging 4.6 stars, it's earning its place in your shower caddy.

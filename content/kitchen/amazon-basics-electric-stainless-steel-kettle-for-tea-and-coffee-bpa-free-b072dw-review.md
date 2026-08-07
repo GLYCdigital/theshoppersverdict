@@ -1,23 +1,25 @@
 ---
+
 title: "Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee — Review"
 seo_title: "Amazon Basics Electric Kettle Review: Fast, BPA-Free, 4.6 Stars"
 meta_description: "Amazon Basics Electric Stainless Steel Kettle review: 1.7L, auto shut-off, BPA-free. Is it worth it? Real pros, cons, and buyer verdict inside."
 slug: "amazon-basics-electric-stainless-steel-kettle-for-tea-and-coffee-bpa-free-b072dw-review"
 image_alt: "Amazon Basics electric stainless steel kettle with black handle and base"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B072DWYBL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zUOQ-7bJL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Boils 1.7L in under 5 minutes — measured, not marketing hype"  
   - "Stainless steel interior with BPA-free contact surfaces; no plastic taste"  
   - "Auto shut-off and boil-dry protection that actually trigger reliably"  
-cons:  
+cons: 
   - "No temperature presets — it's a straight boil, not a variable-temp kettle"  
   - "Exterior gets hot to the touch near the base; handle stays cool but body doesn't"
+
 ---
 
 # Amazon Basics Electric Stainless Steel Kettle for Tea and Coffee: The $30 Workhorse That Just Works  

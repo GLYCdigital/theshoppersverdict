@@ -1,4 +1,5 @@
 ---
+
 title: "Babe Original 4 Real Mascara Black for Volume, Length, and L"
 seo_title: "Babe Original 4 Real Mascara Review: Volumizing & Lengthening"
 meta_description: "Babe Original 4 Real Mascara review: Does this volumizing, lengthening formula deliver? Real user feedback, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GMZ6XX5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wOIEhmvHL._SL1080_.jpg"
-pros:
+pros: 
   - "Delivers noticeable length without clumping, even after multiple coats"
   - "Holds a curl well throughout the day without flaking or smudging"
   - "Wand design separates lashes effectively, avoiding the spider-leg look"
-cons:
+cons: 
   - "Formula can dry out faster than comparable mascaras if the tube isn't sealed tightly"
   - "Not fully waterproof — heavy sweat or tears will cause minor running"
+
 ---
 
 If you're chasing the "my lashes but better" look without reaching for falsies, the Babe Original 4 Real Mascara has been quietly building a reputation on Amazon. With 210 ratings and a solid 4.2-star average, it's not the flashiest launch of the year, but it's earning its keep in makeup bags. The question is whether it deserves a spot in yours.

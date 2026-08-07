@@ -1,4 +1,5 @@
 ---
+
 title: "087 square nail tips"
 seo_title: "087 Square Nail Tips Review: Are They Worth It?"
 meta_description: "Honest 087 square nail tips review: coverage, wear, sizing, and value. See if this luxury press-on set earns its 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBTVY78H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Uo4RYfzWL._SL1483_.jpg"
-pros:
+pros: 
   - "Full-coverage construction — no see-through patches even with sheer polish"
   - "24-size gradient case means near-custom fit for most nail beds"
   - "Reusable up to 3 times with proper removal and storage"
-cons:
+cons: 
   - "Square shape runs slightly wide — narrow nail beds may need filing"
   - "No adhesive tabs included in the base set; you'll need to buy separately"
+
 ---
 
 Let's be blunt: most press-on nail sets are disposable afterthoughts. The 087 square nail tips, however, are trying to be something more — a reusable, salon-adjacent option that doesn't crumble after one wear. With a 4.6 average across 229 ratings, they're clearly doing something right. The question is whether they're right for *you*.

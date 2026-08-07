@@ -1,4 +1,5 @@
 ---
+
 title: "FLOORLOT GoldMax Premium Floor Underlayment - 200 sqft Roll"
 seo_title: "FLOORLOT GoldMax Underlayment Review: 3mm Premium Foam"
 meta_description: "Honest FLOORLOT GoldMax 3mm underlayment review: 200 sqft coverage, moisture barrier, sound reduction. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07XHC8PL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L4yOIzzkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Attached 6-mil poly film acts as a built-in vapor barrier — no separate plastic sheeting needed before installation"
   - "Closed-cell crosslinked foam resists compression, so it won't flatten out under heavy furniture or high-traffic areas"
   - "Covers a true 200 sq ft with 54-inch width, meaning fewer seams and less waste on most room layouts"
-cons:
+cons: 
   - "3mm thickness is on the thinner side for soundproofing — don't expect dramatic noise reduction in multi-story homes"
   - "The attached film can wrinkle if you unroll it too quickly; needs a slow, deliberate installation approach"
+
 ---
 
 # FLOORLOT GoldMax Premium Floor Underlayment: The 3-in-1 Layer That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "SWEDISH FISH Individually Wrapped Soft & Chewy Gummy Candy, "
 seo_title: "SWEDISH FISH Individually Wrapped Soft & Chewy Gum Review"
 meta_description: "Our full swedish fish individually wrapped soft & chewy gummy candy,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004KAT9HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-d5L48bML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 240-Count Bulk Box That Actually Makes Sense**

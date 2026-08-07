@@ -1,4 +1,5 @@
 ---
+
 title: "RooTrimmer 4/6/8/10 Inch Plant Pots with Drainage"
 seo_title: "RooTrimmer 4/6/8/10 Inch Plant Pots with Drainage Review:"
 meta_description: "Our full rootrimmer 4/6/8/10 inch plant pots with drainage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9BR2DZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Nogs-GzNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "set" of plant pots only to find three of them are basically identical, the RooTrimmer 4/6/8/10 Inch Plant Pots solve that specific frustration. This is a graduated set — four pots, four sizes, each one proportionally bigger than the last. For someone starting seeds or propagating cuttings that need to move up incrementally, that's genuinely useful. It's not a flashy product, but it does exactly what it claims, and at 4.6 stars across 229 ratings, buyers mostly agree.

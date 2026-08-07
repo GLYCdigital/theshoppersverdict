@@ -1,4 +1,5 @@
 ---
+
 title: "Domusensus Convertible Sofa Bed, Sleeper Sofa, Pull Out Couc"
 seo_title: "Domusensus Convertible Sofa Bed Review: Smart Pick?"
 meta_description: "Domusensus Convertible Sofa Bed review: 4.4-star sleeper sofa tested for comfort, durability & setup. See who it fits and who should skip."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVZ75FCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716okpJwkaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position backrest that reclines flat without removing cushions — no loose pieces to store"
   - "Breathable linen-blend upholstery holds up to daily sitting without pilling or sagging"
   - "Tool-free 10-minute assembly with pre-attached legs and clear instructions"
-cons:
+cons: 
   - "Firm mattress feel — side sleepers may need a foam topper for overnight comfort"
   - "Seat depth runs shallow at 21 inches, less ideal for taller adults lounging"
+
 ---
 
 If you live in a studio, host guests twice a year, or just refuse to pay $1,200 for a sofa that does one thing, the Domusensus Convertible Sofa Bed deserves a hard look. At 4.4 stars across 220 ratings, it's not perfect — but it solves a specific problem well. Here's the honest breakdown.

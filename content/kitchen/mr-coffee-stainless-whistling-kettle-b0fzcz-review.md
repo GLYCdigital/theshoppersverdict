@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee Stainless Whistling Kettle"
 seo_title: "Mr. Coffee Stainless Whistling Kettle Review: Verdict | T"
 meta_description: "Our full mr. coffee stainless whistling kettle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FZCZ4PLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FhBjZzdlS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some kettles look great on the shelf but underwhelm on the stove. The Mr. Coffee Stainless Whistling Kettle is not that kettle. At 4.3 stars across 215 ratings, this is a workhorse that does exactly what a stovetop kettle should: heat water fast, whistle loudly, and pour clean. But it also has a couple of quirks you should know about before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "DOPEDIO Modern Sofa 71.25inch Green"
 seo_title: "DOPEDIO Modern Sofa Review: 71.25 inch Green 3-Seater"
 meta_description: "DOPEDIO Modern Sofa 71.25inch Green review: Is this 3-seater worth it? Real buyer feedback on comfort, assembly, and quality. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DG2WLMC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qbb2Pn98L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood frame rated for 750 lbs — holds up under daily family use, not just decorative"
   - "Velvet-feel upholstery is stain-resistant and easy to wipe clean, a practical win for households with kids or pets"
   - "Fits standard doorways at 71.25 inches wide — no angled carrying through narrow hallways required"
-cons:
+cons: 
   - "Low back height (around 30 inches) offers minimal neck support — poor choice for tall people or those who like to recline"
   - "Assembly requires two people; some buyers report misaligned screw holes that need extra patience to line up"
+
 ---
 
 You don't need another sofa that looks great in the listing photos but collapses by month three. The DOPEDIO Modern Sofa at 71.25 inches wide has earned a solid 4.0 from 200 buyers — and that score tells a more interesting story than the marketing copy ever could. Let's break down what you're actually getting for your money.

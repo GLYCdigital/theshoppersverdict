@@ -1,4 +1,5 @@
 ---
+
 title: "Fire Pit Screen Round, Heavy Duty Collapsible Outdoor Fire P"
 seo_title: "Fire Pit Screen Round Review: Heavy Duty Collapsible Spark Guard"
 meta_description: "Honest Fire Pit Screen Round review: heavy-duty collapsible spark guard. Tested for durability, spark control, and fit. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3LTN2G9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iC9TrjkLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Folds flat for storage with a locking hinge that stays put when open"
   - "Stainless steel mesh holds up to repeated high-heat exposure without warping"
   - "Universal fit — 30-inch diameter covers most standard fire pits without gaps"
-cons:
+cons: 
   - "No weight anchor or securing pin; strong gusts can lift it if the fire pit rim is smooth"
   - "Handle gets hot if left resting against the mesh during a long burn"
+
 ---
 
 A fire pit without a screen is a liability. One gust of wind, one dry leaf, one careless spark landing on the deck — and you're dealing with a burn mark or worse. This heavy-duty collapsible spark screen from the B0D3LTN2G9 listing aims to solve that problem without taking up permanent space next to your Adirondack chairs. And for the most part, it does exactly what it claims.

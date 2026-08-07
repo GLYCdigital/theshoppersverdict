@@ -1,4 +1,5 @@
 ---
+
 title: "Sooez 6 Pack Colored Two Pocket Folders"
 seo_title: "Sooez 6 Pack Colored Two Pocket Folders Review: Verdict |"
 meta_description: "Our full sooez 6 pack colored two pocket folders review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8J131RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Sx5MxILPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most two-pocket folders are disposable junk you buy in August and replace by Thanksgiving. The Sooez 6-pack is not that. After 240 ratings averaging 4.8 stars, this is the rare budget folder that punches above its price point — but it's not without quirks.

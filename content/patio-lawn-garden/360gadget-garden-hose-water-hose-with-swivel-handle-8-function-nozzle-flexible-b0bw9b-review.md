@@ -1,4 +1,5 @@
 ---
+
 title: "360Gadget Garden Hose - Water Hose with Swivel Handle & 8 Fu"
 seo_title: "360Gadget Garden Hose Review: Swivel Handle & 8 Functions"
 meta_description: "Honest 360Gadget garden hose review: 50ft flexible hose with swivel handle and 8-function nozzle. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW9BRNPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g1-rShRXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Swivel handle prevents hose kinking at the connection point — a common failure on cheaper hoses"
   - "8-function nozzle delivers everything from a fine mist to a powerful jet without switching attachments"
   - "Lightweight, flexible construction makes it easy to maneuver around corners and garden beds"
-cons:
+cons: 
   - "No burst rating printed on the hose — heavy-duty users should pair it with a pressure regulator"
   - "Brass fittings are solid but the included rubber washers can dry out and need periodic replacement"
+
 ---
 
 Let’s cut to the chase: most garden hoses under $40 are either stiff, kink-prone, or have connectors that leak after two months. The 360Gadget Garden Hose with Swivel Handle and 8-Function Nozzle tries to solve all three problems at once. After digging through 225 ratings and the spec sheet, here’s what actually matters.

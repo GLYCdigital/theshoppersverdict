@@ -1,7 +1,8 @@
 ---
-title: "Unicaravan Shade Sail Hardware Kit 6 inch with 1/8\" Wire Rop"
+
+title: "Unicaravan Shade Sail Hardware Kit 6 inch with 1/8\ Wire Rop"
 seo_title: "Unicaravan Shade Sail Hardware Kit 6 inch with 1/8 Review"
-meta_description: "Our full unicaravan shade sail hardware kit 6 inch with 1/8\" wire rop review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full unicaravan shade sail hardware kit 6 inch with 1/8\ wire rop review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "unicaravan-shade-sail-hardware-kit-6-inch-with-1-8-wire-rope-b0d472-review"
 image_alt: "Unicaravan Shade Sail Hardware Kit 6 inch with 1/8 Wire Rope Kit for Triangle Rectangle Sun Shade Sail Outdoor Installat"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D472171F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HYrscvwDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Unicaravan Shade Sail Hardware Kit 6 inch: The Complete Rigging Solution

@@ -1,4 +1,5 @@
 ---
+
 title: "AnkerWork SR500 By Anker Conference Speaker and Microphone w"
 seo_title: "AnkerWork SR500 Review: Is This AI Speaker Worth It?"
 meta_description: "Read our honest AnkerWork SR500 review. We break down VoiceRadar AI, 8 mics, and speaker quality to see if this conference speaker delivers."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BGPSDR2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zjyISzjhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "VoiceRadar AI actually isolates and amplifies the active speaker's voice while suppressing background chatter — tested in a noisy open office"
   - "360-degree 8-microphone array picks up voices clearly from 16 feet away, so no one has to lean into the device"
   - "Dual 8W full-range drivers deliver surprisingly rich audio for a device this size — music sounds good between calls"
-cons:
+cons: 
   - "No Bluetooth support means phone-only calls require the USB dongle or wired connection, which is a real limitation for mobile-first workers"
   - "The companion app is clunky and lacks advanced EQ controls — you're stuck with the default sound profile"
   - "At this price point, the lack of a carry case feels stingy for a device marketed as portable"
+
 ---
 
 # AnkerWork SR500 Review: Serious AI Noise Cancellation, Serious Caveats

@@ -1,4 +1,5 @@
 ---
+
 title: "Gevi 10-Cup Drip Coffee Maker with Burr Grinder, Programmable Timer, 1.5L Water Tank, Reusable Filter, Warming Plate, All-in-One Brew & Grind Coffee Machine"
 seo_title: "Gevi 10-Cup Coffee Maker Review: Burr Grinder + Brewer"
 meta_description: "Honest Gevi 10-cup coffee maker review: burr grinder, programmable timer, reusable filter. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 909
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GV293Z4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NCEoDStiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated conical burr grinder grinds fresh just before brewing — noticeably better flavor than blade-grinder combos"
   - "1.5L tank brews a full 10 cups without refilling, and the warming plate holds coffee at drinkable temp for 2+ hours"
   - "Reusable stainless mesh filter eliminates paper filter costs and waste; grinds-size dial lets you dial in from coarse to fine"
-cons:
+cons: 
   - "Burr grinder is loud — expect a solid 20-30 seconds of noise that will wake light sleepers"
   - "Carafe lid doesn't seal fully; pouring can drip if you tilt too aggressively"
   - "No auto-shutoff on the warming plate — you have to remember to power down manually or coffee scorches after ~3 hours"
+
 ---
 
 **Bottom line up front:** The Gevi 10-Cup All-in-One is the rare budget-friendly machine that gets the *grind-brew sequence* right. For $149.99, you're getting a real conical burr grinder (not a whirly blade), a 10-cup capacity that actually delivers, and a programmable timer that means fresh coffee is waiting when you stumble into the kitchen. It's not perfect — the grinder is loud and the warming plate has no auto-off — but for the price, it punches well above its weight class.

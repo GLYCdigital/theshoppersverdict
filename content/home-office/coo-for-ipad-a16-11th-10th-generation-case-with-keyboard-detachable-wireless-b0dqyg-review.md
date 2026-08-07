@@ -1,4 +1,5 @@
 ---
+
 title: "COO for iPad A16 11th 10th Generation Case with Keyboard, De"
 seo_title: "COO iPad Keyboard Case Review: A16/11th Gen Tested"
 meta_description: "Honest COO iPad A16 11th/10th gen keyboard case review: detachable wireless keyboard, build quality, typing feel, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQYGGXWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81coy+6exLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Detachable magnetic keyboard and backlit keys with adjustable brightness levels"
   - "Full-function trackpad supports multi-touch gestures without lifting fingers from keys"
   - "Precision-cut camera bump and speaker grilles that align perfectly with iPad A16/11th gen"
-cons:
+cons: 
   - "No function row — media controls require on-screen shortcuts or key combos"
   - "Trackpad is serviceable but smaller than Apple's Magic Keyboard, so palm rejection takes adjustment"
+
 ---
 
 Let's be blunt: most iPad keyboard cases under $100 are flimsy compromises. The COO case for the iPad A16 11th and 10th generations isn't trying to be a Magic Keyboard clone—it's aiming for something smarter. And for the most part, it lands.

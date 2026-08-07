@@ -1,7 +1,8 @@
 ---
-title: "JET JBM-5 Benchtop Mortiser, 1/2\" Capacity, 1/2HP (708580)"
-seo_title: "JET JBM-5 Benchtop Mortiser, 1/2\" Capacity, 1/2HP  Review"
-meta_description: "Our full jet jbm-5 benchtop mortiser, 1/2\" capacity, 1/2hp (708580) review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JET JBM-5 Benchtop Mortiser, 1/2\ Capacity, 1/2HP (708580)"
+seo_title: "JET JBM-5 Benchtop Mortiser, 1/2\ Capacity, 1/2HP  Review"
+meta_description: "Our full jet jbm-5 benchtop mortiser, 1/2\ capacity, 1/2hp (708580) review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "jet-jbm-5-benchtop-mortiser-1-2-capacity-1-2hp-708580-b099pd-review"
 image_alt: "JET JBM-5 Benchtop Mortiser, 1/2 Capacity, 1/2HP (708580)"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B099PDWJX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HYyhAOW8L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cutting a row of crisp, identical mortises by hand with a chisel and mallet is a skill. It's also slow, and if you're honest, your results are probably mediocre. The JET JBM-5 Benchtop Mortiser exists to eliminate that entire category of frustration. After 220 Amazon ratings averaging 4.4 stars, the consensus is clear: this is a serious benchtop tool, not a toy. But it's not without quirks. Here's what you need to know before you hand over your money.

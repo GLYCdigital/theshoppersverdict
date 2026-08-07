@@ -1,4 +1,5 @@
 ---
+
 title: "Flysein Under Cabinet Lights Wireless,Motion Sensor Light In"
 seo_title: "Flysein Under Cabinet Lights Review: Motion Sensor LED"
 meta_description: "Flysein under cabinet lights wireless motion sensor review: brightness, battery life, install. See real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZXCJTJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QwthuGcpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic mount with included metal plates means zero-drill install in under two minutes per light"
   - "Three color temperature settings (warm/natural/cool) actually shift noticeably, not just marketing labels"
   - "Motion sensor catches movement at a wide angle with adjustable sensitivity — avoids the 'lights off mid-task' problem"
-cons:
+cons: 
   - "Battery life lands closer to 2–3 weeks on high brightness with frequent motion triggers, not the 3 months advertised"
   - "No dimming control — you're locked into the fixed brightness level regardless of setting"
   - "PIR sensor has a 10-second delay before lights off after motion stops, which feels long when you're leaving the room"
+
 ---
 
 Let's cut through the noise on the Flysein Under Cabinet Lights. With a 4.4-star average from 220 ratings, these wireless motion sensor lights have clearly found an audience. The question is whether they belong in your kitchen, closet, or hallway — or whether you should keep shopping.

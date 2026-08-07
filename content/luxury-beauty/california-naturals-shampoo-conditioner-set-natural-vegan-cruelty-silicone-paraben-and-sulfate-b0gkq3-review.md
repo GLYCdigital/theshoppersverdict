@@ -1,4 +1,5 @@
 ---
+
 title: "California Naturals Shampoo & Conditioner Set, Natural, Vega"
 seo_title: "California Naturals Shampoo & Conditioner Set Review (2026)"
 meta_description: "Honest California Naturals Shampoo & Conditioner Set review: vegan, sulfate-free formula tested for real hair. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GKQ3RJ2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wIyx95zvL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sulfate-free lather — cleans without stripping color or leaving hair squeaky-dry"
   - "Vega formula with botanical extracts performs well on wavy and curly textures, not just straight hair"
   - "Conditioner detangles effectively with a quarter-sized amount, so the set lasts longer than drugstore pairs"
-cons:
+cons: 
   - "Scent is polarizing — earthy botanical profile leans herbal, not for those wanting fruity or floral fragrance"
   - "Bottles lack a pump; the thick conditioner requires shaking or squeezing hard in the last third"
   - "Thin shampoo consistency means you may use more than expected on very thick or long hair"
+
 ---
 
 Let's cut through the "clean beauty" marketing noise. The California Naturals Shampoo & Conditioner Set in the Vega formula has earned a 4.4-star average across 220 ratings — a solid score, but not a universal lovefest. Here's what that rating actually means for your hair.

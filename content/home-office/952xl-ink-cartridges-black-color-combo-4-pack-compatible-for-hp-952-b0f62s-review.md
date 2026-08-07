@@ -1,4 +1,5 @@
 ---
+
 title: "952xl Ink Cartridges Black Color Combo 4-Pack Compatible for"
 seo_title: "952XL Ink Cartridges Black/Color 4-Pack Review (2026)"
 meta_description: "Honest 952XL ink cartridge 4-pack review: print quality, page yield, compatibility issues, and cost savings vs. OEM HP. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F62SYTX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FCZ8UQGAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial cost savings — typically 50-60% less than OEM HP 952XL cartridges per page"
   - "Includes two black and two color (cyan, magenta, yellow) cartridges, covering full-color workloads"
   - "Chip technology generally recognized by HP printers without firmware-block errors on most units"
-cons:
+cons: 
   - "Inconsistent quality control — some buyers report leaking cartridges or chips that fail within days"
   - "Page yield falls short of genuine HP 952XL ratings; realistic output is closer to 80-85% of claimed"
   - "No OEM-grade warranty or support; printer damage from leaks isn't covered by printer manufacturers"
+
 ---
 
 If you own an HP OfficeJet Pro that takes 952XL cartridges, you already know the sting of paying $50-plus for a single genuine black cartridge. This compatible 4-pack — two black, one cyan, one magenta, one yellow — promises the same print volume at a fraction of the cost. At 3.8 stars from 190 ratings, it's not a slam dunk. Here's the breakdown.

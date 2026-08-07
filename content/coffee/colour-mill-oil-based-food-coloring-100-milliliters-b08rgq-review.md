@@ -1,4 +1,5 @@
 ---
+
 title: "Colour Mill Oil-Based Food Coloring, 100 Milliliters"
 seo_title: "Colour Mill Oil-Based Food Coloring Review (100ml)"
 meta_description: "Colour Mill Oil-Based Food Coloring review: 4.6★. Does it stain? Is it worth it for buttercream, chocolate, and macarons? Real buyer results."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08RGQ5RG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b6GR3rj4L._SL1500_.jpg"
-pros:
+pros: 
   - "Oil-based formula won't seize chocolate or thin out buttercream like water-based gels"
   - "Concentrated pigment — a few drops deliver deep, true color without altering consistency"
   - "100ml squeeze bottle with precision tip gives good control for small batches"
-cons:
+cons: 
   - "Will stain light-colored fabrics and plastic tools permanently — wear gloves"
   - "Not suitable for recipes with high water content like cake batter or royal icing"
+
 ---
 
 # Colour Mill Oil-Based Food Coloring: The Fat-Lover's Secret Weapon

@@ -1,4 +1,5 @@
 ---
+
 title: "GF2054 Blower Motor 1/2 HP 115 Volt 60Hz 1725RPM 48 Frame Co"
 seo_title: "GF2054 Blower Motor Review: 1/2 HP 48 Frame Worth It?"
 meta_description: "GF2054 blower motor 1/2 HP review: 115V, 1725 RPM, 48 frame. Real buyer feedback on fit, noise, and durability. Is it right for your furnace?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DC63BC2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719PSzJZi7L._SL1500_.jpg"
-pros:
+pros: 
   - "Direct drop-in replacement for OEM GF2054 motors on common Carrier/Bryant furnace models — matches shaft diameter, length, and rotation exactly"
   - "1/2 HP delivers noticeably stronger airflow than the 1/3 HP motors many older units ship with, which improves heating/cooling distribution in larger homes"
   - "Smooth, quiet operation at 1725 RPM — several buyers report it's quieter than the original motor they replaced after 15+ years"
-cons:
+cons: 
   - "No mounting brackets or capacitors included — you'll reuse hardware from your old motor, which can be rusted or stripped on an aging furnace"
   - "Shaft keyway isn't pre-cut on some units, requiring a grinder or file to fit the blower wheel properly — a frustrating surprise mid-install"
   - "3.9-star average reflects a meaningful minority of DOA units or motors that hum but fail to start, so test before fully reassembling your furnace"
+
 ---
 
 ## The GF2054 Blower Motor: A Solid Replacement That Demands Patience

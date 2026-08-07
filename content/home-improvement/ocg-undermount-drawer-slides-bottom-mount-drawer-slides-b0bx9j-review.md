@@ -1,4 +1,5 @@
 ---
+
 title: "OCG Undermount Drawer Slides,Bottom Mount Drawer Slides"
 seo_title: "OCG Undermount Drawer Slides,Bottom Mount Drawer S Review"
 meta_description: "Our full ocg undermount drawer slides,bottom mount drawer slides review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BX9JZHWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RmHRuvoQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Undermount drawer slides are the unsung heroes of a smooth-gliding kitchen. The problem? Most affordable options either rattle, sag under weight, or slam shut with a bang. The OCG Undermount Drawer Slides sit in that crowded mid-price territory where quality varies wildly between brands. After digging through 215 ratings and testing the mechanics, here's the honest breakdown.

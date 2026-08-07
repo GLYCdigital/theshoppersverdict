@@ -1,4 +1,5 @@
 ---
+
 title: "Toddler Workbench & Tool Set with Battery-Operated Drill - I"
 seo_title: "Toddler Workbench & Tool Set with Battery-Operated Review"
 meta_description: "Our full toddler workbench & tool set with battery-operated drill - i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B097PTV4PY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EfwGmtBOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Real Drill Changes Everything**

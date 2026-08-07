@@ -1,4 +1,5 @@
 ---
+
 title: "Yechen Modern Dresser with Natural Rattan Drawers, Industria"
 seo_title: "Yechen Modern Dresser with Natural Rattan Drawers, Review"
 meta_description: "Our full yechen modern dresser with natural rattan drawers, industria review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C4B395XP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, you don't need another dresser that looks like every other flat-pack rectangle from a big-box store. The Yechen Modern Dresser with Natural Rattan Drawers is trying something different — blending warm woven texture with stark industrial metal. And for the most part, it works. But let's talk about whether it actually holds up in a real bedroom, not just in the product photos.

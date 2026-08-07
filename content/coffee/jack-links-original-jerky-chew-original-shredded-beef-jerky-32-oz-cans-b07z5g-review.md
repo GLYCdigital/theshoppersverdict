@@ -1,4 +1,5 @@
 ---
+
 title: "Jack Links Original Jerky Chew | Original Shredded Beef Jerk"
 seo_title: "Jack Links Original Jerky Chew | Original Shredded Review"
 meta_description: "Our full jack links original jerky chew | original shredded beef jerk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07Z5GF61L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xSDGaTdNL._SX342_PIbundle-6,TopRight,0,0_AA342SH20_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Snack That Chews Back — In a Good Way**

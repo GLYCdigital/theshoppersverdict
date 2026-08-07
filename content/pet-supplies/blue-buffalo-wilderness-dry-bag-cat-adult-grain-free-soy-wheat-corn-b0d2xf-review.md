@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE BUFFALO Wilderness Dry Bag Cat Adult Grain Free, Soy ,W"
 seo_title: "BLUE BUFFALO Wilderness Cat Food Review: Worth It? (2026)"
 meta_description: "Honest BLUE BUFFALO Wilderness dry cat food review: protein-rich, grain-free recipe analysis, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2XFCVB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f15K7tfLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deboned chicken is the first ingredient, with 40%+ crude protein to support lean muscle mass"
   - "Free of corn, wheat, soy, and artificial preservatives — no fillers that trigger sensitivities"
   - "LifeSource Bits deliver a precise blend of antioxidants, vitamins, and minerals in every kibble batch"
-cons:
+cons: 
   - "Higher price per pound than grocery-store brands — expect to pay a premium for the protein density"
   - "Some cats with very sensitive stomachs may need a slow 7-10 day transition to avoid loose stools"
+
 ---
 
 **Is this the high-protein cat food your finicky feline has been waiting for? Let's dig in.**

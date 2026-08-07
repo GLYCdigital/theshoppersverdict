@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Sam-I-Am Audio Play Character from Green Eggs and Ham"
 seo_title: "Tonies Sam-I-Am Audio Play Character from Green Eg Review"
 meta_description: "Our full tonies sam-i-am audio play character from green eggs and ham review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BPJVMYQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YrGNcTXNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your child already owns a Toniebox, this Sam-I-Am character is a no-brainer addition to the collection. If you're shopping for your first Tonie, understand this: the figurine is just the content key. The magic happens when you plop it on top of the box and the audio starts playing.

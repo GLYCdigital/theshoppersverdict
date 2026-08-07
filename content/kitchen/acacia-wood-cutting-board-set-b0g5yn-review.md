@@ -1,23 +1,25 @@
 ---
+
 title: "Acacia Wood Cutting Board Set"
 seo_title: "Acacia Wood Cutting Board Set Review (2026): Worth It?"
 meta_description: "Honest Acacia wood cutting board set review: durability, knife-friendliness, upkeep, and downsides. See if this 3-piece set earns its 4.4-star rating."
 slug: "acacia-wood-cutting-board-set-b0g5yn-review"
 image_alt: "Three-piece acacia wood cutting board set with juice groove and handle, stacked on kitchen counter"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G5YNQTJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816OWRukU+L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Three sizes cover everything from bread to brisket — no board swapping mid-prep"  
   - "Acacia's natural grain and honey-brown tone look far pricier than the tag"  
   - "Juice groove actually catches runoff; deep enough to prevent counter drips"  
-cons:  
+cons: 
   - "Wood requires monthly oiling; skip it and the surface dries and cracks"  
   - "No rubber feet — boards slide on smooth counters unless you dampen a towel underneath"
+
 ---
 
 Acacia wood has become the budget-friendly darling of the cutting board world, and this three-piece set is a solid example of why. For around what you'd pay for a single maple board, you get three boards in useful sizes — roughly 17", 14", and 11" long (check the listing for exact dimensions, as they vary slightly). The thickest board is a substantial 1.5" thick; the smaller two are thinner, around 0.6", which makes them light enough for quick tasks but not flimsy.

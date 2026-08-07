@@ -1,4 +1,5 @@
 ---
+
 title: "Brilliantool Low Voltage Landscape Transformerï¼ŒStainless S"
 seo_title: "Brilliantool Landscape Transformer Review: Stainless Steel 120V to 12V/15V"
 meta_description: "Brilliantool low voltage landscape transformer review: stainless steel housing, 120V to 12V/15V output. Real pros, cons, and buying advice from 229 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB7W6BYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mf7XViUfL._SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel housing resists rust and corrosion far better than the painted steel boxes most competitors use at this price point"
   - "Dual voltage output (12V and 15V taps) gives flexibility to compensate for voltage drop on longer wire runs"
   - "Built-in photocell and timer work together — dusk-to-dawn automation without needing a separate smart plug"
-cons:
+cons: 
   - "Photocell sensor can be overly sensitive in partially shaded locations, occasionally triggering lights on overcast days"
   - "No Wi-Fi or app control — if you want scheduling from your phone, this isn't the unit"
+
 ---
 
 **The stainless steel shell is the story here.** Most landscape transformers in this class come wrapped in painted sheet metal that starts flaking within two seasons. Brilliantool went with actual stainless — the kind of housing that shrugs off rain splash, sprinkler overspray, and the corrosive mix of fertilizer and mulch that eats lesser boxes alive. If you've replaced a rusted-out transformer before, you already know why that matters.

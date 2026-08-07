@@ -1,16 +1,17 @@
 ---
+
 title: "ESPRO Light P3 French Press Coffee Maker – Patented Double Micro-Filter for Grit-Free Brew, Heat Resistant thicker Borosilicate Glass Coffee press – (Black, 32 oz)"
 seo_title: "ESPRO Light P3 French Press Coffee Maker – Patente Review"
 meta_description: "Honest espro light p3 french press coffee maker review based on 3,037+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "espro-light-p3-french-press-coffee-maker-patented-double-micro-filter-for-review"
 image_alt: "ESPRO Light P3 French Press Coffee Maker – Patented Double Micro-Filter for Grit-Free Brew, Heat Resistant thicker Boros"
-keywords:
+keywords: 
   - "espro light p3 review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Is the ESPRO Light P3 French Press easy to set up?"
     answer: "Yes — straightforward to set up. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Is the ESPRO Light P3 French Press well-made?"
@@ -23,13 +24,14 @@ review_count: 3037
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B011WTM622/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wCApbpxtL._AC_SL1452_.jpg"
-pros:
+pros: 
   - "Easy to set up and use"
   - "Solid build quality that holds up"
   - "Clean and practical design"
-cons:
+cons: 
   - "Some durability concerns over time"
   - "Performance may not satisfy power users"
+
 ---
 
 If you're shopping for a coffee maker or brewer, you've probably noticed the ESPRO Light P3 French Press Coffee.... After combing through 3,037 Amazon customer reviews, one thing is clear: reviewers consistently highlight its straightforward setup and daily use as a key strength.

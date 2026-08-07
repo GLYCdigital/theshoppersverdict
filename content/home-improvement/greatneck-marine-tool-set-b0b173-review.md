@@ -1,4 +1,5 @@
 ---
+
 title: "GreatNeck Marine Tool Set"
 seo_title: "GreatNeck Marine Tool Set Review: Verdict | TSV"
 meta_description: "Our full greatneck marine tool set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B173N7KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hEWbeBoPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The GreatNeck Marine Tool Set** is the kind of thing you buy *before* you need it — because the moment your bilge pump impeller jams mid-channel, a rusty socket from your garage kit isn't going to save you. This 33-piece kit is engineered for the salt-air reality of boating, and for the price, it's a smart insurance policy. But it's not without compromises.

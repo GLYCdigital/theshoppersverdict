@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Impact Wrench 1/2 inch for Dewalt 20V Battery, 1000 inch"
 seo_title: "Cordless Impact Wrench 1/2 inch for Dewalt 20V Battery Review"
 meta_description: "Honest review of the 1/2-inch cordless impact wrench for Dewalt 20V batteries. 1000 ft-lb torque, real-world testing, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQKTMLMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YlF5U24ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers genuine 1000 ft-lb breakaway torque — handles rusted lug nuts and tractor lugs without breaking a sweat"
   - "Accepts genuine Dewalt 20V batteries with no adapter plate, so your existing charger and spares work immediately"
   - "Compact head length under 7 inches reaches tight wheel wells and frame areas where bulky units won't fit"
-cons:
+cons: 
   - "Bare tool only — no battery or charger included, which catches some buyers off guard"
   - "Weight sits around 5.9 lbs with a 5Ah battery, noticeably heavier than premium name-brand options"
+
 ---
 
 If you already own Dewalt 20V tools, this bare-tool impact wrench is the budget-friendly way to add serious lug-nut-busting power without buying into a second battery platform. At roughly $80–100 street price (check current pricing), it undercuts Dewalt's own 1/2-inch high-torque model by half while claiming the same 1000 ft-lb breakaway rating. The catch? You need to manage expectations on build refinement and ergonomics.

@@ -1,4 +1,5 @@
 ---
+
 title: "Curaprox CS 12460 Velvet Soft Toothbrush – Sensitive Gum Care"
 seo_title: "Curaprox CS 12460 Review: Ultra-Soft Bristles, Real Results"
 meta_description: "Curaprox CS 12460 Velvet Soft toothbrush review: 12,460 ultra-fine bristles for sensitive gums. Does it live up to the hype? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B093FQYQJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yrMGjLEcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12,460 ultra-fine bristles create a dense cushion that removes plaque without the abrasive feel of standard bristles"
   - "Extra-small compact head reaches molars and tight posterior spaces with ease"
   - "Swiss-made CUREN filaments are soft yet durable—no splaying or fraying after weeks of twice-daily use"
-cons:
+cons: 
   - "Bristles are so soft that some users find them too gentle—requires intentional technique to feel a deep clean"
   - "No travel case included, which is a miss at this price point"
   - "Rubber handle grip collects toothpaste residue and needs regular wiping"
+
 ---
 
 **The toothbrush that makes you rethink everything you thought about brushing.**

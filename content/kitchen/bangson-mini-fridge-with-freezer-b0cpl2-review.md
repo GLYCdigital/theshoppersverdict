@@ -1,4 +1,5 @@
 ---
+
 title: "BANGSON Mini Fridge with Freezer"
 seo_title: "BANGSON Mini Fridge Review: Compact Freezer Combo (2026)"
 meta_description: "Honest BANGSON Mini Fridge with Freezer review: real-world performance, noise levels, capacity tests, and who should buy this compact fridge."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CPL2TDWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qXXMei3oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True separate freezer compartment with its own door — rare at this price point, actually holds a full ice cube tray plus a pint of ice cream"
   - "Thermoelectric cooling runs nearly silent at 28-32 dB, quiet enough for a bedroom nightstand"
   - "Reversible door hinge gives you left or right swing — a small detail most budget fridges skip entirely"
-cons:
+cons: 
   - "Thermoelectric system cools to about 32-40°F below ambient, so it won't handle a hot garage in July — ambient temps above 85°F will struggle"
   - "Freezer is frost-free but not truly freezing; it hovers around 15-20°F, which keeps ice cream scoopable but won't hard-freeze meat"
   - "No internal light — finding snacks in a dark dorm room at 2 AM requires phone flashlight"
+
 ---
 
 Most mini fridges under $150 are a compromise wrapped in plastic. The BANGSON Mini Fridge with Freezer tries to break that mold by offering something its competitors at this price point often skip: an actual separate freezer door. After 215 Amazon ratings averaging 4.3 stars, the question isn't whether it's popular — it's whether it actually performs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Calvin Klein Eternity Aqua Eau De Toilette â€“ Woody Men's C"
 seo_title: "Calvin Klein Eternity Aqua Review: Fresh Woody Men's Cologne"
 meta_description: "Honest Calvin Klein Eternity Aqua review: performance, projection, and longevity of this fresh woody men's cologne. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2N4GHW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IeUkGjDOL._SL1500_.jpg"
-pros:
+pros: 
   - "Impressive 6–8 hour longevity for an EDT, outperforming most fresh aquatic scents in its class"
   - "Versatile enough for office, weekend errands, and date nights without feeling overpowering"
   - "Balanced woody-aquatic profile with genuine depth — not a generic blue scent"
-cons:
+cons: 
   - "Projection is moderate at best; don't expect a room-filling sillage after the first hour"
   - "The aquatic top notes fade quickly, leaving the woody base to carry most of the wear"
+
 ---
 
 You know that feeling when a "fresh" men's cologne smells like every other blue bottle on the shelf? Eternity Aqua isn't that. Calvin Klein's take on the aquatic-woody genre actually commits to the "aqua" part with a genuine saltwater crispness, then settles into a warm sandalwood base that gives it character most budget freshies lack. At a 4.6-star average across 229 ratings, it's clearly connecting with the right buyers. But is it worth your money? Here's the breakdown.

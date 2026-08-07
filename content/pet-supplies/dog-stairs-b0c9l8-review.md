@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Stairs"
 seo_title: "Dog Stairs Review: 4.4-Star Rated Pet Steps for Small Dogs"
 meta_description: "Read our honest Dog Stairs review. We break down build quality, stability, and real buyer feedback on these 4.4-star rated pet steps."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C9L8TVYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dNDIXg5oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Non-slip step surface with high-density foam core that holds firm under 20+ lb dogs"
   - "Lightweight at roughly 4 lbs — easy to move between rooms but sturdy enough not to slide"
   - "Removable, machine-washable cover handles accidents and muddy paws without a hassle"
-cons:
+cons: 
   - "No anti-slip backing on the base — can shift on hardwood or tile floors without a rug underneath"
   - "Only suitable for small breeds under 25 lbs; larger dogs will likely find the steps too narrow"
+
 ---
 
 **Dog Stairs Review: Are These 4.4-Star Pet Steps Worth Your Money?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Cat 6 Gigabit Ethernet Patch Internet Cable"
 seo_title: "Amazon Basics Cat 6 Ethernet Cable Review: Worth It?"
 meta_description: "Amazon Basics Cat 6 Gigabit Ethernet cable review: performance, build quality, real-world speed tests, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHSZFTX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713rquLxvKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Snagless RJ45 connectors with molded strain relief boots — no broken tabs after repeated plug/unplug cycles"
   - "Flat, flexible jacket makes routing under rugs and along baseboards genuinely easy"
   - "Full 250MHz bandwidth rating supports 10GbE at shorter runs, not just gigabit"
-cons:
+cons: 
   - "No shielding (UTP) — don't run it parallel to power cables or expect great EMI rejection in noisy environments"
   - "Flat design can kink if you bend it sharply at the connector; give it a gentle curve"
   - "Length options cap out at 50 feet — longer runs need a different product"
+
 ---
 
 Most people overthink Ethernet cables. You plug it in, it works, you forget it exists. The Amazon Basics Cat 6 Gigabit patch cable is exactly that — unremarkable in the best possible way. But before you grab one, let's talk about what you're actually getting for the money, because there are a few things the product photos don't tell you.

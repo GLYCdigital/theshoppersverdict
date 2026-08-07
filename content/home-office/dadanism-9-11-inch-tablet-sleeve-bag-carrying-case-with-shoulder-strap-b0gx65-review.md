@@ -1,4 +1,5 @@
 ---
+
 title: "Dadanism 9-11 Inch Tablet Sleeve Bag Carrying Case with Shou"
 seo_title: "Dadanism Tablet Sleeve Review: 9-11 Inch Case with Strap"
 meta_description: "Dadanism 9-11 inch tablet sleeve bag review: durable case with shoulder strap, padded protection, and real user feedback. Is it worth your money?"
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GX65MNHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KbEbcwokL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely padded — thick 10mm foam walls protect tablets from drops and bag compression"
   - "Fits a wide range — 9 to 11 inch devices including iPad 10th gen, Galaxy Tab S9, and hybrid laptops"
   - "Adjustable shoulder strap detaches for a slim sleeve-only carry option"
   - "Front pocket holds chargers, stylus, and small accessories without adding bulk"
-cons:
+cons: 
   - "No dedicated pen loop inside — stylus can shift if not in the accessory pocket"
   - "Strap clips feel sturdy but the hardware adds noticeable weight for a sleeve"
   - "Not waterproof — water-resistant exterior only, so rain protection is limited"
+
 ---
 
 The Dadanism 9-11 Inch Tablet Sleeve is the rare accessory that actually does what it promises: protect your device without making you carry a full briefcase. At 4.8 stars across 240 ratings, it's clearly earning its keep. But let's cut through the noise — is this sleeve right for you, or just another padded pouch?

@@ -1,4 +1,5 @@
 ---
+
 title: "Pearhead Ceramic Cat Bowl, Holds 12 oz, Whisker-Friendly Pet"
 seo_title: "Pearhead Ceramic Cat Bowl, Holds 12 oz, Whisker-Fr Review"
 meta_description: "Our full pearhead ceramic cat bowl, holds 12 oz, whisker-friendly pet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVJNMLDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611CfIwoGjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cat bowls are an afterthought — a plastic dish you grab at the grocery store checkout. The Pearhead Ceramic Cat Bowl isn't that. At 12 ounces with a deliberately shallow, wide profile, this bowl addresses a problem many owners don't even know their cat has: whisker stress. When a cat's whiskers brush against the sides of a deep bowl while eating, it triggers a sensory overload that can make them refuse food or eat less. This bowl's design sidesteps that entirely.

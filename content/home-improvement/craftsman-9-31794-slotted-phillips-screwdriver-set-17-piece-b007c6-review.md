@@ -1,4 +1,5 @@
 ---
+
 title: "Craftsman 9-31794 Slotted Phillips Screwdriver Set, 17 Piece"
 seo_title: "Craftsman 9-31794 Screwdriver Set Review: 17-Piece Value"
 meta_description: "In-depth Craftsman 9-31794 17-piece screwdriver set review. Tested for grip, durability, and fit. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B007C6LHXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711LQSOTfOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - Full 17-piece coverage spans both slotted and Phillips from tiny 3/32 inch " to heavy 1/4 inch " tips, eliminating the need to hunt for a second set
   - "Cushioned grip handles with deep fluting actually bite into your palm under torque — no rolling off the bench either"
   - "Heat-treated chrome vanadium shafts with magnetic tips hold screws securely at awkward angles"
-cons:
+cons: 
   - "Lacks stubby and precision sizes — you'll need a separate set for tight spaces or electronics work"
   - "Handle diameter runs slightly thick for smaller hands; extended use can fatigue users with a lighter grip"
+
 ---
 
 Some tool sets feel like they were assembled by an accountant — technically complete, but completely soulless. The Craftsman 9-31794 isn't that. This is a 17-piece collection that covers the screwdriver sizes you'll actually reach for, wrapped in the brand's familiar red and black. It's not flashy, but after spending time with it, I understand why it holds a 4.8-star average across 240 ratings. Let's dig into whether it deserves a spot in your drawer.

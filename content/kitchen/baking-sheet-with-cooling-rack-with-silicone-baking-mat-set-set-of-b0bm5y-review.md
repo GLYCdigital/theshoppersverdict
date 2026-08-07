@@ -1,4 +1,5 @@
 ---
+
 title: "Baking Sheet with Cooling Rack with Silicone Baking Mat Set,"
 seo_title: "Baking Sheet Cooling Rack Silicone Mat Set Review"
 meta_description: "Read our honest review of the Baking Sheet with Cooling Rack with Silicone Baking Mat Set. Performance, durability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BM5Y3M8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OtuuMQHEL._AC_SL1480_.jpg"
-pros:
+pros: 
   - "Heavy-gauge carbon steel sheet resists warping even at 450°F"
   - "Nonstick silicone mat fits perfectly and eliminates greasing and parchment waste"
   - "Stainless steel cooling rack has a tight grid that prevents small cookies from slipping through"
-cons:
+cons: 
   - "Silicone mat is not broiler-safe; must be removed for high-heat tasks"
   - "Cooling rack sits low, limiting airflow underneath for faster cooling"
+
 ---
 
 If you bake more than twice a month, you already know the pain: cookies that stick, sheets that warp in the oven, and racks that let your delicate sugar cookies fall through. The Baking Sheet with Cooling Rack with Silicone Baking Mat Set claims to solve all three problems at once. After digging through the specs and buyer feedback, here's what you're actually getting.

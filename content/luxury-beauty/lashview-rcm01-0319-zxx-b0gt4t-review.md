@@ -1,4 +1,5 @@
 ---
+
 title: "LASHVIEW RCM01-0319-ZXX"
 seo_title: "LASHVIEW RCM01-0319-ZXX Review: Verdict | TSV"
 meta_description: "Our full lashview rcm01-0319-zxx review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GT4T199Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZM2YAkQxL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the LASHVIEW RCM01-0319-ZXX: this is a lash serum that actually has a shot at working, and that's rarer than you'd think in the beauty aisle.

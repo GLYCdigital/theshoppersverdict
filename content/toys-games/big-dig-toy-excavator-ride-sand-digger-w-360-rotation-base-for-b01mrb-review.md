@@ -1,4 +1,5 @@
 ---
+
 title: "Big Dig Toy Excavator Ride, Sand Digger w/ 360 Rotation Base"
 seo_title: "Big Dig Toy Excavator Ride Review: 360° Sand Digger"
 meta_description: "Honest Big Dig Toy Excavator Ride review: 360° rotation base, real digging action, durability concerns. Is it worth the money? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MRBHGOQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PlOTezgXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 360° rotation lets kids dig in every direction without repositioning the base"
   - "Metal scoop and arm hold up to aggressive sandbox use, unlike flimsy plastic competitors"
   - "Sturdy steel frame supports up to 110 lbs, so siblings can share or parents can supervise from the seat"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes with a wrench; included instructions are sparse diagrams"
   - "The seat is fixed height — taller kids (6+) may find knees cramped against the armrests"
+
 ---
 
 **Bottom line up front:** If your kid is obsessed with construction vehicles, this is the one toy that actually works like a real excavator — not a plastic shell that tips over the first time they yank the joystick. At 4.7 stars from 235 ratings, it's earned its reputation, but there are a few things you should know before you click buy.

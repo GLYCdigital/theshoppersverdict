@@ -1,4 +1,5 @@
 ---
+
 title: "Captiva Designs Propane Gas BBQ Grill"
 seo_title: "Captiva Designs Propane BBQ Grill Review: Worth It?"
 meta_description: "Honest Captiva Designs Propane Gas BBQ Grill review: build quality, burn performance, real buyer feedback, and who should buy this 3.9-star grill."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D8PH8YWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uUlJfRkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three stainless steel burners deliver 30,000 BTU total output — enough heat for direct searing and indirect roasting across a 480-square-inch cooking surface"
   - "Side shelf folds down for compact storage on small patios or balconies; porcelain-coated grates resist rust better than bare cast iron at this price point"
   - "Assembly takes roughly 45 minutes with clear numbered parts — several buyers noted the instructions were more intuitive than typical budget grills"
-cons:
+cons: 
   - "Thin 0.8mm steel body panels show cosmetic dents in shipping; multiple reviews report bent shelves or misaligned doors on arrival"
   - "Grease management is mediocre — the drip tray sits close to the burners and can smoke during long low-temp cooks; no side burner for sauces"
   - "No built-in thermometer on the hood; you'll need an external probe to monitor internal temps reliably"
+
 ---
 
 The Captiva Designs Propane Gas BBQ Grill sits in a crowded lane: budget-friendly 4-burner grills that promise restaurant results for under $300. With a 3.9-star average across 195 ratings, it's neither a runaway hit nor a disaster — it's a grill with clear strengths and equally clear corners cut. Here's what you're actually getting before you swipe your card.

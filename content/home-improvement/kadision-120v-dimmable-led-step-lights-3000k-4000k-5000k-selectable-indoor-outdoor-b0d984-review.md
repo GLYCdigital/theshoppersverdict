@@ -1,4 +1,5 @@
 ---
+
 title: "kadision 120V Dimmable LED Step Lights, 3000K/4000K/5000K Se"
 seo_title: "kadision 120V Dimmable LED Step Lights, 3000K/4000 Review"
 meta_description: "Our full kadision 120v dimmable led step lights, 3000k/4000k/5000k se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D984GP8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KY0MjJSSL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos. These kadision step lights are line-voltage units, which means you're wiring them directly to your 120V household circuit — no transformer, no low-voltage driver, no extra junction box buried behind drywall. That's the headline feature, and for anyone who's wrestled with a 12V landscape lighting system, it's a genuine timesaver.

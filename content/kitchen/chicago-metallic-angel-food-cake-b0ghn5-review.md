@@ -1,24 +1,26 @@
 ---
+
 title: "Chicago Metallic Angel Food Cake"
 seo_title: "Chicago Metallic Angel Food Cake Review: 4.7-Star Pan"
 meta_description: "Chicago Metallic Angel Food Cake pan review: 4.7/5 stars from 235 buyers. Tested for rise, release, and cleanup. Find out if this tube pan earns its place."
 slug: "chicago-metallic-angel-food-cake-b0ghn5-review"
 image_alt: "Chicago Metallic angel food cake pan with removable bottom and tube center"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHN5H7WD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dOUW79c6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Aluminized steel heats evenly — no hot spots that scorch delicate batter"  
   - "Removable bottom releases cleanly without tearing the crust"  
   - "10-inch tube size fits standard recipes; handles stay cool enough to grip"  
-cons:  
+cons: 
   - "Hand-wash only — dishwasher will dull the finish and promote sticking"  
   - "No nonstick coating; you must grease and flour meticulously or use the 'cool upside down' method"  
   - "Tube collar can trap batter if you overfill; leave 1 inch of headroom"
+
 ---
 
 ## The Angel Food Pan That Actually Works (If You Follow the Rules)

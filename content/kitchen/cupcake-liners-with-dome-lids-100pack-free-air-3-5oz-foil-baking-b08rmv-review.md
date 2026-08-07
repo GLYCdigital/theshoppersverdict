@@ -1,4 +1,5 @@
 ---
+
 title: "Cupcake Liners with Dome Lids 100Pack,Free-Air 3.5Oz Foil Ba"
 seo_title: "Cupcake Liners with Dome Lids Review: 100-Pack Foil"
 meta_description: "Honest review of Free-Air 100-pack cupcake liners with dome lids. Tested for leaks, baking performance & sealing. See if they're worth buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08RMVTY6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810bWj3clFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3.5oz foil construction holds up to dense batters without buckling or tearing"
   - "Dome lids snap on securely for transport or storage — no cling wrap needed"
   - "Free-Air design lets you bake and serve in the same container, cutting cleanup time"
-cons:
+cons: 
   - "Lids are not airtight — don't expect leak-proof sealing for wet fillings"
   - "Foil liners can dent easily if handled roughly during transport"
+
 ---
 
 Let's be honest about cupcake liners: most are flimsy paper things that stick to your cake and collapse under batter weight. The Free-Air 3.5oz foil liners with dome lids are a different animal entirely. At 4.2 stars across 210 ratings, they've earned a reputation — but are they worth your money? Here's the breakdown after digging through real customer experiences.

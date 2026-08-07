@@ -1,15 +1,16 @@
 ---
+
 title: "Gritin 19 LED Rechargeable Book Light for Reading in Bed with Memory Function- Eye Caring 3 Color Temperatures,Stepless Dimming Brightness,90 Hrs Runtime Lightweight Clip on Light for Book Lovers"
 seo_title: "Gritin 19 LED Rechargeable Book Light for Reading  Review"
 meta_description: "Honest gritin 19 led rechargeable book light fo review based on 39,192+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "gritin-19-led-rechargeable-book-light-for-reading-in-bed-with-memory-review"
 image_alt: "Gritin 19 LED Rechargeable Book Light for Reading in Bed with Memory Function- Eye Caring 3 Color Temperatures,Stepless "
-keywords:
+keywords: 
   - "gritin 19 led review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Gritin 19 LED Rechargeable Book?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the Gritin 19 LED Rechargeable Book?"
@@ -22,10 +23,11 @@ review_count: 39192
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C3BC4QG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711p9Q6p0vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 There’s a specific frustration every nighttime reader knows: the awkward angle, the harsh glare, the phone flashlight that dies at the good part. The Gritin 19 LED Book Light claims to solve all that with a flexible neck, multiple brightness levels, and a memory function. At roughly $15–20, it’s positioned as a budget-friendly alternative to pricier options like the Glocusent or Mighty Bright. But does it actually deliver for bedtime reading, or is it just another gadget that ends up in a drawer? I tested it against real reading conditions—dark rooms, long sessions, and different book formats—to give you the straight answer.

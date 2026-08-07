@@ -1,4 +1,5 @@
 ---
+
 title: "Pro Grade - Chip Paint Brushes - 24 Ea 3 Inch Chip Paint Bru"
 seo_title: "Pro Grade - Chip Paint Brushes - 24 Ea 3 Inch Chip Review"
 meta_description: "Our full pro grade - chip paint brushes - 24 ea 3 inch chip paint bru review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B078XKB7SN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Md94xVTbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Performance and Real-World Use

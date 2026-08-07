@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Pride Ansaam Gold â€“ Fruity, Floral, Sweet, Musky â"
 seo_title: "Lattafa Pride Ansaam Gold â€“ Fruity, Floral, Swee Review"
 meta_description: "Our full lattafa pride ansaam gold â€“ fruity, floral, sweet, musky â review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BGW6H7PW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61udLZJzJKL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Lattafa’s Pride line has built a reputation for punching above its weight, and the Ansaam Gold is the latest contender. It’s a fruity-floral that leans sweet, anchored by a musky base that keeps it from floating off into generic candy territory. The Amazon rating sits at 4.2 out of 5 from 210 ratings — and after breaking down what owners actually say, that score feels earned, with a few caveats worth knowing before you buy.

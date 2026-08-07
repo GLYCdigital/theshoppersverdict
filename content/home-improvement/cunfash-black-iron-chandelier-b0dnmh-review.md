@@ -1,4 +1,5 @@
 ---
+
 title: "Cunfash Black Iron Chandelier"
 seo_title: "Cunfash Black Iron Chandelier Review: Honest 2026 Buyers Guide"
 meta_description: "Cunfash Black Iron Chandelier review: 229 ratings, 4.6 stars. Is this farmhouse-style 6-light fixture worth $139? We break down build, wiring, and sizing."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNMHQFS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71skYmua9rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full iron construction with a hand-rubbed matte black finish that resists fingerprints and smudging"
   - "Adjustable hanging rods let you dial in height from 20 to 48 inches without cutting any wires"
   - "Accepts standard E26 bulbs including LED, Edison, and smart bulbs — no proprietary hardware traps"
-cons:
+cons: 
   - "Bulbs not included, and some buyers report the candle sleeves are slightly too narrow for larger Edison bulbs"
   - "Wire nuts and mounting hardware are basic — budget-friendly but not heavy-duty for high-vibration environments"
+
 ---
 
 Let's cut through the marketing. The Cunfash Black Iron Chandelier sits at 4.6 stars across 229 Amazon ratings, and this is one of those rare cases where the math actually checks out. If you're shopping for that farmhouse-industrial statement piece without paying boutique lighting boutique prices, this fixture deserves a hard look. But before you click buy, here's the full picture.

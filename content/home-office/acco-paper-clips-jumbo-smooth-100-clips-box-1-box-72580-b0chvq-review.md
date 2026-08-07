@@ -1,4 +1,5 @@
 ---
+
 title: "ACCO Paper Clips, Jumbo, Smooth, 100 Clips/Box, 1 Box (72580 inch"
 seo_title: "ACCO Jumbo Paper Clips Review: 100 Smooth Clips Per Box"
 meta_description: "Read our honest ACCO Jumbo Paper Clips review. Smooth finish, strong hold, 100 per box. See pros, cons, and whether these heavy-duty clips fit your desk."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHVQ3LWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tgweTBcOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo 2-inch size grips 30+ pages without bending or losing shape"
   - "Smooth, snag-free finish won't tear paper or catch on clothing"
   - "Strong steel construction holds documents securely through handling and filing"
-cons:
+cons: 
   - "100-count box runs out fast if you clip frequently — no bulk option in this listing"
   - "Smooth coating means clips can slide off slick, glossy paper stock"
+
 ---
 
 Paper clips are supposed to be boring. You grab a handful, clip a report, and forget they exist. But the ACCO Jumbo Smooth clips (model 72580) have quietly earned a 4.7-star rating from 235 shoppers — and after testing a box, I understand why.

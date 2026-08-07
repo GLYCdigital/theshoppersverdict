@@ -1,4 +1,5 @@
 ---
+
 title: "StarTech.com USB Duplicator/Eraser"
 seo_title: "StarTech.com USB Duplicator/Eraser Review: Verdict | TSV"
 meta_description: "Our full startech.com usb duplicator/eraser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRTM9LSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612Sn5ClhsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood at a desk with a stack of 20 USB drives, dreading the hour of plugging, dragging, and praying they finish before lunch — this StarTech duplicator speaks directly to you. It's the office tool nobody thinks about until they need it, and then they need it badly.

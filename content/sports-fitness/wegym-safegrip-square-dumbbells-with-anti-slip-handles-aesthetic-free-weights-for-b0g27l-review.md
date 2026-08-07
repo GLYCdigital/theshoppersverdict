@@ -1,4 +1,5 @@
 ---
+
 title: "WeGym SafeGrip Square Dumbbells with Anti Slip Handles, Aest"
 seo_title: "WeGym SafeGrip Square Dumbbells with Anti Slip Han Review"
 meta_description: "Our full wegym safegrip square dumbbells with anti slip handles, aest review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G27LYGSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ShCKnoV4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Stylish design that complements your space"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most dumbbells under $50 look like they were forged in a prison workshop and feel like it too. The WeGym SafeGrip Square Dumbbells are different. They're the pair you'd actually leave out on the living room floor instead of hiding in a closet — and they perform like proper equipment, not decor.

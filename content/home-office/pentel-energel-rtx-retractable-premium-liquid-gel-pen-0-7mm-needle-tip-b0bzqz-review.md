@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel EnerGel RTX Retractable Premium Liquid Gel Pen, (0.7m"
 seo_title: "Pentel EnerGel RTX Retractable Premium Liquid Gel  Review"
 meta_description: "Our full pentel energel rtx retractable premium liquid gel pen, (0.7m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZQZSFZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QouVRYmlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pentel EnerGel RTX is the pen you'll find clipped to the notebooks of people who actually care about handwriting. With a 4.8-star average across 240 Amazon ratings, it's clearly doing something right. But is it worth your money, or just another hyped office supply? Here's the breakdown after digging into what buyers actually say.

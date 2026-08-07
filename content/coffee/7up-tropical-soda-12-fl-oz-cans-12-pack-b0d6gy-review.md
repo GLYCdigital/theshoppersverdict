@@ -1,4 +1,5 @@
 ---
+
 title: "7UP Tropical Soda, 12 fl oz cans, 12 pack"
 seo_title: "7UP Tropical Soda Review: 12-Pack Cans Worth It? (2026)"
 meta_description: "Honest 7UP Tropical Soda 12-pack review: taste, fizz, and value. See if this pineapple-mango twist beats regular 7UP before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6GYKDJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814JyDkqeyL._SL1500_.jpg"
-pros:
+pros: 
   - "Distinct pineapple-mango flavor that actually tastes like tropical fruit, not artificial candy"
   - "Crisp carbonation holds up well even after the can sits half-full for hours"
   - "Caffeine-free — works as a late-night mixer or kid-friendly option without the jitters"
-cons:
+cons: 
   - "Sweetness runs noticeably higher than regular 7UP — can feel syrupy if you drink it fast"
   - "Flavor fades quickly once opened; best consumed within 30 minutes for full tropical impact"
   - "No zero-sugar version of this flavor — diabetic shoppers or low-carb dieters are out of luck"
+
 ---
 
 **Is this actually tropical, or just rebranded lemon-lime?** That’s the first question any 7UP loyalist will ask. I tested a full 12-pack across a week — chilled, room temperature, mixed with rum, and flat after being left out. Here’s the honest breakdown.

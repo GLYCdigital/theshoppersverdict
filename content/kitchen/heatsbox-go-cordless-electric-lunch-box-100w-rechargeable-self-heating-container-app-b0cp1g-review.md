@@ -1,4 +1,5 @@
 ---
+
 title: "HeatsBox Go Cordless Electric Lunch Box 100W | Rechargeable "
 seo_title: "HeatsBox Go Cordless Electric Lunch Box 100W | Rec Review"
 meta_description: "Our full heatsbox go cordless electric lunch box 100w | rechargeable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CP1GBWRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rer1twZZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HeatsBox Go Cordless Electric Lunch Box 100W | Rechargeable

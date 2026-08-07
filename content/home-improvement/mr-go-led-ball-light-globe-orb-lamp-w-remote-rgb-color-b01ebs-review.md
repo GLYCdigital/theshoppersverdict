@@ -1,4 +1,5 @@
 ---
+
 title: "Mr.Go LED Ball Light Globe Orb Lamp w/Remote, RGB Color Chan"
 seo_title: "Mr.Go LED Ball Light Globe Orb Lamp w/Remote, RGB  Review"
 meta_description: "Our full mr.go led ball light globe orb lamp w/remote, rgb color chan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01EBS5OOS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510mnUK7C1S._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Mr.Go LED Ball Light isn't trying to be the smartest bulb in your house. It's trying to be the most versatile one — and mostly, it succeeds.**

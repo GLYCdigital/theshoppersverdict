@@ -1,4 +1,5 @@
 ---
+
 title: "HERBESTBAY Car Table Lamp"
 seo_title: "HERBESTBAY Car Table Lamp Review: Verdict | TSV"
 meta_description: "Our full herbestbay car table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW6N3BGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fT9jFH2qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the HERBESTBAY Car Table Lamp: it solves a problem you didn't know you had until you're squatting next to your car at dusk trying to change a tire, or eating cold sandwiches off the tailgate because the campground lights died. This little lamp is the kind of gear that makes you wonder why every car doesn't come with one.

@@ -1,4 +1,5 @@
 ---
+
 title: "HP 61 Tri-Color Ink Cartridge"
 seo_title: "HP 61 Tri-Color Ink Cartridge Review: Verdict | TSV"
 meta_description: "Our full hp 61 tri-color ink cartridge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTM82R46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d03fK0rkL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an HP DeskJet or ENVY printer, the HP 61 Tri-Color Ink Cartridge is likely the exact replacement you're looking for. With a 4.7-star average across 235 ratings, it's one of the better-reviewed OEM cartridges in its class. But is it worth the premium over generics? Let's break down what you're actually getting.

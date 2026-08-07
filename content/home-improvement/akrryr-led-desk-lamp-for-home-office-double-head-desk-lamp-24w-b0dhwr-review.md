@@ -1,4 +1,5 @@
 ---
+
 title: "AKRRYR LED Desk Lamp for Home Office, Double Head Desk Lamp,"
 seo_title: "AKRRYR LED Desk Lamp Review: Double Head 24W Home Office Light"
 meta_description: "Honest AKRRYR LED Desk Lamp review: 24W double-head design, 4.3★ from 215 ratings. Is this home office lamp worth it? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHWRRR6H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s6AqRFGcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin 24W LED heads deliver roughly 2x the coverage of a single-head lamp, cutting shadow on soldering, drafting, or detail work"
   - "Three color temperature modes (3000K/4500K/6000K) with stepless dimming — enough range for late-night coding or morning reading"
   - "Fully articulated arms and 360° rotating heads hold position without drooping, even at full extension"
-cons:
+cons: 
   - "Base is weighted but not clamped — a strong bump or heavy cable tug can knock it over if the arms are fully extended"
   - "Touch controls are sensitive; brushing the panel while reaching across the desk changes brightness unintentionally"
   - "No USB charging port, a miss for a lamp marketed as a home office staple in 2026"
+
 ---
 
 The AKRRYR double-head LED desk lamp asks a simple question: why does your workspace need a single shadow-casting light source when two heads can kill shadows flat? At 24W total output, this lamp isn't playing around. But the real question for shoppers is whether the dual-head design justifies the desk real estate and the premium over a decent single-arm lamp. After digging through 215 ratings (4.3 stars) and the specs, here's the honest breakdown.

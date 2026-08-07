@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Gravy, High Protein Wet Cat Food, Complete E"
 seo_title: "Purina Pro Plan Gravy, High Protein Wet Cat Food,  Review"
 meta_description: "Our full purina pro plan gravy, high protein wet cat food, complete e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01EZRBUE8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K8imhWAWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat turns up their nose at pâté-style wet food, the Purina Pro Plan Gravy line is the texture-changer you've been looking for. This Complete Essentials Ocean Fish recipe delivers serious protein in a silky gravy that even senior cats with sensitive teeth can manage. With 225 Amazon ratings averaging 4.5 stars, it's clearly earning its place in feline feeding rotations — but let's dig into whether it's right for *your* cat.

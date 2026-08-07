@@ -1,4 +1,5 @@
 ---
+
 title: "Smarty Stop Raw Walnuts in Shell"
 seo_title: "Smarty Stop Raw Walnuts in Shell Review: Verdict | TSV"
 meta_description: "Our full smarty stop raw walnuts in shell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B27NRB6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81scoWnAfRL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most in-shell walnuts you buy online are a gamble. Either they're stale, rancid, or so brittle they shatter into dust when you crack them. The Smarty Stop Raw Walnuts in Shell, at 4.5 stars across 225 ratings, claims to do better. After handling these, I believe it — mostly.

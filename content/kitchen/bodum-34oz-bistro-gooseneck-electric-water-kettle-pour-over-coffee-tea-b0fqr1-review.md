@@ -1,4 +1,5 @@
 ---
+
 title: "Bodum 34oz Bistro Gooseneck Electric Water Kettle, Pour Over"
 seo_title: "Bodum Bistro Gooseneck Kettle Review: 34oz Pour-Over Power"
 meta_description: "Our Bodum Bistro Gooseneck kettle review covers temp control, pour precision, and build quality. Is this 34oz electric kettle worth it for pour-over? Find out."
@@ -11,15 +12,16 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FQR1NXWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ibBkfObjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "5 temperature presets (160°F–212°F) with 1°F adjustment for precise pour-over and tea brewing"
   - "Gooseneck spout delivers a thin, controlled stream that pours consistently without dripping"
   - "34oz capacity handles 2–3 pour-over brews before needing a refill"
   - "Stainless steel interior — no plastic touches the water"
-cons:
+cons: 
   - "No keep-warm timer; kettle holds temperature only 30 minutes before shutting off"
   - "Base is bulky and takes up significant counter space"
   - "Readout is bright and can't be dimmed — annoying in a dark kitchen"
+
 ---
 
 **Bottom line up front:** If you're serious about pour-over coffee, the Bodum Bistro Gooseneck is a solid mid-tier contender that nails the basics — precise temperature control, a genuinely well-designed spout, and a 34-ounce capacity that beats most competitors. But it's not without quirks, and the lack of a keep-warm function might be a dealbreaker for some.

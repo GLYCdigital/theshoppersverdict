@@ -1,4 +1,5 @@
 ---
+
 title: "TCCFCCT Hi Vis Shirts for Men Class 3 High Visibility Shirts"
 seo_title: "TCCFCCT Hi Vis Shirts for Men Class 3 High Visibil Review"
 meta_description: "Our full tccfcct hi vis shirts for men class 3 high visibility shirts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQT83VXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZNxJ2kyaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you work near moving vehicles, a Class 3 shirt isn't a suggestion — it's the difference between being seen and being a statistic.** The TCCFCCT Hi Vis Shirt for Men is one of the most affordable ANSI-certified options on Amazon, sitting at a 4.4-star average across 220 ratings. But affordability only matters if the shirt survives a season of real work. Here's what I found after digging through specs and buyer feedback.

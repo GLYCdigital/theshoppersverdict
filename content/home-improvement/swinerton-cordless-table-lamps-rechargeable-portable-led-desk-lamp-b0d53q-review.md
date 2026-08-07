@@ -1,4 +1,5 @@
 ---
+
 title: "Swinerton Cordless Table Lamps Rechargeable, Portable LED De"
 seo_title: "Swinerton Cordless Table Lamps Rechargeable, Porta Review"
 meta_description: "Our full swinerton cordless table lamps rechargeable, portable led de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D53QVTZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51w5IsN+DsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about the Swinerton Cordless Table Lamp: it's not going to replace your main desk lamp, and it's not trying to. What this 4.2-star rated portable light does well is fill the gaps — the patio table, the camping tent, the power-outage corner, or the bedside table where you don't want another cord snaking across the floor. With 210 Amazon ratings averaging 4.2 out of 5, it's clearly earning its keep for a lot of buyers. Here's the real breakdown.

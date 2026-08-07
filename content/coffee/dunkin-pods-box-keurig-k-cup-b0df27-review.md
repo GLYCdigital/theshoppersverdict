@@ -1,4 +1,5 @@
 ---
+
 title: "DUNKIN Pods Box Keurig K-Cup"
 seo_title: "DUNKIN Pods Box Keurig K-Cup Review: Worth It? (2026)"
 meta_description: "Honest DUNKIN Pods Box Keurig K-Cup review: flavor, strength, value, and compatibility. See if these medium-roast pods beat the competition."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF27GM4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KIYWZuwJL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent medium roast flavor that matches the in-store Dunkin experience, not a weak imitation"
   - "Strong 10-12 oz brew cycle compatibility with most Keurig 2.0 models, including newer K-Supreme and K-Elite"
   - "Reliable foil seal and pod construction — minimal grounds in the cup and no jamming issues reported"
-cons:
+cons: 
   - "Lighter than true dark roast drinkers expect — this is authentically medium, not bold"
   - "No strength control on the pod itself; you must adjust brew size on your machine to get a stronger cup"
+
 ---
 
 If you’ve ever ordered a medium regular at a Dunkin drive-thru and wished you could bottle that flavor at home, this box of K-Cups is the closest you’ll get without a franchise license. The DUNKIN Pods Box delivers the same original blend — a smooth, slightly sweet medium roast that’s become the default for millions of morning commuters. With 225 ratings averaging 4.5 stars, it’s clearly doing something right. But is it the right pod for *your* Keurig routine? Let’s dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Keyboard and Mouse Combo, Wave Keys Computer Ergono"
 seo_title: "Wireless Keyboard and Mouse Combo, Wave Keys Compu Review"
 meta_description: "Our full wireless keyboard and mouse combo, wave keys computer ergono review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DXQHD9B9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CMig25LDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you type for a living, your wrists have probably already filed a complaint. The Wave Keys ergonomic combo is a $50-ish intervention that most buyers say actually works — but it's not without compromises. Here's the honest breakdown after digging through 215 verified ratings.

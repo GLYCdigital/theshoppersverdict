@@ -1,4 +1,5 @@
 ---
+
 title: "GE Whole House Water Filtration System, Reduces Sediment, Ru"
 seo_title: "GE Whole House Water Filtration System Review: Is It Worth It?"
 meta_description: "Our honest GE whole house water filtration system review covers sediment/rust reduction, install ease, filter life, and whether it's right for your home."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B009YA28ES/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qHDy9cGcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Transparent sump lets you visually monitor sediment buildup without breaking the seal — a genuinely useful feature for knowing when to swap filters"
   - "Includes mounting bracket, wrench, and filter — everything needed for a straightforward install on ¾-inch or 1-inch main lines"
   - "Rated for up to 100,000 gallons or 6-month filter life at 10 GPM, which covers most households without pressure drop"
-cons:
+cons: 
   - "Plastic housing threads can cross easily if over-tightened — hand-tighten only, and don't use a wrench on the sump itself"
   - "Only reduces sediment, rust, and dirt — it does NOT soften water or remove chemicals, taste, or odor, so set expectations accordingly"
   - "Filter replacements cost $20-35 each, and you'll need them every 3-6 months depending on your water quality"
+
 ---
 
 If your water heater is dying early, your faucets are sputtering, or you're scrubbing rust stains off porcelain, you don't need a $2,000 whole-home system with a control panel. You need this $50 GE whole house water filtration system. It's the simplest, most effective first line of defense against the particulate junk that wrecks plumbing — and at 4.6 stars across 229 ratings, it's clearly earning its keep.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports X-26 Indoor Pickleballs - 3 Pack, 12 Pack &"
 seo_title: "Franklin Sports X-26 Indoor Pickleballs Review (2026): 4.2 Stars"
 meta_description: "Honest Franklin Sports X-26 indoor pickleball review. 26 holes, USA Pickleball approved. See real pros, cons, and who should buy. 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07QDPPVSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nac98gL2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26-hole design delivers noticeably truer flight and less wobble than cheaper 40-hole balls"
   - "Holds up well on indoor hard courts — most buyers report multiple sessions per ball"
   - "USA Pickleball approved for official tournament play, so you're not buying a practice-only ball"
-cons:
+cons: 
   - "Feels slightly harder and faster off the paddle than premium options like DuraFast or Onix — takes a session to adjust"
   - "Packaging is inconsistent — some 12-pack buyers report receiving loose balls without a tube"
+
 ---
 
 Let's be blunt: most pickleballs under $20 feel like hollow Easter eggs that crack on the first hard serve. The Franklin Sports X-26 isn't that. With 210 ratings averaging 4.2 stars, it's the budget indoor ball that serious players actually debate — mostly because it punches well above its price point, but not without a couple of quirks.

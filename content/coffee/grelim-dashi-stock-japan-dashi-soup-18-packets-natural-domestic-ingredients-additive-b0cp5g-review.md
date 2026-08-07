@@ -1,4 +1,5 @@
 ---
+
 title: "Grelim Dashi Stock Japan Dashi Soup 18 Packets, Natural Dome"
 seo_title: "Grelim Dashi Stock Japan Dashi Soup 18 Packets, Na Review"
 meta_description: "Our full grelim dashi stock japan dashi soup 18 packets, natural dome review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP5GBT33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RP+yHcuSL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Is This Dashi Worth Your Kitchen Drawer Space?**

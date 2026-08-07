@@ -1,7 +1,8 @@
 ---
-title: "RedSwing Saucer Tree Swing for Kids Indoor Outdoor, 43\"/40''"
+
+title: "RedSwing Saucer Tree Swing for Kids Indoor Outdoor, 43\/40''"
 seo_title: "RedSwing Saucer Tree Swing for Kids Indoor Outdoor Review"
-meta_description: "Our full redswing saucer tree swing for kids indoor outdoor, 43\"/40'' review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full redswing saucer tree swing for kids indoor outdoor, 43\/40'' review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "redswing-saucer-tree-swing-for-kids-indoor-outdoor-43-40-round-swing-b0b6vn-review"
 image_alt: "RedSwing Saucer Tree Swing for Kids Indoor Outdoor, 43/40 Round Swing, Great for Tree, Swing Set, Backyard, Playground, "
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6VN2JS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SWMGtVsrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when your kid asks for a swing and you picture the flimsy plastic disc that flips over the first time they lean back? The RedSwing 43-inch saucer tree swing is not that. This is the swing that makes your backyard the hangout spot — and at 4.6 stars across 229 ratings, I'm not the only one impressed.

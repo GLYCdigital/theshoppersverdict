@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS 65 inch Tall L Shaped Bookshelf, 5 Tier Corner Bookshe"
 seo_title: "DUMOS 65 inch L-Shaped Corner Bookshelf Review (2026) | 4.6★"
 meta_description: "Honest DUMOS 65 inch L-shaped corner bookshelf review: 5-tier design, build quality, assembly, and real buyer feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D92G27Q6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LdimII0lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True corner-fit L-shape maximizes dead space; 65-inch height holds roughly 100+ paperbacks without wobble"
   - "Stabilizer strap and anti-tip hardware included — rare at this price point, essential for pet/kid households"
   - "Engineered wood with smooth laminate finish; resists scuffs and cleans with a damp cloth"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes solo; cam-lock joints require patience and a Phillips screwdriver"
   - "Back panels are thin fiberboard — staple in place carefully or they can shift during moving"
   - "Open shelves collect dust; no doors or bins for hiding clutter"
+
 ---
 
 You’ve got a dead corner in your living room or home office. You’ve stared at it for months, thinking a bookshelf would fit but rectangular units leave awkward gaps. The DUMOS 65-inch L-shaped bookshelf is engineered specifically for that spot — and with a 4.6-star average across 229 ratings, it’s clearly solving a real problem for a lot of shoppers. Here’s the honest breakdown before you hit “add to cart.”

@@ -1,4 +1,5 @@
 ---
+
 title: "689 inch"
 seo_title: "689 Coffee Maker Review: Is This 4.8-Star Brewer Worth It?"
 meta_description: "Honest 689 coffee maker review: build quality, brew performance, and real buyer feedback. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CR6HHZW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MlKv3K+aL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature that extracts full flavor without bitterness"
   - "48-ounce carafe with ergonomic handle and drip-free pour spout"
   - "Programmable timer with 24-hour advance scheduling that actually holds its settings"
-cons:
+cons: 
   - "No built-in grinder — you'll need separate grinding equipment"
   - "Carafe lid is hand-wash only despite dishwasher-safe claims elsewhere"
+
 ---
 
 A 4.8-star average across 240 ratings doesn't happen by accident. The 689 coffee maker has clearly earned its place on kitchen counters, but the real question is whether it earns a spot on yours. I've dug through the specs and buyer feedback to give you the straight story.

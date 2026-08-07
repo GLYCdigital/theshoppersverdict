@@ -1,4 +1,5 @@
 ---
+
 title: "Asmodee Star Wars: Unlimited TCG Twilight of The Republic Bo"
 seo_title: "Star Wars Unlimited Twilight of Republic Booster Review"
 meta_description: "Honest Star Wars Unlimited Twilight of the Republic booster review: card quality, pull rates, value per pack, and who should buy this TCG set."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC82WNMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y-mfY87tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Showcase cards use premium foil treatment with character-specific artwork that genuinely pops under light"
   - "Leader cards feature the new Clone Wars mechanic that reshapes how you sequence early-game plays"
   - "Booster packs contain 16 cards each, roughly 40% more cards per pack than competing TCGs at similar price points"
-cons:
+cons: 
   - "Hyperspace foil variants are rarer than advertised, which frustrates collectors chasing complete alternate-art sets"
   - "No guaranteed legendary in every box — a full display can yield zero top-rarity pulls if luck is cold"
+
 ---
 
 Let me be direct: if you're a Star Wars Unlimited fan looking for the next competitive staple set, Twilight of the Republic delivers. But whether it's the right booster display for *you* depends entirely on what kind of player or collector you are.

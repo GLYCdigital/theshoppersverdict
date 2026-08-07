@@ -1,4 +1,5 @@
 ---
+
 title: "Furologee 60 inch  Computer Desk with Drawers, Gaming with Power"
 seo_title: "Furologee 60 inch  Computer Desk Review: Power Outlets & Drawers"
 meta_description: "Furologee 60 inch  computer desk with drawers and power outlets: honest review of build quality, LED lighting, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D42F6X77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YurrbTzyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two built-in drawers with smooth ball-bearing slides — rare at this price point"
   - "2 AC outlets + 2 USB ports integrated into the desktop, with a 6.5-foot cord"
   - "Carbon fiber textured surface resists scratches and wipes clean easily"
-cons:
+cons: 
   - "LED strip is basic (single color, no remote) and adhesive can peel over time"
   - "Assembly takes 45-60 minutes — the drawer slides require patience to align"
   - "No cable management tray included despite the gaming-focused design"
+
 ---
 
 Let's be honest about the 60-inch desk market: it's crowded with flimsy particleboard options that wobble the moment your keyboard gets intense. The Furologee 60" Computer Desk tries to stand out by bundling power outlets, two storage drawers, and LED lighting into one package. Does it deliver, or is it just another RGB-laden shelf queen? After digging through the specs and 220 buyer ratings, here's the real story.

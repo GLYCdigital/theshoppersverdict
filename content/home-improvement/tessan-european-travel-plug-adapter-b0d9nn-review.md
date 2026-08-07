@@ -1,4 +1,5 @@
 ---
+
 title: "TESSAN European Travel Plug Adapter"
 seo_title: "TESSAN European Travel Plug Adapter Review: Verdict | TSV"
 meta_description: "Our full tessan european travel plug adapter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9NNF2Y5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Clr7YjXKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most travel adapters are flimsy plastic afterthoughts you buy at the airport and regret by day two of your trip. The TESSAN European Travel Plug Adapter is not that. After digging through 235 ratings and the specs, here's the real story for anyone heading to the EU, UK, or anywhere with Type C outlets.

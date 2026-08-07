@@ -1,4 +1,5 @@
 ---
+
 title: "New Upgraded WR55X11132 GE Refrigerator Light Replacement Le"
 seo_title: "New Upgraded WR55X11132 GE Refrigerator Light Repl Review"
 meta_description: "Our full new upgraded wr55x11132 ge refrigerator light replacement le review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZY7B8CZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O723vY8pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your refrigerator's interior light finally gave up. You're staring at a dark shelf, holding a phone flashlight between your teeth, wondering if you need to call a technician or if this is a DIY fix. Here's the short answer: this upgraded WR55X11132 replacement is the DIY fix, and it's a good one.

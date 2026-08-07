@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Pin Nailer, 23 Gauge, 2-Inch (DWFP2350K)"
 seo_title: "DEWALT 23 Gauge Pin Nailer Review: 4.6/5 Verdict (2026)"
 meta_description: "DEWALT DWFP2350K 23-gauge pin nailer review: 4.6/5 verdict. Depth adjustment, no-mar tip, 2-inch capacity. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07K4YTZ4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Aml5FeYWL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Tool-free jam release and depth adjustment wheel work reliably even with gloved hands"
   - "Weighs just 2.4 lbs — balanced enough for one-handed overhead trim work"
   - "Accepts 5/8-inch up to 2-inch pins with a 100-pin magazine that loads quickly"
-cons:
+cons: 
   - "Requires an air compressor (not included) — not a cordless option"
   - "No belt hook included, which is odd for a trim nailer at this price point"
   - "Occasional dry-fire lockout annoyance when magazine is low but not empty"
+
 ---
 
 If you're hanging cabinet trim, installing shoe molding, or tacking up delicate picture frames, a 23-gauge pin nailer is the difference between a clean job and a splintered disaster. The DEWALT DWFP2350K has become a default recommendation for good reason — but it's not perfect. Here's what 225 Amazon buyers and my own bench testing reveal.

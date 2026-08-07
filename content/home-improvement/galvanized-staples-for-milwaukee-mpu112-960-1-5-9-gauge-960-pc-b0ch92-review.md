@@ -1,4 +1,5 @@
 ---
+
 title: "Galvanized Staples for Milwaukee MPU112-960, 1.5 inch  9 Gauge, 9 inch"
 seo_title: "Galvanized Staples for Milwaukee MPU112-960 Review (2026)"
 meta_description: "Honest review of 1.5 inch  9-gauge galvanized staples for Milwaukee MPU112-960. 960-count, 4.9★ rating. Does it jam? Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CH92M4K3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aDD98i0WL._SL1000_.jpg"
-pros:
+pros: 
   - "Consistent 9-gauge wire thickness with no bent legs out of the box — feeds cleanly through the MPU112-960 magazine"
   - True 1.5 inch " length measured, not short-stamped; galvanized coating holds up on pressure-treated lumber without immediate rust streaking
   - "960-count box gives roughly 20% more staples per dollar than Milwaukee-branded equivalents, with comparable driving force"
-cons:
+cons: 
   - "Box lacks a re-sealable strip — once opened, loose staples scatter if you tip the container"
   - "Slight surface residue on the galvanized finish leaves oily fingerprints on lighter woods; wipe down if aesthetics matter"
   - "Not compatible with the older Milwaukee 18-gauge models — double-check your tool model before ordering"
+
 ---
 
 # Galvanized Staples for Milwaukee MPU112-960: The Aftermarket Option That Actually Works

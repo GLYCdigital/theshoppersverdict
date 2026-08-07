@@ -1,4 +1,5 @@
 ---
+
 title: "Maud's Pumpkin Spice Latte Instant Coffee"
 seo_title: "Maud's Pumpkin Spice Latte Instant Coffee Review: Verdict"
 meta_description: "Our full maud's pumpkin spice latte instant coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DC6WTTB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MC+eqMBTL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that fall craving—the one that hits at 3 p.m. when a café run means parking, waiting, and dropping $6 on something that's mostly syrup. Maud's Pumpkin Spice Latte Instant Coffee is pitched as the shortcut. The question is whether the shortcut tastes like a treat or a compromise. After digging through 204 ratings and testing the powder myself, here's the honest picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "TP-Link Tapo Smart Motion Sensor, Smart Motion Sensor with H"
 seo_title: "TP-Link Tapo Smart Motion Sensor, Smart Motion Sen Review"
 meta_description: "Our full tp-link tapo smart motion sensor, smart motion sensor with h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9B73HKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41d+gHdbxSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TP-Link Tapo Smart Motion Sensor Review: The Missing Piece in Your Tapo Setup

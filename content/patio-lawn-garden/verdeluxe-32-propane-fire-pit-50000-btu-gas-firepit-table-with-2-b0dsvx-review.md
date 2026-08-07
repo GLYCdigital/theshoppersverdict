@@ -1,4 +1,5 @@
 ---
+
 title: "Verdeluxe 32'' Propane Fire Pit,50000 BTU Gas Firepit Table "
 seo_title: "Verdeluxe 32'' Propane Fire Pit,50000 BTU Gas Fire Review"
 meta_description: "Our full verdeluxe 32'' propane fire pit,50000 btu gas firepit table  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSVXR74Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MRW9OnUxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Verdeluxe 32'' Propane Fire Pit Table promises 50,000 BTUs of heat in a compact, furniture-grade package. At 4.2 stars from 210 buyers, it’s clearly doing something right — but is it the right fire pit for *your* patio? I’ve dug through the specs, the build, and what real owners are saying. Here’s the honest breakdown.

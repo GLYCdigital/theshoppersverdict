@@ -1,4 +1,5 @@
 ---
+
 title: "COXSENI Solar Pathway Lights Outdoor, Solar Path Lights for"
 seo_title: "COXSENI Solar Pathway Lights Review: Worth It? (2026)"
 meta_description: "Honest COXSENI solar pathway lights review: brightness, battery life, durability, and real buyer feedback. See if these are worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4D3BPGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QnFkCPqYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely bright warm-white LEDs that illuminate pathways, not just decorative accent dots"
   - "IP65 weatherproofing holds up through rain, snow, and summer heat without water ingress"
   - "Tool-free installation — stake into soil and go; no wiring or mounting hardware needed"
-cons:
+cons: 
   - "Battery life shortens noticeably in winter months when daylight hours drop"
   - "Plastic housing feels less premium than metal competitors at a similar price point"
+
 ---
 
 Let's be direct: most solar path lights are glorified glow-worms. You buy a 12-pack, install them in twenty minutes, and by week three you're squinting at faint amber pinpricks wondering where the "light" went. The COXSENI Solar Pathway Lights are not that product — but they're also not a miracle. Here's the honest breakdown after digging through 220 ratings and real buyer experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "bareMinerals Mineralist Eyeshadow Palette, Six Richly Pigmen"
 seo_title: "bareMinerals Mineralist Eyeshadow Review: Worth It? (2026)"
 meta_description: "Honest bareMinerals Mineralist Eyeshadow Palette review: blendability, pigment payoff, talc-free formula & real user feedback. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXBN5D8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HNYku9IIL._SL1500_.jpg"
-pros:
+pros: 
   - "Talc-free mineral formula blends seamlessly without fallout or chalky residue"
   - "Six thoughtfully curated shades offer true versatility from everyday neutrals to smoky drama"
   - "Impressive one-swipe pigment payoff that builds smoothly without patchiness"
-cons:
+cons: 
   - "Compact is on the smaller side — pans are 0.03 oz each, so daily users may hit pan in 3-4 months"
   - "Deeper shades require a primer for maximum longevity on oily lids"
+
 ---
 
 ## The Talc-Free Shadow That Actually Delivers

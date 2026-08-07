@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER Crisp 'N Bake Air Fry Countertop Convection Toa"
 seo_title: "BLACK+DECKER Crisp 'N Bake Air Fryer Toaster Oven Review"
 meta_description: "Honest BLACK+DECKER Crisp 'N Bake Air Fry Toaster Oven review: 6-slice capacity, 4 cooking functions, real pros/cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07J2PWRFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QYoGNEkGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six-slice capacity fits a full frozen pizza or 9x13 pan — rare at this price point"
   - "Air fry, bake, broil, and toast functions in one unit with 60-minute timer"
   - "Includes air fry basket, bake pan, and broiler rack with crumb tray"
-cons:
+cons: 
   - "Air fry basket is smaller than the oven interior, limiting batch size"
   - "No interior light — checking doneness means opening the door and losing heat"
   - "Control dials feel basic; temperature accuracy can drift by 15-25°F"
+
 ---
 
 **The Countertop Oven That Tries to Do Everything — And Mostly Succeeds**

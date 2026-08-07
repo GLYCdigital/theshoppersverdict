@@ -1,4 +1,5 @@
 ---
+
 title: "Mead Composition Notebooks"
 seo_title: "Mead Composition Notebooks Review: Verdict | TSV"
 meta_description: "Our full mead composition notebooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXMHCDK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91K2zuoQOhL._CR265,259,649,649_._FMjpg_._SL34_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Mead composition notebook is the Toyota Corolla of office supplies. It’s not flashy, not exciting, but it shows up and does the job for decades. With 200 ratings averaging 4.0 stars, the consensus is clear: this is a dependable workhorse, not a luxury product. Here’s what you actually need to know before adding a pack to your cart.

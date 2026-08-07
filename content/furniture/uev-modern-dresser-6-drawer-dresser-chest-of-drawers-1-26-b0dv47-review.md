@@ -1,4 +1,5 @@
 ---
+
 title: "UEV Modern Dresser, 6 Drawer Dresser,Chest of Drawers.1/26"
 seo_title: "UEV Modern Dresser, 6 Drawer Dresser,Chest of Draw Review"
 meta_description: "Our full uev modern dresser, 6 drawer dresser,chest of drawers.1/26 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DV47WF7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The UEV Modern 6-Drawer Dresser: A Solid Mid-Range Performer That Gets the Job Done

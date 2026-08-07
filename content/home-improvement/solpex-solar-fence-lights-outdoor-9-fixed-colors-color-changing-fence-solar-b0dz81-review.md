@@ -1,4 +1,5 @@
 ---
+
 title: "SOLPEX Solar Fence Lights Outdoor, 9 Fixed Colors ï¼† Color "
 seo_title: "SOLPEX Solar Fence Lights Outdoor, 9 Fixed Colors  Review"
 meta_description: "Our full solpex solar fence lights outdoor, 9 fixed colors ï¼† color  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZ81TXWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LAXcyQ1yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the solar lighting noise. Most fence lights under $30 are plastic junk with a single warm-white LED that dies after one season. The SOLPEX Solar Fence Lights are different — not perfect, but genuinely different.

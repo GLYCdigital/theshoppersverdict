@@ -1,4 +1,5 @@
 ---
+
 title: "Revolution IRL Filter Longwear Foundation"
 seo_title: "Revolution IRL Filter Longwear Foundation Review: Verdict"
 meta_description: "Our full revolution irl filter longwear foundation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV814GD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mKCexNMZL._SL1080_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've scrolled beauty TikTok in the past six months, you've seen the Revolution IRL Filter Longwear Foundation everywhere. The name is a nod to Instagram's "IRL" filter — the one that smooths skin without erasing your actual face. But does the foundation deliver that effect, or is it just clever marketing? After digging through 220+ ratings and the real-world feedback behind that 4.4-star average, here's what you need to know before you buy.

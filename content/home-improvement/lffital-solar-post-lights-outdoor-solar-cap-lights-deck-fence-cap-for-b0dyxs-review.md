@@ -1,4 +1,5 @@
 ---
+
 title: "Lffital Solar Post Lights Outdoor Solar Cap Lights Deck Fenc"
 seo_title: "Lffital Solar Post Lights Outdoor Solar Cap Lights Review"
 meta_description: "Our full lffital solar post lights outdoor solar cap lights deck fenc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYXSSX8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zbtze91aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the listing photos. You’re looking at solar cap lights for your deck or fence posts. The Lffital set has 220 ratings averaging 4.4 stars, which tells me most buyers are satisfied but not ecstatic. After digging through the specs and owner feedback, here’s what you actually need to know before clicking buy.

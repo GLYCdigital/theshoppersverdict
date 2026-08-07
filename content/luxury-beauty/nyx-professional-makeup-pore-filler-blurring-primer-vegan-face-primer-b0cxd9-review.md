@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Pore Filler Blurring Primer, Vegan F"
 seo_title: "NYX PROFESSIONAL MAKEUP Pore Filler Blurring Prime Review"
 meta_description: "Our full nyx professional makeup pore filler blurring primer, vegan f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CXD94TW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612u7-8oWCL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $10 primer that acts like it costs $40 — with one catch.**

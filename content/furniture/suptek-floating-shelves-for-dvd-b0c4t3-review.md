@@ -1,4 +1,5 @@
 ---
+
 title: "suptek Floating Shelves for DVD"
 seo_title: "suptek Floating Shelves for DVD Review: Verdict | TSV"
 meta_description: "Our full suptek floating shelves for dvd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4T3X4PX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LiqCNNWEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a wall of DVDs gathering dust and an empty stretch of wall, the Suptek Floating Shelves are the pragmatic middle ground between a bulky media cabinet and nothing at all. With 229 ratings averaging 4.6 stars, this is a product that's clearly working for a lot of people — but let's get into whether it'll work for you.

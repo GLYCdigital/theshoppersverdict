@@ -1,4 +1,5 @@
 ---
+
 title: "Bandai Namco - Dragon Ball Super - Super Saiyan Broly, Drago"
 seo_title: "Bandai Namco Super Saiyan Broly Dragon Ball Evolve Review"
 meta_description: "Honest review of Bandai Namco's Super Saiyan Broly Dragon Ball Evolve figure. See how it compares, its build quality, and if it's worth adding to your collection."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07W4MQ8TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RYHBSwE1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Excellent Super Saiyan sculpt with accurate muscle definition and Broly's signature green-tinged aura paint apps"
   - "Solid articulation at shoulders, elbows, and hips — holds dynamic poses without drooping"
   - "Durable PVC construction that survived multiple drops during testing without damage"
-cons:
+cons: 
   - "Limited neck and torso articulation limits dramatic lean-in poses"
   - "No accessories or effect parts included — what you see is what you get"
+
 ---
 
 Let me be blunt: if you're a Dragon Ball collector, you already know the struggle. High-end figures from SH Figuarts and Banpresto run $60-$100, and the budget stuff looks like melted plastic. The Bandai Namco Dragon Ball Evolve line sits in that awkward middle ground — and this Super Saiyan Broly figure is the best argument yet for why that middle ground deserves your attention.

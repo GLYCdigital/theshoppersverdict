@@ -1,7 +1,8 @@
 ---
-title: "NYECHTO Self Inflating Sleeping Pad for Camping, 4\" Extra-Th"
+
+title: "NYECHTO Self Inflating Sleeping Pad for Camping, 4\ Extra-Th"
 seo_title: "NYECHTO Self Inflating Sleeping Pad for Camping, 4 Review"
-meta_description: "Our full nyechto self inflating sleeping pad for camping, 4\" extra-th review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full nyechto self inflating sleeping pad for camping, 4\ extra-th review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nyechto-self-inflating-sleeping-pad-for-camping-4-extra-thick-memory-foam-b0dydl-review"
 image_alt: "NYECHTO Self Inflating Sleeping Pad for Camping, 4 Extra-Thick Memory Foam Camping Mattress with Electric Pump, Fast Inf"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYDLS9W5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EHm1RYidL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Stop me if you've heard this one: you're at 9,000 feet, it's 40°F, and your hips are numb by 2 AM.** That's the exact scenario the NYECHTO Self Inflating Sleeping Pad was designed to eliminate. With 4 inches of actual memory foam and a 4.2-star verdict from 220 verified buyers, this pad is squarely aimed at car campers, overlanders, and weekend glampers who refuse to sacrifice mattress comfort for packability.

@@ -1,4 +1,5 @@
 ---
+
 title: "tixpol Clear Floor Mat for Hard Floors, Area Mat for Living "
 seo_title: "tixpol Clear Floor Mat for Hard Floors, Area Mat f Review"
 meta_description: "Our full tixpol clear floor mat for hard floors, area mat for living  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DCBM7CDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NaYSYitFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've watched a $200 office chair slowly grind divots into your oak flooring, you already know the pain. The tixpol Clear Floor Mat exists to stop that damage before it starts—but does it actually hold up, or is it just another flimsy sheet of PVC that curls at the corners?

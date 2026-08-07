@@ -1,4 +1,5 @@
 ---
+
 title: "Gigabit PoE to USB C Converter for Smart Phone/Tablet, USB-C"
 seo_title: "Gigabit PoE to USB C Converter for Smart Phone/Tab Review"
 meta_description: "Our full gigabit poe to usb c converter for smart phone/tablet, usb-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP296VXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+yG45R9pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most USB-C dongles are flimsy plastic afterthoughts that die in six months. This Gigabit PoE to USB-C converter is not that. It's a compact aluminum puck that solves a genuinely annoying problem — getting wired internet and power to a phone or tablet without dragging a router, a wall wart, and a tangle of cables to a coffee shop or trade show floor.

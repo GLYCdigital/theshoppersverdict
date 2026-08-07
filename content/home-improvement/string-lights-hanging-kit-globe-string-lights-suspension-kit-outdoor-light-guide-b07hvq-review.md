@@ -1,4 +1,5 @@
 ---
+
 title: "String Lights Hanging Kit,Globe String Lights Suspension Kit"
 seo_title: "String Lights Hanging Kit,Globe String Lights Susp Review"
 meta_description: "Our full string lights hanging kit,globe string lights suspension kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07HVQFPNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R7HWclxeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 So you bought those trendy globe string lights and realized you can't just nail them to your deck. The cable hanging kit is the unsung hero of any outdoor lighting setup — and this one from Amazon's catalog has earned its 4.7-star rating with 235 reviews. Here's what you actually need to know before you buy.

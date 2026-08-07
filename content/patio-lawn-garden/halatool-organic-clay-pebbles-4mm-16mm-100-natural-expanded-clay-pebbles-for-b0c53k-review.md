@@ -1,4 +1,5 @@
 ---
+
 title: "Halatool Organic Clay Pebbles- 4mm-16mm 100% Natural Expande"
 seo_title: "Halatool Organic Clay Pebbles- 4mm-16mm 100% Natur Review"
 meta_description: "Our full halatool organic clay pebbles- 4mm-16mm 100% natural expande review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C53KCGYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LICoK6bAL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever dumped a bag of cheap clay pebbles into a bucket only to watch clouds of rust-colored dust billow up, you know the frustration.** Halatool's organic clay pebbles aim to fix that particular annoyance, and based on 229 ratings averaging 4.6 stars, they largely succeed. As shown in the product image, you're getting a straightforward mesh bag of terracotta-toned LECA (lightweight expanded clay aggregate) ranging from pea-sized 4mm pieces up to 16mm chunks. But the real question is whether they hold up in actual grow tents and potted plants, not just on paper.

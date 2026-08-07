@@ -1,4 +1,5 @@
 ---
+
 title: "Anothera Coco Coir Brick for Plants"
 seo_title: "Anothera Coco Coir Brick Review: Worth It? (2026)"
 meta_description: "Honest Anothera coco coir brick review: hydration time, expansion ratio, value vs.竞争对手, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM8TNQ83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ekageGMAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expands to roughly 8-9 liters per 650g brick — about double the yield of cheaper generic bricks at similar price per gram"
   - "Low EC/salt content (under 0.5 mS/cm per independent tests) means you can plant directly without pre-rinsing, unlike many competing bricks"
   - "Consistent fiber size — mostly 0-10mm, which holds water evenly without the chunky woody bits that clog seedling trays"
-cons:
+cons: 
   - "Hydration takes 25-35 minutes with hot water; cold water can push it past 45 minutes, which is slower than fluffier pre-moistened bags"
   - "Small 650g format means you'll buy several bricks for raised beds — cost-effective only for containers and seed starting, not bulk soil amendment"
   - "Dust factor during handling is real; wear a mask when breaking bricks apart or you'll sneeze through the whole session"
+
 ---
 
 If you've ever wrestled with a rock-hard coco brick that refuses to expand, you know the frustration. The Anothera Coco Coir Brick for Plants takes a different approach — the compression is firm but forgiving, and the expansion ratio punches above its weight class. After testing this against three other popular bricks, here's the honest breakdown.

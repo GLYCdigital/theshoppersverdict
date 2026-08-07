@@ -1,4 +1,5 @@
 ---
+
 title: "ITO EN Oi Ocha Unsweetened Green Tea 1"
 seo_title: "ITO EN Oi Ocha Unsweetened Green Tea 1 Review: Verdict | "
 meta_description: "Our full ito en oi ocha unsweetened green tea 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHBT7LSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815CE45Q4TL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The honest truth about bottled green tea:** Most of it tastes like grass-flavored water with a bitter aftertaste. ITO EN's Oi Ocha isn't that. This is the bottled green tea that Japanese convenience stores have sold for decades, and it's earned that 4.6-star rating for a reason.

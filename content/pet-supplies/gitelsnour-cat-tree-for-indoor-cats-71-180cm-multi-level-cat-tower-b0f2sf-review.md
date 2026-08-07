@@ -1,4 +1,5 @@
 ---
+
 title: "Gitelsnour Cat Tree for Indoor Cats, 71'' (180cm) Multi-Leve"
 seo_title: "Gitelsnour Cat Tree Review: 71 inch Multi-Level Tower | 4.7 Stars"
 meta_description: "Read our honest Gitelsnour 71-inch cat tree review. Sturdy, tall, and feature-packed for $66. We test stability, materials, and real cat appeal."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2SFCV3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pArAdyFFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely tall at 71 inches — a rare find at this price point; most sub-$70 towers top out around 55 inches"
   - "Base measures 17.7 inches square, which keeps the tower stable even when a 12-pound cat launches off the top platform"
   - "Four distinct scratching surfaces wrapped in dense sisal rope, not the flimsy glued-on carpet most budget towers use"
-cons:
+cons: 
   - "Assembly takes roughly 45 minutes — the instructions are picture-only and several bolts require a hex key that's included but awkward to use in tight spots"
   - "The top perch has no raised lip, so skittish cats may feel exposed; consider placing it against a wall for security"
   - "Sisal rope sheds fine fibers for the first week or two — vacuum more often until it settles"
+
 ---
 
 **A 71-inch cat tower for $66 — without the wobble. Here's the real story.**

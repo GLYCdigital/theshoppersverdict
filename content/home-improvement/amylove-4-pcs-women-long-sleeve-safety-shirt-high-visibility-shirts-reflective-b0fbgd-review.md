@@ -1,4 +1,5 @@
 ---
+
 title: "Amylove 4 Pcs Women Long Sleeve Safety Shirt High Visibility"
 seo_title: "Amylove Women's Hi-Vis Safety Shirts Review: 4-Pack Value"
 meta_description: "Amylove 4-pack women's long sleeve high-visibility safety shirts reviewed: fit, reflectivity, durability, and value for road crews and warehouse workers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBGD628M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zFjls6xCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True women's cut — tapered waist and shorter torso, not just a men's shirt with a smaller size stamped on it"
   - "Four shirts in the pack for roughly the price of two single hi-vis tees from major brands"
   - "Breathable 100% polyester mesh keeps you from stewing in your own sweat during summer road work"
-cons:
+cons: 
   - "Sizing runs small — several buyers report needing to size up, especially if you have a larger bust"
   - "Reflective tape is sewn flat, not 3M Scotchlite; it holds up to washing but lacks the same retro-reflective punch in heavy rain"
+
 ---
 
 If you've ever bought a "women's" safety vest that drapes like a tent, you already know the frustration. The Amylove 4-pack of long-sleeve hi-vis shirts actually addresses that problem — with a cut that follows a female silhouette rather than borrowing from the men's rack. At 4.5 stars across 225 ratings, it's clearly resonating with women who spend their shifts on roadsides, warehouse floors, and loading docks.

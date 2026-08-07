@@ -1,4 +1,5 @@
 ---
+
 title: "EPSON 232 Claria Ink High"
 seo_title: "EPSON 232 Claria Ink High Review: Worth the Price?"
 meta_description: "EPSON 232 Claria Ink High review: real-world print quality, page yields, and cost per page. See if this ink is worth it for your home office."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWT69SK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Claria ink formula produces true photo-lab quality with smooth gradations and minimal grain on glossy paper"
   - "High-yield capacity means fewer cartridge swaps — roughly 2x the page count of standard 232 cartridges"
   - "Consistent, clog-resistant performance even after weeks of idle time between print jobs"
-cons:
+cons: 
   - "Premium price point — you'll pay significantly more per cartridge than generic alternatives"
   - "Not compatible with standard 232 printers; verify your model supports the High-yield variant before purchasing"
+
 ---
 
 Let’s cut through the cartridge aisle confusion. The EPSON 232 Claria Ink High is the high-yield version of Epson’s standard Claria ink, and for anyone printing photos at home or running a small creative business, it deserves a hard look. With a 4.6-star average across 229 ratings, the consensus is clear — but let’s break down whether it’s actually worth your money.

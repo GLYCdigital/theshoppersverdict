@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Good Grips 3-Piece Silicone Utensil Set"
 seo_title: "OXO Good Grips 3-Piece Silicone Utensil Set Review: Verdi"
 meta_description: "Our full oxo good grips 3-piece silicone utensil set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B083MNKY5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nXgYZuwNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Are These Worth Your Drawer Space?**

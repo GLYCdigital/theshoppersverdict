@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Perfect Pinch Italian Seasoning"
 seo_title: "McCormick Perfect Pinch Italian Seasoning Review: Verdict"
 meta_description: "Our full mccormick perfect pinch italian seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVCZZ6R9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oOBBjEiML._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** McCormick Perfect Pinch Italian Seasoning is the rare dried herb blend that doesn't taste like dusty afterthought. If you cook Italian food more than twice a week, this bottle earns its cabinet space. But it's not a pure-herb product, and the price-per-ounce math gets ugly if you're a heavy user.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Gear Easy Step III Extra Wide Pet Stairs, 3 Step for Dog"
 seo_title: "Pet Gear Easy Step III Extra Wide Pet Stairs, 3 St Review"
 meta_description: "Our full pet gear easy step iii extra wide pet stairs, 3 step for dog review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWHYR4R3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iuNAkswrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has started hesitating at the edge of the bed — that little pause before the jump — you already know why you're here. The Pet Gear Easy Step III Extra Wide Pet Stairs is designed specifically for that moment. After digging through the specs and 210 verified buyer ratings, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Duluth Forge DLS-18R-1 Dual Fuel Ventless Fireplace Logs Set"
 seo_title: "Duluth Forge DLS-18R-1 Review: Dual Fuel Ventless Logs"
 meta_description: "Duluth Forge DLS-18R-1 dual fuel ventless fireplace logs review: heat output, installation, pros/cons, and who should buy. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGKJ76KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SuHm-TfkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual fuel capability (natural gas and liquid propane) means you can switch gases without buying a new unit—just swap the included orifice"
   - "Ventless design delivers 100% heat efficiency with up to 26,000 BTU, enough for roughly 1,000 sq ft"
   - "Realistic hand-painted ceramic logs and glowing ember bed create convincing fire appearance without a chimney"
-cons:
+cons: 
   - "Ventless operation releases moisture and combustion byproducts into living space—not ideal for tightly sealed homes or those with respiratory issues"
   - "18-inch log set is compact; visually underwhelming in larger fireplaces or wide hearths"
   - "No remote or thermostat control at this price point—you're adjusting the valve manually every time"
+
 ---
 
 If you've priced out a chimney liner installation or a vented gas insert lately, you know the sting. The Duluth Forge DLS-18R-1 sidesteps that entire expense category—no chimney, no vent, no flue required. This is a 18-inch dual fuel log set that drops into most existing wood-burning fireplaces and delivers instant heat. But "no vent" comes with strings attached, and you need to understand them before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pedigree Dentastix Small & Medium Breed Dog Treats"
 seo_title: "Pedigree Dentastix Small & Medium Breed Dog Treats Review"
 meta_description: "Our full pedigree dentastix small & medium breed dog treats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D328K8YV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R-4+f6F1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Dental Chew That Actually Does Its Job — With a Few Caveats

@@ -1,4 +1,5 @@
 ---
+
 title: "Kopari Coconut Lip Glossy | Vegan Hydrating Moisturizing Lip"
 seo_title: "Kopari Coconut Lip Glossy | Vegan Hydrating Moistu Review"
 meta_description: "Our full kopari coconut lip glossy | vegan hydrating moisturizing lip review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZH8P481/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711gB+FYbQL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about lip gloss: most of them are just colored goo that sits on your lips pretending to moisturize. The **Kopari Coconut Lip Glossy** is not that. This is a hybrid product — part gloss, part treatment — and it earns its 4.5-star rating from 225+ Amazon shoppers by actually doing what it claims.

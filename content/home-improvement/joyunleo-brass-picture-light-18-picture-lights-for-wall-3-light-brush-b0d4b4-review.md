@@ -1,7 +1,8 @@
 ---
-title: "Joyunleo Brass Picture Light, 18\" Picture Lights for Wall, 3"
-seo_title: "Joyunleo Brass Picture Light, 18\" Picture Lights f Review"
-meta_description: "Our full joyunleo brass picture light, 18\" picture lights for wall, 3 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Joyunleo Brass Picture Light, 18\ Picture Lights for Wall, 3"
+seo_title: "Joyunleo Brass Picture Light, 18\ Picture Lights f Review"
+meta_description: "Our full joyunleo brass picture light, 18\ picture lights for wall, 3 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "joyunleo-brass-picture-light-18-picture-lights-for-wall-3-light-brush-b0d4b4-review"
 image_alt: "Joyunleo Brass Picture Light, 18 Picture Lights for Wall, 3-Light Brush Gold Picture Lights Over Frame, Adjustable Brigh"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4B4JF49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l4-yzeFUL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Three heads beat one — here's why

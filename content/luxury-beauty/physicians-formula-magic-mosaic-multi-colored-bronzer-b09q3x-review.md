@@ -1,4 +1,5 @@
 ---
+
 title: "Physicians Formula Magic Mosaic Multi-Colored Bronzer"
 seo_title: "Physicians Formula Magic Mosaic Multi-Colored Bron Review"
 meta_description: "Our full physicians formula magic mosaic multi-colored bronzer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Q3X8P7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816P8wP5YKL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most bronzers that cost $15 or less deliver one of two things — a muddy orange smear or a glitter-bomb that makes you look like a disco ball. The Physicians Formula Magic Mosaic Multi-Colored Bronzer manages to avoid both traps, and that's precisely why it's held a 4.6-star average across 229 Amazon ratings. But is it the right bronzer for *you*? That depends on your skin tone, your finish preferences, and how much you value a natural glow over a dramatic one.

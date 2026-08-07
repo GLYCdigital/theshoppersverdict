@@ -1,7 +1,8 @@
 ---
-title: "Modway Render Mid-Century Modern 37\" Vinyl Record Display St"
-seo_title: "Modway Render Mid-Century Modern 37\" Vinyl Record  Review"
-meta_description: "Our full modway render mid-century modern 37\" vinyl record display st review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Modway Render Mid-Century Modern 37\ Vinyl Record Display St"
+seo_title: "Modway Render Mid-Century Modern 37\ Vinyl Record  Review"
+meta_description: "Our full modway render mid-century modern 37\ vinyl record display st review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "modway-render-mid-century-modern-37-vinyl-record-display-stand-in-walnut-b08t9z-review"
 image_alt: "Modway Render Mid-Century Modern 37 Vinyl Record Display Stand in Walnut"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08T9ZBSQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616LE0-JfNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still flipping through milk crates or stacking records sideways on a bookshelf, you're doing your collection a disservice. The Modway Render isn't just storage — it's a display piece that turns your vinyl into wall art. With 235 ratings holding a 4.7-star average, this 37-inch mid-century stand has become a default recommendation in audiophile circles. I tested whether it earns that reputation.

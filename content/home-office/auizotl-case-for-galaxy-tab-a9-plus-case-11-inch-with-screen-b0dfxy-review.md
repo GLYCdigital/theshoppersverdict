@@ -1,4 +1,5 @@
 ---
+
 title: "Auizotl Case for Galaxy Tab A9 Plus Case 11 Inch with Screen"
 seo_title: "Auizotl Tab A9 Plus Case Review: Built-In Screen Protection"
 meta_description: "Auizotl Galaxy Tab A9 Plus 11-inch case review: built-in screen protector, kickstand, and S Pen holder. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFXYQZF4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fu7lhrYtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in screen protector covers the display without a separate film application — no bubbles, no alignment struggles"
   - "Integrated kickstand locks into two viewing angles, stable enough for lap use and desk typing"
   - "Precise cutouts for the Tab A9 Plus speakers, USB-C port, and camera — nothing feels blocked or misaligned"
-cons:
+cons: 
   - "Adds noticeable bulk — roughly doubles the tablet's thickness, so it won't slide into slim sleeves"
   - "Built-in screen protector is plastic, not glass — expect minor scratching over months of heavy use"
   - "S Pen holder is a simple elastic loop, not a molded slot — the pen can slip out if tossed in a bag carelessly"
+
 ---
 
 **The short version:** If you own a Galaxy Tab A9 Plus and want one case that handles protection, viewing angles, and S Pen storage without juggling accessories, the Auizotl case earns a serious look. It's not the slimmest or most premium option, but it nails the fundamentals at a price that makes sense.

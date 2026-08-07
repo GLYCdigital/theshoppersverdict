@@ -1,4 +1,5 @@
 ---
+
 title: "Hougen HMD900 Magnetic Drill - 115V"
 seo_title: "Hougen HMD900 Magnetic Drill - 115V Review: Verdict | TSV"
 meta_description: "Our full hougen hmd900 magnetic drill - 115v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09L7FH7J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H4pRigbkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a handheld drill against a vertical I-beam, you know the drill wanders, the bit skates, and your arms burn out before you finish the second hole. The Hougen HMD900 exists to end that fight. This 115V magnetic drill is the mid-tier workhorse in Hougen's lineup, and with 225 Amazon ratings averaging 4.5 stars, it's clearly earning its keep on job sites. But before you drop the cash, let's talk about what it actually does — and where it'll test your patience.

@@ -1,4 +1,5 @@
 ---
+
 title: "Giraffe Tools Grandfalls Pressure Washer, Max 2900 PSI, 2.2 "
 seo_title: "Giraffe Tools Grandfalls Pressure Washer, Max 2900 Review"
 meta_description: "Our full giraffe tools grandfalls pressure washer, max 2900 psi, 2.2  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DP6PQ2D4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HpNgWUVxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Giraffe Tools Grandfalls enters a crowded field of electric pressure washers all claiming driveway-clearing dominance. At 2900 PSI and 2.2 GPM, it's positioned near the top of the residential electric class — but the 3.6-star average across 180 ratings tells you this isn't a slam dunk. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Refreshing 2-in-1 Hair & Body Wash Conditioner for"
 seo_title: "Old Spice Refreshing 2-in-1 Hair & Body Wash Condi Review"
 meta_description: "Our full old spice refreshing 2-in-1 hair & body wash conditioner for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXRYSVY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YKuowUtmL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever grabbed a 2-in-1 shampoo/body wash and ended up with straw-like hair and squeaky skin, you know the category's reputation. The Old Spice Refreshing 2-in-1 Hair & Body Wash tries to fix that — and for the most part, it succeeds. With 235 Amazon ratings averaging a strong 4.7 out of 5, this isn't a niche favorite; it's a mass-market workhorse that's earned its place in countless shower caddies.

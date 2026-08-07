@@ -1,4 +1,5 @@
 ---
+
 title: "JELENS Treadmill for Home with 0-15% Auto Incline, Foldable "
 seo_title: "JELENS Treadmill for Home with 0-15% Auto Incline, Review"
 meta_description: "Our full jelens treadmill for home with 0-15% auto incline, foldable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR8CL55R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gfiYUpbmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The JELENS treadmill sits in a crowded category of compact, foldable home treadmills. What sets it apart on paper is the 0-15% auto incline — a feature usually reserved for machines that cost twice as much and take up half your living room. But paper specs don't tell you if it'll survive daily use. Here's what you actually need to know.

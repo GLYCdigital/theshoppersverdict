@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 2-Slot Toaster"
 seo_title: "Amazon Basics 2-Slot Toaster Review: Worth It? (2026)"
 meta_description: "Amazon Basics 2-Slot Toaster review: real-world performance, durability concerns, and who should buy. Honest verdict with buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07T14YQZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8138QKapdZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide slots handle thick bagels, artisan bread, and Texas toast without forcing"
   - "6-position browning dial with cancel, reheat, and frozen functions — genuinely useful, not gimmicky"
   - "Removable crumb tray and cord wrap keep counter cleanup simple"
-cons:
+cons: 
   - "Plastic housing feels light and can scratch easily — don't expect premium build"
   - "Uneven browning on darker settings; one side can run hotter than the other"
   - "No bagel-specific setting, despite the wide slots suggesting bagel use"
+
 ---
 
 # Amazon Basics 2-Slot Toaster Review: Does Budget Mean Compromise?

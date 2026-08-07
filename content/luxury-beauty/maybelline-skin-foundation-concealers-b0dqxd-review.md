@@ -1,4 +1,5 @@
 ---
+
 title: "MAYBELLINE Skin Foundation Concealers"
 seo_title: "MAYBELLINE Skin Foundation Concealers Review: Verdict | T"
 meta_description: "Our full maybelline skin foundation concealers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQXD8MJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619itDu2HNL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most drugstore concealers fall into two camps — either they crease within an hour or they look so thick you could spackle drywall. The Maybelline Skin Foundation Concealer tries to split the difference, and honestly? It mostly works.

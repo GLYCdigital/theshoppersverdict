@@ -1,7 +1,8 @@
 ---
-title: "WLIVE Nightstand with Charging Station, 31.9\" H Nightstand w"
-seo_title: "WLIVE Nightstand with Charging Station, 31.9\" H Ni Review"
-meta_description: "Our full wlive nightstand with charging station, 31.9\" h nightstand w review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WLIVE Nightstand with Charging Station, 31.9\ H Nightstand w"
+seo_title: "WLIVE Nightstand with Charging Station, 31.9\ H Ni Review"
+meta_description: "Our full wlive nightstand with charging station, 31.9\ h nightstand w review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wlive-nightstand-with-charging-station-31-9-h-nightstand-with-3-fabric-b0dph8-review"
 image_alt: "WLIVE Nightstand with Charging Station, 31.9 H Nightstand with 3 Fabric Drawers, LED Bedside Table with USB Ports and Ou"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPH84M23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hEKkVvLPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WLIVE Nightstand with Charging Station, 31.9" H Nightstand w

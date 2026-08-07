@@ -1,4 +1,5 @@
 ---
+
 title: "BESBLEE Chicken Coop Roosting Perch Essentialsï¼šPerfect for"
 seo_title: "BESBLEE Chicken Roosting Perch Review: Coop Essentials"
 meta_description: "BESBLEE chicken roosting perch review: sturdy PVC-coated design, easy install. See if this coop essential earns its 4.2 stars before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CNYNXL4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x7N0deimL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "PVC-coated steel frame resists rust and is far easier to hose down than bare wood perches"
   - "Flat top surface (about 2 inches wide) mimics natural branch perching, reducing bumblefoot risk"
   - "Tool-free assembly takes under five minutes — you just snap the legs into the crossbars"
-cons:
+cons: 
   - "Sizing runs small for full-size breeds like Orpingtons; better suited to bantams and standard hens under 6 lbs"
   - "No included mounting hardware if you want to secure it to coop walls — it stands freestanding only"
   - "PVC coating can peel at the cut ends after a year of heavy scratching; sand those edges before first use"
+
 ---
 
 **If your flock is currently sleeping on a 2x4 or, worse, a round dowel, you're doing them a disservice.** Chickens naturally prefer to sleep with their feet flat, not wrapped around a perch. That's the core idea behind the BESBLEE Chicken Coop Roosting Perch — a freestanding, PVC-coated steel roost that prioritizes foot health without turning installation into a weekend project.

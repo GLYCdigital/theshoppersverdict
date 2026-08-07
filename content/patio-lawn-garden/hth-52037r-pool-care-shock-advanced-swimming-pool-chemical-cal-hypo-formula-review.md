@@ -1,13 +1,14 @@
 ---
+
 title: "HTH 52037R Pool Care Shock Advanced, Swimming Pool Chemical - Cal Hypo Formula, Prevents Bacteria & Algae, Restores Crystal Clear Water - Shock Treatment, 1lb (12 Pack)"
 seo_title: "HTH 52037R Pool Care Shock Advanced, Swimming Pool Review"
 meta_description: "Honest hth 52037r pool care shock advanced, swi review based on 13,985+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "hth-52037r-pool-care-shock-advanced-swimming-pool-chemical-cal-hypo-formula-review"
 image_alt: "HTH 52037R Pool Care Shock Advanced, Swimming Pool Chemical - Cal Hypo Formula, Prevents Bacteria & Algae, Restores Crys"
-keywords:
+keywords: 
   - "hth 52037r pool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the HTH 52037R Pool Care Shock?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the HTH 52037R Pool Care Shock?"
@@ -20,10 +21,11 @@ review_count: 13985
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09R82X1S5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HW8DNg6EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 If you've ever dumped a shock treatment into a cloudy pool and watched it do nothing, you know the frustration. HTH's 52037R Pool Care Shock Advanced is the product people switch to after that disappointment — and with 13,985 Amazon ratings averaging 4.7 stars, it's not hard to see why.

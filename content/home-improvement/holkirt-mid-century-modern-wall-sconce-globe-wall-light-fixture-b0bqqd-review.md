@@ -1,4 +1,5 @@
 ---
+
 title: "HOLKIRT Mid Century Modern Wall Sconce Globe Wall Light Fixt"
 seo_title: "HOLKIRT Mid Century Modern Wall Sconce Globe Wall  Review"
 meta_description: "Our full holkirt mid century modern wall sconce globe wall light fixt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQQDKM19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U5Jc1AIqL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Holkirt Mid Century Modern Wall Sconce: A Small Fixture with Big Style — But Read This Before Buying**

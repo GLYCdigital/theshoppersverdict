@@ -1,4 +1,5 @@
 ---
+
 title: "Grip-Rite PTN4S5 PG10 Polymer Coated #10 x 4 Coarse Thread D"
 seo_title: "Grip-Rite PTN4S5 PG10 Polymer Coated #10 x 4 Coars Review"
 meta_description: "Our full grip-rite ptn4s5 pg10 polymer coated #10 x 4 coarse thread d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8J7XTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fsI0tYMKL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Grip-Rite PTN4S5 PG10 Deck Screws: The Workhorse You Stop Thinking About

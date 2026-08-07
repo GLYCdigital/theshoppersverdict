@@ -1,4 +1,5 @@
 ---
+
 title: "AOC Gaming Monitor, Full HD 1920x1080, 180Hz 1ms, 1x HDMI 2."
 seo_title: "AOC 180Hz Gaming Monitor Review: Fast, Affordable, Honest"
 meta_description: "AOC 24-inch Full HD 180Hz 1ms gaming monitor review: real performance, input lag, build quality, and who should buy it. Verdict: 4.2/5."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GC5Q1BLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v+semAuML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "180Hz refresh rate at this price point is genuinely rare — smooth motion without the 240Hz premium"
   - "1ms MPRT response time holds up in fast-paced shooters with minimal ghosting on the 'Fast' overdrive setting"
   - "Flicker-free backlight with low blue light mode makes 8-hour work sessions surprisingly comfortable"
-cons:
+cons: 
   - "Only 1x HDMI 2.0 port — you'll need DisplayPort for full 180Hz on most GPUs"
   - "Stand offers tilt only; no height adjustment or swivel without buying a VESA arm"
   - "Speakers are tinny at best — plan on headphones or external speakers from day one"
+
 ---
 
 The AOC 24-inch Full HD monitor with a 180Hz refresh rate is the kind of product that makes you question why you'd ever pay $400 for a "gaming" display. It's not perfect — the port selection alone will annoy some buyers — but for the price, it punches well above its weight class. Let's break down what you're actually getting.

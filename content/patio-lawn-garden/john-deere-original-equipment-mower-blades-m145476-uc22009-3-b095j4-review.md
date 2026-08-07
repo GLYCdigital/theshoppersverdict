@@ -1,4 +1,5 @@
 ---
+
 title: "John Deere Original Equipment Mower Blades(M145476) - UC2200"
 seo_title: "John Deere Original Equipment Mower Blades(M145476 Review"
 meta_description: "Our full john deere original equipment mower blades(m145476) - uc2200 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B095J4VRDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Iqw+KuSdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the John Deere M145476 worth the premium over generic blades? After digging through 235 verified buyer experiences and the spec sheet, here's the honest answer.**

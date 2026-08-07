@@ -1,4 +1,5 @@
 ---
+
 title: "Gama Sonic Outdoor Solar Lamp Post, Single Lamp with 3-inch"
 seo_title: "Gama Sonic Solar Lamp Post Review: Worth It? (2026)"
 meta_description: "Gama Sonic Solar Lamp Post review: 4.1-star rated outdoor lighting. Real performance data, battery life, pros/cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G1V44NSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61thfOiIEhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn operation with a 12-hour runtime on a full charge, not the typical 4-6 hour cutout you see in cheaper solar fixtures"
   - "Weatherproof aluminum housing with a powder-coated finish that holds up through rain, snow, and UV exposure without rusting or fading"
   - "Tool-free installation onto a standard 3-inch post fitter — you're done in under 15 minutes if you have a post already in place"
-cons:
+cons: 
   - "Solar panel is integrated into the lamp head, so if your yard is heavily shaded, you'll get dramatically reduced runtime — placement matters more than with remote-panel units"
   - "The included battery is a NiMH pack, not lithium-ion; expect to replace it after 2-3 seasons of heavy use"
   - "No motion sensor or dimming modes — it's strictly on at dusk, off at dawn, which wastes light in low-traffic areas"
+
 ---
 
 Let's cut through the marketing: most solar lamp posts under $150 are junk. They flicker, die by 9 PM, or the plastic housing cracks after one winter. The Gama Sonic Outdoor Solar Lamp Post with the 3-inch fitter sits a notch above that crowd — but it's not without tradeoffs. With a 4.1-star average across 204 ratings, the consensus is clear: this is a solid mid-tier option that does exactly what it promises, provided you install it where the sun actually hits it.

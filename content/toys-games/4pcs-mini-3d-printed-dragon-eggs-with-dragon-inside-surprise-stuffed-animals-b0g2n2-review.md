@@ -1,5 +1,6 @@
 ---
 
+
 title: "4PCS Mini 3D Printed Dragon Eggs with Dragon Inside, Surpris"
 seo_title: "4PCS Mini 3D Printed Dragon Eggs Review: Worth It?"
 meta_description: "Honest review of 4PCS Mini 3D Printed Dragon Eggs with Dragon Inside. 4.6-star toy with 229 ratings. See what buyers love and the real downsides."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2N25KTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZcOBcAMpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each egg contains a unique, removable dragon figure — four distinct designs, not just color swaps"
   - "3D printed PLA plastic is surprisingly sturdy; survives drops onto hardwood without cracking"
   - "Small footprint (roughly 2 inches per egg) makes them ideal for desk displays, stocking stuffers, or D&D table props"
-cons:
+cons: 
   - "Egg halves fit snugly but can be frustrating for small hands to pry apart — adults may need to help kids under 6 inch"
   - "Not a 'hatching' toy — the dragon is already inside, so there's no interactive reveal mechanic beyond opening the egg"
+
 
 ---
 

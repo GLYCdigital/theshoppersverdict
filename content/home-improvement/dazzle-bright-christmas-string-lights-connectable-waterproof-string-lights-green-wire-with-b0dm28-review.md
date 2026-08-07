@@ -1,4 +1,5 @@
 ---
+
 title: "Dazzle Bright Christmas String Lights, Connectable Waterproo"
 seo_title: "Dazzle Bright Christmas String Lights Review: Worth It?"
 meta_description: "Dazzle Bright connectable waterproof Christmas string lights reviewed: brightness, durability, weatherproofing. Real buyer feedback, pros/cons, verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM28RLHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VLuMf76RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True connectable design — up to 12 sets end-to-end without extra adapters or dimming"
   - "IP44 waterproof rating holds up in rain, snow, and freezing temps per multiple long-term reviewers"
   - "Bright, warm-white LEDs with even spacing — no dark spots or hot blobs along the wire"
-cons:
+cons: 
   - "Green wire stands out against white trim, decks, or brick — color-matched wire not offered"
   - "Controller box is bulky and can be finicky to hide; not ideal for tight gutter channels"
   - "Some units reported dead bulbs within first month — QC inconsistency at this price point"
+
 ---
 
 Let’s skip the tinsel talk. If you’re shopping for Christmas string lights that can actually survive a New England winter or a Pacific Northwest drizzle, the Dazzle Bright Connectable Waterproof String Lights deserve a hard look. At 4.4 stars from 220 ratings, the verdict score lands at 4.2/5 — solid, but with caveats worth knowing before you click buy.

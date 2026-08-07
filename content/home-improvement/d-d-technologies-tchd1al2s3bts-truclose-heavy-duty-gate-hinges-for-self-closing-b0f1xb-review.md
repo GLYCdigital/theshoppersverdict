@@ -1,4 +1,5 @@
 ---
+
 title: "D&D Technologies TCHD1AL2S3BTS TruClose Heavy Duty Gate Hing"
 seo_title: "D&D TruClose Heavy Duty Gate Hinge Review (2026)"
 meta_description: "Honest D&D Technologies TruClose heavy duty gate hinge review: self-closing power, build quality, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1XB1YPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PVLESt2CL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Adjustable closing speed and latch force via hidden set screws—no hydraulics to leak or freeze"
   - "Non-corrosive aluminum and stainless steel internals rated for 120,000+ cycles in coastal/salt environments"
   - "Works with gates up to 264 lbs and 60 inches wide—genuine heavy-duty capacity, not marketing math"
-cons:
+cons: 
   - "Requires precise vertical alignment during installation; misalignment causes uneven wear and erratic closing"
   - "No physical stop at 90 degrees—gate swings past if you push it, which surprises some users"
   - "The instructions are dense; budget a full afternoon if you're not a confident DIYer"
+
 ---
 
 If you’ve ever wrestled a sagging gate shut while carrying groceries, you know the problem isn’t the gate—it’s the hinge. The D&D Technologies TCHD1AL2S3BTS TruClose isn’t a $15 hardware-store hinge with a spring inside. It’s a self-contained closing system that replaces both hinges on gates up to 264 pounds and 60 inches wide. The question isn’t whether it works. It’s whether it’s worth the premium and the installation headache.

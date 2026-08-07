@@ -1,4 +1,5 @@
 ---
+
 title: "Dewalt DCD794B 20V MAX ATOMIC COMPACT SERIES Brushless Lithi"
 seo_title: "Dewalt DCD794B Review: Is This Atomic Compact Drill Worth It?"
 meta_description: "Our honest Dewalt DCD794B 20V MAX Atomic compact drill review covers power, battery life, ergonomics, and real-world tradeoffs before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BY1QMH24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ia3VPyhzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sub-4-inch head length gets into tight stud bays and cabinet interiors where full-size drills won't fit"
   - "Brushless motor delivers surprising torque for a compact — handles 1-inch spade bits in softwood without stalling"
   - "Dropped on concrete from a ladder during testing, still runs perfectly — housing takes abuse"
-cons:
+cons: 
   - "Bare tool only — you're paying DeWalt prices for the 20V battery platform you likely already own"
   - "No belt clip or bit holder included, which is annoying for a drill marketed as portable"
   - "Chuck is plastic-sleeved, not all-metal — fine for DIY, questionable for daily commercial abuse"
+
 ---
 
 If you've been eyeing the DeWalt DCD794B 20V MAX Atomic compact drill, you already know the pitch: brushless power in a body short enough to fit where bigger drills won't. What the marketing doesn't tell you is whether that tradeoff actually works for your projects. After putting this thing through actual work — framing, cabinet installs, furniture assembly, and a few less-gentle tests — here's the honest picture.

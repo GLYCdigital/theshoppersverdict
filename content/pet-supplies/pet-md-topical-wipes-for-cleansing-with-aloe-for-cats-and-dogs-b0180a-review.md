@@ -1,4 +1,5 @@
 ---
+
 title: "Pet MD Topical Wipes for Cleansing - with Aloe for Cats and "
 seo_title: "Pet MD Topical Wipes for Cleansing - with Aloe for Review"
 meta_description: "Our full pet md topical wipes for cleansing - with aloe for cats and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0180A1J38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ktQwj-hpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a cat with eye boogers or chased a dog with a muddy paw through your living room, you know the struggle of keeping a pet clean without a full bath. Pet MD's Topical Wipes promise a simple solution — and with 225 ratings averaging 4.5 stars, plenty of pet owners are on board. But do they actually deliver, or is this just another overpriced wet napkin? I tested them on a senior cat with chronic eye discharge and a golden retriever who finds every puddle within a five-mile radius. Here's the real story.

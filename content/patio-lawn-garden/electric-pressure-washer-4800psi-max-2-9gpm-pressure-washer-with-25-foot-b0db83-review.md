@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Pressure Washer 4800PSI-Max 2.9GPM Pressure Washer"
 seo_title: "4800PSI Electric Pressure Washer Review: Worth It? (2026)"
 meta_description: "Honest 4800PSI electric pressure washer review: power, build quality, real cleaning results, and common complaints from 195+ Amazon buyers."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DB83F9MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61StL8jBnQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely strong cleaning power for an electric unit — handles concrete, siding, and vehicle grime without bogging down"
   - "2.9 GPM flow rate means faster rinsing; you're not waiting forever to clear soap residue"
   - "Includes 5 quick-connect nozzles, a foam cannon, and a 25-foot hose — enough accessories to start working immediately"
-cons:
+cons: 
   - "Multiple buyers report the included hose kinks easily, cutting water flow mid-job until you stop and straighten it"
   - "Wheels are small and plastic; maneuvering over uneven patio stones or grass is frustrating"
   - "Unit is heavier than most electric models — about 30 pounds — so carrying it up stairs is a workout"
+
 ---
 
 If you're hunting for a gas-powered replacement that still plugs into a wall outlet, this 4800PSI electric pressure washer demands your attention — but it doesn't deserve your blind trust. With a 3.9-star average across 195 Amazon ratings, the real story here is a machine that cleans like a champ when it works, yet frustrates a meaningful slice of buyers with build-quality shortcuts. Let's break down what you're actually getting.

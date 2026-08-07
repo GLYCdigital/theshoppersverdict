@@ -1,4 +1,5 @@
 ---
+
 title: "Wholesome Sweeteners Organic Blue Agave, Syrup, 44 Ounce"
 seo_title: "Wholesome Sweeteners Organic Blue Agave, Syrup, 44 Review"
 meta_description: "Our full wholesome sweeteners organic blue agave, syrup, 44 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FG2Z4551/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CUTovtztL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Coffee Lover's Secret to Clean, Instant Sweetness**

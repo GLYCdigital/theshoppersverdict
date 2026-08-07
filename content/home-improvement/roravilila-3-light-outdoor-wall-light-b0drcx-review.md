@@ -1,4 +1,5 @@
 ---
+
 title: "Roravilila 3-Light Outdoor Wall Light"
 seo_title: "Roravilila 3-Light Outdoor Wall Light Review: Verdict | T"
 meta_description: "Our full roravilila 3-light outdoor wall light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRCXX518/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jq7tas1jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 3-Light Wall Light That Actually Thinks About Where It Shines

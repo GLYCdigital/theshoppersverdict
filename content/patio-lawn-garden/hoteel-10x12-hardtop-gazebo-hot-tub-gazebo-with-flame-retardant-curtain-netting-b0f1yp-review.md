@@ -1,4 +1,5 @@
 ---
+
 title: "HOTEEL 10x12 Hardtop Gazebo Hot Tub Gazebo with Flame-Retard"
 seo_title: "HOTEEL 10x12 Hardtop Gazebo Hot Tub Gazebo with Fl Review"
 meta_description: "Our full hoteel 10x12 hardtop gazebo hot tub gazebo with flame-retard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F1YPHZB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9118wBGRT4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 **Frontmatter:**
 

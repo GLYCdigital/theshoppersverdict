@@ -1,4 +1,5 @@
 ---
+
 title: "Vexwalx Outdoor Lounge Chair for Pool, Aluminum Chaise Loung"
 seo_title: "Vexwalx Outdoor Lounge Chair for Pool, Aluminum Ch Review"
 meta_description: "Our full vexwalx outdoor lounge chair for pool, aluminum chaise loung review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYJRNKJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YRRbRAaUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Vexwalx Outdoor Lounge Chair for Pool: The No-Fuss Aluminum Chaise That Actually Holds Up

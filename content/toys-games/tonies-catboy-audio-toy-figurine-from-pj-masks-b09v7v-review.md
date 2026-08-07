@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Catboy Audio Toy Figurine from PJ Masks"
 seo_title: "Tonies Catboy Audio Toy Figurine from PJ Masks Review: Ve"
 meta_description: "Our full tonies catboy audio toy figurine from pj masks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09V7VYCDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dT6VQj0PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with PJ Masks — and let's be honest, most preschoolers are — the Tonies Catboy figurine is one of the smartest additions you can make to their Toniebox setup. But here's what I actually found after digging into this specific Tonie.

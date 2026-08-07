@@ -1,4 +1,5 @@
 ---
+
 title: "IIRARA Fence Lights Solar Powered, Solar Fence Lights Up/Dow"
 seo_title: "IIRARA Fence Lights Solar Powered, Solar Fence Lig Review"
 meta_description: "Our full iirara fence lights solar powered, solar fence lights up/dow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F4R1WT1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rc6svDyQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## IIRARA Fence Lights Solar Powered Review: Two Beams, One Fixture — But Does It Last?

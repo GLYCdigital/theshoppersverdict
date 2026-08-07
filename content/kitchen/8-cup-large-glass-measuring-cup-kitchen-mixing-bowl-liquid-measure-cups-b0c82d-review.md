@@ -1,4 +1,5 @@
 ---
+
 title: "8 Cup Large Glass Measuring Cup - Kitchen Mixing Bowl Liquid"
 seo_title: "8 Cup Glass Measuring Cup Review: Mixing Bowl Combo"
 meta_description: "Honest 8 cup glass measuring cup review: borosilicate build, pour spout, microwave-safe. See real pros, cons & who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C82D79Q4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ipHTDpvmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2-quart capacity with clear, etched-style markings that don't rub off in the dishwasher"
   - "Borosilicate glass handles thermal shock — straight from fridge to microwave without cracking"
   - "Integrated pour spout and sturdy handle make transferring batter or hot liquids genuinely mess-free"
-cons:
+cons: 
   - "No lid included — leftover storage requires plastic wrap or a separate cover"
   - "Heavier than plastic or Pyrex alternatives at roughly 2.5 lbs empty, which some may find unwieldy"
   - "Red measurement markings sit flush with the glass, making them harder to read at a glance for aging eyes"
+
 ---
 
 Most measuring cups are an afterthought — flimsy plastic things you wrestle with when a recipe demands precision. The 8 Cup Large Glass Measuring Cup from B0C82D79Q4 tries to be more than that, doubling as a mixing bowl. And honestly? It mostly pulls it off.

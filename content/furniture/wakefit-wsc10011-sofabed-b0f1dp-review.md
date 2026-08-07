@@ -1,4 +1,5 @@
 ---
+
 title: "Wakefit WSC10011 Sofabed"
 seo_title: "Wakefit WSC10011 Sofabed Review: Verdict | TSV"
 meta_description: "Our full wakefit wsc10011 sofabed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1DPTFPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HSAp8+ThL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A sofa bed is a compromise by definition — and most of them fail at one half of the equation. The Wakefit WSC10011 manages to split the difference better than most, but it's not without its quirks. Here's what 210 buyers at 4.2 stars are actually saying.

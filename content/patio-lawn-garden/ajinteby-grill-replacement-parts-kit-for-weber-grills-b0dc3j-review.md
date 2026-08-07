@@ -1,24 +1,26 @@
 ---
+
 title: "AJinTeby Grill Replacement Parts Kit for Weber Grills Review"
 seo_title: "AJinTeby Grill Replacement Parts Kit for Weber: Review (2026)"
 meta_description: "AJinTeby grill replacement parts kit for Weber grills: Does it fit? Is it durable? Read our 4.6/5 review with honest pros, cons, and buyer quotes."
 slug: "ajinteby-grill-replacement-parts-kit-for-weber-grills-b0dc3j-review"
 image_alt: "AJinTeby grill replacement parts kit for Weber grills with flavorizer bars, cooking grates, and heat deflectors"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC3JQJM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uCMgo5TFL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Precise fit for Weber Spirit 310/320 and Genesis II models — no drilling or bending needed"  
   - "Heavy-gauge stainless steel flavorizer bars and cooking grates that resist warping"  
   - "Includes all 4 heat shields, 4 flavorizer bars, and 2 cooking grates — a true complete kit"  
-cons:  
+cons: 
   - "Cooking grates are 7mm rods, not the thicker 8mm found on OEM Weber parts"  
   - "No hardware or screws included — you'll need to reuse the old fasteners"  
   - "Packaging is minimal; one reviewer reported a slightly bent bar in transit"
+
 ---
 
 # AJinTeby Grill Replacement Parts Kit for Weber Grills: The $60 Fix That Saves a $500 Grill  

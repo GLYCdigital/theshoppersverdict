@@ -1,4 +1,5 @@
 ---
+
 title: "GIMILI Gold Touchless Faucet with Pull Down Sprayer, Motion "
 seo_title: "GIMILI Gold Touchless Faucet with Pull Down Spraye Review"
 meta_description: "Our full gimili gold touchless faucet with pull down sprayer, motion  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B08V517H82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619dZYIGQVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GIMILI Gold Touchless Faucet sits in that awkward middle ground: it's genuinely innovative, but it's not the slam-dunk upgrade some shoppers expect. At $150-ish (depending on when you catch it), you're paying for convenience that mostly works — with a few quirks you should know about before you commit.

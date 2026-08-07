@@ -1,4 +1,5 @@
 ---
+
 title: "KISS COLORS & CARE Braid Loc Gel"
 seo_title: "KISS COLORS & CARE Braid Loc Gel Review: Verdict | TSV"
 meta_description: "Our full kiss colors & care braid loc gel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBNL1C37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71en1PFjmpL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # KISS COLORS & CARE Braid Loc Gel Review: The Edge-Control That Actually Holds

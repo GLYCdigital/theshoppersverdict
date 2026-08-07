@@ -1,4 +1,5 @@
 ---
+
 title: "UrbanRoots dessert cups"
 seo_title: "UrbanRoots dessert cups Review: Verdict | TSV"
 meta_description: "Our full urbanroots dessert cups review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSVSJNRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zOtbWX3lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most dessert cups are either flimsy plastic throwaways or overpriced glass that shatters in week one. The UrbanRoots dessert cups sit in a rare middle ground — they’re genuinely well-made, and the 4.7-star average across 235 ratings reflects that. But are they worth your money? I dug through the specs, the feedback, and the real-world complaints to give you the straight story.

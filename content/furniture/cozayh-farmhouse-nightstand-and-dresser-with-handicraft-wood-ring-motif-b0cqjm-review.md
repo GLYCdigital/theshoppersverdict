@@ -1,4 +1,5 @@
 ---
+
 title: "COZAYH Farmhouse Nightstand and Dresser with Handicraft Wood"
 seo_title: "COZAYH Farmhouse Nightstand & Dresser Review: Real Wood Quality"
 meta_description: "Honest COZAYH farmhouse nightstand review: solid wood construction, ring-pull design, and real-world durability. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQJMTY6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812d3amfYhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine rubberwood construction with visible grain — not printed veneer or MDF"
   - "Ring-pull hardware is cut from solid metal, not hollow stamped tin"
   - "Three-step hand-rubbed finish resists water rings and everyday scuffs"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes; drawer slides need patience to align perfectly"
   - "No soft-close mechanism — drawers close with a solid thunk"
   - "Antique white finish shows scuffs more readily than darker wood tones"
+
 ---
 
 If you've shopped farmhouse furniture on Amazon, you know the drill: particleboard, printed "wood grain," and drawer fronts that peel within a year. The COZAYH Farmhouse Nightstand isn't that. This is actual rubberwood — solid, kiln-dried, and heavy enough that you'll feel it when you lift the box. After 220 ratings averaging 4.4 stars, it's clear this piece earns its keep in real bedrooms, not just staging photos.

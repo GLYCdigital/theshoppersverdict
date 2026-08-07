@@ -1,4 +1,5 @@
 ---
+
 title: "Pack 12(10+2) 19-3100 Vacuum Bags for Stanley Shop Vac 5-6 G"
 seo_title: "Pack 12(10+2) 19-3100 Vacuum Bags for Stanley Shop Review"
 meta_description: "Our full pack 12(10+2) 19-3100 vacuum bags for stanley shop vac 5-6 g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BF8LVL8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mp6KgXMEL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Stanley Shop Vac in the 5-6 gallon range, you already know the struggle: the OEM 19-3100 bags cost roughly $10 each, and they fill up faster than you'd like when you're doing drywall work. This 12-pack from a third-party manufacturer attacks that problem directly — you're getting a dozen bags for what you'd normally pay for two or three name-brand ones. The question is whether the cost savings come with a tradeoff in fit or durability.

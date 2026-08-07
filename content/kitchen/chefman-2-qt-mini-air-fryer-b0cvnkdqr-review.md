@@ -1,4 +1,5 @@
 ---
+
 title: "CHEFMAN 2 Qt Mini Air Fryer – Digital Space-Saving Compact Air Fryer with Nonstick"
 seo_title: "CHEFMAN 2 Qt Mini Air Fryer Review — 4.5★ Compact at $50"
 meta_description: "CHEFMAN 2 Qt Mini Air Fryer review: 29,179 reviews analyzed. Digital controls, space-saving design, 450°F max temp. Is the $49.99 mini fryer worth it for solo cooks?"
@@ -11,23 +12,24 @@ review_count: 29179
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNK5DQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717RT0khBAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact 2-quart size fits anywhere — tiny footprint for small kitchens"
   - "Digital controls with presets for fries, chicken, steak, and fish"
   - "Nonstick basket cleans up in seconds — no soaking or scrubbing"
   - "Surprising capacity for single servings and small households"
-cons:
+cons: 
   - "2-quart capacity is too small for families or batch cooking"
   - "No preheat indicator — timing requires some trial and error"
   - "Basket is nonstick but the coating can scratch with abrasive cleaning"
 
-faq:
+faq: 
   - question: "Is the CHEFMAN 2 Qt Mini Air Fryer – Digital Space-Saving Compact A worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 **Performance: The Real Story**

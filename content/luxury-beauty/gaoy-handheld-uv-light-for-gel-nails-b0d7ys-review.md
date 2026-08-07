@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Handheld UV Light for Gel Nails"
 seo_title: "GAOY Handheld UV Light for Gel Nails Review: Verdict | TS"
 meta_description: "Our full gaoy handheld uv light for gel nails review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7YSGV8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611BD28FrBL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you've been burned by cheap handheld UV lamps that barely tack up your gel top coat, the GAOY handheld UV light is a different animal. This isn't a gimmick — it's a genuinely functional tool that solves a real problem for anyone who does gel nails at home or on the go.

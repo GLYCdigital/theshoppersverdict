@@ -1,4 +1,5 @@
 ---
+
 title: "NICESOULÂ® Hanging Chair Without Stand Swing Hammock Egg Bas"
 seo_title: "NICESOULÂ® Hanging Chair Without Stand Swing Hammo Review"
 meta_description: "Our full nicesoulâ® hanging chair without stand swing hammock egg bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8PK2YG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815J7ytMVwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. A hanging egg chair without a stand is a specific purchase — you're either already committed to the idea or you're wondering why anyone would buy a chair that requires you to supply the mounting point. Here's the honest breakdown.

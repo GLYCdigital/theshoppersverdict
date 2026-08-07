@@ -1,4 +1,5 @@
 ---
+
 title: "AULA Wireless Mechanical Keyboard, 75% TKL Custom Hot Swappa"
 seo_title: "AULA Wireless Mechanical Keyboard Review: 75% TKL Hot-Swap Value"
 meta_description: "AULA 75% wireless mechanical keyboard review: hot-swappable switches, tri-mode connectivity, and solid build for $60. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D96DRD4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qKJklF14L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tri-mode connectivity (2.4GHz/Bluetooth 5.2/USB-C) with stable multi-device pairing"
   - "Pre-lubed linear switches feel genuinely smooth for the price; hot-swap sockets accept standard 3/5-pin"
   - "Gasket mount with foam layers produces a deep, muted sound — not hollow or pingy"
-cons:
+cons: 
   - "Keycaps are thin ABS that will develop shine within a few months of daily use"
   - "No dedicated software for remapping on the Mac; customizing layers requires Windows"
+
 ---
 
 # AULA Wireless Mechanical Keyboard, 75% TKL Custom Hot Swappa — A $60 Board That Punches Way Above Its Class

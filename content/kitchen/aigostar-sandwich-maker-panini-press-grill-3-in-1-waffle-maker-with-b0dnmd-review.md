@@ -1,4 +1,5 @@
 ---
+
 title: "Aigostar Sandwich Maker Panini Press Grill, 3 in 1 Waffle Ma"
 seo_title: "Aigostar 3-in-1 Sandwich Maker Review: Worth It? (2026)"
 meta_description: "Honest Aigostar 3-in-1 sandwich maker review: panini press, waffle maker, and grill in one. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNMDPBVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GgBS-9KTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Interchangeable nonstick plates make it a true 3-in-1, covering waffles, grilled sandwiches, and flat grilling without needing three countertop appliances"
   - "Compact vertical storage design with a locking latch — fits in tight cabinets or even a deep drawer"
   - "Dual indicator lights and a 5-minute heat-up time get you cooking fast, per multiple buyer reports"
-cons:
+cons: 
   - "Nonstick coating is not PFOA-free per the listing; buyers with extreme chemical sensitivities should look elsewhere"
   - "Plates are not dishwasher-safe — hand washing required, which adds cleanup time compared to other makers"
   - "Waffle plates are shallow; batter overflow can seep out the sides if you overfill"
+
 ---
 
 **Aigostar 3-in-1 Sandwich Maker Review: Three Appliances, One Countertop Footprint**

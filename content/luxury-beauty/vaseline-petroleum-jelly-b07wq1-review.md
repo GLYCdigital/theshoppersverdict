@@ -1,4 +1,5 @@
 ---
+
 title: "Vaseline Petroleum Jelly"
 seo_title: "Vaseline Petroleum Jelly Review: Verdict | TSV"
 meta_description: "Our full vaseline petroleum jelly review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WQ1PN3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WE6w8NTbL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There's a reason this blue-and-white jar has sat in medicine cabinets for over a century. Vaseline Petroleum Jelly isn't trendy. It isn't fancy. And that's precisely why it works.

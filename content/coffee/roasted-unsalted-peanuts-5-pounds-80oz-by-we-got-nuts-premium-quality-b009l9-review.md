@@ -1,4 +1,5 @@
 ---
+
 title: "Roasted Unsalted Peanuts 5 Pounds (80oz) By We Got Nuts â€“ "
 seo_title: "Roasted Unsalted Peanuts 5 Pounds (80oz) By We Got Review"
 meta_description: "Our full roasted unsalted peanuts 5 pounds (80oz) by we got nuts â€“  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B009L9RQ80/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812iKN4jg3L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a 5-pound bag of peanuts on a whim. You buy it because you're feeding a family, meal-prepping, or you've got a serious snack habit that smaller bags can't sustain. We Got Nuts' roasted unsalted offering in the 80-ounce size is built for exactly that kind of buyer — and for the most part, it delivers exactly what the label promises.

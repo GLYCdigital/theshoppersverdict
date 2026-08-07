@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Kids Youth Hockey Gloves - Junior Gloves for"
 seo_title: "Franklin Sports Kids Youth Hockey Gloves Review (2026)"
 meta_description: "Franklin Sports Kids Youth Hockey Gloves review: durable junior gloves for street & roller hockey. Real buyer feedback, sizing tips, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CS426SW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91R0NmD7H6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Molded plastic knuckle protection that actually absorbs street hockey slash impacts without cracking"
   - "Breathable mesh palm keeps hands from turning into sweat sponges during hour-long driveway sessions"
   - "Hook-and-loop wrist strap cinches down tight enough for skinny kid wrists without bunching"
-cons:
+cons: 
   - "Sizing runs small — most buyers report needing to go one size up for a comfortable fit"
   - "Mesh palm is thin; expect it to wear through after a season of heavy outdoor concrete play"
+
 ---
 
 Let me be direct: most kids' hockey gloves under $30 are basically fabric bags with foam glued in. The Franklin Sports Youth Hockey Gloves aren't that. These are the rare budget glove that parents actually reorder when the first pair wears out — and with 229 ratings holding a 4.6-star average, the consensus is clear.

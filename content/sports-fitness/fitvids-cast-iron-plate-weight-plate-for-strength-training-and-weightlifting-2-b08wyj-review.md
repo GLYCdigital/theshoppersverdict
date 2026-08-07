@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Cast Iron Plate Weight Plate for Strength Training a"
 seo_title: "Fitvids Cast Iron Plate Review: Durable Weight Plates for Home Gyms"
 meta_description: "Read our Fitvids cast iron weight plate review covering build quality, accuracy, and value. See if these plates fit your home gym setup before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08WYJGBLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Z-R5-7jS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid cast iron build with no wobble on the bar — plates sit tight and stable during lifts"
   - "Weight accuracy is consistently on-spec, unlike some budget plates that run heavy or light"
   - "Smooth center hole with no sharp edges; slides onto standard 2-inch Olympic bars without sticking"
-cons:
+cons: 
   - "Bare cast iron finish means rust can develop if you store them in a humid garage or basement"
   - "No rubber coating means they'll clang loudly on rack drops — not ideal for apartment living"
+
 ---
 
 The Fitvids cast iron plate is the kind of purchase that doesn't get you excited — until you've lifted with cheap plates that wobble, stick, or lie about their weight. This one does none of those things. With a 4.8-star average across 240 ratings, it's clearly earning its keep in home gyms. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cooler Master NR200 Mini-ITX PC Case"
 seo_title: "Cooler Master NR200 Review: Best Mini-ITX PC Case?"
 meta_description: "Cooler Master NR200 Mini-ITX case review: 4.7★ rated. Is this compact SFF case right for your build? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GJ92QX6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dJDVPWYGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18-liter volume fits full-size GPUs up to 330mm and tower coolers up to 155mm — no SFF compromises on core components"
   - "Tool-less side panels and full mesh top/back allow exceptional airflow for a case this size"
   - "Dual-chamber layout separates PSU and drive cages from motherboard, keeping cable management clean"
-cons:
+cons: 
   - "Mini-ITX only — no ATX or Micro-ATX support, so you're locked into small-form-factor motherboards"
   - "Stock fans are adequate but not premium; most builders swap them for quieter 120mm options"
   - "GPU installation requires some planning if using a 3-slot card — check clearance before buying"
+
 ---
 
 Let me be blunt: most "mini" PC cases make you choose between small size and real hardware. The Cooler Master NR200 refuses to make that trade. At just 18 liters, this thing fits a full-length RTX 4090 and a tower CPU cooler that would look at home in a mid-tower. That's not marketing talk — the 330mm GPU clearance and 155mm cooler height limit are printed right in the spec sheet.

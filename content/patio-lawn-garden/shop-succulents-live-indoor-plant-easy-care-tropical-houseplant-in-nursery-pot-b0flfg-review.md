@@ -1,4 +1,5 @@
 ---
+
 title: "Shop Succulents Live Indoor Plant, Easy Care Tropical Housep"
 seo_title: "Shop Succulents Live Indoor Plant, Easy Care Tropi Review"
 meta_description: "Our full shop succulents live indoor plant, easy care tropical housep review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FLFGVR45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+U8Hylv8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: buying a live plant on Amazon is a gamble. Between shipping stress, temperature abuse in transit, and the eternal mystery of what species actually shows up, it's understandable to hesitate. So here's the honest story on this Shop Succulents offering, based on 210 ratings and a solid 4.2-star average.

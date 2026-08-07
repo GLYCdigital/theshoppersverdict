@@ -1,4 +1,5 @@
 ---
+
 title: "oneisall 2 in 1 Low Noise Cordless Dog Clippers and Paw Trim"
 seo_title: "oneisall 2 in 1 Low Noise Cordless Dog Clippers an Review"
 meta_description: "Our full oneisall 2 in 1 low noise cordless dog clippers and paw trim review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGZXGS1B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717CjScOeQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog acts like you're bringing a chainsaw near them every time you pull out the clippers, the oneisall 2-in-1 Low Noise Cordless Dog Clippers might be the peace treaty you've been looking for. This isn't a pro-grade grooming station tool — but for home maintenance between professional appointments, it punches well above its $40-ish price point.

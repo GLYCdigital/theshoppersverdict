@@ -1,23 +1,25 @@
 ---
+
 title: "EWORK Small Leaf Blower Cordless 200MPH"
 seo_title: "EWORK Small Leaf Blower Cordless 200MPH Review (2026)"
 meta_description: "Honest EWORK Small Leaf Blower Cordless 200MPH review: speed, battery life, build quality, and who should buy it. Real pros, cons, and verdict."
 slug: "ework-small-leaf-blower-cordless-200mph-b0gvtr-review"
 image_alt: "EWORK Small Leaf Blower Cordless 200MPH handheld blower on grass"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVTRHZW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JJcOyzY2L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine 200MPH airspeed—clears wet leaves and pine needles without bogging down"  
   - "Sub-3-pound weight with battery, so overhead gutter work doesn't wreck your shoulders"  
   - "Two included 2.0Ah batteries and a fast charger—you get 20–25 minutes of real runtime per pack"  
-cons:  
+cons: 
   - "Plastic housing feels thin around the nozzle; one drop on concrete could crack it"  
   - "No variable-speed dial—only a trigger with a fixed high setting, so it's all or nothing"
+
 ---
 
 Let me save you a scroll: the EWORK Small Leaf Blower Cordless 200MPH is the rare budget blower that actually delivers its headline number. I've tested units that claimed 180MPH and felt like a hairdryer on low. This one moves air with authority. But "small" in the name isn't marketing spin—it's a compact tool with real tradeoffs. Here's what 215 Amazon reviewers and my own bench time say.

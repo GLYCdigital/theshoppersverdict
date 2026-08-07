@@ -1,4 +1,5 @@
 ---
+
 title: "BIRDROCK HOME 50in Firewood Rack for Outdoor or Indoor Use |"
 seo_title: "BIRDROCK HOME 50in Firewood Rack Review (2026): Is It Worth It?"
 meta_description: "Honest BIRDROCK HOME 50in Firewood Rack review: capacity, build quality, rust resistance, and real buyer feedback. Is it worth $80? Find out."
@@ -11,15 +12,16 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL74XPBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m4i1UYzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Holds up to 1/2 cord of wood (roughly 450-500 lbs) with six support legs that keep the rack stable on uneven ground"
   - "Powder-coated steel resists rust far better than cheaper painted racks — several buyers report 2+ winters outdoors with no flaking"
   - "Raised side rails prevent logs from rolling off, a common issue with cheaper U-shaped racks"
   - "Easy 15-minute assembly with all hardware included and clear instructions — no extra tools needed beyond a wrench"
-cons:
+cons: 
   - "At 50 inches wide, it's too large for small balconies or tight garage corners — measure your space before buying"
   - "The bottom crossbar sits low to the ground (about 4 inches), so logs on the bottom row can absorb moisture from wet concrete"
   - "Not truly 'indoor/outdoor' — the steel will develop surface rust after a year if left fully exposed in rainy climates without a cover"
+
 ---
 
 If you've ever stacked firewood directly on the ground, you know the drill: the bottom logs rot, mice move in, and by spring you're tossing half your pile. The BIRDROCK HOME 50-inch Firewood Rack aims to fix that with a heavy-duty steel frame that keeps your wood dry, off the dirt, and neatly organized. But does it justify its price tag compared to cheaper alternatives? After digging through 235 Amazon ratings (4.7 stars) and analyzing the build specs, here's the real story.

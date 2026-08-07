@@ -1,4 +1,5 @@
 ---
+
 title: "ULTIMATE PET NUTRITION Nutra Minis Dog Air-Dried Training Tr"
 seo_title: "ULTIMATE PET NUTRITION Nutra Minis Dog Air-Dried T Review"
 meta_description: "Our full ultimate pet nutrition nutra minis dog air-dried training tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ733KS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SMuVTT-lL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The training treat that respects your dog's stomach — and your carpet**

@@ -1,4 +1,5 @@
 ---
+
 title: "Ciays Smokeless Firepit, 17 inch Fire Pit for Camping with P"
 seo_title: "Ciays Smokeless Firepit Review: 17-Inch Camping Must-Have"
 meta_description: "Ciays 17-inch smokeless firepit review: dual-wall burn tech, 229 ratings at 4.6 stars. Does it cut smoke? Real buyer insights inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6LYM2F6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Double-wall construction with 360-degree airflow genuinely reduces smoke compared to open fire bowls"
   - "17-inch diameter hits the sweet spot for portability — fits in a trunk yet burns logs up to 16 inches"
   - "Includes a weather-resistant carry bag and removable ash pan, making campsite cleanup under five minutes"
-cons:
+cons: 
   - "Steel body is 1.5mm thick but will still develop surface rust if left out in rain — no cover included"
   - "Legs fold but lack a locking mechanism; one reviewer noted they can collapse if the unit is dragged across uneven ground"
   - "Not truly smokeless with softwoods like pine; you need seasoned hardwoods to see the advertised 80% smoke reduction"
+
 ---
 
 If you've stood downwind of a campfire with tears streaming down your face, you know the appeal of a "smokeless" pit. The Ciays 17-inch model promises the double-wall burn technology that made brands like Solo Stove famous, but at a price point that won't wreck your camping budget. With 229 ratings averaging 4.6 stars, it's clearly doing something right. The question is whether it lives up to the hype or just the marketing.

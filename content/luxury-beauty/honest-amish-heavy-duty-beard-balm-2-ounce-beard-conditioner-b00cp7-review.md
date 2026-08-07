@@ -1,4 +1,5 @@
 ---
+
 title: "Honest Amish - Heavy Duty Beard Balm - 2 Ounce - Beard Condi"
 seo_title: "Honest Amish - Heavy Duty Beard Balm - 2 Ounce - B Review"
 meta_description: "Our full honest amish - heavy duty beard balm - 2 ounce - beard condi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00CP7BYPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811M3GvL1JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Honest Amish Heavy Duty Beard Balm Review: The 2-Ounce Tin That Tames the Wild

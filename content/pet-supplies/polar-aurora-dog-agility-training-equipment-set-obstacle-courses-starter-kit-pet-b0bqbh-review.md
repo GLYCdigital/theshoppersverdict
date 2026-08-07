@@ -1,4 +1,5 @@
 ---
+
 title: "Polar Aurora Dog Agility Training Equipment Set, Obstacle Co"
 seo_title: "Polar Aurora Dog Agility Training Equipment Set, O Review"
 meta_description: "Our full polar aurora dog agility training equipment set, obstacle co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BQBHJ1GZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61--I6cIGDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most dog agility sets under $100 are flimsy plastic junk that collapses the first time your dog hits the weave poles at speed. The Polar Aurora set is not that. But it's not a competition-grade course either. Here's what you're actually getting.

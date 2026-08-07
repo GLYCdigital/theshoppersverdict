@@ -1,7 +1,8 @@
 ---
-title: "Tall Beach Chairs for Adults, 17\" High Backpack Beach Chair "
-seo_title: "Tall Beach Chairs for Adults, 17\" High Backpack Be Review"
-meta_description: "Our full tall beach chairs for adults, 17\" high backpack beach chair  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tall Beach Chairs for Adults, 17\ High Backpack Beach Chair "
+seo_title: "Tall Beach Chairs for Adults, 17\ High Backpack Be Review"
+meta_description: "Our full tall beach chairs for adults, 17\ high backpack beach chair  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tall-beach-chairs-for-adults-17-high-backpack-beach-chair-with-wooden-b0dr24-review"
 image_alt: "Tall Beach Chairs for Adults, 17 High Backpack Beach Chair with Wooden Armrests, 5 Positions Reclining Heavy Duty Beach "
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR24Y1M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cjbv-GiwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tall Beach Chairs for Adults, 17" High Backpack Beach Chair: The Real Story

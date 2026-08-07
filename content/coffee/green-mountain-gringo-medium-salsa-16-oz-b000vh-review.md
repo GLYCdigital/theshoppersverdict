@@ -1,4 +1,5 @@
 ---
+
 title: "Green Mountain Gringo, Medium Salsa, 16 oz"
 seo_title: "Green Mountain Gringo, Medium Salsa, 16 oz Review: Verdic"
 meta_description: "Our full green mountain gringo, medium salsa, 16 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000VHI1GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YObzv-ybL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 16-ounce jar of Green Mountain Gringo Medium Salsa sits quietly in the refrigerated section, and that’s exactly where it belongs.** This is a fresh-tasting, refrigerated salsa that doesn’t try to be the hottest thing on the shelf — it tries to be the most *honest* thing. And for the most part, it succeeds.

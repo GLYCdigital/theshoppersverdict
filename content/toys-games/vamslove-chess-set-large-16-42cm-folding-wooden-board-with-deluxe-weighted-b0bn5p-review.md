@@ -1,4 +1,5 @@
 ---
+
 title: "VAMSLOVE Chess Set Large 16''/42cm Folding Wooden Board with"
 seo_title: "VAMSLOVE Chess Set Large 16''/42cm Folding Wooden  Review"
 meta_description: "Our full vamslove chess set large 16''/42cm folding wooden board with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN5PYT4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GBrmPxtKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the chess set you’ll actually play on — or just another Amazon impulse buy?**

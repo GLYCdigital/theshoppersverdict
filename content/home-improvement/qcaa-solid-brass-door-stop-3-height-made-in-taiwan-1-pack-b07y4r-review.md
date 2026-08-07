@@ -1,7 +1,8 @@
 ---
-title: "QCAA Solid Brass Door Stop, 3\" Height, Made in Taiwan, 1 Pac"
-seo_title: "QCAA Solid Brass Door Stop, 3\" Height, Made in Tai Review"
-meta_description: "Our full qcaa solid brass door stop, 3\" height, made in taiwan, 1 pac review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "QCAA Solid Brass Door Stop, 3\ Height, Made in Taiwan, 1 Pac"
+seo_title: "QCAA Solid Brass Door Stop, 3\ Height, Made in Tai Review"
+meta_description: "Our full qcaa solid brass door stop, 3\ height, made in taiwan, 1 pac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "qcaa-solid-brass-door-stop-3-height-made-in-taiwan-1-pack-b07y4r-review"
 image_alt: "QCAA Solid Brass Door Stop, 3 Height, Made in Taiwan, 1 Pack"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Y4RPNKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sjGyoeKFL._AC_SL1389_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The QCAA Solid Brass Door Stop has 229 ratings on Amazon and sits at a solid 4.6 stars. That's a respectable score, but for a product this simple, the question isn't whether it works — it's whether it's worth paying a premium for brass when a $3 rubber wedge does the same job. Let's dig in.

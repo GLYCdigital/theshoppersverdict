@@ -1,4 +1,5 @@
 ---
+
 title: "BASED Hair Clay for Men, Premium Hair Clay with Strong Hold,"
 seo_title: "BASED Hair Clay for Men Review: Strong Hold & Texture (2026)"
 meta_description: "Honest BASED Hair Clay for Men review: strong hold, matte finish, and real-world performance. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHYJQXQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51F71D-Z9ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Strong hold that lasts 10+ hours without reapplication, even in humid conditions"
   - "Matte finish with no greasy shine — looks natural, not like you dumped product in your hair"
   - "Washes out completely with one shampoo pass; no stubborn residue or buildup"
-cons:
+cons: 
   - "Scooping the clay out of the jar takes real effort — it's stiff, not a soft pomade"
   - "Scent is subtle but distinctly herbal; if you hate rosemary or cedar notes, this won't change your mind"
+
 ---
 
 **TL;DR:** BASED Hair Clay delivers legit strong hold with a matte finish that actually lasts. It's stiff, requires work to emulsify, and the herbal scent isn't for everyone — but if you want all-day texture without the grease, this earns its spot in your rotation.

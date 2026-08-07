@@ -1,4 +1,5 @@
 ---
+
 title: "The Step N' Sort 18.5 Gallon Extra Large Capacity, Soft-Step"
 seo_title: "The Step N' Sort 18.5 Gallon Extra Large Capacity, Review"
 meta_description: "Our full the step n' sort 18.5 gallon extra large capacity, soft-step review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHSVGKWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hs1StAnFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "extra large" storage bins are just big plastic boxes that collapse the moment you actually fill them. The Step N' Sort 18.5 Gallon is different — and that difference matters if you're tired of flimsy organizers that buckle under real use.

@@ -1,4 +1,5 @@
 ---
+
 title: "Roytong Christmas Meteor Shower Lights Outdoor - 12 Inch 10 "
 seo_title: "Roytong Christmas Meteor Shower Lights Outdoor - 1 Review"
 meta_description: "Our full roytong christmas meteor shower lights outdoor - 12 inch 10  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CDKT9SDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710sr4LGDdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've seen those falling-light displays on neighbors' houses and wondered if the budget versions actually deliver, the Roytong 12-inch 10-tube set is a legitimate contender.** At 4.3 stars from 215 buyers, it's not perfect — but for under $30, it punches well above its weight class.

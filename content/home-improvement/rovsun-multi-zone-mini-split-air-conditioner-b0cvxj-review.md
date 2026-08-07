@@ -1,4 +1,5 @@
 ---
+
 title: "ROVSUN Multi Zone Mini Split Air Conditioner"
 seo_title: "ROVSUN Multi Zone Mini Split Air Conditioner Review: Verd"
 meta_description: "Our full rovsun multi zone mini split air conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CVXJ15XH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tt4MgLr7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ROVSUN Multi Zone Mini Split Air Conditioner Review: Zoned Comfort Without the Ductwork Hassle

@@ -1,4 +1,5 @@
 ---
+
 title: "Ensenior 4 Pack Ultra-Thin LED Recessed Lighting with Juncti"
 seo_title: "Ensenior 4 Pack Ultra-Thin LED Recessed Lighting Review"
 meta_description: "Honest Ensenior 4 Pack ultra-thin LED recessed lighting review: brightness, color accuracy, junction box build, and installation tips for DIYers."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRYKGR5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gIiYWLFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2700K warm white — no sickly green or blue tint that plagues cheap LEDs"
   - "Integrated junction box (IC-rated) simplifies wiring and passes inspection"
   - "Slim 0.5-inch profile works in tight plenums and shallow joist bays"
-cons:
+cons: 
   - "No dimmer compatibility guarantee — need to verify your dimmer switch works with these"
   - "Color temperature is fixed at 2700K; no switchable CCT option for flexibility"
+
 ---
 
 If you're staring at a ceiling full of 6-inch holes and a pile of can housings, let me save you some frustration: the Ensenior 4 Pack Ultra-Thin LED Recessed Lighting with Junction Box is the shortcut you're looking for. These wafer-thin fixtures skip the bulky can entirely, and at 4.8/5 stars across 240 ratings, they've clearly earned their place in the recessed lighting rotation. Here's the real breakdown before you hand over your money.

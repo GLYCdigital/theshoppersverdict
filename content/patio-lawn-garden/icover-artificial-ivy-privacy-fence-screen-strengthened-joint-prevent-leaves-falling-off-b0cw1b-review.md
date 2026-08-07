@@ -1,4 +1,5 @@
 ---
+
 title: "iCover Artificial Ivy Privacy Fence Screen, Strengthened Joi"
 seo_title: "iCover Artificial Ivy Privacy Fence Screen, Streng Review"
 meta_description: "Our full icover artificial ivy privacy fence screen, strengthened joi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CW1B612J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91g5V9SgyzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **iCover Artificial Ivy Privacy Fence Screen Review: Does the Strengthened Joint Actually Hold Up?**

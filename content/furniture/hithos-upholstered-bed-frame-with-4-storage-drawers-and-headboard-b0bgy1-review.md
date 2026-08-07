@@ -1,4 +1,5 @@
 ---
+
 title: "HITHOS Upholstered Bed Frame with 4 Storage Drawers and Head"
 seo_title: "HITHOS Upholstered Bed Frame with 4 Storage Drawer Review"
 meta_description: "Our full hithos upholstered bed frame with 4 storage drawers and head review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BGY1JH4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GSWNHvMQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what the HITHOS Upholstered Bed Frame actually is: a storage-first platform bed that tries to replace both your box spring and your dresser. At 4.3 stars across 215 ratings, it's clearly doing something right. The question is whether that something matters to you.

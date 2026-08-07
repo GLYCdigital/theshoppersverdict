@@ -1,4 +1,5 @@
 ---
+
 title: "Individual Drive Sockets Adapter Drill Bit Extension Right A"
 seo_title: "Individual Drive Sockets Adapter Drill Bit Extensi Review"
 meta_description: "Our full individual drive sockets adapter drill bit extension right a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F5Q6Z5ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OT71AuWxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pros**

@@ -1,23 +1,25 @@
 ---
+
 title: "Ensenior 6 Pack Ultra-Thin LED Recessed Lighting with Juncti"
 seo_title: "Ensenior Ultra-Thin LED Recessed Lights Review (6-Pack)"
 meta_description: "Honest Ensenior 6-pack ultra-thin LED recessed lighting review: brightness, color temp, install ease, and real buyer feedback. Is it worth it?"
 slug: "ensenior-6-pack-ultra-thin-led-recessed-lighting-with-junction-box-2700k-b0ctqf-review"
 image_alt: "Ensenior ultra-thin LED recessed light with junction box, 6-pack, warm white 2700K"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTQF4S9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61stFXsAX9L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 2700K warm white—no harsh blue cast, consistent across all six units"  
   - "Junction box included on every light—no separate purchase or wiring guesswork"  
   - "Ultra-thin 0.5-inch profile fits tight ceiling cavities without a recessed can"  
-cons:  
+cons: 
   - "No dimmer compatibility listed—check your switch before buying if you want dimming"  
   - "Wiring connectors are snug but stiff; larger hands may find them fiddly"
+
 ---
 
 **The 15-Minute Ceiling Upgrade That Actually Delivers**

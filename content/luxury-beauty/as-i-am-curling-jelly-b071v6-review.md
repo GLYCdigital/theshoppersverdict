@@ -1,4 +1,5 @@
 ---
+
 title: "As I Am Curling Jelly"
 seo_title: "As I Am Curling Jelly Review: Real Results for Curly Hair"
 meta_description: "Honest As I Am Curling Jelly review: Does this 4.5-star styling gel define curls without crunch? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B071V61LZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ZekB17O9L._SL1200_.jpg"
-pros:
+pros: 
   - "Alcohol-free formula that defines curls without the dreaded crunch or flaking"
   - "Holds up to high humidity — reviewers report frizz control lasting a full workday"
   - "Works on multiple curl types from loose waves to tight coils when applied to soaking wet hair"
-cons:
+cons: 
   - "Can leave a slight cast that requires scrunching out — not a 'scrunch and go' product"
   - "Smaller tub size (8 oz) runs out fast for thick, waist-length hair"
+
 ---
 
 # As I Am Curling Jelly Review: The Alcohol-Free Gel That Actually Respects Your Curls

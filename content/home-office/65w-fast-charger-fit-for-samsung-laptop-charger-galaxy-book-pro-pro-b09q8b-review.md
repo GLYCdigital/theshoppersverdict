@@ -1,4 +1,5 @@
 ---
+
 title: "65W Fast Charger Fit for Samsung Laptop Charger, Galaxy Book"
 seo_title: "65W Samsung Laptop Charger Review: Galaxy Book Fast Charging"
 meta_description: "Honest 65W fast charger review for Samsung Galaxy Book laptops. Real performance data, compatibility notes, and buyer complaints. Is it worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09Q8B6R1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UXBM6Tg5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers full 65W over USB-C PD, charging Galaxy Book Pro/Pro 360 from empty to ~50% in under an hour"
   - "Compact foldable prongs make it genuinely travel-friendly — roughly half the bulk of Samsung's OEM brick"
   - "Includes a 6-foot USB-C cable rated for 100W, so you're not hunting for a compatible cord"
-cons:
+cons: 
   - "No USB-A port — you can't charge a phone and laptop simultaneously from this single unit"
   - "Reports of intermittent connection issues with non-Samsung laptops (Dell, HP) at full 65W"
   - "The barrel connector tip for older Galaxy Book models must be purchased separately — not included"
+
 ---
 
 Losing your Samsung laptop charger is a specific kind of panic. The OEM brick is proprietary-ish, expensive to replace, and the generic knockoffs on Amazon are a gamble. This 65W USB-C Power Delivery charger from the "Fit for Samsung" line attempts to solve that — and for most Galaxy Book owners, it mostly does. But "mostly" carries some caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Shw Home Office Desk Engineered Wood Corner Desk Wood L-Shap"
 seo_title: "Shw Home Office Desk Engineered Wood Corner Desk W Review"
 meta_description: "Our full shw home office desk engineered wood corner desk wood l-shap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5QW33ZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CC0BxWf1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the SHW L-Shaped Corner Desk: this isn't a $500 solid-wood statement piece. It's an engineered wood desk built for people who need maximum work surface in a corner that's currently collecting dust. At its price point, it does exactly what it should — and a few things that genuinely surprise.

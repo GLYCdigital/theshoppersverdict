@@ -1,4 +1,5 @@
 ---
+
 title: "Zodiac Baracuda G3 Kit with Advanced Suction Side Automatic "
 seo_title: "Zodiac Baracuda G3 Kit with Advanced Suction Side  Review"
 meta_description: "Our full zodiac baracuda g3 kit with advanced suction side automatic  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01H5Z2LGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UiA6OoDUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

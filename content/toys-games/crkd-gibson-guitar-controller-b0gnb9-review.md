@@ -1,4 +1,5 @@
 ---
+
 title: "CRKD Gibson Guitar Controller Review: Real Wood, Real Feel"
 seo_title: "CRKD Gibson Guitar Controller Review (2026): Worth It?"
 meta_description: "CRKD Gibson Guitar Controller review: premium build, real wood body, low-latency wireless. See pros, cons, and who should buy this $200+ guitar."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GNB9NPSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41h8bSmCFrL._SL1000_.jpg"
-pros:
+pros: 
   - "Real mahogany body and neck with genuine Gibson licensing — feels like an actual instrument, not a toy"
   - "Low-latency 2.4GHz wireless works flawlessly on Switch, PC, and mobile with zero setup hassle"
   - "Hall-effect joystick and mechanical frets rated for 10 million presses — built to outlast plastic rivals"
-cons:
+cons: 
   - "Heavy at 5.2 lbs — younger players will fatigue quickly during long sessions"
   - "No Xbox or PlayStation support out of the box — console players need an adapter"
   - "Premium $200+ price tag is triple what a used Guitar Hero controller costs"
+
 ---
 
 # CRKD Gibson Guitar Controller: The Guitar Hero Upgrade You've Been Waiting For

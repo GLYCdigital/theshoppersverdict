@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Marty Nature's Blend Freeze-Dried Raw Dog Food 48 oz (3 inch"
 seo_title: "Dr. Marty Nature's Blend Freeze-Dried Raw Dog Food Review"
 meta_description: "Honest Dr. Marty Nature's Blend Freeze-Dried Raw Dog Food review: ingredients, feeding cost, picky eater results, and who should buy. 4.5-star rated."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BB4PJF5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414hAKEuOUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Single-source protein formula (beef) that works well for dogs with poultry or grain sensitivities"
   - "Freeze-drying preserves nutrients without high-heat processing; no fillers, artificial preservatives, or by-product meals"
   - "Picky-eater track record is strong — multiple owners report dogs who refused kibble switching without a transition period"
-cons:
+cons: 
   - "Premium price translates to roughly $4–6 per day for a 50-lb dog; budget shoppers will feel the hit"
   - "Crumbly texture at the bottom of the bag — some powder residue is normal, not a defect"
   - "Not a complete AAFCO meal for all life stages; puppies and gestating females need a different formula"
+
 ---
 
 If you've spent any time in dog nutrition circles, you've seen Dr. Marty's Nature's Blend pop up in social media ads and vet-adjacent forums. The 48-ounce bag commands premium pricing, but the real question is whether freeze-dried raw delivers on its promises — or just burns a hole in your wallet. I've dug through the ingredient panel, analyzed the feeding cost, and cross-referenced what 225 Amazon reviewers actually say. Here's the unvarnished breakdown.

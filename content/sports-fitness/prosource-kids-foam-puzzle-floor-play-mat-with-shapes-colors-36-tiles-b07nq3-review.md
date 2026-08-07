@@ -1,4 +1,5 @@
 ---
+
 title: "ProSource Kids Foam Puzzle Floor Play Mat with Shapes & Colo"
 seo_title: "ProSource Kids Foam Puzzle Floor Play Mat with Sha Review"
 meta_description: "Our full prosource kids foam puzzle floor play mat with shapes & colo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NQ3DW3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nCYKZyHBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The ProSource Kids Foam Puzzle Mat: A 36-Tile Foundation for Play (and Workouts)

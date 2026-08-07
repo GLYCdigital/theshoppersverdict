@@ -1,4 +1,5 @@
 ---
+
 title: "Enjoy Life Ricemilk Baking Morsels, 9 oz Bag"
 seo_title: "Enjoy Life Ricemilk Morsels Review: Top 8 Allergen-Free Chips"
 meta_description: "Honest Enjoy Life Ricemilk Baking Morsels review: do these allergen-free, dairy-free chocolate chips actually melt and taste good? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM2PG191/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713PUnClz8L._SL1500_.jpg"
-pros:
+pros: 
   - "Melt smoothly without seizing or turning grainy, unlike most dairy-free chips — works for dipping and drizzling"
   - "Certified top 8 allergen-free (no dairy, soy, nuts, gluten, eggs) and made in a dedicated facility"
   - "9 oz resealable bag holds up well; chips stay intact and don't bloom or discolor quickly"
-cons:
+cons: 
   - "Noticeably sweeter and less bitter than dark chocolate — cocoa flavor is mild, not intense"
   - "Costs roughly 30–40% more per ounce than standard chocolate chips at most grocers"
+
 ---
 
 If you've tried dairy-free chocolate chips before, you know the struggle: they either refuse to melt, taste like chalk, or seize into a gritty paste the second they hit heat. The Enjoy Life Ricemilk Baking Morsels are the exception that actually works. After testing these in cookies, melted down for drizzling, and straight from the bag (yes, I did that), here's the honest breakdown.

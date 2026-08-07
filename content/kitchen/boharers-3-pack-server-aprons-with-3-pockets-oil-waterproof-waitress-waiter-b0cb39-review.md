@@ -1,4 +1,5 @@
 ---
+
 title: "BOHARERS 3 Pack Server Aprons With 3 Pockets, Oil & Waterpro"
 seo_title: "BOHARERS 3 Pack Server Aprons Review: Waterproof & Durable"
 meta_description: "Honest BOHARERS 3 pack server aprons review: waterproof fabric, 3 pockets, adjustable fit. See pros, cons, and who should buy before you order."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CB39THL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gk2sVXbFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine waterproof barrier — liquids bead up and wipe off rather than soaking through to your clothes"
   - "Three deep, reinforced pockets that actually hold a server book, pens, and a phone without sagging"
   - "Generous 28-inch length covers the torso well, with an adjustable neck strap that fits taller and shorter staff"
-cons:
+cons: 
   - "Fabric has a stiff, plasticky feel out of the package — needs a few washes to soften up"
   - "Waist ties are a bit short for larger body types; you may need to tie a double knot to keep them secure"
+
 ---
 
 Let's be blunt: most "waterproof" aprons are a lie. They're coated cotton that repels a few drops of water, then soak through the first time you lean against a counter. So when I got the BOHARERS 3 Pack Server Aprons, I tested them the way a server actually would — with hot coffee, cooking oil, and a full shift's worth of abuse.

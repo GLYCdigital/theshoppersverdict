@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Tidy Cats Low Dust, Multi Cat, Clumping Cat Litter Od"
 seo_title: "Purina Tidy Cats Low Dust, Multi Cat, Clumping Cat Review"
 meta_description: "Our full purina tidy cats low dust, multi cat, clumping cat litter od review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DH8MJQGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing: multi-cat households are the stress test for any litter. You're managing multiple territories, multiple elimination schedules, and one shared box that can go from fine to foul in hours. Purina Tidy Cats Low Dust Multi Cat positions itself as the answer to two of the biggest complaints in the category — dust clouds and ammonia buildup. After digging through 200 Amazon ratings and the spec sheet, here's what actually matters.

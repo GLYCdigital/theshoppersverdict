@@ -1,4 +1,5 @@
 ---
+
 title: "EMMA + OLIVER 8' Height-Adjustable Rectangular Bi-Fold Plast"
 seo_title: "EMMA + OLIVER 8' Folding Table Review: Height-Adjustable & Durable"
 meta_description: "EMMA + OLIVER 8' bi-fold plastic table review: 4.5-star rated, height-adjustable legs, holds 500+ lbs. Is it worth it for events? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07MWGLJCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1sldiMKsGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Height-adjustable legs with 3 positions (22 inch ", 29 inch ", 36 inch ") make it genuinely multipurpose — craft table, buffet, or standing workbench
   - "Scratch-resistant plastic top survives heavy use without staining or warping, per multiple long-term owner reports"
   - Folds flat to about 3 inch " thickness with a locking mechanism — stores easily against a wall or in a car trunk
-cons:
+cons: 
   - "At 42 lbs, it's heavier than standard 6-foot folding tables — not ideal for petite users hauling it solo"
   - "Leg adjustment requires pin removal and realignment; fiddly when you're in a hurry setting up an event"
   - "No carrying handle built into the frame — you're gripping the plastic edge, which gets awkward on stairs"
+
 ---
 
 Let's be blunt about folding tables: most are flimsy aluminum-legged things that wobble the moment someone leans on them. The EMMA + OLIVER 8-footer is not that. With a 4.5-star average across 225 ratings, this is the table people actually keep for years — and the reason is in the details.

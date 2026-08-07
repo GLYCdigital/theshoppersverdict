@@ -1,4 +1,5 @@
 ---
+
 title: "EverSport 2 Pack Kids Swimming Goggles, Anti-fog Swim Goggle"
 seo_title: "EverSport Kids Swim Goggles Review: 2-Pack Anti-Fog"
 meta_description: "Honest EverSport 2-pack kids swimming goggles review: anti-fog performance, fit for toddlers & big kids, real customer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1KDZS39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617GHoqg75L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two pairs included — under $10 per goggle, so a lost or scratched pair isn't a crisis"
   - "Polycarbonate lenses hold up to repeated chlorine exposure and rough kid handling"
   - "Adjustable nose bridge and split-strap design fit both toddlers and older elementary kids"
-cons:
+cons: 
   - "Anti-fog coating degrades after 3-4 months of daily use — standard for this price tier"
   - "Smaller face seal can leak for kids with wider cheekbones or deep-set eyes"
+
 ---
 
 Let's be blunt: most kids' swim goggles are disposable junk that leak within two weeks. The EverSport 2-pack isn't that — but it's not a miracle worker either. Here's the honest breakdown after digging through 225 ratings and the specs sheet.

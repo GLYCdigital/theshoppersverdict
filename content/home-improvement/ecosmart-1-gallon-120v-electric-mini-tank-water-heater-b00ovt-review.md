@@ -1,4 +1,5 @@
 ---
+
 title: "Ecosmart 1-Gallon 120V Electric Mini Tank Water Heater"
 seo_title: "Ecosmart 1-Gallon Mini Tank Heater Review: Worth It?"
 meta_description: "Ecosmart 1-gallon 120V mini tank water heater review: real performance, install tips, and whether this under-sink unit fits your hot water needs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00OVTOACU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ra45R-ZfL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Delivers hot water within 15-20 minutes with a 1440W heating element, eliminating the long wait from a distant main tank"
   - Compact footprint (12.5 inch " tall, 12.75 inch " wide, 10.5 inch " deep) fits under most sinks; includes a 6-ft power cord
   - "Copper heating element resists scale buildup better than stainless alternatives in hard-water areas"
-cons:
+cons: 
   - "1-gallon capacity runs out fast — roughly 1-2 minutes of continuous hot water before reheating"
   - "Requires a dedicated 15-amp circuit; sharing the outlet with a garbage disposal or other appliance will trip breakers"
   - "No temperature display or dial on the unit itself — you'll need to adjust via the thermostat behind the front panel"
+
 ---
 
 **The 1-Gallon Solution: When a Full Tank Is Overkill**

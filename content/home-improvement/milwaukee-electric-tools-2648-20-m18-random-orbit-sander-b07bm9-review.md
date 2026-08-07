@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric Tools 2648-20 M18 Random Orbit Sander"
 seo_title: "Milwaukee Electric Tools 2648-20 M18 Random Orbit  Review"
 meta_description: "Our full milwaukee electric tools 2648-20 m18 random orbit sander review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BM93DK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IKdV-NZnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're already invested in Milwaukee's M18 battery platform, the 2648-20 is the cordless random orbit sander you've been waiting for. If you're not, it might still be worth switching — but let's talk about what you're actually getting first.

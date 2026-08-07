@@ -1,4 +1,5 @@
 ---
+
 title: "Paws Aboard Pet Life Jacket"
 seo_title: "Paws Aboard Pet Life Jacket Review: Verdict | TSV"
 meta_description: "Our full paws aboard pet life jacket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GJSQJQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lqhKHUzOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Paws Aboard Pet Life Jacket is a well-built, thoughtfully designed flotation vest that punches above its price point. It's not perfect — sizing is the elephant in the room — but for most recreational boaters and pool-side pups, it's a solid 4.6-star investment. Here's the full breakdown.

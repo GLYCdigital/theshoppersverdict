@@ -1,4 +1,5 @@
 ---
+
 title: "Pfister Sonterra Bathroom Sink Faucet, 4-Inch Centerset, 2-H"
 seo_title: "Pfister Sonterra Bathroom Sink Faucet, 4-Inch Cent Review"
 meta_description: "Our full pfister sonterra bathroom sink faucet, 4-inch centerset, 2-h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD91K5QW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615Dsrvop3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pfister Sonterra 4-Inch Centerset isn't the flashiest faucet you'll find, but it might be the most sensible one.** With a 4.7-star average across 235 ratings, this two-handle bathroom faucet has quietly built a reputation among homeowners and DIYers for doing the basics exceptionally well. But "sensible" doesn't mean "exciting" — let's dig into whether that tradeoff works for your bathroom.

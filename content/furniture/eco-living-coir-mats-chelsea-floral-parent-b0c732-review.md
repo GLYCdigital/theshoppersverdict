@@ -1,4 +1,5 @@
 ---
+
 title: "Eco Living Coir Mats Chelsea Floral Parent Review"
 seo_title: "Eco Living Coir Mats Chelsea Floral Review: Honest Verdict"
 meta_description: "Eco Living Coir Mats Chelsea Floral review: 4.5-star rated coir doormat. Real wear test, pros/cons, and who should buy. Honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C732XV7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tywumWloL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Natural coconut coir scrapes dirt and mud effectively without scratching floors"
   - "Printed design shows minimal fading after months of direct sunlight exposure"
   - "Reinforced vinyl border prevents edge curling and shedding at the corners"
-cons:
+cons: 
   - "Initial coconut smell lingers for 1-2 weeks indoors before dissipating"
   - "Thinner profile (about 0.75 inches) doesn't trap heavy winter slush as well as thicker mats"
+
 ---
 
 You've seen those sad, flattened doormats that look like they've given up on life. The Eco Living Coir Mat in Chelsea Floral isn't that mat. With a 4.5-star average across 225 ratings, this natural coconut fiber doormat has built a solid reputation — but let's dig into whether it actually holds up when it's scraping your boots daily.

@@ -1,4 +1,5 @@
 ---
+
 title: "Catrice | HD Liquid Coverage Foundation | High & Natural Cov"
 seo_title: "Catrice HD Liquid Coverage Foundation Review: High & Natural Coverage"
 meta_description: "Catrice HD Liquid Coverage Foundation review: Vegan, cruelty-free high-coverage foundation. Real buyer feedback, shade range, wear test results, and honest verdict."
@@ -11,15 +12,16 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07ZG89B6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q2oK33TDL._SL1500_.jpg"
-pros:
+pros: 
   - "Full coverage that still lets skin look like skin — no mask-like finish even with two layers"
   - "Genuinely vegan and cruelty-free with a clean ingredient list that avoids common irritants like fragrance and mineral oil"
   - "Excellent shade range with 20+ options spanning fair to deep skin tones, including neutral undertones"
   - "Pump bottle delivers controlled doses — no wasted product, no messy accidents"
-cons:
+cons: 
   - "Can settle into fine lines around the eyes if you don't powder within 5 minutes of application"
   - "Shade depth jumps between some deep shades — the gap between 050 and 060 is noticeable"
   - "Not transfer-proof — masks, collars, and phone screens will pick up some product"
+
 ---
 
 # Catrice HD Liquid Coverage Foundation: The $10 Foundation That Thinks It's $50

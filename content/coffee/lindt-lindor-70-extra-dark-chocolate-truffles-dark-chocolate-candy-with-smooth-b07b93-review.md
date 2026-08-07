@@ -1,4 +1,5 @@
 ---
+
 title: "Lindt LINDOR 70% Extra Dark Chocolate Truffles, Dark Chocola"
 seo_title: "Lindt LINDOR 70% Extra Dark Chocolate Truffles, Da Review"
 meta_description: "Our full lindt lindor 70% extra dark chocolate truffles, dark chocola review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07B93SZKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u5CzcV6RL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lindt LINDOR 70% Extra Dark Chocolate Truffles: The Dark Horse of the LINDOR Line

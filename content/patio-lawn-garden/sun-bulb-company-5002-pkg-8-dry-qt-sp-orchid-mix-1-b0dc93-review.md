@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Bulb Company 5002 PKG 8 Dry QT. SP Orchid Mix, 1-Pack, F"
 seo_title: "Sun Bulb Company 5002 PKG 8 Dry QT. SP Orchid Mix, Review"
 meta_description: "Our full sun bulb company 5002 pkg 8 dry qt. sp orchid mix, 1-pack, f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DC93GZM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811yvPws10L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most commercial orchid mixes are either too dense (suffocating roots) or too chunky (drying out in a day). The Sun Bulb Company 5002 sits in a sweet spot that explains its 4.6-star average across 229 ratings. This is a fir-bark-based blend that actually respects how epiphytic orchids grow — anchored to trees, roots exposed to air, watered hard, then dried out completely.

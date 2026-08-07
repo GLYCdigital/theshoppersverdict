@@ -1,4 +1,5 @@
 ---
+
 title: "Mahatma Organic SUP Rice"
 seo_title: "Mahatma Organic SUP Rice Review: Verdict | TSV"
 meta_description: "Our full mahatma organic sup rice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQJM93G1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G0-u4msqL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Rice That Actually Tastes Like Something

@@ -1,4 +1,5 @@
 ---
+
 title: "Greesum Outdoor Horizontal Storage Sheds 27 Cu.ft Resin Larg"
 seo_title: "Greesum Outdoor Horizontal Storage Sheds 27 Cu.ft  Review"
 meta_description: "Our full greesum outdoor horizontal storage sheds 27 cu.ft resin larg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GHN981Q8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this 27-cubic-foot resin box actually worth your patio space?** After digging through 200 ratings and the spec sheet, here's the honest breakdown.

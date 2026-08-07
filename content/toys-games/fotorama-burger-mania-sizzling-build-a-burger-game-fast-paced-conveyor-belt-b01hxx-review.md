@@ -1,4 +1,5 @@
 ---
+
 title: "Fotorama Burger Mania Sizzling Build A Burger Game, Fast-Pac"
 seo_title: "Fotorama Burger Mania Sizzling Build A Burger Game Review"
 meta_description: "Fotorama Burger Mania Sizzling Build A Burger Game review: a fast-paced conveyor belt game for kids. See pros, cons, and if it's worth the buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01HXXZ470/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qakfpMyOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Battery-powered conveyor belt actually moves and adds real pressure; kids genuinely scramble to build burgers before they pass"
   - "Sturdy plastic construction holds up to aggressive play — the pieces snap together firmly and survive drops"
   - "Simple enough for ages 4+ to grasp quickly, but the timer and belt speed keep it engaging for older kids too"
-cons:
+cons: 
   - "Requires 3 AA batteries (not included), and the belt motor is loud enough to be annoying to adults in the same room"
   - "With only 4 burger-building stations, more than 4 kids means waiting around — this is strictly a 2-4 player game"
+
 ---
 
 **The hook: A burger-building race that actually delivers on the "sizzling" promise**

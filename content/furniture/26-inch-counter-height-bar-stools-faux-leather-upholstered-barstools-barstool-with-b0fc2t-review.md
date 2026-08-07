@@ -1,4 +1,5 @@
 ---
+
 title: "26 Inch Counter Height Bar Stools, Faux Leather Upholstered"
 seo_title: "26 Inch Counter Height Bar Stools Review: Faux Leather Comfort"
 meta_description: "Honest review of 26 inch counter height bar stools with faux leather upholstery. Real buyer feedback, comfort analysis, and buying advice."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FC2TXGWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c8V5mSfIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Faux leather upholstery is easy to wipe clean and holds up well to daily use, per multiple long-term reviewers"
   - "26-inch seat height hits the sweet spot for standard 36-inch kitchen counters and most bar-height tables"
   - "Sturdy construction with solid legs that don't wobble, even on hardwood floors without pads"
-cons:
+cons: 
   - "Assembly requires some patience with the included Allen wrench; plan for 30-45 minutes per stool"
   - "Faux leather can feel stiff and cold initially, though reviewers report it softens with use"
   - "No footrest padding — the metal bar is functional but can be uncomfortable for extended sitting"
+
 ---
 
 # 26 Inch Counter Height Bar Stools: The Real Deal or Just Another Pretty Seat?

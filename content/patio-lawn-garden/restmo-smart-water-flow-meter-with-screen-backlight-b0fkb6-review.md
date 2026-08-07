@@ -1,4 +1,5 @@
 ---
+
 title: "RESTMO Smart Water Flow Meter with Screen Backlight"
 seo_title: "RESTMO Smart Water Flow Meter with Screen Backligh Review"
 meta_description: "Our full restmo smart water flow meter with screen backlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FKB6QBGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711zIrVfwzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **RESTMO Smart Water Flow Meter Review: Does It Earn Its Spot on Your Spigot?**

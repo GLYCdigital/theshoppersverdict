@@ -1,4 +1,5 @@
 ---
+
 title: "Jiskan Pro Laser Golf Rangefinder with Slope Magnetic 1200 Y"
 seo_title: "Jiskan Pro Laser Golf Rangefinder with Slope Magne Review"
 meta_description: "Our full jiskan pro laser golf rangefinder with slope magnetic 1200 y review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHJZJ7TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lfHZvyFaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Jiskan Pro the budget rangefinder that actually delivers?** At roughly half the price of a Bushnell, it promises 1200 yards, slope compensation, and a magnetic mount. I've spent time with it, and here's the honest breakdown.

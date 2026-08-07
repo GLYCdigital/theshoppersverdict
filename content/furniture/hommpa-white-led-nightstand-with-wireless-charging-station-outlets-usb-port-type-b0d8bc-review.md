@@ -1,4 +1,5 @@
 ---
+
 title: "HOMMPA White LED Nightstand with Wireless Charging Station O"
 seo_title: "HOMMPA White LED Nightstand with Wireless Charging Review"
 meta_description: "Our full hommpa white led nightstand with wireless charging station o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D8BCRQXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RaWOpMyrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the HOMMPA LED Nightstand a Smart Upgrade or Just a Gimmick?**

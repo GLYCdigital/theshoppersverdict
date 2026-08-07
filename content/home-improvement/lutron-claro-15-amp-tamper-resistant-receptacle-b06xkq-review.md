@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Claro 15-Amp Tamper Resistant Receptacle"
 seo_title: "Lutron Claro 15-Amp Tamper Resistant Receptacle Review: V"
 meta_description: "Our full lutron claro 15-amp tamper resistant receptacle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XKQFCGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lAPPO3o3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re renovating a kitchen or finishing a basement, the outlet is the last thing you think about — and the first thing guests notice. The Lutron Claro 15-amp tamper resistant receptacle is the rare electrical component that actually looks like a design decision, not an afterthought. But at roughly twice the price of a solid commercial-grade outlet, you’re paying for aesthetics as much as function. Is that worth it? Let’s dig in.

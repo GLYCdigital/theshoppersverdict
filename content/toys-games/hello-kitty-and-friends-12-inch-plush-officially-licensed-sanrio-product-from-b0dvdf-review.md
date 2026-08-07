@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Kitty® and Friends, 12-Inch Plush - Officially Licens"
 seo_title: "Hello Kitty 12-Inch Plush Review: Officially Licensed Sanrio Quality"
 meta_description: "Honest Hello Kitty 12-inch plush review: softness, stitching, size, and value. See if this officially licensed Sanrio toy is worth the buy before you add to cart."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DVDFQ7ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XjRrHqoNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Embroidered eyes and whiskers hold up to repeated washing and rough play — no printed faces that crack or fade"
   - "Dense polyfill stuffing keeps the plush structurally firm; it sits upright on shelves without slouching after weeks of use"
   - "Genuine Sanrio licensing tag attached — collectors can verify authenticity immediately"
-cons:
+cons: 
   - "12-inch height is smaller than many buyers expect when comparing to standard 16-inch plush lines"
   - "Limited character selection in this specific listing — primarily Hello Kitty herself, not the full Friends assortment shown in some marketing images"
+
 ---
 
 Some plush toys are cheap shelf-fillers. This one isn't. The officially licensed Hello Kitty 12-inch plush from Sanrio has earned a 4.9-star average across 245 ratings, and after examining the construction, materials, and real buyer feedback, that score holds up.

@@ -1,4 +1,5 @@
 ---
+
 title: "AGTEK Plastic Landscape Edging Kit No-Dig Garden Edging Bord"
 seo_title: "AGTEK No-Dig Landscape Edging Kit Review (2026)"
 meta_description: "Honest AGTEK plastic landscape edging kit review: Does this no-dig garden border hold up? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09JSKM5GH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MbMY0BzkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "36-foot coverage per kit gives serious bang for buck versus stone or metal edging"
   - "Flexible enough for tight curves but stiff enough to hold a clean line"
   - "No digging required — installs in under an hour on flat ground"
-cons:
+cons: 
   - "Stakes are thin; need to add extra anchors on soft soil or slopes"
   - "Not frost-heave proof — can pop up in freeze-thaw climates"
+
 ---
 
 If you've priced out stone or steel edging lately, you know the pain. AGTEK's plastic kit costs a fraction of those options and covers 36 linear feet. That's the headline. But is "cheap and easy" worth it when you're staring at a crooked line in your front yard for the next five years? Let's dig in.

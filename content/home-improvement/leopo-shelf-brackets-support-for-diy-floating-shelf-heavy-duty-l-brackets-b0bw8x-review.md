@@ -1,4 +1,5 @@
 ---
+
 title: "LEOPO Shelf Brackets & Support for DIY Floating Shelf, Heavy"
 seo_title: "LEOPO Shelf Brackets & Support for DIY Floating Sh Review"
 meta_description: "Our full leopo shelf brackets & support for diy floating shelf, heavy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BW8XN42R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c+yM5z2VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEOPO Shelf Brackets & Support for DIY Floating Shelf, Heavy  

@@ -1,4 +1,5 @@
 ---
+
 title: "PNY Internal Solid State Drive (SSD)"
 seo_title: "PNY Internal Solid State Drive (SSD) Review: Verdict | TS"
 meta_description: "Our full pny internal solid state drive (ssd) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVG3KGFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 upgrade that makes your old PC feel new again

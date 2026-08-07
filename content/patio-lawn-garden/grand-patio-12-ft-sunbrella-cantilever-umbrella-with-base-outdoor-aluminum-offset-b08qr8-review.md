@@ -1,4 +1,5 @@
 ---
+
 title: "Grand patio 12 FT Sunbrella Cantilever Umbrella with Base Ou"
 seo_title: "Grand patio 12 FT Sunbrella Cantilever Umbrella wi Review"
 meta_description: "Our full grand patio 12 ft sunbrella cantilever umbrella with base ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08QR8Z5ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jjqB1-+3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 12-foot Sunbrella canopy on a cantilever frame sounds like the endgame of patio shade. Here's what 204 Amazon buyers actually discovered.**

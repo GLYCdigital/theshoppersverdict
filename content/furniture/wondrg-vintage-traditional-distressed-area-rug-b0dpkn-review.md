@@ -1,4 +1,5 @@
 ---
+
 title: "WondRg Vintage Traditional Distressed Area Rug"
 seo_title: "WondRg Vintage Traditional Distressed Area Rug Review: Ve"
 meta_description: "Our full wondrg vintage traditional distressed area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPKNJKCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rZsPmwkML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WondRg Vintage Traditional Distressed Area Rug Review: Vintage Style Without the $800 Price Tag

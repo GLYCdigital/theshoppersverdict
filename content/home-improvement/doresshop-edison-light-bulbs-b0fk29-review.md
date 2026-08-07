@@ -1,4 +1,5 @@
 ---
+
 title: "DORESshop Edison Light Bulbs"
 seo_title: "DORESshop Edison Bulbs Review: 4.5-Star Vintage Lighting (2026)"
 meta_description: "Honest DORESshop Edison light bulb review: warm amber glow, dimmable performance, and durability tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FK29QNQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LZBGr25hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2200K warm amber glow that flatters skin tones and creates genuine vintage atmosphere"
   - "Dimmable down to 10% without flicker or buzzing, even on standard Lutron dimmers"
   - "Solid ST58 glass construction with visible spiral filament — feels heavier than typical bargain bulbs"
-cons:
+cons: 
   - "At 4W equivalent (40W incandescent), these are accent lights, not room-illuminating workhorses"
   - "Slight color variance between bulbs in the same six-pack — noticeable if you're pairing them in a chandelier"
+
 ---
 
 You're scrolling through a hundred Edison bulb listings that all look identical — same amber glow, same promise of "vintage charm." The DORESshop version stands out for one reason: it actually delivers the warm aesthetic without the usual headaches. With 225 ratings averaging 4.5 stars, this isn't a flash-in-the-pan product. It's a workhorse of ambiance.

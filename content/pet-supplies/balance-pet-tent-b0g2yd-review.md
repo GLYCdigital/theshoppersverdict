@@ -1,4 +1,5 @@
 ---
+
 title: "BALANCE Pet Tent Review: Cozy Hideaway or Gimmick?"
 seo_title: "BALANCE Pet Tent Review: Worth It? (2026)"
 meta_description: "BALANCE Pet Tent review: 4.7★ rated. Is this machine-washable den worth it for anxious pups? See pros, cons, and who should buy. Real buyer insights."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2YDC4F1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t9az2ovgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machine-washable entire tent — not just the cushion — which is rare at this price point"
   - "Sturdy pop-up frame holds its shape even with 20+ lb dogs jumping in and out"
   - "Breathable mesh panel on top provides airflow without sacrificing the den feel"
-cons:
+cons: 
   - "Runs small — the 'large' size fits dogs up to roughly 15 lbs, not the 25 lbs listed"
   - "Cushion is thin; some buyers add a second pad for older pets with joint issues"
+
 ---
 
 Let’s be blunt: most pet beds are either ugly foam slabs or overpriced fluff that collapses within two weeks. The BALANCE Pet Tent is neither. At 4.7 stars across 235 ratings, this pop-up hideaway has carved out a serious following among small-dog and cat owners. But is it actually worth your money, or just another Insta-worthy product that disappoints in practice? I dug through buyer feedback and the specs to give you the straight answer.

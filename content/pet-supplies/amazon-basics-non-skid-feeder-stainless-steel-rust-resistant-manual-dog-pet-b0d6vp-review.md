@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Non-Skid Feeder Stainless Steel Rust Resistant"
 seo_title: "Amazon Basics Non-Skid Feeder Review: Stainless Steel Dog Bowl (2026)"
 meta_description: "Honest Amazon Basics Non-Skid Feeder review: stainless steel, rust-resistant, anti-skid base. See pros, cons, and if it's worth buying for your dog."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6VP54VK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DyPXgNcpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely non-skid rubber base that stays put on tile and hardwood — no sliding during enthusiastic eating"
   - "Full stainless steel construction (not just a steel insert) resists rust and holds up to daily dishwasher cycles"
   - "Raised, weighted design minimizes whisker fatigue and prevents tip-overs from larger breeds"
-cons:
+cons: 
   - "Rubber ring can collect moisture underneath if you don't dry it after washing — potential mold if ignored"
   - "No measurement markings on the interior, so portion control requires a separate scoop"
   - "Larger capacity sizes feel heavier than expected when filled — awkward for one-handed carrying"
+
 ---
 
 If you've ever watched your dog push a plastic bowl halfway across the kitchen floor mid-meal, you know the struggle. The Amazon Basics Non-Skid Feeder aims to end that game of floor hockey, and for the most part, it delivers. With a 4.7-star average across 235 ratings, this budget-friendly stainless steel option has clearly found its audience. But is it the right bowl for your specific dog? Let's dig in.

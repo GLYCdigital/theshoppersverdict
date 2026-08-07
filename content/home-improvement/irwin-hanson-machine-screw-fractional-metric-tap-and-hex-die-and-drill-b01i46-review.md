@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN HANSON Machine Screw/Fractional/Metric Tap and Hex Die"
 seo_title: "IRWIN HANSON Machine Screw/Fractional/Metric Tap a Review"
 meta_description: "Our full irwin hanson machine screw/fractional/metric tap and hex die review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01I46K7G8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51agmgJFWgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that sinking feeling when a bolt strips out at the worst possible moment, and you don't have the tool to fix it? This IRWIN HANSON set is designed to make sure that never happens again. It's not the fanciest tap and die set on the market, but with 225 Amazon ratings averaging 4.5 stars, it's clearly earning its keep in garages and workshops across the country.

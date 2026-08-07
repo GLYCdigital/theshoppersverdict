@@ -1,4 +1,5 @@
 ---
+
 title: "AVAWING Reclining Chair with Vibration Massage Faux Leather"
 seo_title: "AVAWING Reclining Chair Review: Massage + Recline Value"
 meta_description: "Honest AVAWING reclining chair review: vibration massage, faux leather, swivel base. Is it worth it? Real pros, cons, and buying advice inside."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DYP17NMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PHzyJfHbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Vibration massage targets lumbar and thigh areas with adjustable intensity — genuinely soothing, not a gimmick"
   - "Full recline to near-flat position with smooth swivel base that locks in place"
   - "Faux leather is thick, easy to wipe clean, and holds up well against daily use"
-cons:
+cons: 
   - "Assembly requires two people and takes 30–45 minutes; bolts can be finicky to align"
   - "Massage motor is audible at higher intensity settings"
   - "Seat cushion is firm initially — needs a few weeks of break-in"
+
 ---
 
 Let's be direct about the AVAWING Reclining Chair: this is a budget-friendly recliner that packs more features than its price tag suggests. But the 4.0-star average across 200 ratings tells you it's not perfect. Here's what you actually need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ready Harvest - Freeze Dried Whole Foods for Emergency Food "
 seo_title: "Ready Harvest - Freeze Dried Whole Foods for Emerg Review"
 meta_description: "Our full ready harvest - freeze dried whole foods for emergency food  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN6SW8KN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s2ehI9pkL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ready Harvest Freeze Dried Foods: Emergency Meals That Actually Taste Like Food

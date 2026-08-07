@@ -1,4 +1,5 @@
 ---
+
 title: "LumBelle LED Curtain Lights with Timer Remote Control Curtai"
 seo_title: "LumBelle LED Curtain Lights with Timer Remote Cont Review"
 meta_description: "Our full lumbelle led curtain lights with timer remote control curtai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXVKMRFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YuJct4cqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most LED curtain lights under $30 are a gamble. Some arrive with dead sections, others have remotes that only work if you stand two feet away. The LumBelle LED Curtain Lights, sitting at a solid 4.2 out of 5 from 210 ratings, appear to be one of the better bets in this crowded category. But is it actually worth your money? I dug into the specs, the customer feedback, and the real-world quirks to give you the straight answer.

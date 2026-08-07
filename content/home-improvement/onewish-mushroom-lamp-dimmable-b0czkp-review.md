@@ -1,4 +1,5 @@
 ---
+
 title: "ONEWISH Mushroom Lamp Dimmable"
 seo_title: "ONEWISH Mushroom Lamp Dimmable Review: Verdict | TSV"
 meta_description: "Our full onewish mushroom lamp dimmable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZKPCHFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gaODcaS4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most mushroom lamps are cheap plastic desk clutter. The ONEWISH version, at $31.55, sits in that awkward middle zone — not a bargain, not premium. But with 235 ratings holding a 4.7-star average and a 4.6 verdict score, it's clearly doing something right. After digging through what buyers actually say, here's the real story.

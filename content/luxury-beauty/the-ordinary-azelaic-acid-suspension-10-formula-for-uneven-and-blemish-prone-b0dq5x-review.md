@@ -1,4 +1,5 @@
 ---
+
 title: "The Ordinary Azelaic Acid Suspension 10%, Formula for Uneven"
 seo_title: "The Ordinary Azelaic Acid Suspension 10%, Formula  Review"
 meta_description: "Our full the ordinary azelaic acid suspension 10%, formula for uneven review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQ5XXLWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LloWpF62L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $10 Multi-Tasker That Actually Earns Its Hype

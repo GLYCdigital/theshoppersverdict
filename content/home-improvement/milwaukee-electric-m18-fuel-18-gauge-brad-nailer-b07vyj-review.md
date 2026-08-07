@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18 Fuel 18 Gauge Brad Nailer"
 seo_title: "Milwaukee Electric - M18 Fuel 18 Gauge Brad Nailer Review"
 meta_description: "Our full milwaukee electric - m18 fuel 18 gauge brad nailer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VYJQ1KP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612RcK-MngL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Milwaukee M18 Fuel Brad Nailer Worth the Premium Over Pneumatic?

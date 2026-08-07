@@ -1,4 +1,5 @@
 ---
+
 title: "3M Safety Glasses, Virtua CCS Protective Eyewear 11872, Removable Foam Gasket, Clear Anti-Fog Lenses, Corded Ear Plug Control System"
 seo_title: "3M Virtua CCS Safety Glasses Review: Clear, Comfortable, Reliable"
 meta_description: "3M Virtua CCS safety glasses review: anti-fog clear lenses, removable foam gasket, and corded ear plug system. See if these $22 glasses earn a 4.2/5."
@@ -11,13 +12,14 @@ review_count: 24995
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00AEXKR4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71noZfyryhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Corded ear plug control system keeps hearing protection tethered to eyewear — no more lost plugs on job sites"
   - "Removable foam gasket seals out dust and debris while remaining fully replaceable when worn"
   - "Anti-fog coating holds up in humid conditions where cheaper lenses fog within minutes"
-cons:
+cons: 
   - "Foam gasket compresses over extended use and can trap sweat against your face in hot environments"
   - "Temple arms run narrow — users with wider heads report pressure points after a full shift"
+
 ---
 
 Let's be direct: most safety glasses under $25 are disposable junk you tolerate until they scratch beyond use. The 3M Virtua CCS 11872 sits in a different category — it's the pair you reach for when you need both eye and ear protection without juggling two separate pieces of gear.

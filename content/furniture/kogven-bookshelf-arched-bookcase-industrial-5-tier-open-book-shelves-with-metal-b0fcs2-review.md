@@ -1,4 +1,5 @@
 ---
+
 title: "Kogven Bookshelf Arched Bookcase, Industrial 5 Tier Open Boo"
 seo_title: "Kogven Bookshelf Arched Bookcase, Industrial 5 Tie Review"
 meta_description: "Our full kogven bookshelf arched bookcase, industrial 5 tier open boo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FCS2RMQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rK6qjmjWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most budget bookcases look like cardboard boxes stacked vertically. The Kogven Arched Bookcase tries something different — an industrial frame with a curved top that actually makes a room feel intentional. At 4.0 stars from 200 ratings, it's not perfect. But for the price, it's one of the better-looking options in the sub-$100 range.

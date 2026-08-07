@@ -1,4 +1,5 @@
 ---
+
 title: "Naturium Phyto-Glow Lip Mask, Hydrating & Moisturizing Balm,"
 seo_title: "Naturium Phyto-Glow Lip Mask, Hydrating & Moisturi Review"
 meta_description: "Our full naturium phyto-glow lip mask, hydrating & moisturizing balm, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZLRLP8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616wOW52nnL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.7-star Naturium Phyto-Glow Lip Mask has 235 Amazon ratings for a reason — but it's not the lip product you think it is.**

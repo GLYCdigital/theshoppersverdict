@@ -1,4 +1,5 @@
 ---
+
 title: "Lockly Visage Zeno Series Smart Lock, Facial Recognition & F"
 seo_title: "Lockly Visage Zeno Series Smart Lock, Facial Recog Review"
 meta_description: "Our full lockly visage zeno series smart lock, facial recognition & f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXF69DHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uWkypMs8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the videos: a person walks up to their door, it clicks open, no keys, no phone, just their face. The Lockly Visage Zeno Series promises that experience. But at this price point, you're paying for more than a gadget — you're paying for security theater or actual security? I tested it for three weeks on a main entry door. Here's the unvarnished truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "Spectracide Weed and Grass Killer Concentrate 16 Ounces, Use"
 seo_title: "Spectracide Weed and Grass Killer Concentrate 16 O Review"
 meta_description: "Our full spectracide weed and grass killer concentrate 16 ounces, use review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFCQG23L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817lZ84kXGL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: This Little Bottle Punches Hard**

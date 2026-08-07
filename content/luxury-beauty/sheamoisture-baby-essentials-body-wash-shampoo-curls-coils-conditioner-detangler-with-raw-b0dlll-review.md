@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Baby Essentials, Body Wash & Shampoo + Curls & "
 seo_title: "SheaMoisture Baby Essentials, Body Wash & Shampoo  Review"
 meta_description: "Our full sheamoisture baby essentials, body wash & shampoo + curls &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DLLLWZLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+ZccQ2CAL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the baby-product marketing noise. You've seen the shelves of "gentle" and "pediatrician-approved" formulas that leave your kid's hair feeling like straw and skin slightly tight. The SheaMoisture Baby Essentials duo — the 2-in-1 Body Wash & Shampoo paired with the Curls & Coils Conditioner Detangler — is trying to be different. And for the most part, it succeeds.

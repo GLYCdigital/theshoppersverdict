@@ -1,4 +1,5 @@
 ---
+
 title: "Bird Feeder with Camera, Upgraded 1.5L Smart Bird Feeder wit"
 seo_title: "Bird Feeder with Camera Review: 1.5L Smart AI Feeder (2026)"
 meta_description: "Honest review of the 1.5L smart bird feeder with camera & AI. Real specs, battery life, photo quality, and buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZGPQNR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oSv-Z-gKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1.5L seed hopper genuinely reduces refill frequency to roughly once a week for a typical backyard"
   - "AI species identification works offline and correctly identified 11 of 13 common species in testing"
   - "IP66 weatherproofing held up through heavy rain and a frost without condensation inside the lens"
-cons:
+cons: 
   - "Photo resolution caps at 1080p — feather detail is soft at full zoom, not print-worthy"
   - "App notifications can lag 10–20 seconds behind the bird landing, causing missed shots on fast feeders"
+
 ---
 
 **Opening hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "Carpet Trimmer and Shearing Guide, Electric Speed Adjustable"
 seo_title: "Carpet Trimmer & Shearing Guide Review: Is It Worth It?"
 meta_description: "Honest review of the Electric Speed Adjustable Carpet Trimmer & Shearing Guide. See how it performs on rugs, tufting projects, and carpets before you buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C9LD4JK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gA0M918EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Variable speed dial gives real control for both fine detailing and bulk shearing on high-pile rugs"
   - "Adjustable shearing guide attachment locks in consistent pile heights — crucial for professional-looking tufting results"
   - "Corded motor delivers steady power without the sag you get from battery trimmers on dense carpet"
-cons:
+cons: 
   - "Replacement blades are proprietary and can be hard to source; you're locked into the brand's consumables"
   - "The included guide attachment is fiddly to swap out when you're mid-project and switching between trimming and carving"
+
 ---
 
 If you're deep into rug tufting, carpet carving, or you just maintain high-pile rugs at home, you already know the pain of trying to get a clean, even cut with scissors or a cheap beard trimmer. This electric carpet trimmer with a shearing guide is aimed squarely at that frustration. At 4.1 stars from 204 ratings, it's not perfect, but it's clearly earning its keep for a lot of buyers. Here's the real story.

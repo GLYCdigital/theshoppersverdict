@@ -1,4 +1,5 @@
 ---
+
 title: "Generic Graduation Party Sign, Customizable, Waterproof PVC"
 seo_title: "Graduation Party Sign Review: Waterproof PVC Customizable"
 meta_description: "Honest review of the customizable waterproof PVC graduation party sign. 4.5-star rated. See real pros, cons, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSDCGMW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xeBbfKZsL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Truly waterproof PVC that survived rain and sprinklers without fading, peeling, or warping edges"
   - "Customization process is straightforward with proof approval before printing — no surprise typos"
   - "Sturdy for outdoor use; stakes hold firm in grass and the material doesn't bend in moderate wind"
-cons:
+cons: 
   - "Stakes are a bit thin and can wobble in loose soil or mulch; may need extra support in heavy wind"
   - "Customization options are limited to text and basic color choices — no photo uploads on this model"
+
 ---
 
 Let's be honest: most yard signs are flimsy cardboard that folds in a light drizzle or cheap plastic that fades in two weeks. This one isn't that. The Generic Graduation Party Sign (customizable, waterproof PVC) is the rare decoration that actually looks as good on day 30 as it did on day one.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bluey Creation Wooden"
 seo_title: "Bluey Creation Wooden Review: Worth It for Fans? (2026)"
 meta_description: "Honest Bluey Creation Wooden review: build quality, play value, and who it's for. See pros, cons, and real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FMYD63VX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tdb8D1kOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid, chunky wooden pieces that survive rough toddler play — no flimsy plastic parts to snap"
   - "Character details are surprisingly accurate for wood; Bluey, Bingo, and Bandit are instantly recognizable"
   - "Open-ended design encourages imaginative play beyond what's shown on the box"
-cons:
+cons: 
   - "Small parts mean it's not suitable for kids under 3 — check age recommendations carefully"
   - "The wooden finish scuffs if dropped repeatedly on hard floors; visible wear after a few weeks of heavy use"
   - "No storage bag or box included — you'll need to supply your own container for cleanup"
+
 ---
 
 Let's cut to the chase: if you have a Bluey-obsessed toddler, you've probably already considered this wooden set. The question isn't *whether* they'll love it — it's whether it holds up to the chaos of actual play. After digging through 240 ratings (4.8 stars) and the construction details, here's the real story.

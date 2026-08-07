@@ -1,7 +1,8 @@
 ---
-title: "Weber Gourmet BBQ System Pizza Stone with Carry Rack,16.7\" L"
+
+title: "Weber Gourmet BBQ System Pizza Stone with Carry Rack,16.7\ L"
 seo_title: "Weber Gourmet BBQ System Pizza Stone with Carry Ra Review"
-meta_description: "Our full weber gourmet bbq system pizza stone with carry rack,16.7\" l review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full weber gourmet bbq system pizza stone with carry rack,16.7\ l review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "weber-gourmet-bbq-system-pizza-stone-with-carry-rack-16-7-long-b006wr-review"
 image_alt: "Weber Gourmet BBQ System Pizza Stone with Carry Rack,16.7 Long"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B006WRLBNU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617u7XN5t7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Weber Genesis or Spirit with the Gourmet BBQ System grate, this stone is the closest thing to a wood-fired oven you'll get without building a brick dome in your backyard. At 16.7 inches long and roughly 0.5 inches thick, it's a serious slab of cordierite — not the flimsy ceramic tiles you see sold as "pizza stones" for $15. The carry rack is the differentiator: it's a lightweight steel frame with two handles that lets you shuttle the stone in and out of the grill safely. Without it, you'd be wrestling a 6-pound, 500°F plate of ceramic with tongs and oven mitts.

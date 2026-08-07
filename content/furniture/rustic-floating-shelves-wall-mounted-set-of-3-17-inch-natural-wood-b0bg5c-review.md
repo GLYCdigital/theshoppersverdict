@@ -1,4 +1,5 @@
 ---
+
 title: "Rustic Floating Shelves Wall Mounted Set of 3, 17 Inch Natur"
 seo_title: "Rustic Floating Shelves Wall Mounted Set of 3, 17  Review"
 meta_description: "Our full rustic floating shelves wall mounted set of 3, 17 inch natur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BG5C4VP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j2RU+iEZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're tired of cheap, hollow shelves that sag after three months, this set of three 17-inch rustic floating shelves is worth a hard look. At 4.7 stars across 235 ratings, these aren't just another Amazon shelf — they're solid pine with a finish that actually looks handcrafted.**

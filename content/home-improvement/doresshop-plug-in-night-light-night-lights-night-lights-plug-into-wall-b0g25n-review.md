@@ -1,4 +1,5 @@
 ---
+
 title: "DORESshop Plug in Night Light, Night Lights Night Lights Plu"
 seo_title: "DORESshop Plug-In Night Light Review: Is It Worth It?"
 meta_description: "DORESshop plug-in night light review: honest pros, cons, brightness, and sensor performance from 225+ ratings. See if it fits your hallway or bathroom."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G25NY5D2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zPGXhfhBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto on/off light sensor responds quickly in dark hallways and bathrooms"
   - "Compact footprint leaves the second outlet free for other plugs"
   - "Warm 3000K glow is bright enough to navigate by without blinding you at 2 AM"
-cons:
+cons: 
   - "Plastic housing feels lighter than premium alternatives at similar price"
   - "Sensor can trigger on passing shadows if mounted near a frequently used doorway"
+
 ---
 
 Let’s be honest: a night light isn’t a glamorous purchase. But the DORESshop plug-in model has quietly racked up 225 ratings at a 4.5-star average, which tells you something. After digging through the feedback and examining the specs, here’s the real story.

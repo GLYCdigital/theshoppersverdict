@@ -1,4 +1,5 @@
 ---
+
 title: "BoutiqueRugs Irregular Checkered Area Rug Collection (PTK-SF"
 seo_title: "BoutiqueRugs Irregular Checkered Area Rug Review (2026)"
 meta_description: "Honest BoutiqueRugs Irregular Checkered Area Rug review: style, durability, shedding, and value. See if this 4.2-star rug fits your space."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GGS7Y6XQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XUEfMWePL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 0.4-inch pile height hits the sweet spot—plush underfoot without catching chair casters or door edges"
   - "Irregular checkerboard pattern hides pet hair and everyday crumbs far better than solid or high-contrast rugs"
   - "Reversible low-profile construction lays flat within 24–48 hours with no curling corners, even on hardwood"
-cons:
+cons: 
   - "Shedding is noticeable for the first 2–3 weeks—vacuum twice weekly or you'll be chasing fuzz along baseboards"
   - "Thin 0.4-inch pile means it won't cushion hard floors for kids who play or sit on the floor for long stretches"
+
 ---
 
 # BoutiqueRugs Irregular Checkered Area Rug Collection: Style That Hides the Mess

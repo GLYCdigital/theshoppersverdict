@@ -1,4 +1,5 @@
 ---
+
 title: "Cozyman Bar stools"
 seo_title: "Cozyman Bar Stools Review: Worth It in 2026?"
 meta_description: "Honest Cozyman bar stools review: build quality, comfort, real buyer feedback, and who should buy. See pros, cons, and verdict before you order."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQL9B6KJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o7f7fcTLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 14-gauge steel frame with welded joints — no wobble even on uneven floors"
   - "High-density foam seat cushion holds shape after months of daily use"
   - "Tool-free assembly under 10 minutes; all hardware pre-installed in factory"
-cons:
+cons: 
   - Footrest bar sits a bit high for shorter users (under 5'4 inch ") — can feel awkward
   - "Fabric upholstery shows light stains quickly; no removable cover for machine washing"
+
 ---
 
 Let’s cut through the noise. You’re looking at bar stools, and there are roughly 40,000 options on Amazon. The Cozyman set has earned a 4.5-star average across 225 ratings — that’s a solid signal, but ratings alone don't tell you if these will survive your kids, your dog, or your clumsy friend who leans back too far. Here’s what you actually need to know.

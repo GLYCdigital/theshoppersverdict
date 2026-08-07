@@ -1,4 +1,5 @@
 ---
+
 title: "Minties Dental Treats for Cats"
 seo_title: "Minties Dental Treats for Cats Review: Verdict | TSV"
 meta_description: "Our full minties dental treats for cats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FKFSNGQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W-KSJwy3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cat dental treats: most are glorified crunchy biscuits with a marketing sticker. Minties actually do something different — the star shape isn't just for aesthetics. Those ridges create mechanical abrasion against the tooth surface while your cat chews, which is the same principle behind prescription dental diets, just in a treat format that costs a fraction of the price.

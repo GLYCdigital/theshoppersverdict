@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee M12 FUEL Stubby 1/2 Inch Impact Wrench (Bare Tool)"
 seo_title: "Milwaukee M12 FUEL Stubby 1/2 Inch Impact Wrench ( Review"
 meta_description: "Our full milwaukee m12 fuel stubby 1/2 inch impact wrench (bare tool) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DQ28L48H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J4wTHT6NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wedged a full-size impact wrench between a strut tower and engine block, only to realize it doesn't fit, you already know why the Milwaukee M12 FUEL Stubby exists. This thing crams genuine impact torque into a housing shorter than a standard ratchet, and at 4.8/5 stars across 240 ratings, it's clearly earning its keep in pro toolboxes. But it's not a magic wand — let's talk about where it shines and where it comes up short.

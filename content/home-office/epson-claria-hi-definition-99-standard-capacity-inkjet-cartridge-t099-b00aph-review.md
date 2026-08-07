@@ -1,4 +1,5 @@
 ---
+
 title: "Epson Claria Hi-Definition 99 Standard-capacity Inkjet Cartr"
 seo_title: "Epson Claria 99 Ink Cartridge Review: Hi-Def Photo Quality"
 meta_description: "Epson Claria Hi-Definition 99 ink cartridge review: vivid photo prints, standard capacity value, and honest compatibility caveats. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00APHDYEC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LGlqr4BVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Epson Claria ink delivers true photo-lab color depth, especially in skin tones and dark shadows"
   - "Standard capacity (T099) is ideal for light-to-moderate printing — no wasted ink from dried-out cartridges"
   - "Chip recognition is flawless in compatible Epson printers; zero installation errors reported by most buyers"
-cons:
+cons: 
   - "Standard capacity means higher cost per page than high-yield XL versions — frequent printers will pay more over time"
   - "No cartridge recycling program included in the box; you'll need to find third-party drop-off options"
+
 ---
 
 **The honest truth about ink cartridges:** they're overpriced, they run out at the worst moment, and buying the wrong one is a $30 mistake. The Epson Claria Hi-Definition 99 (T099) manages to sidestep most of that pain — but only if you're the right kind of user. Here's what 229 Amazon reviewers at 4.6 stars are actually saying.

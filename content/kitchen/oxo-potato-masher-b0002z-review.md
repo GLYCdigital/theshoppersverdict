@@ -1,4 +1,5 @@
 ---
+
 title: "Oxo Potato Masher"
 seo_title: "Oxo Potato Masher Review: Verdict | TSV"
 meta_description: "Our full oxo potato masher review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0002Z7OVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rZ-DkI05L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap potato masher fold in half mid-mash — or worse, snap clean off while you're elbow-deep in Thanksgiving prep — you know why the Oxo Potato Masher has earned its 4.5-star rating across 225 reviews. This isn't a flashy gadget. It's the workhorse that actually gets the job done.

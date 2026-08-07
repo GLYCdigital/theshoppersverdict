@@ -1,4 +1,5 @@
 ---
+
 title: "8inch Nautical Bulkhead Light,Black LED Bulkhead Light for S"
 seo_title: "8-Inch Nautical Bulkhead Light Review: Black LED for Sauna & Marine"
 meta_description: "Honest 8-inch nautical bulkhead light review: black LED for sauna, boat, or hallway. Build quality, brightness, waterproofing, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZNXCD6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DfJ9MiqaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof IP65-rated housing that handles direct spray without fogging"
   - "Warm 3000K LED output that mimics classic incandescent without heat buildup"
   - "Corrosion-resistant die-cast aluminum body with brass accents that won't pit near saltwater"
-cons:
+cons: 
   - "One-piece gasket is tricky to seat perfectly — slight misalignment can compromise the seal"
   - "Screws are soft metal; use your own stainless hardware for coastal installations"
+
 ---
 
 Some lights are decorative. This one is a tool. The 8-inch nautical bulkhead light in black is a marine-grade workhorse dressed like a vintage ship's lantern — but it earns its keep in saunas, coastal cottages, and damp basements, not just on boats. With a 4.7-star average across 235 ratings, it's clearly doing something right. Here's what that something is.

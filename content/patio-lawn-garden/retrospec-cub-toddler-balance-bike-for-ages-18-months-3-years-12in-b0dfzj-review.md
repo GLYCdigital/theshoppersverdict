@@ -1,4 +1,5 @@
 ---
+
 title: "Retrospec Cub Toddler Balance Bike for Ages 18 Months - 3 Ye"
 seo_title: "Retrospec Cub Toddler Balance Bike for Ages 18 Mon Review"
 meta_description: "Our full retrospec cub toddler balance bike for ages 18 months - 3 ye review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFZJ43NX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AZFJ+V-yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Retrospec Cub doesn't look like a toy. It looks like a scaled-down version of a real mountain bike — steel frame, chunky tires, clean lines. That's exactly why it works. Toddlers don't need training wheels; they need to learn balance first, and this 12-inch balance bike is engineered specifically for riders as young as 18 months. With a 4.8-star average across 240 ratings, it's clearly doing something right. But is it the right first bike for your kid? Let's break it down.

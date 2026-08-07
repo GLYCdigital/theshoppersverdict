@@ -1,4 +1,5 @@
 ---
+
 title: "DDONGMM Large Vanity Desk with Mirror and 10 Lights, Makeup"
 seo_title: "DDONGMM Large Vanity Desk Review: 10-Light Mirror Setup"
 meta_description: "Honest DDONGMM large vanity desk review: 10-light mirror, build quality, storage. See what 210 Amazon buyers say before you buy this makeup table."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLVTQFCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-m.amazon.com/images/I/71gptrQlTzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ten individual bulbs around a generously sized mirror deliver shadow-free lighting — genuinely useful for makeup application and skincare routines"
   - "Large tabletop surface (approximately 40 inches wide) fits a full-size monitor or multiple storage organizers without feeling cramped"
   - "Two felt-lined side drawers and a wide center cabinet offer real storage capacity, not just cosmetic cubbies"
-cons:
+cons: 
   - "Assembly is tedious — expect 60-90 minutes with two people; the instructions are mostly diagrams with minimal text"
   - "The included LED bulbs are warm-toned only; if you prefer daylight/cool lighting for makeup matching, budget for replacements"
+
 ---
 
 The DDONGMM Large Vanity Desk is the kind of purchase that looks stunning in the product photos — and for once, the reality mostly matches the hype. With 210 ratings averaging 4.2 stars, this isn't a hidden gem; it's a proven workhorse in the budget-to-mid vanity category. But let's talk about what you're actually getting before you commit.

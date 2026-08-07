@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama 3768 Cabinet Hardware Kitchen Cabinet Knobs"
 seo_title: "Asidrama 3768 Cabinet Knobs Review: Worth It? (2026)"
 meta_description: "Honest Asidrama 3768 cabinet knobs review: build quality, finish durability, real buyer feedback, and who should buy. 4.8-star rated hardware tested."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DB864YST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612iAsNXWzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zinc alloy construction with a solid, weighted feel — no hollow plastic cheapness"
   - "Consistent brushed finish across all 10 knobs; no mismatched batches"
   - "Standard 1-inch screw spacing fits virtually all pre-drilled cabinet doors"
-cons:
+cons: 
   - "Screws included are on the shorter side; thick drawer fronts may need longer hardware"
   - "Brushed finish shows fingerprints more readily than oil-rubbed bronze alternatives"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen — and like jewelry, you notice it immediately when it's wrong. The Asidrama 3768 knobs have earned a 4.8-star average across 240 ratings, which puts them in rare territory for a product category where most buyers are just hoping the finish doesn't flake off in six months. I've dug through the feedback, examined the specs, and compared them against the usual big-box store options. Here's what you need to know before you commit.

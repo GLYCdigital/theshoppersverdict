@@ -1,4 +1,5 @@
 ---
+
 title: "FOREHOGAR Metal Garden Fence Outdoor"
 seo_title: "FOREHOGAR Metal Garden Fence Review: Sturdy & Easy Install"
 meta_description: "FOREHOGAR Metal Garden Fence Outdoor review: 4.7★ rated. Tested for stability, rust resistance, and install ease. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVS2G7B4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pLlRwXtFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Welded steel construction with powder-coated finish resists rust and holds up in heavy rain"
   - "No-tool assembly — panels connect with pre-attached hinges; installs in under 15 minutes"
   - "Decorative scrollwork top adds curb appeal without blocking garden views"
-cons:
+cons: 
   - "Ground stakes are thin; need upgrading for loose or sandy soil"
   - "Only 14 inches tall — won't deter determined dogs or deer"
+
 ---
 
 Let me be blunt: most decorative garden fences are flimsy wire that bends in a stiff breeze. The FOREHOGAR Metal Garden Fence Outdoor is not that. This is a proper welded steel fence that looks like it costs twice what you'll pay.

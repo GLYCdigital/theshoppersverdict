@@ -1,4 +1,5 @@
 ---
+
 title: "ECOTREE Colored Pencils"
 seo_title: "ECOTREE Colored Pencils Review: Are They Worth It?"
 meta_description: "ECOTREE Colored Pencils review: 72 vibrant shades, dual-end design, and eco-friendly build. See how they perform before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B968WCZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GZXLJjFTL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Dual-ended design gives 144 usable tips from 72 pencils — no need to switch tools mid-stroke for shading or color transitions"
   - "Wax-based cores lay down smooth, pigmented color with minimal pressure; no scratchy feedback like cheaper brands"
   - "Interlocking wooden storage case doubles as a display stand and keeps pencils organized without a separate pencil roll"
-cons:
+cons: 
   - "Pencil wood is soft — tips break more easily than premium brands like Prismacolor if you're heavy-handed"
   - "No individual color labels on the pencils themselves; you'll need to reference the included chart to identify shades"
+
 ---
 
 If you're shopping for colored pencils on a budget, you've probably seen the ECOTREE set with its sleek wooden case and 72-color count. Here's the honest breakdown of what you're actually getting before you hit buy.

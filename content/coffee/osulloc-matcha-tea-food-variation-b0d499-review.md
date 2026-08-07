@@ -1,4 +1,5 @@
 ---
+
 title: "OSULLOC Matcha Tea Food Variation"
 seo_title: "OSULLOC Matcha Tea Food Variation Review: Verdict | TSV"
 meta_description: "Our full osulloc matcha tea food variation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D49935PG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zhfih3DtL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about this: OSULLOC is a heavyweight in Korean tea, and their matcha gets hyped. But at 3.9 stars from 195 buyers, the "Food Variation" label is doing a lot of heavy lifting. Here's what you're actually getting.

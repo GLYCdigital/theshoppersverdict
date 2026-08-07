@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Compact Router for DeWalt 20V Battery (Bare Tool)"
 seo_title: "Cordless Compact Router for DeWalt 20V Battery Review"
 meta_description: "Honest review of the Cordless Compact Router for DeWalt 20V batteries. Tested for trimming, edge work, and plunge accuracy. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DN67T5K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rKAFIFpjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Variable speed dial (10,000–30,000 RPM) actually holds set speed under load, not just a sticker on the housing"
   - "Accepts both 1/4-inch and 6mm collets out of the box — no extra collet purchase needed for metric bits"
   - "LED ring around the collet lights the cut path directly, which matters when you're routing near an edge"
-cons:
+cons: 
   - "Bare tool only — if you don't already own DeWalt 20V batteries, the total cost of entry is steep"
   - "Plunge base is sold separately; the base unit only does fixed-base edge routing out of the box"
   - "No dust collection port included on the standard base — you'll be chasing shavings"
+
 ---
 
 If you already own DeWalt 20V tools, this compact router is a no-brainer addition to your kit. If you're starting from scratch, read carefully before you commit.

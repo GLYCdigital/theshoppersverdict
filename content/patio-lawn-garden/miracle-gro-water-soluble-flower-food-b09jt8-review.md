@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO Water Soluble Flower Food"
 seo_title: "Miracle-GRO Water Soluble Flower Food Review: Verdict | T"
 meta_description: "Our full miracle-gro water soluble flower food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09JT84JQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sBZR-XbQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: Miracle-Gro’s Water Soluble Flower Food is the plant equivalent of a double espresso. It’s fast, it’s effective, and it’s remarkably easy to misuse. With a 4.7-star average across 235 ratings, this pink powder has a loyal following — but is it the right feed for your garden? Here’s the honest breakdown.

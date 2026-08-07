@@ -1,4 +1,5 @@
 ---
+
 title: "144 PCS Midnight DIY Lash Extension Kit, Eyelash Clusters Ki"
 seo_title: "144 PCS Midnight DIY Lash Extension Kit Review (2026)"
 meta_description: "Honest review of the 144 PCS Midnight DIY Lash Extension Kit. Does this cluster lash set with bond & seal deliver salon results? Find out here."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FH67MM2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s8oSTfcML._SL1500_.jpg"
-pros:
+pros: 
   - "144 clusters in 8 sizes (8–16mm) gives you enough variety for full sets or filling gaps — one kit realistically lasts 2–3 months"
   - "The bond dries tacky, not instant-set, so you get 10–15 seconds to position each cluster before it locks down"
   - "Includes both clear and black bond options, which is rare at this price point and matters for different lash colors"
-cons:
+cons: 
   - "The included seal wand is a basic mascara-style brush — it clumps if you apply too much, and you'll want a spoolie on hand"
   - "No remover in the box — you'll need to buy a separate oil-based remover or risk pulling natural lashes when removing clusters"
+
 ---
 
 **The 144 PCS Midnight DIY Lash Extension Kit is the rare at-home lash product that doesn't feel like a compromise.** Most cluster kits are either flimsy party-store junk or overpriced "pro" sets with minimal contents. This one splits the difference with a serious cluster count, real adhesive options, and a 4.4-star average across 220 Amazon ratings. But as someone who's tested more lash kits than I care to admit, the real story is in the details.

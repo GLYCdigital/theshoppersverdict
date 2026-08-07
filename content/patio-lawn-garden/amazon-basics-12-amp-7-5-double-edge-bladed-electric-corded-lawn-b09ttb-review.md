@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 12 Amp 7.5 inch  Double Edge Bladed Electric Corded"
 seo_title: "Amazon Basics 12 Amp 7.5 inch  Edger Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics 12 Amp 7.5 inch  electric edger review: power, cord management, blade depth, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09TTBCX4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Iq1buRBBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12-amp motor delivers consistent cutting power through thick Bermuda and St. Augustine without bogging down"
   - "Double-edged 7.5-inch blade cuts both directions, so you can edge along curbs or flower beds without flipping the unit"
   - "Adjustable cutting depth (up to 1.5 inches) with a simple lever — no tools needed mid-job"
-cons:
+cons: 
   - "Corded-only design means you'll need a 100-foot extension cord and careful path planning to avoid running over it"
   - "Blade guard is fixed and doesn't tilt for angled edging along sloped driveways — you'll fight it on inclines"
   - "No bag or deflector; clippings spray onto the lawn, which some buyers find messy"
+
 ---
 
 **Bottom line up front:** The Amazon Basics 12 Amp 7.5" Double Edge Bladed Electric Corded Edger is the budget-friendly workhorse for homeowners with straight, modest driveways who don't want to drop $150+ on a gas or battery model. At 4.2 stars from 210 ratings, it's not perfect — but for the price, it edges circles around most sub-$60 competitors.

@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate Kids Toothpaste Pump with Fluoride for Cavity Protec"
 seo_title: "Colgate Kids Toothpaste Pump Review: ADA-Approved (2026)"
 meta_description: "Our Colgate Kids Toothpaste Pump review: fluoride cavity protection, easy pump design, bubble fruit flavor. See pros, cons & if it's right for your child."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07DT7M9BS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GGN6pTqEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pump dispenser eliminates the toothpaste tube mess — kids can manage it independently without squeezing half the tube into the sink"
   - "ADA-accepted fluoride formula provides genuine cavity protection while the mild bubble fruit flavor avoids the harsh mint burn most kids reject"
   - "4.2-ounce pump bottle lasts roughly 3 months with twice-daily use, making it a practical value purchase"
-cons:
+cons: 
   - "Pump can occasionally clog if toothpaste dries around the nozzle — requires periodic wiping to keep the mechanism clear"
   - "Bubble fruit flavor is sweet enough that younger kids may be tempted to swallow rather than spit — supervision still needed for kids under 6"
+
 ---
 
 **The Pump That Actually Gets Kids to Brush — Without the Tube Wars**

@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS 21.5 inch Ultra Slim Gaming Computer Monitor - Full HD"
 seo_title: "ASUS 21.5 Ultra Slim Monitor Review: Full HD Value"
 meta_description: "Honest ASUS 21.5 inch Ultra Slim Gaming Monitor review: Full HD clarity, slim design, real pros & cons from 225+ ratings. Is it right for your desk?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ3DW9V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UR-mBL1bL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Truly ultra-slim profile — panel depth is roughly the thickness of a smartphone, freeing up significant desk space"
   - "Full HD (1920x1080) IPS panel with wide 178° viewing angles; colors stay accurate even off-axis"
   - "VESA mount compatible (100x100mm) despite the slim chassis, giving you flexible mounting options"
-cons:
+cons: 
   - "Only 60Hz refresh rate — this is a workhorse monitor, not a competitive gaming display"
   - "No height-adjustable stand; tilt-only adjustments mean you'll likely want a monitor arm for ergonomic setups"
   - "Integrated speakers are weak at roughly 2W each — plan on external speakers or headphones for any media use"
+
 ---
 
 Let's cut through the marketing here. ASUS calls this a "gaming" monitor, but at 21.5 inches with a 60Hz panel, the real story is simpler: this is an exceptionally well-built budget workhorse that happens to handle light gaming fine. With 225 ratings averaging 4.5 stars, buyers generally agree.

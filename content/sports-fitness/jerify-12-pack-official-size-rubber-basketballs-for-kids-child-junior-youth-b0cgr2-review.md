@@ -1,4 +1,5 @@
 ---
+
 title: "Jerify 12 Pack Official Size Rubber Basketballs for Kids Chi"
 seo_title: "Jerify 12 Pack Official Size Rubber Basketballs fo Review"
 meta_description: "Our full jerify 12 pack official size rubber basketballs for kids chi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGR24KB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fs8awIzlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most multi-pack basketballs are garbage. They're undersized, lopsided, or lose air faster than a punctured pool float. The Jerify 12-pack, though, is a different animal — and for anyone running a youth league, school program, or coaching a chaotic bunch of 8-to-12-year-olds, it might be exactly what you need.

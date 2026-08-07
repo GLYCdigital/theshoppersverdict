@@ -1,4 +1,5 @@
 ---
+
 title: "Dremel Blueprint Portable Saw Station with 12V Brushless Com"
 seo_title: "Dremel Blueprint Saw Station Review: 12V Brushless Compact Saw"
 meta_description: "Dremel Blueprint Portable Saw Station review: 12V brushless compact circular saw combo. Tested for accuracy, portability & value. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQ2C66PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ERE+Ie2sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Track-guided cuts deliver dead-straight lines with zero measuring — the saw locks into the rail and glides smoothly"
   - "12V brushless motor has surprising power for trim work, cutting through ¾-inch plywood and hardwood without bogging down"
   - "The Blueprint system's magnetic clamping and built-in stop blocks make repeatable cuts genuinely fast"
-cons:
+cons: 
   - "12V battery platform means you'll need a second adapter or charger for bigger jobs — runtime suffers on long cuts"
   - "The track system adds setup time; it's not a grab-and-go saw for quick rough cuts"
   - "Dust collection is mediocre — fine sawdust escapes the port and lands on your work surface"
+
 ---
 
 # Dremel Blueprint Portable Saw Station with 12V Brushless Com Review: Precision Meets Portability

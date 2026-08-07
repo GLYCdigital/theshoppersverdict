@@ -1,4 +1,5 @@
 ---
+
 title: "PVWIIK Twin Over Twin Metal Floor Bunk Bed with Safety Guard"
 seo_title: "PVWIIK Twin Over Twin Metal Floor Bunk Bed with Sa Review"
 meta_description: "Our full pvwiik twin over twin metal floor bunk bed with safety guard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FGFGGZ83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9151r+PKuyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got two kids sharing a room and floor space is tighter than a clown car, the PVWIIK Twin Over Twin Metal Floor Bunk Bed is the kind of pragmatic solve that keeps parents sane. But before you hit “buy,” here’s what 200 raters (averaging 4.0 stars) actually discovered after sleeping, climbing, and occasionally jumping on this thing.

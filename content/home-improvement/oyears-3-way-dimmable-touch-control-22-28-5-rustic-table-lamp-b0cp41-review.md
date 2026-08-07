@@ -1,4 +1,5 @@
 ---
+
 title: "OYEARS 3-Way Dimmable Touch Control 22''-28.5'' Rustic Table"
 seo_title: "OYEARS 3-Way Dimmable Touch Control 22''-28.5'' Ru Review"
 meta_description: "Our full oyears 3-way dimmable touch control 22''-28.5'' rustic table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP419PZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Gg6Hm5ElL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the product page fluff. The OYEARS 3-Way Dimmable Touch Control lamp solves a real problem: you want warm, adjustable light without a wall of switches, smart-home apps, or a pocketful of remote controls. At 4.5 stars from 225 ratings, it's clearly doing something right. Here's what that something is, and where it trips.

@@ -1,4 +1,5 @@
 ---
+
 title: "VANIDOX Purple Collection, Made in USA - 16 Fl Oz Each"
 seo_title: "VANIDOX Purple Collection, Made in USA - 16 Fl Oz  Review"
 meta_description: "Our full vanidox purple collection, made in usa - 16 fl oz each review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWHY3G8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YTWKJKevL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **VANIDOX Purple Collection Review: Three Big Bottles, One Big Question**

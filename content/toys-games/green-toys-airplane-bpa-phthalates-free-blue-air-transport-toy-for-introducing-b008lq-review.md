@@ -1,4 +1,5 @@
 ---
+
 title: "Green Toys Airplane - BPA, Phthalates Free, Blue Air Transpo"
 seo_title: "Green Toys Airplane Review: Safe, Durable Toddler Toy (2026)"
 meta_description: "Honest Green Toys Airplane review: BPA-free, dishwasher-safe, toddler-tough. See what 240+ parents say about this eco-friendly blue toy plane."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B008LQXR9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ublgpEooL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100% recycled plastic milk jugs — no virgin plastic, no BPA, phthalates, or BPS anywhere in the build"
   - "Survives the dishwasher, the bathtub, the sandbox, and the occasional throw across the room"
   - "Chunky rounded design fits toddler hands perfectly; propeller spins and wheels actually roll"
-cons:
+cons: 
   - "No sounds, lights, or moving parts beyond the spinner — some kids lose interest after initial novelty"
   - "At roughly the size of a large banana, it's smaller than many parents expect from the product photos"
   - "Only two wheels on the landing gear — it tips forward when kids push it hard on carpet"
+
 ---
 
 Let's talk about the elephant in the nursery: most plastic toys are an environmental and health nightmare. The **Green Toys Airplane** flips that script. It's made from recycled milk jugs, contains zero BPA, phthalates, or BPS, and still manages to be tough enough for the toddler gauntlet. With a 4.8-star average across 240 ratings, it's clearly doing something right. Here's the full story.

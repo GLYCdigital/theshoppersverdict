@@ -1,4 +1,5 @@
 ---
+
 title: "KitstorackSofaTable-B-Power Outlet-P"
 seo_title: "KitstorackSofaTable-B-Power Outlet-P Review: Verdict | TS"
 meta_description: "Our full kitstoracksofatable-b-power outlet-p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGQLCRJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dYJqMGPhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced a laptop on one knee and a coffee mug on the armrest while trying to scroll with your chin, this table is the answer you didn't know you needed. The Kitstorack Sofa Table with power outlet does exactly what it promises: it brings a stable, flat surface and charging capability right next to your seat. With 229 ratings averaging 4.6 stars, it's clearly hitting the mark for most buyers. But let's look past the aggregate score and get into whether it's the right pick for your space.

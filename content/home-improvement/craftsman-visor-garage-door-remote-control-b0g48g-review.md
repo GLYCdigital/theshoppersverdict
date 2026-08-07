@@ -1,4 +1,5 @@
 ---
+
 title: "Craftsman Visor Garage Door Remote Control"
 seo_title: "Craftsman Visor Garage Door Remote Review (2026): Is It Worth It?"
 meta_description: "Craftsman Visor Garage Door Remote Control review: 4.8-star rated, 3-button design, easy programming. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G48GXB96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AV1h4lLUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3-button design covers multi-door households without needing separate remotes"
   - "Visor clip is metal with a solid spring — stays put on rough roads"
   - "Compatible with most major brands, not just Craftsman — one remote for everything"
-cons:
+cons: 
   - "No keypad or display — you can't tell which button is programmed to which door without labels"
   - "Battery door is tight; some users report needing a screwdriver or coin to pry it open"
+
 ---
 
 # Craftsman Visor Garage Door Remote Control: A No-Nonsense 3-Button Workhorse

@@ -1,4 +1,5 @@
 ---
+
 title: "Casio MH-10M Desktop Calculator – Large 10-Digit Display |"
 seo_title: "Casio MH-10M Calculator Review: Large Display, Cost & Sell Keys"
 meta_description: "Casio MH-10M desktop calculator review: oversized 10-digit display, dedicated Cost/Sell/Margin keys, and metal faceplate. See if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01FY44UNO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lQX0-somL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dedicated COST, SELL, and MARGIN keys make retail pricing math a one-touch operation — no formula memorization needed"
   - "Large, angled 10-digit display with extra-tall digits that stay readable from across a desk or counter"
   - "Metal faceplate and full-size keys give it a sturdy, professional feel that cheap plastic calculators lack"
-cons:
+cons: 
   - "Solar cell is supplemental only — it needs the LR44 battery to function reliably, and the battery door requires a screwdriver to open"
   - "Tax keys are pre-programmed for a single rate; changing the rate means digging through the manual"
   - "No backlit display — fine under office lights, but dim in low-light retail counters or workshop corners"
+
 ---
 
 Most desktop calculators are an afterthought — a cheap plastic slab with mushy keys and a dim screen that you squint at. The Casio MH-10M is not that calculator. It's the one you see sitting on a real merchant's counter, the one with the brushed metal face that looks like it means business. And for the most part, it delivers on that promise.

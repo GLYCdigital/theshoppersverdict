@@ -1,4 +1,5 @@
 ---
+
 title: "FUNPOLA 3D Puzzles for Adults Airship Puzzle Model"
 seo_title: "FUNPOLA 3D Airship Puzzle Review: Worth It? (2026)"
 meta_description: "Honest FUNPOLA 3D airship puzzle review: build quality, difficulty, and value. See if this adult puzzle earns its 4.5-star rating before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKMJ6T52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91k6A4Gk4qL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Laser-cut plywood pieces fit precisely with zero sanding required — tolerances are noticeably tighter than cheaper 3D puzzle brands"
   - "Working propeller and rudder mechanisms actually function after assembly, not just static decoration"
   - "Includes labeled wooden sheets with a color instruction manual — rare at this price point, most competitors use grayscale photocopies"
-cons:
+cons: 
   - "Small gear pieces (under 1 inch) are fragile if over-torqued during assembly — three Amazon reviewers reported snapping axles"
   - "No glue or tools included despite the listing images suggesting otherwise; you'll need your own wood glue for permanence"
+
 ---
 
 ## Is the FUNPOLA Airship Worth Your Saturday Afternoon?

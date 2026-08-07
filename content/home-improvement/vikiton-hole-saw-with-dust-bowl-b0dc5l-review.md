@@ -1,4 +1,5 @@
 ---
+
 title: "VIKITON Hole Saw with DUST Bowl"
 seo_title: "VIKITON Hole Saw with DUST Bowl Review: Verdict | TSV"
 meta_description: "Our full vikiton hole saw with dust bowl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DC5L72DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bCTboi36L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever cut a hole in drywall for a recessed light or outlet box, you know the drill: dust everywhere, on your arms, in your eyes, coating the floor. The VIKITON Hole Saw with Dust Bowl attacks that exact annoyance. But does the dust collection gimmick actually hold up, or is it just another novelty attachment? After 229 ratings averaging 4.6 stars, the short answer is: it works — with caveats.

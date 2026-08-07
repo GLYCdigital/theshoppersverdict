@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig My K-Cup Reusable K-Cup Pod Coffee Filter, 1 Count, B"
 seo_title: "Keurig My K-Cup Reusable K-Cup Pod Coffee Filter,  Review"
 meta_description: "Our full keurig my k-cup reusable k-cup pod coffee filter, 1 count, b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0737B6HGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gFLoreZgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If you're tired of paying 80 cents a cup for coffee that tastes like it was brewed in a hurry, this $10 filter pays for itself in about two weeks.** But it's not a set-it-and-forget-it solution — you'll need to dial in your grind size and be willing to rinse it after every use.

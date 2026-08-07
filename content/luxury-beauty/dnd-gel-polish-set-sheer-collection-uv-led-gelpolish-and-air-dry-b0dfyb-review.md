@@ -1,4 +1,5 @@
 ---
+
 title: "DND Gel Polish Set, Sheer Collection, UV/LED GelPolish and A"
 seo_title: "DND Sheer Collection Gel Polish Set Review (2026) | Honest"
 meta_description: "DND Sheer Collection gel polish set review: coverage, wear time, value. Real buyer feedback on UV/LED formula and air-dry top coat."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFYB9G9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ofEtkd8-L._SL1500_.jpg"
-pros:
+pros: 
   - "True sheer coverage builds evenly — 2 coats give a jelly finish, 3 coats approach opacity without streaking"
   - "Self-leveling formula is forgiving; no brush strokes even with a heavy hand"
   - "Dual system works with UV and LED lamps, plus the included air-dry top coat extends wear between manicures"
-cons:
+cons: 
   - "Sheer shades require 3 coats for full opacity — impatient manicurists will burn through bottle faster"
   - "Brush is narrow and flexible; fine for detail work but slows down full-nail application"
   - "Color payoff varies noticeably across the collection — some shades read more opaque than others straight from the bottle"
+
 ---
 
 Let's cut through the noise: sheer gel polishes are the most unforgiving category in nail color. Too thin, and you're painting 5 coats. Too thick, and you get patchy, streaky messes that look like a kindergartner's art project. The DND Sheer Collection walks that line better than most — but it's not without quirks.

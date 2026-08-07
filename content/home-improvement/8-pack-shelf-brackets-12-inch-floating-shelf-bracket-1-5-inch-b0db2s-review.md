@@ -1,4 +1,5 @@
 ---
+
 title: "8 Pack Shelf Brackets 12 Inch Floating Shelf Bracket 1/5 inc"
 seo_title: "8 Pack Shelf Brackets 12 Inch Review: Heavy-Duty & Affordable"
 meta_description: "Honest review of 8 Pack 12-inch floating shelf brackets. Tested for weight capacity, build quality, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB2S6MNW/?tag=tsvglyc-03 inch"
 amazon_image: "https://m.media-amazon.com/images/I/61Y7P9QrEjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sold as an 8-pack at $12.99 — roughly $1.62 per bracket, which undercuts most single-pair options at big-box stores"
   - "1/5-inch steel construction with a matte black finish hides fingerprints and resists rust in humid spaces like kitchens or bathrooms"
   - "Includes all mounting hardware (screws and wall anchors), so no extra trip to the hardware store"
-cons:
+cons: 
   - "The 12-inch depth means your shelf must be exactly 12 inches deep — anything shorter leaves a gap, anything longer looks awkward"
   - "No hidden mounting system; the bracket lip sits visibly under the shelf, so it's not a true 'floating' look despite the listing name"
+
 ---
 
 # 8 Pack Shelf Brackets 12 Inch: The Budget Workhorse That Actually Delivers

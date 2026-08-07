@@ -1,4 +1,5 @@
 ---
+
 title: "Tootsie Rolls"
 seo_title: "Tootsie Rolls Review: Verdict | TSV"
 meta_description: "Our full tootsie rolls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1CYX853/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wCovMns6L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something upfront: Tootsie Rolls are not chocolate. They're a chewy cocoa-flavored candy that's been around since 1896, and they've earned their 4.2-star rating from 210 Amazon reviewers by being exactly what they claim to be — a durable, satisfying, nostalgic chew that doesn't pretend to be anything else.

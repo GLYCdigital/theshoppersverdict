@@ -1,4 +1,5 @@
 ---
+
 title: "Cozyman Counter Height Bar Stools, 26 inch  Swivel Barstools with"
 seo_title: "Cozyman 26 inch  Swivel Bar Stools Review: Worth It?"
 meta_description: "Honest Cozyman counter height swivel bar stools review: comfort, build quality, assembly, and real buyer feedback. See if these 26 inch  stools fit your kitchen."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4BC28F7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RRh5EgqIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 360-degree swivel with smooth ball-bearing mechanism that holds up to daily use without loosening"
   - "Genuine high-density foam cushion (not the thin padding most budget stools use) that stays comfortable after hours"
   - "Sturdy 16-gauge steel frame with a 300-pound weight capacity — surprisingly solid for the price point"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and about 25-30 minutes per stool; pre-drilled holes are slightly misaligned on some units"
   - "Fabric upholstery is prone to pilling if you use abrasive cleaners — stick to a damp cloth only"
   - Footrest bar is fixed at one height, which can be awkward for shorter users (under 5'4 inch ")
+
 ---
 
 Let's cut through the noise: most bar stools under $100 are wobbly, thinly padded, and fall apart within a year. The Cozyman 26" swivel counter stool isn't that. At 4.4 stars across 220 ratings, it's quietly becoming a solid mid-tier option for anyone outfitting a kitchen island or breakfast bar. But is it right for you? Here's the real breakdown.

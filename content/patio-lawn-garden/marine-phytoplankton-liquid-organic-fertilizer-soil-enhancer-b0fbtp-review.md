@@ -1,4 +1,5 @@
 ---
+
 title: "Marine Phytoplankton Liquid Organic Fertilizer/Soil Enhancer"
 seo_title: "Marine Phytoplankton Liquid Organic Fertilizer/Soi Review"
 meta_description: "Our full marine phytoplankton liquid organic fertilizer/soil enhancer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBTP512R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ny1ozIQ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: marine phytoplankton is the trendy soil amendment that garden influencers won't shut up about. The question isn't whether it's real — it's whether it's worth your money compared to a $12 bag of kelp meal. I've dug through 220 Amazon ratings and the actual science to give you a straight answer.

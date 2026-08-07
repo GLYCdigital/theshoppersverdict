@@ -1,23 +1,25 @@
 ---
+
 title: "Farm Plastic Supply - Crawl Space Vapor Barrier - 10 Mil - B"
 seo_title: "Farm Plastic Supply 10 Mil Crawl Space Vapor Barrier Review"
 meta_description: "Farm Plastic Supply 10 Mil crawl space vapor barrier review — real thickness, durability, and seam tape tips. Is it worth it? Read before you buy."
 slug: "farm-plastic-supply-crawl-space-vapor-barrier-10-mil-black-vapor-barrier-b0dvvm-review"
 image_alt: "Roll of black 10 mil crawl space vapor barrier plastic from Farm Plastic Supply"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DVVM3T61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MJTlP70gL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Measured 10 mil thickness — not a misleading '10 mil' that's actually 6 mil"  
   - "Punctures less than cheaper 6 mil barriers during installation"  
   - "Seam tape actually adheres — no curling or peeling at overlap joints"  
-cons:  
+cons: 
   - "Slick surface makes walking on it slick — wear grippy shoes"  
   - "No pre-printed grid lines for cutting; measure yourself"
+
 ---
 
 You don't need to spend $300 on a contractor-grade vapor barrier to keep your crawl space dry — but you also don't want a 6 mil sheet that tears the moment you drag a cinder block across it. Farm Plastic Supply's 10 mil black barrier sits in that sweet spot: thick enough to actually do the job, priced within reach of a serious DIYer. Here's what I found after installing it in a 1,400 square foot crawl space.

@@ -1,4 +1,5 @@
 ---
+
 title: "4L Electric Composter for Kitchen: Indoor Smart Quick Compos"
 seo_title: "4L Electric Composter Review: Smart Indoor Kitchen Composting"
 meta_description: "Our honest 4L Electric Composter review: Does this smart indoor kitchen machine deliver quick compost? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0DF2SDHFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zq1gRFbDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compact 4L capacity fits on tight countertops; roughly the footprint of a large toaster"
   - "LED display with preset cycles makes operation straightforward for first-time composters"
   - "Grinding mechanism handles most kitchen scraps including eggshells and coffee grounds"
-cons:
+cons: 
   - "4L capacity is small — expect to empty every 2–3 days for a family of four, which disrupts the 'set and forget' promise"
   - "Multiple buyers report odor issues during the drying cycle, especially with high-moisture scraps like watermelon rinds"
   - "Noise level sits around 45–50 dB during grinding — noticeable in open-concept kitchens during quiet hours"
+
 ---
 
 **The 4L Electric Composter promises guilt-free countertop composting in hours, not months. But with a 3.3-star average across 165 ratings, the reality is more complicated. Here's what you need to know before spending your money.**

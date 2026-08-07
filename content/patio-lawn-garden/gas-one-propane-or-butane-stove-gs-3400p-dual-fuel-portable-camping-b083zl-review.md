@@ -1,4 +1,5 @@
 ---
+
 title: "Gas One Propane or Butane Stove GS-3400P Dual Fuel Portable"
 seo_title: "Gas One GS-3400P Dual Fuel Stove Review: Best Portable?"
 meta_description: "Gas One GS-3400P dual fuel stove review: propane & butane power, 7,650 BTU output, piezo ignition. See pros, cons & verdict for camping & patio."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083ZLYC1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AxFQtSllL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual fuel flexibility—accepts both propane and butane canisters without any adapter or modification"
   - "Compact folding design (12.6 x 11 x 4.3 inches) with hard-shell carry case for transport and storage"
   - "Powerful 7,650 BTU output with piezo ignition for reliable one-click starts"
-cons:
+cons: 
   - "No built-in wind guard; exposed flame struggles in breezy outdoor conditions"
   - "Butane performance drops significantly below 50°F, limiting cold-weather use"
+
 ---
 
 Here's the thing about the Gas One GS-3400P: it's not trying to be your kitchen range. It's trying to be the most flexible, no-nonsense portable stove you can throw in a trunk—and for the most part, it succeeds. With a 4.7-star average across 235 ratings, this dual-fuel burner has clearly found its audience. The question is whether that audience includes you.

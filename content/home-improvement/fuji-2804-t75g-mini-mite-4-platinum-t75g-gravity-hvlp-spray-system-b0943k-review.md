@@ -1,24 +1,26 @@
 ---
+
 title: "Fuji 2804-T75G Mini-Mite 4 PLATINUM - T75G Gravity HVLP Spra"
 seo_title: "Fuji Mini-Mite 4 PLATINUM T75G Review: Pro-Grade HVLP"
 meta_description: "Fuji 2804-T75G Mini-Mite 4 PLATINUM review: Is this $1,049 gravity HVLP sprayer worth it? Real-world performance, durability, and buyer feedback inside."
 slug: "fuji-2804-t75g-mini-mite-4-platinum-t75g-gravity-hvlp-spray-system-b0943k-review"
 image_alt: "Fuji 2804-T75G Mini-Mite 4 PLATINUM gravity HVLP spray system with T75G spray gun and turbine unit"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 1049.0  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: 1049.0
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0943KPTTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614SDSFt6oL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "4-stage turbine delivers consistent 7.3 PSI at the gun — enough for high-solids lacquers and urethanes without thinning"  
   - "T75G gravity gun with 1.3mm air cap and stainless steel fluid path handles waterborne finishes without corrosion"  
   - "Three-position turbine air filter is washable and reusable — saves ~$30/year over disposable filters"  
-cons:  
+cons: 
   - "At 15.5 lbs, the turbine is heavy for overhead or ladder work; you'll want the optional shoulder strap"  
   - "The 25-ft hose can kink if you coil it tightly for storage — use the included hanger, not a tight wrap"  
   - "No pressure gauge on the gun; you adjust by feel and spray pattern, which takes a few practice runs"
+
 ---
 
 **Is the Fuji Mini-Mite 4 PLATINUM worth $1,049? That depends on how serious you are about spraying.**  

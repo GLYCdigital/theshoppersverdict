@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Double Wear Long-Lasting Infinite Waterproof E"
 seo_title: "Estée Lauder Double Wear Infinite Waterproof Review (2026)"
 meta_description: "Honest Estée Lauder Double Wear Infinite Waterproof E review: 12-hour wear test, smudge resistance, color payoff, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ182B69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w76zx+JzL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof — survives tears, rain, and sweaty gym sessions without migrating"
   - "Creamy glide-on formula sets to a smudge-proof finish within 60 seconds"
   - "Intense pigment deposit in a single pass — no layering needed for full opacity"
-cons:
+cons: 
   - "Once set, it's nearly impossible to blend — mistakes are permanent until remover"
   - "Pencil tip dulls quickly on the built-in sharpener; you'll need a backup"
   - "Can tug on mature or delicate eyelid skin during application"
+
 ---
 
 ## The 14-Hour Waterproof Eyeliner That Actually Earns the Name

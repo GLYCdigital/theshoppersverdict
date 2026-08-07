@@ -1,4 +1,5 @@
 ---
+
 title: "harriet Outdoor Wall Lights, Modern Outdoor Wall Sconce Alum"
 seo_title: "harriet Outdoor Wall Lights, Modern Outdoor Wall S Review"
 meta_description: "Our full harriet outdoor wall lights, modern outdoor wall sconce alum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09WRGLQT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DKe-k3oiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past dozens of identical black box sconces, the harriet Outdoor Wall Light is the one that makes you stop. It’s not flashy — it’s better than flashy. The aluminum body has a subtle matte texture that looks expensive in person, and the up-and-down light pattern throws a soft, architectural glow on stucco, brick, or wood siding. With 229 ratings and a 4.6 average, this isn’t some fly-by-night listing. It’s a legitimate fixture that has been through real weather.

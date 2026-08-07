@@ -1,4 +1,5 @@
 ---
+
 title: "Club De Nuit Maleka by Armaf for Women - 3.6 oz EDP Spray"
 seo_title: "Club De Nuit Maleka Armaf Review: Is This Women's EDP Worth It?"
 meta_description: "Honest Club De Nuit Maleka by Armaf review: performance, sillage, longevity, and who should buy this 3.6 oz women's EDP. Real buyer feedback included."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8BMND4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aKqr9LZ+L._SL1200_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8-12 hours on skin with minimal reapplication"
   - "Strong projection that settles into a sophisticated, non-cloying dry down"
   - "Versatile enough for office wear but commands attention for evenings"
   - "Great value for a 3.6 oz EDP — comparable to niche-level performance at a fraction of the cost"
-cons:
+cons: 
   - "Opening 10-15 minutes can feel sharp and alcohol-forward before it settles"
   - "Scent profile leans mature — not ideal for teens or those who prefer sugary-sweet florals"
   - "Batch consistency varies; some bottles feel stronger than others"
+
 ---
 
 If you've been hunting for a women's fragrance that delivers serious performance without the niche price tag, Club De Nuit Maleka by Armaf deserves a hard look. This 3.6 oz EDP spray has earned a 4.6-star average across 229 Amazon ratings — and after digging through the buyer feedback, I understand why.

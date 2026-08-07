@@ -1,5 +1,6 @@
 ---
 
+
 title: "Airjam Basketball Rim, 18 inch  Replacement Wall Mounted Outdoor"
 seo_title: "Airjam 18 inch  Basketball Rim Review: Solid Wall-Mounted Hoop"
 meta_description: "Airjam 18 inch  replacement basketball rim review: durable steel construction, easy wall mount, and real-world performance. Is it worth your money?"
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1V4YWP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M2QXU7zZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "All-steel 18 inch  rim with reinforced mounting plate handles aggressive dunk attempts without bending"
   - "Full mounting hardware and instructions included — no surprise trips to the hardware store"
   - "Breakaway flex mechanism works reliably on hard shots, reducing stress on the wall and backboard"
-cons:
+cons: 
   - "Wall-mounted only — you cannot attach this to a standard backboard; it requires a solid masonry or wood surface"
   - "No net included despite product images suggesting otherwise; budget an extra $10-15 inch"
   - "Mounting hardware is adequate but not heavy-duty; consider upgrading bolts for extreme use"
+
 
 ---
 

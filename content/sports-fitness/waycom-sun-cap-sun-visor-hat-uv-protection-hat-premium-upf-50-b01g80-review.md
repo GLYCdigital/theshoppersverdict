@@ -1,4 +1,5 @@
 ---
+
 title: "WAYCOM Sun Cap, Sun Visor Hat - UV Protection Hat -Premium U"
 seo_title: "WAYCOM Sun Cap, Sun Visor Hat - UV Protection Hat  Review"
 meta_description: "Our full waycom sun cap, sun visor hat - uv protection hat -premium u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01G80V608/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eqzM+a3rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most sun visors are flimsy pieces of plastic and foam that fall apart after a season. The WAYCOM Sun Cap is not that. With a 4.2-star average across 210 ratings, this isn't a top-tier product, but it's a solid mid-pack performer that does exactly what it claims — block the sun. Here’s the breakdown you actually need before hitting "add to cart."

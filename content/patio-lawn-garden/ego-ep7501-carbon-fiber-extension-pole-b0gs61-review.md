@@ -1,4 +1,5 @@
 ---
+
 title: "EGO EP7501 Carbon Fiber Extension Pole"
 seo_title: "EGO EP7501 Carbon Fiber Extension Pole Review (2026)"
 meta_description: "EGO EP7501 Carbon Fiber Extension Pole review: lightweight reach for power pruners, weight, balance, and real-world cutting performance tested."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GS611KT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vKukPwwXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Carbon fiber shaft weighs roughly 40% less than aluminum equivalents, reducing fatigue on extended overhead cuts"
   - "Tool-free twist-lock collar secures firmly with no slippage during aggressive cutting"
   - "Compatible with EGO Power+ attachments (PPX1000, PPX2000) and fits standard universal couplers"
-cons:
+cons: 
   - "Premium price tag — costs roughly double comparable fiberglass poles"
   - "Locking collar requires a firm two-hand twist; gloves make it slightly fiddly"
   - "No built-in shock absorption — vibration transfers straight to hands on dense wood"
+
 ---
 
 If you own an EGO Power+ multi-tool system, you already know the attachment ecosystem is the real selling point. The EP7501 extension pole is the missing link between "I can reach that" and "I need a ladder and a prayer." At 4.5 stars across 225 ratings, it's clearly doing something right — but at a premium price, the question is whether the carbon fiber upgrade justifies the cost over cheaper alternatives.

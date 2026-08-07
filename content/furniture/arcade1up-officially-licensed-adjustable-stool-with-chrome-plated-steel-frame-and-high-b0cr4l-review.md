@@ -1,4 +1,5 @@
 ---
+
 title: "ARCADE1UP Officially Licensed Adjustable Stool with Chrome-Plated Steel Frame and High-Density Foam Seat Review"
 seo_title: "ARCADE1UP Adjustable Stool Review: Worth It? (2026)"
 meta_description: "ARCADE1UP adjustable stool with chrome-plated steel frame: real buyer feedback, height range, build quality, and who should buy. Honest 4.6-star review."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CR4L9BNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oskA7X4ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine pneumatic gas-lift mechanism adjusts smoothly from roughly 18 to 24 inches — no wobbly pin-and-hole systems"
   - "Chrome-plated steel base with wide footprint feels stable even on carpet; doesn't tip when you lean forward for a joystick"
   - "High-density foam seat holds its shape; several buyers report zero flattening after six months of daily arcade sessions"
-cons:
+cons: 
   - "Assembly requires a hex wrench and some patience — the seat attaches to the gas lift with four bolts that need firm, even tightening"
   - Footrest is fixed height; shorter players (under 5'4 inch ") may find their feet dangle at the lowest seat setting
+
 ---
 
 You've just dropped $500+ on a 12-in-1 arcade cabinet. Now you're standing there like a goon, hunched over the controls, wondering why your back hurts. That's exactly the problem this stool solves — and it solves it better than the generic office chairs most people jury-rig into their game rooms.

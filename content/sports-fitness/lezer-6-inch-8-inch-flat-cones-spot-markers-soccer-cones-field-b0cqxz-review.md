@@ -1,4 +1,5 @@
 ---
+
 title: "LEZER 6 Inch 8 Inch Flat Cones, Spot Markers, Soccer Cones, "
 seo_title: "LEZER 6 Inch 8 Inch Flat Cones, Spot Markers, Socc Review"
 meta_description: "Our full lezer 6 inch 8 inch flat cones, spot markers, soccer cones,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQXZGMQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p1J4rwdfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $15 bag of cones shatter on the first cold morning of practice, you know the pain. The LEZER flat cones are built to be the last set you buy — and with a 4.8-star average across 240 ratings, most buyers agree.

@@ -1,4 +1,5 @@
 ---
+
 title: "amika midnight mender overnight strength repair treatment ma"
 seo_title: "amika Midnight Mender Review: Overnight Hair Repair That Works"
 meta_description: "Is the amika midnight mender overnight strength repair treatment worth the hype? Our honest review breaks down results, ingredients, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5Y7NPDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617ZFEDmDFL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably softer, stronger hair by morning — visible results after one use"
   - "Non-greasy formula that doesn't stain pillowcases or leave buildup"
   - "Heat-activated bond-building technology repairs damage at the core"
-cons:
+cons: 
   - "Premium price point — $30+ for 3.4 oz is steep for a leave-in"
   - "Scent is strong and divisive — some find it overpowering"
   - "Not ideal for very fine hair — can weigh down limp strands if overapplied"
+
 ---
 
 You've seen the midnight-blue jar trending on your feed. You've read the claims about "bond repair" and "overnight transformation." But does the amika midnight mender overnight strength repair treatment actually deliver, or is it just another pretty jar of promises? I tested it for two weeks on heat-damaged, color-treated hair. Here's the honest breakdown.

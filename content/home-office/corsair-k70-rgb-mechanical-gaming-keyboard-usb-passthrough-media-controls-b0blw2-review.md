@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair K70 RGB Mechanical Gaming Keyboard - USB Passthrough"
 seo_title: "Corsair K70 RGB Review: Is This Mechanical Keyboard Worth It?"
 meta_description: "Corsair K70 RGB review: aluminum build, Cherry MX switches, USB passthrough, and media controls. See if this 4.5-star mechanical keyboard fits your setup."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLW27Z5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Cy-uweiJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aircraft-grade brushed aluminum frame with a detachable USB-C cable—survives years of daily abuse without flex or wobble"
   - "Dedicated media keys and a textured volume roller that actually work for quick adjustments mid-task, not just gaming"
-cons:
+cons: 
   - "USB passthrough is USB 2.0 only—fine for a mouse or headset, but don't expect fast data transfers or charging a modern phone at full speed"
   - "Keycaps are thin ABS plastic that develop a shiny, greasy look after several months of heavy typing; budget for replacement PBT caps eventually"
+
 ---
 
 The Corsair K70 RGB is the keyboard you see on every third desk setup photo and in every esports broadcast. There's a reason for that. It's not the flashiest board on the market, and it's definitely not the cheapest, but it's one of the most proven full-size mechanical keyboards you can buy. With 225 Amazon ratings averaging 4.5 stars, the consensus is clear: this thing works, and it works for a long time.

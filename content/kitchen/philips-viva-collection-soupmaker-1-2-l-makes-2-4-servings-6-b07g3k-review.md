@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Viva Collection SoupMaker, 1.2 L, Makes 2-4 servings"
 seo_title: "Philips Viva Collection SoupMaker, 1.2 L, Makes 2- Review"
 meta_description: "Our full philips viva collection soupmaker, 1.2 l, makes 2-4 servings review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07G3K9FM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811fPeRkcaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: The Philips Viva Collection SoupMaker is a single-purpose appliance that does exactly one thing — turns raw vegetables into hot soup — and does it well enough to earn a 4.3-star average across 215 ratings. But "well enough" comes with caveats.

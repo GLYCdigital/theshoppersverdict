@@ -1,4 +1,5 @@
 ---
+
 title: "BlissBox 9-Pack Floating Shelves for Wall Compatible with Le"
 seo_title: "BlissBox 9-Pack Floating Shelves Review: Lego-Compatible Display"
 meta_description: "BlissBox 9-pack floating shelves review: Lego-compatible wall display, real wood, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F43B5TXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VZrwMpgaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "9 shelves in one box — enough to fill an entire wall or spread across multiple rooms at a per-shelf cost that undercuts most singles"
   - "Lego-compatible studded surface means bricks snap directly onto the shelf top without needing a separate baseplate"
   - "Each shelf holds up to 15 lbs when properly anchored into studs — sturdy enough for books, plants, and medium-scale builds"
-cons:
+cons: 
   - "Mounting hardware is basic; you'll want your own drywall anchors for anything heavier than light decor"
   - "Studded top surface limits flat display options — smooth-bottomed items can wobble if not placed carefully"
+
 ---
 
 **The hook:** If you've got a Lego habit that's outgrown your desk, or a kid whose builds are taking over the floor, the BlissBox 9-Pack Floating Shelves solve a very specific problem: getting bricks off horizontal surfaces and onto the wall without sacrificing display appeal. The studded top surface is the differentiator here — it's not just a shelf, it's a hanging baseplate system.

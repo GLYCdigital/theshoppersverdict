@@ -1,4 +1,5 @@
 ---
+
 title: "Home Intuition 4-Piece Ceramic Kitchen Canisters Set Airtigh"
 seo_title: "Home Intuition 4-Piece Ceramic Kitchen Canisters S Review"
 meta_description: "Our full home intuition 4-piece ceramic kitchen canisters set airtigh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GYRST46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bdnv7JerL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Home Intuition 4-Piece Ceramic Kitchen Canisters Set: The Real Deal on Airtight Storage

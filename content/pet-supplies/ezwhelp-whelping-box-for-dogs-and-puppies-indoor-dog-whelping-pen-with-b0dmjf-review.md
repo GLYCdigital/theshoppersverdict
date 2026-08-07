@@ -1,4 +1,5 @@
 ---
+
 title: "Ezwhelp Whelping Box for Dogs and Puppies - Indoor Dog Whelp"
 seo_title: "Ezwhelp Whelping Box Review: Is It Worth It? (2026)"
 meta_description: "Honest Ezwhelp whelping box review: 4.7★ rated. We test durability, cleaning ease, and safety for newborn puppies. See pros, cons, and who should buy."
@@ -9,16 +10,17 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-pros:
+pros: 
   - "One-piece molded floor with no seams or gaps where fluid can pool or bacteria hide — a huge upgrade over cardboard or plywood DIY setups"
   - "Adjustable safety rails that actually stay put; they lock into position to prevent accidental puppy crushing without blocking mama's access"
   - "Sets up in under two minutes with no tools — genuinely tool-free assembly that holds together, not flimsy push-fit plastic"
-cons:
+cons: 
   - "At roughly 48 inches, it's tight for giant breeds like Great Danes or Mastiffs; measure your dog before ordering"
   - "The included liner is serviceable but thin — order a pack of heavy-duty waterproof liners if you plan multiple litters"
   - "No carrying handle or storage bag, which is annoying when you need to break it down between litters"
 amazon_url: "https://www.amazon.com/dp/B0DMJF16QW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dY8rn71OL._AC_SL1500_.jpg"
+
 ---
 
 If you're about to have a litter of puppies in your living room, the difference between a good night's sleep and a disaster is the whelping box. The Ezwhelp Whelping Box has pulled 4.7 stars across 235 ratings, and after digging into what buyers actually say, the praise is specific and consistent. Let's break down whether this is the box you want between you and a pile of newborn puppies.

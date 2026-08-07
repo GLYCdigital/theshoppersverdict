@@ -1,4 +1,5 @@
 ---
+
 title: "Kaffree Roma - Plant-Based - Original (7 oz.) (Pack of 3) - "
 seo_title: "Kaffree Roma - Plant-Based - Original (7 oz.) (Pac Review"
 meta_description: "Our full kaffree roma - plant-based - original (7 oz.) (pack of 3) -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B078YBTSVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71baypr06BL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Kaffree Roma Review: A Coffee-Free Brew That Actually Tastes Like Coffee**

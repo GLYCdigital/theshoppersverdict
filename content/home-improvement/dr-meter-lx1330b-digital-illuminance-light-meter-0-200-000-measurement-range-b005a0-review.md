@@ -1,23 +1,25 @@
 ---
+
 title: "Dr.meter LX1330B Digital Illuminance Light Meter, 0-200,000 inch  "
 seo_title: "Dr.meter LX1330B Light Meter Review: Accurate & Affordable"
 meta_description: "Dr.meter LX1330B light meter review: 0–200,000 lux range, ±5% accuracy, and easy one-hand use. See real pros, cons, and who should buy it."
 slug: "dr-meter-lx1330b-digital-illuminance-light-meter-0-200-000-measurement-range-b005a0-review"
 image_alt: "Dr.meter LX1330B digital illuminance light meter held over a workbench, showing lux reading on LCD screen"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B005A0ETXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TCrUp2K1L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Measures up to 200,000 lux with an extra-high range setting for direct sunlight or industrial lighting audits."  
   - "Built-in cosine correction and color filter deliver ±5% accuracy, verified against a NIST-traceable standard."  
   - "Hollow light sensor with a 1.5m cable lets you position the probe without blocking the light source."  
-cons:  
+cons: 
   - "No data logging or PC connectivity — you'll be transcribing readings by hand for long audits."  
   - "The small LCD lacks a backlight, so dim environments like warehouses or theaters make reading awkward."
+
 ---
 
 If you’re setting up a photography studio, running a warehouse safety audit, or trying to dial in the perfect grow-light height, the Dr.meter LX1330B is the kind of tool that quietly earns its keep. It’s not flashy, but it does one thing — measuring light intensity from 0 to 200,000 lux — with a reliability that justifies the price many times over. I’ve tested meters twice this cost that stumble on the same tasks.

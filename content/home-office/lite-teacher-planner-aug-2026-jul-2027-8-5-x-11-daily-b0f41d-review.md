@@ -1,7 +1,8 @@
 ---
-title: "LITE TEACHER PLANNER - Aug 2026-Jul 2027, 8.5\" x 11\" Daily W"
-seo_title: "LITE TEACHER PLANNER - Aug 2026-Jul 2027, 8.5\" x 1 Review"
-meta_description: "Our full lite teacher planner - aug 2026-jul 2027, 8.5\" x 11\" daily w review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "LITE TEACHER PLANNER - Aug 2026-Jul 2027, 8.5\ x 11\ Daily W"
+seo_title: "LITE TEACHER PLANNER - Aug 2026-Jul 2027, 8.5\ x 1 Review"
+meta_description: "Our full lite teacher planner - aug 2026-jul 2027, 8.5\ x 11\ daily w review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lite-teacher-planner-aug-2026-jul-2027-8-5-x-11-daily-b0f41d-review"
 image_alt: "LITE TEACHER PLANNER - Aug 2026-Jul 2027, 8.5 x 11 Daily Weekly Monthly Organizers - Includes 7 Periods, Dated Calendar,"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F41DLYL3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-aRwxc88L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LITE Teacher Planner 2026-2027 Review: The Daily-Planning Workhorse That Won't Quit  

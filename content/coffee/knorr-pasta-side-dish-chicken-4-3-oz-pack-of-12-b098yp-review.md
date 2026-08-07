@@ -1,4 +1,5 @@
 ---
+
 title: "Knorr Pasta Side Dish, Chicken, 4.3 oz, Pack of 12"
 seo_title: "Knorr Pasta Side Dish, Chicken, 4.3 oz, Pack of 12 Review"
 meta_description: "Our full knorr pasta side dish, chicken, 4.3 oz, pack of 12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B098YPQ8BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gMhBTFWVL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Knorr Pasta Side Dish, Chicken, 4.3 oz, Pack of 12** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

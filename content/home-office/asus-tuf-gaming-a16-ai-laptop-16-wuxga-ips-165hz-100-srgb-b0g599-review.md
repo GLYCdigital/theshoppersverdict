@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS TUF Gaming A16 AI Laptop 16 inch  WUXGA IPS 165Hz (100% sRGB"
 seo_title: "ASUS TUF Gaming A16 AI Review: 165Hz IPS Powerhouse"
 meta_description: "ASUS TUF Gaming A16 AI review: 16 inch  165Hz IPS 100% sRGB display, Ryzen AI processor. Tested for gaming, work, battery. Honest pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G599GPMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YHDlUYklL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "165Hz IPS panel with 100% sRGB coverage makes colors pop straight out of the box — no calibration needed for photo editing"
   - "Military-grade MIL-STD-810H durability means it shrugs off drops and pressure that would crack thinner ultrabooks"
   - "Ryzen AI processor delivers desktop-class multicore performance for video exports and code compilation"
-cons:
+cons: 
   - "80Wh battery drains fast under load — expect 4-5 hours real-world, not the 10+ hours ASUS advertises"
   - "Single M.2 slot limits storage expansion; you're stuck with whatever capacity you buy upfront"
+
 ---
 
 The ASUS TUF Gaming A16 AI isn't trying to win a beauty pageant. It's built like a tank, weighs just under 4.5 pounds, and packs a 16-inch 165Hz IPS screen that's genuinely impressive for the price. But here's the question that matters: does it hold up for both gaming sessions and actual office work? I've dug through the specs, the 220 Amazon ratings, and the real buyer feedback to give you the straight story.

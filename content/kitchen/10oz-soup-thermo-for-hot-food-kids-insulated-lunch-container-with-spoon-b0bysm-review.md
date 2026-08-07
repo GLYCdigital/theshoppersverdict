@@ -1,5 +1,6 @@
 ---
 
+
 title: "10oz Soup Thermo for Hot Food Kids - Insulated Lunch Contain"
 seo_title: "10oz Soup Thermo for Kids Review: Insulated Lunch Container"
 meta_description: "Honest 10oz Soup Thermo for Hot Food Kids review: insulation performance, leak resistance, and real parent feedback. Is it worth buying?"
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYSMWWFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mkw7BlTAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Keeps soup and pasta hot for 5-6 hours in real-world testing, not just the marketing claim"
   - "Wide mouth opening makes it easy for small hands to scoop every last bite without a mess"
   - "Included folding spoon clicks securely into the lid — no digging through lunchboxes for lost utensils"
-cons:
+cons: 
   - "10oz capacity is tight for older kids with bigger appetites — you'll likely need a second container by age 8 inch"
   - "Hand-wash only despite the stainless steel interior; the lid isn't dishwasher safe and warps over time"
+
 
 ---
 

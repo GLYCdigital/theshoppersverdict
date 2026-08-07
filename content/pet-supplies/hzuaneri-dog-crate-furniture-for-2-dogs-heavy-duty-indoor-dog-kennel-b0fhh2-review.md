@@ -1,4 +1,5 @@
 ---
+
 title: "Hzuaneri Dog Crate Furniture for 2 Dogs, Heavy Duty Indoor D"
 seo_title: "Hzuaneri Dog Crate Furniture for 2 Dogs, Heavy Dut Review"
 meta_description: "Our full hzuaneri dog crate furniture for 2 dogs, heavy duty indoor d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHH2YBMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WGUnW6rLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Two Dogs, One Piece of Furniture That Doesn't Scream "Crate"

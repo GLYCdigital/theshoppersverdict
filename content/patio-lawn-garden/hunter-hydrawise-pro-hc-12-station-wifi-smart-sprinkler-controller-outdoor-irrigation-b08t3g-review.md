@@ -1,4 +1,5 @@
 ---
+
 title: "Hunter Hydrawise PRO-HC 12-Station WiFi Smart Sprinkler Cont"
 seo_title: "Hunter Hydrawise PRO-HC 12-Station WiFi Smart Spri Review"
 meta_description: "Our full hunter hydrawise pro-hc 12-station wifi smart sprinkler cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08T3GNP79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wqARoHWAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still waking up at 6 a.m. to manually turn a hose bib, or worse, relying on a 1990s-era timer that ignores rain entirely, the Hunter Hydrawise PRO-HC is the upgrade that pays for itself. This is a serious piece of irrigation hardware, not a toy. It's built for homeowners who treat their landscape like an investment and want the water bill to reflect actual plant needs, not guesswork.

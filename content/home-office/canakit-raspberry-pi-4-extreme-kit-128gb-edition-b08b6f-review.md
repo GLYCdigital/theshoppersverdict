@@ -1,4 +1,5 @@
 ---
+
 title: "CanaKit Raspberry Pi 4 Extreme Kit - 128GB Edition"
 seo_title: "CanaKit Raspberry Pi 4 Extreme Kit Review (128GB)"
 meta_description: "CanaKit Raspberry Pi 4 Extreme Kit 128GB review: Is this all-in-one starter bundle worth it? Honest pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08B6F6N34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CBi+fXcoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "128GB Samsung EVO+ microSD pre-loaded with NOOBS — boot-ready in under 5 minutes"
   - "Official Raspberry Pi 4B 8GB board, not a clone — full USB-C PD compliance"
   - "Includes CanaKit's aluminum heat sink case with integrated fan, which actually solves thermal throttling"
-cons:
+cons: 
   - "Fan is audible at full speed — not silent, though it ramps down under light loads"
   - "128GB is overkill for most Pi projects; you're paying a premium for storage you may never use"
   - "No HDMI cables included in the box despite the 'Extreme' naming — minor, but annoying"
+
 ---
 
 Let me be blunt: if you're shopping for a Raspberry Pi 4, you're probably staring at a pile of separate components and wondering if the bundle markup is worth it. The CanaKit Extreme Kit with 128GB storage answers that question with a confident yes — but with a couple of caveats worth knowing before you tap "buy."

@@ -1,4 +1,5 @@
 ---
+
 title: "Greesum Patio Furniture 4 Pieces Conversation Sets Outdoor W"
 seo_title: "Greesum Patio Furniture 4 Pieces Conversation Sets Review"
 meta_description: "Our full greesum patio furniture 4 pieces conversation sets outdoor w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D4TMYR3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+5lAw3eMS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the budget patio furniture market is flooded with sets that look great in photos and fall apart by August. The Greesum 4-Piece Conversation Set sits at a 4.0 average across 200 ratings — which tells me it's neither a standout nor a disaster. But the details matter more than the aggregate score. Here's what you're actually getting.

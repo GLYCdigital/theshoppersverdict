@@ -1,4 +1,5 @@
 ---
+
 title: "Sony MDREX15LP In-Ear Earbud Headphones"
 seo_title: "Sony MDREX15LP Earbuds Review: $10 Sound Test (2026)"
 meta_description: "Sony MDREX15LP earbuds review: Are $10 in-ears worth it for office use? We tested sound, comfort, and durability across 10,000+ Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 10006
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413REOi5bJL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "9mm neodymium drivers deliver surprisingly balanced sound — clear mids, no muddy bass for the price"
   - "Ultra-light 3g per earbud with angled housings; sit flush in the ear, comfortable for 2+ hour calls"
   - "In-line single-button mic with basic call control works on both iPhone and Android without adapters"
-cons:
+cons: 
   - "Cord is thin and tangles easily — expect to spend 30 seconds untangling before every use"
   - "No volume control on the in-line remote; you'll adjust levels on your device or miss calls mid-meeting"
   - "Ear tips are small and stiff; if you have larger ear canals, buy aftermarket foam tips immediately"
+
 ---
 
 **The $10 Earbuds That Refuse to Embarrass You in a Meeting**

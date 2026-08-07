@@ -1,4 +1,5 @@
 ---
+
 title: "Sunset Twin Loft Bunk Bed"
 seo_title: "Sunset Twin Loft Bunk Bed Review: Verdict | TSV"
 meta_description: "Our full sunset twin loft bunk bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G6931YJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zvFOZWoxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the listing photos and tell you what this bed actually is: a space-maximizing solution for a kid's room that's better built than most of what's in this price range. The Sunset Twin Loft Bunk Bed has earned a 4.5-star average across 225 Amazon ratings, and after digging into the specs and owner feedback, I can see why—with a few caveats you should know before checkout.

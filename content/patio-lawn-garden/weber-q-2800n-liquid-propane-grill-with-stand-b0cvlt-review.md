@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Q 2800N+ Liquid Propane Grill with Stand"
 seo_title: "Weber Q 2800N+ Liquid Propane Grill with Stand Review: Ve"
 meta_description: "Our full weber q 2800n+ liquid propane grill with stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVLT4SSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZcJI9HZUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing noise. The Weber Q 2800N+ is the grill that tries to be everything — tailgate companion, balcony workhorse, and backyard backup — and mostly pulls it off. With 229 ratings averaging 4.6 stars, shoppers are clearly finding something to love here. But is it the right grill for *you*? Here's what you need to know before handing over your cash.

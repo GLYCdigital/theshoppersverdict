@@ -1,4 +1,5 @@
 ---
+
 title: "Cat's Pride Max Power Multi-Cat Clumping Litter"
 seo_title: "Cat's Pride Max Power Multi-Cat Litter Review (2026)"
 meta_description: "Honest Cat's Pride Max Power Multi-Cat Clumping Litter review: odor control, clumping strength, dust levels, and value for multi-cat households."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFCQ2BJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Clumps hard within seconds — scoopable without crumbling or sticking to the box"
   - "Surprisingly effective odor control for a non-scented litter, even with three or more cats"
   - "Low-dust formula that tracks less than most clay litters we tested"
-cons:
+cons: 
   - "Not truly 99.9% dust-free — fine particles still kick up during a full box change"
   - "Lightweight formula can scatter if your cat is an aggressive digger"
+
 ---
 
 If you've got more than one cat, you already know the struggle: litter that clumps like wet sand, odor that punches through the lid, and dust that coats every surface in a three-foot radius. Cat's Pride Max Power Multi-Cat Clumping Litter claims to fix all three. After three weeks with a two-cat household (one of whom is a serial litter-box digger), here's the honest breakdown.

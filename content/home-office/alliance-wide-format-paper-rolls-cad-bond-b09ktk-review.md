@@ -1,4 +1,5 @@
 ---
+
 title: "Alliance Wide Format Paper Rolls CAD Bond"
 seo_title: "Alliance CAD Bond Paper Rolls Review (2026): Worth It?"
 meta_description: "Honest Alliance Wide Format CAD Bond paper roll review: print quality, feed reliability, real user feedback, and who should buy. 4.8/5 rating analyzed."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09KTKRFCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eXYZvjSRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, consistent 20 lb bond output with minimal ink bleed on dense CAD linework"
   - "Core fits standard 2-inch spindles with zero feed jams reported across HP and Canon plotters"
   - "Ships in rigid crush-proof packaging that keeps rolls perfectly round and edge-damage free"
-cons:
+cons: 
   - "24-inch roll width options sell out quickly; backorder wait times can stretch 2-3 weeks"
   - "Not a heavyweight sheet — 20 lb basis weight means it's for drafting, not presentation-grade renders"
+
 ---
 
 If you're burning through OEM-branded rolls at $40 a pop, the Alliance Wide Format CAD Bond is the quiet workhorse that makes you question why you ever paid for the fancy blue box. With 240 ratings holding a 4.8-star average, this paper doesn't just work — it disappears into your workflow, which is exactly what you want from a consumable. Let's dig into whether it earns a permanent spot on your supply shelf.

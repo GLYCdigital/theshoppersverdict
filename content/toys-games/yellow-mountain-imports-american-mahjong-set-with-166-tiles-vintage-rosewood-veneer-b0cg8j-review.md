@@ -1,4 +1,5 @@
 ---
+
 title: "Yellow Mountain Imports American Mahjong Set with 166 Tiles,"
 seo_title: "Yellow Mountain Imports American Mahjong Set with  Review"
 meta_description: "Our full yellow mountain imports american mahjong set with 166 tiles, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG8J8XFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RURewGglL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever played with a flimsy travel mahjong set — the kind where tiles slide around in a cardboard box and you can’t tell the bamboo from the dots in dim light — you know the difference a solid set makes. The Yellow Mountain Imports American Mahjong Set with 166 tiles is the set that sits on your table, not in your closet. It’s not cheap plastic, and it’s not a collector’s museum piece. It’s the middle ground that most players actually want.

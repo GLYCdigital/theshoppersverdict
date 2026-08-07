@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Platinum EWMST Adjustable Temp Dishwasher"
 seo_title: "Elite Platinum EWMST Dishwasher Review: Is It Worth It?"
 meta_description: "Honest Elite Platinum EWMST adjustable temp dishwasher review: performance, build quality, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CFB6NK15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yHIVmgm1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six wash programs including a dedicated Heavy cycle that actually handles baked-on food — not just 'heavy' in name"
   - "Adjustable water temperature up to 190°F gives you sanitizing power that most countertop units lack"
   - "Compact 16-place setting footprint fits under most upper cabinets while still holding a full dinner service for four"
-cons:
+cons: 
   - "Countertop installation means you're giving up some permanent counter space — no way around that tradeoff"
   - "Drain hose routing can be finicky if your sink is more than 3 feet away from the unit"
+
 ---
 
 Let's be blunt: most countertop dishwashers are compromises wrapped in plastic. The Elite Platinum EWMST is different — it's a compact unit that actually tries to behave like a full-size machine. And based on 235 Amazon ratings averaging 4.7 stars, it's largely succeeding.

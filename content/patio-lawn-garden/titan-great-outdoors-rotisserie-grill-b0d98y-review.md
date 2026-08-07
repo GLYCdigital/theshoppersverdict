@@ -1,4 +1,5 @@
 ---
+
 title: "TITAN GREAT OUTDOORS Rotisserie Grill"
 seo_title: "TITAN GREAT OUTDOORS Rotisserie Grill Review: Verdict | T"
 meta_description: "Our full titan great outdoors rotisserie grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D98Y5ZQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U9tfztRuL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut straight to it: a rotisserie grill is the difference between a backyard cookout and a backyard *event*. The TITAN GREAT OUTDOORS Rotisserie Grill promises that experience without the $1,000 price tag of big-name competitors. At 4.3 stars across 215 ratings, it's clearly earning its keep — but there are a few things you should know before you hit "add to cart."

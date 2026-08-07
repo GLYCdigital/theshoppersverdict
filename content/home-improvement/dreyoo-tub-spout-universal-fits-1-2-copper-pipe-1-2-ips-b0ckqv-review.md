@@ -1,4 +1,5 @@
 ---
+
 title: "Dreyoo Tub Spout (Universal Fits 1/2 inch  Copper Pipe, 1/2 inch  IPS"
 seo_title: "Dreyoo Tub Spout Review: Universal 1/2 inch  Pipe Fit (2026)"
 meta_description: "Honest Dreyoo Tub Spout review: universal 1/2 inch  copper & IPS fit, brushed nickel finish, diverter performance, and installation tips. Read before buying."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CKQVSQ7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H05ReswGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Universal fit works on both 1/2 inch " copper (slip-fit) and 1/2 inch " IPS threaded pipes — one unit covers two common rough-in types
   - "Brushed nickel finish resists water spots and fingerprints noticeably better than chrome alternatives in the same price range"
   - "Diverter lever has positive detent action — it clicks into place rather than flopping loosely like cheaper spouts"
-cons:
+cons: 
   - "Set screw is small (2mm hex) and easy to strip if you overtighten — use the included wrench gently"
   - "No internal flow restrictor, so high-pressure homes may get splash-back off the tub floor"
   - "Adapter ring for IPS threads adds ~1/4 inch length, which can push the spout slightly farther from the wall than expected"
+
 ---
 
 If you've ever stared at a tub spout that won't budge — or worse, bought a "universal" one that fits nothing — you know the pain. The Dreyoo Tub Spout claims to solve that with a dual-fit design for both 1/2" copper pipe and 1/2" IPS threads. After digging through 204 ratings and the actual product specs, here's what you need to know before you drain your tub.

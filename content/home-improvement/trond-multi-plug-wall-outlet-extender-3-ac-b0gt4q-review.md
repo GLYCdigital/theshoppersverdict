@@ -1,4 +1,5 @@
 ---
+
 title: "TROND Multi Plug Wall Outlet Extender,3 AC"
 seo_title: "TROND Multi Plug Wall Outlet Extender,3 AC Review: Verdic"
 meta_description: "Our full trond multi plug wall outlet extender,3 ac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GT4QGL3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ydI0NOzML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got one wall outlet, three devices that need power, and a tangle of chargers that block the second socket. The TROND Multi Plug Wall Outlet Extender is the classic fix — but "classic" doesn't always mean "done right." With a 4.7-star average across 235 ratings, this one's clearly doing something right. Here's the honest breakdown.

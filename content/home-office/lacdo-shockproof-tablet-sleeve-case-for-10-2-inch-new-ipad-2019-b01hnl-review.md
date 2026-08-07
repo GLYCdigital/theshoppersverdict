@@ -1,4 +1,5 @@
 ---
+
 title: "Lacdo Shockproof Tablet Sleeve Case for 10.2-inch New IPad 2"
 seo_title: "Lacdo Shockproof Tablet Sleeve Case for 10.2-inch  Review"
 meta_description: "Our full lacdo shockproof tablet sleeve case for 10.2-inch new ipad 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01HNL545Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QVqBRsCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most tablet sleeves under $20 are glorified pillowcases. The Lacdo Shockproof Sleeve isn't that. With a 4.7-star average across 235 ratings, this case has earned its reputation through one thing — actually protecting your iPad when it hits the ground.

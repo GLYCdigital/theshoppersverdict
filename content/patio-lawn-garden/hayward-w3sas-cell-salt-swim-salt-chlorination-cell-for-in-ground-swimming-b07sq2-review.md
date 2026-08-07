@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward W3SAS-CELL Salt & Swim Salt Chlorination Cell for In"
 seo_title: "Hayward W3SAS-CELL Salt & Swim Salt Chlorination C Review"
 meta_description: "Our full hayward w3sas-cell salt & swim salt chlorination cell for in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07SQ2MMWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YCgE+wHxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your in-ground pool's chlorinator has started flashing the dreaded "low salt" or "inspect cell" light despite a proper salt reading, the problem isn't your water—it's the cell. The Hayward W3SAS-CELL is the direct replacement for the T-15 style cell used in AquaRite and SwimPure systems. But is it worth the premium over generic knockoffs? Here's the honest breakdown after digging through the specs and 225+ owner experiences.

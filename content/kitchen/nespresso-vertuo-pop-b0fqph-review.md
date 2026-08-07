@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Vertuo Pop+"
 seo_title: "Nespresso Vertuo Pop+ Review: Verdict | TSV"
 meta_description: "Our full nespresso vertuo pop+ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQPHCZXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713WujQ3nkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got 6 inches of dead counter space and a serious coffee habit, the Nespresso Vertuo Pop+ might be the smallest upgrade that changes your mornings. This is the baby of the Vertuo line — deliberately compact, aggressively colorful, and designed for people who want café-quality coffee without dedicating their entire kitchen to a machine the size of a microwave. But "compact" always comes with compromises. Here's what you need to know before buying.

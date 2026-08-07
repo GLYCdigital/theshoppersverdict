@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. SKIN Suntouchable Whoa Glow SPF 30 inch"
 seo_title: "e.l.f. Whoa Glow SPF 30 Review: Glowy Sunscreen Worth It?"
 meta_description: "Honest e.l.f. SKIN Suntouchable Whoa Glow SPF 30 review: does this budget glow primer deliver dewy skin without white cast? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GK8T4QQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qwAp+bYPL._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers an instant lit-from-within glow without glitter or shimmer particles"
   - "Sits beautifully under makeup as a primer, eliminating the need for a separate glow product"
   - "Chemical sunscreen formula absorbs quickly with zero white cast on deeper skin tones"
-cons:
+cons: 
   - "The 1.7 oz tube is small for a body sunscreen; best reserved for face and neck only"
   - "Glow may read as too dewy for oily skin types in humid weather without setting powder"
+
 ---
 
 **e.l.f. SKIN Suntouchable Whoa Glow SPF 30 Review: The $10 Glow That Actually Delivers**

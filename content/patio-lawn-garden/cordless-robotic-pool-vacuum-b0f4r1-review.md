@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Robotic Pool Vacuum"
 seo_title: "Cordless Robotic Pool Vacuum Review: Is It Worth It?"
 meta_description: "Our honest cordless robotic pool vacuum review covers battery life, suction power, and real buyer feedback. See if this 3.7-star cleaner fits your pool."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F4R1C37H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JXLtJZMlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation with a rechargeable lithium battery — no tangled hoses or power cords to drag across the patio"
   - "Lightweight build (around 8-10 lbs) makes it easy to drop in, lift out, and carry to storage"
   - "Self-parking feature returns the unit to the waterline when the cleaning cycle finishes, so you don't have to fish it out with a pole"
-cons:
+cons: 
   - "Battery runtime is limited — expect 60-90 minutes max, which may not cover larger in-ground pools in a single pass"
   - "Filter canister is on the small side; you'll likely need to empty it mid-cycle if your pool has heavy leaf or debris loads"
+
 ---
 
 ## The Cordless Pitch: Convenience That Comes With Compromises

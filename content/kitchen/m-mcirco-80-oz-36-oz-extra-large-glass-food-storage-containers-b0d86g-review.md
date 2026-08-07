@@ -1,4 +1,5 @@
 ---
+
 title: "M MCIRCO [80 oz & 36 oz] Extra Large Glass Food Storage Cont"
 seo_title: "M MCIRCO [80 oz & 36 oz] Extra Large Glass Food St Review"
 meta_description: "Our full m mcirco [80 oz & 36 oz] extra large glass food storage cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D86GCB6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61911Ng9MZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most "extra large" glass containers are a lie. They're 40 ounces of wishful thinking that barely hold a single chicken breast and a handful of greens. The M MCIRCO set actually commits to the premise: the larger vessel holds a full 80 ounces (10 cups), and the smaller comes in at 36 ounces (4.5 cups). As shown in the product image, the size difference is stark — this is a serious piece of glassware, not a snack-sized afterthought.

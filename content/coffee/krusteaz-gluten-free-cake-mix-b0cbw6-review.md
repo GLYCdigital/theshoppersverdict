@@ -1,4 +1,5 @@
 ---
+
 title: "Krusteaz Gluten Free Cake Mix"
 seo_title: "Krusteaz Gluten Free Cake Mix Review: Verdict | TSV"
 meta_description: "Our full krusteaz gluten free cake mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBW6HDZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yj03yP7GL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don’t need me to tell you that gluten-free baking is a gamble. You’ve bought the crumbly cookies, the gritty muffins, the cakes that taste like sweetened cardboard. So when a cake mix hits 4.5 stars across 225 Amazon reviews, you’re right to ask: is this actually different, or just another box of disappointment?

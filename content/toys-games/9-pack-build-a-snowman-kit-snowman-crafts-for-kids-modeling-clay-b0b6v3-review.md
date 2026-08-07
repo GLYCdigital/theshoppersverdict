@@ -1,4 +1,5 @@
 ---
+
 title: "9 Pack Build a Snowman Kit Snowman Crafts for Kids,Modeling"
 seo_title: "9 Pack Build a Snowman Kit Review: Modeling Clay Craft for Kids"
 meta_description: "Honest review of the 9 Pack Build a Snowman Kit for kids. Covers clay quality, craft time, and who it's best for. See if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B6V356NL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711WU+sF4KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All 9 kits arrive individually wrapped, making party distribution or classroom use genuinely hassle-free"
   - "The modeling clay is soft and pliable straight out of the package — no kneading or warm-up required, even for small hands"
   - "Each kit includes enough accessories (hat, scarf, nose, eyes, buttons) to complete a full snowman without mixing up pieces between sets"
-cons:
+cons: 
   - "The clay dries out quickly if left uncovered — you'll want to assemble the snowmen within 30–40 minutes of opening"
   - "Final snowmen are small (roughly 4 inches tall), so older kids may finish in under 10 minutes and want a second one"
+
 ---
 
 **Skip the snow day disappointment — this kit delivers exactly what it promises.**

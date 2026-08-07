@@ -1,4 +1,5 @@
 ---
+
 title: "Jellas 7Amp Belt Sander 3 21-Inch with Dust Bag, Bench Sande"
 seo_title: "Jellas 7Amp Belt Sander 3 21-Inch with Dust Bag, B Review"
 meta_description: "Our full jellas 7amp belt sander 3 21-inch with dust bag, bench sande review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FCDS3VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j5AC1Z4GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Jellas 7Amp Belt Sander: A $60 Sander That Punches Way Above Its Weight**

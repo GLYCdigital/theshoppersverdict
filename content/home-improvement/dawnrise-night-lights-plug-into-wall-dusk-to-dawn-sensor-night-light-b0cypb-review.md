@@ -1,4 +1,5 @@
 ---
+
 title: "Dawnrise Night Lights Plug Into Wall,Dusk to Dawn Sensor Nig"
 seo_title: "Dawnrise Night Light Review: Dusk-to-Dawn Sensor Tested"
 meta_description: "Honest Dawnrise plug-in night light review: dusk-to-dawn sensor performance, brightness, build quality, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYPBL29N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XV7IzAQSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto on/off via ambient light sensor — zero fiddling once plugged in"
   - "Compact profile that doesn't block the second outlet"
   - "Warm, low-glare light that won't blind you on a midnight bathroom run"
-cons:
+cons: 
   - "Sensor can trigger early on overcast days or near other light sources"
   - "No brightness adjustment — it's one fixed output level"
   - "Plastic housing feels lightweight; not for rough environments"
+
 ---
 
 Let’s be honest: most plug-in night lights are either blindingly bright or so dim you might as well leave the lamp on. The Dawnrise Dusk-to-Dawn model sits in a rare middle ground — and with 235 ratings averaging 4.7 stars, it’s clearly doing something right. But is it the right night light for your hallway, bathroom, or kid’s room? Here’s the full breakdown.

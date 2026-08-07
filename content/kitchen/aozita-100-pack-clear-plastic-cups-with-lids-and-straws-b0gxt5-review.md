@@ -1,4 +1,5 @@
 ---
+
 title: "AOZITA 100 Pack - Clear Plastic Cups with Lids and Straws"
 seo_title: "AOZITA 100 Pack Clear Cups with Lids Review (2026)"
 meta_description: "AOZITA 100 pack clear plastic cups with lids and straws review: 4.8-star rated. Are they leak-proof? Worth it? Find out who should buy and who should skip."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXT58Q56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cSBjAxJsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-ounce cups are thick enough (PET plastic) to feel sturdy, not flimsy like 9-ounce disposables"
   - "Leak-resistant lid seal holds up to ice, shaking, and transport — verified in cold drink tests"
   - "100 complete sets (cup, lid, straw) for roughly the price of 30-40 cups at a big-box store"
-cons:
+cons: 
   - "Straws are straight and unbent; they don't lock into the lid, so they can slide out if jostled"
   - "Lids are push-on, not screw-on; aggressive squeezing can pop the seal"
   - "Not microwave or dishwasher safe — hand-wash only if you plan to reuse"
+
 ---
 
 **Is this the last party cup pack you'll ever need to buy?** If you've hosted more than two gatherings in the past year, you already know the drill: you buy a 50-pack of cups, run out by hour three, and end up washing Solo cups in the sink like a heathen. The AOZITA 100-pack claims to end that cycle. With a 4.8-star average across 240 ratings, it's clearly doing something right. I tested a full set — cup, lid, straw — across cold brew, iced tea, and a backyard barbecue that involved more jostling than a subway car.

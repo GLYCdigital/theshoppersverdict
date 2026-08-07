@@ -1,7 +1,8 @@
 ---
-title: "WiberWi Round Coffee Table 35.8\" Rustic Vintage Industrial D"
-seo_title: "WiberWi Round Coffee Table 35.8\" Rustic Vintage In Review"
-meta_description: "Our full wiberwi round coffee table 35.8\" rustic vintage industrial d review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WiberWi Round Coffee Table 35.8\ Rustic Vintage Industrial D"
+seo_title: "WiberWi Round Coffee Table 35.8\ Rustic Vintage In Review"
+meta_description: "Our full wiberwi round coffee table 35.8\ rustic vintage industrial d review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wiberwi-round-coffee-table-35-8-rustic-vintage-industrial-design-furniture-sturdy-b0bmtk-review"
 image_alt: "WiberWi Round Coffee Table 35.8 Rustic Vintage Industrial Design Furniture Sturdy Metal Frame Legs Sofa Table Cocktail T"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BMTKFXFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ieWMuvLTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WiberWi Round Coffee Table Review: Does Rustic Industrial Actually Deliver?

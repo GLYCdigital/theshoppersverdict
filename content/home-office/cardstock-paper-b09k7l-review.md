@@ -1,4 +1,5 @@
 ---
+
 title: "Cardstock Paper"
 seo_title: "Cardstock Paper Review (2026): Thick, Durable, Printer-Friendly"
 meta_description: "Honest cardstock paper review: weight, thickness, printer compatibility, and real buyer feedback. Find out if this 4.6-star paper suits your projects."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09K7LCG2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HycXDbyKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 110 lb thickness that holds up to inkjet and laser printing without curling"
   - "Crisp white finish with minimal lint or fiber residue — clean cuts with scissors or paper trimmers"
   - "Sturdy enough for double-sided printing without noticeable show-through"
-cons:
+cons: 
   - "Not acid-free — could yellow over years of archival storage"
   - "Standard 8.5x11 size only; no 12x12 option for scrapbookers"
+
 ---
 
 If you've ever watched a greeting card flop over like a wet noodle or had a DIY project bleed ink straight through the page, you know the difference between "paper" and "cardstock." This 110 lb option sits firmly in the latter camp. With a 4.6 average from 229 raters, it's clearly doing something right — but let's talk about whether it's the right thick paper for your specific use case.

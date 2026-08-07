@@ -1,4 +1,5 @@
 ---
+
 title: "Realistic Artificial Grass Rug Indoor Outdoor: Fake Grass Tu"
 seo_title: "Realistic Artificial Grass Rug Indoor Outdoor: Fak Review"
 meta_description: "Our full realistic artificial grass rug indoor outdoor: fake grass tu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4QLW6RZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hbXpFSyaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most artificial grass under $100 looks like a green doormat that lost a fight with a lawnmower. This one doesn't. The "Realistic" in the name isn't just marketing — it's the first thing buyers mention, and after looking at the product shots and reading through 220 ratings, I get it.

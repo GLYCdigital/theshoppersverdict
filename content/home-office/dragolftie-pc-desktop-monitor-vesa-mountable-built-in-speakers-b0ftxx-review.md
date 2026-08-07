@@ -1,4 +1,5 @@
 ---
+
 title: "Dragolftie PC Desktop Monitor,VESA Mountable,Built-in Speake"
 seo_title: "Dragolftie PC Desktop Monitor Review: VESA & Built-In Speakers"
 meta_description: "Honest Dragolftie PC desktop monitor review: VESA mountable, built-in speakers, 4.2/5 rating. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FTXX1JYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619jV6ErO+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "VESA 100x100 mounting pattern works with standard arms, freeing up desk space instantly"
   - "Built-in speakers deliver surprisingly clear audio for a monitor in this price tier"
   - "Slim bezels and matte panel reduce glare in brightly lit offices"
-cons:
+cons: 
   - "Panel only hits 60Hz refresh rate — not ideal for competitive gaming"
   - "Height adjustment requires the VESA arm; the stock stand offers tilt only"
   - "Built-in speakers lack bass; fine for calls, weak for music or movies"
+
 ---
 
 # Dragolftie PC Desktop Monitor Review: A Solid VESA-Ready Workhorse

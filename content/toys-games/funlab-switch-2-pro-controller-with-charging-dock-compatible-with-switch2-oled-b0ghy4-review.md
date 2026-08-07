@@ -1,4 +1,5 @@
 ---
+
 title: "FUNLAB Switch 2 Pro Controller with Charging Dock Compatible"
 seo_title: "FUNLAB Switch 2 Pro Controller Review: Dock Included (2026)"
 meta_description: "FUNLAB Switch 2 Pro Controller with Charging Dock review: 4.3-star rated. Tested for ergonomics, battery life, and Switch 2/OLED compatibility. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHY42JTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SVgTOEzUL._SL1500_.jpg"
-pros:
+pros: 
   - "Charging dock included — the controller clicks in magnetically and tops up from empty to full in about 2.5 hours"
   - "Hall-effect joysticks with no drift — tested over 60+ hours of Splatoon 3 and Zelda, zero stick drift or dead-zone wobble"
   - "Full button remapping and turbo function via the FUNLAB companion app (works on both Switch 2 and original Switch/OLED)"
-cons:
+cons: 
   - "Dock requires its own USB-C cable — the box doesn't include a wall adapter, so factor in that extra cost"
   - "Amiibo NFC reader is positioned low on the faceplate — you have to tap the figure against the bottom edge, not the logo area like the official Pro Controller"
   - "The glossy center panel is a fingerprint magnet — you'll be wiping it down within the first hour of use"
+
 ---
 
 **If you've priced out the official Switch 2 Pro Controller plus a separate charging dock, you already know the total stings — often $100 or more. The FUNLAB Switch 2 Pro Controller bundles both for a single purchase, and after two weeks of daily testing, I can tell you exactly where that money saves you and where it doesn't.**

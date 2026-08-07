@@ -1,4 +1,5 @@
 ---
+
 title: "Kira Home Welton Wall Sconce & Vanityâ€¦"
 seo_title: "Kira Home Welton Wall Sconce & Vanityâ€¦ Review: Verdict "
 meta_description: "Our full kira home welton wall sconce & vanityâ€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07F96NSC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jy3jsggjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kira Home Welton wall sconce occupies a sweet spot most vanity lights miss entirely: it delivers the warm, hotel-spa aesthetic of a designer fixture at a price that won't make you wince. With 235 Amazon ratings averaging 4.7 stars, this isn't a niche product — it's a proven bathroom workhorse. But is it the right fixture for your space? Let's get into the details.

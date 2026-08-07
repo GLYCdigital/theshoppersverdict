@@ -1,4 +1,5 @@
 ---
+
 title: "Star Micronics TSP100 Series, Monochrome, Thermal Receipt Pr"
 seo_title: "Star Micronics TSP100 Series, Monochrome, Thermal  Review"
 meta_description: "Our full star micronics tsp100 series, monochrome, thermal receipt pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B008915JSU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QkQ07t1PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Star Micronics TSP100 Review: The Quiet Workhorse of Countertop Receipt Printing

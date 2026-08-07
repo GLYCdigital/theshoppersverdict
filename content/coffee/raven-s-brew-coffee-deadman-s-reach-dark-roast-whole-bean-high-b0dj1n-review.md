@@ -1,4 +1,5 @@
 ---
+
 title: "Raven's Brew Coffee Deadman's Reach Dark Roast Whole Bean â€"
 seo_title: "Raven's Brew Coffee Deadman's Reach Dark Roast Who Review"
 meta_description: "Our full raven's brew coffee deadman's reach dark roast whole bean â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ1NTT9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815U78QADTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

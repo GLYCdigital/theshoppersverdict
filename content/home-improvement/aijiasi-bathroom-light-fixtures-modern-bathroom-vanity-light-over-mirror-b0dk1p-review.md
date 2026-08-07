@@ -1,4 +1,5 @@
 ---
+
 title: "AIJIASI Bathroom Light Fixtures, Modern Bathroom Vanity Ligh"
 seo_title: "AIJIASI Bathroom Light Fixtures Review: Modern Vanity Light"
 meta_description: "Honest AIJIASI bathroom vanity light review: build quality, brightness, installation, and whether this modern fixture is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK1P5V9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M3BI5tSiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with a clean, powder-coated finish that resists humidity and fingerprints"
   - "Frosted glass shades diffuse light evenly — no harsh hotspots or glare when looking in the mirror"
   - "Grounded, pre-wired backplate with standard 6-inch wire leads makes swap-outs straightforward for DIYers"
-cons:
+cons: 
   - "Shades are secured with small thumbscrews that can strip if over-tightened — hand-tighten only"
   - "No dimmer compatibility listed; pair with a standard toggle or smart switch, not a dimmer"
+
 ---
 
 **The 4.4-star bathroom light that's worth your Saturday afternoon** — but read this before you buy.

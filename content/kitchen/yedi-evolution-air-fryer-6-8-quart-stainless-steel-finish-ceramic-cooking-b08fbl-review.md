@@ -1,4 +1,5 @@
 ---
+
 title: "Yedi Evolution Air Fryer, 6.8 Quart, Stainless-Steel Finish,"
 seo_title: "Yedi Evolution Air Fryer, 6.8 Quart, Stainless-Ste Review"
 meta_description: "Our full yedi evolution air fryer, 6.8 quart, stainless-steel finish, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08FBLZD8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vmuvOUeSS._AC_SL1435_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Yedi Evolution 6.8-quart air fryer sits in a crowded field of mid-size basket fryers, but it carves out a specific niche: big capacity with a genuinely non-stick ceramic basket.** After 215 Amazon ratings averaging 4.3 stars, the pattern is clear — this is a workhorse for families, not a gadget for single-serve snacking.

@@ -1,4 +1,5 @@
 ---
+
 title: "Garage Door Strut 16 Foot, 16 Ft Garage Door Strut, Heavy Du"
 seo_title: "Garage Door Strut 16 Foot Review: Heavy-Duty Bracing That Works"
 meta_description: "Honest review of the 16-ft garage door strut: build quality, real-world performance, installation tips, and who should buy it. 4.3★ from 215 ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C5RB566S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w0jctHOuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 16-foot length in one piece — no weak splice joints like shorter struts bolted together"
   - "Heavy-gauge steel with pre-drilled holes that line up with standard torsion spring hardware"
   - "Straight, true, and well-packaged — arrives without bends or kinks, per multiple buyer reports"
-cons:
+cons: 
   - "Does not include mounting hardware — you'll need your own bolts and nuts"
   - "At 16 feet, it's awkward to handle solo; a second person makes installation dramatically easier"
+
 ---
 
 ## Why a Strut Matters More Than You Think

@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Food Chopper Express Chop with 200-Watt, 16-Ounce Bowl"
 seo_title: "Ninja Food Chopper Express Chop with 200-Watt, 16- Review"
 meta_description: "Our full ninja food chopper express chop with 200-watt, 16-ounce bowl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00HL3TBDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FwbHQaUUL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ninja Food Chopper Express Chop: Small Machine, Big Utility

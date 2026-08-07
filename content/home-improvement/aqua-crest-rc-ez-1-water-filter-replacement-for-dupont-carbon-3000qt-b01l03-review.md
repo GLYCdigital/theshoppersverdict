@@ -1,4 +1,5 @@
 ---
+
 title: "AQUA CREST RC EZ 1 Water Filter, Replacement for DuPontÂ® Ca"
 seo_title: "AQUA CREST RC EZ 1 Water Filter Review: Honest Look"
 meta_description: "AQUA CREST RC EZ 1 water filter review: Does this DuPont replacement deliver clean water? We tested performance, lifespan & value. Read before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01L03D16A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nRSdG86PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Certified replacement for DuPont calcium filters at roughly half the OEM price — same 3,000-gallon capacity"
   - "Tool-free twist-and-lock installation takes under 60 seconds with no plumber needed"
   - "Consistent taste/odor reduction reported across hard water areas"
-cons:
+cons: 
   - "No NSF certification listed — some buyers may want third-party validation for drinking water"
   - "Lifespan claims (6 months) assume average household use; heavy users will replace sooner"
+
 ---
 
 # AQUA CREST RC EZ 1 Water Filter Review: The Smart DuPont Alternative

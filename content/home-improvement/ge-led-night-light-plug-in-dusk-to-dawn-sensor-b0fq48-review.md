@@ -1,4 +1,5 @@
 ---
+
 title: "GE LED Night Light, Plug-in, Dusk to Dawn Sensor"
 seo_title: "GE LED Night Light Review: Dusk to Dawn Sensor, 2026 inch"
 meta_description: "GE LED plug-in night light with dusk-to-dawn sensor: honest review of brightness, build, and reliability from 235+ Amazon ratings. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQ4819PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hAU9nAEEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn automation — no timer fiddling, sensor responds consistently to ambient light changes"
   - "Energy-efficient LED draws negligible power; cool to the touch even after 8+ hours of continuous use"
   - "Compact footprint that doesn't block the second outlet — fits flush against the wall"
-cons:
+cons: 
   - "Sensor has a slight lag (30-60 seconds) when transitioning between light and dark conditions"
   - "Fixed brightness — no dimming options for users who want a softer glow in bedrooms or nurseries"
+
 ---
 
 ## The $10 Fix for Dark Hallways You Keep Forgetting About

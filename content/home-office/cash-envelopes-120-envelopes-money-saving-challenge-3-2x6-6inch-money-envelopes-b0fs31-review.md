@@ -1,23 +1,25 @@
 ---
+
 title: "Cash Envelopes -120 Envelopes Money Saving Challenge, 3.2x6."
 seo_title: "Cash Envelopes 120 Pack Review: Save Smarter in 2026 inch  "
 meta_description: "Honest review of 120 cash envelopes for budgeting. See build quality, real user feedback, and whether this money-saving system is worth your cash."
 slug: "cash-envelopes-120-envelopes-money-saving-challenge-3-2x6-6inch-money-envelopes-b0fs31-review"
 image_alt: "120-pack cash envelopes laid flat showing 3.2x6 inch size and pastel color options"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FS31WGWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EJ1O-dMLL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Heavyweight 120gsm paper resists tearing at the corners even with daily use"  
   - "Uniform 3.2x6-inch size fits standard checkbook registers and most wallets"  
   - "Blank front allows custom labeling—no pre-printed categories you'll outgrow"  
-cons:  
+cons: 
   - "Adhesive flap is strong but not resealable—once sealed, you're committed"  
   - "Paper is thicker than typical office envelopes but not waterproof; keep away from drinks"
+
 ---
 
 **The 120-Envelope System That Actually Makes Budgeting Stick**  

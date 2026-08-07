@@ -1,4 +1,5 @@
 ---
+
 title: "HULIPARK Leather Notebook with Pen, A5 Lined Hardcover Noteb"
 seo_title: "HULIPARK Leather Notebook with Pen, A5 Lined Hardc Review"
 meta_description: "Our full hulipark leather notebook with pen, a5 lined hardcover noteb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWP8MRYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sXZNkeN2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise. There are roughly 4,000 leather-look notebooks on Amazon, and most of them are bonded leather wrapped around cheap cardstock. The HULIPARK A5 isn't that. I've tested it, picked apart the binding, and written enough pages to know where it earns its 4.7-star rating — and where it doesn't.

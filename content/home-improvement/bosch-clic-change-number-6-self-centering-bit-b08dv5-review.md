@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch Clic-Change Number 6 Self-Centering Bit"
 seo_title: "Bosch Clic-Change #6 Self-Centering Bit Review (2026)"
 meta_description: "Bosch Clic-Change #6 self-centering bit review: Does this 4.7-star screw guide deliver dead-center pilot holes? Real testing, pros, cons, and buying verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08DV5MS16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DdDmxUgDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spring-loaded sleeve centers the bit in countersunk screw holes, eliminating the frustrating walk that ruins cabinet-grade work"
   - "Clic-Change hex shank locks into any standard quick-change chuck without a separate adapter"
   - "Number 6 sizing matches the most common cabinet screw dimension, making it a daily driver rather than a specialty tool"
-cons:
+cons: 
   - "The spring mechanism adds length, making it awkward in tight corners or when working close to edges"
   - "Not a full drill bit set — you'll need to pair it with a separate twist drill for actual hole cutting"
+
 ---
 
 If you've ever tried to drive a screw into a pre-drilled pilot hole and watched the bit skate off-center, you know the frustration. The Bosch Clic-Change Number 6 Self-Centering Bit exists to end that particular annoyance. At 4.7 stars across 235 Amazon ratings, it's clearly doing something right — but is it worth adding to your kit? Let's dig in.

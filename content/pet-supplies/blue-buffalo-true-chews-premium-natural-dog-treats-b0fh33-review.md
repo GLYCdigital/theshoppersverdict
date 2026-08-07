@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo True Chews Premium Natural Dog Treats"
 seo_title: "Blue Buffalo True Chews Review: Natural Dog Treats Worth It?"
 meta_description: "Honest Blue Buffalo True Chews review: real meat ingredients, texture, value, and what picky dogs think. See pros, cons, and verdict before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FH33WVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816bZ7N3NZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First ingredient is real deboned meat (chicken, beef, or salmon) with no poultry by-product meal"
   - "Soft, meaty texture that breaks apart easily — suitable for senior dogs and small breeds with dental issues"
   - "Made in USA facilities with globally sourced ingredients, backed by Blue Buffalo's 100% Feed Safe guarantee"
-cons:
+cons: 
   - "Priced higher per ounce than grocery-store training treats — you're paying for the natural ingredient label"
   - "Some buyers report inconsistent batch sizes — occasional smaller or crumbly pieces in the bag"
+
 ---
 
 ## The Short Version

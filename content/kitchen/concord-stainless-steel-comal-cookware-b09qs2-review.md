@@ -1,4 +1,5 @@
 ---
+
 title: "Concord Stainless Steel Comal Cookware"
 seo_title: "Concord Stainless Steel Comal Review: Worth It? (2026)"
 meta_description: "Honest Concord Stainless Steel Comal review: 4.7-star cookware for tortillas, flatbreads & more. See what buyers love, where it falls short, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09QS29G3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51N9uiacwsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Heavy-gauge tri-ply construction heats evenly across the full 11-inch surface — no hot spots when making tortillas"
   - "Fully flat cooking surface with no ridges means it doubles as a griddle for eggs, pancakes, and flatbreads"
   - "Oven-safe up to 500°F and compatible with induction, gas, and electric cooktops"
-cons:
+cons: 
   - "No helper handle — the single long handle makes it awkward to move when loaded with food"
   - "Stainless steel requires patience and preheating; food sticks if you rush it"
+
 ---
 
 If you've ever watched a tortilla puff up perfectly on a street-cart comal and thought, "I could do that at home," the Concord Stainless Steel Comal is the pan that makes that happen. But it's not magic — it's physics, and you need to respect the preheat.

@@ -1,4 +1,5 @@
 ---
+
 title: "NutriMill Artiste Kitchen Stand Mixer"
 seo_title: "NutriMill Artiste Kitchen Stand Mixer Review: Verdict | T"
 meta_description: "Our full nutrimill artiste kitchen stand mixer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077GBQ21M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MN5h3RUcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most stand mixers in this category are built to knead white bread dough and whip cream. The **NutriMill Artiste** is built for something harder — dense, heavy, whole-grain doughs that stall lesser machines. If you bake with freshly milled flour, you already know the problem. This mixer is the answer.

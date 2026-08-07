@@ -1,4 +1,5 @@
 ---
+
 title: "12 Pack of 10.1 Oz Dap 18305 Dynaflex 230 Clear Premium Wind"
 seo_title: "DAP Dynaflex 230 Clear Review: 12-Pack Worth It?"
 meta_description: "DAP Dynaflex 230 clear sealant 12-pack review: paintable, waterproof, flexible. Real pros, cons, and verdict for DIYers and pros."
@@ -9,16 +10,17 @@ date: 2026-08-06
 price: null
 review_count: 220
 amazon_rating: 4.4
-pros:
+pros: 
   - "Cures to a truly clear, paintable finish with low VOC formula — no yellowing over time"
   - "10.1 oz tubes are standard size, but the 12-pack pricing brings per-tube cost down meaningfully"
   - "Remains flexible down to -40°F and resists cracking better than basic acrylic latex caulk"
-cons:
+cons: 
   - "Clear formula can look milky/white before fully curing (24+ hours) — impatient DIYers may panic"
   - "Not suitable for fully submerged or constant water contact applications like fish tanks"
   - "Gun required — no squeeze-tube option, so budget an extra $8-15 for a caulking gun"
 amazon_url: "https://www.amazon.com/dp/B002YCD6GC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SeWCMHgYL._AC_SY300_SX300_QL70_ML2_.jpg"
+
 ---
 
 # DAP Dynaflex 230 Clear: 12 Tubes of Honest Flexibility

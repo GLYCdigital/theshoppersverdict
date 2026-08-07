@@ -1,4 +1,5 @@
 ---
+
 title: "6 Pack Serving Tongs Kitchen Tongs, Buffet Tongs, Stainless"
 seo_title: "6 Pack Serving Tongs Review: Stainless Steel Buffet Tongs"
 meta_description: "Honest 6 pack serving tongs review: stainless steel buffet tongs with 4.6★ rating. Are they durable? Spring-loaded? Read before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B65VPWXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gt7nE4F1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six-piece set covers every serving scenario — salad, ice, bread, pasta — without mixing flavors or needing mid-meal washing"
   - "Scalloped, angled tips grip slippery items (cherry tomatoes, chicken wings) far better than flat-edged tongs"
   - "One-piece stainless construction with no rivets or springs means nothing to break, rust, or trap food particles"
-cons:
+cons: 
   - "No locking mechanism, so storage requires a crock or drawer organizer to keep them tidy"
   - "Solid steel construction makes them noticeably heavier than stamped-metal budget tongs — hand fatigue possible during long buffets"
+
 ---
 
 Let me be blunt: you don't need another set of flimsy tongs that bend under a heavy roast and snap after three months. The 6 Pack Serving Tongs from this stainless set actually solves the problems most tongs ignore — and at a 4.6-star average across 229 ratings, I'm not the only one who noticed.

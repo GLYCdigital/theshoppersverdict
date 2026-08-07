@@ -1,13 +1,14 @@
 ---
+
 title: "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Rose Quartz | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free"
 seo_title: "STANLEY IceFlow 2.0 Review: Verdict (4.7/5) | TSV"
 meta_description: "The color is even more beautiful in person, and the quality is exactly what I 72,939+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "stanley-iceflow-2-0-flip-straw-tumbler-30-oz-rose-quartz-easy-review"
 image_alt: "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Rose Quartz | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak R"
-keywords:
+keywords: 
   - "stanley iceflow 20 review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the STANLEY IceFlow 2.0 Flip?"
     answer: "The color is even more beautiful in person, and the quality is exactly what I expected That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the STANLEY IceFlow 2.0 Flip?"
@@ -20,12 +21,13 @@ review_count: 72939
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR9ML5X9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mLnHdRpxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The color is even more beautiful in person."
   - "If you're looking for a high-quality tumbler that looks great and performs even better."
   - "It's sturdy, easy to carry."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The STANLEY IceFlow 2.0 has become the default answer to "what water bottle should I buy?" — and with 72,939 ratings averaging 4.7 stars, the crowd has spoken. But is the 30 oz Rose Quartz version actually worth your money, or is this just another hyped tumbler riding a brand name? I tested it against cheaper competitors and pricier premium bottles. Here's the unvarnished truth.

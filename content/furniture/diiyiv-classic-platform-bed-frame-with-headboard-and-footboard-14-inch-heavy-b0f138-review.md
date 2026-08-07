@@ -1,4 +1,5 @@
 ---
+
 title: "DIIYIV Classic Platform Bed Frame with Headboard and Footboa"
 seo_title: "DIIYIV Platform Bed Frame Review: Sturdy, No Box Spring Needed"
 meta_description: "Honest DIIYIV platform bed frame review: 14-inch clearance, steel slats, tool-free assembly. Is it worth the buy? Real pros, cons & verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F138BDGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91v-Uch8gzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14 inches of under-bed clearance fits most storage bins and robot vacuums"
   - "Tool-free assembly with labeled parts — most buyers finish in under 30 minutes"
   - "Steel slat system eliminates box spring need and supports heavy mattresses without sagging"
-cons:
+cons: 
   - "Headboard height feels low for taller mattress stacks — check your mattress thickness first"
   - "No center leg on some sizes can create slight flex under 300+ lb loads"
+
 ---
 
 ## Does the DIIYIV Platform Bed Actually Earn Its 4.5 Stars?

@@ -1,4 +1,5 @@
 ---
+
 title: "Brother PT-M95 P-Touch Monochrome Label Maker Bundle (4 Labe"
 seo_title: "Brother PT-M95 Label Maker Review: Worth It? (2026)"
 meta_description: "Brother PT-M95 P-Touch label maker bundle review: 4 tape included, 180 DPI printing, and easy keyboard. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09QXY689D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611N5fUXNyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact 4.5 x 7.5 inch footprint fits in a desk drawer, battery-powered so it works anywhere"
   - "Bundle includes four 0.47-inch laminated tapes (two black-on-white, two black-on-yellow) — roughly $20 of extra value"
   - "QWERTY keyboard with one-touch functions makes it genuinely usable without a smartphone app"
-cons:
+cons: 
   - "180 DPI monochrome only — no barcodes, no symbols library beyond 14 pre-set icons, no label design flexibility"
   - "Requires 6 AAA batteries (not included) and has no AC adapter option; heavy use will drain them fast"
   - "Tape cartridges are proprietary and cost $10–$15 each; the included tapes are only 26 feet total"
+
 ---
 
 The Brother PT-M95 is the label maker for people who don't want to fiddle with a smartphone app. It's a standalone, keyboard-driven device that does exactly one thing — print monochrome labels — and does it reliably. With 225 Amazon ratings averaging 4.5 stars, it's clearly satisfying a specific need. But is that need *yours*? Let's break down what you're actually getting.

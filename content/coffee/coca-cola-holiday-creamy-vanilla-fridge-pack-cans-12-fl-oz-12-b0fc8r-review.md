@@ -1,4 +1,5 @@
 ---
+
 title: "Coca-Cola Holiday Creamy Vanilla Fridge Pack Cans, 12 fl oz,"
 seo_title: "Coca-Cola Holiday Creamy Vanilla Review: Worth It? (2026)"
 meta_description: "Honest Coca-Cola Holiday Creamy Vanilla fridge pack review: taste, sweetness, value vs regular Coke. See if this seasonal soda's 4.5-star rating holds up."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FC8R1KPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZaXoen6HL._SL1500_.jpg"
-pros:
+pros: 
   - "Distinct vanilla-forward flavor that's noticeably creamier than standard Vanilla Coke, not just a rebrand"
   - "Fridge pack 12-can format fits neatly in standard refrigerator door shelves and stacks well"
   - "Seasonal availability creates genuine scarcity value — this won't be around in March"
-cons:
+cons: 
   - "Significantly sweeter than regular Coke (39g sugar per can) — some buyers report it's almost dessert-like"
   - "Limited-time release means you can't reliably stock up year-round; prices on Amazon fluctuate wildly between seasons"
+
 ---
 
 **Coca-Cola Holiday Creamy Vanilla Fridge Pack Cans, 12 fl oz — The Seasonal Soda Worth Hunting For**

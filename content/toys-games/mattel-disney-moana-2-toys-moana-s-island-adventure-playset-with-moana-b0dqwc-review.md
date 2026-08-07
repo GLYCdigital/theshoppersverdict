@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Disney Moana 2 Toys, Moanaâ€™s Island Adventure Plays"
 seo_title: "Mattel Disney Moana 2 Toys, Moanaâ€™s Island Adven Review"
 meta_description: "Our full mattel disney moana 2 toys, moanaâ€™s island adventure plays review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DQWC1M24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cIpnSuk6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If your kid can't stop singing "We're Back" from *Moana 2*, this playset delivers the movie's key island moments in a durable, compact package — but it's not for toddlers.

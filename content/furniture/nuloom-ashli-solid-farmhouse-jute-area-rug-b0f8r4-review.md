@@ -1,4 +1,5 @@
 ---
+
 title: "nuLOOM Ashli Solid Farmhouse Jute Area Rug"
 seo_title: "nuLOOM Ashli Solid Farmhouse Jute Area Rug Review: Verdic"
 meta_description: "Our full nuloom ashli solid farmhouse jute area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F8R4F8W2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91EcLH22L0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for that warm, textured farmhouse look, you've probably stared at this rug's product page for a while. The nuLOOM Ashli Solid Farmhouse Jute Area Rug is one of those pieces that photographs beautifully — but does it hold up when your dog runs across it daily? I've dug through the specs, the 215 ratings, and the buyer feedback to give you the straight story.

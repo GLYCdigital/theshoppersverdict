@@ -1,4 +1,5 @@
 ---
+
 title: "VIIVRIA 24V 40VA Doorbell Transformer - Heavy-Duty Copper Co"
 seo_title: "VIIVRIA 24V 40VA Doorbell Transformer - Heavy-Duty Review"
 meta_description: "Our full viivria 24v 40va doorbell transformer - heavy-duty copper co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07Q4PPKQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e2oYsTj4L._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Ring Pro keeps dropping Wi-Fi or your smart doorbell chimes like a dying frog, the problem isn't the doorbell — it’s the transformer. Most stock units put out a weak 16V/10VA, and modern video doorbells are power-hungry. The VIIVRIA 24V 40VA is the standard fix I see recommended across home automation forums, but does it live up to the 4.3-star hype? I tested it against a multimeter and a Nest Doorbell (wired) to give you the real breakdown.

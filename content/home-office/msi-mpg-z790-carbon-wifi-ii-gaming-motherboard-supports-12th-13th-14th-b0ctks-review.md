@@ -1,4 +1,5 @@
 ---
+
 title: "MSI MPG Z790 Carbon WiFi II Gaming Motherboard (Supports 12t"
 seo_title: "MSI MPG Z790 Carbon WiFi II Gaming Motherboard (Su Review"
 meta_description: "Our full msi mpg z790 carbon wifi ii gaming motherboard (supports 12t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CTKSFD2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91g-akagILL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing: the MSI MPG Z790 Carbon WiFi II is a motherboard for people who want to build a top-tier Intel system *today* and not touch it for another five years. It's not the cheapest Z790 board, nor the most feature-packed. But it hits a specific sweet spot that's worth your attention.

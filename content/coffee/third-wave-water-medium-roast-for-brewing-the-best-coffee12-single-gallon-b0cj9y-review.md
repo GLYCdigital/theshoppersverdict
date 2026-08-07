@@ -1,4 +1,5 @@
 ---
+
 title: "Third Wave Water Medium Roast For Brewing The Best Coffee12 "
 seo_title: "Third Wave Water Medium Roast For Brewing The Best Review"
 meta_description: "Our full third wave water medium roast for brewing the best coffee12  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ9Y7XP5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610oOy1FsdL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the honest, no-fluff review your shoppers need:

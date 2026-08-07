@@ -1,4 +1,5 @@
 ---
+
 title: "UNMERA Squat Wedge Block 2PCS Non Slip Professional Ramp, Pl"
 seo_title: "UNMERA Squat Wedge Block 2PCS Non Slip Professiona Review"
 meta_description: "Our full unmera squat wedge block 2pcs non slip professional ramp, pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CVWVLKVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xBA-XyYTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the videos: heels elevated, knees tracking forward, butt hitting the grass. The UNMERA Squat Wedge Block 2PCS is a set of two angled plastic ramps designed to do exactly that — fix your squat depth without requiring a double-jointed ankle. At 4.4 stars from 220 buyers, it's a solid mid-tier pick in a crowded market of plywood scraps and flimsy foam. But is it worth your gym bag space? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Brother BRTDR221CL - Genuine DR221CL Color Laser Drum Unit"
 seo_title: "Brother BRTDR221CL Review: Genuine DR221CL Drum Unit"
 meta_description: "Honest Brother BRTDR221CL review: 4.6/5 rated DR221CL color laser drum. Real-world testing, page yields, compatibles vs genuine, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0141MKIWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CoaM+XLdL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine Brother part — no compatibility guesswork or firmware issues"
   - "Rated for 18,000 pages (black) and 18,000 pages per color, which is genuinely competitive"
   - "Sealed OEM packaging with protective wrapping; arrives ready to install in under 5 minutes"
-cons:
+cons: 
   - "Premium price tag — you're paying 2-3x what a compatible drum costs"
   - "No reset chip included — you'll need to manually reset the drum counter via the printer menu"
+
 ---
 
 Let's cut through the confusion right now: the Brother DR221CL drum unit is *not* a toner cartridge. It's the imaging drum that works alongside your toner. Skip this part and your prints will come out streaky, faded, or with that annoying vertical line down the middle. And if you're staring at a "Replace Drum" message on your HL-3140CW, HL-3150CDW, HL-3170CDW, MFC-9130CW, MFC-9330CDW, or MFC-9340CDW, this is the part you need.

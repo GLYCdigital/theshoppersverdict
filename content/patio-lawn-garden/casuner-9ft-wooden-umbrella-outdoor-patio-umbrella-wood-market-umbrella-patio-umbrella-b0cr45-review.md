@@ -1,4 +1,5 @@
 ---
+
 title: "CASUNER 9ft Wooden Umbrella, Outdoor Patio Umbrella, Wood Ma"
 seo_title: "CASUNER 9ft Wooden Umbrella Review: Worth It? (2026)"
 meta_description: "Honest CASUNER 9ft wooden patio umbrella review: build quality, wind resistance, and real buyer feedback. See if this wood market umbrella earns its 4.4 stars."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CR45NJBR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qouM9sISL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hardwood pole and ribs — not the hollow aluminum you see at big-box stores"
   - "9-foot canopy provides real shade for a 4-6 person table without overwhelming a standard deck"
   - "Fade-resistant 180g polyester canopy holds color through a full season of afternoon sun"
-cons:
+cons: 
   - "No tilt or crank mechanism — you adjust height manually via push-button, which is fine for most but not for angled sun"
   - "Wood pole needs annual sealing or oiling to prevent cracking in dry climates"
   - "Does not include a base — factor in $50-80 for a weighted stand before you buy"
+
 ---
 
 Let's be direct: most patio umbrellas under $100 are disposable. The poles bend, the fabric fades by August, and you're shopping for a replacement by next spring. The CASUNER 9ft Wooden Umbrella sits in a slightly different category — it's a real wood-market umbrella with a 4.4-star average across 220 ratings, and it's worth understanding before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja HB150C/HB152 Foodi Heat-iQ Blender, 64 oz, Black"
 seo_title: "Ninja HB150C/HB152 Foodi Heat-iQ Blender, 64 oz, B Review"
 meta_description: "Our full ninja hb150c/hb152 foodi heat-iq blender, 64 oz, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07S65293D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zf-yTtADL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the closest thing to a countertop "soup robot" most households will ever need.** The Ninja Foodi Heat-iQ is a blender that also heats — not a heated blender attachment gimmick, but a real 1000-watt heating element built into the base that cooks ingredients from raw to simmering. At 4.5 stars from 225 ratings, it's not perfect, but it's genuinely useful for anyone who makes soup, sauce, or hot purees more than twice a month.

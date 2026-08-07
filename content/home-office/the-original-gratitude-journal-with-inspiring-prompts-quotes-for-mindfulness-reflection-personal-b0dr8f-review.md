@@ -1,4 +1,5 @@
 ---
+
 title: "The Original Gratitude Journal with Inspiring Prompts & Quot"
 seo_title: "The Original Gratitude Journal with Inspiring Prom Review"
 meta_description: "Our full the original gratitude journal with inspiring prompts & quot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DR8FNMT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Iy6xCEzDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another notebook with 'gratitude' stamped on the cover?**  

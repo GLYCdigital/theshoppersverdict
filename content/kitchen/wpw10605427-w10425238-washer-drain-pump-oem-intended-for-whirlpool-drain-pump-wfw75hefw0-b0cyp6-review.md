@@ -1,4 +1,5 @@
 ---
+
 title: "WPW10605427 W10425238 Washer Drain Pump (OEM) Intended for W"
 seo_title: "WPW10605427 W10425238 Washer Drain Pump (OEM) Inte Review"
 meta_description: "Our full wpw10605427 w10425238 washer drain pump (oem) intended for w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYP62S4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AU26HcdjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Whirlpool washer stopped mid-cycle with an F21 error code and a few inches of water still sitting in the drum, you already know what this is. The WPW10605427 is the OEM replacement drain pump that keeps Whirlpool, Maytag, and Amana front-loaders alive. At 4.7 stars across 235 ratings, it's clearly doing something right. Here's what you need to know before you buy.

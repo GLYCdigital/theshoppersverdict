@@ -1,4 +1,5 @@
 ---
+
 title: "Costzon 2-Seater Ride on Train with Carriage, 6V Ride on Toy"
 seo_title: "Costzon 2-Seater Ride-On Train Review: 6V Carriage Toy"
 meta_description: "Costzon 2-Seater Ride-On Train with Carriage review: seats 2 kids, 6V power, real sounds. See pros, cons, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FZ9QDMCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iixVBnCcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two-seat layout means siblings or friends ride together without fighting over who drives — the 2-seater design genuinely fits two kids side-by-side"
   - "Carriage attaches to the back, adding a third rider option or cargo space for toys, which most 2-seaters don't offer"
   - "6V motor is enough for flat driveways and sidewalks; parents report it handles light grass with a push assist"
-cons:
+cons: 
   - "Battery life tops out around 45–60 minutes of continuous use — plan for recharging between play sessions"
   - "Assembly takes about an hour with a Phillips screwdriver; the carriage hitch alignment can be fiddly on first install"
+
 ---
 
 **Is this the train that ends the "my turn" battles?** If you've got two kids within a few years of each other, the Costzon 2-Seater Ride-On Train with Carriage is built for exactly your household. It's not the fastest or most powerful ride-on on the market, but it solves a specific problem: siblings who both want to drive.

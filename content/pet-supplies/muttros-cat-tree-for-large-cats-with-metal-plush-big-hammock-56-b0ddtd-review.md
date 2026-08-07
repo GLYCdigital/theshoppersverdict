@@ -1,4 +1,5 @@
 ---
+
 title: "MUTTROS Cat Tree for Large Cats with Metal Plush Big Hammock"
 seo_title: "MUTTROS Cat Tree for Large Cats with Metal Plush B Review"
 meta_description: "Our full muttros cat tree for large cats with metal plush big hammock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDTD4W2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zxNhEluGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a large cat, you already know the struggle: most cat trees are built for 8-pound kittens and sway like a palm tree in a hurricane when your 15-pound Maine Coon launches onto the top perch. The MUTTROS Cat Tree for Large Cats tries to solve that with a metal-reinforced frame and a hammock big enough for a small dog. After digging through 220 ratings and the spec sheet, here's the real picture.

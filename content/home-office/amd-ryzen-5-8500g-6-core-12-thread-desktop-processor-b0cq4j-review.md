@@ -1,4 +1,5 @@
 ---
+
 title: "AMD Ryzen 5 8500G 6-Core, 12-Thread Desktop Processor"
 seo_title: "AMD Ryzen 5 8500G Review: Best Budget CPU for Office PCs?"
 meta_description: "AMD Ryzen 5 8500G review: Is this 6-core, 12-thread APU with Radeon graphics the right budget pick for your office PC? Performance, value & drawbacks."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ4JV8D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51193NWpmHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Radeon 740M iGPU handles 1080p office multitasking and light gaming without a dedicated graphics card"
   - "Efficient 65W TDP keeps cooling costs low and office PCs whisper-quiet"
   - "AM5 platform leaves a clear upgrade path to future Ryzen 9000-series CPUs"
-cons:
+cons: 
   - "Only 8 PCIe 4.0 lanes for the GPU slot limits discrete graphics card performance"
   - "Two Zen 4c efficiency cores run at lower clocks, causing occasional stutter in heavy thread workloads"
   - "No bundled cooler in the box — factor in $25–35 for a compatible AM5 cooler"
+
 ---
 
 If your office PC needs a processor that handles spreadsheets, video calls, and the occasional light photo edit without demanding a $300 graphics card, the AMD Ryzen 5 8500G is quietly one of the smartest buys at $149. This isn't a flashy flagship — it's a workhorse with an integrated GPU that actually works. But it comes with a few quirks you should know before you click buy.

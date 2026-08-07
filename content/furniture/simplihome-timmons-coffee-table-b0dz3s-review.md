@@ -1,4 +1,5 @@
 ---
+
 title: "SIMPLIHOME Timmons Coffee Table"
 seo_title: "SIMPLIHOME Timmons Coffee Table Review: Verdict | TSV"
 meta_description: "Our full simplihome timmons coffee table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZ3SDMWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91o7gQWVGML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of flat-pack coffee tables that wobble after six months, the SIMPLIHOME Timmons deserves a hard look. This is real pine wood—not veneer over cardboard—with a design that actually thinks about how you live. After digging through 220 Amazon ratings and the build specs, here's the honest breakdown.

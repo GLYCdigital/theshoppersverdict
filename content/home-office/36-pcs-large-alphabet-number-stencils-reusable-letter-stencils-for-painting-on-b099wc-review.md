@@ -1,4 +1,5 @@
 ---
+
 title: "36 Pcs Large Alphabet & Number Stencils, Reusable Letter Ste"
 seo_title: "36 Pcs Alphabet & Number Stencils Review (2026): Worth It?"
 meta_description: "Honest review of 36 Pcs Large Alphabet & Number Stencils. Tested for paint, chalk, and crafts. See pros, cons, and who should buy. 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B099WCBBLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y5UH56Y3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 36-piece set covers A-Z, 0-9, and basic punctuation — no hunting for missing letters mid-project"
   - "Flexible mylar material hugs curved surfaces like tumblers, bottles, and sign boards without lifting"
   - "Each stencil measures roughly 6x6 inches with 2-inch characters — big enough for readable signage, small enough for storage"
-cons:
+cons: 
   - "Thin material can curl at edges if you press too hard with spray adhesive — needs a light touch"
   - "Letters are all caps only — no lowercase or script options for decorative projects"
+
 ---
 
 If you've ever hand-painted a sign and watched the "e" wobble into an unrecognizable blob, you know the value of a decent stencil. This 36-piece set from Amazon's generic craft supply tier aims to end that frustration. After 225 ratings averaging 4.5 stars, it's clearly earning its keep in hobby rooms and workshops. But is it the right set for your specific project? Let's dig into what you actually get.

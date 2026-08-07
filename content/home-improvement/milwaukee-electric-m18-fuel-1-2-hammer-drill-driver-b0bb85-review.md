@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18 Fuel. 1/2 Hammer Drill/Driver"
 seo_title: "Milwaukee Electric - M18 Fuel. 1/2 Hammer Drill/Dr Review"
 meta_description: "Our full milwaukee electric - m18 fuel. 1/2 hammer drill/driver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BB854SJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Bl8lDvqCL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're a professional framer, electrician, or serious DIYer who's been fighting a corded drill or a weak 18V compact, the Milwaukee M18 Fuel 1/2" Hammer Drill is the tool that makes you wonder why you waited so long.

@@ -1,4 +1,5 @@
 ---
+
 title: "CLIO THE ORIGINAL CUSHION_ALL"
 seo_title: "CLIO Original Cushion Review: Worth the Hype? (2026)"
 meta_description: "Honest CLIO The Original Cushion review: coverage, wear time, shade range & real buyer feedback. Is this K-beauty cushion worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJ74S94R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hqYKJZy8L._SL1200_.jpg"
-pros:
+pros: 
   - "Natural semi-matte finish that controls oil for 6+ hours without looking flat or cakey"
   - "High-coverage formula still lets skin show through — no mask-like feel"
   - "Refill included in the box, effectively doubling the value per ounce"
-cons:
+cons: 
   - "Shade range skews light-to-medium; deeper tones are limited"
   - "Cushion puff soaks up product quickly — replace it or flip it regularly"
+
 ---
 
 ## Is CLIO's Iconic Cushion Actually Worth the K-Beauty Hype?

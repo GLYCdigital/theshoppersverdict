@@ -1,4 +1,5 @@
 ---
+
 title: "Louisville Ladder Aluminum Extension Ladder 300-Pound Capaci"
 seo_title: "Louisville Ladder Aluminum Extension Ladder 300-Po Review"
 meta_description: "Our full louisville ladder aluminum extension ladder 300-pound capaci review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003UYTZZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GYtLE5cIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most aluminum extension ladders under $150 are flimsy, wobbly death traps that flex like a fishing rod when you're 20 feet up. The Louisville Ladder Aluminum Extension Ladder is not that. It's a legitimate Type IA-rated workhorse that's been on Amazon for years with a 4.4-star average across 220 ratings — and there's a reason it's still selling.

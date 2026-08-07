@@ -1,24 +1,26 @@
 ---
+
 title: "GenStone Faux Stacked Stone Panel 41 inch  x 11.25 inch  in Northern Slate"
 seo_title: "GenStone Faux Stacked Stone Panel Review (2026): Worth It?"
 meta_description: "Honest GenStone Faux Stacked Stone Panel review: real-world install, durability, and cost vs. real stone. See pros, cons, and verdict before you buy."
 slug: "genstone-faux-stacked-stone-panel-41-x-11-25-in-northern-slate-b097hr-review"
 image_alt: "GenStone faux stacked stone panel in Northern Slate finish leaning against a wall showing textured surface"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B097HRXBK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u2ea2TJrS._SL1500_.jpg"
-pros:  
+pros: 
   - "Realistic stacked stone texture — molded from actual stone, not printed"  
   - "Lightweight at ~4 lbs per panel — one-person install with just a saw and adhesive"  
   - "UV-stable polyurethane won't crack, fade, or flake like thin veneer alternatives"  
-cons:  
+cons: 
   - "Seams are visible up close — requires careful staggering and caulking to hide"  
   - "Color variation between batches is real — order 10% extra to match"  
   - "Not paintable — the factory finish is your only option"
+
 ---
 
 **Is this the shortcut to a stone accent wall you've been eyeing, or a shortcut that'll cost you in frustration?** I've installed real stone, cultured stone, and now this GenStone panel. Here's the honest breakdown after handling the 41" x 11.25" Northern Slate panel and digging through 195 Amazon ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pentair Pool Products"
 seo_title: "Pentair Pool Products Review: Verdict | TSV"
 meta_description: "Our full pentair pool products review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CLL4FYHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hp4DtBS+L._AC_SL1064_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Pool equipment isn't sexy. Nobody buys a pump because they want to show it off at a backyard barbecue. But when your filter clogs mid-July and the water turns green, that unglamorous box of plastic and metal becomes the most important thing in your yard. Pentair has spent decades building a reputation in this space, and this particular model shows why — and also why you'll pay for the name.

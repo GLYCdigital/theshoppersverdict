@@ -1,4 +1,5 @@
 ---
+
 title: "Convenience Concepts Northfield Hall Console Table/Desk Tabl"
 seo_title: "Northfield Hall Console Table Review: Worth It? (2026)"
 meta_description: "Honest Convenience Concepts Northfield Hall Console Table review: build quality, real-world use, and who should buy it. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPNKJJZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614LmWi+jLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Multi-functional design works as a console, desk, or entry table without looking out of place"
   - "Open lower shelf provides practical storage that doesn't eat up visual space in narrow rooms"
   - "Assembles in under 30 minutes with clearly labeled parts and included hex wrench"
-cons:
+cons: 
   - "Laminate surface scratches more easily than solid wood — use felt pads under decor"
   - "Only holds up to 50 lbs on the top; heavier monitors or stacks of books will strain it"
+
 ---
 
 **The multi-tasker your hallway (or home office) has been waiting for — with a few caveats.**

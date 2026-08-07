@@ -1,4 +1,5 @@
 ---
+
 title: "Antenda Adjustable Pie Crust Shield Silicone Pie Crust Cover"
 seo_title: "Antenda Pie Crust Shield Review: Adjustable Silicone Edge Protector"
 meta_description: "Honest Antenda adjustable pie crust shield review: silicone edge cover prevents burning. See pros, cons, and who should buy it before you bake."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BY499TZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V5o7ki5PS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable silicone design fits pie pans from roughly 8 to 11 inches — no more foil origami"
   - "Single-piece construction means no metal frame to heat up and warp; can be used as a full cover to trap steam"
   - "Dishwasher-safe and reusable, so it replaces disposable foil strips that tear and slide around"
-cons:
+cons: 
   - "At 4.2 stars with 210 ratings, several buyers note it can slip off high-crimp crusts if not pinched properly"
   - "Silicone is flexible enough that it doesn't create a tight seal on deeply fluted pans — minor gaps possible"
+
 ---
 
 If you've ever watched a beautiful apple pie come out of the oven with charcoal-colored crimped edges, you know the frustration. The Antenda Adjustable Pie Crust Shield is a silicone ring designed to end that. It's a simple concept — a flexible, heat-resistant collar that sits over the crust's edge — but the execution matters. Let's dig into whether this $13-ish gadget earns its place in your drawer.

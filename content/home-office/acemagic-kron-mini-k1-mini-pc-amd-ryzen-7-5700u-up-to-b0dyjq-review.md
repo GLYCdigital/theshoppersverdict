@@ -1,4 +1,5 @@
 ---
+
 title: "ACEMAGIC Kron Mini K1 Mini PC, AMD Ryzen 7 5700U up to 4.3 G"
 seo_title: "ACEMAGIC Kron Mini K1 Review: Ryzen 7 Power in Tiny PC"
 meta_description: "ACEMAGIC Kron Mini K1 review: Ryzen 7 5700U mini PC tested for office work, multitasking, and media. Real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DYJQYS3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51e0+qENZqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ryzen 7 5700U (8 cores, 16 threads) delivers genuine desktop-class multitasking for under $300 territory"
   - "Compact 4.5×4.5×1.7-inch chassis with VESA mount — tucks behind a monitor or under a desk"
   - "Dual HDMI 2.0 ports support dual 4K@60Hz displays out of the box, no adapter needed"
-cons:
+cons: 
   - "3.6/5 Amazon rating reflects recurring Wi-Fi 6 connectivity dropouts — several buyers report needing a USB adapter"
   - "Single M.2 NVMe slot with no 2.5-inch bay; storage upgrades require cloning or fresh install"
+
 ---
 
 **The ACEMAGIC Kron Mini K1 looks like a bargain on paper — an 8-core Ryzen 7 in a chassis smaller than a paperback. But with a 3.6-star average across 180 ratings, buyers are split. Here's the real story after digging through spec sheets, user reports, and the actual hardware.**

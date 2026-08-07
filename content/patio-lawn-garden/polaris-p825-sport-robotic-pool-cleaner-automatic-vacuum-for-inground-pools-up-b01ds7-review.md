@@ -1,4 +1,5 @@
 ---
+
 title: "Polaris P825 Sport Robotic Pool Cleaner, Automatic Vacuum fo"
 seo_title: "Polaris P825 Sport Robotic Pool Cleaner, Automatic Review"
 meta_description: "Our full polaris p825 sport robotic pool cleaner, automatic vacuum fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01DS7H75C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71clPuFu1KS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Polaris P825 Sport skips the smartphone gimmicks and remote controls. It's a straightforward robotic cleaner that you drop in, press one button, and let it work. After analyzing 204 ratings and customer feedback, here's the unvarnished truth about whether it belongs in your pool.

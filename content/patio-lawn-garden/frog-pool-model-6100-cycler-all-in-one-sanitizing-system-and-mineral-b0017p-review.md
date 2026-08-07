@@ -1,4 +1,5 @@
 ---
+
 title: "FROG Pool Model 6100 Cycler - All-in-One Sanitizing System a"
 seo_title: "FROG Pool 6100 Cycler Review: Does It Really Work? (2026)"
 meta_description: "Honest FROG Pool 6100 Cycler review: 4.7/5 from 235 buyers. We break down mineral sanitizing performance, cartridge costs, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0017PT9ZO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714OE0b1OYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reduces chlorine demand by 60-75% — most buyers report softer water and fewer chemical burns"
   - "Simple 5-minute install for standard 1.5-inch plumbing; no electric or moving parts to fail"
   - "Cartridge system lasts 3-4 months per set, making ongoing costs predictable"
-cons:
+cons: 
   - "Replacement cartridges (mineral pack + frog pack) run $40-$60 every quarter — hidden recurring cost"
   - "Not compatible with saltwater pools or pools using biguanide (Baquacil) sanitizers"
   - "Reading the flow indicator requires clear view of the sight glass — awkward if installed in tight spaces"
+
 ---
 
 **FROG Pool Model 6100 Cycler Review: The Mineral Sanitizer That Slashes Your Chlorine Bill**

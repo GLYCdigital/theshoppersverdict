@@ -1,4 +1,5 @@
 ---
+
 title: "Lego City Trains Switch Tracks 60238 Building Toy Set for Ki"
 seo_title: "Lego City Trains Switch Tracks 60238 Building Toy  Review"
 meta_description: "Our full lego city trains switch tracks 60238 building toy set for ki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CG257R9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rs9katEZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you don't already own a Lego City train, this set is useless to you. But if you do, the 60238 Switch Tracks is one of those small expansions that quietly transforms your entire layout. I've tested it with both the passenger and cargo train sets, and here's what 240 Amazon reviewers (4.8 stars) and I discovered.

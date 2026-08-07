@@ -1,4 +1,5 @@
 ---
+
 title: "Misen Pre-Seasoned Carbon Steel Fry Pan â€“ Lightweight, Eve"
 seo_title: "Misen Pre-Seasoned Carbon Steel Fry Pan â€“ Lightw Review"
 meta_description: "Our full misen pre-seasoned carbon steel fry pan â€“ lightweight, eve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DS6QNVPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kZOygnYxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The carbon steel middle ground — but is it a compromise or a cop-out?

@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering - Final Fantasy Play Booster Box"
 seo_title: "Magic: The Gathering - Final Fantasy Play Booster  Review"
 meta_description: "Our full magic: the gathering - final fantasy play booster box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTMQBLSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TqluB0i3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Magic: The Gathering - Final Fantasy Play Booster Box** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

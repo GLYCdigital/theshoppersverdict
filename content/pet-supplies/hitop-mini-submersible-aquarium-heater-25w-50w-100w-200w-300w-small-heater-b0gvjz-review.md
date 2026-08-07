@@ -1,4 +1,5 @@
 ---
+
 title: "HITOP Mini Submersible Aquarium Heater -25W 50W 100W 200W 30"
 seo_title: "HITOP Mini Submersible Aquarium Heater -25W 50W 10 Review"
 meta_description: "Our full hitop mini submersible aquarium heater -25w 50w 100w 200w 30 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVJZH11F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fdh75368L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Small Tank, Big Problem — Does This Little Heater Deliver?

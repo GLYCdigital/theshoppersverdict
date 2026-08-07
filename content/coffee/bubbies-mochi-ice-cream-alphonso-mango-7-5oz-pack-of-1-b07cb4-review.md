@@ -1,4 +1,5 @@
 ---
+
 title: "Bubbies Mochi Ice Cream, Alphonso Mango 7.5oz (Pack of 1)"
 seo_title: "Bubbies Mochi Ice Cream Alphonso Mango Review (2026)"
 meta_description: "Bubbies Mochi Ice Cream Alphonso Mango 7.5oz review: tender mochi shell, real mango flavor. See if this frozen dessert is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07CB4X392/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i9ukMDTfL._SL1500_.jpg"
-pros:
+pros: 
   - "Real Alphonso mango puree as the first ingredient — that distinctive, floral-sweet Indian mango taste comes through clearly"
   - "Tender, thin mochi shell that stays soft straight from the freezer — no rock-hard glutenous rice dough"
   - "Individually wrapped 1.25oz pieces make portion control effortless; one is genuinely satisfying"
-cons:
+cons: 
   - "Only six pieces per box — at typical prices, you're paying roughly $1.25 per bite-sized dessert"
   - "Must stay frozen until serving; once thawed, the mochi shell turns sticky and the texture degrades within minutes"
+
 ---
 
 **The Mochi Ice Cream That Actually Tastes Like Mango**

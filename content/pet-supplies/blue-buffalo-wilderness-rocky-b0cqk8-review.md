@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Wilderness Rocky"
 seo_title: "Blue Buffalo Wilderness Rocky Review: Is It Worth It?"
 meta_description: "Blue Buffalo Wilderness Rocky review: protein-rich kibble for dogs. Read pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQK8JQWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XO933AQqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deboned chicken is the first ingredient, with 32% protein to support lean muscle"
   - "Includes LifeSource Bits — a precise blend of antioxidants, vitamins, and minerals"
   - "Free from chicken by-product meal, corn, wheat, soy, and artificial preservatives"
-cons:
+cons: 
   - "Significantly pricier than standard grocery-store kibble brands"
   - "Some picky eaters may turn up their noses at the kibble texture and size"
+
 ---
 
 **The Bottom Line Up Front**

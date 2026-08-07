@@ -1,4 +1,5 @@
 ---
+
 title: "K'NEX Imagine - Click & Construct Value Building Set - 522Pi"
 seo_title: "K'NEX Imagine - Click & Construct Value Building S Review"
 meta_description: "Our full k'nex imagine - click & construct value building set - 522pi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DR7DZMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716zy6076PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've only ever built with stud-and-brick systems, the K'NEX Imagine Click & Construct set is a different kind of engineering challenge. Instead of stacking blocks, you're snapping rods into connectors at specific angles — building actual working mechanisms like rolling wheels, spinning gears, and cranes that lift. As shown in the product image, this 522-piece set promises 35 different models, and for the price, that's genuinely impressive.

@@ -1,4 +1,5 @@
 ---
+
 title: "JBL Wind 3 FM Bluetooth Handlebar Speaker, Black"
 seo_title: "JBL Wind 3 FM Bluetooth Handlebar Speaker, Black Review: "
 meta_description: "Our full jbl wind 3 fm bluetooth handlebar speaker, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09YWPY5SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zJVCNELL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you ride with music, you've probably wrestled with the classic dilemma: earbuds block traffic noise (dangerous), and a phone in your pocket means you can't change tracks without stopping. The JBL Wind 3 FM sits in the middle—a purpose-built handlebar speaker that JBL claims is rugged enough for daily commuting and smart enough to handle calls and radio. At 4.5 stars across 225 ratings, the crowd consensus is positive. But is it actually worth mounting on your bars, or is this just another gadget that sounds better on paper? I tested the black version to find out.

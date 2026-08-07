@@ -1,4 +1,5 @@
 ---
+
 title: "24KF Stunning Crown Design Queen/Full Headboard, Upholstered"
 seo_title: "24KF Crown Design Queen Headboard Review: Worth It?"
 meta_description: "Honest 24KF Stunning Crown Design Queen/Full Headboard review: build quality, velvet feel, assembly gripes, and who should buy it. 4.4-star rating analyzed."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLCSNWVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617PQBx9nzL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine velvet upholstery with a soft, tactile petal-pattern tufting that elevates the whole room"
   - "Crown silhouette is dramatic but not cartoonish—looks far more expensive than the price point suggests"
   - "Works for both queen and full beds, so it's a flexible option if you swap mattresses"
-cons:
+cons: 
   - "Assembly requires drilling into your bed frame; not a simple bolt-on for all setups"
   - "Velvet shows dust and pet hair quickly—plan on weekly brushing if you have animals"
   - "Pre-drilled holes don't always align with non-standard metal frames; you may need extra hardware"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Makita - 40V Max Xgt. Brushless Cordless 2-Pc. Combo Kit 2 ("
 seo_title: "Makita - 40V Max Xgt. Brushless Cordless 2-Pc. Com Review"
 meta_description: "Our full makita - 40v max xgt. brushless cordless 2-pc. combo kit 2 ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091BMLXJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZpsXsxxeL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been holding off on the Makita 40V XGT platform, waiting for the lineup to mature, this 2-piece combo kit is the signal you've been waiting for. The XGT system launched with a lot of fanfare and a hefty price tag, but now that the ecosystem has expanded, this hammer drill and impact driver pairing is the sweet spot for serious DIYers and professionals ready to ditch extension cords for good.

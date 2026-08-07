@@ -1,4 +1,5 @@
 ---
+
 title: "Miller Classic Series Auto-Darkening Welding Helmet - Profes"
 seo_title: "Miller Classic Series Auto-Darkening Welding Helme Review"
 meta_description: "Our full miller classic series auto-darkening welding helmet - profes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2TGHQPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RcKa6-q8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Miller Classic Series Auto-Darkening Welding Helmet isn't flashy. It doesn't have Bluetooth, solar panels, or a battery indicator that doubles as a phone app. What it does have is the kind of dependable performance that makes you forget you're wearing a helmet at all — which is exactly what you want when you're 20 minutes into a bead run.

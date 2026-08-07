@@ -1,4 +1,5 @@
 ---
+
 title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean, Freeze-D"
 seo_title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean Review"
 meta_description: "Our full yamasan kyoto uji japanese natto fermented soybean, freeze-d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CBM7ZR7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812DkkuGnSL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean, Freeze-D"
 seo_title: "YAMASAN Kyoto Uji Natto Review: Freeze-Dried Beans Worth It?"

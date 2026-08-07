@@ -1,4 +1,5 @@
 ---
+
 title: "recteq Patio Legend 400 Wood Pellet Smoker Grill | Electric "
 seo_title: "recteq Patio Legend 400 Wood Pellet Smoker Grill | Review"
 meta_description: "Our full recteq patio legend 400 wood pellet smoker grill | electric  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDMNXCBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51USy6Gs24L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most compact pellet grills under $500 are flimsy, temperature-swinging toys. The recteq Patio Legend 400 is not that. It's a real smoker that happens to fit on a balcony.

@@ -1,4 +1,5 @@
 ---
+
 title: "Noxzema Classic Clean Cleanser Original Deep Cleansing"
 seo_title: "Noxzema Classic Clean Cleanser Original Deep Clean Review"
 meta_description: "Our full noxzema classic clean cleanser original deep cleansing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G4BDQ63X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715Gi8B1h6L._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Blue Jar That Refuses to Quit

@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's"
 seo_title: "Campbell's Coffee Maker Review: Worth It? (2026)"
 meta_description: "Honest Campbell's coffee maker review: 4.6-star rated, 229 reviews. We break down build quality, brew performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRW43L1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BOtJmU+kL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature for full extraction"
   - "Stainless steel thermal carafe keeps coffee hot for 4+ hours"
   - "Programmable timer with 24-hour advance scheduling"
-cons:
+cons: 
   - "Carafe lid is stiff and awkward to remove one-handed"
   - "No auto-shutoff for the warming plate (only available on glass carafe models)"
+
 ---
 
 # Campbell's Coffee Maker: A Solid Performer, With One Quirk

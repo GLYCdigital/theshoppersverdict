@@ -1,4 +1,5 @@
 ---
+
 title: "Vacmaster Wet Dry Shop vac"
 seo_title: "Vacmaster Wet Dry Shop vac Review: Verdict | TSV"
 meta_description: "Our full vacmaster wet dry shop vac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB8L5FR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mu4CCovVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Vacmaster Wet Dry Shop vac sits in a crowded market where every brand claims "biggest suction" and "best value." After digging through 225 ratings and the spec sheet, here's what actually matters if you're about to drop money on this unit.

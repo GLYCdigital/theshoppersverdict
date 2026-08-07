@@ -1,4 +1,5 @@
 ---
+
 title: "Korky QuietFILL 2X Long Life Toilet Fill Valve - Universal F"
 seo_title: "Korky QuietFILL 2X Long Life Toilet Fill Valve - U Review"
 meta_description: "Our full korky quietfill 2x long life toilet fill valve - universal f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FD95NMZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jegsbxawL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A toilet that runs all night or hisses every time you flush is more than an annoyance — it's wasted water and money. The Korky QuietFILL 2X Long Life Fill Valve is designed to kill that problem at the source. With a 4.5-star average across 225 ratings, it's clearly doing something right. But is it the right valve for *your* toilet? Here's what you need to know before you buy.

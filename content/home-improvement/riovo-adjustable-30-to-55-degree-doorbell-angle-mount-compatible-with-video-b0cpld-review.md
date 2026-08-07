@@ -1,4 +1,5 @@
 ---
+
 title: "RIOVO Adjustable 30 to 55 Degree Doorbell Angle Mount Compat"
 seo_title: "RIOVO Adjustable 30 to 55 Degree Doorbell Angle Mo Review"
 meta_description: "Our full riovo adjustable 30 to 55 degree doorbell angle mount compat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPLDZPT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pnGcv2cqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The RIOVO Adjustable Doorbell Angle Mount solves a problem you didn't know you had — until a package thief walks right past your camera's blind spot.**

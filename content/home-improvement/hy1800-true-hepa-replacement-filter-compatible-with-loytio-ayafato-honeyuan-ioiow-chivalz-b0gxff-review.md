@@ -1,4 +1,5 @@
 ---
+
 title: "HY1800 True HEPA Replacement Filter Compatible with Loytio/A"
 seo_title: "HY1800 True HEPA Replacement Filter Compatible wit Review"
 meta_description: "Our full hy1800 true hepa replacement filter compatible with loytio/a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXFF2L4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wUJQxKddL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: replacement filters are where vacuum brands make their real money. OEM parts run $25-$35 a pop, and the third-party market is a minefield of thin pleats, poor gaskets, and filters that collapse after two weeks. The HY1800 True HEPA filter sits in that crowded middle ground — and it's better than most, with a genuine caveat or two.

@@ -1,4 +1,5 @@
 ---
+
 title: "Applaws Natural Bone Broth Wet Cat Food Topper, Limited Ingr"
 seo_title: "Applaws Cat Bone Broth Topper Review: Worth It? (2026)"
 meta_description: "Honest Applaws Natural Bone Broth cat food topper review. Limited ingredients, hydration boost, finicky cat test. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTRQSHWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ce8bsrwbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single-source protein (chicken or fish) with a short, readable ingredient list — no gums, carrageenan, or artificial thickeners"
   - "Significant hydration boost for cats that won't drink from a fountain; the broth consistency is light enough to pour over kibble"
   - "Works as a palate reset for picky eaters — many reviewers report finicky cats who ignored other toppers licking the bowl clean"
-cons:
+cons: 
   - "Pouch-to-pouch consistency varies; some arrive with excess fat separation that needs vigorous shaking before serving"
   - "Not a complete meal — this is strictly a topper, so you're paying a premium for what is essentially flavored water with protein"
   - "The 1.4 oz pouch size is small for multi-cat households; you'll need at least two pouches per feeding if you're topping a full bowl"
+
 ---
 
 **If your cat turns up its nose at everything you put down, this broth topper might be the reset button you've been looking for. But it's not without tradeoffs.**

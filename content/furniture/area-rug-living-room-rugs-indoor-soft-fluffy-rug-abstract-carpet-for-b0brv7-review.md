@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug Living Room Rugs: Indoor Soft Fluffy Rug Abstract C"
 seo_title: "Area Rug Living Room Review: Soft Fluffy Abstract Carpet"
 meta_description: "Honest review of the Area Rug Living Room Rugs: soft fluffy texture, abstract design, 4.4-star rating. See pros, cons, and who should buy this indoor carpet."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BRV78W15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cUN0gvNpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plush, high-pile softness that feels noticeably cushioned underfoot — buyers consistently describe it as 'cloud-like'"
   - "Abstract pattern does an excellent job hiding everyday dirt, pet hair, and vacuum marks between cleanings"
   - "Lay-flat shipping with no chemical smell out of the box — a rare win in this price tier"
-cons:
+cons: 
   - "Thin backing means it slides on hard floors without a rug pad — budget for one or use double-sided tape"
   - "High pile traps crumbs and debris at the base; a strong vacuum or frequent shaking is required for deep cleaning"
+
 ---
 
 **The softness sells it. The maintenance is the catch.**

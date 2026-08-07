@@ -1,4 +1,5 @@
 ---
+
 title: "PATTERN by Tracee Ellis Ross Curl Cocktail Kit: Leave-In Con"
 seo_title: "PATTERN by Tracee Ellis Ross Curl Cocktail Kit: Le Review"
 meta_description: "Our full pattern by tracee ellis ross curl cocktail kit: leave-in con review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBQQ54KK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815mfuqIZaL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The hair care aisle is crowded with celebrity brands, but PATTERN by Tracee Ellis Ross has carved out genuine credibility. The Curl Cocktail Kit centers on a leave-in conditioner that's earned a 4.5-star average across 225 Amazon ratings. The question isn't whether it's good — it's whether it's good *for your specific curl pattern* and worth the premium.

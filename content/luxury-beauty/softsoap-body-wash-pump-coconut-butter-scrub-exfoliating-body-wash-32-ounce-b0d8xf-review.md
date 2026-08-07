@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Body Wash Pump, Coconut Butter Scrub, Exfoliating B"
 seo_title: "Softsoap Body Wash Pump, Coconut Butter Scrub, Exf Review"
 meta_description: "Our full softsoap body wash pump, coconut butter scrub, exfoliating b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8XFMLX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aNzpEO2LL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $8 shower upgrade that actually exfoliates**

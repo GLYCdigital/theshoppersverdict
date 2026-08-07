@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet"
 seo_title: "Elite Gourmet Review: Honest Look at This Kitchen Appliance"
 meta_description: "Elite Gourmet review: We break down performance, build quality, and real user feedback. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHCMMLTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610SvmfFSFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, even heating across most cooking surfaces — no hot spots in testing"
   - "Compact footprint fits easily under standard upper cabinets without sacrificing capacity"
   - "Non-stick coating holds up well through 50+ wash cycles without flaking or peeling"
-cons:
+cons: 
   - "Exterior gets noticeably hot during extended use — keep kids and pets clear"
   - "Control dial markings are faint and hard to read in low-light kitchens"
+
 ---
 
 Some kitchen gadgets promise the world and deliver a lukewarm bowl of regret. The Elite Gourmet isn't that product — but it's not perfect either. With a 4.4-star average across 220 ratings, this appliance sits squarely in "solid workhorse" territory. Here's what you need to know before you click buy.

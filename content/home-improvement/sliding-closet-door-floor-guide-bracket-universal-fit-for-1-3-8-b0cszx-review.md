@@ -1,4 +1,5 @@
 ---
+
 title: "Sliding Closet Door Floor Guide Bracket | Universal Fit for "
 seo_title: "Sliding Closet Door Floor Guide Bracket | Universa Review"
 meta_description: "Our full sliding closet door floor guide bracket | universal fit for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSZX2KNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dSksTcvAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your sliding closet door has started scraping the floor, wobbling in its track, or catching every time you open it, you've probably stared at the gap between the door bottom and the floor wondering what the fix actually costs. The answer, as it turns out, is $8.99 and a screwdriver. But here's the real question — does this universal floor guide bracket actually solve the problem, or is it just another cheap fix that'll loosen up in six months?

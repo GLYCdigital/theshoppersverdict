@@ -1,4 +1,5 @@
 ---
+
 title: "Artdone Nail Art Studs Kit, 12 grids 8 Colors 3D Charms and"
 seo_title: "Artdone Nail Art Studs Kit Review: 12-Grid 3D Charms Worth It?"
 meta_description: "Honest Artdone nail studs kit review: 12 grids, 8 colors of 3D charms. Tested for adhesion, variety, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDW732FZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PGiSQfBGL._SL1500_.jpg"
-pros:
+pros: 
   - "12 individual grid cases keep 8 distinct color families separated — no dumping all charms into one bag"
   - "Mixed shapes (studs, rhinestones, 3D charms) in each grid give you instant variety without buying 12 separate packs"
   - "Adhesion holds through 7+ days with proper gel topcoat — several reviewers confirmed no fallout mid-wear"
-cons:
+cons: 
   - "Some grids arrive with duplicates of the same shape rather than a true random assortment — you may get 20 identical teardrops"
   - "Charms are small (2-3mm average) — not ideal for statement accent nails unless you buy the larger separate packs"
+
 ---
 
 If you've ever bought a "sampler" nail charm set and found 90% of it unusable, you know the pain. The Artdone Nail Art Studs Kit takes a different approach: instead of one jumbled bag, you get 12 individual grid cases, each holding a distinct color family of 3D charms, studs, and rhinestones. The 4.7-star rating across 235 reviews suggests it's doing something right — and after digging into the specifics, most of that praise is earned.

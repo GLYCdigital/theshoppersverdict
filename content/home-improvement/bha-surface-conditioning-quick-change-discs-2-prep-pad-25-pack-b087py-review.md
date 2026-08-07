@@ -1,4 +1,5 @@
 ---
+
 title: "BHA Surface Conditioning Quick Change Discs, 2 inch  Prep Pad - 2 inch"
 seo_title: "BHA 2 inch  Prep Pad Review: Surface Conditioning Discs"
 meta_description: "BHA Surface Conditioning Quick Change Discs 2 inch  Prep Pad: 4.8-star rated abrasive discs for metal prep, paint removal & finishing. Read our honest review."
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B087PYN57J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fsDBmSqSL._SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Non-woven abrasive construction resists loading when prepping painted or rusty surfaces"
   - Quick-change 2 inch " design fits standard right-angle die grinders without chuck keys or adapters
   - "Consistent 4.8-star average across 240+ ratings indicates durable, repeatable performance"
   - "Prep pad doubles as a gentle deburring tool for aluminum and soft metals"
-cons:
+cons: 
   - 2 inch " diameter is small for large flat panels — plan on swapping discs frequently for bigger jobs
   - "No grit grade options specified in this listing — you get what's in the pack, not a choice"
   - "Not ideal for aggressive stock removal; this conditions surfaces rather than grinding them down"
+
 ---
 
 If you've ever fought with sandpaper that loads up instantly on painted metal or leaves swirl marks on aluminum, you already know why the BHA Surface Conditioning Quick Change Discs have earned a 4.8-star average across 240+ ratings. These 2-inch prep pads sit in that sweet spot between aggressive grinding and delicate hand sanding — and for most fabrication, auto body, or restoration work, that's exactly where you need to be.

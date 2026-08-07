@@ -1,4 +1,5 @@
 ---
+
 title: "Homeleo Stars for Decor"
 seo_title: "Homeleo Stars for Decor Review: Verdict | TSV"
 meta_description: "Our full homeleo stars for decor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07WV4Z2T3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WmnBSoNwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Homeleo Stars for Decor: Should This $30 Star Projector Earn a Spot on Your Ceiling?

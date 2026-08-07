@@ -1,4 +1,5 @@
 ---
+
 title: "GHORA 22-in Socket Fan Light with Remote, Light Socket Fan S"
 seo_title: "GHORA 22-in Socket Fan Light with Remote, Light So Review"
 meta_description: "Our full ghora 22-in socket fan light with remote, light socket fan s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DWML4JW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N5heYoGNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The GHORA 22-in Socket Fan Light is the kind of product that makes you wonder why every rental apartment doesn't have one.** If you've got a standard ceiling light socket and a room that turns into a sauna by 3 PM, this screw-in fan light solves two problems at once — without calling an electrician or asking your landlord for permission.

@@ -1,4 +1,5 @@
 ---
+
 title: "AROMA Mini Rice Cooker, 2-Cup (Uncooked) / 4-Cup (Cooked), G"
 seo_title: "AROMA Mini Rice Cooker Review: 2-Cup Uncooked, 4-Cup Cooked"
 meta_description: "Honest AROMA Mini Rice Cooker review: 2-cup uncooked capacity, 4-cup cooked. Build quality, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FG28SJVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OUVt1s0rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint fits tight counter space while still delivering 4 cups of cooked rice"
   - "One-touch operation with automatic keep-warm — genuinely set-and-forget"
   - "Non-stick inner pot releases cleanly and rinses out in under a minute"
-cons:
+cons: 
   - "No timer or delayed-start function — you can't schedule rice for later"
   - "Small capacity means batch cooking for meal prep will require multiple cycles"
   - "Accessories (measuring cup, paddle) feel flimsy compared to the unit itself"
+
 ---
 
 If you live alone, cook for two, or just want rice that doesn't take over your entire countertop, the AROMA Mini Rice Cooker deserves a hard look. This 2-cup (uncooked) / 4-cup (cooked) machine is one of those rare kitchen gadgets that actually earns its real estate — it's small enough to tuck away, but big enough to handle a proper meal's worth of rice.

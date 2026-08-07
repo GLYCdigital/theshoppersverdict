@@ -1,4 +1,5 @@
 ---
+
 title: "Naturium Dew-Glow Tinted Moisturizer SPF 50+, Daily Moisturi"
 seo_title: "Naturium Dew-Glow Tinted Moisturizer SPF 50+, Dail Review"
 meta_description: "Our full naturium dew-glow tinted moisturizer spf 50+, daily moisturi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DH5396WZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rRfrG9h5L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The "no-makeup makeup" that's actually sunscreen first, tint second**

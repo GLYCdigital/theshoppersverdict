@@ -1,4 +1,5 @@
 ---
+
 title: "Vitakraft Drops Rabbit Treat"
 seo_title: "Vitakraft Drops Rabbit Treat Review: Verdict | TSV"
 meta_description: "Our full vitakraft drops rabbit treat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CS22JC22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U89CVLj+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: if you're looking for a healthy daily snack for your rabbit, Vitakraft Drops aren't it. But if you need a high-value training reward or a way to win over a picky bunny, these little yogurt drops earn their 4.6-star rating.

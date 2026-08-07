@@ -1,4 +1,5 @@
 ---
+
 title: "Domi Wall Mounted Gazebo"
 seo_title: "Domi Wall Mounted Gazebo Review: Worth It? (2026)"
 meta_description: "Domi Wall Mounted Gazebo review: 4.5★ rated. Is this space-saving shade solution right for your patio? Real pros, cons & verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4QF8R22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TET9MdUVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Frees up valuable patio floor space by mounting directly to the wall — no center poles to trip over or arrange furniture around"
   - "Crank-operated retractable canopy lets you adjust shade coverage in seconds as the sun moves"
   - "Durable powder-coated steel frame and fade-resistant fabric stand up to real weather, not just sunny weekends"
-cons:
+cons: 
   - "Installation requires solid wall anchoring — not suitable for hollow or vinyl siding without significant reinforcement"
   - "Wind rating is limited; you'll need to retract the canopy during storms or high gusts to prevent damage"
+
 ---
 
 If you’ve got a small patio or deck, you already know the problem: freestanding gazebos eat floor space, and umbrellas leave half your seating in the sun. The Domi Wall Mounted Gazebo takes a different approach—it bolts to your house wall and extends outward, covering your seating area without a single pole touching the ground.

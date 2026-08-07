@@ -1,4 +1,5 @@
 ---
+
 title: "Sphoon C7 Candelabra Led Light Bulbs"
 seo_title: "Sphoon C7 Candelabra Led Light Bulbs Review: Verdict | TS"
 meta_description: "Our full sphoon c7 candelabra led light bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXPG5583/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gTPb02PsL._AC_SL1274_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever swapped a chandelier to LED and ended up with a cold, clinical glow that makes your dining room feel like a dentist’s office, you know the struggle. The Sphoon C7 candelabra bulbs are aimed squarely at that problem. At 4.6 stars across 229 ratings, they’re clearly doing something right — but are they the right fit for *your* fixtures? Let’s break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18 Fuel 1 HIGH Torque IMP Wrench Bare"
 seo_title: "Milwaukee Electric - M18 Fuel 1 HIGH Torque IMP Wr Review"
 meta_description: "Our full milwaukee electric - m18 fuel 1 high torque imp wrench bare review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07V29WVZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51quUcpSWxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The M18 Fuel 1" High Torque Impact Wrench is the tool you grab when the breaker bar snaps, the cheater pipe bends, and the impact you own starts smoking.** This is Milwaukee's flagship lug-nut destroyer, and it earns that title with numbers that sound fake until you use them: 1,000 ft-lbs of fastening torque, 1,400 ft-lbs of nut-busting torque, and a 1-inch anvil that takes abuse without flinching.

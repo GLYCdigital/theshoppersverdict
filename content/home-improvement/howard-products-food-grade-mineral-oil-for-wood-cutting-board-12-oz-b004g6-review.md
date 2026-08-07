@@ -1,4 +1,5 @@
 ---
+
 title: "Howard Products Food Grade Mineral Oil for Wood Cutting Boar"
 seo_title: "Howard Products Food Grade Mineral Oil for Wood Cu Review"
 meta_description: "Our full howard products food grade mineral oil for wood cutting boar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004G6X0J2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q33XgzR-L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent real money on a wood cutting board or butcher block, you already know the one thing that ruins them: water. Cracks, warping, bacteria hiding in dried-out grain — all of it traces back to wood that wasn't protected. Howard Products Food Grade Mineral Oil is the standard answer, and with a 4.8-star average across 240 ratings, it's earned that reputation. Here's the honest breakdown before you buy.

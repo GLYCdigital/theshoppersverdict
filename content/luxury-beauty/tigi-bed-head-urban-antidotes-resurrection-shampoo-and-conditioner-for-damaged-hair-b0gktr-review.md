@@ -1,4 +1,5 @@
 ---
+
 title: "TIGI Bed Head Urban Antidotes Resurrection Shampoo and Condi"
 seo_title: "TIGI Bed Head Urban Antidotes Resurrection Shampoo Review"
 meta_description: "Our full tigi bed head urban antidotes resurrection shampoo and condi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKTR73RL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wXT-9wfCL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if your hair is fried from bleach, heat tools, or years of chemical treatments, you've probably tried a graveyard of "repair" shampoos that promised miracles and delivered nothing. The TIGI Bed Head Urban Antidotes Resurrection duo is different — not because it magically rebuilds broken bonds (no shampoo can do that), but because it genuinely makes damaged hair *behave* like it's healthy again.

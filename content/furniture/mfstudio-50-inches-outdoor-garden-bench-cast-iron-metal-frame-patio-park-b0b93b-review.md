@@ -1,4 +1,5 @@
 ---
+
 title: "MFSTUDIO 50 Inches Outdoor Garden Bench,Cast Iron Metal Fram"
 seo_title: "MFSTUDIO 50 Inches Outdoor Garden Bench,Cast Iron  Review"
 meta_description: "Our full mfstudio 50 inches outdoor garden bench,cast iron metal fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B93BGNVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tkWH3G9AL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MFSTUDIO 50-Inch Cast Iron Garden Bench: The Real Story After 225 Reviews

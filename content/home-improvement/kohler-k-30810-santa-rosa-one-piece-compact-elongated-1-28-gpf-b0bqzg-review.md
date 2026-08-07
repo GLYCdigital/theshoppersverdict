@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler K-30810 Santa Rosa One-Piece Compact Elongated 1.28 G"
 seo_title: "Kohler K-30810 Santa Rosa One-Piece Compact Elonga Review"
 meta_description: "Our full kohler k-30810 santa rosa one-piece compact elongated 1.28 g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BQZG9G15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31oalE3ZwbL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kohler Santa Rosa K-30810 is the toilet you buy when you want the elongated comfort without the elongated footprint.** It's a one-piece, compact elongated model that squeezes into bathrooms where a standard elongated toilet would feel like a parking violation. With a 4.8-star average across 240 ratings, it's clearly doing something right. But let's get past the aggregate score and talk about what that rating actually means for your specific bathroom.

@@ -1,4 +1,5 @@
 ---
+
 title: "Essencea Citric Acid 5LB Pure Bulk Ingredients | Non-GMO | 1 inch"
 seo_title: "Essencea Citric Acid 5LB Review: Best for Descaling"
 meta_description: "Essencea Citric Acid 5LB review: pure, non-GMO crystals for descaling coffee makers. See pros, cons, and if this bulk buy beats commercial descalers."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BRNY6FJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51O7Lk96ljL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "One 5-pound container delivers roughly 40-50 descaling cycles for a standard 12-cup drip machine — years of use for most households"
   - "Food-grade, non-GMO crystals dissolve completely with no residue, unlike some cheaper descalers that leave chalky film"
   - "Works identically to brand-name descalers (which are mostly citric acid anyway) at a fraction of the per-use cost"
-cons:
+cons: 
   - "No scoop included; you'll need your own measuring spoon, and the 5LB bag isn't resealable — transfer to a jar or use a clip"
   - "Pure citric acid is more aggressive than specialized descaler formulas; you must follow dilution ratios carefully or risk damaging rubber seals"
+
 ---
 
 Most people overpay for descaling solution. That little bottle of "coffee maker cleaner" at the grocery store? It's citric acid, water, and a markup that would make a sommelier blush. Essencea sells the raw ingredient — five pounds of food-grade, non-GMO citric acid crystals — for roughly the price of two commercial descaler bottles. The math is obvious. The question is whether the bulk approach works as well in practice. After digging through the 235 ratings and the chemistry, here's the real story.

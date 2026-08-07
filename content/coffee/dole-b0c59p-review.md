@@ -1,4 +1,5 @@
 ---
+
 title: "Dole"
 seo_title: "Dole Coffee Maker Review: Is It Worth Buying in 2026?"
 meta_description: "Read our honest Dole coffee maker review — performance, build quality, real user feedback, and who should buy it. Get the facts before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C59P9MBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714NZbJWMhL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature extracted evenly from grounds — users report noticeably richer flavor than cheaper drip machines"
   - "Programmable 24-hour timer with auto-shutoff that actually holds settings through power outages"
   - "Carafe lid seals tight enough to pour without drips — a small thing that matters every single morning"
-cons:
+cons: 
   - "Water reservoir is fixed at 10 cups — no option to brew a half pot without adjusting water volume manually"
   - "Warming plate runs hot; coffee left longer than 40 minutes develops a scorched taste"
+
 ---
 
 Let me start with a blunt observation: most sub-$100 drip coffee makers are variations of the same plastic-and-heating-element formula. The Dole B0C59P doesn't reinvent that formula, but it executes it better than most — and after 229 verified ratings averaging 4.6 stars, the consistency of that execution is what separates it from the pack.

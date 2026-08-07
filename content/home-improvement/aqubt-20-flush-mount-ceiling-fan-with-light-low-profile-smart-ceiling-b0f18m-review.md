@@ -1,4 +1,5 @@
 ---
+
 title: "AQUBT 20'' Flush Mount Ceiling Fan with Light, Low Profile S"
 seo_title: "AQUBT 20'' Flush Mount Ceiling Fan Review: Low Profile"
 meta_description: "AQUBT 20'' flush mount ceiling fan with light reviewed: airflow, noise, installation, and value. See if this low-profile smart fan is worth it."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0F18MM3RG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414j7AshxoL._AC_SX342_.jpg"
-pros:
+pros: 
   - "True flush mount design fits 9-foot ceilings; blade-to-ceiling gap under 3 inches"
   - "Integrated 24W LED is bright (rated 3000K-5000K adjustable) with a clean, modern look"
   - "Reversible DC motor runs quiet on low speeds and sips power at roughly 15W"
-cons:
+cons: 
   - "Remote is required for speed/light control — no pull chains or wall switch option"
   - "Airflow is modest; rated for small rooms under 100 sq ft, not general living spaces"
   - "Several buyers report the receiver module failing within 3-6 months, killing power to the fan"
+
 ---
 
 # The AQUBT 20'' Flush Mount Ceiling Fan: Compromise in Every Direction

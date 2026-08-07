@@ -1,4 +1,5 @@
 ---
+
 title: "EHEIM Classic External Canister Filter with Media Review"
 seo_title: "EHEIM Classic Canister Filter Review: Honest 2026 Verdict"
 meta_description: "EHEIM Classic External Canister Filter with Media review: performance, reliability, and real owner feedback. Is this 4.1-star filter worth it?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00AN9XV22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/61wbc5igNzL._AC_SL1250_.jpg"
-pros:
+pros: 
   - "German-engineered build with thick, durable canister walls that resist cracking and leaking"
   - "Includes EHEIM MechPro, SubstratPro, and Carbon media — ready to run out of the box"
   - "Self-priming pump with push-button start; no need to siphon or fill the canister manually"
-cons:
+cons: 
   - "Hoses and clamps feel dated compared to modern quick-release fittings; awkward to disconnect"
   - "No media baskets — loose media means messy media changes and potential channeling"
+
 ---
 
 **The EHEIM Classic is the Toyota Corolla of aquarium filters: boring, unglamorous, and utterly dependable.** If you want flashy smart features or tool-free disconnects, look elsewhere. But if you want a filter that quietly runs for a decade, this German workhorse deserves a hard look.

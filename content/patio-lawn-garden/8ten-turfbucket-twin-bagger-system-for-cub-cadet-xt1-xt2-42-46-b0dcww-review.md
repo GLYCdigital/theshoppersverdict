@@ -1,4 +1,5 @@
 ---
+
 title: "8TEN TURFBUCKET Twin Bagger System for Cub Cadet XT1 XT2 42 inch "
 seo_title: "8TEN TURFBUCKET Twin Bagger Review: Cub Cadet XT1 XT2 Fit"
 meta_description: "Honest 8TEN TURFBUCKET twin bagger review for Cub Cadet XT1/XT2 42 inch . Real owner feedback on fit, capacity, and build. Is it worth $200+? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DCWWJZ1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61z+V8rzarL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Bolts directly to factory mounting points on XT1/XT2 42 inch " decks — no drilling or permanent modification
   - "Twin 6-bushel bags with full-width metal chute handle wet grass without clogging"
   - "Folds up for deck access in about 60 seconds using two quick-release pins"
-cons:
+cons: 
   - "Bags empty via buckles, not a bottom dump — expect to wrestle clumps out when grass is damp"
   - "Some owners report the plastic chute edges need filing to fit flush against the deck"
   - "Fan impeller is plastic — replacement parts availability is uncertain long-term"
+
 ---
 
 You've priced the Cub Cadet OEM bagger and winced. The 8TEN TURFBUCKET Twin Bagger System promises the same function for roughly half the cost. But does "compatible" actually mean "fits without a fight"? After combing through 204 owner reviews and studying the engineering, here's the honest picture.

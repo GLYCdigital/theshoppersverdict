@@ -1,4 +1,5 @@
 ---
+
 title: "400 Watt Solar Panels Kit, (200w 2 Pack, 30A PWM Charge Cont"
 seo_title: "400 Watt Solar Panel Kit Review: 2-Pack 200W with 30A Controller"
 meta_description: "Honest 400 watt solar panel kit review: 200W 2-pack with 30A PWM controller. Performance, build quality, and who should buy it. Real specs, real tradeoffs."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKHSNYB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Sma4+vtgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True 200W per panel with 23% monocrystalline efficiency — two panels deliver real usable power, not inflated specs"
   - "30A PWM charge controller included handles 12V and 24V battery banks up to 720W input, which is rare at this price point"
   - "Pre-drilled aluminum frames with tempered glass rated for 2400Pa wind load and 5400Pa snow load"
-cons:
+cons: 
   - "PWM controller wastes up to 20-30% of panel output vs MPPT — budget for a better controller if you're serious about efficiency"
   - "Cables are only 3 feet long from panel to junction box, so you'll likely need extension wires for typical rooftop or ground mounts"
   - "No mounting hardware included — brackets, Z-brackets, or ground mounts are separate purchases"
+
 ---
 
 **The 400-watt solar kit that actually respects your money — most of the time.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Doheny's Pool Step for Above Ground Swimming Pools"
 seo_title: "Doheny's Pool Step Review: Sturdy Above Ground Entry"
 meta_description: "Read our honest Doheny's Pool Step review for above ground pools. Tested for stability, assembly, and durability. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09D4R4LRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bDpNSqqFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Welded aluminum frame with UV-resistant resin steps holds up to 400 lbs without flexing"
   - "Universal mounting system fits both 48-inch and 52-inch above ground pool walls"
   - "Pre-assembled step section cuts install time to under 20 minutes with basic tools"
-cons:
+cons: 
   - "Cutting into pool liner for installation voids warranty on the liner itself"
   - "No handrails included — elderly users or kids may need extra support entering"
+
 ---
 
 ## The Honest Take on Doheny's Pool Step

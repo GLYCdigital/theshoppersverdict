@@ -1,23 +1,25 @@
 ---
+
 title: "Coogam Magnetic Ten-Frame Set, Math Manipulative EVA Number"
 seo_title: "Coogam Magnetic Ten-Frame Set Review: Is It Worth It?"
 meta_description: "Honest Coogam Magnetic Ten-Frame Set review: EVA foam magnets, dual-sided boards, and real classroom-tested feedback. See pros, cons, and who should buy."
 slug: "coogam-magnetic-ten-frame-set-math-manipulative-eva-number-counting-games-montessori-b0cw37-review"
 image_alt: "Coogam Magnetic Ten-Frame Set with red and blue EVA foam counters and dual-sided magnetic boards"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW374DY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ziFAWK2iL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Thick 2mm EVA foam counters that survive drops and toddler abuse without peeling"  
   - "Dual-sided magnetic boards (10-frame on one side, 20-frame on the other) double the teaching options"  
   - "Strong magnets hold firmly on whiteboards, fridges, and even some metal surfaces through paper"  
-cons:  
+cons: 
   - "Counters arrive loose in a bag — no sorting tray, so expect to round up strays on day one"  
   - "EVA foam edges show wear after aggressive classroom use; not a lifetime tool"
+
 ---
 
 If you’ve ever tried to explain “what makes ten” to a wiggly five-year-old using only your fingers and a dry-erase marker, you already know why this Coogam set exists. The magnetic ten-frame is a staple of early math instruction, and this EVA foam version has earned a 4.7-star average from 235 ratings for one simple reason: it works without feeling like a chore.

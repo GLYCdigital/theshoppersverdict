@@ -1,4 +1,5 @@
 ---
+
 title: "ENO Atlas Hammock Straps Review: The Gold Standard for Tree-Friendly Hanging"
 seo_title: "ENO Atlas Hammock Straps Review: The Gold Standard for  Review"
 meta_description: "Read our ENO Atlas Hammock Straps review. We test the 9ft tree-friendly suspension system. See pros, cons, and if it's worth the price."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 # ENO Atlas Hammock Straps Review: Are They Worth the Hype (and the Price)?

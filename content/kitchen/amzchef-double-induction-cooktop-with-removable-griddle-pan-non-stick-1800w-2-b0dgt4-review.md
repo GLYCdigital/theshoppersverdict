@@ -1,4 +1,5 @@
 ---
+
 title: "AMZCHEF Double Induction Cooktop with Removable Griddle Pan"
 seo_title: "AMZCHEF Double Induction Cooktop Review: 1800W 2-Burner"
 meta_description: "AMZCHEF Double Induction Cooktop with removable griddle pan review: 1800W power, 2 burners, easy cleanup. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGT4GRGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zRZgTMX-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely portable double burner — two independent 1800W zones that fit on a standard countertop, not a flimsy single-coil compromise"
   - "Removable non-stick griddle bridges both burners for full-surface cooking; locks in place and releases with one hand"
   - "10 power levels per zone with a dedicated keep-warm setting — precise enough for simmering sauces, powerful enough for a proper sear"
-cons:
+cons: 
   - "Fan noise is noticeable at higher power levels — you'll hear it humming during a full-output sear, which some buyers find distracting in open kitchens"
   - "Griddle surface is relatively shallow (about 0.75 inches deep) — fine for pancakes and eggs, but you won't be making deep-dish anything on it"
   - "Requires induction-compatible cookware — if your current pots are aluminum or copper-bottomed, budget for new pans or a converter disc"
+
 ---
 
 If you've ever cooked a holiday meal with one working burner and a prayer, the AMZCHEF Double Induction Cooktop is the answer to a problem you didn't realize you had. This 1800W countertop unit packs two independent induction zones into a footprint that won't swallow your entire kitchen island. After 220 Amazon ratings averaging 4.4 stars, it's clear this isn't a novelty gadget — it's a legitimate cooking tool. Here's the honest breakdown.

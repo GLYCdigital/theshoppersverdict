@@ -1,4 +1,5 @@
 ---
+
 title: "HUANLEGO Vanity Desk with Mirror and Lights"
 seo_title: "HUANLEGO Vanity Desk with Mirror and Lights Review: Verdi"
 meta_description: "Our full huanlego vanity desk with mirror and lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKDVZT4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UT8-g64gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of leaning over a bathroom sink or squinting into a dim bedroom mirror, the HUANLEGO Vanity Desk with Mirror and Lights is worth a serious look. This isn't a flimsy, particleboard nightmare — it's a proper piece of furniture with a 4.6-star average from 229 verified buyers. Here's the honest breakdown before you commit.

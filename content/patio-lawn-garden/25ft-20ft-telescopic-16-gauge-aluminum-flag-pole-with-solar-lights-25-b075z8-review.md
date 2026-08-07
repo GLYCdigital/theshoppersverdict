@@ -1,4 +1,5 @@
 ---
+
 title: "25Ft / 20Ft Telescopic 16 Gauge Aluminum Flag Pole with Sola"
 seo_title: "25ft Telescopic Aluminum Flag Pole with Solar Light Review"
 meta_description: "Honest review of the 25ft telescopic 16-gauge aluminum flag pole with solar lights. Build quality, wind performance, installation tips, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075Z8G6XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLi-+OlIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "16-gauge aluminum sections feel noticeably sturdier than the 18-gauge poles common at this price point"
   - "Telescoping design lets you lower the flag to 7–8 feet for easy flag changes without a ladder"
   - "Solar light cap uses a separate panel on top—not the cheap ring-style lights that wash out the flag"
-cons:
+cons: 
   - "Solar light output is modest; it illuminates the flag but won't spotlight it like a ground light would"
   - "No included ground sleeve—you'll need to buy one or dig a proper footing for stable installation"
+
 ---
 
 If you've been browsing flag poles, you've seen the same generic aluminum tubing sold under a dozen names. This one stands apart for one simple reason: 16-gauge wall thickness. Most residential poles in this price range use 18-gauge aluminum that flexes in a stiff breeze. This one holds its ground. That's the headline, but let's dig into whether it's worth your yard space.

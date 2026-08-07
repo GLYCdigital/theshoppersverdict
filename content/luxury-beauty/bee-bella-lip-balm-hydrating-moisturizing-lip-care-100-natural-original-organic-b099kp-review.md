@@ -1,4 +1,5 @@
 ---
+
 title: "Bee Bella Lip Balm, Hydrating, Moisturizing Lip Care, 100% N"
 seo_title: "Bee Bella Lip Balm Review: Hydrating 100% Natural Lip Care"
 meta_description: "Honest Bee Bella Lip Balm review: Does this 100% natural hydrating lip balm live up to its 4.7-star rating? We tested it for moisture, staying power, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B099KPCG5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-loO3v3rL._SL1355_.jpg"
-pros:
+pros: 
   - "Beeswax base with real humectants actually locks in moisture for 4-6 hours, not the 20-minute fix most balms give"
   - "No synthetic fragrance, dyes, or petroleum derivatives — just five recognizable ingredients that work"
   - "Slim twist-up tube fits jeans pockets without snapping, unlike bulky pots or fragile chapstick cases"
-cons:
+cons: 
   - "Formula runs soft in summer heat; leave it in a hot car and you'll get a melted mess"
   - "Unscented version smells faintly of beeswax — some buyers expecting a flavor will be disappointed"
+
 ---
 
 # Bee Bella Lip Balm Review: The 100% Natural Balm That Actually Hydrates

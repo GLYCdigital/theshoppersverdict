@@ -1,4 +1,5 @@
 ---
+
 title: "COVERGIRL Smoothers Pressed Powder"
 seo_title: "COVERGIRL Smoothers Pressed Powder Review (2026): Worth It?"
 meta_description: "Honest COVERGIRL Smoothers Pressed Powder review: coverage, wear time, shades, and who should buy. Real buyer feedback at 4.6 stars."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXGZBWYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712wRzp2KiL._SL1500_.jpg"
-pros:
+pros: 
   - "Infused with allantoin and vitamin E—actually soothing for dry, sensitive skin, not just marketing claims"
   - "Buildable coverage that sets foundation without caking or looking powdery, even in flash photography"
   - "The included sponge and mirror make midday touch-ups genuinely practical, not an afterthought"
-cons:
+cons: 
   - "Shade range skews light-to-medium; deeper complexions will struggle to find a match"
   - "The compact itself feels lightweight and can crack if dropped—travel with care"
+
 ---
 
 ## The $10 Powder That Feels Like a Splurge

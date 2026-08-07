@@ -1,4 +1,5 @@
 ---
+
 title: "SUPER DEAL Compact Mini Twin Tub Washing Machine 13lbs Capac"
 seo_title: "SUPER DEAL Compact Mini Twin Tub Washing Machine 1 Review"
 meta_description: "Our full super deal compact mini twin tub washing machine 13lbs capac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07B94ZR74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P4OlHS2yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: if you're shopping for a portable washing machine, you're not looking for a status symbol. You need clean clothes without hauling quarters to a laundromat or hand-wringing socks in a sink. The SUPER DEAL 13lbs twin tub has been a top-seller for years, and at 4.1 stars from 204 ratings, the consensus is clear — it works, but it's not a full-size appliance. Here's the real picture.

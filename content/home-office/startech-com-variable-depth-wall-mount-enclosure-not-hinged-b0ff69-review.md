@@ -1,4 +1,5 @@
 ---
+
 title: "StarTech.com Variable Depth Wall Mount Enclosure, not hinged"
 seo_title: "StarTech.com Variable Depth Wall Mount Enclosure,  Review"
 meta_description: "Our full startech.com variable depth wall mount enclosure, not hinged review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FF69Q7M9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aTaK6uqFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building out a network closet, wiring a retail back office, or tidying up a home lab, the StarTech.com Variable Depth Wall Mount Enclosure (non-hinged) is the kind of utilitarian workhorse that rarely gets the attention it deserves. It's not flashy, it won't win design awards, but it solves a genuinely annoying problem: fitting non-standard-depth gear into a flush wall mount. With 235 ratings averaging 4.7 stars, it's clearly doing something right. Here's the real story after digging into the specs, the feedback, and the tradeoffs.

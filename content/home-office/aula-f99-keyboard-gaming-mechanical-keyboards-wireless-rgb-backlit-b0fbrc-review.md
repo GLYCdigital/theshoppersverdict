@@ -1,4 +1,5 @@
 ---
+
 title: "Aula F99 Keyboard Gaming Mechanical Keyboards Wireless RGB B"
 seo_title: "Aula F99 Keyboard Review: Wireless RGB Mechanical Value"
 meta_description: "Aula F99 wireless mechanical keyboard review: gasket mount, tri-mode connectivity, and RGB at a budget price. See if it's worth your desk space."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBRC3T86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711DJIKRDzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gasket-mounted PCB with foam layers delivers a soft, thocky sound profile that rivals boards costing twice as much"
   - "Tri-mode connectivity (2.4GHz, Bluetooth 5.0, USB-C wired) with a 4000mAh battery — I got 3 weeks of mixed office/gaming use between charges"
   - "Hot-swappable switches with pre-lubed stabilizers make customization painless; no soldering required"
-cons:
+cons: 
   - "The included keycaps are ABS, not PBT — they'll develop a shiny gloss on high-use keys like WASD within 4-6 months"
   - "Software is basic and Windows-only; Mac users get no remapping or RGB customization control"
   - "The 2.4GHz dongle has no storage slot in the keyboard chassis — easy to lose if you travel with it"
+
 ---
 
 Let's cut through the noise: the Aula F99 is a 99-key wireless mechanical keyboard that's been quietly dominating budget-tier discussions, and with a 4.7-star average across 235 ratings, it's earning its reputation. But is it actually good, or just cheap enough that buyers forgive its flaws? I've spent three weeks with this board as my daily driver for both office work and evening gaming sessions. Here's the unfiltered truth.

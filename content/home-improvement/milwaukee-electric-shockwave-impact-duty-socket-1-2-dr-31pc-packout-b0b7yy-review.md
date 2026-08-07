@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - Shockwave Impact Duty. Socket 1/2. DR 3"
 seo_title: "Milwaukee Electric - Shockwave Impact Duty. Socket Review"
 meta_description: "Our full milwaukee electric - shockwave impact duty. socket 1/2. dr 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B7YYHG4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dnDzp--nL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Milwaukee Shockwave Impact Duty 1/2" Drive Socket isn't trying to be pretty. It's trying to survive your impact wrench and keep its grip on seized, rusted fasteners. After spending time with these sockets, here's what you need to know before handing over your cash.

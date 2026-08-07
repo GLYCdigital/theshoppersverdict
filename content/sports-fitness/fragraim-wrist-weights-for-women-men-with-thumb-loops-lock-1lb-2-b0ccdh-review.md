@@ -1,4 +1,5 @@
 ---
+
 title: "Fragraim Wrist Weights for Women Men with Thumb Loops Lock 1 inch"
 seo_title: "Fragraim Wrist Weights Review: Thumb Loop Design Tested"
 meta_description: "Fragraim wrist weights with thumb loops reviewed: comfort, grip, and durability tested. See if these 1lb weights deliver for walking, cardio, and rehab."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCDHW699/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q9botwUfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thumb loop genuinely locks the weight in place — no sliding even during brisk arm swings"
   - "Breathable neoprene with a soft inner lining prevents chafing during long cardio sessions"
   - "Adjustable strap fits wrists from roughly 5.5 to 10 inches — accommodates most adults"
-cons:
+cons: 
   - "1lb pair is light for strength training — these are for cardio, not muscle building"
   - "Velcro closure can catch on knit fabrics during storage; keep them in the included pouch"
   - "No weight increments — you're committed to 1lb per wrist unless you buy another set"
+
 ---
 
 **The Problem with Most Wrist Weights: They Slide.** Here's why the Fragraim set actually stays put.

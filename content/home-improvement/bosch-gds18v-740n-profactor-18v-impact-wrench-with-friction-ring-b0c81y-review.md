@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GDS18V-740N PROFACTOR 18V Impact Wrench with Friction"
 seo_title: "BOSCH GDS18V-740N PROFACTOR Impact Wrench Review"
 meta_description: "BOSCH PROFACTOR 18V impact wrench review: 740 ft-lbs of nut-busting torque, compact design, real-world performance tested. See if it beats the competition."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C81Y1XHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910lC+eYhCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "740 ft-lbs of nut-busting torque in a head that's only 6.7 inches long — best power-to-size ratio in its class"
   - "Kickback Control technology actively shuts down the tool when it senses binding, protecting your wrists"
   - "Friction ring design accepts standard 1/2-inch impact sockets with no pin to lose or break"
-cons:
+cons: 
   - "Bare tool only — the $200+ price gets you nothing but the wrench, no battery or charger included"
   - "No variable-speed trigger in reverse; it's full power or nothing when backing off stubborn fasteners"
   - "At 5.2 pounds with a 4Ah battery, it's not the lightest option if you're overhead all day"
+
 ---
 
 The 740 ft-lb nut-busting claim is easy to dismiss as marketing. I've tested enough impact wrenches to know most manufacturers pad those numbers. But the BOSCH GDS18V-740N PROFACTOR is the rare tool where the spec sheet actually undersells the experience. This is the wrench that makes you wonder why you ever kept a pneumatic in the garage.

@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees Lip Balm - Original Beeswax"
 seo_title: "Burt's Bees Original Beeswax Lip Balm Review (2026)"
 meta_description: "Honest Burt's Bees Original Beeswax Lip Balm review: 4.8/5 rating, real performance data, pros/cons, and who should buy it. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWRXF1CD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vljgKVPOL._SL1500_.jpg"
-pros:
+pros: 
   - "100% natural formula with real beeswax, coconut oil, and peppermint oil — no petroleum or parabens"
   - "One 0.15 oz tube lasts 3-4 weeks with daily use; peppermint provides immediate cooling relief"
   - "Consistent 4.8-star rating across 240+ reviews — rare stability for a skincare staple"
-cons:
+cons: 
   - "Peppermint oil causes mild tingling that some sensitive-skin users find irritating"
   - "Thinner texture than balms like Aquaphor — needs reapplication every 2-3 hours in dry climates"
+
 ---
 
 The yellow tube is iconic. But is Burt's Bees Original Beeswax Lip Balm actually worth buying in 2026, or is it riding on nostalgia? I've tested it against cheaper drugstore options and premium Korean balms. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "BROOKLYN CUTLERY Magnetic Knife Block, Acacia Wood Magnetic"
 seo_title: "BROOKLYN CUTLERY Magnetic Knife Block Review (2026)"
 meta_description: "Honest BROOKLYN CUTLERY magnetic knife block review: acacia wood build, magnet strength, fit for long blades, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDRP9B8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xGtFIWMiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong rare-earth magnets hold knives securely at any angle, even heavy chef's knives"
   - "Solid acacia wood block with a slim footprint — takes up less counter space than a slot-style block"
   - "Fits virtually any blade length, including 10-inch chef's knives and cleavers"
-cons:
+cons: 
   - "Exposed blade edges mean you need to be careful reaching around it — not ideal for households with small kids"
   - "The wood finish shows fingerprints and smudges more readily than darker blocks"
   - "No cover or sheath included, so blades collect dust between uses"
+
 ---
 
 If you’ve ever wrestled a 10-inch chef’s knife into a tight slot on a traditional block, you already know the pain. The BROOKLYN CUTLERY Magnetic Knife Block solves that problem with a completely different approach—no slots at all. Instead, it’s a solid slab of acacia wood with powerful magnets embedded inside that hold your knives flat against the surface. 

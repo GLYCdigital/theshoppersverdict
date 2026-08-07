@@ -1,4 +1,5 @@
 ---
+
 title: "Compagnie de Provence Savon de Marseille Liquid Soap - Glass"
 seo_title: "Compagnie de Provence Liquid Soap Review: Worth It?"
 meta_description: "Honest review of Compagnie de Provence Savon de Marseille liquid soap in glass bottle. 72% olive oil formula, gentle on skin, but is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B076PN6V8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qm0HEJHlL._SL1500_.jpg"
-pros:
+pros: 
   - "72% olive oil base leaves hands moisturized without greasy residue — rare for a liquid soap"
   - "Refillable glass pump bottle that actually looks premium on a counter, not cheap plastic"
   - "Light, natural fragrance (verbena or lavender) that dissipates quickly — no synthetic perfume overload"
-cons:
+cons: 
   - "Price per ounce is roughly 3–4x standard drugstore liquid soap — this is a luxury purchase"
   - "Pump dispenses a generous amount; easy to overuse if you're not careful, burning through the bottle faster"
   - "No antibacterial claim — if you specifically want germ-killing soap, this isn't it"
+
 ---
 
 Let's cut to it: this is a $20+ hand soap in a glass bottle. You can buy a three-pack of Softsoap for that. So why do 220 Amazon reviewers average 4.4 stars? Because Compagnie de Provence isn't selling soap — it's selling the experience of washing your hands properly. And for a certain kind of buyer, that's worth real money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hydro Coconut Charcoal - Ultimate Grilling & BBQ Experience "
 seo_title: "Hydro Coconut Charcoal - Ultimate Grilling & BBQ E Review"
 meta_description: "Our full hydro coconut charcoal - ultimate grilling & bbq experience  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY3JQ486/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710sTlaIVzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Coconut Coal That Thinks It's a Rocket Engine

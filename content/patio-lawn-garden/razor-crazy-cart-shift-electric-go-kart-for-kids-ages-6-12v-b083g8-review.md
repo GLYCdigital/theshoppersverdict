@@ -1,4 +1,5 @@
 ---
+
 title: "Razor Crazy Cart Shift Electric Go Kart for Kids Ages 6+ - 1"
 seo_title: "Razor Crazy Cart Shift Electric Go Kart for Kids A Review"
 meta_description: "Our full razor crazy cart shift electric go kart for kids ages 6+ - 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083G8M85R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717OYZvaqYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Razor Crazy Cart Shift is the rare kids' toy that delivers exactly what the marketing promises: your child will drift, spin, and slide like a miniature rally driver. But the 4.7-star average across 235 ratings hides a more nuanced story — one about age ranges, surface requirements, and whether an 8 mph kart is worth the investment.

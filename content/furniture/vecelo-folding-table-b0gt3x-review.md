@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO Folding Table"
 seo_title: "VECELO Folding Table Review: Verdict | TSV"
 meta_description: "Our full vecelo folding table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GT3XWWR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T9MGucOEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The VECELO Folding Table isn't trying to be the centerpiece of your dining room. It's trying to be the most reliable piece of furniture you forget you own — until you need it. And based on 204 Amazon ratings averaging 4.1 stars, it mostly succeeds.

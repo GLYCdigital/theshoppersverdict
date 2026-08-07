@@ -1,7 +1,8 @@
 ---
-title: "Frigidaire GMTK3068AF GMTK3068AF 30\" Stainless Steel Microwa"
-seo_title: "Frigidaire GMTK3068AF GMTK3068AF 30\" Stainless Ste Review"
-meta_description: "Our full frigidaire gmtk3068af gmtk3068af 30\" stainless steel microwa review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Frigidaire GMTK3068AF GMTK3068AF 30\ Stainless Steel Microwa"
+seo_title: "Frigidaire GMTK3068AF GMTK3068AF 30\ Stainless Ste Review"
+meta_description: "Our full frigidaire gmtk3068af gmtk3068af 30\ stainless steel microwa review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "frigidaire-gmtk3068af-gmtk3068af-30-stainless-steel-microwave-trim-kit-b0b7c5-review"
 image_alt: "Frigidaire GMTK3068AF GMTK3068AF 30 Stainless Steel Microwave Trim Kit"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B7C5FHSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41yMew0r-uL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: a microwave trim kit is the least glamorous purchase in any kitchen remodel. But if you’re staring at a countertop microwave sitting awkwardly in a 30-inch cabinet opening, the Frigidaire GMTK3068AF is the difference between “finished kitchen” and “rental unit vibes.” Here’s what 210 buyers at 4.2 stars are actually saying — and what they’re not.

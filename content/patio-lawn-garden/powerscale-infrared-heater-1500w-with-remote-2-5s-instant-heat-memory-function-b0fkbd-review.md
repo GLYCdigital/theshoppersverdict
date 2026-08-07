@@ -1,4 +1,5 @@
 ---
+
 title: "Powerscale Infrared Heater 1500W with Remote, 2.5s Instant H"
 seo_title: "Powerscale Infrared Heater 1500W with Remote, 2.5s Review"
 meta_description: "Our full powerscale infrared heater 1500w with remote, 2.5s instant h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FKBDKP91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615aqxK-44L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Two and a half seconds. That's the whole pitch.

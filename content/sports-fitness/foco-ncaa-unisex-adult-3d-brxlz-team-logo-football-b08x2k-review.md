@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO NCAA Unisex-Adult 3D BRXLZ Team Logo Football"
 seo_title: "FOCO NCAA 3D BRXLZ Football Review: Is It Worth It?"
 meta_description: "Honest FOCO NCAA 3D BRXLZ Team Logo Football review: build quality, display appeal, and whether this collectible is worth your money."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08X2K97NS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UBdO9XdeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise brick alignment with tight tolerances; logos stay crisp even after repeated handling"
   - "Universal fit for standard NCAA team colors — the 3D effect is genuinely striking from across a room"
   - "Built to sit on a desk or shelf without a stand; base is weighted enough to avoid tipping"
-cons:
+cons: 
   - "Bricks are not compatible with standard building-block brands, limiting customization"
   - "No included display stand or wall mount; you'll need to buy one separately for vertical display"
   - "Team selection is limited — some smaller NCAA programs are simply unavailable"
+
 ---
 
 **Is this a football you can toss around, or a brick-heavy paperweight?** Short answer: neither. The FOCO NCAA 3D BRXLZ Team Logo Football is a display piece designed to sit on your desk, shelf, or man-cave altar. If you're shopping for something to throw in the backyard, keep scrolling. If you want a conversation-starting homage to your alma mater, this delivers — with a few caveats.

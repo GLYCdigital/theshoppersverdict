@@ -1,4 +1,5 @@
 ---
+
 title: "CatGuru Food Table for Cat Bowls, Elevated Feeding Station f"
 seo_title: "CatGuru Elevated Cat Food Table Review (2026): Worth It?"
 meta_description: "CatGuru elevated cat food table review: build quality, bowl sizes, anti-vomit benefits, and real buyer feedback. Is this 4.7-star feeder worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBT9STL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6128GOjSILL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid bamboo construction with non-slip silicone feet — doesn't slide across tile or hardwood when your cat eats"
   - "Comes with two 8-ounce stainless steel bowls that are dishwasher-safe and don't retain odors"
   - "Raised 4.5-inch height aligns with most adult cats' natural eating posture, reducing regurgitation in fast eaters"
-cons:
+cons: 
   - "Only fits bowls up to 5.5 inches in diameter — wide ceramic bowls from other brands won't seat properly"
   - "Bamboo surface requires hand-washing; soaking the table in the sink will warp the wood over time"
   - "No rubber gasket around the bowl cutouts, so kibble crumbs can get trapped under the lip"
+
 ---
 
 If your cat scarfs down dinner and then hacks it back up on your rug 10 minutes later, you've probably already Googled "elevated cat feeder" and found a hundred options ranging from $15 plastic junk to $80 designer wood. The CatGuru Food Table sits in the middle of that range, and based on 235 ratings averaging 4.7 stars, it's earning its place on kitchen floors across the country. But is it actually worth the money, or are buyers just relieved their cat stopped throwing up? Let's dig in.

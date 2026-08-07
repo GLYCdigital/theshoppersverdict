@@ -1,4 +1,5 @@
 ---
+
 title: "Kaba 1011-26D-41 Cylindrical Pushbutton Knob Nko Us26D, Sati"
 seo_title: "Kaba 1011-26D-41 Cylindrical Pushbutton Knob Nko U Review"
 meta_description: "Our full kaba 1011-26d-41 cylindrical pushbutton knob nko us26d, sati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00GFIR0F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hCQo580iL._SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the Kaba 1011 looks like it belongs on a school hallway or an office supply closet, and that's exactly the point. This is a mechanical pushbutton lock that's been a contractor favorite for decades because it does one thing extremely well — it lets trusted people in without keys while keeping everyone else out. But "trusted" is doing a lot of work here, so let's dig into what you're actually getting for your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "HERSHEY'S Assorted Flavored Eggs, Easter Candy Bag"
 seo_title: "HERSHEY'S Assorted Flavored Eggs, Easter Candy Bag Review"
 meta_description: "Our full hershey's assorted flavored eggs, easter candy bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQ3FX7MN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FP8JsXSkL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most Easter candy is a disappointment. It's either waxy chocolate that tastes like it was manufactured in 1987, or it's a sad assortment where you're praying you don't get the orange-flavored thing nobody eats. So when a bag of HERSHEY'S Assorted Flavored Eggs showed up with a 4.5-star average across 225 ratings, I was skeptical.

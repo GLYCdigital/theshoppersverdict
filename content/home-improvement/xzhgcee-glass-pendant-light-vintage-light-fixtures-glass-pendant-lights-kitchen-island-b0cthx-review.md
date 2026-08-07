@@ -1,4 +1,5 @@
 ---
+
 title: "XZHGCEE Glass Pendant Light Vintage Light Fixtures, Glass Pe"
 seo_title: "XZHGCEE Glass Pendant Light Vintage Light Fixtures Review"
 meta_description: "Our full xzhgcee glass pendant light vintage light fixtures, glass pe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTHX7M9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BNEIopsuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # XZHGCEE Glass Pendant Light Review: Vintage Charm That Actually Delivers

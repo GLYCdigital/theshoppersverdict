@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO 6FT Picnic Table, Heavy Duty Outdoor Picnic Table and B"
 seo_title: "DWVO 6FT Picnic Table Review: Heavy Duty or Headache?"
 meta_description: "DWVO 6FT picnic table review: solid steel frame, but assembly and stability concerns. See if this 3.4-star outdoor table fits your backyard."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DPWK9Q4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91cvbJo3tfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "6-foot tabletop seats up to 8 adults comfortably with a 550-pound weight capacity"
   - "Weather-resistant steel frame with a powder-coated finish stands up to sun and rain"
   - "Folds flat for storage — a practical bonus for smaller patios or seasonal use"
-cons:
+cons: 
   - "Assembly is a two-person, 45-minute job with bolts that strip easily if over-tightened"
   - "Several buyers report wobbly legs on uneven ground; the table needs a perfectly flat surface"
   - "No umbrella hole — a glaring omission for a table marketed for sunny-day dining"
+
 ---
 
 Let’s be blunt: a 3.4-star average across 170 ratings tells you this DWVO 6FT picnic table is a mixed bag. But if you’re shopping on a budget and need seating for a crowd, the value equation isn’t automatically dead. Here’s what you’re actually getting.

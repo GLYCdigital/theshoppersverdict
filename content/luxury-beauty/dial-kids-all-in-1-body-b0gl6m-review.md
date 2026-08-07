@@ -1,24 +1,26 @@
 ---
+
 title: "Dial Kids All-in-1 Body +"
 seo_title: "Dial Kids All-in-1 Body + Review: Is It Worth It? (2026)"
 meta_description: "Read our honest Dial Kids All-in-1 Body + review. We break down the formula, real parent feedback, and whether this 2-in-1 is worth your money."
 slug: "dial-kids-all-in-1-body-b0gl6m-review"
 image_alt: "Dial Kids All-in-1 Body + shampoo and body wash bottle with playful label design"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL6M4Q1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61trWH2GxtL._SL1500_.jpg"
-pros:  
+pros: 
   - "Truly tear-free formula — no stinging complaints even for toddlers who hate rinsing"  
   - "One pump handles both hair and body, cutting bath time in half for wiggly kids"  
   - "Mild, non-drying lather leaves skin soft without heavy fragrance or residue"  
-cons:  
+cons: 
   - "Pump dispenser can jam if the bottle is tipped in the shower, wasting product"  
   - "Not ideal for kids with very sensitive eczema-prone skin — some parents report mild irritation"  
   - "Scent is pleasant but faint; if your kid loves strong bubblegum smells, this won't satisfy"
+
 ---
 
 **The Honest Lowdown on Dial Kids All-in-1 Body +**

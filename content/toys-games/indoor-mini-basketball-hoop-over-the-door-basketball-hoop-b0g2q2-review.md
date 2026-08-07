@@ -1,4 +1,5 @@
 ---
+
 title: "Indoor Mini Basketball Hoop, Over The Door Basketball Hoop"
 seo_title: "Indoor Mini Basketball Hoop Review: Over-the-Door Fun"
 meta_description: "Honest review of the Indoor Mini Basketball Hoop — over-the-door design, build quality, and real user feedback. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2Q25XLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Tool-free installation with padded hooks that grip standard interior doors without leaving marks"
   - "Includes two foam balls and a compact backboard that fits door widths up to 1.75 inches"
   - "Breakaway rim springs back after aggressive dunks — holds up to repeated use by kids"
-cons:
+cons: 
   - "Foam balls fly off-target on hard bounces; the included balls are lighter than a regulation mini ball"
   - "No sound-dampening pad on the backboard — shots that hit the board rattle the door noticeably"
+
 ---
 
 The Indoor Mini Basketball Hoop solves a very specific problem: you want basketball fun without drilling holes in your walls or driving to the park. And for the most part, it delivers exactly what the product image promises — a compact hoop that hangs over any standard door and turns a hallway into a mini court.

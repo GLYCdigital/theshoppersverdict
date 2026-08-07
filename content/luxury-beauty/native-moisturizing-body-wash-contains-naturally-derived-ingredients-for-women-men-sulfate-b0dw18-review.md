@@ -1,4 +1,5 @@
 ---
+
 title: "Native Moisturizing Body Wash Contains Naturally Derived Ing"
 seo_title: "Native Moisturizing Body Wash Contains Naturally D Review"
 meta_description: "Our full native moisturizing body wash contains naturally derived ing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW18V1TH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-D+8yNrZL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Native Moisturizing Body Wash Review: Real Hydration Without the Sulfate Stripping**

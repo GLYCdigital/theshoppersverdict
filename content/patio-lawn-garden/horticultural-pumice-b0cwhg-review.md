@@ -1,4 +1,5 @@
 ---
+
 title: "Horticultural Pumice"
 seo_title: "Horticultural Pumice Review: Verdict | TSV"
 meta_description: "Our full horticultural pumice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CWHG9JTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nEmab0oOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed succulents with overwatering, you already know the problem: most potting soils hold too much moisture for too long. Horticultural pumice is the fix that serious growers swear by — and this 4.1-star-rated bag (204 ratings) is one of the more accessible options on Amazon. But is it worth the premium over perlite? Depends on what you're growing.

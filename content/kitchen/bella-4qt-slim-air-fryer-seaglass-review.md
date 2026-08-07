@@ -1,17 +1,18 @@
 ---
+
 title: "bella 4Qt Slim Air Fryer, Fits-anywhere Kitchenware, EverGood Ceramic Nonstick Coating, Seaglass"
 seo_title: "bella 4Qt Slim Air Fryer Review — Seaglass | The Shopper's Verdict"
 meta_description: "Our full review of the bella 4Qt Slim Air Fryer in Seaglass. Read real Amazon customer insights, pros, cons, and our verdict. 3,772+ reviews analyzed."
 slug: "bella-4qt-slim-air-fryer-seaglass-review"
 image_alt: "bella 4Qt Slim Air Fryer in Seaglass with ceramic nonstick coating on a kitchen countertop"
-keywords:
+keywords: 
   - "bella air fryer review"
   - "bella 4qt slim air fryer"
   - "kitchen appliance review"
   - "best air fryer"
   - "ceramic nonstick air fryer"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the bella 4Qt Slim Air Fryer?"
     answer: "Users consistently praise how easy it is to clean thanks to the ceramic nonstick coating. Many reviews highlight the slim design that fits anywhere, the quiet operation, and the even cooking performance as standout features."
   - question: "What are the common complaints about this air fryer?"
@@ -24,16 +25,17 @@ review_count: 3772
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJH9LMZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51baLvIiQrL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Super easy to clean — ceramic nonstick coating requires just a rinse and wipe"
   - "Slim profile that truly fits anywhere on the counter"
   - "Remarkably quiet operation compared to other air fryers"
   - "Even cooking with consistent temperature control"
   - "Beautiful Seaglass color that looks great on display"
-cons:
+cons: 
   - "Light-colored button printing can be extremely difficult to read"
   - "No hold/pause function — opening the basket resets the timer"
   - "Initial plastic/chemical smell that dissipates after a few uses"
+
 ---
 If you're shopping for a compact air fryer, the bella 4Qt Slim Air Fryer (Seaglass) has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.
 

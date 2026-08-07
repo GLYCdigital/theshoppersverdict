@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart DLC-005AGTXT1 Replacement Food Processor Work Bowl"
 seo_title: "Cuisinart DLC-005AGTXT1 Work Bowl Review: Worth It?"
 meta_description: "Cuisinart DLC-005AGTXT1 replacement work bowl review: fit, durability, and value for 14-cup food processors. See if it beats buying new."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHSZCCX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KWmm0HokL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Cuisinart part with proper fit and sealing for DFP-14 series bases"
   - "Includes bowl, lid, and feed tube pusher — complete replacement in one box"
   - "Dishwasher-safe construction that holds up to repeated hot cycles"
-cons:
+cons: 
   - "Price sits close to half the cost of a whole new food processor"
   - "Lid latch mechanism feels stiffer than the original in some units"
   - "No gasket included — old one must transfer or be purchased separately"
+
 ---
 
 You've dropped your 14-cup work bowl on a tile floor at 7 AM, and now you're staring at a $200 machine that's technically a paperweight. The Cuisinart DLC-005AGTXT1 is the part that rescues you — but only if you understand exactly what you're paying for.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Precise V7 RT Refillable & Retractable Liquid Ink Roll"
 seo_title: "Pilot Precise V7 RT Refillable & Retractable Liqui Review"
 meta_description: "Our full pilot precise v7 rt refillable & retractable liquid ink roll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FWKSDX9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813+9VQ3IjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pilot Precise V7 RT is the pen equivalent of a reliable sedan—unflashy, built to last, and quietly excellent. If you've ever mourned a dead V7 that still had a year of writing left in the barrel, this refillable version is your redemption arc.

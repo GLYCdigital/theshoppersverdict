@@ -1,4 +1,5 @@
 ---
+
 title: "AZUREBEAUTY Nail Polish – Quick Dry, Natural Glossy Finish"
 seo_title: "AZUREBEAUTY Nail Polish Review: Quick-Dry Gloss Finish"
 meta_description: "AZUREBEAUTY quick-dry nail polish review: natural glossy finish, brush quality, wear time, and real buyer feedback. See if it beats drugstore brands."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BNPJZ21Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F8YMKSpRL._SL1500_.jpg"
-pros:
+pros: 
   - "True one-coat coverage in deeper shades — saves time on DIY manicures"
   - "Wide, flat brush contours the nail bed, reducing streaks and cuticle flooding"
   - "Gloss level rivals salon gel topcoats without needing a UV lamp"
-cons:
+cons: 
   - "Formula runs thin — requires 2–3 coats on lighter, sheer shades"
   - "Chip resistance falls short of advertised 7-day wear; expect 3–4 days with base coat"
+
 ---
 
 **The quick-dry polish that actually respects your time — mostly.**

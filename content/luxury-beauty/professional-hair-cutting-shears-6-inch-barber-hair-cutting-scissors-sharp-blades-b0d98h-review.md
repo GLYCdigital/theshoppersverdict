@@ -1,4 +1,5 @@
 ---
+
 title: "Professional Hair Cutting Shears,6 Inch Barber hair Cutting "
 seo_title: "Professional Hair Cutting Shears,6 Inch Barber hai Review"
 meta_description: "Our full professional hair cutting shears,6 inch barber hair cutting  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D98HW1FF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BrVWgtFaL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 Shears That Cut Like a $150 Pair? Mostly Yes.

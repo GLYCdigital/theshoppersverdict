@@ -1,4 +1,5 @@
 ---
+
 title: "Arteck USB Wired Keyboard Universal Backlit 7-Colors & Adjus"
 seo_title: "Arteck USB Wired Keyboard Review: 7-Color Backlit & Adjustable Brightness"
 meta_description: "Hands-on Arteck USB wired keyboard review: 7-color backlight, adjustable brightness, full-size layout. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09WDL98XR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6119BaztnZL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Seven backlight colors plus three brightness levels, controlled via Fn shortcuts — no software needed"
   - "Quiet membrane keys with a full-size layout including number pad, ideal for data entry"
   - "Plug-and-play USB-A connection works instantly with Windows, Mac, and Chrome OS"
-cons:
+cons: 
   - "Keycaps feel slightly wobbly; heavy typists may notice lateral play"
   - "Backlight is not per-key — it's a single-zone glow, so edges dim noticeably"
+
 ---
 
 Let's be blunt: most sub-$30 backlit keyboards are either cheap-feeling or compromise on layout. The Arteck USB Wired Keyboard tries to hit a sweet spot — full-size, seven backlight colors, adjustable brightness, and a price that won't make you wince. After digging through 215 ratings and the specs, here's what actually matters.

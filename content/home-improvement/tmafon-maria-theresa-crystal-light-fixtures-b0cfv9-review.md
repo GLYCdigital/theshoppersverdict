@@ -1,4 +1,5 @@
 ---
+
 title: "TMAFON Maria Theresa Crystal Light fixtures"
 seo_title: "TMAFON Maria Theresa Crystal Light fixtures Review: Verdi"
 meta_description: "Our full tmafon maria theresa crystal light fixtures review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFV9HY4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GRkadoQAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past $800 crystal chandeliers wondering if there’s a sane middle ground, the TMAFON Maria Theresa fixture is it. This is a full-on, 26-inch-wide, multi-tier crystal chandelier that lands at a fraction of boutique lighting showroom prices — and with 225 Amazon ratings holding a 4.5-star average, it’s not a gamble that’s gone unnoticed.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Bowl Pet Collapsible Bowls, 2 Pack Collapsible Dog Water"
 seo_title: "Dog Bowl Pet Collapsible Bowls Review: 2-Pack Travel Must-Have"
 meta_description: "Honest review of Dog Bowl Pet Collapsible Bowls 2-pack. Are these silicone travel bowls worth it? We tested durability, portability, and cleanup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08D9J2Y8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iIDNS3iPL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Food-grade silicone holds shape when filled — no floppy sides that spill water mid-drink"
   - "Carabiner clips are genuinely useful, not decorative — they attach securely to backpacks and leashes"
   - "Dishwasher-safe top rack and wipe-clean interior make post-hike cleanup a 30-second job"
-cons:
+cons: 
   - "1.5-cup capacity runs small for large breeds — a 70-pound Lab needs multiple fills"
   - "Light blue color shows dirt and paw grime quickly; dark colors would hide wear better"
+
 ---
 
 These collapsible bowls are the kind of product you don't think about until you're on a trail with a panting dog and no water source. The 2-pack from Dog Bowl Pet solves that problem for about the price of a decent coffee. But before you click buy, here's what 235 buyers and my own testing revealed.

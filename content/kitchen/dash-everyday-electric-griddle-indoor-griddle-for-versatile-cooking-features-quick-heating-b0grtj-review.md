@@ -1,4 +1,5 @@
 ---
+
 title: "Dash Everyday Electric Griddle - Indoor Griddle for Versatil"
 seo_title: "Dash Everyday Electric Griddle Review: Worth It? | 2026 inch"
 meta_description: "Dash Everyday Electric Griddle review: 4.7-star indoor griddle for versatile cooking. Real buyer feedback, performance tests, and honest verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRTJLN6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iLL3OWa1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact 20-inch nonstick surface fits 8 pancakes or 6 eggs at once without crowding"
   - "Heats evenly across the full cooking area — no cold spots near the edges"
   - "Temperature dial with indicator light gives real control from low warm to 400°F searing"
-cons:
+cons: 
   - "Cord is short at roughly 2 feet, limiting where you can place it on your counter"
   - "Nonstick surface scratches if you use metal utensils — stick to silicone or wood"
   - "No drip tray; excess grease pools at the edges and requires careful wiping"
+
 ---
 
 ## The Breakfast Machine That Earns Its Counter Space

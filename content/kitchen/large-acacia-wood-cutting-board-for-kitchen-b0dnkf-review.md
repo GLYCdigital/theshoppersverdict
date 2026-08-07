@@ -1,4 +1,5 @@
 ---
+
 title: "Large Acacia Wood Cutting Board for Kitchen"
 seo_title: "Large Acacia Wood Cutting Board for Kitchen Review: Verdi"
 meta_description: "Our full large acacia wood cutting board for kitchen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNKFCBM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819xdCOXSJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Acacia Board Worth Your Counter Space?

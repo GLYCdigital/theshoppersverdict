@@ -1,4 +1,5 @@
 ---
+
 title: "Dardoo G920 Racing Simulator Cockpit with Seat Fit for Logitech"
 seo_title: "Dardoo G920 Racing Simulator Cockpit Review (2026): Worth It?"
 meta_description: "Dardoo G920 racing simulator cockpit review: sturdy steel frame, adjustable seat, fits Logitech G920/G29/G923. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09NHT1KFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6100ZsQSKML._SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with 220 lb weight rating holds up under heavy braking without flex or lift"
   - Seat slides and reclines like a real car seat — fits drivers from 5'2 inch " to 6'3 inch " comfortably
   - "Pre-drilled mounting holes accept Logitech G920, G29, and G923 wheel bases plus shifter in minutes"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes — plan for it, and bring a second person for the seat bracket alignment"
   - "No vibration isolation — you feel every bump through the frame, which some drivers find harsh"
+
 ---
 
 # Dardoo G920 Racing Simulator Cockpit with Seat: The Budget Rig That Feels Like the Real Thing

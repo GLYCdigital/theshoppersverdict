@@ -1,4 +1,5 @@
 ---
+
 title: "The Phoenix Journal - Quarterly Goal Planner, Daily Planner "
 seo_title: "The Phoenix Journal - Quarterly Goal Planner, Dail Review"
 meta_description: "Our full the phoenix journal - quarterly goal planner, daily planner  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08PC8C9S6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qlMRbKHrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most goal planners either drown you in 200 blank pages or micromanage your life down to 15-minute increments. The Phoenix Journal tries a different angle — it splits your year into four 90-day sprints, then gives you daily pages to execute. That structure is the whole point. Here’s whether it actually works.

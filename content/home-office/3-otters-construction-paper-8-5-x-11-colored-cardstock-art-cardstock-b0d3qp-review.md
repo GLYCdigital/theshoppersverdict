@@ -1,4 +1,5 @@
 ---
+
 title: "3 otters Construction Paper 8.5 x 11 inch , Colored Cardstock Ar"
 seo_title: "3 Otters Construction Paper Review: Worth It? (2026)"
 meta_description: "3 Otters Construction Paper 8.5x11 review: thick 65lb cardstock, 50 vibrant colors, low bleed. See pros, cons & real buyer feedback before you buy."
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3QP6HXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AR0Gv+nyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "50 distinct colors in a single pack—more variety than most competitors offer at this price point"
   - "65lb cardstock weight resists curling and holds up to glue sticks, markers, and light watercolor without warping"
   - "Acid-free construction means finished projects won't yellow or degrade over time"
   - "True 8.5x11 letter size works with standard printers and cutting machines"
-cons:
+cons: 
   - "Paper edges arrive slightly rough from the cutting process—minor but noticeable on close inspection"
   - "Some darker shades show faint white streaks when folded sharply along the grain"
   - "No included storage box or resealable bag, so loose sheets can scatter if you don't have your own organizer"
+
 ---
 
 ## The 50-Color Cardstock That Actually Earns Its Keep

@@ -1,4 +1,5 @@
 ---
+
 title: "Big and Tall Office Chair- 500 LBS Heavy Duty Executive Roll"
 seo_title: "Big and Tall Office Chair Review: 500 LBS Heavy Duty Tested"
 meta_description: "Honest Big and Tall Office Chair review: Does the 500 LBS heavy duty executive rolling chair hold up? Real pros, cons, and buying verdict for plus-size users."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D6QD7CR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JfOgPdIEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 500 lb weight capacity — reinforced steel frame and dual piston lift, not a marketing gimmick"
   - "Extra-wide 22-inch seat with thick cushioning that doesn't bottom out after months of daily use"
   - "Solid 3-inch casters roll smoothly on both carpet and hardwood without scratching"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes — the instructions are minimal and some holes don't align perfectly"
   - "Armrests are fixed height with limited adjustability, which may not suit all body proportions"
   - "Lumbar support is firm — some users find it too aggressive for all-day sitting"
+
 ---
 
 If you're over 250 pounds, you already know the struggle: most "big and tall" chairs are regular chairs with a longer cylinder slapped on, and you find out the hard way when the seat frame starts digging into your thighs or the pneumatic lift gives out at month four. This chair takes a different approach, and for the most part, it works.

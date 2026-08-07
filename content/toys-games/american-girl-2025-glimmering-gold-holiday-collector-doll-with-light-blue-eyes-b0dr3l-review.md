@@ -1,4 +1,5 @@
 ---
+
 title: "American Girl 2025 Glimmering Gold Holiday Collector Doll, w"
 seo_title: "American Girl Glimmering Gold Holiday Doll Review (2025)"
 meta_description: "Honest American Girl 2025 Glimmering Gold Holiday Collector Doll review: design, quality, value, and who should buy this limited-edition doll."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR3LBB52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iv4iwuvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 18-inch American Girl doll with high-quality rooted hair and realistic light blue eyes — not a knockoff"
   - "Limited-edition holiday design with glittering gold sequin dress, matching accessories, and collector-quality packaging"
   - "Compatible with all existing American Girl outfits, furniture, and accessories — works with what you already own"
-cons:
+cons: 
   - "Price is steep — this is a collector piece, not a budget buy, and there's no play mat or extra outfit included"
   - "Gold sequin dress is fragile; sequins can shed with rough play, so younger kids may need supervision"
+
 ---
 
 ## Is the 2025 Glimmering Gold Holiday Doll Worth the Hype?

@@ -1,16 +1,17 @@
 ---
+
 title: "Games Workshop Warhammer 40,000 Codex: Astra Militarum (English)"
 seo_title: "Codex Astra Militarum Review — 4.7★ 10th Edition Guard Rules"
 meta_description: "Warhammer 40K Codex Astra Militarum review: 70 reviews analyzed. 10th edition Guard rules including Krieg, Catachan, and Cadian detachments. Is the new codex worth it?"
 slug: "warhammer-40k-codex-astra-militarum-review"
 image_alt: "Warhammer 40K Codex Astra Militarum Cover Art"
-keywords:
+keywords: 
   - "Codex Astra Militarum review"
   - "Warhammer 40K 10th edition Guard codex"
   - "Astra Militarum 10th edition review"
   - "best Warhammer 40K codex"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "What regiments are covered in the 10th edition Astra Militarum codex?"
     answer: "The codex includes rules and detachments for Death Korps of Krieg, Catachan Jungle Fighters, and Cadian regiments. All Guard units are united under one book with multiple detachment options."
   - question: "Is this a completely new book or an update?"
@@ -23,14 +24,15 @@ review_count: 70
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/1804574767/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818wEZxEFcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consolidates Krieg, Catachan, and Cadian rules into one unified codex"
   - "Updated for 10th edition with balanced detachments and new unit options"
   - "Excellent production quality — full-color art, lore, and army rules"
-cons:
+cons: 
   - "Significant rules changes for veteran Guard players — older regiment identities feel diluted"
   - "Premium $66 Games Workshop pricing for a softcover book"
   - "Some copies arrive with shipping damage — thin cover is vulnerable in transit"
+
 ---
 
 The Astra Militarum codex for Warhammer 40,000 10th Edition is the book that Guard players have been waiting for — and dreading. With 70 Amazon reviews at 4.7 stars, the early consensus is solid, but the discourse among veteran Guard players tells a more nuanced story.

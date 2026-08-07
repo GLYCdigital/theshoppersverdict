@@ -1,4 +1,5 @@
 ---
+
 title: "ONBRILL 47 inch Round Dining Table for 4"
 seo_title: "ONBRILL 47 inch Round Dining Table for 4 Review: Verdict "
 meta_description: "Our full onbrill 47 inch round dining table for 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F9KZ6XBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91OlTScOcZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a round dining table under $300, you've likely seen a dozen options that all look identical in the product photos: a wooden top, some metal legs, and a promise that it'll transform your breakfast nook. The ONBRILL 47-inch round table stands out because it actually delivers on the two things that matter most — real wood and real seating capacity.

@@ -1,4 +1,5 @@
 ---
+
 title: "Osprey Men's Atmos Ag 65l Men's Backpacking Backpack"
 seo_title: "Osprey Men's Atmos Ag 65l Men's Backpacking Backpa Review"
 meta_description: "Our full osprey men's atmos ag 65l men's backpacking backpack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CMD24XPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rHUvt6piL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Osprey Men's Atmos AG 65L Review: The Backpack That Thinks It's a Chiropractor

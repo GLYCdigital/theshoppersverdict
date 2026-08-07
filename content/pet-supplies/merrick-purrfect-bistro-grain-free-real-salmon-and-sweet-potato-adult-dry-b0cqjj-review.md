@@ -1,4 +1,5 @@
 ---
+
 title: "Merrick Purrfect Bistro Grain Free Real Salmon and Sweet Pot"
 seo_title: "Merrick Purrfect Bistro Grain Free Real Salmon and Review"
 meta_description: "Our full merrick purrfect bistro grain free real salmon and sweet pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CQJJ1WMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-X-JyreRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the cat food aisle noise. Merrick Purrfect Bistro Grain Free Real Salmon and Sweet Potato is a mid-premium dry food that earns its keep — but not without a few caveats worth knowing before you commit.

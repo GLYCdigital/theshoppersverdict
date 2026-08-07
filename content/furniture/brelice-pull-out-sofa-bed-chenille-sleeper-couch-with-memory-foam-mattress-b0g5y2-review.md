@@ -1,4 +1,5 @@
 ---
+
 title: "Brelice Pull Out Sofa Bed, Chenille Sleeper Couch with Memor"
 seo_title: "Brelice Pull Out Sofa Bed Review: Chenille Sleeper Couch for Small Spaces"
 meta_description: "Honest Brelice Pull Out Sofa Bed review: chenille fabric, memory foam mattress, and real-world durability. Is this sleeper couch worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G5Y2PP71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mB9aV3oWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 5-inch memory foam mattress sleeps like a real bed, not a flimsy futon"
   - "Chenille upholstery feels soft and resists pilling better than typical linen-blend sleeper sofas"
   - "Compact 70-inch footprint fits small apartments while extending to a true 74-inch sleeping surface"
-cons:
+cons: 
   - "Assembly requires two people — the frame sections are heavy and awkward to align"
   - "No storage compartment under the seat; the pull-out mechanism occupies that space entirely"
+
 ---
 
 **The Brelice Pull Out Sofa Bed: A Real Mattress Hiding in a Compact Couch**

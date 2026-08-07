@@ -1,4 +1,5 @@
 ---
+
 title: "Natural Balance Specialized Nutrition Dry Dog Food, Sensitiv"
 seo_title: "Natural Balance Specialized Nutrition Dry Dog Food Review"
 meta_description: "Our full natural balance specialized nutrition dry dog food, sensitiv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSBNK2L4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BedGkmh3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog's scratching keeps you up at night or their digestion is a roll of the dice every meal, you've probably cycled through a dozen "sensitive" formulas already. Natural Balance Sensitiv takes a different approach than most: instead of throwing ten different proteins and a probiotic cocktail at the problem, it strips the recipe down to the essentials. One animal protein, one grain, and nothing else to trip over.

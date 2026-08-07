@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGRP Lighted 15 Amp 125 Volt NEMA 5-15 2 Pole 3 Wire Groun"
 seo_title: "ELEGRP Lighted Receptacle Review: 15A NEMA 5-15 Outlet"
 meta_description: "ELEGRP lighted 15A receptacle review: bright indicator, tamper-resistant, easy install. Honest pros, cons, and who should buy this NEMA 5-15 outlet."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D41PN2PK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AFqwhE3HL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright green LED indicator visible in daylight, instantly confirms power at the outlet"
   - "True tamper-resistant shutters meet 2023 NEC requirements for residential installs"
   - "Back and side wiring options accommodate 14 AWG solid and stranded copper wire up to 12 AWG"
-cons:
+cons: 
   - "Indicator light stays on permanently — can't be switched off for dark bedrooms or home theaters"
   - "Slightly bulky body makes it tight in shallow 1.5-inch electrical boxes"
   - "No commercial-grade metal strap; best suited for residential rather than high-use commercial environments"
+
 ---
 
 **ELEGRP Lighted 15 Amp Receptacle Review: The Outlet That Tells You the Truth**

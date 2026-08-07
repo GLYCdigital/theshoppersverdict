@@ -1,4 +1,5 @@
 ---
+
 title: "Bush's Best Black Beans 1 inch"
 seo_title: "Bush's Best Black Beans Review: Is It Worth It? (2026)"
 meta_description: "Bush's Best Black Beans 1 delivers rich flavor and firm texture. Our honest review covers taste, value, and whether it beats canned rivals. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJ32BLG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xhWc1zrrL._SL1500_.jpg"
-pros:
+pros: 
   - "Bold, savory seasoning blend that holds up in soups, rice bowls, and standalone sides"
   - "Beans stay remarkably intact after cooking — no mushy collapse even with reheating"
   - "Generous 16-oz can yields roughly 3.5 servings, beating many competitors on volume"
-cons:
+cons: 
   - "Sodium content runs high (480mg per serving) — not ideal for low-salt diets without rinsing"
   - "Slightly thicker sauce than some prefer; may need thinning for certain recipes"
+
 ---
 
 Let's be straight: this is a can of black beans. But not all black beans are created equal, and Bush's Best Black Beans (the 16-ounce can) has earned a 4.7-star average from 235 shoppers for a reason. If you've ever opened a cheap can and found gray, mushy beans floating in watery brine, you'll understand why this one stands apart.

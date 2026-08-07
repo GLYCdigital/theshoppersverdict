@@ -1,4 +1,5 @@
 ---
+
 title: "LANA & LUCA Liquid Chalk Markers for Blackboards - Bold Colo"
 seo_title: "LANA & LUCA Liquid Chalk Markers for Blackboards - Review"
 meta_description: "Our full lana & luca liquid chalk markers for blackboards - bold colo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHJYFPVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NidCl38aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you run a café, teach in a classroom, or just like your weekly meal planner to actually look good, LANA & LUCA’s liquid chalk markers are a solid buy. They deliver bold, opaque color, write smoothly, and erase without leaving that annoying ghost residue.

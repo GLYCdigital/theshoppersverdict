@@ -1,4 +1,5 @@
 ---
+
 title: "SMALLRIG Folding Tool Set"
 seo_title: "SMALLRIG Folding Tool Set Review: Verdict | TSV"
 meta_description: "Our full smallrig folding tool set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D456GLX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tFuTXsUIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tools end up in a drawer, forgotten. The SMALLRIG Folding Tool Set is designed to ride in your pocket, bag, or on a keyring — and judging by the 4.7-star average across 235 Amazon ratings, it earns that carry spot. This isn't a full workshop replacement. It's a precision-focused multitool for specific jobs: tightening a loose gimbal screw, adjusting a tripod plate, fixing eyeglasses, or working on a laptop. Here's what you're actually getting.

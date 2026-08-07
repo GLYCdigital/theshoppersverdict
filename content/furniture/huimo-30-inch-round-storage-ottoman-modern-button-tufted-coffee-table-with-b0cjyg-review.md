@@ -1,4 +1,5 @@
 ---
+
 title: "HUIMO 30-Inch Round Storage Ottoman, Modern Button Tufted Co"
 seo_title: "HUIMO 30-Inch Round Storage Ottoman, Modern Button Review"
 meta_description: "Our full huimo 30-inch round storage ottoman, modern button tufted co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJYGDZJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910QbQd24mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The multi-tasker your living room has been missing**

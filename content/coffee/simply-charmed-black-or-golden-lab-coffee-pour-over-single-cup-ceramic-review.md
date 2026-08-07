@@ -1,16 +1,17 @@
 ---
+
 title: "Simply Charmed Black or Golden Lab Coffee Pour Over Single Cup Ceramic Brewer with Melitta Filters 8 to 16 oz Depending on How Much Water/Grounds You Use"
 seo_title: "Simply Charmed Black or Golden Lab Coffee Pour Ove Review"
 meta_description: "Our full simply charmed black or golden lab coffee pour over single cup ceramic brewer with melitta filters 8 to 16 oz depending on how much water/grounds yo"
 slug: "simply-charmed-black-or-golden-lab-coffee-pour-over-single-cup-ceramic-review"
 image_alt: "Simply Charmed Black or Golden Lab Coffee Pour Over Single Cup Ceramic Brewer with Melitta Filters 8 to 16 oz Depending "
-keywords:
+keywords: 
   - "simply charmed black review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the Simply Charmed Black or Golden Lab Coffee Pour Over Single Cup Ceramic Brewer with Melitta Filters 8 to 16 oz Depending on How Much Water/Grounds You Use?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 1986
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PBCXTSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NHI7PsEFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 **Is this ceramic pour-over worth $24.59, or should you keep scrolling?**

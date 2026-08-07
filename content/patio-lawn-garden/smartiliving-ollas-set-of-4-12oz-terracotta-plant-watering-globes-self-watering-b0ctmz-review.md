@@ -1,4 +1,5 @@
 ---
+
 title: "SmartiLiving Ollas (Set of 4) | 12oz Terracotta Plant Wateri"
 seo_title: "SmartiLiving Ollas (Set of 4) | 12oz Terracotta Pl Review"
 meta_description: "Our full smartiliving ollas (set of 4) | 12oz terracotta plant wateri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CTMZ41MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p7VZBCFhL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more houseplants than you'd like to admit, the idea of a self-watering olla that meters out moisture while you're away sounds like the answer. The SmartiLiving Ollas (Set of 4) deliver on the core concept — but with enough caveats that you should size up your expectations before buying.

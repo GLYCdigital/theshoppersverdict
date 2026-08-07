@@ -1,4 +1,5 @@
 ---
+
 title: "Lancaster Cast Iron No. 10 Skillet - 11-5/8-Inch Pre-Seasone"
 seo_title: "Lancaster Cast Iron No. 10 Skillet - 11-5/8-Inch P Review"
 meta_description: "Our full lancaster cast iron no. 10 skillet - 11-5/8-inch pre-seasone review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDMZYXMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RJYUKBokL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There are cast iron skillets, and then there are cast iron skillets. The Lancaster No. 10 sits firmly in the second camp — but not because of flashy branding or celebrity endorsements. It earns its keep through old-school craftsmanship and a cooking surface that's noticeably smoother than what you get from Lodge or Cuisinart.

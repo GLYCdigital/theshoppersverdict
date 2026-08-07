@@ -1,4 +1,5 @@
 ---
+
 title: "DICTAC Low Twin Loft Bed with Reading Corner,3 Sling Drawers"
 seo_title: "DICTAC Low Twin Loft Bed Review: Smart Storage & Reading Nook"
 meta_description: "DICTAC Low Twin Loft Bed review: 4.5-star rated with reading corner & 3 sling drawers. Is this space-saving bed right for your kid's room? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FT2TM7R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714FqjCt-WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-profile design (fits standard 8-foot ceilings) with 30-inch under-bed clearance — usable for a reading nook, not just dead storage"
   - "Integrated reading corner with built-in shelving eliminates the need for separate bookcase purchases"
   - "Three heavy-duty sling drawers slide smoothly on metal runners and hold surprising weight — no sagging reported"
-cons:
+cons: 
   - "Sling drawer fabric stains easily and shows dust; not machine-washable without removing the frame inserts"
   - "Assembly takes 3-4 hours with two people; instructions are mostly diagrams with minimal text"
+
 ---
 
 # DICTAC Low Twin Loft Bed with Reading Corner: The Space-Saver That Actually Works

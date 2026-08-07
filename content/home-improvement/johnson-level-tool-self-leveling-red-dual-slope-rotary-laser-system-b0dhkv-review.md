@@ -1,4 +1,5 @@
 ---
+
 title: "Johnson Level & Tool Self-Leveling Red Dual Slope Rotary Las"
 seo_title: "Johnson Level & Tool Self-Leveling Red Dual Slope  Review"
 meta_description: "Our full johnson level & tool self-leveling red dual slope rotary las review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DHKVSKX7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jgbQt5GdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Rotary Laser That Wants to Do It All — But Makes You Work for It

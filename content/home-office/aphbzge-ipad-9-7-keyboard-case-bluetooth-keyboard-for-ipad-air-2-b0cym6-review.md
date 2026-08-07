@@ -1,4 +1,5 @@
 ---
+
 title: "APHBZGE iPad 9.7'' Keyboard Case - Bluetooth Keyboard for iP"
 seo_title: "APHBZGE iPad 9.7 Keyboard Case Review: Worth It? (2026)"
 meta_description: "APHBZGE iPad 9.7 keyboard case review: Bluetooth connectivity, build quality, and typing feel. See pros, cons, and who should buy this budget pick."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYM64PP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713nXVxYGoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full aluminum-backed keyboard with 1.2mm key travel — noticeably better typing feel than most $30-40 folio cases"
   - "Auto wake/sleep function works reliably on iPad 9.7 and iPad Air 2 models"
   - "Seven backlight colors with three brightness levels each — includes white, blue, and green presets"
-cons:
+cons: 
   - "Case is heavier than expected at 1.4 lbs — adds significant bulk for tablet-only use"
   - "Bluetooth pairing drops if idle for 15+ minutes; requires pressing a key to re-connect"
+
 ---
 
 Let’s be blunt: most budget iPad keyboard cases are flimsy plastic trays with mushy keys that make you want to throw the whole thing across the room. The APHBZGE iPad 9.7'' Keyboard Case isn't that. It's not perfect, but it punches well above its price class in ways that matter for daily typing.

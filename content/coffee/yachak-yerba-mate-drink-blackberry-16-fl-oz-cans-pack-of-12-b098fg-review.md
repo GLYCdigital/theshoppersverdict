@@ -1,4 +1,5 @@
 ---
+
 title: "Yachak Yerba Mate Drink, Blackberry, 16 Fl Oz Cans, Pack of "
 seo_title: "Yachak Yerba Mate Drink, Blackberry, 16 Fl Oz Cans Review"
 meta_description: "Our full yachak yerba mate drink, blackberry, 16 fl oz cans, pack of  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B098FG3H3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CNdnMjwpL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the canned yerba mate aisle grow from a dusty corner to a full refrigerated section. Yachak's Blackberry offering sits somewhere in the middle of that spectrum — not as ubiquitous as the big names, but with a devoted following that keeps its 4.3-star rating honest. Here's what 215 buyers and my own breakdown of the specs tell me.

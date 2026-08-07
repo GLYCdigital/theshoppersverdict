@@ -1,4 +1,5 @@
 ---
+
 title: "Drybar The 3-Day Bender Rotating Curling Iron"
 seo_title: "Drybar 3-Day Bender Rotating Curling Iron Review (2026)"
 meta_description: "Honest Drybar 3-Day Bender rotating curling iron review: performance, heat settings, and who should buy it. See real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CPLWNGKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kpi5FOj6L._SL1500_.jpg"
-pros:
+pros: 
   - "One-touch rotating barrel delivers consistent, uniform curls with minimal arm fatigue"
   - "Five heat settings (up to 430°F) with digital display give precise temperature control for fine to coarse hair"
   - "Auto shut-off after 60 minutes and 8-foot swivel cord add genuinely useful safety and maneuverability"
-cons:
+cons: 
   - "Learning curve is real — the rotation speed takes practice to master, especially for shorter hair or bangs"
   - "Curls can fall flat within a few hours on fine or straight hair despite the '3-day' marketing claim"
+
 ---
 
 If you’ve ever wrestled with a traditional curling iron — fighting to hold the barrel at the right angle while wrapping sections without burning your fingers — the Drybar The 3-Day Bender promises a different path. It’s a rotating iron that does the wrapping for you. At roughly $150–$180 depending on the retailer, it sits firmly in luxury beauty territory. But does the automation justify the price, or is it a gimmick wearing a pricey label?

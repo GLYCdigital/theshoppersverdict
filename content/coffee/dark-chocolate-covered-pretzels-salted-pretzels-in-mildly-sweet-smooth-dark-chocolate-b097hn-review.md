@@ -1,4 +1,5 @@
 ---
+
 title: "Dark Chocolate Covered Pretzels, Salted Pretzels in Mildly S"
 seo_title: "Dark Chocolate Covered Pretzels Review: Salty-Sweet Snack"
 meta_description: "Our honest review of dark chocolate covered salted pretzels: crunch, cocoa quality, portion size, and value. See if this 4.3-star snack earns a spot in your pantry."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B097HNVSV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916QfqBpgkL._SL1500_.jpg"
-pros:
+pros: 
   - "Mildly sweet dark chocolate (around 54% cacao) lets the pretzel salt shine without cloying sugar"
   - "Pretzels stay crisp for weeks — no stale, soft centers even after partial bag use"
   - "Generous 28-ounce bag delivers roughly 60-70 pretzels per container"
-cons:
+cons: 
   - "Chocolate coating is thin in spots; some pieces have bare pretzel showing through"
   - "No zip-top closure — you'll need a clip or transfer container to keep them fresh"
   - "Slightly oily residue on fingers after a handful, typical of mass-produced chocolate"
+
 ---
 
 **The salty-sweet snack that actually delivers on both fronts — with a few caveats worth knowing before you add to cart.**

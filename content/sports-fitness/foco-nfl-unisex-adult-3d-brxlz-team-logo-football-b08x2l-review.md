@@ -1,4 +1,5 @@
 ---
+
 title: "foco NFL Unisex-Adult 3D BRXLZ Team Logo Football"
 seo_title: "foco NFL 3D BRXLZ Football Review: Is It Worth It?"
 meta_description: "foco NFL 3D BRXLZ Team Logo Football review: build quality, display appeal, and whether this collectible brick football earns its 4.2-star rating."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08X2L33N3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZvRdqXxLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brick-built football that looks genuinely authentic from across the room—the molded laces and panel seams are surprisingly sharp."
   - "Team logo is printed directly on the brick, not a cheap sticker, so it won't peel or bubble over time."
   - "Solid, dense construction at roughly 1.5 pounds—feels substantial on a shelf, not like a hollow toy."
-cons:
+cons: 
   - "It's a display piece only—you cannot throw or toss this around. The bricks will pop apart on impact."
   - "Team selection is limited to major franchises; fans of smaller-market teams may be out of luck."
   - "Takes 45–60 minutes to assemble, and the instructions are printed small—magnification helps."
+
 ---
 
 Let's be clear about one thing right off the snap: the foco NFL 3D BRXLZ Team Logo Football is not a football. It's a brick sculpture of a football, and if you go into it expecting to chuck it across the yard, you're going to be picking up pieces of your favorite team's logo off the grass. But as a display piece for a desk, man cave, or shelf? This thing has real presence.

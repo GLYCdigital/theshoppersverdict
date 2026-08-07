@@ -1,15 +1,16 @@
 ---
+
 title: "Camic Electric Stand Mixer,7.45 QT,10 Speeds with Dough Hook,Whisk, Flat Beater Attachments, Splash Guard, Easy-Carry Top Handle,3-IN-1 Kitchen Mixer for Baking Cakes Cookie Bread Salad (Black)"
 seo_title: "Camic Electric Stand Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest camic electric stand mixer,7.4 review 35+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "camic-electric-stand-mixer-7-45-qt-10-speeds-with-dough-hook-review"
 image_alt: "Camic Electric Stand Mixer,7.45 QT,10 Speeds with Dough Hook,Whisk, Flat Beater Attachments, Splash Guard, Easy-Carry To"
-keywords:
+keywords: 
   - "camic electric stand review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the Camic Electric Stand Mixer,7.45?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Is the Camic Electric Stand Mixer,7.45 durable for daily use?"
@@ -20,10 +21,11 @@ review_count: 35
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXHP97CM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tTsUt0hWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 ## The $180 Stand Mixer That Thinks It's a $400 One

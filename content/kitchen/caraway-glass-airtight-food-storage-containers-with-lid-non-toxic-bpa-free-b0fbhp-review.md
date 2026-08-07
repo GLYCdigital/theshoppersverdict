@@ -1,4 +1,5 @@
 ---
+
 title: "Caraway Glass Airtight Food Storage Containers with Lid –"
 seo_title: "Caraway Glass Food Storage Review: Airtight & Non-Toxic"
 meta_description: "Caraway Glass Airtight Food Storage Containers: 4.6-star rated, BPA-free, oven-safe. Real buyer feedback, pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBHPQ3CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51H7Fy37fGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True airtight seal with locking lid; no leaks in bags or fridge after 2 weeks of daily use"
   - "Heavy-duty borosilicate glass survives freezer-to-oven transitions without thermal shock"
   - "Non-toxic, BPA-free build with no plastic touching food — even the vent is silicone"
-cons:
+cons: 
   - "Lids are not oven-safe despite the glass body; you must remove them before reheating"
   - "Premium price point runs 2-3x what basic Pyrex or glasslock sets cost per container"
+
 ---
 
 **The Honest Review**

@@ -1,4 +1,5 @@
 ---
+
 title: "Lotus Foods Bulk Organic Forbidden Rice"
 seo_title: "Lotus Foods Bulk Organic Forbidden Rice Review: Verdict |"
 meta_description: "Our full lotus foods bulk organic forbidden rice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPLPN3KL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F8IFuYDWL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most bulk rice purchases boil down to "it's rice, it's cheap, done." Lotus Foods Organic Forbidden Rice isn't that. This is a specialty black rice with a legitimate nutritional and flavor profile that justifies the premium price — but only if you know what you're getting into. Here's the real story after digging through 229 ratings and the specs.

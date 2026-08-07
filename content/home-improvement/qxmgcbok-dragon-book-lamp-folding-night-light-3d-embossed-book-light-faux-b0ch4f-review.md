@@ -1,4 +1,5 @@
 ---
+
 title: "QXMGCBOK Dragon Book Lamp,Folding Night Light,3D Embossed Bo"
 seo_title: "QXMGCBOK Dragon Book Lamp,Folding Night Light,3D E Review"
 meta_description: "Our full qxmgcbok dragon book lamp,folding night light,3d embossed bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CH4F5Y8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iXdUU7EzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The QXMGCBOK Dragon Book Lamp is the rare decorative light that actually delivers on the "wow" factor without emptying your wallet.** At $42.59, it sits in that awkward middle ground between novelty gift and serious home decor. After spending time with it, here's the honest breakdown.

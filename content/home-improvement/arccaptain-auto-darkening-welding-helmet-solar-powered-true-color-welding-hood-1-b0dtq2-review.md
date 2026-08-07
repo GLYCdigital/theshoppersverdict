@@ -1,4 +1,5 @@
 ---
+
 title: "ARCCAPTAIN Auto Darkening Welding Helmet, Solar Powered True"
 seo_title: "ARCCAPTAIN Auto Darkening Welding Helmet Review (2026)"
 meta_description: "Honest ARCCAPTAIN auto darkening welding helmet review: solar powered true color lens, comfort, and value tested against $200+ hoods."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTQ2JPK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AA7PR6TIj._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True color lens with 4 ARC sensors provides clear, natural arc visibility at a sub-$100 price point"
   - "Solar-assisted battery means you won't get caught with a dead lens mid-project — internal backup keeps it working"
   - "Grind mode with instant switching saves you from swapping hoods between prep and weld passes"
-cons:
+cons: 
   - "Headgear adjustment knobs feel plasticky and can slip during extended overhead work"
   - "Shade range tops out at DIN 13 — insufficient for heavy-duty 400+ amp industrial welding"
   - "Replacement lens covers and internal batteries aren't widely available from third-party suppliers yet"
+
 ---
 
 If you're new to welding or just sick of craning your neck under a flip-down dark lens, the ARCCAPTAIN Auto Darkening Welding Helmet is the kind of gear that makes you wonder why you waited. At roughly half the price of a Miller or Lincoln autodarkening hood, it delivers the two features that actually matter — a true color view and reliable auto-darkening — without the premium brand tax. But like any budget-friendly tool, there are tradeoffs worth knowing about before you click buy.

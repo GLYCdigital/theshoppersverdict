@@ -1,4 +1,5 @@
 ---
+
 title: "ART ESPRESSO"
 seo_title: "ART ESPRESSO Review: Honest Take Before You Buy"
 meta_description: "ART ESPRESSO review: real buyer feedback on build, shot quality, and ease of use. See pros, cons, and who should buy before spending."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BSXW9Q7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AzlrLdjWL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 9-bar extraction produces thick crema rivaling machines twice the price"
   - "Stainless steel boiler heats up in under 60 seconds — no long morning wait"
   - "Compact footprint fits tight countertops without sacrificing portafilter size (58mm)"
-cons:
+cons: 
   - "Steam wand takes 20+ seconds to build pressure for milk frothing — impatient users will notice"
   - "Drip tray is shallow; expect to empty it after 3-4 shots or a single milk-based drink"
   - "No pressure gauge — dialing in new beans requires trial-and-error or a separate scale"
+
 ---
 
 # ART ESPRESSO Review: Does It Deliver Real Espresso or Just Looks the Part?

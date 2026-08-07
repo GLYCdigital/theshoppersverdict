@@ -1,4 +1,5 @@
 ---
+
 title: "JONATHAN Y TBL1022 Ceramic Drum Indoor/Outdoor Garden Stool,"
 seo_title: "JONATHAN Y TBL1022 Ceramic Drum Indoor/Outdoor Gar Review"
 meta_description: "Our full jonathan y tbl1022 ceramic drum indoor/outdoor garden stool, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWNJ5M8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814FDpD3c9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a piece of sculpture and a piece of furniture sits the JONATHAN Y TBL1022 Ceramic Drum Garden Stool. At 4.6 stars across 229 ratings, it's clearly clicking with buyers — but let's talk about whether it deserves a spot on your patio or in your living room.

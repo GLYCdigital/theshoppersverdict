@@ -1,15 +1,16 @@
 ---
+
 title: "Brita Longlast Replacement Water Filter for Pitchers, 120 gallon each water filter with 99% lead removal, 2ct"
 seo_title: "Brita Longlast Replacement Review: Verdict (4.6/5) | TSV"
 meta_description: "Fast delivery Good product and fast 37,212+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "brita-longlast-replacement-water-filter-for-pitchers-120-gallon-each-water-filter-review"
 image_alt: "Brita Longlast Replacement Water Filter for Pitchers, 120 gallon each water filter with 99% lead removal, 2ct"
-keywords:
+keywords: 
   - "brita longlast replacement review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Brita Longlast Replacement Water?"
     answer: "Fast delivery Good product and fast delivery That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Brita Longlast Replacement Water?"
@@ -22,10 +23,11 @@ review_count: 37212
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MU7973W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+OP0yDXFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fast delivery Good product and fast delivery."
-cons:
+cons: 
   - "It would drip slowly."
+
 ---
 
 **The 6-Month Filter That Actually Delivers: Brita Longlast Tested**

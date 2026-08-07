@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE BUFFALO Basics Wet Can Cat Adult Grain Free Support Gen"
 seo_title: "Blue Buffalo Basics Wet Cat Food Review: Gentle Digestion (2026)"
 meta_description: "Honest Blue Buffalo Basics wet cat food review: grain-free, limited-ingredient recipe for sensitive stomachs. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D2XCG9X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qJGC87btL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single animal protein source (real turkey) with no chicken, beef, or fish — ideal for cats with protein sensitivities"
   - "Grain-free formula with pumpkin and easily digestible carbohydrates like potatoes and peas"
   - "No by-products, corn, wheat, soy, or artificial preservatives — clean ingredient panel"
-cons:
+cons: 
   - "Pate texture is dense and firm; picky cats that prefer shredded or sliced textures may turn up their noses"
   - "Slightly higher price per ounce than comparable grain-free wet foods from other brands"
   - "Some cats with severe food allergies may still react to the potato or pea content"
+
 ---
 
 If your cat has a sensitive stomach, you know the drill — the vet visit, the trial-and-error with different proteins, the cleanup. Blue Buffalo Basics line was designed specifically for that scenario, and this wet food formula has become a go-to for many owners. With a 4.3-star average across 215 ratings, it's clearly working for a lot of felines. Here's the full breakdown.

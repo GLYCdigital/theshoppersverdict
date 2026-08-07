@@ -1,4 +1,5 @@
 ---
+
 title: "Garnpet Elevated Dog Bed for Large Dogs, Raised Dog Cot Fits"
 seo_title: "Garnpet Elevated Dog Bed Review: Large Dog Cot Tested"
 meta_description: "Honest Garnpet elevated dog bed review for large breeds. Tested for durability, comfort, and ease of cleaning. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0C533ZWXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WwIcqTv5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "600D Oxford fabric and all-steel frame hold up to 120 lbs without sagging"
   - "Elevated design promotes airflow, keeping joints off cold floors and fur cool in summer"
   - "Assembles in under 5 minutes with no tools — genuinely tool-free, not marketing-speak"
-cons:
+cons: 
   - "3.7-star average reflects durability complaints; some buyers report frame welds failing within months"
   - "Mesh fabric is abrasive on bare skin — dogs with thin coats or pressure sores may need a pad on top"
+
 ---
 
 If you've got a 70-pound lab who thinks your sofa is his personal throne, the Garnpet Elevated Dog Bed looks like the sensible solution: a raised cot that gets him off the floor, keeps air moving underneath, and folds up when guests arrive. But at 3.7 stars with 185 ratings, the real question is whether this cot earns its spot in your living room or ends up in the garage by Christmas.

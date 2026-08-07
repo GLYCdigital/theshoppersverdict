@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Isabella Collection 10' x 14' Cream/Beige ISA912A O"
 seo_title: "SAFAVIEH Isabella Collection 10' x 14' Cream/Beige Review"
 meta_description: "Our full safavieh isabella collection 10' x 14' cream/beige isa912a o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BNG82495/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918EZrD591L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10x14 rug is a commitment — both in floor space and dollars. The SAFAVIEH Isabella Collection in Cream/Beige (ISA912A O) is one of the most-searched large-format oriental-style rugs on Amazon, and with 200 ratings averaging a solid 4.0 stars, it's clearly earning its keep in real homes. But "solid" isn't "spectacular," and after digging through buyer experiences and the spec sheet, here's the honest breakdown.

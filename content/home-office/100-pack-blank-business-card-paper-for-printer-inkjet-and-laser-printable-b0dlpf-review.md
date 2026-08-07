@@ -1,4 +1,5 @@
 ---
+
 title: "100 Pack Blank Business Card Paper for Printer, Inkjet and L"
 seo_title: "100 Pack Blank Business Card Paper Review (2026): Worth It?"
 meta_description: "Honest review of 100-pack blank business card paper for inkjet & laser printers. Real thickness, print quality, and jam risk — before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DLPF85Z4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qMK49sUDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 12pt cardstock with smooth matte finish — takes inkjet ink without bleed and holds up to laser heat without curl"
   - "Perforations actually tear cleanly — no ragged edges or peeled coating along the card boundary"
   - "100 sheets = 1,000 cards, which undercuts most retail printing for small batches"
-cons:
+cons: 
   - "No included template software or QR code to download layouts — you're on your own for design setup"
   - "Perforation strength varies slightly between batches; a few sheets tear with a bumpier edge than others"
+
 ---
 
 You can print 1,000 business cards for the cost of a lunch. That's the pitch with this 100-pack of blank cardstock. And honestly, it mostly delivers. But the devil is in the perforation and the paper weight — so let's get specific.

@@ -1,4 +1,5 @@
 ---
+
 title: "DiagnosThis – Hilarious Hypochondriac Party Game for Adult"
 seo_title: "DiagnosThis Review: Hilarious Hypochondriac Party Game (2026)"
 meta_description: "Read our honest DiagnosThis party game review: 300 diagnosis cards, 100 symptom cards, and nonstop laughs. See if this adult game is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09HR5CXXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GLtfsAYiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "300 diagnosis cards and 100 symptom cards provide massive replayability without repetitive rounds"
   - "Simple one-minute setup with no board, pieces, or app — just cards and a phone timer"
   - "Works for 3–20 players, making it flexible for small gatherings or large parties"
-cons:
+cons: 
   - "Humor leans heavily into medical gore — squeamish players may find some cards gross rather than funny"
   - "Best experienced with 4+ players; 3-player rounds can feel flat without enough competing diagnoses"
+
 ---
 
 Let's be honest: you've already self-diagnosed yourself with at least three conditions just reading the product name. That's exactly the audience DiagnosThis is built for. This isn't a serious medical game — it's a party game that weaponizes your WebMD addiction for maximum laughter.

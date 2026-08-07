@@ -1,4 +1,5 @@
 ---
+
 title: "CARPETNAL Farmhouse Dresser for Bedroom,Wood Rustic Chest of"
 seo_title: "CARPETNAL Farmhouse Dresser Review: Rustic 6-Drawer Chest"
 meta_description: "CARPETNAL Farmhouse Dresser review: 6 spacious drawers, sturdy wood build, easy assembly. See pros, cons, and who should buy this rustic bedroom chest."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FHDYQ8ZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Utb4HAKJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six full-width drawers with smooth metal glides hold significantly more than typical 5-drawer chests"
   - "Genuine wood veneer over MDF with a matte, low-sheen finish that hides fingerprints and minor scuffs"
   - "Anti-tip wall anchor included and pre-drilled — rare at this price point"
-cons:
+cons: 
   - "Drawer pulls are cheap plastic dipped in metallic paint; expect to upgrade them within a year"
   - "Back panel is thin fiberboard that can bow if you overload the top drawer with heavy items"
+
 ---
 
 If you've been scrolling past the same flat-pack dressers with their fake wood grain and wobbly legs, the CARPETNAL Farmhouse Dresser is the first one that actually looks like it belongs in a styled bedroom, not a college dorm. At 4.1 stars from 204 ratings, it's not perfect — but it's surprisingly close for the price.

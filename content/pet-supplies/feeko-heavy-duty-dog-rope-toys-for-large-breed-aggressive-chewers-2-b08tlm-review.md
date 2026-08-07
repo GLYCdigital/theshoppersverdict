@@ -1,4 +1,5 @@
 ---
+
 title: "Feeko Heavy Duty Dog Rope Toys for Large Breed Aggressive Ch"
 seo_title: "Feeko Heavy Duty Dog Rope Toys Review: Built for Power Chewers"
 meta_description: "Honest Feeko heavy duty dog rope toys review for large breed aggressive chewers. See if these knotted ropes survive real jaws. Pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08TLM91CK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710AsTNk2HL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Thick 3-strand cotton construction with tight knots holds up to serious jaw pressure"
   - "Multiple knots create varied chewing surfaces that also double as dental cleaning points"
   - "Longer length (over 20 inches) gives you a safe grip during tug-of-war without your hand near teeth"
-cons:
+cons: 
   - "Cotton fibers fray and shed noticeably during heavy chew sessions — expect cleanup"
   - "Not truly indestructible; determined power chewers will eventually dismantle it"
+
 ---
 
 **The Short Version**

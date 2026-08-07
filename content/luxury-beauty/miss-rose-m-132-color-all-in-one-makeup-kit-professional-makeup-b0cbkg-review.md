@@ -1,4 +1,5 @@
 ---
+
 title: "MISS ROSE M 132 Color All In One Makeup Kit,Professional Mak"
 seo_title: "MISS ROSE M 132 Color All In One Makeup Kit,Profes Review"
 meta_description: "Our full miss rose m 132 color all in one makeup kit,professional mak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBKGTCW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+2IOEhnLL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: when a makeup kit costs less than a single mid-range eyeshadow palette and claims 132 shades, skepticism is the correct default. But after testing the MISS ROSE M 132 and digging through 235 verified Amazon ratings averaging 4.7 stars, the consensus is clear — this thing delivers far beyond its price point.

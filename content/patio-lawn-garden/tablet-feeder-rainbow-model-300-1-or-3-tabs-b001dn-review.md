@@ -1,7 +1,8 @@
 ---
-title: "Tablet Feeder, Rainbow Model 300, 1\" or 3\" Tabs"
-seo_title: "Tablet Feeder, Rainbow Model 300, 1\" or 3\" Tabs Review: V"
-meta_description: "Our full tablet feeder, rainbow model 300, 1\" or 3\" tabs review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tablet Feeder, Rainbow Model 300, 1\ or 3\ Tabs"
+seo_title: "Tablet Feeder, Rainbow Model 300, 1\ or 3\ Tabs Review: V"
+meta_description: "Our full tablet feeder, rainbow model 300, 1\ or 3\ tabs review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tablet-feeder-rainbow-model-300-1-or-3-tabs-b001dn-review"
 image_alt: "Tablet Feeder, Rainbow Model 300, 1 or 3 Tabs"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B001DNVN5E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yQQsBwpgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you fertilize trees and shrubs more than once a season, you've probably had this thought while kneeling in the dirt with a hand trowel: *there has to be a better way.* The Rainbow Model 300 tablet feeder is that better way—provided you're already using fertilizer tablets. It's a niche tool, but for its intended job, it's about as simple and durable as it gets.

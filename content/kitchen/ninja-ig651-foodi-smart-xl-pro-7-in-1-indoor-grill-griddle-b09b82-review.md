@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja IG651 Foodi Smart XL Pro 7-in-1 Indoor Grill/Griddle C"
 seo_title: "Ninja IG651 Foodi Smart XL Pro 7-in-1 Indoor Grill Review"
 meta_description: "Our full ninja ig651 foodi smart xl pro 7-in-1 indoor grill/griddle c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09B82LJ21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qUHmm7I4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a burger patty sizzle on an outdoor grill and wished you could get that same char without standing in the rain, the Ninja IG651 Foodi Smart XL Pro is the closest thing to a backyard grill that fits on your countertop. This 7-in-1 beast doesn't just grill — it air fries, roasts, bakes, broils, dehydrates, and griddles. But before you drop serious money on it, here's the real story from 229 buyers who've averaged it at 4.6 stars.

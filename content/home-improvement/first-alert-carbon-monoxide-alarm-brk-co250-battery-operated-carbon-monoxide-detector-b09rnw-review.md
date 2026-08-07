@@ -1,23 +1,25 @@
 ---
+
 title: "FIRST ALERT Carbon Monoxide Alarm | BRK CO250 Battery Operat"
 seo_title: "FIRST ALERT CO250 CO Alarm Review: Honest 2026 Verdict"
 meta_description: "FIRST ALERT BRK CO250 battery CO detector review: real-world performance, battery life, quirks. Is it worth $30? Find out before you buy."
 slug: "first-alert-carbon-monoxide-alarm-brk-co250-battery-operated-carbon-monoxide-detector-b09rnw-review"
 image_alt: "First Alert BRK CO250 battery-operated carbon monoxide alarm on white background showing front sensor grill and test button"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09RNWBVFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N13vRi+2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "10-year sealed battery means zero battery changes and no low-battery chirps for a decade"  
   - "End-of-life warning at 10 years is loud and distinct — you won't mistake it for a CO alarm"  
   - "Digital display shows peak CO levels, so you can see if there's a slow leak even before the alarm sounds"  
-cons:  
+cons: 
   - "No voice alerts — just the standard 85dB beep pattern, which can be confusing if you're half-asleep"  
   - "Display is always on and drains battery slightly faster than the non-display model (still 10 years, but worth noting)"
+
 ---
 
 Carbon monoxide is the silent killer that doesn't care about your smoke detector. The FIRST ALERT BRK CO250 is one of the most popular battery-operated CO alarms on Amazon, sitting at 4.7 stars from 235 ratings. But popularity isn't the same as performance. Here's what you're actually getting.

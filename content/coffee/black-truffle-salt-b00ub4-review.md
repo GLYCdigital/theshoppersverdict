@@ -1,4 +1,5 @@
 ---
+
 title: "Black Truffle Salt"
 seo_title: "Black Truffle Salt Review: Worth the Hype? | 2026 inch"
 meta_description: "Black Truffle Salt review: 4.7★ rated. We tested flavor, texture, and value. Real pros, cons, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00UB4Q9RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qJtDX3BzL._SL1500_.jpg"
-pros:
+pros: 
   - "Real black truffle pieces visible throughout the salt — not just truffle aroma"
   - "Flavor holds up in cooking, not just as a finishing salt"
   - "Fine enough texture to distribute evenly without clumping"
-cons:
+cons: 
   - "Price per ounce runs higher than standard finishing salts"
   - "Truffle aroma fades noticeably after the jar has been open for 3-4 months"
   - "Not ideal for dishes where salt dissolves completely — you lose the truffle pieces"
+
 ---
 
 # Black Truffle Salt: The Finishing Touch Your Kitchen's Been Missing

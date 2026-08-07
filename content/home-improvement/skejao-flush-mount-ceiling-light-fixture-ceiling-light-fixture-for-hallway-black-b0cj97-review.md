@@ -1,4 +1,5 @@
 ---
+
 title: "SKEJAO Flush Mount Ceiling Light Fixture,Ceiling Light Fixtu"
 seo_title: "SKEJAO Flush Mount Ceiling Light Fixture,Ceiling L Review"
 meta_description: "Our full skejao flush mount ceiling light fixture,ceiling light fixtu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ971551/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LNqqV5j4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SKEJAO flush mount ceiling light is the kind of fixture that quietly solves a problem without asking for attention. If you've got a hallway, closet, or laundry room stuck with a bare bulb or a builder-grade dome that's yellowed and cracked, this is the upgrade that makes sense.

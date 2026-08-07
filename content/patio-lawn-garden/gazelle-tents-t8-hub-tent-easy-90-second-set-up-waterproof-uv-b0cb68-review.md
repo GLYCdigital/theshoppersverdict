@@ -1,4 +1,5 @@
 ---
+
 title: "Gazelle Tents™, T8 Hub Tent, Easy 90 Second Set-Up, Waterp"
 seo_title: "Gazelle T8 Hub Tent Review: 90-Second Setup, Worth It?"
 meta_description: "Gazelle T8 Hub Tent review: 4.5-star pop-up shelter. Real-world setup time, waterproofing, and durability tested. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CB684LK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711HBlrFkqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 90-second setup thanks to pre-attached hub poles—no threading, no confusion, no cussing"
   - "Hub-and-pole frame creates near-vertical walls, giving you a full 8' x 8' of usable floor space instead of sloped tent geometry"
   - "180-degree mesh ceiling and two large D-shaped doors deliver serious cross-ventilation even with the rainfly on"
-cons:
+cons: 
   - "Strike-down is genuinely harder than setup—the hub mechanism fights back and takes two people to collapse cleanly"
   - "At roughly 23 pounds, this is a car-camping shelter, not a backpacking option; the carry bag is adequate but not padded"
   - "The included stakes are thin sheet metal; upgrade to 8-inch spiral stakes if you camp in anything but packed dirt"
+
 ---
 
 **Opening Hook: The 90-Second Claim Is Real—But That's Only Half the Story**

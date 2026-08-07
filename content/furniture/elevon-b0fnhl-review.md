@@ -1,4 +1,5 @@
 ---
+
 title: "Elevon"
 seo_title: "Elevon Review: Honest Look at This 4.3-Star Furniture Pick"
 meta_description: "Elevon furniture review: real pros, cons, and buyer feedback. Is this 4.3-star rated piece worth your money? Read our honest verdict before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FNHL25J8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91lQUwKrgvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy solid-wood frame construction that holds up well under daily use"
   - "Straightforward assembly in under 30 minutes with clearly labeled parts"
   - "Neutral finish options that blend easily with existing decor"
-cons:
+cons: 
   - "Surface scratches easily — requires immediate touch-up kit on hand"
   - "Cushion firmness leans hard; not ideal for those wanting plush comfort"
+
 ---
 
 A furniture piece with 215 ratings holding steady at 4.3 stars is worth a closer look before you commit. The Elevon has been generating buzz in home furnishing circles, but the real question is whether it earns its place in your living space. After digging through buyer experiences and examining the specs, here's what actually matters.

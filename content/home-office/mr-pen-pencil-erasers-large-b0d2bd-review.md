@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Pen Pencil Erasers, Large"
 seo_title: "Mr. Pen Pencil Erasers, Large Review: Verdict | TSV"
 meta_description: "Our full mr. pen pencil erasers, large review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D2BDV6VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tKAFhwpqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $10 Fix for Every Pencil Problem You Have

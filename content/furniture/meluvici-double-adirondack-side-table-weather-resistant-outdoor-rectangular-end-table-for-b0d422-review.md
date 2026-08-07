@@ -1,4 +1,5 @@
 ---
+
 title: "Meluvici Double Adirondack Side Table Weather Resistant,Outd"
 seo_title: "Meluvici Double Adirondack Side Table Weather Resi Review"
 meta_description: "Our full meluvici double adirondack side table weather resistant,outd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D422W84M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uaV+2AhlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some outdoor furniture accessories feel like an afterthought. The Meluvici Double Adirondack Side Table is not one of them. This is a purpose-built piece designed specifically to sit between two Adirondack chairs, with a height and width that actually match the ergonomics of that classic chair silhouette.

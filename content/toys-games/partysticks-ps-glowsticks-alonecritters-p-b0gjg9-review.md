@@ -1,4 +1,5 @@
 ---
+
 title: "PartySticks PS-GlowSticks-AloneCritters-P"
 seo_title: "PartySticks PS-GlowSticks-AloneCritters-P Review: Verdict"
 meta_description: "Our full partysticks ps-glowsticks-alonecritters-p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJG96LM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g3OQ1R95L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the deal with the PartySticks PS-GlowSticks-AloneCritters-P: these aren't your average drugstore glow sticks. They're shaped like animals, which sounds gimmicky until you realize how much kids actually care about that. But are they worth your money? I tested a box across three different scenarios — a birthday party, a camping trip, and a backyard evening — and here's the honest breakdown.

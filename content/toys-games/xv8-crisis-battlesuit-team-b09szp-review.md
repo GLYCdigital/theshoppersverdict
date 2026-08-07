@@ -1,4 +1,5 @@
 ---
+
 title: "XV8 Crisis Battlesuit Team"
 seo_title: "XV8 Crisis Battlesuit Team Review: Verdict | TSV"
 meta_description: "Our full xv8 crisis battlesuit team review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09SZPLZ7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aifRkArqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're building a Tau army, you're going to buy this kit eventually. The only question is whether it's worth your money right now or whether you should wait.

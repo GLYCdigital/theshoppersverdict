@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Antibacterial Liquid Hand Soap, Sensitive Rosewater"
 seo_title: "Softsoap Antibacterial Liquid Hand Soap, Sensitive Review"
 meta_description: "Our full softsoap antibacterial liquid hand soap, sensitive rosewater review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGYWRDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RjG90GufL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Softsoap Antibacterial Liquid Hand Soap, Sensitive Rosewater: The Gentle Cleanser That Actually Works**

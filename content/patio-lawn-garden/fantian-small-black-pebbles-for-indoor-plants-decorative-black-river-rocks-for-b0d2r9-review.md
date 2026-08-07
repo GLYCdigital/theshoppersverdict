@@ -1,4 +1,5 @@
 ---
+
 title: "FANTIAN Small Black Pebbles for Indoor Plants.Decorative Bla"
 seo_title: "FANTIAN Small Black Pebbles Review: Top Pick for Indoor Plants"
 meta_description: "FANTIAN Small Black Pebbles for indoor plants reviewed: coverage, dust, sizing, and real buyer feedback. Is this 4.7-star top dressing worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2R9S8RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YTAPu-K6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely small, uniform 5-8mm size that fits standard 4-6 inch pots without looking chunky"
   - "Washes clean with minimal dust residue — one rinse and the water runs clear"
   - "Jet-black color stays rich after drying; no gray chalky film like cheaper river rocks"
-cons:
+cons: 
   - "Comes in a plain zip-top bag with no resealable closure, so storage after opening is on you"
   - "At roughly 1 pound per 2-inch pot layer, you'll need two bags for a 10-inch planter"
+
 ---
 
 I've lost count of how many "decorative pebbles" arrive looking like gravel from a construction site. The FANTIAN Small Black Pebbles are not that. These are polished, tumbled river rocks averaging 5-8mm — small enough to look intentional on a succulent tray, large enough not to blow away when you water.

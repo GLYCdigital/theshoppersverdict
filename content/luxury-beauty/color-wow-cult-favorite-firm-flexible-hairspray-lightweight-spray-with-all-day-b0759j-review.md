@@ -1,4 +1,5 @@
 ---
+
 title: "COLOR WOW Cult Favorite Firm + Flexible Hairspray – Lightw"
 seo_title: "COLOR WOW Firm + Flexible Hairspray Review: Lightweight Hold"
 meta_description: "COLOR WOW Cult Favorite Firm + Flexible Hairspray review: Does the lightweight spray deliver all-day hold without crunch? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0759JPRFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JQ4cC5uuL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly flexible hold that lets hair move naturally without stiff, helmet-like feel"
   - "Fine mist sprayer delivers even coverage without drenching or soaking strands"
   - "Washes out completely with one shampoo — no buildup or flaking residue"
-cons:
+cons: 
   - "Price point sits firmly in luxury territory — cheaper drugstore sprays do exist"
   - "Not ideal for extreme humidity or high-impact styles needing maximum hold"
+
 ---
 
 Let’s be honest about hairspray: most formulas force you to choose between rock-hard hold that crunches like a chip or a weak mist that evaporates by lunch. COLOR WOW’s Cult Favorite Firm + Flexible Hairspray claims to thread that needle. After testing it across workdays, gym sessions, and a wedding, here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "GOZIG 14W LED Dimmable Light Bulbs 100 Watt Equivalent, A19 "
 seo_title: "GOZIG 14W LED Dimmable Light Bulbs 100 Watt Equiva Review"
 meta_description: "Our full gozig 14w led dimmable light bulbs 100 watt equivalent, a19  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5B869JR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FHDQZIrVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The GOZIG 14W LED bulb delivers genuine 100-watt-equivalent output in a package that actually fits standard fixtures. It's not perfect for every household, but for most buyers, it's a strong upgrade over incandescent. Here's the full breakdown.

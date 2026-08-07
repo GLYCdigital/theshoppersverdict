@@ -1,4 +1,5 @@
 ---
+
 title: "Aurora® Adorable Palm Pals™ Clover Bunny Stuffed Animal -"
 seo_title: "Aurora Palm Pals Clover Bunny Review: Cute Collectible Plush"
 meta_description: "Aurora Palm Pals Clover Bunny review: tiny 5-inch collectible plush with premium materials. See pros, cons, and who should buy this adorable mini stuffed animal."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN4RS221/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LsPfQ4W8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality materials with soft, huggable texture that holds up to repeated handling"
   - "Perfect palm-sized 5-inch design with weighted bottom for stable display"
   - "Adorable detailed face with embroidered eyes and cute clover accent"
-cons:
+cons: 
   - "Small size may disappoint those expecting a full-size stuffed animal"
   - "Limited poseability — it's a static display piece, not a play toy"
+
 ---
 
 ## The Tiny Plush That's Taking Over Desks and Shelves

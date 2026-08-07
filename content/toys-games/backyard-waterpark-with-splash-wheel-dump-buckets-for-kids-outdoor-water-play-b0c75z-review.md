@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Waterpark with Splash Wheel, Dump Buckets for Kids"
 seo_title: "Backyard Waterpark with Splash Wheel Review: Worth It?"
 meta_description: "Honest review of the Backyard Waterpark with Splash Wheel and Dump Buckets. See how it holds up, what kids love, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C75ZS35H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1x47DO1JyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multiple play stations (splash wheel, dump buckets, water slides) keep 3-4 kids engaged simultaneously without fighting over one feature"
   - "Tool-free setup under 15 minutes with included ground stakes; packs down to a manageable size for garage storage"
   - "Durable PVC and polyester construction holds up to daily summer use, even on grass and concrete"
-cons:
+cons: 
   - "Water pump requires a nearby garden hose — you'll need a 50+ foot hose if your spigot isn't close to your setup spot"
   - "Dump buckets can be aggressive for toddlers under 3; the full-volume dump is a shock of cold water, not a gentle sprinkle"
+
 ---
 
 ## A Backyard Splash Zone That Actually Delivers

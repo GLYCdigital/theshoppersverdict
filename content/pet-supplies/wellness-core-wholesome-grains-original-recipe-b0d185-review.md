@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness CORE Wholesome Grains Original Recipe"
 seo_title: "Wellness CORE Wholesome Grains Original Recipe Review: Ve"
 meta_description: "Our full wellness core wholesome grains original recipe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D18536JT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fXikphjmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the grain-inclusive kibble your dog actually needs? Here's the honest breakdown.**

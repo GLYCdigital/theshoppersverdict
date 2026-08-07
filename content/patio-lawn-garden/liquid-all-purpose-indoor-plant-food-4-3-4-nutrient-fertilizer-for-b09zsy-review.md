@@ -1,4 +1,5 @@
 ---
+
 title: "Liquid All Purpose Indoor Plant Food | 4-3-4 Nutrient Fertil"
 seo_title: "Liquid All Purpose Indoor Plant Food | 4-3-4 Nutri Review"
 meta_description: "Our full liquid all purpose indoor plant food | 4-3-4 nutrient fertil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09ZSYYF64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PGdp+AotL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4-3-4 Fertilizer That Just Works — Here's the Honest Breakdown

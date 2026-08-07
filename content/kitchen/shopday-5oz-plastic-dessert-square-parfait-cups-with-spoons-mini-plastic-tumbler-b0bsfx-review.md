@@ -1,4 +1,5 @@
 ---
+
 title: "SHOPDAY 5oz Plastic Dessert Square Parfait Cups with Spoons,"
 seo_title: "SHOPDAY 5oz Plastic Dessert Square Parfait Cups wi Review"
 meta_description: "Our full shopday 5oz plastic dessert square parfait cups with spoons, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSFXJQH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X8c13yV+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever served dessert at a party, you know the drill: you buy those flimsy plastic cups, they crack when you spoon in the mousse, and the lids pop off halfway to the table. The SHOPDAY 5oz square parfait cups are a deliberate step up from that experience — but they're not without their quirks.

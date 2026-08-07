@@ -1,4 +1,5 @@
 ---
+
 title: "Brother MFC-L9570CDW (TN436) Super High Yield Toner Cartridg"
 seo_title: "Brother TN436 Toner Review: 6,500-Page Cartridge Value"
 meta_description: "Honest Brother TN436 super high yield toner review: real page yields, print quality, cost per page, and compatibility with MFC-L9570CDW."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B076XKFLXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tNV2H1LrL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Genuine Brother cartridges deliver the full 6,500-page yield — no premature 'replace toner' warnings, unlike some compatibles"
   - "Consistent color registration and density across all four cartridges; no banding or streaking even on heavy coverage prints"
   - "Cost per page drops to roughly 2.5 cents for black and 6 cents for color — cheaper than buying standard-yield cartridges repeatedly"
-cons:
+cons: 
   - "Upfront cost is steep — you'll drop $400+ for a full set of four, which stings if you don't print volume regularly"
   - "Older TN436 design lacks the built-in waste toner reservoir found on newer Brother models, requiring more frequent cleaning cycles"
+
 ---
 
 The Brother TN436 super high yield toner cartridges are the workhorses behind the MFC-L9570CDW, a color laser multifunction printer that's a staple in busy offices. If you're staring at the $400+ price tag for a full set of four, here's the honest breakdown of whether they're worth it.

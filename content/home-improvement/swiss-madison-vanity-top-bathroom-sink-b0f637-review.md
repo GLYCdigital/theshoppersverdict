@@ -1,4 +1,5 @@
 ---
+
 title: "Swiss Madison Vanity Top Bathroom Sink"
 seo_title: "Swiss Madison Vanity Top Bathroom Sink Review: Verdict | "
 meta_description: "Our full swiss madison vanity top bathroom sink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F6375SZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E-pfEN6CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A bathroom vanity top is a purchase you make once and live with for a decade. So when a product hovers at 3.8 stars out of 190 reviews, you want to know exactly what you're getting into. Here's the unvarnished truth about the Swiss Madison vanity top.

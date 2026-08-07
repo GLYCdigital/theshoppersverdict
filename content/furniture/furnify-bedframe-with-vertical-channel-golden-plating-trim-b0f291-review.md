@@ -1,4 +1,5 @@
 ---
+
 title: "Furnify Bedframe with Vertical Channel & Golden Plating Trim"
 seo_title: "Furnify Bedframe Review: Channel Tufted Headboard, Gold Trim"
 meta_description: "Honest Furnify Bedframe review: Is the vertical channel headboard with gold trim worth it? Real buyer feedback, build quality, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F2915CY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lLRt1+iNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Channel-tufted upholstered headboard with gold trim delivers a designer look at a sub-designer price point"
   - "Tool-free assembly in under 30 minutes — one person can handle it solo"
   - "Sturdy steel frame with center support legs rated for heavier mattresses"
-cons:
+cons: 
   - "Fabric is a magnet for dust and pet hair; requires regular vacuuming to keep the channels crisp"
   - "Gold plating is cosmetic only — scratches can expose the base metal underneath"
   - "No options for headboard height adjustment; fixed at 48 inches"
+
 ---
 
 **Does the Furnify Bedframe Deliver Hotel-Style Looks Without the Hotel Price Tag?**

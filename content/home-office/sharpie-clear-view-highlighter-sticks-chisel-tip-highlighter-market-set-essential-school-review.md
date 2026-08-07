@@ -1,16 +1,17 @@
 ---
+
 title: "Sharpie Clear View Highlighter Sticks, Chisel Tip Highlighter Market Set, Essential School & Teacher Supplies, Smear Resistant, Assorted Color Highlighters, 8-Pack"
 seo_title: "Sharpie Clear View Highlighter Sticks, Chisel Tip  Review"
 meta_description: "Honest sharpie clear view highlighter sticks, c review based on 16,096+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "sharpie-clear-view-highlighter-sticks-chisel-tip-highlighter-market-set-essential-school-review"
 image_alt: "Sharpie Clear View Highlighter Sticks, Chisel Tip Highlighter Market Set, Essential School & Teacher Supplies, Smear Res"
-keywords:
+keywords: 
   - "sharpie clear view review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Sharpie Clear View Highlighter Sticks well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the common complaints about the Sharpie Clear View Highlighter Sticks?"
@@ -23,12 +24,13 @@ review_count: 16096
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B019QROV9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812SV-LMAeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Good feature set for the price"
   - "Compact and space-efficient"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 If you're shopping for a home office accessory, you've probably noticed the Sharpie Clear View Highlighter Sticks, Chisel.... After combing through 16,096 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

@@ -1,4 +1,5 @@
 ---
+
 title: "Koala Thick Photo Paper 8.5x11 Inches Heavyweight Double Sid"
 seo_title: "Koala Thick Photo Paper 8.5x11 Inches Heavyweight  Review"
 meta_description: "Our full koala thick photo paper 8.5x11 inches heavyweight double sid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07F2C5PRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fx8nK-H3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most photo papers make you choose between durability and print quality. Koala’s 8.5x11 Heavyweight Double Sided paper tries to give you both, and for the most part, it succeeds. This isn’t the paper you grab for casual snapshots—it’s a specialty stock built for projects that need to survive handling, folding, or display. After testing it through a standard inkjet printer, here’s the honest breakdown.

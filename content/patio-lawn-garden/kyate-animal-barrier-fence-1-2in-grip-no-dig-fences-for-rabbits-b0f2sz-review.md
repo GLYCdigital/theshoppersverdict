@@ -1,4 +1,5 @@
 ---
+
 title: "KYATE Animal Barrier Fence 1.2in Grip No Dig Fences for Rabb"
 seo_title: "KYATE Animal Barrier Fence 1.2in Grip No Dig Fence Review"
 meta_description: "Our full kyate animal barrier fence 1.2in grip no dig fences for rabb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2SZ533W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d6Rm+794L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

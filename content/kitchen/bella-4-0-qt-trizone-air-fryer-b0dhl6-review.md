@@ -1,4 +1,5 @@
 ---
+
 title: "Bella 4.0 QT TriZone Air Fryer"
 seo_title: "Bella 4.0 QT TriZone Air Fryer Review: 3 Zones, 1 Basket"
 meta_description: "Is the Bella 4.0 QT TriZone Air Fryer worth it? Our hands-on review covers the 3-zone cooking, performance, and real user feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHL6RQBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E6D8stKdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "TriZone technology lets you cook three different items simultaneously without flavor transfer, using dividers that actually stay put."
   - "4-quart capacity is the sweet spot for couples and small families—large enough for a whole 4-pound chicken but compact enough for countertop storage."
   - "Dishwasher-safe basket and divider system make cleanup significantly easier than single-basket models with awkward crevices."
-cons:
+cons: 
   - "The presets are conservative; you'll likely need to add 2-4 minutes to most frozen food settings to get that golden crispness."
   - "No dehydrator function, which is becoming standard on similarly priced air fryers from competitors."
+
 ---
 
 Let’s cut through the air fryer noise. The market is flooded with basket-style fryers that all promise crispy wings and golden fries. The Bella 4.0 QT TriZone tries something different—instead of one big basket, it gives you a 4-quart basket with removable dividers that let you cook three separate foods at once. Is that a gimmick or a game-changer? After testing it against my usual weeknight rotation, I have a clear answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "ID-COOLING FX INF CPU Liquid Cooler AIO Cooler for Intel and"
 seo_title: "ID-COOLING FX INF CPU Liquid Cooler AIO Cooler for Review"
 meta_description: "Our full id-cooling fx inf cpu liquid cooler aio cooler for intel and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GG9C17MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X0nX2LmWL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: the ID-COOLING FX INF is a 240mm AIO that competes with units costing twice as much, but it makes you earn that savings with a few quirks. After digging through 220 Amazon ratings (4.4 stars) and cross-referencing thermal data, here's what you actually need to know before clicking buy.

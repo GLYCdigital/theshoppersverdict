@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor Wall Lights - 2-Pack Black Wall Sconces, Farmhouse B"
 seo_title: "Outdoor Wall Lights - 2-Pack Black Wall Sconces, F Review"
 meta_description: "Our full outdoor wall lights - 2-pack black wall sconces, farmhouse b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6W4MWWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AXMlBotIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: there are roughly 4,000 outdoor wall sconces on Amazon, and most of them are flimsy, rust-prone junk that looks great in photos and disappoints by spring. These 2-pack black farmhouse barn lights from the B0D6W4 line are different — and the 4.7-star rating across 235 reviews backs that up.

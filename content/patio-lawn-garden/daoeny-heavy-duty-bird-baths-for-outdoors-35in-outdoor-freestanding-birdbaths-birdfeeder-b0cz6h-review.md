@@ -1,24 +1,26 @@
 ---
+
 title: "Daoeny Heavy Duty Bird Baths for Outdoors, 35In Outdoor Free"
 seo_title: "Daoeny 35In Bird Bath Review: Heavy Duty & Free-Standing"
 meta_description: "Honest Daoeny 35In heavy duty bird bath review: build quality, stability, real buyer feedback, and who should buy it. See pros, cons, and verdict."
 slug: "daoeny-heavy-duty-bird-baths-for-outdoors-35in-outdoor-freestanding-birdbaths-birdfeeder-b0cz6h-review"
 image_alt: "Daoeny 35-inch heavy duty free-standing outdoor bird bath with pedestal and basin"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZ6HSW13/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61keWh+q4-L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Thick, powder-coated steel frame resists rust and holds steady in moderate wind"  
   - "35-inch height is genuinely useful — eye-level viewing from most patio chairs"  
   - "Shallow basin (about 2 inches deep) is exactly what small songbirds prefer"  
-cons:  
+cons: 
   - "Basin is one solid piece — you can't remove it for easy dumping, so cleaning requires tilting the whole unit"  
   - "Assembly tools are included, but the bolts are small and fiddly if you have large hands or arthritis"  
   - "Not truly 'free-standing' on soft grass; the base needs a flat, firm surface to avoid tipping"
+
 ---
 
 If you've ever watched a robin awkwardly perch on a slick, deep plastic dish, you know most bird baths miss the point. The Daoeny 35-inch heavy duty bird bath doesn't. It's tall, stable, and deliberately shallow — built for actual birds, not just lawn ornament vibes. At 4.3 stars from 215 ratings, it's got a solid track record. Here's what you need to know before you click buy.

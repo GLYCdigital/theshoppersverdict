@@ -1,4 +1,5 @@
 ---
+
 title: "HONBAY Modular Sectional Couch with Pull Out Bed"
 seo_title: "HONBAY Modular Sectional Couch with Pull Out Bed Review: "
 meta_description: "Our full honbay modular sectional couch with pull out bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FWBWDQXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813LkUqNRCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HONBAY Modular Sectional with Pull Out Bed is a rare beast: a genuine sleeper sofa that doesn’t cost a month’s rent.** At a 4.1-star average from 204 ratings, it’s clearly satisfying most buyers — but the real question is whether *you* can live with its quirks. I dug through the reviews, the specs, and the assembly videos so you don’t have to guess.

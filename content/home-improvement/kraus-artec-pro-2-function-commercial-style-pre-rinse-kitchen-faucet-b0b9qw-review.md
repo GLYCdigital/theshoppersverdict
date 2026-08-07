@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus Artec Pro 2-Function Commercial Style Pre-Rinse Kitche"
 seo_title: "Kraus Artec Pro 2-Function Commercial Style Pre-Ri Review"
 meta_description: "Our full kraus artec pro 2-function commercial style pre-rinse kitche review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9QWYC9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41oVWSmuwJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Commercial-Style Workhorse That Demands a Little Effort**

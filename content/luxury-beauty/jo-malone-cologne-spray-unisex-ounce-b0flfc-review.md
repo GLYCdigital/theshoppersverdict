@@ -1,4 +1,5 @@
 ---
+
 title: "Jo Malone & Cologne Spray Unisex Ounce"
 seo_title: "Jo Malone & Cologne Spray Unisex Ounce Review: Verdict | "
 meta_description: "Our full jo malone & cologne spray unisex ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLFC7PJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715R5Xye2-L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Jo Malone is one of those names that carries weight before you even smell it. The unisex cologne spray in the 1 oz size is the brand's answer to "I want the luxury without committing to a bottle that lives on my vanity forever." At 4.6 stars from 229 ratings, it's clear this little bottle has found its audience. But is it worth the premium? Let's get into it.

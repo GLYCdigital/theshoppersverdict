@@ -1,4 +1,5 @@
 ---
+
 title: "Braun IPL at Home Laser Hair Removal"
 seo_title: "Braun IPL at Home Review: Real Results or Hype?"
 meta_description: "Honest Braun IPL at Home laser hair removal review: performance, pain level, skin compatibility, and who should buy it. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FS1X6CL4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5125ZbzF69L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Cordless operation means you can actually reach your knees, ankles, and bikini line without contorting around a wall outlet"
   - "Skin tone sensor automatically adjusts intensity — it won't fire if your skin is too dark for safe treatment"
   - "Built-in precision head for small areas like upper lip and chin makes facial work genuinely doable"
-cons:
+cons: 
   - "At-home IPL requires consistent weekly treatments for 12+ weeks before you see meaningful reduction — this is a marathon, not a sprint"
   - "Not effective on light blonde, red, gray, or white hair — the melanin contrast simply isn't there for the light to target"
+
 ---
 
 **The Short Version: This Is Not the $400 Salon Laser, But It's Close Enough for Most People**

@@ -1,4 +1,5 @@
 ---
+
 title: "KELUOLY Antique Chandelier Crystal Glass Chandeliers, Round "
 seo_title: "KELUOLY Antique Chandelier Crystal Glass Chandelie Review"
 meta_description: "Our full keluoly antique chandelier crystal glass chandeliers, round  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQ2V7M7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ot7xoqtqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 So you're staring at a listing photo of a crystal chandelier that looks like it belongs in a Parisian hotel, and you're wondering: *Is this actually going to look that good in my dining room, or is it going to show up looking like a prop from a haunted house?*

@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier TV Stand for 70 inch TV"
 seo_title: "Bestier TV Stand for 70 inch TV Review (2026): Is It Worth It?"
 meta_description: "Honest Bestier TV Stand for 70 inch TV review: build quality, assembly, real-world use, and who should buy it. 4.6/5 rating analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW12LWJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pUMrlmQIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rated to hold up to 110 lbs on top, so a 70-inch TV with a heavy soundbar won't strain the frame"
   - "Two tempered glass shelves with adjustable height slots — you can fit a receiver and a game console without awkward stacking"
   - "Cable management holes cut into the back panel at both shelf levels, not just one token grommet"
-cons:
+cons: 
   - "The included anti-tip strap is an anchor that must be screwed into a stud; renters or anyone with metal studs will need to rig their own solution"
   - "Assembly takes 45–60 minutes with two people; the glass shelves are heavy and the cam-lock hardware needs firm, precise tightening"
+
 ---
 
 If you're shopping for a TV stand that won't collapse under a 70-inch panel, the Bestier TV Stand deserves a serious look. With a 4.6-star average across 229 ratings, it's clearly doing something right — but let me tell you what that "something" actually is, and where it falls short.

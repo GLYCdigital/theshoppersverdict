@@ -1,4 +1,5 @@
 ---
+
 title: "NutriSource Pure Vita Limited Ingredient Grain Free Dry Dog "
 seo_title: "NutriSource Pure Vita Limited Ingredient Grain Fre Review"
 meta_description: "Our full nutrisource pure vita limited ingredient grain free dry dog  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNQ2MDKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yCKYAnYsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog's been scratching raw patches or turning up their nose at chicken-based kibble, you've likely gone down the limited-ingredient diet (LID) rabbit hole. The NutriSource Pure Vita Turkey Recipe is one of the most talked-about options in that space — and with a 4.6-star average across 229 ratings, it's earned genuine word-of-mouth. But does it live up to the hype, or is it just another overpriced boutique bag?

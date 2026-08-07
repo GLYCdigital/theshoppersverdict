@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources View-Thru Geometric Solids, Geometry Help"
 seo_title: "Learning Resources View-Thru Geometric Solids, Geo Review"
 meta_description: "Our full learning resources view-thru geometric solids, geometry help review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYRYNBLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815LZelvuiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to explain why a cone holds one-third the volume of a cylinder to a squirmy 9-year-old, you know the struggle. The Learning Resources View-Thru Geometric Solids (14 pieces, ages 8+) attacks that problem with a simple, brilliant trick: let the kid pour water into the shapes and see it happen.

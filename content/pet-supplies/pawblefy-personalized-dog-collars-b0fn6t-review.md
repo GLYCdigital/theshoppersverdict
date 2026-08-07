@@ -1,4 +1,5 @@
 ---
+
 title: "PAWBLEFY Personalized Dog Collars"
 seo_title: "PAWBLEFY Personalized Dog Collars Review: Verdict | TSV"
 meta_description: "Our full pawblefy personalized dog collars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN6TWHN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RITMTcZqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the "personalized collar" aisle at PetSmart — flimsy nylon, iron-on letters that peel in a month, and a $30 price tag for something your dog will destroy. The PAWBLEFY Personalized Dog Collar is not that. It's the collar that makes other dog parents at the park ask, "Where'd you get that?" — and then actually write it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Coleman Carlsbad Dark Room Tent with Screened Porch, 4/6 Per"
 seo_title: "Coleman Carlsbad Dark Room Tent Review: 4/6 Person"
 meta_description: "Coleman Carlsbad Dark Room Tent with Screened Porch review: 4.2/5 stars. Is the 4/6-person camping tent worth it? Pros, cons, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPGTM1RC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jKW9Ld4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dark Room technology blocks 90%+ of sunlight, letting you sleep past sunrise without an eye mask"
   - "Separate screened porch adds ~20 sq ft of bug-free living space without increasing tent footprint much"
   - "Weatherproof welded floors and inverted seams hold up in real rain, not just light drizzle"
-cons:
+cons: 
   - "Dark Room fabric traps heat noticeably in direct sun — you'll want the rainfly off at night to cool down"
   - "Setup requires two people; the pole sleeves and porch attachments are fiddly solo"
+
 ---
 
 Let's be direct about the Coleman Carlsbad: this tent exists to solve one specific camping problem — waking up at 5:47 AM because the sun turned your tent into a lantern. The Dark Room technology genuinely does what it claims. But the screened porch adds complexity that some buyers won't need, and that's the real question you need to answer before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "The Bedroom Store Waterbed Heater 325W â€“ Temperature Contr"
 seo_title: "The Bedroom Store Waterbed Heater 325W â€“ Tempera Review"
 meta_description: "Our full the bedroom store waterbed heater 325w â€“ temperature contr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVZRPDTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O9Bb124yL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've slept on a cold waterbed in January, you already know the misery. The Bedroom Store's 325W heater is the upgrade that makes that problem disappear — provided you're willing to work with its quirks.

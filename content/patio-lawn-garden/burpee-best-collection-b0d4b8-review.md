@@ -1,4 +1,5 @@
 ---
+
 title: "Burpee Best Collection"
 seo_title: "Burpee Best Collection Review: Worth It in 2026?"
 meta_description: "Burpee Best Collection review: honest look at seed variety, germination rates, and value. See if this garden bundle earns its 4.4-star rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4B8YF3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S5FwO5OpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Non-GMO seeds from a 140-year-old company with reliable germination rates"
   - "Well-curated mix of beginner-friendly varieties that actually produce"
   - "Packets include clear planting depth and spacing instructions"
-cons:
+cons: 
   - "No individual packet counts printed on outer bundle packaging"
   - "Some varieties may be regional duds depending on your growing zone"
+
 ---
 
 # Burpee Best Collection: The Gardener's Variety Pack That Actually Delivers

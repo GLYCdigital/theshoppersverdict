@@ -1,4 +1,5 @@
 ---
+
 title: "Axeman Floating Shelves with Lip Set of 4 inch"
 seo_title: "Axeman Floating Shelves with Lip Review: Set of 4 (2026)"
 meta_description: "Axeman Floating Shelves with Lip Set of 4 review: sturdy MDF, 17.5-lb capacity, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKSXF76W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CpjFbDt0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hidden bracket system creates a true floating look with no visible hardware"
   - "Raised 0.6-inch lip keeps books and framed photos from sliding off"
   - "Pre-drilled holes and included template make installation genuinely foolproof"
-cons:
+cons: 
   - "MDF construction means you should avoid heavy items like full encyclopedias or large pottery"
   - "Only two color options (black and white) — no wood grain finishes available"
+
 ---
 
 **Axeman Floating Shelves with Lip Set of 4 Review: The Hidden Bracket Shelves That Actually Stay Put**

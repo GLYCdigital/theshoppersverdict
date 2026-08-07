@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Door, Plastic Pet Door, Dog Door for Door, 2Flap, White"
 seo_title: "Dog Door Plastic Pet Door 2Flap White Review (2026)"
 meta_description: "Honest Dog Door Plastic Pet Door 2Flap White review. Tested for durability, flap stiffness, and energy efficiency. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKTK5545/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TT0DiJR3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double flap design significantly reduces drafts and keeps out weather better than single-flap competitors"
   - "Locking panels slide fully closed for security — not just a flimsy pin, but a solid barrier"
   - "Cutting template included makes DIY installation manageable even for first-time pet door users"
-cons:
+cons: 
   - "Flaps have moderate stiffness — small dogs under 10 lbs may struggle to push through initially"
   - "Frame sits proud of the door surface; won't be flush with decorative interior doors"
+
 ---
 
 If your dog is currently doing the “I need out” tap dance at the door while you're mid-conference call, this Dog Door with the double-flap design deserves a hard look. With a 4.1-star average across 204 ratings, it isn't perfect — but it solves the core problem without requiring a contractor.

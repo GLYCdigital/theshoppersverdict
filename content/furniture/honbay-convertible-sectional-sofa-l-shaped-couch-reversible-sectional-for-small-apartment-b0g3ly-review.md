@@ -1,4 +1,5 @@
 ---
+
 title: "HONBAY Convertible Sectional Sofa L Shaped Couch Reversible "
 seo_title: "HONBAY Convertible Sectional Sofa L Shaped Couch R Review"
 meta_description: "Our full honbay convertible sectional sofa l shaped couch reversible  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G3LYKY6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c6mlvYIDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $400 Sectional That Actually Fits Through Your Door

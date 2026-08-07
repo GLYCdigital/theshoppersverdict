@@ -1,4 +1,5 @@
 ---
+
 title: "Boat Juice Necessity Boat Cleaner Kit | Exterior Water Spot"
 seo_title: "Boat Juice Necessity Cleaner Kit Review: Does It Work?"
 meta_description: "Honest Boat Juice Necessity Boat Cleaner Kit review: Does it remove water spots & grime? Real pros, cons, and who should buy. 4.6-star verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0783N72LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816X4QsmUVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-in-one formula handles both exterior fiberglass water spots and interior vinyl/seat grime without swapping products"
   - "Spray-and-wipe application cuts cleaning time to under 30 minutes for a 20-foot boat"
   - "Concentrated enough that a single kit lasts most boaters 2-3 full seasons"
-cons:
+cons: 
   - "Needs multiple applications on heavily oxidized gel coat or year-old water spots"
   - "Scent is strong chemical lemon — noticeable during enclosed cabin cleaning"
+
 ---
 
 # Boat Juice Necessity Boat Cleaner Kit Review: Water Spots Meet Their Match

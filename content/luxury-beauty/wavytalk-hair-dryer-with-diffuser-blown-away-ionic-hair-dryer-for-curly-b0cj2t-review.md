@@ -1,4 +1,5 @@
 ---
+
 title: "Wavytalk Hair Dryer with Diffuser, Blown Away Ionic Hair Dry"
 seo_title: "Wavytalk Hair Dryer with Diffuser, Blown Away Ioni Review"
 meta_description: "Our full wavytalk hair dryer with diffuser, blown away ionic hair dry review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJ2T7JJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SDup+rHKL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wavytalk Blown Away Ionic Hair Dryer: A Curl-Forward Dryer That Mostly Delivers

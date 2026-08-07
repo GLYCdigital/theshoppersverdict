@@ -1,4 +1,5 @@
 ---
+
 title: "Cinyirong Ceramic Table Lamp Set of 2, Modern Ceramic Bedsid"
 seo_title: "Cinyirong Ceramic Table Lamps Review: Set of 2 for Bedside"
 meta_description: "Honest Cinyirong ceramic table lamp set of 2 review: build quality, light output, sizing, and whether these modern bedside lamps are worth your money."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVMN8KQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FztlPalZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine ceramic bodies with a smooth, glazed finish — not cheap plastic or resin"
   - "Set of two matching lamps at a price that undercuts most single ceramic lamps"
   - "Fabric drum shades diffuse light evenly, reducing harsh glare for bedside reading"
-cons:
+cons: 
   - "Bulbs not included — need to budget for two separate purchases"
   - "Shades are thin and can warp if you use higher-wattage bulbs than recommended"
   - "Cord is on the shorter side (about 5 feet), limiting outlet placement options"
+
 ---
 
 Let's cut to it: ceramic bedside lamps look expensive. Most cost $60–$100 *each*. This Cinyirong set of two comes in well under that per-lamp price, and that's exactly why it's sitting in 210 Amazon shopping carts. But does cheap mean cheaply made? I've dug through the specs, the user feedback, and the build details. Here's the real story.

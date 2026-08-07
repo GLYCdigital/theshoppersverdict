@@ -1,4 +1,5 @@
 ---
+
 title: "CAMPROS CP Screen House Room Screened Mesh Net Wall Canopy T"
 seo_title: "CAMPROS CP Screen House Review: Is It Worth It? (2026)"
 meta_description: "CAMPROS CP Screen House review: 4.3-star tent with instant setup, UV protection, and mesh walls. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRTWN95V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o33lyAD-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Instant pop-up setup — no poles to thread, collapses flat in seconds"
   - "Full mesh walls with zippered doors keep biting insects out while preserving airflow"
   - "UV-resistant canopy and floor offer genuine sun protection for all-day outdoor hangs"
-cons:
+cons: 
   - "No stakes or guylines included — you'll need to buy them separately for windy days"
   - "At roughly 22 pounds, it's a car-camping shelter, not a backpacking tent"
   - "Mesh zippers can snag if you're rough with them — common on budget screen houses"
+
 ---
 
 If you've ever spent a summer evening slapping mosquitoes off your arms while trying to enjoy a beer in the backyard, the CAMPROS CP Screen House is the answer you didn't know you needed. This is a room-sized mesh canopy that pops up in under a minute and turns any patch of grass into a bug-free zone. But is it worth your money at 4.3 stars across 215 ratings? Let's dig in.

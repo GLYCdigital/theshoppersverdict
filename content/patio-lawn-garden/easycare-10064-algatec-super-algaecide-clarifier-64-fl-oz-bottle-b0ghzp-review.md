@@ -1,4 +1,5 @@
 ---
+
 title: "EASYCARE 10064 Algatec Super Algaecide-Clarifier, 64 Fl. Oz"
 seo_title: "EASYCARE Algatec Algaecide-Clarifier Review: Does It Work?"
 meta_description: "Honest EASYCARE 10064 Algatec Super Algaecide-Clarifier review. Tested performance, real buyer feedback, pros/cons, and who should buy this 64-oz pool treatment."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHZP2YJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614vqKZc+CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "64-ounce bottle treats up to 30,000 gallons, so most residential pools get 3-4 applications per bottle"
   - "Dual-action formula kills existing algae while clarifying cloudy water in one step"
   - "Works with all pool types—vinyl, fiberglass, and plaster—without foaming issues"
-cons:
+cons: 
   - "Not a preventive-only solution; severe green algae blooms may require shock treatment first"
   - "Some buyers report needing two doses for stubborn black algae spots on plaster pools"
+
 ---
 
 Green water is the fastest way to ruin a pool weekend. The EASYCARE Algatec Super Algaecide-Clarifier promises a one-bottle fix for both the algae bloom and the cloudy aftermath that follows. At 64 ounces with a 4.2-star average across 210 ratings, it's clearly earning its keep in most backyards—but it's not magic in a jug.

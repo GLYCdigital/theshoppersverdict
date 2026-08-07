@@ -1,4 +1,5 @@
 ---
+
 title: "Chess Armory Chess Sets Parent"
 seo_title: "Chess Armory Chess Sets Parent Review: Worth It? (2026)"
 meta_description: "Chess Armory Chess Sets Parent review: 4.5-star rated set with real board dimensions, piece quality, and honest buyer feedback. Is it right for your family?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZQ6JTKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xsKuLwQnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Felted base on every piece prevents board scratches and muffles movement noise"
   - "Full tournament-legal 2.25-inch squares with 3.75-inch king — fits standard USCF specs"
   - "Durable wooden storage box with sliding lid doubles as a carrying case"
-cons:
+cons: 
   - "Board is a thin roll-up vinyl mat, not a rigid wooden board — lies flat only with weight"
   - "No notation coordinates printed on the board edges, limiting its use for game study"
+
 ---
 
 You're a parent. You want to teach your kid chess without buying a $150 tournament set they'll abandon in a month. That's exactly who Chess Armory built this set for — and based on 225 ratings averaging 4.5 stars, they've mostly nailed it.

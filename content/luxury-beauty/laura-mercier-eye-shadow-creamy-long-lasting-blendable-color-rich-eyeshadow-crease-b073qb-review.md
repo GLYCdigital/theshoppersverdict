@@ -1,4 +1,5 @@
 ---
+
 title: "Laura Mercier Eye Shadow, Creamy, Long Lasting, Blendable, C"
 seo_title: "Laura Mercier Eye Shadow, Creamy, Long Lasting, Bl Review"
 meta_description: "Our full laura mercier eye shadow, creamy, long lasting, blendable, c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B073QBPCQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p4mLED+oL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: there are hundreds of neutral eyeshadows on the market, most under $15. So when you're looking at a single Laura Mercier pan hovering around $29, the question isn't *is it good* — it's *is it $15 better than the competition*?

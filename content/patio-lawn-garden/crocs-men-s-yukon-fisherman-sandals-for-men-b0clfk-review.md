@@ -1,4 +1,5 @@
 ---
+
 title: "Crocs Men's Yukon Fisherman Sandals Review"
 seo_title: "Crocs Men's Yukon Fisherman Sandals Review (2026): Worth It?"
 meta_description: "Crocs Men's Yukon Fisherman Sandals reviewed: rugged comfort or water shoe flop? Real user feedback, sizing quirks, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLFKWLWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-T5zivwYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Anatomical footbed with real arch support — not the flat foam you expect from Crocs"
   - "Closed-toe design protects against stubbed toes and lawn debris while staying breathable"
   - "Dual-density rubber outsole with actual tread pattern grips wet patio stones and boat decks"
-cons:
+cons: 
   - "Runs large — most buyers report needing a full size down from their normal shoe size"
   - "Break-in period causes heel rub for about a week; wear thick socks initially"
   - "Not fully waterproof despite the name — water drains but the upper absorbs moisture"
+
 ---
 
 Let's be direct: these are not the classic clog-style Crocs you're picturing. The Yukon Fisherman is Crocs' attempt at a legitimate outdoor sandal, and at 4.4 stars from 220 ratings, it's landing well with most buyers. But "most" isn't "all," and there are some quirks you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "GVDV 10X12 FT Outdoor Storage Shed, Durable Metal Outside St"
 seo_title: "GVDV 10X12 FT Outdoor Storage Shed, Durable Metal  Review"
 meta_description: "Our full gvdv 10x12 ft outdoor storage shed, durable metal outside st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F9L2N9M8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811sXUqStDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 10x12 metal shed that promises a lot — and mostly delivers, if you're ready for the build.**

@@ -1,4 +1,5 @@
 ---
+
 title: "DC Comics, Metal Force Batman Action Figure,"
 seo_title: "DC Metal Force Batman Action Figure Review (2026)"
 meta_description: "DC Metal Force Batman action figure review: build quality, articulation, and value. Is this die-cast Batman worth your money? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTL6J7TQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FBEY3Qg2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast metal construction gives it a hefty, premium feel that plastic figures can't match"
   - "Sculpt detail on the armored plating is sharp, with a battle-worn paint wash that adds depth"
   - "Articulation is solid for a metal figure — ball-jointed hips and shoulders hold poses well"
-cons:
+cons: 
   - "Not for heavy play — the metal joints can loosen or stress if posed aggressively"
   - "Cape is a stiff PVC plastic, limiting dynamic flying poses compared to cloth capes"
   - "No accessories included beyond the figure itself — no Batarang or alternate hands"
+
 ---
 
 **Is the DC Metal Force Batman worth adding to your collection, or is it just another overpriced shelf piece? I've handled this figure, gone through the Amazon reviews, and put together what you actually need to know before dropping your cash.**

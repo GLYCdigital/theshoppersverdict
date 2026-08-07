@@ -1,4 +1,5 @@
 ---
+
 title: "Curly Clip in Hair Extensions"
 seo_title: "Curly Clip in Hair Extensions Review: Worth It or Skip?"
 meta_description: "Honest curly clip-in hair extensions review: real user feedback, blend quality, longevity, and who should buy. 3.7/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CNP75NBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vw8FF5SdL._SL1001_.jpg"
-pros:
+pros: 
   - "Full 8-piece set with 100g total weight — genuinely enough hair for a complete head, not just a top layer"
   - "Pre-curled pattern holds through multiple washes when cared for with sulfate-free products"
   - "Multiple shade options with dimensional highlights that blend reasonably well with natural curl patterns"
-cons:
+cons: 
   - "Color matching is inconsistent between batches — several buyers report receiving a noticeably different shade than pictured"
   - "Shedding at the wefts is common after 3-4 weeks of regular wear, especially if you heat-style or brush aggressively"
   - "Clip quality varies; some users report clips popping open mid-wear, requiring reinforcement"
+
 ---
 
 ## The 3.7-Star Truth About Budget-Friendly Curly Extensions

@@ -1,4 +1,5 @@
 ---
+
 title: "EliteShade Water Filled Patio Umbrella Base"
 seo_title: "EliteShade Water Filled Patio Umbrella Base Review (2026)"
 meta_description: "Honest EliteShade water-filled patio umbrella base review: weight capacity, stability, fill time, and durability. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FD241DZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p1838FqML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Holds up to 87 lbs when filled with water—actually stabilizes a 10-ft cantilever umbrella in moderate wind"
   - "Dual fill ports with visible water level markers prevent overfilling guesswork"
   - "Molded handle grips on both sides make draining and hauling a full base far less miserable than competitors"
-cons:
+cons: 
   - "At 15 lbs empty, you'll still feel the burn moving it around; water adds weight fast"
   - "No drain plug—you must tip the entire base over to empty it, which gets messy"
   - "The included pole adapter only fits poles up to 1.5 inches; larger commercial poles won't seat properly"
+
 ---
 
 If you've ever watched a $300 cantilever umbrella cartwheel across your patio in a gust, you know the real problem isn't the umbrella—it's the base. The EliteShade Water Filled Patio Umbrella Base attacks that problem with brute force: fill it with water and it becomes an 87-pound anchor. But is it a smart buy or just heavy? I dug through 215 ratings, tested the specs against real-world use, and here's what you actually need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "COOPERS Tablet Android 15, 10 inch Tablet 12GB RAM+64GB ROM"
 seo_title: "COOPERS Tablet Android 15 Review: 10 inch  12GB RAM Value Pick"
 meta_description: "COOPERS 10-inch Android 15 tablet with 12GB RAM reviewed: performance, display quality, storage limits, and who should buy it in 2026."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FVFPPYDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xYw8f+xvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12GB RAM (6GB physical + 6GB virtual expansion) handles multitasking and split-screen without the stutter you'd expect at this price point"
   - "Android 15 ships out of the box — you're not getting a year-old OS that'll be obsolete in six months"
   - "1TB microSD expansion slot offsets the modest 64GB internal storage, making it viable as a media library"
-cons:
+cons: 
   - "64GB internal storage fills fast — Android 15 plus preloaded apps eat nearly 20GB before you install anything"
   - "10-inch 1280x800 display is noticeably soft for reading small text or detailed spreadsheets"
+
 ---
 
 A budget tablet that doesn't feel like a budget tablet — that's the short version. But the COOPERS 10-inch Android 15 model earns its keep in specific ways, and falls short in others you should know about before checkout.

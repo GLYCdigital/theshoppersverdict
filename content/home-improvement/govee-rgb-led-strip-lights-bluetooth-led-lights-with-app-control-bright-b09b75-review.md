@@ -1,4 +1,5 @@
 ---
+
 title: "Govee RGB LED Strip Lights, Bluetooth LED Lights with App Co"
 seo_title: "Govee RGB LED Strip Lights, Bluetooth LED Lights w Review"
 meta_description: "Our full govee rgb led strip lights, bluetooth led lights with app co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09B75WHSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kt-rxKKnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Govee RGB Strip That Actually Earns Its 4.5 Stars

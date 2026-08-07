@@ -1,4 +1,5 @@
 ---
+
 title: "Marinco ChargePro On-Board Battery Chargers"
 seo_title: "Marinco ChargePro On-Board Battery Chargers Review: Verdi"
 meta_description: "Our full marinco chargepro on-board battery chargers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NQ765JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MlSAPtXML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The Marinco ChargePro is an on-board marine charger designed for one job: keeping your trolling motor and starter batteries topped off without you thinking about it. It’s not flashy, it doesn’t have an app, and it won’t text you when charging is done. But 229 Amazon reviewers have pushed it to a 4.6-star average — and after digging into the specs and real-world feedback, here’s what actually matters.

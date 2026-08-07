@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fesbos File Cabinet"
 seo_title: "Fesbos File Cabinet Review: Sturdy 3-Drawer for Home Offices"
 meta_description: "Fesbos File Cabinet review: Is this 3-drawer steel filing cabinet worth it? Tested for assembly, capacity, and durability. Read before you buy."
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR4337GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X6G8QavnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ball-bearing drawer slides handle full legal-size loads without sticking"
   - "Pre-drilled mounting holes align properly — assembly takes under 30 minutes"
   - "Powder-coated steel finish resists scratches and fingerprints"
-cons:
+cons: 
   - "Single locking bar controls all drawers — you can't lock just one"
   - "Drawer capacity is stated at 40 lbs but feels more comfortable around 30 inch"
   - "No anti-tip bracket included — must be purchased separately for safety"
+
 
 ---
 

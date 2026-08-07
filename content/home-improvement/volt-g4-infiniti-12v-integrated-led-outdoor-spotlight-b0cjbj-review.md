@@ -1,4 +1,5 @@
 ---
+
 title: "VOLT G4 Infiniti 12V Integrated LED Outdoor Spotlight"
 seo_title: "VOLT G4 Infiniti 12V Integrated LED Outdoor Spotli Review"
 meta_description: "Our full volt g4 infiniti 12v integrated led outdoor spotlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CJBJG1X9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JtMHeYYHL._AC_SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $90 Question: Is the VOLT G4 Infiniti Actually Better?

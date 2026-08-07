@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO - Disney Building Set, 43222"
 seo_title: "LEGO - Disney Building Set, 43222 Review: Verdict | TSV"
 meta_description: "Our full lego - disney building set, 43222 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9WDG86C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MmEuGx1+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: $537 is a lot of money for a toy. But this isn't a toy — it's a display centerpiece that happens to be made of plastic bricks. The LEGO Disney Building Set 43222 is the largest Disney Castle ever released, with 4,845 pieces standing 32 inches tall and 19 inches wide. If you've been eyeing this on Amazon, here's what you need to know before pulling the trigger.

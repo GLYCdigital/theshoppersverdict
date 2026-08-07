@@ -1,4 +1,5 @@
 ---
+
 title: "350W UFO Led High Bay Lights"
 seo_title: "350W UFO LED High Bay Light Review: Bright, Durable, Worth It?"
 meta_description: "Honest 350W UFO LED high bay light review: brightness, coverage, build quality, and real buyer feedback. See if it's right for your shop or warehouse."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8QLPJQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vYljpCN2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive light output (45,000+ lumens) that genuinely replaces 1000W metal halide without the heat or energy draw"
   - "Solid aluminum heat sink design keeps the driver cool even after 8+ hours of continuous use"
   - "IP65 waterproof rating means it survives dust, humidity, and outdoor covered installations without issue"
-cons:
+cons: 
   - "No dimming option on the standard model — you get full brightness or nothing, which can be excessive in smaller spaces"
   - "The included mounting hook feels flimsy; most buyers will want to use the bracket and hardware for a secure install"
+
 ---
 
 If you're lighting a warehouse, workshop, or garage and you're still running old metal halide fixtures, you know the pain: the hum, the warm-up delay, the electric bill that makes you wince. The 350W UFO LED high bay light is the modern replacement that solves all of that. And at 4.6 stars from 229 ratings, it's clearly doing something right.

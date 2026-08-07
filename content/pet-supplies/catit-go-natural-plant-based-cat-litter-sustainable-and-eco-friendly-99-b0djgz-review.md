@@ -1,4 +1,5 @@
 ---
+
 title: "Catit Go Natural Plant-Based Cat Litter, Sustainable and Eco"
 seo_title: "Catit Go Natural Plant-Based Cat Litter Review (2026)"
 meta_description: "Honest Catit Go Natural plant-based cat litter review: clumping, odor control, dust levels, and eco credentials. Is it worth switching? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJGZVS99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JaUR7pmmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly dust-free — noticeably less respiratory irritation than clay litters, even during deep scoops"
   - "Tight, fast clumps that hold shape for 8+ hours without crumbling during scooping"
   - "Flushable and compostable, making daily waste disposal genuinely easier for eco-conscious households"
-cons:
+cons: 
   - "Lighter weight means litter tracks more easily on long-haired cats' paws than heavier clay options"
   - "Initial odor control lags behind premium clays for the first 3–4 days until the plant enzymes fully activate"
   - "Not every cat accepts the texture change — some picky felines need a gradual 50/50 transition period"
+
 ---
 
 Let's be direct: most "eco-friendly" cat litters perform like damp cardboard. The Catit Go Natural Plant-Based Litter is the exception that actually makes you question why you ever tolerated clay.

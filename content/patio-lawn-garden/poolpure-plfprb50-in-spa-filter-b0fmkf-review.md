@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE PLFPRB50-IN Spa Filter"
 seo_title: "POOLPURE PLFPRB50-IN Spa Filter Review: Verdict | TSV"
 meta_description: "Our full poolpure plfprb50-in spa filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMKFXNVF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IMCYygYzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your spa filter just gave up the ghost, you're staring at a wall of lookalike cartridges online. The POOLPURE PLFPRB50-IN cuts through the noise with a deceptively simple promise: match the OEM specs, hold up under chemical abuse, and don't cost $80. It mostly delivers.

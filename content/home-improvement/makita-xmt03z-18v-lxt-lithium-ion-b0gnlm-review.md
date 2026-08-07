@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XMT03Z 18V LXTÂ® Lithium-Ion"
 seo_title: "Makita XMT03Z 18V LXTÂ® Lithium-Ion Review: Verdict | TSV"
 meta_description: "Our full makita xmt03z 18v lxtâ® lithium-ion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GNLMF487/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pyzYIzFEL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XMT03Z is the oscillating multi-tool that keeps showing up in "best of" lists for one simple reason: it just works. With a 4.8-star average across 240 ratings, this isn't a fringe favorite — it's the tool pros reach for when they need to flush-cut a door jamb or sand into a corner without wrecking the surrounding material. But is it the right multi-tool for *you*? Let's break down what you're actually getting.

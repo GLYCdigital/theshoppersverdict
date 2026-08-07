@@ -1,4 +1,5 @@
 ---
+
 title: "STASUN LED Flood Lights Gray"
 seo_title: "STASUN LED Flood Lights Gray Review: Verdict | TSV"
 meta_description: "Our full stasun led flood lights gray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCVM9DMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gv8uCG6kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When you search for flood lights on Amazon, you wade through a swamp of no-name brands promising "super bright" output that dies after two rainstorms. The STASUN LED Flood Light in gray stands out because it actually delivers what the spec sheet claims. At 4.5 stars across 225 ratings, this isn't hype — it's a workhorse fixture that earns its place on your garage, barn, or backyard wall.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cor-Ten Steel Landscape Edging,Hammer-in Metal Edging for La"
 seo_title: "Cor-Ten Steel Landscape Edging Review: Hammer-In Edging Tested"
 meta_description: "Honest Cor-Ten steel landscape edging review: real-world hammer-in performance, rust patina, durability, and installation tips for garden beds."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQ7VK3M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618laazOGgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "12-gauge Cor-Ten steel won't warp or bend like cheaper aluminum edging"
   - "Pre-drilled stake holes make hammer-in installation genuinely easy"
   - "Weathers to a natural rust patina that looks intentional, not neglected"
-cons:
+cons: 
   - "Rust transfer to concrete or pavers during the first few months"
   - "Straight sections only — no pre-formed curves for circular beds"
   - "Raw steel edges are sharp; gloves are non-negotiable during install"
+
 ---
 
 If you've priced out steel landscape edging at big-box stores lately, you know the good stuff runs $3–$5 per linear foot. This Cor-Ten option undercuts that while delivering the same 12-gauge thickness — and that's before you factor in the patina. But is it worth the rust-colored mess during the break-in period? Let's dig in.

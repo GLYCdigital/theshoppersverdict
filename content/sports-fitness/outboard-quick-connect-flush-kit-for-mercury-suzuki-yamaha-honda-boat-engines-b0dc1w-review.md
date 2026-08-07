@@ -1,4 +1,5 @@
 ---
+
 title: "Outboard Quick Connect Flush Kit for Mercury, Suzuki, Yamaha"
 seo_title: "Outboard Quick Connect Flush Kit for Mercury, Suzu Review"
 meta_description: "Our full outboard quick connect flush kit for mercury, suzuki, yamaha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DC1WV45G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qyHhMsbgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: this flush kit is a 3.7-star product in a 5-star world. If you own a Mercury, Suzuki, or Yamaha outboard and hate wrestling a garden hose against the lower unit while water sprays everywhere, this thing is a genuine upgrade. But it’s not perfect, and the 3.8/5 Amazon rating (190 ratings) tells you other boaters found the same warts I did.

@@ -1,4 +1,5 @@
 ---
+
 title: "GONDSILY LED Desk Lamp with USB Charging Port Touch Control,"
 seo_title: "GONDSILY LED Desk Lamp with USB Charging Port Touc Review"
 meta_description: "Our full gondsily led desk lamp with usb charging port touch control, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3CS1T11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712v184omCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise on the GONDSILY LED Desk Lamp. With 229 ratings averaging 4.6 stars, this isn't a product people are ambivalent about — they either love the flexibility or quietly tolerate the quirks. I've spent time digging through what buyers actually say, and here's the unfiltered picture.

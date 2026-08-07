@@ -1,4 +1,5 @@
 ---
+
 title: "koloko Non-Slip Runner Rug Outdoor Indoor Carpet Runner Cust"
 seo_title: "koloko Non-Slip Runner Rug Outdoor Indoor Carpet R Review"
 meta_description: "Our full koloko non-slip runner rug outdoor indoor carpet runner cust review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4F5VYTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91r6lobV4yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to find a runner rug that actually fits your hallway, you know the struggle: they're either six feet when you need seven, or eight feet when you need nine. The koloko Non-Slip Runner Rug sidesteps that entirely with custom sizing — and with 229 ratings averaging 4.6 stars, it's clearly solving a real problem for people.

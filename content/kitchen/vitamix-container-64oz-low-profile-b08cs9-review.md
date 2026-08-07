@@ -1,4 +1,5 @@
 ---
+
 title: "Vitamix Container, 64oz. Low-Profile"
 seo_title: "Vitamix Container, 64oz. Low-Profile Review: Verdict | TS"
 meta_description: "Our full vitamix container, 64oz. low-profile review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08CS9461L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sdlwgMlDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a full-size Vitamix, you already know the pain: the classic 64-ounce jar barely squeezes under your cabinets, forcing you to pull the whole machine out every time you blend. The Low-Profile Container fixes that specific annoyance — but it brings its own quirks. After 235 Amazon ratings averaging 4.7 stars, shoppers clearly like it. Here's what they're not telling you.

@@ -1,4 +1,5 @@
 ---
+
 title: "LUCKY HERP Reptile Heat Bulbs, Ceramic Heat Emitter, Ceramic"
 seo_title: "LUCKY HERP Reptile Heat Bulbs, Ceramic Heat Emitte Review"
 meta_description: "Our full lucky herp reptile heat bulbs, ceramic heat emitter, ceramic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F91VPM1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rcSg9a4zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you keep reptiles long enough, you learn the hard way that night-time heating is a trap. Red bulbs claim to be “nighttime” but still cast that eerie glow that throws off your leopard gecko’s circadian rhythm. Heating pads warm the substrate but leave the air cold. The LUCKY HERP Ceramic Heat Emitter sidesteps both problems with a deceptively simple design: a chunk of ceramic that screws into a standard lamp and radiates infrared heat without a single photon of visible light. At 4.6 stars across 229 ratings, it’s clearly working for a lot of keepers. Here’s the full breakdown.

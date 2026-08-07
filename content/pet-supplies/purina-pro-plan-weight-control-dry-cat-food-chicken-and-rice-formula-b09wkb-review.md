@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Weight Control Dry Cat Food, Chicken and Ric"
 seo_title: "Purina Pro Plan Weight Control Dry Cat Food, Chick Review"
 meta_description: "Our full purina pro plan weight control dry cat food, chicken and ric review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WKBTXFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xtPX0vd+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about weight-loss cat food: most of it tastes like cardboard, and your cat knows it. The Purina Pro Plan Weight Control formula is the exception that actually gets eaten — and more importantly, it gets results. With 235 Amazon ratings averaging 4.7 stars, this is one of the most consistently praised diet foods on the market. Here's the real story.

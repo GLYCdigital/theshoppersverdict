@@ -1,4 +1,5 @@
 ---
+
 title: "48 Pieces Hair Perm Rods Short Cold Wave Rods Plastic Permin"
 seo_title: "48 Piece Hair Perm Rods Review: Are They Worth It?"
 meta_description: "Honest 48 piece hair perm rods review. We tested these short cold wave rods for build quality, curl results & value. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09J4G59WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Dv-iTTVSL._SL1500_.jpg"
-pros:
+pros: 
   - "48 rods across 6 sizes (ranging roughly 0.4 to 1.2 inches) means you get tight spiral curls and loose waves from one kit"
   - "Plastic construction with smooth seams — no snagging on hair during wrapping, even on damp strands"
   - "Silicone end caps stay put through processing; no pop-offs mid-treatment that ruin a set"
-cons:
+cons: 
   - "Rods are on the shorter side (about 2.5 inches) — fine for short hair, but you'll need multiple rods per section for shoulder-length or longer styles"
   - "No storage case included — the 48 pieces arrive loose in a poly bag, which makes organization a minor headache"
   - "Smaller rods (0.4-inch) are aggressive for beginners; you can get over-processed ends if you're not careful with neutralization timing"
+
 ---
 
 Let's be honest: you don't need 48 perm rods. You need the *right* perm rods. The question is whether this budget-friendly 48-piece kit from a no-name brand actually delivers the goods — or leaves you with a frizzy mess and regret.

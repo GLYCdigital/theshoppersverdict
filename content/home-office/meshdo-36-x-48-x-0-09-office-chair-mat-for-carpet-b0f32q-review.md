@@ -1,7 +1,8 @@
 ---
-title: "MESHDO 36\" X 48\" X 0.09\" Office Chair Mat for Carpet, Desk C"
-seo_title: "MESHDO 36\" X 48\" X 0.09\" Office Chair Mat for Carp Review"
-meta_description: "Our full meshdo 36\" x 48\" x 0.09\" office chair mat for carpet, desk c review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MESHDO 36\ X 48\ X 0.09\ Office Chair Mat for Carpet, Desk C"
+seo_title: "MESHDO 36\ X 48\ X 0.09\ Office Chair Mat for Carp Review"
+meta_description: "Our full meshdo 36\ x 48\ x 0.09\ office chair mat for carpet, desk c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "meshdo-36-x-48-x-0-09-office-chair-mat-for-carpet-b0f32q-review"
 image_alt: "MESHDO 36 X 48 X 0.09 Office Chair Mat for Carpet, Desk Chair Mat for Carpet Floors with Non-Slip Studded for Home and O"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F32QJ3DH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819AezlZVTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MESHDO 36" x 48" office chair mat is the kind of product that seems simple until you actually need one. It's a clear PVC mat designed to protect your carpet from caster wheels, sized for a standard desk chair. At roughly $40, it's positioned in the budget-to-midrange tier. The question is whether it actually holds up — and the 3.9-star average from 195 ratings suggests a mixed reception worth digging into.

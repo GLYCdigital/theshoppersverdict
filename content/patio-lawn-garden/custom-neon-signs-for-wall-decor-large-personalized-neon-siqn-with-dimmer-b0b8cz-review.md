@@ -1,4 +1,5 @@
 ---
+
 title: "Custom Neon Signs for Wall Decor, Large Personalized Neon Si"
 seo_title: "Custom Neon Sign Review: Worth It for Wall Decor? (2026)"
 meta_description: "Honest review of the Custom Neon Signs for Wall Decor. Is this large personalized LED sign worth your money? Build quality, brightness, real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B8CZFR63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z3DavyGuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True customization — you upload your own design, logo, or text, not just pick from templates"
   - "Dimmer included gives real control over brightness, from subtle accent to full glow"
   - "Flexible LED tubing feels durable and runs cool enough for indoor or covered patio use"
-cons:
+cons: 
   - "Needs to be mounted on a flat, clean surface — textured or brick walls cause adhesion issues"
   - "No power adapter included in the base price for some configurations, which surprises buyers"
   - "Turnaround takes 1-2 weeks since it's made to order, so don't expect overnight delivery"
+
 ---
 
 You've seen those glowing signs in trendy bars and influencer home offices. Now they're everywhere on Amazon, and most of them are cheap, dim, and look like a toy. This one isn't. After digging through 225 ratings and the specs, here's the real story on this custom neon sign.

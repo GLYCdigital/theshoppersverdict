@@ -1,4 +1,5 @@
 ---
+
 title: "100 Pcs Stationery Lined Stationery Paper and Envelopes Set"
 seo_title: "100 Pcs Stationery Paper & Envelopes Set Review: Worth It?"
 meta_description: "Honest review of the 100 Pcs Stationery Lined Paper & Envelopes Set — paper quality, envelope sizing, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D6B6CF5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619QSHuyeiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "50 matching envelopes included at a price that beats buying sheets and envelopes separately"
   - "Lined paper keeps handwriting straight — a real plus for anyone with slanted or uneven script"
   - "Acid-free paper that works with fountain pens, gel pens, and ballpoints without feathering"
-cons:
+cons: 
   - "Envelopes run slightly narrow — standard A4 letterheads won't fit without folding twice"
   - "Paper weight is on the lighter side (around 70gsm), so ink bleeds through with heavy markers"
+
 ---
 
 **If you've ever stared at a blank sheet of expensive letterhead and hesitated because your handwriting drifts downhill by line three, this set solves that problem for about the cost of a fancy coffee.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Salt-AwayÂ® Concentrate Gallon (128 fl oz.)"
 seo_title: "Salt-AwayÂ® Concentrate Gallon (128 fl oz.) Review: Verdi"
 meta_description: "Our full salt-awayâ® concentrate gallon (128 fl oz.) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0000AXVG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710XtlKj0UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you run saltwater gear — a boat, jet ski, or even fishing tackle — you already know the drill: salt is a slow-motion thief. It corrodes, pits, and seizes everything it touches. Salt-Away Concentrate claims to stop that process chemically, not just rinse it off. After digging through 240 ratings averaging 4.8 stars, here's the real story.

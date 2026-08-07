@@ -1,4 +1,5 @@
 ---
+
 title: "BestPet 24,30,36,42,48 Inch Dog Crates for Large Dogs Foldin"
 seo_title: "BestPet Dog Crate Review: Large Foldable Options for 2026 inch"
 meta_description: "BestPet foldable dog crates in 24-48 inch sizes: our expert review covers durability, assembly, and which size fits your large breed."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CD457JV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IhFMo+cRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-door design with both side and front access — flexible placement in tight corners or against walls"
   - "Folds flat in seconds without tools, making storage and travel genuinely practical"
   - "Removable, washable plastic tray catches accidents and spills without soaking into the frame"
-cons:
+cons: 
   - "Wire gauge feels lighter than premium crates — a determined chewer may bend bars over time"
   - "Assembly instructions are minimal; the included wrench works but the process isn't intuitive on first try"
+
 ---
 
 **BestPet Foldable Dog Crate Review: Solid Value for Large Breeds, With a Couple Caveats**

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Disney Villains Maleficentâ€™s and Cruella De Vilâ€™s D"
 seo_title: "LEGO Disney Villains Maleficentâ€™s and Cruella De Review"
 meta_description: "Our full lego disney villains maleficentâ€™s and cruella de vilâ€™s d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ1BDL1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JfvpaEiWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO Disney Villains Maleficent’s and Cruella De Vil’s Dresses Review: Two Iconic Villains, One Clever Set**

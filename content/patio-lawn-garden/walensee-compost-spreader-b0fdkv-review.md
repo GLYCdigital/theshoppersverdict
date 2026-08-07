@@ -1,4 +1,5 @@
 ---
+
 title: "Walensee Compost Spreader"
 seo_title: "Walensee Compost Spreader Review: Verdict | TSV"
 meta_description: "Our full walensee compost spreader review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDKVYF3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UDPk+p9EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Compost spreaders are a niche tool that most homeowners don't realize they need until they've spent a Saturday afternoon flinging wheelbarrow loads across their lawn with a shovel. The Walensee Compost Spreader aims to fix that problem for under $150 — but it has a couple of quirks you need to know about before pulling the trigger.

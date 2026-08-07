@@ -1,4 +1,5 @@
 ---
+
 title: "Green Mountain Coffee Roasters, Almond Vanilla Cold Brew, 60"
 seo_title: "Green Mountain Coffee Roasters, Almond Vanilla Col Review"
 meta_description: "Our full green mountain coffee roasters, almond vanilla cold brew, 60 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNZVH4G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WlYUsO6bL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by "cold brew" K-Cups that taste like watery diner coffee, Green Mountain's Almond Vanilla version deserves a second look. This 60-count box is one of the better mass-market cold brew pods I've tested, but it comes with caveats that matter depending on how you take your coffee.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns L-Shaped Computer Desk with 3 Drawers, Reversible"
 seo_title: "Tribesigns L-Shaped Computer Desk with 3 Drawers,  Review"
 meta_description: "Our full tribesigns l-shaped computer desk with 3 drawers, reversible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D63B3VQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S7LJKDyUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping corner desks, you've likely seen a dozen near-identical options under $200. The Tribesigns L-Shaped Computer Desk with 3 Drawers stands apart for one practical reason: it's reversible. Most corner desks lock you into a left- or right-facing layout. This one flips, which matters more than you'd think when you're trying to fit a desk into an awkward room corner or switching your monitor setup.

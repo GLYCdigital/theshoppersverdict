@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Albion 14 Series Single-Handle Shower Faucet"
 seo_title: "Delta Albion 14 Series Shower Faucet Review (2026)"
 meta_description: "Honest Delta Albion 14 Series shower faucet review: build quality, performance, and real buyer feedback. See if this single-handle valve is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FNX7JDR9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614UoAdHyHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal technology eliminates the rubber washers that wear out in cheaper valves—no drips after years of use"
   - "Single-handle lever gives precise temperature control with 120° rotation, easy for kids and arthritic hands"
   - "MultiChoice rough-in valve body is compatible with all Delta trims, so you can swap styles later without opening the wall"
-cons:
+cons: 
   - "Valve body and trim sold separately—budget an extra $60–$100 beyond the advertised price"
   - "Chrome finish shows water spots and fingerprints quickly in hard-water homes"
   - "No pressure-balancing anti-scald valve included; you'll need to add one if your code requires it"
+
 ---
 
 If you're remodeling a bathroom and the plumber just asked which shower valve you want, this is the moment where cheap decisions come back to haunt you. The Delta Faucet Albion 14 Series sits in that frustrating middle ground: it's not the cheapest option, but it's also not the premium Thermador or Grohe. What you're actually paying for here is Delta's engineering, and that's worth unpacking before you commit.

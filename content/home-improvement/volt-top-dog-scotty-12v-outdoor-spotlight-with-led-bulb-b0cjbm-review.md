@@ -1,4 +1,5 @@
 ---
+
 title: "VOLT Top Dog Scotty 12V Outdoor Spotlight with LED Bulb"
 seo_title: "VOLT Top Dog Scotty 12V Outdoor Spotlight with LED Review"
 meta_description: "Our full volt top dog scotty 12v outdoor spotlight with led bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJBMWF3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51V3RGJNefL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for landscape lighting, you've probably seen the cheap $20 plastic floods that rust, crack, or sag within a season. The VOLT Top Dog Scotty is not that. At 4.6 stars across 229 ratings, this is a fixture that earns its keep in the "buy once, cry once" category of outdoor lighting.

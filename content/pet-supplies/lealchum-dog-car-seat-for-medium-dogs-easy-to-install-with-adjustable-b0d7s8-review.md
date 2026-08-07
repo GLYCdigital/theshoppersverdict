@@ -1,4 +1,5 @@
 ---
+
 title: "Lealchum Dog Car Seat for Medium Dogs - Easy to Install With"
 seo_title: "Lealchum Dog Car Seat for Medium Dogs - Easy to In Review"
 meta_description: "Our full lealchum dog car seat for medium dogs - easy to install with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7S8KPZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qjXKcEFQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most dog car seats are overpriced bolsters with straps that shift the moment your dog leans. The Lealchum dog car seat for medium dogs is not that. After digging through 235 ratings and the construction details, this one earns its 4.7-star average — but it's not perfect.

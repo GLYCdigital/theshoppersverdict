@@ -1,4 +1,5 @@
 ---
+
 title: "Beelink SER5 5850U Mini PC Computer"
 seo_title: "Beelink SER5 5850U Mini PC Review: Solid Office Performer"
 meta_description: "Read our honest Beelink SER5 5850U Mini PC review — performance, thermals, connectivity, and who should buy it. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F7LB55XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JuSyEXvaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ryzen 7 5850U with 8 cores/16 threads delivers desktop-class multitasking in a palm-sized chassis"
   - "Dual HDMI 2.0 ports plus USB-C DP Alt Mode support three 4K displays simultaneously"
   - "Quiet operation — dual heat pipes and a low-noise fan keep it under 35dB even under sustained load"
-cons:
+cons: 
   - "No USB4/Thunderbolt — the USB-C port is limited to DisplayPort and 10Gbps data, so no eGPU or fast external NVMe enclosures"
   - "Wi-Fi 6 is present but the antenna placement inside the metal chassis can cause slightly weaker signal than external-antenna rivals"
   - "Included 512GB SSD is a Gen3 drive — fine for boot, but heavier storage workloads will see slower sustained writes"
+
 ---
 
 The Beelink SER5 5850U is the kind of mini PC that makes you question why you ever bought a tower. It's roughly the size of a paperback novel, yet it packs an 8-core, 16-thread Ryzen 7 5850U — a chip that comfortably handles 20+ browser tabs, a spreadsheet marathon, and a 4K video call simultaneously without breaking a sweat.

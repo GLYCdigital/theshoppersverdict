@@ -1,4 +1,5 @@
 ---
+
 title: "Houzer 2522 Glowtone Single Bowl Drop-In Stainless Steel Sin"
 seo_title: "Houzer 2522 Glowtone Single Bowl Drop-In Stainless Review"
 meta_description: "Our full houzer 2522 glowtone single bowl drop-in stainless steel sin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B002CZPV1E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7187g2KwipL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most stainless sinks under $200 are flimsy 22-gauge metal that dings if you drop a fork wrong. The Houzer 2522 Glowtone is not that sink. At 18-gauge with a genuine brushed finish, this thing has heft — you feel it the second you lift it out of the box.

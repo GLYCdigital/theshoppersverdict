@@ -1,4 +1,5 @@
 ---
+
 title: "Great Eastern GE-8958 Sonic The Hedgehog Plush - Super Sonic"
 seo_title: "Great Eastern Super Sonic Plush Review: Is It Worth It?"
 meta_description: "Read our honest Great Eastern GE-8958 Super Sonic plush review. See what 235 buyers rate 4.7 stars, plus real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07MVM2JDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yi1htKvhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Officially licensed SEGA plush with accurate Super Sonic gold coloring and pose"
   - "Quality stitching and soft fabric that holds up to regular play, not just display"
   - "Generous size for the price — substantial presence on a shelf or in a kid's arms"
-cons:
+cons: 
   - "Eyes are embroidered, not printed — some buyers find them slightly off-center"
   - "Not machine washable; hand-wash only, which is a hassle for younger kids' toys"
+
 ---
 
 Let's be direct: there are a lot of Sonic plush toys out there, and most of them look like they were designed by someone who's only seen Sonic through a foggy window. The Great Eastern GE-8958 Super Sonic plush isn't that. It's the golden form of everyone's favorite hedgehog, rendered with the kind of accuracy that makes SEGA's licensing fee feel justified.

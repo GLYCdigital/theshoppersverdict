@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT 12 Pack, 4 Inch Recessed Lighting LED, Selectable CCT"
 seo_title: "NUWATT 12 Pack, 4 Inch Recessed Lighting LED, Sele Review"
 meta_description: "Our full nuwatt 12 pack, 4 inch recessed lighting led, selectable cct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08L8DVF9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819jRaj3j9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 12-Pack Shortcut to Whole-Home Lighting

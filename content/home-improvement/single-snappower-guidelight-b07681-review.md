@@ -1,4 +1,5 @@
 ---
+
 title: "Single - SnapPower GuideLight"
 seo_title: "Single - SnapPower GuideLight Review: Verdict | TSV"
 meta_description: "Our full single - snappower guidelight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B076814SN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619-LWLNsaL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SnapPower GuideLight is the rare home improvement product that solves a problem you didn't realize you had — until you stub your toe at 2 a.m. and wish you'd bought one sooner.**

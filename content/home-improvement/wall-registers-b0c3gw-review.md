@@ -1,4 +1,5 @@
 ---
+
 title: "Wall Registers"
 seo_title: "Wall Registers Review: Verdict | TSV"
 meta_description: "Our full wall registers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3GWF258/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Lufj4haNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a bare hole in your wall where a vent should be, you already know the stakes: cheap registers bow, rattle, and look like an afterthought. This wall register set — sitting at a solid 4.2 stars across 210 ratings — aims to be the last one you buy. Here's the honest breakdown after digging through buyer feedback and the specs.

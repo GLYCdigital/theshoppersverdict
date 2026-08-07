@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Manual Swivel Recliner with Ottoman, Chair Ottoman Se"
 seo_title: "MCombo Manual Swivel Recliner with Ottoman, Chair  Review"
 meta_description: "Our full mcombo manual swivel recliner with ottoman, chair ottoman se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F6MFM2ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QIAwesKGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: at this price point, you're not getting a heirloom-quality recliner. But the MCombo Manual Swivel Recliner with Ottoman has earned its 4.2-star rating across 210 reviews for one simple reason — it does exactly what it promises without pretending to be something it isn't.

@@ -1,4 +1,5 @@
 ---
+
 title: "RYOBI ONE+ 18V 100 MPH 325 CFM Cordless Battery Variable Spe"
 seo_title: "RYOBI ONE+ 18V 100 MPH 325 CFM Cordless Battery Va Review"
 meta_description: "Our full ryobi one+ 18v 100 mph 325 cfm cordless battery variable spe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMDNLYKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hXIm9NdOL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing that pile of wet oak leaves in your driveway and dreading the gas blower's pull cord, the RYOBI ONE+ 18V 100 MPH 325 CFM blower is worth a serious look. This isn't a toy — it's a legitimate leaf-clearing machine that happens to run on the same batteries as your drill. But it's not perfect, and I'll tell you exactly where it stumbles.

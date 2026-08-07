@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Vivobook Laptop, Qualcomm Snapdragon X, Qualcomm Adreno"
 seo_title: "ASUS Vivobook Snapdragon X Review: Battery & Performance"
 meta_description: "ASUS Vivobook with Snapdragon X review: all-day battery, quiet fanless design, but limited app compatibility. Read our honest verdict before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G1C1B2ML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bDn9todpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "15+ hours of real-world battery life on a single charge with light productivity work"
   - "Completely silent operation — Snapdragon X's efficiency means no fan noise even under sustained load"
   - "Snapdragon X Elite-class CPU performance handles 50+ browser tabs and heavy spreadsheet work without stutter"
-cons:
+cons: 
   - "Arm architecture blocks some legacy x86 apps — Adobe plugins and niche business software may fail to install"
   - "16GB RAM is soldered and non-upgradeable, so future-proofing is limited"
   - "Adreno GPU is fine for office work but struggles with anything beyond casual gaming or video editing"
+
 ---
 
 # ASUS Vivobook with Snapdragon X: The Battery Champ With a Compatibility Catch

@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XTR01Z 18V"
 seo_title: "Makita XTR01Z 18V Review: Verdict | TSV"
 meta_description: "Our full makita xtr01z 18v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GLR3CQ2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SaAn4OmWL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XTR01Z is the kind of tool that makes you wonder why more manufacturers don't build cordless routers this well. It's compact, it's capable, and it doesn't feel like a compromise just because it happens to run on batteries. But here's the thing — this isn't a bare-bones budget pick, and it's not for everyone.

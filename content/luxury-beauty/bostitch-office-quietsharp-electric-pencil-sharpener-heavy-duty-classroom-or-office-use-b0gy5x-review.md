@@ -1,4 +1,5 @@
 ---
+
 title: "Bostitch Office QuietSharp Electric Pencil Sharpener, Heavy"
 seo_title: "Bostitch QuietSharp Review: Heavy-Duty Electric Sharpener"
 meta_description: "Bostitch QuietSharp electric pencil sharpener review: quiet motor, heavy-duty build, and classroom-ready performance. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY5X6DFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "QuietSharp motor runs at 55dB — noticeably quieter than typical electric sharpeners during classroom or office use"
   - "Heavy-duty steel cutter with 6-blade helical design produces consistent, smooth points without chewing through pencils"
   - "Auto-stop sensor prevents over-sharpening; shavings reservoir holds roughly 30 pencils before needing a dump"
-cons:
+cons: 
   - "Bulky 7.2 x 5.1 x 4.3-inch footprint takes up real desk space — not ideal for tight workspaces"
   - "Struggles with softer, jumbo-sized pencils; jams occasionally if you force thicker barrels through the entry port"
+
 ---
 
 Let me be blunt: this isn't the sexiest product category, but if you're a teacher, an architect, or anyone who sharpens more than three pencils a week, the Bostitch Office QuietSharp earns its spot on your desk. I've tested it against cheaper options, and the difference is night and day — mostly in the noise department.

@@ -1,4 +1,5 @@
 ---
+
 title: "Shahoo Gaming Chair, Video Gaming Chair with Footrest and Lu"
 seo_title: "Shahoo Gaming Chair, Video Gaming Chair with Footr Review"
 meta_description: "Our full shahoo gaming chair, video gaming chair with footrest and lu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DG8BH49D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wRY2Df+6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

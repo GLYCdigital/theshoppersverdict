@@ -1,4 +1,5 @@
 ---
+
 title: "ACEES Gel Pens, 5 Pcs Retractable Gel Ink Pens"
 seo_title: "ACEES Gel Pens Review: 5-Pack Retractable Ink Pens"
 meta_description: "Honest ACEES gel pens review: smooth 0.5mm ink, comfortable grip, retractable design. See pros, cons, and who should buy these 5-packs."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQSG5YFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E-LRRQMZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth 0.5mm needle-point tip delivers crisp, skip-free lines without smudging"
   - "Retractable design with sturdy metal clip means no lost caps and pocket-safe carry"
   - "Comfortable rubberized grip reduces hand fatigue during long writing sessions"
-cons:
+cons: 
   - "Ink runs out faster than standard ballpoints — expect to replace after heavy daily use"
   - "Assorted colors only — no option to buy all-black or match specific color sets"
+
 ---
 
 Look, I've tested dozens of gel pens that promise "buttery smooth" writing and deliver dried-out, scratchy garbage by page three. The ACEES 5-pack actually delivers on the smoothness promise — and then some. With a 4.6-star average across 229 ratings, this isn't a flash-in-the-pan budget find. It's a legitimately good everyday writer.

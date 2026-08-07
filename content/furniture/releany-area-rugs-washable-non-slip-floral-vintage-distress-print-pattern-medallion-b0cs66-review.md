@@ -1,4 +1,5 @@
 ---
+
 title: "RELEANY Area Rugs Washable Non-Slip Floral Vintage Distress "
 seo_title: "RELEANY Area Rugs Washable Non-Slip Floral Vintage Review"
 meta_description: "Our full releany area rugs washable non-slip floral vintage distress  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CS66SMR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qvuFcuTdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The RELEANY washable area rug has one job: look expensive while surviving real life.** Does it pull that off? After digging through 229 ratings and the spec sheet, here's what you need to know before you hit "add to cart."

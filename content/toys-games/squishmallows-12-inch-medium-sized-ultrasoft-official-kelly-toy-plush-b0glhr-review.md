@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows 12-Inch - Medium-Sized Ultrasoft Official Kell"
 seo_title: "Squishmallows 12-Inch - Medium-Sized Ultrasoft Off Review"
 meta_description: "Our full squishmallows 12-inch - medium-sized ultrasoft official kell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GLHRM83S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fJQETUdxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Squishmallow phenomenon shows no signs of slowing down, and Kell the teal axolotl is one of the more sought-after characters in the lineup.** With a 4.9-star average across 245 ratings, this 12-inch plush has clearly won over buyers—but is it worth your money, or is the hype inflated? I dug into the specs, the feedback, and the real-world wear to give you the straight story.

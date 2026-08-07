@@ -1,4 +1,5 @@
 ---
+
 title: "WHHKXY Couch Slide for Toddlers 1-3, Kids Baby Toddler Slide"
 seo_title: "WHHKXY Couch Slide for Toddlers 1-3, Kids Baby Tod Review"
 meta_description: "Our full whhkxy couch slide for toddlers 1-3, kids baby toddler slide review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F49SJ95C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YXjA7SlVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The indoor slide that turns your couch into a playground — but is it built to survive a 2-year-old's chaos?**

@@ -1,4 +1,5 @@
 ---
+
 title: "New England Coffee Hazelnut CrÃ¨me Medium-Roast Ground Coffe"
 seo_title: "New England Coffee Hazelnut CrÃ¨me Medium-Roast Gr Review"
 meta_description: "Our full new england coffee hazelnut crã¨me medium-roast ground coffe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4W5NDKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wWt2OzFSL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you open a bag of flavored coffee and it smells like a candle shop exploded? That's not this. New England Coffee's Hazelnut Crème is the rare flavored ground that smells like actual hazelnut — toasted, slightly sweet, with a creamy undertone — and then delivers on that promise when brewed. At 4.6 stars across 229 ratings, it's earned a loyal following. Here's the real story.

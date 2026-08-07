@@ -1,4 +1,5 @@
 ---
+
 title: "Holiday Sprinkles 2.2"
 seo_title: "Holiday Sprinkles 2.2 Review: Verdict | TSV"
 meta_description: "Our full holiday sprinkles 2.2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9NZWJJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t6DCR4d6L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Holiday Sprinkles 2.2** sounds like something you'd dust on a latte, not a serious piece of coffee gear. But 235 Amazon reviewers have pushed this to a 4.7-star average, and after digging through the feedback, the story is clearer: this is a budget-friendly burr grinder that punches above its weight class — with a few honest caveats.

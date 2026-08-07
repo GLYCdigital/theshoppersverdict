@@ -1,4 +1,5 @@
 ---
+
 title: "Sungea Cotton Rug 1"
 seo_title: "Sungea Cotton Rug 1 Review: Verdict | TSV"
 meta_description: "Our full sungea cotton rug 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNP6P292/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AZfiSvsEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably seen a dozen cotton rugs on Amazon that all look identical in the thumbnails. The Sungea Cotton Rug stands apart for one simple reason: it doesn't try to be something it isn't. This is a flat-woven, utilitarian floor covering that nails the basics — and with 229 ratings averaging 4.6 stars, buyers mostly agree.

@@ -1,4 +1,5 @@
 ---
+
 title: "NICREW C10 24/7 Aquarium Light"
 seo_title: "NICREW C10 24/7 Aquarium Light Review: Verdict | TSV"
 meta_description: "Our full nicrew c10 24/7 aquarium light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C7G9GCZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RQ-Zm-U6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be straight about the NICREW C10 24/7: it’s not a high-end Chihiros or Twinstar. It’s a budget LED that tries to do a lot — and mostly succeeds. At 4.3 stars from 215 ratings, it’s clearly earning its keep in the aquarium community. But the "24/7" feature is the headline, and whether that’s a gimmick or a game-changer depends entirely on your setup.

@@ -1,4 +1,5 @@
 ---
+
 title: "Weck 741 - 0.25 Liter Mold Jars with Lids - 6 Rings and 12 C"
 seo_title: "Weck 741 - 0.25 Liter Mold Jars with Lids - 6 Ring Review"
 meta_description: "Our full weck 741 - 0.25 liter mold jars with lids - 6 rings and 12 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01M71UCKA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n1O+5rgyL._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing those iconic glass jars with the wire clips and rubber gaskets, you've probably landed on the Weck 741. This is the 0.25-liter (about 8.5 ounces) version of the German classic, sold here as a set of six jars with six glass lids, six rubber rings, and twelve stainless steel clips — enough to run a full canning batch or organize your entire spice drawer.

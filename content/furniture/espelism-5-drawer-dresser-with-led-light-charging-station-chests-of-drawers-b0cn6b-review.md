@@ -1,4 +1,5 @@
 ---
+
 title: "Espelism 5 Drawer Dresser with LED Light &Charging Station C"
 seo_title: "Espelism 5 Drawer Dresser Review: LED & Charging Station"
 meta_description: "Honest Espelism 5 Drawer Dresser review: LED lighting, USB charging ports, and real customer feedback. Is this tech-forward dresser worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN6B8GGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V127SGVSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED strip lighting with multiple color modes and brightness levels adds genuine ambiance"
   - "Built-in charging station with dual USB ports and AC outlet eliminates bedside cable clutter"
   - "Five spacious drawers with smooth-glide metal runners handle heavy sweaters and denim without sticking"
-cons:
+cons: 
   - "LED wiring is visible at the back corners — you'll want to hide it with careful placement"
   - "Assembly requires two people and roughly 90 minutes; the instructions are occasionally vague"
   - "Faux wood finish looks convincing in photos but won't fool a close inspection"
+
 ---
 
 The Espelism 5 Drawer Dresser isn't your grandmother's bedroom furniture. It's a tech-forward storage piece that answers two questions most dressers ignore: where do I plug in my phone, and why is my bedroom lighting so aggressively boring? At 4.5 stars across 225 ratings, it's clearly doing something right. But let's talk about whether it's right for *you*.

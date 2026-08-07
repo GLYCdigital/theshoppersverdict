@@ -1,4 +1,5 @@
 ---
+
 title: "RUSTYER Fluted Console Table, Farmhouse Entryway Table with "
 seo_title: "RUSTYER Fluted Console Table, Farmhouse Entryway T Review"
 meta_description: "Our full rustyer fluted console table, farmhouse entryway table with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F53ZPZR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714bh9NL-LL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A Console Table That Actually Looks Like It Costs More

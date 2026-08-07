@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Blank Rectangle Labels, 2 inch  x 3 inch , Glossy Crys"
 seo_title: "Avery 2x3 Glossy Clear Labels Review: Worth It?"
 meta_description: "Avery 2 inch x3 inch  glossy clear labels reviewed: print quality, durability, adhesion, and real user feedback. Find out if these are worth buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008FKRXC0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719Tn2NarWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True crystal-clear material that disappears on most surfaces — printed text appears to float directly on the product"
   - "Crisp, professional print quality with inkjet printers; colors stay vibrant without smudging after drying"
   - "Strong permanent adhesive that holds firmly on curved plastic, glass, and paperboard containers"
-cons:
+cons: 
   - "Glossy finish smudges easily if handled immediately after printing — you need a few minutes of dry time"
   - "Clear labels only work well on light-colored surfaces; dark backgrounds make the printed text hard to read"
   - "80-sheet count sounds generous, but waste is higher than average if you misprint; there's no margin for alignment errors"
+
 ---
 
 ## These Clear Labels Disappear on the Bottle — But Only If You Respect the Drying Time

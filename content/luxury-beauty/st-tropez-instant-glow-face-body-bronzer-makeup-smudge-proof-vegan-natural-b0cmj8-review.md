@@ -1,4 +1,5 @@
 ---
+
 title: "St.Tropez Instant Glow Face & Body Bronzer Makeup, Smudge-Pr"
 seo_title: "St.Tropez Instant Glow Face & Body Bronzer Makeup, Review"
 meta_description: "Our full st.tropez instant glow face & body bronzer makeup, smudge-pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CMJ8QGMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U7TOkXT3L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. St.Tropez is the brand you know from self-tanner, but the **Instant Glow Face & Body Bronzer Makeup** is a different animal entirely. This isn't a gradual tanner — it's a wash-off bronzer that promises an immediate, smudge-proof glow. At 4.0 stars from 200+ ratings, shoppers are split. Here's the real story after digging into the formula, the feedback, and how it actually behaves on skin.

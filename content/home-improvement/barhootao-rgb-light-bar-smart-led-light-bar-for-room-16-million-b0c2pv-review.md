@@ -1,4 +1,5 @@
 ---
+
 title: "Barhootao RGB Light Bar,Smart LED Light Bar for Room,16 Mill"
 seo_title: "Barhootao RGB Light Bar Review: Smart LED for Rooms"
 meta_description: "Barhootao RGB Light Bar review: 16 million colors, smart app control, and music sync. Is it worth your money? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2PVM68B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A9scho4qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 16 million color range with smooth transitions, not the usual 8-16 preset junk"
   - "Music sync mode actually reacts to bass and rhythm, not just flashing randomly"
   - "Adhesive mounting system holds solid on textured walls and TV backs"
-cons:
+cons: 
   - "App setup requires 2.4GHz Wi-Fi only — 5GHz networks won't connect, which confuses some buyers"
   - "No physical remote included; you're fully dependent on the app or voice assistant"
   - "Light output is more ambient glow than task lighting — don't expect to read by it"
+
 ---
 
 # Barhootao RGB Light Bar Review: Smart LED Lighting That Punches Above Its Price

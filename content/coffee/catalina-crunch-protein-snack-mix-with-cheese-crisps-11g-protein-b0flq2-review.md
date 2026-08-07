@@ -1,4 +1,5 @@
 ---
+
 title: "Catalina Crunch Protein Snack Mix with Cheese Crisps | 11g P"
 seo_title: "Catalina Crunch Protein Snack Mix Review: 11g Protein"
 meta_description: "Honest Catalina Crunch Protein Snack Mix review with Cheese Crisps. 11g protein, real nutrition facts, taste test, and value breakdown. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FLQ2ZN7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816lmdUGMeL._SL1500_.jpg"
-pros:
+pros: 
   - "11g protein per serving from real food sources, not just isolated protein powder"
   - "Cheese crisps add savory crunch that actually satisfies chip cravings"
   - "Low net carbs (3g) and no sugar alcohols that cause digestive distress"
-cons:
+cons: 
   - "Smaller bag than expected for the price point — roughly 4 servings per bag"
   - "Cheese crisps can arrive broken into small fragments during shipping"
   - "Savory flavor is mild; those expecting bold cheese taste will be underwhelmed"
+
 ---
 
 **The Snack Aisle Redemption Arc: Catalina Crunch Protein Snack Mix**

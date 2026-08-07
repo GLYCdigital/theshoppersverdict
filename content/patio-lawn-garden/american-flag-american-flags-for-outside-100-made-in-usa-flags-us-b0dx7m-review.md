@@ -1,4 +1,5 @@
 ---
+
 title: "American Flag | American Flags for Outside |100% Made in USA"
 seo_title: "American Flag for Outside Review: 100% Made in USA"
 meta_description: "Honest review of a 100% Made in USA American flag for outdoor use. Build quality, durability, stitching, and real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DX7MFW9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91oohiJ2PnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 210-denier nylon with double-needle lockstitch seams that hold up in sustained winds"
   - "Embroidered stars with tight, dense stitching — no loose threads or puckering around the canton"
   - "True 100% Made in USA claim — materials, cutting, sewing, and packaging all domestic"
-cons:
+cons: 
   - "No storage bag or carrying case included — you'll need to supply your own for off-season storage"
   - "Colors run slightly deeper/saturated than the classic government-spec red, white, and blue"
+
 ---
 
 **The Short Version**

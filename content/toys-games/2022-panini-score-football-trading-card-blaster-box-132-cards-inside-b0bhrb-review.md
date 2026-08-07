@@ -1,4 +1,5 @@
 ---
+
 title: "2022 Panini Score Football Trading Card Blaster Box - 132 Ca"
 seo_title: "2022 Panini Score Football Blaster Box Review: 132 Cards"
 meta_description: "2022 Panini Score Football Blaster Box review: 132 cards, 4.6-star rating. Are the rookies worth it? What buyers love and hate before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHRBH47D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pIC1PkazL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "132 cards per box — roughly 32 cents per card at typical retail, one of the best value-per-card ratios in the hobby"
   - "Rookie class includes Brock Purdy, Sauce Gardner, and Aidan Hutchinson with multiple parallel insert variations"
   - "Score's classic design is clean and readable — easy for new collectors to identify rookie cards and inserts"
-cons:
+cons: 
   - "No guaranteed autographs or memorabilia cards — you're buying base cards and inserts, not hit-chasing material"
   - "Collation issues reported by multiple buyers — duplicate base cards within the same box are common"
   - "Card stock is thinner than higher-end Panini products like Prizm or Select — feels flimsy in hand"
+
 ---
 
 Let's be blunt: if you're hunting for a life-changing autograph pull, this blaster box isn't it. But if you want a budget-friendly entry into football card collecting — or a gift for a kid who actually wants to rip packs instead of stare at sealed wax — the 2022 Panini Score Football Blaster Box delivers exactly what it promises: 132 cards, zero filler, and a rookie class that actually matters.

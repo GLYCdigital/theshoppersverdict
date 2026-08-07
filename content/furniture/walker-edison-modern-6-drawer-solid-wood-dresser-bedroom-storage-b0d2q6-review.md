@@ -1,4 +1,5 @@
 ---
+
 title: "Walker Edison Modern 6-Drawer Solid Wood Dresser Bedroom Sto"
 seo_title: "Walker Edison Modern 6-Drawer Solid Wood Dresser B Review"
 meta_description: "Our full walker edison modern 6-drawer solid wood dresser bedroom sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D2Q69N48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FyWTQjyeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A six-drawer dresser that actually uses solid wood — but brings a few caveats to your bedroom.**

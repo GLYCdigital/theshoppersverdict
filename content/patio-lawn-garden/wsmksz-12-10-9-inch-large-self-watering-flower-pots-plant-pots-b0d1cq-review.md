@@ -1,4 +1,5 @@
 ---
+
 title: "WSMKSZ 12/10/9 inch Large Self Watering Flower Pots, Plant P"
 seo_title: "WSMKSZ 12/10/9 inch Large Self Watering Flower Pot Review"
 meta_description: "Our full wsmksz 12/10/9 inch large self watering flower pots, plant p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1CQZPBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jl2ebTS+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most self-watering planters are flimsy plastic junk that crack by the second season or leak water all over your patio. The WSMKSZ 12/10/9 inch set is not that. But it's also not perfect. Here's what 229 Amazon reviewers (averaging 4.6 stars) actually found after living with these pots for months.

@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Berry-Tone 4-3-4 Natural & Organic Fertilizer"
 seo_title: "Espoma Organic Berry-Tone Review: Honest 2026 Verdict"
 meta_description: "Espoma Organic Berry-Tone 4-3-4 review: Does it boost blueberries, strawberries & raspberries? Real results, pros, cons & buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08TQNDVQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716NAsL5wQL._SL1500_.jpg"
-pros:
+pros: 
   - "Bio-tone microbe formula feeds soil biology, not just roots — visible improvement in berry size within one growing season"
   - "4-3-4 N-P-K ratio is properly balanced for acid-loving fruiting plants without burning tender roots"
   - "No sludge, no fillers, no synthetic salts — safe for kids and pets after watering in"
-cons:
+cons: 
   - "Strong organic smell for 24-48 hours after application — noticeable in raised beds near patios"
   - "Requires reapplication every 4-6 weeks during active growth; one bag won't last a full season for large patches"
+
 ---
 
 # Espoma Organic Berry-Tone 4-3-4: The Fertilizer That Actually Respects Your Soil

@@ -1,4 +1,5 @@
 ---
+
 title: "SimpliSafe Wireless Home Security System"
 seo_title: "SimpliSafe Wireless Home Security System Review: Verdict "
 meta_description: "Our full simplisafe wireless home security system review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGDDWBR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5154TF+P5EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: "False Eyelashes Strip"
 seo_title: "False Eyelashes Strip Review: Luxury Volume & Wear Test"
 meta_description: "Honest False Eyelashes Strip review: lash quality, adhesive wear time, comfort, and value. See if this 4.2-star luxury lash set is worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DTD9XJ63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m82QCr00L._SL1500_.jpg"
-pros:
+pros: 
   - "Feather-light band that flexes with natural eye movement—no stiff corners digging into the lash line"
   - "Multi-layer volume construction gives a wispy, mink-like finish without the animal product markup"
   - "Reusable up to 15 wears with proper care, bringing per-wear cost well under a dollar"
-cons:
+cons: 
   - "Band is delicate; aggressive tugging during removal can warp the shape permanently"
   - "Adhesive not included—first-time lash users will need to buy glue separately"
+
 ---
 
 **The 4.2-Star Lash That Punches Above Its Price Point — But Read This Before You Buy**

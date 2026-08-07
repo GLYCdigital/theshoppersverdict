@@ -1,4 +1,5 @@
 ---
+
 title: "Diamond Crystal Salt Co. Kosher Salt, 48 OZ"
 seo_title: "Diamond Crystal Kosher Salt Review: Coffee Pros' Secret"
 meta_description: "Is Diamond Crystal Kosher Salt worth it for coffee? Read our honest review covering the 48 oz box, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BF6GFWMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+pLfT4fJL._SL1000_.jpg"
-pros:
+pros: 
   - "Dissolves instantly in hot water — perfect for adding a pinch to brew water without grittiness"
   - "Kosher flake structure means even a tiny pinch is easy to control (no over-salting your coffee)"
   - "A 48 oz box lasts most home brewers 1-2 years, making it the cheapest coffee upgrade per use"
-cons:
+cons: 
   - "If you're not already a specialty coffee nerd, this looks like a weird purchase — salt is salt to most people"
   - "The box is bulky; it won't fit in a standard pantry spice rack or small kitchen drawer"
   - "You'll need to buy separate fine salt for actual cooking — this is a coffee tool first, table salt second"
+
 ---
 
 # Diamond Crystal Kosher Salt, 48 OZ: The Coffee Hack That Actually Works

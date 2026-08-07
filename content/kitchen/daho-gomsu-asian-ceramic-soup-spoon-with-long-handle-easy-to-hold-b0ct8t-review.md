@@ -1,4 +1,5 @@
 ---
+
 title: "DAHO GOMSU Asian Ceramic Soup Spoon, with Long Handle Easy t"
 seo_title: "DAHO GOMSU Ceramic Soup Spoon Review: Long Handle, 4.6/5 inch"
 meta_description: "DAHO GOMSU Asian ceramic soup spoon review: long handle, durable glaze, chip-resistant. Real buyer feedback on this 4.7-star kitchen essential."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT8TSMZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uS77+OJ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, fully-glazed ceramic that resists staining and odors from miso, curry, or pho broth"
   - "Long handle stays cool even when spoon sits in a simmering hot pot — no burned fingers"
   - "Deep bowl holds a generous sip, roughly double a Western tablespoon, without spilling"
-cons:
+cons: 
   - "Ceramic is inherently brittle — one reviewer reported chipping after a drop onto tile"
   - "Not dishwasher-safe per manufacturer; hand-washing adds a small chore to cleanup"
+
 ---
 
 If you've ever eaten ramen with a standard teaspoon, you know the struggle: too little broth per sip, a handle that disappears into the bowl, and a scalded thumb. The DAHO GOMSU Asian Ceramic Soup Spoon solves all three problems in one elegantly simple piece of tableware. As shown in the product image, this isn't a novelty spoon — it's a proper, deep-bowled utensil designed for serious soup consumption.

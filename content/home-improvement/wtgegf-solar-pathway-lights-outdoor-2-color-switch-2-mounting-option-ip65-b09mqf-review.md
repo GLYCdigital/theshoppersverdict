@@ -1,4 +1,5 @@
 ---
+
 title: "WTGEGF Solar Pathway Lights Outdoor - 2 Color Switch/2 Mount"
 seo_title: "WTGEGF Solar Pathway Lights Outdoor - 2 Color Swit Review"
 meta_description: "Our full wtgegf solar pathway lights outdoor - 2 color switch/2 mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09MQF3ZQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uGCI1DklL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out low-voltage landscape lighting lately, you know the sticker shock. A decent path light kit runs $100–$200 before you factor in transformers and cable. That's why solar units like the WTGEGF Pathway Lights are worth a serious look — at roughly a fraction of the cost, they solve the same problem without trenching or wiring. But "solar" covers a lot of territory, from junk that dies in a week to genuinely useful fixtures. Here's where these land after digging through the specs and 220 verified buyer ratings.

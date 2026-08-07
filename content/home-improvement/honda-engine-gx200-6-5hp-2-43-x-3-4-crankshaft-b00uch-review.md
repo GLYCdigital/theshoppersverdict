@@ -1,7 +1,8 @@
 ---
-title: "Honda Engine GX200 6.5HP 2.43\" x 3/4\" Crankshaft"
-seo_title: "Honda Engine GX200 6.5HP 2.43\" x 3/4\" Crankshaft Review: "
-meta_description: "Our full honda engine gx200 6.5hp 2.43\" x 3/4\" crankshaft review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Honda Engine GX200 6.5HP 2.43\ x 3/4\ Crankshaft"
+seo_title: "Honda Engine GX200 6.5HP 2.43\ x 3/4\ Crankshaft Review: "
+meta_description: "Our full honda engine gx200 6.5hp 2.43\ x 3/4\ crankshaft review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "honda-engine-gx200-6-5hp-2-43-x-3-4-crankshaft-b00uch-review"
 image_alt: "Honda Engine GX200 6.5HP 2.43 x 3/4 Crankshaft"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00UCHE26Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UWbgsAGQL._SL1280_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Honda GX200 isn't just another small engine — it's the benchmark that every clone manufacturer tries to copy and fails to match. If you've priced out replacements for a pressure washer, water pump, or mini bike, you've likely stared at the $150 knockoffs and wondered if the real Honda is worth the premium. After 225 Amazon ratings averaging 4.5 stars, the answer from real owners is a resounding yes — but let's dig into why, and where the premium price stings.

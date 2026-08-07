@@ -1,4 +1,5 @@
 ---
+
 title: "VERYOK Hybrid Mattress, Firm Mattress for Twin Full Queen Ki"
 seo_title: "VERYOK Hybrid Mattress, Firm Mattress for Twin Ful Review"
 meta_description: "Our full veryok hybrid mattress, firm mattress for twin full queen ki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTYZL7W1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1ip9SdsedL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What You're Actually Getting

@@ -1,4 +1,5 @@
 ---
+
 title: "Master Lock Parent 647"
 seo_title: "Master Lock Parent 647 Review: Verdict | TSV"
 meta_description: "Our full master lock parent 647 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMPB5YS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+W2BntUHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The **Master Lock Parent 647** sits in that awkward middle ground of padlocks: cheap enough to grab without thinking, but not so disposable that you'll toss it after a season. With 220 ratings averaging 4.4 stars, it's clearly doing something right. Let's break down whether it's the right lock for your gate, locker, or storage shed.

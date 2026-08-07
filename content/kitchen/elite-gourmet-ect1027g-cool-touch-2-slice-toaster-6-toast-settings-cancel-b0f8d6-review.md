@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet ECT1027G Cool-Touch 2 Slice Toaster, 6 Toast S"
 seo_title: "Elite Gourmet ECT1027G Toaster Review: 6 Settings, Cool-Touch"
 meta_description: "Elite Gourmet ECT1027G 2-slice toaster review: 6 shade settings, cool-touch exterior, and removable crumb tray. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F8D63B8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716gkSV1RAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cool-touch exterior — side panels stay comfortable even after multiple consecutive cycles"
   - "Wide, extra-deep slots accommodate bagels, thick artisan slices, and Texas toast without forcing"
   - "Six shade settings with a dedicated Cancel button and auto-centering guides for even browning"
-cons:
+cons: 
   - "Lever requires a firm push to latch — some users with grip issues may find it stiff initially"
   - "No bagel or defrost mode, so frozen bread needs a manual re-run at a lower setting"
   - "Short power cord (about 2 feet) limits counter placement flexibility"
+
 ---
 
 **The Elite Gourmet ECT1027G is proof that you don’t need to spend $80 on a toaster to get consistent, even browning.** At 4.1 stars across 204 ratings, it’s not perfect — but for under $25, it handles the morning grind better than most budget options I’ve tested.

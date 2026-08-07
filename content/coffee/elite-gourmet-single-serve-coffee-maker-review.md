@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EHC112 Single Serve Coffee Maker"
 seo_title: "Elite Gourmet EHC112 Review: Budget Single Serve Coffee"
 meta_description: "Elite Gourmet EHC112 single serve coffee maker review: 4.3 stars from 9,794 ratings. Is this budget-friendly brewer worth it? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 9794
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B197X3H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D9m1ChnUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews directly into a 15-oz thermal mug that doubles as your travel cup — no separate carafe to wash"
   - "Reusable mesh filter included, eliminating ongoing pod costs entirely"
   - "Compact footprint (roughly 10 inches deep) fits under most standard upper cabinets"
-cons:
+cons: 
   - "15-oz capacity means two cups requires a second brew cycle"
   - "No strength control or temperature settings — what you get is what you brew"
   - "Some units report lid durability issues after extended daily use"
+
 ---
 
 **The Shopper's Verdict: Elite Gourmet EHC112 Single Serve Coffee Maker**

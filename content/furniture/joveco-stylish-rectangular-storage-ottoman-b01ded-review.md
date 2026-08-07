@@ -1,4 +1,5 @@
 ---
+
 title: "Joveco Stylish Rectangular Storage Ottoman"
 seo_title: "Joveco Stylish Rectangular Storage Ottoman Review: Verdic"
 meta_description: "Our full joveco stylish rectangular storage ottoman review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01DEDBC1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gDjEdYAAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the storage ottoman that actually earns its floor space?**

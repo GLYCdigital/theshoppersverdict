@@ -1,4 +1,5 @@
 ---
+
 title: "Core Ground Variation: The Coffee Grinder That Does It All"
 seo_title: "Core Ground Variation Review: Is It Worth It? (2026)"
 meta_description: "Read our honest Core Ground Variation review. See how this 4.5-star coffee grinder performs, its pros, cons, and who should buy it in 2026."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1KLJGXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eMpwsMNPL._SL1200_.jpg"
-pros:
+pros: 
   - "Stepless grind adjustment from espresso-fine to French press-coarse with 40+ clickable detents"
   - "48mm hardened stainless steel conical burrs deliver consistent particle size with minimal static cling"
   - "Single-dose hopper with bellows ejection clears nearly all retained grounds — under 0.2g waste"
-cons:
+cons: 
   - "Grinding above 40g at a time requires two cycles; the 35g hopper isn't built for batch brewing"
   - "Steel body picks up fingerprints and shows smudges almost immediately after handling"
   - "Noisy at higher RPM settings — measures around 78dB during coarse grinds"
+
 ---
 
 If you've been chasing that elusive "cafe-quality" cup at home, the grind is where it's won or lost. The Core Ground Variation positions itself as the do-everything grinder that bridges espresso and pour-over without demanding a second mortgage. After 225 ratings holding a 4.5-star average, I dug into what this machine actually delivers — and where it stumbles.

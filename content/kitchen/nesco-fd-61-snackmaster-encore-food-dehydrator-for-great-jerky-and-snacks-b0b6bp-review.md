@@ -1,4 +1,5 @@
 ---
+
 title: "Nesco FD-61 Snackmaster Encore Food Dehydrator for Great Jer"
 seo_title: "Nesco FD-61 Snackmaster Encore Food Dehydrator for Review"
 meta_description: "Our full nesco fd-61 snackmaster encore food dehydrator for great jer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6BP6TYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zaf0dv2JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nesco FD-61 Snackmaster Encore Food Dehydrator for Great Jer

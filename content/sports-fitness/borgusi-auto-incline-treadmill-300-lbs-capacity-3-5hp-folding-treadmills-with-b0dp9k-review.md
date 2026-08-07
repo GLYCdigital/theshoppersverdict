@@ -1,4 +1,5 @@
 ---
+
 title: "BORGUSI Auto Incline Treadmill - 300+ LBS Capacity 3.5HP Fol"
 seo_title: "BORGUSI Auto Incline Treadmill Review: 300+ LBS Capacity"
 meta_description: "Honest BORGUSI Auto Incline Treadmill review: 3.5HP motor, 300+ lb capacity, folding design. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DP9KSW5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ib5Dbpv9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Auto incline with one-touch adjustment up to 12 levels — rare at this price point"
   - "300+ lb weight capacity with a reinforced steel frame that feels solid underfoot"
   - "Folding design with hydraulic assist — drops flat for storage in under 30 seconds"
-cons:
+cons: 
   - Deck is shorter than standard treadmills (fits users under 5'10 inch " comfortably)
   - "3.5HP is peak power, not continuous — sustained running above 6 mph gets strained"
   - "Assembly instructions are sparse; expect to spend 45-60 minutes with basic tools"
+
 ---
 
 Let's be honest about budget treadmills: most are compromises wrapped in marketing. The BORGUSI Auto Incline Treadmill isn't trying to hide that — it's a 300+ pound capacity folding machine with a 3.5HP motor and auto incline, priced to compete with models that often skip those features. The question isn't whether it's a $2,000 commercial treadmill. It's whether it does what it promises for the price. After digging through 195 ratings and the spec sheet, here's the real picture.

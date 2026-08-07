@@ -1,4 +1,5 @@
 ---
+
 title: "Diytoy Magnetic Tiles,100PCS 3D Building Blocks, Magnets Bui"
 seo_title: "Diytoy Magnetic Tiles 100PCS Review: Worth It? (2026)"
 meta_description: "Diytoy Magnetic Tiles 100PCS review: are these 3D building blocks worth buying? We analyze magnet strength, durability, and value vs. competitors."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D267M1R1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EJ6J3M5AL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnets are noticeably stronger than budget sets — structures hold up to toddler knocks"
   - "100-piece count includes shapes competitors sell separately (car base, window pieces, arch)"
   - "Edges are smooth with no sharp corners; survives drops onto hardwood without chipping"
-cons:
+cons: 
   - "No storage bag or container included — you'll need your own bin for 100 loose pieces"
   - "Colors are slightly more muted than the product photos suggest"
   - "A few pieces arrived with minor scratches on the translucent panels (cosmetic only)"
+
 ---
 
 The magnetic tile market is crowded. There's the premium-priced Magna-Tiles, the mid-range PicassoTiles, and then a pile of no-name budget sets that fall apart the moment you build a tower taller than your knee. The Diytoy 100-piece set sits squarely in that middle zone — priced like a budget option but, based on 245 ratings averaging 4.9 stars, performing closer to the big names. Is it genuinely good, or just another set of plastic squares riding on inflated reviews? I spent time with this set to find out.

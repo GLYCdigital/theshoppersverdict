@@ -1,4 +1,5 @@
 ---
+
 title: "Tub Drain Linkage Assembly, Solid Brass, Fit for Trip Lever "
 seo_title: "Tub Drain Linkage Assembly, Solid Brass, Fit for T Review"
 meta_description: "Our full tub drain linkage assembly, solid brass, fit for trip lever  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09B9Z7TCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51eHVGeeILL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your tub's trip lever drain has two failure modes: the linkage rod snaps, or the clevis corrodes until the whole assembly is a rusted mess. When that happens, you're looking at a bathtub that won't hold water — and a repair that shouldn't cost you a plumber's visit.

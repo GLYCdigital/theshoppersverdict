@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B iO Series Gentle Care Electric Toothbrush Replacement"
 seo_title: "Oral-B iO Series Gentle Care Electric Toothbrush R Review"
 meta_description: "Our full oral-b io series gentle care electric toothbrush replacement review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKT45FLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5137ACmftoL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: replacement brush heads are the hidden subscription cost of any electric toothbrush. The Oral-B iO Series Gentle Care heads are priced like a luxury item, so the real question is whether they deliver enough comfort and performance to justify the premium over the standard iO Clean heads. After digging through the specs, user feedback, and the 4.7-star average across 235 ratings, here's the honest breakdown.

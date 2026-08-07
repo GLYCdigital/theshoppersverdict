@@ -1,4 +1,5 @@
 ---
+
 title: "Camping Stove, 2 Burner Propane Stove,Camp stove"
 seo_title: "Camping Stove 2 Burner Propane Review: Worth It? (2026)"
 meta_description: "Honest review of the 2-burner propane camping stove. Performance, build quality, real customer feedback, and who should buy it. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW8MH25F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s-fhnw77L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Independent burner control — simmer one side while boiling on the other without fighting for the same dial"
   - "Built-in piezo ignition fires up on the first click even in light wind, per multiple verified reviews"
   - "Legs and latch feel solid for the price; no wobble on uneven picnic table surfaces"
-cons:
+cons: 
   - "Propane tank sits exposed on the side — no built-in wind guard for the tank connection, so gusty days can cause flame flicker"
   - "Carrying handle gets hot during extended use; you'll want a glove or wait a few minutes before moving it"
+
 ---
 
 You've probably been burned by a cheap camp stove before — the one that boils water in 20 minutes, flares up when you're not looking, or folds into a wobbly mess after one season. The question isn't whether this 2-burner propane stove works. It's whether it works *well enough* that you'll stop thinking about upgrading. After digging through the specs and 235 verified ratings, here's the real story.

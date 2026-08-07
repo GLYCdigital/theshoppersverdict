@@ -1,4 +1,5 @@
 ---
+
 title: "HAPYGI Portable Metal Table Lamp for Indoor/Outdoor,Recharge"
 seo_title: "HAPYGI Portable Metal Table Lamp for Indoor/Outdoo Review"
 meta_description: "Our full hapygi portable metal table lamp for indoor/outdoor,recharge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C2CD74GB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T07T7ZHQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The cordless table lamp that actually earns its spot on the patio table**

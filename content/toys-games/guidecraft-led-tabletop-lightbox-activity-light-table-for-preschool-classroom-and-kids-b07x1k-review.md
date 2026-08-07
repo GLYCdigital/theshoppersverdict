@@ -1,4 +1,5 @@
 ---
+
 title: "Guidecraft LED Tabletop Lightbox: Activity Light Table for P"
 seo_title: "Guidecraft LED Tabletop Lightbox Review: Best for Kids?"
 meta_description: "Guidecraft LED Tabletop Lightbox review: 4.6-star rated activity light table for preschoolers. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07X1KQQG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PNHPUIvFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy birch plywood frame with rounded corners—survives preschool-classroom abuse without splintering"
   - "Bright, even LED illumination with three brightness settings that doesn't flicker or overheat"
   - "Dual-voltage adapter with low-heat output—safe for hours of continuous toddler use"
-cons:
+cons: 
   - "Requires an outlet—no battery option, which limits portability for on-the-go play"
   - "Clear acrylic surface shows fingerprints and marker residue quickly; needs regular wiping"
   - "Price sits higher than basic light pads—you're paying for the wooden frame and child-safe design"
+
 ---
 
 **The Guidecraft LED Tabletop Lightbox is the rare toy that earns its keep in both a preschool classroom and a living room floor.** At 4.6 stars from 229 ratings, it's not just another glowing gadget—it's a genuinely useful tool for sensory play, early literacy, and art projects. But before you drop the cash, here's what you need to know.

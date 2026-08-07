@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Make 'Em Wonder Liquid Foundation"
 seo_title: "NYX PROFESSIONAL MAKEUP Make 'Em Wonder Liquid Fou Review"
 meta_description: "Our full nyx professional makeup make 'em wonder liquid foundation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G7D1ZK8Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PznLZpA+L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about foundation: there’s a graveyard of half-used bottles in most of our drawers. The NYX Make 'Em Wonder Liquid Foundation is trying to be the one that survives. After digging through 200 Amazon ratings and testing this formula myself, here’s what actually matters before you add it to your cart.

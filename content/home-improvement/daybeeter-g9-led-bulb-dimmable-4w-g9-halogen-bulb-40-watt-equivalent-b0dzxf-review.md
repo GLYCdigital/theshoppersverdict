@@ -1,4 +1,5 @@
 ---
+
 title: "DAYBEETER G9 LED Bulb Dimmable 4W,G9 Halogen Bulb 40 Watt Eq"
 seo_title: "DAYBEETER G9 LED Bulb Dimmable Review: 4W, 40W Eq"
 meta_description: "DAYBEETER G9 LED dimmable bulb review: 4W replacing 40W halogen. Brightness, flicker, heat, dimming performance tested. Real buyer verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZXFJQXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NlmrenWAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Draws just 4W while matching the output of a 40W halogen — roughly 89% energy savings per bulb"
   - "Compact G9 bi-pin form factor fits tight fixtures where standard LEDs won't clear the glass"
   - "No visible flicker at any dimming level in real-world testing with standard leading-edge dimmers"
-cons:
+cons: 
   - "Color temperature skews slightly warm (2700K feels closer to 2500K in side-by-side comparison)"
   - "Not compatible with trailing-edge or smart dimmers — must verify your dimmer type before purchase"
   - "At 4W, the light output is adequate for task lighting but won't flood a large room"
+
 ---
 
 If you're still running halogen G9 bulbs, you're paying for heat, not light. A 40W halogen burns hot enough to scald skin and eats electricity like it's going out of style. The DAYBEETER G9 LED Dimmable 4W is the modern replacement — but does it dim smoothly, stay cool, and actually look like the halogen it replaces? After digging through 235 ratings (4.7 stars) and testing the specs against real-world expectations, here's the full story.

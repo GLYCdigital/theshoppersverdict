@@ -1,4 +1,5 @@
 ---
+
 title: "KCO Lighting Sputnik Chandelier Light Globe Shade Frosted Gl"
 seo_title: "KCO Lighting Sputnik Chandelier Light Globe Shade  Review"
 meta_description: "Our full kco lighting sputnik chandelier light globe shade frosted gl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLSN81GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xMliUZgpL._AC_SL1288_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've pinned a dozen sputnik chandeliers on Pinterest, but they're either $600 or look like they'd fall apart by Christmas. The KCO Lighting Sputnik Chandelier sits squarely in that frustrating middle — not cheap, not luxury. Here's what you actually get for $182.

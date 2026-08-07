@@ -1,4 +1,5 @@
 ---
+
 title: "YADIYA Doctor Costume for Kids Scrubs Real Stethoscope Lab C"
 seo_title: "YADIYA Doctor Costume for Kids Scrubs Real Stethos Review"
 meta_description: "Our full yadiya doctor costume for kids scrubs real stethoscope lab c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2MXC6XV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O57nw2WoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Doctor's Kit That Actually Works — Not Just Another Plastic Costume**

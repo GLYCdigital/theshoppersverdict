@@ -1,23 +1,25 @@
 ---
+
 title: "Crayola Erasable Colored Pencils"
 seo_title: "Crayola Erasable Colored Pencils Review: Do They Really Erase?"
 meta_description: "Crayola Erasable Colored Pencils review: 24 colors, smooth laydown, but do they erase cleanly? We tested them for kids, artists, and homework."
 slug: "crayola-erasable-colored-pencils-b0gqrd-review"
 image_alt: "Crayola Erasable Colored Pencils in 24 assorted colors laid out on a white surface"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQRDLBV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qgTaz4lIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Smooth, vibrant cores that lay down color evenly without waxy buildup"  
   - "Erasable tip genuinely removes most pigment from standard printer paper"  
   - "Pre-sharpened, break-resistant leads — fewer snapped points mid-project"  
-cons:  
+cons: 
   - "Erasing aggressively can leave faint ghost lines, especially with darker shades"  
   - "Not ideal for heavy layering or blending — colors lift rather than build"
+
 ---
 
 **Crayola Erasable Colored Pencils: The 4.7-Star Workhorse That Actually Lets You Fix Mistakes**

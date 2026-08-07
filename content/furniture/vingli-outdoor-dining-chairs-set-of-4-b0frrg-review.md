@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Outdoor Dining Chairs Set of 4"
 seo_title: "VINGLI Outdoor Dining Chairs Set of 4 Review: Verdict | T"
 meta_description: "Our full vingli outdoor dining chairs set of 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRRGRQ5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HhzCyW2GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 VINGLI’s four-pack of outdoor dining chairs is trying to solve a very specific problem: how do you furnish a patio for a full dinner party without spending furniture-store money? At roughly $60–$70 per chair (check current pricing — it fluctuates), these stackable mesh chairs undercut most big-box competitors by 30–40%. But the real question isn't the price. It's whether they'll survive a second summer.

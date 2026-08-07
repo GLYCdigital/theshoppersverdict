@@ -1,4 +1,5 @@
 ---
+
 title: "Kalium Wall Sconces Set of 2 Modern Vanity Lights with Doubl"
 seo_title: "Kalium Wall Sconces Set of 2 Modern Vanity Lights  Review"
 meta_description: "Our full kalium wall sconces set of 2 modern vanity lights with doubl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D627FXTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hUTuDwChL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kalium Wall Sconces Set of 2 is the kind of fixture that makes you wonder why more vanity lights aren't designed this way. Instead of the standard single globe pointing down or up, each sconce uses two stacked clear glass globes on a compact backplate. The result is light that washes both up and down the wall, which does wonders for eliminating the unflattering shadows that single-direction fixtures cast across your face.

@@ -1,4 +1,5 @@
 ---
+
 title: "soto Original Multi-Surface Paint Touch Up, 1.5 Ounces"
 seo_title: "soto Original Multi-Surface Paint Touch Up, 1.5 Ou Review"
 meta_description: "Our full soto original multi-surface paint touch up, 1.5 ounces review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCLPV24F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O8O+ULTLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most paint touch-up products are either too watery to cover anything or dry to a finish that screams "I patched this." The soto Original Multi-Surface Paint Touch Up sits somewhere in the middle — and for most homeowners, that's exactly where you want to be.

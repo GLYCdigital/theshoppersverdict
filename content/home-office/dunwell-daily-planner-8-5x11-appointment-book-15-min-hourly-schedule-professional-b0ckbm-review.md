@@ -1,4 +1,5 @@
 ---
+
 title: "Dunwell Daily Planner, 8.5x11 Appointment Book, 15-Min Hourl"
 seo_title: "Dunwell Daily Planner Review: 15-Min Hourly Layout (2026)"
 meta_description: "Dunwell Daily Planner 8.5x11 review: 15-min hourly slots, lay-flat binding, premium paper. See pros, cons & who should buy this appointment book."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKBMPXW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715DcuS42rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15-minute increments give 96 discrete slots per day — enough granularity for medical, legal, and therapy scheduling without a second book"
   - "Heavy 120gsm paper handles fountain pens and heavy-handed writers with zero bleed-through"
   - "Lay-flat spiral binding stays open on a desk without weights — practical for one-handed note-taking"
-cons:
+cons: 
   - "At 8.5x11, it's too large for most purses or briefcase interior pockets; it's a desk-bound planner"
   - "No monthly overview pages included — long-range planning requires a separate calendar"
+
 ---
 
 If you're a professional whose day runs on 15-minute increments — a therapist, attorney, medical scheduler, or project manager — you already know the frustration of trying to squeeze a 9:15 appointment into a planner built for hourly blocks. The Dunwell Daily Planner, 8.5x11 Appointment Book with 15-minute hourly scheduling exists specifically to solve that problem. And for the most part, it nails it.

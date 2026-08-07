@@ -1,4 +1,5 @@
 ---
+
 title: "Kingsyard Large Platform Bird Feeder Outdoor Hanging, Adjust"
 seo_title: "Kingsyard Large Platform Bird Feeder Outdoor Hangi Review"
 meta_description: "Our full kingsyard large platform bird feeder outdoor hanging, adjust review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C6LY1TMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717g2pE50dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've thrown money at "squirrel-proof" feeders that turned out to be squirrel *buffets*, the Kingsyard Large Platform Bird Feeder deserves a closer look. This isn't a gimmick — it's a straightforward, well-built platform feeder with an adjustable dome that actually does what it claims. At 4.8 stars across 240+ ratings, it's clearly earning its keep in backyards nationwide.

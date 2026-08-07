@@ -1,4 +1,5 @@
 ---
+
 title: "TOMY Mario Kart Pull Back Racers - 10-Count Blind Box Set wi"
 seo_title: "TOMY Mario Kart Pull Back Racers - 10-Count Blind  Review"
 meta_description: "Our full tomy mario kart pull back racers - 10-count blind box set wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNTSSL5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lQ44XXf5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook: The pull-back mechanic is the real star here**

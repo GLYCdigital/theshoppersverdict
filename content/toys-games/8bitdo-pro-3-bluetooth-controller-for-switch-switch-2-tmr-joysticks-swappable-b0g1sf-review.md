@@ -1,4 +1,5 @@
 ---
+
 title: "8BitDo Pro 3 Bluetooth Controller for Switch/Switch 2 – TM"
 seo_title: "8BitDo Pro 3 Controller Review: Switch 2 Ready? (2026)"
 meta_description: "8BitDo Pro 3 review: TMR joysticks, swappable faceplates, Switch 2 support. Is this the best premium pad? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1SFW56S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Fiulj0J1L._SL1500_.jpg"
-pros:
+pros: 
   - "TMR joysticks eliminate stick drift risk with magnetic sensing — a genuine upgrade over the original Pro 2's potentiometers"
   - "Swappable faceplates and thumbstick height options (2 sets included) let you tune ergonomics to your grip without tools"
   - "Full Switch 2 compatibility out of the box, including HD rumble and gyro — no firmware update required per early reports"
-cons:
+cons: 
   - "No Hall-effect triggers, only standard analog triggers — competitive shooters on Switch 2 may want more precision"
   - "Faceplate swap mechanism feels slightly fiddly; you'll need to apply even pressure or the magnetic alignment shifts"
   - "Battery life (18 hours) trails the Pro 2's 20-hour rating despite the new internals — not a dealbreaker, but unexpected"
+
 ---
 
 **The 8BitDo Pro 3 isn't just a refresh — it's the answer to the two biggest complaints about its predecessor.** Stick drift. And boxy, fixed ergonomics. If you've been holding onto a Pro 2 that's started pulling left on its own, or you're eyeing a Switch 2 launch controller, this one's got your name on it.

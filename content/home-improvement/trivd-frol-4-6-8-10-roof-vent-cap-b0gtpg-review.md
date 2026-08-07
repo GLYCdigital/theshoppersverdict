@@ -1,4 +1,5 @@
 ---
+
 title: "Trivd Frol 4/6/8/10 Roof Vent Cap"
 seo_title: "Trivd Frol 4/6/8/10 Roof Vent Cap Review: Verdict | TSV"
 meta_description: "Our full trivd frol 4/6/8/10 roof vent cap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTPGJLS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Mn-w7LVtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A roof vent cap is one of those parts you don't think about until a raccoon peels yours off or the sun turns it into a brittle husk. Then you're climbing a ladder with a tape measure, praying the local big-box store has the right diameter in stock. The Trivd Frol 4/6/8/10 Roof Vent Cap solves that problem by covering four common sizes in one affordable package. At $31.34 with a 4.5-star average across 225 ratings, it's worth a hard look before you pay dealership or big-box prices for a branded equivalent.

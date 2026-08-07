@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* XR Cordless Polisher, Rotary, Variable Speed"
 seo_title: "DEWALT 20V MAX XR Cordless Polisher Review: Worth It?"
 meta_description: "DEWALT 20V MAX XR rotary polisher review: variable speed, 7-inch pad, real-world performance, battery life, and honest downsides. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YQJLYNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TaNc5IQhL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuinely cordless rotary power — 3500 RPM max with enough torque to correct heavy oxidation without bogging down"
   - "Variable speed trigger with lock button gives precise control from 1000 to 3500 RPM, ideal for both compounding and final polishing"
   - "Ergonomic side handle and lightweight 5.4 lbs design reduce fatigue during long detailing sessions"
-cons:
+cons: 
   - "Battery drain is real — expect roughly 20-25 minutes of continuous work on a 5Ah battery, so budget for spares"
   - "Rotary learning curve is steep; if you're a beginner, this will burn paint before you figure it out"
+
 ---
 
 **The DEWALT 20V MAX XR Rotary Polisher (model DCW600B) isn't for everyone — and that's exactly why it might be for you.**

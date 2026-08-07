@@ -1,4 +1,5 @@
 ---
+
 title: "10.5QT Soup Warmers Commercial Soup Kettle with Stainless St"
 seo_title: "10.5QT Soup Warmer Review: Commercial Kettle Tested"
 meta_description: "Honest 10.5QT commercial soup warmer review: build quality, heating performance, real buyer feedback. Is this stainless kettle worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D3XH38PX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PSPYU1aQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 10.5QT capacity that actually holds a full hotel pan, making it genuinely useful for catering events or buffet lines"
   - "Stainless steel body with a hinged lid that stays put while serving — no juggling a hot cover mid-event"
   - "Dual thermostat knobs give independent control over the two heating zones, letting you run soup on one side and chili on the other at different temps"
-cons:
+cons: 
   - "The included ladle is flimsy and undersized for the depth — budget for a proper 12-inch serving spoon immediately"
   - "Some units arrive with the thermostat dials misaligned, so the markings don't match actual temperature settings (verify on arrival)"
   - "The clear front panel fogs up badly during heavy service, making the 'see-through' feature largely cosmetic in real use"
+
 ---
 
 Let me cut through the listing photos and tell you what actually matters about this soup warmer. It's a 10.5QT countertop unit aimed at caterers, church potlucks, and small food operations. The pitch is simple: keep soup hot for hours, look professional doing it, and don't break the bank. After digging through 190 ratings and the specs, here's the real story.

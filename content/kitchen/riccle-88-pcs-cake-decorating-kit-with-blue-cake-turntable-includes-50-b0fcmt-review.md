@@ -1,4 +1,5 @@
 ---
+
 title: "Riccle 88 pcs Cake Decorating Kit with Blue Cake Turntable -"
 seo_title: "Riccle 88 pcs Cake Decorating Kit with Blue Cake T Review"
 meta_description: "Our full riccle 88 pcs cake decorating kit with blue cake turntable - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FCMTPQXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ykex6SOZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Riccle 88-Piece Cake Decorating Kit: The Complete Starter Setup That Actually Holds Up

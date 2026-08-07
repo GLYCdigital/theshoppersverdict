@@ -1,4 +1,5 @@
 ---
+
 title: "Pulcro.io TK QBE Mini PC - N150 CPU"
 seo_title: "Pulcro.io TK QBE Mini PC - N150 CPU Review: Verdict | TSV"
 meta_description: "Our full pulcro.io tk qbe mini pc - n150 cpu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DL2HYW3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615PaMqHLFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The mini PC market is crowded with re-badged N100 boxes that all blur together. The Pulcro.io TK QBE stands out for one simple reason: it comes with **two 2.5G Ethernet ports** at a price point where most competitors give you one. That single spec change makes this a genuinely different tool for homelabbers, network admins, and anyone running a Plex server or pfSense firewall.

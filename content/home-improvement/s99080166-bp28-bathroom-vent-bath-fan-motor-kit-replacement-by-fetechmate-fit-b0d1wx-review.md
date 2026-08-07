@@ -1,4 +1,5 @@
 ---
+
 title: "S99080166 BP28 Bathroom Vent Bath Fan Motor Kit Replacement "
 seo_title: "S99080166 BP28 Bathroom Vent Bath Fan Motor Kit Re Review"
 meta_description: "Our full s99080166 bp28 bathroom vent bath fan motor kit replacement  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1WX7X4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lQvkhimuL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your bathroom fan starts humming like a trapped bee, then stops spinning entirely. You pull the cover off, and the motor is seized. You've got two options: call an electrician (that's a $150 trip minimum) or spend 20 minutes and $19 replacing the motor yourself. The Fetechmate S99080166 BP28 kit makes that second option genuinely painless — for most people.

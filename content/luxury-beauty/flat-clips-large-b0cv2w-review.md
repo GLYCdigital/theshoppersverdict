@@ -1,4 +1,5 @@
 ---
+
 title: "Flat Clips - Large"
 seo_title: "Flat Clips - Large Review: Verdict | TSV"
 meta_description: "Our full flat clips - large review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV2WPV43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fXq8MgEfL._SL1080_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen these flat clips all over your feed — the minimalist metal bar that somehow holds a full twist of hair without a single bobby pin. The question is whether they're worth the premium price tag when a $3 claw clip does the same job. After two weeks of daily wear on thick, waist-length hair, here's the honest breakdown.

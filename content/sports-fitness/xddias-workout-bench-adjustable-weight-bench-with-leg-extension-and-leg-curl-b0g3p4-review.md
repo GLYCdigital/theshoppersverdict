@@ -1,4 +1,5 @@
 ---
+
 title: "XDDIAS Workout Bench, Adjustable Weight Bench with Leg Exten"
 seo_title: "XDDIAS Workout Bench, Adjustable Weight Bench with Review"
 meta_description: "Our full xddias workout bench, adjustable weight bench with leg exten review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G3P4Q4SQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-PSe1uhvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The home gym market is flooded with cheap benches that wobble under a loaded barbell or fold up like a lawn chair. The XDDIAS Adjustable Workout Bench isn't that. It's not flashy, but it does what a bench needs to do — and it throws in a leg extension attachment most competitors skip entirely.

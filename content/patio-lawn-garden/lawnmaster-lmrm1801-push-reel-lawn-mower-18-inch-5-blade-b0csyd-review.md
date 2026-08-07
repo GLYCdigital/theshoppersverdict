@@ -1,4 +1,5 @@
 ---
+
 title: "LawnMaster LMRM1801 Push Reel Lawn Mower 18-Inch 5-Blade"
 seo_title: "LawnMaster LMRM1801 Push Reel Lawn Mower 18-Inch 5 Review"
 meta_description: "Our full lawnmaster lmrm1801 push reel lawn mower 18-inch 5-blade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CSYDCKK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713mgnJDi0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LawnMaster LMRM1801 isn't trying to be your father's gas-powered brute. It's the opposite — a lightweight, quiet, eco-friendly tool that rewards patience with a genuinely better cut. But "better" comes with compromises, and you need to know them before you buy.**

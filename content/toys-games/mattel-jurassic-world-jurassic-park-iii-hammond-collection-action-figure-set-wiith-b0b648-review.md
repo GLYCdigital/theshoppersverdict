@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Jurassic World Jurassic Park III Hammond Collection A"
 seo_title: "Mattel Jurassic World Jurassic Park III Hammond Co Review"
 meta_description: "Our full mattel jurassic world jurassic park iii hammond collection a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B64874G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gzp3xwqaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hammond Collection line has been the gold standard for Jurassic collectors since 2022. This Jurassic Park III two-pack — featuring Alan Grant and a male raptor — continues that streak, but it's not without its quirks.**

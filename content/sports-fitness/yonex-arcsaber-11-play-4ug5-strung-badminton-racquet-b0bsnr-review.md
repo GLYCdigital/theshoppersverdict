@@ -1,4 +1,5 @@
 ---
+
 title: "Yonex ArcSaber 11 Play 4UG5 Strung Badminton Racquet"
 seo_title: "Yonex ArcSaber 11 Play 4UG5 Strung Badminton Racqu Review"
 meta_description: "Our full yonex arcsaber 11 play 4ug5 strung badminton racquet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BSNRP554/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Yp5dxx5GL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Yonex ArcSaber 11 Play — a name that carries serious weight in badminton circles. The original ArcSaber 11 was a Lee Chong Wei signature racket, a legend on the pro circuit. But this is the "Play" version — a budget-friendly recreation that trades premium materials for accessibility. Is it worth your money? Let's dig in.**

@@ -1,4 +1,5 @@
 ---
+
 title: "JOYSTAR 20 Inch Kids' Bike for Boys Girls Ages 6-10 Years Ol"
 seo_title: "JOYSTAR 20 Inch Kids' Bike for Boys Girls Ages 6-1 Review"
 meta_description: "Our full joystar 20 inch kids' bike for boys girls ages 6-10 years ol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GF5TJK51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pSIvgGtXS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about kids' bikes: most under $150 are disposable junk. The JOYSTAR 20-inch for ages 6-10 sits in a weird middle ground — it's not a Walmart special, but it's also not a Trek. After digging through 220 ratings and the spec sheet, here's what actually matters.

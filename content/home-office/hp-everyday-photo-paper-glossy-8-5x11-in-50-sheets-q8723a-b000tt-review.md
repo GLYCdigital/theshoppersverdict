@@ -1,4 +1,5 @@
 ---
+
 title: "HP Everyday Photo Paper, Glossy, 8.5x11 in, 50 sheets (Q8723"
 seo_title: "HP Everyday Photo Paper, Glossy, 8.5x11 in, 50 she Review"
 meta_description: "Our full hp everyday photo paper, glossy, 8.5x11 in, 50 sheets (q8723 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000TT7YRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RF9Km1CNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need a $300 photo printer to make prints worth handing out. But you do need paper that doesn't turn your ink into a smudged mess. The HP Everyday Photo Paper in glossy 8.5x11 has been a default pick for casual photographers for years — and with a 4.8-star average across 240 ratings, it's clearly doing something right. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "EPOMAKER TH99 Tri-Mode Wireless Mechanical Keyboard with 800 inch"
 seo_title: "EPOMAKER TH99 Review: Tri-Mode Wireless Keyboard with 8000mAh"
 meta_description: "EPOMAKER TH99 review: 8000mAh battery, tri-mode wireless, hot-swappable switches. Is this 96% layout keyboard worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FVYB3NDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hvtw+m5UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8000mAh battery delivers weeks of real-world use on a single charge, even with RGB enabled"
   - "Tri-mode connectivity (2.4GHz dongle, Bluetooth 5.0, USB-C wired) with seamless device switching"
   - "Hot-swappable switches and gasket-mounted design make this a genuine modding platform, not a disposable board"
-cons:
+cons: 
   - "Stock ABS keycaps develop shine within a few months of daily typing — budget for a PBT replacement set"
   - "The 96% layout crams arrow keys and nav cluster tightly; users with large hands may find it cramped"
   - "No dedicated software for macOS remapping; Mac users are limited to onboard function-layer customization"
+
 ---
 
 If you've been scrolling through mechanical keyboard listings wondering why some boards cost $40 and others $200, the EPOMAKER TH99 sits in a sweet spot that deserves attention. This is a board that gives you the essentials — tri-mode wireless, a massive battery, and hot-swappable switches — without demanding you take out a loan. After spending time with it, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Heavy Duty Wall Mounted Pull Up Bar, Over Door Pull "
 seo_title: "Yes4All Heavy Duty Wall Mounted Pull Up Bar, Over  Review"
 meta_description: "Our full yes4all heavy duty wall mounted pull up bar, over door pull  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BNPJG92L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GfLHGxuYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been cycling through doorway pull-up bars that creak, slip, or dent your doorframe, the Yes4All Heavy Duty Wall Mounted Pull Up Bar is the upgrade that actually ends that cycle. This isn't a cleverly marketed piece of tube steel — it's a legit piece of gym equipment that demands respect, a stud finder, and a willingness to put holes in your wall.

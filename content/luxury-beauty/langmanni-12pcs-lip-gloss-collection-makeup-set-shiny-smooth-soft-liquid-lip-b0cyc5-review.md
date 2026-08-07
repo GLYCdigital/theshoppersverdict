@@ -1,4 +1,5 @@
 ---
+
 title: "LANGMANNI 12Pcs Lip gloss Collection Makeup Set, Shiny Smoot"
 seo_title: "LANGMANNI 12Pcs Lip gloss Collection Makeup Set, S Review"
 meta_description: "Our full langmanni 12pcs lip gloss collection makeup set, shiny smoot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYC5ZDFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nm05gzwjL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 12-Shade Gamble That Actually Pays Off**

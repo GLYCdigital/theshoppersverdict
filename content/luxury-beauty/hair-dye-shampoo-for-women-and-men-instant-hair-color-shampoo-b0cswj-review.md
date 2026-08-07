@@ -1,4 +1,5 @@
 ---
+
 title: "Hair dye shampoo for women and men, Instant Hair color shamp"
 seo_title: "Hair dye shampoo for women and men, Instant Hair c Review"
 meta_description: "Our full hair dye shampoo for women and men, instant hair color shamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSWJ334Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wI8gbqVBL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 10-Minute Hair Color That Skips the Gloves and the Mess**

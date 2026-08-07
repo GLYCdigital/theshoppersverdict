@@ -1,4 +1,5 @@
 ---
+
 title: "Lennox 20x25x5 Furnace Filter, X6675 Replacement, Merv 16 Ca"
 seo_title: "Lennox 20x25x5 Furnace Filter, X6675 Replacement,  Review"
 meta_description: "Our full lennox 20x25x5 furnace filter, x6675 replacement, merv 16 ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B099NV4GV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nGimcS21L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The allergy sufferer's upgrade that actually works

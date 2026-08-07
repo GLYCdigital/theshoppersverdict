@@ -1,7 +1,8 @@
 ---
-title: "Tribesigns 78\" L-Shaped Executive Desk, Large Modern Office "
-seo_title: "Tribesigns 78\" L-Shaped Executive Desk, Large Mode Review"
-meta_description: "Our full tribesigns 78\" l-shaped executive desk, large modern office  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tribesigns 78\ L-Shaped Executive Desk, Large Modern Office "
+seo_title: "Tribesigns 78\ L-Shaped Executive Desk, Large Mode Review"
+meta_description: "Our full tribesigns 78\ l-shaped executive desk, large modern office  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tribesigns-78-l-shaped-executive-desk-large-modern-office-desk-with-drawers-b0dsl8-review"
 image_alt: "Tribesigns 78 L-Shaped Executive Desk, Large Modern Office Desk with Drawers and Lateral File Cabinet, Business Furnitur"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSL8FK77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YLjJ6AykL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: a 78-inch L-shaped desk for under $300 usually means wobbly particleboard and regret. The Tribesigns 78" L-Shaped Executive Desk doesn't completely escape that category, but it gets closer than most. After digging through 220 ratings and the spec sheet, here's what actually matters.

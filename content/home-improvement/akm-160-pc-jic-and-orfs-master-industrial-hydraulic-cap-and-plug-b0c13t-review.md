@@ -1,5 +1,6 @@
 ---
 
+
 title: "AKM 160 PC JIC and ORFS Master Industrial Hydraulic Cap and"
 seo_title: "AKM 160 PC Hydraulic Cap & Plug Set Review (2026)"
 meta_description: "AKM 160 PC JIC/ORFS hydraulic cap & plug kit review: sizing accuracy, thread quality, case durability. Is it worth it? Read before you buy."
@@ -12,15 +13,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C13TV26F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81PL84xADYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers both JIC (37°) and ORFS (flat-face) in one kit — 80 caps plus 80 plugs across 20 common sizes from -04 to -24 inch"
   - "Red anodized aluminum construction resists corrosion and won't seize onto steel fittings like plastic caps do"
   - "Laser-etched size markings on every piece — you won't play the guessing game when sorting 160 parts"
   - "Molded blow-molded case with cutouts keeps everything organized and portable for field service"
-cons:
+cons: 
   - "No size chart printed inside the lid — you'll need a thread gauge or caliper until you memorize the markings"
   - "Aluminum caps are softer than steel; overtightening can strip threads if you're heavy-handed"
   - "Case latches feel a bit flimsy for daily job-site abuse — fine for a shop drawer, less so for a truck bed"
+
 
 ---
 

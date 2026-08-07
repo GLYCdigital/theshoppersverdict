@@ -1,24 +1,26 @@
 ---
+
 title: "OXO Brew Conical Burr Coffee Grinder"
 seo_title: "OXO Brew Conical Burr Grinder Review: Worth It? (2026)"
 meta_description: "Honest OXO Brew Conical Burr Coffee Grinder review: 15 settings, stainless burrs, 4.4★ from 22k+ buyers. See pros, cons, and who should buy it."
 slug: "oxo-brew-conical-burr-coffee-grinder-review"
 image_alt: "OXO Brew Conical Burr Coffee Grinder with hopper and grind container on countertop"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: 109.95  
-review_count: 22830  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: 109.95
+review_count: 22830
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DeUg8G7kS._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "38mm stainless steel conical burrs deliver consistent grounds across 15 settings, from fine espresso to coarse French press"  
   - "One-touch timer with automatic shutoff—set it once, get the same dose every morning"  
   - "Removable hopper and grind container rinse clean in seconds; no brush required for daily upkeep"  
-cons:  
+cons: 
   - "Static cling can leave a few grams of grounds stuck in the chute—tap the lid to dislodge"  
   - "Noisy for a countertop grinder; you'll hear it in the next room at coarse settings"  
   - "Timer is a volume proxy, not weight-based—dose varies slightly with bean density"
+
 ---
 
 If you're stepping up from a blade grinder, the OXO Brew Conical Burr is the logical first move—and with 22,830 ratings holding a 4.4-star average, it's clearly the crowd's pick. Here's the real story after digging through specs, user feedback, and the actual grind quality.

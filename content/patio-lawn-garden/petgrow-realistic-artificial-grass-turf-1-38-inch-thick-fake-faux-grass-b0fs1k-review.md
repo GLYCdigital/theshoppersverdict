@@ -1,4 +1,5 @@
 ---
+
 title: "Petgrow Realistic Artificial Grass Turf- 1.38 Inch Thick Fak"
 seo_title: "Petgrow Realistic Artificial Grass Turf- 1.38 Inch Review"
 meta_description: "Our full petgrow realistic artificial grass turf- 1.38 inch thick fak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FS1KSZ3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Py6baF0NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. You’re looking at artificial grass because real turf is dying under your dog, your kids, or your total lack of interest in mowing. The Petgrow 1.38-inch thick option sits in a crowded market of flimsy, flat-looking fakes. Here’s whether it earns your money.

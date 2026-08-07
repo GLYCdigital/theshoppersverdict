@@ -1,4 +1,5 @@
 ---
+
 title: "cridoz 15 Rolls Thin 1/8 Inch (3mm) Whiteboard Tape, Low-Tac"
 seo_title: "cridoz Whiteboard Tape Review: 15 Rolls of 3mm Low-Tac"
 meta_description: "Honest cridoz 15-roll 1/8-inch whiteboard tape review. Thin 3mm low-tac strips for planners, whiteboards, and labels. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07P41SJ8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fJzVI9GGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3mm width creates precise, hairline grid lines without the mess of a marker"
   - "Low-tac adhesive removes cleanly from whiteboards and laminated surfaces without residue"
   - "15 rolls means you get roughly 30+ feet of tape for the price of one name-brand roll"
-cons:
+cons: 
   - "Tape is thin and can tear if you pull too hard while unrolling"
   - "Won't stick well to textured or matte whiteboards — needs a glossy surface"
   - "No dispenser included; you'll need scissors or a blade for clean cuts"
+
 ---
 
 If you've ever tried drawing a straight line on a whiteboard freehand, you know the struggle. The cridoz 15 Rolls Thin 1/8 Inch Whiteboard Tape solves that problem with a simple, low-tech approach: pre-cut strips of low-tack tape that give you hairline-perfect grid lines, columns, and rows without touching a marker to the board until you're ready.

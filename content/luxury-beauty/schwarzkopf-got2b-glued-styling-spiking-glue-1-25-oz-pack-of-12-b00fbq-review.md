@@ -1,4 +1,5 @@
 ---
+
 title: "Schwarzkopf got2b Glued Styling Spiking Glue 1.25 oz (Pack o"
 seo_title: "Schwarzkopf got2b Glued Styling Spiking Glue 1.25  Review"
 meta_description: "Our full schwarzkopf got2b glued styling spiking glue 1.25 oz (pack o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00FBQNV90/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P2u+beysL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're chasing a spiky, gravity-defying look that survives a commute, a workout, and a windy walk home, the Schwarzkopf got2b Glued Styling Spiking Glue has been a cult favorite for over a decade — and the 4.6-star rating across 229 reviews backs up the hype. But this isn't a gentle styling cream. It's a heavy-duty glue that demands respect and a light hand.

@@ -1,4 +1,5 @@
 ---
+
 title: "Redragon Gaming Keyboard & Mouse Combo"
 seo_title: "Redragon Gaming Keyboard & Mouse Combo Review: Verdict | "
 meta_description: "Our full redragon gaming keyboard & mouse combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHCFWZ2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nqOlWrqbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the Redragon Gaming Keyboard & Mouse Combo is not a $150 mechanical setup. It's a budget-friendly combo that punches above its weight class, but it has quirks you need to know about before you click "buy."

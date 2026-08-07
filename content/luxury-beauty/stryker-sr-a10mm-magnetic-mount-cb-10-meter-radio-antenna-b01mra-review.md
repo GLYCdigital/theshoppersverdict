@@ -1,4 +1,5 @@
 ---
+
 title: "Stryker SR-A10MM Magnetic Mount CB & 10-Meter Radio Antenna"
 seo_title: "Stryker SR-A10MM Magnetic Mount CB & 10-Meter Radi Review"
 meta_description: "Our full stryker sr-a10mm magnetic mount cb & 10-meter radio antenna review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01MRA7U9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7164+Eva2PL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the static: most magnetic CB antennas under $100 are cheap fiberglass whips that flex like a wet noodle and tune like a bad temper. The Stryker SR-A10MM is not that. At 48 inches of stainless steel with a triple-magnet base, it's built for operators who actually key up — not weekend dabblers.

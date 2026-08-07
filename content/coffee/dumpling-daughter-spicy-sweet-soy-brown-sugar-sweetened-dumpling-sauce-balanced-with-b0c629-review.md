@@ -1,4 +1,5 @@
 ---
+
 title: "Dumpling Daughter - Spicy Sweet Soy - Brown Sugar Sweetened"
 seo_title: "Dumpling Daughter Spicy Sweet Soy Review: Worth It?"
 meta_description: "Honest Dumpling Daughter Spicy Sweet Soy review: flavor balance, heat level, and real buyer feedback. Is this brown sugar sweetened sauce worth buying?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C629X229/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AXgF8NGnL._SL1200_.jpg"
-pros:
+pros: 
   - "Balanced heat-to-sweet ratio that complements rather than masks dumpling fillings"
   - "Brown sugar base gives a molasses-like depth that cheap soy sauces lack"
   - "Versatile enough for dumplings, potstickers, and as a stir-fry glaze"
-cons:
+cons: 
   - "Spice level runs mild-to-medium despite the 'spicy' label — chili heads will want extra"
   - "Slightly thin viscosity, so it runs off potstickers instead of clinging"
   - "Smaller bottle than expected for the price point compared to generic brands"
+
 ---
 
 **The Short Version: A restaurant-quality dumpling sauce that nails the sweet-heat balance, but don't expect five-alarm fire.**

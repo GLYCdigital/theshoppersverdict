@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja 9-Cup Food Processor for Kitchen, 1000PW Motor, 9-Cup Processing Bowl"
 seo_title: "Ninja 9-Cup Food Processor Review — 4.7★ Powerhouse at $130"
 meta_description: "Ninja 9-Cup Food Processor review: 12,222 reviews analyzed. 1000-watt motor, dual-tier blade system, compact design. Is this the Cuisinart killer?"
@@ -11,23 +12,24 @@ review_count: 12222
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVL6RB6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QfIEz6s8L._AC_SL1152_.jpg"
-pros:
+pros: 
   - "1000-watt motor shreds, chops, and purees faster than units twice the price"
   - "Dual-tier blade system stays clean — no gunk trapped inside hollow shafts"
   - "Multiple blades included for chopping, dough, slicing, and shredding"
   - "Surprisingly compact footprint that doesn't dominate counter space"
-cons:
+cons: 
   - "9-cup capacity is tight for large-batch canning or bulk prep"
   - "BPA-free plastic bowl won't match the durability of metal or glass"
   - "Lid assembly can be fiddly until you learn the alignment trick"
 
-faq:
+faq: 
   - question: "Is the Ninja 9-Cup Food Processor for Kitchen, 1000PW Motor, 9-Cup  worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 Let's be direct: most food processors under $150 are either underpowered or overpriced. The Ninja 9-Cup lands at $129.99 with a 1000-peak-watt motor, and after looking at 12,222 Amazon ratings averaging 4.7 stars, it's clear this thing earns its place on your counter. But it's not perfect, and you deserve to know exactly where it cuts corners before you buy.

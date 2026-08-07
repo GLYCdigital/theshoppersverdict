@@ -1,4 +1,5 @@
 ---
+
 title: "HOLANHING Metal Moss Poleï¼ŒD Shape Sphagnum Moss Pole, Moss"
 seo_title: "HOLANHING Metal Moss Poleï¼ŒD Shape Sphagnum Moss  Review"
 meta_description: "Our full holanhing metal moss poleï¼œd shape sphagnum moss pole, moss review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1BZKFX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B26kUgq7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most moss poles are flimsy afterthoughts that bend under a mature monstera's weight and dry out so fast your aerial roots give up. The HOLANHING Metal Moss Pole takes a different approach — and for the most part, it works.

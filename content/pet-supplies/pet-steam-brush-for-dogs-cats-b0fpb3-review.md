@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Steam Brush for Dogs & Cats"
 seo_title: "Pet Steam Brush for Dogs & Cats Review: Verdict | TSV"
 meta_description: "Our full pet steam brush for dogs & cats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPB3QXFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NyOVHbIAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to bathe a cat, you know the drill: scratches, hissing, and a soggy bathroom. The Pet Steam Brush for Dogs & Cats promises a different path — a brush that steams away dirt and odors without a full bath. After testing it on a Golden Retriever, a shorthair tabby, and one very uncooperative dachshund, here's the real story.

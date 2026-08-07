@@ -1,4 +1,5 @@
 ---
+
 title: "Loveseat Sofa Couch for Living Room with USB Type C Ports â€"
 seo_title: "Loveseat Sofa Couch for Living Room with USB Type  Review"
 meta_description: "Our full loveseat sofa couch for living room with usb type c ports â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F5HL4MPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GXI0e1CAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Loveseat That Charges Your Phone — But Is It Built to Last?**

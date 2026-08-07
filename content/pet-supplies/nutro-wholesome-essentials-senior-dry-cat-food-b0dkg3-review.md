@@ -1,4 +1,5 @@
 ---
+
 title: "Nutro Wholesome Essentials Senior Dry Cat Food"
 seo_title: "Nutro Wholesome Essentials Senior Dry Cat Food Review: Ve"
 meta_description: "Our full nutro wholesome essentials senior dry cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKG3GF6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zo69jeftL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your cat has been with you through everything. Now they're slowing down, sleeping more, and maybe struggling to jump on the couch like they used to. That's exactly who Nutro Wholesome Essentials Senior is designed for — and after digging through the ingredient list and 229 verified Amazon reviews, here's the honest picture.

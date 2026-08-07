@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER 8-Cup Food Processor, Easy Assembly, Stainless"
 seo_title: "BLACK+DECKER 8-Cup Food Processor Review (2026): Worth It?"
 meta_description: "Honest BLACK+DECKER 8-Cup Food Processor review: easy assembly, stainless blade, 4.5-star rated. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6TSHHR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O8bxtH7PS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Push-and-turn assembly locks parts in place — no fiddly tabs to align"
   - "Stainless steel S-blade handles tough jobs like nuts and hard cheese without dulling"
   - "8-cup bowl is genuinely dishwasher-safe top rack, not just 'hand wash recommended'"
-cons:
+cons: 
   - "Single speed with pulse — no variable speed dial for fine texture control"
   - "Feed tube is narrow; whole carrots and large tomatoes need pre-cutting"
   - "Base is lightweight and can slide on smooth counters during heavy chopping"
+
 ---
 
 **The 8-cup food processor that won't make you dread prep work**

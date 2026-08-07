@@ -1,4 +1,5 @@
 ---
+
 title: "JOLLY CHEF Compostable Disposable Paper Plates Compartment"
 seo_title: "JOLLY CHEF Compostable Disposable Paper Plates Com Review"
 meta_description: "Our full jolly chef compostable disposable paper plates compartment review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G1R8TW62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HisA36oWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about disposable plates: most of them are flimsy, leaky, and terrible for the planet. The JOLLY CHEF Compostable Paper Plates try to fix all three problems at once. After putting a 20-plate pack through real meal tests — including a barbecue dinner, a kids' party, and a camping trip — here's the verdict.

@@ -1,4 +1,5 @@
 ---
+
 title: "Intel NUC 13 PRO, for ASUS NUC 13 Pro NUC13ANHi5 Arena Canyo"
 seo_title: "Intel NUC 13 PRO, for ASUS NUC 13 Pro NUC13ANHi5 A Review"
 meta_description: "Our full intel nuc 13 pro, for asus nuc 13 pro nuc13anhi5 arena canyo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1YKGGWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714CPz6V98L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Intel NUC 13 PRO, for ASUS NUC 13 Pro NUC13ANHi5 Arena Canyo** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

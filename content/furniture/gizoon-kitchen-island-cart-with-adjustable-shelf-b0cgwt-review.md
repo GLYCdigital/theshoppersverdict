@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon Kitchen Island Cart with Adjustable Shelf"
 seo_title: "Gizoon Kitchen Island Cart Review: Adjustable Shelf & Storage"
 meta_description: "Honest Gizoon Kitchen Island Cart review: adjustable shelf, sturdy build, real buyer feedback. Is it worth your kitchen? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGWT8JZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rXTG1KSiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable middle shelf lets you customize clearance for stand mixers, small appliances, or tall cereal boxes"
   - "Four locking casters (two lockable) make it genuinely mobile — roll it to the dining room, lock it in place for prep"
   - "Solid MDF construction with a waterproof coating handles daily spills without warping or staining"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes — the cam locks require patience and a second pair of hands for the frame"
   - "The included towel bar is positioned low; tall kitchen towels drag on the floor"
   - "Not a butcher block — the top is laminate, so don't chop directly on it or you'll scar the surface"
+
 ---
 
 The Gizoon Kitchen Island Cart is the kind of purchase you make when you're done with cramped countertops and wobbly metal utility carts. At 4.4 stars across 220 ratings, it's clearly earning its keep in real kitchens. But is it right for yours? Let me break down what this rolling workhorse actually delivers.

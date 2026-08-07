@@ -1,4 +1,5 @@
 ---
+
 title: "Evob Pool Skimmer Net with Adjustable 17-40 inch  Telescopic Pole"
 seo_title: "Evob Pool Skimmer Net Review: Adjustable Pole, Fine Mesh"
 meta_description: "Read our honest Evob pool skimmer net review. Fine mesh, 17-40 inch  telescopic pole. See pros, cons, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0964VXHMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dojJzctKS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fine mesh catches algae particles and pollen that standard skimmer nets miss"
   - "Telescopic pole locks securely at any length between 17 and 40 inches"
   - "Lightweight aluminum frame won't scratch pool liners or above-ground pool walls"
-cons:
+cons: 
   - "Pole thread connection is plastic and can strip if over-tightened"
   - "40-inch max length limits reach for deep in-ground pools"
   - "Mesh clogs quickly with heavy leaf fall, requiring frequent emptying"
+
 ---
 
 Let's be direct about the Evob Pool Skimmer Net: this is a tool designed for small above-ground pools, spas, and hot tubs — not a replacement for a full-size pool skimmer with a 16-foot pole. The 4.0-star average across 200 ratings tells you it works, but it's not without limitations. Here's what you need to know before you buy.

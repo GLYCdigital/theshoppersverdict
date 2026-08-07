@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson Clash 100 V3 Unstrung Adult Performance Tennis Racket"
 seo_title: "Wilson Clash 100 V3 Unstrung Adult Performance Ten Review"
 meta_description: "Our full wilson clash 100 v3 unstrung adult performance tennis racket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4DL5KFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wHlwtepML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Wilson Clash 100 V3 isn’t just another tweener racket. It’s the racket that turned “flexible” from a dirty word into a selling point. If you’ve battled tennis elbow or simply hated the stiff, board-like feel of modern frames, this is the one that got away—until now. With a 4.6-star average across 229 Amazon ratings, it’s clearly doing something right. But is it right for *you*? Let’s dig into the specs, the feel, and the tradeoffs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Power Pet Automatic Electronic Pet Door by High Tech Pet - P"
 seo_title: "Power Pet Automatic Electronic Pet Door by High Te Review"
 meta_description: "Our full power pet automatic electronic pet door by high tech pet - p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00L5GIXUW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BUV-+STWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of getting up at 6 AM to let the dog out — or worse, coming home to a scratched-up door from a cat who *needs* to patrol the yard — the Power Pet Automatic Electronic Pet Door is the kind of product that makes you wonder why you didn't buy it years ago. But before you grab your jigsaw, let's talk about what this thing actually does, where it stumbles, and whether it's worth the install hassle.

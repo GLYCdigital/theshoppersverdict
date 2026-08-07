@@ -1,16 +1,17 @@
 ---
+
 title: "Vintage Desk Lamp Bankers Lamp - Plastic Lampshade Retro Table Lamp with USB & Type C Charging Ports Traditional Library Lamp for Home Office Nightstand Bedroom Side Table Lamp(T45 Bulb Included)"
 seo_title: "Vintage Desk Lamp Bankers Lamp - Plastic Lampshade Review"
 meta_description: "Our full vintage desk lamp bankers lamp - plastic lampshade retro table lamp with usb & type c charging ports traditional library lamp for home office nights"
 slug: "vintage-desk-lamp-bankers-lamp-plastic-lampshade-retro-table-lamp-with-usb-review"
 image_alt: "Vintage Desk Lamp Bankers Lamp - Plastic Lampshade Retro Table Lamp with USB & Type C Charging Ports Traditional Library"
-keywords:
+keywords: 
   - "vintage desk lamp review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the Vintage Desk Lamp Bankers Lamp - Plastic Lampshade Retro Table Lamp with USB & Type C Charging Ports Traditional Library Lamp for Home Office Nightstand Bedroom Side Table Lamp(T45 Bulb Included)?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 267
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D45HFQLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kuqNfuXRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 Let's be honest: most lamps under $40 are disposable junk. This vintage-style bankers lamp, however, has earned a 4.3-star rating from 267 buyers for a reason. It's not perfect — the plastic shade is the obvious compromise — but for $37.97, it delivers a surprising amount of practical value for a home office desk.

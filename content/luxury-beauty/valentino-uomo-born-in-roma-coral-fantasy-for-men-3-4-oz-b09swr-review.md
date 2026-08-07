@@ -1,4 +1,5 @@
 ---
+
 title: "Valentino Uomo Born in Roma Coral Fantasy for Men 3.4 oz Eau"
 seo_title: "Valentino Uomo Born in Roma Coral Fantasy for Men  Review"
 meta_description: "Our full valentino uomo born in roma coral fantasy for men 3.4 oz eau review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09SWRGCTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QVr+MEnsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Coral Fantasy isn't a flanker that plays it safe. Where the original Born in Roma is a clean, aromatic crowd-pleaser, this one takes a sharp left turn into salted citrus and warm vanilla. If you're browsing the 3.4 oz bottle on Amazon with 235 ratings and a 4.7-star average, you're likely wondering whether it's actually worth the premium. Here's the honest breakdown.

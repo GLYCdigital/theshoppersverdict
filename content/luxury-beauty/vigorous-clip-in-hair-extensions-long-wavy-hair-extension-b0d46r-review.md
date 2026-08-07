@@ -1,4 +1,5 @@
 ---
+
 title: "Vigorous Clip in Hair Extensions Long Wavy Hair Extension"
 seo_title: "Vigorous Clip in Hair Extensions Long Wavy Hair Ex Review"
 meta_description: "Our full vigorous clip in hair extensions long wavy hair extension review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D46RGKLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cPImfV8xL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is $25 worth it for instant waist-length waves? Here's the honest breakdown.**  

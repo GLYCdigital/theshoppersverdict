@@ -1,4 +1,5 @@
 ---
+
 title: "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Medium Dog, 30 C"
 seo_title: "Virbac C.E.T. Enzymatic Oral Hygiene Chews, Medium Review"
 meta_description: "Our full virbac c.e.t. enzymatic oral hygiene chews, medium dog, 30 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B001P05K6I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dh7bN12eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most dental chews are just hard treats with a marketing sticker. The Virbac C.E.T. Enzymatic Oral Hygiene Chews are different, and that difference matters if you're serious about your dog's dental health without dropping hundreds on vet cleanings.

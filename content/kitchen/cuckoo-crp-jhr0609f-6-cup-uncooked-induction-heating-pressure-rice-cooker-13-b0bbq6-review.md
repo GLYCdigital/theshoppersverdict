@@ -1,4 +1,5 @@
 ---
+
 title: "CUCKOO CRP-JHR0609F | 6-Cup (Uncooked) Induction Heating Pre"
 seo_title: "CUCKOO CRP-JHR0609F Review: 6-Cup IH Pressure Cooker"
 meta_description: "Our honest CUCKOO CRP-JHR0609F review covers the 6-cup induction heating pressure rice cooker's performance, durability, and real-world flaws. See if it's worth $300+."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBQ6879P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713IkB7sHIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True induction heating with 2.0x atmospheric pressure delivers nutty, restaurant-quality rice in 30 minutes — noticeably better than cheap coil cookers"
   - "Dual pressure modes (high/low) plus separate settings for white, brown, GABA, glutinous, and mixed grains; menus are printed right on the unit"
   - "Stainless steel exterior and locking lid feel premium; the inner pot is thick 3-ply with a nonstick coating that survives daily use"
-cons:
+cons: 
   - "The nonstick coating is not induction-compatible — you cannot use the inner pot on a stovetop, and replacement pots cost $80+"
   - "Steam vent gets loud during pressure release; a sudden hiss can startle you if you're not expecting it"
   - "No keep-warm timer adjustment — it defaults to 8 hours and you cannot shorten it without unplugging the unit"
+
 ---
 
 If you've eaten rice in a Korean household, you already know what this machine does. The CUCKOO CRP-JHR0609F isn't just another rice cooker — it's the appliance that makes your Korean aunt's rice taste the way it does. And after 225 Amazon ratings averaging 4.5 stars, the consensus is clear: this is the real deal, but it's not for everyone.

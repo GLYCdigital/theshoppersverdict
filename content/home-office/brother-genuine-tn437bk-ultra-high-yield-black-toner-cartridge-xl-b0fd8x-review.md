@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine TN437BK Ultra High Yield Black Toner Cartrid"
 seo_title: "Brother TN437BK Toner Review: Ultra High Yield Worth It?"
 meta_description: "Brother Genuine TN437BK ultra high yield black toner review: real-world page yields, print quality, cost per page, and compatibility. Is it worth the premium?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD8X98KR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eAdXEBS0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rated for 8,000 pages — roughly 3x the standard TN437 cartridge, which cuts replacement frequency dramatically"
   - "Genuine Brother formulation means crisp, smudge-free text with no drum contamination issues reported"
   - "Tool-free installation; snaps in place in under 30 seconds with no calibration or firmware headaches"
-cons:
+cons: 
   - "Premium price per cartridge — you pay more upfront even though cost per page ends up lower"
   - "No smart chip readout that tracks remaining toner as a percentage; Brother printers only warn when low"
   - "Heavy — shipping weight approaches 3 pounds, so if you're ordering one-off, factor in delivery logistics"
+
 ---
 
 **The toner cartridge that quietly runs your office — here's what 220 Amazon reviewers actually found**

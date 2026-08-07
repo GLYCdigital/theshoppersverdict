@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | Walk-Off ETHOS Baseball Batting Gloves | Youth Size"
 seo_title: "Easton Walk-Off ETHOS Batting Gloves Review (Youth)"
 meta_description: "Easton Walk-Off ETHOS youth batting gloves review: 4.6/5 stars. Synthetic palm, breathable mesh, secure wrist. Are they durable enough? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1ZG4D5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Clarino synthetic palm offers genuine leather feel without the break-in period or stretching that plagues kids' leather gloves"
   - "Breathable mesh back panel keeps young hands from getting swampy during summer tournaments"
   - "Secure hook-and-loop wrist strap with a snug fit that holds up to repeated yanking by impatient kids"
-cons:
+cons: 
   - "Sizing runs small — several parents report needing to go a full size up for growing players"
   - "Synthetic material won't develop the same personalized pocket as premium leather, though most youth players won't care"
+
 ---
 
 Every parent knows the drill: you buy a pair of batting gloves in June, and by July the seams are blown out and the kid is wearing them anyway because they "feel lucky." The Easton Walk-Off ETHOS gloves are designed to break that cycle without breaking your wallet. With 229 ratings averaging 4.6 stars, these have quickly become a go-to for travel ball families and rec league dads alike. Here's the honest breakdown.

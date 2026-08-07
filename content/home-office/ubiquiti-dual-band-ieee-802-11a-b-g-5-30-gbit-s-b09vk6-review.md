@@ -1,4 +1,5 @@
 ---
+
 title: "Ubiquiti Dual Band IEEE 802.11a/b/g 5.30 Gbit/s Wireless Acc"
 seo_title: "Ubiquiti Dual Band IEEE 802.11a/b/g 5.30 Gbit/s Wi Review"
 meta_description: "Our full ubiquiti dual band ieee 802.11a/b/g 5.30 gbit/s wireless acc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09VK668CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31auqR9WmeL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ubiquiti Dual Band access point is the quiet workhorse of modern office networking — the kind of hardware you install once and forget about for three years. With a 4.5-star average across 225 Amazon ratings, it's clearly doing something right. But "right" for whom? Let's break down what you're actually getting.

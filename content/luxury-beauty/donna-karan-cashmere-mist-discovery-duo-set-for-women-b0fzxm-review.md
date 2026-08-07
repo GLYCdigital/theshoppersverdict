@@ -1,4 +1,5 @@
 ---
+
 title: "Donna Karan Cashmere Mist Discovery Duo Set For Women"
 seo_title: "Donna Karan Cashmere Mist Duo Set Review: Worth It?"
 meta_description: "Honest Donna Karan Cashmere Mist Discovery Duo Set review: scent, longevity, value, and who should buy. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FZXMFVB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RLO3WdkUL._SL1500_.jpg"
-pros:
+pros: 
   - "Cashmere Mist's signature warm, powdery scent is layered perfectly across both products for a true fragrance wardrobe"
   - "The body lotion is genuinely rich and moisturizing — not a thin afterthought — with shea butter and cashmere musk"
   - "Discovery sizing is ideal for travel and testing; you get the full experience without committing to full-size bottles"
-cons:
+cons: 
   - "The Eau de Parfum spray is small (0.17 oz) — enough for roughly 10-15 wears, not a daily staple"
   - "Scent longevity is moderate; expect 4-6 hours on skin before needing a reapply, especially in warmer weather"
+
 ---
 
 # Donna Karan Cashmere Mist Discovery Duo Set For Women: A Cozy Classic Worth Testing

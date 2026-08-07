@@ -1,4 +1,5 @@
 ---
+
 title: "Driveway Fabric, 13x65 ft Road Fabric Commercial Weed Barrie"
 seo_title: "Driveway Fabric 13x65 Review: Commercial Weed Barrier"
 meta_description: "Honest Driveway Fabric 13x65 ft review: Does this commercial weed barrier hold up? Coverage, thickness, drainage, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CR7K479G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yvpvFSKpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 13x65 ft coverage (845 sq ft) — enough for a standard two-car driveway with overlap for seams"
   - "Heavyweight non-woven polypropylene handles gravel and light vehicle traffic without tearing"
   - "High water permeability prevents pooling while still blocking sunlight to suppress weeds"
-cons:
+cons: 
   - "No pre-cut perforations; you'll need a sharp utility knife and straightedge for clean cuts"
   - "Lightweight stakes sold separately — plan on pinning every 2-3 ft or wind will shift it"
+
 ---
 
 If you've ever laid cheap landscape fabric under a driveway, you know the drill: six months later, weeds punch through the seams and the gravel starts migrating into your lawn. This 13x65 ft roll is a different animal. It's commercial-grade non-woven polypropylene, not the flimsy woven stuff from the big-box store. At 4.4 stars across 220 ratings, buyers consistently say it holds up where cheaper options fail. Here's the full breakdown.

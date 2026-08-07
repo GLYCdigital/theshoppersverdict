@@ -1,4 +1,5 @@
 ---
+
 title: "Bits and Pieces Portapuzzle Portable Puzzle Boards for Adult"
 seo_title: "Bits and Pieces Portapuzzle Review: 1000-Piece Board"
 meta_description: "Bits and Pieces Portapuzzle portable puzzle board review: felt surface, tilt-up design, storage for 1000 pieces, and travel case. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09P1XTV2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vp8LAoUuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Felt surface grips pieces firmly, even when the board is tilted to a 90-degree vertical position"
   - "Large 1000-piece capacity (about 29 x 23 inches) fits standard puzzles without crowding"
   - "Collapsible design with carrying handle and in-board storage makes it genuinely portable"
-cons:
+cons: 
   - "No built-in sorting trays — you'll need separate containers for piece organization"
   - "Felt surface can shed slightly at first; lint rollers become your friend"
   - "The tilt-up support legs feel a bit wobbly on carpeted floors"
+
 ---
 
 If you've ever had a puzzle-in-progress destroyed by a curious cat, a clumsy elbow, or a partner who "just wanted to vacuum," the Bits and Pieces Portapuzzle is your answer. This isn't a gimmick — it's a legitimately useful piece of kit for anyone who puzzles seriously but doesn't have a dedicated table they can sacrifice for weeks at a time.

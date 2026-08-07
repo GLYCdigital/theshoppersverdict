@@ -1,4 +1,5 @@
 ---
+
 title: "Wright Products - Serenade Mortise Keyed Lever Mount Latch w"
 seo_title: "Wright Products - Serenade Mortise Keyed Lever Mou Review"
 meta_description: "Our full wright products - serenade mortise keyed lever mount latch w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B42KXD1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31tueZqFn7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a mortise lock for a screen door every day. And when you do, you're probably replacing a cheap sliding latch that finally gave up or a builder-grade hook-and-eye that never felt secure. The Wright Products Serenade Mortise Keyed Lever Mount Latch is aimed squarely at that gap—a real locking mechanism for a door that most manufacturers treat as an afterthought. After digging through specs and 220 verified buyer ratings, here's the honest breakdown.

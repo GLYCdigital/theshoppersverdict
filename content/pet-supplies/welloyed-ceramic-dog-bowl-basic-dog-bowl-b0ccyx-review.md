@@ -1,4 +1,5 @@
 ---
+
 title: "Welloyed Ceramic Dog Bowl - Basic Dog Bowl"
 seo_title: "Welloyed Ceramic Dog Bowl - Basic Dog Bowl Review: Verdic"
 meta_description: "Our full welloyed ceramic dog bowl - basic dog bowl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCYXJD7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HjjwUahXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most ceramic dog bowls are either overpriced porcelain with a designer logo or cheap earthenware that chips after three dishwasher cycles. The Welloyed Ceramic Dog Bowl sits somewhere in the middle — and for most owners, that's exactly the sweet spot.

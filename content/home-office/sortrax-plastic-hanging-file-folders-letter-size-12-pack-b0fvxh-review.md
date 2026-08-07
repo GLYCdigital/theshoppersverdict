@@ -1,4 +1,5 @@
 ---
+
 title: "SortRax Plastic Hanging File Folders, Letter Size, 12 Pack"
 seo_title: "SortRax Plastic Hanging File Folders, Letter Size, Review"
 meta_description: "Our full sortrax plastic hanging file folders, letter size, 12 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVXHP34P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+hHqDej4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cardboard hanging folder crumple into a sad, sagging mess three weeks into use, you already know why the SortRax plastic version deserves a hard look. These aren't your standard manila-with-a-metal-bar folders. They're semi-rigid polypropylene — thick enough to hold their shape when the drawer's half empty, clear enough to see exactly what's inside.

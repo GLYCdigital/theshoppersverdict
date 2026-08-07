@@ -1,4 +1,5 @@
 ---
+
 title: "True Organic Black Peppercorns, 1 lb, Steam Sterilized, USDA"
 seo_title: "True Organic Black Peppercorns, 1 lb, Steam Steril Review"
 meta_description: "Our full true organic black peppercorns, 1 lb, steam sterilized, usda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B089J48L4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515lv3RFVyL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most black pepper you buy is dust. Pre-ground, stale, and lifeless. True Organic's 1-pound bag of whole peppercorns is the antidote, but it comes with a few tradeoffs worth knowing before you add to cart.

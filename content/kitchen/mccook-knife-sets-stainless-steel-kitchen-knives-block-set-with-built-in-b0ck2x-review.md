@@ -1,4 +1,5 @@
 ---
+
 title: "McCookÂ® Knife Sets, Stainless Steel Kitchen Knives Block Se"
 seo_title: "McCookÂ® Knife Sets, Stainless Steel Kitchen Knive Review"
 meta_description: "Our full mccookâ® knife sets, stainless steel kitchen knives block se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CK2XC4P3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91dg7s+y4hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # McCook 15-Piece Knife Set Review: Budget Blades That Actually Hold Up

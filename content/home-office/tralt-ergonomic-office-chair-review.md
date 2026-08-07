@@ -1,4 +1,5 @@
 ---
+
 title: "TRALT Ergonomic Chair Review: Premium Comfort on a Budget"
 seo_title: "TRALT Ergonomic Office Chair Review 2026 — Best $108 Desk Chair for Home Office?"
 meta_description: "Our TRALT Ergonomic Office Chair review covers adjustable lumbar support, mesh back, and assembly. Is this $108 chair a hidden gem? Find out."
@@ -10,20 +11,20 @@ image_alt: "TRALT Ergonomic Office Chair in black with mesh backrest and adjusta
 amazon_rating: 4.4
 review_count: 4169
 verdict_score: 4.2
-categories:
+categories: 
   - home-office
 keywords: [TRALT office chair, ergonomic desk chair, mesh computer chair, adjustable lumbar support, budget ergonomic chair]
-pros:
+pros: 
   - Adjustable lumbar support provides genuine lower back relief
   - Mesh backrest keeps you cool during extended sitting sessions
   - Easy assembly with clear instructions and quality hardware
   - Sturdy build with smooth-rolling casters
   - Excellent value at $108 compared to $300+ competitors
-cons:
+cons: 
   - Slight wobble when raised to maximum height
   - Seat cushion may feel firm for those preferring plush seating
   - Armrests are adjustable but could be more padded
-faq:
+faq: 
   - question: Is the TRALT office chair easy to assemble?
     answer: Yes, customers consistently praise the assembly process. Instructions are clear, parts are well-labeled, and the included Allen wrench has a comfortable handle.
   - question: Does the TRALT chair work for tall users?
@@ -34,6 +35,7 @@ faq:
     answer: The mesh backrest allows airflow, preventing heat buildup and sweat during long work sessions — a major advantage over padded leather or PU chairs.
   - question: Is the TRALT chair suitable for full-time remote work?
     answer: Yes. With its adjustable lumbar support, comfortable seat, and breathable mesh back, it's well-suited for 8+ hour daily use at a fraction of premium chair prices.
+
 ---
 
 The TRALT Ergonomic Chair has carved out a solid reputation in the budget-to-midrange office chair space, with over 4,100 Amazon ratings averaging 4.4 stars. But does it actually deliver the ergonomic support it promises, or is it another mass-produced "gaming chair in disguise"? Here's what you need to know before you click buy.

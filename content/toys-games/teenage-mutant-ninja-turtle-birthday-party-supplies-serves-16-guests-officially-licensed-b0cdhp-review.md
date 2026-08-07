@@ -1,4 +1,5 @@
 ---
+
 title: "Teenage Mutant Ninja Turtle Birthday Party Supplies | Serves"
 seo_title: "Teenage Mutant Ninja Turtle Birthday Party Supplie Review"
 meta_description: "Our full teenage mutant ninja turtle birthday party supplies | serves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CDHPF2RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Zw1FnbpaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has declared they want a "ninja party" and you're staring down a cart full of mismatched party supplies, this officially licensed Teenage Mutant Ninja Turtle set from the 16-guest lineup is worth a hard look. With a 4.8-star average across 240 ratings, it's clearly doing something right — but let's dig into what you're actually getting before you hit buy.

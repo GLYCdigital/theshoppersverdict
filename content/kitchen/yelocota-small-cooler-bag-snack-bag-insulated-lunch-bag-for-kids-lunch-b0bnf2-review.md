@@ -1,4 +1,5 @@
 ---
+
 title: "Yelocota Small Cooler Bag- Snack Bag- Insulated Lunch Bag fo"
 seo_title: "Yelocota Small Cooler Bag- Snack Bag- Insulated Lu Review"
 meta_description: "Our full yelocota small cooler bag- snack bag- insulated lunch bag fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNF2L7XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fn5molCwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "small lunch bags" on Amazon are either too flimsy to survive a month or comically oversized for a toddler's snack. The Yelocota Small Cooler Bag sits in a sweet spot — it's actually small, actually insulated, and priced like a disposable but built like something you'll keep for years.

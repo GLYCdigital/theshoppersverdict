@@ -1,4 +1,5 @@
 ---
+
 title: "TaylorMade Golf TP Putter Palisades"
 seo_title: "TaylorMade Golf TP Putter Palisades Review: Verdict | TSV"
 meta_description: "Our full taylormade golf tp putter palisades review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZ7R4WKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E4EcL8aXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Mallet That Rewards the Miss

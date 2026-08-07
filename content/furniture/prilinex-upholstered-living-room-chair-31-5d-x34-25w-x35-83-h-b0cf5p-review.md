@@ -1,4 +1,5 @@
 ---
+
 title: "Prilinex Upholstered Living Room Chair - 31.5D x34.25W x35.8"
 seo_title: "Prilinex Upholstered Living Room Chair - 31.5D x34 Review"
 meta_description: "Our full prilinex upholstered living room chair - 31.5d x34.25w x35.8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CF5PN9YX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g33+SVZRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the showroom markup. Here's what the Prilinex Upholstered Living Room Chair actually delivers for $200-ish — and where it cuts corners.**

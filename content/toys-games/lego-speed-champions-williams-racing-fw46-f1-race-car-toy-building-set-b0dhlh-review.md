@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Speed Champions Williams Racing FW46 F1 Race Car Toy - "
 seo_title: "LEGO Speed Champions Williams Racing FW46 F1 Race  Review"
 meta_description: "Our full lego speed champions williams racing fw46 f1 race car toy -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DHLHNFKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rn1e7rlYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Speed Champions Williams Racing FW46 isn't just another F1 car in a box — it's a surprisingly detailed tribute to one of the grid's most recognizable liveries.** With a 4.9-star average across 245 ratings, this set has clearly landed well with builders. But before you drop your cash, let's talk about what's actually in the box, how it builds, and where it falls short.

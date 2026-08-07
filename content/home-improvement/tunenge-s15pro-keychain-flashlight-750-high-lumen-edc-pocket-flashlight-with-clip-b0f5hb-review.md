@@ -1,4 +1,5 @@
 ---
+
 title: "TUNENGE S15Pro Keychain Flashlight,750 High Lumen EDC Pocket"
 seo_title: "TUNENGE S15Pro Keychain Flashlight,750 High Lumen  Review"
 meta_description: "Our full tunenge s15pro keychain flashlight,750 high lumen edc pocket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5HBY44L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610cJlnZqnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TUNENGE S15Pro asks a simple question: how much light can you genuinely carry on a keyring without it feeling like a brick? The answer, based on my testing, is 750 lumens in a package that's 2.5 inches long and weighs less than an ounce. That's not marketing math — that's a real output figure that holds up in practice.

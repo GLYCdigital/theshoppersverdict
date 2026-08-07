@@ -1,4 +1,5 @@
 ---
+
 title: "Prominence Home 51594 Saybrook Ceiling Fan"
 seo_title: "Prominence Home 51594 Saybrook Ceiling Fan Review: Verdic"
 meta_description: "Our full prominence home 51594 saybrook ceiling fan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08T21RSJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Yb1XcPmiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Prominence Home 51594 Saybrook is a solid mid-range ceiling fan that earns its 4.7-star rating through good looks, a genuinely useful remote, and an integrated dimmable light that actually performs. It's not the most powerful fan on the market, and the installation will test your patience, but for a 12x12 to 15x15 bedroom or office, it delivers exactly what most buyers want.

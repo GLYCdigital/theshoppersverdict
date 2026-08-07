@@ -1,4 +1,5 @@
 ---
+
 title: "LZAREAL Farmhouse Dining Chairs 2227DC"
 seo_title: "LZAREAL Farmhouse Dining Chairs 2227DC Review: Verdict | "
 meta_description: "Our full lzareal farmhouse dining chairs 2227dc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP9B35ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C7zTi9y8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LZAREAL Farmhouse Dining Chair has earned its 4.4-star rating across 220 Amazon reviews for good reason — it delivers the rustic look shoppers want without the $200-per-chair price tag that often comes with it. But before you hit buy, there are a few things worth knowing.

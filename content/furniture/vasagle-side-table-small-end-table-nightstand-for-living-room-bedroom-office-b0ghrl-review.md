@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Side Table, Small End Table, Nightstand for Living R"
 seo_title: "VASAGLE Side Table, Small End Table, Nightstand fo Review"
 meta_description: "Our full vasagle side table, small end table, nightstand for living r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHRLF5YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cTFfDHVZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred cheap side tables collapse under a mug of coffee. The VASAGLE Side Table isn't that table. At 4.5 stars across 225 ratings, this compact end table has earned its place in living rooms, bedrooms, and cramped office corners. But it's not perfect — here's what you need to know before you click buy.

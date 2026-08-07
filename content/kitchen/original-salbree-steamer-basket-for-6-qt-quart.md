@@ -1,10 +1,11 @@
 ---
+
 title: "Original Salbree Steamer Basket for Instant Pot Review: Perfect Fit at $19.99"
 seo_title: "Salbree Steamer Basket — 4.7★ | TSV"
 meta_description: "Salbree steamer basket for 6qt Instant Pot review: 4.7 stars, 7,808 ratings, $19.99. Stainless steel with silicone handle. Top-rated Instant Pot accessory."
 slug: "salbree-steamer-basket-instant-pot-review"
 image_alt: "Original Salbree stainless steel steamer basket for 6qt Instant Pot with silicone handle, fits all major pressure cookers"
-keywords:
+keywords: 
   - "Salbree steamer basket review"
   - "Instant Pot steamer basket"
   - "best Instant Pot accessories"
@@ -16,18 +17,18 @@ amazon_rating: 4.7
 price: 19.99
 amazon_url: "https://www.amazon.com/dp/B074CPVFN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q4a28N3KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Perfect fit for 6qt Instant Pot and other pressure cookers"
   - "High-quality stainless steel construction with silicone handle"
   - "Versatile — great for vegetables, eggs, and steaming"
   - "Compact storage — fits inside the Instant Pot when not in use"
   - "Silicone handle stays cool and protects from burns"
-cons:
+cons: 
   - "Bail handle can be stiff to release initially"
   - "Not ideal for very small items without additional liner"
   - "Silicone handle may need occasional tightening"
   - "Limited to pressure cooker use — not a standalone steamer"
-faq:
+faq: 
   - question: "Does the Salbree steamer basket fit all Instant Pot sizes?"
     answer: "It's designed for 6qt models but also fits 8qt and 10qt pressure cookers, including non-Instant Pot brands. Separate sizes are available for 3qt and 8qt models."
   - question: "Can I use this basket for hard-boiled eggs?"
@@ -37,6 +38,7 @@ faq:
   - question: "How do you clean the Salbree steamer basket?"
     answer: "It's dishwasher safe. The stainless steel construction resists staining and rust, making cleanup simple."
 date: 2026-05-29
+
 ---
 
 If you own an Instant Pot and you're still boiling vegetables in a separate pot, you're doing it wrong. The Salbree Steamer Basket is the $20 fix that turns your pressure cooker into a legit vegetable steamer, egg cooker, and seafood poacher. With 7,808 ratings holding a 4.7-star average, it's clearly earned its place in the Instant Pot accessory hall of fame. But is it right for *your* kitchen? Let's dig in.

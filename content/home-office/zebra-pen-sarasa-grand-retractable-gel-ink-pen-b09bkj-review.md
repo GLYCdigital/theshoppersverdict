@@ -1,4 +1,5 @@
 ---
+
 title: "Zebra Pen Sarasa Grand Retractable Gel Ink Pen"
 seo_title: "Zebra Pen Sarasa Grand Retractable Gel Ink Pen Review: Ve"
 meta_description: "Our full zebra pen sarasa grand retractable gel ink pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09BKJ8R49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41DZMLQjDDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some pens are tools. The Zebra Sarasa Grand is an instrument. At 4.7 stars across 235 ratings, it's clearly resonating with people who've grown tired of disposable plastic that cracks in a pocket. But is it worth the jump from a $2 pen to something in the $10-$15 range? Let's break it down.

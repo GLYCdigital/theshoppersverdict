@@ -1,4 +1,5 @@
 ---
+
 title: "Darnassus 132-Piece Art Set, Deluxe Professional Color Set,"
 seo_title: "Darnassus 132-Piece Art Set Review: Worth It? (2026)"
 meta_description: "Darnassus 132-piece art set review: 4.7-star rated. We tested quality, value, and versatility. Find out if this all-in-one kit beats buying separate supplies."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09GK5MJDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DPF259WRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wooden case is genuinely sturdy with a secure latch — not the flimsy cardboard or thin plastic most kits use at this price point"
   - "Includes 72 colored pencils plus 24 oil pastels, 24 watercolor cakes, and 12 markers — real variety, not just filler items"
   - "Color payoff is surprisingly strong for a kit; the oil pastels layer well and the watercolors activate quickly"
-cons:
+cons: 
   - "Markers are the weak link — they're fine for outlines but dry out noticeably faster than the rest of the kit"
   - "No blending tools or eraser included, which feels like an oversight for a 'deluxe' set at this price"
+
 ---
 
 **Bottom line up front:** The Darnassus 132-Piece Art Set is one of the few all-in-one kits that actually earns its "deluxe" label. Most sets in this category pad the count with junk — cheap sharpeners, useless stencils, and six identical shades of beige. This one doesn't. The 72 colored pencils alone justify the price, and everything else in the case is genuinely usable. It's not professional-grade by any stretch, but for students, hobbyists, and anyone who wants one box that does it all, this is the one to buy.

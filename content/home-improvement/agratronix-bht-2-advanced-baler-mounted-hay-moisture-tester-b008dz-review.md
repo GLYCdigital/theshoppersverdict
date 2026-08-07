@@ -1,4 +1,5 @@
 ---
+
 title: "Agratronix BHT-2 Advanced Baler-Mounted Hay Moisture Tester"
 seo_title: "Agratronix BHT-2 Hay Moisture Tester Review (2026)"
 meta_description: "Agratronix BHT-2 baler-mounted hay moisture tester review: accuracy, installation, real-world performance. Is it worth $400+? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B008DZJXNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cnwI9Gm6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Corrosion-resistant stainless steel sensor pads deliver reliable readings through bale density changes"
   - "Digital display shows moisture and bale count simultaneously, with a 150-bale memory capacity"
   - "Works on both round and square balers, including high-density models"
-cons:
+cons: 
   - "Initial installation requires drilling into the baler chute — not a tool-free setup"
   - "Calibration is manual and takes practice to match your specific crop and bale density"
+
 ---
 
 If you've ever sold a load of hay that tested too damp at the buyer's barn, you already know the pain this tool prevents. The Agratronix BHT-2 is the baler-mounted moisture tester that serious hay producers keep coming back to — and with 229 ratings holding a 4.6-star average, it's earned its place in the conversation. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Open Farm Freeze Dried Raw Dog Food, Humanely Raised Meat Re"
 seo_title: "Open Farm Freeze Dried Raw Dog Food, Humanely Rais Review"
 meta_description: "Our full open farm freeze dried raw dog food, humanely raised meat re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0799RDDGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SEC++D0dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're looking to move your dog off ultra-processed kibble but aren't ready for the hassle of handling raw meat from a butcher, Open Farm's freeze-dried raw hits a sweet spot. It's genuinely transparent about sourcing, the ingredients are clean, and most dogs go bonkers for it. But at this price point, you need to decide if it's a full-time diet or a nutrient-dense topper.

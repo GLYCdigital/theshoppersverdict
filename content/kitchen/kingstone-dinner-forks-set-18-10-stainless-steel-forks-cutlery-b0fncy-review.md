@@ -1,4 +1,5 @@
 ---
+
 title: "KINGSTONE Dinner Forks Set, 18/10 Stainless Steel Forks Cutl"
 seo_title: "KINGSTONE Dinner Forks Set, 18/10 Stainless Steel  Review"
 meta_description: "Our full kingstone dinner forks set, 18/10 stainless steel forks cutl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FNCY41QN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y+rGjeazL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Forks are the workhorse of any flatware drawer. You grab one three times a day, every day, and you probably don't think about it until you stab a flimsy tine into a piece of steak and watch it bend. That's the problem KINGSTONE is trying to solve with this 18/10 dinner fork set, and at 4.8 stars from 240 ratings, shoppers seem to agree they've found something worth keeping.

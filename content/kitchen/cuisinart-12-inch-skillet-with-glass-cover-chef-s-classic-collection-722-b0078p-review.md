@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart 12 Inch Skillet with Glass Cover, Chef's Classic C"
 seo_title: "Cuisinart 12 Inch Skillet Review: Chef's Classic Cookware"
 meta_description: "Honest Cuisinart 12 inch skillet review: build quality, performance, and real buyer feedback on this Chef's Classic nonstick pan with glass lid."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0078P9D8U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wLD-JTqEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge aluminum core heats evenly without hot spots — searing and pan sauces actually work"
   - "Stick-free nonstick interior survives eggs, fish, and sticky glazes without constant re-oiling"
   - "Glass lid fits snugly, traps steam, and lets you monitor without lifting the cover"
-cons:
+cons: 
   - "Not induction-compatible — this limits it to gas, electric, and ceramic cooktops"
   - "Handles get hot during longer cooks; keep a mitt nearby or you'll learn the hard way"
+
 ---
 
 ## The 12-Inch Workhorse That Won't Break the Bank

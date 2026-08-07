@@ -1,4 +1,5 @@
 ---
+
 title: "Happy Planner Disc-Bound Planner, Big Size"
 seo_title: "Happy Planner Disc-Bound Planner, Big Size Review: Verdic"
 meta_description: "Our full happy planner disc-bound planner, big size review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GTB6CGHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F6iAFngSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever cursed a bound planner because you can't move a Tuesday task to Thursday without a whiteout massacre, the Happy Planner Disc-Bound Big Size is about to change your relationship with scheduling. This isn't just another dated notebook — it's a modular system that treats your week like a living document.

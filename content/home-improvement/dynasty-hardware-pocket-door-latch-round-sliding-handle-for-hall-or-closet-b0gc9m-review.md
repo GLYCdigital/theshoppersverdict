@@ -1,4 +1,5 @@
 ---
+
 title: "DYNASTY HARDWARE Pocket Door Latch, Round Sliding Handle for"
 seo_title: "DYNASTY HARDWARE Pocket Door Latch Review (2026): Worth It?"
 meta_description: "DYNASTY HARDWARE Pocket Door Latch review: 4.5-star rated round sliding handle. See real pros, cons, FAQs, and if it fits your hall or closet door."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GC9MRGBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Pdtgq74ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machined solid brass construction with a smooth, premium feel that rivals handles twice the price"
   - Universal fit works with standard 1-3/8 inch " and 1-3/4 inch " pocket doors without modification
   - "Integrated push-button latch mechanism eliminates the need for a separate privacy lock set"
-cons:
+cons: 
   - "Finish is lacquered and can show wear near the edges after heavy daily use in high-humidity bathrooms"
   - "Installation requires precise template alignment; the included screws are soft and strip easily with a power driver"
+
 ---
 
 If you've got a pocket door that's been running on bare bolts and a recessed pull, you already know the problem: they look cheap, they rattle, and guests never figure out which side is the latch. The DYNASTY HARDWARE Pocket Door Latch solves that with a single round unit that combines the handle, the pull, and the locking mechanism into one machined brass assembly. At $26.12, it's priced like a mid-tier upgrade, but it performs like hardware from a $3,000 custom door. Here's the honest breakdown after digging through the specs and 225 verified buyer ratings.

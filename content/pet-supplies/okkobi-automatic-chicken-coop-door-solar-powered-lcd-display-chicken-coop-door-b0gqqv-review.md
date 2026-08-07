@@ -1,4 +1,5 @@
 ---
+
 title: "Okkobi Automatic Chicken Coop Door Solar Powered - LCD Displ"
 seo_title: "Okkobi Automatic Chicken Coop Door Solar Powered - Review"
 meta_description: "Our full okkobi automatic chicken coop door solar powered - lcd displ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQQVJZ9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71benM8y-BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're tired of trudging to the coop at dawn in your bathrobe, the Okkobi solar-powered automatic door might be the $100-ish solution that finally gets you a full night's sleep. But is it predator-proof enough? Let's dig in.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Abib Vegan Collagen* Gel Mask Review"
 seo_title: "Abib Vegan Collagen* Gel Mask Review: Worth It? (2026)"
 meta_description: "Honest Abib Vegan Collagen* Gel Mask review: real results, skin-plumping hydration, and downsides. See if this luxury K-beauty mask earns its 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FL7NB49R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R+QtCE3DL._SL1500_.jpg"
-pros:
+pros: 
   - "Vegan collagen peptide blend that visibly plumps and firms without animal-derived ingredients"
   - "Gel-type sheet mask adheres tightly to skin with zero slip — stays put for the full 20-minute wear"
   - "No fragrance, no alcohol, no essential oils — genuinely suitable for sensitive and reactive skin types"
-cons:
+cons: 
   - "Single-use format at a luxury price point makes this a splurge rather than an everyday staple"
   - "Essence is thick; some users with oily skin found it slightly tacky before full absorption"
+
 ---
 
 ## The $9 Question: Does a Luxury Sheet Mask Actually Do Anything?

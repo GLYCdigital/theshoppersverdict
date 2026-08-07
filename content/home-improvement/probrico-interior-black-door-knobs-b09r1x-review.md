@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Interior Black Door Knobs"
 seo_title: "Probrico Interior Black Door Knobs Review: Verdict | TSV"
 meta_description: "Our full probrico interior black door knobs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09R1X9M7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rz4Smx62L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Black hardware is having a moment, and Probrico's interior knob is the kind of product that makes you wonder why you ever paid $25 per knob at the big-box store. This is genuinely good hardware at a price that undercuts the name brands by half. But it's not perfect, and here's what you need to know before you buy a six-pack.

@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Dresser with LED, White Dresser, Modern 8 Chest of Draw"
 seo_title: "DWVO Dresser with LED Review: Modern 8-Drawer Chest"
 meta_description: "DWVO LED dresser review: 8 drawers, RGB lighting, sturdy build. See pros, cons, real buyer feedback before you buy this modern white chest."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F9Y89PHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810qqYwwtzL._SL1500_.jpg"
-pros:
+pros: 
   - "Full-width LED lighting with multiple color modes and remote control — genuinely transforms a basic bedroom into something with ambiance"
   - "Eight drawers provide real storage capacity (roughly 30 inches wide by 15 inches deep per drawer) — enough for two people's folded clothes"
   - "Smooth-glide metal runners with soft-close mechanism that actually works — no slamming drawers at 2 AM"
-cons:
+cons: 
   - "Assembly is a marathon, not a sprint — expect 2-3 hours with two people, and the cam-lock hardware requires patience"
   - "LED strips are adhesive-mounted and can peel over time in humid climates; also, the remote needs line-of-sight to the receiver"
   - "White MDF finish shows fingerprints and smudges easily — you'll be wiping it down more than you'd like"
+
 ---
 
 # DWVO Dresser with LED: Does a Light-Up Chest Earn Its Place in Your Bedroom?

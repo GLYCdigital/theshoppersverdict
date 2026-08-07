@@ -1,4 +1,5 @@
 ---
+
 title: "YOSUDA Elliptical Exercise Machine, Compact 3-in-1 (Elliptic"
 seo_title: "YOSUDA Elliptical Exercise Machine, Compact 3-in-1 Review"
 meta_description: "Our full yosuda elliptical exercise machine, compact 3-in-1 (elliptic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FNW2CQFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xDXpEMyuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most compact ellipticals under $300 are junk — flimsy plastic frames, resistance that feels like pedaling through air, and a footprint that still manages to dominate your living room. The YOSUDA 3-in-1 isn't that. But it's not a miracle machine either. Here's the real breakdown after digging through 215 ratings and the spec sheet.

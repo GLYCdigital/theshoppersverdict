@@ -1,4 +1,5 @@
 ---
+
 title: "SLE-TECH 65W USB C Laptop Charger Compatible with Lenovo Thi"
 seo_title: "SLE-TECH 65W USB C Laptop Charger Compatible with  Review"
 meta_description: "Our full sle-tech 65w usb c laptop charger compatible with lenovo thi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZ2JP887/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hySCAG+7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most third-party laptop chargers are a gamble. The SLE-TECH 65W USB-C charger, though, isn't a shot in the dark — it's a legitimate replacement for the brick Lenovo shoves in the box with your ThinkPad. After 220 Amazon ratings averaging 4.4 stars, this one's proven itself. Here's who it's for and where it stumbles.

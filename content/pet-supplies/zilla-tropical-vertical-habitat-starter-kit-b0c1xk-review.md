@@ -1,4 +1,5 @@
 ---
+
 title: "Zilla Tropical Vertical Habitat Starter Kit"
 seo_title: "Zilla Tropical Vertical Habitat Starter Kit Review: Verdi"
 meta_description: "Our full zilla tropical vertical habitat starter kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1XK9H5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DrGg0cxyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're setting up a home for a crested gecko, a dart frog, or a day gecko, the Zilla Tropical Vertical Habitat Starter Kit is one of the more complete packages you can buy without assembling pieces from five different brands. The 4.6-star average across 229 ratings isn't inflated — this kit genuinely solves the "what else do I need?" problem for first-time tropical reptile owners.

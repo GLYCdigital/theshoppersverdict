@@ -1,4 +1,5 @@
 ---
+
 title: "10 Inch High Pressure Rain Shower Head with 11 Inch Adjustab"
 seo_title: "10 Inch High Pressure Rain Shower Head Review (2026)"
 meta_description: "Honest review of the 10 Inch High Pressure Rain Shower Head with 11 Inch adjustable arm. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09RZXYGP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YBCAsqrcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine high-pressure output thanks to 3-bar rated nozzles that don't clog easily, even in hard water areas"
   - "11-inch adjustable arm offers real flexibility — tilts to any angle and locks firmly, no drooping over time"
   - "Large 10-inch face provides full-body coverage without the weak drizzle you get from cheaper oversized heads"
-cons:
+cons: 
   - "No pressure-balancing valve built in — if someone flushes a toilet, water temperature will spike"
   - "Installation requires a 1/2-inch NPT thread and a solid anchor point; the arm is heavy and will sag on flimsy shower risers"
   - "Finish is fingerprint-prone; you'll be wiping it down weekly if you have hard water or kids"
+
 ---
 
 If you're shopping for a rain shower head, you've probably already learned the hard way that most "10 inch" heads deliver a pathetic trickle that feels like standing under a leaky garden hose. This one is different — and the 4.3-star average across 215 ratings reflects that. But it's not perfect, and there are a few things you need to know before you buy.

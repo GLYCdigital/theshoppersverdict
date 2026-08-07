@@ -1,5 +1,6 @@
 ---
 
+
 title: "CRAFTSMAN V20 Cordless 2-in-1 Power Scrubber Kit, Multi-Purp"
 seo_title: "CRAFTSMAN V20 Power Scrubber Kit Review: 2-in-1 Cleaning"
 meta_description: "CRAFTSMAN V20 Cordless 2-in-1 Power Scrubber Kit review: 4.5 stars, 225 ratings. Real performance, battery life, pros & cons for your cleaning tasks."
@@ -12,14 +13,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D31ZXKXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MnIN3z5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely cordless and lightweight at under 3 pounds — no dragging a cord around the bathroom or fighting with extension cords on outdoor projects"
   - "Interchangeable brush heads snap on and off with a simple twist-lock mechanism that holds firm during aggressive scrubbing"
   - "Shares the V20 battery platform with other CRAFTSMAN tools, so if you're already in the ecosystem, you're buying into a system, not a one-off gadget"
-cons:
+cons: 
   - "Battery and charger sold separately — the kit price looks attractive until you realize you need to factor in another $50-70 for a battery if you're new to V20 inch"
   - "No variable speed trigger — it's one speed, which is fine for most jobs but makes delicate surfaces like glass shower doors a bit nerve-wracking"
   - "Brush heads are proprietary — don't expect to swap in generic brushes from the hardware store when the included ones wear out"
+
 
 ---
 

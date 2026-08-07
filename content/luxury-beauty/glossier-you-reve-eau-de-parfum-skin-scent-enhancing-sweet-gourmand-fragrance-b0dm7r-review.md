@@ -1,4 +1,5 @@
 ---
+
 title: "Glossier You Reve Eau De Parfum - Skin Scent Enhancing Sweet"
 seo_title: "Glossier You Reve Eau De Parfum - Skin Scent Enhan Review"
 meta_description: "Our full glossier you reve eau de parfum - skin scent enhancing sweet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM7RFXXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/417YYa7Gl0L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Glossier's original You became a cult classic by smelling like *you*, but better — that ISO E Super trick that made it feel personal. You Reve takes the same DNA and pushes it toward something warmer, sweeter, and noticeably more gourmand. But here's the question that matters: does it still feel like skin, or does it tip into candle territory?

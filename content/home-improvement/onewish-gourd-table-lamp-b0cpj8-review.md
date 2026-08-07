@@ -1,4 +1,5 @@
 ---
+
 title: "ONEWISH Gourd Table Lamp"
 seo_title: "ONEWISH Gourd Table Lamp Review: Verdict | TSV"
 meta_description: "Our full onewish gourd table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CPJ8MTT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xaR3qz7TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ONEWISH Gourd Table Lamp: A Simple, Solid Light That Won't Disappoint — But Read This Before Buying**  

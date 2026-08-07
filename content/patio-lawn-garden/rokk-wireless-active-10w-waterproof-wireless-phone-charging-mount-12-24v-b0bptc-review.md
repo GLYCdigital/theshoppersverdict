@@ -1,4 +1,5 @@
 ---
+
 title: "ROKK Wireless - Active. 10W Waterproof Wireless Phone Chargi"
 seo_title: "ROKK Wireless - Active. 10W Waterproof Wireless Ph Review"
 meta_description: "Our full rokk wireless - active. 10w waterproof wireless phone chargi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPTCV1L6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514L+SUNHAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ROKK Wireless Active 10W Review: Is This $185 Waterproof Charger Worth It?

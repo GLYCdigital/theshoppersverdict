@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Design Small Desk for Bedroom, Writing Desk with Draw"
 seo_title: "Modern Design Small Desk for Bedroom, Writing Desk Review"
 meta_description: "Our full modern design small desk for bedroom, writing desk with draw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYLPZ6VG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QZn0MMWiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Shopper's Verdict: A Space-Saving Desk That Actually Works**

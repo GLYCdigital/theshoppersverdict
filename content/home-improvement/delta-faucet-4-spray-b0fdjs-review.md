@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet 4-Spray"
 seo_title: "Delta Faucet 4-Spray Review: Honest Look at Performance"
 meta_description: "Our Delta Faucet 4-Spray review covers spray modes, build quality, and installation. See real pros, cons, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDJSHGRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fjMmW5etL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four genuinely distinct spray modes with a thumb-slide dial that's easy to operate even with soapy hands"
   - "Brass swivel ball joint and rubber spray nozzles that resist mineral buildup and wipe clean easily"
   - "Pause feature actually holds pressure — no annoying drip or stream trickle while you shave or lather"
-cons:
+cons: 
   - "Hose feels slightly stiff at 60 inches; some users report kinking if not hung properly after use"
   - "Flow rate tops out below 2.0 GPM, so pressure-hungry buyers may find it underwhelming"
   - "Mounting bracket is plastic — functional, but not what you'd expect on a $50+ unit"
+
 ---
 
 Let’s be blunt: most handheld shower heads are variations of the same plastic mold with a chrome paint job. The Delta Faucet 4-Spray isn't that. But is it worth the premium over budget options? After digging through buyer feedback and the spec sheet, here's what you actually need to know.

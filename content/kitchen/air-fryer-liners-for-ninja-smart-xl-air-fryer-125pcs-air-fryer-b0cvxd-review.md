@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Liners For Ninja Smart Xl Air Fryer,125Pcs Air Fry"
 seo_title: "Air Fryer Liners for Ninja Smart XL Review (125 Pcs)"
 meta_description: "Honest review of 125-pack air fryer liners for Ninja Smart XL. Do they fit right? Are they worth it? Real buyer feedback, pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVXD1F75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kYrmhN4rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits Ninja Smart XL basket snugly — no curling edges that block airflow"
   - "125 sheets per pack works out to roughly $0.10 per use, cheaper than scrubbing"
   - "Heat-resistant up to 428°F, handles the Smart XL's max 400°F without scorching"
-cons:
+cons: 
   - "Pre-cut shape only fits Ninja-brand Smart XL — won't work in round-basket models"
   - "Lightweight sheets can blow around if you preheat empty; weigh them down with food"
+
 ---
 
 If you own a Ninja Smart XL air fryer, you already know the cleanup is the worst part. The nonstick basket works — until oils bake into the corners and the mesh bottom turns into a crusty archaeology site. These pre-cut parchment liners are the simplest fix I've tested, and at 125 sheets per pack, you're looking at months of zero-scrub cooking.

@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering The Lost Caverns of Ixalan Commander De"
 seo_title: "Magic: The Gathering The Lost Caverns of Ixalan Co Review"
 meta_description: "Our full magic: the gathering the lost caverns of ixalan commander de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGKTYJ5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vkxvns9OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Magic: The Gathering The Lost Caverns of Ixalan Commander De: Is This 4-Deck Bundle Worth Your Mana?

@@ -1,4 +1,5 @@
 ---
+
 title: "Large Metal Chicken Coop Heavy Duty Chicken Pens"
 seo_title: "Large Metal Chicken Coop Heavy Duty Chicken Pens Review: "
 meta_description: "Our full large metal chicken coop heavy duty chicken pens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GK1BDKQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of flimsy wooden coops that rot by year two, the Large Metal Chicken Coop Heavy Duty Chicken Pens deserves a serious look. This isn't a weekend novelty — it's a welded steel structure designed to survive both your flock and your local weather. But at 4.0 stars from 200 buyers, there's a split between folks who call it "the best coop I've owned" and those who hit one specific snag. Here's the full picture before you drop your money.

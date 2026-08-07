@@ -1,4 +1,5 @@
 ---
+
 title: "Flyline Parrot Escape Jumbo Corner Bird Cage Aviary"
 seo_title: "Flyline Parrot Escape Jumbo Corner Cage Review (2026)"
 meta_description: "Honest Flyline Parrot Escape Jumbo Corner Bird Cage review: spacious corner design, build quality, assembly, and value for large parrots."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B014VQ66WE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XZlJOg2EL._AC_SY355_.jpg"
-pros:
+pros: 
   - Genuinely massive interior — roughly 32 inch " wide, 24 inch " deep, 68 inch " tall, enough for a cockatoo or large African grey to fully stretch wings
   - "Corner footprint actually saves floor space while giving more usable volume than rectangular cages of similar price"
   - "Heavy-duty 5mm wire bars with powder-coated finish resist chewing and hold up to daily use"
-cons:
+cons: 
   - "Assembly requires patience — multiple buyers report fiddly parts and unclear instructions that take 1-2 hours"
   - "Seed guards are shallow and some owners report mess escaping around the door area"
   - "Removable bottom tray is sturdy but slides out awkwardly when the cage is against a wall"
+
 ---
 
 ## The Corner Solution That Actually Delivers Space

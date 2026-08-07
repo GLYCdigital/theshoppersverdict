@@ -1,4 +1,5 @@
 ---
+
 title: "Table Lamps Set of 2 with USB Port 3 Way Dimmable Touch Lamp"
 seo_title: "Table Lamps Set of 2 with USB Port 3 Way Dimmable  Review"
 meta_description: "Our full table lamps set of 2 with usb port 3 way dimmable touch lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNPRQMF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TSc2-5+EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: a set of two touch lamps with USB ports sounds like a gimmick until you actually live with them. After digging through 240+ ratings and real user experiences, here’s the honest breakdown of whether this 2-pack earns a spot on your nightstand or ends up in the donation bin.

@@ -1,4 +1,5 @@
 ---
+
 title: "Utheer Grill Cover All"
 seo_title: "Utheer Grill Cover All Review: Verdict | TSV"
 meta_description: "Our full utheer grill cover all review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSF5BLW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71being9l5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Utheer Grill Cover All Worth Your Money?

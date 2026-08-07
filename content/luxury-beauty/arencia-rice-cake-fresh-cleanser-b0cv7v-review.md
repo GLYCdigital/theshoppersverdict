@@ -1,4 +1,5 @@
 ---
+
 title: "ARENCIA Rice Cake Fresh Cleanser"
 seo_title: "ARENCIA Rice Cake Fresh Cleanser Review (2026): Worth It?"
 meta_description: "ARENCIA Rice Cake Fresh Cleanser review: 4.6/5 stars. Does this K-beauty gel cleanser live up to the hype? Real results, ingredients, and skin type fit."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV7VKZTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FTlFlFXOL._SL1500_.jpg"
-pros:
+pros: 
   - "Rice bran extract and ceramides deliver genuine brightening without stripping the moisture barrier"
   - "Low-foam gel texture rinses clean in under 10 seconds — no slippery residue, no squeaky tightness"
   - "Fragrance-free formula works for reactive and rosacea-prone skin, per multiple verified reviews"
-cons:
+cons: 
   - "The tube dispenses a thick gel that's easy to over-squeeze; you'll waste product if you're not careful"
   - "Removes light makeup but won't touch waterproof mascara or long-wear sunscreen — you'll need a first cleanse"
+
 ---
 
 K-beauty cleansers are a dime a dozen, but the ARENCIA Rice Cake Fresh Cleanser keeps showing up in "best of" lists for a reason. With 229 ratings and a 4.6-star average, it's not a viral flash-in-the-pan. It's a low-foam gel that leans on rice bran extract — a classic Korean skincare staple — to brighten and gently exfoliate while ceramides keep your skin barrier intact.

@@ -1,4 +1,5 @@
 ---
+
 title: "ANTHEM MECHANICAL THERMO VALVE 2 inch"
 seo_title: "ANTHEM Mechanical Thermo Valve 2 Review: Smart Temp Control"
 meta_description: "ANTHEM Mechanical Thermo Valve 2 review: Does this thermostatic mixing valve deliver precise temperature control? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C199R2T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/415VizWmgAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-brass body and NPT threads resist corrosion better than the zinc-alloy alternatives at similar price points"
   - "Mechanical wax-element thermostat requires no power — works during outages and won't fail like electronic controllers"
   - "Adjustment range from 90°F to 130°F covers both domestic hot water and radiant floor heating applications"
-cons:
+cons: 
   - "No built-in check valves — you'll need to add them separately for backflow protection, adding $15–25 to the install"
   - "Large physical footprint (4.5 inches across) makes tight crawlspace or under-sink retrofits genuinely awkward"
+
 ---
 
 If you're installing a tankless water heater, radiant floor loop, or a second bathroom, you've probably hit the same wall: the water's either scalding or lukewarm, and nothing in between. The ANTHEM Mechanical Thermo Valve 2 is designed to kill that problem with a wax-element thermostat that automatically blends hot and cold to a set temperature. It's not flashy, but 220 Amazon reviewers have pushed it to 4.4 stars for a reason. Here's the real breakdown.

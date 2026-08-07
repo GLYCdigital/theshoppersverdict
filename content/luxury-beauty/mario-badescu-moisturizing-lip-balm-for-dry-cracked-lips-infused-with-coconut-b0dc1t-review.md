@@ -1,4 +1,5 @@
 ---
+
 title: "Mario Badescu Moisturizing Lip Balm for Dry Cracked Lips, In"
 seo_title: "Mario Badescu Moisturizing Lip Balm for Dry Cracke Review"
 meta_description: "Our full mario badescu moisturizing lip balm for dry cracked lips, in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DC1T5GN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6191WLP3A-L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Mario Badescu Moisturizing Lip Balm Review: The $8 Balm That Actually Earns Its Hype**

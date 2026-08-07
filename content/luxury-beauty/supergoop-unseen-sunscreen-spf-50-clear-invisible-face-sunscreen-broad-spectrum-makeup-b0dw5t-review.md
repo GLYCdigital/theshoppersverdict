@@ -1,4 +1,5 @@
 ---
+
 title: "Supergoop! Unseen Sunscreen - SPF 50 - Clear & Invisible Fac"
 seo_title: "Supergoop! Unseen Sunscreen - SPF 50 - Clear & Inv Review"
 meta_description: "Our full supergoop! unseen sunscreen - spf 50 - clear & invisible fac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DW5TF5RP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LqkGQImbL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $40 sunscreen that actually feels like nothing—but is it worth the hype?**

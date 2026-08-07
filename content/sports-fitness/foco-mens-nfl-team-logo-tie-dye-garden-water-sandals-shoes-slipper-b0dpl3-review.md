@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO Mens NFL Team Logo Tie-dye Garden Water Sandals Shoes S"
 seo_title: "FOCO NFL Tie-Dye Water Sandals Review (2026): Real Buyer Test"
 meta_description: "FOCO NFL tie-dye water sandals review: 4.5-star rated team sandals tested for comfort, traction, and durability. See if they're worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPL3HTPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D+SFNzE4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine team colors woven into a tie-dye pattern that doesn't crack or peel after repeated water exposure"
   - "Closed-toe design with drainage holes protects toes at tailgates and boat ramps without trapping water"
   - "Molded footbed with arch support holds up through a full season of backyard use"
-cons:
+cons: 
   - "Sizing runs roughly a half-size large — size down if you're between sizes"
   - "Tie-dye pattern varies significantly between pairs, which bothers collectors expecting uniformity"
+
 ---
 
 **FOCO NFL Tie-Dye Garden Sandals Review: Team Spirit That Actually Works**

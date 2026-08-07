@@ -1,4 +1,5 @@
 ---
+
 title: "Arrow Cordless Staple Gun Kit, Electric Stapler with 3750 Pi"
 seo_title: "Arrow Cordless Staple Gun Kit Review (2026): Is It Worth It?"
 meta_description: "Honest Arrow Cordless Staple Gun Kit review: 3750 staples, T50 compatibility, battery life, and real user feedback. See if it beats a manual stapler."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B099NMTRVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OXnaFKC6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Drives T50 staples flush into hardwood without pre-drilling — no more bruised palms from manual staplers"
   - "3750-piece starter kit includes 3 staple sizes plus a sturdy carry case; you won't need to buy refills for months"
   - "Single-handed operation with a safety trigger lock; consistent depth on every shot, even on ceiling work"
-cons:
+cons: 
   - "At roughly 3 pounds, it's heavier than a manual stapler — overhead work will fatigue your arm after 20 minutes"
   - "Staple jam clearing requires removing the battery and pushing a release pin; not a tool-free fix like some competitors"
   - "No belt hook or lanyard loop included — you'll set it down constantly on ladders or drop it"
+
 ---
 
 If you've ever wrestled a manual staple gun into a ceiling joist — knuckles scraped, staple half-bent, arm shaking — you already know why the Arrow Cordless Staple Gun Kit exists. This isn't a toy for crafters. It's a battery-powered workhorse that replaces the shoulder-punching effort of a T50 manual gun with a trigger squeeze. And with 3750 staples in the box, it's ready to work the day it arrives.

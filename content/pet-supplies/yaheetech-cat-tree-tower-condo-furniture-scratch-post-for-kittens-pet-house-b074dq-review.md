@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Cat Tree Tower Condo Furniture Scratch Post for Ki"
 seo_title: "Yaheetech Cat Tree Tower Condo Furniture Scratch P Review"
 meta_description: "Our full yaheetech cat tree tower condo furniture scratch post for ki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B074DQQM8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71faIxAPniL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**  

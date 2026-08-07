@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon - Booster Pack Lot - Obsidian Flames - x4 - Pack Art"
 seo_title: "Pokemon - Booster Pack Lot - Obsidian Flames - x4  Review"
 meta_description: "Our full pokemon - booster pack lot - obsidian flames - x4 - pack art review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG4YYJ2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JjwdlfL1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you're not here for a lecture on the Pokemon TCG's history. You want to know if dropping money on four Obsidian Flames booster packs is a smart move. Here's the real breakdown.

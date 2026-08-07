@@ -1,4 +1,5 @@
 ---
+
 title: "Original Queen 100% Brazilian Unprocessed Virgin Kinky Curly"
 seo_title: "Original Queen 100% Brazilian Unprocessed Virgin K Review"
 meta_description: "Our full original queen 100% brazilian unprocessed virgin kinky curly review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B077F53N5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uJHa1NiVL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the hair extensions market is a minefield of misleading labels and overpriced synthetic blends. So when a product claims "100% Brazilian unprocessed virgin" at this price point, my skepticism kicks in hard. After digging through 200 ratings and real customer experiences, here's the honest breakdown.

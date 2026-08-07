@@ -1,4 +1,5 @@
 ---
+
 title: "GIGABYTE B760 DS3H AX (rev. 1.x) LGA 1700 Intel B760 ATX Mot"
 seo_title: "GIGABYTE B760 DS3H AX (rev. 1.x) LGA 1700 Intel B7 Review"
 meta_description: "Our full gigabyte b760 ds3h ax (rev. 1.x) lga 1700 intel b760 atx mot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FN3YY7T6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819loXNzHQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a sensible mid-range Intel rig, the GIGABYTE B760 DS3H AX has been quietly dominating budget motherboard sales—and with 215 ratings averaging 4.3 stars, it's not hard to see why. This is the board that skips the RGB circus and spends its budget on what actually matters: networking, memory support, and BIOS safety nets.

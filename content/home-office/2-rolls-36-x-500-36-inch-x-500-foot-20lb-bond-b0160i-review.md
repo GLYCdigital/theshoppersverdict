@@ -1,4 +1,5 @@
 ---
+
 title: "2 Rolls 36 inch  X 500' (36 Inch X 500 Foot) 20lb Bond Paper 3 inch  C"
 seo_title: "20lb Bond Paper 36x500 Review: Best Wide-Format Value?"
 meta_description: "Honest review of 2 Rolls 36 inch  x 500' 20lb bond paper. Is this wide-format roll worth it for plotters & copiers? Real pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0160IFXMA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21RvNArZe4L._AC_.jpg"
-pros:
+pros: 
   - "Bright white 20lb bond prints crisply for architectural drawings and CAD plots without ghosting"
   - "Consistent 3-inch core fits standard wide-format plotters and copiers with zero feed jams reported"
   - "Two 500-foot rolls per order means 1,000 total feet — enough for months of heavy drafting output"
-cons:
+cons: 
   - "20lb weight is too thin for presentation-grade prints — ink bleeds slightly with heavy saturation"
   - "Rolls arrive without end caps; edges can scuff in transit if the box gets crushed"
+
 ---
 
 Let's cut through the spec-sheet noise. If you're shopping for wide-format bond paper, you already know the pain of buying a roll that jams, curls, or smears halfway through a 40-page set of blueprints. This 2-pack of 36" x 500' 20lb bond from an unbranded-but-reliable seller has quietly racked up a 4.6-star average across 229 ratings. Here's why it's earned that score — and where it might disappoint you.

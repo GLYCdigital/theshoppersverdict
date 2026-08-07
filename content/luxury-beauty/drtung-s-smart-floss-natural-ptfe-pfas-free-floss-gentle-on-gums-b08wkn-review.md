@@ -1,4 +1,5 @@
 ---
+
 title: "DrTung's Smart Floss - Natural, PTFE & PFAS Free Floss, Gentle on Gums"
 seo_title: "DrTung's Smart Floss Review: Natural, PFAS-Free (2026)"
 meta_description: "Honest DrTung's Smart Floss review: Does this PTFE-free, all-natural floss live up to the 4.6-star rating? We test grip, durability, and gum sensitivity."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08WKNH98V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yKmtdQmpL._SL1500_.jpg"
-pros:
+pros: 
   - "Expands and grips tooth surfaces like dental tape, removing plaque more effectively than slippery PTFE floss"
   - "Truly PFAS and PTFE-free — no forever chemicals, making it a safer daily choice for your body and the environment"
   - "One 40-yard spool lasts 2-3 months with daily use, beating typical floss longevity"
-cons:
+cons: 
   - "The textured, fibrous grip can shred or catch on tight contacts, especially between molars with no gaps"
   - "Has a noticeable clove and tea tree oil taste that lingers for several minutes — not for flavor-sensitive users"
+
 ---
 
 You've heard the buzz about PFAS in dental floss — those "forever chemicals" that coat most major brands. DrTung's Smart Floss sidesteps the controversy entirely with a plant-based, expandable fiber that actually grips your teeth instead of sliding past plaque. After testing this 40-yard spool for three weeks, here's the unvarnished truth.

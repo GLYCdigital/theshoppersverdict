@@ -1,4 +1,5 @@
 ---
+
 title: "Degree Advanced Antiperspirant Deodorant Move Fresh Coconut"
 seo_title: "Degree Advanced Deodorant Review: 72-Hour Coconut Freshness"
 meta_description: "Degree Advanced Move Fresh Coconut antiperspirant review: Does 72-hour sweat protection hold up? We tested it. Find out if this 4-pack is worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CS6RVK4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ou7pkeFAL._SL1500_.jpg"
-pros:
+pros: 
   - "72-hour sweat protection formula with Motionsense technology that activates with body movement"
   - "Coconut scent is genuinely pleasant — tropical without being cloying or perfumey"
   - "4-count pack offers real value for daily users who go through deodorant quickly"
-cons:
+cons: 
   - "Strong formula can cause irritation on freshly shaved underarms or sensitive skin"
   - "White stick formula occasionally leaves visible marks on dark clothing if you over-apply"
+
 ---
 
 You know the drill: you buy a deodorant, it works for a week, then your body builds a tolerance and you're back to pit stains by noon. Degree Advanced claims to break that cycle with 72-hour protection and something called Motionsense — a technology that releases fresh scent when you move. After putting the Move Fresh Coconut formula through real-world testing, here's what I can tell you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate Toothpaste"
 seo_title: "Colgate Toothpaste Review: Worth the Hype? | 2026 inch"
 meta_description: "Read our honest Colgate toothpaste review. Real performance breakdown, pros & cons, and buying advice from 229 verified Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D36NFK44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nfz8v8fzL._SL1500_.jpg"
-pros:
+pros: 
   - "Clinically proven cavity protection with 1,450 ppm fluoride — matches prescription-grade strength"
   - "Stays minty fresh for hours without the harsh burn of competitor brands"
   - "Thick, non-gritty paste that doesn't foam excessively — ideal for sensitive gums"
-cons:
+cons: 
   - "Price point runs 30–40% higher than standard drugstore toothpastes"
   - "Not formulated for extreme whitening — brightness gains are gradual over 4–6 weeks"
+
 ---
 
 # Colgate Toothpaste: The Overachiever of Your Medicine Cabinet

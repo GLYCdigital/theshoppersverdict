@@ -1,4 +1,5 @@
 ---
+
 title: "Petsfit Expandable Cat Carrier Dog Carrier,Airline Approved "
 seo_title: "Petsfit Expandable Cat Carrier Dog Carrier,Airline Review"
 meta_description: "Our full petsfit expandable cat carrier dog carrier,airline approved  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09PTRMY5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VlPl40I7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: most soft-sided carriers are glorified gym bags with a zipper. The Petsfit Expandable Carrier is not that. It's one of the few under-seat carriers that actually respects the difference between "fits under a seat" and "your pet can survive a four-hour flight without cramping."

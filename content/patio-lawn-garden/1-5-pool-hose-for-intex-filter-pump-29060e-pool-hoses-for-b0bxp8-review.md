@@ -1,4 +1,5 @@
 ---
+
 title: "1.5 inch  Pool Hose for Intex Filter Pump - 29060E Pool Hoses for"
 seo_title: "1.5 inch  Pool Hose for Intex Filter Pump: Honest Review (2026)"
 meta_description: "Read our honest 1.5 inch  pool hose for Intex filter pump review. Covers fit, durability, leaks, and value. See if this 29060E replacement is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BXP8LFSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PjPF74w4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - Pre-attached screw collars fit Intex 1.5 inch " filter pumps and sand filters without extra adapters or clamps
   - "Reinforced ribbed construction resists kinking and crushing better than thin-wall generic hoses"
   - "Sold in a 2-pack — you get both the inlet and outlet hoses for the price of one"
-cons:
+cons: 
   - "Length is fixed at 3 feet each; longer runs require splicing or buying additional connectors"
   - "Collars are plastic and can crack if over-tightened with pliers instead of hand-tightened"
+
 ---
 
 If you own an Intex pool with a filter pump, you already know the drill: the original hoses get brittle, crack at the collar, or just plain wear out after a season. The 1.5" Pool Hose for Intex Filter Pump (model 29060E) is a direct replacement that promises to fix that problem. At 4.4 stars from 220 buyers, it's clearly doing something right. Here's the full story.

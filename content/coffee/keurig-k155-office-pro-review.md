@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K155 Office Pro Review: Commercial K-Cup Brewer Tested"
 seo_title: "Keurig K155 Office Pro Review 2026: Best Commercial K-Cup Coffee Maker?"
 meta_description: "Our full Keurig K155 Office Pro review. Real customer insights on this $355 commercial single-cup brewer. See pros, cons, and who should buy."
@@ -11,31 +12,32 @@ image_alt: "Keurig K155 Office Pro Single Cup Commercial K-Cup Pod Coffee Maker 
 amazon_rating: 4.3
 review_count: 4977
 verdict_score: 8.0
-categories:
+categories: 
   - coffee
-tags:
+tags: 
   - Keurig
   - K-Cup
   - coffee maker
   - office coffee
   - B00DWKEHU4
-pros:
+pros: 
   - "Brews up to 35 cups per tank — great for office settings"
   - "Quick brewing time for single cups"
   - "Accepts reusable K-Cup pods for ground coffee"
   - "Sturdy commercial-grade build quality"
-cons:
+cons: 
   - "No 12 oz. brew option despite the high price"
   - "Reliability concerns — several reports of premature failure"
   - "Requires regular maintenance and descaling to prevent buildup"
   - "Very expensive compared to home-oriented Keurig models"
-faq:
+faq: 
   - question: "How many cups can the Keurig K155 brew per tank?"
     answer: "The 90-ounce reservoir brews up to 35 cups per fill, depending on the cup size selected (4 oz, 6 oz, 8 oz, or 10 oz)."
   - question: "Is the Keurig K155 worth the price?"
     answer: "At $355, it's significantly more expensive than home Keurigs. It's designed for office environments where volume and durability matter, but reliability concerns make it a risky investment."
   - question: "Can you use ground coffee in the K155?"
     answer: "Yes, the K155 is compatible with the universal K-Cup reusable filter, allowing you to use your own ground coffee instead of pods."
+
 ---
 
 The Keurig K155 Office Pro isn't trying to win design awards. It's a workhorse disguised as a coffee maker — and after combing through 4,977 Amazon ratings, that's exactly what most buyers want. Let's break down whether this $150-200 brewer (check current pricing) earns its keep on your counter.

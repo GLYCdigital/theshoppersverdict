@@ -1,4 +1,5 @@
 ---
+
 title: "GHIRARDELLI INTENSE DARK Chocolate Bar"
 seo_title: "GHIRARDELLI INTENSE DARK Chocolate Bar Review: Verdict | "
 meta_description: "Our full ghirardelli intense dark chocolate bar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9MRDBSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-MNVQiFXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a coffee-adjacent product that deserves a spot in your pantry if you take your espresso seriously. The GHIRARDELLI Intense Dark 72% bar isn't trying to reinvent chocolate — it's trying to be the reliable, smooth dark bar you reach for when you want something that pairs with a pour-over without fighting it.

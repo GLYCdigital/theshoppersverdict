@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Original Family Size Beef Jerky,"
 seo_title: "365 Whole Foods Beef Jerky Review: Family Size Value"
 meta_description: "Honest 365 by Whole Foods Market Original Family Size Beef Jerky review: taste, texture, value. See if this 8-oz bag is worth it before you buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B07QG4K8K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hzvp8qczL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean ingredient list with no artificial preservatives — just beef, organic cane sugar, and natural smoke flavor"
   - "8-ounce family size bag delivers roughly 20% more product per dollar than typical 6-ounce jerky pouches"
   - "Consistent, balanced sweetness with a savory finish that doesn't overpower the beef flavor"
-cons:
+cons: 
   - "Texture runs dry and crumbly — several reviewers note pieces shatter rather than tear like traditional jerky"
   - "Sodium content sits high at 460mg per serving; a single serving is only 1 ounce, so portion control matters"
   - "Packaging is a simple resealable bag — no individual sticks, which makes it less portable for on-the-go snacking"
+
 ---
 
 Let's cut to the chase: 365 by Whole Foods Market's Original Family Size Beef Jerky is a solid value pick that won't blow your mind, but it won't disappoint either. With 195 Amazon ratings averaging 3.9 stars, this 8-ounce bag has earned a respectable following — and for good reason, though it's not without its quirks.

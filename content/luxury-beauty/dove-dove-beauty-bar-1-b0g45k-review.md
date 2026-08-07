@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Dove Beauty Bar 1 inch"
 seo_title: "Dove Beauty Bar Review (2026): Is It Worth the Hype?"
 meta_description: "Honest Dove Beauty Bar review: 4.8-star rated cleanser. Does it deliver soft skin without stripping? Read pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G45KPB5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713CJLCS-rL._SL1500_.jpg"
-pros:
+pros: 
   - "pH-balanced formula (6.0–7.0) that cleans without stripping the skin barrier"
   - "Contains ¼ moisturizing cream — visibly softer skin after one use, per multiple reviewers"
   - "Rinses clean with zero residue, unlike many cream-based bars that leave a film"
-cons:
+cons: 
   - "Single bar format means you'll repurchase frequently if you use it daily for face and body"
   - "Scent is mild but present — fragrance-sensitive skin may want the fragrance-free version"
   - "Not a deep cleanser — won't remove heavy makeup or sunscreen without a double cleanse"
+
 ---
 
 Let me cut through the noise: this is a soap bar that has been around for decades, yet it still holds a 4.8-star average from 240+ ratings. That's not an accident. The Dove Beauty Bar is the rare product that genuinely earns its reputation — but it's also not magic. Here's what you need to know before you add it to your cart.

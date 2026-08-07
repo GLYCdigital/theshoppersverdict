@@ -1,4 +1,5 @@
 ---
+
 title: "Sigaitwei Farmhouse Chandelier"
 seo_title: "Sigaitwei Farmhouse Chandelier Review: Verdict | TSV"
 meta_description: "Our full sigaitwei farmhouse chandelier review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3QZNSQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819uGyfEvrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The farmhouse aesthetic has a dirty secret: half the "rustic" chandeliers on Amazon are cheap metal shells with plastic faux-wood accents that look great in photos and awful in person. The Sigaitwei Farmhouse Chandelier at $80.89 isn't that. It's a legitimately solid, all-metal fixture that earns its 4.7-star rating — but it's not without tradeoffs. Here's what 235 buyers and I want you to know before you click buy.

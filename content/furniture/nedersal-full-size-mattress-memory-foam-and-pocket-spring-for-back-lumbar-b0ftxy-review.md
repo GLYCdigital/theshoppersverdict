@@ -1,4 +1,5 @@
 ---
+
 title: "Nedersal Full Size Mattress,Memory Foam and Pocket Spring fo"
 seo_title: "Nedersal Full Size Mattress,Memory Foam and Pocket Review"
 meta_description: "Our full nedersal full size mattress,memory foam and pocket spring fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FTXY7FL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b+mA9-4oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the Nedersal Full Size Mattress: at its price point, you're not getting a luxury hotel bed. But you're also not getting the mushy, sagging foam slab that plagues most budget hybrids. This is a legitimate dual-layer construction — two inches of gel memory foam on top of a seven-inch pocket spring core — and it shows in the sleep experience.

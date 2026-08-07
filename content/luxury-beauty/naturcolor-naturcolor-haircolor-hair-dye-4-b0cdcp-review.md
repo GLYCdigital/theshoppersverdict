@@ -1,4 +1,5 @@
 ---
+
 title: "naturcolor Naturcolor Haircolor Hair Dye 4 '"
 seo_title: "naturcolor Naturcolor Haircolor Hair Dye 4 ' Review: Verd"
 meta_description: "Our full naturcolor naturcolor haircolor hair dye 4 ' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CDCPYJVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xrtmsxtDL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most "natural" hair dyes are glorified conditioners with a little pigment. They wash out in three weeks and leave your grays glowing like beacons. Naturcolor is different — it's a *permanent* dye that skips ammonia and uses MEA (monoethanolamine) instead. That distinction matters, because it means actual lift and lasting color, not just a tinted rinse.

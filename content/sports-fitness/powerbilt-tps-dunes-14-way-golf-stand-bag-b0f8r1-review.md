@@ -1,4 +1,5 @@
 ---
+
 title: "Powerbilt TPS Dunes 14-Way Golf Stand Bag"
 seo_title: "Powerbilt TPS Dunes 14-Way Golf Stand Bag Review: Verdict"
 meta_description: "Our full powerbilt tps dunes 14-way golf stand bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8R1C4V5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mR+oZdbqL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a sports & fitness product, the **Powerbilt TPS Dunes 14-Way Golf Stand Bag** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,23 +1,25 @@
 ---
+
 title: "Assorted 5 Flavor Classic Roll Pops"
 seo_title: "Assorted 5 Flavor Roll Pops Review: Are They Worth It?"
 meta_description: "Honest Assorted 5 Flavor Classic Roll Pops review: taste, texture, value, and downsides. See if these hard candies beat the originals before you buy."
 slug: "assorted-5-flavor-classic-roll-pops-b0dg99-review"
 image_alt: "Assorted 5 Flavor Classic Roll Pops in wrappers, showing cherry, orange, grape, lemon, and strawberry flavors"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DG99T3H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sO-cCm6RL._SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine 5-flavor mix (cherry, orange, grape, lemon, strawberry) — no filler flavors"  
   - "Hard candy shell holds up 15–20 minutes per pop, even with aggressive licking"  
   - "Individual foil wrappers keep pops fresh for months; great for party bags or office jars"  
-cons:  
+cons: 
   - "Slightly smaller than the brand-name originals — about 15% less candy per pop"  
   - "Grape and lemon flavors are noticeably weaker than cherry and strawberry"
+
 ---
 
 You’ve seen the classic red-and-white swirl pops at every checkout lane for 30 years. The Assorted 5 Flavor Classic Roll Pops are that same nostalgia, but with a catch: they’re not the brand-name version. That’s not automatically a dealbreaker — I tested a full roll against the originals to see if the savings justify the swap.

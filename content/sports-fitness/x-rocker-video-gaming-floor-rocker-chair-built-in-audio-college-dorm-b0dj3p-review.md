@@ -1,4 +1,5 @@
 ---
+
 title: "X Rocker Video Gaming Floor Rocker Chair, Built-in Audio, Co"
 seo_title: "X Rocker Video Gaming Floor Rocker Chair, Built-in Review"
 meta_description: "Our full x rocker video gaming floor rocker chair, built-in audio, co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJ3PWMJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Yw9OexsmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the X Rocker Floor Rocker the right gaming seat for your setup?** If you're picturing a full-size ergonomic throne, stop right there. This is a floor chair — deliberately low, deliberately compact, and designed for one specific use case: immersive gaming from the ground up. With a 4.1-star average across 204 ratings, it's clearly doing something right for a lot of people. But it's not for everyone, and you need to know the tradeoffs before you click buy.

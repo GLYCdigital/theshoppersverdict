@@ -1,4 +1,5 @@
 ---
+
 title: "CONFU Hair Dryer, 1875W Blow Dryer, Ionic Hair Dryer with Di"
 seo_title: "CONFU Hair Dryer Review: 1875W Ionic Dryer Worth It?"
 meta_description: "CONFU 1875W ionic hair dryer review: fast drying, diffuser included, 4.6/5 rating. Is this luxury blow dryer worth your money? Read before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLGJMKR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710vKb6FI5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries thick hair in under 8 minutes thanks to true 1875W motor output, not inflated wattage claims"
   - "Ionic technology actually reduces frizz — multiple reviewers with curly hair report noticeably smoother results"
   - "Includes diffuser and concentrator nozzles that click into place securely, no wobble"
-cons:
+cons: 
   - "Heavier than premium dryers at 1.4 lbs — arm fatigue possible during extended styling sessions"
   - "No cool shot button on all color variants — check listing photos before ordering if you rely on cold air to set styles"
+
 ---
 
 Let's be direct: most hair dryers under $50 are garbage. They blast hot air, fry your ends, and take fifteen minutes to dry medium-length hair. The CONFU 1875W ionic dryer is not that. It's also not a $400 Dyson. It sits in the middle — and for the price, it punches well above its weight class.

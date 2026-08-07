@@ -1,4 +1,5 @@
 ---
+
 title: "Yamteck 11 Inch 9 Inch Round Tart Pans 4 Inch Mini Tart Pans"
 seo_title: "Yamteck 11 Inch 9 Inch Round Tart Pans 4 Inch Mini Review"
 meta_description: "Our full yamteck 11 inch 9 inch round tart pans 4 inch mini tart pans review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGHYRJZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71raSN9SkDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a stuck tart out of a solid pan and watched the crust shatter into six pieces, you already know why the Yamteck set's removable bottoms matter. This three-piece set covers the practical range — an 11-inch for quiches and large tarts, a 9-inch for standard recipes, and two 4-inch minis for individual desserts. At 4.7 stars across 235 ratings, it's clearly doing something right.

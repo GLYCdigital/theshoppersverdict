@@ -1,4 +1,5 @@
 ---
+
 title: "PA106-PAK4 Pool Filter Replacement for Hayward C4030,C4020,C"
 seo_title: "PA106-PAK4 Pool Filter Replacement for Hayward C40 Review"
 meta_description: "Our full pa106-pak4 pool filter replacement for hayward c4030,c4020,c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSSJFC1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PCAX4CtTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: pool filter cartridges are the least glamorous purchase you'll make all summer, but the wrong one means green water, a strained pump, and a wallet that's suddenly lighter. The PA106-PAK4 replacement for Hayward C4030/C4020/C4025 filters has quietly built a 4.6-star reputation across 229 ratings, and after digging into what buyers actually say, here's the real story.

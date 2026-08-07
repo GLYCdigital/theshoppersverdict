@@ -1,4 +1,5 @@
 ---
+
 title: "Socket Ceiling Fan Light,Bulb Socket Fan with Remote,Dimmabl"
 seo_title: "Socket Ceiling Fan Light,Bulb Socket Fan with Remo Review"
 meta_description: "Our full socket ceiling fan light,bulb socket fan with remote,dimmabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CWRP2QD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jw5trihkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the $30 hack that turns any lamp into a ceiling fan? Yes — with caveats.**

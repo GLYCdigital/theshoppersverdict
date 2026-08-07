@@ -1,4 +1,5 @@
 ---
+
 title: "Kilodor 34Inch Tall Cat Scratching Post,4.3Inch Diameter Lar"
 seo_title: "Kilodor 34Inch Tall Cat Scratching Post,4.3Inch Di Review"
 meta_description: "Our full kilodor 34inch tall cat scratching post,4.3inch diameter lar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7GWBNMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdVLjZt+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the scratching post that finally survives your cat?**

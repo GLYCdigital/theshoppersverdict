@@ -1,4 +1,5 @@
 ---
+
 title: "Dance Star Kids Costume for Boys 80s 90s Pop Stage Cosplay P"
 seo_title: "Dance Star Kids Costume Review: 80s 90s Pop Style for Boys"
 meta_description: "Honest Dance Star kids costume review: 80s/90s pop stage cosplay for boys. See fit, quality, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXPTB4L2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t6eL6VBcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete set includes jacket, pants, and accessories — no separate pieces to hunt down"
   - "Vibrant 80s/90s color-block design that reads instantly as pop-star on stage"
   - "Machine-washable fabric holds up through multiple wears and dance routines"
-cons:
+cons: 
   - "Sizing runs small — most buyers recommend ordering one size up for growing kids"
   - "Accessories like the sunglasses are flimsy and may not survive rough play"
+
 ---
 
 If your kid has been begging to be a pop star for Halloween, a school talent show, or just because they’ve watched one too many 90s music videos, this Dance Star costume delivers exactly what the product photos promise. The moment my test subject pulled on that color-block jacket, he started striking poses. That’s the whole point, and it nails it.

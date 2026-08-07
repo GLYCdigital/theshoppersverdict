@@ -1,4 +1,5 @@
 ---
+
 title: "BillyPrint Custom Canopy Tent with Logo, Personalized Pop Up"
 seo_title: "BillyPrint Custom Canopy Tent Review: Worth It? (2026)"
 meta_description: "BillyPrint custom canopy tent review: 4.7★ rated. Real buyer feedback on print quality, frame durability, and setup. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5CTQXG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815lRNrqCvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-bleed dye-sublimation printing with no white borders — logo visibility is excellent from 50+ feet"
   - "Straight-leg aluminum frame with reinforced truss joints handles moderate wind better than most pop-ups in this class"
   - "Included roller bag, stakes, and ropes actually fit properly — no struggling to zip the case at the end of an event"
-cons:
+cons: 
   - "Setup takes 10-15 minutes solo; the frame is heavier than cheap canopy tents at roughly 48 lbs, so plan for two people"
   - "Print proofing process adds 2-3 business days before shipping — not ideal for last-minute events"
+
 ---
 
 **The Bottom Line Up Front:** If you're selling at farmers markets, running a booth at trade shows, or need a branded presence at weekend events, the BillyPrint Custom Canopy Tent delivers professional-grade print quality on a frame that won't collapse when the breeze picks up. At 4.7 stars from 235 ratings, it's clear this isn't a gimmick product — but let's dig into whether it's the right custom canopy for your specific needs.

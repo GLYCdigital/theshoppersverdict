@@ -1,4 +1,5 @@
 ---
+
 title: "Minn Kota Precision MK-440PCL On-Board Marine Battery Charge"
 seo_title: "Minn Kota Precision MK-440PCL On-Board Marine Batt Review"
 meta_description: "Our full minn kota precision mk-440pcl on-board marine battery charge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09B1NTMWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r6CSJbIQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The Minn Kota Precision MK-440PCL is a 4-bank, 10-amp-per-bank on-board charger designed for anglers running multiple trolling motor batteries plus a cranking battery. At roughly 4.6 stars across 240 ratings, it's clearly doing something right—but it's not perfect.

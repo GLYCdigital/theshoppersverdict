@@ -1,7 +1,8 @@
 ---
-title: "PokÃ©mon 95251 Plush Large 12\" Pikachu"
-seo_title: "PokÃ©mon 95251 Plush Large 12\" Pikachu Review: Verdict | "
-meta_description: "Our full pokã©mon 95251 plush large 12\" pikachu review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "PokÃ©mon 95251 Plush Large 12\ Pikachu"
+seo_title: "PokÃ©mon 95251 Plush Large 12\ Pikachu Review: Verdict | "
+meta_description: "Our full pokã©mon 95251 plush large 12\ pikachu review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pok-mon-95251-plush-large-12-pikachu-b078w3-review"
 image_alt: "PokÃ©mon 95251 Plush Large 12 Pikachu"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078W3NPVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718yrYeq2bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the Pikachu plush you've been hunting for?** Let me cut through the noise. This is the officially licensed PokÃ©mon 95251 Large 12" Pikachu, and it's one of the most-bought plush toys on Amazon for good reason. But "large" is doing some heavy lifting here — at 12 inches, this is more of a desk companion than a body pillow. Here's the full picture before you hit add to cart.

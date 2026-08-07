@@ -1,4 +1,5 @@
 ---
+
 title: "La Espanola Extra Virgin Olive Oil"
 seo_title: "La Espanola Extra Virgin Olive Oil Review: Verdict | TSV"
 meta_description: "Our full la espanola extra virgin olive oil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CFXPNTJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MPKvJZ2aL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "extra virgin" olive oil on Amazon is either overpriced hype or disappointingly bland. La Espanola sits in a different lane — it's the workhorse EVOO that actually earns its place in your kitchen. After testing it across a week of cooking, here's the honest breakdown.

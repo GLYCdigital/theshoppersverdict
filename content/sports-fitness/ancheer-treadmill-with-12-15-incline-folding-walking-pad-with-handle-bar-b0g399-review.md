@@ -1,4 +1,5 @@
 ---
+
 title: "ANCHEER Treadmill with 12%/15% Incline, Folding Walking Pad"
 seo_title: "ANCHEER Treadmill Review: Folding Walking Pad With Incline (2026)"
 meta_description: "Honest ANCHEER treadmill review: 12%/15% incline folding walking pad. Real pros, cons, and who should buy. 4.4-star rated — see our verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G399GY2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SuuQEuZ1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual incline options (12% and 15%) give you two distinct training intensities most budget treadmills skip entirely"
   - "Folding design with transport wheels means you can stash it under a bed or against a wall in under 60 seconds"
   - "Handle bar model adds stability for walking at speed — a feature the handle-less versions lack"
-cons:
+cons: 
   - "Max speed is capped — serious runners will hit the ceiling quickly; this is a walker/jogger machine"
   - "Deck is on the narrow side; wider-footed users may find stride placement awkward at higher speeds"
   - "No built-in heart rate monitoring on the handlebars — you'll need your own chest strap or watch"
+
 ---
 
 **Bottom line up front:** If you're shopping for a treadmill that folds flat, offers real incline, and doesn't demand $1,500, the ANCHEER with 12%/15% incline deserves a hard look. But it's not a running treadmill — it's a walking and light jogging machine with a serious incline punch. Here's the full breakdown.

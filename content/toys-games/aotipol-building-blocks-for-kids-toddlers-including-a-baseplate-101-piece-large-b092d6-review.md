@@ -1,4 +1,5 @@
 ---
+
 title: "aotipol Building Blocks for Kids Toddlers Including a Basepl"
 seo_title: "aotipol Building Blocks Review: 101-Piece Set for Toddlers"
 meta_description: "Read our honest aotipol building blocks review. 101-piece toddler set with baseplates, 4.7-star rated. See what parents love and where it falls short."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B092D6N5MC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mnsQS0n1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Oversized 3.5-inch bricks are genuinely safe for toddlers under 3 — no choking hazard, easy for small hands to grip"
   - "Two sturdy baseplates included, which most competing sets in this price range omit entirely"
   - "Bricks click together with satisfying resistance but separate easily enough for toddler hands to pull apart"
-cons:
+cons: 
   - "Only 101 pieces — older kids (5+) will exhaust the possibilities quickly and want more"
   - "Color distribution skews heavily toward primary colors; no pastels or specialty pieces like wheels or windows"
+
 ---
 
 Let me be blunt: most toddler building block sets are either too flimsy to survive a week of play or so generic they're forgettable. The aotipol Building Blocks set sits in a sweet spot that explains its 4.7-star rating across 235 reviews. Here's the real breakdown.

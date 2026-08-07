@@ -1,4 +1,5 @@
 ---
+
 title: "YETI Tundra Replacement Latches (2-Pack)"
 seo_title: "YETI Tundra Replacement Latches (2-Pack) Review: Verdict "
 meta_description: "Our full yeti tundra replacement latches (2-pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004RDSOXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41RSX-Uz1mL._AC_US40_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you're here because a latch snapped, cracked, or just gave up after years of abuse. The question isn't *whether* you need a replacement — it's whether you should pay YETI's premium for OEM parts or gamble on a $12 knockoff. I've tested both, and here's the real story.

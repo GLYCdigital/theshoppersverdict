@@ -1,4 +1,5 @@
 ---
+
 title: "Big Foot Mycorrhizae - Double Your Plant Size, Easy to Use,"
 seo_title: "Big Foot Mycorrhizae Review: Does It Double Plant Size?"
 meta_description: "Honest Big Foot Mycorrhizae review: 4.6-star rated. Does it really double plant size? Real results, application tips, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MQTY2Z3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x3PAik34L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Contains 52 species of endo and ecto mycorrhizal fungi with 1,100 propagules per gram — far more diverse than typical single-strain products"
   - "Water-soluble granules mix easily and can be applied at transplant, as a drench, or via fertigation without clogging"
   - "Works across vegetables, fruit trees, ornamentals, and container plants — one bag covers most garden scenarios"
-cons:
+cons: 
   - "Must be applied directly to the root zone at planting — top-dressing established plants delivers minimal benefit"
   - "Results are invisible for 3-6 weeks; impatient gardeners may think it failed"
   - "The 1-pound bag covers roughly 100 plants, so larger gardens need multiple bags"
+
 ---
 
 **Does Big Foot Mycorrhizae actually double your plant size, or is that just garden marketing hype?**

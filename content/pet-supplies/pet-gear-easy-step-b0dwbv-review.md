@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Gear Easy Step"
 seo_title: "Pet Gear Easy Step Review: Verdict | TSV"
 meta_description: "Our full pet gear easy step review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWBVBMWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UhbiP7XEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has started hesitating before hopping onto the bed or couch, you know the feeling: that moment of panic when they pause, calculate, and brace. The Pet Gear Easy Step is designed specifically for that moment. With 225 Amazon ratings averaging 4.5 stars, it's one of the more popular stationary pet steps on the market. Here's the real story after digging through buyer feedback and the product specs.

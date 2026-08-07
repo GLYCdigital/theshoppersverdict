@@ -1,4 +1,5 @@
 ---
+
 title: "GE Grow Light LED Indoor Flood Light Bulb, Balanced Light Sp"
 seo_title: "GE Grow Light LED Bulb Review: Balanced Spectrum (2026)"
 meta_description: "Honest GE Grow Light LED flood bulb review: balanced spectrum, real plant results, heat output, and who should buy it. 4.6/5 rating, 229 reviews."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C9ZVS1V9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515oDy+zIxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Balanced spectrum produces natural-looking light — no harsh purple glow in living spaces"
   - "Runs cool enough for close placement (6-12 inches) without scorching leaves"
   - "Standard E26 base fits existing fixtures — no special equipment needed"
-cons:
+cons: 
   - "Not bright enough for fruiting plants or high-light species like succulents in winter"
   - "Heat sink adds length — may not fit shallow ceiling fixtures or enclosed lampshades"
+
 ---
 
 Let's be direct: most grow lights look like a rave in your living room. The GE Grow Light LED Indoor Flood Light Bulb with Balanced Light Spectrum is the rare exception that actually prioritizes how it looks in your home as much as how it performs for your plants.

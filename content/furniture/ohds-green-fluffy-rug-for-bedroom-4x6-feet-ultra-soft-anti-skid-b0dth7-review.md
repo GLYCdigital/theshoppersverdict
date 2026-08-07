@@ -1,4 +1,5 @@
 ---
+
 title: "OHDS Green Fluffy Rug for Bedroom 4x6 Feet - Ultra Soft & An"
 seo_title: "OHDS Green Fluffy Rug for Bedroom 4x6 Feet - Ultra Review"
 meta_description: "Our full ohds green fluffy rug for bedroom 4x6 feet - ultra soft & an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTH7NC55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817aPHzL-7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the OHDS Green Fluffy Rug the plush bedroom upgrade you're after — or just another shag that looks great in photos and disappoints in person? Let's dig into what 215 Amazon reviewers at 4.3 stars are actually saying.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Tail Stories Outdoor All Weather Dog Bed, Waterproof Dog Bed"
 seo_title: "Tail Stories Outdoor All Weather Dog Bed, Waterpro Review"
 meta_description: "Our full tail stories outdoor all weather dog bed, waterproof dog bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09QBR5222/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61voTh8K9TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

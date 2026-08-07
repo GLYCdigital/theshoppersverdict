@@ -1,4 +1,5 @@
 ---
+
 title: "KINGLAKE 100 Pcs 6 x10cm Plastic Plant T-Type Tags Nursery G"
 seo_title: "KINGLAKE 100 Pcs 6 x10cm Plastic Plant T-Type Tags Review"
 meta_description: "Our full kinglake 100 pcs 6 x10cm plastic plant t-type tags nursery g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081YXQB8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41nBd0pgCGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever squinted at a faded Sharpie label on a popsicle stick, you already know why organized gardeners buy these. The KINGLAKE 100 Pcs 6x10cm Plastic Plant T-Type Tags are the workhorse of nursery labeling — a simple, well-executed product that does exactly what it promises. With a 4.6-star average across 229 ratings, this is one of those rare garden accessories where buyers consistently agree: it just works.

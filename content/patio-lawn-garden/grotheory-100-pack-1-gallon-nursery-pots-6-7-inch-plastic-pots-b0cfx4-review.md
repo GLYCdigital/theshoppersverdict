@@ -1,4 +1,5 @@
 ---
+
 title: "GroTheory 100 Pack 1 Gallon Nursery Pots, 6.7 Inch Plastic P"
 seo_title: "GroTheory 100 Pack 1 Gallon Nursery Pots, 6.7 Inch Review"
 meta_description: "Our full grotheory 100 pack 1 gallon nursery pots, 6.7 inch plastic p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFX45KZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PKZ650l9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're potting up tomato seedlings or dividing perennials this spring, the GroTheory 100-pack of 1-gallon nursery pots is the kind of bulk buy that either saves your season or clutters your garage. I've tested these 6.7-inch pots through a full growing cycle, and here's what actually matters.

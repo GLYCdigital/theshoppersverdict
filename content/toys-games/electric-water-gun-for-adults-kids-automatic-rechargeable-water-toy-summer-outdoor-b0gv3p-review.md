@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Water Gun for Adults Kids, Automatic Rechargeable W"
 seo_title: "Electric Water Gun Review: Rechargeable Squirt Power for Summer 2026 inch"
 meta_description: "Our electric water gun review covers the rechargeable blaster's power, battery life, and build quality. See if it's worth buying for summer fun."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GV3PMD7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ukUfc-PqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Electric pump delivers continuous spray without manual pumping — kids love the 'no work, all play' factor"
   - "Rechargeable battery eliminates the need for constant battery replacements, a major cost saver over a summer"
   - "Adjustable nozzle lets you switch between a focused stream and a wide mist, useful for different game types"
-cons:
+cons: 
   - "Battery life is roughly 60-90 minutes of continuous use, which may not last through a long afternoon battle"
   - "Requires a bit of setup to fill and charge fully before first use — not a grab-and-go toy out of the box"
   - "Plastic body feels sturdy but not premium; aggressive play could stress the trigger mechanism over time"
+
 ---
 
 Let me be straight with you: most water guns are either cheap pump-action squirters that cramp your hand after ten minutes or expensive, gas-powered beasts that cost more than a decent dinner out. This electric water gun sits in that increasingly popular middle ground — an automatic, rechargeable blaster that promises sustained firepower without the manual labor. After digging through the specs and 215 Amazon ratings (4.3 stars, by the way), here's what you need to know.

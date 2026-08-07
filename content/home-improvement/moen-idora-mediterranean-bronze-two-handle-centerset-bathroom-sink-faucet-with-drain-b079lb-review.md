@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Idora Mediterranean Bronze Two-Handle Centerset Bathroo"
 seo_title: "Moen Idora Mediterranean Bronze Two-Handle Centers Review"
 meta_description: "Our full moen idora mediterranean bronze two-handle centerset bathroo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079LBZB6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UA2UQC1RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Moen Idora in Mediterranean Bronze is the rare faucet that looks custom-installed but costs like a stock part.** At 4.7 stars across 235 ratings, it's not just popular—it's consistent. But here's what the star rating doesn't tell you: whether this centerset actually fits your sink, and whether the bronze finish will hold up in a real bathroom.

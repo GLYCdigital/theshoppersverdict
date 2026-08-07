@@ -1,4 +1,5 @@
 ---
+
 title: "Party Supplies"
 seo_title: "Party Supplies Review: Verdict | TSV"
 meta_description: "Our full party supplies review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFQC53T4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91E5i3M8yAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about party supplies: most of them are flimsy junk that ends up in the trash before the cake is cut. This set, though, earns its 4.7-star rating with 235 reviews for a reason — it's genuinely better than the average Amazon party pack.

@@ -1,4 +1,5 @@
 ---
+
 title: "Eurolux Die Cast Stainless Steel Electric Citrus Juicer Sque"
 seo_title: "Eurolux Die Cast Stainless Steel Citrus Juicer Review (2026)"
 meta_description: "Honest Eurolux die cast stainless steel electric citrus juicer review: build quality, real performance, pulp control, and who should buy it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0888RNWXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712kejUtubL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die cast stainless steel body feels substantial and won't flex or crack like plastic juicers"
   - "Dual-direction reamer rotation extracts noticeably more juice with less fruit left behind"
   - "Simple 2-switch operation (ON/pulse) gives you control over pulp texture"
-cons:
+cons: 
   - "No pulp control adjustment — you get what the strainer gives you"
   - "Smaller feed area means larger oranges need halving before juicing"
   - "Motor runs loud under load; not a quiet morning appliance"
+
 ---
 
 **If you're tired of plastic juicers that crack after six months or slide across the counter under pressure, the Eurolux Die Cast Stainless Steel Electric Citrus Juicer is worth a serious look.** This isn't a novelty appliance — it's built like a piece of countertop equipment, and it shows.

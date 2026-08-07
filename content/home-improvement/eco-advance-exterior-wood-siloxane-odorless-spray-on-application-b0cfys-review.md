@@ -1,4 +1,5 @@
 ---
+
 title: "Eco Advance Exterior Wood Siloxane Odorless Spray-On Applica"
 seo_title: "Eco Advance Exterior Wood Siloxane Review: Spray-On Protection"
 meta_description: "Eco Advance Exterior Wood Siloxane spray-on review: odorless water repellent for decks, fences & siding. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFYSTRDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814KGowz3AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spray-on application reaches deep into grain and lap joints without brushing — covers roughly 200 sq ft per gallon on smooth wood"
   - "Siloxane chemistry penetrates rather than films, so it won't peel, crack, or yellow like surface sealers"
   - "Completely odorless during and after application — usable in tight spaces and near windows without fumes"
-cons:
+cons: 
   - "No UV protection — wood will still gray over time; this is a water repellent, not a stain or finish"
   - "Needs dry wood (below 20% moisture) and 24 hours of dry weather after application or it won't bond properly"
+
 ---
 
 **The 4.5-star product with 225 ratings that quietly solves the most annoying problem in exterior wood care: waterproofing without the toxic stink.**

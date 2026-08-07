@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO Queen Size Metal Platform Bed Frame with Headboard,No"
 seo_title: "VECELO Queen Size Metal Platform Bed Frame with He Review"
 meta_description: "Our full vecelo queen size metal platform bed frame with headboard,no review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3DGJH4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LoO7sOJrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need to spend $600 on a bed frame to get a solid, good-looking platform that holds your mattress without a box spring. The VECELO Queen Size Metal Platform Bed Frame with Headboard proves that point — and it's been doing it well enough to hold a 4.5-star average across 225 Amazon ratings. But before you click buy, there are a few things you need to know.

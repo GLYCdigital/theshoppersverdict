@@ -1,4 +1,5 @@
 ---
+
 title: "BEILUNER Luxury 24K Rollerball Pen"
 seo_title: "BEILUNER 24K Rollerball Pen Review: Worth It? (2026)"
 meta_description: "BEILUNER Luxury 24K Rollerball Pen review: Is this gold-plated writer worth $40? Tested for grip, ink flow, and durability. Honest pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BB678J6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q5fZsJw8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Substantial 42-gram weight with brass core gives a confident, balanced feel — no cheap plastic rattle"
   - "24K gold-plated accents resist scratching; reviewers report still looking pristine after 6+ months of daily use"
   - "Rollerball ink flows immediately with zero skipping, even on smooth-coated paper"
-cons:
+cons: 
   - "Standard rollerball refills run out fast with heavy use — plan to buy replacements (roughly every 3-4 weeks of daily journaling)"
   - "Brushed metal grip is polished, not knurled — sweaty hands will find it slippery after extended writing sessions"
   - "Presentation box feels premium but adds bulk; not a pocket-friendly pen for on-the-go carry"
+
 ---
 
 Most "luxury" pens under $50 are just plastic bodies with a gold sticker slapped on. The BEILUNER Luxury 24K Rollerball Pen isn't that. Pick it up and the first thing you notice is the heft — 42 grams of brass core beneath a polished 24K gold-plated finish. It's a genuinely substantial writing instrument that feels like it costs twice its actual price.

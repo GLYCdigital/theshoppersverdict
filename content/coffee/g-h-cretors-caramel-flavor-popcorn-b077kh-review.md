@@ -1,4 +1,5 @@
 ---
+
 title: "G.H. Cretors, Caramel Flavor Popcorn"
 seo_title: "G.H. Cretors Caramel Popcorn Review: Real Butter, Real Crunch"
 meta_description: "Our G.H. Cretors caramel popcorn review covers the 4.3-star snack's real butter flavor, Chicago-style crunch, and whether the pricey tin is worth it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B077KH56ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812korE3q8L._SL1500_.jpg"
-pros:
+pros: 
   - "Real butter and vanilla create a rich, authentic caramel flavor — not artificial-tasting like most grocery store brands"
   - "Heavy-duty reusable tin keeps popcorn fresh for weeks and doubles as storage; nice gifting presentation"
   - "Consistent crunch throughout — no stale, chewy kernels hiding at the bottom of the container"
-cons:
+cons: 
   - "Premium price per ounce compared to standard caramel corn; you're paying for the tin and the brand name"
   - "Clusters can be sticky and messy — caramel coats aggressively, so have napkins ready"
   - "Some batches arrive with more loose caramel pieces than coated popcorn, reducing the snackable yield"
+
 ---
 
 The first thing you notice about G.H. Cretors caramel popcorn is that it doesn't taste like the stuff in the red-and-white bags at the gas station. This is the real deal — the company traces back to Charles Cretors, who basically invented the commercial popcorn machine in 1885, and that heritage shows up in the flavor. As one Amazon reviewer put it: *"Tastes like the caramel corn from the county fair, not the artificial stuff from the grocery store."*

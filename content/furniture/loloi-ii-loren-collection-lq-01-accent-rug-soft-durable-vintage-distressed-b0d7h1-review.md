@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi II Loren Collection LQ-01 Accent Rug, Soft, Durable, V"
 seo_title: "Loloi II Loren Collection LQ-01 Accent Rug, Soft,  Review"
 meta_description: "Our full loloi ii loren collection lq-01 accent rug, soft, durable, v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7H1TP5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through endless beige rugs that all look like they came from the same factory, the Loloi II Loren Collection LQ-01 will stop your thumb. This is the vintage-distressed look done right — a low-profile accent rug that brings that lived-in, layered aesthetic without the $800 price tag of a genuine antique. But is it actually soft? Does it shed? And will it survive a household with pets? I dug through 220 ratings, buyer photos, and the spec sheet to give you the real story.

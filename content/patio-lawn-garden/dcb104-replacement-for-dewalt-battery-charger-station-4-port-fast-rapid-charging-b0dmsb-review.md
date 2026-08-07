@@ -1,5 +1,6 @@
 ---
 
+
 title: "DCB104 Replacement for Dewalt Battery Charger Station, 4 Por"
 seo_title: "DCB104 Dewalt Charger Station Review: 4-Port Fast Charging"
 meta_description: "DCB104 replacement Dewalt charger station review: 4-port rapid charging, real-world performance, pros, cons, and who should buy it. Honest verdict included."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMSBXGML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jRjjosB1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four independent charging bays let you top off multiple 20V/60V batteries simultaneously without juggling single-bay chargers"
   - "Compact footprint (roughly 8x6x4 inches) fits on crowded workbench shelves or in a truck tool box"
   - "LED status indicators on each bay give clear at-a-glance charge progress — no guessing which battery is done"
-cons:
+cons: 
   - "Not an official DeWalt product — some users report slightly slower charge times on 60V FlexVolt batteries versus the genuine DCB104 inch"
   - "No AC adapter included in some listings; verify you're getting the power cord before ordering"
   - "Build quality uses denser plastic that feels sturdy but adds weight — about 2.5 lbs, heavier than the OEM unit"
+
 
 ---
 

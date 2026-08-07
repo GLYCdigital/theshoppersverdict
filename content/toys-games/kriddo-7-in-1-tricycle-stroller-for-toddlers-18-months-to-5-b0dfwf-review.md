@@ -1,4 +1,5 @@
 ---
+
 title: "KRIDDO 7-in-1 Tricycle Stroller for Toddlers 18 Months to 5 "
 seo_title: "KRIDDO 7-in-1 Tricycle Stroller for Toddlers 18 Mo Review"
 meta_description: "Our full kriddo 7-in-1 tricycle stroller for toddlers 18 months to 5  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFWF7Y9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kW+4i8hHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced separate balance bikes, tricycles, and strollers for the toddler years, you already know the damage adds up fast. The KRIDDO 7-in-1 Tricycle Stroller tries to collapse that entire progression into one product — and based on 229 ratings averaging 4.6 stars, it mostly succeeds. But "mostly" carries some caveats worth understanding before you click buy.

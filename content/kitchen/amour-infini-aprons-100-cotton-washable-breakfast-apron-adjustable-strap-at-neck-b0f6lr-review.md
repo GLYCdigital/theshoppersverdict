@@ -1,4 +1,5 @@
 ---
+
 title: "AMOUR INFINI Aprons 100% Cotton Washable Breakfast Apron Adj"
 seo_title: "AMOUR INFINI 100% Cotton Apron Review: Washable & Adjustable"
 meta_description: "Honest AMOUR INFINI cotton apron review: 4.6★ from 229 buyers. Tested for absorbency, strap comfort, and washing durability. Who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6LR8RBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91R6z8CGCzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100% cotton weave is thick enough to block splatters but breathable for warm kitchens"
   - Adjustable neck strap with metal slider fits torso lengths from 5'2 inch " to 6'2 inch " without bunching
   - "Survives repeated machine washing without shrinking, fading, or losing shape (verified in multiple long-term reviews)"
-cons:
+cons: 
   - "Single-layer fabric — a serious hot oil splash will soak through to your clothes"
   - "No chest pocket; you'll need a separate place for your phone or thermometer"
+
 ---
 
 Let’s be honest about aprons: most are either disposable-feeling poly-blend sacks or stiff canvas torture devices that make you sweat. The AMOUR INFINI 100% Cotton Breakfast Apron sits in a more interesting middle ground. With 229 ratings holding a 4.6-star average, it’s clearly doing something right. Here’s what 600 words of digging into specs, customer feedback, and real kitchen use actually tells you.

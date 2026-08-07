@@ -1,4 +1,5 @@
 ---
+
 title: "LEONLITE COB LED Security Light, Motion Sensor Flood Lights "
 seo_title: "LEONLITE COB LED Security Light, Motion Sensor Flo Review"
 meta_description: "Our full leonlite cob led security light, motion sensor flood lights  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08DJ7FGFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mgTTBv8NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEONLITE COB Security Light: Three Heads, Zero Excuses**

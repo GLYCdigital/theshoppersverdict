@@ -1,4 +1,5 @@
 ---
+
 title: "AURORA CAR Pressure Washer Gun with Replacement Wand Extensi"
 seo_title: "AURORA CAR Pressure Washer Gun Review: Worth It? (2026)"
 meta_description: "Honest AURORA CAR pressure washer gun review: build quality, spray performance, and if the replacement wand extension delivers. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVVJQCWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aqW0IipHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Replacement wand extension adds reach without forcing a full gun purchase"
   - "Solid metal quick-connect fittings survive repeated swaps without leaking"
   - "Ergonomic trigger design reduces hand fatigue during long driveway washes"
-cons:
+cons: 
   - "No pressure adjustment dial — you're locked to whatever your washer outputs"
   - "Plastic main body feels less premium than all-metal alternatives at similar price"
+
 ---
 
 If your pressure washer's original gun just gave out, or you're tired of the cheap wand that came with your unit, the AURORA CAR Pressure Washer Gun with Replacement Wand Extension is the kind of replacement part that either saves you money or wastes it. After digging through the specs, the 220 ratings, and the 4.4-star average, here's the real story.

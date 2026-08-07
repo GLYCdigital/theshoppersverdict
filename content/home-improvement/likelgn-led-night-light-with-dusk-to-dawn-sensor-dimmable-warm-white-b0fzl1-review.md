@@ -1,4 +1,5 @@
 ---
+
 title: "Likelgn LED Night Light with Dusk-to-Dawn Sensor, Dimmable W"
 seo_title: "Likelgn LED Night Light with Dusk-to-Dawn Sensor,  Review"
 meta_description: "Our full likelgn led night light with dusk-to-dawn sensor, dimmable w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FZL1XWG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dKveZCQIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most night lights are either blindingly bright or so dim they're pointless. The Likelgn LED Night Light with its dusk-to-dawn sensor and three-stage dimming actually sits in that rare sweet spot — bright enough to navigate a hallway, gentle enough to not wreck your night vision. Here's the honest breakdown after putting it through real-world use.

@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools 2100-5 Electrician Scissors for Heavy-Duty Cutti"
 seo_title: "Klein Tools 2100-5 Electrician Scissors for Heavy- Review"
 meta_description: "Our full klein tools 2100-5 electrician scissors for heavy-duty cutti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CS42555H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fJ+6U-4YL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to strip Romex with a utility knife and nearly sliced through the conductors underneath, you already know why a purpose-built pair of electrician scissors earns its place in the pouch. The Klein Tools 2100-5 takes that concept and adds the kind of overbuilt toughness the brand is known for. At 4.8 stars across 240 ratings, it's not just another pair of snips — it's the pair that journeymen and DIYers alike seem to settle on after trying cheaper alternatives.

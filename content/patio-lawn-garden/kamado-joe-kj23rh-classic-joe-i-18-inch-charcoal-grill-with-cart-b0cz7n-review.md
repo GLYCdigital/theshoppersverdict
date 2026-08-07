@@ -1,4 +1,5 @@
 ---
+
 title: "Kamado Joe KJ23RH Classic Joe I 18-inch Charcoal Grill with "
 seo_title: "Kamado Joe KJ23RH Classic Joe I 18-inch Charcoal G Review"
 meta_description: "Our full kamado joe kj23rh classic joe i 18-inch charcoal grill with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZ7NBN5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c16Nf024L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kamado Joe Classic Joe I isn't just another ceramic grill — it's the grill that makes your neighbor with a gas Weber suddenly very quiet at cookouts. After 225 Amazon ratings averaging 4.5 stars, the consensus is clear: this is the kamado that delivers 90% of the flagship performance at roughly half the price. But it's not perfect, and you should know exactly what you're getting before you commit to 160 pounds of ceramic in your backyard.

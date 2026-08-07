@@ -1,4 +1,5 @@
 ---
+
 title: "Lennox X6675 (2-Pack) Carbon Clean 20 x 25 x 5 Inch MERV 16 "
 seo_title: "Lennox X6675 (2-Pack) Carbon Clean 20 x 25 x 5 Inc Review"
 meta_description: "Our full lennox x6675 (2-pack) carbon clean 20 x 25 x 5 inch merv 16  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00E5ENFOK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RABRFjq2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Lennox X6675: When You Actually Need Hospital-Grade Air

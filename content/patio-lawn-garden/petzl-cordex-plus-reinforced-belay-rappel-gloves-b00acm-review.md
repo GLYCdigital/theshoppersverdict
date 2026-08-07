@@ -1,4 +1,5 @@
 ---
+
 title: "PETZL CORDEX Plus Reinforced Belay/Rappel Gloves"
 seo_title: "PETZL CORDEX Plus Reinforced Belay/Rappel Gloves Review: "
 meta_description: "Our full petzl cordex plus reinforced belay/rappel gloves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00ACM4I7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KyY8FH-RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever done a long rappel on a gritty rope with cheap gloves, you know the feeling: blisters forming, fabric pilling, and the quiet realization that your hands are about to be raw for a week. The PETZL CORDEX Plus exists to eliminate that problem entirely.

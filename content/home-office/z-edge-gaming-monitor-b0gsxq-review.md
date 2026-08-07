@@ -1,4 +1,5 @@
 ---
+
 title: "Z-Edge Gaming Monitor"
 seo_title: "Z-Edge Gaming Monitor Review: Verdict | TSV"
 meta_description: "Our full z-edge gaming monitor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSXQKPM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QPn5RnEYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the chase: a 27-inch 165Hz monitor for $109.99 shouldn't exist. Yet here's the Z-Edge, sitting at a 4.4-star average across 220 ratings, and it mostly delivers. But "mostly" is doing heavy lifting — this isn't the monitor for everyone.

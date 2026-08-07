@@ -1,4 +1,5 @@
 ---
+
 title: "Izzo Ultra Lite Golf Stand Bag"
 seo_title: "Izzo Ultra Lite Golf Stand Bag Review: Verdict | TSV"
 meta_description: "Our full izzo ultra lite golf stand bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT58D9LL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K4+fTXWHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most golf stand bags at this price force a compromise: go light, and you lose storage. Load up on pockets, and you're hauling 6 pounds around the course. The Izzo Ultra Lite tries to thread that needle, and after digging through 225 ratings and the spec sheet, here's the real story.

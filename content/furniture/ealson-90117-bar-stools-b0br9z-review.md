@@ -1,4 +1,5 @@
 ---
+
 title: "EALSON 90117 Bar Stools"
 seo_title: "EALSON 90117 Bar Stools Review: Worth It in 2026?"
 meta_description: "Honest EALSON 90117 bar stools review: build quality, comfort, real buyer feedback. Is this 4.6-star set worth your money? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BR9ZKJCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41SWlA3lskL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid rubberwood legs that don't wobble, even on uneven kitchen floors"
   - "Generous 16.5-inch seat depth and 3-inch thick cushioned seat pad — genuinely comfortable for 2+ hour sits"
   - "Easy 15-minute assembly with all tools included and pre-drilled holes that align properly"
-cons:
+cons: 
   - "Fabric is light-colored and shows stains quickly; you'll want a fabric protector spray from day one"
   - "No adjustable height — measure your counter carefully (29.5-inch seat height only)"
+
 ---
 
 Let's be direct: most bar stools under $150 a pair are wobbly, uncomfortable, or both. The EALSON 90117 set avoids that trap, and with a 4.6-star average across 229 ratings, buyers clearly agree. But there are a few things you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Covergirl Trublend Skin Enhancer"
 seo_title: "Covergirl Trublend Skin Enhancer Review: Worth It? (2026)"
 meta_description: "Honest Covergirl Trublend Skin Enhancer review: coverage, wear time, shade range, and who should buy it. Real buyer feedback at 4.6/5 stars."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4M37FKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Rrc9R54xL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable light-to-medium coverage that layers without caking or settling into fine lines"
   - "Dropper applicator delivers precise, mess-free doses — no wasted product"
   - "Skincare-infused formula with hyaluronic acid and vitamin B3 that wears comfortably for 8+ hours"
-cons:
+cons: 
   - "Shade range skews light-to-medium; deeper tones are limited compared to Fenty or NARS"
   - "Dewy finish can look greasy on very oily skin unless set with powder"
   - "No SPF — you still need a separate sunscreen underneath"
+
 ---
 
 **The $12 serum-foundation hybrid that punches above its price point**

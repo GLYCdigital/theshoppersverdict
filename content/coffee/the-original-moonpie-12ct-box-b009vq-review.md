@@ -1,4 +1,5 @@
 ---
+
 title: "The Original MoonPie 12ct. box"
 seo_title: "The Original MoonPie 12ct. box Review: Verdict | TSV"
 meta_description: "Our full the original moonpie 12ct. box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B009VQULJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZoooKXIUL._SX342_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Original MoonPie 12ct. box** isn't trying to be artisanal, organic, or Instagram-worthy. It's a 108-year-old snack that's sold over a billion units, and if you're browsing Amazon for a coffee companion that's more substantial than a biscotti, this box deserves a look.

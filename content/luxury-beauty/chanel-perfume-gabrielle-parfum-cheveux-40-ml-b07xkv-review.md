@@ -1,4 +1,5 @@
 ---
+
 title: "CHANEL Perfume Gabrielle Parfum Cheveux (40 ml)"
 seo_title: "CHANEL Gabrielle Parfum Cheveux Review: Luxe Hair Mist"
 meta_description: "CHANEL Gabrielle Parfum Cheveux review: Does this luxury hair mist deliver lasting scent and shine? Honest verdict on performance, value, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07XKV55JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41mq6-S9bQL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Silky, non-sticky formula that conditions hair while delivering the signature Gabrielle scent — no greasy residue or stiff texture"
   - "Long-lasting fragrance projection that outperforms standard hair mists, with the warm floral notes still detectable 6-8 hours post-application"
   - "Elegant 40ml travel-friendly glass bottle with the classic CHANEL minimalism — a premium vanity piece that justifies its luxury positioning"
-cons:
+cons: 
   - "The 40ml size is genuinely small for the price point — regular users will burn through it in 6-8 weeks of daily application"
   - "Scent profile leans heavily on the white florals (ylang-ylang, jasmine) with less of the citrus opening found in the original Eau de Parfum"
+
 ---
 
 # CHANEL Gabrielle Parfum Cheveux Review: Is This $100+ Hair Mist Worth It?

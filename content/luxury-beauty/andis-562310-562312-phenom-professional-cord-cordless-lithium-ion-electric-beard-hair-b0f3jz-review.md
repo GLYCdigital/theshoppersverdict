@@ -1,4 +1,5 @@
 ---
+
 title: "Andis 562310 | 562312 Phenom Professional Cord/Cordless Lith"
 seo_title: "Andis Phenom Cordless Trimmer Review: Pro-Grade Power (2026)"
 meta_description: "Andis Phenom 562310/562312 review: cordless lithium-ion power, 40+ min runtime, precision blades. Is this pro-grade trimmer worth $150+? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3JZ7YVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oGVxGeksL._SL1500_.jpg"
-pros:
+pros: 
   - "True cordless freedom with 40+ minutes of runtime per charge, plus corded option for marathon sessions"
   - "Carbon steel blades hold an edge noticeably longer than standard stainless—expect 2-3x the sharpness lifespan"
   - "Magnetic attachment system snaps on securely with zero wobble during tight detail work"
-cons:
+cons: 
   - "Battery is non-replaceable—when it dies in 2-3 years, you're buying a new unit"
   - "No adjustable taper lever on the body, so fine-tuning requires swapping guards (or buying the separate T-blade version)"
   - "Noticeably heavier than competitors like the Wahl Magic Clip—some barbers complain of hand fatigue on long cuts"
+
 ---
 
 The Andis Phenom isn't a trimmer you buy on a whim. At this price point, it's an investment in your grooming routine—and Andis knows it. With 220 Amazon ratings averaging 4.4 stars, the Phenom has earned a reputation as the serious barber's workhorse. But is it the right tool for *your* bathroom counter? Let's break down what you're actually getting.

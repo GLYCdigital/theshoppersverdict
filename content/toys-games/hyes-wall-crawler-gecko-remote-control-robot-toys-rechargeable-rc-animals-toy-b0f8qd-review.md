@@ -1,4 +1,5 @@
 ---
+
 title: "HYES Wall Crawler Gecko, Remote Control Robot Toys, Recharge"
 seo_title: "HYES Wall Crawler Gecko RC Toy Review: Climbing Robot"
 meta_description: "HYES Wall Crawler Gecko RC robot review: Does this climbing toy deliver? Real pros, cons, and verdict on this 4.5-star rechargeable toy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8QDQHPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oSDLOv-dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine wall-climbing suction mechanics work on glass, tile, and smooth painted surfaces — not a gimmick"
   - "Rechargeable battery with USB charging, so you're not burning through AAs every weekend"
   - "Intuitive 2.4GHz remote with responsive controls that kids 6+ can master quickly"
-cons:
+cons: 
   - "Only climbs smooth, non-porous surfaces — drywall and textured walls will frustrate you"
   - "Suction cups pick up dust and hair quickly, requiring regular cleaning to maintain grip"
   - "Battery life runs 30–40 minutes per charge, which feels short during extended play sessions"
+
 ---
 
 Let's be honest: most novelty RC toys are fun for about 15 minutes before they end up under the couch. The HYES Wall Crawler Gecko is different — it actually does the thing it promises. This little lizard scampers up vertical surfaces like it's showing off, and after testing it against glass windows, tile backsplashes, and a glossy cabinet door, I understand why it holds a 4.5-star average across 225 ratings.

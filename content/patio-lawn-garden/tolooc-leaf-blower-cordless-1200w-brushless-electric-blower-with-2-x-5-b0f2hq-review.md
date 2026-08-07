@@ -1,4 +1,5 @@
 ---
+
 title: "TOLOOC Leaf Blower Cordless,1200W Brushless Electric Blower "
 seo_title: "TOLOOC Leaf Blower Cordless,1200W Brushless Electr Review"
 meta_description: "Our full tolooc leaf blower cordless,1200w brushless electric blower  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F2HQ3Q13/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gPoUlyK7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cordless leaf blowers: most are either weak enough to embarrass you in front of the neighbors, or they chew through batteries faster than a toddler with a juice box. The TOLOOC 1200W sits in a rare middle ground — it's actually got some punch, and the two-battery bundle means you won't be tethered to an outlet. But it's not without quirks.

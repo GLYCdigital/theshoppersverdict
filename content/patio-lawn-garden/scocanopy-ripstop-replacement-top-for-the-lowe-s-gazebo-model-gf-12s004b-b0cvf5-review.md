@@ -1,4 +1,5 @@
 ---
+
 title: "SCOCANOPY Ripstop Replacement Top for The Lowe's Gazebo Mode"
 seo_title: "SCOCANOPY Ripstop Replacement Top for The Lowe's G Review"
 meta_description: "Our full scocanopy ripstop replacement top for the lowe's gazebo mode review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CVF5572Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lfetb3d9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SCOCANOPY Ripstop Replacement Top for Lowe's Gazebo: A $73 Fix That Beats Buying New

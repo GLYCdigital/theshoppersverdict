@@ -1,4 +1,5 @@
 ---
+
 title: "Bed Head Rough Volume Digital"
 seo_title: "Bed Head Rough Volume Digital Review: Worth It? (2026)"
 meta_description: "Honest Bed Head Rough Volume Digital review: Does this spray deliver real volume? We break down performance, scent, and value for fine hair."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFBM29YB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f34BKSPVL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine, lasting root lift on fine-to-medium hair without stiff, crunchy texture"
   - "Heat-activated formula means you can rework it through the day without flaking"
   - "Generous 10.6 oz can outlasts most competing texturizing sprays at similar price"
-cons:
+cons: 
   - "Strong cosmetic-fragrance scent that lingers for hours — migraine sufferers take note"
   - "Can leave a visible white residue on darker hair if applied too close to the scalp"
   - "Does almost nothing for coarse, thick, or naturally heavy hair types"
+
 ---
 
 Let’s be honest: the word “digital” in the name is pure marketing. There’s no microchip in this can, no Bluetooth pairing happening with your hair. What you’re actually getting from Bed Head Rough Volume is a heat-activated texturizing spray designed to give fine-to-medium hair a gritty, voluminous lift that survives humidity and a full workday.

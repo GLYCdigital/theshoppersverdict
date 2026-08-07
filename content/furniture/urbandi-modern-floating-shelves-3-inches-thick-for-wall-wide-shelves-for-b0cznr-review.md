@@ -1,4 +1,5 @@
 ---
+
 title: "Urbandi Modern Floating Shelves 3 Inches Thick for Wall, Wid"
 seo_title: "Urbandi Modern Floating Shelves 3 Inches Thick for Review"
 meta_description: "Our full urbandi modern floating shelves 3 inches thick for wall, wid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZNRW5ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DSzeDds7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Urbandi Modern Floating Shelves: The 3-Inch Shelf That Actually Looks Built-In

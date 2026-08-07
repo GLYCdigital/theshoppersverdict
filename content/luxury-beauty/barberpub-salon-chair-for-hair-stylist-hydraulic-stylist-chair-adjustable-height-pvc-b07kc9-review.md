@@ -1,4 +1,5 @@
 ---
+
 title: "BarberPub Salon Chair for Hair Stylist, Hydraulic Stylist Ch"
 seo_title: "BarberPub Salon Chair Review: Hydraulic Stylist Chair Worth It?"
 meta_description: "Read our honest BarberPub salon chair review. We analyze the hydraulic lift, PVC build, and comfort for stylists. See if this 3.9-star chair fits your shop."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B07KC9HGTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613V9t3bR0L._SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty hydraulic lift handles up to 300 lbs with smooth, controlled descent"
   - "Full-grain PVC upholstery is easy to wipe down and resists hair dye stains"
   - "360-degree swivel plus locking casters make client positioning effortless"
-cons:
+cons: 
   - "Seat cushion runs firm — clients over 200 lbs report discomfort after 20 minutes"
   - "Assembly instructions are sparse; the gas lift cylinder can be tricky to seat properly"
   - "PVC surface shows scuffs quickly despite being durable; black shows every mark"
+
 ---
 
 Let me save you some scrolling: the BarberPub Salon Chair is the rare budget hydraulic chair that doesn't feel like it'll collapse mid-cut. But at 3.9 stars across 195 ratings, it's not the flawless workhorse some listings suggest. Here's what you actually need to know before you drop money on this thing.

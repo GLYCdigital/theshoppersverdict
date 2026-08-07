@@ -1,4 +1,5 @@
 ---
+
 title: "Fetason Gold Wall Sconce"
 seo_title: "Fetason Gold Wall Sconce Review: Worth It? (2026)"
 meta_description: "Honest Fetason Gold Wall Sconce review: build quality, brightness, installation tips, and whether this 4.4-star fixture deserves your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1QNCSN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fK88aY4ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True brushed gold finish that doesn't look plastic or cheap — matches higher-end fixtures at triple the price"
   - "Warm 3000K light output flatters skin tones and creates genuine ambient glow, not harsh task lighting"
   - "Easy 10-minute install with included mounting hardware and clear instructions, even for DIY novices"
-cons:
+cons: 
   - "Hardwired only — no plug-in option, so you'll need existing wiring or an electrician if retrofitting"
   - "Shade is fixed at a 90-degree angle, so you can't aim light up or down to suit wall height"
+
 ---
 
 **Fetason Gold Wall Sconce Review: Does This Budget Fixture Deliver Designer Looks?**

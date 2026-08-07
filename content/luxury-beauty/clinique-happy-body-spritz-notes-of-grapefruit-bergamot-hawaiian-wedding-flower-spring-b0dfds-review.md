@@ -1,4 +1,5 @@
 ---
+
 title: "Clinique Happy Body Spritz | Notes of Grapefruit, Bergamot,"
 seo_title: "Clinique Happy Body Spritz Review: Light, Bright Citrus (2026)"
 meta_description: "Clinique Happy Body Spritz review: grapefruit & bergamot scent, lasting power, value. See why 229 shoppers rate it 4.6 stars."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFDSRCHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rZMZiFKhL._SL1500_.jpg"
-pros:
+pros: 
   - "Featherlight formula that layers cleanly under perfume without competing or turning cloying"
   - "Genuinely unisex citrus profile — grapefruit and bergamot read fresh, not sweet or powdery"
   - "Generous spritz coverage; two sprays cover both arms and chest with no sticky residue"
-cons:
+cons: 
   - "Longevity is modest — expect 2–3 hours before reapplication, not all-day wear"
   - "Alcohol-forward opening can read sharp for the first minute before the citrus settles"
+
 ---
 
 Some fragrances scream. This one hums. The Clinique Happy Body Spritz is the fragrance equivalent of a cold glass of grapefruit juice on a warm morning — bright, tart, and quietly refreshing. With 229 ratings holding a 4.6-star average, it's clearly doing something right. The question is whether a body spritz at this price point earns a spot in your rotation. Let's break it down.

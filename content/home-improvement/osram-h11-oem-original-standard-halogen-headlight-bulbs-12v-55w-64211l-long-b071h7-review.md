@@ -1,4 +1,5 @@
 ---
+
 title: "OSRAM H11 OEM Original Standard Halogen Headlight Bulbs 12V "
 seo_title: "OSRAM H11 OEM Original Standard Halogen Headlight  Review"
 meta_description: "Our full osram h11 oem original standard halogen headlight bulbs 12v  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B071H7CRZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i5pW-IJJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: if you’re shopping for headlight bulbs and see “OEM Original” in the title, you’re probably expecting one of two things — a perfect factory replacement or a marketing scam. The OSRAM H11 OEM Original Standard Halogen 12V (55W, item 64211L) is the former. It’s the exact bulb many dealerships pull from the parts bin, just without the dealer markup.

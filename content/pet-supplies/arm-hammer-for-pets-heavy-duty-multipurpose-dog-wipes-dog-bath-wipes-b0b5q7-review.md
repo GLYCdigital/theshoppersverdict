@@ -1,4 +1,5 @@
 ---
+
 title: "Arm & Hammer for Pets Heavy Duty Multipurpose Dog Wipes - Do"
 seo_title: "Arm & Hammer Heavy Duty Dog Wipes Review (2026): Do They Work?"
 meta_description: "Honest Arm & Hammer Heavy Duty Dog Wipes review: scent, durability, and real-world cleaning power for muddy paws and dirty coats. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5Q7WGXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619FAdhzm5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured scrubbing side tackles dried mud and caked-on grime that standard wipes smear around"
   - "Baking soda formula actually neutralizes odors instead of just masking them with perfume"
   - "Thick, grab-resistant material holds up to active dogs without tearing mid-wipe"
-cons:
+cons: 
   - "Heavy-duty texture can feel rough on sensitive skin — patch test on short-haired breeds first"
   - "Not flushable despite the 'multipurpose' label; clogs plumbing if you try to toss them"
+
 ---
 
 If you've ever wrestled a 70-pound Lab after a rainy hike, you know the drill: muddy paws on white carpets, wet-dog smell radiating through the living room, and bath time turning into a full-contact sport. Arm & Hammer's Heavy Duty Multipurpose Dog Wipes claim to be the middle ground between a full bath and those flimsy baby wipes people grab in desperation. After digging through 229 ratings and the product specs, here's the real story.

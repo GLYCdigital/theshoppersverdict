@@ -1,4 +1,5 @@
 ---
+
 title: "Schkner RGB Gaming Mouse Pad with Wireless Charging 15W, Lar"
 seo_title: "Schkner RGB Gaming Mouse Pad with Wireless Chargin Review"
 meta_description: "Our full schkner rgb gaming mouse pad with wireless charging 15w, lar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CFKRRQDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jRGsVzl8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: a mouse pad that charges your phone sounds like a gimmick until you actually use one. The Schkner RGB Gaming Mouse Pad with Wireless Charging 15W is the rare hybrid that mostly delivers on its promise — but it's not without quirks you should know before you click buy.

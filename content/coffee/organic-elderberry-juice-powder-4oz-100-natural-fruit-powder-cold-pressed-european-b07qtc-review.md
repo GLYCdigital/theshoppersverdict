@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Elderberry Juice Powder, 4oz | 100% Natural Fruit Po"
 seo_title: "Organic Elderberry Juice Powder, 4oz | 100% Natura Review"
 meta_description: "Our full organic elderberry juice powder, 4oz | 100% natural fruit po review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QTCDMBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zgqD9KZ3L._SL1366_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever choked down a syrupy, sugar-loaded elderberry gummy and wondered if you were actually getting anything medicinal, this powder is the antidote. This 4oz bag of 100% organic elderberry juice powder cuts out the middleman — no fillers, no preservatives, just concentrated European elderberry (Sambucus nigra) that's been cold-pressed and dried into a fine, dark purple powder.

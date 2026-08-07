@@ -1,4 +1,5 @@
 ---
+
 title: "Giro Isode MIPS"
 seo_title: "Giro Isode MIPS Review: Verdict | TSV"
 meta_description: "Our full giro isode mips review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW46CNCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IX56UbUnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about helmet shopping: you can spend $250 on aerodynamic wizardry or $30 on a foam shell with straps. The Giro Isode MIPS sits right in that uncomfortable middle — and honestly, it's the one most riders should actually buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Apres Gel-X® Square Box of Nail Tips | 280 Gel-X Tips, Soft"
 seo_title: "Apres Gel-X Square Nail Tips Review: 280 Soft Tips Worth It?"
 meta_description: "Honest Apres Gel-X Square nail tips review: 280 soft tips, durability, sizing, and real buyer feedback. Is this luxury nail kit worth $40+? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKVWF2JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ue2cc4d6L._SL1500_.jpg"
-pros:
+pros: 
   - "280 tips means 10+ full sets — actual value if you do nails regularly"
   - "Box organizes 10 sizes in labeled compartments, so you're not digging through a bag"
   - "Soft gel formula files down without the cracking that cheap tips develop"
-cons:
+cons: 
   - "Square shape runs narrow — wide nail beds need to size up or skip this shape"
   - "At roughly $40 for the box, it's 3x the cost of drugstore alternatives"
+
 ---
 
 If you've been doing your own gel extensions for a while, you already know the name Apres Gel-X. It's the system that basically created the soft gel extension category. What you might not know is whether the 280-piece Square box is worth the premium over the starter kits or generic tips. Short answer: if square is your shape, yes — but let me explain exactly why before you drop the money.

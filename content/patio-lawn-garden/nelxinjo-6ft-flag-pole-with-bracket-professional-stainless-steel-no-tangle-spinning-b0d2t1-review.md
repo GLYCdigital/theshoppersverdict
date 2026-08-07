@@ -1,4 +1,5 @@
 ---
+
 title: "NELXINJO 6FT Flag Pole with Bracket,Professional Stainless S"
 seo_title: "NELXINJO 6FT Flag Pole with Bracket,Professional S Review"
 meta_description: "Our full nelxinjo 6ft flag pole with bracket,professional stainless s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2T1NFPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613oitd4OpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

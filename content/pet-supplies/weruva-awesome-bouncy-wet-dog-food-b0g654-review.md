@@ -1,4 +1,5 @@
 ---
+
 title: "Weruva Awesome Bouncy Wet Dog Food"
 seo_title: "Weruva Awesome Bouncy Wet Dog Food Review: Verdict | TSV"
 meta_description: "Our full weruva awesome bouncy wet dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G654GC3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zrRfFc-lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns up their nose at the same brown glop you've been scooping for years, Weruva Awesome Bouncy deserves a hard look. This isn't your standard grocery-store wet food, and the 4.5-star average across 225 ratings suggests plenty of picky pups agree.

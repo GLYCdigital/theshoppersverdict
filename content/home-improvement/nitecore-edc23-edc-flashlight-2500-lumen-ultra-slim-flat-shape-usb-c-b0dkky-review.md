@@ -1,4 +1,5 @@
 ---
+
 title: "Nitecore EDC23 EDC Flashlight, 2500 Lumen Ultra-Slim Flat Sh"
 seo_title: "Nitecore EDC23 EDC Flashlight, 2500 Lumen Ultra-Sl Review"
 meta_description: "Our full nitecore edc23 edc flashlight, 2500 lumen ultra-slim flat sh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKKY877Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712x8q97OLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nitecore EDC23 is the kind of flashlight that makes you rethink what "pocketable" means. At 0.65 inches thick and barely 3 inches long, this is a light that disappears into a jeans fifth pocket — until you need 2500 lumens to flood a room. That's the headline, and it's not marketing fluff. But as with any ultra-compact powerhouse, there are tradeoffs you need to know about before you hit "buy."

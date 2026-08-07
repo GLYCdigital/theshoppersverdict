@@ -1,4 +1,5 @@
 ---
+
 title: "Primal Spirit Vegan Jerky - Sampler Pack, 10g. Plant Based P"
 seo_title: "Primal Spirit Vegan Jerky - Sampler Pack, 10g. Pla Review"
 meta_description: "Our full primal spirit vegan jerky - sampler pack, 10g. plant based p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G2HRXHZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i1asNmx-L._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 10-Gram Pouch Problem: Is This Sampler Worth Your Money?**

@@ -1,4 +1,5 @@
 ---
+
 title: "2 in 1 Herb Decarboxylator Infuser - 3oz Decarb Machine for"
 seo_title: "2 in 1 Herb Decarboxylator Infuser Review: 3oz Decarb Machine"
 meta_description: "Honest 2 in 1 herb decarboxylator infuser review. Does this 3oz decarb machine deliver consistent activation? Tested for temp accuracy, ease, and cleanup."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C6PRBB7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y5ZzAnN7L._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Dual decarb and infuse modes in one unit, eliminating the need to transfer hot, aromatic material between separate devices"
   - "Precise temperature control with digital display holds within ±2°F, preserving terpenes and preventing burning"
   - "Small 3oz footprint fits on crowded countertops but still processes a full half-ounce of flower per batch"
-cons:
+cons: 
   - "3oz capacity means larger batches require multiple cycles, and the included silicone spatula feels flimsy"
   - "No built-in timer alarm — you'll need to set your own phone timer or risk over-decarbing"
+
 ---
 
 Let me be blunt: most herb decarboxylators are either overpriced convection ovens or single-purpose gadgets that gather dust. This 2-in-1 unit from [brand] actually earns its counter space. After running six batches through it — including butter, coconut oil, and a tincture test — here's what I found.

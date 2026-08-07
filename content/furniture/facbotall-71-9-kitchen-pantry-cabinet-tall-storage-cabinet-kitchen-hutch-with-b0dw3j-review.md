@@ -1,4 +1,5 @@
 ---
+
 title: "FACBOTALL 71.9 inch  Kitchen Pantry Cabinet, Tall Storage Cabinet"
 seo_title: "FACBOTALL 71.9 inch  Pantry Cabinet Review: Tall Storage Worth It?"
 meta_description: "FACBOTALL 71.9 inch  tall pantry cabinet review: 4.4-star storage with adjustable shelves, steel frame, and hidden cons. Is it worth your kitchen?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DW3JSBJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QQs8nt-dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four adjustable shelves accommodate everything from cereal boxes to a stand mixer"
   - "Steel frame and wood composite build feels sturdier than most sub-$200 pantries"
   - Compact footprint (just 15.7 inch " deep) fits narrow kitchen gaps and tight corners
-cons:
+cons: 
   - "Assembly takes 60–90 minutes and requires two people; hardware alignment can be finicky"
   - "Back panel is thin cardboard — mount it to a wall if you have kids or pets"
+
 ---
 
 If your kitchen storage situation is held together by crumbling cardboard boxes and precariously stacked canned goods, the FACBOTALL 71.9" Tall Pantry Cabinet is the kind of purchase that makes you wonder why you waited so long. At 71.9 inches tall, 31.5 inches wide, and just 15.7 inches deep, this is a vertical storage solution that punches well above its price point.

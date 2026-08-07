@@ -1,23 +1,25 @@
 ---
+
 title: "HOGOKIDS City Passenger Airplane Building Set with LED Light"
 seo_title: "HOGOKIDS Airplane Building Set Review: LED Light, 901 PCS"
 meta_description: "Honest HOGOKIDS City Passenger Airplane review: 901-piece build with LED light, sturdy design, and real buyer feedback. Is it worth it? Find out."
 slug: "hogokids-city-passenger-airplane-building-set-with-led-light-901-pcs-plane-b0cqsf-review"
 image_alt: "HOGOKIDS City Passenger Airplane building set with glowing LED light in cockpit and passenger windows"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQSFV7CB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jRLWEMT1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Working LED light module illuminates the cockpit and passenger cabin — a rare feature at this price point"  
   - "901 pieces deliver a genuinely challenging, multi-hour build for teens and adults, not just kids"  
   - "Sturdy interlocking bricks hold together well during play; no fragile panels that pop off mid-lift"  
-cons:  
+cons: 
   - "LED light requires 2 AAA batteries (not included) — an extra $4–6 you'll need to budget for"  
   - "Some sticker alignment is fiddly; the decals for the tail section need steady hands to avoid bubbles"
+
 ---
 
 **Is this the LEGO-compatible airplane set that actually delivers?**  

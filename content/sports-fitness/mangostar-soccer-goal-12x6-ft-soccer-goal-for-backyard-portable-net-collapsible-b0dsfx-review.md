@@ -1,4 +1,5 @@
 ---
+
 title: "MangoStar Soccer Goal, 12X6 FT Soccer Goal for Backyard Port"
 seo_title: "MangoStar Soccer Goal, 12X6 FT Soccer Goal for Bac Review"
 meta_description: "Our full mangostar soccer goal, 12x6 ft soccer goal for backyard port review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSFX8H1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EeVxF7oSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those flimsy pop-up goals that fold themselves in half the first time a ball hits the crossbar. The MangoStar 12x6 isn't that. At 4.4 stars across 220 ratings, this is the rare backyard goal that actually respects the physics of a well-struck shot.

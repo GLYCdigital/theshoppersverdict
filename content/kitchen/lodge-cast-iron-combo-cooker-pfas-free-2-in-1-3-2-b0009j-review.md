@@ -1,4 +1,5 @@
 ---
+
 title: "Lodge Cast Iron Combo Cooker - PFAS-Free 2-in-1 3.2 Quart De"
 seo_title: "Lodge Cast Iron Combo Cooker - PFAS-Free 2-in-1 3. Review"
 meta_description: "Our full lodge cast iron combo cooker - pfas-free 2-in-1 3.2 quart de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0009JKG9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WKOjVyH-L._AC_SL1177_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Two pans, one footprint — and zero PFAS to worry about

@@ -1,4 +1,5 @@
 ---
+
 title: "2PCS LARGE STONE DRYING MATS FOR KITCHEN COUNTER"
 seo_title: "2PCS Large Stone Drying Mats Review: Worth It? (2026)"
 meta_description: "Honest 2PCS Large Stone Drying Mats review: absorbent, fast-drying, but heavy. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FBS8GBL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U0en1pR3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diatomaceous earth construction absorbs water quickly — dishes come out spot-free without towel streaks"
   - "Two large mats (roughly 18x14 inches each) cover serious counter space for big families or heavy cooks"
   - "Self-drying surface resists mildew and odors, unlike fabric mats that stay damp for hours"
-cons:
+cons: 
   - "Genuinely heavy — each mat weighs over 3 pounds, so occasional repositioning feels like a workout"
   - "Hard surface can scratch delicate crystal or thin-walled ceramics if you slide dishes instead of setting them down"
   - "Pricier than microfiber alternatives, and the 4.3-star average reflects a few breakage-in-shipping complaints"
+
 ---
 
 **Are stone drying mats actually worth the hype, or are you just paying for a heavy slab of rock?**

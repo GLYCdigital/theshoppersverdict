@@ -1,4 +1,5 @@
 ---
+
 title: "SUSTEAS Glass Pitcher with Lid"
 seo_title: "SUSTEAS Glass Pitcher with Lid Review: Verdict | TSV"
 meta_description: "Our full susteas glass pitcher with lid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BCL7MNNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VG9ZALQCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap glass pitcher shatter the moment you pour hot coffee into it, you know the value of borosilicate glass. The SUSTEAS Glass Pitcher with Lid isn't just another pretty carafe — it's built to survive real kitchen abuse. With 225 ratings averaging 4.5 stars, it's clearly earning its place on countertops. But is it the right pitcher for *your* routine? Here's the honest breakdown.

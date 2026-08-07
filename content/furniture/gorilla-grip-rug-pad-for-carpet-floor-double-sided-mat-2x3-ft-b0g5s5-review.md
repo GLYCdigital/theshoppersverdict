@@ -1,4 +1,5 @@
 ---
+
 title: "GORILLA GRIP Rug Pad for Carpet Floor, Double Sided Mat 2x3 inch"
 seo_title: "GORILLA GRIP Rug Pad Review: 2x3 Carpet Gripper"
 meta_description: "Honest GORILLA GRIP Rug Pad 2x3 review: Does the double-sided carpet gripper hold up? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0G5S5CHKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V83MCVe9L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Grips firmly to carpeted floors without adhesive residue — no sticky mess when you reposition"
   - "At 2x3 feet, it's the right size for entryway mats, kitchen runners, or desk chair areas"
   - "Dual-sided texture means the rug stays put and the pad itself doesn't slide on the carpet beneath"
-cons:
+cons: 
   - "3.5-star average with 175 ratings suggests durability issues — some buyers report edge curling within weeks"
   - "Thin enough that heavy furniture legs can leave permanent compression marks in the pad"
+
 ---
 
 ## The GORILLA GRIP Rug Pad: A Solid Grip, But Is It Built to Last?

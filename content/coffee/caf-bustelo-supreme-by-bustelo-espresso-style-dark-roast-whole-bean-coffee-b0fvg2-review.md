@@ -1,4 +1,5 @@
 ---
+
 title: "Café Bustelo Supreme by Bustelo Espresso Style Dark Roast W"
 seo_title: "Café Bustelo Supreme Review: Bold Espresso-Style Dark Roast"
 meta_description: "Honest Café Bustelo Supreme review: bold espresso-style dark roast whole beans. See if this 4.6-star coffee fits your taste and brew method."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVG2WL9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Jyej7tQxL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, smoky dark roast with a heavy body that holds up to milk and sugar without losing character"
   - "Consistent grind from the whole beans — works well in both espresso machines and standard drip brewers"
   - "Strong caffeine kick and bold flavor that satisfies former espresso drinkers looking for a cheaper daily driver"
-cons:
+cons: 
   - "Roast is dark enough that some notes of the bean origin get buried — this is a straightforward, no-nuance cup"
   - "Oily beans can leave residue in grinders and require more frequent cleaning than lighter roasts"
   - "Bag is not resealable — you'll want to transfer beans to an airtight container or they'll go stale fast"
+
 ---
 
 Café Bustelo has been the go-to for strong, Cuban-style coffee for generations. The Supreme line takes that classic dark roast and packages it as whole beans — a move that signals they're serious about competing with specialty roasters. After running several bags through my espresso machine and drip brewer, here's the honest breakdown.

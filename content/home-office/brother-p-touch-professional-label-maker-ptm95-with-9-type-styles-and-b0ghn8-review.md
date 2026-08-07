@@ -1,4 +1,5 @@
 ---
+
 title: "Brother P-Touch Professional Label Maker PTM95 with 9 Type S"
 seo_title: "Brother P-Touch PTM95 Review: 9 Font Styles & Pro Labeling"
 meta_description: "Brother P-Touch PTM95 review: 9 font styles, QWERTY keyboard, 180dpi clarity. See real pros, cons, and who should buy this label maker."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHN8DZHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dfyaj2B8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full QWERTY keyboard makes typing labels feel natural — no hunting through multi-tap menus like cheaper units"
   - "9 built-in font styles and 14 frame designs give real customization without needing a computer or app"
   - "Runs on 6 AAA batteries (included) so it's fully portable for job sites, warehouses, or home offices"
-cons:
+cons: 
   - "180dpi print resolution is noticeably less crisp than the 360dpi P-Touch models — fine for bins, soft for tiny barcodes"
   - "No rechargeable battery option or AC adapter included — you'll buy AAA batteries regularly with heavy use"
   - "LCD screen shows only 15 characters at a time, making longer labels a scroll-and-review chore"
+
 ---
 
 If you've ever squinted at a faded Sharpie label on a storage bin and thought "there's got to be something better," the Brother P-Touch PTM95 is the upgrade you're looking for. With 225 Amazon ratings averaging 4.5 stars, this isn't a flashy flagship — it's the reliable workhorse that gets the job done without requiring you to pair an app or wrestle with a touchscreen.

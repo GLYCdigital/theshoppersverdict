@@ -1,4 +1,5 @@
 ---
+
 title: "LG 27UN850-W Ultrafine Computer Monitor 27-Inch UHD 4K UHD 2"
 seo_title: "LG 27UN850-W Ultrafine Computer Monitor 27-Inch UH Review"
 meta_description: "Our full lg 27un850-w ultrafine computer monitor 27-inch uhd 4k uhd 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08CVTTNN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aVOYqLTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're shopping for a 4K monitor and you've landed on the LG 27UN850-W. With a 4.4-star average across 220 ratings, it's clearly doing something right. But is it the right display for your desk? Let's cut through the marketing and look at what this Ultrafine monitor actually delivers.

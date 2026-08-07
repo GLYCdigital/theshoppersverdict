@@ -1,4 +1,5 @@
 ---
+
 title: "Lightning Speed Eyelash Extension Glue - Stacy Lash"
 seo_title: "Lightning Speed Eyelash Extension Glue - Stacy Las Review"
 meta_description: "Our full lightning speed eyelash extension glue - stacy lash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09H7GMPJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Z2lExxIL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a lash artist on Instagram make a full set look effortless, the secret isn't just their technique — it's the glue. And Stacy Lash's Lightning Speed formula is one of the reasons those artists can work so fast. This is a professional-grade adhesive engineered for one thing: getting lashes on quickly and keeping them there. But speed comes with tradeoffs, and you need to know exactly what you're signing up for before you buy.

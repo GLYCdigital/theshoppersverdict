@@ -1,4 +1,5 @@
 ---
+
 title: "POKEMON TCG: SCARLET & VIOLET: PRISMATIC EVOLUTIONS MINI TIN"
 seo_title: "POKEMON TCG: SCARLET & VIOLET: PRISMATIC EVOLUTION Review"
 meta_description: "Our full pokemon tcg: scarlet & violet: prismatic evolutions mini tin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DP5J1T8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nYceoUPgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're chasing the $200+ Umbreon ex from Prismatic Evolutions, this mini tin is a lottery ticket with extra steps. But that's not necessarily a bad thing — it depends on what you actually want.

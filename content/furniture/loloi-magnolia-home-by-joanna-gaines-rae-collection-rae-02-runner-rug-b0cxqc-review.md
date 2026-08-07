@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Magnolia Home by Joanna Gaines Rae Collection RAE-02 R"
 seo_title: "Loloi Magnolia Home by Joanna Gaines Rae Collectio Review"
 meta_description: "Our full loloi magnolia home by joanna gaines rae collection rae-02 r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CXQCB5X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wYzMf84oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.6-star elephant in the room: is this Joanna Gaines runner worth the hype, or just another celebrity-brand rug?**

@@ -1,5 +1,6 @@
 ---
 
+
 title: "FAVSH Folding Dining Chairs Set of 2, Upholstered Kitchen Ch"
 seo_title: "FAVSH Folding Dining Chairs Review (Set of 2) | Honest 2026 inch"
 meta_description: "FAVSH folding dining chairs set of 2 review: padded upholstery, sturdy steel frame, space-saving design. Real pros, cons & verdict for small spaces."
@@ -12,14 +13,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F69B3LV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hHbPvG8OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine padded foam seat and backrest—not the paper-thin upholstery you see on most folding chairs under $100 inch"
   - "Folds flat to roughly 6 inches deep, so two chairs tuck into a closet or behind a door when guests leave"
   - "Steel cross-bracing and rubber floor caps keep the chair stable on tile and hardwood without scratching"
-cons:
+cons: 
   - "At roughly 13.5 pounds per chair, they're heavier than typical folding chairs—fine for storage, not ideal for frequent carrying"
   - "The faux leather upholstery can feel sticky against bare legs in hot, humid weather"
   - "No armrests, so they're more suited to short meals than two-hour dinner parties"
+
 
 ---
 

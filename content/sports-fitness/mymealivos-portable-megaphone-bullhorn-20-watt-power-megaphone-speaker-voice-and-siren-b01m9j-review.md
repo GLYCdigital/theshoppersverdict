@@ -1,4 +1,5 @@
 ---
+
 title: "MyMealivos Portable Megaphone Bullhorn 20 Watt Power Megapho"
 seo_title: "MyMealivos Portable Megaphone Bullhorn 20 Watt Pow Review"
 meta_description: "Our full mymealivos portable megaphone bullhorn 20 watt power megapho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01M9JB6E1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Zq87wisL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a megaphone actually is: a plastic cone with a speaker and an amplifier that you point at people and yell through. The MyMealivos 20W bullhorn does exactly that, and for most coaches, referees, and event organizers, it does it well enough to justify the price.

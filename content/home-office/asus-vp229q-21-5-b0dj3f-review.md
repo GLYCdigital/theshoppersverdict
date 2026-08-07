@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS VP229Q 21.5″"
 seo_title: "ASUS VP229Q Review: 21.5″ IPS Monitor for Office"
 meta_description: "ASUS VP229Q 21.5″ monitor review: crisp IPS panel, slim bezels, VESA mountable. See real pros, cons, and who should buy this budget office display."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ3FDB3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/images/I/71qMcpksvGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full HD 1920x1080 IPS panel with 178° viewing angles — colors hold up off-axis"
   - "75Hz refresh rate over DisplayPort/HDMI, a step up from standard 60Hz office panels"
   - "VESA 100x100 mountable with a slim-profile stand that doesn't eat desk space"
-cons:
+cons: 
   - "Only 250 nits brightness — struggles in very bright, sunlit rooms"
   - "No USB hub or built-in speakers worth using; audio output is tinny"
   - "Stand offers tilt-only adjustment — no height or swivel without a VESA arm"
+
 ---
 
 Let's be blunt: most sub-$150 office monitors are a lottery of washed-out colors and flimsy plastic. The ASUS VP229Q doesn't play that game. This 21.5-inch IPS panel has been sitting at a solid 4.5 stars across 225 Amazon ratings, and after digging through the specs and buyer feedback, I get why.

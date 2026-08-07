@@ -1,4 +1,5 @@
 ---
+
 title: "Ouyulong Battery Operated Wall Sconces, Wireless Rechargeabl"
 seo_title: "Ouyulong Battery Operated Wall Sconces, Wireless R Review"
 meta_description: "Our full ouyulong battery operated wall sconces, wireless rechargeabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHYZ3K2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pPDjNawkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a dark hallway or rental apartment wall and thought "I want sconces but I can't drill," this is the product that finally delivers on that promise. The Ouyulong Battery Operated Wall Sconces aren't trying to be something they're not — they're a practical, no-wire lighting solution with a genuinely impressive battery. But "practical" doesn't mean "perfect," and there are a few quirks worth knowing before you hand over your money.

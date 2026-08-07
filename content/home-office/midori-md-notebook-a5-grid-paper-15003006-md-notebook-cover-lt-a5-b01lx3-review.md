@@ -1,4 +1,5 @@
 ---
+
 title: "Midori MD Notebook - A5 Grid Paper (15003006) + MD notebook "
 seo_title: "Midori MD Notebook - A5 Grid Paper (15003006) + MD Review"
 meta_description: "Our full midori md notebook - a5 grid paper (15003006) + md notebook  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LX3YLGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61enBXMc-QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever written on cheap copy paper with a fountain pen, you know the pain of bleed-through and feathering. The Midori MD Notebook A5 Grid is the exact opposite of that experience. This is a Japanese notebook that's been around since the 1950s, and it's earned a cult following for one reason: the paper. It's not flashy, it's not clever, and it doesn't have any gimmicks. It just works, beautifully.

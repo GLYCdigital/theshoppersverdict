@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Tinsel 12 Pcs Clip in Hair Tinsel Kit for Girls 22 Inch"
 seo_title: "Hair Tinsel 12 Pcs Clip in Hair Tinsel Kit for Gir Review"
 meta_description: "Our full hair tinsel 12 pcs clip in hair tinsel kit for girls 22 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8BMZ648/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Y3ZCtnFBL._SL1280_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Hair Tinsel 12 Pcs Clip in Hair Tinsel Kit for Girls 22 Inch: Shimmer That Doesn't Destroy Your Strands**

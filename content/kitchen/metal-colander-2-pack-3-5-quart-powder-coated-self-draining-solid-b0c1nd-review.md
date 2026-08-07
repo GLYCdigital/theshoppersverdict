@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Colander 2 Pack, 3.5 Quart Powder Coated Self-draining"
 seo_title: "Metal Colander 2 Pack, 3.5 Quart Powder Coated Sel Review"
 meta_description: "Our full metal colander 2 pack, 3.5 quart powder coated self-draining review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1NDV3MX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fYTPS-0IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled with a flimsy colander that tips over mid-drain, sending hot pasta water across your counter, you know the value of a solid one. This 2-pack from the self-draining line isn’t fancy, but it’s built to do one job well — and it does it without the drama. At 3.5 quarts each, these are the workhorses of the kitchen gadget drawer.

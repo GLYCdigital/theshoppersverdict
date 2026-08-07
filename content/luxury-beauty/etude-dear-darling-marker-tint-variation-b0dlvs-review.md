@@ -1,4 +1,5 @@
 ---
+
 title: "ETUDE Dear Darling Marker Tint Variation"
 seo_title: "ETUDE Dear Darling Marker Tint Review: Honest 2026 Verdict"
 meta_description: "ETUDE Dear Darling Marker Tint Variation review: vibrant color payoff, but patchy application and drying formula. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DLVSXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y8NGbWSL._SL1000_.jpg"
-pros:
+pros: 
   - "Marker-tip applicator gives precise, controlled lines for gradient lip looks without a separate brush"
   - "One swipe delivers intense, buildable pigment that layers well from sheer wash to full color"
   - "Stains last 6+ hours through drinks and light meals with minimal touch-up needed"
-cons:
+cons: 
   - "Formula dries quickly and can become patchy on dry or chapped lips — exfoliation is non-negotiable"
   - "Limited shade range in the Variation line; deeper skin tones may find shades too sheer for full opacity"
+
 ---
 
 If you've ever tried to nail that Korean gradient lip with a regular bullet lipstick and failed, the ETUDE Dear Darling Marker Tint is designed for exactly your struggle. This cult-favorite K-beauty product swaps the traditional doe-foot or bullet applicator for a felt-tip marker that lets you draw color precisely where you want it — no smudging, no bleeding, no guesswork.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo ThinkCentre M75q Gen 5 Tiny Desktop with AMD Ryzen 7 "
 seo_title: "Lenovo ThinkCentre M75q Gen 5 Tiny Desktop with AM Review"
 meta_description: "Our full lenovo thinkcentre m75q gen 5 tiny desktop with amd ryzen 7  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0DTB5KSK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sybWYT9TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lenovo ThinkCentre M75q Gen 5 Tiny Desktop with AMD Ryzen 7

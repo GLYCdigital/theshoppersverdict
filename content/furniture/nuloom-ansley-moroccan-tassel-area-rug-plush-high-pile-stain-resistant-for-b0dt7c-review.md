@@ -1,4 +1,5 @@
 ---
+
 title: "nuLOOM Ansley Moroccan Tassel Area Rug, Plush High Pile, Sta"
 seo_title: "nuLOOM Ansley Moroccan Tassel Area Rug, Plush High Review"
 meta_description: "Our full nuloom ansley moroccan tassel area rug, plush high pile, sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT7C8WJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91OCiL0zjrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "plush" rug online and ended up with something that feels like a flattened bathmat, the nuLOOM Ansley Moroccan Tassel Area Rug is the corrective experience you've been waiting for. This is one of those rare sub-$200 rugs that delivers on the "high pile" promise without requiring you to squint at the listing photos and hope.

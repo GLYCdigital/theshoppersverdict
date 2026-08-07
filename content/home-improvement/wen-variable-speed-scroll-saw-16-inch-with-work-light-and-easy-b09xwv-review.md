@@ -1,4 +1,5 @@
 ---
+
 title: "WEN Variable Speed Scroll Saw, 16-Inch with Work Light and E"
 seo_title: "WEN Variable Speed Scroll Saw, 16-Inch with Work L Review"
 meta_description: "Our full wen variable speed scroll saw, 16-inch with work light and e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XWV7FJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B4M984VWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a scroll saw, you already know the two names that dominate this aisle: Delta and WEN. The WEN 16-inch variable speed model sits at a price point that undercuts the Delta by a wide margin, but does "budget-friendly" here actually mean "frustrating"? After digging through 229 verified buyer experiences and the spec sheet, here's the real story.

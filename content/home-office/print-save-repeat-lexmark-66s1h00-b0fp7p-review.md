@@ -1,4 +1,5 @@
 ---
+
 title: "Print.Save.Repeat. Lexmark 66S1H00"
 seo_title: "Print.Save.Repeat. Lexmark 66S1H00 Review: Verdict | TSV"
 meta_description: "Our full print.save.repeat. lexmark 66s1h00 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FP7P8FHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sxsm8LRXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The Cartridge That Keeps Your Office Humming

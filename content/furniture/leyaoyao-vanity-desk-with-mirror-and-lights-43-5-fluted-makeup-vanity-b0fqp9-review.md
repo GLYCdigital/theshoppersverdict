@@ -1,4 +1,5 @@
 ---
+
 title: "LEYAOYAO Vanity Desk with Mirror and Lights, 43.5'' Fluted M"
 seo_title: "LEYAOYAO Vanity Desk with Mirror and Lights, 43.5' Review"
 meta_description: "Our full leyaoyao vanity desk with mirror and lights, 43.5'' fluted m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FQP9XWKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cy2O37DqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEYAOYAO 43.5'' Fluted Vanity Desk: A Solid Mid-Tier Pick With One Glaring Flaw**

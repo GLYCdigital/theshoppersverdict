@@ -1,4 +1,5 @@
 ---
+
 title: "Got2b Metallics Permanent Hair Color, M71 Metallics Silver"
 seo_title: "Got2b Metallics Permanent Hair Color, M71 Metallic Review"
 meta_description: "Our full got2b metallics permanent hair color, m71 metallics silver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GP78RBCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DuNQN5CEL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The Silver Standard or a Silicon Gamble?**

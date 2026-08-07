@@ -1,4 +1,5 @@
 ---
+
 title: "LLparty 4 in 1 Rocking Horse for Toddlers 1-3 Years Old, Bab"
 seo_title: "LLparty 4 in 1 Rocking Horse for Toddlers 1-3 Year Review"
 meta_description: "Our full llparty 4 in 1 rocking horse for toddlers 1-3 years old, bab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3B8MVRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71px02iyubL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **This rocking horse actually grows with your kid — but only if you're willing to work a screwdriver.** The LLparty 4-in-1 is one of those toys that tries to be four things at once. The surprise? It mostly succeeds.

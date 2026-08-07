@@ -1,4 +1,5 @@
 ---
+
 title: "Nut Harvest Variety Pack"
 seo_title: "Nut Harvest Variety Pack Review: Verdict | TSV"
 meta_description: "Our full nut harvest variety pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CWRS5D7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZwU-CU5EL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this variety pack a smart buy for coffee lovers, or just a grab bag of gadgets you'll never use? I tested it for two weeks to find out.**

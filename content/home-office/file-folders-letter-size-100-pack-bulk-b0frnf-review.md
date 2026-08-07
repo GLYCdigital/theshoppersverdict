@@ -1,4 +1,5 @@
 ---
+
 title: "File Folders Letter Size - 100-Pack Bulk"
 seo_title: "File Folders Letter Size - 100-Pack Bulk Review: Verdict "
 meta_description: "Our full file folders letter size - 100-pack bulk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRNF68QY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iVKrMZBKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a file folder is about as exciting as a stapler. But when you need 100 of them for a new office, a tax season purge, or finally organizing that drawer of shame, the difference between a good folder and a frustrating one is real. This 100-pack from Amazon's standard office lineup has earned a 4.7-star average from 235 ratings, and after digging into the specs and buyer feedback, I can tell you exactly why — and where it falls short.

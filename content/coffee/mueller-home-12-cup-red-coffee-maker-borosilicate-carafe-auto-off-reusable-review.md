@@ -1,16 +1,17 @@
 ---
+
 title: "MUELLER HOME 12-Cup Red Coffee Maker | Borosilicate Carafe, Auto-Off, Reusable Filter, Anti-Drip, Keep-Warm Function"
 seo_title: "MUELLER HOME 12-Cup Review: Verdict (4.2/5) | TSV"
 meta_description: "Just solid 9,033+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "mueller-home-12-cup-red-coffee-maker-borosilicate-carafe-auto-off-reusable-review"
 image_alt: "MUELLER HOME 12-Cup Red Coffee Maker | Borosilicate Carafe, Auto-Off, Reusable Filter, Anti-Drip, Keep-Warm Function"
-keywords:
+keywords: 
   - "mueller home 12cup review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the MUELLER HOME 12-Cup Red?"
     answer: "Just solid performance That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the MUELLER HOME 12-Cup Red?"
@@ -23,12 +24,13 @@ review_count: 9033
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJRN24YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vu01K-dvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Just solid performance."
   - "Intuitively, it seems the tank could overflow."
   - "Even the scoop they provided with it is the perfect size for me."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be honest: the $40 drip coffee maker aisle is crowded with generic white boxes that all look like they came from the same factory. The MUELLER HOME 12-Cup Red Coffee Maker tries to stand out with a bold color, a borosilicate carafe, and a reusable filter — and for the most part, it earns its 4.2-star rating across 9,033 reviews. But it's not without quirks, and you should know them before you click buy.

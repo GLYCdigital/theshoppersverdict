@@ -1,4 +1,5 @@
 ---
+
 title: "TALFIT 15-55 Gallon Drum Pump, 10 GPM Flow, Manual Rotary Ba"
 seo_title: "TALFIT 15-55 Gallon Drum Pump, 10 GPM Flow, Manual Review"
 meta_description: "Our full talfit 15-55 gallon drum pump, 10 gpm flow, manual rotary ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DNT3KMMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616r3i3VQfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're transferring 55 gallons of liquid by hand, you've got two options: siphon and wait, or crank and go. The TALFIT drum pump promises the latter at a claimed 10 gallons per minute — and in practice, it actually delivers that flow rate. That's the headline. The question is whether the build quality holds up to repeated use, because at 195 Amazon ratings averaging 3.9 stars, buyers are split between "this thing is a workhorse" and "it died after three months."

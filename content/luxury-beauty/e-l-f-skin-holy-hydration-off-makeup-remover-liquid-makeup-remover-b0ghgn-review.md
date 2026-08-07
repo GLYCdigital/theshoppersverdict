@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. SKIN Holy Hydration Off Makeup Remover, Liquid Makeup"
 seo_title: "e.l.f. Holy Hydration Makeup Remover Review (2026)"
 meta_description: "Honest e.l.f. SKIN Holy Hydration Off Makeup Remover review: Does this drugstore cleanser really dissolve waterproof makeup without stripping skin? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHGNW8FW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CqWBNvrzL._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves waterproof mascara and long-wear lipstick in one gentle pass — no harsh scrubbing needed"
   - "Hyaluronic acid and peptide-infused formula leaves skin feeling hydrated, not tight or greasy"
   - "Fragrance-free and ophthalmologist-tested, making it safe for sensitive eyes and contact lens wearers"
-cons:
+cons: 
   - "Requires a cotton pad and a few extra seconds of pressing to fully break down stubborn waterproof formulas"
   - "Slightly thicker consistency than traditional micellar waters, which may feel heavy for oily skin types"
+
 ---
 
 **The $12 Makeup Remover That Outperforms Department Store Brands**

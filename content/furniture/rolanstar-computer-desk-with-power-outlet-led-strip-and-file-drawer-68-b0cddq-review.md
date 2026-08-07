@@ -1,4 +1,5 @@
 ---
+
 title: "Rolanstar Computer Desk with Power Outlet & LED Strip and Fi"
 seo_title: "Rolanstar Computer Desk with Power Outlet & LED St Review"
 meta_description: "Our full rolanstar computer desk with power outlet & led strip and fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CDDQ78N7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UeZ17MbWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Rolanstar Computer Desk with Power Outlet & LED Strip and File Drawer: A 4.5-Star Workhorse With One Big Caveat

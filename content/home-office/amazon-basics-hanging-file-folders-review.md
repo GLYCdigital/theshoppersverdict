@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Hanging File Folders"
 seo_title: "Amazon Basics Hanging File Folders Review: Worth It? (2026)"
 meta_description: "Amazon Basics Hanging File Folders review: 4.7/5 from 126K+ ratings. Are they sturdy enough? We tested durability, value, and real-world use."
@@ -11,13 +12,14 @@ review_count: 126055
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yc24w0wJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced 11-point tabs that don't tear or peel, even with daily use"
   - "Full-length metal rods with welded hooks — no sagging or bending in standard drawers"
   - "Roughly $0.26 per folder at this price point, roughly half the cost of name brands"
-cons:
+cons: 
   - "Paper stock is thinner than Pendaflex or Smead — feels flimsy when you first handle it"
   - "Hooks can be slightly tight on some drawer rails, requiring a firm push to seat properly"
+
 ---
 
 Let's be honest: nobody gets excited about filing folders. But when 126,000+ buyers rate something 4.7 out of 5 stars, it's worth a look. The Amazon Basics Hanging File Folders are the default choice for home offices, small businesses, and anyone who's ever stared at a drawer full of crumpled papers. Here's the real story.

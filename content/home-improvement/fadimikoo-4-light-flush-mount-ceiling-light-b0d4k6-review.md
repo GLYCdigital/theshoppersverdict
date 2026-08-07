@@ -1,4 +1,5 @@
 ---
+
 title: "FadimiKoo 4-Light Flush Mount Ceiling Light"
 seo_title: "FadimiKoo 4-Light Flush Mount Review: Worth It? (2026)"
 meta_description: "Honest FadimiKoo 4-light flush mount ceiling light review: build quality, brightness, installation, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4K6YC4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F-6C3s+GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4-light output with individual E26 sockets — replaceable bulbs, not sealed LEDs"
   - "Low-profile 4.5-inch height fits tight hallways and 8-foot ceilings without feeling cramped"
   - "Matte black finish hides fingerprints and resists yellowing better than white alternatives"
-cons:
+cons: 
   - "Bulbs not included — factor in $12–20 extra for decent LEDs"
   - "Glass shade installation requires patience; alignment tabs can be finicky on first install"
+
 ---
 
 If your hallway currently has a boob light — you know, that dated, frumpy glass dome that every builder installed in the 90s — the FadimiKoo 4-Light Flush Mount is the grown-up replacement you're looking for. At 4.7 stars across 235 ratings, it's clearly hitting the mark for most buyers. But is it right for your space? Here's what you need to know before clicking buy.

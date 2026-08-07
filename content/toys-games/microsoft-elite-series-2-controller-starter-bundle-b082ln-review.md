@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Elite Series 2 Controller - Starter Bundle"
 seo_title: "Microsoft Elite Series 2 Controller - Starter Bund Review"
 meta_description: "Our full microsoft elite series 2 controller - starter bundle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B082LNJ927/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514euvnzNcL._SL1004_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Microsoft Elite Series 2 is the controller you *want* to love — and for most people, it delivers. But at a street price hovering near $180, this Starter Bundle has to be more than just "the best-feeling gamepad on the market." It has to be worth the premium over a $60 standard controller. After digging through 210 Amazon ratings (4.2 stars) and the recurring themes in buyer feedback, here's the real story.

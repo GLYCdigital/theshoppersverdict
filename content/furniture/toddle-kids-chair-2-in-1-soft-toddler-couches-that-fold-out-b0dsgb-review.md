@@ -1,4 +1,5 @@
 ---
+
 title: "Toddle & Kids Chair,2-in-1 Soft Toddler Couches That Fold Ou"
 seo_title: "Toddle & Kids Chair,2-in-1 Soft Toddler Couches Th Review"
 meta_description: "Our full toddle & kids chair,2-in-1 soft toddler couches that fold ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSGBSQGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gPRrwrIBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The toddler furniture that actually earns its floor space**

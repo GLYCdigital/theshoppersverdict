@@ -1,4 +1,5 @@
 ---
+
 title: "MECMO NEMA L14-30P to 14-50R RV Generator Adapter, 30 Amp to"
 seo_title: "MECMO NEMA L14-30P to 14-50R RV Generator Adapter, Review"
 meta_description: "Our full mecmo nema l14-30p to 14-50r rv generator adapter, 30 amp to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDW1WKNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VIEIY-rlL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MECMO L14-30P to 14-50R adapter is the kind of product that only matters when you absolutely need it — and then it matters a lot. If you own a 50-amp RV but your portable generator only puts out a 30-amp locking receptacle, this is the bridge that keeps your lights on and your AC running. With a 4.6-star average across 229 ratings, it's clearly doing something right. But is it the right adapter for your specific setup? Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Abu Garcia Ambassadeur C3 Baitcast Round Fishing Reel"
 seo_title: "Abu Garcia Ambassadeur C3 Review: Is It Worth It? (2026)"
 meta_description: "Honest Abu Garcia Ambassadeur C3 Baitcast Round Reel review. See how this Swedish-made classic performs, its quirks, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00MHQMXE6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41zCvGSzltL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Swedish-made with an all-metal body and brass gears that shrug off saltwater abuse"
   - "Dual carbon matrix drag system delivers 12 pounds of smooth stopping power"
   - "Six-pin centrifugal brake makes backlash control genuinely adjustable for casting distance"
-cons:
+cons: 
   - "9.4 ounces is heavy — you'll feel it on a full day of pitching and flipping"
   - "Right-hand retrieve only in most configurations; lefties pay more or adapt"
+
 ---
 
 Some tackle is disposable. The Abu Garcia Ambassadeur C3 is not. This is the reel your grandfather used — and the one you'll hand down to your kid. With 235 ratings holding a 4.7-star average on Amazon, it's not just nostalgia driving the hype. It's a Swedish-built workhorse that has outlived three generations of "upgraded" reels.

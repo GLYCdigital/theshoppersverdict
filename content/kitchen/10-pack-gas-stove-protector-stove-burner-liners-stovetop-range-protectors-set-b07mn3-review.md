@@ -1,4 +1,5 @@
 ---
+
 title: "10 pack, gas stove protector, stove burner liners, stovetop"
 seo_title: "10-Pack Gas Stove Protector Liners Review (2026): Worth It?"
 meta_description: "Honest review of 10-pack gas stove protector burner liners. Do they fit? Do they actually catch spills? 3.8-star rating analyzed with real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B07MN3MK34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719z6CVyyvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Catch boil-overs and grease drips before they bake onto the burner bowl, saving serious scrubbing time"
   - "Fits most standard gas stoves (roughly 8-inch burner bowls) and trims easily with scissors for odd sizes"
   - "Heat-resistant aluminum reflects heat back toward the pot, which can speed up boiling slightly"
-cons:
+cons: 
   - "Fit is not universal—several buyers report needing to trim or fold edges for round grates, and some square burners won't work at all"
   - "Thin aluminum can warp or curl after repeated high-heat use, especially on front burners used daily"
   - "Does not protect the grate itself—only the recessed burner bowl area—so the top grates still need regular cleaning"
+
 ---
 
 Here's the thing about gas stove burner liners: they're one of those products that sounds like a no-brainer until you realize they might not fit your specific stove. This 10-pack from the range protector set on Amazon sits at a 3.8-star average across 190 ratings, and the reviews tell a pretty clear story. When they fit, they're genuinely great. When they don't, you're trimming foil with scissors and questioning your life choices.

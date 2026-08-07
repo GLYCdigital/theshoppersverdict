@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Tomato Paste, 6 Ounce"
 seo_title: "365 Organic Tomato Paste Review: 6-Ounce Can, Worth It?"
 meta_description: "365 by Whole Foods organic tomato paste review: thick, rich flavor, BPA-free lining. See if this 6-ounce can beats the competition."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DF9V6LGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iD+jSP33L._SL1000_.jpg"
-pros:
+pros: 
   - "Double-concentrated paste delivers deep umami without needing 2-3x the quantity of standard brands"
   - "BPA-free can lining plus certified organic tomatoes — rare combination at this price point"
   - "No added salt or sugar means you control seasoning; works for both sweet and savory recipes"
-cons:
+cons: 
   - "6-ounce can has no resealable lid — you'll need a container for leftovers or freeze the rest"
   - "Thicker consistency than supermarket staples like Contadina; some American recipes may need slight water adjustment"
+
 ---
 
 You can spot the difference the moment the spoon hits the paste. The 365 Whole Foods Organic Tomato Paste isn't watery or faintly pink like the bargain shelf stuff — it's a deep, brick-red concentrate that holds its shape on a spoon. If you've been layering homemade pasta sauce, chili, or braises with tomato paste that barely registers, this is the upgrade that changes your cooking.

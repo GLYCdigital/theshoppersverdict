@@ -1,4 +1,5 @@
 ---
+
 title: "Konokyo"
 seo_title: "Konokyo Review: Verdict | TSV"
 meta_description: "Our full konokyo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DGBZ1GY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Konokyo: The Underdog Kitchen Tool That Earns a Solid 4.0 — But Know the Catch**

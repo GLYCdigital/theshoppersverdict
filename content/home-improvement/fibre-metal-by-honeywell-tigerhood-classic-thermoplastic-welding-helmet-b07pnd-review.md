@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fibre-Metal by Honeywell Tigerhood Classic Thermoplastic Wel"
 seo_title: "Fibre-Metal Tigerhood Welding Helmet Review (2026): Still Worth It?"
 meta_description: "Honest Fibre-Metal by Honeywell Tigerhood welding helmet review: durability, comfort, and UV protection tested. See pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07PND7865/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61me6VRDoAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ratchet headgear with crown strap adjustment distributes weight evenly — no hot spots after 4-hour sessions"
   - "Narrow shell profile lets you get into tight spots a bulky auto-darkening hood simply won't fit"
   - "Flip-up front lens gate holds a standard 2x4.25 filter plate, so replacement glass costs under $10 inch"
-cons:
+cons: 
   - "No auto-darkening — you must nod or lift the hood manually, which slows production work"
   - "Thermoplastic shell transfers heat faster than fiberglass when welding overhead for extended periods"
   - "Headgear ratchet knob is stiff out of the box and takes deliberate effort to turn with gloves on"
+
 
 ---
 

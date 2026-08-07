@@ -1,4 +1,5 @@
 ---
+
 title: "Emerson 1.2 Cu. Ft. Microwave Oven"
 seo_title: "Emerson 1.2 Cu. Ft. Microwave Review: Is It Worth It?"
 meta_description: "Honest Emerson 1.2 Cu. Ft. microwave review: performance, durability, and real buyer feedback. See if this budget countertop oven fits your kitchen."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CP4PS6XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BbvanPGUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1000 watts of cooking power actually reheats evenly — no cold spots in the center of plates"
   - "Compact footprint (about 17 inches wide) fits tight countertops without sacrificing a full 1.2 cu. ft. interior"
   - "Straightforward mechanical-style push buttons and a bright digital display that's legible from across the kitchen"
-cons:
+cons: 
   - "Stainless steel exterior smudges easily; you'll be wiping it down weekly to keep it presentable"
   - "Turntable is not removable — cleaning the interior floor requires awkward angled scrubbing"
+
 ---
 
 The budget microwave aisle is a minefield of 700-watt weaklings that scorch edges while leaving centers cold. The Emerson 1.2 Cu. Ft. Microwave sidesteps that trap with a genuinely useful 1000 watts, which puts it in the same power class as units costing twice as much. But power isn't everything — the real question is whether Emerson cut corners where it matters. After digging through 200 ratings and the spec sheet, here's the honest breakdown.

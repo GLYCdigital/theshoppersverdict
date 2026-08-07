@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Architecture Landmarks Collection: Himeji Castle 21060 "
 seo_title: "LEGO Architecture Landmarks Collection: Himeji Cas Review"
 meta_description: "Our full lego architecture landmarks collection: himeji castle 21060  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BSRF7J7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81erlaRWyqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Architecture line has always walked a fine line between "toy" and "museum-quality display piece." The Himeji Castle 21060 set doesn't just walk that line—it plants a flag on it. This is the largest single-structure Architecture set LEGO has released, and it shows.

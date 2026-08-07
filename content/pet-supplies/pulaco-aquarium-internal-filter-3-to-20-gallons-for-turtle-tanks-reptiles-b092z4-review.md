@@ -1,4 +1,5 @@
 ---
+
 title: "PULACO Aquarium Internal Filter 3 to 20 Gallons, for Turtle "
 seo_title: "PULACO Aquarium Internal Filter 3 to 20 Gallons, f Review"
 meta_description: "Our full pulaco aquarium internal filter 3 to 20 gallons, for turtle  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B092Z45SD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RTlrwVhYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The PULACO internal filter is a solid budget pick for small turtle tanks, but it’s not a set-and-forget solution.** If you’re okay with frequent media rinsing and have a tank under 15 gallons, this will do the job. Push it to 20 gallons with a messy musk or mud turtle and you’ll be fighting cloudy water within a week.

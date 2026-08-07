@@ -1,24 +1,26 @@
 ---
+
 title: "Andes Creme De Menthe Thin Mints - 3 Pounds of Bulk After Di"
 seo_title: "Andes Creme De Menthe Thin Mints 3 lb Bag Review (2026)"
 meta_description: "Honest Andes Creme De Menthe Thin Mints 3-pound bulk review: taste, texture, value, and who should buy. 4.7-star rated, real buyer insights."
 slug: "andes-creme-de-menthe-thin-mints-3-pounds-of-bulk-after-dinner-b0ck53-review"
 image_alt: "Three-pound bulk bag of Andes Creme De Menthe Thin Mints unwrapped, showing the green and white layered mint chocolate"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK53H99G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817v1BaUFXL._SL1500_.jpg"
-pros:  
+pros: 
   - "True creme de menthe flavor — cool, sweet, not toothpaste-like"  
   - "3-pound bulk bag is a legit value for frequent snackers or event planners"  
   - "Individually wrapped pieces stay fresh and are easy to portion"  
-cons:  
+cons: 
   - "Bulk bag arrives as loose foil-wrapped mints, not the classic green box — presentation matters for gifting"  
   - "Texture is softer and slightly chalkier than the original boxed version for some buyers"  
   - "No resealable closure; you'll want a clip or container for long-term storage"
+
 ---
 
 **The 3-Pound Andes Mint Bag: The Real Story for Bulk Buyers**

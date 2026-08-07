@@ -1,4 +1,5 @@
 ---
+
 title: "YOTTOY Classics Collection"
 seo_title: "YOTTOY Classics Collection Review: Verdict | TSV"
 meta_description: "Our full yottoy classics collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G4NHR453/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UAx9hG9-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The YOTTOY Classics Collection sits in a weird sweet spot: it's priced like a toy, built like a collectible, and rated 4.8 stars from 240+ buyers. But is it actually worth $30? Here's what I found digging through the specs, the feedback, and the fine print.

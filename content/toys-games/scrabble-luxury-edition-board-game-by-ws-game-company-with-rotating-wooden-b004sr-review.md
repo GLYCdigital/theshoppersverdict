@@ -1,4 +1,5 @@
 ---
+
 title: "Scrabble Luxury Edition Board Game by WS Game Company with R"
 seo_title: "Scrabble Luxury Edition Board Game by WS Game Comp Review"
 meta_description: "Our full scrabble luxury edition board game by ws game company with r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004SRXJZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HuyrmdM2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: this is not the $20 Scrabble you grab at Target. The WS Game Company's Luxury Edition is a statement piece — a wooden board game that costs more than most dinners out. The real question is whether it earns that premium. After digging through buyer feedback and examining the construction details, here's the honest breakdown.

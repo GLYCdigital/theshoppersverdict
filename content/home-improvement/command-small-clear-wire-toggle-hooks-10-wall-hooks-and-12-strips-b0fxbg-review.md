@@ -1,4 +1,5 @@
 ---
+
 title: "Command Small Clear Wire Toggle Hooks, 10 Wall Hooks and 12 inch"
 seo_title: "Command Small Clear Wire Hooks Review: 10 Hooks + 12 Strips"
 meta_description: "Command Small Clear Wire Toggle Hooks review: Do these damage-free hooks hold up? Real weight limits, wall types, and honest tradeoffs before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FXBGFYL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oxUrnUq0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Holds up to 2 lbs per hook; wire design lets you hang items with loops, ties, or string that flat hooks can't accommodate"
   - "18-pound total capacity across 10 hooks when properly distributed, making it a solid value for the bundle"
   - "Clear plastic blends into most wall colors; removal leaves zero residue when you follow the stretch-and-release method"
-cons:
+cons: 
   - "Adhesive strips fail on textured walls, wallpaper, or surfaces above 90°F — check your wall type before committing"
   - "The wire hook itself is thin; heavier items with narrow loops can bend the wire over time"
   - "No replacement strips included beyond the 12 in the box — you'll pay extra for refills if you reposition"
+
 ---
 
 If you've ever wrestled with a wreath hanger that leaves a nail hole in your door or a string light hook that rips paint off the wall, you already know the appeal of Command products. The question is whether this particular variant — the Small Clear Wire Toggle Hooks — justifies its spot in your drawer. After digging into the specs, customer experiences, and a few real-world scenarios, here's the honest breakdown.

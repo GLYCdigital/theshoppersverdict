@@ -1,4 +1,5 @@
 ---
+
 title: "KURUTOGA Mitsubishi Pencil Mechanical Pencil Metal 0.5mm M5K"
 seo_title: "KURUTOGA Mitsubishi Pencil Mechanical Pencil Metal Review"
 meta_description: "Our full kurutoga mitsubishi pencil mechanical pencil metal 0.5mm m5k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6M96Q1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41G2Pa9ax8L._AC_SL1068_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KURUTOGA M5K is what happens when a pencil company decides to stop making tools and start making instruments. Mitsubishi Pencil has been refining the KURUTOGA mechanism since 2008, and this metal-bodied version represents the line's most serious iteration. If you've ever been annoyed by uneven line width as your lead wears down, this pencil solves a problem you didn't realize you had.

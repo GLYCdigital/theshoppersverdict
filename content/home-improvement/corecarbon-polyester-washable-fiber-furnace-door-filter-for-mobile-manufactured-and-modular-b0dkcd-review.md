@@ -1,4 +1,5 @@
 ---
+
 title: "CoreCarbon Polyester Washable Fiber Furnace Door Filter for"
 seo_title: "CoreCarbon Washable Furnace Filter Review (2026): Worth It?"
 meta_description: "CoreCarbon polyester washable furnace filter review: real performance data, fit notes for mobile homes, cleaning tips, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKCDLQ1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q7425DZDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Washable polyester construction eliminates recurring disposable filter costs — pay once, reuse for years"
   - "Reinforced frame holds its shape through repeated washings without warping or delaminating"
   - "Specifically sized for mobile home and manufactured housing door filters, where standard sizes often don't fit"
-cons:
+cons: 
   - "Lower MERV rating than disposable fiberglass options means less fine-particle capture for allergy sufferers"
   - "Requires thorough drying (24+ hours) before reinstallation — you'll want a backup filter on hand"
+
 ---
 
 Let's be direct: if you live in a mobile home, manufactured house, or modular unit, you already know the frustration of hunting for a furnace filter that actually fits your return vent. Standard 16x25x1 filters sit loose or require creative cardboard shimming. That's where the CoreCarbon Polyester Washable Fiber Furnace Door Filter comes in — and based on 225 ratings averaging 4.5 stars, it's solving a real problem for a lot of people.

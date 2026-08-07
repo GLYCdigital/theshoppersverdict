@@ -1,4 +1,5 @@
 ---
+
 title: "Gray Scientific Calculator, Battery Power Sourced"
 seo_title: "Gray Scientific Calculator, Battery Power Sourced Review:"
 meta_description: "Our full gray scientific calculator, battery power sourced review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DM2KR3HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about scientific calculators: most of them are ugly, plasticky, and forgettable. The Gray Scientific Calculator doesn't try to be flashy, but it nails the fundamentals. After spending a week with it crunching everything from trigonometry to logarithmic functions, here's what you actually need to know before handing over your money.

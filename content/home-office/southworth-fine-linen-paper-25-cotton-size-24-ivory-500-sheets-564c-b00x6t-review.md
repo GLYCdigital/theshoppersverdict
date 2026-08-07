@@ -1,4 +1,5 @@
 ---
+
 title: "Southworth Fine Linen Paper, 25% Cotton, Size 24, Ivory, 500"
 seo_title: "Southworth Fine Linen Paper, 25% Cotton, Size 24,  Review"
 meta_description: "Our full southworth fine linen paper, 25% cotton, size 24, ivory, 500 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00X6TO9V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fNgmWLQ-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're printing your wedding invitations, a legal brief, or a proposal that needs to feel like it cost more than a latte, this is the paper to buy. But it's not for everyone, and knowing the difference will save you money.

@@ -1,4 +1,5 @@
 ---
+
 title: "SKATEWIZ Skateboard Pads Protective Gear Set for Kids and Ad"
 seo_title: "SKATEWIZ Skateboard Pads Protective Gear Set for K Review"
 meta_description: "Our full skatewiz skateboard pads protective gear set for kids and ad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09BZMNH3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81noKW+O5lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're about to hand a skateboard to a kid — or strap one on yourself after a decade off — the SKATEWIZ 8-piece pad set is the first thing you should buy. At 4.6 stars from 229 ratings, it's not the most premium gear on the market, but it's the set that actually gets used. Here's the real breakdown.

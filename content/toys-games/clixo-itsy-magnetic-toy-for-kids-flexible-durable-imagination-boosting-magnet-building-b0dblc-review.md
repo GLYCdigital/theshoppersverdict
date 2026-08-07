@@ -1,4 +1,5 @@
 ---
+
 title: "Clixo Itsy Magnetic Toy for Kids - Flexible, Durable, Imagin"
 seo_title: "Clixo Itsy Magnetic Toy Review: Flexible STEM Building for Kids"
 meta_description: "Honest Clixo Itsy magnetic toy review: flexible pieces, strong magnets, real durability. See how it compares to Magna-Tiles and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBLCJS31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fdwN2sezL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic connectors are genuinely strong — pieces snap together firmly and hold 3D structures without collapsing"
   - "Flexible plastic withstands aggressive bending, throwing, and stomping from rough-and-tumble kids"
   - "Open-ended design encourages divergent thinking; builds aren't limited to flat 2D shapes like many tile sets"
-cons:
+cons: 
   - "Small pieces pose a choking hazard for under-3s — not a toy you can hand to toddlers unsupervised"
   - "The 'Itsy' size means fewer pieces per set; you'll likely want a second pack for larger builds"
+
 ---
 
 # Clixo Itsy Magnetic Toy Review: The Flexible Building Set That Actually Holds Up

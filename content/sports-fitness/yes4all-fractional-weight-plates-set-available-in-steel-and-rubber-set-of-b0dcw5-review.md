@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Fractional Weight Plates Set, Available In Steel And"
 seo_title: "Yes4All Fractional Weight Plates Set, Available In Review"
 meta_description: "Our full yes4all fractional weight plates set, available in steel and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DCW54XQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nFcZhs0VL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been stuck at the same squat or bench weight for three weeks, fractional plates are the unlock. The Yes4All set gives you 0.25, 0.5, 0.75, and 1 lb increments per pair — enough to break plateaus without jumping 5 lbs and failing rep five. But with a 3.9-star average across 195 ratings, this set has a split personality. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Extra EXTRA Gum Bulk Pack, 15 Sticks (Pack of 10)"
 seo_title: "Extra EXTRA Gum Bulk Pack Review: 150 Sticks, Worth It?"
 meta_description: "Extra EXTRA Gum bulk pack review: 150 sticks of sugar-free peppermint gum. Flavor longevity, value, and real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQ99BY6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dayNFDrKL._SL1000_.jpg"
-pros:
+pros: 
   - "150 total sticks — roughly 5 months of daily gum for one person"
   - "Flavor holds 15+ minutes, noticeably longer than standard Extra"
   - "Individually wrapped sticks stay fresh in a desk drawer or car"
-cons:
+cons: 
   - "Peppermint only — no variety pack option in this listing"
   - "Bulk box is bulky; doesn't fit neatly in a standard pantry shelf"
+
 ---
 
 Let’s be honest: most gum reviews are about as exciting as reading the ingredients label. But when you're chewing through a stick or two daily, the math on this Extra EXTRA bulk pack actually matters. 150 sticks for roughly the price of 10 single packs at the register — that's the kind of savings that adds up without you noticing.

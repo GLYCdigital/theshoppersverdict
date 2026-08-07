@@ -1,4 +1,5 @@
 ---
+
 title: "CANEOE Square Modern LED Light Fixture, 24W Black Flush Moun"
 seo_title: "CANEOE Square LED Flush Mount Review: 24W Black Fixture"
 meta_description: "CANEOE 24W square LED flush mount light in black: bright, modern, easy install. Read our honest review of performance, build quality, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6BCFRZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LrMI0ItQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 24W output delivers roughly 2400 lumens — genuinely bright for a flush mount, not a dim accent piece"
   - "Slim 1.2-inch profile with a clean matte black finish that sits nearly flush against the ceiling, minimizing visual bulk"
   - "Tool-free installation with a sliding mounting bracket and wire nuts included — most buyers finish in under 20 minutes"
-cons:
+cons: 
   - "Non-replaceable integrated LED board means the entire fixture must be swapped when the diodes eventually fail (rated ~25,000 hours)"
   - "No dimmer compatibility — it's strictly on/off, which limits mood lighting options in bedrooms or living rooms"
+
 ---
 
 The CANEOE Square LED flush mount is the kind of fixture that makes you wonder why you ever bothered with bulky ceiling lights. At 24 watts pushing roughly 2400 lumens, this thing throws serious light — enough to illuminate a 10x10 room without breaking a sweat. And the matte black square design? It's modern without trying too hard, which is exactly what most homeowners want.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rico Industries NFL Laser Tag"
 seo_title: "Rico Industries NFL Laser Tag Review: Verdict | TSV"
 meta_description: "Our full rico industries nfl laser tag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BD6SHHT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710dvWRkRrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: it's not a mil-sim training tool, and it's not trying to be. The Rico Industries NFL Laser Tag set is backyard entertainment with a professional license slapped on it — and that's exactly why it works.

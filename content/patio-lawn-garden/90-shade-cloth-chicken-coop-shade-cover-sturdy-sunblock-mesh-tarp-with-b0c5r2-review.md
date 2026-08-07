@@ -1,24 +1,26 @@
 ---
+
 title: "90% Shade Cloth, Chicken Coop Shade Cover, Sturdy Sunblock M"
 seo_title: "90% Shade Cloth Review: Sturdy Sunblock for Coops & Patios"
 meta_description: "Honest 90% shade cloth review: UV protection, durability, and real-world use for chicken coops, patios, and gardens. See pros, cons, and verdict."
 slug: "90-shade-cloth-chicken-coop-shade-cover-sturdy-sunblock-mesh-tarp-with-b0c5r2-review"
 image_alt: "90% shade cloth installed over a chicken coop, showing dense black mesh fabric with reinforced edges and grommets"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C5R2ZN69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HT6lvsaIL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Dense 90% knit blocks nearly all UV—measured temperature drops of 10–15°F under direct sun"  
   - "Reinforced seams and rust-resistant grommets every 24 inches hold up in wind gusts without tearing"  
   - "Versatile sizing fits coops, dog runs, and patio pergolas without needing custom cutting"  
-cons:  
+cons: 
   - "No tie-downs or ropes included—you'll need to buy stakes or zip ties separately"  
   - "Black fabric absorbs heat on the top surface; can trap humidity if installed too tightly over a coop"  
   - "Edges fray slightly after a season of heavy use if not hemmed with tape or glue"
+
 ---
 
 If you've ever watched chickens panting in July or tried to keep a vegetable bed alive through a heatwave, you know shade isn't a luxury—it's survival. This 90% shade cloth from the M brand line has become a staple for backyard keepers and patio gardeners, and with a 4.0-star average across 200 ratings, it's worth a hard look. Here's the real story.

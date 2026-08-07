@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Operated LED Tea Lights,Flameless Votive Candles Lam"
 seo_title: "Battery Operated LED Tea Lights Review: Realistic Flameless Votives"
 meta_description: "Honest review of Battery Operated LED Tea Lights with 4.4 stars. Realistic flicker, battery life, and safety tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DL32KC4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JBJhGrU7L._AC_SL1005_.jpg"
-pros:
+pros: 
   - "Realistic flicker effect that mimics a natural candle flame, not a cheap strobe"
   - "Consistently bright warm-white light output across all units in the set"
   - "Solid plastic housing with no sharp edges, safe for households with kids or pets"
-cons:
+cons: 
   - "Battery compartment is snug — replacing batteries requires fingernails or a small tool"
   - "No remote control or timer function on the base model; you're flipping each switch individually"
+
 ---
 
 Let's be blunt: most flameless tea lights on Amazon are garbage. They flicker like a broken fluorescent tube, die within a week, or arrive with half the set dead on arrival. The **Battery Operated LED Tea Lights** set is not that product — but it's not perfect either. Here's the full breakdown after digging through spec sheets, customer feedback, and the 4.4-star average across 220 ratings.

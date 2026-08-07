@@ -1,4 +1,5 @@
 ---
+
 title: "AQDZCNF Flower Table Lamp,LED Reading Light Bedside Vintage"
 seo_title: "AQDZCNF Flower Table Lamp Review: Vintage LED Reading Light"
 meta_description: "Honest AQDZCNF flower table lamp review: vintage LED bedside reading light with 3 color modes. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBHDCZ7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eZtNqZA2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperature modes (warm, natural, cool) with stepless dimming via touch controls"
   - "Built-in rechargeable battery means zero cord clutter — usable fully portable for hours"
   - "Vintage flower design with quality metal and fabric shade construction, not cheap plastic"
-cons:
+cons: 
   - "Touch controls can be overly sensitive — a light brush while adjusting the lamp may accidentally cycle modes"
   - "Battery life at max brightness and cool white is noticeably shorter than the warm low settings"
+
 ---
 
 Let's be direct about what the AQDZCNF Flower Table Lamp really is: a vintage-styled LED reading light that tries to be both a decor piece and a functional bedside tool. At 4.6 stars across 229 ratings, it's doing something right. Here's the honest breakdown.

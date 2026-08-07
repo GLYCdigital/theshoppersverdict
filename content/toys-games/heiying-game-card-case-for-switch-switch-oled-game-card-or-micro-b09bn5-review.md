@@ -1,4 +1,5 @@
 ---
+
 title: "HEIYING Game Card Case for Switch&Switch OLED Game Card or M"
 seo_title: "HEIYING Game Card Case for Switch/OLED Review (2026)"
 meta_description: "HEIYING Switch game card case review: 24-game capacity, sturdy shell, snug fit. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09BN5Z8KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718vkSBeqXL._SL1500_.jpg"
-pros:
+pros: 
   - "Holds 24 game cards plus 4 microSD slots — covers nearly any physical library without bulk"
   - "Rigid EVA hard shell protects against drops and crushing; cards click in securely, no loose rattling"
   - "Compact footprint roughly the size of a Switch game case, fits in most carry pouches and pockets"
-cons:
+cons: 
   - "Cards sit snugly at first — some buyers report needing to break in the slots; removal can be tight for the first week"
   - "No locking mechanism — the magnetic clasp is secure but won't survive aggressive tossing in a bag with heavy items on top"
+
 ---
 
 **If you own more than a handful of physical Switch games, you already know the problem: those flimsy plastic cases eat shelf space, and loose cartridges are a lost-game waiting to happen.** The HEIYING Game Card Case steps in as a $15-ish solution that holds 24 games in a footprint barely larger than a single official Switch case. After digging through 240 ratings and the build specs, here's the real picture.

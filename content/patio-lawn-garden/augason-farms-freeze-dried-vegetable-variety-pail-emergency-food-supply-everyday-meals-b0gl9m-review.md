@@ -1,4 +1,5 @@
 ---
+
 title: "Augason Farms Freeze Dried Vegetable Variety Pail, Emergency"
 seo_title: "Augason Farms Freeze Dried Vegetable Pail Review (2026)"
 meta_description: "Honest Augason Farms Freeze Dried Vegetable Variety Pail review: 4.6-star emergency food. See what's inside, taste tests, shelf life, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL9MZCJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zLBE+D7WL._SL1500_.jpg"
-pros:
+pros: 
   - "4.9-pound pail yields roughly 147 servings — one of the better per-serving values in freeze-dried vegetables"
   - "Includes 5 vegetable types (corn, peas, carrots, green beans, and a mixed blend) so you're not stuck eating the same thing daily"
   - "30-year shelf life with oxygen absorbers and resealable mylar pouches inside — genuinely set-and-forget storage"
-cons:
+cons: 
   - "Green beans rehydrate softer than canned versions; texture-sensitive eaters may notice the difference"
   - "No seasoning included — these are bare vegetables, so you'll need your own spices or broth to make them interesting"
+
 ---
 
 Let's be blunt: most emergency food tastes like cardboard with a side of regret. The Augason Farms Freeze Dried Vegetable Variety Pail isn't that. It's also not restaurant-quality produce. It sits somewhere in the practical middle — which, for a 30-year shelf-stable product, is exactly where it should be.

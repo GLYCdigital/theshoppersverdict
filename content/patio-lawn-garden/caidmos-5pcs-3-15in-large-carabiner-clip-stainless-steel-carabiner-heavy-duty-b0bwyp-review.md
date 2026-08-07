@@ -1,4 +1,5 @@
 ---
+
 title: "CAIDMOS 5PCS 3.15in Large Carabiner Clip, Stainless Steel Ca"
 seo_title: "CAIDMOS Large Carabiner Clip Review: Heavy-Duty Stainless Steel"
 meta_description: "CAIDMOS 3.15in stainless steel carabiner clips review: 5-pack heavy-duty hooks for patio, camping, and hanging plants. Real pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BWYPLPYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615lNAABQaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True stainless steel construction with smooth, snag-free spring action"
   - "3.15-inch size fits over standard 2x4s, pergola beams, and fence rails"
   - "5-pack value pricing beats buying singles at big-box hardware stores"
-cons:
+cons: 
   - "Gate spring tension is lighter than climbing-grade carabiners"
   - "Not load-rated — don't use for critical safety or weight-bearing applications"
+
 ---
 
 If you've ever hung a string lights strand only to have it sag into your face, you already know the problem: cheap plastic hooks snap, and wire hooks gouge your fingers. The CAIDMOS 5-pack of 3.15-inch stainless steel carabiner clips is the kind of simple fix that makes you wonder why you didn't buy it sooner.

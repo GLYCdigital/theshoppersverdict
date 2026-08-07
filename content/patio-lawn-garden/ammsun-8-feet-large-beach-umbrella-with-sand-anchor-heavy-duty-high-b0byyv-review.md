@@ -1,4 +1,5 @@
 ---
+
 title: "AMMSUN 8 Feet Large Beach Umbrella with Sand Anchor Heavy Du"
 seo_title: "AMMSUN 8-Foot Beach Umbrella Review: Heavy-Duty & Anchored"
 meta_description: "Read our AMMSUN 8-foot beach umbrella review. Heavy-duty canopy, sand anchor, and 4.5-star rating. Is it worth it? We tested the details."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BYYV4VZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7130ngqZIIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-foot canopy provides genuinely wide coverage — fits a family of four with chairs and a cooler underneath"
   - "Included sand anchor with auger-style corkscrew digs deep and holds firm in moderate wind"
   - "Fiberglass ribs resist bending and won't snap like cheaper aluminum models"
-cons:
+cons: 
   - "Fiberglass ribs add noticeable weight — the whole unit comes in around 9-10 pounds, which gets heavy lugging across a long beach walk"
   - "Carry bag is functional but thin; multiple reviewers report the strap stitching failing after a season of use"
   - "Tilt mechanism is simple — only a few preset angles, not a smooth 360-degree rotation"
+
 ---
 
 Let's be honest: most beach umbrellas are disposable. You buy one for $25, it snaps on the third gust of wind, and you're chasing it down the shoreline while your kids point and laugh. The AMMSUN 8-Foot Heavy Duty is not that umbrella. It's the one you buy when you're tired of replacing the cheap ones.

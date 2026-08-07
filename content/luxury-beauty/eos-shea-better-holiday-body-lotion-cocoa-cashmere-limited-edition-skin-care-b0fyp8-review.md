@@ -1,4 +1,5 @@
 ---
+
 title: "eos Shea Better Holiday Body Lotion, Cocoa Cashmere, Limited"
 seo_title: "eos Cocoa Cashmere Body Lotion Review: Holiday Limited Edition"
 meta_description: "Read our honest eos Shea Better Holiday Body Lotion Cocoa Cashmere review. Is this limited-edition lotion worth it? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYP8GLV4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MqZRHuQ7L._SL1500_.jpg"
-pros:
+pros: 
   - "Deeply moisturizing 24-hour shea butter formula that absorbs in under a minute without greasy residue"
   - "Rich cocoa-vanilla scent that's genuinely cozy but fades to a subtle skin scent within 30 minutes"
   - "Generous 13.5 fl oz pump bottle with a flip-top cap that dispenses the perfect amount"
-cons:
+cons: 
   - "Limited-edition status means restocks are unpredictable — if you love it, stock up or risk disappointment"
   - "Fragrance is sweet-forward; those who prefer clean or unscented formulas should look elsewhere"
+
 ---
 
 The eos Shea Better Holiday Body Lotion in Cocoa Cashmere isn't just another seasonal cash grab. It's the rare limited edition that actually earns its hype — and at 4.7 stars across 235 ratings, shoppers agree. But here's the catch: once it's gone, it's gone. Let's dig into whether this deserves a spot in your winter rotation.

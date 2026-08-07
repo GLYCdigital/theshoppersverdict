@@ -1,4 +1,5 @@
 ---
+
 title: "RealspaceÂ® Fennington Bonded Leather High-Back Chair, Black"
 seo_title: "RealspaceÂ® Fennington Bonded Leather High-Back Ch Review"
 meta_description: "Our full realspaceâ® fennington bonded leather high-back chair, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B079H1JH2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eSSYovbsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the office chair market is flooded with mesh knockoffs and particleboard specials that fall apart by month three. The Realspace Fennington isn't that. It's a bonded leather high-back that punches above its price class — with caveats you need to know before checkout.

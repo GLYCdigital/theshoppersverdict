@@ -1,4 +1,5 @@
 ---
+
 title: "AMOAMI Silicone Dish Drying Mat - Heat Resistant, Countertop"
 seo_title: "AMOAMI Silicone Dish Drying Mat Review: Heat Resistant & Durable"
 meta_description: "Honest AMOAMI Silicone Dish Drying Mat review: heat resistance, durability, real-world drying performance, and who should buy it. 4.4-star rated."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09L5XYN3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eu9fFYXUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Withstands up to 450°F — safe for resting hot cast iron or baking sheets straight from the oven"
   - "Ribbed surface with raised drainage channels keeps dishes elevated, allowing airflow underneath for faster drying"
   - "Non-slip grip stays put on granite, quartz, and tile; no curling at corners even after months of use"
-cons:
+cons: 
   - "Smooth flatware and plastic containers can slide slightly when the mat is wet — nothing major, but worth knowing"
   - "At roughly 17 x 11.5 inches, it's compact; a full dinner service for four will overflow onto the counter"
+
 ---
 
 The AMOAMI Silicone Dish Drying Mat doesn't look like much when you pull it out of the box — just a flat, flexible slab of silicone in whatever color you picked. But after living with one for a few weeks, it's the kind of kitchen tool you didn't know you needed until you've used it. Here's the real story.

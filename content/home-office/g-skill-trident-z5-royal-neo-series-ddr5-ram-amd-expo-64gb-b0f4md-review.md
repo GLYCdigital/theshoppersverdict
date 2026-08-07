@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Trident Z5 Royal Neo Series DDR5 RAM (AMD Expo) 64GB"
 seo_title: "G.SKILL Trident Z5 Royal Neo Series DDR5 RAM (AMD  Review"
 meta_description: "Our full g.skill trident z5 royal neo series ddr5 ram (amd expo) 64gb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4MD6FFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fVKzifdDL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Open your PC case and you'll see why G.SKILL calls this the "Royal" series. The Trident Z5 Royal Neo is a jewelry-grade piece of hardware — mirrored heat spreaders, a crystalline light bar that catches light like cut glass, and a build tolerance that feels machined from a solid billet. But this is also a 64GB DDR5 kit built specifically for AMD's AM5 platform, and the question isn't whether it looks expensive — it's whether it *earns* the premium over the standard Trident Z5 Neo. After testing it on a Ryzen 9 7950X3D build, here's the honest breakdown.

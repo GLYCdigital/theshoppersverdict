@@ -1,4 +1,5 @@
 ---
+
 title: "essie gel couture long-lasting nail polish, vegan, ivory whi"
 seo_title: "essie Gel Couture Ivory White Review: Long-Lasting Vegan Polish"
 meta_description: "Honest essie Gel Couture nail polish review in ivory white. Real wear test results, vegan formula details, and who should buy this glossy long-wear shade."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSCGMSBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tStZ8rrBL._SL1500_.jpg"
-pros:
+pros: 
   - "Gel-like glossy finish without needing a UV lamp — the built-in top coat delivers salon-level shine that lasts 8–10 days in real-world testing"
   - "Two-step system (color + top coat) eliminates the separate base coat step, cutting application time roughly in half"
   - "Vegan formula with no animal-derived ingredients, free from the harsh chemicals often found in traditional gel polishes"
-cons:
+cons: 
   - "Shade is more of a warm champagne ivory than a pure white — if you want stark white, this isn't it"
   - "Thinner formula requires three coats for full opacity on lighter skin tones, which extends dry time"
+
 ---
 
 **The $12 Nail Polish That Made Me Question My $60 Salon Manicures**

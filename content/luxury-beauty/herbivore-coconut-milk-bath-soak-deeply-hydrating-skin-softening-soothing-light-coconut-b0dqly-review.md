@@ -1,4 +1,5 @@
 ---
+
 title: "HERBIVORE Coconut Milk Bath Soak | Deeply Hydrating + Skin S"
 seo_title: "HERBIVORE Coconut Milk Bath Soak | Deeply Hydratin Review"
 meta_description: "Our full herbivore coconut milk bath soak | deeply hydrating + skin s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQLY4825/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v3f61mcBL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most bath soaks are overpriced Epsom salt with a few drops of essential oil and a marketing budget. The HERBIVORE Coconut Milk Bath Soak is not that. At 4.5 stars across 225 ratings, this is a genuinely different formula — one that actually does what the label claims. But is it worth the premium? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Champion Sports Deluxe Batting Tee â€“ Adjustable Rubber Bas"
 seo_title: "Champion Sports Deluxe Batting Tee Review (2026): Worth It?"
 meta_description: "Honest Champion Sports Deluxe Batting Tee review: adjustable height, rubber base, durability tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F37X19FZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ij1nQfQLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Height range spans roughly 26 to 40 inches, so it genuinely works for both youth players and tall adults without an adapter."
   - "Rubber base is heavy enough to stay planted during full swings but flexible enough to absorb hard contact without cracking."
   - "The flexible rubber ball cup tears less easily than cheap plastic tees when you hit it square or slightly off-center."
-cons:
+cons: 
   - "The base is hollow and can fill with water if left outside in the rain; you'll need to drill a drain hole or store it indoors."
   - "Height adjustment uses a twist-lock collar that can slip if you don't crank it down hard, especially after weeks of use."
+
 ---
 
 Let's cut through the noise: most batting tees under $40 are flimsy plastic that wobbles on the second swing. The Champion Sports Deluxe Batting Tee is not that. It's also not a $150 pro-grade Tanner tee. It sits somewhere in the middle — and for most home hitters, that's exactly the right spot.

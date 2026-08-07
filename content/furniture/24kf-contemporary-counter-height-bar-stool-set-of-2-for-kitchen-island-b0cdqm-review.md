@@ -1,4 +1,5 @@
 ---
+
 title: "24KF Contemporary Counter Height Bar Stool Set of 2 for Kitc"
 seo_title: "24KF Counter Height Bar Stool Set of 2 Review (2026)"
 meta_description: "24KF counter height bar stool set of 2 review: sturdy, stylish, but assembly quirks. See real pros, cons, and who should buy before you order."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CDQM3GT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y6U6SbsRL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine 24K gold-plated accents that don't chip or fade after six months of daily use"
   - "Weight capacity of 330 lbs per stool — tested with a 250-lb reviewer and zero wobble"
   - "Fabric upholstery is stain-resistant and wipes clean with a damp cloth, unlike cheap faux leather that peels"
-cons:
+cons: 
   - "Assembly requires an Allen wrench (included) and takes 30–40 minutes per stool — the bolt holes don't always align perfectly"
   - Footrest is positioned high (18 inches from floor) — shorter users (under 5'4 inch ") may find it awkward to reach
+
 ---
 
 **The $200 bar stool that looks like a million bucks — but does it hold up?**

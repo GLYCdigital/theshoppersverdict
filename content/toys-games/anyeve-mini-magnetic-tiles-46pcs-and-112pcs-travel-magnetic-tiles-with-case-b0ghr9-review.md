@@ -1,23 +1,25 @@
 ---
+
 title: "Anyeve Mini Magnetic Tiles, 46PCS and 112PCS Travel Magnetic"
 seo_title: "Anyeve Mini Magnetic Tiles Review: Travel-Friendly STEM Toy"
 meta_description: "Honest Anyeve Mini Magnetic Tiles review: 46PCS & 112PCS travel sets with case. Strong magnets, compact size, real buyer feedback. Buy it if…"
 slug: "anyeve-mini-magnetic-tiles-46pcs-and-112pcs-travel-magnetic-tiles-with-case-b0ghr9-review"
 image_alt: "Anyeve Mini Magnetic Tiles 46PCS travel set with storage case, colorful geometric shapes on white background"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHR9BZVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RytqMcBNL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Magnets are genuinely strong — towers and vehicles hold together even during car rides, per multiple buyer reports"  
   - "Compact tile size (half of standard) fits in diaper bags, airplane trays, and restaurant tables without dominating the space"  
   - "Included storage case with dividers actually works — no more digging through a bag of loose pieces"  
-cons:  
+cons: 
   - "Smaller tile size means smaller builds — don't expect life-sized castles; this is a travel tool, not a full playset replacement"  
   - "Some buyers noted the case latch can pop open if dropped from waist height — pack it in a zippered pocket for flights"
+
 ---
 
 If you've ever tried to entertain a toddler on a cross-country flight with a single toy car, you already know the struggle. The Anyeve Mini Magnetic Tiles (46PCS and 112PCS options) aren't trying to replace your kid's massive floor-based magnetic tile collection — they're solving a different problem entirely: **how to keep small hands busy in tight spaces without losing half the pieces by baggage claim.**

@@ -1,4 +1,5 @@
 ---
+
 title: "7 Sets (49PCS) Polyhedral Dice Set for Dungeons & Dragons/RP"
 seo_title: "7 Sets 49PCS Polyhedral Dice Set Review: D&D Essentials"
 meta_description: "Honest review of the 7 Sets (49PCS) Polyhedral Dice Set for D&D/RPG. 49 dice, 7 matching sets, 4.8-star Amazon rating. Worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BFQPKHK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZJuLg+qQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Seven complete matching sets means each player at the table gets their own color-coded dice — no more 'whose d20 is this?' arguments mid-session"
   - "Dice are properly balanced and roll true; no obvious bias toward any number in extended play testing"
   - "Comes with a zip-up pouch that holds all 49 dice without bulging, plus the numbers are deeply etched and painted — they won't wear off after a month of heavy rolling"
-cons:
+cons: 
   - "The 'snowflake' pattern on the d20 and d12 is purely decorative — some players find it distracting when trying to read numbers at a glance"
   - "Color saturation varies between sets; two of the seven sets in our test unit had noticeably lighter pigment than the others"
   - "No individual dice storage — you either use the single pouch or find your own solution if you want to split sets between players"
+
 ---
 
 Look, I've rolled a lot of dice in my time. Thousands of them, across a dozen different campaigns. And when a 49-piece dice set shows up on Amazon with a 4.8-star rating, I'm skeptical. Cheap dice are everywhere. But this 7-set bundle from a brand that's clearly chasing the D&D market actually surprised me — and I'll tell you exactly why.

@@ -1,4 +1,5 @@
 ---
+
 title: "Getlay Tall Garden Fence, Flower Bed Fence, Wide Door Low Th"
 seo_title: "Getlay Tall Garden Fence Review: Sturdy Flower Bed Border"
 meta_description: "Getlay Tall Garden Fence review: 18.5 inch  steel panels, wide gate option, easy install. See pros, cons & who should buy this flower bed border."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJBMM6HH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pUeOYzYdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "18.5-inch height actually deters dogs and rabbits without blocking sightlines"
   - "Wide 35.4-inch gate section with low threshold works for wheelbarrows and mowers"
   - "Powder-coated steel resists rust through multiple seasons; ground stakes hold firm"
-cons:
+cons: 
   - "Panels arrive as separate sections; alignment on uneven ground requires patience"
   - "No locking mechanism on the gate — just gravity and a simple latch"
+
 ---
 
 If you've ever watched a dog sail over a 12-inch decorative border like it's nothing, you already know why the Getlay Tall Garden Fence exists. At 18.5 inches tall with a proper gate section, this isn't the flimsy wire stuff you find at the big-box store. It's a real barrier that still lets your flower bed breathe visually.

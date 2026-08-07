@@ -1,4 +1,5 @@
 ---
+
 title: "Rolife DIY Miniature House Kit-Mini Diorama 1/18 Greenhouse "
 seo_title: "Rolife DIY Miniature House Kit-Mini Diorama 1/18 G Review"
 meta_description: "Our full rolife diy miniature house kit-mini diorama 1/18 greenhouse  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079HXCB1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gAMJUfeqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at those impossibly detailed miniature rooms on social media and thought, "I could never," the Rolife 1/18 Greenhouse Kit might change your mind. It's not easy — but it's achievable, and the payoff is a glowing, hand-built diorama that looks like it belongs in a museum display case.

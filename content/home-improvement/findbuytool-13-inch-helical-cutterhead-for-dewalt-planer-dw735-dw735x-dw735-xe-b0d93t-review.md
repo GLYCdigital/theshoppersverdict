@@ -1,4 +1,5 @@
 ---
+
 title: "FINDBUYTOOL 13 Inch Helical Cutterhead for DeWalt Planer DW7 inch"
 seo_title: "FINDBUYTOOL 13'' Helical Cutterhead Review for DeWalt DW735 inch"
 meta_description: "FINDBUYTOOL 13-inch helical cutterhead for DeWalt DW735 planers: real performance, noise levels, and install tips. See if this upgrade is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D93TM9XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711a-ciThoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dramatically quieter operation than the stock straight-knife head — measured by several buyers at roughly half the noise level"
   - "Carbide inserts are indexable and rotatable — four cutting edges per insert before replacement, no sharpening needed"
   - "Machined aluminum body fits DW735/DW735X/DW735XE without modification; includes the required bearing and hardware"
-cons:
+cons: 
   - "Installation is not plug-and-play for everyone — alignment and torque settings require careful attention (about a 1-2 hour job for first-timers)"
   - "A few units arrived with a slightly loose insert seat or minor burr — worth inspecting all 40 inserts before mounting"
+
 ---
 
 If you've owned a DeWalt DW735 for any length of time, you already know the stock straight-knife cutterhead is the weak link. It's loud enough to require hearing protection, dulls quickly on plywood, and leaves snipe on your best boards. The FINDBUYTOOL 13-inch helical cutterhead exists to fix all three. The question is whether a $200-ish aftermarket upgrade actually delivers. After digging through 225 ratings and owner reports, here's the real story.

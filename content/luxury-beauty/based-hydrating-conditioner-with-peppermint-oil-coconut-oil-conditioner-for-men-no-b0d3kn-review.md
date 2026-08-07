@@ -1,4 +1,5 @@
 ---
+
 title: "BASED Hydrating Conditioner with Peppermint Oil & Coconut Oi"
 seo_title: "BASED Hydrating Conditioner Review: Peppermint & Coconut Oil"
 meta_description: "Read our honest BASED Hydrating Conditioner review with peppermint & coconut oil. See how it performs, who it's for, and if it's worth the buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3KN8WDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VtLv3DYPL._SL1500_.jpg"
-pros:
+pros: 
   - "Peppermint oil provides an immediate cooling scalp sensation that lasts 5-10 minutes after rinsing"
   - "Coconut oil base delivers real moisture without leaving hair greasy or weighed down"
   - "Sulfate-free formula works well for color-treated hair and daily use without stripping"
-cons:
+cons: 
   - "Peppermint intensity may be too strong for sensitive scalps or those with eczema"
   - "Thinner consistency than typical luxury conditioners — you may need more product for thick hair"
+
 ---
 
 Most conditioners promise hydration. Few deliver it with an actual sensory experience. The BASED Hydrating Conditioner with Peppermint Oil & Coconut Oil doesn't just moisturize — it wakes your scalp up. That's the first thing you'll notice. And honestly, it's the reason this 4.7-star rated conditioner has earned its spot in my rotation.

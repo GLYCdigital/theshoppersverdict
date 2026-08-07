@@ -1,4 +1,5 @@
 ---
+
 title: "DAIWA Spinning Reel 23BG SW 4000-18000 Various (2023 Model)"
 seo_title: "DAIWA 23BG SW Review: 2023 Saltwater Spinning Reel"
 meta_description: "DAIWA 23BG SW 2023 spinning reel review: Is the 4000-18000 size worth your money? Real-world performance, durability, and honest tradeoffs for saltwater anglers."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BT2QGSND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wZ10ZgkBL._AC_SL1099_.jpg"
-pros:
+pros: 
   - "Zillion-grade Zaion V body with Air Metal rotor keeps weight down without flexing under heavy drag"
   - "Magsealed main shaft and line roller — survived dunkings and hose-downs without grinding"
   - "ATD drag system delivers smooth, progressive pressure from 11 to 55 pounds depending on size"
-cons:
+cons: 
   - "Not fully Magsealed — the body isn't sealed, so don't fully submerge it in surf wash"
   - "Handle knob is a bit small for gloved hands; after-hours tuna fishing you'll feel it"
   - "Sizes jump significantly — the 4000 and 5000 are light-duty, while 8000+ are brute-force heavy"
+
 ---
 
 If you're chasing tuna, yellowtail, or oversized stripers, you already know the BG name. Daiwa's BG series has been the budget saltwater workhorse for years — the reel that punches above its price point until it simply can't. The 2023 BG SW (23BG SW) is the next generation, and it's not just a paint job. I've been running the 8000 size for three months of pier, jetty, and kayak fishing. Here's the real story.

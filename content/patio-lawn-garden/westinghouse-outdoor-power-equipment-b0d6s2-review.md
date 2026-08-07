@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse Outdoor Power Equipment"
 seo_title: "Westinghouse Outdoor Power Equipment Review: Verdict | TS"
 meta_description: "Our full westinghouse outdoor power equipment review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6S2KMWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qqZmhNgdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: Westinghouse has been making outdoor power equipment for over a century, and this unit — the B0D6S2KMWY — is exactly what you'd expect from a brand that knows what it's doing. It's not flashy. It's not packed with gimmicks. It just works. With a 4.6-star average across 229 ratings, the consensus is clear: this is a dependable workhorse.

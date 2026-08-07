@@ -1,4 +1,5 @@
 ---
+
 title: "LUXRITE 8 Inch LED Disk Lights, 27W, 5CCT 2700K | 3000K | 35"
 seo_title: "LUXRITE 8 Inch LED Disk Lights, 27W, 5CCT 2700K |  Review"
 meta_description: "Our full luxrite 8 inch led disk lights, 27w, 5cct 2700k | 3000k | 35 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CJGNX5XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mrVGRSH+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most 8-inch LED disk lights are commodity junk. You pick one, it buzzes, it flickers, and you regret it. The LUXRITE 27W 5CCT isn’t that — but it’s not perfect either. Here’s what you need to know before you buy.

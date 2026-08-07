@@ -1,4 +1,5 @@
 ---
+
 title: "6-Pack Plastic Plant Caddy with Wheels Black,11.8 inch "
 seo_title: "6-Pack Plastic Plant Caddy with Wheels Review (11.8 inch )"
 meta_description: "Honest review of the 6-pack plastic plant caddy with wheels (11.8 inch ). Sturdy, easy-rolling, but check weight limits. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B097BF8ZL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lvk8vXfkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Set of 6 means you can outfit an entire patio or balcony for the cost of two single caddies elsewhere"
   - "4 swivel casters per caddy make pivoting heavy pots around corners genuinely easy, even on concrete"
   - "Raised rim and drainage holes keep pots stable while allowing water to escape instead of pooling"
-cons:
+cons: 
   - "Weight capacity is realistic around 50-60 lbs — anything heavier risks cracking the plastic over time"
   - "Wheels are small and won't roll smoothly over grass or uneven pavers; these are for hard, flat surfaces only"
+
 ---
 
 If you've ever tried to drag a 40-pound ceramic pot across a deck, you know the pain — the scrape, the strain, the cracked patio stone. These 11.8-inch plastic caddies solve that problem for about the price of a takeout dinner per unit. The question is whether they hold up beyond the first season. Here's what 225 Amazon reviewers and my own read-through of the feedback tell you.

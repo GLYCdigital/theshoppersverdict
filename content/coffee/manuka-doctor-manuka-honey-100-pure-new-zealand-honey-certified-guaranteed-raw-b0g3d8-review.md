@@ -1,4 +1,5 @@
 ---
+
 title: "Manuka Doctor - Manuka Honey, 100% Pure New Zealand Honey. C"
 seo_title: "Manuka Doctor - Manuka Honey, 100% Pure New Zealan Review"
 meta_description: "Our full manuka doctor - manuka honey, 100% pure new zealand honey. c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G3D8B4DF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l5301JUcL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Manuka Doctor - Manuka Honey, 100% Pure New Zealand Honey. C** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

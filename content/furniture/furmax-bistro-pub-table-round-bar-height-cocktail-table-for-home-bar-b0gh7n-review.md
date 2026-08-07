@@ -1,4 +1,5 @@
 ---
+
 title: "Furmax Bistro Pub Table Round Bar Height Cocktail Table for"
 seo_title: "Furmax Bistro Pub Table Review: Bar Height Cocktail Table"
 meta_description: "Furmax Bistro Pub Table review: 4.5-star bar height cocktail table. Sturdy construction, space-saving round design. Read pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GH7NG3C5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51js+AELT7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 42-inch bar height puts the tabletop at proper elbow level for standard 30-inch bar stools"
   - "X-brace leg design adds genuine lateral stability compared to cheaper four-straight-leg models"
   - "Rounded corners on the tabletop prevent hip bruises in tight kitchen or balcony layouts"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and about 20 minutes — no hex key included"
   - "The MDF top scuffs if you drag heavy ceramic mugs across it without a coaster"
+
 ---
 
 Walk into any room with this Furmax bistro table and the first thing you notice is the proportions. At 42 inches tall with a 24-inch round top, it hits that sweet spot between a breakfast counter and a full bar setup. But the real question — does it hold up after six months of daily coffee duty and the occasional game night? I've broken down the specs, combed through buyer feedback, and put this through the paces so you know exactly what you're getting before you click buy.

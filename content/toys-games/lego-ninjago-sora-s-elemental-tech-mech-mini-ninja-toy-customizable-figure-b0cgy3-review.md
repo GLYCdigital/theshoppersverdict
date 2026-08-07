@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Soraâ€™s Elemental Tech Mech Mini Ninja Toy, Cu"
 seo_title: "LEGO NINJAGO Soraâ€™s Elemental Tech Mech Mini Nin Review"
 meta_description: "Our full lego ninjago soraâ€™s elemental tech mech mini ninja toy, cu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY3T6LL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+rUbdL8cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a Ninjago fan who’s already got the massive mech sets, this mini version might be the sweet spot. LEGO NINJAGO Sora’s Elemental Tech Mech (set 71808) packs a surprising amount of play into a compact, wallet-friendly build. At 4.8 stars from 240 ratings, it’s clearly hitting the mark — but let’s talk about whether it’s right for *your* kid, not just the aggregate score.

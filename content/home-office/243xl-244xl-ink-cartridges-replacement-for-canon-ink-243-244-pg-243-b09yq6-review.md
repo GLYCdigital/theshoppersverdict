@@ -1,4 +1,5 @@
 ---
+
 title: "243XL 244XL Ink Cartridges Replacement for Canon Ink 243 244 inch"
 seo_title: "243XL 244XL Ink Cartridges Review: Canon 243 244 Replacement"
 meta_description: "Honest 243XL 244XL ink cartridge replacement review for Canon printers. See print quality, yield, and compatibility before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YQ6RP9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RemHj9cRC._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine XL yield claims hold up — most users report 400+ pages of black text before a low-ink warning"
   - "Chip recognition is flawless in recent batches; no error messages or 'non-genuine ink' warnings reported"
   - "Color accuracy is surprisingly strong for a third-party option — photo prints on glossy paper show minimal banding"
-cons:
+cons: 
   - "Some units arrive with a thin protective film over the gold contacts; if you miss it, you'll get a 'no ink' error"
   - "Color cartridges run dry noticeably faster than the black — expect roughly half the page count on the tricolor"
+
 ---
 
 **The Real Deal on Third-Party Canon Ink**

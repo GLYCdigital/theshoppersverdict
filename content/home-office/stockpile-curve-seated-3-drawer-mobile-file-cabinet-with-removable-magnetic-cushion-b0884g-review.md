@@ -1,4 +1,5 @@
 ---
+
 title: "STOCKPILE Curve Seated 3-Drawer Mobile File Cabinet with Rem"
 seo_title: "STOCKPILE Curve Seated 3-Drawer Mobile File Cabine Review"
 meta_description: "Our full stockpile curve seated 3-drawer mobile file cabinet with rem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0884GZVJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CzUuQKGSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your home office setup is starting to look like a crime scene of scattered papers, the STOCKPILE Curve Seated 3-Drawer Mobile File Cabinet is the kind of product that quietly solves your chaos. With a 4.8-star average across 240 ratings, it's clearly doing something right. But as with any piece of furniture you assemble yourself, the real story is in the details.

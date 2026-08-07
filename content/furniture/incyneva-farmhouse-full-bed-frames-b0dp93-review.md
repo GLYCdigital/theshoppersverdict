@@ -1,4 +1,5 @@
 ---
+
 title: "Incyneva Farmhouse Full Bed Frames"
 seo_title: "Incyneva Farmhouse Full Bed Frames Review: Verdict | TSV"
 meta_description: "Our full incyneva farmhouse full bed frames review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DP936XXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816j6ZJX0tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Incyneva Farmhouse Full Bed Frame walks a fine line between charming and frustrating. At a 3.8-star average across 190 ratings, it's the kind of product that either delights you or has you reaching for a drill and a customer service chat. Here's what you need to know before you commit.

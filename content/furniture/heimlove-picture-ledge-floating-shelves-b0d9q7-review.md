@@ -1,4 +1,5 @@
 ---
+
 title: "Heimlove Picture Ledge Floating Shelves"
 seo_title: "Heimlove Picture Ledge Floating Shelves Review: Verdict |"
 meta_description: "Our full heimlove picture ledge floating shelves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9Q7H4CJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tJ51nOT7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Picture ledges are one of those products that look simple but often fail in execution — wobbly brackets, cheap particle board, or a lip too shallow to actually hold anything. The Heimlove Picture Ledge Floating Shelves avoid most of those traps. With a 4.7-star average across 235 ratings, these have earned genuine traction. Here's what you're actually getting.

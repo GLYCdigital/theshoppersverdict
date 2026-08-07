@@ -1,4 +1,5 @@
 ---
+
 title: "Busy Board Montessori Toys for Toddler 1-2 1-3, Learning Sen"
 seo_title: "Busy Board Montessori Toys for Toddler 1-3 Review (2026)"
 meta_description: "Honest Busy Board Montessori Toys review for toddlers 1-3. We test durability, sensory value & safety. See pros, cons & verdict before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPH3ZDMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hwZ3RGNLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid birch plywood construction (about 1/4-inch thick) that survives being thrown, stepped on, and chewed — no flimsy MDF here"
   - "11 distinct activities covering zippers, buckles, shoelaces, and a working latch — genuinely enough variety to hold a 16-month-old's attention for 20+ minutes at a time"
   - "Rounded edges and securely riveted parts; no small pieces that pop off easily, which matters for the 1-2 age bracket"
-cons:
+cons: 
   - "Some buckles are stiff out of the box — toddlers with weaker hand strength may get frustrated until they're broken in (usually 3-5 days of use)"
   - "The felt backing is thin; if your kid is aggressive with it, the board can warp slightly if left in a humid room"
+
 ---
 
 **The short version:** If you're drowning in plastic toys that beep, flash, and break by Tuesday, this busy board is the analog antidote. It's a simple wooden panel packed with everyday fasteners — zippers, buckles, snaps, laces — that keeps little hands busy and actually builds fine motor skills. At 4.4 stars from 220 ratings, it's not perfect, but for the 1-3 crowd, it's one of the better quiet-time investments you'll make.

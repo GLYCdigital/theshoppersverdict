@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees for Kittens Natural Tearless Shampoo with Butter"
 seo_title: "Burt's Bees Kitten Shampoo Review: Tearless & Natural"
 meta_description: "Our Burt's Bees for Kittens Tearless Shampoo review covers lather, scent, and safety. See if this buttermilk formula is right for your kitten."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5Q8JKPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S+auWGFHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly tearless formula that won't sting eyes during face washes"
   - "Buttermilk and honey base gently conditions without leaving residue"
   - "Free of sulfates, parabens, and artificial fragrances — safe for kittens 6 weeks and older"
-cons:
+cons: 
   - "Scent is very faint — if you want a fresh-smelling kitten, this won't deliver"
   - "Thin consistency lathers less than traditional kitten shampoos, so you may use more per bath"
+
 ---
 
 # Burt's Bees for Kittens Natural Tearless Shampoo with Butter: A Gentle Clean for Sensitive Skin

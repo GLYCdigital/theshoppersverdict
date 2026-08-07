@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Brush Shampoo Daily Use Formula"
 seo_title: "e.l.f. Brush Shampoo Review: Deep Clean for Daily Use"
 meta_description: "Our e.l.f. Brush Shampoo Daily Use Formula review: does this budget cleanser actually deep-clean brushes? Tested results, pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0877QWCPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GLds6VgUL._SL1500_.jpg"
-pros:
+pros: 
   - "Removes heavy foundation and cream product buildup in a single wash — no soaking required"
   - "Sulfate-free formula doesn't strip natural bristles or cause shedding, even on synthetic fibers"
   - "Dries quickly with no residue, so brushes are ready to use within a couple hours"
-cons:
+cons: 
   - "Scent is faintly chemical — not unpleasant, but don't expect a spa-like aroma"
   - "Small 4 fl oz bottle goes fast if you're cleaning a full kit weekly; consider buying two"
+
 ---
 
 Let's be honest about what "daily use" means in the beauty world: most of us are lucky to deep-clean our brushes once a month. But if you're someone who actually does wash your tools regularly — or you're trying to break the habit of swirling dirty bristles across your face — the e.l.f. Brush Shampoo Daily Use Formula is one of the most practical cleansers you'll find at this price point.

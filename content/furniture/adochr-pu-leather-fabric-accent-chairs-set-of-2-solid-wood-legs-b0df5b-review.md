@@ -1,4 +1,5 @@
 ---
+
 title: "adochr PU Leather Fabric Accent Chairs Set of 2, Solid Wood"
 seo_title: "adochr PU Leather Accent Chairs Review: Set of 2 Worth It?"
 meta_description: "Honest adochr PU Leather Fabric Accent Chairs Set of 2 review: build quality, comfort, real buyer feedback, and who should buy these solid wood chairs."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DF5B2L3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t53h1h8aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sold as a pair — two matching chairs for the price of one, which undercuts most competitors."
   - "Solid wood legs and frame provide genuine stability at a price point where most use particleboard."
   - "PU leather over high-density foam hits a comfort sweet spot between firm support and plush seating."
-cons:
+cons: 
   - "PU leather is not breathable — expect a sweaty back in summer months or warm climates."
   - "Assembly requires a Phillips screwdriver and some patience; hardware is adequate but not premium."
   - "Seat depth is shallow (around 19 inches), which will feel cramped for taller users or those over 200 lbs."
+
 ---
 
 If you're shopping for accent chairs on a budget, you've likely seen a dozen options that all look identical in photos. The adochr PU Leather Fabric Accent Chairs Set of 2 stands out for one simple reason: you get two chairs, not one, and the build quality doesn't betray the value price. But is it the right pair for your space? Let's dig into what you're actually getting.

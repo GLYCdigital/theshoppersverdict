@@ -1,4 +1,5 @@
 ---
+
 title: "Patriot P400 Internal SSD NVMe PCIe Gen 4x4 M.2 2280 Solid S"
 seo_title: "Patriot P400 Internal SSD NVMe PCIe Gen 4x4 M.2 22 Review"
 meta_description: "Our full patriot p400 internal ssd nvme pcie gen 4x4 m.2 2280 solid s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NPF2Q72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yuWH7B0qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Patriot P400 is a PCIe Gen 4x4 NVMe SSD that promises up to 5,000 MB/s sequential reads and 4,250 MB/s writes. In real-world office and workstation use, those numbers translate to boot times under 10 seconds, instant application launches, and no more staring at the spinning wheel when you open a 2GB spreadsheet.

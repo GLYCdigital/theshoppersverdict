@@ -1,16 +1,17 @@
 ---
+
 title: "Keurig K-Iced Coffee Maker, Single Serve K-Cup Pod Iced Coffee Maker, With Hot and Cold Coffee Capabilities, Brews Any K-Cup Pod, Gray"
 seo_title: "Keurig K-Iced Coffee Review: Verdict (4.4/5) | TSV"
 meta_description: "Honest keurig k-iced coffee maker, si review 6,819+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "keurig-k-iced-coffee-maker-single-serve-k-cup-pod-iced-coffee-review"
 image_alt: "Keurig K-Iced Coffee Maker, Single Serve K-Cup Pod Iced Coffee Maker, With Hot and Cold Coffee Capabilities, Brews Any K"
-keywords:
+keywords: 
   - "keurig kiced coffee review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What are the downsides of the Keurig K-Iced Coffee Maker?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Is the Keurig K-Iced Coffee Maker portable enough for travel?"
@@ -21,10 +22,11 @@ review_count: 6819
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BSMGNYN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61THMTrot5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Iced coffee is a $5-a-day habit for millions of people, and most of them are making it wrong at home — brewing hot coffee, dumping it over ice, and wondering why it tastes watery and bitter. The Keurig K-Iced ($97.75, 4.4 stars from 6,819 ratings) tries to fix that with a dedicated cold brew cycle that extracts at a lower temperature directly over ice. Is it worth the counter space? I've dug through the reviews and specs, and here's the real story.

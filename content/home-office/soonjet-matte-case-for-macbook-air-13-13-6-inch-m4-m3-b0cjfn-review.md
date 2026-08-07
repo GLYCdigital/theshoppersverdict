@@ -1,4 +1,5 @@
 ---
+
 title: "Soonjet Matte Case for MacBook Air 13/13.6-inch (M4/M3/M2, 2"
 seo_title: "Soonjet Matte Case for MacBook Air 13/13.6-inch (M Review"
 meta_description: "Our full soonjet matte case for macbook air 13/13.6-inch (m4/m3/m2, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJFN6VW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RCbGQhj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Soonjet Matte Case for MacBook Air 13/13.6-inch (M4/M3/M2): A Snug Fit with Real Grip**

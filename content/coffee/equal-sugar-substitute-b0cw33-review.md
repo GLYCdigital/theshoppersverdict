@@ -1,4 +1,5 @@
 ---
+
 title: "Equal Sugar Substitute"
 seo_title: "Equal Sugar Substitute Review: Does It Sweeten Coffee? (2026)"
 meta_description: "Equal Sugar Substitute review: taste, cost per serving, and how it dissolves in coffee. See if this zero-calorie sweetener beats the competition."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW33TZVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711LnkxJcxL._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves instantly in iced coffee and cold brew — no gritty residue at the bottom of the glass"
   - "One packet equals two teaspoons of sugar, so the conversion math is simple when adjusting recipes"
   - "Zero aftertaste compared to stevia-based blends; the aspartame formula is clean and familiar"
-cons:
+cons: 
   - "Not heat-stable for baking — caramelizes and turns bitter above 350°F, so skip it in cookies"
   - "Individual packets create waste; the bulk jar option isn't always available on Amazon"
   - "Aspartame sensitivity is real — a small percentage of users report headaches with daily use"
+
 ---
 
 **Equal Sugar Substitute Review: The Reliable Zero-Calorie Sweetener That Just Works**

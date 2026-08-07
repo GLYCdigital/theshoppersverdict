@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Sensitive Skin"
 seo_title: "Purina Pro Plan Sensitive Skin Review: Verdict | TSV"
 meta_description: "Our full purina pro plan sensitive skin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSRDPYKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oLo95HteL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog spends more time scratching than sleeping, you already know the drill: endless vet visits, a cabinet full of failed supplements, and a carpet that looks like a snow globe. Purina Pro Plan Sensitive Skin is aimed squarely at that frustration, and with a 4.6-star average across 229 ratings, it's clearly helping a lot of dogs. But is it right for yours?

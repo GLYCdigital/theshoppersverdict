@@ -1,4 +1,5 @@
 ---
+
 title: "Alienware x14 R2 Gaming Laptop 14 inch  QHD+ 165Hz G-Sync, Intel"
 seo_title: "Alienware x14 R2 Review: 14 inch  QHD+ 165Hz Gaming Laptop"
 meta_description: "Alienware x14 R2 review: 14 inch  QHD+ 165Hz G-Sync display, Intel Core i7, RTX 4060. Real performance, battery life, and thermal tradeoffs. Is it worth $1,800+?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D9H3D11V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZOtcuTxbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14-inch QHD+ 165Hz panel with G-Sync is genuinely sharp and smooth — one of the best displays in this size class"
   - "Slim 0.57-inch magnesium alloy chassis feels premium and travels well, unlike most gaming bricks"
   - "Intel Core i7-13620H plus RTX 4060 handles 1080p max settings and 1440p high in most AAA titles"
-cons:
+cons: 
   - "Battery life is mediocre — expect 4-5 hours of mixed use, not the all-day productivity Dell implies"
   - "Fan noise under load is noticeable; the thin chassis means thermals spike quickly during long sessions"
   - "RAM is soldered (16GB LPDDR5) — you're locked in, so spec it right the first time or don't buy it"
+
 ---
 
 **The Alienware x14 R2 is the laptop you buy when you refuse to compromise on portability but still want real gaming performance.** At 0.57 inches thin and roughly 4.1 pounds, it's slimmer than most ultrabooks, yet it packs an Intel Core i7-13620H and an RTX 4060. That's a rare combination, and it's exactly why this machine sits at a 3.9-star average from 195 Amazon buyers. But the thin-and-powerful formula comes with compromises you need to know about before dropping serious cash.

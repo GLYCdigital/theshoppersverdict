@@ -1,4 +1,5 @@
 ---
+
 title: "Socket Fan Light with Remote and App Control 22 inch Black"
 seo_title: "Socket Fan Light with Remote and App Control 22 in Review"
 meta_description: "Our full socket fan light with remote and app control 22 inch black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F6ND5ZDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-2YlUUAqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. A ceiling fan that screws into a light socket sounds like a hack — and honestly, it kind of is. But the Socket Fan Light with Remote and App Control in 22-inch black is one of the smarter hacks I've tested in the home improvement space. It solves a real problem: you want airflow and light in a room without paying an electrician to run new wiring.

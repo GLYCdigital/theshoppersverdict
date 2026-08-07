@@ -1,4 +1,5 @@
 ---
+
 title: "HEALTH LINE PRODUCT 4 Bike Stand, Indoor Bike Storage, Bicyc"
 seo_title: "HEALTH LINE PRODUCT 4 Bike Stand, Indoor Bike Stor Review"
 meta_description: "Our full health line product 4 bike stand, indoor bike storage, bicyc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B093PH8BP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tVhkMjJWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some bike racks look like they’ll tip over if you sneeze near them. This one doesn’t. The HEALTH LINE PRODUCT 4-bike stand is a welded steel unit that holds four bicycles in a vertical position, taking up roughly the floor space of a single adult bike. It’s the kind of thing you buy once, bolt down, and forget about — mostly.

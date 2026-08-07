@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Cuticle Pusher by Bona Fide Beauty - Premium Czech Gla"
 seo_title: "Glass Cuticle Pusher by Bona Fide Beauty - Premium Review"
 meta_description: "Our full glass cuticle pusher by bona fide beauty - premium czech gla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B69NJFKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PPUh6pZ2L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bona Fide Beauty Glass Cuticle Pusher Review: A $9 Upgrade That Actually Makes Sense**

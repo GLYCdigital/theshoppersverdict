@@ -1,4 +1,5 @@
 ---
+
 title: "Drill Doctor DD350X Drill Bit Sharpener - 3/32 inch  to 1/2 inch  - El"
 seo_title: "Drill Doctor DD350X Review: Sharp Bits in 60 Seconds"
 meta_description: "Drill Doctor DD350X review: sharpens 3/32 inch –1/2 inch  bits in under a minute. Real user feedback, pros/cons, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000BKX9CU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XQSXLObBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Sharpens 3/32 inch " to 1/2 inch " twist bits in under 60 seconds with a 115V motor that runs cool even on continuous use
   - "Built-in alignment port and diamond grinding wheel eliminate the guesswork of matching factory point angles"
   - "Includes a second wheel for splitting points on larger bits — a feature usually reserved for $200+ sharpeners"
-cons:
+cons: 
   - "Does not accept carbide or masonry bits — steel only, which limits its usefulness for some shops"
   - "Plastic housing feels less robust than the price suggests; handle with care during mounting"
+
 ---
 
 **Bottom line: The Drill Doctor DD350X turns a pile of dull, frustrating bits into a reliable set of sharp workers in under a minute each. It's not perfect — the plastic build and steel-only limitation are real — but for the average DIYer or small shop, it pays for itself in saved bit costs and saved patience.**

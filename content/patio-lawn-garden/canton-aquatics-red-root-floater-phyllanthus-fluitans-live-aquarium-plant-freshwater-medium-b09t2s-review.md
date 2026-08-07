@@ -1,4 +1,5 @@
 ---
+
 title: "CANTON AQUATICS Red Root Floater Phyllanthus Fluitans - Live"
 seo_title: "CANTON AQUATICS Red Root Floater Phyllanthus Fluit Review"
 meta_description: "Our full canton aquatics red root floater phyllanthus fluitans - live review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.5
 amazon_url: "https://www.amazon.com/dp/B09T2S3HJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YhlKvtEpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **CANTON AQUATICS Red Root Floater Phyllanthus Fluitans - Live** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

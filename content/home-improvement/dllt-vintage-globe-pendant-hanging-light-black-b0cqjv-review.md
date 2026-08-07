@@ -1,23 +1,25 @@
 ---
+
 title: "DLLT Vintage Globe Pendant Hanging Light Black"
 seo_title: "DLLT Vintage Globe Pendant Light Review: Stylish & Durable"
 meta_description: "Read our honest DLLT Vintage Globe Pendant Hanging Light Black review. Covers build quality, installation, sizing, pros, cons, and who should buy it."
 slug: "dllt-vintage-globe-pendant-hanging-light-black-b0cqjv-review"
 image_alt: "DLLT Vintage Globe Pendant Hanging Light in matte black with clear glass globe"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQJVC5T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YcfhFcSfL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True vintage aesthetic with matte black finish and clear seeded glass globe"  
   - "Adjustable hanging length (up to 47 inches) suits standard and vaulted ceilings"  
   - "E26 socket accepts any standard bulb, including Edison and smart LED"  
-cons:  
+cons: 
   - "Glass globe is delicate; handle with care during installation"  
   - "No dimmer included — you'll need a compatible switch or bulb"
+
 ---
 
 If you’re scrolling for a pendant light that doesn’t scream “builder-grade,” the DLLT Vintage Globe Pendant in matte black is worth a hard look. With 229 ratings averaging 4.6 stars, it’s clearly resonating with buyers who want industrial charm without paying boutique lighting prices. But does it hold up when the box arrives? Here’s the real story.

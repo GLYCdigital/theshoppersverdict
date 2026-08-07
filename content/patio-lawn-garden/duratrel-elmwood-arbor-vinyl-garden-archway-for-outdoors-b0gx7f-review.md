@@ -1,4 +1,5 @@
 ---
+
 title: "DuraTrel Elmwood Arbor, Vinyl Garden Archway for Outdoors"
 seo_title: "DuraTrel Elmwood Arbor Review: Is This Vinyl Garden Archway Worth It?"
 meta_description: "DuraTrel Elmwood Arbor review: 4.1-star rated vinyl garden archway. See pros, cons, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX7F6QWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+2lOXT3kL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Maintenance-free vinyl that won't rot, warp, or need repainting — unlike wood arbors"
   - "Pre-assembled side panels make installation a manageable weekend project"
   - "Classic white design with clean lines that complements most home exteriors"
-cons:
+cons: 
   - "Lightweight construction requires staking or anchoring in windy areas"
   - "Limited color options — white only"
   - "Not designed for heavy climbing vines; better suited for lightweight climbers"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "SHGJ&SOFT 7 Piece Patio Furniture Set, Wicker Outdoor Sectio"
 seo_title: "SHGJ&SOFT 7 Piece Patio Furniture Set, Wicker Outd Review"
 meta_description: "Our full shgj&soft 7 piece patio furniture set, wicker outdoor sectio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYPZ3Z6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91o4s3uIyeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the SHGJ&SOFT 7-piece wicker patio set is a solid mid-tier buy for anyone who wants a full outdoor living room without paying luxury prices. At 4.4 stars across 220 ratings, it earns its reputation — but it’s not without quirks. Here’s the breakdown.

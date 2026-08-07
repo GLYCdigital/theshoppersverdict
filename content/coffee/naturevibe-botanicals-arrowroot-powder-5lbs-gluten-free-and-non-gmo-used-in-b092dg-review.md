@@ -1,4 +1,5 @@
 ---
+
 title: "Naturevibe Botanicals Arrowroot Powder, 5lbs | Gluten-Free a"
 seo_title: "Naturevibe Botanicals Arrowroot Powder, 5lbs | Glu Review"
 meta_description: "Our full naturevibe botanicals arrowroot powder, 5lbs | gluten-free a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B092DGFN45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ghULQt3eL._SL1100_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **FAQ**

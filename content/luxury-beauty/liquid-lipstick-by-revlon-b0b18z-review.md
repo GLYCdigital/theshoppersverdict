@@ -1,4 +1,5 @@
 ---
+
 title: "Liquid Lipstick by Revlon"
 seo_title: "Liquid Lipstick by Revlon Review: Verdict | TSV"
 meta_description: "Our full liquid lipstick by revlon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B18ZYNL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710A5B+ZTFL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Revlon's liquid lipstick has been sitting in Amazon carts for a reason — 210 ratings averaging 4.2 stars means real people are buying this, not just influencers. But is it the "luxury at drugstore prices" product the marketing suggests, or another overhyped tube? I tested it across a full workday, a meal, and a workout to give you the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "CUNPU Gaming Monitor 24-27 Inch"
 seo_title: "CUNPU Gaming Monitor Review: 24-27 Inch Value Pick"
 meta_description: "CUNPU Gaming Monitor 24-27 inch review: 4.4-star rated. Real specs, build quality, and buyer feedback. See if this budget display fits your setup."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVDXYJTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aTVp1XcLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "VESA mount compatible with multiple size options in one SKU"
   - "Fast refresh rate for the price point"
   - "Thin bezels that work well in multi-monitor setups"
-cons:
+cons: 
   - "Built-in speakers are weak — plan for external audio"
   - "Stand lacks height adjustment on base model"
+
 ---
 
 Let's be honest about budget gaming monitors: most make you choose between speed and picture quality. The CUNPU 24-27 inch aims to split that difference, and with 220 ratings averaging 4.4 stars, shoppers are mostly satisfied. But "mostly" carries some caveats worth your attention before you hit buy.

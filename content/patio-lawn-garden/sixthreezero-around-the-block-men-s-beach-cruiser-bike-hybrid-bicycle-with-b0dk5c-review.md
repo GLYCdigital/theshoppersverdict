@@ -1,4 +1,5 @@
 ---
+
 title: "sixthreezero Around The Block Men's Beach Cruiser Bike, Hybr"
 seo_title: "sixthreezero Around The Block Men's Beach Cruiser  Review"
 meta_description: "Our full sixthreezero around the block men's beach cruiser bike, hybr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DK5C6HN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vVl41MnqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The beach cruiser market is full of bikes that look relaxed but ride like punishment after a mile. The sixthreezero Around The Block Men's Beach Cruiser aims for a middle ground — classic laid-back style with hybrid practicality. At a 4.3-star average across 215 ratings, it's clearly doing something right. But "something right" isn't the same as "everything right." Here's what you're actually getting.

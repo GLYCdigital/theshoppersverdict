@@ -1,7 +1,8 @@
 ---
-title: "WOODTIME 114\" Wall Unit Entertainment Center with Bookshelve"
-seo_title: "WOODTIME 114\" Wall Unit Entertainment Center with  Review"
-meta_description: "Our full woodtime 114\" wall unit entertainment center with bookshelve review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WOODTIME 114\ Wall Unit Entertainment Center with Bookshelve"
+seo_title: "WOODTIME 114\ Wall Unit Entertainment Center with  Review"
+meta_description: "Our full woodtime 114\ wall unit entertainment center with bookshelve review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "woodtime-114-wall-unit-entertainment-center-with-bookshelves-lights-and-18-shelves-b0dhzh-review"
 image_alt: "WOODTIME 114 Wall Unit Entertainment Center with Bookshelves, Lights and 18 Shelves, Modern 4-Piece TV Stand Media Conso"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DHZHR5ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716LLu1HsYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 9.5-Foot Wall That Does Everything

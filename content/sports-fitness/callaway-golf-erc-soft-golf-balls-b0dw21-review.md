@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf ERC Soft Golf Balls"
 seo_title: "Callaway ERC Soft Golf Balls Review (2026): Worth It?"
 meta_description: "Honest Callaway ERC Soft golf ball review: feel, spin, distance, durability. See who should buy, who should skip, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DW21ZPV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715BywBUYlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hyper Elastic SoftFast core delivers genuine distance gains without feeling like a rock off the putter face"
   - "Triple Track alignment aid genuinely helps with putting aim — not a gimmick for once"
   - "Exceptional short-game spin for a soft ball; holds greens better than most competitors in this compression range"
-cons:
+cons: 
   - "Cover scuffs noticeably faster than premium urethane balls (Chrome Soft, Pro V1) on wedge-heavy rounds"
   - "Not for low handicaps seeking tour-level greenside control — this sits firmly in the game-improvement category"
+
 ---
 
 Let me be blunt: the golf ball market is crowded with options that promise everything and deliver little. The Callaway ERC Soft isn't trying to be all things to all golfers — and that's exactly why it works.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DW0892G Laser Detector, Green"
 seo_title: "DEWALT DW0892G Laser Detector Review (2026): Is It Worth It?"
 meta_description: "Honest DEWALT DW0892G laser detector review: range, accuracy, green beam visibility, pros, cons, and who should buy. Real user feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0182AQQJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jyFVC4smL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "200-foot working range picks up green beams even in bright daylight conditions"
   - "Rotating 360-degree bracket with rare-earth magnets frees up both hands for layout work"
   - "Audible tone shifts pitch as you approach centerline — no need to look at the display"
-cons:
+cons: 
   - "No included carrying case; the plastic housing scuffs easily on job sites"
   - "Requires a 9V battery (not included) and drains it quickly if you forget to power down"
+
 ---
 
 If you've ever tried to use a green laser level outdoors and found yourself squinting at an invisible line, you already know the pain this detector solves. The DEWALT DW0892G isn't a laser level itself — it's the receiver that makes your existing green-beam tool actually usable in sunlight. After digging into 229 ratings and owner feedback, here's the real story on whether this accessory earns its place in your bag.

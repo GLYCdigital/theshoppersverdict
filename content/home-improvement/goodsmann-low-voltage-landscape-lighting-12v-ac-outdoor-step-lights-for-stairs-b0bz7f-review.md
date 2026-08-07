@@ -1,4 +1,5 @@
 ---
+
 title: "GOODSMANN Low Voltage Landscape Lighting 12V AC Outdoor Step"
 seo_title: "GOODSMANN Low Voltage Landscape Lighting 12V AC Ou Review"
 meta_description: "Our full goodsmann low voltage landscape lighting 12v ac outdoor step review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZ7FH34X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g+QKwWP-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: most low-voltage step lights under $30 are plastic junk that yellows in a season. The GOODSMANN 12V AC step light is not that. After combing through 225 ratings and the spec sheet, here's what actually matters before you hand over your credit card.

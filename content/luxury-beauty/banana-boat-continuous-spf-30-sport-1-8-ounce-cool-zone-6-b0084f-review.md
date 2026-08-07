@@ -1,4 +1,5 @@
 ---
+
 title: "Banana Boat Continuous Spf#30 Sport 1.8 Ounce Cool Zone (6 P"
 seo_title: "Banana Boat Sport SPF 30 Cool Zone Review (6-Pack)"
 meta_description: "Honest Banana Boat Sport SPF 30 Cool Zone 6-pack review: cooling spray, sweat resistance, value. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0084FAL2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81G8EZ98eIL._SL1500_.jpg"
-pros:
+pros: 
   - "Cooling menthol sensation activates on contact — genuinely refreshing on hot skin, not just marketing hype"
   - "Truly continuous spray works at any angle, including upside down for hard-to-reach spots like backs of legs"
   - "6-pack of 1.8 oz cans gives real value — travel-friendly without paying single-can markup"
-cons:
+cons: 
   - "SPF 30 only — serious sun worshippers or fair skin types will want SPF 50+ for full-day exposure"
   - "1.8 oz cans run out fast — roughly 6-7 full-body applications per can, so budget accordingly"
   - "Strong fragrance — smells like classic sunscreen cocktail, not for scent-sensitive users"
+
 ---
 
 Let’s cut through the noise: if you’re searching for a sunscreen that actually stays on when you sweat, doesn’t require a second person to apply to your back, and comes in a six-pack that won’t wreck your beach bag budget, this Banana Boat Sport SPF 30 Cool Zone bundle deserves a hard look. With a 4.8-star average across 240 ratings, it’s clearly earning its keep — but is it right for *you*? Here’s the breakdown.

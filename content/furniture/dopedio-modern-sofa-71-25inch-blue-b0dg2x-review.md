@@ -1,4 +1,5 @@
 ---
+
 title: "DOPEDIO Modern Sofa 71.25inch Blue"
 seo_title: "DOPEDIO Modern Sofa Review: 71.25 inch Blue Couch Worth It?"
 meta_description: "DOPEDIO Modern Sofa 71.25inch Blue review: Is this 3-seater worth it? Real buyer feedback on comfort, assembly & quality. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DG2XC8LF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71doiBxkVCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood frame rated for 750 lbs — holds up with daily family use"
   - "Stain-resistant blue fabric that actually cleans up well with just a damp cloth"
   - "Tools and hardware included, most buyers assemble in under 30 minutes"
-cons:
+cons: 
   - "Firm seat cushions — not plush; some buyers find them stiff for the first few weeks"
   - "Back cushions are loose and need frequent fluffing to keep their shape"
+
 ---
 
 Let’s be straight about the DOPEDIO Modern Sofa: at 71.25 inches wide, this is a compact 3-seater that punches above its price class in build quality, but it makes a clear compromise on cushion softness. If you’re shopping for a living room centerpiece on a budget, here’s what you actually need to know before clicking buy.

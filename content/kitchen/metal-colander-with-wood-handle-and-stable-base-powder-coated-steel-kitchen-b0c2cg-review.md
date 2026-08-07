@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Colander with Wood Handle and Stable Base, Powder Coat"
 seo_title: "Metal Colander with Wood Handle and Stable Base, P Review"
 meta_description: "Our full metal colander with wood handle and stable base, powder coat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2CG4DC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710zKfbJjTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A colander that actually stays put — finally**

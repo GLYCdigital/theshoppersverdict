@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken of the Sea pink salmon"
 seo_title: "Chicken of the Sea Pink Salmon Review: Is It Worth It?"
 meta_description: "Chicken of the Sea pink salmon review: taste, texture, and value. See what 229 Amazon buyers rate 4.6/5 and whether it's right for your kitchen."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DG6Y44ZL/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/71UKTiJnrHL._SL1500_.jpg"
-pros:
+pros: 
   - "Wild-caught Alaskan pink salmon with clean, mild flavor that doesn't taste fishy"
   - "Convenient pull-tab can — no can opener needed, works for camping or office lunches"
   - "High protein (about 17g per serving) with omega-3s, at a price point well below sockeye"
-cons:
+cons: 
   - "Some batches include skin and darker meat pieces — texture varies from can to can"
   - "Smaller 5-ounce cans mean you'll need two for a substantial meal for two adults"
   - "Mild flavor may disappoint if you expect the richness of sockeye or king salmon"
+
 ---
 
 Let me be upfront: I'm reviewing canned fish, not coffee. But if you're reading this, you already clicked, so let's talk about whether Chicken of the Sea pink salmon earns its 4.6-star rating across 229 Amazon reviews — and whether it deserves a spot in your pantry.

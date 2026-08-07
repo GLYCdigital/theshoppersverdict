@@ -1,4 +1,5 @@
 ---
+
 title: "Earthborn Elements Crushed Red Pepper Flakes 1 Gallon Bucket"
 seo_title: "Earthborn Elements Crushed Red Pepper Review: 1-Gal Bucket"
 meta_description: "Read our honest Earthborn Elements Crushed Red Pepper Flakes 1 Gallon review. Is this bulk buy a bargain or a mistake? Flavor, heat, and value tested."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C5JYDH7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aSNV0pUYL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine heat level that lingers without being punishing — crushed Calabrian-style flakes, not just powdered cayenne"
   - "Resealable 1-gallon bucket with a handle; keeps flakes dry and fresh for months of heavy use"
   - "No anti-caking agents, no salt, no fillers — just dried red chili peppers"
-cons:
+cons: 
   - "1-gallon size is impractical for casual cooks; you'll need to decant into smaller jars or risk stale flakes"
   - "Heat level varies by batch — some buckets run noticeably hotter than others"
   - "Flakes are coarser than standard pizza-joint shakers; they don't dissolve well in soups or sauces without steeping"
+
 ---
 
 Let's cut through the noise. You don't buy a gallon bucket of red pepper flakes because you sprinkle a little on your pasta now and then. You buy it because you're running a pizzeria, you're meal-prepping for a family of six, or you've decided that buying spices in bulk is the only rational way to shop. Earthborn Elements' 1-gallon bucket is a serious commitment — roughly 4.5 pounds of crushed red pepper — and it's worth knowing exactly what you're getting into before you click "add to cart."

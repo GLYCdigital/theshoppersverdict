@@ -1,4 +1,5 @@
 ---
+
 title: "BIC 4-Color Retractable Ballpoint Pens Review"
 seo_title: "BIC 4-Color Retractable Pens Review: Worth It? (2026)"
 meta_description: "BIC 4-Color Retractable Ballpoint Pens review: 4.6/5 rating. Tested for durability, ink flow, and color switching. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GH379HBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K+RdX3wIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four retractable ink colors in one barrel — no more losing caps or juggling separate pens"
   - "Smooth, consistent 1.0mm medium point that doesn't skip or blob on standard copy paper"
   - "Durable metal clip and strong barrel plastic that survives daily pocket carry"
-cons:
+cons: 
   - "Thicker barrel can fatigue hands during marathon note-taking sessions"
   - "Color selector mechanism requires deliberate thumb pressure — easy to accidentally switch colors mid-write"
+
 ---
 
 Some pens are tools. This one is a system. The BIC 4-Color Retractable Ballpoint Pen puts blue, black, red, and green in a single barrel with a sliding color selector. If you've ever fumbled through a drawer full of single-color pens mid-meeting, you already know why this exists. But does it execute well enough to justify replacing your current setup? I tested one for two weeks across notebooks, sticky notes, and shipping labels. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yale Assure Lever"
 seo_title: "Yale Assure Lever Review: Verdict | TSV"
 meta_description: "Our full yale assure lever review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0C7VCBFRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BOaliE9EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a smart lever lock, the Yale Assure Lever is likely on your radar. It's a name-brand product with the promise of keyless entry and app control, sitting at a mid-range price point. But with a 3.4-star average across 170 ratings, the real-world experience is more complicated than the marketing suggests. Here's what you need to know before you buy.

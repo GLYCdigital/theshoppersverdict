@@ -1,4 +1,5 @@
 ---
+
 title: "Chocolove, Chocolate Bar Dark Rich, 3.2 oz"
 seo_title: "Chocolove Dark Rich Bar Review: Worth It? (2026)"
 meta_description: "Our honest Chocolove Dark Rich 3.2 oz review: taste, texture, and value. See if this 60% cacao bar beats the grocery store brands."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4VJX2G6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EV-bxFH1L._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, creamy melt with a well-balanced 60% cacao that isn't overly bitter or sweet"
   - "Generous 3.2 oz bar size with satisfyingly thick segments that snap cleanly"
   - "Individually wrapped and sturdy enough to survive shipping without crumbling"
-cons:
+cons: 
   - "No percentage or cacao origin printed prominently on the front, making it easy to confuse with other Chocolove varieties"
   - "Some buyers may find the texture slightly softer than premium single-origin bars due to the added cocoa butter content"
+
 ---
 
 **The 3.2 oz bar that punches above its price point—but has a packaging flaw that might trip you up.**

@@ -1,16 +1,17 @@
 ---
+
 title: "Starbucks K-Cup Coffee Pods, Dark Roast Espresso Roast, 75 Count"
 seo_title: "Starbucks Espresso Roast K-Cups Review: Best Dark Roast Pod? (4.8/5)"
 meta_description: "Honest Starbucks Espresso Roast K-Cup review based on 995 Amazon reviews. Bold, full-bodied, 100% Arabica — worth buying in bulk? Find out."
 slug: "starbucks-espresso-roast-k-cup-pods-review"
 image_alt: "Starbucks Espresso Roast K-Cup Coffee Pods 75 Count Box"
-keywords:
+keywords: 
   - "Starbucks K-Cup review"
   - "best Starbucks coffee pods for Keurig"
   - "Starbucks Espresso Roast review"
   - "dark roast K-Cups"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "Can you make real espresso with Starbucks Espresso Roast K-Cups?"
     answer: "For true espresso flavor, brew at the 2-ounce setting. One reviewer notes that the bigger the brew, the less it tastes like espresso."
   - question: "Are Starbucks K-Cups compatible with all Keurig machines?"
@@ -23,15 +24,16 @@ review_count: 995
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGL212LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sc2GgzxkL._SL1500_.jpg"
-pros:
+pros: 
   - "True Starbucks espresso flavor in pod form"
   - "Strong with caramel undertones, not bitter"
   - "75-count box offers solid per-cup value"
   - "100% Arabica beans"
-cons:
+cons: 
   - "Must brew small (2 oz) for real espresso taste"
   - "Large brew sizes dilute the flavor significantly"
   - "Some may find it strong as a regular coffee"
+
 ---
 
 Getting Starbucks-quality espresso at home without the machine or the drive-thru line used to be a compromise. With these Espresso Roast K-Cups, the gap is narrower than ever.

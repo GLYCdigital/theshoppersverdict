@@ -1,4 +1,5 @@
 ---
+
 title: "Olympia Tools Foldable Push Cart Dolly - Heavy Duty Platform"
 seo_title: "Olympia Tools Foldable Push Cart Dolly - Heavy Dut Review"
 meta_description: "Our full olympia tools foldable push cart dolly - heavy duty platform review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5MCR17R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6160PJ11lyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a 40-pound bag of dog food from the car to the house, or moved a mini-fridge across an apartment, you know the pain of the "almost worth it" dolly — the one that folds up but feels like it's going to buckle under anything heavier than a laundry basket. The Olympia Tools Foldable Push Cart Dolly is not that cart. But it's also not the last word in hand trucks, and you should know exactly where it cuts corners before you hand over your money.

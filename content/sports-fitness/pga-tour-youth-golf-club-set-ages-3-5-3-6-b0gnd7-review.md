@@ -1,4 +1,5 @@
 ---
+
 title: "PGA Tour Youth Golf Club Set â€“ Ages 3-5 (3â€™6â€"
 seo_title: "PGA Tour Youth Golf Club Set â€“ Ages 3-5 (3â€™6â€ Review"
 meta_description: "Our full pga tour youth golf club set â€“ ages 3-5 (3â€™6â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GND743RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q73hiwFzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a toddler try to swing an adult’s driver, you know the chaos: club dragging, grip slipping, and a kid who’s more frustrated than Tiger Woods on a bad Sunday. The PGA Tour Youth Golf Club Set – Ages 3-5 (3’6") aims to fix that with clubs sized for a 42-inch-tall child. And for the most part, it delivers.  

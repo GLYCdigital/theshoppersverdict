@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Animal Barrier Fence, No Dig Decorative Fences, 1.5in"
 seo_title: "Garden Animal Barrier Fence Review: No-Dig, 1.5in Spikes (2026)"
 meta_description: "Honest review of the 1.5in no-dig garden animal barrier fence. Does it stop rabbits & squirrels? See pros, cons, and real buyer verdicts."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8VJ1G7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lJsKKggxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1.5-inch spike spacing is tight enough to block adult squirrels and rabbits while remaining visually unobtrusive"
   - "No-dig installation with ground stakes works on existing beds without disturbing established root systems"
   - "Flexible panel design follows curved borders and slopes without kinking or losing rigidity"
-cons:
+cons: 
   - "At roughly 12 inches tall, it won't stop determined deer or large dogs — this is a small-critter barrier, not a full fence"
   - "Stakes can loosen in sandy or loose soil after heavy rain; may require re-seating seasonally"
   - "Individual panels need to be connected with zip ties or clips (not included) for long runs, which adds assembly time"
+
 ---
 
 **Bottom line up front:** If rabbits are treating your hostas like a salad bar and squirrels are using your tulip beds as a buffet, this 1.5-inch-spike no-dig fence is one of the most practical fixes under $50. It won't stop a deer, but it was never designed to.

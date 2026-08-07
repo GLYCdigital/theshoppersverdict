@@ -1,4 +1,5 @@
 ---
+
 title: "Epson T200 DURABrite Ultra Standard Cartridge"
 seo_title: "Epson T200 DURABrite Ultra Review: Worth It? (2026)"
 meta_description: "Honest Epson T200 DURABrite Ultra cartridge review: print quality, page yield, smudge resistance, and whether it beats third-party ink."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00APHDRLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YySk0IFWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pigment-based ink dries instantly and resists smudging, even on plain copy paper"
   - "Genuine Epson cartridges produce consistent, sharp text with no clogging issues reported across hundreds of reviews"
   - "Compatible with a wide range of WorkForce and Expression printers, making it a safe one-size buy"
-cons:
+cons: 
   - "Standard yield (approx. 300 pages) runs out fast for high-volume offices — you'll pay more per page than with an XL cartridge"
   - "Price per milliliter is steep compared to remanufactured alternatives, though you get reliability in exchange"
+
 ---
 
 **Is the Epson T200 DURABrite Ultra worth your money, or should you roll the dice on third-party ink?** With 225 ratings averaging 4.5 stars, this cartridge from Epson's DURABrite line has a solid reputation. But "solid" doesn't mean "right for everyone." Here's what you need to know before checkout.

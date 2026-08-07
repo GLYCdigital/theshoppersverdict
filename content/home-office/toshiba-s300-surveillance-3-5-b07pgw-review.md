@@ -1,4 +1,5 @@
 ---
+
 title: "Toshiba S300 Surveillance 3.5â€"
 seo_title: "Toshiba S300 Surveillance 3.5â€ Review: Verdict | TSV"
 meta_description: "Our full toshiba s300 surveillance 3.5â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07PGWWG9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dra9kegKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building or expanding an NVR system, you've probably noticed the price gap between standard desktop drives and "surveillance-rated" models. The Toshiba S300 sits firmly in the middle of that conversation — and after digging through 200+ owner reports and the spec sheet, here's the honest picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "Broan-NuTone"
 seo_title: "Broan-NuTone Review: Is This Kitchen Vent Worth It?"
 meta_description: "Broan-NuTone kitchen vent review: real performance data, buyer feedback, and honest tradeoffs. See if this 4.5-star range hood fits your kitchen."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYH9HBCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WJkOeyTlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally quiet at low speed — rated around 1.5 sones, so you can hold a conversation while it runs"
   - "True ducted venting capability moves smoke and grease out of the house, not just through a recirculating filter"
   - "Stainless steel body resists fingerprints and wipes clean with standard kitchen degreaser"
-cons:
+cons: 
   - "No built-in light dimming — the halogen bulbs are either full brightness or off, which can feel harsh at night"
   - "Installation requires hardwiring; if you don't have a junction box near your cooktop, budget for an electrician"
+
 ---
 
 Let me cut through the noise here: if you're shopping for a range hood on Amazon, you're probably staring at a wall of near-identical stainless steel boxes with vague "CFM" numbers and wondering if any of them actually work. The Broan-NuTone model in question — the one with 225 ratings averaging 4.5 stars — is one of the few that deserves a closer look, but not for the reasons you might expect.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 5 Cup Drip Coffee Maker"
 seo_title: "Amazon Basics 5 Cup Coffee Maker Review (2026)"
 meta_description: "Amazon Basics 5 Cup Drip Coffee Maker review: honest pros, cons, brew quality, and who should buy. Is this $20 budget brewer worth it?"
@@ -11,14 +12,15 @@ review_count: 1261
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VPt3SUBoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Glass carafe with drip-free spout and clear measurement markings — no pouring mess"
   - Compact footprint (roughly 9.5 inch " wide) fits under standard upper cabinets
   - "Pause-and-serve function lets you pour a cup mid-brew without flooding the basket"
-cons:
+cons: 
   - "No auto-shutoff timer — the warming plate stays on until you flip the switch"
   - "Brews hot but not scalding; large mugs come up short since the carafe maxes at 25 oz"
   - "Filter basket is unmarked — you'll guess at the #4 cone filter size if you don't read the manual"
+
 ---
 
 Let's be honest: at $19.94, the Amazon Basics 5 Cup Drip Coffee Maker isn't trying to win barista awards. It's trying to get hot coffee in your mug with minimal fuss and maximum value. After digging through 1,261 ratings and the specs, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "recteq Deck Boss 800"
 seo_title: "recteq Deck Boss 800 Review: Verdict | TSV"
 meta_description: "Our full recteq deck boss 800 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BGSZJR5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71agd8SWTEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the recteq Deck Boss 800 is the grill that people who've owned cheap pellet smokers eventually buy. It's not the cheapest, not the flashiest, but it's the one that makes you stop fussing and start cooking. After digging through 229 Amazon ratings at 4.6 stars, here's what you actually need to know.

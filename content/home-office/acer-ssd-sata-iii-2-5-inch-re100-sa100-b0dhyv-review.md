@@ -1,4 +1,5 @@
 ---
+
 title: "acer SSD SATA III 2.5 Inch RE100 SA100 inch"
 seo_title: "acer RE100 SA100 SSD Review: Reliable SATA III Upgrade (2026)"
 meta_description: "acer RE100 SA100 2.5 inch  SATA III SSD review: read/write speeds, real-world performance, durability, and who should buy this budget-friendly storage upgrade."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHYVN2LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41lamoFeHiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Up to 560 MB/s sequential read speeds — near the practical ceiling for SATA III, making it a genuine drop-in performance boost for older laptops"
   - "Aluminum alloy housing with a slim 7mm profile fits both ultrabooks and standard 9.5mm drive bays with the included spacer"
   - "Stable sustained write performance for a DRAM-less design, avoiding the post-cache slowdowns seen in cheaper competitors"
-cons:
+cons: 
   - "No cloning software or mounting screw included in the box — budget for a separate migration tool if you're not comfortable with manual Windows reinstalls"
   - "Capacities top out at 1TB; power users needing 2TB+ will need to look elsewhere in the RE100 lineup or other brands"
+
 ---
 
 If your old laptop takes two full minutes to boot into Windows and spins its fans every time you open Chrome, the acer RE100 SA100 is the $40-ish fix you've been putting off. This 2.5-inch SATA III SSD doesn't reinvent the wheel — it just makes the wheel spin a lot faster.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT FLEXVOLT 60V MAX* Cordless Drill For Concrete Mixing,"
 seo_title: "DEWALT FLEXVOLT 60V Concrete Mixing Drill Review (2026)"
 meta_description: "DEWALT FLEXVOLT 60V MAX cordless drill for concrete mixing review: real-world performance, E-Clutch safety, battery life, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07QCK496N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sXgHmKBLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "E-Clutch system kills the motor the instant the bit binds — a genuine wrist-saver that works faster than human reflexes"
   - "Genuine 60V power with FLEXVOLT battery that also runs 20V tools in the same lineup"
   - "Variable speed trigger with 0-550 RPM range gives precise control for thick mortar, not just spin-and-pray"
-cons:
+cons: 
   - "Heavy — 8+ pounds with battery and paddle attached; you'll feel it after a full day of overhead work"
   - "Bare tool only; the 60V battery and charger cost over $200 extra if you don't already own them"
   - "Not a hammer drill — don't expect to punch holes in concrete with this, it's a dedicated mixer"
+
 ---
 
 If you've ever mixed a 60-pound bag of thinset with a standard drill, you know the feeling: the bit grabs, the handle twists, and your wrist pays the price. DEWALT's FLEXVOLT 60V MAX drill with the E-Clutch system exists specifically to end that pain. At 4.8 stars from 240 ratings, it's become the go-to for contractors and serious DIYers who mix mud, mortar, and grout regularly. But it's not for everyone — and the price of admission is steep if you're not already in the FLEXVOLT ecosystem.

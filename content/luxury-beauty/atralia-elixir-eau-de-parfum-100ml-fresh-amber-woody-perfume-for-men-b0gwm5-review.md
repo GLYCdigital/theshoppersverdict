@@ -1,4 +1,5 @@
 ---
+
 title: "Atralia Elixir Eau de Parfum 100ML | Fresh Amber Woody Perfu"
 seo_title: "Atralia Elixir EDP Review: Fresh Amber Woody Scent (2026)"
 meta_description: "Atralia Elixir Eau de Parfum review: Is this fresh amber woody fragrance worth it? Longevity, sillage, value — honest buyer's verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWM5JJH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81T+Y8TN54L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 8-10 hour longevity on skin with 2-3 sprays, outperforming many department store fragrances at this price"
   - "Balanced fresh-woody composition that works for office, dates, and evening wear without being overpowering"
   - "Full 100ML bottle with a magnetic cap and heavy glass construction that feels significantly more premium than the price suggests"
-cons:
+cons: 
   - "Projection is moderate — don't expect a scent trail that enters a room before you do"
   - "The opening 10-15 minutes has a sharp citrus-alcohol blast that some may find synthetic before it settles"
   - "Sillage fades to a skin scent after roughly 4 hours, requiring a mid-day reapply for all-day presence"
+
 ---
 
 The fragrance market is crowded with overpriced designer bottles that evaporate in two hours and cheap clones that smell like a chemistry experiment gone wrong. The Atralia Elixir Eau de Parfum sits in a rare middle ground — a 100ML amber-woody scent that actually delivers on its fresh, sophisticated promise. After testing it across office days, weekend errands, and a formal dinner, here's the unfiltered picture.

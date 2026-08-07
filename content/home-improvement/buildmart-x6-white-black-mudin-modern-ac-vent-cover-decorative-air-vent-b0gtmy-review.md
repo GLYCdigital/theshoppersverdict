@@ -1,4 +1,5 @@
 ---
+
 title: "BUILDMART - x6 White/Black/MudIn Modern AC Vent Cover - Deco"
 seo_title: "BUILDMART AC Vent Cover Review: 6-Pack Modern Deco"
 meta_description: "BUILDMART x6 AC vent covers in White/Black/MudIn: Are they worth it? We break down fit, finish, and real buyer feedback in this 4.6-star review."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTMYTC6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-945j2k-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three finish options (White, Black, MudIn) let you match trim or go bold — the matte black hides dust far better than standard white registers"
   - "Modern Deco slat pattern updates the look of dated stamped-steel vents without requiring any duct modification"
   - "Six-piece pack covers a whole floor of standard 4x10 or 4x12 openings for roughly what two decorative vents cost at big-box stores"
-cons:
+cons: 
   - "Paint finish is thin in spots — one reviewer noted chipping at the corners during installation, so use a flat blade screwdriver, not a claw hammer"
   - "No adjustable damper — these are fixed louver designs, so you lose the ability to balance airflow room-to-room"
+
 ---
 
 Let's be honest: the standard stamped-steel register vents in most homes are ugly. They collect dust, they're stamped with that cheap honeycomb pattern that looks like a 1980s office ceiling, and they never quite match anything. The BUILDMART x6 Modern Deco AC Vent Cover set is aimed squarely at that problem — and at 4.6 stars across 229 ratings, it's clearly hitting the mark for most buyers.

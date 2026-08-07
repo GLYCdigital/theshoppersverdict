@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCD996P2 20V MAX* XR Lithium Ion Brushless 3-Speed Ha"
 seo_title: "DEWALT DCD996P2 Review: 20V Max XR Hammer Drill"
 meta_description: "DEWALT DCD996P2 20V MAX XR brushless hammer drill review: power, speed, and real-world performance. See what 240+ buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01G2OLLPU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LkkcgT27L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Up to 2,000 RPM and 1,200 in-lbs of torque — genuinely outperforms most 20V drills in its class"
   - "Durable XR 5.0Ah batteries with included charger deliver extended run time for heavy jobs"
   - "Three-speed transmission with electronic clutch gives precise control for everything from delicate driving to masonry drilling"
-cons:
+cons: 
   - "The hammer drill mode is functional but not a replacement for a dedicated rotary hammer on serious concrete work"
   - "Heavy at 4.8 lbs with battery — fatiguing for overhead work or long days on a ladder"
+
 ---
 
 If you're shopping for a 20V drill that claims to be "pro-grade," you've probably stared at this DEWALT DCD996P2 listing and wondered if it's worth the premium over the standard DCD771 or the cheaper Ryobi options. With a 4.8-star average across 240 ratings, the numbers look good. But here's what those ratings don't tell you: this drill is a torque monster that will embarrass most corded drills from a decade ago, yet it has quirks you need to know about before you drop your cash.

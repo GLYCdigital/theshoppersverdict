@@ -1,4 +1,5 @@
 ---
+
 title: "AQQA Aquarium Air Pump,3.5W 5W Dual Outlet Oxygen Pump with"
 seo_title: "AQQA Aquarium Air Pump Review: Quiet Dual Outlet Oxygen"
 meta_description: "AQQA 3.5W/5W dual outlet aquarium air pump review. Is it quiet enough for a bedroom? We test performance, noise, and value for planted and fish tanks."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097ZSFHKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sYf89oPiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable dual outlets with independent flow control knobs — run one tank or two with different bubble intensities"
   - "Silicone feet and compact chassis keep vibration noise low for a diaphragm pump in this wattage class"
   - "Comes with two check valves, two air stones, and 6 feet of tubing — actually ready to run out of the box"
-cons:
+cons: 
   - "No battery backup option — power outage means no aeration, which is a dealbreaker for some shrimp keepers"
   - "At 5W full blast, the hum is noticeable in a quiet bedroom — fine for a living room, not for light sleepers"
   - "Check valves included but not glued; they can pop loose over time if tubing is tugged"
+
 ---
 
 # AQQA Aquarium Air Pump Review: Is the Dual Outlet Worth Your Tank?

@@ -1,4 +1,5 @@
 ---
+
 title: "Nutramax Proviable Kit for Cats and Small Dogs"
 seo_title: "Nutramax Proviable Kit for Cats and Small Dogs Review: Ve"
 meta_description: "Our full nutramax proviable kit for cats and small dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B013ESZG80/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aJHvtH5yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## When Your Cat's Gut Goes Haywire, This Kit Earns Its Spot

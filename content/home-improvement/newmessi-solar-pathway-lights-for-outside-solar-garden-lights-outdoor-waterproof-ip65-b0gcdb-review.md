@@ -1,4 +1,5 @@
 ---
+
 title: "NEWMESSI Solar Pathway Lights for Outside, Solar Garden Ligh"
 seo_title: "NEWMESSI Solar Pathway Lights for Outside, Solar G Review"
 meta_description: "Our full newmessi solar pathway lights for outside, solar garden ligh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GCDBVMD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TBAwkD4yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most solar path lights under $30 are disposable junk that stops working by October. The NEWMESSI set, however, has earned its 4.5-star rating across 225 Amazon reviews for a specific reason — it does the one thing cheap lights rarely do: survive.

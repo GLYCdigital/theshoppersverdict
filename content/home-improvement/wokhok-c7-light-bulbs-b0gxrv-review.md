@@ -1,4 +1,5 @@
 ---
+
 title: "WokHok C7 Light Bulbs"
 seo_title: "WokHok C7 Light Bulbs Review: Verdict | TSV"
 meta_description: "Our full wokhok c7 light bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXRVS947/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AaFDq6PGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 C7 bulbs are the unsung workhorses of holiday decorating and year-round patio ambiance. The WokHok C7 set has racked up 235 ratings at 4.7 stars, which tells you it's doing something right. But as someone who's swapped out more blown C7s than I care to count, I wanted to know if these actually hold up — or if the rating is just holiday cheer.

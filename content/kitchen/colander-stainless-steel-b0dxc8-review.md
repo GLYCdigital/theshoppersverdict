@@ -1,4 +1,5 @@
 ---
+
 title: "Colander, Stainless Steel"
 seo_title: "Colander Stainless Steel Review: Durable & Rust-Resistant (2026)"
 meta_description: "Honest review of a stainless steel colander: build quality, drainage performance, real user feedback, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXC8BPRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FZ2letcYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Welded (not riveted) handle construction that won't loosen or harbor bacteria"
   - "Fine-mesh holes drain quickly without letting small grains or seeds escape"
   - "Mirror-polish finish resists staining from tomato sauce and doesn't retain odors"
-cons:
+cons: 
   - "No rubberized grip on handles, so it gets hot if you hold it right after boiling"
   - "Fine mesh requires a bit more rinsing effort than wide-hole colanders"
+
 ---
 
 Most colanders are junk. The cheap plastic ones warp in the dishwasher, and the flimsy aluminum ones dent the first time you look at them sideways. So when a stainless steel colander shows up with a 4.6-star average across 229 ratings, it deserves a closer look. Here's the real story.

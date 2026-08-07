@@ -1,4 +1,5 @@
 ---
+
 title: "Autopool Pool Pilot Digital Chlorine Generator Replacement"
 seo_title: "Autopilot Pool Pilot Digital Chlorine Generator Review (2026)"
 meta_description: "Honest Autopilot Pool Pilot PPC1 cell review: performance, lifespan, salt cell pros/cons, and who should buy. Real owner feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003WW4WBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51z55Ne0P8L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine OEM replacement that fits existing Pool Pilot manifolds without adapter kits"
   - "Includes unions — saves the $30–50 hassle of tracking down separate fittings"
   - "Consistent chlorine output at 40,000-gallon rated capacity; most owners report 3–5 seasons"
-cons:
+cons: 
   - "Premium price point — runs $100+ over generic alternatives"
   - "No warranty extension beyond standard 1-year; some competitors offer 2-year coverage"
+
 ---
 
 Let's cut to the chase: if you own a Pool Pilot digital system, you're likely staring at a dead cell right now, wondering whether to drop serious coin on an OEM replacement or gamble on a no-name knockoff. This is the part where most reviews waffle. I won't.

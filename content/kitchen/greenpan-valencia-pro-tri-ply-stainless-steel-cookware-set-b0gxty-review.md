@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Valencia Pro Tri-Ply Stainless Steel Cookware Set"
 seo_title: "GreenPan Valencia Pro Tri-Ply Stainless Steel Cook Review"
 meta_description: "Our full greenpan valencia pro tri-ply stainless steel cookware set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXTYYRMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oH2k87KsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GreenPan Valencia Pro Tri-Ply Stainless Steel Cookware Set Review: Worth the Hype?

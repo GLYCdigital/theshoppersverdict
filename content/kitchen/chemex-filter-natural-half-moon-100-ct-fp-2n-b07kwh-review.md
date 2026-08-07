@@ -1,24 +1,26 @@
 ---
+
 title: "Chemex Filter - Natural Half Moon - 100 CT - FP-2N"
 seo_title: "Chemex Half Moon Filters Review: Worth It? (2026)"
 meta_description: "Chemex FP-2N half moon filters reviewed: 4.6/5 from 229 ratings. Do they beat round filters? Thickness, fit, taste — real buyer feedback inside."
 slug: "chemex-filter-natural-half-moon-100-ct-fp-2n-b07kwh-review"
 image_alt: "Chemex Natural Half Moon bond coffee filters FP-2N, 100 count pack"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07KWH7YMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Qt+-shoCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Pre-folded half-moon shape fits Chemex 6- and 8-cup brewers perfectly — no folding required, just drop in"  
   - "Thicker bond paper (20-30% heavier than standard) traps fines for a cleaner cup with no sediment"  
   - "Natural unbleached fibers leave zero papery aftertaste when properly rinsed"  
-cons:  
+cons: 
   - "Pricier per filter than round filters you fold yourself — you're paying for the pre-shaped convenience"  
   - "Only fits classic Chemex brewers; won't work with the smaller 3-cup or pour-over carafes"  
   - "Some batches run slightly thin — check for pinholes before brewing if you're picky about grounds in your cup"
+
 ---
 
 Let's cut through the coffee snobbery for a second. If you own a Chemex, you already know the ritual: boil, bloom, pour, wait, repeat. But the filter you choose can make or break that ceremony — and the Chemex FP-2N half moon filters are the brand's own answer to a problem you didn't know you had.

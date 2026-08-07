@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Light Decaf Lemon Iced Tea Naturally Flavored Powder"
 seo_title: "Crystal Light Decaf Lemon Iced Tea Review (2026): Worth It?"
 meta_description: "Crystal Light Decaf Lemon Iced Tea review: 72-stick pack, taste, mixability, and value. Is this naturally flavored drink mix worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00B04IP5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fq7rYmcXL._SL1500_.jpg"
-pros:
+pros: 
   - "Zero sugar, zero calories, and 10mg of sodium per serving — fits keto and low-carb diets cleanly"
   - "Single-serve sticks (2.1g each) dissolve in 16.9 fl oz of water in under 15 seconds with just a spoon stir"
   - "Decaf formulation means no caffeine crash — safe for evening hydration or pregnancy-restricted diets"
-cons:
+cons: 
   - "Sweetness leans on aspartame and acesulfame potassium — the artificial aftertaste is noticeable if you're sensitive to sucralose-family sweeteners"
   - "Lemon flavor is tart-forward but thin; it lacks the depth of brewed black tea, so don't expect an authentic iced tea mouthfeel"
+
 ---
 
 Let's be blunt: most powdered drink mixes taste like a chemistry experiment that escaped the lab. Crystal Light's Decaf Lemon Iced Tea is the exception that's been sitting on kitchen counters for decades — and for good reason. This isn't a fancy cold brew or a craft tea concentrate; it's a straightforward, zero-effort way to get a cold, tart, tea-flavored beverage that won't wreck your macros. Here's the honest breakdown after testing the 72-stick canister.

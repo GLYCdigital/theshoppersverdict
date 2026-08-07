@@ -1,4 +1,5 @@
 ---
+
 title: "2026 Daily & Monthly Planner, A5,A4 12 Colors daily planners"
 seo_title: "2026 Daily & Monthly Planner Review: A5/A4, 12 Colors"
 meta_description: "2026 daily & monthly planner review: A5/A4 sizes, 12 color options, 4.5-star rating. Is this the right planner for your workflow? Read our honest take."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXD8SRR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XBCoqyBvL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "12 color options let you color-code projects or match your workspace aesthetic without paying premium prices"
   - "A5 and A4 sizes both available — rare to find solid daily layouts in true A4 format"
   - "Hourly breakdown from 7 AM to 9 PM on the daily pages — enough granularity for time-blocking without feeling cluttered"
-cons:
+cons: 
   - "Monthly view is sparse — just a grid with minimal note space, not ideal for heavy future planning"
   - "Binding is tight near the spine; writing in the inner margin of daily pages requires pressing the book flat"
+
 ---
 
 Let's be honest about planners: most of them are either too bulky to carry or too flimsy to survive a desk drawer. This 2026 daily and monthly planner from the 12-color lineup sits somewhere in that sweet spot — but it's not without quirks.

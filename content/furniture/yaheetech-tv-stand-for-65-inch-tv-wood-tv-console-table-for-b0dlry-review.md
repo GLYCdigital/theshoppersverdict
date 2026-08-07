@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech TV Stand for 65 inch TV, Wood TV Console Table for"
 seo_title: "Yaheetech TV Stand for 65 inch TV, Wood TV Console Review"
 meta_description: "Our full yaheetech tv stand for 65 inch tv, wood tv console table for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLRYZRFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I5ARG+RCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most TV stands under $150 are wobbly, particleboard nightmares that arrive with stripped screws and missing cam locks. The Yaheetech TV Stand for 65-inch TVs isn’t that. With a 4.7-star average across 235 Amazon ratings, it’s earning its place in living rooms — but it’s not without tradeoffs. Here’s what you need to know before you click buy.

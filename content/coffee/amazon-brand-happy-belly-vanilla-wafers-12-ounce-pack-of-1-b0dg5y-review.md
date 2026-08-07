@@ -1,24 +1,26 @@
 ---
+
 title: "Amazon Brand - Happy Belly Vanilla Wafers, 12 ounce (Pack of"
 seo_title: "Happy Belly Vanilla Wafers Review: Crisp, Sweet, Worth It?"
 meta_description: "Hands-on Happy Belly Vanilla Wafers review: taste, texture, crunch, and value vs. name brands. See if this 12-oz pack earns a spot in your pantry."
 slug: "amazon-brand-happy-belly-vanilla-wafers-12-ounce-pack-of-1-b0dg5y-review"
 image_alt: "Amazon Brand Happy Belly Vanilla Wafers 12-ounce pack with cookies arranged on a plate"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DG5YWM47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71srgedORzL._SL1500_.jpg"
-pros:  
+pros: 
   - "Crisp, snappy texture holds up in banana pudding without turning to mush"  
   - "Genuine vanilla flavor — not artificial or cloying, with a clean finish"  
   - "Resealable bag keeps cookies fresh for weeks; generous 12-ounce portion"  
-cons:  
+cons: 
   - "Slightly smaller diameter than Nabisco wafers — noticeable if you're layering in a dessert dish"  
   - "Some bags arrive with a fair amount of broken pieces at the bottom"  
   - "Sugar coating is modest; if you crave that crackly sweet shell, these are lighter on it"
+
 ---
 
 You don't buy vanilla wafers for gourmet intrigue. You buy them because you're assembling a banana pudding for a potluck, or because a 9 p.m. snack attack demands something crisp, sweet, and unpretentious. Amazon's Happy Belly version does exactly that — and for a price that undercuts the legacy brands by a noticeable margin. After a week of taste tests, pudding trials, and straight-from-the-bag snacking, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "BUCKTOOL Drill Press Metal/wood"
 seo_title: "BUCKTOOL Drill Press Review: Metal & Wood Performance"
 meta_description: "BUCKTOOL Drill Press for metal & wood: 4.4-star rated. Real performance data, buyer feedback, and honest limitations before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FMDGSX6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NP4KJ216L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Variable speed dial delivers genuine torque at low RPMs—cuts clean holes in mild steel without stalling"
   - "Cast iron table and base absorb vibration noticeably better than stamped-steel competitors in this price range"
   - "Laser guide is actually useful—stays calibrated after initial setup, unlike most budget units that drift"
-cons:
+cons: 
   - "Chuck key is awkwardly short; seating bits fully requires patience, especially at higher speeds"
   - "Belt changes require removing the upper pulley cover—not difficult but adds a few minutes to speed switches"
   - "Depth stop graduation marks are faint; you'll want a Sharpie or digital caliper for repeatable holes"
+
 ---
 
 The BUCKTOOL Drill Press hits a sweet spot that's getting harder to find: real cast iron construction, a usable variable-speed range, and a price that won't make you wince. With 220 ratings averaging 4.4 stars, it's clearly earning its keep in home shops. But let's be clear about what you're getting before you pull the trigger.

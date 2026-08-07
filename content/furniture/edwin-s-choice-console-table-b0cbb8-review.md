@@ -1,4 +1,5 @@
 ---
+
 title: "Edwin's Choice Console Table"
 seo_title: "Edwin's Choice Console Table Review: Worth It? (2026)"
 meta_description: "Honest Edwin's Choice Console Table review: build quality, real-world use, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBB83NZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fQjhaRbfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid-wood legs with cross-bracing that handle uneven floors without wobble"
   - "Scratch-resistant matte finish that hides fingerprints and daily wear"
   - "Assembly takes under 15 minutes with included hex wrench and clear instructions"
-cons:
+cons: 
   - "Two-piece tabletop seam is visible under direct light — noticeable if you run your hand across it"
   - "Not ideal for heavy media equipment; weight capacity maxes around 50 lbs"
+
 ---
 
 ## The Entryway Upgrade That Won't Let You Down

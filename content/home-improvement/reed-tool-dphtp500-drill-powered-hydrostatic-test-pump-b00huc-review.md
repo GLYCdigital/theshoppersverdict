@@ -1,4 +1,5 @@
 ---
+
 title: "Reed Tool DPHTP500 Drill-Powered Hydrostatic Test Pump"
 seo_title: "Reed Tool DPHTP500 Drill-Powered Hydrostatic Test  Review"
 meta_description: "Our full reed tool dphtp500 drill-powered hydrostatic test pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00HUCDL6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FZuZxiNQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you test plumbing, gas lines, or irrigation systems for a living — or even for a serious side gig — you already know the drill-powered hydrostatic test pump is the trade's best-kept secret. The Reed Tool DPHTP500 takes that concept and executes it properly. But is it worth the premium over cheaper imports? After digging through 229 verified buyer experiences and the spec sheet, here's the straight story.

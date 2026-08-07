@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 1 Inch Standard Barbell Weight Plates and Bar Set, 5 inch"
 seo_title: "Fitvids 1-Inch Barbell & Plate Set Review (2026)"
 meta_description: "Honest Fitvids 1-inch standard barbell & weight plate set review: build quality, plate fit, bar durability, and who should buy this 5-ft home gym setup."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0F7XM3HLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812PcJ9Z4lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grip plates with rubber coating are easy to hold and won't scratch floors when set down gently"
   - "5-foot bar fits in tight spaces and accepts standard 1-inch collars without adapters"
   - "Full set with locking collars included — no hidden accessory costs"
-cons:
+cons: 
   - "Bar listed as 5 feet but total sleeve length is under 12 inches, limiting how many plates you can load"
   - "Multiple reports of plates arriving cracked or chipped from shipping, with inconsistent QC"
   - "Rated for less than 100 pounds total — fine for beginners, useless for progressive overload past a few months"
+
 ---
 
 ## Is This Budget Barbell Set Worth Your Money?

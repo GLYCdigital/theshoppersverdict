@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward AquaNaut Pool Vacuum (Automatic Pool Cleaner)"
 seo_title: "Hayward AquaNaut Pool Vacuum (Automatic Pool Clean Review"
 meta_description: "Our full hayward aquanaut pool vacuum (automatic pool cleaner) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B094BF5HCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NVKlm2SLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re tired of scrubbing algae off the coves by hand every weekend, the Hayward AquaNaut deserves a hard look. This suction-side cleaner has carved out a solid 4.2-star reputation across 210 Amazon ratings, and after digging through the specs and buyer feedback, I can tell you exactly where it shines—and where it falls short.

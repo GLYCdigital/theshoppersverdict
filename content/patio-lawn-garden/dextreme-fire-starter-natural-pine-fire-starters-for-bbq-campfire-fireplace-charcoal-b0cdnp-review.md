@@ -1,4 +1,5 @@
 ---
+
 title: "Dextreme Fire Starter Natural Pine Fire Starters for BBQ, Ca"
 seo_title: "Dextreme Fire Starter Review: Natural Pine Fire Starters (2026)"
 meta_description: "Dextreme Fire Starter natural pine fire starters review: Do they light fast? Safe for BBQ, campfires, fireplaces? Read pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDNP9ZRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H8jOLUZSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100% natural kiln-dried pine with no chemical accelerants — safe for food cooking and indoor use"
   - "Each starter lights in under 60 seconds with a single match and burns 10–15 minutes, long enough to catch lump charcoal"
   - "Compact 2-inch cubes store easily, resist moisture, and leave minimal ash compared to newspaper or lighter fluid"
-cons:
+cons: 
   - "No resealable bag — once opened, the cardboard box doesn't protect against humidity in damp climates"
   - "Small size means you'll use 2–3 starters for a full chimney of briquettes, not the 'one cube' claim on the packaging"
   - "Slightly premium price per unit compared to paraffin wax starters or DIY sawdust-and-wax versions"
+
 ---
 
 # Dextreme Fire Starter Natural Pine Fire Starters: The Honest Review

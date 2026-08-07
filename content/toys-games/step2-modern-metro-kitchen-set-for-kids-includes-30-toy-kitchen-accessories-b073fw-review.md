@@ -1,4 +1,5 @@
 ---
+
 title: "Step2 Modern Metro Kitchen Set for Kids â€“ Includes 30+ Toy"
 seo_title: "Step2 Modern Metro Kitchen Set for Kids â€“ Includ Review"
 meta_description: "Our full step2 modern metro kitchen set for kids â€“ includes 30+ toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B073FWDJ5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71juHyi1E1S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Step2 Modern Metro Kitchen Set: The Grown-Up-Looking Play Kitchen That Actually Survives Toddlers  

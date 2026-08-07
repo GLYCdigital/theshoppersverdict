@@ -1,4 +1,5 @@
 ---
+
 title: "MAKITA 18V LXT Lithium-ION 4.0AH (BL1840B)"
 seo_title: "MAKITA 18V LXT Lithium-ION 4.0AH (BL1840B) Review: Verdic"
 meta_description: "Our full makita 18v lxt lithium-ion 4.0ah (bl1840b) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00GSMBTJA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LAKQ9coHL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the MAKITA BL1840B is the battery that most 18V LXT owners eventually buy, whether as a spare or a replacement for the older 3.0Ah packs. With 225 Amazon ratings averaging 4.5 stars, it's clearly doing something right. But at roughly $80–$90 street price, is it actually worth it? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "YEETFTC 2Pack LED Light RC Boat Remote Control Pool Water To"
 seo_title: "YEETFTC 2Pack LED Light RC Boat Remote Control Poo Review"
 meta_description: "Our full yeetftc 2pack led light rc boat remote control pool water to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F1N2CTPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oRctLyXbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the listing copy. The YEETFTC 2Pack LED Light RC Boat set is a budget-friendly twin-pack that promises poolside fun without the $100+ price tag of hobby-grade boats. At 4.0 stars across 200 ratings, shoppers are mostly satisfied — but there are quirks worth knowing before you hit buy.

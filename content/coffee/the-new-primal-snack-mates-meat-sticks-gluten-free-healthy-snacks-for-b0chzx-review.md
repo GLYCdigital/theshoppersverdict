@@ -1,4 +1,5 @@
 ---
+
 title: "The New Primal Snack Mates Meat Sticks, Gluten Free Healthy "
 seo_title: "The New Primal Snack Mates Meat Sticks, Gluten Fre Review"
 meta_description: "Our full the new primal snack mates meat sticks, gluten free healthy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CHZXTG65/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b7OXuWZyL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The New Primal Snack Mates: The Clean-Label Meat Stick That Actually Tastes Like Food

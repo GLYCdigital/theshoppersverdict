@@ -1,4 +1,5 @@
 ---
+
 title: "DOWAN Pasta Bowls Set of 4 inch"
 seo_title: "DOWAN Pasta Bowls Set of 4 Review: Worth It? (2026)"
 meta_description: "DOWAN Pasta Bowls Set of 4 review: deep 45oz ceramic bowls, microwave-safe, chip-resistant glaze. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN2YD8XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519e9HBq6WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "45-ounce capacity handles full pasta portions plus sauce without overflow — actually deep, not just wide"
   - "Chip-resistant reinforced rim survived daily dishwasher use in multiple customer reports"
   - "Microwave, oven, and freezer safe up to 400°F — genuinely versatile, not just a serving bowl"
-cons:
+cons: 
   - "At roughly 1.5 lbs each, they're heavier than typical ceramic bowls — not ideal for weak wrists or kids"
   - "Speckled finish shows utensil marks over time; visible scratching reported after months of metal fork use"
+
 ---
 
 Some pasta bowls are just wide plates with a lip. The DOWAN set is not that. These are genuinely deep, 45-ounce vessels that hold a full pound of spaghetti with sauce and still leave room for a ladle of broth. That depth is the first thing you notice, and it's the reason most buyers stick with them.

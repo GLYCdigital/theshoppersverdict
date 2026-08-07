@@ -1,4 +1,5 @@
 ---
+
 title: "Lifeboost Espresso Ground Coffee"
 seo_title: "Lifeboost Espresso Ground Coffee Review: Verdict | TSV"
 meta_description: "Our full lifeboost espresso ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMK9GZSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714pJN0XNfL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Cleanest Espresso You Can Buy?

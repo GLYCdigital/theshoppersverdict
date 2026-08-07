@@ -1,4 +1,5 @@
 ---
+
 title: "Noor FÃ¨s Olive Oil Parent"
 seo_title: "Noor FÃ¨s Olive Oil Parent Review: Verdict | TSV"
 meta_description: "Our full noor fã¨s olive oil parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FDY3ZXJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+cI4IfiUL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What's in the box:** The Noor Fès arrives well-packed with the main vessel, a fitted lid, and a basic instruction card. There's no scoop, no filters, no accessories — this is a bare-bones piece of gear, and that's fine. What you're paying for is the build, not the extras.

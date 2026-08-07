@@ -1,4 +1,5 @@
 ---
+
 title: "De Cecco Pasta Mezzi Rigatoni, 16 OZ"
 seo_title: "De Cecco Mezzi Rigatoni Review: Worth It? (2026)"
 meta_description: "Honest De Cecco Mezzi Rigatoni review: bronze-die texture, sauce grip, and real-world cooking results. See if this 4.8-star pasta is worth buying."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BLCN9LD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K7RHLEP._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bronze-die extrusion creates a rough, porous surface that genuinely grips chunky sauces better than smooth factory pasta"
   - "Holds its shape through aggressive boiling and reheating — no mushy collapse even when slightly overcooked"
   - "Consistent 16 oz box yields about 8 generous servings, making it a solid value despite the premium price point"
-cons:
+cons: 
   - "Mezzi (short) size is unconventional — if you're expecting full-length rigatoni for baked dishes, the 1.5-inch tubes change portion dynamics"
   - "Requires more salt in the water than standard pastas to hit that signature De Cecco flavor profile"
   - "Starch release is moderate, so you'll need to reserve extra pasta water for silky, emulsified sauces"
+
 ---
 
 ## The Pasta Snob's Short-Cut Rigatoni — But Does It Deliver?

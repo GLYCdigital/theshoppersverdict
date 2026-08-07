@@ -1,4 +1,5 @@
 ---
+
 title: "SuperMoss Moss Mix â€“ Premium Decorative Moss for Crafts, T"
 seo_title: "SuperMoss Moss Mix â€“ Premium Decorative Moss for Review"
 meta_description: "Our full supermoss moss mix â€“ premium decorative moss for crafts, t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DV8VDBF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y3znNM4fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: decorative moss is one of those products where you either get a vibrant, soft, natural-looking material that transforms a project, or you get a bag of crushed, dusty, brownish disappointment. The SuperMoss Moss Mix sits firmly in the former camp — with a couple of caveats worth knowing before you buy.

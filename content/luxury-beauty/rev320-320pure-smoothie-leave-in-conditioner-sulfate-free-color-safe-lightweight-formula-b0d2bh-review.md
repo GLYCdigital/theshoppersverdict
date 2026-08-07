@@ -1,4 +1,5 @@
 ---
+
 title: "Rev320 320Pure Smoothie Leave In Conditioner Sulfate Free, C"
 seo_title: "Rev320 320Pure Smoothie Leave In Conditioner Sulfa Review"
 meta_description: "Our full rev320 320pure smoothie leave in conditioner sulfate free, c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2BHPV2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P9oOsRqEL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Rev320 320Pure Smoothie Leave In Conditioner: The Whipped-Cream Hydration That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "DormCo Suprima Extra Height Mini Shelf Supreme - Black"
 seo_title: "DormCo Suprima Mini Shelf Review: Extra Height Storage"
 meta_description: "DormCo Suprima Extra Height Mini Shelf review: tall 3-tier storage for tight spaces. See build quality, real user feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07BMDMJTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JwBOGPuhL._AC_SL1126_.jpg"
-pros:
+pros: 
   - "Extra height design fits taller bottles and stacked containers that standard mini shelves can't"
   - "Sturdy steel frame with 15 lb per-tier capacity — holds up to real use, not just decor"
   - "No-tools assembly in under 5 minutes with interlocking slots and rubber mallet"
-cons:
+cons: 
   - "Black finish shows dust and fingerprints easily — plan for regular wiping"
   - "Not for heavy books or dense items; wire tiers can sag at max load over time"
+
 ---
 
 Let's cut to it: most mini shelves are useless. They're too short for anything real, they wobble, and they fall apart after two weeks. The DormCo Suprima Extra Height Mini Shelf is not that shelf. With a 4.5-star average across 225 ratings, it's quietly become the go-to for dorm rooms, apartments, and cramped bathrooms. Here's the full story.

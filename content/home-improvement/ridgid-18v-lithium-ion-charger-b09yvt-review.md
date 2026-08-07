@@ -1,4 +1,5 @@
 ---
+
 title: "RIDGID 18V Lithium-Ion Charger"
 seo_title: "RIDGID 18V Lithium-Ion Charger Review: Verdict | TSV"
 meta_description: "Our full ridgid 18v lithium-ion charger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09YVTDX1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811oZ8SQ-sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RIDGID 18V Lithium-Ion Charger: The Workhorse You Didn't Know You Needed

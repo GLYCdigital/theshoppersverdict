@@ -1,4 +1,5 @@
 ---
+
 title: "AVID POWER Orbital Sander 5 Inch Random Orbit Sander 6 Varia"
 seo_title: "AVID POWER 5-Inch Random Orbital Sander Review (2026)"
 meta_description: "AVID POWER 5-inch random orbital sander with 6 variable speeds: honest review of dust collection, ergonomics, and value at $49.99."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXZ9YVWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BzrDsdtaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six variable speeds (3500–6500 OPM) give real control from delicate finish work to aggressive stock removal"
   - "Hook-and-loop pad accepts standard 5-inch discs—no proprietary paper trap"
   - "Integrated dust canister with separate HEPA filter option keeps the work area genuinely cleaner than most at this price"
-cons:
+cons: 
   - "At 3.7 pounds, it's heavier than premium sanders like the Bosch GET65—arm fatigue sets in on extended overhead work"
   - "Dust canister fills quickly; you'll want the optional vacuum hose adapter for anything bigger than a single drawer"
   - "No soft-start or speed memory—the dial resets to max every time you plug in"
+
 ---
 
 Here's the thing about budget sanders: most of them are either gutless or shaky. The AVID POWER 5-inch random orbital sander is neither. At $49.99, it's squarely in "first sander" territory, but it punches well above its price class in a few ways that matter — and has a couple of quirks you should know about before you click buy.

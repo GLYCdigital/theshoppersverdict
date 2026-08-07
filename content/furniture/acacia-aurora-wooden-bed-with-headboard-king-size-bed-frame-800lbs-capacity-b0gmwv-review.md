@@ -1,4 +1,5 @@
 ---
+
 title: "Acacia Aurora Wooden Bed with Headboard, King Size Bed Frame"
 seo_title: "Acacia Aurora King Bed Review: Solid Wood, 800lb Capacity"
 meta_description: "Acacia Aurora wooden king bed review: solid acacia wood, 800-lb capacity, easy assembly. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GMWVDRZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NcdNCNGCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid acacia wood frame rated for 800 lbs — not particleboard or veneer"
   - "No box spring required; integrated slat system supports most mattresses directly"
   - "Scandinavian-inspired design with clean lines that fits modern and farmhouse bedrooms"
-cons:
+cons: 
   - "Acacia's natural grain variation means color can differ noticeably from product photos"
   - "Assembly requires two people and roughly 60–90 minutes; hardware holes occasionally misalign"
   - "Headboard height may feel low for sleepers who sit upright to read"
+
 ---
 
 Let's be honest about the king-size bed market: most frames under $500 are engineered wood wrapped in a photo of something nicer. The Acacia Aurora isn't that. It's genuine solid acacia — the same hardwood used for cutting boards and outdoor furniture — with a stated 800-pound weight capacity. That alone puts it in a different category than the hollow-core options dominating Amazon's bestseller list.

@@ -1,4 +1,5 @@
 ---
+
 title: "Eyelash Extension Cleanser, BREYLEE Eyelash Extension Shampo"
 seo_title: "BREYLEE Eyelash Extension Cleanser Review (2026): Worth It?"
 meta_description: "Honest BREYLEE eyelash extension shampoo review: Does this foaming cleanser actually extend lash life? Pros, cons, real buyer feedback & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B098Q3CDYJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KwU5eE3rL._SL1500_.jpg"
-pros:
+pros: 
   - "Oil-free foaming formula that breaks down makeup and sebum without dissolving the lash adhesive bond"
   - "Included dual-sided brush lets you scrub the lash line precisely without tugging or smudging"
   - "pH-balanced and gentle enough for daily use — no stinging, no residue, no cloudy film on lashes"
-cons:
+cons: 
   - "Bottle is small (3.4 fl oz) — heavy daily users may repurchase every 4–6 weeks"
   - "Foam dispenser can sputter if you pump too fast; needs a slow, deliberate press"
+
 ---
 
 If you've dropped $150 on a full set of volume lashes, the last thing you want is for them to fall out in week two because you're scared to wash them. That's the exact problem BREYLEE's Eyelash Extension Cleanser solves — and it does it with a 4.5-star average across 225 Amazon ratings.

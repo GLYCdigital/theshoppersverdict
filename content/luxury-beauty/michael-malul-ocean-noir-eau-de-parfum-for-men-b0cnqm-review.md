@@ -1,4 +1,5 @@
 ---
+
 title: "Michael Malul Ocean Noir Eau de Parfum for Men"
 seo_title: "Michael Malul Ocean Noir Eau de Parfum for Men Review: Ve"
 meta_description: "Our full michael malul ocean noir eau de parfum for men review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNQMT5FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5165gaVRl9L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Michael Malul Ocean Noir: A Deep Dive Into This 4.6-Star Aquatic

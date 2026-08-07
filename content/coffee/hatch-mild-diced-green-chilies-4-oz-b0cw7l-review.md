@@ -1,4 +1,5 @@
 ---
+
 title: "Hatch Mild Diced Green Chilies, 4 oz"
 seo_title: "Hatch Mild Diced Green Chilies, 4 oz Review: Verdict | TS"
 meta_description: "Our full hatch mild diced green chilies, 4 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW7L3LR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lJyyzi9HL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You'd think a 4-ounce can of green chiles is the most boring purchase on Amazon. Then you read the reviews. Two hundred thirty-five shoppers gave this tiny can 4.7 stars, and the praise sounds less like a grocery run and more like a religious conversion. "These are the real deal," one buyer writes. "Closest thing to fresh Hatch I've found outside New Mexico." That's not marketing — that's the cult of Hatch Valley.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hizashi LED Edison Bulbs ST19 Light Bulbs E26 LED Bulb"
 seo_title: "Hizashi LED Edison Bulbs ST19 Light Bulbs E26 LED  Review"
 meta_description: "Our full hizashi led edison bulbs st19 light bulbs e26 led bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNPKBHCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x-otBl-3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Hizashi LED Edison Bulbs ST19 Light Bulbs E26 LED Bulb** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

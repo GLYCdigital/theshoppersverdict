@@ -1,16 +1,17 @@
 ---
+
 title: "Flexzilla HFZG550YW Garden Lead-In Hose 5/8 In. x 50 ft, Heavy Duty"
 seo_title: "Flexzilla HFZG550YW Garden Hose Review — 4.4★ at $84"
 meta_description: "Flexzilla HFZG550YW garden hose review: 96,795 reviews analyzed. Lightweight, drinking water safe, heavy duty. Is it the best hose you'll ever buy?"
 slug: "flexzilla-hfzg550yw-garden-hose-50ft-review"
 image_alt: "Flexzilla HFZG550YW Garden Lead-In Hose 5/8 In. x 50 ft"
-keywords:
+keywords: 
   - "flexzilla garden hose review"
   - "flexzilla hfzg550yw review"
   - "best garden hose"
   - "lightweight garden hose"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Is the Flexzilla hose drinking water safe?"
     answer: "Yes. The HFZG550YW is made from hybrid polymer that's drinking water safe. No rubber taste or chemical leaching."
   - question: "Does Flexzilla kink like regular hoses?"
@@ -23,13 +24,14 @@ review_count: 96795
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003TFE7ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oERUaDzWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Virtually kink-free — unrolls and moves without fighting you"
   - "Lightweight and easy to coil, even when full of water"
   - "Drinking water safe — no plastic taste"
-cons:
+cons: 
   - "Hybrid polymer can puncture easier than reinforced rubber"
   - "Premium price compared to standard garden hoses"
+
 ---
 
 Most garden hoses are a compromise: flexible ones kink, tough ones turn into rigid snakes the moment the temperature drops below 60°F. The Flexzilla HFZG550YW tries to break that pattern with a hybrid polymer construction that's supposed to stay pliable in extreme cold and shrug off kinks. After digging through nearly 97,000 Amazon ratings and the engineering specs, here's the real story.

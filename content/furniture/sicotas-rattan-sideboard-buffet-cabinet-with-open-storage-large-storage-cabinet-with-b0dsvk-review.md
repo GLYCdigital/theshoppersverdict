@@ -1,4 +1,5 @@
 ---
+
 title: "SICOTAS Rattan Sideboard Buffet Cabinet with Open Storage - "
 seo_title: "SICOTAS Rattan Sideboard Buffet Cabinet with Open  Review"
 meta_description: "Our full sicotas rattan sideboard buffet cabinet with open storage -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSVK73WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zYB0ty0hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sideboards under $300 look like they were designed by a spreadsheet. Flat slabs of manufactured wood, fake grain printed on, hardware that feels hollow when you touch it. The SICOTAS Rattan Sideboard is not that. It's the piece that makes guests stop and ask where you got it — and at a 4.6-star average across 229 ratings, I'm not the only one who noticed.

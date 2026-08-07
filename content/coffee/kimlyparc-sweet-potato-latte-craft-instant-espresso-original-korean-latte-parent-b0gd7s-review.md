@@ -1,4 +1,5 @@
 ---
+
 title: "KimlyParc Sweet Potato Latte, Craft Instant Espresso & Origi"
 seo_title: "KimlyParc Sweet Potato Latte, Craft Instant Espres Review"
 meta_description: "Our full kimlyparc sweet potato latte, craft instant espresso & origi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GD7S78VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tlmyGGZjL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Korean cafe classic, now in a packet — but does it actually deliver?**

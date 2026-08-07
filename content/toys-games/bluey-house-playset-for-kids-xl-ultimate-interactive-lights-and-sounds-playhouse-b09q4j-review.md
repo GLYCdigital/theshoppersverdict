@@ -1,4 +1,5 @@
 ---
+
 title: "Bluey House Playset for Kids, XL Ultimate Interactive Lights"
 seo_title: "Bluey House Playset Review: XL Interactive Lights & Sounds"
 meta_description: "Read our honest Bluey House Playset review. See how the XL Ultimate Interactive Lights & Sounds playhouse performs, what buyers love, and where it falls short."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Q4JP1XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ENmPTAaaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Push-button activation triggers authentic show sounds and light-up features in the living room, kitchen, and bedroom — no setup complexity"
   - "XL size (roughly 2.5 feet tall) accommodates the full Heeler family plus friends, with multiple rooms and a working slide"
   - "Sturdy plastic construction holds up to daily play; several buyers report it surviving two years of rough handling"
-cons:
+cons: 
   - "Furniture pieces are small and separate — expect to hunt for the remote control and table under the couch after play sessions"
   - "Sound effects have no volume control or off switch; parents report the 'tidy up' song playing on loop"
+
 ---
 
 If your kid has watched Bluey on repeat (and let's be honest, you've watched it too), the XL Ultimate Interactive Lights & Sounds House is the closest thing to stepping into the Heeler family's world. But at this price point, you're not just paying for the brand — you're paying for what's actually in the box. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Bird Feeders House for Outdoors Hanging, 10LBS Large C"
 seo_title: "Solar Bird Feeders House for Outdoors Hanging, 10L Review"
 meta_description: "Our full solar bird feeders house for outdoors hanging, 10lbs large c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CQFK4GB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Pn97t0C+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Feeder That Finally Stops the Daily Refill Shuffle

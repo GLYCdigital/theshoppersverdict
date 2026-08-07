@@ -1,4 +1,5 @@
 ---
+
 title: "SunkistÂ® Individually-Wrapped Fruit Gems 32OZ (2 LB) Pouch"
 seo_title: "SunkistÂ® Individually-Wrapped Fruit Gems 32OZ (2  Review"
 meta_description: "Our full sunkistâ® individually-wrapped fruit gems 32oz (2 lb) pouch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0048HR7AC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+aWj1ckVL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: these aren't gummy bears, and they aren't jelly beans. Sunkist Fruit Gems occupy their own category — a dense, firm jelly candy that takes real effort to chew. That texture is exactly why they have a cult following, and why some buyers bounce off them. Here's what you need to know before spending on the big 2-pound pouch.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sure-Max 12 Heavy-Duty Moving & Packing Blankets - Ultra Thi"
 seo_title: "Sure-Max 12 Heavy-Duty Moving & Packing Blankets - Review"
 meta_description: "Our full sure-max 12 heavy-duty moving & packing blankets - ultra thi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01GK6JUOE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91TF6z91UbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to wrap a $3,000 leather sofa in a $15 piece of fabric. The Sure-Max 12 is the safety net between your belongings and the brutal reality of a moving truck. With a 4.6-star average across 229 ratings, these blankets have become the default choice for people who'd rather not discover a gouge in their mid-century dresser at the other end of a 400-mile drive. But are they actually "ultra thick," or is that just marketing fluff? Here's what I found after digging through the specs and real owner feedback.

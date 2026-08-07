@@ -1,4 +1,5 @@
 ---
+
 title: "Powell Company Big and Tall Copper Stamped Back Barstool wit"
 seo_title: "Powell Company Big and Tall Copper Stamped Back Ba Review"
 meta_description: "Our full powell company big and tall copper stamped back barstool wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBQX93Y3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yo4FVqVaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "big and tall" barstools are standard stools with a longer label slapped on the box. The **Powell Company Big and Tall Copper Stamped Back Barstool with Arms** is not that. This one actually earns the name.

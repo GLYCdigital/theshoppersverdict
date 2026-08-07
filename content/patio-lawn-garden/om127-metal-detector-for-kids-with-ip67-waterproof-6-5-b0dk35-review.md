@@ -1,4 +1,5 @@
 ---
+
 title: "OM127 Metal Detector for Kids with IP67 Waterproof 6.5â€"
 seo_title: "OM127 Metal Detector for Kids with IP67 Waterproof Review"
 meta_description: "Our full om127 metal detector for kids with ip67 waterproof 6.5â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DK3554WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vrhJE0lJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most kids' metal detectors are toys with a coil bolted on. The OM127 isn't that. With a 4.3-star average across 215 Amazon ratings and a verdict score of 4.2, it's genuinely one of the better budget options for getting a child into the hobby without dropping $150 on a full-size unit. But it's not without quirks, and you should know them before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "MOZA R3 Racing Wheel and Pedals Bundle for PC, 3.9Nm Direct "
 seo_title: "MOZA R3 Racing Wheel and Pedals Bundle for PC, 3.9 Review"
 meta_description: "Our full moza r3 racing wheel and pedals bundle for pc, 3.9nm direct  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BFD5PK8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gHRyBb8aL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: the MOZA R3 is the first direct drive wheel that actually makes sense for someone who’s never owned a sim racing rig. At 3.9Nm of torque, it’s not going to tear your arms off like a 15Nm Fanatec, but that’s exactly the point. This is a gateway drug for sim racing, priced to undercut every other direct drive option on Amazon.

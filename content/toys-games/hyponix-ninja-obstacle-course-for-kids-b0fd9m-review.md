@@ -1,4 +1,5 @@
 ---
+
 title: "Hyponix Ninja Obstacle Course for Kids"
 seo_title: "Hyponix Ninja Obstacle Course Review: Worth It? (2026)"
 meta_description: "Hyponix Ninja Obstacle Course for Kids review: build quality, safety, assembly time, and whether it's worth the money for active kids ages 3-10."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD9MCKGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VbySei+YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modular Ninja Warrior-style design with climbing wall, balance beam, and crawl tunnel that actually challenges kids physically"
   - "Padded foam bases and rounded edges on all contact points — safer than most backyard obstacle kits in this price bracket"
   - "Sets up in under 20 minutes without tools; collapses flat for garage or under-bed storage between uses"
-cons:
+cons: 
   - "Weight limit caps around 110 lbs, so older or larger kids (10+) will age out quickly"
   - "Ground stakes are thin; on windy days or soft grass, the tunnel section can shift without sandbags added"
+
 ---
 
 Let's be honest: most "ninja obstacle course" toys for kids are glorified pool noodles with extra steps. The Hyponix Ninja Obstacle Course is different — it's an actual miniaturized version of what you see on *American Ninja Warrior*, scaled down for kids aged 3 to 10. And at 4.4 stars across 220 ratings, it's earning its place in backyards across the country.

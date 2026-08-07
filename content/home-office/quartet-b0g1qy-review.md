@@ -1,4 +1,5 @@
 ---
+
 title: "Quartet"
 seo_title: "Quartet Review: Verdict | TSV"
 meta_description: "Our full quartet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G1QYXX3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NfSNuZX7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A whiteboard is one of those purchases that seems boring until you're stuck with a bad one. The Quartet dry-erase board sits in a crowded field of cheap options, but its 4.0-star average across 200+ ratings tells you real buyers have used it — not just unboxed it. Here's what you need to know before adding it to your cart.

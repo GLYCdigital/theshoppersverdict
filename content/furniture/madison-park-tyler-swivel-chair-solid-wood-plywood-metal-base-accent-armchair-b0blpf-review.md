@@ -1,4 +1,5 @@
 ---
+
 title: "Madison Park Tyler Swivel Chair - Solid Wood, Plywood, Metal"
 seo_title: "Madison Park Tyler Swivel Chair - Solid Wood, Plyw Review"
 meta_description: "Our full madison park tyler swivel chair - solid wood, plywood, metal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLPFG6WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-qCT+AVZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Madison Park Tyler Swivel Chair is the rare accent piece that actually earns its place in a room. It’s not trying to be a recliner or a lounge throne. It’s a mid-century-inspired swivel chair that does one thing — spin smoothly — and does it well enough that you’ll find yourself using it more than your main sofa.

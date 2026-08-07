@@ -1,4 +1,5 @@
 ---
+
 title: "WD My Passport Portable Hard Drive"
 seo_title: "WD My Passport Portable Hard Drive Review: Verdict | TSV"
 meta_description: "Our full wd my passport portable hard drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMWLHXQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51h4xi-KQRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: external hard drives are boring. You buy one, plug it in, and forget it exists until the day your laptop dies and you thank past-you for making a smart call. The WD My Passport is the best-selling boring drive on Amazon for a reason — but with 229 ratings averaging 4.6 stars, it’s worth asking whether it still earns that spot in 2026.

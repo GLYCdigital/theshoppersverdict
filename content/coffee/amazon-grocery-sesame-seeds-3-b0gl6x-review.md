@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Grocery, Sesame Seeds, 3 inch"
 seo_title: "Amazon Grocery Sesame Seeds Review: Worth It? (2026)"
 meta_description: "Honest Amazon Grocery Sesame Seeds review: flavor, texture, value for 3-pack. See pros, cons, and who should buy before you add to cart."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GL6XBCLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717IBuc7eHL._SL1500_.jpg"
-pros:
+pros: 
   - "Toasty, nutty flavor that holds up in baking and cooking — not bland or stale"
   - "Resealable 3-jar packaging keeps seeds fresh for months without clumping"
   - "Consistent texture — no bitter burnt pieces or foreign debris in the batch"
-cons:
+cons: 
   - "Jars are smaller than they look in product photos — about 2/3 the expected volume"
   - "No expiration date printed on the label itself, only on the outer shrink wrap"
+
 ---
 
 Let's be honest: sesame seeds aren't the sexiest pantry staple. But if you've ever bitten into a sad, stale batch that tastes like cardboard dust, you know the difference quality makes. This Amazon Grocery 3-pack has quietly become a kitchen workhorse for over 235 shoppers who've rated it 4.7 stars. Here's the real story.

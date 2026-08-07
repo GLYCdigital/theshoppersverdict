@@ -1,4 +1,5 @@
 ---
+
 title: "Unicozin Modern Wall Sconce, Vanity Light Fixtures with Clea"
 seo_title: "Unicozin Modern Wall Sconce, Vanity Light Fixtures Review"
 meta_description: "Our full unicozin modern wall sconce, vanity light fixtures with clea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TVYRBLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EcnOBZ5nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Unicozin Modern Wall Sconce has earned a 4.7-star average across 235 ratings, and that’s not accidental. This is a fixture that understands what bathroom lighting actually needs: brightness where you need it, a design that doesn’t scream for attention, and installation that won’t make you curse your drywall.

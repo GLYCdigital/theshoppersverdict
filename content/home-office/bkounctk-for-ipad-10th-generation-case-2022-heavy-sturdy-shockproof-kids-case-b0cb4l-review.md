@@ -1,4 +1,5 @@
 ---
+
 title: "BKOUNCTK for iPad 10th Generation Case 2022,Heavy Sturdy Sho"
 seo_title: "BKOUNCTK iPad 10th Gen Case Review: Heavy-Duty & Sturdy"
 meta_description: "Honest BKOUNCTK iPad 10th generation case review: heavy-duty shockproof build, precise cutouts, and real-world kid-proof testing. See if it's right."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB4LS5LP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Kn6Q--81L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in screen protector and camera lens cover provide full-frontal protection without extra accessories"
   - "Reinforced TPU corners and hard polycarbonate back absorb drops from 4-6 feet consistently"
   - "Precise cutouts for camera, speakers, and charging port — all buttons remain clicky through the case"
-cons:
+cons: 
   - "Adds noticeable bulk — roughly 0.5 inches thicker than a slim folio — makes the iPad feel like a tank"
   - "Built-in screen protector is plastic, not glass; scratches show after a few months of heavy use"
+
 ---
 
 **Meta description:** Honest BKOUNCTK iPad 10th generation case review: heavy-duty shockproof build, precise cutouts, and real-world kid-proof testing. See if it's right.

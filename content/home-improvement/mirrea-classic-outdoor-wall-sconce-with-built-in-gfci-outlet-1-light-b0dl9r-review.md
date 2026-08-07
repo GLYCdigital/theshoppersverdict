@@ -1,4 +1,5 @@
 ---
+
 title: "mirrea Classic Outdoor Wall Sconce with Built-in GFCI Outlet"
 seo_title: "mirrea Classic Outdoor Wall Sconce with Built-in G Review"
 meta_description: "Our full mirrea classic outdoor wall sconce with built-in gfci outlet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL9RXJBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61npbohlASL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever hung string lights on a patio or tried to plug in a leaf blower on a dark porch, you know the struggle: one outdoor outlet, zero lighting, and a tangle of extension cords. The mirrea Classic Outdoor Wall Sconce with Built-in GFCI Outlet tackles both problems with one wall-mounted unit. At 4.6 stars across 229 ratings, it’s clearly finding its audience—but it’s not a universal fit. Here’s who should buy it and who should keep scrolling.

@@ -1,4 +1,5 @@
 ---
+
 title: "HP 63 65 Tri-Color Ink Cartridge"
 seo_title: "HP 63 65 Tri-Color Ink Cartridge Review: Verdict | TSV"
 meta_description: "Our full hp 63 65 tri-color ink cartridge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTM6RFT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717+dj192IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an HP Deskjet 3755, Envy 5055, or OfficeJet 3830, you already know the drill: the printer is cheap, the ink is not. The HP 63 65 Tri-Color Ink Cartridge sits in that awkward middle ground—not the budget third-party option, not the high-capacity XL. At 4.7 stars across 235 ratings, buyers are largely satisfied. But is this cartridge actually worth your money, or are you paying for the HP logo? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "ghd Helios Hair Dryer â€• 1875w Professional Blow Dryer, Lon"
 seo_title: "ghd Helios Hair Dryer â€• 1875w Professional Blow  Review"
 meta_description: "Our full ghd helios hair dryer â€• 1875w professional blow dryer, lon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DLR1B433/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61njFs7qZUL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ghd Helios isn't just another $200+ hair dryer. It's a precision tool engineered around a brushless DC motor that pushes 120 km/h of airflow — and it's one of the quietest professional dryers I've tested. But at 750 grams, it makes you work for that performance. Here's the full breakdown.

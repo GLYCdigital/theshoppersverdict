@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrish Grain Free, Chicken & Sweet Potato Recipe, Dry Dog F"
 seo_title: "Nutrish Grain Free, Chicken & Sweet Potato Recipe, Review"
 meta_description: "Our full nutrish grain free, chicken & sweet potato recipe, dry dog f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1B4V648/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717Pl31N37L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the celebrity-endorsement noise. Rachael Ray's Nutrish line has been a grocery-store staple for years, but the Grain Free Chicken & Sweet Potato Recipe deserves a closer look than the shelf placement suggests. At 4.6 stars across 229 Amazon ratings, it's clearly working for a lot of dogs—but "working" means different things to different pups. Here's what you need to know before you commit.

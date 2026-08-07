@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Flexible Ratcheting Wrench Set"
 seo_title: "Amazon Basics Flexible Ratcheting Wrench Set Review (2026)"
 meta_description: "Amazon Basics Flexible Ratcheting Wrench Set review: 4.6/5 rating. Tested for grip, flex head durability, and torque. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CN19DXDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hTvhDAoaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "180-degree flex head locks at 15 positions, letting you reach bolts a straight wrench can't touch"
   - "72-tooth ratchet mechanism needs only 5 degrees of swing — works in seriously tight spots"
   - "Full-polish chrome vanadium steel won't rust easily and cleans up with a wipe"
-cons:
+cons: 
   - "No pass-through design means you can't slide it over long threaded rods or studs"
   - "Flex head hinge adds slight bulk at the joint, which can catch in ultra-narrow clearances"
+
 ---
 
 Let’s be blunt: most ratcheting wrench sets under $40 are junk. The teeth skip, the flex heads flop loose after a month, and the chrome flakes off onto your hands. The Amazon Basics Flexible Ratcheting Wrench Set isn't that. At 4.6 stars across 229 ratings, it's quietly becoming the budget pick that DIYers actually recommend to each other. Here’s the full story after digging through the specs, the user feedback, and the real-world complaints.

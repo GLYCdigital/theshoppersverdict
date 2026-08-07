@@ -1,4 +1,5 @@
 ---
+
 title: "Asmodee Toy Battle Board Game - Tactical Tile Placement and"
 seo_title: "Asmodee Toy Battle Board Game Review: Tactical Tile Fun (2026)"
 meta_description: "Our Asmodee Toy Battle Board Game review covers tactical tile placement, troop strategy, and real player feedback. Is this 4.8-star game worth it?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWT9J5L3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VTMA3JocL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tile placement mechanics create genuinely different board states every game — no two matches play alike"
   - "Tactile, chunky components that hold up to aggressive play from kids and adults alike"
   - "Plays in 30-40 minutes, making it easy to get multiple rounds in during a game night"
-cons:
+cons: 
   - "Rulebook could be clearer on edge-case troop movement interactions — expect a rules lookup or two in the first play"
   - "Player elimination can leave someone sitting out for the final 10 minutes if they get targeted early"
+
 ---
 
 **The Hook: A Tile-Laying Skirmish That Punches Above Its Weight**

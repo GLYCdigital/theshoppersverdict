@@ -1,4 +1,5 @@
 ---
+
 title: "Yosoan Wall Sconce Indoor Night Bedside Fixture, Double-Head"
 seo_title: "Yosoan Wall Sconce Indoor Night Bedside Fixture, D Review"
 meta_description: "Our full yosoan wall sconce indoor night bedside fixture, double-head review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B6NVQ68H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fEEDJTKpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a hundred generic flush-mount fixtures wondering why none of them feel like *yours*, the Yosoan double-head wall sconce is the design-forward alternative that actually delivers. This isn't a statement piece that sacrifices function — it's a workhorse with personality.

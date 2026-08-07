@@ -1,4 +1,5 @@
 ---
+
 title: "Traeger Ironwood XL Wood Pellet Smoker Grill — 924 Sq In, WiFIRE, Super Smoke"
 seo_title: "Traeger Ironwood XL Review — 4.0★ Pellet Smoker Grill at ~$1,800"
 meta_description: "Traeger Ironwood XL wood pellet smoker grill review: 122 Amazon reviews analyzed. 924 sq in cooking area, WiFIRE smart controls, Super Smoke mode. Is this the best Traeger for serious BBQ?"
@@ -11,17 +12,17 @@ review_count: 122
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FQ2WM2RK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bqboygsXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "WiFIRE smart controls let you monitor and adjust temperature from your phone — no babysitting the smoker"
   - "Super Smoke mode delivers noticeably richer wood-fired flavor at the touch of a button"
   - "EZ-Clean grease and ash system makes cleanup genuinely faster than traditional pellet grills"
   - "6-in-1 versatility covers smoking, grilling, roasting, baking, braising, and BBQ"
   - "Pellet hopper clean-out chute makes flavor changes quick and mess-free"
-cons:
+cons: 
   - "122 reviews is a very small sample — long-term reliability isn't established yet"
   - "Price point is near $1,800 — competing with much more established pellet smokers"
   - "Super Smoke mode uses more pellets than standard operation"
-faq:
+faq: 
   - question: "Is the Traeger Ironwood XL's WiFIRE app reliable?"
     answer: "Yes. Multiple reviewers confirm the WiFIRE connection is stable and the app is functional — not the usual smart feature that drops out mid-cook. You can monitor temperature and meat probes from your phone."
   - question: "Is Super Smoke mode worth it?"
@@ -30,6 +31,7 @@ faq:
     answer: "924 square inches, which Traeger says handles 12 chickens or 9 racks of ribs. For a family of four you'll only use part of the capacity most days, but it's there when you need to feed a crowd."
   - question: "Should I buy it given the small review sample?"
     answer: "The features are genuine, but only 122 Amazon reviews exist so far — long-term reliability isn't established. If you want Traeger's best technology and cook for crowds regularly, it's a strong buy. If you're new to pellet smoking, a standard Traeger at half the price will serve you just as well."
+
 ---
 
 With 924 square inches of cooking space, the Ironwood XL is Traeger's answer to the "go big or go home" crowd. It's a serious commitment — in both counter space and wallet — but after digging through 122 ratings averaging 4.0 stars, the picture is clear: this is a capable smoker with a few quirks you need to know about before you buy.

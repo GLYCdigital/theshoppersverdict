@@ -1,4 +1,5 @@
 ---
+
 title: "iPlay, iLearn Heavy Duty Construction Site Playset, Metal Du"
 seo_title: "iPlay iLearn Construction Playset Review: Metal Trucks Tested"
 meta_description: "Honest iPlay iLearn Heavy Duty Construction Site Playset review: metal dump truck, excavator, and digger tested for durability and play value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07333Y3H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A7-DKWbZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full metal bodies and die-cast construction hold up to aggressive outdoor play — no cheap plastic shells that crack on first drop"
   - "Three separate vehicles (dump truck, excavator, digger) with working articulated arms and tilting beds give real mechanical play value"
   - "Large 10-inch scale makes the set easy for small hands to grip and maneuver in sandboxes, dirt piles, or gravel driveways"
-cons:
+cons: 
   - "No storage bag or carrying case included — the three vehicles roll around loose in the toy box and parts can scatter"
   - "Small plastic connector pins on the excavator arm are the weakest link; rough twisting can pop them out (they push back in, but it's fiddly)"
   - "Paint chips on the metal bodies after heavy outdoor use — cosmetic only, but visible wear within weeks on sand and concrete"
+
 ---
 
 **Bottom line up front:** If you're tired of construction toys that snap in half the first time they hit a sandbox, this iPlay, iLearn set is the antidote. These are real metal trucks with working parts — not flimsy plastic replicas. At roughly $30–$35 (check current pricing), you're getting three substantial vehicles that actually survive outdoor play. Here's where they shine and where they don't.

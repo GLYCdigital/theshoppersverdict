@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Outdoor Grilling Turner and Tongs Set"
 seo_title: "OXO Outdoor Grilling Turner and Tongs Set Review: Verdict"
 meta_description: "Our full oxo outdoor grilling turner and tongs set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08R6FMMD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ddZ82uXmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most grilling tool sets are junk you'll replace every two summers. The OXO Outdoor Grilling Turner and Tongs Set is not that. With a 4.8-star average across 240 ratings, this two-piece kit punches well above its price point. Here's the real breakdown.

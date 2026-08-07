@@ -1,4 +1,5 @@
 ---
+
 title: "GRISUN Fire Glass for Fire Pit, High Luster Reflective Tempe"
 seo_title: "GRISUN Fire Glass for Fire Pit, High Luster Reflec Review"
 meta_description: "Our full grisun fire glass for fire pit, high luster reflective tempe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CF586TXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bnfyrroXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those fire pits that look like a jet engine's afterburner — blinding white-hot light bouncing off every surface. That's what GRISUN's High Luster Reflective Tempered glass delivers. And after 235 ratings holding a 4.7 average, it's not a fluke.

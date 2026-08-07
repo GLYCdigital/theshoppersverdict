@@ -1,4 +1,5 @@
 ---
+
 title: "KidKraft Brightside Wooden Swing Set with CafÃ© Area and Sto"
 seo_title: "KidKraft Brightside Wooden Swing Set with CafÃ© Ar Review"
 meta_description: "Our full kidkraft brightside wooden swing set with cafã© area and sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYKP551R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZRJOVnp5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

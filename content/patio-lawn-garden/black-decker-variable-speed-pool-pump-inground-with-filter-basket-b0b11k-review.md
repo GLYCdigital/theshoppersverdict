@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER Variable Speed Pool Pump Inground with Filter B"
 seo_title: "BLACK+DECKER Variable Speed Pool Pump Review (2026)"
 meta_description: "Honest BLACK+DECKER variable speed pool pump review: performance, energy savings, filter basket, and real buyer feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B11KBVX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xFcOBaBiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Variable speed motor cuts energy use by up to 70% compared to single-speed pumps, with a digital control panel for scheduling"
   - "Built-in 24-hour timer and 3-speed presets let you dial in circulation without babysitting the pump"
   - "Clear filter basket lid lets you spot debris buildup at a glance — no guessing when to clean"
-cons:
+cons: 
   - "Requires 220-240V wiring — not a DIY swap for most homeowners if you're replacing a 110V pump"
   - "The digital panel is bright at night; some buyers report it's distracting near bedroom windows"
   - "No heating function — this is a circulation pump only, not a full filter-heater combo"
+
 ---
 
 Let me be direct: most inground pool pumps are energy hogs with a single speed and a stupidly simple on/off switch. The BLACK+DECKER Variable Speed Pool Pump with Filter Basket B is not that. It's a smarter animal — but it comes with a few quirks you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "LIGHTDAMY Farmhouse Chandeliers for Dining Room Light Fixtur"
 seo_title: "LIGHTDAMY Farmhouse Chandeliers for Dining Room Li Review"
 meta_description: "Our full lightdamy farmhouse chandeliers for dining room light fixtur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GF84F289/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D+9bHUq-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through farmhouse chandeliers and every option looks like a flimsy, gold-plated knockoff, the LIGHTDAMY six-light fixture deserves a closer look. With a 4.6-star average across 229 ratings, it's clearly resonating with buyers — but let's dig past the aggregate score and talk about what it's actually like to unbox, hang, and live with.

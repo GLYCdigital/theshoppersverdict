@@ -1,4 +1,5 @@
 ---
+
 title: "Frigidaire Mini Cooler, Portable Compact Personal LED Lighte"
 seo_title: "Frigidaire Mini Cooler, Portable Compact Personal  Review"
 meta_description: "Our full frigidaire mini cooler, portable compact personal led lighte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F5BZ7PNV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q29bnnTYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance and Build Quality**

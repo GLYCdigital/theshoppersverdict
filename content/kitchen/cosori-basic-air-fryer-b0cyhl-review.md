@@ -1,4 +1,5 @@
 ---
+
 title: "COSORI Basic Air Fryer"
 seo_title: "COSORI Basic Air Fryer Review: Worth It in 2026?"
 meta_description: "COSORI Basic Air Fryer review: 4.6-star rated. We test performance, capacity, and ease of use. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYHLTFJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NNXFyokfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rapid 360° air circulation delivers consistently crispy results without preheating, cutting cook times by up to 30%"
   - "Nonstick basket and crisper plate are dishwasher-safe, making cleanup a genuine 60-second job"
   - "Compact footprint (roughly 10 x 11 inches) fits under standard upper cabinets without dominating counter space"
-cons:
+cons: 
   - "Single-zone cooking means you can't cook a protein and side dish simultaneously at different temperatures"
   - "The touchscreen buttons require a firm press and can be finicky with slightly damp fingers"
   - "Louder than some premium models — expect a consistent fan hum around 55dB during operation"
+
 ---
 
 Let me be direct: the air fryer market is saturated with gimmicks, and I've tested enough of them to be skeptical. The COSORI Basic Air Fryer doesn't try to reinvent the wheel — it just does the fundamentals exceptionally well. If you've been scrolling past the 229 reviews and 4.6-star rating wondering if this one's actually different, here's your answer.

@@ -1,7 +1,8 @@
 ---
-title: "Lenovo Tablet M11, 11.0\" WUXGA (1920x1200) IPS, Anti-Fingerp"
-seo_title: "Lenovo Tablet M11, 11.0\" WUXGA (1920x1200) IPS, An Review"
-meta_description: "Our full lenovo tablet m11, 11.0\" wuxga (1920x1200) ips, anti-fingerp review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo Tablet M11, 11.0\ WUXGA (1920x1200) IPS, Anti-Fingerp"
+seo_title: "Lenovo Tablet M11, 11.0\ WUXGA (1920x1200) IPS, An Review"
+meta_description: "Our full lenovo tablet m11, 11.0\ wuxga (1920x1200) ips, anti-fingerp review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-tablet-m11-11-0-wuxga-1920x1200-ips-anti-fingerprint-touchscreen-4gb-b0d8vm-review"
 image_alt: "Lenovo Tablet M11, 11.0 WUXGA (1920x1200) IPS, Anti-Fingerprint, Touchscreen, 4GB, 128GB eMMC, Android 13 Tab Pen"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8VM6G33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lAPXIVyJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict: Lenovo Tablet M11 Review — The Anti-Fingerprint Coating Is Real, and That's Just the Start**

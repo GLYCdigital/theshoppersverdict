@@ -1,4 +1,5 @@
 ---
+
 title: "Anthony's Organic Arrowroot Flour, 4 lb, Batch Tested Gluten"
 seo_title: "Anthony's Organic Arrowroot Flour Review (4 lb Bag) | 2026 inch"
 meta_description: "Honest Anthony's Organic Arrowroot Flour review: 4 lb batch-tested gluten-free powder. Texture, uses, downsides, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01MYFLIA9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ikruZ-b0L._SL1500_.jpg"
-pros:
+pros: 
   - "Batch-tested for gluten with results available online — real reassurance for celiac shoppers"
   - "Fine, powdery texture dissolves cleanly in cold liquids without clumping"
   - "4 lb resealable bag beats the tiny 8 oz jars at the grocery store on price per ounce"
-cons:
+cons: 
   - "No scoop included — you'll need your own measuring spoon"
   - "Resealable zipper can tear if you're not careful; transfer to a jar if you store it long-term"
+
 ---
 
 Let's get one thing straight: arrowroot powder is not a 1:1 flour substitute for bread. It doesn't have gluten's elasticity, and if you treat it like wheat flour, you'll end up with gummy, dense bricks. But for thickening sauces, crisping up gluten-free baked goods, and making chewy cookies that don't crumble on the first bite, it's indispensable. Anthony's Organic version is the one I keep coming back to.

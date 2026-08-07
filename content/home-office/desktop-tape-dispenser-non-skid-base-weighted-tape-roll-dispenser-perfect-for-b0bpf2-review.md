@@ -1,4 +1,5 @@
 ---
+
 title: "Desktop Tape Dispenser - Non-Skid Base - Weighted Tape Roll"
 seo_title: "Desktop Tape Dispenser Review: Non-Skid Weighted Base (2026)"
 meta_description: "Honest Desktop Tape Dispenser review: non-skid weighted base, one-handed tear, 4.8/5 rating. See pros, cons & who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BPF2C7QM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51m19tMO3zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weighted base stays put during aggressive one-handed pulls — no chasing the dispenser across the desk"
   - "Serrated metal blade cuts cleanly through 2-inch packing tape without tearing or jagged edges"
   - "Rubber non-skid pads grip smooth surfaces like glass desks and acrylic organizers"
-cons:
+cons: 
   - "Only fits standard 1-inch core tape rolls — won't accommodate jumbo 3-inch core rolls without an adapter"
   - "Lightweight plastic body flexes slightly if you press down hard while cutting"
   - "No built-in tape saver or roll storage — what you see is what you get"
+
 ---
 
 If you've ever wrestled a roll of tape while trying to wrap a package or seal a box, you already know the pain: tape sticks to itself, the roll slides across the desk, and the dispenser tips over just as you're about to cut. This desktop tape dispenser from B0BPF2C7QM aims to fix all of that with a weighted, non-skid base and a sharp serrated blade. Does it deliver? Mostly yes — with a few caveats worth knowing before you click buy.

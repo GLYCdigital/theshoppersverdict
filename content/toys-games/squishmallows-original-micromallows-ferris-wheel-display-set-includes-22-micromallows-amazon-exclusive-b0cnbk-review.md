@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original Micromallows Ferris Wheel Display Set"
 seo_title: "Squishmallows Original Micromallows Ferris Wheel D Review"
 meta_description: "Our full squishmallows original micromallows ferris wheel display set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNBK3VCJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AE9dC+xKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: if you're buying this for a child who just wants *more* Squishmallows to cuddle, you might be missing the point. This set is a collector's display piece first, a toy second — and that's exactly what makes it brilliant.

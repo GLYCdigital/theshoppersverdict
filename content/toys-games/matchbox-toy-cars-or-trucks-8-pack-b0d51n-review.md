@@ -1,4 +1,5 @@
 ---
+
 title: "Matchbox Toy Cars or Trucks 8-Pack"
 seo_title: "Matchbox Toy Cars or Trucks 8-Pack Review: Verdict | TSV"
 meta_description: "Our full matchbox toy cars or trucks 8-pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D51NH8HG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91n8pWItTxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a Matchbox 8-Pack actually is: it's a grab bag. You're paying for eight die-cast vehicles at a per-car discount, but you don't get to choose which ones. That's the tradeoff, and it's worth understanding before you click buy.

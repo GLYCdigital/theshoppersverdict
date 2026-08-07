@@ -1,23 +1,25 @@
 ---
+
 title: "Callaway Golf Paradym AI Smoke Max Fairway Wood"
 seo_title: "Callaway Paradym AI Smoke Max Fairway Wood Review (2026)"
 meta_description: "Callaway Paradym AI Smoke Max fairway wood review: 4.5/5 stars. We test forgiveness, distance, and turf interaction. Is it worth $300? Find out."
 slug: "callaway-golf-paradym-ai-smoke-max-fairway-wood-b0cr9y-review"
 image_alt: "Callaway Paradym AI Smoke Max fairway wood with carbon crown and adjustable hosel"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR9YXGTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CYl382ZTL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tungsten Speed Cartridge pushes CG low-forward for high launch with low spin — verified on launch monitor"  
   - "Forgiving face holds ball speed on heel/toe misses; 3W plays like a 4W for average swing speeds"  
   - "Adjustable hosel (2°) plus sliding weight (14g) lets you fine-tune draw/fade bias"  
-cons:  
+cons: 
   - "Stock Tensei AV Blue shaft plays soft — faster swingers may need a stiff or X-stiff aftermarket upgrade"  
   - "Sound at impact is muted 'thwack' — some prefer louder, more traditional crack"
+
 ---
 
 The Paradym AI Smoke Max isn't just another fairway wood. It's Callaway's answer to the golfer who's tired of choosing between distance and forgiveness. After 225 Amazon reviews averaging 4.5 stars, the consensus is clear: this club delivers. But let's dig past the hype and into what actually matters on the course.

@@ -1,4 +1,5 @@
 ---
+
 title: "B&Q SalonSpike Lash Clusters Kit"
 seo_title: "B&Q SalonSpike Lash Clusters Kit Review (2026): Worth It?"
 meta_description: "Honest B&Q SalonSpike Lash Clusters Kit review: 4.4-star rated DIY lashes. We tested wear time, application ease, and value. See who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQSC8THV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718lzOI-MQL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut cluster sizes (8-16mm) that mimic salon-grade volume fans without needing individual lash application skills"
   - "Bond and seal duo dries down crystal-clear — no white residue even on oily lids after 8+ hour wear"
   - "Wispy mix of matte black and natural curl holds a tight curl for 2-3 weeks of daily reuse"
-cons:
+cons: 
   - "Bond applicator wand picks up too much product, causing clumping at the inner corners if you're not wiping it down first"
   - "The included remover is a basic oil-based wipe — you'll need a dedicated lash cleanser for full removal without tugging natural lashes"
+
 ---
 
 Let's cut through the "salon in a box" marketing. The **B&Q SalonSpike Lash Clusters Kit** has earned a 4.4-star average from 220 Amazon ratings, and after breaking down what's actually in the box and how it performs, that score holds up — with some caveats worth your attention before you add to cart.

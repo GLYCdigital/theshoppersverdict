@@ -1,4 +1,5 @@
 ---
+
 title: "UGREEN 8K@60Hz Displayport KVM Switch 2 Monitors 2 Computers"
 seo_title: "UGREEN 8K@60Hz Displayport KVM Switch 2 Monitors 2 Review"
 meta_description: "Our full ugreen 8k@60hz displayport kvm switch 2 monitors 2 computers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DXF5Z23S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mbZTQaG5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The UGREEN 8K DisplayPort KVM is the rare product that's simultaneously overkill and underspecified. It promises bleeding-edge 8K@60Hz switching between two computers across two monitors — and it mostly delivers. But "mostly" is doing a lot of work at this price point.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blackstone 5047 Burger Spatula Heavy Duty Plastic Handle Lar"
 seo_title: "Blackstone 5047 Burger Spatula Review: Heavy-Duty & Durable"
 meta_description: "Blackstone 5047 Burger Spatula review: heavy-duty stainless steel, plastic handle, large size. See pros, cons, and who should buy this flat-top essential."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B8DSM4ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ooyKRSCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 6-inch stainless steel blade with a 90-degree edge — actually scrapes clean, doesn't just push food around"
   - "Heat-resistant plastic handle stays cool even after 30 minutes on a hot griddle"
   - "No-flex construction; won't bend when you try to flip a stubborn smash burger"
-cons:
+cons: 
   - "Plastic handle isn't dishwasher-safe — hand wash only, which is annoying for a griddle tool"
   - "Blade is completely flat with no offset or angle, so it can be awkward for lifting thick patties"
+
 ---
 
 If you own a flat-top griddle, you already know the frustration of a flimsy spatula that bends when you need it most. The Blackstone 5047 Burger Spatula is built to eliminate that problem — and at 4.8 stars from 240 buyers, it's clearly doing something right.

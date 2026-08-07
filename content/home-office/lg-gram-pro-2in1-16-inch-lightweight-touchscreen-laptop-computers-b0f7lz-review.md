@@ -1,4 +1,5 @@
 ---
+
 title: "LG gram Pro 2in1 16-inch Lightweight Touchscreen Laptop Comp"
 seo_title: "LG gram Pro 2in1 16-inch Lightweight Touchscreen L Review"
 meta_description: "Our full lg gram pro 2in1 16-inch lightweight touchscreen laptop comp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F7LZJM4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c54JUVGuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LG gram Pro 2in1 16-inch is the laptop equivalent of a magician's trick: it's a 16-inch 2-in-1 that weighs less than 3 pounds, and you'll keep checking your bag to make sure it's actually in there. At 2.9 pounds with a 16-inch OLED touchscreen, it's nearly a full pound lighter than a MacBook Pro 16 and lighter than many 14-inch ultrabooks. That's the headline. But at a 3.7-star average across 185 Amazon ratings, buyers are clearly split on whether the weight savings justify the compromises.

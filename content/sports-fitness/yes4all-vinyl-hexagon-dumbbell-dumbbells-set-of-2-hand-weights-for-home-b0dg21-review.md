@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Vinyl Hexagon Dumbbell - Dumbbells Set of 2 Hand Wei"
 seo_title: "Yes4All Vinyl Hexagon Dumbbell - Dumbbells Set of  Review"
 meta_description: "Our full yes4all vinyl hexagon dumbbell - dumbbells set of 2 hand wei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DG214HSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hV2kCw1LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some dumbbells feel like an afterthought — cast in a factory, slapped with a logo, and shipped out. The Yes4All Vinyl Hexagon Dumbbell set isn't that. At 4.7 stars across 235 ratings, this pair has earned its place in home gyms for one simple reason: it does the basics flawlessly. No gimmicks, no smart-tech nonsense, just a solid hunk of iron wrapped in vinyl that won't let you down.

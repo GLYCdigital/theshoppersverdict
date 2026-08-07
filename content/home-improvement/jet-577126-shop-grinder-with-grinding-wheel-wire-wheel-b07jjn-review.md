@@ -1,4 +1,5 @@
 ---
+
 title: "Jet 577126 Shop Grinder with Grinding Wheel & Wire Wheel"
 seo_title: "Jet 577126 Shop Grinder with Grinding Wheel & Wire Review"
 meta_description: "Our full jet 577126 shop grinder with grinding wheel & wire wheel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07JJN5CDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51w5lT+uF6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Jet 577126 isn't the flashiest bench grinder on the shelf. It won't light up your shop with LEDs, it doesn't have variable speed, and there's no fancy digital readout. What it does have is a 3/4 HP induction motor, a cast iron base, and two full 1-inch wide wheels — and for most shops, that's exactly what matters.

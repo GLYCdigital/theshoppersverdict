@@ -1,4 +1,5 @@
 ---
+
 title: "BODYARMOR LYTE Sports Drink Low-Calorie Sports Beverage, Pea"
 seo_title: "BODYARMOR LYTE Sports Drink Review: Low-Calorie Hydration"
 meta_description: "Read our BODYARMOR LYTE Sports Drink review. Low-calorie, electrolyte-packed hydration for athletes. See pros, cons, and if it's worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKCQVQLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fJAs-kEpL._SL1500_.jpg"
-pros:
+pros: 
   - "20 calories per bottle with zero sugar, yet still delivers 700mg electrolytes"
   - "Coconut water base provides natural potassium (700mg) instead of synthetic additives"
   - "Vitamins A, C, E, and B-complex included — more than typical sports drinks"
-cons:
+cons: 
   - "Sweetened with stevia and erythritol — some people notice a slight cooling aftertaste"
   - "Peach Mango flavor leans sweeter than the original BODYARMOR; not ideal if you prefer tart"
   - "No caffeine or carbohydrate energy boost — this is pure hydration, not a pre-workout"
+
 ---
 
 **Bottom line up front:** BODYARMOR LYTE isn't a coffee maker or espresso gear, but if you're shopping this category, you're likely looking for a hydration boost to pair with your morning brew routine. At 4.6 stars from 229 ratings, this low-calorie sports drink earns its score through smart formulation — not gimmicks.

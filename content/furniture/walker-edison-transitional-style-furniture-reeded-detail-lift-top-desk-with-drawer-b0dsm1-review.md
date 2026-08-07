@@ -1,4 +1,5 @@
 ---
+
 title: "Walker Edison Transitional Style Furniture, Reeded Detail, L"
 seo_title: "Walker Edison Transitional Style Furniture, Reeded Review"
 meta_description: "Our full walker edison transitional style furniture, reeded detail, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSM19W69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PJkcdFQXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Walker Edison Reeded Detail Lift-Top Desk worth your money? I dug through 225 ratings, the build specs, and the complaints to give you the straight answer.**

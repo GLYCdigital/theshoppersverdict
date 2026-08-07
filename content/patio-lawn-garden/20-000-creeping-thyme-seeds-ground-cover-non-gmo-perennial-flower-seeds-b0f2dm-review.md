@@ -1,4 +1,5 @@
 ---
+
 title: "20,000+ Creeping Thyme Seeds Ground Cover, Non-GMO Perennial"
 seo_title: "Creeping Thyme Seeds Review: 20,000+ Non-GMO Ground Cover"
 meta_description: "Honest review of 20,000+ Creeping Thyme Seeds ground cover. Find out germination rates, planting tips, and whether this non-GMO perennial is worth your money."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0F2DMWJKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6156Ala00jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely generous seed count — 20,000+ seeds covers roughly 500-1,000 sq ft depending on spacing"
   - "Non-GMO and untreated seeds; viable for organic gardeners and pollinator-friendly landscaping"
   - "Creeping thyme is a hardy perennial once established — tolerates foot traffic and drought well"
-cons:
+cons: 
   - "Germination rates are inconsistent; multiple buyers report poor sprouting without cold stratification"
   - "Seeds are tiny and difficult to spread evenly; mixing with sand is almost mandatory for uniform coverage"
   - "No germination instructions included on packaging — a critical omission for first-time growers"
+
 ---
 
 **Opening: The 20,000-seed promise is real, but the path to a thyme lawn is paved with patience — and a few failures.**

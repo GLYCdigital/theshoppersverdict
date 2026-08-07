@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture Cheryl Indoor/Outdoor Ghost Accent and Dinin"
 seo_title: "Flash Furniture Cheryl Ghost Chair Review (2026): Worth It?"
 meta_description: "Flash Furniture Cheryl ghost chair review: 4.6★ rated. We test comfort, durability, indoor/outdoor versatility. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQ63XFPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713e4Lhl6iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely versatile — clear acrylic works in dining rooms, patios, offices, and event spaces without clashing"
   - "Contoured seat and back provide surprising support for an all-acrylic chair; holds up to 300 lbs"
   - "Weather-resistant build handles sun and light rain without yellowing or cracking, per long-term buyer reports"
-cons:
+cons: 
   - "Shows fingerprints, dust, and smudges constantly — you'll be wiping it down weekly"
   - "No stacking ability; chairs take up significant floor space when stored"
+
 ---
 
 Let’s be honest: most clear acrylic furniture is a gamble. Either it looks cheap and scratches if you breathe on it, or it costs as much as a used car. The Flash Furniture Cheryl sits somewhere in the sensible middle — and with 229 ratings averaging 4.6 stars, it’s clearly doing something right. Here’s the real breakdown after digging through buyer feedback and the spec sheet.

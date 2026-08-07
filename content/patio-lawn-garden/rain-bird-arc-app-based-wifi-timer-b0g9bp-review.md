@@ -1,4 +1,5 @@
 ---
+
 title: "Rain Bird ARC App-Based WiFi Timer"
 seo_title: "Rain Bird ARC App-Based WiFi Timer Review: Verdict | TSV"
 meta_description: "Our full rain bird arc app-based wifi timer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G9BP1QJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718rNaNV8fL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in your yard at 6 AM with a hose in hand because you forgot to move the sprinkler, the Rain Bird ARC is the $80-ish solution to a problem you didn't realize had a fix. This is a straightforward smart watering timer that replaces your manual spigot timer and brings app-based control to the equation. But is it the right smart timer for your specific setup? Let's dig into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kidisego Aqua Fairy Water Gel Kit for Kids, Magic Water Elf "
 seo_title: "Kidisego Aqua Fairy Water Gel Kit for Kids, Magic  Review"
 meta_description: "Our full kidisego aqua fairy water gel kit for kids, magic water elf  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJZXDWQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91aC9DFirhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kidisego Aqua Fairy Water Gel Kit: The 20-Minute Craft That Actually Keeps Kids Engaged**

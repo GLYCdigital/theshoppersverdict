@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Green Tea ActivFresh mattresses"
 seo_title: "Zinus Green Tea ActivFresh mattresses Review: Verdict | T"
 meta_description: "Our full zinus green tea activfresh mattresses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6CZG8HH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c+frgq1JL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Zinus Green Tea ActivFresh mattress has become something of a cult favorite in the boxed-bed space, and with 235 ratings holding a steady 4.7 average, it's earned that reputation. But here's the thing — I've tested enough foam mattresses to know that Amazon averages don't tell the whole story. Let's break down what you're actually getting.

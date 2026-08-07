@@ -1,4 +1,5 @@
 ---
+
 title: "Canon CL-241 XL Genuine Color Ink Cartridge, Compatible with"
 seo_title: "Canon CL-241 XL Review: Genuine Color Ink Cartridge for MG2120 inch"
 meta_description: "Canon CL-241 XL Genuine Color Ink Cartridge review: real-world yield, print quality, and value. See if this OEM ink is worth it for MG2120 users."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGH1VF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-6lJxQa3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM formulation prevents clogging and color banding that plagues third-party refills"
   - "XL capacity delivers roughly 400 pages at 5% coverage — nearly double the standard cartridge"
   - "Chip communicates accurate ink levels to the printer, no guessing games"
-cons:
+cons: 
   - "Premium price per page compared to remanufactured alternatives — you pay for reliability"
   - "No individual color replacement; when yellow runs dry, the whole cartridge goes"
   - "Not compatible with standard CL-241 printers (MG2120/3120 only) — check your model first"
+
 ---
 
 **The $25 question: Do you trust a $9 knockoff cartridge with your wedding photos?**

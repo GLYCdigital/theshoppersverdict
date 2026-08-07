@@ -1,4 +1,5 @@
 ---
+
 title: "Couleuris Remanufactured Ink Cartridges Replacement for (Bla"
 seo_title: "Couleuris Remanufactured Ink Cartridges Review (4-Pack)"
 meta_description: "Honest Couleuris remanufactured ink cartridge review: 4-pack for Canon printers. Real performance data, failure rates, and value verdict."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F5434G8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Significant cost savings — typically 40-60% less than OEM Canon cartridges per page"
   - "Full 4-color set (black, cyan, magenta, yellow) ships in one box, ready to install"
   - "Consistent color output in the first 60-70% of cartridge life when they work correctly"
-cons:
+cons: 
   - "Reported failure rate is roughly 1 in 5 cartridges — some arrive dead or leak internally"
   - "Page yield falls short of OEM claims; users report 15-25% fewer pages than Canon originals"
   - "Printer recognition issues on newer Canon firmware updates — may require manual override"
+
 ---
 
 **Couleuris Remanufactured Ink Cartridges Review: The $40 Gamble That Could Save You $100 — Or Waste an Afternoon**

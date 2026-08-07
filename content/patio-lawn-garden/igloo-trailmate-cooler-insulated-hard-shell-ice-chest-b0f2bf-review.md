@@ -1,4 +1,5 @@
 ---
+
 title: "Igloo Trailmate Cooler | Insulated Hard Shell Ice Chest"
 seo_title: "Igloo Trailmate Cooler | Insulated Hard Shell Ice  Review"
 meta_description: "Our full igloo trailmate cooler | insulated hard shell ice chest review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2BFC6MY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q-pz9pyxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Igloo Trailmate Cooler Review: The 50-Quart Workhorse That Actually Rolls

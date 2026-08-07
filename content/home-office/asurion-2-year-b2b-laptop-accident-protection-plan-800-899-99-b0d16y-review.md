@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year B2B Laptop Accident Protection Plan ($800 - $"
 seo_title: "ASURION B2B Laptop Protection Plan Review: 1-Star Reality"
 meta_description: "ASURION 2-Year B2B Laptop Accident Protection Plan reviewed: 1.0-star Amazon rating exposes claim denial issues. See who should buy & who should skip."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 1.0
 amazon_url: "https://www.amazon.com/dp/B0D16YXT9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CCjD0tREL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers drops, spills, and electrical surges beyond standard manufacturer warranty"
   - "B2B tier allows coverage for business-owned devices with proof of purchase"
   - "Claims can be filed online or by phone with 24/7 support line"
-cons:
+cons: 
   - "150 Amazon ratings average 1.0 stars — overwhelmingly negative claim experiences"
   - "Deductible applies per incident, reducing real-world payout value"
   - "Requires original receipt and detailed damage photos; missing docs = instant denial"
+
 ---
 
 ## A protection plan that looks good on paper — until you need it

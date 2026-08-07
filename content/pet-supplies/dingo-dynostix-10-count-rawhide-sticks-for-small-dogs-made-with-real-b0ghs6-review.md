@@ -1,4 +1,5 @@
 ---
+
 title: "Dingo DynoStix 10 Count, Rawhide Sticks for Small Dogs, Made"
 seo_title: "Dingo DynoStix Review: Rawhide Sticks for Small Dogs (2026)"
 meta_description: "Honest Dingo DynoStix review: 10-count rawhide sticks for small dogs. Real chew durability, ingredient analysis, and buyer feedback at 4.7 stars."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHS69MRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dnLtPOkfL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Braided texture lasts noticeably longer than flat rawhide strips — several buyers report 3-5 days of intermittent chewing"
   - "Sized appropriately for small breeds (under 25 lbs); each stick measures roughly 5 inches with a thin profile that's easy for little jaws to grip"
   - "Minimal odor compared to other rawhide chews; no artificial smoke flavoring that leaves residue on furniture"
-cons:
+cons: 
   - "Not suitable for aggressive chewers — some buyers note smaller dogs finished a stick in under 20 minutes"
   - "No resealable packaging; the 10-count bag doesn't close tightly once opened, so sticks can dry out and harden"
+
 ---
 
 **If your small dog treats every chew toy as a personal challenge to destroy, the Dingo DynoStix might be the middle ground you've been hunting for.** These braided rawhide sticks sit between flimsy flat strips and rock-hard bones—durable enough to occupy a determined chewer, but soft enough that a 10-pound Yorkie won't give up in frustration.

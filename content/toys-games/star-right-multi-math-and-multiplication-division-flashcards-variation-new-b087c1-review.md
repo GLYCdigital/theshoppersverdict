@@ -1,4 +1,5 @@
 ---
+
 title: "Star Right Multi Math and Multiplication Division Flashcards"
 seo_title: "Star Right Multi Math and Multiplication Division  Review"
 meta_description: "Our full star right multi math and multiplication division flashcards review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087C18LLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lg-Ik14hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about math flashcards: most parents buy them with good intentions, and they end up in a drawer by week two. The Star Right Multi Math set tries to solve that problem by throwing four complete decks at you for less than twenty bucks. Does it work? Mostly, yes — with a few caveats worth knowing before you hit buy.

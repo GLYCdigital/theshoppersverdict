@@ -1,16 +1,17 @@
 ---
+
 title: "Globe Electric 52847 31.5 Inch Swing Arm Clamp-On White Desk Lamp with Nickel Accents, On/Off Rotary Switch, Book Reading Light, Home Essentials, Office Décor, LED Bulb Compatible"
 seo_title: "Globe Electric 52847 31.5 Inch Swing Arm Clamp-On  Review"
 meta_description: "Our full globe electric 52847 31.5 inch swing arm clamp-on white desk lamp with nickel accents, on/off rotary switch, book reading light, home essentials, of"
 slug: "globe-electric-52847-31-5-inch-swing-arm-clamp-on-white-desk-review"
 image_alt: "Globe Electric 52847 31.5 Inch Swing Arm Clamp-On White Desk Lamp with Nickel Accents, On/Off Rotary Switch, Book Readin"
-keywords:
+keywords: 
   - "globe electric 52847 review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the Globe Electric 52847 31.5 Inch Swing Arm Clamp-On White Desk Lamp with Nickel Accents, On/Off Rotary Switch, Book Reading Light, Home Essentials, Office Décor, LED Bulb Compatible?"
     answer: "Users consistently praise the strong performance that meets expectations. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,13 +24,14 @@ review_count: 11281
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01MDLWVRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q9ax-NHjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong performance that meets expectations"
   - "Solid build quality that holds up to regular use"
   - "Easy to set up and use right out of the box"
-cons:
+cons: 
   - "Some users report durability concerns over time"
   - "Setup can be confusing for some users"
+
 ---
 
 Let's cut to the chase: you're shopping for a desk lamp, and you've probably already got a cluttered workspace. The Globe Electric 52847 swing arm clamp lamp solves that first problem elegantly — it bolts onto your desk edge rather than stealing precious real estate. But is it worth $38? After digging through 11,000+ buyer experiences, here's what you need to know.

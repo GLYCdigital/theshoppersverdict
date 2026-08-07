@@ -1,4 +1,5 @@
 ---
+
 title: "Flavoring Extract Restaurant Size, for cooking, baking, mixi"
 seo_title: "Flavoring Extract Restaurant Size Review: 1L Value for Coffee"
 meta_description: "Honest review of the 1L Butterfly Flavoring Extract for coffee, baking, and mixing. See if this restaurant-size bottle is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVGDQSJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P17BagETL._SL1500_.jpg"
-pros:
+pros: 
   - "Full liter (33.8 oz) bottle costs about the same as three 4-oz supermarket extracts — real savings for daily coffee flavoring"
   - "Concentrated formula means 1–2 drops per cup is enough; a liter lasts 6–12 months even with heavy use"
   - "Versatile across hot coffee, cold brew, baking batters, and cocktail syrups without separating or clumping"
-cons:
+cons: 
   - "No dropper top — you'll need to buy a small squeeze bottle or use a toothpick to avoid over-pouring"
   - "Plastic bottle is thin-walled; careful if storing near heat or in a pantry where it might get knocked over"
+
 ---
 
 **The 1-Liter Flavoring Extract That Finally Makes Sense for Coffee Lovers**

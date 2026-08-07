@@ -1,4 +1,5 @@
 ---
+
 title: "BLANCO Precis 27 inch  Undermount Single Bowl Kitchen Sink"
 seo_title: "BLANCO Precis 27 inch  Undermount Sink Review (2026): Worth It?"
 meta_description: "BLANCO Precis 27 inch  undermount sink review: real-world test of durability, noise reduction, and installation. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYR5TXH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rOyMjaSoS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-gauge 304 stainless steel with brushed satin finish resists fingerprints and hides water spots"
   - "SoundGuard undercoating and padding reduce dishwasher/faucet noise to a low thud"
   - "Generous 9-inch depth handles stockpots and sheet pans without splashing"
-cons:
+cons: 
   - "Undermount install requires a fabricator or confident DIYer — no clips included"
   - "Water sits in the slight basin corners unless you angle the sprayer just right"
   - "No faucet holes; you'll need a deck-mount or wall-mount faucet separately"
+
 ---
 
 The BLANCO Precis 27" is a sink that disappears into your countertop and lets the rest of your kitchen do the talking. As shown in the product image, it's a clean, rectangular basin with rounded corners — nothing flashy, just function. But function in a sink means different things to different people. After digging through 215 ratings (4.3 stars) and the spec sheet, here's what actually matters before you drop the cash.

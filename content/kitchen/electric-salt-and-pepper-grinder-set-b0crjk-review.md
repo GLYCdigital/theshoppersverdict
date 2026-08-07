@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Salt and Pepper Grinder Set"
 seo_title: "Electric Salt and Pepper Grinder Set Review (2026): Worth It?"
 meta_description: "Honest electric salt and pepper grinder set review: performance, battery life, durability. See pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRJKNCLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ez9zsJkOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "One-handed operation with a wide trigger that's easy to press, even for arthritic hands"
   - "Ceramic grinding mechanism handles both salt and pepper without corroding or wearing down quickly"
   - "Clear acrylic reservoirs let you see fill levels at a glance — no more running dry mid-meal"
-cons:
+cons: 
   - "Battery life is mediocre; expect to replace AAAs every 4-6 weeks with daily use"
   - "Coarseness dial is small and can be tough to turn when your hands are wet or greasy from cooking"
+
 ---
 
 # Electric Salt and Pepper Grinder Set: Is the Convenience Worth the Compromise?

@@ -1,4 +1,5 @@
 ---
+
 title: "65XL Ink Cartridges Black/Color Combo Pack High-Yield Replac"
 seo_title: "65XL Ink Cartridges Review: High-Yield Combo Pack for HP"
 meta_description: "Honest 65XL ink cartridge combo pack review: print quality, page yield, compatibility, and cost-per-page compared to OEM. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1CJ93JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+7S0OPjvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 65XL high-yield capacity — roughly 300 black pages and 315 color pages, nearly double the standard 65 cartridge"
   - "Chip pre-installed and recognized by HP printers without firmware workarounds or manual reset sequences"
   - "Full black plus tri-color combo in one box, priced well below two OEM cartridges"
-cons:
+cons: 
   - "Color cartridge runs dry noticeably faster than black when printing photo-heavy documents"
   - "Some users report the chip occasionally triggers a 'low ink' warning early, even with 15–20% remaining"
+
 ---
 
 **The $60 Question: Can a Third-Party 65XL Combo Beat HP's Pricing Without Sacrificing Quality?**

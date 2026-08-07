@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dell Laptop Charger 130W USB C Type C AC Adapter,XPS 15 9500 inch"
 seo_title: "Dell 130W USB-C Charger Review: XPS 15 9500 Power Tested"
 meta_description: "Honest Dell 130W USB-C charger review for XPS 15 9500. We test power delivery, build quality, and compatibility. See if this OEM adapter is worth $90+."
@@ -12,14 +13,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CZLGX8VJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RXJUXe42L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM Dell part — proper 20V/6.5A power profile for XPS 15 and Precision 5550/5560 inch"
   - "Compact for a 130W brick at 5.1 x 2.2 x 0.9 inches; weighs about 0.9 lbs"
   - "USB-C connector is reinforced at the strain point — common failure area on cheaper third-party units"
-cons:
+cons: 
   - "Fixed 6-foot AC cord — no detachable power cable like Dell's older 130W adapters"
   - "Runs warm under sustained load; surface temps around 115°F during gaming or video rendering"
   - "No USB-A passthrough port — single USB-C only, unlike some competing GaN chargers at this price"
+
 
 ---
 

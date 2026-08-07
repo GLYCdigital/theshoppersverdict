@@ -1,4 +1,5 @@
 ---
+
 title: "BoRccdit Emergency Rechargeable Light Bulbs 6/8/10PK"
 seo_title: "BoRccdit Emergency Light Bulbs Review: Rechargeable, Reliable"
 meta_description: "BoRccdit emergency rechargeable light bulbs review: battery backup, brightness, real-world testing. See if these power-outage savers are worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQL82BKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713LNY998eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in battery backup kicks in automatically within seconds of power loss — no dead zones in your home during outages"
   - "Multiple brightness modes (dim, medium, high) let you stretch battery life from roughly 2 to 6+ hours depending on needs"
   - "Works in standard E26 sockets with no hub, app, or wiring changes required — genuinely plug-and-play"
-cons:
+cons: 
   - "Battery lifespan degrades after 300-500 charge cycles; replacing 6-10 bulbs every few years adds up"
   - "Slightly heavier than standard LED bulbs — hanging pendant fixtures may tilt or sag noticeably"
   - "On/off switch must be left in the 'on' position for the emergency backup to function, which confuses some households"
+
 ---
 
 # BoRccdit Emergency Rechargeable Light Bulbs Review: Your Power-Outage Lifeline

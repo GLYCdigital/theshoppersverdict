@@ -1,4 +1,5 @@
 ---
+
 title: "FITUEYES Height Adjustable Standing Desk 32â€"
 seo_title: "FITUEYES Height Adjustable Standing Desk 32â€ Review: Ver"
 meta_description: "Our full fitueyes height adjustable standing desk 32â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B092J1QDJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hDTJXynyS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance & Build Quality**

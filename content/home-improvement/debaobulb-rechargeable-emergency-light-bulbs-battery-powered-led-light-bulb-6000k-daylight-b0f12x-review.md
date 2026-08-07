@@ -1,4 +1,5 @@
 ---
+
 title: "DEBAOBULB Rechargeable Emergency Light Bulbs, Battery Powere"
 seo_title: "DEBAOBULB Rechargeable Emergency Light Bulb Review (2026)"
 meta_description: "Honest DEBAOBULB rechargeable emergency light bulb review: battery backup, 6000K daylight, real-world performance, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F12X1BXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61k3lKM2OOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in 2000mAh battery delivers 4+ hours of emergency light after power loss — tested, not just claimed"
   - "Screw-in E26 base works in standard fixtures; no hub, app, or wiring required"
   - "Bright 6000K daylight output (800 lumens) that's genuinely useful for tasks, not just emergency gloom"
-cons:
+cons: 
   - "Battery recharge cycle takes 8–10 hours, so it won't be ready immediately after a long outage"
   - "Slightly longer housing (5.1 inches) can protrude from shallow ceiling fixtures or lampshades"
   - "No remote or motion sensor — it's strictly manual on/off via the wall switch"
+
 ---
 
 **Bottom line: This is the rare emergency light that actually earns its place in your everyday fixture.**

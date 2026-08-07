@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Hose - PHLEX PRO Heavy-Duty Premium 5/8'' Rubber 3-La"
 seo_title: "PHLEX PRO 5/8 Rubber Garden Hose Review: Heavy-Duty Pick"
 meta_description: "PHLEX PRO 5/8 inch  rubber garden hose review: 3-layer build, kink resistance, real-world durability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHVGQ6MQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617CUkA6KBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - True 5/8 inch " interior diameter delivers full water pressure — no kink-induced flow loss even when doubled over
   - "3-layer rubber construction stays flexible in cold weather down to freezing temps without cracking"
   - "Solid brass fittings with integrated rubber gaskets — zero leaks at the connection points"
-cons:
+cons: 
   - "Heavy when full — roughly 12+ lbs, which can be tiring if you're dragging it across a large yard"
   - "No kink-free guarantee — it resists kinks but isn't immune to sharp bends around corners"
+
 ---
 
 Most garden hoses are disposable. You buy one in spring, it cracks by August, and you're back at the hardware store wondering why you keep doing this to yourself. The PHLEX PRO 5/8'' rubber hose is trying to break that cycle. After digging through 225 ratings and the 4.5-star average, here's the honest breakdown.

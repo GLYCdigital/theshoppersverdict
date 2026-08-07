@@ -1,4 +1,5 @@
 ---
+
 title: "Waterman Expert Fountain Pen"
 seo_title: "Waterman Expert Fountain Pen Review: Verdict | TSV"
 meta_description: "Our full waterman expert fountain pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFDH2KMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g4L3ZmoHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Waterman Expert sits in an awkward spot. It's priced above entry-level pens but below the gold-nibbed prestige models. So what are you actually getting for your money? I've spent several weeks writing with it, and here's the honest breakdown.

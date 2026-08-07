@@ -1,4 +1,5 @@
 ---
+
 title: "FLARING 65A Plasma Cutter Dual Voltage 120V/240V"
 seo_title: "FLARING 65A Plasma Cutter Review: Dual Voltage Value"
 meta_description: "FLARING 65A plasma cutter dual voltage review: real cutting performance, pilot arc reliability, and who should buy this 120V/240V unit."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRLC3ZY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bywM7AQjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pilot arc starts reliably on rusty, painted, or coated metal — no need for perfectly clean surfaces"
   - "Dual voltage 120V/240V with auto-sensing input means you can run it at home or in a real shop without switching wires"
   - Cutting capacity is honest: "clean 65A cuts through 3/4 inch  plate, with 1 inch  possible on a slower pass"
-cons:
+cons: 
   - "Consumables are proprietary — you're locked into FLARING's tip and electrode pricing, which adds up over time"
   - "The included 12-ft torch lead is shorter than some competitors' 20-ft leads; you'll likely want an extension for larger projects"
   - "No built-in air filter/dryer — in humid climates, moisture in the line will degrade cut quality fast unless you add one"
+
 ---
 
 If you've been window-shopping plasma cutters, you've probably noticed a wall of no-name Chinese units promising 50 amps for $200. The FLARING 65A sits above that crowd, and the 4.4-star average across 220 ratings suggests it's earning its keep. But is it a genuine workshop tool or just a more expensive gamble? Let's cut through the marketing.

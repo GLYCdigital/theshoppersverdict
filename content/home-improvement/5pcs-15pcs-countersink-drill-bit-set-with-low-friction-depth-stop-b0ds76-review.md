@@ -1,23 +1,25 @@
 ---
+
 title: "5Pcs/15Pcs Countersink Drill Bit Set with Low Friction Depth"
 seo_title: "5Pcs/15Pcs Countersink Drill Bit Set Review: Low Friction Depth"
 meta_description: "Honest review of the 5Pcs/15Pcs Countersink Drill Bit Set with Low Friction Depth. Tested for clean holes, durability, and value. See pros, cons, and verdict."
 slug: "5pcs-15pcs-countersink-drill-bit-set-with-low-friction-depth-stop-b0ds76-review"
 image_alt: "5Pcs/15Pcs countersink drill bit set with low friction depth stop on a workbench"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DS76DV84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TxZ8zh14L._SL1500_.jpg"
-pros:  
+pros: 
   - "Six-flute design cuts clean, chatter-free countersinks in hardwood and softwood alike"  
   - "Adjustable depth stop with a hex wrench locks firmly — no slipping mid-job"  
   - "HSS construction holds an edge through dozens of holes in aluminum and plywood"  
-cons:  
+cons: 
   - "Depth stop collar feels slightly bulky on the 5-piece set; fine on the 15-piece"  
   - "No storage case included — bits arrive loose in a plastic bag, easy to misplace"
+
 ---
 
 If you’ve ever fought with a countersink bit that chatters, skips, or leaves a ragged crater around your screw heads, this set is aimed squarely at you. The 5Pcs/15Pcs Countersink Drill Bit Set with Low Friction Depth stop isn’t a fancy brand name, but it solves the two biggest annoyances in countersinking: inconsistent depth and rough cuts. With a 4.4-star average across 220 ratings, it’s clearly earning its keep in home shops. But is it worth your money? Let’s dig in.

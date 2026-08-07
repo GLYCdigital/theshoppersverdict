@@ -1,4 +1,5 @@
 ---
+
 title: "AYCP Furniture Power Recliner Sofa Sectional Sofa with LED L"
 seo_title: "AYCP Power Recliner Sectional Review: LED, Comfort & Value"
 meta_description: "Honest AYCP Furniture power recliner sectional review: LED lighting, USB ports, comfort, and build quality. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK2G6J2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d3T46ziRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Independent power reclining on both ends lets two people watch TV or nap without compromising posture"
   - "Built-in USB and Type-C charging ports plus LED lighting create a genuinely functional media hub"
   - "PU leather upholstery cleans up easily with a damp cloth—practical for households with kids or pets"
-cons:
+cons: 
   - "PU leather won't breathe like fabric; expect a sticky back on hot days without AC"
   - "Assembly requires two people and roughly an hour—one reviewer called the instructions 'sparse'"
   - "LED lights run on USB power only; no remote or wall plug included for the lighting system"
+
 ---
 
 Let's be blunt: most power recliner sectionals under $1,000 are a gamble. The AYCP Furniture Power Recliner Sofa Sectional with LED lighting sits at a 4.4-star average across 220 ratings, which tells you it beats the odds—but not without caveats. Here's what 220 buyers actually experienced.

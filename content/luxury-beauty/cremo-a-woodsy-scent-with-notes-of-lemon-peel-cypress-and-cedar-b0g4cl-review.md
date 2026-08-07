@@ -1,4 +1,5 @@
 ---
+
 title: "Cremo A Woodsy Scent with Notes of Lemon Peel, Cypress and C"
 seo_title: "Cremo Woodsy Scent Review: Lemon Peel & Cypress"
 meta_description: "Cremo's woodsy cologne with lemon peel, cypress & cedar reviewed. See how it performs, lasts, and who it fits best in this honest 4.6-star review."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4CLBGHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Wi34oChL._SL1500_.jpg"
-pros:
+pros: 
   - "Complex scent profile that evolves from bright citrus to deep woods over hours"
   - "Exceptional longevity for the price point — 6-8 hours on skin, longer on clothes"
   - "Balanced projection that won't overwhelm a room but gets noticed up close"
-cons:
+cons: 
   - "Cypress note can read slightly sharp in the first 15 minutes before settling"
   - "Bottle design is utilitarian — no magnetic cap or weighted base at this price"
+
 ---
 
 **The $25 cologne that punches like it costs three times more**

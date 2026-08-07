@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings | Renegade Youth Baseball Glove | First Base/Catche"
 seo_title: "Rawlings | Renegade Youth Baseball Glove | First B Review"
 meta_description: "Our full rawlings | renegade youth baseball glove | first base/catche review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMWCSC4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wndOThebL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid just got handed the first base or catcher position, you're staring down a specialized mitt that costs twice what a normal glove does. The Rawlings Renegade youth series is one of the few options that doesn't treat position players like an afterthought. Here's what you're actually getting for the money.

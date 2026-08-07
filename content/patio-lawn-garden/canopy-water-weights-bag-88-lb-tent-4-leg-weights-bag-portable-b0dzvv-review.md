@@ -1,4 +1,5 @@
 ---
+
 title: "Canopy Water Weights Bag, 88 lb Tent 4 Leg Weights Bag, Port"
 seo_title: "Canopy Water Weights Bag Review: 88 lb 4-Leg Stability Tested"
 meta_description: "Honest Canopy Water Weights Bag review: 88 lb capacity, 4-leg design, portability. See how it holds up in wind, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZVVN2XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YAAPidPNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four separate 22 lb chambers strap directly to each canopy leg, distributing weight evenly without a single awkward 88 lb blob"
   - "Heavy-duty 900D Oxford fabric with double-stitched seams holds up to repeated fills and drags across concrete"
   - "Empty weight under 3 lbs per bag — pack four in a tote and fill on-site with a garden hose"
-cons:
+cons: 
   - "Fill valve is narrow; filling takes patience and a steady stream or you'll splash water everywhere"
   - "No drain plug — you'll have to cut a corner or tip the bag to empty it, which makes storage a chore"
   - "Straps fit standard 1.5-inch legs snugly but slip on tapered or thicker commercial-grade frames"
+
 ---
 
 **The 88 lb Canopy Water Weights Bag: Does It Actually Keep Your Tent Grounded?**

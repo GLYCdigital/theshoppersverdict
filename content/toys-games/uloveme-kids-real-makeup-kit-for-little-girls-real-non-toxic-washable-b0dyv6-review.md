@@ -1,4 +1,5 @@
 ---
+
 title: "ULOVEME Kids Real Makeup Kit for Little Girls - Real, Non To"
 seo_title: "ULOVEME Kids Real Makeup Kit for Little Girls - Re Review"
 meta_description: "Our full uloveme kids real makeup kit for little girls - real, non to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYV6GDQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lX29EiaPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The honest truth about buying "real" makeup for a 6-year-old**

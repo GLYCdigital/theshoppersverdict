@@ -1,4 +1,5 @@
 ---
+
 title: "Gigabit POE Injector Adapter, IEEE 802.3af/at Compliant, 10/"
 seo_title: "Gigabit POE Injector Adapter, IEEE 802.3af/at Comp Review"
 meta_description: "Our full gigabit poe injector adapter, ieee 802.3af/at compliant, 10/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DBHRFPD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x4xMdnmDL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a POE injector is the least glamorous piece of networking gear you'll ever buy. But when it fails, it takes down your IP camera, access point, or VoIP phone with it. This gigabit injector from a generic Chinese OEM has been hovering around 3.9 stars across 195 ratings — respectable, but not stellar. Here's what that rating actually means for your setup.

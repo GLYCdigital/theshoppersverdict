@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE PLF137A Pool Filter Replaces PA137, Unicel C-7490, "
 seo_title: "POOLPURE PLF137A Pool Filter Replaces PA137, Unice Review"
 meta_description: "Our full poolpure plf137a pool filter replaces pa137, unicel c-7490,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09F6RD7VK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iCLJbgAPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: pool filters aren't exciting. But a bad one turns your backyard oasis into a green swamp within a week. The POOLPURE PLF137A is a third-party replacement for the ubiquitous Hayward PA137 (also cross-referenced as Unicel C-7490, Filbur FC-1297, and Pleatco PLE-137). It's a cartridge filter, not a sand or DE filter, so it's meant for above-ground pools and smaller in-ground systems. At 4.6 stars across 229 reviews, it's clearly doing something right. Here's the full breakdown.

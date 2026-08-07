@@ -1,4 +1,5 @@
 ---
+
 title: "HeyZoo Saucer Flying Swing, Tree Swing for Kids, 900lbs Weig"
 seo_title: "HeyZoo Saucer Flying Swing Review: 900lb Tree Swing for Kids"
 meta_description: "Honest HeyZoo saucer swing review: 900lb capacity, twin suspension ropes, and real buyer feedback. Is this tree swing worth it for your backyard?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6LBXWBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iSR5EJPHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty 900lb capacity rating with twin-rope suspension system that prevents seat tipping"
   - "Water-resistant 600D Oxford fabric with reinforced stitching holds up to daily backyard use"
   - "Includes heavy-duty zinc-plated carabiners and a 12-inch steel ring for easy installation"
-cons:
+cons: 
   - "Ropes lack protective sleeves — constant rubbing against rough bark can cause premature wear"
   - "No included hardware for mounting to a beam or pergola, only tree branch installation"
+
 ---
 
 You know that moment when your kid discovers a swing that turns an ordinary afternoon into a full-blown adventure? The HeyZoo Saucer Flying Swing aims to deliver exactly that — but with a 900-pound weight rating that makes it more than just another backyard toy. After digging through 225 ratings and the real-world feedback behind that 4.5-star average, here's what actually matters before you buy.

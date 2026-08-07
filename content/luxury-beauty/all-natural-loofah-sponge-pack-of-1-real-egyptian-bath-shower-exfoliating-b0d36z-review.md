@@ -1,4 +1,5 @@
 ---
+
 title: "All Natural Loofah Sponge, Pack of 1 Real Egyptian Bath & Sh"
 seo_title: "Egyptian Loofah Sponge Review: Real Exfoliation or Hype?"
 meta_description: "Honest review of the All Natural Egyptian Loofah Sponge. Does a real dried gourd beat plastic poufs? Tested for durability, exfoliation & value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D36ZMTFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hsw9cZazL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine dried gourd, not synthetic plastic — visibly dense fibrous core that holds soap and lathers without foaming agents"
   - "Rigorous exfoliation suitable for callused feet and rough elbows, yet softens significantly after first soak"
   - "Fully biodegradable and compostable, unlike nylon poufs that shed microplastics into waterways"
-cons:
+cons: 
   - "Harsh on sensitive skin if used dry or with too much pressure — requires a soak before first use"
   - "Pleasant but distinct earthy smell when wet that dissipates but may bother fragrance-sensitive buyers"
   - "Single sponge, not a multipack — at this price point you may want two to rotate while drying"
+
 ---
 
 Let's be honest: most "loofahs" on Amazon are plastic mesh poufs that fall apart in three weeks. This one is different. The **All Natural Loofah Sponge** is a genuine dried Egyptian gourd — the real botanical thing, cut into a usable bath-size piece. At 4.4 stars across 220 ratings, it's not a viral sensation, but it has a loyal following of people who want actual exfoliation, not a soap-holder made of recycled netting.

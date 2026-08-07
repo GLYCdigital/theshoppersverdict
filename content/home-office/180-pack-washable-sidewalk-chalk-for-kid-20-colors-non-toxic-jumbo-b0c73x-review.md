@@ -1,4 +1,5 @@
 ---
+
 title: "180 Pack Washable Sidewalk Chalk for Kid, 20 Colors Non-Toxi"
 seo_title: "180 Pack Washable Sidewalk Chalk Review: 20 Colors, Non-Toxic"
 meta_description: "Honest review of 180-pack washable sidewalk chalk: 20 vibrant colors, non-toxic, jumbo size. Read pros, cons, and real buyer feedback before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C73XYYW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yY3P8+VHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20 distinct colors including pastels and neons — not just the standard 8-pack rainbow"
   - "Jumbo 4-inch sticks survive aggressive sidewalk pounding without snapping"
   - "Washes off concrete and pavement with a hose or rain — no scrubbing required"
-cons:
+cons: 
   - "Some sticks arrive with manufacturing dust that transfers to hands immediately"
   - "Storage bucket is flimsy thin plastic — likely won't survive a drop on concrete"
+
 ---
 
 ## 180 Sticks of Creativity — But Is It Worth the Mess?

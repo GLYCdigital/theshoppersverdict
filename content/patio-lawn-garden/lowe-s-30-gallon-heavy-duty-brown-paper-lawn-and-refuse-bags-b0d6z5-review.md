@@ -1,4 +1,5 @@
 ---
+
 title: "Lowe's 30 Gallon Heavy Duty Brown Paper Lawn and Refuse Bags"
 seo_title: "Lowe's 30 Gallon Heavy Duty Brown Paper Lawn and R Review"
 meta_description: "Our full lowe's 30 gallon heavy duty brown paper lawn and refuse bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6Z53ZZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NGlE6sqNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled a flimsy plastic bag that splits the moment it touches a wet maple leaf, Lowe’s 30-gallon paper bags are the calm, sturdy alternative you didn’t know you needed. At 4.7 stars from 235 Amazon ratings, this is the kind of product that gets repurchased every fall — not because it’s flashy, but because it just works. Here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "DuraTrel Country Garden Vinyl Trellis, Wall Mount Plant Supp"
 seo_title: "DuraTrel Country Garden Vinyl Trellis Review (2026): Worth It?"
 meta_description: "DuraTrel Country Garden Vinyl Trellis review: Is this wall-mount plant support worth $40? We analyze durability, installation, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0001LF14S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-and-amazon.com/images/I/61fEWGKI4DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Maintenance-free white vinyl that won't rot, warp, or need repainting—ever"
   - "Sturdy 35-inch tall frame with a 2-inch depth that keeps vines off the siding"
   - "Pre-drilled mounting holes and included hardware make installation a 15-minute job"
-cons:
+cons: 
   - "Vinyl flexes under heavy mature vines; you'll want extra wall anchors for support"
   - "The 35-inch height is short for aggressive climbers like clematis or climbing roses"
   - "Some buyers report the lattice pattern feels flimsy until fully mounted on the wall"
+
 ---
 
 **Is this vinyl trellis actually worth mounting on your wall? Here's the honest breakdown after digging through 210 buyer reviews.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Jacobs Perfect Elixir Eau de Parfum â€“ Ambery Floral W"
 seo_title: "Marc Jacobs Perfect Elixir Eau de Parfum â€“ Amber Review"
 meta_description: "Our full marc jacobs perfect elixir eau de parfum â€“ ambery floral w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD15TVJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41NjhRfVQfL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Marc Jacobs Perfect Elixir isn't a safe flanker. It's the boldest interpretation of the Perfect line yet, and honestly, that's exactly why it works.**

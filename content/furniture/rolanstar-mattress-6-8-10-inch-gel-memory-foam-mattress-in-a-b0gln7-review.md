@@ -1,4 +1,5 @@
 ---
+
 title: "Rolanstar Mattress, 6/8/10 Inch Gel Memory Foam Mattress in "
 seo_title: "Rolanstar Mattress, 6/8/10 Inch Gel Memory Foam Ma Review"
 meta_description: "Our full rolanstar mattress, 6/8/10 inch gel memory foam mattress in  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GLN73648/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fuKFHM1QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

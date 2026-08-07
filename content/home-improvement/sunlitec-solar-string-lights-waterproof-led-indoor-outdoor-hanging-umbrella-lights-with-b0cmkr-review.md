@@ -1,4 +1,5 @@
 ---
+
 title: "Sunlitec Solar String Lights Waterproof LED Indoor/Outdoor H"
 seo_title: "Sunlitec Solar String Lights Waterproof LED Indoor Review"
 meta_description: "Our full sunlitec solar string lights waterproof led indoor/outdoor h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CMKR1YFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dg6sUtDsL._AC_SL1233_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Sunlitec Solar String Lights are a solid mid-tier option if you want dependable, no-wiring patio ambiance without the premium price of brands like Brightown or Greluna. At 4.3 stars from 215 raters, they're not perfect — but for most backyard setups, the flaws are manageable.

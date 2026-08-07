@@ -1,4 +1,5 @@
 ---
+
 title: "ShyLizard Boys Toy Gifts for 3 4 5 6 7 8 Years Old, Kids Bas"
 seo_title: "ShyLizard Boys Toy Gifts for 3 4 5 6 7 8 Years Old Review"
 meta_description: "Our full shylizard boys toy gifts for 3 4 5 6 7 8 years old, kids bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GQPZKYV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fFBY9mnmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you're shopping for a 3-to-8-year-old boy and want one gift that won't be abandoned by Thursday, the ShyLizard building set earns its keep. It's not perfect — the instructions are skimpy and some pieces need adult muscle — but at this price point, the sheer versatility makes it a solid value. Here's the real breakdown.

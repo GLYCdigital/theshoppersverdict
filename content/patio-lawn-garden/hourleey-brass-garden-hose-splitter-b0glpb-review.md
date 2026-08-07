@@ -1,4 +1,5 @@
 ---
+
 title: "Hourleey Brass Garden Hose Splitter"
 seo_title: "Hourleey Brass Garden Hose Splitter Review: Verdict | TSV"
 meta_description: "Our full hourleey brass garden hose splitter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GLPB18QT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ckzlb28+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Brass Splitter That Actually Earns Its Keep**

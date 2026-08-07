@@ -1,4 +1,5 @@
 ---
+
 title: "Furmax Modern Style Dining Chair Mid Century Modern DSW Chai"
 seo_title: "Furmax DSW Chai Dining Chair Review: Worth It? (2026)"
 meta_description: "Honest Furmax Modern DSW Chai dining chair review: build quality, comfort, assembly, and value. See if this $50 mid-century chair fits your home."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GK1CKKQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qyaxgtu5L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine wood legs (rubberwood) with a smooth, even finish — rare at this price point"
   - "One-piece molded plastic shell that's surprisingly rigid; no wobble or flex when seated"
   - "Assembly takes under 10 minutes — just eight bolts and a provided Allen wrench"
-cons:
+cons: 
   - "Chai color is more orange-brown in person than the product photos suggest; not a true espresso"
   - "Shell is hard plastic with zero cushioning — uncomfortable for meals over 45 minutes"
   - "Legs arrive unattached and the pre-drilled holes can misalign slightly on some units"
+
 ---
 
 **Skip the $200 designer version — this Furmax DSW chair delivers 80% of the look for a quarter of the price. But "80%" is doing a lot of work in that sentence.**

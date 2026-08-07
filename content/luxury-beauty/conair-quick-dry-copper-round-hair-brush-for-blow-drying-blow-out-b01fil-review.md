@@ -1,4 +1,5 @@
 ---
+
 title: "Conair Quick Dry Copper Round Hair Brush for Blow Drying, Bl"
 seo_title: "Conair Quick Dry Copper Brush Review: Is It Worth It?"
 meta_description: "Conair Quick Dry Copper Round Brush review: speeds up blowouts, adds volume, but has a learning curve. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01FIL6C3E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LWkQbEXYL._SL1500_.jpg"
-pros:
+pros: 
   - "Copper-infused bristles actually cut blow-dry time by 20–30% for most hair types"
   - "Large 2.5-inch barrel creates salon-grade volume and smooth bends without crimping"
   - "Heat-resistant handle and ball-tipped bristles protect scalp and fingers during extended styling"
-cons:
+cons: 
   - "No clip section — hair can slip off the barrel if you're not holding it taut"
   - "Runs hot on high settings; fine or color-treated hair needs the cool shot regularly"
+
 ---
 
 **The Short Version: This brush delivers on its “quick dry” promise, but it’s not a beginner tool.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Fanttik S1 Pro Electric Screwdriver, Power Screwdriver with1 inch"
 seo_title: "Fanttik S1 Pro Electric Screwdriver Review: Is It Worth It?"
 meta_description: "Honest Fanttik S1 Pro electric screwdriver review: torque, battery life, 16 S2 bits, and real-world performance tested. See if it beats manual drivers."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C141QZVL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717XHLvqrfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-piece S2 steel bit kit covers Phillips, slotted, Torx, and hex — no immediate trips to the hardware store needed"
   - "Three forward speeds (up to 220 RPM) plus a manual torque mode that tops out at 5 Nm — enough for furniture assembly without stripping cheap particleboard"
   - "USB-C charging with roughly 2,000 screws per charge in practical use, not just the claimed number"
-cons:
+cons: 
   - "The 5 Nm max torque won't touch rusted automotive bolts or anything needing serious muscle — this is a precision tool, not a breaker bar"
   - "Bit holder is magnetic but not locking; heavy downward pressure can cause bits to slip out mid-drive"
   - "No built-in work light on the base model — you'll need a headlamp for dark cabinet interiors"
+
 ---
 
 **The Fanttik S1 Pro is the screwdriver you grab when you're assembling a desk at 11 PM and don't want to wake the neighbors with a drill.**

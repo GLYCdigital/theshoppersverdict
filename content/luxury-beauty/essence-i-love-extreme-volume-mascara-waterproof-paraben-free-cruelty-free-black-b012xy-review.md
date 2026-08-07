@@ -1,4 +1,5 @@
 ---
+
 title: "essence | I Love Extreme Volume Mascara Waterproof | Paraben"
 seo_title: "essence I Love Extreme Volume Mascara Review (2026) — Worth It?"
 meta_description: "Honest essence I Love Extreme Volume Mascara Waterproof review: does this $5 drugstore mascara rival luxury formulas? Real wear tests, smudge checks & buyer feedback."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B012XYSK1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GqI9iac2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Intense black pigment that delivers dramatic volume in one coat — genuinely rivals prestige mascaras at 5x the price"
   - "True waterproof formula survives tears, sweat, and humid conditions without flaking or smudging"
   - "Paraben-free and cruelty-free with a flexible wand that separates lashes instead of clumping them together"
-cons:
+cons: 
   - "Removal is a battle — you'll need an oil-based remover or double cleanse; standard micellar water won't cut it"
   - "Formula dries out noticeably faster than higher-end mascaras, typically losing performance within 4-6 weeks"
   - "Can feel stiff and brittle on lashes by end of day, especially if you layer more than two coats"
+
 ---
 
 **The $5 Mascara That Embarrasses Luxury Brands — With One Big Catch**

@@ -1,4 +1,5 @@
 ---
+
 title: "GIFTEXPRESS Hall Pass Lanyards and School Passes"
 seo_title: "GIFTEXPRESS Hall Pass Lanyards and School Passes Review: "
 meta_description: "Our full giftexpress hall pass lanyards and school passes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B099GJCS2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bg8QCCBWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24-pack that ends the "whose turn is it?" chaos**

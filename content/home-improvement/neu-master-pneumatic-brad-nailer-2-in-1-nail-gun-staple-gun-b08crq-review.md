@@ -1,4 +1,5 @@
 ---
+
 title: "NEU Master Pneumatic Brad Nailer, 2 in 1 Nail Gun/Staple Gun"
 seo_title: "NEU Master Pneumatic Brad Nailer, 2 in 1 Nail Gun/ Review"
 meta_description: "Our full neu master pneumatic brad nailer, 2 in 1 nail gun/staple gun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08CRQVXQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JDHz6fLtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the NEU Master 2-in-1 the budget-friendly dual fastener tool you've been hunting for?**  

@@ -1,4 +1,5 @@
 ---
+
 title: "Polly Pocket Dolls and Playset, Kitty Airways Airplane, Trav"
 seo_title: "Polly Pocket Dolls and Playset, Kitty Airways Airp Review"
 meta_description: "Our full polly pocket dolls and playset, kitty airways airplane, trav review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMGJZX26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rKQyF3q7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict at a Glance:** The Kitty Airways Airplane delivers exactly what Polly Pocket does best — big imaginative play in a package small enough to vanish into a backpack. At 4.7 stars across 235 ratings, it's clearly hitting the mark. But is it right for your kid? Let's dig into the details.

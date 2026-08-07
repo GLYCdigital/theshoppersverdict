@@ -1,4 +1,5 @@
 ---
+
 title: "Step2 Car Wash Splash Center, Kids Water Table & Pretend Pla"
 seo_title: "Step2 Car Wash Splash Center, Kids Water Table & P Review"
 meta_description: "Our full step2 car wash splash center, kids water table & pretend pla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B084N4BHHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xgkfIliQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most water tables are just shallow tubs with a cup and a funnel. The Step2 Car Wash Splash Center is not that. This is a full pretend-play station that actually simulates a car wash — conveyor belt, spinning scrubbers, a working sprayer, and a drying station. As shown in the product image, the whole thing measures roughly 30 inches wide and stands about 22 inches tall, which puts the play surface at a comfortable height for kids aged 2 to 5.

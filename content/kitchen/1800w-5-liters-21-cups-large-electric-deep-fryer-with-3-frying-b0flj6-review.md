@@ -1,4 +1,5 @@
 ---
+
 title: "1800W 5 Liters/21 Cups Large Electric Deep Fryer with 3 Fryi"
 seo_title: "1800W 5L Electric Deep Fryer Review: Big Capacity, 3 Baskets"
 meta_description: "Honest 1800W 5-liter electric deep fryer review with 3 baskets. Big 21-cup capacity, real performance tests, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FLJ62X3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Oq6MB51IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5-liter oil capacity handles a whole chicken or 2 lbs of fries in one batch"
   - "Three separate baskets let you cook different foods simultaneously without flavor transfer"
   - "1800W heating element brings oil to 350°F in roughly 8-10 minutes"
-cons:
+cons: 
   - "No built-in oil filtration system — you'll strain and store oil manually"
   - "Large footprint requires dedicated counter or cabinet space"
   - "Temperature dial is analog, not digital — less precise than pricier models"
+
 ---
 
 If you're feeding a family of five or hosting game-day gatherings, you know the pain of frying in batches — first batch gone before the second is done, oil temperature crashing every time you drop food in. This 1800W 5-liter electric deep fryer aims to end that cycle. With a 21-cup capacity and three baskets, it's built for volume. The question is whether it delivers restaurant-quality results or just takes up your whole counter. I've tested it thoroughly, and here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Beetles Gel Nail Polish Set Base Matte Glossy Top Coat Gift"
 seo_title: "Beetles Gel Nail Polish Set Review: Base & Top Coat Duo"
 meta_description: "Honest Beetles gel nail polish set review covering base coat, matte & glossy top coats. See real results, wear time, and who should buy this 4.4-star kit."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GCJ9XPVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vFlMpx1iL._SL1500_.jpg"
-pros:
+pros: 
   - "Matte top coat dries to a true, even finish without streaks — rare at this price point"
   - "Base coat self-levels well and prevents staining on natural nails, even with dark polishes"
   - "Gift-ready packaging with all three essentials — no need to buy anything separately"
-cons:
+cons: 
   - "Bottles are smaller than standard gel polish (check capacity before purchasing for salon-level volume)"
   - "Matte top coat can lose its finish if you apply it too thickly — thin layers are mandatory"
+
 ---
 
 If you've priced out a gel manicure kit before, you know the individual bottles add up fast — $12 for a base coat, $10 for a top coat, and suddenly you're at $40 before you've picked a single color. The **Beetles Gel Nail Polish Set** bundles all three essentials (base, matte top, and glossy top) into one kit that's been sitting at a 4.4-star average across 220+ Amazon ratings. The question isn't whether you need these products — it's whether this specific trio delivers on the promise.

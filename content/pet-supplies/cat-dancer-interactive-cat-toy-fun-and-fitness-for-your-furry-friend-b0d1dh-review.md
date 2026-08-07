@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Dancer Interactive Cat Toy - Fun and Fitness for Your Fu"
 seo_title: "Cat Dancer Interactive Cat Toy Review: Why Cats Go Wild"
 meta_description: "Read our honest Cat Dancer Interactive Cat Toy review. Simple design, big play results. See why 240+ cat owners rate it 4.8 stars and whether it's right for your cat."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1DH5FQH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NqPNVRUaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tiny, lightweight design that stores anywhere — a drawer, a pocket, wherever"
   - "The wire-and-cardboard construction triggers the prey drive like nothing else I've tested"
   - "Ridiculously durable for the price; one customer reported their cat carrying it around for over two years"
-cons:
+cons: 
   - "You have to actively play with your cat — this is not a leave-them-alone toy"
   - "The exposed wire ends can be a hazard if your cat is an aggressive chewer"
+
 ---
 
 Some toys promise hours of entertainment and deliver about 90 seconds. The Cat Dancer Interactive Cat Toy does the opposite — it looks like something you'd find in a junk drawer and yet it's one of the most effective cat toys on the market. This is the toy that makes cats forget their dignity entirely.

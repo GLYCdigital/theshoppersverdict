@@ -1,4 +1,5 @@
 ---
+
 title: "Atticus Gravex 20EW Fungicide (16 oz) - Myclobutanil 19.7% -"
 seo_title: "Atticus Gravex 20EW Fungicide Review: Does It Work? (2026)"
 meta_description: "Honest Atticus Gravex 20EW Fungicide review: 19.7% myclobutanil for powdery mildew, rust & more. Coverage, mixing tips, and real buyer results."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTDT8XR9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JhgsCPw9L._SL1080_.jpg"
-pros:
+pros: 
   - "0.5 fl oz treats 25 gallons — a single 16 oz bottle covers over 800 gallons of spray solution"
   - "True systemic (propiconazole-class triazole) that moves inside plant tissue, not just a surface protectant"
   - "Controls 15+ diseases including powdery mildew, rust, anthracnose, and leaf spot on ornamentals, turf, and fruit trees"
-cons:
+cons: 
   - "No measuring cup included — you'll need a syringe or graduated dropper for the tiny 0.5–1.0 fl oz per 25 gal rate"
   - "Emulsifiable concentrate requires agitation; can separate if left sitting in the tank"
   - "Not OMRI-listed for organic growing — synthetic chemistry only"
+
 ---
 
 **Review Body:**

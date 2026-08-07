@@ -1,4 +1,5 @@
 ---
+
 title: "Cameron's Coffee Single Serve Pods, Jamaican Blend, 12 Count"
 seo_title: "Cameron's Coffee Jamaican Blend Pods Review (2026): Worth It?"
 meta_description: "Honest Cameron's Coffee Jamaican Blend single-serve pods review: smooth flavor, compostable pods, real buyer feedback. Is it worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01N79ELYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8149Hqd8KDL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely smooth, low-acid cup with a mellow sweetness — no bitter bite even at full brew strength"
   - "Pods are 100% compostable and BPI-certified, a rare find in the single-serve category"
   - "Coffee is roasted in small batches in Minnesota using 100% Arabica beans sourced from Rainforest Alliance Certified farms"
-cons:
+cons: 
   - "Only 12 pods per box — heavy daily drinkers will run through this fast and pay a premium per cup"
   - "The Jamaican Blend name implies island origins, but it's actually a proprietary blend of beans from multiple regions — flavor is more 'smooth medium' than 'Jamaican Blue Mountain'"
   - "Lighter body than dark-roast loyalists expect; if you need a bold, syrupy cup, this won't satisfy"
+
 ---
 
 Let's be direct: most single-serve pods deliver convenience with a side of bitterness. Cameron's Jamaican Blend is the exception — and it's priced like one. Here's what you're actually paying for, and whether it's worth it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Homemory 12pcs Flameless LED Tea Lights with Remote & Timer,"
 seo_title: "Homemory 12pcs Flameless LED Tea Lights with Remot Review"
 meta_description: "Our full homemory 12pcs flameless led tea lights with remote & timer, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8BQ8Y12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714lLYKzFkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 12-Candle Solution for People Who Hate Replacing Batteries**

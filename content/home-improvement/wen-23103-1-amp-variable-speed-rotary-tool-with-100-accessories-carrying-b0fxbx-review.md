@@ -1,4 +1,5 @@
 ---
+
 title: "WEN 23103 1-Amp Variable Speed Rotary Tool with 100+ Accesso"
 seo_title: "WEN 23103 1-Amp Variable Speed Rotary Tool with 10 Review"
 meta_description: "Our full wen 23103 1-amp variable speed rotary tool with 100+ accesso review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FXBXD473/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wj+nnqmML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Budget Rotary Tool That Actually Delivers

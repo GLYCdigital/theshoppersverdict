@@ -1,4 +1,5 @@
 ---
+
 title: "Spin Master Games Beat The Parents Classic Family Trivia Gam"
 seo_title: "Spin Master Games Beat The Parents Classic Family  Review"
 meta_description: "Our full spin master games beat the parents classic family trivia gam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3BZ8CH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81euBj9JyAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most family trivia games have a fatal flaw: the parents know everything, the kids get frustrated, and the box ends up in the closet after two plays. Spin Master's *Beat The Parents* tries to fix that with a simple twist — separate question decks for each generation. Does it work? Mostly, yes. Here's the honest breakdown.

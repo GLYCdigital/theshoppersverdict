@@ -1,4 +1,5 @@
 ---
+
 title: "Wen 20V Max Cordless 15-Inch 2-in-1 Brushless Electric Detha"
 seo_title: "Wen 20V Max Cordless 15-Inch 2-in-1 Brushless Elec Review"
 meta_description: "Our full wen 20v max cordless 15-inch 2-in-1 brushless electric detha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FJYKQHYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VEUnQnXFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $200 Question: Can a cordless dethatcher actually replace a rental?**

@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Tow Behind Dethatcher"
 seo_title: "VEVOR Tow Behind Dethatcher Review: Verdict | TSV"
 meta_description: "Our full vevor tow behind dethatcher review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GRMLBWCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61smBX88kwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a 3.9-star rating on a tow-behind dethatcher usually means one of two things — either it works great until it doesn't, or it's decent enough that people forgive the flaws. The VEVOR Tow Behind Dethatcher sits squarely in that middle ground, and whether it's right for you depends entirely on your lawn size and your tolerance for minor maintenance.

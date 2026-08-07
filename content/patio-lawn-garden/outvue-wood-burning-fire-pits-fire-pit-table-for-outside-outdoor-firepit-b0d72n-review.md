@@ -1,4 +1,5 @@
 ---
+
 title: "OutVue Wood Burning Fire Pits, Fire Pit Table for Outside, O"
 seo_title: "OutVue Wood Burning Fire Pits, Fire Pit Table for  Review"
 meta_description: "Our full outvue wood burning fire pits, fire pit table for outside, o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D72NZ7CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D4Eb4a86L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through fire pit listings wondering why so many look like oversized tin cans with legs, the OutVue Wood Burning Fire Pit Table is the exception. This 30-inch square steel unit actually functions as a proper patio table when cold, then transforms into a serious heat source when you light it up. With 225 ratings averaging 4.5 stars, it's clear this isn't a novelty purchase — it's a working piece of backyard furniture.

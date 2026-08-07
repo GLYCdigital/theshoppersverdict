@@ -1,4 +1,5 @@
 ---
+
 title: "2-Pack 12.5 x 2.25 Scooter Tire Tubes 12 1/2 x2 1/4 CR202L-A"
 seo_title: "2-Pack 12.5x2.25 Scooter Tubes Review: CR202L-A Fit Guide"
 meta_description: "Honest review of the 2-pack 12.5x2.25 scooter inner tubes (CR202L-A). Check fit, durability, and valve options before you buy. Real rider feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08F7PW4JF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LUKJsME0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Correct 12.5x2.25 sizing with straight valve stems that clear most kick scooter rims without adapter issues"
   - "Butyl rubber holds air noticeably longer than stock tubes — most riders report 1-2 weeks between top-offs"
   - "Two tubes in the box for roughly the price of one at big-box stores; good value for multi-scooter households"
-cons:
+cons: 
   - "Valve stem length (1.5 inches) sits tight on some deeper rims — check your wheel depth before buying"
   - "No rim strip or installation tools included; you'll need to reuse existing strips or buy separately"
+
 ---
 
 If you've ever wrestled a floppy inner tube into a 12-inch scooter wheel at 9 PM, you know the drill: pinch flats, misaligned valves, and that sinking feeling when the bead won't seat. This 2-pack from a generic-but-reliable seller aims to end that cycle. Here's the real story after digging through 225 ratings and rider feedback.

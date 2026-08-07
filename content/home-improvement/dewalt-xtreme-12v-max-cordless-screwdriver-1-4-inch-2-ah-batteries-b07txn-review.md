@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT XTREME 12V MAX* Cordless Screwdriver, 1/4-Inch, 2-Ah"
 seo_title: "DEWALT 12V MAX Screwdriver Review: 2-Ah XTREME Tested"
 meta_description: "Our DEWALT XTREME 12V MAX cordless screwdriver review covers torque, battery life, and ergonomics. See if this 1/4-inch driver earns a spot in your toolbox."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07TXN17NS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614WcsY7WBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two 2-Ah batteries included—real runtime for a full day of cabinet or furniture assembly"
   - "Compact 6.3-inch body slips into tight spaces where full-size drills won't fit"
   - "LED work light positioned at the base actually illuminates the screw tip, not your hand"
-cons:
+cons: 
   - "No clutch adjustment—the 130 in-lbs of torque can strip softwood or drywall if you're heavy-handed"
   - "Charger is slow; expect 60-90 minutes for a full battery recharge"
+
 ---
 
 If you've ever balanced on a step stool with a full-size 20V drill over your head, you already know why this little DEWALT exists. The XTREME 12V MAX screwdriver isn't trying to replace your impact driver—it's trying to save your wrists during the other 80% of the work. And with a 4.8-star average across 240 ratings, it's clear this tool has found its audience.

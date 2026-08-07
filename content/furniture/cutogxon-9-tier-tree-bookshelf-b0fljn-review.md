@@ -1,23 +1,25 @@
 ---
+
 title: "Cutogxon 9 Tier Tree Bookshelf"
 seo_title: "Cutogxon 9 Tier Tree Bookshelf Review: Worth It? (2026)"
 meta_description: "Cutogxon 9 Tier Tree Bookshelf review: sturdy, space-saving design, but assembly and stability tradeoffs. See real pros, cons, and who should buy."
 slug: "cutogxon-9-tier-tree-bookshelf-b0fljn-review"
 image_alt: "Cutogxon 9-tier tree bookshelf with alternating shelves, dark wood finish, holding books and small decor in a living room"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FLJNKGCJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pr1F0VWRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "9 alternating shelves hold up to 22 lbs each — real storage, not just decor"  
   - "Compact footprint (15.7 inch D x 11.8 inch W) fits narrow corners, under 6 ft tall"
   - "Stable steel frame with anti-tip hardware included — safer than expected for a ladder-style unit"  
-cons:  
+cons: 
   - "Assembly takes 45–60 min; hardware is small and holes can misalign if you rush"  
   - "Open-back design collects dust and requires tidy styling to look intentional"
+
 ---
 
 If you’ve got a corner that’s too narrow for a standard bookcase but too awkward to leave empty, the Cutogxon 9 Tier Tree Bookshelf is the kind of solution that makes you wonder why it took this long to exist. At 68.9 inches tall with a footprint just over 15 inches deep, it’s a vertical storage hack disguised as a decorative piece. But is it a real bookshelf or just a plant stand with delusions of grandeur? After digging through 235 ratings and the spec sheet, here’s the honest breakdown.

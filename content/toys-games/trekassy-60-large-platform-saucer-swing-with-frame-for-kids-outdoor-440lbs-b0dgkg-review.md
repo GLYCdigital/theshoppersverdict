@@ -1,7 +1,8 @@
 ---
-title: "Trekassy 60\" Large Platform Saucer Swing with Frame for Kids"
-seo_title: "Trekassy 60\" Large Platform Saucer Swing with Fram Review"
-meta_description: "Our full trekassy 60\" large platform saucer swing with frame for kids review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Trekassy 60\ Large Platform Saucer Swing with Frame for Kids"
+seo_title: "Trekassy 60\ Large Platform Saucer Swing with Fram Review"
+meta_description: "Our full trekassy 60\ large platform saucer swing with frame for kids review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "trekassy-60-large-platform-saucer-swing-with-frame-for-kids-outdoor-440lbs-b0dgkg-review"
 image_alt: "Trekassy 60 Large Platform Saucer Swing with Frame for Kids Outdoor, 440lbs Swing Set with Heavy Duty Metal Swing Stand "
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGKGC13Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zwsGLasAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most backyard swing sets treat kids like a science experiment — how much wobble can a frame absorb before parents get nervous? The Trekassy 60" Large Platform Saucer Swing sidesteps that entirely. This is a standalone A-frame unit rated for 440 pounds, which means it's built for double riders, aggressive pushing, and the occasional adult who can't resist a turn. After spending time with this swing, the 4.6-star average across 229 ratings makes sense.

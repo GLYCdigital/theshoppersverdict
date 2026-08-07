@@ -1,24 +1,26 @@
 ---
+
 title: "Automatic Small Sump Pump with Water Sensor, 115V/230V Mini"
 seo_title: "Automatic Small Sump Pump Review: 115V/230V Mini With Water Sensor"
 meta_description: "Honest review of the Automatic Small Sump Pump with Water Sensor — 115V/230V mini. Performance, quirks, and who should buy it. Read before you purchase."
 slug: "automatic-small-sump-pump-with-water-sensor-115v-230v-mini-condensate-pump-b0f82s-review"
 image_alt: "Compact automatic mini sump pump with water sensor probe, 115V/230V dual voltage"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F82SLK73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K05NahGyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Dual voltage (115V/230V) works for US and international outlets without a transformer"  
   - "Water sensor triggers automatically — no float switch to jam or stick"  
   - "Compact footprint (roughly 6x4x4 inches) fits tight spaces under HVAC units or water heaters"  
-cons:  
+cons: 
   - "Sensor can false-trigger with condensation or splashing, causing short cycling"  
   - "Discharge hose is thin and kinks easily — you'll likely replace it"  
   - "Noisy for a small pump; audible hum and vibration at full draw"
+
 ---
 
 If you've got a condensate line dripping into a pan, a water heater weep, or a low spot in a crawlspace that collects water, you don't need a 1/3 HP cast-iron beast. You need something small, automatic, and forgettable. This mini sump pump with a water sensor tries to be exactly that — and mostly pulls it off. But the 3.9-star average across 195 ratings tells you there's a catch or two. Here's the honest breakdown.

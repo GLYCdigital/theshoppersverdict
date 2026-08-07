@@ -1,4 +1,5 @@
 ---
+
 title: "2 Pack 80 Inch Adjustable Bird Feeder Pole,Bird House Pole S Review"
 seo_title: "2 Pack 80 inch Adjustable Bird Feeder Pole Review (2026)"
 meta_description: "Honest review of the 2-pack 80 inch adjustable bird feeder pole. Tested for stability, rust-resistance, and ease of install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZNTSNLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R+kCq9yWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two poles per order — genuine value if you have multiple feeding zones or want a backup for squirrels to destroy"
   - "Height range from roughly 40 to 80 inches gives real flexibility for ground feeders vs. hanging feeders"
   - "Ground stake is substantial — holds firm in average lawn soil without concrete"
-cons:
+cons: 
   - "The twist-lock collar can slip if you don't tighten it with pliers — hand-tightening won't hold under a heavy feeder"
   - "Paint finish is thin; scratches easily when you're sliding the height collar up and down"
+
 ---
 
 **The short version:** This 2-pack of 80-inch adjustable poles solves the most annoying bird feeding problem — squirrels and raccoons treating your feeders like a buffet. But it's not a set-and-forget product. You'll need to pay attention to how you tighten it.

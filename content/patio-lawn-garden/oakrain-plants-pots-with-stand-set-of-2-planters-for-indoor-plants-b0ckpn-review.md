@@ -1,4 +1,5 @@
 ---
+
 title: "Oakrain Plants Pots with Stand, Set of 2 Planters for Indoor"
 seo_title: "Oakrain Plants Pots with Stand, Set of 2 Planters  Review"
 meta_description: "Our full oakrain plants pots with stand, set of 2 planters for indoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CKPNXPXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g5phFowJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the product photos for a second. The Oakrain Plants Pots with Stand look like premium ceramic planters sitting on sculptural wooden tripods. In reality, you're getting a set of two lightweight planters with bamboo stands — and for most indoor gardeners, that's actually fine. Here's the full picture after digging through 215 ratings and customer feedback.

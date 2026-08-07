@@ -1,4 +1,5 @@
 ---
+
 title: "Bonide Captain Jack's Neem MAX Concentrate"
 seo_title: "Bonide Captain Jack's Neem MAX Review: Does It Work?"
 meta_description: "Bonide Captain Jack's Neem MAX Concentrate review: coverage, mixing, and results for powdery mildew, aphids, and more. Honest buyer breakdown."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBML6RZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZZ43jgscL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "70% pure neem oil concentration — nearly double most garden-center brands, meaning fewer ounces needed per gallon"
   - "Controls both fungal diseases and a wide range of insects in one product, from powdery mildew to spider mites"
   - "Works on ornamentals, vegetables, herbs, and indoor plants without leaving a toxic residue that harms bees once dry"
-cons:
+cons: 
   - "Emits a strong garlic-sulfur odor for 24–48 hours after application — noticeable in contained spaces like greenhouses"
   - "Requires repeated applications every 7–14 days for active infestations; it's a preventive/control tool, not a one-shot killer"
+
 ---
 
 If you've ever stood in the garden aisle staring at a wall of sprays, wondering why one bottle costs $12 and another costs $28 for what looks like the same oil, this is the review for you. Bonide Captain Jack's Neem MAX Concentrate sits at the premium end of the neem oil spectrum, and after digging through 229 ratings averaging 4.6 stars, the math checks out — but only if you're the right kind of gardener.

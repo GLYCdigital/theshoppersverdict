@@ -1,4 +1,5 @@
 ---
+
 title: "Youngfocus 3D Fiber Lash Mascara Waterproof, Luxuriously Lon"
 seo_title: "Youngfocus 3D Fiber Lash Mascara Waterproof, Luxur Review"
 meta_description: "Our full youngfocus 3d fiber lash mascara waterproof, luxuriously lon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B06XBQKV2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uTg3+2BkL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 4.0-star average on Amazon for this mascara tells a story: some people find their holy grail, others fight with fiber fallout. After testing the **Youngfocus 3D Fiber Lash Mascara Waterproof** for three weeks straight, I understand both camps. But here's the thing—when this mascara works, it *really* works.

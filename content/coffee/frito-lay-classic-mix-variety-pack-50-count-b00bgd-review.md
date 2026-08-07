@@ -1,4 +1,5 @@
 ---
+
 title: "Frito-Lay Classic Mix Variety Pack, 50 Count"
 seo_title: "Frito-Lay Classic Mix Variety Pack Review: 50 Ct Snacks"
 meta_description: "Honest Frito-Lay Classic Mix Variety Pack review: 50 bags, 7 flavors, real serving sizes, and who should buy. Find out if this snack box delivers value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00BGDH9V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fzlZfajeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Seven distinct flavors in one box — real variety, not just different bag sizes of the same chip"
   - "Individual 1-ounce serving bags are perfectly portioned for lunchboxes and portion control"
   - "Consistent freshness — sealed bags arrive crisp, not crushed, thanks to solid packing"
-cons:
+cons: 
   - "Doritos and Cheetos dominate the mix; Lay's Classic and Sun Chips appear noticeably less frequently"
   - "No Frito's Chili Cheese flavor in this particular 50-count configuration — a miss for some fans"
+
 ---
 
 Let me be upfront: this is a snack review, not a coffee gear review — but the question is the same. Does this product earn its place in your cart? The Frito-Lay Classic Mix Variety Pack, 50 Count, has racked up 225 ratings at a 4.5-star average. That's a solid score, but the real story is in what you actually get.

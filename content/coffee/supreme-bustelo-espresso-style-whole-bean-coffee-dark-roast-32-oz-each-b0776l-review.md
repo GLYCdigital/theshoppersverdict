@@ -1,4 +1,5 @@
 ---
+
 title: "Supreme Bustelo Espresso Style Whole Bean Coffee, Dark Roast"
 seo_title: "Supreme Bustelo Espresso Style Whole Bean Coffee,  Review"
 meta_description: "Our full supreme bustelo espresso style whole bean coffee, dark roast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0776LY7XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fL1geSA9L._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've only ever had Café Bustelo in the yellow brick of pre-ground coffee, the whole bean version is a different animal entirely. This is the same famously intense Cuban-style dark roast, but with the volatile aromatics intact — and for espresso drinkers, that matters more than you might think.

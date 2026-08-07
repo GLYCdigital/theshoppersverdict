@@ -1,4 +1,5 @@
 ---
+
 title: "ASRock AMD X870 Series Motherboards"
 seo_title: "ASRock AMD X870 Motherboard Review: Real User Insights"
 meta_description: "ASRock AMD X870 Series motherboard review: 4.2/5 rating from 210 buyers. We break down performance, build quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FTCFLT9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OcTjMqvUL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "PCIe 5.0 support on both primary M.2 slot and primary x16 slot — future-proofs your build for next-gen GPUs and SSDs"
   - "Robust VRM cooling with substantial heatsinks across the board, keeping Ryzen 7000/9000 series chips cool under sustained load"
   - "Tool-free M.2 installation with ASRock's EZ M.2 clips — no screwdriver needed for drive installs"
-cons:
+cons: 
   - "No Wi-Fi 7 on the base X870 model — you'll need to step up to the X870E or add your own card for the latest wireless standard"
   - "Rear I/O could use more USB-A ports; heavy peripheral users will want to budget for a hub"
+
 ---
 
 The AMD X870 chipset has become the default pick for serious Ryzen builders, but not all boards wearing that badge deserve your money. ASRock's X870 Series has been sitting at a solid 4.2 stars across 210 Amazon ratings, which tells me the experience is good but not perfect. Here's what you need to know before you checkout.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amerex A411, 20 lb. ABC Dry Chemical Fire Extinguisher with"
 seo_title: "Amerex A411 20 lb Fire Extinguisher Review: Worth It?"
 meta_description: "Amerex A411 20 lb ABC fire extinguisher review: real-world performance, durability concerns, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0D1T6WB44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jv8P5nHfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Amerex build quality with metal valve and handle assembly — not the plastic junk on cheaper units"
   - "20 lb capacity provides a 20-second discharge time, enough for serious Class A, B, and C fires"
   - "Includes a heavy-duty wall bracket that actually holds the unit securely — no wobble"
-cons:
+cons: 
   - "Significant number of units arrive with the gauge reading in the red or with pressure loss — check immediately"
   - "At 30+ lbs fully charged, it's heavy enough that some users may struggle to maneuver it during an actual emergency"
   - "No hose strap retainer, so the discharge hose flops around during transport"
+
 ---
 
 # Amerex A411 20 lb Fire Extinguisher Review: Serious Firepower, But Check the Gauge

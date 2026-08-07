@@ -1,4 +1,5 @@
 ---
+
 title: "Dole 100% Fruit Juice with Added Vitamin C"
 seo_title: "Dole 100% Fruit Juice Vitamin C Review: Worth It?"
 meta_description: "Read our honest Dole 100% Fruit Juice with Added Vitamin C review. Real buyer feedback, pros, cons, and who should buy. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D45ZQBCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G96r+bKQL._SL1500_.jpg"
-pros:
+pros: 
   - "100% juice with no added sugar, corn syrup, or artificial sweeteners — just fruit and natural vitamin C"
   - "Each 8oz serving delivers 100% of daily vitamin C, matching the label claim consistently per buyer lab tests"
   - "Available in multi-pack sizes that work for lunchboxes, office fridges, and on-the-go hydration"
-cons:
+cons: 
   - "Once opened, the bottle must be consumed within 7-10 days or the vitamin C degrades noticeably — a real issue for solo drinkers"
   - "The 'Added Vitamin C' is synthetic ascorbic acid, not from whole fruit — a dealbreaker for purists"
   - "Some buyers report that the flavor varies slightly between batches, especially the pineapple-orange blend"
+
 ---
 
 **This isn't your childhood juice box — and that's exactly why it's worth a look.**

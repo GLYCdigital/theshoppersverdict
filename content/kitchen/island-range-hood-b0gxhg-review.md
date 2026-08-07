@@ -1,4 +1,5 @@
 ---
+
 title: "island range hood"
 seo_title: "island range hood Review: Verdict | TSV"
 meta_description: "Our full island range hood review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXHG5S44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iZdwBDKfL._AC_SL1243_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most island range hoods are either glorified recirculating fans or look like they belong in a commercial kitchen. This one actually threads the needle. With a 4.2-star average across 210 ratings, it's not perfect — but for open-concept kitchens where smoke drifts into the living room, this unit pulls its weight.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Ninja Character Display 15th Anniversary Buildi"
 seo_title: "LEGO NINJAGO Ninja Character Display 15th Annivers Review"
 meta_description: "Our full lego ninjago ninja character display 15th anniversary buildi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FMS6W31S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81et5+XmUyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Fifteen years of NINJAGO deserves a proper monument, and LEGO delivered one that earns its shelf space. The 15th Anniversary Ninja Character Display isn't just another playset — it's a collector's piece that doubles as a functional display stand.

@@ -1,4 +1,5 @@
 ---
+
 title: "StyleCraft Instinct Professional Cordless Hair Trimmer with "
 seo_title: "StyleCraft Instinct Professional Cordless Hair Tri Review"
 meta_description: "Our full stylecraft instinct professional cordless hair trimmer with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GJGD5PXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618NUh+t8wL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # StyleCraft Instinct Professional Cordless Hair Trimmer: The Barbershop Workhorse, Reimagined

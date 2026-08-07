@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon TCG Mega Evolutions 1 Elite Trainer Box"
 seo_title: "Pokemon TCG Mega Evolutions 1 Elite Trainer Box Review: V"
 meta_description: "Our full pokemon tcg mega evolutions 1 elite trainer box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FH6KRSX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HduOvXc-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Mega Evolutions 1 Elite Trainer Box worth your money, or is it just another pretty cardboard box with packs inside? Let's break it down.**

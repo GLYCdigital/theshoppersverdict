@@ -1,4 +1,5 @@
 ---
+
 title: "Galaxy Slime Kit, with Glow in The Dark Stickers,Making Butt"
 seo_title: "Galaxy Slime Kit Review: Glow Stickers & Butter Slime"
 meta_description: "Honest Galaxy Slime Kit review: butter slime texture, glow-in-dark stickers, and messy fun. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXR3DQQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hck7WCukL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Butter slime base is genuinely soft and spreadable — not the sticky, stringy mess cheaper kits produce"
   - "Glow-in-the-dark stickers actually charge well under regular room light and hold their glow for 20-30 minutes"
   - "Includes enough mix-ins (foam beads, glitter, charms) for multiple play sessions, not just a single-use packet"
-cons:
+cons: 
   - "The 'butt' theme is gimmicky — the included mold makes a vague shape but the result looks more like a lumpy potato"
   - "Slime will dry out within 2-3 weeks if not stored in an airtight container; the included tub lid doesn't seal tightly"
   - "Glitter gets everywhere — expect sparkly fingerprints on every surface within reach of your kid"
+
 ---
 
 **Is this the galaxy-themed slime kit your kid keeps begging for, or just another sticky disappointment? I dug through 220 ratings and tested the components to give you the straight answer.**

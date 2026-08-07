@@ -1,4 +1,5 @@
 ---
+
 title: "Freshware Glass Storage Containers with Lids, 24 Pieces, 12 "
 seo_title: "Freshware Glass Storage Containers with Lids, 24 P Review"
 meta_description: "Our full freshware glass storage containers with lids, 24 pieces, 12  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FWN5RRQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MpX279VkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $30-ish glass container gamble that mostly pays off** — that's the short version of this Freshware 24-piece set. With 220 ratings averaging 4.4 stars, it's clearly doing something right for meal-preppers and leftovers hoarders. But let's dig into whether it's *your* next kitchen purchase or just another cabinet cluttered with mismatched lids.

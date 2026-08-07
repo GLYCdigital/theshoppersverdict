@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse Water Heater Electric"
 seo_title: "Westinghouse Water Heater Electric Review: Verdict | TSV"
 meta_description: "Our full westinghouse water heater electric review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GG4Q5VF4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614gcR1u1pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're replacing a failed water heater, you're not shopping for excitement — you're shopping for reliability. The Westinghouse electric model earns its 4.3-star rating the old-fashioned way: solid construction, predictable performance, and a warranty that actually means something. But as with any tank-style heater, the devil is in the installation details.

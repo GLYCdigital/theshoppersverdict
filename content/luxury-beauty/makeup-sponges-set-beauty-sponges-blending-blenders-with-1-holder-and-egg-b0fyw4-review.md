@@ -1,4 +1,5 @@
 ---
+
 title: "Makeup Sponges Set - Beauty sponges Blending Blenders with 1"
 seo_title: "Makeup Sponges Set - Beauty sponges Blending Blend Review"
 meta_description: "Our full makeup sponges set - beauty sponges blending blenders with 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FYW4ZCXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613LOZ1vn7L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The sponge you’ll actually reach for**

@@ -1,24 +1,26 @@
 ---
+
 title: "Breville BTM800XL Tea Maker Infuser and Water Kettle, 51 oz,"
 seo_title: "Breville BTM800XL Tea Maker Review: Worth It? (2026)"
 meta_description: "Read our honest Breville BTM800XL Tea Maker review. Covers brew strength, basket design, temperature control, and real buyer complaints. Is it worth $250?"
 slug: "breville-btm800xl-tea-maker-infuser-and-water-kettle-51-oz-brushed-stainless-b003ln-review"
 image_alt: "Breville BTM800XL Tea Maker with glass carafe, stainless steel basket, and digital control panel"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B003LNOPSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519vvK8mOhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "True variable temperature control (160°F–212°F) in 1° increments — not just presets"  
   - "Motorized basket lifts itself out of the water when brewing finishes, preventing bitterness"  
   - "51-oz capacity brews up to 6 cups at once — enough for a full pot, not a single mug"  
-cons:  
+cons: 
   - "Glass carafe is fragile — several buyers report cracking during washing or thermal shock"  
   - "No keep-warm function; tea cools quickly after the basket lifts, requiring reheating"  
   - "Basket holds only ~2 tablespoons of loose leaf; bulky blends like chai need manual cramming"
+
 ---
 
 # Breville BTM800XL Tea Maker: The $250 Question  

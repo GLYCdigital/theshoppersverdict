@@ -1,4 +1,5 @@
 ---
+
 title: "HISHINY String Lights 100 Count Mini Decorations Lights with"
 seo_title: "HISHINY String Lights 100 Count Mini Decorations L Review"
 meta_description: "Our full hishiny string lights 100 count mini decorations lights with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZSXZG5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DrIkk-v7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: at 4.5 stars with 225 ratings, the HISHINY 100-count mini string lights aren't groundbreaking tech. They're a straightforward, well-executed take on a product category that's easy to screw up. And that's exactly why they're worth your attention.

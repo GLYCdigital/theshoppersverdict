@@ -1,4 +1,5 @@
 ---
+
 title: "FlowRite ONA Puller Premier Moen Cartridge Extractor Tool 12 inch"
 seo_title: "FlowRite ONA Puller Moen Cartridge Tool Review (2026)"
 meta_description: "FlowRite ONA Puller Premier Moen Cartridge Extractor Tool review: Does it fit 1222, 1225, 1200? Real user feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08T1ZG6VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61anj-jozEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precision-machined puller grips the cartridge splines without slipping, even on seized 1225 cartridges"
   - "Interchangeable inserts cover 1222, 1225, and 1200 series — one tool replaces a drawer of plastic pullers"
   - "Steel construction with a comfortable T-handle that gives real leverage in tight under-sink spaces"
-cons:
+cons: 
   - "Doesn't fit the newer Moen 1243 or 9200 cartridges — check your model before ordering"
   - "At roughly $30–40, it costs more than a single-use plastic puller, though it pays for itself if you do multiple faucets"
   - "Insert swap requires a small hex wrench that isn't included — easy to lose if you don't keep it with the tool"
+
 ---
 
 If you've ever wrestled a stuck Moen cartridge out of a faucet body with a pair of needle-nose pliers, you know the frustration. The cartridge twists, the splines strip, and suddenly a 15-minute repair becomes a two-hour ordeal. The FlowRite ONA Puller Premier exists to end that cycle — and with 229 ratings averaging 4.6 out of 5, it's clear this tool earns its keep.

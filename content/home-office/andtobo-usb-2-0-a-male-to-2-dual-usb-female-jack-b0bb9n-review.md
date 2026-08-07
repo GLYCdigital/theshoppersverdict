@@ -1,8 +1,10 @@
 ---
 
+
 ### What You Actually Get
 
 The package is minimal: one Y-shaped cable, roughly 5 inches from male to female ends, wrapped in a braided nylon sleeve. The connectors are aluminum with a brushed finish, which feels more premium than the glossy plastic most $8 cables use. It’s plug-and-play—no drivers, no external power, no blinking lights. You’re buying a physical splitter, and that’s exactly what arrives.
+
 
 ---
 

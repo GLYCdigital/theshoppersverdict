@@ -1,4 +1,5 @@
 ---
+
 title: "oakvivo Small Foot Stool Ottoman, Round Poufs Under Desk Foo"
 seo_title: "oakvivo Small Foot Stool Ottoman, Round Poufs Unde Review"
 meta_description: "Our full oakvivo small foot stool ottoman, round poufs under desk foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHGN8ZCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OlzQZ3FtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the marketing fluff.** You're here because your feet dangle awkwardly at your desk, or you want a cute pouf that doesn't look like a beanbag refugee. The oakvivo Small Foot Stool Ottoman does both — mostly well. With a 4.6-star average from 229 ratings, it's clearly earning its keep in a lot of home offices. Here's the honest breakdown.

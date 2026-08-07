@@ -1,4 +1,5 @@
 ---
+
 title: "ATEEDGE Treadmill for Home, 3.0HP Folding Running Machine, 3"
 seo_title: "ATEEDGE 3.0HP Folding Treadmill Review (2026): Worth It?"
 meta_description: "ATEEDGE 3.0HP folding treadmill review: 3.8/5 rating. Is it worth your money? We break down noise, cushioning, incline, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F2SD7WRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ci-wCk7GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely space-saving fold — deck locks upright and rolls on transport wheels, so you can stash it in a closet or corner without a pulley system"
   - "Cushioned running deck absorbs impact noticeably better than budget treadmills in this price band; knees feel it less on 30-minute runs"
   - "Quiet 3.0HP motor — several buyers report using it in apartments without downstairs neighbors complaining"
-cons:
+cons: 
   - "Incline is manual only — you have to stop, pull a pin, and adjust under the deck. Not a dealbreaker, but it kills interval workout flow"
   - "Max speed of 7.5 mph (8 min/mile pace) will frustrate serious runners who want sprint intervals above that threshold"
   - "Assembly instructions are sparse — multiple reviews mention vague diagrams and missing bolt sizes; budget 45–60 minutes with your own tools"
+
 ---
 
 ## Is the ATEEDGE 3.0HP Folding Treadmill a Smart Buy for Small Spaces?

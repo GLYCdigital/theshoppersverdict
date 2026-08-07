@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Outdoor Dog Kennel with Rotating Feeder Bowls, Outd"
 seo_title: "YITAHOME Outdoor Dog Kennel with Rotating Feeder B Review"
 meta_description: "Our full yitahome outdoor dog kennel with rotating feeder bowls, outd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FC2V32ML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YITAHOME Outdoor Dog Kennel with Rotating Feeder Bowls is a genuinely clever idea wrapped in a mostly solid frame — but the details determine whether it works for your dog or becomes a frustration.**

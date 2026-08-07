@@ -1,4 +1,5 @@
 ---
+
 title: "30 Box Big Foot Natural Himalaya Salt Mint Candy - Lemon Fla"
 seo_title: "30 Box Big Foot Natural Himalaya Salt Mint Candy - Review"
 meta_description: "Our full 30 box big foot natural himalaya salt mint candy - lemon fla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B07Y3JKSDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617yyoYDoyL._SL1024_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **30 Box Big Foot Natural Himalaya Salt Mint Candy - Lemon Fla** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

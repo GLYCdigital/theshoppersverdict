@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK Glam On the Go Eyeshadow & Blush Palet"
 seo_title: "LAURA GELLER NEW YORK Glam On the Go Eyeshadow & B Review"
 meta_description: "Our full laura geller new york glam on the go eyeshadow & blush palet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FP2YL4RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kgedi+R6L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "all-in-one" palettes fail at something. Either the blush is chalky, the shadows are patchy, or the packaging falls apart in a week. The Laura Geller Glam On the Go palette — currently sitting at 4.6 stars across 229 ratings — doesn't fall into that trap. Here's the full breakdown.

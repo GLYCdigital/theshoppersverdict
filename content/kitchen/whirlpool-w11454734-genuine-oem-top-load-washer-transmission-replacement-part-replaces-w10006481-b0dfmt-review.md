@@ -1,4 +1,5 @@
 ---
+
 title: "Whirlpool W11454734 Genuine OEM Top Load Washer Transmission"
 seo_title: "Whirlpool W11454734 Genuine OEM Top Load Washer Tr Review"
 meta_description: "Our full whirlpool w11454734 genuine oem top load washer transmission review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFMTYV69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51il3CjL-kL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $300 Fix vs. the $800 Replacement

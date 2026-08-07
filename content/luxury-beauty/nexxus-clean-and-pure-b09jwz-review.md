@@ -1,4 +1,5 @@
 ---
+
 title: "Nexxus Clean and Pure"
 seo_title: "Nexxus Clean and Pure Review: Verdict | TSV"
 meta_description: "Our full nexxus clean and pure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09JWZSQ82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RN3X03G9L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "clean" shampoos feel like you're washing your hair with dish soap diluted in water. They either don't lather, leave your scalp feeling tight, or cost $40 for a bottle smaller than your palm. Nexxus Clean and Pure doesn't fall into that trap — but it has its own quirks worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Murray & Lanman Florida Water Cologne - Agua Florida -7.5 Fl"
 seo_title: "Murray & Lanman Florida Water Cologne - Agua Flori Review"
 meta_description: "Our full murray & lanman florida water cologne - agua florida -7.5 fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00DU24FEW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61az2zIHTEL._SS40_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The 170-Year-Old Fragrance That Refuses to Quit

@@ -1,4 +1,5 @@
 ---
+
 title: "Keyluv 71''H x 47.2''W Large Dog Crate Furniture with 2 Stor"
 seo_title: "Keyluv 71''H x 47.2''W Large Dog Crate Furniture w Review"
 meta_description: "Our full keyluv 71''h x 47.2''w large dog crate furniture with 2 stor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F3JL7LQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C+qpwNnqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a tall dog and a living room that doesn't need to look like a kennel, the Keyluv 71''H x 47.2''W Large Dog Crate Furniture is probably on your radar. Here's the real story after digging through 210 ratings and owner experiences.

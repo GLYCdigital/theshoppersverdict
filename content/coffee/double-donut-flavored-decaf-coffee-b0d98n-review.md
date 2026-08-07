@@ -1,4 +1,5 @@
 ---
+
 title: "Double Donut Flavored Decaf Coffee"
 seo_title: "Double Donut Flavored Decaf Coffee Review (2026)"
 meta_description: "Honest Double Donut Flavored Decaf Coffee review: taste, grind quality, value. See if this budget-friendly decaf is worth your brew. 4.4-star rating analyzed."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D98N1F86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kjlJco0._SL1280_.jpg"
-pros:
+pros: 
   - "Genuine donut shop flavor profile — sweet vanilla and glaze notes without artificial aftertaste"
   - "Full-flavored decaf that doesn't taste like punishment; holds up in drip, French press, and cold brew"
   - "Consistent medium roast that avoids the burnt, bitter edge common at this price point"
-cons:
+cons: 
   - "Flavor intensity drops noticeably after the bag's been open for 3+ weeks — buy smaller quantities"
   - "Not single-origin; blend composition isn't disclosed, so caffeine content varies slightly batch to batch"
+
 ---
 
 Let’s be honest about decaf: most of it tastes like regret in a mug. The Double Donut Flavored Decaf Coffee is the exception that proves the rule. With a 4.4-star average across 220 ratings, this isn't a niche product for the caffeine-averse — it's a legitimately good flavored coffee that happens to be decaffeinated. Here's the full story.

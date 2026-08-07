@@ -1,4 +1,5 @@
 ---
+
 title: "S&T INC. Dish Drying Mat XL"
 seo_title: "S&T INC. Dish Drying Mat XL Review: Is It Worth It?"
 meta_description: "S&T INC. Dish Drying Mat XL review: 4.7-star rated, 37k+ reviews. We test absorbency, durability, and size. Honest pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 37493
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1+xPqVrEtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely XL at 16.5 x 24 inches — covers double sinks and most countertop drying zones"
   - "Three-layer construction (soft top, absorbent middle, waterproof PVC bottom) keeps counters dry"
   - "Machine washable and quick-drying — survives repeated cycles without fraying"
-cons:
+cons: 
   - "Slippery on smooth granite or quartz when wet — needs a grippy mat underneath or a fully dry counter"
   - "Thin padding means heavy cast iron or glass bakeware can leave temporary impressions"
+
 ---
 
 The S&T INC. Dish Drying Mat XL has been sitting on Amazon’s bestseller list for years, and with 37,493 ratings holding a 4.7-star average, it’s clearly doing something right. But is it the right mat for *your* kitchen? After digging into the specs, customer feedback, and real-world use patterns, here’s the honest breakdown.

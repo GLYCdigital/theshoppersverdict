@@ -1,4 +1,5 @@
 ---
+
 title: "Iron-Man MK 5 Wearable Electronic Helmet with Voice & Remote"
 seo_title: "Iron-Man MK 5 Helmet Review: Voice & Remote Control"
 meta_description: "Honest Iron-Man MK 5 wearable helmet review: voice commands, remote control, LED lights, build quality, and who should buy this Marvel toy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJWJWRB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wohX3HmLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Voice-activated faceplate opening and closing works reliably once you learn the command cadence"
   - "Remote control adds a second trigger option, useful when wearing the helmet and hand movements are limited"
   - "LED eye lights are bright and surprisingly crisp, with multiple color modes that enhance cosplay value"
-cons:
+cons: 
   - "Fits adults with smaller heads snugly; larger head sizes will find it tight and uncomfortable for extended wear"
   - "Battery compartment placement makes swapping batteries awkward mid-session"
   - "Voice recognition occasionally triggers on similar-sounding words or background TV noise"
+
 ---
 
 If you've ever wanted to feel like Tony Stark without the billion-dollar R&D budget, the Iron-Man MK 5 Wearable Electronic Helmet is the closest thing to slipping into the suit. But is this a Halloween-worthy centerpiece or a shelf ornament that'll frustrate you after ten minutes? After digging through 204 ratings averaging 4.1 stars, here's the real story.

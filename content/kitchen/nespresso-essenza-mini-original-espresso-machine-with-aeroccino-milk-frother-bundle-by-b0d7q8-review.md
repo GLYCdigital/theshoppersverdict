@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Essenza Mini Original Espresso Machine with Aerocc"
 seo_title: "Nespresso Essenza Mini Original Espresso Machine w Review"
 meta_description: "Our full nespresso essenza mini original espresso machine with aerocc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7Q832LL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41LnOsNW2GL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your counter space is measured in inches, not feet, the Nespresso Essenza Mini is the espresso machine that actually fits. At just 3.3 inches wide and 8.7 inches deep, this thing disappears into a corner — yet it pulls a respectable shot with real crema in about 25 seconds from cold start.

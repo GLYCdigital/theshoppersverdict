@@ -1,4 +1,5 @@
 ---
+
 title: "Set of 8 Pyrex Blue Round Storage Lid Cover fits 6 & 7 cup R"
 seo_title: "Set of 8 Pyrex Blue Round Storage Lid Cover fits 6 Review"
 meta_description: "Our full set of 8 pyrex blue round storage lid cover fits 6 & 7 cup r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07TVKRDJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DERcO12ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Problem With Every Pyrex Bowl You Own**

@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Leaf Iced Tea, Blackberry, 18.5 Fl Oz Bottles (Pack of "
 seo_title: "Pure Leaf Iced Tea, Blackberry, 18.5 Fl Oz Bottles Review"
 meta_description: "Our full pure leaf iced tea, blackberry, 18.5 fl oz bottles (pack of  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW9ZSLCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C9dfElHxL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pure Leaf Blackberry Iced Tea Review: The Honest Middle Ground**

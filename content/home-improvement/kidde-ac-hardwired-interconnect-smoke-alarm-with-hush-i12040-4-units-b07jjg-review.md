@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde AC Hardwired Interconnect Smoke Alarm with Hush I12040"
 seo_title: "Kidde AC Hardwired Interconnect Smoke Alarm with H Review"
 meta_description: "Our full kidde ac hardwired interconnect smoke alarm with hush i12040 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JJG88RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51H8M3XHMFS._AC_SL1094_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Kidde AC Hardwired Interconnect Smoke Alarm with Hush I12040** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

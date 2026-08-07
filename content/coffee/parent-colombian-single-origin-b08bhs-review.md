@@ -1,4 +1,5 @@
 ---
+
 title: "PARENT - Colombian Single Origin"
 seo_title: "PARENT - Colombian Single Origin Review: Verdict | TSV"
 meta_description: "Our full parent - colombian single origin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08BHSHJZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51carxel1HL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most Colombian coffees you'll find on Amazon fall into one of two traps: they're either roasted so dark they taste like charcoal, or they're stale before they even reach your door. The PARENT Colombian Single Origin tries to split the difference, and for the most part, it lands on the right side of both problems.

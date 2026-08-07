@@ -1,4 +1,5 @@
 ---
+
 title: "DJS Kitchen Faucet with Deck Plate"
 seo_title: "DJS Kitchen Faucet Review: 2026 Buyer's Guide"
 meta_description: "DJS Kitchen Faucet with Deck Plate review: build quality, sprayer performance, installation fit, and honest downsides. See if this 4.3-star faucet is right for your sink."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMS1KP3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TS-rKaWAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a real metal body — not plastic disguised as metal"
   - "Deck plate included, so it fits both 1-hole and 3-hole sink setups without extra purchases"
   - "Pull-down sprayer with two spray modes that actually switches cleanly under pressure"
-cons:
+cons: 
   - "Installation instructions are minimal — expect to rely on YouTube or prior plumbing experience"
   - "Finish is prone to showing water spots and fingerprints, especially in darker colors"
+
 ---
 
 The DJS Kitchen Faucet sits in a crowded, fiercely competitive price bracket where most faucets are either flimsy plastic-core units or overpriced designer brands. After combing through 215 ratings and the spec sheet, here's what actually matters before you buy.

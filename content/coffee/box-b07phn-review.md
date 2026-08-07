@@ -1,4 +1,5 @@
 ---
+
 title: "Box"
 seo_title: "Box Coffee Maker Review: 4.6-Star Brewing Gear Worth It?"
 meta_description: "Box coffee maker review: 229 ratings, 4.6 stars. We break down build quality, brew performance, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PHNNGP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QqypcuOtL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent brew temperature across full carafe — no weak last cup"
   - "Simple, tool-free cleaning with removable water reservoir and drip tray"
   - "Compact footprint fits under standard upper cabinets"
-cons:
+cons: 
   - "No programmable timer on base model — must be physically turned on"
   - "Carafe lid is snug; requires two hands to pour cleanly"
+
 ---
 
 ## The Box Coffee Maker: A 4.6-Star Workhorse, But Read This First

@@ -1,4 +1,5 @@
 ---
+
 title: "Breezary 52 inch Ceiling Fans without Light Remote Control,"
 seo_title: "Breezary 52-Inch Ceiling Fan Review: Quiet DC Motor, No Light"
 meta_description: "Breezary 52-inch ceiling fan without light review: reversible DC motor, remote control, 4.2/5 rating. Is it worth it? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GDT5GVDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515JFMl0jVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reversible DC motor delivers whisper-quiet operation at low speeds — most owners report it's inaudible in bedrooms"
   - "Remote control includes six speed settings plus a timer, which is rare at this price point"
   - "Three-blade design with a 52-inch sweep moves serious air — 4,500+ CFM rating outperforms many five-blade models"
-cons:
+cons: 
   - "Installation requires a second person; the canopy mounting bracket is finicky and the 6-inch downrod feels short for vaulted ceilings"
   - "Remote is IR-only, meaning you must point it directly at the receiver — no wall control or smart home integration included"
+
 ---
 
 # Breezary 52-Inch Ceiling Fan Without Light: The Quiet Workhorse

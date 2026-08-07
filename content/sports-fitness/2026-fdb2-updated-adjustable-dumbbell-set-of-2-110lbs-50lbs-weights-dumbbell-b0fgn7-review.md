@@ -1,4 +1,5 @@
 ---
+
 title: "2026 FDB2 Updated Adjustable Dumbbell Set of 2, 110lbs/50lbs"
 seo_title: "2026 FDB2 Adjustable Dumbbell Review: 110lbs Set of 2 inch"
 meta_description: "2026 FDB2 adjustable dumbbell set of 2 review: 50lbs each, 4.7-star rated. Real-world testing, durability concerns, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGN7M9X8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WbxUYJfkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 50lb per dumbbell capacity with 2.5lb increments — rare in this price bracket"
   - "Quick-select dial mechanism takes under 3 seconds to change weight, no plate fumbling"
   - "Compact footprint replaces 20+ individual plates, freeing up serious floor space"
-cons:
+cons: 
   - "At 50lbs max, advanced lifters will outgrow these within 6-12 months"
   - "Dropping from overhead risks cradle damage — these are not drop-proof"
   - "Weight plates have a slight wobble at higher settings when doing single-arm work"
+
 ---
 
 **Opening Hook: Are these the Goldilocks dumbbells?**

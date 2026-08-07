@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Cat Treats, Party Mix Gravy-Licious Crunch C"
 seo_title: "Purina Friskies Cat Treats, Party Mix Gravy-Liciou Review"
 meta_description: "Our full purina friskies cat treats, party mix gravy-licious crunch c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FLXTDX9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71krSeefEFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If your cat is a treat fiend who'd stage a protest over a stale biscuit, Friskies Party Mix Gravy-Licious is the crowd-pleaser that actually delivers on its "crunch outside, gravy inside" promise. At 4.8 stars from 240+ Amazon ratings, this isn't a niche favorite — it's a legit household staple. But before you add to cart, know what you're buying: this is a *treat*, not a nutritional supplement, and the ingredient list reflects that.

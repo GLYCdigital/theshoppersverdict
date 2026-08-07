@@ -1,4 +1,5 @@
 ---
+
 title: "Mitsubishi Pencil Multifunction Pen Jetstream Light Touch In"
 seo_title: "Mitsubishi Pencil Multifunction Pen Jetstream Ligh Review"
 meta_description: "Our full mitsubishi pencil multifunction pen jetstream light touch in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPCGQ6TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31+uOTicEuL._AC_SL1103_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a co-worker pull out a four-color Bic and thought "there's got to be something better," this is it. The Mitsubishi Jetstream Light Touch In isn't just another multi-pen — it's the one that makes everything else feel like a toy. But at roughly double the price of its competitors, is the upgrade worth it? Let's dig in.

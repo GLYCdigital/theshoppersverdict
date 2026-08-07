@@ -1,4 +1,5 @@
 ---
+
 title: "Dark Chocolate Covered Mini Pretzels | 2-Pound Bag | Salted"
 seo_title: "Dark Chocolate Covered Mini Pretzels Review: 2-Lb Bag Worth It?"
 meta_description: "Honest review of the 2-pound bag of salted dark chocolate mini pretzels. Taste, texture, value, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09XRHXV4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yw-xi9VbL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely dark chocolate (not milk chocolate dyed dark) — 60% cacao gives a bitter-sweet bite that balances the salt"
   - "2-pound bag is a serious volume play — roughly 70-80 mini pretzels per pound, so you're getting 140-160 pieces"
   - "Resealable bag actually works — no stale pretzels on day 12, which is rare for bulk snack packaging"
-cons:
+cons: 
   - "Chocolate coating is thin in spots — some pretzels arrive with bare patches where the salt crystals poke through"
   - "No ingredient list on the Amazon listing — you have to dig through Q&A to confirm it's real chocolate, not compound coating"
+
 ---
 
 ## The 2-Pound Dark Chocolate Pretzel Gamble

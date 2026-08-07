@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Sugar Makeup Kit for Gris - Full Starter Cosmetics Set w"
 seo_title: "Hot Sugar Makeup Kit for Gris - Full Starter Cosme Review"
 meta_description: "Our full hot sugar makeup kit for gris - full starter cosmetics set w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08W4JTMFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81E6EqzXKVL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about "influencer" makeup kits: most are overpriced cardboard filled with chalky pigment and a logo. The **Hot Sugar Makeup Kit for Gris** is not that. This is a genuinely functional starter set that happens to be themed around the character Gris — and at 4.7 stars from 235 Amazon ratings, buyers clearly agree it delivers.

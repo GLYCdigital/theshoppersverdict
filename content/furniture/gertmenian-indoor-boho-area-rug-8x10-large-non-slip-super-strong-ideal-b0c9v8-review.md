@@ -1,4 +1,5 @@
 ---
+
 title: "Gertmenian Indoor Boho Area Rug - 8x10 Large, Non Slip, Supe"
 seo_title: "Gertmenian Boho Area Rug Review: 8x10 Non-Slip Tested"
 meta_description: "Honest Gertmenian 8x10 boho area rug review: thickness, shedding, non-slip backing tested. See who should buy it, who should skip, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C9V8ZHT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91EoOVlgH7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Non-slip latex backing actually grips hardwood and tile without a pad"
   - "Pattern hides stains and pet hair surprisingly well in real-world photos"
   - "Ships flat-folded with minimal creasing that relaxes within 48 hours"
-cons:
+cons: 
   - "Low pile (approx. 0.3 inches) won't satisfy buyers wanting plush cushioning"
   - "Initial chemical odor lasts 3-5 days even after airing out"
   - "Fringe edges are stitched but can fray if vacuumed aggressively"
+
 ---
 
 You’re staring at a 64-square-foot blank spot in your living room, and the Gertmenian Boho 8x10 keeps popping up in your search results. At 4.4 stars from 220 ratings, it’s clearly doing something right — but is it the right rug for *your* floor, your pets, your vacuum? Let’s break down what you actually get.

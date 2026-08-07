@@ -1,4 +1,5 @@
 ---
+
 title: "Drawdart Face Painting Kit for Kids - 20 Colors Water Based"
 seo_title: "Drawdart Face Painting Kit Review: 20 Non-Toxic Colors"
 meta_description: "Honest Drawdart face painting kit review: 20 water-based colors, safety, pigmentation, and real parent feedback. See if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F23Z84WD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HJmQmNQnL._SL1500_.jpg"
-pros:
+pros: 
   - "True one-stroke pigmentation — colors stay vibrant on skin without caking or needing multiple passes"
   - "Includes 3 fine-tip brushes and 2 sponges, so you get a complete kit rather than just paint pots"
   - "Washes off with warm water and mild soap in under a minute — no scrubbing, no staining on most skin tones"
-cons:
+cons: 
   - "White and light pastels need 2-3 layers for full opacity, especially over darker skin tones"
   - "Paint dries quickly on the palette — you'll need to mist with water during longer sessions"
+
 ---
 
 # Drawdart Face Painting Kit for Kids: A Parent-Approved 20-Color Set That Actually Delivers

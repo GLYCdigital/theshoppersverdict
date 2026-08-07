@@ -1,4 +1,5 @@
 ---
+
 title: "Pringles Potato Crisps Chips, Lunch Snacks, Office and Kids "
 seo_title: "Pringles Potato Crisps Chips, Lunch Snacks, Office Review"
 meta_description: "Our full pringles potato crisps chips, lunch snacks, office and kids  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09LRFWV7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DLXDqzXeL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Can That Answers "What's for Snack?"

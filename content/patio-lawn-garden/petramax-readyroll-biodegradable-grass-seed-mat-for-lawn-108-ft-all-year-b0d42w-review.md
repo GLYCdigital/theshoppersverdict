@@ -1,4 +1,5 @@
 ---
+
 title: "Petramax ReadyRoll Biodegradable Grass Seed Mat for Lawn (10"
 seo_title: "Petramax ReadyRoll Biodegradable Grass Seed Mat fo Review"
 meta_description: "Our full petramax readyroll biodegradable grass seed mat for lawn (10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0D42WR7SD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+PaSoUHgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The promise is seductive: unroll a carpet, water it, and watch a lawn appear. No measuring seed, no raking, no fighting birds off a fresh broadcast. The Petramax ReadyRoll is a 108-square-foot biodegradable mat embedded with grass seed — essentially a pre-seeded carpet for bare patches. At 3.1 stars across 155 ratings, though, the reality is messier than the marketing. Here's what you're actually getting.

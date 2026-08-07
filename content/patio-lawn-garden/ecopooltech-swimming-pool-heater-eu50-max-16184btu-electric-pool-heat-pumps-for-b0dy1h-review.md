@@ -1,4 +1,5 @@
 ---
+
 title: "ECOPOOLTECH Swimming Pool Heater EU50, Max 16184btu Electric"
 seo_title: "ECOPOOLTECH EU50 Pool Heater Review: 16K BTU Electric"
 meta_description: "ECOPOOLTECH EU50 pool heater review: 16,184 BTU electric heat pump. Real performance data, sizing advice, and honest tradeoffs for above-ground pools."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DY1H4TJR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eIAuYq5BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16,184 BTU output heats a 10-15 ft above-ground pool in 8-12 hours in moderate conditions"
   - "Digital thermostat with 1°F precision and auto shut-off at target temperature"
   - "Titanium heat exchanger resists saltwater corrosion better than copper coils"
-cons:
+cons: 
   - "Requires 240V hardwiring — not a simple plug-and-play install for most homeowners"
   - "No built-in timer; you'll need an external one to avoid running it all day"
   - "1-inch hose fittings are tight on standard 1.25-inch pool hoses — you'll likely need adapters"
+
 ---
 
 If you're tired of jumping into a pool that feels like a cold bath by late August, the ECOPOOLTECH EU50 is worth a serious look. This 16,184 BTU electric heat pump promises to stretch your swimming season without burning through propane tanks. But as with anything in the pool heating world, the real story is in the details — and whether this unit fits your specific setup.

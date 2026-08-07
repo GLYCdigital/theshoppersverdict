@@ -1,4 +1,5 @@
 ---
+
 title: "HyperLite Women's Elite Life Jacket - US Coast Guard Approve"
 seo_title: "HyperLite Women's Elite Life Jacket - US Coast Gua Review"
 meta_description: "Our full hyperlite women's elite life jacket - us coast guard approve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLHD25MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r8qxISrxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HyperLite Women's Elite Life Jacket isn't just another orange block of foam strapped to your chest.** At 4.7 stars from 235 Amazon reviewers, it's earned its spot as a top contender in the women's PFD market. But here's the thing — I've tested enough life jackets to know star ratings don't tell you how it feels after hour three of paddling. Let me break down what actually matters.

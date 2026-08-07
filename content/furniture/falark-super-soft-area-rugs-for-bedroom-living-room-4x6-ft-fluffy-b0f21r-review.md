@@ -1,4 +1,5 @@
 ---
+
 title: "FALARK Super Soft Area Rugs for Bedroom Living Room, 4x6 ft"
 seo_title: "FALARK Super Soft Area Rug Review: 4x6 Fluffy Carpet Tested"
 meta_description: "Honest FALARK 4x6 super soft area rug review: plush feel, shedding concerns, and durability tested. See if this fluffy bedroom carpet fits your space."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F21R8QF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71roP6oWevL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely plush 1.2-inch pile that feels like walking on a cloud, especially comfortable on bare feet"
   - "Non-slip TPR backing holds firm on hardwood and tile without a separate rug pad"
   - "Machine washable at 4x6 size — a rare feature for rugs this large"
-cons:
+cons: 
   - "Moderate shedding for the first 2-3 weeks; vacuuming required daily initially"
   - "Not ideal for high-traffic hallways — the fluffy pile flattens noticeably in busy paths"
   - "Colors run slightly darker than product photos; order a shade lighter than you think"
+
 ---
 
 Some rugs are furniture. This one is a mood. The FALARK Super Soft Area Rug in 4x6 doesn't try to be a statement piece — it tries to be the reason you kick your shoes off at the door. After testing it for three weeks in a bedroom and a home office, here's the honest breakdown.

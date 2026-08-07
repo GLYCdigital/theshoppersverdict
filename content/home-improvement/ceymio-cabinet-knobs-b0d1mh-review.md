@@ -1,4 +1,5 @@
 ---
+
 title: "CEYMIO Cabinet Knobs"
 seo_title: "CEYMIO Cabinet Knobs Review: Worth It? (2026)"
 meta_description: "CEYMIO cabinet knobs reviewed: finish quality, durability, and value. See why 240+ buyers rate them 4.8 stars—and who should skip them."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1MHNPZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BmSrnNgKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent brushed finish across all knobs — no mismatched pieces in the batch"
   - "Standard 1.25-inch screw spacing fits virtually all pre-drilled cabinet fronts"
   - "Solid zinc alloy construction with no sharp edges or rough machining marks"
-cons:
+cons: 
   - "Screws included are soft — one buyer reported stripping a head during install"
   - "No template or drill guide in the box; you'll need your own measuring tools"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen. Get it wrong and even a $20,000 remodel looks cheap. Get it right — like the CEYMIO Cabinet Knobs appear to do — and a basic IKEA kitchen suddenly reads as custom. With a 4.8-star average across 240 ratings, these knobs have earned serious attention. But do they hold up beyond the unboxing excitement? I dug through the specs, the buyer feedback, and the real-world installation reports to give you the straight story.

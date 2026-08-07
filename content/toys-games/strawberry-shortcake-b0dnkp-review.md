@@ -1,4 +1,5 @@
 ---
+
 title: "Strawberry Shortcake"
 seo_title: "Strawberry Shortcake Review: Verdict | TSV"
 meta_description: "Our full strawberry shortcake review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNKP7JBR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QPtuUmPuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: Strawberry Shortcake has been through more reboots than Spider-Man, and not every iteration hits. This current version, though, gets a lot right — and a few things wrong. After digging through 220 Amazon ratings and comparing it against similar plush/doll hybrids in this price bracket, here’s the real story.

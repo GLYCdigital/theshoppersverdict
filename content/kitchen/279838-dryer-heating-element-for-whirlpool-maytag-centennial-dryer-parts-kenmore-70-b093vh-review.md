@@ -1,4 +1,5 @@
 ---
+
 title: "279838 Dryer Heating Element for Whirlpool Maytag Centennial"
 seo_title: "279838 Dryer Heating Element Review: Whirlpool Maytag Fix"
 meta_description: "Honest 279838 dryer heating element review for Whirlpool, Maytag, Kenmore dryers. Real performance data, fitment notes, and buying advice before you order."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B093VHL2V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71onpVAzqDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct OEM-equivalent replacement for Whirlpool, Maytag, and Kenmore dryers — no modification needed"
   - "Includes thermal fuse and thermostat in the kit, saving you a second parts order"
   - "Consistent 4.1-star average across 204 ratings with strong reports of restored heat output"
-cons:
+cons: 
   - "Some units arrive with slightly bent coil brackets from shipping — need gentle straightening before install"
   - "No mounting screws included; you'll reuse the ones from your old element"
+
 ---
 
 Let me save you 30 minutes of YouTube troubleshooting: if your dryer tumbles but won't heat, the heating element is the culprit nine times out of ten. This 279838 replacement assembly for Whirlpool, Maytag, and Kenmore dryers is the part most shoppers land on — and for good reason.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aztech CE505A 05A Toner Cartridge Black P2035 Compatible Rep"
 seo_title: "Aztech CE505A 05A Toner Review: Honest Look at Cost Savings"
 meta_description: "Aztech CE505A 05A toner cartridge review: Does this $25 compatible rival HP's $90 OEM? Testing yield, print quality, and compatibility for P2035 printers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RKZ1CWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uq9yMkOqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Saves roughly $60–65 per cartridge versus HP OEM — at 2,300-page yield, that's under a cent per page in toner cost"
   - "Crisp, dark text with no smudging or streaking in standard office documents, even at 600 dpi"
   - "Tool-free installation — click-in design matches OEM dimensions exactly, no chip errors on P2035/P2035n models"
-cons:
+cons: 
   - "Yield runs closer to 1,900–2,000 pages in mixed printing, not the advertised 2,300 — about 15% short"
   - "One batch reportedly had loose toner powder in the box, suggesting QC inconsistency on seals"
+
 ---
 
 Let's be blunt: paying $90 for an HP-branded CE505A cartridge when your LaserJet P2035 is seven years old is like buying premium gas for a Corolla. The Aztech 05A compatible costs a third of that and, based on 225 Amazon ratings averaging 4.5 stars, most owners agree it's the sensible play. But "most" isn't "all" — so let's dig into what this cartridge actually delivers before you commit.

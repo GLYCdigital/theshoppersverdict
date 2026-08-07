@@ -1,4 +1,5 @@
 ---
+
 title: "CHAVI Freeze-Dried"
 seo_title: "CHAVI Freeze-Dried Review: Is This Instant Coffee Worth It?"
 meta_description: "Honest CHAVI freeze-dried coffee review: taste, solubility, value. See how this 4.1-star rated instant coffee stacks up before you buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CHL9XHCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ddns7KK0L._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves completely in cold water within 10 seconds — no clumping or gritty residue even in iced coffee"
   - "Balanced medium roast flavor with low acidity; smooth enough to drink black without bitterness"
   - "Single-origin beans freeze-dried within hours of harvest, preserving volatile aromatic compounds better than spray-dried competitors"
-cons:
+cons: 
   - "Jar is only 3.5 oz — heavy daily drinkers will blow through it in under two weeks"
   - "Price per serving runs 20-30% higher than mainstream instant brands like Mount Hagen or Starbucks VIA"
+
 ---
 
 Let’s be direct: most instant coffee tastes like the memory of coffee filtered through a burnt sock. CHAVI Freeze-Dried is not most instant coffee. This 4.1-star rated jar (204 Amazon reviews) has carved out a legitimate niche for itself among the freeze-dried set, and after testing it against three other premium instants, I understand why.

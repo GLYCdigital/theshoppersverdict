@@ -1,4 +1,5 @@
 ---
+
 title: "4D Build, Harry Potter Chibi with Sword 3D Model Kit"
 seo_title: "4D Build Harry Potter Chibi Sword Kit Review (2026)"
 meta_description: "Honest 4D Build Harry Potter Chibi with Sword 3D model kit review: build quality, difficulty, and who it's for. 4.6/5 rating from 229 shoppers."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSRGF6HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yA5VDKjlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Punch-out foam pieces are pre-cut and numbered, so no scissors or glue needed — clean assembly with zero mess"
   - "Final chibi figure stands about 6 inches tall with surprising detail on the robes, sword, and scarf"
   - "Takes roughly 60–90 minutes — substantial enough to feel like a real build, short enough to finish in one sitting"
-cons:
+cons: 
   - "Small pieces (especially the sword and hands) require patience; not ideal for kids under 10 without supervision"
   - "Foam edges can show slight white creasing if you bend pieces too aggressively during assembly"
+
 ---
 
 If you've built any of the 4D Build line before, you know the drill: punch out numbered foam sheets, follow the illustrated guide, and watch a character emerge from flat panels. The Harry Potter Chibi with Sword kit follows that formula, but with a few twists that make it stand out from the generic dragon or robot kits.

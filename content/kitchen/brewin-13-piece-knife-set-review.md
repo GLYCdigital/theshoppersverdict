@@ -1,4 +1,5 @@
 ---
+
 title: "Brewin Knife Set, 13 Pieces Kitchen Knives Set with Sharpener, Anti-Rust Coating and Blade Guard, Home Essentials, Camping Essentials - Multicolor"
 seo_title: "Brewin 13-Piece Knife Set Review: Budget Kitchen Essential"
 meta_description: "Brewin 13-piece knife set review: sharp blades, anti-rust coating, built-in sharpener, and guards for $12. Is this budget set worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 290
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FCKGK5R6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z04s6Aj0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "13 pieces for $11.99 — works out to under $1 per knife, plus a sharpener and blade guards included"
   - "Anti-rust coating actually holds up through dishwasher cycles and humid conditions, per buyer reports"
   - "Built-in sharpener in the storage block keeps edges functional without needing separate sharpening tools"
-cons:
+cons: 
   - "Blades are stamped, not forged — they'll dull faster than premium steel and won't hold an edge for heavy daily use"
   - "Multicolor handles are plastic; they feel lightweight and won't satisfy cooks who prefer weighted, balanced knives"
+
 ---
 
 Let's be direct about what this is: a $12 knife set. If you're expecting German forged steel, stop reading. But if you need a functional, complete knife set for a first apartment, RV, camping kit, or vacation rental — the Brewin 13-piece set punches absurdly above its price point. At 4.9 stars from 290 ratings, it's one of the most universally praised budget knife sets on Amazon right now. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Prepâ€¢Nâ€¢Cook by McSunley 21.5Qt Induction Stainless Steel"
 seo_title: "Prepâ€¢Nâ€¢Cook by McSunley 21.5Qt Induction Stain Review"
 meta_description: "Our full prepâ€¢nâ€¢cook by mcsunley 21.5qt induction stainless steel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091DBC32X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o7a0tSAFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 21.5-quart countertop pot that thinks it's a stovetop — and mostly pulls it off.**

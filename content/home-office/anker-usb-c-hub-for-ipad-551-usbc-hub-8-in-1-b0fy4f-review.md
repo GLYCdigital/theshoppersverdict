@@ -1,4 +1,5 @@
 ---
+
 title: "Anker USB C Hub for iPad, 551 USBC Hub (8-in-1), with Foldab"
 seo_title: "Anker 551 USB-C Hub for iPad Review (8-in-1) — Worth It?"
 meta_description: "Honest Anker 551 USB-C Hub for iPad review: 8-in-1 connectivity, foldable design, real-world performance, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FY4FZNRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x9De8EOOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Foldable stand converts iPad into a mini desktop — stable enough for typing and FaceTime, not just viewing"
   - "HDMI output handles 4K@60Hz, which is rare at this price point and genuinely useful for presentations"
   - "USB-C PD passthrough charges the iPad while all 7 other ports stay active — no power juggling"
-cons:
+cons: 
   - "The 100W PD passthrough is theoretical; with heavy peripheral load, charging speed drops noticeably"
   - "No Ethernet port — odd omission for a hub marketed toward productivity users"
+
 ---
 
 Let's cut through the noise: the Anker 551 is one of the most versatile USB-C hubs you can clip onto an iPad, but it's not the universal solution Anker's marketing implies. After digging through 220 ratings and testing the 8-in-1 configuration myself, here's what you actually need to know.

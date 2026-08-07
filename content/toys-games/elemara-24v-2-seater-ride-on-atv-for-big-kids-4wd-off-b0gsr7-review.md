@@ -1,4 +1,5 @@
 ---
+
 title: "ELEMARA 24V 2 Seater Ride on ATV for Big Kids,4WD Off-Road 4 inch"
 seo_title: "ELEMARA 24V 2-Seater Ride-On ATV Review: 4WD Power for Big Kids"
 meta_description: "ELEMARA 24V 2-seater ride-on ATV review: 4WD off-road power, 4-wheel suspension, and 300lb capacity. Is it worth $400+? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSR7KWQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QEiauCrUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 4WD with 4-wheel drive actually engages all wheels — climbs grass hills and gravel that stall 2WD rivals"
   - "400W dual motors pull up to 300 lbs combined, so two average kids (or one big kid) won't bog it down"
   - "4-wheel independent suspension with spring shocks handles bumpy terrain without constant jarring"
-cons:
+cons: 
   - "Assembly takes 2-3 hours with vague instructions — several buyers reported misaligned screw holes that need patience to fix"
   - "Battery life runs 45-60 minutes on flat ground, but aggressive off-road use can drain it in 30 minutes"
   - "At roughly 85 lbs, it's heavy to move around — plan on charging it where it's parked"
+
 ---
 
 **If you've got a 6-to-12-year-old who's outgrown those little 12V plastic Jeeps, this ELEMARA 24V 2-seater is a different animal entirely.** This isn't a putter-around-the-driveway toy. With twin 400W motors, actual four-wheel drive, and independent suspension, it's built for grass, gravel, and the kind of mild off-road trails that make kids feel like they're in a trophy truck.

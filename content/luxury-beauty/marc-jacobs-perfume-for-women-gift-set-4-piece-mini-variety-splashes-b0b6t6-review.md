@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Jacobs Perfume for Women Gift Set â€“ 4-Piece Mini Vari"
 seo_title: "Marc Jacobs Perfume for Women Gift Set â€“ 4-Piece Review"
 meta_description: "Our full marc jacobs perfume for women gift set â€“ 4-piece mini vari review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6T66QL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YmN5UFTXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a department store, sprayed five Marc Jacobs fragrances on your wrists, and walked away more confused than when you arrived, this 4-piece mini set is the fix. It's a low-commitment way to figure out which full bottle actually deserves your money — and at roughly the price of a single travel spray, it's a smart entry point.

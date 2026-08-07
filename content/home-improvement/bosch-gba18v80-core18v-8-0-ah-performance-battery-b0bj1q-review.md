@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GBA18V80 CORE18V 8.0 Ah Performance Battery"
 seo_title: "BOSCH GBA18V80 8.0 Ah Battery Review: Worth It? (2026)"
 meta_description: "BOSCH GBA18V80 CORE18V 8.0 Ah battery review: real runtime, build quality, and compatibility. See if this 229-rated 4.6-star pack is worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJ1QP8JK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y+mnVSWDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "COOLPACK 2.0 thermal management keeps cells cooler during sustained high-drain use, extending overall pack life"
   - "8.0 Ah capacity delivers genuinely long runtime for circular saws and rotary hammers without the bulk of 12 Ah bricks"
   - "Drop-tested housing with sealed electronics—survives real job-site abuse and light rain exposure"
-cons:
+cons: 
   - "No Bluetooth or battery-health app tracking like some competitors offer at this price point"
   - "Heavier than 6.3 Ah packs—noticeable on drill/driver for overhead work after a full day"
   - "Not compatible with older 18V non-CORE Bosch tools without an adapter"
+
 ---
 
 If you're already invested in Bosch's 18V platform, you know the drill: the tool is only as good as the battery feeding it. The GBA18V80 is Bosch's answer to the "I'm tired of swapping 4.0 Ah packs every 20 minutes" problem. After digging through 229 ratings and cross-referencing real owner experiences, I can tell you this 8.0 Ah CORE18V pack is the runtime king of the lineup—but it's not the right choice for every buyer.

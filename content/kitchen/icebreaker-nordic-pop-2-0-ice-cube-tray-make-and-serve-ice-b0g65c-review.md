@@ -1,4 +1,5 @@
 ---
+
 title: "ICEBREAKER Nordic POP 2.0 - Ice Cube Tray Make And Serve Ice"
 seo_title: "ICEBREAKER Nordic POP 2.0 - Ice Cube Tray Make And Review"
 meta_description: "Our full icebreaker nordic pop 2.0 - ice cube tray make and serve ice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G65CBH7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TG1160XkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Ice Sphere That Finally Does What It Claims

@@ -1,4 +1,5 @@
 ---
+
 title: "STANLEY Quencher ProTour Flip Straw Tumbler"
 seo_title: "STANLEY Quencher ProTour Tumbler Review (2026): Worth It?"
 meta_description: "STANLEY Quencher ProTour Flip Straw Tumbler review: 40oz insulated cup tested. See pros, cons, and if it beats the original Quencher. 4.7★ rating."
@@ -11,14 +12,15 @@ review_count: 16902
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GPFTVFRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hEKJp4rqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip straw lid is actually leak-resistant when closed — survived a sideways tumble in a tote bag with zero drips"
   - "40oz capacity keeps ice intact for 18+ hours; verified with temperature readings at 6am and 11pm"
   - "Handle and slimmer base fit standard car cup holders — something the original Quencher never managed"
-cons:
+cons: 
   - "Flip mechanism feels slightly stiff for the first week; needs deliberate thumb pressure to open one-handed"
   - "Straw is a fixed length — tall folks will hit the bottom with about 2 inches of liquid left"
   - "Hand-wash only. The lid's internal gasket traps residue if you ignore this, and it's not dishwasher-safe"
+
 ---
 
 The STANLEY Quencher ProTour Flip Straw Tumbler is what happens when a company actually listens to complaints instead of just printing a new colorway. The original Quencher's biggest flaws — the open straw hole that spilled in bags and the base too wide for cup holders — are directly addressed here. At $45 for 40 ounces, it's priced competitively against Yeti and Owala, but it's the engineering tweaks that make this worth your attention.

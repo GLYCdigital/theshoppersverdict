@@ -1,24 +1,26 @@
 ---
+
 title: "Care Bears Digital Pet - Kea Kuma"
 seo_title: "Care Bears Digital Pet Kea Kuma Review: Worth It?"
 meta_description: "Care Bears Digital Pet Kea Kuma review: features, battery life, and real parent feedback. Is this retro-style toy worth your money? Find out."
 slug: "care-bears-digital-pet-kea-kuma-b0fgk2-review"
 image_alt: "Care Bears Digital Pet Kea Kuma in hand showing pixel screen and colorful shell"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGK2WDRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719lHaU25+L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Rechargeable battery (USB-C) — no constant coin-cell replacement like older virtual pets"  
   - "Multiple mini-games and Care Bear characters unlock as you play, adding real longevity"  
   - "Sturdy keychain loop and compact size (roughly 2.5 x 2 inches) survive backpack abuse"  
-cons:  
+cons: 
   - "Screen is small and low-resolution — pixel art fans will love it, but text-heavy menus are tough for younger kids"  
   - "No volume control or mute toggle; the beeps are loud enough to annoy parents in a quiet car"  
   - "Care Bears branding is light — if your kid expects characters to talk or appear in full color, this is more Tamagotchi than cartoon"
+
 ---
 
 Is the Care Bears Digital Pet – Kea Kuma a nostalgic gimmick or a genuinely good toy for 2026? After digging through 225 Amazon ratings (4.5 stars average) and testing the unit myself, I can tell you this: it’s the rare virtual pet that respects both your wallet and your sanity. No subscription, no microtransactions, no dead batteries after a week. Here’s the full story.

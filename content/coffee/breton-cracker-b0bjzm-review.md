@@ -1,4 +1,5 @@
 ---
+
 title: "Breton CRACKER Review"
 seo_title: "Breton CRACKER Review: Is This Coffee Gear Worth It? (2026)"
 meta_description: "Honest Breton CRACKER review: 4.4-star coffee gear analyzed. See what 220+ buyers say, real pros & cons, and who should buy it in 2026."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJZMJC66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81krPkD71aL._SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint fits under standard kitchen cabinets while still producing a full 10-cup carafe"
   - "Brew temperature consistently hits 195-200°F in testing — hot enough for proper extraction, unlike many budget brewers"
   - "Carafe lid seals tightly enough to pour without drips, a rare find at this price point"
-cons:
+cons: 
   - "No programmable timer — you're setting it manually every morning"
   - "Water reservoir is fixed at 50 oz; you can't pull it out to fill at the sink"
   - "Some buyers report the warming plate runs hot, scorching coffee left on for over an hour"
+
 ---
 
 The Breton CRACKER doesn't look like much. It's a boxy, utilitarian drip machine with a plastic shell and a glass carafe — the kind of thing you'd find in a hotel lobby or a break room. But 220 Amazon reviewers have pushed it to a 4.4-star average, and that's not nothing. After digging through the feedback and the specs, here's the real story.

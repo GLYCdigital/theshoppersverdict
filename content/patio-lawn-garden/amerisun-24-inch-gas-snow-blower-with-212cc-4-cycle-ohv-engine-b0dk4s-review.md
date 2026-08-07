@@ -1,4 +1,5 @@
 ---
+
 title: "AMERISUN 24-Inch Gas Snow Blower with 212cc 4-Cycle OHV Engi"
 seo_title: "AMERISUN 24-Inch Gas Snow Blower Review (212cc OHV)"
 meta_description: "Honest AMERISUN 24-inch gas snow blower review: 212cc OHV engine, 2-stage performance, real owner feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DK4SXM3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oZ5vRWewL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "212cc OHV engine delivers reliable power for wet, heavy snow — not just light powder"
   - "24-inch clearing width with 21-inch intake height cuts passes quickly"
   - "Electric start with plug-in option plus manual recoil backup for cold mornings"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes and instructions are sparse in places"
   - "Chute adjustment requires two hands and can freeze up in sticky snow"
   - "Plastic skid shoes wear faster than metal on rough gravel driveways"
+
 ---
 
 ## The $600 question: Can a budget two-stage actually handle real snow?

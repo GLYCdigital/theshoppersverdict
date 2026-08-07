@@ -1,4 +1,5 @@
 ---
+
 title: "Core P350 Pet Air Purifier Replacement Filter for LEVOIT Cor"
 seo_title: "Core P350 Pet Filter Review: LEVOIT Core P350 Replacement"
 meta_description: "Honest Core P350 pet air purifier replacement filter review for LEVOIT Core P350. Covers performance, lifespan, pet hair trapping, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B631VPT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dEW+arnFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM-grade replacement that matches LEVOIT's original specs — no fitment guessing"
   - "Three-stage filtration (pre-filter, HEPA, activated carbon) actually controls pet odors, not just dander"
   - "Consistent 6-month lifespan at average daily use, per multiple verified buyer reports"
-cons:
+cons: 
   - "Premium price compared to generic third-party filters — you pay for the LEVOIT name"
   - "No washable pre-filter layer; the outer fabric catches hair but requires vacuuming weekly to maintain airflow"
+
 ---
 
 ## The Filter Your LEVOIT Actually Wants

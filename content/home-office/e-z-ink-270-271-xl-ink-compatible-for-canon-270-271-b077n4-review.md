@@ -1,4 +1,5 @@
 ---
+
 title: "E-Z Ink 270 271 XL Ink Compatible for Canon 270 271 PGI-270X"
 seo_title: "E-Z Ink 270 271 XL Ink Review: Honest 2026 Verdict"
 meta_description: "E-Z Ink 270 271 XL compatible ink for Canon PGI-270X reviewed. Real print quality, page yield, and cost savings vs OEM. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077N49LJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812SKrcvuBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "XL yield genuinely matches OEM — roughly 400 black/300 color pages per cartridge, verified by multiple long-term reviewers"
   - "Chipset is recognized instantly by Canon printers — no error codes, no firmware bypass tricks needed"
   - "Color accuracy is surprisingly close to Canon OEM for photo and document printing — blacks are deep, not gray"
-cons:
+cons: 
   - "No single-color replacement option — if one cartridge runs dry, you buy the whole 4-pack again"
   - "Some users report occasional chip misreads after printer firmware updates — rare but worth knowing"
+
 ---
 
 Here's the thing about compatible ink: you're always gambling that saving 60% doesn't mean losing 100% of your print quality. The E-Z Ink 270 271 XL set for Canon PGI-270X doesn't just win that bet — it makes you wonder why you ever paid OEM prices in the first place.

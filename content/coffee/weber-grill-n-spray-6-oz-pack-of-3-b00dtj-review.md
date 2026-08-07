@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Grill'N Spray 6 Oz. - Pack of 3"
 seo_title: "Weber Grill'N Spray 6 Oz. - Pack of 3 Review: Verdict | T"
 meta_description: "Our full weber grill'n spray 6 oz. - pack of 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00DTJ1Z4O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kkGt+ebqL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** Weber's Grill'N Spray is the WD-40 of your grill setup — you don't think about it until you need it, and then you wonder how you ever cooked without it. This 3-pack of 6-ounce bottles is the smart way to buy it, because you'll burn through one bottle faster than you expect.

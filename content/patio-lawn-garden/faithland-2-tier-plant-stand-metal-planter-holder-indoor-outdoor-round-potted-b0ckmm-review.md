@@ -1,4 +1,5 @@
 ---
+
 title: "FaithLand 2 Tier Plant Stand, Metal Planter Holder Indoor Ou"
 seo_title: "FaithLand 2-Tier Plant Stand Review: Sturdy & Affordable"
 meta_description: "FaithLand 2-tier plant stand review: sturdy metal construction, indoor/outdoor use. See pros, cons, and who should buy at $23.39."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKMM8SGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616HI3CH+lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy all-metal construction that doesn't wobble, even with heavy 10-inch pots on both levels"
   - "Rust-resistant black finish holds up outdoors in rain and humidity without chipping"
   - "Assembly takes under 5 minutes with included hex wrench — no extra tools needed"
-cons:
+cons: 
   - "Top tier is small — only fits pots up to 8 inches, limiting your larger plant options"
   - "No rubber feet on bottom; can scratch hardwood or tile floors unless you add felt pads"
+
 ---
 
 Let's be honest: most plant stands under $30 are flimsy, wobbly junk that tip over the first time your cat brushes past them. The FaithLand 2-Tier Plant Stand isn't that. At $23.39, it's the rare budget option that actually feels like it was engineered, not stamped out in a rush.

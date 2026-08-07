@@ -1,4 +1,5 @@
 ---
+
 title: "Emtek Providence Door Set with Round Knobs - Passage Set"
 seo_title: "Emtek Providence Passage Door Set Review (2026) | Honest Verdict"
 meta_description: "Emtek Providence passage set review: solid brass build, smooth knob action, premium feel. Is it worth the price? Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJKH574F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cWfPjrj8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid forged brass construction with a substantial 5.3 lb weight that feels premium in hand"
   - "Buttery-smooth knob rotation with zero wobble thanks to the heavy-duty ball bearing mechanism"
   - "Multiple finish options (including satin nickel and oil-rubbed bronze) that resist fingerprinting well"
-cons:
+cons: 
   - "Premium pricing sits well above comparable passage sets from Schlage or Kwikset"
   - Installation requires precise 2-1/8 inch " bore hole — won't fit older 1-1/2 inch " pre-drilled doors without modification
+
 ---
 
 **The Short Version:** If you're replacing a hollow-feeling builder-grade knob with something that makes your hand happy every time you touch it, the Emtek Providence is the door set you're looking for. It's expensive. It's worth it. Here's why.

@@ -1,4 +1,5 @@
 ---
+
 title: "Goya Foods Chick Peas, 15.5-Ounce"
 seo_title: "Goya Foods Chick Peas, 15.5-Ounce Review: Verdict | TSV"
 meta_description: "Our full goya foods chick peas, 15.5-ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008HS4QNE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J-eSerxLL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Goya Foods Chick Peas 15 5 Ounce B008Hs Review"
 seo_title: "Goya Chick Peas Review: Honest 15.5oz Can Assessment"

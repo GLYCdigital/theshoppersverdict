@@ -1,4 +1,5 @@
 ---
+
 title: "PBHEPJ Extra Thick Red Carpet Runner for Party, Non-Slip TPR"
 seo_title: "PBHEPJ Extra Thick Red Carpet Runner for Party, No Review"
 meta_description: "Our full pbhepj extra thick red carpet runner for party, non-slip tpr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVVL7684/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-8CJbP4BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most carpet runners under $50 are flimsy, slide around, and look like a cheap afterthought. The PBHEPJ Extra Thick Red Carpet Runner tries to change that with a TPR (thermoplastic rubber) backing and a pile thickness that punches above its price point. I’ve tested it across a week of daily foot traffic, a spilled glass of red wine, and a vacuum with a beater bar. Here’s the real story.

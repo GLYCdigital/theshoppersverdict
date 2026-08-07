@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Norelco SH91/52 Replacement Blades for Shaver Series"
 seo_title: "Philips Norelco SH91/52 Replacement Blades for Sha Review"
 meta_description: "Our full philips norelco sh91/52 replacement blades for shaver series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B18NRC23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/410thp9i8AL._SS40_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody gets excited about buying replacement blades. It's the automotive oil change of grooming — necessary, unglamorous, and easy to procrastinate. But if you own a Philips Norelco Series 9000 shaver (models like the S9xxx line), ignoring dull blades turns a $300 luxury shaver into a $300 chin-scraper. The SH91/52 is the official fix, and after digging through 229 ratings averaging 4.6 stars, here's the real story.

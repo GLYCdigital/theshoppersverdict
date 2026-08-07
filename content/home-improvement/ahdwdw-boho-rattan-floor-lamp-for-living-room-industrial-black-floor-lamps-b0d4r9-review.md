@@ -1,4 +1,5 @@
 ---
+
 title: "AHDWDW Boho Rattan Floor Lamp for Living Room,Industrial Bla"
 seo_title: "AHDWDW Boho Rattan Floor Lamp Review (2026): Worth It?"
 meta_description: "AHDWDW Boho Rattan Floor Lamp review: warm natural light, sturdy build, but check the switch placement. Is this industrial-meets-boho lamp right for your space?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4R9STVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I9nzNQ4HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Natural woven rattan shade diffuses light warmly without harsh glare — noticeably softer than paper or fabric shades"
   - "Sturdy weighted base (roughly 12-inch diameter) prevents tipping even on carpet, a common failure point in this price tier"
   - "Tall 63-inch profile actually clears most sofa arm heights, so light lands where you need it — not blocked by furniture"
-cons:
+cons: 
   - "Inline foot switch is stiff and positioned mid-cord; tall users will find themselves bending or stepping on the cord to toggle it"
   - "Rattan weave has visible natural variation — some panels are tighter than others, which may bother symmetry-minded buyers"
+
 ---
 
 Let's be straight about this lamp: it's a design piece first, a lighting fixture second. That's not a knock — it's why you're looking at it. The AHDWDW Boho Rattan Floor Lamp combines a matte black metal frame with a hand-woven natural rattan shade, and it delivers exactly the warm, textured glow the product photos promise. But before you hit buy, there are a few things worth knowing.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tangkula 10ft Solar LED Patio Umbrella with Base, Offset Can"
 seo_title: "Tangkula 10ft Solar LED Patio Umbrella with Base,  Review"
 meta_description: "Our full tangkula 10ft solar led patio umbrella with base, offset can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3FM2ZVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RXGG9Z+cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: a cantilever umbrella is the only way to shade a large table without a pole jabbing the center, and the Tangkula 10ft version delivers that core function well. But the included base is its weak link — and that's a pattern I see in this price tier.

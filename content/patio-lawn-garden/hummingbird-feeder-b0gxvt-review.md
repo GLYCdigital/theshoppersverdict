@@ -1,4 +1,5 @@
 ---
+
 title: "Hummingbird Feeder"
 seo_title: "Hummingbird Feeder Review: Verdict | TSV"
 meta_description: "Our full hummingbird feeder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXVTDPQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZnALByQ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Should This Feeder Earn a Spot in Your Garden?

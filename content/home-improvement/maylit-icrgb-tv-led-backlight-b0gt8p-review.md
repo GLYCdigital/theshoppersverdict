@@ -1,4 +1,5 @@
 ---
+
 title: "maylit ICRGB TV LED Backlight"
 seo_title: "maylit ICRGB TV LED Backlight Review: Verdict | TSV"
 meta_description: "Our full maylit icrgb tv led backlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GT8P9XYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PLXhd+lKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The maylit ICRGB TV LED Backlight is the kind of product that sounds like a gimmick until you see it working. Unlike the cheap $15 LED strips that glow one static color, this kit uses a small camera pointed at your screen to sample what's playing and mirror those colors onto your wall in real time. It's essentially a budget take on Philips Hue's Ambilight — and at roughly a third of the price, it has 215 Amazon reviewers averaging 4.3 stars. But is the savings worth the setup headaches? Let's break it down.

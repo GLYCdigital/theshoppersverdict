@@ -1,4 +1,5 @@
 ---
+
 title: "X-PREK Replacement Solar Light Parts"
 seo_title: "X-PREK Replacement Solar Light Parts Review: Verdict | TS"
 meta_description: "Our full x-prek replacement solar light parts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DX9QPC6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VqIFDqDZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need to throw away a dozen solar lights because the plastic caps cracked after two winters. That's the problem this kit solves. The X-PREK Replacement Solar Light Parts set is a grab-bag of the pieces that typically fail first — top caps, ground stakes, and connecting adapters — designed to breathe new life into lights that are otherwise perfectly functional.

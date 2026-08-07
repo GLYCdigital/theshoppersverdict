@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus KHT301-22L Standart PRO Dual Mount Drop-in 16 Gauge St"
 seo_title: "Kraus KHT301-22L Standart PRO Dual Mount Drop-in 1 Review"
 meta_description: "Our full kraus kht301-22l standart pro dual mount drop-in 16 gauge st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09CP75RHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41gfTkC+d9L._AC_SY355_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Kraus KHT301-22L Standart PRO Dual Mount Review: Is This 16-Gauge Workhorse Worth Your Kitchen Reno?

@@ -1,4 +1,5 @@
 ---
+
 title: "Faesun Swivel Side Table"
 seo_title: "Faesun Swivel Side Table Review: Worth It? (2026)"
 meta_description: "Faesun Swivel Side Table review: 4.4-star rated. Tested for stability, swivel function & build quality. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGV1TNKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817h32XkOBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360° smooth swivel lets you rotate the top without moving the base — genuinely useful for tight spaces"
   - "Solid steel frame with weighted base; doesn't wobble even with a loaded top"
   - "Compact 15.7-inch diameter fits beside recliners or between sofa sections without dominating the room"
-cons:
+cons: 
   - "Assembly requires an Allen wrench (included) and about 15 minutes; threads can be finicky if over-tightened"
   - "Top surface scratches more easily than expected — use coasters, not bare mugs"
+
 ---
 
 The Faesun Swivel Side Table solves a problem you didn't know you had: reaching your drink without contorting your body. That 360-degree rotation isn't a gimmick — it's the difference between a side table you actually use and one you ignore.

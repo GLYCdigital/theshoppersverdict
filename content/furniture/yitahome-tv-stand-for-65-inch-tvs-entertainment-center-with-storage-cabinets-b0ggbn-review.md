@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME TV Stand for 65 Inch TVs, Entertainment Center with"
 seo_title: "YITAHOME TV Stand for 65 Inch TVs, Entertainment C Review"
 meta_description: "Our full yitahome tv stand for 65 inch tvs, entertainment center with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GGBN417S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BFku4D45L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past those flimsy $80 TV stands with hollow-core doors and veneer that peels in a year, this YITAHOME unit deserves a second look. It's not premium furniture — but it's a serious step above the budget crowd, and at 4.3 stars across 215 ratings, the buyers mostly agree.

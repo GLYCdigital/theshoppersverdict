@@ -1,4 +1,5 @@
 ---
+
 title: "Century BOB Body Opponent Bag | Freestanding Punching Bag |"
 seo_title: "Century BOB Review: Is This Freestanding Bag Worth It?"
 meta_description: "Century BOB Body Opponent Bag review: 4.6/5 rating. Real pros, cons, and who should buy. Read before you spend on this freestanding punching bag."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXGW89RW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41vpUGmSImL._AC_SL1024_.jpg"
-pros:
+pros: 
   - Realistic head-and-torso target with adjustable height from 5'3 inch " to 6'3 inch " — you actually practice accuracy, not just power
   - "Heavy-duty 300-pound base that stays put during hard hooks and uppercuts without sand or water leaks"
   - "Replaceable vinyl skin and foam core hold up to years of daily training — no cracking or splitting reported"
-cons:
+cons: 
   - "Weighs 110+ pounds empty; filling the base requires ~300 lbs of sand or water, making initial setup a two-person job"
   - "The neck joint can loosen over time with heavy head strikes — some users report needing to re-tighten every few weeks"
   - "Gloves are mandatory — bare-knuckle training will tear the vinyl face quickly, and the instructions don't emphasize this enough"
+
 ---
 
 Let me be direct: the Century BOB is the freestanding bag that every other freestanding bag pretends to be. It's been the gold standard for home striking training for over a decade, and this latest version keeps that reputation intact. But it's not perfect, and you should know exactly what you're getting before you drop the money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Milk-Bone MaroSnacks Small Dog Treats with Real Bone Marrow, 40 oz"
 seo_title: "Milk-Bone MaroSnacks Review — 4.7★ Dog Treats at 10 Calories Each"
 meta_description: "Milk-Bone MaroSnacks small dog treats review: crunchy outside, meaty inside. Real bone marrow, only 10 calories each. Are they worth the hype?"
@@ -11,22 +12,23 @@ review_count: 16349
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003PMQMK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xXOlvM-RL._AC_SL1500_.jpg"
-faq:
+faq: 
   - question: "How many calories are in each MaroSnack?"
     answer: "Only 10 calories per treat, making them excellent for training sessions where you might go through a dozen treats without overfeeding."
   - question: "Are MaroSnacks suitable for all dog breeds?"
     answer: "These are specifically sized for small to medium dogs. The crunchy biscuit has a soft marrow center that even small breeds can handle easily."
   - question: "Are MaroSnacks made in the USA?"
     answer: "Yes, Milk-Bone MaroSnacks are produced in Buffalo, New York, USA, with calcium added for strong teeth and bones."
-pros:
+pros: 
   - "Crunchy biscuit outside with real bone marrow center — dogs go crazy for the texture"
   - "Only 10 calories each — guilt-free training treats"
   - "Made with calcium for dental and bone health"
   - "Produced in the USA with quality ingredients"
-cons:
+cons: 
   - "40 oz canister is bulky for storage in small kitchens"
   - "Some dogs may find the biscuit too hard if they're seniors with dental issues"
   - "Marrow center can leave slight residue on fingers"
+
 ---
 
 **The treat that makes small dogs act like they've won the lottery — but read the label before you buy.**

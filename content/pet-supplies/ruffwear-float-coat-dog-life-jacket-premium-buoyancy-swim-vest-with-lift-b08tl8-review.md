@@ -1,4 +1,5 @@
 ---
+
 title: "Ruffwear, Float Coat Dog Life Jacket, Premium Buoyancy Swim "
 seo_title: "Ruffwear, Float Coat Dog Life Jacket, Premium Buoy Review"
 meta_description: "Our full ruffwear, float coat dog life jacket, premium buoyancy swim  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08TL812YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hjXIDmimL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog hits the water like a rocket but swims like a brick, the Ruffwear Float Coat is the difference between a fun day at the lake and a panic-stricken rescue. This is the life jacket I've recommended to more dog owners than any other — and with a 4.8-star average across 240 ratings, I'm not alone. But at this price point, you deserve to know exactly what you're getting before you click buy.

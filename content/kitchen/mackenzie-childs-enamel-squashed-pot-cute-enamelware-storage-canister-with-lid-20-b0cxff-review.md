@@ -1,4 +1,5 @@
 ---
+
 title: "MACKENZIE-CHILDS Enamel Squashed Pot, Cute Enamelware Storag"
 seo_title: "MACKENZIE-CHILDS Enamel Squashed Pot, Cute Enamelw Review"
 meta_description: "Our full mackenzie-childs enamel squashed pot, cute enamelware storag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CXFFGJX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MnsaCxbOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a Mackenzie-Childs Squashed Pot because you need another container. You buy it because you want your countertop to stop looking like a rental. And honestly? For once, the hype holds up better than most "decorative storage" nonsense.

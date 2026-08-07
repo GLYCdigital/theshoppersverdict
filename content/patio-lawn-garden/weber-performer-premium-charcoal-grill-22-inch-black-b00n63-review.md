@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Performer Premium Charcoal Grill, 22-Inch, Black"
 seo_title: "Weber Performer Premium Charcoal Grill, 22-Inch, B Review"
 meta_description: "Our full weber performer premium charcoal grill, 22-inch, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00N634UJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611bVetTK0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Weber Performer Premium isn't just another charcoal kettle. It's the grill that answers the one question every charcoal cook eventually asks: *"Do I really need to mess with a chimney starter and lighter fluid every single time?"* No. You don't. And that's the entire story here.

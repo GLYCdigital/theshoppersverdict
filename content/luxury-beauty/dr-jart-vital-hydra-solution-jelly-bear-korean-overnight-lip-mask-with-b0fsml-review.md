@@ -1,4 +1,5 @@
 ---
+
 title: "Dr.Jart+ Vital Hydra Solution Jelly Bear Korean Overnight Lip Mask Review"
 seo_title: "Dr.Jart+ Jelly Bear Overnight Lip Mask Review (2026): Worth It?"
 meta_description: "Dr.Jart+ Vital Hydra Solution Jelly Bear overnight lip mask review: 4.4-star Korean formula. Does it hydrate? Real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FSMLKRKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EtzCpG6YL._SL1500_.jpg"
-pros:
+pros: 
   - "Semi-occlusive jelly texture locks in moisture overnight without the sticky, glue-like feel of traditional lip masks"
   - "Formulated with panthenol and hyaluronic acid — actually repairs the moisture barrier, not just a temporary slick"
   - "Bear-shaped applicator delivers a precise, no-mess layer; no digging with fingers or wasting product"
-cons:
+cons: 
   - "Small 0.24 oz tube — at this price point, heavy nightly use will run through it in 3–4 weeks"
   - "Scent is noticeably sweet and fruity; if you're sensitive to fragrance near your mouth, this could be a dealbreaker"
+
 ---
 
 If you've tried every thick, waxy lip mask that sits on your mouth like a layer of saran wrap, the Dr.Jart+ Vital Hydra Solution Jelly Bear is a different animal entirely. This Korean overnight treatment swaps the traditional heavy balm for a lightweight jelly that actually sinks in. With a 4.4-star average across 220 Amazon ratings, it's clearly doing something right — but let's talk about whether it's worth your money.

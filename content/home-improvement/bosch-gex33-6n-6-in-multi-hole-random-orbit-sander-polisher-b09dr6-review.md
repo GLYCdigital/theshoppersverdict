@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GEX33-6N 6 In. Multi-Hole Random Orbit Sander/Polisher"
 seo_title: "BOSCH GEX33-6N Sander Review: Pro-Grade Random Orbit"
 meta_description: "BOSCH GEX33-6N 6-inch multi-hole random orbit sander review: 12-hole dust collection, 2.5A motor, low vibration. See pros, cons, real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09DR68JQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ljPbaHsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12-hole dust collection pattern that actually works with standard multi-hole abrasives — no need to hunt for proprietary discs"
   - "2.5-amp motor delivers consistent 12,000 OPM even under heavy pressure, with a 6-inch pad that covers large surfaces fast"
   - "Microfilter dust canister captures fine dust effectively; hook-and-loop pad holds discs firmly without premature wear"
-cons:
+cons: 
   - "Dust canister is on the small side — frequent emptying required for large jobs; hooking up a shop vac is the practical workaround"
   - "No variable-speed dial — fixed 12,000 OPM means less control for polishing versus pure sanding applications"
   - "Includes only one paper dust bag; replacements are inexpensive but an extra from day one would've been nice"
+
 ---
 
 If you've sanded with a cheap orbital, you know the frustration: dust everywhere, discs flying off, and your arms vibrating numb after ten minutes. The BOSCH GEX33-6N is the antidote. This 6-inch random orbit sander is built for the DIYer who's tired of fighting their tools — and for pros who need a reliable workhorse without the Festool price tag.

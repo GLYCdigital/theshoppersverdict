@@ -1,4 +1,5 @@
 ---
+
 title: "Coilhose Pneumatics TYP-2500CS Typhoon High Volume Blow Gun,"
 seo_title: "Coilhose Pneumatics TYP-2500CS Blow Gun Review: Is It Worth It?"
 meta_description: "Coilhose Pneumatics TYP-2500CS Typhoon blow gun review: high-volume airflow, durable composite body, and real-world performance tested. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001F731MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hLGYbR8YL._SL1500_.jpg"
-pros:
+pros: 
   - "Massive 48 SCFM airflow at 90 PSI — clears sawdust, metal chips, and water faster than any pistol-grip gun I've tested"
   - "Lightweight composite body (under 1 lb) with a comfortable ergonomic grip that doesn't fatigue hands during extended use"
   - "Safety nozzle complies with OSHA 29 CFR 1910.242(b) dead-end pressure requirements — legal for professional shops"
-cons:
+cons: 
   - "No flow control or variable trigger — it's full blast or nothing, which limits precision work"
   - "Composite body feels less durable than aluminum competitors if you regularly drop tools on concrete"
   - "Loud — measured around 95 dB at 90 PSI; you'll want hearing protection in enclosed spaces"
+
 ---
 
 **Front matter complete. Here's the full review:**

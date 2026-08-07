@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier Bed Frame 7012D,Upholstered Platform Bed with Strong"
 seo_title: "Bestier Bed Frame 7012D Review: Sturdy Upholstered Platform Bed"
 meta_description: "Honest Bestier Bed Frame 7012D review: sturdy wooden slats, plush upholstery, easy assembly. See pros, cons, and who should buy this 4.3-star platform bed."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJSP4TLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dmh9DxRPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "No-box-spring design with reinforced wooden slats spaced tightly enough to support a memory foam mattress without sagging"
   - "Tall 13-inch under-bed clearance gives you real storage space for bins without looking cluttered"
   - "Full upholstery on headboard, footboard, and side rails — no exposed MDF edges like cheaper frames"
-cons:
+cons: 
   - "Headboard height is modest at 42 inches; if you sit up to read, your pillow may slide off the top"
   - "Assembly requires two people for the frame alignment; solo setup is frustrating due to the weight of the side rails"
   - "Fabric is a polyester blend that shows pet hair readily — keep a lint roller nearby"
+
 ---
 
 **The $300 question: Can a sub-$400 upholstered bed frame actually hold up?**

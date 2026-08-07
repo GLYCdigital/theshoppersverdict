@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Engineered Wood Plush Sisal Cat Skin Friendly Dura"
 seo_title: "Yaheetech Engineered Wood Plush Sisal Cat Skin Fri Review"
 meta_description: "Our full yaheetech engineered wood plush sisal cat skin friendly dura review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6GTWL56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KZfdPraPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most cat trees under $100 are glorified cardboard wrapped in carpet remnants. The Yaheetech Engineered Wood Plush Sisal Cat Tower isn't that. With a 4.7-star average across 235 ratings and a verdict score of 4.6, this thing earns its place in your living room — but it's not perfect.

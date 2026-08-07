@@ -1,4 +1,5 @@
 ---
+
 title: "Bleu De Chanel by Eau Parfum Spray for Men 3.4 oz"
 seo_title: "Bleu De Chanel Eau de Parfum Review: Worth It? (2026)"
 meta_description: "Honest Bleu De Chanel Eau de Parfum review: performance, longevity, and value. Is the 3.4 oz bottle worth $150+? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C619WL4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dB+xXgYHL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8-10 hours on skin, 12+ on clothing with the EDP concentration"
   - "Versatile enough for boardroom to date night; the citrus-woody-amber blend adapts to any setting"
   - "High-quality atomizer delivers a fine, even mist that covers well without wasting juice"
-cons:
+cons: 
   - "Premium price point — expect to pay $150+ for the 3.4 oz; flankers and dupes undercut it significantly"
   - "Projection is moderate, not a room-filler — you'll get compliments up close, not across a bar"
   - "After 4-5 hours it becomes a skin scent; reapplication needed for evening-long wear"
+
 ---
 
 **Is Bleu de Chanel worth the hype — and the price tag? After 210 Amazon ratings averaging 4.2 stars, this is a fragrance with real staying power in the men's grooming market. But "good" and "worth $150" are different questions. Here's the honest breakdown.**

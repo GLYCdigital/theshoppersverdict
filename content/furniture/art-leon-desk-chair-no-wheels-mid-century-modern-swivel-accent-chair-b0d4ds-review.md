@@ -1,4 +1,5 @@
 ---
+
 title: "Art Leon Desk Chair No Wheels - Mid Century Modern Swivel Ac"
 seo_title: "Art Leon Desk Chair No Wheels Review: Mid-Century Swivel"
 meta_description: "Art Leon desk chair no wheels review: mid-century swivel accent chair with solid wood legs. Is it worth it? Ratings, comfort, build quality, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4DSG4PK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XzC87Mh1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood legs with non-marking floor pads — no wheel scratches on hardwood"
   - "360-degree swivel mechanism rated for heavy daily use, tested to 100,000 rotations"
   - "High-density foam seat cushion holds shape after months of 8-hour workdays"
-cons:
+cons: 
   - "Armrests are fixed at a set height — not adjustable for taller users"
   - "Fabric upholstery shows lint and pet hair more readily than leather options"
+
 ---
 
 Let’s cut through the noise: most desk chairs under $200 are either rolling office chairs that look like they belong in a cubicle farm or accent chairs that sacrifice function for looks. The Art Leon Desk Chair No Wheels tries to split the difference. At 4.5 stars across 225 ratings, it’s clearly doing something right. But is it the right chair for your home office? That depends on how you work.

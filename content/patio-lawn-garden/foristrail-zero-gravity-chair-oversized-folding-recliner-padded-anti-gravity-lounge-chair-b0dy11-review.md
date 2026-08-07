@@ -1,4 +1,5 @@
 ---
+
 title: "Foristrail Zero Gravity Chair Oversized Folding Recliner, Pa"
 seo_title: "Foristrail Zero Gravity Chair Review: Oversized & Padded (2026)"
 meta_description: "Foristrail Zero Gravity Chair review: oversized, padded, and foldable. See how it holds up for tall users, real pros/cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY115VKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o9Smb4k7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly oversized 30-inch seat width accommodates tall and broad users comfortably"
   - "Thick quilted padding on seat and backrest stays supportive for 2+ hour lounging sessions"
   - "Locking mechanism holds position securely at multiple recline angles without slipping"
-cons:
+cons: 
   - "Folded dimensions are bulky — won't fit in standard car trunks without folding rear seats"
   - "Frame creaks audibly when shifting weight at full recline; not silent"
   - "Cup holder is shallow; standard 16oz tumblers tip easily when adjusting position"
+
 ---
 
 You know that moment when you sink into a zero-gravity chair and the world goes quiet? The Foristrail Oversized model aims to deliver that — plus extra room for people who've been squeezed out of standard-size loungers. After digging through 215 ratings and testing the build specs, here's what actually matters before you click buy.

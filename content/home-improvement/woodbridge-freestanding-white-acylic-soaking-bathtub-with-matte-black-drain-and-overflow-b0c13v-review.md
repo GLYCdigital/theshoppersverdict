@@ -1,4 +1,5 @@
 ---
+
 title: "WOODBRIDGE Freestanding White Acylic Soaking Bathtub with Ma"
 seo_title: "WOODBRIDGE Freestanding White Acylic Soaking Batht Review"
 meta_description: "Our full woodbridge freestanding white acylic soaking bathtub with ma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C13V22SJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s-Yc-5Y+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a freestanding soaking tub, you've probably seen the WOODBRIDGE name everywhere. With 225 ratings and a 4.5-star average, it's one of the more popular options in the sub-$1,000 category. But popularity alone doesn't tell you whether it's the right tub for your bathroom. Here's what you actually need to know.

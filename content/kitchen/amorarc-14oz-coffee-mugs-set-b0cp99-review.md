@@ -1,4 +1,5 @@
 ---
+
 title: "AmorArc 14oz Coffee Mugs set"
 seo_title: "AmorArc 14oz Coffee Mugs Review: Worth It? (2026)"
 meta_description: "AmorArc 14oz coffee mugs set review: 4.7-star rated. We test durability, heat retention, and comfort. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP99Q56L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fU-9JG7RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 7mm walls keep coffee hot 40% longer than standard diner mugs"
   - "Glazed interior is impervious to staining and holds no residual odors"
   - "Ergonomic handle fits two fingers comfortably — rare at this price point"
-cons:
+cons: 
   - "Heavier than expected at 1.1 lbs per mug — not ideal for arthritic hands"
   - "Not microwave-safe for more than 90 seconds due to thick ceramic heat retention"
+
 ---
 
 You've bought cheap mugs before. You know the drill — they chip, they stain, and your coffee goes cold before you finish the first paragraph of the news. The AmorArc 14oz set is aiming at that exact frustration. At $34.95 for a set of four, it's squarely in the "nice but not luxury" tier. Here's what you're actually getting.

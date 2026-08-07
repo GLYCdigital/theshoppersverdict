@@ -1,4 +1,5 @@
 ---
+
 title: "Curaprox Hydrosonic Electric Toothbrush with Charger and Tra"
 seo_title: "Curaprox Hydrosonic Review: Swiss-Made Sonic Toothbrush"
 meta_description: "Curaprox Hydrosonic review: 4.3-star rated Swiss sonic toothbrush with 5 cleaning modes, 3-week battery, and travel case. Is it worth the luxury price?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYMXL5PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SjTAiExHL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "62,000 brush strokes per minute with 5 distinct cleaning modes—significantly more power than most Sonicare models at this price"
   - "Three-week battery life on a single charge, verified by multiple reviewers, with a practical travel case that fits the charging base"
   - "Swiss-made Curen brush head with ultra-soft CS5460 bristles that dentists actually recommend for gum health"
-cons:
+cons: 
   - "Premium price point with no replacement heads included in the box—budget an extra $25+ for spares"
   - "Proprietary charging base means no USB-C option; the travel case doesn't hold the charger itself"
+
 ---
 
 # Curaprox Hydrosonic Electric Toothbrush Review: Swiss Precision Meets Real Brushing Power

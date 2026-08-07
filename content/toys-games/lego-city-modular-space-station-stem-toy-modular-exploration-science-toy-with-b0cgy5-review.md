@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Modular Space Station STEM Toy, Modular Exploratio"
 seo_title: "LEGO City Modular Space Station STEM Toy, Modular  Review"
 meta_description: "Our full lego city modular space station stem toy, modular exploratio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGY52ZQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CYnWlZn9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the LEGO City Modular Space Station the STEM toy your young astronaut actually needs? After digging through 229 ratings and the build's engineering, here's the honest breakdown.**

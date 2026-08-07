@@ -1,4 +1,5 @@
 ---
+
 title: "Dogswell Skin & Coat Dog Treats"
 seo_title: "Dogswell Skin & Coat Dog Treats Review (2026): Worth It?"
 meta_description: "Honest Dogswell Skin & Coat Dog Treats review: ingredients, real buyer feedback, and whether these salmon-based chews actually improve dog skin and coat."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CL8WZZHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vgVUwDKtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Salmon is the first ingredient, backed by flaxseed for a genuine omega-3/6 fatty acid profile that targets skin and coat health at the source"
   - "Soft, chewy texture that works well for senior dogs or small breeds with dental sensitivity — no rock-hard biscuits here"
   - "Made in the USA with no corn, wheat, or soy, which eliminates common allergens that often trigger itchy, flaky skin"
-cons:
+cons: 
   - "Price per ounce runs higher than standard grocery-store biscuits — you're paying for the functional ingredient blend"
   - "The fishy salmon scent is noticeable when you open the bag; sensitive noses in the house may object"
+
 ---
 
 You can buy a dog treat that's basically a shaped biscuit with food coloring, or you can buy one that actually does something. Dogswell's Skin & Coat treats fall firmly into the second camp — and at 4.5 stars across 225 Amazon ratings, owners are noticing the difference.

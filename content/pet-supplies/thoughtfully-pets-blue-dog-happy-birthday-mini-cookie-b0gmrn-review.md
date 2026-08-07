@@ -1,4 +1,5 @@
 ---
+
 title: "Thoughtfully Pets, Blue Dog Happy Birthday Mini Cookie"
 seo_title: "Thoughtfully Pets, Blue Dog Happy Birthday Mini Co Review"
 meta_description: "Our full thoughtfully pets, blue dog happy birthday mini cookie review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMRNDWLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81inx18xLkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "birthday" dog treats are junk shaped like bones, loaded with artificial dyes and enough sugar to make a toddler hyperactive. The Thoughtfully Pets Blue Dog Happy Birthday Mini Cookie is not that. It's a small, thoughtfully-made (the name checks out) treat designed to make your dog's birthday feel special without turning their digestive system into a science experiment.

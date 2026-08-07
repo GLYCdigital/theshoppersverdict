@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStation VR2 Horizon Call of The Mountainâ„¢ Bundle (PSVR"
 seo_title: "PlayStation VR2 Horizon Call of The Mountainâ„¢ Bu Review"
 meta_description: "Our full playstation vr2 horizon call of the mountainâ„¢ bundle (psvr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C1Q9X8VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jPxZuLTzL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're on the fence about the PlayStation VR2, the Horizon Call of the Mountain bundle is the version to buy — not because the headset is perfect, but because it's the best-value entry point into Sony's current-gen VR ecosystem. At 4.3 stars across 215 ratings, it's clear most buyers feel the same way.

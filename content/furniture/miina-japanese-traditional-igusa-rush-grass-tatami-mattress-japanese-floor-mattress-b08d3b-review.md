@@ -1,4 +1,5 @@
 ---
+
 title: "MIINA Japanese Traditional Igusa (Rush Grass) Tatami Mattres"
 seo_title: "MIINA Japanese Traditional Igusa (Rush Grass) Tata Review"
 meta_description: "Our full miina japanese traditional igusa (rush grass) tatami mattres review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08D3B2748/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91lWopHl4LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The MIINA Igusa Tatami Mat delivers the real Japanese floor-sleeping experience at a fair price — but only if you understand what you're buying. This isn't a mattress. It's a surface layer. Buy it for what it is, and you'll love it. Expect plush cushioning, and you'll be disappointed.

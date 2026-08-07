@@ -1,4 +1,5 @@
 ---
+
 title: "Gardner Pet Dog Playpens,Black"
 seo_title: "Gardner Pet Dog Playpen Review: Solid, Safe, Worth It?"
 meta_description: "Gardner Pet Dog Playpen review: 4.5-star rated, 225+ reviews. Is this black metal pen worth your money? Read our honest take on build, portability, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GT95T2VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gL14zufiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "All-steel frame with anti-rust coating holds up outdoors in rain and humidity without flaking"
   - "Folds flat in under a minute with no tools — fits in a car trunk for travel or storage"
   - "Oversized latch doors swing both directions, making it easy to attach to a crate or house doorway"
-cons:
+cons: 
   - "No ground anchors included — larger or determined dogs can push it across smooth floors"
   - "Assembly instructions are minimal; you'll likely need to figure out the panel order yourself"
+
 ---
 
 Let me save you some scrolling: if you need a sturdy, portable outdoor enclosure that doesn't require a PhD in assembly, the Gardner Pet Dog Playpen is worth a serious look. But it's not perfect, and depending on your dog's size and determination, you may need to buy a few accessories alongside it.

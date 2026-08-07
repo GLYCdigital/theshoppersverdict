@@ -1,4 +1,5 @@
 ---
+
 title: "Botanicare A Calcium, Magnesium, and Iron Plant Supplement"
 seo_title: "Botanicare A Review: Calcium, Magnesium & Iron for Plants"
 meta_description: "Botanicare A Calcium, Magnesium, and Iron Plant Supplement review: Does it fix deficiencies? Real grower feedback, dosing tips, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C31BDHV9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Mb3u-UExL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chelated iron and calcium formulation corrects multiple deficiencies with one product"
   - "Works in both soil and hydroponic systems without pH swings when used as directed"
   - "1-gallon size with concentrated dosing — a bottle lasts most home growers 6+ months"
-cons:
+cons: 
   - "Strong odor that lingers after mixing — noticeable in small indoor spaces"
   - "Requires separate pH testing; wrong dosing can lock out nutrients rather than fix them"
+
 ---
 
 If your plants have yellowing leaves with green veins, or your tomatoes are showing blossom-end rot, you're dealing with a calcium-magnesium deficiency — and Botanicare A is the supplement most growers reach for. With a 4.7-star average across 235 ratings, this isn't an obscure product. It's a proven fix. But it's also a concentrated nutrient additive, not a magic spray, and it demands a little respect when you're measuring it out.

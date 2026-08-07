@@ -1,4 +1,5 @@
 ---
+
 title: "Lawrence Extra Heavy Duty Door Closer Commercial Grade 1 - A"
 seo_title: "Lawrence Extra Heavy Duty Door Closer Commercial G Review"
 meta_description: "Our full lawrence extra heavy duty door closer commercial grade 1 - a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07D438DNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aahwfEgkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a door closer and you've seen those $25 residential units with plastic gears, stop right there. The Lawrence Extra Heavy Duty Door Closer is a different animal entirely. This is a certified ANSI/BHMA Grade 1 closer — the same class used on school entrances, hospital corridors, and commercial storefronts that see thousands of cycles a day. At 4.3 stars across 215 ratings, it's proven, but it's not perfect. Here's the real story.

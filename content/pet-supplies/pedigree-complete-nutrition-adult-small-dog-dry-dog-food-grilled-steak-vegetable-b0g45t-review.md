@@ -1,4 +1,5 @@
 ---
+
 title: "Pedigree Complete Nutrition Adult Small Dog Dry Dog Food, Gr"
 seo_title: "Pedigree Complete Nutrition Adult Small Dog Dry Do Review"
 meta_description: "Our full pedigree complete nutrition adult small dog dry dog food, gr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G45TGX1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hXB2u7h9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a Yorkie, Chihuahua, or any dog under 20 pounds, you already know the struggle: most kibble is too big for their mouths, and they either choke, drop pieces everywhere, or just refuse to eat. Pedigree's Complete Nutrition Small Dog formula directly addresses that problem with kibble sized at roughly 8–9mm — small enough for a teacup pup to crunch without drama.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ruzectt Ceramics Table Lamps Set of 2"
 seo_title: "Ruzectt Ceramics Table Lamps Set of 2 Review: Verdict | T"
 meta_description: "Our full ruzectt ceramics table lamps set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX271542/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zUHHe0lgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between the cheap plastic lamps that tip over and the $150-per-piece designer ceramics, there's a sweet spot. The Ruzectt Ceramics Table Lamps Set of 2 lives there. With 225 ratings averaging 4.5 stars, this set has clearly earned its place in a lot of living rooms. But is it right for yours? Let's break down what you're actually getting.

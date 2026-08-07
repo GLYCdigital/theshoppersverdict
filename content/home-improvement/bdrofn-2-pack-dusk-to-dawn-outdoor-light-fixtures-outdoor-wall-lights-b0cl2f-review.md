@@ -1,5 +1,6 @@
 ---
 
+
 title: "Bdrofn 2-Pack Dusk to Dawn Outdoor Light Fixtures,Outdoor Wa"
 seo_title: "Bdrofn Dusk to Dawn Outdoor Lights Review: 2-Pack Value"
 meta_description: "Bdrofn 2-pack dusk to dawn outdoor wall lights reviewed: build quality, sensor reliability, brightness, and installation. Is this $40 fixture worth it?"
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CL2F589D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Dz1yAMN2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED panels push 1200 lumens each — genuinely useful light for doorways and garages, not just accent glow"
   - "Photocell sensor is responsive and consistent; turns on at dusk, off at dawn without the flickering or lag common in budget fixtures"
   - "Die-cast aluminum housing with powder-coat finish feels substantial; won't rust or fade after two seasons like plastic rivals"
-cons:
+cons: 
   - "Non-replaceable LED board means the whole fixture is landfill when the diodes die — expect 3-5 years, not 15 inch"
   - "Mounting plate is thin gauge steel; careful with screw torque or you'll strip the threads"
   - "Sensor's light threshold is fixed — you can't adjust it to ignore a bright porch light or streetlamp nearby"
+
 
 ---
 

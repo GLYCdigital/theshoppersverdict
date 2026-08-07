@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Beautiful Belle Eau de Parfum Spray with Notes"
 seo_title: "Estée Lauder Beautiful Belle Review: Modern Floral (2026)"
 meta_description: "Honest Estée Lauder Beautiful Belle review: a modern floral twist on the classic. Longevity, sillage, and who should buy it — plus real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07XLC9NV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VwQ2ful3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fresh, modern rose-and-peony blend that avoids the powdery heaviness of the original Beautiful"
   - "Strong longevity — 8+ hours on skin with moderate sillage that projects without overwhelming"
   - "Elegant, weighty glass bottle with rose-gold accents that looks far more expensive than its price point"
-cons:
+cons: 
   - "Fragrance fades noticeably on fabric — best longevity is skin-to-skin, not on clothing"
   - "Opening has a sharp citrus burst that reads synthetic to some noses for the first 10 minutes"
+
 ---
 
 Let's get one thing out of the way: Estée Lauder's original Beautiful has been a bridal-shower staple since 1985, and it smells exactly like it. Dense, powdery, unapologetically old-school. Beautiful Belle is not that perfume. It's the younger sister who borrowed the family jewels but styled them with sneakers.

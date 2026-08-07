@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Salt Free Roasted Garlic"
 seo_title: "McCormick Salt Free Roasted Garlic Review: Verdict | TSV"
 meta_description: "Our full mccormick salt free roasted garlic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWKCKPX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xyKLzwl4L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

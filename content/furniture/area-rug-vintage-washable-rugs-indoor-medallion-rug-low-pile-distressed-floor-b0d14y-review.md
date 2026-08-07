@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug Vintage Washable Rugs: Indoor Medallion Rug Low Pil"
 seo_title: "Vintage Washable Medallion Area Rug Review (2026)"
 meta_description: "Honest review of the Vintage Washable Medallion Area Rug: low-pile durability, stain resistance, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D14YRK56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GBNv0uupL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True machine-washable construction that survives repeated cycles without fraying or pilling"
   - "Low-pile height (under 0.5 inches) works flush under doors and won't trip robot vacuums"
   - "Distressed medallion pattern effectively hides pet hair and everyday dirt between cleanings"
-cons:
+cons: 
   - "Thinner than traditional plush rugs — not ideal for hard tile or concrete floors without a pad"
   - "Initial chemical smell lingers 3-5 days even after airing out"
+
 ---
 
 **Bottom line: This is the rare area rug that actually survives being washed.** Most "washable" rugs on Amazon fall apart after one cycle. This one doesn't. With 225 ratings averaging 4.5 stars, it's not perfect—but for high-traffic homes with kids or pets, it's a genuinely smart buy.

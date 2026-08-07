@@ -1,7 +1,8 @@
 ---
-title: "HP Elitebook 660 G11 16\" FHD+ Business Laptop Computer, Inte"
-seo_title: "HP Elitebook 660 G11 16\" FHD+ Business Laptop Comp Review"
-meta_description: "Our full hp elitebook 660 g11 16\" fhd+ business laptop computer, inte review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Elitebook 660 G11 16\ FHD+ Business Laptop Computer, Inte"
+seo_title: "HP Elitebook 660 G11 16\ FHD+ Business Laptop Comp Review"
+meta_description: "Our full hp elitebook 660 g11 16\ fhd+ business laptop computer, inte review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-elitebook-660-g11-16-fhd-business-laptop-computer-intel-12-core-b0cm3j-review"
 image_alt: "HP Elitebook 660 G11 16 FHD+ Business Laptop Computer, Intel 12-Core Ultra 5 125U (Beat i7-1355U), 32GB DDR5 RAM, 1TB PC"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CM3JBW5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OXxN1CsZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Elitebook 660 G11 isn't trying to be flashy. It's a workhorse dressed in a charcoal-gray aluminum shell, built for people who spend more time in spreadsheets than in photo editors. But with a 3.9-star average across 195 Amazon ratings, the buying public has mixed feelings. Here's what's actually going on beneath the hood.

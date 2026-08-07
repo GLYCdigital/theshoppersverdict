@@ -1,4 +1,5 @@
 ---
+
 title: "ACCELLEA Torque Limiting Extension Bar Set, 1/2 inch  Drive, 8 inch  L"
 seo_title: "ACCELLEA Torque Limiting Extension Bar Review (1/2 inch  Drive)"
 meta_description: "ACCELLEA torque limiting extension bar set review: 1/2 inch  drive, 8 inch  long, CR-V steel. Real-world testing, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWWVQTDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ar1XgfV8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Prevents over-torquing on aluminum wheels and delicate fasteners — saves costly damage"
   - "Solid CR-V steel build with clean laser-etched torque markings that stay legible"
   - "Eliminates the need for a separate torque wrench on repetitive lug nut work"
-cons:
+cons: 
   - Fixed 8 inch " length limits reach in deep wheel wells or recessed fasteners
   - "Three-bar set covers common torques, but oddball specs (like 95 ft-lb) need a different solution"
+
 ---
 
 If you've ever watched a tire shop impact gun rattle lug nuts to 150 ft-lbs and cringed, the ACCELLEA Torque Limiting Extension Bar Set is the $30-ish insurance policy you didn't know you needed. This isn't a gimmick — it's a mechanical torque limiter that physically stops over-tightening at a preset spec, and it's been earning 4.5 stars from 225 buyers for good reason.

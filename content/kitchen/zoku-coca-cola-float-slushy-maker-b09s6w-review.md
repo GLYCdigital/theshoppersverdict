@@ -1,4 +1,5 @@
 ---
+
 title: "ZOKU Coca-Cola Float & Slushy Maker"
 seo_title: "ZOKU Coca-Cola Float & Slushy Maker Review: Verdict | TSV"
 meta_description: "Our full zoku coca-cola float & slushy maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09S6W635N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p8mKzOM6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ZOKU Coca-Cola Float & Slushy Maker is one of those products that sounds like a gimmick until you actually use it. Then you realize it's a cleverly engineered piece of kitchen tech that solves a real problem: how do you get a proper Coke slushy at home without a $300 commercial machine or a bag of ice and salt?

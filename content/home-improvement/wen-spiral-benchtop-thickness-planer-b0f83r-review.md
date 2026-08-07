@@ -1,4 +1,5 @@
 ---
+
 title: "WEN Spiral Benchtop Thickness Planer"
 seo_title: "WEN Spiral Benchtop Thickness Planer Review: Verdict | TS"
 meta_description: "Our full wen spiral benchtop thickness planer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F83RMCKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Y-IhDKBS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever run a board through a straight-knife planer and watched the grain tear out like a bad haircut, you already know why the WEN Spiral Benchtop Thickness Planer has earned its 4.5-star rating across 225 reviews. This isn't just another benchtop planer—it's the one that answers the two biggest complaints woodworkers have about budget-friendly thicknessing: chatter marks and screaming noise.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 2-Inch Olympic Rubber Weight Plates Sets, Bumper Pla"
 seo_title: "Fitvids Olympic Bumper Plates Review: Honest 2026 Verdict"
 meta_description: "Fitvids 2-inch Olympic rubber bumper plates reviewed: durability, bounce, smell, and value. See real owner feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G6JPNZX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719kAcyMLhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crumb rubber construction holds up to repeated drops on concrete without chunking or cracking"
   - "True 2-inch Olympic center hole fits standard bars snugly with minimal play during squats and deadlifts"
   - "Barely any off-gassing out of the box; usable within a day in a garage gym"
-cons:
+cons: 
   - "Loose 2.5 lb and 5 lb change plates feel flimsy and wobble on the bar — buy branded fractional plates separately"
   - "Rubber smell lingers for about a week even after airing out, noticeable in small enclosed spaces"
   - "Tolerance on the 45 lb pair runs slightly heavy (up to +2%), which matters for competition lifters"
+
 ---
 
 Let’s cut through the noise: bumper plates are a boring purchase, but the wrong set will ruin your floor, your bar, and your patience. The Fitvids 2-Inch Olympic Rubber Weight Plates have carved out a niche as the budget-friendly option that actually holds up. With a 4.4-star average across 220 ratings, the consensus is clear — these plates work. But they’re not perfect, and you need to know exactly where they cut corners before you click buy.

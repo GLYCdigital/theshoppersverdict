@@ -1,4 +1,5 @@
 ---
+
 title: "ECOTREE Pencils #2 HB Pencils"
 seo_title: "ECOTREE Pencils #2 HB Review: Eco-Friendly Writing (2026)"
 meta_description: "ECOTREE Pencils #2 HB review: Are these recycled, pre-sharpened pencils worth buying? Real performance, durability, and value breakdown."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1YQGWLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F2w1+fGEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, consistent HB lead that rarely snaps during sharpening or writing"
   - "Genuinely eco-friendly construction — recycled wood and natural finish, no paint or lacquer"
   - "Pre-sharpened with sturdy tips that survive shipping and first use"
-cons:
+cons: 
   - "Eraser quality is mediocre — smudges more than it lifts cleanly"
   - "Wood is softer than premium brands like Ticonderoga, so sharpening wears down pencils faster"
+
 ---
 
 Most pencil reviews are about graphite, wood, and erasers. The ECOTREE #2 HB Pencil is really about a question: can an eco-conscious pencil actually perform like a workhorse, or is it just a feel-good purchase? After digging through the 4.7-star rating across 235 reviews, the answer is more nuanced than you'd expect.

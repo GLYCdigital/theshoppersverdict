@@ -1,4 +1,5 @@
 ---
+
 title: "24 inch  x 30 inch  Reversible Metal Backsplash Matching screws | Comp"
 seo_title: "24x30 Reversible Metal Backsplash Review: Worth It?"
 meta_description: "Honest review of the 24 inch x30 inch  reversible metal backsplash with matching screws. Is it a Broan-NuTone compatible upgrade? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B935ZTRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qhflxJm3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reversible design offers two finishes in one product — essentially buying two looks for the price of one"
   - "Matching screws included, eliminating the frustrating hunt for hardware that actually fits"
   - "Precisely cut for Broan-NuTone range hood compatibility — no drilling, filing, or swearing required"
-cons:
+cons: 
   - "Only fits Broan-NuTone models; owners of other range hood brands will need to verify measurements carefully"
   - "Metal surface shows fingerprints and water spots easily — expect to wipe it down regularly"
   - The 24 inch "x30 inch " size is non-negotiable; you can't trim it down without risking sharp edges
+
 ---
 
 If you've ever replaced a range hood, you know the pain: you buy a backsplash panel, and it doesn't line up with the mounting holes. Or the included hardware is garbage. Or the finish looks nothing like the product photo. This 24" x 30" reversible metal backsplash from a third-party manufacturer aims to eliminate all three headaches. Here's what I found after digging through 215 ratings and the spec sheet.

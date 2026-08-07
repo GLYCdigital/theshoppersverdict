@@ -1,4 +1,5 @@
 ---
+
 title: "12-Cup Replacement Coffee Carafe Compatible with Hamilton Be"
 seo_title: "12-Cup Hamilton Beach Carafe Review: Worth It? (2026)"
 meta_description: "Honest 12-cup replacement coffee carafe review for Hamilton Beach brewers. Real fit data, durability concerns, and buyer feedback. Is it worth $20?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8J8LXLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+3X-OaGNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-fit glass and lid assembly that clicks securely onto Hamilton Beach 12-cup bases without wobble or alignment issues"
   - "Sturdy ergonomic handle with heat-resistant grip that stays cool during brewing cycles"
   - "Marked 12-cup capacity line is accurate — not optimistic like some third-party carafes"
-cons:
+cons: 
   - "Glass is thinner than the OEM Hamilton Beach carafe — drops are less forgiving"
   - "Lid gasket requires firm pressure to seat properly on first few uses"
+
 ---
 
 Let's be direct: if you've shattered your original Hamilton Beach carafe (and statistically, you will — it's the most common coffee maker failure point), you're staring at two options. Pay $25–35 for OEM glass, or gamble on this third-party replacement at roughly half the price. With 229 ratings averaging 4.6 stars, the crowd says gamble. Here's whether you should.

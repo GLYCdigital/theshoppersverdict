@@ -1,4 +1,5 @@
 ---
+
 title: "Washable Area Rugs for Living Room: Runner Rugs Stain Resist"
 seo_title: "Washable Area Rugs for Living Room: Runner Rugs St Review"
 meta_description: "Our full washable area rugs for living room: runner rugs stain resist review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRH4P64P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i8KcHvd3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a stain on your runner rug that's been there since Tuesday. You've blotted, sprayed, and scrubbed, and it still looks like a crime scene. This washable runner rug is the product that promises to end that cycle — and after digging through 220 ratings and the construction specs, I'll tell you straight whether it delivers.

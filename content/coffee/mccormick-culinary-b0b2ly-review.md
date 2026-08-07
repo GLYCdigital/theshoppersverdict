@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Culinary"
 seo_title: "McCormick Culinary Review: Verdict | TSV"
 meta_description: "Our full mccormick culinary review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2LY68VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ujAvyyPcL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 McCormick Culinary isn't a name most shoppers associate with coffee. The brand built its reputation on spices and extracts. But this professional-grade coffee line, sold in the familiar bulk packaging the company uses for restaurant suppliers, has quietly earned a 4.8-star average from 240 Amazon ratings. The question is whether a spice company can actually deliver a coffee worth brewing daily. After digging through the specs and buyer feedback, here's the real story.

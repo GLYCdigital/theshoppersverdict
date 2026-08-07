@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Carousel Kids Collection Area Rug - 10' x 14', Grey"
 seo_title: "SAFAVIEH Carousel Kids Collection Area Rug - 10' x Review"
 meta_description: "Our full safavieh carousel kids collection area rug - 10' x 14', grey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP7SGFDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1SKXMAkrnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10x14 rug is a commitment — in space, money, and cleaning effort. So when SAFAVIEH's Carousel Kids Collection rug in grey started racking up 4.5 stars from 225 reviewers, I dug into what owners actually say. Here's the unvarnished truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Decay All Nighter Extra Glow Dewy Makeup Setting Spray"
 seo_title: "Urban Decay All Nighter Extra Glow Dewy Makeup Set Review"
 meta_description: "Our full urban decay all nighter extra glow dewy makeup setting spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08FBL831S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uy73FSl-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Urban Decay All Nighter Extra Glow Dewy Makeup Setting Spray Review

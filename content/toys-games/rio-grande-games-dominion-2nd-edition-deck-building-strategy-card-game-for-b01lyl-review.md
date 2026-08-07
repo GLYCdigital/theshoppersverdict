@@ -1,4 +1,5 @@
 ---
+
 title: "Rio Grande Games Dominion 2nd Edition Deck Building Strategy"
 seo_title: "Rio Grande Games Dominion 2nd Edition Deck Buildin Review"
 meta_description: "Our full rio grande games dominion 2nd edition deck building strategy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B01LYLIS2U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ma5Q1PyGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Dominion didn't just popularize deck-building — it *invented* the genre. Over 15 years later, the 2nd Edition proves the original is still the benchmark. If you've never played a deck-builder, this is the game that started it all. If you have, this revised edition fixes most of the original's flaws while keeping everything that made it a legend.

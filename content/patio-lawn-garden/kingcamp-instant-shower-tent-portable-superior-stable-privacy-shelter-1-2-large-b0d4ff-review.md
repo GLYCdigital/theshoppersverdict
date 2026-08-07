@@ -1,4 +1,5 @@
 ---
+
 title: "KingCamp Instant Shower Tent, Portable Superior Stable Priva"
 seo_title: "KingCamp Instant Shower Tent, Portable Superior St Review"
 meta_description: "Our full kingcamp instant shower tent, portable superior stable priva review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4FFGK3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615IvwUZYzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a shower tent actually is: a nylon box that pops up so you don't moon the entire campground. The KingCamp Instant Shower Tent does that job well, and it adds some genuine upgrades that justify the price premium over the $30 no-name options.

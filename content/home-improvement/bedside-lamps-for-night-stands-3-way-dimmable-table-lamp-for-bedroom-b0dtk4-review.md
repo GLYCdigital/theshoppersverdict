@@ -1,4 +1,5 @@
 ---
+
 title: "Bedside Lamps for Night Stands - 3 Way Dimmable Table Lamp f"
 seo_title: "Bedside Lamps for Night Stands: 3-Way Dimmable Review"
 meta_description: "Honest review of 3-way dimmable bedside lamps for night stands. See real pros, cons, and buyer feedback before you buy. 4.4-star rated."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTK47CZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mgRucWSCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct brightness levels (low/medium/high) via a simple push-button on the base — no fiddly touch sensors"
   - "Sturdy weighted base prevents tipping, even when you bump it reaching for your phone at 2 AM"
   - "Fabric drum shade diffuses light evenly without harsh glare — comfortable for reading or winding down"
-cons:
+cons: 
   - "Requires an E26 bulb (not included), so factor in the extra cost if you don't already own one"
   - "Shade is fabric over a thin frame — feels slightly less premium up close than product photos suggest"
+
 ---
 
 Let's cut to the chase: a bedside lamp needs to do three things — provide light without blinding you, fit on a night stand without dominating it, and survive being knocked around in the dark. This 3-way dimmable model from the generic Amazon home-goods space mostly delivers on all three, and that's why it's sitting at 4.4 stars from 220 buyers. But "mostly" is doing some heavy lifting here.

@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Mid Century Modern Accent Chair Set,"
 seo_title: "COLAMY Mid Century Modern Accent Chair Set Review (2026)"
 meta_description: "COLAMY Mid Century accent chair set review: comfort, build quality, and real buyer feedback. Is this 2-pack worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPN9ZLKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wNTv8aBML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Set of two chairs means you get a complete seating arrangement without hunting for a matching piece"
   - "Solid rubberwood legs with a tapered mid-century profile that actually support the frame — no wobble reported"
   - "Firm but forgiving foam cushion that holds its shape after months of daily use, per multiple long-term reviews"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 30 minutes per chair — not tool-free despite the simple look"
   - "Light gray upholstery shows stains and pet hair quickly; buyers with kids or animals should order a darker color"
+
 ---
 
 **If you've been scrolling past the same generic fabric chairs with flimsy metal legs, this COLAMY set stops the scroll.** The two-pack mid-century accent chairs bring a retro silhouette — think curved plywood back, tapered solid wood legs, and channel-tufted upholstery — to your living room for roughly the price of one designer chair. With a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the honest breakdown.

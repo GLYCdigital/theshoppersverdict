@@ -1,4 +1,5 @@
 ---
+
 title: "Hasuit 6 Drawers Dresser for Bedroom, Farmhouse Chest of Dra"
 seo_title: "Hasuit 6 Drawer Dresser Review: Farmhouse Storage Worth It?"
 meta_description: "Honest Hasuit 6 Drawers Dresser review: build quality, real storage capacity, assembly pain points, and who should buy this farmhouse chest."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D875MV7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Full-extension ball-bearing drawer glides hold up to 30 lbs without sagging"
   - "Solid engineered wood frame with a faux-wood grain that reads as real from 3 feet away"
   - "Anti-tip kit and wall anchor included — rare at this price point"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes; drawer fronts arrive unattached and require careful alignment"
   - "The 'farmhouse' finish is vinyl laminate, not real wood — chips if you bang furniture into it"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Orange Slices | 2 Pound Bag - Approx. 70 Count | Jelly Candy"
 seo_title: "Orange Slices | 2 Pound Bag - Approx. 70 Count | J Review"
 meta_description: "Our full orange slices | 2 pound bag - approx. 70 count | jelly candy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0C9X9GTGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nm8Bw54zL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You want orange jelly slices. You see a 2-pound bag for a reasonable price and 190 ratings. Here’s the honest breakdown before you hit buy.  

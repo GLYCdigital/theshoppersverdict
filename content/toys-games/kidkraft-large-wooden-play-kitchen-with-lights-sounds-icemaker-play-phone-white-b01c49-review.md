@@ -1,4 +1,5 @@
 ---
+
 title: "KidKraft Large Wooden Play Kitchen with Lights & Sounds, Ice"
 seo_title: "KidKraft Large Wooden Play Kitchen with Lights & S Review"
 meta_description: "Our full kidkraft large wooden play kitchen with lights & sounds, ice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01C49MCEQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c2sVH4+NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The KidKraft Large Wooden Play Kitchen: Is It Worth the Floor Space?

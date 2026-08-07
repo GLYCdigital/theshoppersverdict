@@ -1,4 +1,5 @@
 ---
+
 title: "Deezio Interlocking Stencil Set of Numbers and Letters Kit"
 seo_title: "Deezio Interlocking Stencil Set Review: Numbers & Letters"
 meta_description: "Honest Deezio Interlocking Stencil Set review: 4.4-star rated numbers & letters kit. See how these flexible stencils hold up for crafts, journals & labeling."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07QP6W398/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31lcBTVJSZL._AC_US40_.jpg"
-pros:
+pros: 
   - "Flexible, crack-resistant material wraps around curved surfaces like bottles and journals without snapping"
   - "Interlocking design lets you build continuous words or numbers without gaps — no more misaligned letters"
   - "Full A-Z plus 0-9 in multiple font sizes, giving real versatility for everything from envelope addressing to sign-making"
-cons:
+cons: 
   - "Smaller stencils are fiddly; keeping them flat while stenciling requires both hands or painter's tape"
   - "No storage case included — expect to rig your own organization or the pieces will scatter in a drawer"
+
 ---
 
 If you've ever fought with flimsy cardboard stencils that buckle mid-letter, you know the frustration. The Deezio Interlocking Stencil Set takes a different approach — these are flexible, plastic templates that link together like puzzle pieces. After working with them across several projects, here's what you need to know before buying.

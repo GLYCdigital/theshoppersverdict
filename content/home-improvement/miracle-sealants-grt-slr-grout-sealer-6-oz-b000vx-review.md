@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle Sealants GRT SLR, Grout Sealer, 6 oz."
 seo_title: "Miracle Sealants GRT SLR, Grout Sealer, 6 oz. Review: Ver"
 meta_description: "Our full miracle sealants grt slr, grout sealer, 6 oz. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B000VX1X7U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PKoZP3TKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Miracle Sealants GRT SLR Grout Sealer, 6 oz. — The Small Bottle That Punches Above Its Weight**

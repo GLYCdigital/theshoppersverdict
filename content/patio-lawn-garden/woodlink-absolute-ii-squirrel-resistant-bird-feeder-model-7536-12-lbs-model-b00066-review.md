@@ -1,4 +1,5 @@
 ---
+
 title: "Woodlink Absolute II Squirrel Resistant Bird Feeder Model 75"
 seo_title: "Woodlink Absolute II Squirrel Resistant Bird Feede Review"
 meta_description: "Our full woodlink absolute ii squirrel resistant bird feeder model 75 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000667W4A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mRqnw+IlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The war between backyard birders and squirrels is eternal. Most feeders surrender within a month — either the squirrels chew through the plastic, or the weight mechanism jams and traps birds. The Woodlink Absolute II Model 75 is different, and after reading through 225 ratings at 4.5 stars, the consensus is clear: this thing actually works.

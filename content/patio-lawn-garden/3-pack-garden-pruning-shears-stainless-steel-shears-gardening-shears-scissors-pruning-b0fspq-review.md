@@ -1,4 +1,5 @@
 ---
+
 title: "3 Pack Garden Pruning Shears, Stainless Steel Shears, Garden"
 seo_title: "3 Pack Garden Pruning Shears Review (2026): Worth It?"
 meta_description: "Honest 3 pack garden pruning shears review: stainless steel blades, ergonomic grips, real-world cutting tests, and who should buy. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSPQPFJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J90Qi9jcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True stainless steel blades that resist sap buildup and rust after repeated wet-season use"
   - "Three distinct sizes cover everything from bonsai detail work to 1-inch hardwood branches"
   - "Spring-loaded handles with a thumb-lock that actually holds — no accidental closing in storage"
-cons:
+cons: 
   - "No included holster or belt clip; you'll need to buy or rig your own carrying solution"
   - "Blades arrive sharp but not scalpel-sharp — heavier pruning requires a few passes on a sharpening stone"
+
 ---
 
 You know that feeling when you grab your pruners mid-season and the blade has turned into a gummed-up, rust-speckled mess? This 3-pack from the stainless steel shears lineup is designed to eliminate that exact problem. At 4.6 stars across 229 ratings, it's not a flashy purchase — but it might be the last set of basic pruners you buy for a while.

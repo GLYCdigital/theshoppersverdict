@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Petite Gourmet Portable Gas Grill with VersaStand,"
 seo_title: "Cuisinart Petite Gourmet Portable Gas Grill Review (2026)"
 meta_description: "Honest Cuisinart Petite Gourmet portable gas grill review: VersaStand versatility, real-world performance, and who should skip it. 4.2/5 rating."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B004H4WW9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nr5BdNrKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "VersaStand flips between tabletop and freestanding leg modes in seconds — no tools needed"
   - "Rolled-steel burner puts out 9,500 BTUs, enough to sear burgers hot enough for a proper crust"
   - "Porcelain-enameled grates resist rust and wipe clean with a damp paper towel"
-cons:
+cons: 
   - "The 145 sq. in. cooking surface fits about 6 burgers max — crowd cooking will frustrate you"
   - "No built-in thermometer on the lid; you'll need a probe for anything thicker than a flank steak"
   - "Legs feel stable but not rock-solid on uneven patio stones — watch for wobble on slopes"
+
 ---
 
 Here's the thing about portable grills: most of them are compromises welded into a box. The Cuisinart Petite Gourmet with VersaStand tries to be two things at once — a tailgating buddy and a balcony workhorse — and for the most part, it pulls it off. But "most part" is doing heavy lifting, so let's dig into what 210 Amazon reviewers at 4.2 stars are actually saying.

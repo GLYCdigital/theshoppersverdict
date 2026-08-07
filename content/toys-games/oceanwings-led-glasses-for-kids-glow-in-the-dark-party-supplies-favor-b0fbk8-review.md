@@ -1,4 +1,5 @@
 ---
+
 title: "OceanWings LED Glasses for kids Glow in the dark Party Suppl"
 seo_title: "OceanWings LED Glasses for kids Glow in the dark P Review"
 meta_description: "Our full oceanwings led glasses for kids glow in the dark party suppl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBK89SGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91CGtkrNveL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re planning a glow party, a Halloween costume, or just need something that makes your kid the most visible human in a dark room, the OceanWings LED Glasses are the cheap thrill that actually delivers. With a 4.5-star average across 225 ratings, these aren't a gimmick that dies after one use — but they're not perfect either. Here's what you need to know before adding them to your cart.

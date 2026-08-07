@@ -1,4 +1,5 @@
 ---
+
 title: "LYKOCLEAN Herb Seed Pod Kit Compatible with AeroGarden Hydro"
 seo_title: "LYKOCLEAN Herb Seed Pod Kit Compatible with AeroGa Review"
 meta_description: "Our full lykoclean herb seed pod kit compatible with aerogarden hydro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F7QWMXMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZwZEfuRKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an AeroGarden, you already know the dirty secret: the brand-name pods are expensive, and the selection is thin. The LYKOCLEAN Herb Seed Pod Kit steps into that gap with six popular culinary herbs at a fraction of the cost. But does it actually work in your machine, or is it another third-party gamble? I've dug through the 200 ratings and the technical specs to give you the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Vanity with Mirror and Lights"
 seo_title: "Vanity with Mirror and Lights Review: Verdict | TSV"
 meta_description: "Our full vanity with mirror and lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DT1G1H2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zK+q2JGQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever done makeup in bad lighting, you know the struggle: one side of your face looks fine, the other looks like a crime scene. This vanity with mirror and lights is designed to fix that — and for the most part, it delivers.

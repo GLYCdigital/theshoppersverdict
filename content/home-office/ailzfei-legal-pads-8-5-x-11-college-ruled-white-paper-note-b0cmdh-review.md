@@ -1,23 +1,25 @@
 ---
+
 title: "AILZFEI Legal Pads 8.5 x 11 College Ruled White Paper Note P"
 seo_title: "AILZFEI Legal Pads Review: 8.5x11 College Ruled Worth It?"
 meta_description: "AILZFEI Legal Pads 8.5x11 college ruled review: 50 sheets, perforated pages, smooth paper. See pros, cons, and who should buy before you spend $19.99."
 slug: "ailzfei-legal-pads-8-5-x-11-college-ruled-white-paper-note-b0cmdh-review"
 image_alt: "Stack of AILZFEI legal pads 8.5 x 11 college ruled white paper with perforated sheets"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: 19.99  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: 19.99
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMDH8JDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716D1vsNP6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Smooth, bright white paper handles gel pens and fountain pens without bleed-through"  
   - "Perforated sheets tear cleanly with no jagged edges — buyers confirm this repeatedly"  
   - "Stiff cardboard backing stays rigid on clipboards or in your lap, unlike flimsy alternatives"  
-cons:  
+cons: 
   - "Only 50 sheets per pad — heavier note-takers will burn through a pad in a week"  
   - "No color options; white paper and standard college rule only, no wide rule variant"
+
 ---
 
 If you’ve ever bought a legal pad and had the bottom sheet slide around or the paper feather with a fountain pen, you know the category is full of disappointments. The AILZFEI Legal Pads 8.5 x 11 College Ruled White Paper Note Pads don’t reinvent the wheel — but they fix the small annoyances that make cheap pads unusable. At $19.99 for a multi-pack, they sit in a sweet spot between budget bulk and premium feel.

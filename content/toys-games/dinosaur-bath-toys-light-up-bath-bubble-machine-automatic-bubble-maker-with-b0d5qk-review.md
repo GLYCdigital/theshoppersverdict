@@ -1,4 +1,5 @@
 ---
+
 title: "Dinosaur Bath Toys, Light Up Bath Bubble Machine Automatic B"
 seo_title: "Dinosaur Bath Bubble Machine Review: 2026 Buyer's Guide"
 meta_description: "Honest Dinosaur Bath Bubble Machine review: light-up bubble maker for toddlers, pros/cons, real customer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5QK25HC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710DjCXq6FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three bubble modes (continuous, spray, auto) give parents control over bubble output"
   - "Suction cup base holds firmly to tile or tub walls — no hands required during operation"
   - "Battery compartment is sealed with a rubber gasket; no reported leaks in 220+ reviews"
-cons:
+cons: 
   - "Requires 4 AAA batteries (not included) — an extra $8–10 upfront cost"
   - "Bubbles are unscented and basic; kids older than 4 may lose interest quickly"
   - "Suction cups need a completely flat, dry surface to stick — textured tubs will fail"
+
 ---
 
 **The short version:** If bath time is a daily battle and you have a toddler who’d rather play than scrub, this dinosaur bubble machine is a legitimate peace treaty. It’s not a miracle worker, but with 4.4 stars across 220 ratings, it’s clearly doing something right for most families.

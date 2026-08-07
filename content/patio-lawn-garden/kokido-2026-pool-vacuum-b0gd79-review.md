@@ -1,4 +1,5 @@
 ---
+
 title: "KOKIDO 2026 Pool Vacuum"
 seo_title: "KOKIDO 2026 Pool Vacuum Review: Verdict | TSV"
 meta_description: "Our full kokido 2026 pool vacuum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GD79MHF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zFOaMnxgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pool vacuums under $100 are either flimsy plastic junk or they work so poorly you'd rather hand-skimmer the whole pool. The KOKIDO 2026 sits somewhere in the middle — and for a lot of above-ground pool owners, that's exactly the right spot.

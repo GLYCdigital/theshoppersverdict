@@ -1,4 +1,5 @@
 ---
+
 title: "Karafu Glass Pitcher, Large Jug with Lid & Spout"
 seo_title: "Karafu Glass Pitcher, Large Jug with Lid & Spout Review: "
 meta_description: "Our full karafu glass pitcher, large jug with lid & spout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPD291MZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514iQpYEluL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A pitcher that does exactly one job well is rare. The Karafu Glass Pitcher doesn't try to be a blender, a brewer, or a sous vide machine. It holds two liters of liquid, pours it without making a mess, and looks good doing it. At 4.4 stars from 220 ratings, it's earned its place on kitchen counters — but it's not without tradeoffs. Here's the full picture.

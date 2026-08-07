@@ -1,4 +1,5 @@
 ---
+
 title: "CABNEER Cat8 Ethernet Cable Pack High Speed 40Gbps 2000MHz"
 seo_title: "CABNEER Cat8 Ethernet Cable Review: 40Gbps Speed Tested"
 meta_description: "CABNEER Cat8 Ethernet cable pack review: 40Gbps speeds, 2000MHz bandwidth, shielded build. Is it worth it for gaming and streaming? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL55ZMYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tfrUhwGGL._SL1500_.jpg"
-pros:
+pros: 
   - "True Cat8 performance with 40Gbps throughput and 2000MHz bandwidth — future-proofs your network for years"
   - "Heavy-duty shielding (S/FTP) with 50-micron gold-plated connectors that maintain solid contact and resist corrosion"
   - "Flexible yet durable PVC jacket that handles tight bends without kinking — tested around corners and under desks"
-cons:
+cons: 
   - "Stiffness is noticeable compared to Cat6 — routing through tight spaces requires patience"
   - "Overkill for most home setups — if your router and devices top out at 1Gbps, you won't see the speed difference"
+
 ---
 
 # CABNEER Cat8 Ethernet Cable Pack Review: Overkill or Smart Investment?

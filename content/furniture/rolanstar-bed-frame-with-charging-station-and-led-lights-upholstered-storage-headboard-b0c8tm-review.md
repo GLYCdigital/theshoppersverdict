@@ -1,4 +1,5 @@
 ---
+
 title: "Rolanstar Bed Frame with Charging Station and LED Lights, Up"
 seo_title: "Rolanstar Bed Frame with Charging Station and LED  Review"
 meta_description: "Our full rolanstar bed frame with charging station and led lights, up review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8TM5KR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oh78ed1xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Every few years, a bed frame comes along that tries to do too much — and usually fails. The Rolanstar Bed Frame with Charging Station and LED Lights is the exception. It's a genuinely useful piece of furniture that solves real problems: dead phone batteries, tripping over cords, and bedrooms that feel like caves.

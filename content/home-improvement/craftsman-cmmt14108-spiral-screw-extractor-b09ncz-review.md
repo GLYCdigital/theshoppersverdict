@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN CMMT14108 Spiral Screw Extractor"
 seo_title: "CRAFTSMAN CMMT14108 Spiral Screw Extractor Review: 2026 inch"
 meta_description: "CRAFTSMAN CMMT14108 spiral screw extractor review: 5-piece set, left-hand cutting action, and real-world performance on broken bolts and stripped screws."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09NCZCRWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SKONugSBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Left-hand spiral design bites deeper as you turn counterclockwise, so stubborn fasteners rarely strip further"
   - "Five sizes (No. 1 through No. 5) cover everything from small machine screws to 3/8-inch bolts"
   - "Heat-treated S2 steel holds up on rusted or seized hardware without chipping"
-cons:
+cons: 
   - "No storage case included — loose bits rattle around in a drawer or toolbox"
   - "Requires a tap handle or T-handle wrench; won't work with a standard drill chuck"
   - "Smaller sizes (No. 1 and No. 2) can snap if you apply too much torque on a fully seized bolt"
+
 ---
 
 You've got a broken bolt flush with the engine block, a stripped Phillips head on a cabinet hinge, or a snapped screw buried in a door hinge. Before you reach for the drill and a bolt extractor that promises miracles, here's the reality: most extractor sets are junk. The CRAFTSMAN CMMT14108 spiral screw extractor set, however, has earned a 4.2-star rating from 210 buyers — and after looking at how it's built and what users actually say, it deserves a spot in your toolbox.

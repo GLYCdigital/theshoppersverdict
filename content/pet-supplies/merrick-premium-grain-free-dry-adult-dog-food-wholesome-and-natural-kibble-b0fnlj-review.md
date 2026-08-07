@@ -1,4 +1,5 @@
 ---
+
 title: "Merrick Premium Grain Free Dry Adult Dog Food, Wholesome and"
 seo_title: "Merrick Premium Grain Free Dry Adult Dog Food, Who Review"
 meta_description: "Our full merrick premium grain free dry adult dog food, wholesome and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNLJ8X1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PKlAp9JmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Merrick Premium Grain Free Dry Adult Dog Food Review: Worth the Premium Price?

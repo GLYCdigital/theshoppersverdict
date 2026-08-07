@@ -1,4 +1,5 @@
 ---
+
 title: "CLCTK Crystal Glass Door Knobs for Interior Doors"
 seo_title: "CLCTK Crystal Glass Door Knobs Review: Worth It? (2026)"
 meta_description: "Honest CLCTK crystal glass door knob review: style, durability, and installation. See what 215 buyers say before you spend on these interior door knobs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BG2CD7TW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLMCPfgeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 1-5/8 inch diameter crystal knob with genuine faceted cuts — catches light like real glass, not cheap plastic"
   - "Universal 2-3/8 inch and 2-3/4 inch backset fitment works with standard US pre-drilled doors"
   - "Solid zinc alloy base and spindle mechanism — no wobble after installation when properly tightened"
-cons:
+cons: 
   - "No locking privacy version available — only passage (non-locking) sets, limiting use for bathrooms"
   - "Set screws are small and need a precise hex key; stripping them is easy if you over-torque"
   - "Fingerprints show immediately on the polished surface — expect to wipe them weekly"
+
 ---
 
 If you're swapping out those hollow builder-grade brass knobs for something with a little personality, the CLCTK Crystal Glass Door Knobs get your attention immediately. As shown in the product image, these aren't the milky, cloudy glass knobs you remember from grandma's house — the faceted cut is sharp and clear, catching light like a chandelier crystal. At 4.3 stars across 215 ratings, they've clearly found an audience. But are they worth your Saturday afternoon and $40? Let's dig in.

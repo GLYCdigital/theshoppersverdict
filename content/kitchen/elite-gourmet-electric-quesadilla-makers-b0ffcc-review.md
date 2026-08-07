@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet Electric Quesadilla Makers"
 seo_title: "Elite Gourmet Quesadilla Maker Review: Worth It? (2026)"
 meta_description: "Honest Elite Gourmet Electric Quesadilla Maker review: performance, durability, and real buyer feedback. Is it worth buying? Find out here."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFCCKCNV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81awWWpBiML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Non-stick plates release quesadillas cleanly with minimal oil — easy cleanup"
   - "Compact footprint stores upright and heats up fast for weeknight use"
   - "Indicator light takes the guesswork out of when it's ready"
-cons:
+cons: 
   - "No temperature control — you're stuck with one heat setting"
   - "Short power cord limits where you can plug it in on the counter"
+
 ---
 
 ## The $20 shortcut to Tuesday-night dinner

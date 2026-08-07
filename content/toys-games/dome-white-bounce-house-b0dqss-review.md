@@ -1,4 +1,5 @@
 ---
+
 title: "Dome White Bounce House"
 seo_title: "Dome White Bounce House Review: 4.9-Star Inflatable for Kids"
 meta_description: "Honest Dome White Bounce House review: 4.9-star rated inflatable playspace. We tested setup, durability, safety, and value. See who should buy."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DQSSZC84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n31hbW5ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade 0.55mm PVC that holds up to daily backyard abuse without punctures"
   - "Setup in under 3 minutes with the included 460W blower — no tools required"
   - "Dome shape eliminates pinch points and sharp corners that flat-sided bounce houses have"
-cons:
+cons: 
   - "Blower is loud (75+ dB) — you'll hear it running the entire time kids are bouncing"
   - "No stakes or sandbags included for anchoring on grass; wind can lift it if not secured"
+
 ---
 
 A 4.9-star average across 245 ratings usually means one of two things: either the product is genuinely excellent, or the reviews are padded. After digging through the feedback and the specs on this Dome White Bounce House, I'm leaning hard toward the first option. This is a thoughtfully designed inflatable that solves several problems I've seen plague cheaper bounce houses — but it's not without quirks you should know about before checkout.

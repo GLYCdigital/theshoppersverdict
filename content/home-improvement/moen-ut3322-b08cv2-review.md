@@ -1,4 +1,5 @@
 ---
+
 title: "Moen UT3322"
 seo_title: "Moen UT3322 Review: Verdict | TSV"
 meta_description: "Our full moen ut3322 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08CV2XZJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OLtNsD3uL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a stuck Moen cartridge for an hour with needle-nose pliers, only to lose and call a plumber, this little tool is about to become your best friend. The Moen UT3322 is a niche product that does exactly one thing — and does it well enough to earn a 4.4-star average across 220 ratings.

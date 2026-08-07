@@ -1,10 +1,11 @@
 ---
+
 title: "Turelar Cordless Immersion Blender Review: $69.99 Portable Power"
 seo_title: "Turelar Cordless Immersion Blender Review | TSV"
 meta_description: "Turelar cordless immersion blender review: 4.3 stars, 2,119 ratings, $69.99. Rechargeable, adjustable speed stick mixer for soups and smoothies."
 slug: "turelar-cordless-immersion-blender-review"
 image_alt: "Turelar cordless immersion blender with rechargeable battery and metal shaft for blending soups and smoothies"
-keywords:
+keywords: 
   - "Turelar immersion blender review"
   - "best cordless stick blender"
   - "rechargeable hand blender"
@@ -16,18 +17,18 @@ amazon_rating: 4.3
 price: 69.99
 amazon_url: "https://www.amazon.com/dp/B0FS7SN9S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fVGvk7FxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless design offers maximum portability and freedom of movement"
   - "Rechargeable battery eliminates cord management frustration"
   - "Metal shaft construction feels solid and durable"
   - "Adjustable speed control for different blending tasks"
   - "Easy to clean under running water"
-cons:
+cons: 
   - "Battery-powered motor is less powerful than corded alternatives"
   - "Some users find the blending strength insufficient for tougher ingredients"
   - "Battery life may not satisfy heavy daily users"
   - "Not suitable for crushing ice or heavy blending tasks"
-faq:
+faq: 
   - question: "Is this immersion blender powerful enough for soup blending?"
     answer: "Yes, for standard soups and pourable purees. The cordless convenience makes it ideal for blending directly in the pot. However, it's not designed for heavy tasks like crushing ice or thick frozen smoothies."
   - question: "How long does the battery last on a full charge?"
@@ -37,6 +38,7 @@ faq:
   - question: "Can this replace a full-sized blender?"
     answer: "No. An immersion blender serves a different purpose — it's for blending directly in pots, cups, or containers. This cordless version adds convenience but won't match the power or capacity of a countertop blender."
 date: 2026-05-30
+
 ---
 
 **What You Actually Get**

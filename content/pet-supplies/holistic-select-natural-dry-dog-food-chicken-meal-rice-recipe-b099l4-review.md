@@ -1,4 +1,5 @@
 ---
+
 title: "Holistic Select Natural Dry Dog Food, Chicken Meal & Rice Re"
 seo_title: "Holistic Select Natural Dry Dog Food, Chicken Meal Review"
 meta_description: "Our full holistic select natural dry dog food, chicken meal & rice re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B099L4WT7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mK0BjAZiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the kibble that finally settles your dog's stomach? Or just another overpriced bag of promises?**

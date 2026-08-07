@@ -1,4 +1,5 @@
 ---
+
 title: "Aquaboon Carbon Block Water Filters - 5 Micron 10 x 4.5 inch"
 seo_title: "Aquaboon Carbon Block Water Filter Review: 5 Micron 10x4.5 inch"
 meta_description: "Aquaboon 5-micron carbon block water filter review: real-world performance, how it compares to generic filters, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJMRWHL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x5duyiYLS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Zero breakthrough or carbon dust in effluent — tested side-by-side with two cheaper brands"
   - "Consistent 0.5 psi pressure drop at 5 gpm, so you won't sacrifice flow rate"
   - "Uniform 5-micron rating verified with a particle counter, not just spec-sheet claims"
-cons:
+cons: 
   - "No O-rings or washers included — you'll need to reuse your housing's existing seals"
   - "At $48.79 for a single 10x4.5, it's 30-40% pricier than generic options on Amazon"
+
 ---
 
 If you've ever swapped out a carbon block filter and gotten that sudden rush of black gritty water through your faucet for the next three days, you already know why the Aquaboon 10x4.5 is worth a serious look. This is a filter that actually holds up to its spec sheet — and in the world of aftermarket water filtration, that's rarer than you'd think.

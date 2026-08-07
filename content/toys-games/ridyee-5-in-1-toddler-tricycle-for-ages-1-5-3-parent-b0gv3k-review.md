@@ -1,4 +1,5 @@
 ---
+
 title: "RIDYEE 5-in-1 Toddler Tricycle for Ages 1.5â€“3, Parent Stee"
 seo_title: "RIDYEE 5-in-1 Toddler Tricycle for Ages 1.5â€“3, P Review"
 meta_description: "Our full ridyee 5-in-1 toddler tricycle for ages 1.5â€“3, parent stee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GV3KN3HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615PHpMjq2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RIDYEE 5-in-1 Toddler Tricycle: A 4.7-Star Workhorse That Grows With Your Kid

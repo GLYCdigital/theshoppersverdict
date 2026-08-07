@@ -1,7 +1,8 @@
 ---
-title: "SystemBuild Farmington 31.5\" Wide Storage Cabinet, Rustic"
-seo_title: "SystemBuild Farmington 31.5\" Wide Storage Cabinet, Review"
-meta_description: "Our full systembuild farmington 31.5\" wide storage cabinet, rustic review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SystemBuild Farmington 31.5\ Wide Storage Cabinet, Rustic"
+seo_title: "SystemBuild Farmington 31.5\ Wide Storage Cabinet, Review"
+meta_description: "Our full systembuild farmington 31.5\ wide storage cabinet, rustic review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "systembuild-farmington-31-5-wide-storage-cabinet-rustic-b0779q-review"
 image_alt: "SystemBuild Farmington 31.5 Wide Storage Cabinet, Rustic"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0779QB1BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XY9aeztxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SystemBuild Farmington 31.5" Wide Storage Cabinet is the furniture equivalent of a reliable mid-size sedan. It won't turn heads, but it does exactly what you ask of it without drama. If you need a no-nonsense storage solution for a bathroom, hallway, or home office, this is worth a serious look.

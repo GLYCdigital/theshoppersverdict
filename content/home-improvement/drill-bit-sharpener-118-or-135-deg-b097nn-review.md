@@ -1,4 +1,5 @@
 ---
+
 title: "Drill Bit Sharpener, 118 Or 135 Deg"
 seo_title: "Drill Bit Sharpener 118/135 Deg Review: Worth It?"
 meta_description: "Honest Drill Bit Sharpener 118 or 135 deg review. Tested performance, pros, cons, and who should buy. See if this sharpener saves you money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B097NNKWCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aUAgTxzhL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual-angle selector (118° and 135°) covers nearly all standard twist bits without guesswork"
   - "Built-in alignment guides ensure consistent edge geometry on every sharpening pass"
   - "Compact cast-metal body stays put on the bench; no clamping required during use"
-cons:
+cons: 
   - Struggles with bits under 3/32 inch " — small diameters are fiddly to seat correctly
   - "Requires a bench grinder or high-speed rotary tool; not a standalone unit"
   - "No depth stop for repeatable material removal — you develop feel, not precision"
+
 ---
 
 If you burn through drill bits faster than you can replace them, this sharpener deserves a hard look. The 118-or-135-degree selector is the headline feature, and it works. But let's be clear about what you're getting: this is an alignment jig, not a complete sharpening system. You supply the grinder. It supplies the geometry.

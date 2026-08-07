@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Paw Cleaner, Washer, Muddy Pet Foot Cleaner for Small Me"
 seo_title: "Dog Paw Cleaner Review: Muddy Pet Foot Washer (2026)"
 meta_description: "Honest Dog Paw Cleaner review: Does this muddy pet foot washer handle small dogs? Tested for grip, brush softness, and real mud removal. See pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B4HBVGYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Rg01xFsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft silicone bristles are gentle on sensitive paws while still scraping off caked mud"
   - "Dual-chamber design separates clean and dirty water so you're not re-soiling paws"
   - "Fits small to medium dogs comfortably — the 4.5-inch opening isn't a struggle for most breeds"
-cons:
+cons: 
   - "Large breeds will find the cup too tight; this is strictly a small-to-medium dog tool"
   - "Drying takes time — water pools in the bristle base if you don't shake it out thoroughly"
+
 ---
 
 Let's be honest: the post-walk paw cleaning ritual is the least glamorous part of dog ownership. You've got a wriggling 20-pound creature tracking mud across your floors, and you're chasing them with a towel while they think it's a game. 

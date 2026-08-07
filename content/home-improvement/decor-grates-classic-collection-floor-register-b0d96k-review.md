@@ -1,4 +1,5 @@
 ---
+
 title: "Decor Grates Classic Collection Floor Register"
 seo_title: "Decor Grates Classic Floor Register Review (2026)"
 meta_description: "Honest Decor Grates Classic Collection floor register review: build quality, airflow, sizing accuracy, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D96K95T6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-Tr0OastL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel construction that won't flex or bend under foot traffic — feels substantially more solid than builder-grade registers"
   - "Classic stamped design with rounded edges that resists snagging socks and doesn't collect dust like louvered alternatives"
   - "Sizing is genuinely accurate to the listed dimensions — multiple buyers confirm a proper fit without the typical 1/4-inch gap headache"
-cons:
+cons: 
   - "Paint finish can chip if you drop it during installation — handle carefully or touch up before install"
   - "No damper adjustment available on this model — airflow control requires a different Decor Grates variant"
+
 ---
 
 A floor register is one of those things you don't think about until you stub a toe on a bent metal fin or watch dust collect in grooves you can't clean. The Decor Grates Classic Collection aims to be the last register you buy — and based on 235 ratings averaging 4.7 stars, it's doing something right.

@@ -1,7 +1,8 @@
 ---
-title: "Kasunpul 34\" Square Folding Table"
-seo_title: "Kasunpul 34\" Square Folding Table Review: Verdict | TSV"
-meta_description: "Our full kasunpul 34\" square folding table review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Kasunpul 34\ Square Folding Table"
+seo_title: "Kasunpul 34\ Square Folding Table Review: Verdict | TSV"
+meta_description: "Our full kasunpul 34\ square folding table review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kasunpul-34-square-folding-table-b0by8k-review"
 image_alt: "Kasunpul 34 Square Folding Table"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BY8KSYTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UMbv2HeWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **Kasunpul 34" Square Folding Table** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

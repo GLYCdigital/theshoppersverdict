@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Treats Biscuits Sticks Chicken Wrapped Human Grade Meat"
 seo_title: "Dog Treats Biscuits Sticks Review: Human-Grade Chicken Wraps"
 meta_description: "Honest review of chicken-wrapped dog treat sticks. Are they worth it? We break down ingredients, value, and real buyer feedback from 229 ratings."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CN9BX8MF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qp2dJE35L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Human-grade chicken is the first ingredient — no meal, no by-products, no mystery meat"
   - "Dual texture (crispy biscuit core + chewy chicken wrap) keeps dogs engaged and slows down gulpers"
   - "Resealable 10.6-oz pouch holds roughly 60 pieces — solid per-treat value vs. boutique brands"
-cons:
+cons: 
   - "Chicken wrap can separate from the biscuit stick during aggressive chewing — expect some mess on carpets"
   - "At 3.5 kcal per treat, portion control matters for small breeds under 15 lbs"
+
 ---
 
 If your dog is the type to inhale treats without chewing — or worse, turn up their nose at anything that isn't squeaky-toy adjacent — these chicken-wrapped biscuit sticks deserve a look. This is a dual-texture treat that solves a real problem: giving your dog something satisfying to chew without committing to a 30-minute bully stick session.

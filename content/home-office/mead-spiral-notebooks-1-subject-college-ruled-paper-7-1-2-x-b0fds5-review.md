@@ -1,4 +1,5 @@
 ---
+
 title: "Mead Spiral Notebooks, 1 Subject, College Ruled Paper, 7-1/2"
 seo_title: "Mead Spiral Notebooks, 1 Subject, College Ruled Pa Review"
 meta_description: "Our full mead spiral notebooks, 1 subject, college ruled paper, 7-1/2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDS5PJ6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a spiral notebook is the least glamorous purchase you'll make this year. But it's also the one you'll curse daily if you get it wrong. The Mead 1-Subject College Ruled Notebook (7-1/2" x 10-1/2") is the default choice in classrooms and offices for a reason — but is it actually good, or just familiar? I dug through the specs, the build, and what 235 Amazon reviewers are saying to give you the straight story.

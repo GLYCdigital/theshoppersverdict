@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Blink Temporary Tattoo Printer - Ink-Free Thermal Prin"
 seo_title: "Hello Blink Tattoo Printer Review: Ink-Free Thermal Fun"
 meta_description: "Hello Blink temporary tattoo printer review: ink-free thermal printing, custom designs, safety, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVG6623Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s8JYF83fL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly ink-free thermal technology — no cartridges, no messy refills, no drying out between uses"
   - "Prints directly onto skin in about 10 seconds per design, which kids find genuinely magical"
   - "App library includes hundreds of designs plus custom photo/emoji printing capability"
-cons:
+cons: 
   - "Tattoos are light gray monochrome only — don't expect bold black lines or any color"
   - "Prints fade noticeably within 24-48 hours, especially if skin gets wet or sweaty"
   - "App connection occasionally drops mid-print, requiring a restart of the design"
+
 ---
 
 **The Short Version**

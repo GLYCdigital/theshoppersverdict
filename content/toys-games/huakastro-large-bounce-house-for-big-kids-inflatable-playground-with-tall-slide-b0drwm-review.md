@@ -1,4 +1,5 @@
 ---
+
 title: "HuaKastro Large Bounce House for Big Kids – Inflatable Pla"
 seo_title: "HuaKastro Large Bounce House Review: Big-Kid Tested"
 meta_description: "Our honest HuaKastro large bounce house review: tall slide, heavy-duty blower, big-kid weight limits. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRWMDX8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BTIdoVM7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Blower inflates the entire unit in under 90 seconds; tear-resistant Oxford fabric holds up to repeated use"
   - "Tall slide (roughly 8 feet) gives bigger kids an actual thrill, not a toddler-grade bump"
   - "Weight capacity around 500 lbs means multiple kids or adults can supervise inside without overloading it"
-cons:
+cons: 
   - "Deflation and folding takes 10-15 minutes; the included carry bag is tight and requires careful packing"
   - "No stakes for soft grass — you'll need sandbags or screw anchors for windy days"
+
 ---
 
 # HuaKastro Large Bounce House Review: Finally, a Bounce House That Respects Bigger Kids

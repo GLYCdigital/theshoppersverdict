@@ -1,4 +1,5 @@
 ---
+
 title: "Rugshop Evora Palm Frond Non-Shedding Easy Cleaning Patio De"
 seo_title: "Rugshop Evora Palm Frond Non-Shedding Easy Cleanin Review"
 meta_description: "Our full rugshop evora palm frond non-shedding easy cleaning patio de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDYGNQWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DDdHuI-rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The Rugshop Evora Palm Frond is the rare indoor/outdoor rug that actually delivers on its "non-shedding" promise. If you're tired of cheap polypropylene rugs that leave fiber tumbleweeds in your living room or on your deck, this one's worth a serious look. But it's not without tradeoffs.

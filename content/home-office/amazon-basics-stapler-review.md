@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Office Stapler"
 seo_title: "Amazon Basics Office Stapler Review (2026): Is It Worth It?"
 meta_description: "Amazon Basics Office Stapler review: 4.6-star, 52,000+ ratings. Does the 20-sheet capacity hold up? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORqJgajrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effortlessly staples 20 sheets without jamming, even with heavy cardstock"
   - "Full-metal base and head give it real heft — no cheap plastic wobble"
   - "Integrated staple remover on the base is genuinely useful, not a gimmick"
-cons:
+cons: 
   - "The plastic top cover feels less durable than the metal base — drop it on tile and it might crack"
   - "No adjustable throat depth, so stapling deep into a booklet requires awkward angling"
   - "Only accepts standard 26/6 staples, not heavy-duty 24/6 for thicker stacks"
+
 ---
 
 **The $10 stapler that 52,000 people bought — is it actually good?**

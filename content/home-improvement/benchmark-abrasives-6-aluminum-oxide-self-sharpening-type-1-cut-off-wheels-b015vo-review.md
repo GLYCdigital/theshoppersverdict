@@ -1,4 +1,5 @@
 ---
+
 title: "Benchmark Abrasives 6 inch  Aluminum Oxide Self-Sharpening Type 1 inch"
 seo_title: "Benchmark Abrasives 6 inch  Cut-Off Wheels Review (2026)"
 meta_description: "Benchmark Abrasives 6 inch  aluminum oxide Type 1 cut-off wheels review: real-world performance, durability, and value for metalworkers. Honest pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B015VOZAHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pGuGAuUF._SL1500_.jpg"
-pros:
+pros: 
   - "Self-sharpening grain keeps cutting aggressive throughout the wheel's life—no glazing or slowdown mid-job"
   - Consistent 0.045 inch " thickness gives clean, narrow kerf with less material waste than thicker 1/8 inch " wheels
   - "Reinforced fiberglass layers handle sideways pressure without premature cracking or shattering"
-cons:
+cons: 
   - 1-inch arbor limits use to grinders with 5/8 inch " spindles unless you buy adapter bushings separately
   - "Some users report shorter lifespan than premium brands when cutting thick-wall steel pipe repeatedly"
+
 ---
 
 ## The Workhorse You Didn't Know You Needed

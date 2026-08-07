@@ -1,4 +1,5 @@
 ---
+
 title: "Timecity Case for iPad 9th/ 8th/ 7th/ 10th/ 11th Generation "
 seo_title: "Timecity Case for iPad 9th/ 8th/ 7th/ 10th/ 11th G Review"
 meta_description: "Our full timecity case for ipad 9th/ 8th/ 7th/ 10th/ 11th generation  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJY3W79L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713kCo1H4UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're the type of person who treats their iPad like a fragile museum piece, this case isn't for you. But if you've ever watched your tablet slide off a desk or take a tumble out of a backpack, the Timecity heavy-duty case deserves a hard look. With a 4.6-star average across 229 ratings, it's clearly earned its reputation among people who value protection over slimness.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lifeboost Dark Roast Ground Coffee"
 seo_title: "Lifeboost Dark Roast Ground Coffee Review: Verdict | TSV"
 meta_description: "Our full lifeboost dark roast ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJ11YMGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EDPqB8DXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most dark roasts are an exercise in damage control. Roasters push beans past second crack to mask defects, then call the resulting charcoal flavor "bold." Lifeboost takes the opposite approach: they test their beans for mold and mycotoxins before you ever see the bag, then roast light enough to preserve what the bean actually tastes like. That's either a brilliant differentiator or a fancy marketing story. After brewing through a full bag, I have a clear answer.

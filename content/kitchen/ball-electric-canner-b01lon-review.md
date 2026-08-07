@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Electric Canner"
 seo_title: "Ball Electric Canner Review: Worth It? (2026)"
 meta_description: "Ball Electric Canner review: Is this 4.7-star water bath canner worth your counter space? Real pros, cons, and buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01LONY872/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715aC4mJwHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise digital temperature control maintains a steady 212°F boil, eliminating the need to babysit a stovetop pot"
   - "Large 21.5-quart capacity fits 7 quart jars or 9 pint jars in a single batch"
   - "Built-in timer with audible alert and automatic shut-off adds a genuine safety layer for forgetful cooks"
-cons:
+cons: 
   - "Heavy at 18 pounds — tough to move or store when filled; plan for a permanent counter spot"
   - "Only does water bath canning — no pressure canning for low-acid foods like green beans or meats"
+
 ---
 
 ## The Electric Canner That Actually Earns Its Counter Space

@@ -1,4 +1,5 @@
 ---
+
 title: "Counter Height Barstools 26 inch Upholstered Swivel Bar Stoo"
 seo_title: "Counter Height Barstools 26 Inch Upholstered Swivel Review"
 meta_description: "Honest review of 26-inch upholstered swivel counter stools: comfort, build quality, assembly, and whether they're worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ53Q2ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dE9xyCgPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360-degree swivel with smooth, quiet motion — no squeaking reported even after months of daily use"
   - "Foam-padded seat is genuinely comfortable for 2+ hour sitting sessions, not just decorative upholstery"
   - "Sturdy metal base with non-slip floor caps that don't scratch hardwood or tile"
-cons:
+cons: 
   - "Assembly requires two people — the seat-to-base connection is awkward to align solo"
   - "Fabric is prone to showing lint and pet hair; light colors demand frequent vacuuming"
   - "26-inch seat height only suits counters at 35-37 inches — measure before buying"
+
 ---
 
 # Counter Height Barstools 26" Upholstered Swivel: The Real Story

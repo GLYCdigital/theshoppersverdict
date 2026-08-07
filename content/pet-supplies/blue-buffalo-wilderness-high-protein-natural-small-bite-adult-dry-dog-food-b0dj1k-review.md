@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Wilderness High Protein Natural Small Bite Adul"
 seo_title: "Blue Buffalo Wilderness Small Bite Review (2026): High-Protein"
 meta_description: "Honest Blue Buffalo Wilderness Small Bite review: high-protein formula, real meat first, kibble size, and what picky small dogs really think."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJ1KL6N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nKeMNIVLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real deboned chicken is the first ingredient, with 32% protein to support lean muscle in active small breeds"
   - "Smaller kibble size is genuinely easier for toy and small breeds to pick up and chew, reducing mess around the bowl"
   - "Includes LifeSource Bits — a precise blend of antioxidants, vitamins, and minerals that are cold-formed to preserve potency"
-cons:
+cons: 
   - "Priced at a premium compared to standard small-breed kibbles; budget shoppers will feel the difference"
   - "Some dogs with sensitive stomachs may need a slow transition due to the high protein and richer ingredient profile"
+
 ---
 
 If you've got a small dog that acts like it's 90 pounds, you already know the struggle: regular kibble is too big, too bland, or both. Blue Buffalo Wilderness High Protein Natural Small Bite Adult is aimed squarely at that demographic — but does it justify the premium price tag? After digging through 229 ratings and the ingredient panel, here's the real story.

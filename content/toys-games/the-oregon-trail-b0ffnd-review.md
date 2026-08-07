@@ -1,4 +1,5 @@
 ---
+
 title: "The Oregon Trail"
 seo_title: "The Oregon Trail Review: Verdict | TSV"
 meta_description: "Our full the oregon trail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFNDKVJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sMOwRhhNL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Can You Survive the Trail? A Hands-On Review

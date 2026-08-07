@@ -1,4 +1,5 @@
 ---
+
 title: "K Single Door 2025"
 seo_title: "K Single Door 2025 Review: Verdict | TSV"
 meta_description: "Our full k single door 2025 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08MD3NMWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5181eUYq3wL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The K Single Door 2025 is the kind of product that makes you wonder why more manufacturers don't do it this way. It's a pre-hung exterior door that respects your time — but it also makes you earn the savings. Here's what 210 buyers discovered before you.

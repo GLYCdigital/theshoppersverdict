@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan High Protein Dog Food, Sport 30/20 Salmon an"
 seo_title: "Purina Pro Plan High Protein Dog Food, Sport 30/20 Review"
 meta_description: "Our full purina pro plan high protein dog food, sport 30/20 salmon an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GF361M87/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817IoKM1KqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog burns more calories in a day than most humans do in a week, you already know the struggle: finding a food that actually keeps weight on a hard-working athlete without turning their stomach inside out. The Purina Pro Plan Sport 30/20 Salmon formula is aimed squarely at that problem — and with a 4.7-star average across 235 Amazon ratings, it's earning real traction. But is it the right fuel for your dog, or just another overpriced bag of marketing? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Stella & Chewy's Freeze-Dried Raw Cat Dinner Morsels â€“ Gra"
 seo_title: "Stella & Chewy's Freeze-Dried Raw Cat Dinner Morse Review"
 meta_description: "Our full stella & chewy's freeze-dried raw cat dinner morsels â€“ gra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CP2N2T4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OhNPnPjDL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If your cat turns up its nose at everything you've tried, Stella & Chewy's freeze-dried raw morsels are worth the premium. At 4.2 stars from 210 ratings, this isn't a perfect product — but for cats who need high-protein, minimally processed nutrition, it's one of the most reliable options on Amazon.

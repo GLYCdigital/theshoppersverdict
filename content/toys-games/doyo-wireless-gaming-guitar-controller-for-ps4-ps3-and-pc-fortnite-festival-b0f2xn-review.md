@@ -1,4 +1,5 @@
 ---
+
 title: "DOYO Wireless Gaming Guitar Controller for PS4, PS3, and PC,"
 seo_title: "DOYO Wireless Guitar Controller Review: PS4, PS3 & PC"
 meta_description: "Honest DOYO wireless gaming guitar controller review for PS4, PS3, PC. We test build quality, latency, and whether it's worth it for Fortnite Festival."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2XNNYS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51s-oFRkiRL._SL1500_.jpg"
-pros:
+pros: 
   - "Zero-latency 2.4GHz wireless connection with USB dongle — no Bluetooth pairing headaches"
   - "Full-size 34-inch body with responsive 5-fret neck and clicky strum bar that handles fast alt-strumming"
   - "Plug-and-play on PC without extra drivers; PS4/PS3 support via console dongle"
-cons:
+cons: 
   - "Feels lighter and more plasticky than the original Gibson-era Rock Band guitars — a tradeoff for the price"
   - "Dongle must stay plugged into the console; no Bluetooth mode for Switch or mobile devices"
+
 ---
 
 If you've been priced out of the used Guitar Hero controller market — where beat-up originals now fetch $80+ on eBay — the DOYO Wireless Gaming Guitar Controller is the budget-friendly alternative that actually works. It's not a premium instrument, but for Fortnite Festival sessions or revisiting Rock Band 4 on PS4, it gets the job done at a fraction of the cost.

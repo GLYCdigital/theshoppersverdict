@@ -1,4 +1,5 @@
 ---
+
 title: "Dasique Blending Mood Cheek"
 seo_title: "Dasique Blending Mood Cheek Review: Buildable, Natural Blush"
 meta_description: "Dasique Blending Mood Cheek review: soft, buildable K-beauty blush palette. 4.4/5 rating, 220 reviews. Is this viral blush worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTBX6HR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tL-qgJWbL._SL1000_.jpg"
-pros:
+pros: 
   - "Four shades in one palette are designed to blend together seamlessly, eliminating guesswork for color-matching"
   - "Fine-milled powder applies sheer on first pass, building to a natural flush without patchiness or hard edges"
   - "Compact 8.5g packaging with a full mirror makes it genuinely travel-friendly, not just marketing-speak"
-cons:
+cons: 
   - "Shade range is limited — the palette skews pink/coral, so deeper skin tones may find these washes too subtle"
   - "Powder kicks up in the pan with a dense brush, meaning some product waste over time"
+
 ---
 
 The K-beauty hype machine has produced plenty of forgettable blushes, but the Dasique Blending Mood Cheek has earned genuine staying power with 220 Amazon ratings averaging 4.4 stars. The question is whether this four-pan palette delivers on its promise of effortless, skin-like color — or if it's just another pretty compact that disappoints in practice.

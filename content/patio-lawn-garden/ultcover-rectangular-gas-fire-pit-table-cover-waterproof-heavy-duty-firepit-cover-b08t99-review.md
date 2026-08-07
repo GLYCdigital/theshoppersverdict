@@ -1,4 +1,5 @@
 ---
+
 title: "ULTCOVER Rectangular Gas Fire Pit Table Cover Waterproof Hea"
 seo_title: "ULTCOVER Rectangular Gas Fire Pit Table Cover Wate Review"
 meta_description: "Our full ultcover rectangular gas fire pit table cover waterproof hea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08T99V6TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tY6rLSkUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your fire pit table is the centerpiece of your patio — the thing that makes summer evenings actually happen. But it's also a several-hundred-dollar investment sitting exposed to rain, UV rays, and whatever your local squirrels decide to do. The ULTCOVER Rectangular Gas Fire Pit Table Cover has earned a 4.7-star average across 235 Amazon ratings, and after digging through what buyers actually say, here's the real story.

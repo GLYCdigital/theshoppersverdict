@@ -1,4 +1,5 @@
 ---
+
 title: "DND Spinner Dice, 7 in 1 Unique Metal Dice Set with 3D Relie"
 seo_title: "DND Spinner Dice 7-in-1 Review: Are Metal Dice Worth It?"
 meta_description: "We tested the DND Spinner Dice 7-in-1 metal set with 3D relief. See how it rolls, who it's for, and whether it beats standard polyhedral sets."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DL6K51TB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QuJnj8SfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined zinc alloy construction with deep 3D relief — numbers are recessed, not painted, so they won't wear off"
   - "The integrated spinner top on the d20 adds a functional fidget element without adding bulk"
   - "Set covers all seven standard polyhedral shapes (d4, d6, d8, d10, d%, d12, d20) in a matching aesthetic"
-cons:
+cons: 
   - "Metal dice are loud on hard surfaces — you'll want a dice tray or mat to protect both table and ears"
   - "The 3D relief edges are sharp enough that the dice can scratch other dice stored loose in the same bag"
+
 ---
 
 # DND Spinner Dice, 7 in 1 Unique Metal Dice Set with 3D Relief: The Full Review

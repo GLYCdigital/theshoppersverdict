@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PIXMA TR160 Wireless Portable Printer, 50-Sheet Paper"
 seo_title: "Canon PIXMA TR160 Review: Portable Printer Worth It?"
 meta_description: "Canon PIXMA TR160 review: Is this wireless portable printer with 50-sheet tray worth it? Real pros, cons, and verdict for home, students, travelers."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1Z1VLV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s1EKnnDmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Compact footprint (about 12.5 inch " wide) fits on a bookshelf or dorm desk without dominating the space
   - "Wireless setup via Canon PRINT app works reliably with both iOS and Android — no USB cable required"
   - "50-sheet rear tray handles mixed media up to legal size, including envelopes and photo paper"
-cons:
+cons: 
   - "No automatic document feeder — every multi-page scan or copy is a manual, one-page-at-a-time affair"
   - "Ink cartridges are small; expect roughly 180 black pages before swapping, which adds up in cost per page"
   - "Print speeds are modest — around 8 ppm for black-and-white, so don't plan to print a 50-page report in a hurry"
+
 ---
 
 Let's be direct: most sub-$100 printers are disposable disappointments. The Canon PIXMA TR160 isn't trying to be your office workhorse — it's trying to be the printer you actually use when you need one, and for the most part, it pulls that off. With a 4.2-star average across 210 ratings, it's clearly doing something right. Here's the real breakdown.

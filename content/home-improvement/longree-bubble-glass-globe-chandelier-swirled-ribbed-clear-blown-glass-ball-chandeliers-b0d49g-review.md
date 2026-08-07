@@ -1,4 +1,5 @@
 ---
+
 title: "Longree Bubble Glass Globe Chandelier Swirled Ribbed Clear B"
 seo_title: "Longree Bubble Glass Globe Chandelier Swirled Ribb Review"
 meta_description: "Our full longree bubble glass globe chandelier swirled ribbed clear b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D49G1X5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z+BfneQgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past a dozen identical drum pendants and brushed-nickel flush mounts, this Longree bubble glass chandelier is the visual reset your dining room has been waiting for. At 4.6 stars across 229 ratings, it’s not just a pretty face — but it does come with a few caveats worth knowing before you click buy.

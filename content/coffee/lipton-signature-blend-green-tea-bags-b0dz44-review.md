@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Signature Blend Green Tea Bags"
 seo_title: "Lipton Signature Blend Green Tea Bags Review: Verdict | T"
 meta_description: "Our full lipton signature blend green tea bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ44R83J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719a70XjAgL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a budget green tea that turned bitter the second you looked away from the kettle, you know the struggle. Lipton's Signature Blend sidesteps that trap entirely. This isn't a fancy single-origin artisanal tea — it's a dependable, smooth daily drinker that's earned a 4.7-star rating from 235 Amazon shoppers for good reason.

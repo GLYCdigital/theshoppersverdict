@@ -1,4 +1,5 @@
 ---
+
 title: "Charlotte Tilbury Beauty Treasure Chest Advent Calendar - 12 inch"
 seo_title: "Charlotte Tilbury Beauty Treasure Chest Advent Calendar Review (2026)"
 meta_description: "Charlotte Tilbury Beauty Treasure Chest Advent Calendar review: 12-piece luxury makeup set worth the hype? Real value, quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FGYYG7B7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pSz7LdG9L._SL1500_.jpg"
-pros:
+pros: 
   - "Full-size Pillow Talk lipstick and Magic Cream deluxe sample included — not just foil packets"
   - "Curated mix of makeup and skincare across CT's hero products, ideal for trying the line"
   - "Luxury unboxing experience with sturdy, reusable packaging that doubles as jewelry storage"
-cons:
+cons: 
   - "At the price point, you're paying for curation — not every door will be a winner for you"
   - "No shade options for complexion products; one-size-fits-most approach may not suit deeper skin tones"
+
 ---
 
 # Charlotte Tilbury Beauty Treasure Chest Advent Calendar – 12: Is This Luxury Set Actually Worth It?

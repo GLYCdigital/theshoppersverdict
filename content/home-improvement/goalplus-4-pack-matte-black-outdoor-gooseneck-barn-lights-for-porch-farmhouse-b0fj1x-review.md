@@ -1,4 +1,5 @@
 ---
+
 title: "GOALPLUS 4 Pack Matte Black Outdoor Gooseneck Barn Lights fo"
 seo_title: "GOALPLUS 4 Pack Matte Black Outdoor Gooseneck Barn Review"
 meta_description: "Our full goalplus 4 pack matte black outdoor gooseneck barn lights fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ1XLK1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710h+wOfd1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a $20 big-box special and a $120 boutique farmhouse fixture, there’s a sweet spot. The GOALPLUS 4-pack of matte black gooseneck barn lights sits right in it—and for the price per fixture, it’s hard to argue with the math.  

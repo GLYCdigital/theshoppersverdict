@@ -1,7 +1,8 @@
 ---
-title: "Semoic 70.8\" Tall Corner Bookshelf"
-seo_title: "Semoic 70.8\" Tall Corner Bookshelf Review: Verdict | TSV"
-meta_description: "Our full semoic 70.8\" tall corner bookshelf review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Semoic 70.8\ Tall Corner Bookshelf"
+seo_title: "Semoic 70.8\ Tall Corner Bookshelf Review: Verdict | TSV"
+meta_description: "Our full semoic 70.8\ tall corner bookshelf review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "semoic-70-8-tall-corner-bookshelf-b0dxfm-review"
 image_alt: "Semoic 70.8 Tall Corner Bookshelf"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXFMQLW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VyZ0vbRLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Corner space is the graveyard of home organization. That awkward 90-degree gap where nothing fits and everything ends up piled on the floor. The Semoic 70.8" Tall Corner Bookshelf exists specifically to solve that problem — and based on 225 ratings averaging 4.5 stars, it's solving it well for most buyers. But is it the right corner unit for your space? Let's break down what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "LxTek Compatible Toner Cartridge Replacement for Canon 125 C"
 seo_title: "LxTek Compatible Toner Cartridge Replacement for C Review"
 meta_description: "Our full lxtek compatible toner cartridge replacement for canon 125 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07FY8YJZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WRLq68MhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about why you're here: you own a Canon imageCLASS MF3010 or LBP6030, and you're tired of paying $80+ for a genuine Canon 125 cartridge that lasts a couple of months. The LxTek compatible replacement promises the same 2,100-page yield at roughly half the price. After digging through 225 Amazon ratings and the technical specs, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bekith 12 pack 16 Oz Wide Mouth Plastic Squeeze Condiment Bo"
 seo_title: "Bekith 16oz Squeeze Bottles Review: 12-Pack Value Tested"
 meta_description: "Bekith 12-pack 16oz wide-mouth squeeze bottles reviewed: leak resistance, durability, and value. Honest verdict on this 4.4-star condiment set."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07ZCPFMKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r+EivfYgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 16oz capacity with a wide 2.5-inch mouth that fits ice cube trays and chopped herbs without funneling"
   - "Thick LDPE plastic that holds shape after months of commercial-style use — no cracking at the threads"
   - "At $1.75 per bottle, you're paying less than half the price of restaurant supply stores for the same utility"
-cons:
+cons: 
   - "Caps can cross-thread if you're careless — the plastic is soft enough that overtightening causes leaks"
   - "No measurement markings on the side, so portion control requires a separate measuring tool"
+
 ---
 
 **The $21 Condiment Bottle Set That Actually Holds Up — Mostly**

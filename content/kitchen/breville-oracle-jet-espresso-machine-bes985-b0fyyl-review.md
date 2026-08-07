@@ -1,4 +1,5 @@
 ---
+
 title: "Breville Oracle Jet Espresso Machine BES985 inch"
 seo_title: "Breville Oracle Jet Review: BES985 Espresso Machine"
 meta_description: "Breville Oracle Jet BES985 review: Does the $2K auto-dosing espresso machine deliver? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FYYLB547/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GtrfjYqKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Automatic grind-and-tamp with 43mm conical burrs delivers consistent, evenly-dosed pucks every shot"
   - "Dual boiler (steam + brew) with heated group head hits PID-stable 200°F brewing temps without waiting"
   - "Built-in grinder with 30 grind settings and smart dosing that self-corrects based on extraction time"
-cons:
+cons: 
   - "The 4.3-inch touchscreen UI has a learning curve — several buyers report accidental settings changes mid-shot"
   - "No plumbed water option — you're refilling a 67oz tank and emptying the drip tray frequently"
   - "At this price, the included tamper is plastic and the steam wand tip can clog if you don't purge it religiously"
+
 ---
 
 **The Breville Oracle Jet BES985 isn't just another super-automatic. It's Breville's answer to the "I want cafe quality but I don't want to learn barista physics" problem. After spending time with the specs and digging through owner feedback across 210 Amazon ratings, here's what you're actually getting for the premium price.**

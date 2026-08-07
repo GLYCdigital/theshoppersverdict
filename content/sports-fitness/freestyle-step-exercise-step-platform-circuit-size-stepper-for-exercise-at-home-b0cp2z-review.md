@@ -1,4 +1,5 @@
 ---
+
 title: "Freestyle STEP Exercise Step Platform, Circuit Size Stepper"
 seo_title: "Freestyle STEP Platform Review: Circuit Size Stepper (2026)"
 meta_description: "Freestyle STEP Circuit Size Stepper review: stable, adjustable-height cardio platform for home workouts. Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP2ZM9YX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eDBfARHuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured non-slip surface stays grippy even with sweaty hands or socks during high-rep circuits"
   - "Adjustable height (4, 6, or 8 inches) with snap-in risers that lock firmly — no wobble at the top setting"
   - "Wide 28x12-inch platform gives enough room for staggered stances and lateral movements, not just basic step-ups"
-cons:
+cons: 
   - "Risers require firm pressure to snap in and out — people with weaker grip or arthritis may struggle to change heights"
   - "No height adjustment below 4 inches, so absolute beginners or shorter users may find the lowest setting too tall"
   - "Weighs about 12 pounds — fine for home use but not ideal if you plan to haul it to a gym or class regularly"
+
 ---
 
 The Freestyle STEP Circuit Size platform isn't the cheapest step on Amazon, and it's not the flashiest. But after digging through 225 ratings and the specs that actually matter, this is the step I'd tell a friend to buy — with a couple of caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aveda Be Curly Advanced Coil Definer Gel | Strong Hold Gel f"
 seo_title: "Aveda Be Curly Coil Definer Gel Review: Strong Hold for Coils"
 meta_description: "Aveda Be Curly Advanced Coil Definer Gel review: strong hold, curl definition, and frizz control. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D22N8DV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lfYH7WLL._SL1500_.jpg"
-pros:
+pros: 
   - "Defines tight coils and curls without the crunchy, helmet-like cast most strong-hold gels leave behind"
   - "Cactus-derived and babassu oil formula provides real moisture retention, not just surface shine"
   - "A little goes a long way — a quarter-size dollop handles a full head of shoulder-length coily hair"
-cons:
+cons: 
   - "Strong hold means strong hold — re-activating with water is required to refresh on day two or three"
   - "The botanical scent is heavy and lingers; if you're sensitive to fragrance, this is a real consideration"
+
 ---
 
 If you've got Type 3C or 4A coils and you're tired of gels that either flake by noon or glue your hair into a brittle shell, the Aveda Be Curly Advanced Coil Definer is worth a hard look. This is a salon-grade styling product with a 4.3-star average across 215 Amazon ratings — but the real story is in how it behaves on actual hair, not just the numbers.

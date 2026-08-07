@@ -1,4 +1,5 @@
 ---
+
 title: "COWSAR 1.6/2.1 Quart Ice Cream Maker Machine with Built-in C"
 seo_title: "COWSAR Ice Cream Maker Review: 1.6/2.1 Quart Built-In Compressor"
 meta_description: "COWSAR 1.6/2.1 quart ice cream maker with built-in compressor: our honest review covers performance, noise, cleanup, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F83YCZLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uoq+mmU1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in compressor means no 24-hour freezer bowl pre-freezing — churn whenever the craving hits"
   - "Dual capacity (1.6 and 2.1 quart bowls) handles both small batches and party-sized portions"
   - "Dispensing spout and visible lid let you monitor consistency without stopping the churn"
-cons:
+cons: 
   - "Compressor adds significant weight (around 20 lbs) — not a unit you'll stash in an overhead cabinet"
   - "Noise level is noticeable during the compression cycle — audible from the next room"
   - "Churning takes 40-60 minutes for firm results, so patience (and a cold base mix) is required"
+
 ---
 
 **The Short Version: Skip the Freezer Bowl Forever**

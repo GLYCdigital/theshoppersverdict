@@ -1,4 +1,5 @@
 ---
+
 title: "Robertson IEA432T8120N (3P20135) Electronic Fluorescent Ball"
 seo_title: "Robertson IEA432T8120N (3P20135) Electronic Fluore Review"
 meta_description: "Our full robertson iea432t8120n (3p20135) electronic fluorescent ball review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00H4HNN6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KJt2isGnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a dead fluorescent troffer in a garage, workshop, or office ceiling, the problem is almost always the ballast — not the tubes. The Robertson IEA432T8120N (3P20135) is the replacement part that keeps coming up in electrician forums and homeowner threads alike, and with a 4.7-star average across 235 ratings, it's earned a reputation. But is it the right ballast for *your* fixture? Let's break down what this component actually does, where it shines, and where it might leave you scratching your head.

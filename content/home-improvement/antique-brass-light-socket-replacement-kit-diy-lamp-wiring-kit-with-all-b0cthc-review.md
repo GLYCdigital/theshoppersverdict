@@ -1,4 +1,5 @@
 ---
+
 title: "Antique Brass Light Socket Replacement Kit - DIY Lamp Wiring"
 seo_title: "Antique Brass Light Socket Kit Review: Worth It? (2026)"
 meta_description: "Honest review of the Antique Brass Light Socket Replacement Kit. See how this DIY lamp wiring set performs, its build quality, and if it's right for your project."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTHCMT1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zxrCoeu9L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine antique brass finish that matches vintage fixtures without the polished look"
   - "Includes both socket and plug, so you can rewire a lamp end-to-end in one purchase"
   - "Sturdy phenolic interior that holds up to heat better than cheap plastic alternatives"
-cons:
+cons: 
   - "Wire strippers not included — you'll need your own if you don't have them"
   - "Brass finish is lacquered; scratches reveal bare metal underneath"
+
 ---
 
 Let me be direct: most lamp socket kits on Amazon are flimsy plastic garbage that feels like it'll crumble the moment you tighten the shade. This antique brass kit is not that. It's a proper vintage-style replacement that feels like it belongs on a lamp your grandmother actually used — in the best way.

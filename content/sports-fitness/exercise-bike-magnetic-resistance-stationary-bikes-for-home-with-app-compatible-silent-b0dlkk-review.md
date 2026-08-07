@@ -1,4 +1,5 @@
 ---
+
 title: "Exercise Bike, Magnetic Resistance Stationary Bikes for Home"
 seo_title: "Magnetic Resistance Exercise Bike Review: Quiet Home Workouts"
 meta_description: "Read our honest magnetic resistance exercise bike review. Quiet, smooth, app-compatible. See pros, cons, and if it's worth buying for home use."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLKKTY1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XmHk2+W6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely silent magnetic resistance system — you can watch TV or take calls while riding without disruption"
   - "8-level magnetic tension covers everything from gentle warm-ups to challenging interval sprints"
   - "Solid 300lb weight capacity with stable frame that doesn't wobble, even during aggressive standing climbs"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes with somewhat vague instructions — the included tools work but you'll want your own Allen key set"
   - "The LCD display is basic; there's no built-in heart rate strap, just pulse sensors on the handlebars"
   - "Seat padding is thin — plan to buy a gel cover if you'll ride more than 30 minutes at a stretch"
+
 ---
 
 ## The Quiet Workhorse: A Magnetic Resistance Bike That Won't Wake the Kids

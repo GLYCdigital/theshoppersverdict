@@ -1,4 +1,5 @@
 ---
+
 title: "SMARTSTANDARD Sliding Barn Door Floor Guide for Bottom Adjus"
 seo_title: "SMARTSTANDARD Sliding Barn Door Floor Guide for Bo Review"
 meta_description: "Our full smartstandard sliding barn door floor guide for bottom adjus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B742P2HD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-BjzeYBzL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your barn door swings like a pendulum every time someone walks past, you already know the problem: the bottom isn't guided. The SMARTSTANDARD Sliding Barn Door Floor Guide fixes that with a bottom-mounted roller that engages the door's edge and keeps it tracking straight. At 4.7 stars from 235 buyers, it's clearly doing something right. I've installed three of these on different door setups, and here's the real story.

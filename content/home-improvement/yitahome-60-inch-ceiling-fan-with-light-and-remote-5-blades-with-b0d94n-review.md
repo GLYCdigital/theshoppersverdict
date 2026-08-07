@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME 60 Inch Ceiling Fan With Light and Remote - 5 Blade"
 seo_title: "YITAHOME 60 Inch Ceiling Fan With Light and Remote Review"
 meta_description: "Our full yitahome 60 inch ceiling fan with light and remote - 5 blade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D94NNSF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616ambA60lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 60-inch ceiling fan market is crowded with flimsy options that move more noise than air. The YITAHOME 60 Inch 5-Blade model isn't one of them.** 

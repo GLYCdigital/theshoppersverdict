@@ -1,4 +1,5 @@
 ---
+
 title: "STX Cell VI Lacrosse Gloves, Pair"
 seo_title: "STX Cell VI Lacrosse Gloves, Pair Review: Verdict | TSV"
 meta_description: "Our full stx cell vi lacrosse gloves, pair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D827J7YQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AZWsB0u9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # STX Cell VI Lacrosse Gloves, Pair Review

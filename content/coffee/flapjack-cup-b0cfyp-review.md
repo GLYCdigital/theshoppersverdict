@@ -1,4 +1,5 @@
 ---
+
 title: "Flapjack Cup"
 seo_title: "Flapjack Cup Review: Honest Verdict on This Coffee Gear"
 meta_description: "Flapjack Cup review: Is this clever coffee gear worth your money? We break down build quality, real-world performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFYPBT41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819WhQtSCEL._SL1500_.jpg"
-pros:
+pros: 
   - "Slides flat to under half an inch thick — packs like a coaster, not a cup"
   - "Silicone body holds heat without burning your hand, even with near-boiling coffee"
   - "Leak-proof lid seals tight enough to toss in a bag without a spill sleeve"
-cons:
+cons: 
   - "8oz capacity runs small for travelers who want a full mug of coffee"
   - "Silicone picks up coffee stains over time and needs immediate rinsing to stay clean"
+
 ---
 
 Here's the honest truth about the Flapjack Cup: it's the rare coffee accessory that actually solves a problem instead of creating a new one. For anyone who's ever packed a bulky travel mug or given up on coffee because the hotel room only had styrofoam cups, this flat-foldable cup is a genuine game-changer. With 225 ratings averaging 4.5 stars, the buzz is real — but let's dig into whether it deserves a spot in your daily carry.

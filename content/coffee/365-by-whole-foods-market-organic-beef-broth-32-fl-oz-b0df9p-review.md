@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Beef Broth, 32 Fl Oz"
 seo_title: "365 Organic Beef Broth Review: Worth It? (2026)"
 meta_description: "Honest 365 by Whole Foods organic beef broth review: taste, ingredients, and value. See if this 32 oz carton beats Swanson or store brands."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9PNWGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DJLKW4FoL._SL1000_.jpg"
-pros:
+pros: 
   - "Clean USDA Organic label — no antibiotics, no artificial anything, short ingredient list"
   - "Rich, savory flavor that works as a sipping broth or a cooking base"
   - "32 oz shelf-stable carton means you can stock up without freezer space"
-cons:
+cons: 
   - "Price per ounce runs higher than conventional broths at most grocers"
   - "Contains onion and garlic — not suitable for FODMAP-sensitive shoppers"
   - "Some batches arrive with dented cartons due to minimal packaging"
+
 ---
 
 Here's the thing about boxed beef broth: most of it tastes like vaguely salty brown water. The 365 by Whole Foods Market Organic Beef Broth is not that. With a 4.7-star average across 235 ratings, this 32-ounce carton has carved out a loyal following among shoppers who actually read ingredient labels. After digging through the feedback and weighing the specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "2 Pack Badge Holder and Heavy Duty Retractable Reel, ID Badg"
 seo_title: "2 Pack Badge Holder & Retractable Reel Review (2026)"
 meta_description: "Honest review of the 2-pack ID badge holder with heavy-duty retractable reel. Real pros, cons, and buying advice for 4.5-star office gear."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWDJNM3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CDr+xkRdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 36-inch retractable cord that extends fully without tangling, even with repeated daily use"
   - "Sturdy stainless steel clip and reinforced reel housing that survives drops onto concrete floors"
   - "Clear PVC badge window stays transparent after months — no yellowing like cheaper holders"
-cons:
+cons: 
   - "Reel tension is strong; smaller-framed users may find the pull resistance noticeable when reaching for doors"
   - "The two-pack doesn't include lanyards, so you'll need to supply your own or clip directly to a belt loop"
+
 ---
 
 If you've ever had a flimsy badge reel snap mid-shift, you know the exact frustration this product is designed to eliminate. The 2 Pack Badge Holder and Heavy Duty Retractable Reel targets the most common failure point in office and facility gear: the cheap plastic reel that gives up after three weeks. After digging through 225 ratings and the physical specs, here's the real story.

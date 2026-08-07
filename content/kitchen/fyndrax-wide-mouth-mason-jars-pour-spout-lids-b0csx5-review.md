@@ -1,4 +1,5 @@
 ---
+
 title: "FyndraX Wide Mouth Mason Jars Pour Spout Lids"
 seo_title: "FyndraX Wide Mouth Mason Jars Pour Spout Lids Review: Ver"
 meta_description: "Our full fyndrax wide mouth mason jars pour spout lids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSX51P5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61grHASFiFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried pouring olive oil from a wide mouth mason jar, you know the tragedy: half the contents run down the side, pooling on the counter. The FyndraX Pour Spout Lids claim to fix that for under $15. After testing them across a week of daily kitchen use, here's the honest picture.

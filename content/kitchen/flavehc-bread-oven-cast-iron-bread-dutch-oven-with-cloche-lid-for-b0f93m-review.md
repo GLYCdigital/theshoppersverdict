@@ -1,4 +1,5 @@
 ---
+
 title: "Flavehc Bread Oven Cast Iron Bread Dutch Oven with Cloche Li"
 seo_title: "Flavehc Cast Iron Bread Oven Review: Bakery Results at Home"
 meta_description: "Flavehc cast iron bread Dutch oven with cloche lid review: steam retention, crust quality, and whether this 4.8-star baker is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F93MZ6QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OvY-mUJ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Domed cloche lid traps steam without needing a separate ice cube tray or water pan"
   - "Deep bottom section handles high-hydration doughs without overflow"
   - "Pre-seasoned interior delivers non-stick performance from the first bake"
-cons:
+cons: 
   - "Heavy — expect to handle 15+ pounds when loaded, which can strain smaller wrists"
   - "No helper handles on the lid, so gripping a hot 500°F cloche requires thick mitts and care"
+
 ---
 
 If you've been baking sourdough in a standard Dutch oven, you already know the drill: preheat the pot, score the dough, drop it in, and pray you don't burn your forearms on the rim. The Flavehc Bread Oven with cloche lid is designed to eliminate that awkward dance — and after looking at what 240 buyers have to say, it mostly delivers.

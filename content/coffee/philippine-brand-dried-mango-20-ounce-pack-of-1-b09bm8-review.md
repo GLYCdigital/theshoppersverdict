@@ -1,4 +1,5 @@
 ---
+
 title: "Philippine Brand Dried Mango, 20 Ounce (Pack of 1)"
 seo_title: "Philippine Brand Dried Mango, 20 Ounce (Pack of 1) Review"
 meta_description: "Our full philippine brand dried mango, 20 ounce (pack of 1) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09BM8V5HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91eu5jq8DCL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Philippine Brand Dried Mango, 20 Ounce (Pack of 1) — A Sweet Treat Worth the Hype?

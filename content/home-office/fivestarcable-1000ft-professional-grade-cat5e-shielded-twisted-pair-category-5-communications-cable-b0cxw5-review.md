@@ -1,4 +1,5 @@
 ---
+
 title: "FiveStarCable 1000ft Professional Grade Cat5e Shielded Twist"
 seo_title: "FiveStarCable 1000ft Professional Grade Cat5e Shie Review"
 meta_description: "Our full fivestarcable 1000ft professional grade cat5e shielded twist review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXW5SWZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rN4gOLY+L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running cable through walls, ceilings, or past a breaker panel, you already know the difference between "good enough" Cat5e and cable that makes you want to throw your crimper across the room. The FiveStarCable 1000ft Professional Grade Cat5e Shielded Twist sits firmly in the second camp — mostly.

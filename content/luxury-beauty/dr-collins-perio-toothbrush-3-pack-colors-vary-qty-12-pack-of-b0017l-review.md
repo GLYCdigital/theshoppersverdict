@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Collins Perio Toothbrush 3 Pack, (Colors Vary) (Qty. 12,"
 seo_title: "Dr. Collins Perio Toothbrush Review: Soft Bristle Deep Clean"
 meta_description: "Dr. Collins Perio Toothbrush review: ultra-soft bristles, deep gum cleaning, dentist-designed. Real buyer feedback on feel, durability & value."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0017LDYJU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S2CHje8DL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-soft 0.12mm tapered bristles reach deep into the gum line without irritation — noticeably gentler than standard soft brushes"
   - "Compact 1.2cm head navigates molars and tight spaces far better than bulky store-brand heads"
   - "Non-slip rubber grip handle with a curved neck reduces pressure on gums during extended brushing"
-cons:
+cons: 
   - "Colors vary per pack — you may receive an assortment you don't love, and there's no way to select preferences"
   - "Bristles splay faster than firmer brushes; heavy brushers may need to replace every 4-6 weeks instead of the standard 3 months"
+
 ---
 
 # Dr. Collins Perio Toothbrush Review: The Gum-Saving Brush Your Dentist Would Approve Of

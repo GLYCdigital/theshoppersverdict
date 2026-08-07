@@ -1,4 +1,5 @@
 ---
+
 title: "BN-LINK Grow Bags Heavy Duty 300G Thickened Nonwoven Plant F"
 seo_title: "BN-LINK 300G Grow Bags Review: Heavy-Duty Fabric Pots"
 meta_description: "BN-LINK 300G thickened nonwoven grow bags review: durability, drainage, and real-world performance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D91WHC5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F-GOOdZKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "300G nonwoven fabric is noticeably thicker than typical 200G bags — resists tearing and holds shape even after repeated watering"
   - "Double-stitched seams and reinforced handles handle wet soil weight without ripping, even when fully loaded"
   - "Excellent air pruning effect — roots hit the fabric edge and stop circling, promoting denser, healthier root systems"
-cons:
+cons: 
   - "Thicker fabric means slower drying than thinner bags — you'll need to watch watering frequency in cooler, humid conditions"
   - "No drainage hole at the bottom — relies entirely on fabric permeability, so standing water on hard surfaces can be an issue"
+
 ---
 
 If you've ever had a cheap fabric pot collapse into a soggy, misshapen blob by midsummer, you know the pain. The BN-LINK 300G thickened nonwoven grow bags are designed to fix exactly that problem. After digging into the specs, customer feedback, and how these handle real growing conditions, here's the honest breakdown.

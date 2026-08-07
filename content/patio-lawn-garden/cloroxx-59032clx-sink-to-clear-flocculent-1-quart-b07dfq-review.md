@@ -1,4 +1,5 @@
 ---
+
 title: "Cloroxx 59032CLX Sink to Clear Flocculent, 1-Quart"
 seo_title: "Cloroxx Sink to Clear Flocculent Review: Does It Work?"
 meta_description: "Cloroxx 59032CLX Sink to Clear Flocculent review: Tested for cloudy pool water. See real results, pros, cons, and who should buy this 1-quart clarifier."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DFQXMMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RiOqBxJhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Clears severely cloudy or green pools in 24-48 hours when used correctly with a vacuum-to-waste setting"
   - "Concentrated formula — 1 quart treats up to 20,000 gallons, making it economical per treatment"
   - "Works on stubborn particles (dirt, pollen, dead algae) that standard clarifiers can't settle"
-cons:
+cons: 
   - "Requires manual vacuuming to waste afterward — no shortcuts if you want results"
   - "Not a substitute for proper sanitizer levels; balances pH and chlorine first or it won't work"
   - "Can cloud an already-clear pool if overdosed; measure carefully"
+
 ---
 
 If your pool looks like pea soup or a glass of milk, you don't need another clarifier — you need a flocculant. The Cloroxx 59032CLX Sink to Clear is a different animal from the weekly maintenance products on the shelf. It's the heavy artillery for pool recovery, and at 4.6 stars from 229 buyers, it's clearly earning its keep. But it demands more from you than pouring and walking away.

@@ -1,4 +1,5 @@
 ---
+
 title: "The Only Bean - Organic Edamame Fettuccine Pasta - High Prot"
 seo_title: "The Only Bean - Organic Edamame Fettuccine Pasta - Review"
 meta_description: "Our full the only bean - organic edamame fettuccine pasta - high prot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT9XBY1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m+WJ728JL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this isn't pasta. It's a high-protein noodle-shaped vehicle for getting 46 grams of plant protein into your day without touching a protein shake. And for that specific job, The Only Bean's Organic Edamame Fettuccine does it better than most.

@@ -1,4 +1,5 @@
 ---
+
 title: "RESTMO Gear Drive Sprinkler with Metal Spike Base, Multi-Adj"
 seo_title: "RESTMO Gear Drive Sprinkler with Metal Spike Base, Review"
 meta_description: "Our full restmo gear drive sprinkler with metal spike base, multi-adj review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GL69GWDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519FhWh5HLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most gear drive sprinklers under $40 are flimsy plastic affairs that tip over halfway through your watering cycle. The RESTMO Gear Drive Sprinkler with Metal Spike Base takes a different approach, and for the most part, it works. Here's the real breakdown.

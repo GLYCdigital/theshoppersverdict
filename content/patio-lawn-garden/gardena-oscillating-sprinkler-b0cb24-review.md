@@ -1,23 +1,25 @@
 ---
+
 title: "Gardena Oscillating Sprinkler"
 seo_title: "Gardena Oscillating Sprinkler Review: Even Coverage & Build"
 meta_description: "Honest Gardena Oscillating Sprinkler review: coverage area, metal base durability, adjustability, and real-world performance. Is it worth it?"
 slug: "gardena-oscillating-sprinkler-b0cb24-review"
 image_alt: "Gardena oscillating sprinkler watering a medium-sized lawn with adjustable spray bars"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CB24T34R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YPKa+FqLL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Metal base with weighted stability—won't tip over on uneven ground"  
   - "Precise dial controls for width and water flow, not just generic range settings"  
   - "Even water distribution across the full 4,300 sq ft pattern, minimal dry spots"  
-cons:  
+cons: 
   - "Plastic spray nozzles are the weak point; they can clog if you have hard water"  
   - "No built-in timer—you'll need to pair it with a hose timer for unattended use"
+
 ---
 
 If you’ve owned a cheap oscillating sprinkler, you know the drill: it flips over, sprays uneven stripes across your lawn, and dies after one season. The Gardena Oscillating Sprinkler is not that sprinkler. It’s priced like a tool, not a toy, and after looking at the specs and the 4.5-star average across 225 ratings, it earns that distinction.

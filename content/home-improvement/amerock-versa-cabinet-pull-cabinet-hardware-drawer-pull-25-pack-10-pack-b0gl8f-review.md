@@ -1,4 +1,5 @@
 ---
+
 title: "Amerock Versa Cabinet Pull Cabinet Hardware Drawer Pull 25 P"
 seo_title: "Amerock Versa Cabinet Pull 25-Pack Review: Worth It?"
 meta_description: "Amerock Versa cabinet pull 25-pack review: real-world durability, finish quality, and whether this budget-friendly hardware holds up. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL8FPQC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sFp8L6-UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent satin nickel finish across all 25 pulls — no visible color variation between pieces"
   - "Sturdy zinc alloy construction with solid feel at a price that undercuts big-box stores by roughly 40%"
   - "Standard 3-inch (76mm) hole spacing fits the vast majority of pre-drilled cabinet fronts without modification"
-cons:
+cons: 
   - "Screws included are soft — several buyers report stripping heads if using a power drill without a clutch"
   - "No template included; you'll need to measure carefully or buy a jig separately for uniform placement"
+
 ---
 
 **The 25-pack cabinet pull that makes over-budget kitchen remodels actually possible**

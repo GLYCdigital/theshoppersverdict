@@ -1,4 +1,5 @@
 ---
+
 title: "Tidy Cats Breeze Cat Breeze Litter Pellets, 3.5 LB (Pack of "
 seo_title: "Tidy Cats Breeze Cat Breeze Litter Pellets, 3.5 LB Review"
 meta_description: "Our full tidy cats breeze cat breeze litter pellets, 3.5 lb (pack of  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BX78DSWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e7u+zz0aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Tidy Cats Breeze system actually worth the switch, or is it just a pricey gimmick?**

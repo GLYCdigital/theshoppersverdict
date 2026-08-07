@@ -1,4 +1,5 @@
 ---
+
 title: "RectorSeal Safe-T-Switch 97632 Condensate Overflow Switch, E"
 seo_title: "RectorSeal Safe-T-Switch 97632 Condensate Overflow Review"
 meta_description: "Our full rectorseal safe-t-switch 97632 condensate overflow switch, e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007CZCRXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jQ4p4bPDL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if your HVAC condensate drain clogs, you're looking at water damage that makes this $30 part feel like the bargain of the century. The RectorSeal Safe-T-Switch 97632 is the most popular condensate overflow switch on Amazon for a reason — but it's not a magic bullet. Here's what 235 buyers (and their 4.7-star average) actually think.

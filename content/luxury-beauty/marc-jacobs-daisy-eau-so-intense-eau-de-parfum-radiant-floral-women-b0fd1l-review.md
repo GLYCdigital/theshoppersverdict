@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Jacobs Daisy Eau so Intense Eau de Parfum â€“ Radiant F"
 seo_title: "Marc Jacobs Daisy Eau so Intense Eau de Parfum â€“ Review"
 meta_description: "Our full marc jacobs daisy eau so intense eau de parfum â€“ radiant f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD1L2F24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C521Vh6NL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Marc Jacobs Daisy Eau So Intense Eau de Parfum – Radiant F

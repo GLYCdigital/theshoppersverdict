@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Kettle Grill Rotisserie Kit for 22 Inch Charcoal Grill"
 seo_title: "Weber Kettle Grill Rotisserie Kit for 22 Inch Char Review"
 meta_description: "Our full weber kettle grill rotisserie kit for 22 inch charcoal grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00004VWM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MYGw2a0OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most rotisserie attachments for charcoal kettles are flimsy afterthoughts. The Weber Kettle Rotisserie Kit is not that. After 240 ratings and a 4.8-star average, this is the rare accessory that turns a $150 kettle into a $400 rotisserie machine — but it's not perfect, and you should know exactly what you're getting before you click buy.

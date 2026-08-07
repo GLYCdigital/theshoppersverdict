@@ -1,4 +1,5 @@
 ---
+
 title: "FULI Japanese Tatami Mattress,Square Tatami Rug,Igusa Mat (J"
 seo_title: "FULI Japanese Tatami Mat Review: Authentic Igusa Rush Grass"
 meta_description: "Honest FULI Japanese Tatami mattress review: real igusa rush grass, sizing, smell, durability. Is this square tatami rug worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH3P1MWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51p99uF7GmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine igusa rush grass weave with a strong, pleasant straw aroma that fills a room naturally"
   - "Reversible cotton cloth border and non-slip rubber backing hold position on hardwood and tatami floors"
   - "Sized true to listing (e.g., 79x79 inch square) with a dense, firm feel that holds shape without sagging"
-cons:
+cons: 
   - "Strong initial odor lingers 3-7 days — sensitive noses should air it out before use"
   - "Rush grass surface shows scuffs and indentations from furniture legs or heavy foot traffic over time"
   - "Not machine washable; spot-clean only, which limits appeal for households with pets or kids"
+
 ---
 
 If you've ever slept on a real tatami in a Japanese ryokan, you know the feeling — that clean, grassy scent and the firm-yet-giving support that foam mattresses just can't replicate. The FULI Japanese Tatami Mattress tries to bottle that experience for your home, and for the most part, it succeeds. But it's not without quirks, and whether it's right for you depends on how much you value authenticity over convenience.

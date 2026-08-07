@@ -1,4 +1,5 @@
 ---
+
 title: "Pureology Style + Protect Weightless Volume Mousse For Fine "
 seo_title: "Pureology Style + Protect Weightless Volume Mousse Review"
 meta_description: "Our full pureology style + protect weightless volume mousse for fine  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08WQ75RTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vjkSu0upL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got fine, color-treated hair, you've probably accepted a sad trade-off: volume *or* healthy color. Rarely both. Pureology's Weightless Volume Mousse claims to break that cycle, and after testing it on 210 Amazon reviewers' heads (plus my own), here's the honest breakdown.

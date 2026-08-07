@@ -1,4 +1,5 @@
 ---
+
 title: "Alienware Pro Wireless Gaming Mouses"
 seo_title: "Alienware Pro Wireless Gaming Mouse Review: Worth It?"
 meta_description: "Hands-on Alienware Pro Wireless Gaming Mouse review: 4.0/5 rating, real battery life, battery, weight, and who should buy. Honest pros and cons."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DVT188V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sub-60g weight (about 58g) makes it genuinely competitive with esports-focused mice like the Viper V2 Pro or DeathAdder V3 Pro"
   - "Alienware's 4KHz polling rate dongle is included in the box — that's a $30–50 value you don't have to buy separately"
   - "The 8,000Hz polling rate mode (via firmware update) is future-proofing most competitors don't offer at this price"
-cons:
+cons: 
   - "Battery life at 4KHz polling is roughly 32 hours — you'll be charging weekly if you game daily, not monthly"
   - "The 'Mouses' in the product name is a red flag for QC — several reviews mention creaking shells and mushy side buttons out of the box"
+
 ---
 
 **The Alienware Pro Wireless isn't just another RGB-laden desk ornament.** It's a sub-60-gram competitive mouse that's clearly aimed at the esports crowd, and it mostly sticks the landing. But it's not without compromises, and whether it's worth your money depends entirely on how you game.

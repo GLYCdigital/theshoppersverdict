@@ -1,4 +1,5 @@
 ---
+
 title: "RELBRO 1 Inch Screw Hooks"
 seo_title: "RELBRO 1 Inch Screw Hooks Review: Verdict | TSV"
 meta_description: "Our full relbro 1 inch screw hooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRT9GWM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZDx9bBi3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RELBRO 1 Inch Screw Hooks: The $10 Organizer That Actually Does the Job

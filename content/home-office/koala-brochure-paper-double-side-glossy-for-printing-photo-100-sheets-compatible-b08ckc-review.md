@@ -1,4 +1,5 @@
 ---
+
 title: "Koala Brochure Paper Double Side Glossy for Printing Photo 1"
 seo_title: "Koala Brochure Paper Double Side Glossy for Printi Review"
 meta_description: "Our full koala brochure paper double side glossy for printing photo 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08CKCRSPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719+sszRB8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about glossy paper: most of it is either too flimsy to feel premium or so thick it jams your printer. The Koala Double-Sided Glossy Brochure Paper sits in a sweet spot that makes it worth a closer look — especially if you print client-facing materials, event programs, or portfolio pages at home.

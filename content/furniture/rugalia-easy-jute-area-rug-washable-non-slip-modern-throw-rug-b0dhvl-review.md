@@ -1,4 +1,5 @@
 ---
+
 title: "Rugalia Easy Jute Area Rug, Washable Non Slip Modern Throw R"
 seo_title: "Rugalia Easy Jute Area Rug, Washable Non Slip Mode Review"
 meta_description: "Our full rugalia easy jute area rug, washable non slip modern throw r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHVLV5RH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R-yWrstiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A washable jute rug that actually survives the washing machine**

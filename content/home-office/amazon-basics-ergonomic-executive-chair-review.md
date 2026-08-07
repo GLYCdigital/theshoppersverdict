@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Ergonomic Executive Office Desk Chair"
 seo_title: "Amazon Basics Ergonomic Executive Chair Review (2026)"
 meta_description: "Amazon Basics Ergonomic Executive Chair review: 4.2-star rated, $149. Is it worth it? We break down comfort, build quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 3938
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07V8ZMFDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CUGLzW65L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine ergonomic features — adjustable lumbar support, 3D armrests, and a tilt-lock mechanism — at a sub-$150 price point"
   - "Tool-free assembly takes under 15 minutes; no wrestling with Allen wrenches"
   - "Solid 300-lb weight capacity with a heavy-duty five-star base that doesn't wobble on carpet"
-cons:
+cons: 
   - "Faux leather seat cushions compress noticeably after 6-8 months of daily 8-hour use"
   - No adjustable seat depth, so taller users (6'2 inch "+) may find the 20.5 inch " seat too shallow
+
 ---
 
 **Bottom Line Up Front:** The Amazon Basics Ergonomic Executive Chair is the rare budget chair that actually delivers on its ergonomic promises — for a specific body type. At $149, it's not trying to be a $500 Herman Miller. It's trying to be the best chair under $200, and for most average-height workers, it succeeds. But there are tradeoffs you need to know about before you click buy.

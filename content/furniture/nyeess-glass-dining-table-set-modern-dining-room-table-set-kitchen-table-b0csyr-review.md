@@ -1,4 +1,5 @@
 ---
+
 title: "NYEESS Glass Dining Table Set,Modern Dining Room Table Set, "
 seo_title: "NYEESS Glass Dining Table Set,Modern Dining Room T Review"
 meta_description: "Our full nyeess glass dining table set,modern dining room table set,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CSYRMC7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QYAWpLq0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # NYEESS Glass Dining Table Set: A Striking Centerpiece With One Big Tradeoff

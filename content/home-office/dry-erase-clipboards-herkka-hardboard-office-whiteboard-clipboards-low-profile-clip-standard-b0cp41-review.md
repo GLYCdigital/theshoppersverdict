@@ -1,4 +1,5 @@
 ---
+
 title: "Dry Erase Clipboards, HERKKA Hardboard Office Whiteboard Cli"
 seo_title: "HERKKA Dry Erase Clipboard Review: Hardboard Whiteboard Clip"
 meta_description: "HERKKA hardboard dry erase clipboards reviewed: durable low-profile clip, smooth writing surface, real-world tests. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP414NKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A3UGwz96L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth ceramic-steel writing surface erases cleanly without ghosting, even after markers sit overnight"
   - "Solid 3mm hardboard backing gives real rigidity — no flexing or bending when writing on your lap"
   - "Low-profile clip sits flush and holds 40+ sheets firmly without marring documents"
-cons:
+cons: 
   - "Only one colorway available (black) — no option for color-coding or matching office decor"
   - "Whiteboard surface attracts fingerprints and smudges quickly; requires frequent wiping to look pristine"
+
 ---
 
 If you've ever tried writing on a flimsy clipboard balanced on your knee, you already know the struggle — the paper slides, the board bends, and your handwriting turns into illegible chicken scratch. The HERKKA hardboard dry erase clipboard aims to solve that with a rigid 3mm backing and a whiteboard surface that pulls double duty. After 220 ratings averaging 4.4 stars, it's clearly earning its keep in offices and job sites alike. Here's the full breakdown.

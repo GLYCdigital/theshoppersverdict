@@ -1,4 +1,5 @@
 ---
+
 title: "All-in-One Training Bites for Puppies & Adult Dogs Bag 8oz /"
 seo_title: "All-in-One Training Bites Review: 8oz Bag for Puppies & Dogs"
 meta_description: "Honest All-in-One Training Bites review: soft, bacon-flavored treats for puppies & adult dogs. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNSGJY9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81T5JkLmiuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft, pea-sized morsels break easily by hand — ideal for high-frequency training sessions without overfeeding"
   - "Bacon flavor is genuinely appealing to picky eaters; multiple reviewers report even normally food-averse dogs respond"
   - "Only 3.5 calories per treat, making it easier to budget treats into a daily food allowance"
-cons:
+cons: 
   - "8oz bag is smaller than it looks in the product image — heavy trainers may go through it in under two weeks"
   - "No resealable zipper on the bag; freshness requires a clip or transfer to an airtight container"
+
 ---
 
 Training treats are a dime a dozen on Amazon. Most are either rock-hard biscuits that take five seconds for a dog to crunch through (killing your training rhythm) or greasy, chemical-smelling morsels that make you feel like you're feeding your pup processed junk. The All-in-One Training Bites sit in a sweet spot — soft enough to tear apart instantly, small enough to dispense repeatedly, and flavored strongly enough that even picky dogs pay attention.

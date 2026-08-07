@@ -1,4 +1,5 @@
 ---
+
 title: "Carport 10x20 Heavy Duty Portable Garage,Galvanized Frame Ca"
 seo_title: "Carport 10x20 Heavy Duty Portable Garage Review: Worth It?"
 meta_description: "Honest Carport 10x20 Heavy Duty Portable Garage review: galvanized frame strength, real-world durability, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSL3RR2T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517hwMTr9zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Galvanized steel frame with 3.5-inch diameter legs resists rust and handles moderate snow loads better than budget tube-frame carports"
   - "Full 10x20 footprint gives genuine two-vehicle capacity — most competitors shrink to 9.5x18 once assembled"
   - "Reinforced cover with double-stitched seams and UV treatment survives a full season of sun without becoming brittle"
-cons:
+cons: 
   - "No side walls included — rain driven by wind still reaches whatever's parked inside"
   - "Ratcheting straps are functional but undersized; upgrading to heavy-duty ratchet straps costs $25 and is worth it"
   - "Assembly requires two people and roughly five hours — do not attempt solo with a ladder"
+
 ---
 
 A 10x20 carport is a significant purchase. The cheap ones collapse in the first windstorm. The expensive ones cost more than a used car. This galvanized-frame portable garage sits in the middle — and for most buyers, that's exactly where it needs to be.

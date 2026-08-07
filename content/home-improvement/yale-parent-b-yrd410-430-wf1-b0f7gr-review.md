@@ -1,4 +1,5 @@
 ---
+
 title: "Yale Parent B-YRD410/430-WF1"
 seo_title: "Yale Parent B-YRD410/430-WF1 Review: Verdict | TSV"
 meta_description: "Our full yale parent b-yrd410/430-wf1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F7GRTLB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xg0GqMq2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Real-World Performance

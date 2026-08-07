@@ -1,4 +1,5 @@
 ---
+
 title: "Dxhycc Dog Knitted Sweater Dog Heart Sweater Puppy Sweater W"
 seo_title: "Dxhycc Dog Heart Sweater Review: Warm Knit for Small Dogs"
 meta_description: "Dxhycc dog knitted heart sweater review: soft, warm, and cute for small breeds. See sizing tips, real owner feedback, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09KV7WSDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V8-FpMDYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-to-size fit for most small breeds — the size chart matches actual dog measurements, not guesswork"
   - "Soft acrylic knit that doesn't itch or trigger scratching in sensitive dogs"
   - "Heart pattern is stitched, not printed — survives repeated washing without peeling or cracking"
-cons:
+cons: 
   - "No leash hole in the back, which means layering a harness underneath adds bulk"
   - "Chest coverage is modest; deep-chested breeds like Chihuahuas may need a size up"
+
 ---
 
 If you've ever wrestled a stiff, scratchy dog sweater onto a squirming 10-pound Chihuahua, you know the struggle is real. The Dxhycc Dog Knitted Sweater with its stitched heart pattern aims to fix that — and for the most part, it delivers. With 225 ratings holding steady at 4.5 stars, this isn't a flash-in-the-pan novelty item. It's a genuinely useful layer for small breeds that get cold easily.

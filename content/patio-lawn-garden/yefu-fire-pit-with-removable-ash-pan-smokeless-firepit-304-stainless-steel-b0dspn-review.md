@@ -1,4 +1,5 @@
 ---
+
 title: "YEFU Fire Pit with Removable Ash Pan Smokeless Firepit 304 S"
 seo_title: "YEFU Fire Pit with Removable Ash Pan Smokeless Fir Review"
 meta_description: "Our full yefu fire pit with removable ash pan smokeless firepit 304 s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSPNW38J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dj7ywIhML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The YEFU Fire Pit delivers 85% of the Solo Stove experience at a fraction of the price — if you can live with a smaller burn chamber.**

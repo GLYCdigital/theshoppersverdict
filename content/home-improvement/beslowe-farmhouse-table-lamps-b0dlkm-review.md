@@ -1,4 +1,5 @@
 ---
+
 title: "BesLowe Farmhouse Table Lamps"
 seo_title: "BesLowe Farmhouse Table Lamps Review: Worth It? (2026)"
 meta_description: "BesLowe Farmhouse Table Lamps review: 4.5-star rated. Real buyer feedback on build quality, lighting, and value. Find out if these lamps fit your space."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLKMLLFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-u9L45D2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid MDF base with a sealed matte finish that resists water rings and dust buildup"
   - "Warm 2700K glow from the included 60W-equivalent LED bulb creates genuine farmhouse ambiance"
   - "Push-button switch on the base is easy to find in the dark — no fumbling for a pull chain"
-cons:
+cons: 
   - "Shade is a thin polyester-linen blend, not real linen; it wrinkles if you grip it too hard when adjusting"
   - "Bulb is not replaceable — when it dies (roughly 15,000 hours), you replace the whole lamp"
   - "Cord is only 5 feet long, which may require an extension cord for wider nightstands or end tables"
+
 ---
 
 If you've searched "farmhouse table lamps" on Amazon, you've seen a hundred variations of the same design: a wooden base, a boxy shade, a rustic vibe. The BesLowe version stands out for one reason — the proportions are actually right. At 23 inches tall with a 12-inch square base, it's substantial enough to anchor a bedside table or console without towering over the room like a floor lamp in disguise.

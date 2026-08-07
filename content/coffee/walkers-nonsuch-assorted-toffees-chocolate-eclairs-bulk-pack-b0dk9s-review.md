@@ -1,4 +1,5 @@
 ---
+
 title: "Walkers' Nonsuch Assorted Toffees & Chocolate Eclairs Bulk P"
 seo_title: "Walkers' Nonsuch Assorted Toffees & Chocolate Ecla Review"
 meta_description: "Our full walkers' nonsuch assorted toffees & chocolate eclairs bulk p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK9S74TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zAXEwrvJL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this isn't a product I'd normally review on a coffee gear site. But if you're the kind of person who takes their coffee seriously, you probably also appreciate something sweet to cut through the bitterness. Walkers' Nonsuch Assorted Toffees and Chocolate Eclairs are a British institution, and this bulk pack brings them to your door.

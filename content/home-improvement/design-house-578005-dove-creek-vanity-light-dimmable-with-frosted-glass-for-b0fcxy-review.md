@@ -1,23 +1,25 @@
 ---
+
 title: "Design House 578005 Dove Creek Vanity Light Dimmable with Fr"
 seo_title: "Design House Dove Creek Vanity Light Review: Dimmable & Frosted"
 meta_description: "Read our honest Design House 578005 Dove Creek vanity light review — dimmable, frosted glass, 4.5★ from 225 buyers. See pros, cons, and who should buy."
 slug: "design-house-578005-dove-creek-vanity-light-dimmable-with-frosted-glass-for-b0fcxy-review"
 image_alt: "Design House 578005 Dove Creek dimmable vanity light with frosted glass mounted above a bathroom mirror"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCXY9D4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ZPeXdLMvL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Frosted glass diffuses light evenly, eliminating harsh glare and hotspots around mirrors"  
   - "Dimmable function works smoothly with standard LED bulbs (tested with 60W equivalent)"  
   - "Solid steel construction with a brushed nickel finish that resists fingerprints and water spots"  
-cons:  
+cons: 
   - "Mounting screws are short — you’ll likely need longer ones for thick drywall or plaster"  
   - "Glass shades are not removable for cleaning; you’ll need a microfiber cloth and patience"
+
 ---
 
 The Design House 578005 Dove Creek Vanity Light is the rare bathroom fixture that looks more expensive than it is. At first glance, you’d expect a $150+ price tag given the brushed nickel finish and frosted glass. But this is a budget-friendly pick that punches way above its weight class — with a few quirks you should know before buying.

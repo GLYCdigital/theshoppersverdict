@@ -1,4 +1,5 @@
 ---
+
 title: "Golf Pride CPX Golf Club Grip - Quilted Texture & Soft, Tack"
 seo_title: "Golf Pride CPX Golf Club Grip - Quilted Texture &  Review"
 meta_description: "Our full golf pride cpx golf club grip - quilted texture & soft, tack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ836F97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P0ZcSfGsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing: the Golf Pride CPX is not your father’s rubber grip. It’s a deliberate departure from the smooth, slick-feeling grips that dominate most bags. And for a specific type of player, it’s a genuine upgrade.

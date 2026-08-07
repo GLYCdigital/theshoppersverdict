@@ -1,4 +1,5 @@
 ---
+
 title: "Intermatic DT620 Heavy Duty Indoor Digital Plug-inTimer - Fu"
 seo_title: "Intermatic DT620 Heavy Duty Indoor Digital Plug-in Review"
 meta_description: "Our full intermatic dt620 heavy duty indoor digital plug-intimer - fu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B004TGO6RY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71onZAw3b6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Intermatic DT620 Review: The Heavy-Duty Timer That Actually Handles Real Loads

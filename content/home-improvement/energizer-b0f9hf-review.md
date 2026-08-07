@@ -1,4 +1,5 @@
 ---
+
 title: "Energizer"
 seo_title: "Energizer Review: Honest Verdict on Performance & Value"
 meta_description: "Our Energizer review covers real-world performance, durability, and value. See what 200 buyers say before you purchase this tool."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F9HFD7XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Reliable performance in repeated heavy-use testing; consistent output across multiple sessions"
   - "Solid build quality with reinforced housing that survived a 6-foot drop test"
   - "Clear, accessible controls that don't require reading the manual to operate intuitively"
-cons:
+cons: 
   - "Bulky footprint takes up significant drawer or shelf space compared to similar products"
   - "Accessories included are basic — expect to purchase better-quality add-ons separately"
+
 ---
 
 **The Short Version**

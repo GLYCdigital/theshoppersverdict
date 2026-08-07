@@ -1,4 +1,5 @@
 ---
+
 title: "Dealusy 360 Count Extra Heavy Duty Plastic Silverware, 150 F"
 seo_title: "Dealusy 360 Count Plastic Silverware Review (2026): Heavy Duty Forks & Spoons"
 meta_description: "Honest Dealusy 360 count extra heavy duty plastic silverware review. 150 forks & 150 spoons tested for strength, heat resistance, and value. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSW4NLNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gf0T7HF7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely thick, rigid construction — forks don't flex or snap when cutting through dense food"
   - "450°F heat rating means you can safely use these with chafing dishes or hot catered meals"
   - "Perfect 150/150 fork-spoon split — no wasted knives you'll never use"
-cons:
+cons: 
   - "No knives or napkins included — you'll need to source those separately for full place settings"
   - "Heavier than standard disposables, which adds slightly to shipping weight and per-unit cost"
+
 ---
 
 You're about to host a gathering, and you've learned the hard way that flimsy plastic silverware snaps the moment someone tries to cut a piece of steak. That's exactly the problem the Dealusy 360 Count Extra Heavy Duty set is designed to solve. With a 4.8-star average from 240 ratings, this isn't an unknown gamble — it's a workhorse that's earned its reputation.

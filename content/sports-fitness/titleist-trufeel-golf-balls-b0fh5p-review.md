@@ -1,4 +1,5 @@
 ---
+
 title: "Titleist TruFeel Golf Balls"
 seo_title: "Titleist TruFeel Golf Balls Review: Verdict | TSV"
 meta_description: "Our full titleist trufeel golf balls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FH5PQPZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MZcuSZJpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The golf ball market has a dirty secret: most "soft feel" balls are mush off the tee and dead around the greens. The Titleist TruFeel doesn't fall into that trap. It's a low-compression ball that actually performs, not just feels nice when you squeeze it. With a 4.8-star average across 240 Amazon ratings, this is one of the most consistently praised value golf balls you can buy. Here's the real story.

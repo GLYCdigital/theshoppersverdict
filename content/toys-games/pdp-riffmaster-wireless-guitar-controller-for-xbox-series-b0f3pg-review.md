@@ -1,4 +1,5 @@
 ---
+
 title: "PDP RIFFMASTER Wireless Guitar Controller for Xbox Series"
 seo_title: "PDP RIFFMASTER Wireless Guitar Controller for Xbox Review"
 meta_description: "Our full pdp riffmaster wireless guitar controller for xbox series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3PGX7N3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41q7qnqOgeL._SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PDP RIFFMASTER isn't just another plastic guitar. It's the first wireless guitar controller that actually works across both Rock Band 4 and Fortnite Festival on Xbox Series X|S, and at 4.5 stars from 225 Amazon ratings, it's clearly filling a gap that's been empty since the original Rock Band 4 guitar went out of production. But is it worth your money? Let's break it down.

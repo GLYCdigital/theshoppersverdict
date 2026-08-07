@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Wet Cat Food, Chunks in Broth"
 seo_title: "ACANA Wet Cat Food Chunks in Broth Review (2026)"
 meta_description: "Honest ACANA Wet Cat Food Chunks in Broth review: ingredients, texture, palatability, and value. See if this premium broth formula suits your cat."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G3PJT5JN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r6gwQzHIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High meat inclusion with named proteins like chicken, turkey, and fish — no vague 'meat meal' fillers"
   - "Shredded chunks in broth texture appeals to cats who refuse pâté; good for hydration"
   - "Grain-free and low-carb formula suitable for diabetic or overweight cats on vet-approved diets"
-cons:
+cons: 
   - "Pouches contain 2.47 oz — small portions; multi-cat households will burn through cases quickly"
   - "Broth-to-chunk ratio varies between cans; some batches arrive heavy on liquid, light on meat"
   - "Premium pricing sits well above Fancy Feast or Friskies, though ingredients justify some markup"
+
 ---
 
 **Bottom line up front:** If your cat turns up its nose at pâté-style wet food but needs more moisture in its diet, ACANA's Chunks in Broth formula is a legitimate upgrade — not just a pricey repackaging of the same stuff. At 4.0 stars across 200 ratings, the consensus is clear: picky cats eat it, but you'll pay for the privilege.

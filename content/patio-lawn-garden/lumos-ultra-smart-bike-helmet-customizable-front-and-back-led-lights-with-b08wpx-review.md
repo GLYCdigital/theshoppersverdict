@@ -1,4 +1,5 @@
 ---
+
 title: "Lumos Ultra Smart Bike Helmet | Customizable Front and Back "
 seo_title: "Lumos Ultra Smart Bike Helmet | Customizable Front Review"
 meta_description: "Our full lumos ultra smart bike helmet | customizable front and back  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08WPXPPR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-KBV4mijL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lumos Ultra Smart Bike Helmet Review: Is This the Smartest Way to Stay Visible?

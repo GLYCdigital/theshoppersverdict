@@ -1,4 +1,5 @@
 ---
+
 title: "Cozy Castle Bookshelf Set of 2, S-Shaped Modern Bookcase Roo"
 seo_title: "Cozy Castle S-Shaped Bookshelf Set Review: Stylish Storage"
 meta_description: "Honest Cozy Castle S-Shaped Bookshelf Set review: build quality, stability, real buyer feedback, and who should buy this 2-piece modern bookcase."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3LXHD31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718JtxXDlDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy engineered wood and metal frame construction that holds up to heavy books without wobble"
   - "S-curve silhouette doubles as a room divider, adding architectural interest beyond basic storage"
   - "Each unit assembles in under 20 minutes with labeled parts and a hex key included in the box"
-cons:
+cons: 
   - "Open-back design means you see wall scuffs or uneven paint behind the shelves"
   - "Top shelf depth is shallow at 10.5 inches — large art books overhang slightly"
+
 ---
 
 If you're tired of boxy bookcases that all look identical, the Cozy Castle S-Shaped Bookshelf Set is the visual curveball your living room needs. The S-curve silhouette isn't just decorative — it creates alternating shelf depths that let you layer decor front-to-back. With 225 ratings holding a 4.5-star average, this set has proven itself beyond the first-week honeymoon phase.

@@ -1,4 +1,5 @@
 ---
+
 title: "IBF Industrial Console Table, Wood and Metal Entryway Table"
 seo_title: "IBF Industrial Console Table, Wood and Metal Entry Review"
 meta_description: "Our full ibf industrial console table, wood and metal entryway table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09FXPDPKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FBq+QVd-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the IBF Industrial Console Table is one of those rare Amazon finds that actually looks like the photos. With a 4.8-star average across 240 ratings, it’s clearly doing something right. But is it the right entryway table for *your* space? Here’s the real story.

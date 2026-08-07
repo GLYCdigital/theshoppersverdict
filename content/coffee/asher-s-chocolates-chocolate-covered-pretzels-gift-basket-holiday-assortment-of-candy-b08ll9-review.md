@@ -1,4 +1,5 @@
 ---
+
 title: "Asher's Chocolates, Chocolate Covered Pretzels Gift Basket,"
 seo_title: "Asher's Chocolate Covered Pretzels Gift Basket Review (2026)"
 meta_description: "Asher's Chocolate Covered Pretzels Gift Basket review: taste, texture, packaging, and value. See if this 3.9-star candy basket is worth your money."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B08LL98CWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XLOzVV9qL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Asher's quality — real chocolate (not compound coating) with a proper snap and creamy mouthfeel"
   - "Generous 14-ounce assortment with milk, dark, and white chocolate pretzels gives variety in one box"
   - "Attractive presentation basket that's gift-ready without extra wrapping"
-cons:
+cons: 
   - "Crumb-heavy packaging means broken pretzels in transit — some buyers report 20-30% breakage"
   - "Price per ounce runs 30-50% higher than grocery-store chocolate pretzels"
   - "Basket itself is modest — don't expect a premium wicker gift presentation"
+
 ---
 
 ## Is This Gift Basket Worth Your Money?

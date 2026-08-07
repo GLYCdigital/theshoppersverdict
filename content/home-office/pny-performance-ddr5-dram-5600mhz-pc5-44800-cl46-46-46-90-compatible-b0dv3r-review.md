@@ -1,4 +1,5 @@
 ---
+
 title: "PNY Performance DDR5 DRAM 5600MHz (PC5-44800) â€“ CL46-46-46"
 seo_title: "PNY Performance DDR5 DRAM 5600MHz (PC5-44800) â€“  Review"
 meta_description: "Our full pny performance ddr5 dram 5600mhz (pc5-44800) â€“ cl46-46-46 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DV3RPW61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hhSD0okOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 DDR5 memory has a dirty little secret: a lot of kits advertise 5600MHz but ship with profiles that silently downclock to 4800 unless you dig into BIOS settings. The PNY Performance DDR5 5600MHz (PC5-44800) doesn't play that game. As shown in the product image, it's a plain black stick with a modest heat spreader—and that's exactly the point. This is memory that runs at its rated speed out of the box, and at $75–90 for a 32GB kit (depending on capacity), it undercuts most branded rivals by 15–20%.

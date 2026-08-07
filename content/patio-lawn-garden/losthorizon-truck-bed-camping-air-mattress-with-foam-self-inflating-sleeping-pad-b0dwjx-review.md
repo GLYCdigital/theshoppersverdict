@@ -1,4 +1,5 @@
 ---
+
 title: "LOSTHORIZON Truck Bed Camping Air Mattress with Foam, Self I"
 seo_title: "LOSTHORIZON Truck Bed Camping Air Mattress with Fo Review"
 meta_description: "Our full losthorizon truck bed camping air mattress with foam, self i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWJXGY2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bxpZHp+AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most truck bed air mattresses are glorified pool toys with a valve. The LOSTHORIZON is different—it's a hybrid that pairs a traditional air chamber with a 2-inch memory foam topper built into the structure. That distinction matters when you're sleeping on cold metal at 6,000 feet elevation.

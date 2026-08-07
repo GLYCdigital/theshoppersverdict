@@ -1,4 +1,5 @@
 ---
+
 title: "Somdot Veritical Lift Dresser with Shelf Outlet LED"
 seo_title: "Somdot Veritical Lift Dresser with Shelf Outlet LE Review"
 meta_description: "Our full somdot veritical lift dresser with shelf outlet led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DD2NRNS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wNWAw2XqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Somdot Vertical Lift Dresser Review: Smart Storage That Actually Earns Its Space

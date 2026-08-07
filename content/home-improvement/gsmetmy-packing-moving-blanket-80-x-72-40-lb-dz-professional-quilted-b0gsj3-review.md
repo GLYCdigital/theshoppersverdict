@@ -1,7 +1,8 @@
 ---
-title: "Gsmetmy Packing & Moving Blanket - 80\" x 72\" 40 lb/dz - Prof"
-seo_title: "Gsmetmy Packing & Moving Blanket - 80\" x 72\" 40 lb Review"
-meta_description: "Our full gsmetmy packing & moving blanket - 80\" x 72\" 40 lb/dz - prof review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Gsmetmy Packing & Moving Blanket - 80\ x 72\ 40 lb/dz - Prof"
+seo_title: "Gsmetmy Packing & Moving Blanket - 80\ x 72\ 40 lb Review"
+meta_description: "Our full gsmetmy packing & moving blanket - 80\ x 72\ 40 lb/dz - prof review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gsmetmy-packing-moving-blanket-80-x-72-40-lb-dz-professional-quilted-b0gsj3-review"
 image_alt: "Gsmetmy Packing & Moving Blanket - 80 x 72 40 lb/dz - Professional Quilted Shipping Thick Furniture Pad"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSJ3WLZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/914RVuEE3FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrapped a leather sofa in a thin moving blanket and watched it slide off mid-transit, you know the difference between a pad that protects and one that just looks like it does. The Gsmetmy 80" x 72" packing blanket sits firmly in the protector category — but it has a few quirks you should know about before you buy a dozen.

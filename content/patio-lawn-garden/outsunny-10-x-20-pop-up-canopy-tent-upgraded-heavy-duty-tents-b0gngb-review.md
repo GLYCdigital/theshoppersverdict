@@ -1,4 +1,5 @@
 ---
+
 title: "Outsunny 10' x 20' Pop Up Canopy Tent, Upgraded Heavy Duty T"
 seo_title: "Outsunny 10' x 20' Pop Up Canopy Tent, Upgraded He Review"
 meta_description: "Our full outsunny 10' x 20' pop up canopy tent, upgraded heavy duty t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GNGBKXMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ksk0v8ncL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Big Canopy That Demands Respect (and a Friend to Help Set It Up)**

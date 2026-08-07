@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Street Hockey Sticks - Ambush Junior Street"
 seo_title: "Franklin Ambush Junior Street Hockey Stick Review (2026)"
 meta_description: "Franklin Sports Ambush Junior Street Hockey Stick review: 4.4-star rated, 220+ reviews. Real performance data, sizing help, and honest tradeoffs."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075XZGKSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hE6jn-fCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full wood construction absorbs rough driveway and concrete abuse without shattering"
   - "Junior flex rating is forgiving for young players still developing shooting mechanics"
   - "Taped butt end and textured shaft grip come ready out of the box"
-cons:
+cons: 
   - "Wood shaft is noticeably heavier than composite alternatives — tiring for smaller kids on long sessions"
   - "Blade tape wears through quickly on abrasive asphalt surfaces"
+
 ---
 
 **The $15 question: Can a wood street stick actually survive a summer of driveway hockey?**

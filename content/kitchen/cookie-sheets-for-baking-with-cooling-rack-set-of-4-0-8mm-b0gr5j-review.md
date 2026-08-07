@@ -1,4 +1,5 @@
 ---
+
 title: "Cookie Sheets for Baking with Cooling Rack Set of 4, 0.8mm T"
 seo_title: "Cookie Sheets with Cooling Rack Set of 4 Review (2026)"
 meta_description: "Honest review of 0.8mm thick cookie sheets with cooling rack set of 4. Tested for warping, browning, and value. See if this set beats Nordic Ware."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GR5JFY25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TGWr7ymL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "0.8mm aluminized steel resists warping even at 450°F — noticeably thicker than the 0.5mm sheets most budget sets ship with"
   - "The cooling rack fits flush inside the half-sheet pan, so drips land in the pan instead of on your counter"
   - "Set covers both half-sheet (18x13) and quarter-sheet (13x9) sizes — you get four pans plus a rack for roughly the price of two name-brand sheets"
-cons:
+cons: 
   - "Not nonstick — you need parchment or a light grease for anything delicate like madeleines or macarons"
   - "The cooling rack's wire spacing is a bit wide (about 1/2 inch), so mini cookies or small scones can slip through"
   - "Not nonstick — you need parchment or a light grease for anything delicate"
   - "Cooling rack wire spacing (~1/2 inch) lets mini cookies drop through"
+
 ---
 
 Let's cut through the noise. Most cookie sheet sets on Amazon are flimsy 0.5mm aluminum that warps the first time you roast vegetables at 425°F. This set specs out at 0.8mm — and that thickness is the entire ballgame.

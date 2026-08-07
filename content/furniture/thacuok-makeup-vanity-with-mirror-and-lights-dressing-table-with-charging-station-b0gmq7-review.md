@@ -1,4 +1,5 @@
 ---
+
 title: "Thacuok Makeup Vanity with Mirror and Lights, Dressing Table"
 seo_title: "Thacuok Makeup Vanity with Mirror and Lights, Dres Review"
 meta_description: "Our full thacuok makeup vanity with mirror and lights, dressing table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMQ7V7NX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81loSpOO9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Thacuok Makeup Vanity with Mirror and Lights: A Dressing Table That Actually Works

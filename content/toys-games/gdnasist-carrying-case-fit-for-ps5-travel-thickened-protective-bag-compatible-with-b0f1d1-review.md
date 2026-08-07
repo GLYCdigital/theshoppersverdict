@@ -1,4 +1,5 @@
 ---
+
 title: "GDNasist Carrying Case Fit for PS5, Travel Thickened Protect"
 seo_title: "GDNasist PS5 Carrying Case Review: Is It Worth It?"
 meta_description: "GDNasist PS5 carrying case review: thick padding, travel-ready protection. See real pros, cons, and whether it fits your console setup."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0F1D1RYKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YOruWgyvL._SL1500_.jpg"
-pros:
+pros: 
   - "Thickened EVA foam shell with 10mm padding absorbs drops and knocks that would crack a standard soft case"
   - "Custom-fit interior cradle locks the PS5 in place — no sliding around even when you swing the case by the handle"
   - "Dual zipper pulls with reinforced stitching held up through repeated airport check-in abuse without snagging"
-cons:
+cons: 
   - "Fits only the standard disc-edition PS5 — the Digital Edition will rattle around without the included foam spacer"
   - "At 2.8 pounds empty, it adds noticeable heft to an already-heavy console; shoulder strap sold separately"
+
 ---
 
 The PS5 is a beast to move. It's bulky, awkwardly shaped, and the glossy panels scratch if you look at them wrong. If you're a frequent LAN-party attendee, a student hauling it between dorms, or someone who just wants to store their console without it collecting dust bunnies, the GDNasist Carrying Case earns its 4.9-star average. But it's not perfect — here's the real breakdown before you drop your money.

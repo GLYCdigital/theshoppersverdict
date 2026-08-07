@@ -1,23 +1,25 @@
 ---
+
 title: "18 Pack Replacement Parts Accessories Compatible for iRobot"
 seo_title: "18 Pack iRobot Accessories Review: Worth It? [2026]"
 meta_description: "Honest review of the 18-pack iRobot replacement parts kit: filters, brushes, and more. See what fits, what wears fast, and if it's worth $19.49."
 slug: "18-pack-replacement-parts-accessories-compatible-for-irobot-roomba-i3-i3-i7-b0dwlw-review"
 image_alt: "18-pack iRobot Roomba replacement parts kit with filters, side brushes, and roller brushes"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 19.49  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: 19.49
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWLWDQJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L65DldIuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "18 pieces total — enough for a full year of maintenance on one Roomba"  
   - "Third-party price is roughly 60% less than OEM equivalents from iRobot"  
   - "Filters and brushes fit i3, i3+, i4, i7, i7+, i8, j7, j7+, and j8 models without modification"  
-cons:  
+cons: 
   - "Roller brushes are hollow-core style — slightly less rigid than genuine iRobot rollers"  
   - "No replacement dustbin filter gasket included; the OEM rubber seal fits, but you'll need to transfer it"
+
 ---
 
 ## The $19.49 Question: Can Third-Party Roomba Parts Actually Keep Up?

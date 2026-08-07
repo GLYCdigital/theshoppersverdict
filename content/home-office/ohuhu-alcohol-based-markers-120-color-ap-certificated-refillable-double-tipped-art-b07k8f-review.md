@@ -1,4 +1,5 @@
 ---
+
 title: "Ohuhu Alcohol Based Markers: 120-color AP Certificated Refil"
 seo_title: "Ohuhu Alcohol Based Markers: 120-color AP Certific Review"
 meta_description: "Our full ohuhu alcohol based markers: 120-color ap certificated refil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07K8F2HMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m1LzppHpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced a full set of Copic markers recently, you've probably winced. The Ohuhu 120-color set undercuts that cost by a massive margin while promising refillability and professional-grade blending. The question isn't whether it's cheaper — it's whether it's actually good enough for serious work. After digging through 240 Amazon ratings and the technical specs, here's the real story.

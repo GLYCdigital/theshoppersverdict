@@ -1,4 +1,5 @@
 ---
+
 title: "Wesiti 10 x 4 Inch Ceiling Vent Covers for Home Sidewall and"
 seo_title: "Wesiti 10 x 4 Inch Ceiling Vent Covers for Home Si Review"
 meta_description: "Our full wesiti 10 x 4 inch ceiling vent covers for home sidewall and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1Y315N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gblUc0X2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Why This Register Might Be the Last One You Buy

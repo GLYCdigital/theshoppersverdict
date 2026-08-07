@@ -1,4 +1,5 @@
 ---
+
 title: "HP 35A Black Toner Cartridge | Works LaserJet P1005, P1006 |"
 seo_title: "HP 35A Black Toner Cartridge | Works LaserJet P100 Review"
 meta_description: "Our full hp 35a black toner cartridge | works laserjet p1005, p1006 | review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000Z822ZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RD5FOGrpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you own an HP LaserJet P1005 or P1006, the HP 35A cartridge (model CB435A) is the only toner you should seriously consider. With 235 Amazon ratings averaging 4.7 stars, this is one of the most dependable consumables HP still makes for its older monochrome line. Here's what you're actually getting.

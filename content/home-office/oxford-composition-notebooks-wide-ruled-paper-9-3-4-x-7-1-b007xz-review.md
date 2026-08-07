@@ -1,7 +1,8 @@
 ---
-title: "Oxford Composition Notebooks, Wide Ruled Paper, 9-3/4\" x 7-1"
+
+title: "Oxford Composition Notebooks, Wide Ruled Paper, 9-3/4\ x 7-1"
 seo_title: "Oxford Composition Notebooks, Wide Ruled Paper, 9- Review"
-meta_description: "Our full oxford composition notebooks, wide ruled paper, 9-3/4\" x 7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full oxford composition notebooks, wide ruled paper, 9-3/4\ x 7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "oxford-composition-notebooks-wide-ruled-paper-9-3-4-x-7-1-b007xz-review"
 image_alt: "Oxford Composition Notebooks, Wide Ruled Paper, 9-3/4 x 7-1/2, Black Marble Covers, 100 Sheets, 12 per Pack (63795)"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B007XZKFTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91dKguHzhDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Performance and Build Quality

@@ -1,4 +1,5 @@
 ---
+
 title: "EXPO Dry Erase Markers, Low Odor Ink, Assorted Colors, Fine"
 seo_title: "EXPO Dry Erase Markers Review: Low Odor Fine Point (2026)"
 meta_description: "Honest EXPO dry erase markers review: low odor ink, fine tip, assorted colors. Real pros, cons, and who should buy. See our 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXYW9V4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Fine tip delivers crisp, precise lines — ideal for small whiteboards, labels, and detailed notes without bleeding or smudging"
   - "Low odor ink formula is genuinely noticeable — you can use it in a closed office or classroom without the headache-inducing chemical smell of cheaper brands"
   - "Assorted color variety (typically 8-12 colors in this set) gives enough range for color-coding without overwhelming storage"
-cons:
+cons: 
   - "Some users report inconsistent ink flow on first use — a few markers in a pack may need a minute of priming on scratch paper before writing smoothly"
   - "Fine tips wear down faster than chisel tips under heavy daily use — expect 2-3 weeks of regular classroom/office use before tips start to dull"
+
 ---
 
 Let me be blunt: most dry erase markers are interchangeable. You grab whatever's on sale, use them until they dry out, and repeat. The EXPO Low Odor Fine Point markers, though, are the exception — the ones that actually make you notice the difference, and it's mostly for the better.

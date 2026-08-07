@@ -1,4 +1,5 @@
 ---
+
 title: "DREAM&GLAMOUR Dog Poop Bags,value pack,1200 Count Extra Thic"
 seo_title: "DREAM&GLAMOUR Dog Poop Bags Review: 1200-Count Value Pack"
 meta_description: "Honest DREAM&GLAMOUR dog poop bags review: Are 1200 extra-thick bags worth it? Tested for durability, scent control, and value. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT5JPSNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sgO8mRM1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1200 bags means roughly 3+ years of daily walks for a single dog — genuinely set-and-forget supply"
   - "Extra-thick material resists tearing and punctures, even with sharp-edged waste or enthusiastic scooping"
   - "Leak-proof bottom seam holds up under pressure; no 'warm surprise' through the bag"
-cons:
+cons: 
   - "Bulk box is large and awkward to store in small apartments or tight cabinets"
   - "Scented version's fragrance is mildly chemical — unscented option is safer for sensitive noses"
+
 ---
 
 Let's be honest: most poop bags are an afterthought. You grab whatever's cheap, pray it doesn't tear mid-scoop, and move on. The DREAM&GLAMOUR 1200-count value pack forces you to think about it a little more — because you're buying three years' worth of bags in one shot.

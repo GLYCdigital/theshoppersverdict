@@ -1,4 +1,5 @@
 ---
+
 title: "Oasbira Aluminum Outdoor Dining Set for 6, Patio Table and C"
 seo_title: "Oasbira Aluminum Outdoor Dining Set for 6, Patio T Review"
 meta_description: "Our full oasbira aluminum outdoor dining set for 6, patio table and c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1MYG17Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l4NEAidnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced outdoor dining sets lately, you know the market splits into two camps: cheap steel sets that rust within two seasons, and teak or resin-wicker sets that cost more than your first car. The Oasbira Aluminum Outdoor Dining Set for 6 tries to split the difference — aluminum frame, six chairs, a 63-inch table, and a 4.6-star average across 229 ratings. The question is whether it delivers or just looks good in the product photos.

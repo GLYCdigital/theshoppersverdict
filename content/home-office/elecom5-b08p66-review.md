@@ -1,4 +1,5 @@
 ---
+
 title: "ELECOM5 inch"
 seo_title: "ELECOM5 Review: Is This Workspace Gear Worth It? (2026)"
 meta_description: "Honest ELECOM5 review: 3.7/5 rating from 185 buyers. We break down build quality, real-world performance, and who should skip this office gear."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B08P664SGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IBastciOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint that fits neatly on crowded desks without sacrificing usable surface area"
   - "Solid, non-slip base keeps the unit stable during heavy typing or mouse work"
   - "Straightforward setup — out of the box and operational in under two minutes"
-cons:
+cons: 
   - "Build materials feel lighter than the price point suggests; some buyers report creaking under pressure"
   - "Cable management is minimal — you'll need zip ties or clips to keep things tidy"
+
 ---
 
 **The Short Version: It Works, But It Won't Wow You**

@@ -1,4 +1,5 @@
 ---
+
 title: "Fruit for Thought Dried Fruit"
 seo_title: "Fruit for Thought Dried Fruit Review: Worth It? (2026)"
 meta_description: "Honest Fruit for Thought Dried Fruit review: flavor, texture, value, and drawbacks. See if this 4.5-star snack earns a spot in your pantry."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B06Y61SC91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y0nKKUcaL._SL1500_.jpg"
-pros:
+pros: 
   - "No added sulfites or artificial preservatives—just fruit, which matters if you're sensitive to sulfur dioxide"
   - "Consistent moisture level across batches; pieces stay pliable rather than turning leathery or rock-hard"
   - "Resealable packaging actually works—no more stale clumps after day two"
-cons:
+cons: 
   - "Smaller pieces than what you'd get from a bulk bin—fine for snacking, less ideal for baking where uniform chunks matter"
   - "Sweetness varies noticeably between fruit types; the pineapple is aggressively sweet while the apricots lean tart"
+
 ---
 
 Let's be real: most dried fruit on Amazon is either a sugar bomb or a leathery disappointment. The Fruit for Thought Dried Fruit variety pack sits somewhere in the middle—and that's exactly why it's earned a 4.5-star average across 225 ratings. It's not life-changing, but it's dependable. Here's the full breakdown after putting it through real-world snacking, baking, and trail-mix testing.

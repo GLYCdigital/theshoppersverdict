@@ -1,4 +1,5 @@
 ---
+
 title: "Eclatara Rattan Nightstand Set 2: Boho End Table with Drawer"
 seo_title: "Eclatara Rattan Nightstand Set 2 Review: Boho End Table"
 meta_description: "Eclatara Rattan Nightstand Set 2 review: stylish boho end tables with drawer. See real pros, cons, and if this 4.7-star rated set fits your bedroom."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2J7LPPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815TMNumZ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Natural rattan weave on drawer front and side panels adds texture that elevates a plain bedroom instantly"
   - "Pre-drilled holes and labeled parts make assembly a 20-minute job with just a Phillips screwdriver"
   - "Drawer glides smoothly on metal tracks and the safety stop prevents the drawer from pulling all the way out"
-cons:
+cons: 
   - "Rattan is hand-woven, so slight color variation between the two nightstands is normal — noticeable if you're picky"
   - "Top surface is MDF, not solid wood — avoid setting hot mugs directly on it without a coaster"
   - "No cable management hole in the back panel, which is annoying if you need to charge devices on top"
+
 ---
 
 If you've been scrolling past a dozen flat-pack nightstands that all look like they came from the same beige factory, the Eclatara Rattan Nightstand Set 2 deserves a closer look. This isn't a radical redesign of the nightstand — it's a set that gets the details right, and at a price point that undercuts most boutique boho furniture stores.

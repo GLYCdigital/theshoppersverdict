@@ -1,4 +1,5 @@
 ---
+
 title: "Dior Miss Dior Blooming Bouquet"
 seo_title: "Dior Miss Dior Blooming Bouquet Review: Fresh Floral Worth It?"
 meta_description: "Honest Dior Miss Dior Blooming Bouquet review: scent performance, longevity, and value. See if this fresh floral eau de toilette is worth the luxury price."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FZ483SGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41EFN8Te+iL._SL1200_.jpg"
-pros:
+pros: 
   - "Delicate peony and rose heart that smells genuinely expensive, not synthetic — rare at this price point"
   - "Light, airy sillage that works for office wear without projecting like a teenager's first perfume"
   - "The 100ml bottle lasts 8-10 hours on clothing, which offsets the high per-ml cost"
-cons:
+cons: 
   - "Fades to a skin scent within 2-3 hours on bare skin — reapplication is non-negotiable"
   - "The 50ml and 100ml sizes cost nearly double per ounce compared to the 30ml — poor value scaling"
   - "Fragrance DNA skews young and sweet; not suitable if you prefer dark, woody, or spicy profiles"
+
 ---
 
 Let's cut through the pink ribbon and the "love, Dior" marketing. Miss Dior Blooming Bouquet has been a department store staple for over a decade, and with 200 Amazon ratings hovering at a solid 4.0, it's clearly doing something right. But at luxury pricing, "something right" isn't enough. Here's what you're actually paying for.

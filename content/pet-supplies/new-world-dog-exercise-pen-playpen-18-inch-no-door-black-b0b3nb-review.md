@@ -1,4 +1,5 @@
 ---
+
 title: "New World Dog Exercise Pen & Playpen, 18-Inch, No Door, Blac"
 seo_title: "New World Dog Exercise Pen & Playpen, 18-Inch, No  Review"
 meta_description: "Our full new world dog exercise pen & playpen, 18-inch, no door, blac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B3NB8W6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bf1zMELwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a puppy or a small-breed dog that needs a safe zone, you've probably searched through dozens of exercise pens with confusing door mechanisms, flimsy plastic connectors, and assembly instructions that require a degree in engineering. The **New World Dog Exercise Pen** cuts through that noise with a refreshingly simple design: no door, no tools, just fold it out and go. At 18 inches tall, it's not for every dog — but for the right owner, it's nearly perfect.

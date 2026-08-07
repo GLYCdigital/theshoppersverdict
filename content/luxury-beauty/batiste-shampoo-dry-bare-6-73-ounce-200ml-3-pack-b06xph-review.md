@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Shampoo Dry Bare 6.73 Ounce (200ml) (3 Pack)"
 seo_title: "Batiste Dry Shampoo Bare Review (3-Pack) – Honest 2026 inch"
 meta_description: "Honest Batiste Dry Shampoo Bare 3-pack review: Does it really work on dark hair? Texture, scent, and value tested. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B06XPHCQLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ROXxCDSoL._SL1500_.jpg"
-pros:
+pros: 
   - "No white cast even on dark brown or black hair — the Bare formula blends to a matte finish"
   - "Lightweight rice starch base adds real volume without a stiff, crunchy texture"
   - "Scent is fresh and clean (think salon, not grandma's perfume) and fades quickly"
-cons:
+cons: 
   - "200ml cans run out fast if you use it daily — the 3-pack is practically required"
   - "Aerosol spray requires a 8-10 inch distance or you'll get a visible residue patch"
   - "Scent-free option this is not — Bare has a noticeable fragrance, despite the name"
+
 ---
 
 Batiste is the undisputed heavyweight champion of dry shampoo. You've seen the cans in every influencer's bathroom, on every pharmacy shelf, and probably in your own cabinet. The Bare formula is their answer to a persistent complaint: white residue on dark hair. But does it actually deliver, or is it just marketing? I've put a full 3-pack through real-world testing to give you the straight story.

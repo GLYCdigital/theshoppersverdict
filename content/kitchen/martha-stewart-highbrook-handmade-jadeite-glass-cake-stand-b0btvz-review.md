@@ -1,4 +1,5 @@
 ---
+
 title: "Martha Stewart Highbrook Handmade Jadeite Glass Cake Stand"
 seo_title: "Martha Stewart Highbrook Handmade Jadeite Glass Ca Review"
 meta_description: "Our full martha stewart highbrook handmade jadeite glass cake stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTVZ1HW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QMT92oouL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested more cake stands than I care to admit, and most are either flimsy metal or boring clear glass. The Martha Stewart Highbrook is different — it's actual jadeite glass, the pale green milk glass that was a Depression-era classic. And for $35–40, it's one of the few authentic jadeite pieces you can buy without raiding an antique shop.

@@ -1,4 +1,5 @@
 ---
+
 title: "White Cardstock"
 seo_title: "White Cardstock Review: Verdict | TSV"
 meta_description: "Our full white cardstock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZPJYGQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41phpyUwwtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've been burned by flimsy cardstock before. The kind that curls the moment it hits printer heat, or bleeds ink straight through to your desk. This white cardstock from the B0BZPJ listing doesn't do that — and after 229 ratings averaging 4.6 stars, it's clearly earning its reputation.

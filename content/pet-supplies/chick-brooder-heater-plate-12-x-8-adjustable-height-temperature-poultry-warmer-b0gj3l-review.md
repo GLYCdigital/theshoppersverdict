@@ -1,4 +1,5 @@
 ---
+
 title: "Chick Brooder Heater Plate – 12 inch  x 8 inch  Adjustable Height &"
 seo_title: "Chick Brooder Heater Plate Review: Adjustable Height, Safe Warmth"
 meta_description: "Honest chick brooder heater plate review: 12x8 adjustable height, radiant heat for 15-20 chicks. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GJ3LSFZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WTySfDKCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Radiant heat mimics a mother hen, letting chicks regulate their own warmth without a hot bulb overhead"
   - "Adjustable height legs (roughly 3-8 inches) grow with your chicks from day-old to fully feathered"
   - "Low power draw around 50-60W costs pennies a day compared to heat lamps"
-cons:
+cons: 
   - "At 12x8 inches, it's tight for more than 12-15 chicks despite some listings claiming 20+"
   - "No built-in thermometer — you'll need to buy one separately to verify surface temp"
   - "Chicks must learn to use it; some buyers report babies huddling in corners for the first day"
+
 ---
 
 ## Mother Hen Warmth Without the Fire Risk

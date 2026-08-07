@@ -1,4 +1,5 @@
 ---
+
 title: "Phylluz 3 Blades Ceiling Fan with Light GLX117-New"
 seo_title: "Phylluz 3 Blades Ceiling Fan with Light GLX117-New Review"
 meta_description: "Our full phylluz 3 blades ceiling fan with light glx117-new review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GL7WLXJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514zUUfcpfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most ceiling fans under $150 are either ugly, loud, or both. The Phylluz GLX117-New tries to break that mold with a minimalist three-blade design and a brushless DC motor — features usually reserved for fans costing twice as much. But does it deliver where it counts? After digging through 210 ratings and the spec sheet, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Rich Hot Cocoa Mix, 12 Ou"
 seo_title: "365 Organic Rich Hot Cocoa Mix Review: Worth It? (2026)"
 meta_description: "365 Whole Foods Organic Rich Hot Cocoa Mix review: taste, value, and nutrition. See if the 12 oz canister beats Swiss Miss and other brands."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DF9HC86Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jebPKWXEL._SL1000_.jpg"
-pros:
+pros: 
   - "Real cocoa is the first ingredient — not sugar, which means an actual chocolate depth Swiss Miss and most drugstore mixes lack"
   - "Certified organic and fair-trade certified, with no artificial flavors or preservatives; cleaner label than 90% of the hot cocoa category"
   - "Mixes smoothly in hot milk or water with minimal clumping, and the 12 oz canister makes roughly 18-20 servings"
-cons:
+cons: 
   - "Significantly less sweet than conventional mixes — if you expect Ghirardelli-level sugar bomb flavor, you'll be disappointed"
   - "At roughly $0.50-$0.60 per serving on sale, it's 2-3x the cost of store-brand cocoa mixes"
+
 ---
 
 ## The Hot Cocoa That Actually Tastes Like Chocolate

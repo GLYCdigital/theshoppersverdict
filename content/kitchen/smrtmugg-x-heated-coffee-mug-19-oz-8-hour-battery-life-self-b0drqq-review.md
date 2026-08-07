@@ -1,4 +1,5 @@
 ---
+
 title: "SMRTMUGG X Heated Coffee Mug 19 oz., 8 Hour Battery Life, Se"
 seo_title: "SMRTMUGG X Heated Coffee Mug 19 oz., 8 Hour Batter Review"
 meta_description: "Our full smrtmugg x heated coffee mug 19 oz., 8 hour battery life, se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DRQQPT2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yFlDNFEYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SMRTMUGG X Heated Coffee Mug: 8 Hours of Hot Coffee, But Does It Deliver?** 

@@ -1,4 +1,5 @@
 ---
+
 title: "Froidesente Root Guard Gopher Proof Stainless Wire Steel Bas"
 seo_title: "Froidesente Root Guard Review: Gopher-Proof Wire Baskets"
 meta_description: "Read our honest Froidesente Root Guard review: stainless steel gopher-proof baskets for raised beds. See what 225 buyers say about durability, installation, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSD9Q5XV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91EEJBymvCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge stainless steel won't rust or corrode, even in consistently damp soil"
   - "Fine 1/4-inch mesh blocks gophers, moles, and voles while letting earthworms and water pass through"
   - "Pre-formed basket shape installs in minutes — no wire cutting or shaping required"
-cons:
+cons: 
   - "Limited size options mean you may need multiple baskets for large raised beds"
   - "Price per square foot of coverage runs higher than roll fencing, though you save installation time"
+
 ---
 
 If you've ever planted a full row of dahlias only to find every single tuber chewed to nothing by morning, you know the gopher war is real. The Froidesente Root Guard baskets are the heavy artillery in that fight — and with 225 ratings averaging 4.5 stars, they're clearly winning battles for other gardeners.

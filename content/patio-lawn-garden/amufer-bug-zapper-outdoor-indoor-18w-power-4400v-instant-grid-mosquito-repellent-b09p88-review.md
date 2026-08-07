@@ -1,4 +1,5 @@
 ---
+
 title: "AMUFER Bug Zapper Outdoor Indoor, 18W Power & 4400V Instant"
 seo_title: "AMUFER Bug Zapper Review: 18W Power for Patios & Indoors"
 meta_description: "AMUFER Bug Zapper 18W review: 4400V grid, weatherproof design, indoor/outdoor use. See real pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09P88Q76X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P7QelAmwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18W UV bulbs cover up to 1,600 sq ft—strong enough for a full patio or large living room"
   - "4400V grid kills instantly with a satisfying snap; no chemical smell or residue"
   - "Weather-resistant housing handles rain and humidity without shorting out"
-cons:
+cons: 
   - "Continuous humming from the transformer is noticeable in a quiet indoor room"
   - "Requires regular cleaning—dead bugs accumulate on the tray and grid, and debris can reduce effectiveness"
+
 ---
 
 Let's be honest about bug zappers: most are cheap plastic toys that fry a few moths and call it a day. The AMUFER 18W unit is not that. With 225 ratings averaging 4.5 stars, this is one of the more serious contenders in the sub-$50 zapper category, and after digging through the specs and user feedback, here's the real story.

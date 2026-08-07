@@ -1,4 +1,5 @@
 ---
+
 title: "Ornavo Home Donovan Tufted Round Storage Ottoman with Remova"
 seo_title: "Ornavo Home Donovan Tufted Round Storage Ottoman w Review"
 meta_description: "Our full ornavo home donovan tufted round storage ottoman with remova review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TTZD7FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iW7PxSP8L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred round ottomans that look fine in the listing photo and collapse into a wobbly fabric pancake by week three. The Ornavo Home Donovan is not that ottoman. With a 4.7-star average across 235 ratings, this one earns its place in your living room — but it's not without a few honest tradeoffs worth knowing before you click buy.

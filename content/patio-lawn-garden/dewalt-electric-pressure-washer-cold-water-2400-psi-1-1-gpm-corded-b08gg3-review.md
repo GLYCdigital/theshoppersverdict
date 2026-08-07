@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Electric Pressure Washer, Cold Water, 2400-PSI, 1.1-G"
 seo_title: "DEWALT 2400 PSI Electric Pressure Washer Review (2026)"
 meta_description: "Honest DEWALT 2400 PSI electric pressure washer review: power, build quality, hose length, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08GG3H87T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P2MKzXjoL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "2400 PSI with 1.1 GPM flow—genuinely strong for a corded electric unit, handles concrete and siding without bogging down"
   - "20-foot hose and 35-foot power cord give real reach; you rarely move the unit mid-job"
   - "DEWALT build quality shows in the frame, wheels, and hose connections—feels like a tool, not a toy"
-cons:
+cons: 
   - "Cold water only—no built-in detergent tank, so you're mixing soap manually or buying a siphon kit"
   - "No onboard hose reel; the 20-foot hose curls up awkwardly when storing"
   - "At 75+ dB, it's loud enough to need ear protection for extended use"
+
 ---
 
 If you've ever borrowed a gas pressure washer and spent 20 minutes fighting the pull cord, you already know why the DEWALT 2400 PSI electric model makes sense. It delivers serious cleaning power without the engine maintenance, the fuel mixing, or the arm workout. At 4.3 stars across 215 ratings, it's one of the more consistent performers in the corded category—but it's not without quirks. Here's the real story.

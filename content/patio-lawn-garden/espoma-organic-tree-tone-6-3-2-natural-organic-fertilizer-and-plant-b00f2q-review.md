@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Tree-Tone 6-3-2 Natural & Organic Fertilizer"
 seo_title: "Espoma Tree-Tone 6-3-2 Review: Best Organic Tree Food?"
 meta_description: "Espoma Tree-Tone 6-3-2 organic fertilizer review: NPK analysis, application rates, and real results for trees & shrubs. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00F2QK4C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vPrzMiTiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bio-tone microbes break down nutrients quickly, delivering visible results in 3–4 weeks even in cool spring soil"
   - "Low 6-3-2 NPK means zero burn risk on established trees—safe for root zones of mature oaks and maples"
   - "4-pound bag covers up to 96 square feet, making it economical for small orchards or specimen trees"
-cons:
+cons: 
   - "Strong organic odor lingers 3–5 days after application—noticeable near patios or walkways"
   - "Slow-release formula underperforms on container-grown trees that need faster nutrient availability"
+
 ---
 
 If you’ve ever killed a tree with kindness—over-fertilizing with synthetic 20-10-10 and watching leaves scorch—you’ll appreciate what Espoma does differently. Tree-Tone isn’t about shocking your trees into growth. It’s about feeding the soil so the soil feeds the tree. That’s a fundamentally smarter approach, and it’s why this 4.7-star fertilizer has 235 ratings backing it.

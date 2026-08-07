@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Screwdriver Cordless"
 seo_title: "Electric Screwdriver Cordless Review: Is It Worth It? (2026)"
 meta_description: "Honest electric screwdriver cordless review: torque, battery life, and real-world performance tested. See who should buy it and who should skip it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F43PT2W9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m9hCsR8ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "20+1 torque clutch settings prevent cam-out and stripped screws on softwood and drywall"
   - "USB-C charging means one cable for this and your phone — no proprietary dock to lose"
   - "Built-in LED work light with delay-off function actually illuminates the screw tip, not the bit shank"
-cons:
+cons: 
   - "Max torque of 5 Nm won't drive 3-inch deck screws — this is for assembly, not construction"
   - "Battery is non-replaceable, so when the 1.5Ah cell dies in 2-3 years, the whole unit goes"
   - "Chuck accepts only 1/4-inch hex bits — no quick-change collar for drilling tasks"
+
 ---
 
 ## The 4.4-Star Electric Screwdriver That Most People Get Right

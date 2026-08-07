@@ -1,4 +1,5 @@
 ---
+
 title: "Globlazer Extra Large Platform Cat Tree, 65in Sturdy Cat Scr"
 seo_title: "Globlazer 65in Cat Tree Review: Extra Large & Sturdy (2026)"
 meta_description: "Honest Globlazer Extra Large Platform Cat Tree review: 65in tall, sturdy build, 4.5★ from 225 ratings. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FV25NYJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B8Rc2yjIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Wide 20-inch platforms hold 20+ lb Maine Coons and chunky cats without tipping"
   - "Thick 0.4-inch sisal-wrapped posts survive aggressive scratching for months"
   - "Assembly takes under 20 minutes with labeled parts and a hex key included"
-cons:
+cons: 
   - "Base is 18x18 inches — adequate but tight for 25+ lb cats on carpet"
   - "Top perch has no raised lip; energetic cats can overshoot during play"
+
 ---
 
 ## The 65-Inch Cat Tree That Actually Handles Big Cats

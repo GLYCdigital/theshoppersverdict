@@ -1,4 +1,5 @@
 ---
+
 title: "Solar House Numbers for Outside, 45 LED Lighted Address Sign"
 seo_title: "Solar House Numbers for Outside, 45 LED Lighted Ad Review"
 meta_description: "Our full solar house numbers for outside, 45 led lighted address sign review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CVRVL6L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NI52S1HHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Is This Address Sign Actually Worth Your Money?**

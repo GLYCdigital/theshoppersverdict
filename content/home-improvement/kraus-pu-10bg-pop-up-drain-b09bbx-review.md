@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus PU-10BG Pop-Up Drain"
 seo_title: "Kraus PU-10BG Pop-Up Drain Review: Verdict | TSV"
 meta_description: "Our full kraus pu-10bg pop-up drain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09BBX8MWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EHpxmNbQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most pop-up drains are an afterthought — a cheap chrome cylinder you forget until it jams, leaks, or rusts. The Kraus PU-10BG is not that drain. This is the upgrade you buy when you're tired of fighting flimsy linkage rods and corroded finishes. After 235 Amazon ratings holding a 4.7 average, it's clear this isn't a niche product — it's a legitimately better mousetrap. Here's the honest breakdown.

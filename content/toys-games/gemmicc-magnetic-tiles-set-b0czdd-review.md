@@ -1,4 +1,5 @@
 ---
+
 title: "Gemmicc Magnetic Tiles Set"
 seo_title: "Gemmicc Magnetic Tiles Set Review: Are They Worth It?"
 meta_description: "Read our honest Gemmicc Magnetic Tiles Set review. See how these 12.99 tiles compare to Magna-Tiles, plus real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZDDYH7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61haCYnBzlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnets are genuinely strong — towers hold up to enthusiastic toddler demolition without collapsing mid-build"
   - "Edges are smooth with no sharp seams; survived a drop test onto hardwood without cracking"
   - "Compatible with major brands like Magna-Tiles and Picasso Tiles, so you can expand the set later"
-cons:
+cons: 
   - "At 40 pieces, the count is modest — you'll likely want a second set for anything larger than a small castle"
   - "Some pieces arrive with minor scuff marks from packaging friction; doesn't affect function but noticeable up close"
+
 ---
 
 # Gemmicc Magnetic Tiles Set Review: Surprisingly Solid Budget Pick

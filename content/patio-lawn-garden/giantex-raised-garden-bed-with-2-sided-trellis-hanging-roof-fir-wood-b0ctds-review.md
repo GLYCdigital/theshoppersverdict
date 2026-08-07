@@ -1,4 +1,5 @@
 ---
+
 title: "Giantex Raised Garden Bed with 2-Sided Trellis & Hanging Roo"
 seo_title: "Giantex Raised Garden Bed with Trellis Review (2026)"
 meta_description: "Honest Giantex raised garden bed with 2-sided trellis review: build quality, real-world performance, and who should buy this fir wood planter. 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CTDS2M8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j0Abw5tLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid fir wood construction with a natural finish that weathers well and looks better than plastic alternatives"
   - "The 2-sided trellis actually works — it's sturdy enough for heavy vining plants like cucumbers and pole beans"
   - "Hanging roof adds real vertical growing space, effectively doubling your planting area in a small footprint"
-cons:
+cons: 
   - "Assembly requires patience — the instructions are minimal and you'll want a second pair of hands"
   - "The hanging roof is fixed height; tall varieties of tomatoes may outgrow the 6-foot clearance"
+
 ---
 
 If you're working with a balcony, a narrow side yard, or just a patch of patio you'd rather not surrender to sprawling squash vines, the Giantex Raised Garden Bed with 2-Sided Trellis & Hanging Roof is a clever space-maximizer. It's not perfect — nothing at this price point is — but it solves a genuinely annoying problem: how to grow climbing vegetables without building a custom trellis system from scratch.

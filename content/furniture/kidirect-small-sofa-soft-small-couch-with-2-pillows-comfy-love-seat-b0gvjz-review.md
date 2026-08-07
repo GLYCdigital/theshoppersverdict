@@ -1,4 +1,5 @@
 ---
+
 title: "Kidirect Small Sofa, Soft Small Couch with 2 Pillows, Comfy "
 seo_title: "Kidirect Small Sofa, Soft Small Couch with 2 Pillo Review"
 meta_description: "Our full kidirect small sofa, soft small couch with 2 pillows, comfy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVJZ68F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Xem7FwmwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "kids' sofas" are flimsy foam blocks with fabric stretched over them. The Kidirect Small Sofa is different. With 225 ratings averaging 4.5 stars, this compact couch has earned its place in playrooms and small apartments. But is it right for *your* space? Here's what I found after digging through buyer feedback, spec sheets, and real-world usage reports.

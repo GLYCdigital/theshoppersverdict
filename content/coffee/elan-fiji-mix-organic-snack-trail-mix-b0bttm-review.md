@@ -1,23 +1,25 @@
 ---
+
 title: "Elan Fiji Mix Organic Snack, Trail Mix"
 seo_title: "Elan Fiji Mix Organic Snack Review: Worth It? (2026)"
 meta_description: "Honest Elan Fiji Mix Organic Snack review: taste, texture, value, and who should buy it. 4.5-star rating, 225 reviews. Find out if it's worth your money."
 slug: "elan-fiji-mix-organic-snack-trail-mix-b0bttm-review"
 image_alt: "Elan Fiji Mix Organic Snack trail mix bag with visible nuts, seeds, and dried fruit"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTTMG4DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kZ+RH1VsL._SL1500_.jpg"
-pros:  
+pros: 
   - "Certified organic with a short ingredient list — no added sugar, oil, or salt"  
   - "Balanced sweet-and-savory ratio; dried pineapple and coconut actually taste fresh"  
   - "Resealable 12-oz bag holds up well for pantry or desk drawer storage"  
-cons:  
+cons: 
   - "Price per ounce runs higher than conventional trail mixes at most grocers"  
   - "Pineapple pieces can clump together after opening — needs a shake before each use"
+
 ---
 
 **The honest scoop on Elan Fiji Mix — before you add to cart**

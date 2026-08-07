@@ -1,4 +1,5 @@
 ---
+
 title: "Permade Fire Pit Lid Round, Heat Resistant Metal Firepit Cov"
 seo_title: "Permade Fire Pit Lid Round, Heat Resistant Metal F Review"
 meta_description: "Our full permade fire pit lid round, heat resistant metal firepit cov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSP47QDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ee-B5xRgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Fire pit ownership has a dirty little secret: the morning after. You wake up to ash dusting your patio, a soggy pit full of rainwater, and the smell of last night's smoke trapped in everything. The Permade Fire Pit Lid solves that mess — mostly.

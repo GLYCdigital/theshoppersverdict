@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Convertible Sleeper Futon Sofa Bed, Pullout Couch Bed"
 seo_title: "VINGLI Convertible Sleeper Futon Sofa Bed, Pullout Review"
 meta_description: "Our full vingli convertible sleeper futon sofa bed, pullout couch bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX1DM7HW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GodawemgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most convertible futons under $300 are flimsy compromises that fail at both jobs. The VINGLI Convertible Sleeper Futon is not that product — but it's not a magic portal to hotel-bed comfort either. Here's the real breakdown.

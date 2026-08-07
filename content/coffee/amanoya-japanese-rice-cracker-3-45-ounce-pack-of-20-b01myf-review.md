@@ -1,4 +1,5 @@
 ---
+
 title: "Amanoya Japanese Rice Cracker, 3.45 Ounce (Pack of 20)"
 seo_title: "Amanoya Japanese Rice Cracker Review: 20-Pack Value"
 meta_description: "Honest Amanoya Japanese Rice Cracker review: 4.7-star 20-pack. Texture, flavor, and value tested. Is this the best senbei for snacking?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MYFQAPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91MAibKX0eL._SL1500_.jpg"
-pros:
+pros: 
   - "Each 3.45-ounce box holds 6 individually wrapped packets, making portion control effortless"
   - "Crunchy, savory-sweet senbei with a toasted rice depth that beats most grocery-store crackers"
   - "20-pack bulk format drops cost per serving to roughly $1 per box — solid pantry value"
-cons:
+cons: 
   - "Sesame seeds can scatter in the package, leaving a fine dust at the bottom of each packet"
   - "Texture leans hard-crunchy, not airy — those with dental work or softer-cracker preferences should proceed with caution"
+
 ---
 
 ## The Amanoya Japanese Rice Cracker: A 20-Box Deep Dive

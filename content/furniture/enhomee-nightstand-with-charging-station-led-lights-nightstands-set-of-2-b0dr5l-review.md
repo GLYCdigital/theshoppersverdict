@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee Nightstand with Charging Station & LED Lights, Night"
 seo_title: "EnHomee Nightstand with Charging Station Review (2026)"
 meta_description: "EnHomee nightstand with charging station & LED lights review: 4.3-star rated. Is the USB-C port fast enough? We break down build quality, real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR5L8XB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W0SOwIuQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual USB-A + USB-C ports deliver real charging speeds (5V/2.1A combined) without needing a wall adapter"
   - "LED light strip on the back edge provides useful ambient glow — motion sensor actually works reliably"
   - "Solid MDF construction with a smooth, water-resistant finish that doesn't wobble at the joints"
-cons:
+cons: 
   - "Single outlet means only one device gets AC power — you'll still need a power strip for multiple plugs"
   - "Assembly takes 30-40 minutes with 14 steps; the cam lock bolts can strip if you over-torque them"
   - "LED color options are limited to preset colors, no custom RGB customization via app"
+
 ---
 
 Let's be honest: most nightstands under $100 are flimsy laminate boxes with drawers that stick. The EnHomee Nightstand with Charging Station tries to break that mold by throwing in a power hub and LED lighting. Does it deliver, or is it just another particleboard trap? After digging through the specs and 215 Amazon ratings, here's what you need to know before buying.

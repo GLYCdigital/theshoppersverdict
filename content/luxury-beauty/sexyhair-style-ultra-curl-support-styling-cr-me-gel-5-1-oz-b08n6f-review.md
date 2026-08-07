@@ -1,4 +1,5 @@
 ---
+
 title: "SexyHair Style Ultra Curl Support Styling CrÃ¨me-Gel, 5.1 Oz"
 seo_title: "SexyHair Style Ultra Curl Support Styling CrÃ¨me-G Review"
 meta_description: "Our full sexyhair style ultra curl support styling crã¨me-gel, 5.1 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08N6FBVCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61laJBSpY2L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SexyHair Style Ultra Curl Support Styling Crème-Gel: The 4.6-Star Honest Review

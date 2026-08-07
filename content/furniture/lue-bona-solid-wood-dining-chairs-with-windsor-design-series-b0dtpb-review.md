@@ -1,4 +1,5 @@
 ---
+
 title: "LUE BONA Solid Wood Dining Chairs with Windsor Design Series"
 seo_title: "LUE BONA Solid Wood Dining Chairs with Windsor Des Review"
 meta_description: "Our full lue bona solid wood dining chairs with windsor design series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTPBWT6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e2y1GIRsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most dining chairs under $100 a pop are engineered wood wrapped in faux leather that peels within 18 months. The **LUE BONA Solid Wood Dining Chairs** are not that. This is a set of chairs built from actual hardwood with a classic Windsor spindle back that looks like it came from a New England farmhouse, not a flat-pack warehouse. At a 4.4-star average across 220 ratings, the consensus is clear: these are legit. But "legit" doesn't mean "perfect." Here's the honest breakdown.

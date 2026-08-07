@@ -1,4 +1,5 @@
 ---
+
 title: "TRALT Office Chair - Ergonomic Desk Chair with Adjustable Lu"
 seo_title: "TRALT Office Chair - Ergonomic Desk Chair with Adj Review"
 meta_description: "Our full tralt office chair - ergonomic desk chair with adjustable lu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CVV4KT77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c-4MemaHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TRALT Office Chair Review: The $200 Mesh Chair That Punches Above Its Weight

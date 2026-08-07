@@ -1,4 +1,5 @@
 ---
+
 title: "GE Disposall Continuous Feed 3/4 Horsepower Motor Garbage Di"
 seo_title: "GE Disposall 3/4 HP Garbage Disposal Review (2026)"
 meta_description: "GE Disposall 3/4 HP continuous feed garbage disposal review: performance, noise, install ease, and value. See if it beats InSinkErator."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXMZB8LS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HkhMoq+TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel turntable and stainless steel shredder ring hold up to bones and fibrous scraps without dulling"
   - "Compact 12.5-inch body fits under shallow sinks and leaves room for a water filter or extra storage"
   - "EZ mount system installs in under 30 minutes with a standard screwdriver — no plumber needed"
-cons:
+cons: 
   - "Grinding chamber is only 26 ounces, so large loads must be fed slowly to avoid jams"
   - "No auto-reverse feature; if a jam occurs, you'll need the included hex wrench to manually clear it"
   - "Sound insulation is minimal — expect a loud grind, not the hush of a premium model"
+
 ---
 
 **GE Disposall 3/4 HP Review: Solid Performance, Zero Frills**

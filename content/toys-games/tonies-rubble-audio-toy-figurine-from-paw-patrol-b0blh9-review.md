@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Rubble Audio Toy Figurine from PAW Patrol"
 seo_title: "Tonies Rubble Audio Toy Figurine from PAW Patrol Review: "
 meta_description: "Our full tonies rubble audio toy figurine from paw patrol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BLH9ZHG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V2aPaeVGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with PAW Patrol — and let's be honest, most toddlers are — the Tonies Rubble figurine is one of the smarter screen-free audio options out there. It's a chunky, magnetic character that plops onto a Toniebox and plays stories and songs without a single glowing screen. With a 4.9-star average across 245 ratings, this little construction pup is clearly doing something right. Here's the real breakdown before you add it to your cart.

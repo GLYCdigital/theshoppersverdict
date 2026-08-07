@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Farmhouse TV Stand, Wood Tall Entertainment Center"
 seo_title: "AMERLIFE Farmhouse TV Stand Review: Is It Worth It?"
 meta_description: "Honest AMERLIFE farmhouse TV stand review: build quality, barn door function, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQV3MSJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DAY8-UTwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid engineered wood construction with a realistic wood-grain finish that holds up well"
   - "Sliding barn doors conceal clutter while still allowing remote signals through"
   - "Two spacious open shelves and two enclosed compartments give flexible storage"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes and requires two people for the top panel"
   - "Cable management cutouts are small — thick power bricks won't fit through"
+
 ---
 
 If you're shopping for a TV stand that hides your cable box, game console, and the pile of remotes you swear you'll organize someday, the AMERLIFE Farmhouse TV Stand is worth a serious look. With 215 Amazon ratings averaging 4.3 stars, this tall entertainment center has found an audience — but it's not perfect. Here's what you need to know before you buy.

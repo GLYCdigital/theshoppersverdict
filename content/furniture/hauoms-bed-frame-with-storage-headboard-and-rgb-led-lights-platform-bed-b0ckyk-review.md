@@ -1,4 +1,5 @@
 ---
+
 title: "HAUOMS Bed Frame with Storage Headboard and RGB LED Lights, "
 seo_title: "HAUOMS Bed Frame with Storage Headboard and RGB LE Review"
 meta_description: "Our full hauoms bed frame with storage headboard and rgb led lights,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CKYKCT8Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SQIUTSp2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most bed frames under $300 are either flimsy metal tubes or particleboard nightmares. The HAUOMS Bed Frame with Storage Headboard and RGB LED Lights tries to be the exception — and for the most part, it succeeds. With 215 ratings averaging 4.3 stars, this is one of the better-reviewed budget platform beds on Amazon. Here's the real story.

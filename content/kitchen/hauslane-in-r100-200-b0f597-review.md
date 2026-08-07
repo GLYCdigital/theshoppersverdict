@@ -1,4 +1,5 @@
 ---
+
 title: "Hauslane IN-R100&200"
 seo_title: "Hauslane IN-R100&200 Review: Verdict | TSV"
 meta_description: "Our full hauslane in-r100&200 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F597NL4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GwubU9B4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Hood That Takes Smoke Seriously

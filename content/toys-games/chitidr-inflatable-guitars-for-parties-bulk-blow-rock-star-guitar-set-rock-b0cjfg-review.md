@@ -1,4 +1,5 @@
 ---
+
 title: "Chitidr Inflatable Guitars for Parties Bulk Blow Rock Star G"
 seo_title: "Chitidr Inflatable Guitars Review: Bulk Party Pack Pros & Cons"
 meta_description: "Honest Chitidr inflatable guitars review: 12-pack blow-up rock star guitars for parties, concerts, and events. See real pros, cons, and buying tips."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJFGL4N4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91p82wSOKHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "12 guitars per pack at roughly $2 each — cheapest per-unit price you'll find for party favors"
   - "Inflate in under 30 seconds with the included straw-style valve; no pump needed"
   - "Vibrant colors that photograph well and hold up to repeated inflation across multiple events"
-cons:
+cons: 
   - "Seams can split if kids over-inflate or swing them aggressively — spares are essential"
   - "No sound effects or strings; purely visual props, not musical instruments"
   - "Thin PVC material picks up punctures from sharp jewelry or rough surfaces"
+
 ---
 
 Let's be direct: you're not buying these for the music. You're buying them because 12 screaming kids at a birthday party need something to smash around that isn't your furniture. The Chitidr Inflatable Guitars bulk pack delivers exactly that — and at 4.2 stars across 210 ratings, it's clearly doing something right.

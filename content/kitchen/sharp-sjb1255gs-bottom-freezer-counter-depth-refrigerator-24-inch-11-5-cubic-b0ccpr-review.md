@@ -1,4 +1,5 @@
 ---
+
 title: "Sharp SJB1255GS Bottom-Freezer Counter-Depth Refrigerator, 2"
 seo_title: "Sharp SJB1255GS Bottom-Freezer Counter-Depth Refri Review"
 meta_description: "Our full sharp sjb1255gs bottom-freezer counter-depth refrigerator, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CCPRRB9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yDyA6TtTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sharp SJB1255GS Bottom-Freezer Counter-Depth Refrigerator Review: Small Footprint, Real Tradeoffs

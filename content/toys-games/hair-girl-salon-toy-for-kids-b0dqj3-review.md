@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Girl Salon Toy for Kids"
 seo_title: "Hair Girl Salon Toy for Kids Review: Real Test & Verdict"
 meta_description: "We tested the Hair Girl Salon Toy for Kids with 229 ratings at 4.6 stars. See what works, what doesn't, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQJ34HV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jNuRlkF3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Durable ABS plastic construction survives drops and aggressive styling sessions"
   - "Comes with 20+ accessories including clips, brushes, and color extensions"
   - "Realistic styling features like a working blow dryer sound effect"
-cons:
+cons: 
   - "Hair tangles easily after repeated brushing — plan for detangling sessions"
   - "Accessories are small; not recommended for kids under 4 due to choking risk"
+
 ---
 
 If you've got a kid who's obsessed with doing your hair — or worse, their own with your good scissors — this salon playset is about to become your new best friend. With a 4.6-star average from 229 ratings, the Hair Girl Salon Toy for Kids is earning real buzz. But is it worth the shelf space? I dug into the details, the customer feedback, and the actual build to give you the straight answer.

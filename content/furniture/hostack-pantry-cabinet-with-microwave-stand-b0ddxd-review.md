@@ -1,4 +1,5 @@
 ---
+
 title: "HOSTACK Pantry Cabinet with Microwave Stand"
 seo_title: "HOSTACK Pantry Cabinet with Microwave Stand Review: Verdi"
 meta_description: "Our full hostack pantry cabinet with microwave stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDXD5PDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Od2VRUGjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most microwave stands under $150 are flimsy wire racks that wobble the moment you press a popcorn button. The HOSTACK Pantry Cabinet with Microwave Stand tries to be something better — a legit piece of storage furniture that hides your microwave instead of showing it off. After digging through 220 ratings and the product specs, here’s the real story.

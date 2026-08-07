@@ -1,4 +1,5 @@
 ---
+
 title: "Jo Malone Wood Sage & Sea Salt Cologne Spray for Women"
 seo_title: "Jo Malone Wood Sage & Sea Salt Cologne Spray for W Review"
 meta_description: "Our full jo malone wood sage & sea salt cologne spray for women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GG63H7B4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M3rUkf7UL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some fragrances announce themselves. Wood Sage & Sea Salt whispers — and that's exactly the point. Jo Malone's 2014 cult favorite has become the default "clean girl" scent for a reason, but with a 4.5-star rating across 225 Amazon reviews, the question isn't whether it smells good. It's whether the performance justifies the price.

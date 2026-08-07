@@ -1,4 +1,5 @@
 ---
+
 title: "ACTBEST Apex Electric Bike for Adults, 21-Speed Electric Mou"
 seo_title: "ACTBEST Apex E-Bike Review: 21-Speed Adult Mountain Bike"
 meta_description: "Our ACTBEST Apex electric bike review covers the 21-speed mountain e-bike's real-world range, motor power, and build quality. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMPWCPBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sqpTh-nBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely useful 21-speed Shimano drivetrain gives real pedal-assist range flexibility — not just a token gear set"
   - "Removable 48V battery with reported 30-40 mile range per multiple verified buyer tests"
   - "Front suspension fork and 26-inch fat tires soak up gravel and potholes better than expected at this price"
-cons:
+cons: 
   - "Assembly requires mechanical confidence — several buyers report brake alignment issues out of the box"
   - "At roughly 60+ pounds, this bike is heavy to lift onto racks or up stairs"
   - "The LCD display is basic and washes out in direct sunlight, making speed/range hard to read mid-ride"
+
 ---
 
 The e-bike market is flooded with cheap, disposable options that die within a season. The ACTBEST Apex isn't that — but it's not a premium bike either. At a 4.4-star average across 220 ratings, it sits in that sweet spot of "genuinely decent for the money" — with some caveats you need to know before clicking buy.

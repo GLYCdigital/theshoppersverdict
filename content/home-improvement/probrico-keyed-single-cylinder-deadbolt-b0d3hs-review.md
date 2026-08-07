@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Keyed Single Cylinder Deadbolt"
 seo_title: "Probrico Keyed Single Cylinder Deadbolt Review: Verdict |"
 meta_description: "Our full probrico keyed single cylinder deadbolt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3HSXF84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VNq8vTrZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I’ve installed a lot of deadbolts over the years — from $15 builder-grade junk to $150 smart locks. The Probrico Keyed Single Cylinder Deadbolt sits in a weirdly sweet spot: it’s cheap enough to buy without thinking, but the build quality punches well above its price class. Here’s the real story after handling it, installing it, and reading through 229 verified buyer experiences.

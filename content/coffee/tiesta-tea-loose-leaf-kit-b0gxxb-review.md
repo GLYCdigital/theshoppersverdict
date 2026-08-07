@@ -1,4 +1,5 @@
 ---
+
 title: "Tiesta Tea Loose Leaf Kit"
 seo_title: "Tiesta Tea Loose Leaf Kit Review: Verdict | TSV"
 meta_description: "Our full tiesta tea loose leaf kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXXBYVKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F-cARK6-L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "tea starter kits" on Amazon are overpriced bags of crushed leaves with a flimsy strainer that lets sludge through. The Tiesta Tea Loose Leaf Kit isn't that. At 4.5 stars from 225 ratings, it earns its reputation through consistency — but it's not without caveats.

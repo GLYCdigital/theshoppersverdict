@@ -1,4 +1,5 @@
 ---
+
 title: "Canon CLI-221 Genuine Four Color Pack, Compatible with MP980 inch"
 seo_title: "Canon CLI-221 Ink Review: Genuine 4-Pack for MP980 inch"
 meta_description: "Honest Canon CLI-221 genuine ink review: 4-color pack for MP980. Real print quality, page yields, and cost per page. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001CSMJKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BY40sV86L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canon formulation delivers accurate color matching, especially for photo papers, with no clogs or head-cleaning cycles reported by buyers"
   - "Four individual cartridges (CLI-221 BK, C, M, Y) mean you replace only the empty color, not a wasteful tri-color block"
   - "Consistent 4.7/5 rating across 235 reviews — users repeatedly cite zero compatibility issues with MP980 and MP620 series"
-cons:
+cons: 
   - "Low page yield per cartridge (roughly 295 pages at 5% coverage) makes this an expensive option for high-volume document printing"
   - "No pigment-based black included — the CLI-221 BK is dye-based, so text on plain paper can smear if not allowed to dry fully"
+
 ---
 
 **Is the Canon CLI-221 Genuine Four Color Pack worth the premium over third-party ink?** For owners of the Pixma MP980 — a printer that's now well over a decade old — this question matters more than you'd think. Amazon's 4.7/5 rating with 235 reviews tells you most buyers are satisfied. But "most" doesn't mean "all," and the fine print matters here.

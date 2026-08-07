@@ -1,4 +1,5 @@
 ---
+
 title: "YANYCN LED Stadium Flood Light Outdoor, Equivalent 5000K Day"
 seo_title: "YANYCN LED Stadium Flood Light Outdoor, Equivalent Review"
 meta_description: "Our full yanycn led stadium flood light outdoor, equivalent 5000k day review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D5GYLJPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+O9ksfD+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever bought a “super bright” floodlight that turned out to be a dim, buzzing disappointment, the YANYCN LED Stadium Flood Light is here to reset your expectations. This thing is genuinely bright — we’re talking “your neighbor will complain” territory. But is it worth your money for a backyard, barn, or driveway? Let’s dig into what 210 buyers (4.2 stars) are actually saying.

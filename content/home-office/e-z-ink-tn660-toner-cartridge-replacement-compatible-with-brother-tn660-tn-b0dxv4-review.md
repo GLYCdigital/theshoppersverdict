@@ -1,5 +1,6 @@
 ---
 
+
 title: "E-Z Ink TN660 Toner Cartridge Replacement Compatible with Br"
 seo_title: "E-Z Ink TN660 Toner Review: Reliable Brother Compatible"
 meta_description: "E-Z Ink TN660 toner cartridge review: 2-pack Brother compatible, crisp text, easy install. See real pros, cons, and our honest verdict."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXV45677/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TffePc6VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 2-pack value — often half the cost of a single OEM Brother TN660 inch"
   - "Consistent 1,200-page yield per cartridge; no early 'low toner' warnings"
   - "Crisp, dark black text with no smudging or banding on standard copy paper"
-cons:
+cons: 
   - "Not for photo or heavy graphics printing — halftones look grainy"
   - "Some units arrive with loose protective tabs; reseat firmly before installation"
+
 
 ---
 

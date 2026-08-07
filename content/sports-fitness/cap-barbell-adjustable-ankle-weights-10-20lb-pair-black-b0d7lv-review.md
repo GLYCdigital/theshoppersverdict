@@ -1,4 +1,5 @@
 ---
+
 title: "CAP Barbell Adjustable Ankle Weights |10-20lb Pair | Black"
 seo_title: "CAP Barbell Adjustable Ankle Weights Review (2026): Worth It?"
 meta_description: "Honest CAP Barbell adjustable ankle weights review: 10-20lb pair. Build quality, fit, real user feedback, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D7LVJQ5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x5I0sUSgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Adjustable from 5lb to 10lb per ankle — one pair covers three weight settings"
   - "Reinforced stitching and durable ballistic nylon hold up to regular use"
   - "Secure velcro straps with an extra buckle layer keep weights from shifting mid-set"
-cons:
+cons: 
   - "Bulky when loaded to max weight — may feel restrictive during high-knee movements"
   - "Weight distribution is slightly uneven until you fiddle with the sand-filled inserts"
+
 ---
 
 **CAP Barbell Adjustable Ankle Weights Review: The 10-20lb Pair That Actually Earns Its Keep**

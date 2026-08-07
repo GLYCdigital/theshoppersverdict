@@ -1,4 +1,5 @@
 ---
+
 title: "Woodbridge Overflow and Drain, Acrylic Freestanding Bathtub "
 seo_title: "Woodbridge Overflow and Drain, Acrylic Freestandin Review"
 meta_description: "Our full woodbridge overflow and drain, acrylic freestanding bathtub  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYZKZ5PW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QFYZJwzAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've picked the hardest-working piece of hardware in your bathroom remodel, and it's not the toilet. A freestanding tub's drain and overflow assembly is what separates a spa-like soak from a frustrating leak hunt. The Woodbridge acrylic tub with its brushed nickel kit deserves a hard look — but let's talk about what's actually in the box and whether it's worth your Saturday afternoon.

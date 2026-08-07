@@ -1,4 +1,5 @@
 ---
+
 title: "WILAWELS Extension Cord Storage Reel with 4-Grounded Outlets"
 seo_title: "WILAWELS Extension Cord Storage Reel with 4-Ground Review"
 meta_description: "Our full wilawels extension cord storage reel with 4-grounded outlets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZ1WX5FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jFscfvVJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Stop tripping over extension cords—finally

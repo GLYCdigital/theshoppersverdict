@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Perfect Pinch Lemon & Pepper Seasoning"
 seo_title: "McCormick Perfect Pinch Lemon & Pepper Seasoning Review: "
 meta_description: "Our full mccormick perfect pinch lemon & pepper seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BK5XVVKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hpV4rHLKL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most lemon pepper seasonings are either 90% salt with a whisper of citrus, or they're so aggressively peppery they burn your mouth before you taste the lemon. McCormick's Perfect Pinch version threads that needle better than anything else in the spice aisle, and the 4.8-star rating across 240 reviews backs that up. This isn't a gimmick—it's a genuinely well-formulated blend that earns its place in your cabinet.

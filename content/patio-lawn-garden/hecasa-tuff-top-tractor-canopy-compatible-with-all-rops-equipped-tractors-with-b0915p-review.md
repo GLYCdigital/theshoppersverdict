@@ -1,4 +1,5 @@
 ---
+
 title: "HECASA Tuff Top Tractor Canopy Compatible with All ROPS Equi"
 seo_title: "HECASA Tuff Top Tractor Canopy Compatible with All Review"
 meta_description: "Our full hecasa tuff top tractor canopy compatible with all rops equi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0915PMMGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NeTsbByeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 20-Minute Shade Solution for Tractor Owners Who Hate Sunburn**

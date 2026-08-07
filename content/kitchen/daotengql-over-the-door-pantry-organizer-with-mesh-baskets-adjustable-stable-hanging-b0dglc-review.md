@@ -1,4 +1,5 @@
 ---
+
 title: "DAOTENGQL Over The Door Pantry Organizer with Mesh Baskets,"
 seo_title: "DAOTENGQL Over Door Pantry Organizer Review (2026)"
 meta_description: "Honest DAOTENGQL over door pantry organizer review: 6 mesh baskets, tool-free install, real weight limits, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DGLCWBTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bZJK6OwQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free installation with adjustable hooks fits doors 1.4–1.8 inches thick — no drilling required"
   - "Six steel mesh baskets with reinforced edges hold up to 15 lbs each without sagging"
   - "Baskets are spaced 3.2 inches apart vertically, accommodating taller spice jars and canned goods"
-cons:
+cons: 
   - "At 13.5 inches deep, the organizer protrudes significantly and may hit door frames or trim when closing"
   - "Hooks are plastic-coated — reports of coating peeling after several months of heavy daily use"
+
 ---
 
 If your pantry looks like a disaster zone every time you open the door, you've probably considered an over-door organizer before. The DAOTENGQL version is one of the more popular options on Amazon right now — 4.3 stars across 215 ratings — and for good reason. It solves the classic "where do I put all these cans and spices" problem without requiring a single tool or screw.

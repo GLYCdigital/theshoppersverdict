@@ -1,4 +1,5 @@
 ---
+
 title: "Extra Long Bamboo Roasting Sticks"
 seo_title: "Extra Long Bamboo Roasting Sticks Review: Worth It? (2026)"
 meta_description: "Honest review of extra long bamboo roasting sticks: 20-inch skewers for campfires, grilling & s'mores. Build quality, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D717RJP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GXhDILy4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20-inch length keeps hands safely away from open flames and hot coals"
   - "Smooth, splinter-free surface after sanding — no rough edges on the food-contact end"
   - "Thicker 8mm diameter resists bending or snapping even when loaded with heavy marshmallows or sausages"
-cons:
+cons: 
   - "Single-use disposable — not suitable for dishwasher cleaning or reuse with different foods"
   - "No storage tube included, so the 20-inch length requires creative cabinet or drawer organization"
+
 ---
 
 Let's be honest: you can buy a bag of bamboo skewers at any grocery store for three bucks. So why are 235 Amazon shoppers rating these extra-long roasting sticks at 4.7 stars? Because most bamboo skewers are 6 to 12 inches — useless for campfires, where you need distance between your face and the flames. These run 20 inches, and that extra length changes the entire roasting experience.

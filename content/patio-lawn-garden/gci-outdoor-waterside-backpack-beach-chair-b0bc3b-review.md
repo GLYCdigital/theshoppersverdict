@@ -1,4 +1,5 @@
 ---
+
 title: "GCI Outdoor Waterside Backpack Beach Chair Review"
 seo_title: "GCI Outdoor Waterside Backpack Beach Chair Review (2026)"
 meta_description: "Honest GCI Outdoor Waterside Backpack Beach Chair review: comfort, portability, and durability tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BC3BMVKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uu2YWEoYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely comfortable recline with a high back that supports your head — rare for a portable chair"
   - "Convertible backpack straps tuck away cleanly and make hands-free transport actually viable"
   - "Solid steel frame with a 250 lb capacity that doesn't flex or wobble on uneven sand"
-cons:
+cons: 
   - "At roughly 12 lbs, it's heavier than basic folding chairs — you'll feel it on a long hike to a remote spot"
   - "Cup holder is shallow; a tall can tips easily when you shift position"
   - "No attached carry handle when folded into backpack mode — grab the straps or the frame"
+
 ---
 
 **The backpack beach chair that actually respects your back — and your gear**

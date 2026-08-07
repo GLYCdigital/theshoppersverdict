@@ -1,4 +1,5 @@
 ---
+
 title: "Homall Modular Sectional Sofa, Loveseat Sofa Couch with Reve"
 seo_title: "Homall Modular Sectional Sofa, Loveseat Sofa Couch Review"
 meta_description: "Our full homall modular sectional sofa, loveseat sofa couch with reve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F53PD194/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j3VwyvIYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Homall Modular Sectional Sofa isn't trying to be a $2,000 designer piece. It's a budget-friendly, DIY-configuration workhorse that's earned a solid 4.1-star average from 204 Amazon ratings — and that rating holds up once you understand what you're actually buying.

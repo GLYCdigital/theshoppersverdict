@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Filler, Wood Repair Kit, Paintable & Stainable Wood Put"
 seo_title: "Wood Filler, Wood Repair Kit, Paintable & Stainabl Review"
 meta_description: "Our full wood filler, wood repair kit, paintable & stainable wood put review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNFJ3JSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y1GOWkFxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Verdict: A Solid All-Rounder for Furniture and Trim—With Caveats

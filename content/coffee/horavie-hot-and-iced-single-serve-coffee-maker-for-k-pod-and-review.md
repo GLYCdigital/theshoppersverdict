@@ -1,16 +1,17 @@
 ---
+
 title: "Horavie Hot and Iced Single Serve Coffee Maker, for K-Pod and Grounds, Strong Brew Setting, 6-12 Oz Brew Sizes One Cup Coffee Maker for Home, Travel, RV, Office and Dorm, Black"
 seo_title: "Horavie Hot and Iced Single Serve Coffee Maker, fo Review"
 meta_description: "Our full horavie hot and iced single serve coffee maker, for k-pod and grounds, strong brew setting, 6-12 oz brew sizes one cup coffee maker for home, travel"
 slug: "horavie-hot-and-iced-single-serve-coffee-maker-for-k-pod-and-review"
 image_alt: "Horavie Hot and Iced Single Serve Coffee Maker, for K-Pod and Grounds, Strong Brew Setting, 6-12 Oz Brew Sizes One Cup C"
-keywords:
+keywords: 
   - "horavie hot and review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the Horavie Hot and Iced Single Serve Coffee Maker, for K-Pod and Grounds, Strong Brew Setting, 6-12 Oz Brew Sizes One Cup Coffee Maker for Home, Travel, RV, Office and Dorm, Black?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 14
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0H1TZVW7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RbRSFwFYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 **Bottom line:** The Horavie Hot and Iced Single Serve Coffee Maker is a $50 Swiss Army knife for caffeine — it handles K-pods, loose grounds, strong brews, and iced coffee in a footprint smaller than a toaster. But it's not without compromises, and the lack of a removable water tank will test your patience.

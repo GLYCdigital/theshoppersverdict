@@ -1,4 +1,5 @@
 ---
+
 title: "27x18 Inch Kitchen Sink"
 seo_title: "27x18 Kitchen Sink Review: Honest Look Before You Buy"
 meta_description: "Read our honest 27x18 inch kitchen sink review. We cover build quality, noise, installation, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F189SVHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Jfqg25hmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 16-gauge stainless steel construction with a brushed finish that hides water spots and fingerprints far better than mirror-polished alternatives"
   - "Sound-dampening pads and undercoating reduce sink clatter noticeably — you can run the disposal without shouting across the kitchen"
   - "Generous 9-inch depth accommodates stockpots and baking sheets that standard 7-inch sinks simply can't handle"
-cons:
+cons: 
   - "No installation hardware included — no clips, mounting brackets, or template ship in the box, adding $20-40 to your project cost"
   - "The included drain is thin-gauge chrome that will likely need replacing within a year or two; budget for a quality aftermarket strainer"
+
 ---
 
 # Is the 27x18 Kitchen Sink Worth Your Money?

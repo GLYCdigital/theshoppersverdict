@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BEA501BSS Knock Box 10 Espresso Machine Accessory,"
 seo_title: "Breville Knock Box 10 Review: Solid Espresso Puck Disposal"
 meta_description: "Breville Knock Box 10 review: 10-puck capacity, rubberized bar, sturdy build. See if this espresso accessory is worth your counter space."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTW7F2L7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41FcQVOxs+L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Rubberized knock bar absorbs impact quietly and protects your portafilter's ears from denting"
   - "10-puck capacity means you can brew several shots before emptying — no wet mess mid-session"
   - "Non-slip rubber base keeps the box planted on the counter during aggressive knocking"
-cons:
+cons: 
   - "At roughly 7 inches tall, it's too tall to fit under most upper cabinets — measure your clearance first"
   - "Plastic inner bucket retains coffee oils and requires regular rinsing to avoid a stale, bitter smell"
   - "The brushed stainless exterior smudges easily; fingerprints show up immediately after handling"
+
 ---
 
 If you've been knocking your spent espresso pucks directly into the trash, you're doing it wrong — and you probably have coffee grounds smeared across your counter to prove it. The Breville Knock Box 10 solves that mess with a dedicated bin that holds up to 10 used pucks before needing a trip to the compost or garbage. It's not a flashy purchase, but for anyone pulling daily shots, it's the kind of accessory you wonder how you lived without.

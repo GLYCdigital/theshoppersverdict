@@ -1,4 +1,5 @@
 ---
+
 title: "Barrina LED Grow Light for Indoor Plant, Dimmable"
 seo_title: "Barrina LED Grow Light Review: Dimmable & Effective (2026)"
 meta_description: "Barrina LED grow light for indoor plants: 4.5-star rated, dimmable, full-spectrum. Read our honest review on performance, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7GKKYSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lwZ3Al5BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-spectrum 660nm red + 450nm blue LEDs deliver genuine photosynthetic punch, not just purple glow"
   - "Stepless dimming dial lets you fine-tune light intensity from 10% to 100% without extra controllers"
   - "Daemon-link cable allows unlimited daisy-chaining for serious shelf setups"
-cons:
+cons: 
   - "No built-in timer — you'll need a smart plug or outlet timer for consistent photoperiods"
   - "Heat sinks run noticeably warm at full brightness, so keep at least 6 inches from foliage"
   - "Mounting clips are functional but cheap-feeling; use the included wires for heavier panels"
+
 ---
 
 Let’s cut through the grow light noise. Most budget panels under $40 are either too weak to matter or so blindingly purple your living room looks like a rave. The Barrina Dimmable LED Grow Light sits in that sweet spot between affordability and actual results. After digging through 225 ratings and the specs, here’s what you need to know before buying.

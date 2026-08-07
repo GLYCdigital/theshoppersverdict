@@ -1,4 +1,5 @@
 ---
+
 title: "RUMOSE Tub Filler Freestanding Bathtub Faucet Floor Mount Tu"
 seo_title: "RUMOSE Tub Filler Freestanding Bathtub Faucet Floo Review"
 meta_description: "Our full rumose tub filler freestanding bathtub faucet floor mount tu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D62XX1FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fAQ-8EF-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: a freestanding tub filler is a statement piece, not a utility fixture. The RUMOSE floor-mount waterfall faucet—priced where most solid-brass options start—demands you commit to the aesthetic. If you're renovating a master bath and want that spa-hotel look, this is one of the more honest options at this price point. Here's what 225 buyers and I have found.

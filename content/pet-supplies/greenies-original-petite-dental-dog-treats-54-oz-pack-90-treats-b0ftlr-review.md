@@ -1,4 +1,5 @@
 ---
+
 title: "Greenies Original Petite Dental Dog Treats, 54 oz. Pack (90 inch"
 seo_title: "Greenies Petite Dental Dog Treats Review: 90-Count Pack"
 meta_description: "Honest Greenies Original Petite dental dog treats review: 90-count value pack, texture, effectiveness, and which dogs should skip these."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTLR7YL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YEaR7o4RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Veterinarian-recommended formula with proven VOHC acceptance for tartar reduction"
   - "90-count bulk pack works out significantly cheaper per treat than smaller bags"
   - "Pliable, chewy texture that breaks down safely for small dogs under 25 pounds"
-cons:
+cons: 
   - "Petite size is too small for medium or larger breeds — stick to the regular size"
   - "Contains wheat and other grains; not suitable for dogs with grain sensitivities"
   - "Some dogs inhale these without chewing, reducing the dental benefit"
+
 ---
 
 If you've got a small dog under 25 pounds, you already know the struggle: most "dental chews" are either too hard for their jaws or sized for a Labrador. Greenies Original Petite treats are the exception — and the 54-ounce, 90-count bulk pack is the version smart buyers grab. This is the largest value format Greenies offers in the Petite size, and it's been a top seller for years for good reason.

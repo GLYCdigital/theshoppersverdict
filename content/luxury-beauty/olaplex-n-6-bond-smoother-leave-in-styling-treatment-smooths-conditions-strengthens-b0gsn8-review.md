@@ -1,4 +1,5 @@
 ---
+
 title: "Olaplex NÂº. 6 Bond Smoother: Leave-In Styling Treatment | S"
 seo_title: "Olaplex NÂº. 6 Bond Smoother: Leave-In Styling Tre Review"
 meta_description: "Our full olaplex nâº. 6 bond smoother: leave-in styling treatment | s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSN8M33J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716qY2MPxJL._SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Olaplex Nº. 6 Bond Smoother: The $28 Leave-In That Actually Delivers**

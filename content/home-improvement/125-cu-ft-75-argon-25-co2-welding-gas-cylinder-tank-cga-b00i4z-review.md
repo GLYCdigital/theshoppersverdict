@@ -1,4 +1,5 @@
 ---
+
 title: "125 cu/ft 75% Argon 25% CO2 Welding Gas Cylinder Tank CGA 58 inch"
 seo_title: "125 cu/ft 75/25 Argon CO2 Cylinder Review: Worth It?"
 meta_description: "Honest 125 cu/ft 75/25 Argon CO2 tank review: build quality, CGA 580 valve, refill costs, who should buy, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00I4Z5NM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nelm+TSLL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Full 125 cubic feet at 2,000+ PSI — real capacity, not an undersized bottle"
   - "CGA 580 valve is standard for MIG/TIG mix — no adapter needed on most machines"
   - "Solid steel construction with hydrostatic test date visible; holds up to years of shop abuse"
-cons:
+cons: 
   - "Shipping weight near 70 lbs — you'll want a cart or a buddy"
   - "Not returnable once filled — local refill availability is on you to confirm"
+
 ---
 
 If you're burning through disposable 20 oz. CO2 bottles every weekend, the math on a 125 cu/ft cylinder works out fast. At roughly 2,000 PSI when full, this tank holds about 10 times the gas of a standard 20 oz. setup — and at a fraction of the per-cubic-foot cost. But before you hit buy, there's one thing that separates a smart purchase from a headache: whether your local welding supply shop will actually fill it.

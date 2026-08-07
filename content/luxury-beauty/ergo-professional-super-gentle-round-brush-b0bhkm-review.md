@@ -1,4 +1,5 @@
 ---
+
 title: "ERGO Professional Super Gentle Round Brush"
 seo_title: "ERGO Super Gentle Round Brush Review: Worth It? (2026)"
 meta_description: "Honest ERGO Professional Super Gentle Round Brush review: performance, durability, and real buyer feedback. Find out if this luxury brush earns its 4.6-star rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHKMCGNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hB8+btXoL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-soft bristles that genuinely reduce tugging and breakage on fine or sensitive hair"
   - "Ergonomic handle reduces wrist strain during extended styling sessions"
   - "Well-balanced weight that feels substantial without being heavy"
-cons:
+cons: 
   - "Premium price point that may feel steep if you only style occasionally"
   - "Bristles can flatten faster than stiffer alternatives with daily heavy use"
   - "Not ideal for thick, coarse hair that needs aggressive tension to smooth"
+
 ---
 
 Let’s be blunt: most round brushes are the same tool with different handles. The ERGO Professional Super Gentle Round Brush costs more than the drugstore standard—so the real question is whether the difference shows up in your hair.

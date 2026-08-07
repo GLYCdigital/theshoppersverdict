@@ -1,4 +1,5 @@
 ---
+
 title: "SUNGBOON EDITOR Deep Collagen Melting Eye Patch with Glutath"
 seo_title: "SUNGBOON EDITOR Deep Collagen Melting Eye Patch wi Review"
 meta_description: "Our full sungboon editor deep collagen melting eye patch with glutath review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DK8JTM7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rwhEOG4ZL._SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.8-star crowd is split on these $30-ish eye patches — here's who should actually buy them**

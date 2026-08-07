@@ -1,4 +1,5 @@
 ---
+
 title: "Ceiling Fan Filters for Blades,"
 seo_title: "Ceiling Fan Blade Filters Review: Do They Really Work?"
 meta_description: "Honest review of Ceiling Fan Filters for Blades. Do they cut dust buildup? Read pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FZLT5XQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SKXT+8MnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Catches visible dust on the filter surface instead of letting it recirculate into the room"
   - "Simple friction-fit installation — no adhesives or tools required"
   - "Works on standard-width fan blades (most 4–6 inch models) without affecting balance"
-cons:
+cons: 
   - "Not effective on textured or ridged fan blades where the filter can't seat flush"
   - "Requires regular cleaning or replacement — a dirty filter starts shedding dust back into airflow"
+
 ---
 
 Here's a confession: I've spent years telling people that ceiling fan dust is just a fact of life. You wipe the blades, and three days later, they look like they've been sitting in an attic for a decade. So when these blade filters showed up, I was skeptical. But after testing them across three different fans in my own home, I'm willing to admit when I'm wrong — mostly.

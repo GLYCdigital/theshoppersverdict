@@ -1,4 +1,5 @@
 ---
+
 title: "Flysky FS-GT3B Rc Transmitter & FS-GR3E Receiver, 2.4Ghz 3 C"
 seo_title: "Flysky FS-GT3B Review: Budget RC Transmitter Worth It?"
 meta_description: "Flysky FS-GT3B 2.4GHz 3-channel RC transmitter & FS-GR3E receiver review: performance, range, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR659BH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71psA5hqH0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sub-$50 price point undercuts mainstream brands while delivering 2.4GHz frequency hopping and a 3-channel receiver"
   - "100+ model memory slots with LCD display — rare at this price, lets you switch between cars without reprogramming"
   - "Ergonomic pistol-grip shape with textured rubber grips that actually fit adult hands, not just kids'"
-cons:
+cons: 
   - "Menu navigation uses a single jog dial with no back button — changing settings mid-session is fiddly and slow"
   - "No rechargeable battery included; you'll burn through AA batteries or need to buy a NiMH pack separately"
   - "Receiver antenna wire is fragile at the solder joint — handle it gently during installation or you'll get range dropouts"
+
 ---
 
 If you're new to RC cars and just dropped $300 on a brushless buggy, the last thing you want to hear is that you need another $150 for a "proper" transmitter. That's where the Flysky FS-GT3B comes in — a budget 2.4GHz radio that's been the default recommendation in RC forums for years. I've been running one for three months across a 1/10 scale drift car and a basher truck, and here's the real story.

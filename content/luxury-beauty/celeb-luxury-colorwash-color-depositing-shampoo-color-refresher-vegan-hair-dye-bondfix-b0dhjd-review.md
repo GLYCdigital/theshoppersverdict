@@ -1,4 +1,5 @@
 ---
+
 title: "Celeb Luxury Colorwash Color Depositing Shampoo - Color Refr"
 seo_title: "Celeb Luxury Colorwash Review: Color Refresher Shampoo"
 meta_description: "Honest Celeb Luxury Colorwash Color Refr review: Does this vegan color-depositing shampoo actually refresh faded hair? Real results, pros, cons."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHJD8SFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vjzIOaH+L._SL1500_.jpg"
-pros:
+pros: 
   - "Deposits noticeable pigment in one wash — most users see color revival without a salon visit"
   - "Vegan, cruelty-free formula with BondFix technology that strengthens hair while refreshing tone"
   - "Works on multiple shades (platinum, silver, violet, pastel) — not a one-trick pony"
-cons:
+cons: 
   - "Messy application — pigment can stain hands, nails, and shower surfaces if you're not careful"
   - "Not ideal for porous or damaged hair — can over-deposit and leave uneven patchy color"
+
 ---
 
 If your expensive salon color has faded into a brassy, dull memory, Celeb Luxury Colorwash Color Depositing Shampoo promises to resurrect it in the time it takes to shower. At 4.3 stars across 215 Amazon ratings, it's clearly doing something right. But as someone who's tested more color-depositing shampoos than I care to admit, I can tell you the difference between "refreshes" and "actually works" is significant. Let's break down what Color Refr really delivers.

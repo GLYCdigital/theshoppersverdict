@@ -1,4 +1,5 @@
 ---
+
 title: "Alpine Corporation Original Glass Globe Review"
 seo_title: "Alpine Corporation Glass Globe Review: Garden Sphere Verdict"
 meta_description: "Our Alpine Corporation Original Glass Globe review covers build quality, durability, and value. See if this 4.3-star garden sphere is worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CGW2ST75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hkfQj2OqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-inch diameter makes a substantial visual statement without overwhelming smaller garden beds"
   - "Reflective glass surface catches and scatters sunlight, creating moving light patterns throughout the day"
   - "Sturdy 1.5-pound weight resists tipping in moderate winds without needing permanent mounting"
-cons:
+cons: 
   - "Solid glass construction means it will shatter if dropped on hard surfaces or struck by lawn equipment"
   - "Flat base requires a level surface or slight burial to sit truly upright in loose soil"
+
 ---
 
 ## The Short Version

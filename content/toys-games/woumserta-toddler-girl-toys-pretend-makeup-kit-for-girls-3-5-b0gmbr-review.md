@@ -1,4 +1,5 @@
 ---
+
 title: "Woumserta Toddler Girl Toys, Pretend Makeup Kit for Girls 3-"
 seo_title: "Woumserta Toddler Girl Toys, Pretend Makeup Kit fo Review"
 meta_description: "Our full woumserta toddler girl toys, pretend makeup kit for girls 3- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMBR2CMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uBAA-v5WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a little one who eyes your makeup bag every morning, you already know the drill: You either hide your good stuff or hand over a lipstick and pray. The Woumserta Pretend Makeup Kit is the third option — a $10 set that gives toddlers their own "glam" without you losing your favorite mascara to a bathroom floor experiment.

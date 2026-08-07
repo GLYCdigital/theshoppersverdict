@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Expressions 9 ft. Patio Umbrella, Market Table Umbr"
 seo_title: "Backyard Expressions 9 ft Patio Umbrella Review (2026)"
 meta_description: "Honest Backyard Expressions 9 ft patio umbrella review: tilt mechanism, durability, and value. See pros, cons, and who should buy this market umbrella."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FKCR8LS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LnI4u4qNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "9-foot canopy genuinely covers a standard 4-6 person table without overwhelming a small patio"
   - "Tilt mechanism locks into multiple angles with a firm click — no flimsy plastic parts"
   - "Fade-resistant polyester fabric holds color through a full season of afternoon sun"
-cons:
+cons: 
   - "Pole is 1.5 inches in diameter, so it won't fit some older table bases with smaller collars"
   - "Crank mechanism requires two hands to operate when the canopy is fully open"
   - "No vent at the top — wind gusts above 15 mph will require lowering the umbrella"
+
 ---
 
 **The $60 Question: Can a budget market umbrella actually survive a summer?**

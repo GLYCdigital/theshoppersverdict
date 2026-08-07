@@ -1,4 +1,5 @@
 ---
+
 title: "AZUREBEAUTY Dip Powder Nail Set Colors French Nail Art Manic"
 seo_title: "AZUREBEAUTY Dip Powder Nail Set Review: French Manicure"
 meta_description: "AZUREBEAUTY dip powder nail set review: 4.4-star rated French manicure kit. Real pros, cons, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F9P8BFFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gEankN7VL._SL1500_.jpg"
-pros:
+pros: 
   - "Complete French manicure system in one box — multiple nude/pink bases plus white tips, no separate purchases needed"
   - "Dip powder formula bonds quickly and resists chipping for 2-3 weeks when applied correctly"
   - "Color payoff is opaque in two dips — even the white tip shade doesn't require three or four coats"
-cons:
+cons: 
   - "No odor-free option — the activator and base coat have a strong chemical smell during application"
   - "Learning curve is real — first-time dip users will likely get lumpy results before mastering the dip-and-brush technique"
   - "Brush included for liquids is mediocre — replacements are cheap but you'll want a better one from the start"
+
 ---
 
 **If you've priced a salon French manicure lately, you know the math is brutal — $50 to $70 every three weeks, forever.** The AZUREBEAUTY Dip Powder Nail Set promises to cut that to pennies per manicure while giving you the same gel-like durability. At 4.4 stars from 220 raters, it's not perfect, but for most home manicurists, it's a legitimate alternative to the salon chair.

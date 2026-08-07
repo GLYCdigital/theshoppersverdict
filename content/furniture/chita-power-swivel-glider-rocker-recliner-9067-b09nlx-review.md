@@ -1,4 +1,5 @@
 ---
+
 title: "CHITA Power Swivel Glider Rocker Recliner 9067 inch"
 seo_title: "CHITA Power Recliner Review: Swivel, Glide & Comfort"
 meta_description: "Read our honest CHITA Power Swivel Glider Rocker Recliner 9067 review. Real comfort data, durability concerns, and who should buy this 4.6-star chair."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NLXSPPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714leijvJsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, quiet power recline with independent backrest and footrest controls — no manual levers to fight with"
   - "360-degree swivel plus gliding motion works on both carpet and hardwood without a separate base"
   - "Generous 22-inch seat width and plush padded armrests accommodate taller and broader users comfortably"
-cons:
+cons: 
   - "Faux leather (PU) shows wear and peeling sooner than fabric — expect 2-3 years with daily use"
   - "Assembly requires two people and takes 45-60 minutes; the backrest bolts can be finicky to align"
   - "Power cord placement limits positioning — the chair must sit within reach of an outlet unless you buy an extension"
+
 ---
 
 This chair does a lot. The question is whether it does it *well* — and for whom. After digging through the specs, build data, and what 229 buyers actually said, here's the real story on the CHITA Power Swivel Glider Rocker Recliner 9067.

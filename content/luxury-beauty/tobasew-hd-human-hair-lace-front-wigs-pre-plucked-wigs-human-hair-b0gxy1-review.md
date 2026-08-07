@@ -1,4 +1,5 @@
 ---
+
 title: "tobasew HD Human Hair Lace Front Wigs Pre Plucked Wigs Human"
 seo_title: "tobasew HD Human Hair Lace Front Wigs Pre Plucked  Review"
 meta_description: "Our full tobasew hd human hair lace front wigs pre plucked wigs human review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GXY14TBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wuhvPUDaL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $50 wig that punches above its weight — if you're patient

@@ -1,4 +1,5 @@
 ---
+
 title: "Ivory Body Wash, Designed for the Whole Family, Gentle Formu"
 seo_title: "Ivory Body Wash, Designed for the Whole Family, Ge Review"
 meta_description: "Our full ivory body wash, designed for the whole family, gentle formu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FKBP12HS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71avvqqjsXL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "gentle" body washes are either so watery they feel like nothing, or so loaded with moisturizers they leave you feeling like you never rinsed off. Ivory's family formula thread the needle — and with 235 ratings holding a 4.7-star average, I'm not the only one who noticed.

@@ -1,16 +1,17 @@
 ---
+
 title: "Hint Infused Bottled, Best Sellers Variety Pack - Sugar Free Flavored with Zero Calories, Natural Essences, and No Artificial Sweeteners - 16 Fl Oz (Pack of 12)"
 seo_title: "Hint Infused Bottled Review: Verdict (4.3/5) | TSV"
 meta_description: "Honest hint infused bottled, best sel review 33,615+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "hint-infused-bottled-best-sellers-variety-pack-sugar-free-flavored-with-zero-review"
 image_alt: "Hint Infused Bottled, Best Sellers Variety Pack - Sugar Free Flavored with Zero Calories, Natural Essences, and No Artif"
-keywords:
+keywords: 
   - "hint infused bottled review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What are the downsides of the Hint Infused Bottled, Best?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the Hint Infused Bottled, Best?"
@@ -21,10 +22,11 @@ review_count: 33615
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01E6WOVX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hL1jdQbJL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 # Hint Infused Water Best Sellers Variety Pack Review: The Honest Take on the "Healthy Soda" Alternative

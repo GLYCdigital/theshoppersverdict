@@ -1,4 +1,5 @@
 ---
+
 title: "Espresso Dosing Funnel and Puck Screen Set"
 seo_title: "Espresso Dosing Funnel & Puck Screen Set Review (2026)"
 meta_description: "Honest review of the Espresso Dosing Funnel and Puck Screen Set: build quality, fit, real extraction results, and who should buy it. Rating: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C466T6VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XKNimm2PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "58mm funnel fits standard Breville and Gaggia portafilters snugly with a magnetic lip that stays put during WDT"
   - "100-micron puck screen is thin enough (1.7mm) to keep your group head clean without adding noticeable headspace"
   - "Includes a dosing funnel and two puck screens in one kit — cheaper than buying separately"
-cons:
+cons: 
   - "Funnel depth (12mm) is shallow for very light-roast coffees that need aggressive WDT — grounds can spill over"
   - "Puck screens require periodic soaking in Cafiza; they'll blind if you skip cleaning for a week"
+
 ---
 
 Let's be honest: most espresso accessories are overpriced trinkets that promise cleaner pucks and better flow, then deliver marginal gains you'd never notice in the cup. This dosing funnel and puck screen set from Amazon's B0C466T6VF listing is different — not because it's revolutionary, but because it addresses two genuine workflow annoyances that every home barista hits.

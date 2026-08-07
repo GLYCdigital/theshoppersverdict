@@ -1,4 +1,5 @@
 ---
+
 title: "AIRYPHANT Modern LED Ring Chandeliers Large Chandelier for H"
 seo_title: "AIRYPHANT LED Ring Chandelier Review: Modern Lighting for High Ceilings"
 meta_description: "Read our honest AIRYPHANT Modern LED Ring Chandelier review. Covers brightness, dimming, install, and whether this 4.7-star light fits your space."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWQ85WXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WyrlS1TDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED modules rated for 50,000+ hours — no bulbs to replace or hunt down"
   - "Adjustable rods let you customize hanging length for ceilings from 8 to 15+ feet"
   - "Multiple color temperature settings (2700K–5000K) with a memory function that remembers your last setting"
-cons:
+cons: 
   - "The built-in LED driver is non-removable — if it fails, the whole fixture needs replacing"
   - "Ships with no remote included; color/brightness changes require an in-wall dimmer or the optional separate controller"
+
 ---
 
 # AIRYPHANT Modern LED Ring Chandelier Review: A Bold Statement That Earns Its Keep

@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Wooden Coffee Table, Lift Top Coffee Table with La"
 seo_title: "Yaheetech Wooden Coffee Table, Lift Top Coffee Tab Review"
 meta_description: "Our full yaheetech wooden coffee table, lift top coffee table with la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJKYXLNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nmgOBm3wL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Yaheetech lift-top coffee table is the furniture equivalent of a Swiss Army knife — it does a lot of things well, but it's not without a few rough edges.**

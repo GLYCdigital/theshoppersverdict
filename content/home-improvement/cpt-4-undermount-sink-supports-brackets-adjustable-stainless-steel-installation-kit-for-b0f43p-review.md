@@ -1,4 +1,5 @@
 ---
+
 title: "CPT-4 Undermount Sink Supports Brackets Adjustable Stainless"
 seo_title: "CPT-4 Undermount Sink Supports Review: Adjustable Stainless Brackets"
 meta_description: "CPT-4 undermount sink support brackets review: adjustable stainless steel installation kit. See real pros, cons, and whether it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F43PMFZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WnB+CJJcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable vertical and horizontal arms accommodate most sink depths and counter thicknesses without custom fabrication"
   - "Heavy-gauge stainless steel construction with corrosion-resistant finish holds up in damp under-sink environments"
   - "Complete kit includes all mounting hardware — no extra trips to the hardware store"
-cons:
+cons: 
   - "Installation requires access from below the sink, which is awkward in tight cabinet spaces with existing plumbing"
   - "Some users report the set screws need periodic re-tightening if the sink is subjected to heavy downward pressure"
   - "The included instructions are minimal — you'll want to watch a video or two before starting"
+
 ---
 
 **The $25 Fix That Prevents a $1,500 Countertop Disaster**

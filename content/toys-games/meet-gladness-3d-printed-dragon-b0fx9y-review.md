@@ -1,4 +1,5 @@
 ---
+
 title: "Meet Gladness 3D Printed Dragon"
 seo_title: "Meet Gladness 3D Printed Dragon Review: Verdict | TSV"
 meta_description: "Our full meet gladness 3d printed dragon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX9Y7S3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710AUUrbaVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The $30 question**

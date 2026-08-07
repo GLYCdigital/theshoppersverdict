@@ -1,4 +1,5 @@
 ---
+
 title: "Transformers Dinobot Adventures Optimus Prime T-Rex Converti"
 seo_title: "Transformers Dinobot Adventures Optimus Prime T-Re Review"
 meta_description: "Our full transformers dinobot adventures optimus prime t-rex converti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJCRGFRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qx5QZdzhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: the Transformers Dinobot Adventures Optimus Prime T-Rex Converti is not aimed at adult collectors. It's aimed at your 4-to-7-year-old who wants to smash two dinosaurs together and yell "RAWWR." And for that job, it's surprisingly excellent.

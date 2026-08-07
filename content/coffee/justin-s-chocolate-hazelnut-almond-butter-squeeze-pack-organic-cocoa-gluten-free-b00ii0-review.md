@@ -1,4 +1,5 @@
 ---
+
 title: "Justin's Chocolate Hazelnut & Almond Butter Squeeze Pack, Or"
 seo_title: "Justin's Chocolate Hazelnut & Almond Butter Squeez Review"
 meta_description: "Our full justin's chocolate hazelnut & almond butter squeeze pack, or review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00II0XHZO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k30XwUl+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1.15-ounce squeeze pack that thinks it's dessert — and mostly pulls it off.**

@@ -1,4 +1,5 @@
 ---
+
 title: "FREE SOLDIER Patio Offset Umbrella with 32 LED Lights Solar"
 seo_title: "FREE SOLDIER Offset Umbrella Review: LED Solar Cantilever"
 meta_description: "Honest FREE SOLDIER patio offset umbrella review: 32 LED lights, solar charging, cantilever design. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D492CWM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Q6KMemluL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "32 integrated LED lights powered by a top-mounted solar panel provide genuine evening usability without extension cords or battery swaps"
   - "Offset cantilever design maximizes usable shade area — the pole sits outside the seating zone, unlike center-pole umbrellas"
   - "Crank lift and tilt mechanism functions smoothly even after months of outdoor exposure, per multiple verified purchasers"
-cons:
+cons: 
   - "Solar panel only charges in direct sun; overcast days mean dimmer lights or no evening illumination at all"
   - "Base requires separate purchase — the included cross base is not heavy enough for windy conditions without sandbags or weights"
   - "Fabric is polyester, not solution-dyed acrylic; expect noticeable fading after a full season in intense southern sun"
+
 ---
 
 The FREE SOLDIER Patio Offset Umbrella with 32 LED Lights Solar solves a specific problem most cantilever umbrellas ignore: what happens after sunset. With 32 integrated LED lights running off a solar panel, this umbrella turns your patio into a usable evening space without dragging out string lights or hunting for an outlet. At 4.2 stars from 210 ratings, it's a solid mid-tier option that gets the fundamentals right — with a few compromises you should know about before you click buy.

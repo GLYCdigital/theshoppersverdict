@@ -1,4 +1,5 @@
 ---
+
 title: "HP 22 Aura All-in-One Desktop PC, Seamless Streaming and Eve"
 seo_title: "HP 22 Aura All-in-One Desktop PC, Seamless Streami Review"
 meta_description: "Our full hp 22 aura all-in-one desktop pc, seamless streaming and eve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GQPW2Q6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nDxVLHUAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The All-in-One That Cleans Up Your Desk — But Don't Expect a Powerhouse

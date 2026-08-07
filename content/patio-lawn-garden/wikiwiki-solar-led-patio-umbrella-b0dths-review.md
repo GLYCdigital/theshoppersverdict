@@ -1,4 +1,5 @@
 ---
+
 title: "wikiwiki Solar Led Patio Umbrella"
 seo_title: "wikiwiki Solar Led Patio Umbrella Review: Verdict | TSV"
 meta_description: "Our full wikiwiki solar led patio umbrella review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DTHS4SN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The wikiwiki Solar LED Patio Umbrella — Let's Skip the Hype and Talk Practicality**

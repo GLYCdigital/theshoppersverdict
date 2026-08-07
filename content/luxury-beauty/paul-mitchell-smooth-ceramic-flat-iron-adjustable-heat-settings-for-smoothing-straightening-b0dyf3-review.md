@@ -1,4 +1,5 @@
 ---
+
 title: "Paul Mitchell Smooth+ Ceramic Flat Iron, Adjustable Heat Set"
 seo_title: "Paul Mitchell Smooth+ Ceramic Flat Iron, Adjustabl Review"
 meta_description: "Our full paul mitchell smooth+ ceramic flat iron, adjustable heat set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYF35DP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sGRWx0xeL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $80 flat iron that actually respects your hair type**

@@ -1,4 +1,5 @@
 ---
+
 title: "GABRYLLY Ergonomic Office Chair, High-Back Desk Chairs with"
 seo_title: "GABRYLLY Ergonomic Office Chair Review: Worth It in 2026?"
 meta_description: "Honest GABRYLLY ergonomic office chair review: build quality, comfort, lumbar support, and who should buy it. 4.2/5 rating analyzed."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D7C1J7SM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Three-dimensional adjustable lumbar support that actually moves with your spine, not just a static pad"
   - "Breathable mesh backrest that prevents the swamp-back effect during marathon work sessions"
   - "Assembles in under 20 minutes with all tools included — no wrestling with allen wrenches at odd angles"
-cons:
+cons: 
   - "Seat cushion runs firm — lighter users (under 150 lbs) may find it unforgiving after hour four"
   - "Armrests adjust in height only — no forward/backward or pivot adjustment at this price point"
   - Headrest angle is fixed; tall users (6'2 inch+) may find it pushes their head too far forward
+
 ---
 
 **The $200 chair that thinks it's a $500 chair — mostly.**

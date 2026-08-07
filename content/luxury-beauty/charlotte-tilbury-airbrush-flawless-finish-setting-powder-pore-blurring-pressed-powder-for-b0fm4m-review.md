@@ -1,4 +1,5 @@
 ---
+
 title: "Charlotte Tilbury Airbrush Flawless Finish Setting Powder -"
 seo_title: "Charlotte Tilbury Airbrush Flawless Finish Setting Powder Review"
 meta_description: "Honest Charlotte Tilbury Airbrush Flawless Finish Setting Powder review: blurring power, wear time, shade range, and whether it's worth the luxury price."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM4MCXD9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IvV1sIMkL._SL1500_.jpg"
-pros:
+pros: 
   - "Immediate pore-blurring effect that visibly smooths skin texture under direct light"
   - "Weightless finish that sets makeup without flashback in photos"
   - "Press-fit sponge applicator included — actually usable, not an afterthought"
-cons:
+cons: 
   - "Shade range skews light-to-medium; deeper skin tones have limited matching options"
   - "Priced at luxury tier — drugstore powders get you 70% there for a fraction of the cost"
+
 ---
 
 # Charlotte Tilbury Airbrush Flawless Finish Setting Powder: Worth the Hype?

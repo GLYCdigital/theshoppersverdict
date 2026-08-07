@@ -1,4 +1,5 @@
 ---
+
 title: "Seagate Barracuda 2.5in 5tb Sata 2.5in 5400rpm 6gb/s 128mb 1"
 seo_title: "Seagate Barracuda 2.5in 5tb Sata 2.5in 5400rpm 6gb Review"
 meta_description: "Our full seagate barracuda 2.5in 5tb sata 2.5in 5400rpm 6gb/s 128mb 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01LXO31IZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lLPsu6JzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5TB laptop drive you've been waiting for—with caveats you need to know before buying.**

@@ -1,4 +1,5 @@
 ---
+
 title: "WHOLE FOODS MARKET Organic Ground Breakfast Blend Coffee, 12"
 seo_title: "WHOLE FOODS MARKET Organic Ground Breakfast Blend  Review"
 meta_description: "Our full whole foods market organic ground breakfast blend coffee, 12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDTGCLV4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KzW6wJ0EL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **WHOLE FOODS MARKET Organic Ground Breakfast Blend Coffee, 12** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

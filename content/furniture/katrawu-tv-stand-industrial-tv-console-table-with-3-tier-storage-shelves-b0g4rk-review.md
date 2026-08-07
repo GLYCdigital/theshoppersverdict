@@ -1,4 +1,5 @@
 ---
+
 title: "Katrawu TV Stand Industrial TV Console Table with 3-Tier Sto"
 seo_title: "Katrawu TV Stand Industrial TV Console Table with  Review"
 meta_description: "Our full katrawu tv stand industrial tv console table with 3-tier sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G4RKWR6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f-zSt7XuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: the Katrawu TV Stand is a $100-ish piece of furniture that looks like it costs twice that in photos. But does it hold up when you're actually sliding a 65-inch TV onto it? Here's what 210 buyers at 4.2 stars are saying — and what they're not.

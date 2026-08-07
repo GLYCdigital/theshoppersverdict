@@ -1,4 +1,5 @@
 ---
+
 title: "LAPGEAR Extra Large Adjustable Lap"
 seo_title: "LAPGEAR Extra Large Adjustable Lap Review: Verdict | TSV"
 meta_description: "Our full lapgear extra large adjustable lap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMTVF916/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xpcfHMnUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LAPGEAR Extra Large Adjustable Lap Desk Review: Is the Extra Size Worth It?

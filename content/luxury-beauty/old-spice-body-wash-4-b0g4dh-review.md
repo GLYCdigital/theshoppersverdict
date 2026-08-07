@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Body Wash 4"
 seo_title: "Old Spice Body Wash 4 Review: Verdict | TSV"
 meta_description: "Our full old spice body wash 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G4DH8SGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LCbhL2w9L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Old Spice Body Wash 4: The Premium Shower Upgrade That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "KastKing Ellijay Bifocal Polarized Sunglasses, Bi-Focal x1.5"
 seo_title: "KastKing Ellijay Bifocal Polarized Sunglasses, Bi- Review"
 meta_description: "Our full kastking ellijay bifocal polarized sunglasses, bi-focal x1.5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFW7ZPPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51q-BKZsnrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: bifocal sunglasses are a niche product, and most of them are junk. The KastKing Ellijay, though, punches well above its price point. With 220 ratings holding a 4.4-star average, these aren't just another pair of cheap polarized lenses. Here's the honest breakdown.

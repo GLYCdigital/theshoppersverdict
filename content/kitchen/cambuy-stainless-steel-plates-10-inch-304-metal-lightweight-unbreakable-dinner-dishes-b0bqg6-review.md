@@ -1,4 +1,5 @@
 ---
+
 title: "CAMBUY Stainless Steel Plates 10 inch 304 Metal Lightweight"
 seo_title: "CAMBUY Stainless Steel Plates Review: 10-Inch 304 Metal Dishes"
 meta_description: "Honest CAMBUY 10-inch stainless steel plates review: 304-grade metal, lightweight design, unbreakable durability. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQG63NVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vmrf1e2ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 304 grade stainless steel resists rust and corrosion — no flaking or peeling like coated metal plates"
   - "Weighs noticeably less than ceramic or stoneware, making it ideal for camping, RV travel, and kids"
   - "Brushed finish hides scratches and water spots far better than glossy or mirrored surfaces"
-cons:
+cons: 
   - "Dents if dropped on hard surfaces — the lightweight gauge that makes them portable also means they're not indestructible"
   - "Not microwave-safe; metal plates will arc and damage your appliance"
   - "Conducts heat quickly — food straight from the oven will make the rim too hot to touch"
+
 ---
 
 If you've ever watched a ceramic plate shatter on a campsite or dodged porcelain shards after a toddler "helped" clear the table, you already know why metal dinnerware deserves a look. The CAMBUY 10-inch stainless steel plates solve the breakage problem — but they come with tradeoffs you should know about before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hasuit Modern Bedroom Dresser, Wooden Long Dresser Chest of "
 seo_title: "Hasuit Modern Bedroom Dresser, Wooden Long Dresser Review"
 meta_description: "Our full hasuit modern bedroom dresser, wooden long dresser chest of  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9B8K68K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $200–300 dresser that punches above its weight — if you're patient with assembly and smell.**

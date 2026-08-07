@@ -1,4 +1,5 @@
 ---
+
 title: "2025 Topps Heritage Baseball - Mega Box"
 seo_title: "2025 Topps Heritage Mega Box Review: Retro Design, Real Hits"
 meta_description: "2025 Topps Heritage Baseball Mega Box review: retro 1976 design, 3 autos or relics per box, and hit rates explained. Is it worth the price? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F2TR7MWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JjxbpSBuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three guaranteed hits (autograph or relic) per Mega Box — well above typical retail value"
   - "Authentic 1976 Topps design with the classic wood-grain border and team-name color blocks"
   - "Strong rookie checklist including top prospects and young stars worth chasing"
-cons:
+cons: 
   - "No guaranteed autograph — you may get three relics instead, which is a letdown for some buyers"
   - "Collation issues reported in early runs, with duplicate base cards appearing in the same box"
   - "White-border design shows surface scratches and print lines more easily than standard Topps releases"
+
 ---
 
 The 2025 Topps Heritage Baseball Mega Box is the rare retail product that actually delivers on its promise. While standard blaster boxes give you a handful of packs and a prayer, this Mega Box steps up with 12 packs, 18 cards per pack, and **three guaranteed hits** — autographs or relic cards — tucked inside. That's 216 total cards and a real shot at something worth sleeving.

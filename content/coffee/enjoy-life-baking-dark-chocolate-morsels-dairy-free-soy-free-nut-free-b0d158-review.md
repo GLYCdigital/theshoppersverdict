@@ -1,4 +1,5 @@
 ---
+
 title: "Enjoy Life Baking Dark Chocolate Morsels, Dairy Free, Soy Fr"
 seo_title: "Enjoy Life Dark Chocolate Morsels Review: Allergen-Free Baking"
 meta_description: "Our honest Enjoy Life Baking Dark Chocolate Morsels review: dairy-free, soy-free, nut-free chips that actually melt. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D158XJCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V01vSreBL._SL1500_.jpg"
-pros:
+pros: 
   - "Top 8 allergen-free certification means safe for nut-free schools and severe allergy households"
   - "Holds shape in cookies while still melting smoothly for drizzling or ganache"
   - "No artificial flavors or preservatives — just three simple ingredients"
-cons:
+cons: 
   - "Tastes noticeably less sweet than standard semisweet chips — takes adjustment"
   - "Bag size (10 oz) runs smaller than standard 12 oz bags at a premium price point"
+
 ---
 
 Let’s cut through it: if you’re shopping for chocolate chips because someone in your house has food allergies, you already know the drill — most mainstream chips contain milk, soy lecithin, or both. Enjoy Life Baking Dark Chocolate Morsels eliminates that entire problem. The bag is certified free of the top eight allergens: no dairy, no soy, no nuts, no gluten, no eggs. For a family navigating severe allergies, that’s not a nice-to-have; that’s the entire point.

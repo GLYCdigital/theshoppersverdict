@@ -1,4 +1,5 @@
 ---
+
 title: "ALPS Mountaineering Backpacking-Tents Lynx 1 inch"
 seo_title: "ALPS Mountaineering Lynx 1 Tent Review: Honest Verdict"
 meta_description: "Read our ALPS Mountaineering Lynx 1 tent review. We cover setup, weather resistance, weight, and real buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZWKCFDL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yiB3WA28L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Full-coverage rainfly with factory-sealed seams keeps water out in sustained downpours"
   - "Two aluminum poles create a freestanding dome that sets up in under 10 minutes"
   - "Gear loft and interior pocket add storage without adding pack weight"
-cons:
+cons: 
   - "At 3 lbs 10 oz packed, it's heavier than ultralight competitors like the Big Agnes Copper Spur"
   - "Interior is snug at 20 sq ft — tight for taller campers or anyone who tosses at night"
   - "Vestibule is small; wet gear or boots will crowd your entry space"
+
 ---
 
 Let me cut through the noise. The ALPS Mountaineering Lynx 1 is a budget-friendly solo backpacking tent that punches well above its price point, but it's not without tradeoffs. After digging through 235 Amazon ratings and testing the specs against real-world conditions, here's what you need to know before you buy.

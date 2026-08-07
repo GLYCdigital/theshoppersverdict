@@ -1,4 +1,5 @@
 ---
+
 title: "Wago 873-902 LUMI-NUTS? PUSH WIRE? Connector for Luminaire D"
 seo_title: "Wago 873-902 LUMI-NUTS? PUSH WIRE? Connector for L Review"
 meta_description: "Our full wago 873-902 lumi-nuts? push wire? connector for luminaire d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B003K06OJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H5zvQo9kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a wire nut inside a recessed light housing with fingers the size of sausages, you already know why the Wago 873-902 LUMI-NUTS exist. These push-wire connectors solve a specific problem—making a secure, inspectable splice in tight luminaire spaces—and they solve it so well that they've earned a 4.8-star average across 240 Amazon ratings. But before you add a 500-count box to your cart, let's dig into what these actually are, what they do, and whether you need them.

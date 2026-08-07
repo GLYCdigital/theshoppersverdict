@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie S-Gel Pens, Medium Point (0.7mm), Black Ink, 4 Count"
 seo_title: "Sharpie S-Gel Pens, Medium Point (0.7mm), Black In Review"
 meta_description: "Our full sharpie s-gel pens, medium point (0.7mm), black ink, 4 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSGGHCFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Sharpie S-Gel Pens, Medium Point (0.7mm), Black Ink, 4 Count** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

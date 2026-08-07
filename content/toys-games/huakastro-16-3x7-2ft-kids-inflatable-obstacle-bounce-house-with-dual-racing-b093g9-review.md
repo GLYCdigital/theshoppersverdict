@@ -1,4 +1,5 @@
 ---
+
 title: "HuaKastro 16.3x7.2FT Kids Inflatable Obstacle Bounce House w"
 seo_title: "HuaKastro Inflatable Obstacle Bounce House Review (2026)"
 meta_description: "HuaKastro 16.3x7.2FT obstacle bounce house review: dual racing lanes, slide, climbing wall. Is it worth $400+? Real pros, cons, and buyer verdicts."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B093G9NXYX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ArYCZZzbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual racing lanes let two kids compete simultaneously — rare at this price point"
   - "Commercial-grade 420D Oxford PVC material holds up to rough play"
   - "Setup takes under 5 minutes with the included 450W blower"
-cons:
+cons: 
   - "Requires a 15-amp dedicated outlet — standard 10-amp garage circuits may trip"
   - "No carry bag included; the deflated unit is heavy and awkward to store"
   - "Stakes are basic 8-inch plastic — upgrade to metal for high-wind days"
+
 ---
 
 **The 16-foot obstacle course that turns your backyard into a kids' gym — but only if you have the right outlet.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Carbon's Golden Malted Original Waffle and Pancake Flour"
 seo_title: "Carbon's Golden Malted Waffle Mix Review (2026): Is It Worth It?"
 meta_description: "Carbon's Golden Malted Original Waffle & Pancake Flour review: taste, texture, consistency, and value. See if this 4.6-star mix beats homemade."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00WVYST6U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qou3E8MIL._SL1500_.jpg"
-pros:
+pros: 
   - "Signature malted flavor delivers that classic hotel-style waffle taste you can't get from standard pancake mixes"
   - "Produces consistently crispy exteriors with tender, fluffy interiors even when batter sits for 30+ minutes"
   - "One 32-ounce bag yields roughly 20 waffles — better value per serving than most specialty mixes"
-cons:
+cons: 
   - "Contains wheat and milk — not suitable for gluten-free or dairy-free diets without modification"
   - "Requires additional eggs and oil (not just water), so it's not a 'just add water' convenience mix"
   - "Bag reseal is weak; you'll want a clip or transfer container to keep it fresh"
+
 ---
 
 # Carbon's Golden Malted Original Waffle and Pancake Flour: Worth the Hype?

@@ -1,4 +1,5 @@
 ---
+
 title: "GOEBLESON Battery Operated Wall Sconces Set of 2, Modern Rec"
 seo_title: "GOEBLESON Battery Operated Wall Sconces Set of 2,  Review"
 meta_description: "Our full goebleson battery operated wall sconces set of 2, modern rec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F6NBDJPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71slSj4DN+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at a dark hallway or a dim reading nook with zero electrical wiring nearby, the GOEBLESON Battery Operated Wall Sconces Set of 2 is the kind of product that looks like a clever solution on paper. The real question is whether it delivers in practice. I've dug through the specs and the 204 Amazon ratings (4.1 stars) to give you the straight story.

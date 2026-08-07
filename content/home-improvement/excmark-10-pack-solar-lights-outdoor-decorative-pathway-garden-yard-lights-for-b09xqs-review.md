@@ -1,5 +1,6 @@
 ---
 
+
 title: "EXCMARK 10 Pack Solar Lights - Outdoor Decorative, Pathway,"
 seo_title: "EXCMARK 10 Pack Solar Lights Review: Worth It? (2026)"
 meta_description: "EXCMARK 10 Pack solar pathway lights reviewed: brightness, battery life, durability, and real buyer feedback. See if they're worth your money."
@@ -12,13 +13,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09XQSW5SP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H8SpLSkwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10-pack value — you can light a 50-foot driveway or full garden border for under $30 inch"
   - "Sturdy ABS plastic housing with IP65 water resistance; survives rain and sprinkler overspray"
   - "Swappable AA NiMH batteries mean you're not throwing away the whole unit when cells die"
-cons:
+cons: 
   - "Brightness is modest (~15 lumens) — more 'mood glow' than security lighting"
   - "Plastic stakes can crack if you force them into frozen or rocky soil"
+
 
 ---
 

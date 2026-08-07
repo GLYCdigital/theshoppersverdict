@@ -1,4 +1,5 @@
 ---
+
 title: "Color Swell Bulk Colored Pencil Packs Assorted Vibrant Pre-S"
 seo_title: "Color Swell Bulk Colored Pencils Review: 4.7-Star Verdict"
 meta_description: "Color Swell bulk colored pencil packs reviewed: vibrant pre-sharpened colors, classroom value, and honest downsides. See if they're right for your kids."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7JZNWBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Pre-sharpened tips that actually stay sharp through the first dozen uses — no broken lead inside the box"
   - "Vibrant, heavily pigmented cores that lay down color smoothly even on standard printer paper"
   - "Excellent cost-per-pencil ratio for classrooms, party favors, and art teachers buying in bulk"
-cons:
+cons: 
   - "Wood casing splinters on aggressive sharpening — kids who crank the sharpener too hard will shave off excess wood"
   - "Color names are printed on a sticker that peels off within a week of regular handling"
+
 ---
 
 Let's be direct about what these are: **bulk colored pencils for kids, classrooms, and high-volume art projects** — not artist-grade supplies. If that's what you're shopping for, the Color Swell Bulk Packs deserve a hard look. At 4.7 stars across 235 ratings, the crowd has spoken. Here's what they're actually saying.

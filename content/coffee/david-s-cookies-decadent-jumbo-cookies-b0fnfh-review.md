@@ -1,4 +1,5 @@
 ---
+
 title: "DAVID'S COOKIES Decadent Jumbo Cookies"
 seo_title: "DAVID'S COOKIES Decadent Jumbo Cookies Review (2026)"
 meta_description: "Honest review of DAVID'S COOKIES Decadent Jumbo Cookies: flavor, texture, value, and who should buy. Real buyer feedback at 3.9/5 stars."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FNFHP7ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EKFXplNUL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely jumbo size — each cookie weighs in around 3 ounces, delivering serious heft per serving"
   - "Four distinct flavors (chocolate chip, oatmeal raisin, peanut butter, sugar) offer variety without overwhelming choice"
   - "Arrives fresh and soft — multiple buyers note the cookies maintain bakery-level moisture even after shipping"
-cons:
+cons: 
   - "Inconsistent batch quality — some buyers report dry, crumbly cookies while others get perfectly soft ones"
   - "Price per cookie runs high compared to grocery store bakery sections, especially for the smaller count boxes"
   - "Peanut butter flavor divides opinion — some find it overly sweet with a chalky finish"
+
 ---
 
 Let me be upfront: this is a cookie review, not a coffee gear review. The product data categorizes it as coffee-adjacent, but you're here because you want to know if these jumbo cookies are worth your money. That's fair. Here's the honest breakdown.

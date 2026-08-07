@@ -1,4 +1,5 @@
 ---
+
 title: "Palmerâ€™s Raw Shea Butter Balm Body 7.25"
 seo_title: "Palmerâ€™s Raw Shea Butter Balm Body 7.25 Review: Verdict"
 meta_description: "Our full palmerâ€™s raw shea butter balm body 7.25 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CN7HZZCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712s49FcVxL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most “shea butter” balms on the market are mostly water, wax, and fragrance with a token shea extract for the label. Palmer’s Raw Shea Butter Balm isn’t that. This 7.25-ounce jar leads with raw shea butter as the first ingredient, and you can feel the difference the second you scoop it out. It’s thick. It’s opaque. It smells faintly nutty, not perfumed. And for anyone battling alligator-scale elbows, cracked heels, or winter itch, it actually works.

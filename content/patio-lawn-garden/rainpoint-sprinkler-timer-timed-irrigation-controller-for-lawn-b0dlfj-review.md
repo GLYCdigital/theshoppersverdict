@@ -1,4 +1,5 @@
 ---
+
 title: "RAINPOINT Sprinkler Timer, Timed Irrigation Controller for L"
 seo_title: "RAINPOINT Sprinkler Timer, Timed Irrigation Contro Review"
 meta_description: "Our full rainpoint sprinkler timer, timed irrigation controller for l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLFJNJF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AgYb-3mVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RAINPOINT Sprinkler Timer Review: Does This Budget Irrigation Controller Actually Deliver?

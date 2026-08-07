@@ -1,4 +1,5 @@
 ---
+
 title: "EUKANUBA Adult Mixed Grill Chicken & Beef Dinner in Gravy Ca"
 seo_title: "EUKANUBA Adult Mixed Grill Canned Dog Food Review (2026)"
 meta_description: "Honest EUKANUBA Adult Mixed Grill Chicken & Beef Dinner in Gravy review: texture, ingredients, picky-eater results, and value for multi-dog homes."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B072JMFMJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812a8BcpuBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real shredded meat pieces visible in every can — not a uniform pâté"
   - "Gravy base is rich enough to make dry kibble more appealing for picky eaters"
   - "Reliable for sensitive stomachs — no corn, wheat, or soy fillers in the formula"
-cons:
+cons: 
   - "12.5 oz can is large for small breeds — you'll need a fridge container for leftovers"
   - "Texture is softer than chunk-style competitors; some dogs may prefer firmer bites"
   - "Price per ounce runs higher than store-brand wet foods, especially for multi-dog households"
+
 ---
 
 **Bottom Line Up Front:** If your adult dog turns up its nose at dry kibble or you need a reliable wet topper that won't upset a sensitive stomach, EUKANUBA's Mixed Grill Dinner earns its 4.6-star rating. But it's not the cheapest way to feed a 70-pound retriever exclusively.

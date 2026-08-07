@@ -1,4 +1,5 @@
 ---
+
 title: "Everyone 3-in-1 Soap, Body Wash, Bubble Bath, Shampoo"
 seo_title: "Everyone 3-in-1 Soap Review: Honest 2026 Verdict"
 meta_description: "Honest Everyone 3-in-1 Soap review: Does this coconut & lemon body wash, shampoo, and bubble bath deliver? Real pros, cons & buying advice."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWH5HG28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B6mORpuHL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely effective as all three products — lathers richly as a shampoo and produces real bubble bath foam, not just soapy water"
   - "Plant-based, biodegradable formula with no sulfates, parabens, or synthetic fragrance — safe for sensitive skin"
   - "32-ounce bottle lasts months even with daily use by multiple family members"
-cons:
+cons: 
   - "Coconut and lemon scent is pleasant but subtle — fades almost immediately after rinsing"
   - "Can leave fine or oily hair feeling slightly heavy if used daily without a separate conditioner"
   - "Not tear-free — be careful with young children in the bath"
+
 ---
 
 Let's be blunt: most "3-in-1" products are one good formula diluted into three mediocre ones. The Everyone brand actually pulls it off — and with a 4.6-star average across 229 Amazon ratings, buyers agree. But this isn't a miracle product, and there are a few things you should know before adding it to your cart.

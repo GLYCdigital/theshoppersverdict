@@ -1,4 +1,5 @@
 ---
+
 title: "Haliwu Brass Gold Cabinet Handles"
 seo_title: "Haliwu Brass Gold Cabinet Handles Review: Verdict | TSV"
 meta_description: "Our full haliwu brass gold cabinet handles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DX73X3GL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZXFQmLliL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're doing a budget kitchen refresh and want that warm brass look without re-drilling every drawer front, these Haliwu handles get the job done. But temper your expectations on the finish — this is brushed satin gold, not mirror-polished.

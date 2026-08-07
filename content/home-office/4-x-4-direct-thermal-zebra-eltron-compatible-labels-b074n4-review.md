@@ -1,4 +1,5 @@
 ---
+
 title: "4 inch  x 4 inch  Direct Thermal Zebra/Eltron Compatible Labels"
 seo_title: "4x4 Direct Thermal Labels Review: Zebra Compatible"
 meta_description: "Honest review of 4x4 direct thermal Zebra/Eltron labels: print quality, adhesion, value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B074N4D3S1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615xjM6Ns0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, dark thermal print output with no fading or streaking across multiple printer models"
   - "Adhesive bonds firmly to cardboard, poly mailers, and plastic without edge lifting during shipping"
   - "Perforation between labels tears cleanly — no jagged edges or wasted partial labels"
-cons:
+cons: 
   - "Core size (1-inch) won't fit printers designed for 0.5-inch cores without an adapter"
   - "Labels are on the thinner side; they work fine but feel less substantial than OEM stock"
+
 ---
 
 If you run a shipping operation — even a one-person Etsy empire — labels are the boring hero of your workflow. The wrong ones jam, smear, or peel off in transit. These 4x4 direct thermal labels from an unnamed compatible brand have earned a 4.6-star average across 229 ratings, which tells you they're doing something right. I tested them against a Zebra ZD421 and an older Eltron LP2844 to see if the hype holds up.

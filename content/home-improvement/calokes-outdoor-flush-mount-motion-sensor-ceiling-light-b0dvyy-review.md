@@ -1,4 +1,5 @@
 ---
+
 title: "CALOKES Outdoor Flush Mount Motion Sensor Ceiling Light"
 seo_title: "CALOKES Motion Sensor Ceiling Light Review (2026)"
 meta_description: "Honest CALOKES outdoor flush mount motion sensor ceiling light review: brightness, range, durability, and installation insights from verified buyers."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVYYYHC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ic3GuuUtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn photocell with independently adjustable motion timer (30s/1min/3min/5min)"
   - "Die-cast aluminum housing with tempered glass — rated IP65 for direct rain exposure"
   - "Wide 120° detection range with 15-foot pickup, catching side-approaching movement"
-cons:
+cons: 
   - "Motion sensor and bulb are a single integrated unit — replacing the LED means replacing the whole fixture"
   - "Supplied mounting screws are short for stucco or thick siding; most buyers will need longer anchors"
   - "Color temperature locked at 5000K daylight — no warm-white option for those who prefer softer exterior lighting"
+
 ---
 
 Let me get straight to it: most outdoor motion lights under $50 are plastic junk that cracks in two winters. The CALOKES flush mount isn't that. It's a die-cast aluminum fixture with tempered glass, IP65 weatherproofing, and a genuinely useful motion sensor — and at 4.5 stars across 225 ratings, it's earning its reputation.

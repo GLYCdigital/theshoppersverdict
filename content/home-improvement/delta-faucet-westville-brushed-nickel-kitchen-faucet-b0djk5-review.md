@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Westville Brushed Nickel Kitchen Faucet Review"
 seo_title: "Delta Westville Brushed Nickel Faucet Review: Worth It?"
 meta_description: "Delta Westville brushed nickel kitchen faucet review: real pros, cons, and buyer feedback. Is this 4.2-star faucet right for your kitchen? Read before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJK59MQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QsM5gG6BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "DIAMOND Seal technology eliminates the traditional rubber washer, reducing leak points and extending valve life significantly"
   - "Magnetic docking keeps the pull-down spray head secure in place — no drooping or sagging wand"
   - "Brushed nickel finish resists fingerprints and water spots far better than chrome or stainless"
-cons:
+cons: 
   - "Shorter 59-inch hose reach than some competitors — may not reach all corners of deep or extra-wide sinks"
   - "Some buyers report the spray head wobbles slightly even when docked if you bump it mid-use"
   - "No soap dispenser or side-sprayer included — you'll buy those separately if you want them"
+
 ---
 
 The Delta Faucet Westville in brushed nickel is the kitchen faucet equivalent of a solid mid-size sedan. It won't make your neighbors jealous, but it will start reliably every single day for years without drama. That's exactly what most people actually need from a kitchen faucet — and it's why this one sits at a respectable 4.2 stars across 210 ratings.

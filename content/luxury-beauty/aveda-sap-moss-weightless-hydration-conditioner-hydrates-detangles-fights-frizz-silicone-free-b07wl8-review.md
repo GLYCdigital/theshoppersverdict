@@ -1,4 +1,5 @@
 ---
+
 title: "Aveda Sap Moss Weightless Hydration Conditioner | Hydrates,"
 seo_title: "Aveda Sap Moss Conditioner Review: Weightless Hydration"
 meta_description: "Aveda Sap Moss Weightless Hydration Conditioner review: silicone-free detangling for fine hair. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07WL82LSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hDaYGYGxL._SL1500_.jpg"
-pros:
+pros: 
   - "Silicone-free formula that actually detangles — rare in this category"
   - "Weightless hydration that won't flatten fine or thin hair"
   - "Fridge-worthy botanical scent (fir, bergamot, and moss) that's subtle, not perfumey"
-cons:
+cons: 
   - "Price point is steep — roughly $30+ for 8.5 oz, depending on retailer"
   - "Not enough slip for very thick or heavily damaged hair — you'll need more product"
   - "The pump dispenser can clog if you don't rinse the cap after use"
+
 ---
 
 If you've got fine or thin hair, you know the struggle: most "hydrating" conditioners turn your strands into a limp, greasy mess by lunchtime. Aveda's Sap Moss Weightless Hydration Conditioner is the exception — it delivers real moisture without the heaviness. After 229 Amazon ratings averaging 4.6 stars, it's clear I'm not the only one noticing.

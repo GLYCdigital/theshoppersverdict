@@ -1,4 +1,5 @@
 ---
+
 title: "HOMBYS Memory Foam Camping Mattress Pad,Portable Sleeping Pa"
 seo_title: "HOMBYS Memory Foam Camping Mattress Pad,Portable S Review"
 meta_description: "Our full hombys memory foam camping mattress pad,portable sleeping pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0CCCQX7SZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Awvf7PKfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 3.4-star camping mattress tells a story. Here's what 170 buyers actually found.**

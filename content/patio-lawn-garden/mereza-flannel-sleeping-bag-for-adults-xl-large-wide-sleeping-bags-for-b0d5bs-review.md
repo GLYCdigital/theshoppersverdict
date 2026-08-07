@@ -1,4 +1,5 @@
 ---
+
 title: "MEREZA Flannel Sleeping Bag for Adults XL, Large Wide Sleepi"
 seo_title: "MEREZA Flannel Sleeping Bag for Adults XL, Large W Review"
 meta_description: "Our full mereza flannel sleeping bag for adults xl, large wide sleepi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5BSTRFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xi8KFbXHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the MEREZA Flannel Sleeping Bag the Roomiest Option for Car Campers?

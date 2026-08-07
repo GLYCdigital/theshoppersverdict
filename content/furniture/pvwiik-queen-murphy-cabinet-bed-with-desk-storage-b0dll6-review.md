@@ -1,4 +1,5 @@
 ---
+
 title: "PVWIIK Queen Murphy Cabinet Bed with Desk & Storage"
 seo_title: "PVWIIK Queen Murphy Cabinet Bed with Desk & Storag Review"
 meta_description: "Our full pvwiik queen murphy cabinet bed with desk & storage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLL6JC1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OqRSQIqqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Space-Saving Champion That Actually Works**

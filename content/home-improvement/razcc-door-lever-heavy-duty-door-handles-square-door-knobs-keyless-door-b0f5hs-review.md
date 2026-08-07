@@ -1,4 +1,5 @@
 ---
+
 title: "RAZCC Door Lever, Heavy Duty Door Handles Square Door Knobs "
 seo_title: "RAZCC Door Lever, Heavy Duty Door Handles Square D Review"
 meta_description: "Our full razcc door lever, heavy duty door handles square door knobs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5HSB4FN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QDFQFxV9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a door lever expecting to be impressed. It's a hinge with a handle — the most forgettable hardware in your home. So when the RAZCC Heavy Duty Square Door Lever actually made me pause mid-installation to check the build quality, that told me something.

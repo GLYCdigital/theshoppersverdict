@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH Brushless Colt™ Palm Router Kits"
 seo_title: "BOSCH Brushless Colt Palm Router Review: Is It Worth It?"
 meta_description: "Hands-on BOSCH Brushless Colt Palm Router review. We tested power, precision, and dust collection. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DZKFYBYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Brushless motor delivers 25,000–30,000 RPM with noticeably better torque than the old brushed Colt at lower speeds"
   - "Kit includes both fixed and plunge bases, micro-adjustable depth rod, and edge guide — real value over buying separately"
   - "Built-in LED ring actually illuminates the bit and cut line, not just the workpiece"
-cons:
+cons: 
   - "Collet wrench is thin and easy to strip under repeated tightening — upgrade to a better wrench early"
   - "Dust collection port is small and clogs fast on MDF; you'll want a dedicated vac hose adapter"
+
 ---
 
 If you’ve used the original BOSCH Colt, you know the drill: a capable little router that demanded patience with its brushed motor. This new Brushless Colt™ Palm Router Kit fixes the biggest complaint while keeping the palm-sized ergonomics that made the original a favorite. But at 4.0 stars across 200 ratings, it’s not a perfect tool. Here’s what you need to know before you buy.

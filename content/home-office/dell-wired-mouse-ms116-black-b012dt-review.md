@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Wired Mouse - MS116 - Black"
 seo_title: "Dell MS116 Wired Mouse Review: Reliable Office Essential"
 meta_description: "Dell MS116 wired mouse review: 4.6-star rated office essential. Tested for comfort, build quality, and real-world use. See if it's worth your desk space."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B012DT5U96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MpdHUaiYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Optical tracking works on nearly any surface — even glossy desks and wood grain"
   - "Plug-and-play USB connection with zero driver setup, works in seconds"
   - "Ambidextrous shape with rubber scroll wheel that stays grippy after months of use"
-cons:
+cons: 
   - "Cord is only 5.9 feet — tight if your USB port is on the back of a desktop tower under a desk"
   - "No side buttons for forward/back navigation — power users will miss them"
   - "Plastic shell shows fingerprints and scuffs on the glossy top surface"
+
 ---
 
 Let's be honest: a $15 wired mouse shouldn't be exciting. But the Dell MS116 has quietly become one of the most reliable office peripherals on Amazon, holding a 4.6-star average across 229 ratings. The question isn't whether it works — it's whether this budget workhorse deserves a spot on your desk.

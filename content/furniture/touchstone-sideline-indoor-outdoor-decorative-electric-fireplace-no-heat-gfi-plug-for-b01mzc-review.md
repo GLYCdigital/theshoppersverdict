@@ -1,4 +1,5 @@
 ---
+
 title: "Touchstone Sideline Indoor/Outdoor Decorative Electric Firep"
 seo_title: "Touchstone Sideline Indoor/Outdoor Decorative Elec Review"
 meta_description: "Our full touchstone sideline indoor/outdoor decorative electric firep review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MZC0YMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41DPoSdBlyL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products try to do everything. The Touchstone Sideline does one thing — and does it exceptionally well. This is a decorative electric fireplace that produces flames and nothing else. No heat. No fan noise. No thermostat. Just a convincing flame effect that works indoors or in covered outdoor spaces. If that sounds limited, you're missing the point. This unit solves a specific problem: you want the ambiance of a fire without the heat, the venting, or the safety concerns.

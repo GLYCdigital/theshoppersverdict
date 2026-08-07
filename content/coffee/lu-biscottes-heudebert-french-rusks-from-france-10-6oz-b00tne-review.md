@@ -1,4 +1,5 @@
 ---
+
 title: "Lu - Biscottes Heudebert (French Rusks) From France 10.6oz"
 seo_title: "Lu - Biscottes Heudebert (French Rusks) From Franc Review"
 meta_description: "Our full lu - biscottes heudebert (french rusks) from france 10.6oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00TNEVY2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ckt-qWyDL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lu Biscottes Heudebert Review: French Rusks That Outperform Your Toaster

@@ -1,4 +1,5 @@
 ---
+
 title: "dolria Modern LED Crystal Chandelier for High Ceiling Pendan"
 seo_title: "dolria LED Crystal Chandelier Review: High Ceiling Pendant"
 meta_description: "Read our dolria Modern LED Crystal Chandelier review. See how this high-ceiling pendant performs, its light output, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FKT1717L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xmhhC9REL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED module eliminates bulb replacement hassle and delivers consistent 3000K warm light"
   - "Adjustable hanging rods let you customize drop length from roughly 20 to 60 inches for vaulted ceilings"
   - "Crystal accents are genuine K9 glass, not cheap plastic — they catch and refract light noticeably"
-cons:
+cons: 
   - "Installation requires two people; the canopy is heavy and awkward to align with ceiling wiring"
   - "No dimmer compatibility out of the box — you'll need to swap the driver if you want variable brightness"
+
 ---
 
 Let's be direct about the dolria Modern LED Crystal Chandelier: this is a statement piece that works best in spaces with drama to match. If you've got a two-story foyer, a stairwell with a void, or a dining room with 10-foot-plus ceilings, this fixture earns its keep. But it's not a plug-and-play weekend project for everyone, and you should know what you're signing up for before the box arrives.

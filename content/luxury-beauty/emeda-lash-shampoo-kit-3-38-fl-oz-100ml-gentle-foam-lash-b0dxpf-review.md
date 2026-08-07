@@ -1,4 +1,5 @@
 ---
+
 title: "EMEDA Lash Shampoo Kit - 3.38 fl.oz / 100ml Gentle Foam Lash"
 seo_title: "EMEDA Lash Shampoo Kit Review: Gentle Foam Cleanser (2026)"
 meta_description: "EMEDA Lash Shampoo Kit review: 3.38 fl.oz gentle foam cleanser for lash extensions. Real buyer feedback, pros, cons, and verdict. Is it worth $20?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXPF4FH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617eFhCxNtL._SL1500_.jpg"
-pros:
+pros: 
   - "Foam pump delivers pre-aerated cleanser, so no dilution guesswork or wasted product"
   - "Dual-ended silicone brush reaches lash line without scratching extensions or skin"
   - "3.38 oz bottle lasts 2-3 months with daily use — strong value for the price point"
-cons:
+cons: 
   - "Foam dissipates quickly on dry lashes — you must wet lashes first or you'll use double the product"
   - "No travel cap included; the pump can leak in luggage if not sealed separately"
+
 ---
 
 Let me be blunt: most lash cleansers are either too harsh for extensions or so watery they don't actually remove buildup. The EMEDA Lash Shampoo Kit sits in a sweet spot — it's a dedicated extension-safe formula with a delivery system that actually makes sense.

@@ -1,4 +1,5 @@
 ---
+
 title: "GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router â€“ AC12"
 seo_title: "GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Route Review"
 meta_description: "Our full gl.inet gl-sft1200 (opal) secure travel wifi router â€“ ac12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09N745FRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31ghUfztYXL._AC_US40_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most travel routers are either too bulky to justify packing or too weak to be useful. The GL.iNet GL-SFT1200 Opal splits the difference better than most, and at roughly the size of a deck of cards, it earns its place in a carry-on. The question isn't whether it's small — it's whether it's actually secure and fast enough to trust with your work connections.

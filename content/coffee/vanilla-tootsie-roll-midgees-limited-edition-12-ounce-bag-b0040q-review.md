@@ -1,4 +1,5 @@
 ---
+
 title: "Vanilla Tootsie Roll Midgees Limited Edition 12 Ounce Bag"
 seo_title: "Vanilla Tootsie Roll Midgees Limited Edition 12 Ou Review"
 meta_description: "Our full vanilla tootsie roll midgees limited edition 12 ounce bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0040Q0ZGE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T37KaFmyL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about Tootsie Rolls: they’re a polarizing candy. You either grew up digging them out of Halloween haul bottoms, or you’re someone who thinks they taste like compressed cocoa chalk. The Vanilla Tootsie Roll Midgees Limited Edition 12-Ounce Bag doesn’t settle that debate — but it does something unexpected. It makes a strong case for the vanilla side of the family.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sunnydaze Outdoor Patio Umbrella - Polyester Table Market Um"
 seo_title: "Sunnydaze Outdoor Patio Umbrella - Polyester Table Review"
 meta_description: "Our full sunnydaze outdoor patio umbrella - polyester table market um review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B085ZG7VGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qpGk0fmvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise on patio umbrellas. Most of them are flimsy, fade within a month, or snap in the first decent breeze. The Sunnydaze 9-Foot Market Umbrella sits in that crowded mid-price tier, but it's earned a 4.4 rating across 220 reviews for a reason. Here's the real story.

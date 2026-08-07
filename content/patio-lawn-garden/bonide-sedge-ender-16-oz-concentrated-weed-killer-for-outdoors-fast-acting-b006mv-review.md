@@ -1,4 +1,5 @@
 ---
+
 title: "Bonide Sedge Ender, 16 oz Concentrated Weed Killer For Outdo"
 seo_title: "Bonide Sedge Ender Review: Does It Kill Nutsedge? (2026)"
 meta_description: "Bonide Sedge Ender 16 oz concentrate review: real results on nutsedge & tough weeds, mixing ratios, safety tips, and honest downsides before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B006MVFSOE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ojuogD9RL._SL1000_.jpg"
-pros:
+pros: 
   - "Kills nutsedge at the root — not just burning the tops like glyphosate does"
   - "16 oz concentrate makes up to 8 gallons of spray; one bottle covers ~8,000 sq ft"
   - "Safe on established lawns (including St. Augustine and Bermuda) when mixed correctly"
-cons:
+cons: 
   - "Slow visible results — 2-3 weeks before you see full browning, which frustrates impatient users"
   - "Requires a surfactant for best absorption; not included in the bottle"
   - "Heavy rain within 6 hours of application washes it out — timing matters"
+
 ---
 
 If you've got yellow-green nutsedge popping up in your lawn like unwanted guests, you've probably tried pulling it, only to watch it laugh at you and regrow from the underground tubers a week later. That's the exact problem Bonide Sedge Ender was formulated to solve — and for the most part, it delivers.

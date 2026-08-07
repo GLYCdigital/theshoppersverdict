@@ -1,4 +1,5 @@
 ---
+
 title: "CHYMSUN 57 inch"
 seo_title: "CHYMSUN 57 Review: Is This Large TV Stand Worth It?"
 meta_description: "CHYMSUN 57 TV stand review: honest pros, cons, build quality, and real buyer feedback. See if this 4.5-star unit fits your living room before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GJ4TXR8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817Xcd+tT+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 57-inch wide frame holds larger TVs (55-65 inch) without wobble, even on carpet"
   - "Two full-width drawers plus open shelving give genuinely useful storage for media gear"
   - "Assembly is straightforward with labeled parts — most buyers finish in under 45 minutes"
-cons:
+cons: 
   - "Back panel is thin particleboard; need to be careful when moving the unit after assembly"
   - "Cable management holes are smaller than advertised — thick power bricks may not fit through"
+
 ---
 
 # CHYMSUN 57" TV Stand Review: Solid Storage Without the Showroom Price

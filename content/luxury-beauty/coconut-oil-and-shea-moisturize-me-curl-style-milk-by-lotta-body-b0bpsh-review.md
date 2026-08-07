@@ -1,4 +1,5 @@
 ---
+
 title: "Coconut Oil and Shea Moisturize Me Curl & Style Milk by Lott"
 seo_title: "Lott Coconut Oil Curl & Style Milk Review (2026): Real Results"
 meta_description: "Honest Lott Coconut Oil & Shea Curl & Style Milk review: performance, hold, frizz control, and who should buy it. Real buyer feedback at 4.4 stars."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BPSHMNQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710+6HPthIL._SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight milk formula defines curls without heavy buildup or crunch"
   - "Coconut oil and shea butter provide lasting moisture that survives day two"
   - "Pump dispenser delivers controlled amounts — no wasted product"
-cons:
+cons: 
   - "Scent is strong and sweet; fades but may linger on low-porosity hair"
   - "Thin consistency means you'll reach for more than expected on thick hair"
+
 ---
 
 Let's cut through the coconut-scented haze. The Lott Body Moisturize Me Curl & Style Milk has earned its 4.4-star rating across 220 reviews, but it's not a miracle product. It's a solid, affordable curl cream that does exactly what it claims — define, moisturize, and lightly hold — with a few caveats worth knowing before you hit "add to cart."

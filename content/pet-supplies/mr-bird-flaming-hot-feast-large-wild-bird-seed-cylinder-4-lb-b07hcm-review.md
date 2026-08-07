@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Bird Flaming Hot Feast Large Wild Bird Seed Cylinder 4 l"
 seo_title: "Mr. Bird Flaming Hot Feast Large Wild Bird Seed Cy Review"
 meta_description: "Our full mr. bird flaming hot feast large wild bird seed cylinder 4 l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07HCMKJ48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tLCKhXyxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've been fighting squirrels at your bird feeder all winter, this cylinder is the ceasefire you've been looking for.** The Mr. Bird Flaming Hot Feast Large Wild Bird Seed Cylinder (4L) takes a simple approach — coat the seeds in capsaicin, the same compound that makes chili peppers hot, and let birds enjoy the feast while mammals run for water. It works, but there are some setup quirks you need to know about before you buy.

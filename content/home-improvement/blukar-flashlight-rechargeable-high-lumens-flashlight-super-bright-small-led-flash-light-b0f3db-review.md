@@ -1,4 +1,5 @@
 ---
+
 title: "Blukar Flashlight Rechargeable, High Lumens Flashlight, Supe"
 seo_title: "Blukar Rechargeable Flashlight Review: 2026 Honest Verdict"
 meta_description: "Blukar rechargeable flashlight review: real-world brightness tests, battery life, and durability. Is this high-lumen EDC light worth $20? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3DBSQ7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IChTmlTZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pocket-sized body (roughly 4.5 inches) that still throws a genuinely useful beam — verified 300+ lumens on turbo in independent testing"
   - "USB-C charging port on the tail cap means no proprietary cable or dock to lose"
   - "Anodized aluminum housing with IPX4 water resistance handles rain and drops without skipping a beat"
-cons:
+cons: 
   - "Proprietary 14500 battery means you can't swap in a standard AA when it dies — plan ahead for multi-day trips"
   - "Turbo mode throttles down after about 90 seconds of continuous use; it's a thermal limit, not a defect, but it surprises some buyers"
+
 ---
 
 The Blukar rechargeable flashlight sits in a weird spot in the market: it's cheap enough to be an impulse buy, but it performs well enough that you'll actually reach for it. After digging through the specs, the 225 Amazon ratings, and what real buyers are saying, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Danger Coffee by Dave Asprey, Remineralized, Mold Free & Lab"
 seo_title: "Danger Coffee Review: Mold-Free Remineralized Pods (2026)"
 meta_description: "Danger Coffee by Dave Asprey review: mold-free, lab-tested, remineralized pods. Real performance, taste, and value breakdown for biohackers."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FJZ8T95F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s4dJJ41AL._SL1500_.jpg"
-pros:
+pros: 
   - "Every batch is third-party lab tested for 400+ mycotoxins and pesticides — transparency you can verify with batch-specific QR codes"
   - "Remineralization adds magnesium, potassium, and sodium back into the brew, which genuinely smooths acidity and improves mouthfeel"
   - "Compostable pods fit standard Keurig 2.0 machines without the plastic waste of conventional K-cups"
-cons:
+cons: 
   - "At roughly $1.50–$2.00 per pod, it's 3–4x the cost of premium supermarket coffee — a serious per-cup commitment"
   - "The roast profile leans dark and heavy; if you prefer bright, fruity light roasts, this will taste flat and bitter"
   - "Reported quality inconsistency between batches — several buyers note flavor variance even within the same box"
+
 ---
 
 If you're shopping for coffee that's been obsessively tested for mold, mycotoxins, and heavy metals, Danger Coffee by Dave Asprey is one of the few options that actually shows its lab work. The question is whether the premium price delivers a cup worth switching to.

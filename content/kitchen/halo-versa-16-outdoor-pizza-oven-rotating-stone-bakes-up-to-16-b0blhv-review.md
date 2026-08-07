@@ -1,4 +1,5 @@
 ---
+
 title: "HALO Versa 16 Outdoor Pizza Oven | Rotating Stone bakes up t"
 seo_title: "HALO Versa 16 Outdoor Pizza Oven | Rotating Stone  Review"
 meta_description: "Our full halo versa 16 outdoor pizza oven | rotating stone bakes up t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLHVY7FM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qyub80YdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HALO Versa 16 Outdoor Pizza Oven: The Rotating Stone Actually Works — Here's the Full Story

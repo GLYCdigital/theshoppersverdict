@@ -1,4 +1,5 @@
 ---
+
 title: "SonicWall TZ370 Gen7 Firewall | Advanced SMB Security Applia"
 seo_title: "SonicWall TZ370 Gen7 Firewall | Advanced SMB Secur Review"
 meta_description: "Our full sonicwall tz370 gen7 firewall | advanced smb security applia review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08PN3K8MC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zkY-7xPEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $700 firewall that actually earns its keep

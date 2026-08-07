@@ -1,4 +1,5 @@
 ---
+
 title: "EltaMD UV Lotion SPF 30+ Sunscreen Moisturizer for Face and"
 seo_title: "EltaMD UV Lotion SPF 30+ Review: Is It Worth It?"
 meta_description: "Our honest EltaMD UV Lotion SPF 30+ review covers texture, white cast, and sun protection. See if this mineral moisturizer suits your skin."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS28LCH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dB0DF0C2L._SL1500_.jpg"
-pros:
+pros: 
   - "Zinc oxide formula delivers broad-spectrum protection without the chalky white cast most mineral sunscreens leave behind"
   - "Pump bottle dispenses the right amount for face and neck — no wasted product, no mess"
   - "Transparent finish works well under makeup and doesn't pill when layered with serums"
-cons:
+cons: 
   - "Texture runs slightly thick; takes 30–60 seconds of rubbing to fully absorb"
   - "Not water-resistant enough for heavy sweating or pool days — reapply often"
+
 ---
 
 You know that dilemma: mineral sunscreen that actually feels good, or chemical sunscreen that protects but irritates sensitive skin? EltaMD UV Lotion SPF 30+ tries to end that argument. With a 4.7-star average across 235 ratings, it's clearly winning over a lot of shoppers. But at this price point, you want to know exactly what you're getting before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Poraxy STEM Kits for Kids 8-10, STEM Toys for Boys Ages 8-13"
 seo_title: "Poraxy STEM Kits for Kids 8-10, STEM Toys for Boys Review"
 meta_description: "Our full poraxy stem kits for kids 8-10, stem toys for boys ages 8-13 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D31HC81B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Sv-vkVpzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a STEM toy, you've seen the category flooded with flimsy kits that break before the first battery goes in. The Poraxy STEM Kits for Kids 8-10 stands apart for one simple reason: it delivers five complete, motorized builds in one box at a price that undercuts buying individual kits. That's the headline. Here's the rest of the story.

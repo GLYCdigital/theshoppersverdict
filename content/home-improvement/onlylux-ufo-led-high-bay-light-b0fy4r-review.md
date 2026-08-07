@@ -1,4 +1,5 @@
 ---
+
 title: "ONLYLUX UFO LED High Bay Light"
 seo_title: "ONLYLUX UFO LED High Bay Light Review: Verdict | TSV"
 meta_description: "Our full onlylux ufo led high bay light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FY4RCG5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718r3Z2gxbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Warehouse lighting is one of those purchases where you get exactly what you pay for — and often less. The ONLYLUX UFO LED High Bay Light sits in the middle of the pack: not the cheapest, not the premium option, but with a 4.0-star average across 200 ratings, it's clearly doing something right for a lot of shop owners and garage tinkerers. Here's the honest breakdown after digging through the specs and real buyer feedback.

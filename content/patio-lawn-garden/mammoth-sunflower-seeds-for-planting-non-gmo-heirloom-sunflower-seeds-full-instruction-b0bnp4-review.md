@@ -1,4 +1,5 @@
 ---
+
 title: "Mammoth Sunflower Seeds for Planting â€“ Non-GMO Heirloom Su"
 seo_title: "Mammoth Sunflower Seeds for Planting â€“ Non-GMO H Review"
 meta_description: "Our full mammoth sunflower seeds for planting â€“ non-gmo heirloom su review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BNP4F4PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816CKOVjL7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever driven past a farm and wondered how sunflowers get that impossibly tall, this packet is your answer.** The Mammoth Sunflower is the classic Russian variety that has been a backyard staple for generations, and this non-GMO heirloom offering from an unbranded seed seller delivers exactly what the name promises—provided you have the space.

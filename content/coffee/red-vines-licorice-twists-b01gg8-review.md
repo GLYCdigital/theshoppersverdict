@@ -1,4 +1,5 @@
 ---
+
 title: "Red Vines Licorice Twists"
 seo_title: "Red Vines Licorice Twists Review: Verdict | TSV"
 meta_description: "Our full red vines licorice twists review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01GG8T14U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CF-N5IAtL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Red Vines Licorice Twists** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

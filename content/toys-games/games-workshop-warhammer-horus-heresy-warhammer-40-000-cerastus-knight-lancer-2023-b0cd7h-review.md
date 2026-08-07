@@ -1,4 +1,5 @@
 ---
+
 title: "Games Workshop - Warhammer Horus Heresy/Warhammer 40,000: Ce"
 seo_title: "Cerastus Knight Lancer Review: Is It Worth It? | 2025 inch"
 meta_description: "Our honest Cerastus Knight Lancer review covers build quality, scale, and painting tips. See if this 40k centerpiece earns its place in your army."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CD7HZXX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IoP5v7p1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive, imposing kit — stands roughly 9 inches tall and dominates any tabletop"
   - "Modern plastic engineering means near-seamless assembly with minimal gap-filling"
   - "Dual-purpose kit playable in both Horus Heresy and Warhammer 40,000 armies"
-cons:
+cons: 
   - "Premium price point — you're paying for a centerpiece, not a bargain"
   - "Pose is mostly fixed; the left arm and torso offer limited articulation options"
+
 ---
 
 Let’s be blunt: the Cerastus Knight Lancer isn’t a starter kit. It’s a statement piece. If you’re here, you already know you want a towering war machine that makes your opponent audibly groan when it hits the table. The question is whether this specific plastic kit justifies its premium price and assembly effort. After handling the sprue, building it, and fielding it across a dozen games, here’s the honest breakdown.

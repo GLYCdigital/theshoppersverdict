@@ -1,4 +1,5 @@
 ---
+
 title: "POP MART Kimetsu no Yaiba Birth Flower Series Figures, Blind"
 seo_title: "POP MART Kimetsu no Yaiba Birth Flower Series Figu Review"
 meta_description: "Our full pop mart kimetsu no yaiba birth flower series figures, blind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRVQSG3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YCZhb6ujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, if you're a Demon Slayer collector, you already know the drill: POP MART drops a new series, your wallet cries, and you click "buy" anyway. The **Birth Flower Series** is their latest trap, and honestly? It's one of the better ones.

@@ -1,4 +1,5 @@
 ---
+
 title: "Elkay Replacement Filter"
 seo_title: "Elkay Replacement Filter Review: Worth It? (2026)"
 meta_description: "Honest Elkay replacement filter review: performance, lifespan, real buyer feedback, and whether it beats OEM. Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09YXF555X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SFW9BP7zL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Certified to reduce chlorine, lead, and 40+ other contaminants per NSF/ANSI 42 and 53 standards"
   - "Drop-in fit for most Elkay EZ8, EZH2O, and LK series bottle-filling stations and drinking fountains"
   - "Six-month/3,000-gallon lifespan means roughly two filter changes per year for most households"
-cons:
+cons: 
   - "No inline indicator light — you'll need to track replacement dates manually"
   - "Some buyers report slight reduction in water flow rate compared to OEM filters"
+
 ---
 
 **The bottom line up front:** If you own an Elkay bottle-filling station or drinking fountain, this replacement filter is the smart money move. It's certified to the same NSF standards as the OEM cartridge, fits without tools, and costs meaningfully less. The 4.5-star average across 225 ratings isn't an accident — this filter does the job.

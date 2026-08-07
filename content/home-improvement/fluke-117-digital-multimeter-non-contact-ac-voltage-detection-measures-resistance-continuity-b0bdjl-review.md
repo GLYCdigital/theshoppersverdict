@@ -1,4 +1,5 @@
 ---
+
 title: "Fluke 117 Digital Multimeter, Non-Contact AC Voltage Detecti"
 seo_title: "Fluke 117 Multimeter Review (2026): Worth It? | NCV & Auto-V"
 meta_description: "Honest Fluke 117 digital multimeter review: non-contact voltage detection, Auto-V, build quality, and real downsides. Is it worth $200? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BDJLH8YM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UC-Fj7wEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-V mode automatically detects AC/DC voltage without flipping switches — genuinely faster for troubleshooting"
   - "Built-in non-contact voltage detection with a visual backlit display that turns green when hot wire is near"
   - "Cat III 600V rating with true-RMS reading on a 6000-count display, accurate to 0.5% on DC"
-cons:
+cons: 
   - "No temperature measurement — a glaring omission at this price point for HVAC or appliance work"
   - "The included TL75 test leads are stiff and short; most users upgrade to silicone leads within a year"
   - "No backlight auto-off — the display light drains the 9V battery if you forget to turn it off"
+
 ---
 
 # The Fluke 117: Still the Gold Standard for Electricians — But It's Not Perfect

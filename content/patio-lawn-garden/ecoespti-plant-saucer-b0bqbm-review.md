@@ -1,4 +1,5 @@
 ---
+
 title: "ECOESPTI Plant Saucer"
 seo_title: "ECOESPTI Plant Saucer Review: Durable, Deep, Worth It?"
 meta_description: "Read our honest ECOESPTI Plant Saucer review: thick plastic, deep walls, drainage protection. See pros, cons, and who should buy before you do."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQBMFWP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611sHlTT8pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3mm walls that don't crack under heavy pots or freeze-thaw cycles"
   - "Deep 1.5-inch rim actually holds overflow water without leaking onto floors"
   - "Multiple sizes accommodate everything from 4-inch seedlings to massive 14-inch floor plants"
-cons:
+cons: 
   - "No drainage holes (a deliberate design, but a dealbreaker for some growers)"
   - "Smooth exterior shows water spots and mineral stains quickly"
   - "Size labels on the bottom are molded in — check before you buy"
+
 ---
 
 Water damage is the silent killer of good flooring. That's the problem the ECOESPTI Plant Saucer solves — and with 235 ratings averaging 4.7 stars, it's clearly solving it well for most buyers. But is this the right saucer for your specific setup? Let's dig into the details.

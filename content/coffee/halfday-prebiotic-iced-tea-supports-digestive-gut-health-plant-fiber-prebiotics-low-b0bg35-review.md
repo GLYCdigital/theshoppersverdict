@@ -1,4 +1,5 @@
 ---
+
 title: "HALFDAY Prebiotic Iced Tea, Supports Digestive & Gut Health,"
 seo_title: "HALFDAY Prebiotic Iced Tea, Supports Digestive & G Review"
 meta_description: "Our full halfday prebiotic iced tea, supports digestive & gut health, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BG35G6CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814anYEZczL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **HALFDAY Prebiotic Iced Tea Review: Does the 8g of Plant Fiber Actually Deliver?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Carnation Carnation Evaporated Milk"
 seo_title: "Carnation Evaporated Milk Review: Is It Good for Coffee?"
 meta_description: "Carnation Evaporated Milk review: 4.8-star rated, 240 reviews. Does it work for coffee creamer? We break down taste, texture, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D398CJFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O3shICs-L._SL1500_.jpg"
-pros:
+pros: 
   - "Adds rich, creamy body without the watery dilution of regular milk"
   - "Shelf-stable for months — no refrigeration until opened"
   - "Doubles as both a coffee creamer and a baking ingredient"
-cons:
+cons: 
   - "Has a distinct cooked, caramelized flavor that not everyone likes in coffee"
   - "Sweetened varieties contain added sugar — check the label before buying"
   - "Once opened, only lasts 5-7 days in the fridge"
+
 ---
 
 Let's be honest: when you search for "coffee gear" on Amazon, a can of evaporated milk isn't what you expect to find. But 240 shoppers have rated it 4.8 stars, and there's a reason this pantry staple keeps showing up in coffee discussions. I've spent time with this product — both in the cup and in the kitchen — and here's the real story.

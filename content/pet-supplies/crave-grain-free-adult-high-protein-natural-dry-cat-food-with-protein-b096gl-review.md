@@ -1,4 +1,5 @@
 ---
+
 title: "CRAVE Grain Free Adult High Protein Natural Dry Cat Food wit"
 seo_title: "CRAVE Grain Free High Protein Cat Food Review (2026)"
 meta_description: "Honest CRAVE Grain Free High Protein Cat Food review: protein sources, real customer feedback, and whether it's worth switching your cat to."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096GLL1LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a4lqMRvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First three ingredients are animal proteins (chicken, chicken meal, turkey meal) — no vague 'meat by-products'"
   - "Grain-free formula with 40%+ protein that satisfies even picky eaters, per multiple verified reviews"
   - "Significantly cheaper per-pound than comparable high-protein brands like Orijen or Acana"
-cons:
+cons: 
   - "Not suitable for cats with sensitive stomachs — several reviews report vomiting or loose stools during transition"
   - "Kibble size and shape is inconsistent across bags; some batches produce more crumbs than others"
   - "Contains pea protein and tapioca starch as carbohydrate fillers, which some vets flag for cats prone to weight gain"
+
 ---
 
 If your cat treats every meal like a negotiation, you've probably cycled through a dozen food brands already. CRAVE's Grain Free Adult High Protein formula has earned a 4.6-star average from 229 Amazon ratings — but that number alone doesn't tell you whether it's right for *your* cat. Here's what the packaging doesn't say.

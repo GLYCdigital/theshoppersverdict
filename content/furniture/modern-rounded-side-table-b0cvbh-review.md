@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Rounded Side Table"
 seo_title: "Modern Rounded Side Table Review: Verdict | TSV"
 meta_description: "Our full modern rounded side table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CVBHWSF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iwrTv1vDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Modern Rounded Side Table is the kind of piece that looks great in the product photos — a smooth, sculptural curve with clean lines that promises to elevate any corner of your living room. The question is whether the real-world version holds up to that first impression. After digging through 210 ratings and buyer feedback, here's what you need to know before checkout.

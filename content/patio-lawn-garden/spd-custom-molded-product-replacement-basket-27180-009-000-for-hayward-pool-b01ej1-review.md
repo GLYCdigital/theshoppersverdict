@@ -1,4 +1,5 @@
 ---
+
 title: "SPD Custom Molded Product Replacement Basket 27180-009-000 f"
 seo_title: "SPD Custom Molded Product Replacement Basket 27180 Review"
 meta_description: "Our full spd custom molded product replacement basket 27180-009-000 f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01EJ18MVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aaAbbjcQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the headache I had three summers ago. I ordered a "compatible" strainer basket for my Hayward pool pump without checking the part number, and spent an afternoon wrestling a basket that was 3/8-inch too tall into a housing it was never meant to fit. The SPD Custom Molded Replacement Basket 27180-009-000 is not that basket. But it's also not a magic bullet — you need to do your homework first.

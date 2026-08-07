@@ -1,4 +1,5 @@
 ---
+
 title: "Hartz Oinkies Smoked Twists with Naturally Smoked Pork Rawhi"
 seo_title: "Hartz Oinkies Smoked Twists with Naturally Smoked  Review"
 meta_description: "Our full hartz oinkies smoked twists with naturally smoked pork rawhi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX5H6BRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+BguxdLGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hartz Oinkies Smoked Twists with Pork Rawhide: The Chew That Actually Smells Like Food

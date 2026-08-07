@@ -1,4 +1,5 @@
 ---
+
 title: "Bath & Body Works Wallflowers Home Fragrance Refill Bulbs 2 inch"
 seo_title: "Wallflowers Refill Bulbs Review: Kitchen Lemon 2-Pack"
 meta_description: "Honest Bath & Body Works Wallflowers Kitchen Lemon refill review: scent throw, longevity, value. See what 229 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00ZDW7Q48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GUUQEazdL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic Kitchen Lemon scent that reads as fresh lemon zest, not artificial cleaner"
   - "Each bulb delivers roughly 4 weeks of continuous fragrance on the low setting"
   - "Works with any standard Wallflowers plug-in, so no proprietary lock-in"
-cons:
+cons: 
   - "Scent strength noticeably fades in the final week — you'll want to swap early"
   - "No refill cap option means spills if you tip the bulb while inserting"
+
 ---
 
 **The 2-Pack That Keeps Your Kitchen Smelling Like Actual Lemons**

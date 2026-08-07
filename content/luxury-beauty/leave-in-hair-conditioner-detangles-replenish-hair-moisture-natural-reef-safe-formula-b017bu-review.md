@@ -1,4 +1,5 @@
 ---
+
 title: "Leave-In Hair Conditioner Detangles & Replenish Hair Moistur"
 seo_title: "Leave-In Hair Conditioner Detangles & Replenish Ha Review"
 meta_description: "Our full leave-in hair conditioner detangles & replenish hair moistur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B017BUWI7O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B6oZiXvqL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-Second Version**

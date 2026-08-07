@@ -1,24 +1,26 @@
 ---
+
 title: "Dyson Limited Edition Supersonic Nural™ Hair Dryer in Jasp"
 seo_title: "Dyson Supersonic Nural Hair Dryer Review (Jasp Edition)"
 meta_description: "In-depth Dyson Supersonic Nural review: Jasp colorway, scalp-protection tech, air multiplier power, and whether it's worth the luxury price."
 slug: "dyson-limited-edition-supersonic-nural-hair-dryer-in-jasper-plum-b0dmxr-review"
 image_alt: "Dyson Supersonic Nural hair dryer in Jasp limited edition color — copper and plum finish with attachments"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMXR7FH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media.michelle.media/61lYwYGLxYL._SL1500_.jpg"
-pros:  
+pros: 
   - "Nural sensor system auto-adjusts heat — genuinely protects scalp from overheating, a real differentiator"  
   - "Jasp colorway is a true limited edition — copper/plum finish looks premium, not gaudy"  
   - "Air Multiplier technology dries thick hair in under 7 minutes with zero heat damage complaints"  
-cons:  
+cons: 
   - "Price is eye-watering — you're paying ~$150 more than the standard Supersonic for a color and a sensor"  
   - "Nural sensor works best on dry hair; on soaking-wet hair it can over-adjust and slow drying slightly"  
   - "No diffuser in base kit — curls need a separate $49 purchase, which stings at this price point"
+
 ---
 
 **The $600 question: does the Dyson Supersonic Nural actually justify its price tag, or is the Jasp edition just a pretty paint job?**

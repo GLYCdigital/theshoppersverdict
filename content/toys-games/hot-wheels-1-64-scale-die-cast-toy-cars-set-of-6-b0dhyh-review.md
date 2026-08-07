@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels 1:64 Scale Die-Cast Toy Cars, Set of 6 Japanese V"
 seo_title: "Hot Wheels 1:64 Japanese V Set Review: 6-Car Haul Worth It?"
 meta_description: "Honest Hot Wheels 1:64 Japanese V 6-car set review: casting quality, real-world play value, packaging, and who should buy. 4.9-star rated."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DHYHFZXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S+GV8hC4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six distinct Japanese performance castings (Skyline GT-R, Supra, NSX, etc.) in one set — cheaper than hunting individual cards"
   - "Premium-quality paint and tampos (graphics) that hold up to actual play, not just display"
   - "Includes both iconic 90s JDM legends and newer castings, giving collectors and kids genuine variety"
-cons:
+cons: 
   - "Repackaged mainline castings — no exclusive decos or premium wheels; you're paying for curation, not rarity"
   - "Blister packaging is sealed tight; opening it without damaging the card requires care if you're a mint-on-card collector"
   - "Set composition varies by production wave — what's pictured isn't always what ships, a known Amazon listing quirk"
+
 ---
 
 Look, I'll be straight with you: you're not getting six rare treasure hunts here. What you *are* getting is a curated six-pack of Japan's greatest automotive hits at a price that beats buying them individually — assuming you can even find them on pegs. The Hot Wheels 1:64 Scale Die-Cast Toy Cars Japanese V set has earned a 4.9-star average across 245 ratings, and after breaking down what's actually in the box, I understand why.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tom Ford Black Orchid Eau De Parfum for Women, 1 Ounce"
 seo_title: "Tom Ford Black Orchid Eau De Parfum for Women, 1 O Review"
 meta_description: "Our full tom ford black orchid eau de parfum for women, 1 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000PKESNA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PbQRLh0KL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tom Ford Black Orchid Eau De Parfum for Women, 1 Ounce

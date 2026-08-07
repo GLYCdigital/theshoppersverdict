@@ -1,4 +1,5 @@
 ---
+
 title: "Stiebel Eltron 233219 2.5 gallon, 1300W, 120V SHC 2.5 Mini-T"
 seo_title: "Stiebel Eltron 233219 2.5 gallon, 1300W, 120V SHC  Review"
 meta_description: "Our full stiebel eltron 233219 2.5 gallon, 1300w, 120v shc 2.5 mini-t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00KBQLEFI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ryyvYlOtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood at a bathroom sink with your hand under the tap, watching steam turn to tepid dribble while waiting for hot water from a tank 40 feet away, the Stiebel Eltron SHC 2.5 Mini-T solves a problem you didn't realize had a clean fix. This compact point-of-use tank puts heat right where you need it — under the sink — so you're not paying the "pipe tax" every time you wash your hands.

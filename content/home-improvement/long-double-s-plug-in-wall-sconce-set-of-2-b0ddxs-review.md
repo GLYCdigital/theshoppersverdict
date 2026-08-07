@@ -1,4 +1,5 @@
 ---
+
 title: "Long Double S Plug in Wall Sconce Set of 2"
 seo_title: "Long Double S Plug in Wall Sconce Set of 2 Review: Verdic"
 meta_description: "Our full long double s plug in wall sconce set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDXS4HGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l1QA7-AIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time shopping for wall sconces, you know the category is full of two types: cheap plastic junk that looks like it belongs in a dorm, and designer pieces that require an electrician and a second mortgage. This Long Double S Plug in Wall Sconce Set of 2 sits in a rare middle ground—it looks legitimately expensive, installs without touching your breaker box, and at 24 inches of reach, it actually functions as task lighting rather than just decoration.

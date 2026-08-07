@@ -1,4 +1,5 @@
 ---
+
 title: "Union 63071 Tulip Watering Can Plastic"
 seo_title: "Union 63071 Tulip Watering Can Plastic Review: Verdict | "
 meta_description: "Our full union 63071 tulip watering can plastic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B073XG4X8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zjugMhbQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most watering cans under $20 are flimsy afterthoughts — plastic that flexes, spouts that drip, handles that dig into your palm. The Union 63071 Tulip isn't that. At a 4.4-star average across 220 ratings, it's quietly become a favorite for houseplant enthusiasts and balcony gardeners who need something that actually works without the $50 metal-crafted price tag.

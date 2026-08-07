@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18 Fuel. 4-1/2 / 5 Variable Speed Brak"
 seo_title: "Milwaukee Electric - M18 Fuel. 4-1/2 / 5 Variable  Review"
 meta_description: "Our full milwaukee electric - m18 fuel. 4-1/2 / 5 variable speed brak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGJMFTXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512fjp7EhkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The cordless grinder that finally killed the extension cord

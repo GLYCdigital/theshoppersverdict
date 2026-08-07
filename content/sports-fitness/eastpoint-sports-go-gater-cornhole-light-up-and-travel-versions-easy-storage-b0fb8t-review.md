@@ -1,4 +1,5 @@
 ---
+
 title: "EastPoint Sports Go! Gater Cornhole – Light-Up and Travel"
 seo_title: "EastPoint Go! Gater Cornhole Review: Light-Up Travel Set"
 meta_description: "EastPoint Go! Gater Cornhole review: light-up boards, carrying bags, portable design. See pros, cons, and who should buy this 4.3-star travel set."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FB8TMCHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PYCzygHSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Light-up LED frames make night play genuinely possible — not a gimmick"
   - "Boards fold in half and fit into padded carry bags roughly the size of a large suitcase"
   - "Weighs under 30 pounds total, so it's manageable for one person to haul"
-cons:
+cons: 
   - "LEDs run on batteries (not included) and drain faster than you'd expect during long sessions"
   - "Surface is slicker than regulation wood — bags slide off more than they stick"
   - "Folding hinge creates a slight center seam that can affect bag bounce consistency"
+
 ---
 
 # EastPoint Sports Go! Gater Cornhole: The Travel Set That Actually Plays at Night

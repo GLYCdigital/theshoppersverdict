@@ -1,4 +1,5 @@
 ---
+
 title: "Geinxurn Impact Tough Phillips D2/S2 Steel Long Extension Sc"
 seo_title: "Geinxurn Phillips Screwdriver Bit Review: Impact Tough"
 meta_description: "Geinxurn impact tough Phillips D2/S2 steel long extension screwdriver bits review. Tested for torque, durability & fit. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2L35X8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fq-VZGlGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine D2 and S2 steel construction holds up to repeated impact driver abuse without rounding out"
   - "Extended length reaches recessed fasteners in door hinges, appliance panels, and tight engine bays"
   - "Magnetic tip holds screws firmly on vertical surfaces and during high-speed driving"
-cons:
+cons: 
   - "No storage case included — loose bits will rattle around in a toolbox drawer"
   - "Phillips #2 only — you'll need a separate set for #1 or #3 fasteners"
+
 ---
 
 If you've ever snapped a cheap bit halfway through a deck build, you know the drill: the fastener wins, your knuckles lose, and you're driving to the hardware store again. The Geinxurn Impact Tough Phillips D2/S2 Steel Long Extension Screwdriver Bits are engineered to end that cycle. With 220 ratings averaging 4.4 stars, these bits have clearly found an audience — but are they worth your money? Let's dig in.

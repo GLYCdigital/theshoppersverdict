@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources Math Island Addition & Subtraction Game, "
 seo_title: "Learning Resources Math Island Addition & Subtract Review"
 meta_description: "Our full learning resources math island addition & subtraction game,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C621X8CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SdVc99mML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Math Island: The rare math game that doesn't feel like homework

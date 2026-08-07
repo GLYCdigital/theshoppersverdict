@@ -1,4 +1,5 @@
 ---
+
 title: "WOBANE Under Cabinet Lighting Kit,Flexible LED Strip Lights "
 seo_title: "WOBANE Under Cabinet Lighting Kit,Flexible LED Str Review"
 meta_description: "Our full wobane under cabinet lighting kit,flexible led strip lights  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTQBPD2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715AJ51Hx+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fumbled for a light switch while holding a hot pan, you already know the problem this WOBANE kit solves. Under-cabinet lighting is one of those upgrades that feels almost frivolous until you have it — then you wonder how you cooked without it. The WOBANE Flexible LED Strip Light Kit (model B0GTQBPD2F) aims to deliver that upgrade without an electrician, a junction box, or a single wire nut. Based on 225 ratings averaging 4.5 stars, it's largely succeeding. Here's the real breakdown.

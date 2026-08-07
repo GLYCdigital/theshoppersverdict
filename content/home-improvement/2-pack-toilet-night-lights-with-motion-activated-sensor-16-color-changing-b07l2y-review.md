@@ -1,4 +1,5 @@
 ---
+
 title: "Motion Activated Toilet Night Light 2-Pack Review"
 seo_title: "Motion Activated Toilet Night Light 2-Pack Review Review"
 meta_description: "Honest review of Motion Activated Toilet Night Light 2-Pack Review. Real pros, cons, and verdict from The Shopper's Verdict."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 # Toilet Night Lights 2-Pack: Motion-Activated 16-Color LED Review

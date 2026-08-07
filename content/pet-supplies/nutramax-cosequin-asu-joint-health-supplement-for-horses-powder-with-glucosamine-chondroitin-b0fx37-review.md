@@ -1,4 +1,5 @@
 ---
+
 title: "Nutramax Cosequin ASU Joint Health Supplement for Horses - P"
 seo_title: "Nutramax Cosequin ASU Joint Health Supplement for  Review"
 meta_description: "Our full nutramax cosequin asu joint health supplement for horses - p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FX37CM24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j13Q9A+lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If your horse is showing early stiffness or you're managing an older athlete, this is the joint supplement I'd put my own money on — but it's not the cheapest option in the aisle, and your horse has to actually eat it.

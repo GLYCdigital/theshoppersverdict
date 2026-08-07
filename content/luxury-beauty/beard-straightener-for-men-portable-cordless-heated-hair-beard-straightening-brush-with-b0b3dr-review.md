@@ -1,4 +1,5 @@
 ---
+
 title: "Beard Straightener for Men, Portable Cordless Heated Hair &"
 seo_title: "Beard Straightener for Men Review: Cordless & Portable (2026)"
 meta_description: "Honest review of the portable cordless beard straightener with heated brush. See real pros, cons, and if it's worth buying for your grooming routine."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B3DRYJ3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713uorfu10L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless design with USB-C charging — genuinely travel-friendly, no outlet hunting"
   - "Heats to 350°F in under 60 seconds with three adjustable temperature settings"
   - "Ceramic-coated teeth glide through coarse beard hair without snagging or pulling"
-cons:
+cons: 
   - "Battery life tops out around 30 minutes per charge — enough for one pass, not a full styling session"
   - "Not ideal for very thick, dense beards longer than 4 inches; requires multiple passes"
   - "No auto-shutoff timer, so you need to remember to power it down after use"
+
 ---
 
 Let me be straight with you: most beard straighteners are either bulky corded devices that chain you to a bathroom outlet or cheap gas-station junk that burns your chin. This cordless option from the portable heated brush category actually splits the difference — mostly.

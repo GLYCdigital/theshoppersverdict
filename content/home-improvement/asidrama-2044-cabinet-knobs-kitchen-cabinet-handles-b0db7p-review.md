@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama 2044 Cabinet Knobs Kitchen Cabinet Handles"
 seo_title: "Asidrama 2044 Cabinet Knobs Review: Worth It? (2026)"
 meta_description: "Honest Asidrama 2044 cabinet knobs review: build quality, finishes, and real buyer feedback. See if these kitchen handles fit your remodel before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DB7P9Q78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KDpnnBM1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with true mechanical plating — no flaking or peeling reported even after 6+ months of daily use"
   - "Standard 1.25-inch hole spacing (screw center-to-center) fits virtually all existing cabinet holes without redrilling"
   - "Multiple finish options (brushed nickel, matte black, oil-rubbed bronze) that actually match their photos — not a coin-flip gamble"
-cons:
+cons: 
   - "Screws included are on the shorter side; won't work for cabinets with doors thicker than 0.75 inches without buying longer hardware"
   - "Matte black finish shows fingerprints and water spots more readily than the brushed options — plan accordingly for high-traffic kitchens"
+
 ---
 
 # Asidrama 2044 Cabinet Knobs: The $2 Upgrade That Transforms Your Kitchen

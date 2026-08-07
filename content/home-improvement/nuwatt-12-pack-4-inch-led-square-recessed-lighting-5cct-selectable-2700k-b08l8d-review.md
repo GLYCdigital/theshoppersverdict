@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT 12 Pack 4 Inch LED Square Recessed Lighting, 5CCT Sel"
 seo_title: "NUWATT 12 Pack 4 Inch LED Square Recessed Lighting Review"
 meta_description: "Our full nuwatt 12 pack 4 inch led square recessed lighting, 5cct sel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08L8DJXPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a5qvJn-TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: buying recessed lighting is usually a game of compromises. You want color temperature control, but that means paying more per fixture. You want a low profile, but that usually means sacrificing brightness. The NUWATT 12-pack of 4-inch square LED recessed lights tries to sidestep all those tradeoffs. For the most part, it succeeds.

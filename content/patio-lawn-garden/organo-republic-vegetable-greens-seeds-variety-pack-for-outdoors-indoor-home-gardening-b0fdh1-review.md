@@ -1,4 +1,5 @@
 ---
+
 title: "Organo Republic Vegetable & Greens Seeds Variety Pack for Ou"
 seo_title: "Organo Republic Vegetable & Greens Seeds Variety P Review"
 meta_description: "Our full organo republic vegetable & greens seeds variety pack for ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDH1B3VX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91njJs-8A3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Organo Republic Vegetable & Greens Seeds Variety Pack Review: A Solid Starter Stash, With Caveats**

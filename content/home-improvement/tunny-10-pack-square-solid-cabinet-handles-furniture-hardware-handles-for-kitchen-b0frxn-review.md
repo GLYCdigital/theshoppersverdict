@@ -1,4 +1,5 @@
 ---
+
 title: "TUNNY 10 Pack Square Solid Cabinet Handles - Furniture Hardw"
 seo_title: "TUNNY 10 Pack Square Solid Cabinet Handles - Furni Review"
 meta_description: "Our full tunny 10 pack square solid cabinet handles - furniture hardw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRXNNK7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519usjycyZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TUNNY 10-Pack Square Cabinet Handles: The Unpretentious Upgrade Your Kitchen Actually Needs

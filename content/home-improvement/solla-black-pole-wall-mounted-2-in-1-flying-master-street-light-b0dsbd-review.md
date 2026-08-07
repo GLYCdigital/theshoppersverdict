@@ -1,4 +1,5 @@
 ---
+
 title: "SOLLA Black Pole Wall Mounted 2-in-1 Flying Master Street Li"
 seo_title: "SOLLA Black Pole Wall Mounted 2-in-1 Flying Master Review"
 meta_description: "Our full solla black pole wall mounted 2-in-1 flying master street li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSBDLGJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ug68DUzYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most wall-mounted floodlights are a single beam aimed at one spot, leaving your driveway's far corner a pitch-black guessing game. The SOLLA Black Pole Wall Mounted 2-in-1 Flying Master Street Light sidesteps that with two independently pivoting heads on a single pole mount. It's a practical solution for anyone tired of tripping over garden hoses or squinting at house numbers after sunset.

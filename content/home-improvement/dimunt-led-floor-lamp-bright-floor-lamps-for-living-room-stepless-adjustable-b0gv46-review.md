@@ -1,4 +1,5 @@
 ---
+
 title: "Dimunt LED Floor Lamp, Bright Floor Lamps for Living Room, S"
 seo_title: "Dimunt LED Floor Lamp Review: Bright, Stepless Adjustable"
 meta_description: "Honest Dimunt LED Floor Lamp review: 4.6★ rated. Stepless dimming, bright 2400-lumen output, sturdy base. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GV46CZLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Jt9zN8EEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True stepless dimming from 5% to 100% via a smooth rotary knob — no annoying preset steps"
   - "2400-lumen max output rivals a 200-watt incandescent, actually bright enough for reading or task work"
   - "Weighted 8-inch round base with anti-slip pad stays planted even on carpet"
-cons:
+cons: 
   - "Head only tilts vertically — no 360° swivel, so aiming light sideways requires moving the whole lamp"
   - "Color temperature is fixed at 4000K neutral white; no warm/cool switching if you want cozier evening light"
+
 ---
 
 Let's cut through the noise. The Dimunt LED Floor Lamp is a 4.6-star product with 229 ratings — and for once, the numbers make sense. This is a genuinely bright, genuinely adjustable floor lamp that solves the two biggest complaints people have with LED lighting: insufficient output and clumsy dimming controls.

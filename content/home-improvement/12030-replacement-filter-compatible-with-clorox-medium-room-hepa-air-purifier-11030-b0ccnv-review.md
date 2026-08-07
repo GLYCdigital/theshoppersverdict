@@ -1,4 +1,5 @@
 ---
+
 title: "12030 Replacement Filter, Compatible with Clorox Medium Room"
 seo_title: "12030 Replacement Filter Review: Clorox Medium Room Compatible"
 meta_description: "Honest 12030 replacement filter review for Clorox Medium Room purifiers. Real performance data, fit notes, and value verdict before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CCNVXPDZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yS5sQWW7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True HEPA-grade filtration at roughly half the cost of Clorox-branded replacements"
   - "Precise dimensions match the OEM 12030 filter — no shims, no gaps, no tape hacks"
   - "Carbon layer is substantial enough to handle cooking odors and pet smells, not just dust"
-cons:
+cons: 
   - "No official HEPA certification stamp — you're trusting third-party specs over a UL listing"
   - "Replacement interval reminders still track the original filter, so you'll need to reset manually"
+
 ---
 
 Let's cut through the noise: if you own a Clorox Medium Room air purifier (model 11030), you've hit the moment where the OEM filter costs nearly as much as a new unit. That's exactly why this third-party 12030 replacement exists, and at 4.8 stars across 240 ratings, it's clearly earning its keep. But is "compatible" actually "identical"? Here's the real story.

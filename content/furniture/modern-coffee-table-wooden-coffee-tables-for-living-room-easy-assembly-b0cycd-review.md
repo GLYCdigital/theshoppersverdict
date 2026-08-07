@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Coffee Table Wooden Coffee Tables for Living Room Eas"
 seo_title: "Modern Coffee Table Wooden Coffee Tables for Livin Review"
 meta_description: "Our full modern coffee table wooden coffee tables for living room eas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CYCDDN59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811Ir0dyUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a coffee table is one of those purchases where you don't need excitement — you need reliability. The **Modern Coffee Table Wooden Coffee Tables for Living Room Eas** delivers exactly that, with a couple of caveats worth knowing before you click buy.

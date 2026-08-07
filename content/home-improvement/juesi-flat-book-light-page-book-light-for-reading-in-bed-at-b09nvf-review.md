@@ -1,4 +1,5 @@
 ---
+
 title: "Juesi Flat Book Light Page Book Light for Reading in Bed at "
 seo_title: "Juesi Flat Book Light Page Book Light for Reading  Review"
 meta_description: "Our full juesi flat book light page book light for reading in bed at  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B09NVFTDY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LIohzAenL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Juesi Flat Book Light: The Bedtime Reader's Dilemma

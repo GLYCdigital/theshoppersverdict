@@ -1,4 +1,5 @@
 ---
+
 title: "beeNbkks Furniture Style Dog Crate End Table, Double Doors W"
 seo_title: "beeNbkks Dog Crate End Table Review: Worth It? (2026)"
 meta_description: "Honest beeNbkks furniture-style dog crate end table review. Double doors, wood build, and real buyer feedback. Is it worth $150? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYH8B5MV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aRqhih6NL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Double-door design gives you two access points — front for dogs, side for tight spaces against a wall"
   - "Solid engineered wood construction rated to support up to 220 lbs on the tabletop"
   - "Sliding latch locks on both doors are genuinely secure, not flimsy wire hooks"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with 40+ screws; no pre-drilled pilot holes on some panels"
   - "Wire mesh gaps are visible when the tray slides out — not fully enclosed on the bottom"
   - "Sizing runs small; a 30-inch crate fits dogs up to 45 lbs, not the 55 lbs listed"
+
 ---
 
 Let’s be honest: most “furniture-style” dog crates are just wire cages with a cheap wooden skirt slapped on. The beeNbkks Furniture Style Dog Crate End Table with double doors is not that. But it’s also not perfect. Here’s what 225 buyers at 4.5 stars are actually saying — and what they’re not.

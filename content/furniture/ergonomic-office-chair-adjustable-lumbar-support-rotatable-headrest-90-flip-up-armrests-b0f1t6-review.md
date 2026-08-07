@@ -1,4 +1,5 @@
 ---
+
 title: "Ergonomic Office Chair, Adjustable Lumbar Support & Rotatabl"
 seo_title: "Ergonomic Office Chair Review: Adjustable Lumbar & Rotatable Headrest"
 meta_description: "Honest review of the Ergonomic Office Chair with adjustable lumbar support, rotatable headrest & flip-up armrests. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F1T6KH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m+cd8veJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "90-degree flip-up armrests let you tuck the chair fully under a desk, freeing floor space when not in use"
   - Rotatable headrest adjusts in multiple directions, providing neck support that taller users (5'10 inch+) actually feel
   - "Tilt tension mechanism with locking positions works smoothly, allowing you to recline without the chair tipping backward"
-cons:
+cons: 
   - "Seat cushion runs firm for the first 2-3 weeks; some buyers report it needs a break-in period before it softens"
   - "Assembly takes 30-45 minutes and requires two people — the headrest pole alignment can be finicky"
   - "Armrest padding is thin; if you rest your elbows heavily, you'll feel the hard plastic underneath"
+
 ---
 
 **The $150-$250 office chair market is a minefield of wobbly gas lifts and lumbar pillows that slide down your back after ten minutes.** This ergonomic chair from Amazon's budget-to-midrange tier tries to break that mold with a rotatable headrest and 90-degree flip-up armrests — two features you rarely see at this price point. After digging through 204 ratings and the spec sheet, here's the honest breakdown.

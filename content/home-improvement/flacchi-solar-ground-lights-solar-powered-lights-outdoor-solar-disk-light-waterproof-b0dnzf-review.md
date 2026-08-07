@@ -1,4 +1,5 @@
 ---
+
 title: "Flacchi Solar Ground Lights - Solar Powered Lights Outdoor S"
 seo_title: "Flacchi Solar Ground Lights Review: Bright, Built to Last?"
 meta_description: "Flacchi Solar Ground Lights review: Are these solar disk lights worth it? Real performance, durability, and buyer feedback from 215+ ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DNZF5BWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818+p-FqmuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aluminum alloy housing with IP67 waterproof rating—survives rain, snow, and lawnmower ricochet"
   - "3000K warm white output at 40 lumens gives a soft, welcoming glow without light pollution"
   - "Auto on/off dusk sensor is genuinely reliable—no flickering, no false triggers under streetlights"
-cons:
+cons: 
   - "Battery life degrades noticeably after 8-10 months in colder climates; replacement isn't user-friendly"
   - "The 40-lumen output is accent lighting, not path illumination—don't expect to read by it"
+
 ---
 
 If you're shopping for solar ground lights, you've probably seen a dozen listings promising "super bright" output from panels the size of a postage stamp. The Flacchi Solar Ground Lights aren't that product—and that's exactly why they're worth considering. These are 40-lumen, 3000K warm white disk lights in a machined aluminum housing. They're designed to tuck into your lawn, edge a walkway, or line a driveway—not to flood your yard like stadium lights. At 4.3 stars across 215 ratings, they're doing something right. Let's dig into what that something is.

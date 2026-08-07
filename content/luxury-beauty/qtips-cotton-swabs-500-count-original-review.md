@@ -1,16 +1,17 @@
 ---
+
 title: "Q-tips Cotton Swabs For Hygiene and Beauty Care, Original, 100% Cotton, 500 Count"
 seo_title: "Q-tips Cotton Swabs Review — 4.8★ The Original at $17.93"
 meta_description: "Q-tips original cotton swabs review: 29,035 reviews analyzed. 100% cotton, paper sticks from sustainable forests, 500-count. Still the king of cotton swabs?"
 slug: "qtips-cotton-swabs-500-count-original-review"
 image_alt: "Q-tips Original Cotton Swabs 500 Count"
-keywords:
+keywords: 
   - "Q-tips cotton swabs review"
   - "best cotton swabs for makeup"
   - "Q-tips original 500 count review"
   - "cotton buds review"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "Are Q-tips cotton swabs made with 100% cotton?"
     answer: "Yes. The cotton on Q-tips is 100% pure cotton. The paper sticks are sourced from sustainable forests and are biodegradable."
   - question: "How many Q-tips come in a 500-count box?"
@@ -23,14 +24,15 @@ review_count: 29035
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0014CZ16Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wS-aWZMmL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "29,035 reviews at 4.8★ — almost perfect satisfaction rate"
   - "100% pure cotton that stays secure on the paper stick — no loose fibers"
   - "Biodegradable paper sticks sourced from sustainable forests"
-cons:
+cons: 
   - "Generic/store-brand alternatives cost significantly less per swab"
   - "500-count box is bulky for bathroom storage"
   - "Paper sticks can bend with heavy pressure — not as rigid as plastic alternatives"
+
 ---
 
 There are some products that transcend review culture. Q-tips are one of them. With 29,035 Amazon reviews at 4.8 stars, they might just be the highest-rated personal care product on the entire platform. But when a product has been the gold standard since 1923, you'd expect nothing less.

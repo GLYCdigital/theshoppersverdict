@@ -1,4 +1,5 @@
 ---
+
 title: "Masupu Nightstand with Charging Station Stripe"
 seo_title: "Masupu Nightstand with Charging Station Stripe Review: Ve"
 meta_description: "Our full masupu nightstand with charging station stripe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GCKP6PT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xoDoYLEpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "YUYIUS Landscape Edging - Garden Edging Border, No Dig Lawn "
 seo_title: "YUYIUS Landscape Edging - Garden Edging Border, No Review"
 meta_description: "Our full yuyius landscape edging - garden edging border, no dig lawn  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6N3P38Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BtlnctfpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line first:** At $19.99 for a 10-foot roll with stakes included, the YUYIUS no-dig landscape edging delivers exactly what it promises—clean lawn separation without trenching—provided your expectations match its 4-inch height. It's the right tool for defining beds, not for stopping bamboo.

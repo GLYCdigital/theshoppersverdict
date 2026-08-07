@@ -1,4 +1,5 @@
 ---
+
 title: "b.box Mini Lunch Box - 4.25 Cup Leak Proof Bento Box for Kid"
 seo_title: "b.box Mini Lunch Box Review: Leak-Proof Bento for Kids"
 meta_description: "Honest b.box Mini Lunch Box review: 4.25-cup leak-proof bento for kids. Tested for spills, durability & portion sizes. See if it's worth the buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR3K61CP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ea9Dh2iJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True leak-proof seal on the main compartment — tested with yogurt and applesauce with zero drips"
   - "4.25-cup capacity fits real meals, not just snacks; handles a sandwich, fruit, and a treat without cramming"
   - "One-handed latch opens easily for small fingers but stays secure in a backpack"
-cons:
+cons: 
   - "Dishwasher top-rack only; the seal can warp if you run it on the bottom rack"
   - "No removable divider inserts — the fixed sections limit flexibility for oddly shaped items"
+
 ---
 
 **The Short Version: Is This the Lunch Box That Finally Ends the Soggy-Sandwich Era?**

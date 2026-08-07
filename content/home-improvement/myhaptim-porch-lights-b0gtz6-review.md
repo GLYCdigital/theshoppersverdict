@@ -1,4 +1,5 @@
 ---
+
 title: "Myhaptim Porch Lights"
 seo_title: "Myhaptim Porch Lights Review: Verdict | TSV"
 meta_description: "Our full myhaptim porch lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTZ62RHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d6ocp0oXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about porch lights: most of them are either ugly, flimsy, or require you to remember to flip a switch every single night. The Myhaptim Porch Lights aim to solve all three problems at once. After digging through 225 ratings and analyzing the build specs, here's what actually matters before you buy.

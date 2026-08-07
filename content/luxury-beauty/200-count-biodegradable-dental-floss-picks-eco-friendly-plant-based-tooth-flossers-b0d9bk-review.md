@@ -1,4 +1,5 @@
 ---
+
 title: "200 Count Biodegradable Dental Floss Picks, Eco Friendly Pla"
 seo_title: "Biodegradable Dental Floss Picks Review: 200-Count Eco Flossers"
 meta_description: "Honest review of 200-count biodegradable dental floss picks. Are plant-based PLA flossers worth it? Real pros, cons, and buyer verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9BKPW7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-MPcg830L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compostable PLA handle—not greenwashed plastic—breaks down in commercial facilities"
   - "200-count bulk pack works out to roughly 2.5 months of daily flossing for one person"
   - "Tight string tension handles tight contacts better than many flossers at twice the price"
-cons:
+cons: 
   - "Handle flexes noticeably under firm pressure—aggressive flossers may find it flimsy"
   - "No mint or flavor coating—if you're used to waxed, flavored floss, this feels plain"
+
 ---
 
 Let's be honest about what "eco-friendly" usually means in the dental aisle: a slightly greener package wrapped around the same plastic you've been throwing away for years. The 200 Count Biodegradable Dental Floss Picks from this brand actually try to do something different. The handle is made from PLA—plant-based polylactic acid, typically derived from corn starch—which means it's designed to break down in commercial composting facilities rather than sitting in a landfill for 400 years. That's a real distinction, not a marketing tweak.

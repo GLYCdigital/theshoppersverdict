@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO NFL Team Logo 5-Pack Barrel Beverage Drink Coaster Set"
 seo_title: "FOCO NFL Coaster Set Review: 5-Pack Barrel Drink Holders"
 meta_description: "FOCO NFL Team Logo 5-Pack Barrel Coaster Set review: absorbent, durable, and team-spirited. See real pros, cons, and who should buy these drink coasters."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FV9232B1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815AqMWUMHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, absorbent ceramic base soaks up condensation without sticking to your glass"
   - "Team colors and logo are baked in — no fading or peeling after months of use and dishwasher cycles"
   - "Barrel shape adds grip; coasters don't slide around when you set drinks down"
-cons:
+cons: 
   - "5-pack means you'll run short if you host more than a couple guests at a time"
   - "Cork backing can wear thin near edges with heavy daily use"
+
 ---
 
 Let's be honest: most sports-themed coasters are cheap plastic garbage that slide around, absorb nothing, and look like they came from a gas station. The FOCO NFL Team Logo 5-Pack Barrel Beverage Drink Coaster Set is not that. At 4.8 stars across 240 ratings, this is the rare fan gear that actually functions as a coaster first and a team accessory second.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dessert Cups with Gold Spoons"
 seo_title: "Dessert Cups with Gold Spoons Review: Elegant, Reusable"
 meta_description: "Honest review of dessert cups with gold spoons. Learn about quality, durability, and whether these elegant reusable cups are worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09FXK95Q2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZLqEs+AhL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Sturdy tempered glass cups that hold up to repeated dishwasher cycles without clouding or chipping"
   - "Gold spoons have a substantial weight — not flimsy stamped metal that bends on first use"
   - "The 4-ounce size is ideal for individual desserts, mousse, or fruit parfaits without looking skimpy"
-cons:
+cons: 
   - "Spoons are NOT dishwasher safe — gold plating will fade if you machine-wash them, so plan for hand-washing"
   - "Cups arrive individually boxed but the packaging is minimal; a few buyers reported chips during shipping"
+
 ---
 
 # Dessert Cups with Gold Spoons: Worth the Hype?

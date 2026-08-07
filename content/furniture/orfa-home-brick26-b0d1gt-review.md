@@ -1,4 +1,5 @@
 ---
+
 title: "ORFA HOME BRICK26"
 seo_title: "ORFA HOME BRICK26 Review: Verdict | TSV"
 meta_description: "Our full orfa home brick26 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1GT9Y5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818POFxtsFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most furniture in this price range is engineered to survive one move and a couple of holidays. The ORFA HOME BRICK26 doesn’t feel like that. With a 4.7-star average across 235 ratings, it’s clearly doing something right — but is it right for *your* space? Here’s what I found digging through the specs, the build, and what actual buyers are saying.

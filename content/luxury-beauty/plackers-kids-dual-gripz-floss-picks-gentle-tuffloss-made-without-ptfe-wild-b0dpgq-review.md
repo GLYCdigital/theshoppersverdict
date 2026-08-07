@@ -1,4 +1,5 @@
 ---
+
 title: "PlackersÂ® Kids Dual Gripzâ„¢ Floss Picks, Gentle, TufflossÂ"
 seo_title: "PlackersÂ® Kids Dual Gripzâ„¢ Floss Picks, Gentle, Review"
 meta_description: "Our full plackersâ® kids dual gripzâ„¢ floss picks, gentle, tufflossâ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DPGQBW68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7142RBbkzkL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Flossing a wiggly six-year-old is a two-person job. You've got one hand holding their head still, the other fumbling with slippery plastic, and the kid's already complaining. Plackers Kids Dual Gripz doesn't fix the complaining — but it does fix the grip problem. And that alone makes this package worth a hard look.

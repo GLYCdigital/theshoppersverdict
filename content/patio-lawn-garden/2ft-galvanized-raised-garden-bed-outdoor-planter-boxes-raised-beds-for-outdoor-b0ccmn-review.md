@@ -1,4 +1,5 @@
 ---
+
 title: "2ft Galvanized Raised Garden Bed Outdoor Planter Boxes Raise"
 seo_title: "2ft Galvanized Raised Garden Bed Review: Worth It? (2026)"
 meta_description: "Honest 2ft galvanized raised garden bed review: build quality, real-world durability, assembly tips, and who should buy. 4.6/5 rating, 229 reviews."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCMNH37P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PGoF1buTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "2ft height means zero bending — genuinely back-friendly for planting, weeding, and harvesting"
   - "Galvanized steel won't rot, warp, or splinter like cedar; handles freeze-thaw cycles without cracking"
   - "Tool-free assembly with rolled edges that won't slice your hands or garden gloves"
-cons:
+cons: 
   - "Open bottom means burrowing pests (gophers, voles) can still get in — you'll need a wire mesh layer"
   - "Single-piece side panels can flex under heavy wet soil; corner bracing is recommended for long beds"
   - "No drainage holes in the base — proper soil mix and gravel layer are mandatory to avoid waterlogged roots"
+
 ---
 
 **If your back has been screaming every time you kneel to pull weeds, this 2-foot-tall galvanized bed might be the best $60-ish you spend on your garden this year.** The height is the headline feature, but what impressed me after digging into the specs and owner feedback is how much thought went into the details that matter over years of use.

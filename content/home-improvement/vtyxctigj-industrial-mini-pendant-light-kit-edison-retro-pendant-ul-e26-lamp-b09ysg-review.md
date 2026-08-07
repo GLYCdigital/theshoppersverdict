@@ -1,4 +1,5 @@
 ---
+
 title: "VTYXCTIGJ Industrial Mini Pendant Light Kit, Edison Retro Pe"
 seo_title: "VTYXCTIGJ Industrial Mini Pendant Light Kit, Ediso Review"
 meta_description: "Our full vtyxctigj industrial mini pendant light kit, edison retro pe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YSGR4KY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51umSoXDdBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VTYXCTIGJ Industrial Mini Pendant Light Kit: Retro Style That Actually Works

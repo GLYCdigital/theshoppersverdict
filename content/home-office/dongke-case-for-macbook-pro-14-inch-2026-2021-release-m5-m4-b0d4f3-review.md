@@ -1,4 +1,5 @@
 ---
+
 title: "DONGKE Case for MacBook Pro 14 Inch (2026-2021 Release, M5 M"
 seo_title: "DONGKE MacBook Pro 14 Case Review: Durable, Precise Fit"
 meta_description: "DONGKE MacBook Pro 14-inch case review: shockproof shell, precise cutouts, clear bottom. Is it worth your money? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4F3QDYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TryX-YvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts for MagSafe, Thunderbolt ports, and SD slot—no need to remove the case for daily connectivity"
   - "Rubberized side grips and raised edges around the keyboard deck provide genuine drop protection where it matters"
   - "Compatible across 2021–2026 M-series generations, so it survives your next laptop upgrade"
-cons:
+cons: 
   - "Clear bottom shell picks up fingerprints and micro-scratches quickly; looks smudged within a week"
   - "Snap-on installation requires firm pressure on all four corners—some buyers report the bottom clip feeling brittle"
+
 ---
 
 A $25 case that claims to protect a $2,000 laptop. That's the sales pitch for the DONGKE MacBook Pro 14-inch hard shell. The question isn't whether you need protection—it's whether this specific shell does the job without becoming a nuisance. After digging through 220 ratings and the build specs, here's the honest breakdown.

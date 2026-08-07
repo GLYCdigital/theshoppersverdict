@@ -1,4 +1,5 @@
 ---
+
 title: "Vantto VT-14Q-04 mattresses"
 seo_title: "Vantto VT-14Q-04 mattresses Review: Verdict | TSV"
 meta_description: "Our full vantto vt-14q-04 mattresses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GKBNMNHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81enm5LidXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Vantto VT-14Q-04 Mattress Review: The $400 Queen That Punches Above Its Weight (With Caveats)

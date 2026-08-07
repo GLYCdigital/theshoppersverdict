@@ -1,4 +1,5 @@
 ---
+
 title: "vivihobb 2-Light Gold Brass Bathroom Light Fixture,Wall Scon"
 seo_title: "vivihobb 2-Light Gold Brass Bathroom Light Fixture Review"
 meta_description: "Our full vivihobb 2-light gold brass bathroom light fixture,wall scon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWLX8Z2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QGAmrLpjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a dozen "gold" bathroom lights that are really just plastic painted to look metallic, stop. The vivihobb 2-Light Gold Brass Wall Sconce is the real deal — solid brass, substantial weight, and a finish that actually looks like it cost more than it did. At 229 ratings and a 4.6 average, it's quietly becoming a go-to for vanity lighting. Here's what you need to know before you click buy.

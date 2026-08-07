@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Horizon Forbidden West: Tallneck 76989 Building Set - A"
 seo_title: "LEGO Horizon Forbidden West: Tallneck 76989 Buildi Review"
 meta_description: "Our full lego horizon forbidden west: tallneck 76989 building set - a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B09Q46YHKB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IYVkkYj3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a LEGO set and thought, "That's cool, but I'd never pay that much for plastic bricks," the Tallneck might make you eat those words. This is the set that converts casual fans into collectors — and it's easy to see why it holds a 4.9-star average across 245 ratings. But it's not perfect, and I'll get to that.

@@ -1,4 +1,5 @@
 ---
+
 title: "Panana 5-Drawer Chest with 1 Door, Wooden Chest of Drawers S"
 seo_title: "Panana 5-Drawer Chest with 1 Door, Wooden Chest of Review"
 meta_description: "Our full panana 5-drawer chest with 1 door, wooden chest of drawers s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBBXKMQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C8MArTP6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your bedroom is short on floor space but long on stuff, the Panana 5-Drawer Chest with 1 Door is trying to solve a very specific problem: how to store a lot without eating your entire room. At roughly two feet wide and about four feet tall, this compact wooden dresser is designed for tight corners, narrow wall spaces, and anyone who's tired of clothes living in laundry baskets. With a 4.6-star average across 229 ratings, it's clearly working for most buyers — but there are a few things worth knowing before you click buy.

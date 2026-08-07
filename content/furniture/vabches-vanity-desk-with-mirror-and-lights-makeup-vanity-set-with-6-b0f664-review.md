@@ -1,4 +1,5 @@
 ---
+
 title: "Vabches Vanity Desk with Mirror and Lights,Makeup Vanity Set"
 seo_title: "Vabches Vanity Desk with Mirror and Lights,Makeup  Review"
 meta_description: "Our full vabches vanity desk with mirror and lights,makeup vanity set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F664W3GZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K4clePRbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Vabches vanity desk with lights actually worth your money, or is it just another pretty Amazon find that wobbles after a month?** I've dug through the 215 ratings and the 4.3-star average to give you the straight story before you commit.

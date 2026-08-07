@@ -1,4 +1,5 @@
 ---
+
 title: "Tegatok Cordless Drill, 3/8 Handheld"
 seo_title: "Tegatok Cordless Drill, 3/8 Handheld Review: Verdict | TS"
 meta_description: "Our full tegatok cordless drill, 3/8 handheld review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQNRBTQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F-Q-Q4BmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Tegatok Cordless Drill, 3/8 Handheld Review: The Compact Driver That Punches Above Its Class**

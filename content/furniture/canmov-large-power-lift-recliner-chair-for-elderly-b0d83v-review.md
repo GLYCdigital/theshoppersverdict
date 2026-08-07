@@ -1,4 +1,5 @@
 ---
+
 title: "CANMOV Large Power Lift Recliner Chair for Elderly"
 seo_title: "CANMOV Large Power Lift Recliner Review (2026): Worth It?"
 meta_description: "CANMOV Large Power Lift Recliner review: 4.2-star rating, 210 reviews. Is this heavy-duty lift chair worth it for elderly users? Pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D83VVT3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81owooFXvbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor system lifts up to 350 lbs with smooth, independent backrest and footrest control"
   - "Generous 22.5-inch seat width — genuinely fits larger body types without feeling cramped"
   - "Memory foam padding over a sturdy hardwood frame holds up to daily use better than budget rivals"
-cons:
+cons: 
   - "PU leather is not breathable — expect a sweaty back during summer months without a cover"
   - "Assembly takes 45+ minutes and requires two people; the base and motor unit are heavy"
   - "Lift height maxes out at 19 inches — shorter users may find the exit position still too low"
+
 ---
 
 If you're shopping for a lift chair, you've probably noticed a sea of near-identical recliners all claiming to be "heavy-duty" and "comfortable." The CANMOV Large Power Lift Recliner is one of the more popular options in that crowd, with a 4.2-star average across 210 ratings. But popularity isn't the same as quality. Here's what you actually need to know before dropping your money.

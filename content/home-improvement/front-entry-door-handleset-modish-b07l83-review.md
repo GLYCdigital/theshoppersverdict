@@ -1,4 +1,5 @@
 ---
+
 title: "Front Entry Door Handleset Modish"
 seo_title: "Front Entry Door Handleset Modish Review: Real Look"
 meta_description: "Front Entry Door Handleset Modish review: Build quality, security, and finish. See if this 4.3-star handleset is right for your front door."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07L832KTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7195+NDZbLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a heavy, premium feel that doesn't flex or rattle"
   - "Interior thumb-turn and keyless exterior option provide quick, convenient entry"
   - "Includes both latch and full deadbolt hardware — complete replacement, no extra parts needed"
-cons:
+cons: 
   - "Finish is prone to showing fingerprints and smudges, especially on darker color options"
   - "Installation instructions are minimal; doorknob alignment can be finicky on non-standard doors"
+
 ---
 
 ## First Impressions: More Than Just a Handle

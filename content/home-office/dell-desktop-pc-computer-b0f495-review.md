@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Desktop PC Computer"
 seo_title: "Dell Desktop PC Review: Honest Look at Value & Performance"
 meta_description: "Read our honest Dell Desktop PC review — build quality, performance, buyer complaints, and who should buy it. Get the real story before you spend."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F495TBNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zcHUQ9SnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact tower design fits under most desks without dominating workspace"
   - "Solid build quality with tool-less side panel access for easy upgrades"
   - "Reliable everyday performance for office tasks, web browsing, and media"
-cons:
+cons: 
   - "3.4-star average signals notable quality-control and customer service concerns"
   - "Stock configuration includes minimal RAM and storage — budget for upgrades"
   - "Integrated graphics won't handle gaming or heavy creative workloads"
+
 ---
 
 ## The Dell Desktop: A Familiar Name With a Complicated Reputation

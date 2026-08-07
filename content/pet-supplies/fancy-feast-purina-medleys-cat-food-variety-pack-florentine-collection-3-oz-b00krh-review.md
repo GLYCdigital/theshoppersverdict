@@ -1,4 +1,5 @@
 ---
+
 title: "Fancy Feast Purina Medleys Cat Food Variety Pack - Florentin"
 seo_title: "Fancy Feast Medleys Florentine Review: Worth It? (2026)"
 meta_description: "Honest Fancy Feast Purina Medleys Florentine cat food review. We analyze ingredients, texture, picky-eater appeal & value. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00KRH8HVA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jd2O54QQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Florentine-style texture with real identifiable shrimp and spinach pieces in a savory sauce"
   - "Three distinct recipes (Tuscany, Primavera, Florentine) offer rotation variety without buying multiple packs"
   - "High moisture content (78-80%) supports feline urinary tract health and hydration"
-cons:
+cons: 
   - "Contains carrageenan, a controversial thickener some owners prefer to avoid"
   - "Small 3-oz cans mean multi-cat households will burn through a 24-pack quickly"
   - "Price per ounce runs higher than basic Fancy Feast Classic lines"
+
 ---
 
 Let's be honest about cat food: most of it looks like brown mush and smells worse. The Fancy Feast Medleys Florentine Collection is different — and that's exactly why it has earned a loyal following among picky feline eaters and their owners. With a 4.3-star average across 215 ratings, this isn't a runaway bestseller, but it's a solid mid-tier option worth understanding before you commit.

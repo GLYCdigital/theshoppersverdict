@@ -1,4 +1,5 @@
 ---
+
 title: "MINELAB X-Terra Metal Detector Series for Adults"
 seo_title: "MINELAB X-Terra Metal Detector Series for Adults Review: "
 meta_description: "Our full minelab x-terra metal detector series for adults review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CWQDTVYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jEcPAtEXL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen the YouTube videos: people pulling silver coins and old buckles from parks that look like every other patch of grass. The Minelab X-Terra is one of the tools they’re holding. After 204 Amazon ratings averaging 4.1 stars, it’s clear this detector has a following — but is it the right one for *your* lawn, beach, or relic hunt? Here’s the honest breakdown.

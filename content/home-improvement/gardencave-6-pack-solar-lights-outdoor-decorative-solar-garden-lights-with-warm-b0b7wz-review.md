@@ -1,5 +1,6 @@
 ---
 
+
 title: "Gardencave 6 Pack Solar Lights - Outdoor Decorative Solar Ga"
 seo_title: "Gardencave 6 Pack Solar Lights Review: Worth It? (2026)"
 meta_description: "Honest Gardencave 6 pack solar lights review: brightness, battery life, durability, and value. See pros, cons, and who should buy these path lights."
@@ -12,14 +13,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B7WZBPRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XHCMEltAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm 3000K LED glow that actually looks inviting, not harsh blue-white like many budget sets"
   - "IP65 weatherproof rating with sturdy aluminum housing that survives rain and frost"
   - "Auto on/off dusk sensor works reliably — no switches to fiddle with daily"
-cons:
+cons: 
   - "Battery capacity is modest; expect 4-6 hours of light in winter, not the advertised 8-10 inch"
   - "Ground stakes are plastic and can crack if you force them into hard, compacted soil"
   - "Light output (about 15 lumens) is decorative, not functional — don't expect to read by these"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Dahlia Counter Height Chair"
 seo_title: "Nathan James Dahlia Counter Height Chair Review: Verdict "
 meta_description: "Our full nathan james dahlia counter height chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMQHC54M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810XvseqthL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Counter-height seating is a gamble. Get it right and your kitchen island becomes the social hub of your home. Get it wrong and you're stuck with wobbly perches that punish your back. The Nathan James Dahlia Counter Height Chair sits firmly in the first camp—mostly.

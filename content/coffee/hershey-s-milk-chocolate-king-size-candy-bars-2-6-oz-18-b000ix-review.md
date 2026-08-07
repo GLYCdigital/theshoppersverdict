@@ -1,4 +1,5 @@
 ---
+
 title: "HERSHEY'S Milk Chocolate King Size, Candy Bars, 2.6 oz (18 C"
 seo_title: "HERSHEY'S Milk Chocolate King Size, Candy Bars, 2. Review"
 meta_description: "Our full hershey's milk chocolate king size, candy bars, 2.6 oz (18 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000IXWDFO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fQg1kRYxL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you don't need a review to know what Hershey's milk chocolate tastes like. You've had it at movie theaters, Halloween buckets, and Grandma's candy dish. What you actually need to know is whether this specific King Size bulk pack is worth your money — and whether 18 bars of chocolate in your kitchen is a blessing or a hazard.

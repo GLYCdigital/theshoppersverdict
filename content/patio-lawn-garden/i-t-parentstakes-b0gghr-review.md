@@ -1,4 +1,5 @@
 ---
+
 title: "I+T-ParentStakes"
 seo_title: "I+T-ParentStakes Review: Verdict | TSV"
 meta_description: "Our full i+t-parentstakes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGHRY8GV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BS5WQpObL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about garden stakes: most of them are flimsy bamboo sticks or plastic junk that snaps by August. The I+T-ParentStakes are trying to be the exception — and based on 235 ratings averaging 4.7 stars, they might actually pull it off.

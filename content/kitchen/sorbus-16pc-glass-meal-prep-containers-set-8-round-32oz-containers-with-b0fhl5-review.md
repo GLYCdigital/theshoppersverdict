@@ -1,4 +1,5 @@
 ---
+
 title: "Sorbus 16pc Glass Meal Prep Containers Set â€“ 8 Round 32oz "
 seo_title: "Sorbus 16pc Glass Meal Prep Containers Set â€“ 8 R Review"
 meta_description: "Our full sorbus 16pc glass meal prep containers set â€“ 8 round 32oz  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FHL5Y1M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Rkr1ib+TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those "meal prep" sets that look great in the listing photos but arrive feeling like they belong in a dollar store. The Sorbus 16pc Glass Meal Prep Containers Set is not that. With 229 ratings holding a solid 4.6 out of 5, this set of eight round 32oz jars has earned its place in the kitchen cabinet — but it's not without a few honest compromises.

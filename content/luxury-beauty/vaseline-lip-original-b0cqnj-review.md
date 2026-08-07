@@ -1,4 +1,5 @@
 ---
+
 title: "Vaseline Lip Original"
 seo_title: "Vaseline Lip Original Review: Verdict | TSV"
 meta_description: "Our full vaseline lip original review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQNJ8B2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CYyN3LJxL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Vaseline Lip Original Review: The $3 Classic That Still Embarrasses $30 Lip Masks**

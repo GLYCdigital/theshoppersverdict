@@ -1,4 +1,5 @@
 ---
+
 title: "Comic Book Bags and Boards"
 seo_title: "Comic Book Bags and Boards Review: 2026 Buyer's Guide"
 meta_description: "Honest comic book bags and boards review: sizing, durability, and archival protection tested. See what 225 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHSBVYJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71POtaBRi5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True archival-grade materials — bags are pH-neutral and boards are acid-free, so your books won't yellow or become brittle over time"
   - "Consistent sizing across the batch — no random 'short' bags that leave the top edge of your comic exposed to dust and shelf wear"
   - "Boards have the right stiffness — rigid enough to prevent spine creasing during shipping or storage, but not so thick they bulge the bag"
-cons:
+cons: 
   - "The flap adhesive is strong enough to stick to the comic itself if you're careless — reseal carefully or use a tape flag as a buffer"
   - "No resealable option here — you're folding the flap over the back board, which means you'll want tape or a bag clip to keep dust out long-term"
+
 ---
 
 Look, I've handled enough flimsy poly bags that tear at the seal and warp like they've been through a dryer cycle to know that not all comic protection is created equal. This set from the B0DHSBVYJB listing is the real deal — 4.5 stars across 225 Amazon ratings isn't accidental. Here's what you're actually getting.

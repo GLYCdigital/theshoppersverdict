@@ -1,4 +1,5 @@
 ---
+
 title: "ILIA - Balmy Tint Hydrating Lip Balm | Buildable Lip Color +"
 seo_title: "ILIA - Balmy Tint Hydrating Lip Balm | Buildable L Review"
 meta_description: "Our full ilia - balmy tint hydrating lip balm | buildable lip color + review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B097Z8HKK7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41wIBGSI3NS._SL1000_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the ILIA Balmy Tint worth $28? I tested it for two weeks — here's the honest breakdown.**

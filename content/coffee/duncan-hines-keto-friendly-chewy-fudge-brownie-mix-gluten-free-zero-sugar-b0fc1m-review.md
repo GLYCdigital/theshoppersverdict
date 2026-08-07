@@ -1,4 +1,5 @@
 ---
+
 title: "Duncan Hines Keto Friendly Chewy Fudge Brownie Mix, Gluten F"
 seo_title: "Duncan Hines Keto Brownie Mix Review: Chewy Fudge, Zero Sugar"
 meta_description: "Duncan Hines Keto Friendly Chewy Fudge Brownie Mix review: taste, texture, carbs, and value. See if this gluten-free, zero-sugar mix is worth it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FC1MJ9S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JNdF8GW1L._SL1500_.jpg"
-pros:
+pros: 
   - "Only 2g net carbs and 1g sugar per serving — genuinely keto-friendly, not just a label"
   - "Chewy, fudgy texture that rivals standard brownie mixes when you don't overbake"
   - "Uses erythritol and stevia — no artificial aftertaste that plagues many sugar-free mixes"
-cons:
+cons: 
   - "Requires 2 large eggs and 1/3 cup of oil or butter — not a just-add-water convenience mix"
   - "Small box yields only an 8x8 pan (16 servings), roughly half a standard brownie mix"
   - "Erythritol can cause digestive upset in sensitive individuals if you eat more than one serving"
+
 ---
 
 Let's be honest about keto baking: most mixes taste like cardboard dusted with regret. The Duncan Hines Keto Friendly Chewy Fudge Brownie Mix breaks that pattern — mostly. At 4.3 stars across 215 Amazon ratings, it's clearly earning its place in low-carb pantries, but it's not without tradeoffs. Here's the real deal.

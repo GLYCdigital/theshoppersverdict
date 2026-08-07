@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns Garden Decor, Outdoor Waterproof Watering Can"
 seo_title: "Solar Lanterns Garden Decor, Outdoor Waterproof Wa Review"
 meta_description: "Our full solar lanterns garden decor, outdoor waterproof watering can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GCN4GBQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810CRwIw0-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Solar Lantern That Actually Looks Like a Watering Can

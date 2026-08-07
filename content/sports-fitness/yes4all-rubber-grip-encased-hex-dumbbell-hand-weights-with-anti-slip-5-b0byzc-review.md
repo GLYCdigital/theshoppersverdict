@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Rubber Grip Encased Hex Dumbbell â€“ Hand Weights Wi"
 seo_title: "Yes4All Rubber Grip Encased Hex Dumbbell â€“ Hand  Review"
 meta_description: "Our full yes4all rubber grip encased hex dumbbell â€“ hand weights wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYZCF59L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610YtqyWhhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dropped a chrome dumbbell on a hardwood floor, you know the wince that follows — the dent, the paint chip, the silent apology to your landlord. The Yes4All Rubber Grip Encased Hex Dumbbell exists to end that cycle. This is a straightforward piece of home gym equipment that solves one specific problem well: protecting your floors while giving you a secure, comfortable grip.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Baseball Hand and Wrist Guard - PRT LG Serie"
 seo_title: "Franklin Sports Baseball Hand & Wrist Guard Review (2026)"
 meta_description: "Honest Franklin Sports Baseball Hand and Wrist Guard review: protection, fit, durability for adult players. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQMBTFW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eReracAWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Molded plastic shield covers the full hand, wrist, and base of thumb — not just a flimsy pad"
   - "Adjustable elastic strap with hook-and-loop closure fits securely over batting gloves"
   - "Weighs under 5 ounces; you forget it's on after a few swings"
-cons:
+cons: 
   - "One-size-fits-most sizing runs snug for players with larger hands (XXL batting glove wearers)"
   - "Ventilation is minimal — expect some sweat buildup in hot summer games"
+
 ---
 
 If you've ever taken a 90-mph fastball off the knob of the bat, you know the exact moment your hand goes numb and your at-bat is over. That's the problem the **Franklin Sports Baseball Hand and Wrist Guard (PRT LG Serie)** is built to solve. It's a simple, effective piece of protective gear that does one job well: keeping your lead hand safe when the pitcher misses his spot.

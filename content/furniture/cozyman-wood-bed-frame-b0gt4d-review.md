@@ -1,4 +1,5 @@
 ---
+
 title: "Cozyman Wood Bed Frame"
 seo_title: "Cozyman Wood Bed Frame Review: Solid Buy or Skip?"
 meta_description: "Honest Cozyman wood bed frame review: build quality, assembly, noise, and value. See if this 4.0-star frame fits your bedroom before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT4DNTF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81elrL96oeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine wood construction with real wood grain — not veneer or MDF — at a price that undercuts most big-box retailers"
   - "No box spring required thanks to integrated slats; saves you $100+ on a foundation you don't need"
   - "Tool-free assembly in under 30 minutes with interlocking joints — genuinely rare for a wood frame"
-cons:
+cons: 
   - "Slats sit 2.5 inches apart, which can sag thinner memory foam mattresses over time without a bunkie board"
   - "Finish is matte and lightly sealed; susceptible to water rings and scratches if you skip a mattress protector"
   - "No center leg support on queen and king sizes; heavier couples may notice slight flex mid-span"
+
 ---
 
 Let's be honest about wood bed frames: most are either particleboard pretending to be furniture or cost more than your first car. The Cozyman Wood Bed Frame sits in that middle zone where shoppers get burned — or find a genuine deal. After digging through 200 ratings and the spec sheet, here's the real story.

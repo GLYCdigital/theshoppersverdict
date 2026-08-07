@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON Reversible 12-Point Ratcheting Combination Wrench | W"
 seo_title: "TEKTON Reversible 12-Point Ratcheting Combination  Review"
 meta_description: "Our full tekton reversible 12-point ratcheting combination wrench | w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQQ1K7W1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5172E+UhgIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TEKTON Reversible 12-Point Ratcheting Combination Wrench is the kind of tool that makes you wonder why you didn't buy it sooner — until you hit that one bolt where the thicker ratcheting head just won't fit. That's the tradeoff. Here's the full story after digging through 240 ratings and real user feedback.

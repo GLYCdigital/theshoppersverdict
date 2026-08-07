@@ -1,4 +1,5 @@
 ---
+
 title: "Fire Pit, Outdoor Wood Burning Fire Pit Octagonal Heavy Duty"
 seo_title: "Octagonal Heavy Duty Fire Pit Review: Worth It? (2026)"
 meta_description: "Honest review of the Octagonal Heavy Duty Wood Burning Fire Pit. Build quality, real-world performance, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CTFLPRN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Qd3mL0wsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick gauge steel body holds up to real heat without warping or rusting through after a full season"
   - "Octagonal shape gives you six flat sides — more usable cooking surface than round pits of similar footprint"
   - "Spark screen and poker included, so you're not nickel-and-dimed on essential accessories"
-cons:
+cons: 
   - "Assembly requires a second person; the panels are heavy and awkward to align solo"
   - "No ash pan or cleanout door — you'll be tipping the whole unit over to dump ash"
+
 ---
 
 The market is flooded with cheap fire pits that buckle after a summer of use. So when a heavy-duty octagonal model shows up with a 4.2 average across 210 ratings, it's worth a closer look. Here's the honest breakdown after digging through what buyers actually say.

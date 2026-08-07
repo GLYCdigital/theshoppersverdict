@@ -1,4 +1,5 @@
 ---
+
 title: "Versace Pour Homme Eau de Toilette Spray for Men, 200 ml, 6."
 seo_title: "Versace Pour Homme Eau de Toilette Spray for Men,  Review"
 meta_description: "Our full versace pour homme eau de toilette spray for men, 200 ml, 6. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0040QZU64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E96j24rUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 200ml Bottle Changes the Math

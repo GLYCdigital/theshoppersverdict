@@ -1,7 +1,8 @@
 ---
+
 title: "Ash & Ember Santa Maria Style Adjustable Cooking Grate Attac"
 seo_title: "Ash & Ember Santa Maria Grate Review: Worth It? (2026)"
-meta_description: "Honest Ash & Ember Santa Maria Style Adjustable Cooking Grate review: fits 22\" kettles, raises/lowers for searing, real pros & cons from 229 ratings."
+meta_description: "Honest Ash & Ember Santa Maria Style Adjustable Cooking Grate review: fits 22\ kettles, raises/lowers for searing, real pros & cons from 229 ratings."
 slug: "ash-ember-santa-maria-style-adjustable-cooking-grate-attachment-fits-24-kettle-b083f7-review"
 image_alt: "Ash & Ember Santa Maria Style Adjustable Cooking Grate attachment mounted on a kettle grill with a steak on the grates"
 verdict_score: 4.6
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B083F7N9NR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QiGDiKVyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Converts a standard 22-inch kettle grill into a Santa Maria-style vertical raise/lower cooker without any permanent modification"
   - "Stainless steel grates and frame construction hold up to high heat without warping or rusting after repeat use"
   - "Fully adjustable height mechanism lets you fine-tune temperature control — move from searing hot to gentle warming in seconds"
-cons:
+cons: 
   - "Designed for 22-inch kettles only; owners of 26-inch or off-brand grills report a sloppy fit that requires shimming"
   - "Counterweight spring tension can be finicky to set initially — some users report the grate dropping unexpectedly until adjusted"
   - "Doesn't include a lid holder or drip tray, so you'll need to manage grease flare-ups manually on fatty cuts"
+
 ---
 
 Let's be honest: most grill accessories are gimmicks. A basket here, a skewer rack there — they take up drawer space and rarely change how you cook. The Ash & Ember Santa Maria Style Adjustable Cooking Grate is not that. This is the accessory that fundamentally changes what your kettle grill can do, turning a $150 Weber into something approaching a $1,500 custom Santa Maria pit.

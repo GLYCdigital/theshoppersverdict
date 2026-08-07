@@ -1,4 +1,5 @@
 ---
+
 title: "Goovilla Decorative Garden Fence"
 seo_title: "Goovilla Decorative Garden Fence Review: Verdict | TSV"
 meta_description: "Our full goovilla decorative garden fence review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GK7M8PMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ApU0VRyIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most decorative garden fences are flimsy plastic junk that snaps by August or rusts by the second winter. The Goovilla Decorative Garden Fence isn't that. It's a 4.5-star product with 225 ratings for a reason — and it's also not perfect. Here's the unvarnished breakdown.

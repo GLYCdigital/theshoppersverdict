@@ -1,4 +1,5 @@
 ---
+
 title: "Curlsmith - Defrizzion Travel Hair Dryer with Large Diffuser"
 seo_title: "Curlsmith Defrizzion Travel Hair Dryer Review (2026): Is It Worth It?"
 meta_description: "Curlsmith Defrizzion Travel Hair Dryer review: Does the large diffuser deliver frizz-free curls on the go? Read pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CFWKLHBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-fbc10hBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large 4-inch diffuser bowl actually fits curly hair sections — most travel dryers come with palm-sized diffusers that crush curls"
   - "Ionic technology cuts drying time to roughly 8-10 minutes for shoulder-length curls, per multiple verified reviews"
   - "Folds down to 9 inches and weighs under 1 pound — genuinely packable without sacrificing power"
-cons:
+cons: 
   - "Only two heat settings and no cool-shot button, which limits styling control for fine or heat-sensitive hair"
   - "Loud — several reviewers clock it around 80dB, comparable to a full-size dryer despite the compact body"
+
 ---
 
 Let's be honest about travel hair dryers: most are garbage for curly hair. They're weak, the diffusers are laughably small, and you end up with frizz that makes you wish you'd just air-dried. Curlsmith's Defrizzion Travel Dryer is trying to change that narrative — and for the most part, it succeeds.

@@ -1,4 +1,5 @@
 ---
+
 title: "PHI VILLA 10ft Patio Umbrella Outdoor 3 Tier Vented Table Um"
 seo_title: "PHI VILLA 10ft Patio Umbrella Outdoor 3 Tier Vente Review"
 meta_description: "Our full phi villa 10ft patio umbrella outdoor 3 tier vented table um review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07YXRG1N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qhso-knhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10-foot umbrella is the sweet spot for most patio tables — big enough to cover a six-seater setup, small enough not to dominate a modest deck. The PHI VILLA 10ft 3-Tier Vented model sits in a crowded field of sub-$100 umbrellas, and at a 4.1-star average from 204 ratings, it's clearly doing something right. But is it the right umbrella for your backyard? Let's break down what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lepro Clip on Desk Lamp LED Reading Light Dimmable USB Clamp"
 seo_title: "Lepro Clip on Desk Lamp LED Reading Light Dimmable Review"
 meta_description: "Our full lepro clip on desk lamp led reading light dimmable usb clamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTSCY8WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614aNUDoCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to read or work in a spot where overhead light just doesn't cooperate, you know the frustration. The Lepro Clip on Desk Lamp solves that problem for about the price of a couple of lattes — and mostly does it very well. With 229 ratings averaging 4.6 stars, it's clearly earning its keep in bedrooms, dorm rooms, and cramped home offices.

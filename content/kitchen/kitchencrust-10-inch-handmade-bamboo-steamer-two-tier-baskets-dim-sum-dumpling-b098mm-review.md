@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenCrust 10 Inch Handmade Bamboo Steamer - Two Tier Bask"
 seo_title: "KitchenCrust 10 Inch Handmade Bamboo Steamer - Two Review"
 meta_description: "Our full kitchencrust 10 inch handmade bamboo steamer - two tier bask review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B098MMTPN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8181IqMO+JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KitchenCrust 10-Inch Bamboo Steamer: Traditional Tool, Modern Convenience**

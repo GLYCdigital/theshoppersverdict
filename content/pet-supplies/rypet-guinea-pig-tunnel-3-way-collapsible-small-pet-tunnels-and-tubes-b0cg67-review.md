@@ -1,4 +1,5 @@
 ---
+
 title: "Rypet Guinea Pig Tunnel 3 Way Collapsible Small Pet Tunnels "
 seo_title: "Rypet Guinea Pig Tunnel 3 Way Collapsible Small Pe Review"
 meta_description: "Our full rypet guinea pig tunnel 3 way collapsible small pet tunnels  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG671FNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CXH8kcmKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most small pet tunnels are either flimsy fabric tubes that collapse under a curious paw or rigid plastic contraptions that dominate your living space. The Rypet Guinea Pig Tunnel 3-Way aims for a middle ground — and for the most part, it hits it.

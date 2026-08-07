@@ -1,7 +1,8 @@
 ---
-title: "LARBANKE 48\" Adjustable Workbench"
-seo_title: "LARBANKE 48\" Adjustable Workbench Review: Verdict | TSV"
-meta_description: "Our full larbanke 48\" adjustable workbench review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "LARBANKE 48\ Adjustable Workbench"
+seo_title: "LARBANKE 48\ Adjustable Workbench Review: Verdict | TSV"
+meta_description: "Our full larbanke 48\ adjustable workbench review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "larbanke-48-adjustable-workbench-b0cwkx-review"
 image_alt: "LARBANKE 48 Adjustable Workbench"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWKXK5GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Cy-cZyddL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The workbench that actually fits your body — and your space

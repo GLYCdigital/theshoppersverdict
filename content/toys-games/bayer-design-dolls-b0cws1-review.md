@@ -1,4 +1,5 @@
 ---
+
 title: "Bayer Design Dolls"
 seo_title: "Bayer Design Dolls Review: Are They Worth It? (2026)"
 meta_description: "Honest Bayer Design Dolls review: build quality, realism, and value. See what 235 buyers say before you spend. Pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWS1RSDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jn6wEbtaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Incredibly lifelike vinyl features — rooted hair and hand-painted details that rival dolls costing twice as much"
   - "Weighted, soft-body construction gives the doll a realistic heft that makes it feel like you're holding a real baby"
   - "Clothing is fully removable and well-stitched, so kids can dress and undress the doll repeatedly without tearing seams"
-cons:
+cons: 
   - "Some buyers report the rooted hair requires gentle brushing — rough play can cause tangling or minor shedding"
   - "The doll's realistic design may be too fragile for very aggressive toddlers under 3 years old"
+
 ---
 
 **Bayer Design Dolls aren't just another plastic baby doll — they're the closest thing to holding a real infant without the 3 a.m. feedings.**

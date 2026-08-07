@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Scooter for Adults, 350W Motor, 19 Mph Max Speed, 2 inch"
 seo_title: "Electric Scooter for Adults Review: 350W Motor, 19 MPH & 21-Mile Range"
 meta_description: "Honest review of the 350W electric scooter for adults: 19 mph top speed, 21-mile range, 4.3/5 rating. Is it worth your money? Read before buying."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DK7BN82D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E3-tt8AiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 21-mile range on a single charge — verified by multiple buyers for commutes over 10 miles round trip"
   - "Dual braking system (electronic + rear disc) stops reliably even at the 19 mph top end"
   - "Folds down in about 5 seconds with a one-click latch — fits in a car trunk or under a desk"
-cons:
+cons: 
   - "8.5-inch solid tires transmit every crack and bump — rough on poorly maintained pavement"
   - "No suspension means your wrists take the punishment on longer rides over 30 minutes"
   - "Assembly requires attaching the handlebar and tightening 6 bolts — basic but takes 15 minutes"
+
 ---
 
 Let's cut through the noise. The electric scooter market is flooded with 250W toys that claim 15 mph and deliver 10. This 350W model sits in a different class — and with a 4.3/5 rating across 215 reviews, buyers are mostly confirming it. But "mostly" isn't "universally," and you deserve to know where this scooter earns its keep and where it cuts corners.

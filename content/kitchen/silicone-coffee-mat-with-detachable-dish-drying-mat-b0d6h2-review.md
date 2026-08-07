@@ -1,4 +1,5 @@
 ---
+
 title: "Silicone Coffee Mat with Detachable Dish Drying Mat"
 seo_title: "Silicone Coffee Mat with Detachable Dish Drying Ma Review"
 meta_description: "Our full silicone coffee mat with detachable dish drying mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D6H2H6C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J5m7pxnoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: you brew your morning pour-over, set the carafe down, and three minutes later there's a brown ring staining your white counter. This silicone coffee mat with detachable dish drying mat is designed to eliminate that specific annoyance — and it does, mostly, with a clever two-piece system that earns its 4.8-star rating.

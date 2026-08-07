@@ -1,4 +1,5 @@
 ---
+
 title: "HTH 52042 Swimming Pool Care Shock"
 seo_title: "HTH 52042 Swimming Pool Care Shock Review: Verdict | TSV"
 meta_description: "Our full hth 52042 swimming pool care shock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4GX8CBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710nphAPXnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've stared at a green pool and wondered whether you'd need to drain the whole thing, the HTH 52042 Swimming Pool Care Shock is the product that talks you off that ledge. This is a calcium hypochlorite granular shock — the old-school, reliable workhorse of pool care — and it does exactly what the label promises: kills algae, clears cloudy water, and resets your chlorine levels fast.

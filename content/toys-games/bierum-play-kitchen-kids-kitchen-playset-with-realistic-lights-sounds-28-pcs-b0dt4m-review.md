@@ -1,4 +1,5 @@
 ---
+
 title: "BIERUM Play Kitchen - Kids Kitchen Playset with Realistic Li"
 seo_title: "BIERUM Play Kitchen Review: Realistic Lights & Sounds (2026)"
 meta_description: "Honest BIERUM Play Kitchen review: realistic lights, sounds, 28 accessories. See what 229 buyers love and where it falls short before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT4M6LMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h1eLHTDrL._SL1500_.jpg"
-pros:
+pros: 
   - "Working stove burner lights and sizzling sounds that actually respond to play, not just static decals"
   - "28-piece accessory set included at this price point — most competitors charge extra for pots, pans, and food"
   - "Compact footprint fits small apartments while still offering a full sink, stove, and storage shelf"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes; some buyers report screw holes that don't perfectly align"
   - "Sound effects are on the quieter side — fine for indoor play but may disappoint kids expecting loud feedback"
   - "No batteries included (requires 2x AA) and the included utensils are lightweight plastic that won't survive rough play"
+
 ---
 
 If you've priced play kitchens lately, you know they range from flimsy $40 impulse buys to $300+ wooden behemoths. The BIERUM Play Kitchen sits in the middle — and after digging through 229 verified ratings, it's clear this one earns its 4.6-star average. Here's what you're actually getting.

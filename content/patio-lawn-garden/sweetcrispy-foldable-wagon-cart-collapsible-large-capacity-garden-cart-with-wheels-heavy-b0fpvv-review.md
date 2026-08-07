@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Foldable Wagon Cart, Collapsible Large Capacity "
 seo_title: "Sweetcrispy Foldable Wagon Cart, Collapsible Large Review"
 meta_description: "Our full sweetcrispy foldable wagon cart, collapsible large capacity  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FPVVRVT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UWMVLtDUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably seen the generic collapsible wagons at big-box stores — the ones that fold up to the size of a carry-on but tip over the moment you hit a curb. The Sweetcrispy foldable wagon isn't that. It's the wagon you actually want for beach trips, farmers markets, and hauling mulch bags across the yard.

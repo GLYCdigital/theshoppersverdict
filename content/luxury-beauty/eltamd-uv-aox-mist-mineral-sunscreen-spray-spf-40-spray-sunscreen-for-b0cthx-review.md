@@ -1,4 +1,5 @@
 ---
+
 title: "EltaMD UV AOX Mist Mineral Sunscreen Spray, SPF 40 Spray Sun"
 seo_title: "EltaMD UV AOX Mist SPF 40 Review: Is It Worth It?"
 meta_description: "EltaMD UV AOX Mist SPF 40 mineral sunscreen spray reviewed: antioxidant protection, coverage issues, and whether it's worth the price."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CTHX2V77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d+623SthL._SL1500_.jpg"
-pros:
+pros: 
   - "Antioxidant blend (vitamin C, E, and ferulic acid) in a mineral formula — rare combo that targets both UV damage and free radicals"
   - "6-ounce canister is generous for a luxury mist; sprays clear and blends without leaving a white cast on deeper skin tones"
   - "Zinc oxide-based SPF 40 offers broad-spectrum protection that layers well under makeup when applied correctly"
-cons:
+cons: 
   - "Spray nozzle is finicky — several buyers report sputtering or clogging mid-bottle, wasting product"
   - "Finicky application on windy days; the mist disperses too widely and you lose coverage you're paying for"
   - "Price per ounce is steep for a spray that requires heavy layering to actually hit labeled SPF levels"
+
 ---
 
 **EltaMD UV AOX Mist SPF 40 Review: Premium Protection With a Catch**

@@ -1,4 +1,5 @@
 ---
+
 title: "FISH&NAP Cute Cat Tree Kitten Cat Tower for Indoor Cat Condo"
 seo_title: "FISH&NAP Cat Tree Review: Cute Tower for Kittens & Cats"
 meta_description: "Honest FISH&NAP cat tree review: sturdy build, adorable design, real buyer feedback on stability and assembly. Is this 4.5-star tower worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4DW8FWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X0tg-yf3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plush, high-density faux fur covering holds up to daily scratching without excessive shedding"
   - Compact footprint (roughly 20 inch " x 20 inch " base) fits small apartments while still offering three levels
   - "Hanging pom-pom toy and sisal-wrapped posts keep kittens engaged without needing extra accessories"
-cons:
+cons: 
   - "Base is lighter than some heavier cats need; wobbly on carpet unless pressed down firmly"
   - "Assembly instructions are mostly pictographic — expect to figure out a few steps on your own"
+
 ---
 
 Let’s be blunt: most cat trees under $60 are flimsy, ugly, or both. The FISH&NAP Cute Cat Tree manages to dodge all three bullets — mostly. With a 4.5-star average across 225 ratings, it’s clearly doing something right for kitten owners. But is it the right tower for *your* cat? Here’s the full breakdown.

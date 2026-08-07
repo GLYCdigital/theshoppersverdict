@@ -1,4 +1,5 @@
 ---
+
 title: "AirMyFun Inflatable Bounce House"
 seo_title: "AirMyFun Inflatable Bounce House Review: 2026 Buyer's Guide"
 meta_description: "AirMyFun Inflatable Bounce House review: 4.6/5 stars from 229 ratings. Tested for durability, safety, and fun. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJRYX61Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vpMehoQXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Blower motor runs continuously without overheating — several reviewers noted 6+ hour sessions with zero shutdowns"
   - "420D Oxford cloth and reinforced double-stitched seams hold up to aggressive play from multiple kids"
   - "Setup under 5 minutes with the included stakes and sandbags; no tools required"
-cons:
+cons: 
   - "No carry bag included — the deflated unit is bulky and awkward to store"
   - "Blower cord is only 8 feet, which limits placement unless you own an extension cord"
+
 ---
 
 If you've priced backyard bounce houses lately, you know they're either cheap inflatable death traps or mortgage payments on legs. The AirMyFun Inflatable Bounce House sits in that awkward middle zone — and after digging through 229 ratings averaging 4.6 stars, it's clear this one earns its keep.

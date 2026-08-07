@@ -1,4 +1,5 @@
 ---
+
 title: "Budget Planner - Monthly Finance Organizer with Expense Trac"
 seo_title: "Budget Planner Review: Is This Finance Organizer Worth It?"
 meta_description: "Honest Budget Planner review: layout, paper quality, and real buyer feedback. See if this monthly finance organizer fits your money tracking style."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZLRHRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ac1ba9EcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dedicated monthly spread with pre-printed category rows — no need to draw your own tables every week"
   - "Compact size fits in standard bags while still offering enough writing space per entry"
   - "Thick 100gsm paper holds up to gel pens and mild highlighters without ghosting through pages"
-cons:
+cons: 
   - "Undated format means you'll need to write in months and dates yourself — not ideal if you want grab-and-go structure"
   - "Only 12 monthly spreads included, so year-long planners will need a second purchase"
+
 ---
 
 Let's be direct: most budget planners on Amazon are either overly complicated bullet-journal hybrids or flimsy notebooks with a "budget" label slapped on the cover. This one sits somewhere in the middle, and for a lot of people, that's exactly the right spot.

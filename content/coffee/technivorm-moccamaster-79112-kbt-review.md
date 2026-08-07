@@ -1,4 +1,5 @@
 ---
+
 title: "Technivorm Moccamaster 79112 KBT Coffee Brewer"
 seo_title: "Technivorm Moccamaster 79112 KBT Review: Worth It? (2026)"
 meta_description: "Our honest Technivorm Moccamaster 79112 KBT review: 5-star brew quality, 4.2-star Amazon rating. Is the $349 price justified? Find out."
@@ -11,14 +12,15 @@ review_count: 3240
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002S4DI2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nWUz7pEdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "SCA-certified 6-minute brew cycle hits the 195–205°F sweet spot every time; coffee tastes noticeably cleaner than $100 drip machines"
   - "Copper boiling element heats water to exactly 200°F and the 9-hole spray arm saturates grounds evenly — no channeling, no bitter over-extraction"
   - "Thermal carafe keeps coffee hot (not burnt) for 2+ hours with zero hot plate scalding"
-cons:
+cons: 
   - "Brew basket lid is friction-fit and pops off if you're clumsy — one in ten Amazon reviewers report this annoyance"
   - "No auto-shutoff timer or programmable brew; you're paying for brew quality, not convenience features"
   - "1.25L capacity (10 cups) is generous, but the carafe is top-heavy and tips easily if bumped"
+
 ---
 
 Let's cut through the hype: the Moccamaster 79112 KBT has a 4.2-star average across 3,240 Amazon ratings, and that gap between "loved it" and "meh" tells you something important. This is a $349 coffee brewer with zero programmable features, no app, and no timer. But it's also SCA-certified and made in the Netherlands with a copper boiling element that holds 200°F like a thermostat on steroids.

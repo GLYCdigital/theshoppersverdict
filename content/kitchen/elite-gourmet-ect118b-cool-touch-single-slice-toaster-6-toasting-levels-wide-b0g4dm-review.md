@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet ECT118B Cool Touch Single Slice Toaster, 6 Toasting Levels Wide B0G4DM Review"
 seo_title: "Elite Gourmet ECT118B Single Slice Toaster Review (2026)"
 meta_description: "Honest Elite Gourmet ECT118B single slice toaster review: 6 shade settings, cool-touch exterior, wide slots. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G4DMZXYF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fRwitxPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cool-touch exterior stays safe even after consecutive cycles — verified in multiple long-term reviews"
   - "Wide single slot accommodates bagels, thick artisan bread, and Texas toast without forcing"
   - "Six shade settings give genuine control — the difference between setting 2 and 5 is noticeable"
-cons:
+cons: 
   - "Single-slot design means breakfast for two takes twice as long — plan accordingly"
   - "No cancel or reheat button; you're committed once the lever drops"
   - "Crumb tray is shallow and slides out awkwardly — you'll wipe the counter more than you'd like"
+
 ---
 
 **The Elite Gourmet ECT118B is a niche player that earns its keep — if you're single, a minimalist, or have a tiny kitchen. It's a 6-shade, single-slice toaster that does one thing well, but it demands you accept its limitations.**

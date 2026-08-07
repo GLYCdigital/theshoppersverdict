@@ -1,4 +1,5 @@
 ---
+
 title: "Akkerds Case Compatible with iPad 10.2 Inch 2021/2020 iPad 9 inch"
 seo_title: "Akkerds iPad 10.2 Case Review (2021/2020): Worth It?"
 meta_description: "Akkerds iPad 10.2 case review: sturdy build, pencil holder, kickstand. See real pros, cons, and who should buy this 4.6-star budget case."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K3FPQLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-bOMwIe8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts for iPad 9th/8th/7th gen — buttons stay clicky, camera and speakers unblocked"
   - "Integrated Apple Pencil holder with a secure flap, not just a loose side loop"
   - "Dual-position kickstand locks firmly for both typing and viewing angles"
-cons:
+cons: 
   - "Adds noticeable bulk — this is protection-first, not sleek"
   - "No auto sleep/wake feature despite the smart cover style front flap"
+
 ---
 
 Let’s be honest: most iPad cases under $25 are either flimsy plastic shells or fabric sleeves that offer zero drop protection. The Akkerds Case for the iPad 10.2-inch (9th, 8th, and 7th gen) sits in a different category — it’s a rugged hybrid that actually tries to protect your tablet without making you wrestle with it every time you want to watch a video. After 229 Amazon ratings averaging 4.6 stars, it’s clearly doing something right. Here’s the breakdown you actually need.

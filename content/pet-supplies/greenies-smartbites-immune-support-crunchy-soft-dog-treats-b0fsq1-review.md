@@ -1,4 +1,5 @@
 ---
+
 title: "Greenies Smartbites Immune Support Crunchy & Soft Dog Treats"
 seo_title: "Greenies Smartbites Immune Support Review (2026): Worth It?"
 meta_description: "Honest Greenies Smartbites Immune Support review: crunchy & soft texture, real ingredients, and if the added vitamins justify the price. Read before buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSQ1KGD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lK-nzfprL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual texture (crunchy shell, soft center) keeps picky dogs engaged without crumbling into a mess"
   - "Added vitamins C and E plus omega-3s target immune health — a functional benefit most training treats don't offer"
   - "Under 15 calories per treat, making it viable for daily use with weight-conscious dogs"
-cons:
+cons: 
   - "Contains wheat and soy — not suitable for dogs with grain or legume sensitivities"
   - "Soft center can dry out and harden within a week or two if the resealable bag isn't pressed flat"
   - "At roughly $0.30–$0.50 per treat depending on size, it's pricier than basic training rewards"
+
 ---
 
 A dog treat that actually does something beyond tasting good? That's the pitch behind Greenies Smartbites Immune Support, and after digging through the specs and 235 verified buyer ratings, I'll tell you whether the functional claims hold up or if you're just paying for packaging.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Note Cards, Envelopes"
 seo_title: "Avery Printable Note Cards Review: 4.6-Star Stationery"
 meta_description: "Honest Avery Printable Note Cards review: 4.6-star rated. See print quality, envelope fit, paper thickness, and who should buy these. Real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GS4Z7HGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71di0oKaDlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, clean prints on both inkjet and laser printers with no smudging or ghosting"
   - "Sturdy 110 lb card stock that holds up to fountain pens without bleed-through"
   - "Perforated edges tear off cleanly, leaving a professional deckle-free finish"
-cons:
+cons: 
   - "Envelopes are standard weight — thinner than the cards themselves"
   - "No included templates for common design software beyond Avery's own suite"
+
 ---
 
 Most note card sets force you to choose between print quality and hand-written charm. The Avery Printable Note Cards with Envelopes try to deliver both, and with a 4.6-star average across 229 ratings, they're clearly doing something right. But are they worth your money for everyday correspondence, or are they better suited to specific use cases? Let's dig into what you're actually getting.

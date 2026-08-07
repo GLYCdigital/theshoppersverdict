@@ -1,4 +1,5 @@
 ---
+
 title: "DELTA FAUCET Lorelai Workstation Laundry Utility Kitchen Sin"
 seo_title: "Delta Lorelai Workstation Utility Sink Review: 16-Gauge Steel"
 meta_description: "Delta Lorelai workstation utility sink review: 16-gauge stainless steel, built-in accessories, and real-world laundry room performance. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJMQPR4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dMa9vgVnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-gauge stainless steel resists dents and flexing where cheaper 18-gauge sinks bow"
   - "Built-in workstation accessories (cutting board, drying rack) slide directly into the sink rails — no separate organizer needed"
   - "Undermount design with zero-radius corners makes wipe-down cleaning genuinely easy"
-cons:
+cons: 
   - "Accessories sold separately from the base sink — factor that into your total cost before ordering"
   - "Loud water impact without the optional sound-deadening pads; consider adding them at purchase"
   - "Deep bowl requires a taller faucet or gooseneck to avoid knuckle-busting when washing larger items"
+
 ---
 
 Let me be straight with you: most utility sinks are afterthoughts — flimsy stamped steel rectangles you hide in the garage. The Delta Lorelai isn't that. This is a workstation sink built for people who actually use their laundry room or mudroom as a working space, not just a place to dump dirty mops.

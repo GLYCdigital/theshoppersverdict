@@ -1,4 +1,5 @@
 ---
+
 title: "COMHOMA Electric Standing Desk with Drawers, 48 x 24 Sit Sta"
 seo_title: "COMHOMA Electric Standing Desk Review: Drawers & Dual Motor"
 meta_description: "COMHOMA 48x24 electric standing desk with drawers review: dual motor, memory presets, real-world durability. Find out if this sit-stand desk delivers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQTSGXGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EUzIEAuWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-motor lift handles up to 155 lbs with near-silent operation"
   - "Two built-in drawers save floor space and keep cables organized"
   - "Memory presets (4) with anti-collision tech for safe lowering"
-cons:
+cons: 
   - "48x24 surface is tight for dual-monitor setups with large speakers"
   - "Drawer runners feel slightly less premium than the desk frame"
   - "Assembly requires two people; hardware tolerances vary unit to unit"
+
 ---
 
 Most budget standing desks force you to choose between stability and storage. The COMHOMA 48x24 Electric Standing Desk with Drawers tries to give you both at a price that undercuts the big names. After digging through 220 ratings and the spec sheet, here's what actually matters before you click buy.

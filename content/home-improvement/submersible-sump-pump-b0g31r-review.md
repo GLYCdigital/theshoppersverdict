@@ -1,4 +1,5 @@
 ---
+
 title: "Submersible Sump Pump"
 seo_title: "Submersible Sump Pump Review: Verdict | TSV"
 meta_description: "Our full submersible sump pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G31R4P9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617OGnNR7DL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a sump pump isn't a glamorous purchase, but it's one of the few devices in your home that can prevent thousands of dollars in water damage. This submersible model from Amazon's catalog has earned a 4.1-star average across 204 ratings — respectable, but not stellar. Here's what that rating actually means for your basement.

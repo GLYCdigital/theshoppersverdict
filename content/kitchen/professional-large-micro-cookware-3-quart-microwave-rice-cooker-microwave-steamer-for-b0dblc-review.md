@@ -1,4 +1,5 @@
 ---
+
 title: "Professional Large Micro Cookware 3 Quart, Microwave Rice Co"
 seo_title: "Professional Large Micro Cookware 3 Quart, Microwa Review"
 meta_description: "Our full professional large micro cookware 3 quart, microwave rice co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBLCG8V3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610G2s8OtrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the rice cooker taking up counter space. This $29 microwave pot does the job in 15 minutes flat.**

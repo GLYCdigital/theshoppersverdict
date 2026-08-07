@@ -1,4 +1,5 @@
 ---
+
 title: "Sunny Health & Fitness Under Desk Pedal Elliptical Machine, "
 seo_title: "Sunny Health & Fitness Under Desk Pedal Elliptical Review"
 meta_description: "Our full sunny health & fitness under desk pedal elliptical machine,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY5YSZ7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most under-desk ellipticals are cheap plastic foot rockers that wobble after a week. The Sunny Health & Fitness Under Desk Pedal Elliptical Machine isn’t that. With 220 ratings averaging 4.4 stars, it’s one of the more dependable options in this crowded category — but it’s not perfect either. Here’s what you actually need to know before buying.

@@ -1,24 +1,26 @@
 ---
+
 title: "furtble Chest of Drawers, Drawer Dresser for Closet, Wood St"
 seo_title: "furtble Chest of Drawers Review: Worth It? (2026)"
 meta_description: "furtble Chest of Drawers review: 6-drawer dresser for closets & bedrooms. Real pros, cons, and buyer verdicts at 3.8 stars. Is it sturdy?"
 slug: "furtble-chest-of-drawers-drawer-dresser-for-closet-wood-storage-nightstand-for-b0gk6f-review"
 image_alt: "furtble 6-drawer wood chest of drawers with fabric bins, compact dresser for bedroom or closet storage"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 190  
-amazon_rating: 3.8  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 190
+amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GK6FNHLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l8c9g37AL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Six roomy fabric drawers hold more than the slim profile suggests — great for sweaters, jeans, or kids' clothes"  
   - "Assembles in under 30 minutes with labeled parts and a clear manual; no extra tools needed beyond the included hex key"  
   - "Lightweight at roughly 15 lbs, so it's easy to move room to room or reposition during cleaning"  
-cons:  
+cons: 
   - "Fabric drawers are collapsible — if you overload them, the sides bow and the drawer bottoms sag"  
   - "The 'wood' frame is actually engineered wood with a laminate finish; it scratches if you drag heavy items across the top"  
   - "No anti-tip wall anchor included, which is a safety miss for households with toddlers"
+
 ---
 
 **The furtble Chest of Drawers: A $60-ish storage solution that punches above its weight — until it doesn't.**

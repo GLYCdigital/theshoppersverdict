@@ -1,4 +1,5 @@
 ---
+
 title: "FOTOSOK 72 inch  Kitchen Pantry Storage Cabinets with Drawer, Fre"
 seo_title: "FOTOSOK 72 inch  Pantry Cabinet Review: Tall Storage, Real Value"
 meta_description: "FOTOSOK 72 inch  kitchen pantry cabinet review: 4.5-star rated freestanding cupboard with drawer and 4 doors. Is it worth it? Find out what buyers love and hate."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBCBWNQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sxsh8tCNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72-inch height provides serious vertical storage without eating floor space — fits tight kitchens and laundry rooms"
   - "Solid engineered wood construction with a smooth, easy-clean finish that looks pricier than it is"
   - "Four adjustable shelves plus a drawer give real flexibility for everything from canned goods to small appliances"
-cons:
+cons: 
   - "Assembly is a genuine time investment — plan for 2-3 hours with two people, not the 30 minutes the manual suggests"
   - "Drawer glide quality is the weak point; a few buyers report it sticking under heavier loads"
   - "No soft-close hinges — doors will slam if you're not careful, especially in high-traffic kitchens"
+
 ---
 
 If your kitchen looks like a tornado hit the pantry section, the FOTOSOK 72" Kitchen Pantry Storage Cabinet is the kind of vertical solution that actually makes a difference. This isn't a flimsy shelving unit that wobbles when you breathe on it — it's a proper piece of furniture designed to hold real weight and give your clutter a permanent home.

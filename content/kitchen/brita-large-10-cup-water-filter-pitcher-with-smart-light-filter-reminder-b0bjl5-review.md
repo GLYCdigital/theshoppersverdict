@@ -1,4 +1,5 @@
 ---
+
 title: "Brita Large 10 Cup Water Filter Pitcher with Smart Light Fil"
 seo_title: "Brita 10 Cup Pitcher Review: Smart Filter Reminder Worth It?"
 meta_description: "Honest Brita 10 Cup pitcher review: smart light filter reminder, capacity, build quality, and real tradeoffs. Is it worth upgrading? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJL5RDNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CbFkTGr0L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Smart Light filter indicator actually tracks real usage and water volume — not just calendar days like the old sticker system"
   - "10-cup capacity (2.5L) fits most refrigerator doors without the awkward height of the 12-cup models"
   - "Lid flips open with one thumb — no fumbling with a separate cap piece when refilling"
-cons:
+cons: 
   - "The smart light eats a small coin battery (CR2032) that you'll need to replace roughly every 6 months — not included in the box"
   - "At 10 cups filled, the pitcher gets noticeably heavy — pour carefully with one hand or use two"
+
 ---
 
 The Brita Large 10 Cup with Smart Light is the pitcher you buy when you're tired of guessing whether your filter is actually dead. For years, Brita's answer was a passive sticker that told you to change the filter in two months, regardless of whether you drank one glass a day or ten. This version finally fixes that — but it's not without quirks. Here's the real breakdown after digging through 225 ratings and the spec sheet.

@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Splash Hoop 2-in-1 Pool Basketball Hoop & Volleybal"
 seo_title: "GoSports Splash Hoop 2-in-1 Pool Basketball Hoop & Review"
 meta_description: "Our full gosports splash hoop 2-in-1 pool basketball hoop & volleybal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGFBY4HD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IwRyWVu3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The two-in-one pool toy that actually earns its keep**

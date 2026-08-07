@@ -1,4 +1,5 @@
 ---
+
 title: "MIGHTY FLEET Rescue Force FIRE Ladder Truck Toy"
 seo_title: "MIGHTY FLEET Rescue Force FIRE Ladder Truck Toy Review: V"
 meta_description: "Our full mighty fleet rescue force fire ladder truck toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MC6YX4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P973Y-6dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Fire trucks are a rite of passage. The MIGHTY FLEET Rescue Force Fire Ladder Truck aims to be the one that survives your kid's enthusiasm — and with a 4.7-star average across 235 ratings, it's clearly doing something right. But is it the right fire truck for your little responder? Here's the breakdown.

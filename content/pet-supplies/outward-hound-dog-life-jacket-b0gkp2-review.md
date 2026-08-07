@@ -1,4 +1,5 @@
 ---
+
 title: "Outward Hound Dog Life Jacket"
 seo_title: "Outward Hound Dog Life Jacket Review: Verdict | TSV"
 meta_description: "Our full outward hound dog life jacket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKP2TGW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LLwA5VIWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has ever looked at a lake like it's a personal challenge, you already know the panic of watching them paddle too hard against a current. The Outward Hound Dog Life Jacket is designed to turn that panic into a non-event. With a 4.5-star average across 225 ratings, it's clearly earning its keep on boat decks and shorelines — but it's not without quirks.

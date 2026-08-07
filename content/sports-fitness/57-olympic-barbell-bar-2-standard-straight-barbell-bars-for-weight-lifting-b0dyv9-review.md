@@ -1,4 +1,5 @@
 ---
+
 title: "57 inch  Olympic Barbell Bar, 2 inch  Standard Straight Barbell Bars f"
 seo_title: "57 inch  Olympic Barbell Bar Review: 2 inch  Standard Straight Bar"
 meta_description: "Honest 57 inch  Olympic barbell bar review: 2 inch  standard straight bar for weight lifting. Build, grip, durability tested. Real buyer quotes, pros, cons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYV99YTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AyxhPhPLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True Olympic 2-inch sleeve diameter fits standard bumper and iron plates without adapters"
   - "57-inch length is a smart middle ground — fits in tight home gyms while still loading heavy"
   - "Knurling is aggressive enough for grip without shredding your hands during high-rep sets"
-cons:
+cons: 
   - "Not a competition-grade bar — whip and tensile strength aren't rated for elite powerlifting"
   - "Sleeves spin freely but not as smooth as premium bearing bars; slight noise on heavy squats"
+
 ---
 
 The 57-inch Olympic barbell is the forgotten middle child of the barbell world. Most shoppers reflexively grab a 7-foot bar for a home gym, then realize their basement ceiling or storage corner isn't having it. That's where this compact bar earns its keep. With a 4.7-star average across 235 ratings, it's clearly filling a specific gap — but it's not for everyone. Let's break down who should buy it and who should scroll past.

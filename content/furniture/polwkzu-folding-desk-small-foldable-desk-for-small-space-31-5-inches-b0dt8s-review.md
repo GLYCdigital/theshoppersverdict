@@ -1,4 +1,5 @@
 ---
+
 title: "POLWKZU Folding Desk Small Foldable Desk for Small Space, 31"
 seo_title: "POLWKZU Folding Desk Small Foldable Desk for Small Review"
 meta_description: "Our full polwkzu folding desk small foldable desk for small space, 31 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT8S72WZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rtq2hhpML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The POLWKZU 31-inch folding desk is the answer to a very specific problem: you need a real work surface in a space that barely qualifies as a room.** Dorm corners, studio apartments, laundry nooks, bedroom gaps — this desk is built for the square footage you have, not the one you wish you had.

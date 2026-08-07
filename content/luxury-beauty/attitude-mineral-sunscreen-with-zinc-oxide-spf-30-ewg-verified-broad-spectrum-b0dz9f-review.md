@@ -1,4 +1,5 @@
 ---
+
 title: "ATTITUDE Mineral Sunscreen with Zinc Oxide, SPF 30, EWG Veri"
 seo_title: "ATTITUDE Mineral Sunscreen SPF 30 Review: EWG Verified"
 meta_description: "Honest ATTITUDE Mineral Sunscreen SPF 30 review: zinc oxide formula, EWG Verified, white cast issues, and who should buy it. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DZ9FZ1R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61k0rIHu5ZL._SL1500_.jpg"
-pros:
+pros: 
   - "EWG Verified with 20% non-nano zinc oxide — genuinely clean ingredients, no oxybenzone or octinoxate"
   - "Moisturizing formula with shea butter and jojoba oil that doesn't dry out skin like many mineral sunscreens"
   - "Fragrance-free and vegan, making it suitable for sensitive skin and rosacea-prone users"
-cons:
+cons: 
   - "Significant white cast that takes 5+ minutes of rubbing to blend — darker skin tones will struggle"
   - "Thick, creamy texture that pills under makeup and feels heavy on oily skin"
   - "No water-resistance claim — needs frequent reapplication if you sweat or swim"
+
 ---
 
 **The 3.8-star reality check: clean ingredients, but can your skin handle the cast?**

@@ -1,4 +1,5 @@
 ---
+
 title: "EXPRÂ® Premium Door Install Kit - Max Strength (Secures Both"
 seo_title: "EXPR Door Install Kit Review: Max Strength for Both Sides"
 meta_description: "EXPR door installation kit review: Max-strength security for both sides. See real pros, cons, and who should buy this 4.6-star kit."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JNVKQ2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91vPtQtHEOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reinforced steel brackets cover both door faces, not just the hinge side"
   - "All mounting hardware and drill guide included — no extra trips to the hardware store"
   - Fits standard 1-3/8 inch " and 1-3/4 inch " residential doors without modification
-cons:
+cons: 
   - Requires a 1 inch " hole saw or spade bit you may not already own
   - "Installation is permanent — removing the brackets leaves visible holes in the door"
   - "No template for non-standard door thicknesses or metal doors"
+
 ---
 
 Most door reinforcement kits are a half-measure. They beef up the strike plate or add a longer hinge screw and call it a day. The EXPR Premium Door Install Kit takes a different approach — it wraps the door itself in steel. As shown in the product image, this isn't a discreet add-on. It's a visible, industrial-strength upgrade that secures both faces of the door with interlocking brackets. Here's what 229 Amazon reviewers at a 4.6 average actually think after installing it.

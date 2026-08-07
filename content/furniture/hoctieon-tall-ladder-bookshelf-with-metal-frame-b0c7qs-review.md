@@ -1,4 +1,5 @@
 ---
+
 title: "Hoctieon Tall Ladder Bookshelf with Metal Frame"
 seo_title: "Hoctieon Tall Ladder Bookshelf with Metal Frame Review: V"
 meta_description: "Our full hoctieon tall ladder bookshelf with metal frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7QS5V5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gSvLoM0eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Hoctieon Tall Ladder Bookshelf is one of those Amazon finds that actually delivers on its promise — provided you know what you're getting into. With a 4.6 average across 229 ratings, it's clearly doing something right. Here's the honest breakdown.

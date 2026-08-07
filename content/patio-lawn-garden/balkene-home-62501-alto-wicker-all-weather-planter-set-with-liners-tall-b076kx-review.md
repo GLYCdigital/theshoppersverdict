@@ -1,4 +1,5 @@
 ---
+
 title: "Balkene Home 62501 Alto Wicker All-Weather Planter Set with"
 seo_title: "Balkene Home Alto Wicker Planter Set Review (2026)"
 meta_description: "Honest Balkene Home 62501 Alto Wicker Planter Set review: build quality, drainage, weather resistance, and who should buy it. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B076KX5PR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tT2eQmIAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-weather resin wicker won't crack, fade, or unravel like natural rattan in direct sun"
   - "Removable liners make repotting and seasonal swaps genuinely easy — no digging"
   - "Tall profile gives real visual height on porches and balconies without taking up floor space"
-cons:
+cons: 
   - "No drainage holes in the wicker shell — you must monitor liner water levels carefully"
   - "Assembly requires a Phillips screwdriver and about 15 minutes per planter; not fully pre-assembled"
+
 ---
 
 # Balkene Home Alto Wicker Planter Set: The Tall, Tough, Good-Looking Option for Outdoor Planters

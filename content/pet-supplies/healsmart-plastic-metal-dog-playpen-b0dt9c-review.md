@@ -1,4 +1,5 @@
 ---
+
 title: "HealSmart Plastic/Metal Dog Playpen"
 seo_title: "HealSmart Plastic/Metal Dog Playpen Review: Verdict | TSV"
 meta_description: "Our full healsmart plastic/metal dog playpen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT9C78V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-RNjghl1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most dog playpens are either too flimsy to contain a determined chewer or too heavy to move from room to room. The HealSmart Plastic/Metal Dog Playpen tries to split that difference, and for the most part, it works. With 225 ratings averaging 4.5 stars, owners are mostly happy — but not everyone, and the complaints are worth hearing before you buy.

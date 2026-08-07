@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Perfectly Clean Multi-Action Foaming Face Wash"
 seo_title: "Estée Lauder Perfectly Clean Foaming Face Wash Review (2026)"
 meta_description: "Honest Estée Lauder Perfectly Clean Multi-Action Foaming Face Wash review: lather, ingredients, skin type fit, and whether this 4.8-star cleanser is worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07YF5S2ZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615PhnxT5ML._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves makeup and sunscreen in one pass without a tight, stripped feeling"
   - "A pea-sized amount produces dense, cushiony foam — one tube lasts 3+ months"
   - "Fragrance is light and spa-like, not the heavy department-store perfume you'd expect"
-cons:
+cons: 
   - "The pump dispenser is stingy — you'll need 2-3 presses for a full face, and it can clog near the end"
   - "Contains sodium lauryl sulfate; truly dry or sensitive skin may find it too cleansing for daily AM/PM use"
+
 ---
 
 The 4.8-star average on this cleanser isn't an accident, but it's also not the whole story. Estée Lauder's Perfectly Clean Multi-Action Foaming Face Wash walks a careful line: it's thorough enough to remove stubborn sunscreen and light makeup, yet it doesn't leave your face feeling like a drumhead. That's harder to pull off than most brands make it look.

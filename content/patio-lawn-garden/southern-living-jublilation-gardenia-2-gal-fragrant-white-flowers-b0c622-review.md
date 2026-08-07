@@ -1,4 +1,5 @@
 ---
+
 title: "Southern Living Jublilation Gardenia, 2 Gal, Fragrant White "
 seo_title: "Southern Living Jublilation Gardenia, 2 Gal, Fragr Review"
 meta_description: "Our full southern living jublilation gardenia, 2 gal, fragrant white  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C6223JQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u8I2dDihL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Gardenias have a reputation problem: they’re gorgeous for three weeks in May, then sulk for the rest of the summer. The Southern Living Jublilation Gardenia (2 Gal) is explicitly bred to break that cycle. It’s a reblooming variety that pushes fragrant white flowers from late spring through fall, which is the single biggest reason it holds a 4.2-star average across 210 Amazon ratings.

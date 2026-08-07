@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Viper"
 seo_title: "Razer Viper Review: Verdict | TSV"
 meta_description: "Our full razer viper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CM876Y4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818IrfC2DpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the preamble: the Razer Viper is a 69-gram wired mouse that's been dominating esports setups for years, and the current version (B0CM876Y4T) keeps that formula intact. With a 4.6/5 average across 229 Amazon ratings, it's clearly doing something right. But is it the right mouse for *your* desk? Here's what I found after putting it through real workflow — not just frag sessions.

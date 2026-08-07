@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie Chelsea Doll & Toy Horse Set, Includes Helmet Accesso"
 seo_title: "Barbie Chelsea Doll & Horse Set Review: Worth It? (2026)"
 meta_description: "Honest Barbie Chelsea Doll & Toy Horse Set review: posability, accessories, size, and value. See what 240+ buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CB6L6HGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tof04EryL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chelsea doll has articulated legs that actually bend to fit the saddle — rare for small dolls in this price range"
   - "Horse is well-proportioned for Chelsea's 6-inch scale, not oversized like many toy horse sets"
   - "Helmet fits snugly and stays on during play, a detail parents consistently mention"
-cons:
+cons: 
   - "Saddle clips are fiddly for younger kids (under 4) to attach independently"
   - "No additional outfits or grooming accessories — what you see is what you get"
+
 ---
 
 Let's be direct: most toy horse-and-doll sets are a mess. The horse is comically oversized, the doll tips over constantly, and the "riding" mechanism is a marketing fantasy. The Barbie Chelsea Doll & Toy Horse Set is not that. Here's the real breakdown.

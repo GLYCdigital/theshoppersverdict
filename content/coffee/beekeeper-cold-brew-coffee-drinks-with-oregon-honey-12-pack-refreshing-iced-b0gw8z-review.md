@@ -1,4 +1,5 @@
 ---
+
 title: "Beekeeper Cold Brew Coffee Drinks with Oregon Honey | 12 Pac"
 seo_title: "Beekeeper Cold Brew Coffee Review: Honey-Sweetened 12 Pack"
 meta_description: "Honest Beekeeper Cold Brew review: honey-sweetened 12-pack, real Oregon honey, smooth low-acid taste. See if these ready-to-drink cans are worth it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GW8ZJ888/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bXThV+zVL._SL1500_.jpg"
-pros:
+pros: 
   - "Sweetened exclusively with real Oregon honey — no refined sugar or artificial sweeteners in the ingredient list"
   - "Smooth, low-acid cold brew that's noticeably gentler on the stomach than hot-brewed iced coffee"
   - "Convenient 10.5-ounce cans that fit in a standard cupholder and need no refrigeration until opened"
-cons:
+cons: 
   - "Honey flavor is subtle — if you're expecting a strong honey-forward taste, you'll be disappointed"
   - "Sweetness level is fixed; there's no unsweetened or lightly-sweetened option in this 12-pack"
   - "At roughly $2.50–$3 per can depending on seller pricing, it's pricier than making cold brew at home"
+
 ---
 
 If you've ever winced at the bitter bite of mass-market iced coffee, the Beekeeper Cold Brew pitch is simple: coffee sweetened only with Oregon honey, slow-steeped for 16 hours, and canned for grab-and-go convenience. After working through a full 12-pack, here's the honest breakdown.

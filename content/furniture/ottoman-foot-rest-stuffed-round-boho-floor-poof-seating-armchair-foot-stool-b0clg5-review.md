@@ -1,4 +1,5 @@
 ---
+
 title: "Ottoman Foot Rest Stuffed, Round Boho Floor Poof Seating,Arm"
 seo_title: "Ottoman Foot Rest Stuffed, Round Boho Floor Poof S Review"
 meta_description: "Our full ottoman foot rest stuffed, round boho floor poof seating,arm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLG53SY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M0SWwBd5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Boho Floor Poof That Does Triple Duty

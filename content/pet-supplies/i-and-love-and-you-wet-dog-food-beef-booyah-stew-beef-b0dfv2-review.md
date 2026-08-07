@@ -1,4 +1,5 @@
 ---
+
 title: "I and Love and You Wet Dog Food - Beef Booyah Stew - Beef Re"
 seo_title: "I and Love and You Wet Dog Food - Beef Booyah Stew Review"
 meta_description: "Our full i and love and you wet dog food - beef booyah stew - beef re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DFV2STRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71McBW5QFbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns up their nose at kibble, the I and Love and You Beef Booyah Stew might just be the spoonful of persuasion you need. This grain-free wet food has carved out a loyal following among picky-eater owners, and at 4.2 stars across 210 ratings, it's worth understanding why — and where it stumbles.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Sunny Starscout Audio Toy Figurine from My Little Pon"
 seo_title: "Tonies Sunny Starscout Audio Toy Figurine from My  Review"
 meta_description: "Our full tonies sunny starscout audio toy figurine from my little pon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B4TC3PLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qakYm6EaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has a Toniebox, you already know the drill: you buy the cute little figurine, plop it on top, and the magic happens. The Tonies Sunny Starscout from *My Little Pony: A New Generation* is exactly that — a palm-sized collectible that delivers pony-powered audio entertainment. But is it worth adding to your growing Tonie collection? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Autowriter Markers Box of 12 Assorted Writing Pens"
 seo_title: "Autowriter Markers Box of 12 Review: Worth Buying? (2026)"
 meta_description: "Honest Autowriter Markers Box of 12 review: vibrant colors, smooth ink, but watch for tip durability. See what 240+ buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B009AM9X4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716BD4zrhkL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Vibrant, saturated ink that doesn't bleed through standard 20-lb printer paper"
   - "Fine 0.7mm tip delivers consistent lines — good for coloring books and journaling"
   - "Snap-fit caps stay secure; markers survive being tossed in a pencil case"
-cons:
+cons: 
   - "Tip dries out fast if left uncapped — even 10 minutes can affect performance"
   - "No color chart on the box; you get 12 random shades, so duplicates feel wasteful"
+
 ---
 
 Let’s be straight: the **Autowriter Markers Box of 12** looks like every other budget marker set on Amazon. But with a 4.8-star average from 240 ratings, something’s working here. I’ve tested these against comparable sets in the $8–$15 range, and here’s what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "MELLCOM Louvered Pergola with Adjustable Louvered Roof for P"
 seo_title: "MELLCOM Louvered Pergola with Adjustable Louvered  Review"
 meta_description: "Our full mellcom louvered pergola with adjustable louvered roof for p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY5226TK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JUCGGhXpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the MELLCOM Louvered Pergola worth your backyard budget?** Most pergolas under $1,000 are fixed-roof boxes that give you all sun or all shade. This one actually gives you control—but control comes with assembly tradeoffs. Here's what 220 buyers (averaging 4.4 stars) discovered after living with it.

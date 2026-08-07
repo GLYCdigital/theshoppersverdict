@@ -1,4 +1,5 @@
 ---
+
 title: "Deeper PRO+ 2 Sonar Fish Finder - Portable Fish Finder and D"
 seo_title: "Deeper PRO+ 2 Sonar Fish Finder Review: Portable & Smart"
 meta_description: "Deeper PRO+ 2 sonar fish finder review: portable castable depth finder with GPS mapping. Real angler feedback on range, battery, and app reliability."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09BD7YYFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dfQUOtf5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-frequency CHIRP sonar (100kHz/240kHz) delivers sharp target separation down to 90m, actually usable for deep trolling or ice fishing"
   - "Built-in GPS with 10,000+ waypoint storage lets you map drop-offs and hotspots without needing a separate chartplotter"
   - "Up to 9-hour battery life on a single charge, with USB-C recharging — practical for full-day trips"
-cons:
+cons: 
   - "Wi-Fi range struggles beyond 40m on choppy water, causing signal dropouts exactly when fish show up"
   - "No vibration or audible alert when the unit powers off mid-session — you'll discover it's dead only when the app freezes"
   - "Plastic housing feels less rugged than the price suggests; several reviewers report cracked seams after repeated shoreline casting"
+
 ---
 
 ## The castable sonar that thinks it's a fish finder

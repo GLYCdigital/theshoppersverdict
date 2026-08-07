@@ -1,4 +1,5 @@
 ---
+
 title: "067H 067 Black Toner Cartridge - 067 Toner High Yield Replac"
 seo_title: "067H 067 Black Toner Cartridge Review: High-Yield Value for Canon"
 meta_description: "Honest 067H high-yield black toner cartridge review: print quality, page yield, compatibility, and value vs. OEM Canon. Is it worth $45.99?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLZJ3RJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AKFvrsohL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Prints crisp, dark black text with no smudging or streaking on standard copy paper"
   - "High-yield rating translates to roughly 3,100 pages — about double the standard 067 cartridge"
   - "Solid third-party value at roughly half the price of the Canon OEM high-yield version"
-cons:
+cons: 
   - "Chip occasionally throws a 'toner low' warning early — printer may show 10-15% remaining when none actually is"
   - "Some users report occasional horizontal banding on dense black fills, not on regular text"
+
 ---
 
 If you own a Canon imageCLASS printer that takes the 067 cartridge, you already know the sting of OEM pricing. The Canon 067H high-yield runs anywhere from $80 to $100 on a good day. This third-party replacement from a generic brand sits at $45.99 and promises the same 3,100-page yield. That's a compelling gap — but does it hold up on paper? I've dug through the 220 ratings, the 4.4-star average, and the recurring buyer feedback to give you the real story before you click buy.

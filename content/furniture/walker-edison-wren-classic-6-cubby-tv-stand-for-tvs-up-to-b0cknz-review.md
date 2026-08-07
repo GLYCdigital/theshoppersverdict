@@ -1,4 +1,5 @@
 ---
+
 title: "Walker Edison Wren Classic 6 Cubby TV Stand for TVs up to 80"
 seo_title: "Walker Edison Wren Classic 6 Cubby TV Stand for TV Review"
 meta_description: "Our full walker edison wren classic 6 cubby tv stand for tvs up to 80 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKNZM1HS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tx64HfkjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The $200 solution to your 80-inch TV problem

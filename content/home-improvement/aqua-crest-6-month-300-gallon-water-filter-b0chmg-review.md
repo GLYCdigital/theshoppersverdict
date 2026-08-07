@@ -1,4 +1,5 @@
 ---
+
 title: "AQUA CREST 6 Month 300 Gallon Water Filter"
 seo_title: "AQUA CREST 6 Month 300 Gallon Water Filter Review"
 meta_description: "In-depth AQUA CREST 6-month 300-gallon water filter review: performance, real user feedback, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHMG19NL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tAPy7xQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Certified reduction of 70+ contaminants including lead, chlorine, and VOCs — not just a sediment screen"
   - "6-month/300-gallon rated lifespan cuts replacement frequency in half vs. standard 3-month filters"
   - "Tool-free twist-and-lock installation with universal fit for major refrigerator brands"
-cons:
+cons: 
   - "Initial 3-5 gallon priming flush required — some users ignore this and get carbon dust in their ice maker"
   - "Not compatible with every refrigerator model — check your fridge's filter housing before buying"
+
 ---
 
 Let's cut through the noise: most fridge filters are overpriced carbon bricks that do the bare minimum. The AQUA CREST 6 Month 300 Gallon filter claims to double the lifespan of a standard filter while maintaining contaminant reduction. After digging through the specs and 235 verified buyer ratings, here's the real story.

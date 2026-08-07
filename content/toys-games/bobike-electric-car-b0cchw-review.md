@@ -1,4 +1,5 @@
 ---
+
 title: "Bobike Electric car"
 seo_title: "Bobike Electric Car Review: Real Kid-Powered Fun or Gimmick?"
 meta_description: "Bobike Electric car review: 4.1-star ride-on toy. Tested for power, battery life, build quality. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CCHWF84J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JA5Gb3kML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Parent remote control gives adults override capability when the child driver loses interest or aim"
   - "Working LED headlights and horn add real-vehicle feel that holds kids' attention beyond the first week"
   - "12V battery delivers roughly 60-90 minutes of continuous driving on flat pavement, per owner reports"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and roughly 45-60 minutes; some axle alignment issues reported"
   - "Plastic body panels scuff easily on rough concrete; not built for off-road use despite the rugged tires"
+
 ---
 
 The Bobike Electric car sits in a crowded market of ride-on toys, but it's earned a solid 4.1-star average across 204 Amazon ratings for a reason. It's not the cheapest, not the fastest, and definitely not the most luxurious. What it is, however, is a dependable, feature-packed electric ride-on that most kids will genuinely love — and that parents won't hate to assemble, charge, and maintain.

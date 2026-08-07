@@ -1,5 +1,6 @@
 ---
 
+
 title: "CRYSTAL GEYSER SINCE 1977 Alpine 100% Natural Spring Water,"
 seo_title: "Crystal Geyser Alpine Spring Water Review: 16.9oz Bottles"
 meta_description: "Crystal Geyser Alpine Spring Water 16.9oz bottle review: taste, packaging, and value. See what 150 Amazon buyers say before you buy."
@@ -12,13 +13,14 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0CHC9PP3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/914aquoO+rL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, neutral taste with no plastic aftertaste when stored properly"
   - "Consistent 16.9oz bottle size fits standard cupholders and coffee maker reservoirs"
   - "100% natural spring water sourced from protected California springs since 1977 inch"
-cons:
+cons: 
   - "Thin, flimsy bottles that crush easily during shipping — multiple reports of leaks"
   - "Quality varies by batch; some buyers report a stale or flat taste"
+
 
 ---
 

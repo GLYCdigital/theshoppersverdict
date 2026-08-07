@@ -1,4 +1,5 @@
 ---
+
 title: "CXWXC Bike Basket - Handmade Rattan Bike Baskets for Girls W"
 seo_title: "CXWXC Rattan Bike Basket Review: Handmade & Durable (2026)"
 meta_description: "Our CXWXC rattan bike basket review covers real-world durability, fit, and style. See what 229 buyers say about this handmade front basket."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8ZJXZLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RzJlmE5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real woven rattan (not plastic) with a clear protective coating that survives light rain"
   - "Universal mounting bracket fits most handlebars from 22mm to 31.8mm without tools"
   - "Sturdy metal frame underneath holds up to 11 lbs — enough for a purse, groceries, or a small dog"
-cons:
+cons: 
   - "The rattan weave has minor cosmetic inconsistencies — natural material, but perfectionists may notice"
   - "No drainage holes, so standing water after heavy rain needs manual drying"
   - "The leather strap buckle is decorative more than functional for securing tall items"
+
 ---
 
 Let me be blunt: most “rattan” bike baskets on Amazon are plastic molded to look like wicker. The CXWXC is not that. What shows up at your door is actually woven from natural rattan strips, wrapped around a welded metal frame, and finished with a clear lacquer that gives it a warm honey-amber glow. As shown in the product image, it looks like something from a Parisian street market, not a warehouse in Shenzhen. That alone justifies a second look.

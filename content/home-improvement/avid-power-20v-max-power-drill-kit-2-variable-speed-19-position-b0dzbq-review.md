@@ -1,4 +1,5 @@
 ---
+
 title: "AVID POWER 20V MAX Power Drill Kitï¼Œ 2 Variable Speedï¼Œ 19 inch"
 seo_title: "AVID POWER 20V MAX Drill Kit Review: 19+1 Clutch, 2 Speeds"
 meta_description: "Honest AVID POWER 20V MAX drill kit review: 19+1 clutch, 2-speed gearbox, 24 accessories. Does it beat DeWalt? Real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZBQZQ95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714ybhV6IbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "19+1 clutch positions give precise torque control from delicate cabinet screws to 1.5-inch deck screws"
   - "Two-speed gearbox (0-400 / 0-1,500 RPM) actually delivers usable low-end torque, not just marketing numbers"
   - "Included 24-piece accessory kit covers 90% of homeowner tasks — bits, sockets, and driver heads in one box"
-cons:
+cons: 
   - "Battery life is middling — expect 40-60 minutes of intermittent drilling, not all-day framing work"
   - "Chuck is keyed rather than keyless, so bit changes require the included wrench (easy to misplace)"
+
 ---
 
 The $50 drill aisle is crowded with plastic-bodied toys that stall on the first screw. The AVID POWER 20V MAX stands apart — and a 4.3-star average across 215 ratings confirms it's not just another Amazon special. But is it the right drill for *your* toolbox? Let's dig past the marketing.

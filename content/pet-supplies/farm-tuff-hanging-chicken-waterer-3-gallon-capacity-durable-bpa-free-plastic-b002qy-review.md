@@ -1,4 +1,5 @@
 ---
+
 title: "FARM-TUFF Hanging Chicken Waterer, 3 Gallon Capacity - Durab"
 seo_title: "FARM-TUFF 3 Gallon Chicken Waterer Review (2026): Durable?"
 meta_description: "Honest FARM-TUFF 3-gallon hanging chicken waterer review. Covers durability, leaks, cleaning ease, and real flock-owner feedback. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002QYDWHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-w.amazon.com/images/I/71VTzlmt8VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-gallon capacity means fewer refill trips; most competing 'hanging' models max out at 2 gallons"
   - "Heavy-duty polypropylene walls resist cracking in sub-freezing temps better than thinner cheap brands"
   - "Twist-off base with 4 drinking ports handles 6-8 hens comfortably without crowding"
-cons:
+cons: 
   - "The hanging rope included is thin — upgrade to chain or wire if you have aggressive or heavy breeds"
   - "Cleaning requires fully disassembling; the base grooves trap algae if you skip weekly scrubbing"
+
 ---
 
 If you keep more than a handful of hens, you already know the daily water shuffle — fill, haul, refill, repeat. The FARM-TUFF 3-gallon hanging waterer attacks that chore head-on. But does the 4.2-star average from 210 raters hold up in real coops? Let's dig into the details that matter.

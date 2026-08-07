@@ -1,4 +1,5 @@
 ---
+
 title: "1913A3-06Y8 shower system review"
 seo_title: "1913A3-06Y8 Shower System Review: Honest Buyer's Guide"
 meta_description: "1913A3-06Y8 shower system review: 4.6/5 from 229 ratings. Real performance data, build quality, pros, cons, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNQTQRTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6130jp6Gz4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushed nickel finish resists water spots and fingerprints far better than chrome — stays cleaner between wipes"
   - "Diverter valve lets you run rainfall head and handheld simultaneously, not just one or the other"
   - "Includes 60-inch stainless steel hose — long enough for tall users and reach into a tub"
-cons:
+cons: 
   - "No pressure-balancing valve included — if your home has older plumbing, expect temperature fluctuations when someone flushes"
   - "Mounting hardware is basic; the anchors supplied won't cut it for tile over cement board, plan to buy your own"
+
 ---
 
 **The short version:** If you're remodeling a bathroom and want that spa-style rainfall shower without paying spa-style prices, the 1913A3-06Y8 delivers on the essentials. It's not a $600 fixture — and it doesn't try to be — but for most homeowners, this system hits a sweet spot between function and cost. Here's the breakdown after digging through the specs and 229 verified buyer experiences.

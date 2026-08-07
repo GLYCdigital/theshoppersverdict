@@ -1,4 +1,5 @@
 ---
+
 title: "Suiforlun 14 Inch Gel Memory Foam Hybrid Mattress with Rayon"
 seo_title: "Suiforlun 14 Inch Gel Memory Foam Hybrid Mattress  Review"
 meta_description: "Our full suiforlun 14 inch gel memory foam hybrid mattress with rayon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRGMRV8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91YzxICR4RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a hybrid mattress under $500, you've probably noticed a pattern: most "hybrids" at this price are just a slab of foam with a few coils sprinkled in. The Suiforlun 14-inch Gel Memory Foam Hybrid is different, and it's worth understanding why before you click "add to cart."

@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Kids Mango & Carrot Shampoo and Conditioner Set"
 seo_title: "SheaMoisture Kids Mango & Carrot Shampoo and Condi Review"
 meta_description: "Our full sheamoisture kids mango & carrot shampoo and conditioner set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00IX2J9E0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tlGxk+6qL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled a squirming toddler through bath time, you know the shampoo aisle is a minefield of tear-free promises and fragrance bombs. The SheaMoisture Kids Mango & Carrot Shampoo and Conditioner Set is one of the few that actually earns its 4.5-star rating—but it’s not perfect for every hair type. Here’s the breakdown before you add it to your cart.

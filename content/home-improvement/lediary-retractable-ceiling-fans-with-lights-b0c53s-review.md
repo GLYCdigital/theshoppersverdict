@@ -1,4 +1,5 @@
 ---
+
 title: "LEDIARY Retractable Ceiling Fans with Lights"
 seo_title: "LEDIARY Retractable Ceiling Fans with Lights Review: Verd"
 meta_description: "Our full lediary retractable ceiling fans with lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C53SHD67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KnkNGxXwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever looked at a ceiling fan and thought, “That’s an eyesore,” the LEDIARY retractable model is designed for you. This isn’t just another fan — it’s a fixture that disappears when not in use. The blades retract into the motor housing, leaving a clean, minimalist disc flush against your ceiling. At 4.4 stars from 220 ratings, it’s clearly winning fans. But does the clever engineering hold up in daily use? I dug into the specs and buyer feedback to find out.

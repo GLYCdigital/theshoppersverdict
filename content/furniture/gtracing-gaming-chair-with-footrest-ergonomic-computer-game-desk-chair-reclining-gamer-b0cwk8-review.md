@@ -1,4 +1,5 @@
 ---
+
 title: "GTRACING Gaming Chair with Footrest, Ergonomic Computer Game"
 seo_title: "GTRACING Gaming Chair with Footrest Review (2026): Worth It?"
 meta_description: "Honest GTRACING gaming chair review: footrest comfort, ergonomic support, build quality, and who should buy. Real user feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWK8XMGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kE+BEunWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-length footrest that actually extends and locks, making it one of the few chairs under $200 with a usable recline-to-nap setup"
   - "Thick 4-inch cushion foam that holds shape after 6+ months of daily 8-hour sessions, per multiple long-term owner reports"
   - "Adjustable lumbar pillow and headrest cushions that are contoured, not flat slabs — they stay put and provide real lower-back support"
-cons:
+cons: 
   - "Seat base is on the narrower side (about 20 inches wide), which is tight for bigger frames or anyone who likes to sit cross-legged"
   - "Assembly takes 35–45 minutes and the included Allen wrench is soft metal — plan to use your own hex set to avoid stripped bolts"
+
 ---
 
 Let's cut through the racing stripe marketing. The GTRACING gaming chair with footrest sits in a crowded field of sub-$200 "racer-style" seats that all look identical. But this one keeps popping up in "best budget gaming chair" discussions for a reason. After digging through 225 ratings and long-term owner feedback, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Slipstick Gorilla Outdoor Patio Chair Leg Caps for Wrought I"
 seo_title: "Slipstick Gorilla Outdoor Patio Chair Leg Caps for Review"
 meta_description: "Our full slipstick gorilla outdoor patio chair leg caps for wrought i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1WBTKGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8130SxLmF7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that sound — the metal-on-concrete screech every time someone drags a wrought iron patio chair. It's not just annoying; it's slowly grinding your deck's finish to dust. The Slipstick Gorilla leg caps exist to kill that noise and protect your flooring. But do they actually stay put, or are you buying a bag of frustration?

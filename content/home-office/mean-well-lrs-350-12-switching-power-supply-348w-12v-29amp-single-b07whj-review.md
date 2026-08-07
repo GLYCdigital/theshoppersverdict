@@ -1,4 +1,5 @@
 ---
+
 title: "MEAN WELL LRS-350-12 Switching Power Supply 348W 12V 29Amp S"
 seo_title: "MEAN WELL LRS-350-12 Switching Power Supply 348W 1 Review"
 meta_description: "Our full mean well lrs-350-12 switching power supply 348w 12v 29amp s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07WHJF1Q8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fQ5y8ZrPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a 3D printer enclosure, LED lighting rig, or CNC controller, the power supply is the last component you want to cheap out on. The MEAN WELL LRS-350-12 sits in a sweet spot: it's a genuine 348-watt unit that actually delivers its rated 29 amps, not some inflated number from a knockoff brand. With 235 Amazon ratings averaging 4.7 stars, it's clearly earned its reputation. But is it the right supply for *your* project? Let's dig in.

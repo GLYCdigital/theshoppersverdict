@@ -1,4 +1,5 @@
 ---
+
 title: "AECOJOY Shed, Outdoor Lean to Storage Sheds & Outdoor Storag"
 seo_title: "AECOJOY Lean-To Shed Review: Worth It? (2026)"
 meta_description: "Honest AECOJOY lean-to shed review: build quality, weather resistance, assembly time, and real buyer feedback. Is this 3.9-star outdoor storage worth your money?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F1TTYK2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71imwCij5jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Galvanized steel frame with rust-resistant coating holds up through rain and snow"
   - "Lean-to design fits tight spaces against house walls or fences—no wasted yard"
   - "Sloped roof sheds water quickly; lockable door adds security for tools"
-cons:
+cons: 
   - "Assembly requires two people and 3–4 hours; instructions are occasionally vague"
   - "Floor is not included—you'll need to build a base or set on concrete"
   - "Side panels flex in high winds if not anchored to a solid surface"
+
 ---
 
 Let me be straight with you: at 3.9 stars across 195 ratings, the AECOJOY lean-to shed is neither a home run nor a disaster. It's a budget-friendly storage solution with a specific use case—and knowing that use case before you buy is the difference between a five-star experience and a return label.

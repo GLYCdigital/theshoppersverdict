@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 48-22-3100 Marker, 1 mm Tip, Black, Pack of 36"
 seo_title: "Milwaukee 48-22-3100 Marker, 1 mm Tip, Black, Pack Review"
 meta_description: "Our full milwaukee 48-22-3100 marker, 1 mm tip, black, pack of 36 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01LXTQK1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tDGEfiiHL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most fine-tip markers are an afterthought tossed into a drawer, destined to dry out before you need them again. The Milwaukee 48-22-3100 is not that marker. This is a 36-pack of 1mm black fine-tip markers engineered for people who mark things for a living — framers, electricians, plumbers, sheet metal workers — and then forget the marker on a beam for three weeks.

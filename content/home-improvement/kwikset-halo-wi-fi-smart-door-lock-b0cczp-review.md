@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Halo Wi-Fi Smart Door Lock"
 seo_title: "Kwikset Halo Wi-Fi Smart Door Lock Review: Verdict | TSV"
 meta_description: "Our full kwikset halo wi-fi smart door lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CCZPQFZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716D9J87HbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kwikset Halo is a smart lock that skips the hub. Most Wi-Fi deadbolts in this price bracket force you to buy a separate bridge — a $50–80 accessory that eats a USB port and adds another point of failure. The Halo has Wi-Fi built directly into the lock body, which is a bigger deal than it sounds. You mount it, pair it with the Kwikset app, and you're done. No extra hardware cluttering your router shelf.

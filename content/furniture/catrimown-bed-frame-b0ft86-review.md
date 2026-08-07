@@ -1,4 +1,5 @@
 ---
+
 title: "Catrimown Bed Frame"
 seo_title: "Catrimown Bed Frame Review: Sturdy, Stylish, Worth It?"
 meta_description: "Catrimown Bed Frame review: 4.2-star rated. We analyze build quality, assembly, and value for your money. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FT86NFC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ik0bvpawL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero clearance under-bed storage maximizes small bedroom space"
   - "Reinforced steel slats rated for 800+ lbs — no box spring required"
   - "Assembly is genuinely tool-free with snap-lock joints (most buyers finish in under 30 minutes)"
-cons:
+cons: 
   - "Low profile means under-bed storage is limited to flat bins — no tall containers"
   - "Some buyers report the headboard feels slightly wobbly if you lean against it hard"
+
 ---
 
 **Bottom line: The Catrimown Bed Frame is a solid, no-nonsense platform bed that prioritizes function over frills.** With a 4.2-star average across 210 ratings, it's clearly doing something right — but it's not without tradeoffs. Here's the unvarnished truth for anyone weighing this against the endless sea of Amazon bed frames.

@@ -1,4 +1,5 @@
 ---
+
 title: "TKYZ Center Console Dog Car Seat,Pet Puppy Middle Console Do"
 seo_title: "TKYZ Center Console Dog Car Seat,Pet Puppy Middle  Review"
 meta_description: "Our full tkyz center console dog car seat,pet puppy middle console do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKJ4LK42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qgGbwFbtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your small dog spends every car ride trying to climb into your lap while you're driving, the TKYZ Center Console Dog Car Seat is the $30-ish fix you didn't know you needed. It turns that useless space between the front seats into a secure perch, so your pup can see out the windshield instead of scrambling around your gearshift. With 225 ratings averaging 4.5 stars, it's clearly working for most owners — but it's not right for every dog or every vehicle. Here's the real breakdown.

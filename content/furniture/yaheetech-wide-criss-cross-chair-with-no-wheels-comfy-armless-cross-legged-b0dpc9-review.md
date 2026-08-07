@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Wide Criss Cross Chair with No Wheels,Comfy Armles"
 seo_title: "Yaheetech Wide Criss Cross Chair with No Wheels,Co Review"
 meta_description: "Our full yaheetech wide criss cross chair with no wheels,comfy armles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPC9M9N1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rcIq7ibRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the criss cross chair trend usually means sacrificing width for style. Most of these chairs squeeze you into a 19-inch seat and hope you don't notice. The Yaheetech Wide version isn't playing that game — and that's why it's sitting at 4.6 stars across 229 ratings.

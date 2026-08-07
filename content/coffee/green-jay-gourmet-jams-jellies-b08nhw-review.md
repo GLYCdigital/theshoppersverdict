@@ -1,4 +1,5 @@
 ---
+
 title: "Green Jay Gourmet Jams & Jellies"
 seo_title: "Green Jay Gourmet Jams & Jellies Review: Verdict | TSV"
 meta_description: "Our full green jay gourmet jams & jellies review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08NHWSRRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o4jIEostL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the shelf at the grocery store: row after row of identical strawberry preserves, all tasting vaguely like sugar with a hint of red. Green Jay Gourmet's jams and jellies are not that. This is a small-batch operation that treats fruit like the star, not the afterthought. If you're tired of spreads that taste like they were engineered in a lab, this one deserves a closer look — but let's be clear about what you're getting for the money.

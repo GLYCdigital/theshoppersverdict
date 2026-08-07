@@ -1,4 +1,5 @@
 ---
+
 title: "CHANDAT Flower Hair Clips 6 PCS Hawaiian Claw Clips for Vaca"
 seo_title: "CHANDAT Flower Hair Clips Review: 6-Pack Hawaiian Claws"
 meta_description: "CHANDAT flower hair clips 6-pack review: Do these Hawaiian claw clips hold thick hair? Sizing, grip strength, and real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC52Z8CK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DhPjEbe0L._SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 3.5-inch clip width with strong spring tension that actually grips thick hair without slipping"
   - "6 distinct flower colors per pack — enough variety to mix, match, and coordinate with different outfits"
   - "Glossy, smooth finish that won't snag or pull hair when removing"
-cons:
+cons: 
   - "Flowers are molded plastic, not fabric — they can look shiny and costume-like up close"
   - "Sizing runs large; smaller heads or fine hair may find them visually overpowering"
+
 ---
 
 # CHANDAT Flower Hair Clips: Tropical Statement Pieces That Actually Hold

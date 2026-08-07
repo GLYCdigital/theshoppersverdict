@@ -1,4 +1,5 @@
 ---
+
 title: "Delta"
 seo_title: "Delta B0DNN5 Review: Honest Look at This 4.6-Star Tool"
 meta_description: "Delta B0DNN5 review: 229 ratings, 4.6 stars. We break down build quality, real-world performance, and whether this tool earns a spot in your shop."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNN5K7DG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IW0sJsphL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid cast-aluminum construction with minimal flex under heavy load"
   - Fence locks square consistently — measured within 0.002 inch " across three test cuts
   - "Dust collection port actually works; captured roughly 85% of debris in shop-vac testing"
-cons:
+cons: 
   - "Miter gauge is flimsy and sloppy — replace it with an aftermarket unit immediately"
   - "No onboard blade guard storage; the guard sits loose in the box when not installed"
   - "Instructions read like they were translated twice — budget 30 extra minutes for setup"
+
 ---
 
 **Bottom line up front:** If you're a weekend woodworker or a serious DIYer who's tired of fighting a warped jobsite saw, this Delta earns serious consideration. But it's not perfect — and knowing where it cuts corners (literally and figuratively) will save you frustration.

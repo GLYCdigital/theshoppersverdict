@@ -1,4 +1,5 @@
 ---
+
 title: "Food Coloring AmeriColor - Bright White Soft Gel Paste, 20 O"
 seo_title: "AmeriColor Bright White Gel Review: Worth It? (2026)"
 meta_description: "AmeriColor Bright White Soft Gel Paste review: pigment strength, best uses, and whether this 20oz tub justifies its price for bakers."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00MHSRNNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41t3WJ+j7HL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers gray or yellow buttercream with one generous application — no more 4-tube whitening marathons"
   - "Concentrated gel means a 20oz tub lasts 6-12 months for a home baker doing weekly projects"
   - "Holds pure white without bleeding into adjacent colors after 48 hours at room temperature"
-cons:
+cons: 
   - "Tub packaging is messy with a spatula — the lid rim collects dried paste that crumbles into frosting"
   - "Overuse creates a chalky mouthfeel that's noticeable in Swiss meringue buttercream"
+
 ---
 
 If you've ever fought to get a true white buttercream—layering in titanium dioxide, crossing your fingers against that sickly yellow tint—you already know the struggle. AmeriColor's Bright White Soft Gel Paste is the professional baker's answer, and at $23 for 20 ounces, it's priced like a tool, not a toy. The question is whether it earns that price tag for home bakers. Short answer: mostly yes, with one packaging caveat.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Furniture Protection Plan ($700 - $799.99)"
 seo_title: "ASURION Furniture Protection Plan Review: Worth It?"
 meta_description: "Honest ASURION 3 Year Furniture Protection Plan review: coverage details, claim experiences, and whether this $700+ plan actually pays off."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0CG6Q95QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers accidental stains, rips, and structural failures on furniture in the $700-$799.99 range"
   - "Claims process is handled directly through Amazon — no third-party phone tag"
   - "Includes fabric protection and frame/warranty coverage for three full years"
-cons:
+cons: 
   - "3.0-star average from 150+ ratings — many complaints about denied claims for 'wear and tear'"
   - "Premium costs roughly 12-15% of the item's price, which is steep for a 36-month window"
   - "No coverage for pre-existing damage, and photos required before any service call"
+
 ---
 
 # ASURION 3 Year Furniture Protection Plan Review: Is the Peace of Mind Worth $700+?

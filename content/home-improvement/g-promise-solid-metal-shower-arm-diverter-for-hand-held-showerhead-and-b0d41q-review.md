@@ -1,4 +1,5 @@
 ---
+
 title: "G-Promise Solid Metal Shower Arm Diverter for Hand Held Show"
 seo_title: "G-Promise Shower Arm Diverter Review: Solid Metal, 4.8★"
 meta_description: "G-Promise solid metal shower arm diverter review: real-world testing, fitment issues, water flow impact, and who should buy this 4.8-star valve."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D41QKVKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mQGTZQSXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machined brass body with real chrome plating — not plastic or zinc alloy that flakes"
   - "Full 1/2-inch internal bore maintains water pressure better than cheap diverters"
   - "Smooth 90-degree lever action with positive detent; no guessing which outlet is active"
-cons:
+cons: 
   - "Some users report the diverter stem is shorter than expected, causing hose connection issues with certain handheld wands"
   - "Chrome finish is glossy and fingerprints show; matte fixtures will clash visually"
+
 ---
 
 The shower arm diverter is the least glamorous piece of plumbing in your bathroom, but when it fails—usually by seizing up or dripping from the wrong outlet—you notice. The G-Promise Solid Metal unit aims to be the last one you buy. After 240 ratings averaging 4.8 stars, it's worth knowing whether the hype holds up before you swap out that plastic tee from the big-box store.

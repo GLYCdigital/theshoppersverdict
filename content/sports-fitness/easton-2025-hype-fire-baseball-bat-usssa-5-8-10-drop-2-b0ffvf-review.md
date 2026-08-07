@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | 2025 | Hype FIRE Baseball Bat | USSSA | -5 / -8 / -"
 seo_title: "Easton Hype FIRE USSSA Bat Review (2025): Worth It?"
 meta_description: "Easton Hype FIRE USSSA bat review: 2025 model, -5/-8/-10 drops. Real performance, durability, and buyer feedback. Is it worth $400+?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFVFHLWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bntvQAjyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Explosive pop straight out of the wrapper — multiple buyers report game-ready performance with zero break-in period"
   - "Balanced swing weight in the -5 drop makes it manageable for younger players transitioning to heavier bats"
   - "Vibration-dampening tech actually works — minimal sting on mishits, even in cold weather"
-cons:
+cons: 
   - "Premium price point puts it out of reach for budget-conscious families"
   - "Durability concerns on the composite barrel if used in temps below 60°F — USSSA bats are notoriously temperature-sensitive"
   - "Not for USA Baseball leagues — this is USSSA-only certification, so verify your league rules before buying"
+
 ---
 
 The Easton Hype FIRE is the bat every travel ball parent has heard about. With a 4.6-star average across 229 reviews, it's one of the most talked-about USSSA bats of the 2025 season. But here's the thing: hype doesn't always equal performance. After digging through buyer feedback and breaking down the specs, here's the real story.

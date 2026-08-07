@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Powered 2 Gallon Electric Sprayer With 4 Mist Nozzle"
 seo_title: "Battery Powered 2 Gallon Electric Sprayer Review: 4 Nozzles"
 meta_description: "Honest review of the 2-gallon battery sprayer with 4 mist nozzles. 4.1-star rating, 204 reviews. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DB265Y4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hSb-53NuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four interchangeable nozzles (mist, cone, fan, jet) cover everything from fine foliar feeding to deep-root drenching"
   - "USB-C rechargeable battery eliminates hand-pumping fatigue on larger yards"
   - "Transparent 2-gallon tank with measurement markings lets you mix precisely without guessing"
-cons:
+cons: 
   - "No battery level indicator — it dies without warning mid-spray"
   - "Wand is on the shorter side; tall users will bend for ground-level applications"
   - "Included shoulder strap feels flimsy when the tank is full (2 gallons of liquid weighs ~16 lbs)"
+
 ---
 
 If you've ever spent an afternoon hand-pumping a cheap sprayer, you know the forearm burn that comes with it. This 2-gallon electric sprayer aims to kill that fatigue, and for the most part, it delivers. But it's not without quirks.

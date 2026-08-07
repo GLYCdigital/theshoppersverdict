@@ -1,4 +1,5 @@
 ---
+
 title: "evian WATER"
 seo_title: "evian Water Review: Is It Worth It for Coffee? (2026)"
 meta_description: "Honest evian water review for coffee brewers. We test flavor, mineral content, and value. See if premium bottled water improves your brew."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CGX42TWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515-mRI4VQL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent mineral profile (calcium 80mg/L, magnesium 26mg/L) that extracts coffee flavors predictably every brew"
   - "pH 7.2 — neutral enough to avoid dulling bright acidity in light roasts"
   - "Alpine source water with zero chlorine taste, unlike many filtered tap options"
-cons:
+cons: 
   - "Expensive per gallon compared to bulk filtered water — you'll pay 10-15x more"
   - "Plastic bottles create waste even though the 1L size is BPA-free"
   - "Mineral content too high for some espresso machines — scale buildup is a real concern"
+
 ---
 
 # evian WATER Review: Does Premium Bottled Water Actually Improve Your Coffee?

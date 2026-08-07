@@ -1,4 +1,5 @@
 ---
+
 title: "ANVS Airtight Collapsible Pet Food Container With Casters, S"
 seo_title: "ANVS Airtight Collapsible Pet Food Container Review (2026)"
 meta_description: "Our ANVS airtight collapsible pet food container review: is the wheeled, space-saving design worth it? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH3SJ5PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kJp+Ru6rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely airtight seal keeps kibble fresh and pests out — verified by multiple long-term owners"
   - "Collapsible design actually saves meaningful floor space when empty; folds flat in seconds"
   - "Smooth-rolling casters make moving a full 20+ lb container effortless, even on carpet"
-cons:
+cons: 
   - "Small size (S) holds only ~10 lbs of kibble — large-breed owners will need frequent refills"
   - "Latch mechanism feels slightly flimsy; a few users report it loosening after months of daily use"
+
 ---
 
 **Bottom line up front:** The ANVS Airtight Collapsible Pet Food Container solves two problems most pet owners don't realize they have — stale kibble and wasted floor space. At 4.5 stars across 225 ratings, it's clearly doing something right. But the "S" size is a critical decision point, and the latch mechanism deserves scrutiny before you commit.

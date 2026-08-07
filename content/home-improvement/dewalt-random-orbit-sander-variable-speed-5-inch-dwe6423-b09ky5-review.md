@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Random Orbit Sander, Variable Speed, 5-Inch (DWE6423)"
 seo_title: "DEWALT Random Orbit Sander DWE6423 Review: Pro-Grade Finish"
 meta_description: "DEWALT DWE6423 Random Orbit Sander review: 5-inch variable speed, low vibration, hook-and-loop. Is it worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KY55Y4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TWESR+NsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Powerful 3.0 amp motor holds speed under load — no bogging down on hardwoods"
   - "Hook-and-loop pad accepts both 5-inch and 6-hole discs; dust collection through the pad actually works"
   - "Variable speed dial from 8,000 to 12,000 OPM with a low-profile grip that reduces hand fatigue"
-cons:
+cons: 
   - "Includes only a cloth dust bag — you'll want a shop vac hose adapter for serious work"
   - "No onboard wrench storage for pad changes; you'll need a separate 5mm hex key"
   - "Dust port is angled downward, which can snag on workpiece edges when sanding flush"
+
 ---
 
 The DEWALT DWE6423 is the sander that keeps showing up in "best of" lists, and after running it through its paces, the 4.7-star average across 235 ratings makes sense. This is the mid-tier sweet spot in DEWALT's random orbit lineup — not the bare-bones entry model, not the brushless flagship — and for most woodworkers, it's the one worth buying.

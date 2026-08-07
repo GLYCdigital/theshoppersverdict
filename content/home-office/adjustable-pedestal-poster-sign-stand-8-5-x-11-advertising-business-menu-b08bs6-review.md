@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Pedestal Poster Sign Stand,8.5 x 11 Advertising B"
 seo_title: "Adjustable Pedestal Sign Stand Review (8.5x11) | 4.4-Star"
 meta_description: "Honest review of the adjustable pedestal poster sign stand for 8.5x11 ads. Build quality, real-world use, and who should buy it. Rated 4.2/5."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08BS6F31Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41XRCRotCxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Height adjusts from roughly 24 to 48 inches, so it works on both counters and floors without swapping stands"
   - "Weighted base stays put even in high-traffic areas — buyers report it doesn't tip when customers brush past"
   - "Tool-free height adjustment with a simple locking collar makes repositioning a five-second job"
-cons:
+cons: 
   - "Base is heavier than expected at 4.5 lbs, which is a downside if you're moving it between locations daily"
   - "Only accommodates standard 8.5x11 signs — won't hold larger posters or menu boards without cropping"
+
 ---
 
 If you run a small business, you've probably bought a flimsy sign holder that collapses the first time someone walks too close. This adjustable pedestal stand aims to fix that with a weighted base and real height range. After digging through 220 ratings and the specs, here's the honest picture.

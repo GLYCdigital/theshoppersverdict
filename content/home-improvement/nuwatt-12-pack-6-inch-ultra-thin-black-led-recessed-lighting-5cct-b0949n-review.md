@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT 12 Pack, 6 Inch Ultra-Thin Black LED Recessed Lightin"
 seo_title: "NUWATT 12 Pack, 6 Inch Ultra-Thin Black LED Recess Review"
 meta_description: "Our full nuwatt 12 pack, 6 inch ultra-thin black led recessed lightin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0949NG6C7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719x4bPcnpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # NUWATT 12-Pack 6-Inch Ultra-Thin LED Recessed Lights: The Budget Retrofit That Actually Delivers

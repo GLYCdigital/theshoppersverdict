@@ -1,4 +1,5 @@
 ---
+
 title: "Elevon Heavy-Duty Umbrella Base with Adjustable Pole Holder,"
 seo_title: "Elevon Heavy-Duty Umbrella Base Review: Adjustable Holder"
 meta_description: "Elevon Heavy-Duty Umbrella Base review: 35-lb bronze base with adjustable pole holder. See how it performs, who it fits, and where it falls short."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C9LMP67B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AEAAJUVpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable pole holder fits poles from 1.5 to 2.5 inches — rare versatility for mixed patio sets"
   - "Faux bronze finish holds up to weather without rusting, per multiple long-term reviews"
   - "Two locking knobs secure the pole firmly, minimizing wobble even in gusty conditions"
-cons:
+cons: 
   - "At 35 pounds, it's light for large cantilever umbrellas — wind gusts over 20 mph can shift it"
   - "No wheels or handles; moving it around a deck requires lifting, which some users found awkward"
+
 ---
 
 Let's be honest about umbrella bases: most are either heavy enough to be immovable or light enough to be useless. The Elevon Heavy-Duty Umbrella Base tries to split that difference at 35 pounds, and for most patio setups, it lands in a sweet spot. But "most" isn't "all," and the tradeoffs are worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "POWERTEC Parent-73022"
 seo_title: "POWERTEC Parent-73022 Review: Verdict | TSV"
 meta_description: "Our full powertec parent-73022 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GFCYSZ2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51I+YfpDAtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most dust collection adapters are cheap plastic junk that cracks within a month. The POWERTEC Parent-73022 isn't that. It's a machined aluminum fitting that actually feels like it was engineered by someone who's spent time in a woodshop, not just someone who stamped "POWERTEC" on a mold. With a 4.4-star average across 220 ratings, it's earned its reputation — but it's not perfect.

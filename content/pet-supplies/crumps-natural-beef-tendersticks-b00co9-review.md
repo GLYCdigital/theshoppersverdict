@@ -1,4 +1,5 @@
 ---
+
 title: "Crumps' Natural Beef Tendersticks"
 seo_title: "Crumps' Natural Beef Tendersticks Review: Worth It?"
 meta_description: "Honest Crumps' Natural Beef Tendersticks review: 4.3-star rating, single-ingredient dog treats. Are they worth the price? Find out pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00CO9B3BA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fKc0MbSfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100% single-ingredient Australian beef — no fillers, no preservatives, no artificial anything"
   - "Soft, pliable texture that's easy to tear into training-sized pieces without a knife"
   - "High-protein, low-fat chew that satisfies dogs without the greasy residue of jerky"
-cons:
+cons: 
   - "Premium price per ounce — you'll pay more than double what standard jerky costs"
   - "Strong beefy aroma that some owners find overpowering (your car will smell it)"
   - "No US-sourced option — some buyers prefer domestic over imported treats"
+
 ---
 
 **Are these the cleanest dog treats on Amazon? Mostly, yes.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Rico Industries NCAA Standard Black Chrome Frame with Decal "
 seo_title: "Rico Industries NCAA Standard Black Chrome Frame w Review"
 meta_description: "Our full rico industries ncaa standard black chrome frame with decal  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2MLL574/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R2mMtA6sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: if you’re a die-hard college fan looking to show team pride without dropping $80 on a custom plaque, the **Rico Industries NCAA Standard Black Chrome Frame** is a solid middle ground. At 4.6 stars from 229 ratings, it’s clearly doing something right — but let’s dig into whether it’s right for *your* man cave, dorm room, or office.

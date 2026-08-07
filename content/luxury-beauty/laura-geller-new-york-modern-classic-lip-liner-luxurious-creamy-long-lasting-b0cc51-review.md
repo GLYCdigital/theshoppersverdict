@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK Modern Classic Lip Liner, Luxurious Cr"
 seo_title: "LAURA GELLER NEW YORK Modern Classic Lip Liner, Lu Review"
 meta_description: "Our full laura geller new york modern classic lip liner, luxurious cr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CC51LR4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619A82m-6LL._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: most lip liners are either too dry (they drag and skip) or too waxy (they slide off by lunch). Laura Geller's Modern Classic Lip Liner in Luxurious Cr sits in a rare middle ground — creamy enough to glide, firm enough to stay. After testing this against a dozen competitors in the same price bracket, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Green and Black tea bundles"
 seo_title: "Lipton Green and Black tea bundles Review: Verdict | TSV"
 meta_description: "Our full lipton green and black tea bundles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F9LNZQRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BkD92MhEL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're staring at the tea aisle trying to decide between green and black, this Lipton bundle solves the problem by giving you both.** It's not fancy, it's not artisanal, but it's exactly what 240 Amazon shoppers rated 4.8 stars for — reliable, everyday tea that doesn't taste like cardboard. Here's the honest breakdown.

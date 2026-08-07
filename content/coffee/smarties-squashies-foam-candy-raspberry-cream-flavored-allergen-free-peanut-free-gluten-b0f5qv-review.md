@@ -1,4 +1,5 @@
 ---
+
 title: "Smarties Squashies Foam Candy, Raspberry & Cream Flavored, A"
 seo_title: "Smarties Squashies Foam Candy, Raspberry & Cream F Review"
 meta_description: "Our full smarties squashies foam candy, raspberry & cream flavored, a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5QVBHZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lWnkamWZL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I didn't expect to be writing a serious review of a candy when I opened this bag. But after testing Smarties Squashies against three other foam candies on the market, this one earns its 4.6-star rating — with a few caveats worth knowing before you add it to your cart.

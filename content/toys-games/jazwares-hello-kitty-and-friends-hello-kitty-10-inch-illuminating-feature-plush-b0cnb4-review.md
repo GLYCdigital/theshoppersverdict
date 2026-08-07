@@ -1,4 +1,5 @@
 ---
+
 title: "Jazwares Hello Kitty and Friends - Hello Kitty 10-inch Illum"
 seo_title: "Jazwares Hello Kitty and Friends - Hello Kitty 10- Review"
 meta_description: "Our full jazwares hello kitty and friends - hello kitty 10-inch illum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNB4W3F8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QZsnAPo9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the Hello Kitty plush that finally gets the lighting feature right?** Most illuminated plush toys feel like an afterthought — a cheap LED shoved inside a stiff shell. The Jazwares 10-inch Illum is different. It's soft enough to genuinely cuddle, and the glow is subtle and warm, not a blinding party trick. After 240 Amazon ratings averaging 4.8 stars, this is clearly a fan favorite. But let's break down whether it's worth your money.

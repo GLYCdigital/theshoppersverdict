@@ -1,4 +1,5 @@
 ---
+
 title: "rePotme Orchid Pot 3 Pack"
 seo_title: "rePotme Orchid Pot 3 Pack Review: Verdict | TSV"
 meta_description: "Our full repotme orchid pot 3 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGRYH4FB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31mNdtyn-zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever killed an orchid with kindness — overwatering being the silent assassin — the rePotme Orchid Pot 3 Pack is the intervention your collection needs. This isn't a decorative ceramic cachepot; it's a functional piece of horticultural engineering designed for one thing: keeping roots alive and breathing.

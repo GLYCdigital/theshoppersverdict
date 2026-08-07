@@ -1,4 +1,5 @@
 ---
+
 title: "AmeriTop Solar Lights Outdoor, 2 Pack High Brightness LED Co"
 seo_title: "AmeriTop Solar Lights Outdoor Review: 2-Pack LED Worth It?"
 meta_description: "AmeriTop solar lights outdoor 2-pack review: brightness, battery life, durability tested. See pros, cons, and who should buy these cordless LED motion lights."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8BKP1BS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HMBMTJwcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 180-degree motion detection with a 26-foot range, so the light triggers before someone reaches your door, not after"
   - "Three adjustable heads (each pivots independently) let you aim light exactly where you need it — no dark corners left behind"
   - "IP65 weatherproof rating with a die-cast aluminum housing, not flimsy plastic; built to survive real storms"
-cons:
+cons: 
   - "Battery life on the default 'high' setting runs roughly 6-8 hours per full charge — fine for summer, tight for short winter days"
   - "The included mounting screws are the weak link; replace them with your own anchors for brick or stucco installations"
+
 ---
 
 Let’s cut through the noise: most solar lights are gimmicks that glow faintly for two hours then die. The AmeriTop 2-pack is not that. With 225 ratings averaging 4.5 stars, these lights earn their keep — but only if you understand what you're buying.

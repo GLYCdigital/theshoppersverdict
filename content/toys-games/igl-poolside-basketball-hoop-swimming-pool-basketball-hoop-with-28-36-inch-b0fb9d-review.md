@@ -1,4 +1,5 @@
 ---
+
 title: "IGL Poolside Basketball Hoop, Swimming Pool Basketball Hoop"
 seo_title: "IGL Poolside Basketball Hoop Review: Worth It? (2026)"
 meta_description: "Honest IGL Poolside Basketball Hoop review: build quality, suction grip, real user feedback, and who should buy this 4.9-star pool toy."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FB9DNP49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ec65mWMKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly in under 5 minutes with wingnut hand-tightening"
   - "Dual suction cups plus a stabilizing strap handle heavy splashing without detachment"
   - "Adjustable height from 28 to 36 inches fits above-ground and in-ground pools"
-cons:
+cons: 
   - "Suction cups require a perfectly clean, smooth pool surface to hold reliably"
   - "Frame is hollow PVC — durable for kids but not for adult dunks"
   - "Ball and pump included are basic; upgrade if you want a regulation-size feel"
+
 ---
 
 **The IGL Poolside Basketball Hoop is the rare pool toy that actually delivers on its promises.** With a 4.9-star average across 245 ratings, it's clearly earning its keep in backyards. But is it right for *your* pool? Let me break down exactly what you're getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "MORDEER Solid Wood Bed with Headboard"
 seo_title: "MORDEER Solid Wood Bed with Headboard Review: Verdict | T"
 meta_description: "Our full mordeer solid wood bed with headboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DKNGGXDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BP2nKD6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 3.5-star rating on Amazon with 175 reviews tells you one thing: this bed frame has a split personality. Some buyers call it the best furniture purchase they've made all year. Others describe wrestling with wobbly hardware and finish flaws. The truth, as always, sits somewhere in the middle. Here's what you need to know before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken of the Sea Wild Caught Light Tuna in Spring Water"
 seo_title: "Chicken of the Sea Light Tuna Review: Wild Caught, 4.4 Stars"
 meta_description: "Read our honest Chicken of the Sea Wild Caught Light Tuna in Spring Water review. 4.4/5 stars, 220 ratings. Taste, texture, and value analyzed."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQBV8WPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yZMg6uDXL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, mild flavor with no fishy aftertaste — spring water keeps it light"
   - "Consistently flaky, moist texture that holds up in salads and sandwiches"
   - "Reliable 5-ounce cans with easy-pull lids; better value than premium brands"
-cons:
+cons: 
   - "Spring water pack means less rich flavor than oil-packed varieties"
   - "Occasional dry patches in some cans — texture inconsistency batch to batch"
   - "Labeling could be clearer on exact mercury testing protocols per batch"
+
 ---
 
 Look, I know the product category says "coffee maker or coffee gear," but you're here because you typed "tuna" into Amazon and found this. Let's talk about what's actually in that can — because Chicken of the Sea Wild Caught Light Tuna in Spring Water has earned its 4.4-star rating across 220 reviews for some very specific reasons.

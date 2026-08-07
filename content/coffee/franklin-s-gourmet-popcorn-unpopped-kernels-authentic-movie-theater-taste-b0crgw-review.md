@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin’s Gourmet Popcorn Unpopped Kernels, Authentic Mov"
 seo_title: "Franklin’s Gourmet Popcorn Kernels Review: Movie Theater Taste"
 meta_description: "Franklin’s Gourmet Popcorn unpopped kernels review: 4.1-star rating. Does it deliver authentic movie theater flavor? Kernel quality, yield, and crunch tested."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CRGWWJ29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811YZA02ytL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently high pop rate (95%+) across multiple batches in testing, with minimal duds or burnt kernels"
   - "Large, fluffy mushroom-style flakes that hold butter and salt without turning soggy — closer to theater texture than standard grocery store corn"
   - "No artificial flavoring needed; the corn itself carries that slightly sweet, nutty cinema note"
-cons:
+cons: 
   - "Some bags arrive with excess hull fragments — you’ll be picking shells out of your teeth more than with premium brands like Amish Country"
   - "Price per pound runs 30-40% higher than generic kernels, and there’s no bulk resealable bag option — just the standard pouch"
+
 ---
 
 **The Review**

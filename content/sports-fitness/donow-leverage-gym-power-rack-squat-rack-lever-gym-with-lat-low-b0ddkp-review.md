@@ -1,4 +1,5 @@
 ---
+
 title: "DONOW Leverage Gym Power Rack Squat Rack Lever Gym with LAT"
 seo_title: "DONOW Leverage Gym Power Rack Review (2026): Is It Worth It?"
 meta_description: "DONOW Leverage Gym Power Rack review: 4.6-star rated squat rack with LAT pulldown. We break down build quality, space needs, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDKPHJYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619Op3wbx2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Leverage arms let you load up heavy without needing a spotter — the safeties catch the weight naturally"
   - "Dual-function design packs a power rack, lever squat, and LAT pulldown station into one 40-inch footprint"
   - "2x2-inch steel frame with 11-gauge tubing handles serious abuse without wobble"
-cons:
+cons: 
   - "Assembly takes 3-4 hours with two people — the manual is sparse and some holes don't line up perfectly"
   - "LAT pulldown maxes out around 200 lbs, which powerlifters will outgrow quickly"
   - "Weight storage pegs are welded in awkward positions on the rear uprights, limiting plate access"
+
 ---
 
 **This isn't a squat rack. It's a leverage gym that happens to include a squat rack.**

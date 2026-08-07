@@ -1,4 +1,5 @@
 ---
+
 title: "Planters Natural Chili Lime Peanuts (6 oz Bags, Pack of 8)"
 seo_title: "Planters Natural Chili Lime Peanuts (6 oz Bags, Pa Review"
 meta_description: "Our full planters natural chili lime peanuts (6 oz bags, pack of 8) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D15BWN6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813AQzmQweL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: these aren’t your bar-top honey roasted peanuts. Planters Natural Chili Lime Peanuts deliver a slow-building warmth that catches you mid-chew, followed by a citrus tang that keeps you reaching for another handful. With 220 ratings averaging 4.4 stars, this 8-pack has earned genuine fans — but it’s not a snack for everyone.

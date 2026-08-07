@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Bombs for Kids Girls, Bath Bomb with Surprise Toys Insi"
 seo_title: "Bath Bombs for Kids Girls Review: Surprise Toys Inside (2026)"
 meta_description: "Honest review of Bath Bombs for Kids Girls with surprise toys inside. Are they worth it? We test fizz, scent, toy quality, and skin safety. Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FG36KY1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81j52t+XRZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fizzes aggressively for 3–4 minutes — long enough to feel like an event, short enough to not bore kids"
   - "Toy inside is fully sealed in its own waterproof capsule, so it stays dry and clean even mid-fizz"
   - "Color payoff is vivid but dissipates quickly; no stained bathtubs or skin tinting reported"
-cons:
+cons: 
   - "Toy quality is hit-or-miss — some capsules contain cheap plastic trinkets that break within a day"
   - "Scent is mild-to-nonexistent; kids expecting a fragrant soak will be disappointed"
   - "Not moisturizing — the formula is basic and can leave skin slightly dry if baths run long"
+
 ---
 
 **The honest truth about bath bombs with toys inside**

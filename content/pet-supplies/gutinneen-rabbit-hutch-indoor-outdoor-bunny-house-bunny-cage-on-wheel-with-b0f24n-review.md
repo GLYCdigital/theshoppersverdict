@@ -1,4 +1,5 @@
 ---
+
 title: "GUTINNEEN Rabbit Hutch Indoor Outdoor Bunny House Bunny Cage"
 seo_title: "GUTINNEEN Rabbit Hutch Review: Indoor-Outdoor Bunny Cage"
 meta_description: "Honest GUTINNEEN rabbit hutch review: indoor-outdoor bunny cage with wheels. Build quality, sizing, safety concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F24NZPMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oWp-37OlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-level design with ramp gives rabbits vertical space without taking up extra floor area"
   - "Wheels make it genuinely portable — can roll between indoor and outdoor spots or into a corner for cleaning"
   - "Removable pull-out tray simplifies daily cleaning compared to fixed-bottom cages"
-cons:
+cons: 
   - "Wire floor can cause sore hocks (foot sores) on rabbits — you'll need to add solid resting boards or mats"
   - "Assembly is fiddly — several buyers report misaligned holes and confusing instructions"
   - "Not truly weatherproof despite the 'outdoor' label — rain can pool on the upper level and the wood needs sealing"
+
 ---
 
 Let's be honest about the GUTINNEEN Rabbit Hutch: it's a budget-priced two-story cage that tries to do a lot — indoor coziness, outdoor versatility, portability, and easy cleaning. At 3.9 stars from 195 ratings, it's polarizing. Some owners swear by it for dwarf breeds; others returned it within a week. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rechargeable LED Headlamp, 1000 Lumens Super Bright Headlamp"
 seo_title: "Rechargeable LED Headlamp, 1000 Lumens Super Brigh Review"
 meta_description: "Our full rechargeable led headlamp, 1000 lumens super bright headlamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5HR5JMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l5POCM3TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "1000 lumen" headlamps on Amazon are lying to you. They peak at 400-600 real lumens, overheat in five minutes, and die before your project does. So when I got my hands on this rechargeable LED headlamp with the motion sensor, I tested it like I was getting paid — because you are about to spend real money on this.

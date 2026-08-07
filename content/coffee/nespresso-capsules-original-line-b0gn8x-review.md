@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Capsules Original Line"
 seo_title: "Nespresso Capsules Original Line Review: Verdict | TSV"
 meta_description: "Our full nespresso capsules original line review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GN8XF9M7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nipQiiLyL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've landed here, you already own an Original Line machine or you're about to buy one. The capsules matter more than the machine — a $600 brewer produces sink water with bad pods, and a $99 unit makes excellent espresso with good ones. The Nespresso Original Line capsules sit at the center of that equation, and the 4.8-star rating across 240 reviews tells you most people get it right. Here's the unvarnished truth about whether these aluminum pods deserve your recurring coffee budget.

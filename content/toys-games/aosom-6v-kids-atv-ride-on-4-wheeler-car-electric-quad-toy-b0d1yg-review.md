@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aosom 6V Kids ATV Ride on 4-Wheeler Car, Electric Quad Toy B"
 seo_title: "Aosom 6V Kids ATV Review: Honest Buyer's Guide (2026)"
 meta_description: "Aosom 6V Kids ATV ride-on review: speed, battery life, build quality, and safety. Is this electric quad worth it for your toddler? Find out."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1YG5H37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aBtgvxG2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real working headlights and horn add genuine play value for under $100 inch"
   - "Sturdy steel frame and wide wheels handle grass and uneven sidewalks better than most 6V quads"
   - "Assembly takes under 30 minutes with clear, labeled parts"
-cons:
+cons: 
   - "Battery life tops out around 45–60 minutes of continuous use — plan for recharge breaks"
   - "No remote control for parents; this is fully child-operated, which may worry first-time buyers"
+
 
 ---
 

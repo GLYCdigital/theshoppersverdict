@@ -1,4 +1,5 @@
 ---
+
 title: "Bugrtey Double-barreled Toy Gun"
 seo_title: "Bugrtey Double-Barreled Toy Gun Review: Worth It? (2026)"
 meta_description: "Bugrtey double-barreled toy gun review: 4.6-star rated cap gun with realistic action. See performance, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1P9WT59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E2tIYZsLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Break-action mechanism actually works — snap the barrels down and the hammer cocks with a satisfying click"
   - "Solid zinc-alloy construction gives it a heft that cheap plastic toy guns completely lack"
   - "Fires both standard 8-shot cap rolls and ring caps, giving buyers flexibility on ammo"
-cons:
+cons: 
   - "Requires adult supervision for kids under 8 — this is a real mechanical toy, not a Nerf blaster"
   - "Cap rolls can jam if not seated properly; takes a few tries to learn the loading technique"
   - "Loud report may startle younger children or pets — consider ear protection for indoor use"
+
 ---
 
 # Bugrtey Double-Barreled Toy Gun Review: The Cap Gun That Actually Feels Real

@@ -1,4 +1,5 @@
 ---
+
 title: "Stiebel Eltron"
 seo_title: "Stiebel Eltron Review: Verdict | TSV"
 meta_description: "Our full stiebel eltron review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BZYBRM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413-N8+8JaS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most tankless water heaters on Amazon are cheaply made boxes with marketing copy that overpromises. The Stiebel Eltron is not that. But it's also not the magic bullet some listings suggest. Here's what 220 buyers and I actually found.

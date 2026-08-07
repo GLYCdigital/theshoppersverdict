@@ -1,4 +1,5 @@
 ---
+
 title: "Terpkooler Essential Cooler Compact Portable Mini Fridge wit"
 seo_title: "Terpkooler Essential Cooler Compact Portable Mini  Review"
 meta_description: "Our full terpkooler essential cooler compact portable mini fridge wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09LJ1ZWXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WonV6xKjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Terpkooler Essential Cooler sits in that awkward middle ground between a novelty mini-fridge and a serious temperature-controlled storage unit. At 4.2 stars across 210 Amazon ratings, it's clearly doing something right — but the reviews also reveal exactly where it falls short. Here's the unvarnished truth.

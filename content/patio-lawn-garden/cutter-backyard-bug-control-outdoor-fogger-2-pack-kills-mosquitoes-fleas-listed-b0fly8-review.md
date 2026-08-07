@@ -1,4 +1,5 @@
 ---
+
 title: "Cutter Backyard Bug Control Outdoor Fogger (2 Pack), Kills M"
 seo_title: "Cutter Backyard Bug Control Fogger Review (2026): Does It Work?"
 meta_description: "Honest Cutter Backyard Bug Control Outdoor Fogger review. Kills mosquitoes, fleas & listed insects. See pros, cons, real user feedback & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FLY8X9HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k-ZHMl37L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kills mosquitoes, fleas, ticks, and listed ants on contact — not just a repellent"
   - "Each 32-oz can covers up to 1,500 sq ft, so the 2-pack handles a typical suburban yard for a full season"
   - "Ready-to-use sprayer means zero mixing, measuring, or hose attachment fuss"
-cons:
+cons: 
   - "Provides knockdown, not long-term residual — expect reapplication after rain or heavy dew"
   - "Chemical odor lingers for several hours after application, which can be off-putting if you want to use the yard immediately"
+
 ---
 
 If you've ever been chased inside by mosquitoes at 7 p.m., you already know the problem: most sprays either smell like a chemistry lab or quit working the moment the grass dries. The Cutter Backyard Bug Control Outdoor Fogger takes a different approach — it's a contact killer that drops the bug population in your yard *now*, not sometime next week. And with a 4.5-star average across 225 ratings, it's clearly doing something right. But let's talk about what it actually does, and where it falls short.

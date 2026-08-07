@@ -1,4 +1,5 @@
 ---
+
 title: "RomoTech 82123919 Horizontal Square Reservoir Water Tank, 50"
 seo_title: "RomoTech 82123919 Horizontal Square Reservoir Wate Review"
 meta_description: "Our full romotech 82123919 horizontal square reservoir water tank, 50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BFC5M40/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bwZXs+eAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still hauling watering cans from the kitchen sink or watching your garden wilt during the first dry stretch of July, a rain barrel just became your best friend. The RomoTech 82123919 Horizontal Square Reservoir isn't the cheapest 50-gallon tank on Amazon — but after digging through 225 ratings and the build specs, it's one of the few I'd trust to outlive my fence.

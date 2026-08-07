@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Serum Body Wash Ultra Gentle hydrating cleanse with onl"
 seo_title: "Dove Serum Body Wash Review: Ultra Gentle Hydration (2026)"
 meta_description: "Our honest Dove Serum Body Wash Ultra Gentle review: does the 10-ingredient formula deliver real hydration? Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXRTRD5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SQdk82q2L._SL1500_.jpg"
-pros:
+pros: 
   - "Only 10 essential ingredients — no sulfates, parabens, or artificial fragrance that typically trigger sensitive skin"
   - "Serum-based formula delivers noticeable hydration that lasts beyond the shower, not just a rinse-off effect"
   - "Pump dispenser gives controlled doses — you'll use less product per shower than traditional squeeze bottles"
-cons:
+cons: 
   - "Thinner consistency than traditional body washes — takes a moment to adjust if you're used to thick, creamy lathers"
   - "Scent is extremely subtle — if you want your body wash to fragrance your bathroom, this isn't it"
+
 ---
 
 **The Dove Serum Body Wash Ultra Gentle is what happens when a legacy brand finally takes the "clean beauty" trend seriously — without abandoning the moisturizing DNA that made Dove a household name.**

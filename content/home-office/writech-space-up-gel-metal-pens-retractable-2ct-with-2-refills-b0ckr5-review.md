@@ -1,4 +1,5 @@
 ---
+
 title: "WRITECH Space Up Gel Metal Pens Retractable 2ct with 2 Refil"
 seo_title: "WRITECH Space Up Gel Metal Pens Retractable 2ct wi Review"
 meta_description: "Our full writech space up gel metal pens retractable 2ct with 2 refil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CKR5Y442/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g+6bgkHuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some pens scream "office supply," and some whisper "why did I wait so long to upgrade?" The WRITECH Space Up lands firmly in the second camp. For under $12, you get two metal-body pens plus two spare refills—a combo that sounds too good to be true until you feel the heft in your hand.

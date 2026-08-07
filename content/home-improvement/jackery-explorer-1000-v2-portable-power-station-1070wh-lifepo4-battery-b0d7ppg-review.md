@@ -1,4 +1,5 @@
 ---
+
 title: "Jackery Explorer 1000 v2 Portable Power Station — 1070Wh LiFePO4 Battery"
 seo_title: "Jackery Explorer 1000 v2 Review — 4.7★ Portable Power Station for Emergency & Camping"
 meta_description: "Jackery Explorer 1000 v2 portable power station review: 3,352 reviews analyzed. 1070Wh LiFePO4 battery, 1500W output, 1-hour fast charge. Is the upgraded version worth it?"
@@ -11,24 +12,25 @@ review_count: 3352
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7PPG25F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JVKysP1nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1-hour fast charging — full battery in 60 minutes from wall outlet"
   - "LiFePO4 cells rated for 10-year lifespan with 70%+ capacity retention"
   - "23.8 lbs for 1070Wh capacity — excellent power-to-weight ratio"
   - "Smart app control for monitoring and mode switching"
   - "Reliable build — consistent positive feedback from long-term users"
-cons:
+cons: 
   - "Solar panel sold separately — adds $200+ for complete kit"
   - "WiFi connectivity requires manual reconnect after 2 hours idle"
   - "No 240V output — limited to 120V appliances only"
 
-faq:
+faq: 
   - question: "Is the Jackery Explorer 1000 v2 Portable Power Station —  worth buying?"
     answer: "Based on verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon."
   - question: "What do buyers say about it?"
     answer: "Most reviewers highlight its quality and value. As with any product, individual experiences may vary - read the full review above for detailed customer insights."
   - question: "Is this a good gift idea?"
     answer: "Many buyers purchase this as a gift. Its strong ratings and positive reviews make it a safe choice for most recipients."
+
 
 ---
 

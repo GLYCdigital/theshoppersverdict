@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo IdeaPad 1 Laptop, 15.6â€"
 seo_title: "Lenovo IdeaPad 1 Laptop, 15.6â€ Review: Verdict | TSV"
 meta_description: "Our full lenovo ideapad 1 laptop, 15.6â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GRWMYMWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71STL+f5-JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 15.6-inch budget laptop that actually gets the basics right — mostly.**

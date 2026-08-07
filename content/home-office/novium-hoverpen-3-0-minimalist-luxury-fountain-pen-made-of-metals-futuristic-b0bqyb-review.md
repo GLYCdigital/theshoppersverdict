@@ -1,4 +1,5 @@
 ---
+
 title: "novium Hoverpen 3.0 - Minimalist Luxury Fountain Pen Made of"
 seo_title: "novium Hoverpen 3.0 - Minimalist Luxury Fountain P Review"
 meta_description: "Our full novium hoverpen 3.0 - minimalist luxury fountain pen made of review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BQYBNKMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wu4n57ZpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The novium Hoverpen 3.0 is the rare desk gadget that delivers on its headline trick. As shown in the product image, the pen genuinely floats — suspended horizontally above its aluminum base with enough clearance to slide a finger underneath. It's the kind of thing that makes visitors ask, "Wait, how does that work?" before they even pick it up.

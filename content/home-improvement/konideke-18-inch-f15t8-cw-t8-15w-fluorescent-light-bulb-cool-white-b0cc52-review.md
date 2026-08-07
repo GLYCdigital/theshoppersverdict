@@ -1,4 +1,5 @@
 ---
+
 title: "Konideke 18 Inch F15T8/CW T8 15W Fluorescent Light Bulb Cool"
 seo_title: "Konideke 18 Inch F15T8/CW T8 15W Fluorescent Light Review"
 meta_description: "Our full konideke 18 inch f15t8/cw t8 15w fluorescent light bulb cool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CC526ZRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yuzzCpuuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your shop light just went dark and you're staring at a 4-foot tombstone fixture that you don't want to rewire, this Konideke 18-inch T8 is the no-drama replacement. It's a straight-up F15T8/CW equivalent — same 18-inch length, same G13 bi-pin base, same 15-watt draw. No adapters, no LED conversion kit, no guesswork. You pull the old tube, push this one in, twist, and you're back in business. That simplicity is exactly why 220 Amazon shoppers have pushed it to a 4.4-star average.

@@ -1,4 +1,5 @@
 ---
+
 title: "Santorini: Second Edition Board Game â€“ 2â€“4 Player Greek "
 seo_title: "Santorini: Second Edition Board Game â€“ 2â€“4 Pla Review"
 meta_description: "Our full santorini: second edition board game â€“ 2â€“4 player greek  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWTZ1313/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z3t8c1+LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: **Santorini: Second Edition** is one of the most visually arresting board games you'll ever put on a table, and it backs up that beauty with some of the tightest 2-player strategy in the hobby. But it's not without compromises — and the 4-player mode is where those compromises bite hardest.

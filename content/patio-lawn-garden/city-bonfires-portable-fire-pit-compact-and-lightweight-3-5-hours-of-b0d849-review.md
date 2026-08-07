@@ -1,4 +1,5 @@
 ---
+
 title: "City Bonfires | Portable Fire Pit | Compact and Lightweight"
 seo_title: "City Bonfires Portable Fire Pit Review: Compact & Lightweight"
 meta_description: "City Bonfires portable fire pit review: 3+ hour burn time, compact design, easy cleanup. See if this lightweight fire pit is worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D849T1SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71w1gd-1PpL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Weighs under 10 pounds and folds flat — genuinely packable for camping or tailgating"
   - "3+ hour burn time per load of wood, which beats most portable pits in this size class"
   - "Built-in spark guard and no-tools assembly make it safe and usable within minutes of unboxing"
-cons:
+cons: 
   - "Fire bowl is shallow — you'll need to feed it smaller logs or kindling more often than a full-size pit"
   - "Legs can sink slightly on soft grass; place it on a hard, level surface for best stability"
+
 ---
 
 **The portable fire pit that actually earns its carry handle**

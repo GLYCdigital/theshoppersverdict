@@ -1,4 +1,5 @@
 ---
+
 title: "Ocean Spray Snack Medley"
 seo_title: "Ocean Spray Snack Medley Review: Verdict | TSV"
 meta_description: "Our full ocean spray snack medley review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFT2BFP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iVeQ+s3vL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: I've reviewed dozens of trail mixes that promise "gourmet" and deliver cardboard. The Ocean Spray Snack Medley isn't that. At $5.66 for 8 ounces, it's priced like a pantry staple, not a luxury snack — and that's exactly the right call.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dremel HSGP-01 4V Cordless USB Rechargeable Hot Glue Pen Glu"
 seo_title: "Dremel HSGP-01 4V Cordless Hot Glue Pen Review (2026)"
 meta_description: "Dremel HSGP-01 4V cordless hot glue pen review: pinpoint precision, 25-min runtime, USB-C charging. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09QW4GSKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618gdeLiCzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Metal precision tip delivers 2mm glue lines for detailed work — roughly half the width of a standard glue gun nozzle"
   - "True cordless operation with a 4V lithium battery that charges via USB-C in about 90 minutes"
   - "35-40 second heat-up time gets you working faster than most corded guns that take 2-5 minutes"
-cons:
+cons: 
   - "Only accepts 7mm mini glue sticks — standard 11mm sticks won't fit, and mini sticks cost more per ounce"
   - "Battery life is roughly 25 minutes of continuous use; heavy projects may require a mid-task recharge"
+
 ---
 
 If you've ever tried to glue small craft pieces or fix a delicate repair with a full-size hot glue gun, you know the struggle: thick globs, burned fingers, and glue where you didn't want it. The Dremel HSGP-01 4V Cordless Hot Glue Pen takes a fundamentally different approach. Instead of a bulky trigger-fed gun, you get a pen-shaped tool with a fine metal tip that deposits a precise 2mm bead of glue. It's a niche tool, but for the right projects, it's genuinely transformative.

@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Obelisk Trellis for Climbing Plants Outdoor, Tomato C"
 seo_title: "Garden Obelisk Trellis Review: Sturdy Support for Climbing Plants"
 meta_description: "Read our honest Garden Obelisk Trellis review. We test sturdiness, rust-resistance, and ease of assembly for tomatoes, roses & vines. Find out if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DSV4M1TD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sYuF1lX1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-piece design assembles in under five minutes without any tools"
   - "Powder-coated finish resists rust better than bare steel alternatives"
   - "Tall 6-foot profile handles indeterminate tomatoes and vigorous climbing roses"
-cons:
+cons: 
   - "Top ring connection is a simple friction fit — can separate in strong winds if not staked well"
   - "Legs are on the thin side; heavy mature plants may cause slight wobble in soft soil"
   - "No included ground stakes, which feels like a miss at this price point"
+
 ---
 
 Let me be direct about this Garden Obelisk Trellis: it's a solid mid-tier option that gets the job done, but it's not the last trellis you'll ever buy. With a 3.9-star average across 195 ratings, buyers are mostly satisfied — but the pattern of complaints tells a clear story about where this product cuts corners.

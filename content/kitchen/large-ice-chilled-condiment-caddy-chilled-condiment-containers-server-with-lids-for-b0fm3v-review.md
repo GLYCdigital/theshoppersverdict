@@ -1,4 +1,5 @@
 ---
+
 title: "Large Ice Chilled Condiment Caddyï¼ŒChilled Condiment Contai"
 seo_title: "Large Ice Chilled Condiment Caddyï¼ŒChilled Condim Review"
 meta_description: "Our full large ice chilled condiment caddyï¼œchilled condiment contai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM3VSYFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71To6-Qh9uL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "chilled condiment servers" are flimsy plastic trays that crack by the third BBQ. The Large Ice Chilled Condiment Caddy is not that. With a 4.6-star average across 229 ratings, this one earns its place on your table.

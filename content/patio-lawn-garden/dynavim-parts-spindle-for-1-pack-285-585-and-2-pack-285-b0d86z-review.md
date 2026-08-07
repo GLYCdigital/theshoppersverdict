@@ -1,4 +1,5 @@
 ---
+
 title: "DynaVim Parts Spindle for 1 Pack 285-585 and 2 Pack 285-585 inch"
 seo_title: "DynaVim Parts Spindle 285-585 Review: Worth It?"
 meta_description: "Honest DynaVim Parts Spindle 285-585 review: build quality, fit, real user feedback, and whether this replacement spindle is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D86ZN6Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dXyqux1qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined steel shaft with precision-ground bearing surfaces holds up to heavy residential mowing without play"
   - "Direct bolt-in replacement for 285-585 decks — no modification, shims, or fabrication needed"
   - "Includes pre-greased sealed bearings that arrive ready to install, saving a trip to the parts store"
-cons:
+cons: 
   - "No hardware included — you'll need to reuse your existing bolts, which may be worn or rusted"
   - "Some units arrived with slightly tight bearings that needed a break-in period before spinning freely"
+
 ---
 
 If your mower deck spindle seized mid-season, you already know the drill: new spindles from the dealer run $40–$60 each, and you wait a week for shipping. The DynaVim Parts Spindle for 285-585 decks undercuts that price and ships fast, but is it a genuine replacement or a gamble that leaves you with a wobbly blade? I dug into the specs, the machining tolerances, and what 200+ buyers actually reported.

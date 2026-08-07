@@ -1,4 +1,5 @@
 ---
+
 title: "Canidae Pure Petite Premium Freeze-Dried Raw Coated Dog Food"
 seo_title: "Canidae Pure Petite Review: Raw-Coated Kibble for Small Dogs"
 meta_description: "Honest Canidae Pure Petite review: Is this freeze-dried raw coated kibble worth it for small breeds? Ingredients, picky eater results, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GR1KYBFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GPoY2YjyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real freeze-dried raw coating delivers noticeable palatability — picky eaters consistently clean the bowl"
   - "Small kibble size appropriately matched for toy and small breed jaws"
   - "Limited ingredient recipe with identifiable proteins — good for dogs with sensitive stomachs"
-cons:
+cons: 
   - "Premium price point runs notably higher per-pound than standard kibble"
   - "Bag resealability is mediocre — a clip or transfer container is recommended for freshness"
+
 ---
 
 ## Small Kibble, Big Flavor: Why This Raw-Coated Recipe Stands Out

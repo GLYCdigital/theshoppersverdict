@@ -1,4 +1,5 @@
 ---
+
 title: "COLORGRAM NUDE BLUR TINT | K-Beauty Makeup, Soft-Focus Matte"
 seo_title: "COLORGRAM NUDE BLUR TINT Review: Soft-Focus K-Beauty Lip Stain"
 meta_description: "COLORGRAM NUDE BLUR TINT review: Does this K-beauty soft-focus matte lip tint deliver? Real buyer feedback, shade breakdown, and honest verdict."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GR9Y4VQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YibxRLxwL._SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight blurring formula that genuinely diffuses lip lines without cakiness"
   - "True K-beauty nude shades with muted undertones that suit fair to medium skin"
   - "Comfortable, non-drying matte finish that survives coffee and light meals"
-cons:
+cons: 
   - "Shade range skews light — deeper skin tones get minimal usable options"
   - "Tube packaging leaks at the seam if stored sideways; keep it upright"
   - "Fades unevenly from inner lip after 4-5 hours, leaving a ring effect"
+
 ---
 
 **The 3.6-star reality check: K-beauty blur tints are everywhere, but does COLORGRAM actually deliver?**

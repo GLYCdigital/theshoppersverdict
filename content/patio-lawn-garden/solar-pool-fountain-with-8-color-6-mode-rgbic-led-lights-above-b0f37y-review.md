@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Pool Fountain with 8-Color 6-Mode RGBIC LED Lights, Ab"
 seo_title: "Solar Pool Fountain with 8-Color 6-Mode RGBIC LED  Review"
 meta_description: "Our full solar pool fountain with 8-color 6-mode rgbic led lights, ab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F37Y1J94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CRvUAH2pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this floating solar fountain a backyard showpiece or a gimmick that'll leave you squinting at a dribble? Here's the honest breakdown after digging through 190+ owner experiences.**

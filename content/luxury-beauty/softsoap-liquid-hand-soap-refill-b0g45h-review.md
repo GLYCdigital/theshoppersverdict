@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Liquid Hand Soap Refill"
 seo_title: "Softsoap Liquid Hand Soap Refill Review: Verdict | TSV"
 meta_description: "Our full softsoap liquid hand soap refill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G45H2V23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BhZFzsC1L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance and Build Quality**

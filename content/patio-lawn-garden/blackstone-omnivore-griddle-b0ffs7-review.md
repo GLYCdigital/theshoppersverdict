@@ -1,4 +1,5 @@
 ---
+
 title: "Blackstone Omnivore Griddle Review"
 seo_title: "Blackstone Omnivore Griddle Review: Worth It in 2026?"
 meta_description: "Blackstone Omnivore Griddle review: 4.6-star rated. We break down performance, cleanup, and whether this hybrid griddle beats the classic. Honest verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFS7JXYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QY0LrZEjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Patented Omnivore top with perforated holes delivers flame-kissed flavor while retaining flat-top versatility"
   - "Dual-zone heat management with independently controlled burners for simultaneous searing and low-temp holding"
   - "Grease management system routes drippings through the holes to a rear trough — less flare-up mess than standard flat tops"
-cons:
+cons: 
   - "The perforated surface requires a different scraping technique; aggressive metal scrapers can catch on the holes"
   - "Not ideal for runny batters or finely chopped vegetables — small pieces fall through before they crisp"
   - "Heavier than comparable 28-inch flat-tops; the thicker cold-rolled steel plate adds noticeable weight"
+
 ---
 
 ## The griddle that finally fixes the flat-top's biggest flaw

@@ -1,4 +1,5 @@
 ---
+
 title: "Lawn Leveling Rake, 30''x10'' Leveling Rake, 78 inch Handle "
 seo_title: "Lawn Leveling Rake, 30''x10'' Leveling Rake, 78 in Review"
 meta_description: "Our full lawn leveling rake, 30''x10'' leveling rake, 78 inch handle  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0CT5H8DSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91I0NaclcCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most lawn leveling rakes are flimsy pieces of stamped metal that bend the first time you drag them through damp soil. This one from the 30''x10'' stainless lineup is different. It’s the rake you actually want when you’re prepping for sod, topdressing, or fixing that lumpy front yard that’s been driving you crazy.

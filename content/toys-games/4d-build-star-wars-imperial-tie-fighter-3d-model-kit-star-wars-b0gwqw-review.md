@@ -1,4 +1,5 @@
 ---
+
 title: "4D Build, Star Wars Imperial Tie Fighter 3D Model Kit, Star"
 seo_title: "4D Build Star Wars Tie Fighter Model Kit Review (2026)"
 meta_description: "Honest 4D Build Imperial Tie Fighter 3D model kit review: build difficulty, part quality, and whether it's worth your money for Star Wars fans."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWQWJCN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lixzxxfaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Over 100 precision-cut foam board pieces that snap together without glue or tools"
   - "Finished model measures roughly 12 inches wide with accurate movie proportions"
   - "Numbered parts and clear instructions make assembly surprisingly straightforward"
-cons:
+cons: 
   - "Foam board surface shows fingerprints and scuffs easily during handling"
   - "Some pieces require careful alignment to avoid gaps in the wing panels"
   - "Not a display piece for serious collectors — it's a fun build, not museum quality"
+
 ---
 
 If you've ever stared at a $200 die-cast Millennium Falcon and thought "I'd rather build it myself," this 4D Build Imperial Tie Fighter is the budget-friendly compromise you've been looking for. At a fraction of the price of pre-built collectibles, this kit delivers a satisfying weekend project that ends with a surprisingly substantial display piece. But is it worth the assembly time? Let's break it down.

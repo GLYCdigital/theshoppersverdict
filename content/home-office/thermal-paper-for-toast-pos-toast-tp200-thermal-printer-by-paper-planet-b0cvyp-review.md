@@ -1,4 +1,5 @@
 ---
+
 title: "Thermal Paper for Toast POS (Toast TP200 Thermal Printer) by"
 seo_title: "Thermal Paper for Toast POS (Toast TP200 Thermal P Review"
 meta_description: "Our full thermal paper for toast pos (toast tp200 thermal printer) by review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0CVYP9TD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MkWQ-1O7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the right thermal paper for your Toast TP200, or are you paying for the name?**

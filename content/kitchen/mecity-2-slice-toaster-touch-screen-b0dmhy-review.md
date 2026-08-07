@@ -1,4 +1,5 @@
 ---
+
 title: "Mecity 2 Slice Toaster Touch Screen"
 seo_title: "Mecity 2 Slice Toaster Touch Screen Review: Verdict | TSV"
 meta_description: "Our full mecity 2 slice toaster touch screen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMHYQ2MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BfaH-6deL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Toasters are supposed to be the most boring appliance in your kitchen. You plug it in, you push a lever, you get toast. The Mecity 2 Slice Toaster with Touch Screen is trying to change that — and honestly, it mostly succeeds.

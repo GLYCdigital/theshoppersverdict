@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Electric Stand Mixer"
 seo_title: "Hamilton Beach Stand Mixer Review: 4-Quart Power for Bakers"
 meta_description: "Read our honest Hamilton Beach 4-quart stand mixer review. See how it performs on bread dough, cookies, and more. 4.4 stars from 4,426 shoppers. Real pros & cons."
@@ -11,13 +12,14 @@ review_count: 4426
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJQPYLB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WG0xVullL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Barely moves on the counter even at high speed — the suction feet actually work"
   - "Handle on the 4-quart stainless bowl makes lifting and pouring genuinely easier than most mixers in this price range"
   - "Burst function gives extra power for stiff doughs that would stall cheaper mixers"
-cons:
+cons: 
   - "Tilt-head mechanism feels plasticky and requires a firm push to lock — not a precision action"
   - "No timer or countdown display; you're setting your own phone timer like it's 2005"
+
 ---
 
 # Hamilton Beach Electric Stand Mixer Review: The $127 Workhorse That Won't Walk Off Your Counter

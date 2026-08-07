@@ -1,4 +1,5 @@
 ---
+
 title: "Only Kosher Candy Rice Cakes Squares All Natural Whole Grain"
 seo_title: "Only Kosher Candy Rice Cakes Squares All Natural W Review"
 meta_description: "Our full only kosher candy rice cakes squares all natural whole grain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F6NGF578/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hi6Fpr6TL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing out of the way: these are not candy. The brand name is "Only Kosher Candy," but what you're actually getting is a bag of unflavored, whole grain brown rice cakes. If that sounds like a letdown, hold on — because 240 Amazon reviewers averaging 4.8 stars suggest there's something worth talking about here.

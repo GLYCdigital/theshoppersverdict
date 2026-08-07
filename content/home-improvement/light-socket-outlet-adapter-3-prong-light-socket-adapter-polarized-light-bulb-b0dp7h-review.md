@@ -1,4 +1,5 @@
 ---
+
 title: "Light Socket Outlet Adapter, 3 Prong Light Socket Adapter, P"
 seo_title: "Light Socket Outlet Adapter, 3 Prong Light Socket  Review"
 meta_description: "Our full light socket outlet adapter, 3 prong light socket adapter, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP7HG91M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bfb2jssQL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a light socket adapter that adds a grounded outlet sounds like a hack. But this one—the 3 Prong Light Socket Adapter from a brand that's clearly iterating on a classic design—actually earns its 4.4-star rating across 220 reviews. Here's the real story.

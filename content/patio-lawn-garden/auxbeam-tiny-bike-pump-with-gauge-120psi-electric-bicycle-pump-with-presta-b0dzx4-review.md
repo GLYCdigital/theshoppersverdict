@@ -1,4 +1,5 @@
 ---
+
 title: "Auxbeam Tiny Bike Pump with Gauge, 120PSI Electric Bicycle P"
 seo_title: "Auxbeam Tiny Bike Pump Review: 120PSI Electric Power"
 meta_description: "Auxbeam Tiny Bike Pump with Gauge review: 120PSI electric power, Presta/Schrader valves, 4.3/5 rating. Is this compact air pump worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZX4C9R9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612nDc6KxLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hits 120PSI on road bike tires in under 90 seconds — verified by multiple owner tests"
   - "Built-in digital gauge reads within ±1 PSI of floor pump readings"
   - "Tiny footprint (roughly the size of a large energy bar) fits in jersey pockets or saddle bags"
-cons:
+cons: 
   - "Battery life is limited to roughly 8–10 full inflation cycles before needing a recharge"
   - "Gets noticeably warm during back-to-back tire fills — let it cool between bikes"
+
 ---
 
 If you've ever stood on a dark roadside at 6 AM wrestling a hand pump while cars whiz past, you know the pain this product solves. The Auxbeam Tiny Bike Pump with Gauge is a cordless electric inflator that claims to deliver 120 PSI from a package roughly the size of a protein bar. After digging through 215 ratings and the spec sheet, here's the real story.

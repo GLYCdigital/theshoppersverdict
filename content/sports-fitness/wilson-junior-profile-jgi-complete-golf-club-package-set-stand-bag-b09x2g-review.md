@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson Junior Profile JGI Complete Golf Club Package Set - S"
 seo_title: "Wilson Junior Profile JGI Complete Golf Club Packa Review"
 meta_description: "Our full wilson junior profile jgi complete golf club package set - s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09X2G79WT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nT44UTgbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a first "real" set of clubs for a young golfer, you've probably stared at the Wilson Junior Profile JGI and wondered if it's actually worth the money — or just a box of painted sticks. 

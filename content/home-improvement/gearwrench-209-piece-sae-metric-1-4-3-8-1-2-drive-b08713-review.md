@@ -1,4 +1,5 @@
 ---
+
 title: "GEARWRENCH 209 Piece SAE/Metric 1/4 inch , 3/8 inch , & 1/2 inch  Drive Mas"
 seo_title: "GEARWRENCH 209-Piece Socket Set Review: Worth It?"
 meta_description: "GEARWRENCH 209-piece SAE/metric socket set review: 1/4 inch , 3/8 inch , 1/2 inch  drive coverage, build quality, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0871323N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AC5Vz9ZOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Complete 3-drive coverage (1/4 inch ", 3/8 inch ", 1/2 inch ") with both SAE and metric in one organized case
   - "GearWrench's 12-point sockets grip rounded fasteners better than standard 6-point designs"
   - "Full-polish chrome finish resists rust and wipes clean easily"
-cons:
+cons: 
   - "Case hinges are the weak point — several buyers report broken latches within a year of use"
   - "No 6-point options in smaller sizes, which can risk rounding on stubborn, already-worn bolts"
+
 ---
 
 If you're staring down a 209-piece socket set that covers every drive size you own, the first question is obvious: is this a buy-once kit or a box of frustration? I've dug through the specs, the buyer feedback, and the real-world tradeoffs. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Play-Doh Barbie Hearts and Hair Set, Make Doll Clothes with "
 seo_title: "Play-Doh Barbie Hearts and Hair Set, Make Doll Clo Review"
 meta_description: "Our full play-doh barbie hearts and hair set, make doll clothes with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNTTS72V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713V+fCghQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the toy that finally merges Barbie’s glamour with Play-Doh’s squishy creativity?** After digging through 229 ratings and the build quality, I can tell you: yes, mostly. But there’s a catch — and it’s not the one you’d expect.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lumina LightingÂ® 4W Landscape Lighting 12V Landscape Lights"
 seo_title: "Lumina LightingÂ® 4W Landscape Lighting 12V Landsc Review"
 meta_description: "Our full lumina lightingâ® 4w landscape lighting 12v landscape lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQPYP37M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jkOvvCpxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for landscape lighting, you already know the market is flooded with cheap plastic fixtures that crack after one winter. The Lumina Lighting 4W set aims higher — and at $45.59 for what's typically a 4-pack, it sits in that sweet spot between bargain-bin junk and contractor-grade pricing. But is it actually worth your money? Let's dig into the details.

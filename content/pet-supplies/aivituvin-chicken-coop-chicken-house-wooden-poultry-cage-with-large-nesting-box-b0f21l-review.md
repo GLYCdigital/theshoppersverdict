@@ -1,4 +1,5 @@
 ---
+
 title: "Aivituvin Chicken Coop Chicken House Wooden Poultry Cage wit"
 seo_title: "Aivituvin Chicken Coop Review: Honest Look at Wooden Poultry Cage"
 meta_description: "Read our honest Aivituvin chicken coop review. We break down build quality, predator protection, nesting box size, and common complaints from 190+ owners."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F21L2B1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kv6uLzm0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely large nesting box area — fits 3-4 standard hens comfortably, not just decorative"
   - "Solid fir wood construction with weatherproof paint; holds up well in rain and moderate wind"
   - "Sliding tray plus side access door makes daily egg collection and cleaning genuinely easier"
-cons:
+cons: 
   - "Assembly is a multi-hour project — hardware is plentiful but instructions are sparse diagrams only"
   - "Wire mesh is thin gauge; predator-resistant but not predator-proof against determined raccoons"
   - "Ramp is too steep for heavy breeds like Orpingtons; most owners modify it or add traction strips"
+
 ---
 
 **The Short Version**

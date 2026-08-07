@@ -1,4 +1,5 @@
 ---
+
 title: "MOOACE 3 Tier End Tables"
 seo_title: "MOOACE 3 Tier End Tables Review: Verdict | TSV"
 meta_description: "Our full mooace 3 tier end tables review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYDNNYXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718kVC0IOVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most end tables under $60 are wobbly, cheap-feeling, and look like they'll collapse if you look at them wrong. The MOOACE 3 Tier End Table isn't that. With 225 ratings averaging 4.5 stars, it's earning its place in living rooms across the country — but it's not without quirks. Here's what you need to know before you hit buy.

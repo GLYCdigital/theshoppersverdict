@@ -1,4 +1,5 @@
 ---
+
 title: "Lawn Staples"
 seo_title: "Lawn Staples Review: Verdict | TSV"
 meta_description: "Our full lawn staples review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP8G74J7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NoX2mjmIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: you don't buy lawn staples because they're exciting. You buy them because your landscape fabric is peeling up in the wind, your sod edges are curling, or your chicken wire is gaping. The question is whether a $15 bag of metal U-shapes can actually solve those problems. Based on 235 Amazon ratings averaging 4.7 stars, these particular staples are doing something right. Here's the full story.

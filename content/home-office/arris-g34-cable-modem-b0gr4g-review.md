@@ -1,4 +1,5 @@
 ---
+
 title: "Arris (G34) - Cable Modem"
 seo_title: "Arris G34 Cable Modem Review: Worth It in 2026?"
 meta_description: "Arris G34 cable modem review: 3.8/5 rating. We tested speeds, compatibility, and reliability. Is this Wi-Fi 6 combo right for your home office?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GR4GSC6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dc28BwbNL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "DOCSIS 3.1 supports gigabit plans from Xfinity, Spectrum, and Cox without rental fees"
   - "Built-in Wi-Fi 6 (AX3000) covers 2,000+ sq ft — no separate router needed"
   - "Two Gigabit Ethernet ports allow wired connections for gaming rigs or NAS devices"
-cons:
+cons: 
   - "No phone (voice) support — fails for Xfinity Voice or Spectrum Voice bundles"
   - "3.8/5 rating suggests some users hit setup or firmware issues"
   - "Limited to 2 downstream channels for upload-heavy plans (typical of mid-tier modems)"
+
 ---
 
 # Arris G34 Cable Modem Review: The All-in-One That Almost Gets It Right

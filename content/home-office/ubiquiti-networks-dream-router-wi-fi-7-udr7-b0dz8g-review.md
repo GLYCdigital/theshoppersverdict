@@ -1,4 +1,5 @@
 ---
+
 title: "Ubiquiti Networks Dream Router Wi-Fi 7 (UDR7)"
 seo_title: "Ubiquiti Networks Dream Router Wi-Fi 7 (UDR7) Review: Ver"
 meta_description: "Our full ubiquiti networks dream router wi-fi 7 (udr7) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZ8G8ZZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41N4i7-O8zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your office runs on a mishmash of ISP routers and consumer mesh nodes, the UDR7 is the single most impactful upgrade you can make this year.** Ubiquiti squeezed its full UniFi gateway stack into a fanless desktop box that screams across your network at Wi-Fi 7 speeds. It's not perfect, but for a 10–30 person workspace, it punches far above its price class.

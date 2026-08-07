@@ -1,4 +1,5 @@
 ---
+
 title: "8544771 Dryer Heating Element Upgrade 279816 Thermostat Cut"
 seo_title: "8544771 Dryer Heating Element Review: Fixes No-Heat Dryers"
 meta_description: "8544771 dryer heating element with 279816 thermostat cut-off. Read our honest review on build quality, fit, and whether it's worth replacing your OEM part."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07TM2HRG7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71INdR5ZMYL._AC_SL1422_.jpg"
-pros:
+pros: 
   - "Full kit includes heating element, high-limit thermostat (279816), thermal cut-off (279973), and thermal fuse (3392519) — everything you need in one box"
   - "Direct OEM replacement for Whirlpool, Kenmore, Maytag, and Amana dryers; wiring harness plugs in with zero modification"
   - "Priced 40-60% below buying the same parts separately from an appliance dealer"
-cons:
+cons: 
   - "Some units ship with the element coil slightly out of alignment — check coil spacing before installing to avoid hot spots"
   - "The included thermostats are generic aftermarket parts, not Whirlpool OEM; most users report fine performance, but a handful had premature failure"
+
 ---
 
 Your dryer spins, tumbles, and beeps — but the clothes come out cold and damp. That's the classic symptom of a failed heating element or thermal fuse. At $30-$50 at a big-box appliance store, the OEM replacement stings. This 8544771 kit from the aftermarket crowd promises the same fix for less. But is "less" worth it when fire safety is involved? Here's what 215 buyers found.

@@ -1,4 +1,5 @@
 ---
+
 title: "Leggett & Platt Air Dream Sofa Bed Mattress"
 seo_title: "Leggett & Platt Air Dream Sofa Bed Mattress Review: Verdi"
 meta_description: "Our full leggett & platt air dream sofa bed mattress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B012E7Q6S6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dzdajfhjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most inflatable sofa beds are a compromise you apologize for. The Leggett & Platt Air Dream is the rare one you might actually brag about. With 215 ratings averaging 4.3 stars, this isn't a niche product — it's a proven solution for a very specific problem. Here's the real story.

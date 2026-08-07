@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGRP Decorator Receptacle, 15A 125V Standard Electrical Wa"
 seo_title: "ELEGRP Decorator Receptacle Review: 15A 125V Outlet Worth It?"
 meta_description: "ELEGRP Decorator Receptacle 15A 125V review: tamper-resistant, reliable, easy install. Real pros, cons, and buying advice for this 4.6-star outlet."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHXDPY6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Cv-G4VT2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rock-solid side-wiring terminals accept 14 AWG and 12 AWG solid copper without backstabbing — no push-in failure risk"
   - "Tamper-resistant shutters pass the 2023 NEC requirement without feeling stiff or hard to plug into"
   - "Flush-fit decorator faceplate design that sits flat against the wall with no wobble"
-cons:
+cons: 
   - "Screw terminals are not captive — remove them fully or risk dropping a screw into a live box"
   - "No USB ports or smart features — this is a bare-bones replacement, not an upgrade"
+
 ---
 
 If you're staring at a cracked, discolored outlet and thinking "I should just replace it," the ELEGRP Decorator Receptacle is the kind of product that makes that job take 15 minutes instead of an hour. At $11.99 for a single unit, it's priced at the higher end of the basic range — but you're paying for something that actually feels solid in the hand.

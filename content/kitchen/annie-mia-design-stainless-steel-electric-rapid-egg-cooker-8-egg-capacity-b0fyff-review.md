@@ -1,4 +1,5 @@
 ---
+
 title: "Annie & Mia Design Stainless Steel Electric Rapid Egg Cooker"
 seo_title: "Annie & Mia Design Egg Cooker Review: 8-Egg Capacity (2026)"
 meta_description: "Annie & Mia Design stainless steel egg cooker review: 8-egg capacity, rapid boiling, and poacher tray. See if it's worth buying at 4.3 stars."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FYFFDLQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y+TJ5RXpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel housing resists scratches and kitchen grime better than the cheap plastic shells on most sub-$30 egg cookers"
   - "Auto shut-off with audible beep operates on a simple thermal fuse — no digital timer to fail after a year"
   - "Included poaching tray and omelet insert turn a single-function gadget into a multi-tasker for under 20 minutes"
-cons:
+cons: 
   - "No keep-warm function — eggs sit in hot water until you unplug it, so they keep cooking if you walk away"
   - "Measuring cup's egg piercer is flimsy and dulls quickly; you'll want a dedicated pin for consistent results"
   - "8-egg capacity is the max, not a comfortable fit — large eggs can touch the heating plate if overfilled"
+
 ---
 
 **Bottom line up front:** If you eat eggs more than twice a week, the Annie & Mia Design Stainless Steel Electric Rapid Egg Cooker will pay for itself in convenience within a month. It's not fancy, but it does one job — cooking eggs consistently — without the plastic-warping issues that plague cheaper rivals.

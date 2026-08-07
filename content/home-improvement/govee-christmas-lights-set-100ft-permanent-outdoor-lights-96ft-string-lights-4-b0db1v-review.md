@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Christmas Lights Set, 100ft Permanent Outdoor Lights, "
 seo_title: "Govee Christmas Lights Set, 100ft Permanent Outdoo Review"
 meta_description: "Our full govee christmas lights set, 100ft permanent outdoor lights,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DB1VSVN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bFk428bxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of hauling a ladder out every November to staple up tangled incandescent strands, Govee's 100ft permanent outdoor light kit is the kind of product that makes you wonder why you waited so long. This isn't a throwaway seasonal string — it's designed to stay mounted year-round and double as everyday accent lighting. But "permanent" comes with some asterisks, and at this price point, you deserve to know exactly what you're getting before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Folinstall 60 Pack Small Glass Jars with Lids, 1.5 oz Mini H"
 seo_title: "Folinstall 60 Pack Small Glass Jars Review: 1.5 oz Storage"
 meta_description: "Honest Folinstall 60 pack small glass jars review: 1.5 oz mini jars with lids. Tested for spice storage, DIY projects & travel. Build quality, leaks & value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07VR1BK3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XXVqbPtiL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Thick, crack-resistant glass that survives dishwasher cycles and drops onto tile without breaking"
   - "Threaded lids with rubber gaskets seal tight enough to hold liquid without leaks during travel"
   - "Uniform 1.5 oz size fits standard spice racks and labels — no awkward odd shapes"
-cons:
+cons: 
   - "Lids are not fully airtight — moisture-sensitive items like ground coffee will lose freshness over weeks"
   - "Screw-on caps develop a slight metallic smell if left wet after hand-washing"
+
 ---
 
 **Folinstall 60 Pack Small Glass Jars Review: 60 Mini Jars That Actually Earn Their Space**

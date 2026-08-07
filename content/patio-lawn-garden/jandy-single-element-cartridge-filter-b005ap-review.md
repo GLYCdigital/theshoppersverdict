@@ -1,4 +1,5 @@
 ---
+
 title: "Jandy Single Element Cartridge Filter"
 seo_title: "Jandy Single Element Cartridge Filter Review: Verdict | T"
 meta_description: "Our full jandy single element cartridge filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B005AP4PG0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GNe1syouL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of wrestling with sand filter multiport valves or DE grids that need disassembly just to backwash, the Jandy Single Element Cartridge Filter deserves a hard look. This is the filter that pool owners recommend when they want decent filtration without the plumbing complexity. But it's not perfect — and the ongoing cartridge costs are something you need to budget for before you buy.

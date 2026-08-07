@@ -1,4 +1,5 @@
 ---
+
 title: "TILUCK Skinny Can Cooler for Slim Beer & Hard Seltzer, Stain"
 seo_title: "TILUCK Skinny Can Cooler for Slim Beer & Hard Selt Review"
 meta_description: "Our full tiluck skinny can cooler for slim beer & hard seltzer, stain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BNX6482R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IOmV6FBnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me guess: you're tired of your third White Claw tasting like lukewarm bathwater by the time you're halfway through the first one. The TILUCK Skinny Can Cooler is aimed squarely at that problem — and with a 4.8-star average across 240 ratings, it's clearly hitting the mark for most buyers. But is it worth your money? Here's the honest breakdown.

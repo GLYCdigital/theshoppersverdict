@@ -1,4 +1,5 @@
 ---
+
 title: "LEONLITE 8-Pack 7 Inch LED Hardscape Lighting, Retaining Wal"
 seo_title: "LEONLITE 8-Pack 7 Inch LED Hardscape Lighting, Ret Review"
 meta_description: "Our full leonlite 8-pack 7 inch led hardscape lighting, retaining wal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BHNN5BLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612qOEeiXqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re probably here because you’ve got a retaining wall that vanishes at sunset. The LEONLITE 8-pack of 7-inch LED hardscape lights is a popular fix — 225 ratings and a 4.5-star average suggest it’s not just hype. But before you drop money on eight fixtures, you need to know what you’re actually getting, where it shines, and where it’ll annoy you.

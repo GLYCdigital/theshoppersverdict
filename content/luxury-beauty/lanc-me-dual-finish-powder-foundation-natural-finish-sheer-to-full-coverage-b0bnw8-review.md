@@ -1,4 +1,5 @@
 ---
+
 title: "LancÃ´me Dual Finish Powder Foundation - Natural Finish, She"
 seo_title: "LancÃ´me Dual Finish Powder Foundation - Natural F Review"
 meta_description: "Our full lancã´me dual finish powder foundation - natural finish, she review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNW8M85G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z0X4Mx0XL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lancôme Dual Finish Powder Foundation: The One Compact That Does It All

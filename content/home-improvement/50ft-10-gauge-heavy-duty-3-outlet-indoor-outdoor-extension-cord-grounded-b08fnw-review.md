@@ -1,4 +1,5 @@
 ---
+
 title: "50ft 10-Gauge Heavy Duty 3-Outlet Indoor/Outdoor Extension C"
 seo_title: "50ft 10-Gauge Extension Cord Review: Heavy Duty 3-Outlet"
 meta_description: "Honest review of the 50ft 10-gauge 3-outlet extension cord. See real performance, durability, and whether this heavy-duty cord is worth the price."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08FNWMCT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7176mU1NarL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10-gauge wire handles 15 amps at full 50ft run without voltage drop — rare in this category"
   - "Molded-on triple-tap head with individual rubberized covers keeps moisture out when not in use"
   - "Jacket stays flexible in freezing temps down to about -40°F; doesn't turn to pipe"
-cons:
+cons: 
   - "Heavy — 50 feet of 10-gauge weighs roughly 7-8 lbs, so it's not a daily carry item"
   - "The male plug end is bulky; can be tight against recessed wall outlets"
   - "No built-in breaker or light indicator on the head, which you'd expect at this price point"
+
 ---
 
 If you've ever run a circular saw at the end of a 50-foot "heavy duty" cord from the hardware store and watched it bog down, you know the problem. Most cords claiming heavy duty are 14-gauge or 12-gauge at best, and by the time you're 40 feet in, the voltage drop is real. This 10-gauge cord is different. It's the one you grab when you actually need the tool to perform at full power, not just turn on.

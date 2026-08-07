@@ -1,4 +1,5 @@
 ---
+
 title: "Czpalo Cooling Elevated Dog Bed"
 seo_title: "Czpalo Cooling Elevated Dog Bed Review: 2026 Buyer's Guide"
 meta_description: "Read our honest Czpalo Cooling Elevated Dog Bed review. Covers airflow, durability, size fit, and who should buy it. 4.4-star rating analyzed."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6BKKHH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yOGx2KUiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 360-degree airflow — mesh fabric on all four sides plus the sleeping surface keeps hot dogs cool even in humid summer heat"
   - "Tool-free assembly in under 60 seconds; the frame locks together with push-button connectors that actually stay put"
   - "Anti-slip rubber feet prevent the bed from scooting across hardwood or tile when your dog jumps on and off"
-cons:
+cons: 
   - "Mesh surface has zero padding — dogs with arthritis or pressure-point sensitivity may need a blanket on top"
   - "Weight capacity is optimistic for larger breeds; the frame wobbles noticeably if your dog exceeds roughly 60 pounds"
+
 ---
 
 **Czpalo Cooling Elevated Dog Bed Review: Does the Airflow Actually Deliver?**

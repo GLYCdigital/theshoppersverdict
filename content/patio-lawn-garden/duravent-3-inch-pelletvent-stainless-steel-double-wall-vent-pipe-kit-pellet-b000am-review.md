@@ -1,4 +1,5 @@
 ---
+
 title: "Duravent 3 Inch PelletVent Stainless Steel Double Wall Vent"
 seo_title: "Duravent 3-Inch PelletVent Review: Is It Worth It? (2026)"
 meta_description: "Honest Duravent 3-inch PelletVent double wall vent review. See real performance, clearance specs, and whether this stainless steel pipe kit fits your pellet stove."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000AM8T10/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G4t4HAYqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision twist-lock joint requires zero screws — installs in under a minute per section and won't separate under thermal expansion"
   - "1-inch clearance to combustibles rating lets you run this pipe tighter to walls than most single-wall alternatives"
   - "Welded inner liner prevents the cold-wall condensation issue that plagues cheaper snap-together pellet vents"
-cons:
+cons: 
   - "Not cheap — expect to pay premium pricing per foot compared to basic galvanized single-wall pipe"
   - "The stainless outer layer scuffs easily during handling; wear gloves and set sections down carefully on soft surfaces"
   - "Twist-lock can be stiff on first use, especially in cold weather; a light spray of silicone lubricant on the gasket helps"
+
 ---
 
 ## Is This the Last Pellet Vent Pipe You'll Ever Buy?

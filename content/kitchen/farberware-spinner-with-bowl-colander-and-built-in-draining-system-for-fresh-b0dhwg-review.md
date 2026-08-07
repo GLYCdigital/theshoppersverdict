@@ -1,4 +1,5 @@
 ---
+
 title: "Farberware Spinner with Bowl, Colander and Built in draining"
 seo_title: "Farberware Spinner with Bowl & Colander Review (2026)"
 meta_description: "Honest Farberware spinner with bowl and colander review: Does the built-in draining system work? Tested for salads, berries & herbs. Real pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHWGWS7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SjIT+d3HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated draining bowl means you skip the separate sink strainer step — spin, dump, dress, and serve from the same vessel"
   - "Colander basket locks securely into the bowl; no wobble or pop-out mid-spin, even with a full load of wet greens"
   - "Simple push-button brake stops the basket fast, so you're not waiting around for it to wind down"
-cons:
+cons: 
   - "No locking lid latch — the lid sits on by friction, so vigorous spinning can occasionally pop it loose if you overload"
   - "Basket capacity is on the smaller side (~5 quarts); big salad-for-a-crowd batches need to be done in two rounds"
+
 ---
 
 **The Farberware Spinner with Bowl, Colander, and Built-in Draining Is Smarter Than It Looks — Here's Who Should Buy It**

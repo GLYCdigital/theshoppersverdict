@@ -1,4 +1,5 @@
 ---
+
 title: "Jolilab eyeshadow stick"
 seo_title: "Jolilab eyeshadow stick Review: Verdict | TSV"
 meta_description: "Our full jolilab eyeshadow stick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FZTGHC72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BEERUQh2L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Jolilab eyeshadow stick sits in that tricky middle ground: priced like a luxury product, rated like an average one (3.9 stars across 195 ratings), and delivering a formula that's genuinely impressive — if you know its quirks. After digging through the data and user feedback, here's the real story.

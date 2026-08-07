@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Sonicare c3 medium premium plaque control"
 seo_title: "Philips Sonicare c3 medium premium plaque control Review:"
 meta_description: "Our full philips sonicare c3 medium premium plaque control review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZ9KYGHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GZWYDNrxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're paying a 40% premium over standard Sonicare heads. Here's whether the C3 Medium Premium actually earns it — or if you're just funding Philips' marketing department.

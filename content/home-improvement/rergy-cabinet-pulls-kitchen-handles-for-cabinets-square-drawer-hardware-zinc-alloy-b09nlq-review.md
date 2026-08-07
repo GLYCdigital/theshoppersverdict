@@ -1,4 +1,5 @@
 ---
+
 title: "Rergy Cabinet Pulls Kitchen Handles for Cabinets Square Draw"
 seo_title: "Rergy Cabinet Pulls Kitchen Handles for Cabinets S Review"
 meta_description: "Our full rergy cabinet pulls kitchen handles for cabinets square draw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NLQ4WRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514xi75gwvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most cabinet pulls under $2 a piece feel like they belong in a vending machine. The Rergy square drawer handles don't. At a 4.6-star average across 229 ratings, these zinc alloy pulls have real staying power in a category flooded with disposable hardware. Here's the full breakdown after digging through spec sheets and customer feedback.

@@ -1,4 +1,5 @@
 ---
+
 title: "CHEFMAN 2 Qt Mini Air Fryer, Digital Space-Saving Compact Air Fryer with Nonstick and Dishwasher Safe Basket, Quick & Easy Meals in Minutes, Digital Timer and Shake Reminder, White"
 seo_title: "CHEFMAN 2 Qt Mini Air Fryer Review: Compact Power in 2026 inch"
 meta_description: "CHEFMAN 2 Qt Mini Air Fryer review: 4.5-star compact digital air fryer. Tested for performance, noise, and ease. See who it fits and who should skip."
@@ -11,14 +12,15 @@ review_count: 29209
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNJ2Z73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ShR-Mf-wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2-quart capacity fits a full meal for one or two sides for two people — not a toy-sized basket"
   - "Dishwasher-safe basket with nonstick coating that actually survives regular cleaning cycles"
   - "Shake reminder at the halfway point catches what many budget fryers miss — even heating"
-cons:
+cons: 
   - "No presets for specific foods; you'll set time and temp manually every time"
   - "Basket is nonstick but the exterior white finish shows fingerprints and grease smudges quickly"
   - "Fan noise at full power is noticeable — not loud, but you'll hear it in a small kitchen"
+
 ---
 
 Let me be direct about the CHEFMAN 2 Qt Mini Air Fryer: it's the rare compact appliance that earns its counter space. Priced at $49.99 and carrying a 4.5-star average across 29,209 ratings, this little white box has become a bestseller for a reason. But "mini" doesn't mean "compromise" — and it also doesn't mean "perfect." Here's the real breakdown.

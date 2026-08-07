@@ -1,4 +1,5 @@
 ---
+
 title: "MagLite ML50L LED Flashlight"
 seo_title: "MagLite ML50L LED Flashlight Review: Verdict | TSV"
 meta_description: "Our full maglite ml50l led flashlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B018GBAC02/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wh1pdIFfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The MagLite Name Still Carries Weight — But Is the ML50L Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Wired Keyboard and Mouse - KM300C, Black"
 seo_title: "Dell KM300C Wired Keyboard & Mouse Review (2026)"
 meta_description: "Dell KM300C wired keyboard and mouse combo review: quiet keys, spill resistance, plug-and-play setup, and honest downsides. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B77NQCPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UauwkHeHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quiet, tactile scissor keys that feel surprisingly premium for the price"
   - "Spill-resistant design with drainage holes — real protection for clumsy mornings"
   - "Plug-and-play USB-A connection with zero driver hassle, works across Windows, ChromeOS, and Linux"
-cons:
+cons: 
   - "No USB passthrough or media keys — basic layout only, no backlighting"
   - "Mouse is compact and flat; larger hands will cramp during extended sessions"
+
 ---
 
 **The boring workhorse that actually gets it right**

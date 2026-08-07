@@ -1,4 +1,5 @@
 ---
+
 title: "Upfelw Modern Crystal Tree Branch Chandelier, Art Deco Raind"
 seo_title: "Upfelw Modern Crystal Tree Branch Chandelier, Art  Review"
 meta_description: "Our full upfelw modern crystal tree branch chandelier, art deco raind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9L9QH7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81goPmkDXTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 4.3-star average across 215 ratings tells you this fixture isn't a dud — but it also isn't a "hang it in 20 minutes" project. The Upfelw Modern Crystal Tree Branch Chandelier delivers serious Art Deco drama if you're willing to invest assembly time and have the right ceiling height. Here's what you're actually getting.**

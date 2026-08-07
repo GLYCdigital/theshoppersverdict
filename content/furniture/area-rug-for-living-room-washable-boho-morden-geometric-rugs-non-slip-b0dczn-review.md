@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug for Living Room: Washable Boho Morden Geometric Rug"
 seo_title: "Washable Boho Geometric Area Rug Review (2026)"
 meta_description: "Honest review of the Washable Boho Morden Geometric Area Rug: durability, shedding, non-slip backing, and cleaning results from 220+ verified ratings."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCZNMD99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uTx8I+e0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machine-washable construction survives repeated cycles without fraying or losing pile density"
   - "Low-profile 0.3-inch thickness works under doors and doesn't create a tripping hazard"
   - "Non-slip TPR backing grips hardwood and tile floors without a separate rug pad"
-cons:
+cons: 
   - "Pattern alignment between panels is occasionally imperfect, visible on larger sizes"
   - "Initial chemical odor lasts 2-4 days even after airing out"
   - "Thinner than product photos suggest; not plush enough for bare-floor lounging"
+
 ---
 
 Let's be blunt: most "washable" rugs under $100 are basically glorified bath mats with a geometric print slapped on. This boho number from Amazon's budget tier actually tries harder — but does it hold up to real life with pets, kids, and a washing machine that's seen better days? Here's what 220 ratings averaging 4.4 stars actually tell you.

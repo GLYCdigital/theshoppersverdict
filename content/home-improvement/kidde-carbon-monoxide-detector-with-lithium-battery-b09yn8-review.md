@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde Carbon Monoxide Detector with Lithium Battery"
 seo_title: "Kidde Carbon Monoxide Detector with Lithium Batter Review"
 meta_description: "Our full kidde carbon monoxide detector with lithium battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09YN89ZNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+ASY2nyIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You hear the phrase "silent killer" thrown around with carbon monoxide detectors, but here's what that actually means: CO is colorless, odorless, and the symptoms — headache, dizziness, nausea — feel like the flu. By the time you're confident something's wrong, you might have minutes, not hours. The Kidde with a sealed lithium battery removes the two biggest excuses people have for not maintaining a CO detector: battery swaps and chirping. But is it the right one for your home? Let's dig in.

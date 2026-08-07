@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon: 100 Assorted Card Bundle - with Foils and 5 Ultra R"
 seo_title: "Pokemon: 100 Assorted Card Bundle - with Foils and Review"
 meta_description: "Our full pokemon: 100 assorted card bundle - with foils and 5 ultra r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDJPW4H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91TJLzN2+7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the mystery. You're looking at a 100-card Pokemon bundle that promises foils and five Ultra Rares. The 4.5-star rating across 225 reviews tells you it's generally working for people, but you need to know what you're actually buying before you click.

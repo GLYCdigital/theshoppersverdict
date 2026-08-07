@@ -1,4 +1,5 @@
 ---
+
 title: "KING BIRD Large Raised Garden Bed with Netting Galvanized El"
 seo_title: "KING BIRD Large Raised Garden Bed with Netting Gal Review"
 meta_description: "Our full king bird large raised garden bed with netting galvanized el review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CWFH9ZJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xH0-rPHDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KING BIRD Large Raised Garden Bed with Netting** is one of those products that solves a real problem — keeping pests off your vegetables — but tests your patience getting there. At 3.7 stars across 185 ratings, the consensus is clear: the concept is great, the execution is uneven. Here's what you need to know before you commit.

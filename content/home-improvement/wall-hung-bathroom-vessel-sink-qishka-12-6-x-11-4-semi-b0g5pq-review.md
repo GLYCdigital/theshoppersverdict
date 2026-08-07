@@ -1,7 +1,8 @@
 ---
-title: "Wall Hung Bathroom Vessel Sink, QISHKA 12.6\" X 11.4\" Semi-Ov"
-seo_title: "Wall Hung Bathroom Vessel Sink, QISHKA 12.6\" X 11. Review"
-meta_description: "Our full wall hung bathroom vessel sink, qishka 12.6\" x 11.4\" semi-ov review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Wall Hung Bathroom Vessel Sink, QISHKA 12.6\ X 11.4\ Semi-Ov"
+seo_title: "Wall Hung Bathroom Vessel Sink, QISHKA 12.6\ X 11. Review"
+meta_description: "Our full wall hung bathroom vessel sink, qishka 12.6\ x 11.4\ semi-ov review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wall-hung-bathroom-vessel-sink-qishka-12-6-x-11-4-semi-b0g5pq-review"
 image_alt: "Wall Hung Bathroom Vessel Sink, QISHKA 12.6 X 11.4 Semi-Oval Floating Ceramic Wash Hand Basin Wall Mount Vanity Sink for"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G5PQ62DC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J01nBHHyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your bathroom is tight on square footage, you've probably stared at bulky vanity cabinets and wished they'd just… disappear. The QISHKA wall-hung vessel sink does exactly that. This 12.6-inch semi-oval ceramic basin mounts directly to the wall, freeing up the floor completely. At 4.5 stars across 225 ratings, it's clearly working for a lot of people. But before you commit, here's what 225 buyers actually learned.

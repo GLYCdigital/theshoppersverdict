@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Wolverine V2 Pro Wireless Gaming Controller for PlaySt"
 seo_title: "Razer Wolverine V2 Pro Wireless Gaming Controller  Review"
 meta_description: "Our full razer wolverine v2 pro wireless gaming controller for playst review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CB1Y3YN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jZWKxr95L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the Razer Wolverine V2 Pro is a controller that knows exactly what it wants to be—and it isn't a DualSense replacement. It's a tournament-grade weapon for players who prioritize speed over immersion. Whether that tradeoff is worth your money depends entirely on what you play.

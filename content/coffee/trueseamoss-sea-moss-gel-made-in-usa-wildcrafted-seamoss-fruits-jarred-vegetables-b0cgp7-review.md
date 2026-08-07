@@ -1,4 +1,5 @@
 ---
+
 title: "TrueSeaMoss Sea Moss Gel â€“ Made in USA â€“ Wildcrafted Sea"
 seo_title: "TrueSeaMoss Sea Moss Gel â€“ Made in USA â€“ Wildc Review"
 meta_description: "Our full trueseamoss sea moss gel â€“ made in usa â€“ wildcrafted sea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CGP7ZWXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810KEvDmHjL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the wellness-marketing fog. TrueSeaMoss Sea Moss Gel is a jarred supplement claiming wildcrafted St. Lucian sea moss, blended with fruit, made in the USA. At 3.8 stars from 190 ratings, it's not a runaway hit — but it's also not a dud. Here's what you're actually paying for.

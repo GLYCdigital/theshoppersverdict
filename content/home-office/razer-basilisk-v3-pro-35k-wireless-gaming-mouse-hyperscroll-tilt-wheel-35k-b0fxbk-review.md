@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Basilisk V3 Pro 35K Wireless Gaming Mouse: HyperScroll"
 seo_title: "Razer Basilisk V3 Pro 35K Wireless Gaming Mouse: H Review"
 meta_description: "Our full razer basilisk v3 pro 35k wireless gaming mouse: hyperscroll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXBKQ2CF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QGU-U1u9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line First:** This is not a mouse for everyone. It's a do-everything peripheral that tries to be a spreadsheet-scrolling office workhorse and a 4K-aiming esports weapon in one shell. It mostly succeeds, but the price and weight mean you need to know exactly what you're buying.

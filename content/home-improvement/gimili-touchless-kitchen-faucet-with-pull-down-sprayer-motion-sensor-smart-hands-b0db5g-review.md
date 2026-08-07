@@ -1,4 +1,5 @@
 ---
+
 title: "GIMILI Touchless Kitchen Faucet with Pull Down Sprayer, Moti"
 seo_title: "GIMILI Touchless Kitchen Faucet with Pull Down Spr Review"
 meta_description: "Our full gimili touchless kitchen faucet with pull down sprayer, moti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB5GB959/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MBow6YqFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GIMILI Touchless Kitchen Faucet isn't trying to reinvent the sink — it's trying to make the most annoying part of cooking (touching a handle with raw chicken fingers) disappear. At 4.4 stars across 220 ratings, it's clearly doing something right. But "touchless" comes with quirks, and you should know them before you cut into your countertop.

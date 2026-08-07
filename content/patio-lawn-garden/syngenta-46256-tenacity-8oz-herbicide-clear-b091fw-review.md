@@ -1,4 +1,5 @@
 ---
+
 title: "Syngenta 46256 Tenacity 8oz Herbicide, Clear"
 seo_title: "Syngenta 46256 Tenacity 8oz Herbicide, Clear Review: Verd"
 meta_description: "Our full syngenta 46256 tenacity 8oz herbicide, clear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091FWLB7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MREiWWr6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've battled creeping bentgrass or crabgrass that shrugs off standard weed-and-feed products, you already know the frustration. Syngenta Tenacity isn't another me-too herbicide. It's the product lawn care professionals reach for when conventional options fail — and the 4.4-star rating across 220 Amazon reviews reflects that reputation. But it's also a product that requires patience, a sprayer, and a tolerance for watching your lawn look temporarily weird.

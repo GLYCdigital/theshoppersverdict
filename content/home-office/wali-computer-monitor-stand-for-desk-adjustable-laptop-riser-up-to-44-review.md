@@ -1,16 +1,17 @@
 ---
+
 title: "WALI Computer Monitor Stand for Desk, Adjustable Laptop Riser, up to 44 lbs | Monitor Riser Under-Desk Storage, Fits Monitors, Laptops, Printers, for Home, Office, School Supplies (PTT001), 1 Pack, Black"
 seo_title: "WALI Computer Monitor Review: Verdict (4.7/5) | TSV"
 meta_description: "The legs screw on (easily by hand- no tools needed) in under a minute and 15,805+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "wali-computer-monitor-stand-for-desk-adjustable-laptop-riser-up-to-44-review"
 image_alt: "WALI Computer Monitor Stand for Desk, Adjustable Laptop Riser, up to 44 lbs | Monitor Riser Under-Desk Storage, Fits Mon"
-keywords:
+keywords: 
   - "wali computer monitor review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the WALI Computer Monitor Stand?"
     answer: "The legs screw on (easily by hand- no tools needed) in under a minute and adjusting the height is simple... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the WALI Computer Monitor Stand?"
@@ -23,12 +24,13 @@ review_count: 15805
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2RTY746/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N5rAfJtmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The legs screw on (easily by hand- no tools needed) in under a minute and adjusting the height is si."
   - "Great little stand The legs are plastic but sturdy and the base is metal."
   - "Really great value and a very functional piece."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be honest about monitor risers: most are flimsy plastic junk that wobbles with every keystroke. The WALI PTT001 is not that. At $13.99, this steel riser punches well above its price point — and with 15,805 Amazon ratings averaging 4.7 stars, it's clearly doing something right.

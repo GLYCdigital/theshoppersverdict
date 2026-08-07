@@ -1,4 +1,5 @@
 ---
+
 title: "GREENER WALKER Poop Bags for Dog Waste with OK BIOBASED Cert"
 seo_title: "GREENER WALKER Poop Bags Review: Are They Worth It?"
 meta_description: "GREENER WALKER poop bags review: OK BIOBASED certified, leak-proof, and durable. See real pros, cons, and if these eco-friendly bags suit your dog."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFVZ7FR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814B-EcGYxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Certified OK BIOBASED — 100% of the bag's carbon content comes from renewable sources, not just marketing claims"
   - "Thicker gauge material resists punctures and tears even when picking up wet, messy stools"
   - "Easy-tear perforation works consistently — no wrestling with the roll mid-walk"
-cons:
+cons: 
   - "Scents are subtle — if you want heavy odor masking, these won't deliver"
   - "Rolls run slightly narrower than some competitors, so larger hands may find them snug"
+
 ---
 
 Let’s be blunt: most poop bags are the same flimsy, green-tinted plastic that tears the moment you need them most. The GREENER WALKER bags aren't that. With a 4.8-star average across 240 ratings, these bags have earned their place in my rotation — and likely yours too.

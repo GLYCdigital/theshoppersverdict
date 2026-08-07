@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Jelly Nude Gel Nail Polish, 16ml Sheer Neutral Transluc"
 seo_title: "GAOY Jelly Nude Gel Nail Polish, 16ml Sheer Neutra Review"
 meta_description: "Our full gaoy jelly nude gel nail polish, 16ml sheer neutral transluc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CDX3WHB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cksOejHTL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GAOY Jelly Nude isn't trying to be your grandma's opaque beige polish. This is a translucent, glass-like finish that's having a serious moment in nail trends — and for good reason. If you've ever struggled with gel polish that looks thick, plasticky, or obviously "done," this formula is the antidote. But sheer formulas come with their own learning curve, and I'm going to tell you exactly what you're signing up for.

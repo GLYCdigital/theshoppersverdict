@@ -1,4 +1,5 @@
 ---
+
 title: "EJIAXIN Desk Lamp for Home Office"
 seo_title: "EJIAXIN Desk Lamp Review: Best Home Office Lighting?"
 meta_description: "EJIAXIN Desk Lamp review: 4.6-star rated LED lighting with dimming, eye-care tech, and flexible arm. See if it's worth your money."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL54NPGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71utkkeP2qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperature modes (3000K/4500K/6000K) with stepless dimming from 10% to 100% brightness"
   - "Flexible gooseneck arm holds position firmly — no sagging even at full extension"
   - "Flicker-free LED panel with anti-glare diffuser reduces eye strain during long work sessions"
   - "Space-saving clamp base frees up desk real estate without sacrificing stability"
-cons:
+cons: 
   - "Clamp base requires a desk edge at least 0.8 inches thick — won't fit glass or ultra-thin surfaces"
   - "Touch controls are sensitive — brushing the panel accidentally cycles through modes"
   - "USB charging port on base outputs only 5W — slow for modern phones"
+
 ---
 
 # EJIAXIN Desk Lamp for Home Office: The $30 Lighting Upgrade Your Workstation Actually Needs

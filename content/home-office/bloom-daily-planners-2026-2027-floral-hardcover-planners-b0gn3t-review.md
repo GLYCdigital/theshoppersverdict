@@ -1,4 +1,5 @@
 ---
+
 title: "bloom daily planners 2026-2027 Floral Hardcover Planners"
 seo_title: "bloom Daily Planners 2026-2027 Review: Floral Hardcover"
 meta_description: "Honest bloom daily planners 2026-2027 floral hardcover review: layout, paper quality, durability, and who should buy. 4.6-star rated."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GN3T3LWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RZImTJpUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lies flat when open thanks to the lay-flat binding — no fighting to keep your page visible while writing"
   - "Premium 120gsm paper holds up to fountain pens and heavy ink without ghosting or bleed-through"
   - "July 2026 to December 2027 date range covers 18 months — more runway than standard 12-month planners"
-cons:
+cons: 
   - "No pen loop included, which is a small convenience miss at this price point"
   - "Weekly layout offers limited space for detailed time-blocking — fine for tasks, tight for hourly schedules"
+
 ---
 
 **The 18-month planner that actually survives daily use**

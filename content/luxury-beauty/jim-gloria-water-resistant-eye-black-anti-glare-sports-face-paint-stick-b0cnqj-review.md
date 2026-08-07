@@ -1,4 +1,5 @@
 ---
+
 title: "Jim&Gloria Water Resistant Eye Black, Anti-Glare Sports Face"
 seo_title: "Jim&Gloria Water Resistant Eye Black, Anti-Glare S Review"
 meta_description: "Our full jim&gloria water resistant eye black, anti-glare sports face review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CNQJP264/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M+OPywYUL._SL1500_.jpg"
-pros:
+pros: 
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $8 solution that actually kills glare — but is it a one-hit wonder?**

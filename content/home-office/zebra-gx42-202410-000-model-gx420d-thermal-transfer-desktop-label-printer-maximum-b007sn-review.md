@@ -1,4 +1,5 @@
 ---
+
 title: "Zebra GX42-202410-000 Model GX420d Thermal Transfer Desktop "
 seo_title: "Zebra GX42-202410-000 Model GX420d Thermal Transfe Review"
 meta_description: "Our full zebra gx42-202410-000 model gx420d thermal transfer desktop  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B007SNQ8JO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ltE14WzkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Zebra GX420d is the printer that shows up in warehouses, shipping departments, and clinics—the workhorse you inherit when you take a job, not the one you buy on a whim. But here's the thing: it's also sitting on Amazon with a 3.6-star average across 180 ratings. That's a red flag for a printer with this reputation. Let's dig into why.

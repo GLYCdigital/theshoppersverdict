@@ -1,4 +1,5 @@
 ---
+
 title: "Shappy Red Carpet Runner Rug for Party 55gsm Thickness Red C"
 seo_title: "Shappy Red Carpet Runner Rug for Party 55gsm Thick Review"
 meta_description: "Our full shappy red carpet runner rug for party 55gsm thickness red c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FVSLTGTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pPYIJC1XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the chase: you're here because you need a red carpet runner that won't look like a cheap Halloween prop. The Shappy Red Carpet Runner Rug at 55gsm is the middle child of event flooring — better than the flimsy 30gsm strips that tear if you look at them wrong, but not the museum-grade pile you'd find at a gala. After digging through 200 ratings at a 4.0 average, here's what actually matters.

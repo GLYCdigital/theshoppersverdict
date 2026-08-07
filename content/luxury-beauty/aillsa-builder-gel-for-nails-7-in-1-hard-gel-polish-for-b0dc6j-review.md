@@ -1,4 +1,5 @@
 ---
+
 title: "AILLSA Builder Gel for Nails 7 In 1 Hard Gel Polish for Nail"
 seo_title: "AILLSA Builder Gel Review: 7-in-1 Hard Gel Worth It?"
 meta_description: "AILLSA 7-in-1 builder gel review: Does this hard gel polish deliver strength, self-leveling, and lasting wear? Honest pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DC6J98P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610eQO-+UiL._SL1500_.jpg"
-pros:
+pros: 
   - "Self-leveling formula that smooths out brush strokes in under 30 seconds, reducing filing time significantly"
   - "High viscosity (honey-like) means it won't flood cuticles even for shaky hands — forgiving for home users"
   - "Cures to a hard, impact-resistant finish in 60 seconds under a 48W lamp; survives typing, dishwashing, and accidental door jams"
-cons:
+cons: 
   - "Thick consistency makes it challenging to extend the nail length without practice; beginners may get lumpy apexes"
   - "Requires a separate base coat for maximum adhesion on oily nail beds — the '7-in-1' claim overstates what it does alone"
+
 ---
 
 **The AILLSA 7-in-1 Builder Gel: One Jar to Replace Your Entire Nail Kit?**

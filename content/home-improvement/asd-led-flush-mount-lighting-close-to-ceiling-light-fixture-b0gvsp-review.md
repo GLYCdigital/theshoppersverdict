@@ -1,4 +1,5 @@
 ---
+
 title: "ASD LED Flush Mount Lighting, Close to Ceiling Light Fixture"
 seo_title: "ASD LED Flush Mount Review: Bright, Slim Ceiling Light"
 meta_description: "Read our honest ASD LED flush mount ceiling light review. Covers brightness, color temps, installation ease, and real buyer feedback. See if it fits your room."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVSP5M4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71byQLHU69L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperatures (3000K/4000K/5000K) switchable on the fixture itself — no separate module to lose"
   - "Slim 1.4-inch profile sits nearly flush against the ceiling, clearing most recessed obstacles and low ceilings"
   - "Integrated LEDs rated for 50,000 hours — roughly 22 years at 6 hours daily use"
-cons:
+cons: 
   - "No dimming capability — you get three brightness levels essentially, not a true dimmer range"
   - "Junction box mounting screws are tight against the canopy; larger hands may struggle during install"
+
 ---
 
 Let's be blunt: most flush-mount LED fixtures under $50 are a gamble. You're either getting a harsh blue-white glare bomb or a cheap plastic dome that yellows in 18 months. The ASD LED Flush Mount sits in a different category, and after digging through 225 ratings and the spec sheet, here's what actually matters before you buy.

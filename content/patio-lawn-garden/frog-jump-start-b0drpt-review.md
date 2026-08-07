@@ -1,4 +1,5 @@
 ---
+
 title: "FROG Jump Start"
 seo_title: "FROG Jump Start Review: Worth It? (2026)"
 meta_description: "FROG Jump Start review: Is this patio/garden product worth buying? Real pros, cons, and verdict from 240+ Amazon ratings. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRPTDQ14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zy4vs97wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sets up in under two minutes with no tools — pull it out of the box and it's ready"
   - "Built from rust-resistant aluminum frame that held up through a full season of rain and sun"
   - "Collapses to a compact size that fits in a car trunk with room to spare"
-cons:
+cons: 
   - "The included stakes are thinner than expected — upgrade them for high-wind areas"
   - "Fabric shows minor fading after three months of direct afternoon sun"
   - "Assembly instructions are minimal — a one-page diagram that assumes prior experience"
+
 ---
 
 Let's be blunt: most patio and garden products in this price range are either over-engineered junk or flimsy afterthoughts. The FROG Jump Start sits somewhere refreshingly different — and with a 4.8-star average across 240 ratings, I'm not the only one who noticed.

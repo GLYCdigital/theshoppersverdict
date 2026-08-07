@@ -1,4 +1,5 @@
 ---
+
 title: "Stoke Voltaics Nomad Cooking System with Bag, Electric Campi"
 seo_title: "Stoke Voltaics Nomad Cooking System with Bag, Elec Review"
 meta_description: "Our full stoke voltaics nomad cooking system with bag, electric campi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTVDC2TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YMe+n8JGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Electric camp stoves used to be a punchline. Then power stations got cheap, and suddenly the Stoke Voltaics Nomad makes a lot of sense. This is a 200–1000W induction-style burner that runs off DC power, bundled with a padded carry bag, aimed at overlanders, van-lifers, and anyone who's tired of wrestling with propane tanks.

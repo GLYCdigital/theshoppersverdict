@@ -1,4 +1,5 @@
 ---
+
 title: "Decotalk Wood Grain Contact Paper for Cabinets Walnut Wood C"
 seo_title: "Decotalk Wood Grain Contact Paper Review: Walnut Cabinet Wrap"
 meta_description: "Decotalk Wood Grain Contact Paper review: Does this walnut peel-and-stick cabinet wrap hold up? Real pros, cons, and buying advice from 225+ ratings."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095YF98JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cFmFs3aEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic 3D wood grain texture that genuinely mimics walnut veneer, not a flat printed pattern"
   - "Thick 0.28mm PVC construction resists tearing during application and holds up to daily kitchen use"
   - "Heat-resistant adhesive allows repositioning during install and survives cabinet surface temperatures"
-cons:
+cons: 
   - "Shiny gloss finish differs from the matte look many expect from natural walnut — check photos carefully"
   - "Requires a heat gun or hairdryer for corners and curved edges; cold application leads to lifting"
+
 ---
 
 **The $30 Kitchen Renovation That Doesn't Look Like a Renter's Special**

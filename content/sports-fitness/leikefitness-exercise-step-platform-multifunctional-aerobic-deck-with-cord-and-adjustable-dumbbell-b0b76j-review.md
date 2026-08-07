@@ -1,4 +1,5 @@
 ---
+
 title: "leikefitness Exercise Step Platform, Multifunctional Aerobic"
 seo_title: "leikefitness Exercise Step Platform, Multifunction Review"
 meta_description: "Our full leikefitness exercise step platform, multifunctional aerobic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B76J3VXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mUAc2bUuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict:** The leikefitness Exercise Step Platform is a legitimately versatile piece of home cardio gear that earns its 4.6-star rating through smart design and genuine value. It's not a commercial-grade step bench, but for home users who want step aerobics plus light strength training without buying three separate pieces of equipment, this is a smart buy.

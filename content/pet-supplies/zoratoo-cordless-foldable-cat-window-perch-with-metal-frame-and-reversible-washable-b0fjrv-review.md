@@ -1,4 +1,5 @@
 ---
+
 title: "Zoratoo Cordless & Foldable Cat Window Perch with Metal Fram"
 seo_title: "Zoratoo Cordless & Foldable Cat Window Perch with  Review"
 meta_description: "Our full zoratoo cordless & foldable cat window perch with metal fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJRV3HBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VLSR8ghPL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Zoratoo Cordless & Foldable Cat Window Perch: The Perch That Finally Works Without Suction Cups

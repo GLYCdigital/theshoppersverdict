@@ -1,4 +1,5 @@
 ---
+
 title: "Laza Chrome Nail Powder Mirror Effect Metallic Dust Holograp"
 seo_title: "Laza Chrome Nail Powder Mirror Effect Metallic Dus Review"
 meta_description: "Our full laza chrome nail powder mirror effect metallic dust holograp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F53R3PZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CXIkn7SuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Short Version: Chrome Effect Without the Salon Price Tag

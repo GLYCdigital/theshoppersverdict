@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Ideas 123 Sesame Street 21324 Building Kit; Awesome Bui"
 seo_title: "LEGO Ideas 123 Sesame Street 21324 Building Kit; A Review"
 meta_description: "Our full lego ideas 123 sesame street 21324 building kit; awesome bui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B08NFC2GSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zewVXHChL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Sesame Street Set That Makes Grown Adults Weep With Nostalgia

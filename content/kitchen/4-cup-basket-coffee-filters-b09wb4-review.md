@@ -1,4 +1,5 @@
 ---
+
 title: "4 Cup Basket Coffee Filters"
 seo_title: "4 Cup Basket Coffee Filters Review: Worth It? (2026)"
 meta_description: "Honest 4 Cup Basket Coffee Filters review: fit, strength, and flavor. See if these #4 filters beat the name brands before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WB4YL7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FZH1aredL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thicker paper than most store brands — no tearing when you scoop grounds in"
   - "Fits Mr. Coffee and Hamilton Beach 4-cup brewers with zero folding or crimping"
   - "Unbleached, so no chemical aftertaste in your morning cup"
-cons:
+cons: 
   - "No perforated tab for easy lifting — you'll pinch the edges to remove spent grounds"
   - "Some units arrive slightly compressed in the box, making the first few filters feel bunched"
+
 ---
 
 **You don't need a $200 espresso machine to drink better coffee.** The difference between a good pot and a bitter one often comes down to a 4-cent piece of paper. These 4 Cup Basket Coffee Filters have 235 Amazon ratings averaging 4.7 stars, and after looking at the build and the feedback, that number holds up. Here's who these are for, what they do differently, and where they stumble.

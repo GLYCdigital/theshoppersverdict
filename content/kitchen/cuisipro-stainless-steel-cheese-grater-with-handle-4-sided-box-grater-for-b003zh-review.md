@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisipro Stainless Steel Cheese Grater with Handle, 4 Sided"
 seo_title: "Cuisipro 4-Sided Cheese Grater Review: Sharp, Sturdy, Worth It"
 meta_description: "Cuisipro 4-sided stainless steel cheese grater review: sharp blades, sturdy build, 4 grating options. See pros, cons & real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003ZHU8M0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717Rm3IMfOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Razor-sharp blades cut through hard cheeses like Parmigiano-Reggiano cleanly, without shredding your knuckles"
   - "All-stainless construction (including the base) means no plastic parts to crack or absorb odors"
   - "Four distinct grating surfaces handle everything from fine zest to thick slices"
-cons:
+cons: 
   - "No rubber feet or non-slip base — can slide on smooth countertops without a damp towel underneath"
   - "Dishwasher-safe per the manufacturer, but hand-washing keeps the sharp edges from dulling prematurely"
+
 ---
 
 Most box graters are flimsy sheet metal that flexes the moment you apply real pressure to a block of aged cheddar. The Cuisipro is not that. This is the grater that feels like a kitchen tool, not a toy — and at 4.7 stars across 235 ratings, I'm not the only one who noticed.

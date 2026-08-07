@@ -1,7 +1,8 @@
 ---
-title: "Microsoft Surface Laptop Go 3 12.4\" Touchscreen Notebook - I"
-seo_title: "Microsoft Surface Laptop Go 3 12.4\" Touchscreen No Review"
-meta_description: "Our full microsoft surface laptop go 3 12.4\" touchscreen notebook - i review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Microsoft Surface Laptop Go 3 12.4\ Touchscreen Notebook - I"
+seo_title: "Microsoft Surface Laptop Go 3 12.4\ Touchscreen No Review"
+meta_description: "Our full microsoft surface laptop go 3 12.4\ touchscreen notebook - i review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "microsoft-surface-laptop-go-3-12-4-touchscreen-notebook-intel-core-i5-b0ctb3-review"
 image_alt: "Microsoft Surface Laptop Go 3 12.4 Touchscreen Notebook - Intel Core i5-8 GB - 128 GB SSD - English Keyboard - Platinum"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CTB3R45D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gDFgFiogL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Surface Laptop Go 3 occupies a strange middle ground. It's not a budget laptop at $799, yet it's not a premium machine either. It's the laptop Microsoft sells to people who want the Surface aesthetic but can't stomach the Surface Laptop 5's $1,000+ price tag. The problem? The compromises cut deeper than the price suggests.

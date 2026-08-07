@@ -1,4 +1,5 @@
 ---
+
 title: "LIUKANGZE Heavy Duty Weed Barrier Landscape Fabric for Garde"
 seo_title: "LIUKANGZE Heavy Duty Weed Barrier Landscape Fabric Review"
 meta_description: "Our full liukangze heavy duty weed barrier landscape fabric for garde review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVS6SF53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vt9MqxtwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever pulled weeds from a gravel path in July, you know the pain. LIUKANGZE's heavy duty landscape fabric promises to end that cycle. After 225 Amazon ratings averaging 4.5 stars, it's clearly doing something right. But is this 5 oz woven polypropylene worth your money, or just another roll of frustration? Let's get into it.

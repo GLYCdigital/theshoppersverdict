@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot G2 Mini Gel Pen, Retractable, Fine 0.7 Mm, Black Ink, "
 seo_title: "Pilot G2 Mini Gel Pen, Retractable, Fine 0.7 Mm, B Review"
 meta_description: "Our full pilot g2 mini gel pen, retractable, fine 0.7 mm, black ink,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07CHWJ245/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fAsb0vqeS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The tiny pen that writes like its big brother — but has one tradeoff you should know about.**

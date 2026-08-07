@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20 Cordless Hedge Trimmer with Battery and Charge"
 seo_title: "CRAFTSMAN V20 Hedge Trimmer Review: Battery Included (2026)"
 meta_description: "Honest CRAFTSMAN V20 cordless hedge trimmer review: 22-inch blade, V20 battery included, real-world cutting power, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQ9R2T79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vGGb22aBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "22-inch dual-action blade reduces vibration significantly — one-handed trimming is actually comfortable"
   - "Battery and charger included means zero upfront ecosystem investment for V20 newcomers"
   - "3-position pivoting handle gives solid reach for topiary work and under-hedge cleanup without crouching"
-cons:
+cons: 
   - "V20 2.0Ah battery is adequate but not impressive — expect roughly 30 minutes of continuous trimming, not the full afternoon some corded converts hope for"
   - "Blade gap struggles with branches thicker than 3/4 inch — you'll need loppers for any serious shaping"
+
 ---
 
 Let's be honest about hedge trimmers: most of them are either underpowered toys or corded beasts that tangle you in extension cords. The CRAFTSMAN V20 sits in the increasingly crowded middle ground, and after digging through 229 ratings and the spec sheet, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "mikibama Hybrid Mattress in a Box, Mattress with Memory Foam"
 seo_title: "mikibama Hybrid Mattress in a Box, Mattress with M Review"
 meta_description: "Our full mikibama hybrid mattress in a box, mattress with memory foam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFCNZHV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9126KV8y8vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # mikibama Hybrid Mattress in a Box: Solid Support Without the Showroom Price

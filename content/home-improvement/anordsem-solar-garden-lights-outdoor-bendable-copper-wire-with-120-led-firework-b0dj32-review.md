@@ -1,4 +1,5 @@
 ---
+
 title: "Anordsem Solar Garden Lights Outdoor: Bendable Copper Wire w"
 seo_title: "Anordsem Solar Garden Lights Review: Bendable Copper Wire"
 meta_description: "Honest Anordsem solar garden lights review: 120 LED bendable copper wire lights. Real brightness, durability, and battery life tested."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJ32JZKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tmi+EcNGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bendable copper wire holds shape firmly — you can twist it into spirals, arches, or wrap it around railings without kinking or springing back"
   - "120 LED bulbs deliver genuinely warm, bright light that reads as decorative accent rather than harsh floodlight"
   - "Solar panel charges effectively even on overcast days, with buyers reporting 8-10 hour runtime from a single full charge"
-cons:
+cons: 
   - "Wire is 9.8 feet but LED density thins noticeably toward the end — the last 2 feet have visibly fewer bulbs"
   - "Plastic stake base feels lightweight and can tilt in soft soil or after heavy rain; anchoring requires a firm push"
   - "Auto on/off sensor is light-sensitive, not motion-activated — it will glow all night even when you're not outside"
+
 ---
 
 Let me be direct about the Anordsem Solar Garden Lights: these are not the brightest outdoor lights you'll ever own, and that's exactly the point. At 120 LEDs strung along a 9.8-foot bendable copper wire, these are decorative accent lights that create a firework-burst effect in your garden, not security floodlights. If you manage expectations accordingly, they're a solid value.

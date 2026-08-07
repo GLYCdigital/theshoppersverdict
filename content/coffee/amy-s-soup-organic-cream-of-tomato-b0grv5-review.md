@@ -1,4 +1,5 @@
 ---
+
 title: "Amy's Soup, Organic Cream of Tomato"
 seo_title: "Amy's Organic Cream of Tomato Soup Review (2026)"
 meta_description: "Honest Amy's Organic Cream of Tomato Soup review: taste, texture, ingredients, and value. See if this pantry staple is worth it before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRV5KR77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71uZf1AOoTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, velvety texture that holds up to being thinned with milk or water without turning watery"
   - "Clean organic ingredient list — real tomatoes, cream, and onion — no gums or stabilizers"
   - "Ready in under 5 minutes on the stovetop with no canned-tomato tinny aftertaste"
-cons:
+cons: 
   - "Noticeably sweet flavor profile that leans toward dessert-like for some palates"
   - "32-ounce carton is gone fast if you're feeding more than two people"
   - "Sodium content (480mg per serving) is moderate but not the lowest in the category"
+
 ---
 
 **The Short Version**

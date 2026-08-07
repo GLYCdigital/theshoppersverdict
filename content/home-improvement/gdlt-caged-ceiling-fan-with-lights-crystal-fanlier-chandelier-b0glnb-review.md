@@ -1,4 +1,5 @@
 ---
+
 title: "GDLT Caged Ceiling Fan with Lights Crystal Fanlier chandelie"
 seo_title: "GDLT Caged Ceiling Fan Review: Crystal Chandelier Style"
 meta_description: "GDLT caged ceiling fan with crystal chandelier lights review: design, airflow, noise, and installation. See if this 4-star fan fits your space."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GLNB42PR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713BD5sGXaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-function design merges a caged industrial fan with a crystal chandelier — genuinely unique look that fits farmhouse, modern, or transitional rooms"
   - "Remote control with reverse function and dimmable LED light included — no wall switch rewiring needed for most installs"
   - "Quiet DC motor moves air effectively in medium rooms up to 200 sq ft"
-cons:
+cons: 
   - "Crystal installation is tedious — over 40 individual strands to hang, and the instructions are mostly diagrams with small text"
   - "Light output is warm and dim even at max setting — not ideal for task lighting; plan for supplemental lamps if you need bright illumination"
   - "Canopy and mounting bracket are tight for thicker ceilings or sloped installs; some buyers needed extra hardware for vaulted ceilings"
+
 ---
 
 **The GDLT Caged Ceiling Fan: A Crystal Chandelier That Moves Air**

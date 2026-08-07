@@ -1,4 +1,5 @@
 ---
+
 title: "Greg Norman Mens Ml75 Microlux Short"
 seo_title: "Greg Norman Mens Ml75 Microlux Short Review: Verdict | TS"
 meta_description: "Our full greg norman mens ml75 microlux short review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6YLS1DX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rOcJjtbAL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Greg Norman ML75 Microlux Short is the kind of product that doesn't look revolutionary on paper — a polyester-blend golf short with stretch and a moisture-wicking finish. But 220 Amazon reviewers have pushed it to a 4.4-star average, and after digging through the feedback and specs, I get why. This is a genuinely well-executed take on the modern athletic short that happens to work for golf, the gym, and casual wear without trying too hard.

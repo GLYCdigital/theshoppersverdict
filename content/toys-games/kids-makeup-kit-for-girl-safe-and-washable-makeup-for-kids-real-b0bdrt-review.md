@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Makeup Kit for Girl - Safe and Washable Makeup for Kids"
 seo_title: "Kids Makeup Kit for Girl - Safe and Washable Makeu Review"
 meta_description: "Our full kids makeup kit for girl - safe and washable makeup for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDRTTJ4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91lELnW4stL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Kids Makeup Kit for Girl - Safe and Washable Makeup for Kids** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

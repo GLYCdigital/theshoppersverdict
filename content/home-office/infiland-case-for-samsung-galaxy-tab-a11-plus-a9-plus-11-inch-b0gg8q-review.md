@@ -1,4 +1,5 @@
 ---
+
 title: "INFILAND Case for Samsung Galaxy Tab A11+Plus/A9+ Plus 11 in"
 seo_title: "INFILAND Case for Samsung Galaxy Tab A11+Plus/A9+  Review"
 meta_description: "Our full infiland case for samsung galaxy tab a11+plus/a9+ plus 11 in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GG8QB24W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZlVIJETxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most tablet cases under $30 are flimsy silicone that yell “budget” the moment you touch them. The INFILAND case for the Samsung Galaxy Tab A9+ and A11+ (both 11-inch) isn’t that. With a 4.7-star average across 235 ratings, it’s clearly doing something right. The question is whether it’s right for *your* workflow.

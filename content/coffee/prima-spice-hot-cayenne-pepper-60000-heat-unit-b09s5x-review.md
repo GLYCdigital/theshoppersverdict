@@ -1,4 +1,5 @@
 ---
+
 title: "Prima Spice Hot Cayenne Pepper - 60000 Heat Unit"
 seo_title: "Prima Spice Hot Cayenne Pepper - 60000 Heat Unit Review: "
 meta_description: "Our full prima spice hot cayenne pepper - 60000 heat unit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09S5XSLP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vEeIGyetL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something: this is not the generic cayenne you grab off the grocery store shelf. Prima Spice's Hot Cayenne Pepper clocks in at a genuine 60,000 Scoville Heat Units — roughly double what most supermarket cayennes deliver. That single spec changes how you cook with it.

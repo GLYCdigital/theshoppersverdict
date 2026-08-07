@@ -1,4 +1,5 @@
 ---
+
 title: "Northwest NCAA Unisex-Adult Micro Raschel Throw Blanket"
 seo_title: "Northwest NCAA Unisex-Adult Micro Raschel Throw Bl Review"
 meta_description: "Our full northwest ncaa unisex-adult micro raschel throw blanket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FMH6SNCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91U4ionE6lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the game-day blanket your couch has been waiting for?

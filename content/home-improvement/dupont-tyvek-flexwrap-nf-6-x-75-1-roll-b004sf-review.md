@@ -1,4 +1,5 @@
 ---
+
 title: "DuPont Tyvek FlexWrap NF - 6 inch  x 75' - 1 Roll"
 seo_title: "DuPont Tyvek FlexWrap NF Review: Worth It? (2026)"
 meta_description: "Honest DuPont Tyvek FlexWrap NF review: Does the 6 inch  x 75' flashing tape seal window rough openings? Pros, cons, real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004SF78SA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UDVkTA97L._AC_SL1498_.jpg"
-pros:
+pros: 
   - "Self-adhered membrane with a built-in, pre-compressed foam strip that expands to fill uneven gaps in rough openings up to 1 inch"
   - "NF (non-folded) format lays completely flat, which makes it dramatically easier to apply without creases or bubbles compared to the folded version"
   - "Integrates seamlessly with Tyvek Housewrap and fluid-applied flashing products, keeping your entire system under one warranty umbrella"
-cons:
+cons: 
   - "Significantly more expensive per roll than standard peel-and-stick flashing tape—you're paying for the integrated foam strip"
   - "Foam strip can pre-expand if exposed to heat in storage or a hot truck, making the roll harder to handle before installation"
   - "One roll (75 linear feet) only does roughly 5-7 standard window openings—buy multiple rolls upfront for a whole-house job"
+
 ---
 
 Let's be blunt: most window flashing tapes are just glorified sticky foil. The DuPont Tyvek FlexWrap NF is a different animal, and that's exactly why it carries a premium price and a 4.7-star rating across 235 reviews. It solves the real problem—how do you flash a rough opening that isn't perfectly square?

@@ -1,4 +1,5 @@
 ---
+
 title: "PHI VILLA Bar Height Patio Dining Set with Outdoor Bar Table"
 seo_title: "PHI VILLA Bar Height Patio Dining Set with Outdoor Review"
 meta_description: "Our full phi villa bar height patio dining set with outdoor bar table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GN5LWL57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oLMdFxk3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Meta Description:** Honest PHI VILLA bar height patio dining set review: 5-piece outdoor bar table set with stools. Real pros, cons, and who should buy it.

@@ -1,4 +1,5 @@
 ---
+
 title: "SLYFTE Premium Large Half Moon LED Light for Nail Tech, Fold"
 seo_title: "SLYFTE Premium Large Half Moon LED Light for Nail  Review"
 meta_description: "Our full slyfte premium large half moon led light for nail tech, fold review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D53GW7H1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bh3JZ1gmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The SLYFTE Half Moon LED Light: A Serious Upgrade for Working Nail Techs

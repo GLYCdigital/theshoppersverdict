@@ -1,4 +1,5 @@
 ---
+
 title: "90W AC Adapter for Dell Optiplex Micro 9020 7050 7010 7020 7 inch"
 seo_title: "90W Dell Optiplex Micro Adapter Review: Reliable Power (2026)"
 meta_description: "Honest 90W AC adapter review for Dell Optiplex Micro 9020/7050/7010/7020/7040. Tested for fit, heat, and compatibility. See pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLKD3N2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pXIys+j6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 90W output (19.5V/4.62A) — matches OEM Dell specs, no power throttling under load"
   - "Barrel connector is correctly sized for Optiplex Micro models — snug fit, no wobble, no intermittent shutdowns"
   - "Includes AC power cord in the box — many third-party adapters skimp on this, so it's a genuine value add"
-cons:
+cons: 
   - "Cable is only 5 feet from brick to PC — tight if your Optiplex sits on a high shelf or under a deep desk"
   - "The brick runs warm (not hot) under sustained load — normal, but some users report it warmer than the Dell OEM unit"
+
 ---
 
 If you own a Dell Optiplex Micro 9020, 7050, 7010, 7020, or 7040, you already know the pain: the original power brick dies, and Dell wants $60+ for a replacement. This 90W third-party adapter undercuts that price significantly while claiming to match OEM specs exactly. I've tested it across multiple Optiplex Micro models to see if the savings come with compromises.

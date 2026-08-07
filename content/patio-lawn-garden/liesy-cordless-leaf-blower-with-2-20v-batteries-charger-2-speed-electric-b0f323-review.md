@@ -1,4 +1,5 @@
 ---
+
 title: "LIESY Cordless Leaf Blower with 2Ã—20V Batteries & Charger, "
 seo_title: "LIESY Cordless Leaf Blower with 2Ã—20V Batteries & Review"
 meta_description: "Our full liesy cordless leaf blower with 2ã—20v batteries & charger,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F32311D8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KpXq1vIHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about the cordless leaf blower market: most budget options are glorified hair dryers with a trigger. The LIESY Cordless Leaf Blower with 2×20V batteries is not that. It's a legitimate tool for suburban yards, patios, and garages — but it has limits you should know before you buy.

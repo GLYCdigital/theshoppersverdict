@@ -1,7 +1,8 @@
 ---
-title: "SKYSEN 2 Pack 12\" Barn Door Handles"
-seo_title: "SKYSEN 2 Pack 12\" Barn Door Handles Review: Verdict | TSV"
-meta_description: "Our full skysen 2 pack 12\" barn door handles review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SKYSEN 2 Pack 12\ Barn Door Handles"
+seo_title: "SKYSEN 2 Pack 12\ Barn Door Handles Review: Verdict | TSV"
+meta_description: "Our full skysen 2 pack 12\ barn door handles review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "skysen-2-pack-12-barn-door-handles-b0bx5g-review"
 image_alt: "SKYSEN 2 Pack 12 Barn Door Handles"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BX5G9XLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41KbGSCuxmL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Barn door hardware is one of those purchases where you can spend $15 or $150 for what looks like the same product. The SKYSEN 2-pack lands squarely in the budget tier, but as someone who's installed dozens of these handles, the real question isn't price — it's whether the steel, finish, and mounting system hold up beyond the first month.

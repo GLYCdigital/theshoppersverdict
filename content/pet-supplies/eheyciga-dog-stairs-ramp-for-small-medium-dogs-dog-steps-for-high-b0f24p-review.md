@@ -1,4 +1,5 @@
 ---
+
 title: "EHEYCIGA Dog Stairs Ramp for Small Medium Dogs, Dog Steps fo"
 seo_title: "EHEYCIGA Dog Stairs Ramp Review: 4.4★ Verdict for Small Dogs"
 meta_description: "EHEYCIGA dog stairs ramp review: sturdy 4-step foam stairs for small/medium dogs. Read pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F24PHYPY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D5pA2e9NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly — steps click together in under two minutes"
   - "Washable, removable cover that survives machine washing"
   - "Non-slip bottom grips keep stairs planted on hardwood and tile"
-cons:
+cons: 
   - "Foam compresses noticeably under heavier dogs (over 25 lbs)"
   - "No handle or carry strap — awkward to move between rooms"
+
 ---
 
 **Review Body:**

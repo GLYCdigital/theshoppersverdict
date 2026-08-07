@@ -1,4 +1,5 @@
 ---
+
 title: "Poppy Austin Organic Mascara, Natural, Vegan, Paraben-Free, "
 seo_title: "Poppy Austin Organic Mascara, Natural, Vegan, Para Review"
 meta_description: "Our full poppy austin organic mascara, natural, vegan, paraben-free,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1VCKK8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sCqiJV6pL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The Natural Mascara That Actually Works**

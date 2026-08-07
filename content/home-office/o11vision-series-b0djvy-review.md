@@ -1,4 +1,5 @@
 ---
+
 title: "O11Vision Series"
 seo_title: "O11Vision Series Review: Verdict | TSV"
 meta_description: "Our full o11vision series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJVYGB8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dq5mDQaEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The O11Vision Series has been sitting on my desk for three weeks now, and I've deliberately waited to write this review until the novelty wore off. Here's what 240 Amazon reviewers at a 4.8 average are talking about — and what they're glossing over.

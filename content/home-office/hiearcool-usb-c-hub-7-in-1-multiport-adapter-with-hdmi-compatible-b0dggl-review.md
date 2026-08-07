@@ -1,4 +1,5 @@
 ---
+
 title: "Hiearcool USB C Hub, 7-in-1 Multiport Adapter with HDMI, Com"
 seo_title: "Hiearcool USB C Hub, 7-in-1 Multiport Adapter with Review"
 meta_description: "Our full hiearcool usb c hub, 7-in-1 multiport adapter with hdmi, com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGGL4PJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lxtc7dr7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict**

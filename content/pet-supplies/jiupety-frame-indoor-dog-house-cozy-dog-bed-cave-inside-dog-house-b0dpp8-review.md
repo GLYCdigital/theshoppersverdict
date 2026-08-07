@@ -1,4 +1,5 @@
 ---
+
 title: "JIUPETY Frame Indoor Dog House, Cozy Dog Bed Cave, Inside Do"
 seo_title: "JIUPETY Frame Indoor Dog House, Cozy Dog Bed Cave, Review"
 meta_description: "Our full jiupety frame indoor dog house, cozy dog bed cave, inside do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DPP8SPXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gUOFIfDkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a fabric cave bed flatten into a sad pancake the moment your dog steps on it, you know the appeal of a frame-supported design. The JIUPETY Frame Indoor Dog House takes that concept and runs with it — a steel skeleton wrapped in a removable cover, sized for the burrowers and den-crawlers of the world.

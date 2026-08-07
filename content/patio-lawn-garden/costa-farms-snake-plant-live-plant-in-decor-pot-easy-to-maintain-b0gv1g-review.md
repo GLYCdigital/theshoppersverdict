@@ -1,4 +1,5 @@
 ---
+
 title: "Costa Farms Snake Plant, Live Plant in Decor Pot, Easy to Ma"
 seo_title: "Costa Farms Snake Plant Review: Worth It? [2026]"
 meta_description: "Costa Farms Snake Plant in decor pot review: durability, light needs, pot quality, and whether this easy-care plant is worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GV1GP2RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Arrives alive and healthy — Costa Farms ships with protective packaging that holds up in transit, with most buyers reporting zero leaf damage"
   - "Genuinely low-maintenance — tolerates weeks of neglect, low light, and irregular watering without dropping leaves or browning tips"
   - "Decor pot is included and feels substantial — matte ceramic-style finish that doesn't look like a cheap nursery throwaway"
-cons:
+cons: 
   - "Pot has no drainage hole — easy to overwater if you're not careful; you'll need to water sparingly or repot into something with drainage"
   - "Size varies noticeably — some buyers receive a full, bushy plant while others get a smaller 2-3 shoot starter, so expectations should be flexible"
+
 ---
 
 ## The Snake Plant That Survives Your Schedule

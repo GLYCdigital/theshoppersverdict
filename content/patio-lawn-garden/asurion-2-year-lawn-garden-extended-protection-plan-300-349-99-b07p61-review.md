@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year Lawn & Garden Extended Protection Plan ($300 inch"
 seo_title: "ASURION 2-Year Lawn & Garden Protection Plan Review"
 meta_description: "ASURION 2-Year Lawn & Garden Extended Protection Plan review: Is the $300 coverage worth it? Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07P61JWXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w-hL206OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on mowers, trimmers, blowers, and other gas or electric equipment up to $300 retail"
   - "In-home service or carry-in repair options depending on equipment size; no deductibles on approved claims"
   - "Claims handled by Asurion's network — typically faster turnaround than manufacturer warranty service"
-cons:
+cons: 
   - "Does NOT cover normal wear items like blades, belts, spark plugs, or batteries — the parts that actually fail most"
   - "Requires proof of purchase and original manufacturer warranty must be active when you file; paperwork can be tedious"
   - "At $300 for two years, it's priced high relative to what most lawn tools cost to repair out of pocket"
+
 ---
 
 **Is a $300 protection plan for lawn equipment actually worth it?** That's the question you're wrestling with, and the honest answer is: it depends entirely on what you're protecting. Asurion's 2-Year Lawn & Garden Extended Protection Plan isn't a product you use — it's a bet you place. Here's the real breakdown.

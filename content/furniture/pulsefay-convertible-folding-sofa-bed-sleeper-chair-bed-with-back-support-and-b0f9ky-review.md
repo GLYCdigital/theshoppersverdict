@@ -1,4 +1,5 @@
 ---
+
 title: "PulseFay Convertible Folding Sofa Bed - Sleeper Chair Bed wi"
 seo_title: "PulseFay Convertible Folding Sofa Bed - Sleeper Ch Review"
 meta_description: "Our full pulsefay convertible folding sofa bed - sleeper chair bed wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F9KY9B98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a sub-$200 folding sofa bed is usually a gamble. The PulseFay Convertible Folding Sofa Bed sits at 4.1 stars across 204 ratings — which tells me it's doing something right, but not everything right. Here's what you actually need to know before clicking buy.

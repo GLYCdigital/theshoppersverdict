@@ -1,4 +1,5 @@
 ---
+
 title: "ZERITO Heavy Duty Coin-Grip Rubber Flooring Roll, 4' x 8', 1"
 seo_title: "ZERITO Heavy Duty Coin-Grip Rubber Flooring Roll,  Review"
 meta_description: "Our full zerito heavy duty coin-grip rubber flooring roll, 4' x 8', 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CS5QN5HZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wGlfU0M4L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that sinking feeling when a "heavy-duty" mat arrives and it's really just glorified foam? The ZERITO Coin-Grip Rubber Flooring Roll is not that product. This is a legitimate 4x8 foot slab of recycled rubber that weighs enough to make you question your delivery driver's gratitude. It's the kind of flooring you install when you're done messing around.

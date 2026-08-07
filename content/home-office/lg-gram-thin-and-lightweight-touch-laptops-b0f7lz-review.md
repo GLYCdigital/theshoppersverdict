@@ -1,4 +1,5 @@
 ---
+
 title: "LG gram Thin and Lightweight Touch Laptops"
 seo_title: "LG gram Thin and Lightweight Touch Laptops Review: Verdic"
 meta_description: "Our full lg gram thin and lightweight touch laptops review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7LZPR52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PVZ-U-1FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most ultra-light laptops make you choose between portability and performance. The LG gram line has spent years trying to prove you don't have to. The latest thin and lightweight touch models push that argument harder than ever — and with a 4.6/5 rating across 229 Amazon reviews, shoppers are largely agreeing. But is this the right machine for your specific workflow?

@@ -1,4 +1,5 @@
 ---
+
 title: "Sushi Making Kit For Beginners - 22 Piece DIY Sushi Kit with"
 seo_title: "Sushi Making Kit For Beginners - 22 Piece DIY Sush Review"
 meta_description: "Our full sushi making kit for beginners - 22 piece diy sushi kit with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YV55J2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vlc1hEEBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is This the Kit That Finally Gets You Rolling Sushi at Home?**

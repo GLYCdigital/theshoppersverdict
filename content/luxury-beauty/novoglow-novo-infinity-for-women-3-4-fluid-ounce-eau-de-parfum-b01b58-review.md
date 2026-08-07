@@ -1,4 +1,5 @@
 ---
+
 title: "NovoGlow Novo Infinity for Women - 3.4 Fluid Ounce Eau De Pa"
 seo_title: "NovoGlow Novo Infinity for Women - 3.4 Fluid Ounce Review"
 meta_description: "Our full novoglow novo infinity for women - 3.4 fluid ounce eau de pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01B58UFFA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GRVKFg4UL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 4.1-star rating with 204 reviews tells you one thing: this fragrance has a dedicated following, but it’s not universally loved. That’s actually a good sign in the perfume world. A scent that pleases everyone is usually forgettable. NovoGlow’s Novo Infinity for Women is not forgettable. The question is whether it’s *your* kind of memorable.

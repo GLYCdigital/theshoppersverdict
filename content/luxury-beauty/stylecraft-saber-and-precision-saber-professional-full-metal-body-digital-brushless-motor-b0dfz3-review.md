@@ -1,4 +1,5 @@
 ---
+
 title: "StyleCraft Saber and Precision Saber Professional Full Metal"
 seo_title: "StyleCraft Saber and Precision Saber Professional  Review"
 meta_description: "Our full stylecraft saber and precision saber professional full metal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFZ3X588/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61snVhUaqSL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # StyleCraft Saber Review: Is This Full Metal Groomer Worth the Premium?

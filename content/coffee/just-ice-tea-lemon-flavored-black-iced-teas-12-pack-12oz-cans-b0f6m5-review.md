@@ -1,4 +1,5 @@
 ---
+
 title: "Just Ice Tea, Lemon Flavored Black Iced Teas, 12-Pack (12oz "
 seo_title: "Just Ice Tea, Lemon Flavored Black Iced Teas, 12-P Review"
 meta_description: "Our full just ice tea, lemon flavored black iced teas, 12-pack (12oz  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F6M5WPYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811p8CybaHL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the iced tea you'll actually refill your fridge with?**  

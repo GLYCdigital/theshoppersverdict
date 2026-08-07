@@ -1,16 +1,17 @@
 ---
+
 title: "Bluinzi 46 Inch Compact Umbrellas for Rain - Travel Small Umbrella - Automatic Folding Umbrella - Windproof Portable Umbrella, Double 10-rib"
 seo_title: "Bluinzi 46-Inch Compact Umbrella Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest Bluinzi compact umbrella review 1,106+ reviews analyzed. Real pros, cons, windproof performance, automatic open/close, and our verdict."
 slug: "bluinzi-46-inch-compact-umbrellas-for-rain-travel-small-umbrella-automatic-folding-review"
 image_alt: "Bluinzi 46 Inch Compact Umbrella Travel Small Automatic Folding Umbrella, Windproof Portable with Double 10-rib construction"
-keywords:
+keywords: 
   - "Bluinzi umbrella review"
   - "compact travel umbrella review"
   - "best automatic umbrella"
   - "windproof portable umbrella"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Bluinzi compact umbrella windproof?"
     answer: "The Bluinzi umbrella is rated to withstand winds up to 45 mph (72 kph) thanks to its double 10-rib construction. It's designed to flex and recover in strong winds rather than snap. One reviewer noted this doesn't mean the canopy won't reverse in extreme conditions, but the frame should survive without damage."
   - question: "How big is the Bluinzi umbrella when closed?"
@@ -23,15 +24,16 @@ review_count: 1106
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1KRCCF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rbZUqa-OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Automatic open and close with dual-button operation"
   - "46-inch coverage — larger than most compact umbrellas"
   - "Sturdy double 10-rib frame handles wind well"
   - "Sleek design with nice packaging for gifting"
-cons:
+cons: 
   - "Compact but not pocket-sized — takes up bag space"
   - "Automatic mechanism has strong, brisk action"
   - "Some questions about long-term durability of auto mechanism"
+
 ---
 
 Let's be honest: most $17 umbrellas are disposable junk that invert in a mild breeze. The Bluinzi 46-inch compact is not that. With 1,106 ratings averaging 4.6 stars, this is the rare budget umbrella that actually respects its price point.

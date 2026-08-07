@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo Legion 5i â€“ AI-Powered Gaming Laptop - IntelÂ® Core"
 seo_title: "Lenovo Legion 5i â€“ AI-Powered Gaming Laptop - In Review"
 meta_description: "Our full lenovo legion 5i â€“ ai-powered gaming laptop - intelâ® core review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G11P6TK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619a+yLwhSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lenovo Legion 5i sits in the most crowded, most competitive segment of the gaming laptop market: the $1,200–$1,500 sweet spot. And it earns its 4.6-star rating by doing the fundamentals right — raw performance, competent cooling, and a display that doesn't cut corners. But "fundamentals right" isn't the same as "perfect," and there are real tradeoffs to weigh before you click buy.

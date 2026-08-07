@@ -1,7 +1,8 @@
 ---
-title: "SUPERJARE 35.4\" White Desk with 2 Drawers, Modern Makeup Van"
-seo_title: "SUPERJARE 35.4\" White Desk with 2 Drawers, Modern  Review"
-meta_description: "Our full superjare 35.4\" white desk with 2 drawers, modern makeup van review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SUPERJARE 35.4\ White Desk with 2 Drawers, Modern Makeup Van"
+seo_title: "SUPERJARE 35.4\ White Desk with 2 Drawers, Modern  Review"
+meta_description: "Our full superjare 35.4\ white desk with 2 drawers, modern makeup van review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "superjare-35-4-white-desk-with-2-drawers-modern-makeup-vanity-desk-b0c3vh-review"
 image_alt: "SUPERJARE 35.4 White Desk with 2 Drawers, Modern Makeup Vanity Desk with Padded Stool, Small Computer Desk Home Office D"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C3VH3Y5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a5AAMlTHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: a 4.4-star average across 220 ratings on a budget desk usually means one of two things — either it's surprisingly good or buyers are being generous. With the SUPERJARE 35.4-inch white desk, it's mostly the former, with a few caveats worth knowing before you click buy.

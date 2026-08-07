@@ -1,4 +1,5 @@
 ---
+
 title: "BAHABY Kids Art Smocks 2 Pack Painting Smock with Long Sleev"
 seo_title: "BAHABY Kids Art Smocks 2 Pack Review: Worth It? (2026)"
 meta_description: "Honest BAHABY Kids Art Smocks 2 Pack review: long sleeves, waterproof fabric, real parent feedback. Is this painting smock worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091SWM4Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Mc2P8FpSS._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof fabric — paint beads up and wipes off with a damp cloth, no laundering needed after most sessions"
   - "Long sleeves with elastic cuffs actually protect forearms, unlike cropped smocks that leave the wrists exposed"
   - "Two smocks in the pack means one can be drying while the other is in use — practical for back-to-back craft days"
-cons:
+cons: 
   - "Sizing runs small — several parents report the 2-4T fit is snug on average 3-year-olds, so size up"
   - "Velcro neck closure, not snaps or ties — some kids can pull it off mid-activity, and it can snag on delicate clothing underneath"
+
 ---
 
 Let's be honest: buying a painting smock feels like a small purchase, but it's really a decision about how many stained t-shirts you're willing to tolerate. The BAHABY Kids Art Smocks 2 Pack has been on the market long enough to gather 229 Amazon ratings at a solid 4.6 stars — that's a signal worth reading. Here's what you actually need to know before adding it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "1545680 5304517203 Dishwasher Lower Spray Arm Compatible wit"
 seo_title: "1545680 5304517203 Spray Arm Review: Honest Look"
 meta_description: "1545680 5304517203 dishwasher lower spray arm compatible with Frigidaire & Kenmore. Real performance, fit, and durability tested. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7VKT4ZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ErMT8oOAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style fit for Frigidaire and Kenmore models — no modification needed, clips on in under 5 minutes"
   - "Thick ABS plastic with reinforced hub resists cracking where the original part typically fails"
   - "Rotates freely with strong water pressure, covering the full lower rack without dead zones"
-cons:
+cons: 
   - "Not a genuine OEM part — tolerance is slightly looser than factory, so a firm push is required to seat it fully"
   - "Some users report the spray jets are marginally narrower than OEM, which can reduce cleaning power on heavily soiled pans"
   - "No included hardware or gasket — if your original retaining clip is broken, you'll need to order that separately"
+
 ---
 
 Let me be blunt: when your dishwasher's lower spray arm cracks, you have two options. Pay $80+ for a genuine OEM part and wait a week, or roll the dice on a $25 aftermarket replacement. This one's a winner — but there are caveats worth knowing before you click buy.

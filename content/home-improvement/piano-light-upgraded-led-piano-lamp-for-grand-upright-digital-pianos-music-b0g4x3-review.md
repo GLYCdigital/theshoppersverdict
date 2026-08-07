@@ -1,4 +1,5 @@
 ---
+
 title: "Piano Light, Upgraded LED Piano Lamp for Grand/Upright & Dig"
 seo_title: "Piano Light, Upgraded LED Piano Lamp for Grand/Upr Review"
 meta_description: "Our full piano light, upgraded led piano lamp for grand/upright & dig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G4X37XTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fU+fDKOkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## If you've ever squinted at sheet music during evening practice, you already know the problem

@@ -1,4 +1,5 @@
 ---
+
 title: "Kinder's Premium Quality Organic Rub and Seasoning - The Tac"
 seo_title: "Kinder's Premium Quality Organic Rub and Seasoning Review"
 meta_description: "Our full kinder's premium quality organic rub and seasoning - the tac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08VHNSM3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71df5OKG+8L._SL1463_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what's in that shaker. Kinder's calls this "The Taco Blend," but that undersells it. This is a premium organic seasoning that performs double duty as both a taco seasoning and a legit dry rub for grilled meats. At 4.8 stars from 240 Amazon ratings, the crowd has spoken — but let's dig into whether it earns your shelf space.

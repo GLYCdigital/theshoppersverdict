@@ -1,4 +1,5 @@
 ---
+
 title: "DolceLuna Plant Stand Indoor 6 Tier, Bamboo Plant Shelf Corner Display Rack Review"
 seo_title: "DolceLuna 6-Tier Bamboo Plant Stand Review (2026)"
 meta_description: "DolceLuna 6-tier bamboo corner plant stand review: sturdy, space-saving design, but assembly & stability concerns. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZJK3H2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617llpz2JiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six-tier design fits up to a dozen plants in a 20-inch corner footprint—genuine space saver"
   - "Solid bamboo construction with a natural finish that blends with most decor styles"
   - "Each shelf holds roughly 15-20 lbs, enough for typical 6-8 inch nursery pots"
-cons:
+cons: 
   - "Takes 30-45 minutes to assemble; the included Allen wrench is awkward for tight corners"
   - "No anti-tip wall anchor included—top-heavy if you load large pots on the upper tiers"
+
 ---
 
 If you've got more plants than floor space—welcome to the club—the DolceLuna 6-Tier Bamboo Corner Stand is the kind of vertical solution that actually makes sense. It's not revolutionary, but it does one thing well: it turns an awkward corner into a mini indoor jungle.

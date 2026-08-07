@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Office Stapler with 1000 Staples, 25 Sheet Capacity, Non-Slip, Black"
 seo_title: "Amazon Basics Office Stapler Review: 25-Sheet Workhorse"
 meta_description: "Amazon Basics Office Stapler review: 25-sheet capacity, 1000 staples included, non-slip base. Is this $6 stapler worth it? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORqgJajrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jam-free performance even at full 25-sheet capacity, backed by a full-length metal stapling rail"
   - "Non-slip rubber base stays put on slick desks — no chasing it across your workspace"
   - "Includes 1000 standard staples (26/6 size) — a $2–3 value you don't pay extra for"
-cons:
+cons: 
   - "No staple remover built into the base — you'll need a separate tool"
   - "Plastic top shell feels light; heavy-handed users may worry about longevity (though failures are rare)"
+
 ---
 
 Let’s be honest: nobody dreams about buying a stapler. You need one, you grab one, you move on. But the Amazon Basics Office Stapler has quietly racked up over 52,000 ratings with a 4.6-star average — that’s not a fluke. At $6.31, it’s cheaper than a lunch combo, yet it performs like something twice the price. Here’s whether it deserves a spot on your desk.

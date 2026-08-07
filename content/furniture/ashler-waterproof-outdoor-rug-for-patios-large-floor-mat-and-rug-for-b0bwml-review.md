@@ -1,4 +1,5 @@
 ---
+
 title: "Ashler Waterproof Outdoor Rug for Patios Large Floor Mat and"
 seo_title: "Ashler Waterproof Outdoor Rug Review: Durable Patio Mat"
 meta_description: "Honest Ashler Waterproof Outdoor Rug review: 4.2/5 verdict. Does this large patio mat handle rain, stains, and foot traffic? Real pros, cons, and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BWMLW54V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LUqAN0wmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterproof backing keeps moisture from seeping through to your deck or concrete — water beads and rolls off"
   - "Reversible design with two distinct colorways gives you two looks for the price of one"
   - "Flat-woven polypropylene construction is surprisingly durable against UV rays and heavy foot traffic"
-cons:
+cons: 
   - "Rug corners tend to curl slightly until weighted down with furniture or after a few days of use"
   - "Thin profile (roughly 5mm) provides minimal cushioning — not ideal for standing for long periods"
   - "Pattern can show footprints and dirt on lighter colorways, requiring more frequent spot cleaning"
+
 ---
 
 Outdoor rugs are a gamble. Either they're flimsy mats that blow away in a breeze, or they're so stiff they feel like carpet samples on a showroom floor. The Ashler Waterproof Outdoor Rug tries to split that difference — and for most patio setups, it lands on the right side of the line.

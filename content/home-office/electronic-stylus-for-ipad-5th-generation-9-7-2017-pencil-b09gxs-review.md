@@ -1,4 +1,5 @@
 ---
+
 title: "Electronic Stylus for iPad 5th Generation 9.7 inch  2017 Pencil"
 seo_title: "Electronic Stylus for iPad 5th Gen Review (2017, 9.7 inch )"
 meta_description: "Honest review of the Electronic Stylus for iPad 5th Gen 9.7 inch  2017. Palm rejection, tilt support, battery life tested. Is it worth $30? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09GXSMPZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ViEK+TjFS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works on iPad 5th/6th gen (2017-2018) without needing the $99 Apple Pencil — genuine compatibility, not a universal knockoff that fails on older models"
   - "Palm rejection functions properly in supported apps — you can rest your hand while writing, which is rare at this price point"
   - "USB-C fast charging hits full battery in about 30 minutes and holds roughly 10 hours of continuous use"
-cons:
+cons: 
   - "No pressure sensitivity — if you're an illustrator who relies on line weight variation, this won't replace a real Apple Pencil"
   - "Requires Bluetooth pairing every time you switch iPads; it doesn't auto-reconnect reliably after being idle for 20+ minutes"
   - "Tip wears noticeably faster than Apple's — expect to buy replacement nibs after 3-4 months of daily use"
+
 ---
 
 **The honest truth about this stylus: it's the best option that exists for your specific iPad.**

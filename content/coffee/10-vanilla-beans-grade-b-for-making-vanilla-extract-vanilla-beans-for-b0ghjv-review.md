@@ -1,4 +1,5 @@
 ---
+
 title: "10 Vanilla Beans Grade B for Making Vanilla Extract, Vanilla"
 seo_title: "10 Vanilla Beans Grade B Review: Best for Extract"
 meta_description: "Honest review of 10 Vanilla Beans Grade B for extract making. Moisture, aroma, value, and real buyer feedback. Is this the right vanilla for your DIY extract?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHJVJ5VV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vf5-qFFWL._SL1080_.jpg"
-pros:
+pros: 
   - "Plump, moist beans with 25-27% moisture content — ideal for extract infusion, not dried-out scraps"
   - "Strong vanilla aroma with visible caviar (seeds) when split; consistent 6-7 inch length across the bundle"
   - "Packaged in a resealable vacuum-sealed pouch that preserves freshness for months if you don't use all 10 at once"
-cons:
+cons: 
   - "Grade B beans have fewer seeds than Grade A — fine for extract, but don't expect the caviar-heavy look you'd get for baking"
   - "Some batches arrive with a few beans that are slightly drier at the tips — check on arrival and use those first"
+
 ---
 
 Let's cut through the vanilla bean marketing noise. You're here because you want to make homemade vanilla extract, and you've heard Grade B beans are the move. This 10-count bundle from a generic Amazon seller is one of the most-purchased options in that category, with 235 ratings averaging 4.7 stars. But is it actually the right bean for your extraction project? Here's what I found after digging through specs, buyer feedback, and the practical realities of DIY extract.

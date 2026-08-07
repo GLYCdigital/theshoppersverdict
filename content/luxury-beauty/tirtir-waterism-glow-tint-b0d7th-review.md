@@ -1,4 +1,5 @@
 ---
+
 title: "TIRTIR Waterism Glow Tint"
 seo_title: "TIRTIR Waterism Glow Tint Review: Verdict | TSV"
 meta_description: "Our full tirtir waterism glow tint review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D7THM3TK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51f3Dcq7eTL._SL1080_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The K-Beauty glow tint that actually delivers — if you pick the right shade**

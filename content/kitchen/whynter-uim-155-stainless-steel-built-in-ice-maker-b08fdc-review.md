@@ -1,4 +1,5 @@
 ---
+
 title: "Whynter UIM-155 Stainless Steel Built-In Ice Maker"
 seo_title: "Whynter UIM-155 Stainless Steel Built-In Ice Maker Review"
 meta_description: "Our full whynter uim-155 stainless steel built-in ice maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B08FDC5J1B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iGsFCAQSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Whynter UIM-155 Stainless Steel Built-In Ice Maker Review: Countertop Convenience or Cabinet Commitment?

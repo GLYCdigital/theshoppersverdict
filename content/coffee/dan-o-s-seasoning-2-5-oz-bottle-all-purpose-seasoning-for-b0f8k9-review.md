@@ -1,4 +1,5 @@
 ---
+
 title: "Dan-O's Seasoning, 2.5 oz Bottle, All Purpose Seasoning for"
 seo_title: "Dan-O's Seasoning Review: All-Purpose Blend Worth It?"
 meta_description: "Honest Dan-O's Seasoning review: flavor profile, versatility, sodium content, and how it compares to other all-purpose blends. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8K9Y2KP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IpLyG68UL._SL1500_.jpg"
-pros:
+pros: 
   - "Zero MSG, zero sugar, and surprisingly low sodium at 15mg per serving — a genuinely clean label for an all-purpose blend"
   - "Balanced flavor profile works across proteins, eggs, roasted vegetables, and even popcorn without dominating any single dish"
   - "2.5 oz bottle is a solid test size — enough for 30-40 meals to decide if you want the 9 oz refill pouch"
-cons:
+cons: 
   - "Fine grind means you'll use more than expected; the shaker top dispenses slowly, making heavy seasoning a two-step process"
   - "No heat whatsoever — if you want spice, you'll need to add cayenne or red pepper flakes separately"
+
 ---
 
 **The 30-Second Hook**

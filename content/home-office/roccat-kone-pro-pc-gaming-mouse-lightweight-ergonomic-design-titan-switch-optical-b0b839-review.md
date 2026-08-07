@@ -1,4 +1,5 @@
 ---
+
 title: "ROCCAT Kone Pro PC Gaming Mouse, Lightweight Ergonomic Desig"
 seo_title: "ROCCAT Kone Pro PC Gaming Mouse, Lightweight Ergon Review"
 meta_description: "Our full roccat kone pro pc gaming mouse, lightweight ergonomic desig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B839Q9H1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41nS850AIuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 66-Gram Mouse That Does Double Duty**

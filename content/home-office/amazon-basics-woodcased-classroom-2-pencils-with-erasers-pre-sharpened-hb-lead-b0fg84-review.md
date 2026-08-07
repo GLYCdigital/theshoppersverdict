@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Woodcased Classroom 2 Pencils with Erasers, Pr"
 seo_title: "Amazon Basics Classroom Pencils Review: 4.8-Star Pre-Sharpened HB"
 meta_description: "Amazon Basics Woodcased Classroom 2 Pencils review: pre-sharpened HB lead, durable erasers, classroom value. 4.8 stars, 240 ratings. Honest buyer verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FG842RZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ktFdNm+xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-sharpened tips hold up through multiple sharpenings without excessive breakage — consistent HB lead quality"
   - "Erasers actually erase cleanly without smudging or tearing paper, even on standard notebook stock"
   - "Hexagonal barrel prevents rolling off desks and provides a comfortable grip for extended writing sessions"
-cons:
+cons: 
   - "Pink erasers wear down faster than the pencil itself — you'll likely finish the eraser before the lead"
   - "Wood casing splinters occasionally near the ferrule if you sharpen too aggressively"
+
 ---
 
 Let’s be honest: when you search “pencils” on Amazon, you’re wading through dozens of brands claiming to be the last pencil you’ll ever buy. The Amazon Basics Woodcased Classroom 2 Pencils don’t make that claim. They just show up, pre-sharpened, in a bulk box, and do the job without drama. That’s exactly why 240 shoppers have pushed this to a 4.8-star average — and why I’d argue it’s the smartest value pick for teachers, students, and anyone who burns through writing tools like tissues in flu season.

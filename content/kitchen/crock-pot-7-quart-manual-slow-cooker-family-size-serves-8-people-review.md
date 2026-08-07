@@ -1,15 +1,16 @@
 ---
+
 title: "Crock-Pot 7-Quart Manual Slow Cooker, Family Size Serves 8+ People & Fits 6-lb Roast, Removable Stoneware with Warming Setting, Dishwasher Safe for Easy Cleanup, Stainless Steel"
 seo_title: "Crock-Pot 7-Quart Manual Slow Cooker, Family Size  Review"
 meta_description: "Honest crock-pot 7-quart manual slow cooker, fa review based on 61,497+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "crock-pot-7-quart-manual-slow-cooker-family-size-serves-8-people-review"
 image_alt: "Crock-Pot 7-Quart Manual Slow Cooker, Family Size Serves 8+ People & Fits 6-lb Roast, Removable Stoneware with Warming S"
-keywords:
+keywords: 
   - "crockpot 7quart manual review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Crock-Pot 7-Quart Manual Slow Cooker easy to set up?"
     answer: "Yes — straightforward to set up. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Does the Crock-Pot 7-Quart Manual Slow Cooker perform well?"
@@ -22,13 +23,14 @@ review_count: 61497
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pKe7+88ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy to set up and use"
   - "Solid build quality that holds up"
   - "Great value for the price"
-cons:
+cons: 
   - "Performance may not satisfy power users"
   - "Missing some advanced features"
+
 ---
 
 If you're shopping for a kitchen appliance, you've probably noticed the Crock-Pot 7-Quart Manual Slow Cooker, Family.... After combing through 61,497 Amazon customer reviews, one thing is clear: reviewers consistently highlight its straightforward setup and daily use as a key strength.

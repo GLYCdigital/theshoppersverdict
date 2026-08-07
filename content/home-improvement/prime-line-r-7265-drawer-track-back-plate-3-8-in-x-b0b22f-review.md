@@ -1,4 +1,5 @@
 ---
+
 title: "Prime-Line R 7265 Drawer Track Back Plate, 3/8 in. x 1 in, P"
 seo_title: "Prime-Line R 7265 Drawer Track Back Plate, 3/8 in. Review"
 meta_description: "Our full prime-line r 7265 drawer track back plate, 3/8 in. x 1 in, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B22F1P46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YNotQqf6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a drawer track back plate because you're bored on a Tuesday. You buy it because a drawer is sagging, scraping, or completely detached, and you need a 15-minute fix, not a full cabinet rework. The Prime-Line R 7265 is that fix — if your track matches its dimensions.

@@ -1,4 +1,5 @@
 ---
+
 title: "Captiva Designs Propane Gas BBQ Griddle Grill"
 seo_title: "Captiva Designs Propane Griddle Grill Review (2026)"
 meta_description: "Honest Captiva Designs Propane Gas BBQ Griddle Grill review: build quality, cooking performance, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CW2VWY99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MbcjKN6LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large 20,000 BTU stainless steel cooking surface heats evenly across the full griddle — no cold spots for pancakes or smash burgers"
   - "Built-in grease management system with removable drip tray makes cleanup noticeably easier than flat-top grills without drainage"
   - "Folds down to a compact footprint with locking casters, so it stores against a wall or in a shed without sacrificing cooking area"
-cons:
+cons: 
   - "Assembly requires two people and roughly 90 minutes — the instructions are adequate but the hardware isn't labeled clearly"
   - "The side shelves are sturdy but not weatherproof; exposed to rain, the particleboard core can swell and warp over time"
+
 ---
 
 The Captiva Designs Propane Gas BBQ Griddle Grill is the kind of purchase that looks great in the product photos and, for most buyers, actually delivers in the backyard. With 215 Amazon ratings averaging 4.3 stars, it's clearly earning its keep on patios across the country. But is it the right flat-top for you? Let's get into the specifics.

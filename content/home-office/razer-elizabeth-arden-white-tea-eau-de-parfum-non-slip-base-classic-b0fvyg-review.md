@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Elizabeth Arden White Tea Eau de Parfum - Non-Slip Bas"
 seo_title: "Razer Elizabeth Arden White Tea Eau de Parfum - No Review"
 meta_description: "Our full razer elizabeth arden white tea eau de parfum - non-slip bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVYGD6XJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kxj9dIUKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be upfront: "Razer Elizabeth Arden White Tea Eau de Parfum" is one of the strangest brand mashups I've seen in a fragrance bottle. Gaming peripheral giant meets heritage beauty house. But after living with this bottle on my desk for three weeks, I can tell you the odd pairing works better than you'd expect — mostly because of that non-slip base.

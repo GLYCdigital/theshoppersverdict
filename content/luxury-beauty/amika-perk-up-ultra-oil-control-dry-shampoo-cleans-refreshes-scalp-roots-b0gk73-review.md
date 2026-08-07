@@ -1,24 +1,26 @@
 ---
+
 title: "amika perk up ultra oil control dry shampoo | cleans + refre"
 seo_title: "amika Perk Up Ultra Oil Control Dry Shampoo Review (2026)"
 meta_description: "Honest amika Perk Up Ultra Oil Control Dry Shampoo review: Does it beat oil, refresh roots, and justify the luxury price? Real pros, cons, and verdict."
 slug: "amika-perk-up-ultra-oil-control-dry-shampoo-cleans-refreshes-scalp-roots-b0gk73-review"
 image_alt: "amika Perk Up Ultra Oil Control Dry Shampoo bottle with black and white packaging"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 190  
-amazon_rating: 3.8  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 190
+amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GK73LPG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qs4Kva4uL._SL1500_.jpg"
-pros:  
+pros: 
   - "Rice starch base absorbs oil without chalky white residue, even on dark hair"  
   - "Squalene and vitamin E add scalp conditioning — rare for dry shampoos"  
   - "Lightweight citrus-wood scent fades fast, doesn't clash with perfume"  
-cons:  
+cons: 
   - "Small 5.3 oz can at a luxury price point — about $0.50 per use if you spray generously"  
   - "Powder can clump if you apply too close to the scalp (hold 8–10 inches away)"  
   - "Not enough for 3+ days of buildup — it's a one-day refresh, not a wash replacement"
+
 ---
 
 **The $30 dry shampoo that actually respects your scalp**  

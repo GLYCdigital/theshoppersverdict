@@ -1,7 +1,8 @@
 ---
-title: "Scotch Heavy Duty Packaging Tape, 1.88\" x 54.6 yd, Designed "
-seo_title: "Scotch Heavy Duty Packaging Tape, 1.88\" x 54.6 yd, Review"
-meta_description: "Our full scotch heavy duty packaging tape, 1.88\" x 54.6 yd, designed  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Scotch Heavy Duty Packaging Tape, 1.88\ x 54.6 yd, Designed "
+seo_title: "Scotch Heavy Duty Packaging Tape, 1.88\ x 54.6 yd, Review"
+meta_description: "Our full scotch heavy duty packaging tape, 1.88\ x 54.6 yd, designed  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "scotch-heavy-duty-packaging-tape-1-88-x-54-6-yd-designed-b0blld-review"
 image_alt: "Scotch Heavy Duty Packaging Tape, 1.88 x 54.6 yd, Designed for Packing, Shipping and Mailing, Strong Seal on All Box Typ"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BLLD26JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YRmk90PZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Scotch Heavy Duty Packaging Tape: The Quiet Workhorse of Shipping

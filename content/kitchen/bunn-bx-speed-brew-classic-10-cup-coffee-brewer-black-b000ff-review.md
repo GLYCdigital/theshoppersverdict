@@ -1,5 +1,6 @@
 ---
 
+
 title: "BUNN BX Speed Brew Classic 10-Cup Coffee Brewer, Black"
 seo_title: "BUNN BX Speed Brew Review: 10-Cup Coffee Maker Worth It?"
 meta_description: "BUNN BX Speed Brew Classic 10-Cup review: 3-minute brew time, restaurant-grade build, and real tradeoffs. Is this fast coffee maker right for you?"
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFILRO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dx871qFbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 10-cup pot brewed in under 4 minutes — genuinely faster than any drip machine under $150 inch"
   - "Commercial-grade stainless internal water tank holds hot water at 200°F continuously, so coffee extracts properly"
   - "Simple mechanical design with no electronics to fail; 3-year warranty backs the build"
-cons:
+cons: 
   - "Must keep the brewer on (or use the timer) to get speed benefit — cold start takes 15+ minutes to heat the tank"
   - "No programmable auto-shutoff, no brew-strength selector, no pause-and-serve on the base model"
   - "Spray head distributes water unevenly if you brew fewer than 4 cups; small batches come out weak"
+
 
 ---
 

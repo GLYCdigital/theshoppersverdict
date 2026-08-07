@@ -1,7 +1,8 @@
 ---
-title: "Pacon ArtKraft Duo-Finish Paper Roll, 36\" x 1,000' (White, 1"
-seo_title: "Pacon ArtKraft Duo-Finish Paper Roll, 36\" x 1,000' Review"
-meta_description: "Our full pacon artkraft duo-finish paper roll, 36\" x 1,000' (white, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Pacon ArtKraft Duo-Finish Paper Roll, 36\ x 1,000' (White, 1"
+seo_title: "Pacon ArtKraft Duo-Finish Paper Roll, 36\ x 1,000' Review"
+meta_description: "Our full pacon artkraft duo-finish paper roll, 36\ x 1,000' (white, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pacon-artkraft-duo-finish-paper-roll-36-x-1-000-white-1-b00006-review"
 image_alt: "Pacon ArtKraft Duo-Finish Paper Roll, 36 x 1,000 (White, 1 Roll)"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00006IE0T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41U7OIHEF+L._SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to cover an entire classroom table with standard 12-inch-wide craft paper, you know the struggle. This Pacon ArtKraft roll solves that problem with brute force: 36 inches of width and a full 1,000 feet of length. It's the kind of roll you buy once and don't think about for months — assuming you have somewhere to store it.

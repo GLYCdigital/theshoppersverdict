@@ -1,4 +1,5 @@
 ---
+
 title: "Large Yoga Mat (6'x 4') - Extra Long and Wide Workout Mat fo"
 seo_title: "Large Yoga Mat (6'x 4') - Extra Long and Wide Work Review"
 meta_description: "Our full large yoga mat (6'x 4') - extra long and wide workout mat fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQ5Q2W1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-4QFaUe5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Mat That Finally Acknowledges Tall People Exist

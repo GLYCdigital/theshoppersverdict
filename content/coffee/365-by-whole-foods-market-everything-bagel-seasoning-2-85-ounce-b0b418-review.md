@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Everything Bagel Seasoning, 2.85 inch"
 seo_title: "Everything Bagel Seasoning Review: 365 by Whole Foods"
 meta_description: "365 by Whole Foods Everything Bagel Seasoning review: flavor, texture, value. Is it worth it? We tested it on eggs, avocado, and more."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B418BX7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710oCEcClML._SL1500_.jpg"
-pros:
+pros: 
   - "Sesame-forward blend with generous poppy seed ratio — not just salt and garlic like some competitors"
   - "2.85-ounce shaker bottle fits standard spice racks and has a flip-top that dispenses evenly without clogging"
   - "Consistent grind size across all five components; no powdery fines or giant salt crystals that dominate bites"
-cons:
+cons: 
   - "Contains added salt, so it's not for anyone on a strict low-sodium diet — one teaspoon runs about 290mg sodium"
   - "Dried garlic and onion bits can clump if stored near steam or humidity; keep the cap sealed tight"
+
 ---
 
 Let's be honest: Everything Bagel Seasoning has become the salt-and-pepper of the 2020s. It's on eggs, avocado toast, roasted vegetables, popcorn, and apparently half the recipes on TikTok. The question isn't whether you need a jar — it's whether this one from 365 by Whole Foods Market earns a permanent spot on your counter.

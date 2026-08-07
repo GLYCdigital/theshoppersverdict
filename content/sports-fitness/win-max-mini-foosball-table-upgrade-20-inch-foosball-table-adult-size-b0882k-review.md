@@ -1,4 +1,5 @@
 ---
+
 title: "WIN.MAX Mini Foosball Table (Upgrade) 20-Inch Foosball Table"
 seo_title: "WIN.MAX Mini Foosball Table (Upgrade) 20-Inch Foos Review"
 meta_description: "Our full win.max mini foosball table (upgrade) 20-inch foosball table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0882KNMPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p+jw2AVRS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

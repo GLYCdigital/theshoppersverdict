@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley L100654Mahfuz Table Lamp"
 seo_title: "Signature Design by Ashley L100654Mahfuz Table Lam Review"
 meta_description: "Our full signature design by ashley l100654mahfuz table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07YM9937L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WCoyp01RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Signature Design by Ashley L100654Mahfuz table lamp is the kind of piece you notice in a catalog and hope looks half as good in person. The good news: it does. The better news: it's built better than most lamps in its price class. The less convenient news: there are a couple of quirks you need to know before you buy.

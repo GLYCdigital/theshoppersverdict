@@ -1,4 +1,5 @@
 ---
+
 title: "MOREOK Waterproof & Windproof -30Â°F Winter Gloves for Men/W"
 seo_title: "MOREOK Waterproof & Windproof -30Â°F Winter Gloves Review"
 meta_description: "Our full moreok waterproof & windproof -30â°f winter gloves for men/w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0868BS8WB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T0qQz25nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MOREOK Waterproof & Windproof Winter Gloves claim a -30Â°F rating, and honestly? That's not marketing fluff. With 3M Thinsulate insulation packed into a 40-gram layer and a TPU waterproof membrane sandwiched between the shell and lining, these gloves punch well above their price point. After 215 ratings averaging 4.3 stars, the consensus is clear: these are the real deal for anyone who works outdoors when the mercury tanks.

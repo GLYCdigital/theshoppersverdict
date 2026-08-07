@@ -1,4 +1,5 @@
 ---
+
 title: "Perception Tribe 13.5 Sit on Top Tandem Kayak for All-Around"
 seo_title: "Perception Tribe 13.5 Sit on Top Tandem Kayak for  Review"
 meta_description: "Our full perception tribe 13.5 sit on top tandem kayak for all-around review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086B77D17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713gZPa3oOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Perception Tribe 13.5 Tandem Kayak Review: A Heavy-Duty Hauler That Handles Two Paddlers (and Then Some)**

@@ -1,4 +1,5 @@
 ---
+
 title: "In The Swim Filter Grid Set Replacements"
 seo_title: "In The Swim Filter Grid Set Replacements Review: Verdict "
 meta_description: "Our full in the swim filter grid set replacements review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FV11QX1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OP6BuFvpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your pool water's gone cloudy and your pressure gauge is creeping past 20 PSI no matter how often you backwash, your D.E. filter grids are likely clogged, torn, or simply past their useful life. Replacing them is one of those maintenance jobs that feels intimidating until you realize it's basically a 20-minute swap. The In The Swim Filter Grid Set Replacements aim to make that swap painless without the OEM markup. Here's the honest breakdown after digging through what 225 buyers had to say.

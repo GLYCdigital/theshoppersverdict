@@ -1,4 +1,5 @@
 ---
+
 title: "D'vine Dev Planter Pot with Stand, Mid-Century Tall Plant Po"
 seo_title: "D'vine Dev Planter Pot with Stand Review: Mid-Century Style"
 meta_description: "Our honest D'vine Dev Planter Pot with Stand review: Is this 4.7-star mid-century tall plant pot worth it? Build quality, drainage, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0874Y2XBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fmitn8YYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood stand that elevates plants 20+ inches off the ground — no bending over to water"
   - "Genuine mid-century tapered silhouette that delivers high-end designer look for a fraction of boutique prices"
   - "Drainage hole plus removable plug system works for both indoor and outdoor use"
-cons:
+cons: 
   - "Stand requires basic assembly with included hex wrench — budget 15 minutes, not the 5 the manual claims"
   - "Lower-quality plastic saucer feels flimsy compared to the pot itself; consider replacing it for heavy watering"
+
 ---
 
 ## The Elevation Game: Why This Planter Actually Matters

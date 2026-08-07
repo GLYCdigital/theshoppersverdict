@@ -1,4 +1,5 @@
 ---
+
 title: "CPLA Galaxy Moon Lamp"
 seo_title: "CPLA Galaxy Moon Lamp Review: Honest 2026 Verdict"
 meta_description: "CPLA Galaxy Moon Lamp review: 4.5-star rated 3D lunar night light. Real brightness tests, remote range, and battery life. Is it worth $40?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FZGDDR12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sZot50G2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3D lunar surface detail from NASA topography data, not a flat printed decal"
   - "Stepless dimming from 5% to 100% via remote or touch — no jumpy presets"
   - "Warm white (3000K) plus 16 RGB colors actually adequate for reading at max output"
-cons:
+cons: 
   - "Remote is infrared-only — won't work through nightstands or around corners"
   - "6-hour continuous battery life on full brightness falls short of competitors at same price"
   - "USB cable included is only 3 feet — plan on an extension for shelf mounting"
+
 ---
 
 You've seen those floating moon lamps on social media — most are overpriced printed plastic balls with a warm bulb shoved inside. The CPLA Galaxy Moon Lamp is different. It's carved from real NASA lunar topography data, giving it that pockmarked, dimensional surface that makes it look like a miniature of the actual moon hovering on your nightstand. At 4.5 stars across 225 ratings, it's clearly doing something right. Let's find out if it earns a spot in your home.

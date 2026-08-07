@@ -1,4 +1,5 @@
 ---
+
 title: "Express Pencils Premium Custom Pens with Stylus | Burst of C"
 seo_title: "Express Pencils Custom Pens with Stylus Review (2026)"
 meta_description: "Express Pencils Premium Custom Pens with Stylus review: personalized pens with smooth ink, responsive touch tip, and vibrant colors. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B089KSD16C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Km+5oeA+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-ended design pairs a smooth 0.7mm gel-style ink with a responsive capacitive stylus — genuinely useful for tablet users"
   - "Premium soft-touch matte barrel with vibrant color options resists fingerprints and feels substantial in hand"
   - "Free personalization (name, logo, or monogram) at no extra cost — a real value for corporate gifts or weddings"
-cons:
+cons: 
   - "Stylus tip is fixed and cannot be replaced; once worn, that end is just a cap"
   - "Ink refills are standard D1 but not included beyond the initial cartridge — replacement requires a separate purchase"
   - "Custom engraving adds 2–3 business days to shipping; don't order last-minute for an event"
+
 ---
 
 The Express Pencils Premium Custom Pen with Stylus is one of those rare products that actually delivers on its “premium” label without the premium markup. I’ve tested a lot of branded pens, and most fail on at least one front: cheap ink, slippery barrels, or a stylus that barely registers on a screen. This one, as shown in the product image, pairs a soft-touch matte barrel in a punchy “Burst of Color” finish with a dual-ended design — ballpoint on one side, capacitive stylus on the other. It’s a hybrid that earns its place in your bag.

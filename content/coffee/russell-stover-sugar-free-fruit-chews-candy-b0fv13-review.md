@@ -1,4 +1,5 @@
 ---
+
 title: "RUSSELL STOVER Sugar Free Fruit Chews Candy"
 seo_title: "RUSSELL STOVER Sugar Free Fruit Chews Candy Review: Verdi"
 meta_description: "Our full russell stover sugar free fruit chews candy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0FV13DFHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z7Cps1ssL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RUSSELL STOVER Sugar Free Fruit Chews: The Sugar-Free Candy That Actually Tastes Like Candy

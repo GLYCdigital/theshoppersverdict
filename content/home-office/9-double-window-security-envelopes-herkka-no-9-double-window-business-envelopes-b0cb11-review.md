@@ -1,4 +1,5 @@
 ---
+
 title: "#9 Double Window Security Envelopes, HERKKA No.9 Double Wind"
 seo_title: "HERKKA #9 Double Window Envelopes Review: Security & Fit"
 meta_description: "HERKKA #9 double window security envelopes reviewed: tamper-evident seal, standard bank fit, 4.2/5 rating. See if they're worth buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CB11BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D2OSLQHzL._AC_SL1468_.jpg"
-pros:
+pros: 
   - "Security tint obscures check amounts and account numbers from casual view — a real privacy upgrade over plain envelopes"
   - "Double windows align correctly with standard #9 checks (3.5 x 8.5 inches) — no misalignment complaints in reviews"
   - "Tamper-evident seal shows clear evidence if someone opens the envelope before it reaches its destination"
-cons:
+cons: 
   - "Flap adhesive is aggressive — once pressed down, reopening without tearing the paper is essentially impossible"
   - "Paper weight feels lighter than premium brands like Quality Park; fine for standard mail, not for heavy insert bundles"
+
 ---
 
 If you're still sending checks through the mail, you already know the anxiety: drop it in the box, hope it arrives, hope nobody saw the amount. HERKKA's #9 double window security envelopes directly address that second fear. These aren't a glamorous purchase — they're a practical one. And on the whole, they deliver.

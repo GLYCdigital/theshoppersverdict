@@ -1,4 +1,5 @@
 ---
+
 title: "Argus Swivel Recliner with Ottoman, PU Leather & Wood Base R"
 seo_title: "Argus Swivel Recliner Review: PU Leather & Ottoman (2026)"
 meta_description: "Honest Argus Swivel Recliner review: PU leather comfort, 360° swivel, wood base. See pros, cons, and who should buy this 4.0-star recliner."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09DW3BP8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nsTmtkWcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360° swivel mechanism is genuinely smooth, letting you pivot from TV to conversation without lifting a finger"
   - "PU leather is easy to wipe clean — a lifesaver for households with kids or pets"
   - "Wood base adds a warm, mid-century feel that most recliners in this price range lack"
-cons:
+cons: 
   - "Recline mechanism is lever-based and requires noticeable effort — not a one-finger push like premium models"
   - "PU leather can feel stiff and sticky in hot climates; expect some sweating on bare arms and legs"
   - "Ottoman is separate, so it slides away unless you keep it anchored against a wall"
+
 ---
 
 **Is the Argus Swivel Recliner the budget-friendly lounger your living room has been waiting for? I spent a week testing it — here's what 200 Amazon buyers and my own butt have to say.**

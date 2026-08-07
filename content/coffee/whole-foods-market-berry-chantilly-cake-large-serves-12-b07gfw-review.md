@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market Berry Chantilly Cake: Large - Serves 12"
 seo_title: "Whole Foods Market Berry Chantilly Cake: Large - S Review"
 meta_description: "Our full whole foods market berry chantilly cake: large - serves 12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07GFW5BFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615+dhozMbL._SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen this cake all over Instagram. The towering white layers, the cascade of berries, that impossibly light chantilly cream. Here's the question that actually matters: Does the Whole Foods Market Berry Chantilly Cake live up to the hype when it's sitting on your own table, not filtered through a phone screen?

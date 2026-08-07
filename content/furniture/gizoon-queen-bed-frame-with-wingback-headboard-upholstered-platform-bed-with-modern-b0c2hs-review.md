@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon Queen Bed Frame with Wingback Headboard, Upholstered"
 seo_title: "Gizoon Queen Bed Frame Review: Wingback Headboard Platform"
 meta_description: "Gizoon queen bed frame with wingback headboard review: build quality, assembly, comfort, and value. Is this upholstered platform bed worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2HSYRTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NG7Y5ERjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engineered wood frame with dense foam padding on the wingback headboard — no hollow thunk when you lean back"
   - "No box spring required; slats are spaced tightly enough to support a memory foam mattress without sagging"
   - "Tool-free assembly in under 30 minutes with labeled parts and hex wrench included"
-cons:
+cons: 
   - "Low-profile frame sits just 12 inches off the floor — deep storage bins won't fit underneath"
   - "Linen-look upholstery is polyester; shows light pet hair and needs vacuuming weekly"
   - "Wingback headboard is fixed at 48 inches tall — shorter than some competing models if you prefer a dramatic backdrop"
+
 ---
 
 You've spent weeks scrolling through bed frames, and they all blur together. So let me cut through it: the Gizoon Queen Bed Frame with Wingback Headboard is a solid, mid-priced platform bed that gets the fundamentals right — sturdy support, comfortable backrest, and assembly that won't test your marriage. At 4.6 stars across 229 ratings, it's not perfect, but it's earned its score.

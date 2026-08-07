@@ -1,4 +1,5 @@
 ---
+
 title: "Gilmour Pro Twist Hose Nozzle, Fireman Hose Nozzle for Clean"
 seo_title: "Gilmour Pro Twist Hose Nozzle Review: Fireman-Grade Cleaning Power"
 meta_description: "Our Gilmour Pro Twist Hose Nozzle review covers build quality, flow control, and real-world cleaning performance. See if this fireman-style nozzle is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00GJIL3KS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FQz7hEdSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal body and brass fittings survive drops on concrete that would shatter plastic nozzles"
   - "Twist-grip flow control lets you dial from mist to full blast one-handed, even with wet gloves"
   - "Fireman-style spray pattern throws a concentrated jet that actually strips caked-on grime"
-cons:
+cons: 
   - "Heavier than plastic nozzles — noticeable fatigue on extended overhead washing sessions"
   - "No built-in shutoff valve; you must shut off water at the spigot or deal with residual pressure"
+
 ---
 
 Let's be honest: most hose nozzles are disposable junk. You buy them in a three-pack at the hardware store, they leak by August, and the plastic trigger snaps the first time you drop it on the driveway. The Gilmour Pro Twist is not that nozzle — but it's also not perfect. Here's the real story after digging through 225 ratings and the specs that matter.

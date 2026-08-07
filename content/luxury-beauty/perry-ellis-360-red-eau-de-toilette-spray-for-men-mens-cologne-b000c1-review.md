@@ -1,4 +1,5 @@
 ---
+
 title: "Perry Ellis 360Â° Red Eau De Toilette Spray for Men - Mens C"
 seo_title: "Perry Ellis 360Â° Red Eau De Toilette Spray for Me Review"
 meta_description: "Our full perry ellis 360â° red eau de toilette spray for men - mens c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000C1W38O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gWL9XNDYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Perry Ellis 360° Red: The $25 Scent That Smells Like $80

@@ -1,4 +1,5 @@
 ---
+
 title: "Carhartt Firm Duck Dog Chore Coat, Insulated Weather Resista"
 seo_title: "Carhartt Firm Duck Dog Chore Coat Review (2026): Warm & Tough"
 meta_description: "Carhartt Firm Duck Dog Chore Coat review: Is this insulated dog jacket worth $60+? Real buyer feedback, sizing tips, and cold-weather verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS3L6QH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e-xWT4nRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 12-oz Firm Duck canvas outer shell—the same material Carhartt uses on its human chore coats—so it shrugs off brambles, ice crust, and rough play without tearing"
   - "Quilted insulation with a wind-resistant lining actually holds warmth on dogs down to single-digit temps, per multiple owner reports of shivering stopping within minutes"
   - "Leg straps and a hook-and-loop chest closure keep the coat anchored during runs, rolls, and fence-line barking sessions—no twisting like cheaper fleece jackets"
-cons:
+cons: 
   - "Sizing runs notoriously large; the chest measurement chart is misleading for deep-chested breeds like Greyhounds or Dobermans, and several buyers reported needing to size down a full letter"
   - "Canvas shell is stiff until broken in—it crinkles audibly for the first week or two, which spooks skittish dogs and can feel restrictive on short-legged breeds"
+
 ---
 
 **If your dog shivers on winter walks while you're toasty in your own Carhartt, this is the coat you've been looking for.** The Firm Duck Dog Chore Coat is exactly what the name promises: a miniature version of the brand's iconic workwear, built to handle the same abuse you'd dish out on a jobsite. With a 4.7-star average across 235 ratings, it's clearly earning its keep in dog households—but it's not without quirks.

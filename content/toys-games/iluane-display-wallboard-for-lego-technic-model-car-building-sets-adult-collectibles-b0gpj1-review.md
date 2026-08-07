@@ -1,4 +1,5 @@
 ---
+
 title: "iLuane Display Wallboard for LEGO Technic Model Car Building"
 seo_title: "iLuane Display Wallboard Review: Best LEGO Technic Display"
 meta_description: "Our iLuane Display Wallboard review covers build quality, mounting, and real buyer feedback. See if this LEGO Technic wall display is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GPJ1JMNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UA2oLi00L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clear acrylic construction shows off the full Technic chassis without visual obstruction"
   - "Floating wall-mount effect makes expensive Technic sets look like museum pieces"
   - "Universal mounting pattern works across multiple Technic car sizes, not just one set"
-cons:
+cons: 
   - "Requires wall anchoring — not suitable for renters or those avoiding drilled holes"
   - "No included hardware for drywall vs. concrete differences; you may need to buy anchors separately"
+
 ---
 
 **The Review**

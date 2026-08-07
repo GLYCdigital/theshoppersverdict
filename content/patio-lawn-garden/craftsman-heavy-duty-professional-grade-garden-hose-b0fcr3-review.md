@@ -1,23 +1,25 @@
 ---
+
 title: "Craftsman Heavy Duty Professional Grade Garden Hose"
 seo_title: "Craftsman Heavy Duty Garden Hose Review: Worth It? (2026)"
 meta_description: "Craftsman Heavy Duty Professional Grade Garden Hose review: durability, kink resistance, real user feedback. Is it worth your money? Find out."
 slug: "craftsman-heavy-duty-professional-grade-garden-hose-b0fcr3-review"
 image_alt: "Craftsman Heavy Duty Professional Grade Garden Hose coiled on a lawn, showing reinforced construction and brass fittings"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCR3Z3FY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711eNnYsL6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Reinforced 5-layer construction resists kinking even in tight corners"  
   - "Brass couplings don't crack or leak, unlike cheap plastic fittings"  
   - "Stays flexible in cold weather down to freezing temps"  
-cons:  
+cons: 
   - "Heavy when full — not ideal for small-handed users or long distances"  
   - "Can kink if you sharply fold it, despite marketing claims"
+
 ---
 
 If you’ve burned through three “kink-free” hoses in two summers like I have, the Craftsman Heavy Duty Professional Grade is the one that finally makes you stop shopping. It’s not perfect — no hose is — but with a 4.5-star average across 225 ratings and a verdict score of 4.6, this is the closest thing to a set-and-forget garden hose I’ve tested.

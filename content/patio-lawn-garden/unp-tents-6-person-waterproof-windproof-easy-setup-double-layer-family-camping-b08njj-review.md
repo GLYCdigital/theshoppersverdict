@@ -1,4 +1,5 @@
 ---
+
 title: "UNP Tents 6 Person Waterproof Windproof Easy Setup,Double La"
 seo_title: "UNP Tents 6 Person Waterproof Windproof Easy Setup Review"
 meta_description: "Our full unp tents 6 person waterproof windproof easy setup,double la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08NJJCL2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zicMJJp9L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a solid, no-nonsense family tent that delivers on its two headline promises — staying dry and going up fast. It won't win awards for premium materials, but at this price, the value equation is hard to argue with.**

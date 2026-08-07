@@ -1,16 +1,17 @@
 ---
+
 title: "Premier Protein Shake, Chocolate, 30g Protein, No Added Sugar, 24 Vitamins & Minerals, 11 fl oz, 12 Pack"
 seo_title: "Premier Protein Shake Chocolate Review — 4.8★ at $46"
 meta_description: "Premier Protein Shake Chocolate review: 10,753 reviews analyzed. 30g protein, 1g sugar, 24 vitamins and minerals. Gold Medal taste winner. Is it the best RTD protein shake?"
 slug: "premier-protein-shake-chocolate-12-pack-review"
 image_alt: "Premier Protein Shake, Chocolate, 30g Protein, No Added Sugar, 24 Vitamins & Minerals, 11 fl oz, 12 Pack"
-keywords:
+keywords: 
   - "premier protein shake review"
   - "premier protein chocolate review"
   - "best ready to drink protein shake"
   - "protein shake for weight loss"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "How much protein is in a Premier Protein shake?"
     answer: "30g of protein per 11 fl oz bottle, including all essential amino acids. It's one of the highest protein-per-ounce ratios in the RTD category."
   - question: "Does Premier Protein have sugar?"
@@ -23,13 +24,14 @@ review_count: 10753
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B008JGIZGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y4+WeqZxL._SL1500_.jpg"
-pros:
+pros: 
   - "30g protein with only 160 calories — excellent macro ratio"
   - "American Masters of Taste Gold Medal for taste"
   - "24 vitamins and minerals in every shake"
-cons:
+cons: 
   - "Can be thicker than some prefer — needs a good shake before drinking"
   - "Sweetener aftertaste noticeable to some"
+
 ---
 
 ## The protein shake that actually tastes like something

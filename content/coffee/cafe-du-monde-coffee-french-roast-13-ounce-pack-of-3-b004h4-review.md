@@ -1,23 +1,25 @@
 ---
+
 title: "Cafe Du Monde Coffee, French Roast, 13 Ounce (Pack of 3)"
 seo_title: "Cafe Du Monde French Roast Review (Pack of 3) | 2026 inch  "
 meta_description: "Honest Cafe Du Monde French Roast review: bold chicory blend, 3-pack value, pros/cons, and who should buy. Read before you order."
 slug: "cafe-du-monde-coffee-french-roast-13-ounce-pack-of-3-b004h4-review"
 image_alt: "Three 13-ounce cans of Cafe Du Monde French Roast coffee with chicory, stacked on a dark counter"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004H4SHUA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91cFPuAwzYL._SL1500_.jpg"
-pros:  
+pros: 
   - "Authentic New Orleans chicory blend — distinctly bold, slightly earthy, not bitter"  
   - "Three 13-oz cans offer solid value for daily drip or cold brew use"  
   - "Consistent roast that holds up in French press, percolator, or iced coffee"  
-cons:  
+cons: 
   - "Ground medium-fine — not ideal for espresso machines or pour-over drips (clogs filters)"  
   - "Chicory adds a mild sweetness some drinkers find unusual; it's polarizing"
+
 ---
 
 **Is Cafe Du Monde's French Roast the real deal, or just tourist hype?**  

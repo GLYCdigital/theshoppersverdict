@@ -1,4 +1,5 @@
 ---
+
 title: "Graded Card Case Storage Box: Trading Card Storage Box with"
 seo_title: "Graded Card Case Storage Box Review: 9 Dividers, Pro-Grade"
 meta_description: "Honest Graded Card Case Storage Box review: 9 dividers, rigid shell, 4.6/5 stars. Does it protect slabs? Real pros, cons & buying advice."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM5ZJMKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TgsteMfHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid, crush-resistant shell that protects slabs during shipping and shelf storage"
   - "9 included dividers let you sort by grade, player, or set without extra purchases"
   - "Fits PSA, BGS, and CGC standard slabs with zero wiggle — no rattling in transit"
-cons:
+cons: 
   - "Does not accommodate thicker slabs like one-touch magnetics or oversized cases"
   - "Lid hinges are functional but not reinforced; rough handling could stress the corners"
   - "No locking mechanism — fine for home display, but not a travel case for tournaments"
+
 ---
 
 If you've dropped $200+ on a PSA 10 rookie card, the last thing you want is it sliding around in a shoebox. The Graded Card Case Storage Box is built for exactly that anxiety — a rigid, purpose-built home for your slabs that won't flex when you stack a few boxes on top.

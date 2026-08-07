@@ -1,4 +1,5 @@
 ---
+
 title: "Makita 9005B 5-Inch Angle Grinder , Teal"
 seo_title: "Makita 9005B 5-Inch Angle Grinder , Teal Review: Verdict "
 meta_description: "Our full makita 9005b 5-inch angle grinder , teal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00004YOGZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Jz-WQ3QHL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're shopping for a 5-inch angle grinder and want something that actually *lasts*, you already know the Makita name. The 9005B has been a contractor staple for years — but does it still hold up in 2026? Here's what I found after putting it through real work.

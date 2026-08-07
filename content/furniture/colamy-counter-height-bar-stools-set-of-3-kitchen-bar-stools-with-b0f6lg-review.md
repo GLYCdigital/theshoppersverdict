@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Counter Height Bar Stools Set of 3, Kitchen Bar Stool"
 seo_title: "COLAMY Counter Height Bar Stools Review: Set of 3 (2026)"
 meta_description: "Honest COLAMY counter height bar stools set of 3 review: comfort, stability issues, and whether this budget 3.1-star pick fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0F6LGZVFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718NrPgeO1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine faux leather upholstery that's easy to wipe clean — no fabric stains from coffee or grease"
   - "Assembled height around 24 inches works properly for 36-inch standard countertops, not the taller bar-height surfaces"
   - "Padded seat with approximately 2 inches of foam offers decent short-term comfort for a sub-$100 stool"
-cons:
+cons: 
   - "Multiple reports of wobbly legs after 2-3 months of daily use — the crossbars don't lock tightly enough"
   - Footrest is positioned too low for average-height adults (5'8 inch "-6'0 inch "), forcing awkward leg angles
   - "Faux leather peels at the seat edge where thighs rub, typically within 6 months of regular use"
+
 ---
 
 A 3.1-star average on Amazon with 155 ratings tells you something immediately: this COLAMY counter stool set is a gamble. At roughly $80–$100 for three stools (pricing fluctuates), you're paying bargain-bin prices for what looks like a solid wood-and-faux-leather set. The real question is whether the savings justify the compromises. I've dug through the buyer feedback, and here's what you actually need to know before clicking add to cart.

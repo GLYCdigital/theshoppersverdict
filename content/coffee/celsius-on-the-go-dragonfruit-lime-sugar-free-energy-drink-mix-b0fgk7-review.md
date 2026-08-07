@@ -1,4 +1,5 @@
 ---
+
 title: "CELSIUS On The Go Dragonfruit Lime, Sugar Free Energy Drink"
 seo_title: "CELSIUS On The Go Dragonfruit Lime Review: Worth It? (2026)"
 meta_description: "CELSIUS On The Go Dragonfruit Lime review: 4.5-star sugar-free energy drink mix. Real taste tests, caffeine content, and honest pros & cons before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGK7YBN9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xFOfKQiSL._SL1500_.jpg"
-pros:
+pros: 
   - "200mg natural caffeine from green tea and guarana — clean energy without jitters or crash"
   - "Zero sugar, zero calories, and only 10 calories per stick — fits keto and low-carb diets"
   - "Dissolves instantly in cold water with no gritty residue, unlike many competing stick packs"
-cons:
+cons: 
   - "Flavor leans more tart lime than sweet dragonfruit — not for those expecting a sugary tropical punch"
   - "Individual stick packs generate more packaging waste than a single can"
+
 ---
 
 **The 10-Second Energy Fix That Actually Tastes Good**

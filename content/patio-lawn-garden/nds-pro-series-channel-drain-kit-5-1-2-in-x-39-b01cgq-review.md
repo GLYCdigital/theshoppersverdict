@@ -1,4 +1,5 @@
 ---
+
 title: "NDS Pro Series Channel Drain Kit, 5-1/2 in. X 39-3/8 in. Dee"
 seo_title: "NDS Pro Series Channel Drain Kit, 5-1/2 in. X 39-3 Review"
 meta_description: "Our full nds pro series channel drain kit, 5-1/2 in. x 39-3/8 in. dee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01CGQRU8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kCrH26N4L._AC_SL1360_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If standing water on your patio is turning every rainstorm into a mosquito breeding project, the NDS Pro Series Channel Drain Kit is the fix you've been circling. This 5-1/2-inch wide by 39-3/8-inch long trench drain kit is the contractor-grade solution that DIYers eventually graduate to after fighting with flimsy plastic gutters. With a 4.5-star average across 225 ratings, it's clearly earning its reputation — but let's talk about whether it's the right drain for *your* specific puddle problem.

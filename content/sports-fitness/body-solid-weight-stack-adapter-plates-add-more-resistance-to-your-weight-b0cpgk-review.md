@@ -1,23 +1,25 @@
 ---
+
 title: "Body-Solid Weight Stack Adapter Plates - Add More Resistance"
 seo_title: "Body-Solid Weight Stack Adapter Plates Review (2026)"
 meta_description: "Body-Solid Weight Stack Adapter Plates review: Add 5–25 lbs to any selectorized stack. See real pros, cons, and fit notes before buying."
 slug: "body-solid-weight-stack-adapter-plates-add-more-resistance-to-your-weight-b0cpgk-review"
 image_alt: "Body-Solid weight stack adapter plates stacked on a selectorized pin, showing added resistance plates"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPGKZ1GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rayz9UycL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Solid steel construction with durable black powder coat — no flaking or rattling after months of daily use"  
   - "Fits most standard 1-inch selectorized weight stacks (Body-Solid, Bodycraft, Marcy, and many others)"  
   - "Five 5-lb plates give you precise 5–25 lb increments without buying a whole new stack"  
-cons:  
+cons: 
   - "Pin collar can loosen slightly under heavy racking — you’ll want to re-tighten it every few weeks"  
   - "Not compatible with 2-inch Olympic-style stacks or machines with plastic guide rods"
+
 ---
 
 Here’s the thing about home gyms: you outgrow them. That 150-lb stack that felt heavy in January? By August you’re repping it out for sets of 12, and the only way to add weight is to buy a whole new machine — or bolt on plates that weren’t designed to fit. The Body-Solid Weight Stack Adapter Plates are the smarter, cheaper workaround. And for most people, they work exactly as advertised.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hauteloom Parent of Carolina Area Rug"
 seo_title: "Hauteloom Parent of Carolina Area Rug Review: Verdict | T"
 meta_description: "Our full hauteloom parent of carolina area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGQJB46K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AyydobeHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hauteloom Carolina Area Rug Review: Is This Plush Bargain Worth Your Floor?

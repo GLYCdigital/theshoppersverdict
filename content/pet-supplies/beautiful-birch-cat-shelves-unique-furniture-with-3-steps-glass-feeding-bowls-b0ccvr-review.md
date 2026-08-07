@@ -1,4 +1,5 @@
 ---
+
 title: "Beautiful Birch Cat Shelves - Unique Furniture with 3 Steps"
 seo_title: "Beautiful Birch Cat Shelves Review: 3-Step Wall Furniture"
 meta_description: "Honest Beautiful Birch Cat Shelves review: 3-step wall-mounted cat furniture with glass bowls. Build quality, mounting tips, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CCVR2RN9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81HxLeCODGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid 0.6-inch birch plywood construction — noticeably sturdier than the particleboard most cat shelves use"
   - "Integrated glass feeding bowls are a genuinely unique two-in-one design that saves floor space"
   - "Carpeted steps provide real traction for senior cats and kittens who struggle with slick surfaces"
-cons:
+cons: 
   - "Mounting hardware is basic; you'll want heavy-duty drywall anchors or studs for cats over 12 pounds"
   - "Carpet color is a light beige that shows fur and dirt quickly — plan on vacuuming weekly"
+
 ---
 
 Cats will climb. That's not a question — it's a law of physics with fur. The question is whether you give them something designed for it or let them treat your bookshelf as a stairmaster. The **Beautiful Birch Cat Shelves** with three steps and integrated glass bowls is one of the more interesting attempts I've seen at solving both vertical territory and feeding in a single wall-mounted unit.

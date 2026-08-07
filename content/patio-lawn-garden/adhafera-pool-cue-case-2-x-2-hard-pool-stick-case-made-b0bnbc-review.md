@@ -1,4 +1,5 @@
 ---
+
 title: "Adhafera Pool Cue Case, 2 X 2 Hard Pool Stick Case, Made of"
 seo_title: "Adhafera Pool Cue Case Review: 2x2 Hard Shell Protection"
 meta_description: "Adhafera 2x2 hard pool cue case review: solid protection, secure straps, roomy pockets. See if this $40 case fits your game before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNBC72DW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XuXIs5grL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid ABS hard shell with thick foam interior that genuinely protects cues from drops and bag-jostling"
   - "Interior straps hold cues snugly in place — no rattling or shifting during transport"
   - "Two exterior accessory pockets with YKK-style zippers fit chalk, gloves, tips, and a compact joint protector set"
-cons:
+cons: 
   - "Fits only 2-piece cues up to 29-inch butt sections — longer jump cues or 3-piece breaks won't close properly"
   - "No shoulder pad on the included strap; loaded with two cues it digs into your shoulder on longer walks"
   - "Latch tension is tight initially; some buyers report needing to break in the buckles for easier closing"
+
 ---
 
 If you've ever stuffed a $200 cue into a flimsy fabric sleeve and heard it clatter around in the trunk, you already know why the Adhafera 2x2 hard case exists. This is the budget-friendly hard shell that's been quietly racking up 4.6-star ratings from 229 Amazon shoppers. Here's the real breakdown.

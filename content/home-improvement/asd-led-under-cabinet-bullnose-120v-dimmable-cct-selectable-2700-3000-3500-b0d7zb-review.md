@@ -1,4 +1,5 @@
 ---
+
 title: "ASD LED Under Cabinet Bullnose 120V Dimmable CCT Selectable"
 seo_title: "ASD LED Under Cabinet Bullnose Review: Dimmable & CCT Selectable"
 meta_description: "ASD LED Under Cabinet Bullnose 120V light review: dimmable, CCT selectable, easy install. See pros, cons, and who should buy this 4.1-star fixture."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D7ZBTG9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kHPZAkvrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-in-1 color temperature dial (2700K/3000K/3500K) lets you match existing kitchen lighting without swapping fixtures"
   - "Bullnose-specific design means it sits flush against rounded cabinet edges—no ugly gaps or light bleed"
   - "Hardwired 120V connection eliminates the battery/puck light hassle and works with standard wall dimmers"
-cons:
+cons: 
   - "No integrated on/off switch on the fixture itself—you must wire it to a wall switch or use a dimmer"
   - "The CCT selector switch is on the backplate, so you'll need to pull the fixture down to adjust color temperature after install"
+
 ---
 
 ## The Under-Cabinet Light That Finally Fits Right

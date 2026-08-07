@@ -1,4 +1,5 @@
 ---
+
 title: "Tub Works Smooth Bath Crayons, Yellow, Nontoxic, Washable, H"
 seo_title: "Tub Works Smooth Bath Crayons, Yellow, Nontoxic, W Review"
 meta_description: "Our full tub works smooth bath crayons, yellow, nontoxic, washable, h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CDZGSG2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JgbsS2euL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tub Works Smooth Bath Crayons Review: A Parent's Honest Take

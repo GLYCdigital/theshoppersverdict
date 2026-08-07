@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Poreless Face Primer, Skin-Smoothing Matte Makeup Bas"
 seo_title: "e.l.f. Poreless Face Primer Review: Matte Finish Worth It?"
 meta_description: "Honest e.l.f. Poreless Face Primer review: Does this matte makeup base truly minimize pores? Real results, pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00JZ4V6V4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514N8km4BsL._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers a genuinely blurred, matte finish at a drugstore price point — rivals primers costing 3-4x more"
   - "Lightweight silicone-based formula that doesn't pill or cake under foundation, even with layering"
   - "Squeeze tube packaging lets you use every last drop — no wasted product in a pump or jar"
-cons:
+cons: 
   - "Can feel slightly dry on very dehydrated skin — you'll need a hydrating moisturizer underneath"
   - "The matte effect fades noticeably after 6-7 hours on oily T-zones, requiring touch-ups"
+
 ---
 
 **The $9 Primer That Thinks It's $40**

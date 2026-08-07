@@ -1,4 +1,5 @@
 ---
+
 title: "For 64oz Vitamix Blender Pitcher with Tamper, Replacement fo"
 seo_title: "For 64oz Vitamix Blender Pitcher with Tamper, Repl Review"
 meta_description: "Our full for 64oz vitamix blender pitcher with tamper, replacement fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8VG2YZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lqPuf5VdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $80 question: Can a third-party pitcher actually replace a Vitamix?

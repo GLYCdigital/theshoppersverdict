@@ -1,4 +1,5 @@
 ---
+
 title: "Mason Jar Pour Spout, For Spout Spouting Lid Mason Jars Regu"
 seo_title: "Mason Jar Pour Spout, For Spout Spouting Lid Mason Review"
 meta_description: "Our full mason jar pour spout, for spout spouting lid mason jars regu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9CFQ39W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nLEthDm-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some kitchen gadgets solve problems you didn’t know you had. This one solves a problem you absolutely have: pouring syrup, oil, or dressing from a mason jar without creating a sticky mess down the side of the jar.

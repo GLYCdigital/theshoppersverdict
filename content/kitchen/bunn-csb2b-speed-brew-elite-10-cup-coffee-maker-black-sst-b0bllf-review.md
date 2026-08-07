@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN CSB2B Speed Brew Elite 10-Cup Coffee Maker, Black/SST"
 seo_title: "BUNN Speed Brew Elite Review: 10-Cup Coffee Maker Worth It?"
 meta_description: "BUNN Speed Brew Elite 10-Cup review: 3-minute brewing, thermal carafe, and real-world performance. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLLFLZWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qyCwdAHXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 10-cup pot brews in under 4 minutes—no waiting around for morning coffee"
   - "Stainless thermal carafe keeps coffee hot for hours without a burner that scorches"
   - "Sprayhead design saturates grounds evenly, extracting noticeably better flavor than drip machines"
-cons:
+cons: 
   - "No programmable timer—you can't set it to brew before you wake up"
   - "Must preheat with a full tank first or you'll get lukewarm coffee from the first pot"
   - "Carafe lid is finicky to align; drips if you don't seat it perfectly"
+
 ---
 
 If you've ever stood over a standard drip machine watching that first cup crawl into the pot, the BUNN CSB2B Speed Brew Elite is going to feel like magic. This is a coffee maker built around one idea: get hot, well-extracted coffee into your mug fast. And it does that job better than almost anything else under $200.

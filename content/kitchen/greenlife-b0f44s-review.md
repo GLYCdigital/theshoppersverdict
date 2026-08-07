@@ -1,4 +1,5 @@
 ---
+
 title: "GreenLife"
 seo_title: "GreenLife Review: Verdict | TSV"
 meta_description: "Our full greenlife review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F44S2VMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X2XTElszL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's skip the preamble. GreenLife is one of the most recognizable names in ceramic nonstick cookware, and the brand's 4.2-star average across 210+ Amazon ratings tells you most people walk away satisfied. But "satisfied" doesn't mean "perfect" — and if you're dropping money on a new pan set, you deserve to know exactly where this stuff shines and where it will let you down.

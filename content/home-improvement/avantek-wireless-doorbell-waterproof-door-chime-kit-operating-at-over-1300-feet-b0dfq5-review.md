@@ -1,4 +1,5 @@
 ---
+
 title: "AVANTEK Wireless Doorbell, Waterproof Door Chime Kit Operati"
 seo_title: "AVANTEK Wireless Doorbell Review: 1300-Ft Range Tested"
 meta_description: "AVANTEK wireless doorbell review: waterproof chime kit with 1300-ft range. Real-world testing, 52 chimes, 2-year battery. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFQ543DD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rBS88+U5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 1300-foot range — tested through 3 interior walls and a garage, signal held strong"
   - "IP66 waterproof rating on the button; survived direct hose spray and heavy rain in testing"
   - "52 chime options with 5 volume levels including a 110dB max that genuinely cuts through noise"
-cons:
+cons: 
   - "Chime receiver plugs directly into outlet — no battery or hardwire option, which limits placement"
   - "Button is large (roughly 3.5 inches tall) and visually prominent — not discreet"
   - "No light flash option on the receiver, so hearing-impaired users miss alerts"
+
 ---
 
 **The AVANTEK Wireless Doorbell: 1300-Foot Range That Actually Delivers**

@@ -1,4 +1,5 @@
 ---
+
 title: "Monarch Rain Chains Akira Cup Rain Chain, 8-1/2 Feet Length "
 seo_title: "Monarch Rain Chains Akira Cup Rain Chain, 8-1/2 Fe Review"
 meta_description: "Our full monarch rain chains akira cup rain chain, 8-1/2 feet length  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CXC63JKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jqM6Tp3wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most downspouts are an eyesore. A rain chain turns that necessary drainage pipe into something you actually want to look at — and the Monarch Akira Cup is one of the better-looking options I've seen in this category.

@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Opus Wedge"
 seo_title: "Callaway Opus Wedge Review (2026): Spin, Feel & Verdict"
 meta_description: "Callaway Opus Wedge review: Does the new Opus line deliver on spin and feel? We break down performance, loft options, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9WK3MNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XloPdAWML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional spin control from the new Spin Gen Face — even on half shots and chips out of the rough"
   - "Premium feel at impact; the forged carbon steel head delivers a soft, responsive sound that inspires confidence"
   - "Versatile sole grind options (S, W, C) let you match the wedge to your swing type and course conditions"
-cons:
+cons: 
   - "Premium pricing sits above comparable models from Cleveland or Ping — you pay for the name and tech"
   - "Stock grip is polarizing; some players find it too soft and swap it out within the first week"
+
 ---
 
 The wedge is the most personal club in your bag. It's the one you trust from 80 yards in, the one that saves par when your driver betrays you. So when Callaway released the Opus line, they knew they needed to nail two things: spin and feel. After digging through 229 ratings averaging 4.6 stars, here's what real golfers are saying about whether this club earns its spot in your bag.

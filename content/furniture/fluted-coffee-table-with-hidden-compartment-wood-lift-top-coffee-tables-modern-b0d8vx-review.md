@@ -1,4 +1,5 @@
 ---
+
 title: "Fluted Coffee Table with Hidden Compartment, Wood Lift Top C"
 seo_title: "Fluted Coffee Table with Hidden Compartment Review"
 meta_description: "Honest review of the fluted coffee table with hidden compartment and lift-top design. See pros, cons, and who should buy this 4.2-star piece."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8VXGC6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/919Og653laL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lift-top mechanism with hidden compartment doubles as a workspace and hides clutter"
   - "Fluted texture adds architectural interest without overwhelming small living rooms"
   - "Sturdy wood construction that holds up to daily use — no wobble reported"
-cons:
+cons: 
   - "Assembly requires patience — some buyers report misaligned pre-drilled holes"
   - "Hidden compartment is shallow — won't fit tall items like remotes standing upright"
+
 ---
 
 Let’s be honest: most coffee tables are just flat surfaces that collect remotes, coasters, and regret. This fluted lift-top version from the B0D8VXGC6R listing tries to be more — a workspace, a storage bin, and a design statement all at once. With 210 ratings averaging 4.2 stars, it’s clearly doing something right. Here’s the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Bay Leaves Organic, 0.15 Ounce"
 seo_title: "365 Whole Foods Bay Leaves Review: Are They Worth It?"
 meta_description: "Honest 365 by Whole Foods Market organic bay leaves review: potency, value, and real buyer feedback. See if this 0.15 oz jar earns a spot in your kitchen."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9ZRBTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k9g8-uWAL._SL1500_.jpg"
-pros:
+pros: 
   - "Whole, intact leaves with pronounced aroma — noticeably fresher than bulk-bin bay leaves"
   - "USDA-certified organic with no fillers or stems; clean ingredient list"
   - "Glass jar seals tightly, preserving potency far better than flimsy plastic pouches"
-cons:
+cons: 
   - "0.15 oz is a small amount — roughly 30-40 leaves — heavy users will blow through this fast"
   - "No resealable inner pouch; if you lose the lid, the whole batch goes stale quickly"
+
 ---
 
 Let’s be blunt: bay leaves are the most underappreciated ingredient in your spice rack. Most people buy whatever dusty jar has been sitting at the back of the store, use one leaf per pot of chili, and wonder why their food tastes flat. The 365 by Whole Foods Market Organic Bay Leaves are a different animal — but they come with a catch.

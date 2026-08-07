@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Lahara Centerset Chrome Bathroom Faucet"
 seo_title: "Delta Lahara Centerset Chrome Faucet Review (2026)"
 meta_description: "Honest Delta Lahara Centerset Chrome bathroom faucet review: build quality, installation, Diamond Seal tech, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GR9X9LKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610W4BSInKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal technology — ceramic disc cartridges carry a lifetime limited warranty and are engineered to outlast standard rubber washers"
   - "True centerset 4-inch layout with 6-inch deck plate — fits the vast majority of existing 3-hole bathroom sinks without buying extra hardware"
   - "Solid brass body with chrome finish that resists water spots and fingerprint smudging better than most budget faucets in this class"
-cons:
+cons: 
   - "Lever handles are on the shorter side — users with large hands may find them slightly less comfortable than full-size cross or blade handles"
   - "Supply lines are not included in the box — you'll need to purchase 3/8-inch compression lines separately if your rough-in doesn't already have them"
   - "Chrome finish, while durable, will show hard-water mineral deposits more visibly than brushed nickel or matte options"
+
 ---
 
 **The Delta Lahara Centerset Chrome Bathroom Faucet** sits in a weird spot: it's not the cheapest faucet at Home Depot, but it's not a luxury Brizo either. At 4.6 stars across 229 ratings, it's clearly doing something right. The question is whether that something matters for *your* bathroom remodel.

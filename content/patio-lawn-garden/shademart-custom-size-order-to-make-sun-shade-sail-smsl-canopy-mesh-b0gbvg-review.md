@@ -1,4 +1,5 @@
 ---
+
 title: "ShadeMart Custom Size Order to Make Sun Shade Sail SMSL Cano"
 seo_title: "ShadeMart Custom Size Order to Make Sun Shade Sail Review"
 meta_description: "Our full shademart custom size order to make sun shade sail smsl cano review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GBVG7ZQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1gstAiWFwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to shade an oddly-shaped patio with a standard rectangle sail, you know the pain: sagging corners, sun gaps, and a look that screams "temporary." ShadeMart's custom-size program exists to kill that problem — and based on 229 ratings averaging 4.6 stars, it largely delivers. But custom comes with tradeoffs, and you need to know them before you order.

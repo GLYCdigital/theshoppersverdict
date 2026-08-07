@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Frixion ColorSticks Erasable Gel"
 seo_title: "Pilot Frixion ColorSticks Erasable Gel Review: Verdict | "
 meta_description: "Our full pilot frixion colorsticks erasable gel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTMQ8DBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8187nR0vPfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the comprehensive review:

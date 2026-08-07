@@ -1,4 +1,5 @@
 ---
+
 title: "MSR Evo Trail Snowshoes, 22 Inch Pair, Midnight"
 seo_title: "MSR Evo Trail Snowshoes, 22 Inch Pair, Midnight Review: V"
 meta_description: "Our full msr evo trail snowshoes, 22 inch pair, midnight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5B9MNL3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wqRDc5CeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the MSR Evo Trail 22s: these are the snowshoes I'd recommend to 80% of casual winter hikers, but they're not for everyone. After 225 Amazon ratings averaging 4.5 stars, the consensus is clear — but the 20% who bounce off them usually bought the wrong size. Here's the real story.

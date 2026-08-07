@@ -1,4 +1,5 @@
 ---
+
 title: "Kokido Telescopic Pool Pole"
 seo_title: "Kokido Telescopic Pool Pole Review: Verdict | TSV"
 meta_description: "Our full kokido telescopic pool pole review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHTKK3F5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HWd7eAbHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most pool poles are either too short to reach the deep end or so flimsy they bend under pressure. The Kokido Telescopic Pool Pole tries to solve both problems with a 16- to 32-foot aluminum extension system. After digging through 229 ratings and the technical specs, here's the real story.

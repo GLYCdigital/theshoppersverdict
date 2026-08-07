@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Upholstered Dining Chairs Set of 2, Modern Kitchen Ch"
 seo_title: "COLAMY Upholstered Dining Chairs Review: Set of 2 for Small Spaces"
 meta_description: "Honest COLAMY upholstered dining chair set of 2 review. Are these modern kitchen chairs with back worth it? Real buyer feedback, dimensions, and pros/cons."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GG2TRNJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q9X5vaVFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly in under 10 minutes with pre-drilled holes and included hex wrench"
   - "Firm yet comfortable foam padding that holds up to daily use without flattening"
   - "Comes fully assembled legs that screw in solidly — no wobbly joints after 6+ months"
-cons:
+cons: 
   - "Lightweight construction (approx. 11 lbs per chair) can slide on hardwood floors without floor pads"
   - "Fabric is stain-prone — light colors show coffee and grease marks quickly, no removable covers"
   - Seat height (18.5 inch ") may feel low for standard 30 inch " tables; measure your counter first
+
 ---
 
 If you're furnishing a small dining nook, an apartment breakfast bar, or just need two extra seats that don't dominate a room, the COLAMY Upholstered Dining Chairs Set of 2 deserve a hard look. At 4.4 stars across 220 ratings, these aren't flashy statement pieces — they're workhorse chairs that get the job done without breaking your budget. But "good for the price" comes with some specific caveats you should know before clicking buy.

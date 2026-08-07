@@ -1,4 +1,5 @@
 ---
+
 title: "Exo Terra"
 seo_title: "Exo Terra Review: Is This Reptile Habitat Worth It?"
 meta_description: "Honest Exo Terra review: build quality, real-world performance, and buyer feedback. See who should buy this reptile enclosure and who should skip it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT9T784N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910K0DfaKRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Front-opening glass doors with locking mechanism make daily access and maintenance genuinely easier than top-lid tanks"
   - "Screened top panel allows proper UVB penetration and heat lamp placement without modifying the enclosure"
   - "Waterproof base and raised bottom lip contain substrate spills and minor water overflow effectively"
-cons:
+cons: 
   - "Glass construction is heavy when fully set up — plan for a sturdy stand rated for the total weight"
   - "Stock screen top can sag under heavier heat fixtures if you don't distribute weight across the frame"
   - "Some buyers report the locking latch feels slightly flimsy on units with rougher shipping handling"
+
 ---
 
 If you keep reptiles, you already know the struggle: top-opening tanks that turn every feeding into a game of whack-a-mole with a startled gecko. The Exo Terra glass terrarium solves that problem with front-opening doors, and it's why this enclosure has earned a 4.6-star average across 229 Amazon ratings. But is it worth the premium over a basic aquarium tank? Let's break it down.

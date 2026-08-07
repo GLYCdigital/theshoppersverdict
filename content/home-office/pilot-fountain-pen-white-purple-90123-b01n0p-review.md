@@ -1,4 +1,5 @@
 ---
+
 title: "PILOT Fountain Pen , White/Purple (90123)"
 seo_title: "PILOT Fountain Pen , White/Purple (90123) Review: Verdict"
 meta_description: "Our full pilot fountain pen , white/purple (90123) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01N0PQ12G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s9zhNfBrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: the PILOT Fountain Pen in White/Purple (model 90123) is a solid entry-level fountain pen that punches above its weight class — with a few caveats you should know before you click "buy."

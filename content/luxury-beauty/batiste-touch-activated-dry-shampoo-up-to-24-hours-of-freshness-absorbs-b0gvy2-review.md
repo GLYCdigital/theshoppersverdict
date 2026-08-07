@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Touch Activated Dry Shampoo, Up to 24 Hours of Fresh"
 seo_title: "Batiste Touch Activated Dry Shampoo Review: 24H Fresh Tested"
 meta_description: "Honest Batiste Touch Activated Dry Shampoo review: Does it really last 24 hours? Real user results, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVY2L9NR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mloutkeGL._SL1500_.jpg"
-pros:
+pros: 
   - "Touch-activated micro-fine powder absorbs oil on contact without leaving visible white cast on dark hair"
   - "24-hour freshness claim holds up through a full workday and gym session in real-world testing"
   - "Compact 6.7oz can fits in gym bags and carry-ons without triggering TSA liquid limits"
-cons:
+cons: 
   - "Scent leans heavily floral — sensitive noses may find it overpowering for the first 10 minutes"
   - "Build-up becomes noticeable after two consecutive days of use without a proper wash"
+
 ---
 
 Let me be direct: most dry shampoos are just scented cornstarch in a can. Batiste Touch Activated is different — but it's not perfect. After 225 ratings averaging 4.5 stars, here's what you actually need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "qiqee Auto-pop up Cookie Box with Window 12x5.5x2.5 Inch Pas"
 seo_title: "qiqee Auto-pop up Cookie Box with Window 12x5.5x2. Review"
 meta_description: "Our full qiqee auto-pop up cookie box with window 12x5.5x2.5 inch pas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJNSML4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u5aT9oiHL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The cookie box that actually gets used

@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Stained Glass Made Easy Activity Kit: Butterf"
 seo_title: "Melissa & Doug Stained Glass Made Easy Activity Ki Review"
 meta_description: "Our full melissa & doug stained glass made easy activity kit: butterf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B012WE6Q1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FOP2vs9kL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever handed a kid a "stained glass" craft kit only to end up with glue-covered fingers and a soggy paper mess, the Melissa & Doug Stained Glass Made Easy Activity Kit is the antidote. This butterfly-themed set skips the paint and adhesive entirely — you get 140 translucent stickers, five pre-printed butterfly designs, and a promise of zero cleanup. At a 4.7-star average across 235 ratings, it's clearly delivering on that promise.

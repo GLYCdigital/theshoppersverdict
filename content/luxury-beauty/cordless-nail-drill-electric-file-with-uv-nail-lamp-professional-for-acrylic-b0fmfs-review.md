@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Nail Drill Electric File with UV Nail Lamp:Professi"
 seo_title: "Cordless Nail Drill & UV Lamp Review (2026): Worth It?"
 meta_description: "Honest review of the Cordless Nail Drill Electric File with UV Nail Lamp. Tested for acrylics, gels, and speed control. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FMFS2DWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JNaZLwMTL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely cordless — full freedom of movement without a dangling wire catching on your kit"
   - "UV lamp integrated into the base, so curing gel polish doesn't require a separate device"
   - "Variable speed control (up to 30,000 RPM) handles both fine detail work and bulk acrylic removal"
-cons:
+cons: 
   - "Battery life is average — expect roughly 2–3 hours of intermittent use before a recharge"
   - "The UV lamp is compact; curing a full hand of five nails takes patience and repositioning"
+
 ---
 
 ## The 2-in-1 that actually pulls double duty

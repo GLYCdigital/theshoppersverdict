@@ -1,4 +1,5 @@
 ---
+
 title: "New Classic Furniture"
 seo_title: "New Classic Furniture Review: Verdict | TSV"
 meta_description: "Our full new classic furniture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSXB7D58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51atseNsWnL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what you're actually getting with New Classic Furniture: a mid-priced furniture line that's trying to punch above its weight class. After digging through 220 ratings and comparing this against the usual suspects in the $400–$700 range, here's the real story.

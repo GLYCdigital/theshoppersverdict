@@ -1,4 +1,5 @@
 ---
+
 title: "IIOPE Heavy Duty Flag Pole,Gauge Aluminum,Wind Tested,Extra "
 seo_title: "IIOPE Heavy Duty Flag Pole,Gauge Aluminum,Wind Tes Review"
 meta_description: "Our full iiope heavy duty flag pole,gauge aluminum,wind tested,extra  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D41CG8P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D2hoW-KDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've buried three flimsy flagpoles in the last two years — snapped by a spring squall, bent at the base, or rusted through the welds. The IIOPE Heavy Duty Flag Pole is engineered specifically for people tired of replacing bent aluminum every season. It's not the cheapest option, but it's likely the last one you'll buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "ForPro Zebra Foam Board, 100/180 Grit, Double-Sided Manicure"
 seo_title: "ForPro Zebra Foam Board, 100/180 Grit, Double-Side Review"
 meta_description: "Our full forpro zebra foam board, 100/180 grit, double-sided manicure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08QK8X48M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SrD+H+CaS._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $2 Nail File That Belongs in Every Manicure Kit

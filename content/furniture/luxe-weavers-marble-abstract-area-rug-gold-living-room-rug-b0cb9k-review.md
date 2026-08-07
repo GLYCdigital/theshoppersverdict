@@ -1,4 +1,5 @@
 ---
+
 title: "LUXE WEAVERS Marble Abstract Area Rug Gold Living Room Rug"
 seo_title: "LUXE WEAVERS Marble Abstract Area Rug Gold Living  Review"
 meta_description: "Our full luxe weavers marble abstract area rug gold living room rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CB9KY2LZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RO0tAigpL._AC_SL1440_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A marble-patterned rug that's trying to be the centerpiece of your room — and mostly pulling it off.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources Pretend Play Money - 150 Pieces, Ages 3+ "
 seo_title: "Learning Resources Pretend Play Money - 150 Pieces Review"
 meta_description: "Our full learning resources pretend play money - 150 pieces, ages 3+  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CB3Y9J5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: pretend money is one of those toys that looks simple but gets used constantly. Kids love playing store, counting, and "paying" for things. The Learning Resources 150-piece set is the most common option you'll find on Amazon, and at a 4.0-star average from 200 ratings, it's solid — but not perfect. Here's what you need to know before you click buy.

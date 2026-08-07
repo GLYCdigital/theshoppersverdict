@@ -1,4 +1,5 @@
 ---
+
 title: "ESR for iPad Air 11 Inch Case, iPad Air 5th/4th Gen(2022/202 inch"
 seo_title: "ESR iPad Air 11 Inch Case Review: 2022/2020 Models Tested"
 meta_description: "ESR iPad Air 11-inch case review for 5th/4th gen (2022/2020). Tested build quality, magnet strength, pencil support. Honest pros/cons from 229 ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTTG953K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WOTWM8qrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-fold front cover converts into two stable viewing angles plus a flat typing position, with strong magnets that hold the flap firmly in place"
   - "Precise cutouts for the iPad Air's speakers, buttons, and camera — no misaligned ports or mushy button coverage"
   - "Full coverage of the Apple Pencil 2 with a snug side slot that keeps it attached through drops"
-cons:
+cons: 
   - "Clear back panel shows fingerprints and smudges quickly — you'll be wiping it constantly"
   - "No sleep/wake function if you're coming from Apple's Smart Folio; the ESR relies on the iPad's own auto-lock"
   - "Front flap feels slightly thinner than premium leather options at the same price point"
+
 ---
 
 Let me save you some scrolling: if you're looking for a $20-ish case that actually protects a $600 tablet without adding a pound of bulk, the ESR for iPad Air 11 Inch is a legitimate contender. But it's not flawless, and I'll tell you exactly where it stumbles.

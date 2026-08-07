@@ -1,4 +1,5 @@
 ---
+
 title: "Amcrate Disposable Plastic Plates, 10.4 Inches Plastic Dinne"
 seo_title: "Amcrate Disposable Plastic Plates Review: Sturdy 10.4 inch  Dinner Plates"
 meta_description: "Honest Amcrate disposable plastic plates review: 10.4-inch dinner plates that handle hot food, heavy loads, and messy meals without bending or leaking."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C78JRNKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813lWhX+nhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely rigid 10.4-inch build that doesn't flex or droop under a loaded plate"
   - "Cut-resistant surface survives steak knives and fork scraping without gouging"
   - "Smooth, slightly textured rim provides a secure grip even with greasy fingers"
-cons:
+cons: 
   - "Not microwave-safe despite some online claims — check the packaging carefully"
   - "Single-use only; they'll crack if you try to wash and reuse them"
   - "White-only colorway, so no festive or themed options for parties"
+
 ---
 
 Let's be direct: most disposable plates are a compromise. You either get flimsy paper that soaks through with spaghetti sauce, or you get foam that bends the moment you pile on a burger and fries. The Amcrate 10.4-inch plastic dinner plates sit in a different category entirely — these are the ones you reach for when you want the convenience of disposables without the "paper plate experience."

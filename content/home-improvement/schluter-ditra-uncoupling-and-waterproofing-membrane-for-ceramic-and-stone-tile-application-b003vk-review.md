@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Ditra Uncoupling and Waterproofing Membrane for Cer"
 seo_title: "Schluter Ditra Uncoupling and Waterproofing Membra Review"
 meta_description: "Our full schluter ditra uncoupling and waterproofing membrane for cer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B003VKYKWA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XUtS6WigL._AC_SL1368_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to lay tile, and you've got a choice: cement board, plywood, or this orange plastic mat that costs more than both. Here's why the orange mat wins.

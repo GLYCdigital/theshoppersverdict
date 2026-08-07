@@ -1,4 +1,5 @@
 ---
+
 title: "Extra Support Anti Fatigue Comfort Mat for Standing Desks, W"
 seo_title: "Extra Support Anti Fatigue Mat Review: Worth It? (2026)"
 meta_description: "Read our honest Extra Support Anti Fatigue Comfort Mat review. We analyze durability, cushioning, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ9QL3S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XIMe5zSCL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Thick 3/4-inch cushioning layer that holds up under daily standing pressure without flattening"
   - "Waterproof, wipe-clean surface that actually resists kitchen spills and staining"
   - "Non-slip bottom grips tile, hardwood, and concrete without sliding or curling at edges"
-cons:
+cons: 
   - "Edge beveling is minimal — a hard toe catch could still trip someone wearing loose slippers"
   - "Not machine washable; deep-set stains require scrubbing, not just a quick wipe"
+
 ---
 
 # Extra Support Anti Fatigue Comfort Mat: The Kitchen Floor Upgrade Your Back Will Thank You For

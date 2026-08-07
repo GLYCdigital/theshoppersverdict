@@ -1,4 +1,5 @@
 ---
+
 title: "CANEST One Piece Toilet"
 seo_title: "CANEST One Piece Toilet Review: 4.4-Star Honest Look"
 meta_description: "CANEST One Piece Toilet review: 4.4-star rated. We tested comfort, flush power, and installation. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FSWLHM1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dGCkcySoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Powerful 1.28 GPF dual-flush system that handles solid waste with a single flush"
   - "Skirted one-piece design with no exposed trapway — far easier to keep clean than conventional toilets"
   - "Slow-close seat with quick-release hinges included — no aftermarket parts needed"
-cons:
+cons: 
   - "Heavy at roughly 90 pounds — definitely a two-person installation job"
   - "No wax ring or mounting bolts included in the box"
   - Relatively compact 16.5-inch bowl height may feel low for taller users (6'0 inch "+)
+
 ---
 
 A toilet isn't a glamorous purchase, but it's one you'll live with daily for the next decade. The CANEST One Piece Toilet has been sitting at a solid 4.4 stars across 220 Amazon ratings, and after digging into what buyers actually say, here's the real story — including where it shines and where you might want to look elsewhere.

@@ -1,17 +1,18 @@
 ---
+
 title: "Ninja 12-Cup Programmable Coffee Brewer, 2 Brew Styles, 60oz Reservoir"
 seo_title: "Ninja 12-Cup Programmable Coffee Brewer Review: Reliable Daily Driver (4.4★)"
 meta_description: "Ninja 12-Cup Programmable Coffee Brewer review. 4.4 stars from 28,700+ ratings. Classic brew, rich brew, delay brew, and a removable water tank. The workhorse coffee maker."
 slug: "ninja-12-cup-programmable-coffee-brewer-review"
 image_alt: "Ninja 12-Cup Programmable Coffee Brewer in black and stainless steel with glass carafe"
-keywords:
+keywords: 
   - "Ninja 12-Cup coffee maker review"
   - "Ninja programmable coffee brewer"
   - "best drip coffee maker"
   - "Ninja coffee maker 12 cup"
   - "Ninja classic brew rich brew"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "How long does the Ninja 12-Cup keep coffee hot?"
     answer: "The warming plate keeps coffee hot for up to 4 hours with adjustable temperature control. Most reviewers find the coffee stays at a drinkable temperature for 2-3 hours before starting to degrade."
   - question: "Does the Ninja 12-Cup brew hot coffee?"
@@ -26,19 +27,20 @@ review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+HcYgDo1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable water reservoir — fill at the sink, no need to move the whole machine"
   - "Two brew styles (Classic and Rich) for strength preference"
   - "Brews genuinely hot coffee — not lukewarm like some competitors"
   - "4-hour warming plate keeps coffee at temperature all morning"
   - "Delay brew feature for wake-up convenience"
   - "Easy to use, easy to clean, consistent results"
-cons:
+cons: 
   - "Delay brew button has been reported to fail after 1-2 years of use"
   - "Heavier than expected — not ideal if you need to move it frequently"
   - "Brews hot enough that you'll need to wait a few minutes before drinking"
   - "Rich brew setting adds time but the flavor difference is subtle"
   - "About $75 more than basic programmable brewers with similar features"
+
 ---
 
 Some products earn their reputation through hype. The Ninja 12-Cup Programmable Coffee Brewer earns its through repetition — thousands of reviewers, years of use, and a startling number of people who've bought it multiple times.

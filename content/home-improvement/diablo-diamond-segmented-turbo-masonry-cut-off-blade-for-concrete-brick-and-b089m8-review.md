@@ -1,4 +1,5 @@
 ---
+
 title: "Diablo Diamond Segmented Turbo Masonry Cut-Off Blade for Con"
 seo_title: "Diablo Diamond Segmented Turbo Masonry Blade Review (2026)"
 meta_description: "Diablo Diamond Segmented Turbo Cut-Off Blade review: real-world performance on concrete & brick, durability, and whether it beats cheaper diamond blades."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B089M82CKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oJmtZi3xL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cuts through rebar and hard aggregate without slowing or glazing — the turbo rim and diamond matrix handle mixed materials that stall cheaper blades"
   - "Noticeably less dust and vibration than abrasive wheels, with a cleaner cut edge that needs minimal chipping cleanup"
   - "Dry-cutting capability means no water setup needed for most jobs; the segmented rim runs cool even on 15-minute continuous cuts"
-cons:
+cons: 
   - "Premium price — roughly 2–3x a comparable abrasive wheel, so casual DIYers doing one small job may not justify the cost"
   - "Loud — the turbo segments produce a high-pitched whine that's noticeably sharper than standard abrasive blades"
   - "Not for metal — despite handling rebar incidentally, this is a masonry blade; don't expect it to replace a metal cut-off disc"
+
 ---
 
 **The Short Version:** If you cut concrete, brick, or block more than once a month, this Diablo blade will pay for itself in time saved and fewer ruined discs. It's not the cheapest option — but it's the one professionals reach for when the first abrasive wheel bites the dust.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aelga Olive Oil Dispenser Set"
 seo_title: "Aelga Olive Oil Dispenser Set Review: Worth It? (2026)"
 meta_description: "Aelga Olive Oil Dispenser Set review: 4.2-star rated. We test pour control, drips, and glass quality. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GCD2B68Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5176jtMU5PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty borosilicate glass resists thermal shock — safe for hot oil without cracking"
   - "Precision pour spouts with air vents deliver a thin, controlled stream — no glugging or oil explosions"
   - "Set includes both a 17oz and 8.5oz bottle, covering everyday cooking and finishing drizzle needs"
-cons:
+cons: 
   - "Spouts lack a locking lid — if knocked over, oil will pour out freely"
   - "The brushed stainless base and cap show fingerprints quickly; requires regular wiping"
+
 ---
 
 The Aelga Olive Oil Dispenser Set isn't trying to reinvent the kitchen. It's just trying to fix the single most annoying thing about cooking with oil: the messy, gluggy pour from a store-bought bottle that drips down the side and pools on your counter.

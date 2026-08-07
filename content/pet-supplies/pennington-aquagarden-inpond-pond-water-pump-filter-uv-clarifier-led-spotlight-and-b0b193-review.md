@@ -1,4 +1,5 @@
 ---
+
 title: "Pennington Aquagarden, Inpond, Pond & Water Pump, Filter, UV"
 seo_title: "Pennington Aquagarden, Inpond, Pond & Water Pump,  Review"
 meta_description: "Our full pennington aquagarden, inpond, pond & water pump, filter, uv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B193QMSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LflHk1TGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a small backyard pond that's turned into pea soup, the **Pennington Aquagarden Inpond** is one of those rare all-in-one solutions that actually does what it says. It's not a powerhouse, and it won't fix a 2,000-gallon koi pond, but for a decorative water feature or modest fish pond under 500 gallons, this pump-filter-UV combo is a solid, space-saving pick. Here's the real story after digging through 210 ratings and the spec sheet.

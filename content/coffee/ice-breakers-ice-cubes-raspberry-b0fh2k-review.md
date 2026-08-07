@@ -1,4 +1,5 @@
 ---
+
 title: "ICE BREAKERS Ice Cubes Raspberry"
 seo_title: "ICE BREAKERS Ice Cubes Raspberry Review: Verdict | TSV"
 meta_description: "Our full ice breakers ice cubes raspberry review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FH2KZRVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811HR0GZxkL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: this isn't coffee gear. But if you're someone who chews gum to survive afternoon slumps or keep your mouth busy between espresso shots, ICE BREAKERS Ice Cubes Raspberry deserves a spot on your desk. With a 4.6-star average across 229 Amazon ratings, it's clearly doing something right — but is it right for *you*? Let's break it down.

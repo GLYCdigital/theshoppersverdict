@@ -1,4 +1,5 @@
 ---
+
 title: "4681EA2001T Washer Drain Pump Assembly Fit for Kenmore/LG Wa"
 seo_title: "4681EA2001T Washer Drain Pump Review: LG/Kenmore Fix"
 meta_description: "Is the 4681EA2001T washer drain pump the right fix for your LG/Kenmore? We tested fit, noise, and durability. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07XP2J7MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AkZpbj5WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct OEM-equivalent fit for LG/Kenmore models using the 4681EA2001T pump — no adapter or modification needed"
   - "Quieter than the original pump for many buyers, with a sealed motor housing that reduces vibration noise"
   - "Includes the full assembly (pump, motor, and drain hose connector) so you replace the whole failure point at once"
-cons:
+cons: 
   - "No mounting bracket included — you must reuse the one from your old pump, which may be brittle after years of heat"
   - "Some units arrive with the impeller slightly stiff; needs a few cycles to loosen up before full drainage speed"
+
 ---
 
 A washer that won't drain turns a simple laundry day into a flood threat. If your LG or Kenmore is humming but not pumping, this 4681EA2001T drain pump assembly is likely the exact part you need. With 225 ratings averaging 4.5 stars, it's one of the most-tested aftermarket replacements for this common failure point. Here's what you actually need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Giraffe Tools Grandfalls Pressure Washer, Electric Wall Moun"
 seo_title: "Giraffe Tools Grandfalls Pressure Washer Review (2026) | Wall-Mount"
 meta_description: "Giraffe Tools Grandfalls electric wall-mount pressure washer review: retractable hose, 1800 PSI, real-world performance, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GRTXYQ6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CcDdLF-OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Wall-mounted design with 33-foot retractable hose eliminates dragging and coiling — genuinely saves setup time"
   - "1800 PSI max with 1.2 GPM is adequate for cars, patios, and siding without the bulk of a gas unit"
   - "Built-in 10-inch wheels and integrated hose reel make storage and mobility notably easier than portable electrics"
-cons:
+cons: 
   - "Installation requires drilling and wall anchoring — renters or those with thin siding will need to plan carefully"
   - "The 35-foot power cord limits reach; you'll need a nearby outlet or a heavy-duty extension cord"
   - "Plastic trigger gun and wand feel less durable than the metal components on pricier units"
+
 ---
 
 **Bottom line up front:** The Giraffe Tools Grandfalls is the rare pressure washer that respects your garage space and your patience. It's not the most powerful electric unit on the market — 1800 PSI won't strip paint like a gas behemoth — but it's engineered around convenience in ways portable units simply aren't. With 204 ratings hovering at 4.1 stars, the consensus is clear: this is a smart buy for homeowners who wash more than once a year but don't want a machine taking up floor space.

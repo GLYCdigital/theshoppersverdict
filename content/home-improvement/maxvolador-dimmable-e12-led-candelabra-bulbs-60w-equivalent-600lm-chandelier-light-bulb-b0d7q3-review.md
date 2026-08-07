@@ -1,4 +1,5 @@
 ---
+
 title: "MAXvolador Dimmable E12 LED Candelabra Bulbs 60W Equivalent,"
 seo_title: "MAXvolador Dimmable E12 LED Candelabra Bulbs 60W E Review"
 meta_description: "Our full maxvolador dimmable e12 led candelabra bulbs 60w equivalent, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7Q3LZD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VKw80fPuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $12 Bulb That Makes Your Chandelier Look $1,200**

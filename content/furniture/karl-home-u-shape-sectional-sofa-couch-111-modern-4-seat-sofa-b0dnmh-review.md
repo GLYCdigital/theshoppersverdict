@@ -1,7 +1,8 @@
 ---
-title: "Karl home U-Shape Sectional Sofa Couch 111\" Modern 4-Seat So"
-seo_title: "Karl home U-Shape Sectional Sofa Couch 111\" Modern Review"
-meta_description: "Our full karl home u-shape sectional sofa couch 111\" modern 4-seat so review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Karl home U-Shape Sectional Sofa Couch 111\ Modern 4-Seat So"
+seo_title: "Karl home U-Shape Sectional Sofa Couch 111\ Modern Review"
+meta_description: "Our full karl home u-shape sectional sofa couch 111\ modern 4-seat so review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "karl-home-u-shape-sectional-sofa-couch-111-modern-4-seat-sofa-b0dnmh-review"
 image_alt: "Karl home U-Shape Sectional Sofa Couch 111 Modern 4-Seat Sofa with Chaises Chenille Fabric Upholstered Covertible Couch "
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DNMHH81D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aBN3JxQyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: A genuinely spacious U-shaped sectional that nails the modern farmhouse look at a mid-range price — but the loose back cushions and assembly quirks keep it from being a slam dunk.**

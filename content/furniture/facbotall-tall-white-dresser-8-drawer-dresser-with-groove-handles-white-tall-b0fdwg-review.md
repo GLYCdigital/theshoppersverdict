@@ -1,4 +1,5 @@
 ---
+
 title: "FACBOTALL Tall White Dresser, 8 Drawer Dresser with Groove H"
 seo_title: "FACBOTALL Tall White Dresser Review: 8 Drawers for Tight Spaces"
 meta_description: "FACBOTALL tall white dresser review: 8 drawers, groove handles, compact footprint. Real pros, cons, and who should buy this Amazon bestseller."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FDWGG3CD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VBgb4+6rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Vertical 8-drawer layout stores a full wardrobe in a 15.7 inch " x 13.4 inch " footprint — ideal for apartments
   - "Groove handles are routed into the drawer fronts — nothing to snag clothes on or tighten later"
   - "Solid particleboard construction with a clean white laminate that resists yellowing"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes; drawer slides need precise alignment or they stick"
   - "No anti-tip wall anchor included — you must supply your own for safety with kids"
   - Top drawers are shallow (4.7 inch " deep) — bulky sweaters fit better in the bottom three
+
 ---
 
 **FACBOTALL Tall White Dresser Review: 8 Drawers, 4 Square Feet of Floor Space**

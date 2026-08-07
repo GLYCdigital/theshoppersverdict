@@ -1,4 +1,5 @@
 ---
+
 title: "Luckerain Pond Aerator Pond Air Pump Koi Pond Pump,for up to"
 seo_title: "Luckerain Pond Aerator Pond Air Pump Koi Pond Pump Review"
 meta_description: "Our full luckerain pond aerator pond air pump koi pond pump,for up to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D77RSYXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71stYTQNdFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're keeping koi, you already know the stakes: oxygen levels drop, fish gasp at the surface, and algae blooms take over. The Luckerain Pond Aerator is a budget-friendly attempt to solve that problem without the $200+ price tag of commercial units. After digging through 220 ratings and the specs, here's the real story.

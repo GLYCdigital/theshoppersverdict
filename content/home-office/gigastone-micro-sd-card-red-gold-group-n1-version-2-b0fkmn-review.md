@@ -1,4 +1,5 @@
 ---
+
 title: "GIGASTONE Micro sd Card Red Gold Group N1 Version 2"
 seo_title: "GIGASTONE Micro sd Card Red Gold Group N1 Version  Review"
 meta_description: "Our full gigastone micro sd card red gold group n1 version 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKMN28DL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g7uhcm5pL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The GIGASTONE Red Gold Group N1 Version 2 is a micro SD card that has quietly earned a 4.6/5 from 229 Amazon shoppers. I've tested dozens of cards in this class, and here's what actually matters.

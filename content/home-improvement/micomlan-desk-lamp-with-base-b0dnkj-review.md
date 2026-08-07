@@ -1,4 +1,5 @@
 ---
+
 title: "Micomlan Desk Lamp with Base"
 seo_title: "Micomlan Desk Lamp with Base Review: Verdict | TSV"
 meta_description: "Our full micomlan desk lamp with base review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNKJFX5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yj5DmQL7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 desk lamp that doesn't feel like a compromise

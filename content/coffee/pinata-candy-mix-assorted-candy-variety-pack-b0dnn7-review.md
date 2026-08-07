@@ -1,4 +1,5 @@
 ---
+
 title: "Pinata Candy Mix- Assorted Candy Variety Pack"
 seo_title: "Pinata Candy Mix- Assorted Candy Variety Pack Review: Ver"
 meta_description: "Our full pinata candy mix- assorted candy variety pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DNN7W8FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91GOMOAprgL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Pinata Candy Mix a sweet win or a sticky mess?** With 185 ratings averaging 3.7 stars, this assorted candy bag has its fans — but it also has real flaws. Let's cut through the sugar coating and see if it's worth your money.

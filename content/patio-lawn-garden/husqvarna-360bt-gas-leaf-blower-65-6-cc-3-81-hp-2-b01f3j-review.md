@@ -1,4 +1,5 @@
 ---
+
 title: "Husqvarna 360BT Gas Leaf Blower, 65.6-cc 3.81-HP 2-Cycle Bac"
 seo_title: "Husqvarna 360BT Gas Leaf Blower, 65.6-cc 3.81-HP 2 Review"
 meta_description: "Our full husqvarna 360bt gas leaf blower, 65.6-cc 3.81-hp 2-cycle bac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01F3J94V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q1AC4TinL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Husqvarna 360BT isn't a toy. At 65.6cc with a claimed 3.81 horsepower, this is a commercial-adjacent tool that will clear a half-acre of oak leaves in under an hour. The question isn't whether it moves air — it does, at 232 mph with 910 CFM. The question is whether your back, your neighbors, and your fuel budget can handle the tradeoffs. After digging through 229 verified buyer ratings at 4.6 stars, here's the real story.

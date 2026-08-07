@@ -1,4 +1,5 @@
 ---
+
 title: "Bosceos Table Lamps Set of 2 with USB Charging Ports, Bedsid"
 seo_title: "Bosceos Table Lamps Set of 2 Review: USB Ports & Style"
 meta_description: "Bosceos table lamps set of 2 review: USB charging ports, bedside design, 4.6/5 rating. See pros, cons, and real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXWK3R8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xR9U4JSHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual USB-A ports built into each lamp base — no bulky adapter needed on your nightstand"
   - "Fabric drum shades diffuse light evenly without harsh glare, ideal for reading"
   - "Set of two with identical match — rare at this price point, no hunting for a second lamp"
-cons:
+cons: 
   - "USB ports provide charging only, not data transfer — don't expect smart-device sync"
   - "No dimmer or brightness control — you get one light level, on or off"
   - "Cord length is standard 5 feet, may be short for larger bedrooms or tall nightstands"
+
 ---
 
 **Two lamps, two USB ports, zero clutter — but is this bedside staple worth your money?**

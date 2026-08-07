@@ -1,4 +1,5 @@
 ---
+
 title: "Molton Brown Coastal Cypress & Sea Fennel Fine Liquid Hand W"
 seo_title: "Molton Brown Coastal Cypress & Sea Fennel Fine Liq Review"
 meta_description: "Our full molton brown coastal cypress & sea fennel fine liquid hand w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVNKZHWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ywHye0KZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Molton Brown Coastal Cypress & Sea Fennel Hand Wash Review: Is This $30 Luxury Worth It?

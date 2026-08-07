@@ -1,4 +1,5 @@
 ---
+
 title: "Genkins GPW3200 Gas Powered Foldable Pressure Washer 3200 PS"
 seo_title: "Genkins GPW3200 Review: 3200 PSI Foldable Gas Washer"
 meta_description: "Honest Genkins GPW3200 review: 3200 PSI gas pressure washer with foldable handle. Build quality, real-world cleaning power, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B3PPJ5JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eAKeJJY4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3200 PSI output that strips caked-on grime from concrete and driveways without pre-treatment"
   - "Foldable handle and compact footprint make it garage-friendly — stores in roughly half the floor space of fixed-frame units"
   - "Honda-compatible GX160 engine clone with easy-access oil drain and air filter for simple maintenance"
-cons:
+cons: 
   - "Wheels are small and plastic — maneuvering over gravel or uneven lawn edges is a two-hand struggle"
   - "Assembly instructions are sparse; the included manual reads like a translation from another language"
   - "No onboard detergent tank — you'll need to buy a siphon hose kit separately if you want soap"
+
 ---
 
 # Genkins GPW3200 Review: A 3200 PSI Workhorse That's Honest About Its Flaws

@@ -1,4 +1,5 @@
 ---
+
 title: "AMD Ryzen 5 5600 6-Core, 12-Thread Unlocked Desktop Processo"
 seo_title: "AMD Ryzen 5 5600 Review: Best Budget CPU for Work? (2026)"
 meta_description: "Read our honest AMD Ryzen 5 5600 review. Is this 6-core unlocked processor still worth it for office builds in 2026? Performance, value, and downsides covered."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BGJGW69N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51So7GoGvxL._AC_SL1384_.jpg"
-pros:
+pros: 
   - "Sips power at 65W TDP — cheaper to run and easier to cool than Intel alternatives"
   - "Unlocked multiplier means free performance gains with a $30 cooler"
   - "12 threads handle spreadsheet-heavy workflows and 50+ browser tabs without breaking a sweat"
-cons:
+cons: 
   - "No integrated graphics — you must buy a separate GPU, adding $100+ to any build"
   - "Lacks PCIe 4.0 support; newer drives and GPUs run at reduced bandwidth"
+
 ---
 
 Let’s cut through the noise. The AMD Ryzen 5 5600 is the processor that refuses to die — and for good reason. It’s a 6-core, 12-thread Zen 3 chip that launched in 2022, and in 2026 it still holds its own in the budget CPU conversation. With a 4.8-star average across 240 Amazon ratings, buyers are clearly happy. But is it the right choice for your workspace build? Here’s the honest breakdown.

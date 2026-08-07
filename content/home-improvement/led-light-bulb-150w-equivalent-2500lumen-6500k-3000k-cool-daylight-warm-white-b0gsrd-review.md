@@ -1,4 +1,5 @@
 ---
+
 title: "LED Light Bulb 150W Equivalent 2500Lumen 6500K/3000K Cool Da"
 seo_title: "LED Light Bulb 150W Equivalent 2500Lumen 6500K/300 Review"
 meta_description: "Our full led light bulb 150w equivalent 2500lumen 6500k/3000k cool da review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSRDDRL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NOKlP1WhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some LED bulbs lie about their brightness. This one doesn't. The LED Light Bulb 150W Equivalent from the B0GSRDDRL2 listing delivers a genuine 2500 lumens from just 22 watts, which puts it squarely in the "actually does what it says" category. That's rare enough at this price point to warrant a closer look.

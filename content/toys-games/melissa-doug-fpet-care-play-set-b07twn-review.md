@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug FPet Care Play Set"
 seo_title: "Melissa & Doug FPet Care Play Set Review: Verdict | TSV"
 meta_description: "Our full melissa & doug fpet care play set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07TWN41KX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DUn4lvVkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Melissa & Doug FPet Care Play Set"
 seo_title: "Melissa & Doug FPet Care Play Set Review (2026): Worth It?"

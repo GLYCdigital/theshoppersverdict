@@ -1,4 +1,5 @@
 ---
+
 title: "Amyhill 24 Pcs Reusable Cups with Lids and Straws 24 oz Glit"
 seo_title: "Amyhill 24 oz Reusable Cups Review: 24-Piece Party Set"
 meta_description: "Honest Amyhill 24 oz reusable cups with lids and straws review. 24-piece glitter tumbler set rated 4.7/5. Read pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMQQZ29W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rfq5CW3EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 24 oz capacity with flat, stable base — fits standard cup holders without spilling"
   - "Lids seal tightly enough to survive a tipped-over cup in a tote bag, per multiple owner reports"
   - "Dishwasher-safe plastic holds up after repeated cycles without clouding or cracking"
-cons:
+cons: 
   - "Straws are rigid plastic and shorter than the cup height — you'll sip from the last inch or bend awkwardly"
   - "Glitter is embedded in the wall, not floating — looks muted in low light, not the sparkle-party effect some expect"
   - "No insulation whatsoever — this is a cold-drink cup, not a tumbler that keeps ice for hours"
+
 ---
 
 **Skip this if you want insulated drinkware. Buy it if you host parties, run a household with kids, or just want 24 matching cups that won't shatter on the patio.**

@@ -1,4 +1,5 @@
 ---
+
 title: "SHADEWIZ 282828 Custom Sun Shade Sail Canopy Awning for Pati"
 seo_title: "SHADEWIZ 282828 Custom Sun Shade Sail Canopy Awnin Review"
 meta_description: "Our full shadewiz 282828 custom sun shade sail canopy awning for pati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2HK6DN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IkmR1I0kL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most sun shade sails under $50 are glorified tarps that sag, fray, or fade within one season. The SHADEWIZ 282828 isn't that — but it also isn't a plug-and-play solution. Here's what 225 buyers (averaging 4.5 stars) actually discovered after installation.

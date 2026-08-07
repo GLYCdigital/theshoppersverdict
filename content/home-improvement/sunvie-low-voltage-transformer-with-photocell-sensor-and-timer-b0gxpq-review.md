@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE Low Voltage Transformer with Photocell Sensor and Tim"
 seo_title: "SUNVIE Low Voltage Transformer with Photocell Sens Review"
 meta_description: "Our full sunvie low voltage transformer with photocell sensor and tim review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXPQZHXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710eEqYWI9L._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re tired of flipping landscape lights on and off by hand, the SUNVIE low voltage transformer promises to end that ritual. It combines a photocell sensor with a programmable timer in one unit, which sounds simple — but in practice, this 4.4-star rated box (220+ reviews) has some nuance worth understanding before you hand over cash.

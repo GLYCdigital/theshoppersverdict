@@ -1,4 +1,5 @@
 ---
+
 title: "IDEQUY Rings Crystal Chandeliers Lighting and Hanging Ring A"
 seo_title: "IDEQUY Rings Crystal Chandeliers Lighting and Hang Review"
 meta_description: "Our full idequy rings crystal chandeliers lighting and hanging ring a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CL4GD1W6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CuEMjwppL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # IDEQUY Rings Crystal Chandeliers Lighting and Hanging Ring A: The Ceiling Mount You'll Forget About (In a Good Way)

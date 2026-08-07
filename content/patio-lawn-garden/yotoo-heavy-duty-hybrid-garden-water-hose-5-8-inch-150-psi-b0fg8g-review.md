@@ -1,4 +1,5 @@
 ---
+
 title: "YOTOO Heavy Duty Hybrid Garden Water Hose 5/8-Inch 150 PSI K"
 seo_title: "YOTOO Heavy Duty Hybrid Garden Water Hose 5/8-Inch Review"
 meta_description: "Our full yotoo heavy duty hybrid garden water hose 5/8-inch 150 psi k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FG8G7KTV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YDSy8dmbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **YOTOO Heavy Duty Hybrid Garden Hose 5/8-Inch 150 PSI Review: The Middleweight That Punches Hard**

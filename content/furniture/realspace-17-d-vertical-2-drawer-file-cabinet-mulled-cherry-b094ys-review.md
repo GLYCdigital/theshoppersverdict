@@ -1,7 +1,8 @@
 ---
-title: "RealspaceÂ® 17\" D Vertical 2-Drawer File Cabinet, Mulled Che"
-seo_title: "RealspaceÂ® 17\" D Vertical 2-Drawer File Cabinet,  Review"
-meta_description: "Our full realspaceâ® 17\" d vertical 2-drawer file cabinet, mulled che review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "RealspaceÂ® 17\ D Vertical 2-Drawer File Cabinet, Mulled Che"
+seo_title: "RealspaceÂ® 17\ D Vertical 2-Drawer File Cabinet,  Review"
+meta_description: "Our full realspaceâ® 17\ d vertical 2-drawer file cabinet, mulled che review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "realspace-17-d-vertical-2-drawer-file-cabinet-mulled-cherry-b094ys-review"
 image_alt: "RealspaceÂ® 17 D Vertical 2-Drawer File Cabinet, Mulled Cherry"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B094YS5K81/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B20IxqeQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The vertical file cabinet is the least glamorous piece of furniture in any home office. It's a box with drawers. So when the Realspace 17" D Vertical 2-Drawer File Cabinet in Mulled Cherry shows up with a 4.3-star average across 215 ratings, the question isn't whether it's exciting — it's whether it does the job without making you regret the purchase. After digging through the feedback and the specs, here's the honest breakdown.

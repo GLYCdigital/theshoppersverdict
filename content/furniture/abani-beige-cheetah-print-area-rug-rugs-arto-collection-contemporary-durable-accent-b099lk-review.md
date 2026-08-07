@@ -1,4 +1,5 @@
 ---
+
 title: "Abani Beige Cheetah Print Area Rug Rugs, Arto Collection - C"
 seo_title: "Abani Beige Cheetah Print Rug Review: Arto Collection"
 meta_description: "Honest Abani Beige Cheetah Print Area Rug review: durability, shedding, cleaning, and style. Is the Arto Collection worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B099LKGV4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91x-d0EvGVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-woven polypropylene holds up to high-traffic areas without crushing or matting"
   - "The beige/cream base with subtle cheetah spots reads as neutral decor, not kitschy animal print"
   - "Low 0.3-inch pile works with door clearances and robot vacuums without jamming"
-cons:
+cons: 
   - "Synthetic fibers can generate static shock in dry winter months, especially in low-humidity homes"
   - "Initial chemical odor out of the box — needs 24-48 hours of airing before it's livable"
+
 ---
 
 Let's be blunt: most animal-print rugs look like they belong in a college dorm or a bad 90s sitcom. The Abani Beige Cheetah Print from the Arto Collection is not that rug. At first glance, the pattern reads as a subtle, abstract texture rather than a literal safari theme. The beige base is warm without being yellow, and the darker spots are spaced irregularly enough to feel organic — like a watercolor interpretation rather than a photocopy of a cheetah.

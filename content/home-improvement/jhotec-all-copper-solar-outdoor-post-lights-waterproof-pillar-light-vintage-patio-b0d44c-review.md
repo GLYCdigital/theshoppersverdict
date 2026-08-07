@@ -1,4 +1,5 @@
 ---
+
 title: "JHOTEC All Copper Solar Outdoor Post Lights, Waterproof Pill"
 seo_title: "JHOTEC All Copper Solar Outdoor Post Lights, Water Review"
 meta_description: "Our full jhotec all copper solar outdoor post lights, waterproof pill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0D44C3D1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xS09bwZ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

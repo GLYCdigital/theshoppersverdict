@@ -1,4 +1,5 @@
 ---
+
 title: "PRIME HYDRATION Duo - ICE POP"
 seo_title: "PRIME HYDRATION Duo - ICE POP Review: Verdict | TSV"
 meta_description: "Our full prime hydration duo - ice pop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GC5MN7QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hTA7dWELL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # PRIME HYDRATION Duo - ICE POP: The Viral Hydration Mix That Actually Earns Its Hype

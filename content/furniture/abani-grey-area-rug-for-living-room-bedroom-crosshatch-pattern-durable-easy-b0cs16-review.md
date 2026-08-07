@@ -1,4 +1,5 @@
 ---
+
 title: "Abani Grey Area Rug for Living Room, Bedroom - Crosshatch Pa"
 seo_title: "Abani Grey Area Rug Review: Durable Crosshatch Design for Living Rooms"
 meta_description: "Honest Abani Grey Area Rug review: crosshatch pattern, low-pile durability, and real buyer feedback. See if this 4.5-star rug fits your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CS16H3C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916QMI204zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Low-pile crosshatch weave hides footprints and vacuum marks remarkably well"
   - "True-to-photo grey tone with subtle texture that anchors a room without overpowering it"
   - "Substantial weight and non-slip backing even without a separate rug pad"
-cons:
+cons: 
   - "Initial chemical smell takes several days to fully dissipate — plan ahead"
   - "Not plush underfoot; this is a practical flat-weave, not a sink-your-toes-in rug"
+
 ---
 
 # Abani Grey Area Rug Review: The Crosshatch Workhorse Your Living Room Needs

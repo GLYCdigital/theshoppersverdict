@@ -1,23 +1,25 @@
 ---
+
 title: "Collapsible Wagon with Wheels, Foldable Wagon Cart with Flex"
 seo_title: "Collapsible Wagon with Wheels Review: Foldable Cart with Flex Handle"
 meta_description: "Honest review of the Collapsible Wagon with Wheels — foldable cart, flexible handle, 4.5-star rating. Is it worth it for garden and patio hauling? Find out."
 slug: "collapsible-wagon-with-wheels-foldable-wagon-cart-with-flexible-handle-folding-utility-b0gkdv-review"
 image_alt: "Collapsible wagon with wheels fully assembled, showing foldable frame and flexible handle on a patio"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKDVHG28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GURTRW+yL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Flex handle pivots 180 degrees, so you can pull from either side without flipping the wagon"  
   - "One-hand fold mechanism collapses flat in seconds — fits in most trunks without disassembly"  
   - "600D Oxford cloth bed holds up to 150 lbs with a rigid bottom insert that prevents sagging"  
-cons:  
+cons: 
   - "Wheels are solid rubber, not pneumatic — rough terrain will rattle your cargo"  
   - "No brake or locking mechanism on the handle, so it rolls on slopes if you set it down"
+
 ---
 
 If you’ve ever wrestled a wobbly garden cart through a muddy backyard or tried to haul a cooler, chairs, and a tent in one trip, you know the pain this wagon is designed to kill. The Collapsible Wagon with Wheels (the “Flex” in the name refers to its pivot-hinge handle) has earned a 4.5-star average across 225 ratings—and after digging into what owners actually say, the praise is mostly earned. But it’s not perfect, and you need to know where it cuts corners.

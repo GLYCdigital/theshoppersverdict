@@ -1,4 +1,5 @@
 ---
+
 title: "Poweka Pet Door Replacement Flaps for Dog and Cat, Doggie Re"
 seo_title: "Poweka Pet Door Replacement Flaps for Dog and Cat, Review"
 meta_description: "Our full poweka pet door replacement flaps for dog and cat, doggie re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DW32RSGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51175vkJgdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your pet door flap has turned into a stiff, cracked, draft-letting slab of plastic, you don't need a whole new door. You need a replacement flap — and the Poweka Pet Door Replacement Flaps are the kind of product that makes you wonder why you didn't swap it out months ago.

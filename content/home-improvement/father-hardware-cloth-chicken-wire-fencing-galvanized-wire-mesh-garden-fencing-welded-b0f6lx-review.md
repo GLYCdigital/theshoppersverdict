@@ -1,4 +1,5 @@
 ---
+
 title: "Father Hardware Cloth - Chicken Wire Fencing, Galvanized Wir"
 seo_title: "Father Hardware Cloth Review: Galvanized Chicken Wire Fencing"
 meta_description: "Honest Father Hardware Cloth review: galvanized welded wire mesh for gardens, coops & DIY. Durability, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6LXDW4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fmpjY+InL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Welded galvanized construction holds shape without sagging or shifting, unlike flimsy twisted chicken wire"
   - "Cuts cleanly with tin snips with minimal edge curl — reviewers note it doesn't unravel like cheaper mesh"
   - "Consistent 1-inch square openings keep chicks in and determined critters out"
-cons:
+cons: 
   - "Roll edges can have sharp points after cutting — gloves are non-negotiable"
   - "Some buyers report the zinc coating is thinner than premium brands, so outdoor lifespan depends on climate"
+
 ---
 
 Let's be direct: most wire fencing sold on Amazon is flimsy, unravels the moment you unroll it, and bends like wet cardboard. The Father Hardware Cloth is not that product. With a 4.6 average across 229 ratings, this welded galvanized mesh is earning its place in coops, gardens, and DIY projects — but it's not without quirks.

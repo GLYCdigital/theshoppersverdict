@@ -1,4 +1,5 @@
 ---
+
 title: "SMEG Variable Temperature Electric Kettle 1.7L (7 Cup), Stai"
 seo_title: "SMEG Variable Temperature Electric Kettle 1.7L (7  Review"
 meta_description: "Our full smeg variable temperature electric kettle 1.7l (7 cup), stai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7N74N14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MYc3EppzL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some people buy a kettle to boil water. Others buy one because it's the centerpiece of their countertop. The SMEG Variable Temperature Electric Kettle sits at the intersection of both — a retro-styled appliance that costs as much as a small espresso machine. Is it a genuine upgrade for tea and coffee drinkers, or just a $180 status symbol? I spent three weeks testing one to find out.

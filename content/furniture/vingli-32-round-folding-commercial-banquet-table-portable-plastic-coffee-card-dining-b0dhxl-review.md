@@ -1,7 +1,8 @@
 ---
-title: "VINGLI 32\" Round Folding Commercial Banquet Table, Portable "
-seo_title: "VINGLI 32\" Round Folding Commercial Banquet Table, Review"
-meta_description: "Our full vingli 32\" round folding commercial banquet table, portable  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "VINGLI 32\ Round Folding Commercial Banquet Table, Portable "
+seo_title: "VINGLI 32\ Round Folding Commercial Banquet Table, Review"
+meta_description: "Our full vingli 32\ round folding commercial banquet table, portable  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "vingli-32-round-folding-commercial-banquet-table-portable-plastic-coffee-card-dining-b0dhxl-review"
 image_alt: "VINGLI 32 Round Folding Commercial Banquet Table, Portable Plastic Coffee Card Dining Table for Kitchen or Outdoor Party"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHXLDSB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BkFiRyM6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A small table that punches above its weight class

@@ -1,23 +1,25 @@
 ---
+
 title: "FeetUp - The Original Yoga Headstand Bench, Vegan Handstand"
 seo_title: "FeetUp Headstand Bench Review: Worth It? (2026)"
 meta_description: "FeetUp yoga headstand bench review: build quality, real user feedback, and who should buy. See pros, cons, and verdict before you spend."
 slug: "feetup-the-original-yoga-headstand-bench-vegan-handstand-trainer-bench-and-stand-b07n1w-review"
 image_alt: "FeetUp yoga headstand bench with user in supported inversion position"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07N1WNDC9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LCHAB+pgL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Solid beechwood frame rated to 660 lbs — feels like furniture, not a flimsy prop"  
   - "Two-piece foldable design stores flat and assembles in under 30 seconds"  
   - "Vegan leather padding is dense, grippy, and easy to wipe clean"  
-cons:  
+cons: 
   - "No height adjustment — taller users (over 6'1 inch) may find the 17.5 inch platform too low"  
   - "Price is steep versus basic headstand blocks, though the build justifies it"
+
 ---
 
 **Opening Hook**  

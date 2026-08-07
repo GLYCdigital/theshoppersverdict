@@ -1,4 +1,5 @@
 ---
+
 title: "Anova Culinary Sous Vide Precision Cooker 3.0 (WiFi), 1100 W"
 seo_title: "Anova Sous Vide Precision Cooker 3.0 Review: WiFi, 1100W"
 meta_description: "Anova Sous Vide Precision Cooker 3.0 WiFi review: 1100W power, app control, accuracy tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FD91GV6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ufN4G1TeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1100W heating element brings water to temp roughly 30% faster than 800W models"
   - "WiFi connectivity actually works reliably — app control from another room is consistent"
   - "Clamp mechanism grips 3-inch-thick pot walls without slipping or scratching"
-cons:
+cons: 
   - "No built-in water level sensor — you'll get an error if water runs low, but it won't shut off automatically"
   - "App requires account creation; offline mode is clunky and limited"
+
 ---
 
 Let's be direct: the Anova 3.0 isn't the cheapest sous vide circulator, and it's not the most powerful either. But after 225 Amazon ratings averaging 4.5 stars, there's a reason this one keeps showing up in "best sous vide" conversations. Here's the real story.

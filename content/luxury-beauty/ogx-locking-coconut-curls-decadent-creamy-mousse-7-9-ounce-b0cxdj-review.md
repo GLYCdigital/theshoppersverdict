@@ -1,4 +1,5 @@
 ---
+
 title: "OGX Locking + Coconut Curls Decadent Creamy Mousse, 7.9 Ounc"
 seo_title: "OGX Locking + Coconut Curls Decadent Creamy Mousse Review"
 meta_description: "Our full ogx locking + coconut curls decadent creamy mousse, 7.9 ounc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXDJ41CJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GuP7uPjrL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Curly hair products are a gamble. You either get rock-hard crunch or a frizzy mess by noon. The OGX Locking + Coconut Curls Decadent Creamy Mousse sits somewhere in that frustrating middle — but leans closer to the win column than most.

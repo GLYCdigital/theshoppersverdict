@@ -1,7 +1,8 @@
 ---
-title: "Gorilla Supply 2-1/4\" Thermal Paper Rolls 50ft 63ft 85ft"
-seo_title: "Gorilla Supply 2-1/4\" Thermal Paper Rolls 50ft 63f Review"
-meta_description: "Our full gorilla supply 2-1/4\" thermal paper rolls 50ft 63ft 85ft review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Gorilla Supply 2-1/4\ Thermal Paper Rolls 50ft 63ft 85ft"
+seo_title: "Gorilla Supply 2-1/4\ Thermal Paper Rolls 50ft 63f Review"
+meta_description: "Our full gorilla supply 2-1/4\ thermal paper rolls 50ft 63ft 85ft review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gorilla-supply-2-1-4-thermal-paper-rolls-50ft-63ft-85ft-b082j3-review"
 image_alt: "Gorilla Supply 2-1/4 Thermal Paper Rolls 50ft 63ft 85ft"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B082J3KLHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RvQhI+XPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Thermal paper is the most boring purchase your business will ever make — until the roll jams mid-transaction, the print fades to ghostly gray, or the paper tears at the perforation and you're left holding a receipt your customer can't read. I've tested dozens of rolls across cheap generic brands and premium OEM paper. Gorilla Supply's 2-1/4" thermal rolls sit squarely in the "buy with confidence" tier, with a few quirks worth knowing before you checkout.

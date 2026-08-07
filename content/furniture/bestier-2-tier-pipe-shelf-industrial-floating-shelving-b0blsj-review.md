@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier 2 Tier Pipe Shelf Industrial Floating Shelving"
 seo_title: "Bestier 2 Tier Pipe Shelf Review: Industrial Storage (2026)"
 meta_description: "Bestier 2 Tier Pipe Shelf review: sturdy industrial floating shelving with real wood. See pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLSJX46K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ygq3ELD6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid 0.6-inch thick particleboard with wood-grain laminate resists sagging under heavy loads"
   - "Genuine 1-inch diameter steel pipes with matte black finish — not flimsy plastic or hollow tubes"
   - "Wall-mount design frees up floor space while the 2-tier layout holds roughly 50 lbs per shelf"
-cons:
+cons: 
   - "Hardware included is basic; drywall anchors are fine for light use but you'll want better anchors for heavy books"
   - "Assembly requires a level and patience — pipe connections need even tightening to avoid a crooked final look"
+
 ---
 
 If industrial farmhouse is your style but you're short on floor space, the Bestier 2 Tier Pipe Shelf walks a smart line between decor statement and actual storage. This isn't a flimsy decorative ledge — it's a wall-mounted unit with legit steel pipes and real weight capacity. But before you click buy, let's talk about what you're actually getting.

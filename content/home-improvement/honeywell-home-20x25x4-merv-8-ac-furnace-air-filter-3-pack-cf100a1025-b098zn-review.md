@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell Home 20x25x4 MERV 8, AC Furnace Air Filter, 3 PACK"
 seo_title: "Honeywell Home 20x25x4 MERV 8, AC Furnace Air Filt Review"
 meta_description: "Our full honeywell home 20x25x4 merv 8, ac furnace air filter, 3 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B098ZNWHSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gHP+q8QaS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a furnace filter is the least glamorous purchase in your home, but it's also the one that keeps your HVAC system from eating itself alive. The Honeywell Home 20x25x4 MERV 8 three-pack sits in a sweet spot — thick enough to last, rated well enough to catch what matters, and priced reasonably for what you get.

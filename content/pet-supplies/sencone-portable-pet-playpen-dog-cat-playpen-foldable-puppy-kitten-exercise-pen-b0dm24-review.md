@@ -1,4 +1,5 @@
 ---
+
 title: "SENCONE Portable Pet Playpen, Dog/Cat Playpen Foldable Puppy"
 seo_title: "SENCONE Portable Pet Playpen, Dog/Cat Playpen Fold Review"
 meta_description: "Our full sencone portable pet playpen, dog/cat playpen foldable puppy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DM24DFZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORUtEnAtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The portable pen that actually packs away

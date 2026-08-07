@@ -1,4 +1,5 @@
 ---
+
 title: "COSRX Pure Vitamin C Serum with E & Hyaluronic Acid Brighten"
 seo_title: "COSRX Vitamin C Serum Review: Brightening & Hydrating (2026)"
 meta_description: "Read our honest COSRX Pure Vitamin C Serum review. Does the 13% vitamin C, E, and hyaluronic acid formula brighten skin? See real results, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CLMQM2S9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c4jNujODL._SL1500_.jpg"
-pros:
+pros: 
   - "13% pure vitamin C (ascorbic acid) — a clinically effective concentration, not a watered-down derivative"
   - "Formulated with vitamin E and hyaluronic acid to buffer irritation and add hydration, addressing vitamin C's two biggest drawbacks"
   - "Fragrance-free and housed in an opaque, airless pump bottle that actually protects the unstable ingredient from light degradation"
-cons:
+cons: 
   - "Can pill under thick moisturizers or sunscreen if you don't wait the full absorption time (2–3 minutes)"
   - "Pure ascorbic acid still carries a mild sting risk for sensitive skin types, even with the buffering ingredients"
   - "Short 12-month shelf life once opened — if you don't use it daily, you'll waste product"
+
 ---
 
 # COSRX Pure Vitamin C Serum: The Brightening Serum That Doesn't Play Games

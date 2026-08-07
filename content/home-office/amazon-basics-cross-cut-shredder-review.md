@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 8-Sheet Cross Cut Paper Shredder"
 seo_title: "Amazon Basics 8-Sheet Shredder Review: Worth It? (2026)"
 meta_description: "Honest Amazon Basics 8-sheet cross cut shredder review: performance, noise, capacity, and real buyer feedback. Is this $36 shredder worth it?"
@@ -11,14 +12,15 @@ review_count: 75213
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719njn2SJ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 8-sheet capacity handles typical mail and bank statements without jamming"
   - "Cross-cut P-3 security level reduces documents to 5/32 x 1-9/16 inch particles — suitable for personal financial docs"
   - "Locking on/off switch prevents accidental activation; thermal overload protection adds safety margin"
-cons:
+cons: 
   - "Loud — measured around 70-75 dB in use; you'll hear it in the next room"
   - "Run time is limited to roughly 3 minutes before a 30-minute cool-down; heavy shredding sessions will test patience"
   - "Can't handle credit cards continuously — feed one at a time and expect strain on the motor"
+
 ---
 
 **The $36 Shredder That Handles Real Life — With One Big Caveat**

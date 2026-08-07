@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Kerdi Prefabricated Sloped Shower Tray - Waterproof"
 seo_title: "Schluter Kerdi Prefabricated Sloped Shower Tray -  Review"
 meta_description: "Our full schluter kerdi prefabricated sloped shower tray - waterproof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZFBH4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6152zXiNBPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a tile installer hand-trowel a mortar shower pan and sweat over getting the slope perfect, you understand why Schluter's Kerdi tray exists. This prefabricated foam base eliminates the most error-prone step in a tile shower build. But at 4.8 stars across 240 ratings, the question isn't whether it works—it's whether it's the right call for *your* project.

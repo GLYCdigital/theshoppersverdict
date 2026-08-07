@@ -1,4 +1,5 @@
 ---
+
 title: "Sloan SF-2150 Sensor Activated Touch-Free Faucet, Commercial"
 seo_title: "Sloan SF-2150 Sensor Activated Touch-Free Faucet,  Review"
 meta_description: "Our full sloan sf-2150 sensor activated touch-free faucet, commercial review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CNJ7DDFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Tq9HWADQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a touch-free faucet that won't die in a year, the Sloan SF-2150 is the real deal — but it's not a simple plug-and-play upgrade. This is commercial plumbing hardware, and it behaves like it.

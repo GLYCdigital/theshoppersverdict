@@ -1,4 +1,5 @@
 ---
+
 title: "Macarrie Precut Tennis Balls Bulk 2.5 Inch Chairs Leg Floor "
 seo_title: "Macarrie Precut Tennis Balls Bulk 2.5 Inch Chairs  Review"
 meta_description: "Our full macarrie precut tennis balls bulk 2.5 inch chairs leg floor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DKSXKCBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D2aF5kTqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $12 Hack That Saves Your Hardwood — But Check Your Leg Width First**

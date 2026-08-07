@@ -1,4 +1,5 @@
 ---
+
 title: "LEDIARY Construction String Lights, Linkable Construction Li"
 seo_title: "LEDIARY Construction String Lights, Linkable Const Review"
 meta_description: "Our full lediary construction string lights, linkable construction li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B71NPW8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yRj8+aQ8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever strung up temporary lighting on a job site, you know the drill: flimsy sockets that crack in the cold, wire that kinks, and a mess of extension cords tangling your workspace. The LEDIARY Construction String Lights are built to fix those specific headaches. At a 4.4-star average across 220 ratings, these aren't a gimmick — they're a working tool. Here's what you actually need to know before you buy.

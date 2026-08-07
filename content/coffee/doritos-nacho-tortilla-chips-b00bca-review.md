@@ -1,4 +1,5 @@
 ---
+
 title: "Doritos Nacho Tortilla Chips"
 seo_title: "Doritos Nacho Review: Bold Cheddar Crunch or Gimmick?"
 meta_description: "Honest Doritos Nacho review: bold cheddar flavor, satisfying crunch, but greasy fingers and uneven seasoning. Is this iconic chip worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00BCA6FL0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iUuyr2R7L._SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive, tangy cheddar powder coats every chip — no bland bites"
   - "Sturdy triangle shape holds up to heavy dips without shattering"
   - "Consistent 4.4-star rating across 220 reviews — rare for snack foods"
-cons:
+cons: 
   - "Orange powder residue leaves fingers and surfaces stained"
   - "Seasoning distribution varies by bag — bottom chips get the lion's share"
+
 ---
 
 Let’s be honest: you’re not here for nutritional advice. You’re here because you’ve seen the orange-stained fingers, heard the crunch across the office, and wondered if Doritos Nacho Cheese actually lives up to the hype. After digging through 220 Amazon reviews and a few bags myself, here’s the real story.

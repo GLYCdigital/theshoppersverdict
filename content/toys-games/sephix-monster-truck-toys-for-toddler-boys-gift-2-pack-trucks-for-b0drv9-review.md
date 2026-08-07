@@ -1,4 +1,5 @@
 ---
+
 title: "SEPHIX Monster Truck Toys for Toddler Boys Gift:2 Pack Truck"
 seo_title: "SEPHIX Monster Truck Toys for Toddler Boys Gift:2  Review"
 meta_description: "Our full sephix monster truck toys for toddler boys gift:2 pack truck review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRV953PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TmFtlKkjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a toddler ignore a $60 electronic toy in favor of the cardboard box it came in, you understand the appeal of the SEPHIX 2-pack monster truck set. At $18.99, this isn't a flashy purchase — and that's precisely the point. It's a back-to-basics toy that does one thing well: it rolls.

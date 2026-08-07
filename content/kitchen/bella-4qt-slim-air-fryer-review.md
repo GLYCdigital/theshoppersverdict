@@ -1,4 +1,5 @@
 ---
+
 title: "bella 4Qt Slim Air Fryer"
 seo_title: "bella 4Qt Slim Air Fryer Review: Worth It? (2026)"
 meta_description: "Honest bella 4Qt Slim Air Fryer review: performance, capacity, and real buyer feedback. Is this $60 air fryer worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 3689
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYJDVT31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w9+nXxwlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely slim footprint (about 10 inches wide) fits under standard upper cabinets without monopolizing counter space"
   - "Digital touchscreen with 8 one-touch presets actually works — no guesswork on time and temp for common foods"
   - "Dishwasher-safe basket and crisper plate make cleanup faster than most air fryers in this price range"
-cons:
+cons: 
   - "4-quart capacity is honest but tight for families of 4+ — you'll cook in batches for chicken thighs or frozen apps"
   - "Basket slides in a bit rough; there's no soft-close mechanism, and the handle gets warm during long cooks"
+
 ---
 
 The air fryer market is a sea of nearly identical black boxes. The bella 4Qt Slim Air Fryer tries something different: it shaves off inches where it counts and keeps the price under $60. Is that trade-off worth it? After digging through 3,689 ratings and analyzing what actual owners say, here's the real picture.

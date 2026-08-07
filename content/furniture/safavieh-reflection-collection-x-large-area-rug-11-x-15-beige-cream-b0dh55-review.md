@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Reflection Collection X-Large Area Rug - 11' x 15',"
 seo_title: "SAFAVIEH Reflection Collection X-Large Area Rug -  Review"
 meta_description: "Our full safavieh reflection collection x-large area rug - 11' x 15', review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DH55RV9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ALUGaGWyS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a giant rug into a living room only to find it looks like a bath mat, you know the stakes. The SAFAVIEH Reflection Collection in 11' x 15' isn't just another oversized floor covering — it's a genuine statement piece that anchors a large open-concept space. But at this size and price point, you need to know exactly what you're getting before you commit.

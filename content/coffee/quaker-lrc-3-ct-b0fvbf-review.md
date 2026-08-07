@@ -1,4 +1,5 @@
 ---
+
 title: "Quaker LRC 3 Ct"
 seo_title: "Quaker LRC 3 Ct Review: Verdict | TSV"
 meta_description: "Our full quaker lrc 3 ct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVBF6GZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Zdbh6SI2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Quaker LRC 3 Ct isn’t trying to be your all-singing, all-dancing espresso machine. It’s a no-nonsense, compact 3-cup drip brewer that’s carved out a loyal following — 229 ratings and a solid 4.6 average. If you’re a single drinker, a camper, or someone who just wants a quick cup without wrestling a 12-cup behemoth, this might be exactly what your counter needs. But it’s not for everyone, and I’ll tell you exactly who should skip it.

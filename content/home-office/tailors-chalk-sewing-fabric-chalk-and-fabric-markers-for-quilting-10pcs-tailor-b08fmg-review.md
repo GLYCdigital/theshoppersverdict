@@ -1,4 +1,5 @@
 ---
+
 title: "Tailors Chalk,Sewing Fabric Chalk and Fabric Markers for Qui"
 seo_title: "Tailors Chalk,Sewing Fabric Chalk and Fabric Marke Review"
 meta_description: "Our full tailors chalk,sewing fabric chalk and fabric markers for qui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FMG8MBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AlD9mXjrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the craft-store clutter. Most fabric markers either drag on your fabric like a dull crayon or bleed through to the wrong side. This 10-piece set from Tailors Chalk tries to solve both problems in one box. After testing it across cotton, denim, and a quilting cotton blend, here's the honest breakdown.

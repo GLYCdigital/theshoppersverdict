@@ -1,4 +1,5 @@
 ---
+
 title: "Tower 28 MakeWaves Mascara-Volumizing and Lash Lengthening W"
 seo_title: "Tower 28 MakeWaves Mascara-Volumizing and Lash Len Review"
 meta_description: "Our full tower 28 makewaves mascara-volumizing and lash lengthening w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FH2L1CXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cK8ZQ-oSL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: Tower 28's MakeWaves Mascara has earned its 4.2-star rating across 210 Amazon reviews, but it's not the universal miracle product the brand's marketing suggests. I've tested this against drugstore staples and luxury department store formulas — here's what you need to know before dropping your cash.

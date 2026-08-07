@@ -1,4 +1,5 @@
 ---
+
 title: "Pomeat Decorative Nautical Door Stop, Weighted Cotton Doorst"
 seo_title: "Pomeat Decorative Nautical Door Stop, Weighted Cot Review"
 meta_description: "Our full pomeat decorative nautical door stop, weighted cotton doorst review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B1ZGHM5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F6wepWa+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about door stops: most are ugly rubber wedges you kick under a door and forget. The Pomeat Decorative Nautical Door Stop tries to change that with a weighted cotton design that actually looks intentional in a room. But does it hold a door as well as it holds a design aesthetic? I tested it against three common door types to find out.

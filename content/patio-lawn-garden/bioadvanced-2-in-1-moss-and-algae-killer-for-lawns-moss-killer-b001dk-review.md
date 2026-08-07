@@ -1,4 +1,5 @@
 ---
+
 title: "BioAdvanced 2-in-1 Moss and Algae Killer for Lawns, Moss Kil"
 seo_title: "BioAdvanced Moss & Algae Killer Review: Does It Work?"
 meta_description: "Honest BioAdvanced 2-in-1 Moss and Algae Killer review: kills moss in 2 weeks, but has staining risks. See real results, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B001DKEPJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zDbDXoRDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kills moss and algae on contact with visible browning in 7-14 days"
   - "Ready-to-spray hose attachment covers up to 5,000 sq ft per bottle"
   - "Iron-based formula safe for surrounding grass when applied correctly"
-cons:
+cons: 
   - "Will stain concrete, pavers, and siding if overspray isn't rinsed immediately"
   - "Requires multiple applications for heavy moss infestations"
   - "Hose-end sprayer can clog if the concentrate isn't shaken thoroughly"
+
 ---
 
 Moss on a lawn isn't just ugly—it's a sign your grass is losing the battle for sunlight, moisture, and soil nutrients. The BioAdvanced 2-in-1 Moss and Algae Killer promises to tip the scales back in your favor. After digging through 190 ratings averaging 3.8 stars, here's what you need to know before pulling the trigger.

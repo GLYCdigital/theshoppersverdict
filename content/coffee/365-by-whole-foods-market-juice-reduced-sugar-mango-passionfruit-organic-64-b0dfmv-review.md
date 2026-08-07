@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market, Juice Reduced Sugar Mango Passion"
 seo_title: "365 Whole Foods Mango Passion Juice Review (Reduced Sugar)"
 meta_description: "Honest 365 by Whole Foods Mango Passion reduced-sugar juice review: taste, sweetness, ingredients, and value. See if this 64-oz bottle is worth it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFMVJMWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NAjb0RpDL._SL1000_.jpg"
-pros:
+pros: 
   - "Real mango and passionfruit juice as first ingredients — no apple or grape filler hiding the flavor"
   - "Only 60 calories per 8-oz serving with 12g sugar, about half of standard mango juice brands"
   - "Stevia leaf extract adds sweetness without the bitter aftertaste many reduced-sugar juices have"
-cons:
+cons: 
   - "Stevia sweetness is noticeable — if you're sensitive to it, this won't taste like 'real' juice"
   - "Slightly thinner mouthfeel than full-sugar mango nectar; lacks that thick, pulpy body"
   - "Not shelf-stable after opening — must refrigerate and finish within 7-10 days or it ferments"
+
 ---
 
 Let's be clear about what this isn't: this is not a coffee maker, and it's not coffee gear. This is a 64-ounce bottle of reduced-sugar mango passionfruit juice from Whole Foods' private label. If you clicked expecting a brewer review, you're in the wrong aisle — but if you're here because you want a genuinely honest take on whether this juice is worth your money, keep reading.

@@ -1,4 +1,5 @@
 ---
+
 title: "Betta Flex Solar-Powered Robotic Pool Skimmer – Cordless w"
 seo_title: "Betta Flex Solar Pool Skimmer Review: Cordless Cleaning"
 meta_description: "Honest Betta Flex solar pool skimmer review: Does the cordless robotic skimmer with dual cleaning modes actually work? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FF3P9N7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tgz92NKEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation with dual solar panels — runs 4-6 hours on a full charge even after sunset"
   - "Dual cleaning modes let you prioritize surface skimming or water circulation depending on conditions"
   - "Handles leaves, bugs, pollen, and even small twigs without clogging the debris basket"
-cons:
+cons: 
   - "No remote control or app — you're limited to the two pre-programmed modes"
   - "Performance drops noticeably in shaded pools or during overcast stretches"
   - "Debris basket is smaller than traditional skimmers; needs emptying every 1-2 days in heavy leaf season"
+
 ---
 
 # Betta Flex Solar-Powered Robotic Pool Skimmer Review: The Cordless Pool Cleaner That Actually Earns Its Keep

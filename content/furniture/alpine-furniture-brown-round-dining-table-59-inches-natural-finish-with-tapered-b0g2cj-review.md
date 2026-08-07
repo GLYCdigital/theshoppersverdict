@@ -1,4 +1,5 @@
 ---
+
 title: "Alpine Furniture Brown Round Dining Table 59 Inches, Natural"
 seo_title: "Alpine Furniture 59 inch  Round Dining Table Review (2026)"
 meta_description: "Honest Alpine Furniture 59-inch round dining table review: solid wood veneer, tapered legs, seating capacity, assembly tips, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G2CJVTZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JNhYLzkHL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "59-inch diameter genuinely seats 6 adults without elbow bumping — rare for round tables in this price band"
   - "Natural wood veneer over solid rubberwood shows real grain variation; not a printed faux finish"
   - "Tapered legs with cross-brace support feel sturdier than the $400-600 price range suggests"
-cons:
+cons: 
   - "Assembly requires two people and about 45-60 minutes; leg attachment points can be finicky to align"
   - "Light natural finish shows water rings and scratches readily — you'll want coasters and placemats from day one"
   - "No leaf expansion option; what you see is what you get at 59 inches"
+
 ---
 
 Let me be blunt: most round dining tables under $600 are wobbly, veneer-thin, and barely seat four. The Alpine Furniture 59-inch round table isn't that. It's not perfect — I'll get to that — but it punches well above its price point in a category full of compromises.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Moisture Meter"
 seo_title: "Wood Moisture Meter Review: Verdict | TSV"
 meta_description: "Our full wood moisture meter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPJ6DV38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FU1kHEHSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever split firewood that hissed and smoked despite "seasoning" it for months, you already know the pain this tool solves. The Wood Moisture Meter (listed around $25–30 on Amazon) is a compact pin-type hygrometer designed to tell you — definitively — whether your wood is dry enough to burn, glue, or finish. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in workshops and woodpiles across the country. But is it the right moisture meter for *your* specific job? Let's dig in.

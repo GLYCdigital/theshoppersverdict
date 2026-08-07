@@ -1,4 +1,5 @@
 ---
+
 title: "Intex 4 Foot x 12 Inch Miniature Durable Vinyl Outdoor Above"
 seo_title: "Intex 4ft Mini Pool Review: Durable Vinyl Kiddie Pool"
 meta_description: "Honest Intex 4ft x 12in mini pool review: durability, real-world use, and who it's best for. See if this vinyl kiddie pool is worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00HJGTLVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bS0DDSCsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-ply vinyl construction holds up to repeated use and sun exposure without puncturing"
   - "Sets up in under five minutes with no tools — just unfold, inflate the top ring, and fill"
   - "Compact 4-foot footprint fits on balconies, patios, and small yards where full-size pools won't"
-cons:
+cons: 
   - "No drain plug — you'll have to tip it over to empty, which gets awkward when full"
   - "12-inch depth is splash-depth only; older kids will outgrow it fast"
   - "Thin floor material requires a tarp or blanket underneath to avoid punctures from rough ground"
+
 ---
 
 **If you've got toddlers and a small outdoor space, this Intex mini pool is the simplest way to beat the heat without committing to a full-size inflatable. But it's not for everyone — here's the honest breakdown.**

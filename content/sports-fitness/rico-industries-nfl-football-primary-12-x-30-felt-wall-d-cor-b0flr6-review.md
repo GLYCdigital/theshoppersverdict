@@ -1,7 +1,8 @@
 ---
-title: "Rico Industries NFL Football Primary 12\" x 30\" Felt Wall DÃ©"
-seo_title: "Rico Industries NFL Football Primary 12\" x 30\" Fel Review"
-meta_description: "Our full rico industries nfl football primary 12\" x 30\" felt wall dã© review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Rico Industries NFL Football Primary 12\ x 30\ Felt Wall DÃ©"
+seo_title: "Rico Industries NFL Football Primary 12\ x 30\ Fel Review"
+meta_description: "Our full rico industries nfl football primary 12\ x 30\ felt wall dã© review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "rico-industries-nfl-football-primary-12-x-30-felt-wall-d-cor-b0flr6-review"
 image_alt: "Rico Industries NFL Football Primary 12 x 30 Felt Wall DÃ©cor Pennant - Great for Home/Bed Room/Man Cave DÃ©cor"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FLR6TJRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZVDf1gqIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this felt wall décor actually worth your wall space, or just another overpriced fan accessory?** After digging through 240 ratings and the specs, here's the real story on Rico Industries' NFL Football Primary panel.

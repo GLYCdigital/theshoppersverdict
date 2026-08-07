@@ -1,4 +1,5 @@
 ---
+
 title: "Haute Diggity Dog CV Collection"
 seo_title: "Haute Diggity Dog CV Collection Review: Verdict | TSV"
 meta_description: "Our full haute diggity dog cv collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GF3BHY8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cBiuuzbqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the Haute Diggity Dog CV Collection pop up in your feed, and now you're wondering if it's genuinely worth the premium over the bin of generic pet toys at the big-box store. With a 4.6-star average across 229 ratings, the numbers suggest something's working here — but numbers don't tell you whether your specific dog will shred it in 48 hours. Here's what I found digging through the specs, the customer feedback, and the actual construction.

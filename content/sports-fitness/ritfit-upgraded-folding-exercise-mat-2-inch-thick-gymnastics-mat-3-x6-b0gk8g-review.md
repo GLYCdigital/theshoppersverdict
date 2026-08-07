@@ -1,4 +1,5 @@
 ---
+
 title: "RitFit Upgraded Folding Exercise Mat, 2 Inch Thick Gymnastic"
 seo_title: "RitFit Upgraded Folding Exercise Mat, 2 Inch Thick Review"
 meta_description: "Our full ritfit upgraded folding exercise mat, 2 inch thick gymnastic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GK8GXCS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QFQyqtx1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most folding mats under $100 are glorified yoga mats with extra foam. The RitFit Upgraded Folding Exercise Mat is not that. At 2 inches thick with a dense cross-linked foam core, this is the mat you buy when your tailbone and wrists are begging for mercy after burpees on a hardwood floor.

@@ -1,4 +1,5 @@
 ---
+
 title: "XINXINYAN Box Spring, Box Spring Only, Heavy Duty Metal Fram"
 seo_title: "XINXINYAN Box Spring, Box Spring Only, Heavy Duty  Review"
 meta_description: "Our full xinxinyan box spring, box spring only, heavy duty metal fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHY86L3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dqcW4HADL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need a $300 box spring to get proper mattress support. The XINXINYAN box spring proves that point — it's a no-frills, heavy-duty metal foundation that does exactly what a box spring should do, for about $66. But as with any budget furniture buy, there are tradeoffs worth knowing before you click "add to cart."

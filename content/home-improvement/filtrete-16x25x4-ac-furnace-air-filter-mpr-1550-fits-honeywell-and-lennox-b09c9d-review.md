@@ -1,4 +1,5 @@
 ---
+
 title: "Filtrete 16x25x4 AC Furnace Air Filter, MPR 1550, Fits Honey"
 seo_title: "Filtrete 16x25x4 MPR 1550 Review: Worth It? | HVAC Filter"
 meta_description: "Filtrete 16x25x4 MPR 1550 furnace filter review: 3-month life, allergen capture, airflow tradeoffs. See real buyer feedback and fit details."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09C9DLVT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HVDtxawdL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine 4-inch depth fits Honeywell and Lennox filter cabinets snugly with no bypass gaps"
   - "MPR 1550 rating captures microscopic particles (pollen, smoke, bacteria) without choking airflow like HEPA-grade filters"
   - "Reinforced cardboard frame holds its shape during removal — no flimsy collapse like cheaper 1-inch filters"
-cons:
+cons: 
   - "3-month lifespan is optimistic if you have pets or heavy dust — expect closer to 6-8 weeks in real-world homes"
   - "Priced at a premium over MPR 1000 filters; the boost in capture efficiency is marginal for most households"
   - "No arrow indicators on both sides — install direction matters and it's easy to flip it wrong in dim basements"
+
 ---
 
 Let's cut through the filter aisle confusion. The Filtrete 16x25x4 MPR 1550 is the filter you buy when you want better indoor air quality *without* your HVAC system working twice as hard. This is the Goldilocks option between cheap fiberglass throwaways and restrictive HEPA-grade panels that choke your furnace.

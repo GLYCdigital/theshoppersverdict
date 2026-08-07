@@ -1,4 +1,5 @@
 ---
+
 title: "Raycare Flameless Candles Battery Operated with Remote Timer"
 seo_title: "Raycare Flameless Candles Battery Operated with Re Review"
 meta_description: "Our full raycare flameless candles battery operated with remote timer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D59H6NT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yjd-JQ6KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most flameless candles are overpriced light bulbs wrapped in wax. The Raycare set is different — and after digging through 229 ratings and the actual product specs, I can tell you exactly why it holds a 4.6 average.

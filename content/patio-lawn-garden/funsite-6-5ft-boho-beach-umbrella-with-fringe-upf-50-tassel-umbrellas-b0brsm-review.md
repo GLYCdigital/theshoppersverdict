@@ -1,4 +1,5 @@
 ---
+
 title: "Funsite 6.5ft Boho Beach Umbrella with Fringe, UPF 50+ Tasse"
 seo_title: "Funsite 6.5ft Boho Beach Umbrella Review: UPF 50+ Fringe"
 meta_description: "Funsite 6.5ft boho beach umbrella review: UPF 50+ protection, fringe style, tilt function. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BRSMTDJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612GCj70stL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine UPF 50+ rated fabric that blocks 98% of UV rays — not vague marketing"
   - "Self-standing base design holds up better in wind than standard pole-only umbrellas"
   - "Full 360-degree tilt lets you chase shade as the sun moves without repositioning the whole unit"
-cons:
+cons: 
   - "6.5ft canopy is snug for two adults with chairs — you'll need to sit close or angle it"
   - "Fringe catches sand and requires hand-washing; machine washing distorts the tassels"
+
 ---
 
 The Funsite 6.5ft Boho Beach Umbrella isn't trying to be the sturdiest or most technical shade solution on the market. What it does deliver—and what 220 Amazon reviewers have rated at 4.4 stars—is a genuinely attractive, functional beach umbrella that respects both your skin and your Instagram feed. But before you click buy, there are a few things you should know.

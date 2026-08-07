@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness CORE Signature Selects Shredded Boneless Chicken & "
 seo_title: "Wellness CORE Signature Selects Shredded Boneless  Review"
 meta_description: "Our full wellness core signature selects shredded boneless chicken &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5JLRNJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aM-t+LK+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. Wellness CORE Signature Selects Shredded Boneless Chicken & Turkey Entrée in Sauce is a grain-free wet food that’s been sitting at a solid 4.5 stars across 225 Amazon ratings. The question isn’t whether it’s good — it’s whether it’s worth the premium over the pâté your cat already tolerates.

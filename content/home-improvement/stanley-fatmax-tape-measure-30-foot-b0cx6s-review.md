@@ -1,4 +1,5 @@
 ---
+
 title: "STANLEY FATMAX Tape Measure, 30-Foot"
 seo_title: "STANLEY FATMAX Tape Measure, 30-Foot Review: Verdict | TS"
 meta_description: "Our full stanley fatmax tape measure, 30-foot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CX6S4XY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AwjPiR4WL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stretched a 25-foot tape across a room only to watch it buckle halfway, you know the frustration. The STANLEY FATMAX 30-Foot tape measure attacks that problem head-on with an 11-foot standout — meaning the blade stays rigid for over a third of its length without any support. That's not a spec-sheet gimmick; it's the difference between measuring a ceiling joist alone and calling for help.

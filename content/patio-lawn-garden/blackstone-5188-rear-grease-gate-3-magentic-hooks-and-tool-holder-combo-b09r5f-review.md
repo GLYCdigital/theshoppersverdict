@@ -1,24 +1,26 @@
 ---
+
 title: "BLACKSTONE 5188 Rear Grease Gate, 3 Magnetic Hooks and Tool Review"
 seo_title: "BLACKSTONE 5188 Rear Grease Gate & Hooks Review (2026)"
 meta_description: "Honest BLACKSTONE 5188 rear grease gate review: Does the magnetic tool holder combo fit your griddle? Performance, fit, and real buyer feedback."
 slug: "blackstone-5188-rear-grease-gate-3-magentic-hooks-and-tool-holder-combo-b09r5f-review"
 image_alt: "BLACKSTONE 5188 rear grease gate with magnetic hooks and tool holder attached to a flat top griddle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09R5FT292/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l2-erp0FL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Slides onto the rear grease trough in seconds — no tools or permanent modification"  
   - "Three neodymium magnets hold tongs, spatulas, and scrapers firmly within arm's reach"  
   - "Sturdy steel construction with a matte black finish that resists rust and heat discoloration"  
-cons:  
+cons: 
   - "Only fits Blackstone models with a rear grease channel — won't work on side-drain griddles"  
   - "Magnetic hooks are strong but can scratch powder-coated griddle sides if you're careless"  
   - "Tool holder adds ~1 inch to rear depth, which may crowd tight patio clearances"
+
 ---
 
 # BLACKSTONE 5188 Rear Grease Gate Review: The $20 Upgrade That Changes Your Griddle Workflow

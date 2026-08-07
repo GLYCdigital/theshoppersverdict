@@ -1,4 +1,5 @@
 ---
+
 title: "Vesgantti Cloud Lita Sectional"
 seo_title: "Vesgantti Cloud Lita Sectional Review: Verdict | TSV"
 meta_description: "Our full vesgantti cloud lita sectional review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0FP72P1Z4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dR5sqmIRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Vesgantti Cloud Lita Sectional has a serious identity crisis. The product photos show a plush, cloud-like modular sofa that looks like it costs $2,000. The 3.0-star rating from 150 buyers tells a different story. As someone who's tracked this category for years, I can tell you exactly what's going on here: it's a $600 sofa pretending to be a $1,500 one — and sometimes that works, sometimes it doesn't.

@@ -1,24 +1,26 @@
 ---
+
 title: "Breville Luxe Drip Coffee Machine"
 seo_title: "Breville Luxe Drip Review: Worth It? (2026)"
 meta_description: "Breville Luxe Drip Coffee Machine review: 3.4/5 stars. We test brew quality, build, and durability. See pros, cons, and who should buy."
 slug: "breville-luxe-drip-coffee-machine-b0g5jn-review"
 image_alt: "Breville Luxe Drip Coffee Machine with glass carafe and stainless steel thermal jug"
-verdict_score: 3.3  
-date: 2026-08-06  
-price: null  
-review_count: 170  
-amazon_rating: 3.4  
+verdict_score: 3.3
+date: 2026-08-06
+price: null
+review_count: 170
+amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0G5JNXFNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UlYMdoTjL._SL1500_.jpg"
-pros:  
+pros: 
   - "Dual-wall stainless thermal carafe keeps coffee hot for 4+ hours without a burner"  
   - "Pre-infusion bloom cycle mimics pour-over technique for fuller extraction"  
   - "Basket and showerhead are removable and dishwasher-safe for easy cleaning"  
-cons:  
+cons: 
   - "Brew temperature runs 5–8°F below the 200°F sweet spot, leaving bright notes muted"  
   - "No built-in grinder — you'll need a separate burr grinder to justify the price"  
   - "Water reservoir is fixed and awkward to fill under low cabinets"
+
 ---
 
 # Breville Luxe Drip Coffee Machine: Premium Looks, Middling Execution

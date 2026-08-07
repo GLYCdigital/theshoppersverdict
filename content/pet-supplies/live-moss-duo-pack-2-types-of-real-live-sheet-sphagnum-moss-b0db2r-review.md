@@ -1,4 +1,5 @@
 ---
+
 title: "Live Moss Duo Pack 2 Types of Real Live Sheet/Sphagnum Moss "
 seo_title: "Live Moss Duo Pack 2 Types of Real Live Sheet/Spha Review"
 meta_description: "Our full live moss duo pack 2 types of real live sheet/sphagnum moss  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB2RG98R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MeZZJavLL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you keep dart frogs, crested geckos, or any creature that needs a humid, naturalistic enclosure, you already know the struggle: fake moss looks terrible, and dried sphagnum is lifeless. The Live Moss Duo Pack aims to fix that by shipping two real, living moss types — sheet moss and sphagnum — in one order. At 4.4 stars across 220 ratings, it's clearly working for many keepers. But is it the right call for *your* setup? Here's the honest breakdown.

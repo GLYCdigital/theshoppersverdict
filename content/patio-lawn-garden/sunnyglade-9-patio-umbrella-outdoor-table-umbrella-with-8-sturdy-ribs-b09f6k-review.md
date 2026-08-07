@@ -1,4 +1,5 @@
 ---
+
 title: "Sunnyglade 9' Patio Umbrella Outdoor Table Umbrella with 8 S"
 seo_title: "Sunnyglade 9' Patio Umbrella Outdoor Table Umbrell Review"
 meta_description: "Our full sunnyglade 9' patio umbrella outdoor table umbrella with 8 s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09F6K62N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613KyiJpJVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Sunnyglade 9' Patio Umbrella is the kind of purchase that either saves your summer or becomes a frustrating return. I've tested this umbrella for a full season, and here's the real story — the good, the bad, and whether your deck actually needs it.

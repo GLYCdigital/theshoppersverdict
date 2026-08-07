@@ -1,4 +1,5 @@
 ---
+
 title: "Scotch Tape Dispenser"
 seo_title: "Scotch Tape Dispenser Review: Verdict | TSV"
 meta_description: "Our full scotch tape dispenser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJQ37HTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41r4d+KplWL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 desk upgrade that stops the tape hunt**

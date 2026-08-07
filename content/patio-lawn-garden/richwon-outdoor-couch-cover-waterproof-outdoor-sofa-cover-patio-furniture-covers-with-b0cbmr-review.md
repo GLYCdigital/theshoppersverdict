@@ -1,4 +1,5 @@
 ---
+
 title: "Richwon Outdoor Couch Cover Waterproof, Outdoor Sofa Cover, "
 seo_title: "Richwon Outdoor Couch Cover Waterproof, Outdoor So Review"
 meta_description: "Our full richwon outdoor couch cover waterproof, outdoor sofa cover,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBMRN366/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XV62bHZFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever peeled a soggy, moss-scented cover off your patio sofa in April, you know the stakes. The Richwon Outdoor Couch Cover is a serious attempt to end that cycle — and with a 4.6-star average across 229 ratings, it's earning its keep in backyards that see real weather.

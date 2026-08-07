@@ -1,7 +1,8 @@
 ---
-title: "Giraffe Tools Retractable Hose Reel 1/2\" x 65 ft Heavy Duty "
-seo_title: "Giraffe Tools Retractable Hose Reel 1/2\" x 65 ft H Review"
-meta_description: "Our full giraffe tools retractable hose reel 1/2\" x 65 ft heavy duty  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Giraffe Tools Retractable Hose Reel 1/2\ x 65 ft Heavy Duty "
+seo_title: "Giraffe Tools Retractable Hose Reel 1/2\ x 65 ft H Review"
+meta_description: "Our full giraffe tools retractable hose reel 1/2\ x 65 ft heavy duty  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "giraffe-tools-retractable-hose-reel-1-2-x-65-ft-heavy-duty-b0d5cz-review"
 image_alt: "Giraffe Tools Retractable Hose Reel 1/2 x 65 ft Heavy Duty Water Hose Reel, Swivel Bracket, Any Length Lock, with 9-Func"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D5CZ56LL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dx--gd8eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A 65-foot hose that actually retracts — without fighting you**

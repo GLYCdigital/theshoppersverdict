@@ -1,4 +1,5 @@
 ---
+
 title: "Jeep Wrangler Jk & JKU Unlimited Sahara Door Hinge"
 seo_title: "Jeep Wrangler Jk & JKU Unlimited Sahara Door Hinge Review"
 meta_description: "Our full jeep wrangler jk & jku unlimited sahara door hinge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D31GZTS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FjrovXhqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: your Jeep JK's door hinges are probably rusting. It's not your fault — it's a known issue with the factory zinc coating on Wranglers from the late 2000s and early 2010s. If you're staring at bubbling paint and flaking metal around your door hinges, this aftermarket replacement set is one of the more affordable fixes you'll find. But is it worth your money? Here's what you need to know.

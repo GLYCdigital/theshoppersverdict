@@ -1,4 +1,5 @@
 ---
+
 title: "Rio Salto Gold Barn Door Hardware Kit Adjustable Length Slid"
 seo_title: "Rio Salto Gold Barn Door Hardware Kit Adjustable L Review"
 meta_description: "Our full rio salto gold barn door hardware kit adjustable length slid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DWTQR96X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X00fQx6qL._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What's the Deal With This Kit?

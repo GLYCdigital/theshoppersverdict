@@ -1,4 +1,5 @@
 ---
+
 title: "G9 LED Bulb 3W,Dimmable 2700K 4000K 6000K, 350LM LED Light B"
 seo_title: "G9 LED Bulb 3W Review: 3 Color Temps, Dimmable, 350LM"
 meta_description: "Honest G9 LED Bulb 3W review: dimmable 2700K/4000K/6000K with 350 lumens. Real performance, dimmer compatibility, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8V6HD53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Zqfx3pi0L._AC_SL1343_.jpg"
-pros:
+pros: 
   - "Three switchable color temperatures (2700K/4000K/6000K) cover warm, neutral, and daylight in one bulb"
   - "True dimming capability down to roughly 10% brightness without visible flicker on compatible dimmers"
   - "Compact G9 bi-pin design fits shallow fixtures where standard bulbs won't clear"
-cons:
+cons: 
   - "3W output (350 lumens) replaces only a 30-40W halogen equivalent — not enough for task lighting"
   - "Color-switch mechanism requires toggling the wall switch, which resets each power cycle"
   - "Some dimmers cause a slight buzz at low levels; compatibility varies by brand"
+
 ---
 
 ## The 3-in-1 G9 Bulb That Actually Works

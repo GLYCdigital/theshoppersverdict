@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Foldable End Table, C Shaped Side Table with Storage "
 seo_title: "HOOBRO Foldable End Table, C Shaped Side Table wit Review"
 meta_description: "Our full hoobro foldable end table, c shaped side table with storage  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4D64N4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OjEBkU2aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOOBRO Foldable End Table Review: The C-Shaped Side Table That Earns Its Spot

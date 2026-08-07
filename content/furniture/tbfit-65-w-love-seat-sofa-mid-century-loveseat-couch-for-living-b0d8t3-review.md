@@ -1,4 +1,5 @@
 ---
+
 title: "Tbfit 65'' W Love Seat Sofa, Mid-Century Loveseat Couch for "
 seo_title: "Tbfit 65'' W Love Seat Sofa, Mid-Century Loveseat  Review"
 meta_description: "Our full tbfit 65'' w love seat sofa, mid-century loveseat couch for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8T3V5CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71diQjo-nnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a living room that won't fit a standard 80-inch sofa, the Tbfit 65-inch loveseat is the compromise that doesn't feel like one. This mid-century two-seater packs the visual weight of a larger couch into a footprint that works for apartments, condos, and awkward nooks. At 4.4 stars across 220 ratings, it's clearly earning its keep in real homes — but let's talk about whether it's right for yours.

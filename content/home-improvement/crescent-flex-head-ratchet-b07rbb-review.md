@@ -1,4 +1,5 @@
 ---
+
 title: "Crescent Flex Head Ratchet"
 seo_title: "Crescent Flex Head Ratchet Review: 4.6-Star Verdict"
 meta_description: "Crescent Flex Head Ratchet review: 4.6/5 stars. Tested build, pivot range, and grip. See real pros, cons, and who should buy this versatile tool."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07RBB6XZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614WWWRRuAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 180-degree pivot range with a positive detent lock — no floppy head mid-bolt"
   - "Low-profile head geometry slips into tight recesses where standard ratchets won't fit"
   - "Oversized, contoured handle with a knurled grip section stays secure even with greasy hands"
-cons:
+cons: 
   - "Directional switch is a bit stiff right out of the box — needs a break-in period"
   - "No quick-release button on the drive end; socket changes require a bit more fumbling"
+
 ---
 
 Let me be blunt: the tool aisle is crowded with flex-head ratchets that promise more than they deliver. The Crescent Flex Head Ratchet, with its 4.6-star average across 229 ratings, is one of the few that actually earns the hype. I've spent time with this unit, and here's the real story.

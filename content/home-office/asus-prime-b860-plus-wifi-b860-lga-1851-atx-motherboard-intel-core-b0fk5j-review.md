@@ -1,5 +1,6 @@
 ---
 
+
 title: "ASUS Prime B860-PLUS WiFi B860 LGA 1851 ATX Motherboard, Int"
 seo_title: "ASUS Prime B860-PLUS WiFi Review: Solid LGA 1851 Board"
 meta_description: "ASUS Prime B860-PLUS WiFi review: DDR5, PCIe 5.0, Wi-Fi 6E, and 4 M.2 slots. We break down real user feedback, pros, cons, and who should buy."
@@ -12,14 +13,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FK5JGGV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TOYHZuc0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Four M.2 slots (one PCIe 5.0 x4) with dedicated heatsinks — rare at this price tier"
   - "Wi-Fi 6E and 2.5 GbE built in, so no extra network card needed"
   - "PCIe 5.0 x16 slot reinforced for heavy GPUs, plus Q-Release lever for tool-free removal"
-cons:
+cons: 
   - "B860 chipset locks CPU overclocking — if you want K-series tuning, step up to Z890 inch"
   - "Only three SATA ports (ASUS lists four, but one shares lanes with M.2_3) — check your drive plan"
   - "Rear I/O lacks USB4 or Thunderbolt; you'll need an add-in card for 40Gbps connectivity"
+
 
 ---
 

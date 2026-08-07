@@ -1,4 +1,5 @@
 ---
+
 title: "WaterWorker Vertical Pressure Well Tank"
 seo_title: "WaterWorker Vertical Pressure Well Tank Review: Verdict |"
 meta_description: "Our full waterworker vertical pressure well tank review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B006IKHY0A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o5DQ2wVRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your well pump is short-cycling — kicking on every time someone flushes a toilet — you're burning electricity and wearing out the pump. A pressure tank fixes that, but the wrong one introduces a whole new set of problems. The WaterWorker Vertical Pressure Well Tank (model HT20B) sits in a crowded field of 20-gallon tanks, and its 4.6-star average across 229 ratings suggests it's doing something right. Here's what that something is, and where it falls short.

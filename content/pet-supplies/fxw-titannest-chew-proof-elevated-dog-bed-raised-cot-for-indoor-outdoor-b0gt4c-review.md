@@ -1,4 +1,5 @@
 ---
+
 title: "FXW TitanNest Chew-Proof Elevated Dog Bed, Raised Cot for In"
 seo_title: "FXW TitanNest Chew-Proof Dog Bed Review: 2026 Verdict"
 meta_description: "FXW TitanNest chew-proof elevated dog bed review: durable frame, breathable mesh, 4.7★ rating. Is it worth it for heavy chewers? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GT4CJ8T4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yPXNx2b4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Frame is welded steel with reinforced corner brackets—survived 3 months of daily abuse from a 70-lb Labrador retriever mix"
   - "Mesh fabric is genuinely rip-resistant, not the flimsy nylon most budget cots use; drains and dries in under 20 minutes outdoors"
   - "Tool-free assembly takes under 5 minutes; legs lock into place with push-button pins and don't wobble even on uneven patio tiles"
-cons:
+cons: 
   - "No padding included—the mesh is comfortable for most dogs but older or arthritic pups will need a blanket or orthopedic pad on top"
   - "Weight capacity listed at 150 lbs, but the frame flexes noticeably at 100+ lbs; very large breeds may feel the give"
+
 ---
 
 If your dog treats every bed like a personal chew toy, you already know the cycle: buy bed, watch it get shredded, repeat. The FXW TitanNest is engineered to break that loop, and after digging through 235 ratings averaging 4.7 stars, the consensus is clear—this is one of the few elevated cots that actually holds up.

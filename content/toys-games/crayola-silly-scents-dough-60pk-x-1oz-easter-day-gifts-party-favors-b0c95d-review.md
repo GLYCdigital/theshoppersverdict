@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Silly Scents Dough 60pk x 1oz, Easter Day Gifts & Pa"
 seo_title: "Crayola Silly Scents Dough 60pk Review: 60 Scented Tubs"
 meta_description: "Crayola Silly Scents Dough 60pk review: 60 one-ounce scented dough tubs perfect for Easter baskets, party favors, and classroom prizes. Read our honest take."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C95D5XWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91oLWh7KaXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "60 individual 1oz tubs — enough variety for classrooms, parties, or multiple kids without sharing disputes"
   - "Scents actually smell like their color names (grape, cherry, blueberry) — not just generic sweetness"
   - "Soft, pliable texture that holds shape better than cheaper modeling compounds"
-cons:
+cons: 
   - "1oz tubs are small — roughly the size of a large egg — so serious sculpting projects will burn through them fast"
   - "Some scents (especially citrus) fade noticeably after a few weeks, even with lids sealed"
   - "Lids can pop off in transit; a handful of reviewers reported dried-out tubs upon arrival"
+
 ---
 
 **The 60-Tub Easter Basket Solution That Actually Makes Sense**

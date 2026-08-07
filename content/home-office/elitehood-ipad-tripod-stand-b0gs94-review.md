@@ -1,4 +1,5 @@
 ---
+
 title: "elitehood iPad Tripod Stand"
 seo_title: "elitehood iPad Tripod Stand Review: Sturdy, Adjustable"
 meta_description: "elitehood iPad Tripod Stand review: sturdy aluminum build, adjustable height, and stable base. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GS94R1SN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YsNG+AFML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable height from 15.7 to 51 inches with aluminum legs that lock solidly at any position"
   - "Compatible with 4-13 inch devices including iPads, Kindles, and phones thanks to the spring-loaded universal clamp"
   - "Weighs just 1.4 pounds but holds up to 2.2 pounds of gear — stable enough for video calls and recording"
-cons:
+cons: 
   - "The twist-lock leg collars require a few rotations to loosen; not a one-handed quick-release mechanism"
   - "No Bluetooth remote included in the box — you'll need to buy one separately for self-timer shots"
+
 ---
 
 If you've ever propped an iPad against a stack of books for a video call, only to watch it slide off mid-sentence, the elitehood iPad Tripod Stand is the upgrade you didn't know you needed. With a 4.6-star average across 229 ratings, this compact tripod is earning its keep in home offices, kitchens, and content creator setups. But is it the right stand for *your* workflow? Here's the honest breakdown.

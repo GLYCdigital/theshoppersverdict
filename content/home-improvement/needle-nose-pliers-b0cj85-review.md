@@ -1,4 +1,5 @@
 ---
+
 title: "Needle Nose Pliers"
 seo_title: "Needle Nose Pliers Review: Verdict | TSV"
 meta_description: "Our full needle nose pliers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ85H847/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uEZcHA6VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Every toolbox has that one drawer where small parts go to die. The needle nose pliers you're considering might be the tool that rescues them — or another frustration you toss aside. With a 4.7-star average across 235 ratings, this pair has earned serious attention. But let's dig past the aggregate score and see if it actually earns a spot in your kit.

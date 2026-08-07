@@ -1,4 +1,5 @@
 ---
+
 title: "318 pcs Bulk Easter Eggs filled with Toys inside filled East"
 seo_title: "318 Pcs Bulk Easter Eggs Filled With Toys Review"
 meta_description: "Honest review of 318 pcs bulk Easter eggs filled with toys. See what's inside, quality concerns, and whether this egg hunt value pack is worth it."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DPWYYRWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91XaA3uGKZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "318 pre-filled eggs eliminate the time-consuming task of stuffing and sealing each one yourself"
   - "Works out to roughly 12 cents per egg when purchased at typical bulk pricing"
   - "Plastic eggs are reusable for next year's hunt if you refill them"
-cons:
+cons: 
   - "Toy quality is inconsistent — several buyers report cheap, broken, or duplicate items"
   - "Egg halves may not snap shut securely, causing toys to spill before the hunt begins"
   - "Some eggs arrive cracked or damaged due to minimal packaging protection"
+
 ---
 
 Let's be honest: stuffing 300 Easter eggs is the worst part of hosting a hunt. Your fingers ache, you run out of candy, and the kids find the one egg you forgot to close. This 318-piece bulk set from Amazon promises to eliminate that hassle entirely. But does the convenience justify the 3.4-star rating? After digging through 170 customer reviews, here's the full picture.

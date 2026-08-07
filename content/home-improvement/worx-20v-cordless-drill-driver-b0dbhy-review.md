@@ -1,4 +1,5 @@
 ---
+
 title: "Worx 20V Cordless Drill Driver"
 seo_title: "Worx 20V Cordless Drill Driver Review: Verdict | TSV"
 meta_description: "Our full worx 20v cordless drill driver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBHYPQM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51n3D4Ai9cL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Worx 20V Cordless Drill Driver isn't trying to be the most powerful drill in your garage. It's trying to be the one you grab first. And based on the 4.6-star average across 229 ratings, it's succeeding. This is a compact, everyday driver aimed at homeowners, apartment dwellers, and DIYers who need something that works without wrestling a 5-pound brick.

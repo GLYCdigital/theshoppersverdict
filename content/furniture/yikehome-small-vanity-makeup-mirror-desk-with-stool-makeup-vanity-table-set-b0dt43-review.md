@@ -1,4 +1,5 @@
 ---
+
 title: "YIKEHOME Small Vanity Makeup Mirror Desk with Stool, Makeup "
 seo_title: "YIKEHOME Small Vanity Makeup Mirror Desk with Stoo Review"
 meta_description: "Our full yikehome small vanity makeup mirror desk with stool, makeup  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DT43NJ7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819sYzsLhKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most vanity desks under $150 are flimsy particle-board nightmares that wobble the moment you rest an elbow on them. The YIKEHOME Small Vanity Makeup Mirror Desk with Stool is better than that — but it's not a heirloom piece either. Here's the real breakdown after digging through 200 ratings and the product specs.

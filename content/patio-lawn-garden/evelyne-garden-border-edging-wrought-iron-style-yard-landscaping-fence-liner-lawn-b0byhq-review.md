@@ -1,4 +1,5 @@
 ---
+
 title: "Evelyne Garden Border Edging - Wrought Iron Style Yard Lands"
 seo_title: "Evelyne Garden Border Edging Review: Wrought Iron Style (2026)"
 meta_description: "Honest Evelyne Garden Border Edging review: wrought iron style yard landscaping. We test durability, installation, and value. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYHQDMN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RBkdqOcWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 14-gauge steel construction with rust-resistant powder coating — noticeably thicker than the flimsy 18-gauge panels most competitors ship"
   - "Interlocking design requires zero tools; sections snap together and hold alignment even on curved beds"
   - "Each panel is 40 inches long and 10 inches tall — the height actually hides edging plastic or fabric underneath"
-cons:
+cons: 
   - "Ground stakes are thin; on hard-packed clay or rocky soil they bend before they penetrate — plan for pilot holes"
   - "The 'wrought iron' look is convincingly decorative from 10 feet, but up close the powder coat has a slight matte plastic sheen"
   - "No end caps included; exposed cut ends at corners look unfinished unless you buy extra panels or fabricate your own"
+
 ---
 
 # Evelyne Garden Border Edging Review: Does This Wrought Iron Style Hold Up in Real Yards?

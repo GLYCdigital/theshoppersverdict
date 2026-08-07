@@ -1,4 +1,5 @@
 ---
+
 title: "Defender Fielder’s Wire Mask - High-Impact Steel Infielder"
 seo_title: "Defender Fielder’s Wire Mask Review: Steel Face Guard"
 meta_description: "Our Defender Fielder’s Wire Mask review covers the high-impact steel infielder face guard, fit, visibility, and durability for serious players."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJ2Z6TJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PSA08c+KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full steel cage construction with welded joints holds up to hard line drives without bending"
   - "Padded forehead and chin straps stay secure during sprints and slides"
   - "Wide field of vision with thin bars that don't obstruct tracking pop flies"
-cons:
+cons: 
   - "Sizing runs small—players with larger heads should order up"
   - "Initial odor from the padding is noticeable for the first few uses"
+
 ---
 
 Somewhere between the pitcher’s mound and second base, there’s a very real fear: a 90-mph comebacker doesn’t care how good your glove is. The Defender Fielder’s Wire Mask is built for that exact moment. With a 4.7-star average across 235 ratings, this isn’t a niche product for the overly cautious—it’s becoming standard equipment for infielders who value their teeth.

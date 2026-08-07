@@ -1,4 +1,5 @@
 ---
+
 title: "SZOKLED RGB Under Cabinet Lights LED Rechargeable Color Chan"
 seo_title: "SZOKLED RGB Under Cabinet Lights LED Rechargeable  Review"
 meta_description: "Our full szokled rgb under cabinet lights led rechargeable color chan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYLGHK1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kICBM8iRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SZOKLED RGB Under Cabinet Lights Review: Bright Idea or Battery Drain?

@@ -1,4 +1,5 @@
 ---
+
 title: "Index Cards 3 x 5 Inch Heavyweight Ruled Index Cards, Flash "
 seo_title: "Index Cards 3 x 5 Inch Heavyweight Ruled Index Car Review"
 meta_description: "Our full index cards 3 x 5 inch heavyweight ruled index cards, flash  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYDQCHDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u0UrQO-0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a 3x5 card fold in half the moment you tried to flip it during a presentation, you already know why heavyweight matters. These Flash cards solve that specific problem — and a few others — without pretending to be something they're not.

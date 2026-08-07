@@ -1,4 +1,5 @@
 ---
+
 title: "Jabsco Cyclone Stainless Steel Centrifugal Pump - Ideal for "
 seo_title: "Jabsco Cyclone Stainless Steel Centrifugal Pump -  Review"
 meta_description: "Our full jabsco cyclone stainless steel centrifugal pump - ideal for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01N44JCH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vayxUHRES._AC_SL1417_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the confusion first. The Jabsco Cyclone isn't a pool pump or a fish tank pump. It's a raw-water workhorse built for liveaboard sailors, RV owners who boondock near water sources, and anyone who needs to move a serious volume of water fast. At 4.0 stars from 200 buyers, it's not perfect — but for the right job, it's genuinely hard to beat.

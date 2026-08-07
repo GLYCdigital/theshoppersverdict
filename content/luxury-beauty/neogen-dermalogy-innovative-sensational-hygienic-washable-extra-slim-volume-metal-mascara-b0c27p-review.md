@@ -1,4 +1,5 @@
 ---
+
 title: "NEOGEN DERMALOGY Innovative Sensational Hygienic Washable Ex"
 seo_title: "NEOGEN DERMALOGY Innovative Sensational Hygienic W Review"
 meta_description: "Our full neogen dermalogy innovative sensational hygienic washable ex review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0C27PLZ3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yaZNaVl+L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The "Hygienic" Mascara That Actually Walks the Talk

@@ -1,4 +1,5 @@
 ---
+
 title: "Grow Lights for Indoor Plants, Garpsen Grow Light with Red B"
 seo_title: "Grow Lights for Indoor Plants, Garpsen Grow Light  Review"
 meta_description: "Our full grow lights for indoor plants, garpsen grow light with red b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL7PRZBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QIGEGFgGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Garpsen grow light a budget savior or a purple-light gimmick?** I've tested enough grow lights that claim "full spectrum" only to deliver weak blue-white glow that leaves seedlings reaching for the window. The Garpsen with Red+Blue takes the opposite approach — it's unapologetically purple, and that's exactly why it works for a specific type of indoor gardener.

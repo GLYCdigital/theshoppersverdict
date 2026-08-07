@@ -1,4 +1,5 @@
 ---
+
 title: "ZETAWALE UV Light Sanitizer, Ultraviolet Lamp with Remote Co"
 seo_title: "ZETAWALE UV Light Sanitizer, Ultraviolet Lamp with Review"
 meta_description: "Our full zetawale uv light sanitizer, ultraviolet lamp with remote co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FKMT95D2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AzrQsckLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the ZETAWALE UV Light Sanitizer: this is a UV-C lamp that works exactly as advertised—when you point it at something, it sanitizes that surface. The problem is that "as advertised" might not be what you actually need.

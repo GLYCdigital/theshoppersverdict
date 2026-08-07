@@ -1,4 +1,5 @@
 ---
+
 title: "DAYBETTER Tuya Smart Light Bulbs, RGBCW WiFi Color Changing"
 seo_title: "DAYBETTER Tuya Smart Bulbs Review: RGBCW WiFi Value"
 meta_description: "DAYBETTER Tuya RGBCW WiFi smart bulbs review: 16M colors, no hub needed, app control. See how they perform, where they fall short, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09PR7RJGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kFBuyYMXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True RGBCW five-channel LEDs deliver accurate whites (2700K-6500K) plus saturated colors without the pastel washout cheaper bulbs suffer"
   - "Direct WiFi connection means zero hub required — setup takes under 3 minutes if your router broadcasts 2.4GHz"
   - "Tuya ecosystem compatibility opens up Alexa, Google Home, and SmartThings scenes for hands-free automation"
-cons:
+cons: 
   - "2.4GHz-only WiFi will frustrate buyers with mesh routers that don't split bands — no 5GHz fallback"
   - "App onboarding sometimes requires disabling mobile data; a known Tuya quirk that trips up iPhone users"
   - "Lower CRI (~80) on white modes makes them poor for task lighting where color accuracy matters"
+
 ---
 
 Let's cut through the Amazon listing noise. The DAYBETTER Tuya Smart Bulbs claim 16 million colors, voice control, and scheduling — all for less than a fancy coffee per bulb. I've tested dozens of budget smart bulbs. Here's what this 4.3-star workhorse actually delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Windyun 4 Pack Kids Teepee Tent for Slumber Party with Mattr"
 seo_title: "Windyun 4 Pack Kids Teepee Tent for Slumber Party  Review"
 meta_description: "Our full windyun 4 pack kids teepee tent for slumber party with mattr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CTHC1WHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iWCiwicQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most kids' teepee sets are overpriced single tents with flimsy poles and a "premium" price tag. The Windyun 4-pack flips that script. For roughly the price of one designer teepee, you get four complete tents with mattresses. That's a math problem that actually works in your favor.

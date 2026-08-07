@@ -1,4 +1,5 @@
 ---
+
 title: "Vorthio Cloud Couch Sectional SPU8D-C"
 seo_title: "Vorthio Cloud Couch Sectional SPU8D-C Review: Verdict | T"
 meta_description: "Our full vorthio cloud couch sectional spu8d-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX6DBJV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ywkSlvZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Vorthio Cloud Couch SPU8D-C is the sofa that makes guests ask “where did you get that?” — until they try to move it.** That’s the tradeoff baked into this 4.1-star modular sectional. It delivers the trendy, deep-seat cloud aesthetic for a fraction of the designer price, but it demands assembly patience and a flexible attitude about floor clearance.

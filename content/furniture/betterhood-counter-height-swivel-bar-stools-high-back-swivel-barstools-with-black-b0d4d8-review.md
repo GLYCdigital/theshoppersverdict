@@ -1,4 +1,5 @@
 ---
+
 title: "Betterhood Counter Height Swivel Bar Stools - High Back Swiv"
 seo_title: "Betterhood Counter Height Swivel Bar Stools Review (2026)"
 meta_description: "Honest Betterhood counter height swivel bar stools review: comfort, build quality, and assembly. See if the high-back design fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4D84FSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81549UbomxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full high-back support with 360-degree swivel that actually glides smoothly on the gas lift mechanism"
   - "Sturdy 15.7-inch round footrest and weighted base keep it planted even when leaning back"
   - "Faux leather upholstery is easy to wipe clean and shows minimal wear after daily kitchen use"
-cons:
+cons: 
   - "Assembly takes about 45 minutes — the seat base bolts require an Allen wrench and patience to align"
   - "Faux leather can get sticky against bare legs in humid summer months"
   - Footrest height isn't adjustable, so shorter users (under 5'4 inch ") may find it awkward
+
 ---
 
 Let’s be real about bar stools: most look identical in the product photos, then arrive wobbly, squeaky, or too short for your counter. The Betterhood Counter Height Swivel Bar Stool with its high back and black upholstery is trying to break that cycle. After digging through 215 ratings and the build specs, here’s the honest breakdown.

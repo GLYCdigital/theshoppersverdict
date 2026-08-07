@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Games â€‹UNO Flip! Marvel Card Game for Kids"
 seo_title: "Mattel Games â€‹UNO Flip! Marvel Card Game for Kid Review"
 meta_description: "Our full mattel games â€‹uno flip! marvel card game for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8BZP72Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nfsvCafBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've played UNO more times than you can count, the Marvel Flip version doesn't just reskin the classic — it twists it into a genuinely different game. The core gimmick is simple: every card in the deck has two sides. One side is the familiar Light mode with standard colors and numbers. Flip the deck over, and you're in Dark mode — red and teal replace the classic palette, and the action cards get meaner. That single mechanic changes how you play, because the active side can flip mid-round and suddenly everyone's hand is worth something different.

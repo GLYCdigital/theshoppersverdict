@@ -1,4 +1,5 @@
 ---
+
 title: "Furniture Sliders, Furniture Sliders Pads for Hardwood Floor"
 seo_title: "Furniture Sliders for Hardwood Floors Review (2026): Do They Work?"
 meta_description: "Honest review of furniture sliders for hardwood floors. Tested on chairs, sofas & tables. See pros, cons, and whether these pads protect your floors."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMR834JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81isNdmZU9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Felt pads glide smoothly on hardwood without leaving scuff marks, even under heavy sofas"
   - "Self-adhesive backing holds firmly through months of daily chair movement"
   - "Thick felt layer (approx. 3mm) absorbs impact, reducing noise when furniture is set down"
-cons:
+cons: 
   - "Adhesive can struggle on uneven or textured furniture legs — clean surfaces thoroughly first"
   - "Not designed for thick-pile carpet; stick to hard flooring surfaces"
+
 ---
 
 If you've ever tried to rearrange a living room solo, you know the sound: that awful *screech* of chair legs dragging across hardwood, followed by the inspection for new scratches. This furniture slider set aims to end that cycle.

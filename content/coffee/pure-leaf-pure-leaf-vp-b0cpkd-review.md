@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Leaf Pure Leaf VP"
 seo_title: "Pure Leaf Pure Leaf VP Review: Verdict | TSV"
 meta_description: "Our full pure leaf pure leaf vp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPKDL68H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yN0ddH0FL._SL1050_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

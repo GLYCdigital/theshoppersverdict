@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Busy Made in USA Facilities Small Breed Dog Bones"
 seo_title: "Purina Busy Made in USA Facilities Small Breed Dog Review"
 meta_description: "Our full purina busy made in usa facilities small breed dog bones review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL6Z33PD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RRLZgSZxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you've got a small dog that destroys every chew toy in under ten minutes, the Purina Busy Made in USA Facilities Small Breed Dog Bones are worth a serious look. These aren't your average flimsy dental sticks — they're engineered to last, made with recognizable ingredients, and backed by 229 ratings averaging 4.6 stars. But they're not perfect, and there are a few things you should know before adding them to your cart.

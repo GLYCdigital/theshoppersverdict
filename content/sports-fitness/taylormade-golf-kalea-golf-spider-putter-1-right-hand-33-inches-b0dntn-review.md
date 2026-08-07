@@ -1,4 +1,5 @@
 ---
+
 title: "TaylorMade Golf Kalea Golf Spider Putter #1 Right Hand 33 In"
 seo_title: "TaylorMade Golf Kalea Golf Spider Putter #1 Right  Review"
 meta_description: "Our full taylormade golf kalea golf spider putter #1 right hand 33 in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DNTNQ8MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IEsNDs5eL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The #1 putter on the LPGA tour just got a women's-specific makeover — and it's a game-changer for mid-handicappers.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Barrina LED Shop Light 4FT"
 seo_title: "Barrina LED Shop Light 4FT Review: Worth It? (2026)"
 meta_description: "Barrina LED Shop Light 4FT review: 25,000+ ratings, 4.7 stars. Covers brightness, install, wiring, and real buyer feedback. Is it right for your garage?"
@@ -11,14 +12,15 @@ review_count: 25183
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DNPL2VC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51p1Rc2CUwL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Links together with included cables — no junction box or electrician needed for most installs"
   - "5000K daylight color makes small garages and workshops feel like a surgical suite"
   - "At under $15 per 4-foot fixture, it undercuts big-box store prices by half"
-cons:
+cons: 
   - "Non-replaceable LED panels mean the whole fixture dies when the diodes eventually fade"
   - "The included clips feel flimsy; several buyers report them cracking in cold garages"
   - "No dimming or motion-sensing options on this model — you get on/off and that's it"
+
 ---
 
 You've got a garage that feels like a cave, a workshop where you're squinting at measurements, or a basement that's been depressing since 1998. The Barrina LED Shop Light 4FT is the most popular fix for that, and with 25,000+ ratings holding a 4.7-star average, it's not just popular — it's proven. But is it the right light for *your* space? Let's break it down.

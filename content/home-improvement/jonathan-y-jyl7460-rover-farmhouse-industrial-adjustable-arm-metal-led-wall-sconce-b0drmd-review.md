@@ -1,4 +1,5 @@
 ---
+
 title: "JONATHAN Y JYL7460 Rover Farmhouse Industrial Adjustable Arm"
 seo_title: "JONATHAN Y JYL7460 Rover Farmhouse Industrial Adju Review"
 meta_description: "Our full jonathan y jyl7460 rover farmhouse industrial adjustable arm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRMD47GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615X-xTW+UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been hunting for a wall sconce that actually swings, points, and behaves like a task light rather than a decorative afterthought, the JONATHAN Y Rover is worth a hard look. At $84.78, it sits mid-pack on price — not cheap, not premium — but the adjustability is what separates it from the sea of fixed-arm farmhouse fixtures.

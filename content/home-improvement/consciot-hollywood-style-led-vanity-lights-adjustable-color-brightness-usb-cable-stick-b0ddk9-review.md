@@ -1,4 +1,5 @@
 ---
+
 title: "Consciot Hollywood Style LED Vanity Lights, Adjustable Color"
 seo_title: "Consciot Hollywood LED Vanity Lights Review: Bright & Adjustable"
 meta_description: "Consciot Hollywood LED vanity lights review: adjustable color temp, dimmable, USB-C powered. See if these 6000K-3000K bulbs fit your makeup mirror setup."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDK9HGFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pBQo2fVXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three color temperatures (3000K/4500K/6000K) with stepless dimming from 10% to 100% — enough range for everything from warm evening makeup to bright daylight looks"
   - "Adhesive-backed stick-on installation takes under 10 minutes — no hardwiring, no electrician, no wall damage beyond a sticker"
   - "Powered by a single USB-C cable (5V/2A), so you can run it from a laptop brick, power bank, or existing wall adapter"
-cons:
+cons: 
   - "Adhesive strips are the only mounting option — if your mirror has a textured or non-flat surface, you'll need to supply your own heavy-duty tape or command strips"
   - "USB-C cord is short (around 6 feet) and the power adapter isn't included — budget for one if you don't have a spare 5V/2A brick lying around"
+
 ---
 
 If you've ever tried to apply makeup under a single overhead bulb, you already know the problem — shadows on your face, colors that look wrong, and the constant lean-in to the mirror. The Consciot Hollywood Style LED Vanity Lights exist to fix that, and at 4.5 stars across 225 ratings, they're clearly doing something right. The question is whether stick-on LED strips can actually replace a hardwired vanity fixture. Short answer: for most people, yes — with a couple of caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "OLIGHT Arkfeld Pro Rechargeable EDC Flat Flashlight with UV "
 seo_title: "OLIGHT Arkfeld Pro Rechargeable EDC Flat Flashligh Review"
 meta_description: "Our full olight arkfeld pro rechargeable edc flat flashlight with uv  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDPH4PBR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J0X-uJG+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OLIGHT Arkfeld Pro isn't trying to be your grandfather's flashlight. It's a flat, machined-aluminum slab that disappears into a jeans pocket, yet throws 1300 lumens when you need it. After 229 Amazon ratings averaging 4.6 stars, the consensus is clear: this is one of the most thoughtfully designed EDC lights on the market. But "thoughtfully designed" doesn't mean "perfect for everyone" — here's the real breakdown.

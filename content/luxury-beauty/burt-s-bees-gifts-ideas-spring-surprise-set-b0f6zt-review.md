@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees Gifts Ideas - Spring Surprise Set"
 seo_title: "Burt's Bees Spring Surprise Set Review: Worth It? (2026)"
 meta_description: "Honest Burt's Bees Spring Surprise Set review: what's inside, real customer feedback, and whether this 4.6-star gift set is worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6ZTFCXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q9-fvTBIL._SL1500_.jpg"
-pros:
+pros: 
   - "Includes 4-6 full-size products (varies by batch) — real value, not sample sachets"
   - "Classic beeswax lip balm formula that's been a cult favorite for decades"
   - "Spring-themed packaging that's genuinely gift-ready without extra wrapping"
-cons:
+cons: 
   - "Contents vary by batch — you can't guarantee which scents or products you'll receive"
   - "No gift box insert or card, so you'll need to add a note yourself"
   - "Some buyers report receiving mostly lip balms when expecting more variety"
+
 ---
 
 Let's be real about gift sets: most are overpriced cardboard with a few foil packets of lotion tossed in. The Burt's Bees Spring Surprise Set isn't that. With a 4.6-star average across 229 ratings, this is one of those rare gift boxes where the actual products justify the price.

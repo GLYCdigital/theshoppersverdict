@@ -1,15 +1,16 @@
 ---
+
 title: "Puroma 2 Pack Combination Lock for Locker 4 Digit Outdoor Waterproof Padlock for School, Gym, Sports, Fence, Toolbox, Gate, Case, Outdoor, Hasp Storage (Black)"
 seo_title: "Puroma 2 Pack Review: Verdict (4.5/5) | TSV"
 meta_description: "Cute Locks and Good Quality I really liked these combination locks because 32,170+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "puroma-2-pack-combination-lock-for-locker-4-digit-outdoor-waterproof-padlock-review"
 image_alt: "Puroma 2 Pack Combination Lock for Locker 4 Digit Outdoor Waterproof Padlock for School, Gym, Sports, Fence, Toolbox, Ga"
-keywords:
+keywords: 
   - "puroma 2 pack review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Puroma 2 Pack Combination?"
     answer: "Cute Locks and Good Quality I really liked these combination locks because they actually look cute compar... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Puroma 2 Pack Combination?"
@@ -22,12 +23,13 @@ review_count: 32170
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B075DFPR2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fs8qL6YNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cute Locks and Good Quality I really liked these combination locks because they actually look cute c."
   - "Not heavy for the sake of weight."
   - "A simple lock that honestly blew my mind I went in expecting a basic."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let’s be direct: most padlocks under $15 are junk. The Puroma 2-pack isn’t. With 32,000+ ratings holding a 4.5-star average, this is one of those rare budget buys that actually performs. But it’s not without compromises — here’s the full breakdown before you click “add to cart.”

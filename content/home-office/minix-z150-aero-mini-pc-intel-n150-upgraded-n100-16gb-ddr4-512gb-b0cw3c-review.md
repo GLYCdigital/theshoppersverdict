@@ -1,4 +1,5 @@
 ---
+
 title: "MINIX Z150-Aero Mini PC, Intel N150 (Upgraded N100), 16GB DD"
 seo_title: "MINIX Z150-Aero Mini PC, Intel N150 (Upgraded N100 Review"
 meta_description: "Our full minix z150-aero mini pc, intel n150 (upgraded n100), 16gb dd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CW3C5T1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xfb5lWetL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MINIX Z150-Aero isn't the cheapest N150 mini PC you can buy. It's not the fastest either. What it is, is the most complete package for someone who wants a tiny desktop that just works — with enough ports to grow into a home server later.**

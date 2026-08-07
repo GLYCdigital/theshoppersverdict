@@ -1,4 +1,5 @@
 ---
+
 title: "Dragon Glassware Wave Wine Glasses"
 seo_title: "Dragon Glassware Wave Wine Glasses Review: Are They Worth It?"
 meta_description: "Dragon Glassware Wave Wine Glasses review: hand-blown borosilicate glass, ergonomic design, and real durability tested. See pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QF6143N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GbANEPxuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hand-blown borosilicate glass is thermal-shock resistant; survives dishwasher and hot-water rinses without cracking"
   - "Ergonomic curved stem fits fingers naturally — reduces grip fatigue during long pours or tasting sessions"
   - "Thin 0.9mm rim delivers clean wine flow without the thick-lipped feel of cheaper glasses"
-cons:
+cons: 
   - "Hand-blown nature means each glass varies slightly in height and bowl volume — not ideal for exact-pour entertaining"
   - "Borosilicate glass is more brittle than tempered soda-lime; drops on tile are more likely to shatter into larger shards"
+
 ---
 
 # Dragon Glassware Wave Wine Glasses: The Hand-Blown Set That Actually Holds Up

@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA Gaming Desk 70.8'' with LED Lights and Storage Shelve"
 seo_title: "SEDETA Gaming Desk 70.8'' with LED Lights and Stor Review"
 meta_description: "Our full sedeta gaming desk 70.8'' with led lights and storage shelve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9HYMDNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uLTGJ+1aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most gaming desks under $200 are wobbly particleboard traps that sag under a second monitor. The SEDETA 70.8-inch model isn't that — but it's also not a $500 premium rig. Here's what 235 buyers (averaging 4.7 stars) actually found when they unboxed this thing.

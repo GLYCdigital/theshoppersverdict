@@ -1,4 +1,5 @@
 ---
+
 title: "4711 Muelhens"
 seo_title: "4711 Muelhens Review: Classic Eau de Cologne Still Worth It"
 meta_description: "Our 4711 Muelhens review: Does this 230-year-old cologne hold up? We break down scent, longevity, and value in this honest 4.6-star analysis."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6L9NTYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H5sjTcwKL._SL1063_.jpg"
-pros:
+pros: 
   - "Authentic 230-year-old formula that still smells fresh and clean — not dated or musty"
   - "Versatile unisex scent that works as a body splash, aftershave, or linen refresher"
   - "Large bottle format delivers real value per use compared to niche colognes"
-cons:
+cons: 
   - "Longevity is genuinely short — expect 1–3 hours before it fades to a skin scent"
   - "Sillage is intimate; this is not a projection monster, so don't expect compliments from across the room"
+
 ---
 
 # 4711 Muelhens Review: Is This 230-Year-Old Cologne Still Worth Buying?

@@ -1,4 +1,5 @@
 ---
+
 title: "Fisher-Price Little People Toddler Toy Disney Princess Moana"
 seo_title: "Fisher-Price Little People Moana & Maui's Canoe Review (2026)"
 meta_description: "Honest Fisher-Price Little People Moana & Maui's Canoe review: build quality, play value, toddler safety, and who should buy this 4.9-star Disney toy."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BLJPNGSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Pykeyt5fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two adorable Little People figures (Moana and Pua) sized perfectly for small hands at 1-3 years"
   - "Canoe boat actually floats in water — expands play beyond just floor time"
   - "Fisher-Price durability holds up to drops, throws, and teething; no small parts to worry about"
-cons:
+cons: 
   - "Pua the pig is a separate figure but Maui is conspicuously absent — kids who love the movie may ask where he is"
   - "Canoe has no sounds or lights; some toddlers lose interest faster without sensory feedback"
   - "Figures are small enough to get lost easily; consider a storage bin if you're buying as a gift"
+
 ---
 
 If your toddler has watched *Moana* roughly 47 times (no judgment — our house is the same), this Little People playset is about to become the MVP of your toy rotation. But here's the thing: it's not just a licensed cash-in. It's a genuinely well-designed toy that respects how toddlers actually play.

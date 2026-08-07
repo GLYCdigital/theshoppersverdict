@@ -1,7 +1,8 @@
 ---
-title: "Habitech 1/4\" Irrigation Dripline Tubing (100 Ft Roll) - 6\" "
-seo_title: "Habitech 1/4\" Irrigation Dripline Tubing (100 Ft R Review"
-meta_description: "Our full habitech 1/4\" irrigation dripline tubing (100 ft roll) - 6\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Habitech 1/4\ Irrigation Dripline Tubing (100 Ft Roll) - 6\ "
+seo_title: "Habitech 1/4\ Irrigation Dripline Tubing (100 Ft R Review"
+meta_description: "Our full habitech 1/4\ irrigation dripline tubing (100 ft roll) - 6\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "habitech-1-4-irrigation-dripline-tubing-100-ft-roll-6-emitter-spacing-b09vtn-review"
 image_alt: "Habitech 1/4 Irrigation Dripline Tubing (100 Ft Roll) - 6 Emitter Spacing - 1/4 Drip Irrigation Fittings Included"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09VTNG1FS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wE4zdSedL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most 1/4" dripline tubing on Amazon is cheap, brittle, and frustrating. The Habitech 100-foot roll with 6-inch emitter spacing is not that. It's the tubing I'd actually recommend to someone who wants a working drip system without a headache.

@@ -1,7 +1,8 @@
 ---
-title: "Worx 40V 14\" Cordless Lawn Mower for Small Yards, 2-in-1 Ele"
-seo_title: "Worx 40V 14\" Cordless Lawn Mower for Small Yards,  Review"
-meta_description: "Our full worx 40v 14\" cordless lawn mower for small yards, 2-in-1 ele review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Worx 40V 14\ Cordless Lawn Mower for Small Yards, 2-in-1 Ele"
+seo_title: "Worx 40V 14\ Cordless Lawn Mower for Small Yards,  Review"
+meta_description: "Our full worx 40v 14\ cordless lawn mower for small yards, 2-in-1 ele review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "worx-40v-14-cordless-lawn-mower-for-small-yards-2-in-1-b0fg89-review"
 image_alt: "Worx 40V 14 Cordless Lawn Mower for Small Yards, 2-in-1 Electric Mower Cuts Quietly, Compact & Lightweight Push Lawn Mow"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FG892N3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: a 14-inch cordless mower is a compromise. But for the right buyer, the Worx 40V is the best compromise you can make without spending $400+ on a gas mower you'll use twice a month.

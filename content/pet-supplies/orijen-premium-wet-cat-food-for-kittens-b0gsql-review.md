@@ -1,4 +1,5 @@
 ---
+
 title: "ORIJEN Premium Wet Cat Food for Kittens"
 seo_title: "ORIJEN Premium Wet Cat Food for Kittens Review: Verdict |"
 meta_description: "Our full orijen premium wet cat food for kittens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSQLMXH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oZpQe8joL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: ORIJEN isn't cheap, and it doesn't pretend to be. But if you're feeding a growing kitten, you're not just buying food — you're buying the foundation for their entire adult health. Here's what 220 Amazon reviewers (averaging 4.4 stars) are saying about whether it's worth it.

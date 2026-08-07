@@ -1,17 +1,18 @@
 ---
+
 title: "Amazon Basics Office Stapler with 1000 Staples, 25-Sheet Capacity"
 seo_title: "Amazon Basics Stapler Review: 4.6★ Office Essential at $6.31"
 meta_description: "Our full Amazon Basics Office Stapler review. 4.6 stars from 52,000+ ratings. 25-sheet capacity, non-slip base, and 1000 staples included for just $6.31."
 slug: "amazon-basics-office-stapler-review"
 image_alt: "Amazon Basics Office Stapler with 1000 Staples, 25 Sheet Capacity, Non-Slip, Black"
-keywords:
+keywords: 
   - "Amazon Basics stapler review"
   - "budget office stapler"
   - "best desk stapler"
   - "Amazon Basics office supplies review"
   - "affordable stapler for home office"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "How many sheets can the Amazon Basics stapler actually staple?"
     answer: "Advertised at 25 sheets, but multiple reviewers report success stapling 29-30 sheets. The crimp remains strong enough to hold even at the higher count."
   - question: "Is the Amazon Basics stapler good for heavy office use?"
@@ -26,15 +27,16 @@ review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORqgJajrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Punching above its weight — rated 25 sheets, reliably handles 29-30 without issues"
   - "1000 staples included in the box means months of use before a refill"
   - "Non-slip base keeps the stapler planted on your desk, no sliding around"
   - "Smooth, jam-free operation with easy bottom-loading mechanism"
-cons:
+cons: 
   - "All-plastic construction won't survive being knocked off a desk onto concrete"
   - "Not built for heavy commercial use — light to moderate is its sweet spot"
   - "No ergonomic grip or soft-touch surfaces; it's functional, not fancy"
+
 ---
 
 Let's be honest: most staplers under $10 are disposable junk. The Amazon Basics Office Stapler isn't. With 52,636 ratings and a 4.6-star average, this $6.31 tool has earned its place in thousands of home offices and cubicles. But is it actually good, or just cheap enough that nobody complains? I dug into the specs, the reviews, and the real-world performance to give you the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "WorthFurni 89 Inch Sofa Couch, Modern 3 Seater Couch with Re"
 seo_title: "WorthFurni 89 Inch Sofa Couch, Modern 3 Seater Cou Review"
 meta_description: "Our full worthfurni 89 inch sofa couch, modern 3 seater couch with re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DGX97BRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91cVaDyfhzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 4.0-star sofa with zero ratings is a blank slate — no crowdsourced wisdom to lean on, just specs and a price point. The Worthfurni 89-inch modern 3-seater falls squarely in the "budget-friendly, looks expensive" category, but does it survive the couch test? I've broken down the construction, the comfort math, and the practical realities so you know exactly what's landing in your living room.

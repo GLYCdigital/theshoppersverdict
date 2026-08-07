@@ -1,7 +1,8 @@
 ---
-title: "HP 17.3\" Touchscreen Laptop for Home, Students, Lifetime Off"
-seo_title: "HP 17.3\" Touchscreen Laptop for Home, Students, Li Review"
-meta_description: "Our full hp 17.3\" touchscreen laptop for home, students, lifetime off review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17.3\ Touchscreen Laptop for Home, Students, Lifetime Off"
+seo_title: "HP 17.3\ Touchscreen Laptop for Home, Students, Li Review"
+meta_description: "Our full hp 17.3\ touchscreen laptop for home, students, lifetime off review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17-3-touchscreen-laptop-for-home-students-lifetime-office-365-for-b0dp5f-review"
 image_alt: "HP 17.3 Touchscreen Laptop for Home, Students, Lifetime Office 365 for The Web, Intel i3 CPU, 32GB RAM, 1TB PCIe + 128GB"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP5FHXQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aHeA5XVsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 17.3-inch touchscreen laptop with lifetime Office 365 sounds too good to be true at this price. Let's find out what HP actually delivers.

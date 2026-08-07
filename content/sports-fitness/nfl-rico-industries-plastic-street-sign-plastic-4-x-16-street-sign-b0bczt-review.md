@@ -1,7 +1,8 @@
 ---
-title: "NFL Rico Industries Plastic Street Sign Plastic 4\" x 16\" Str"
-seo_title: "NFL Rico Industries Plastic Street Sign Plastic 4\" Review"
-meta_description: "Our full nfl rico industries plastic street sign plastic 4\" x 16\" str review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "NFL Rico Industries Plastic Street Sign Plastic 4\ x 16\ Str"
+seo_title: "NFL Rico Industries Plastic Street Sign Plastic 4\ Review"
+meta_description: "Our full nfl rico industries plastic street sign plastic 4\ x 16\ str review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nfl-rico-industries-plastic-street-sign-plastic-4-x-16-street-sign-b0bczt-review"
 image_alt: "NFL Rico Industries Plastic Street Sign Plastic 4 x 16 Street Sign"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BCZTD9J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gnP0E+HoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: a 4x16-inch plastic street sign for your favorite NFL team. It's not a jersey, not a helmet, not a piece of memorabilia that'll appreciate in value. But if you want to broadcast your fandom from your yard, garage, or man cave wall, this little sign does the job better than most.

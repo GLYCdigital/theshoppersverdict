@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStation Pulse Elite Wireless Headset"
 seo_title: "PlayStation Pulse Elite Wireless Headset Review: Verdict "
 meta_description: "Our full playstation pulse elite wireless headset review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CMDH9M5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619NnSrYabL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Sony's Mid-Tier Bet: Planar Audio Without the Price Tag

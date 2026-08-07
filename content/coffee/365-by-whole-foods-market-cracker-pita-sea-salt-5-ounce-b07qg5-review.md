@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market Cracker Pita Sea Salt 5 Ounce B07Qg5 Review"
 seo_title: "365 Whole Foods Pita Crackers Review: Sea Salt, 5 oz"
 meta_description: "Honest 365 Whole Foods Market Sea Salt Pita Crackers review: crunch, ingredients, and value. See if these 5-oz crackers earn a spot in your pantry."
@@ -11,13 +12,14 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/None/?tag=tsvglyc-20"
 amazon_image: ""
-pros:
+pros: 
   - "Clean ingredient list with no artificial preservatives or hydrogenated oils — just enriched wheat flour, olive oil, and sea salt"
   - "Sturdy, crunchy texture that holds up to thick dips and hummus without snapping mid-scoop"
   - "Light, flaky layers with a subtle olive oil finish — not greasy, not dry"
-cons:
+cons: 
   - "5-ounce box goes fast — roughly 30 crackers — which makes the per-serving cost higher than standard grocery store crackers"
   - "Sea salt flavor is conservative; if you're chasing a bold salty kick, you'll likely reach for the salt shaker"
+
 ---
 
 **Skip this if you want a loud, aggressively salty cracker. Stick around if you want something quietly dependable.**

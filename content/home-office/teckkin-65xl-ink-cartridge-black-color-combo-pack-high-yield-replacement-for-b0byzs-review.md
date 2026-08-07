@@ -1,4 +1,5 @@
 ---
+
 title: "TECKKIN 65XL Ink Cartridge Black/Color Combo Pack High Yield"
 seo_title: "TECKKIN 65XL Ink Cartridge Black/Color Combo Pack  Review"
 meta_description: "Our full teckkin 65xl ink cartridge black/color combo pack high yield review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYZSZQRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l9TLsv90L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 65XL cartridge is the workhorse of HP's mid-range inkjet lineup, and TECKKIN's high-yield combo pack targets the two biggest pain points: cost and frequency of replacement.**

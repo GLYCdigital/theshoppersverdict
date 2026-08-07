@@ -1,4 +1,5 @@
 ---
+
 title: "Deyidn Sputnik Chandeliers Modern Industrial E26 Chandeliers"
 seo_title: "Deyidn Sputnik Chandelier Review: Worth It? (2026)"
 meta_description: "Honest Deyidn Sputnik chandelier review: build quality, installation tips, and bulb requirements. Is this $54 mid-century fixture worth the hype? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4R17X6N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713TC1BhlML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine mid-century Sputnik silhouette at a price that undercuts big-box stores by 50% or more"
   - "E26 standard socket means you can use Edison bulbs, LED globes, or smart bulbs—no proprietary hardware lock-in"
   - "Solid steel arms with a matte black finish that resists fingerprints and chips during handling"
-cons:
+cons: 
   - "Bulbs are NOT included—factor in $15–$25 for a set of quality Edison or globe bulbs"
   - "The canopy covers a standard 4-inch junction box but feels thin—use the included anchor if mounting to drywall"
   - "Arms are fixed at the factory; you can't adjust the angle to fit low ceilings without cutting the rods"
+
 ---
 
 The Sputnik chandelier is having a serious moment, and the Deyidn version is one of the most popular ways to get that look without emptying your wallet. At $53.99 with a 4.7-star average across 235 ratings, it's positioned squarely in the "affordable statement piece" territory. But does it hold up as a permanent fixture, or is it just a cheap knockoff that'll wobble after six months? I've dug through the specs, the customer feedback, and the installation realities. Here's the honest breakdown.

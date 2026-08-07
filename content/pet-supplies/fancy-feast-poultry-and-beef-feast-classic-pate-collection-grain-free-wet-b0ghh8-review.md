@@ -1,4 +1,5 @@
 ---
+
 title: "Fancy Feast Poultry and Beef Feast Classic Pate Collection G"
 seo_title: "Fancy Feast Poultry & Beef Pate Review: Is It Worth It?"
 meta_description: "Fancy Feast Poultry and Beef Classic Pate Collection G review: 4.7-star wet cat food. Flavor variety, texture, and value analyzed for picky eaters."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHH8JXR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oqk+lTFwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, uniform pate texture that mixes easily with water for cats who need extra hydration"
   - "Grain-free formula with real poultry and beef as first ingredients—no corn, wheat, or soy fillers"
   - "Variety pack format (typically 24 cans) lets you rotate flavors without committing to a case of one"
-cons:
+cons: 
   - "Strong fish-based aroma in some recipes that sensitive humans may find off-putting"
   - "Cans are small (3 oz), so large breed cats or multi-cat households will go through the case quickly"
+
 ---
 
 Let’s be honest about cat food: your cat doesn’t care about the label, but you do. The Fancy Feast Classic Pate Collection G (poultry and beef flavors) sits in an interesting spot—it’s a grocery-store brand with a surprisingly loyal following among picky eaters. At 4.7 stars from 235 Amazon ratings, it’s clearly doing something right. Here’s the breakdown.

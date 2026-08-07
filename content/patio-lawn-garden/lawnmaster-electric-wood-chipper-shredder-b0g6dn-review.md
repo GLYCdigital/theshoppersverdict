@@ -1,4 +1,5 @@
 ---
+
 title: "LawnMaster Electric Wood Chipper Shredder"
 seo_title: "LawnMaster Electric Wood Chipper Shredder Review: Verdict"
 meta_description: "Our full lawnmaster electric wood chipper shredder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G6DNQMJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lPJPwOyKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a season's worth of pruned branches and thinking about another trip to the dump, the LawnMaster Electric Wood Chipper Shredder is the machine that might finally break that cycle. With a 4.2-star average across 210 ratings, it's clearly earning its keep in suburban yards — but it's not without compromises. Here's the real story.

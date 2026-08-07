@@ -1,4 +1,5 @@
 ---
+
 title: "Concealed Face Frame Kitchen Cabinet Door Hinges Soft Close;"
 seo_title: "Concealed Face Frame Cabinet Hinges Review (2026): Soft Close"
 meta_description: "Honest review of concealed face frame cabinet hinges with soft close. Covers installation, adjustability, and durability. See if they fit your cabinets."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MXY3S3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fMDUGhJWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated soft-close damper actually works — no slamming, even on heavy solid-wood doors"
   - "Three-way adjustment (up/down, left/right, in/out) makes alignment painless"
   - "Full-overlay 105° opening suits standard face-frame cabinets perfectly"
-cons:
+cons: 
   - "Installing the plastic mounting plate requires careful alignment — no room for error"
   - "Not self-closing; you still need to push the door most of the way shut"
+
 ---
 
 Let’s be direct: if you’re remodeling a kitchen or replacing those dated exposed hinges, these concealed face frame hinges are the upgrade you’ve been putting off. At 4.6 stars from 229 ratings, they’ve earned their place in the conversation — but they’re not magic. Here’s what you need to know before you buy.

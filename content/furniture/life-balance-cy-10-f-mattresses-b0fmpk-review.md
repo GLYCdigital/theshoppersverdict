@@ -1,4 +1,5 @@
 ---
+
 title: "Life Balance CY-10-F mattresses"
 seo_title: "Life Balance CY-10-F mattresses Review: Verdict | TSV"
 meta_description: "Our full life balance cy-10-f mattresses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMPKT47M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ASkzy1vcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The mattress category is crowded with boxed beds making big promises. The Life Balance CY-10-F stands out for one simple reason: it does the basics exceptionally well. With 225 ratings averaging 4.5 stars, this isn't a flashy pick — it's the dependable one. Here's what you actually need to know before you buy.

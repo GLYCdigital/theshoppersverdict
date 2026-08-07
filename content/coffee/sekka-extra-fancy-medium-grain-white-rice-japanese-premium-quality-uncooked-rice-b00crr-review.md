@@ -1,4 +1,5 @@
 ---
+
 title: "SEKKA Extra Fancy Medium Grain white Rice - Japanese Premium"
 seo_title: "SEKKA Extra Fancy Medium Grain white Rice - Japane Review"
 meta_description: "Our full sekka extra fancy medium grain white rice - japanese premium review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00CRR70WA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vqXO-78ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: not all medium-grain rice is created equal, and the SEKKA Extra Fancy proves it with every batch. This is the rice you see in high-end sushi counters and upscale Japanese restaurants, and after 229 Amazon ratings averaging 4.6 stars, it's clear I'm not the only one who noticed.

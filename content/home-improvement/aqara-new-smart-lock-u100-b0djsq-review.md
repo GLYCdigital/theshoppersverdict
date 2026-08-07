@@ -1,4 +1,5 @@
 ---
+
 title: "Aqara New Smart Lock U100 inch"
 seo_title: "Aqara Smart Lock U100 Review: Fingerprint, Apple HomeKey & More"
 meta_description: "Aqara Smart Lock U100 review: fingerprint, Apple HomeKey, keypad, and Matter support. Is it worth it? Pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJSQ6MQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xd5LTPrTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fingerprint reader is genuinely fast and accurate — unlocks in under a second, works 9 out of 10 times even with slightly damp fingers"
   - "Apple HomeKey support means you can tap your iPhone or Apple Watch to unlock, no app needed — a feature rarely found at this price point"
   - "Built-in Matter support gives you flexibility across Apple, Google, and Alexa ecosystems without needing the Aqara hub"
-cons:
+cons: 
   - Installation is more involved than a standard deadbolt swap — you'll need to drill new holes if your existing deadbolt isn't a standard 2-3/8 inch " or 2-3/4 inch " backset
   - "The included backup keys are basic and the keyhole is hidden under the bottom cover — if the lock's electronics fail, you'll need to fiddle with a cover plate in the dark"
   - "Battery life is advertised at 8 months, but real-world usage with frequent fingerprint scans and Bluetooth connectivity will likely get you closer to 5-6 months"
+
 ---
 
 **The Aqara U100 is the closest thing to a "just works" smart lock for Apple users — but it's not plug-and-play for every door.**

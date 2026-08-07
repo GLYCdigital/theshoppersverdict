@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports 30 Inch Table Top Air Hockey Game for Kids - Oak or"
 seo_title: "GoSports 30 Inch Table Top Air Hockey Game for Kid Review"
 meta_description: "Our full gosports 30 inch table top air hockey game for kids - oak or review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CLTLT5VW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816IFUmEw8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GoSports 30" Table Top Air Hockey: The Honest Breakdown

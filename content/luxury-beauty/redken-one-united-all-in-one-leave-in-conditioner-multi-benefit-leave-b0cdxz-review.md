@@ -1,4 +1,5 @@
 ---
+
 title: "Redken One United All-In-One Leave In Conditioner - Multi-Be"
 seo_title: "Redken One United All-In-One Leave In Conditioner  Review"
 meta_description: "Our full redken one united all-in-one leave in conditioner - multi-be review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDXZRH96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6196P-EExpL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. Redken claims One United does 25 things at once. That's a bold number, and most beauty brands throw it around carelessly. But after digging into the formula, the ingredient list, and what 229 Amazon reviewers actually say, I can tell you this: the hype is mostly justified — with a few caveats you should know about before you hit "add to cart."

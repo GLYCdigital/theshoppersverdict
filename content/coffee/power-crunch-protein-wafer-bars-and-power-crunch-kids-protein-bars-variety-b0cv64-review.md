@@ -1,4 +1,5 @@
 ---
+
 title: "Power Crunch Protein Wafer Bars and Power Crunch KIDS Protei"
 seo_title: "Power Crunch Protein Wafer Bars and Power Crunch K Review"
 meta_description: "Our full power crunch protein wafer bars and power crunch kids protei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CV644ZBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MS6Xe2WKL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Body:**

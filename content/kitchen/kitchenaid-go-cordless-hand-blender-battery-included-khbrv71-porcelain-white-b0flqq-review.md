@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid Go Cordless Hand Blender - battery included, KHBR"
 seo_title: "KitchenAid Go Cordless Hand Blender - battery incl Review"
 meta_description: "Our full kitchenaid go cordless hand blender - battery included, khbr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLQQYH84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l+n0TkCwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the novelty: a cordless immersion blender only makes sense if it doesn't sacrifice the muscle you need for actual cooking. The KitchenAid Go Cordless Hand Blender mostly delivers on that promise, but it comes with a few tradeoffs you should know about before you hit "add to cart."

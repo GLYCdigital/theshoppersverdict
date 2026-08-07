@@ -1,4 +1,5 @@
 ---
+
 title: "Backlit Bluetooth Keyboard Small Portable Wireless Keyboard"
 seo_title: "Backlit Bluetooth Keyboard Review: Portable & Rechargeable (2026)"
 meta_description: "Our honest Backlit Bluetooth Keyboard review: compact, rechargeable, and backlit for Android/Samsung. See if this portable wireless keyboard is worth buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B8RZ26BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OX38EbGwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True scissor-switch keys with tactile feedback — not mushy membrane typing"
   - "Multi-device pairing (up to 3) with instant toggle buttons for phone/tablet/laptop"
   - "Rechargeable battery lasts weeks on a single charge with backlight off"
-cons:
+cons: 
   - "Backlight is single-color only — no RGB or brightness memory between sessions"
   - "No USB-C charging port; requires micro-USB cable from the box"
   - "Key spacing is tight for large hands — expect typos until you adjust"
+
 ---
 
 **The 2-Second Hook**

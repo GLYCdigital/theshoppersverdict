@@ -1,7 +1,8 @@
 ---
-title: "QieerHior Tall Narrow Bookshelf 6-Tier Bookcase,70.5\" Skinny"
+
+title: "QieerHior Tall Narrow Bookshelf 6-Tier Bookcase,70.5\ Skinny"
 seo_title: "QieerHior Tall Narrow Bookshelf 6-Tier Bookcase,70 Review"
-meta_description: "Our full qieerhior tall narrow bookshelf 6-tier bookcase,70.5\" skinny review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full qieerhior tall narrow bookshelf 6-tier bookcase,70.5\ skinny review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "qieerhior-tall-narrow-bookshelf-6-tier-bookcase-70-5-skinny-thin-corner-b0djvs-review"
 image_alt: "QieerHior Tall Narrow Bookshelf 6-Tier Bookcase,70.5 Skinny Thin Corner Shelf Slim Storage Cabinet,Wood DVD CD Media Cub"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJVSTVJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gNZbgUmjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bookshelf for the gap you didn't know you had**

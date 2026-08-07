@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair 4000D Airflow Tempered Glass"
 seo_title: "Corsair 4000D Airflow Review: Top-Tier Cooling for Builds"
 meta_description: "Corsair 4000D Airflow review: Excellent thermals, clean cable management, and premium build quality. See if this mid-tower case is right for your PC build."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2JJKGT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G42-MHRYL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Exceptional thermal performance thanks to the unrestricted mesh front panel and included 120mm airflow fans"
   - "Tool-free tempered glass side panel with a captive thumbscrew that won't get lost during builds"
   - "Excellent cable management with a 25mm cable routing channel and included Velcro straps"
-cons:
+cons: 
   - "Only comes with two fans — most builds will want to add at least one more for optimal airflow"
   - "Front panel USB-C port requires a compatible motherboard header, which many mid-range boards lack"
+
 ---
 
 Let's cut through the noise: the Corsair 4000D Airflow isn't the flashiest case on the market, and it doesn't need to be. With 235 ratings averaging 4.7 stars, it's become the default recommendation for good reason. After spending time with this case, I get it.

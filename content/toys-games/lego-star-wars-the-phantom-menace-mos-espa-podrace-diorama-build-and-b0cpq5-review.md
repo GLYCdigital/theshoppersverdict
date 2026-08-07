@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: The Phantom Menace Mos ESPA Podrace Diorama,"
 seo_title: "LEGO Star Wars: The Phantom Menace Mos ESPA Podrac Review"
 meta_description: "Our full lego star wars: the phantom menace mos espa podrace diorama, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPQ52PMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GcuJw9U2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Star Wars diorama line has been quietly building something special. The Mos Espa Podrace Diorama (set 75380) takes a moment from *The Phantom Menace* that's all motion and chaos and freezes it into a display piece that actually works. If you've been on the fence about this one, here's the real breakdown.

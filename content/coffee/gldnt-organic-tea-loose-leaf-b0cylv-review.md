@@ -1,4 +1,5 @@
 ---
+
 title: "GLDNT Organic Tea Loose Leaf"
 seo_title: "GLDNT Organic Tea Loose Leaf Review: Verdict | TSV"
 meta_description: "Our full gldnt organic tea loose leaf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CYLV8H59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Cg7kESGcL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the tea snobbery for a second. Most “organic loose leaf” on Amazon is rebranded commodity leaf packed in a warehouse last fiscal year. The GLDNT offering is different — and the 4.3-star average across 215 ratings backs that up, but it’s not perfect. Here’s the real breakdown.

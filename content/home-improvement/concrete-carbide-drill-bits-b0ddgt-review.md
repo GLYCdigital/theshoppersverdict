@@ -1,4 +1,5 @@
 ---
+
 title: "Concrete Carbide Drill Bits"
 seo_title: "Concrete Carbide Drill Bits Review: Honest 2026 Verdict"
 meta_description: "Our concrete carbide drill bits review covers real performance, durability, and value. See what 220 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDGTZWG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sg9Ag0PoL._SL1500_.jpg"
-pros:
+pros: 
   - "Tungsten carbide tips hold an edge through reinforced concrete and rebar strikes without chipping"
   - "Fluted shaft design clears dust efficiently, reducing bit binding in deep holes"
   - "Universal SDS-Plus shank fits all major rotary hammer brands — Bosch, DeWalt, Makita, Milwaukee"
-cons:
+cons: 
   - "Bits run noticeably shorter than the listed working length once the flute taper is accounted for"
   - "Larger diameters (1/2-inch and up) require a serious rotary hammer — a standard drill won't cut it"
+
 ---
 
 Let me cut through the noise: if you're hanging shelving on drywall, these bits are overkill. But if you're anchoring a deck ledger to a poured foundation or securing equipment to a concrete slab, this is the set you want in your bag.

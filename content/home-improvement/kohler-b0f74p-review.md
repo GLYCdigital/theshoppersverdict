@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler"
 seo_title: "Kohler Review: Verdict | TSV"
 meta_description: "Our full kohler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F74PDPLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41vouBoxeJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re remodeling a bathroom and want a fixture that doesn’t scream “builder-grade,” Kohler’s latest offering in this category punches above its price point. With a 4.6-star average across 229 ratings, it’s clearly earning its keep in real bathrooms — but let’s talk about what that rating actually means for you, not just the marketing sheet.

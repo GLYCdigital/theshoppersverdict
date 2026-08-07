@@ -1,4 +1,5 @@
 ---
+
 title: "Bain de Terre Passion Flower Color Preserving Shampoo, for V"
 seo_title: "Bain de Terre Passion Flower Shampoo Review: Color-Safe?"
 meta_description: "Bain de Terre Passion Flower Color Preserving Shampoo review: Does it protect vibrant color? We analyze ingredients, results, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDY9WG19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SBS8HNNCL._SL1500_.jpg"
-pros:
+pros: 
   - "Sulfate-free formula that gently cleanses without stripping color-treated hair"
   - "Passion flower extract and botanical blend deliver noticeable softness and shine"
   - "Rich, spa-like lather despite being sulfate-free — a rare find in color-safe shampoos"
-cons:
+cons: 
   - "Fragrance is strong and floral-forward — sensitive noses may find it overpowering"
   - "Pricier per ounce than drugstore color-safe alternatives"
+
 ---
 
 Let me be direct: most color-preserving shampoos are either too gentle to actually clean or too harsh to protect your investment. The Bain de Terre Passion Flower Color Preserving Shampoo claims to thread that needle. After digging through 229 ratings and analyzing the formula, here's the real story.

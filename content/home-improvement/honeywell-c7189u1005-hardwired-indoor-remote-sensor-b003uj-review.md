@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell C7189U1005 Hardwired Indoor Remote Sensor"
 seo_title: "Honeywell C7189U1005 Hardwired Indoor Remote Senso Review"
 meta_description: "Our full honeywell c7189u1005 hardwired indoor remote sensor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B003UJYZDG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZymU5rg+L._AC_SL1277_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the reality about the Honeywell C7189U1005: it's not a flashy product. It's a small white plastic puck that solves a genuinely annoying problem — the thermostat in your hallway says 72°F, but the bedroom where you actually sleep is 68°F. This sensor fixes that, but only if you have the right equipment already in place.

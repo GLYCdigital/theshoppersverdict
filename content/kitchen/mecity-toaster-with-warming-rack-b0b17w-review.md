@@ -1,4 +1,5 @@
 ---
+
 title: "Mecity Toaster With Warming Rack"
 seo_title: "Mecity Toaster With Warming Rack Review: Verdict | TSV"
 meta_description: "Our full mecity toaster with warming rack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B17WXZ76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612DgbHDT8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most toasters under $40 are the same gray plastic box with a heating element and a timer. The Mecity Toaster With Warming Rack actually tries to do something different — and for the most part, it works.

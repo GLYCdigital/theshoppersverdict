@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels Monster Trucks Track Set with 2 Toy Trucks: Overs"
 seo_title: "Hot Wheels Monster Trucks Track Set Review: Oversized Skelesaurus"
 meta_description: "Our honest Hot Wheels Monster Trucks Track Set review covers the Oversized Skelesaurus stunt set, 2 trucks, build quality, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPLC8GTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51N+VVDdmYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Oversized Skelesaurus figure doubles as a functional stunt ramp—two toys in one"
   - "Comes with two full-size monster trucks out of the box, no separate purchases needed"
   - "Crushable plastic cars add a satisfying crunch mechanic kids actually repeat"
-cons:
+cons: 
   - "Assembly requires adult help and takes roughly 15–20 minutes"
   - "Track pieces can disconnect if trucks land hard off the ramp"
+
 ---
 
 The first thing you notice about the Hot Wheels Monster Trucks Oversized Skelesaurus set is the sheer presence of it. This isn’t a flimsy fold-out mat with a plastic loop. The centerpiece is a large, articulated Skelesaurus skeleton—think dinosaur meets monster truck—that stands about two feet tall when assembled. Its jaw opens wide enough to swallow a standard Hot Wheels car, and its curved spine doubles as the launch ramp. That design choice is the smartest thing about this set: the ramp isn’t a separate piece that gets lost under the couch. It’s structurally part of the toy.

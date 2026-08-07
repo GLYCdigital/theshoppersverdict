@@ -1,4 +1,5 @@
 ---
+
 title: "KALOUR Drawing Sketching Kit Set - Pro Art Supplies with Ske"
 seo_title: "KALOUR Drawing Sketching Kit Set - Pro Art Supplie Review"
 meta_description: "Our full kalour drawing sketching kit set - pro art supplies with ske review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQ1VW4VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lpxybWt0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the All-in-One Sketching Kit You've Been Looking For?

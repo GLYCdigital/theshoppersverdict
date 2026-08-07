@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Pop-up Notes Dispenser, 3x3 in, Black Base Clear Top"
 seo_title: "Post-it Pop-up Notes Dispenser, 3x3 in, Black Base Review"
 meta_description: "Our full post-it pop-up notes dispenser, 3x3 in, black base clear top review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FG85RCLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rybr+oytL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some desk accessories are pure clutter. This one earns its square footage. The Post-it Pop-up Notes Dispenser solves the single most annoying thing about sticky notes: wrestling a pad while holding a phone in the other hand. After four weeks of daily use on my desk, here's the honest breakdown.

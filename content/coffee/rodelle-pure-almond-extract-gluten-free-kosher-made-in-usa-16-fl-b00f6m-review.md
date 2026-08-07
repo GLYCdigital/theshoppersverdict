@@ -1,4 +1,5 @@
 ---
+
 title: "Rodelle Pure Almond Extract, Gluten Free, Kosher, Made in US"
 seo_title: "Rodelle Pure Almond Extract, Gluten Free, Kosher,  Review"
 meta_description: "Our full rodelle pure almond extract, gluten free, kosher, made in us review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00F6MPQBU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RLl6e8K4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most almond extracts on grocery shelves are chemical impersonations. They're benzaldehyde — the same compound in cherry pits and synthetic flavoring — diluted into alcohol. That's why they taste like cough syrup when you actually measure what recipes ask for.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aqua Joe Indestructible Oscillating Sprinkler"
 seo_title: "Aqua Joe Indestructible Sprinkler Review: 2026 Verdict"
 meta_description: "Honest Aqua Joe Indestructible Oscillating Sprinkler review: real-world performance, build quality, and water coverage tested. Is it worth $30? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09RJTP3C9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i1iG-XGSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal construction with weighted zinc base — survives drops and stays put on uneven ground"
   - "20 precision nozzles deliver fine, even mist across up to 4,500 sq ft without puddling"
   - "Dial-adjustable width control (0-180°) lets you water strips, corners, or full rectangles"
-cons:
+cons: 
   - "No auto-shutoff timer — you'll need a separate hose timer or remember to move it"
   - "Plastic end caps feel less durable than the metal frame; a few owners report cracking after hard freezes"
   - "Connection threads are standard brass but can be tight on some hose gaskets"
+
 ---
 
 Let's be real about oscillating sprinklers: most of them are plastic junk that tips over the second your hose kinks. The Aqua Joe Indestructible is trying to be the exception. At 4.4 stars across 220 ratings, it's clearly doing something right — but "indestructible" is a bold claim. Here's what 30 days of testing on a half-acre lawn actually taught me.

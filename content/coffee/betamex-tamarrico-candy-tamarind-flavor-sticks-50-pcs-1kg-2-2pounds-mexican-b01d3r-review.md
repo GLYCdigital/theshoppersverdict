@@ -1,4 +1,5 @@
 ---
+
 title: "BETAMEX Tamarrico Candy Tamarind Flavor Sticks 50 Pcs 1kg/2."
 seo_title: "BETAMEX Tamarrico Candy Review: Spicy-Sweet Tamarind Sticks"
 meta_description: "BETAMEX Tamarrico tamarind candy sticks review: authentic Mexican flavor, 50 pieces per bag. Is this spicy-sweet treat worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01D3RBYTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7170-RpRaHL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine tamarind pulp with noticeable heat — the chili-salt coating delivers a legit Mexican flavor profile, not a watered-down American version"
   - "1kg/2.2lb bulk bag works out to roughly 20g per stick — solid value for the quantity, especially if you're a regular consumer"
   - "Individually wrapped sticks stay fresh and are portable — toss a few in your bag or desk drawer without mess"
-cons:
+cons: 
   - "Texture is chewy-sticky, not crunchy — if you expect a hard candy, you'll be disappointed. It clings to teeth"
   - "Heat level varies between batches — some sticks hit harder than others, which is frustrating if you're sensitive to spice"
+
 ---
 
 Let's be clear about what this is: BETAMEX Tamarrico isn't a coffee product. It's a Mexican tamarind candy — chewy, salty, spicy-sweet sticks that'll wake up your palate the way a strong espresso does. If you're a fan of pulparindo or similar tamarind treats, you already know the drill. If you don't, here's the honest breakdown.

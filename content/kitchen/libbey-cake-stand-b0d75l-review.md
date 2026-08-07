@@ -1,4 +1,5 @@
 ---
+
 title: "Libbey Cake Stand"
 seo_title: "Libbey Cake Stand Review: Verdict | TSV"
 meta_description: "Our full libbey cake stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D75L9Z5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BErEKgP2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most cake stands under $30 are flimsy acrylic things that scratch if you look at them wrong. The Libbey Cake Stand isn't that. This is a proper glass cake stand that feels like it costs twice what it does — and after 225 Amazon ratings averaging 4.5 stars, I'm not the only one who thinks so.

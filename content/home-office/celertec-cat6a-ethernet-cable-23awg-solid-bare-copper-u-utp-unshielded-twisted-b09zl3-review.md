@@ -1,4 +1,5 @@
 ---
+
 title: "celertec CAT6A Ethernet Cable,23AWG Solid Bare Copper, U/UTP"
 seo_title: "celertec CAT6A Cable Review: Solid Copper 23AWG U/UTP"
 meta_description: "Honest celertec CAT6A Ethernet cable review: 23AWG solid bare copper, U/UTP. Is it worth it for 10GbE runs? Real build quality, pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09ZL3JG4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NcJMIZw2S._SL1500_.jpg"
-pros:
+pros: 
   - "True 23AWG solid bare copper conductors — not CCA (copper-clad aluminum) that degrades signal integrity and violates TIA standards"
   - "U/UTP jacket is flexible enough for tight conduit pulls while maintaining CAT6A specs for 10GbE up to 100 meters"
   - "Consistent 4.5-star rating across 225 reviews with no reports of failed terminations or out-of-spec performance"
-cons:
+cons: 
   - "No pull tab or spool packaging on bulk rolls — you'll need to manage the coil yourself or risk kinks"
   - "U/UTP lacks shielding, so it's not ideal for runs parallel to high-voltage lines or in electrically noisy environments"
+
 ---
 
 Let me be blunt: most "CAT6A" cables on Amazon are marketing lies wrapped in PVC. They use copper-clad aluminum (CCA) that fails certification and can't actually sustain 10-gigabit speeds. The celertec CAT6A isn't that. It's 23AWG solid bare copper, U/UTP construction, and it's priced like a serious cable. If you're running drops in a home office or small business, this is worth a hard look.

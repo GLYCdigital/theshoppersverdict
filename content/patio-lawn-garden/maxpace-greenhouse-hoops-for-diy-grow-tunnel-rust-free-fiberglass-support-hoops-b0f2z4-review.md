@@ -1,4 +1,5 @@
 ---
+
 title: "MAXPACE Greenhouse Hoops for DIY Grow Tunnel, Rust-Free Fibe"
 seo_title: "MAXPACE Greenhouse Hoops for DIY Grow Tunnel, Rust Review"
 meta_description: "Our full maxpace greenhouse hoops for diy grow tunnel, rust-free fibe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F2Z4S35X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-x54OoPTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Cheap Season Extension That Actually Works**

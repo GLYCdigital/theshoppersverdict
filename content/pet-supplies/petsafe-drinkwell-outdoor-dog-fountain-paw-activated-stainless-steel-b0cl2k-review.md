@@ -1,4 +1,5 @@
 ---
+
 title: "PetSafe Drinkwell Outdoor Dog Fountain, Paw Activated, Stain"
 seo_title: "PetSafe Drinkwell Outdoor Dog Fountain, Paw Activa Review"
 meta_description: "Our full petsafe drinkwell outdoor dog fountain, paw activated, stain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CL2K987G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sXOZ9u3jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Outdoor Fountain That Works Only If Your Dog Plays Along

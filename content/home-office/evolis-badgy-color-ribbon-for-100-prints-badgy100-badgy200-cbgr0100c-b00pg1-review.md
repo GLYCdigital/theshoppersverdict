@@ -1,4 +1,5 @@
 ---
+
 title: "Evolis Badgy Color Ribbon for 100 Prints Badgy100 & Badgy200 inch"
 seo_title: "Evolis Badgy Color Ribbon Review: 100 Prints, Real Costs"
 meta_description: "Honest Evolis Badgy color ribbon review for Badgy100 & Badgy200. Covers print quality, yield, per-card costs, and compatibility issues."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00PG1VVVK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Xz1WVbwaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, vibrant color output with accurate skin tones across full-card edge-to-edge printing"
   - "Genuine Evolis cartridge eliminates printer error codes and jams common with third-party ribbons"
   - "Simple drop-in installation — no calibration or driver updates needed"
-cons:
+cons: 
   - "Only 100 prints per ribbon makes per-card cost steep for high-volume users"
   - "No individual color replacement — if you print mostly one color, you waste the rest"
   - "Premium OEM pricing with no bulk discount options on this listing"
+
 ---
 
 Let's cut through the marketing. If you own an Evolis Badgy100 or Badgy200, you've already accepted that ID card printing is a specialized, somewhat pricey endeavor. The question isn't whether you need this ribbon — it's whether the OEM cartridge justifies its premium over cheaper alternatives. After digging through 215 ratings and the technical specs, here's the real story.

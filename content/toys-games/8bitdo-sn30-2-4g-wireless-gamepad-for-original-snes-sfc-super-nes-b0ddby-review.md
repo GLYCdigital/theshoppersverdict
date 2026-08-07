@@ -1,4 +1,5 @@
 ---
+
 title: "8Bitdo Sn30 2.4G Wireless Gamepad for Original SNES/Sfc - Su"
 seo_title: "8Bitdo Sn30 2.4G Review: Best Wireless SNES Pad (2026)"
 meta_description: "8Bitdo Sn30 2.4G wireless gamepad review: authentic SNES feel, zero lag, plug-and-play. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDBYJGK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518lvdSJG2L._SL1500_.jpg"
-pros:
+pros: 
   - "Zero-latency 2.4G connection with a dedicated USB receiver — no Bluetooth pairing headaches"
   - "Authentic SNES button layout and membrane feel, faithful to the original controller"
   - "Plug-and-play with original SNES/SFC consoles — no adapters or mods required"
-cons:
+cons: 
   - "2.4G receiver is console-specific — won't work with PC or Switch without extra hardware"
   - "No rumble, no analog sticks — strictly a retro purist's tool, not a modern hybrid"
+
 ---
 
 **The 8Bitdo Sn30 2.4G isn't just another retro controller — it's the answer to a specific problem.** If you own an original Super Nintendo or Super Famicom and you're tired of tripping over 6-foot controller cables or fighting with dodgy third-party pads, this is the wireless upgrade you've been waiting for. It's not trying to be a Switch Pro controller or a PC gamepad. It's laser-focused on one job: making your original SNES feel wireless without compromising the experience.

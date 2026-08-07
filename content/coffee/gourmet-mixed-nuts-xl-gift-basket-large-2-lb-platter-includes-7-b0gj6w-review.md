@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmet Mixed Nuts XL Gift Basket | Large 2 lb Platter Inclu"
 seo_title: "Gourmet Mixed Nuts XL Gift Basket | Large 2 lb Pla Review"
 meta_description: "Our full gourmet mixed nuts xl gift basket | large 2 lb platter inclu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJ6WCMK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yIhrk3RZL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever bought a “gift basket” online that turns out to be a sad assortment of trail mix in a flimsy box, this 2 lb Gourmet Mixed Nuts XL platter is the corrective. It’s not a coffee maker — but if you’re shopping for a host gift, a client thank-you, or a holiday care package, this is the kind of edible centerpiece that pairs dangerously well with a fresh pot of dark roast.  

@@ -1,4 +1,5 @@
 ---
+
 title: "Cook N Home Stainless Steel Stock Pot with Lid, Sauce Pot Ca"
 seo_title: "Cook N Home Stainless Steel Stock Pot Review (2026)"
 meta_description: "Honest Cook N Home stainless steel stock pot review: build quality, heat distribution, lid fit, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWQJGWVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71awJgNdzxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply aluminum core sandwiched between stainless steel layers heats evenly across the base — no hot spots when simmering soups"
   - "Glass lid fits flush with a tight seal, letting you monitor cooking without lifting and losing steam"
   - "Oven-safe up to 500°F including the lid — rare at this price point for a full stock pot set"
-cons:
+cons: 
   - "Stainless steel exterior shows fingerprints and water spots quickly — you'll be polishing after every use"
   - "Handles are riveted but stay cool only on the stovetop; they get hot in the oven past 400°F"
+
 ---
 
 # Cook N Home Stainless Steel Stock Pot with Lid: The $40 Workhorse That Punches Above Its Weight

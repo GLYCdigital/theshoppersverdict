@@ -1,4 +1,5 @@
 ---
+
 title: "Mid Century Modren Office Chair,High Back Ergonomic Executiv"
 seo_title: "Mid Century Modren Office Chair,High Back Ergonomi Review"
 meta_description: "Our full mid century modren office chair,high back ergonomic executiv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQKGRNG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BVJoW17fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Mid Century Modern Office Chair Review: Does It Deliver Real Ergonomic Support or Just Retro Looks?

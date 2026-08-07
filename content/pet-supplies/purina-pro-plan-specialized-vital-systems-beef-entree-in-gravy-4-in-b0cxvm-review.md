@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Specialized Vital Systems Beef Entree in Gra"
 seo_title: "Purina Pro Plan Specialized Vital Systems Beef Ent Review"
 meta_description: "Our full purina pro plan specialized vital systems beef entree in gra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXVM8PL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716hGNKt1WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the right wet food for a cat with a sensitive system — or just another overpriced can? Here's what 229 buyers (and my own research) say.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Pro-Grade Composite Shims for Heavy Duty Leveling. 7.75 Inch"
 seo_title: "Pro-Grade Composite Shims for Heavy Duty Leveling. Review"
 meta_description: "Our full pro-grade composite shims for heavy duty leveling. 7.75 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVG41GPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V4Gg4yhZL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a sagging door frame with a splintering cedar shim that snapped at the worst moment, you already know the pain this product solves. The Pro-Grade Composite Shims are a 7.75-inch upgrade to the flimsy wood wedges most of us grew up using. At 4.6 stars across 229 ratings, they've clearly earned their place in serious toolboxes. Here's the full breakdown.

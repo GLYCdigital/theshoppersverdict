@@ -1,4 +1,5 @@
 ---
+
 title: "Fruit Slices Candy – Hard Candy Bulk 1 lb Bag of Individually Wrapped"
 seo_title: "Fruit Slices Candy Review: Bulk 1 lb Bag Worth It?"
 meta_description: "Honest Fruit Slices Candy review: 1 lb bulk bag, flavor, texture, value. Real buyer feedback on this classic hard candy. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBRDJC7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sd4LR9xgL._SL1000_.jpg"
-pros:
+pros: 
   - "Classic fruit slice shape with a soft, chewy center that actually delivers on the 'gel' texture — not just a flat hard candy"
   - "Individually wrapped pieces make portion control and sharing genuinely practical; no sticky mess in your bag or pocket"
   - "Flavor variety is balanced — no single artificial note dominates, and the citrus options taste distinctly like their named fruit"
-cons:
+cons: 
   - "Texture inconsistency between pieces — some candies arrive harder than others, likely from age or storage variance in the bulk bag"
   - "The 1 lb bag is not resealable; you'll need your own container or clip to keep the remaining candies fresh"
+
 ---
 
 Let's be straight with each other. You clicked on this because you remember these candies — the little fruit slice shapes with the sugar crystals and that soft, jelly-like center. Maybe from your grandma's candy dish, maybe from a movie theater concession stand. The question is whether a bulk 1 lb bag delivers on that memory or just gives you a pile of disappointment.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX XR Wire Cutter Kit, Cuts Carbon Steel and Sta"
 seo_title: "DEWALT 20V MAX XR Wire Cutter Kit Review (2026): Worth It?"
 meta_description: "Honest DEWALT 20V MAX XR Wire Cutter Kit review: cuts carbon steel & stainless fast. See real pros, cons, and if it beats manual cutters."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B09YXR5ZBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618WWqB8pOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cuts 1/4-inch carbon steel and stainless cable in under 3 seconds — no more fighting manual bolt cutters"
   - "Barely any hand fatigue; the trigger action and angled head reduce wrist strain on repetitive cuts"
   - "Built-in LED work light actually illuminates the cut zone, not just the floor"
-cons:
+cons: 
   - "Heavy at 3.8 lbs with battery — one-handed use gets tiring on overhead work"
   - "Not for thick rebar or hardened steel; this is wire and cable, not a rebar cutter"
   - "Bare tool only — you need a 20V battery and charger from another DEWALT tool"
+
 ---
 
 If you've ever spent twenty minutes with manual bolt cutters trying to snip through 3/16-inch stainless cable, you already know why this DEWALT exists. The 20V MAX XR Wire Cutter Kit is the cordless answer to a job that's always been a forearm workout. And with a perfect 5.0-star average across 250 ratings, it's clearly hitting the mark for most buyers. But is it the right cutter for *your* specific work? Let's break it down.

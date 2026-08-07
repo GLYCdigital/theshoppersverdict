@@ -1,4 +1,5 @@
 ---
+
 title: "Panasonic NN-GN68KS Countertop Microwave Oven 2-in-1 FlashXp"
 seo_title: "Panasonic NN-GN68KS Countertop Microwave Oven 2-in Review"
 meta_description: "Our full panasonic nn-gn68ks countertop microwave oven 2-in-1 flashxp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F1ZKW3JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jYtPV3IjL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Panasonic NN-GN68KS Countertop Microwave Oven 2-in-1 FlashXp: The Microwave That Actually Browns

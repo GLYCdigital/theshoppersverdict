@@ -1,4 +1,5 @@
 ---
+
 title: "Pelican Argo 80X - Recreational Sit in Kayak - Lightweight P"
 seo_title: "Pelican Argo 80X - Recreational Sit in Kayak - Lig Review"
 meta_description: "Our full pelican argo 80x - recreational sit in kayak - lightweight p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F5PP3SHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yiihShNBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pelican Argo 80X is the kayak equivalent of a reliable hatchback: unglamorous, practical, and exactly what most casual paddlers actually need.** With a 4.8-star average across 240 Amazon ratings, it's clearly doing something right. But let's dig past the star count and figure out if it's *your* boat.

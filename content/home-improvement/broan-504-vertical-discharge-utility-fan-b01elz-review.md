@@ -1,4 +1,5 @@
 ---
+
 title: "Broan 504 Vertical Discharge Utility Fan"
 seo_title: "Broan 504 Utility Fan Review: Quiet, Durable Ventilation"
 meta_description: "Broan 504 vertical discharge utility fan review: 4.5-star rated, 225 reviews. Is this 8-inch vent fan worth it for grow rooms, workshops & attics? Read our verdict."
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01ELZG59O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z-T9hiitL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True vertical discharge design — vents straight up, not sideways, saving critical duct runs in tight spaces"
   - "Permanently lubricated 8-inch fan motor runs whisper-quiet at 6.4 sones compared to typical utility fans"
   - "Galvanized steel housing resists rust and corrosion, even in humid grow rooms or unconditioned attics"
-cons:
+cons: 
   - "No built-in speed control or thermostat — you'll need to buy a separate switch or controller"
   - "Lacks a power cord; hardwiring required, which may intimidate DIYers without electrical experience"
   - "No speed control or thermostat included — you'll need a separate controller for variable airflow"
   - "Hardwired only, no plug-and-play option; adds installation complexity for casual DIYers"
+
 ---
 
 If you've ever tried to vent a grow room, workshop, or attic with a standard box fan, you know the struggle: sideways airflow, flimsy plastic housings, and noise that drowns out your podcasts. The Broan 504 vertical discharge utility fan takes a different approach — it's built like a commercial-grade workhorse but priced for homeowners. After digging through 225 verified ratings and the spec sheet, here's what actually matters.

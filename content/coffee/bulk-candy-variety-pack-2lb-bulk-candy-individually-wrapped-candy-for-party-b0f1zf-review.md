@@ -1,4 +1,5 @@
 ---
+
 title: "Bulk Candy Variety Pack - 2lb Bulk Candy Individually Wrappe"
 seo_title: "Bulk Candy Variety Pack Review: 2lb Individually Wrapped"
 meta_description: "Honest review of the 2lb bulk candy variety pack. We test value, freshness, and flavor mix. See what 185 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F1ZFTP4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Nv8HWPqjL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine variety — roughly 8-10 recognizable candy types per bag, not just generic hard candies"
   - "Individually wrapped pieces make portioning and sharing easy for parties, classrooms, or office bowls"
   - "2-pound weight delivers meaningful volume — expect 70-90 pieces depending on candy size"
-cons:
+cons: 
   - "Mix consistency varies batch to batch; some bags arrive heavy on cheap fillers like butterscotch"
   - "No ingredient list printed on the bag itself — a problem if you're shopping for someone with allergies"
+
 ---
 
 You're staring at a 2-pound bag of assorted candy, wondering if it's a party-saver or a sugar gamble. Here's the truth after digging through 185 Amazon ratings averaging 3.7 stars: this bulk candy pack is a solid value with a consistency problem.

@@ -1,4 +1,5 @@
 ---
+
 title: "Frantoia Extra Virgin Olive Oil, 33.8 fl oz (1 Liter) – Aw"
 seo_title: "Frantoia Extra Virgin Olive Oil Review: Sicilian EVOO Worth It?"
 meta_description: "Frantoia Extra Virgin Olive Oil 1L review: bold Sicilian EVOO with 4.7 stars. Taste, uses, drawbacks, and who should buy. Honest buyer's guide."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00D1EC5Z0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dGu-Ikg4L._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, peppery finish with genuine grassiness — tastes like fresh olives, not neutral cooking oil"
   - "Sealed 1L tin blocks light and air, keeping the oil stable for months after opening"
   - "Harvest date printed on the tin — rare transparency at this price point"
-cons:
+cons: 
   - "Peppery bite can overwhelm delicate dishes like mayonnaise or light vinaigrettes"
   - "Tin opening can leave sharp edges if you're not careful — pour into a bottle"
   - "No plastic pour spout included; you'll need your own dispenser for daily use"
+
 ---
 
 **The 1-Liter Sicilian That Actually Tastes Like Sicily**

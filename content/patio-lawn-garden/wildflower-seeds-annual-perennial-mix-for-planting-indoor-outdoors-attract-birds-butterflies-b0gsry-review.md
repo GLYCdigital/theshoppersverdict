@@ -1,4 +1,5 @@
 ---
+
 title: "Wildflower Seeds Annual & Perennial Mix for Planting Indoor "
 seo_title: "Wildflower Seeds Annual & Perennial Mix for Planti Review"
 meta_description: "Our full wildflower seeds annual & perennial mix for planting indoor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GSRY1VZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jO2oh1luL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this wildflower mix is: it's a gamble wrapped in a seed packet. Some buyers get a breathtaking pollinator haven. Others get a few sad sprouts and a patch of dirt. The difference comes down to preparation, not luck.

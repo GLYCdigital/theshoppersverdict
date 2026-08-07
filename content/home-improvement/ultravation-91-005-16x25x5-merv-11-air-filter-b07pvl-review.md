@@ -1,4 +1,5 @@
 ---
+
 title: "Ultravation 91-005 16x25x5 MERV 11 Air Filter"
 seo_title: "Ultravation 91-005 16x25x5 MERV 11 Air Filter Review: Ver"
 meta_description: "Our full ultravation 91-005 16x25x5 merv 11 air filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PVL2BXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pt-TfFH0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 5-inch-deep air filter is the unsung hero of home HVAC. While most shoppers grab whatever 1-inch filter is on sale, the deeper pleated media in a 16x25x5 filter like the Ultravation 91-005 traps significantly more dust, pollen, and pet dander while keeping airflow resistance low. The catch? Not all 5-inch filters are built the same — and this one from Ultravation has earned its 4.7-star rating with 235 verified reviews for reasons that matter.

@@ -1,4 +1,5 @@
 ---
+
 title: "Collive Runner Rug"
 seo_title: "Collive Runner Rug Review: 2026 Buyer’s Guide"
 meta_description: "Collive Runner Rug review: Is this 4.6-star runner worth it? We break down durability, shedding, and who should buy. Read before you add to cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BRQ3N2J8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ei9UGHdhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-pile construction is ideal for doorways and high-traffic hallways—no tripping hazard at thresholds"
   - "Non-slip backing holds firm on hardwood and tile, even without a rug pad"
   - "Machine-washable at 4x6 foot size, which is rare for runners in this price bracket"
-cons:
+cons: 
   - "Thin underfoot; not a cushioning rug for standing long periods in a kitchen"
   - "Initial chemical smell that lingers 2-3 days even after airing out"
+
 ---
 
 The Collive Runner Rug isn't trying to be the plush centerpiece of your living room. It's a workhorse—a hallway warrior designed to stay flat, stay put, and survive daily foot traffic. And on that front, it delivers more than its modest price tag suggests.

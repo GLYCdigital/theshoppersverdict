@@ -1,4 +1,5 @@
 ---
+
 title: "Farmhouse Buffet Cabinet with Storage, Sideboard with Large"
 seo_title: "Farmhouse Buffet Cabinet Review: Storage Sideboard Worth It?"
 meta_description: "Honest Farmhouse Buffet Cabinet review: wood accent doors, large storage, 4.4-star rating. Build quality, assembly, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFTGMMMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZTbwO0jOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid engineered wood construction with wood-accent doors that hide fingerprints and smudges well"
   - "Large interior capacity — fits dinner service for 8-12 plus linens without overcrowding"
   - "Versatile sizing works as dining buffet, entryway console, or media stand"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes with two people; cam locks can be finicky if not perfectly aligned"
   - "Back panel is thin fiberboard — don't expect heirloom furniture quality at this price point"
+
 ---
 
 ## The Farmhouse Workhorse That Won't Break the Bank

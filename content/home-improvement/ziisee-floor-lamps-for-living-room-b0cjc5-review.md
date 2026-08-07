@@ -1,4 +1,5 @@
 ---
+
 title: "Ziisee Floor Lamps for Living Room"
 seo_title: "Ziisee Floor Lamps for Living Room Review: Verdict | TSV"
 meta_description: "Our full ziisee floor lamps for living room review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJC5B4JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719uCaugi6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen these arc floor lamps in every staged living room photo on Pinterest. The Ziisee is that lamp — but does it hold up when the staging is done and real life begins? With 225 ratings averaging 4.5 stars, it's clearly doing something right. Here's the honest breakdown after digging through the specs and what actual buyers are saying.

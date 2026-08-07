@@ -1,4 +1,5 @@
 ---
+
 title: "Gevalia House Blend Decaf Medium Roast Ground Coffee"
 seo_title: "Gevalia House Blend Decaf Medium Roast Ground Coff Review"
 meta_description: "Our full gevalia house blend decaf medium roast ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B94WRP56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716HYcm0bhL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've given up on decaf because it tastes like hot brown water, Gevalia's House Blend might be the olive branch you need. This Swedish roaster has been around since 1853, and their decaf process is the real selling point here — they use the Swiss Water method, which strips caffeine without the chemical solvents (like methylene chloride) that cheaper brands rely on. That's a meaningful difference you can actually taste.

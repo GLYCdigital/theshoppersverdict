@@ -1,4 +1,5 @@
 ---
+
 title: "Artdone Nail Art Pens, Liner Brushes Set, 5PCS Copper Color"
 seo_title: "Artdone Nail Art Pens Review: 5-Piece Copper Liner Brush Set"
 meta_description: "Honest Artdone Nail Art Pens review: 5 copper liner brushes tested for precision, durability, and cleanup. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJLY27HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W+QJki8aL._SL1500_.jpg"
-pros:
+pros: 
   - "Five distinct liner tips (ultra-fine to medium) cover everything from hairline strokes to bold stripes without switching sets"
   - "Copper-colored aluminum handles are lightweight yet sturdy — no bending or wobble during detailed work"
   - "Nylon bristles hold their shape through acetone and repeated cleaning; no fraying after several sessions"
-cons:
+cons: 
   - "No protective caps included — tips can bend if tossed loose in a makeup bag"
   - "Handles are shorter than standard brushes (~4.5 inches), which may feel cramped for users with larger hands"
+
 ---
 
 If you do nail art more than once a month, you already know the frustration: cheap liner brushes that splay after two uses, or single-tip pens that force you to switch tools mid-design. The Artdone 5-piece copper liner set sits at a sweet spot — it's not the cheapest option, but it's built well enough that you won't be replacing it every season. Here's the real breakdown after handling these brushes and combing through what other buyers report.

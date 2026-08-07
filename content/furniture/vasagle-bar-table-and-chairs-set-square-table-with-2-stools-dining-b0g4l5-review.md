@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Bar Table and Chairs Set, Square Table with 2 Stools"
 seo_title: "VASAGLE Bar Table and Chairs Set, Square Table wit Review"
 meta_description: "Our full vasagle bar table and chairs set, square table with 2 stools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G4L5FSSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eaiS2oYrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most bar table sets under $150 are wobbly, cheap-feeling, and look like they'll collapse if you lean on them wrong. The VASAGLE Square Bar Table with 2 Stools isn't that — but it's not a $500 bar set either. Here's what you're actually getting.

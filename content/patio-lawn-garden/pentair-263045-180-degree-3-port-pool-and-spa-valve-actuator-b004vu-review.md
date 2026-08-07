@@ -1,4 +1,5 @@
 ---
+
 title: "Pentair 263045 180 Degree 3-Port Pool And Spa Valve Actuator"
 seo_title: "Pentair 263045 180 Degree 3-Port Pool And Spa Valv Review"
 meta_description: "Our full pentair 263045 180 degree 3-port pool and spa valve actuator review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B004VU8Q7O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UsIZ0295L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're automating a pool or spa, the actuator is the unsung hero that actually flips your diverter valve from "pool" to "spa" without you touching a thing. The Pentair 263045 is one of the most common names in this game, and with 215 ratings averaging 4.3 stars, it's clearly doing something right. But is it the right actuator for *your* setup? Here's the real story.

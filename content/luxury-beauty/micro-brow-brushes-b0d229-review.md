@@ -1,4 +1,5 @@
 ---
+
 title: "Micro Brow Brushes"
 seo_title: "Micro Brow Brushes Review: Verdict | TSV"
 meta_description: "Our full micro brow brushes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D22964X1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O667uJ1pL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most brow brushes are an afterthought. You grab the free one from a palette, it works okay, and you replace it whenever it sheds. The Micro Brow Brushes set asks you to take brows more seriously — and after three months of daily use, I'm convinced it delivers.

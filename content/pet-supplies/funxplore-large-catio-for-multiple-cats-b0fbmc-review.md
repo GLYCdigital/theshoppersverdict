@@ -1,4 +1,5 @@
 ---
+
 title: "FunXplore Large Catio for Multiple Cats"
 seo_title: "FunXplore Large Catio Review: Is It Worth It for Multi-Cat Homes?"
 meta_description: "Read our honest FunXplore large catio review. We cover assembly, durability, and space for multiple cats. Find out if this outdoor enclosure is right for you."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBMC541V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HFGZyqUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel frame with anti-rust coating holds up in rain and sun — not a flimsy mesh tent"
   - "Four levels of shelves and ramps give multiple cats vertical territory, reducing indoor fights over prime napping spots"
   - "Floor panel included, so cats don't touch wet grass or dirt — a detail many cheaper catios skip"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes with two people; the instructions are mostly diagrams and one wrong panel means backtracking"
   - "No built-in weather cover for the top level — you'll want a tarp if your area gets heavy rain or intense afternoon sun"
+
 ---
 
 If you've got multiple indoor cats who stare out the window like they're serving a life sentence, you've probably priced out a catio and choked on the $500+ options from specialty pet brands. The FunXplore Large Catio sits in a more reasonable territory, and with 225 ratings averaging 4.5 stars, it's clearly earning its keep in real backyards. But is it actually built for multiple cats, or just marketed that way? I dug into the specs, the customer feedback, and the practical realities of outdoor enclosures to give you the straight answer.

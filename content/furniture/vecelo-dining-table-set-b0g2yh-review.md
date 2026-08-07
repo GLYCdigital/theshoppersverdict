@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO Dining Table Set"
 seo_title: "VECELO Dining Table Set Review: Verdict | TSV"
 meta_description: "Our full vecelo dining table set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G2YHVB12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bTw1OFzCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: finding a dining set under $300 that doesn’t wobble, stain, or collapse after six months is harder than it should be. The VECELO Dining Table Set tries to thread that needle — and for the most part, it succeeds. With a 4.1-star average across 204 ratings, it’s clearly doing something right. But “something right” isn’t “everything right.” Here’s the breakdown.

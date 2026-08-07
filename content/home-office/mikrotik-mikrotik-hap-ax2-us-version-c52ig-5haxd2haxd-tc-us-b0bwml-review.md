@@ -1,4 +1,5 @@
 ---
+
 title: "MikroTik MikroTik hAP ax2 US Version (C52iG-5HaxD2HaxD-TC-US"
 seo_title: "MikroTik MikroTik hAP ax2 US Version (C52iG-5HaxD2 Review"
 meta_description: "Our full mikrotik mikrotik hap ax2 us version (c52ig-5haxd2haxd-tc-us review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BWMLVG8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AcX4kVvpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Router That Expects More From You

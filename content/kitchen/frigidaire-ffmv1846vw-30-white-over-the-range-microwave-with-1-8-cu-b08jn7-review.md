@@ -1,7 +1,8 @@
 ---
-title: "Frigidaire FFMV1846VW 30\" White Over the Range Microwave wit"
-seo_title: "Frigidaire FFMV1846VW 30\" White Over the Range Mic Review"
-meta_description: "Our full frigidaire ffmv1846vw 30\" white over the range microwave wit review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Frigidaire FFMV1846VW 30\ White Over the Range Microwave wit"
+seo_title: "Frigidaire FFMV1846VW 30\ White Over the Range Mic Review"
+meta_description: "Our full frigidaire ffmv1846vw 30\ white over the range microwave wit review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "frigidaire-ffmv1846vw-30-white-over-the-range-microwave-with-1-8-cu-b08jn7-review"
 image_alt: "Frigidaire FFMV1846VW 30 White Over the Range Microwave with 1.8 cu. ft. Capacity, 1000 Cooking Watts, Child Lock and 30"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08JN7ZNXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h7s0S9d3L._AC_SL1279_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about over-the-range microwaves: most people buy them because they have to, not because they're excited about the features. You're replacing a builder-grade unit, matching an existing 30-inch space, or upgrading from a countertop model without losing counter space. The Frigidaire FFMV1846VW sits squarely in that "have to" category — but it's a surprisingly solid performer for the price.

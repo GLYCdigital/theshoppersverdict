@@ -1,4 +1,5 @@
 ---
+
 title: "8-Piece Glass Baking Dish Set with Plastic Lids Review"
 seo_title: "8-Piece Glass Baking Dish Set Review: Lids Included"
 meta_description: "Honest 8-piece glass baking dish set review with plastic lids. Covers durability, oven safety, lid fit, and real buyer feedback. See who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09HXMRLTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/61YeOa97zwL._AC_SL1477_.jpg"
-pros:
+pros: 
   - "Tempered glass survives oven-to-fridge temperature swings without shattering"
   - "Snap-on plastic lids actually seal — buyers report leak-free refrigerated storage"
   - "Eight pieces cover everything from 1-quart sides to a 3-quart lasagna pan"
-cons:
+cons: 
   - "Lids are not oven-safe — must remove before baking, which can be a minor hassle"
   - "Glass is heavy; stacked set takes up serious cabinet real estate"
+
 ---
 
 If you’ve ever juggled three mismatched casserole dishes while trying to meal-prep, this set looks like the obvious fix. Eight pieces of glass bakeware with matching lids for roughly the price of two name-brand casserole dishes. The 4.4-star average across 220 ratings suggests most buyers agree it’s a smart buy. But let me tell you what the product page doesn’t.

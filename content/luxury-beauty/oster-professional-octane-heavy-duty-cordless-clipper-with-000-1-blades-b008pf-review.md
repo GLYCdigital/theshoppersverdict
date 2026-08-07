@@ -1,4 +1,5 @@
 ---
+
 title: "Oster Professional Octane Heavy Duty Cordless Clipper with #"
 seo_title: "Oster Professional Octane Heavy Duty Cordless Clip Review"
 meta_description: "Our full oster professional octane heavy duty cordless clipper with # review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B008PFUM6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vnK8cZX3L._SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The barber clipper that actually lives up to the "heavy duty" label — but it's not for everyone.**

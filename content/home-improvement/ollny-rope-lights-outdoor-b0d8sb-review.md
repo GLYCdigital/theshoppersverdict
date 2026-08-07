@@ -1,4 +1,5 @@
 ---
+
 title: "Ollny Rope Lights Outdoor"
 seo_title: "Ollny Rope Lights Outdoor Review: Verdict | TSV"
 meta_description: "Our full ollny rope lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8SBV9XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814KJqKuodL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you 20 minutes of scrolling through Amazon listings. The Ollny Rope Lights Outdoor is a 100-foot LED rope light that does almost everything right for under $40, but there are two design decisions you need to know about before you buy.

@@ -1,23 +1,25 @@
 ---
+
 title: "Genie Genuine GUK-R Wireless Universal Garage Door Opener Ke"
 seo_title: "Genie GUK-R Wireless Keypad Review: Universal & Reliable"
 meta_description: "Genie GUK-R wireless keypad review: universal compatibility, backlit keys, easy install. Honest pros, cons, and who should buy it."
 slug: "genie-genuine-guk-r-wireless-universal-garage-door-opener-keypad-compatible-with-b08zyx-review"
 image_alt: "Genie GUK-R wireless universal garage door opener keypad mounted on exterior wall"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 204  
-amazon_rating: 4.1  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 204
+amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08ZYXGJXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fAZ6IySBS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Works with most major brands (Genie, Chamberlain, LiftMaster, Craftsman) after simple code sync"  
   - "Backlit, weather-resistant keypad with raised buttons — easy to use in the dark or with gloves"  
   - "No wiring needed; runs on a standard 9V battery for roughly 2 years of typical use"  
-cons:  
+cons: 
   - "No built-in timer-to-close or vacation lock feature — you’ll need your opener’s remote for those"  
   - "Some users report the plastic housing feels less rugged than OEM keypads from Chamberlain/LiftMaster"
+
 ---
 
 You’ve probably walked up to a keypad in the rain, punched in a code, and watched nothing happen. That’s the exact frustration the Genie GUK-R is designed to eliminate — mostly. This is a universal wireless keypad, not a proprietary one, and it’s been sitting at a solid 4.1 stars across 204 ratings. Here’s the real story before you buy.

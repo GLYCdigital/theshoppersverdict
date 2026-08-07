@@ -1,4 +1,5 @@
 ---
+
 title: "HEGGCOOE Small Dog Car Seat, Memory Foam Dog Booster Car Sea"
 seo_title: "HEGGCOOE Small Dog Car Seat, Memory Foam Dog Boost Review"
 meta_description: "Our full heggcooe small dog car seat, memory foam dog booster car sea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2CN1K8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H4wT90jzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The HEGGCOOE Small Dog Car Seat is one of the better budget-friendly booster seats I've tested for toy and small breeds. At 4.7 stars from 235 ratings, it earns its score through a genuinely comfortable memory foam base and a cover that doesn't fight you when it's time to wash it. But it's not a one-size-fits-all solution — and if your dog is on the heavier side of small, you need to measure before you buy.

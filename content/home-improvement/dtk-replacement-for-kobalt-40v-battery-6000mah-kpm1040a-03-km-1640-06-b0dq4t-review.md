@@ -1,4 +1,5 @@
 ---
+
 title: "DTK Replacement for Kobalt 40V Battery 6000mAh KPM1040A-03,"
 seo_title: "DTK Kobalt 40V Battery Review: 6000mAh Worth It?"
 meta_description: "DTK 40V battery 6000mAh replacement for Kobalt KPM1040A-03: real-world runtime test, fit issues, and value compared to OEM. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQ4TG9VM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81obqg02wjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers 2.0Ah more capacity than the stock 4.0Ah Kobalt pack for noticeably longer runtime on blowers and chainsaws."
   - "Fits all Kobalt 40V Max tools (KPM1040A-03, KM-1640-06) with zero modification; rails are tight but seat properly."
   - "Includes a 4-LED fuel gauge and overcharge protection, matching OEM functionality at a fraction of the price."
-cons:
+cons: 
   - "No battery charge level indicator percentage—only the standard 4-LED cluster, which lacks precision for heavy users."
   - "Slightly heavier than OEM (2.1 lbs vs. 1.8 lbs), which adds fatigue during extended overhead trimming."
+
 ---
 
 **The 6000mAh Upgrade Your Kobalt 40V Arsenal Has Been Waiting For**

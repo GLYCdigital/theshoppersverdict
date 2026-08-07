@@ -1,4 +1,5 @@
 ---
+
 title: "YOLEO Dumbbell Rack Stand Only, 1100LBS Heavy Duty Weight Ra"
 seo_title: "YOLEO Dumbbell Rack Stand Only, 1100LBS Heavy Duty Review"
 meta_description: "Our full yoleo dumbbell rack stand only, 1100lbs heavy duty weight ra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F534P4HY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d4mcOTFqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a dumbbell rack because it looks pretty. You buy it because tripping over a 50-pound hex dumbbell at 6 AM is how you break a toe and your motivation in one move. The YOLEO Dumbbell Rack Stand claims to solve that with a 1100-pound capacity and a three-tier design. After digging through 229 ratings and the spec sheet, here's the real story.

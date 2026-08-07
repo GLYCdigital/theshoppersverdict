@@ -1,4 +1,5 @@
 ---
+
 title: "Qualilux Dusk to Dawn Light Bulbs, Outdoor"
 seo_title: "Qualilux Dusk to Dawn Light Bulbs, Outdoor Review: Verdic"
 meta_description: "Our full qualilux dusk to dawn light bulbs, outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBXD793N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LGzAtGw5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most $8 “smart” bulbs are junk. The Qualilux Dusk to Dawn bulb, though, punches well above its price tag. It’s a simple, no-fuss solution for anyone tired of leaving porch lights on all day or wrestling with flaky timers. At 4.5 stars across 225 ratings, it’s clearly doing something right — but it’s not flawless. Here’s the real story.

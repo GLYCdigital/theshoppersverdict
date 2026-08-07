@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Creamer Singles Mini Moo’s Half & Half Creamer Sing"
 seo_title: "Mini Moo’s Half & Half Creamer Singles Review (192 Count)"
 meta_description: "Mini Moo’s Half & Half Creamer Singles review: 192 ultra-pasteurized creamers, no refrigeration needed. See if they beat the competition."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7SG69FV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612v2R9LiLL._SL1318_.jpg"
-pros:
+pros: 
   - "Ultra-pasteurized so unopened cups stay fresh for months without refrigeration — ideal for desk drawers and travel bags"
   - "192 individually sealed cups per box means roughly four months of daily use for one coffee drinker"
   - "Real dairy half & half (18% milkfat) — no oils, thickeners, or artificial ingredients like many powdered creamers"
-cons:
+cons: 
   - "Unopened cups require no refrigeration, but once opened they must be used immediately — no resealing for later"
   - "Plastic waste adds up quickly; each cup is single-use and not recyclable in most curbside programs"
   - "At roughly 10 calories per serving, lighter than full cream but some users find the cups hard to tear open cleanly"
+
 ---
 
 **Mini Moo’s Half & Half Creamer Singles: The 192-Count Honest Review**

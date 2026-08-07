@@ -1,4 +1,5 @@
 ---
+
 title: "Equsion 36 Pcs 2'' Gold Medals Bulk Volleyball Football Bask"
 seo_title: "Equsion 36-Pack Gold Medals Review: Bulk Award Medals"
 meta_description: "Honest Equsion 36-pack 2-inch gold medals review: quality, engraving options, and value for youth sports. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CD7YFQ7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wUOTa2OQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "36 medals per pack — enough for a full team plus spares, at roughly $1 per medal"
   - "Die-cast zinc alloy with a gold finish that holds up to repeated handling"
   - "Ribbons are pre-attached and reinforced at stress points — no DIY threading"
-cons:
+cons: 
   - "No engraving option; you'll need a separate service or a marker for names"
   - "The 2-inch size reads small in photos — about the diameter of a golf ball"
   - "Ribbon colors are fixed (red/white/blue); no team-color customization"
+
 ---
 
 **Bottom line up front:** If you're coaching a youth volleyball team, running an end-of-season basketball banquet, or organizing a school field day, the Equsion 36-pack of 2-inch gold medals is the most cost-effective way to make 36 kids feel like champions. At under a buck a medal, the quality-to-price ratio is genuinely surprising. But there are a couple of catches you should know before you hit buy.

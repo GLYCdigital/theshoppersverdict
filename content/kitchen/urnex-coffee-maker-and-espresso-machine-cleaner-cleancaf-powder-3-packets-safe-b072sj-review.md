@@ -1,4 +1,5 @@
 ---
+
 title: "Urnex Coffee Maker and Espresso Machine Cleaner Cleancaf Pow"
 seo_title: "Urnex Coffee Maker and Espresso Machine Cleaner Cl Review"
 meta_description: "Our full urnex coffee maker and espresso machine cleaner cleancaf pow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B072SJYB3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rtI4yA8TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your coffee has started tasting bitter, flat, or slightly… off, it’s probably not the beans. It’s the invisible film of oxidized coffee oils clinging to every surface inside your machine. That’s exactly the problem Urnex Cleancaf was designed to solve — and after testing it across three different brewers, I can tell you it works.

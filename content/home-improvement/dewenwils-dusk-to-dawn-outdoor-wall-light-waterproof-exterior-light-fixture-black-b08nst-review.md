@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS Dusk to Dawn Outdoor Wall Light, Waterproof Exteri"
 seo_title: "DEWENWILS Dusk to Dawn Outdoor Wall Light Review (2026)"
 meta_description: "Honest DEWENWILS dusk to dawn outdoor wall light review: waterproof build, auto on/off performance, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08NSTGY3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OvsfMEwbS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn sensor with zero manual switching — reliably turns on at sunset, off at sunrise"
   - "IP65 waterproof rating handles direct rain, snow, and coastal salt air without corrosion"
   - "Tool-free bulb replacement — hinged door swings open, no screws to lose"
-cons:
+cons: 
   - "Built-in sensor requires 5+ feet of clearance from other light sources or it can flicker"
   - "Slightly warm 3000K output reads more yellow than pure white on white siding"
+
 ---
 
 Here's the thing about outdoor lighting: most fixtures are either cheap junk that rusts in a year, or overpriced designer pieces that do the same job. The **DEWENWILS Dusk to Dawn Outdoor Wall Light** sits firmly in the first category price-wise, but after digging through 229 ratings and the spec sheet, it's punching well above its weight class.

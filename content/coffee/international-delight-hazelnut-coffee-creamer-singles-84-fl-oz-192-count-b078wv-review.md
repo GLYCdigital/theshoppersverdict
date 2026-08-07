@@ -1,4 +1,5 @@
 ---
+
 title: "International Delight Hazelnut Coffee Creamer Singles, 84 Fl"
 seo_title: "International Delight Hazelnut Coffee Creamer Sing Review"
 meta_description: "Our full international delight hazelnut coffee creamer singles, 84 fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B078WVR7TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-rZUXTOwL._SL1446_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're at work, the office coffee is terrible, and you'd kill for something that makes it drinkable? That's exactly who International Delight Hazelnut Coffee Creamer Singles were designed for — and at 192 cups per box, this is the long-haul solution.

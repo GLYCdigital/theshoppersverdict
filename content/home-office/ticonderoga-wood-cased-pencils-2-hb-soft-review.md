@@ -1,16 +1,17 @@
 ---
+
 title: "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB Soft, Yellow, 12 Count"
 seo_title: "Ticonderoga Pencils Review — 4.8★ The Gold Standard at $5.63"
 meta_description: "Ticonderoga wood-cased pencils review: 68,338 reviews analyzed. Classic #2 HB pencils, pre-sharpened, 12-pack. Are they still the best pencils money can buy?"
 slug: "ticonderoga-wood-cased-pencils-2-hb-soft-review"
 image_alt: "Classic Yellow Ticonderoga Wood-Cased Pencils 12-Pack"
-keywords:
+keywords: 
   - "Ticonderoga pencils review"
   - "best No 2 pencils"
   - "Ticonderoga #2 pencils 12 pack"
   - "school pencils review"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "Are all Ticonderoga pencils made from cedar wood?"
     answer: "Not all. Look for the '100% American CEDAR WOOD' stamp on the box. Some production runs use basswood or other lower-grade wood, especially in older packaging. The green-white cedar stamp indicates the premium quality batch."
   - question: "Do these pencils come pre-sharpened?"
@@ -23,14 +24,15 @@ review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GqVVIzKKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "68,338 reviews with a 4.8★ average — one of Amazon's highest-rated writing instruments"
   - "Smooth, consistent graphite that writes cleanly without scratching"
   - "Erasers actually erase — no smudging or tearing like cheap pencil tops"
-cons:
+cons: 
   - "Quality varies between production runs — some batches use lower-grade wood"
   - "No wood type specified on newer packaging — you have to look for the cedar stamp"
   - "Older 'Celebrating 100 years' stamped batches reportedly used lower-quality materials"
+
 ---
 
 With 68,338 Amazon reviews averaging 4.8 stars, the Ticonderoga wood-cased pencil is one of the highest-rated products on the entire platform. And it's a pencil. A pencil! That tells you something about the passion people bring to this humble writing instrument. Here's a deep dive into what makes the yellow pencil legendary — and what's changed over the years.

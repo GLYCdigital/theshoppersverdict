@@ -1,4 +1,5 @@
 ---
+
 title: "Divi Air Dry Styling Cream for Curly, Wavy & Frizzy Hair, Sm"
 seo_title: "Divi Air Dry Styling Cream Review: Curly Hair Savior?"
 meta_description: "Divi Air Dry Styling Cream for curly, wavy & frizzy hair — our honest review covers hold, frizz control, ingredients, and who it's best for."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPXP8R5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AkIEpo7hL._SL1500_.jpg"
-pros:
+pros: 
   - "Defines curls and waves without crunch — flexible hold that lasts through a full day"
   - "Lightweight formula that doesn't weigh down fine or medium hair types"
   - "Noticeably reduces frizz even in humid conditions, per multiple buyer reports"
-cons:
+cons: 
   - "Scent is strong and divisive — some find it overpowering on first application"
   - "May need reapplication on day-two hair for full curl refresh"
   - "Premium price point that may not suit budget-conscious shoppers"
+
 ---
 
 If you've ever air-dried your hair and prayed to the curl gods, you know the struggle: frizz, undefined waves, and that dreaded "I gave up" look. The Divi Air Dry Styling Cream enters with bold claims — and with 225 ratings averaging 4.5 stars, it's clearly earning its keep in bathrooms. But is this luxury styling cream worth the splurge? Here's what I found after digging through the reviews, the ingredients, and the real-world results.

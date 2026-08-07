@@ -1,4 +1,5 @@
 ---
+
 title: "ROBBEAR Pop Up Card, 3D Greeting Card with Envelope for Any "
 seo_title: "ROBBEAR Pop Up Card, 3D Greeting Card with Envelop Review"
 meta_description: "Our full robbear pop up card, 3d greeting card with envelope for any  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHRCJG96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HHzp2i45L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ROBBEAR Pop Up Card is the rare greeting card that feels like a small piece of sculpture.** Most pop-up cards are gimmicky — a single fold that springs up and then flops flat. This one is different. As shown in the product image, the card opens to reveal multiple layered paper scenes that stand on their own, creating real depth. At 4.7 stars from 235 ratings, it's clearly resonating with buyers. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEDIARY 100FT LED Construction String Lights, 100W String Wo"
 seo_title: "LEDIARY 100FT LED Construction String Lights, 100W Review"
 meta_description: "Our full lediary 100ft led construction string lights, 100w string wo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP5SJZ3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ags4gmFxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "construction string lights" on Amazon are flimsy indoor Christmas lights pretending to be job-site tools. The LEDIARY 100FT set is not that. With 225 ratings averaging 4.5 stars, this is the rare string light that contractors and DIY folks actually keep buying. Here's the real story after digging through the specs, the feedback, and the physics.

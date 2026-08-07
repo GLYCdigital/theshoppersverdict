@@ -1,4 +1,5 @@
 ---
+
 title: "ESR Magnetic Case for iPad Air 5th Generation Case (2022), i"
 seo_title: "ESR Magnetic Case iPad Air 5 Review (2022): Worth It?"
 meta_description: "ESR Magnetic Case for iPad Air 5 (2022): honest review of magnet strength, build quality, and real-world use. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4YJFY9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fICNgLPmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong magnetic grip that holds the iPad Air 5 securely in both landscape and portrait orientations without slippage"
   - "Detachable front cover doubles as a kickstand with two stable viewing angles, useful for FaceTime or video calls"
   - "Precise cutouts around the camera and buttons; Apple Pencil 2 charges wirelessly while attached to the side"
-cons:
+cons: 
   - "No screen protection when the front cover is detached — the iPad Air 5's display is exposed in kickstand mode"
   - "Back cover adds noticeable bulk (about 0.5 lb total), which changes the feel of the slim iPad Air chassis"
   - "Magnet strength weakens slightly over 3–4 months of daily use, per multiple long-term owner reports"
+
 ---
 
 **The ESR Magnetic Case for iPad Air 5 (2022) is a study in tradeoffs.** It nails the magnetic attachment system that Apple's own folio cases charge a premium for, but it skimps on edge protection and long-term magnet durability. At a 4.4-star average from 220 ratings, most buyers are satisfied — but "most" isn't "all," and the complaints are worth hearing before you drop your money.

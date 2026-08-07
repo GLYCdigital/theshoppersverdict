@@ -1,4 +1,5 @@
 ---
+
 title: "Bsmathom Boho Kitchen Rug Set of 3, Farmhouse Washable Kitch"
 seo_title: "Bsmathom Boho Kitchen Rug Set Review: Washable & Stylish"
 meta_description: "Honest Bsmathom boho kitchen rug set of 3 review: washable farmhouse rugs with non-slip backing. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C3HQPSQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KgycCvlFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Washing machine actually works — rugs come out clean and hold shape without pilling, even after multiple cycles"
   - "Non-slip backing genuinely grips tile and hardwood, no curling at corners after weeks of foot traffic"
   - "Three diverse sizes (typically 17x24, 17x24, and a runner) let you coordinate sink, stove, and entry without measuring stress"
-cons:
+cons: 
   - "Low-pile texture feels thin underfoot — not a plush rug, more like a heavy-duty mat"
   - "Darker boho patterns show lint and crumbs more visibly than lighter neutral options"
+
 ---
 
 **Bsmathom Boho Kitchen Rug Set Review: The Washable Workhorse That Actually Delivers**

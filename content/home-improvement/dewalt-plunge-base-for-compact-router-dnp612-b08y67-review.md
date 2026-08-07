@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Plunge Base for Compact Router (DNP612)"
 seo_title: "DEWALT DNP612 Plunge Base Review: Worth It? (2026)"
 meta_description: "DEWALT DNP612 plunge base review: precise depth stops, clear base, and solid build. See if this compact router accessory earns its 4.8-star rating."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08Y67C81R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81QQ3mapXAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Micro-adjustable depth stop with 1/64-inch increments for repeatable precision cuts"
   - "Clear polycarbonate base gives full visibility of the bit and cut line during operation"
   - "Tool-free depth rod and turret stop adjustment speed up workflow significantly"
-cons:
+cons: 
   - "Sub-base is not compatible with standard template guides without an additional adapter ring"
   - "Spring tension is fairly stiff; requires deliberate downward pressure for plunge cuts"
   - "No built-in dust collection port — you'll need a separate attachment for shop-vac hookup"
+
 ---
 
 If you already own a DEWALT compact router (like the DCP580 or DCW600), the DNP612 plunge base is the accessory that turns a trim router into a proper joinery tool. At 4.8 stars from 240 ratings, it's clearly doing something right. But is it worth the money when you can just tilt a fixed-base router? Let's break down what this base actually delivers.

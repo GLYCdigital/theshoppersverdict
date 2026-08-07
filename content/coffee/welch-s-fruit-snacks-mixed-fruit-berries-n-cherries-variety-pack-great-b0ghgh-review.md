@@ -1,4 +1,5 @@
 ---
+
 title: "Welch's Fruit Snacks, Mixed Fruit & Berries 'N Cherries Vari"
 seo_title: "Welch's Fruit Snacks, Mixed Fruit & Berries 'N Che Review"
 meta_description: "Our full welch's fruit snacks, mixed fruit & berries 'n cherries vari review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHGHYVWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get the elephant in the room out of the way: this is a fruit snack review, not a coffee maker review. The product data got crossed somewhere, but you're here because you want to know if Welch's Fruit Snacks in Mixed Fruit & Berries 'N Cherries are worth your money. I've tested them, read through the 240 Amazon ratings, and I'll give you the straight story.

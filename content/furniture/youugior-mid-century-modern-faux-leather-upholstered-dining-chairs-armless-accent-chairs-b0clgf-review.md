@@ -1,4 +1,5 @@
 ---
+
 title: "YOUUGIOR Mid Century Modern Faux Leather Upholstered Dining "
 seo_title: "YOUUGIOR Mid Century Modern Faux Leather Upholster Review"
 meta_description: "Our full youugior mid century modern faux leather upholstered dining  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLGFKJGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717NfUgYsLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $60 "Mid-Century Modern" chair that actually delivers — mostly**

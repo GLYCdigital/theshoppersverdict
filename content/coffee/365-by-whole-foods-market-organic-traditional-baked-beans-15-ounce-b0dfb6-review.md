@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Traditional Baked Beans,"
 seo_title: "365 Whole Foods Organic Baked Beans Review (2026)"
 meta_description: "Honest 365 by Whole Foods Organic Baked Beans review: taste, texture, sugar content, and value. See how these compare to canned bean brands."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFB6WL6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Go5fnY80L._SL1500_.jpg"
-pros:
+pros: 
   - "Organic navy beans with a clean ingredient list — no high-fructose corn syrup, no artificial colors or preservatives"
   - "Balanced sweetness with molasses and cane sugar, not cloying like many mainstream brands"
   - "Thick, clingy tomato-based sauce that coats beans evenly rather than watery broth"
-cons:
+cons: 
   - "Less smoky depth than barbecue-style baked beans — the flavor skews sweeter and milder"
   - "Some reviewers report inconsistent texture across cans, with occasional mushy beans"
   - "At roughly $3–4 per 15-oz can, it costs double or triple the price of non-organic options"
+
 ---
 
 Let's be direct about what we're reviewing here. This is a can of baked beans — 15 ounces of organic navy beans in a tomato-based sauce, sold under Whole Foods' house brand. Nothing flashy, no gimmicks. The question is whether the organic label and cleaner ingredient deck justify the price premium over a 99-cent can of Bush's or Van Camp's.

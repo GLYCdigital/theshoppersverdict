@@ -1,23 +1,25 @@
 ---
+
 title: "Bike Lights for Night Riding with Bell, Super Bright Bicycle"
 seo_title: "Bike Lights for Night Riding with Bell Review (2026) | Super Bright"
 meta_description: "Super bright bike lights with bell for night riding — 4.5-star rated. Real buyer feedback, beam tests, battery life, and who should buy. Read before you spend."
 slug: "bike-lights-for-night-riding-with-bell-super-bright-bicycle-reflectors-usb-b014qe-review"
 image_alt: "Super bright bicycle headlight and taillight set with integrated bell mounted on handlebars at dusk"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B014QEWX2I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716dr6oRGML._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Integrated bell is loud and reachable without shifting grip — a rare combo at this price"  
   - "USB rechargeable, no disposable batteries; claimed runtime holds up in real use"  
   - "Tool-free mount fits 22–31.8mm handlebars and seatposts in under 30 seconds"  
-cons:  
+cons: 
   - "Beam pattern is broad but shallow — fine for city streets, weak for fast descents"  
   - "Taillight is bright but not visible from extreme side angles (90°+)"
+
 ---
 
 **Opening: The commuter’s dilemma, solved?**  

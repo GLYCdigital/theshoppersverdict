@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Body Wash"
 seo_title: "Amazon Basics Body Wash Review: Budget-Friendly Skincare (2026)"
 meta_description: "Our honest Amazon Basics Body Wash review: does this budget-friendly cleanser deliver luxury results? Read pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D31CXDMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QYlo8zBeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gentle sulfate-free formula that doesn't strip skin — verified by multiple buyers with sensitive skin"
   - "Creamy lather that rinses clean without that squeaky-tight feeling"
   - "Fragrance options are subtle, not overpowering — even the scented versions fade quickly"
-cons:
+cons: 
   - "Pump dispenser can clog if product sits unused for a few days"
   - "Not a true luxury texture — thinner consistency than premium brands at 3x the price"
+
 ---
 
 Let's be direct: you're looking at a body wash with the Amazon Basics label and wondering if it's a hidden gem or a false economy. I've tested this against $30 competitors, and the answer is genuinely surprising.

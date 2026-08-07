@@ -1,4 +1,5 @@
 ---
+
 title: "Bedsure ComfyFleece Orthopedic Dog Bed for Crate, Washable P"
 seo_title: "Bedsure ComfyFleece Orthopedic Dog Bed Review (2026)"
 meta_description: "Bedsure ComfyFleece orthopedic crate dog bed review: 4.5/5 stars from 225 buyers. Is it worth it for senior dogs? We break down comfort, washing, and fit."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1TT5ZXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MGjGuBezL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine orthopedic support with 2-inch egg-crate foam that holds up under 70+ lb dogs without flattening"
   - "Waterproof liner between cover and foam actually works — buyers report surviving accidents and senior dog incontinence"
   - "Crate-specific sizing runs true to dimensions, with a low-profile design that fits most wire and plastic crates without bunching"
-cons:
+cons: 
   - "Foam core is not machine washable — you're washing the cover only, and it's a bit fiddly to remove and reinstall"
   - "Fleece top can pill and attract fur if you have a heavy shedder; expect to lint-roll regularly"
+
 ---
 
 If you've ever bought a "crate pad" that's basically a flat pillow with delusions of grandeur, you know the struggle. The Bedsure ComfyFleece Orthopedic Dog Bed is not that. This is a legitimate orthopedic bed engineered for crate life, and at 4.5 stars from 225 shoppers, it's earning its keep in homes with aging dogs, post-surgical pups, and crate-trained puppies alike.

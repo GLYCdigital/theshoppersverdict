@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOHOME Stand Mixer"
 seo_title: "VIVOHOME Stand Mixer Review (2026): Worth It? | Honest Take"
 meta_description: "VIVOHOME Stand Mixer review: 660W motor, 6.5L bowl, 10 speeds. Is this $150 mixer worth it? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 3713
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B086BY5MYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nYfohF7PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "660W motor handles thick dough without bogging down, even at low speeds"
   - "6.5-quart stainless steel bowl is genuinely large — fits double batches of most recipes"
   - "Tilt-head design locks in three positions and stays put during heavy mixing"
-cons:
+cons: 
   - "Plastic gears inside — won't survive a lifetime of heavy bread duty like a KitchenAid will"
   - "Can walk across the counter at speed 8+ unless you use the suction cups"
   - "No slow-start feature; ingredients can spray out the top if you're not careful at high speed"
+
 ---
 
 If you've priced a KitchenAid lately, you know the pain: $400-plus for a mixer that does essentially what a $150 machine can do. The VIVOHOME Stand Mixer sits squarely in that budget tier, and with 3,700+ ratings averaging 4.5 stars, it's clearly earning its keep in real kitchens. But is it a genuine bargain or a compromise you'll regret? I dug into the specs, the customer feedback, and the real-world tradeoffs so you can decide.

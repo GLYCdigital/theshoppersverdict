@@ -1,4 +1,5 @@
 ---
+
 title: "Monument Grills Denali Gas Smart BBQ Grill"
 seo_title: "Monument Grills Denali Gas Smart BBQ Grill Review: Verdic"
 meta_description: "Our full monument grills denali gas smart bbq grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT1DJ5J5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Smart Grill That Actually Sells the Smart Part**

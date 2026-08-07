@@ -1,4 +1,5 @@
 ---
+
 title: "Colortrak Hair Color Remover Wipes Dispenser, Moist, Non-irr"
 seo_title: "Colortrak Hair Color Remover Wipes Review (2026): Do They Work?"
 meta_description: "Colortrak Hair Color Remover Wipes review: Do these moist, non-irritating towelettes actually remove hair dye from skin? Tested, rated 4.2/5."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6JPW94L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v+yUCfJIL._SL1500_.jpg"
-pros:
+pros: 
   - "Removes fresh hair dye stains from skin without harsh scrubbing or irritation"
   - "Moist, pre-saturated wipes mean no mixing, no mess, no waiting"
   - "Dispenser design keeps wipes from drying out between uses"
-cons:
+cons: 
   - "Ineffective on dried or set-in dye stains — must be used immediately"
   - "Small wipe size means you'll go through several per coloring session"
+
 ---
 
 If you've ever finished a box dye job looking like you lost a fight with a Sharpie, you already know the struggle. Hair color on your forehead, ears, and neckline is the universal sign of an at-home coloring session gone slightly wrong. Colortrak's Hair Color Remover Wipes promise to fix that — and for the most part, they deliver.

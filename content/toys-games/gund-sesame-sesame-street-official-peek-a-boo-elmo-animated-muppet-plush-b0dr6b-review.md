@@ -1,4 +1,5 @@
 ---
+
 title: "GUND Sesame Sesame Street Official Peek-a-Boo Elmo Animated"
 seo_title: "GUND Peek-a-Boo Elmo Review: Animated Sesame Plush (2026)"
 meta_description: "Read our GUND Peek-a-Boo Elmo animated plush review. Does this hide-and-seek Sesame toy delight toddlers? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DR6BKBJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81odm6bteAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine GUND quality plush — soft, dense fur that survives toddler hugging, not a cheap knockoff"
   - "Animated peek-a-boo motion is smooth and reliably triggers; 4-6 second interaction is perfect for short attention spans"
   - "Officially licensed Sesame Street product — face, fur color, and voice are spot-on accurate"
-cons:
+cons: 
   - "Requires 3× AA batteries (not included) — an immediate $6-10 hidden cost on top of purchase"
   - "No volume control or mute switch; the giggle is cute the first 50 times, less so at 7 AM"
   - "Motion mechanism adds weight — this isn't a cuddle-and-carry plush, it's a sit-on-a-shelf toy"
+
 ---
 
 ## Is This Animated Elmo Actually Worth the Hype?

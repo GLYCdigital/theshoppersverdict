@@ -1,4 +1,5 @@
 ---
+
 title: "Navaris Cat Scratch Mat Sofa Protector - Natural Sisal Furni"
 seo_title: "Navaris Cat Scratch Mat Sofa Protector - Natural S Review"
 meta_description: "Our full navaris cat scratch mat sofa protector - natural sisal furni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BFJDCF1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91KcRS1VtDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your sofa looks like a shredded wheat cereal box, you've probably already cycled through cardboard scratchers, sticky tape, and prayer. The Navaris Cat Scratch Mat takes a different approach: instead of trying to deter your cat, it gives them something better to claw than your cushions.

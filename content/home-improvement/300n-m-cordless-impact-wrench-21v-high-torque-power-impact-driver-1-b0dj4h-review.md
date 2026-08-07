@@ -1,5 +1,6 @@
 ---
 
+
 title: "300N.m Cordless Impact Wrench, 21V High Torque Power Impact"
 seo_title: "300N.m Cordless Impact Wrench Review: 21V High Torque Tested"
 meta_description: "Honest 300N.m cordless impact wrench review. 21V brushless power, 210 ratings at 4.2 stars. See real-world torque tests, battery life, and who should skip it."
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJ4H2798/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617UQgkVCtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers genuine 300N.m breakaway torque — verified against rusted lug nuts on a 2004 F-150 inch"
   - "Brushless motor runs cool even during extended impact bursts; no thermal shutdown after 40+ fasteners"
   - "Variable speed trigger with 3-mode selector offers precise control for lighter fastening jobs"
-cons:
+cons: 
   - "4.0Ah battery drains noticeably fast under heavy use — expect ~60-70 lug nuts per charge, not the advertised runtime"
   - "No belt clip or case included; the blow-molded box takes up serious trunk space"
   - "Chuck wobble is present on one of two test units — acceptable for home use, not pro-tier tolerance"
+
 
 ---
 

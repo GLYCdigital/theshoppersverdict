@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Notebook"
 seo_title: "ASUS Notebook Review: Honest Look at Value & Performance"
 meta_description: "Read our ASUS Notebook review: real pros, cons, and buying advice from 200+ Amazon ratings. Is this the right laptop for your work setup?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DBRGQL7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hy5SYr3tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality with a sturdy hinge that doesn't wobble during one-handed opening"
   - "Keyboard has 1.4mm key travel — comfortable for long typing sessions without fatigue"
   - "IPS panel offers wide viewing angles, making it workable for quick screen-sharing with a colleague"
-cons:
+cons: 
   - "Battery life sits around 6-7 hours under mixed use — short of a full workday for heavy multitaskers"
   - "The 720p webcam produces soft, grainy video in low light; external camera recommended for Zoom-heavy roles"
+
 ---
 
 Let's be blunt: most laptops under $600 make you choose between performance and build quality. The ASUS Notebook tries to give you both, and for the most part, it pulls it off. With a 4.0-star average across 200 Amazon ratings, it's not the flashiest machine on the shelf — but it might be the most practical one for your desk.

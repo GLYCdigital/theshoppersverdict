@@ -1,4 +1,5 @@
 ---
+
 title: "Anxingtools Portable Metal Table Lamp, Cordless Table Lamp,"
 seo_title: "Anxingtools Portable Metal Table Lamp Review (2026) | Cordless & Rechargeable"
 meta_description: "Anxingtools cordless table lamp review: metal build, rechargeable battery, 3 brightness levels. Is this $28 portable lamp worth it? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CMXFK8N3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rfuqLA4-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full metal housing feels substantial for $28 — not the hollow plastic most cordless lamps use"
   - "USB-C charging means you're not hunting for a proprietary cable when it dies"
   - "Three brightness levels plus a warm-cool color temperature toggle give real flexibility"
-cons:
+cons: 
   - "Battery life at max brightness runs roughly 4-5 hours — fine for an evening, short for all-night use"
   - "Touch controls are sensitive; brushing the base while reaching across the table can accidentally cycle modes"
   - "No dimmer memory — it resets to medium every time you power it on"
+
 ---
 
 # Anxingtools Portable Metal Table Lamp, Cordless Table Lamp Review: A $28 Light That Earns Its Spot

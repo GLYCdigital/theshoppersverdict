@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Olympic Barbell 2-Inch Rubber Bumper Plate Weight Se"
 seo_title: "Fitvids Olympic Bumper Plate Weight Set Review (2026)"
 meta_description: "Honest Fitvids Olympic Barbell 2-Inch Rubber Bumper Plate Weight Set review: durability, bounce, and value for home gyms. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDR8XCW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YKknmvhaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full rubber coating protects floors and reduces noise — deadlifts won't wake the neighbors or dent your garage concrete"
   - "2-inch Olympic steel insert sleeves fit standard bars snugly without rattling, even after months of use"
   - "Consistent weight tolerance across the set; plates measure within a pound of stamped weight"
-cons:
+cons: 
   - "The rubber has a noticeable 'new tire' smell for the first 1-2 weeks that fades but doesn't fully disappear"
   - "Not competition-grade — the bounce is moderate, so drop them straight down, not at an angle, to avoid wobble"
   - "No center hole chamfering; the insert sits flush, which makes loading/unloading slightly stiff on some bars"
+
 ---
 
 **Opening Hook: The Budget Bumper That Actually Holds Up**

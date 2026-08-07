@@ -1,4 +1,5 @@
 ---
+
 title: "Aeotec SmartThings SmartThings Water Leak Sensor, ZigBee, Ba"
 seo_title: "Aeotec SmartThings Water Leak Sensor Review: ZigBee Alert"
 meta_description: "Honest Aeotec SmartThings Water Leak Sensor review: ZigBee reliability, battery life, hub requirements, and real-world leak detection performance."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095TR9NYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41T56VuBXwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "ZigBee mesh networking extends range beyond Wi-Fi limits; pairs reliably with SmartThings hubs in under two minutes"
   - "Slim 1.4-inch profile fits under refrigerators, water heaters, and sump pumps where bulkier sensors won't go"
   - "Detects both standing water and slow seeps via exposed probe contacts — not just flood-level events"
-cons:
+cons: 
   - "Requires a SmartThings hub or compatible ZigBee coordinator; won't work standalone or with Alexa/Google without one"
   - "No built-in siren louder than a phone notification; if you're away, you rely entirely on app alerts"
   - "CR2 battery (included) lasts 2+ years but is less common than AAA — keep a spare on hand"
+
 ---
 
 **The 30-Second Case for This Sensor**

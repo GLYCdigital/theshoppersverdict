@@ -1,4 +1,5 @@
 ---
+
 title: "Lexar Professional Go Portable SSD w/Hub, Supports - Apple 4"
 seo_title: "Lexar Professional Go Portable SSD w/Hub, Supports Review"
 meta_description: "Our full lexar professional go portable ssd w/hub, supports - apple 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ5YGXVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81E4zwc2W+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a video shooter who's been eyeing this drive, here's the honest breakdown before you drop your money.

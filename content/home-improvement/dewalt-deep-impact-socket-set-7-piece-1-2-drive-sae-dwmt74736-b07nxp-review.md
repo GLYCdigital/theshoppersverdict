@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Deep Impact Socket Set, 7-Piece, 1/2 inch  Drive SAE (DWMT"
 seo_title: "DEWALT Deep Impact Socket Set Review: 7-Pc 1/2 inch  SAE"
 meta_description: "DEWALT 7-piece deep impact socket set review: tough, affordable 1/2 inch  drive SAE sockets. See real pros, cons & if they fit your toolbox."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07NXP48M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91MUArKrHAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Sizes run 3/8 inch " through 1 inch " with full 6-point engagement; no skipped steps between 7/16 inch " and 1 inch "
   - "Chrome vanadium steel with black oxide finish resists rust and stands up to repeated impact gun use"
   - "Includes a sturdy metal rail with detent balls that keep sockets locked in place during transport"
-cons:
+cons: 
   - "No metric sizes — this is SAE only, so you'll need a second set for import vehicles"
   - "Laser-etched size markings can wear off after heavy use; you'll want a paint pen for touch-ups"
   - Lacks a 1-1/8 inch " socket, which you'll need for many axle nuts and suspension work
+
 ---
 
 **The Shopper's Verdict: DEWALT Deep Impact Socket Set, 7-Piece, 1/2" Drive SAE**

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Creator 3 in 1 Retro Camera Toy, Transforms to Retro Vi"
 seo_title: "LEGO Creator 3 in 1 Retro Camera Toy, Transforms t Review"
 meta_description: "Our full lego creator 3 in 1 retro camera toy, transforms to retro vi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGY3FHDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JbY4q5ZKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most LEGO Creator 3-in-1 sets are good, but they rarely make you stop scrolling. The Retro Camera set (261 pieces, $34.99) is the exception. It's the kind of build that makes you nostalgic for a camera you've never actually held — and it delivers on the "3-in-1" promise better than most sets in this price range.

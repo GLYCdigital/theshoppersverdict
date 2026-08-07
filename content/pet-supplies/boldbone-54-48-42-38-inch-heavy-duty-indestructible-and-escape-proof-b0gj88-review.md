@@ -1,4 +1,5 @@
 ---
+
 title: "BOLDBONE 54/48/42/38 inch Heavy Duty Indestructible and Esca"
 seo_title: "BOLDBONE Heavy Duty Indestructible Dog Crate Review (2026)"
 meta_description: "Honest BOLDBONE 54/48/42/38-inch heavy duty indestructible dog crate review: build quality, escape-proof claims, sizing guide, and real owner feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GJ88X4JB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hDJ+nHI6L._AC_SL1037_.jpg"
-pros:
+pros: 
   - "Gauge steel construction with reinforced welds at stress points; holds up to genuine chewers and escape artists"
   - "Dual slide-bolt locks on both doors plus a center latch — three points of security per opening"
   - "Four sizes (38–54 inch) with clear crate-mate sizing; fold-flat design for transport"
-cons:
+cons: 
   - "Heavy — the 54-inch model weighs close to 90 pounds; not a crate you'll move around casually"
   - "Assembly requires a socket wrench; hardware is sturdy but the included Allen key strips easily"
   - "Tray is thin galvanized steel — durable but noisy when dogs shift weight; consider a crate mat"
+
 ---
 
 **If your dog has already destroyed one crate — or you're tired of coming home to a bent door frame and a guilty-looking escape artist — the BOLDBONE heavy duty line is built with exactly that frustration in mind.** This is a crate designed for power chewers, Houdini-types, and owners who've learned the hard way that cheap wire pens don't cut it.

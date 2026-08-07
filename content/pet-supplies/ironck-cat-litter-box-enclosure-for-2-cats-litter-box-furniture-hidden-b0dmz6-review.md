@@ -1,4 +1,5 @@
 ---
+
 title: "IRONCK Cat Litter Box Enclosure for 2 Cats, Litter Box Furni"
 seo_title: "IRONCK Cat Litter Box Enclosure for 2 Cats, Litter Review"
 meta_description: "Our full ironck cat litter box enclosure for 2 cats, litter box furni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMZ632KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x6yVUjx2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of looking at a plastic pan in your living room, the IRONCK Cat Litter Box Enclosure for 2 Cats is trying to solve a very specific problem: hiding the ugly while keeping your multi-cat household functional. At 4.2 stars across 210 ratings, it's not perfect — but for many buyers, it's close enough.

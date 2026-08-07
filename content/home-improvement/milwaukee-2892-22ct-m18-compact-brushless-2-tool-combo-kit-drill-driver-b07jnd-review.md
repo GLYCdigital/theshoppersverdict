@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 2892-22CT M18 Compact Brushless 2-Tool Combo Kit, "
 seo_title: "Milwaukee 2892-22CT M18 Compact Brushless 2-Tool C Review"
 meta_description: "Our full milwaukee 2892-22ct m18 compact brushless 2-tool combo kit,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JND2WZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m9Vi8IOLL._AC_SY355_PIbundle-5,TopRight,0,0_SH20_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Milwaukee M18 Compact Brushless 2-Tool Kit: Big-Tool Performance in a Pocket-Sized Package**

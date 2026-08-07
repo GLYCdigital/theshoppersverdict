@@ -1,4 +1,5 @@
 ---
+
 title: "Oatey 46000P PVC Universal Freestanding Tub Drain Kit"
 seo_title: "Oatey 46000P PVC Universal Freestanding Tub Drain  Review"
 meta_description: "Our full oatey 46000p pvc universal freestanding tub drain kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCW17TPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NnTX43cWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a freestanding tub drain hole and a plumbing wall that's already closed up, the Oatey 46000P is the kit that saves your weekend. This isn't a glamorous purchase — it's the difference between a working tub and a call to a plumber who charges $150 just to show up. With 229 ratings and a 4.6-star average, it's clearly doing something right for DIYers and pros alike.

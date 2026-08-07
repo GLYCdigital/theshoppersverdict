@@ -1,4 +1,5 @@
 ---
+
 title: "Ruffwear, Hitch Hiker Dog Backpack Carrier, Hands-Free Dog C"
 seo_title: "Ruffwear, Hitch Hiker Dog Backpack Carrier, Hands- Review"
 meta_description: "Our full ruffwear, hitch hiker dog backpack carrier, hands-free dog c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSLW323M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i9LwU7ieL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog is part hiking buddy, part pack mule, you've probably cycled through a few cheap nylon saddlebags that slide sideways the moment the trail gets rocky. The Ruffwear Hitch Hiker is a different animal. This is a purpose-built, hands-free carrier designed to sit stable while your dog trots, scrambles, and occasionally stops to roll in something unspeakable. After 210 Amazon ratings holding steady at 4.2 stars, it's clear this pack earns its keep—but it's not without tradeoffs.

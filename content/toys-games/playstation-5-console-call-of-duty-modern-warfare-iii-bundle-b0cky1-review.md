@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStationÂ®5 Console â€“ Call of DutyÂ® Modern WarfareÂ® I"
 seo_title: "PlayStationÂ®5 Console â€“ Call of DutyÂ® Modern W Review"
 meta_description: "Our full playstationâ®5 console â€“ call of dutyâ® modern warfareâ® i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKY1F29D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EVwZtrPeL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PlayStation 5 and Call of Duty have been synonymous with console generations since the PS3 era. This bundle pairs the PS5 Digital Edition with Modern Warfare III, and at 4.7 stars across 235 ratings, it's clearly doing something right. But let me tell you what the marketing doesn't.

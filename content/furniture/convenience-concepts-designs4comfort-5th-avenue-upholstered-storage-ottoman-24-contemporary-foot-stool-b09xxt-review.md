@@ -1,4 +1,5 @@
 ---
+
 title: "Convenience Concepts Designs4Comfort 5th Avenue Upholstered"
 seo_title: "5th Avenue Upholstered Storage Ottoman Review (2026)"
 meta_description: "Honest Convenience Concepts 5th Avenue Upholstered Ottoman review: 4.6★ rated storage footstool. Build quality, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XXTSKF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aZ-2iUPRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lift-top storage compartment holds roughly two folded throw blankets or a basket of kids' toys"
   - "Upholstered polyester fabric over foam cushioning — comfortable enough for daily footrest use"
   - "Assembles in under 10 minutes with no tools; pre-drilled legs screw in by hand"
-cons:
+cons: 
   - "Fabric is light gray only — no other color options, and it shows dirt on light-colored fabric"
   - "Legs are plastic, not wood — fine for light use but won't survive being used as a step stool"
   - "Storage lid doesn't stay open on its own; you need one hand to hold it while loading"
+
 ---
 
 **Is the 5th Avenue Ottoman a Smart Buy, or Just Another Cheap Accent Piece?**

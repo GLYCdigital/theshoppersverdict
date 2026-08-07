@@ -1,4 +1,5 @@
 ---
+
 title: "Aiibe 4GB 32GB 64GB USB Flash Drive 5 Pack Colorful Thumb Dr"
 seo_title: "Aiibe USB Flash Drive 5 Pack Review: Budget Storage That Works"
 meta_description: "Honest Aiibe 4GB/32GB/64GB USB 2.0 5-pack review: real speeds, build quality, and whether this colorful thumb drive bundle is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJD876L8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613lSzgEXPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five drives in a mix of 4GB, 32GB, and 64GB capacities — enough variety for different jobs without overpaying for storage you won't use"
   - "Swivel cap design protects the connector when not in use, no loose caps to lose"
   - "Color-coded casing makes it easy to assign drives to specific tasks or projects"
-cons:
+cons: 
   - "USB 2.0 speeds top out around 10MB/s write — fine for documents, painful for large video files"
   - "Cap feels slightly loose on some units; rotates freely but stays attached"
   - "The 4GB drive is nearly obsolete — useful only for BIOS updates or legacy equipment"
+
 ---
 
 Let's be honest: nobody gets excited about buying USB flash drives. You need them, you buy whatever's cheap, and you forget about them until you're scrambling to move files at 11 PM. The Aiibe 5-pack exists for exactly that moment — but is it worth your money? After digging through 220 ratings and the specs, here's the real picture.

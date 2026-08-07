@@ -1,4 +1,5 @@
 ---
+
 title: "SUNLAX Balcony Patio Privacy Fence Screen"
 seo_title: "SUNLAX Balcony Patio Privacy Fence Screen Review: Verdict"
 meta_description: "Our full sunlax balcony patio privacy fence screen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBQ191P8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NQncuZMkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most balcony privacy screens are cheap mesh that flaps in the breeze and looks like a shower curtain. The SUNLAX screen is not that. But it's also not perfect. Here's what 225 Amazon reviewers and my own analysis tell you before you spend money.

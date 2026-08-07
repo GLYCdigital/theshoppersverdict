@@ -1,7 +1,8 @@
 ---
-title: "POPRUN Monthly Planner 2025-2026 (Large- 8.5\" x 10.5\" Soft C"
-seo_title: "POPRUN Monthly Planner 2025-2026 (Large- 8.5\" x 10 Review"
-meta_description: "Our full poprun monthly planner 2025-2026 (large- 8.5\" x 10.5\" soft c review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "POPRUN Monthly Planner 2025-2026 (Large- 8.5\ x 10.5\ Soft C"
+seo_title: "POPRUN Monthly Planner 2025-2026 (Large- 8.5\ x 10 Review"
+meta_description: "Our full poprun monthly planner 2025-2026 (large- 8.5\ x 10.5\ soft c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "poprun-monthly-planner-2025-2026-large-8-5-x-10-5-soft-b0f1yk-review"
 image_alt: "POPRUN Monthly Planner 2025-2026 (Large- 8.5 x 10.5 Soft Cover), 18-Month Calendar Book (Jul.2025-Dec.2026), Calendar Pl"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F1YK7X64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XzvnO+ABL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to cram a week's worth of appointments into a tiny A5 grid, you know the frustration. The POPRUN Monthly Planner 2025-2026 takes the opposite approach: it's big, it's unapologetically spacious, and it gives your schedule room to breathe. But size alone doesn't make a great planner — let's dig into whether this one earns a spot on your desk.

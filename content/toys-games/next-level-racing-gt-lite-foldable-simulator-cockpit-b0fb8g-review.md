@@ -1,4 +1,5 @@
 ---
+
 title: "Next Level Racing GT Lite Foldable Simulator Cockpit"
 seo_title: "Next Level Racing GT Lite Foldable Simulator Cockp Review"
 meta_description: "Our full next level racing gt lite foldable simulator cockpit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FB8GWTKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FZrSTizYL._SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Next Level Racing GT Lite is the answer to a very specific problem: you want a proper sim racing cockpit, but you don't have a dedicated room for it. It folds down to a surprisingly compact footprint — roughly the size of a recliner folded flat — which means it lives in a corner of the living room or a closet between sessions. For anyone who's been wrestling a wheel clamped to a desk that wobbles, this is a serious upgrade.

@@ -1,4 +1,5 @@
 ---
+
 title: "BIG RED WRIGLEY'S BIG RED Cinnamon Chewing Gum"
 seo_title: "Wrigley's Big Red Cinnamon Gum Review: Bold Flavor"
 meta_description: "Wrigley's Big Red cinnamon gum review: bold flavor, long-lasting chew, and real-world performance. See if this classic earns a spot in your cart."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FX64LWJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yzcTWny8L._SL1000_.jpg"
-pros:
+pros: 
   - "Aggressive cinnamon heat that hits immediately and lingers for 15-20 minutes per stick"
   - "Classic stick format — 15 pieces per pack, easy to portion and share"
   - "Flavor consistency across batches; no weak or bland packs reported"
-cons:
+cons: 
   - "Sugar content is noticeable (2g per piece) — not ideal for keto or strict low-sugar diets"
   - "Cinnamon intensity can be overwhelming for those who prefer milder gum flavors"
+
 ---
 
 Let's be upfront: this is cinnamon gum with a reputation. Wrigley's Big Red has been around since 1975, and it's not trying to be subtle. If you want a gentle mint or a whisper of fruit, look elsewhere. If you want your mouth to feel like you just bit into a Red Hot candy, this delivers exactly that.

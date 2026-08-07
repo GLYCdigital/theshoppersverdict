@@ -1,4 +1,5 @@
 ---
+
 title: "WORKPRO 3PC Long Reach Pliers Set, 11 Inch Extra Long Needle"
 seo_title: "WORKPRO 3PC Long Reach Pliers Set, 11 Inch Extra L Review"
 meta_description: "Our full workpro 3pc long reach pliers set, 11 inch extra long needle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BG2GNCQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FY0xHCH5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dropped a 10mm socket into the void between an engine block and firewall, you already know the frustration this WORKPRO set solves. The 3PC Long Reach Pliers Set gives you 11 inches of extension into places your hands physically cannot go — and that's the entire point.

@@ -1,4 +1,5 @@
 ---
+
 title: "Manwich Original Sloppy Joe Sauce, Canned Sauce, 15 oz"
 seo_title: "Manwich Original Sloppy Joe Sauce, Canned Sauce, 1 Review"
 meta_description: "Our full manwich original sloppy joe sauce, canned sauce, 15 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D15CSBBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81if3vO6OXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know exactly what you're getting with Manwich Original. That's the point. But for a 15-oz can of sauce that's been a pantry staple since 1969, the question isn't *whether* it works — it's whether it still earns its spot on your shelf.

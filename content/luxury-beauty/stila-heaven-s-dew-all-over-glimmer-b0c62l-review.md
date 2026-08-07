@@ -1,4 +1,5 @@
 ---
+
 title: "stila Heaven's Dew All Over Glimmer"
 seo_title: "stila Heaven's Dew All Over Glimmer Review: Verdict | TSV"
 meta_description: "Our full stila heaven's dew all over glimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C62L7L5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xatvn1YPL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most liquid highlighters look like you dipped your face in craft glitter. The stila Heaven's Dew All Over Glimmer is not that. This is the dewy, lit-from-within glow that makeup brands *claim* to deliver but rarely do. After testing it for three weeks across different skin prep routines, here's what you need to know before spending your money.

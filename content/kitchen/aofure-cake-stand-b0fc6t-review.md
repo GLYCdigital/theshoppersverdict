@@ -1,4 +1,5 @@
 ---
+
 title: "Aofure Cake Stand"
 seo_title: "Aofure Cake Stand Review: Solid Turntable for Decorating"
 meta_description: "Aofure Cake Stand review: Is this rotating turntable worth it? Real buyer feedback, pros, cons, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FC6T8DFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Dt+ejqZTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Smooth, consistent rotation with no wobble — critical for clean buttercream finishes"
   - "Non-slip silicone base keeps the stand planted on countertops, even during vigorous frosting"
   - "Stainless steel turntable surface is easy to wipe clean and won't stain or absorb odors"
-cons:
+cons: 
   - "Max weight capacity is limited — heavy 3-tier cakes will strain the mechanism"
   - "No locking mechanism to hold the turntable in place when not spinning"
+
 ---
 
 If you've ever tried to frost a cake while rotating it on an inverted bowl, you know the struggle: lopsided swirls, smudged edges, and a lot of muttered frustration. The Aofure Cake Stand aims to fix that with a purpose-built rotating turntable. Here's the honest breakdown.

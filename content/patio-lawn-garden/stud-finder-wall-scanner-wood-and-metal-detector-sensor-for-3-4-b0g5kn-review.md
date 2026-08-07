@@ -1,4 +1,5 @@
 ---
+
 title: "Stud Finder Wall Scanner Wood and Metal Detector Sensor for "
 seo_title: "Stud Finder Wall Scanner Wood and Metal Detector S Review"
 meta_description: "Our full stud finder wall scanner wood and metal detector sensor for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G5KNVXZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51V+bCPpsLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: If you’ve ever hung a TV mount using a stud finder that beeped at every wire and pipe, you know the frustration. This wall scanner—a 4.0-star performer with 200 ratings—isn’t a miracle tool, but it does the job for standard drywall and light framing. Here’s the honest breakdown.

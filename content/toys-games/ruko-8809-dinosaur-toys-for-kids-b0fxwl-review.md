@@ -1,4 +1,5 @@
 ---
+
 title: "Ruko 8809 Dinosaur Toys for Kids"
 seo_title: "Ruko 8809 Dinosaur Toys for Kids Review: Verdict | TSV"
 meta_description: "Our full ruko 8809 dinosaur toys for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FXWLWZZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MITodpn2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Ruko 8809 Dinosaur Toy a roaring success or a dud? Here's what 235 buyers (4.7 stars) actually think before you click add-to-cart.**

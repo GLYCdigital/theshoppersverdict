@@ -1,4 +1,5 @@
 ---
+
 title: "TIMEMORE Manual Coffee Grinder Chestnut S3 Capacity 30g Hous"
 seo_title: "TIMEMORE Manual Coffee Grinder Chestnut S3 Capacit Review"
 meta_description: "Our full timemore manual coffee grinder chestnut s3 capacity 30g hous review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4CS43HV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514otJtd7TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the truth about the TIMEMORE Chestnut S3: most hand grinders in this price bracket are either portable-but-tiny or capable-but-clunky. This one threads the needle. At 4.5 stars across 225 Amazon ratings, it's clearly earning its keep on kitchen counters and campsites alike. But is it the right manual grinder for *you*? Let's dig into the specifics.

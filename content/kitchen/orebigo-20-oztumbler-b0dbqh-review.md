@@ -1,4 +1,5 @@
 ---
+
 title: "Orebigo 20 OzTumbler"
 seo_title: "Orebigo 20 OzTumbler Review: Verdict | TSV"
 meta_description: "Our full orebigo 20 oztumbler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBQHRD2T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y-QFrGkDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 20 oz sweet spot that most tumblers miss**

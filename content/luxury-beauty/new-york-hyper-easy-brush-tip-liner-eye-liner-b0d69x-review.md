@@ -1,4 +1,5 @@
 ---
+
 title: "New York Hyper Easy Brush Tip Liner Eye Liner"
 seo_title: "New York Hyper Easy Brush Tip Liner Eye Liner Review: Ver"
 meta_description: "Our full new york hyper easy brush tip liner eye liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D69X5YZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UyrYQ2BrL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about eyeliner: most brush tips either drag like a dull pencil or dump too much product mid-wing. The **New York Hyper Easy Brush Tip Liner** claims to thread that needle. At 4.4 stars from 220 Amazon ratings, it’s clearly doing something right. But is it *your* next everyday liner, or just another hyped tube? After digging through the specs and real buyer experiences, here’s the breakdown.

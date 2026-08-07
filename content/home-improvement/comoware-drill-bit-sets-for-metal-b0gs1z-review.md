@@ -1,4 +1,5 @@
 ---
+
 title: "COMOWARE Drill Bit Sets for Metal – Honest Review"
 seo_title: "COMOWARE Drill Bit Sets for Metal Review (2026): Worth It?"
 meta_description: "COMOWARE drill bit sets for metal reviewed: 29-piece M35 cobalt set tested for real drilling performance, durability, and value. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GS1ZNHVZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ddycscPTL._SL1001_.jpg"
-pros:
+pros: 
   - "M35 cobalt material holds up on stainless steel and hardened metals far better than standard HSS bits"
   - "135° split-point tip starts cleanly without walking, even on curved or angled surfaces"
   - 29-piece kit covers 1/16 inch " to 1/2 inch " in a sturdy blow-molded case with indexed slots
-cons:
+cons: 
   - "Case hinges feel lightweight for shop abuse; one reviewer reported cracking after a drop"
   - Sizes above 3/8 inch " lack reduced shanks, so they won't fit some compact drills
   - "Cobalt bits are brittle — you'll snap one if you run high RPM without cutting fluid"
+
 ---
 
 If you've ever watched a cheap HSS bit smoke and scream against a piece of stainless steel, you already know why the COMOWARE drill bit set for metal gets attention. This is a 29-piece M35 cobalt kit that sells for a fraction of what a single high-end cobalt bit costs at big-box hardware stores. The question isn't whether it's a good deal — it's whether the performance matches the promise.

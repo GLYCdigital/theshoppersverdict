@@ -1,4 +1,5 @@
 ---
+
 title: "VOLISUN Battery Operated Wall Sconces Set of Two, Wireless W"
 seo_title: "VOLISUN Battery Operated Wall Sconces Set of Two,  Review"
 meta_description: "Our full volisun battery operated wall sconces set of two, wireless w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXVG6Q2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yKC5uzbUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos and talk about what the VOLISUN battery wall sconces actually do for your space. If you've been staring at that dark hallway or awkward corner with no nearby junction box, this set solves a real problem — but it's not without compromises.

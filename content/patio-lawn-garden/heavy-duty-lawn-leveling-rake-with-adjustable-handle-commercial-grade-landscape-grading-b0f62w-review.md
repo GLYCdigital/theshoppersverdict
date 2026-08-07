@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Lawn Leveling Rake with Adjustable Handle - Comme"
 seo_title: "Heavy Duty Lawn Leveling Rake with Adjustable Hand Review"
 meta_description: "Our full heavy duty lawn leveling rake with adjustable handle - comme review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F62WDBCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Er9W4g72L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a serious tool for a specific job—fixing a lumpy lawn—not a gadget you'll use once and shove in the shed. At 4.4 stars across 220 ratings, it's earning its keep for most buyers. Here's the full breakdown.**

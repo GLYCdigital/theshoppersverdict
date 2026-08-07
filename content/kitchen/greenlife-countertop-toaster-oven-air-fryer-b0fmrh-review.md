@@ -1,4 +1,5 @@
 ---
+
 title: "GreenLife Countertop Toaster Oven Air Fryer"
 seo_title: "GreenLife Countertop Toaster Oven Air Fryer Review: Verdi"
 meta_description: "Our full greenlife countertop toaster oven air fryer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FMRHJ82R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o390crR-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **GreenLife Countertop Toaster Oven Air Fryer Review: Does the Ceramic Coating Justify the Hype?**

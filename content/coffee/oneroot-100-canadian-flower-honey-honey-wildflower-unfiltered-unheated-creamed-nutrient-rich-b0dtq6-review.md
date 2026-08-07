@@ -1,4 +1,5 @@
 ---
+
 title: "Oneroot 100% Canadian Flower Honey - Honey Wildflower Unfilt"
 seo_title: "Oneroot 100% Canadian Flower Honey - Honey Wildflo Review"
 meta_description: "Our full oneroot 100% canadian flower honey - honey wildflower unfilt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTQ6D33B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dsUE4pXFL._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're standing in the honey aisle, staring at a wall of identical golden bears. Then you see this: a jar of Oneroot Canadian wildflower honey that looks like a science experiment — cloudy, textured, definitely not the clear amber you're used to. That cloudiness is the point. Let me explain why it matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Maple Holistics Scented Rosemary Argan Shampoo Paraben Sulph"
 seo_title: "Maple Holistics Scented Rosemary Argan Shampoo Par Review"
 meta_description: "Our full maple holistics scented rosemary argan shampoo paraben sulph review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3X2YGS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NeiTb0-pL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $25 shampoo that actually earns its price tag? Let's dig in.**

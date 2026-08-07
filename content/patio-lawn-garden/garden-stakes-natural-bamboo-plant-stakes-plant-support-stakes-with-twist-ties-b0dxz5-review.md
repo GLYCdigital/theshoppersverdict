@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Stakes, Natural Bamboo Plant Stakes, Plant Support St"
 seo_title: "Bamboo Garden Stakes Review: Sturdy Plant Support with Ties"
 meta_description: "Honest review of natural bamboo plant stakes with twist ties. Are they sturdy enough for tomatoes and tall perennials? We break down real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXZ58KJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Aja9DN+nL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Natural bamboo construction blends into garden beds better than green plastic or metal stakes"
   - "Twist ties included — saves a separate purchase and they hold up through a full season"
   - "Smooth, splinter-free surface on most pieces — no gloves required for handling"
-cons:
+cons: 
   - "Lengths vary slightly within a bundle — some pieces run 1-2 inches shorter than advertised"
   - "Not ideal for heavy indeterminate tomatoes in windy zones without additional cross-bracing"
+
 ---
 
 ## The $15 Fix Your Garden Actually Needs

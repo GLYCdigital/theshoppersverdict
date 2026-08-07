@@ -1,4 +1,5 @@
 ---
+
 title: "LAOPAO LED Desk Lamp with Wireless Charger: USB Charging Por"
 seo_title: "LAOPAO LED Desk Lamp with Wireless Charger: USB Ch Review"
 meta_description: "Our full laopao led desk lamp with wireless charger: usb charging por review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTVM89BD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61La23HImsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LAOPAO LED Desk Lamp with Wireless Charger tries to solve a real problem: too many cords snaking across your desk. A lamp, a phone charger, and a tablet cable all competing for one outlet. This lamp consolidates all three into a single footprint. But does consolidation come at the cost of actual task lighting? I dug through 220 ratings and the specs to find out.

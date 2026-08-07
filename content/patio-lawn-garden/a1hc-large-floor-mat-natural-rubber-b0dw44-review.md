@@ -1,4 +1,5 @@
 ---
+
 title: "A1HC Large Floor Mat, Natural Rubber"
 seo_title: "A1HC Large Floor Mat Review: Natural Rubber Workhorse"
 meta_description: "A1HC Large Floor Mat review: 4.8-star natural rubber mat for patios, garages, and workshops. Real-world durability tested. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DW44XMD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uB5-JCrZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine natural rubber compound — not recycled crumb or SBR blend — with a dense, non-porous surface that resists oil, water, and UV degradation"
   - "Substantial weight and thickness (roughly 3/8 inch) keeps it flat without curling at edges, even in direct summer heat"
   - "Textured top surface provides solid traction for boots, bare feet, and pet claws without being abrasive"
-cons:
+cons: 
   - "Heavy — expect to wrestle it into place; at roughly 1.5 pounds per square foot, this isn't a one-hand move"
   - "Initial rubber odor is strong for the first 3–5 days; airing it out before installation is mandatory for indoor use"
+
 ---
 
 **If you've ever bought a "rubber" mat from a big-box store and watched it crack, curl, or degrade within a season, this A1HC mat is the corrective experience you've been waiting for.** With a 4.8-star average across 240 ratings, this isn't some fly-by-night import — it's a genuinely engineered piece of natural rubber that treats flooring like the work surface it actually is.

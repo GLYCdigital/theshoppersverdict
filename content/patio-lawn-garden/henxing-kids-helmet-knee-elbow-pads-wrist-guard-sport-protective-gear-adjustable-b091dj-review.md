@@ -1,4 +1,5 @@
 ---
+
 title: "HENXING Kids Helmet Knee Elbow Pads Wrist Guard Sport Protec"
 seo_title: "HENXING Kids Helmet Knee Elbow Pads Wrist Guard Sp Review"
 meta_description: "Our full henxing kids helmet knee elbow pads wrist guard sport protec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B091DJ4VPT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I2UhoBNkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 Decision That Could Save a Trip to Urgent Care

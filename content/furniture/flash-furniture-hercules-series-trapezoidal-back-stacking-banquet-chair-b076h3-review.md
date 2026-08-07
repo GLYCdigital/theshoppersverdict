@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture HERCULES Series Trapezoidal Back Stacking Ba"
 seo_title: "Flash Furniture HERCULES Stacking Chair Review (2026)"
 meta_description: "Honest Flash Furniture HERCULES trapezoidal back stacking chair review: build quality, comfort, weight capacity, and who should buy. Real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B076H35TWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qpl6dPKFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Steel frame with 800+ lb static weight rating — among the strongest in this price class"
   - "Stacking design stores 10+ chairs in under 3 square feet of floor space"
   - "Trapezoidal back adds lumbar support most banquet chairs skip entirely"
-cons:
+cons: 
   - "Padded seat is firm — not ideal for marathon 4-hour events without cushions"
   - "No armrests, which some older guests or those with mobility issues will miss"
+
 ---
 
 Let's cut through the catalog-speak. The Flash Furniture HERCULES Series Trapezoidal Back Stacking Chair isn't trying to be your living room throne. It's a workhorse. And after digging through 225 ratings averaging 4.5 stars, the consensus is clear: this is the chair you buy when you need 20 of something that won't collapse at a wedding reception.

@@ -1,4 +1,5 @@
 ---
+
 title: "M&M'S Milk Chocolate Candy, Party Size, 38 oz Bag (Pack of 2"
 seo_title: "M&M'S Milk Chocolate Candy, Party Size, 38 oz Bag  Review"
 meta_description: "Our full m&m's milk chocolate candy, party size, 38 oz bag (pack of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHHGDHVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613Vztb-SBL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # M&M'S Milk Chocolate Party Size (Pack of 2): The Bulk Candy Math That Actually Works

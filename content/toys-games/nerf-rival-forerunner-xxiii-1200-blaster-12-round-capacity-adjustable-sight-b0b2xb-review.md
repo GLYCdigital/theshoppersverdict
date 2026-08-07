@@ -1,4 +1,5 @@
 ---
+
 title: "Nerf Rival Forerunner XXIII-1200 Blaster, 12 Round Capacity,"
 seo_title: "Nerf Rival Forerunner XXIII-1200 Blaster, 12 Round Review"
 meta_description: "Our full nerf rival forerunner xxiii-1200 blaster, 12 round capacity, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B2XBWS1B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h1xmqDNTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nerf Rival Forerunner XXIII-1200 isn't trying to be your first blaster. It's trying to be your last one before you graduate to something that costs three times as much.** And for the most part, it earns that spot in your arsenal.

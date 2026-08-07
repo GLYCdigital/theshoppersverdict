@@ -1,4 +1,5 @@
 ---
+
 title: "40FT Slip Lawn Water Slide, Giant Slip, Splash and Slide for"
 seo_title: "40FT Slip Lawn Water Slide Review: Worth It? (2026)"
 meta_description: "Honest 40ft Slip Lawn Water Slide review: setup, durability, safety, and real buyer feedback. Is this giant splash slide worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXCST5BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91KL9qYRpZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 40-foot sliding surface that accommodates multiple kids at once without bottlenecking"
   - "Heavy-duty PVC material handles aggressive play — several reviewers report surviving full summers"
   - "Setup takes under 15 minutes with the included stakes and side splash strips"
-cons:
+cons: 
   - "Requires a very gradual slope for best results — flat yards significantly reduce slide speed"
   - "Water consumption is substantial; continuous sprinkler flow needed for the full experience"
   - "No repair patches included in the box despite the material being puncture-prone on rough ground"
+
 ---
 
 **The 40-foot water slide that turns your backyard into a water park — if you've got the right slope.**

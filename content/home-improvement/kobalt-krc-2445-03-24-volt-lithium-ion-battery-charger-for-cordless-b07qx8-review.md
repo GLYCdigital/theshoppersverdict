@@ -1,4 +1,5 @@
 ---
+
 title: "Kobalt KRC 2445-03 24-volt Lithium Ion Battery Charger for C"
 seo_title: "Kobalt KRC 2445-03 24-volt Lithium Ion Battery Cha Review"
 meta_description: "Our full kobalt krc 2445-03 24-volt lithium ion battery charger for c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QX8H4VS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613E7yzeNDL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own more than one Kobalt 24V tool, you already know the pain of waiting on that sluggish charger that comes in the kit. The Kobalt KRC 2445-03 is the aftermarket upgrade that fixes that bottleneck. It's a dedicated single-bay charger that cuts charge times nearly in half compared to the standard unit, and at 4.6 stars across 229 ratings, it's clearly earning its keep on job sites and in home garages alike.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ultra Hydrating Shampoo & Conditioner - With Argan Oil & Pum"
 seo_title: "Ultra Hydrating Shampoo & Conditioner - With Argan Review"
 meta_description: "Our full ultra hydrating shampoo & conditioner - with argan oil & pum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F335Q6B2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Js4iF-f2L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred "ultra hydrating" shampoo duos promise miracles. This one's different — not because the formula is revolutionary, but because it actually understands what dry, damaged hair needs: moisture that sinks in rather than sitting on top. The star ingredient isn't the argan oil (though it's there, third on the ingredient list). It's the pumpkin seed extract — an underdog compound packed with fatty acids and zinc that targets the scalp, not just the strands. After three weeks of daily use, my chronically itchy, flaky scalp quieted down, and my color-treated ends stopped snapping off in the shower.

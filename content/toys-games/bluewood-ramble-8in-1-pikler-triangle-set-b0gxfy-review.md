@@ -1,4 +1,5 @@
 ---
+
 title: "BlueWood Ramble 8in 1 Pikler Triangle Set"
 seo_title: "BlueWood Ramble 8-in-1 Pikler Set Review: Worth It?"
 meta_description: "Honest BlueWood Ramble 8in 1 Pikler Triangle Set review: build quality, safety, versatility, and real buyer feedback. Is this climbing set worth $200+?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXFYV4F5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PBGqLh49L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 distinct configurations from one base set — climbing triangle, ramp, arch, and slide combo that scales from 6 months to 5 years"
   - "Solid birch plywood construction with rounded edges and a smooth, non-toxic finish that holds up to daily toddler abuse"
   - "Folds flat for storage in about 30 seconds — no tools, no disassembly, just hinge locks"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with 20+ bolts; the included Allen wrench is flimsy and strips easily on tighter joints"
   - "At roughly 25 lbs for the full set, it's not something you'll casually move between rooms — the arch alone is awkward to carry"
   - "The slide/ramp surface is smooth unfinished wood; socks-only climbers will slip, and some buyers report needing a grippy mat"
+
 ---
 
 Let's be direct: there are dozens of Pikler triangle sets on Amazon, and most are flimsy, overpriced, or both. The BlueWood Ramble 8-in-1 stands out because it actually delivers on the "8-in-1" promise without feeling like a cheap gimmick. Here's what you need to know before you click add to cart.

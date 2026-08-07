@@ -1,4 +1,5 @@
 ---
+
 title: "Dior Miss Eau de Parfum 50ml"
 seo_title: "Dior Miss Eau de Parfum 50ml Review: Worth It? (2026)"
 meta_description: "Honest Dior Miss Eau de Parfum 50ml review: sillage, longevity, scent breakdown, and who should buy. Real buyer feedback at 4.5/5 stars."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09FYB293V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31+J-A+pi0L._SS40_.jpg"
-pros:
+pros: 
   - "Longevity that genuinely hits 8-10 hours on skin; projects well for the first 3-4 hours without being cloying"
   - "Layered composition — the Jasmine and Rose heart stays refined even as the Patchouli base warms up"
   - "The 50ml bottle is a practical travel-friendly size; the magnetic cap and weighted glass feel premium"
-cons:
+cons: 
   - "The opening is a citrus blast that can read as sharp or soapy for the first 10-15 minutes — patience required"
   - "On some skin chemistries, the Musk and Patchouli base turns powdery and loses the floral lift entirely"
   - "At this price point, there's no discovery set or travel spray included — you're committing blind if you haven't smelled it"
+
 ---
 
 **The $130 question: Is Dior Miss Eau de Parfum just another pretty pink bottle, or does the juice actually deliver?** After digging through 225 Amazon ratings (4.5 stars) and testing this myself, here's the unfiltered truth.

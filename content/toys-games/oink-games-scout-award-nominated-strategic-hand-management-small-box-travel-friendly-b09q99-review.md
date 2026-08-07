@@ -1,4 +1,5 @@
 ---
+
 title: "Oink Games Scout Award-Nominated Strategic Hand Management |"
 seo_title: "Oink Games Scout Award-Nominated Strategic Hand Ma Review"
 meta_description: "Our full oink games scout award-nominated strategic hand management | review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09Q99T87T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fit7GlUeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most card games in this price range fall into one of two camps: they're either so simple you're bored after three rounds, or so complex you need a 45-minute rules explanation before anyone touches a card. Scout from Oink Games sits in a sweet spot that's genuinely rare — it's a hand-management game that takes two minutes to explain but keeps your brain working for the full 15–20 minutes of play.

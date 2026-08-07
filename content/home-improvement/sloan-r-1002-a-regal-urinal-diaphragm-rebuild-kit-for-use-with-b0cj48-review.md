@@ -1,4 +1,5 @@
 ---
+
 title: "Sloan R-1002-A Regal Urinal Diaphragm Rebuild Kit - For use "
 seo_title: "Sloan R-1002-A Regal Urinal Diaphragm Rebuild Kit  Review"
 meta_description: "Our full sloan r-1002-a regal urinal diaphragm rebuild kit - for use  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ4832L5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eQfywVc7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The fix for a running urinal that actually works — if you buy the right one.**

@@ -1,4 +1,5 @@
 ---
+
 title: "TIGI Bed Head Hair Gel for Men, Power Play 2-Pack â€“ Firm F"
 seo_title: "TIGI Bed Head Hair Gel for Men, Power Play 2-Pack  Review"
 meta_description: "Our full tigi bed head hair gel for men, power play 2-pack â€“ firm f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01IDN0D2U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ojBQQTdiL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: most “firm hold” men’s gels are either glue-in-a-tube that flakes like dandruff by noon, or watery goop that gives up by lunch. The TIGI Bed Head Power Play 2-Pack sits in a rare middle ground — and that’s exactly why it’s holding a 4.7-star average across 235 Amazon ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Applegate, Natural Gluten-Free Chicken Nuggets Family Size,"
 seo_title: "Applegate Gluten-Free Chicken Nuggets Review (2026)"
 meta_description: "Applegate Natural Gluten-Free Chicken Nuggets Family Size review: taste, texture, ingredients, and value. Is this 4.6-star frozen staple worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00BN6EIG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xTFwSXIZL._SL1500_.jpg"
-pros:
+pros: 
   - "Real chicken breast meat is the first ingredient — no mechanically separated poultry or fillers"
   - "Gluten-free coating holds up in both oven and air fryer without turning soggy or falling off"
   - "Family size (16 oz / about 30 pieces) delivers roughly 4-5 servings per box, beating typical 10-12 oz kid-focused bags"
-cons:
+cons: 
   - "At roughly $8-9 per box, you're paying a clear premium over conventional nuggets (often 2x the price per ounce)"
   - "Coating is thinner and less crispy than fast-food style breading — some kids may notice the difference"
   - "Sodium content runs about 340mg per 4-piece serving, which is moderate but not low"
+
 ---
 
 **Is this the gluten-free nugget that actually tastes like chicken? Short answer: yes, with a few caveats worth knowing before you buy.**

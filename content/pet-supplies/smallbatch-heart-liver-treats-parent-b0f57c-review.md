@@ -1,4 +1,5 @@
 ---
+
 title: "smallbatch Heart & Liver Treats Parent"
 seo_title: "smallbatch Heart & Liver Treats Parent Review: Verdict | "
 meta_description: "Our full smallbatch heart & liver treats parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F57CV444/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IM17HGKmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise on this one. The smallbatch Heart & Liver Treats Parent has earned a 4.6-star average across 229 ratings, and after digging through the buyer feedback, I can tell you exactly why — and where it stumbles.

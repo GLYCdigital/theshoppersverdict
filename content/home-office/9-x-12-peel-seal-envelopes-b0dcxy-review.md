@@ -1,4 +1,5 @@
 ---
+
 title: "9 x 12 Peel & Seal Envelopes"
 seo_title: "9 x 12 Peel & Seal Envelopes Review: Are They Worth It?"
 meta_description: "Honest 9 x 12 Peel & Seal Envelopes review: strength, stickiness, and value. See what 229 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCXYWYQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Cxjb0wGxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adhesive strip seals firmly with light pressure — no licking, no moisture, no mess"
   - "Heavyweight paper (typically 28lb) resists tearing and protects contents during transit"
   - "Reinforced flap design reduces curling and ensures a flat, professional look"
-cons:
+cons: 
   - "Seal is permanent once pressed — no repositioning if you make a mistake"
   - "Some users report the adhesive weakens in very humid environments"
   - "No window option for address labels — you'll need to write or print labels separately"
+
 ---
 
 Let's be honest about envelopes: they're not exciting. But if you're shipping contracts, sending invoices, or mailing documents that need to arrive intact — the 9 x 12 Peel & Seal Envelope is the workhorse your office actually needs.

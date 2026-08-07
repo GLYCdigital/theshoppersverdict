@@ -1,4 +1,5 @@
 ---
+
 title: "Tom Ford Eau D'ombre Leather Eau De Toilette - Spray for Men"
 seo_title: "Tom Ford Eau D'ombre Leather Eau De Toilette - Spr Review"
 meta_description: "Our full tom ford eau d'ombre leather eau de toilette - spray for men review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTW4QV27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Adn74uM7L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** Tom Ford's Ombre Leather is a modern masterpiece. This Eau de Toilette iteration is the lighter, more approachable sibling — but "lighter" is relative. It still smells like a luxury leather jacket, just one you can wear to a business meeting without clearing the room.

@@ -1,4 +1,5 @@
 ---
+
 title: "Eight O'Clock Coffee Dark Italian Espresso, Dark Roast, Kosh"
 seo_title: "Eight O'Clock Dark Italian Espresso Review: Worth It?"
 meta_description: "Honest Eight O'Clock Dark Italian Espresso review: bold dark roast, kosher certified, ground coffee. Real taste tests, pros/cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSHCMYS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618FR2pcUzL._SL1001_.jpg"
-pros:
+pros: 
   - "Deep, smoky espresso profile with low acidity — smooth even black"
   - "Consistent grind size works well in drip, French press, and moka pots"
   - "Kosher certified and affordable at typical ground coffee price points"
-cons:
+cons: 
   - "Pre-ground means it stales faster than whole bean — buy smaller bags"
   - "Not truly an espresso roast — darker than typical Italian blends, closer to French roast"
   - "Some reviewers note occasional bitter aftertaste if over-extracted"
+
 ---
 
 Look, I've reviewed dozens of "espresso" grounds that were really just dark-roasted drip coffee wearing a fancy label. The Eight O'Clock Dark Italian Espresso doesn't completely dodge that trap, but it gets closer than most — and for the price, it's genuinely hard to beat.

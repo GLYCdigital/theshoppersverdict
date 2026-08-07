@@ -1,15 +1,16 @@
 ---
+
 title: "BLACK+DECKER Corded Drill, 5.5-Amp, 3/8-Inch (DR260C)"
 seo_title: "BLACK+DECKER Corded Drill Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest black+decker corded drill, 5.5 review 7,727+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "black-decker-corded-drill-5-5-amp-3-8-inch-dr260c-review"
 image_alt: "BLACK+DECKER Corded Drill, 5.5-Amp, 3/8-Inch (DR260C)"
-keywords:
+keywords: 
   - "blackdecker corded drill review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the BLACK+DECKER Corded Drill, 5.5-Amp?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the BLACK+DECKER Corded Drill, 5.5-Amp?"
@@ -20,10 +21,11 @@ review_count: 7727
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00T2VJ93C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VmiKQqsaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be clear about what this drill is: a $48 corded workhorse for people who want torque without battery anxiety. The BLACK+DECKER DR260C isn't flashy, but it's been a top seller for years for one simple reason — it gets the job done without drama. With 7,727 ratings holding steady at 4.6 stars, this is one of the most-reviewed drills in its price class. Here's the real breakdown.

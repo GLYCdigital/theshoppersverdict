@@ -1,4 +1,5 @@
 ---
+
 title: "Merax WM Wooden House Bed"
 seo_title: "Merax WM Wooden House Bed Review: Verdict | TSV"
 meta_description: "Our full merax wm wooden house bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7LW6TRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rJFvfS2VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Merax WM Wooden House Bed a dream come true or a DIY nightmare?** With 225 ratings holding a solid 4.5 stars, this playhouse-style bed is clearly winning over families. But before you hit "Add to Cart," here's what you actually need to know — including the assembly slog and the weight limit nobody mentions in the product photos.

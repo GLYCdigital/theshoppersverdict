@@ -1,4 +1,5 @@
 ---
+
 title: "Ampad Computation Book, 4x4 Quad Ruled, 76 Sheets, 11-3/4 inch  x"
 seo_title: "Ampad Computation Book Review: 4x4 Quad Ruled Notebook"
 meta_description: "Ampad Computation Book 4x4 quad ruled review: 76 sheets, 11-3/4 inch  x 9-1/4 inch  grid. See durability, ink bleed, and who should buy this math notebook."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000DZEA2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dzur2t+jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4x4 grid (four squares per inch) gives precise alignment for math, engineering, and drafting without the heavy feel of graph paper"
   - "Perforated pages tear out cleanly along the micro-perf line — no ragged edges, no fighting the binding"
   - "Sturdy chipboard back and taped spine hold up to daily backpack abuse; 76 sheets last a full semester for most courses"
-cons:
+cons: 
   - "Paper is 20 lb weight — fountain pens and heavy gel inks will ghost through; stick to ballpoint or fine-point markers"
   - "Wire binding can snag on loose items in a bag; the spiral is exposed, not covered"
   - "Grid lines are printed in a light blue that can wash out under bright LED lighting — contrast is weaker than black-printed grids"
+
 ---
 
 If you've ever tried to draw a matrix on college-ruled paper, you know the pain. The Ampad Computation Book solves that problem with a 4x4 quad grid — four squares per inch — printed on every single page. It's the kind of tool that disappears into your workflow because it just works. But is it the right notebook for *your* work? Let's break it down.

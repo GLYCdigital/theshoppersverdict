@@ -1,4 +1,5 @@
 ---
+
 title: "CAMILSON Indoor/Outdoor Hawaii Summer Border Series Summer M"
 seo_title: "CAMILSON Hawaii Summer Border Series Review (2026)"
 meta_description: "Honest CAMILSON Hawaii Summer Border Series review: build quality, real-world durability, pros/cons, and who should buy this indoor/outdoor piece."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRWJVG8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915JJ2Wj0IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fade-resistant tropical border pattern holds up through full sun exposure without bleaching"
   - "Quick-dry fabric handles rain and morning dew without developing mildew smell"
   - "Reversible design gives two distinct looks for the price of one piece"
-cons:
+cons: 
   - "Border pattern is bold — clashes with minimalist or neutral decor schemes"
   - "No built-in tie-down straps; can shift in strong coastal winds"
+
 ---
 
 Let's be straight about the CAMILSON Hawaii Summer Border Series: this isn't a subtle piece of furniture. The tropical border pattern announces itself the moment you walk into the room — or onto the patio. That's either exactly what you're after or a dealbreaker. With 220 ratings averaging 4.4 stars, most buyers clearly want that statement look. Here's what you should know before committing.

@@ -1,4 +1,5 @@
 ---
+
 title: "Emhumn 4inch & 9inch Poly Spot Markers for Agility Dot for G"
 seo_title: "Emhumn 4 & 9 Inch Poly Spot Markers Review: Agility Dots"
 meta_description: "Honest Emhumn poly spot markers review: 4-inch and 9-inch agility dots for gym, PE, and sports training. Build quality, durability, real user feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWJ68RZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711t9SCP4WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flat, low-profile design won't trip athletes or catch under shoes during pivots"
   - "Set includes both 4-inch and 9-inch dots — genuine versatility for different drills"
   - "PVC material holds up to repeated stomping without cracking or curling at edges"
-cons:
+cons: 
   - "No storage bag included — you'll need to supply your own carry solution"
   - "Can slide slightly on very smooth, polished gym floors during aggressive cuts"
+
 ---
 
 Agility dots are one of those deceptively simple training tools. You toss them on the floor, run a drill, and pack them up. But cheap versions betray you — curling edges, slippery surfaces, colors that fade after a month. The Emhumn 4-inch and 9-inch poly spot markers avoid most of those traps. Here's the real breakdown after digging through 235 ratings and the product specs.

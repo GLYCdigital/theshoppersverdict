@@ -1,4 +1,5 @@
 ---
+
 title: "MSI MPG B650 - Carbon WiFi Motherboard"
 seo_title: "MSI MPG B650 - Carbon WiFi Motherboard Review: Verdict | "
 meta_description: "Our full msi mpg b650 - carbon wifi motherboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DF9VVP1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819gJ22NMiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MSI MPG B650 Carbon WiFi Motherboard Review: Enthusiast-Class AM5 Without Breaking the Bank

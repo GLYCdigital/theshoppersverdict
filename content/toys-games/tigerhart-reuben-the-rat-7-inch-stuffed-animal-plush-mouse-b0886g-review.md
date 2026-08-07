@@ -1,4 +1,5 @@
 ---
+
 title: "TigerHart Reuben The Rat - 7 Inch Stuffed Animal Plush Mouse"
 seo_title: "TigerHart Reuben The Rat - 7 Inch Stuffed Animal P Review"
 meta_description: "Our full tigerhart reuben the rat - 7 inch stuffed animal plush mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0886GWC6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pEAYzWo4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the plush rat you've been hunting for?** If you're expecting a hyper-realistic rodent replica, stop here. But if you want a charming, well-built little mouse that earns its keep as a cuddle buddy, desk ornament, or gag gift, Reuben has a 4.8-star average across 240 ratings for a reason.

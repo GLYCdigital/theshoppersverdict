@@ -1,4 +1,5 @@
 ---
+
 title: "Alitte 9-Inch Paper Plates Uncoated, Everyday Disposable Pla"
 seo_title: "Alitte 9-Inch Paper Plates Review: Uncoated & Sturdy"
 meta_description: "Honest Alitte 9-inch uncoated paper plates review: sturdy, soak-resistant, and compostable. See how they hold up to real meals before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CV5YFD4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dYpOE08RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely uncoated — compostable and microwave-safe without the plastic film that makes most 'eco' plates a lie"
   - "Rigid 9-inch construction that holds up to a full dinner plate load without bowing or going soggy mid-meal"
   - "No waxy residue or chemical smell, even with hot, oily foods"
-cons:
+cons: 
   - "Not leakproof for watery foods like soups or saucy pasta — juice will wick through after 10-15 minutes"
   - "Single-ply means you'll want a liner for anything with a lot of grease pooling"
+
 ---
 
 # Alitte 9-Inch Paper Plates Review: The Uncoated Option That Actually Works

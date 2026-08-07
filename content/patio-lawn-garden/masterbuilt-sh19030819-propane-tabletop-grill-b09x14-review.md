@@ -1,4 +1,5 @@
 ---
+
 title: "Masterbuilt SH19030819 Propane Tabletop Grill"
 seo_title: "Masterbuilt SH19030819 Propane Tabletop Grill Review: Ver"
 meta_description: "Our full masterbuilt sh19030819 propane tabletop grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09X148GLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tV0OTXtzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The portable grill that respects your tailgate — but demands a backup plan**

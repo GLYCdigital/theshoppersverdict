@@ -1,4 +1,5 @@
 ---
+
 title: "IMUSA 6 or 3 Cup Electric Espresso Maker"
 seo_title: "IMUSA 6 or 3 Cup Espresso Maker Review (2026): Worth It?"
 meta_description: "IMUSA 6 or 3 Cup Electric Espresso Maker review: 4.7-star rated, $35 stovetop-style espresso. Real performance, downsides, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 2253
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BTR46TJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610v3wdyHBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 9-bar pump pressure at this price point—real crema, not just dark coffee"
   - "Dual safety valves and auto shut-off prevent the dangerous pressure buildup common in cheap stovetop units"
   - "Compact footprint (under 10 inches tall) fits under standard upper cabinets with room to spare"
-cons:
+cons: 
   - "Single-boiler design means you must wait 3-4 minutes between pulling a shot and steaming milk"
   - "Included plastic scoop/tamper is nearly useless—plan to buy a proper 51mm tamper immediately"
   - "Carafe spout design drips slightly after pouring—keep a cloth underneath"
+
 ---
 
 ## The $35 Espresso Maker That Actually Pulls Crema

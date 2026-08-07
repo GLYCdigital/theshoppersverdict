@@ -1,4 +1,5 @@
 ---
+
 title: "JXLEDAYY 500 LED/1000 LED Christmas Lights Outdoor Decoratio"
 seo_title: "JXLEDAYY 500 LED/1000 LED Christmas Lights Outdoor Review"
 meta_description: "Our full jxledayy 500 led/1000 led christmas lights outdoor decoratio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CL9KLWJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZlWiBCgKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 8-Mode String Light That Actually Survives Winter

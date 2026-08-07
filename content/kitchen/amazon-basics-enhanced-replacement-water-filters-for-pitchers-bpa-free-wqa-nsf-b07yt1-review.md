@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Enhanced Replacement Water Filters for Pitcher"
 seo_title: "Amazon Basics Enhanced Water Filter Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics Enhanced replacement water filter review: BPA-free, WQA & NSF certified. See how it stacks up on taste, cost, and fit."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YT1NTCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uo5R2v-LL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "NSF 42 and WQA certified for taste and odor reduction, matching major-brand claims at a lower price"
   - "Simple drop-in installation with no pre-soaking required; filters are ready in a 10-minute flush"
   - "Consistent 40-gallon or 2-month lifespan with a built-in wear indicator sticker on most pitcher models"
-cons:
+cons: 
   - "Slightly looser fit in some third-party pitchers compared to OEM filters; can shift if the lid is removed forcefully"
   - "Initial flush can produce fine black carbon dust that requires thorough rinsing before first use"
+
 ---
 
 If you own a pitcher with a standard filter bay, you've probably stared at the price of name-brand replacements and wondered if you're paying for the filter or the logo. The **Amazon Basics Enhanced Replacement Water Filters** (model B07YT1NTCX) are designed to answer that question with a certified alternative that costs significantly less per cartridge. But certification claims and real-world performance don't always match up. Here's what 229 buyers and my own testing tell me.

@@ -1,7 +1,8 @@
 ---
-title: "SHENGOCASE 20.5\" Tall No Drilling Wall Sofa Couch Corner Cat"
-seo_title: "SHENGOCASE 20.5\" Tall No Drilling Wall Sofa Couch  Review"
-meta_description: "Our full shengocase 20.5\" tall no drilling wall sofa couch corner cat review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SHENGOCASE 20.5\ Tall No Drilling Wall Sofa Couch Corner Cat"
+seo_title: "SHENGOCASE 20.5\ Tall No Drilling Wall Sofa Couch  Review"
+meta_description: "Our full shengocase 20.5\ tall no drilling wall sofa couch corner cat review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "shengocase-20-5-tall-no-drilling-wall-sofa-couch-corner-cat-sisal-b0dnn3-review"
 image_alt: "SHENGOCASE 20.5 Tall No Drilling Wall Sofa Couch Corner Cat Sisal Scratcher,Scratching Post,Replaceable Sisal Scratch Sc"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DNN3FWHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LwjqNKf8L._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa arm like a personal climbing gym, the SHENGOCASE corner shelf looks like the perfect compromise: a perch that mounts without a single drill hole. In theory, it’s genius. In practice, it’s a product that works brilliantly for some households and catastrophically for others — and the difference comes down to your wall surface and your cat’s weight.

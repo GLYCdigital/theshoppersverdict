@@ -1,4 +1,5 @@
 ---
+
 title: "Pressure balancing unit"
 seo_title: "Pressure balancing unit Review: Verdict | TSV"
 meta_description: "Our full pressure balancing unit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B08392T62S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710bstKCbkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A pressure balancing unit is one of those parts you don't think about until your shower turns to ice when someone flushes a toilet. Then it's suddenly the most important thing in your house. This unit — a 1/2-inch IPS valve with a brass body and preset anti-scald limit — is built to fix exactly that problem. It sits behind your shower wall, mixing hot and cold water to keep output temperature steady regardless of pressure swings elsewhere in the house.

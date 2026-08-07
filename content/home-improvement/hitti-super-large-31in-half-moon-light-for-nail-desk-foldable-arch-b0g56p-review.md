@@ -1,4 +1,5 @@
 ---
+
 title: "HITTI Super Large 31in Half Moon Light for Nail Desk, Foldab"
 seo_title: "HITTI Super Large 31in Half Moon Light for Nail De Review"
 meta_description: "Our full hitti super large 31in half moon light for nail desk, foldab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G56PXJ3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VnzFuXsfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're doing nail work, detailed crafting, or any task where shadows are the enemy, the HITTI Super Large 31in Half Moon Light is trying to solve a very specific problem. Most desk lamps throw light from one angle. This one wraps around your workspace like a halo. The question is whether the 4.6-star average across 229 ratings holds up when the lamp is actually sitting in front of you.

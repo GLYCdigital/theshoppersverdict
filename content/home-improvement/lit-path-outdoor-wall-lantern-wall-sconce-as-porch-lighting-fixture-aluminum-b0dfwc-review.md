@@ -1,4 +1,5 @@
 ---
+
 title: "LIT-PaTH Outdoor Wall Lantern, Wall Sconce as Porch Lighting"
 seo_title: "LIT-PaTH Outdoor Wall Lantern, Wall Sconce as Porc Review"
 meta_description: "Our full lit-path outdoor wall lantern, wall sconce as porch lighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFWCDNHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N5NvKyPrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the LIT-PaTH Wall Lantern Worth Your Porch?

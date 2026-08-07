@@ -1,4 +1,5 @@
 ---
+
 title: "Mooues Wooden Spoons for Cooking, Wooden Utensils for Cookin"
 seo_title: "Mooues Wooden Spoons for Cooking, Wooden Utensils  Review"
 meta_description: "Our full mooues wooden spoons for cooking, wooden utensils for cookin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBTM3T2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FMNku7hOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## These Are the Wooden Spoons You Actually Reach For

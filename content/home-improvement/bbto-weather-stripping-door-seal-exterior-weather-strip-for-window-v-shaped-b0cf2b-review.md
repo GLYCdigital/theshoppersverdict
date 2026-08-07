@@ -1,4 +1,5 @@
 ---
+
 title: "BBTO Weather Stripping Door Seal Exterior Weather Strip for"
 seo_title: "BBTO Weather Stripping Door Seal Review (2026): Worth It?"
 meta_description: "Honest BBTO V-shaped weather stripping review: does it stop drafts, noise & dust? Real pros, cons, and who should buy. Read before you install."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CF2BD1C8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ykVzMMf0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flexible V-shape seals uneven gaps up to 0.35 inches without compressing flat"
   - "Peel-and-stick adhesive holds firmly on wood, metal, and vinyl in temperature swings"
   - "Clear/transparent option blends invisibly on white frames — no ugly foam line"
-cons:
+cons: 
   - "Adhesive is one-shot — misalign it and you'll be scraping residue off the frame"
   - "Not rated for exterior doors with heavy water exposure; best under a covered threshold"
+
 ---
 
 Let’s be honest: door gaps are the silent killers of your heating bill. You feel the draft, you hear the street noise, and you watch dust pile up along the bottom of the door. The BBTO V-shaped weather stripping is a $10-ish fix that claims to solve all three. I’ve tested it, pulled it off, re-applied it, and lived with it. Here’s the real story.

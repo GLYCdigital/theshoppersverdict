@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. McDougall's Right Foods Dr Mcdougall ' S Soup"
 seo_title: "Dr. McDougall's Soup Review: 4.2-Star Honest Verdict"
 meta_description: "Dr. McDougall's Right Foods Soup review: 4.2/5 from 210 ratings. We break down taste, sodium, and whether it's worth buying for quick meals."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CYK78HHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91kGUfB2izL._SL1500_.jpg"
-pros:
+pros: 
   - "Ready in 5 minutes with just hot water — no stove, no microwave required"
   - "Plant-based, low-fat formula with recognizable ingredients and no artificial preservatives"
   - "Contains a full serving of vegetables per cup, making it a legitimate meal option, not just a snack"
-cons:
+cons: 
   - "Sodium content runs high (around 600-700mg per serving) — a real concern for anyone watching blood pressure"
   - "Texture can be inconsistent; some cups arrive with clumped noodles that don't fully rehydrate"
   - "Portion size is modest — most adults will need two cups or a side dish to feel full"
+
 ---
 
 Let's be honest about what this is: a cup of instant soup. Not a culinary experience, not a gourmet meal — but a genuinely useful tool for busy days when you need something warm, plant-based, and fast. Dr. McDougall's Right Foods has carved out a niche with this one, and the 4.2-star average across 210 ratings suggests it's doing something right. Here's the real story.

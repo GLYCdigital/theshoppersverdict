@@ -1,4 +1,5 @@
 ---
+
 title: "Rectoo Pipe Stair Handrail, Metal Staircase Handrail, Black "
 seo_title: "Rectoo Pipe Stair Handrail, Metal Staircase Handra Review"
 meta_description: "Our full rectoo pipe stair handrail, metal staircase handrail, black  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDXJ45D1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bbco61glL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a bare stairwell with no rail — or worse, one of those flimsy aluminum grab bars that wobbles when you lean on it — the Rectoo Pipe Stair Handrail is the industrial-chic upgrade you've been scrolling for. With 235 ratings averaging 4.7 stars, this is one of the most consistently praised metal handrails in its price bracket. But is it actually the right rail for *your* stairs? Let's dig in.

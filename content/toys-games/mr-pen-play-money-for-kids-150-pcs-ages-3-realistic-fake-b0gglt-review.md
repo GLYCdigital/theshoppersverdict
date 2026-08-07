@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Pen - Play Money for Kids, 150 Pcs, Ages 3+, Realistic F"
 seo_title: "Mr. Pen - Play Money for Kids, 150 Pcs, Ages 3+, R Review"
 meta_description: "Our full mr. pen - play money for kids, 150 pcs, ages 3+, realistic f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GGLTGTPT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most play money sets are junk. The bills look like Monopoly rejects, the coins are unrecognizable, and kids lose interest in five minutes. The Mr. Pen 150-Piece set aims higher — and largely hits the mark, with a few caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "11 lb Sodium Carbonate Washing Soda, Super Washing Soda For"
 seo_title: "11 lb Washing Soda Review: Coffee Gear Cleaner That Works"
 meta_description: "Is 11 lb Super Washing Soda worth it for descaling coffee makers? Read this honest review covering results, cost per use, and drawbacks."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFC7PHGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p5NmEDkiL._SL1500_.jpg"
-pros:
+pros: 
   - "Effectively removes coffee oils and mineral scale from brewers at a fraction of commercial descaler cost"
   - "11 lb bag yields roughly 70-100 cleaning cycles depending on machine size — serious long-term value"
   - "Food-safe when rinsed properly; no lingering chemical odors like some acidic descalers"
-cons:
+cons: 
   - "Requires thorough rinsing — leftover residue can leave a soapy taste in your next brew"
   - "Not a dedicated descaling formula; won't dissolve heavy limescale as aggressively as citric acid"
+
 ---
 
 Here's the thing about coffee gear maintenance: most people either never clean their brewer, or they blow $15 on a tiny bottle of descaling solution that lasts three uses. This 11 lb bag of sodium carbonate washing soda sits in a weird middle ground — it's marketed for laundry, but it's secretly one of the best budget coffee equipment cleaners available.

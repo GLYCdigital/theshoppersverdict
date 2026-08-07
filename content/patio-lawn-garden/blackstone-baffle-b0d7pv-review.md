@@ -1,4 +1,5 @@
 ---
+
 title: "BlackStone Baffle"
 seo_title: "BlackStone Baffle Review: Does It Really Work? | Patio Pro"
 meta_description: "Our honest BlackStone Baffle review: We tested wind deflection, heat retention, and build quality. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7PVW5ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sHk085g2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 18-gauge steel construction holds shape under high heat without warping"
   - "Wind deflection is genuinely effective — cuts flare-ups noticeably on breezy patio days"
   - "Tool-free installation with existing hardware; fits most standard 4-burner grills"
-cons:
+cons: 
   - "No rubberized edges — sharp metal corners can scratch powder-coated surfaces during install"
   - "Limited compatibility with offset smokers or grills with non-standard drip tray layouts"
+
 ---
 
 If you've ever fought a gusty wind while trying to hold a steady sear, you already know the problem. The BlackStone Baffle aims to solve it — and for the most part, it delivers. With a solid 4.4-star average across 220 ratings, this isn't a flash-in-the-pan gadget. It's a purpose-built piece of metal that does one job well.

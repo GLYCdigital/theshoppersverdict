@@ -1,4 +1,5 @@
 ---
+
 title: "GARDENA Fully Adjustable Sprinkler on Weighted Base for Flex"
 seo_title: "GARDENA Fully Adjustable Sprinkler Review (2026): Worth It?"
 meta_description: "GARDENA Fully Adjustable Sprinkler on Weighted Base for Flex: honest review of coverage, build quality, and value. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D4N1THYX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RozxzSTEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal spray arm with 16 precision nozzles delivers a consistent, fine mist even at low water pressure"
   - "360° rotation with a positive-click lock — you can dial in exactly the arc you need, from a 20° sliver to a full circle"
   - "Weighted, non-slip base stays put on uneven lawn or patio; no tipping when the hose yanks"
-cons:
+cons: 
   - "No flow control on the sprinkler itself — you'll need a separate valve or rely on your hose nozzle to reduce output"
   - "The adjustment dial is stiff at first; some buyers report needing pliers to turn it until it breaks in"
+
 ---
 
 If you’ve ever wrestled with a sprinkler that flops over mid-watering or sprays your driveway as much as your grass, the GARDENA Fully Adjustable Sprinkler on Weighted Base is the antidote. This isn't a gimmick pop-up or a flimsy plastic oscillator — it's a precision tool with an all-metal spray arm and a base that actually earns the word "weighted." After 204 ratings averaging 4.1 stars, the consensus is clear: this is a solid buy, with a couple of quirks worth knowing before you click.

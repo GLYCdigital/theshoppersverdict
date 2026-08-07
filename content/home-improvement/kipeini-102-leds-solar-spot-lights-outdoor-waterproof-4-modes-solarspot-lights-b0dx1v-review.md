@@ -1,4 +1,5 @@
 ---
+
 title: "Kipeini 102 LEDs Solar Spot Lights Outdoor Waterproof,4 Mode"
 seo_title: "Kipeini 102 LEDs Solar Spot Lights Outdoor Waterpr Review"
 meta_description: "Our full kipeini 102 leds solar spot lights outdoor waterproof,4 mode review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DX1VJZS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814CSLOfyuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Kipeini 102 LED solar spot lights deliver solid, dependable illumination for the price — if you manage your expectations about battery life. At 4.2 stars across 210 ratings, these aren't premium fixtures, but they're a smart buy for accent lighting on a budget.

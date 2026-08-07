@@ -1,4 +1,5 @@
 ---
+
 title: "Teenage Mutant Ninja Turtles: Mutant Mayhem"
 seo_title: "Teenage Mutant Ninja Turtles: Mutant Mayhem Review: Verdi"
 meta_description: "Our full teenage mutant ninja turtles: mutant mayhem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G35MHG1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZTmJYiiJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cowabunga, but let's be real: most TMNT merchandise is either cheap plastic junk or overpriced "collector" statues that fall apart if a kid actually breathes on them. The *Mutant Mayhem* line sits somewhere in between, and after digging through 225 Amazon ratings sitting at a solid 4.5 stars, I can tell you exactly where it lands.

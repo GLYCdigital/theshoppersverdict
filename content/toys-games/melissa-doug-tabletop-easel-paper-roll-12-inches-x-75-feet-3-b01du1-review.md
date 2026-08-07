@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Tabletop Easel Paper Roll (12 inches x 75 fee"
 seo_title: "Melissa & Doug Tabletop Easel Paper Roll (12 inche Review"
 meta_description: "Our full melissa & doug tabletop easel paper roll (12 inches x 75 fee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01DU1C936/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712xSBcCABL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 4.8-star rating on this roll of paper tells you one thing immediately: parents aren't just mildly satisfied — they're *relieved*. If you own a tabletop easel, you know the pain of buying overpriced replacement rolls that fit nothing. Melissa & Doug's 12-inch by 75-foot roll solves that problem for roughly the price of a fast-food lunch. But is it actually good paper, or just a cheap refill that happens to fit? I dug through the specs, the buyer feedback, and the physical reality of how kids actually use art supplies to give you the straight answer.

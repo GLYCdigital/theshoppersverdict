@@ -1,4 +1,5 @@
 ---
+
 title: "WESTSETLUX Oversized Chaise Lounge Chair Indoor"
 seo_title: "WESTSETLUX Oversized Chaise Lounge Chair Indoor Review: V"
 meta_description: "Our full westsetlux oversized chaise lounge chair indoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GSZJVQ24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810FeL3mheL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the WESTSETLUX Oversized Chaise Lounge Chair is a lot of furniture for the money. At 74 inches long and 31 inches wide, it’s not a dainty accent piece. It’s a full-on lounging station. The question isn’t whether it’s comfortable — it’s whether it fits your space, your body, and your tolerance for assembly.

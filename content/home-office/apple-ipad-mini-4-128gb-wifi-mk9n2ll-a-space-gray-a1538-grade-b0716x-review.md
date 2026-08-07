@@ -1,4 +1,5 @@
 ---
+
 title: "Apple iPad Mini 4 128GB WiFi MK9N2LL/A Space Gray A1538 Grad"
 seo_title: "iPad Mini 4 128GB Review: Still Worth It in 2026?"
 meta_description: "Apple iPad Mini 4 128GB WiFi (A1538) review: tested for office use, build quality, battery life, and real tradeoffs. Honest verdict before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0716XPW48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GuuXN46PL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True 128GB storage — rare in this generation, enough for offline docs, PDFs, and media without cloud dependence"
   - "7.9-inch display with 2048x1536 resolution hits 326ppi — text stays crisp for hours of document reading"
   - "A1538 model has a 5124mAh battery that consistently delivers 8-10 hours of mixed office work per charge"
-cons:
+cons: 
   - "A8 chip is now six generations old — multitasking with split-view and modern apps will show noticeable lag"
   - "2GB RAM means Safari tabs refresh constantly; heavy research sessions lose their place"
   - "Lightning port, not USB-C — you'll need a separate cable for modern accessories and faster transfers"
+
 ---
 
 Let's be blunt: the iPad Mini 4 is not a new tablet. Apple discontinued this line years ago, and the A8 processor inside was already aging when the iPad Mini 5 replaced it. But here's the thing — this specific MK9N2LL/A unit with 128GB of storage keeps showing up on Amazon with a 4.2-star average across 210 ratings. There's a reason. For a specific type of buyer, this is still a legitimate tool, not a paperweight.

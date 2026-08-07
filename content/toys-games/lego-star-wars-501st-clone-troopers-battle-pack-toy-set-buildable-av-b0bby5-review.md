@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars 501st Clone Troopers Battle Pack Toy Set, Bui"
 seo_title: "LEGO Star Wars 501st Clone Troopers Battle Pack To Review"
 meta_description: "Our full lego star wars 501st clone troopers battle pack toy set, bui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BBY56VZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QW6DIlRKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEGO Star Wars 501st Clone Troopers Battle Pack Review: The Clone Army Builder You've Been Waiting For

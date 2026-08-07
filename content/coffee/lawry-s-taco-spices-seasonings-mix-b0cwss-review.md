@@ -1,4 +1,5 @@
 ---
+
 title: "Lawry's Taco Spices & Seasonings Mix"
 seo_title: "Lawry's Taco Spices & Seasonings Mix Review: Verdict | TS"
 meta_description: "Our full lawry's taco spices & seasonings mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CWSSZZCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YdRthvWbL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'll be straight with you: I've tested more taco seasoning packets than I care to admit, and most of them taste like salty dust with a vague chili afterthought. Lawry's Taco Spices & Seasonings Mix is different — and it's earned its 4.8-star rating from 240 buyers for a reason.

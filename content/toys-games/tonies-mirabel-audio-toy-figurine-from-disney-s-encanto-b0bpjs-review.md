@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Mirabel Audio Toy Figurine from Disney's Encanto"
 seo_title: "Tonies Mirabel Audio Toy Figurine from Disney's En Review"
 meta_description: "Our full tonies mirabel audio toy figurine from disney's encanto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BPJS9G7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b51V3jcLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tonies Mirabel Audio Toy Figurine from Disney's Encanto

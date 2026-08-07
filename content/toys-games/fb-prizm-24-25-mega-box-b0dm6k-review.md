@@ -1,4 +1,5 @@
 ---
+
 title: "FB PRIZM (24-25) Mega Box"
 seo_title: "FB PRIZM (24-25) Mega Box Review: Worth It? | 2025 inch"
 meta_description: "Honest FB PRIZM (24-25) Mega Box review: hits, misses, and value. See what 220 buyers rate 4.4/5 before you spend on this trading card break."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM6K372C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714SBhid0WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Prizm's iconic refractor technology delivers 1 autograph and 1 numbered parallel per box on average"
   - "Mega Box format gives roughly 50% more cards per dollar than standard blasters"
   - "Retail-friendly price point makes it the most accessible entry into the Prizm brand"
-cons:
+cons: 
   - "Base card duplication is common — expect several doubles across the 6 packs"
   - "Retail exclusives lack the hobby-exclusive inserts that serious collectors chase"
+
 ---
 
 Let's be blunt: if you're a football card collector, you already know the name Prizm. It's the brand that turned base cards into lottery tickets and made silver refractors the modern hobby's currency. The 24-25 Mega Box is the retail sweet spot — not the budget blaster, not the $500-and-up hobby box, but the middle ground that most casual-to-serious collectors actually buy.

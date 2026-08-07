@@ -1,4 +1,5 @@
 ---
+
 title: "R+Co ZIG ZAG Root Teasing + Texture Spray â€“ Volumizing Roo"
 seo_title: "R+Co ZIG ZAG Root Teasing + Texture Spray â€“ Volu Review"
 meta_description: "Our full r+co zig zag root teasing + texture spray â€“ volumizing roo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GM2JQVW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717O5+oamGL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the before-and-afters. The "root tease in a can" that promises salon-grade volume without the backcombing damage. R+Co's ZIG ZAG Root Teasing + Texture Spray has been circling the luxury haircare circuit with a 4.2-star average across 210 Amazon ratings. Here's the unfiltered truth about whether this $30+ bottle actually earns its keep.

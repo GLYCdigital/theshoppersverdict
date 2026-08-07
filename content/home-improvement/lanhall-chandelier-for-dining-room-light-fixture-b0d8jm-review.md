@@ -1,4 +1,5 @@
 ---
+
 title: "Lanhall Chandelier for Dining Room Light Fixture"
 seo_title: "Lanhall Chandelier for Dining Room Light Fixture Review: "
 meta_description: "Our full lanhall chandelier for dining room light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8JMWYYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f8-xSnqKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the product photos and tell you what this $180 chandelier actually does once it's hanging over your dining table. The Lanhall isn't trying to be a crystal statement piece—it's a modern, geometric ring design that looks like it costs twice as much, and for most buyers, that's exactly the point.

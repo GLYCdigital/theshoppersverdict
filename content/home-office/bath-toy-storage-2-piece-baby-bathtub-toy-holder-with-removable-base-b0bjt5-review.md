@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Toy Storage - 2 Piece Baby Bathtub Toy Holder With Remo"
 seo_title: "Bath Toy Storage Review: 2-Piece Holder With Removable Base"
 meta_description: "Honest bath toy storage review: 2-piece holder with removable base. See how it drains, mounts, and holds up. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJT54K3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51as2hJ1grL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable mesh base lifts out for deep cleaning — no mildew trapped in corners"
   - "Two baskets give separate zones for bath toys vs. bath supplies (shampoo, washcloths)"
   - "Sturdy plastic holds shape even when loaded with water-heavy toys"
-cons:
+cons: 
   - "Adhesive strips need a 24-hour cure time before hanging — plan ahead"
   - "Mesh base drains well but smaller toys can slip through the holes"
+
 ---
 
 Let's be real about bath toy storage: most solutions are either ugly wire racks that rust or fabric bags that grow mold in three weeks. This 2-piece set from the "Remo" line tries to solve both problems with a removable mesh base and plastic construction. After digging through 225 ratings and the product specs, here's what actually matters if you're about to drop money on this.

@@ -1,4 +1,5 @@
 ---
+
 title: "SHEGLAM Color Bloom Liquid Blush Makeup for Cheeks"
 seo_title: "SHEGLAM Color Bloom Liquid Blush Makeup for Cheeks Review"
 meta_description: "Our full sheglam color bloom liquid blush makeup for cheeks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDQNGP3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ksc7a97bL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **SHEGLAM Color Bloom Liquid Blush Makeup for Cheeks** is the kind of product that makes you question why you ever paid $30+ for department-store blushes. With a 4.6-star average across 229 Amazon ratings, this 0.5-ounce liquid formula has quietly become a cult favorite among budget-conscious beauty shoppers who refuse to compromise on performance. I've tested it against high-end competitors — here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Unha's Japanese Sanuki Fresh Udon Noodles, Jumbo Style Chewy"
 seo_title: "Unha's Japanese Sanuki Fresh Udon Noodles, Jumbo S Review"
 meta_description: "Our full unha's japanese sanuki fresh udon noodles, jumbo style chewy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQJSND2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71usqeBgSqL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Unha's Japanese Sanuki Fresh Udon Noodles: The Real Deal or Overhyped?

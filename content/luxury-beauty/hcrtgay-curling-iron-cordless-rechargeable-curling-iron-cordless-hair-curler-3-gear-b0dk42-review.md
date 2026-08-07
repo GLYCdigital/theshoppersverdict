@@ -1,4 +1,5 @@
 ---
+
 title: "HCRTGAY Curling Iron,Cordless Rechargeable Curling Iron,Cord"
 seo_title: "HCRTGAY Curling Iron,Cordless Rechargeable Curling Review"
 meta_description: "Our full hcrtgay curling iron,cordless rechargeable curling iron,cord review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DK42WDN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414wd5iRk6L._AC_US40_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The cordless promise, tested**

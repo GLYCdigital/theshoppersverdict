@@ -1,4 +1,5 @@
 ---
+
 title: "LIKIMIO Daybed with Trundle, Sturdy Metal Twin Bed Frame wit"
 seo_title: "LIKIMIO Daybed with Trundle, Sturdy Metal Twin Bed Review"
 meta_description: "Our full likimio daybed with trundle, sturdy metal twin bed frame wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D91P6WYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91b4uWG1kAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LIKIMIO Daybed with Trundle Review: Does This 2-in-1 Metal Frame Deliver?

@@ -1,4 +1,5 @@
 ---
+
 title: "FENLO Fantasy Plus - 66'' Glass Display Shelf, Corner Glass"
 seo_title: "FENLO Fantasy Plus 66'' Glass Display Shelf Review (2026)"
 meta_description: "Honest FENLO Fantasy Plus 66'' corner glass display shelf review: build quality, assembly, lighting, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGMJNNWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pO5V3l+jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tempered glass panels are thick and feel premium — no wobble or flex even when loaded with heavy collectibles"
   - "LED lighting system is genuinely useful, with remote control and multiple color modes that make displayed items pop"
   - "Corner footprint maximizes dead space — fits a 90-degree corner neatly without protruding into walkways"
-cons:
+cons: 
   - "Assembly is time-consuming (2-3 hours solo) and the instruction manual has some confusing diagrams"
   - "Glass surfaces show fingerprints and dust quickly — you'll be wiping it down weekly if you care about looks"
+
 ---
 
 ## Is this corner display shelf worth your money?

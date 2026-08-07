@@ -1,4 +1,5 @@
 ---
+
 title: "MIZHSE Cat Eye Gel Polish Set, Jelly Gel Polish and Magnetic"
 seo_title: "MIZHSE Cat Eye Gel Polish Set, Jelly Gel Polish an Review"
 meta_description: "Our full mizhse cat eye gel polish set, jelly gel polish and magnetic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZF3DYGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714sg0dDTAL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've scrolled past "cat eye" gel sets that look stunning in product photos but turn into a streaky, muddy mess in real life, you're right to be skeptical. I tested the MIZHSE Cat Eye Gel Polish Set with that exact bias. Here's the honest breakdown.

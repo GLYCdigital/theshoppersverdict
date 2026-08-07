@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Body Wash Deep Moisture, Sensitive Skin, Cucumber and G"
 seo_title: "Dove Deep Moisture Body Wash Review: Cucumber & Green Tea"
 meta_description: "Honest Dove Deep Moisture Body Wash review for sensitive skin. Cucumber & green tea scent, 24-hour hydration, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHGMN7TH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v08a62FgL._SL1500_.jpg"
-pros:
+pros: 
   - "Nutrient-rich cream formula with 24-hour micro-moisture serum — noticeably softer skin by day two, not just post-shower"
   - "pH-balanced and hypoallergenic, so it cleans without stripping the skin barrier, even in hard water"
   - "Cucumber and green tea scent is genuinely light and fresh — fades quickly, won't fight your perfume or lotion"
-cons:
+cons: 
   - "Pump dispenser can be finicky — some buyers report it jams or drips if left in a humid shower"
   - "Scent is subtle, so if you want a body wash that lingers, this isn't it"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Fussie Cat Premium Tuna with Chicken in Aspic Grain-Free Wet"
 seo_title: "Fussie Cat Premium Tuna with Chicken in Aspic Review"
 meta_description: "Fussie Cat Premium Tuna with Chicken in Aspic grain-free wet food review: ingredients, texture, picky-eater results, and honest drawbacks."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM9F1YRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61or9sZLoaL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Real whole tuna and chicken chunks visible in the can—not a mushy pâté or shredded mystery blend"
   - "Aspic broth base adds hydration for cats that don't drink enough water, without artificial thickeners"
   - "Grain-free and low-carb formula that satisfies even notoriously picky eaters"
-cons:
+cons: 
   - "Strong fish-forward aroma that lingers after serving—sensitive noses may object"
   - "Some cats reject the aspic gel texture entirely; it's polarizing with finicky felines"
+
 ---
 
 **Fussie Cat Premium Tuna with Chicken in Aspic: The Grain-Free Wet Food That Wins Over Picky Eaters**

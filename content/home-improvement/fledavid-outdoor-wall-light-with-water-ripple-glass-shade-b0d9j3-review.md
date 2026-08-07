@@ -1,4 +1,5 @@
 ---
+
 title: "FLEDAVID Outdoor Wall Light with Water Ripple Glass Shade"
 seo_title: "FLEDAVID Outdoor Wall Light Review: Water Ripple Glass"
 meta_description: "FLEDAVID outdoor wall light with water ripple glass shade: honest review of design, durability, and light output. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9J3V843/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pMKSV+a0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured water ripple glass produces a genuinely artistic light pattern—not a gimmick, it looks like light moving across water"
   - "Solid aluminum housing with weather-resistant finish holds up in rain, snow, and direct sun"
   - "Warm, non-glaring illumination that bathes entryways without harsh hotspots or blinding glare"
-cons:
+cons: 
   - "Glass shade is not removable for cleaning—dust and bugs accumulate inside and require careful work with a thin brush"
   - "Gasket fit around the glass is snug but some units arrive with slight gaps that need resealing for total waterproofing"
   - "Requires hardwiring with no plug-in option—renters or non-DIYers will need an electrician"
+
 ---
 
 Let’s be direct: most outdoor wall lights are boring. They’re either a plastic dome that yellows in two summers or a faux-bronze lantern that looks like it came from a hotel lobby. The FLEDAVID Outdoor Wall Light is neither. It’s the one fixture that makes guests pause and say, “What is that?”—and that’s worth something.

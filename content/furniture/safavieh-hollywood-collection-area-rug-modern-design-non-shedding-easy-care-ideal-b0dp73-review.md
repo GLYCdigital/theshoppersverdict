@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Hollywood Collection Area Rug Modern Design, Non-Sh"
 seo_title: "SAFAVIEH Hollywood Collection Area Rug Modern Desi Review"
 meta_description: "Our full safavieh hollywood collection area rug modern design, non-sh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DP73W3X8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-8aVrpO9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most area rugs under $200 are a gamble. Either they shed like a golden retriever in July, or they slide across your floor like a hockey puck, or they arrive smelling like a chemical factory. The SAFAVIEH Hollywood Collection rug avoids most of those traps — but it's not without compromises. Here's what 240 buyers and I have found.

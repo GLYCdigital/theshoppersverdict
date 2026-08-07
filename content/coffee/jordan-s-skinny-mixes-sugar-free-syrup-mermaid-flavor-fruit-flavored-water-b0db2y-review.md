@@ -1,4 +1,5 @@
 ---
+
 title: "Jordan's Skinny Mixes Sugar Free Syrup, Mermaid Flavor, Frui"
 seo_title: "Jordan's Skinny Mixes Sugar Free Syrup, Mermaid Fl Review"
 meta_description: "Our full jordan's skinny mixes sugar free syrup, mermaid flavor, frui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB2YNQYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rA0xp5fQL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Jordan's Skinny Mixes Mermaid Syrup a gimmick or a genuinely useful coffee cabinet addition? After 225 Amazon ratings averaging 4.5 stars, I put a bottle through two weeks of daily testing — in hot coffee, iced lattes, sparkling water, and even oatmeal. Here's what actually matters.**

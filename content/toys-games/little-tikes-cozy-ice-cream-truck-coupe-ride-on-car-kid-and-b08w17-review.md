@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Cozy Ice Cream Truck, Coupe Ride On Car, Kid an"
 seo_title: "Little Tikes Cozy Ice Cream Truck, Coupe Ride On C Review"
 meta_description: "Our full little tikes cozy ice cream truck, coupe ride on car, kid an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08W17KSNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613arRoYR3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Little Tikes Cozy Ice Cream Truck Review: Sweet Ride or Sugar Rush Letdown?

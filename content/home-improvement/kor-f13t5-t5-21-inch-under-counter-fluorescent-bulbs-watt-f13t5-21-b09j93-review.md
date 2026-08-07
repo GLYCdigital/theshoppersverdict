@@ -1,4 +1,5 @@
 ---
+
 title: "KOR F13T5 â€“ T5 21 Inch Under Counter Fluorescent Bulbs - W"
 seo_title: "KOR F13T5 â€“ T5 21 Inch Under Counter Fluorescent Review"
 meta_description: "Our full kor f13t5 â€“ t5 21 inch under counter fluorescent bulbs - w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09J93P56B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fmj12amfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: buying fluorescent bulbs online is a gamble. You're shipping glass, and the packaging needs to survive whatever the delivery gods throw at it. The KOR F13T5 has 225 ratings at 4.5 stars, which tells me most people get a working bulb. But the real question is whether it delivers where it counts — brightness, fit, and longevity. Here's what I found digging through the feedback and specs.

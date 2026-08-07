@@ -1,4 +1,5 @@
 ---
+
 title: "LancÃ´me Lash IdÃ´le Lash-Lifting & Volumizing Mascara - Bro"
 seo_title: "LancÃ´me Lash IdÃ´le Lash-Lifting & Volumizing Mas Review"
 meta_description: "Our full lancã´me lash idã´le lash-lifting & volumizing mascara - bro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBW1CTG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Nb1XUUeDL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lancôme Lash Idôle Lash-Lifting & Volumizing Mascara: The Brown-Shade Honest Review

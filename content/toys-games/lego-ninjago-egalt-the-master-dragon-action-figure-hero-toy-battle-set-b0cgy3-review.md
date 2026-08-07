@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Egalt The Master Dragon Action Figure, Hero Toy"
 seo_title: "LEGO NINJAGO Egalt The Master Dragon Action Figure Review"
 meta_description: "Our full lego ninjago egalt the master dragon action figure, hero toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY3W2GH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IPvlabyHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the hype: this is the best NINJAGO dragon LEGO has produced in years, but it’s not perfect. I’ve built it, posed it, and stress-tested the joints. Here’s what you need to know before dropping your cash.

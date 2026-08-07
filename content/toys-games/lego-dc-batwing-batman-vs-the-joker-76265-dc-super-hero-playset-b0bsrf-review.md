@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DC Batwing: Batman vs. The Joker 76265 DC Super Hero Pl"
 seo_title: "LEGO DC Batwing: Batman vs. The Joker 76265 DC Sup Review"
 meta_description: "Our full lego dc batwing: batman vs. the joker 76265 dc super hero pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BSRF734H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sg-I4PyVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the definitive Batman vs. Joker set for under $40? Mostly yes—but let's talk about what you're actually getting.**

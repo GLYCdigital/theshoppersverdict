@@ -1,4 +1,5 @@
 ---
+
 title: "VONLUCE Vanity Lights for Bathroom, Modern Bathroom Lighting"
 seo_title: "VONLUCE Vanity Lights for Bathroom, Modern Bathroo Review"
 meta_description: "Our full vonluce vanity lights for bathroom, modern bathroom lighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BVPX558L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x89sTo--L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably stared at that builder-grade fluorescent bar above your bathroom mirror and wondered why every selfie looks like an interrogation photo. The VONLUCE vanity light fixes that — but it's not a plug-and-play fixture, and there are a couple things you need to know before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Mouse and Keyboard Combo, Silent Computer Keyboard "
 seo_title: "Wireless Mouse and Keyboard Combo, Silent Computer Review"
 meta_description: "Our full wireless mouse and keyboard combo, silent computer keyboard  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS15Q7KR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Wt64UR7tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Quietest Keyboard Combo Under $40? I Put It to the Test

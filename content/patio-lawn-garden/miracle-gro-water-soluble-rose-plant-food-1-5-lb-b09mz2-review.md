@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO Water Soluble Rose Plant Food, 1.5 lb"
 seo_title: "Miracle-GRO Water Soluble Rose Plant Food, 1.5 lb Review:"
 meta_description: "Our full miracle-gro water soluble rose plant food, 1.5 lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09MZ2QN9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7136rCkGL7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the slow-release granules. If you want roses that look like they’re on steroids by next weekend, this is the stuff.**  

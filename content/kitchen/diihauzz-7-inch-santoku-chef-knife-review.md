@@ -1,17 +1,18 @@
 ---
+
 title: "DiiHAUZZ 7-Inch Santoku Chef Knife Review"
 seo_title: "DiiHAUZZ 7-Inch Santoku Chef Knife Review: Verdict (4.8/5) | The Shopper's Verdict"
 meta_description: "DiiHAUZZ 7-inch Japanese Santoku Chef Knife review: 96 Amazon reviews analyzed. High carbon steel forged, full tang, triple-riveted handle. Real pros, cons, and our verdict on this $26 kitchen knife."
 slug: "diihauzz-7-inch-santoku-chef-knife-review"
 image_alt: "DiiHAUZZ 7-Inch Ultra Sharp Japanese Santoku Knife - High Carbon Steel Forged with Triple-Riveted Ergonomic Handle"
-keywords:
+keywords: 
   - "DiiHAUZZ chef knife review"
   - "best budget santoku knife"
   - "Japanese santoku knife under $30"
   - "high carbon steel kitchen knife"
   - "DiiHAUZZ knife review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the DiiHAUZZ santoku knife actually sharp out of the box?"
     answer: "Yes. Multiple reviewers confirm the blade arrives extremely sharp. One owner warned: 'Be careful. This knife is sharp and will cut anything.' It delivers the kind of factory edge you expect from a well-forged blade."
   - question: "Does the blade hold its edge over time?"
@@ -26,18 +27,19 @@ review_count: 96
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVS6WSSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YYm4T96rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional factory sharpness — cuts cleanly on first use"
   - "High carbon steel forged construction with full tang"
   - "Triple-riveted ergonomic handle provides comfortable grip and balance"
   - "Elegant presentation in custom lined gift box"
   - "Excellent value at under $30 for a forged blade"
   - "Lightweight enough for precise slicing while maintaining sturdy feel"
-cons:
+cons: 
   - "Edge retention may require regular honing"
   - "Somewhat heavy for smaller hands or those used to lighter knives"
   - "Blade guard can come loose during shipping"
   - "Limited to 96 reviews — still a relatively new product"
+
 ---
 
 ## DiiHAUZZ 7-Inch Santoku Chef Knife: Budget Forged Steel That Actually Delivers

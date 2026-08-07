@@ -1,4 +1,5 @@
 ---
+
 title: "Toy Galaxy Slime Kit for Boys Girls 10-12, FunKidz Ultimate "
 seo_title: "Toy Galaxy Slime Kit for Boys Girls 10-12, FunKidz Review"
 meta_description: "Our full toy galaxy slime kit for boys girls 10-12, funkidz ultimate  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08LDG3YV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1Bk9lw8puL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a tween who watches slime videos on repeat, you already know the drill: they want the ASMR-worthy stretch, the satisfying squish, and enough glitter to blind the neighbors. The **FunKidz Ultimate Slime Kit** from Toy Galaxy aims to deliver exactly that — and with 225 ratings averaging 4.5 stars, it's clearly hitting the mark for most families. But is it worth your money, or just another craft kit destined for the closet? Let's dig in.

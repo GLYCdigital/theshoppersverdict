@@ -1,4 +1,5 @@
 ---
+
 title: "Watering Can for Indoor House Plants - Cute Decorative Metal"
 seo_title: "Watering Can for Indoor House Plants - Cute Decora Review"
 meta_description: "Our full watering can for indoor house plants - cute decorative metal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BRXTDT3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kg4lTddXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been watering your indoor plants with a repurposed milk jug or a clunky outdoor can that drips everywhere, this cute decorative metal watering can is about to change your plant-care routine. With a 4.8-star average across 240 ratings, it's clearly resonating with houseplant enthusiasts — and after digging into what owners actually say, I understand why. This isn't just another pretty object for your shelf; it's a genuinely functional tool that happens to look great sitting next to your monstera.

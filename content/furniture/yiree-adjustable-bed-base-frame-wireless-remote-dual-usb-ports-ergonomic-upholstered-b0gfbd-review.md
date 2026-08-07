@@ -1,4 +1,5 @@
 ---
+
 title: "Yiree Adjustable Bed Base Frame,Wireless Remote, Dual USB Po"
 seo_title: "Yiree Adjustable Bed Base Frame,Wireless Remote, D Review"
 meta_description: "Our full yiree adjustable bed base frame,wireless remote, dual usb po review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFBDJFK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VqSGOGTSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "bluebiko 2 Seater Electric Bike, 48V 20AH Review"
 seo_title: "bluebiko 2 Seater Electric Bike Review: 48V 20AH Worth It?"
 meta_description: "Honest bluebiko 2 Seater Electric Bike review: 48V 20AH battery, real-world range, passenger comfort, and who should buy. Full breakdown inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTLGCSMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717WyPfL-1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine two-person seating with a reinforced rear frame — not a bolt-on cargo pad"
   - "48V 20AH battery delivers a realistic 40-55 mile range, even with a passenger"
   - "Hydraulic front fork and wide 20x4.0 fat tires smooth out rough terrain noticeably"
-cons:
+cons: 
   - "Assembled weight tops 90 lbs — lifting it onto a rack or up stairs is a two-person job"
   - "No suspension on the rear seat means your passenger feels every bump"
   - "Display is basic and washes out in direct sunlight"
+
 ---
 
 Let's cut through the confusion. Most "2 seater" electric bikes you'll find on Amazon are just standard e-bikes with a longer seat slapped on. The **bluebiko 2 Seater** is different — the frame itself is built around two riders, with a reinforced rear section and a proper passenger seat positioned over the rear wheel. That distinction matters, and it shows in how the bike rides.

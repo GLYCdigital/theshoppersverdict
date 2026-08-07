@@ -1,4 +1,5 @@
 ---
+
 title: "Eight O'Clock 50% Decaf Ground Coffee"
 seo_title: "Eight O'Clock 50% Decaf Review: Half-Caf Honest Take"
 meta_description: "Eight O'Clock 50% Decaf Ground Coffee reviewed: flavor, strength, and value. See if this half-caf blend suits your morning routine."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1GP3MRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81STAWpRipL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine half-caf blend — 50% decaf beans mixed with 50% regular, so you get real flavor without the full caffeine jolt"
   - "Consistent medium roast profile that holds up in drip brewers and French presses without turning bitter"
   - "Pre-ground to a uniform consistency that works reliably across standard coffee makers"
-cons:
+cons: 
   - "Bag lacks a resealable zipper — you'll need your own clip or container to keep it fresh"
   - "Not ideal for espresso machines; the grind is too coarse for pressurized portafilters"
+
 ---
 
 Let's be honest about "half-caf" coffee: most of it tastes like someone watered down a regular cup and called it a day. Eight O'Clock's 50% Decaf doesn't do that. It's a genuinely thoughtful blend — half regular beans, half decaffeinated beans, roasted together to a consistent medium profile. For anyone who wants a second (or third) cup without climbing the walls, this is worth a serious look.

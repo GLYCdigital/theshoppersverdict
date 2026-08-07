@@ -1,4 +1,5 @@
 ---
+
 title: "BIC Intensity Clic Black Gel Pens, Medium Point (0.7mm), 12-"
 seo_title: "BIC Intensity Clic Gel Pens Review: 12-Count Value (2026)"
 meta_description: "BIC Intensity Clic gel pens 0.7mm: 12 black pens, smooth ink, comfortable grip. Read our honest review before buying this 4.8-star office staple."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000F2PEY0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714sn8YKZ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, dark gel ink that dries fast enough for lefties without smearing across the page"
   - "Retractable click design means no lost caps and no dried-out tips when you forget to recap"
   - "Tactile rubberized grip that stays comfortable through long note-taking sessions"
-cons:
+cons: 
   - "Ink runs out faster than ballpoints — expect to replace these more often with heavy daily use"
   - "The click mechanism feels slightly plasticky and can soften over months of aggressive clicking"
+
 ---
 
 Let’s be honest about gel pens: the good ones write like butter but bleed through cheap paper, and the bad ones dry out before you finish the first page. The BIC Intensity Clic sits somewhere in that sweet middle — a workhorse that won’t embarrass you in a meeting but isn’t going to make you feel like a stationery connoisseur either. Here’s the real breakdown.

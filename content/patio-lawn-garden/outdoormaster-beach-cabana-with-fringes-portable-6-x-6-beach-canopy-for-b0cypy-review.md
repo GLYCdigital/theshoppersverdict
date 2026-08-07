@@ -1,4 +1,5 @@
 ---
+
 title: "OutdoorMaster Beach Cabana with Fringes, Portable 6' x 6' Be"
 seo_title: "OutdoorMaster Beach Cabana with Fringes, Portable  Review"
 meta_description: "Our full outdoormaster beach cabana with fringes, portable 6' x 6' be review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYPYJZ3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xu-rfmrGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever wrestled a cheap canopy on a windy beach, you know the drill: one gust, and you're chasing your shade across the sand. The OutdoorMaster Beach Cabana with Fringes is built to end that game.**

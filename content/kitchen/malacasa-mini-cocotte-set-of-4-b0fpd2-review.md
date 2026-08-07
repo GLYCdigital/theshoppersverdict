@@ -1,4 +1,5 @@
 ---
+
 title: "MALACASA Mini Cocotte Set of 4"
 seo_title: "MALACASA Mini Cocotte Set of 4 Review: Verdict | TSV"
 meta_description: "Our full malacasa mini cocotte set of 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPD2T71S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YfJUJukXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 These mini cocottes solve a specific problem: how do you serve individual portions that look impressive without buying six mismatched ramekins that scorch on the bottom? The MALACASA set of four answers with proper enameled cast iron in miniature. After 229 ratings and a 4.6-star average, the consensus is clear — but let's talk about what nobody mentions in the marketing photos.

@@ -1,4 +1,5 @@
 ---
+
 title: "Volca Spares Type A or C Replacement Filter Cartridge Compat"
 seo_title: "Volca Spares Type A or C Replacement Filter Cartri Review"
 meta_description: "Our full volca spares type a or c replacement filter cartridge compat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B094DSMQPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YPkBRnHtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: pool filter cartridges are about as exciting as buying new windshield wipers. You only notice them when they stop working. But the Volca Spares Type A/C replacement filters deserve a closer look before you automatically click "add to cart" on the OEM Intex brand — because this two-pack costs noticeably less and mostly does the job. Here's the full breakdown.

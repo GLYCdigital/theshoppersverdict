@@ -1,4 +1,5 @@
 ---
+
 title: "AIJIEKE Extra Large Lunch Bag for Women & Men, Insulated Lea"
 seo_title: "AIJIEKE Extra Large Lunch Bag Review: Leakproof & Roomy (2026)"
 meta_description: "AIJIEKE extra large lunch bag review: Is this insulated, leakproof carrier worth it? We break down capacity, ice pack fit, and real-world durability."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCJJS7CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717VmUyid8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely leakproof PEVA lining — survives yogurt cups and dressing bottles without residue"
   - "Holds a full-size 12-pack of soda plus food; fits standard microwaveable containers flat"
   - "Sturdy reinforced handles and abrasion-resistant 600D polyester exterior"
-cons:
+cons: 
   - "Insulation is adequate for 4–5 hours, not all-day — don't expect frozen items to stay frozen"
   - "No external pockets for utensils or napkins; the front pocket is thin"
   - "Lacks a shoulder strap despite its size, which gets heavy when fully loaded"
+
 ---
 
 ## The lunch bag that actually fits a full day's food

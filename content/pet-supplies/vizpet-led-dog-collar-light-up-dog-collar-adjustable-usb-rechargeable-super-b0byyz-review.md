@@ -1,4 +1,5 @@
 ---
+
 title: "VIZPET LED Dog Collar, Light Up Dog Collar Adjustable USB Re"
 seo_title: "VIZPET LED Dog Collar, Light Up Dog Collar Adjusta Review"
 meta_description: "Our full vizpet led dog collar, light up dog collar adjustable usb re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYYZRPFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n+GvsC6fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What you actually get:** The VIZPET LED Dog Collar ships with the collar itself, a USB charging cable, and an instruction card. No separate battery pack or adapter—the light unit is integrated into the collar strap. Sizing runs roughly 15–27 inches, which covers most small-to-medium breeds. The buckle is a standard side-release plastic design, and the LED strip runs along the full length of the strap rather than just a front segment.

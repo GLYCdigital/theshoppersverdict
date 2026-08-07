@@ -1,4 +1,5 @@
 ---
+
 title: "High on Life"
 seo_title: "High on Life Review: Is This Game Worth It? | 2026"
 meta_description: "Read our honest High on Life review. We break down the gameplay, humor, and performance. See if this 4.7-star game is worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW1TJ6TR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y5EoNXaFL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely hilarious script from Justin Roiland — every gun has a distinct comedic personality"
   - "Fluid first-person movement with satisfying traversal mechanics that make exploration fun"
   - "Solid 15-20 hour campaign with zero filler—every mission advances the story or unlocks a new weapon"
-cons:
+cons: 
   - "Combat depth is shallow; enemies are bullet sponges and boss fights devolve into arena circling"
   - "Humor is polarizing—if you don't vibe with Roiland's style, the entire game falls flat"
   - "No New Game+ or post-campaign content; once you finish, there's little reason to return"
+
 ---
 
 # High on Life Review: A Talking Gun That Carries the Whole Show

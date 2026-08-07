@@ -1,4 +1,5 @@
 ---
+
 title: "AMICLIBER Faux Leather Futon Sofa Bed Couch,Convertible Futo"
 seo_title: "AMICLIBER Faux Leather Futon Review: Worth It? (2026)"
 meta_description: "Honest AMICLIBER faux leather futon sofa bed review: build quality, comfort, assembly, and who should buy. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GC9S7NJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fSk88W5LL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three-position recline (upright, lounger, flat bed) with locking metal mechanism that actually holds"
   - "Faux leather is surprisingly durable and wipes clean — a lifesaver for pet owners and kids"
   - Compact footprint (roughly 70 inch "W x 30 inch "D) fits small apartments but still sleeps a guest up to 6'0 inch "
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes — the backrest bolts are finicky to align"
   - "Firm cushioning — great for sitting posture, less ideal for side sleepers who like plush mattresses"
   - "Faux leather doesn't breathe; you'll want a sheet or blanket over it for overnight guests in summer"
+
 ---
 
 # AMICLIBER Faux Leather Futon Sofa Bed Review: The $300 Sofa That Does Double Duty

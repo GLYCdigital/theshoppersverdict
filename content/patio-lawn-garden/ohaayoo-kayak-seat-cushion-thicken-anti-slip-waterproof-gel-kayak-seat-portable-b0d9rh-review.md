@@ -1,4 +1,5 @@
 ---
+
 title: "ohaayoo Kayak Seat Cushion, Thicken Anti Slip Waterproof Gel"
 seo_title: "ohaayoo Kayak Seat Cushion, Thicken Anti Slip Wate Review"
 meta_description: "Our full ohaayoo kayak seat cushion, thicken anti slip waterproof gel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9RH2JYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wxu5fQpUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've paddled for an hour on a stock kayak seat, and you know the drill: tailbone aches, legs fall asleep, and you start counting down the minutes until you can stand up. The ohaayoo Kayak Seat Cushion claims to fix that with a thick gel core and anti-slip base. After digging through 229 ratings and the spec sheet, here's the real story.

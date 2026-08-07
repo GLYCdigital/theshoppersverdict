@@ -1,4 +1,5 @@
 ---
+
 title: "Metapen Pencil Air8 for Apple iPad 2018-2025, 10 Min Faster "
 seo_title: "Metapen Pencil Air8 for Apple iPad 2018-2025, 10 M Review"
 meta_description: "Our full metapen pencil air8 for apple ipad 2018-2025, 10 min faster  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GR5B5BSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41BfLJYHnBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 Pencil That Charges Faster Than Apple's — Here's the Real Deal

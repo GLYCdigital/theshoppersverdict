@@ -1,4 +1,5 @@
 ---
+
 title: "Casual Home Casual Home Wooden Folding Chairs 2-Pcs Set Wood"
 seo_title: "Casual Home Wooden Folding Chairs Review (2-Pack) [2026]"
 meta_description: "Honest Casual Home Wooden Folding Chairs 2-Pack review: build quality, weight capacity, real buyer feedback, and who should buy. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNF1LWZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lKktHwV3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame — not the wobbly pine you get at this price point"
   - "Genuinely folds flat to roughly 4 inches, tucks behind doors or into closets"
   - "Assembly is under 5 minutes with just a screwdriver; hardware included"
-cons:
+cons: 
   - "No padding on the seat — fine for dinner, uncomfortable past 90 minutes"
   - "Weight limit is conservative at 250 lbs; heavier users report creaking"
   - "Finish is matte and lightly sealed — water rings appear if you don't wipe spills fast"
+
 ---
 
 You know the folding chair problem: either you buy cheap metal that wobbles and pinches fingers, or you overpay for something that looks like it belongs in a conference room. The Casual Home Wooden Folding Chairs 2-Pack splits the difference — and at 4.6 stars across 229 ratings, it's doing something right. Let me tell you exactly what that is, and where it'll let you down.

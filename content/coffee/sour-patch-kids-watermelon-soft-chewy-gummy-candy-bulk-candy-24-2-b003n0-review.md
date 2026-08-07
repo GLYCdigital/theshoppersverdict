@@ -1,4 +1,5 @@
 ---
+
 title: "SOUR PATCH KIDS Watermelon Soft & Chewy Gummy Candy, Bulk Ca"
 seo_title: "SOUR PATCH KIDS Watermelon Soft & Chewy Gummy Cand Review"
 meta_description: "Our full sour patch kids watermelon soft & chewy gummy candy, bulk ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003N0NGHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91VE0rYsquL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SOUR PATCH KIDS Watermelon: The Bulk Candy You'll Actually Finish

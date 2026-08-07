@@ -1,4 +1,5 @@
 ---
+
 title: "SUPCASE Unicorn Beetle Series Case for MacBook Pro 14 inch ("
 seo_title: "SUPCASE Unicorn Beetle Series Case for MacBook Pro Review"
 meta_description: "Our full supcase unicorn beetle series case for macbook pro 14 inch ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WZSDM22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615+Wjs3kgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Unicorn Beetle isn't for everyone — but for the right buyer, it's the only case to consider

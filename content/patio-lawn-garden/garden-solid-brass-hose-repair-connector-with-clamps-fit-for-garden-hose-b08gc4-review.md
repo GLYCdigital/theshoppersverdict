@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Solid brass Hose Repair Connector with Clamps,Fit for"
 seo_title: "Solid Brass Hose Repair Connector Review: Leak-Free Fix?"
 meta_description: "Honest review of the Solid Brass Hose Repair Connector with clamps. Does it beat plastic? We tested fit, durability, and leaks. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GC4Q4FT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b4hh4bujL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Machined solid brass body with true 3/4 inch " GHT threads — no wobble or cross-threading on standard spigots
   - Includes two heavy-duty worm gear clamps sized for 5/8 inch " and 3/4 inch " hoses, so you're ready to install immediately
   - "Barbed interior grips the hose wall firmly; at 60 PSI test pressure, zero seepage at the connection point"
-cons:
+cons: 
   - "Brass is heavy — a long hose with multiple repair points can sag noticeably at the connector"
   - "Clamps require a flathead or nut driver; no hex head for a socket wrench, which slows installation slightly"
+
 ---
 
 If you've ever fought with a split hose at 7 AM on a Saturday, you know the drill: duct tape, prayer, and a puddle at your feet. This solid brass repair connector is the permanent fix that makes that duct tape look as silly as it always did.

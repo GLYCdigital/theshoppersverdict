@@ -1,4 +1,5 @@
 ---
+
 title: "Led Vanity Mirror Lights, Hollywood Style Vanity Make Up Lig"
 seo_title: "Led Vanity Mirror Lights, Hollywood Style Vanity M Review"
 meta_description: "Our full led vanity mirror lights, hollywood style vanity make up lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R1XJNT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sTWJekE9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is a $15 LED strip actually worth the Hollywood glow, or is this just another gimmick that'll peel off in a week?** After digging through 229 ratings averaging 4.6 stars, here's the real story on this vanity light kit.

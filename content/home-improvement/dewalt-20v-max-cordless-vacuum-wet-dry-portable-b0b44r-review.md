@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX Cordless Vacuum, Wet/Dry, Portable"
 seo_title: "DEWALT 20V MAX Wet/Dry Vacuum Review (2026): Is It Worth It?"
 meta_description: "Honest DEWALT 20V MAX cordless wet/dry vacuum review: suction power, battery life, real-world tests, and who should buy it. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B44RLQ5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A9XoSkGGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Picks up standing water and dry debris without switching filters — genuinely dual-purpose"
   - "Compact enough to fit in a 5-gallon bucket or tight truck cab corner"
   - "Works with existing DEWALT 20V batteries, so no new charger needed if you're in the ecosystem"
-cons:
+cons: 
   - "Battery drains fast on max suction — expect 10–12 minutes of heavy use per 5Ah charge"
   - "Hose is only 4 feet; reaching overhead or deep under a car requires awkward positioning"
   - "Emptying wet debris means rinsing the canister and filter each time, which adds cleanup time"
+
 ---
 
 If you're already holding a DEWALT 20V battery, this vacuum is a no-brainer addition to your kit. If you're not, it's still worth a hard look — but with one eye on battery life.

@@ -1,4 +1,5 @@
 ---
+
 title: "KOOFORWAY 8-inch 2-in-1 Mini Laptop, N100, 12GB LPDDR5, 512G"
 seo_title: "KOOFORWAY 8-inch 2-in-1 Mini Laptop, N100, 12GB LP Review"
 meta_description: "Our full kooforway 8-inch 2-in-1 mini laptop, n100, 12gb lpddr5, 512g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFQGK41Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jkfUNc3xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Pocket-Sized Laptop That Actually Works

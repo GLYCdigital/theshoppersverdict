@@ -1,4 +1,5 @@
 ---
+
 title: "JETech Case ONLY for iPad Pro 11-Inch, 2022/2021/2020/2018 M"
 seo_title: "JETech Case ONLY for iPad Pro 11-Inch, 2022/2021/2 Review"
 meta_description: "Our full jetech case only for ipad pro 11-inch, 2022/2021/2020/2018 m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08T5NMQP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IEzmWfdIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The JETech Case for iPad Pro 11-inch is the kind of product that doesn't try to be flashy — it just does the job. And for a lot of people, that's exactly what they need.

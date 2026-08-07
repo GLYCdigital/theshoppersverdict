@@ -1,4 +1,5 @@
 ---
+
 title: "X9 Performance White Computer Speakers with Bluetooth, USB, "
 seo_title: "X9 Performance White Computer Speakers with Blueto Review"
 meta_description: "Our full x9 performance white computer speakers with bluetooth, usb,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F98V4LP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GS9fk6WEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The X9 Performance White Computer Speakers** sit in that crowded sweet spot of desktop audio: cheap enough to impulse-buy, capable enough to actually use daily. After 215 Amazon ratings averaging 4.3 stars, they're clearly doing something right. But are they the right speakers for *your* desk? Let's dig past the spec sheet.

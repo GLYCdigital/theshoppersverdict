@@ -1,4 +1,5 @@
 ---
+
 title: "Bankers Box STOR/FILE Storage Boxes, Standard Set-Up, Lift-O"
 seo_title: "Bankers Box STOR/FILE Review: Lift-Off Lid Storage (2026)"
 meta_description: "Honest Bankers Box STOR/FILE review: durable lift-off lid boxes, easy assembly, real-world testing. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0762ZMFWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VSpZ7iYLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lift-off lid design means zero tape or tearing — access any box in a stack without unstacking"
   - "Double-wall construction handles 40+ lbs of paper without buckling or sagging"
   - "Assembles in under 60 seconds per box — no tools, no folding gymnastics"
-cons:
+cons: 
   - "Lids don't lock — if you need tamper-proof or dust-proof storage, look elsewhere"
   - "Handles are cutouts, not reinforced; they hold but don't feel premium with heavy loads"
+
 ---
 
 If you've ever wrestled with a traditional bankers box — the kind that requires tape, a knife, and a prayer that the flaps don't collapse — the Bankers Box STOR/FILE is a revelation. This isn't a flashy product, but it solves the most annoying problem in office storage: accessing your stuff without destroying the box or your patience.

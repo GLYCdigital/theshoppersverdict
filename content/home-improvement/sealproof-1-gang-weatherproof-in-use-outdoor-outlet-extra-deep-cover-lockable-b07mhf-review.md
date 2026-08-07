@@ -1,4 +1,5 @@
 ---
+
 title: "Sealproof 1-Gang Weatherproof In Use Outdoor Outlet Extra De"
 seo_title: "Sealproof 1-Gang Weatherproof In Use Outdoor Outle Review"
 meta_description: "Our full sealproof 1-gang weatherproof in use outdoor outlet extra de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07MHFZHDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814w3Jf9a8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've ever fought with a weatherproof outlet cover that won't close over a bulky plug, this Sealproof unit is the fix. It's a 1-gang, extra-deep, lockable in-use cover that actually accommodates what you plug into it — not just a decorative flap that gives up on real-world usage.

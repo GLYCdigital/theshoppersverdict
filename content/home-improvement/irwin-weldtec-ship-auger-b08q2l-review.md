@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN Weldtec Ship Auger"
 seo_title: "IRWIN Weldtec Ship Auger Review: Verdict | TSV"
 meta_description: "Our full irwin weldtec ship auger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08Q2LYLJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Tduk3BxPL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a spade bit through a 2x6 only to have it wander off your chalk line, the IRWIN Weldtec Ship Auger is the tool that ends that argument. This is a purpose-built wood-boring bit that pulls itself through material, leaving clean, accurate holes without the shoulder-burning effort. With a 4.7-star average across 235 ratings, it's clearly earning its place in serious toolboxes. But it's not magic — it demands the right drill and a bit of technique.

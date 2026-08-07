@@ -1,4 +1,5 @@
 ---
+
 title: "MUKIDY Kids Ride-on Car Licensed McLaren765LT for 3-6Years O"
 seo_title: "MUKIDY Kids Ride-on Car Licensed McLaren765LT for  Review"
 meta_description: "Our full mukidy kids ride-on car licensed mclaren765lt for 3-6years o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBX2S2GV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XvuNFVOxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The MUKIDY McLaren 765LT Ride-On: A Mini Supercar That Actually Delivers

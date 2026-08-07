@@ -1,4 +1,5 @@
 ---
+
 title: "SR SUN RISE All Metal Square Shower System with Tub Spout, T"
 seo_title: "SR SUN RISE All Metal Square Shower System with Tu Review"
 meta_description: "Our full sr sun rise all metal square shower system with tub spout, t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSZ7V9L1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ohK5jxKhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SR SUN RISE All Metal Square Shower System: The $350 Question

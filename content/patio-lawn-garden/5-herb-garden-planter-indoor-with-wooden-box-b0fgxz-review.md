@@ -1,4 +1,5 @@
 ---
+
 title: "5 Herb Garden Planter Indoor with Wooden Box"
 seo_title: "5 Herb Garden Planter Indoor Review: Wooden Box Kit"
 meta_description: "Honest 5 Herb Garden Planter Indoor review: wooden box design, drainage, durability. See pros, cons, and who should buy this 4.4-star kit."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGXZZM28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rgsMRLTOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy wooden box with a clean, farmhouse-style look that fits on counters without looking like a science project"
   - "Five individually partitioned sections — you can grow different herbs with different watering needs in one footprint"
   - "Removable dividers make transplanting and cleaning noticeably easier than one-piece planters"
-cons:
+cons: 
   - "Wood is not sealed on the interior — chronic overwatering will eventually warp or stain the bottom"
   - "No drainage tray included; you'll need to buy one or accept water on your windowsill"
   - "Smaller than the photos suggest — each section holds roughly one standard nursery pot of soil"
+
 ---
 
 If you've killed more basil plants than you'd care to admit, this planter won't fix your watering habits. But it will fix the layout problem. The 5 Herb Garden Planter Indoor with Wooden Box splits your countertop growing into five dedicated compartments, so you can stop cramming rosemary, thyme, and cilantro into one overcrowded pot.

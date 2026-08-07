@@ -1,4 +1,5 @@
 ---
+
 title: "iTVTi Little Girls Mermaid Costume Princess Dress Up Ariel O"
 seo_title: "iTVTi Mermaid Costume Review: Worth It? (2026)"
 meta_description: "Honest iTVTi Little Girls Mermaid Costume review: fabric quality, sizing, accessories, and real buyer feedback. Is this Ariel dress-up set worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7D4489F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FNzW6AyrL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Stretchy, glitter-sequin bodice holds up through repeated dress-up sessions without shedding or scratching"
   - "Layered tulle skirt has enough volume to flare properly when twirling — a critical metric for the 4-8 set"
   - "Full accessory set (tiara, wand, necklace) included at a price point well under most costume-shop equivalents"
-cons:
+cons: 
   - "Sizing runs small; several buyers report needing to size up a full size for taller or broader kids"
   - "Tulle skirt snags easily on Velcro and rough play surfaces — plan for occasional repairs"
   - "Sequins shed lightly during first few wears; nothing alarming but worth knowing before letting it near the carpet"
+
 ---
 
 Let me be upfront: I've tested dozens of dress-up costumes over the years, and most are junk. Thin polyester, scratchy embellishments, accessories that break before the Halloween candy runs out. The iTVTi mermaid costume isn't that. But it's also not a $150 custom piece. Here's where it lands.

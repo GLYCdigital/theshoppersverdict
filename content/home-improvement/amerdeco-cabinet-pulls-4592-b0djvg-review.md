@@ -1,4 +1,5 @@
 ---
+
 title: "Amerdeco Cabinet Pulls 4592 inch"
 seo_title: "Amerdeco Cabinet Pulls 4592 Review: Worth It? | 2026 inch"
 meta_description: "Amerdeco Cabinet Pulls 4592 review: 4.5-star rated hardware. Real user feedback on build quality, finish durability, and installation. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJVGP2K5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XUm51a4mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a consistent brushed finish that resists fingerprints far better than polished chrome"
   - "Standard 3-inch hole spacing fits virtually all pre-drilled cabinet fronts without modification"
   - "Hardware included (screws and template) is actually usable — rare at this price point"
-cons:
+cons: 
   - "No center-to-center size options beyond the standard 3-inch (76mm) spacing, limiting flexibility for custom builds"
   - "Screw heads are Phillips-only; if you prefer torx or hex, you'll need to swap them out"
   - "Finish can show micro-scratches if you're aggressive with abrasive cleaners"
+
 ---
 
 **The $20 Fix That Makes Your Kitchen Look Custom**

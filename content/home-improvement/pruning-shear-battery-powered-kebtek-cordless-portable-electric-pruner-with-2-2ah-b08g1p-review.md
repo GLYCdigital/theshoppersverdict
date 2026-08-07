@@ -1,4 +1,5 @@
 ---
+
 title: "Pruning Shear Battery Powered, Kebtek Cordless Portable Elec"
 seo_title: "Pruning Shear Battery Powered, Kebtek Cordless Por Review"
 meta_description: "Our full pruning shear battery powered, kebtek cordless portable elec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08G1PHVXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UoqLy3dGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hands ache after 20 minutes of manual pruning, the Kebtek cordless electric shear is the tool that puts an end to that misery. This is a serious labor-saving device, not a gadget. With a 4.7-star average across 235 ratings, it's earned its reputation among home gardeners and small orchard owners alike. Here's the real story.

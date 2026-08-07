@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Legends Series Gamerverse Gargantos, Retro Video Game"
 seo_title: "Marvel Legends Series Gamerverse Gargantos, Retro  Review"
 meta_description: "Our full marvel legends series gamerverse gargantos, retro video game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK7Q83H9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-cU5WH7dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been hunting for a Marvel Legends figure that actually looks like it jumped off a 16-bit screen, the Gamerverse Gargantos nails that brief. This is the interdimensional beast from *Doctor Strange in the Multiverse of Madness*, but reimagined through a retro video game lens — and the result is one of the most visually striking Legends releases this year.

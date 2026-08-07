@@ -1,4 +1,5 @@
 ---
+
 title: "FINETONES 50'' Tall Dresser, Boho Dresser Vintage Dresser"
 seo_title: "FINETONES 50'' Tall Dresser Review: Boho Style & Storage"
 meta_description: "Honest FINETONES 50'' tall dresser review: 4-drawer boho design, build quality, assembly, and real buyer feedback. Is it worth it? Find out here."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD465LH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X0FGSjESL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 4-drawer construction with smooth-gliding metal slides that handle daily use without sticking"
   - "Tall 50-inch footprint maximizes vertical storage — fits a surprising amount in a compact floor area"
   - "Authentic boho/vintage aesthetic with wood-grain texture that doesn't look cheap in person"
-cons:
+cons: 
   - "Assembly requires a second person; the 50-inch frame is awkward to maneuver solo during cabinet alignment"
   - "Drawer fronts show fingerprints and dust easily — the matte finish needs regular wiping"
+
 ---
 
 **The Tall-Profile Storage Solution That Actually Looks Like Furniture**

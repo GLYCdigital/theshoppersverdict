@@ -1,4 +1,5 @@
 ---
+
 title: "qiipii Eyelash"
 seo_title: "qiipii Eyelash Review: Verdict | TSV"
 meta_description: "Our full qiipii eyelash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHH82LN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611TqWSpDGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 At $5.99, the qiipii Eyelash pack sits in that weird middle zone — cheap enough to impulse-buy, expensive enough that you expect it not to fall apart mid-conversation. I've tested dozens of lashes in this price range, and here's the honest breakdown after looking at what 210 Amazon reviewers are actually saying.

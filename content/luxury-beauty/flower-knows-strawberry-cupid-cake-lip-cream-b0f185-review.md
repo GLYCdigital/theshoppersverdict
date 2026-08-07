@@ -1,4 +1,5 @@
 ---
+
 title: "Flower Knows Strawberry Cupid Cake Lip Cream"
 seo_title: "Flower Knows Strawberry Cupid Cake Lip Cream Review: Verd"
 meta_description: "Our full flower knows strawberry cupid cake lip cream review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F185RQJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61itf0Fe3oL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've scrolled past this on TikTok or Instagram, you already know the packaging. The Flower Knows Strawberry Cupid Cake Lip Cream looks like a Victorian trinket you'd find in an antique shop — ornate gold accents, a strawberry cameo, and a dome-shaped cap that makes it feel more like jewelry than makeup. But does the product inside justify the hype and the luxury price tag? I tested it for two weeks to find out.

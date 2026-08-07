@@ -1,4 +1,5 @@
 ---
+
 title: "essie Nail Color : Wicked"
 seo_title: "essie Nail Color Wicked Review: Is This Vampy Red Worth It?"
 meta_description: "Read our honest essie Nail Color Wicked review. Deep burgundy coverage, brush quality, wear time, and who should buy it — before you add to cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK72WNQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614ku5N5WDL._SL1500_.jpg"
-pros:
+pros: 
   - "One-coat coverage with a dense, glossy burgundy that doesn't streak or pool at cuticles"
   - "Wide, flat brush (the 'ProWide' design) makes application forgiving even on non-dominant hands"
   - "Wear time of 5–7 days with minimal tip wear when paired with a base and top coat"
-cons:
+cons: 
   - "Thicker formula than other essie shades — dries noticeably slower between coats"
   - "Deep pigment stains nail beds if you skip a base coat (removal leaves a faint reddish tint)"
+
 ---
 
 **The Vampy Red That Actually Lives Up to the Hype**

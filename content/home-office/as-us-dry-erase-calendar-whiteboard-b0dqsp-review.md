@@ -1,4 +1,5 @@
 ---
+
 title: "AS-US Dry Erase Calendar Whiteboard"
 seo_title: "AS-US Dry Erase Calendar Whiteboard Review (2026): Worth It?"
 meta_description: "AS-US Dry Erase Calendar Whiteboard review: 4.7-star rated. Tested for ghosting, magnet strength, and durability. Find out if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQSPWT6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CZR886htL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic backing holds documents and notes without losing grip, even with multiple sheets layered"
   - "Wipes clean without ghosting or staining, even after markers sit for 48+ hours"
   - "Pre-printed monthly grid is large enough for family scheduling yet compact for small offices"
-cons:
+cons: 
   - "Frame is lightweight aluminum that can bend if over-tightened during mounting"
   - "Only includes one marker and eraser — you'll want to buy a separate set for daily use"
+
 ---
 
 **The Problem With Every Calendar You've Owned**

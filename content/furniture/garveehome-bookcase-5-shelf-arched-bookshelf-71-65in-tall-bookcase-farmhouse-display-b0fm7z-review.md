@@ -1,4 +1,5 @@
 ---
+
 title: "GarveeHome Bookcase 5 Shelf Arched Bookshelf 71.65in Tall Bo"
 seo_title: "GarveeHome 5-Shelf Arched Bookcase Review: Tall Farmhouse Storage"
 meta_description: "GarveeHome 5-shelf arched bookcase review: 71.65 inch  tall farmhouse design, real wood shelves, stability concerns. Is it worth $150? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FM7ZRWRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jI7YvGO3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real wood shelves (not particleboard) rated for 30+ lbs each — actually holds heavy hardcovers without sagging"
   - Arched top and 71.65 inch " height create a design-forward silhouette that reads custom, not flat-pack
   - "Assembly takes 30–40 minutes with cam-lock hardware and labeled parts — no confusing dowel guessing"
-cons:
+cons: 
   - "Anti-tip strap is mandatory, not optional — this unit is tall and narrow, and a fully loaded top shelf makes it tippy"
   - "Back panel is thin fiberboard that arrives with slight bowing on some units; you'll see it if you look from the side"
   - "Finish is matte and chalky — shows fingerprints and dust quickly, especially in darker colors"
+
 ---
 
 **The $150 bookshelf that actually looks like it cost more — if you anchor it properly.**

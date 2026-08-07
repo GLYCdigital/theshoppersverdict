@@ -1,4 +1,5 @@
 ---
+
 title: "R+Co TURNTABLE Curl Defining CrÃ¨me â€“ Defines & Enhances C"
 seo_title: "R+Co TURNTABLE Curl Defining CrÃ¨me â€“ Defines &  Review"
 meta_description: "Our full r+co turntable curl defining crã¨me â€“ defines & enhances c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GM292S3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PMlkAIv3L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # R+Co TURNTABLE Curl Defining Crème: The $38 Question

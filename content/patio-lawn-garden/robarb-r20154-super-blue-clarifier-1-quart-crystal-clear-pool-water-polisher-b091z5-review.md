@@ -1,4 +1,5 @@
 ---
+
 title: "Robarb R20154 Super Blue Clarifier 1-Quart Crystal Clear Poo"
 seo_title: "Robarb R20154 Super Blue Clarifier 1-Quart Crystal Review"
 meta_description: "Our full robarb r20154 super blue clarifier 1-quart crystal clear poo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091Z51C5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VA+sgLIVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Robarb R20154 Super Blue Clarifier Review: Does This 1-Quart Bottle Actually Deliver Crystal Clear Pool Water?**

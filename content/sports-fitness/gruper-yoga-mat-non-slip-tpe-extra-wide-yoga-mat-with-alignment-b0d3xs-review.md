@@ -1,4 +1,5 @@
 ---
+
 title: "Gruper Yoga Mat Non Slip TPE Extra Wide Yoga Mat with Alignm"
 seo_title: "Gruper Yoga Mat Non Slip TPE Extra Wide Yoga Mat w Review"
 meta_description: "Our full gruper yoga mat non slip tpe extra wide yoga mat with alignm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3XSDWZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DteoEbnKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably bought a yoga mat before and regretted it within a month. Either it slides across the floor during downward dog, or it's so thin your knees scream during kneeling poses. The Gruper Yoga Mat tries to solve both problems at once — and mostly succeeds. Here's the honest breakdown after digging through 220 ratings and testing the specs.

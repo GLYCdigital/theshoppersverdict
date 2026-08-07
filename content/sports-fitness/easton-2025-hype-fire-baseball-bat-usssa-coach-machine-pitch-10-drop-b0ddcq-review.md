@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | 2025 | Hype Fire Baseball Bat | USSSA | Coach/Machi"
 seo_title: "Easton 2025 Hype Fire USSSA Bat Review: Coach & Machine Pitch"
 meta_description: "Easton 2025 Hype Fire USSSA bat review for coach pitch & machine pitch. 10-drop alloy barrel, speed-balanced swing. Is it worth $150? Real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDCQLRYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZODerTVvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Speed-balanced design delivers noticeably quicker bat speed for young hitters still developing swing mechanics"
   - "Alloy barrel is game-ready out of the wrapper — zero break-in period, unlike composite bats"
   - "Approved for USSSA, USA Baseball, and NSA play, making it versatile across youth leagues"
-cons:
+cons: 
   - "Alloy barrel stings noticeably on off-center hits, especially in cooler weather"
   - "No -8 or -5 option — only available in -10 drop, limiting its lifespan as kids grow"
+
 ---
 
 The Easton 2025 Hype Fire is the bat you hand to a kid who's still figuring out timing, not the one already crushing dingers. It's a purpose-built tool for coach pitch and machine pitch leagues, and that focus is both its strength and its ceiling.

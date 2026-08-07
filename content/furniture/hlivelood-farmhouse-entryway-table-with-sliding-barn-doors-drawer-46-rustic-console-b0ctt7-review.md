@@ -1,4 +1,5 @@
 ---
+
 title: "Hlivelood Farmhouse Entryway Table with Sliding Barn Doors &"
 seo_title: "Hlivelood Farmhouse Entryway Table with Sliding Ba Review"
 meta_description: "Our full hlivelood farmhouse entryway table with sliding barn doors & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CTT7D3GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lC6PiTCNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some furniture pieces are all show, no storage. The Hlivelood Farmhouse Entryway Table tries to be both — a rustic statement piece with sliding barn doors that actually hide a functional drawer and shelving. At 4.1 stars across 204 ratings, it's clearly doing something right for most buyers. But is it the right console for your hallway? Let's break it down.

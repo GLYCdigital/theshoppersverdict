@@ -1,4 +1,5 @@
 ---
+
 title: "Mineral Fusion Mascara"
 seo_title: "Mineral Fusion Mascara Review: Verdict | TSV"
 meta_description: "Our full mineral fusion mascara review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CL3CC28L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tI7wDCZXL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: $18 for a mascara that isn't waterproof, doesn't promise 2x volume, and comes in packaging that looks like it belongs in a dermatologist's office — that's a hard sell for most shoppers. But after digging through 204 Amazon ratings and testing this against comparable clean-beauty mascaras in its price range, Mineral Fusion earns its 4.1-star average by doing something most drugstore mascaras refuse to do: it respects your lashes and your eyes.

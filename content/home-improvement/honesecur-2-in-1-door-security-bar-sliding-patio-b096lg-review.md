@@ -1,4 +1,5 @@
 ---
+
 title: "HoneSecur 2-in-1 Door Security Bar & Sliding Patio"
 seo_title: "HoneSecur 2-in-1 Door Security Bar & Sliding Patio Review"
 meta_description: "Our full honesecur 2-in-1 door security bar & sliding patio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096LGQNSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gomRTNYhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most door security bars are either cheap aluminum junk that bends when you sneeze, or over-engineered slabs of steel that cost more than a hotel room. The HoneSecur 2-in-1 sits in a sweet spot — it's affordable, genuinely versatile, and rated 4.6 out of 5 by 229 buyers who've actually put it through real-world use. Here's the honest breakdown.

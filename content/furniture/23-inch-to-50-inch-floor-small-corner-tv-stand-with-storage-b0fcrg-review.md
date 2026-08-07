@@ -1,4 +1,5 @@
 ---
+
 title: "23 Inch to 50 Inch Floor Small Corner TV Stand with Storage"
 seo_title: "23-50 Inch Corner TV Stand Review: Smart Small-Space Storage"
 meta_description: "Honest review of the 23-50 inch floor corner TV stand with storage. Build quality, fit, and real buyer feedback. See if it works for your space."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCRG7PVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711ixXPXgDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True corner design reclaims dead space — fits snugly in a 90-degree corner without wasting inches of floor"
   - "Two enclosed cabinets hide cable boxes and game consoles behind solid doors, plus open shelves for display"
   - "Stated 50-inch TV capacity is realistic; supports up to 88 lbs per the spec sheet, which covers most modern LED/LCD sets"
-cons:
+cons: 
   - "Assembly requires patience — multiple buyers report 45-60 minutes with confusingly labeled hardware bags"
   - "Back panel is thin particleboard; if you move the unit frequently, expect the backing to loosen at the screw points"
   - "No cable management holes in the back panels — you'll need to route cords around the edges or drill your own"
+
 ---
 
 If your living room is a Tetris game where the TV keeps losing, this corner stand is the piece that finally fits. At 225 ratings and a 4.5-star average, this small-footprint unit claims to handle 23 to 50-inch TVs while tucking into dead corner space. I've dug through the specs, the buyer feedback, and the build details. Here's what you actually need to know before ordering.

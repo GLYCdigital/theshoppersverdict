@@ -1,4 +1,5 @@
 ---
+
 title: "ESOHOT 4 inch Tall Landscape Edging Kit 20FT Garden Edging w"
 seo_title: "ESOHOT 4-Inch Landscape Edging Kit Review: Worth It?"
 meta_description: "ESOHOT 4-inch landscape edging kit 20FT review: durable steel spikes, easy install, real buyer feedback. Is it worth your money? Find out here."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR5VDZR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81skt77IRsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 0.06-inch steel panels resist bending where cheaper edging folds like tinfoil"
   - "Included 12-inch galvanized spikes anchor firmly even in loose or sandy soil"
   - "Interlocking connectors create a seamless run without visible gaps or shifting sections"
-cons:
+cons: 
   - "Only 4 inches of visible height — won't stop aggressive rhizome grasses like bamboo"
   - "Straight sections only; no pre-formed curves, so tight radius bends require cutting and overlapping"
+
 ---
 
 Let’s cut through the landscaping aisle noise. You’ve got two options for edging: the flimsy plastic rolls that warp by August, or the heavy-duty steel that costs twice as much and requires a sledgehammer. The ESOHOT 4-inch landscape edging kit sits right in that awkward middle — and for most homeowners, it actually lands where it matters.

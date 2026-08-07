@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Q 2800N+ Liquid Propane Grill"
 seo_title: "Weber Q 2800N+ Liquid Propane Grill Review: Verdict | TSV"
 meta_description: "Our full weber q 2800n+ liquid propane grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVLKFR58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51czvXgw-WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Weber Q series has been the gold standard for tabletop gas grills for over a decade. The 2800N+ takes the formula and refines it — bigger cooking surface, better grates, and a built-in thermometer that actually works. But here's the honest question: is this the right grill for your patio, or are you paying for a name?

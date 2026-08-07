@@ -1,4 +1,5 @@
 ---
+
 title: "DRZYJ Building Block Set, Classic Game Controller Mech Robot"
 seo_title: "DRZYJ Game Controller Mech Robot Review: Build Fun"
 meta_description: "DRZYJ Building Block Set review: a 1,200+ piece game controller that transforms into a mech robot. See if this clever 2-in-1 build is worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJK11Q2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mFyanrMSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two complete builds in one set — a detailed game controller and a fully articulated mech robot — both from the same brick pool"
   - "Mech mode features posable joints at shoulders, elbows, hips, and knees, making it display-worthy or playable"
   - "High piece count for the price delivers strong value compared to similarly sized licensed sets"
-cons:
+cons: 
   - "Instruction manual is entirely image-based; no text callouts, which can slow down younger builders or those new to complex sets"
   - "No numbered bags — you'll need to sort all pieces before starting, adding 20–30 minutes of prep time"
   - "Small decorative pieces (antenna, shoulder cannons) are fragile and pop off if the robot is handled roughly"
+
 ---
 
 **The 2-in-1 set that actually delivers on both modes**

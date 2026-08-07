@@ -1,4 +1,5 @@
 ---
+
 title: "Thenshop Highlighter Bulk Assorted Colors Fluorescent Highli"
 seo_title: "Thenshop Highlighter Bulk Assorted Colors Fluoresc Review"
 meta_description: "Our full thenshop highlighter bulk assorted colors fluorescent highli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CFX8FRGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HdV3V5lzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24-color highlighter pack that actually respects your margins**

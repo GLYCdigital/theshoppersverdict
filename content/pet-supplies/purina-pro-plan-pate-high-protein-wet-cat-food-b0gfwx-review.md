@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Pate, High Protein Wet Cat Food"
 seo_title: "Purina Pro Plan Pate, High Protein Wet Cat Food Review: V"
 meta_description: "Our full purina pro plan pate, high protein wet cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFWXSSCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rLJR49TuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.5-star wet food that actually delivers on its protein promise**

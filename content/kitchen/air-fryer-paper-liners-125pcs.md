@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Paper Liners"
 seo_title: "Air Fryer Paper Liners Review: 125 Pcs Worth It? (2026)"
 meta_description: "Read our honest Air Fryer Paper Liners review. We tested 125 unbleached parchment liners for fit, durability, and cleanup. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 31988
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lcyAkSSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits 4-6 quart round baskets perfectly; the 7.9-inch base keeps food off the heating element without riding up the sides."
   - "Unbleached, chlorine-free paper with a non-stick coating that holds up to 400°F without scorching or flaking."
   - "Drilled perforations allow consistent airflow, so you don't sacrifice crispiness for the sake of cleanup."
-cons:
+cons: 
   - "Not compatible with 8+ quart or square/rectangular baskets—these will fold awkwardly and block airflow."
   - "Lightweight construction means they can blow around if the basket is empty during preheating; you need to weigh them down with food."
+
 ---
 
 # Air Fryer Paper Liners: The 10-Minute Cleanup Hack That Actually Works

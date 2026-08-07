@@ -1,4 +1,5 @@
 ---
+
 title: "DUJAHMLAND Wood Vanity Light,"
 seo_title: "DUJAHMLAND Wood Vanity Light Review: 2026 Buy or Skip?"
 meta_description: "DUJAHMLAND Wood Vanity Light review: Is this 4.7-star fixture worth it? Real pros, cons, and buying advice for your bathroom remodel."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09998TNBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zKwhaRiaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine wood construction with weather-resistant finish rated for damp locations"
   - "Compatible with standard E26 bulbs — dimmable if you choose dimmable LEDs"
   - "Hardwired install in under 30 minutes with included mounting hardware and template"
-cons:
+cons: 
   - "No bulbs included — adds $15-25 to effective cost"
   - "Wood grain varies significantly between units; finish is warm brown, not a true walnut"
   - "Only available in one size (3-light) — no 4-light or 5-light options for longer vanities"
+
 ---
 
 **The Short Version**

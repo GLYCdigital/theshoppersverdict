@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Foods Organic Butternut Squash Soup"
 seo_title: "Pacific Foods Organic Butternut Squash Soup Review: Verdi"
 meta_description: "Our full pacific foods organic butternut squash soup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DW9H855B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bH+d4SHNL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most shelf-stable soups taste like salty regret in a cardboard box. Pacific Foods Organic Butternut Squash Soup isn't that. This 32-ounce carton has earned a 4.4-star average across 220 Amazon ratings, and after digging into what buyers actually say, the praise is consistent — this is the rare pantry soup that tastes like something you'd actually serve to guests.

@@ -1,4 +1,5 @@
 ---
+
 title: "A5 Lined Refills Paper"
 seo_title: "A5 Lined Refills Paper Review: Worth the Hype? (2026)"
 meta_description: "Honest A5 lined refills paper review: paper quality, ink bleed, punch compatibility & value. See if this 4.8-star refill is right for your planner."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08PCL51KK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PqkOvhmiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 100gsm paper handles fountain pens and gel ink with zero ghosting"
   - "Pre-punched 6-hole layout fits A5 Filofax, personal ring binders, and most disc-bound systems"
   - "Crisp, narrow rule (6mm) fits more writing per page without feeling cramped"
-cons:
+cons: 
   - "Only 60 sheets per pack — heavy planner users will burn through it fast"
   - "Paper has a slight cream tint, not pure white; color purists may notice"
+
 ---
 
 ## The A5 Refill That Finally Gets Paper Right

@@ -1,4 +1,5 @@
 ---
+
 title: "Coleshome Computer Desk with Drawers & Power Outlet, 40 Inch"
 seo_title: "Coleshome Computer Desk with Drawers & Power Outlet Review (2026)"
 meta_description: "Honest Coleshome 40-inch computer desk review: drawers, power outlet, build quality, and real user feedback. Is this compact desk worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGT6M1V9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717FusRn+ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in power outlet and USB ports integrated into the desktop surface — no cable management hack needed"
   - "Two smooth-glide storage drawers sized for standard letter documents and office supplies"
   - "40-inch width fits tight spaces while still accommodating a monitor up to 27 inches plus a laptop"
-cons:
+cons: 
   - "Assembly requires attention — roughly 30-45 minutes with multiple small parts"
   - "Drawers are shallow; won't hold hanging files or bulky binders"
+
 ---
 
 Let's be direct: most desks under $150 in this size category are flimsy, wobbly disasters that make you regret the purchase by week two. The Coleshome 40-inch desk with drawers and power outlet is not that. But it's also not a heirloom-quality piece of furniture. Here's what you need to know before clicking buy.

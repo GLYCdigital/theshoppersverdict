@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20 RP Cordless String Trimmer and Lawn Edger Kit"
 seo_title: "CRAFTSMAN V20 String Trimmer Review: Edger Kit Tested"
 meta_description: "CRAFTSMAN V20 RP cordless string trimmer & edger kit review: power, runtime, battery life, and real-world results from 220+ ratings."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQ9S757Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51icUcAb+RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-function design converts from trimmer to edger in under 30 seconds with no tools required"
   - "Bump-feed line head is genuinely reliable — rarely jams, easy to reload with pre-wound spools"
   - "Includes 2.0Ah battery and charger; V20 platform means you can share batteries with other Craftsman tools"
-cons:
+cons: 
   - "2.0Ah battery is small — expect 20-25 minutes of continuous trimming on thick grass"
   - "Fixed handle position can feel awkward for taller users (over 6 feet) during extended edging work"
+
 ---
 
 If you're staring at a string trimmer aisle wondering whether cordless has finally caught up to gas, the CRAFTSMAN V20 RP is a solid answer — with some caveats. This isn't the most powerful trimmer on the market, but it's one of the most practical for suburban yards under a quarter acre. Here's what 220 buyers and my own research say you should know before spending your money.

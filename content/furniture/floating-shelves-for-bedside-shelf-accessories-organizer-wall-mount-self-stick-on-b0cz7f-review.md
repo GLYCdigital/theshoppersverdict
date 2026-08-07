@@ -1,4 +1,5 @@
 ---
+
 title: "Floating Shelves for Bedside Shelf Accessories Organizer, Wa"
 seo_title: "Floating Shelves for Bedside Review: Wall-Mounted Organizer"
 meta_description: "Honest review of these floating shelves for bedside organization. 4.5-star rating. Are they sturdy? Easy to install? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZ7FX7FQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zOjOur97L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Self-stick adhesive option means zero drilling — genuinely renter-friendly and installs in under 10 minutes"
   - "Generous 15-pound weight capacity per shelf holds lamps, stacked books, and full water glasses without sagging"
   - "Thick engineered wood with a smooth, moisture-resistant finish that wipes clean easily"
-cons:
+cons: 
   - "Adhesive strips require a perfectly flat, smooth surface — textured drywall or tile will compromise the bond"
   - "Screws included are on the shorter side; you'll want longer anchors for plaster or older walls"
+
 ---
 
 Let’s be honest about floating shelves: most are either flimsy particleboard that bows under a paperback, or they require a stud-finder, a level, and a drill bit that walks across your wall. This set from Wa tries to split the difference with a self-stick option. After digging through 225 ratings and the spec sheet, here’s what actually matters.

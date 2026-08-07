@@ -1,4 +1,5 @@
 ---
+
 title: "Toidgy 4 Players Shut The Box Dice Games, Wooden Board Table"
 seo_title: "Toidgy 4 Players Shut The Box Dice Games, Wooden B Review"
 meta_description: "Our full toidgy 4 players shut the box dice games, wooden board table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CC4TJHPY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JxHMPZ6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Toidgy 4-Player Shut the Box: Actually Better Than the Classic Single-Player Version**

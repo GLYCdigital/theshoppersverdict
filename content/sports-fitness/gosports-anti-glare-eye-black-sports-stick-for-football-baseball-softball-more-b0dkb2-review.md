@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Anti Glare Eye Black Sports Stick for Football, Bas"
 seo_title: "GoSports Anti Glare Eye Black Sports Stick for Foo Review"
 meta_description: "Our full gosports anti glare eye black sports stick for football, bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKB2STLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816+WDUYRcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen it in every NFL game: that black smudge under the eyes. It's not a fashion choice — it's a performance tool. The GoSports Anti Glare Eye Black Sports Stick claims to do what the cheap grease pots can't: stay put, go on clean, and actually kill the sun's glare when you're tracking a deep ball or a pop fly. At 4.6 stars from 229 buyers, it's clearly doing something right. Here's the honest breakdown.

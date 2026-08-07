@@ -1,4 +1,5 @@
 ---
+
 title: "GREENVINES Porch Swing | 51â€™â€™ | HDPE Plastic | for Outdo"
 seo_title: "GREENVINES Porch Swing | 51â€™â€™ | HDPE Plastic | Review"
 meta_description: "Our full greenvines porch swing | 51â€™â€™ | hdpe plastic | for outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FC1SXD3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qurHsv+FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most porch swings under $200 are either flimsy resin that cracks in a season or wood that demands annual staining. The GREENVINES 51-inch HDPE swing sits in a different category entirely. With a 4.9-star average across 245 ratings, it's clearly doing something right — but let's verify whether that's marketing momentum or genuine quality.

@@ -1,4 +1,5 @@
 ---
+
 title: "O'Neill Women's Epic 4:3mm Back Zip Full Wetsuit, Durable Wa"
 seo_title: "O'Neill Women's Epic 4:3mm Back Zip Full Wetsuit,  Review"
 meta_description: "Our full o'neill women's epic 4:3mm back zip full wetsuit, durable wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0787JPNWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ot8iZjcUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing jargon. The O'Neill Women's Epic 4:3mm is a workhorse wetsuit for cold-water surfers, not a flashy tech piece. At 4.3 stars from 215 buyers, it's clearly doing something right. But is it *your* suit? Here's what 200+ hours of real-world feedback tells us.

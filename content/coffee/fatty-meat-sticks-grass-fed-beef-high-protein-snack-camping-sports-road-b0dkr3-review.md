@@ -1,4 +1,5 @@
 ---
+
 title: "FATTY Meat Sticks, Grass-Fed Beef, High Protein Snack, Campi"
 seo_title: "FATTY Meat Sticks Review: Grass-Fed Beef Snack Worth It?"
 meta_description: "Honest FATTY Meat Sticks review: grass-fed beef, 10g protein per stick, campfire flavor. Are these premium meat snacks worth the price? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKR32DKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R+OqLzjWL._SL1500_.jpg"
-pros:
+pros: 
   - "10g protein per stick with 100% grass-fed beef and zero sugar — macros beat most jerky sticks"
   - "Smoky campfire flavor actually tastes wood-fired, not artificial like typical meat snacks"
   - "No nitrites, MSG, or gluten — clean ingredient list with just beef, salt, and spices"
-cons:
+cons: 
   - "Aggressive smoky flavor can overwhelm if you prefer mild, classic beef sticks"
   - "Price per ounce runs 20-30% higher than conventional brands like Jack Link's"
   - "Texture leans dry and crumbly rather than chewy — not ideal if you want a dense bite"
+
 ---
 
 Here's the thing about meat sticks: most of them taste like salted rubber and leave you reaching for a toothpick and a glass of water. FATTY Meat Sticks aren't that. These grass-fed beef snacks punch above their weight class, and at 4.4 stars from 220 ratings, the crowd agrees. But they're not without tradeoffs.

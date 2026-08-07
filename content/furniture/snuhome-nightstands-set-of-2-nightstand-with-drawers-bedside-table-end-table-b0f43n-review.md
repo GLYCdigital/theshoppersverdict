@@ -1,4 +1,5 @@
 ---
+
 title: "SnuHome Nightstands Set of 2, Nightstand with Drawers Bedsid"
 seo_title: "SnuHome Nightstands Set of 2, Nightstand with Draw Review"
 meta_description: "Our full snuhome nightstands set of 2, nightstand with drawers bedsid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F43NGKB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Pfuo6YchL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Two nightstands for the price of one? That's the core pitch from Snuhome — but without a single verified review on the listing yet, you're betting on a spec sheet. Here's what you need to know before you click buy.**

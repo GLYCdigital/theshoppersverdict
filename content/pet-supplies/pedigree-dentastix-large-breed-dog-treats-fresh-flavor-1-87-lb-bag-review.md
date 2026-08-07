@@ -1,16 +1,17 @@
 ---
+
 title: "Pedigree Dentastix Large Breed Dog Treats, Fresh Flavor, 1.87 lb. Bag (36 Treats)"
 seo_title: "Pedigree Dentastix Large Review: Verdict (4.8/5) | TSV"
 meta_description: "The bones have helped with my dogs' breath and mouth cleanliness, so I am 11,328+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "pedigree-dentastix-large-breed-dog-treats-fresh-flavor-1-87-lb-bag-review"
 image_alt: "Pedigree Dentastix Large Breed Dog Treats, Fresh Flavor, 1.87 lb. Bag (36 Treats)"
-keywords:
+keywords: 
   - "pedigree dentastix large review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Pedigree Dentastix Large Breed?"
     answer: "The bones have helped with my dogs' breath and mouth cleanliness, so I am pleased with the quality That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Pedigree Dentastix Large Breed?"
@@ -23,12 +24,13 @@ review_count: 11328
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07NJLMDNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cOUkfS4zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The bones have helped with my dogs' breath and mouth cleanliness."
   - "They are effective and a great value."
   - "The price is also affordable considering the quantity."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's cut through the marketing noise. Pedigree Dentastix is the best-selling dental chew on Amazon for a reason — but at $64.66 for a 36-count bag, you need to know exactly what you're paying for before you add it to your cart.

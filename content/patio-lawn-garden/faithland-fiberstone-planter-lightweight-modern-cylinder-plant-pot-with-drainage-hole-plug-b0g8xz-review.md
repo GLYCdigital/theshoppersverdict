@@ -1,4 +1,5 @@
 ---
+
 title: "FaithLand Fiberstone Planter - Lightweight Modern Cylinder P"
 seo_title: "FaithLand Fiberstone Planter Review: Lightweight Modern Cylinder"
 meta_description: "FaithLand Fiberstone Planter review: Is the lightweight modern cylinder pot worth it? We break down durability, drainage, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G8XZR4BS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GBINn7oeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely lightweight fiberstone composite — most buyers can move it one-handed even when filled with soil"
   - "Clean, modern cylinder silhouette with a matte finish that hides water spots and mineral residue"
   - "Drainage hole plus removable plug gives you flexibility for indoor or outdoor placement"
-cons:
+cons: 
   - "Fiberstone is not frost-proof; cracks can develop in hard freeze zones if left outside all winter"
   - "The plug doesn't create a watertight seal — expect slow seepage if you fully plug it for indoor use"
   - "Color consistency varies slightly between batches; some buyers reported off-white vs. warm gray tones"
+
 ---
 
 If you’ve ever wrestled a 50-pound ceramic pot across a patio, you already know why the FaithLand Fiberstone Planter is worth a hard look. This is a cylinder planter that delivers the visual weight of cast stone without demanding you deadlift it into place. The catch? That lightweight construction comes with a few tradeoffs you need to know before you buy.

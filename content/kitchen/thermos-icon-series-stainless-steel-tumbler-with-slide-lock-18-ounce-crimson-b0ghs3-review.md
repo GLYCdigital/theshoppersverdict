@@ -1,4 +1,5 @@
 ---
+
 title: "THERMOS ICON SERIES, Stainless Steel Tumbler with Slide Lock"
 seo_title: "THERMOS ICON SERIES, Stainless Steel Tumbler with  Review"
 meta_description: "Our full thermos icon series, stainless steel tumbler with slide lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHS31VDZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613ApqGti6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've burned through three "leakproof" tumblers this year — each one dribbling coffee down your console or soaking your laptop bag — the THERMOS ICON Series deserves a hard look. This isn't a flashy influencer tumbler. It's a utilitarian tool from a company that's been vaccuum-insulating things since 1904. The 18-ounce Crimson model I tested has a slide lock that actually works, and that alone puts it ahead of most of the category.

@@ -1,4 +1,5 @@
 ---
+
 title: "AmorArc Ceramic Dinnerware Sets,Handmade Reactive Glaze Plat"
 seo_title: "AmorArc Ceramic Dinnerware Set Review: Reactive Glaze Plates"
 meta_description: "Honest AmorArc ceramic dinnerware review: handmade reactive glaze plates & bowls. See pros, cons, real buyer feedback, and if this 16-piece set is worth $79.95."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWGSNG2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EOewQVKEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine handmade variance — each piece has unique reactive glaze patterns, no two plates look identical"
   - "Substantial stoneware weight with a smooth, food-safe glaze that resists knife scratches and everyday wear"
   - "Full 16-piece service for four includes dinner plates, salad plates, bowls, and mugs — not a stripped-down set"
-cons:
+cons: 
   - "Reactive glaze means color and pattern vary piece-to-piece; if you want a perfectly uniform set, this will frustrate you"
   - "Not microwave-safe for extended heating — the glaze heats unevenly and can develop hairline cracks over time"
   - "Bowls run smaller than expected at 6 inches across; fine for cereal but tight for pasta-heavy servings"
+
 ---
 
 # AmorArc Ceramic Dinnerware Set Review: Handmade Charm or a $80 Gamble?

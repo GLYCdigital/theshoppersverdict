@@ -1,4 +1,5 @@
 ---
+
 title: "Bellemave Loft Bed with Desk & Storage Stairs, Metal Loft Be"
 seo_title: "Bellemave Loft Bed with Desk & Storage Stairs: 2026 Review"
 meta_description: "Bellemave loft bed with desk, storage stairs & LED review. We break down build quality, space savings, weight limits, and who should buy this 4.1-star bed."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GWQHXL63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ovRZnChL._AC_SL1039_.jpg"
-pros:
+pros: 
   - "Full-length desk with built-in LED strip is genuinely usable for homework or a gaming setup, not just decorative"
   - "Storage stairs double as 4 deep drawers — eliminates the need for a separate dresser in small rooms"
   - "All-metal frame rated for 330 lbs, significantly sturdier than most wooden loft beds in this price range"
-cons:
+cons: 
   - "Assembly is a 3-4 hour project for two people; the stair unit alone has 40+ bolts"
   - "LED strip requires a wall outlet and has no remote — you're reaching behind the desk to toggle it"
   - "No guard rail on the desk side of the upper bunk; younger kids may need a supplemental rail"
+
 ---
 
 If your kid's bedroom is roughly the size of a walk-in closet, the Bellemave Loft Bed with Desk & Storage Stairs is the kind of furniture that makes you wonder why every bed isn't built this way. It stacks a full sleeping surface on top of a workspace, and tucks an entire dresser into the staircase. At 4.1 stars from 204 buyers, it's not flawless — but for the space savings alone, it earns serious consideration.

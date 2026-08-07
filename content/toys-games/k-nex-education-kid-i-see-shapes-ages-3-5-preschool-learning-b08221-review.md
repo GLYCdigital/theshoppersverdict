@@ -1,4 +1,5 @@
 ---
+
 title: "K'NEX Education Kid I See Shapes! Ages 3-5 Preschool Learnin"
 seo_title: "K'NEX Education Kid I See Shapes! Ages 3-5 Prescho Review"
 meta_description: "Our full k'nex education kid i see shapes! ages 3-5 preschool learnin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08221KJHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XnEovqNyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** This is one of the rare preschool toys that actually teaches something without feeling like homework. The K'NEX Kid I See Shapes! set trades the frustration of tiny building blocks for chunky, toddler-safe pieces that click into recognizable shapes. At 4.7 stars from 235 ratings, it's clearly working for most families — but there are a couple of friction points worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nulo Freestyle Adult Dog Food, Premium All Natural Grain-Fre"
 seo_title: "Nulo Freestyle Adult Dog Food, Premium All Natural Review"
 meta_description: "Our full nulo freestyle adult dog food, premium all natural grain-fre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWLV5Z33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VDAFh-oyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: there are roughly 47,000 grain-free dog foods on Amazon, and most of them are the same kibble in a different bag. The Nulo Freestyle Adult formula actually isn't. Here's why it earned a 4.6 out of 5 from 229 verified buyers — and where it comes up short.

@@ -1,4 +1,5 @@
 ---
+
 title: "Scotch Heavy Duty Packing Tape Review: Best Shipping Tape for 2026?"
 seo_title: "Scotch Heavy Duty Packing Tape Review 2026: Clear Shipping Tape with Dispenser Tested"
 meta_description: "Our Scotch Heavy Duty Shipping Packing Tape review covers adhesion, strength, and value. See if the 1.88-inch clear tape with dispenser is worth it for shipping and packaging."
@@ -12,14 +13,14 @@ amazon_image: "https://m.media-amazon.com/images/I/81BWZ1KK1ML._AC_QL10_SX980_SY
 price: 10
 image_alt: "Scotch Heavy Duty Shipping Packing Tape in clear with dispenser"
 keywords: [Scotch packing tape review, best shipping tape, heavy duty packing tape, clear shipping tape, tape with dispenser]
-pros:
+pros: 
   - "Excellent adhesion that stays sealed on cardboard boxes"
   - "Built-in dispenser makes application easy and tear-free"
   - "Heavy-duty formulation holds up during transit"
-cons:
+cons: 
   - "Limited to 27.7 yards per roll — heavy shippers need multiple rolls"
   - "Dispenser can be tricky to reload when empty"
-faq:
+faq: 
   - question: "Is Scotch Heavy Duty tape stronger than regular Scotch tape?"
     answer: "Yes. This is specifically formulated for shipping and packaging with a thicker adhesive layer and stronger backings. It holds up better on cardboard and in varying temperatures than standard office tape."
   - question: "Does it work on recycled cardboard?"
@@ -28,6 +29,7 @@ faq:
     answer: "The clear tape is glossy and most pens (especially ballpoint) won't write well on it. Permanent markers work with some effort. Use a shipping label instead."
   - question: "Is the tape dispenser reusable with other rolls?"
     answer: "Yes, the dispenser is designed to be reloaded. You can buy Scotch refill rolls and load them into the same dispenser once the original roll runs out."
+
 ---
 
 Most packing tapes are an afterthought — you grab whatever's cheapest, wrestle with it for an hour, and curse when boxes pop open mid-move. The Scotch Heavy Duty Packing Tape is not that tape. It's the tape you buy when you're done re-taping the same box three times.

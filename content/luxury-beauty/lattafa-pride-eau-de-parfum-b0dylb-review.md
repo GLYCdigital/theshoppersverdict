@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Pride Eau de Parfum"
 seo_title: "Lattafa Pride Eau de Parfum Review: Verdict | TSV"
 meta_description: "Our full lattafa pride eau de parfum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYLBJ772/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F3K5lCQQL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Lattafa has built a reputation as the house that delivers Middle Eastern luxury at a fraction of designer prices, and the Pride line is positioned as their more premium offering. But does this Eau de Parfum actually justify the step up, or is it just a fancier box on the same juice? I've spent time with this one, and here's what you need to know before you add it to your cart.

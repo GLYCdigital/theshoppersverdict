@@ -1,4 +1,5 @@
 ---
+
 title: "Quelay 30 Pcs 2'' Gold Medals for Awards Winner Bulk with Ne"
 seo_title: "Quelay 30 Pcs 2'' Gold Medals for Awards Winner Bu Review"
 meta_description: "Our full quelay 30 pcs 2'' gold medals for awards winner bulk with ne review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DKHXG5DQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816Adh4frbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: if you're running a youth soccer tournament, a school field day, or a church carnival, you need medals in bulk without emptying your budget. The Quelay 30-pack of 2-inch gold medals delivers exactly that — but with a few caveats worth knowing before you click buy.

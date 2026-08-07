@@ -1,4 +1,5 @@
 ---
+
 title: "LED Garage Lights, 140W 18500 Lumens Garage Lighting, 6000K "
 seo_title: "LED Garage Lights, 140W 18500 Lumens Garage Lighti Review"
 meta_description: "Our full led garage lights, 140w 18500 lumens garage lighting, 6000k  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08JLVPTSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k4qBGDdJS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LED Garage Lights, 140W 18500 Lumens Garage Lighting, 6000K: The Real Deal

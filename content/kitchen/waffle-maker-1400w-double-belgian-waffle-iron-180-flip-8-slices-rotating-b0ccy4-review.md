@@ -1,4 +1,5 @@
 ---
+
 title: "Waffle Maker, 1400W Double Belgian Waffle Iron 180Â° Flip, 8"
 seo_title: "Waffle Maker, 1400W Double Belgian Waffle Iron 180 Review"
 meta_description: "Our full waffle maker, 1400w double belgian waffle iron 180â° flip, 8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCY4CBG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lF2Jri+EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 180° flip is the single biggest upgrade you can make to your waffle game.** Gravity does the work that cheap fixed-plate waffle irons can't: it spreads batter evenly across all four wells, so you get consistent thickness and browning from corner to corner. This 1400W double Belgian model from the 8-slice lineup delivers exactly that, and it's hard to argue with the results.

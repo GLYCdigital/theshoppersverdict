@@ -1,4 +1,5 @@
 ---
+
 title: "Plastic Gold Coins, Play Fake Coins, Pirate Treasure"
 seo_title: "Plastic Gold Coins, Play Fake Coins, Pirate Treasu Review"
 meta_description: "Our full plastic gold coins, play fake coins, pirate treasure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYPRBZ75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wgmgsQoWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bottom line:** If your kid has ever strapped on an eyepatch and demanded treasure, these plastic gold coins deliver exactly what the product image promises. At 4.7 stars from 235 ratings, this is one of those rare toys that earns its praise through sheer simplicity — and durability.

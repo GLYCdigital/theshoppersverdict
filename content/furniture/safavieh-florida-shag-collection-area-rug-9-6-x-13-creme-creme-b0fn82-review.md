@@ -1,7 +1,8 @@
 ---
-title: "SAFAVIEH Florida Shag Collection Area Rug - 9'6\" x 13', Crem"
-seo_title: "SAFAVIEH Florida Shag Collection Area Rug - 9'6\" x Review"
-meta_description: "Our full safavieh florida shag collection area rug - 9'6\" x 13', crem review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SAFAVIEH Florida Shag Collection Area Rug - 9'6\ x 13', Crem"
+seo_title: "SAFAVIEH Florida Shag Collection Area Rug - 9'6\ x Review"
+meta_description: "Our full safavieh florida shag collection area rug - 9'6\ x 13', crem review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "safavieh-florida-shag-collection-area-rug-9-6-x-13-creme-creme-b0fn82-review"
 image_alt: "SAFAVIEH Florida Shag Collection Area Rug - 96 x 13, Creme & Creme, Non-Shedding & Easy Care"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FN82QY2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the cloud-like rug your living room has been missing?

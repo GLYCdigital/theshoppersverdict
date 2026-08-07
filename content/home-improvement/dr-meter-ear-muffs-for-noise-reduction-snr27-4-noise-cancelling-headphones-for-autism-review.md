@@ -1,17 +1,18 @@
 ---
+
 title: "Dr.meter Ear Muffs for Noise Reduction SNR27.4, Kids Noise Cancelling Headphones for Autism, Adjustable Headband"
 seo_title: "Dr.meter Ear Muffs Review — 4.5★ Kids Noise Reduction at $22"
 meta_description: "Dr.meter kids ear muffs review: 20,203 reviews analyzed. SNR 27.4dB noise reduction, adjustable headband, ANSI certified. Are these the best budget ear protection for kids?"
 slug: "dr-meter-ear-muffs-for-noise-reduction-snr27-4-noise-cancelling-headphones-for-autism-review"
 image_alt: "Dr.meter Ear Muffs for Noise Reduction SNR27.4 Kids Ear Protection"
-keywords:
+keywords: 
   - "dr meter ear muffs review"
   - "kids ear protection review"
   - "noise cancelling headphones for autism review"
   - "best ear muffs for airplane kids"
   - "dr meter em100 review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Are Dr.meter ear muffs suitable for babies and toddlers?"
     answer: "Mostly for ages 2-3 and up. Several reviews note they're too stiff for 8-month-old infants. The adjustable headband works best for toddlers and older children who can tolerate the clamp pressure."
   - question: "Do Dr.meter ear muffs actually block noise?"
@@ -24,16 +25,17 @@ review_count: 20203
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01LWYWH43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EIMlJIKVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 27.4dB noise reduction — enough for concerts, fireworks, Monster Jam"
   - "Dual ANSI and CE certification for safety assurance"
   - "Adjustable headband grows with the child"
   - "Lightweight with 360° swivel cups for compact storage"
   - "Comfortable for extended wear, per multiple parent reviews"
-cons:
+cons: 
   - "Too stiff for infants under 1 year old"
   - "Some units may not seal properly — inconsistent noise blocking reported"
   - "Not actual 'noise cancelling' — passive ear muffs, not electronic ANC"
+
 ---
 
 Kids' ear protection is one of those products where the gap between a good pair and a bad one is the difference between a great family outing and a miserable one. The Dr.meter EM100 ear muffs sit in the sweet spot — affordable enough for most families, certified enough to trust, and proven across 20,203 reviews.

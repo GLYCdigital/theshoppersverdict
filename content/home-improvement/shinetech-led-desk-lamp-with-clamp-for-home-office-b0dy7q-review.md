@@ -1,4 +1,5 @@
 ---
+
 title: "ShineTech Led Desk Lamp with Clamp for Home Office"
 seo_title: "ShineTech Led Desk Lamp with Clamp for Home Office Review"
 meta_description: "Our full shinetech led desk lamp with clamp for home office review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY7QV7CX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61paJG1bLIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about desk lamps: most are either cheap plastic junk that flickers or overpriced designer pieces that don't actually light your work surface any better. The ShineTech LED Desk Lamp with Clamp sits in the middle — and for many home office setups, that's exactly the right place.

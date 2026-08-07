@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee TV Stand Dresser TV Stand with Charging Station TV S"
 seo_title: "EnHomee TV Stand Review: Charging Station & Storage (2026)"
 meta_description: "Honest EnHomee TV stand dresser review: charging station, 4-drawer storage, sturdy build. See pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CVXPQ64H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P3TLr5MjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two built-in AC outlets and USB ports integrated into the back panel — no power strip needed"
   - "Four full-extension drawers with soft-close glides hold up to 15 lbs each"
   - "Solid particleboard frame with a waterproof, scratch-resistant laminated finish"
-cons:
+cons: 
   - "Assembly requires two people and takes 45–60 minutes; cam locks are finicky"
   - "No cable management holes in the back panel — you'll need to route cords around the edges"
+
 ---
 
 # EnHomee TV Stand Dresser Review: The 2-in-1 Media Console That Actually Earns Its Space

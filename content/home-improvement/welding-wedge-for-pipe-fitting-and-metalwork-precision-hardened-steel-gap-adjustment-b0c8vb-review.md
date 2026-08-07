@@ -1,4 +1,5 @@
 ---
+
 title: "Welding Wedge for Pipe Fitting and Metalwork â€“ Precision H"
 seo_title: "Welding Wedge for Pipe Fitting and Metalwork â€“ P Review"
 meta_description: "Our full welding wedge for pipe fitting and metalwork â€“ precision h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C8VBNZJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i5OJzmf6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a pipe joint that keeps closing up as you tack, you know the frustration. The Precision H Welding Wedge is a simple fix that's been earning its keep in fab shops — and with 215 ratings at 4.3 stars, it's clearly doing something right. But is it worth adding to your kit? Let's dig into what you're actually getting.

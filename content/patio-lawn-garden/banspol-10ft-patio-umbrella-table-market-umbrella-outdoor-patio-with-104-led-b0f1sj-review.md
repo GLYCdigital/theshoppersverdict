@@ -1,4 +1,5 @@
 ---
+
 title: "Banspol 10ft Patio Umbrella, Table Market Umbrella Outdoor P"
 seo_title: "Banspol 10ft Patio Umbrella Review: Is It Worth It?"
 meta_description: "Honest Banspol 10ft patio umbrella review: build quality, shade coverage, LED lights, and tilt function. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1SJFYCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EDy-M3klL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "104 integrated LED lights with 6-hour battery life beat fumbling with string lights"
   - "Full 360-degree rotation plus a tilt mechanism that actually locks into place"
   - "Fiberglass rib structure resists bending that kills cheaper steel-rib umbrellas"
-cons:
+cons: 
   - "Small 1.5-inch pole is unstable in gusty conditions — you'll want a weighted base"
   - "Battery pack adds bulk and can strain the tilt joint if you angle it frequently"
+
 ---
 
 Here's the thing about patio umbrellas: most are either cheap junk that snaps in a season or overpriced units that cost more than the table they shade. The Banspol 10ft sits in the middle — and for once, the middle actually feels like the sweet spot.

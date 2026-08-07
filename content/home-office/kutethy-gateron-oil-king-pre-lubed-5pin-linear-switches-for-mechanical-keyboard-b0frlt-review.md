@@ -1,4 +1,5 @@
 ---
+
 title: "kutethy Gateron Oil King Pre Lubed 5pin Linear Switches for "
 seo_title: "kutethy Gateron Oil King Pre Lubed 5pin Linear Swi Review"
 meta_description: "Our full kutethy gateron oil king pre lubed 5pin linear switches for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRLTV8KY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KxBX5IDgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut straight to it: the Gateron Oil King has been a community darling for a few years now, and this kutethy listing packages them pre-lubed in a 5-pin format that works with most modern hot-swap boards. But does the hype hold up when you're actually typing on them daily?

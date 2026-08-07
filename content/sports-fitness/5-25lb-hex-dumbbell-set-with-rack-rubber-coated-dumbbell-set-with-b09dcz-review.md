@@ -1,23 +1,25 @@
 ---
+
 title: "5-25LB Hex Dumbbell Set with Rack Rubber Coated Dumbbell Set"
 seo_title: "5-25LB Hex Dumbbell Set with Rack Review: Worth It?"
 meta_description: "Read our honest 5-25LB hex dumbbell set with rack review. Rubber-coated, space-saving, 4.6 stars. See pros, cons, and who should buy."
 slug: "5-25lb-hex-dumbbell-set-with-rack-rubber-coated-dumbbell-set-with-b09dcz-review"
 image_alt: "Rubber coated hex dumbbell set from 5 to 25 pounds on a sturdy A-frame rack"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09DCZ9CWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q7DkmSvsL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Full 5-25LB range in 5LB increments means you’re not stuck with useless gaps — progressive overload actually works"  
   - "Rubber coating is thick and odor-free, unlike cheap vinyl sets that smell like a tire fire"  
   - "A-frame rack holds all ten pairs vertically, cutting floor footprint to about 2 square feet"  
-cons:  
+cons: 
   - "25LB pair is the ceiling — once you outgrow it, you’re buying another set or moving to adjustable dumbbells"  
   - "Knurling is mild; if you’re used to aggressive grip texture, heavy sets can feel slick with sweaty hands"
+
 ---
 
 Let’s cut to the chase: most budget dumbbell sets are garbage. Loose handles, uneven weights, and racks that wobble like a Jenga tower. This 5-25LB hex set with rack isn’t that — but it’s also not a competition-grade powerlifting tool. It’s a solid middle-ground for home gyms, and the 4.6-star average across 229 ratings reflects that. Here’s the real story.

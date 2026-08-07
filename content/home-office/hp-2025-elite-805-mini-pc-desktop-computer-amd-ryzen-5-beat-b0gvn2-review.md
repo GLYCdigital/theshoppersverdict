@@ -1,4 +1,5 @@
 ---
+
 title: "HP 2025 Elite 805 Mini PC Desktop Computer, AMD Ryzen 5 (Bea"
 seo_title: "HP 2025 Elite 805 Mini PC Desktop Computer, AMD Ry Review"
 meta_description: "Our full hp 2025 elite 805 mini pc desktop computer, amd ryzen 5 (bea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVN2L9RF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51N3ZdjsOwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Elite 805 Mini PC is the kind of machine that disappears into your workspace — literally. If you're tired of a tower taking up half your desk, this 7-inch-square box mounts behind a monitor and frees your entire surface. But small size means nothing if the performance isn't there. After digging through 215 Amazon ratings and the spec sheet, here's the honest breakdown.

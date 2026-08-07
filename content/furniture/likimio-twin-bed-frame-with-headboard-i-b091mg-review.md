@@ -1,4 +1,5 @@
 ---
+
 title: "LIKIMIO Twin Bed Frame with Headboard I"
 seo_title: "LIKIMIO Twin Bed Frame with Headboard I Review: Verdict |"
 meta_description: "Our full likimio twin bed frame with headboard i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091MG5K83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mmL+-T7fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Beach Cabana - 6FT Beach Umbrella with UPF 100+ UV Protectio"
 seo_title: "Beach Cabana 6FT Umbrella Review: UPF 100+ Sun Shelter"
 meta_description: "Honest Beach Cabana 6FT umbrella review: UPF 100+ coverage, tilt features, and sand anchors. See what 220 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FLDJKJ34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z0iPmalNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine UPF 100+ fabric blocks nearly all UV — verified by independent lab tests, not just marketing claims"
   - "Full 360-degree side curtain with zippered door converts it from simple umbrella to private cabana in under a minute"
   - "Tilt mechanism locks at multiple angles, so you can track the sun without repositioning the base"
-cons:
+cons: 
   - "6-foot canopy is snug for two adults with chairs — this is a solo or parent-with-toddler size, not a couple's shelter"
   - "Fiberglass ribs hold up in moderate wind but the included sand anchor struggles in soft, dry sand above 15 mph gusts"
   - "Carry bag is functional but thin — several buyers report the strap stitching pulling after a few beach trips"
+
 ---
 
 **A 6-foot umbrella that actually delivers on the "cabana" promise — if you size your expectations right.**

@@ -1,4 +1,5 @@
 ---
+
 title: "LOEWAY Metal Bed Frame with Headboard"
 seo_title: "LOEWAY Metal Bed Frame with Headboard Review: Verdict | T"
 meta_description: "Our full loeway metal bed frame with headboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDT5MLLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xUS2cdveL._AC_SL1488_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Loeway Metal Bed Frame With Headboard: The No-Box-Spring Solution That Actually Makes Sense

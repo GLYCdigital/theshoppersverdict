@@ -1,4 +1,5 @@
 ---
+
 title: "GreenView Multi-Purpose Fertilizer, 33 lb. Bag - NPK 10-10-1"
 seo_title: "GreenView Multi-Purpose Fertilizer, 33 lb. Bag - N Review"
 meta_description: "Our full greenview multi-purpose fertilizer, 33 lb. bag - npk 10-10-1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00KWYBT0E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xtAhcvrlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 33-Pound Jack-of-All-Trades: Does GreenView's Multi-Purpose Fertilizer Actually Deliver?**

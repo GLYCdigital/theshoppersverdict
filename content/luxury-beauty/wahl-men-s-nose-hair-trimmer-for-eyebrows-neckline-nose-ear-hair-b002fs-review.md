@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl Menâ€™s Nose Hair Trimmer, for Eyebrows, Neckline, Nose"
 seo_title: "Wahl Menâ€™s Nose Hair Trimmer, for Eyebrows, Neck Review"
 meta_description: "Our full wahl menâ€™s nose hair trimmer, for eyebrows, neckline, nose review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002FS4VJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Mbeo5CiPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever nicked the inside of your nostril with a cheap trimmer, you know the pain — literally. That's exactly the problem Wahl set out to solve with this multi-head grooming kit, and for the most part, it delivers. It's not flashy, it's not fancy, but it does the job without turning your nose into a crime scene.

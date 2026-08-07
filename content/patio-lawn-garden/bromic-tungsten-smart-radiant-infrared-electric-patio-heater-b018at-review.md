@@ -1,4 +1,5 @@
 ---
+
 title: "Bromic Tungsten Smart Radiant Infrared Electric Patio Heater"
 seo_title: "Bromic Tungsten Smart Heater Review: Worth It? (2026)"
 meta_description: "Read our Bromic Tungsten Smart Radiant Infrared Patio Heater review — real buyer feedback, heat coverage, smart features, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B018AT21QI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QK+b3T+FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Instant, silent heat with no fan noise — the tungsten element reaches full output in seconds"
   - "Built-in smart control via app and voice assistants — schedule heating before you step outside"
   - "Truly directional heat that warms people and surfaces, not the air around them"
-cons:
+cons: 
   - "Premium price tag that runs 2–3x comparable electric infrared units"
   - "App setup can be finicky — several owners report Bluetooth pairing hiccups on first install"
   - "No built-in dimmer or variable heat settings — it's full power or off unless you buy the separate dimmer accessory"
+
 ---
 
 The Bromic Tungsten Smart Radiant Infrared Electric Patio Heater occupies an odd space in the outdoor heating market. It's expensive, beautifully built, and smarter than almost any competitor. But it's also more niche than the price suggests. Here's the full breakdown after digging through 204 verified owner experiences.

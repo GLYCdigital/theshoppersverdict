@@ -1,7 +1,8 @@
 ---
-title: "Microsoft Surface Go 4 Tablet - 10.5\" - 8 GB - 256 GB Storag"
-seo_title: "Microsoft Surface Go 4 Tablet - 10.5\" - 8 GB - 256 Review"
-meta_description: "Our full microsoft surface go 4 tablet - 10.5\" - 8 gb - 256 gb storag review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Microsoft Surface Go 4 Tablet - 10.5\ - 8 GB - 256 GB Storag"
+seo_title: "Microsoft Surface Go 4 Tablet - 10.5\ - 8 GB - 256 Review"
+meta_description: "Our full microsoft surface go 4 tablet - 10.5\ - 8 gb - 256 gb storag review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "microsoft-surface-go-4-tablet-10-5-8-gb-256-gb-storage-b0ct9c-review"
 image_alt: "Microsoft Surface Go 4 Tablet - 10.5 - 8 GB - 256 GB Storage - Windows 11 - Platinum"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CT9C89W9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nwywJopmL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Surface Go 4 is the rare tablet that genuinely tries to be your only computer, not a content-consumption toy. At 10.5 inches and 1.2 pounds, it's light enough to forget you're carrying it — but the real question is whether that portability comes at a cost you can live with. I've spent weeks with this thing, and here's the honest breakdown.

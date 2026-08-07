@@ -1,4 +1,5 @@
 ---
+
 title: "LawnMaster ME1218X Electric Lawn Mower 12AMP 19-Inch"
 seo_title: "LawnMaster ME1218X Electric Lawn Mower 12AMP 19-In Review"
 meta_description: "Our full lawnmaster me1218x electric lawn mower 12amp 19-inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B08FSRLYJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y4tr6vAJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LawnMaster ME1218X is the corded electric mower you buy when you want gas-mower results without the gas-mower maintenance — but only if you're willing to wrestle with a power cord.**

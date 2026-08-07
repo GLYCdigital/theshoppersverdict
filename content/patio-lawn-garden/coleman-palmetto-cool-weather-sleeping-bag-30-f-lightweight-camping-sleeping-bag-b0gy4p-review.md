@@ -1,4 +1,5 @@
 ---
+
 title: "Coleman Palmetto Cool-Weather Sleeping Bag, 30Â°F Lightweigh"
 seo_title: "Coleman Palmetto 30°F Sleeping Bag Review: Lightweight & Warm"
 meta_description: "Coleman Palmetto 30°F sleeping bag review: lightweight, warm, and affordable. See how it performs in real camping conditions and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GY4PQ81P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GqUi8fK2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely lightweight at roughly 3.5 lbs — easy to pack for car camping or short backpacking trips"
   - "30°F comfort rating holds up in practice when paired with a sleeping pad and tent"
   - "Brushed polyester liner feels soft against skin and doesn't trap sweat like cheaper nylon shells"
-cons:
+cons: 
   - "Mummy cut runs narrow through the shoulders — side sleepers who toss around may feel restricted"
   - "No draft tube behind the zipper; cold air can sneak in along the zipper track on breezy nights"
   - "Compression sack is adequate but not great — you'll want a separate stuff sack to truly minimize pack size"
+
 ---
 
 **The Coleman Palmetto isn't trying to be the lightest bag on the trail or the warmest bag for winter expeditions. What it delivers is honest 30°F performance at a price that won't make you wince — and for the casual camper who sleeps in a tent three or four weekends a year, that's exactly the right tradeoff.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Elgato Game Capture Neo – USB Portable Capture Card 4K60 H"
 seo_title: "Elgato Game Capture Neo Review: 4K60 USB Capture Card"
 meta_description: "Honest Elgato Game Capture Neo review: 4K60 HDR passthrough, 1080p60 recording, USB plug-and-play. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVYKQNFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41GXbgNwQEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True plug-and-play USB capture with zero driver installation on Windows 11 and macOS — works with OBS, Streamlabs, and Teams out of the box"
   - "4K60 HDR10 passthrough with zero latency, while recording 1080p60 simultaneously — ideal for streaming on a secondary PC or laptop"
   - "Compact aluminum housing (roughly the size of a deck of cards) that runs cool even after 6+ hour capture sessions"
-cons:
+cons: 
   - "No built-in microphone input or 3.5mm audio jack — you'll need a separate audio interface or USB mic for commentary"
   - "Requires USB 3.0 or higher; plugging into a USB 2.0 port will drop you to 1080p30 recording with visible frame drops"
+
 ---
 
 # Elgato Game Capture Neo: The $99 Capture Card That Actually Delivers

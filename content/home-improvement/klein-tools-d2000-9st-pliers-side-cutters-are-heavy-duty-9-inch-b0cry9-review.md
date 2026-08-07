@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools D2000-9ST Pliers, Side Cutters are Heavy-Duty 9-"
 seo_title: "Klein Tools D2000-9ST Pliers, Side Cutters are Hea Review"
 meta_description: "Our full klein tools d2000-9st pliers, side cutters are heavy-duty 9- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRY9W395/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41dtJSAUwmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a pair of cheap side cutters through a bundle of 12-gauge wire, you know the frustration. The Klein Tools D2000-9ST aims to end that struggle. This is a 9-inch heavy-duty side cutter built for electricians and serious DIYers who cut wire all day — not for occasional hobbyists. At 4.7 stars from 235 ratings, it has a strong reputation. But is it the right cutter for *your* toolbox? Let's get into it.

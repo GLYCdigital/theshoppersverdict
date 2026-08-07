@@ -1,4 +1,5 @@
 ---
+
 title: "Wild Planet Wild Sardines in Extra Virgin Olive Oil"
 seo_title: "Wild Planet Wild Sardines in Extra Virgin Olive Oi Review"
 meta_description: "Our full wild planet wild sardines in extra virgin olive oil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKRYQ7PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NTX6zTeCL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wild Planet Wild Sardines in Extra Virgin Olive Oil: The Pantry Staple That Earned Its Reputation

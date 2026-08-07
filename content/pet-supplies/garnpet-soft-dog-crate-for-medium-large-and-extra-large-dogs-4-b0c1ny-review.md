@@ -1,4 +1,5 @@
 ---
+
 title: "Garnpet Soft Dog Crate for Medium, Large and Extra Large Dog"
 seo_title: "Garnpet Soft Dog Crate Review: Worth It for Large Dogs?"
 meta_description: "Honest Garnpet Soft Dog Crate review for medium, large, and extra-large dogs. See build quality, durability concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1NY8YXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lISUiKHL._AC_SL1288_.jpg"
-pros:
+pros: 
   - "Three double-zip doors (both sides and front) offer flexible placement in tight corners or beside furniture"
   - "Folding steel frame pops open in seconds with no tools — genuinely portable at roughly 8 lbs depending on size"
   - "Removable, machine-washable faux-fur liner holds up to repeated washing without pilling or losing shape"
-cons:
+cons: 
   - "Soft-sided build is no match for determined chewers or diggers — one determined dog can shred the mesh in minutes"
   - "Extra-large size runs snug for true XL breeds like Great Danes; measure your dog nose-to-tail before ordering"
   - "No carrying handle on the largest size, making transport awkward despite the lightweight frame"
+
 ---
 
 ## The portable crate that respects your floorboards and your back

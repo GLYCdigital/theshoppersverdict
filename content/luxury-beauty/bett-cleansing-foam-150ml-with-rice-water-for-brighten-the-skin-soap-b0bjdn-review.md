@@ -1,24 +1,26 @@
 ---
+
 title: "BETT Cleansing foam 150ml with Rice Water for Brighten the S"
 seo_title: "BETT Rice Water Cleansing Foam Review (2026): Brightens Skin?"
 meta_description: "Honest BETT Cleansing Foam 150ml review: Does rice water brighten skin? Real pros, cons, and who should buy this 4.7-star cleanser."
 slug: "bett-cleansing-foam-150ml-with-rice-water-for-brighten-the-skin-soap-b0bjdn-review"
 image_alt: "BETT Cleansing Foam 150ml with Rice Water for brightening skin in white and pink pump bottle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJDNW913/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41N+vSifVML._SL1000_.jpg"
-pros:  
+pros: 
   - "Lightweight foam lathers richly without stripping skin — no tight, squeaky feeling after rinsing"  
   - "Rice water visibly evens tone over 2–3 weeks of daily use, per multiple long-term reviewers"  
   - "Generous 150ml pump lasts 2+ months with twice-daily use — good value for a luxury cleanser"  
-cons:  
+cons: 
   - "Fragrance is noticeable (soft, powdery floral) — sensitive noses or reactive skin may want a patch test first"  
   - "Not effective at removing heavy waterproof makeup — you'll need a separate oil cleanser or balm"  
   - "Pump dispenser can clog if you don't rinse the nozzle after use, especially in hard water areas"
+
 ---
 
 **Is this the brightening cleanser your routine is missing?**  

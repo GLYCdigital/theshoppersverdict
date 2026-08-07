@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Hockey Pro-Skate Guard"
 seo_title: "Elite Hockey Pro-Skate Guard Review (2026): Worth It?"
 meta_description: "Elite Hockey Pro-Skate Guard review: Does it protect blades & edges? Tested pros, cons, and buying advice from 225+ ratings."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C5349JHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714nS58mNbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-length rigid shell protects edges from nicks and floor contact when walking in the locker room"
   - "One-handed magnetic snap closure lets you click them on without bending over or setting the stick down"
   - "Vented side channels allow air circulation, so blades dry faster and rust less between skates"
-cons:
+cons: 
   - "Tight fit on holder widths wider than 3 inches (Bauer Supreme/CCM Ribcor) — can take two hands to snap closed"
   - "No carrying strap or belt loop, so you'll need a bag pocket or a separate hook to keep them paired"
+
 ---
 
 ## If you've ever heard that scraping sound of steel on concrete in a cold rink parking lot, you already know why this guard exists.

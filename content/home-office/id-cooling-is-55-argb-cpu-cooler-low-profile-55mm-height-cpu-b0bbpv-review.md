@@ -1,4 +1,5 @@
 ---
+
 title: "ID-COOLING IS-55 ARGB CPU Cooler Low Profile 55mm Height CPU"
 seo_title: "ID-COOLING IS-55 ARGB CPU Cooler Low Profile 55mm  Review"
 meta_description: "Our full id-cooling is-55 argb cpu cooler low profile 55mm height cpu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBPVW9QB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TJd5s9nXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ID-COOLING IS-55 ARGB CPU Cooler Review: Big Cooling in a 55mm Package

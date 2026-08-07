@@ -1,23 +1,25 @@
 ---
+
 title: "Electric Mini Tank Water Heater"
 seo_title: "Electric Mini Tank Water Heater Review: Real Buyer Insights"
 meta_description: "Honest Electric Mini Tank Water Heater review: performance, sizing, and install tips for under-sink use. See what 195 Amazon buyers say."
 slug: "electric-mini-tank-water-heater-b0dk1r-review"
 image_alt: "Compact electric mini tank water heater installed under a sink with copper supply lines"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DK1RLNYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nCkOUha-L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Compact footprint fits tight under-sink cabinets (roughly 12x12x12 inches)"  
   - "120V plug-in design — no dedicated 240V circuit required for most models"  
   - "Delivers consistent hot water for a single sink, not a whole house"  
-cons:  
+cons: 
   - "Recovery time is slow; expect 15–20 minutes between full draws"  
   - "Some units ship with plastic inlet/outlet fittings that crack if over-tightened"
+
 ---
 
 If you’ve ever waited 45 seconds for lukewarm water at a guest bathroom sink, you know the pain. This electric mini tank heater aims to fix that — and for the right scenario, it does the job admirably. But it’s not a magic box. Here’s what 195 buyers (3.9 stars average) want you to know before clicking “add to cart.”

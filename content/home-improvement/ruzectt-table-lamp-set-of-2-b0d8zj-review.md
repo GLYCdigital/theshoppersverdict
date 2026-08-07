@@ -1,4 +1,5 @@
 ---
+
 title: "Ruzectt Table lamp Set of 2"
 seo_title: "Ruzectt Table lamp Set of 2 Review: Verdict | TSV"
 meta_description: "Our full ruzectt table lamp set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8ZJ7K7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719M15zuuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about buying a lamp set online: you're rolling the dice on whether the photos match reality. The Ruzectt Table Lamp Set of 2 doesn't just match the listing — it outperforms it in a few surprising ways. At 4.6 stars across 229 ratings, this is one of those rare budget finds that earns its score.

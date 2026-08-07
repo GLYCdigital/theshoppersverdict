@@ -1,4 +1,5 @@
 ---
+
 title: "Anker Powerhouse 760 Portable Power Station Expansion Batter"
 seo_title: "Anker PowerHouse 760 Expansion Battery Review (2026)"
 meta_description: "Honest Anker PowerHouse 760 expansion battery review: 2048Wh capacity, real-world performance, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNPZY6PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gebJQIIxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Doubles capacity to 2048Wh without adding bulk — pairs cleanly with the base unit's design"
   - "LiFePO4 cells rated for 3,000+ cycles, roughly 6x the lifespan of standard lithium-ion"
   - "Expansion ports pass through the main unit's AC outlets, so no extra cables clutter your setup"
-cons:
+cons: 
   - "Only works with the PowerHouse 760 base — no cross-compatibility with other Anker stations"
   - "No standalone AC outlets on the expansion unit itself; everything routes through the base"
   - "Heavy at 26.5 lbs — fine for truck camping, not for backpacking"
+
 ---
 
 # Anker PowerHouse 760 Expansion Battery Review: Is the 2048Wh Upgrade Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "2025 aervy WiFi Extender Signal Booster"
 seo_title: "aervy WiFi Extender Signal Booster Review (2025)"
 meta_description: "Honest aervy WiFi extender review: performance, coverage, setup, and reliability. See if this budget booster fixes dead zones or adds new headaches."
@@ -11,13 +12,14 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0F3X1LT47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jrYQ+tWoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual external antennas with 360° rotation deliver surprisingly solid range for sub-$30 hardware"
   - "Simple WPS push-button setup that genuinely works in under two minutes on most routers"
   - "Compact wall-plug design with a built-in Ethernet port for wired connections to TVs or consoles"
-cons:
+cons: 
   - "3.5/5 average rating reflects persistent stability issues — several buyers report needing weekly reboots"
   - "Throughput drops sharply beyond 30 feet; real-world speeds hover around 50-70% of rated claims"
+
 ---
 
 **The 2025 aervy WiFi Extender: Budget Fix or Band-Aid?**

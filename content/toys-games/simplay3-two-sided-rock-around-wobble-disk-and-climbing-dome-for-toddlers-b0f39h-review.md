@@ -1,4 +1,5 @@
 ---
+
 title: "Simplay3 Two Sided Rock Around Wobble Disk and Climbing Dome"
 seo_title: "Simplay3 Two Sided Rock Around Wobble Disk and Cli Review"
 meta_description: "Our full simplay3 two sided rock around wobble disk and climbing dome review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F39H6L2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yym7E1BML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

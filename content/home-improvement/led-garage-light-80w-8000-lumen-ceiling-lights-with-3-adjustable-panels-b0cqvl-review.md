@@ -1,4 +1,5 @@
 ---
+
 title: "LED Garage Light, 80W 8000 Lumen Ceiling Lights with 3 Adjus"
 seo_title: "LED Garage Light, 80W 8000 Lumen Ceiling Lights wi Review"
 meta_description: "Our full led garage light, 80w 8000 lumen ceiling lights with 3 adjus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQVLVNJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fzOc3MgsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you twenty minutes of squinting under a single bare bulb. This 80W, 8000-lumen LED garage light with three adjustable panels is the kind of upgrade that makes you wonder why you waited so long. I've tested enough shop lighting to know the difference between "bright on paper" and "bright where it matters" — this one delivers both, with a couple of caveats worth your attention before checkout.

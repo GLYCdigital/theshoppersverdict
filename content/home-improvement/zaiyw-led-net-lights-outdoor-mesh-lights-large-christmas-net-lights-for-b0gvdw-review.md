@@ -1,4 +1,5 @@
 ---
+
 title: "ZAIYW LED Net Lights Outdoor Mesh Lights Large Christmas Net"
 seo_title: "ZAIYW LED Net Lights Outdoor Mesh Lights Large Chr Review"
 meta_description: "Our full zaiyw led net lights outdoor mesh lights large christmas net review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GVDWRQDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H2onnoLEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **ZAIYW LED Net Lights Review: Big Coverage for Big Bushes, With a Few Snags**

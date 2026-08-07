@@ -1,4 +1,5 @@
 ---
+
 title: "UMIKU Spa headband for women face wash headband"
 seo_title: "UMIKU Spa headband for women face wash headband Review: V"
 meta_description: "Our full umiku spa headband for women face wash headband review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ1Z69M9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hLGTWNUUL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another overpriced strip of fabric, or does the UMIKU spa headband actually deserve a spot in your skincare arsenal?**

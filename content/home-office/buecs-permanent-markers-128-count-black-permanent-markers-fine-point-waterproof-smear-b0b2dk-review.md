@@ -1,4 +1,5 @@
 ---
+
 title: "Buecs Permanent Markers, 128 Count Black Permanent Markers,"
 seo_title: "Buecs 128-Count Black Permanent Markers Review (2026)"
 meta_description: "Buecs Permanent Markers 128-count black review: fine-point, waterproof, smear-resistant. Real-world tests, durability, and value analysis for 2026."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B2DKRYPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gbcCq6euL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "128 markers for roughly the price of 12 name-brand units — under $0.20 per marker at typical street pricing"
   - "Fine-point tip holds a consistent 0.5mm line through heavy use without feathering on standard copy paper"
   - "Waterproof, smear-resistant ink dries in under 10 seconds on most surfaces including plastic and glass"
-cons:
+cons: 
   - "Caps can crack if dropped on hard floors — several reviewers report this within the first month"
   - "Ink odor is noticeably stronger than alcohol-based premium markers like Sharpie Pro"
   - "Not refillable; 128 disposable markers is a lot of plastic waste for eco-conscious buyers"
+
 ---
 
 **The bulk-buy math on permanent markers has always been simple: you either pay premium prices for a dozen name-brand pens or gamble on a budget box of 50 that bleeds through paper and dries out in a month. The Buecs 128-count black permanent markers land somewhere between those extremes — and the 4.4-star average across 220 ratings suggests they've found a sweet spot worth investigating.**

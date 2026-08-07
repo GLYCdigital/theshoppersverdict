@@ -1,4 +1,5 @@
 ---
+
 title: "PAWZIDEA Collapsible Dog Travel Crate, Portable Dog Crate fo"
 seo_title: "PAWZIDEA Collapsible Dog Travel Crate, Portable Do Review"
 meta_description: "Our full pawzidea collapsible dog travel crate, portable dog crate fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT6KG6G9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713kKWIAqUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog rides like mine does — pacing, whining, trying to climb into the front seat — you've probably cycled through a few "travel solutions." I've tested six portable crates in the last three years, and the PAWZIDEA Collapsible Dog Travel Crate at $149.99 is the first one that's actually earned a permanent spot in my trunk. Here's the full story, including where it falls short.

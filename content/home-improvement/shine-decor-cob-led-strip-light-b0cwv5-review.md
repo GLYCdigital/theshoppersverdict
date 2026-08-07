@@ -1,4 +1,5 @@
 ---
+
 title: "Shine Decor COB LED Strip Light"
 seo_title: "Shine Decor COB LED Strip Light Review: Verdict | TSV"
 meta_description: "Our full shine decor cob led strip light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWV5BX15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Aum5AXh5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Shine Decor COB LED Strip Light: The Seamless Lighting Upgrade Most Strip Lights Can't Deliver

@@ -1,4 +1,5 @@
 ---
+
 title: "Emerson MW7601SL-N Countertop Microwave Oven with Sleek Mirr"
 seo_title: "Emerson MW7601SL-N Microwave Review: Honest 2026 Verdict"
 meta_description: "Emerson MW7601SL-N countertop microwave review: 0.7 cu ft, 700W, mirrored glass. Real pros, cons, and who should buy. 4.2/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FX3CWHHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W-ov4NyVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Mirrored glass door hides interior mess while adding a premium look that fits modern kitchens"
   - "Compact 0.7 cu ft footprint fits tight countertops without sacrificing a usable 10-inch turntable"
   - "Simple dial-and-button controls are intuitive enough for kids and guests to use without instructions"
-cons:
+cons: 
   - "700 watts is noticeably slower than 1000W+ models — expect 20-30% longer cook times"
   - "Interior light is dim; checking food mid-cycle requires opening the door"
   - "Fingerprints show on the mirrored finish despite the 'sleek' marketing claim"
+
 ---
 
 Let's cut through the noise: the Emerson MW7601SL-N is a budget-friendly compact microwave that leans hard on its looks. The mirrored glass door is the headline feature, and honestly, it works — the unit disappears into your kitchen aesthetic when not in use, which is more than most microwaves can claim. But style only gets you so far when you're reheating coffee at 7 AM. Here's what 210 Amazon reviewers at 4.2 stars are actually saying.

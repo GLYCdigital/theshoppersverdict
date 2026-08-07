@@ -1,4 +1,5 @@
 ---
+
 title: "Esfos Pendant Ceiling Light Fixture Review"
 seo_title: "Esfos Pendant Ceiling Light Fixture Review (2026): Worth It? "
 meta_description: "Honest Esfos pendant ceiling light review: build quality, brightness, installation ease & downsides. See if this 4.5-star fixture fits your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMRGH7TJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wK5XDWbfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dimmable LED array with color temperature switching (3000K/4000K/5000K) controlled from the fixture itself — no extra wall switch needed"
   - "Slim profile at just 4.3 inches tall, making it workable for both 8-foot and 9-foot ceilings without feeling cramped"
   - "Tool-free canopy installation with a twist-lock mount that actually holds the weight securely"
-cons:
+cons: 
   - "The included LED module is non-replaceable; when it eventually dies, you're replacing the whole fixture"
   - "Cord length is fixed at 59 inches — no quick adjustment for sloped ceilings or unusually high mounting points"
+
 ---
 
 You've seen a hundred pendant lights online, and they all blur together. So why does this Esfos fixture stand out? Because it solves the two problems that plague most modern LED pendants: awkward installation and inflexible lighting control. That's why 225 Amazon buyers pushed it to a 4.5-star average. But it's not perfect — let's talk about what it does well, and where it cuts corners.

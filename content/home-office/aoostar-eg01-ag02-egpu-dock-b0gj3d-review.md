@@ -1,4 +1,5 @@
 ---
+
 title: "AOOSTAR EG01/AG02 EGPU Dock"
 seo_title: "AOOSTAR EG01/AG02 eGPU Dock Review: Worth It in 2026?"
 meta_description: "Honest AOOSTAR EG01/AG02 eGPU Dock review: performance, compatibility, and real-world tradeoffs. See if this Thunderbolt dock fits your setup."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJ3DS6HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kVSJw1I8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-size PCIe x16 slot fits standard desktop GPUs up to 245mm — no proprietary cards required"
   - "Dual 8-pin power connectors (up to 500W PSU support) handle power-hungry cards like RTX 4070s"
   - "Tool-free card bracket and quick-release side panel make GPU swaps genuinely painless"
-cons:
+cons: 
   - "Thunderbolt 3/4 only — USB4 laptops get inconsistent performance and some features don't work"
   - "No built-in PSU; you'll need to source your own ATX power supply, adding $60–$100 to total cost"
   - "Fans are audible under load; there's no fan curve control in the included software"
+
 ---
 
 **Opening Hook: A Dock That Actually Thinks Like a PC Builder**

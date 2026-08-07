@@ -1,4 +1,5 @@
 ---
+
 title: "Ito En Jasmine Green Tea, Unsweetened, 10.6 Ounce (Pack of 1"
 seo_title: "Ito En Jasmine Green Tea, Unsweetened, 10.6 Ounce  Review"
 meta_description: "Our full ito en jasmine green tea, unsweetened, 10.6 ounce (pack of 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHH6KRN5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FHG-6jq9L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Ito En has been bottling tea in Japan since the 1960s, and their Jasmine Green Tea is one of the few bottled teas that actually tastes like tea leaves were involved. This isn't a sweetened, lemon-flavored, or “green tea flavored beverage” — it's just brewed jasmine green tea, water, and a bit of vitamin C. That's the entire ingredient list.

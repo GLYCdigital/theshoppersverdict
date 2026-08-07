@@ -1,4 +1,5 @@
 ---
+
 title: "Brazilian Blowout Anti-Frizz Shampoo & Conditioner,2 count ("
 seo_title: "Brazilian Blowout Anti-Frizz Shampoo & Conditioner Review"
 meta_description: "Brazilian Blowout Anti-Frizz Shampoo & Conditioner review: Does this 2-count salon duo deliver smooth, shiny hair? Honest pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07KS7RV5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517sFuxi0SL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sulfate-free formula preserves keratin treatments instead of stripping them out"
   - "Pro-grade active ingredients (keratin, murumuru butter) at a fraction of salon prices"
   - "The conditioner delivers slip that detangles without weighing down fine hair"
-cons:
+cons: 
   - "Scent is strong and lingers — smells like a salon perm for hours"
   - "Small 12oz bottles run out fast if you have thick or long hair"
+
 ---
 
 **The $60 salon treatment in a bottle — or just expensive shampoo? Let's break it down.**

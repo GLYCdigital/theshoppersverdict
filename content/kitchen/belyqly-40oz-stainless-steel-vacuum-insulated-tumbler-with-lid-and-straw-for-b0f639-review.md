@@ -1,4 +1,5 @@
 ---
+
 title: "BELYQLY 40oz - Stainless Steel Vacuum Insulated Tumbler with"
 seo_title: "BELYQLY 40oz Tumbler Review: Does It Beat Yeti?"
 meta_description: "Honest BELYQLY 40oz stainless steel tumbler review: ice retention, lid design, durability, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6399WR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uGOD3+cJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall vacuum insulation keeps ice intact for 24+ hours, rivaling premium brands at a fraction of the cost"
   - "40oz capacity fits a full day of hydration without refills—ideal for long shifts, gym sessions, or road trips"
   - "Spill-resistant lid with integrated straw seals tightly enough to survive a tossed bag"
-cons:
+cons: 
   - "No handle included—the 40oz size gets heavy when full (over 2.5 lbs) and awkward to carry one-handed"
   - "Powder-coated finish chips if dropped on concrete, revealing bare stainless underneath"
   - "Condensation forms on the exterior after extended cold use despite the vacuum claim—minor but noticeable"
+
 ---
 
 # BELYQLY 40oz Tumbler: The Budget Giant That Holds Its Own

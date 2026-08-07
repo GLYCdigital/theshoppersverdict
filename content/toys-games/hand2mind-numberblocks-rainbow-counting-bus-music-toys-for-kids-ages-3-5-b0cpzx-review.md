@@ -1,4 +1,5 @@
 ---
+
 title: "hand2mind Numberblocks Rainbow Counting Bus, Music Toys for"
 seo_title: "hand2mind Numberblocks Rainbow Counting Bus Review (2026)"
 meta_description: "Honest hand2mind Numberblocks Rainbow Counting Bus review: music, counting fun for ages 3-5. See pros, cons, and if it's worth the buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPZX69BL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813o5oHaJ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Working bus doors and wheels that actually roll — kids can play out the show's scenes, not just push buttons"
   - "Rainbow lights sync with the Numberblocks theme song, which holds attention far longer than expected"
   - "Figures are chunky and durable — survived multiple drops onto hardwood in testing without cracks"
-cons:
+cons: 
   - "Batteries not included — you'll need a Phillips screwdriver and 2 AAAs before the first play session"
   - "Volume is fixed at one level; it's not deafening, but there's no quiet mode for car rides or naps"
+
 ---
 
 If your kid is obsessed with Numberblocks — and let's be honest, most 3-to-5-year-olds are — this Rainbow Counting Bus is the toy that actually delivers on the show's promise. It's not just a plastic bus with stickers slapped on. It sings, lights up, counts, and rolls. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dazzle Bright 60 LED Copper Wire Lights"
 seo_title: "Dazzle Bright 60 LED Copper Wire Lights Review (2026)"
 meta_description: "Honest Dazzle Bright 60 LED Copper Wire Lights review: brightness, battery life, durability, and real buyer feedback. Is it worth it for DIY projects?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09WZX663N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cqEfBBKSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True warm white light (2700K) that doesn't look harsh or blue — rare at this price point"
   - "Flexible copper wire holds bends well for wrapping around photo frames, mason jars, or headboards without springing back"
   - "Battery pack is compact (roughly 2.5 x 1.5 inches) with an integrated timer — set it once and it cycles 6 hours on, 18 hours off"
-cons:
+cons: 
   - "CR2032 batteries are included but weak; expect 8–12 hours of actual runtime before they dim noticeably"
   - "No remote control — you're pressing the tiny button on the pack every time you want to toggle manually"
+
 ---
 
 If you've shopped for copper wire lights before, you know the category is flooded with cheap, blue-tinted junk that dies in a week. The Dazzle Bright 60 LED set stands apart — but not for the reasons you might expect. Let me explain what 215 Amazon reviewers (averaging 4.3 stars) are actually getting for their money.

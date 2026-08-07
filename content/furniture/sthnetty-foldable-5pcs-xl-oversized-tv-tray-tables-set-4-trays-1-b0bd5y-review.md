@@ -1,4 +1,5 @@
 ---
+
 title: "Sthnetty Foldable 5pcs XL Oversized TV Tray Tables Set (4 Tr"
 seo_title: "Sthnetty Foldable 5pcs XL Oversized TV Tray Tables Review"
 meta_description: "Our full sthnetty foldable 5pcs xl oversized tv tray tables set (4 tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BD5Y8QC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Heq1eRNOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5-Pack Tray Table Set That Actually Earns Its Keep**

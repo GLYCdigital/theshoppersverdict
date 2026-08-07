@@ -1,4 +1,5 @@
 ---
+
 title: "Americangaslogs Inch Log Grate Wrought Iron Fire Pit Round S"
 seo_title: "Americangaslogs Wrought Iron Fire Pit Log Grate Review"
 meta_description: "Honest review of the Americangaslogs wrought iron fire pit log grate. See how this round, heavy-duty grate performs for airflow, durability, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDZ88VYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6167cBsOE9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge wrought iron construction with welded crossbars that won't sag under a full load of wet hardwood"
   - "Elevated spider-leg design creates strong airflow channels, reducing smoke and helping logs catch faster"
   - "Universal round footprint fits most 24–36 inch fire pits without needing assembly tools"
-cons:
+cons: 
   - "Finish is raw iron — expect surface rust after a few weeks of outdoor exposure unless you season it with high-heat paint"
   - "Legs are fixed; on uneven patio stones the grate can rock slightly until you shim it"
+
 ---
 
 If you've ever burned logs directly on the floor of a fire pit, you know the frustration: smoldering wood, thick smoke, and ash that chokes the flames. The Americangaslogs Inch Log Grate solves that with a deceptively simple design—elevate the wood, let air flow underneath, and the fire does the rest. At 4.6 stars across 229 ratings, it's clearly doing something right. But is it the right grate for your setup? Here's the breakdown after digging into the specs and what owners actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "Party Sweets Color Buttermints"
 seo_title: "Party Sweets Color Buttermints Review: Verdict | TSV"
 meta_description: "Our full party sweets color buttermints review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CFBC1ZZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iv7BKFI0L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: these aren't your average drugstore mints. Party Sweets Color Buttermints have carved out a loyal following among wedding planners and event hosts, and after testing them against the standard peppermint pillow crowd, I get why. But they're not perfect — and you need to know where before you buy.

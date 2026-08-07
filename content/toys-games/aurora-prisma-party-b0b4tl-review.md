@@ -1,4 +1,5 @@
 ---
+
 title: "Aurora - Prisma Party Review: A Colorful Family Game"
 seo_title: "Aurora Prisma Party Review: Honest 2026 Buyer's Guide"
 meta_description: "Read our honest Aurora Prisma Party review. Is this colorful family game worth your money? We break down gameplay, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B4TLQXFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710txKIQ4LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chunky, satisfying crystal tokens that feel premium and survive drops"
   - "Setup takes under 2 minutes — genuinely pick-up-and-play for all ages"
   - "Plays 2-6 players, so it scales from date night to family game night"
-cons:
+cons: 
   - "Rules explanation is dense for a game this simple — expect a learning curve"
   - "Colorblind players will struggle; relies heavily on matching hues"
   - "Box insert doesn't hold pieces snugly — tokens shift during storage"
+
 ---
 
 **Aurora – Prisma Party** has carved out a solid 4.7-star rating across 235 Amazon reviews, and after digging into what buyers actually say, I get it. This is a game that understands its lane: fast, colorful, tactile, and just competitive enough to keep everyone engaged. But it's not without wrinkles. Here's the real breakdown before you hit "add to cart."

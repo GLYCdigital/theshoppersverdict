@@ -1,4 +1,5 @@
 ---
+
 title: "LZHOME Hexagon Garage Light"
 seo_title: "LZHOME Hexagon Garage Light Review: Verdict | TSV"
 meta_description: "Our full lzhome hexagon garage light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CHY36T5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RvEQEhgzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Garage Lighting Upgrade That Actually Changes How You Work

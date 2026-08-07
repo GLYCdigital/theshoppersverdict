@@ -1,4 +1,5 @@
 ---
+
 title: "Apicizon 89Inch Couch Sofa for Living Room"
 seo_title: "Apicizon 89Inch Couch Sofa Review: Worth It? (2026)"
 meta_description: "Honest Apicizon 89Inch Couch Sofa review: build quality, comfort, assembly, and real buyer feedback. Find out if this 4-star living room sofa delivers."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DPCCP945/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81meW5lKuAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame rated for 600+ lbs — genuinely sturdy, no wobble or creaking reported by buyers"
   - Three-seat layout (89 inch wide, 35 inch deep) fits standard living rooms without dominating the space
   - "High-density foam cushions hold their shape; multiple buyers report no sagging after 6+ months"
-cons:
+cons: 
   - "Fabric is light-colored in most listings — shows stains and pet hair quickly unless you buy a cover"
   - "Back cushions are loose and need daily fluffing; they compress noticeably with heavy daily use"
+
 ---
 
 **Opening Hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Ankle Wrist Weights for Women & Men, One Pair of"
 seo_title: "Adjustable Ankle Wrist Weights Review: One Pair, 225+ Ratings"
 meta_description: "Honest review of adjustable ankle wrist weights for women & men. See how they perform, fit, and whether they're worth your money. Verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BC9R4G88/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717lF0igsnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely adjustable from 1 to 3 lbs per pair with removable sand-filled pouches — not the fake 'adjustable' some brands claim"
   - "Velcro straps hold secure during high-rep workouts without digging into ankles or wrists"
   - "Durable nylon shell with reinforced stitching that survives machine washing without losing shape"
-cons:
+cons: 
   - "The 1 lb minimum might feel too light for advanced lifters doing lower-body work"
   - "Pouches can shift slightly inside the sleeve if you don't distribute them evenly before tightening"
+
 ---
 
 **The honest truth about these adjustable ankle/wrist weights**

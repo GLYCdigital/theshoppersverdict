@@ -1,4 +1,5 @@
 ---
+
 title: "Rechargeable Book Light, Reading Lights for Books in Bed wit"
 seo_title: "Rechargeable Book Light, Reading Lights for Books  Review"
 meta_description: "Our full rechargeable book light, reading lights for books in bed wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DGLCBPRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F5wiGo1+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A book light is one of those purchases that seems simple until you've tried five of them. The cheap ones flicker. The expensive ones have arms that sag after a month. The "rechargeable" ones die at 9 PM when you're two chapters from finishing. So when a light shows up with 225 ratings, a 4.5 average, and a 4.6 verdict score, it earns a hard look. Here's the real story after hands-on testing.

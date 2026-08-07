@@ -1,4 +1,5 @@
 ---
+
 title: "Bird Buddy Wall Mount - Versatile Bird Feeder Wall Mount for"
 seo_title: "Bird Buddy Wall Mount Review: Best Feeder Wall Mount?"
 meta_description: "Read our honest Bird Buddy Wall Mount review. Versatile wall & fence mounting for your smart feeder. Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPKWY8VJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v0tLp52tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes both stainless steel screws and heavy-duty adhesive strips — you can mount it without drilling into brick or stucco"
   - "Rotating ball joint lets you reposition the feeder up to 90 degrees for the perfect camera angle"
   - "Rated for 10 kg (22 lbs), so it easily handles the Bird Buddy plus a full seed reservoir"
-cons:
+cons: 
   - "Adhesive strips require a completely smooth, clean surface — they won't hold on textured brick or rough wood"
   - "The mounting plate is visible behind the feeder; it's not flush-hidden like some competitor mounts"
+
 ---
 
 If you own a Bird Buddy smart feeder, you already know the struggle: the stock pole mount limits where you can place it, and the camera angle often ends up pointing at your neighbor's fence instead of the birds. The Bird Buddy Wall Mount solves that problem directly — and for the most part, it does it well.

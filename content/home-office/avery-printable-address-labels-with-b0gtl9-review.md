@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Address Labels with"
 seo_title: "Avery Printable Address Labels Review: 4.8-Star Sticky Sheets"
 meta_description: "Our Avery printable address labels review covers adhesion, print quality, and real user feedback. See if these 4.8-star labels fit your mailing needs."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GTL91K1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KUU1Q2UXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tear-resistant matte finish holds up to rough postal handling without smudging"
   - "True-to-size template compatibility with Avery Design & Print and standard mail merge"
   - "Consistent adhesive grip — labels don't peel after weeks on envelopes"
-cons:
+cons: 
   - "Sheets occasionally stick together in high-humidity environments when stacked"
   - "White-only finish — no clear or kraft options in this specific listing"
+
 ---
 
 You'd think a label is a label. Then you run a batch of wedding invitations through a printer and watch the ink smear, or the corner catches and peels off in the mailbox. That's where Avery's printable address labels earn their keep. With a 4.8-star average across 240 ratings, these sheets have clearly survived some serious mailing seasons.

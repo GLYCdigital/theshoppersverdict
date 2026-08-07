@@ -1,4 +1,5 @@
 ---
+
 title: "Domino® Granulated Sugar, 16 oz Domino® Sugar Canisters (P"
 seo_title: "Domino Sugar Canisters Review: 3-Pack for Coffee"
 meta_description: "Domino 16 oz sugar canisters (3-pack) reviewed for coffee lovers. Shaker-top design, portion control, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJDVHXSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xN2JTaliL._SL1500_.jpg"
-pros:
+pros: 
   - "Shaker-top lid dispenses evenly without clumping — no more spoon fumbling mid-morning"
   - "16 oz size fits standard coffee station shelves and car cup holders"
   - "Three-canister pack gives you one for home, one for work, one for backup"
-cons:
+cons: 
   - "Plastic canister feels lighter duty than glass — don't drop it on tile"
   - "Shaker holes are fixed; you can't adjust flow for finer or coarser dispensing"
+
 ---
 
 Let's be honest: you're not buying this because Domino reinvented sugar. You're buying it because you're tired of wrestling a bag that tears sideways, spills across the counter, and leaves a crystalline mess under your coffee maker. This 3-pack of 16 oz canisters solves that specific problem — and does it well enough to earn a solid 4.2 out of 5.

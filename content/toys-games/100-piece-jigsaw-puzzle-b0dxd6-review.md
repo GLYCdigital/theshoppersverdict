@@ -1,4 +1,5 @@
 ---
+
 title: "100 Piece Jigsaw Puzzle"
 seo_title: "100 Piece Jigsaw Puzzle Review: Worth It? (2026)"
 meta_description: "Honest 100 piece jigsaw puzzle review: piece quality, image clarity, fit, and who it's best for. Real buyer feedback at 4.7 stars."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DXD6K96J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cIOe8letL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick, sturdy pieces that resist bending and peeling — consistent with repeated assembly"
   - "Tight, precise interlocking fit that lets you move completed sections without breakage"
   - "Crisp, vibrant print quality with no glare or fading under normal lighting"
-cons:
+cons: 
   - "No reference poster included — you're working from the box lid alone"
   - "Pieces arrive loose in a single bag; no sorting trays or labeled sub-bags for a 100-piece count"
+
 ---
 
 **The 100-piece jigsaw puzzle category is crowded with flimsy, frustrating options.** Most are either too easy for adults, too hard for kids, or made from cardboard so thin it curls before you finish the border. This particular 100-piece set from the B0DXD6K96J listing sits at a 4.7 average across 235 ratings — which puts it in the top tier for this size class. The question is whether it earns that score or benefits from a forgiving buyer pool.

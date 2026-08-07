@@ -1,4 +1,5 @@
 ---
+
 title: "INDEPANDIA Wrist & Ankle Weights for Women and Men, 2lbs/4lb"
 seo_title: "INDEPANDIA Wrist & Ankle Weights for Women and Men Review"
 meta_description: "Our full indepandia wrist & ankle weights for women and men, 2lbs/4lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLGRRHHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CTt6NH3PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # INDEPANDIA Wrist & Ankle Weights Review: Are These 2lb/4lb Pairs Worth Your Money?

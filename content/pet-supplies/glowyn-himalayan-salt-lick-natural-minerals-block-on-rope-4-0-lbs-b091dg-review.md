@@ -1,4 +1,5 @@
 ---
+
 title: "Glowyn Himalayan Salt Lick-Natural Minerals Block on Rope -"
 seo_title: "Glowyn Himalayan Salt Lick Review: Is It Worth It for Your Pet?"
 meta_description: "Glowyn Himalayan Salt Lick on Rope review: 4.7-star rated mineral block for horses, cattle & small pets. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B091DGG1BS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wDy6vCrNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Multi-species versatility — works for horses, cattle, goats, rabbits, and even pet birds, so one purchase covers a barn full of animals"
   - "Natural pink Himalayan salt with 80+ trace minerals, not just plain sodium chloride"
   - "Pre-drilled hole with sturdy rope included — hang it anywhere in minutes without needing separate hardware"
-cons:
+cons: 
   - "No built-in weather protection — if left out in rain, the block will dissolve and crumble faster than expected"
   - "Weight varies slightly between batches (listed as 4 lbs but some customers report closer to 3.5 lbs)"
   - "Rope is functional but thin — larger horses can snap it with aggressive licking, so inspect it periodically"
+
 ---
 
 **Bottom Line Up Front:** The Glowyn Himalayan Salt Lick delivers what it promises — a dense, mineral-rich salt block that most animals actually use. At 4.7 stars from 235 ratings, it's one of the better-reviewed options in this category. But it's not a set-and-forget product. You need to manage placement and weather exposure to get full value.

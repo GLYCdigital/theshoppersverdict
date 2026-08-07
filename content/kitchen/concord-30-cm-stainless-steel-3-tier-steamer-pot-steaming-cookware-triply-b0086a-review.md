@@ -1,4 +1,5 @@
 ---
+
 title: "Concord 30 CM Stainless Steel 3 Tier Steamer Pot Steaming Co"
 seo_title: "Concord 30cm 3-Tier Steamer Pot Review: Worth It? (2026)"
 meta_description: "Honest Concord 30cm stainless steel 3-tier steamer pot review: build quality, capacity, real-world performance, and who should buy it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0086ANRGU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+eoXwMQYL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Tri-ply base with aluminum core heats evenly without hot spots, sears and boils uniformly across the full 30cm surface"
   - "Three separate steamer tiers plus a deep 9L stockpot base mean you can cook an entire meal — rice, protein, and two veg — in one vessel"
   - "Tempered glass lids on every tier let you monitor cooking without lifting steam and losing heat"
-cons:
+cons: 
   - "The handles are riveted and can get hot during extended steaming; you'll need mitts every time, not just for the lid"
   - "At 30cm wide and roughly 32cm tall fully stacked, this is a bulky piece — it won't fit in standard overhead cabinets and needs dedicated storage"
   - "The thin (0.5mm) stainless body on the tiers can dent if you're rough with it; it's not commercial-grade thickness"
+
 ---
 
 **If you cook for a family or meal-prep on Sundays, a 3-tier steamer is the difference between four dirty pans and one cleanup. The Concord 30cm Stainless Steel 3-Tier Steamer Pot is a solid contender in this category — but it's not without quirks. Here's the honest breakdown after digging through specs and 220+ buyer experiences.**

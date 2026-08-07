@@ -1,4 +1,5 @@
 ---
+
 title: "NELO Electric Kettle with Removable Tea Infuser, 7 Temperatu"
 seo_title: "NELO Electric Kettle with Removable Tea Infuser, 7 Review"
 meta_description: "Our full nelo electric kettle with removable tea infuser, 7 temperatu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB3NQQWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fLu1CEsvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most electric kettles boil water and call it a day. The NELO Electric Kettle with Removable Tea Infuser tries to be smarter than that—and for the most part, it succeeds. If you've ever scorched a pot of delicate green tea by using rolling-boil water, this is the appliance that fixes that recurring mistake.

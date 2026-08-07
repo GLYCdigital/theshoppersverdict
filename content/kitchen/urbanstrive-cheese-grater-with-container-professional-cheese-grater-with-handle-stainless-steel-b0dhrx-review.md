@@ -1,4 +1,5 @@
 ---
+
 title: "Urbanstrive Cheese Grater With Container, Professional Chees"
 seo_title: "Urbanstrive Cheese Grater With Container, Professi Review"
 meta_description: "Our full urbanstrive cheese grater with container, professional chees review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHRX5MFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LULLClFqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Urbanstrive Cheese Grater With Container Review: Is This the Last Grater You'll Buy?

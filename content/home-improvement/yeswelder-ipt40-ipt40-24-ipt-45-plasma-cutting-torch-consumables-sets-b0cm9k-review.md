@@ -1,4 +1,5 @@
 ---
+
 title: "YESWELDER IPT40/IPT40-24/IPT-45 Plasma Cutting Torch Consuma"
 seo_title: "YESWELDER IPT40/IPT40-24/IPT-45 Plasma Cutting Tor Review"
 meta_description: "Our full yeswelder ipt40/ipt40-24/ipt-45 plasma cutting torch consuma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CM9KT6JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iMKxeGMsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a plasma cutter with an IPT40 or IPT45 torch — like the ones found on YESWELDER's own units or the popular Cut-50 style machines — you already know the annoyance of hunting for consumables that actually fit. This kit aims to end that search.

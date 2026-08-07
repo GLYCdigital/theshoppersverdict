@@ -1,4 +1,5 @@
 ---
+
 title: "YOTETION USB C to USB C Cable 3FT,100W 4K60HZ USB3.2 GEN2x2ï"
 seo_title: "YOTETION USB C to USB C Cable 3FT,100W 4K60HZ USB3 Review"
 meta_description: "Our full yotetion usb c to usb c cable 3ft,100w 4k60hz usb3.2 gen2x2ï review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5C7MHP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OAvtfv4IL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the cable clutter. The YOTETION USB-C to USB-C cable isn't just another $12 accessory — it's a full-featured 100W power delivery cable that also handles 20Gbps data and 4K60 video through a single connector. For anyone running a modern laptop, a monitor, or a fast SSD, this is the cable that actually does everything. Here's the real story after digging through specs and 210 Amazon ratings.

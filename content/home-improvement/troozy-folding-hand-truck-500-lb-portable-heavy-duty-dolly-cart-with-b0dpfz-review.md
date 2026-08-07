@@ -1,4 +1,5 @@
 ---
+
 title: "TROOZY Folding Hand Truck 500 LB, Portable Heavy Duty Dolly "
 seo_title: "TROOZY Folding Hand Truck 500 LB, Portable Heavy D Review"
 meta_description: "Our full troozy folding hand truck 500 lb, portable heavy duty dolly  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPFZHNWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EeNQ70DNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're staring at a 70-pound box on your porch, wondering if you should just drag it inside and scuff the floor? The TROOZY folding hand truck exists to end that debate. It's a 500-pound-capacity dolly that collapses small enough to live in your trunk permanently — and at 4.3 stars across 215 ratings, buyers are mostly confirming what the specs suggest.

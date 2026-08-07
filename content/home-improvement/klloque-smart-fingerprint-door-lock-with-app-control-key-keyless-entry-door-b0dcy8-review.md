@@ -1,4 +1,5 @@
 ---
+
 title: "KLLOQUE Smart Fingerprint Door Lock with App Control & Key, "
 seo_title: "KLLOQUE Smart Fingerprint Door Lock with App Contr Review"
 meta_description: "Our full klloque smart fingerprint door lock with app control & key,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DCY8YWCW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ySZ7PvoLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KLLOQUE Smart Fingerprint Door Lock is a feature-packed budget entry into smart home security. At its price point, it tries to do everything — fingerprint, app control, keypad, physical key, even IC cards. But does trying everything mean doing anything well? The 3.7-star average across 185 ratings tells you it's a mixed bag. Let me break down exactly where it shines and where it stumbles.**

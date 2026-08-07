@@ -1,4 +1,5 @@
 ---
+
 title: "Hupmad Convertible Bed Sleeper Chair,Tri-fold Upholstered Ar"
 seo_title: "Hupmad Convertible Bed Sleeper Chair,Tri-fold Upho Review"
 meta_description: "Our full hupmad convertible bed sleeper chair,tri-fold upholstered ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G58YJGFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TeLLsLquL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $150 guest-bed solution that actually works — with a few honest caveats.**

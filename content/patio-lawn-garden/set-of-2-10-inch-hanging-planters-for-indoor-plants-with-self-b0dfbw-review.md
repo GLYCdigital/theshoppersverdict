@@ -1,4 +1,5 @@
 ---
+
 title: "Set of 2-10 Inch Hanging Planters for Indoor Plants with Sel"
 seo_title: "Set of 2-10 Inch Hanging Planters for Indoor Plant Review"
 meta_description: "Our full set of 2-10 inch hanging planters for indoor plants with sel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFBWQN34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ezeW85MEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 10-Inch Hanging Planter That Actually Solves the Overwatering Problem**

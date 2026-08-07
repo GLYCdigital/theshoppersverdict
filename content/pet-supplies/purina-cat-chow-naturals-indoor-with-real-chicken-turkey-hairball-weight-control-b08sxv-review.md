@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Cat Chow Naturals Indoor with Real Chicken & Turkey H"
 seo_title: "Purina Cat Chow Naturals Indoor with Real Chicken  Review"
 meta_description: "Our full purina cat chow naturals indoor with real chicken & turkey h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08SXVS191/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qtPphAFtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got an indoor cat that hacks up hairballs on your rug twice a week and has packed on a few extra pounds from a sedentary lifestyle, you're juggling two problems. Purina Cat Chow Naturals Indoor with Real Chicken & Turkey aims to solve both with one bag. At 4.8 stars from 240 ratings, it's clearly working for a lot of owners. Here's the full breakdown.

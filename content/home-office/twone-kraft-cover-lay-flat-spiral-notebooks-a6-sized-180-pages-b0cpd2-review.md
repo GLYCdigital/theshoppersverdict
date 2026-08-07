@@ -1,4 +1,5 @@
 ---
+
 title: "TWONE Kraft Cover Lay Flat Spiral Notebooks - A6 Sized - 180"
 seo_title: "TWONE Kraft Cover Lay Flat Spiral Notebooks - A6 S Review"
 meta_description: "Our full twone kraft cover lay flat spiral notebooks - a6 sized - 180 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPD2J8G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fZXEhkXgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TWONE Kraft Cover Lay Flat Spiral Notebook in A6 is the kind of product that makes you wonder why more notebooks don't just work this well. It's compact, sturdy, and does exactly what the name promises — lays flat. That's rarer than it should be, and at 4.8 stars from 240 ratings, the consensus is clear: this little notebook delivers.

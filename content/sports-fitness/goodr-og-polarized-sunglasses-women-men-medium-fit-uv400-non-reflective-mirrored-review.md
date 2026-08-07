@@ -1,13 +1,14 @@
 ---
+
 title: "goodr OG Polarized Sunglasses Women & Men | Medium Fit, UV400, Non-Reflective/Mirrored Lenses, No Slip, Multi Colors"
 seo_title: "goodr OG Polarized Review: Verdict (4.6/5) | TSV"
 meta_description: "The quality is impressive for the price point, and they’re durable enough that 9,689+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "goodr-og-polarized-sunglasses-women-men-medium-fit-uv400-non-reflective-mirrored-review"
 image_alt: "goodr OG Polarized Sunglasses Women & Men | Medium Fit, UV400, Non-Reflective/Mirrored Lenses, No Slip, Multi Colors"
-keywords:
+keywords: 
   - "goodr og polarized review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the goodr OG Polarized Sunglasses?"
     answer: "The quality is impressive for the price point, and they’re durable enough that I don’t panic about bringi... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the goodr OG Polarized Sunglasses?"
@@ -20,12 +21,13 @@ review_count: 9689
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFSX6MR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bw9P9dQoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The quality is impressive for the price point."
   - "Cute, functional, affordable."
   - "The polarized lenses do a great job cutting glare, especially for driving, beach days, walks."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be blunt: most sub-$30 sunglasses are disposable junk with polarized lenses that delaminate after a season. The goodr OG Polarized Sunglasses are the exception — and the 4.6-star average across nearly 10,000 reviews backs that up. But they're not perfect, and whether they're right for you depends entirely on your face shape and how hard you treat your gear.

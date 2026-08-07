@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja FlexFlame, Grill and Smoker, Electric and Propane Gril"
 seo_title: "Ninja FlexFlame, Grill and Smoker, Electric and Pr Review"
 meta_description: "Our full ninja flexflame, grill and smoker, electric and propane gril review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GP2V84C9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618JOV04uGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a grill that promises both electric convenience and propane power usually fails at one to make the other work. The Ninja FlexFlame doesn't just split the difference — it actually delivers on both sides of that promise. After 210 Amazon ratings averaging 4.2 stars, the consensus is clear: this is the rare dual-fuel unit that earns its keep.

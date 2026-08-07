@@ -1,4 +1,5 @@
 ---
+
 title: "Step2 Truck Climber, Kids Outdoor Playset, Backyard Playgrou"
 seo_title: "Step2 Truck Climber, Kids Outdoor Playset, Backyar Review"
 meta_description: "Our full step2 truck climber, kids outdoor playset, backyard playgrou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08Z886GZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ph62O6t9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

@@ -1,4 +1,5 @@
 ---
+
 title: "Dahey Metal Iron Hanging Flower Pots for Railing Fence Plant"
 seo_title: "Dahey Metal Hanging Flower Pots Review: Sturdy Railing Planters"
 meta_description: "Honest Dahey metal hanging flower pots review: build quality, rail fit, rust resistance, and real buyer feedback. Find out if these railing planters are worth it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09X9FRGMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fE-ku6DvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine wrought-iron construction with a powder-coated finish that holds up against weather better than cheap welded wire"
   - "Adjustable mounting brackets fit railings from roughly 1 to 2.5 inches wide — verified by multiple buyers on decks and vinyl fences"
   - "Deep 8-inch trough design gives roots enough room for trailing annuals like petunias or herbs"
-cons:
+cons: 
   - "No drainage holes pre-drilled — you must add them yourself, which is a hassle if you don't own a drill"
   - "Paint can chip at the fold points during shipping; several buyers reported touch-up needs within the first month"
+
 ---
 
 Let me be straight with you: most hanging planters at this price point are flimsy wire baskets that buckle under the weight of wet soil. The Dahey Metal Iron Hanging Flower Pots aren't that. These are proper wrought-iron troughs—roughly 16 inches long, 6 inches wide, and 8 inches deep—that actually look like they belong on a countryside balcony, not a discount bin.

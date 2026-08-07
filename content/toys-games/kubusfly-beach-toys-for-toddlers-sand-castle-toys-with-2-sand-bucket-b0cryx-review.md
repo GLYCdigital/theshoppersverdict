@@ -1,4 +1,5 @@
 ---
+
 title: "KUBUSFLY Beach Toys for Toddlers, Sand Castle Toys with 2 Sa"
 seo_title: "KUBUSFLY Beach Toys for Toddlers, Sand Castle Toys Review"
 meta_description: "Our full kubusfly beach toys for toddlers, sand castle toys with 2 sa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRYXVNFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C0dwo+ZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The beach toy set that actually holds up to a toddler's idea of "gentle play"**

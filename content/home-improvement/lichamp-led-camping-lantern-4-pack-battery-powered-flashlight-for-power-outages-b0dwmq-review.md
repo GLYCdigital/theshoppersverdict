@@ -1,4 +1,5 @@
 ---
+
 title: "Lichamp LED Camping Lantern, 4 Pack Battery Powered Flashlig"
 seo_title: "Lichamp LED Camping Lantern, 4 Pack Battery Powere Review"
 meta_description: "Our full lichamp led camping lantern, 4 pack battery powered flashlig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DWMQLWS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KqAf03ITL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4-Pack Answer to Every Blackout, Campout, and Garage Project**

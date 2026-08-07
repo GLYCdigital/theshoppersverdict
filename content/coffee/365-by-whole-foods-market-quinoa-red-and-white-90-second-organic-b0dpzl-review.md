@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market, Quinoa Red And White 90 Second Or"
 seo_title: "365 Whole Foods Quinoa Red & White Review: 90-Second Grains"
 meta_description: "Honest 365 Whole Foods quinoa red & white review. Is the 90-second microwave pouch worth it? Texture, taste, and value compared."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPZLRKJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8123n4qdfcL._SL1500_.jpg"
-pros:
+pros: 
   - "Actually cooks in 90 seconds flat — no soaking, rinsing, or watching a pot boil over"
   - "Dual red and white quinoa blend gives a nuttier, more complex flavor than plain white quinoa"
   - "Organic certification at a price point that undercuts most single-origin quinoa brands"
-cons:
+cons: 
   - "Pouch can puff up aggressively in the microwave — vent it properly or you'll be wiping quinoa off the ceiling"
   - "Slightly drier texture than stovetop-cooked quinoa; needs a splash of water or oil before reheating"
   - "No seasoning included — this is plain quinoa, not a flavored rice side dish"
+
 ---
 
 You know that 45-minute quinoa ritual? Rinse, soak, simmer, steam, fluff. The 365 By Whole Foods Market Red and White Quinoa 90-Second Pouch eliminates all of it. But does convenience come at the cost of flavor and texture? After testing this across multiple meals, here's the honest breakdown.

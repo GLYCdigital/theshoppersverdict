@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Lil' Gravies Roasted Chicken Flavor Cat Food"
 seo_title: "Purina Friskies Lil' Gravies Roasted Chicken Flavo Review"
 meta_description: "Our full purina friskies lil' gravies roasted chicken flavor cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHGYRMFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G11H9zCzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what Purina Friskies Lil' Gravies Roasted Chicken Flavor actually is: a lickable wet treat, not a meal replacement. If you’ve got a cat that turns its nose up at dry kibble or needs medication hidden in something irresistible, this 0.85-ounce pouch is the kind of product that either becomes a daily ritual or collects dust in the pantry. With a 4.2-star average across 210 ratings, the consensus is clear — most cats love it, but the packaging and ingredient list give some owners pause.

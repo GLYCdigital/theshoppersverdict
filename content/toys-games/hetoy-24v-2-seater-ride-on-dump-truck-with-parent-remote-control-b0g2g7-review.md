@@ -1,4 +1,5 @@
 ---
+
 title: "Hetoy 24V 2-Seater Ride On Dump Truck with Parent Remote Con"
 seo_title: "Hetoy 24V 2-Seater Ride-On Dump Truck Review (2026)"
 meta_description: "Honest Hetoy 24V 2-seater dump truck review: power, battery life, remote control limits, and safety. Is it worth $300+? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G2G7DYXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rZdzgtiRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 24V dual-motor system (two 12V motors) delivers real torque — climbs grassy slopes that 12V trucks stall on"
   - "Genuine two-seater with 176 lb combined capacity — siblings or friends can ride together without fighting over turns"
   - "Working dump bed with manual tilt and metal hinge — kids actually load and haul rocks, sand, or toys"
-cons:
+cons: 
   - "Assembly runs 2–3 hours with confusing, sometimes mislabeled hardware — set aside a full evening"
   - "Parent remote uses 2.4GHz but has a short ~30 ft range and no proportional steering — emergency-stop only, not full control"
   - "Battery charges in 8–10 hours for only 45–60 minutes of runtime — plan charging overnight for daily use"
+
 ---
 
 If you've got two kids under 8 and a yard with any kind of slope, the Hetoy 24V 2-Seater Ride-On Dump Truck is one of the few budget-adjacent options that won't embarrass itself on grass. Most 12V ride-ons in this price class are glorified sidewalk cruisers — this one's got actual torque. But it's not without compromises, and some of them are significant.

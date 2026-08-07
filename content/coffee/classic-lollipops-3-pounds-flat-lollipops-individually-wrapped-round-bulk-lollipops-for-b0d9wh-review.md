@@ -1,4 +1,5 @@
 ---
+
 title: "Classic Lollipops – 3 Pounds – Flat Lollipops Individually W"
 seo_title: "Classic Lollipops 3 Lb Review: Bulk Flat Candy Worth It?"
 meta_description: "Classic Lollipops 3-pound bulk review: 215 ratings, 4.3 stars. Are flat individually wrapped pops worth it? Flavor, value, and real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9WHQ2PP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CWsGeZg5L._SL1448_.jpg"
-pros:
+pros: 
   - "Genuinely flat disc shape that fits easily in a mouth or gift bag — not the awkward round-ball pops that roll everywhere"
   - "Individually wrapped means they survive shipping and stay fresh for months in a pantry or party favor bin"
   - "Three-pound bag delivers roughly 90-100 pops, which shakes out to well under 10 cents per lollipop"
-cons:
+cons: 
   - "Flavor variety is inconsistent — some bags arrive heavy on cherry and lemon, light on the more interesting flavors"
   - "The sticks are thin plastic and can bend if a kid bites down hard — not a dealbreaker, but worth knowing"
+
 ---
 
 Let's be honest: you're not here for a gourmet tasting experience. You're here because you need a pile of lollipops that won't embarrass you at a birthday party, a classroom reward jar, or a wedding favor table. The Classic Lollipops 3-pound bag delivers exactly that — and a few surprises along the way.

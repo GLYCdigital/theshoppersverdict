@@ -1,4 +1,5 @@
 ---
+
 title: "(50 Pads) Sticky Notes 1.5x2, 10 Colors Self Sticky Notes, S"
 seo_title: "50 Pads Sticky Notes 1.5x2 Review: 10-Color Value Pack"
 meta_description: "Honest review of 50-pad sticky notes 1.5x2 with 10 colors. We tested adhesion, paper quality, and value. Is this bulk pack worth it? Read before buying."
@@ -11,15 +12,16 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5QCDK9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uX5qnIZFL._AC_SL1365_.jpg"
-pros:
+pros: 
   - "Genuinely sticky adhesive that holds to vertical surfaces, monitors, and notebooks without curling or peeling off overnight"
   - "50 pads works out to roughly 3,000 sheets — enough for a full semester, a small office team, or a year of daily list-making"
   - "10 distinct, saturated colors that are actually different from each other (no two shades look identical), making color-coding practical"
   - "Paper is thick enough to write on with ballpoint or gel pen without bleed-through, unlike flimsier budget notes"
-cons:
+cons: 
   - "Small 1.5x2 inch size is limiting — you'll fit about 8-10 words comfortably, so these are for flags and reminders, not detailed notes"
   - "No dispenser or storage box included; the 50 loose pads arrive shrink-wrapped and will scatter in a drawer unless you sort them yourself"
   - "Some pads arrive with slightly curled edges from shipping compression, which can catch on your hand when peeling"
+
 ---
 
 Let's be honest: most sticky note bulk packs are a gamble. You either get pads that peel off by Tuesday or paper so thin your pen bleeds through onto the desk. This 50-pad set from the generic "S" brand on Amazon sits somewhere in the middle — but for the price per pad, it's worth a serious look.

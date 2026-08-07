@@ -1,4 +1,5 @@
 ---
+
 title: "E-Z UP Ambassador Instant Shelter Canopy"
 seo_title: "E-Z UP Ambassador Canopy Review: 10x10 Instant Shelter"
 meta_description: "E-Z UP Ambassador 10x10 canopy review: durable frame, instant setup, real buyer feedback. See pros, cons, and who should buy this pop-up shelter."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B078FBC6ZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516RTtG3fvL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Scissor-action frame with rust-resistant coating opens in under 60 seconds without tools"
   - "One-piece slanted roof with welded seams sheds rain effectively instead of pooling"
   - "Includes roller bag, four sandbag weights, and ropes — most competitors sell these separately"
-cons:
+cons: 
   - "Roof fabric is only 150-denier polyester — not heavy-duty; sharp branches or high winds can tear it"
   - "No sidewalls included; you'll pay another $60-$100 for privacy or sun protection on the sides"
   - "At 45 pounds, it's manageable for one person but not a lightweight tailgating canopy"
+
 ---
 
 # E-Z UP Ambassador Instant Shelter Canopy Review: The 60-Second Pop-Up That Actually Holds Up

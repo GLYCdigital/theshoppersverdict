@@ -1,4 +1,5 @@
 ---
+
 title: "SDOVUERC Grow Lights for Indoor Plants, Full Spectrum LED Pl"
 seo_title: "SDOVUERC Grow Lights for Indoor Plants, Full Spect Review"
 meta_description: "Our full sdovuerc grow lights for indoor plants, full spectrum led pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQVG32JN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Oq8vphYEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise here. The SDOVUERC grow light is a budget-friendly full spectrum LED panel that's been quietly racking up 4.5 stars across 225+ ratings. After digging through the specs and customer feedback, here's what actually matters if you're about to drop money on this thing.

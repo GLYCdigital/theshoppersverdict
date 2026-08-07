@@ -1,4 +1,5 @@
 ---
+
 title: "Rectorseal 97795 Mighty A/C Condensate Drain Line Pump"
 seo_title: "Rectorseal 97795 Mighty A/C Condensate Drain Line  Review"
 meta_description: "Our full rectorseal 97795 mighty a/c condensate drain line pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLMPNCMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TYs6naWqL._AC_SL1455_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your A/C condensate drain line runs uphill, you already know the pain. Gravity isn't on your side, and water pooling in the drip pan leads to overflow, rusted equipment, and ceiling stains. The Rectorseal 97795 Mighty pump solves that problem for less than the cost of one service call. Here's what 225 buyers (averaging 4.5 stars) discovered — and what they wish they'd known before buying.

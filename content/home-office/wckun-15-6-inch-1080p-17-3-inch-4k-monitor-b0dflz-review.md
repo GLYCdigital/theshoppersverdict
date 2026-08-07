@@ -1,4 +1,5 @@
 ---
+
 title: "WCKUN 15.6 Inch 1080P+ 17.3 Inch 4K Monitor"
 seo_title: "WCKUN 15.6 Inch 1080P+ 17.3 Inch 4K Monitor Review: Verdi"
 meta_description: "Our full wckun 15.6 inch 1080p+ 17.3 inch 4k monitor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFLZ727F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716aFK0gdfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The WCKUN Dual-Size Portable Monitor: One Brand, Two Very Different Screens

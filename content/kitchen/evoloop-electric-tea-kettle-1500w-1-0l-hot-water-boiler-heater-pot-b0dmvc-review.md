@@ -1,4 +1,5 @@
 ---
+
 title: "Evoloop Electric Tea Kettle, 1500W /1.0L Hot Water Boiler He"
 seo_title: "Evoloop Electric Kettle Review: 1500W 1.0L Fast Boil Test"
 meta_description: "Evoloop 1500W 1.0L electric kettle review: fast boil times, build quality, and real drawbacks. Is this compact tea kettle worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMVC3JPV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xQeVPH-qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Boils a full liter in roughly 3–4 minutes thanks to the 1500W element — noticeably faster than 1000W budget kettles"
   - "Auto shut-off and boil-dry protection engage reliably; the base has a stable, non-slip footprint"
   - "Compact 1.0L capacity fits neatly under low cabinets and is ideal for single users or couples"
-cons:
+cons: 
   - "1.0L capacity means refills if you're brewing for more than two people — a real limitation for families"
   - "No temperature presets; it's a straight boil-only kettle, so green tea drinkers will need to watch the kettle"
   - "Exterior gets hot to the touch during boiling; the handle stays cool, but the body is not double-walled"
+
 ---
 
 The Evoloop Electric Tea Kettle isn't trying to be your smart-kitchen centerpiece. It's a straightforward, no-nonsense 1500W boiler that does one job and does it quickly. At 1.0 liters, it's sized for the solo tea drinker or the coffee pour-over devotee — not the family breakfast rush. Here's the honest breakdown after digging through the specs, the 220-plus ratings, and what actual owners are saying.

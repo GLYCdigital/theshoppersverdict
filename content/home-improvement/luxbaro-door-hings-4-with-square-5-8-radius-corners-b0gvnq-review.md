@@ -1,7 +1,8 @@
 ---
-title: "Luxbaro Door Hings 4\" with Square & 5/8\" Radius Corners"
-seo_title: "Luxbaro Door Hings 4\" with Square & 5/8\" Radius Co Review"
-meta_description: "Our full luxbaro door hings 4\" with square & 5/8\" radius corners review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Luxbaro Door Hings 4\ with Square & 5/8\ Radius Corners"
+seo_title: "Luxbaro Door Hings 4\ with Square & 5/8\ Radius Co Review"
+meta_description: "Our full luxbaro door hings 4\ with square & 5/8\ radius corners review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "luxbaro-door-hings-4-with-square-5-8-radius-corners-b0gvnq-review"
 image_alt: "Luxbaro Door Hings 4 with Square & 5/8 Radius Corners"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVNQ3LS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qAoMs4PqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to match an existing door hinge, you know the pain: 4" hinges come in both square corners and 5/8" radius corners, and getting it wrong means either returning hardware or getting out the chisel. The Luxbaro 4" Door Hinges solve that problem by including both types of corner plates in one box. That's the headline feature here, and it's genuinely useful — not just marketing fluff.

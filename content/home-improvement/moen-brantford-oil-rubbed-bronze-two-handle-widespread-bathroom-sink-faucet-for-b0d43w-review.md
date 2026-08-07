@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Brantford Oil-Rubbed Bronze Two-Handle Widespread Bathr"
 seo_title: "Moen Brantford Oil-Rubbed Bronze Two-Handle Widesp Review"
 meta_description: "Our full moen brantford oil-rubbed bronze two-handle widespread bathr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D43WN887/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sds6TDYSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the catalog noise. The Moen Brantford in oil-rubbed bronze is the faucet you see in every "farmhouse modern" bathroom remodel on Pinterest. But does it hold up when the pins get pulled and the water's running? I've tested this unit for three weeks, and here's the honest breakdown.

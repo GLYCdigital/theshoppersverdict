@@ -1,4 +1,5 @@
 ---
+
 title: "Danger Coffee by Dave Asprey, Remineralized, Mold Free & Lab"
 seo_title: "Danger Coffee Review: Dave Asprey's Mold-Free Beans (2026)"
 meta_description: "Danger Coffee by Dave Asprey: Is this $30 mold-free, lab-tested ground coffee worth it? Read our honest review of taste, quality & value."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DL6BP4TN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yeU7Qeg9L._SL1500_.jpg"
-pros:
+pros: 
   - "Every batch is third-party lab tested for 400+ mycotoxins and heavy metals — results published publicly"
   - "Remineralization with fulvic and humic acids adds a subtle sweetness that cuts bitterness without needing sugar"
   - "Smooth, low-acid profile that won't wreck your stomach even on an empty gut"
-cons:
+cons: 
   - "Premium price point — expect to pay roughly double what standard specialty beans cost per pound"
   - "Dark roast dominates; if you're a light roast fan, this won't convert you"
   - "Ground only — no whole bean option for those with grinders"
+
 ---
 
 **Danger Coffee isn't just another overpriced "biohacker" coffee.** Dave Asprey's brand has carved out a legitimate niche, and this remineralized ground coffee is the most accessible entry point yet. I've tested dozens of "clean" coffees claiming to be mold-free, and most fall short on either lab transparency or actual taste. This one delivers on both — with caveats.

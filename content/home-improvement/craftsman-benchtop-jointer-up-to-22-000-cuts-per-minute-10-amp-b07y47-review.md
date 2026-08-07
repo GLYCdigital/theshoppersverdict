@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Benchtop Jointer, Up to 22,000 cuts per Minute, 10 inch"
 seo_title: "CRAFTSMAN Benchtop Jointer Review: 10-Amp, 22,000 CPM"
 meta_description: "CRAFTSMAN 10-amp benchtop jointer review: 22,000 cuts/min, 6-inch cutting width. Real pros, cons, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07Y476PHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vHDq0QaiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-amp motor delivers 22,000 CPM for smooth, tear-out-free edges on hardwoods"
   - "6-inch cutting width handles most furniture-scale boards without breaking the bank"
   - "Adjustable 45°-90° fence with positive stops locks down repeatable bevel cuts"
-cons:
+cons: 
   - "Aluminum tables are shorter than floor models — long boards will rock or need infeed/outfeed support"
   - "Knife height adjustment requires patience; no quick-set system included"
   - "Dust chute is 2-1/2 inches — you'll need an adapter for standard 4-inch shop vac setups"
+
 ---
 
 If you're flattening rough lumber for a tabletop or squaring up edges before glue-up, a jointer is the machine that separates "good enough" from "actually square." The CRAFTSMAN 10-amp benchtop jointer is the budget-friendly entry point that most hobbyists land on — and at 4.4 stars from 220 ratings, it's clearly doing something right. But "benchtop" comes with compromises, and you need to know exactly what they are before you buy.

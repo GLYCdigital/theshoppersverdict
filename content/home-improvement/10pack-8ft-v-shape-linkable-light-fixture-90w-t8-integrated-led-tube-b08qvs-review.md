@@ -1,4 +1,5 @@
 ---
+
 title: "10Pack 8Ft V Shape Linkable Light Fixture, 90W T8 Integrated"
 seo_title: "10Pack 8Ft V Shape Linkable Light Fixture Review (90W T8 LED)"
 meta_description: "Honest 10Pack 8Ft V Shape Linkable Light Fixture review: 90W T8 integrated LED brightness, linking, installation quirks, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QVSHG3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q-b0wHj3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 8-foot length with V-shaped aluminum housing that distributes light evenly across a wide workbench or garage bay"
   - "Linkable design lets you daisy-chain multiple fixtures from a single power source — no extra outlets needed"
   - "Integrated T8 LEDs eliminate bulb replacement hassle; 90W output delivers roughly 9,000 lumens of bright, cool white light"
-cons:
+cons: 
   - "Hardwired pigtail requires direct wiring or a plug adapter; no standard power cord included in the box"
   - "V-shape profile makes surface mounting tricky on uneven ceilings — you'll need to plan mounting points carefully"
   - "Cool white color temperature (5000K) may feel harsh for residential living spaces or cozy workshops"
+
 ---
 
 ## The 8-Foot Light That Actually Covers a Full Bay

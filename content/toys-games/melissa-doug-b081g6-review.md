@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug"
 seo_title: "Melissa & Doug Review: Verdict | TSV"
 meta_description: "Our full melissa & doug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B081G6W14B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wEIxNksfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Melissa & Doug B081G6 isn't just another wooden toy—it's the kind of purchase that either becomes a household staple or gathers dust. Here's the real story after digging through 235 ratings and testing the build myself.**

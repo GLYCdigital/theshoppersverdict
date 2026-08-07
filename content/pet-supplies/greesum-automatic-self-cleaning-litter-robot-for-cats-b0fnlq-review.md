@@ -1,4 +1,5 @@
 ---
+
 title: "Greesum Automatic Self-Cleaning Litter Robot for Cats"
 seo_title: "Greesum Self-Cleaning Litter Robot Review (2026): Honest Verdict"
 meta_description: "Greesum Automatic Self-Cleaning Litter Robot review: 3.5-star rating analyzed. Real pros, cons, and who should buy this cat litter box."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0FNLQP2QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GXO17qtEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine hands-free scooping with automatic raking cycle that runs after each use"
   - "Open-top design fits most adult cats without the enclosed-cabin claustrophobia issue"
   - "Below-average price point vs. Litter-Robot competitors makes it a budget entry point"
-cons:
+cons: 
   - "175 ratings averaging just 3.5 stars suggests inconsistent reliability and QC issues"
   - "Several buyers report odor control falling short between cleanings"
   - "Replacement waste drawer liners add ongoing cost not disclosed upfront"
+
 ---
 
 Let's be direct: a 3.5-star average across 175 ratings on Amazon tells you this is not a slam-dunk purchase. The Greesum Automatic Self-Cleaning Litter Robot is a budget-friendly entry into the automated litter box category, and it delivers on the core promise — but with enough caveats that you need to know what you're signing up for.

@@ -1,4 +1,5 @@
 ---
+
 title: "2x3 Entryway Rug Machine Washable Boho Floral Arae Rug Soft"
 seo_title: "2x3 Entryway Rug Review: Machine Washable Boho Floral"
 meta_description: "Honest 2x3 entryway rug review: machine washable boho floral design, soft low pile, real-world durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2H2761Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jcuFzXzIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine washable without pilling or shedding — survives repeated washer cycles intact"
   - "Low pile (under 0.3 inches) means no tripping hazard at doorways and vacuum-friendly"
   - "Non-slip backing holds position on tile and hardwood without a separate pad"
-cons:
+cons: 
   - "Thin construction — won't add meaningful cushioning for standing long periods"
   - "Boho floral pattern fades noticeably with frequent sun exposure in bright entryways"
+
 ---
 
 **The 2x3 entryway rug problem is real: too small to matter, too fragile to last, too pretty to throw away after two washes. This boho floral version from Arae tries to solve all three at once. Here's whether it actually does.**

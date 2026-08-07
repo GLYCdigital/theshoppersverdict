@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Grill Mates Brown Sugar Bourbon Seasoning, 27 oz -"
 seo_title: "McCormick Grill Mates Brown Sugar Bourbon Seasonin Review"
 meta_description: "Our full mccormick grill mates brown sugar bourbon seasoning, 27 oz - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D159NJZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fQgD-A69L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've only seen the 9-ounce grocery store shaker of McCormick Grill Mates Brown Sugar Bourbon, the 27-ounce version might look like a typo. It's not. This is the restaurant-sized bottle, and for anyone who grills more than twice a month, it's the smarter buy. At 4.8 stars from 240 ratings, the math on this one checks out — but let's talk about whether it belongs in your kitchen.

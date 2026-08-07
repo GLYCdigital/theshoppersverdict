@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde Hardwired Carbon Monoxide Detector with 9-Volt Battery"
 seo_title: "Kidde Hardwired Carbon Monoxide Detector with 9-Vo Review"
 meta_description: "Our full kidde hardwired carbon monoxide detector with 9-volt battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CT4R94GT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Buypr9QgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a home with a gas furnace, attached garage, or wood-burning fireplace, carbon monoxide detection isn't optional—it's the difference between a bad headache and a tragedy. The Kidde Hardwired CO Detector with 9V battery backup is one of the most straightforward, reliable options in this category, and with a 4.8-star average across 240 ratings, it's clearly earning its keep in real homes.

@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 12-Inch - Medium-Sized Ultrasoft Offi"
 seo_title: "Squishmallows Original 12-Inch - Medium-Sized Ultr Review"
 meta_description: "Our full squishmallows original 12-inch - medium-sized ultrasoft offi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GLH69H98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w-MY6KuNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've seen these round, impossibly soft plush toys everywhere from elementary school backpacks to airport terminals, you already know the Squishmallows phenomenon. The question isn't whether they're popular — it's whether the Original 12-Inch Offi actually delivers on the hype. After looking at what 245 verified buyers report, here's the honest breakdown.

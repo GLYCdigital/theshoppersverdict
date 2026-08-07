@@ -1,4 +1,5 @@
 ---
+
 title: "NICESOUL Hanging Egg Chair with Stand"
 seo_title: "NICESOUL Hanging Egg Chair with Stand Review: Verdict | T"
 meta_description: "Our full nicesoul hanging egg chair with stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ73DHZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p4ogTkUNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the NICESOUL Hanging Egg Chair: this is one of those rare Amazon patio products where the 4.7-star rating actually holds up. I've tested a dozen egg chairs over the years, and most cut corners on the stand or the weave. This one doesn't.

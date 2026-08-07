@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Jacobs Perfect Eau de Parfum 2-Piece Travel Spray Gift "
 seo_title: "Marc Jacobs Perfect Eau de Parfum 2-Piece Travel S Review"
 meta_description: "Our full marc jacobs perfect eau de parfum 2-piece travel spray gift  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJ2YNB1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519ygPc0EcL._SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The "Perfect" Blend of Playful and Polished — But Is It Worth the Luxury Price?

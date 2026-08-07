@@ -1,4 +1,5 @@
 ---
+
 title: "DeWalt 20V MAX Brushless 15 Degree Cordless Coil Battery Pow"
 seo_title: "DeWalt 20V MAX Brushless Coil Roofing Nailer Review (2026)"
 meta_description: "Honest DeWalt 20V MAX Brushless 15° coil roofing nailer review: performance, jams, battery life, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B088Y557Y1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Phn+6I+VL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers consistent driving power through pressure-treated lumber without the slowdown you get from older cordless nailers"
   - "Dry-fire lockout actually works—saves collated nails and prevents the nailer from slamming empty into your work surface"
   - "Tool-free jam release and depth adjustment are genuinely tool-free; you can clear a misfeed in under 30 seconds on a ladder"
-cons:
+cons: 
   - "At 8.3 pounds with a 5Ah battery, this is a heavy tool—expect forearm fatigue on a full day of decking or sheathing"
   - "The rafter hook is positioned awkwardly for belt carry; it catches on harness straps and ladder rungs more than it helps"
+
 ---
 
 **The DeWalt 20V MAX Brushless 15-Degree Coil Roofing Nailer (model B088Y5) is the cordless tool that makes you question why you ever dragged an air compressor up a roof.** After 220 Amazon ratings averaging 4.4 stars, the consensus is clear: this is a serious workhorse, but it isn't for everyone. Here's the unvarnished truth.

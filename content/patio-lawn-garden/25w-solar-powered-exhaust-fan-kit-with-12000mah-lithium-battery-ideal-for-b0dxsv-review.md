@@ -1,4 +1,5 @@
 ---
+
 title: "25W Solar Powered Exhaust Fan Kit with 12000mAh Lithium Batt"
 seo_title: "25W Solar Exhaust Fan Kit Review: 12Ah Battery Backup"
 meta_description: "Honest review of the 25W solar exhaust fan with 12000mAh lithium battery. Real performance data, installation tips, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DXSVLB7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vC2CsMpqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12000mAh battery keeps fan running 4-6 hours after sunset, unlike most solar fans that die at dusk"
   - "25W panel delivers meaningful airflow (up to 850 CFM) even in partial shade conditions"
   - "Dual-wall 0.55-inch thick panel frame handles hail and wind without flexing"
-cons:
+cons: 
   - "Mounting hardware is generic — you'll need to source your own stainless bolts for outdoor longevity"
   - "Fan noise is noticeable at full speed (measured ~52 dB) — not ideal for bedrooms or quiet patios"
   - "Battery charges only via solar, so overcast weeks can leave the fan sluggish by day three"
+
 ---
 
 Let's cut to the chase: most solar exhaust fans are gimmicks with 5W panels that barely spin a plastic blade. This 25W kit with a 12000mAh lithium battery is a different animal — and for greenhouse owners, chicken coop keepers, or anyone fighting attic heat, it might be the single best $100-ish you'll spend this summer.

@@ -1,4 +1,5 @@
 ---
+
 title: "TRULY INDIAN Vegan, Indian Food, Naan, 12 OZ"
 seo_title: "TRULY INDIAN Vegan, Indian Food, Naan, 12 OZ Review: Verd"
 meta_description: "Our full truly indian vegan, indian food, naan, 12 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSGKFBLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817qFGUu--L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is a plant-based naan that actually tastes like the real thing too much to ask? After 225 Amazon ratings and a 4.5-star average, TRULY INDIAN’s vegan naan suggests the answer is no. I tested a 12 oz pack against my usual dairy-laden favorite to see if this holds up — and whether it deserves your grocery budget.

@@ -1,4 +1,5 @@
 ---
+
 title: "Clinique Touch Base For Eyes Long Lasting Cream Eye Shadow a"
 seo_title: "Clinique Touch Base For Eyes Review: Long-Lasting Cream Shadow"
 meta_description: "Clinique Touch Base For Eyes cream eye shadow review: Does this long-wearing primer-shadow hybrid deliver? Real user feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVQBS2H9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+nha+gFpL._SL1500_.jpg"
-pros:
+pros: 
   - "Acts as both primer and shadow — eliminates the need for a separate base layer"
   - "Crease-resistant formula that holds powder shadows in place for 8+ hours"
   - "Smooth, blendable texture that sets quickly without drying into a chalky finish"
-cons:
+cons: 
   - "Limited shade range — mostly neutral tones, no bold or vibrant colors"
   - "Small pot size (0.14 oz) — runs out faster than expected with daily use"
+
 ---
 
 Here's the thing about eye makeup: most of us are stuck choosing between a primer that adds an extra step or a cream shadow that creases by noon. Clinique's Touch Base For Eyes tries to be both. At a 4.6-star average from 229 ratings, it's clearly doing something right — but is it the multitasker it claims to be? Let's dig in.

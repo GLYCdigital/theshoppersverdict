@@ -1,4 +1,5 @@
 ---
+
 title: "David Original Sunflower Seeds, 1.75 Ounce (24 Count)"
 seo_title: "David Original Sunflower Seeds Review: 24-Count Value Pack"
 meta_description: "Honest review of David Original Sunflower Seeds 24-pack. Crunchy, salty, and consistent — but is the value there? We break down pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B1BMG24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-g+caunUL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent roasting and salt level across all 24 bags — no bland or burnt batches in my testing"
   - "Individual 1.75-ounce pouches are ideal for lunchboxes, road trips, or desk drawers without going stale"
   - "Seeds are plump with a satisfying crack; the shells don't splinter into painful shards"
-cons:
+cons: 
   - "The salt dust accumulates at the bottom of the bag — the last few seeds are borderline salty-brine territory"
   - "No resealable closure on individual pouches; if you don't finish one, you must fold and clip it"
   - "Original flavor is straightforward salty — don't expect any smoky or roasted complexity"
+
 ---
 
 ## The Snack Aisle Stalwart That Actually Earns Its Place

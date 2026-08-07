@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 20-Inch - Jumbo Ultrasoft Plush"
 seo_title: "Squishmallows Original 20-Inch - Jumbo Ultrasoft P Review"
 meta_description: "Our full squishmallows original 20-inch - jumbo ultrasoft plush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0G2YHF91F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SD+iAT4ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the 20-inch Squishmallow actually worth $40+?**  

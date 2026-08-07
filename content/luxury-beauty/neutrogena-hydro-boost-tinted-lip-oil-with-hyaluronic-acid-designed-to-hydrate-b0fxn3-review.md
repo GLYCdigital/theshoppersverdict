@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena Hydro Boost Tinted Lip Oil with Hyaluronic Acid, "
 seo_title: "Neutrogena Hydro Boost Tinted Lip Oil with Hyaluro Review"
 meta_description: "Our full neutrogena hydro boost tinted lip oil with hyaluronic acid,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXN32LG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61os+ReBN3L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever slapped on a "tinted lip oil" that turned out to be glorified flavored water, you know the category's reputation problem. The Neutrogena Hydro Boost Tinted Lip Oil with Hyaluronic Acid doesn't reinvent the wheel — but it does something smarter. It actually moisturizes like a skincare product while giving your lips a wash of color that looks expensive without the price tag.

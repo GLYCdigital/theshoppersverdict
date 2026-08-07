@@ -1,4 +1,5 @@
 ---
+
 title: "Physicians Formula eye-liner"
 seo_title: "Physicians Formula eye-liner Review: Verdict | TSV"
 meta_description: "Our full physicians formula eye-liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKF75VDM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rmmMLjY7L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most drugstore eyeliners either smudge by noon or drag across your lash line like a dry marker. The Physicians Formula Eye-Liner sits in a curious middle ground — it's priced like a premium product, yet carries the brand's clinical, hypoallergenic reputation. After digging through 220 Amazon ratings and testing this against higher-end competitors, here's what actually matters.

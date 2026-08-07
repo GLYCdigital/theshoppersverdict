@@ -1,5 +1,6 @@
 ---
 
+
 title: "EasySMX D05 PC Controller - Enhanced Wireless Bluetooth Pro"
 seo_title: "EasySMX D05 Review: Is This Wireless PC Controller Worth It?"
 meta_description: "EasySMX D05 PC Controller review: 4.2-star wireless Bluetooth gamepad with charging dock. See pros, cons, and if it beats Xbox or PS5 controllers."
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F32T137S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711xEoAIRAL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall-effect joysticks with anti-drift design — no stick drift even after months of heavy use"
   - "Dual connection modes (2.4G dongle + Bluetooth) with a charging dock that keeps the controller topped up"
   - "Turbine-style vibration motors deliver strong, immersive rumble for under $50 inch"
-cons:
+cons: 
   - "Button layout is Xbox-style, so PlayStation players will need a re-learning curve"
   - "Software for remapping is basic — don't expect deep customization like premium controllers"
   - "Charging dock requires the included USB-C cable; it doesn't come with a wall adapter"
+
 
 ---
 

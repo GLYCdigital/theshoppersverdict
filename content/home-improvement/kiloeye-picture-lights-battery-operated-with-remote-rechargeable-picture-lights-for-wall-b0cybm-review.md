@@ -1,4 +1,5 @@
 ---
+
 title: "Kiloeye Picture Lights Battery Operated with Remote, Recharg"
 seo_title: "Kiloeye Picture Lights Battery Operated with Remot Review"
 meta_description: "Our full kiloeye picture lights battery operated with remote, recharg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CYBMXJZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PLNvij5GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between "I want gallery lighting" and "I refuse to hire an electrician" sits the Kiloeye Picture Light. It's a rechargeable, remote-controlled LED fixture that mounts above your art without wires, outlets, or a call to your landlord. At 4.2 stars across 210 ratings, it's clearly working for a lot of people — but the question is whether it works for *your* specific setup.

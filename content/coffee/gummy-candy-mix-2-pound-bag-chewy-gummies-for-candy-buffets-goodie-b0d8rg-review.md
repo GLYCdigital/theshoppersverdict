@@ -1,4 +1,5 @@
 ---
+
 title: "Gummy Candy Mix | 2-Pound Bag | Chewy Gummies for Candy Buff"
 seo_title: "Gummy Candy Mix | 2-Pound Bag | Chewy Gummies for  Review"
 meta_description: "Our full gummy candy mix | 2-pound bag | chewy gummies for candy buff review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8RGZMQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81axssiVniL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 2-Pound Gummy Gamble: Worth Your Buffet Budget?

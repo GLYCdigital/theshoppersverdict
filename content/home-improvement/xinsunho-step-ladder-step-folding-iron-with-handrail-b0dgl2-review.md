@@ -1,4 +1,5 @@
 ---
+
 title: "XinSunho Step Ladder Step Folding Iron with Handrail"
 seo_title: "XinSunho Step Ladder Step Folding Iron with Handra Review"
 meta_description: "Our full xinsunho step ladder step folding iron with handrail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGL2FNK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x04BQqMGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Ladder That Doesn't Make You Nervous

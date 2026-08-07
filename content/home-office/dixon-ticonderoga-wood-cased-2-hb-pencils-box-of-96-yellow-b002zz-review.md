@@ -1,4 +1,5 @@
 ---
+
 title: "Dixon Ticonderoga Wood-Cased #2 HB Pencils, Box of 96, Yello"
 seo_title: "Dixon Ticonderoga #2 Pencils Review: Box of 96 Worth It?"
 meta_description: "Honest Dixon Ticonderoga #2 pencils review: 96-count box performance, eraser quality, lead strength, and value. See if these iconic yellow pencils deliver."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B002ZZ9FQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ssb-ZnfHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium cedar wood sharpens to a long, smooth point without splintering or excessive breakage"
   - "Satin-smooth graphite core writes consistently dark with minimal pressure — no skipping or scratchiness"
   - "Latex-free pink eraser actually removes graphite cleanly without tearing paper, unlike most pencil erasers"
-cons:
+cons: 
   - "No eraser refills available — once the tip wears down, you're sharpening away the eraser too"
   - "Box of 96 has no plastic tray or divider; pencils roll around loose, making inventory and transport messier than smaller boxes"
+
 ---
 
 Some products earn their reputation through clever marketing. The Dixon Ticonderoga earns it through 100+ years of doing one thing right: making a pencil that feels like a pencil should. This 96-count box is the bulk-buy standard for teachers, offices, and anyone who's tired of cheap imports that snap on the second sharpen.

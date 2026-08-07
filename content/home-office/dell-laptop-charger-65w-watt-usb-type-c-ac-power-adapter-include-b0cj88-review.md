@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Laptop Charger 65W Watt USB Type C AC Power Adapter Inc"
 seo_title: "Dell 65W USB-C Charger Review: Reliable Power, Real Tradeoffs"
 meta_description: "Dell 65W USB-C laptop charger review: compatibility, durability, and heat concerns. Is it worth it? Real buyer feedback and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CJ88NGPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H1LTzJLWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact 65W USB-C PD design works with Dell laptops and many other brands"
   - "Reinforced cable strain relief at both ends — a common failure point on cheap chargers"
   - "LED indicator light gives clear power status, no guessing if it's plugged in"
-cons:
+cons: 
   - "Non-detachable cable means you can't swap in a longer one if you need reach"
   - "Runs noticeably warm under sustained load, which worries some buyers"
   - "No USB-A port — this is strictly USB-C, so older accessories won't charge"
+
 ---
 
 If you're staring at a dead Dell laptop and a drawer full of mismatched chargers, this 65W USB-C adapter is the one that likely fits. It's the kind of product you don't think about until you need it — and then you need it to just work. Let's break down whether this one actually delivers.

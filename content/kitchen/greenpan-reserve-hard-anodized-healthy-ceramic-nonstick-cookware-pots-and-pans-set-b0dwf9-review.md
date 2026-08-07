@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Reserve Hard Anodized Healthy Ceramic Nonstick Cook"
 seo_title: "GreenPan Reserve Hard Anodized Healthy Ceramic Non Review"
 meta_description: "Our full greenpan reserve hard anodized healthy ceramic nonstick cook review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DWF9FBYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R4Sae9OhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the GreenPan Reserve line is the brand's attempt to prove that ceramic nonstick can feel premium. The hard anodized body is a serious upgrade over the standard GreenPan lines — it's heavier, heats more evenly, and the brushed stainless handles give it a look that belongs in a $400 set. But at this price point (which fluctuates wildly, so check current pricing), you're paying for the health angle as much as the performance.

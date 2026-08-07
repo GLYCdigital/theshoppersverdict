@@ -1,4 +1,5 @@
 ---
+
 title: "Mail Boss 7106 Curbside Security Locking Mailbox"
 seo_title: "Mail Boss 7106 Curbside Security Locking Mailbox Review: "
 meta_description: "Our full mail boss 7106 curbside security locking mailbox review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B017JS6U7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sDwiWlhjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've had a package stolen from your porch, you already know the sinking feeling. The Mail Boss 7106 doesn't just protect your mail — it's built to make thieves move on to an easier target. With a 4.7-star average across 235 ratings, this curbside locker has earned its reputation. But is it worth the premium over a basic mailbox? Let's dig into the details.

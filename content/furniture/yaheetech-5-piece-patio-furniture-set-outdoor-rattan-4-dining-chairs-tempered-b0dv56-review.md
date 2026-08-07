@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 5-Piece Patio Furniture Set, Outdoor Rattan 4 Dini"
 seo_title: "Yaheetech 5-Piece Patio Furniture Set, Outdoor Rat Review"
 meta_description: "Our full yaheetech 5-piece patio furniture set, outdoor rattan 4 dini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DV56QGD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ht2z20bxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

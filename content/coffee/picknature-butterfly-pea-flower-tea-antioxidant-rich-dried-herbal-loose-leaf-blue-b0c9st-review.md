@@ -1,4 +1,5 @@
 ---
+
 title: "PICKNATURE Butterfly Pea Flower Tea - Antioxidant Rich Dried"
 seo_title: "PICKNATURE Butterfly Pea Flower Tea - Antioxidant  Review"
 meta_description: "Our full picknature butterfly pea flower tea - antioxidant rich dried review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9ST7CS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710X65IJviL._SL1254_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this product is not. The PICKNATURE Butterfly Pea Flower Tea is not a coffee maker. It's not a grinder, a brewer, or a gadget. It's a loose-leaf herbal tea that happens to be having a serious moment in the specialty coffee world — baristas use it for color-changing lattes, cold foam, and dramatic gradient iced drinks. If you're here because you want to level up your home beverage game without buying another machine, this bag of dried blue blossoms might be exactly what you need.

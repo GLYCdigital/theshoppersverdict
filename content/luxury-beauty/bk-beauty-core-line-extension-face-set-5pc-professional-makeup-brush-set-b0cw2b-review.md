@@ -1,4 +1,5 @@
 ---
+
 title: "BK BEAUTY - CORE LINE EXTENSION FACE SET (5PC) - Professiona"
 seo_title: "BK Beauty Core Line Extension Face Set Review (2026)"
 meta_description: "BK Beauty Core Line Extension Face Set review: 5 professional brushes tested for blendability, shedding, and value at $140. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW2BNZTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KVE+I-PbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-dense yet soft synthetic bristles that blend cream and liquid products without streak marks"
   - "Custom-designed handles with ergonomic weight distribution — comfortable for extended makeup application sessions"
   - "Five-brush coverage spans foundation, concealer, bronzer, blush, and powder — no need to buy additional face brushes"
-cons:
+cons: 
   - "Premium pricing at $140 — a significant investment for casual makeup users"
   - "Brushes require careful washing to maintain shape; air-dry only, no harsh soaps"
   - "No travel case included despite the price point — you'll need to source your own storage"
+
 ---
 
 # BK Beauty Core Line Extension Face Set Review: Worth the $140 Investment?

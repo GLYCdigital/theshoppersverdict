@@ -1,4 +1,5 @@
 ---
+
 title: "HOMSHADE Patio Umbrella Base"
 seo_title: "HOMSHADE Patio Umbrella Base Review: Verdict | TSV"
 meta_description: "Our full homshade patio umbrella base review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWX6YGT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SPOTtgLmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A patio umbrella base is the most boring purchase you'll make all summer — and the one that determines whether your afternoon lemonade ends with a $200 umbrella cartwheeling across the yard. The HOMSHADE Patio Umbrella Base sits in that unglamorous but essential category. After digging through 225 ratings and the engineering specs, here's the real story.

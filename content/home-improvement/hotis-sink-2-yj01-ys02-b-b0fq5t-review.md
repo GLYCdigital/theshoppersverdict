@@ -1,4 +1,5 @@
 ---
+
 title: "HOTIS SINK 2 YJ01-YS02-B"
 seo_title: "HOTIS SINK 2 YJ01-YS02-B Review: Verdict | TSV"
 meta_description: "Our full hotis sink 2 yj01-ys02-b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQ5THFDZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hQCvG5JEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most kitchen sinks in this price tier are stamped sheet metal with a glossy marketing sheet. The HOTIS SINK 2 YJ01-YS02-B is a cut above that — not flawless, but genuinely better than the sub-$200 pack.

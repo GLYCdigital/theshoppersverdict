@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie It Takes Two Doll & Accessories"
 seo_title: "Barbie It Takes Two Doll Review: Is It Worth It? (2026)"
 meta_description: "Our honest Barbie It Takes Two Doll & Accessories review covers quality, play value, and what's in the box. See if this 4.8-star toy is right for your child."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKYC9JG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WVcslXujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully articulated knees and elbows allow realistic posing that survives active play"
   - "Accessories snap securely into place — no frustrating pieces that fall off mid-play"
   - "Outfit quality rivals collector dolls with clean stitching and no loose threads"
-cons:
+cons: 
   - "Shoes are notoriously difficult to remove once fitted — expect adult assistance"
   - "Small accessory pieces pose a choking hazard for kids under 3"
+
 ---
 
 Let's cut through the pink plastic hype. The Barbie It Takes Two Doll & Accessories set has earned a 4.8-star average across 240 Amazon ratings — and after examining what's actually in the box, that score isn't inflated. This isn't just another shelf-filler Barbie. It's a proper play set designed around the Netflix animated series, and it shows in the details.

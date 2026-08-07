@@ -1,4 +1,5 @@
 ---
+
 title: "NETGEAR Nighthawk Modem Router Combo"
 seo_title: "NETGEAR Nighthawk Modem Router Combo Review: Verdict | TS"
 meta_description: "Our full netgear nighthawk modem router combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GNM1SZHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+xMopOVHL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about the all-in-one networking gamble. The NETGEAR Nighthawk Modem Router Combo (model B0GNM1) promises to eliminate your ISP rental fee and simplify your workspace into one sleek tower. At 4.3 stars from 215 ratings, it’s clearly working for many. But before you ditch your separate modem and router, here’s what you actually need to know.

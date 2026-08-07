@@ -1,4 +1,5 @@
 ---
+
 title: "Jorumo Fish Tank Building Block Set"
 seo_title: "Jorumo Fish Tank Building Block Set Review: Verdict | TSV"
 meta_description: "Our full jorumo fish tank building block set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C283TSC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81trLt7ZF+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

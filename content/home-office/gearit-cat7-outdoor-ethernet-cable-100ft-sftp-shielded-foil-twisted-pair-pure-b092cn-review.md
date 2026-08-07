@@ -1,4 +1,5 @@
 ---
+
 title: "GEARit Cat7 Outdoor Ethernet Cable (100ft) SFTP Shielded Foi"
 seo_title: "GEARit Cat7 Outdoor Ethernet Cable (100ft) SFTP Sh Review"
 meta_description: "Our full gearit cat7 outdoor ethernet cable (100ft) sftp shielded foi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B092CN5SNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W97bVo4zL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GEARit Cat7 Outdoor Ethernet Cable (100ft): Heavy-Duty Networking That Actually Delivers

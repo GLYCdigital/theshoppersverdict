@@ -1,4 +1,5 @@
 ---
+
 title: "HYPERLITE led Parking lot Light with Dusk to Dawn photocell"
 seo_title: "HYPERLITE led Parking lot Light with Dusk to Dawn  Review"
 meta_description: "Our full hyperlite led parking lot light with dusk to dawn photocell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DP6HV2Z8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P1Asso2oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a parking lot, loading dock, or even a large backyard, you've probably waded through a swamp of cheap floodlights that burn out in a year. The HYPERLITE LED Parking Lot Light sits at the other end of that spectrum — and with a 4.8-star average across 240 reviews, it's clearly doing something right. Let's dig into what that actually is.

@@ -1,4 +1,5 @@
 ---
+
 title: "ABCCANOPY Pop Up Gazebo 13x13 - Outdoor Canopy Tent with Mos"
 seo_title: "ABCCANOPY Pop Up Gazebo 13x13 Review: Honest Buyer's Guide"
 meta_description: "ABCCANOPY Pop Up Gazebo 13x13 review: real buyer insights on setup, mosquito netting, and durability. See if this canopy tent is worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0899HY4YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-GgKs2fgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 13x13 footprint with 10.5 ft peak height — actually fits a 6-piece patio set underneath"
   - "Integrated mosquito netting with zippered doors on all four sides, not just two"
   - "Sets up in under 5 minutes with two people; no tools required"
-cons:
+cons: 
   - "Fabric is 150D polyester — adequate but not heavy-duty; expect 2-3 seasons with regular use"
   - "Frame uses 0.9mm steel poles that flex noticeably in moderate wind; must be staked down"
+
 ---
 
 Look, I've tested enough pop-up canopies to be skeptical of anything claiming "instant" setup. But the ABCCANOPY 13x13 earns its keep for one simple reason: it's the rare canopy in this price range that actually delivers on its dimensions. At 13 feet by 13 feet with a 10.5-foot peak, this thing covers real ground — enough for a full patio dining set with room to walk around.

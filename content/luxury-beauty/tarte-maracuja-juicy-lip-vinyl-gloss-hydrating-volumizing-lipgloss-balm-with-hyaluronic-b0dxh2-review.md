@@ -1,4 +1,5 @@
 ---
+
 title: "tarte maracuja juicy lip vinyl gloss â€“ Hydrating & Volumiz"
 seo_title: "tarte maracuja juicy lip vinyl gloss â€“ Hydrating Review"
 meta_description: "Our full tarte maracuja juicy lip vinyl gloss â€“ hydrating & volumiz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXH22M9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V3Bg4lbmL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about one thing immediately: with 220 ratings holding a 4.4-star average, the tarte Maracuja Juicy Lip Vinyl Gloss isn't a viral sensation — it's a solid workhorse that does exactly what the label promises. No hype, just results. And for a luxury lip product, that's rarer than you'd think.

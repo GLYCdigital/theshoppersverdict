@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo Legion RGB Wired Gaming Keyboard"
 seo_title: "Lenovo Legion RGB Wired Gaming Keyboard Review: Verdict |"
 meta_description: "Our full lenovo legion rgb wired gaming keyboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CWJKY76H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ka8gtmhiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what the Lenovo Legion RGB Wired Gaming Keyboard is: a budget-friendly, full-size membrane board that prioritizes features over mechanical purity. At roughly $40–50 street price, it's competing against a crowded field of cheap mechanical options. But here's the thing — it doesn't need to be mechanical to be good.

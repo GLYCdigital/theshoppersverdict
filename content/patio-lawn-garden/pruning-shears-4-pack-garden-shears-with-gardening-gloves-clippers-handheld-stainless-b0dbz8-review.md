@@ -1,4 +1,5 @@
 ---
+
 title: "Pruning Shears, 4 Pack Garden Shears with Gardening gloves, "
 seo_title: "Pruning Shears, 4 Pack Garden Shears with Gardenin Review"
 meta_description: "Our full pruning shears, 4 pack garden shears with gardening gloves,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBZ835JM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YDrADED0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most budget garden tool sets are junk you'll replace by July. This 4-pack of pruning shears with included gloves is not that. It's the rare value bundle that earns its place in your shed.

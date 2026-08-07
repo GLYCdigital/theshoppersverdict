@@ -1,4 +1,5 @@
 ---
+
 title: "AKDXIRUN Modern Chandelier - Dining Room Light Fixture - Bla"
 seo_title: "AKDXIRUN Modern Chandelier Review: Black & Gold Dining Light"
 meta_description: "AKDXIRUN modern chandelier review: Is this black & gold dining room light fixture worth it? Real buyer feedback, install tips, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5RDKF92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f2Mb6h8lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual black-and-gold finish hides fingerprints and matches both modern and transitional decor without looking cheap"
   - "Lightweight aluminum frame (under 10 lbs) means most standard ceiling junction boxes won't need reinforcement"
   - "Adjustable hanging rods and easy height customization suit 8-10 foot ceilings straight out of the box"
-cons:
+cons: 
   - "Requires hardwiring — no plug-in option, so renters or DIY-averse buyers need an electrician"
   - "Bulbs sold separately — factor in the added cost of six Edison-style bulbs when budgeting"
+
 ---
 
 Let’s cut through the listing photos. A chandelier is a commitment. It hangs in your most visible room, gets stared at during every dinner party, and if it looks cheap, no dimmer switch will save you. The AKDXIRUN Modern Chandelier in black and gold has 229 Amazon ratings averaging 4.6 stars — that’s a solid signal, but let’s verify whether the praise holds up under real-world scrutiny.

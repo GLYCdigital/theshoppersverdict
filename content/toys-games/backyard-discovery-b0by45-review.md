@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery"
 seo_title: "Backyard Discovery Review: Is This Playset Worth It?"
 meta_description: "Honest Backyard Discovery playset review: build quality, safety concerns, real owner feedback, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY45QM2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1bjqJ3KLKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cedar wood construction that actually resists rot and splintering better than pine alternatives in this price range"
   - "Two-story design with a covered upper deck gives kids usable space in light rain and doubles the play area"
   - "Weight capacity handles two or three kids on the platform simultaneously without noticeable flex"
-cons:
+cons: 
   - "Hardware and instructions are notoriously sparse — plan for 8–12 hours of assembly with two adults"
   - "The included slide is on the shorter side; older kids (8+) will outgrow the whole unit faster than expected"
   - "Anchoring kit not included — you'll need to buy ground stakes separately for safety compliance"
+
 ---
 
 ## Backyard Discovery: The $800 Question Every Parent Asks Before Buying

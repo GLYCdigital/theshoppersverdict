@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Replacement Drum Unit"
 seo_title: "Brother Replacement Drum Unit Review: Worth It? (2026)"
 meta_description: "Honest Brother Replacement Drum Unit review: print quality, yield, compatibility, and cost per page. See if this OEM drum beats third-party alternatives."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DPZZ2XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p0rFSu87L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM part — no third-party compatibility headaches or firmware rejection issues"
   - "Consistent 12,000-page yield matches Brother's rated spec in real-world testing"
   - "Crisp, even text output with no banding or streaking across the full cartridge life"
-cons:
+cons: 
   - "Premium OEM pricing — third-party drums cost roughly half as much upfront"
   - "No reset chip included — you'll need to manually reset the drum counter via printer menu"
+
 ---
 
 ## The Drum Nobody Thinks About — Until It Screams

@@ -1,4 +1,5 @@
 ---
+
 title: "Compatible TN830XL Toner Cartridge High Yield Replacement fo"
 seo_title: "TN830XL Toner Review: High-Yield Compatible for Brother"
 meta_description: "Honest TN830XL compatible toner review: page yield, print quality, and compatibility with Brother printers. See if this budget cartridge is worth it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJN6MYMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XvnbtcTzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers roughly 3,000 pages per cartridge — a genuine cost per page that undercuts Brother OEM by nearly half"
   - "Crisp, dark text with no streaking or banding on standard copy paper in testing"
   - "Chip is pre-installed and recognized immediately by Brother printers — no firmware workarounds needed"
-cons:
+cons: 
   - "Genuine Brother TN830XL carts can hit 6,000 pages; this compatible offers half the yield for a similar street price"
   - "Some users report the cartridge rattles if shaken hard, suggesting a slightly looser internal toner hopper"
+
 ---
 
 ## The Budget Toner That Actually Works (Mostly)

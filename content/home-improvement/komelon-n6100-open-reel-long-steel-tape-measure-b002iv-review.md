@@ -1,4 +1,5 @@
 ---
+
 title: "Komelon N6100 Open Reel Long Steel Tape Measure"
 seo_title: "Komelon N6100 Open Reel Long Steel Tape Measure Review: V"
 meta_description: "Our full komelon n6100 open reel long steel tape measure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002IVTC7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gG0L9oHLL._AC_SL1063_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a 100-foot tape that curls into a tangled mess the moment you pull it out of a closed case, you already know why the Komelon N6100 exists. This is an open reel tape measure — no enclosure, no spring-loaded retraction, just a flat steel blade on a spool that you crank back by hand. It's a niche tool for a specific job, and for that job, it's excellent.

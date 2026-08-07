@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Drafting Table w/Stool Height Adjustable Multifunc"
 seo_title: "Yaheetech Drafting Table w/Stool Height Adjustable Review"
 meta_description: "Our full yaheetech drafting table w/stool height adjustable multifunc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GKHQYCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l2p9kThsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A $100 art desk that actually angles, adjusts, and survives daily sketching? Here's the honest breakdown.**

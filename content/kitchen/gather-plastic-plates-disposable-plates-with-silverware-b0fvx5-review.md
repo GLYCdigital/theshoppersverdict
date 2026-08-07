@@ -1,4 +1,5 @@
 ---
+
 title: "GATHER Plastic Plates - Disposable Plates with Silverware"
 seo_title: "GATHER Plastic Plates - Disposable Plates with Sil Review"
 meta_description: "Our full gather plastic plates - disposable plates with silverware review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVX5FRNG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dCiMcinrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a kitchen product, the **GATHER Plastic Plates - Disposable Plates with Silverware** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

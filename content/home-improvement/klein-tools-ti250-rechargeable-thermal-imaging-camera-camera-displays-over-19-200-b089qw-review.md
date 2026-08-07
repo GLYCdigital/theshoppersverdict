@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools TI250 Rechargeable Thermal Imaging Camera, Camer"
 seo_title: "Klein Tools TI250 Rechargeable Thermal Imaging Cam Review"
 meta_description: "Our full klein tools ti250 rechargeable thermal imaging camera, camer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B089QW8R9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kqb2yAFxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Klein Tools TI250 sits in a strange middle ground. It's not the $150 impulse-buy thermal camera you'll toss in a drawer after one use. And it's not a $1,500 Fluke that requires a week of training to operate. At roughly $250–$300 street price, it's the tool a serious electrician or HVAC tech buys when they're done guessing and ready to see.

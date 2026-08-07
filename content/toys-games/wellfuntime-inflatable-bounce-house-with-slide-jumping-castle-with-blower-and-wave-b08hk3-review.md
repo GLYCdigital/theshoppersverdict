@@ -1,4 +1,5 @@
 ---
+
 title: "WELLFUNTIME Inflatable Bounce House with Slide, Jumping Cast"
 seo_title: "WELLFUNTIME Inflatable Bounce House with Slide, Ju Review"
 meta_description: "Our full wellfuntime inflatable bounce house with slide, jumping cast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08HK3HJFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LYjTb1PVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $300 Backyard Rental Alternative That Actually Holds Up

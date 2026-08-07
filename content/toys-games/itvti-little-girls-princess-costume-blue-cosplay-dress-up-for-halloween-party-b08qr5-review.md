@@ -1,4 +1,5 @@
 ---
+
 title: "iTVTi Little Girls Princess Costume Blue Cosplay Dress up fo"
 seo_title: "iTVTi Princess Costume Review: Blue Dress for Girls 2026 inch"
 meta_description: "Honest iTVTi little girls princess costume review: fit, fabric, durability & value. See real pros, cons & who should buy before you click add to cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QR5RQF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nMegvSWiL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Layer upon layer of soft tulle — the skirt has real volume and swish without being scratchy"
   - "Velcro back closure with elastic waistband makes getting a wiggly 4-year-old dressed actually manageable"
   - "Holds up to machine washing on gentle cycle without losing its shape or color"
-cons:
+cons: 
   - "Sizing runs small — order one size up, especially for tall or average-weight girls"
   - "Glitter on the bodice will shed; it's cosmetic, not structural, but you'll find sparkles on the floor"
+
 ---
 
 Every little girl deserves one moment where she feels like actual royalty. The iTVTi Blue Princess Costume delivers that moment — but with a few caveats you need to know before checkout.

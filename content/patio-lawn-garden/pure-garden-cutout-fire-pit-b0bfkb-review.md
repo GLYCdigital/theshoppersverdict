@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Garden Cutout Fire Pit"
 seo_title: "Pure Garden Cutout Fire Pit Review: Verdict | TSV"
 meta_description: "Our full pure garden cutout fire pit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFKBWBM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tj6v686zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most fire pits under $100 are disposable junk that rusts out in a season. The Pure Garden Cutout Fire Pit, with its 4.4-star average across 220 ratings, claims to be different. Is it? Partially — with some caveats you should know before checkout.

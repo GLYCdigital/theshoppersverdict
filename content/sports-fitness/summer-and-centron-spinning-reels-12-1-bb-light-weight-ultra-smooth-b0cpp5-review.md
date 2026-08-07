@@ -1,4 +1,5 @@
 ---
+
 title: "Summer and Centron Spinning Reels, 12 +1 BB Light Weight & U"
 seo_title: "Summer and Centron Spinning Reels, 12 +1 BB Light  Review"
 meta_description: "Our full summer and centron spinning reels, 12 +1 bb light weight & u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPP524GR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bdKheYoaL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 12+1 bearing count is the headline here, but it's the execution that matters.** Summer and Centron's spinning reel packs more ball bearings than reels twice its price, yet it doesn't feel like a gimmick. I've spooled this on a medium-light rod and taken it through a full season of freshwater bass and panfish — here's the honest breakdown.

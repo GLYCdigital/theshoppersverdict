@@ -1,4 +1,5 @@
 ---
+
 title: "Leonidas Assorted Chocolate"
 seo_title: "Leonidas Assorted Chocolate Review: Verdict | TSV"
 meta_description: "Our full leonidas assorted chocolate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GS72PHWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sPv1BYEXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you're not here because you need chocolate. You're here because you're considering spending real money on a box of Leonidas, and you want to know if it's actually worth it before you hit buy. At 4.1 stars from 204 Amazon ratings, the consensus is positive — but that number hides some nuance worth unpacking.

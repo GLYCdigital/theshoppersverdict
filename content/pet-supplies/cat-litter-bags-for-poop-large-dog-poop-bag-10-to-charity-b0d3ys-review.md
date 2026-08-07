@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Litter Bags For Poop/Large Dog Poop Bag - 10% to Charity"
 seo_title: "Cat Litter Bags for Poop & Large Dog Poop Bags Review"
 meta_description: "Honest review of Cat Litter Bags for Poop/Large Dog Poop Bag with 10% to charity. Are they durable, leak-proof, and worth it? See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3YSPYVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z3X0h2vTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, leak-resistant material handles both clumping cat litter and large dog waste without tearing"
   - "Versatile 2-in-1 sizing works for scooping litter boxes and picking up after big breed dogs"
   - "10% of proceeds go to animal charities — a legitimate differentiator for conscious buyers"
-cons:
+cons: 
   - "No built-in dispenser or tie handles; you'll need to buy a separate holder for convenience"
   - "Bags are unscented — odor control depends entirely on how quickly you tie and dispose of them"
+
 ---
 
 If you're juggling a litter box and a large-breed dog, you've probably bought two separate boxes of bags that each do half the job. This dual-purpose roll claims to handle both — and after looking at the specs, the 4.6-star average across 229 ratings suggests it actually delivers. Here's the honest breakdown.

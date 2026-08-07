@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Good Grips Grilling Skewers"
 seo_title: "OXO Good Grips Grilling Skewers Review: Verdict | TSV"
 meta_description: "Our full oxo good grips grilling skewers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8BNNPHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tGJEdOw+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with round skewers that spin food like a rotisserie every time you flip, you know the frustration. The OXO Good Grips Grilling Skewers (4.6/5 from 229 ratings) exist to solve exactly that problem — and they largely succeed.

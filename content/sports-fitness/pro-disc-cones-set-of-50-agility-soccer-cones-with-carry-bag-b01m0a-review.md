@@ -1,4 +1,5 @@
 ---
+
 title: "Pro Disc Cones (Set of 50) - Agility Soccer Cones with Carry"
 seo_title: "Pro Disc Cones (Set of 50) - Agility Soccer Cones  Review"
 meta_description: "Our full pro disc cones (set of 50) - agility soccer cones with carry review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01M0A1IL4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ygQtwIKAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you coach youth soccer, run a boot camp, or just want to stop using water bottles as goal markers, these Pro Disc Cones are the quiet workhorse of your gear bag. At $25-ish for 50 (price fluctuates), you're paying about fifty cents per cone. That's cheap enough to lose a few without rage, but good enough that you probably won't.

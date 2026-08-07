@@ -1,4 +1,5 @@
 ---
+
 title: "Best Ride On Cars CAT Excavator Push Car – Licensed Caterp"
 seo_title: "CAT Excavator Push Car Review: Licensed Ride-On for Kids"
 meta_description: "Honest review of the Best Ride On Cars CAT Excavator Push Car – licensed Caterpillar design, sturdy build, and real-world performance for toddlers."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTQ464T6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AKPigL-VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Authentic Caterpillar licensing with realistic excavator details, including a moving arm and bucket"
   - "Push-car design with a sturdy parent handle that gives caregivers steering control"
   - "Four anti-scratch wheels with rubber tread grip well on pavement and grass"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and takes roughly 20–30 minutes"
   - "No storage compartment or sound effects — purely a manual ride-on"
   - "Weight limit caps at 66 lbs, so most kids outgrow it by age 4–5"
+
 ---
 
 If your toddler is obsessed with construction vehicles, this licensed Caterpillar excavator push car is about as close as they’ll get to operating the real thing without a hard hat and OSHA certification. The Best Ride On Cars CAT Excavator Push Car nails the authentic CAT branding — yellow body, black accents, and that unmistakable Caterpillar logo on the side. But is it worth the shelf space in your garage? Here’s the honest breakdown.

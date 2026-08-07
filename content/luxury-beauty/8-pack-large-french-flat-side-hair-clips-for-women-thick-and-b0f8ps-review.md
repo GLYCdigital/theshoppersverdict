@@ -1,4 +1,5 @@
 ---
+
 title: "8 Pack Large French Flat Side Hair Clips for Women Thick and"
 seo_title: "8 Pack French Flat Hair Clips Review: Do They Hold Thick Hair?"
 meta_description: "Our honest review of the 8-pack French flat side hair clips for thick hair. Do they grip or slip? We tested hold, finish, and value. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8PSMP2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kIi0kCJkL._SL1500_.jpg"
-pros:
+pros: 
   - "Strong spring tension actually secures thick or heavy hair without slipping, even after hours of wear"
   - "Smooth, snag-free finish on the French flat design — no pulled strands when sliding in or out"
   - "Eight clips in one pack means you can coordinate with outfits or hand a few to a friend"
-cons:
+cons: 
   - "Larger size can overwhelm finer or thinner hair — these are built for volume, not wispy strands"
   - "Color options vary by listing; some buyers reported receiving slightly different shades than advertised"
+
 ---
 
 Let’s be honest: most hair clips are either too weak to hold a bun or too cheap to survive a week. The 8 Pack Large French Flat Side Hair Clips claims to solve both problems for thick hair — and after digging through 229 ratings and the physical specs, I’m here to tell you whether it actually delivers or just joins the graveyard of broken plastic in your drawer.

@@ -1,13 +1,14 @@
 ---
+
 title: "Blu Track PS - 18 ft. Stunt Set"
 seo_title: "Blu Track PS Review: Verdict (4.4/5) | The Shopper's Verdict"
 meta_description: "The cars that come with the track aren’t the most durable in the wheels, but 123+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "blu-track-ps-18-ft-stunt-set-review"
 image_alt: "Blu Track PS - 18 ft. Stunt Set"
-keywords:
+keywords: 
   - "blu track ps review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Blu Track PS -?"
     answer: "The cars that come with the track aren’t the most durable in the wheels, but they are fast That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Blu Track PS -?"
@@ -20,12 +21,13 @@ review_count: 123
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J9BBJ3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uxuujqU2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The cars that come with the track aren’t the most durable in the wheels."
   - "Compact storage and creative fun The blue track is simple yet fun."
   - "This track works great with hot wheels size cars."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The $138 Question: Is This the Last Car Track You'll Buy?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Kong Wild Knots Bears Durable Dog Toys Size:Small/Med Pack o"
 seo_title: "Kong Wild Knots Bears Durable Dog Toys Size:Small/ Review"
 meta_description: "Our full kong wild knots bears durable dog toys size:small/med pack o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00UERC68I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6198VzSCJgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: a stuffed bear with a rope skeleton. The Kong Wild Knots Bears aren't trying to be the Terminator of dog toys. They're trying to be the toy that survives longer than the fifteen minutes a standard plush lasts. And for most dogs, they succeed.

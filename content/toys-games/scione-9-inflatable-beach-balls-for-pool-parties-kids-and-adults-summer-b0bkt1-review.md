@@ -1,4 +1,5 @@
 ---
+
 title: "SCIONE 9'' Inflatable Beach Balls for Pool Parties, Kids and"
 seo_title: "SCIONE 9'' Inflatable Beach Balls for Pool Parties Review"
 meta_description: "Our full scione 9'' inflatable beach balls for pool parties, kids and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BKT1FCYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SGonr2-YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The honest truth about cheap beach balls**

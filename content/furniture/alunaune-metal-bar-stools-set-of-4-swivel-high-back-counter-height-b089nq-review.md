@@ -1,4 +1,5 @@
 ---
+
 title: "Alunaune Metal Bar Stools Set of 4 Swivel High Back Counter"
 seo_title: "Alunaune Metal Bar Stools Review: Swivel High-Back Set of 4 inch"
 meta_description: "Honest Alunaune metal bar stool set of 4 review: swivel design, high-back comfort, build quality, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B089NQWZ9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hn-bncOLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 360-degree swivel with smooth ball-bearing rotation that holds up well under daily use"
   - "Genuine high-back support (22 inches from seat to top) that actually cradles your lower-to-mid back"
   - "Footrest ring is welded, not bolted — no wobble even after months of kids climbing on them"
-cons:
+cons: 
   - "Assembly requires a second person; the seat plate alignment is finicky and stripped screws are a real risk"
   - "Metal seat pan is hard on tailbones for anyone over 180 lbs — you'll want a cushion"
   - "Powder-coat finish scratches if you slide the stools instead of lifting them"
+
 ---
 
 **The Verdict at a Glance:** The Alunaune Metal Bar Stools Set of 4 delivers exactly what the listing promises — sturdy, swiveling, high-back seating that doesn't look like it came from a warehouse sale. At a 4.0-star average across 200 ratings, buyers are mostly satisfied, but there's a split between "these are fantastic" and "the seat is brutal." Here's the real story.

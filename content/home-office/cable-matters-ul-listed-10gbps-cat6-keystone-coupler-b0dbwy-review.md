@@ -1,23 +1,25 @@
 ---
+
 title: "Cable Matters [UL Listed 10Gbps Cat6 Keystone Coupler"
 seo_title: "Cable Matters Cat6 Keystone Coupler Review: 10Gbps Tested"
 meta_description: "Cable Matters UL Listed Cat6 keystone coupler review: 10Gbps performance, tool-free install, real-world reliability. See pros, cons, and who should buy."
 slug: "cable-matters-ul-listed-10gbps-cat6-keystone-coupler-b0dbwy-review"
 image_alt: "Cable Matters UL Listed Cat6 keystone coupler with 10Gbps rating, showing gold-plated contacts and snap-in design"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBWYL7WX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TpWIbMIML._SL1500_.jpg"
-pros:  
+pros: 
   - "Gold-plated contacts and shielded housing hold 10Gbps speeds with zero packet loss in extended runs"  
   - "Tool-free snap-in design fits standard keystone wall plates and patch panels without a punchdown tool"  
   - "UL Listed certification provides real safety/performance validation beyond generic no-name couplers"  
-cons:  
+cons: 
   - "No integrated strain relief — sharp bends near the connection point can stress the latch over time"  
   - "Tight fit in some budget wall plates; requires a firm push to seat fully, which can feel unnerving"
+
 ---
 
 Most people don't think about keystone couplers until a wall plate install goes sideways. The Cable Matters UL Listed 10Gbps Cat6 Keystone Coupler is the rare networking accessory that justifies the attention. At 4.6 stars across 229 ratings, it's not flashy — but it does exactly what a coupler should: pass signal through a wall without turning your gigabit connection into a frustrating 100Mbps bottleneck.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lean to Shed with Floor Frame, Metal Outdoor Storage Shed, L"
 seo_title: "Lean to Shed with Floor Frame, Metal Outdoor Stora Review"
 meta_description: "Our full lean to shed with floor frame, metal outdoor storage shed, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0FGNQP4PD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VXJzJoZLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this lean-to shed a smart buy or a headache waiting to happen? Here's the honest breakdown.**

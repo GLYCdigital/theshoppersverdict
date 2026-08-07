@@ -1,4 +1,5 @@
 ---
+
 title: "Alienware AW3423DW Curved Gaming Monitor 34.18 inch Quantom"
 seo_title: "Alienware AW3423DW Review: Quantum Dot OLED Gaming Monitor"
 meta_description: "Alienware AW3423DW review: 34-inch QD-OLED gaming monitor with 175Hz, G-Sync Ultimate, and stunning HDR. Find out if it's worth the premium."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09VQ48X5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ufV5NQ44L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 0.1ms response time with QD-OLED panel delivers motion clarity no IPS or VA can match"
   - "DisplayHDR 400 True Black with 1000-nit peak brightness makes HDR content genuinely pop"
   - "Factory-calibrated Delta E < 2 color accuracy out of the box — no tweaking needed"
-cons:
+cons: 
   - "Aggressive subpixel layout causes text fringing on Windows — you'll notice it in Excel and Word"
   - "Fan noise is audible in quiet rooms; the cooling fan spins up even at idle"
   - "No USB-C port — you're stuck with DisplayPort 1.4 and HDMI 2.0 only"
+
 ---
 
 Let's be blunt: the Alienware AW3423DW isn't just another ultrawide. It's a 34-inch Quantum Dot OLED panel that puts every IPS and VA gaming monitor to shame on raw contrast and response time. At 4.3 stars from 215 Amazon ratings, it's clearly winning people over — but it's a specialized tool with quirks you need to know before dropping this kind of money.

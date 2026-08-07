@@ -1,4 +1,5 @@
 ---
+
 title: "HP Smart Tank 5000 Wireless All-in-One Ink Tank Printer, Sca"
 seo_title: "HP Smart Tank 5000 Wireless All-in-One Ink Tank Pr Review"
 meta_description: "Our full hp smart tank 5000 wireless all-in-one ink tank printer, sca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CC7TVR2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lcDYitnyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Smart Tank 5000 is the printer equivalent of buying in bulk at Costco: you pay more upfront, but the per-unit cost over time is almost laughably low. With a 3.8-star average from 190 Amazon ratings, it's clearly a love-it-or-frustrated-by-it machine. Let's dig into whether the ink savings justify the setup pain.

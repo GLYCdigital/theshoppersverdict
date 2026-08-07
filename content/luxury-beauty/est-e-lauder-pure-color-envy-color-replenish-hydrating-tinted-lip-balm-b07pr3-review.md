@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Pure Color Envy Color Replenish Hydrating Tint"
 seo_title: "Estée Lauder Hydrating Tint Review: Worth It? (2026)"
 meta_description: "Honest Estée Lauder Pure Color Envy Hydrating Tint review: hydration, color payoff, wear time, and who should buy it. 4.7-star rated lip tint analyzed."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PR3LBNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hmc7Z9DLL._SL1500_.jpg"
-pros:
+pros: 
   - "8-hour hydration claim holds up in practice — lip skin stays soft even after color fades"
   - "Buildable sheer-to-medium coverage that won't settle into lip lines, even on mature skin"
   - "Time-Released Moisture Complex with hyaluronic acid delivers noticeable plumping without stickiness"
-cons:
+cons: 
   - "Shade range skews conservative — bold color lovers will find only 2-3 options with real pigment"
   - "Bullet softens quickly in warm climates; keep it out of direct heat or it'll drag on application"
   - "Price sits at premium department-store level with no SPF, which feels like a miss for daytime wear"
+
 ---
 
 # Estée Lauder Pure Color Envy Color Replenish Hydrating Tint: The Lip Product That Actually Earns Its Keep

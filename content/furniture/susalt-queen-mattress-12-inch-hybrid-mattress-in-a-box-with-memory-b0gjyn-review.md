@@ -1,4 +1,5 @@
 ---
+
 title: "Susalt Queen Mattress 12 Inch Hybrid Mattress in a Box with "
 seo_title: "Susalt Queen Mattress 12 Inch Hybrid Mattress in a Review"
 meta_description: "Our full susalt queen mattress 12 inch hybrid mattress in a box with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJYN6TBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nq6yjPZqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: the mattress-in-a-box market is oversaturated. Every brand claims “hotel luxury” and “cloud-like comfort.” The Susalt 12-inch hybrid queen doesn’t reinvent the wheel — but it does something arguably more important. It delivers consistent, balanced support at a price point that undercuts the big names. After digging through 220 verified ratings (4.4 stars) and analyzing the construction specs, here’s what actually matters.

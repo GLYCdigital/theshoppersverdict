@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Height Adjustable Electric Standing Desk, 48 x 24 Inches Sit Stand up Desk, Memory Computer Home Office Desk, Vintage Brown"
 seo_title: "ErGear 48x24 Electric Standing Desk Review (2026): Worth It?"
 meta_description: "ErGear 48x24 electric standing desk review: dual motors, 4 memory presets, vintage brown finish. Is this $160 desk worth it? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 11146
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B422BBHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zm5WANOcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor lift handles heavy loads smoothly at half the price of comparable desks"
   - "Four programmable height presets make switching between sit/stand positions genuinely effortless"
   - "48x24 surface fits dual monitors without dominating a small home office"
-cons:
+cons: 
   - "Vintage brown finish is a laminate — it scratches noticeably if you slide heavy gear"
   - "No cable management tray included, which feels cheap at this price point"
+
 ---
 
 If you’ve priced electric standing desks lately, you know they typically start around $300 and climb fast. The ErGear 48x24 sits at $159.99 — less than half of what you’d pay for an Uplift or Fully desk. The question isn’t whether it’s cheaper. It’s whether the savings cost you stability, durability, or features that actually matter. After digging through 11,146 Amazon ratings (4.5 stars) and the spec sheet, here’s the honest breakdown.

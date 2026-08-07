@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT ATOMIC 20V MAX* Impact Driver, Cordless, Compact, 1/4 inch"
 seo_title: "DEWALT ATOMIC 20V Impact Driver Review: Compact Power (2026)"
 meta_description: "DEWALT ATOMIC 20V MAX impact driver review: 1,700 in-lbs torque in a 5.4-inch body. Real-world testing, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07QJ96V1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tdBC08qdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Measures just 5.4 inches front-to-back — fits between studs and inside tight cabinet work"
   - "1,700 in-lbs of torque in a sub-compact chassis; outdrives many full-size drivers from a few years ago"
   - "3-speed selector with a precision mode that prevents fastener stripping at 500 RPM"
-cons:
+cons: 
   - "Bare tool only — no battery or charger in the box; factor that into the real cost"
   - "LED work light sits at the base and casts a shadow from the chuck on dark, recessed work"
   - "No belt hook included — that's a separate accessory purchase, which feels cheap at this price"
+
 ---
 
 ## The compact impact driver that actually delivers full-size torque

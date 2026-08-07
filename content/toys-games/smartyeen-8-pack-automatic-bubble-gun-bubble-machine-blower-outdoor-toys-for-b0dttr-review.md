@@ -1,4 +1,5 @@
 ---
+
 title: "SmartYeen 8-Pack Automatic Bubble Gun,Bubble Machine Blower "
 seo_title: "SmartYeen 8-Pack Automatic Bubble Gun,Bubble Machi Review"
 meta_description: "Our full smartyeen 8-pack automatic bubble gun,bubble machine blower  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTTR6B5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CrSfLBwuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Short Version

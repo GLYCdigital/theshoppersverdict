@@ -1,4 +1,5 @@
 ---
+
 title: "HOU Rotatable Keyboard Case for iPad Air 11 (M2 2024)"
 seo_title: "HOU Rotatable Keyboard Case for iPad Air 11 (M2 20 Review"
 meta_description: "Our full hou rotatable keyboard case for ipad air 11 (m2 2024) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW983QNG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CtZeSQtVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the HOU Rotatable Keyboard Case Worth Your Money?

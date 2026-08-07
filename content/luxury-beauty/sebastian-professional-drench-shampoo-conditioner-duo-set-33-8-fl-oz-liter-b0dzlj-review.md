@@ -1,4 +1,5 @@
 ---
+
 title: "Sebastian Professional Drench Shampoo & Conditioner Duo Set "
 seo_title: "Sebastian Professional Drench Shampoo & Conditione Review"
 meta_description: "Our full sebastian professional drench shampoo & conditioner duo set  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZLJ5RVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j6ppGhmKL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When a salon brand slaps "Drench" on a bottle, you expect something thick enough to double as a face mask. Sebastian's liter-size duo doesn't play that game — and honestly, that's the smartest thing about it. This is a hydration set designed for people who want moisture without the heavy, weighed-down feeling that plagues most "intensive" formulas.

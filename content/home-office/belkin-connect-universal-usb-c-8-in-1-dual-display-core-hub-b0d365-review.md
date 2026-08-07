@@ -1,4 +1,5 @@
 ---
+
 title: "Belkin Connect Universal USB-C 8-in-1 Dual Display Core Hub"
 seo_title: "Belkin Connect 8-in-1 USB-C Hub Review: Dual Display Power"
 meta_description: "Belkin Connect 8-in-1 USB-C hub review: dual 4K display support, 85W passthrough charging, and real-world performance tested. Is it worth $100+?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D365C5ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mIlVkIEEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual 4K@60Hz display output via dual HDMI ports — rare at this price point, works natively with M1/M2/M3 MacBooks and Windows laptops"
   - "85W USB-C PD passthrough keeps a 16-inch MacBook Pro fully charged under load, not just maintaining battery"
   - "Aluminum housing with braided 20cm cable feels genuinely premium; Belkin's 2-year warranty and $2,500 connected equipment protection add real peace of mind"
-cons:
+cons: 
   - "No DisplayPort or VGA option — dual HDMI only, which can be limiting for older monitors or specific docking setups"
   - "Cable is permanently attached at 20cm; if your laptop port sits on the right side, cable management gets awkward"
   - "The SD/microSD card slot is UHS-I only (104MB/s), so professional photographers will need a dedicated reader for raw files"
+
 ---
 
 ### The 8-in-1 hub that actually does dual displays right

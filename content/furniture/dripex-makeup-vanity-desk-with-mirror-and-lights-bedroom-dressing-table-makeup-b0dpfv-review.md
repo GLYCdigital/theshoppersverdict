@@ -1,4 +1,5 @@
 ---
+
 title: "Dripex Makeup Vanity Desk with Mirror and Lights Bedroom Dre"
 seo_title: "Dripex Makeup Vanity Desk Review: Worth It? (2026)"
 meta_description: "Honest Dripex makeup vanity desk review: build quality, LED mirror brightness, assembly difficulty, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DPFVQMVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZkdxQcKGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-color adjustable LED mirror with dimmer — actually bright enough for precise makeup application"
   - "Solid particleboard construction with a smooth, water-resistant finish that doesn't wobble during use"
   - "Two spacious drawers plus an open shelf — real storage for a compact footprint (about 40 inches wide)"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes; drawer slides are finicky to align and instructions are mostly diagrams"
   - "Mirror is fixed — no tilt adjustment — which can cause glare depending on your room's lighting"
+
 ---
 
 ## Is the Dripex Makeup Vanity Desk Worth Your Money?

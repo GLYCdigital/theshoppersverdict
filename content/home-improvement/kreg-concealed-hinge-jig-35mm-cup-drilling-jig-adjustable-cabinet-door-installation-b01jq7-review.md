@@ -1,4 +1,5 @@
 ---
+
 title: "Kreg Concealed Hinge Jig - 35mm Cup Drilling Jig - Adjustabl"
 seo_title: "Kreg Concealed Hinge Jig - 35mm Cup Drilling Jig - Review"
 meta_description: "Our full kreg concealed hinge jig - 35mm cup drilling jig - adjustabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01JQ74FMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715FjkN1EEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Installing concealed hinges without a jig is a guaranteed way to ruin a door. The cup hole needs to be dead-center, exactly 35mm wide, and precisely 12-13mm deep — a fraction off and the hinge binds, the door sags, or the screw misses the pilot hole entirely. The Kreg Concealed Hinge Jig exists to eliminate that anxiety, and after working with it across a full kitchen re-face, I can tell you exactly where it earns its keep and where it doesn't.

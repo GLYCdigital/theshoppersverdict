@@ -1,7 +1,8 @@
 ---
-title: "Makita 9237CX3 7\" Polisher"
-seo_title: "Makita 9237CX3 7\" Polisher Review: Verdict | TSV"
-meta_description: "Our full makita 9237cx3 7\" polisher review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Makita 9237CX3 7\ Polisher"
+seo_title: "Makita 9237CX3 7\ Polisher Review: Verdict | TSV"
+meta_description: "Our full makita 9237cx3 7\ polisher review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-9237cx3-7-polisher-b0glqr-review"
 image_alt: "Makita 9237CX3 7 Polisher"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GLQRY7LF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WsfAj0zyL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're serious about paint correction, you already know the difference between a polisher and a toy. The Makita 9237CX3 is the former — a legitimate rotary machine that's been the default choice for professional detailers for over a decade. The question isn't whether it works; it's whether it's the right tool for *your* garage.

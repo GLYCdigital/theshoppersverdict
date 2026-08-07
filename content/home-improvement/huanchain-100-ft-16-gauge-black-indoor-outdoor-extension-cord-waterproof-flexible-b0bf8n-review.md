@@ -1,4 +1,5 @@
 ---
+
 title: "HUANCHAIN 100 FT 16 Gauge Black Indoor Outdoor Extension Cor"
 seo_title: "HUANCHAIN 100 FT 16 Gauge Black Indoor Outdoor Ext Review"
 meta_description: "Our full huanchain 100 ft 16 gauge black indoor outdoor extension cor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BF8N469R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MaIQBUg1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: a 100-foot extension cord is a commitment. You're not buying this for a phone charger — you're buying it to power a string trimmer, a hedge clipper, or a circular saw at the far end of a yard. The HUANCHAIN 100 FT 16 Gauge cord is built for exactly that job, and at 4.6 stars from 229 ratings, it's earned its keep.

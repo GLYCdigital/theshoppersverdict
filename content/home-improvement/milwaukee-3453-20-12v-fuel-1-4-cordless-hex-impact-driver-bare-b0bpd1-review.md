@@ -1,7 +1,8 @@
 ---
-title: "Milwaukee 3453-20 12V Fuel 1/4\" Cordless Hex Impact Driver ("
-seo_title: "Milwaukee 3453-20 12V Fuel 1/4\" Cordless Hex Impac Review"
-meta_description: "Our full milwaukee 3453-20 12v fuel 1/4\" cordless hex impact driver ( review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Milwaukee 3453-20 12V Fuel 1/4\ Cordless Hex Impact Driver ("
+seo_title: "Milwaukee 3453-20 12V Fuel 1/4\ Cordless Hex Impac Review"
+meta_description: "Our full milwaukee 3453-20 12v fuel 1/4\ cordless hex impact driver ( review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-3453-20-12v-fuel-1-4-cordless-hex-impact-driver-bare-b0bpd1-review"
 image_alt: "Milwaukee 3453-20 12V Fuel 1/4 Cordless Hex Impact Driver (Bare Tool)"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BPD1C7S2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71giJm1yymL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you carry a full-size 18V impact driver everywhere, your shoulder knows it. The Milwaukee 3453-20 M12 Fuel 1/4" hex impact driver is the answer to that problem — but it's not a toy. This bare tool packs 1,500 in-lbs of fastening torque into a package that's barely longer than a screwdriver. That's enough to bury 3" deck screws all day, yet compact enough to work inside a stud bay or under a sink without contorting.

@@ -1,4 +1,5 @@
 ---
+
 title: "PG-275XL CL-276XL High Yield Replacement for Canon 275 and 2"
 seo_title: "PG-275XL CL-276XL High Yield Replacement for Canon Review"
 meta_description: "Our full pg-275xl cl-276xl high yield replacement for canon 275 and 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3XLD1CK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jsgy6-bPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 Question: Can Aftermarket Inks Match Canon OEM?

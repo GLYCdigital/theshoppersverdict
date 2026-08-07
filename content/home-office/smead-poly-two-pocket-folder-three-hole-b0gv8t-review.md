@@ -1,4 +1,5 @@
 ---
+
 title: "Smead Poly Two-Pocket Folder, Three-Hole"
 seo_title: "Smead Poly Two-Pocket Folder, Three-Hole Review: Verdict "
 meta_description: "Our full smead poly two-pocket folder, three-hole review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GV8T5XFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Smead Poly Two-Pocket Folder, Three-Hole** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

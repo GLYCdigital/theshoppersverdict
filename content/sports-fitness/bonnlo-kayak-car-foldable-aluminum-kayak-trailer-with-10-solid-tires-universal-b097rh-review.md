@@ -1,4 +1,5 @@
 ---
+
 title: "Bonnlo Kayak Car Foldable Aluminum Kayak Trailer with 10'' S"
 seo_title: "Bonnlo Kayak Trailer Review: Foldable Aluminum Hauler"
 meta_description: "Bonnlo foldable aluminum kayak trailer review: 10 inch  solid tires, 165-lb capacity, universal hitch. Real pros, cons & buyer feedback."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B097RH3XDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n5pNX8sWS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat for vertical garage storage — takes up less space than a bicycle"
   - 10 inch " solid rubber tires mean zero flat-tire maintenance on the road
   - Universal 1.25 inch " and 2 inch " hitch receiver compatibility covers most vehicles
-cons:
+cons: 
   - "165-pound capacity is tight for tandem kayaks or adding camping gear"
   - "Assembly requires a second person and a torque wrench; instructions are sparse"
   - "No built-in tie-down points at the bow/stern — you'll rig your own straps"
+
 ---
 
 Let’s be honest about the Bonnlo Foldable Kayak Trailer: it solves a real problem for paddlers who don’t own a truck or a roof-rack system. Hauling a 14-foot kayak on a sedan’s roof is doable but awkward — lifting, strapping, and praying about overhead clearance. This trailer shifts that weight to your hitch and folds away when not in use. At 3.9 stars across 195 ratings, it's a solid-but-imperfect solution. Here's the real story.

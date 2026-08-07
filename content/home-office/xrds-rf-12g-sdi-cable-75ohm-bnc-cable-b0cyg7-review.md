@@ -1,4 +1,5 @@
 ---
+
 title: "XRDS -RF 12G SDI Cable 75ohm BNC Cable"
 seo_title: "XRDS -RF 12G SDI Cable 75ohm BNC Cable Review: Verdict | "
 meta_description: "Our full xrds -rf 12g sdi cable 75ohm bnc cable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYG7QR24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DTulRhsvL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a 4K signal degrade into digital noise mid-broadcast, you know the cable isn't the glamorous part of the rig — it's the part that ruins your day. The XRDS-RF 12G SDI cable is built for people who can't afford that. It carries the bandwidth, keeps the signal clean, and does it without the flimsy feel of bargain-bin BNC cables.

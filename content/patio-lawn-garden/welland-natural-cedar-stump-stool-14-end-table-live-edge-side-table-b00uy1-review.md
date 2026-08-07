@@ -1,7 +1,8 @@
 ---
-title: "WELLAND Natural Cedar Stump Stool, 14\" End Table, Live Edge "
-seo_title: "WELLAND Natural Cedar Stump Stool, 14\" End Table,  Review"
-meta_description: "Our full welland natural cedar stump stool, 14\" end table, live edge  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WELLAND Natural Cedar Stump Stool, 14\ End Table, Live Edge "
+seo_title: "WELLAND Natural Cedar Stump Stool, 14\ End Table,  Review"
+meta_description: "Our full welland natural cedar stump stool, 14\ end table, live edge  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "welland-natural-cedar-stump-stool-14-end-table-live-edge-side-table-b00uy1-review"
 image_alt: "WELLAND Natural Cedar Stump Stool, 14 End Table, Live Edge Side Table, Plant Stand, Small Nightstand, Mushroom Stool for"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00UY1SD4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H0kC5CdbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past plastic resin tables and powder-coated metal stands, this WELLAND cedar stump stool is the antidote. It's a solid, 14-inch slab of real cedar with a live edge, and it does exactly what the listing promises — no more, no less. At 4.7 stars across 235 ratings, it's one of the better-rated natural wood pieces on Amazon, and after digging through the buyer feedback, here's the honest story.

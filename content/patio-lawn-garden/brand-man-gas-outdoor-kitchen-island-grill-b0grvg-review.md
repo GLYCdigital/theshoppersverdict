@@ -1,4 +1,5 @@
 ---
+
 title: "Brand-Man Gas Outdoor Kitchen Island Grill"
 seo_title: "Brand-Man Gas Grill Island Review: Worth It? (2026)"
 meta_description: "Brand-Man Gas Outdoor Kitchen Island Grill review: 4.0-star rated. We break down build quality, cooking performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GRVG4TSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+vH-tYOjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 304 stainless steel build with double-wall insulation holds heat evenly across the 60-inch cooking surface"
   - "Four independently controlled burners plus a rear rotisserie burner give you real temperature zoning, not just on/off cooking"
   - "Integrated LED-lit knobs and interior lights make nighttime grilling genuinely usable, not a gimmick"
-cons:
+cons: 
   - "Assembly is a two-person, half-day job — the box arrives heavy and the hardware instructions are sparse in places"
   - "The side burner lid is thin gauge steel; it rattles in wind and feels cheaper than the rest of the unit"
+
 ---
 
 If you've been pricing outdoor kitchen islands, you know the sticker shock. Full built-in units from big-box brands routinely clear $3,000 before you pay someone to install them. The Brand-Man Gas Outdoor Kitchen Island Grill sidesteps that by being a freestanding, fully assembled-in-your-yard unit that lands at a fraction of that cost. But is it a genuine outdoor kitchen or just another grill with a fancy skirt?

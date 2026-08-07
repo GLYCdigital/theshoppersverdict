@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Unsweetened Green Tea"
 seo_title: "365 Organic Unsweetened Green Tea Review: Worth It?"
 meta_description: "365 by Whole Foods Market organic unsweetened green tea review: taste, brewing tips, and value. See how this pantry staple stacks up."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKSSSSM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WE-BKBTXL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, single-ingredient green tea with no added sweeteners or natural flavors"
   - "Consistent cup from bag to bag — no bitterness when brewed properly"
   - "USDA-certified organic at a price that undercuts most specialty tea brands"
-cons:
+cons: 
   - "Tea bags are unbleached but thin; can tear if you wring them aggressively"
   - "No individual wrappers — the boxed bags go stale faster once opened"
   - "Mild flavor profile; not for drinkers who want a bold, grassy sencha kick"
+
 ---
 
 **The Shopper's Verdict: 365 by Whole Foods Market Organic Unsweetened Green Tea**

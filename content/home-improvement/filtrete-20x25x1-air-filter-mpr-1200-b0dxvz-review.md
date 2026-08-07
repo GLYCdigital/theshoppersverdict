@@ -1,4 +1,5 @@
 ---
+
 title: "Filtrete 20x25x1 Air Filter, MPR 1200 inch"
 seo_title: "Filtrete 20x25x1 MPR 1200 Air Filter Review (2026)"
 meta_description: "Filtrete 20x25x1 MPR 1200 air filter review: Does this mid-range filter balance airflow and allergen capture? Real performance data, pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DXVZVJM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Captures large particles like pet dander and pollen while keeping airflow restriction moderate for a MERV 12-class filter"
   - "Cardboard frame holds its shape after 90 days of continuous use in high-humidity climates — no warping reported"
   - "Consistent pleat spacing across the 20x25x1 footprint means no gaps along the edges where unfiltered air can bypass"
-cons:
+cons: 
   - "At roughly 2x the cost of a basic fiberglass filter, you're paying for filtration you may not need if you have no allergies or pets"
   - "The Electrostatic charge fades noticeably by week 10-12; performance drops off before the official 90-day replacement mark"
+
 ---
 
 **Bottom line up front:** The Filtrete MPR 1200 is the Goldilocks option in 3M's filter lineup — more capture than a cheap fiberglass panel, less airflow restriction than the heavy-duty MPR 1900/2800 models. It's the filter you buy when you actually care about indoor air quality but don't want your HVAC blower working overtime.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jade Fusion Yoga Mat, Luxurious Comfort & Sturdy Workout Mat"
 seo_title: "Jade Fusion Yoga Mat, Luxurious Comfort & Sturdy W Review"
 meta_description: "Our full jade fusion yoga mat, luxurious comfort & sturdy workout mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BS4MYG7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FOoVxP0PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Jade Fusion Yoga Mat Review: Does the “Luxury” Claim Hold Up?

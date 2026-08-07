@@ -1,4 +1,5 @@
 ---
+
 title: "Taylors of Harrogate Yorkshire, 160 Count"
 seo_title: "Taylors of Harrogate Yorkshire, 160 Count Review: Verdict"
 meta_description: "Our full taylors of harrogate yorkshire, 160 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV48T9L1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mb8OLttLL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Taylors of Harrogate Yorkshire Gold: it's been a British pantry staple since 1886, and the 160-count bag version brings that heritage to your mug without needing a single piece of brewing equipment. At 4.8 stars from 240 ratings, it's clearly winning people over. But is it actually good coffee, or just convenient coffee? I dug into the specs, the feedback, and the brewing reality.

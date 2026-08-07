@@ -1,4 +1,5 @@
 ---
+
 title: "Adolph's Original Unseasoned Tenderizer, 3.5 oz"
 seo_title: "Adolph's Original Unseasoned Tenderizer Review: Does It Work?"
 meta_description: "Honest review of Adolph's Original Unseasoned Tenderizer (3.5 oz). Tested on tough cuts — see if it really breaks down meat, plus pros, cons, and FAQs."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR61S8P1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wcKywXJfL._SL1500_.jpg"
-pros:
+pros: 
   - "Papain enzyme from papaya actually breaks down collagen — works on chuck, round, and flank cuts in 30 minutes"
   - "Unseasoned formula means zero salt or spice interference; you control the entire flavor profile"
   - "3.5 oz shaker lasts 15-20 uses on 2 lbs of meat each — roughly 40 lbs total"
-cons:
+cons: 
   - "Overuse turns meat mushy; you must follow the 1 tsp per 2 lbs ratio strictly"
   - "No shaker top — it's a puncture-style lid that can clog if the powder gets damp"
   - "Heat deactivates the enzyme, so it's useless for marinades you plan to boil or slow-cook for hours"
+
 ---
 
 ## The $4 pantry trick that makes cheap steak taste expensive

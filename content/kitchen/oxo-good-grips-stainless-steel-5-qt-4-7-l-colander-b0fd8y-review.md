@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Good Grips Stainless Steel 5 qt./ 4.7 L Colander"
 seo_title: "OXO Good Grips Stainless Steel 5 qt./ 4.7 L Coland Review"
 meta_description: "Our full oxo good grips stainless steel 5 qt./ 4.7 l colander review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD8YY389/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G3QCE1A9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some colanders are flimsy afterthoughts — the kind you knock over mid-drain, sending spaghetti sliding into the sink. The **OXO Good Grips Stainless Steel 5 qt./ 4.7 L Colander** is not that. This is a serious piece of kit for anyone who cooks pasta, washes produce in bulk, or blanches vegetables regularly. With a 4.8-star average across 240 ratings, it’s clear I’m not alone in that assessment.

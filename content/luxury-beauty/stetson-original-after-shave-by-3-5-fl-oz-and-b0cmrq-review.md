@@ -1,4 +1,5 @@
 ---
+
 title: "Stetson Original After Shave by - 3.5 Fl Oz and"
 seo_title: "Stetson Original After Shave by - 3.5 Fl Oz and Review: V"
 meta_description: "Our full stetson original after shave by - 3.5 fl oz and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMRQDHLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tJ24Fq3ML._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some fragrances chase trends. Stetson Original doesn't bother. This is the aftershave your grandfather wore — and there's a reason it's still selling after four decades. The 3.5 oz glass bottle holds a woody, leather-forward scent built around cedar, sandalwood, and a citrus top note that cuts through without screaming. At 4.7 stars across 235 ratings, it's clearly doing something right.

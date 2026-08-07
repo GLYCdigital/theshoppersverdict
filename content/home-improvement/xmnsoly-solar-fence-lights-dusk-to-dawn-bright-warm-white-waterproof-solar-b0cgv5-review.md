@@ -1,4 +1,5 @@
 ---
+
 title: "XmnSoly Solar Fence Lights Dusk to Dawn Bright Warm White Wa"
 seo_title: "XmnSoly Solar Fence Lights Dusk to Dawn Bright War Review"
 meta_description: "Our full xmnsoly solar fence lights dusk to dawn bright warm white wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CGV5TWQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ylEbo61EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The XmnSoly solar fence lights solve a specific problem: lighting a perimeter without running wires or drilling into your siding. At 4.2 stars from 210 buyers, these are solid mid-tier performers — not premium, not disposable. Here's what you actually get.

@@ -1,4 +1,5 @@
 ---
+
 title: "Grow Lights for Indoor Plants Wide Coverage, Full Spectrum G"
 seo_title: "Grow Lights for Indoor Plants Wide Coverage, Full  Review"
 meta_description: "Our full grow lights for indoor plants wide coverage, full spectrum g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVN94J7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SWscf3OfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Grow Lights for Indoor Plants Wide Coverage, Full Spectrum G: A No-Nonsense Look

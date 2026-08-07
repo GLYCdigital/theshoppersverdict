@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Norelco Portable Shaver, On-The-Go Wet and Dry Elect"
 seo_title: "Philips Norelco Portable Shaver, On-The-Go Wet and Review"
 meta_description: "Our full philips norelco portable shaver, on-the-go wet and dry elect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D64HBN5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MiABt5+OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Philips Norelco On-The-Go is not a replacement for your main razor. It's a backup, a travel companion, and a desk-drawer lifesaver for the days you're running late. And for that specific job, it's surprisingly good.

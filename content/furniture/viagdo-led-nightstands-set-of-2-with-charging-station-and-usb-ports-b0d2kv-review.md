@@ -1,4 +1,5 @@
 ---
+
 title: "VIAGDO LED Nightstands Set of 2 with Charging Station and US"
 seo_title: "VIAGDO LED Nightstands Set of 2 with Charging Stat Review"
 meta_description: "Our full viagdo led nightstands set of 2 with charging station and us review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2KV6HW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PqcaiBRWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever woken up to a dead phone because your outlet was behind the bed, the VIAGDO LED Nightstands Set of 2 might just solve a problem you didn't realize you had. This isn't your average bedside table — it's a charging hub disguised as furniture, wrapped in customizable LED lighting. With 225 ratings averaging 4.5 stars, it's clearly resonating with shoppers. But is it right for your bedroom? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Perky-Pet 203CPBN-2 Glass Hummingbird Feeders for Outdoors w"
 seo_title: "Perky-Pet 203CPBN-2 Glass Hummingbird Feeders for  Review"
 meta_description: "Our full perky-pet 203cpbn-2 glass hummingbird feeders for outdoors w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GTWXZWMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nFXwA-joL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Perky-Pet 203CPBN-2 is the rare feeder that gets the fundamentals right: glass construction, a working ant moat, and perches that actually accommodate multiple birds. But it's not without a few quirks that could send you back to the drawing board.**

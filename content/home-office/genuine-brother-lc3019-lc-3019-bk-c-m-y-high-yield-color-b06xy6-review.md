@@ -1,4 +1,5 @@
 ---
+
 title: "Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color"
 seo_title: "Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Y Review"
 meta_description: "Our full genuine brother lc3019 (lc-3019) (bk/c/m/y) high yield color review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XY6RSNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jG9h-tmrL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's skip the suspense: if you own a Brother INKvestment or Super High Yield printer like the MFC-J995DW or HL-J610DW, this LC3019 4-pack is the ink you should be buying. Not the cheaper standard-yield version. Not the generic refills. This one.

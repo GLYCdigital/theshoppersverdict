@@ -1,4 +1,5 @@
 ---
+
 title: "Cotton Candy Express Floss Sugar Variety Pack with 3 - 11oz"
 seo_title: "Cotton Candy Express Floss Sugar Variety Pack Review (2026)"
 meta_description: "Cotton Candy Express Floss Sugar Variety Pack review: 3 flavors, 11oz jars, real taste tests. Is it worth it? Find out pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004XM4IO0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713aKz2DNkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-measured 11oz jars are sized to match the Cotton Candy Express machine's spinning chamber — no measuring or guessing"
   - "Three distinct flavors (cherry, blue raspberry, and vanilla) that actually taste different, not just color variations"
   - "Jars are resealable and stackable, which keeps sugar fresh between uses and saves cabinet space"
-cons:
+cons: 
   - "The blue raspberry flavor leaves a slight artificial aftertaste that some buyers notice on the second batch"
   - "If you own a different brand of cotton candy machine, the jar opening is slightly narrower than standard — you'll need a funnel to transfer sugar"
+
 ---
 
 Let me be direct: if you own a Cotton Candy Express machine, this is the sugar you should be buying. If you don't — read the "Who should skip" section before you click.

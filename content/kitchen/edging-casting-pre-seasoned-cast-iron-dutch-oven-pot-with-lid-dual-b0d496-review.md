@@ -1,4 +1,5 @@
 ---
+
 title: "EDGING CASTING Pre-Seasoned Cast Iron Dutch Oven Pot with Li"
 seo_title: "EDGING CASTING Dutch Oven Review: Pre-Seasoned Cast Iron Pot"
 meta_description: "Honest EDGING CASTING pre-seasoned cast iron Dutch oven review: performance, durability, and real buyer feedback. Is this 4.5-star pot worth buying?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4961VN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K1XdBrqsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly pre-seasoned with multiple layers of vegetable oil — ready for first use out of the box, no seasoning ritual required"
   - "Even heat distribution and stellar heat retention for slow braises, bread baking, and deep frying"
   - "Self-basting lid with drip spikes returns moisture to food, producing consistently tender results"
-cons:
+cons: 
   - "Uncoated cast iron — no enamel — so it requires hand washing, thorough drying, and occasional re-oiling to prevent rust"
   - "Significant weight (typically 12+ lbs for the 6-quart) makes one-handed pouring and oven-to-table transfers awkward"
+
 ---
 
 If you've been eyeing a Dutch oven but balked at $300 enameled French imports, the EDGING CASTING pre-seasoned cast iron pot deserves a hard look. This is a bare-bones, no-frills workhorse — not a pretty kitchen showpiece. But at roughly a third of the price of a Le Creuset, it does 90% of the same job.

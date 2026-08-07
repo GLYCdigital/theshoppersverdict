@@ -1,4 +1,5 @@
 ---
+
 title: "ZCZN A5 Kraft Notebooks"
 seo_title: "ZCZN A5 Kraft Notebooks Review: Verdict | TSV"
 meta_description: "Our full zczn a5 kraft notebooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW882RM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qWH4aaUKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the ZCZN A5 Kraft Notebook has 235 Amazon ratings sitting at 4.7 stars, and after digging into the reviews and the specs, most of that praise is earned. But it's not perfect. Here's what you need to know before you add it to your cart.

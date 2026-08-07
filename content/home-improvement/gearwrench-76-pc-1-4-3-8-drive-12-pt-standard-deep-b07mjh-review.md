@@ -1,24 +1,26 @@
 ---
+
 title: "GEARWRENCH 76 Pc. 1/4 inch  & 3/8 inch  Drive 12 Pt. Standard & Deep M"
 seo_title: "GEARWRENCH 76 Pc Socket Set Review: Worth It?"
 meta_description: "GEARWRENCH 76 Pc 1/4 inch  & 3/8 inch  drive 12-pt socket set review: deep & standard, quality build, real-world pros/cons. Is it worth your money?"
 slug: "gearwrench-76-pc-1-4-3-8-drive-12-pt-standard-deep-b07mjh-review"
 image_alt: "GEARWRENCH 76 piece 1/4 inch and 3/8 inch drive 12 point standard and deep metric socket set in carrying case"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07MJHF24T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dv8SQWVhL._AC_SL1200_.jpg"
-pros:  
+pros: 
   - "Full metric coverage from 4mm to 19mm in both 1/4 inch  and 3/8 inch  drives"
   - "12-point design grabs worn or rounded fasteners better than 6-point"  
   - "Laser-etched sizing stays legible after months of shop use"  
-cons:  
+cons: 
   - "No 6-point sockets included — 12-point can round off already-stripped bolts"  
   - "Case hinges feel flimsy; won't survive a drop from a workbench"  
   - Missing 3/8 inch " deep 19mm — a gap for automotive work
+
 ---
 
 If you're a home mechanic, you've felt the sting of buying a socket set that looks great in the photo but skips the one size you actually need. The GEARWRENCH 76-piece set (model 80776P) tries to solve that with a broad metric range spanning both 1/4" and 3/8" drives. At 4.2 stars from 210 buyers, it's clearly doing something right — but let's talk about whether it deserves a spot in your toolbox.

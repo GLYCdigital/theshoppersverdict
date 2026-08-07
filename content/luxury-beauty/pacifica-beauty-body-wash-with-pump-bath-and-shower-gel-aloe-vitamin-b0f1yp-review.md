@@ -1,4 +1,5 @@
 ---
+
 title: "Pacifica Beauty Body Wash with Pump, Bath and Shower Gel, Al"
 seo_title: "Pacifica Beauty Body Wash with Pump, Bath and Show Review"
 meta_description: "Our full pacifica beauty body wash with pump, bath and shower gel, al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1YP9LZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YhnJ2n0sL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a body wash actually needs to do: clean your skin without stripping it, smell decent, and not make you fight with a slippery bottle mid-shower. The Pacifica Beauty Body Wash with Pump does all three — mostly. Here's the breakdown after digging through 220 ratings and the specs.

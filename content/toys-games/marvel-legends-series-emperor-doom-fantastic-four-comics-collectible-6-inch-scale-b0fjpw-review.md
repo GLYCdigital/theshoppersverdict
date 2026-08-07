@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Legends Series Emperor Doom, Fantastic Four Comics Co"
 seo_title: "Marvel Legends Series Emperor Doom, Fantastic Four Review"
 meta_description: "Our full marvel legends series emperor doom, fantastic four comics co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJPW8JXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7173TPNaAJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Build Quality and Real-World Handling**

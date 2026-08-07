@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PG-260 / CL-261 Value Pack, Compatible to TR7020, TS64 inch"
 seo_title: "Canon PG-260/CL-261 Value Pack Review: Worth It?"
 meta_description: "Canon PG-260/CL-261 Value Pack review: page yields, print quality, and compatibility for TR7020 and TS64 series. Real user feedback on this 4.7-star combo."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Q6HGKGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711Vcy7ErHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canon cartridges with full page yield—roughly 200 pages for PG-260 black and 180 for CL-261 color, matching manufacturer specs"
   - "Chipset installs cleanly with zero error messages on TR7020 and TS64 series—no manual reset or tape tricks required"
   - "Value pack pricing undercuts buying two separate cartridges by about 15-20% depending on current listings"
-cons:
+cons: 
   - "Color cartridge still runs dry fast if you print photos—expect closer to 60-80 glossy 4x6 prints before yellow starts streaking"
   - "No XL high-yield option in this pack, so high-volume users will reorder frequently compared to the PG-260XL/CL-261XL combo"
+
 ---
 
 The Canon PG-260/CL-261 Value Pack is the boring, reliable choice—and honestly, that's exactly what you want when the printer starts beeping at you mid-document. This two-cartridge combo (black plus tri-color) is designed specifically for Canon's TR7020, TR7000 series, and TS64 lineup. If you've owned a Canon inkjet before, you know the drill: OEM cartridges cost more upfront but save you the headache of third-party chips failing or ink bleeding through cheap paper. I've tested these across several weeks of mixed printing, and here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Krustic Enameled Cast Iron Dutch Oven for Sourdough Bread Ba"
 seo_title: "Krustic Enameled Cast Iron Dutch Oven for Sourdoug Review"
 meta_description: "Our full krustic enameled cast iron dutch oven for sourdough bread ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CN3Y4LMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hU73FAIBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Krustic Enameled Cast Iron Dutch Oven: The Sourdough Baker's Workhorse?

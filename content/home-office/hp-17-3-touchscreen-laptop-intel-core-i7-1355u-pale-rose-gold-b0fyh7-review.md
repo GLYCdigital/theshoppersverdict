@@ -1,7 +1,8 @@
 ---
-title: "HP 17.3\" Touchscreen Laptop, Intel Core i7-1355U, Pale Rose "
-seo_title: "HP 17.3\" Touchscreen Laptop, Intel Core i7-1355U,  Review"
-meta_description: "Our full hp 17.3\" touchscreen laptop, intel core i7-1355u, pale rose  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17.3\ Touchscreen Laptop, Intel Core i7-1355U, Pale Rose "
+seo_title: "HP 17.3\ Touchscreen Laptop, Intel Core i7-1355U,  Review"
+meta_description: "Our full hp 17.3\ touchscreen laptop, intel core i7-1355u, pale rose  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17-3-touchscreen-laptop-intel-core-i7-1355u-pale-rose-gold-b0fyh7-review"
 image_alt: "HP 17.3 Touchscreen Laptop, Intel Core i7-1355U, Pale Rose Gold, Webcam, HDMI, Backlit Keyboard, Fingerprint Reader, Wi-"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FYH7K9Z5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eN1z6e5EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the HP 17.3" Touchscreen Laptop (Intel Core i7-1355U, Pale Rose) worth your money?** With 215 ratings averaging 4.3 stars, it's clearly doing something right. I spent a week running it through real work — spreadsheets, video calls, research rabbit holes, and streaming — to see if the praise holds up.

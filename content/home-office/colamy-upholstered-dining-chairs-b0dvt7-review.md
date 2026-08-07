@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Upholstered Dining Chairs"
 seo_title: "COLAMY Upholstered Dining Chairs Review (2026): Worth It?"
 meta_description: "Honest COLAMY Upholstered Dining Chairs review: comfort, build quality, and real buyer feedback. See pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DVT7QVD9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o8Tzb64SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-density foam cushioning stays comfortable through 2+ hour meals without bottoming out"
   - "Tool-free assembly takes under 10 minutes; legs screw in with included hex wrench"
   - "Fabric option is stain-resistant and holds up well against everyday crumbs and spills"
-cons:
+cons: 
   - "Seat height (18.5 inches) runs low — not ideal for standard 30-inch tables if you're tall"
   - "No floor protectors included; rubber feet can mark hardwood if you drag the chair"
+
 ---
 
 If you've been scrolling through dining chairs for weeks, you've probably hit a wall of options that look identical but feel wildly different. The COLAMY Upholstered Dining Chair sits in that crowded middle ground. It's not the cheapest, not the priciest, and honestly, not the most distinctive-looking. But after digging through 215 ratings and the specs, here's what actually matters: this is a solid, comfortable workhorse that gets the basics right — with a couple of quirks you should know about before checkout.

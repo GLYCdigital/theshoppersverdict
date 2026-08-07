@@ -1,4 +1,5 @@
 ---
+
 title: "Edward Marc Thin Mint Bites, 20 oz – Girl Scouts-Inspired"
 seo_title: "Edward Marc Thin Mint Bites Review: Worth It? (2026)"
 meta_description: "Honest Edward Marc Thin Mint Bites review: crunchy mint chocolate clusters in a 20 oz tub. Flavor, texture, value, and who should buy."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CXG84G2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tAlIsxX1L._SL1500_.jpg"
-pros:
+pros: 
   - "Strong, authentic mint flavor that actually tastes like Thin Mints, not toothpaste"
   - "Crunchy texture holds up — crispy cookie pieces stay crisp inside the chocolate coating"
   - "20 oz tub is generous; roughly 30+ servings depending on portion size"
-cons:
+cons: 
   - "Chocolate coating is thinner than expected; can melt quickly if stored above 65°F"
   - "Some batches arrive with broken pieces and chocolate dust at the bottom of the tub"
   - "Sugar content is high — about 21g per serving, so portion control is a real issue"
+
 ---
 
 **The Short Version:** If you've ever crushed an entire sleeve of Thin Mints in one sitting and wished for something slightly less delicate that still delivers that same mint-chocolate hit, these Edward Marc bites are worth a look. They're not a perfect replica, but they scratch a very specific itch.

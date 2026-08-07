@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Play Tent with Mat, Large Playhouse Play Tent Indoor fo"
 seo_title: "Kids Play Tent with Mat, Large Playhouse Play Tent Review"
 meta_description: "Our full kids play tent with mat, large playhouse play tent indoor fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FMDX6N9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ds3uBb01L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most kids’ tents are flimsy fabric igloos that collapse the first time a toddler dives in. The **Kids Play Tent with Mat** claims to be different — bigger, sturdier, with a floor mat included. After digging through the 229 ratings (4.6 stars) and analyzing what real buyers say, here’s what you actually need to know before adding this to your cart.

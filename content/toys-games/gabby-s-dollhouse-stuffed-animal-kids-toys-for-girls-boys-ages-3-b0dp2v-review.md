@@ -1,4 +1,5 @@
 ---
+
 title: "Gabby’s Dollhouse Stuffed Animal Kids Toys for Girls & Boy"
 seo_title: "Gabby’s Dollhouse Stuffed Animal Review: Soft Plush for Ages 3+"
 meta_description: "Honest Gabby’s Dollhouse stuffed animal review: soft plush quality, size, and durability. See if this 4.9-star toy is worth your money for kids ages 3+."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DP2VVB59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815+iB2bJqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable plush that survives the washer without losing shape or softness"
   - "Stitch quality holds up to aggressive hugging and daily play — no loose threads after weeks"
   - "Sized right for small hands (roughly 10-12 inches) — not a giant floor hog, not a choking hazard"
-cons:
+cons: 
   - "Faces are embroidered, not printed — loses some detail up close but safer for toddlers who mouth toys"
   - "Only the core character (Gabby) is included; the other dollhouse cats are sold separately, which adds up fast"
   - "Packaging is basic — no storage bag or display box, just a polybag with a tag"
+
 ---
 
 If your kid has watched *Gabby’s Dollhouse* more times than you can count, you already know the drill: they want the plush. The question isn’t *if* you’re buying one — it’s whether **this** one is worth your money. With a 4.9-star average across 245 ratings, the short answer is yes. But let me tell you exactly why, and where it falls short.

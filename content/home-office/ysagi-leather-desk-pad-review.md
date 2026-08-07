@@ -1,4 +1,5 @@
 ---
+
 title: "YSAGi Leather Desk Pad Protector Review: Does a $10 Mat Elevate Your Desk?"
 seo_title: "YSAGi Leather Desk Pad Protector Review 2026: Best Budget Desk Mat?"
 meta_description: "Our full YSAGi Leather Office Desk Pad Protector review. Real customer insights on this $9.99 PU leather desk mat with 20,000+ reviews. See pros, cons, and our verdict."
@@ -11,28 +12,28 @@ image_alt: "YSAGi Leather Office Desk Pad Protector in brown, shown with a lapto
 amazon_rating: 4.7
 review_count: 20977
 verdict_score: 9.0
-categories:
+categories: 
   - home-office
   - office-supplies
-tags:
+tags: 
   - YSAGi
   - desk pad
   - mouse pad
   - desk protector
   - PU leather
   - B0BMTPC44X
-pros:
+pros: 
   - "Exceptional value at $9.99 — transforms a desk's look and feel for less than the cost of a takeout lunch"
   - "Non-slip backing keeps the pad planted firmly — no sliding even with aggressive mouse movements"
   - "Generous size accommodates a full keyboard, mouse, and notebook simultaneously"
   - "Easy to clean — a quick wipe with a damp cloth restores its original appearance"
   - "Doubles as both a desk protector and an oversized mouse pad with smooth tracking"
-cons:
+cons: 
   - "PU leather surface can develop visible dents and impressions from heavy objects over time"
   - "Not genuine leather — the synthetic material won't develop a natural patina"
   - "Edges may curl slightly in humid environments after extended use"
   - "Scent of synthetic leather is noticeable on first unboxing and needs a few days to dissipate"
-faq:
+faq: 
   - question: "Is the YSAGi desk pad made of real leather?"
     answer: "No, it is made of PU (polyurethane) leather — a synthetic material designed to mimic the look and feel of real leather at a fraction of the cost."
   - question: "Does the YSAGi desk pad work as a mouse pad?"
@@ -41,6 +42,7 @@ faq:
     answer: "A simple wipe with a damp cloth or a mild soap solution is sufficient. The PU leather is non-porous and resists stains from coffee, tea, and ink."
   - question: "Will the YSAGi desk pad fit my desk?"
     answer: "The most common size is 31.5 x 15.7 inches, which fits most standard desks and accommodates a full keyboard, mouse, and notebook with room to spare."
+
 ---
 
 ## YSAGi Leather Desk Pad Protector Review: The 4.7-Star Desk Upgrade That Actually Earns Its Rating

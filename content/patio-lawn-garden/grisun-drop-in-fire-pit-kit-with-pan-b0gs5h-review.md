@@ -1,4 +1,5 @@
 ---
+
 title: "GRISUN Drop-in Fire Pit Kit with Pan"
 seo_title: "GRISUN Drop-in Fire Pit Kit with Pan Review: Verdict | TS"
 meta_description: "Our full grisun drop-in fire pit kit with pan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS5HVFZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p04+u3KeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a custom patio table or outdoor kitchen and want an integrated fire feature, the GRISUN Drop-in Fire Pit Kit is one of the most complete solutions under $200. But "drop-in" is doing a lot of work here — this isn't a set-it-on-the-ground unit. It's a component that demands a proper cutout and some DIY confidence. I've analyzed the specs, the 210 Amazon ratings, and what buyers actually say after installation. Here's the real story.

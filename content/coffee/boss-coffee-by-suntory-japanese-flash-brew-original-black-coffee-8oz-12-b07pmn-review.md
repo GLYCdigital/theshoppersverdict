@@ -1,4 +1,5 @@
 ---
+
 title: "BOSS Coffee by Suntory - Japanese Flash Brew Original Black"
 seo_title: "BOSS Coffee Suntory Flash Brew Review: Is It Worth It?"
 meta_description: "BOSS Coffee by Suntory Flash Brew Original Black review: taste, caffeine, and value. See if this Japanese canned coffee earns its 4.6-star rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PMNR4FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hHVFDGpsL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, zero-bitterness flash brew profile that actually tastes like pour-over, not canned coffee"
   - "No sugar, no milk, no additives — just black coffee with a clean, crisp finish"
   - "Convenient 8oz cans that work hot or cold without sacrificing flavor"
-cons:
+cons: 
   - "Price per ounce runs higher than brewing at home — you're paying for convenience"
   - "The 8oz size is smaller than standard 12oz cans; heavy drinkers will burn through a 12-pack fast"
   - "Flash brew method means lower acidity, but some coffee purists may find it too mellow"
+
 ---
 
 Let me be blunt: I've tried more canned coffees than I care to admit, and most taste like someone brewed Folgers in a rusty thermos and let it sit for a week. BOSS Coffee by Suntory is not that. This Japanese import has earned a 4.6-star average across 229 Amazon ratings for a reason — it's genuinely good coffee in a can, and it deserves a closer look.

@@ -1,4 +1,5 @@
 ---
+
 title: "affeivul Fluted Narrow End Table with Charging Station, Farm"
 seo_title: "affeivul Fluted Narrow End Table Review: Farmhouse Style & Charging"
 meta_description: "Read our honest affeivul fluted narrow end table review — farmhouse style, built-in charging station, narrow footprint. Real buyer feedback on quality and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6D2W6ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pqVpOyZfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated charging station with 2 USB ports and 1 AC outlet hidden in a recessed shelf — no visible cable clutter"
   - "Fluted panel detailing on the drawer front gives a custom, high-end look that photographs well"
   - "Narrow 15.7-inch depth fits tight spaces like hallways and beside a bed without dominating the room"
-cons:
+cons: 
   - "Charging station placement on the back edge means cords drape down the side — visible from certain angles"
   - "Assembly requires a Phillips screwdriver and takes about 30 minutes; drawer slides need careful alignment"
   - "Light oak finish shows water rings and dust more readily than darker wood tones"
+
 ---
 
 **Is this narrow end table with a charging station actually worth your money — or just another farmhouse-style trend piece that underdelivers? I dug through 220 ratings and the specs to find out.**

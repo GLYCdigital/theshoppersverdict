@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Disney Pixar Cars Playset with 2 Toy Cars"
 seo_title: "Mattel Disney Pixar Cars Playset with 2 Toy Cars Review: "
 meta_description: "Our full mattel disney pixar cars playset with 2 toy cars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7J7QPPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wzMRZYoTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Mattel Disney Pixar Cars Playset with 2 Toy Cars** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

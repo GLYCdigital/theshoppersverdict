@@ -1,4 +1,5 @@
 ---
+
 title: "modelones Gel Nail Polish Set, 6 Colors Cat Eye Glitter Gel "
 seo_title: "modelones Gel Nail Polish Set, 6 Colors Cat Eye Gl Review"
 meta_description: "Our full modelones gel nail polish set, 6 colors cat eye glitter gel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GFY3Z57P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fAeB8yJBL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The cat-eye nail trend keeps getting cheaper, and that's usually a problem. Most budget magnet polish sets give you a wishy-washy line that scatters the moment you pull the wand away. The modelones 6-color set doesn't do that. For around the price of a single salon manicure, you're getting six shades that actually behave like a magnetic polish should.

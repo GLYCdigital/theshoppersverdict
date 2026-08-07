@@ -1,4 +1,5 @@
 ---
+
 title: "Alba Botanica Sunscreen for Face and Body, Sensitive Sunscre"
 seo_title: "Alba Botanica Sensitive Sunscreen Review: Gentle SPF That Works"
 meta_description: "Read our honest Alba Botanica Sensitive Sunscreen review. See how this gentle, mineral-based SPF performs on sensitive skin — plus pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GVMQ42HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XKcvzMfGL._SL1500_.jpg"
-pros:
+pros: 
   - "Zinc oxide formula provides broad-spectrum UVA/UVB protection without chemical filters that often trigger reactions"
   - "Fragrance-free and hypoallergenic — actually suitable for eczema-prone and post-procedure skin, not just marketing claims"
   - "Non-nano particles mean it won't absorb into the bloodstream, making it a solid choice for pregnant women and kids"
-cons:
+cons: 
   - "Leaves a visible white cast that takes 5–10 minutes to rub in fully — not ideal for deeper skin tones"
   - "The spray can feel wet and takes longer to dry than chemical sunscreens, which annoys people who want to get out the door fast"
+
 ---
 
 # Alba Botanica Sunscreen for Face and Body, Sensitive Sunscreen: The Honest Review

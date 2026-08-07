@@ -1,4 +1,5 @@
 ---
+
 title: "Legigo Tomato Cage for Garden & Potted Plants - Tomato Trell"
 seo_title: "Legigo Tomato Cage for Garden & Potted Plants - To Review"
 meta_description: "Our full legigo tomato cage for garden & potted plants - tomato trell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CW2YHQCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FVT7+altL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a flimsy wire cone that collapses under the weight of a single Brandywine, the Legigo Tomato Cage is a breath of fresh air. This isn't the $3 hardware-store special that bends sideways by July. It's a modular trellis system that actually does what it promises — supporting your plants without a PhD in cage assembly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Apple Pencil (1st Generation): Device Compatibility Check Re"
 seo_title: "Apple Pencil 1st Gen Review: Compatibility Check Required"
 meta_description: "Apple Pencil (1st Gen) review: pixel-perfect precision but compatibility is tricky. See which iPads work, real pros/cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWTQPTZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41dvbwbP6dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pixel-perfect precision with tilt and pressure sensitivity — rivals the 2nd Gen for drawing and note-taking"
   - "Instant pairing via Lightning connector — no Bluetooth settings hunting required"
   - "Works with all iPads that have a Lightning port, including older models still in heavy rotation"
-cons:
+cons: 
   - "Compatibility chaos — only works with specific iPad generations, and the list is confusingly narrow"
   - "Clunky charging method — you must plug it into the iPad's Lightning port, which feels awkward and risks snapping the tip"
   - "No magnetic attachment or wireless charging — easy to lose, and the cap is a notorious drop hazard"
+
 ---
 
 # Apple Pencil (1st Generation): Still Worth It in 2026? The Compatibility Catch

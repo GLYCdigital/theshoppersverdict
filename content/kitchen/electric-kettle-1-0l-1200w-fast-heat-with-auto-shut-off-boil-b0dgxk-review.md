@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Kettle, 1.0L 1200W Fast Heat with Auto Shut-Off, Bo"
 seo_title: "Electric Kettle 1.0L 1200W Review: Fast Heat, Auto Shut-Off"
 meta_description: "Honest review of the 1.0L 1200W electric kettle with auto shut-off. Real performance data, build quality, and buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DGXKL24C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GdBABgB5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Boils 1.0L in roughly 3-4 minutes; 1200W is efficient without tripping older home breakers"
   - "Auto shut-off and boil-dry protection actually work — tested and confirmed by multiple buyers"
   - "Compact footprint fits under standard upper cabinets and travels well"
-cons:
+cons: 
   - "1.0L capacity means two large mugs max; you'll re-boil for a full pot of tea"
   - "Cord is short (about 2 feet) — placement near an outlet is mandatory"
   - "No temperature presets; it's boil-only, so pour-over coffee folks lose precision"
+
 ---
 
 # Electric Kettle, 1.0L 1200W Fast Heat with Auto Shut-Off, Bo — The Compact Workhorse That Gets Out of Your Way

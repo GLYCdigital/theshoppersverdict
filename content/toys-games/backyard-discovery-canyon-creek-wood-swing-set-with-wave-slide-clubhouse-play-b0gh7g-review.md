@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery Canyon Creek Wood Swing Set with Wave Sli"
 seo_title: "Canyon Creek Swing Set Review: Worth It? (2026)"
 meta_description: "Honest Backyard Discovery Canyon Creek swing set review: build quality, safety, and value. See what 185 buyers say before you spend."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GH7GP3SH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SK6YwkAeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cedar construction resists rot and splintering better than pine sets in this price range"
   - "Wave slide delivers real speed — kids consistently choose it over the straight option"
   - "Two-person glider swing is a rarity at this price point and handles 200+ lbs without sagging"
-cons:
+cons: 
   - "Assembly is a 6–10 hour project; hardware quality varies and some bolts strip easily"
   - "Ground anchor kit not included — on flat, grassy yards the frame shifts noticeably after rain"
   - "Slide attachment brackets can loosen within months; expect to re-tighten or add washers"
+
 ---
 
 **Review Body:**

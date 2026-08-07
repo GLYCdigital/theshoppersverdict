@@ -1,4 +1,5 @@
 ---
+
 title: "Sapphire 11348-03-20G Pulse AMD Radeonâ„¢ RX 9070 XT Gaming "
 seo_title: "Sapphire 11348-03-20G Pulse AMD Radeonâ„¢ RX 9070  Review"
 meta_description: "Our full sapphire 11348-03-20g pulse amd radeonâ„¢ rx 9070 xt gaming  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTHMPWFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CC7BfXjGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The RX 9070 XT is the card AMD fans have been waiting for — and the Sapphire Pulse 11348-03-20G is the version most people should actually buy. But "most people" isn't "everyone." Here's the honest breakdown after digging through specs, benchmarks, and 235 verified buyer ratings sitting at 4.7 stars.

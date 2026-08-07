@@ -1,4 +1,5 @@
 ---
+
 title: "Syruvia Sugar Free Coffee Syrup Variety Pack: Vanilla, Caram"
 seo_title: "Syruvia Sugar Free Coffee Syrup Variety Pack: Vani Review"
 meta_description: "Our full syruvia sugar free coffee syrup variety pack: vanilla, caram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CX33TWNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MTaU13BeL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about sugar-free coffee syrups: most taste like a chemistry experiment gone wrong. The Syruvia variety pack is different — and after 225 ratings averaging 4.5 stars, it's clear I'm not the only one who noticed.

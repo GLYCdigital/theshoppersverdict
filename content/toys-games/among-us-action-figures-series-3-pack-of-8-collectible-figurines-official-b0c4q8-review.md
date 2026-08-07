@@ -1,4 +1,5 @@
 ---
+
 title: "Among Us Action Figures Series 3 - Pack of 8 Collectible Fig"
 seo_title: "Among Us Series 3 Figures Review: 8-Pack Worth It?"
 meta_description: "Among Us Series 3 8-pack review: detailed look at quality, value, and collectibility. See if these crewmate figures are worth $50."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C4Q8FWHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z2+hj98wL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Eight unique crewmate designs with distinct accessories and visor expressions — no lazy recolors here"
   - "Sturdy ABS plastic construction that survives drops from kids' hands without cracking"
   - "Includes two exclusive Series 3 variants you can't get in single packs"
-cons:
+cons: 
   - "At roughly $6.25 per figure, the per-unit cost runs higher than other blind bag collectibles"
   - "Small parts like the mini task cards and hats pop off easily and get lost fast"
   - "No actual 'impostor' gameplay elements — these are display pieces, not interactive toys"
+
 ---
 
 If your kid (or honestly, you) can't get enough of the red crewmate getting tossed out of the airlock, this Series 3 8-pack hits that sweet spot. But at $49.93, you need to know exactly what you're paying for before you click buy.

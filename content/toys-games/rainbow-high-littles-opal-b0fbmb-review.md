@@ -1,4 +1,5 @@
 ---
+
 title: "Rainbow High Littles â€“ Opal"
 seo_title: "Rainbow High Littles â€“ Opal Review: Verdict | TSV"
 meta_description: "Our full rainbow high littles â€“ opal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FBMBT2M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zdooJXvCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this tiny doll worth the hype?** With 240 ratings averaging 4.8 stars, Rainbow High Littles — Opal has clearly struck a chord. But "Littles" doesn't mean "cheap knockoff." At roughly four inches tall, this is a mini version of the beloved Rainbow High line, and she packs more detail than most dolls twice her size.

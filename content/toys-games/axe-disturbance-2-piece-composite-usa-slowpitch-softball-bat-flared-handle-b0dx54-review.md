@@ -1,24 +1,26 @@
 ---
+
 title: "Axe | Disturbance | 2-Piece Composite | USA Slowpitch Softba"
 seo_title: "Axe Disturbance Composite Slowpitch Bat Review (2026)"
 meta_description: "Axe Disturbance 2-piece composite USA slowpitch bat review: swing feel, pop, durability, and who should buy it. Honest verdict from real user feedback."
 slug: "axe-disturbance-2-piece-composite-usa-slowpitch-softball-bat-flared-handle-b0dx54-review"
 image_alt: "Axe Disturbance 2-piece composite USA slowpitch softball bat with flared handle shown on field"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DX549642/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611vd-rLP8L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Axe's signature ergonomic handle aligns your knuckles naturally — cuts down on bat twist and hand sting on off-center hits"  
   - "2-piece composite with a balanced swing weight feels noticeably lighter through the zone than end-loaded bats of the same length"  
   - "USA stamp means it's legal for ASA, USSSA (non-NSA), and most recreational slowpitch leagues — no worrying about equipment violations"  
-cons:  
+cons: 
   - "The flared handle is a love-it-or-hate-it feel; if you're used to round handles, the transition takes a solid 50-100 swings"  
   - "Composite needs a real break-in period — out of the wrapper it's stiff and muted, so don't judge it on day one"  
   - "No end-load option in this model; power hitters who prefer a whip-like swing may find it too balanced"
+
 ---
 
 **If you've swung a round-handled bat your whole life, the Axe Disturbance will feel like a foreign object for the first two games. Give it a week, and you may never go back.**

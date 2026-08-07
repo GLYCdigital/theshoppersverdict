@@ -1,4 +1,5 @@
 ---
+
 title: "QLOFEI Shade Cloth - for Plants Greenhouse, 70% Sunblock Sha"
 seo_title: "QLOFEI Shade Cloth - for Plants Greenhouse, 70% Su Review"
 meta_description: "Our full qlofei shade cloth - for plants greenhouse, 70% sunblock sha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BTP4NT1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IpfHkFHgL._AC_SL1011_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've cooked a tray of seedlings into crispy brown stalks under a cheap shade cloth that promised "60% blockage" but delivered closer to 25%, you know the frustration. The QLOFEI Shade Cloth enters that crowded market claiming a genuine 70% sunblock rating — and based on my testing and buyer feedback, it's one of the few budget options that actually delivers on its numbers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Champro Gauntlet I Youth Shoulder Pads"
 seo_title: "Champro Gauntlet I Youth Shoulder Pads Review: Real Talk"
 meta_description: "Honest Champro Gauntlet I youth shoulder pads review: fit, protection, durability, and sizing for young football players. See if they're worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZLYXYFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MnMd4AiKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-to-size fit with adjustable cinch straps that keep pads locked in place during contact"
   - "PE foam padding absorbs hard hits well without the bulk of higher-end lineman pads"
   - "Holds up through a full season of practice plus games without shell cracks or strap failure"
-cons:
+cons: 
   - "No chest protector included — you'll need to buy that separately for full torso coverage"
   - "Limited color options; mostly black/white combos that don't match every team uniform"
+
 ---
 
 Let me be straight with you: finding youth shoulder pads that actually fit is a nightmare. Most run either too boxy or too flimsy. The Champro Gauntlet I sits in a sweet spot — it's a solid mid-tier option that 229 Amazon reviewers have pushed to a 4.6-star average. Here's the real breakdown.

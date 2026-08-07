@@ -1,4 +1,5 @@
 ---
+
 title: "SHONELIGHTING Solar Pool Deck Light, IP67 Waterproof 2-Way S"
 seo_title: "SHONELIGHTING Solar Pool Deck Light, IP67 Waterpro Review"
 meta_description: "Our full shonelighting solar pool deck light, ip67 waterproof 2-way s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DPK4LDPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aRI1YMA3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about this SHONELIGHTING solar deck light: at 3.9 stars with 195 ratings, it's not a home run, but it's also not a strikeout. It's a functional, weatherproof pool light that does exactly what it claims—if you temper your expectations about brightness and longevity.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Chromebook Plus CX34 Laptop (14 inch  FHD Touchscreen, Intel"
 seo_title: "ASUS Chromebook Plus CX34 Review: Intel Core i5 Power"
 meta_description: "ASUS Chromebook Plus CX34 review: Is the Intel Core i5 touchscreen Chromebook worth it? Real-world performance, battery life & downsides analyzed."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDCG4CLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L1kmIRdLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Intel Core i5-1335U delivers desktop-class performance — handles 20+ Chrome tabs and Android apps without stutter"
   - "Bright 300-nit 14-inch FHD touchscreen with 180° lay-flat hinge, ideal for presentations and shared viewing"
   - "Military-grade MIL-STD-810H durability with USI 2.0 stylus support at a sub-$500 price point"
-cons:
+cons: 
   - "8GB RAM is soldered — no upgrade path, and heavy Linux/container workloads will hit the ceiling"
   - "Battery life lands around 8 hours in real use, notably short of the 10-hour marketing claim"
   - "Plastic chassis flexes under pressure near the keyboard deck; not the premium feel the price suggests"
+
 ---
 
 Let me cut through the Chromebook confusion: most sub-$500 Chromebooks are glorified web browsers with decent screens. The ASUS Chromebook Plus CX34 is different — it has a real processor, a genuinely good display, and enough RAM to handle actual work. But it's not perfect, and you need to know where ASUS cut corners.

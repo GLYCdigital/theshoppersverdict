@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Ankle Weights for Women Men 1 2 4 5 6 8 10 LBS 1 inch"
 seo_title: "Adjustable Ankle Weights Review: 1-10 LBS Options (2026)"
 meta_description: "Honest review of adjustable ankle weights with 1-10 lb options. See how they fit, perform, and hold up. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK1XTR8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cGlcWEHnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable weight pouches let you dial in from 1 to 10 lbs per ankle in precise increments"
   - "Adjustable velcro straps accommodate both slim and wider ankles without pinching"
   - "Reinforced stitching and durable fabric hold up through daily wear and machine washing"
-cons:
+cons: 
   - "No carrying bag included — loose weight pouches can get scattered in a gym bag"
   - "Velcro straps can snag on leggings or sweatpants if not fully secured before wear"
+
 ---
 
 Let me cut through the noise: ankle weights are one of those purchases where you either get a pair that feels like a second skin or a set of sandbags that flop around and make you regret the whole thing. This adjustable set from Amazon has earned a 4.4-star rating across 220 reviews — and after digging into the feedback, I can tell you exactly who should buy it and who should keep scrolling.

@@ -1,4 +1,5 @@
 ---
+
 title: "International Caravan Bali 42-inch Modern Wicker/Rattan Brow"
 seo_title: "International Caravan Bali 42-inch Modern Wicker/R Review"
 meta_description: "Our full international caravan bali 42-inch modern wicker/rattan brow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B077NXHMHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wn5dpnntL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the International Caravan Bali 42-inch papasan chair is a beautiful piece of furniture that will make your living room look like a boutique hotel lobby. But beauty alone doesn't justify $300+, and with a 3.8-star average across 190 ratings, buyers are clearly split. Here's the real story.

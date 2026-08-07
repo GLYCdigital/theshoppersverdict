@@ -1,4 +1,5 @@
 ---
+
 title: "Floor to Ceiling Cat Tree Height (50-120 in) Adjustable Cat"
 seo_title: "Floor to Ceiling Cat Tree Review: Adjustable 50-120in Tower"
 meta_description: "Our honest floor to ceiling cat tree review: adjustable 50-120in tower with 4.5 stars. Is this space-saving climber worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQJBGGSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E+MrHcO9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 50-120 inch adjustment range fits low basements and vaulted ceilings without cutting or shimming"
   - "Spring-loaded tension pole holds firm — multiple buyers report zero wobble even with 15lb+ cats launching off the top perch"
   - "Replaceable sisal posts wrapped densely enough to survive daily scratching for 6+ months"
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes — the tension mechanism is finicky to dial in perfectly"
   - "Carpeted platforms shed fibers for the first few weeks; vacuum frequently or your baseboards will wear it"
+
 ---
 
 If your cat treats your curtains like a jungle gym, you've probably considered a ceiling-mounted cat tree. The problem? Most max out around 72 inches, leaving tall rooms wasted and short rooms awkward. This adjustable floor-to-ceiling tower solves that with a genuine 50–120 inch range — and after digging through 225 ratings and the mechanics, here's the real story.

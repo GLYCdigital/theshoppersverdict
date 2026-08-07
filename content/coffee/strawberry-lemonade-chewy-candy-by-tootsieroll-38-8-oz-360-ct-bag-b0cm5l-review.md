@@ -1,4 +1,5 @@
 ---
+
 title: "Strawberry Lemonade Chewy Candy by TootsieRoll (38.8 oz. / 3"
 seo_title: "Strawberry Lemonade Chewy Candy by TootsieRoll (38 Review"
 meta_description: "Our full strawberry lemonade chewy candy by tootsieroll (38.8 oz. / 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CM5L2ZWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712yKZsqphL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tootsie Roll Strawberry Lemonade Chewy Candy: The 360-Count Bag That Delivers Exactly What It Promises

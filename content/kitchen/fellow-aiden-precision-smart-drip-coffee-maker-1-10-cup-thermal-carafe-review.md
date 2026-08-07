@@ -1,15 +1,16 @@
 ---
+
 title: "Fellow Aiden Precision Smart Drip Coffee Maker, 1-10 Cup, Thermal Carafe | Cold Brew Preset, App-Enabled Scheduling, Custom Brew Profiles, Bloom Cycle, Single Serve to Full Pot Brewing"
 seo_title: "Fellow Aiden Precision Review: Verdict (3.9/5) | TSV"
 meta_description: "In addition to the other features that make the Aiden great (stylish looks on 949+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "fellow-aiden-precision-smart-drip-coffee-maker-1-10-cup-thermal-carafe-review"
 image_alt: "Fellow Aiden Precision Smart Drip Coffee Maker, 1-10 Cup, Thermal Carafe | Cold Brew Preset, App-Enabled Scheduling, Cus"
-keywords:
+keywords: 
   - "fellow aiden precision review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 3.7
-faq:
+faq: 
   - question: "What do buyers like most about the Fellow Aiden Precision Smart?"
     answer: "In addition to the other features that make the Aiden great (stylish looks on the counter, extremely well... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Fellow Aiden Precision Smart?"
@@ -22,12 +23,13 @@ review_count: 949
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D8HVBVS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+1vcgK4oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "In addition to the other features that make the Aiden great (stylish looks on the counter."
   - "And AeroPress wasn’t very efficient with its “cup at a time” brewing method when I wanted more than."
   - "Together, we love that it gives us great quality coffee."
-cons:
+cons: 
   - "That or I want them to take the brewer back because it's apparently defective."
+
 ---
 
 **Price check:** $18.99? That's the price of the box. This is a $365 coffee maker. If you're seeing this listing at under $20, it's either a pricing error or a scam listing. Let me be clear about that upfront — the Fellow Aiden retails for over $300, and anyone listing it at $18.99 is not selling you a real product. Buy from the official Amazon listing linked below.

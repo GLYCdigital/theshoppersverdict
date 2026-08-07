@@ -1,4 +1,5 @@
 ---
+
 title: "SQKH 6 inch and 4inch 6 Piece Plastic Pot"
 seo_title: "SQKH 6 inch and 4inch 6 Piece Plastic Pot Review: Verdict"
 meta_description: "Our full sqkh 6 inch and 4inch 6 piece plastic pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSPVMCD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710wXKh7qIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You'd think a set of plastic pots would be the most boring purchase in the gardening aisle. And yet, here we are, with 229 Amazon shoppers averaging 4.6 stars on the SQKH 6-piece set. That kind of consensus doesn't happen by accident. After digging through the specs and customer feedback, I can tell you exactly why these pots are quietly selling so well — and where they might disappoint you.

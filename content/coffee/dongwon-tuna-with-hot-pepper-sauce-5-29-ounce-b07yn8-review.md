@@ -1,4 +1,5 @@
 ---
+
 title: "Dongwon, Tuna With Hot Pepper Sauce, 5.29 Ounce"
 seo_title: "Dongwon Tuna With Hot Pepper Sauce Review: Spicy Canned Fish"
 meta_description: "Dongwon Tuna with Hot Pepper Sauce review: Is this spicy canned tuna worth it? We break down flavor, heat level, and best uses for this 4.4-star pantry staple."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07YN87QK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rKc4ft4vL._SL1215_.jpg"
-pros:
+pros: 
   - "Genuinely spicy, gochujang-style sauce that isn't watery — it clings to the tuna rather than pooling at the bottom of the can"
   - "High protein to fat ratio (roughly 13g protein per half-can) makes it a solid low-effort meal component"
   - "Pull-tab lid requires no can opener, which matters when you're eating this straight from the can at a desk or campsite"
-cons:
+cons: 
   - "Heat level is moderate at best — self-described 'hot pepper' fans may find it more savory than fiery"
   - "Strong fish-forward aroma that lingers; not ideal for close-quarters offices or shared breakrooms"
   - "Single 5.29-ounce can is a snack portion, not a meal — you'll need rice or bread to make it satisfying"
+
 ---
 
 **The spicy canned tuna that actually delivers on its name — and then some**

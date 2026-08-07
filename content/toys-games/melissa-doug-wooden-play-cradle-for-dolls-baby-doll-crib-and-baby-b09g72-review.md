@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Wooden Play Cradle for Dolls - Baby Doll Crib"
 seo_title: "Melissa & Doug Wooden Play Cradle for Dolls - Baby Review"
 meta_description: "Our full melissa & doug wooden play cradle for dolls - baby doll crib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09G728TRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bw08vI0DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some toys are destined for the donation pile within a month. The Melissa & Doug Wooden Play Cradle is not one of them. After 235 Amazon ratings averaging 4.7 stars, this doll crib has earned a reputation as the rare wooden toy that actually holds up to daily play. Here's the honest breakdown before you hit add-to-cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "ELF bronzer powder matte"
 seo_title: "ELF Bronzer Powder Matte Review: Honest 2026 Verdict"
 meta_description: "Read our honest ELF bronzer powder matte review. See how it performs, swatches, and whether it's worth your money in 2026."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4J1C2WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cZzzX++aL._SL1500_.jpg"
-pros:
+pros: 
   - "Buttery-smooth pressed powder that blends effortlessly without patchiness, even over bare skin"
   - "True matte finish with zero shimmer — reads as natural sun-kissed warmth, not glitter"
   - "Buildable pigment from sheer to full in two layers; forgiving for makeup beginners"
-cons:
+cons: 
   - "Shade range is limited to four options, which may exclude deeper skin tones"
   - "Compact packaging is lightweight plastic that can crack if dropped"
+
 ---
 
 Let's be direct: finding a genuinely matte bronzer that doesn't turn orange or chalky is harder than it should be. The ELF Bronzer Powder Matte sits in that rare sweet spot — affordable, reliable, and actually matte. With 225 ratings averaging 4.5 stars, it's not just another drugstore throwaway. Here's what you're actually getting.

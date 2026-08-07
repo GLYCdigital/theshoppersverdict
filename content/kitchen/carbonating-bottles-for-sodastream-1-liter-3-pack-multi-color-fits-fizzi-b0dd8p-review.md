@@ -1,4 +1,5 @@
 ---
+
 title: "Carbonating Bottles for SodaStream, 1 Liter, 3-Pack, Multi C"
 seo_title: "SodaStream 1L Carbonating Bottles Review: 3-Pack Value"
 meta_description: "SodaStream 1L carbonating bottles 3-pack review: durable, leak-resistant, but watch the caps. Honest verdict on value, fit, and real-world use."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DD8PHKPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718um0AW8qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM fit for Fizzi, Terra, and Duo models — no adapter hunting or wobble on the carbonating bayonet"
   - "True 1L capacity with clear, mold-injected fill lines that don't fade or scratch off in the dishwasher"
   - "3-pack pricing lands well under buying single bottles at retail — genuine cost savings for daily sparkler users"
-cons:
+cons: 
   - "Caps are not dishwasher safe — hand-wash only, or the rubber gasket degrades and starts leaking CO2 during carbonation"
   - "Thinner wall plastic than the older white SodaStream bottles; feels less substantial, though no burst reports yet"
+
 ---
 
 Look, you already own a SodaStream. You know the bottles are the bottleneck — literally. The stock bottle that came with your Fizzi is fine until you want to carbonate a second flavor or keep a liter chilled in the fridge. That's where this 3-pack of 1-liter bottles steps in. The question isn't whether you need more bottles. It's whether **these** bottles are worth your money.

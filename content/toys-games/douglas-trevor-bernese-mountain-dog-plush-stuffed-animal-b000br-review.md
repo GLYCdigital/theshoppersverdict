@@ -1,4 +1,5 @@
 ---
+
 title: "Douglas Trevor Bernese Mountain Dog Plush Stuffed Animal"
 seo_title: "Douglas Trevor Bernese Mountain Dog Plush Review (2026)"
 meta_description: "Douglas Trevor Bernese Mountain Dog plush review: Is this 16-inch stuffed animal worth $30? Real buyer feedback, sizing, softness, and durability tested."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000BRNQE4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614kAC5yYlL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, dense plush that holds its shape after months of hugging — not the flimsy stuffing most mass-market plush toys use"
   - "Remarkably realistic Bernese Mountain Dog coloring and proportions; the black/tan/white tri-color pattern is accurate to the breed standard"
   - "Sturdy construction with reinforced stitching on ears and legs that survives aggressive toddler play"
-cons:
+cons: 
   - "Priced higher than comparable 16-inch plush toys; you're paying for Douglas's quality, not getting a budget deal"
   - "Eyes are plastic and could be a choking hazard for children under 3 — this is not a baby toy"
   - "No weighted beans in the paws, so it won't stay sitting upright on its own for display purposes"
+
 ---
 
 **This is the stuffed animal that actually looks like a Bernese Mountain Dog — not a generic "brown dog with white spots."**

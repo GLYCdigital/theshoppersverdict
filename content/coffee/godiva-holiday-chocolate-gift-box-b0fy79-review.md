@@ -1,4 +1,5 @@
 ---
+
 title: "Godiva Holiday Chocolate Gift Box"
 seo_title: "Godiva Holiday Chocolate Gift Box Review: Verdict | TSV"
 meta_description: "Our full godiva holiday chocolate gift box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY79W7YC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c69Zj6BeL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I'm a coffee guy, and I've reviewed more bean grinders than gift boxes. But when a holiday chocolate box shows up with 225 ratings at 4.5 stars, it earns a closer look — especially if you're considering it for a hostess gift, a coworker exchange, or that person who already has everything.

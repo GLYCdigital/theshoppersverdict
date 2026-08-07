@@ -1,4 +1,5 @@
 ---
+
 title: "20PCS Mini Chalkboard Signs for Food, Reusable and Reserved"
 seo_title: "20PCS Mini Chalkboard Signs Review: Reusable Table Tents"
 meta_description: "Honest review of the 20PCS mini chalkboard signs for food. Tested durability, chalk quality & value. See if these reusable table tents fit your needs."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTB8M1H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613wFNGT+kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely reusable — chalk wipes off cleanly with a dry cloth, no ghosting or permanent marks after weeks of use"
   - "Sturdy wooden stands with a wide base that don't tip over, even in a light breeze outdoors or on a wobbly buffet table"
   - Three different sizes in one pack (roughly 5.9 inch " x 3.9 inch ", 5.5 inch " x 3.5 inch ", and 4.7 inch " x 3.1 inch ") give you flexibility for everything from a full menu to a tiny "reserved" tag
-cons:
+cons: 
   - "Chalk included is cheap and crumbly — it writes okay but produces a lot of dust. Budget for better chalk (like Crayola) if you're using these daily"
   - "The black surface is more of a dark gray matte finish; chalk contrast is good but not as crisp as a real slate board"
+
 ---
 
 ## The 20-pack solution for anyone tired of buying single-use signs

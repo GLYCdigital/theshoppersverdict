@@ -1,4 +1,5 @@
 ---
+
 title: "Miken Pro Series Slowpitch Softball Glove, 13 inch, White/Re"
 seo_title: "Miken Pro Series Slowpitch Softball Glove, 13 inch Review"
 meta_description: "Our full miken pro series slowpitch softball glove, 13 inch, white/re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHNWLQG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kxVf3SA1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you play slowpitch, you know the drill: buy a cheap glove, replace it mid-season when the laces give out and the pocket turns into a pancake. The Miken Pro Series 13-inch is the answer to that cycle — but it's not a grab-and-go glove. Here's the real story after digging through 225 ratings and player feedback.

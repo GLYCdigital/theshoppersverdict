@@ -1,4 +1,5 @@
 ---
+
 title: "Impact Collapsible Dog Crate - Foldable Hard Crate for Mediu"
 seo_title: "Impact Collapsible Dog Crate - Foldable Hard Crate Review"
 meta_description: "Our full impact collapsible dog crate - foldable hard crate for mediu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CV65CZPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O7S8i3puL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Problem With Most "Portable" Dog Crates**

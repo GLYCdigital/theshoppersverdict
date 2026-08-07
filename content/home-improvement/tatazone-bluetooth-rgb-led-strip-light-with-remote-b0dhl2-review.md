@@ -1,4 +1,5 @@
 ---
+
 title: "Tatazone Bluetooth RGB LED Strip Light with Remote"
 seo_title: "Tatazone Bluetooth RGB LED Strip Light with Remote Review"
 meta_description: "Our full tatazone bluetooth rgb led strip light with remote review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHL2K6PF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V2lgTcp2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Tatazone Bluetooth RGB LED Strip Light isn't trying to be the smartest light in your house. It's trying to be the easiest, most reliable way to add accent lighting without re-wiring anything. After digging through 220 ratings averaging 4.4 stars, here's what you need to know before you buy.

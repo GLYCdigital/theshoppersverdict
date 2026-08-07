@@ -1,4 +1,5 @@
 ---
+
 title: "Abani Multicolor Southwestern Design Area Rug - Non-Shed Ora"
 seo_title: "Abani Southwestern Area Rug Review: Non-Shed Tribal Design"
 meta_description: "Honest Abani Multicolor Southwestern Area Rug review: non-shed Ora design, durability, color accuracy, and who should buy this 4.5-star tribal rug."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09GKXL5QX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910J7l4oPCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True non-shed construction holds up to daily foot traffic and vacuuming without fiber loss"
   - "Vibrant southwestern pattern reads clearly from across the room — colors are richer in person than on screen"
   - "Low-profile 0.4-inch pile works perfectly under furniture and doorways without buckling"
-cons:
+cons: 
   - "Initial chemical smell lingers 3-5 days even after airing out — sensitive noses should plan ahead"
   - "Thin rubber backing can slide on hardwood; a separate rug pad is strongly recommended"
+
 ---
 
 **Abani Multicolor Southwestern Design Area Rug Review: Does the Non-Shed Ora Pattern Deliver?**

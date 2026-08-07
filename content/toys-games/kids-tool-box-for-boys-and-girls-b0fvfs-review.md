@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Tool Box for Boys and Girls"
 seo_title: "Kids Tool Box for Boys and Girls Review: Verdict | TSV"
 meta_description: "Our full kids tool box for boys and girls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVFSFGMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QY0eVjtNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this toy box worth your money? Here's the real story

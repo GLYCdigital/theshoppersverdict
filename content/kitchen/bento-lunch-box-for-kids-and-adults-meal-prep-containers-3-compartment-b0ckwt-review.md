@@ -1,4 +1,5 @@
 ---
+
 title: "Bento Lunch Box for Kids and Adults - Meal Prep Containers -"
 seo_title: "Bento Lunch Box for Kids and Adults Review (2026): Worth It?"
 meta_description: "Honest Bento Lunch Box for Kids and Adults review: 3-compartment meal prep containers tested for leaks, durability & portion sizes. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKWTGCLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91twx+77gyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three separate compartments actually keep foods from touching — no more soggy sandwiches or juice-soaked fruit"
   - "Leak-resistant lid seals well enough for yogurt or dressing without a separate container"
   - "Dishwasher-safe base survives repeated cycles without warping or staining from tomato-based sauces"
-cons:
+cons: 
   - "Portions run small for big eaters — each compartment holds roughly 1 cup, so athletic adults may need two boxes"
   - "Lid latch requires firm pressure to close fully; kids under 6 might struggle to snap it shut independently"
+
 ---
 
 Let's be honest: most "bento boxes" on Amazon are just repackaged Tupperware with a fancy name. This one, however, actually understands the assignment. With a 4.7-star average across 235 ratings, the Bento Lunch Box for Kids and Adults has earned its place in the meal-prep rotation — but it's not without quirks worth knowing before you buy.

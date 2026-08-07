@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings Haze Fastpitch Softball Bat | -13 Drop | Approved f"
 seo_title: "Rawlings Haze Fastpitch Softball Bat | -13 Drop |  Review"
 meta_description: "Our full rawlings haze fastpitch softball bat | -13 drop | approved f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCC38V8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PPeTEYTkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Rawlings Haze is a solid entry-level fastpitch bat that does exactly what it promises — no more, no less.** For a young player stepping into the batter's box for the first time, the -13 drop makes this thing swing like a toothpick, and that's precisely the point. But if you're shopping for a high school slugger, keep scrolling.

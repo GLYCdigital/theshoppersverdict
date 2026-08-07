@@ -1,4 +1,5 @@
 ---
+
 title: "Dungeons & Dragons Rules Expansion Gift Set (D&D Books)-: Ta"
 seo_title: "D&D Rules Expansion Gift Set Review: Worth It? (2026)"
 meta_description: "D&D Rules Expansion Gift Set review: Tasha's Cauldron, Xanathar's Guide & more. Is this 3-book bundle worth your money? Find out here."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/0786967374/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812YLv9290L._SL1500_.jpg"
-pros:
+pros: 
   - "Three full hardcover expansions (Tasha's, Xanathar's, and the Dungeon Master's Guide) at a bundle discount vs. buying separately"
   - "Tasha's Cauldron alone adds 30+ new subclass options plus the optional class feature variants that dramatically expand character builds"
   - "Premium construction — foil-stamped covers, ribbon bookmarks, and thick, lay-flat binding that survives years of table use"
-cons:
+cons: 
   - "No slipcase or storage box — the three books ship as loose hardcovers, so they'll get scuffed in transit if you don't buy a protector"
   - "Xanathar's Guide is now dated — its subclasses are largely reprinted or superseded by Tasha's and later splatbooks"
   - "If you already own the 2014 Dungeon Master's Guide, the third book is redundant unless you're buying this as a gift for a new DM"
+
 ---
 
 If you're staring at this bundle wondering whether three D&D hardcovers are worth the asking price, the short answer is yes — with one caveat about who you are as a player. This is the "essential expansions" starter pack for anyone who's moved past the core three rulebooks and wants actual character-building depth.

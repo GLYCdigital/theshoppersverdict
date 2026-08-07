@@ -1,4 +1,5 @@
 ---
+
 title: "Gednbo Bathroom Vanity Light with Clear Glass Shade, E26 Bas"
 seo_title: "Gednbo Bathroom Vanity Light Review: Honest 2026 Verdict"
 meta_description: "Gednbo bathroom vanity light with clear glass shade reviewed: build quality, E26 bulb compatibility, installation ease, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHJ5GSXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EQpio0pVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clear glass shades maximize light output without harsh glare, unlike frosted or opal options"
   - "Standard E26 base accepts any bulb — dimmable LED, smart bulbs, or vintage filament styles"
   - "Solid metal construction with a clean, modern finish that resists fingerprints and moisture"
-cons:
+cons: 
   - "Requires a 4-inch round junction box; 3-inch boxes won't fit without an adapter"
   - "Glass shades arrive separate — handle carefully, and buy extra bulbs if you want matching color temperature"
   - "No LED bulbs included, so factor in upfront cost for quality A19 or globe bulbs"
+
 ---
 
 If you're renovating a bathroom, you already know the vanity light is the unsung hero of the space. It's the difference between a shadowed face and a clean, even glow for your morning routine. The Gednbo Bathroom Vanity Light with Clear Glass Shade aims to deliver that without the boutique price tag. After digging through 220 Amazon ratings and the spec sheet, here's the honest breakdown.

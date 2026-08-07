@@ -1,4 +1,5 @@
 ---
+
 title: "Lord Eagle Hand Mixer Electric Handheld 400W, 5-Speed Lightw"
 seo_title: "Lord Eagle Hand Mixer Electric Handheld 400W, 5-Sp Review"
 meta_description: "Our full lord eagle hand mixer electric handheld 400w, 5-speed lightw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVNH62G3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GWOhrdP5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lord Eagle 400W Hand Mixer sits in a crowded field of budget-friendly electric mixers, but it earns its place with a surprisingly strong motor and a weight that won't fatigue your wrist mid-batch. At 4.3 stars from 215 ratings, it's not a perfect product — but for most home bakers, it's more than enough.

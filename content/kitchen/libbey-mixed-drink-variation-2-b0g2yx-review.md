@@ -1,4 +1,5 @@
 ---
+
 title: "Libbey Mixed Drink Variation 2"
 seo_title: "Libbey Mixed Drink Variation 2 Review: Verdict | TSV"
 meta_description: "Our full libbey mixed drink variation 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2YX19NC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ClN8xtjOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most bar glasses are interchangeable cylinders of glass. The Libbey Mixed Drink Variation 2 set isn't revolutionary, but it doesn't need to be. What it does well — durability, balance, and everyday practicality — matters more than flashy design when you're pouring nightly cocktails.

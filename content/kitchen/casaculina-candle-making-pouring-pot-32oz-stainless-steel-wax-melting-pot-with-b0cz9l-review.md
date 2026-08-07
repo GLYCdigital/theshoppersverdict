@@ -1,23 +1,25 @@
 ---
+
 title: "CasaCulina Candle Making Pouring Pot, 32oz Stainless Steel W"
 seo_title: "CasaCulina 32oz Pouring Pot Review: Best for Candle Making"
 meta_description: "Honest CasaCulina 32oz stainless steel pouring pot review. Tested for wax melting, spout precision, and heat control. See pros, cons, and who should buy."
 slug: "casaculina-candle-making-pouring-pot-32oz-stainless-steel-wax-melting-pot-with-b0cz9l-review"
 image_alt: "CasaCulina 32oz stainless steel candle making pouring pot with spout and handle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZ9LR46C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aegna-wIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Precision spout pours without drips or wax trails"  
   - "Sturdy 1mm stainless steel heats evenly and resists warping"  
   - "Cool-touch handle stays comfortable through multiple melts"  
-cons:  
+cons: 
   - "No pouring lip guard — slight overflow risk if overfilled"  
   - "Handle rivets can loosen with heavy daily use"
+
 ---
 
 **The CasaCulina 32oz Pouring Pot: The Workhorse Your Candle Hobby Has Been Missing**  

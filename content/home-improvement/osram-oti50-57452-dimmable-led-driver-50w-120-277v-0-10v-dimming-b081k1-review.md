@@ -1,4 +1,5 @@
 ---
+
 title: "Osram OTi50 57452 Dimmable LED Driver 50W 120/277V 0-10V Dim"
 seo_title: "Osram OTi50 57452 Dimmable LED Driver 50W 120/277V Review"
 meta_description: "Our full osram oti50 57452 dimmable led driver 50w 120/277v 0-10v dim review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B081K11XFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AlwjdR0VL._SL1024_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The quiet workhorse of commercial lighting retrofits

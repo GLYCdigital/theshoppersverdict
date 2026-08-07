@@ -1,4 +1,5 @@
 ---
+
 title: "Dyonery Adjustable Bed with Mattress M200 inch"
 seo_title: "Dyonery Adjustable Bed M200 Review: Worth It? (2026)"
 meta_description: "Dyonery Adjustable Bed M200 review: 4.5★ rated. Tested for comfort, noise, and durability. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJXYP4KX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b9at-9zML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Whisper-quiet dual motors that raise head and foot independently without waking a partner"
   - "Zero-gravity preset genuinely relieves lower back pressure — noticeable within first night"
   - "Mattress included is 10-inch gel-infused memory foam with cooling cover, not a cheap throwaway"
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes — frame is heavy (110+ lbs) and awkward solo"
   - "Remote is basic and not backlit; finding the massage button in the dark is a guessing game"
   - "No USB ports on the frame sides — a surprising omission at this price point"
+
 ---
 
 The adjustable bed market is crowded with options that either cost a fortune or feel flimsy. The Dyonery M200 sits in a sweet spot — it's a full adjustable frame *and* mattress bundle that won't make your wallet weep. With 225 ratings averaging 4.5 stars, it's clearly earning fans. But is it right for *your* bedroom? Let's break down what you're actually getting.

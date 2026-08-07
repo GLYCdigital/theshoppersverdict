@@ -1,4 +1,5 @@
 ---
+
 title: "Armacost Lighting PureVue Dimmable LED Puck Light"
 seo_title: "Armacost PureVue Dimmable LED Puck Light Review (2026)"
 meta_description: "Armacost PureVue dimmable LED puck light review: 4.5-star rated, ultra-thin design, smooth dimming. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1H5CDL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51A3SumZ4xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 0-10V dimming down to 5% with no flicker or buzz, even at low levels"
   - "Ultra-thin 0.5-inch profile with recessed LEDs that eliminate hot spots and harsh shadows"
   - "Daisy-chainable up to 12 fixtures with integrated connectors — no junction boxes needed"
-cons:
+cons: 
   - "Requires a separate 24V driver/power supply (sold separately), adding to total cost"
   - "CCT is fixed at 3000K — no color temperature switching for those who prefer cooler light"
+
 ---
 
 I've installed a lot of under-cabinet lighting over the years, and most puck lights fall into two camps: cheapo battery-powered units that die in six months, or expensive architectural fixtures that require an electrician. The Armacost PureVue sits in a third category — a pro-grade puck light at a price that won't make you wince. Here's the honest breakdown after putting it through its paces.

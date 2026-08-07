@@ -1,4 +1,5 @@
 ---
+
 title: "One Piece Card Game Extra Booster Anime 25th Collection EB-0"
 seo_title: "One Piece Card Game Extra Booster Anime 25th Colle Review"
 meta_description: "Our full one piece card game extra booster anime 25th collection eb-0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJQJTSSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qmIv99tiL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The One Piece Card Game Extra Booster Anime 25th Collection EB-0 isn't a typical booster. It's a love letter to the anime's 25-year history — and a calculated move by Bandai to keep the competitive scene affordable.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Nexxus Color Assure Shampoo and Conditioner for Color-Treate"
 seo_title: "Nexxus Color Assure Shampoo and Conditioner for Co Review"
 meta_description: "Our full nexxus color assure shampoo and conditioner for color-treate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BB3J4CTQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ewwmJ3s4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is Nexxus Color Assure worth your money, or is it just another pretty bottle promising color protection? With 225 ratings averaging 4.5 stars, this system has a loyal following. But here's what the reviews don't tell you upfront: this is a protein-forward formula, not a color-depositing one. That distinction matters.

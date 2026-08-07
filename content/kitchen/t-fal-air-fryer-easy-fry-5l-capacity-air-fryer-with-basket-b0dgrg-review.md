@@ -1,4 +1,5 @@
 ---
+
 title: "T-fal, Air Fryer, Easy Fry 5L Capacity Air fryer with basket"
 seo_title: "T-fal, Air Fryer, Easy Fry 5L Capacity Air fryer w Review"
 meta_description: "Our full t-fal, air fryer, easy fry 5l capacity air fryer with basket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGRGMPJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zABhMtcYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at air fryers with more buttons than a spaceship cockpit, the T-fal Easy Fry 5L is the anti-tech answer. It's a basket-style fryer that just works — no app, no presets you'll never use, no touchscreen that smudges. But simplicity isn't the only story here. With 229 ratings averaging 4.6 stars, this French brand's offering has real traction. Let's break down whether it earns a spot on your counter.

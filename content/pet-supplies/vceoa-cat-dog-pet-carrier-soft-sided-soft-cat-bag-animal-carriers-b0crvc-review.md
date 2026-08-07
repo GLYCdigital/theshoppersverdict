@@ -1,4 +1,5 @@
 ---
+
 title: "Vceoa Cat, Dog Pet Carrier Soft-Sided, Soft Cat Bag Animal C"
 seo_title: "Vceoa Cat, Dog Pet Carrier Soft-Sided, Soft Cat Ba Review"
 meta_description: "Our full vceoa cat, dog pet carrier soft-sided, soft cat bag animal c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRVCZV2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612Kkc5U+nL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ---

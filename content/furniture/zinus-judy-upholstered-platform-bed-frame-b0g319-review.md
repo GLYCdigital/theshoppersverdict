@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Judy Upholstered Platform Bed Frame"
 seo_title: "Zinus Judy Upholstered Platform Bed Frame Review: Verdict"
 meta_description: "Our full zinus judy upholstered platform bed frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G3192TBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AMtIaCTqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Zinus Judy is the bed frame that quietly does everything right — unless you're tall, in which case it might be too low for comfort.**

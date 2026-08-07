@@ -1,4 +1,5 @@
 ---
+
 title: "DEKOPRO 20V Power Drill Tool Set with Battery Electric Drill"
 seo_title: "DEKOPRO 20V Drill Set Review: 225 Ratings, 4.5 Stars"
 meta_description: "Honest DEKOPRO 20V drill set review: 225 Amazon ratings, 4.5 stars. Tested performance, battery life, included accessories, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4D4JC53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wr+KPFWtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Variable speed trigger with 18+1 clutch settings gives precise control from delicate pilot holes to high-torque driving"
   - "Includes 26-piece accessory kit plus two batteries — ready to work straight out of the box"
   - "LED work light positioned at the base of the chuck actually illuminates the work area without casting shadows"
-cons:
+cons: 
   - "Charger is slow — expect 60-90 minutes for a full charge, not ideal for continuous heavy use"
   - "Keyless chuck can slip on very small hex bits under heavy load; snug it down properly"
+
 ---
 
 **The DEKOPRO 20V Drill Set: More Than Just a Starter Kit**

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Series JRL Onyx Professional Hair Finishing Trimmer,"
 seo_title: "JRL Onyx Finishing Trimmer Review: Worth It? (2026)"
 meta_description: "JRL Onyx cordless T-blade trimmer review: 4.7-star rated. Real barber testing on zero-gap, battery life, and fade work. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D95G4RQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MDeUYlY9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero-gap adjustable blade out of the box — no shaking or vibration even at full power"
   - "80-minute runtime on a 90-minute charge, with USB-C fast charging that hits 80% in 45 minutes"
   - "Weighs just 4.2 oz — noticeably lighter than the Wahl Detailer, reduces hand fatigue on long sessions"
-cons:
+cons: 
   - "Blade runs warm after 20+ minutes of continuous use — not hot, but noticeable on sensitive skin"
   - "No charging stand included at this price point; you get a USB-C cable and a basic loop for hanging"
+
 ---
 
 ## The Finishing Trimmer That Makes Barbers Rethink Their Kit

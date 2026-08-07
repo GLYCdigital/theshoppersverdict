@@ -1,4 +1,5 @@
 ---
+
 title: "SKITTLES Original Chewy Candy Rainbow"
 seo_title: "SKITTLES Original Chewy Candy Rainbow Review: Verdict | T"
 meta_description: "Our full skittles original chewy candy rainbow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GVHBLJ3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QZwBn4zaL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: when you order a bag of Skittles on Amazon, you're not solving a problem. You're feeding a craving. And the Original Chewy version — a spin on the classic that swaps the hard shell for a soft, gummy-like texture — has earned its 4.8-star rating from 240+ buyers for one simple reason: it fixes the original's biggest flaw.

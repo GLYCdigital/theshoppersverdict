@@ -1,4 +1,5 @@
 ---
+
 title: "ATIE Collapsible/Retractable Mini 1 inch  Chlorine/Bromine Tablet"
 seo_title: "ATIE Mini Chlorine Dispenser Review: Is It Worth It?"
 meta_description: "Honest ATIE collapsible chlorine tablet dispenser review: build quality, real-world performance for small pools & spas, plus who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B007NQTY5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513-QaZ8nPL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Collapsible design stores flat — takes up barely any shelf space between uses"
   - "Retractable cord lets you adjust depth precisely for 1-inch tablets"
   - "Built-in thermometer gives a quick chlorine efficacy check"
-cons:
+cons: 
   - "Small capacity — holds only one 1-inch tablet, so high-use pools need daily refills"
   - "Thin plastic feels less durable than rigid competitors; handle with care when tightening"
+
 ---
 
 The ATIE Collapsible Mini 1" Chlorine/Bromine Tablet Dispenser is one of those niche products that solves a genuinely annoying problem: how do you keep a small inflatable pool, kiddie pool, or spa properly chlorinated without buying a full-size floating feeder that dwarfs the water volume? 

@@ -1,4 +1,5 @@
 ---
+
 title: "Chuckit! Outdoor Travel Portable Water Resistant Travel Pill"
 seo_title: "Chuckit! Travel Pill Review: Water-Resistant Dog Bed for Outdoors"
 meta_description: "Read our honest Chuckit! Outdoor Travel Pill review. Is this water-resistant portable dog bed worth it for camping, hiking & car trips? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00027466A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/4109ZxzH3pL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Water-resistant ripstop shell sheds mud, rain, and spills without absorbing moisture"
   - "Packable design folds into its own integrated pocket with a carry handle"
   - "Machine washable — spot-clean or toss the whole thing in the washer"
-cons:
+cons: 
   - "Not a plush cushioned bed — it's a pad, so elderly or arthritic dogs may want more padding underneath"
   - "No built-in anchor or stake loops, so it can slide on slick surfaces or get kicked around by an energetic sleeper"
+
 ---
 
 Let's be honest about what this isn't first: the Chuckit! Outdoor Travel Pill is not a memory foam mattress for your pampered pup. It's a rugged, packable pad designed for one specific job — giving your dog a clean, dry place to crash when you're both away from home. And for that job, it's genuinely excellent.

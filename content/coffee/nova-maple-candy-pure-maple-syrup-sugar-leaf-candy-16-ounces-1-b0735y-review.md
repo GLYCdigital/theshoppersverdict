@@ -1,4 +1,5 @@
 ---
+
 title: "Nova Maple Candy - Pure Maple Syrup Sugar Leaf Candy (16 Oun"
 seo_title: "Nova Maple Candy - Pure Maple Syrup Sugar Leaf Can Review"
 meta_description: "Our full nova maple candy - pure maple syrup sugar leaf candy (16 oun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0735YQ6YH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A7KvsVlXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Nova Maple Candy - Pure Maple Syrup Sugar Leaf Candy (16 Oun"
 seo_title: "Nova Maple Candy Review: Pure Maple Leaf Candy (2026)"

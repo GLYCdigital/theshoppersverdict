@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf CB Wedge"
 seo_title: "Callaway Golf CB Wedge Review: Real Feel, Reliable Spin (2026)"
 meta_description: "Callaway Golf CB Wedge review: 4.8/5 stars. Tested for spin, feel, and forgiveness. See who should buy it and who should look elsewhere."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNKQZMBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UDnK60hWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cavity-back design forgives mis-hits noticeably — high-toe shots still hold greens"
   - "Milled grooves bite hard on approach shots; consistent spin even from light rough"
   - "Versatile sole grind works from tight fairway lies, bunkers, and knee-high rough"
-cons:
+cons: 
   - "Oversized head shape sits slightly behind the ball at address — blade purists may not like it"
   - "Stock grip is slick for sweaty hands; plan on replacing it early"
+
 ---
 
 Most wedge reviews read like marketing brochures. Let’s skip that. The Callaway CB Wedge is a 4.8-star product on Amazon with 240 ratings — that’s a statistically meaningful sample. I’ve tested it against the big names (Vokey, Cleveland, Ping) to see if the hype holds. Here’s what actually matters.

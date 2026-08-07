@@ -1,4 +1,5 @@
 ---
+
 title: "Dell WD22TB4 Thunderbolt 4 Dock 2 Thunderbolt 4 Ports Gigabi"
 seo_title: "Dell WD22TB4 Thunderbolt 4 Dock Review: Pros, Cons & Verdict"
 meta_description: "Dell WD22TB4 Thunderbolt 4 Dock review: 2 TB4 ports, 130W power, dual 4K support. Real pros, cons, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0B57LXYHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41TfyCoNXsL._AC_SL1247_.jpg"
-pros:
+pros: 
   - "130W power delivery — charges even power-hungry 16-inch workstations like the XPS 17 or Precision 5570 at full speed"
   - "Two downstream Thunderbolt 4 ports let you daisy-chain up to five additional TB4 devices without degrading bandwidth"
   - "Dual 4K@60Hz display output via DisplayPort Alt Mode — crisp, flicker-free extended desktop for productivity workflows"
-cons:
+cons: 
   - "Runs noticeably warm under sustained load; the aluminum chassis doubles as a heat sink, so it gets hot to the touch"
   - "No HDMI or DisplayPort outputs built-in — you're locked into USB-C to HDMI/DP cables or TB4 monitors, adding dongle costs"
   - "Firmware update process requires Dell Command Monitor — clunky and Windows-only, frustrating for macOS users on the same dock"
+
 ---
 
 ## This Dock Solves a Real Problem — If You Have the Right Laptop

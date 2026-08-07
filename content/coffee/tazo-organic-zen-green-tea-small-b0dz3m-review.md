@@ -1,4 +1,5 @@
 ---
+
 title: "TAZO Organic Zen Green Tea Small"
 seo_title: "TAZO Organic Zen Green Tea Small Review: Verdict | TSV"
 meta_description: "Our full tazo organic zen green tea small review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ3M3NFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hTOwobeDL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the name TAZO on every grocery store shelf. The question is whether the Organic Zen blend lives up to the brand's reputation — or if you're paying for a label. Here's the honest breakdown.

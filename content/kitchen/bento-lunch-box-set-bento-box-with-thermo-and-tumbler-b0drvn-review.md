@@ -1,4 +1,5 @@
 ---
+
 title: "bento lunch box set bento box with thermo and tumbler"
 seo_title: "Bento Lunch Box Set with Thermo & Tumbler Review (2026)"
 meta_description: "Honest review of the bento lunch box set with thermo and tumbler. 4.4 stars from 220 buyers. Is the 3-in-1 lunch system worth it? Read before buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRVNZW7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GOgNDK-+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Matching 3-piece system — main bento, insulated thermos jar, and tumbler — covers every meal component without buying separate pieces"
   - "Leak-resistant lids on all containers; multiple buyers confirm tossing it in a backpack without leakage"
   - "Thermo jar actually holds heat — soups and pasta stay hot 4-5 hours per verified buyer reports"
-cons:
+cons: 
   - "Bento main compartment is small — roughly 3 cups total; heavy eaters or meal-preppers will find it tight"
   - "No separate utensils included, despite the tumbler having a built-in straw that's awkward for hot drinks"
+
 ---
 
 ## The "Everything Kit" Lunch Solution — But Is It Enough?

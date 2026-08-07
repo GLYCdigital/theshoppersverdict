@@ -1,24 +1,26 @@
 ---
+
 title: "Camila Paris Camila Paris CP3100 French Large Banana Clip Ha"
 seo_title: "Camila Paris CP3100 Banana Clip Review: Luxury Hair Comb"
 meta_description: "Camila Paris CP3100 French banana clip review: elegant design, sturdy grip, but sizing surprises. See pros, cons, and who should buy."
 slug: "camila-paris-camila-paris-cp3100-french-large-banana-clip-hair-comb-gray-b0f5j1-review"
 image_alt: "Camila Paris CP3100 French large banana clip hair comb in gray, shown with glossy finish and curved teeth"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 185  
-amazon_rating: 3.7  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 185
+amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F5J1YJJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Dwl3ZKa8L._SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine French craftsmanship with a glossy, jewelry-like finish that elevates any outfit"  
   - "Strong spring mechanism holds thick or heavy hair securely for hours without slipping"  
   - "Comfortable, snag-free teeth that glide through hair without pulling or breaking strands"  
-cons:  
+cons: 
   - "Despite 'Large' in the name, it runs small — fails to secure very thick or long hair in one pass"  
   - "Smooth surface can slide out of fine or silky hair, especially during movement"  
   - "Price point feels steep for a plastic comb; no case or pouch included for storage"
+
 ---
 
 If you're shopping for a hair accessory that pulls double duty as a sculptural statement piece, the Camila Paris CP3100 French Large Banana Clip looks like the answer. The glossy gray finish catches light like polished stone, and the curved silhouette reads more "Parisian atelier" than "drugstore hair claw." But before you hit buy, know this: the "Large" in the name is doing a lot of heavy lifting—and not always accurately.

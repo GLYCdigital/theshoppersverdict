@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Dome Tent, Outdoor TPU Greenhouse, Greenhouse Garden"
 seo_title: "Garden Dome Tent Review: TPU Greenhouse Worth It? (2026)"
 meta_description: "Honest Garden Dome Tent review: TPU greenhouse with window. Real pros, cons, and buyer feedback. See if this 3.2-star dome suits your garden."
@@ -11,15 +12,16 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0G4457KCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kMvM4ZrTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine TPU panels hold up in direct sun without yellowing or becoming brittle — a real upgrade over cheap PVC domes"
   - "Sturdy steel frame with cross-bracing handles moderate wind gusts when properly staked; survives spring storms better than pop-up alternatives"
   - "Roll-up window provides actual cross-ventilation, dropping interior temps by 8–10°F on sunny afternoons"
-cons:
+cons: 
   - "Assembly requires two people and roughly 45 minutes; frame poles are unlabeled and the instructions are mostly diagrams"
   - "Zipper quality is the weak point — several buyers report jams within 2–3 months of daily use"
   - "Not truly winter-rated despite marketing photos; TPU stiffens below 40°F and the cover can crack if flexed while cold"
   - "Base is open — no floor or skirt seal, so slugs, ants, and cold drafts get in from underneath"
+
 ---
 
 **The Garden Dome Tent looks like a greenhouse straight out of a Pinterest board — a clear geodesic bubble that promises to extend your growing season without building a permanent structure. But at 3.2 stars across 160 ratings, the reality is more complicated. Here's what you need to know before spending your money.**

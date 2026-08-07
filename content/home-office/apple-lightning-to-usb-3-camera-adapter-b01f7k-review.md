@@ -1,4 +1,5 @@
 ---
+
 title: "Apple Lightning to USB 3 Camera Adapter"
 seo_title: "Apple Lightning to USB 3 Camera Adapter Review (2026)"
 meta_description: "Apple Lightning to USB 3 Camera Adapter review: fast photo transfer, SD card support, but USB power required. Is it worth $39? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01F7KJDIM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31i8yiw6CbL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Transfers full-resolution photos and 4K video at USB 3 speeds (up to 5 Gbps) — dramatically faster than the older USB 2 version"
   - "Built-in Lightning port lets you charge your iPad or iPhone while transferring, which is essential for long 4K video imports"
   - "Reads SD, SDHC, and SDXC cards directly in addition to USB devices — two workflows in one compact adapter"
-cons:
+cons: 
   - "Requires external USB power for USB 3 speeds and for devices drawing more than 100mA — the cable is included, but it's an extra cable to carry"
   - "Does not work with USB-C devices, so it's useless if you've upgraded to a modern iPad Pro or iPhone 15+"
   - "At roughly $39, it's 3-4x the price of third-party Lightning SD card readers, though Apple's build quality and reliability justify some of that premium"
+
 ---
 
 Let me save you twenty minutes of research: if you're a photographer or videographer still working with a Lightning-equipped iPad or iPhone, this is the adapter you want. If you've already moved to USB-C, stop reading and buy the USB-C version instead.

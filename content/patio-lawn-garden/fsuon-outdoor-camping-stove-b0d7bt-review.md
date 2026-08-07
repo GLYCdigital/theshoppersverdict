@@ -1,4 +1,5 @@
 ---
+
 title: "FSUON Outdoor Camping Stove"
 seo_title: "FSUON Outdoor Camping Stove Review: Honest 2026 Verdict"
 meta_description: "FSUON Outdoor Camping Stove review: 4.4-star rated portable gas burner. Real-world performance, wind resistance, and value tested. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7BTSKLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wCJo02K5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "High-output 10,000 BTU burner boils a liter of water in under 4 minutes, even in breezy conditions"
   - "Detachable 3-piece wind guard folds flat into the carry case — actually works, not just decorative"
   - "Wide 4-inch pot supports accommodate everything from a 12-inch skillet to a backpacker's kettle"
-cons:
+cons: 
   - "Piezoelectric igniter is hit-or-miss; expect to carry a lighter as backup"
   - "No carrying handle on the stove body itself — you'll wait for it to cool before packing up"
   - "Butane canister compatibility varies by region — check your local propane mix before buying"
+
 ---
 
 If you've cooked outdoors more than twice, you know the drill: cheap stoves flame out in a light breeze, take forever to boil, and wobble under anything bigger than a Jetboil. The **FSUON Outdoor Camping Stove** tries to solve all three problems in one compact package. After digging through 220 verified ratings and comparing it against the usual suspects from Coleman and Gas One, here's where it actually lands.

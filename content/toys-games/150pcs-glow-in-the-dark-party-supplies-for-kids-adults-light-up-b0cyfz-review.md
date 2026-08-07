@@ -1,4 +1,5 @@
 ---
+
 title: "150PCS Glow in the Dark Party Supplies for Kids Adults, Ligh"
 seo_title: "150PCS Glow in the Dark Party Supplies Review (2026)"
 meta_description: "Honest review of the 150PCS glow in the dark party supplies for kids & adults. Tested for brightness, durability & value. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYFZRZRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c8VYUGPXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "150 pieces means you can cover a 12-15 person party without rationing — plenty of extras for snapping or trading"
   - "Glow lasts 6-8 hours with a noticeable bright peak in the first hour, then a steady, usable dim phase"
   - "Connectors and clips are sturdier than typical dollar-store sets — they don't crack when bent into bracelets"
-cons:
+cons: 
   - "Glow sticks need direct, bright light to charge fully; indirect room light gives a weaker, shorter glow"
   - "No storage bag included — you'll need your own container for the inevitable leftover pieces"
+
 ---
 
 **Skip the cheap party store grab-bag. This 150-piece glow kit actually delivers on brightness and durability — but it's not perfect.**

@@ -1,4 +1,5 @@
 ---
+
 title: "VCJ Portable Washing Machine, Twin Tub Washing Machine Laund"
 seo_title: "VCJ Portable Washing Machine, Twin Tub Washing Mac Review"
 meta_description: "Our full vcj portable washing machine, twin tub washing machine laund review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQXBQ92T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AunTp1HkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring down a pile of laundry in a 400-square-foot apartment with no in-unit hookups, the VCJ twin tub portable washer is the kind of appliance that makes you wonder why you didn't buy one sooner. But it's also the kind of product that demands you understand exactly what you're getting into before you commit.

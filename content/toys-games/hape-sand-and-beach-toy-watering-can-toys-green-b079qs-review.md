@@ -1,4 +1,5 @@
 ---
+
 title: "Hape Sand and Beach Toy Watering Can Toys, Green"
 seo_title: "Hape Sand and Beach Toy Watering Can Review (2026)"
 meta_description: "Honest Hape watering can toy review: durable green beach sand toy for kids. See pros, cons, real parent feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079QSZ8HD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K6jqcrQ8L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Thick, impact-resistant plastic that survives drops on concrete and rocky beaches — far sturdier than the dollar-store equivalents"
   - "Wide mouth and short spout make it genuinely usable by toddlers (18 months+) without water sloshing everywhere"
   - "No sharp edges or seams; the molded handle has a comfortable grip for small hands"
-cons:
+cons: 
   - "Only one color option (green) — if your kid insists on pink or blue, look elsewhere"
   - "Smaller than it appears in product photos; holds roughly 2 cups of water, not a full bucket's worth"
   - "No measurement markings or pour-control features — it's a basic can, not a precision watering tool"
+
 ---
 
 ## The Beach Toy That Actually Survives the Trip Home

@@ -1,4 +1,5 @@
 ---
+
 title: "LEPOWER Solar LED Motion Security Light Outdoor, LED Flood L"
 seo_title: "LEPOWER Solar LED Motion Security Light Outdoor, L Review"
 meta_description: "Our full lepower solar led motion security light outdoor, led flood l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B085RPBHMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UC610nB4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEPOWER Solar LED Motion Security Light is a solid choice if you need reliable, wireless illumination for a garage, back porch, or side yard — but it's not the 1,000-lumen monster some listings imply.** With a 4.4-star average across 220 ratings, this unit earns its score through genuine utility rather than hype. Here's the breakdown you actually need before buying.

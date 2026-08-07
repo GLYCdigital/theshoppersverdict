@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PG-245 XL High Capacity Black Ink Cartridge (8278B001)"
 seo_title: "Canon PG-245 XL Ink Cartridge Review: Worth It? (2026)"
 meta_description: "Canon PG-245 XL black ink cartridge review: real page yields, print quality, compatibility, and cost per page. Is the high-capacity version worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079VTW8K2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613I7iJq7oL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Rated for 400 pages — roughly double the standard PG-245's 180-page yield, making it the better value for anyone printing weekly"
   - "Genuine Canon ink with pigment-based black that dries fast and resists smudging on plain paper — noticeably crisper text than third-party refills"
   - "Chip communicates remaining ink levels accurately to supported printers, so you get warnings before you're mid-print"
-cons:
+cons: 
   - "No firmware bypass — if your printer's ink monitor says low, it stops even if you shake the cartridge and get another 20 pages"
   - "Cost per page still runs higher than a refillable tank system or third-party remanufactured options if you print heavily"
   - "Requires the matching CL-246 color cartridge to be installed (not included) — the printer won't operate with black only on most models"
+
 ---
 
 Let's skip the preamble. You're here because your Canon printer just flashed that dreaded low-ink warning, and you're deciding between the standard PG-245 and the XL version. I've tested both, and the math isn't complicated — but there are a few things Amazon reviewers won't tell you.

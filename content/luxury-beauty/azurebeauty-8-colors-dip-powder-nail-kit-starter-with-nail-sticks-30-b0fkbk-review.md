@@ -1,4 +1,5 @@
 ---
+
 title: "AZUREBEAUTY 8 Colors Dip Powder Nail Kit Starter with Nail S"
 seo_title: "AZUREBEAUTY Dip Powder Nail Kit Review: 8 Colors, Worth It?"
 meta_description: "Honest AZUREBEAUTY 8 Colors Dip Powder Nail Kit Starter review: color payoff, durability, and real user feedback. Is this kit worth your money?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FKBKZGHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TToNHGm4L._SL1500_.jpg"
-pros:
+pros: 
   - "8 pigmented colors that require only 2-3 dips for full opacity, even on light shades"
   - "Complete starter system includes base, activator, top coat, and 30 nail sticks — no hidden add-ons needed"
   - "Low-odor formula that's noticeably gentler than typical dip liquids, making indoor application tolerable"
-cons:
+cons: 
   - "Brush applicators for the liquids are thin and prone to dragging; upgrading to a better brush makes a significant difference"
   - "Color payoff varies across the set — the lighter neutrals need more coats to match the darker shades in consistency"
+
 ---
 
 The dip powder category is crowded with kits that promise salon results and deliver frustration instead. The AZUREBEAUTY 8 Colors Dip Powder Nail Kit Starter sits in the middle ground — it's not the cheapest option, nor is it a premium system. But with a 4.2 rating across 210 reviews, it's clearly doing something right. Here's what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Akro-Mils 30150 12-Inch by 8-Inch by 4-Inch Clear Plastic Ne"
 seo_title: "Akro-Mils 30150 Review: Clear Storage Bin Worth It?"
 meta_description: "Honest Akro-Mils 30150 12x8x4 clear plastic bin review: build quality, real-world use, stacking performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00FOIUASK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618mc5v-qdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty polypropylene construction that handles workshop abuse without cracking"
   - "Transparent walls let you identify contents at a glance, no labeling required"
   - "Stackable design with integrated ridges that lock securely when nested"
-cons:
+cons: 
   - "No lid included — dust and small parts will settle in open bins"
   - "At 4 inches deep, larger power tools won't fit; this is strictly small-parts storage"
+
 ---
 
 Let me save you some time: if you're looking for a clear bin to organize screws, fasteners, craft supplies, or small hand tools, the Akro-Mils 30150 does exactly what it promises. It won't change your life, but it will change your garage shelf.

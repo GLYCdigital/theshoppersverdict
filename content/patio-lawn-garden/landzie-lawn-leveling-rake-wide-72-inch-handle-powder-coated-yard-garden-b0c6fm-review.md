@@ -1,4 +1,5 @@
 ---
+
 title: "Landzie Lawn Leveling Rake - Wide 72 Inch Handle Powder Coat"
 seo_title: "Landzie Lawn Leveling Rake - Wide 72 Inch Handle P Review"
 meta_description: "Our full landzie lawn leveling rake - wide 72 inch handle powder coat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6FM89PL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91B0M2kqAAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Landzie Lawn Leveling Rake Review: Is the 72-Inch Handle Worth It?

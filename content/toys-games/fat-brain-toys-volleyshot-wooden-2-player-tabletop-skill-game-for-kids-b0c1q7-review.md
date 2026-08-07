@@ -1,4 +1,5 @@
 ---
+
 title: "Fat Brain Toys VolleyShot - Wooden 2-Player Tabletop Skill G"
 seo_title: "Fat Brain Toys VolleyShot Review: Wooden Tabletop Game"
 meta_description: "Fat Brain Toys VolleyShot review: wooden 2-player tabletop skill game. See how it plays, who it's for, and if it's worth buying at 4.5 stars."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C1Q72H28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NqC+kAThL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid maple wood construction with a satisfying tactile launch mechanism that actually holds up to aggressive play"
   - "Games last 3–5 minutes, making it perfect for quick tournaments or family game nights without dragging on"
   - "Easy to learn in under a minute but has genuine skill depth — kids and adults can both improve with practice"
-cons:
+cons: 
   - "Balls are small (roughly the size of a large marble) and can roll under furniture easily; consider a play mat or tray"
   - "Requires a flat, stable surface — uneven tables or wobbly desks noticeably affect ball trajectory"
   - "The 8.5-inch launcher arms feel a bit stiff out of the box; they loosen up after a few sessions but start tight"
+
 ---
 
 If you've ever watched foosball players and thought, "I want that energy but with less spinning and more aim," the Fat Brain Toys VolleyShot delivers exactly that. This wooden 2-player tabletop game has earned a 4.5-star average across 225 Amazon ratings, and after looking at how it actually plays, the praise makes sense. It's a deceptively simple concept — launch small balls at your opponent's goal while defending your own — but the execution is where this thing shines.

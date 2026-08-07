@@ -1,10 +1,11 @@
 ---
+
 title: "Hamilton Beach Custom Grind Coffee Grinder Review: Smart Design at $37.95"
 seo_title: "Hamilton Beach Custom Grind — 4.6★ | TSV"
 meta_description: "Hamilton Beach Custom Grind coffee grinder review: 4.6 stars, 1,141 ratings, $37.95. Hands-free operation with auto shutoff and removable grinding bowl."
 slug: "hamilton-beach-custom-grind-electric-coffee-grinder-review"
 image_alt: "Hamilton Beach Custom Grind electric coffee grinder in stainless steel with one-press operation and removable grinding bowl"
-keywords:
+keywords: 
   - "Hamilton Beach Custom Grind review"
   - "Hamilton Beach coffee grinder 80406"
   - "best electric coffee grinder under $50"
@@ -16,18 +17,18 @@ amazon_rating: 4.6
 price: 37.95
 amazon_url: "https://www.amazon.com/dp/B0CNQ4BB67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qkiif9UlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hands-free operation with auto shutoff when grinding completes"
   - "Noticeably quieter than most blade and burr grinders"
   - "Sturdy cover and improved build over previous Hamilton Beach models"
   - "Removable stainless steel grinding bowl for easy pouring and cleaning"
   - "Excellent value at $37.95"
-cons:
+cons: 
   - "Primarily a blade grinder — less consistent than burr alternatives"
   - "Power cord could be longer for some kitchen layouts"
   - "Not ideal for espresso-fine grinding"
   - "Larger footprint than ultra-compact grinders"
-faq:
+faq: 
   - question: "How does the one-press hands-free operation work?"
     answer: "You set the grind amount, press down once, and the grinder operates automatically and shuts off when done. No need to hold the lid down during operation."
   - question: "Is this grinder compatible with different grind sizes?"
@@ -37,6 +38,7 @@ faq:
   - question: "Can the grinding bowl go in the dishwasher?"
     answer: "The removable stainless steel grinding bowl is dishwasher safe for easy cleaning, though hand washing is recommended to preserve the finish."
 date: 2026-05-29
+
 ---
 
 The $38 question: Can a budget blade grinder deliver coffee worth drinking, or should you just buy pre-ground? I spent two weeks with the Hamilton Beach Custom Grind, and the answer surprised me — for drip coffee and French press, this thing holds its own. For espresso? Absolutely not. Here's the real story.

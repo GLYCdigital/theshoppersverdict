@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Soho 1 Liter Double Wall Electric Kettle"
 seo_title: "Cuisinart Soho 1L Double Wall Kettle Review (2026)"
 meta_description: "Cuisinart Soho 1 Liter Double Wall Electric Kettle review: fast boiling, cool-touch exterior, precise temp dial. Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMFNTCWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41DGyuCNcsL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Cool-touch double-wall body stays comfortable to hold even at full boil — no burns, no countertop scorching"
   - "Precise temperature dial (160°F–212°F) with 5 preset options that actually hold within a few degrees"
   - "Compact 1-liter capacity heats fast and fits neatly under standard upper cabinets"
-cons:
+cons: 
   - "1-liter max capacity means two full mugs of tea max — you'll reboil for a third cup"
   - "Cord storage is minimal; the base takes up counter real estate when not in use"
+
 ---
 
 **The Shopper's Verdict: Cuisinart Soho 1 Liter Double Wall Electric Kettle**

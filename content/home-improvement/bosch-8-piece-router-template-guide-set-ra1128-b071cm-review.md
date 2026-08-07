@@ -1,23 +1,25 @@
 ---
+
 title: "BOSCH 8-Piece Router Template Guide Set RA1128 inch  "
 seo_title: "BOSCH RA1128 Router Template Guide Set Review (2026)"
 meta_description: "BOSCH RA1128 8-piece router template guide set review: precision, fit, and value for pattern routing. See pros, cons, and who should buy it."
 slug: "bosch-8-piece-router-template-guide-set-ra1128-b071cm-review"
 image_alt: "BOSCH RA1128 8-piece router template guide set with aluminum guides and brass lock nuts"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B071CMF8RK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WcbHQIAwL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Hardened steel guides resist wear far longer than cheaper zinc sets"  
   - "Interchangeable with standard 3/4-inch guide bushings — fits most routers"  
   - "Includes 5/16-inch guide for tight template work — rare in budget sets"  
-cons:  
+cons: 
   - "Lock nuts require a wrench — no knurled finger-tightening option"  
   - "No storage case; guides arrive in a flimsy plastic bag"
+
 ---
 
 Let me be blunt: if you're routing dovetails, hinge mortises, or pattern-cutting with a template, the difference between a $20 no-name guide set and the BOSCH RA1128 isn't just polish — it's precision that shows up in your joinery. This 8-piece set has earned its 4.6-star rating across 229 reviews, and after looking at what it actually offers, I get why.

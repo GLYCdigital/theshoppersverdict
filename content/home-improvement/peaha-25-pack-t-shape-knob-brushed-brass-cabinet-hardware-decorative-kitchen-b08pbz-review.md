@@ -1,4 +1,5 @@
 ---
+
 title: "Peaha 25 Pack T Shape Knob Brushed Brass Cabinet Hardware De"
 seo_title: "Peaha 25 Pack T Shape Knob Brushed Brass Cabinet H Review"
 meta_description: "Our full peaha 25 pack t shape knob brushed brass cabinet hardware de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08PBZKYYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're remodeling a kitchen on a budget, brushed brass is the fastest way to make builder-grade cabinets look custom — and the Peaha 25-pack delivers that look without the boutique price tag. But is the finish worth the fingerprints? Let's dig in.**

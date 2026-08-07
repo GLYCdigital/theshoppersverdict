@@ -1,4 +1,5 @@
 ---
+
 title: "High Back Executive Office Chair"
 seo_title: "High Back Executive Office Chair Review: Verdict | TSV"
 meta_description: "Our full high back executive office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHPCYW62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZFC5pXu7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The executive chair market is crowded with lookalikes that sacrifice function for flash. This High Back Executive Office Chair, however, has earned a 4.3-star rating across 215 reviews for a reason: it actually delivers on the ergonomic promise its silhouette suggests. After digging through buyer feedback and analyzing the specs, here's the real story.

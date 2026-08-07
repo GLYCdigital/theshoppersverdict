@@ -1,4 +1,5 @@
 ---
+
 title: "Elgato Stream Deck Mini – Control Zoom, Teams, PowerPoint,"
 seo_title: "Elgato Stream Deck Mini Review: Is It Worth It for Work?"
 meta_description: "Elgato Stream Deck Mini review: 6 programmable keys for Zoom, Teams, and PowerPoint. See real pros, cons, and whether it's worth $80 for your workflow."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07DYRS1WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w+a4IDpsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six tactile LCD keys with instant visual feedback — you always know what action is loaded"
   - "Plug-and-play setup with the Stream Deck app; no scripting required for common apps"
   - "Solid aluminum build with a removable USB-C cable that won't yank your laptop off the desk"
-cons:
+cons: 
   - "Six keys fill up fast if you want more than 12 total actions — you'll flip pages constantly"
   - "Software feels bloated for office use; it's clearly built with streamers in mind first"
+
 ---
 
 Let me be blunt: the Elgato Stream Deck Mini looks like a toy for Twitch streamers, but it's quietly become one of the most useful productivity tools I've tested for office work. The question isn't whether it works — it's whether six tiny buttons justify the price tag.

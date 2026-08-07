@@ -1,4 +1,5 @@
 ---
+
 title: "Bodum Burr Coffee Grinder"
 seo_title: "Bodum Burr Coffee Grinder Review: Honest 2026 Look"
 meta_description: "Bodum Burr Coffee Grinder review: 3.7/5 rating. We test grind consistency, build quality, and noise. See who should buy it and who should skip."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FD14JJTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eTrojbT0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel conical burrs deliver far more consistent particle size than blade grinders at this price point"
   - "One-touch pulse operation with a clear acrylic hopper makes dialing in grind time genuinely intuitive"
   - "Compact footprint (roughly 8 inches tall) fits under standard upper cabinets without hogging counter space"
-cons:
+cons: 
   - "Grind settings adjust via a numbered collar that lacks fine-grained control — espresso drinkers will feel the gap between steps"
   - "Static cling leaves a noticeable amount of ground coffee stuck to the collection cup and lid"
   - "Motor runs loud enough to wake a sleeping partner, especially on finer grind settings"
+
 ---
 
 **The Bodum Burr Coffee Grinder: A Solid Entry-Level Burr That Won't Win Beauty Contests**

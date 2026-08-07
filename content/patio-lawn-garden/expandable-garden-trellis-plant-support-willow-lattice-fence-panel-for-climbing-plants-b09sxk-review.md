@@ -1,4 +1,5 @@
 ---
+
 title: "Expandable Garden Trellis Plant Support Willow Lattice Fence"
 seo_title: "Expandable Garden Trellis Review: Willow Lattice Support"
 meta_description: "Honest review of the Expandable Garden Trellis Willow Lattice Fence. Sturdy, flexible plant support for climbing vines. See pros, cons & real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09SXK5H94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hDaNsWBjL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine willow construction is flexible enough to bend into arches or curves without snapping, unlike rigid bamboo or metal alternatives"
   - "Expandable design stretches from roughly 3 feet to over 6 feet wide, letting you adapt it to different bed sizes as your garden grows"
   - "Weathered, natural look blends into cottage-style gardens rather than standing out like plastic or painted metal trellises"
-cons:
+cons: 
   - "Willow will dry out and become brittle after a season or two of full sun exposure — plan to replace it every 2–3 years"
   - "The lattice openings are small (about 2 inches), so thick-stemmed climbers like mature wisteria won't fit through — stick to peas, beans, and lightweight vines"
   - "Bottom edge has no stakes or anchors included; you'll need to secure it yourself with garden staples or zip ties to keep it upright in wind"
+
 ---
 
 If you've ever wrestled with a cheap metal trellis that buckles under a heavy cucumber vine, this willow lattice fence is going to feel like a breath of fresh air. It's not the strongest support structure money can buy — but it's flexible, charming, and surprisingly functional for the right gardener.

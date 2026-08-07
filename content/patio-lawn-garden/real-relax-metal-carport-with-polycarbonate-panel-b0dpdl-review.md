@@ -1,4 +1,5 @@
 ---
+
 title: "Real Relax Metal Carport with Polycarbonate Panel"
 seo_title: "Real Relax Metal Carport with Polycarbonate Panel Review:"
 meta_description: "Our full real relax metal carport with polycarbonate panel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DPDL58PY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NqU11SHpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out a permanent garage addition lately, you know the sticker shock is brutal. That's exactly why the **Real Relax Metal Carport with Polycarbonate Panel** has been showing up in more driveways — it promises real vehicle protection at a fraction of the cost of a structure. But does it hold up when the weather turns nasty? After combing through 200 verified buyer ratings and digging into the specs, here's the honest breakdown.

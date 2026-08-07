@@ -1,4 +1,5 @@
 ---
+
 title: "5 Inch 8-Hole Hook and Loop Sanding Discs Sandpaper Red Roun"
 seo_title: "5 Inch 8-Hole Hook & Loop Sanding Discs Review (2026)"
 meta_description: "Honest review of 5-inch 8-hole hook & loop sanding discs. Real performance data, durability, and grit selection advice for woodworkers and DIYers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPMKYKPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712I-7ieo8L._SL1008_.jpg"
-pros:
+pros: 
   - "Aluminum oxide grit holds up noticeably longer than cheaper brown/orange discs — consistent cutting through multiple boards"
   - "8-hole pattern aligns perfectly with standard 5-inch random orbital sanders (Bosch, DeWalt, Makita) — no alignment fiddling"
   - "Hook-and-loop backing stays aggressive even after heavy use; discs don't fly off at high speeds"
-cons:
+cons: 
   - "Grit selection skews toward mid-range (80-220); heavy-stock-removal users will need to buy a separate coarse pack"
   - "Red coating can transfer onto very light woods if you press too hard — keep the sander moving"
+
 ---
 
 Let me save you the trial-and-error: if you've been burning through those flimsy tan discs from the big-box store, these red 5-inch 8-hole hook and loop sanding discs are the upgrade your random orbital sander has been waiting for. With 225 ratings averaging 4.5 stars, the crowd agrees — but let me tell you what the star rating doesn't.

@@ -1,4 +1,5 @@
 ---
+
 title: "KLEIN TOOLS Arc Flash Face Shield, Cap-Style Hard Hat Attach"
 seo_title: "KLEIN TOOLS Arc Flash Face Shield, Cap-Style Hard  Review"
 meta_description: "Our full klein tools arc flash face shield, cap-style hard hat attach review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY18V9QB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a breaker go off in your face while landing wires in a live panel, you know the value of a good arc flash shield. The KLEIN Tools Arc Flash Face Shield is designed for exactly that moment. It's a dedicated cap-style hard hat attachment that gives you real arc flash protection without the bulk of a full hood. At roughly half the price of comparable setups from Salisbury or Oberon, it's worth a serious look — but it's not without compromises.

@@ -1,4 +1,5 @@
 ---
+
 title: "COOSHADE 13x13Ft Pop Up Canopy Tent Instant Folding Shelter "
 seo_title: "COOSHADE 13x13Ft Pop Up Canopy Tent Instant Foldin Review"
 meta_description: "Our full cooshade 13x13ft pop up canopy tent instant folding shelter  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BJPBP8XK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-N1CG7LwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **COOSHADE 13x13Ft Pop Up Canopy Tent Instant Folding Shelter ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

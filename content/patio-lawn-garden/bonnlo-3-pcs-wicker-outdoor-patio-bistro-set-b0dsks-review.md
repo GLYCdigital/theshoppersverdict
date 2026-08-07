@@ -1,4 +1,5 @@
 ---
+
 title: "Bonnlo 3 PCS Wicker Outdoor Patio Bistro Set"
 seo_title: "Bonnlo 3 PCS Wicker Patio Bistro Set Review (2026)"
 meta_description: "Honest Bonnlo 3 PCS wicker patio bistro set review: build quality, comfort, weather resistance, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSKS2WV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Er0UTz43L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Assembles in under 20 minutes with all tools included — no extra trip to the hardware store"
   - "PE rattan weave over a powder-coated steel frame feels substantial, not flimsy like budget sets"
   - "Tempered glass tabletop with raised lip and built-in bottle stopper adds real everyday utility"
-cons:
+cons: 
   - "Cushions are thin (about 2 inches) and not truly waterproof — bring them inside when rain is forecast"
   - Compact footprint means larger adults (over 6'2 inch " or 250 lbs) may find the chairs snug
+
 ---
 
 **The Short Version: A Surprisingly Solid Compact Set**

@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech G Pro Flight Radio Panel"
 seo_title: "Logitech G Pro Flight Radio Panel Review: Verdict | TSV"
 meta_description: "Our full logitech g pro flight radio panel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B091J9ND1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51a+2nWCrhL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you fly Microsoft Flight Simulator or X-Plane and you’re still reaching for your mouse to click tiny radio dials, you’re doing it wrong. The Logitech G Pro Flight Radio Panel fixes that pain point with a dedicated, cockpit-grade hardware interface for managing COM and NAV frequencies. At 4.5 stars across 225 ratings, it’s clearly doing something right. Here’s my honest breakdown after digging deep into what owners actually say.

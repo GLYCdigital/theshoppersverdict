@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Pumpkin Powder - Make Delicious Pumpkin Spice Lattes"
 seo_title: "Organic Pumpkin Powder - Make Delicious Pumpkin Sp Review"
 meta_description: "Our full organic pumpkin powder - make delicious pumpkin spice lattes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BT4R5Y73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hpwf88CgL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what most "pumpkin spice" products actually are: sugar, artificial flavoring, and caramel color. This organic pumpkin powder is not that. It's dehydrated pumpkin flesh — nothing else. That's either exactly what you want or a dealbreaker, depending on your expectations.

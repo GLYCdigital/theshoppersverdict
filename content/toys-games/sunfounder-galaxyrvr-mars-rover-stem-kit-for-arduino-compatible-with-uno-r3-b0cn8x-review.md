@@ -1,4 +1,5 @@
 ---
+
 title: "SunFounder GalaxyRVR Mars Rover STEM Kit for Arduino, Compat"
 seo_title: "SunFounder GalaxyRVR Mars Rover STEM Kit for Ardui Review"
 meta_description: "Our full sunfounder galaxyrvr mars rover stem kit for arduino, compat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CN8XK3GT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oZP+tf9WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced a ready-made Mars rover toy, you already know they're either $30 plastic junk or $300 museum pieces. The SunFounder GalaxyRVR sits in a smarter spot — it's a build-it-yourself Arduino project that actually teaches you something, and at $80–$100 when it's in stock, it undercuts the LEGO alternatives while offering real code control. Here's the honest breakdown after digging through 200 buyer experiences.

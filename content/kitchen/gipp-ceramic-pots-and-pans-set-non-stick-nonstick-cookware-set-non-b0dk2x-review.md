@@ -1,4 +1,5 @@
 ---
+
 title: "GiPP Ceramic Pots and Pans Set Non Stick - Nonstick Cookware"
 seo_title: "GiPP Ceramic Pots and Pans Set Non Stick - Nonstic Review"
 meta_description: "Our full gipp ceramic pots and pans set non stick - nonstick cookware review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK2XP8H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jrx4ehHPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GiPP Ceramic Pots and Pans Set Review: Is This Nonstick Set Worth Your Money?

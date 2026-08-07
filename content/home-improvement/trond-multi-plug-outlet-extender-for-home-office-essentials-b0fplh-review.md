@@ -1,4 +1,5 @@
 ---
+
 title: "TROND Multi Plug Outlet Extender for Home Office Essentials"
 seo_title: "TROND Multi Plug Outlet Extender for Home Office E Review"
 meta_description: "Our full trond multi plug outlet extender for home office essentials review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FPLHWN3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S+QIPAE3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TROND Multi Plug Outlet Extender: The Desk-Saver That Earns Its 4.7 Stars

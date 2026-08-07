@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech MX Master 3S Performance Wireless Mouse - Graphite "
 seo_title: "Logitech MX Master 3S Performance Wireless Mouse - Review"
 meta_description: "Our full logitech mx master 3s performance wireless mouse - graphite  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B11LJ69K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 8K DPI Mouse That Finally Killed the Dreaded Mousepad

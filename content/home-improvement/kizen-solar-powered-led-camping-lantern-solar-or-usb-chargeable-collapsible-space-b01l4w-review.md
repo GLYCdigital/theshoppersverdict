@@ -1,4 +1,5 @@
 ---
+
 title: "Kizen Solar Powered LED Camping Lantern - Solar or USB Charg"
 seo_title: "Kizen Solar Powered LED Camping Lantern - Solar or Review"
 meta_description: "Our full kizen solar powered led camping lantern - solar or usb charg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01L4WHOTC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qii4tZCLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The Kizen Solar Powered LED Camping Lantern has 225 ratings averaging 4.5 stars, and for under $20, it's one of the most practical lighting tools you can toss in a go-bag. But "solar powered" doesn't mean what you think it means, and you need to know that before you buy.

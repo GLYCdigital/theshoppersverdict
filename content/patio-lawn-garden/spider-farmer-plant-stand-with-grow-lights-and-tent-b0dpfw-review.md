@@ -1,4 +1,5 @@
 ---
+
 title: "Spider Farmer Plant Stand with Grow Lights and Tent"
 seo_title: "Spider Farmer Plant Stand with Grow Lights and Ten Review"
 meta_description: "Our full spider farmer plant stand with grow lights and tent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPFWC6JM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DeodO6OwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Spider Farmer Plant Stand with Grow Lights and Tent is a solution for a very specific problem: you want to grow more plants indoors, but you don't have a spare room for a full grow tent, and you're tired of grow lights glaring across your living room. This unit tries to be a bookshelf, a greenhouse, and a lighting system in one package. After digging through 210 ratings and the spec sheet, here's the real story.

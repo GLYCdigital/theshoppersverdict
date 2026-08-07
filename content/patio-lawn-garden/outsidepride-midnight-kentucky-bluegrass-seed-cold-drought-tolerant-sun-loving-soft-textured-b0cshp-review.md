@@ -1,4 +1,5 @@
 ---
+
 title: "Outsidepride Midnight Kentucky Bluegrass Seed - Cold & Droug"
 seo_title: "Outsidepride Midnight Kentucky Bluegrass Seed - Co Review"
 meta_description: "Our full outsidepride midnight kentucky bluegrass seed - cold & droug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CSHPLC47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bx2Ih-h4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a neighbor's lawn wondering why it looks like a putting green while yours resembles a hayfield, the answer is probably Kentucky bluegrass — and specifically, the Midnight cultivar. Outsidepride sells this as pure Midnight seed, not a blend, which matters more than most shoppers realize. Let's dig into whether it's worth your money.

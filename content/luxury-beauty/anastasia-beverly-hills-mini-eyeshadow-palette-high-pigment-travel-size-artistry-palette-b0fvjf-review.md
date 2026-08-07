@@ -1,4 +1,5 @@
 ---
+
 title: "Anastasia Beverly Hills Mini Eyeshadow Palette - High-Pigmen"
 seo_title: "ABH Mini Eyeshadow Palette Review: High-Pigment Travel Size"
 meta_description: "ABH Mini Eyeshadow Palette review: high-pigment, travel-friendly, but is it worth it? Real pros, cons, and who should buy this 4.6-star luxury palette."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVJFCCHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZLTq9hseL._SL1500_.jpg"
-pros:
+pros: 
   - "Buttery, blendable formula that rivals full-size ABH palettes — no chalkiness or fallout during application"
   - "Compact magnetic closure case fits easily in a clutch or makeup bag without sacrificing shade range"
   - "Includes a mix of mattes and shimmers that work for both everyday neutral looks and evening glam"
-cons:
+cons: 
   - "No mirror inside the palette, which limits its usefulness for on-the-go touch-ups"
   - "Limited shade range compared to full-size palettes — not ideal if you want a complete look in one compact"
+
 ---
 
 # Anastasia Beverly Hills Mini Eyeshadow Palette: Big Pigment, Small Package

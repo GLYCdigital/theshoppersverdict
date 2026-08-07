@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT XTREME 12V MAX Brushless 1/4 in. Ratchet Review"
 seo_title: "DEWALT 12V Max Brushless 1/4 Ratchet Review (2026)"
 meta_description: "Honest DEWALT XTREME 12V MAX brushless 1/4 ratchet review: torque, battery life, head size, real-world performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09ZJCQG24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ErFXiI6ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "35 ft-lbs of max torque from a brushless motor in a head that's only 1.3 inches thick"
   - "Variable speed trigger ranges from 0-350 RPM, giving real control for precision fastening"
   - "Tool-only design means no wasted cost on batteries if you're already in the 12V MAX system"
-cons:
+cons: 
   - "At $199, it's priced at the premium end — Milwaukee's M12 Fuel version is often cheaper"
   - "No built-in LED light, which is a surprising omission for a modern cordless ratchet"
+
 ---
 
 If you've ever contorted yourself under a dashboard with a manual ratchet, sweating and swearing through 47 rotations to remove one bolt, you know the pain this tool solves. The DEWALT XTREME 12V MAX Brushless 1/4-inch Ratchet (DCF504B) is the answer to that specific brand of misery. But at $199 for the tool only, it's asking a premium — let's dig into whether it earns it.

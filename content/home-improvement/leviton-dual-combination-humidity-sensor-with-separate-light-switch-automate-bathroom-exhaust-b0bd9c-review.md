@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton Dual Combination Humidity Sensor with Separate Light"
 seo_title: "Leviton Dual Combination Humidity Sensor with Sepa Review"
 meta_description: "Our full leviton dual combination humidity sensor with separate light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BD9CSHXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Gj7hnMA6L._SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Leviton Dual Combination Humidity Sensor with Separate Light: The Smart Retrofit That Demands Patience

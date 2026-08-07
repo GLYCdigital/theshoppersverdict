@@ -1,4 +1,5 @@
 ---
+
 title: "AT-A-GLANCE Planner Weekly & Monthly Academic 12-Month July-"
 seo_title: "AT-A-GLANCE Academic Planner Review: July–June Weekly & Monthly"
 meta_description: "Honest AT-A-GLANCE academic planner review: July–June weekly/monthly layout, durability, and real user feedback. Is it worth it for students and teachers?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GMGZ1ZFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MlDQ51m1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Durable twin-wire binding lays completely flat for one-handed writing during lectures"
   - "July–June academic calendar aligns perfectly with US school semesters, not calendar years"
   - "Monthly tabs are reinforced and indexed — no more flipping through blank pages to find October"
-cons:
+cons: 
   - "Thin 40-pound paper shows moderate ghosting if you use gel pens or heavy markers"
   - "No pocket folder inside the back cover for loose handouts or receipts"
   - "Pastel color scheme may feel too muted for planners who prefer bold, high-contrast layouts"
+
 ---
 
 **The academic-year planner that actually respects your semester rhythm**

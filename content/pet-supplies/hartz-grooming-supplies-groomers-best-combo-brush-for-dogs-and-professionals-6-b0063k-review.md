@@ -1,4 +1,5 @@
 ---
+
 title: "Hartz Grooming Supplies, Groomers Best Combo Brush for Dogs "
 seo_title: "Hartz Grooming Supplies, Groomers Best Combo Brush Review"
 meta_description: "Our full hartz grooming supplies, groomers best combo brush for dogs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0063KBYU6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BXgZ7nQBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most combo brushes under $10 are flimsy plastic junk that snap within a month. The Hartz Groomers Best Combo Brush isn't that. With a 4.5-star average across 225 ratings, it's earned its place in countless grooming kits — but it's not the right tool for every dog. Here's the breakdown.

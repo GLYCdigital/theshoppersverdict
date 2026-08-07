@@ -1,4 +1,5 @@
 ---
+
 title: "CRUA Curved Monitor Series, 27 inch /30 inch /32 inch /34 inch /44.5 inch /49 inch , FHD/D"
 seo_title: "CRUA Curved Monitor Review: 6 Sizes, FHD & Dual Options"
 meta_description: "Honest CRUA curved monitor review across 27 inch  to 49 inch  sizes. Compare FHD and Dual QHD specs, real user feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVPF73ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FsWLb4EOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Six size options from 27 inch " to 49 inch " cover everything from dual-monitor replacements to ultrawide productivity
   - "Multiple refresh rate tiers (75Hz–240Hz) depending on size/config, making it viable for both office and light gaming"
   - "VESA mount compatible across the lineup with slim bezels that look premium well above the price point"
-cons:
+cons: 
   - FHD resolution on larger sizes (34 inch " and up) shows visible pixelation — you'll want the DQHD versions instead
   - "Stand adjustment is limited to tilt only on most models; height adjustment requires buying a separate VESA arm"
   - "Color accuracy out of the box runs slightly cool — a quick calibration fixes it, but it's not factory-tuned"
+
 ---
 
 If you're shopping for a curved monitor, the CRUA series is either the smartest budget move you'll make this year or a pixel-density trap — and the difference comes down entirely to which size you pick.

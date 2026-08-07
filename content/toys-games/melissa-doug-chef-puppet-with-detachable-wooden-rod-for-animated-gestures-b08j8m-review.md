@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Chef Puppet With Detachable Wooden Rod for An"
 seo_title: "Melissa & Doug Chef Puppet With Detachable Wooden  Review"
 meta_description: "Our full melissa & doug chef puppet with detachable wooden rod for an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08J8MRB3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tFRIuf56L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Melissa & Doug Chef Puppet isn't just another stuffed toy with a hand hole. It's a proper performance tool disguised as a plaything, and that distinction matters if you're shopping for a child who actually wants to put on a show.

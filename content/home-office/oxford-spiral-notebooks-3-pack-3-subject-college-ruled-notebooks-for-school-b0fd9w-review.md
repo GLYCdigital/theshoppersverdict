@@ -1,4 +1,5 @@
 ---
+
 title: "Oxford Spiral Notebooks, 3 Pack, 3 Subject, College Ruled No"
 seo_title: "Oxford Spiral Notebooks, 3 Pack, 3 Subject, Colleg Review"
 meta_description: "Our full oxford spiral notebooks, 3 pack, 3 subject, college ruled no review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD9WN8PB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eRJIMgy6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you don't need me to tell you that a notebook is a notebook. What matters is whether this specific 3-pack from Oxford holds up when your backpack is doing the limbo under a desk, whether the pages survive your aggressive note-taking style, and whether you're actually getting value for the price. I've researched this one thoroughly — here's what you need to know before you click "add to cart."

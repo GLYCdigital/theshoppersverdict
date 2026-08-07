@@ -1,7 +1,8 @@
 ---
-title: "Hiboy S2 Lite Electric Scooter - 6.5\" Solid Tires - Up to 10"
-seo_title: "Hiboy S2 Lite Electric Scooter - 6.5\" Solid Tires  Review"
-meta_description: "Our full hiboy s2 lite electric scooter - 6.5\" solid tires - up to 10 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Hiboy S2 Lite Electric Scooter - 6.5\ Solid Tires - Up to 10"
+seo_title: "Hiboy S2 Lite Electric Scooter - 6.5\ Solid Tires  Review"
+meta_description: "Our full hiboy s2 lite electric scooter - 6.5\ solid tires - up to 10 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hiboy-s2-lite-electric-scooter-6-5-solid-tires-up-to-10-b0cwxt-review"
 image_alt: "Hiboy S2 Lite Electric Scooter - 6.5 Solid Tires - Up to 10.6 Miles Long-Range & 13 MPH Portable Folding Commuting Kick-"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CWXTJFCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bWwgt3FML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the Hiboy S2 Lite is not the scooter for you if you're a 200-pound commuter looking to hit 15 MPH on your daily grind. But if you're buying for a teenager, a college student navigating a compact campus, or yourself for quick neighborhood errands, this little machine punches well above its $200-ish price point.

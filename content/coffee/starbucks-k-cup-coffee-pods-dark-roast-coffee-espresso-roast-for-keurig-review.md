@@ -1,16 +1,17 @@
 ---
+
 title: "Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Espresso Roast for Keurig Coffee Makers, 100% Arabica, 1 Box (75 Pods)"
 seo_title: "Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Es Review"
 meta_description: "Our full starbucks k-cup coffee pods, dark roast coffee, espresso roast for keurig coffee makers, 100% arabica, 1 box (75 pods). Read real Amazon customer in"
 slug: "starbucks-k-cup-coffee-pods-dark-roast-coffee-espresso-roast-for-keurig-review"
 image_alt: "Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Espresso Roast for Keurig Coffee Makers, 100% Arabica, 1 Box (75 Pods)"
-keywords:
+keywords: 
   - "starbucks kcup coffee review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Espresso Roast for Keurig Coffee Makers, 100% Arabica, 1 Box (75 Pods)?"
     answer: "Users consistently praise the excellent value for the price point. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,12 +24,13 @@ review_count: 995
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGL212LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sc2GgzxkL._SL1500_.jpg"
-pros:
+pros: 
   - "Excellent value for the price point"
   - "Strong performance that meets expectations"
   - "Solid build quality that holds up to regular use"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 If you're shopping for a starbucks k cup coffee pods dark roast coffee espresso roast for keurig, the Starbucks K-Cup Coffee Pods, Dark Roast Coffee, Espresso Roast for Keurig Coffee Makers, 100% Arabica, 1 Box (75 Pods) has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.

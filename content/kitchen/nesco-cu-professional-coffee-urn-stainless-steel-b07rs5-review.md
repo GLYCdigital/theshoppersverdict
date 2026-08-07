@@ -1,4 +1,5 @@
 ---
+
 title: "NESCO CU, Professional Coffee Urn, Stainless Steel"
 seo_title: "NESCO CU, Professional Coffee Urn, Stainless Steel Review"
 meta_description: "Our full nesco cu, professional coffee urn, stainless steel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07RS57TMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71meHysq+PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The NESCO CU Professional Coffee Urn: A Workhorse for Big Crowds, With a Few Rough Edges**

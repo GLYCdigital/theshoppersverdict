@@ -1,4 +1,5 @@
 ---
+
 title: "Atticus Empero Q-Pak Nutsedge Killer - 13.5 Grams Turf Herbi"
 seo_title: "Atticus Empero Q-Pak Nutsedge Killer Review (2026): Does It Work?"
 meta_description: "Atticus Empero Q-Pak Nutsedge Killer review: 13.5g sulfentrazone granules for nutsedge, kyllinga, and broadleaf weeds. Real results, pros, cons."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BX71FY28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fDtn9DXkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Water-soluble pre-measured packets — no measuring, no messy concentrates, no risk of overdosing"
   - "Kills nutsedge at the root system with sulfentrazone, not just top growth like many post-emergents"
   - "Safe for most established turfgrasses including Bermuda, St. Augustine, and Zoysia when applied correctly"
-cons:
+cons: 
   - "13.5g packets cover only 1,000 sq ft each — large lawns need multiple boxes, and cost adds up fast"
   - "Requires 0.5 inches of irrigation within 14 days of application; a missed watering window means wasted product"
   - "No rainfast guarantee — a heavy downpour within 4 hours of spraying can wash it off before it absorbs"
+
 ---
 
 # Atticus Empero Q-Pak Nutsedge Killer Review: The 1,000-Square-Foot Solution That Actually Works

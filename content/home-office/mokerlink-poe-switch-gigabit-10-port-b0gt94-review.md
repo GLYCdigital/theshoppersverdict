@@ -1,4 +1,5 @@
 ---
+
 title: "MokerLink poe Switch gigabit 10 Port"
 seo_title: "MokerLink poe Switch gigabit 10 Port Review: Verdict | TS"
 meta_description: "Our full mokerlink poe switch gigabit 10 port review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT94BR2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VeKwJGMXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The silent workhorse your security cameras have been waiting for

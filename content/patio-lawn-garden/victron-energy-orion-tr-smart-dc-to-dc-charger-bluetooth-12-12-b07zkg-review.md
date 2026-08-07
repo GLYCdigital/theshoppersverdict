@@ -1,4 +1,5 @@
 ---
+
 title: "Victron Energy Orion-Tr Smart DC to DC Charger (Bluetooth) -"
 seo_title: "Victron Energy Orion-Tr Smart DC to DC Charger (Bl Review"
 meta_description: "Our full victron energy orion-tr smart dc to dc charger (bluetooth) - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07ZKG396Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JIALaSixL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about what the Victron Orion-Tr Smart actually is: it's not a cheap battery isolator, and it's not a trickle charger. It's a proper DC-to-DC charger that takes power from your vehicle's alternator and delivers it to a house battery with a real charge algorithm. The 12/30 model I tested (there are 12/12 and 24/12 variants) pushes up to 30 amps into a service battery while your alternator runs — and it does it intelligently.

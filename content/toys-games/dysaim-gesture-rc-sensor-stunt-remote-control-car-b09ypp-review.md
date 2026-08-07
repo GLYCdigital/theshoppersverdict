@@ -1,4 +1,5 @@
 ---
+
 title: "Dysaim Gesture RC Sensor Stunt Remote Control Car"
 seo_title: "Dysaim Gesture RC Stunt Car Review: Is It Worth It? (2026)"
 meta_description: "Dysaim Gesture RC Sensor Stunt Car review: 360° spins, gesture control, dual modes. Real pros, cons & verdict from 229 ratings. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YPP2Z44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713mdkmH78L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Gesture glove controller works up to 20 feet with zero learning curve — tilt your hand, the car follows"
   - "360° stunt rotation and dual-sided driving mean it keeps working even when flipped upside down"
   - "Rechargeable battery with 30-40 minute runtime; USB cable included so no hunting for AAAs"
-cons:
+cons: 
   - "Gesture control is fun but imprecise for tight spaces; the included traditional remote is your fallback"
   - "Plastic shell feels light and slightly hollow; won't survive aggressive wall crashes at full speed"
   - "LED lights are bright but drain battery faster — expect closer to 25 minutes with them on"
+
 ---
 
 # The Dysaim Gesture RC Car: Gimmick or Genuinely Fun?

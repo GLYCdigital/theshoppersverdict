@@ -1,4 +1,5 @@
 ---
+
 title: "AnyMark Alcohol Markers Brush Tip"
 seo_title: "AnyMark Alcohol Markers Brush Tip Review: Worth It?"
 meta_description: "Honest AnyMark Alcohol Markers Brush Tip review: blend quality, ink flow, durability, and value vs. Copic. See if these 4.5-star markers deliver."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F62WHNN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jDr8hoiiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin-tip design pairs a true brush nib with a fine 0.4mm bullet point, covering broad washes and precise linework in one pen"
   - "Dual alcohol-based ink reservoirs allow seamless blending without streaking or harsh edges, even on inexpensive paper"
   - "Caps click shut with a solid seal; markers survived 6+ months of weekly use without drying out or fraying"
-cons:
+cons: 
   - "Color names on the barrel are printed small and wear off quickly with frequent handling — you'll want a swatch chart"
   - "No individual replacement nibs or refills sold separately, so heavily-used brush tips eventually need full marker replacement"
+
 ---
 
 ### Are These the Budget Markers That Actually Blend?

@@ -1,4 +1,5 @@
 ---
+
 title: "KoolMore Counter Depth French Door Refrigerator with Deep Fr"
 seo_title: "KoolMore Counter Depth French Door Refrigerator wi Review"
 meta_description: "Our full koolmore counter depth french door refrigerator with deep fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CLL8KKMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen was built before the era of giant, garage-sized refrigerators, you know the problem: a standard-depth fridge juts out past your countertops, blocking traffic and making your kitchen feel cramped. The **KoolMore Counter Depth French Door Refrigerator** solves that with a 24-inch depth that sits flush with standard 25-inch cabinets. But is a flush fit worth the tradeoffs? After digging through 200+ buyer experiences, here's the real story.

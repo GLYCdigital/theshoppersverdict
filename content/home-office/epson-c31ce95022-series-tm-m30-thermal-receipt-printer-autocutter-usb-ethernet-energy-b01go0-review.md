@@ -1,4 +1,5 @@
 ---
+
 title: "Epson C31CE95022 Series TM-M30 Thermal Receipt Printer, Auto"
 seo_title: "Epson TM-M30 Thermal Receipt Printer Review: 2026 Verdict"
 meta_description: "Epson TM-M30 thermal receipt printer review: 4.4-star rating, auto cutter, USB/Ethernet. Is it worth $190 for your business? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01GO08MW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yfC8Afr0L._SL1500_.jpg"
-pros:
+pros: 
   - "True auto cutter saves staff time at high-volume counters — no tearing receipts by hand"
   - "Compact footprint (5.5 x 4.7 x 5.5 inches) fits tight POS setups that full-size printers can't"
   - "Energy Star certified with sleep mode; draws under 30W printing, 1W idle"
-cons:
+cons: 
   - "58mm paper width limits receipt content — you'll need to shorten footer text or promotions"
   - "No built-in Wi-Fi on base model; USB/Ethernet only, so plan cabling carefully"
   - "Requires genuine Epson paper for best print density; third-party rolls can fade"
+
 ---
 
 **The Epson TM-M30 isn't the cheapest thermal printer you can buy. It's not the fastest, either. But after 220 Amazon ratings holding a 4.4-star average, this compact unit has earned a reputation that's worth investigating before you drop $190.**

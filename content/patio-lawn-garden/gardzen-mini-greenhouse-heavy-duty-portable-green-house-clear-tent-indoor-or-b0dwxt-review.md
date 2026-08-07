@@ -1,4 +1,5 @@
 ---
+
 title: "Gardzen Mini Greenhouse Heavy Duty Portable Green House, Cle"
 seo_title: "Gardzen Mini Greenhouse Review: Heavy Duty Portable Tent"
 meta_description: "Honest Gardzen Mini Greenhouse review: heavy duty frame, clear cover, portability tested. See pros, cons, and who should buy this 4.2-star portable tent."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWXT7PHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61faoVfV3iL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Zippered front and top panels provide full access for watering and harvesting without removing the cover"
   - "Reinforced steel frame with ground stakes holds up in moderate wind when properly anchored"
   - "Clear PVC cover lets in 80-90% of sunlight while protecting seedlings from frost and pests"
-cons:
+cons: 
   - "Cover is thin PVC — expect it to tear after one season if you live in a high-wind area or leave it up through winter"
   - "No built-in shelving; you'll need to buy wire racks separately if you want to maximize vertical space"
+
 ---
 
 Let's be blunt: most portable greenhouses under $100 are glorified plastic bags on flimsy poles. The Gardzen Mini Greenhouse tries to be different, and for the most part, it succeeds. With a 4.2-star average across 210 ratings, it's clearly earning its keep in backyards and balconies. But is it the right greenhouse for your setup? Here's what you need to know before you click buy.

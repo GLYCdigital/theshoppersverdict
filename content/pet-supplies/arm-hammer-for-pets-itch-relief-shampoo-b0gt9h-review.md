@@ -1,4 +1,5 @@
 ---
+
 title: "Arm & Hammer for Pets Itch Relief Shampoo"
 seo_title: "Arm & Hammer Pet Itch Relief Shampoo Review (2026)"
 meta_description: "Honest Arm & Hammer for Pets Itch Relief Shampoo review: Does baking soda actually stop dog scratching? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GT9HHRJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613msuM8gNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Baking soda formula neutralizes odors at the source rather than just masking them with fragrance"
   - "Colloidal oatmeal and salicylic acid target both itch relief and flaky skin in one wash"
   - "Tear-free, soap-free, and dye-free formula suits sensitive dogs and puppies over 12 weeks"
-cons:
+cons: 
   - "Lather is thinner than typical grooming shampoos — you'll need more product for thick double coats"
   - "Scent is mild oatmeal, not the strong 'fresh' fragrance some owners expect from Arm & Hammer"
+
 ---
 
 Your dog has been scratching for three days straight. You've tried wipes, sprays, and maybe a cone. What you need is something that addresses the root cause — not just masks the smell. That's where Arm & Hammer's Itch Relief Shampoo enters the picture, and it's earned a solid 4.5-star rating from 225 Amazon shoppers for good reason.

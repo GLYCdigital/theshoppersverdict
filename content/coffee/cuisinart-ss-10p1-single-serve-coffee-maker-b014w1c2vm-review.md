@@ -1,17 +1,18 @@
 ---
+
 title: "Cuisinart Coffee Maker SS-10P1 Single Serve with 72oz Reservoir"
 seo_title: "Cuisinart SS-10P1 Review: 4.2★ Single Serve Brewer at $121.99"
 meta_description: "Our full Cuisinart SS-10P1 single serve coffee maker review. 4.2 stars from 19,000+ ratings. 72-oz reservoir, hot water dispenser, and programmable brewing. Read the verdict."
 slug: "cuisinart-ss-10p1-single-serve-coffee-maker-review"
 image_alt: "Cuisinart Coffee Maker Single Serve 72-Ounce Reservoir Pod Coffee Machine in Stainless Steel"
-keywords:
+keywords: 
   - "Cuisinart SS-10P1 review"
   - "Cuisinart single serve coffee maker"
   - "best Keurig alternative coffee maker"
   - "Cuisinart pod coffee maker"
   - "single serve coffee maker with hot water dispenser"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Is the Cuisinart SS-10P1 quieter than Keurig brewers?"
     answer: "No, it's noticeably louder. Multiple reviews mention the brewing noise level, though most consider it acceptable given the build quality and performance."
   - question: "Does the Cuisinart SS-10P1 have a hot water dispenser?"
@@ -26,16 +27,17 @@ review_count: 19328
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PGlCG580L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72 oz reservoir is enormous — refill infrequently even in a multi-user household"
   - "Build quality noticeably better than Keurig equivalents; heavier, more substantial feel"
   - "Hot water dispenser is genuinely useful for tea, instant soup, and oatmeal"
   - "Rinse cycle keeps the brewer clean and extends machine life"
-cons:
+cons: 
   - "Noticeably loud during brewing — not a quiet morning machine"
   - "Plastic construction despite the premium feel; some durability concerns over time"
   - "Some longevity complaints — previous Cuisinart models lasted 12+ years, newer ones less so"
   - "No auto shutoff reported on brew cycle completion"
+
 ---
 
 The Cuisinart SS-10P1 isn't trying to be a tech marvel. It's a straightforward, ground-coffee-only single serve machine that does one thing — brew a decent cup fast — without the pod-lock-in that dominates this category. If you've been burned by machines that break in a year or overcomplicate a simple morning ritual, this one deserves a look.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Green Organic Latex Mattress - Medium Firmness"
 seo_title: "Pure Green Organic Latex Mattress - Medium Firmnes Review"
 meta_description: "Our full pure green organic latex mattress - medium firmness review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01KPWFX86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mSLGuXfVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been shopping for a natural latex mattress, you've likely hit a wall of confusion: Dunlop vs. Talalay, organic certifications, and price tags that make you blink twice. The Pure Green Organic Latex Mattress cuts through most of that noise with a refreshingly simple construction — but it's not without its tradeoffs. Here's what 220 Amazon reviewers (4.4 stars) and my own research reveal about whether this bed deserves your money.

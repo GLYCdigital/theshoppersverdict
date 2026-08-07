@@ -1,4 +1,5 @@
 ---
+
 title: "Onforu 130W Flood Lights Outdoor, 13000LM Brightness LED Lig"
 seo_title: "Onforu 130W Flood Lights Outdoor, 13000LM Brightne Review"
 meta_description: "Our full onforu 130w flood lights outdoor, 13000lm brightness led lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CH8JTF6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ei3R-GHvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you need to turn night into day in your backyard, the Onforu 130W flood light delivers serious output at a price that undercuts most big-box store options. But it's not a set-and-forget fixture — you'll wire it once and control it manually.

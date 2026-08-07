@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Plate, CUSIMAX Electric Burner Cast Iron Hot Plates Cook"
 seo_title: "Hot Plate, CUSIMAX Electric Burner Cast Iron Hot P Review"
 meta_description: "Our full hot plate, cusimax electric burner cast iron hot plates cook review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GS93TLXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613YG3ofwvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this CUSIMAX hot plate is: it's a backup burner, a dorm-room lifesaver, or a camping companion — not a full stove replacement. But within that lane, it performs surprisingly well, which is why it holds a respectable 4.3 out of 5 stars across 215 Amazon ratings.

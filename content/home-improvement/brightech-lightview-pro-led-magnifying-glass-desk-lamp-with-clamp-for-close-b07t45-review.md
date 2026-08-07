@@ -1,4 +1,5 @@
 ---
+
 title: "Brightech LightView PRO LED Magnifying Glass Desk Lamp with"
 seo_title: "Brightech LightView PRO Review: Best LED Magnifying Lamp"
 meta_description: "Brightech LightView PRO LED magnifying lamp review: 2.25x glass lens, 3 light modes, sturdy clamp. See if it's worth it for crafts and repairs."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07T45748Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714EvWfvJ8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True glass lens (not acrylic) delivers 2.25x magnification without the distortion or scratching that plagues cheaper plastic lenses"
   - "Three color temperature modes (3000K/4000K/6000K) with stepless dimming from 0-100%, so you can match lighting to the task"
   - "Heavy-duty C-clamp rated for desks up to 2.2 inches thick with a fully articulated 3-joint arm that stays where you put it"
-cons:
+cons: 
   - "Power adapter is bulky and the cord is only 5 feet long, limiting placement options on larger workbenches"
   - "The lens has a fixed focal length — you must keep your work at the optimal distance or the image blurs quickly"
+
 ---
 
 If you've ever squinted at a circuit board, a stamp collection, or your own shaky hands during a delicate repair, you know the pain of cheap magnifying lamps: wobbly arms, plastic lenses that scratch if you look at them wrong, and lighting that somehow makes everything worse. The Brightech LightView PRO is not that lamp. But at roughly twice the price of its budget competition, is it twice the tool? After digging through 229 ratings and the spec sheet, here's the real story.

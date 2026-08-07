@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Pitcher's Rubber - Softball + Baseball Pitch"
 seo_title: "Franklin Sports Pitcher's Rubber Review: Solid Pick for Practice"
 meta_description: "Franklin Sports Pitcher's Rubber review: durable dual-sided pitching rubber for baseball & softball. See pros, cons, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK7V5Z31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fLu1QRI8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-sided design gives you both baseball (6-inch) and softball (4-inch) heights on one unit"
   - "Heavyweight rubber construction stays put on dirt, grass, and turf without sliding"
   - "Molded cleat-grip texture on top surface provides solid footing during push-off"
-cons:
+cons: 
   - "No stakes or anchors included — can shift on very loose or sandy surfaces"
   - "At roughly 2 pounds, it's light enough to blow away if left on a hard surface uncovered"
+
 ---
 
 **The $20 Pitching Rubber That Fixes Your Backyard Practice Problem**

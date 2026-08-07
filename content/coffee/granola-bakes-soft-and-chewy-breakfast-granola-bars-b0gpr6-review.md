@@ -1,4 +1,5 @@
 ---
+
 title: "Granola Bakes - Soft and Chewy Breakfast Granola Bars"
 seo_title: "Granola Bakes - Soft and Chewy Breakfast Granola B Review"
 meta_description: "Our full granola bakes - soft and chewy breakfast granola bars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GPR678TG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916voNvn7tL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested dozens of granola bars that claim "soft and chewy" and deliver something closer to compressed cardboard. The Granola Bakes bars actually deliver on that promise, and at 4.4 stars across 220 ratings, I'm not alone in that assessment.

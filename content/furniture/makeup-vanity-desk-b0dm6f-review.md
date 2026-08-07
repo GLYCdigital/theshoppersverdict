@@ -1,4 +1,5 @@
 ---
+
 title: "Makeup Vanity Desk"
 seo_title: "Makeup Vanity Desk Review: Verdict | TSV"
 meta_description: "Our full makeup vanity desk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM6FXZFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jvFvhO1DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

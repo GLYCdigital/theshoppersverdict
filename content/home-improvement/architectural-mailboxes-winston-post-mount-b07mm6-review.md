@@ -1,4 +1,5 @@
 ---
+
 title: "Architectural Mailboxes Winston Post Mount"
 seo_title: "Architectural Mailboxes Winston Post Mount Review (2026)"
 meta_description: "Honest Architectural Mailboxes Winston Post Mount review: durability, installation, and real buyer feedback on this 4.6-star mailbox post."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07MM6FLKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iOS81ZCEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge aluminum body with rust-proof construction that holds up in coastal and snow-belt climates"
   - "Hidden hinge and locking door mechanism keeps mail secure and dry without an ugly external latch"
   - "Generous interior volume fits magazine-sized mail and small packages flat"
-cons:
+cons: 
   - "Mounting holes require precise drilling—misalignment is unforgiving and can strip the included screws"
   - "White finish shows dirt and pollen quickly compared to darker mailbox colors"
+
 ---
 
 Let me be blunt: most mailboxes under $100 are flimsy sheet metal that rusts within two seasons. The Architectural Mailboxes Winston Post Mount is not most mailboxes. It's an extruded aluminum unit that weighs roughly 15 pounds and feels like it could survive a minor fender bender. It's priced above the cheap big-box options, and after 229 Amazon ratings averaging 4.6 stars, buyers consistently confirm the premium is justified.

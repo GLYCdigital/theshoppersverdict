@@ -1,4 +1,5 @@
 ---
+
 title: "M-T Solder Fume Extractor, 80W 168mÂ³/h Strong Suction Smoke"
 seo_title: "M-T Solder Fume Extractor, 80W 168mÂ³/h Strong Suc Review"
 meta_description: "Our full m-t solder fume extractor, 80w 168mâ³/h strong suction smoke review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWMQ144K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mkWA7wTTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you solder more than once a month, you already know the drill: that acrid rosin smoke curls up right into your face, and you hold your breath or wave a hand around like it's going to help. It doesn't. The M-T Solder Fume Extractor is a purpose-built solution to that exact problem, and at 168m³/h of rated airflow, it's not messing around.

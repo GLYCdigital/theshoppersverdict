@@ -1,4 +1,5 @@
 ---
+
 title: "Weibath Modern 5-Light Shell Chandelier, 2-Tiered Faceted Pe"
 seo_title: "Weibath Modern 5-Light Shell Chandelier, 2-Tiered  Review"
 meta_description: "Our full weibath modern 5-light shell chandelier, 2-tiered faceted pe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGJ61HMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Si+hExsdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most chandeliers under $200 look like they came from a hotel liquidation sale — all brass plating and fake crystal. The Weibath Modern 5-Light Shell Chandelier, 2-Tiered Faceted Pendant Light is not that. At 4.6 stars across 229 ratings, it’s earning its keep in real dining rooms. Here’s the breakdown.

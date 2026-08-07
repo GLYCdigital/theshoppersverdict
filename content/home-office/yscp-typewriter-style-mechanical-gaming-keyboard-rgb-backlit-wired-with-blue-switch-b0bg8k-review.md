@@ -1,4 +1,5 @@
 ---
+
 title: "YSCP Typewriter Style Mechanical Gaming Keyboard RGB Backlit"
 seo_title: "YSCP Typewriter Style Mechanical Gaming Keyboard R Review"
 meta_description: "Our full yscp typewriter style mechanical gaming keyboard rgb backlit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BG8K14Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N2s8su9aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "vintage-style" keyboards are membrane junk dressed in retro clothing. The YSCP Typewriter Style Mechanical Gaming Keyboard is not that. It's a genuine mechanical board with real blue switches, and it's earned its 4.5-star rating from 225 buyers — not through gimmick, but through honest construction. Here's what you need to know before you click buy.

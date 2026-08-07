@@ -1,4 +1,5 @@
 ---
+
 title: "GeneralAire Pleated Media filter 12758 General 3-PACK SPECIA"
 seo_title: "GeneralAire 12758 Filter 3-Pack Review: Worth It?"
 meta_description: "Honest GeneralAire 12758 pleated media filter 3-pack review. See real performance, sizing accuracy, and value for HVAC systems before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B009CEVM6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QpJkRzjHL._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise 16x25x5 sizing with a rigid frame that slides into the media cabinet without bowing or compression"
   - "MERV 8 rating balances filtration efficiency with airflow — you won't choke your blower motor"
   - "Three-pack pricing works out to ~$41 per filter, which beats single-unit retail at most big-box stores"
-cons:
+cons: 
   - "No cardboard sleeve around the media; edges can shed fibers during installation if you handle them roughly"
   - "At 5 inches deep, these won't fit standard 1-inch filter grilles — measure your existing filter slot before ordering"
+
 ---
 
 A 5-inch media filter is one of those purchases you make once a year and forget about until your HVAC starts wheezing. If you've got a cabinet that takes a 16x25x5, the GeneralAire 12758 three-pack is likely on your radar. At $123.49 for three filters, you're paying a premium over the cheap 1-inch fiberglass specials — but these aren't the same product. Here's what you need to know before you click buy.

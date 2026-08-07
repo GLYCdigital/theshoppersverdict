@@ -1,4 +1,5 @@
 ---
+
 title: "BoostArea Floor Lamp, 15W LED Floor Lamp with 3 Dimmable Lev"
 seo_title: "BoostArea Floor Lamp Review: 15W LED With 3 Dimmable Levels"
 meta_description: "BoostArea Floor Lamp review: 15W LED with 3 dimmable levels. Is the 4.2-star reading lamp worth it? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DF22JT6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619ZVUrd7+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15W LED outputs roughly 1500 lumens — genuinely bright enough for reading or task work, not just ambient glow"
   - "Three dimmable levels let you drop to a warm 10W or 5W setting without flicker or audible hum"
   - "Simple two-button foot switch is easy to operate with bare feet or slippers — no bending down to find a tiny dial"
-cons:
+cons: 
   - "No color temperature adjustment — you're locked into the ~4000K neutral white, which some users find too clinical for bedrooms"
   - "Base is weighted but not rubber-padded; it can slide on hardwood floors if you bump it hard"
+
 ---
 
 A floor lamp is one of those purchases you don't think about until you're squinting at a book in a dark corner or tripping over cords at 2 a.m. The BoostArea 15W LED Floor Lamp sits in the crowded middle of Amazon's lighting aisle, promising three brightness levels and nothing fancy. After digging through 210 ratings and the specs, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Spectracide Weed & Grass Foaming Edger"
 seo_title: "Spectracide Weed & Grass Foaming Edger Review: Verdict | "
 meta_description: "Our full spectracide weed & grass foaming edger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWVT9YQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yFvwbk9FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Does the foam actually work, or is it just a gimmick?** I tested the Spectracide Weed & Grass Foaming Edger against a stubborn patch of crabgrass and dandelions along my fence line. The verdict: this is one of the smartest herbicide delivery systems I've used — but it has a volume problem you need to know about before buying.

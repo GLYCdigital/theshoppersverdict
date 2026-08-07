@@ -1,4 +1,5 @@
 ---
+
 title: "Campzlly 50 Amp Generator Cord 15FT 25FT and Power Inlet Box"
 seo_title: "Campzlly 50A Generator Cord & Inlet Box Review (2026)"
 meta_description: "Campzlly 50 amp generator cord with power inlet box: 4.7★ rated. We test the 15FT & 25FT options, build quality, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNTBHVK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZKVNm6WHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 6-gauge copper wire on both line and neutral — legit 50A capacity, not the 10-gauge wire some budget kits cheat with"
   - "Weatherproof inlet box with spring-loaded cover and stainless hardware that actually seals when closed"
   - "Both ends feature locking rings that prevent accidental disconnect during generator vibration"
-cons:
+cons: 
   - "The 15FT cord is short for anything beyond a generator placed right next to the inlet — plan your layout carefully"
   - "Inlet box mounting screws are soft; use your own deck screws or they'll strip"
   - "No storage bag included — the 25FT cord coils into a bulky 18-inch loop that needs a strap or hook"
+
 ---
 
 **Review Body:**

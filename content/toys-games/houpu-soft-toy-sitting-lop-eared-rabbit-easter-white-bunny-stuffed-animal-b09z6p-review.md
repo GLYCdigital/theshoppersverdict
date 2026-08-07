@@ -1,23 +1,25 @@
 ---
+
 title: "HOUPU Soft Toy - Sitting Lop Eared Rabbit, Easter White Bunn"
 seo_title: "HOUPU Lop Eared Rabbit Stuffed Animal Review (2026)"
 meta_description: "Honest HOUPU Sitting Lop Eared Rabbit review: softness, size, durability, and who should buy it. Real customer feedback on this Easter white bunny plush."
 slug: "houpu-soft-toy-sitting-lop-eared-rabbit-easter-white-bunny-stuffed-animal-b09z6p-review"
 image_alt: "HOUPU white lop eared rabbit stuffed animal sitting pose with floppy ears"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09Z6PPK6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n95j5xhML._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuinely plush fur — dense, silky, and holds up to repeated hugging without matting"  
   - "Sitting pose with weighted base — stays upright on shelves, beds, and Easter baskets"  
   - "Lop ears are floppy and soft, not stiff — safe for toddlers who chew or tug"  
-cons:  
+cons: 
   - "Smaller than photos suggest — roughly 12 inches tall, not a 'jumbo' plush"  
   - "Eyes are plastic and sewn on tightly, but older kids may find them too simple"
+
 ---
 
 You’ve seen a hundred “Easter bunny” plush toys — most are cheap, scratchy, and fall apart by the time the chocolate is gone. The HOUPU Sitting Lop Eared Rabbit is not that. At 4.5 stars from 225 ratings, this one earns its place in the basket. But is it worth your money? Let’s break it down.

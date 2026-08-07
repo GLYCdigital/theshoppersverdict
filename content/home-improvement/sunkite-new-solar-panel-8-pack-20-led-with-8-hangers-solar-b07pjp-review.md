@@ -1,4 +1,5 @@
 ---
+
 title: "SunKite New Solar Panel 8 Pack 20 Led with 8 Hangersï¼ŒSolar"
 seo_title: "SunKite New Solar Panel 8 Pack 20 Led with 8 Hange Review"
 meta_description: "Our full sunkite new solar panel 8 pack 20 led with 8 hangersï¼œsolar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07PJPJSNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s3XYCGMeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $25 question: Can an 8-pack of solar path lights under thirty bucks actually light your yard, or are you buying disposable junk? After digging through 220 verified ratings and the specs, here's the real story.**

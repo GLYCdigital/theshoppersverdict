@@ -1,4 +1,5 @@
 ---
+
 title: "UNCHARTED: Legacy of Thieves Collection - PlayStation 5"
 seo_title: "UNCHARTED: Legacy of Thieves Collection - PlayStat Review"
 meta_description: "Our full uncharted: legacy of thieves collection - playstation 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09NB7XNVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81olw39iEsL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you've never played *Uncharted 4* or *The Lost Legacy*, this collection is a no-brainer. If you have — well, it depends on how much you value 60 frames per second and DualSense rumble.

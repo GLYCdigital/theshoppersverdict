@@ -1,4 +1,5 @@
 ---
+
 title: "LunchEAZE Core Gen 2 Cordless Heated & Electric Lunch Box â€"
 seo_title: "LunchEAZE Core Gen 2 Cordless Heated & Electric Lu Review"
 meta_description: "Our full luncheaze core gen 2 cordless heated & electric lunch box â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHQ6RFF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xgsjcUO+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "portable food warmers" are just insulated thermoses with a marketing budget. The LunchEAZE Core Gen 2 is actually different — it's got a real heating element and a battery that keeps food hot without being tethered to a wall outlet. After 220 Amazon ratings averaging 4.4 stars, it's clearly earning its keep. But is it right for *your* routine? Here's the full picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cardinal 1.5 Inch 3 Ring Binder,Binder for School and Office"
 seo_title: "Cardinal 1.5 Inch 3 Ring Binder Review: Solid School Pick"
 meta_description: "Cardinal 1.5-inch 3-ring binder review: durable covers, smooth-turning rings, and real-world limits. See who should buy and who should skip."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01DA4G952/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51k5DBDiJ3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rings open smoothly and stay aligned even after months of heavy page-turning"
   - "Durable PVC-free covers resist scuffs and bending in backpacks"
   - "Back pocket holds loose handouts without tearing at the seams"
-cons:
+cons: 
   - "1.5-inch capacity is tighter than expected — about 300 sheets max, not the 350+ advertised"
   - "No spine label window, so you'll need a separate label or marker"
+
 ---
 
 ## The Everyday Workhorse That Gets the Job Done

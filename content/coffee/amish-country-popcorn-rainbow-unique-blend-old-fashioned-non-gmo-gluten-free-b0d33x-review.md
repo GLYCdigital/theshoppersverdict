@@ -1,4 +1,5 @@
 ---
+
 title: "Amish Country Popcorn Rainbow Unique Blend - Old Fashioned,"
 seo_title: "Amish Country Popcorn Rainbow Blend Review (2026)"
 meta_description: "Honest Amish Country Popcorn Rainbow Unique Blend review: flavor, texture, value, and what 225 Amazon buyers say. Is this non-GMO heirloom mix worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D33XK1Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OnY5K0SaL._SL1500_.jpg"
-pros:
+pros: 
   - "Four distinct kernel colors (white, yellow, red, blue) each with different textures and popping characteristics"
   - "Old-fashioned hull integrity means fewer tough hulls; most kernels pop into large, tender mushroom-style pieces"
   - "Non-GMO, gluten-free, and grown by Amish family farms in Ohio — verified in customer reviews and packaging"
-cons:
+cons: 
   - "Some batches arrive with a higher percentage of unpopped kernels (about 15-20%) regardless of popping method"
   - "No resealable bag closure — you'll need your own storage container or clip after opening the 1.5-lb bag"
+
 ---
 
 ## The Popcorn That Actually Tastes *Different*

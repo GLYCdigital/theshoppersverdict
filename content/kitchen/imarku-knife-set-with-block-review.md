@@ -1,5 +1,6 @@
 ---
 
+
 title: "imarku Knife Set with Block"
 seo_title: "imarku Knife Set with Block Review: Honest 2026 Verdict"
 meta_description: "imarku Knife Set with Block review: 15-piece German steel set at $49.99. See pros, cons, real buyer feedback, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 2531
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2XBWG2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zFKQ5MaeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full tang German stainless steel blades hold a sharp edge for months with regular honing"
   - "15-piece set covers everything from a 8-inch chef's knife to 6 steak knives — no gaps"
   - "Acacia wood block stores all knives safely and looks far more expensive than $50 inch"
-cons:
+cons: 
   - "Sheath-less block means the included kitchen shears and honing steel rattle loosely in their slots"
   - "Stamped blades (not forged) — fine for home cooks, but serious chefs will notice the lighter feel"
   - "Not dishwasher safe despite what some listings imply; hand-washing is mandatory"
+
 
 ---
 

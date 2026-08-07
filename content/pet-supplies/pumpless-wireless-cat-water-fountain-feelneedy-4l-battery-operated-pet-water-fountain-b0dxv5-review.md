@@ -1,4 +1,5 @@
 ---
+
 title: "Pumpless Wireless Cat Water Fountain, FEELNEEDY 4L Battery O"
 seo_title: "Pumpless Wireless Cat Water Fountain, FEELNEEDY 4L Review"
 meta_description: "Our full pumpless wireless cat water fountain, feelneedy 4l battery o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DXV5TPVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EXW2FvSlL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pumpless Wireless Cat Water Fountain, FEELNEEDY 4L Battery O**

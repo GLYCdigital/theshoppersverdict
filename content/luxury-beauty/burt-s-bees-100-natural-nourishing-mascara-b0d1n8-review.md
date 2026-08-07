@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees 100% Natural Nourishing Mascara"
 seo_title: "Burt's Bees Nourishing Mascara Review (2026): Worth It?"
 meta_description: "Honest Burt's Bees 100% Natural Nourishing Mascara review: performance, wear time, smudge resistance, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D1N81VKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bgZbd2ToL._SL1500_.jpg"
-pros:
+pros: 
   - "Conditioning formula with jojoba oil and keratin that visibly improves lash softness over time"
   - "No flaking or smudging through 10+ hour wear, even for oily eyelids"
   - "Easy, gentle removal with warm water — no harsh rubbing or dedicated eye makeup remover needed"
-cons:
+cons: 
   - "Wand is too large for precise lower-lash application and tends to deposit excess product"
   - "Volume build requires 3+ coats; not ideal for those wanting dramatic, one-swipe results"
+
 ---
 
 Let's be direct: finding a natural mascara that actually performs is like hunting for a unicorn. Most "clean" formulas smudge by lunch, flake by 3 PM, or cling to your lashes like cement. Burt's Bees 100% Natural Nourishing Mascara claims to break that cycle. With a 4.1-star average across 204 ratings, it's clearly doing something right — but it's not perfect. Here's the unvarnished breakdown.

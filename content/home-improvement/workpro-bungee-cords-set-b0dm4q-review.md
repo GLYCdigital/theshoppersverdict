@@ -1,4 +1,5 @@
 ---
+
 title: "WORKPRO Bungee Cords Set"
 seo_title: "WORKPRO Bungee Cords Set Review: Verdict | TSV"
 meta_description: "Our full workpro bungee cords set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM4QLM7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eRlq0h3tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## WORKPRO Bungee Cords Set Review: The 10-Piece Kit That Actually Earns Its Keep

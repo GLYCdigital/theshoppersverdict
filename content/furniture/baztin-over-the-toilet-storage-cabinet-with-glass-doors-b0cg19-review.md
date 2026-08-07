@@ -1,4 +1,5 @@
 ---
+
 title: "Baztin Over The Toilet Storage Cabinet with Glass Doors"
 seo_title: "Baztin Over Toilet Cabinet Review: Glass Door Storage (2026)"
 meta_description: "Honest Baztin over-the-toilet storage cabinet review: build quality, glass door durability, assembly, and whether it's worth your bathroom space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG19Z4V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kGmeuJFoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tempered glass doors with soft-close hinges — no slamming, no shatter risk in a humid bathroom"
   - "Three adjustable shelves inside each of the two cabinets, giving you 6 configurable storage levels"
   - "Pre-drilled anti-tip wall anchor kit included, which is non-negotiable for over-toilet furniture"
-cons:
+cons: 
   - "Assembly takes about 90 minutes with two people — the glass panels are heavy and awkward solo"
   - "White finish is glossy and shows water spots and fingerprints easily; you'll wipe it down weekly"
+
 ---
 
 If your bathroom is drowning in towels, toilet paper, and the 47 half-used bottles of shampoo you swear you'll finish, the Baztin Over The Toilet Storage Cabinet is the vertical rescue mission you've been looking for. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in real bathrooms — but let's talk about what that rating doesn't tell you before you pull the trigger.

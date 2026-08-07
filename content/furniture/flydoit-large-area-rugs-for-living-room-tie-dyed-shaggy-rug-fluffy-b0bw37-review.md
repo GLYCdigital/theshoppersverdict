@@ -1,4 +1,5 @@
 ---
+
 title: "FlyDOIT Large Area Rugs for Living Room, Tie-Dyed Shaggy Rug"
 seo_title: "FlyDOIT Tie-Dyed Shaggy Rug Review: Soft, Bold, Affordable"
 meta_description: "Honest FlyDOIT large area rug review: is the tie-dyed shaggy rug soft enough for living rooms? We break down durability, shedding, and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BW373CKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pief6dicL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely plush underfoot — multiple buyers describe it as 'cloud-like' with a dense shag pile that doesn't flatten easily"
   - "Tie-dye pattern effectively hides stains, pet hair, and everyday dirt better than solid-color rugs"
   - "Available in a wide range of sizes including oversized 8x10 and 9x12 options at a fraction of boutique rug prices"
-cons:
+cons: 
   - "Significant shedding for the first 2-3 weeks — vacuuming required every other day initially, and some buyers report continued shedding"
   - "Pile is shorter than traditional shag (about 1 inch vs 2+ inches), so it's not the deep-sink feel some expect"
   - "No non-slip backing — you'll need a separate rug pad, especially on hardwood or tile floors"
+
 ---
 
 If you're scrolling through yet another page of beige and gray area rugs, the FlyDOIT Tie-Dyed Shaggy Rug is the visual jolt you've been looking for. This isn't a subtle accent piece — it's a statement. And at a price point that undercuts most boutique shag options by half, it's worth a serious look.

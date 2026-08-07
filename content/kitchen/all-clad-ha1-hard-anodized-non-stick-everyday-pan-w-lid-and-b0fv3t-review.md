@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad HA1 Hard Anodized Non Stick Everyday Pan w/Lid and"
 seo_title: "All-Clad HA1 Nonstick Pan Review (2026): Worth It?"
 meta_description: "All-Clad HA1 hard anodized nonstick pan review: 4.5-star rated. We test durability, heating, and value. Is this everyday pan worth $100+? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FV3T14WC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VkZ6bb-SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely durable nonstick — PTFE-free ceramic-reinforced coating survives metal utensils and high heat without peeling"
   - "Oven-safe to 500°F with a stainless steel riveted handle that stays cool on the stovetop"
   - "Heavy-gauge hard anodized aluminum heats evenly with no hot spots, even on induction"
-cons:
+cons: 
   - "10.5-inch pan weighs 3.2 lbs empty — noticeably heavier than typical nonstick pans"
   - "Coating is nonstick but not 'slide eggs with zero oil' slick; you still need a touch of fat"
   - "No helper handle on the 8.5-inch version — awkward when full and hot"
+
 ---
 
 Let's cut through the noise. There are roughly 4,000 nonstick frying pans on Amazon, and most of them are disposable junk that warps in six months. The All-Clad HA1 is not that. It's a $100+ pan that actually earns its price tag — but it's not perfect, and you should know exactly what you're getting before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Razer BlackWidow TKL"
 seo_title: "Razer BlackWidow TKL Review: Verdict | TSV"
 meta_description: "Our full razer blackwidow tkl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C555ZH2T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714bUefXXnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the gamer aesthetic for a second. The Razer BlackWidow TKL is one of the most recognizable mechanical keyboards on Amazon — 225 ratings deep and holding a 4.5-star average. But here's what the listing photos don't tell you: this is a typing instrument first, a gaming peripheral second. 

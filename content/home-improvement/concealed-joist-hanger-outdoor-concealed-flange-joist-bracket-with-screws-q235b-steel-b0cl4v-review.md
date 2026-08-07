@@ -1,4 +1,5 @@
 ---
+
 title: "Concealed Joist Hanger , Outdoor Concealed-Flange Joist Brac"
 seo_title: "Concealed Joist Hanger Review: Is It Worth It? (2026)"
 meta_description: "Honest concealed joist hanger review: Q235B steel, hidden flange design, real buyer feedback. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL4VJ2CJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gcJg-zeLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hidden flange design creates a clean, finished look — no exposed metal tabs on the outside of the beam"
   - "Thick Q235B steel with hot-dip galvanized coating holds up in wet outdoor conditions without rusting"
   - "Screw holes are pre-drilled and properly aligned — no drilling or modification needed out of the box"
-cons:
+cons: 
   - "Only fits 2x lumber — if you're working with engineered joists or metric timber, it won't work"
   - "No load rating stamped on the bracket itself — you'll need to contact the seller or check the listing for structural specs"
   - "Screws included are basic and short — most buyers recommend upgrading to structural screws for real load-bearing work"
+
 ---
 
 If you're building a pergola, deck, or covered patio and you're tired of looking at those chunky metal joist hangers with exposed flanges, this concealed option is worth a serious look. It's a niche product, but for the right project, it solves a real aesthetic problem.

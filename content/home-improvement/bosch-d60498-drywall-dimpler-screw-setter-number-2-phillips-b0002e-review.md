@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH D60498 Drywall Dimpler® Screw Setter, Number 2 Philli"
 seo_title: "BOSCH D60498 Drywall Dimpler Review: Worth It? (2026)"
 meta_description: "BOSCH D60498 Drywall Dimpler #2 Phillips screw setter review: depth control, durability, and real-world performance. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0002EVG0W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zM2rEe5ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable depth collar sets screw depth consistently without crushing paper — dial it in once and it holds"
   - "Hardened steel bit resists cam-out and stripping, even on drywall screws with cheap coatings"
   - "Fits standard 1/4-inch hex chuck and works with any variable-speed drill or impact driver"
-cons:
+cons: 
   - "The depth collar can loosen over heavy use if not checked periodically — a drop of threadlocker fixes it permanently"
   - "Not magnetic — you'll need a screw holder or magnetic sleeve to set the first screw of each row"
   - "The #2 Phillips tip is the only configuration; if you use square-drive drywall screws, look elsewhere"
+
 ---
 
 If you've ever hung drywall with a standard drill and a prayer, you know the drill: one screw sinks too deep and tears the paper, the next sits proud and you have to dimple it with a hammer — which cracks the board. The BOSCH D60498 Drywall Dimpler® Screw Setter exists to delete that whole frustrating dance. At around $10–12, it's a small investment that pays off in spades if you're hanging more than a single sheet.

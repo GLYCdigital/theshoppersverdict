@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS Outdoor Wall Light Fixtures, Black Roman 17.7 inch  H E"
 seo_title: "DEWENWILS Outdoor Wall Light Review: Black Roman 17.7 inch "
 meta_description: "DEWENWILS Black Roman outdoor wall light review: sturdy die-cast aluminum, warm E26 glow, easy install. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TZR86YZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d4r2BF3+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant black finish that holds up through rain, snow, and sun without rusting or fading"
   - "Standard E26 socket accepts any bulb — from warm LED filaments to smart bulbs — giving you total control over color and brightness"
   - Clean, classic Roman profile at 17.7 inch " H that reads as custom millwork, not a cheap big-box fixture
-cons:
+cons: 
   - "Bulbs not included — you'll need to budget for two E26 bulbs separately"
   - "Glass shade is clear, so any dust or dead bugs inside are immediately visible from the street"
+
 ---
 
 Some exterior lights scream "builder grade." Others whisper "I cost more than I actually did." The DEWENWILS Black Roman wall light sits firmly in the second camp — and at this price point, that's a rare thing. I've installed enough fixtures to know the difference between a $30 light that looks like $30 and one that looks like $80. This is the latter.

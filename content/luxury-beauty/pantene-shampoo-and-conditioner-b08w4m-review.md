@@ -1,4 +1,5 @@
 ---
+
 title: "Pantene Shampoo and Conditioner"
 seo_title: "Pantene Shampoo and Conditioner Review: Verdict | TSV"
 meta_description: "Our full pantene shampoo and conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08W4MW58Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716qDLkIC-L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: Pantene has a reputation problem. For years, the beauty community has whispered about buildup, silicones, and "drugstore" formulas. But this specific shampoo and conditioner set has quietly amassed 220 ratings at 4.4 stars — and that kind of consistency is hard to fake.

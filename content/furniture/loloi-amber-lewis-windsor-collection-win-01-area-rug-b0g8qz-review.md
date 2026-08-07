@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Amber Lewis Windsor Collection WIN-01 Area Rug"
 seo_title: "Loloi Amber Lewis Windsor Collection WIN-01 Area R Review"
 meta_description: "Our full loloi amber lewis windsor collection win-01 area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0G8QZZYPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LtIldAFoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Loloi Amber Lewis Windsor WIN-01 is a study in contradictions.** It's a designer-branded rug that looks far more expensive than it costs, yet it arrives with quirks that will test your patience. After digging through 185 Amazon ratings and analyzing the construction, here's the real story.

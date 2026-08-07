@@ -1,7 +1,8 @@
 ---
-title: "Tribesigns 63\" Farmhouse Console Table"
-seo_title: "Tribesigns 63\" Farmhouse Console Table Review: Verdict | "
-meta_description: "Our full tribesigns 63\" farmhouse console table review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tribesigns 63\ Farmhouse Console Table"
+seo_title: "Tribesigns 63\ Farmhouse Console Table Review: Verdict | "
+meta_description: "Our full tribesigns 63\ farmhouse console table review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tribesigns-63-farmhouse-console-table-b0fp2m-review"
 image_alt: "Tribesigns 63 Farmhouse Console Table"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FP2MXB57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cbtUe+9FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a console table under $150, you've likely seen this Tribesigns piece flood your search results. With 220 ratings and a 4.4-star average, it's one of the more popular farmhouse-style entries in the category. But popularity isn't the same as quality. Here's what you actually get.

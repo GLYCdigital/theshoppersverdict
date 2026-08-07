@@ -1,24 +1,26 @@
 ---
+
 title: "Artnaturals Oil Conditioner Fl Oz Castor - â€“ and for Color"
 seo_title: "Artnaturals Castor Oil Conditioner Review: Is It Worth It?"
 meta_description: "Artnaturals castor oil conditioner for color-treated hair review: 4.4-star rated. Does it hydrate without stripping dye? Find out in our honest verdict."
 slug: "artnaturals-oil-conditioner-fl-oz-castor-and-for-color-treated-hair-b0cdqb-review"
 image_alt: "Artnaturals castor oil conditioner bottle for color-treated hair with pump dispenser"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDQBGR6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sie9OBTDL._SL1500_.jpg"
-pros:  
+pros: 
   - "Castor oil and argan oil blend actually penetrates — most reviewers report softer hair within a week, not just surface slip."  
   - "Sulfate-free and color-safe formula with a pump dispenser — you get controlled doses, no more half-empty bottles from messy flip-tops."  
   - "Works as a detangler on thick, curly hair — multiple reviews note it cuts through knots without turning hair greasy."  
-cons:  
+cons: 
   - "Scent is polarizing — some describe it as 'herbal' and 'medicinal,' not the vanilla-coconut you might expect from a luxury conditioner."  
   - "Thicker consistency means it can weigh down fine, straight hair if you use more than a quarter-sized amount."  
   - "Pump can clog if you leave the cap off — a few buyers had to rinse the tube after a week of use."
+
 ---
 
 **Opening: The 4.4-star conditioner that actually respects your dye job**  

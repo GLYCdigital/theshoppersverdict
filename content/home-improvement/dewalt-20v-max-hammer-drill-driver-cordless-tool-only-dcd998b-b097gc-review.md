@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX Hammer Drill & Driver, Cordless, Tool Only (D"
 seo_title: "DEWALT 20V MAX Hammer Drill Review (2026): DCD998B Verdict"
 meta_description: "DEWALT 20V MAX hammer drill DCD998B review: 4.5★ rated, 3-speed, brushless power. Read pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B097GCMZ21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pv8jtH-lS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Powerful brushless motor with 3-speed gearbox, including a high-speed mode for drilling up to 2,000+ RPM"
   - "Compact design (under 8 inches long) fits into tight spaces where bulkier drills won't"
   - "Durable XR build with all-metal chuck and belt clip included in the box"
-cons:
+cons: 
   - "Tool-only — you'll need to supply your own battery and charger, which adds $100+ if you're not already in the DEWALT 20V ecosystem"
   - "Hammer mode is aggressive; it can over-drill in softer materials if you're not careful with trigger control"
+
 ---
 
 If you're already invested in DEWALT's 20V MAX battery platform, this hammer drill is a no-brainer upgrade. If you're not, well — this is the drill that might convince you to switch.

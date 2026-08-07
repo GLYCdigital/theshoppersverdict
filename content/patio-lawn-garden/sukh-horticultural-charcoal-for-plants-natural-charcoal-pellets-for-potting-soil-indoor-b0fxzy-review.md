@@ -1,4 +1,5 @@
 ---
+
 title: "Sukh Horticultural Charcoal for Plants - Natural Charcoal Pe"
 seo_title: "Sukh Horticultural Charcoal for Plants - Natural C Review"
 meta_description: "Our full sukh horticultural charcoal for plants - natural charcoal pe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXZY8X95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+8bzibjiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most gardeners discover horticultural charcoal the hard way — after a root-rot incident. Sukh's version is a solid entry point if you're ready to stop treating your potted plants like they live in a swamp.

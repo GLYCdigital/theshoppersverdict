@@ -1,4 +1,5 @@
 ---
+
 title: "DAKAFUL Wall Light"
 seo_title: "DAKAFUL Wall Light Review: 2026 Buyer's Guide"
 meta_description: "Honest DAKAFUL Wall Light review: 4.7-star rated with 235+ reviews. See real performance, build quality, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSZ9H3FG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sdjsNmi2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free installation with included template and adhesive strips — 15-minute setup for renters"
   - "2700K warm light output that doesn't glare — diffuser panel distributes light evenly"
   - "Motion sensor range of 10 feet with 30-second auto-off, tested reliable in hallway use"
-cons:
+cons: 
   - "USB-only power — no hardwired option, so a visible cable runs along the wall"
   - "Plastic housing feels light at 0.9 lbs; not ideal for outdoor or high-traffic bump zones"
+
 ---
 
 Let's cut through the LED lighting noise. The DAKAFUL Wall Light sits in a crowded category of battery-powered, motion-sensing fixtures that promise convenience but often deliver flickering disappointment. With a 4.7-star average across 235 ratings, this one's getting real traction. Here's what I found after digging into the specs, the customer feedback, and the actual tradeoffs you'll live with.

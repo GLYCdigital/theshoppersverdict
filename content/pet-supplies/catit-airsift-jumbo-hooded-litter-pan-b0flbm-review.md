@@ -1,4 +1,5 @@
 ---
+
 title: "Catit Airsift Jumbo Hooded Litter Pan"
 seo_title: "Catit Airsift Jumbo Hooded Litter Pan Review (2026)"
 meta_description: "Honest Catit Airsift Jumbo Hooded Litter Pan review: charcoal filter, jumbo size, odor control. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLBMR8VG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HlSfNvCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely jumbo interior (roughly 24”L x 19”W) fits 15+ lb cats comfortably without hitting the ceiling"
   - "Effective carbon filter in the roof traps ammonia odors — not just masking them"
   - "Clear swing door lets cats see escape route, reducing the 'trapped' hesitation most hooded boxes cause"
-cons:
+cons: 
   - "Scooping is awkward — the opening is high-walled, so you need a long-handled scoop or you're reaching deep"
   - "Carbon filters are proprietary and need replacing every 2-3 months (~$8 for a 2-pack)"
   - "Litter tracking is still a thing — the textured ramp helps, but litter still escapes when cats exit fast"
+
 ---
 
 **If you've got a big cat and a small apartment, you already know the struggle: most hooded litter boxes are either too cramped for a 15-pound Maine Coon or too flimsy to contain the smell. The Catit Airsift Jumbo is the first pan I've tested that actually solves both problems without turning scooping into a contortionist act. Here's the honest breakdown.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Hayaati Florence for Women Eau de Parfum Spray, 3.4 "
 seo_title: "Lattafa Hayaati Florence for Women Eau de Parfum S Review"
 meta_description: "Our full lattafa hayaati florence for women eau de parfum spray, 3.4  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F19FDDD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w1uG1zDeL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what you're actually getting here. Lattafa has built a cult following in the fragrance community for delivering Middle Eastern-style perfumery at drugstore prices, and the Hayaati Florence is one of their most talked-about releases in that lineup. With 225 ratings holding at 4.5 stars, it's clearly resonating — but is it worth your money?

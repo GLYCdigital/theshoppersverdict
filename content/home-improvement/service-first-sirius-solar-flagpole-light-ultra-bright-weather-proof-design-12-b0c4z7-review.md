@@ -1,4 +1,5 @@
 ---
+
 title: "Service First Sirius Solar Flagpole Light - Ultra Bright - W"
 seo_title: "Service First Sirius Solar Flagpole Light - Ultra  Review"
 meta_description: "Our full service first sirius solar flagpole light - ultra bright - w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4Z7GVD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716NoCLf1OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you fly a flag at night, you already know the problem: either you leave a porch light on all evening (wasteful), or your flag disappears into the dark after sunset. The Service First Sirius Solar Flagpole Light aims to fix that with a 360-degree LED ring that clips onto your existing pole — no wiring, no electrician, no drilling.**

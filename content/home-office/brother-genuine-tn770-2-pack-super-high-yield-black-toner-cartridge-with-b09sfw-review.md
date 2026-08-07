@@ -1,5 +1,6 @@
 ---
 
+
 title: "Brother Genuine TN770 2-Pack Super High Yield Black Toner Ca"
 seo_title: "Brother TN770 2-Pack Review: Super High Yield Toner"
 meta_description: "Honest Brother TN770 2-pack toner review: 6,000-page yield per cartridge, genuine quality, and cost-per-page math. Is it worth it? Read before you buy."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SFW1VC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31EKwZdzR5L._AC_SY355_.jpg"
-pros:
+pros: 
   - "Genuine Brother cartridge with 6,000-page yield per unit — roughly 3x the standard TN730 inch"
   - "Chip pre-installed; no reset tricks or firmware compatibility headaches"
   - "Cost per page lands around 2.5-3 cents, which beats most OEM single-cartridge options"
-cons:
+cons: 
   - "Upfront price stings compared to third-party clones — you're paying for reliability"
   - "No shelf-life guarantee printed on box; store in cool, dry conditions or risk clumping"
+
 
 ---
 

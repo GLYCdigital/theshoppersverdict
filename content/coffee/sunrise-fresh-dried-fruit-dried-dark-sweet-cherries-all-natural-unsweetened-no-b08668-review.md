@@ -1,4 +1,5 @@
 ---
+
 title: "Sunrise Fresh Dried Fruit - Dried Dark Sweet Cherries - All-"
 seo_title: "Sunrise Fresh Dried Fruit - Dried Dark Sweet Cherr Review"
 meta_description: "Our full sunrise fresh dried fruit - dried dark sweet cherries - all- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086682CRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xVsfKDetL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought "dried cherries" only to flip the bag over and find sugar listed as the second ingredient, you know the struggle. Sunrise Fresh's unsweetened dark sweet cherries skip all that — it's just cherries, dried. That's the whole pitch, and for the most part, they deliver.

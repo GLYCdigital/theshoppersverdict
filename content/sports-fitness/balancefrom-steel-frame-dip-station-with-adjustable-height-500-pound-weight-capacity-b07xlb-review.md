@@ -1,4 +1,5 @@
 ---
+
 title: "BalanceFrom Steel Frame Dip Station with Adjustable Height,"
 seo_title: "BalanceFrom Dip Station Review: 500lb Capacity, Adjustable"
 meta_description: "Honest BalanceFrom Steel Frame Dip Station review: 500lb capacity, adjustable grips, stability issues. Is it worth buying? Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07XLBCKB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YDT8KgJ9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Welded steel frame rated for 500 lbs with non-slip rubber base grips that stay put on hardwood and tile"
   - "Four adjustable height positions (28.5-38 inches) with push-button pins that let you switch settings in seconds"
   - "Contoured foam grips reduce palm fatigue during high-rep sets — a real upgrade over bare metal bars"
-cons:
+cons: 
   - "Foam grips are glued on and will eventually peel after heavy daily use — plan for replacement grips"
   - "At 16 pounds it's lightweight enough to tip if you swing aggressively; needs a controlled tempo"
   - "Push-button adjustment pins can bind if you don't align the holes perfectly — minor frustration during setup"
+
 ---
 
 **The Budget Dip Station That Respects Your Ceiling — and Your Wallet**

@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad HA1 Hard Anodized Non Stick Fry Pan Set 2 Piece, 8,"
 seo_title: "All-Clad HA1 Nonstick Fry Pan Set Review (2026): Worth It?"
 meta_description: "All-Clad HA1 2-piece nonstick fry pan set review: 8 inch  & 10 inch  pans, hard anodized build, PFOA-free. See real pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4VBPV6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+hLUYHEmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Triple-layer nonstick coating is genuinely durable — holds up through heavy weekly use without flaking or peeling"
   - "Hard anodized body heats evenly with no hot spots; handles stay cool on the stovetop"
   - "Oven-safe up to 500°F, making these versatile for stovetop-to-broiler cooking"
-cons:
+cons: 
   - "Not induction-compatible — a dealbreaker for induction cooktop owners"
   - "8-inch pan is shallow; deep frying or large omelets will crowd it quickly"
   - "Handles are riveted, which creates small crevices that need careful hand washing"
+
 ---
 
 Let's be direct: most nonstick pan sets under $150 are disposable. You use them for a year, the coating starts peeling, and you're back on Amazon ordering another set. The All-Clad HA1 set is different — but it's also not perfect. Here's the real story after digging through 229 ratings and owner feedback.

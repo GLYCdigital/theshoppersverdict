@@ -1,4 +1,5 @@
 ---
+
 title: "Mazjoaru Nursery Book Shelves for Wall Set of 3"
 seo_title: "Mazjoaru Nursery Book Shelves for Wall Set of 3 Review: V"
 meta_description: "Our full mazjoaru nursery book shelves for wall set of 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DHKM6LFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fZ6oy2LsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a toddler yank every book off a shelf just to find the one with the truck on the cover, you already understand the appeal of face-out storage. The Mazjoaru Nursery Book Shelves for Wall Set of 3 solves that specific problem — and does it with a clean, modern look that doesn't scream "nursery."

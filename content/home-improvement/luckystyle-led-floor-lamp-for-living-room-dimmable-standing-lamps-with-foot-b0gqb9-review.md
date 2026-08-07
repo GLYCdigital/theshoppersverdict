@@ -1,4 +1,5 @@
 ---
+
 title: "luckystyle LED Floor Lamp for Living Room, Dimmable Standing"
 seo_title: "luckystyle LED Floor Lamp for Living Room, Dimmabl Review"
 meta_description: "Our full luckystyle led floor lamp for living room, dimmable standing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQB9X87G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vlWzPiujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The luckystyle LED Floor Lamp is the rare budget-friendly standing lamp that actually respects your living room.**

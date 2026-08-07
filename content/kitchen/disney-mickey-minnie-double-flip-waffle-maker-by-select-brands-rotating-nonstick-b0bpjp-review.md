@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Mickey & Minnie Double Flip Waffle Maker by Select Br"
 seo_title: "Disney Mickey & Minnie Double Flip Waffle Maker Review (2026)"
 meta_description: "Honest Disney Mickey & Minnie Double Flip Waffle Maker review: rotating nonstick design, real waffle quality, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BPJPKWFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LvX40mjwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rotating hinge flips both waffle plates simultaneously, producing evenly browned waffles without opening the lid mid-cook"
   - "Nonstick plates release Mickey and Minnie face waffles cleanly with minimal oil, and both sides cook at once"
   - "Compact footprint with vertical storage option, plus a locking latch for upright stowing"
-cons:
+cons: 
   - "No indicator light — you'll rely on steam and trial-and-error for doneness, which takes a few batches to dial in"
   - "Cord is short (about 2 feet), so placement near an outlet is mandatory unless you use an extension cord"
+
 ---
 
 # Disney Mickey & Minnie Double Flip Waffle Maker by Select Brands: A Rotating Waffle Machine That Earns Its Keep

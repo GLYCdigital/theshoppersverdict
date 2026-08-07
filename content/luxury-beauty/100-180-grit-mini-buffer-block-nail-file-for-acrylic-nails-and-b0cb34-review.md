@@ -1,4 +1,5 @@
 ---
+
 title: "100/180 Grit mini Buffer Block Nail File for Acrylic Nails a"
 seo_title: "100/180 Grit Mini Buffer Block Review: Nail File Tested"
 meta_description: "Honest 100/180 grit mini buffer block nail file review for acrylics. Tested durability, grit performance & value. See if it beats the salon."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CB34PDHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ar-p6EDdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 100/180 grit surface actually replaces two separate tools — coarse side shapes acrylic in seconds, fine side buffs to a smooth finish without extra steps"
   - "Compact wedge shape gives precise control for cuticle-area detailing and sidewall cleanup that full-size files just can't reach"
   - "Foam core holds up to repeated use and cleaning — no crumbling or grit shedding after multiple sessions"
-cons:
+cons: 
   - "No included case or protective sleeve — the coarse side will scratch other tools if tossed loose in a bag"
   - "Slightly too small for full-hand filing marathons if you're doing both hands in one session — you'll want a full-size file for bulk work"
+
 ---
 
 **The 100/180 Grit Mini Buffer Block: Small Tool, Serious Results**

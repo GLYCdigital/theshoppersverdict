@@ -1,4 +1,5 @@
 ---
+
 title: "Cascadian Farm Organic Raisin Bran Cereal, 12 oz"
 seo_title: "Cascadian Farm Organic Raisin Bran Review (2026): Worth It?"
 meta_description: "Honest Cascadian Farm Organic Raisin Bran review: taste, texture, value vs. Kellogg's. Is this 4.6-star cereal worth the price? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D15BRQ3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jCVnoZwCL._SL1500_.jpg"
-pros:
+pros: 
   - "Whole-grain wheat flakes stay crunchy in milk for several minutes without turning to mush"
   - "Raisins are plump, juice-infused, and generously distributed throughout the box"
   - "Certified organic with no high-fructose corn syrup or artificial preservatives"
-cons:
+cons: 
   - "Significantly pricier per ounce than conventional raisin bran brands"
   - "Lightly sweetened — those expecting Kellogg's-level sugar coating may find it bland"
   - "12 oz box is smaller than standard 18-20 oz competitors, so it disappears fast"
+
 ---
 
 You know that moment when you pour milk over raisin bran and the flakes instantly turn into sad, soggy cardboard? That doesn't happen here. Cascadian Farm's Organic Raisin Bran is the rare cereal that actually respects the structural integrity of its flakes while delivering raisins that taste like fruit, not sugar bombs.

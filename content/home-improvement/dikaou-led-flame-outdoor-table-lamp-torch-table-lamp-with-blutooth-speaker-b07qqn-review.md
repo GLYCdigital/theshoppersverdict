@@ -1,4 +1,5 @@
 ---
+
 title: "DiKaou LED Flame Outdoor Table Lamp Torch Table Lamp with Bl"
 seo_title: "DiKaou LED Flame Table Lamp Review: Torch Light + Bluetooth Speaker"
 meta_description: "DiKaou LED flame outdoor table lamp with Bluetooth speaker — our hands-on review covers brightness, battery life, sound quality, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QQNST7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710cuab124L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic 3D flame effect with three brightness/motion modes — looks convincingly like a real flame, not a cheap LED flicker"
   - "Built-in Bluetooth speaker pairs instantly and delivers surprisingly full sound for a tabletop unit"
   - "Rechargeable 2,000mAh battery runs 8–10 hours on a single charge, so it's genuinely cordless for a full evening"
-cons:
+cons: 
   - "Speaker volume tops out around 80 dB — fine for close-range patio use but won't fill a large yard or compete with a party crowd"
   - "No IP rating listed; buyers report water pooling in the base after rain, so treat it as a covered-patio lamp, not a fully weatherproof one"
+
 ---
 
 You don't buy a LED flame lamp because you need more light. You buy it because you want the *feeling* of fire without the hassle — no propane refills, no smoke smell, no flicking a lighter thirty times before it catches. The DiKaou LED Flame Outdoor Table Lamp Torch aims to deliver that ambiance and throws in a Bluetooth speaker as a bonus. At a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the honest breakdown.

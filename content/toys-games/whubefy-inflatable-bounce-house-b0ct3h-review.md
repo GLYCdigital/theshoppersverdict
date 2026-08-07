@@ -1,4 +1,5 @@
 ---
+
 title: "Whubefy Inflatable Bounce House"
 seo_title: "Whubefy Inflatable Bounce House Review: Verdict | TSV"
 meta_description: "Our full whubefy inflatable bounce house review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT3HDJJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PKfjbAWJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most inflatable bounce houses under $200 are disposable fun — fine for a birthday, forgotten by fall. The Whubefy Inflatable Bounce House, hovering at a 4.7-star average across 235 ratings, claims to be different. After digging through the buyer feedback and spec sheet, here's the real story.

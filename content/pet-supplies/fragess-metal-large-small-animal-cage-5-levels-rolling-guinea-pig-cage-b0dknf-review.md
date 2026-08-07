@@ -1,4 +1,5 @@
 ---
+
 title: "Fragess Metal Large Small Animal Cage 5 Levels, Rolling Guin"
 seo_title: "Fragess 5-Level Small Animal Cage Review: Guinea Pig"
 meta_description: "Fragess 5-level metal small animal cage review: is this rolling guinea pig habitat worth it? Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKNFKQ8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SfaDfKHcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five spacious levels with wide ramps — genuinely vertical, not a gimmick; gives small animals real climbing real estate"
   - "Rolling casters are smooth and lockable, making floor-to-floor repositioning effortless even with the cage fully assembled"
   - "Metal construction with powder-coated finish resists chewing and urine corrosion far better than plastic alternatives"
-cons:
+cons: 
   - "Assembly requires patience — expect 45-60 minutes with two people; the included wrench is flimsy"
   - "Tray depth is shallow (about 1.5 inches); ambitious burrowers or heavy litter kickers will scatter bedding"
   - "Ramp spacing can be tight for larger guinea pigs (600g+); smaller breeds and rats are the ideal tenants"
+
 ---
 
 **Is this the vertical cage solution your small pet actually needs?**

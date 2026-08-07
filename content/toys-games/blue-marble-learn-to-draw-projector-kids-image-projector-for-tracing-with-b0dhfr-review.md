@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Marble Learn to Draw Projector - Kids Image Projector f"
 seo_title: "Blue Marble Learn to Draw Projector Review: Worth It?"
 meta_description: "Honest Blue Marble Learn to Draw Projector review: tracing quality, ease of use, and real buyer feedback. See if this kids' art toy earns its 4.4 stars."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHFRB4BB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M0BuoMUEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Projects crisp, dimmable images onto paper or a table — kids can trace without a bright screen in their eyes"
   - "Comes with 24 slides (48 images total) covering animals, vehicles, and nature scenes"
   - "No batteries required (USB powered) and the adjustable focus knob handles both flat and angled surfaces"
-cons:
+cons: 
   - "Image quality is noticeably softer at the edges — corners distort slightly on larger projection areas"
   - "Slides are small and fiddly to swap; younger kids under 6 will need adult help loading them"
+
 ---
 
 Let’s be direct: most kids’ drawing toys are junk that gets abandoned in a closet by February. The Blue Marble Learn to Draw Projector actually earns its keep. At 4.4 stars across 220 ratings, it’s not perfect — but for the price, it's one of the few tracing toys that genuinely teaches hand-eye coordination instead of just making noise. If you’ve got a kid who loves art but gets frustrated when their drawings don’t “look right,” this projector gives them a scaffold to build confidence.

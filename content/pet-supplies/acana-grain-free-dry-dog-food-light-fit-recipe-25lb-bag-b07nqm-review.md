@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Grain Free Dry Dog Food Light & Fit Recipe 25lb Bag"
 seo_title: "ACANA Light & Fit Dog Food Review: 25lb Bag Worth It?"
 meta_description: "Honest ACANA Grain Free Light & Fit dog food review. 25lb bag, 4.6-star rating. Ingredients, calorie content, and whether it's right for your pup."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NQM4W5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V8cRA49NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First five ingredients are protein sources — deboned chicken, chicken meal, turkey meal, whole eggs, and pollock — so this is genuinely a meat-forward formula"
   - "At roughly 320 kcal/cup, it delivers a meaningful calorie reduction without resorting to cheap fillers like corn or wheat"
   - "Includes freeze-dried chicken liver and whole pumpkin, which most budget 'light' formulas skip entirely"
-cons:
+cons: 
   - "Price per pound sits well above comparable weight-management kibbles — you're paying a premium for the ACANA brand name"
   - "The 25lb bag has no resealable zipper; you'll need a clip or transfer to an airtight container to prevent staleness"
+
 ---
 
 When a dog food is called "Light & Fit," you usually expect a bag of dusty, low-calorie kibble that your dog tolerates rather than enjoys. ACANA's Grain Free Light & Fit Recipe is not that bag. This is a weight-management formula that actually leads with deboned chicken, chicken meal, turkey meal, whole eggs, and pollock as its first five ingredients — a protein lineup most "regular" dog foods can't match. The 4.6-star average across 229 ratings suggests I'm not the only one who noticed.

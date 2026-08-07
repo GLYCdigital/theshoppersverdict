@@ -1,4 +1,5 @@
 ---
+
 title: "IGL Pool Basketball Hoop Outdoor, Outdoor Poolside Basketbal"
 seo_title: "IGL Pool Basketball Hoop Outdoor, Outdoor Poolside Review"
 meta_description: "Our full igl pool basketball hoop outdoor, outdoor poolside basketbal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D637HBLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XBooiNRbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Pool basketball hoops are a weird category. Half of them are cheap plastic toys that blow over in a breeze. The other half cost as much as a used car. The IGL Pool Basketball Hoop sits in a third space: genuinely portable, genuinely sturdy, and priced like a real piece of equipment rather than a pool toy. After digging through 225 ratings and the spec sheet, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Bed for Large Dogs, Dog Mattress with Pillow for Crate K"
 seo_title: "Dog Bed for Large Dogs Review: Crate Mattress With Pillow"
 meta_description: "Honest review of the Dog Bed for Large Dogs with attached pillow. Is this 4.3-star crate mattress worth it? See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BBKVP7X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fN8KubFdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 4-inch orthopedic foam provides real joint support for senior and heavy dogs without bottoming out"
   - "Attached pillow creates a natural headrest — eliminates the need to buy a separate bolster bed"
   - "Removable, machine-washable cover with a waterproof liner layer that actually holds up to accidents"
-cons:
+cons: 
   - "Cover zipper is stiff and awkward to navigate, especially when trying to wrestle the thick foam back inside"
   - "Sizing runs small — measure your crate floor before ordering because the 'Large' fits tighter than expected"
+
 ---
 
 Let’s be honest: most dog beds marketed for large breeds are either glorified couch cushions that flatten in a week or overpriced orthopedic slabs that cost more than your own mattress. The Dog Bed for Large Dogs with attached pillow sits somewhere in the middle — and for most owners, that's exactly the sweet spot.

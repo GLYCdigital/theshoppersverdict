@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward The Pool Cleaner Robotic Cleaner (2024 New)"
 seo_title: "Hayward The Pool Cleaner Robotic Cleaner (2024 New Review"
 meta_description: "Our full hayward the pool cleaner robotic cleaner (2024 new) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D5NXYQPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LRpJxC5jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 2024 Hayward Pool Cleaner enters a crowded field of robotic pool vacuums, and the numbers tell a mixed story: 3.8 stars from 190 Amazon ratings isn't a home run, but it's not a strikeout either. After digging through the specs and customer feedback, here's what you actually need to know before dropping money on this thing.

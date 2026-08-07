@@ -1,4 +1,5 @@
 ---
+
 title: "Geyecete Dog Drying Coat - Dog Bathrobe Towel - Microfibre F"
 seo_title: "Geyecete Dog Drying Coat Review: Absorbent Bathrobe Towel"
 meta_description: "Geyecete Dog Drying Coat review: Is this microfibre bathrobe towel worth it? Tested for absorbency, fit, and drying speed. Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09KC1VJ55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mMy0Nvr6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Microfibre fabric absorbs several times its weight in water, cutting drying time roughly in half compared to cotton towels"
   - "Adjustable belly strap and leg openings keep the coat securely in place even on wriggly dogs"
   - "Soft, non-abrasive inner lining is gentle on sensitive skin and double coats"
-cons:
+cons: 
   - "No hood means ears and head stay wet unless you use a separate towel"
   - "Sizing runs small — measure your dog's chest and length carefully before ordering"
   - "Single-layer construction means very heavy coats may need a second towel underneath"
+
 ---
 
 If bath time with your dog ends with you soaked, your bathroom flooded, and your dog shaking water everywhere except into the tub, the Geyecete Dog Drying Coat is the upgrade you didn't know you needed. This isn't just a fancy towel — it's a purpose-built microfibre bathrobe that traps moisture against your dog's body while they air-dry.

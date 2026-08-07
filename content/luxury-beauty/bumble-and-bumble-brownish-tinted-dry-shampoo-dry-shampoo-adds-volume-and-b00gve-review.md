@@ -1,4 +1,5 @@
 ---
+
 title: "Bumble and bumble. Brownish Tinted Dry Shampoo | Dry Shampoo"
 seo_title: "Bumble and bumble Brownish Tinted Dry Shampoo Review (2026)"
 meta_description: "Honest Bumble and bumble Brownish Tinted Dry Shampoo review: does this $29 luxury dry shampoo deliver volume and coverage for dark hair? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00GVESCFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WzdpYMXoL._SL1500_.jpg"
-pros:
+pros: 
   - "True brown pigment blends invisibly into dark hair — no chalky white residue even on near-black strands"
   - "Rice starch formula absorbs oil without the gritty, matte-caked feeling cheaper dry shampoos leave behind"
   - "Adds noticeable root lift that holds for 4-6 hours, making it double as a volumizer"
-cons:
+cons: 
   - "Aerosol nozzle clogs easily if you spray too close; requires precise 8-10 inch distance to avoid wet spots"
   - "Scent is polarizing — a heavy floral-powder fragrance that lingers and may irritate sensitive noses"
   - "Price per ounce is steep (roughly $29 for 4.4 oz) compared to drugstore tinted alternatives"
+
 ---
 
 If you have dark hair, you already know the struggle: most dry shampoos leave that telltale gray-white dusting at your roots that screams "I didn't wash my hair." The Bumble and bumble Brownish Tinted Dry Shampoo exists specifically to kill that problem. And for the most part, it delivers — but at a luxury price that demands scrutiny.

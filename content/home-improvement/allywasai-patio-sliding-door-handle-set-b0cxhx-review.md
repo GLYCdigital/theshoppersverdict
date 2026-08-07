@@ -1,4 +1,5 @@
 ---
+
 title: "ALLYWASAI Patio Sliding Door Handle Set"
 seo_title: "ALLYWASAI Patio Sliding Door Handle Review (2026)"
 meta_description: "Honest ALLYWASAI patio sliding door handle set review: build quality, installation ease, finish durability, and who should buy it. Verdict: 4.2/5."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXHX37BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jE658i9jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a smooth satin finish that resists fingerprints"
   - "Universal fit — adjustable mounting holes work with most standard sliding door prep"
   - "Includes both interior and exterior handles with all stainless steel mounting hardware"
-cons:
+cons: 
   - "Set screw can loosen over time if not tightened with thread locker"
   - "No keyed locking option — this is a pull handle only, not a security upgrade"
+
 ---
 
 A busted patio door handle is one of those small frustrations that turns into a big one fast. You can't get the door open from the inside, guests can't figure out the exterior side, and the whole thing feels cheap. The ALLYWASAI Patio Sliding Door Handle Set aims to fix that for under $30. After digging through the specs, the 210 ratings, and what owners actually say, here's the real story.

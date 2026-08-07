@@ -1,7 +1,8 @@
 ---
-title: "Nelson Wood Shims 8\" 24 Pack - Kiln Dried Wood"
-seo_title: "Nelson Wood Shims 8\" 24 Pack - Kiln Dried Wood Review: Ve"
-meta_description: "Our full nelson wood shims 8\" 24 pack - kiln dried wood review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Nelson Wood Shims 8\ 24 Pack - Kiln Dried Wood"
+seo_title: "Nelson Wood Shims 8\ 24 Pack - Kiln Dried Wood Review: Ve"
+meta_description: "Our full nelson wood shims 8\ 24 pack - kiln dried wood review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nelson-wood-shims-8-24-pack-kiln-dried-wood-b07c38-review"
 image_alt: "Nelson Wood Shims 8 24 Pack - Kiln Dried Wood"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07C38PL2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51X4luojFSL._SL1196_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a warped shim that splits right when you need it most, you already know why shims aren't all created equal. The Nelson Wood Shims 8" 24-pack has earned its 4.8-star rating across 240 reviews for one simple reason: these are the rare shims that behave predictably. Made from kiln-dried pine with a consistent taper, they solve the two biggest frustrations in leveling work—splitting and compression—without costing premium lumber prices.

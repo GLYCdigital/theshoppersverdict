@@ -1,4 +1,5 @@
 ---
+
 title: "Wonder Workshop Dash Robot - Coding Bundle for Kids 6+ - Voi"
 seo_title: "Wonder Workshop Dash Robot - Coding Bundle for Kid Review"
 meta_description: "Our full wonder workshop dash robot - coding bundle for kids 6+ - voi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKVVVK5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vhQMB0CzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wonder Workshop Dash Robot: The Coding Toy That Actually Teaches — Not Just a Glorified RC Car

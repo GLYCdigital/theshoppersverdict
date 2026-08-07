@@ -1,4 +1,5 @@
 ---
+
 title: "Master Lock 142DCM Covered Aluminum Keyed Padlock, 1-Pack, B"
 seo_title: "Master Lock 142DCM Covered Aluminum Keyed Padlock, Review"
 meta_description: "Our full master lock 142dcm covered aluminum keyed padlock, 1-pack, b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C2PC8KK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mwtEjfNxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need Fort Knox for a gym locker. But you do need something that won't seize up after one rainy season. The Master Lock 142DCM sits squarely in that middle ground — a compact, weather-resistant padlock that most buyers rate 4.7 stars across 235 reviews. Here's the honest breakdown.

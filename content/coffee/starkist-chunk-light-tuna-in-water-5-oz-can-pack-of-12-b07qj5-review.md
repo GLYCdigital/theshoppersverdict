@@ -1,4 +1,5 @@
 ---
+
 title: "StarKist Chunk Light Tuna in Water, 5 oz Can, Pack of 12"
 seo_title: "StarKist Chunk Light Tuna in Water, 5 oz Can, Pack Review"
 meta_description: "Our full starkist chunk light tuna in water, 5 oz can, pack of 12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QJ5NCBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812vD4zMofL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: a dependable, no-fuss pantry staple that gets the job done without pretending to be anything fancy. StarKist Chunk Light in Water is the tuna your parents bought, and there's a reason it's still around. I've gone through multiple 12-packs over the last year, and here's the honest breakdown.

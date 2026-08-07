@@ -1,4 +1,5 @@
 ---
+
 title: "Fixwal Small Floating Shelves"
 seo_title: "Fixwal Small Floating Shelves Review: Worth It? (2026)"
 meta_description: "Honest Fixwal Small Floating Shelves review: build quality, weight limits, mounting ease, and who should buy. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C8C8NHXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o8sG976PL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hidden bracket design creates a true floating look with no visible hardware"
   - "Rated for 50 lbs per shelf when mounted into studs — genuinely sturdy for the size"
   - "Includes drywall anchors, mounting template, and level for straightforward install"
-cons:
+cons: 
   - Small footprint (roughly 17.7 inch "L x 5.9 inch "D) limits what you can display — larger books won't fit
   - "No sealing on the MDF edges; moisture in bathrooms or kitchens can cause swelling over time"
+
 ---
 
 ## Is the Fixwal Small Floating Shelf Worth Your Wall Space?

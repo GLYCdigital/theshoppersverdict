@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Wizz Battery Powered Fertilizer, Seed, and Ice Spread"
 seo_title: "Scotts Wizz Battery Powered Fertilizer, Seed, and  Review"
 meta_description: "Our full scotts wizz battery powered fertilizer, seed, and ice spread review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07NLR222X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815u67a5KPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Scotts Wizz battery spreader isn't the tool you buy to cover two acres before lunch. It's the tool you buy because your shoulder is tired of cranking a manual spreader, and you're tired of skipping spots or double-dosing because your rhythm was off. At 4.4 stars from 220 Amazon shoppers, it's clearly solving that problem for a lot of people. But let's be clear about what this thing is and isn't.

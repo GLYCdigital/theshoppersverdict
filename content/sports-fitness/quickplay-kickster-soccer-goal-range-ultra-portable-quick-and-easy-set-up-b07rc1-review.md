@@ -1,4 +1,5 @@
 ---
+
 title: "QUICKPLAY Kickster Soccer Goal Range â€“ Ultra Portable | Qu"
 seo_title: "QUICKPLAY Kickster Soccer Goal Range â€“ Ultra Por Review"
 meta_description: "Our full quickplay kickster soccer goal range â€“ ultra portable | qu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07RC12SW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ANafNjf6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 60-Second Soccer Goal That Actually Holds Up

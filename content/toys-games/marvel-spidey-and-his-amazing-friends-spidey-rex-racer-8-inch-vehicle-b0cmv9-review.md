@@ -1,4 +1,5 @@
 ---
+
 title: "MARVEL Spidey and His Amazing Friends Spidey-Rex Racer - 8-I"
 seo_title: "MARVEL Spidey and His Amazing Friends Spidey-Rex R Review"
 meta_description: "Our full marvel spidey and his amazing friends spidey-rex racer - 8-i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMV9H3G1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u0oeYqhhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: if you’ve got a preschooler obsessed with *Spidey and His Amazing Friends* — and let’s be honest, that show has a chokehold on the 3-to-5 demographic — this Spidey-Rex Racer is probably already on your radar. The question is whether it delivers on the promise of a transforming Spidey dinosaur car, or if it’s another piece of licensed plastic that ends up in the toy bin within a week.

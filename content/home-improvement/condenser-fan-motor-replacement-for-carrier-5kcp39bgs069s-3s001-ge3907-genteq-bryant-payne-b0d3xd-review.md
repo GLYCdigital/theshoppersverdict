@@ -1,4 +1,5 @@
 ---
+
 title: "Condenser Fan Motor Replacement for Carrier 5KCP39BGS069S #3 inch"
 seo_title: "Condenser Fan Motor Replacement for Carrier 5KCP39BGS069S Review"
 meta_description: "Honest review of the Carrier 5KCP39BGS069S condenser fan motor replacement. Covers fit, wiring, noise, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3XD3DT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hLBMLI7CL._SL1500_.jpg"
-pros:
+pros: 
   - "True drop-in replacement for Carrier/Bryant/Payne 5KCP39BGS069S — shaft length, mounting holes, and bolt pattern match OEM specs"
   - "Includes the correct 5µF capacitor, so no separate parts run needed"
   - "Quiet operation at 825 RPM — buyers consistently report no vibration or hum"
-cons:
+cons: 
   - "Wiring harness is short (about 24 inches) — may require extension on larger units"
   - "No mounting grommets included — you'll reuse the old ones or buy separately"
+
 ---
 
 If your AC condenser fan motor just died mid-July, you're not shopping for a "nice to have" — you need a fix that works today. This replacement motor, designed for the Carrier 5KCP39BGS069S (and cross-compatible with GE 3907 and Genteq models), is the part that shows up in 225 Amazon reviews with a 4.5-star average. Here's what you actually need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "GreenForest Computer Desk with USB Charging Port and Power O"
 seo_title: "GreenForest Computer Desk Review: USB Ports & Power Outlet"
 meta_description: "Honest GreenForest Computer Desk review: USB charging ports, power outlet, stability, and assembly. Is this reversible small desk worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3LXQ29S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZbUkFLIsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in USB and USB-C ports plus a standard AC outlet — no more crawling under the desk to charge"
   - "Reversible shelf and monitor stand give you two layout options for tight spaces"
   - "Sturdy metal frame with adjustable leveling feet handles uneven floors without wobble"
-cons:
+cons: 
   - "Assembly takes about 45 minutes — not the 15-minute claim in the manual"
   - "Cable management tray is shallow; thicker power bricks won't fit underneath"
   - "Desktop surface shows fingerprints and smudges easily on darker finishes"
+
 ---
 
 Let's be honest: most desks under $100 are flimsy pressboard nightmares that wobble the moment you rest your elbows. The GreenForest Computer Desk with USB Charging Port and Power Outlet tries to be different — and for the most part, it succeeds. With a 4.5-star average across 225 ratings, this compact workstation has clearly found its audience. Here's the real story after digging through customer feedback and scrutinizing the specs.

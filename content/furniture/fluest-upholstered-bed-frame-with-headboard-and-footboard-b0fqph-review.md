@@ -1,4 +1,5 @@
 ---
+
 title: "Fluest Upholstered Bed Frame with Headboard and Footboard"
 seo_title: "Fluest Upholstered Bed Frame Review: Is It Worth It? (2026)"
 meta_description: "Fluest Upholstered Bed Frame review: 4.4-star rated platform bed with headboard & footboard. We break down build quality, assembly, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQPHQXN9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bsOSjuN5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full upholstered coverage on headboard and footboard eliminates the 'metal bar in the shins' problem common with cheap platform beds"
   - "No box spring required — integrated slat system supports standard mattresses directly, saving $100–$200 upfront"
   - "Fabric wraps completely around the frame base, so there's no exposed hardboard or particleboard visible from any angle"
-cons:
+cons: 
   - "Low-profile design sits closer to the floor than traditional frames — under-bed storage is essentially a non-starter"
   - "Assembly requires two people despite the 'easy' marketing; the headboard-to-side-rail brackets are finicky to align alone"
+
 ---
 
 ## Is This the Bed Frame That Finally Checks Every Box?

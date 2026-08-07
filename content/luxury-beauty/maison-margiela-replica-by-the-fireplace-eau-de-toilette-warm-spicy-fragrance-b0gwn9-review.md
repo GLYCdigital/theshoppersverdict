@@ -1,4 +1,5 @@
 ---
+
 title: "Maison Margiela - Replica - By the Fireplace Eau de Toilette"
 seo_title: "Maison Margiela - Replica - By the Fireplace Eau d Review"
 meta_description: "Our full maison margiela - replica - by the fireplace eau de toilette review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWN9ZWQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714Brry1CSL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're standing too close to a bonfire, and your sweater absorbs the smoke and the sweetness of whatever you were roasting? Maison Margiela bottled that exact feeling. **By the Fireplace** is the rare fragrance that actually delivers on its concept name — it's not a vague "warm amber" masquerading as something interesting. It's smoky, it's sweet, and it's unapologetically cozy.

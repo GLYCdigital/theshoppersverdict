@@ -1,4 +1,5 @@
 ---
+
 title: "AMETHEUS LED Wall Mounted Lights,Rechargeable Wall Sconces L"
 seo_title: "AMETHEUS Rechargeable Wall Sconces Review (2026): Worth It?"
 meta_description: "Honest AMETHEUS LED wall sconces review: battery life, brightness, install ease. See real pros, cons & verdict before buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSQM3KYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717VFzxtl9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True wireless install — zero hardwiring, adhesive or screw mount options take under 10 minutes"
   - "Three color temperatures (3000K/4500K/6000K) plus stepless dimming via touch or remote"
   - "USB-C rechargeable with a genuine 8–10 hour runtime at medium brightness between charges"
-cons:
+cons: 
   - "Adhesive pad struggles on textured or wallpaper surfaces — use the screws if your wall isn't perfectly smooth"
   - "Touch sensor on the metal body can be finicky if hands are damp or the light is mounted high"
+
 ---
 
 If you've been staring at a dark hallway or bedside corner knowing the cost and hassle of hiring an electrician just to add a sconce, the AMETHEUS LED Wall Mounted Lights are worth your attention. These rechargeable fixtures skip the wiring entirely. No junction boxes, no voltage testers, no drywall patching. As shown in the product image, they're slim, modern fixtures that look permanently installed — until you pull them off the wall to recharge.

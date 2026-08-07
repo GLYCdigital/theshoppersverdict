@@ -1,4 +1,5 @@
 ---
+
 title: "Full Size Loft Bed with Stairs, Heavy-Duty Metal Loft Beds,"
 seo_title: "Full Size Loft Bed with Stairs Review: Heavy-Duty Metal"
 meta_description: "Full size loft bed with stairs review: 4.5★ rated heavy-duty metal frame. Real buyer feedback on stability, assembly, and space savings."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW39WBFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TQyclc3lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated staircase with wide, non-slip treads — safer and easier to climb than vertical ladders, especially for kids and shorter adults"
   - "Heavy-duty all-metal construction rated to hold up to 400 lbs, with reinforced steel slats that eliminate the need for a box spring"
   - "Under-bed clearance is tall enough for a desk, dresser, or reading nook — approximately 60 inches of usable height"
-cons:
+cons: 
   - "Assembly is a two-person job and takes 2–3 hours; the included instructions are adequate but not premium"
   - "The metal frame can creak slightly if bolts aren't fully torqued down — use the included wrench, not a drill, to avoid stripping"
   - "Mattress sits noticeably higher than standard beds — you'll want a shorter mattress (8–10 inches) to keep the guardrail effective"
+
 ---
 
 If you're staring at a small bedroom and wondering where the desk is going to go, a loft bed is the obvious answer. But not all loft beds are created equal — and the difference between a wobbly compromise and a genuinely solid solution comes down to the frame. This full-size metal loft bed with stairs has earned a 4.5-star rating across 225 Amazon reviews for a reason. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "ZckyCine Modern Dining Table Set for 4-6 People Kitchen Dini"
 seo_title: "ZckyCine Modern Dining Table Set for 4-6 People Ki Review"
 meta_description: "Our full zckycine modern dining table set for 4-6 people kitchen dini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQ5SLMM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717QOTwPOaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ZckyCine Modern Dining Table Set is the rare budget set that doesn't look like one — provided you have the patience to build it.**

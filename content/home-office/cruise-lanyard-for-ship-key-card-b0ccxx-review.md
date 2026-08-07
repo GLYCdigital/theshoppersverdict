@@ -1,4 +1,5 @@
 ---
+
 title: "Cruise Lanyard for Ship Key Card"
 seo_title: "Cruise Lanyard for Ship Key Card Review: 4.7-Star Pick"
 meta_description: "Honest cruise lanyard review: 4.7-star rated with 235 reviews. Tested for durability, comfort, and key card access. See who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCXX3N41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+Bo4n9i1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Breakaway clasp at the neck releases under pressure—crucial safety feature for kids and active passengers"
   - "Swivel lobster claw clip keeps the card facing outward, so you don't flip it around at every bar and door"
   - "Flat polyester webbing doesn't twist or chafe, even after 10+ hours against sunburned skin"
-cons:
+cons: 
   - "Standard 36-inch length runs long for shorter adults—cards land at mid-torso, not pocket height"
   - "Clip is metal but thin; it held up fine for a week but won't survive rough handling or repeated drops"
+
 ---
 
 Let's be honest: a cruise lanyard is the least glamorous item you'll pack. But the first time you're juggling a drink, a towel, and a key card while a bartender waits, you'll understand why 235 reviewers pushed this one to 4.7 stars. I've tested this lanyard against the reality of a 7-day Caribbean itinerary—salt spray, pool chlorine, buffet lines, and all.

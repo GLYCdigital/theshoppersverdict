@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns 47-Inch Round Conference Table for 4-6 People, Wo"
 seo_title: "Tribesigns 47-Inch Round Conference Table for 4-6  Review"
 meta_description: "Our full tribesigns 47-inch round conference table for 4-6 people, wo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWDSZVS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sv2IPCRcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A round conference table is a gamble. Get it right, and you've got a collaborative hub where everyone can actually see each other. Get it wrong, and you've got a wobbly monster that dominates your room. The Tribesigns 47-inch version sits somewhere in the middle — and for most small offices, that's exactly where you want to be.

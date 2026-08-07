@@ -1,4 +1,5 @@
 ---
+
 title: "EVO Gym - Portable Home Gym Strength Training Equipment, At"
 seo_title: "EVO Gym Portable Home Gym Review: Is It Worth It? (2026)"
 meta_description: "EVO Gym portable home gym review: 4.4-star rated strength trainer. We test resistance, build quality, and value. See if it beats dumbbells."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BK9VSXS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YZjQdseWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-body coverage in a 2.5-lb package — replaces multiple machines for apartment dwellers"
   - "Magnetic resistance adjustable in 10 levels from 5 to 40 lbs, feels smoother than typical band-based systems"
   - "Companion app with 200+ guided workouts adds real structure for beginners"
-cons:
+cons: 
   - "Max 40 lbs per arm means serious lifters will outgrow it fast"
   - "Anchoring to a door can be finicky — the strap needs a solid 2-inch gap or it slips"
   - "App subscription costs extra after the first month despite the premium price"
+
 ---
 
 ## The portable gym that actually fits in a backpack — but can it replace the rack?

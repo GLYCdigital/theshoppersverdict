@@ -1,4 +1,5 @@
 ---
+
 title: "KCO Light Colorful Globe Pendant Lighting"
 seo_title: "KCO Light Colorful Globe Pendant Lighting Review: Verdict"
 meta_description: "Our full kco light colorful globe pendant lighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BVDWY1WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DqM-TC10L._AC_SL1378_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about pendant lighting: most of it looks identical. Same brushed nickel drum shade, same generic LED plate, same "modern farmhouse" clone. The KCO Light Colorful Globe Pendant breaks that pattern — and it does it without demanding a designer budget or a licensed electrician's skill set.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lume Whole Body Deodorant - Smooth Solid Stick & Flushable D"
 seo_title: "Lume Whole Body Deodorant - Smooth Solid Stick & F Review"
 meta_description: "Our full lume whole body deodorant - smooth solid stick & flushable d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1ZNWZLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pPyWqLyhL._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the hype. Lume has become a cultural phenomenon — a doctor-developed deodorant that promises 72-hour odor control anywhere on your body, not just your pits. The 4.4-star rating across 220 reviews is solid, but the real question is whether it lives up to the TikTok-fueled reputation. After putting the Smooth Solid Stick and Flushable Wipes combo through real-world testing, here's the honest breakdown.

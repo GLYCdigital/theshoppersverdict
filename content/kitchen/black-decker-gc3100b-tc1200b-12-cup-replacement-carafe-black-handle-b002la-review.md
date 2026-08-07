@@ -1,4 +1,5 @@
 ---
+
 title: "Black+Decker GC3100B TC1200B 12-Cup Replacement Carafe, Blac"
 seo_title: "Black+Decker GC3100B TC1200B Carafe Review: Worth It?"
 meta_description: "Is the Black+Decker GC3100B TC1200B 12-cup replacement carafe worth buying? Read our honest review covering fit, durability, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B002LAREEC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+sZIoB8pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct OEM replacement—fits the vast majority of Black+Decker 12-cup coffeemakers without modification"
   - "Sturdy glass construction with a comfortable black handle that doesn't get slippery when wet"
   - "Marked measurement lines are accurate and easy to read, even in low morning light"
-cons:
+cons: 
   - "Glass is thin at the base—dropping it even a few inches onto a hard counter can shatter it"
   - "No pour spout guard, so a slightly aggressive pour can dribble down the side"
+
 ---
 
 Let's be honest: nobody wakes up excited to buy a replacement carafe. You're here because you dropped yours, or the handle finally gave out after three years of daily use. The question is whether the Black+Decker GC3100B TC1200B is a worthy stand-in for the original that shipped with your coffeemaker.

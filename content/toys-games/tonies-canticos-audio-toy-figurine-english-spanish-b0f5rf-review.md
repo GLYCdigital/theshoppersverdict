@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Canticos Audio Toy Figurine [English/Spanish]"
 seo_title: "Tonies Canticos Audio Toy Figurine [English/Spanis Review"
 meta_description: "Our full tonies canticos audio toy figurine [english/spanish] review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0F5RFX9CS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41FQyV2nITL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Toniebox, you already know the drill: those little magnetic figurines are the heart of the system. The Canticos figurine is one of the strongest additions to the lineup for bilingual families — but it comes with a catch that's worth understanding before you hit "add to cart."

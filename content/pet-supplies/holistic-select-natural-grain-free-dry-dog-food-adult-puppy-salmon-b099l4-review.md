@@ -1,4 +1,5 @@
 ---
+
 title: "Holistic Select Natural Grain Free Dry Dog Food, Adult & Pup"
 seo_title: "Holistic Select Natural Grain Free Dry Dog Food, A Review"
 meta_description: "Our full holistic select natural grain free dry dog food, adult & pup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B099L4WQK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QpeQc18YL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Holistic Select Natural Grain Free worth the premium price? Here's what 229 buyers and my own research uncovered.**

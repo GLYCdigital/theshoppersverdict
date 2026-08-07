@@ -1,4 +1,5 @@
 ---
+
 title: "Carolina Herrera"
 seo_title: "Carolina Herrera Review: Is This Luxury Fragrance Worth It?"
 meta_description: "Carolina Herrera review: 235+ ratings, 4.7 stars. We break down the scent, longevity, and value of this luxury fragrance. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07YQQYC64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hsWbYre8L._SL1500_.jpg"
-pros:
+pros: 
   - "Long-lasting projection — 8+ hours on skin, 12+ on fabric"
   - "Complex, layered scent profile that evolves beautifully through the day"
   - "Elegant, substantial bottle that feels premium on a vanity"
-cons:
+cons: 
   - "Price point is steep — this is a splurge, not an everyday-budget buy"
   - "Scent is bold — not ideal for those who prefer subtle, close-to-skin fragrances"
   - "Batch consistency varies slightly; older stock can smell different than fresh bottles"
+
 ---
 
 **The Short Version**

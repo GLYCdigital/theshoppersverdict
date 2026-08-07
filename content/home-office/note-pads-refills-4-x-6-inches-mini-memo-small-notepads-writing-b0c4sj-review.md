@@ -1,4 +1,5 @@
 ---
+
 title: "Note Pads Refills 4 x 6 inches Mini Memo Small Notepads Writ"
 seo_title: "Note Pads Refills 4 x 6 inches Mini Memo Small Not Review"
 meta_description: "Our full note pads refills 4 x 6 inches mini memo small notepads writ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4SJVWHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RF48+494L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a sticky note and a full legal pad sits the humble 4x6 memo. Too small for meeting minutes, too big for a phone number — but absolutely perfect for the way most of us actually jot things down. After digging through 229 ratings averaging 4.6 stars, here's the real story on these note pads refills.

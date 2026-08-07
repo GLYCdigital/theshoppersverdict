@@ -1,4 +1,5 @@
 ---
+
 title: "Aqara Smart Lock U300, Fingerprint Keyless Entry Door Lock w"
 seo_title: "Aqara Smart Lock U300 Review: Keyless Entry That Works"
 meta_description: "Aqara Smart Lock U300 review: fingerprint, Matter support, and deadbolt security. We break down the pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D496H9YV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wkjlwHvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Matter-over-Thread support means no proprietary hub required for Apple Home, Alexa, or Google Home"
   - "Fingerprint reader sits on the handle itself — unlock in one natural motion, no separate pad to find"
   - "Physical key backup included, which is rarer than it should be on smart locks in this price tier"
-cons:
+cons: 
   - "Installation is finicky — several buyers report alignment issues with the deadbolt latch that require shimming"
   - "Fingerprint recognition is inconsistent for users with dry or worn fingerprints; you'll rely on the keypad more than you'd like"
+
 ---
 
 Let me be straight with you: the Aqara Smart Lock U300 is a lock that almost nails it. It's got the right protocol support, the right form factor, and the right price point. But "almost" is doing a lot of work in that sentence, and based on 190 Amazon ratings averaging 3.8 stars, I'm not the only one who's noticed.

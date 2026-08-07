@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT D28715 14-Inch Quick-Change Chop Saw"
 seo_title: "DEWALT D28715 Chop Saw Review: 14-Inch Powerhouse"
 meta_description: "DEWALT D28715 14-inch chop saw review: 15-amp motor, quick-change feature, cut capacity, and real owner feedback. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07SK9R1ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71amdFcw7KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quick-change lever releases the blade without wrenches — genuinely cuts blade swaps from minutes to seconds"
   - "15-amp motor delivers 4,200 RPM with a 9.5-inch cutting depth and 5-inch height capacity on 90-degree cuts"
   - "Heavy-duty 14-inch steel base with rubber feet stays planted during aggressive cuts"
-cons:
+cons: 
   - "Abrasive wheel throws a serious shower of sparks — no onboard spark guard deflects toward the rear only"
   - "Weighs 41.5 pounds; manageable for shop use but a back strain for frequent job-site hauling"
   - "Base slots for clamping are narrow — a 3/8-inch bolt barely fits through the predrilled holes"
+
 ---
 
 If you're still cutting angle iron with a grinder and a prayer, the DEWALT D28715 is the upgrade that pays for itself by the end of the first week. This is the chop saw that metal fabricators, welders, and serious DIYers have been running for years — and the 4.6-star average across 229 ratings backs up the reputation. But it's not a precision tool, and it's not for everyone. Here's the real breakdown.

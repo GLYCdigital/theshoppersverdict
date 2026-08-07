@@ -1,4 +1,5 @@
 ---
+
 title: "KOHLER Showerhead rain shower"
 seo_title: "KOHLER Showerhead rain shower Review: Verdict | TSV"
 meta_description: "Our full kohler showerhead rain shower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJ14J45X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ud0kD2ZBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most rain showerheads under $100 are plastic junk with silicone nozzles that clog within six months. The KOHLER rain showerhead isn't that. But it's also not a magic wand for weak water pressure. Here's what 215 buyers and my own teardown of the specs tell you before you click "add to cart."

@@ -1,4 +1,5 @@
 ---
+
 title: "Tim Hortons Whole Bean Original, Medium Roast Coffee, Made w"
 seo_title: "Tim Hortons Whole Bean Original, Medium Roast Coff Review"
 meta_description: "Our full tim hortons whole bean original, medium roast coffee, made w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09ZQFCK2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ov48Vla3L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the coffee that actually tastes like the Tim Hortons drive-thru?**  

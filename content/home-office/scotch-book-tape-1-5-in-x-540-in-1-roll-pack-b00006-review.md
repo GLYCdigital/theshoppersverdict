@@ -1,4 +1,5 @@
 ---
+
 title: "Scotch Book Tape, 1.5 in x 540 in, 1 Roll/Pack, Excellent fo"
 seo_title: "Scotch Book Tape, 1.5 in x 540 in, 1 Roll/Pack, Ex Review"
 meta_description: "Our full scotch book tape, 1.5 in x 540 in, 1 roll/pack, excellent fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00006IF5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pQRX4ovPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever watched a paperback spine split down the middle or a beloved textbook lose its cover, you know the panic. Scotch Book Tape is the standard fix — and with a 4.6-star average across 229 ratings, it's earned that reputation. But is it right for every repair job? Let's dig into the specifics.**

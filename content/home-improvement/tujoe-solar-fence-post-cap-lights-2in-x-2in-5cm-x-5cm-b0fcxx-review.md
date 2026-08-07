@@ -1,4 +1,5 @@
 ---
+
 title: "Tujoe Solar Fence Post Cap Lights 2In x 2In (5cm x 5cm)"
 seo_title: "Tujoe Solar Fence Post Cap Lights 2In x 2In (5cm x Review"
 meta_description: "Our full tujoe solar fence post cap lights 2in x 2in (5cm x 5cm) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FCXX122P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wDjnzO7oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a standard 2x2 wooden fence post, you know the top is a dust-collecting, splinter-prone eyesore. The Tujoe Solar Fence Post Cap Lights solve that with a clean, self-contained unit that slips over the post and lights up your yard line at dusk. At 4.2 stars from 210 ratings, these caps are a solid mid-tier pick — but they’re not without quirks. Here’s what you need to know before you buy.

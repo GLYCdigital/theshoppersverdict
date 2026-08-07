@@ -1,4 +1,5 @@
 ---
+
 title: "Instant Pot Vortex Plus 6QT ClearCook Air Fryer, Clear Windo"
 seo_title: "Instant Pot Vortex Plus 6QT ClearCook Air Fryer, C Review"
 meta_description: "Our full instant pot vortex plus 6qt clearcook air fryer, clear windo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1MVQMBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-OGBn2gIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: You Can Finally See Your Food Crisp**

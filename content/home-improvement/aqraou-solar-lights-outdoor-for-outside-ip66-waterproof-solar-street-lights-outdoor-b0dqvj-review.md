@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aqraou Solar Lights Outdoor for Outside, IP66 Waterproof Sol"
 seo_title: "Aqraou Solar Lights Outdoor Review: IP66 Waterproof (2026)"
 meta_description: "Honest Aqraou solar lights outdoor review: IP66 waterproof rating, real brightness, and mounting options. See if these solar street lights fit your yard."
@@ -12,13 +13,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQVJTP8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EcgZbOCSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High brightness with 1200-lumen output and wide 120° beam spread covers large driveways"
   - "IP66 waterproof rating with sealed housing that survives heavy rain and snow (confirmed by multiple long-term users)"
   - "Dual mounting options — wall bracket and pole mount — give flexibility for fence posts or eaves"
-cons:
+cons: 
   - "Battery life drops noticeably in winter months or cloudy weeks; expect 4–5 hours instead of the advertised 10 inch"
   - "Motion sensor has a 5-second delay and sometimes triggers on passing cars at the street before people in the yard"
+
 
 ---
 

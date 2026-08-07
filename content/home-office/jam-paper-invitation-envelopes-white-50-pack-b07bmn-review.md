@@ -1,4 +1,5 @@
 ---
+
 title: "JAM Paper Invitation Envelopes - White - 50/Pack"
 seo_title: "JAM Paper Invitation Envelopes - White - 50/Pack Review: "
 meta_description: "Our full jam paper invitation envelopes - white - 50/pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07BMNDYYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kHb-iU3JL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a wedding invitation disaster and a perfectly sealed envelope lies the question of whether you can trust a 50-pack of generic white envelopes from an office supply brand. I've tested dozens of invitation envelopes over the years, and the JAM Paper version earns its 4.6-star rating — but not without a few caveats you should know before checkout.

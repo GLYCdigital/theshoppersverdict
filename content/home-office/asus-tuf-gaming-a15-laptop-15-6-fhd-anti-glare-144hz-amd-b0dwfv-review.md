@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS TUF Gaming A15 Review: Battle-Ready Power for Work & Play"
 seo_title: "ASUS TUF Gaming A15 Review: Is the 144Hz Powerhouse Worth It?"
 meta_description: "Our ASUS TUF Gaming A15 review examines the 144Hz FHD display, AMD performance, and build quality. See if this durable laptop is right for your gaming and work needs."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 **Pros:**

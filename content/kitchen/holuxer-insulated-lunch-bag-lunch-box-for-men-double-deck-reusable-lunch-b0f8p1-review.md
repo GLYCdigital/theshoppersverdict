@@ -1,4 +1,5 @@
 ---
+
 title: "holuxer Insulated Lunch Bag & Lunch Box for Men - Double Dec"
 seo_title: "holuxer Insulated Lunch Bag & Lunch Box for Men -  Review"
 meta_description: "Our full holuxer insulated lunch bag & lunch box for men - double dec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8P14N79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eUrQSf-sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The holuxer Insulated Lunch Bag for Men: A Double-Deck Workhorse That Actually Keeps Cold Things Cold**  

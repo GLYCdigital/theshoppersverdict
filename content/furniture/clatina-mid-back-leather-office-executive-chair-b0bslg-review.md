@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Mid Back Leather Office Executive Chair"
 seo_title: "CLATINA Mid Back Leather Office Chair Review (2026)"
 meta_description: "CLATINA Mid Back Leather Executive Chair review: real comfort tests, build quality, lumbar support, and value. See if it fits your home office setup."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BSLGSNVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZvOvAWNML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine bonded leather upholstery with dense foam padding — feels far more premium than the sub-$200 price point suggests"
   - "Padded armrests and a mid-back design that actually supports the lumbar curve without forcing you into an upright posture"
   - "Tool-free assembly takes under 15 minutes; all bolts and the Allen wrench are included and clearly labeled"
-cons:
+cons: 
   - "Bonded leather will show wear within 18–24 months of daily 8-hour use, especially on the seat edge and armrests"
   - No adjustable lumbar support — the fixed curve works for average builds but may feel off for taller users (6'2 inch "+)
   - "Tilt tension knob is stiff and hard to fine-tune while seated; you'll likely set it once and leave it"
+
 ---
 
 Let's be direct: most office chairs under $200 are disposable plastic and mesh with a stench that lingers for weeks. The CLATINA Mid Back Leather Executive Chair isn't that. It's a surprisingly solid piece of furniture that looks like it costs $400, sits like it costs $250, and has a few honest compromises you need to know about before you pull the trigger.

@@ -1,4 +1,5 @@
 ---
+
 title: "Command Modern Reflections Great for Dorm Decor"
 seo_title: "Command Modern Reflections Review: Dorm Decor Made Easy"
 meta_description: "Honest Command Modern Reflections review: 4.6-star damage-free wall hooks for dorm decor. Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP4TT3PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yMzI5eIiL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Damage-free removal leaves zero residue or paint damage, even after months of hanging weight"
   - "Sleek modern finish blends with contemporary dorm decor rather than looking like hardware"
   - "Holds up to 4 pounds per hook — enough for framed posters, lanyards, and lightweight wall art"
-cons:
+cons: 
   - "Strips require 24-hour cure time before you can hang anything — plan ahead"
   - "Not suitable for textured walls, wallpaper, or surfaces above 90°F; check your dorm's wall type first"
   - "4-pound weight limit means heavier mirrors or canvas frames need alternative mounting"
+
 ---
 
 Let's be blunt: dorm walls take a beating. Between command strips that peel paint, nails that violate your housing contract, and adhesive that leaves sticky ghosts for years, the "damage-free" promise usually comes with an asterisk. The Command Modern Reflections line aims to change that — and honestly, it mostly delivers.

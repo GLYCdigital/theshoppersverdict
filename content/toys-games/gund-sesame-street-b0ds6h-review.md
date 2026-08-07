@@ -1,4 +1,5 @@
 ---
+
 title: "GUND Sesame Street"
 seo_title: "GUND Sesame Street Plush Review: Soft, Durable, Adorable"
 meta_description: "Read our honest GUND Sesame Street plush review. Soft fabrics, sturdy stitching, and true-to-character designs — but is it worth the price? Find out."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DS6HD5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZUiXPRXKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, high-quality plush fabric that holds up to repeated hugging and play"
   - "True-to-character embroidery and detailing that captures each Sesame Street personality"
   - "Reinforced stitching at stress points — arms and legs stay attached even with aggressive toddler play"
-cons:
+cons: 
   - "Slightly pricey compared to generic plush alternatives of similar size"
   - "Surface-wash only; machine washing can mat the fabric and distort the face"
+
 ---
 
 You know that moment when you hand a toddler a plush toy and watch them immediately try to yank its arm off? GUND's Sesame Street line survives that test — and that's exactly why it's earned a 4.8-star rating across 240 reviews. This isn't your average drugstore plush. It's the difference between a toy that becomes a bedroom decoration and one that becomes a child's shadow.

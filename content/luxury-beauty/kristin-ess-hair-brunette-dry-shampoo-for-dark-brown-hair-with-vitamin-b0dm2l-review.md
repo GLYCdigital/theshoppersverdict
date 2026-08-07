@@ -1,4 +1,5 @@
 ---
+
 title: "Kristin Ess Hair Brunette Dry Shampoo for Dark + Brown Hair "
 seo_title: "Kristin Ess Hair Brunette Dry Shampoo for Dark + B Review"
 meta_description: "Our full kristin ess hair brunette dry shampoo for dark + brown hair  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DM2LKVZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u3L-2MSIL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you have dark hair, you already know the struggle: every dry shampoo promises "no white residue," and every single one leaves you looking dusty by noon. The Kristin Ess Brunette Dry Shampoo is specifically engineered to solve that problem with a tinted formula that actually matches brown and dark hair tones. But does it live up to the hype at a luxury price point? Here's the real breakdown after analyzing 210 customer ratings and testing the formula's claims.

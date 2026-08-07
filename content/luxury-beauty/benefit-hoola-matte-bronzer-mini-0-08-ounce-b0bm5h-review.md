@@ -1,4 +1,5 @@
 ---
+
 title: "Benefit Hoola Matte Bronzer Mini 0.08 Ounce"
 seo_title: "Benefit Hoola Bronzer Mini Review: Tiny Size, Big Payoff"
 meta_description: "Our honest Benefit Hoola Matte Bronzer Mini review: does the 0.08 oz travel size deliver the iconic shade? See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BM5HX7DN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618ScLtE1wL._SL1500_.jpg"
-pros:
+pros: 
   - "Iconic true matte neutral-brown shade that works across fair-to-deep skin tones without pulling orange"
   - "Mini size (0.08 oz) is genuinely travel-friendly and perfect for testing before committing to full size"
   - "Consistent, blendable formula with 4.6/5 rating from 229 Amazon reviewers"
-cons:
+cons: 
   - "At 0.08 oz, you're paying a premium per gram compared to the full-size compact"
   - "Packaging is cardboard-style and doesn't include a mirror or brush — not ideal for touch-ups on the go"
+
 ---
 
 Some products earn hype. Benefit Hoola earned a legacy. This matte bronzer has been a bestseller for over two decades, and the Mini version — at just 0.08 ounces — is the smartest way to see if it deserves a permanent spot in your routine.

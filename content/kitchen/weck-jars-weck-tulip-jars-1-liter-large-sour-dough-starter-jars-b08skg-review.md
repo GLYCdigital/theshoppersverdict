@@ -1,4 +1,5 @@
 ---
+
 title: "Weck Jars - Weck Tulip Jars 1 Liter - Large Sour Dough Start"
 seo_title: "Weck Jars - Weck Tulip Jars 1 Liter - Large Sour D Review"
 meta_description: "Our full weck jars - weck tulip jars 1 liter - large sour dough start review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08SKG5FSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517IpMOpUhL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've kept a sourdough starter alive for more than a month, you know the drill: the jar that seemed perfect in the store becomes a science experiment in crusted flour, stuck-on dough, and that mysterious purple mold ring you never quite cleaned off. The Weck Tulip Jar 1 Liter is designed to solve exactly those problems — and for most bakers, it does.

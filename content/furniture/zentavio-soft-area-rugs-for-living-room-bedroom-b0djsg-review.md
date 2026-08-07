@@ -1,4 +1,5 @@
 ---
+
 title: "Zentavio Soft Area Rugs for Living Room Bedroom"
 seo_title: "Zentavio Soft Area Rugs for Living Room Bedroom Review: V"
 meta_description: "Our full zentavio soft area rugs for living room bedroom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJSGLPT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rrdgQzgZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Zentavio Soft Area Rug: A Budget-Friendly Comfort Play That Mostly Delivers**

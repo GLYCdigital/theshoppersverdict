@@ -1,4 +1,5 @@
 ---
+
 title: "SHADEPLUS RV Slide Out Awning Fabric Replacement Slide Toppe"
 seo_title: "SHADEPLUS RV Slide Out Awning Fabric Replacement S Review"
 meta_description: "Our full shadeplus rv slide out awning fabric replacement slide toppe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRRGHW7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CSfG02SbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: replacing an RV slide topper is one of those jobs you put off until a branch or hailstone makes the decision for you. The SHADEPLUS replacement fabric kit is designed for exactly that moment. With 229 ratings averaging 4.6 stars, it's clearly doing something right. Here's what you actually need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Decay All Nighter Waterproof Setting Powder - Lightwei"
 seo_title: "Urban Decay All Nighter Waterproof Setting Powder  Review"
 meta_description: "Our full urban decay all nighter waterproof setting powder - lightwei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D2JSBY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81outukci4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "waterproof" setting powders are a marketing lie. They'll survive a light drizzle but crumble the second you actually sweat. The Urban Decay All Nighter Waterproof Setting Powder is not most setting powders. After testing this against my usual rotation for three weeks, I'm genuinely impressed — and I'm also annoyed by a few things you should know before you buy.

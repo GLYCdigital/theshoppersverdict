@@ -1,4 +1,5 @@
 ---
+
 title: "Boat Seat Base Mount Boat Seat Pedestal Base Mount Plate for"
 seo_title: "Boat Seat Base Mount Plate Review: Sturdy & Affordable (2026)"
 meta_description: "Read our honest Boat Seat Base Mount Plate review. Sturdy aluminum build, easy install, fits most pedestals. See pros, cons & real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8V91Q1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510xwLuo-8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machined aluminum construction resists corrosion and flex — holds up under heavy anglers and rough water"
   - "Universal 4-hole bolt pattern fits most standard pedestal bases and swivel seats without modification"
   - "Pre-drilled pilot holes and included stainless hardware make install a 15-minute job with basic tools"
-cons:
+cons: 
   - "No gasket or sealant included — you'll need to buy marine sealant separately to prevent deck rot"
   - "Smaller footprint than OEM plates on some bass boats; may not cover existing larger bolt patterns"
+
 ---
 
 Let's be blunt: most boat seat mounts under $25 are cheap cast zinc that bends the first time a 200-pound buddy drops into the seat. This one isn't that. The Boat Seat Base Mount Pedestal Base Mount Plate at $22.79 sits in a sweet spot — affordable enough to buy without guilt, but built like it costs twice as much.

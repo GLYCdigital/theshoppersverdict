@@ -1,4 +1,5 @@
 ---
+
 title: "YETI Rambler 24 oz Mug, Vacuum Insulated, Stainless Steel wi"
 seo_title: "YETI Rambler 24 oz Mug, Vacuum Insulated, Stainles Review"
 meta_description: "Our full yeti rambler 24 oz mug, vacuum insulated, stainless steel wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHHM67FB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BG2zIO11L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24 oz sweet spot that YETI finally got right**

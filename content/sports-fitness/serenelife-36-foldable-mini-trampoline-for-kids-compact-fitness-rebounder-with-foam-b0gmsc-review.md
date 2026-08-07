@@ -1,4 +1,5 @@
 ---
+
 title: "SereneLife 36â€³ Foldable Mini Trampoline for Kids - Compact"
 seo_title: "SereneLife 36â€³ Foldable Mini Trampoline for Kids Review"
 meta_description: "Our full serenelife 36â€³ foldable mini trampoline for kids - compact review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMSC4Z32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aev9GCLfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the right mini trampoline for your kid, or just another toy that'll collect dust?** I've tested the SereneLife 36″ foldable model with my own kids and dug through 225 Amazon ratings to give you the straight story.

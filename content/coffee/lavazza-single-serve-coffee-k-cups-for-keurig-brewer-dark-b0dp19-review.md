@@ -1,4 +1,5 @@
 ---
+
 title: "Lavazza Single-Serve Coffee K-Cups for Keurig Brewer Dark"
 seo_title: "Lavazza Single-Serve Coffee K-Cups for Keurig Brew Review"
 meta_description: "Our full lavazza single-serve coffee k-cups for keurig brewer dark review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP193GDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JFRyfBC6L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've resigned yourself to watery, bitter K-Cup coffee, Lavazza's dark roast pods might just change your mind. This is the same 100% Arabica blend the Italian roaster has perfected since 1895, now squeezed into single-serve format. At 4.5 stars across 225 ratings, it's earning real traction — but is it actually worth swapping out your usual pods? I dug into the specs, the brew chemistry, and what buyers are actually saying.

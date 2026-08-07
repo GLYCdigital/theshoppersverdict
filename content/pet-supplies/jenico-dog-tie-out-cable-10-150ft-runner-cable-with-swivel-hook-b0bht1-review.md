@@ -1,4 +1,5 @@
 ---
+
 title: "Jenico Dog Tie Out Cable, 10-150FT Runner Cable with Swivel "
 seo_title: "Jenico Dog Tie Out Cable, 10-150FT Runner Cable wi Review"
 meta_description: "Our full jenico dog tie out cable, 10-150ft runner cable with swivel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BHT1HCGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819+AEMO8dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever untangled a twisted tie-out line for the fifth time in one afternoon, you already know why the Jenico Dog Tie Out Cable deserves a closer look. This is a simple product — a galvanized steel cable with swivels at both ends — but the execution matters. At 4.3 stars across 215 ratings, it's not perfect, but for most backyard setups, it's a solid upgrade over the flimsy coated-wire runners that tangle into knots by week two.

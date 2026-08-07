@@ -1,4 +1,5 @@
 ---
+
 title: "Goallim Floating Pool Lights Solar Powered, 7.6 Inch RGB Upp"
 seo_title: "Goallim Floating Pool Lights Solar Powered, 7.6 In Review"
 meta_description: "Our full goallim floating pool lights solar powered, 7.6 inch rgb upp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DS798SHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UoCHcQhTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the pool-decor noise. Most floating pool lights are cheap plastic orbs that look like glowing ping-pong balls. The Goallim 7.6-inch RGB unit tries something different — and mostly succeeds.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tidyboss 8 Puzzle Sorting Trays with Lid - Portable Jigsaw P"
 seo_title: "Tidyboss 8 Puzzle Sorting Trays with Lid - Portabl Review"
 meta_description: "Our full tidyboss 8 puzzle sorting trays with lid - portable jigsaw p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0924YMW2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c8z3jntcS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

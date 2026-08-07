@@ -1,4 +1,5 @@
 ---
+
 title: "Arden Outdoor Dining Chair Cushion Set 21 x 21 inch"
 seo_title: "Arden Outdoor Dining Chair Cushion Set Review: Worth It?"
 meta_description: "Arden 21x21 outdoor dining chair cushion set review: durability, comfort, fade resistance. See real pros, cons, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CVDTBK7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91buIOIXe-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Generous 3-inch thick foam that resists flattening even after full seasons of daily use"
   - "Tie straps are sewn into the seam — they don't rip out like cheaper glued versions"
   - "UV-treated fabric holds color well; multiple buyers report no fading after 6+ months in direct sun"
-cons:
+cons: 
   - "Cover is not waterproof — standing water soaks through and can take a full day to dry"
   - "No non-slip backing on the bottom; cushions slide on smooth metal or plastic chairs"
+
 ---
 
 # Arden Outdoor Dining Chair Cushion Set 21 x 21: The Honest Review

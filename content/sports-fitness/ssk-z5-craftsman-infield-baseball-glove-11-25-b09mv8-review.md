@@ -1,4 +1,5 @@
 ---
+
 title: "SSK Z5 Craftsman Infield Baseball Glove â€“ 11.25â€"
 seo_title: "SSK Z5 Craftsman Infield Baseball Glove â€“ 11.25â Review"
 meta_description: "Our full ssk z5 craftsman infield baseball glove â€“ 11.25â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09MV89KF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MdRzqVnuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you play middle infield, you know the drill: your glove needs to be quick, not cavernous. The SSK Z5 Craftsman 11.25” is engineered for exactly that — but it's not a grab-and-go glove. Here's what 235 buyers at 4.7 stars are actually saying, and whether it deserves a spot in your bag.

@@ -1,4 +1,5 @@
 ---
+
 title: "WH22X37840 Main Control Board Compatible With GE Washer Mach"
 seo_title: "WH22X37840 Main Control Board Compatible With GE W Review"
 meta_description: "Our full wh22x37840 main control board compatible with ge washer mach review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTBPWN8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/3179TsU2LBL._AC_SX355_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your GE washer just threw an error code and won't spin. You've watched the YouTube videos, confirmed the control board is the culprit, and now you're staring at a $190 replacement part. The WH22X37840 is the board everyone points to — but is it the right fix for your machine?

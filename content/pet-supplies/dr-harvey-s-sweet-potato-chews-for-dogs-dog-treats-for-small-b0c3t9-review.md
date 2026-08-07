@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Harvey's Sweet Potato Chews for Dogs Review"
 seo_title: "Dr. Harvey's Sweet Potato Chews Review: Worth It? (2026)"
 meta_description: "Honest Dr. Harvey's Sweet Potato Chews review: ingredients, texture, value, and real buyer feedback. Find out if these single-ingredient dog treats are worth buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3T9WV8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81igR1HHpBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single-ingredient sweet potato — no additives, preservatives, or artificial flavors"
   - "Soft-yet-chewy texture works for small breeds, seniors, and dogs with dental issues"
   - "Resealable packaging keeps chews fresh for weeks without drying out"
-cons:
+cons: 
   - "Smaller pieces than expected — heavy chewers will finish a bag fast"
   - "Not grain-free certified; cross-contamination risk for dogs with severe allergies"
   - "Some buyers report inconsistent thickness leading to occasional hard batches"
+
 ---
 
 Let's be honest: most dog treats on Amazon are 90% marketing and 10% mystery meat. Dr. Harvey's Sweet Potato Chews flips that ratio — this is a single-ingredient treat with a 4.2-star average from 210 ratings, and the feedback pattern tells a clear story about who should buy it.

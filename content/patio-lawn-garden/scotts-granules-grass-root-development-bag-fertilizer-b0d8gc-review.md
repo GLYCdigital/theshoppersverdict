@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts granules grass root development bag fertilizer"
 seo_title: "Scotts granules grass root development bag fertili Review"
 meta_description: "Our full scotts granules grass root development bag fertilizer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8GC1Z3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YeM-sHDPL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this Scotgs granular root development fertilizer actually is: it's not a magic green-up product. It's a targeted root-building treatment designed for lawns that look thin or patchy despite regular feeding. And based on 229 Amazon ratings averaging 4.6 stars, it's doing its job for most buyers.

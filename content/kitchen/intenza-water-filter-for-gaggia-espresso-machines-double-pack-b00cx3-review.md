@@ -1,4 +1,5 @@
 ---
+
 title: "Intenza Water Filter for Gaggia Espresso Machines- Double Pa"
 seo_title: "Intenza Water Filter for Gaggia Espresso Machines- Review"
 meta_description: "Our full intenza water filter for gaggia espresso machines- double pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00CX3SYUK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kU2jXk+sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: your espresso machine is only as good as the water you feed it. Hard water scales up your boiler, chlorine ruins your crema, and off-flavors sneak into even the best beans. The Intenza filter for Gaggia machines is a small, unglamorous component that quietly determines whether your $600 machine tastes like a café or a break room.

@@ -1,4 +1,5 @@
 ---
+
 title: "Moen T3291 Align Moentrol Tub/Shower Valve Trim without Valv"
 seo_title: "Moen T3291 Align Moentrol Tub/Shower Valve Trim wi Review"
 meta_description: "Our full moen t3291 align moentrol tub/shower valve trim without valv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07KGRRVCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fHnvFVMvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Moen T3291 Align Moentrol Tub/Shower Valve Trim: The Trim That Confuses People at Checkout

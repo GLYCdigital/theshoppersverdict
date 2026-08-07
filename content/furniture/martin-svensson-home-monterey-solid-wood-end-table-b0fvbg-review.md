@@ -1,4 +1,5 @@
 ---
+
 title: "Martin Svensson Home Monterey Solid Wood End Table"
 seo_title: "Martin Svensson Home Monterey Solid Wood End Table Review"
 meta_description: "Our full martin svensson home monterey solid wood end table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVBGZYMR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51W4hArE-UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Solid Wood End Table That Actually Looks Like It Costs More**

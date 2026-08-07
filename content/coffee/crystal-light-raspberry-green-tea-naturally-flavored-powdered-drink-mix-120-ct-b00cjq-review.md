@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Light Raspberry Green Tea Naturally Flavored Powdere"
 seo_title: "Crystal Light Raspberry Green Tea Review: Worth It? (2026)"
 meta_description: "Honest Crystal Light Raspberry Green Tea review: taste, mixability, and value. See if this 120-count powdered drink mix beats plain water."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00CJQEGYE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u2-S0pDKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "120 single-serve stick packets — no measuring, no clumping, portable"
   - "Only 5 calories and 0g sugar per 16.9oz serving, sweetened with aspartame and acesulfame potassium"
   - "Green tea extract provides about 25mg of caffeine per serving — a light lift, not a jolt"
-cons:
+cons: 
   - "Artificial sweetener aftertaste is noticeable if you're not used to aspartame"
   - "Flavor leans more raspberry candy than actual brewed green tea — don't expect a tea purist's cup"
   - "Some buyers report the packets can arrive crushed or torn in shipping if the box is handled roughly"
+
 ---
 
 Let’s be honest: most powdered drink mixes are either watery disappointment or sugar bombs pretending to be healthy. Crystal Light Raspberry Green Tea sits in a different lane—it’s a zero-sugar, 5-calorie option that actually tastes like something. With 240 ratings and a 4.8-star average on Amazon, it’s clearly doing something right. But is it for you? Here’s the breakdown.

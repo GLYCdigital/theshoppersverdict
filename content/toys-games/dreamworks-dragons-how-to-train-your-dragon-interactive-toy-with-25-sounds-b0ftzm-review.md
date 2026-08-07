@@ -1,4 +1,5 @@
 ---
+
 title: "DreamWorks Dragons, How to Train Your Dragon, Interactive To"
 seo_title: "DreamWorks Dragons Interactive Toy Review: 25 Sounds & More"
 meta_description: "Our honest DreamWorks Dragons interactive toy review covers the 25 sounds, build quality, and whether it's worth buying for HTTYD fans."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTZM2DN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O2u8cHMtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "25 distinct sounds and phrases pulled directly from the films — not generic roars"
   - "Sturdy construction that survives drops; kids report it still works after months of play"
   - "Interactive response to touch and movement makes it feel alive, not like a static figure"
-cons:
+cons: 
   - "Batteries are not included — you'll need 3 AAA right out of the box"
   - "Sound quality is decent but not exceptional; volume isn't adjustable"
   - "Some kids under 5 may find the touch sensors finicky until they learn the sweet spots"
+
 ---
 
 If you've got a How to Train Your Dragon superfan in your house, you already know the struggle: most licensed dragon toys are either cheap plastic statues that gather dust or gimmicky junk that breaks before the packaging hits the recycling bin. This interactive dragon from DreamWorks sits in a different category entirely — it actually does something.

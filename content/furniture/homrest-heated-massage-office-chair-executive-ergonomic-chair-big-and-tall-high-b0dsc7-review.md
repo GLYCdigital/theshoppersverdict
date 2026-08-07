@@ -1,4 +1,5 @@
 ---
+
 title: "HOMREST Heated Massage Office Chair,Executive Ergonomic Chai"
 seo_title: "HOMREST Heated Massage Office Chair,Executive Ergo Review"
 meta_description: "Our full homrest heated massage office chair,executive ergonomic chai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSC71MVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613kGlpvtkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOMREST Heated Massage Office Chair Review: Real Relief or Gimmick?

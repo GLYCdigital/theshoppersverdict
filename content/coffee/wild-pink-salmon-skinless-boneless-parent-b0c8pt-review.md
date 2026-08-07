@@ -1,4 +1,5 @@
 ---
+
 title: "Wild Pink Salmon - Skinless, Boneless_PARENT"
 seo_title: "Wild Pink Salmon - Skinless, Boneless_PARENT Review: Verd"
 meta_description: "Our full wild pink salmon - skinless, boneless_parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8PTQS91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UZDWPYxnL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 ## Wild Pink Salmon: The Pantry Staple That Actually Tastes Like Salmon
 

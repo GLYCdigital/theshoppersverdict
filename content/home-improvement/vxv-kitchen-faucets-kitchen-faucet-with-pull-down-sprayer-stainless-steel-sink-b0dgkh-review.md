@@ -1,4 +1,5 @@
 ---
+
 title: "VXV Kitchen Faucets, Kitchen Faucet with Pull-Down Sprayer, "
 seo_title: "VXV Kitchen Faucets, Kitchen Faucet with Pull-Down Review"
 meta_description: "Our full vxv kitchen faucets, kitchen faucet with pull-down sprayer,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGKH28DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61udvg+BwuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A $100-ish Faucet That Doesn't Embarrass Itself Next to $300 Brands**

@@ -1,4 +1,5 @@
 ---
+
 title: "100PCS Hair Ties for Women, Seamless Cotton Hair Bands, No C"
 seo_title: "100PCS Hair Ties Review: Seamless Cotton Bands That Don't Crease"
 meta_description: "We tested 100PCS seamless cotton hair ties for women. Do they really prevent creases and breakage? Read our honest 4.6/5 review before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B87ZR99V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HBqU43oSL._SL1000_.jpg"
-pros:
+pros: 
   - "100-count supply at $6.99 means you're paying about 7 cents per tie — cheap enough to lose without stress"
   - "Seamless cotton construction eliminates the metal crimp that snags hair and leaves dents"
   - "Gentle elastic recovery holds ponytails securely through workouts without pulling or tearing strands"
-cons:
+cons: 
   - "Cotton fabric absorbs moisture and products, so ties feel damp and stretch out faster in humid conditions"
   - "Thinner than traditional thick scrunchies — not ideal for very thick or heavy hair that needs more grip"
+
 ---
 
 Let's be honest about hair ties: most of us buy whatever's on sale, lose half of them within a week, and blame our hair when they snap. The 100PCS Seamless Cotton Hair Bands are trying to break that cycle. For $6.99, you're getting 100 fabric-covered elastics that promise zero creases and zero snags. After digging through 235 ratings and the actual product specs, here's the real story.

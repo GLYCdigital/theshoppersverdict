@@ -1,16 +1,17 @@
 ---
+
 title: "Nespresso Kazaar Intenso Capsules, Dark Roast Coffee, 50 Count"
 seo_title: "Nespresso Kazaar Intenso Review: Bold Dark Roast Verdict (4.8/5)"
 meta_description: "Read our honest Nespresso Kazaar Intenso review based on 3,652 Amazon reviews. Strong, dark, smooth crema — is it worth it? Find out."
 slug: "nespresso-kazaar-intenso-dark-roast-capsules-review"
 image_alt: "Nespresso Kazaar Intenso Dark Roast Coffee Capsules 50 Count"
-keywords:
+keywords: 
   - "Nespresso Kazaar review"
   - "best Nespresso pods for strong coffee"
   - "Nespresso Original Line capsules"
   - "dark roast espresso pods"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Is the Nespresso Kazaar Intenso bitter?"
     answer: "No. Reviewers consistently note it's intense but not bitter, with a smooth finish and no burnt aftertaste."
   - question: "How much caffeine is in a Kazaar pod?"
@@ -23,14 +24,15 @@ review_count: 3652
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00O6FU8TI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fluhieJ1L._SL1500_.jpg"
-pros:
+pros: 
   - "Intense, bold flavor with zero bitterness"
   - "Thick, lasting crema every brew"
   - "Smooth cocoa and vanilla undertones"
   - "Perfect single-cup caffeine punch"
-cons:
+cons: 
   - "Only available for OriginalLine machines"
   - "At ~$0.90/pod, pricier than drip coffee"
+
 ---
 
 If you like your espresso like you like your mornings — strong, dark, and no-nonsense — the Nespresso Kazaar Intenso is about as good as it gets in a capsule.

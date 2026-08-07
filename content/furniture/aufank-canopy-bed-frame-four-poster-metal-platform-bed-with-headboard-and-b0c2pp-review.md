@@ -1,4 +1,5 @@
 ---
+
 title: "AUFANK Canopy Bed Frame Four-Poster Metal Platform Bed with"
 seo_title: "AUFANK Canopy Bed Frame Review: Four-Poster Metal Platform Bed"
 meta_description: "AUFANK canopy bed frame four-poster metal platform bed review: sturdy build, no box spring needed, easy assembly. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2PPQ8XY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hsQYPfNcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty steel frame with 13 support legs distributes weight evenly, eliminating the bounce you get from cheaper metal beds"
   - "True four-poster design at this price point — most sub-$300 canopy beds use flimsy decorative posts that can't hold curtains"
   - "No box spring required — the integrated platform slats support a mattress directly, saving you $100+"
-cons:
+cons: 
   - "Headboard and footboard panels are thinner gauge metal than the frame rails — fine for looks, but don't lean on them hard"
   - "Assembly requires two people for the posts; the instructions are diagram-only with no torque specs for the bolts"
+
 ---
 
 You've seen the listing photos — the dramatic four-poster silhouette, the promise of a hotel-style statement piece. But most canopy beds under $300 are a gamble: wobbly posts, hollow tubes that bend under weight, and slats that gap so badly your mattress sags by month two. The AUFANK Canopy Bed Frame claims to be different. After digging through 225 ratings and the build specs, here's the honest picture.

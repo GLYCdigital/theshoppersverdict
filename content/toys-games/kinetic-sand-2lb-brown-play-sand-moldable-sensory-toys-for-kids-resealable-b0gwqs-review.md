@@ -1,4 +1,5 @@
 ---
+
 title: "Kinetic Sand, 2lb Brown Play Sand, Moldable Sensory Toys for"
 seo_title: "Kinetic Sand, 2lb Brown Play Sand, Moldable Sensor Review"
 meta_description: "Our full kinetic sand, 2lb brown play sand, moldable sensory toys for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWQSS6KW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+GFHZRwlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Kinetic Sand 2lb Brown: The Honest, No-Fluff Review

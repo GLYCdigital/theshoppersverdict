@@ -1,7 +1,8 @@
 ---
-title: "Milwaukee 2953-20 18V Cordless 1/4\" Hex Impact Driver (Tool "
-seo_title: "Milwaukee 2953-20 18V Cordless 1/4\" Hex Impact Dri Review"
-meta_description: "Our full milwaukee 2953-20 18v cordless 1/4\" hex impact driver (tool  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Milwaukee 2953-20 18V Cordless 1/4\ Hex Impact Driver (Tool "
+seo_title: "Milwaukee 2953-20 18V Cordless 1/4\ Hex Impact Dri Review"
+meta_description: "Our full milwaukee 2953-20 18v cordless 1/4\ hex impact driver (tool  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-2953-20-18v-cordless-1-4-hex-impact-driver-tool-only-b0bzsw-review"
 image_alt: "Milwaukee 2953-20 18V Cordless 1/4 Hex Impact Driver (Tool Only)"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZSWTVCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iaqdzBFnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Milwaukee 2953-20 isn't just another impact driver. It's the compact version of the company's flagship M18 Fuel model, and at 4.6 inches from nose to tail, it's shorter than most 12-volt drivers while delivering full 18-volt power. If you've been lugging around a full-size impact and wondering why your wrist aches at the end of the day, this is the answer.

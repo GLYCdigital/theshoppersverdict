@@ -1,4 +1,5 @@
 ---
+
 title: "XGaming Computer Monitor QHD FHD 100Hz 144Hz 165Hz 100% sRGB"
 seo_title: "XGaming Computer Monitor QHD FHD 100Hz 144Hz 165Hz Review"
 meta_description: "Our full xgaming computer monitor qhd fhd 100hz 144hz 165hz 100% srgb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FN75BCZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Iw-BicYqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The XGaming monitor sits in that crowded middle ground of budget gaming displays — the space where specs look great on paper but often fall apart in practice. I've tested enough of these to be skeptical. So let me tell you straight: this one mostly delivers, with a couple of compromises you should know about before you click buy.

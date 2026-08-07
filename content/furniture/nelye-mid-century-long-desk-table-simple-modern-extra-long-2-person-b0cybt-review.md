@@ -1,4 +1,5 @@
 ---
+
 title: "NELYE Mid-Century Long Desk Table - Simple Modern Extra Long"
 seo_title: "NELYE Mid-Century Long Desk Table - Simple Modern  Review"
 meta_description: "Our full nelye mid-century long desk table - simple modern extra long review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYBTRTRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ifquIdWIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Nelye Mid Century Long Desk: A Lot of Surface, A Few Tradeoffs

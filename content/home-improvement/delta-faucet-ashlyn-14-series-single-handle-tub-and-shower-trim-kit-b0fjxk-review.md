@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Ashlyn 14 Series Single-Handle Tub and Shower T"
 seo_title: "Delta Ashlyn 14 Series Tub & Shower Trim Review (2026)"
 meta_description: "In-depth Delta Ashlyn 14 Series single-handle tub/shower trim review: install ease, Diamond Seal tech, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJXK36N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hwfq5NX2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal technology eliminates the need for a rubber washer, reducing leak points and extending valve life"
   - "Included pressure-balanced valve core maintains consistent water temp when other fixtures are running"
   - "Trim kit fits standard 1/2-inch copper or PEX rough-in, making it a straightforward retrofit for most DIYers"
-cons:
+cons: 
   - "Valve body and rough-in not included — this is trim only, adding roughly $60–$90 to total cost"
   - "Some users report the lever handle feels slightly light/plastic compared to the metal spout"
   - "No diverter option on this model — you'll need a separate tub spout with diverter for showerhead use"
+
 ---
 
 ## The Delta Ashlyn 14 Series: A Trim Kit That Punches Above Its Price

@@ -1,4 +1,5 @@
 ---
+
 title: "Beckacher 2 Pack PA120 Replacement Pool Filter Compatible wi"
 seo_title: "Beckacher PA120 Pool Filter 2-Pack Review (2026)"
 meta_description: "Honest Beckacher PA120 replacement pool filter review: fits Hayward C1200/CX1200RE, 2-pack value, real performance data, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3QYRB9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TYsWz3EYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 2-pack at a price point that undercuts OEM single cartridges — replacement cost per season drops significantly"
   - "Reinforced pleats and polyester media hold up to weekly cleanings without tearing or collapsing"
   - "Exact dimensional match to Hayward C1200/CX1200RE — no forcing, no gaps, no bypass"
-cons:
+cons: 
   - "No gasket/o-ring included — if your current one is worn, budget an extra few dollars"
   - "Slightly stiffer pleats than OEM during the first installation; they soften after the first soak"
+
 ---
 
 # Beckacher 2-Pack PA120 Replacement Pool Filter: The Value Pick That Actually Works

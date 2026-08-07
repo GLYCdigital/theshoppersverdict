@@ -1,4 +1,5 @@
 ---
+
 title: "245XL Ink Cartridge Compatible Replacement for Canon 245XL f"
 seo_title: "245XL Ink Cartridge Review: Compatible Canon PG-245XL Replacement"
 meta_description: "Honest 245XL ink cartridge review: print quality, page yield, and compatibility for Canon Pixma printers. See if this budget replacement beats OEM."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DY13VCHK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fil+RJzNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ships with a full 17ml of ink versus Canon's 10.5ml standard cartridge — roughly 60% more ink for the same page yield claims"
   - "Chip resets automatically, so the printer recognizes it as a genuine Canon cartridge without firmware workarounds"
   - "No leak reports across 200+ verified ratings — a common failure point for cheap compatibles"
-cons:
+cons: 
   - "Page yield runs 15-20% short of the 300-page claim in real-world testing with dense graphics"
   - "No expiration date printed on the cartridge — some units from older stock may have degraded ink"
+
 ---
 
 The printer ink racket is simple: the printer is cheap, the ink is a subscription. Canon's official PG-245XL will run you anywhere from $35 to $45 for a cartridge that Canon rates at 300 pages. This compatible replacement from a third-party seller undercuts that by a wide margin, and with 204 ratings averaging 4.1 stars, it's clearly earning its keep for budget-conscious Canon Pixma owners.

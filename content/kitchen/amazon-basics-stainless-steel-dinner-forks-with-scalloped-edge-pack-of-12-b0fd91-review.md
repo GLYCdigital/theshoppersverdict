@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Stainless Steel Dinner Forks with Scalloped Ed"
 seo_title: "Amazon Basics Stainless Steel Forks Review (2026): Worth It?"
 meta_description: "Amazon Basics stainless steel dinner forks review: 4.8-star rated, 12-pack. Are they durable? Dishwasher-safe? We break down real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD91DQV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lCkIY3RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18/10 stainless steel construction resists rust and corrosion through hundreds of dishwasher cycles"
   - "Scalloped edge adds genuine grip — forks don't slide out of pasta or dense casseroles"
   - "Substantial weight (roughly 85g per fork) feels premium, not flimsy like cheaper sets"
-cons:
+cons: 
   - "Scalloped tines make cleaning stuck-on food slightly harder than smooth-edged forks"
   - "No included storage organizer — loose in a drawer without a divider"
+
 ---
 
 Let's be honest: most flatware reviews are either paid hype or people complaining about bent tines. The Amazon Basics Stainless Steel Dinner Forks sit in a rare middle ground — a 4.8-star average across 240 ratings suggests they're doing something right. After digging through the specs and real buyer feedback, here's the unfiltered picture.

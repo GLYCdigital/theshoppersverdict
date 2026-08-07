@@ -1,4 +1,5 @@
 ---
+
 title: "L'OCCITANE Advent Calendar, 24-Piece Luxury Beauty Countdown"
 seo_title: "L'OCCITANE Advent Calendar, 24-Piece Luxury Beauty Review"
 meta_description: "Our full l'occitane advent calendar, 24-piece luxury beauty countdown review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B9VHXX4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aEEHAYykL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # L'OCCITANE Advent Calendar, 24-Piece Luxury Beauty Countdown Review: Worth the Hype?

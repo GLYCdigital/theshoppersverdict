@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* PEX Expander Tool Kit, 1-Inch (DCE400D2)"
 seo_title: "DEWALT 20V MAX PEX Expander Tool Kit Review: DCE400D2 inch"
 meta_description: "DEWALT DCE400D2 1-inch PEX expander tool kit review: cordless convenience, 15+ joints per charge, 3-year warranty. See pros, cons & real user feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0753F9D19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EzmJVAfCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless design delivers 15–20 expansions per charge with the included 2.0Ah battery — enough for a full bathroom rough-in"
   - "Rotating head and 4-petal jaw system create uniform, leak-free PEX-A joints in under 5 seconds per connection"
   - "Compatible with DeWalt's 20V MAX battery platform, so it shares chargers with your existing tools"
-cons:
+cons: 
   - "Only includes the 1-inch head — you'll need to buy the 1/2-inch and 3/4-inch heads separately at roughly $60 each"
   - "Expansion heads must be swapped with a hex wrench; slightly slower than quick-change systems on competing brands"
   - "2.0Ah battery is the smaller option; heavy users will want a 5.0Ah pack to avoid mid-job swaps"
+
 ---
 
 If you're still wrestling with crimp rings and a manual tool on PEX-A pipe, you're working harder than you need to. The DEWALT 20V MAX PEX Expander Tool Kit (DCE400D2) is the kind of upgrade that makes you wonder why you waited so long. This is the expander method — the one that creates a tighter, more reliable connection than crimping because the pipe literally shrinks back around the fitting. And doing it cordless changes the math entirely.

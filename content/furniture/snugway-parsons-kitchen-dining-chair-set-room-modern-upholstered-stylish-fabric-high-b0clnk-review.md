@@ -1,4 +1,5 @@
 ---
+
 title: "SNUGWAY Parsons Kitchen Dining Chair Set Room Modern Upholst"
 seo_title: "SNUGWAY Parsons Kitchen Dining Chair Set Room Mode Review"
 meta_description: "Our full snugway parsons kitchen dining chair set room modern upholst review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLNK2TLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YOuNJdezL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SNUGWAY Parsons Kitchen Dining Chair Set: The $100-Per-Chair Test

@@ -1,4 +1,5 @@
 ---
+
 title: "Syokami Japanese Chef Knife Review: $37 Carbon Steel That Rivals $150 Blades?"
 seo_title: "Syokami Kiritsuke Chef Knife Review 2026: Best Budget Carbon Steel Knife?"
 meta_description: "Our honest Syokami Japanese Kitchen Knife review. Real customer insights on the $37 carbon steel Kiritsuke chef knife. See performance, edge retention, pros, cons, and our verdict."
@@ -11,26 +12,26 @@ image_alt: "Syokami Japanese Kitchen Knife 8.2 Inch Carbon Steel Kiritsuke Chef 
 amazon_rating: 4.7
 review_count: 904
 verdict_score: 9.0
-categories:
+categories: 
   - kitchen
   - kitchen-tools
-tags:
+tags: 
   - Syokami
   - chef knife
   - Japanese knife
   - kiritsuke
   - carbon steel
   - B0F3J4FBWC
-pros:
+pros: 
   - "Laser-sharp out of the box — shaves arm hair sharp, cuts vegetables like butter"
   - "Excellent edge retention with high-carbon steel construction"
   - "Perfectly balanced weight for all-day prep work on meat and vegetables"
   - "Beautiful aesthetic with wood handle that provides solid grip"
-cons:
+cons: 
   - "Carbon steel requires regular drying and oiling to prevent rust/patina"
   - "Handle finish may stain or transfer color when wet (some units)"
   - "8.2 inch blade may feel intimidating to smaller-handed cooks initially"
-faq:
+faq: 
   - question: "Is the Syokami knife really sharp out of the box?"
     answer: "Yes. Multiple reviewers confirm the knife arrives razor-sharp — sharp enough to shave arm hair. It slices through tomatoes, bell peppers, and raw meat with minimal pressure."
   - question: "Is this a true Kiritsuke knife?"
@@ -39,6 +40,7 @@ faq:
     answer: "Like all high-carbon steel knives, the Syokami is susceptible to rust if left wet. Wipe it dry after each use and apply a light coat of mineral oil periodically. Some staining/patina development is normal and actually protects the blade."
   - question: "What is the blade length and overall length?"
     answer: "The blade is 8.2 inches (~21 cm) with an overall length of approximately 13.5 inches. It's comparable to a standard western chef's knife, though slightly longer and flatter in profile."
+
 ---
 
 ## The Syokami Japanese Chef Knife: A $45 Gyuto That Punches Way Above Its Weight

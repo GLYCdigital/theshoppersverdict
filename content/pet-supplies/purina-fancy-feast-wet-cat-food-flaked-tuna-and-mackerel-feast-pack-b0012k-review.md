@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Fancy Feast Wet Cat Food Flaked Tuna and Mackerel Fea"
 seo_title: "Purina Fancy Feast Wet Cat Food Flaked Tuna and Ma Review"
 meta_description: "Our full purina fancy feast wet cat food flaked tuna and mackerel fea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0012KCUVO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BG3JdbtZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the cat food aisle noise. You're standing there with a cart, a cat at home who turns their nose up at half of what you buy, and a budget that doesn't stretch to boutique $4-per-can brands. Purina Fancy Feast Flaked Tuna and Mackerel sits in that sweet spot of affordable and appealing. But is it actually good for your cat, or just good at marketing?

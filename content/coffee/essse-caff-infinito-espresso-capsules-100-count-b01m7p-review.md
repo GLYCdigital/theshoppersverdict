@@ -1,4 +1,5 @@
 ---
+
 title: "Essse CaffÃ© - Infinito Espresso Capsules - 100 Count"
 seo_title: "Essse CaffÃ© Infinito Espresso Capsules Review (100 Count)"
 meta_description: "Essse CaffÃ© Infinito espresso capsules 100-count review: intensity, compatibility, flavor, and value. See if these aluminum pods beat your daily Nespresso."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01M7PWINC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eNbb0Qv9L._SL1030_.jpg"
-pros:
+pros: 
   - "Aluminum capsules are fully recyclable and preserve freshness far better than plastic pods"
   - "100-count bulk pack delivers serious per-cup savings versus branded Nespresso pods"
   - "Balanced 8/10 intensity — bold enough for milk drinks, smooth enough for straight shots"
-cons:
+cons: 
   - "Only compatible with original Nespresso line machines, not Vertuo models"
   - "Lacks the syrupy crema thickness of pricier Italian brands like Illy or Lavazza"
   - "Roast date isn't printed on the box — you're trusting the supply chain for freshness"
+
 ---
 
 **The 100-count bulk espresso pod that actually respects your wallet — and your machine**

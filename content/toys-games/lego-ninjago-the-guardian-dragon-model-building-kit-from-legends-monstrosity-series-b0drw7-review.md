@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO The Guardian Dragon - Model Building Kit from L"
 seo_title: "LEGO NINJAGO The Guardian Dragon - Model Building  Review"
 meta_description: "Our full lego ninjago the guardian dragon - model building kit from l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRW7NG1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p0l804QcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEGO NINJAGO The Guardian Dragon: A Detailed Review

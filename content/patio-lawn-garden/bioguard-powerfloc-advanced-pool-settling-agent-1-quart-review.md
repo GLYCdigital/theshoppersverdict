@@ -1,16 +1,17 @@
 ---
+
 title: "BioGuard PowerFloc Advanced Pool Settling Agent, 1 Quart, Single Pack"
 seo_title: "BioGuard PowerFloc Review: Verdict (4.5/5) | TSV"
 meta_description: "Honest BioGuard PowerFloc pool settling agent review 822+ reviews analyzed. Real pros, cons, clearing cloudy water, and our verdict."
 slug: "bioguard-powerfloc-advanced-pool-settling-agent-1-quart-review"
 image_alt: "BioGuard PowerFloc Advanced Pool Settling Agent, 1 Quart bottle for clearing cloudy pool water"
-keywords:
+keywords: 
   - "BioGuard PowerFloc review"
   - "pool settling agent review"
   - "best pool flocculant"
   - "cloudy pool water solution"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "How does BioGuard PowerFloc work?"
     answer: "BioGuard PowerFloc is a pool settling agent (flocculant) that binds to suspended particles in cloudy water, causing them to clump together and settle to the bottom of the pool. After the particles settle (typically 8-24 hours), you vacuum them out using the waste setting on your filter to avoid clogging the filter media."
   - question: "How long does BioGuard PowerFloc take to work?"
@@ -23,15 +24,16 @@ review_count: 822
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07C2C8F9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51s9ApBbo2L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Fast-acting — visible results within hours"
   - "Small amount needed per treatment (2-4 oz for average pools)"
   - "Works on stubborn algae and Sahara dust situations"
   - "Trusted BioGuard brand quality"
-cons:
+cons: 
   - "Requires vacuuming to waste — uses more water"
   - "Doesn't work for every pool (some users saw no improvement)"
   - "pH must be balanced beforehand for best results"
+
 ---
 
 Look, I've tested a lot of pool chemicals that promise "crystal clear water" and deliver disappointment in a bottle. BioGuard PowerFloc is not that product — but it's also not magic. Here's what 822 Amazon reviewers and my own testing reveal about whether this $31 quart earns a spot in your pool shed.

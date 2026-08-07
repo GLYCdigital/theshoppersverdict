@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell’s Chunky Soup, Classic Chicken Noodle Soup, 16.1 inch"
 seo_title: "Campbell’s Chunky Soup Chicken Noodle Review (2026)"
 meta_description: "Honest Campbell’s Chunky Chicken Noodle Soup review: hearty portions, real chicken pieces, sodium tradeoffs. Is the 16.1 oz can worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B81SXXJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813EP4BoI6L._SL1500_.jpg"
-pros:
+pros: 
   - "Substantial chicken pieces — visibly larger than standard condensed soups, with white meat that holds up after reheating"
   - "Generous 16.1 oz can delivers two solid servings or one very filling meal — actual hunger satisfaction, not just broth"
   - "Consistent noodle texture after microwaving; doesn't turn to mush like many canned noodle soups"
-cons:
+cons: 
   - "Sodium load is significant at 890mg per serving — nearly 40% of daily recommended value, a real concern for BP-watchers"
   - "Broth is thinner than the 'chunky' marketing suggests — more broth-forward than stew-like, especially compared to the brand's own beef varieties"
+
 ---
 
 # Campbell’s Chunky Soup, Classic Chicken Noodle Soup: The Pantry Staple That Actually Fills You Up

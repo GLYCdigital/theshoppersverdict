@@ -1,4 +1,5 @@
 ---
+
 title: "HeroKiddo Commercial Grade Bounce House with Water Slide wit"
 seo_title: "HeroKiddo Bounce House Review: Water Slide + Pool Combo"
 meta_description: "Honest HeroKiddo Commercial Grade Bounce House review: build quality, setup, safety, and whether this 3-in-1 water slide combo is worth your yard."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWG9QHSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZyYWrYttL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade 420D Oxford fabric holds up to daily use and rough play — noticeably thicker than typical backyard inflatables"
   - "3-in-1 design (bounce house + water slide + splash pool) delivers hours of variety without needing a second purchase"
   - "Blower runs continuously and maintains firm pressure even with 5-6 kids bouncing simultaneously"
-cons:
+cons: 
   - "Setup requires two adults and about 30-45 minutes; the slide section is awkward to position without help"
   - "Water slide mode requires the separate water hose attachment — it's not included in the box"
+
 ---
 
 **The $400 question: Is a commercial-grade inflatable actually worth it for home use?**

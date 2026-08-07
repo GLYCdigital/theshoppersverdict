@@ -1,4 +1,5 @@
 ---
+
 title: "STARLATTA Elevated Dog Bed,Extra Large Raised Dogs Cot with "
 seo_title: "STARLATTA Elevated Dog Bed,Extra Large Raised Dogs Review"
 meta_description: "Our full starlatta elevated dog bed,extra large raised dogs cot with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FL7QFKXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tKsr6Aj+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The STARLATA Elevated Dog Bed: A Cool, Raised Cot That Demands Patience**

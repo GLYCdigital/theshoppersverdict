@@ -1,23 +1,25 @@
 ---
+
 title: "Addiction Wild Kangaroo & Apples - Dry Dog Food - Limited In"
 seo_title: "Addiction Wild Kangaroo Dog Food Review (2026): Pros, Cons & Verdict"
 meta_description: "Honest Addiction Wild Kangaroo & Apples dog food review: novel protein, limited ingredients, picky eater results, and who should buy it."
 slug: "addiction-wild-kangaroo-apples-dry-dog-food-limited-ingredient-premium-protein-muscle-b09kxl-review"
 image_alt: "Bag of Addiction Wild Kangaroo and Apples limited ingredient dry dog food with kangaroo protein and apple pieces"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09KXLVTBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E3uYJW4+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Single novel animal protein (kangaroo) — ideal for dogs with chicken/beef allergies"  
   - "Fruits and veggies replace grains and legumes — no peas, lentils, or potato fillers"  
   - "High meat content (55% kangaroo) supports lean muscle without excessive fat"  
-cons:  
+cons: 
   - "Not suitable for puppies or pregnant/nursing dogs — no AAFCO growth statement"  
   - "Distinct gamey aroma and smaller kibble size may surprise dogs used to standard blends"
+
 ---
 
 Let’s be honest: most “limited ingredient” dog foods swap chicken for turkey or beef for bison and call it a day. Addiction Wild Kangaroo & Apples actually does something different. This is a true novel protein formula built around kangaroo — an animal your dog has almost certainly never eaten — paired with apples, chickpeas, and a short list of recognizable ingredients. For owners chasing allergy relief or just wanting to shake up a bored palate, this bag is worth a hard look.

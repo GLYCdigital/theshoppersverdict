@@ -1,4 +1,5 @@
 ---
+
 title: "Sundale Outdoor Patio Umbrella with Sand Bag Umbrella Base, "
 seo_title: "Sundale Outdoor Patio Umbrella with Sand Bag Umbre Review"
 meta_description: "Our full sundale outdoor patio umbrella with sand bag umbrella base,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2HGLWF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x3R3lXLeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $40 umbrella cartwheel across your yard on a breezy Tuesday, you know the real problem with patio umbrellas isn't the canopy — it's the base. The Sundale Outdoor Patio Umbrella with Sand Bag Umbrella Base tackles that issue head-on. After digging through 215 verified buyer ratings (4.3 stars) and testing the specs against what actually matters outdoors, here's the honest breakdown.

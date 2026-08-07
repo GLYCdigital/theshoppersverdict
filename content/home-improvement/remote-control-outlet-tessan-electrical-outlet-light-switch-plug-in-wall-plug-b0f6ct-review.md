@@ -1,4 +1,5 @@
 ---
+
 title: "Remote Control Outlet, TESSAN Electrical Outlet Light Switch"
 seo_title: "Remote Control Outlet, TESSAN Electrical Outlet Li Review"
 meta_description: "Our full remote control outlet, tessan electrical outlet light switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F6CTSNTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615Qp-L+JoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've ever groaned at getting up from the couch to kill a lamp, this TESSAN remote control outlet is the $15 solution you'll actually use. It's not smart-home fancy — no app, no voice control, no scheduling. But it does one thing flawlessly: turn plugged-in devices on and off from across the room with a button press. With a 4.8-star average across 240 ratings, shoppers clearly agree it earns its keep.

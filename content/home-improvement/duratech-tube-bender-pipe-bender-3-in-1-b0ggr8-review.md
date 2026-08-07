@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Tube Bender, Pipe Bender, 3-IN-1 inch"
 seo_title: "DURATECH 3-IN-1 Tube Bender Review: Worth It? (2026)"
 meta_description: "Honest DURATECH 3-IN-1 tube bender review: performance on copper, aluminum & steel tubing, build quality, limitations, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GGR8XY9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n+dNBI9NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Three precision-machined dies (1/4 inch ", 5/16 inch ", 3/8 inch ") cover the most common tubing sizes without buying separate tools
   - "Steel construction and pivot handle deliver solid leverage — most users report clean, kink-free bends up to 90°"
   - "Built-in angle markings on the die let you hit repeatable bend angles without a protractor"
-cons:
+cons: 
   - "Not designed for stainless steel or thick-wall pipe — stick to soft copper, aluminum, and thin-wall steel"
   - Compact handle length means larger-diameter tubing (3/8 inch ") requires more effort than bench-mounted benders
   - "Some users report the angle markings wear off after heavy use"
+
 ---
 
 If you've ever fought with a cheap tubing bender that crumples the pipe like a soda can, you know the frustration. The DURATECH 3-IN-1 aims to fix that with a three-die system in a compact handheld package. After digging through 220 customer ratings and the specs, here's the real story.

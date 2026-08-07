@@ -1,24 +1,26 @@
 ---
+
 title: "Boraam Broadmoor Swivel Stool"
 seo_title: "Boraam Broadmoor Swivel Stool Review: Solid or Skip?"
 meta_description: "Honest Boraam Broadmoor Swivel Stool review: build quality, comfort, and who should buy. Real buyer feedback on this 4.3-rated bar stool."
 slug: "boraam-broadmoor-swivel-stool-b0d1v4-review"
 image_alt: "Boraam Broadmoor swivel bar stool with dark wood seat and metal footrest"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1V497DR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d54TPwEvL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Solid hardwood frame with real wood veneer — not cheap MDF"  
   - "360-degree swivel mechanism is smooth and silent on most flooring"  
   - "Footrest is properly placed for average-height users (5'6 inch –5'11 inch )"
-cons:  
+cons: 
   - "Assembly requires a hex key and patience — holes don't always align perfectly"  
   - "Seat is firm; no cushioning, so long sits get uncomfortable"  
   - "Finish scratches easily if you drag the stool instead of lifting it"
+
 ---
 
 The Boraam Broadmoor Swivel Stool is the kind of product that makes you wonder why more bar stools don't get the basics right. It's a solid hardwood swivel stool with a real wood veneer, a smooth 360-degree rotation, and a footrest that actually sits where your feet expect it to be. At 4.3 stars across 215 ratings, it's clearly working for most buyers. But it's not perfect — and the flaws are worth knowing before you commit.

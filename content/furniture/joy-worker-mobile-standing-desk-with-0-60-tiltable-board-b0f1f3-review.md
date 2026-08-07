@@ -1,4 +1,5 @@
 ---
+
 title: "JOY worker Mobile Standing Desk with 0-60Â°Tiltable Board"
 seo_title: "JOY worker Mobile Standing Desk with 0-60Â°Tiltabl Review"
 meta_description: "Our full joy worker mobile standing desk with 0-60â°tiltable board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1F3K3F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616NJO0CUlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most standing desks assume you'll stand still. The JOY worker Mobile Standing Desk figures you'd rather move — and tilt your workspace to a 45-degree angle while you're at it. With a 4.4-star average across 220 ratings, it's clearly doing something right. Here's what 220 buyers actually got for their money.

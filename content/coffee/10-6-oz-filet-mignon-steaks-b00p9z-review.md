@@ -1,4 +1,5 @@
 ---
+
 title: "10 (6 oz.) Filet Mignon Steaks"
 seo_title: "10 (6 oz.) Filet Mignon Steaks Review: Worth It?"
 meta_description: "Honest review of 10 (6 oz.) Filet Mignon Steaks. 4.4/5 rating. We break down tenderness, value, and who should buy. Read before you order."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00P9ZR310/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u1mi-WVOL._SL1010_.jpg"
-pros:
+pros: 
   - "Consistent 6 oz portions — ideal for uniform cooking and easy portion control"
   - "Vacuum-sealed individually, so you can pull one or two steaks without thawing the whole box"
   - "Butter-knife tenderness when cooked to medium-rare; center-cut quality holds up to home grilling"
-cons:
+cons: 
   - "No marbling compared to ribeye — expect leaner flavor that needs seasoning or compound butter"
   - "Thickness varies slightly between steaks (some arrive closer to 1 inch, others 1.25 inches), affecting cook times"
+
 ---
 
 **Opening: The steak you can actually pull off on a Tuesday**

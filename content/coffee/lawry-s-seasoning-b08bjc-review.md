@@ -1,4 +1,5 @@
 ---
+
 title: "Lawry's seasoning"
 seo_title: "Lawry's seasoning Review: Verdict | TSV"
 meta_description: "Our full lawry's seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BJCFCTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+jtruKLYL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the nostalgia for a second. Lawry's Seasoned Salt has been sitting on American tables since 1938, and the fact that it's still pulling a 4.6-star average from 229 Amazon reviewers in 2026 says something. But does it actually deserve a spot in your kitchen, or is it just coasting on brand recognition?

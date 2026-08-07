@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell Product Image Upgraded LED Desk Lamp - H01 Pro Sun"
 seo_title: "Honeywell Product Image Upgraded LED Desk Lamp - H Review"
 meta_description: "Our full honeywell product image upgraded led desk lamp - h01 pro sun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRMPLJQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TgJ72PNaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Honeywell H01 Pro Sun LED Desk Lamp Review: Is This the Last Task Light You'll Buy?

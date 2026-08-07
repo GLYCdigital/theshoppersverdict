@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Shampoo Dry Cherry 6.73 Ounce (200ml) (6 Pack)"
 seo_title: "Batiste Dry Shampoo Cherry 6-Pack Review: Worth It?"
 meta_description: "Honest Batiste Dry Shampoo Cherry 6-pack review: scent, volume, oil absorption, and value. See if this 4.8-star favorite is worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01IAFG3I4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71htJv3McsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cherry scent is genuinely pleasant — sweet but not cloying, fades to a clean finish within minutes"
   - "Each 200ml can delivers roughly 15-20 applications, making the 6-pack a 3-4 month supply for daily users"
   - "White powder formula blends invisibly into dark hair when brushed through properly — no chalky residue"
-cons:
+cons: 
   - "Aerosol spray requires a 12-inch distance to avoid white cast; easy to over-apply if you're in a rush"
   - "Cherry scent is polarizing — some buyers report it smells more like candy than actual cherries"
   - "No dry shampoo removes oil completely; this extends wash day, it doesn't replace it"
+
 ---
 
 Let's cut through the noise: Batiste is the best-selling dry shampoo brand on Earth for a reason. This 6-pack of the Cherry variant, at 200ml per can, is the bulk-buy play that keeps your hair presentable between washes without emptying your wallet. But is it worth committing to six cans of a scent you might not love? Let's dig in.

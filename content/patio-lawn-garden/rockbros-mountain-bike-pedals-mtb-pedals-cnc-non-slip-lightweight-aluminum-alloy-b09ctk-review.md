@@ -1,4 +1,5 @@
 ---
+
 title: "ROCKBROS Mountain Bike Pedals MTB Pedals CNC Non-Slip Lightw"
 seo_title: "ROCKBROS Mountain Bike Pedals MTB Pedals CNC Non-S Review"
 meta_description: "Our full rockbros mountain bike pedals mtb pedals cnc non-slip lightw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CTKX3VG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W+m4l6q2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 These ROCK BROS pedals are the cycling equivalent of finding a $50 steak on the discount rack. At first glance, the price tag screams "entry-level." One ride says otherwise.

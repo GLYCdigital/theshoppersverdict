@@ -1,4 +1,5 @@
 ---
+
 title: "DKNY Be Delicious Pool Party Eau de Toilette"
 seo_title: "DKNY Be Delicious Pool Party Review: Fresh Summer Scent"
 meta_description: "Honest DKNY Be Delicious Pool Party Eau de Toilette review: scent profile, longevity, and who should buy this fresh summer fragrance."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CSJZXTB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TT0kMNgJL._SL1500_.jpg"
-pros:
+pros: 
   - "Crisp green apple top note with aquatic undertones that genuinely evokes a poolside vibe"
   - "Excellent sillage for the first two hours without being cloying in heat"
   - "Unisex-leaning freshness that layers well over sunscreen or light moisturizers"
-cons:
+cons: 
   - "Longevity is modest — expect 3-4 hours on skin before needing a reapply"
   - "The dry-down loses complexity, settling into a simple musk-amber base"
+
 ---
 
 DKNY's Be Delicious line has been a summer staple for nearly two decades, and the Pool Party flanker aims to bottle that specific moment when you step out of the water and the sun hits your skin. With a 4.1-star average across 204 ratings, it's clearly doing something right — but is it worth your money? Let's get into it.

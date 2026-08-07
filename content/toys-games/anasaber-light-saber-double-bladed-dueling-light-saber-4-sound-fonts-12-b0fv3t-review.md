@@ -1,4 +1,5 @@
 ---
+
 title: "ANASABER Light Saber, Double-bladed Dueling Light Saber, 4 S"
 seo_title: "ANASABER Double-Bladed Light Saber Review: 4 Sound Fonts"
 meta_description: "ANASABER double-bladed light saber review: 4 sound fonts, dueling build, 220+ ratings at 4.4/5. Is this pair of sabers worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FV3T277L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ANSTkaelL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two full-length blades included — you get a complete staff saber out of the box, not a single stick"
   - "4 distinct sound fonts with volume control, so you can duel without waking the neighbors"
   - "Blade construction holds up to actual swinging — polycarbonate tubes feel solid, not flimsy"
-cons:
+cons: 
   - "Battery life runs roughly 2-3 hours of continuous use — plan charging breaks for long dueling sessions"
   - "The coupler connection can loosen after repeated twisting; you'll want to check tightness mid-battle"
+
 ---
 
 Let's be clear about what you're buying: this is a **double-bladed light saber** — a staff-style weapon, not a single hilt. The ANASABER arrives as two complete saber hilts with two full polycarbonate blades, plus a threaded coupler that joins them into one long staff. That's the headline feature, and it's executed better than most in this price tier.

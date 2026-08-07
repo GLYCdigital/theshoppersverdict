@@ -1,4 +1,5 @@
 ---
+
 title: "M12 FUEL Installation Drill Driver, No Charger, No Battery, "
 seo_title: "M12 FUEL Installation Drill Driver, No Charger, No Review"
 meta_description: "Our full m12 fuel installation drill driver, no charger, no battery,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087ZR1RPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BAGbLniYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The M12 FUEL Installation Drill Driver is the tool you buy when you're tired of owning four separate drills for four different jobs. It's a 4-in-1 system that collapses the right-angle driver, offset driver, standard drill, and a quick-release hex driver into one body. And for the most part, it works exactly as advertised.

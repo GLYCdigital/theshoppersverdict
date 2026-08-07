@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Scooter, 500W Motor, Up to 17-20MPH &19-21 Miles, C"
 seo_title: "500W Electric Scooter Review: 20 MPH, 21 Mile Range"
 meta_description: "Honest 500W electric scooter review: 20 MPH top speed, 21-mile range, real-world performance, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2MLFGQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7199UGG1OgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 500W brushless hub motor delivers 20 MPH on flat ground, even with a 180-pound rider"
   - "19-21 mile real-world range in the lowest speed mode — verified by multiple long-term reviewers"
   - "Dual braking (front electronic + rear disc) stops predictably in wet conditions"
-cons:
+cons: 
   - "No suspension — every crack and seam transfers straight to your wrists and spine"
   - "Solid rubber tires (not pneumatic) compromise grip on wet pavement; avoid painted lines"
   - "Fold mechanism develops slight play after 300+ miles; requires periodic tightening"
+
 ---
 
 This 500W electric scooter sits in the overcrowded middle tier of the commuter market — and it actually stands out. Not because it's flashy, but because it does the basics right. After digging through 215 Amazon ratings and long-term user reports, here's what you need to know before spending your money.

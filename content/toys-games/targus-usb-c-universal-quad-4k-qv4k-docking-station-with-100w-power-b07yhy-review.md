@@ -1,4 +1,5 @@
 ---
+
 title: "Targus USB-C Universal Quad 4K (QV4K) Docking Station with 1"
 seo_title: "Targus USB-C Universal Quad 4K (QV4K) Docking Stat Review"
 meta_description: "Our full targus usb-c universal quad 4k (qv4k) docking station with 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07YHYWN1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-puAFcQLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The Targus QV4K is a heavy-duty docking station that promises four 4K displays — and actually delivers — but only if your laptop has the right hardware. At 4.1 stars across 204 ratings, it's a solid workhorse for the right user, not a universal solution.

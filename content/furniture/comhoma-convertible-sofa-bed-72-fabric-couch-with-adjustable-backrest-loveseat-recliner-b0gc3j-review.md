@@ -1,4 +1,5 @@
 ---
+
 title: "COMHOMA Convertible Sofa Bed,72″Fabric Couch with Adjustab"
 seo_title: "COMHOMA Convertible Sofa Bed Review: 72″ Adjustable Couch"
 meta_description: "COMHOMA 72″ convertible sofa bed review: adjustable backrest, 3-in-1 loveseat recliner. Real pros, cons & who should buy. 4.0 rating analyzed."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GC3JV2PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sc+P5FsPL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Three-position adjustable backrest locks firmly for sofa, lounger, or flat sleeper modes"
   - "72-inch width actually fits two adults — most convertible sofas at this price squeeze you at 60 inches"
   - "High-density foam seat cushions hold shape after months of daily sitting, per multiple long-term reviews"
-cons:
+cons: 
   - "At 15 inches high, the sleeping surface sits lower than a standard bed — getting up takes effort for older users"
   - "The included throw pillows are decorative only — too thin for actual back support"
+
 ---
 
 **The 72-inch convertible that actually sleeps two — if you're honest about its limits**

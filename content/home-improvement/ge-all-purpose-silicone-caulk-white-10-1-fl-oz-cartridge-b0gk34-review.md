@@ -1,4 +1,5 @@
 ---
+
 title: "GE All Purpose Silicone Caulk, White, 10.1 fl oz Cartridge"
 seo_title: "GE All Purpose Silicone Caulk Review: Worth It? (2026)"
 meta_description: "Honest GE All Purpose Silicone Caulk review: 100% waterproof seal, mold resistance, and real-world performance. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK344XZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "100% waterproof silicone formula seals wet areas like bathtubs and sinks without needing primer"
   - "Squeezable cartridge works with any standard caulk gun and cleans up with soap and water before curing"
   - "Mold-resistant finish held up in high-humidity bathrooms after 6 months of testing"
-cons:
+cons: 
   - "Not paintable — you're locked into the white finish unless you mask it carefully"
   - "10.1 oz cartridge runs out fast on big projects; buy two for a full tub surround"
+
 ---
 
 **The 10-Minute Fix That Outlasts Cheap Tubes**

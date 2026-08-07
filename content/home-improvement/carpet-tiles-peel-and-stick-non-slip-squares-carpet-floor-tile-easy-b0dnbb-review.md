@@ -1,4 +1,5 @@
 ---
+
 title: "Carpet Tiles Peel and Stick, Non-Slip Squares Carpet Floor T"
 seo_title: "Carpet Tiles Peel and Stick Review: Non-Slip Squares Tested"
 meta_description: "Honest Carpet Tiles Peel and Stick review: do these non-slip squares hold up? Real buyer feedback, pros, cons, and who should buy. Read before you order."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DNBBZ6GL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q5JIybINL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, cushioned build that feels noticeably softer underfoot than typical budget peel-and-stick options"
   - "Adhesive backing grips well on smooth, clean surfaces — most buyers report no curling after several weeks"
   - "Trims cleanly with a utility knife and straightedge, making edge cuts and room fitting genuinely easy"
-cons:
+cons: 
   - "Surface prep is unforgiving — any dust, grease, or texture in the subfloor will compromise adhesion within days"
   - "Pattern repeat is inconsistent between batches; mixing boxes can result in visible color or texture mismatches"
   - "Not truly non-slip for heavy furniture or high-traffic areas — some buyers report tiles shifting under rolling chairs"
+
 ---
 
 ## The 3.8-Star Carpet Tile That Splits Opinion

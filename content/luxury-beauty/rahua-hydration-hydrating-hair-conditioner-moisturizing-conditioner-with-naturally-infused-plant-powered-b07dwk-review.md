@@ -1,4 +1,5 @@
 ---
+
 title: "Rahua Hydration Hydrating Hair Conditioner, Moisturizing Con"
 seo_title: "Rahua Hydration Hydrating Hair Conditioner, Moistu Review"
 meta_description: "Our full rahua hydration hydrating hair conditioner, moisturizing con review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07DWKN54H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51j6c0CBxeL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the $40 price tag and the sleek bottle. Here's what you actually need to know about Rahua's Hydration Conditioner before you commit.

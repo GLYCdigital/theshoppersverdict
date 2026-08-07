@@ -1,4 +1,5 @@
 ---
+
 title: "Card Sleeves Top Loads for Cards, 3 inch  x 4 inch  Baseball Card Prot"
 seo_title: "Card Sleeves Top Loads 3x4 Review: Worth It?"
 meta_description: "Honest review of 3x4 card sleeves top loads for baseball cards. See durability, fit, and value before you buy. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FP2KGT9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SXNEtsTaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid 30-point PET plastic resists bending, so cards stay flat in storage or shipping"
   - "Snug 3x4 fit works with standard baseball, football, and basketball cards without rattling"
   - "Reinforced corners and smooth edges reduce splitting when sliding cards in"
-cons:
+cons: 
   - "Won't fit thicker cards (like 55pt+ memorabilia) or cards already in penny sleeves"
   - "Some packs arrive with light surface scratches from loose packing in bulk bags"
+
 ---
 
 Let’s be real: if you’re buying card top loaders, you care about two things — keeping your cards mint and not paying collector-store markup. This 3x4 pack from Amazon sits squarely in the budget tier, but does it hold up when you’re sliding a rookie card you just pulled? I’ve tested these against the big-name brands, and here’s the straight story.

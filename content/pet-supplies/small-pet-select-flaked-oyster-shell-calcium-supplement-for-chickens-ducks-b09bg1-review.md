@@ -1,4 +1,5 @@
 ---
+
 title: "Small Pet Select Flaked Oyster Shell-Calcium Supplement for "
 seo_title: "Small Pet Select Flaked Oyster Shell-Calcium Suppl Review"
 meta_description: "Our full small pet select flaked oyster shell-calcium supplement for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BG1FW7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CkpNUBXDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you keep backyard chickens, you already know the sinking feeling of collecting a thin-shelled egg. That's the exact problem Small Pet Select's Flaked Oyster Shell Calcium targets — and based on 220 Amazon ratings averaging 4.4 stars, it's solving it for a lot of flock owners.

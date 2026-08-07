@@ -1,4 +1,5 @@
 ---
+
 title: "wishacc Mobile Tablet Stand with Wheels, Rolling Floor Stand"
 seo_title: "wishacc Mobile Tablet Stand with Wheels, Rolling F Review"
 meta_description: "Our full wishacc mobile tablet stand with wheels, rolling floor stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GK7CHVB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kqetRqFjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The wishacc Mobile Tablet Stand with Wheels solves a real problem: your tablet is stuck on a desk, and you're stuck at a desk. This rolling floor stand frees both.**

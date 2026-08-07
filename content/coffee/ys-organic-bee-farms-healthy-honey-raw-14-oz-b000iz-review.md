@@ -1,4 +1,5 @@
 ---
+
 title: "YS Organic Bee Farms - Healthy Honey (Raw), 14 oz"
 seo_title: "YS Organic Bee Farms - Healthy Honey (Raw), 14 oz Review:"
 meta_description: "Our full ys organic bee farms - healthy honey (raw), 14 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000IZABLU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91I8zF9VUaL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've been stirring the same generic squeeze-bear honey into your morning coffee, this is the jar that changes the game.** YS Organic Bee Farms' Healthy Honey (Raw) has 235 Amazon ratings sitting at 4.7 stars, and after testing a full jar over three weeks, I get why. This isn't just sweetener — it's a genuinely different product.

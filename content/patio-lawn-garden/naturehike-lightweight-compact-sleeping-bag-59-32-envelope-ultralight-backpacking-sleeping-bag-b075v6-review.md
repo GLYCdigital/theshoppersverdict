@@ -1,4 +1,5 @@
 ---
+
 title: "Naturehike Lightweight Compact Sleeping Bag, 59â„‰/32â„‰ Env"
 seo_title: "Naturehike Lightweight Compact Sleeping Bag, 59â„‰ Review"
 meta_description: "Our full naturehike lightweight compact sleeping bag, 59â„‰/32â„‰ env review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B075V6MFVL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mRzvz-yfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Naturehike Lightweight Compact Sleeping Bag Review: Does the 59°F/32°F Envelope Bag Deliver?

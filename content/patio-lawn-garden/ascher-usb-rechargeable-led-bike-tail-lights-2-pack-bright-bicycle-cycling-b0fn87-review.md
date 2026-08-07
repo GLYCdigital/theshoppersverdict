@@ -1,23 +1,25 @@
 ---
+
 title: "Ascher USB Rechargeable LED Bike Tail Lights 2 Pack, Bright"
 seo_title: "Ascher USB Rechargeable LED Bike Tail Lights Review (2-Pack)"
 meta_description: "Ascher USB rechargeable LED bike tail lights 2-pack review: bright, durable, easy USB charging. See pros, cons, and if they're worth buying."
 slug: "ascher-usb-rechargeable-led-bike-tail-lights-2-pack-bright-bicycle-cycling-b0fn87-review"
 image_alt: "Ascher USB rechargeable LED bike tail lights 2-pack attached to a bicycle seatpost"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FN87LG8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yxTetyoPL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 180-degree visibility with a wide-angle lens; cars see you from side angles, not just directly behind"  
   - "USB-C charging (not micro-USB) means one cable works for your phone, earbuds, and these lights"  
   - "IPX4 water resistance holds up in real rain — not just a spec-sheet claim"  
-cons:  
+cons: 
   - "No auto-off feature; forget to switch it off and you'll drain the battery by morning"  
   - "Rubber strap mount can slip on aero seatposts — you may need a zip tie for a rock-solid fit"
+
 ---
 
 If you're reading this, you've probably almost been hit by a car at dusk. I have. That's why the Ascher USB Rechargeable LED Bike Tail Lights 2-Pack caught my attention — and after testing them through commutes, evening rides, and a rainy week, here's the honest breakdown.

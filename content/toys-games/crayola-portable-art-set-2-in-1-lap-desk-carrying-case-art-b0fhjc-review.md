@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Portable Art Set 2-in-1 Lap Desk & Carrying Case, Ar"
 seo_title: "Crayola 2-in-1 Lap Desk & Art Case Review (2026)"
 meta_description: "Crayola Portable Art Set 2-in-1 Lap Desk review: Is this 60-piece travel art station worth it for kids? Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FHJC7TRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iF3HvIVhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in carry handle and fold-out desktop design keeps all 60+ art supplies organized in one place"
   - "Sturdy plastic construction holds up to active kids — no flimsy hinges or cracked corners reported"
   - "Crayola-branded markers, crayons, and colored pencils included — no off-brand frustration"
-cons:
+cons: 
   - "Supplies are the standard 24-count sets, not the full 64-count crayon range some kids expect"
   - "Lap desk surface is smooth plastic — works fine for paper but not ideal for coloring books with thick spines"
+
 ---
 
 **The Verdict: Crayola's 2-in-1 Lap Desk & Carrying Case — Smart Travel Art Station or Just Another Toy?**

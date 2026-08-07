@@ -1,4 +1,5 @@
 ---
+
 title: "Olde Midway Movie Theater-Style Popcorn Machine Maker with C"
 seo_title: "Olde Midway Movie Theater-Style Popcorn Machine Ma Review"
 meta_description: "Our full olde midway movie theater-style popcorn machine maker with c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5NYMQSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LyRcS-bSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Olde Midway Movie Theater-Style Popcorn Machine Review: Does It Deliver the Cineplex Experience?**

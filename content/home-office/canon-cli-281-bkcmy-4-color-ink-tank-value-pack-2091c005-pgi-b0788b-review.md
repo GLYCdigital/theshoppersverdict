@@ -1,4 +1,5 @@
 ---
+
 title: "Canon CLI-281 BKCMY 4-Color Ink Tank Value Pack (2091C005) P"
 seo_title: "Canon CLI-281 BKCMY Ink Value Pack Review (2026)"
 meta_description: "Canon CLI-281 BKCMY 4-color ink value pack review: real print yields, price per page, compatibility, and honest downsides for PIXMA owners."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0788BSMV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RPcXR5cML._AC_SL1440_.jpg"
-pros:
+pros: 
   - "Genuine Canon OEM cartridges deliver consistent color accuracy that third-party inks rarely match"
   - "Buying all four colors in one pack saves 10-15% versus individual cartridge purchases"
   - "Chip-based yield tracking lets you monitor remaining ink precisely with no wasted cartridges"
-cons:
+cons: 
   - "Black is dye-based, not pigment — text on plain paper can smear if you highlight immediately"
   - "No XL high-yield option in this bundle; you'll replace cartridges more often with heavy printing"
   - "Price per page still runs higher than a budget inkjet's refillable tank system"
+
 ---
 
 Let's be honest about printer ink: it's the most expensive liquid you'll ever buy per ounce, and Canon's CLI-281 series is no exception. But if you own a compatible PIXMA printer, this four-pack is the smartest way to buy the official stuff without getting gouged per cartridge.

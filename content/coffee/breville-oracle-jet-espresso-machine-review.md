@@ -1,4 +1,5 @@
 ---
+
 title: "Breville Oracle Jet Espresso Machine"
 seo_title: "Breville Oracle Jet Review: Worth $2,558? (2026)"
 meta_description: "Breville Oracle Jet review: hands-on look at the $2,558 automated espresso machine. Real pros, cons, and who should buy it. Updated 2026."
@@ -11,14 +12,15 @@ review_count: 117
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FC7L5F6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zEhVKyhfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Automated milk texturing produces consistent microfoam without barista skill"
   - "Built-in grinder with dose control eliminates the need for separate equipment"
   - "Heat-up time under 3 seconds thanks to ThermoJet heating system"
-cons:
+cons: 
   - "Steep $2,558 price puts it well above semi-automatic alternatives"
   - "Automation limits hands-on control for purists who want to dial in manually"
   - "Some users report occasional puck preparation issues requiring re-grinding"
+
 ---
 
 ## The $2,558 Question: Does the Oracle Jet Justify Its Price?

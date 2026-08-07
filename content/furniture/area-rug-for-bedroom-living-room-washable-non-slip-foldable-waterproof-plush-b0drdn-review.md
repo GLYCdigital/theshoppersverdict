@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug for Bedroom Living Room, Washable Non-Slip Foldable"
 seo_title: "Washable Non-Slip Area Rug Review: Soft, Foldable & Under $50 inch"
 meta_description: "Honest review of the Washable Non-Slip Foldable Area Rug for bedroom & living room. Soft, machine-washable, stays put. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRDN7Y3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1OvBakpBDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable without losing softness — survives repeated cycles without pilling or shedding"
   - "Grippy non-slip backing actually holds on hardwood and tile, even with kids running across it"
   - "Folds flat for storage or transport — no rolling, no creases that refuse to flatten"
-cons:
+cons: 
   - "Thinner than plush rugs at roughly 0.3 inches — not ideal for hard floors if you want cushioning"
   - "Light colors show pet hair and crumbs quickly; plan on weekly vacuuming or washing"
+
 ---
 
 Let's cut through the noise: most "washable" rugs are either flimsy mats that slide around or stiff carpets that scratch your floors. This one threads the needle. It's a genuinely soft, low-profile rug that stays put and survives the washing machine. Here's the full breakdown after digging through 225 verified ratings.

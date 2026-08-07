@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Modern Forest Pattern Rug"
 seo_title: "Lahome Modern Forest Pattern Rug Review: Verdict | TSV"
 meta_description: "Our full lahome modern forest pattern rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDC5QVGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91A07RdN0IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen the product image: a moody, abstract woodland scene in muted greens and charcoal. It looks like something from a $400 designer catalog. The price tag, though, is firmly in "impulse buy" territory. That gap between looks and cost is exactly why the Lahome Modern Forest Pattern Rug has 229 ratings averaging 4.6 stars. But is it a smart purchase or a pretty compromise? Here’s what you’re actually getting.

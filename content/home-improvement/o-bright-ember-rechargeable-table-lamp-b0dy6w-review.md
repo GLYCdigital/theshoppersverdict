@@ -1,4 +1,5 @@
 ---
+
 title: "O'Bright Ember Rechargeable Table Lamp"
 seo_title: "O'Bright Ember Rechargeable Table Lamp Review: Verdict | "
 meta_description: "Our full o'bright ember rechargeable table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DY6W8VRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JtjMS2O5L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The O'Bright Ember isn't trying to be a $200 architectural statement piece. It's a cordless, rechargeable workhorse that solves a specific problem: you need light somewhere there's no outlet. After digging through 220 ratings and testing the unit myself, here's the unvarnished truth about whether it earns a spot on your nightstand, deck table, or workshop bench.

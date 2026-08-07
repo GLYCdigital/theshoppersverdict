@@ -1,4 +1,5 @@
 ---
+
 title: "100 Grand Milk Chocolate Candy Bars, Full Size Bulk Individu"
 seo_title: "100 Grand Candy Bars Bulk Review: Worth It? (2026)"
 meta_description: "Honest review of 100 Grand Milk Chocolate Candy Bars bulk pack — taste, texture, value, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000V9CLFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JXspchVKL._SL1500_.jpg"
-pros:
+pros: 
   - "Crisp rice and caramel texture holds up well in shipping — bars arrive intact, not crumbled"
   - "Full-size 1.5 oz bars, not the miniature Halloween versions — better value per ounce"
   - "Individually wrapped for portion control and freshness; works well for lunchboxes and office candy jars"
-cons:
+cons: 
   - "Chocolate can develop a whitish bloom if stored in warm conditions — keep below 70°F"
   - "No bulk discount compared to buying single bars at a grocery store; convenience is the real value"
   - "Caramel gets very chewy when cold — not ideal if you prefer softer texture"
+
 ---
 
 **The 100 Grand bar is the quiet overachiever of the candy aisle.** It's not the first chocolate bar you grab, but it's often the one you finish and think, "Why don't I buy these more often?" This bulk pack of full-size, individually wrapped bars gives you 24 of them in one shot — and at 4.6 stars from 229 Amazon ratings, I'm not the only one who feels that way.

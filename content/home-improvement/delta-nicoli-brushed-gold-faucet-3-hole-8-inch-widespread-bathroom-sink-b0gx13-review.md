@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Nicoli Brushed Gold Faucet 3 Hole, 8 Inch Widespread B"
 seo_title: "Delta Nicoli Brushed Gold Faucet Review: 3-Hole Widespread"
 meta_description: "Honest Delta Nicoli brushed gold 3-hole widespread faucet review: finish durability, installation ease, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GX132NSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VmxpjBMyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushed gold finish is applied via PVD (physical vapor deposition) — it resists spotting and won't flake like cheaper painted finishes"
   - "Widespread 8-inch design with solid brass construction gives a substantial, premium feel without the premium price tag"
   - "Diamond Seal ceramic disc cartridges carry a limited lifetime warranty — no washers to replace, ever"
-cons:
+cons: 
   - "You'll need to purchase the pop-up drain assembly separately — Delta doesn't include one in the box"
   - "8-inch spread requires exact hole spacing; if your existing sink has 6-inch or 4-inch centers, this won't fit without drilling new holes"
+
 ---
 
 Let's cut through the catalog copy. The Delta Nicoli in brushed gold is getting a lot of attention, and with 229 ratings averaging 4.6 stars, it's not just hype. But before you click "add to cart," you need to know what you're actually getting — and what you're not.

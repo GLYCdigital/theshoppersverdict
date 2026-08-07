@@ -1,4 +1,5 @@
 ---
+
 title: "Hunter 52 inch Indoor Ceiling Fan No Light with Pull Chain -"
 seo_title: "Hunter 52 inch Indoor Ceiling Fan No Light with Pu Review"
 meta_description: "Our full hunter 52 inch indoor ceiling fan no light with pull chain - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00ESVXPD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Navkd-z7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: a ceiling fan is a 15-year purchase. The Hunter 52-inch no-light model with pull chains isn't flashy, but it's the kind of fan you install, forget about, and still works when your kids are in high school. Here's the full breakdown after digging through 235 verified ratings and spec sheets.

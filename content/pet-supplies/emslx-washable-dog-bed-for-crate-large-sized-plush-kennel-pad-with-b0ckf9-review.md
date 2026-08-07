@@ -1,4 +1,5 @@
 ---
+
 title: "EMSLX Washable Dog Bed for Crate - Large Sized Plush Kennel"
 seo_title: "EMSLX Washable Dog Bed for Crate Review: Large Plush Pad"
 meta_description: "EMSLX Washable Dog Bed for Crate review: Is the large plush kennel pad worth it? See pros, cons, real owner feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKF9LML8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ezP4HXD1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully machine-washable construction survives repeated cycles without clumping or losing shape"
   - "Non-slip backing keeps the pad anchored on slick crate trays and hard floors"
   - "Plush 2-inch thick filling provides genuine joint cushioning for senior or large-breed dogs"
-cons:
+cons: 
   - "Large size runs slightly small — measure your crate floor before ordering to avoid a gap"
   - "Fleece surface attracts fur and requires regular vacuuming between washes"
   - "Not waterproof — dogs with accidents or heavy drool will need a waterproof liner underneath"
+
 ---
 
 If your dog spends serious time in a crate, you already know the struggle: thin crate pads that bunch up, flatten out, or smell like a biology experiment after a week. The EMSLX Washable Dog Bed for Crate in Large is trying to solve that with a plush, machine-washable design that has earned a 4.5-star average across 225 Amazon ratings. Here's the real story after digging through the specs and what owners actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "Velvet Dining Chairs Set of 4, Upholstered Dining Room Chair"
 seo_title: "Velvet Dining Chairs Set of 4, Upholstered Dining  Review"
 meta_description: "Our full velvet dining chairs set of 4, upholstered dining room chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C18JJ7H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LtmjasLNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Velvet Dining Chairs Set Of 4: The Honest Buyer's Guide

@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Water Filter for Breville Espresso Machine Baris"
 seo_title: "Replacement Water Filter for Breville Espresso Mac Review"
 meta_description: "Our full replacement water filter for breville espresso machine baris review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJBMNVH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qoBAsGvzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: your Breville Barista Touch or Pro is a $700-$1,500 machine. Skimping on water filtration to save $8 is how you end up with scale-clogged internals and a descaling cycle that takes an afternoon. This third-party filter is the budget-friendly middle ground — but is it actually any good?

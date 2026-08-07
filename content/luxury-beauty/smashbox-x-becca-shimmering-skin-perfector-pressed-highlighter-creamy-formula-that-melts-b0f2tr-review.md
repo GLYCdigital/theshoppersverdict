@@ -1,4 +1,5 @@
 ---
+
 title: "Smashbox X BECCA Shimmering Skin Perfector Pressed Highlight"
 seo_title: "Smashbox X BECCA Shimmering Skin Perfector Pressed Review"
 meta_description: "Our full smashbox x becca shimmering skin perfector pressed highlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2TRY2WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rnOQVGRHL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Smashbox X BECCA collaboration resurrects a cult favorite, and honestly, it was worth bringing back. When BECCA shuttered, fans mourned the Shimmering Skin Perfector. Smashbox stepped in, and this pressed highlighter carries the torch with the same silky, whipped-powder texture that made the original legendary. As shown in the product image, the compact looks sleek and professional — but the real story is what happens when you swipe a brush across the pan.

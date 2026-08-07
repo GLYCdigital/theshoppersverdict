@@ -1,4 +1,5 @@
 ---
+
 title: "Portal Camping Table Foldable Portable with Adjustable Legs,"
 seo_title: "Portal Camping Table Foldable Portable with Adjust Review"
 meta_description: "Our full portal camping table foldable portable with adjustable legs, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BCFXD3CV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-sNToFdwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Portal Camping Table doesn't try to be everything. It tries to be the one table you actually pack — and for most campers, it succeeds.**

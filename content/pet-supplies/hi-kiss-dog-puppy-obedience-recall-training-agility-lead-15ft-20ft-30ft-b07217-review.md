@@ -1,4 +1,5 @@
 ---
+
 title: "Hi Kiss Dog/Puppy Obedience Recall Training Agility Lead - 1"
 seo_title: "Hi Kiss Dog/Puppy Obedience Recall Training Agilit Review"
 meta_description: "Our full hi kiss dog/puppy obedience recall training agility lead - 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07217B2KF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SqwCKYrPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched your puppy sprint toward a squirrel with zero regard for your frantic "come" command, you know the drill: chase, grab, carry them back, repeat. The Hi Kiss Training Lead is the tool that breaks that cycle — a long-line that gives your dog freedom to roam while keeping you in control.

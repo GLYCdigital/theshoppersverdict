@@ -1,4 +1,5 @@
 ---
+
 title: "Tuf-Tite Septic Tank Riser, 24''x12''"
 seo_title: "Tuf-Tite Septic Tank Riser, 24''x12'' Review: Verdict | T"
 meta_description: "Our full tuf-tite septic tank riser, 24''x12'' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BD7T6FBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31SJBJ-XMuL._AC_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of digging up your septic tank every time it needs pumping, a riser is the fix. And the Tuf-Tite 24x12 is the riser most often recommended by both homeowners and septic professionals. But is it the right one for your setup? Here's what I found after digging through the specs, the installation videos, and 235 verified buyer experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sheba Perfect Portions Wet Cat Food Pate"
 seo_title: "Sheba Perfect Portions Wet Cat Food Pate Review: Verdict "
 meta_description: "Our full sheba perfect portions wet cat food pate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDXFRKT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XI5FqDzvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever thrown away half a can of uneaten cat food that went crusty in the fridge, you already know the problem Sheba Perfect Portions is trying to solve. This pate comes in small plastic twin trays — each side holding roughly one meal's worth — so you peel back the foil, pop out the portion, and toss the empty tray. No rubber spatula scraping, no zip-top lid that never quite seals, no sad, dried-out mush three days later.

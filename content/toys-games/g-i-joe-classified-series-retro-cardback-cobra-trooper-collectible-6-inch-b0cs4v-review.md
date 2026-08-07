@@ -1,4 +1,5 @@
 ---
+
 title: "G.I. Joe Classified Series Retro Cardback Cobra Trooper, Col"
 seo_title: "G.I. Joe Classified Retro Cobra Trooper Review (2026)"
 meta_description: "G.I. Joe Classified Retro Cobra Trooper review: 6-inch cardback figure with classic deco, premium articulation. Is it worth $25? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CS4VH6BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s8x1HkopL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Authentic 1982-style cardback packaging that displays beautifully and survives shipping well"
   - "Retro-inspired deco with brighter blue and silver accents that pops next to standard Classified figures"
   - "Full Classified articulation retained — no cut corners despite the throwback look"
-cons:
+cons: 
   - "No alternate head sculpt or unmasked option — you're locked into the classic helmet look"
   - "Retro cardback is stiffer than standard window boxes, making in-box display less flexible"
+
 ---
 
 **The Retro Cardback Cobra Trooper isn't just nostalgia bait — it's one of the best troop-builder figures in the Classified line.**

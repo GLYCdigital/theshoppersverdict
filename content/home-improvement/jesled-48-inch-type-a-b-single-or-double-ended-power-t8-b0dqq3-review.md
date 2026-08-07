@@ -1,4 +1,5 @@
 ---
+
 title: "JESLED 48 Inch Type A+B Single Or Double Ended Power T8 LED "
 seo_title: "JESLED 48 Inch Type A+B Single Or Double Ended Pow Review"
 meta_description: "Our full jesled 48 inch type a+b single or double ended power t8 led  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQQ3YSK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518dzBw2hbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a ceiling full of dead fluorescent tubes and wondered whether to call an electrician or just buy LED replacements, the JESLED 48-inch Type A+B T8 is trying to be the answer. The pitch is simple: one tube that works with your existing ballast *or* wired directly to line voltage, in single or double-ended fixtures. That's a genuinely useful hybrid, but it's not quite the "install and forget" solution the box implies.

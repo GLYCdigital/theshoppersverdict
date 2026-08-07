@@ -1,4 +1,5 @@
 ---
+
 title: "Kitsch Mesh Soap Saver Pouch for Bath Bars and Shampoo Bars"
 seo_title: "Kitsch Mesh Soap Saver Pouch for Bath Bars and Sha Review"
 meta_description: "Our full kitsch mesh soap saver pouch for bath bars and shampoo bars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBL3MWQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M9VNgqTFL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: bar soap is a mess. It dissolves into sludge in the dish, slips out of your hands mid-shower, and the last quarter of every bar gets thrown away. The Kitsch Mesh Soap Saver Pouch claims to fix all three problems. After putting it through daily use, here's my verdict.

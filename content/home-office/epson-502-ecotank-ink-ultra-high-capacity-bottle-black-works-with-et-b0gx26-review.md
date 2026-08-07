@@ -1,4 +1,5 @@
 ---
+
 title: "Epson 502 EcoTank Ink Ultra-high Capacity Bottle Black Works"
 seo_title: "Epson 502 EcoTank Black Ink Review: Worth It? (2026)"
 meta_description: "Epson 502 EcoTank black ink bottle review: real cost per page, compatibility, and print quality. See if this ultra-high capacity ink is right for your printer."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX26JD9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Delivers roughly 4,500 pages per bottle — that's about 1.5 cents per page in ink cost"
   - "Drip-free nozzle design actually works; no stained fingers or countertops during refill"
   - "Genuine Epson pigment ink resists smudging on plain paper better than third-party refills"
-cons:
+cons: 
   - "Only 200 ratings at 4.0 stars suggests some inconsistency — check your printer model carefully"
   - "Bottle design doesn't include a measuring window; you're trusting the 'stop when full' indicator"
   - "Black-only purchase means you'll still need the color set for full EcoTank operation"
+
 ---
 
 The Epson 502 EcoTank black ink bottle is the single most important purchase you'll make for your EcoTank printer. Here's the thing about these printers: the whole value proposition hinges on cheap, reliable ink. This bottle delivers on that promise, but let's dig into whether it's the right ink for *your* specific setup.

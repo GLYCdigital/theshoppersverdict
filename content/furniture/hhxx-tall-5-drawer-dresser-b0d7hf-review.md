@@ -1,4 +1,5 @@
 ---
+
 title: "HHXX Tall 5 Drawer Dresser"
 seo_title: "HHXX Tall 5 Drawer Dresser Review: Verdict | TSV"
 meta_description: "Our full hhxx tall 5 drawer dresser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D7HFHTF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A narrow footprint that punches above its weight — if you're patient with assembly.**

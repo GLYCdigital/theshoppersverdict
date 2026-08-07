@@ -1,4 +1,5 @@
 ---
+
 title: "Laser Level with Tripodï¼ŒSelf Leveling Laser Level Green Li"
 seo_title: "Laser Level with Tripodï¼ŒSelf Leveling Laser Leve Review"
 meta_description: "Our full laser level with tripodï¼œself leveling laser level green li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DS4K9HVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IDIxMCCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Laser Level with Tripod Review: Green Light, Real Value

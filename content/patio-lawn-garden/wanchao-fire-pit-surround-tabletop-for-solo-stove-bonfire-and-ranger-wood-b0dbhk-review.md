@@ -1,4 +1,5 @@
 ---
+
 title: "Wanchao Fire Pit Surround Tabletop for Solo Stove Bonfire an"
 seo_title: "Wanchao Fire Pit Surround Tabletop for Solo Stove  Review"
 meta_description: "Our full wanchao fire pit surround tabletop for solo stove bonfire an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DBHKP4HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qblfU5EzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Solo Stove Bonfire is a fantastic fire pit. It is also a glorified metal bowl that eats table space. The Wanchao Fire Pit Surround Tabletop tries to fix that by wrapping your Bonfire in a 20-inch steel serving ledge. It is a good idea executed adequately, not perfectly, which lands it at a 3.7/5 for most buyers.

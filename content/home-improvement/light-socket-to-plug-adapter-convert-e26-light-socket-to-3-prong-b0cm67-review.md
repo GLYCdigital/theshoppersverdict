@@ -1,4 +1,5 @@
 ---
+
 title: "Light Socket to Plug Adapter, Convert E26 Light Socket to 3-"
 seo_title: "Light Socket to Plug Adapter, Convert E26 Light So Review"
 meta_description: "Our full light socket to plug adapter, convert e26 light socket to 3- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CM6793NL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P8un9LYoL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

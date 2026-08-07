@@ -1,4 +1,5 @@
 ---
+
 title: "SLEEKLIGHTING E26 Standard Screw Base 23Watt CFL Light Bulb "
 seo_title: "SLEEKLIGHTING E26 Standard Screw Base 23Watt CFL L Review"
 meta_description: "Our full sleeklighting e26 standard screw base 23watt cfl light bulb  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09QV6R2KN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pPFD8tkIL._AC_SL1301_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: buying CFL bulbs in 2026 feels almost retrograde when LED prices have cratered. But here's the thing—SLEEKLIGHTING's 23W CFL still moves serious volume, and at 4.5 stars across 225 ratings, people aren't buying it by accident. They're buying it because it works exactly as advertised, especially for specific use cases where LEDs struggle.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jiupety Indoor Dog House with Frame, Cute Dog Tent Bed with "
 seo_title: "Jiupety Indoor Dog House with Frame, Cute Dog Tent Review"
 meta_description: "Our full jiupety indoor dog house with frame, cute dog tent bed with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F2HNJGC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sh32Bi9oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most indoor dog houses look like something you'd find in a clearance bin. The Jiupety Indoor Dog House with Frame is the exception — it actually looks intentional in a living room, like a piece of decor your dog happens to sleep inside. But cute design only gets you so far. The real question is whether it survives a determined chewer and cleans up well. After digging through 220 ratings and the build specs, here's the full picture.

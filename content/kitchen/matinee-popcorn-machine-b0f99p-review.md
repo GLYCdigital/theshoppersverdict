@@ -1,4 +1,5 @@
 ---
+
 title: "Matinee Popcorn Machine"
 seo_title: "Matinee Popcorn Machine Review: Verdict | TSV"
 meta_description: "Our full matinee popcorn machine review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F99PX6K1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mdb0nokHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most at-home popcorn machines are either glorified hot-air toys that spit out dry, chewy kernels, or overpriced theater replicas that look great on a countertop but pop like garbage. The Matinee Popcorn Machine sits somewhere in the middle — and for most buyers, that's exactly the right spot.

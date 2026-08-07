@@ -1,4 +1,5 @@
 ---
+
 title: "MASA CHIPS - Tortilla Chips Snack Pack - Seed Oil Free, Natu"
 seo_title: "MASA CHIPS - Tortilla Chips Snack Pack - Seed Oil  Review"
 meta_description: "Our full masa chips - tortilla chips snack pack - seed oil free, natu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FG4LWYS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fVMC30BsL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MASA CHIPS Tortilla Chips: The Seed Oil Free Snack That Actually Tastes Like Corn

@@ -1,4 +1,5 @@
 ---
+
 title: "Asustor Lockerstor Series Review"
 seo_title: "Asustor Lockerstor Series Review: Is It Worth It? (2026)"
 meta_description: "Asustor Lockerstor Series review: 4.3/5 rated NAS with 10GbE options. We break down performance, real-world use, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F47ZK96N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZlJSv5sLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 2.5GbE ports standard across most models—real throughput gains over 1GbE without buying a 10GbE switch"
   - "Tool-less drive trays with locking mechanism; hot-swap works as advertised"
   - "ADM 4.2 interface is more intuitive than QNAP's QTS, with a learning curve far gentler than Synology's DSM"
-cons:
+cons: 
   - "Metal chassis gets noticeably warm under sustained RAID5 writes—invest in the optional cooling fan accessory if your closet runs hot"
   - "Default RAM (2GB on entry models) bottlenecks heavy Docker containers; upgrade to 8GB before loading Plex or VMs"
   - "ADM's mobile app (ASUSTOR Portal) still feels half-baked compared to Synology's DS Finder"
+
 ---
 
 **The Asustor Lockerstor Series is the NAS you buy when you're tired of paying the Synology tax.**

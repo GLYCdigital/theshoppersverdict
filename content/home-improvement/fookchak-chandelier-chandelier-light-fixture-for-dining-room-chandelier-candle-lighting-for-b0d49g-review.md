@@ -1,4 +1,5 @@
 ---
+
 title: "FookChak Chandelier, Chandelier Light Fixture for Dining Roo"
 seo_title: "FookChak Chandelier Review: Dining Room Lighting Tested"
 meta_description: "FookChak chandelier review for dining rooms. 4.4-star rated. We break down build quality, installation, and whether this 6-light fixture is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D49G3VCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QE0gomloL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid all-metal construction with a matte black finish that resists fingerprints and smudges"
   - "Adjustable hanging rods allow customization from 24 to 48 inches, accommodating most ceiling heights"
   - "Compatible with dimmable bulbs and standard E12 bases, so you can dial in the perfect ambiance"
-cons:
+cons: 
   - "Bulbs not included — factor in the cost of six candelabra-base bulbs (LED or Edison)"
   - "Assembly requires patience; the candle sleeves are individually wrapped and take about 30–45 minutes to install"
   - "Hardwired installation only — no plug-in option for renters or anyone avoiding electrical work"
+
 ---
 
 The FookChak chandelier is a classic candle-style fixture that promises to elevate a dining room without emptying your wallet. With 220 ratings averaging 4.4 stars, it's clearly doing something right. But is it the right call for your space? Here's what you need to know before adding it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fitness Reality Kids Sports Outdoor 8 Station Playground Set"
 seo_title: "Fitness Reality 8-Station Playground Set Review: Worth It?"
 meta_description: "Honest review of the Fitness Reality Kids Sports 8-Station Playground Set. See what 215 buyers say about assembly, durability, and which kids it fits."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09VF7Y9SC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JBgwXCrZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Eight distinct play activities in one footprint — swing, slide, trapeze, rings, climbing wall, and more — genuinely versatile for the price"
   - "Steel frame with powder-coated finish holds up well in weather; several buyers report two-plus seasons without rust"
   - "Weight capacity around 800 lbs distributed, so multiple kids can play simultaneously without sagging"
-cons:
+cons: 
   - "Assembly is a serious project — plan for 4–6 hours with two adults; instructions are occasionally vague on fastener placement"
   - "The included slide is shorter than most standalone sets; older kids (8+) may find it underwhelming"
   - "Anchor stakes feel light for a structure this size; you'll want to buy heavier ground anchors if you live in a windy area"
+
 ---
 
 **The short version:** If you've got the space, a weekend to spare, and kids between 3 and 10 who need to burn energy, this eight-station set delivers a lot of playground for the money. It's not a commercial-grade structure, but it's a solid backyard upgrade over a cheap plastic slide.

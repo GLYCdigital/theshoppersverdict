@@ -1,4 +1,5 @@
 ---
+
 title: "Early California, Ripe Pitted, Small Black Olives"
 seo_title: "Early California Ripe Pitted Small Black Olives Review"
 meta_description: "Early California Ripe Pitted Small Black Olives review: texture, flavor, and value. See if these pantry staples deserve a spot in your kitchen."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09H55NJF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DY7qS17UL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently firm texture that holds up in salads, casseroles, and on pizza without turning mushy"
   - "Small size means better distribution across dishes — no one bite overwhelms another"
   - "Reliable California-grown quality with a clean, mild brine that doesn't overpower other ingredients"
-cons:
+cons: 
   - "Small olives mean more peeling/chopping work if you need bigger pieces for recipes"
   - "Can arrive with occasional bruised olives in the can — not a dealbreaker, but worth sorting"
   - "No resealable container — you'll need to transfer leftovers to your own storage"
+
 ---
 
 Let's cut to the chase: you're looking at a can of black olives, and wondering if one brand really matters. After digging through 235 ratings and testing these myself, I can tell you — yes, it does. Early California's small pitted ripe olives earn their 4.7-star average with a consistency that cheap store brands just don't match.

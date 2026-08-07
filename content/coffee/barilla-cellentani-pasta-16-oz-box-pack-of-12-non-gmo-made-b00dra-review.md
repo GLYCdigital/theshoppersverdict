@@ -1,4 +1,5 @@
 ---
+
 title: "Barilla Cellentani Pasta, 16 oz. Box (Pack of 12) - Non-GMO,"
 seo_title: "Barilla Cellentani Pasta Review: 12-Pack Value & Taste"
 meta_description: "Honest Barilla Cellentani pasta review: 12-box pack value, cooking performance, sauce grip, and texture. See if this corkscrew shape is worth your pantry space."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00DRA8JYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PmKr19HIL._SL1500_.jpg"
-pros:
+pros: 
   - "Corkscrew ridges trap chunky sauces and grated cheese far better than penne or rotini"
   - "Holds al dente texture consistently across 12 boxes — no mushy or undercooked batches"
   - "Non-GMO Durum wheat semolina with a clean ingredient list — just semolina and water"
-cons:
+cons: 
   - "Longer cook time (11 minutes) than thinner shapes — not ideal for quick weeknight meals"
   - "The 12-pack is bulky to store; boxes don't stack neatly in standard pantry shelves"
+
 ---
 
 **Review Body**

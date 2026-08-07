@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe AM Face Moisturizer with SPF, PM Face Moisturizer & H"
 seo_title: "CeraVe AM & PM Moisturizer Review: Is the Duo Worth It?"
 meta_description: "Honest CeraVe AM & PM Moisturizer review: SPF protection, ceramide hydration, and real user feedback. See if this skincare duo earns its 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09YDFND48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bEU1StVAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "AM formula layers SPF 30 with niacinamide and ceramides — no separate sunscreen step needed"
   - "PM moisturizer uses hyaluronic acid and ceramides without heavy oils, absorbs in under a minute"
   - "Fragrance-free and non-comedogenic — dermatologist-developed for sensitive and acne-prone skin"
-cons:
+cons: 
   - "AM version can pill when applied over certain serums or in thick layers"
   - "PM tube is small (1.7 oz) — heavy nightly users may repurchase monthly"
+
 ---
 
 Let’s cut through the noise: CeraVe’s AM and PM moisturizer duo is one of the most recommended skincare combinations on the internet, and with 235 ratings averaging 4.7 stars, it’s not just hype. But is it right for *your* skin? Here’s what you actually need to know before adding both tubes to your cart.

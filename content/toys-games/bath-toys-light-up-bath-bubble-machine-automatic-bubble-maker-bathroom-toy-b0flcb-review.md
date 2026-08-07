@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Toys,Light-Up Bath Bubble Machine Automatic Bubble Make"
 seo_title: "Light-Up Bath Bubble Machine Review: Worth It? (2026)"
 meta_description: "Honest review of the Light-Up Bath Bubble Machine. Does it make enough bubbles? Is it safe? Read before you buy this automatic bubble maker."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FLCBV82F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mxa2KBZ0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Produces steady, continuous bubbles for 10+ minutes on fresh batteries — enough to cover a standard tub surface"
   - "Colorful LED lights cycle through 7 modes and genuinely entertain toddlers during rinse time"
   - "Simple one-button operation with automatic shutoff — no complicated settings or parent assembly required"
-cons:
+cons: 
   - "Requires 3 AA batteries not included — and it chews through them faster than you'd expect (roughly 4-5 baths per set)"
   - "Bubble output drops noticeably if the water gets soapy or if you use thick bubble bath instead of the included solution"
+
 ---
 
 If bath time is a daily battle in your house, this light-up bubble machine might be the ceasefire you're looking for. It's a simple concept—a floating device that blows bubbles while flashing colorful lights—but execution matters, and this one gets more right than wrong. With 215 ratings averaging 4.3 stars, it's clearly earning its keep in real bathrooms. Here's the honest breakdown.

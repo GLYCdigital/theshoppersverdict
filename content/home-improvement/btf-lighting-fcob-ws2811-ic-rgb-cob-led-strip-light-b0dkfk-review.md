@@ -1,4 +1,5 @@
 ---
+
 title: "BTF-LIGHTING FCOB WS2811 IC RGB COB LED Strip Light"
 seo_title: "BTF-LIGHTING FCOB WS2811 IC RGB COB LED Strip Light Review"
 meta_description: "BTF-LIGHTING FCOB WS2811 IC RGB COB LED strip light review: seamless lighting, real IC addressing, heat concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DKFKRD7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HeAxRkLPL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Truly seamless light output with no visible hot spots, even at close range"
   - "Real WS2811 ICs per 12mm segment allow individual color control, unlike cheaper COB strips"
   - "High-density 144 LEDs/m delivers smooth gradients and vibrant color mixing"
-cons:
+cons: 
   - "Runs noticeably warm at full brightness; aluminum channel mounting is strongly advised"
   - "Cut points every 25mm require careful measurement — no room for error if you mis-cut"
   - "Adhesive backing is adequate but won't hold on textured or dusty surfaces long-term"
+
 ---
 
 If you've ever stared at a standard RGB LED strip and wondered why the individual dots ruin the effect, this BTF-LIGHTING FCOB strip is the answer. It's not perfect, but for DIY under-cabinet lighting, TV bias lighting, or custom accent work, it's a serious step up from the pixelated look most strips deliver.

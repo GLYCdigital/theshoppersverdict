@@ -1,4 +1,5 @@
 ---
+
 title: "TRONLEE Tall Bookcase Bookshelf, 70 inch Height, 5-Tier Open"
 seo_title: "TRONLEE Tall Bookcase Bookshelf, 70 inch Height, 5 Review"
 meta_description: "Our full tronlee tall bookcase bookshelf, 70 inch height, 5-tier open review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWRFT3JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c7rkY9EoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about tall bookshelves: most under $150 are wobbly disasters waiting to topple. The TRONLEE 70-inch 5-tier unit is not that. It's a genuinely stable vertical storage solution that earns its 4.6-star rating — but it has limits you need to know before you click buy.

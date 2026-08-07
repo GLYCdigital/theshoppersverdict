@@ -1,7 +1,8 @@
 ---
-title: "High Sided Extra Large Cat Litter Box - 24.8\" L x 11.4\" W x "
-seo_title: "High Sided Extra Large Cat Litter Box - 24.8\" L x  Review"
-meta_description: "Our full high sided extra large cat litter box - 24.8\" l x 11.4\" w x  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "High Sided Extra Large Cat Litter Box - 24.8\ L x 11.4\ W x "
+seo_title: "High Sided Extra Large Cat Litter Box - 24.8\ L x  Review"
+meta_description: "Our full high sided extra large cat litter box - 24.8\ l x 11.4\ w x  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "high-sided-extra-large-cat-litter-box-24-8-l-x-11-b0dc5x-review"
 image_alt: "High Sided Extra Large Cat Litter Box - 24.8 L x 11.4 W x 13.0 H, XL Jumbo Kitty Litter Box for Big Cats, Tool-Free Asse"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC5XRPRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IzAqF5uHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of sweeping litter pellets off your bathroom floor every single morning, this high-sided box from Amazon's basics line deserves a hard look. At 24.8 inches long and 11.4 inches wide, it's not the biggest box on the market, but it's the depth that does the heavy lifting here. The walls rise significantly higher than standard boxes, which is the entire point — and it works.

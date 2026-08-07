@@ -1,4 +1,5 @@
 ---
+
 title: "Therm-a-Rest Z Lite Sol Camping and Backpacking Sleeping Pad"
 seo_title: "Therm-a-Rest Z Lite Sol Camping and Backpacking Sl Review"
 meta_description: "Our full therm-a-rest z lite sol camping and backpacking sleeping pad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CN4R2QS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qF3RANpwS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 14-Ounce Foam Pad That Refuses to Die: Therm-a-Rest Z Lite Sol Review**

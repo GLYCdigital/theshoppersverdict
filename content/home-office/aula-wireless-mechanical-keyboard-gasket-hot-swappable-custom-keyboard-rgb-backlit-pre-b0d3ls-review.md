@@ -1,4 +1,5 @@
 ---
+
 title: "AULA Wireless Mechanical Keyboard,Gasket Hot Swappable Custo"
 seo_title: "AULA Wireless Mechanical Keyboard Review: Gasket Hot-Swap Value"
 meta_description: "AULA wireless mechanical keyboard review: gasket mount, hot-swap switches, RGB. Is this budget custom board worth it? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3LS7X2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MC8BK0w0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gasket mount delivers a soft, thocky typing feel that rivals boards twice the price"
   - "True hot-swap sockets accept 3-pin and 5-pin switches, so you can customize without soldering"
   - "Tri-mode connectivity (2.4GHz, Bluetooth 5.0, USB-C) with solid battery life for daily office use"
-cons:
+cons: 
   - "Stock ABS keycaps develop shine within months of heavy typing"
   - "Bluetooth pairing can drop when switching between three devices; needs re-initiation occasionally"
   - "No dedicated software for macOS — RGB and remapping options are limited on Mac"
+
 ---
 
 ## The Budget Custom Keyboard That Actually Delivers

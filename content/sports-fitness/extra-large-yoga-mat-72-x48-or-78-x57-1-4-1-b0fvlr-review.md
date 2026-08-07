@@ -1,4 +1,5 @@
 ---
+
 title: "Extra Large Yoga Mat – 72 inch x48 inch  or 78 inch x57 inch , 1/4 inch –1/2 inch  Thi"
 seo_title: "Extra Large Yoga Mat Review: Big, Thick & Worth It?"
 meta_description: "Is the 72 inch x48 inch  extra large yoga mat worth $38? Read our honest review on thickness, grip, durability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVLRQRF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ITQ1cISWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Genuinely oversized 72 inch "x48 inch " surface fits tall users (6'2 inch "+) and leaves room for wide-stance poses without hanging off the edge
   - 1/4 inch " TPE construction offers noticeable joint cushioning on hard floors while staying lighter than most thick rubber mats
   - "Double-sided non-slip texture holds grip during hot yoga without needing a towel, per multiple verified reviews"
-cons:
+cons: 
   - "TPE material absorbs oils faster than natural rubber — expect a visible wear path where hands and feet land after 3-4 months"
   - "Rolls tightly out of the box but wants to curl at the ends for the first week; needs weights or reverse-rolling to flatten"
+
 ---
 
 Some yoga mats treat tall people like an afterthought. Standard 68-inch mats leave your head on the floor in Savasana and your feet sliding off in Warrior II. This extra-large option — available in 72"x48" or a genuinely massive 78"x57" — actually solves that problem. At $37.99 with a 4.4-star average across 220 ratings, it's positioned as the budget-friendly answer for bigger bodies and wider stances. But does the performance match the footprint? Here's what you need to know before buying.

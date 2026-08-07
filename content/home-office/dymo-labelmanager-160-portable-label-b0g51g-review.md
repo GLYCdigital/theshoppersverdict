@@ -1,4 +1,5 @@
 ---
+
 title: "DYMO LabelManager 160 Portable Label"
 seo_title: "DYMO LabelManager 160 Review: Is It Worth It? (2026)"
 meta_description: "DYMO LabelManager 160 portable label maker review: ease of use, print quality, and battery life. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G51G7VJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x2hbsPVlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One-handed operation with a comfortable grip and thumb-activated print button"
   - "Built-in memory stores up to 9 labels for quick reprints"
   - "Uses widely available D1 label cartridges in multiple widths and colors"
-cons:
+cons: 
   - "Small monochrome LCD screen shows only 13 characters at a time"
   - "Requires 4 AAA batteries (not included) and has no AC adapter option"
+
 ---
 
 Let's be blunt: most label makers under $50 feel like toys. The DYMO LabelManager 160 is the exception that actually earns a spot in your drawer. With 225 ratings averaging 4.5 stars, this isn't a niche tool — it's the label maker office managers and home organizers keep buying. But is it right for *your* workflow? Here's what 200+ hours of real-world use and buyer feedback actually tell us.

@@ -1,4 +1,5 @@
 ---
+
 title: "Craftersmark Outdoor Ceiling Light with Motion Sensor, Flush"
 seo_title: "Craftersmark Motion Sensor Ceiling Light Review (2026)"
 meta_description: "Honest Craftersmark outdoor flush mount ceiling light review: motion sensor performance, build quality, coverage area, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHZJ2JV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61izFD6KNcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-head adjustable motion sensor covers up to 30 feet with a 220-degree detection angle"
   - "Tool-free bulb access via hinged diffuser — no wrestling with set screws in the dark"
   - "Die-cast aluminum housing with matte black finish resists rust and fading in coastal/sun-exposed installs"
-cons:
+cons: 
   - "Sensor sensitivity dial is small and easy to over-rotate past the click point"
   - "Requires a covered outdoor location — not rated for direct rain exposure"
   - "Loud audible click when the relay engages; noticeable inside if mounted on a shared wall"
+
 ---
 
 ## The porch light that finally stops leaving you in the dark

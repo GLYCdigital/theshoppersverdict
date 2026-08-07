@@ -1,4 +1,5 @@
 ---
+
 title: "GalnFu Metal Bed Frame, Upholstered Bed with Leather Button-"
 seo_title: "GalnFu Upholstered Bed Frame Review: Real Buyer Insights"
 meta_description: "Read our honest GalnFu Metal Bed Frame review — leather button tufted headboard, build quality, assembly, and who should buy it. Rating 4.6/5."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F64W5WLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ynYZCWFNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy metal frame with steel slats rated for heavy use — no box spring required"
   - "Leather button-tufted headboard gives a premium hotel look at a fraction of the price"
   - "Tool-free assembly takes most buyers under 30 minutes with clear instructions"
-cons:
+cons: 
   - "Headboard height may feel low for taller sleepers sitting up in bed"
   - "PU leather won't match genuine leather durability — expect wear in 2-3 years with daily use"
   - "No under-bed storage; clearance is roughly 6 inches, too low for bins"
+
 ---
 
 The GalnFu upholstered bed frame is having a moment. With 229 ratings averaging 4.6 stars, it's clearly striking a chord with shoppers who want that boutique-hotel look without the four-figure price tag. But is the leather button-tufted headboard as luxe in person as it appears in the product images? I dug into the spec sheet, the build quality, and what real buyers are saying to give you the full picture.

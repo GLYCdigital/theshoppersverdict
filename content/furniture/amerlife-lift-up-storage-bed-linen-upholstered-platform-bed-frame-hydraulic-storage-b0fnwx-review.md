@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Lift Up Storage Bed Linen Upholstered Platform Bed"
 seo_title: "AMERLIFE Lift Up Storage Bed Review: Worth It? (2026)"
 meta_description: "Honest AMERLIFE lift up storage bed review: hydraulic storage, linen upholstery, assembly, and real buyer feedback. Is this 4.6-star bed worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNWX4V6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZX9aO-F3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hydraulic lift mechanism holds mattress securely with no gas strut failure reports across 229 ratings"
   - "Linen upholstery looks far more expensive than the price point suggests"
   - "Tool-free assembly in under 45 minutes according to multiple verified purchases"
-cons:
+cons: 
   - "No handle cutout on footboard — lifting requires grabbing the frame edge, awkward for shorter users"
   - "Under-bed storage height is 12 inches — tall storage bins won't fit"
   - "Linen fabric shows pet hair and lint easily, needs regular vacuuming"
+
 ---
 
 Let's be direct: most lift-up storage beds under $600 are flimsy, squeaky nightmares that make you regret the "space-saving" promise. The AMERLIFE Lift Up Storage Bed is not that bed. With a 4.6-star average across 229 ratings, this linen-upholstered platform bed has quietly become one of the smarter buys in the hydraulic storage category. Here's the full story.

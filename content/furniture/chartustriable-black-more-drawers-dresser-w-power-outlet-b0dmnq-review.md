@@ -1,4 +1,5 @@
 ---
+
 title: "chartustriable Black More Drawers Dresser w/Power Outlet"
 seo_title: "chartustriable Black Dresser Review: 9 Drawers + Power"
 meta_description: "chartustriable Black More Drawers Dresser review: 9 spacious drawers, built-in power outlet, sturdy build. See pros, cons & who it's best for."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DMNQC2TY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+uy0mUc8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Nine full-width drawers provide genuinely ample storage — roughly 60% more usable space than a standard 6-drawer dresser"
   - "Integrated power outlet and USB ports on the top back panel are positioned to charge devices without cable clutter"
   - "Solid particleboard construction with a smooth matte black finish that resists fingerprints and smudges"
-cons:
+cons: 
   - "Assembly is time-intensive — plan for 2-3 hours with two people; cam locks are fiddly and instructions are mostly diagrams"
   - "Drawers are deep but not soft-close; they slam shut if you let go, and the plastic tracks feel less premium than metal slides"
+
 ---
 
 ## Nine drawers and a power outlet — but is this dresser actually worth your money?

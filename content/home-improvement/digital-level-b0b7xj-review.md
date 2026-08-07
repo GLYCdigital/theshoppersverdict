@@ -1,4 +1,5 @@
 ---
+
 title: "Digital Level"
 seo_title: "Digital Level Review: Accurate, Durable, Worth It?"
 meta_description: "Read our digital level review covering accuracy, build quality, magnet strength, and real user feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B7XJ2ZM5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wg18FiQJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Highly accurate readings with 0.1° resolution and a bright backlit display that's easy to read in dim work spaces"
   - "Strong rare-earth magnets hold securely to steel studs and conduit — no slipping when you let go to grab a pencil"
   - "Solid aluminum frame feels durable enough for job-site abuse, with a protective rubber overmold on the corners"
-cons:
+cons: 
   - "Battery life is shorter than expected — heavy use will drain two AAA batteries in about three weeks"
   - "Calibration drift after hard drops; you'll need to re-zero it more often than you'd like if you're rough on tools"
   - "The hold button can be accidentally pressed when gripping the level — annoying when you're checking multiple surfaces quickly"
+
 ---
 
 ## Is This Digital Level Actually Worth Your Money?

@@ -1,4 +1,5 @@
 ---
+
 title: "MANUEKLEAR 3 Grip Lengths in 1 Tricep Rope Cable Attachment "
 seo_title: "MANUEKLEAR 3 Grip Lengths in 1 Tricep Rope Cable A Review"
 meta_description: "Our full manueklear 3 grip lengths in 1 tricep rope cable attachment  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CCNNVVNJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x1K3ceb5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Three ropes, one carabiner — the smartest tricep attachment I've tested this year

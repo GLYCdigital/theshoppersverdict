@@ -1,24 +1,26 @@
 ---
+
 title: "AquaClear 70 Power Filter, Fish Tank Filter for 40- to 70-Ga"
 seo_title: "AquaClear 70 Power Filter Review: Worth It for 40-70 Gal?"
 meta_description: "Honest AquaClear 70 Power Filter review for 40–70 gallon tanks. See pros, cons, real buyer feedback, and whether this hang-on filter earns its 4.3-star rating."
 slug: "aquaclear-70-power-filter-fish-tank-filter-for-40-to-70-gallon-b00026-review"
 image_alt: "AquaClear 70 Power Filter hanging on a large aquarium with media basket visible"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B000260FUW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xjvAfRkhL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Triple-stage filtration (mechanical, chemical, biological) with a reusable foam insert that rarely needs replacing"  
   - "Adjustable flow control lets you dial down current for bettas or shy fish without losing filtration capacity"  
   - "Self-priming design — no siphoning or manual water priming required after the initial setup"  
-cons:  
+cons: 
   - "Media basket and foam can be finicky to seat properly; if not clicked in fully, the motor hums and flow drops"  
   - "Comes with no carbon packet — you must buy AquaClear's proprietary media separately for chemical filtration"  
   - "For 70-gallon tanks, the outflow is barely adequate; most owners with heavy bioloads run two units"
+
 ---
 
 If you've kept fish for more than a month, you've heard the name AquaClear. The 70 model is the middle child of the lineup — rated for 40- to 70-gallon tanks — and it's been a staple in the hobby for decades. But does it still hold up against modern canister filters and cheap hang-on-backs? I've spent time with this unit, and I've combed through buyer feedback across 215 Amazon ratings. Here's what you actually need to know.

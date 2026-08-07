@@ -1,4 +1,5 @@
 ---
+
 title: "USumkky 20.5 inches Modern Ceramic Dark Blue Bedside Lamp Se"
 seo_title: "USumkky 20.5 inches Modern Ceramic Dark Blue Bedsi Review"
 meta_description: "Our full usumkky 20.5 inches modern ceramic dark blue bedside lamp se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2V3RZQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VNMsD63BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a lamp like this for raw lumens. You buy it because the nightstand in your guest room looks like a sad afterthought, and this dark blue ceramic piece—20.5 inches tall, thick-walled, with a matte glaze that catches warm light instead of bouncing it around like a cheap acrylic shade—actually fixes that. I've tested it in a bedroom, a home office, and a hallway console. Here's the honest breakdown.

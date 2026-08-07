@@ -1,4 +1,5 @@
 ---
+
 title: "Osprey Transporter Durable Squffel Bag - Water Resistant Squ"
 seo_title: "Osprey Transporter Durable Squffel Bag - Water Res Review"
 meta_description: "Our full osprey transporter durable squffel bag - water resistant squ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWFXB138/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rnUpdzAqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most “garden bags” are glorified tote sacks that fall apart after two seasons. The Osprey Transporter Squffel is not that. This is a 40-liter hybrid that Osprey, a brand known for serious backcountry gear, built to handle the grubby reality of yard work — and it shows in the build.

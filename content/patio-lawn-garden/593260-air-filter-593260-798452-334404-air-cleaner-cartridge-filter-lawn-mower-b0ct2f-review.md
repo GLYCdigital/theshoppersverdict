@@ -1,4 +1,5 @@
 ---
+
 title: "593260 Air Filter 593260 798452 334404 Air Cleaner Cartridge"
 seo_title: "593260 Air Filter Review: 798452 & 334404 Compatible"
 meta_description: "Honest 593260 air filter review for lawn mowers. Check fit, performance, and value for 593260, 798452, 334404 compatible cartridges."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CT2FT1D1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k1HQNjiCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OE-style fit for 593260, 798452, and 334404 applications — no adapter or modification needed"
   - "Dense pleated paper element with foam pre-filter catches fine dust that clogs small engines"
   - "Durable rubber gasket seals tightly against the housing, preventing unfiltered air bypass"
-cons:
+cons: 
   - "Not washable — replacement required, not a reusable oiled foam filter"
   - "No pre-oiled option; you'll need to apply filter oil separately if your mower manual specifies it"
+
 ---
 
 If you own a small engine—a riding mower, zero-turn, or even a generator—you know the drill: a dirty air filter is the fastest way to kill performance. This 593260 air filter cartridge (also cross-referenced as 798452 and 334404) is the kind of part you don't think about until your engine starts coughing. At 4.8 stars from 240 ratings, it's clearly doing something right. Here's what you actually need to know before clicking buy.

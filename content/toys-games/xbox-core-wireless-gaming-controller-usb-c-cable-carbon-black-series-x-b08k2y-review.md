@@ -1,4 +1,5 @@
 ---
+
 title: "Xbox Core Wireless Gaming Controller + USB-CÂ® Cable â€“ Car"
 seo_title: "Xbox Core Wireless Gaming Controller + USB-CÂ® Cab Review"
 meta_description: "Our full xbox core wireless gaming controller + usb-câ® cable â€“ car review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08K2Y2KQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rUMbRaMtL._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Xbox Core Wireless Controller isn't new. It's the same shape that's been in your hands for years, refined to near-perfection. But this specific bundle — controller plus the official USB-C cable — is the version most PC and mobile gamers should actually buy. Here's why.

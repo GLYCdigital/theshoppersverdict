@@ -1,4 +1,5 @@
 ---
+
 title: "FULEN 4 Pack Motion Sensor Wall Lights"
 seo_title: "FULEN 4 Pack Motion Sensor Wall Lights Review (2026)"
 meta_description: "Honest FULEN 4 Pack Motion Sensor Wall Lights review: brightness, battery life, range, and real buyer feedback. Is this 4.3-star value worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQL85WXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gs7rWk3eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic mount plus included screws gives you both renter-friendly and permanent installation options"
   - "IP65 waterproof rating holds up in rain and snow without fogging the lens"
   - "3 adjustable brightness modes (dim, medium, bright) suit hallway, closet, or outdoor entry use"
-cons:
+cons: 
   - "Battery life drops significantly if you set motion range to maximum and brightness to high"
   - "Motion sensor has a limited 10-foot detection range — not ideal for long driveways or wide yards"
+
 ---
 
 **If you've priced hardwired motion lights lately, you know the sting.** Electrician fees alone can run $150–$300 per fixture. That's why battery-powered motion sensor lights keep showing up in carts. The FULEN 4-pack undercuts that cost dramatically, but the real question is whether they actually perform. After digging into the specs, 215 Amazon ratings, and what owners say, here's the straight story.

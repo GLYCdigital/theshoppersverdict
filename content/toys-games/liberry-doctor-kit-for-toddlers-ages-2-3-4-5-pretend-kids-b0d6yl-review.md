@@ -1,4 +1,5 @@
 ---
+
 title: "Liberry Doctor Kit for Toddlers Ages 2 3 4 5, Pretend Kids D"
 seo_title: "Liberry Doctor Kit for Toddlers Ages 2 3 4 5, Pret Review"
 meta_description: "Our full liberry doctor kit for toddlers ages 2 3 4 5, pretend kids d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6YL5SDL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7193vQ30f2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of doctor kits where the stethoscope is a flimsy plastic tube that breaks in a week, the Liberry Doctor Kit is a different animal. This is a properly built pretend play set that holds up to actual toddler abuse — throwing, dropping, stomping, and the occasional teething attempt.

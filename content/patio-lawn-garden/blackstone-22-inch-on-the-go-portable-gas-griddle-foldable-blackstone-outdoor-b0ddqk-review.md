@@ -1,23 +1,25 @@
 ---
+
 title: "BLACKSTONE 22 Inch On The Go Portable Gas Griddle, Foldable"
 seo_title: "BLACKSTONE 22 inch On The Go Griddle Review: Foldable, Portable"
 meta_description: "Honest BLACKSTONE 22 inch On The Go Portable Gas Griddle review: foldable design, real cooking tests, pros, cons, and who should buy it. 4.7/5 rating."
 slug: "blackstone-22-inch-on-the-go-portable-gas-griddle-foldable-blackstone-outdoor-b0ddqk-review"
 image_alt: "BLACKSTONE 22 inch foldable portable gas griddle with legs collapsed, showing cooking surface and carry handle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDQKFDTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41jyAvzQ+oL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Folds flat to under 8 inches thick — stores in a closet or car trunk"  
   - "22-inch cold-rolled steel cooktop heats evenly across all three burners"  
   - "Rear grease gutter with removable cup catches bacon grease without flare-ups"  
-cons:  
+cons: 
   - "Legs require manual locking pins — easy to lose, and no storage clip on the frame"  
   - "No built-in lid — wind and rain affect heat, and you'll need a separate cover"
+
 ---
 
 **BLACKSTONE 22" On The Go Portable Gas Griddle Review: The Tailgating Workhorse That Actually Packs Away**

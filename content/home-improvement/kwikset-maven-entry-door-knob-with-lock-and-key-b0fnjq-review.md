@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Maven Entry Door Knob with Lock and Key"
 seo_title: "Kwikset Maven Entry Door Knob with Lock and Key Review: V"
 meta_description: "Our full kwikset maven entry door knob with lock and key review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FNJQDJ1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/412mB93Wa7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most entry door knobs under $40 are a gamble. Some feel like they're made of melted-down soda cans. Others strip their threads before you finish tightening the first screw. The Kwikset Maven sits in that crowded mid-range zone, and after digging through 210 ratings and the technical specs, here's what actually matters if you're about to hand over your credit card.

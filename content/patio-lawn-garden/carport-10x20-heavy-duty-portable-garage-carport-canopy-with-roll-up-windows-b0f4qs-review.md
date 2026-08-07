@@ -1,4 +1,5 @@
 ---
+
 title: "Carport 10x20 Heavy Duty Portable Garage,Carport Canopy with"
 seo_title: "Carport 10x20 Heavy Duty Portable Garage Review (2026)"
 meta_description: "Honest Carport 10x20 Heavy Duty Portable Garage review: durability, assembly, wind resistance & real buyer feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0F4QS3TXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SK4pgGFnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely spacious 10x20 footprint fits a full-size truck or SUV with room to walk around"
   - "Roll-up doors on three sides provide excellent ventilation and flexible access"
   - "Frame is heavier gauge than most budget carports — noticeably sturdier during assembly"
-cons:
+cons: 
   - "Instructions are borderline useless — expect 3-4 hours of trial-and-error assembly"
   - "Not truly 'heavy duty' in high winds; multiple reports of frame bending in gusts over 40 mph"
   - "Cover fabric is thin and can sag after a few months of sun exposure"
+
 ---
 
 Let me be blunt: a 3.2-star average across 160 ratings tells you this 10x20 carport is a mixed bag. It's not the worst canopy frame I've seen, but it's also not the "heavy duty" shelter the marketing implies. Here's what you're actually getting.

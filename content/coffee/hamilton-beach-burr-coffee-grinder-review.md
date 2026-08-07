@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Electric Burr Coffee Grinder"
 seo_title: "Hamilton Beach Burr Grinder Review: $40 Value Pick (2026)"
 meta_description: "Hamilton Beach Electric Burr Coffee Grinder review: 4.1-star rated, $40 burr grinder. See how it performs, where it falls short, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 2030
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07YQLF481/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gdD34x0BL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "True burr grinding at a $40 price point — delivers consistent grounds that blade grinders can't match"
   - "18 grind settings from espresso-fine to French press-coarse, with a simple dial that clicks into place"
   - "Removable 8-ounce grinding chamber and lid are dishwasher-safe for easy cleanup"
-cons:
+cons: 
   - "Noise level is noticeable — several reviewers compare it to a small power tool running"
   - "Static cling leaves some grounds clinging to the chamber walls; tapping the unit helps but doesn't eliminate it"
+
 ---
 
 **Is the Hamilton Beach Electric Burr Coffee Grinder the budget-friendly answer to consistent coffee grounds?**

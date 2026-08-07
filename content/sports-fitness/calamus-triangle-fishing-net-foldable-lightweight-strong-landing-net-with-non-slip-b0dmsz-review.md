@@ -1,4 +1,5 @@
 ---
+
 title: "Calamus Triangle Fishing Net, Foldable, Lightweight & Strong"
 seo_title: "Calamus Triangle Fishing Net Review: Foldable & Lightweight (2026)"
 meta_description: "Calamus Triangle Fishing Net review: Is this foldable, lightweight landing net worth it? Tested for durability, reach, and value. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMSZGYMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g5Xtf6h3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grip-lock folding mechanism deploys in under 3 seconds and holds rigidly at full extension"
   - "Rubber-coated non-slip handle holds firm even when wet — no twisting mid-landing"
   - "Deep mesh basket handles fish 18-22 inches without tail-over, thanks to the triangular profile"
-cons:
+cons: 
   - "Folded length still measures around 30 inches — not packable in a typical daypack"
   - "Mesh can snag on barbed treble hooks if you're not careful clearing the net"
   - "No included carry bag or lanyard at this price point — budget for one separately"
+
 ---
 
 Let's cut through the marketing. A landing net is the difference between a photo-worthy catch and a heartbreaking tail-flip at the boat rail. I've put the Calamus Triangle through bank fishing, kayak trips, and dock duty. Here's what 225 Amazon reviewers and my own testing actually tell you.

@@ -1,4 +1,5 @@
 ---
+
 title: "CREMA Coffee Products Hand Tamper & Coffee Distributor | Dou"
 seo_title: "CREMA Double-Sided Tamper & Distributor Review (2026)"
 meta_description: "CREMA Coffee Products double-sided hand tamper & distributor review: adjustable depth, 58mm fit, build quality, real user feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTRDG85Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614vc50yoML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable depth collar (0–10mm range) lets you dial in exact distribution depth to match your basket dose"
   - "Machined 58mm base fits standard Breville, Gaggia, Rancilio, and most aftermarket portafilters with no wiggle"
   - "Solid stainless steel construction with real heft—noticeably denser than the cheap aluminum tools at similar price"
-cons:
+cons: 
   - "No integrated tamper—you're buying a distributor only, so you still need a separate tamper for the final press"
   - "Adjustment mechanism uses a hex set screw that requires a 2mm Allen key (included, but easy to lose)"
+
 ---
 
 Let's be blunt about the espresso accessory market: it's flooded with identical-looking aluminum discs that claim to fix your channeling but actually just spin on top of the grounds. The CREMA Coffee Products Hand Tamper & Distributor is different, and the 4.6-star average across 229 ratings reflects that. But it's also not the complete solution some buyers expect.

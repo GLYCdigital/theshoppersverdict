@@ -1,4 +1,5 @@
 ---
+
 title: "VersaTex Multi-Purpose Recycled Rubber Floor Mat for Indoor "
 seo_title: "VersaTex Multi-Purpose Recycled Rubber Floor Mat f Review"
 meta_description: "Our full versatex multi-purpose recycled rubber floor mat for indoor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07D1Y77X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81--VjvpupL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the flimsy foam tiles. This is the mat that actually holds up.**

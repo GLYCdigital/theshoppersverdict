@@ -1,4 +1,5 @@
 ---
+
 title: "Tazo Passion Orange"
 seo_title: "Tazo Passion Orange Review: Verdict | TSV"
 meta_description: "Our full tazo passion orange review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ43JFG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zUDaJy3iL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get this out of the way: Tazo Passion Orange isn't coffee gear. It's a caffeine-free herbal tea that somehow landed in the coffee aisle of Amazon's catalog. But if you're a coffee drinker looking to cut caffeine after noon — or you just want something bright and refreshing in the rotation — this box deserves a look.

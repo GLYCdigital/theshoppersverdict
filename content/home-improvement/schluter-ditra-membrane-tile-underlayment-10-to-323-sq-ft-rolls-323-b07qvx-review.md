@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Ditra Membrane Tile underlayment 10 to 323 sq ft Ro"
 seo_title: "Schluter Ditra Membrane Tile underlayment 10 to 32 Review"
 meta_description: "Our full schluter ditra membrane tile underlayment 10 to 323 sq ft ro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07QVXS2BM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41V55qGPAuL._AC_SX355_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Schluter Ditra Membrane Review: The Orange Mat That Saves Your Tile From Cracking**

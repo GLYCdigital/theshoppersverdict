@@ -1,23 +1,25 @@
 ---
+
 title: "DIY CARTEL Made in USA Floating Metal Wall Shelf Picture Led"
 seo_title: "DIY CARTEL Floating Wall Shelf Review: Real Metal, Real Value"
 meta_description: "Honest DIY CARTEL floating metal wall shelf review: beefy steel, USA-made, easy mount. See pros, cons, and who should buy before you order."
 slug: "diy-cartel-made-in-usa-floating-metal-wall-shelf-picture-ledge-usa-b08sht-review"
 image_alt: "DIY CARTEL floating metal wall shelf holding framed photos and a small plant on a painted drywall wall"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08SHT7ZS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KKGatuOdL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 14-gauge steel with a welded, one-piece frame—flex it and it doesn't budge"  
   - "Ships with a laser-cut steel mounting plate and all hardware (including drywall anchors) so you're not hunting for parts"  
   - "Powder-coated matte finish hides fingerprints and resists chipping better than painted MDF shelves"  
-cons:  
+cons: 
   - "Open bottom means dust collects on the top surface—no hidden lip to hide clutter"  
   - "Hardware is solid but the included anchors are basic; for plaster or tile you'll want your own"
+
 ---
 
 If you've ever bought a "floating" shelf that turned out to be a hollow fiberboard husk with plastic brackets, the DIY CARTEL shelf is the antidote. This is a genuinely welded piece of American steel—no press-fit seams, no stamped sheet metal pretending to be structural. At 4.7 stars across 235 ratings, it's not just another Amazon shelf; it's the one that survives moving twice and still looks like it belongs in a modern loft.

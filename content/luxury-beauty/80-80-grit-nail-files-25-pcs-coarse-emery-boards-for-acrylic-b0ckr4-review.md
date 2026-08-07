@@ -1,4 +1,5 @@
 ---
+
 title: "80/80 Grit Nail Files (25 Pcs), Coarse Emery Boards for Acry"
 seo_title: "80/80 Grit Nail Files Review: 25-Pack Coarse Emery Boards"
 meta_description: "Honest review of 80/80 grit nail files (25-pack) for acrylics. Tested for durability, grit performance, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKR4KBQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sSzkeFa9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 80/80 grit cuts through acrylic and gel quickly without the file clogging or shredding"
   - "Consistent 7.5-inch length and sturdy 2.5mm thickness give solid control during filing"
   - "25-count bulk pack works out to under a dollar per file — practical for pros and DIY users"
-cons:
+cons: 
   - "Coarse 80-grit on both sides means no fine finishing option — you'll need a separate buffer"
   - "Paperboard core warps if exposed to acetone or excessive moisture during use"
+
 ---
 
 If you do your own acrylics at home, you already know the pain of cheap nail files that go dull after one set. The 80/80 Grit Nail Files (25-pack) are built to handle serious material removal — not just light shaping. These are the workhorse files you reach for when you're grinding down thick acrylic overlays, not the delicate ones you use for a quick buff.

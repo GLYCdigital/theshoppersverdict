@@ -1,4 +1,5 @@
 ---
+
 title: "BUYSIGHT Rechargeable Spotlight,Spot Lights Hand held Large"
 seo_title: "BUYSIGHT Rechargeable Spotlight Review: 1000 Lumens? Honest Look"
 meta_description: "Our BUYSIGHT Rechargeable Spotlight review covers real brightness, battery life, and build quality. Is it worth buying for camping or work? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1QMF5J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S8XqNsx7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Impressive throw for the price; the large reflector creates a tight, far-reaching beam that easily lights up objects 200+ yards away."
   - "Solid, hefty build with a comfortable rubberized grip; feels like a professional tool, not a cheap gadget."
   - "True USB-C charging (not micro-USB) means faster top-ups and one less cable to carry."
-cons:
+cons: 
   - "The advertised '1000,000 lumens' is a gross exaggeration; real-world output is likely closer to 1,000-1,500 lumens, which is still plenty for most uses."
   - "Battery life on the highest setting is shorter than expected, so you'll want to carry the cable or use a power bank for extended trips."
+
 ---
 
 Let’s cut through the marketing nonsense right away. The BUYSIGHT Rechargeable Spotlight has "1000,000 lumens" in its product title, which is a mathematical impossibility for a handheld light. What you actually get is a well-built, powerful spotlight that delivers a genuinely useful beam for camping, security, or working in the dark. But you need to know what you're buying before you click.

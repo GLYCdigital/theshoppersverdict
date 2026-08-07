@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Lawn Solutions - High Potassium Lawn Food Liquid Fert"
 seo_title: "Simple Lawn Solutions - High Potassium Lawn Food L Review"
 meta_description: "Our full simple lawn solutions - high potassium lawn food liquid fert review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09ZQ22X5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RyI5T5OuL._SL1000_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Potassium is the forgotten macronutrient. Most lawn owners chase nitrogen for green-up, but if your grass is yellowing with brown edges, wilting despite watering, or going dormant early, the problem might not be N — it’s K. Simple Lawn Solutions bottles that exact fix in a 0-0-25 liquid concentrate, and at 4.5 stars across 225 ratings, it’s clearly earning its keep.

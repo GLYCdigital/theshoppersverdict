@@ -1,4 +1,5 @@
 ---
+
 title: "Ditra-Heat Uncoupling Membrane Roll (135 SQFT PER ROLL)"
 seo_title: "Ditra-Heat Membrane Review: 135 SQFT Roll for Heated Floors"
 meta_description: "Honest Ditra-Heat uncoupling membrane review: coverage, install tips, and whether the 135 SQFT roll is worth it for your heated tile project."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B084SQ2ZCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oAPGTSx+L._AC_SL1368_.jpg"
-pros:
+pros: 
   - "Integrated heating cable channels eliminate guesswork—cable snaps into pre-cut rows, no measuring or clipping required"
   - "True uncoupling action prevents cracked tiles from subfloor movement, backed by a 25-year Schluter warranty"
   - "Built-in vapor management with fleece backing wicks moisture away from the substrate"
-cons:
+cons: 
   - "Only works with Ditra-Heat cable—you're locked into the Schluter ecosystem for the heating element"
   - "At roughly $1.60+ per square foot, it's pricier than standard uncoupling membranes without heat integration"
   - "The 135 SQFT roll is heavy and awkward for solo installers—plan for a helper or a rolling stand"
+
 ---
 
 If you're installing heated tile floors, you've probably seen the orange rolls stacked at your tile supplier. Ditra-Heat isn't just another uncoupling membrane—it's the one that integrates the heating cable directly into the mat's geometry. The 135-square-foot roll is the sweet spot for most master bathrooms and medium-sized kitchens. Here's what you need to know before you drop the cash.

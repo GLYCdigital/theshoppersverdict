@@ -1,4 +1,5 @@
 ---
+
 title: "Artiwell Sink Pop-Up Drain Stopper Assembly with Lift Rod an"
 seo_title: "Artiwell Pop-Up Drain Stopper Review: Solid Brass Build"
 meta_description: "Artiwell sink pop-up drain stopper assembly review: brass construction, universal fit, easy install. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FT34Y7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qLf9DgSwS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with brushed nickel finish that resists corrosion and fingerprints"
   - Universal fit works with most standard 1-1/4 inch " and 1-1/2 inch " drains without adapter kits
   - "Complete kit includes lift rod, clevis strap, and overflow plate—no extra parts to hunt down"
-cons:
+cons: 
   - "Rod linkage can bind if your sink basin is unusually deep or the tailpiece sits at an odd angle"
   - "Finish is slightly lighter than some name-brand brushed nickel fixtures, so color matching may be imperfect"
+
 ---
 
 Some plumbing repairs feel like they require a degree in pipefitting. The Artiwell Pop-Up Drain Stopper Assembly isn't one of them. This is a drop-in replacement that solves the most common bathroom sink failure—a broken stopper mechanism—without the headache of custom fitting or calling a plumber.

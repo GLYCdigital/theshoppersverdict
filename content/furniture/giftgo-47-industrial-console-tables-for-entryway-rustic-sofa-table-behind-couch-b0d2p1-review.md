@@ -1,4 +1,5 @@
 ---
+
 title: "GiftGo 47 inch  Industrial Console Tables for Entryway Rustic Sof"
 seo_title: "GiftGo 47 inch  Industrial Console Table Review: Worth It?"
 meta_description: "GiftGo 47 inch  industrial console table review: rustic charm, sturdy steel frame, 4.7★ rating. Is it right for your entryway or behind the couch? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2P17Q4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZMW2L0kuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "47-inch length fits perfectly behind standard sofas or as a spacious entryway landing spot"
   - "Solid steel X-frame crossbars provide real stability — no wobble even when loaded"
   - "Rustic wood-grain finish looks far more expensive than the price point suggests"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver — the included Allen wrench alone won't cut it"
   - "Bottom shelf is open with no lip; smaller items can slide off if bumped"
   - "Wood top is engineered MDF, not solid hardwood — won't stand up to heavy moisture damage"
+
 ---
 
 Let's be direct: most console tables under $150 are wobbly, cheap-looking, and assembled with frustration. The GiftGo 47" Industrial Console Table isn't that. With a 4.7-star average across 235 ratings, it's earning its place in entryways and behind living room sofas. Here's the real story.

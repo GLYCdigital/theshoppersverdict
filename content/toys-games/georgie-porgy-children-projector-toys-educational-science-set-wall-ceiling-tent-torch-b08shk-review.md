@@ -1,4 +1,5 @@
 ---
+
 title: "Georgie Porgy Children Projector Toys Educational Science Se"
 seo_title: "Georgie Porgy Projector Toy Review: Is It Worth It?"
 meta_description: "Honest Georgie Porgy children projector toy review: image quality, durability, and whether this educational science set delivers real value for kids."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08SHKFV9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fsjW0nCvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three interchangeable slide discs (space, animals, sea life) give 24 total images — meaningful variety for the price"
   - "Auto-focus lens produces surprisingly sharp images at 3–6 feet, which is better than many projectors in this price tier"
   - "Runs on 3 AAA batteries (not included), making it fully portable for tents, camping, or dark-room play"
-cons:
+cons: 
   - "Projection brightness is modest — images wash out quickly in anything but a dark room"
   - "Slide discs are thin plastic and can warp if left in a hot car or near a radiator, causing blurry edges"
   - "No auto-off timer, so younger kids can drain batteries fast if they forget to switch it off"
+
 ---
 
 **The short version:** The Georgie Porgy Children Projector Toy is a solid budget pick for parents who want a screen-free activity that sparks curiosity about space, animals, and the ocean. It's not a high-end planetarium projector — it's a $20-ish toy that does one thing well: projecting 24 educational images onto walls, ceilings, or inside a tent. For what it is, it delivers.

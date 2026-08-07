@@ -1,4 +1,5 @@
 ---
+
 title: "JEAREY 9ft Half Umbrella Outdoor Patio Umbrella Market Umbre"
 seo_title: "JEAREY 9ft Half Umbrella Outdoor Patio Umbrella Ma Review"
 meta_description: "Our full jearey 9ft half umbrella outdoor patio umbrella market umbre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6Z1S352/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QD68sWpbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your patio is squeezed against the house, a traditional center-pole umbrella is a space hog. The JEAREY 9ft Half Umbrella solves that by mounting flush against a wall or fence, giving you shade where a full umbrella simply won't fit. With 235 ratings averaging 4.7 stars, it's clearly working for a lot of people. But is it the right shade solution for your setup? Here's the honest breakdown.

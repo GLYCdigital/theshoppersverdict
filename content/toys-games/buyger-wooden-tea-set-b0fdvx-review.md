@@ -1,4 +1,5 @@
 ---
+
 title: "Buyger Wooden Tea Set"
 seo_title: "Buyger Wooden Tea Set Review: 4.4-Star Pretend Play Toy"
 meta_description: "Buyger Wooden Tea Set review: 25-piece pretend play set with realistic details. See what 220+ Amazon buyers love — and where it falls short."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDVXLM4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h4ZBdKOTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid birch wood construction with smooth, splinter-free edges — survives toddler drops"
   - "25 pieces including teapot, cups, saucers, pastries, and serving tray — room for multiple kids to play together"
   - "Water-based, non-toxic paint that holds up to repeated washing and aggressive play"
-cons:
+cons: 
   - "Teapot lid sits loose — guaranteed to pop off during enthusiastic pouring play"
   - "Croissant and cake pieces are small enough to be a choking hazard for kids under 3 despite the 3+ label"
+
 ---
 
 If your toddler has ever grabbed your grandmother's china and announced "tea party," you already know the drill. The Buyger Wooden Tea Set exists to save your good dishes from that fate — and for the most part, it does the job admirably.

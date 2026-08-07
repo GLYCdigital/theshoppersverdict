@@ -1,4 +1,5 @@
 ---
+
 title: "Flamaker Dresser for Bedroom, 6 Drawer Dresser, Wood Dresser"
 seo_title: "Flamaker 6-Drawer Dresser Review: Solid Wood Chest for Bedrooms"
 meta_description: "Flamaker 6-drawer wood dresser review: sturdy build, assembly ease, and real-world storage. See if this bedroom chest fits your needs before buying."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GFDXTQ57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nb+o-QFsL._SL1500_.jpg"
-pros:
+pros: 
   - Six full-width drawers offer genuinely useful storage depth (roughly 28 inch " W x 15 inch " D) for folded clothes, linens, or bulky sweaters
   - "Metal ball-bearing glides rated for frequent use — drawers slide smoothly even when fully loaded with heavier items"
   - "Anti-tip wall anchor included and pre-drilled, a safety feature many comparable dressers in this price tier omit"
-cons:
+cons: 
   - "Assembly requires two people and roughly 90 minutes — the cam-lock system is straightforward but the sheer number of parts (50+) makes solo setup frustrating"
   - "Particleboard core with wood veneer, not solid wood — expect edge chipping if you move it frequently or live in high-humidity climates"
   - "Drawer fronts arrive with pre-attached handles that can loosen during shipping; check and re-tighten with the included hex key before loading"
+
 ---
 
 **The Flamaker 6-Drawer Dresser: More Than Just a Pretty Face?**

@@ -1,4 +1,5 @@
 ---
+
 title: "AGXI Full Platform Bed with Under-Bed Storage Drawers, Full"
 seo_title: "AGXI Full Platform Bed Review: Storage Drawers Worth It?"
 meta_description: "Read our honest AGXI Full Platform Bed review. We break down build quality, storage drawer function, assembly pain points, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D3T2WF7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vnu-Z3uXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two genuinely functional under-bed drawers with smooth-glide rails — not decorative, they actually hold a full load of folded clothes"
   - "Solid wood slats rated for heavy use; no box spring required, which saves you $100+"
   - "Headboard has a built-in charging shelf with cable management holes, a rare feature at this price"
-cons:
+cons: 
   - "Assembly is a two-person job — the side rails are heavy and the drawer tracks require precise alignment to avoid binding"
   - "Drawers are roughly 18 inches deep but the tracks don't lock fully; they can roll out if you yank them hard"
   - "Finish is matte and shows dust quickly — darker colors especially need regular wiping"
+
 ---
 
 If you're shopping for a full-size bed frame that pulls double duty as storage, the AGXI Platform Bed with Under-Bed Drawers is the kind of product that sounds better in the listing than it often performs in real life. The good news? This one mostly delivers. The catch? Assembly will test your patience.

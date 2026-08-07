@@ -1,4 +1,5 @@
 ---
+
 title: "Mars M&M'S, SNICKERS, 3 MUSKETEERS, SKITTLES & STARBURST Var"
 seo_title: "Mars M&M'S, SNICKERS, 3 MUSKETEERS, SKITTLES & STA Review"
 meta_description: "Our full mars m&m's, snickers, 3 musketeers, skittles & starburst var review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHKFN4WL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ka+DHS8aL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, this isn't a coffee maker. But if you're reading this, you're probably like me — you keep a jar of beans next to the machine, and you want something to grab while the brew drips. This Mars variety pack is that something. With a 4.7-star average across 235 ratings, it's clearly doing something right. Here's what you're actually getting.

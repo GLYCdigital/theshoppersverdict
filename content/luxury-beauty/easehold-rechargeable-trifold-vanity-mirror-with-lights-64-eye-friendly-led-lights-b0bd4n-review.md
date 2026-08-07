@@ -1,5 +1,6 @@
 ---
 
+
 title: "EASEHOLD Rechargeable Trifold Vanity Mirror with Lights, 64 inch"
 seo_title: "EASEHOLD Trifold Vanity Mirror Review: 64 LED Lights Tested"
 meta_description: "EASEHOLD rechargeable trifold vanity mirror with 64 LED lights reviewed: brightness, battery life, magnification, and real buyer feedback."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BD4NGP1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wcpgPWzgL._SL1500_.jpg"
-pros:
+pros: 
   - "64 dimmable LEDs deliver 3-color lighting (warm/cool/natural) bright enough for precise makeup work"
   - "Rechargeable battery means no cord clutter — can move it anywhere, and USB-C charging is fast"
   - "10x magnification side flaps are genuinely useful for brows, eyeliner, and skincare extraction"
-cons:
+cons: 
   - "Battery life drops noticeably at full brightness — expect 2-3 hours max, not the advertised 4-5 inch"
   - "The 10x magnification panels distort facial proportions when used up close, which can be disorienting"
   - "Fingerprint magnet on the glass; requires regular wiping to stay presentable"
+
 
 ---
 

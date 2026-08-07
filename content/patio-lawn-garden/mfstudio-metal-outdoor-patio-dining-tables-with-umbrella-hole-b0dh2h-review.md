@@ -1,4 +1,5 @@
 ---
+
 title: "MFSTUDIO Metal Outdoor Patio Dining Tables with Umbrella Hol"
 seo_title: "MFSTUDIO Metal Outdoor Patio Dining Tables with Um Review"
 meta_description: "Our full mfstudio metal outdoor patio dining tables with umbrella hol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DH2H8ZVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-ziDgAj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped patio tables recently, you know the market splits into two camps: flimsy $80 options that wobble in a breeze, and $600+ teak or aluminum pieces that make you question your life choices. The MFSTUDIO Metal Outdoor Patio Dining Table sits in the middle, and honestly, that's exactly where most shoppers need it to be.

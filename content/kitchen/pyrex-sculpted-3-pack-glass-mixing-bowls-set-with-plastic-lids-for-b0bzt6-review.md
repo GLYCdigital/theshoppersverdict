@@ -1,4 +1,5 @@
 ---
+
 title: "Pyrex Sculpted (3-Pack) Glass Mixing Bowls Set With Plastic "
 seo_title: "Pyrex Sculpted (3-Pack) Glass Mixing Bowls Set Wit Review"
 meta_description: "Our full pyrex sculpted (3-pack) glass mixing bowls set with plastic  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZT61Z9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ZQBecmoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've burned through cheap plastic mixing bowls that stain, warp, or absorb odors, the Pyrex Sculpted 3-Pack is the upgrade you've been circling. This set includes 1.5-quart, 1.8-quart, and 2.2-quart glass bowls with matching plastic lids — a practical trio that covers most home cooking needs without cluttering your cabinet.

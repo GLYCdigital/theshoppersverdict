@@ -1,4 +1,5 @@
 ---
+
 title: "Lemon Zester, Stainless Steel Kitchen Cheese Grater, Plastic"
 seo_title: "Lemon Zester, Stainless Steel Kitchen Cheese Grate Review"
 meta_description: "Our full lemon zester, stainless steel kitchen cheese grater, plastic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3H6RB1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yO2zYOAZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most $10 zesters are glorified scrapers that shred the pith, clog after two strokes, and stab your finger when you reach into the drawer. The **Lemon Zester, Stainless Steel Kitchen Cheese Grater** with its soft blue plastic handle is not that. It’s a genuinely useful tool that earns its space in the utensil drawer — but it has limits, and I’ll tell you exactly where it lands short.

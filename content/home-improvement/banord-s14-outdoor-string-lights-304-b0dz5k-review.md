@@ -1,4 +1,5 @@
 ---
+
 title: "Banord S14 Outdoor String Lights 304 inch"
 seo_title: "Banord S14 Outdoor String Lights Review: Worth It? (2026)"
 meta_description: "Banord S14 Outdoor String Lights 304: 4.7-star rated. Our honest review covers brightness, weatherproofing, and durability. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZ5KX4P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JmOd6SuWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weatherproof rubber housing and sealed sockets hold up through rain, snow, and direct sun without cracking or corroding"
   - "Large 25-foot lead cord gives you serious flexibility for outlet placement — you're not chained to a nearby socket"
   - "True 304-foot total length with 25 bulbs that throw warm, even light without harsh hotspots or dark gaps between fixtures"
-cons:
+cons: 
   - "Bulbs are permanently fixed to the wire — if one burns out, you can't replace it individually, you'll need to splice or replace the whole set"
   - "The glass bulbs are genuinely fragile; shipping damage is rare but handling during installation requires care, especially on windy days"
+
 ---
 
 Let's cut to the chase. If you're shopping for patio lighting, you've seen a hundred string light options with inflated claims and undersized specs. The Banord S14 set doesn't mess around with that. At 304 feet of actual coverage, this is a serious investment in your outdoor space — not a decorative afterthought.

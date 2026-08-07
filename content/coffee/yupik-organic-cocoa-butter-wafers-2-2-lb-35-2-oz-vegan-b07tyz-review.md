@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Organic Cocoa Butter Wafers, 2.2 lb (35.2 oz), Vegan, "
 seo_title: "Yupik Organic Cocoa Butter Wafers, 2.2 lb (35.2 oz Review"
 meta_description: "Our full yupik organic cocoa butter wafers, 2.2 lb (35.2 oz), vegan,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07TYZMVH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tGWXz2pSL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most cocoa butter on Amazon is either overpriced, poorly tempered, or tastes faintly of cardboard. The Yupik Organic Cocoa Butter Wafers sidestep most of that drama — but they’re not perfect. Here’s what 225 buyers and my own handling of the product tell you before you click buy.

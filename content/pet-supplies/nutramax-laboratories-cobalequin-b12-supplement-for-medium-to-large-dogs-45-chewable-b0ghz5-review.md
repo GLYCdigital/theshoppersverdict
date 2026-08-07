@@ -1,4 +1,5 @@
 ---
+
 title: "Nutramax Laboratories Cobalequin B12 Supplement for Medium t"
 seo_title: "Nutramax Laboratories Cobalequin B12 Supplement fo Review"
 meta_description: "Our full nutramax laboratories cobalequin b12 supplement for medium t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHZ5KLPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bgdzz2aDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your dog has been dragging through walks, losing weight despite a healthy appetite, or dealing with chronic digestive issues, B12 deficiency might be the silent culprit. Nutramax's Cobalequin is the supplement most veterinarians reach for — and with 240 ratings averaging 4.8 stars, it's clearly earning its keep in real households.**

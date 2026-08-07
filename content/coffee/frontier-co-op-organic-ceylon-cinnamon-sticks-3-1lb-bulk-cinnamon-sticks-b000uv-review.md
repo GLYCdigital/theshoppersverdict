@@ -1,4 +1,5 @@
 ---
+
 title: "Frontier Co-op Organic Ceylon Cinnamon Sticks 3 inch  1lb - Bulk"
 seo_title: "Frontier Co-op Ceylon Cinnamon Sticks Review (3 inch  1lb Bulk)"
 meta_description: "Honest Frontier Co-op Organic Ceylon Cinnamon Sticks review: aroma, grindability, uses for coffee & baking. 4.5-star rating, real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000UVW46W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AUf8lnvCL._SL1500_.jpg"
-pros:
+pros: 
   - "True Ceylon (Cinnamomum verum) — soft, sweet, low-coumarin profile that won't turn bitter in coffee or baking"
   - "3-inch sticks fit standard spice grinders and coffee grinders without pre-breaking; consistent diameter for even grinding"
   - "One-pound bulk bag is roughly 100+ sticks — about 8 months of daily use for the average household at a fraction of grocery-store price per ounce"
-cons:
+cons: 
   - "Sticks arrive more brittle than Indonesian cassia — some buyers report broken pieces in the bag (cosmetic only, doesn't affect flavor)"
   - "The paper bag packaging isn't resealable — you'll need your own airtight jar or the sticks will lose potency in 3-4 months"
+
 ---
 
 If you've been grinding "cinnamon" from the grocery store into your coffee or oatmeal, I've got news for you: you've probably been using cassia, not true Ceylon cinnamon. This Frontier Co-op bag is the real thing — and once you taste the difference, you won't go back.

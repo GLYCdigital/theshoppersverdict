@@ -1,4 +1,5 @@
 ---
+
 title: "VNLA Junior Stealth Jam Skates for Men and Women - Indoor Un"
 seo_title: "VNLA Junior Stealth Jam Skates for Men and Women - Review"
 meta_description: "Our full vnla junior stealth jam skates for men and women - indoor un review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079HCMQ8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QW4T49kgL._AC_SL1175_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VNLA Junior Stealth Jam Skates: The Budget Skate That Punches Way Above Its Weight

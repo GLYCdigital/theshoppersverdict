@@ -1,4 +1,5 @@
 ---
+
 title: "Formal Food - Natural Fresh Soursop (guanabana) 8,82 Oz"
 seo_title: "Formal Food Soursop Review: Is This Guanabana Worth It?"
 meta_description: "Read our honest Formal Food soursop review. We tested taste, texture, and value. See what 215 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9FS948Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cbn1yYARL._SL1500_.jpg"
-pros:
+pros: 
   - "Sweet, authentic soursop flavor with real fruit pulp — not syrupy or artificial tasting"
   - "Convenient vacuum-sealed 8.82 oz package that stays fresh for multiple uses"
   - "Versatile — works for smoothies, juices, desserts, or eating straight from the pouch"
-cons:
+cons: 
   - "Seeds require careful removal — several buyers noted unexpected seeds in the pulp"
   - "Smaller quantity than expected for the price point, especially if you're making multiple smoothies"
   - "Consistency varies between batches — some pouches arrive more watery than others"
+
 ---
 
 **Is this actually soursop, or just soursop-flavored sugar water?** That's the question most shoppers ask before buying any packaged tropical fruit. After digging through 215 ratings and the real customer feedback behind that 4.3-star average, here's the honest breakdown of Formal Food's Natural Fresh Soursop.

@@ -1,4 +1,5 @@
 ---
+
 title: "AKLOT Pool Cues,58 inch  Pool Cue Stick Canadian Maple Wood Billi"
 seo_title: "AKLOT Pool Cue Review: 58 inch  Canadian Maple Stick Worth It?"
 meta_description: "Our AKLOT 58 inch  pool cue review covers the Canadian maple shaft, grip, tip performance, and durability. See if this 4.7-star cue is right for your game."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDGVVH8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WS2L7sjIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canadian maple shaft with straight grain and minimal taper — plays like cues costing twice as much"
   - "10-11mm leather tip holds chalk well and delivers consistent English after light break-in"
   - "Weighted to 19oz with a balanced feel that suits both power breakers and finesse players"
-cons:
+cons: 
   - "Stock tip arrives slightly hard — plan on 15-20 minutes of shaping with a tip tool"
   - "Wrap is a synthetic leather-style material, not genuine leather — purists may notice the difference"
+
 ---
 
 Let's cut through the noise: a sub-$50 pool cue that actually plays well is rare. The AKLOT 58-inch Canadian Maple cue, however, has earned its 4.7-star rating across 235 reviews — and after digging into the specs and what buyers actually say, it deserves most of the hype.

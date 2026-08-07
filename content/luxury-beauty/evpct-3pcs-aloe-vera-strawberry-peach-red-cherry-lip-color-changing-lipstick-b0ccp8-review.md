@@ -1,4 +1,5 @@
 ---
+
 title: "evpct 3Pcs Aloe Vera Strawberry Peach Red Cherry Lip Color C"
 seo_title: "evpct 3Pcs Lip Color C Review: pH Lipstick Trio Worth It?"
 meta_description: "Honest evpct 3Pcs Aloe Vera Strawberry Peach Red Cherry Lip Color C review: long-lasting, moisturizing pH lipsticks. Real pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCP8ST6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JW39+R1nL._SL1000_.jpg"
-pros:
+pros: 
   - "Three distinct pH-reactive shades in one set — strawberry, peach, and cherry — that genuinely differ on the lips, not just in the tube"
   - "Aloe vera and moisturizing base means no cracking or peeling, even after 4+ hours of wear"
   - "Buildable color intensity — one swipe gives a sheer tint, three swipes deliver a bold, glossy finish"
-cons:
+cons: 
   - "Color payoff varies significantly with your body's pH — what looks like a soft peach on one person may pull hot pink on another"
   - "The glossy finish transfers easily to cups, masks, and collars — this is not a transfer-proof formula"
   - "No SPF protection, which is a missed opportunity for a lip product marketed as daily-wear luxury"
+
 ---
 
 Here's the thing about pH-reactive lip colors: they're a gamble. Your body chemistry decides the final shade, not the swatch in the product photo. So when the evpct 3Pcs Aloe Vera Strawberry Peach Red Cherry Lip Color C set landed on my desk, I approached it with the skepticism it deserves. After three weeks of daily wear, here's what I can tell you — this $20-ish trio (price fluctuates, check current) is one of the better bets in the category, but it's not without its quirks.

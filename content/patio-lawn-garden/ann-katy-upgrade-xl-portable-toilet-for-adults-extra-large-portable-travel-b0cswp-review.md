@@ -1,4 +1,5 @@
 ---
+
 title: "Ann Katy Upgrade XL Portable Toilet for Adults, Extra Large"
 seo_title: "Ann Katy XL Portable Toilet Review: Extra Large & Sturdy"
 meta_description: "Read our honest Ann Katy Upgrade XL Portable Toilet review. Is the extra-large design worth it for camping or elderly care? We break down build, comfort, and value."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSWPZPML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B3Jm8-9GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide 13-inch seat opening accommodates larger users comfortably, unlike most portable toilets that max out around 10-11 inches"
   - "Reinforced HDPE plastic base rated to 440 lbs, with anti-slip feet that stay put on uneven campsite ground"
   - "Integrated splash guard and detachable inner bucket with lid — makes emptying less of a gross experience"
-cons:
+cons: 
   - "At roughly 11 lbs empty, it's not a backpacking option; this is strictly for car camping or home care situations"
   - "Handle placement on the rear makes one-handed carrying awkward when the tank is full — you'll want two hands"
+
 ---
 
 The portable toilet market is full of flimsy plastic buckets that wobble under pressure. The Ann Katy Upgrade XL takes a different approach: it's built like the kind of toilet you'd actually trust at 2 AM in a tent. And with a 4.4-star average across 220 ratings, it's clearly earning its keep in campgrounds and spare bedrooms alike.

@@ -1,4 +1,5 @@
 ---
+
 title: "Full Size SD Card 128GB Camera Pro Core Group N1"
 seo_title: "Full Size SD Card 128GB Camera Pro Core Group N1 Review: "
 meta_description: "Our full full size sd card 128gb camera pro core group n1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL4M6WDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RvgV9EgWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Full Size SD Card 128GB Camera Pro Core Group N1** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

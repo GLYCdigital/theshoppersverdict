@@ -1,4 +1,5 @@
 ---
+
 title: "Crucial P3 2TB PCIe Gen3 3D NAND NVMe M.2 SSD"
 seo_title: "Crucial P3 2TB NVMe SSD Review: Best Budget Gen3 Drive?"
 meta_description: "Read our honest Crucial P3 2TB PCIe Gen3 NVMe M.2 SSD review. Real performance numbers, durability concerns, and who should buy it. 4.8/5 rated."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJL8WNDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nnZ+cziYL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "2TB of Gen3 NVMe storage for roughly the same price as many 1TB Gen4 drives — the value per gigabyte is exceptional"
   - "Consistent 3,500MB/s sequential reads in real-world testing, not just on the box; sustained writes hold up better than expected for QLC"
   - "Crucial's Storage Executive software makes firmware updates and health monitoring genuinely painless, even for first-time NVMe users"
-cons:
+cons: 
   - "QLC NAND means the write cache fills quickly on large file transfers — sustained workloads will see speeds drop to around 100MB/s"
   - "No heatsink included; sustained load in a cramped laptop or PS5 will throttle performance without aftermarket cooling"
+
 ---
 
 Let's cut through the spec-sheet noise. The Crucial P3 2TB is the drive you buy when you want NVMe speed without paying the Gen4 tax. It's been out long enough that the firmware is mature, the price has settled, and the 4.8-star rating across 240 Amazon reviews reflects a product that's earned its reputation. But it's not the right drive for everyone.

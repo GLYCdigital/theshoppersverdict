@@ -1,4 +1,5 @@
 ---
+
 title: "EZGoal Lacrosse Folding Goal, 6 x 6-Feet, Orange"
 seo_title: "EZGoal Lacrosse Folding Goal Review: 6x6 Portable Net"
 meta_description: "EZGoal 6x6 folding lacrosse goal review: durable steel frame, easy setup, portability. See pros, cons, and who should buy this 4.6-star net."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZC1D482/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91w6ngwYlzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with welded corners holds up to hard shots without flexing"
   - "Folds flat in seconds — fits in a car trunk or garage corner"
   - "Orange powder-coated finish stays visible in low light and resists rust"
-cons:
+cons: 
   - "No ground stakes or sandbags included — needs anchoring on windy days"
   - "Net attachment uses bungee cords that can stretch over heavy use"
+
 ---
 
 If you’ve priced regulation lacrosse goals lately, you know they run $300–$500 and require a pickup truck to move. The EZGoal 6x6 folding goal takes a different path: it’s a $100-ish (check current pricing) portable net that sets up in under a minute and folds down to something you can carry under one arm. For backyard practice, youth drills, or a casual pickup game, that tradeoff makes sense — but let’s talk about what you’re actually getting.

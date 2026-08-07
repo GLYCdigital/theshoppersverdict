@@ -1,4 +1,5 @@
 ---
+
 title: "iVict Nail Desk Lamp BS, Half Moon Light"
 seo_title: "iVict Nail Desk Lamp BS, Half Moon Light Review: Verdict "
 meta_description: "Our full ivict nail desk lamp bs, half moon light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRYZ5735/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hydqEji1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you do nails professionally — or just obsessively at home — you already know the struggle. That single overhead light casting shadows across your workspace, making you squint at cuticles and second-guess every glitter gradient. The iVict Nail Desk Lamp BS aims to end that. After reading through 215 ratings and digging into the specs, here’s the real story.

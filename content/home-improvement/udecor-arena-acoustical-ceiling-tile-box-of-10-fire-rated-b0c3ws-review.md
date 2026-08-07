@@ -1,4 +1,5 @@
 ---
+
 title: "uDecor Arena Acoustical Ceiling Tile - Box of 10 - Fire-Rate"
 seo_title: "uDecor Arena Acoustical Ceiling Tile - Box of 10 - Review"
 meta_description: "Our full udecor arena acoustical ceiling tile - box of 10 - fire-rate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3WS885S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Zd3rAW0cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're replacing stained, sagging, or dated ceiling tiles, the **uDecor Arena Acoustical Ceiling Tile** box of 10 is a practical, budget-friendly upgrade that doesn't sacrifice fire safety. At a 4.2-star average across 210 ratings, it's not perfect — but for a standard drop ceiling refresh, it's hard to beat the value.

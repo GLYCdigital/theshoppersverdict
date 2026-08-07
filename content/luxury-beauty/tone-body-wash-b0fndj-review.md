@@ -1,4 +1,5 @@
 ---
+
 title: "Tone Body Wash"
 seo_title: "Tone Body Wash Review: Verdict | TSV"
 meta_description: "Our full tone body wash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FNDJCWMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91P+tuHLrvL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a body wash at this price point needs to deliver: it can't just clean you. It has to make you *feel* like you're using something better than the drugstore standby. Tone Body Wash, with its 4.8-star average across 240 ratings, appears to clear that bar. But does the experience justify the luxury price tag? I've dug through the reviews, the ingredient list, and the real-world complaints to give you the full picture.

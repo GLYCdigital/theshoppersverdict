@@ -1,4 +1,5 @@
 ---
+
 title: "Bonsai Tools Set with Wood Box 12PCS Heavy Duty Bonsai Tree"
 seo_title: "Bonsai Tools Set 12PC Review: Heavy Duty Kit Worth It?"
 meta_description: "Honest review of the 12PC Bonsai Tools Set with wood box. Is this heavy-duty kit worth your money? We break down quality, value, and drawbacks."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09CZF9VPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uu2Aw17FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 12-piece kit includes essential tools (concave cutter, knob cutter, wire cutters) plus extras like a rake and brush — no need to buy pieces separately"
   - "Heavy-duty carbon steel blades hold an edge through repeated use on junipers and maples"
   - "Solid wooden box with magnetic latch keeps tools organized and protects edges during storage"
-cons:
+cons: 
   - "Tools arrive with a protective oil coating that requires thorough wiping before first use — skip this and you'll get grime on your hands"
   - "Scissors and smaller shears feel less robust than the main cutters; they're fine for foliage but not for thicker branches"
+
 ---
 
 There's a moment every bonsai enthusiast hits: you're staring at a branch that needs a clean, concave cut, and you're holding a pair of kitchen scissors. That's the moment you start shopping for a real tool set. This 12-piece kit from the heavy-duty line promises to end that compromise. Here's what you actually get.

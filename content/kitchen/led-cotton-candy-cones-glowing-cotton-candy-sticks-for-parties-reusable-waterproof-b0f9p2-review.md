@@ -1,4 +1,5 @@
 ---
+
 title: "LED Cotton Candy Cones - Glowing Cotton Candy Sticks for Par"
 seo_title: "LED Cotton Candy Cones - Glowing Cotton Candy Stic Review"
 meta_description: "Our full led cotton candy cones - glowing cotton candy sticks for par review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9P2H3TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eETNLwolL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The glow-up your dessert table didn't know it needed**

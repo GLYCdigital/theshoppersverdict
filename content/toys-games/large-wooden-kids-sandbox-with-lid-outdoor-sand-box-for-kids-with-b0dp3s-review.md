@@ -1,4 +1,5 @@
 ---
+
 title: "Large Wooden Kids Sandbox with Lid â€“ Outdoor Sand Box for "
 seo_title: "Large Wooden Kids Sandbox with Lid â€“ Outdoor San Review"
 meta_description: "Our full large wooden kids sandbox with lid â€“ outdoor sand box for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DP3S1WQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C76mgI31L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $200 sandbox question: Is this cedar box worth it, or are you paying for a brand name?**

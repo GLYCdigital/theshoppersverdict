@@ -1,4 +1,5 @@
 ---
+
 title: "VIWOODS AiPaper Carta 1300 AI E Ink Tablet, 10.65'' 300PPI E"
 seo_title: "VIWOODS AiPaper Carta 1300 AI E Ink Tablet, 10.65' Review"
 meta_description: "Our full viwoods aipaper carta 1300 ai e ink tablet, 10.65'' 300ppi e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DZ1TJYLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Cn0FWlJYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The E Ink tablet that wants to replace your notebook — and almost does

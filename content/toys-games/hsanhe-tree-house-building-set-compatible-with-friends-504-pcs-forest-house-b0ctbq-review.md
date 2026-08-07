@@ -1,4 +1,5 @@
 ---
+
 title: "HSANHE Tree House Building Set Compatible with Friends, 504 inch"
 seo_title: "HSANHE Tree House Building Set Review: 504-Piece Compatible Set"
 meta_description: "HSANHE Tree House Building Set (504 pcs) review: compatible with Friends, 4.3/5 stars. Build quality, part accuracy, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CTBQGFCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mkv9-S+fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "504 pieces deliver a genuinely substantial treehouse build — roughly 2-3 hours of focused building for a patient adult or older kid"
   - "Brick compatibility with mainstream building sets is solid; clutch power holds firm without being frustratingly tight"
   - "Includes 3 mini-doll figures and enough interior detail (bunk beds, kitchenette, balcony) to justify the price point"
-cons:
+cons: 
   - "Instructions are printed small and occasionally ambiguous at step transitions — expect to backtrack a few times"
   - "Some pieces arrive with visible mold marks and minor color inconsistency, especially on the brown leaf elements"
   - "No numbered bags — you'll be sorting 504 loose pieces before you can start building, which adds 20-30 minutes of prep"
+
 ---
 
 **Is this 504-piece treehouse a smart buy for Friends fans on a budget — or a frustrating knockoff? Let's break it down.**

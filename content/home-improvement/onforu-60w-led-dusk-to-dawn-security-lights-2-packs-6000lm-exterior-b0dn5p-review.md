@@ -1,4 +1,5 @@
 ---
+
 title: "Onforu 60W LED Dusk to Dawn Security Lights, 2 Packs 6000LM "
 seo_title: "Onforu 60W LED Dusk to Dawn Security Lights, 2 Pac Review"
 meta_description: "Our full onforu 60w led dusk to dawn security lights, 2 packs 6000lm  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DN5PXG9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611SlkaLpuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're tired of fumbling for a light switch every evening or paying an electrician to rewire your existing floodlights, the Onforu 60W LED Dusk to Dawn Security Lights deserve a hard look.** These are not your average $20 builder-grade fixtures. At 3000 lumens per unit (6000 for the pair), they're genuinely bright enough to wash a two-car driveway or a 40-foot backyard in crisp white light — and they do it automatically, every single night, without a timer or smart home hub.

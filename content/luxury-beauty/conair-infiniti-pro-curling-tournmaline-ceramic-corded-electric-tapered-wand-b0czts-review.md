@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR Infiniti Pro Curling Tourmnaline Ceramic Corded Elect"
 seo_title: "CONAIR Infiniti Pro Curling Wand Review: 4.6/5 Verdict"
 meta_description: "CONAIR Infiniti Pro Tourmaline Ceramic curling wand review: heat settings, taper design, frizz control. Real buyer feedback on this 4.5-star styler."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZTSJ77D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51w0E6CgxUS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual voltage 110-240V with 30 heat settings across a 200°F–430°F range"
   - "Tapered 1-inch barrel creates natural, varied curl sizes without a clamp mark"
   - "Tourmaline ceramic coating heats evenly and seals cuticles for less frizz"
-cons:
+cons: 
   - "No heat-resistant glove included — burns are a recurring complaint"
   - "Cool tip is short; easy to graze your scalp on tighter sections"
   - "Swivel cord tangles more than expected for a 360° design"
+
 ---
 
 If you've ever watched a stylist spin a tapered wand through a client's hair and produce those effortless, lived-in waves, you know the drill: it's the tool, not just the technique. The CONAIR Infiniti Pro Tourmaline Ceramic Corded Electric Tapered Wand is that tool — at least for the $30–40 range. But "good for the price" doesn't mean flawless. Here's the full picture after digging through 225 ratings and the mechanics on paper.

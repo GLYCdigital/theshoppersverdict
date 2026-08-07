@@ -1,4 +1,5 @@
 ---
+
 title: "Broan-NuTone BP90 Replacement Grille For 688 Fan, White, 9 I"
 seo_title: "Broan-NuTone BP90 Grille Review: Perfect Fit for 688 Fans"
 meta_description: "Honest Broan-NuTone BP90 replacement grille review. Does it fit the 688 fan? We cover fit, finish, and installation for this 9-inch white grille."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8SSFXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p1dT4wvdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM match for Broan 688 fans — no cutting, shimming, or creative modification needed"
   - "Durable ABS plastic that resists yellowing better than older grilles"
   - "Tool-free removal via spring clips makes cleaning the fan blades genuinely easy"
-cons:
+cons: 
   - "Glossy white finish won't perfectly match flat or semi-gloss ceiling paint — expect a slight sheen difference"
   - "Spring clips require a firm tug to release; some buyers report needing to pry gently with a flathead screwdriver"
+
 ---
 
 Let's be honest: you're not buying a replacement grille because you're excited. You're buying it because your old one is cracked, yellowed, or missing entirely. The question is whether the Broan-NuTone BP90 makes that unglamorous task painless, or whether it becomes another frustrating weekend project.

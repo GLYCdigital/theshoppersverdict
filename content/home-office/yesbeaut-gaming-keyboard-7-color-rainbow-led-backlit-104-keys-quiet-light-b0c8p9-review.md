@@ -1,4 +1,5 @@
 ---
+
 title: "yesbeaut Gaming Keyboard, 7-Color Rainbow LED Backlit, 104 K"
 seo_title: "yesbeaut Gaming Keyboard, 7-Color Rainbow LED Back Review"
 meta_description: "Our full yesbeaut gaming keyboard, 7-color rainbow led backlit, 104 k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C8P9N7G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k3jp1rZsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $25 keyboard that doesn't embarrass you in the office or at 2 AM gaming sessions**

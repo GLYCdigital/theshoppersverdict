@@ -1,4 +1,5 @@
 ---
+
 title: "Kenneth Cole Reaction All Over Body Spray for Men, Notes of "
 seo_title: "Kenneth Cole Reaction All Over Body Spray for Men, Review"
 meta_description: "Our full kenneth cole reaction all over body spray for men, notes of  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00RZUMW8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IhL+fmMBL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Kenneth Cole Reaction All Over Body Spray: The $20 Scent That Punches Above Its Weight

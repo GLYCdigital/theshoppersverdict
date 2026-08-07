@@ -1,4 +1,5 @@
 ---
+
 title: "WETT Master Impact Hex Bit Socket Set, Hex Driver Socket Set"
 seo_title: "WETT Master Impact Hex Bit Socket Set, Hex Driver  Review"
 meta_description: "Our full wett master impact hex bit socket set, hex driver socket set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW2WPT2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719OqE2Q9GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stripped a rounded-off hex bolt on a caliper bracket, you know the frustration. Most hex bit sockets fail because the steel is too soft and the edges roll under torque. The WETT Master set doesn't do that. It's a 10-piece 1/4" drive set built from S2 steel — the same alloy used in premium screwdrivers — with a black phosphate coating that resists corrosion and adds grip inside the hex cavity.

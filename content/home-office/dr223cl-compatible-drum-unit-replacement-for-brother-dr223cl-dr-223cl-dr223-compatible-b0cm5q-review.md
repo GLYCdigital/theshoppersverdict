@@ -1,4 +1,5 @@
 ---
+
 title: "DR223CL Compatible Drum Unit Replacement for Brother DR223CL"
 seo_title: "DR223CL Drum Unit Review: Compatible Brother Replacement"
 meta_description: "DR223CL compatible drum unit review: 15,000-page yield, crisp output, easy install. Does this $40 alternative beat Brother OEM? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CM5QTGYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YcKClxWLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Costs roughly 60-70% less than Brother's OEM DR223CL drum, with identical 15,000-page rated yield"
   - "Tool-free installation — snaps into HL-L3210CW, HL-L3230CDW, HL-L3270CDW, and MFC-L3710CW series in under 5 minutes"
   - "Consistent print quality across 200+ ratings, with most users reporting no banding or streaking even on photo paper"
-cons:
+cons: 
   - "No reset chip included — some users report needing to manually reset the drum counter via printer menu"
   - "Third-party construction feels slightly lighter than OEM, with a few reports of the green drum roller cover being less snug"
   - "Compatibility is limited to the DR223CL family — won't work with older Brother models using DR420 or DR630 drums"
+
 ---
 
 If your Brother color laser has been flashing that dreaded "Replace Drum" message, you're staring down a choice: pay $90+ for the Brother OEM DR223CL, or roll the dice on this compatible unit that typically runs $35–45. After digging through 210 ratings and the technical specs, here's the honest breakdown.

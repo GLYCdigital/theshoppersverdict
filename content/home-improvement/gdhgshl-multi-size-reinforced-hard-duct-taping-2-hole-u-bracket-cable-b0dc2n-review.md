@@ -1,4 +1,5 @@
 ---
+
 title: "GDHGSHL Multi-Size Reinforced Hard Duct Taping, 2 Hole U-Bra"
 seo_title: "GDHGSHL 2-Hole U-Bracket Duct Taping Review: Worth It?"
 meta_description: "Honest GDHGSHL multi-size reinforced hard duct taping U-bracket review. Build quality, sizing, real-world cable management performance, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DC2NF73Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WQU0ipBeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced steel construction with a rigid U-channel that won't crush or flex under bundled cable weight"
   - "Multi-size design accommodates wire bundles from 1/4-inch to nearly 1 inch without needing separate kits"
   - "Pre-drilled 2-hole flange pattern matches standard stud spacing for quick drywall or joist mounting"
-cons:
+cons: 
   - "Sharp edges on the cut ends require deburring or gloves during installation"
   - "Included screws are short for thick drywall or paneling — plan to swap them out"
   - "No adhesive backing; this is strictly a screw-mount product, so it won't work on tile or glass"
+
 ---
 
 Let me save you twenty minutes of research. You're looking at a cable management bracket that does exactly one thing — mounts and routes wires along studs, joists, or under desks — and it does that one thing well. But the GDHGSHL 2-Hole U-Bracket has a few quirks worth knowing before you add it to your cart.

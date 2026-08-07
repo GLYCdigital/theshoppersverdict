@@ -1,4 +1,5 @@
 ---
+
 title: "Catalyst 1300-48ãƒ"
 seo_title: "Catalyst 1300-48ãƒ Review: Worth It? (2026)"
 meta_description: "Catalyst 1300-48ãƒ review: Real specs, performance, and honest downsides. See what 225 Amazon buyers say before you spend. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQ7DBGQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pt-4GJxPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "48-port capacity in a compact 1U chassis — genuinely space-saving for network closets"
   - "Fanless operation keeps noise under 30dB, verified by multiple long-term owner reports"
   - "Plug-and-play setup with zero configuration required; DHCP works out of the box"
-cons:
+cons: 
   - "No PoE support — powered devices like IP cameras need separate injectors or a different switch"
   - "Plastic chassis feels less robust than metal alternatives at a similar price point"
   - "LED indicators are bright enough to light up a small server room — consider light-blocking panels"
+
 ---
 
 **The Catalyst 1300-48ãƒ isn't the switch you buy because it's exciting. It's the switch you buy because it works — quietly, reliably, and without drama.**

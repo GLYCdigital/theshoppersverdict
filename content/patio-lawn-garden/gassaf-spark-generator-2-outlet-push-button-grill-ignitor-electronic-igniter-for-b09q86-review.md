@@ -1,24 +1,26 @@
 ---
+
 title: "GasSaf Spark Generator 2 Outlet Push Button Grill Ignitor El"
 seo_title: "GasSaf 2-Outlet Grill Ignitor Review: Reliable Spark?"
 meta_description: "GasSaf Spark Generator 2 Outlet Push Button Grill Ignitor review: dual ignition, easy install, 4.6★. See pros, cons, and who should buy."
 slug: "gassaf-spark-generator-2-outlet-push-button-grill-ignitor-electronic-igniter-for-b09q86-review"
 image_alt: "GasSaf 2-outlet push button grill ignitor with spark generator module and wiring"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Q86W9HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pZVikGicL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Dual outlets let you fire two burners from one button — no fumbling with separate igniters."  
   - "Compact module fits most grill control panels; wiring is clearly labeled and color-coded."  
   - "Weather-resistant construction holds up in humid climates without spark failure."  
-cons:  
+cons: 
   - "Requires a 1.5V AA battery (not included) — easy to forget until your grill won't light."  
   - "No ground wire included; on some metal grills, you may need to add your own for consistent sparks."  
   - "Button feel is stiff initially; needs a firm press, not a tap."
+
 ---
 
 If your grill's igniter died mid-season, you've got two choices: pay a repair tech $80 or replace the part yourself in 15 minutes. The **GasSaf Spark Generator 2 Outlet Push Button Grill Ignitor** makes the second option genuinely easy — and with a 4.6-star average across 229 ratings, it's clearly working for most backyard cooks.  

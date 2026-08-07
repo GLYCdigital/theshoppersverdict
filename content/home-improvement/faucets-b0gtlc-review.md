@@ -1,4 +1,5 @@
 ---
+
 title: "Faucets"
 seo_title: "Faucet Review: Honest Buyer's Guide for Kitchen & Bath (2026)"
 meta_description: "Our faucet review covers build quality, installation ease, and real buyer feedback. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTLCJZNG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rl8q7m8ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Solid brass construction with ceramic disc cartridge — feels substantial, not cheap plastic
   - Pull-down sprayer with two modes (stream and spray) that actually switches cleanly
   - 360-degree swivel spout makes it practical for double-basin sinks
-cons:
+cons: 
   - Installation instructions are sparse — expect to watch a YouTube video if you're not handy
   - Finish shows water spots quickly on darker colors; plan to wipe down regularly
   - No deck plate included, so you'll need to buy one separately if replacing a 3-hole setup
+
 ---
 
 Buying a faucet online is a gamble. You can't feel the weight, test the lever action, or check if the sprayer actually retracts. So when a no-name faucet shows up with a 4.4-star average across 220 ratings, I pay attention. Here's what you need to know before you add it to your cart.

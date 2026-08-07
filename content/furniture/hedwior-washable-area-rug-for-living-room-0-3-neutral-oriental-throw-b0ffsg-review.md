@@ -1,7 +1,8 @@
 ---
-title: "Hedwior Washable Area Rug for Living Room, 0.3\" Neutral Orie"
-seo_title: "Hedwior Washable Area Rug for Living Room, 0.3\" Ne Review"
-meta_description: "Our full hedwior washable area rug for living room, 0.3\" neutral orie review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Hedwior Washable Area Rug for Living Room, 0.3\ Neutral Orie"
+seo_title: "Hedwior Washable Area Rug for Living Room, 0.3\ Ne Review"
+meta_description: "Our full hedwior washable area rug for living room, 0.3\ neutral orie review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hedwior-washable-area-rug-for-living-room-0-3-neutral-oriental-throw-b0ffsg-review"
 image_alt: "Hedwior Washable Area Rug for Living Room, 0.3 Neutral Oriental Throw Carpet with Non-Slip Rubber Backing Noticeable Cus"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFSGT1D3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N3Nk78NML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about the 0.3-inch rug category: most of them are flimsy. They slide, they fray, and the “washable” claim usually dies after two cycles in the machine. The Hedwior Washable Area Rug is trying to be the exception, and for the most part, it actually pulls it off. But it comes with tradeoffs you need to know before you hit “Add to Cart.”

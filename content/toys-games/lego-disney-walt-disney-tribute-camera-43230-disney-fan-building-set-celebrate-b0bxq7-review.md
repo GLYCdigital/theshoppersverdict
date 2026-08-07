@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Disney Walt Disney Tribute Camera 43230 Disney Fan Buil"
 seo_title: "Lego Disney Walt Disney Tribute Camera 43230 Disne Review"
 meta_description: "Our full lego disney walt disney tribute camera 43230 disney fan buil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BXQ7LGB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81goEw6klKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wished you could own a piece of animation history, this is the closest LEGO has come to bottling it. The Walt Disney Tribute Camera (43230) isn't just another display set — it's a love letter to the man who started it all, wrapped in 972 pieces of nostalgia.

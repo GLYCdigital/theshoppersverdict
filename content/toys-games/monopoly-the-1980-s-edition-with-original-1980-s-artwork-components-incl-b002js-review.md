@@ -1,4 +1,5 @@
 ---
+
 title: "Monopoly The 1980's Edition with Original 1980's Artwork & C"
 seo_title: "Monopoly The 1980's Edition with Original 1980's A Review"
 meta_description: "Our full monopoly the 1980's edition with original 1980's artwork & c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002JSM3KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814clgo532L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you grew up sliding the thimble across the board while "Take On Me" played in the background, Monopoly's 1980s Edition isn't just a board game — it's a time capsule. But nostalgia cuts both ways. Here's what you're actually getting before you drop cash on memory lane.

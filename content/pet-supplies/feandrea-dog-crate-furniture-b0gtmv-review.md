@@ -1,4 +1,5 @@
 ---
+
 title: "Feandrea Dog Crate Furniture"
 seo_title: "Feandrea Dog Crate Furniture Review: Honest 2026 Verdict"
 meta_description: "Feandrea dog crate furniture review: real buyer feedback on durability, sizing, and assembly. Is this 4.2-star crate worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTMV812H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q0rVNUTLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Doubles as a functional side table with a flat, weight-bearing top — not just a crate in disguise"
   - "Tool-free assembly with cam locks; most buyers report 15–20 minutes to build"
   - "Removable, washable fleece crate cover included — saves you $25–40 on a separate purchase"
-cons:
+cons: 
   - "Wood composite panels scratch easily if your dog paws at the door frame"
   - "Assembly holes occasionally misalign on the door hinges; requires patience, not force"
+
 ---
 
 The Feandrea Dog Crate Furniture sits in a crowded category: dog crates that pretend to be furniture. Most fail because they're obviously cages with a tabletop slapped on. This one gets closer than most, but it's not without compromises. Here's what actually matters if you're considering it.

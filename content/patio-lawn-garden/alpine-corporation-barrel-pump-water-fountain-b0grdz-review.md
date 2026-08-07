@@ -1,4 +1,5 @@
 ---
+
 title: "Alpine Corporation Barrel Pump Water Fountain"
 seo_title: "Alpine Barrel Pump Fountain Review: Worth It? (2026)"
 meta_description: "Honest Alpine Corporation Barrel Pump Water Fountain review: build quality, pump performance, noise level, and who should buy it. Real buyer insights included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRDZC2Q1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mFnEfNavL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine resin construction with wood-grain finish that convincingly mimics aged oak barrels, not hollow plastic"
   - "Three-tier cascade design creates a genuine water feature sound without the high-pitched hum of cheaper submersible pumps"
   - "Weighs roughly 12 pounds empty, meaning it won't tip over in moderate wind or when bumped by pets"
-cons:
+cons: 
   - "Pump flow rate is not adjustable, so you're locked into whatever volume Alpine set at the factory"
   - "Resin surface scratches if you drag it across concrete — always lift, never slide"
   - "No built-in LED lighting, which limits evening ambiance compared to similarly priced fountains"
+
 ---
 
 **The Short Version:** If you want the look and sound of a real water feature without the plumbing hassle of an in-ground pond, the Alpine Corporation Barrel Pump Fountain delivers. It's not perfect — the fixed pump flow and lack of lighting hold it back — but at this price point, it punches well above its weight class for patio and deck use.

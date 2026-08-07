@@ -1,4 +1,5 @@
 ---
+
 title: "Aquatec 6800 Booster Pump Kit for up to 100 GPD Home RO Reve"
 seo_title: "Aquatec 6800 Booster Pump Kit Review: Boost RO Pressure"
 meta_description: "Aquatec 6800 booster pump kit review: Does it fix slow RO systems? Real performance data, installation tips, and honest tradeoffs for 100 GPD home units."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07MXR284B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tYR00oc2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Draws only 1.2 amps at 24V DC — efficient enough to run continuously without spiking your electric bill"
   - "Compact footprint (about 5 x 3 inches) mounts easily to wood or metal cabinets with included brackets"
   - "Auto shutoff pressure switch integrated — stops the pump at 80 psi so you don't blow out your RO membrane"
-cons:
+cons: 
   - "Does NOT include a power supply — you'll need a 24V DC adapter or the Aquatec PS-1 separately, which catches many first-time buyers off guard"
   - "Flow rate drops noticeably with 75+ GPD membranes; this kit is really optimized for the 50 GPD sweet spot"
+
 ---
 
 If your reverse osmosis system takes forever to fill a glass of water, or your pressure tank sits at a pathetic 5 psi, you already know the pain. The Aquatec 6800 booster pump kit is the most common fix for this — and with 215 ratings averaging 4.3 stars, it's clearly doing something right. But it's not a magic box. Here's what you actually need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lepro Small Desk Lamp with Clamp, LED Reading Lamps with 450LM, 3 Color Modes 10 Brightness, Dimmable USB Clip on Desk Light with Gooseneck Swing Arm for Nail, Home Office and Dorm (White)"
 seo_title: "Lepro Clamp Desk Lamp Review: 450LM LED, USB, Gooseneck"
 meta_description: "Lepro clamp desk lamp review: 450LM brightness, 3 color modes, 10 dim levels, USB powered. Read honest pros, cons, and who should buy this $16 LED light."
@@ -11,14 +12,15 @@ review_count: 9694
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XF3HRGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614aNUDoCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "450 lumens from a 5W LED — genuinely bright enough for detailed work like nail art or soldering, not a decorative accent light"
   - "Clamp opens to 2 inches and has protective pads — fits desks up to 1.9 inches thick without scratching surfaces"
   - "Memory function saves your last color mode and brightness setting after unplugging"
-cons:
+cons: 
   - "Gooseneck arm is fully metal but only 11.8 inches long — can't reach across wide desks or position light behind a large monitor"
   - "Touch controls are sensitive; brushing the base while reaching for a pen can cycle through settings accidentally"
   - "USB cable is permanently attached at 4.9 feet — no detachable cord if you need a longer reach or a replacement"
+
 ---
 
 **The $16 Desk Light That Punches Way Above Its Weight Class**

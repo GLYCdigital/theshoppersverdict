@@ -1,4 +1,5 @@
 ---
+
 title: "DV42H5000EW/A3 DV42H5200EP/A3 DVE50R5400V/A3 Heating Element"
 seo_title: "Samsung Dryer Heating Element Review: DV42H5000EW/A3 inch"
 meta_description: "Honest review of the DV42H5000EW/A3 Samsung dryer heating element. Covers fit, install difficulty, heat output, and durability. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09X9V2MR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81D2CDIPv9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style replacement for Samsung DV42H5000EW/A3, DV42H5200EP/A3, and DVE50R5400V/A3 dryers — bolts straight in without modification"
   - "Complete assembly includes both heating coils and thermal fuse, saving you a second parts order"
   - "Consistent 240V heat output restored — most buyers report dry clothes in a single cycle again"
-cons:
+cons: 
   - "Some units arrived with bent mounting brackets from shipping — inspect before installation"
   - "The included thermal fuse is a generic replacement, not Samsung OEM; a few buyers reported premature failure"
+
 ---
 
 If your Samsung dryer is tumbling clothes for two hours and still handing back damp laundry, the culprit is almost always the heating element. The DV42H5000EW/A3 assembly is the part that fixes it — and after digging through 204 ratings, here's the real story on whether this $40-ish replacement actually holds up.

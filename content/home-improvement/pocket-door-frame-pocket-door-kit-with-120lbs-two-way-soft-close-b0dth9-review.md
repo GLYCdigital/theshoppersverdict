@@ -1,4 +1,5 @@
 ---
+
 title: "Pocket Door Frame,Pocket Door Kit with 120LBS Two-Way Soft-C"
 seo_title: "Pocket Door Frame,Pocket Door Kit with 120LBS Two- Review"
 meta_description: "Our full pocket door frame,pocket door kit with 120lbs two-way soft-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTH9SDFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61duefRnuOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Installing a pocket door is one of those jobs that separates weekend DIYers from folks who've done it before. The framing alone — the split studs, the header, the rough opening math — is where most projects go sideways. This pre-assembled pocket door frame kit from the manufacturer with the B0DTH9SDFH designation aims to remove that pain point. And for the most part, it does exactly that.

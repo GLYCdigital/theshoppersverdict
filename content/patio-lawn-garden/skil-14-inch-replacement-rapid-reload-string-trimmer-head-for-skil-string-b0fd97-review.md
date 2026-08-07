@@ -1,4 +1,5 @@
 ---
+
 title: "SKIL 14-Inch Replacement Rapid Reload String Trimmer Head fo"
 seo_title: "SKIL 14-Inch Replacement Rapid Reload String Trimm Review"
 meta_description: "Our full skil 14-inch replacement rapid reload string trimmer head fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD97T9V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BItOrXUhL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you own a SKIL cordless trimmer, this is the replacement head you should be looking at — but let's talk about what the 4.6-star average actually means before you click buy.**

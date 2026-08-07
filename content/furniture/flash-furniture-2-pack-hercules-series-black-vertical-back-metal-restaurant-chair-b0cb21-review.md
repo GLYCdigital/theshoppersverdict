@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture 2 Pack Hercules Series Black Vertical Back M"
 seo_title: "Flash Furniture Hercules Chair Review: 2-Pack Metal Dining"
 meta_description: "Flash Furniture Hercules 2-pack vertical back metal chair review: sturdy stackable design, real weight capacity, honest downsides. Is it right for your space?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CB21SR7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a-OuvKnzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade welded steel frame with 400 lb weight capacity — rare at this price point"
   - "Vertical back slats provide lumbar support that flat-back metal chairs simply lack"
   - "Stackable design with floor glides that protect tile and hardwood from scratches"
-cons:
+cons: 
   - "Black paint chips if chairs are scraped together during stacking — touch-up paint recommended"
   - "No padding on seat or back; uncomfortable for sitting longer than 60–90 minutes"
   - "Assembly requires a wrench for the backrest bolts; not fully assembled out of the box"
+
 ---
 
 You see these chairs in every diner, church basement, and school cafeteria for a reason. They survive. The Flash Furniture Hercules Series 2-pack brings that commercial-grade durability home for roughly the cost of a single nice dining chair — but comfort is a different conversation entirely. Here’s what you need to know before you click buy.

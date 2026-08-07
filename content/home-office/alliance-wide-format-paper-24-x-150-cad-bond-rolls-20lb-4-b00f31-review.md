@@ -1,4 +1,5 @@
 ---
+
 title: "Alliance Wide Format Paper 24 inch  x 150' CAD Bond Rolls (20lb |"
 seo_title: "Alliance 24 inch  x 150' CAD Bond Paper Review (20lb) | 2026 inch"
 meta_description: "Honest Alliance 24 inch  x 150' CAD bond roll review: 20lb brightness, plotter compatibility, smudge resistance, and cost per sheet vs. HP rivals."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00F31IYDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Io5ufrs5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Bright 92.5 brightness rating yields crisp, high-contrast linework without ghosting on 20lb stock"
   - "Consistent 24-inch width with tight core tolerance — no tracking drift on HP, Canon, or Epson plotters"
   - "150-foot roll length delivers roughly 30% more linear footage than standard 100-foot rolls for the same price tier"
-cons:
+cons: 
   - "20lb weight means slightly translucent — double-sided printing shows bleed-through on dense hatches"
   - "Not coated for inkjet — smudges if handled immediately after printing; needs a 30-60 second dry time"
+
 ---
 
 ## The 150-foot workhorse your plotter has been begging for

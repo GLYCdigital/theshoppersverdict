@@ -1,4 +1,5 @@
 ---
+
 title: "ThinkFun Gravity Maze Marble Run Brain Game and STEM Toy for"
 seo_title: "ThinkFun Gravity Maze Marble Run Brain Game and ST Review"
 meta_description: "Our full thinkfun gravity maze marble run brain game and stem toy for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B15JR6J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oL7j+mYmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested dozens of STEM toys, and most are either too easy to be engaging or too abstract to hold a kid's attention. The ThinkFun Gravity Maze sits in a rare sweet spot — it's a marble run, a logic puzzle, and a spatial reasoning workout all in one box. At $37.85 with 225 ratings averaging 4.5 stars, it's one of the most consistently praised brain games in its category. Here's the honest breakdown.

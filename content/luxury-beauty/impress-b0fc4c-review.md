@@ -1,4 +1,5 @@
 ---
+
 title: "imPRESS"
 seo_title: "imPRESS Review: Verdict | TSV"
 meta_description: "Our full impress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FC4CVN7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F2pjl5GCL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # imPRESS Review: Luxury Beauty That Actually Delivers?

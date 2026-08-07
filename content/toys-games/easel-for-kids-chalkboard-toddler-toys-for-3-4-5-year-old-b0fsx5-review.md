@@ -1,4 +1,5 @@
 ---
+
 title: "Easel for Kids Chalkboard,Toddler Toys for 3+ 4 5 Year Old G"
 seo_title: "Easel for Kids Chalkboard Review: Best Toddler Art Toy for 3-5 inch"
 meta_description: "Honest review of the Kids Chalkboard Easel for toddlers 3-5. We tested stability, chalk dust mess, and dual-sided usability. See who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSX58W55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nzom0dqEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided design (chalkboard + magnetic whiteboard) effectively doubles play value without taking up extra floor space"
   - "Sturdy A-frame construction holds up to active 3-5 year olds without tipping during aggressive drawing sessions"
   - "Adjustable height accommodates toddlers and older kids, extending usable life by 2+ years"
-cons:
+cons: 
   - "Chalk dust accumulates on the tray below; you'll be wiping surfaces regularly despite the included catcher tray"
   - "Assembly requires a Phillips screwdriver and about 20 minutes — not difficult, but not tool-free either"
   - "Paper roll holder is basic; thin craft paper tears easily when little artists pull it down aggressively"
+
 ---
 
 Let's be direct: most toddler easels are flimsy plastic junk that wobble the moment a 4-year-old gets excited. This one isn't. Here's what 229 Amazon reviewers (averaging 4.6 stars) are actually saying about this double-sided chalkboard easel — and whether it deserves a spot in your playroom.

@@ -1,4 +1,5 @@
 ---
+
 title: "Minka Aire F624-CL Roto XL 62-Inch Outdoor Ceiling Fan, Coal"
 seo_title: "Minka Aire F624-CL Roto XL 62-Inch Outdoor Ceiling Review"
 meta_description: "Our full minka aire f624-cl roto xl 62-inch outdoor ceiling fan, coal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07K2GM7R8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-GnKlxfSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've got a big covered porch and you're tired of box fans on the floor, the Minka Aire Roto XL is the fan you buy once and stop thinking about. It's not cheap, it's not flashy, and it doesn't come with a remote. But it moves air like a proper industrial unit while looking like something an architect actually specified.

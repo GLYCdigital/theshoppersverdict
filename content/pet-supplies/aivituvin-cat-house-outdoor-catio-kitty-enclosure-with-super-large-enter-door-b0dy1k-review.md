@@ -1,4 +1,5 @@
 ---
+
 title: "Aivituvin Cat House Outdoor Catio Kitty Enclosure with Super"
 seo_title: "Aivituvin Outdoor Catio Review: Spacious Kitty Enclosure (2026)"
 meta_description: "Honest Aivituvin Cat House Outdoor Catio review: real buyer feedback, build quality, sizing, and whether this 4.3-star kitty enclosure is worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY1K1JJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J3Zm9CYpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid fir wood frame with weather-resistant coating — holds up in rain and direct sun better than cheap wire cages"
   - "Large entry door (roughly 18×22 inches) fits even bigger cat trees and lets multiple cats pass without bottlenecking"
   - "Mesh panels are welded steel, not chicken wire — claws won't shred through in a week"
-cons:
+cons: 
   - "Assembly is a genuine 2–3 hour project; the included instructions are mostly diagrams with minimal written guidance"
   - "No floor panel — you'll want to place it on concrete, pavers, or add a tarp underneath or determined diggers will escape"
+
 ---
 
 **Frontmatter duplicated cons — removing duplicate before final output.**

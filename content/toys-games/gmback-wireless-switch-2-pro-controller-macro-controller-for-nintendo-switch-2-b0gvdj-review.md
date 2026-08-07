@@ -1,4 +1,5 @@
 ---
+
 title: "GMBACK Wireless Switch 2 Pro Controller, Macro Controller fo"
 seo_title: "GMBACK Switch 2 Pro Controller Review: Macro Buttons & Battery Life"
 meta_description: "Honest GMBACK Wireless Switch 2 Pro Controller review: macro programming, battery life, ergonomics, and where it beats the official Pro. Worth it?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GVDJ5XWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FYWfrU5yL._SL1500_.jpg"
-pros:
+pros: 
   - "Two programmable macro buttons on the back let you map complex combos to a single press — a genuine competitive edge in fighting games and action RPGs"
   - "Full gyro motion controls and HD rumble work wirelessly in both Switch and Switch 2 modes, matching the official Pro controller's core feature set"
   - "Remappable rear paddles and turbo function are built in without requiring any app or PC software — everything is set on the controller itself"
-cons:
+cons: 
   - "Macro setup requires holding the M button and entering button sequences manually — there's no visual feedback, so you'll need the manual handy for the first few attempts"
   - "Battery life around 15 hours is noticeably shorter than the official Pro's 40-hour claim — heavy players will be charging this every few days"
   - "The USB-C cable included is only 3 feet long and doesn't support high-speed data — you'll want your own cable for PC play"
+
 ---
 
 Let's be direct: you're here because you want a Switch 2 controller that doesn't cost $75 and maybe gives you an edge in competitive play. The GMBACK Wireless Switch 2 Pro Controller sits in that tempting middle ground — it's not a cheap third-party gamble, and it's not the official Nintendo Pro Controller either. After digging through 204 buyer ratings and testing the feature list against what actually matters in daily play, here's what you need to know.

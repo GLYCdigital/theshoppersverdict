@@ -1,4 +1,5 @@
 ---
+
 title: "Automatic Cat Litter Box Self Cleaning,Smart Litter Box with"
 seo_title: "Automatic Cat Litter Box Self Cleaning Review (2026)"
 meta_description: "Honest review of the Automatic Cat Litter Box Self Cleaning with 10 safety features. See real pros, cons, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F3D4XMXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gBqHXbAjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "10 separate safety sensors including weight detection and anti-pinch protection"
   - "Quieter motor than comparable units at measured 35dB during cleaning cycle"
   - "App tracks litter usage trends and sends low-litter refill alerts"
-cons:
+cons: 
   - "Compatibility issues with lightweight cats under 5.5 lbs — sensor may not trigger"
   - "App connectivity drops intermittently on 2.4GHz networks per multiple reviews"
   - "Replacement litter trays run $25-30, making ongoing costs a real consideration"
+
 ---
 
 **The 3.6-star truth about this self-cleaning litter box**

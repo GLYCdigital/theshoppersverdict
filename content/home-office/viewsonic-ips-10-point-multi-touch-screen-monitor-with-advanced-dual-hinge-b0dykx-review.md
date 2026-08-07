@@ -1,4 +1,5 @@
 ---
+
 title: "ViewSonic IPS 10-Point Multi Touch Screen Monitor with Advan"
 seo_title: "ViewSonic IPS 10-Point Multi Touch Screen Monitor  Review"
 meta_description: "Our full viewsonic ips 10-point multi touch screen monitor with advan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYKX1GPY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MyPAqAWbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ViewSonic IPS 10-Point Multi-Touch Monitor: A Touchscreen That Actually Earns Its Place on Your Desk**

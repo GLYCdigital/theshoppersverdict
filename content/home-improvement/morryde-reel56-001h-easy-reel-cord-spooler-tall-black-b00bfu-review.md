@@ -1,4 +1,5 @@
 ---
+
 title: "MORryde REEL56-001H Easy Reel Cord Spooler - Tall,Black"
 seo_title: "MORryde REEL56-001H Easy Reel Cord Spooler - Tall, Review"
 meta_description: "Our full morryde reel56-001h easy reel cord spooler - tall,black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00BFU2G6A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GzRQWskCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a 100-foot extension cord back into a tangled heap after a day of yard work, the MORryde Easy Reel is the $40-ish solution that makes you wonder why you didn't buy one sooner. This isn't a fancy motorized retractor — it's a simple, wall-mounted spool that does one thing exceptionally well: it keeps your cords organized and ready to grab.

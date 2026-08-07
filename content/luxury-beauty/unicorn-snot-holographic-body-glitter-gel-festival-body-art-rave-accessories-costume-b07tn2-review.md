@@ -1,4 +1,5 @@
 ---
+
 title: "Unicorn Snot Holographic Body Glitter Gel - Festival Body Ar"
 seo_title: "Unicorn Snot Holographic Body Glitter Gel - Festiv Review"
 meta_description: "Our full unicorn snot holographic body glitter gel - festival body ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TN2FP5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-B2ndE4tL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've ever had glitter glue dry stiff, crack, or refuse to come off without a mineral oil bath, Unicorn Snot is the fix. It's a clear gel base loaded with fine holographic particles that dries flexible and — here's the kicker — washes off with plain soap and water.

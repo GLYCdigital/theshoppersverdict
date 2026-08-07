@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Shampoo & Conditioner Set, Deep Moisturizing wi"
 seo_title: "SheaMoisture Shampoo & Conditioner Set, Deep Moist Review"
 meta_description: "Our full sheamoisture shampoo & conditioner set, deep moisturizing wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00HRQQNCO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RBcC29jVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **SheaMoisture Deep Moisturizing Shampoo & Conditioner Set — The Real Deal for Thirsty Hair?**

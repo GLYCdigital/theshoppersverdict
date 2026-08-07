@@ -1,4 +1,5 @@
 ---
+
 title: "Broan-NuTone QTXE110 Ventilation Fan with Hanger Bars"
 seo_title: "Broan-NuTone QTXE110 Review: Quiet, Powerful Bath Fan"
 meta_description: "Honest Broan-NuTone QTXE110 ventilation fan review: 110 CFM, quiet 1.5 sones, hanger bar installation. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSCMQM4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iAgY51nPL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "110 CFM airflow rating is genuinely quiet at 1.5 sones — you can hold a conversation under it"
   - "Hanger bars included and adjustable up to 24 inches, making new-construction or retrofit installs significantly easier"
   - "Energy Star certified with a brushless DC motor that sips power — roughly 30% less electricity than comparable AC units"
-cons:
+cons: 
   - "The 6-inch duct requirement limits replacement options if your existing rough-in is 4-inch — you'll need an adapter"
   - "Grille is basic white plastic; it gets the job done but won't win design awards in a high-end bathroom"
+
 ---
 
 Most bath fans are an afterthought — noisy, weak, and forgotten until they rattle. The Broan-NuTone QTXE110 flips that script. With a 1.5-sone noise rating (roughly the sound of a quiet library) and 110 CFM of actual airflow, this is the fan you install once and never think about again. And that's exactly the point.

@@ -1,4 +1,5 @@
 ---
+
 title: "Numa Chews"
 seo_title: "Numa Chews Review: Verdict | TSV"
 meta_description: "Our full numa chews review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B07NLMSNF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711iyPoK48L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about Numa Chews: this isn't the product that's going to replace your $300 espresso machine, and it doesn't try to be. At 3.9 stars across 195 Amazon ratings, it's a solid middle-of-the-road performer that does a specific job well — if you understand what that job is.

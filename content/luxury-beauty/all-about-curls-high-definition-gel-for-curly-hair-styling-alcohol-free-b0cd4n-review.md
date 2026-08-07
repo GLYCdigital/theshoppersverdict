@@ -1,4 +1,5 @@
 ---
+
 title: "ALL ABOUT CURLS High Definition Gel | For Curly Hair Styling"
 seo_title: "All About Curls High Definition Gel Review: Hold Without Crunch"
 meta_description: "Honest All About Curls High Definition Gel review: alcohol-free curl styling with strong hold. Real results, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CD4NLSY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tfmcHEJLL._SL1500_.jpg"
-pros:
+pros: 
   - "Provides strong, long-lasting hold that keeps curl definition intact for 2-3 days without flaking or stiffness"
   - "Alcohol-free formula with hydrolyzed wheat protein that actually strengthens hair over time, not just styles it"
   - "Works effectively on both wet and damp hair, cutting styling time for thick or coarse curl patterns"
-cons:
+cons: 
   - "Strong hold means some users with fine or looser waves report a wet-look finish that takes 20+ minutes to fully dry"
   - "No fragrance added — a plus for sensitive scalps but a miss if you expect a salon-scented product"
   - "Can feel tacky during application; needs to be worked through thoroughly to avoid uneven distribution on dense hair"
+
 ---
 
 If you've ever watched a curly-haired friend scrunch her hair with gel and walk out looking like she stepped off a runway, you know the struggle: most gels either glue your curls into submission or dissolve into frizz by lunchtime. The All About Curls High Definition Gel sits in that sweet spot between strong hold and touchable movement — most of the time.

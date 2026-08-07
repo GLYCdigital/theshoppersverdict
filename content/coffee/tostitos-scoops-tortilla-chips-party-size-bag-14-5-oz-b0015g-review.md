@@ -1,4 +1,5 @@
 ---
+
 title: "Tostitos Scoops Tortilla Chips Party Size Bag, 14.5 Oz"
 seo_title: "Tostitos Scoops Tortilla Chips Party Size Bag, 14. Review"
 meta_description: "Our full tostitos scoops tortilla chips party size bag, 14.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0015GQCH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I6Hs6DXaL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tostitos Scoops: The Right Chip for the Job, But Not Without Flaws

@@ -1,4 +1,5 @@
 ---
+
 title: "QOGRISUN Brass Clear Cabinet Pulls"
 seo_title: "QOGRISUN Brass Clear Cabinet Pulls Review: Verdict | TSV"
 meta_description: "Our full qogrisun brass clear cabinet pulls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH85YDTV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KtM8NyESL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same brushed nickel bar pulls for the last three hours, the QOGRISUN Brass Clear Cabinet Pulls will make you stop. These aren't another set of mass-market zinc handles with a faux-brass coating. They're solid brass bars with a translucent amber finish that looks like polished honey in the right light. At 4.5 stars across 225 ratings, they've clearly won over a lot of kitchen and furniture flippers. The question is whether they'll work in *your* space — and the answer depends on how you feel about that amber tint.

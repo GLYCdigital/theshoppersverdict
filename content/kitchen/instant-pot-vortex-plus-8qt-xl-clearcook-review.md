@@ -1,10 +1,11 @@
 ---
+
 title: "Instant Pot Vortex Plus XL 8QT ClearCook Air Fryer Review: $149.99"
 seo_title: "Instant Pot Vortex Plus XL 8QT — Best Large Fryer? | TSV"
 meta_description: "Instant Pot Vortex Plus XL 8QT review: 4.7 stars, 2,521 ratings, $149.99. Dual baskets, clear windows, 8-in-1 functions. Family-sized capacity."
 slug: "instant-pot-vortex-plus-xl-8qt-clearcook-review"
 image_alt: "Instant Pot Vortex Plus XL 8QT ClearCook Air Fryer in black with dual baskets and clear viewing windows"
-keywords:
+keywords: 
   - "Instant Pot Vortex Plus XL 8QT review"
   - "best large capacity air fryer"
   - "dual basket air fryer review"
@@ -16,18 +17,18 @@ amazon_rating: 4.7
 price: 149.99
 amazon_url: "https://www.amazon.com/dp/B09K6MK5VN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-OGBn2gIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious 8-quart capacity handles large meals and whole chickens"
   - "Dual baskets allow cooking two different foods simultaneously"
   - "ClearCook windows on both baskets with interior light"
   - "User-friendly control panel is intuitive and responsive"
   - "Non-stick trays make cleanup effortless"
-cons:
+cons: 
   - "Audible during operation — louder than some competitors"
   - "Takes up significant countertop space"
   - "Some users find the interface less intuitive than expected"
   - "Occasional customer support issues reported"
-faq:
+faq: 
   - question: "Is the Instant Pot Vortex Plus XL 8QT big enough for a family of 4?"
     answer: "Absolutely. The 8-quart capacity handles large batches easily. One reviewer calls it 'spacious' and notes they cook steaks, pork chops, bacon, and fish without anything sticking or overcrowding."
   - question: "How does the dual basket feature work?"
@@ -37,6 +38,7 @@ faq:
   - question: "Does the non-stick coating actually work?"
     answer: "Yes, and it's one of the most praised features. Users consistently report that 'nothing ever sticks in it' and cleanup is easy regardless of what was cooked, from bacon to baked fish."
 date: 2026-05-30
+
 ---
 
 ## The Air Fryer That Finally Lets You See What's Happening

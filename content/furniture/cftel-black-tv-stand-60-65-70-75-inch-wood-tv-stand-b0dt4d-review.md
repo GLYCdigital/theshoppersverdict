@@ -1,4 +1,5 @@
 ---
+
 title: "CFTEL Black TV Stand, 60 65 70 75 inch Wood TV Stand, High G"
 seo_title: "CFTEL Black TV Stand Review: 60-75 Inch Wood Console (2026)"
 meta_description: "Honest CFTEL Black TV Stand review for 60-75 inch TVs. Tested build quality, cable management, and real buyer feedback. Is this wood console worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT4DD4ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ksr5HqzEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rated to hold up to 150 lbs on the top surface, so a 75-inch OLED or QLED sits safely"
   - "Pre-drilled inserts and labeled hardware cut assembly time to roughly 40 minutes"
   - "Four adjustable shelves accommodate AV receivers, game consoles, and media storage"
-cons:
+cons: 
   - "Back panel is thin fiberboard — secure it to the wall if you have kids or pets"
   - "Black matte finish shows dust and fingerprints more than wood-grain alternatives"
+
 ---
 
 Let’s be blunt: most TV stands under $200 are particleboard boxes with flimsy legs. The CFTEL Black TV Stand for 60-75 inch screens tries to be more — and for the most part, it delivers. With a 4.4-star average from 220 ratings, it’s clearly earning its place in living rooms. But is it the right console for your setup? Here’s what you need to know before you click buy.

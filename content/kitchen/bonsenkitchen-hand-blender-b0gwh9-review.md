@@ -1,4 +1,5 @@
 ---
+
 title: "Bonsenkitchen Hand Blender"
 seo_title: "Bonsenkitchen Hand Blender Review: 4.5-Star Immersion Power"
 meta_description: "Hands-on Bonsenkitchen hand blender review: 500W motor, 8-speed control, stainless steel shaft. Real pros, cons, and buying advice. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWH91W9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yMJLgsQpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "500W motor handles thick soups and frozen fruit without bogging down"
   - "Fully detachable stainless steel shaft and attachments are dishwasher-safe"
   - "8-speed dial plus turbo button gives precise control from gentle pulse to full power"
-cons:
+cons: 
   - "Plastic housing feels less premium than metal-body competitors"
   - "Whisk attachment struggles with stiff egg whites — needs extra time"
+
 ---
 
 **The Bonsenkitchen hand blender is the rare budget immersion blender that doesn't force you to choose between power and precision.**

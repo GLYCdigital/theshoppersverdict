@@ -1,4 +1,5 @@
 ---
+
 title: "Conair Travel Hair Dryer with Dual Voltage, 1875W Compact Ha"
 seo_title: "Conair Travel Hair Dryer Review: Compact 1875W Dual Voltage"
 meta_description: "Honest Conair Travel Hair Dryer review: 1875W power, dual voltage, foldable design. See real pros, cons, and who should buy this compact dryer."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FD8TN7M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nTHsZMgAL._SL1500_.jpg"
-pros:
+pros: 
   - "Full 1875W output in a body that folds down to roughly the size of a large smartphone — rare combo at this price"
   - "Dual voltage switch is physical and easy to toggle, with a sliding mechanism that won't accidentally flip mid-dry"
   - "Includes a concentrator nozzle that actually stays clipped on, unlike many travel dryers where it rattles loose"
-cons:
+cons: 
   - "No cool shot button — a real omission for anyone who sets curls or needs to lock in styles"
   - "Noise level is noticeably higher than full-size dryers; expect a whine, not a purr"
   - "The included storage pouch is thin vinyl, not the padded travel case the photos suggest"
+
 ---
 
 Let's be honest about what "travel hair dryer" usually means: a weak, flimsy device that takes 15 minutes to dry thin hair and burns out after three trips. The Conair 1875W Compact is not that — and that's precisely why it's earned a 4.5-star rating from 225 Amazon shoppers.

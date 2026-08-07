@@ -1,4 +1,5 @@
 ---
+
 title: "Funko Five Nights at Freddy's Foxy Plush"
 seo_title: "Funko FNAF Foxy Plush Review: Is It Worth It? (2026)"
 meta_description: "Our honest Funko Five Nights at Freddy's Foxy Plush review: softness, size, durability, and real buyer feedback. See if this 4.8-star collectible is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01G8WETOG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oa86m3WYL._AC_SL1450_.jpg"
-pros:
+pros: 
   - "Accurate screen-accurate design with the signature hook, eyepatch, and tattered ear detail"
   - "12-inch size hits the sweet spot for cuddling and shelf display"
   - "Surprisingly durable stitching that holds up to aggressive play from younger kids"
-cons:
+cons: 
   - "The hook is soft vinyl, not plush — some collectors find it a bit stiff"
   - "No sound chip or voice lines, which may disappoint fans expecting Foxy's iconic audio"
+
 ---
 
 If you're shopping for a Five Nights at Freddy's fan, you've probably stared at this plush for a while. The Funko Foxy Plush is one of the most popular items in the FNAF merch lineup, and with a 4.8-star average across 240 ratings, it's clearly doing something right. But is it actually worth your money, or is it riding on the franchise's coattails? After digging through buyer feedback and examining the specs, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Madisi Wood-Cased #2 HB Pencils, Yellow, Pre-sharpened, 16 P"
 seo_title: "Madisi Wood-Cased #2 HB Pencils, Yellow, Pre-sharp Review"
 meta_description: "Our full madisi wood-cased #2 hb pencils, yellow, pre-sharpened, 16 p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07FV9P5D1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eDcX84jrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $4 Pencil That Beats the Big Names — Here's the Proof**

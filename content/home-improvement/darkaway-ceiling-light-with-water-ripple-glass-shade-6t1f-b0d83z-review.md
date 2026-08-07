@@ -1,4 +1,5 @@
 ---
+
 title: "Darkaway Ceiling Light with Water Ripple Glass Shade 6T1F"
 seo_title: "Darkaway Water Ripple Ceiling Light Review (2026)"
 meta_description: "Darkaway ceiling light with water ripple glass shade reviewed: light quality, build, installation, and drawbacks. See if this 4.6-star fixture is right."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D83ZCTJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71opCPpLAxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Water ripple glass casts a genuinely unique, organic light pattern on ceilings and walls — not a gimmick"
   - "Six-light design puts out serious lumens; adequate for 200+ sq ft living spaces without supplemental lighting"
   - "Fully dimmable with standard TRIAC dimmers, tested down to 10% without flicker or hum"
-cons:
+cons: 
   - "Glass shades are hand-blown and vary slightly in thickness; you may notice minor asymmetry between fixtures"
   - "Installation requires two people — the canopy is heavy (approx. 14 lbs) and awkward to hold while wiring"
   - "Bulbs not included; requires six E12 candelabra bulbs, which adds $15–25 to total cost if you don't already own them"
+
 ---
 
 The Darkaway 6T1F doesn't look like every other ceiling light on Amazon. That's the point. The water ripple glass shade — a textured, hand-blown dome that refracts light into soft, overlapping waves — turns a basic flush mount into a statement piece. At 4.6 stars across 229 ratings, it's not just another pretty fixture. It's a light that performs.

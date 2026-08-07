@@ -1,4 +1,5 @@
 ---
+
 title: "EBIN NEW YORK 24 Hour Edge Tamer Extreme Firm Hold - Strong"
 seo_title: "EBIN NEW YORK 24 Hour Edge Tamer Review (2026): Strong Hold"
 meta_description: "Read our honest EBIN NEW YORK 24 Hour Edge Tamer Extreme Firm Hold review. Does the Strong formula deliver all-day sleek edges? Find out pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQ6K1C8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dIFAUjgLL._SL1500_.jpg"
-pros:
+pros: 
   - "Extreme hold formula that genuinely lasts 24+ hours without reapplication, even in humid conditions"
   - "Alcohol-free and flake-free finish — edges stay soft to the touch, not crispy or white"
   - "Thick, buttery consistency that spreads easily with a spoolie or edge brush without tugging hair"
-cons:
+cons: 
   - "The hold is so firm that it can be difficult to re-style or adjust edges after application — you must get them right the first time"
   - "Strong scent that lingers for the first 30-45 minutes after application, which may bother sensitive noses"
+
 ---
 
 **If you've ever watched your edges dissolve into frizz by noon, the EBIN NEW YORK 24 Hour Edge Tamer Extreme Firm Hold is the product that actually delivers on its name.** This isn't another lightweight gel that gives up after a few hours — it's a heavy-duty styling wax engineered for people who need their baby hairs to stay *laid* through workouts, rain, and 12-hour work shifts.

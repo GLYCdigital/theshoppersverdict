@@ -1,4 +1,5 @@
 ---
+
 title: "16 inch  OLED Portable Monitor, 3K 2880x1800 120Hz 0.1ms USB-C HD"
 seo_title: "16 inch  OLED Portable Monitor Review: 3K 120Hz USB-C Display"
 meta_description: "Honest 16 inch  OLED portable monitor review: 3K 2880x1800, 120Hz, 0.1ms response. See real pros, cons, and whether this USB-C display fits your setup."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPW9T5K9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H+KelKffL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True OLED contrast with per-pixel dimming delivers inky blacks and vivid HDR-like color at this size"
   - "120Hz refresh rate on a portable panel is rare — smooth scrolling and no ghosting in fast-paced work"
   - "Single USB-C cable handles both video and power delivery to your laptop when connected to a charger"
-cons:
+cons: 
   - "Glossy OLED screen reflects overhead lights badly; matte screen protectors kill the contrast advantage"
   - "No built-in battery — it's bus-powered only, so your laptop drains noticeably during extended use"
   - "Stand is flimsy and wobbles; you'll want a dedicated arm or case stand for stable desk use"
+
 ---
 
 If you've been lugging a 15-inch laptop around and squinting at spreadsheets, this 16-inch OLED portable monitor from the B0DPW9 batch is the upgrade you didn't know you needed — but only if you understand its quirks. At 3K resolution (2880x1800) with a 120Hz refresh rate and 0.1ms response time, it's technically impressive on paper. In practice, it's a genuinely beautiful panel that demands a bit of patience.

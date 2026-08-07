@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Rugs"
 seo_title: "Loloi Rugs Review: Verdict | TSV"
 meta_description: "Our full loloi rugs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GLQ2ZHPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1Men14iF9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Loloi has built a reputation in the rug world, but reputation doesn't automatically translate to a good buy at your price point. This particular model — available through their Amazon storefront — has earned a solid 4.7 out of 5 across 235 ratings. Here's what that score actually means for your living room.

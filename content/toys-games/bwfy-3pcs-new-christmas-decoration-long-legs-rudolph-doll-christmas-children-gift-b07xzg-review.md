@@ -1,4 +1,5 @@
 ---
+
 title: "BWFY 3pcs new Christmas Decoration Long Legs Rudolph Doll Ch"
 seo_title: "BWFY Long Legs Rudolph Doll Review: 3-Pack Christmas Decor"
 meta_description: "Honest BWFY Long Legs Rudolph Doll 3-pack review: cute Christmas decor, but check size and durability. Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07XZGWGFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61swYVzUfoL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Three distinct Rudolph designs in one pack — great value for decorating multiple rooms or gifting"
   - "Long-leg design makes them stable standers; they don't tip over easily on flat surfaces"
   - "Soft plush material throughout — safe for young kids to handle and cuddle"
-cons:
+cons: 
   - "Smaller than many photos suggest — each doll measures roughly 12 inches tall, not the life-size look some expect"
   - "Stitching around the antlers and scarf attachments is basic; rough handling can pull threads"
   - "No hanging loop or hook included — they're strictly stand-up decorations, not for tree hanging"
+
 ---
 
 If you're tired of the same old Christmas tree ornaments and want something with a bit of personality, the BWFY Long Legs Rudolph Doll 3-pack delivers exactly that — with some caveats worth knowing before you click "add to cart."

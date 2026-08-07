@@ -1,4 +1,5 @@
 ---
+
 title: "WEIGEDU Poodle Puppy Goldendoodle Stuffed Animal, Adorable T"
 seo_title: "WEIGEDU Poodle Puppy Goldendoodle Stuffed Animal,  Review"
 meta_description: "Our full weigedu poodle puppy goldendoodle stuffed animal, adorable t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CST617QQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NNuqabisL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some plush toys look great in the listing photos and fall apart in your hands within a week. The WEIGEDU Poodle Puppy isn't that toy. With a 4.7-star average across 235 ratings, this stuffed animal has earned its reputation — but it's not without a few quirks you should know about before you hit "add to cart."

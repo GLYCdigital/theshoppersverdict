@@ -1,4 +1,5 @@
 ---
+
 title: "Amico 6 Pack Ultra-Thin LED Recessed Ceiling Light"
 seo_title: "Amico 6-Pack Ultra-Thin LED Recessed Lights Review (2026)"
 meta_description: "Honest Amico 6-pack ultra-thin LED recessed light review: brightness, color temp options, installation ease, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D62RCCKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kp6EHd54L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Color-selectable CCT switch (2700K/4000K/5000K) on each fixture — no need to buy separate models for warm vs. cool rooms"
   - "True ultra-thin 0.5-inch profile with IC-rated housing, meaning you can install directly against insulation without clearance"
   - "Daisy-chainable connectors allow up to 12 lights on a single run, cutting down on additional junction boxes"
-cons:
+cons: 
   - "No included connector cables — you'll need to buy Wago-style connectors or wire nuts separately"
   - "Driver box is slightly bulky and can be tricky to stuff through tight 4-inch holes in older ceilings"
   - "Color temperature switch is on the driver, not the fixture face — awkward if you need to adjust after mounting"
+
 ---
 
 If you're remodeling a basement, swapping out those buzzing fluorescent shop lights, or adding task lighting to a kitchen, the Amico 6-pack of ultra-thin LED recessed lights deserves a hard look. At 4.7 stars across 235 ratings, this isn't a niche product — it's a workhorse that DIYers and electricians alike are putting in by the boxful. Here's the full breakdown after digging through specs and real buyer experiences.

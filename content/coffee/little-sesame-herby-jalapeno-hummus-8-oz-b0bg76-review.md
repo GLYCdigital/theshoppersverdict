@@ -1,4 +1,5 @@
 ---
+
 title: "Little Sesame Herby Jalapeno Hummus, 8 OZ"
 seo_title: "Little Sesame Herby Jalapeno Hummus, 8 OZ Review: Verdict"
 meta_description: "Our full little sesame herby jalapeno hummus, 8 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BG76ZJC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hQRdCPv4L._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the grocery aisle noise. Most hummus in this country falls into two camps: the gluey, mass-produced tubs that taste like cardboard with garlic powder, or the artisanal stuff that costs $9 and still manages to disappoint. Little Sesame's Herby Jalapeno sits in a third category — the one worth actually seeking out.

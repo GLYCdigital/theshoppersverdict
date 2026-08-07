@@ -1,4 +1,5 @@
 ---
+
 title: "Gepege 6 Inch Beaded Ceramic Planter Set of 2 with Drainage"
 seo_title: "Gepege 6 Inch Ceramic Planter Set of 2 Review"
 meta_description: "Honest Gepege 6 inch beaded ceramic planter set review: drainage, durability, and real customer feedback. Is this $25 planter duo worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR6CGRNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817+hPdPASL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True drainage holes with removable rubber plugs — rare at this price point"
   - "Thick 0.3-inch ceramic walls resist chipping and cracking"
   - "Raised beaded texture hides water spots and mineral deposits"
-cons:
+cons: 
   - "Only one color option (white) limits decor matching"
   - "No saucers included — you'll pay extra for drip trays"
+
 ---
 
 Let me be blunt: most ceramic planters under $30 for a pair are glorified pots with a hole drilled in the bottom and zero thought given to how plants actually live in them. The Gepege 6 Inch Beaded Ceramic Planter Set of 2 is different — not radically, but enough to matter. With a 4.7-star average across 235 ratings, this is one of those quiet Amazon finds that earns its keep. Here's the real story.

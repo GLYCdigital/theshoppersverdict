@@ -1,4 +1,5 @@
 ---
+
 title: "BetterVent Indoor Dryer Vent and Polyester Dryer Filter Repl"
 seo_title: "BetterVent Indoor Dryer Vent Review: Worth It? (2026)"
 meta_description: "BetterVent Indoor Dryer Vent & polyester filter replacements reviewed: performance, lint capture, install ease, and honest downsides. See if it's right for you."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSH1WQWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HY9ukXeaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Captures lint and moisture effectively without requiring an exterior wall vent"
   - "Polyester filter is washable and reusable — no recurring filter costs"
   - "Simple DIY installation that takes under 10 minutes with basic tools"
-cons:
+cons: 
   - "Must empty collected water reservoir regularly in humid climates to avoid overflow"
   - "Slightly reduces dryer airflow compared to a direct exterior vent"
   - "Not ideal for permanent installation — best for apartments or temporary setups"
+
 ---
 
 If you live in an apartment, rental, or anywhere you can't punch a hole through the wall for a traditional dryer vent, you already know the drill: humid air, lint dust on everything, and a constantly fogged-up window. The BetterVent Indoor Dryer Vent kit aims to solve that problem without any structural changes. After digging through the specs and what 229 buyers are saying (4.6 stars average), here's the real story.

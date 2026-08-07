@@ -1,4 +1,5 @@
 ---
+
 title: "Alert ProReel Professional Grade ProReel 8336TS Heavy Duty R"
 seo_title: "Alert ProReel 8336TS Review: Heavy Duty Retractable Cord Reel"
 meta_description: "Honest Alert ProReel 8336TS review: 40-ft heavy duty retractable extension cord reel. Real user feedback, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BGMFT4Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QKKfmsZPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-foot 12/3 SJTW cord handles 15 amps — enough for circular saws, shop vacs, and space heaters without tripping breakers"
   - "All-steel mounting bracket with 180-degree swivel means you can mount it overhead or on the wall and still pull cord in any direction"
   - "Locking ratchet mechanism holds the cord at any length — no frustrating partial-retraction slamming"
-cons:
+cons: 
   - "At roughly 20 pounds, installation absolutely requires a stud finder and two people for overhead mounting"
   - "The included mounting hardware is mediocre — several buyers report replacing the lag bolts immediately"
   - "Replacement cord assemblies are hard to source if you ever need one; Alert doesn't sell parts separately through Amazon"
+
 ---
 
 Let me be straight with you: most retractable extension cord reels under $100 are plastic junk that binds up by month two. The Alert ProReel 8336TS is not that. But it's also not the effortless install some product photos suggest. Here's what 210 Amazon buyers and I think you should know before handing over your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Little Debbie Variety Pack, 1 Box Each Of Zebra Cakes, Cosmi"
 seo_title: "Little Debbie Variety Pack, 1 Box Each Of Zebra Ca Review"
 meta_description: "Our full little debbie variety pack, 1 box each of zebra cakes, cosmi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07X43GXBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A8WWsMwKL._SL1330_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've eaten more Little Debbie snacks than I care to admit over the past three decades. So when this variety pack landed on my desk, I had opinions before I even tore open the first wrapper. Here's the honest breakdown.

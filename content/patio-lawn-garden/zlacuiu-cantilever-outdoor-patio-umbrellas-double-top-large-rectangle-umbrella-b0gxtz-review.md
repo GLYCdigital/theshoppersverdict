@@ -1,4 +1,5 @@
 ---
+
 title: "ZLACUIU Cantilever Outdoor Patio Umbrellas, Double Top Large"
 seo_title: "ZLACUIU Cantilever Outdoor Patio Umbrellas, Double Review"
 meta_description: "Our full zlacuiu cantilever outdoor patio umbrellas, double top large review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GXTZVM7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SfL9+WMSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Is the ZLACUIU Double Top Worth Your Patio Space?**

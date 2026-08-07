@@ -1,4 +1,5 @@
 ---
+
 title: "cimetech M013 USB C Mouse Review"
 seo_title: "cimetech M013 USB C Mouse Review: Silent Click, 4.5 Stars"
 meta_description: "cimetech M013 USB C mouse review: silent clicks, 3-DPI settings, USB-C charging. See why 225 shoppers rate it 4.5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWHW5VBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sTLdrBAPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "USB-C charging port — charges in 2 hours, lasts 30+ days on a single charge"
   - "Silent click switches rated for 10 million clicks, genuinely quiet in open offices"
   - "Three DPI settings (1000/1600/2400) switchable via top button, no software needed"
-cons:
+cons: 
   - "Smaller profile — palm-grip users with larger hands may find it cramped for all-day use"
   - "No Bluetooth; 2.4GHz dongle only, so you'll occupy a USB-A port on your laptop"
+
 ---
 
 If you’re still tethered to a wired mouse or juggling AA batteries every three weeks, the cimetech M013 is the quiet upgrade you didn’t know you needed. This isn’t a flashy flagship — it’s a workhorse that gets the fundamentals right. With 225 Amazon ratings averaging 4.5 stars, it’s clearly earning its keep in home offices and cubicles alike. But is it the right mouse for your specific setup? Let’s break it down.

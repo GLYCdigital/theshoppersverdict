@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Cape Cod Collection 9' Square Natural CAP252A Handm"
 seo_title: "SAFAVIEH Cape Cod Collection 9' Square Natural CAP Review"
 meta_description: "Our full safavieh cape cod collection 9' square natural cap252a handm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP7RMWZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1Afx+3elpS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SAFAVIEH Cape Cod 9' Square Jute Rug: The Natural-Fiber Workhorse That Earns Its Keep

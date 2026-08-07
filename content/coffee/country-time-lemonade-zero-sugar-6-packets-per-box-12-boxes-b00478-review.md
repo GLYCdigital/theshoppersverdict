@@ -1,4 +1,5 @@
 ---
+
 title: "Country Time Lemonade, Zero Sugar, 6 Packets Per Box, 12 Box"
 seo_title: "Country Time Zero Sugar Lemonade Review: 72 Packets"
 meta_description: "Honest Country Time Zero Sugar Lemonade review: 72 packets, taste test, mixability, and value. See if this sugar-free drink mix beats the competition."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00478QMKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918VV2MphYL._SL1500_.jpg"
-pros:
+pros: 
   - "Real lemon flavor without the aspartame aftertaste that plagues most zero-sugar drink mixes"
   - "72 total packets per order — roughly $0.20 per serving, far cheaper than bottled zero-sugar lemonade"
   - "Dissolves completely in cold water within 15 seconds, no gritty residue or clumping"
-cons:
+cons: 
   - "Sweetener is sucralose-based; some people detect a slightly artificial finish on the back of the tongue"
   - "Single-serve packets create packaging waste versus a powdered canister"
   - "Flavor leans sweeter than tart — don't expect the punchy bite of freshly squeezed lemons"
+
 ---
 
 Let's be direct: most zero-sugar lemonade mixes taste like powdered regret. Country Time's Zero Sugar version is the exception worth your money — but it's not perfect. Here's the full breakdown after testing all 72 packets across three weeks of iced tea-adjacent experimentation.

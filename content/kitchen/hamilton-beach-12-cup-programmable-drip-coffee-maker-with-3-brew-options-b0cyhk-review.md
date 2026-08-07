@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach 12 Cup Programmable Drip Coffee Maker with 3 "
 seo_title: "Hamilton Beach 12 Cup Programmable Drip Coffee Mak Review"
 meta_description: "Our full hamilton beach 12 cup programmable drip coffee maker with 3  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYHKM92V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O2FIGJ6fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hamilton Beach 12 Cup Programmable Drip Coffee Maker with 3 Brew Options: The $35 Coffee Maker That Actually Thinks

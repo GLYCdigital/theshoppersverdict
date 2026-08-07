@@ -1,4 +1,5 @@
 ---
+
 title: "MUJI Portable Eyelash Curler"
 seo_title: "MUJI Portable Eyelash Curler Review: Verdict | TSV"
 meta_description: "Our full muji portable eyelash curler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00TTF6LSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41goQobluCL._AC_SL1260_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MUJI Portable Eyelash Curler is one of those quiet cult favorites that beauty forums have been whispering about for years. At 4.4 stars across 220 ratings, it doesn't scream for attention — but it earns loyalty. I've tested it against the Shu Uemura, the Shiseido, and a dozen drugstore options. Here's the honest breakdown.

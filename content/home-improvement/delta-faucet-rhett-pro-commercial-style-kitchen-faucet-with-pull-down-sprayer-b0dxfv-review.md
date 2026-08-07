@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Rhett Pro Commercial Style Kitchen Faucet with"
 seo_title: "Delta Faucet Rhett Pro Kitchen Faucet Review (2026)"
 meta_description: "Delta Rhett Pro commercial kitchen faucet review: build quality, pull-down sprayer performance, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXFVN6H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f2qmn5xkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid all-metal construction with a commercial-style spring arm that holds position without drooping"
   - "MagnaTite docking keeps the spray head seated securely — no sagging or dripping between uses"
   - "High-arc 15-inch clearance fits stockpots and tall pitchers without bending the neck"
-cons:
+cons: 
   - "Requires 3-hole setup or deck plate; not a direct swap for single-hole sinks"
   - "Spring coil catches food particles and needs regular wiping to avoid grime buildup"
   - "Spray head is heavier than standard pull-downs — some users with weaker grip find it tiring"
+
 ---
 
 If your sink has seen better days and you're tired of a faucet that wobbles, drips, or refuses to reach the far corner of a deep pot, the Delta Rhett Pro is the kind of upgrade that feels less like a fixture and more like a tool. It's priced like a prosumer piece, but it's built to shrug off daily abuse that would kill a cheap builder-grade unit.

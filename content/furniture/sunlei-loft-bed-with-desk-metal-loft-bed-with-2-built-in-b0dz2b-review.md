@@ -1,4 +1,5 @@
 ---
+
 title: "SUNLEI Loft Bed with Desk, Metal Loft Bed with 2 Built-in La"
 seo_title: "SUNLEI Loft Bed with Desk, Metal Loft Bed with 2 B Review"
 meta_description: "Our full sunlei loft bed with desk, metal loft bed with 2 built-in la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DZ2BJRDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DxYpLLJ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Sunlei Loft Bed With Desk Metal Loft Bed With 2 Built In B0Dz2B Review"
 seo_title: "Sunlei Loft Bed With Desk Review: Is It Worth It?"

@@ -1,4 +1,5 @@
 ---
+
 title: "msi Gaming RTX 5070 12G Ventus 2X OC White Graphics Card (12"
 seo_title: "msi Gaming RTX 5070 12G Ventus 2X OC White Graphic Review"
 meta_description: "Our full msi gaming rtx 5070 12g ventus 2x oc white graphics card (12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DYG3JLGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7193Uix3o1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MSI Gaming RTX 5070 12G Ventus 2X OC White: The 1440p Sweet Spot Gets a Clean Makeover

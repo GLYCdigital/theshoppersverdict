@@ -1,4 +1,5 @@
 ---
+
 title: "Biyanuo Flameless Battery Operated LED Candles with10 Key Bu"
 seo_title: "Biyanuo Flameless LED Candles Review: 10-Key Remote Control"
 meta_description: "Biyanuo flameless LED candles with 10-key remote: realistic flicker, timer, 24-pack value. Honest review of brightness, battery life, and durability."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTZ6T5GN/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/61cR-ddUbLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-key remote actually works from 20+ feet, through glass and around corners — rare at this price point"
   - "2/4/6/8-hour timer function saves batteries and runs consistently overnight"
   - "Realistic 3D wick flame effect that fools guests from across the room"
-cons:
+cons: 
   - "Flame flicker is on the fast side — more 'dance' than slow candle glow"
   - "Batteries not included; 24 candles will eat 48 AAs on first setup"
+
 ---
 
 **The Short Version:** If you want the ambiance of candlelight without babysitting open flames, the Biyanuo 24-pack delivers. The 10-key remote control is the standout feature — it actually works, which is rare in this category. But let's be clear about what you're getting before you commit.

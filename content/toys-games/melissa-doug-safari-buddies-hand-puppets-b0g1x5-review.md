@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Safari Buddies Hand Puppets"
 seo_title: "Melissa & Doug Safari Buddies Hand Puppets Review: Verdic"
 meta_description: "Our full melissa & doug safari buddies hand puppets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G1X54DF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/417s9iF+W9L._AC_SY355_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These Puppets Worth Your Money?

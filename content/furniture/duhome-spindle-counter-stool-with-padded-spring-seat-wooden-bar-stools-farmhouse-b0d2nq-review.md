@@ -1,4 +1,5 @@
 ---
+
 title: "Duhome Spindle Counter Stool with Padded Spring Seat,Wooden"
 seo_title: "Duhome Spindle Counter Stool Review: Padded Spring Seat Comfort"
 meta_description: "Honest Duhome Spindle Counter Stool review: spring seat comfort, build quality, assembly ease, and who should buy. Real buyer feedback at 4.4/5 stars."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2NQXRTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wPCAOQxlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spring seat actually compresses — noticeably more comfortable than rigid wooden stools at this price"
   - "Sturdy hardwood construction with solid spindle back that doesn't wobble even at full height"
   - "Assembles in under 20 minutes with included hex wrench; all bolt holes align properly"
-cons:
+cons: 
   - "Seat height is fixed at 25.5 inches — verify your counter height before ordering; no adjustment option"
   - "Spring seat has a slight forward tilt that some users find disconcerting on first sit"
   - "Finish is matte and shows water rings easily; you'll want coasters or a protective treatment"
+
 ---
 
 Here's the thing about counter stools: most are either cheap particleboard junk that wobbles after three months, or they cost $200 each and still feel like sitting on a church pew. The Duhome Spindle Counter Stool splits the difference — and the spring seat is the reason it's earned 220 ratings averaging 4.4 stars.

@@ -1,4 +1,5 @@
 ---
+
 title: "Monster Jam"
 seo_title: "Monster Jam Review: Verdict | TSV"
 meta_description: "Our full monster jam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZ59CMM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZBADYs3OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a kid (or a grown adult with a soft spot for oversized trucks) who's been begging for a Monster Jam toy, here's the honest truth: this one earns its 4.5-star rating, but not without a few caveats worth knowing before you hit checkout.

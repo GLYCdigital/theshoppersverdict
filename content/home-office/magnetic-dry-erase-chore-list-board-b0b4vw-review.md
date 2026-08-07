@@ -1,4 +1,5 @@
 ---
+
 title: "Magnetic Dry Erase Chore List Board"
 seo_title: "Magnetic Dry Erase Chore List Board Review: Verdict | TSV"
 meta_description: "Our full magnetic dry erase chore list board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B4VW3CH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J8jw-7YkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most chore boards are either flimsy paper printables or overpriced "family command centers" that take up half your wall. This magnetic dry-erase board from Amazon sits somewhere in the middle, and after testing it for three weeks in a busy two-adult, two-teen household, here's the real story.

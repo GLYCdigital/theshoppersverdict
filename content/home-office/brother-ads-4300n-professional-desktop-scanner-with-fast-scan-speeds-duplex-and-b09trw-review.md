@@ -1,4 +1,5 @@
 ---
+
 title: "Brother ADS-4300N Professional Desktop Scanner with Fast Sca"
 seo_title: "Brother ADS-4300N Scanner Review: Fast Duplex Workhorse"
 meta_description: "Brother ADS-4300N scanner review: 40ppm duplex speed, network sharing, robust build. See real pros, cons, and who should buy this desktop workhorse."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TRWDQM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CxM-39F2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 40ppm duplex scanning — no half-speed trickery on two-sided documents"
   - "Built-in Gigabit Ethernet for network sharing, a rarity at this price point"
   - "50-sheet ADF handles mixed paper weights without jamming"
-cons:
+cons: 
   - "No built-in Wi-Fi — the Ethernet-only network setup is a dealbreaker for some home offices"
   - "Software bundle feels dated; Brother's UI hasn't kept pace with the hardware"
   - "Scanning thick cards or envelopes requires the manual bypass slot, which is easy to overlook"
+
 ---
 
 The Brother ADS-4300N doesn't mess around. This is a scanner built for one thing: moving paper into pixels as fast as possible without babysitting it. If you're drowning in invoices, contracts, or client paperwork, this machine is the lifeline you didn't know you needed. At 4.4 stars across 220 ratings, it's clearly earning its keep in real offices.

@@ -1,4 +1,5 @@
 ---
+
 title: "Continental MTB 26x1.75-2.5 inch  / 47-584 -> 62-584 Inner Tubes"
 seo_title: "Continental MTB 26x1.75-2.5 Inner Tubes Review: Worth It?"
 meta_description: "Continental MTB 26x1.75-2.5 inner tubes reviewed: durability, weight, fit for 47-584 to 62-584 rims. Real buyer feedback, pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FV75TCK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AS3xfhuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Butyl rubber compound holds air noticeably longer than cheap no-name tubes — several buyers report weeks without needing to top up"
   - "Reinforced valve stem base prevents the most common failure point; no tearing at the rim hole even at higher pressures"
   - "Wide 47-584 to 62-584 sizing range covers everything from 26x1.75 commuters to 26x2.5 trail tires"
-cons:
+cons: 
   - "At roughly 200g, these aren't lightweight — weight weenies upgrading to tubeless or latex will feel the difference"
   - "The 40mm Presta valve is short for deep-section rims; if your rims are over 25mm deep, you'll need a valve extender"
   - "Price sits above generic tubes — you're paying for Continental's QC, but budget riders may balk at the per-unit cost"
+
 ---
 
 Let's cut through the noise: inner tubes are the most boring, most critical purchase a cyclist makes. You don't think about them until you're on the trailside with a flat, a cold wind, and a patch kit that's dried out. The Continental MTB 26x1.75-2.5 tube aims to make that scenario as rare as possible. At 4.6 stars across 229 ratings, it's clearly doing something right. Here's the real breakdown.

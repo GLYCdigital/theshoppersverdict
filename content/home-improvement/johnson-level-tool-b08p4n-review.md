@@ -1,4 +1,5 @@
 ---
+
 title: "Johnson Level & Tool"
 seo_title: "Johnson Level & Tool Review: Verdict | TSV"
 meta_description: "Our full johnson level & tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08P4N2J7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612RDHsprEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tools are luxury items. This torpedo level isn't one of them — it's the kind of tool you throw in a pouch, drop from a ladder, and expect to keep working. After 220 Amazon ratings averaging 4.4 stars, the Johnson Level & Tool torpedo has a clear reputation. Here's the real story.

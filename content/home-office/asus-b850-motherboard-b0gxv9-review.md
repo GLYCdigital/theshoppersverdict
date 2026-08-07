@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS B850 Motherboard Review"
 seo_title: "ASUS B850 Motherboard Review: Is It Worth It? (2026)"
 meta_description: "ASUS B850 motherboard review: 4.5/5 rating, 225 reviews. We test build quality, BIOS, VRM thermals & value. Honest pros/cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXV9D7XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZJGsaELhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Robust 12+2+2 power stage VRM with substantial heatsinks handles 9950X3D under sustained all-core loads without thermal throttling"
   - "Three PCIe 5.0 M.2 slots with tool-free Q-Latch fasteners — one of the few B850 boards at this price point offering triple Gen5 storage"
   - "BIOS FlashBack and Q-LED diagnostic lights make troubleshooting and CPU-less updates genuinely painless for first-time builders"
-cons:
+cons: 
   - "Rear I/O omits USB4/Thunderbolt, forcing 40Gbps connectivity buyers toward pricier X870E boards"
   - "The second PCIe x16 slot physically runs at x4 bandwidth — fine for capture cards, but don't plan a dual-GPU setup here"
+
 ---
 
 **The ASUS B850 isn't the flashiest motherboard in ASUS's lineup, but it's quietly become the smart-money choice for AM5 builders who want PCIe 5.0 without paying X870E prices.** After spending two weeks with this board driving a Ryzen 7 9800X3D, here's the honest breakdown.

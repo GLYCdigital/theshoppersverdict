@@ -1,4 +1,5 @@
 ---
+
 title: "Chicago Metallic French Bread Pans"
 seo_title: "Chicago Metallic French Bread Pans Review (2026): Worth It?"
 meta_description: "Honest Chicago Metallic French Bread Pans review: build quality, real-world baking results, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHZ3124L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91p0S0QKtbS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge carbon steel heats evenly, producing crispy crust without burning the bottom"
   - "Three-ridge design creates classic Parisian baguette shape with proper scoring definition"
   - "Non-stick coating releases loaves cleanly even without parchment paper"
-cons:
+cons: 
   - "Pan is long (about 15.5 inches) — won't fit smaller or rounded-door ovens"
   - "Hand-wash only; dishwasher will degrade the non-stick finish quickly"
+
 ---
 
 If you've been making baguettes on a flat sheet pan, you're getting round-bottomed loaves that look more like overgrown dinner rolls than French bread. The Chicago Metallic French Bread Pans fix that with a simple, well-executed design: a heavy-gauge carbon steel pan with three deep, rounded troughs that cradle the dough as it proofs and bakes.

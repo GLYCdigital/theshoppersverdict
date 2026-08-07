@@ -1,4 +1,5 @@
 ---
+
 title: "SHECIPIN Succulent Plant Pot"
 seo_title: "SHECIPIN Succulent Plant Pot Review: Verdict | TSV"
 meta_description: "Our full shecipin succulent plant pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BL7XW5ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aP0vzsIOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "succulent pots" on Amazon are cheap plastic or poorly glazed ceramic that cracks within a season. The SHECIPIN Succulent Plant Pot is neither of those things. With a 4.7-star average across 235 ratings, this one earns its place on your patio or windowsill. Here's the full breakdown.

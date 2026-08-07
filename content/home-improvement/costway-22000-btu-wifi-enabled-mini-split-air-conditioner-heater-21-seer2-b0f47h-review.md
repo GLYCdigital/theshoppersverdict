@@ -1,4 +1,5 @@
 ---
+
 title: "COSTWAY 22000 BTU Wifi Enabled Mini Split Air Conditioner &"
 seo_title: "COSTWAY 22000 BTU Mini Split Review: Smart Cooling & Heat"
 meta_description: "COSTWAY 22000 BTU WiFi mini split review: 21 SEER2 efficiency, smart app control, 4.1-star rating. Is it worth it? Real pros, cons, and buyer advice."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F47HKDMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rp6Q90owL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "21 SEER2 rating significantly cuts monthly cooling costs versus older window units or central AC"
   - "Dual 22,000 BTU cooling and 22,000 BTU heating covers large open-concept spaces up to ~1,100 sq ft"
   - "App-based WiFi control with scheduling and voice assistant compatibility works reliably once paired"
-cons:
+cons: 
   - "Installation is not DIY-friendly; requires vacuum pump, flare tools, and electrical knowledge — budget $600-$1,200 for pro install"
   - "Some buyers report WiFi pairing hiccups on 5GHz networks; the unit only supports 2.4GHz"
   - "Heating performance drops noticeably below 20°F — supplemental heat needed in harsh winters"
+
 ---
 
 If you're staring at a $400 window unit that rattles all night and nukes your electric bill, the COSTWAY 22,000 BTU mini split is the grown-up alternative. But here's the catch: this isn't a weekend DIY project, and the box doesn't include the skills you'll need. Let's break down whether the 4.1-star reputation holds up.

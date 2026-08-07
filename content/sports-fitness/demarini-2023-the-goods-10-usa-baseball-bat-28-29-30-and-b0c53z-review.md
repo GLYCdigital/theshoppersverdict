@@ -1,4 +1,5 @@
 ---
+
 title: "DeMarini 2023 The Goods (-10) USA Baseball Bat - 28 inch , 29 inch , 3 inch"
 seo_title: "DeMarini The Goods (-10) USA Bat Review: Worth It? (2023)"
 meta_description: "Honest DeMarini 2023 The Goods (-10) USA Baseball Bat review. Real buyer feedback on power, feel, and durability. Is it right for your player? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C53Z9HD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cYTfOPPqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hot out of the wrapper with a stiff alloy barrel that delivers noticeable pop on contact, especially for a USA stamp bat"
   - "Balanced swing weight at -10 makes it forgiving for younger hitters still developing bat speed"
   - "Tactile grip and tapered knob reduce vibration sting on off-center hits"
-cons:
+cons: 
   - "Alloy barrel dents more easily than composite on cold-weather hits; several buyers report dents within weeks"
   - "Not ideal for power hitters already swinging -8 or -5; the lighter swing weight sacrifices mass behind the ball"
   - "USA stamp limits exit velocity compared to USSSA bats, so travel-ball players may outgrow it quickly"
+
 ---
 
 **The Good, The Goods, and The Honest Truth**

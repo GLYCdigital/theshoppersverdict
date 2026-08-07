@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Lock It Down Eyeshadow Primer, Smooth, Creamy Primer"
 seo_title: "e.l.f. Lock It Down Eyeshadow Primer Review (2026): Does It Work?"
 meta_description: "Honest e.l.f. Lock It Down Eyeshadow Primer review: creamy texture, all-day wear, crease resistance tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHH2M24V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vxLt8aP-L._SL1500_.jpg"
-pros:
+pros: 
   - "Creamy, blendable texture that grips pigment without feeling tacky or drying"
   - "Holds shimmer and metallic shades in place for 8+ hours without fallout"
   - "Squeeze tube design lets you control dosage precisely — no wasted product"
-cons:
+cons: 
   - "Can emphasize dry patches if skin isn't moisturized beforehand"
   - "Darker pigment shades may need a few extra seconds of blending before they set"
+
 ---
 
 Let’s be honest about eyeshadow primers: most either feel like glue on your lids or do nothing at all. The e.l.f. Lock It Down Eyeshadow Primer sits somewhere in the middle — and for under $10, that’s a genuinely impressive place to be.

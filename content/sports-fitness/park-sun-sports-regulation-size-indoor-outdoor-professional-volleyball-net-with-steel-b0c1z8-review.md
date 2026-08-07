@@ -1,4 +1,5 @@
 ---
+
 title: "Park & Sun Sports Regulation Size Indoor/Outdoor Professiona"
 seo_title: "Park & Sun Sports Regulation Size Indoor/Outdoor P Review"
 meta_description: "Our full park & sun sports regulation size indoor/outdoor professiona review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1Z8FY9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WSjfscalL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $100 test: Is this the volleyball net that finally holds its tension?

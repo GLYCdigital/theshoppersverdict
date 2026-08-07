@@ -1,4 +1,5 @@
 ---
+
 title: "Furniliving Mid-Century Vanity Chair Tufted Adjustable Swive"
 seo_title: "Furniliving Mid-Century Vanity Chair Review: Worth It? (2026)"
 meta_description: "Honest Furniliving Mid-Century vanity chair review: tufted comfort, adjustable swivel, real buyer feedback. Is it worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWDC5V4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FwqiELKIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine button-tufted cushion with high-density foam that holds shape after months of daily use"
   - "360-degree swivel base with smooth, silent rotation — no squeaking even on hardwood floors"
   - "Adjustable height range (about 17.5 to 21.5 inches) fits standard vanities and taller makeup desks"
-cons:
+cons: 
   - "Assembly requires an Allen wrench and some patience — the legs bolt on individually, taking 15-20 minutes"
   - "Upholstery is faux leather, not genuine — shows wear if you have sharp belt buckles or pets with claws"
   - "No wheels or casters — you'll need to stand to move it, which annoys some buyers"
+
 ---
 
 # Furniliving Mid-Century Vanity Chair: The $70 Makeup Stool That Beats Chairs Twice Its Price

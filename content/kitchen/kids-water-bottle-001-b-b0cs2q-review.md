@@ -1,4 +1,5 @@
 ---
+
 title: "Kids water bottle 001-B"
 seo_title: "Kids water bottle 001-B Review: Verdict | TSV"
 meta_description: "Our full kids water bottle 001-b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CS2Q9YJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614HKu1CZhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about kids' water bottles: most either leak, break, or become a science experiment. The Kids water bottle 001-B (Amazon's B0CS2Q9YJC) tries to solve all three problems at once. With 225 ratings and a 4.5-star average, it's clearly doing something right — but it's not perfect. Here's the real breakdown.

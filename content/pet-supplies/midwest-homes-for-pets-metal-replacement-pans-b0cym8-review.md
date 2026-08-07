@@ -1,4 +1,5 @@
 ---
+
 title: "Midwest Homes for Pets Metal Replacement Pans"
 seo_title: "Midwest Homes for Pets Metal Replacement Pans Review: Ver"
 meta_description: "Our full midwest homes for pets metal replacement pans review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYM875KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615wI5P3uCL._AC_SL1305_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has ever turned a plastic crate pan into confetti, you already know why this replacement exists. The Midwest Homes for Pets Metal Replacement Pans is the upgrade that solves the two biggest crate-pan failures: chewability and stink. But before you click buy, let’s talk about whether the metal swap is actually worth the tradeoffs—because there are a couple.

@@ -1,4 +1,5 @@
 ---
+
 title: "SCHNEIDER ELECTRIC HOM2200BB Miniature Circuit Breaker"
 seo_title: "SCHNEIDER ELECTRIC HOM2200BB Miniature Circuit Bre Review"
 meta_description: "Our full schneider electric hom2200bb miniature circuit breaker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00CONN0TE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i8MC4KsRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're working on a Square D Homeline panel, this is the breaker you want. It's not flashy, not cheap, but it's the right tool for the job — and 240 Amazon reviewers agree at 4.8 stars.

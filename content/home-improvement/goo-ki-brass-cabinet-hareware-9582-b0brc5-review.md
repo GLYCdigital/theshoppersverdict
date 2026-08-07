@@ -1,4 +1,5 @@
 ---
+
 title: "Goo-Ki Brass Cabinet Hareware 9582"
 seo_title: "Goo-Ki Brass Cabinet Hareware 9582 Review: Verdict | TSV"
 meta_description: "Our full goo-ki brass cabinet hareware 9582 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BRC5X7RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-0H8hpeAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cabinet hardware: it's the jewelry of your kitchen, and cheap stuff shows. The Goo-Ki Brass Cabinet Hardware 9582 set sits in that awkward middle ground between builder-grade zinc and boutique-boutique brass. Here's the real story after digging through 225 ratings.

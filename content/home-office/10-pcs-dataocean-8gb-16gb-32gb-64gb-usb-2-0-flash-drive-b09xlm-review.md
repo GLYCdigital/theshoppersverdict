@@ -1,4 +1,5 @@
 ---
+
 title: "10 PCS DataOcean 8GB 16GB 32GB 64GB USB 2.0 Flash Drive Memo"
 seo_title: "DataOcean USB 2.0 Flash Drive 10-Pack Review (2026)"
 meta_description: "Honest DataOcean 10-pack USB 2.0 flash drive review: mixed capacities, build quality, real-world speeds, and who should buy. Read before you order."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09XLMS7Z6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711PvLdMjwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Mixed-capacity 10-pack (2×8GB, 2×16GB, 3×32GB, 3×64GB) covers every use case from firmware to media storage"
   - "Swivel metal housing protects the connector — no caps to lose, survives pocket/backpack abuse"
   - "Consistent USB 2.0 performance (~18-20 MB/s read, ~8-10 MB/s write) — what the spec promises"
-cons:
+cons: 
   - "USB 2.0 tops out around 20 MB/s — transferring 64GB of files will test your patience"
   - "No included lanyards or keychains despite the 'memo' branding — buy clips separately"
   - "Capacity stickers are small; with 10 identical-looking drives you'll want to label them yourself"
+
 ---
 
 **If you manage multiple computers, run a small office, or just lose flash drives like they're disposable — this 10-pack from DataOcean is the bulk-buy answer to a problem you didn't know you had.**

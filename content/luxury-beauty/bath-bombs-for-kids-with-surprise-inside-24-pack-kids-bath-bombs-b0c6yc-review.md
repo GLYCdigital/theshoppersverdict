@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Bombs for Kids with Surprise Inside, 24 Pack Kids Bath"
 seo_title: "Bath Bombs for Kids with Surprise Inside: 24 Pack Review"
 meta_description: "Honest review of 24-pack kids bath bombs with surprise toys inside. Tested for fizz, scent, skin sensitivity, and toy quality. Is it worth $21.99?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C6YCHZ48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uKz5hpsdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Each bath bomb contains a separate sealed toy capsule, so the surprise stays clean and dry even as the bomb dissolves"
   - "Generous 24-count pack breaks down to roughly $0.92 per bath — significantly cheaper than single-serve kids' bath bombs at big-box stores"
   - "Bombs are individually wrapped and sized at about 2.5 inches, making them easy for small hands to hold and drop in the tub"
-cons:
+cons: 
   - "Fizz duration is short — most bombs fully dissolve in 2–3 minutes, which may disappoint kids expecting a longer show"
   - "Toy quality is hit-or-miss; several buyers report receiving duplicate toys within the same pack, and some figures feel cheaply made"
   - "Scent is present but mild, and artificial — not a concern for most kids, but parents sensitive to synthetic fragrances should take note"
+
 ---
 
 **Bottom line: These bath bombs deliver exactly what they promise — a fizzy, colorful bath with a hidden toy surprise — at a price that undercuts most competitors. But the short fizz time and inconsistent toy variety mean you're paying more for the reveal than the bath experience itself.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Maskiss Under Eye Patches, eye mask, Collagen Skin Care Prod"
 seo_title: "Maskiss Under Eye Patches, eye mask, Collagen Skin Review"
 meta_description: "Our full maskiss under eye patches, eye mask, collagen skin care prod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHWS3B3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-r6hR-Z5L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The under-eye patch market is crowded with gimmicks. Most are glorified wet wipes with collagen printed on the box. The Maskiss Under Eye Patches aren't that — but they're not miracle workers either. Here's what 220 Amazon reviewers at 4.4 stars actually experienced.

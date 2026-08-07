@@ -1,4 +1,5 @@
 ---
+
 title: "McCafe Breakfast Blend Coffee, Keurig Single Serve Keurig K-Cup Pods, Light Roast, 96 Count (4 Packs of 24)"
 seo_title: "McCafe Breakfast Blend K-Cup Review: Worth It? (2026)"
 meta_description: "Honest McCafe Breakfast Blend K-Cup review: 96-count value, light roast flavor, real customer feedback. Is it worth $63.98? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 7584
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08DBYHWT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lmgrND16L._SL1500_.jpg"
-pros:
+pros: 
   - "Each pod holds 10.4g of coffee — noticeably more than standard K-Cups, producing a fuller cup without bitterness"
   - "Smooth, balanced light roast with no acidic afterburn; consistent from first cup to last in the box"
   - "At $0.67 per cup, undercuts most grocery-store K-Cup pricing while matching fast-food quality"
-cons:
+cons: 
   - "Light roast means thinner body — dark-roast drinkers will find it weak, not just mild"
   - "Plastic pods aren't recyclable in most curbside programs; you'll need a specialty drop-off for the foil lids"
+
 ---
 
 ## Is this actually McDonald's coffee in a pod?

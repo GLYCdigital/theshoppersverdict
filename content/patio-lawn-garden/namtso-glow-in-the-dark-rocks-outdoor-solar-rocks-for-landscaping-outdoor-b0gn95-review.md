@@ -1,4 +1,5 @@
 ---
+
 title: "NAMTSO Glow in The Dark Rocks Outdoor, Solar Rocks for Lands"
 seo_title: "NAMTSO Glow in The Dark Rocks Outdoor, Solar Rocks Review"
 meta_description: "Our full namtso glow in the dark rocks outdoor, solar rocks for lands review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GN955RKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jh+B2sRLL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're picturing river rocks that radiate moonlight all night, adjust expectations now. The NAMTSO Glow in The Dark Rocks are solar-powered resin stones with a soft LED glow — think subtle garden magic, not a beacon. At $12.99 for a 10-pack, they're an affordable way to test solar landscaping without committing to permanent lighting. Here's what you actually get.

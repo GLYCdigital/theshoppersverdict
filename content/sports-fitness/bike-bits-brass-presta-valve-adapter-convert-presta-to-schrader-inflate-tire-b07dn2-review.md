@@ -1,4 +1,5 @@
 ---
+
 title: "Bike Bits Brass Presta Valve Adapter - Convert Presta to Sch"
 seo_title: "Bike Bits Brass Presta Valve Adapter Review (2026): Is It Worth It?"
 meta_description: "Honest Bike Bits Brass Presta Valve Adapter review: converts Presta to Schrader for easy air fills. Tested for leaks, durability, and fit. Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DN2MTKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+m+WFCgDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined solid brass construction with a snug, leak-free seal across multiple Presta valve lengths"
   - "Tiny footprint (under 1 inch) — can stay threaded on the valve stem without interfering with most pump heads"
   - "Works with both gas station air hoses and standard Schrader floor pumps, eliminating the need for a dedicated Presta pump head"
-cons:
+cons: 
   - "No built-in valve core tool — you'll still need a separate tool to remove Presta cores for sealant or tubeless setup"
   - "Brass threads can bind if over-tightened or cross-threaded on cheap valve stems; hand-tighten only"
   - "Easy to lose — at this size, it'll vanish in a pocket or saddle bag without a dedicated spot"
+
 ---
 
 You're at a gas station with a flat rear tire. The air hose has a Schrader chuck. Your road bike has Presta valves. Without this tiny brass adapter, you're either calling for a ride or hoping the station has a broken vending machine that accepts 20-year-old quarters. The Bike Bits Brass Presta Valve Adapter solves exactly this problem — and it's small enough to forget you own it until you desperately need it.

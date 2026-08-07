@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Brew 12-Cup Coffee Maker"
 seo_title: "OXO Brew 12-Cup Coffee Maker Review: Verdict | TSV"
 meta_description: "Our full oxo brew 12-cup coffee maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNSLLFR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31588Gz4XUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OXO Brew 12-Cup Coffee Maker doesn't look flashy. It's a rectangular stainless box with a carafe, a water tank, and one button. But this machine has quietly become the default recommendation for coffee enthusiasts who want café-quality drip without spending $300 on a high-end brewer. Here's why.

@@ -1,4 +1,5 @@
 ---
+
 title: "551 inch"
 seo_title: "551 Coffee Maker Review: Worth It? (2026)"
 meta_description: "Our 551 coffee maker review covers performance, build quality, and real buyer feedback. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CR6HN95Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GDc6i20WL._SL1500_.jpg"
-pros:
+pros: 
   - "Brews a full pot in under 8 minutes with consistent extraction across all cup sizes"
   - "Durable stainless steel thermal carafe keeps coffee hot for 4+ hours without a burner"
   - "Programmable timer and auto-shutoff are genuinely intuitive — no manual required"
-cons:
+cons: 
   - "Carafe lid is a two-handed operation to pour; awkward one-handed morning pours"
   - "Water reservoir is fixed, not removable — filling requires careful positioning under the tap"
+
 ---
 
 ## Is the 551 Coffee Maker Worth Your Counter Space?

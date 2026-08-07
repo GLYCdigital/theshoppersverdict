@@ -1,4 +1,5 @@
 ---
+
 title: "Merrick Purrfect Bistro Grain Free Wet Cat Food Rabbit Recip"
 seo_title: "Merrick Purrfect Bistro Grain Free Wet Cat Food Ra Review"
 meta_description: "Our full merrick purrfect bistro grain free wet cat food rabbit recip review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F24Z4MHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71drBE5FhhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Merrick Purrfect Bistro Grain Free Wet Cat Food Rabbit Recip** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

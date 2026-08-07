@@ -1,4 +1,5 @@
 ---
+
 title: "Intel Core Ultra 5 Desktop Processor 245K - 14 cores (6 P-co"
 seo_title: "Intel Core Ultra 5 Desktop Processor 245K - 14 cor Review"
 meta_description: "Our full intel core ultra 5 desktop processor 245k - 14 cores (6 p-co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DY89BZQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KhWamLvDL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Intel Core Ultra 5 245K Review: The Office Workhorse That Demands a GPU

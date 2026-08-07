@@ -1,4 +1,5 @@
 ---
+
 title: "Preruner Auto Darkening Welding Lens"
 seo_title: "Preruner Auto Darkening Welding Lens Review: Verdict | TS"
 meta_description: "Our full preruner auto darkening welding lens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3XMBYTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d8vTMatOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Preruner Auto Darkening Welding Lens: The Budget Lens That Actually Competes

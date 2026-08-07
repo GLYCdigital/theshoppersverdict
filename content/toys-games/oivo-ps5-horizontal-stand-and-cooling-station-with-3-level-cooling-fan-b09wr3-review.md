@@ -1,4 +1,5 @@
 ---
+
 title: "OIVO PS5 Horizontal Stand and Cooling Station with 3-Level C"
 seo_title: "OIVO PS5 Horizontal Stand and Cooling Station with Review"
 meta_description: "Our full oivo ps5 horizontal stand and cooling station with 3-level c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09WR3DBT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iun4-uGpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Real Question: Does Your PS5 Actually Need This?

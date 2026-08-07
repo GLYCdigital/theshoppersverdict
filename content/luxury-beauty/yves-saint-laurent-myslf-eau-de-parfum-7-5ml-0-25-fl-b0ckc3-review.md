@@ -1,4 +1,5 @@
 ---
+
 title: "Yves Saint Laurent MYSLF Eau de Parfum 7.5ml / 0.25 fl oz Mi"
 seo_title: "Yves Saint Laurent MYSLF Eau de Parfum 7.5ml / 0.2 Review"
 meta_description: "Our full yves saint laurent myslf eau de parfum 7.5ml / 0.25 fl oz mi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CKC3QN8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717BBpqTEZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the YSL MYSLF mini a smart buy or a wallet-draining gimmick? Here's the honest breakdown.**

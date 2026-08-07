@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Padded Folding Chair, Indoor Outdoor Portable Stackabl"
 seo_title: "DUMOS Padded Folding Chair Review: Worth It? (2026)"
 meta_description: "DUMOS padded folding chair review: 4.3★ rated, stackable, indoor/outdoor. Real durability, comfort & sizing tested. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQZJLH7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WRSiWAWkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 2-inch padded seat cushion that actually stays comfortable through a full dinner party, not just the first 10 minutes"
   - "True stackable design — 4-5 chairs nest together neatly, saving serious floor space in garages or closets"
   - "Steel frame with reinforced X-brace rated to 300 lbs, feels solid even when leaned back slightly"
-cons:
+cons: 
   - "No armrests — if you're used to lounging with elbows supported, these will feel more like event seating than living room furniture"
   - "Fabric upholstery is stain-prone; the light gray option shows coffee spills and grass marks quickly without treatment"
   - "Folding mechanism requires a firm push to lock — several users report pinched fingers if they're not paying attention"
+
 ---
 
 Let's be honest: most folding chairs are an ugly necessity. You drag them out for Thanksgiving, they wobble, they pinch your thighs, and you hide them in the garage the other 360 days of the year. The DUMOS Padded Folding Chair tries to be the exception — and for the most part, it pulls it off.

@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture Adjustable Half-Moon Blue Plastic Activity T"
 seo_title: "Flash Furniture Half-Moon Activity Table Review (2026)"
 meta_description: "Flash Furniture adjustable half-moon blue activity table review: height settings, durability, real buyer feedback. Is it worth it for classrooms?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00XHX80FO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41bLV78hMzL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Four height positions (19–25 inches) grow with kids from preschool to early elementary"
   - "Half-moon shape nests multiple tables into a circle for group activities"
   - "Molded plastic top resists stains, scratches, and daily sanitizing wipes"
-cons:
+cons: 
   - "Plastic surface shows scuffs from shoes and toys — darker colors hide marks better"
   - "Assembly requires a hex wrench; legs can wobble if bolts aren't cranked tight"
   - "No built-in storage or cup holders, so supplies end up on the floor"
+
 ---
 
 **The half-moon table that actually earns its classroom stripes — but check the leg tightness before you commit.**

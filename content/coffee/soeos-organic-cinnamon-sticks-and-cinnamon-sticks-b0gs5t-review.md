@@ -1,4 +1,5 @@
 ---
+
 title: "Soeos Organic Cinnamon Sticks and Cinnamon Sticks"
 seo_title: "Soeos Organic Cinnamon Sticks and Cinnamon Sticks Review:"
 meta_description: "Our full soeos organic cinnamon sticks and cinnamon sticks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GS5TLJ8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bz8+JDv3L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most cinnamon sticks you buy are for oatmeal or mulled wine. But if you're a coffee person, you know the real game — dropping a stick into your brew basket transforms a flat cup into something with a warm, almost citrusy depth. Soeos markets itself as the answer to that craving. Does it deliver?

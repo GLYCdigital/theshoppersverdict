@@ -1,23 +1,25 @@
 ---
+
 title: "Demitasse Espresso Spoons, Mini Coffee Spoon, 4.7 Inches Sta"
 seo_title: "Demitasse Espresso Spoons Review: Mini 4.7-Inch Stainless Steel"
 meta_description: "Demitasse espresso spoons review: 4.7-inch mini stainless steel spoons. Are they worth $6.58? Real-world testing, buyer feedback, and honest verdict."
 slug: "demitasse-espresso-spoons-mini-coffee-spoon-4-7-inches-stainless-steel-small-b09cp1-review"
 image_alt: "Set of demitasse espresso spoons, 4.7-inch mini stainless steel coffee spoons"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 6.58  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: 6.58
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CP1GTPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K7SOE05SS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "True 4.7-inch length fits espresso cups and small dessert glasses without tipping"  
   - "Mirror-polished 18/8 stainless steel resists bending and water spots"  
   - "Sold in a 12-pack — enough for a full dinner party or daily rotation"  
-cons:  
+cons: 
   - "No dishwasher-safe guarantee; hand washing recommended to preserve shine"  
   - "Some buyers report packaging arrives with minor surface scratches"
+
 ---
 
 If you’ve ever used a full-size teaspoon to stir a 2-ounce espresso, you know the awkward clank against the cup and the handle that sticks out at a ridiculous angle. This 12-pack of 4.7-inch demitasse spoons solves that problem for $6.58 — roughly 55 cents per spoon. That’s the kind of price-to-utility ratio that makes you wonder why you didn’t buy them sooner.

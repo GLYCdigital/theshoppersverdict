@@ -1,4 +1,5 @@
 ---
+
 title: "Ollny Christmas Lights Outdoor- Warm White Plug in Fairy Lig"
 seo_title: "Ollny Christmas Lights Outdoor- Warm White Plug in Review"
 meta_description: "Our full ollny christmas lights outdoor- warm white plug in fairy lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BTYW9RGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-lIPqKM0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about outdoor Christmas lights: most of them are either cheap enough to throw away in January or expensive enough to make you wince when the wind knocks a strand down. The Ollny Warm White Plug-In Fairy Lights sit somewhere more interesting — they're long, versatile, and thoughtfully designed for people who actually hang lights every year, not just once.

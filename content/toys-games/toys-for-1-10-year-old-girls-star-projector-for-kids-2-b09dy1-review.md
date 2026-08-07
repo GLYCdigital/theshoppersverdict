@@ -1,4 +1,5 @@
 ---
+
 title: "Toys for 1-10 Year Old Girls,Star Projector for Kids 2-9 Yea"
 seo_title: "Toys for 1-10 Year Old Girls,Star Projector for Ki Review"
 meta_description: "Our full toys for 1-10 year old girls,star projector for kids 2-9 yea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09DY1VZJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LA-cqXmlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review Body**

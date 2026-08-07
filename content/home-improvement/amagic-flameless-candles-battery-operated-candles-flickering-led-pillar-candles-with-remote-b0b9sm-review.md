@@ -1,4 +1,5 @@
 ---
+
 title: "Amagic Flameless Candles, Battery Operated Candles, Flickeri"
 seo_title: "Amagic Flameless Candles Review: Realistic Flicker, Remote Control"
 meta_description: "Amagic flameless candles review: 4.4-star LED pillars with remote, timer, and realistic flicker. See if they beat cheaper sets for home safety."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9SM17TF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51e-WYBuBPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-key remote with 4-hour and 8-hour timers that actually remember your settings"
   - "Warm 2700K LEDs with a genuinely random flicker pattern — not the cheap strobe effect"
   - "Wax exterior with real texture; looks convincing from 3 feet away"
-cons:
+cons: 
   - "Batteries not included — you'll need 18 C batteries for the full set"
   - "Remote requires line-of-sight; won't work through thick glass or around corners"
   - "Timer resets if you remove batteries mid-cycle — minor annoyance if you swap often"
+
 ---
 
 **Bottom line up front:** These Amagic battery-operated pillar candles solve the one problem every flameless candle buyer hits — they look like real wax, flicker like real flame, and the remote actually works. At 4.4 stars from 220 ratings, they're solidly above the Amazon candle-pack average, but they're not perfect. Here's the full story.

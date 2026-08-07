@@ -1,4 +1,5 @@
 ---
+
 title: "Wikki Stix Doodler Travel Toy for Kids â€“ 24 Reusable Wax S"
 seo_title: "Wikki Stix Doodler Travel Toy for Kids â€“ 24 Reus Review"
 meta_description: "Our full wikki stix doodler travel toy for kids â€“ 24 reusable wax s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00TF7ZZM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dfmiFMD2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the travel toy that actually keeps kids quiet — or just another plastic thing that gets lost by mile 3?**

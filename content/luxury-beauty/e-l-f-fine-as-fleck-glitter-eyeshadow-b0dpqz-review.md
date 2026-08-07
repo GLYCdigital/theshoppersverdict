@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Fine As Fleck Glitter Eyeshadow"
 seo_title: "e.l.f. Fine As Fleck Glitter Eyeshadow Review (2026)"
 meta_description: "Honest e.l.f. Fine As Fleck Glitter Eyeshadow review: fallout, payoff, wear time, and whether this budget glitter is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPQZ88RT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IFjFj1MkL._SL1500_.jpg"
-pros:
+pros: 
   - "Dramatic, high-impact sparkle that reads as wet-look glitter, not dusty shimmer"
   - "Incredibly affordable price point for the payoff — a little goes a long way"
   - "Versatile loose formula that works as an eyeshadow topper, inner-corner pop, or body highlight"
-cons:
+cons: 
   - "Loose powder formula means fallout is inevitable — intense fallout during application and some throughout wear"
   - "Requires a glitter primer or damp brush for best results; dry application leads to patchy adhesion"
   - "Single shade only — no variety options if the silver/iridescent combo isn't your vibe"
+
 ---
 
 Let's be honest about glitter eyeshadow: most of it looks like a child's craft project. The e.l.f. Fine As Fleck Glitter Eyeshadow is not that. This loose, finely-milled glitter delivers the kind of high-impact, wet-look sparkle that typically costs three times as much from prestige brands like Stila or Hourglass — minus the sticker shock.

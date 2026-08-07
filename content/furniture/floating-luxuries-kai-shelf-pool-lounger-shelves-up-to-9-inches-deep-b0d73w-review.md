@@ -1,4 +1,5 @@
 ---
+
 title: "Floating Luxuries Kai Shelf Pool Lounger, Shelves Up to 9 In"
 seo_title: "Floating Luxuries Kai Pool Lounger Review: Worth It?"
 meta_description: "Read our honest Floating Luxuries Kai Shelf Pool Lounger review. See how the 9-inch shelves, cup holders, and 4.6-star rating hold up in real pool use."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D73WJ9XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J50vwD-6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "9-inch-deep side shelves actually hold full-size plates, books, and tablet stands without tipping"
   - "Dual cup holders are recessed deep enough to keep cans and stemware stable in choppy water"
   - "Durable drop-stitch PVC construction holds firm shape after hours of sun exposure"
-cons:
+cons: 
   - "At roughly 8 pounds, it's heavier than basic pool floats — you'll feel it carrying it to the water"
   - "No built-in canopy or shade option, so you'll need a separate umbrella or hat for full sun days"
+
 ---
 
 Let's cut through the pool float noise. Most inflatable loungers are cheap vinyl rectangles that drift sideways the moment you set a drink on them. The Floating Luxuries Kai Shelf Pool Lounger is a different animal — a drop-stitch, rigid-floored platform designed to actually hold your stuff while you float. After digging through 229 ratings and testing reports, here's what you need to know before dropping your money.

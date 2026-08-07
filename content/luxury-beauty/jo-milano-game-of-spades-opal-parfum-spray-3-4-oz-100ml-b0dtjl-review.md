@@ -1,4 +1,5 @@
 ---
+
 title: "Jo Milano Game of Spades Opal Parfum Spray | 3.4 oz (100ml) "
 seo_title: "Jo Milano Game of Spades Opal Parfum Spray | 3.4 o Review"
 meta_description: "Our full jo milano game of spades opal parfum spray | 3.4 oz (100ml)  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTJLWPCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817tT0wkhiL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Jo Milano Game of Spades Opal worth your money, or is it just another hyped designer dupe?** After 215 Amazon ratings averaging 4.3 stars, this 3.4 oz (100ml) extract de parfum has clearly found an audience. But here's what the five-star reviews don't tell you.

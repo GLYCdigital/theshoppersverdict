@@ -1,4 +1,5 @@
 ---
+
 title: "AAFKK 2x3 Area Rug for Bedroom, Small Grey Rugs for Living R"
 seo_title: "AAFKK 2x3 Area Rug Review: Small Grey Rug for Bedroom & Living Room"
 meta_description: "Honest AAFKK 2x3 area rug review: soft texture, non-slip backing, real buyer feedback. Find out if this small grey rug fits your bedroom or living room."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DXBT3WBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XAeDB9Y7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Low-profile 0.4-inch pile height works under doors and chair casters without bunching"
   - "Non-slip rubber backing stays put on hardwood and tile — no pad needed"
   - "Machine-washable at 2x3 size fits most home washers"
-cons:
+cons: 
   - "Thin padding means cold floors underneath in winter — not a plush feel"
   - "Grey color runs slightly darker in person than the product photos suggest"
   - "Edges can curl at corners initially; requires 24-48 hours to lay flat"
+
 ---
 
 Let’s be honest about small rugs: most are either too flimsy to stay put or too thick to fit under a door. The AAFKK 2x3 sits in a practical middle ground that 215 Amazon reviewers have rated at 4.3 stars. But is it the right small rug for your space? Here’s what I found digging through the specs and real buyer feedback.

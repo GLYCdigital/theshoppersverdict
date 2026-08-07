@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Napkin Holder with Salt and Pepper Shakers Caddy"
 seo_title: "Metal Napkin Holder with Salt and Pepper Shakers C Review"
 meta_description: "Our full metal napkin holder with salt and pepper shakers caddy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGCTJ3WS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7162sSlYWIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dining table looks like a cafeteria line — separate napkin holder, two shakers, maybe a caddy for sweetener packets — this all-in-one metal unit from Amazon might be the consolidation you've been putting off. It's not flashy. It's not expensive. But after 229 ratings holding a 4.6-star average, this simple caddy is clearly doing something right. Let me tell you what that something is.

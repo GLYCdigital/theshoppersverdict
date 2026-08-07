@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Posi-Temp Trim Kit"
 seo_title: "Moen Posi-Temp Trim Kit Review: Verdict | TSV"
 meta_description: "Our full moen posi-temp trim kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07Q6YYSLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DGEBMwdwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a hole in your shower wall where an old Moen handle used to be. The valve body is fine — it's the trim that's shot. That's exactly the scenario the Moen Posi-Temp Trim Kit exists for, and it does the job without forcing you to tear out tile. But it's not a perfect product, and you should know where it cuts corners before you buy.

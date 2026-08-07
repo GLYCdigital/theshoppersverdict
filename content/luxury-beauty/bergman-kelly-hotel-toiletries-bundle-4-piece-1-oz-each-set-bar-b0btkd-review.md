@@ -1,4 +1,5 @@
 ---
+
 title: "BERGMAN KELLY Hotel Toiletries Bundle, 4-Piece (1 oz each) S"
 seo_title: "BERGMAN KELLY Hotel Toiletries Bundle Review (2026): Worth It?"
 meta_description: "Honest BERGMAN KELLY Hotel Toiletries Bundle review: 4-piece set quality, scent, and value. See if this luxury travel kit earns its 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BTKD13XR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QWnZjBUYL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium botanical formulation with aloe, green tea, and vitamin E — noticeably gentler than standard hotel brands"
   - "True TSA-compliant 1 oz bottles that fit quart bags without bulging, unlike most 'travel' sizes that run over"
   - "Consistent unisex scent across all four products — no clashing fragrance notes between shampoo and lotion"
-cons:
+cons: 
   - "At roughly $10–12 per ounce, the price-to-volume ratio is steep for daily use at home"
   - "Bottles are single-use oriented; the flip caps can crack if you try to refill them multiple times"
+
 ---
 
 Let's be blunt: most hotel toiletry sets are the product equivalent of elevator music — functional, forgettable, and faintly chemical-smelling. The BERGMAN KELLY 4-Piece Bundle is not that. This is the set you actually consider pocketing from a boutique hotel, except you're buying it yourself. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Origami Foldable Kitchen Island Cart"
 seo_title: "Origami Foldable Kitchen Island Cart Review: Verdict | TS"
 meta_description: "Our full origami foldable kitchen island cart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07D59CW82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p5abxAuWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most foldable kitchen islands are wobbly, cheap-looking compromises that you regret the moment you load them with groceries. The Origami Foldable Kitchen Island Cart is not that. With a 4.8-star average across 240 ratings, this thing has earned its reputation — but it’s not perfect, and you should know exactly where it cuts corners before you click buy.

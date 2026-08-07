@@ -1,4 +1,5 @@
 ---
+
 title: "ASD LED Long Wall Mount Light Fixture, Outdoor & Indoor Line"
 seo_title: "ASD LED Long Wall Mount Light Review: Sconce, 2026 inch"
 meta_description: "Honest ASD LED Long Wall Mount Light review: build quality, brightness, installation, and whether this outdoor linear sconce is worth your money."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTDQ8R4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DAUcDuydL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Uniform 3000K light output with no visible hotspots or dark bands across the full fixture length"
   - "Die-cast aluminum housing with IP65 rating — holds up through rain, snow, and coastal salt air"
   - "Universal mounting plate fits standard 4-inch junction boxes; slotted holes forgive minor misalignment"
-cons:
+cons: 
   - "Non-replaceable LED board — when the diodes eventually dim, you replace the whole unit"
   - "No motion sensor or photocell option on this model; you'll need an external timer or smart switch"
   - "Screws included are basic zinc-plated — swap them for stainless if mounting in high-humidity zones"
+
 ---
 
 If you're looking at the ASD LED Long Wall Mount Light Fixture, you already know what you want: a clean, modern linear sconce that throws even light across a stretch of wall without breaking the bank. At 4.2 stars from 210 buyers, it's not perfect — but for the money, it does a lot right. Here's what you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fibvaxm 100 Counts Fire Starter, for Campfires, Fireplace, B"
 seo_title: "Fibvaxm Fire Starter Review: 100 Counts for Campfires & BBQ"
 meta_description: "Fibvaxm 100-count fire starter review: Do these lightweight cubes light fast and burn clean? Tested for campfires, fireplaces, and pizza ovens. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D3B7H9N4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815XVN5O7RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100 cubes per pack — enough for roughly 25–30 fires if you use 3–4 per ignition"
   - "Lights with a single match or lighter, even in damp conditions"
   - "No chemical aftertaste or odor — safe for cooking over open flame"
-cons:
+cons: 
   - "Cubes are small (about 1-inch squares); you'll need 3–4 for a full fire pit"
   - "No resealable bag — the cardboard box leaves cubes exposed to humidity after opening"
+
 ---
 
 Let's be blunt: most fire starters are either sawdust-and-wax pucks that smoke like a diesel truck or chemical-soaked bricks that make your s'mores taste like lighter fluid. The Fibvaxm 100-count fire starter sits in a different category — compressed wood fiber cubes that actually do what they claim. With 240 ratings and a 4.8 average on Amazon, the consensus is strong. But is this the right fire starter for your setup? Here's what I found.

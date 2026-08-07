@@ -1,4 +1,5 @@
 ---
+
 title: "Power Sonic PS-1270 F1 12v 7ah SLA Battery"
 seo_title: "Power Sonic PS-1270 F1 12v 7ah SLA Battery Review: Verdic"
 meta_description: "Our full power sonic ps-1270 f1 12v 7ah sla battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CYM95618/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51A1Mhirp5L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 Battery That Keeps Your Lawn Gear Alive

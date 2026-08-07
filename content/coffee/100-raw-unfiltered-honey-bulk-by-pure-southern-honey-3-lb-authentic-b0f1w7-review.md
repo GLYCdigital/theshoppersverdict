@@ -1,4 +1,5 @@
 ---
+
 title: "100% Raw Unfiltered Honey, Bulk by Pure Southern Honey [ 3 l"
 seo_title: "Pure Southern Honey 3L Review: Raw Unfiltered Bulk Worth It?"
 meta_description: "Pure Southern Honey 3L raw unfiltered bulk review: taste, texture, value. Is this 4.6-star honey worth your money? Real buyer insights inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1W7VTV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c5TQx-7vL._SL1500_.jpg"
-pros:
+pros: 
   - "True raw texture with visible pollen and honeycomb bits — proof it's unfiltered, not just labeled"
   - "3-liter bulk size delivers roughly 4.2 lbs of honey at a per-ounce price that beats most grocery store jars"
   - "Creamy, thick consistency that doesn't drip off a spoon — ideal for drizzling or baking"
-cons:
+cons: 
   - "Rapid crystallization within 4–6 weeks; you'll need a warm water bath to re-liquefy, which some find tedious"
   - "Plastic jug with a narrow mouth makes scooping out the last few inches a sticky, awkward chore"
   - "Flavor profile leans floral and mildly sweet — not the bold, dark buckwheat punch some honey purists expect"
+
 ---
 
 **Is this the bulk honey buy you've been hunting for, or a sticky mistake?**  

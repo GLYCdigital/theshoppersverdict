@@ -1,5 +1,6 @@
 ---
 
+
 title: "(16 Pack) Pop Up Sticky Notes 3x3 in Accordion Stickies Supe"
 seo_title: "Pop Up Sticky Notes 3x3 Review: 16-Pack Accordion Dispenser"
 meta_description: "Pop Up Sticky Notes 3x3 16-pack review: Are accordion stickies worth it? Tested for stickiness, dispensers, and value. Real pros, cons, verdict."
@@ -12,14 +13,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CWTYKJH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qXc-pGVFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One-handed pop-up dispensing actually works — no fumbling with pad backing"
   - "16 pads means 1,600 sheets total; genuinely good per-sheet value if priced under $15 inch"
   - "Adhesive holds on vertical monitors, whiteboards, and painted drywall for days"
-cons:
+cons: 
   - "Accordion dispensers are flimsy cardboard; they crush in a backpack or crowded drawer"
   - "Some pads arrive with curled edges from shipping compression, affecting first few sheets"
   - "Color variety is inconsistent — you may get 4 of one color and 1 of another per pack"
+
 
 ---
 

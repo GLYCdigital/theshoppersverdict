@@ -1,4 +1,5 @@
 ---
+
 title: "Bio Ouster 3in1 Weekly Hot Tub Cleaner, Conditioner, Clarifi"
 seo_title: "Bio Ouster 3in1 Hot Tub Cleaner Review: Does It Work?"
 meta_description: "Bio Ouster 3in1 weekly hot tub cleaner review: real results on conditioning, clarifying, and foam control. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08Z4GX494/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RtI+4DuzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "One weekly dose replaces separate clarifier, conditioner, and foam-fighter purchases"
   - "Effectively clears cloudy water and restores soft-feeling water with reduced chemical demand"
   - "Safe for all spa types including saltwater systems when used as directed"
-cons:
+cons: 
   - "Size options are limited; larger tubs may need two bottles per month"
   - "Requires consistent weekly dosing — missing a week often means cloudy water returns"
   - "Not a sanitizer; buyers must maintain chlorine or bromine levels separately"
+
 ---
 
 If you've owned a hot tub longer than a month, you know the drill. You're juggling three or four separate bottles — clarifier, defoamer, conditioner — and trying to remember which one goes in on which day. The Bio Ouster 3in1 Weekly Hot Tub Cleaner collapses that routine into a single weekly pour. The question is whether one product can actually replace three without cutting corners.

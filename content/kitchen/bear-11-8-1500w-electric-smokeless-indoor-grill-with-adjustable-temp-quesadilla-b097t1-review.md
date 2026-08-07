@@ -1,4 +1,5 @@
 ---
+
 title: "Bear 11.8'' 1500W Electric Smokeless Indoor Grill with Adjus"
 seo_title: "Bear 11.8'' 1500W Smokeless Indoor Grill Review (2026)"
 meta_description: "Bear 11.8'' 1500W smokeless indoor grill review: real sear without smoke alarms? Tested for heat, cleanup, and value. Find out who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B097T1JFX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cMqz+VNdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 1500W heating element sears steaks at 450°F+ without triggering smoke detectors, thanks to the integrated fan-and-filter system"
   - "Non-stick grates are genuinely dishwasher-safe and release food cleanly; no soaking or scrubbing required for most cooks"
   - "11.8-inch cooking surface fits 4 standard burger patties or 2 large chicken breasts — right-sized for couples or small families"
-cons:
+cons: 
   - "Filter needs replacement every 2-3 months with heavy use — a recurring cost (~$12-15) that some buyers don't anticipate"
   - "No built-in drip tray removal during cooking; grease collects under the grates and can be messy to pour out mid-session"
   - "Temperature dial is imprecise — settings are 'Low/Med/High' rather than exact degrees, so you'll learn by feel"
+
 ---
 
 Let's be blunt: most "smokeless" indoor grills are a marketing lie. The fan whirs, the smoke alarm still screams, and your apartment smells like a diner for three days. The Bear 11.8'' 1500W is one of the few exceptions that actually delivers on the promise — with a few tradeoffs you need to know about before you buy.

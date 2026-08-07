@@ -1,4 +1,5 @@
 ---
+
 title: "DEERC Quality Fast RC Truck"
 seo_title: "DEERC Fast RC Truck Review: Worth It? (2026)"
 meta_description: "Honest DEERC Fast RC Truck review: speed, durability, battery life, and real buyer feedback. Is this 4.3-star RC truck worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTYW74FQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81saZb9GjvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine 30+ mph top speed right out of the box"
   - "Full metal drivetrain and oil-filled shocks handle rough terrain without breaking"
   - "Two included batteries give 30+ minutes of run time — rare at this price point"
-cons:
+cons: 
   - "Stock tires wear quickly on pavement; expect to swap them within a few weeks"
   - "Controller feels plasticky and lacks a phone holder for the camera feature"
+
 ---
 
 ## The DEERC Fast RC Truck: Real Speed, Real Durability — With a Few Caveats

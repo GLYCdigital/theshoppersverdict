@@ -1,4 +1,5 @@
 ---
+
 title: "LYNN HARDWARE Medium Duty Automatic Door Closer - Highly Dur"
 seo_title: "LYNN HARDWARE Medium Duty Automatic Door Closer -  Review"
 meta_description: "Our full lynn hardware medium duty automatic door closer - highly dur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07P5PNJDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717CsaxfoML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: nobody wakes up excited to buy a door closer. You buy one because the screen door slams at 2 a.m., or the office door swings open every time the HVAC kicks on. That’s exactly who the LYNN HARDWARE Medium Duty Automatic Door Closer is for — and after digging through 220 ratings and the spec sheet, here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Carhartt Pet Durable Nylon Webbing Leashes for Dogs, Reflect"
 seo_title: "Carhartt Reflective Dog Leash Review: Durable Nylon Webbing"
 meta_description: "Carhartt Pet reflective nylon dog leash review: durability, visibility, hardware quality, and real buyer feedback. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHMG146S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s8M+QUYoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reflective stitching runs the full length of the webbing, not just a small patch — real visibility at night"
   - "Heavy-duty metal hardware with a secure bolt snap that holds up to strong pullers"
   - "Carhartt-grade nylon webbing feels dense and substantial, comparable to their work belts"
-cons:
+cons: 
   - "Material is stiff out of the box and takes time to break in; not ideal for dogs that chew leashes"
   - "No padding on the handle — extended walks with a strong puller will dig into your hand"
+
 ---
 
 Some products slap a brand name on a basic design and call it a day. The Carhartt Pet Reflective Nylon Leash is not that product. This is the same duck-grade thinking Carhartt applies to their workwear, translated into a dog leash. If you've owned a Carhartt jacket, you know exactly what this webbing feels like: dense, stiff, and built to outlast whatever you throw at it.

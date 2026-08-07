@@ -1,4 +1,5 @@
 ---
+
 title: "DweIke Tie-Dye Rugs for Living Room Bedroom, 3x5 4x6 5x8 Fee"
 seo_title: "DweIke Tie-Dye Rug Review: 3x5, 4x6, 5x8 Sizes Tested"
 meta_description: "Honest DweIke tie-dye rug review: softness, shedding, durability tested across 3x5, 4x6, and 5x8 sizes. See if this boho accent rug is worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJ636XSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mVua7Q8HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plush 0.5-inch pile with a soft, non-scratchy texture that holds up to daily foot traffic"
   - "True-to-photo tie-dye colors — no washed-out or mismatched patterns between size options"
   - "Non-slip rubber backing grips hardwood and tile without needing a separate rug pad"
-cons:
+cons: 
   - "Noticeable chemical smell out of the box that takes 2-3 days to fully dissipate"
   - "Edges fray slightly at corners after a few weeks, especially in high-traffic walkways"
+
 ---
 
 The DweIke Tie-Dye Rug sits in that tricky middle ground: cheap enough to impulse-buy, nice enough to actually keep. At 4.3 stars across 215 ratings, it's clearly working for a lot of people. But the real question is whether it works for *you* — and that depends on where you're putting it and what you're willing to tolerate.

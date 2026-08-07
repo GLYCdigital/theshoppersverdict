@@ -1,4 +1,5 @@
 ---
+
 title: "Fluest Bed Frame with Headboard and Footboard, Metal Platfor"
 seo_title: "Fluest Metal Bed Frame Review: Sturdy Platform with Headboard"
 meta_description: "Fluest metal platform bed frame review: sturdy steel construction, easy assembly, and quiet support. See what 210 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYF33SPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NyiubkpCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly with interlocking steel rails that click together in under 30 minutes"
   - "13.5 inches of under-bed clearance — fits standard storage bins and robot vacuums"
   - "Reinforced center support beams eliminate the sagging that plagues cheaper metal frames"
-cons:
+cons: 
   - "Metal slats sit close together but can still dent softer mattresses without a bunkie board"
   - "Headboard and footboard are purely decorative — no pillow stop, so pillows slide off the top"
   - "Noise can develop at joints after 6+ months if you don't re-tighten the bolts periodically"
+
 ---
 
 Let me cut through the noise: if you're shopping for a metal platform bed frame under $200, you've seen the same generic options — flimsy rails, missing hardware, and that dreaded center sag after three months. The Fluest Bed Frame with Headboard and Footboard isn't revolutionary, but it does the fundamentals right, and at 4.2 stars from 210 Amazon ratings, there's a reason it's holding its own.

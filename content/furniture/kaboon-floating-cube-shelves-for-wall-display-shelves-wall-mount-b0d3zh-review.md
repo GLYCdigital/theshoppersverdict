@@ -1,4 +1,5 @@
 ---
+
 title: "Kaboon Floating Cube Shelves for Wall, Display Shelves Wall "
 seo_title: "Kaboon Floating Cube Shelves for Wall, Display She Review"
 meta_description: "Our full kaboon floating cube shelves for wall, display shelves wall  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3ZHT9R2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wWMPycuqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Floating shelves are a dime a dozen on Amazon, but the Kaboon Floating Cube Shelves stand out for one simple reason: they're actually cubes, not just flat planks. At 12x12x12 inches, these aren't your typical shelf-and-bracket setup. They're geometric wall art that happens to hold stuff. Here's what 215 buyers at 4.3 stars are really saying.

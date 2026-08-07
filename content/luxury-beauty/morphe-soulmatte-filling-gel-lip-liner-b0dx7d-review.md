@@ -1,4 +1,5 @@
 ---
+
 title: "MORPHE Soulmatte Filling Gel Lip Liner"
 seo_title: "MORPHE Soulmatte Filling Gel Lip Liner Review: Verdict | "
 meta_description: "Our full morphe soulmatte filling gel lip liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX7DVN54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xw8eUwu7L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most lip liners are either too dry to draw a smooth line or so creamy they migrate before you finish your coffee. The MORPHE Soulmatte Filling Gel Lip Liner claims to split that difference with a gel-core formula that fills and defines. At 4.5 stars across 225 ratings, it’s clearly doing something right. But is it the liner you’ll actually reach for daily? I tested it against those exact claims.

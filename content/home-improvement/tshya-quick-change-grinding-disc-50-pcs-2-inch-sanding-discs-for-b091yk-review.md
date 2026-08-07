@@ -1,4 +1,5 @@
 ---
+
 title: "Tshya Quick Change Grinding Disc, 50 Pcs 2 inch Sanding Disc"
 seo_title: "Tshya Quick Change Grinding Disc, 50 Pcs 2 inch Sa Review"
 meta_description: "Our full tshya quick change grinding disc, 50 pcs 2 inch sanding disc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091YKFXRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-PJvuc2ZL._SL1200_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a 2-inch sanding disc is a consumable, and consumables eat budgets. The Tshya 50-pack undercuts typical retail pricing by a wide margin, so the math already looks good. But cheap per-unit cost means nothing if the discs shred on first contact. Here's what 220 ratings at 4.4 stars actually tell you, and what they don't.

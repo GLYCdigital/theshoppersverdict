@@ -1,4 +1,5 @@
 ---
+
 title: "PNY Elite Class 10 U1 microSDHC Flash Memory Card 5-Pack - 1"
 seo_title: "PNY Elite Class 10 U1 microSDHC Flash Memory Card  Review"
 meta_description: "Our full pny elite class 10 u1 microsdhc flash memory card 5-pack - 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSYDVHBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Pgz3QXH8L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: you don’t need a $60 256GB card for a dash cam, a Raspberry Pi, or a retired phone you’re repurposing as a security monitor. The PNY Elite 5-pack answers a different question — what if you need five reliable, no-drama cards scattered across multiple devices without blowing your budget?

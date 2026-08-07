@@ -1,4 +1,5 @@
 ---
+
 title: "Bostik GreenForce 0 VOC Adhesive, 4 Gallons"
 seo_title: "Bostik GreenForce 0 VOC Adhesive Review: Pros, Cons & Verdict"
 meta_description: "Bostik GreenForce 0 VOC Adhesive 4-gallon review: Is this low-VOC construction adhesive worth it? We break down performance, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00PYSXJLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31XxV4f4N6L._AC_.jpg"
-pros:
+pros: 
   - "Truly zero VOCs — no solvent fumes, safe for interior work without a respirator"
   - "Excellent green grab strength; bonds OSB, plywood, drywall, and concrete in 10-15 minutes"
   - "4-gallon pail delivers roughly 900-1,000 linear feet of coverage at 1/4-inch bead, far cheaper per ounce than tubes"
-cons:
+cons: 
   - "Requires a heavy-duty caulk gun or powered dispenser; hand-squeeze guns will struggle with the viscosity"
   - "Open time is short — around 15-20 minutes — so large jobs demand working in smaller sections"
   - "Some users report skinning over in the pail if left open; reseal promptly and use the included lid"
+
 ---
 
 If you've ever glued subflooring or stair treads with standard construction adhesive, you know the drill: crack a window, hold your breath, and hope the headache fades by lunch. The Bostik GreenForce 0 VOC Adhesive eliminates that entire ritual. This is a serious, professional-grade adhesive engineered for indoor use where solvent fumes are a dealbreaker. As shown in the product image, you're getting a substantial 4-gallon pail — not a handful of caulk tubes — which tells you exactly who this is for: someone with real square footage to cover.

@@ -1,4 +1,5 @@
 ---
+
 title: "High Borosilicate Glass Measuring Cup Set-V-Shaped Spout"
 seo_title: "High Borosilicate Glass Measuring Cup Set-V-Shaped Review"
 meta_description: "Our full high borosilicate glass measuring cup set-v-shaped spout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR9DPYCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hJqLFEYJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap glass measuring cup crack the moment hot liquid hits it, you already know why this set exists. This high borosilicate glass measuring cup set from the V-Shaped Spout line is built for people who actually cook — not just people who like looking at pretty kitchen gear. With a 4.7-star average across 235 ratings, it's clearly earning its place in cabinets. But is it worth your money? Let's get into the details.

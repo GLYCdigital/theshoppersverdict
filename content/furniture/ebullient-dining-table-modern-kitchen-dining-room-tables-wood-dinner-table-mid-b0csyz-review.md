@@ -1,4 +1,5 @@
 ---
+
 title: "Ebullient Dining Table Modern Kitchen & Dining Room Tables W"
 seo_title: "Ebullient Dining Table Review: Modern Wood Design for Kitchens"
 meta_description: "Honest Ebullient dining table review: modern wood construction, real-world durability, assembly ease, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSYZ9Z2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HF5IyEtdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid wood tabletop with a smooth, matte finish that resists fingerprints and daily smudges"
   - "Sturdy X-frame base eliminates wobble even on slightly uneven floors — no shims needed"
   - "Under-30-minute assembly with only four bolts; all tools included in the box"
-cons:
+cons: 
   - "Legs arrive in two pieces; alignment during tightening takes patience to avoid cross-threading"
   - "The matte finish shows water rings if you leave wet glasses sitting for extended periods"
   - "No built-in leaf or extension option — what you see is the size you get, permanently"
+
 ---
 
 ## The Dining Table That Doesn't Try Too Hard

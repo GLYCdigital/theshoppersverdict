@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Turf Builder Grass Seed High Traffic Mix"
 seo_title: "Scotts Turf Builder Grass Seed High Traffic Mix Review: V"
 meta_description: "Our full scotts turf builder grass seed high traffic mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BSQJH3N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LtbR6DjvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Can This Grass Seed Actually Handle Your Kids, Dogs, and Weekend Kickabouts?

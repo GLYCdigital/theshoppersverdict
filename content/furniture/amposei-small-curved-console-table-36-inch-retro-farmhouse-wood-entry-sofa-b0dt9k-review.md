@@ -1,4 +1,5 @@
 ---
+
 title: "Amposei Small Curved Console Table 36-Inch Retro Farmhouse W"
 seo_title: "Amposei Curved Console Table Review: 36-Inch Farmhouse Entry Table"
 meta_description: "Honest Amposei 36-inch curved console table review: build quality, real-world durability, who should buy it, and who should skip it. 4.6-star rated."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT9K3MSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KD7-y0IzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Curved front profile adds visual softness that straight console tables lack — fits tight entryways without feeling bulky"
   - "36-inch width suits small apartments and narrow halls while still holding a lamp, tray, and decor"
   - "Retro farmhouse wood finish reads more expensive than the price point suggests"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 20–30 minutes — no pre-drilled pilot holes on some brackets"
   - "Top surface scratches if you drag heavy objects; use felt pads under decor"
   - "Not a solid-wood piece — engineered wood with veneer, so avoid standing water rings"
+
 ---
 
 Let's be direct: most console tables under $150 are flimsy, wobbly, or look like they came from a dorm room. The Amposei 36-inch curved console table isn't that. It's the rare budget-friendly piece that actually looks intentional in a styled home — and with 229 ratings averaging 4.6 stars, buyers largely agree.

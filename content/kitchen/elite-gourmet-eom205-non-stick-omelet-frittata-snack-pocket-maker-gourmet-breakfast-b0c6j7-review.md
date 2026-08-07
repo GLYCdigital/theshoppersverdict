@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EOM205 Non-Stick Omelet, Frittata, Snack Pocke"
 seo_title: "Elite Gourmet EOM205 Review: Omelet & Snack Pocket Maker"
 meta_description: "Elite Gourmet EOM205 non-stick omelet maker review: dual plates, quick cleanup, real-world test results, and honest downsides before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6J7BDX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fM7jZ5mCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual non-stick plates cook two portions at once — one for you, one for someone else, or two flavors without cross-contamination"
   - "Heating indicator light takes the guesswork out of preheating; plates reach cooking temp in about 3 minutes"
   - "Compact footprint (roughly 10 x 5 inches on the counter) stores upright or flat in tight cabinets"
-cons:
+cons: 
   - "No temperature control — just plug in and go, so delicate fillings like soft cheese can overcook if you walk away"
   - "Cord is short at 24 inches; you'll need a counter near an outlet or an extension cord"
   - "Non-stick surface is decent but not ceramic-grade; metal utensils will scratch it, so stick to silicone or wood"
+
 ---
 
 If you've ever stood over a skillet at 7 a.m. trying to fold an omelet without it turning into scrambled-egg confetti, the Elite Gourmet EOM205 is built for you. This compact countertop gadget does one thing — cooks eggs and pocket-style snacks between two heated non-stick plates — and it does it well enough to earn a solid 4.4-star average from 220 buyers.

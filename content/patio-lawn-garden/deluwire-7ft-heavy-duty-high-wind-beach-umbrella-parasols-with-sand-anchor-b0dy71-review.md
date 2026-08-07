@@ -1,4 +1,5 @@
 ---
+
 title: "Deluwire 7ft Heavy Duty High Wind Beach Umbrella Parasols wi"
 seo_title: "Deluwire 7ft Beach Umbrella Review: High Wind Tested"
 meta_description: "Deluwire 7ft heavy-duty beach umbrella with sand anchor reviewed. Does it survive gusty days? Read our honest verdict on build, tilt, and portability."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY714XSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XuU6ub4OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ribbed canopy with reinforced stitching holds up in steady 20+ mph gusts without inverting"
   - "Included 8-inch sand anchor and ground auger provide genuine stability on loose sand"
   - "Tilt mechanism uses a push-button lock — adjusts one-handed, no pinching"
-cons:
+cons: 
   - "Full 7-foot span is heavy (6.2 lbs) — tiring for a long walk from parking lot to sand"
   - "Carry bag is thin nylon with a single shoulder strap; it will rip if you overstuff it"
+
 ---
 
 Let’s cut through the beach gear clutter. Most umbrellas in this price range are either glorified cocktail parasols that snap in a breeze or industrial-grade awnings that need a pickup truck to transport. The Deluwire 7ft Heavy Duty model tries to split the difference — and after digging through 215 verified ratings averaging 4.3 stars, here’s the real story.

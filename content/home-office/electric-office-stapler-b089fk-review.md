@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Office Stapler Review: Hands-On Testing"
 seo_title: "Electric Office Stapler Review (2026): Worth It? | Real Testing"
 meta_description: "Electric Office Stapler review: 220+ ratings at 4.4/5. We tested speed, staple capacity, and jams. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B089FKCYYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H-mU-qQ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Staples up to 20 sheets effortlessly with zero hand fatigue"
   - "Jam-resistant mechanism that clears itself in seconds when it does jam"
   - "Compact footprint (roughly the size of a large mouse) fits in a shallow drawer"
-cons:
+cons: 
   - "Standard staples only — no heavy-duty option for thick packets"
   - "Plastic housing feels slightly hollow; not built for being dropped off a desk"
+
 ---
 
 ## Stop Killing Your Wrist: Does the Electric Office Stapler Deliver?

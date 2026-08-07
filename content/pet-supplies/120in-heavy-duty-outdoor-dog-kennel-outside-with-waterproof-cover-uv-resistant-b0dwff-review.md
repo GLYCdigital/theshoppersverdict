@@ -1,4 +1,5 @@
 ---
+
 title: "120IN Heavy Duty Outdoor Dog Kennel Outside with Waterproof"
 seo_title: "120IN Heavy Duty Outdoor Dog Kennel Review (2026): Worth It?"
 meta_description: "Honest 120IN Heavy Duty Outdoor Dog Kennel review: waterproof cover, steel frame, real buyer feedback. Is it worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DWFF7WPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZKY4bFJIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely heavy-duty 1.2mm steel frame that holds up to strong chewers and weather"
   - "Waterproof 600D Oxford cover with taped seams actually sheds rain instead of soaking through"
   - "Tool-free assembly under 15 minutes with all hardware pre-labeled"
-cons:
+cons: 
   - "Cover attachment points are plastic clips that can crack in freezing temperatures"
   - "No floor panel included — you'll need to lay pavers or gravel or your dog will dig out"
   - "Bottom gap sits about 1.5 inches off ground, letting in drafts and small critters"
+
 ---
 
 **The 120IN Heavy Duty Outdoor Dog Kennel isn't the cheapest option, and it's not the most premium either. But for the middle-of-the-road price, it solves the biggest problem most outdoor kennels have: it doesn't collapse in a storm.**

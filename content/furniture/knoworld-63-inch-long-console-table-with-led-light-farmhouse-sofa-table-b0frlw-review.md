@@ -1,4 +1,5 @@
 ---
+
 title: "knoworld 63-Inch Long Console Table with LED Light, Farmhous"
 seo_title: "knoworld 63-Inch Long Console Table with LED Light Review"
 meta_description: "Our full knoworld 63-inch long console table with led light, farmhous review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FRLWJCD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XLXc+DuQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: a console table with built-in LED lights sounds like a gimmick until you realize how much it transforms a dim hallway or living room corner. The knoworld 63-inch version is one of the better-executed takes on this trend, and at 4.3 stars across 215 ratings, it's earned genuine traction. But is it worth your money? Here's the full picture.

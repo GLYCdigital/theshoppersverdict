@@ -1,4 +1,5 @@
 ---
+
 title: "COOK WITH COLOR Mixing Bowls with Airtight Lids, Stainless S"
 seo_title: "COOK WITH COLOR Mixing Bowls Review: Airtight Lids, Nesting Set"
 meta_description: "Honest COOK WITH COLOR mixing bowls review: nesting stainless steel set with airtight lids. We tested durability, sealing, and value. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FBD3J7ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aAycRh2dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True airtight seal — lids snap down with four locking tabs and stay closed; tested holding liquid upside down"
   - "Nesting design with color-coded lids saves real cabinet space (the 5 bowls stack into roughly the height of the largest single bowl)"
   - "Sturdy 18/10 stainless steel construction resists dents and doesn't wobble on the counter, even when whisking vigorously"
-cons:
+cons: 
   - "Bowl rims have a rolled edge that catches batter — you'll need a spatula to get every last bit out"
   - "Lids are BPA-free plastic but not microwave-safe, so you can't reheat directly in the bowl"
   - "No measurement markings on the bowl interiors, which is a miss for a set marketed toward home bakers"
+
 ---
 
 Look, you can buy a $15 set of glass mixing bowls that'll crack in the dishwasher, or you can spend a bit more on this COOK WITH COLOR stainless steel set and never think about it again. After 215 Amazon ratings averaging 4.3 stars, the consensus is clear: this is a solid set with a few quirks worth knowing before you click buy.

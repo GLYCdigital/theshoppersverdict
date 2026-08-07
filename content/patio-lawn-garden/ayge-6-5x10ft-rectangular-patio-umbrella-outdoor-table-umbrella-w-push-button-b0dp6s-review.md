@@ -1,4 +1,5 @@
 ---
+
 title: "Ayge 6.5x10FT Rectangular Patio Umbrella Outdoor Table Umbre"
 seo_title: "Ayge 6.5x10FT Rectangular Patio Umbrella Review (2026)"
 meta_description: "Honest Ayge 6.5x10FT rectangular patio umbrella review: coverage, build quality, tilt mechanism, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP6SSSZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LIuKxFLsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True rectangular coverage — 65 square feet of shade that actually fits 6-8 person dining tables, unlike oval 'rectangular' umbrellas that waste space at the ends"
   - "Push-button tilt with multiple angle stops lets you chase the sun without loosening the collar — one hand operation while seated"
   - "8 sturdy ribs with reinforced stitching at stress points; several buyers report surviving moderate wind gusts without flapping or inversion"
-cons:
+cons: 
   - "Pole is 1.5 inches in diameter — too narrow for some standard patio umbrella bases with 1.9-inch openings; you may need an adapter or shim"
   - "Fabric is polyester, not solution-dyed acrylic; expect noticeable fading after 2-3 seasons of full sun exposure"
   - "Crank mechanism feels slightly gritty on some units; a few buyers reported needing to re-tighten the set screw after a month of daily use"
+
 ---
 
 If you've ever eaten lunch at a rectangular table under a round umbrella, you know the problem: shade on the plates, sun on the guests at the ends. The Ayge 6.5x10FT rectangular patio umbrella solves that geometry issue directly. This is a shade canopy built for the long table, not the round one — and at 4.2 stars across 210 ratings, it's worth a serious look if your outdoor dining setup has been fighting the sun all summer.

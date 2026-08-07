@@ -1,4 +1,5 @@
 ---
+
 title: "IRONCK Farmhouse Bed Frame with LED Light and Charging Stati"
 seo_title: "IRONCK Farmhouse Bed Frame with LED Light and Char Review"
 meta_description: "Our full ironck farmhouse bed frame with led light and charging stati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRBQ3T68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ofVuGv00L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most bed frames with "smart features" are gimmicks wrapped in cheap particleboard. The IRONCK Farmhouse Bed Frame is not that. It's a legitimate solid-wood frame that happens to have LED lighting and charging ports — and after digging through 210 ratings and the spec sheet, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "BESSEY GCS-NCB Bearing Heater Cone Style with 3/8 inch  - 8 1/4 inch "
 seo_title: "BESSEY GCS-NCB Bearing Heater Review: Fast, Even Heat"
 meta_description: "BESSEY GCS-NCB bearing heater review: cone-style, 3/8 inch –8 1/4 inch  capacity. We tested speed, safety, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06Y4539SW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71amVxf-MHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Heats bearings to 110°C in under 3 minutes consistently, even on larger 8 inch " units
   - "Automatic demagnetization cycle prevents metal debris attraction after heating"
   - "Cone-style design handles both inner and outer ring heating without accessories"
-cons:
+cons: 
   - "No built-in timer; you must watch the temp gauge or use external timing"
   - "At 28 lbs, it's not a portable bench tool — plan for a fixed workspace"
   - "Temp probe is a separate accessory, adding cost for precision work"
+
 ---
 
 **Opening Hook**  

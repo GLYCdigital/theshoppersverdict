@@ -1,4 +1,5 @@
 ---
+
 title: "3 in 1 Toddler Tricycle"
 seo_title: "3 in 1 Toddler Tricycle Review: Worth It? (2026)"
 meta_description: "Honest 3 in 1 Toddler Tricycle review: foldable push trike with parent handle, adjustable seat, and canopy. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M3W5GKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-9d0oTNAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three usable modes (parent push, steering, and independent pedaling) mean it grows with your kid from roughly 10 months to 3+ years"
   - "Foldable frame collapses for trunk storage or plane travel without tools"
   - "Adjustable push handle and canopy provide real comfort for taller parents and sun protection"
-cons:
+cons: 
   - "Assembly takes 20–30 minutes and the instructions are mostly diagrams with small print"
   - "Front wheel can wobble at higher speeds on uneven sidewalks when in parent-steering mode"
   - "No storage basket included — you'll pay extra for the accessory version if you want one"
+
 ---
 
 If you've ever watched a toddler try to pedal a standard tricycle before their legs reach the pedals, you know the struggle. That's exactly the gap this 3-in-1 tries to fill. It starts as a parent-controlled push trike, transitions to a steering-assisted ride, and finally becomes a classic pedal bike. With 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it the right trike for *your* kid and *your* budget? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "DESOOP Picture Lights for Wall Hardwired LED Picture Lightin"
 seo_title: "DESOOP Hardwired Picture Light Review: Worth It? (2026)"
 meta_description: "DESOOP hardwired LED picture light review: 4.6★ rated. Real buyer feedback on brightness, install, and design. Is this gallery-style wall light worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHTTSK4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Sejwd45TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hardwired design eliminates visible cords and battery swaps — a genuine upgrade over stick-on or plug-in picture lights"
   - "Adjustable gooseneck arm lets you aim light precisely across art without tools"
   - "Warm 3000K color temperature renders art colors accurately without harsh glare"
-cons:
+cons: 
   - "Hardwired installation requires a junction box and basic electrical knowledge — not a 5-minute DIY project"
   - "Fixed 3000K temp means no option to switch to cooler daylight for photography or bright rooms"
   - "Gooseneck arm can sag slightly on longer models if overtightened during adjustment"
+
 ---
 
 Most picture lights are compromises. Battery-powered ones die at the worst moments. Plug-in versions trail cords down your wall like a modern art piece you didn't ask for. The DESOOP hardwired LED picture light cuts through both problems with a permanent, clean installation — but it asks something in return: your willingness to wire it properly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hasbro Gaming Clue: Disney Villains Edition Board Game for K"
 seo_title: "Clue Disney Villains Edition Review: Fun for Kids Ages 8+"
 meta_description: "Honest Clue Disney Villains Edition review: gameplay, build quality, and who it's for. See if this 4.7-star board game is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09D433KX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hc3dMMemL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six metal villain tokens (Maleficent, Ursula, Cruella, etc.) that add premium feel over plastic pawns"
   - "Classic Clue deduction mechanics intact — just reskinned with Disney villain rooms and characters"
   - "Surprisingly durable game board that holds up to weekly play from younger kids"
-cons:
+cons: 
   - "No character-specific powers — this is purely cosmetic theming, not a new game variant"
   - "Card quality is thinner than standard Clue sets; sleeves recommended if kids play rough"
+
 ---
 
 If you've got a Disney-obsessed kid who's outgrown Candy Land but isn't ready for strategy-heavy games, the Clue: Disney Villains Edition hits a sweet spot. It's the same murder-mystery deduction game you remember, but instead of Colonel Mustard in the library, you're chasing Maleficent through the Forbidden Mountain. At 4.7 stars across 235 ratings, it's clearly working for families — but let's get into the specifics of whether it's right for yours.

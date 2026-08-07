@@ -1,4 +1,5 @@
 ---
+
 title: "Meconard 6 Pack 4 6 Inch LED Recessed Ceiling Light with Jun"
 seo_title: "Meconard 6 Pack 4 6 Inch LED Recessed Ceiling Ligh Review"
 meta_description: "Our full meconard 6 pack 4 6 inch led recessed ceiling light with jun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7PQLPVF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n-SBHmY7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're remodeling a basement or swapping out those old, buzzing 6-inch can lights, the Meconard 6-pack is the kind of purchase that makes you wonder why you didn't do it sooner. With 235 ratings averaging 4.7 stars, this kit is clearly doing something right. But let's cut through the star-gazing and talk about what you're actually getting.

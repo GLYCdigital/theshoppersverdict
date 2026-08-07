@@ -1,4 +1,5 @@
 ---
+
 title: "ifergoo Air Dry Clay for Kids, Molding Magic Clay Kit, Safe"
 seo_title: "ifergoo Air Dry Clay for Kids Review: Safe & Fun"
 meta_description: "Honest ifergoo Air Dry Clay for Kids review: texture, color count, drying time, and safety. See how this 4.5-star clay kit performs before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09BVT5XX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q+23YOmAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Non-sticky, pliable texture that holds detail without cracking — rare in kid-grade air dry clay"
   - "Includes 20+ colors plus tools and googly eyes, so you get a complete activity set, not just clay"
   - "Dries to a lightweight, paintable finish in 24-48 hours without needing a kiln or oven"
-cons:
+cons: 
   - "Smaller blocks than some competitors — heavy crafters will burn through colors quickly"
   - "Finished pieces are brittle if dropped on hard floors, so thicker shapes work better than thin ones"
+
 ---
 
 Let me be straight with you: most air dry clay marketed for kids is either rock-hard before you open the tub or so sticky it ends up embedded in your carpet. The ifergoo Air Dry Clay Kit sits in a rare middle ground — soft enough for small hands to shape, firm enough to hold a sculpted ear or tail, and genuinely safe for the 4-to-10 crowd it's aimed at. With a 4.5-star average across 225 ratings, it's not perfect, but it's the kit I'd hand to a kid who wants to make something they can actually keep.

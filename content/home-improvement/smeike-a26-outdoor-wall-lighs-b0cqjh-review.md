@@ -1,4 +1,5 @@
 ---
+
 title: "Smeike A26 Outdoor Wall Lighs"
 seo_title: "Smeike A26 Outdoor Wall Lighs Review: Verdict | TSV"
 meta_description: "Our full smeike a26 outdoor wall lighs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQJH4DFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zz9K-jyRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've browsed outdoor lighting on Amazon recently, you've seen dozens of near-identical wall sconces, all promising "modern farmhouse style" with aluminum bodies and warm LEDs. The Smeike A26 sits in that crowded field, but with a 4.7-star average across 235 ratings, it's clearly doing something right. The question is whether it's the right fixture for your porch, garage, or entryway — or just another $40 light that'll look dated by next season.

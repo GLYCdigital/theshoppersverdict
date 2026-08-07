@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE 12-Pack Low Voltage Landscape Pathway Lights 3W Outdo"
 seo_title: "SUNVIE 12-Pack Low Voltage Landscape Pathway Light Review"
 meta_description: "Our full sunvie 12-pack low voltage landscape pathway lights 3w outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ4HXMZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wPOaTxYAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: most 12-pack pathway light kits are junk. Thin plastic stakes, dim LEDs that look like dying fireflies, and connectors that break on the third twist. The SUNVIE 12-pack isn't that kit. Here's what 229 buyers at a 4.6 average are actually getting.

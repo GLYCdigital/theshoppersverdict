@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Disney Frozen Elsaâ€™s Frozen Princess Castle Building "
 seo_title: "LEGO Disney Frozen Elsaâ€™s Frozen Princess Castle Review"
 meta_description: "Our full lego disney frozen elsaâ€™s frozen princess castle building  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY4JHM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mAvPKCGYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Frozen Castle that actually opens up — and why that matters**

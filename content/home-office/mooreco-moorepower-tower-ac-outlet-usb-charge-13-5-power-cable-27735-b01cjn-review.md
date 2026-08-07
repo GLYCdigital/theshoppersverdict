@@ -1,4 +1,5 @@
 ---
+
 title: "MooreCo MoorePower Tower, AC Outlet, USB Charge, 13.5' Power"
 seo_title: "MooreCo MoorePower Tower, AC Outlet, USB Charge, 1 Review"
 meta_description: "Our full mooreco moorepower tower, ac outlet, usb charge, 13.5' power review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B01CJNMXRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41oxeKLBZkL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing: the MooreCo MoorePower Tower is a floor-standing power strip with a 13.5-foot cord, four AC outlets, and two USB ports. It’s not a surge protector. It’s not a smart hub. It’s a big, heavy-duty extension cord that stands up so you don’t have to crawl under your desk. That’s it. And for many people, that’s exactly what they need.

@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Large Washable Crayons 16 Pack - 2 Packs"
 seo_title: "Crayola Large Washable Crayons Review: 2-Pack Value"
 meta_description: "Crayola Large Washable Crayons 16-pack (2 packs) review: Are they worth $12.15? We test durability, washability, and kid-friendliness."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00FW4LMAQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716hd0oMV5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True one-stroke washability from skin, clothing, and most walls — not just marketing claims"
   - "Thick 4x standard diameter barrels survive toddler grips and aggressive coloring without snapping"
   - "Two 16-count boxes for $12.15 means under 40 cents per crayon — solid value for the name brand"
-cons:
+cons: 
   - "Colors skew toward primaries; no pastels or specialty shades for older kids doing detailed art"
   - "Paper wrappers peel easily under enthusiastic little fingers, leaving naked crayons that stain hands"
   - "Some buyers report lighter pigment payoff than standard Crayolas — noticeable on construction paper"
+
 ---
 
 If you've ever peeled your toddler's artwork off the wall with a sponge and a prayer, you already know why these crayons exist. Crayola's Large Washable line is the brand's answer to the "my kid just colored the hallway beige" problem — and at $12.15 for two 16-count boxes, it's priced to be the default pick for parents of kids aged 1 to 4.

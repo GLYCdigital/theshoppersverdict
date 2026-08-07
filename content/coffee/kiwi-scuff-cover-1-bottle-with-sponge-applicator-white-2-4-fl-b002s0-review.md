@@ -1,4 +1,5 @@
 ---
+
 title: "KIWI Scuff Cover, 1 Bottle with Sponge Applicator, White, 2."
 seo_title: "KIWI Scuff Cover, 1 Bottle with Sponge Applicator, Review"
 meta_description: "Our full kiwi scuff cover, 1 bottle with sponge applicator, white, 2. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002S0YPME/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y5N5f8VkL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about white shoes: the moment you wear them, they stop being white. Scuffs appear from parking curbs, door jambs, and the simple act of walking. KIWI's Scuff Cover is a 4-fluid-ounce bottle of white pigment with a sponge tip, designed to erase those marks without a full polish session. At 4.4 stars across 220 ratings, it clearly works for a lot of people — but it works *differently* than you might expect.

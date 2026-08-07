@@ -1,4 +1,5 @@
 ---
+
 title: "HP Original 902XL Black, Cyan, Magenta, Yellow High-Yield In"
 seo_title: "HP Original 902XL Black, Cyan, Magenta, Yellow Hig Review"
 meta_description: "Our full hp original 902xl black, cyan, magenta, yellow high-yield in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08SWMNTZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I3Zb6YchL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Here’s the thing about printer ink: it’s the most expensive liquid you’ll ever buy, ounce for ounce.** The HP Original 902XL set is the OEM (original equipment manufacturer) option for a wide range of OfficeJet printers, and at 4.6 stars across 229 ratings, it’s clearly doing something right. But it’s also the priciest route, so let’s break down whether it’s worth your wallet.

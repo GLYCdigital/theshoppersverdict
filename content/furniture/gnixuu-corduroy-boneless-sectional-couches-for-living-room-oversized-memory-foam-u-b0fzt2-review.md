@@ -1,4 +1,5 @@
 ---
+
 title: "GNIXUU Corduroy Boneless Sectional Couches for Living Room,"
 seo_title: "GNIXUU Corduroy Boneless Sectional Review (2026): Is It Worth It?"
 meta_description: "GNIXUU corduroy boneless sectional review: real comfort, real downsides. 4.7★ from 235 ratings. Is this oversized U-shaped couch right for your space?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FZT2TLMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xWGQc5GwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine memory foam fill that holds shape — no saggy bottoming out after months of nightly use"
   - "Boneless, modular design lets you reconfigure the U-shape into an L or split sections for separate seating"
   - "Corduroy fabric is soft, brushed, and resists pilling better than most budget upholstery at this price"
-cons:
+cons: 
   - "No internal frame means the backrest slumps if you lean hard against it — this is a lounge couch, not a sit-up-straight couch"
   - "Cushions arrive compressed and need 48–72 hours to fully expand; some buyers report a lingering chemical smell for the first week"
   - "Low-profile at 26 inches — taller folks (6'+) may find the seat depth too shallow for full leg support"
+
 ---
 
 # GNIXUU Corduroy Boneless Sectional: The $500 Couch That Actually Holds Up

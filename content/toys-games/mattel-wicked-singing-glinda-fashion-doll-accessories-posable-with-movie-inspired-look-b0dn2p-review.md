@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Wicked Singing Glinda Fashion Doll & Accessories, Pos"
 seo_title: "Mattel Wicked Singing Glinda Fashion Doll & Access Review"
 meta_description: "Our full mattel wicked singing glinda fashion doll & accessories, pos review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN2P98M1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91kjZEsP1CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've seen *Wicked* — or even just the trailers — you know Glinda's "Popular" number is the moment. Mattel's Singing Glinda doll tries to bottle that theatrical magic into a posable fashion doll, and for the most part, it works. But there are a few compromises you should know about before you hit add-to-cart.

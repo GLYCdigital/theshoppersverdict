@@ -1,4 +1,5 @@
 ---
+
 title: "Drybar Hair Brush Review"
 seo_title: "Drybar Hair Brush Review (2026): Is It Worth It?"
 meta_description: "Drybar hair brush review: 4.7-star rated. We break down performance, build quality, and whether this luxury brush is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CD85HJ6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HFeMfcMxL._SL1001_.jpg"
-pros:
+pros: 
   - "Mixed boar and nylon bristles grip hair firmly for tension without snagging or pulling"
   - "Ergonomic handle with balanced weight reduces wrist fatigue during extended blowouts"
   - "Vented barrel design speeds up drying time by allowing heat to pass through the brush"
-cons:
+cons: 
   - "Premium price point sits well above drugstore alternatives with similar construction"
   - "Smaller barrel sizes may require sectioning hair more carefully for thick or long styles"
+
 ---
 
 Let's be blunt: most hair brushes are interchangeable plastic-and-bristle tools you grab without thinking. The Drybar brush isn't that. It's a precision instrument designed for one thing — giving you salon-grade volume and smoothness at home. After examining the construction, digging through 235 verified ratings, and weighing what real users say, here's the honest breakdown.

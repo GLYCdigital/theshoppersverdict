@@ -1,4 +1,5 @@
 ---
+
 title: "CSZZD Makeup Vanity Desk with Mirror and Lights, Large Vanit"
 seo_title: "CSZZD Makeup Vanity Desk Review: Large, Lit, Worth It?"
 meta_description: "CSZZD makeup vanity desk with lights review: 4.6★ rated. We tested storage, mirror brightness, and build. See who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTVLNXBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713bGCMXv8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "48W LED bulbs around the mirror deliver bright, flicker-free light with three color temperatures — genuinely useful for color matching, not just ambiance"
   - "Spacious 40-inch tabletop with a three-tier side shelf and two drawers; most comparable vanities at this price offer half the storage"
   - "Sturdy 1.6-inch thick legs with adjustable foot pads — no wobble even on slightly uneven floors"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes; the instructions are mostly diagrams with small print, and the drawer glides are finicky to align"
   - "The included stool is functional but basic — cushioned seat is thin, and it lacks back support for long sessions"
+
 ---
 
 **A vanity that actually works for getting ready — not just for photos**

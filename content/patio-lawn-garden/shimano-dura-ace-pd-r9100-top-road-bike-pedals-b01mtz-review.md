@@ -1,4 +1,5 @@
 ---
+
 title: "SHIMANO DURA-ACE PD-R9100 Top Road Bike Pedals"
 seo_title: "SHIMANO DURA-ACE PD-R9100 Top Road Bike Pedals Review: Ve"
 meta_description: "Our full shimano dura-ace pd-r9100 top road bike pedals review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MTZS4CV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61at7Yl5rJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The 4.7-star verdict is earned — but only for the right rider.**

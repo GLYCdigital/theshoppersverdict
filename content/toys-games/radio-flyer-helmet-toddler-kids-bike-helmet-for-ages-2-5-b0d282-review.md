@@ -1,4 +1,5 @@
 ---
+
 title: "Radio Flyer Helmet, Toddler & Kids Bike Helmet for Ages 2-5"
 seo_title: "Radio Flyer Helmet, Toddler & Kids Bike Helmet for Review"
 meta_description: "Our full radio flyer helmet, toddler & kids bike helmet for ages 2-5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D2829W3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e6kfHRSIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Radio Flyer name carries weight — those little red wagons are practically a childhood rite of passage. So when the company puts its logo on a toddler bike helmet, expectations run high. The good news? For the balance-bike and tricycle crowd, this helmet mostly delivers. Here's the real story after digging through 240 ratings and what actual parents are saying.

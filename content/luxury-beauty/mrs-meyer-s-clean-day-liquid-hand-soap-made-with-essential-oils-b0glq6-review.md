@@ -1,4 +1,5 @@
 ---
+
 title: "Mrs. MEYER'S CLEAN DAY liquid Hand Soap, Made with Essential"
 seo_title: "Mrs. MEYER'S CLEAN DAY liquid Hand Soap, Made with Review"
 meta_description: "Our full mrs. meyer's clean day liquid hand soap, made with essential review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GLQ6PNK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: Mrs. Meyer's Clean Day liquid hand soap is the brand you see in every well-stocked pantry and Pinterest-worthy mudroom. But does it actually clean well, or is it just a pretty bottle with a garden aesthetic? I've tested this soap for three weeks, and here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "3-in-1 French Fry Cutter - Potato Cutter for Fries - Potato"
 seo_title: "3-in-1 French Fry Cutter Review: Worth It? [2026]"
 meta_description: "Honest 3-in-1 French fry cutter review: build quality, real-world performance, and who should buy it. See pros, cons, and verdict before you spend $26.99."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDVL41BN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dfwjfQStL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Interchangeable 3-blade system (1/2-inch, 1/4-inch, and 1/2-inch crinkle) covers everything from steak fries to waffle-style cuts"
   - "Heavy-duty stainless steel blades slice through russet potatoes cleanly without crushing or tearing the flesh"
   - "Suction base stays put on smooth counters — no sliding around mid-push, even with large potatoes"
-cons:
+cons: 
   - "Requires significant upper-body force on large or dense potatoes — not ideal for those with weak grip or arthritis"
   - "No built-in safety guard; fingertips get dangerously close to the blades if you're not paying attention"
   - "The included cleaning brush is too soft to fully dislodge potato starch from the crinkle blade's crevices"
+
 ---
 
 Let's cut to the chase: most sub-$30 fry cutters are flimsy plastic toys that bend, crack, or dull after a dozen potatoes. The 3-in-1 French Fry Cutter at $26.99 sits in a crowded mid-range slot, but its 4.4-star rating across 220 reviews suggests it's doing something right. I put it through a serious test — five pounds of russets, two sweet potatoes, and one stubborn jicama — to see if it earns a permanent spot in your drawer.

@@ -1,4 +1,5 @@
 ---
+
 title: "CURTA Aluminum Sheet Pan Commercial Bakery Equipment Cake Pa"
 seo_title: "CURTA Aluminum Sheet Pan Review: Commercial-Grade Bakery Pans"
 meta_description: "Honest CURTA aluminum sheet pan review: NSF-listed, commercial-grade construction, real-world performance, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6DHXPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810XwTJ9y1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge 14-gauge aluminum construction resists warping even at 450°F+"
   - "NSF-listed certification means it meets commercial food safety standards"
   - "Reinforced rolled edges and flat bottom prevent sticking and make cleaning effortless"
-cons:
+cons: 
   - "No non-stick coating — requires proper greasing or parchment for delicate bakes"
   - "At roughly 3 lbs, it's noticeably heavier than standard home baking sheets"
+
 ---
 
 If you've ever watched a $15 baking sheet curl into a wavy mess mid-bake, you already know why the CURTA aluminum sheet pan costs more than the flimsy ones at the big-box store. This is the pan your local bakery uses — the one that's survived thousands of service cycles. After 235 Amazon ratings averaging 4.7 stars, the pattern is clear: home bakers who've graduated from warped, thin-gauge pans are finding exactly what they've been missing.

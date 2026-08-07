@@ -1,7 +1,8 @@
 ---
-title: "Qlaway 8.5\" E Scooter for Adults 19/22 MPH 350/500W Motor 18"
-seo_title: "Qlaway 8.5\" E Scooter for Adults 19/22 MPH 350/500 Review"
-meta_description: "Our full qlaway 8.5\" e scooter for adults 19/22 mph 350/500w motor 18 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Qlaway 8.5\ E Scooter for Adults 19/22 MPH 350/500W Motor 18"
+seo_title: "Qlaway 8.5\ E Scooter for Adults 19/22 MPH 350/500 Review"
+meta_description: "Our full qlaway 8.5\ e scooter for adults 19/22 mph 350/500w motor 18 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "qlaway-8-5-e-scooter-for-adults-19-22-mph-350-500w-b0gq8h-review"
 image_alt: "Qlaway 8.5 E Scooter for Adults 19/22 MPH 350/500W Motor 187.2/288.6/441WH Battery, Motorized Scooter Up to 22 Miles Ran"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQ8HWZ7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wqQEsnqOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Qlaway 8.5" e-scooter sits in a crowded middle tier of adult commuter scooters, but it earns its keep through a simple formula: solid pneumatic tires, honest motor options, and a price that doesn't punish you for wanting a dependable daily rider. With 215 ratings averaging 4.3 stars, it's not a breakout star — but it's proving itself as a reliable workhorse. Here's the breakdown after digging through buyer experiences and spec sheets.

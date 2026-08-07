@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN 33200.0010 VPR APS Commercial Pour Over Air Pot Coffee"
 seo_title: "BUNN VPR APS Air Pot Coffee Brewer Review (2026)"
 meta_description: "Honest BUNN 33200.0010 VPR APS commercial pour-over air pot coffee brewer review. Real pros, cons, and who should buy it. See if it fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B001F5SQ9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713PPszMPIL._SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty stainless steel construction that survives daily commercial use without warping or cracking"
   - "Pourover design delivers consistently hot coffee (195-205°F) into a sealed air pot that holds heat for hours"
   - "Simple mechanical operation — no electronics, timers, or circuit boards to fail; easy to descale and maintain"
-cons:
+cons: 
   - "No warmer plate — coffee in the air pot cools faster than a thermal carafe on a burner, so volume matters"
   - "Air pot spout can drip if not seated perfectly; replacement air pots are pricey (around $60-80)"
   - "Not a single-cup machine — this brews a full pot (64 oz) and requires a separate grinder and filter setup"
+
 ---
 
 ## The Workhorse That Won't Quit — But Know What You're Buying

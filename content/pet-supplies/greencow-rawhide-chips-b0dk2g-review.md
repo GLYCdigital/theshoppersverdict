@@ -1,4 +1,5 @@
 ---
+
 title: "GreenCow Rawhide Chips"
 seo_title: "GreenCow Rawhide Chips Review: Worth It? (2026)"
 meta_description: "Honest GreenCow Rawhide Chips review: sizing, digestibility, value. See what 210 buyers say before you buy these dog chews."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK2G5TDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QPMS-gjiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thin, chip-shaped pieces that soften quickly — easier on older dogs' teeth than rolled rawhide"
   - "Long-lasting for the size; most buyers report 20-30 minutes of active chewing per chip"
   - "Resealable packaging keeps chips fresh and prevents them from drying out between uses"
-cons:
+cons: 
   - "Size inconsistency between bags — some chips arrive smaller than advertised"
   - "Strong hide smell that's noticeable indoors, especially right after opening the bag"
+
 ---
 
 ## GreenCow Rawhide Chips Review: A Solid Middle Ground for Aggressive Chewers

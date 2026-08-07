@@ -1,4 +1,5 @@
 ---
+
 title: "KNOBWELL Keyless Interior Door Handle, Classic Passage Door "
 seo_title: "KNOBWELL Keyless Interior Door Handle, Classic Pas Review"
 meta_description: "Our full knobwell keyless interior door handle, classic passage door  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4QMBPB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51j9aQ140tL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KNOBWELL Keyless Interior Door Handle is the kind of product that makes you wonder why more manufacturers don't get it this right. At $20–30 depending on the finish, it sits squarely in the budget-to-midrange territory, but the build quality punches noticeably above its price class. With 225 ratings averaging 4.5 stars, the consensus is clear: this is a solid, no-drama passage lever for interior doors.

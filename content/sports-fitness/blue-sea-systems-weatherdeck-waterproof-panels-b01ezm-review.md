@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Sea Systems WeatherDeck Waterproof Panels"
 seo_title: "Blue Sea Systems WeatherDeck Panels Review: Marine-Grade"
 meta_description: "Honest Blue Sea Systems WeatherDeck waterproof switch panel review. See if these marine-grade panels hold up on boats, RVs, and off-road rigs."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01EZMDEF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KtAOyYAFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True IPX7 waterproofing with a fully sealed rear enclosure — not just a faceplate gasket"
   - "Thermoset polyester housing shrugs off UV, salt spray, and solvents that kill cheap ABS panels"
   - "Self-resetting thermal breakers replace fuses, so a tripped circuit resets with a button push"
-cons:
+cons: 
   - "The panel is thick and deep — you need roughly 2 inches of clearance behind the mounting surface"
   - "Terminal screws are small and fiddly with gloved hands; pre-tin your wires before install"
+
 ---
 
 If you’ve ever watched a $40 “waterproof” switch panel die after one season of salt spray, you know the problem: most of them are just a faceplate with a rubber gasket. The Blue Sea Systems WeatherDeck series is different. This is a sealed, IPX7-rated enclosure — the kind of gear you’d expect on a serious offshore boat, not a weekend pontoon. And it shows in the build quality.

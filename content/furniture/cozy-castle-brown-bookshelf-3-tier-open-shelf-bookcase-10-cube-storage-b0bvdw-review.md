@@ -1,4 +1,5 @@
 ---
+
 title: "Cozy Castle Brown Bookshelf, 3-Tier Open Shelf Bookcase, 10 inch"
 seo_title: "Cozy Castle 3-Tier Bookshelf Review: Solid & Affordable"
 meta_description: "Honest Cozy Castle Brown 3-Tier Bookshelf review: build quality, real-world use, pros, cons, and who should buy. See verdict before purchasing."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BVDW1V5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ocmVO15NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid engineered wood construction with a clean, matte brown finish that doesn't look cheap"
   - "5-minute tool-free assembly thanks to a snap-lock design — no screwdriver required"
   - "Versatile 3-tier layout with a spacious top surface and two open display shelves"
-cons:
+cons: 
   - "No backing panel means items can slide through the back if you overload shelves"
   - "Only 10-inch depth — won't fit large hardcover coffee table books or deep storage bins"
   - "Max weight capacity per shelf is modest; heavy textbooks stacked deep will sag over time"
+
 ---
 
 Let's be straight about this bookshelf: it's not heirloom furniture, and it doesn't try to be. But for what it costs, the Cozy Castle 3-Tier Brown Bookshelf delivers exactly what most people need — a sturdy, good-looking storage unit that doesn't require a Ph.D. in furniture assembly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pogo Ball for Kids & Adults Up to 200lb, Balance Coordinatio"
 seo_title: "Pogo Ball for Kids & Adults Up to 200lb, Balance C Review"
 meta_description: "Our full pogo ball for kids & adults up to 200lb, balance coordinatio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FVDV3Q68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TT8508yeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pogo Ball: A Fun Way to Build Balance, But Read This Before You Buy**

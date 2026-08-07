@@ -1,4 +1,5 @@
 ---
+
 title: "Pink Indoor Trampoline for Kids 2-5, 5ft Mini Indoor & Outdo"
 seo_title: "Pink Indoor Trampoline for Kids 2-5, 5ft Mini Indo Review"
 meta_description: "Our full pink indoor trampoline for kids 2-5, 5ft mini indoor & outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSLSCNW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815KJ4jTTdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most toddler trampolines on Amazon are flimsy death traps wrapped in cheerful plastic. The 5ft pink model from this brand is not that. With a 4.6-star average across 229 ratings, it's one of the better-reviewed options in this category — and after digging into the specs and customer feedback, I understand why.

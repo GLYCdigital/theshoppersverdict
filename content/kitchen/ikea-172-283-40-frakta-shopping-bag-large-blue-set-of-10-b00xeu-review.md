@@ -1,4 +1,5 @@
 ---
+
 title: "IKEA 172.283.40 Frakta Shopping Bag, Large, Blue, Set of 10"
 seo_title: "IKEA 172.283.40 Frakta Shopping Bag, Large, Blue,  Review"
 meta_description: "Our full ikea 172.283.40 frakta shopping bag, large, blue, set of 10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00XEUIRWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713eSd-KApL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $15 Bag That Outlasts Everything Else You Own

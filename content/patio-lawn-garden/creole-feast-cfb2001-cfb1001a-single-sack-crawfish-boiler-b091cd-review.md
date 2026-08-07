@@ -1,4 +1,5 @@
 ---
+
 title: "Creole Feast CFB2001+CFB1001A Single Sack Crawfish Boiler"
 seo_title: "Creole Feast Crawfish Boiler Review: 2026 Honest Verdict"
 meta_description: "Creole Feast CFB2001+CFB1001A crawfish boiler review: 4.6-star rated. Tested for boiling speed, burner power, and build quality. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091CDL1PB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EcbO7+lQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100,000 BTU jet burner brings 60 quarts of water to a rolling boil in under 20 minutes — verified by multiple owner reports"
   - "Heavy-duty 1.5mm stainless steel pot resists warping and dents, unlike thinner 1mm pots common at this price point"
   - "Single-sack basket (35 lb capacity) lifts clean with a solid crossbar — no wrestling hot mudbugs one scoop at a time"
-cons:
+cons: 
   - "Regulator hose is only 24 inches — you'll likely need a longer LP hose or a tank riser for comfortable positioning"
   - "No built-in thermometer or drain valve; you'll need to monitor temperature separately and tilt the pot to drain"
+
 ---
 
 **If you're serious about boiling crawfish at home — like, 30 pounds at a time serious — the Creole Feast CFB2001+CFB1001A is the setup that separates a backyard experiment from a proper boil.** This is a single-sack system built around a 60-quart stainless pot and a 100,000 BTU jet burner. It's not the cheapest option on Amazon, but after digging through 229 ratings and owner reports, it's clear why it holds a 4.6-star average.

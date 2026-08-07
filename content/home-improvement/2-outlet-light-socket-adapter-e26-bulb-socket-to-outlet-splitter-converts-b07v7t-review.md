@@ -1,4 +1,5 @@
 ---
+
 title: "2 Outlet Light Socket Adapter, E26 Bulb Socket to Outlet Spl"
 seo_title: "2 Outlet Light Socket Adapter Review: E26 to Plug Converter"
 meta_description: "Honest review of the 2 Outlet Light Socket Adapter E26 to outlet splitter. Real pros, cons, and buying advice from 229 verified Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07V7T3WGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DEjwKDZWL._SL1500_.jpg"
-pros:
+pros: 
   - "Converts a dead ceiling socket into two functional grounded outlets without rewiring"
   - "Rated for 125V/15A — handles space heaters and shop lights safely"
   - "Compact brass-threaded base fits standard E26 sockets with no wobble"
-cons:
+cons: 
   - "Bulb and plug cannot be used simultaneously — you must choose one or the other"
   - "Installation requires the light switch to stay ON, which may surprise family members"
   - "No cover plate included — exposed wiring is visible if you mount it flush"
+
 ---
 
 **Review Body:**

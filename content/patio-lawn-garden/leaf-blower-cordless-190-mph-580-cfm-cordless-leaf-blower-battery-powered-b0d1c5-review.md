@@ -1,4 +1,5 @@
 ---
+
 title: "Leaf Blower Cordless, 190-MPH 580-CFM Cordless Leaf Blower, "
 seo_title: "Leaf Blower Cordless, 190-MPH 580-CFM Cordless Lea Review"
 meta_description: "Our full leaf blower cordless, 190-mph 580-cfm cordless leaf blower,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1C5RBXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71granrgOuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Leaf Blower Cordless, 190-MPH 580-CFM Cordless Leaf Blower, Review: Real Power, Real Limits

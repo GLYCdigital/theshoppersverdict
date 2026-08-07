@@ -1,4 +1,5 @@
 ---
+
 title: "Almay Gel Eyeliner, Waterproof, Fade-Proof Eye Makeup, Easy-"
 seo_title: "Almay Gel Eyeliner Review: Waterproof & Fade-Proof (2026)"
 meta_description: "Honest Almay Gel Eyeliner review: Is this waterproof, fade-proof liner worth it? Real pros, cons, and who should buy it. 4.1/5 rating analyzed."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D8TSKKT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OPx2ZbvDL._SL1500_.jpg"
-pros:
+pros: 
   - "Gel formula glides on smoothly without tugging — no skipping or dragging across the lash line"
   - "True 12+ hour wear with minimal smudging, even on oily lids according to multiple verified reviews"
   - "Sharpenable pencil design (not twist-up) means zero product waste — you use every last millimeter"
-cons:
+cons: 
   - "Shade range is limited to basic neutrals — no jewel tones or trend colors for experimentation"
   - "Removal requires oil-based makeup remover; standard micellar water will leave raccoon eyes"
+
 ---
 
 If you've ever wrestled with a gel pot and a separate brush at 7 AM, you know the struggle — the mess, the tugging, the inevitable wing that looks more like a war wound than a cat eye. Almay's answer is a gel liner that comes in pencil form, and honestly? It's smarter than it sounds. This is the rare beauty product that solves an actual problem rather than inventing one.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ixiaoyoo Air Dry Clay, Modelling Clay for Kids, Modeling Toy"
 seo_title: "Ixiaoyoo Air Dry Clay Review: Best Modeling Clay for Kids 2026 inch"
 meta_description: "Honest Ixiaoyoo Air Dry Clay review: 36 colors, soft texture, easy cleanup. See what 229 buyers say before you buy this modeling clay for kids."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM3Q4GPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q2p-tYi0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "36 vibrant colors in resealable pouches that stay soft for weeks between uses"
   - "Dries to a lightweight, paintable finish within 24 hours—no kiln or oven required"
   - "Non-sticky formula that doesn't crumble or leave residue on hands and tables"
-cons:
+cons: 
   - "Smaller pieces (about 1 oz per color) run out fast for bigger projects"
   - "Dried clay can crack on thick pieces if not smoothed properly before drying"
+
 ---
 
 If you've ever peeled dried Play-Doh off a carpet or scrubbed crusty clay off a toddler's fingers, you know the struggle. The Ixiaoyoo Air Dry Clay set aims to fix that — and based on 229 ratings holding a solid 4.6 out of 5, it largely succeeds.

@@ -1,4 +1,5 @@
 ---
+
 title: "COSORI Double Wall Electric Kettle"
 seo_title: "COSORI Double Wall Electric Kettle Review: Is It Worth It?"
 meta_description: "COSORI Double Wall Electric Kettle review: 4.7-star rated, double-wall insulation, quick boiling. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CV4TG6RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZDozIDtcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall construction keeps exterior cool to touch and water hot for 30+ minutes"
   - "Rapid boil (1500W) brings 1.7L to a rolling boil in roughly 4-5 minutes"
   - "Stainless steel inner lining — no plastic touches your water"
-cons:
+cons: 
   - "No temperature presets — it's a simple boil-only kettle, not a variable-temp model"
   - "Lid doesn't lock shut, so pouring at steep angles can risk drips"
   - "Cord is on the shorter side (~28 inches), which may limit counter placement"
+
 ---
 
 Most electric kettles are a trade-off: fast but plastic-lined, or sleek but slow. The COSORI Double Wall Electric Kettle tries to split that difference — and it mostly succeeds. With a 4.7-star average across 235 ratings, it's clearly earning its place on counters. But is it the right kettle for *your* morning routine? Let's dig into what you're actually getting.

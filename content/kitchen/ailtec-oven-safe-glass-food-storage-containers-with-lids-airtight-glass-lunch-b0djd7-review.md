@@ -1,4 +1,5 @@
 ---
+
 title: "AILTEC Oven Safe Glass Food Storage Containers with Lids,Air"
 seo_title: "AILTEC Oven Safe Glass Containers Review: Worth It?"
 meta_description: "AILTEC oven safe glass food storage containers review: tempered glass, airtight lids, leak-proof design. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJD7Z7WN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wEFV5mGVL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Tempered borosilicate glass survives oven-to-freezer transitions without thermal shock cracking"
   - "Four-point locking lids create a genuinely leak-proof seal — tested with soups and marinades"
   - "Glass body is stain and odor resistant; tomato sauce and curry don't leave permanent marks"
-cons:
+cons: 
   - "Lids are plastic and not oven-safe — you must remove them before heating, which limits convenience"
   - "Glass adds noticeable weight; not ideal for daily commuter lunches if you're walking or biking"
+
 ---
 
 Let's be honest about glass food storage: most sets look great in photos but crack in your oven or leak in your bag. The AILTEC set, hovering at 4.5 stars across 225 ratings, claims to solve both. After digging into the specs and what buyers actually report, here's the real picture.

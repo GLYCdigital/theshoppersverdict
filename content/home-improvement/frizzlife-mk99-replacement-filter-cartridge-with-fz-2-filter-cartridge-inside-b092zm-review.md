@@ -1,4 +1,5 @@
 ---
+
 title: "Frizzlife MK99 Replacement Filter Cartridge With FZ-2 Filter"
 seo_title: "Frizzlife MK99 Filter Cartridge Review: FZ-2 Combo Worth It?"
 meta_description: "Honest Frizzlife MK99 replacement filter cartridge review with FZ-2 filter. Covers lifespan, water quality, installation, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B092ZM95TF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61soiUsay4S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "FZ-2 filter uses a two-stage design with activated carbon and ion-exchange resin for better taste and scale reduction"
   - "Simple twist-and-lock installation that takes under two minutes without tools"
   - "Clear 6-month/320-gallon replacement schedule clearly printed on the cartridge housing"
-cons:
+cons: 
   - "Not compatible with standard 10-inch under-sink housings — only fits Frizzlife MK99 systems and select countertop units"
   - "Some buyers report a slight plastic taste for the first few gallons after replacement"
   - "No NSF certification listed for this specific cartridge, which matters to filtration purists"
+
 ---
 
 If you own a Frizzlife MK99 water filtration system, you already know the catch: the filters are proprietary. That means you're locked into buying replacements from Frizzlife — and the MK99 cartridge with the FZ-2 filter is the one you'll be ordering every six months. The good news? It's actually a solid filter. The less-good news? You don't have a choice in brands.

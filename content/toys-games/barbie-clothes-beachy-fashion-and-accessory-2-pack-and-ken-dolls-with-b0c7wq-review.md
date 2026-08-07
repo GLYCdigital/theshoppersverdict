@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie Clothes: Beachy Fashion and Accessory 2-Pack and Ken"
 seo_title: "Barbie Beachy Fashion 2-Pack & Ken Review (2026)"
 meta_description: "Honest review of the Barbie Beachy Fashion and Accessory 2-Pack with Ken doll. Covers outfit quality, fit, accessories, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7WQRPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u8UWcmptL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two complete outfits in one box — Barbie gets a printed sundress plus a two-piece swimsuit set, Ken gets a full tropical-print shirt and shorts combo"
   - "Accessories include functional sunglasses and a wide-brim sun hat that actually stays on Barbie's head — rare at this price point"
   - "Velcro closures on all clothing pieces make dressing easy for small hands, and the fabric is sturdier than typical budget doll clothes"
-cons:
+cons: 
   - "Shoes are molded plastic and don't fit snugly — they pop off during play more often than they should"
   - "Ken's shirt has no closures; it's a pull-over style that can be tricky to get over his sculpted head without stretching the neckline"
+
 ---
 
 Let me cut to the chase: if you've bought doll clothes before, you know most of them look great in the product photos and fall apart by the third dress-up session. This 2-pack from Mattel doesn't do that, and that's exactly why it holds a 4.7-star average across 235 ratings.

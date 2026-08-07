@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Friends Paisley's Room Building Toy - Pretend Play Set "
 seo_title: "LEGO Friends Paisley's Room Building Toy - Pretend Review"
 meta_description: "Our full lego friends paisley's room building toy - pretend play set  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ188PPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rrMVGZSzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a LEGO Friends fan in the house, you already know the drill: sets come and go, but the good ones earn permanent shelf space. **Paisley's Room** (set 42614) is one of the good ones. With a 4.8-star average across 240 ratings, it's clearly connecting with buyers. Here's why — and where it trips up.

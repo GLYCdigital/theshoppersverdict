@@ -1,4 +1,5 @@
 ---
+
 title: "Wiosi Medium ð"
 seo_title: "Wiosi Medium ð Review: Verdict | TSV"
 meta_description: "Our full wiosi medium ð review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0C77WK5WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718o3zDPhML._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.6-star reality check: This patio product is good, not great—and here's exactly where it lands**

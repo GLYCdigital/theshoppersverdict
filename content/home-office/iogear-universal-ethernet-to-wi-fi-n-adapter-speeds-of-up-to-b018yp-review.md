@@ -1,4 +1,5 @@
 ---
+
 title: "IOGEAR Universal Ethernet to Wi-Fi N Adapter - Speeds of up "
 seo_title: "IOGEAR Universal Ethernet to Wi-Fi N Adapter - Spe Review"
 meta_description: "Our full iogear universal ethernet to wi-fi n adapter - speeds of up  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B018YPWORE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41x1sykOuiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The IOGEAR Universal Ethernet to Wi-Fi N Adapter solves a problem you didn't know you had — until you've moved your printer for the third time because it won't reach the router.**

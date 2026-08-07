@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair Harpoon PRO RGB Wired Lightweight FPS/MOBA Gaming Mo"
 seo_title: "Corsair Harpoon PRO RGB Review: Best Budget Gaming Mouse?"
 meta_description: "Corsair Harpoon PRO RGB review: 85g lightweight design, 12,000 DPI sensor, and a $30 price tag. Is it worth buying in 2026? We tested it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07QVB51L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JZ-C0yv5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "85g weight with a 12,000 DPI optical sensor — genuinely competitive for the price point"
   - "Omron switches rated for 50 million clicks, which is rare at this price"
   - "Contoured rubber side grips that actually work during long sessions"
-cons:
+cons: 
   - "Wired only — the braided cable is stiff and can drag on smaller mousepads"
   - "No onboard memory for DPI profiles; you need Corsair iCUE software running to save settings"
   - "RGB lighting is subtle single-zone — not per-key or per-zone customizable"
+
 ---
 
 The Corsair Harpoon PRO RGB sits in a weird spot. It's not the cheapest mouse on Amazon, nor the most feature-packed. But at roughly $30, it's trying to be the Goldilocks option for FPS and MOBA players who want something lighter than a brick without selling a kidney for a flagship.

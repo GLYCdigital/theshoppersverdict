@@ -1,4 +1,5 @@
 ---
+
 title: "Furinno"
 seo_title: "Furinno Furniture Review: Honest Look at Value & Durability"
 meta_description: "Furinno furniture review: Is this budget-friendly brand worth it? Real pros, cons, and durability insights from 190+ Amazon ratings at 3.8/5 stars."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CMJXDQLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YXGYyUy+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely affordable price point that undercuts most competitors by 30-40%"
   - "Assembly is straightforward with clearly labeled parts and included hex tool"
   - "Lightweight engineered wood construction makes it easy to move solo"
-cons:
+cons: 
   - "Particle board edges chip easily if you're not careful during assembly or moving"
   - "No pre-drilled holes on some pieces — you'll need patience and a steady hand"
   - "Not built for heavy daily use; surface scratches show quickly on darker finishes"
+
 ---
 
 Furinno has become a household name for one simple reason: you can furnish a room for less than the cost of a nice dinner out. With 190 ratings averaging 3.8 stars, this brand clearly has a following. But as someone who's assembled more budget furniture than I care to admit, I know that low price often means tradeoffs. Here's the real story on what you're getting.

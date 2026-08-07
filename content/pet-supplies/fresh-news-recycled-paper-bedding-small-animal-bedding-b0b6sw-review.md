@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh News Recycled Paper Bedding, Small Animal Bedding"
 seo_title: "Fresh News Paper Bedding Review: Best Small Pet Absorbency"
 meta_description: "Honest Fresh News Recycled Paper Bedding review: odor control, dust levels, absorbency tested. See why 4.5-star rated bedding suits rabbits, guinea pigs."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6SW345J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UWLSyC-hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3x more absorbent than wood shavings, meaning fewer full cage changes per week"
   - "99.7% dust-free — safe for rabbits, guinea pigs, and small animals with respiratory sensitivity"
   - "Made from 100% recycled paper with no chemical dyes, perfumes, or artificial fragrances"
-cons:
+cons: 
   - "Lighter weight than pine or aspen shavings, so it can scatter if your pet digs vigorously"
   - "Not as cost-effective as kiln-dried pine for very large multi-cage setups"
   - "Needs deeper layering (2–3 inches) to maximize odor control between cleanings"
+
 ---
 
 If you’ve ever watched a guinea pig sneeze through a week of pine shavings, you already know why paper bedding exists. Fresh News Recycled Paper Bedding has built a 4.5-star reputation across 225 Amazon ratings, and it’s not hard to see why once you understand what this product actually does differently.

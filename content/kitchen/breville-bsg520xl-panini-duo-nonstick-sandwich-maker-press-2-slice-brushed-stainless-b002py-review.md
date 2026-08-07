@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BSG520XL Panini Duo Nonstick Sandwich Maker Press,"
 seo_title: "Breville BSG520XL Panini Duo Review: Worth It in 2026?"
 meta_description: "Breville BSG520XL Panini Duo review: 4.6-star sandwich press with dual independent plates, floating hinge, and nonstick surface. See real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B002PY6X1E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414JPv45TBL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Independent floating hinges let each plate adjust to sandwich thickness — no more crushed flatbread or unevenly pressed paninis"
   - "Separate temperature controls for top and bottom plates, so you can crisp the top while keeping the bottom from burning"
   - "Nonstick plates wipe clean in seconds; the drip tray catches cheese and oil overflow before it hits your counter"
-cons:
+cons: 
   - "No audible or visual 'ready' indicator — you'll guess when it's preheated, which takes a few uses to get a feel for"
   - "Plates aren't removable, so deep cleaning around the hinges requires some careful wiping"
   - "Cord storage is basic — no wrap-around feature, just a short cord that dangles when not in use"
+
 ---
 
 # Breville BSG520XL Panini Duo: The Sandwich Press That Actually Gets It Right

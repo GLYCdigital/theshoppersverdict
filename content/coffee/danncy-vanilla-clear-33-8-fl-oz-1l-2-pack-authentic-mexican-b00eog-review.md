@@ -1,4 +1,5 @@
 ---
+
 title: "Danncy Vanilla Clear 33.8 fl oz (1L) 2 pack - Authentic Mexi"
 seo_title: "Danncy Vanilla Clear 1L 2-Pack Review: Real Mexican Vanilla"
 meta_description: "Danncy Vanilla Clear 33.8 fl oz 2-pack review: authentic Mexican vanilla extract for coffee, baking. 4.4 stars, 220 ratings. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00EOGWUEA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SjzhsxgCL._SL1500_.jpg"
-pros:
+pros: 
   - "Full liter bottle per pack — that's 33.8 ounces of vanilla, so the 2-pack lasts most home coffee drinkers 6+ months"
   - "Authentic Mexican vanilla depth that's noticeably richer and sweeter than standard grocery store extract"
   - "Clear formulation means no sediment or cloudiness in cold brew or iced coffee drinks"
-cons:
+cons: 
   - "Contains coumarin (naturally occurring in Mexican vanilla) — sensitive individuals or those on certain meds should moderate intake"
   - "No dropper cap — you'll need your own measuring spoon or pour spout for precise coffee dosing"
   - "Flavor intensity varies slightly batch-to-batch, a known trait of small-batch Mexican vanilla"
+
 ---
 
 Let me be straight with you: most "vanilla" you buy in the supermarket is synthetic vanillin — a single chemical that tastes like a flat, one-note imitation. Danncy's Vanilla Clear is the real thing, sourced from Mexican vanilla beans, and it tastes like it. This 2-pack gives you two full liter bottles (33.8 fl oz each), which is serious volume for anyone who flavors coffee, oatmeal, or baked goods daily.

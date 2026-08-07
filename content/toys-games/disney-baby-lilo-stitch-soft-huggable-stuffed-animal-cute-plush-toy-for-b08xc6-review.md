@@ -1,5 +1,6 @@
 ---
 
+
 title: "Disney Baby Lilo & Stitch Soft Huggable Stuffed Animal Cute"
 seo_title: "Disney Baby Lilo & Stitch Plush Review: Soft Huggable Toy"
 meta_description: "Read our honest Disney Baby Lilo & Stitch plush review: cuddly softness, size details, quality concerns, and who should buy this 4.8-star stuffed animal."
@@ -12,14 +13,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08XC6CLSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cvMWnXgGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally soft 'Baby' series fabric that holds up to repeated washing without losing plushness"
   - "Embroidery details on eyes and mouth are safe for infants and toddlers under 3 inch"
   - "Generous 12-inch size — substantial enough for real hugs, not a pocket trinket"
-cons:
+cons: 
   - "Ears are lightly stuffed and flop forward, which bothers some buyers who expected perky ears"
   - "Limited poseability — it's a sitting plush, not posable, so no arm/leg articulation"
   - "No sound or crinkle features, so it won't engage babies who need sensory stimulation"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Fanttik NB8 Nano Portable Cordless Electric Sprayer w/2.1Gal"
 seo_title: "Fanttik NB8 Nano Sprayer Review: Cordless Power, 2.1 Gal Tank"
 meta_description: "Honest Fanttik NB8 Nano cordless sprayer review: 2.1-gal tank, retractable wand, battery life, and real user feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C8S784F7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uz9W5QYrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "2.1-gallon tank means fewer refills mid-project; covers roughly 200+ sq ft per fill"
   - "Retractable wand extends to 33.5 inches for reaching under leaves and high branches without a ladder"
   - "Rechargeable 4.0Ah battery delivers 45–60 minutes of continuous spray per charge"
-cons:
+cons: 
   - "Battery takes 4–5 hours to fully recharge, so plan for downtime on bigger jobs"
   - "No pressure adjustment dial—single fixed output that some users find too strong for delicate seedlings"
   - "Included shoulder strap feels thin and digs in when the tank is full (nearly 18 lbs with liquid)"
+
 ---
 
 **Review Body**

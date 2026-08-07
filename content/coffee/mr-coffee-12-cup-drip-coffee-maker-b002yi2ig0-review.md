@@ -1,17 +1,18 @@
 ---
+
 title: "Mr. Coffee 12-Cup Drip Coffee Maker with Auto Pause and Glass Carafe"
 seo_title: "Mr. Coffee 12-Cup Review: 4.4★ Budget Drip at $40"
 meta_description: "Our full Mr. Coffee 12-Cup coffee maker review. 4.4 stars from 44,000+ ratings. Simple, reliable, no-frills brewing at just $40. See why it's a bestseller."
 slug: "mr-coffee-12-cup-drip-coffee-maker-review"
 image_alt: "Mr. Coffee Black Coffee Maker, 12 Cups, with Auto Pause and Glass Carafe"
-keywords:
+keywords: 
   - "Mr. Coffee 12 cup review"
   - "best budget drip coffee maker"
   - "Mr. Coffee drip coffee maker"
   - "affordable coffee maker 12 cup"
   - "simple coffee maker no timer"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Does the Mr. Coffee 12-Cup have an auto shutoff?"
     answer: "No, this model does not feature auto shutoff. You need to manually turn it off after brewing. This is a common point among reviewers who expected the feature."
   - question: "Is the carafe dishwasher safe?"
@@ -26,15 +27,16 @@ review_count: 44539
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LB1AbsorL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "No-nonsense design — pour water, add grounds, flip switch, done"
   - "Auto Pause feature lets you sneak a cup mid-brew without flooding the counter"
   - "Dishwasher-safe glass carafe makes cleanup trivial"
   - "Rock-solid reliability at a $40 price point"
-cons:
+cons: 
   - "No auto shutoff — you must remember to turn it off manually"
   - "No programmable timer, clock, or digital display"
   - "Basic build won't win beauty contests, but it works"
+
 ---
 
 Let's be clear about what this Mr. Coffee 12-Cup is: it's the $40 workhorse that's been sitting on American countertops for decades. With 44,539 Amazon ratings and a solid 4.4-star average, it's one of the most-reviewed coffee makers on the planet. But does it actually earn that reputation, or is it just cheap and familiar? I dug into the specs, the buyer feedback, and the real-world quirks to give you the straight answer.

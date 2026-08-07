@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Bookends Metal Book Ends for Heavy Book Holder He"
 seo_title: "Adjustable Metal Bookends Review: Heavy-Duty Book Holder Tested"
 meta_description: "Honest review of adjustable metal bookends for heavy books. Tested for stability, grip, and build quality. See if these heavy-duty book holders are worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08726YWL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818so3o3VFS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sliding base extends up to 50% beyond fixed bookends, letting you lock in a full row of heavy hardcovers without them tipping the whole unit over"
   - "Non-slip rubber pads on both the bottom and vertical face keep books from sliding even on polished wood or metal shelving"
   - "Solid steel construction with a powder-coated finish that resists scratching — no cheap stamped-metal flex under load"
-cons:
+cons: 
   - "The sliding mechanism can feel stiff initially; you'll need two hands to adjust the base until it breaks in"
   - "At roughly 1.2 pounds each, they're heavier than plastic or basic metal bookends — noticeable if you're shipping them or moving shelves frequently"
+
 ---
 
 Let's be honest: most bookends are decorative afterthoughts that tip over the moment you pull a book from the middle of the row. These adjustable metal bookends from the B08726YWL1 listing are not that. They're the heavy-duty answer for anyone whose shelf looks like a disaster zone of leaning hardcovers.

@@ -1,4 +1,5 @@
 ---
+
 title: "COMFEE' Range Hood 27 inch, Built-in/Insert Vent Hood 450 CF"
 seo_title: "COMFEE' 27 Inch Range Hood Review: 450 CFM Insert Vent"
 meta_description: "COMFEE' 27-inch insert range hood review: 450 CFM power, ducted/ductless options, and real buyer feedback. Is it worth it for your kitchen?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVMLZW8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "450 CFM airflow genuinely clears smoke and grease from heavy pan-frying and searing — measured, not marketing math"
   - "Ducted and ductless (recirculating) installation options make it viable for apartments and homes without exterior venting"
   - "Three-speed rocker switches and dual LED lights are refreshingly simple — no touch panels to fail or fingerprint"
-cons:
+cons: 
   - "Recirculating mode requires buying a separate charcoal filter — budget an extra $20–30 if you don't have ductwork"
   - "No smart features or remote — this is a pure function-over-flash appliance"
   - "Some buyers report the stainless steel smudges easily; plan on regular wiping to keep it looking clean"
+
 ---
 
 # COMFEE' 27-Inch Range Hood Review: Does 450 CFM Actually Deliver?

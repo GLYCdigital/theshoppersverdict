@@ -1,4 +1,5 @@
 ---
+
 title: "AULA F2088 Typewriter Style Mechanical Gaming Keyboard Wired"
 seo_title: "AULA F2088 Typewriter Keyboard Review: Retro Look, Real Feel"
 meta_description: "AULA F2088 typewriter mechanical keyboard review: round keycaps, clicky switches, wrist rest. Is this retro wired board worth it for work and play?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BG7W4Z8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XcWqobDVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine clicky mechanical switches with satisfying tactile feedback, not a membrane keyboard in costume"
   - "Full anti-ghosting with 12-key rollover — actually usable for gaming despite the vintage look"
   - "Detachable wrist rest and included keycap puller add real value at this price point"
-cons:
+cons: 
   - "Loud — the blue switches will annoy anyone sharing your space; this is not an open-office keyboard"
   - "No backlighting at all — the retro aesthetic comes at the cost of night-time visibility"
+
 ---
 
 The AULA F2088 is the keyboard equivalent of wearing a fedora to a business meeting — it makes a statement, and you've got to commit to it. But underneath those round, concave keycaps sits a genuine mechanical switch array that performs far better than the $30-ish price tag suggests. I've tested dozens of budget boards, and this one earns its 4.1-star rating honestly.

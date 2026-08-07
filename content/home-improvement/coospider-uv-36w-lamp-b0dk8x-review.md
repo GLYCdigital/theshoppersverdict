@@ -1,4 +1,5 @@
 ---
+
 title: "COOSPIDER UV 36W Lamp"
 seo_title: "COOSPIDER UV 36W Lamp Review: Worth It? (2026)"
 meta_description: "COOSPIDER UV 36W Lamp review: 4.5-star rated curing light for resin crafts. Real performance, build quality, and buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK8X4DDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OX-lngP3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "36W output cures standard UV resin in 2-4 minutes — noticeably faster than 12-24W competitors"
   - "Adjustable 10-second to 999-second timer with digital display saves resin by preventing overcuring"
   - "Turntable rotates at 6 RPM for even curing on rounded surfaces like beads and cabochons"
-cons:
+cons: 
   - Curing chamber is compact (roughly 5.5 inch " x 5.5 inch " x 3 inch ") — won't fit larger molds or tumblers
   - "No auto-off sensor; you must manually set the timer or it stays on until you stop it"
+
 ---
 
 Let me be upfront: the UV curing lamp market is flooded with cheap 12W wands and undersized nail lamps that leave your resin tacky for hours. The COOSPIDER UV 36W is a different animal — a proper curing station for anyone serious about resin crafts, small repairs, or UV adhesives. With 225 ratings averaging 4.5 stars, it's clearly earning its keep on hobbyist benches.

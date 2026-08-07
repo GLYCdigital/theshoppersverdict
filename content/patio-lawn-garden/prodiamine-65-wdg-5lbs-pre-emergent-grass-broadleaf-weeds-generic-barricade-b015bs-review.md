@@ -1,4 +1,5 @@
 ---
+
 title: "Prodiamine 65 Wdg 5lbs Pre-emergent Grass Broadleaf Weeds ( "
 seo_title: "Prodiamine 65 Wdg 5lbs Pre-emergent Grass Broadlea Review"
 meta_description: "Our full prodiamine 65 wdg 5lbs pre-emergent grass broadleaf weeds (  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B015BSNZP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VuwPCeGyL._SL1185_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of dropping $40+ on a tiny jug of name-brand Barricade, this 5-pound jug of Prodiamine 65 WDG is the grown-up move. It's the same active ingredient (prodiamine at 65%) that the pros use, just without the marketing markup. At 4.7 stars from 235 buyers, this is one of the most consistently praised generics in the lawn care space. Here's the real breakdown.

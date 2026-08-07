@@ -1,4 +1,5 @@
 ---
+
 title: "Willpo CertiPUR-US Memory Foam Camping Mattress with Travel "
 seo_title: "Willpo CertiPUR-US Memory Foam Camping Mattress wi Review"
 meta_description: "Our full willpo certipur-us memory foam camping mattress with travel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3CQ288K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81X3xr4NE4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent even one night on a $20 inflatable pad that sounds like a crinkly chip bag and deflates by 3 a.m., you already know why the Willpo CertiPUR-US Memory Foam Camping Mattress exists. This is a 3-inch thick slab of actual memory foam designed to make car camping feel less like a punishment. With a 4.4-star average across 220 ratings, it's clearly doing something right — but it's not for everyone.

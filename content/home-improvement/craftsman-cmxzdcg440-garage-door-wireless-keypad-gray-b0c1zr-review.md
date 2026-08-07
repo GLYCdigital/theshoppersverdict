@@ -1,4 +1,5 @@
 ---
+
 title: "Craftsman CMXZDCG440 Garage Door Wireless Keypad, Gray"
 seo_title: "Craftsman CMXZDCG440 Keypad Review: Worth It? (2026)"
 meta_description: "Craftsman CMXZDCG440 garage door keypad review: 4.6★ from 229 ratings. Real-world testing, programming ease, compatibility, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1ZR35J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uF4DUwrsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works with virtually all brands (Chamberlain, LiftMaster, Genie, Craftsman) via a simple 3-minute programming sequence"
   - "Sealed, weather-resistant keypad with backlit keys survives rain, snow, and direct sun without fading"
   - "Secure 4-digit code with temporary PIN option for dog walkers or contractors — no key fob to lose"
-cons:
+cons: 
   - "Uses a 9V battery (not included) that drains faster in freezing temps — expect 6-9 months, not the advertised year"
   - "No built-in motion sensor light or battery-low indicator on the keypad itself; you'll find out when it stops working"
   - "Mounting screws are soft metal — strip easily if you overtighten into brick or concrete"
+
 ---
 
 If you've ever stood in the rain fumbling for a garage door remote that's buried in your coat pocket, the Craftsman CMXZDCG440 solves that specific annoyance. This is a no-frills wireless keypad that does one thing — open your garage with a PIN — and does it reliably. But "reliable" doesn't mean "perfect," and after digging through 229 Amazon ratings (4.6 stars) and testing the unit myself, here's the honest picture.

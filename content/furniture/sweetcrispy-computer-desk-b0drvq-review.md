@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Computer Desk"
 seo_title: "Sweetcrispy Computer Desk Review: Verdict | TSV"
 meta_description: "Our full sweetcrispy computer desk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRVQ68K8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m5HgyTFkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Sweetcrispy Computer Desk has quietly become one of the most-purchased desks on Amazon, and with a 4.6-star average across 229 ratings, it's not hard to see why. But is it actually worth your money, or is it just another cheap Amazon desk that'll wobble into oblivion by month three? I dug through the specs, the customer feedback, and the real-world complaints to give you the straight answer.

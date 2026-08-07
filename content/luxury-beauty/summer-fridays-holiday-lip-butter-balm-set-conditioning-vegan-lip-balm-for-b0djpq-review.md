@@ -1,4 +1,5 @@
 ---
+
 title: "Summer Fridays Holiday Lip Butter Balm Set - Conditioning Ve"
 seo_title: "Summer Fridays Holiday Lip Butter Balm Set - Condi Review"
 meta_description: "Our full summer fridays holiday lip butter balm set - conditioning ve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJPQSL5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KNxDZU6sL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Summer Fridays Holiday Lip Butter Balm Set: Worth the Hype or Just Packaging?

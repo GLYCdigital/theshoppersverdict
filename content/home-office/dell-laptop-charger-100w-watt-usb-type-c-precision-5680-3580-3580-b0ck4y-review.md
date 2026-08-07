@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dell Laptop Charger 100W Watt USB Type C Precision 5680 3580 inch"
 seo_title: "Dell 100W USB-C Charger Review: Precision 5680 & 3580 Compatible"
 meta_description: "Dell 100W USB-C charger review for Precision 5680/3580. Real performance, build quality, compatibility, and honest tradeoffs. Is it worth buying?"
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK4YRRK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PO3lTXanL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 100W USB-C PD output actually sustains under load — no throttling or heat shutdowns on Precision 5680 inch"
   - "Detachable 3-prong AC cable (6.5 ft) plus 6 ft USB-C cable gives 12.5 ft total reach — rare flexibility"
   - "Compact 5.1 x 2.4 x 1.1 inch brick weighs 12.3 oz — 40% smaller than Dell's original 130W adapter"
-cons:
+cons: 
   - "Only one USB-C port — no passthrough charging for phones or accessories"
   - "Non-Dell branding on the brick itself; some corporate IT policies may flag it"
   - "No international plug adapters included — you'll need to buy those separately"
+
 
 ---
 

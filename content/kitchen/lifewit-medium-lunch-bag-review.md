@@ -1,4 +1,5 @@
 ---
+
 title: "Lifewit Medium Lunch Bag Review: Best Insulated Lunch Box Under $15?"
 seo_title: "Lifewit Medium Lunch Bag Review 2026: 12-Can Insulated Lunch Box Tested"
 meta_description: "Our Lifewit Medium Lunch Bag review covers insulation performance, capacity, and durability. See if this $10 insulated lunch tote beats the competition for work and travel."
@@ -11,14 +12,14 @@ amazon_url: "https://www.amazon.com/dp/B0B56CHMSC?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tf1kD9PBL._AC_SL1500_.jpg"
 image_alt: "Lifewit Medium Insulated Lunch Bag in black with 9L capacity"
 keywords: [Lifewit lunch bag review, best insulated lunch box, affordable lunch bag, lunch tote for work, 12-can lunch cooler]
-pros:
+pros: 
   - "Excellent value at just over $10"
   - "Thick insulation keeps food cold for 4-6 hours"
   - "Lightweight and easy to carry with sturdy handles"
-cons:
+cons: 
   - "No shoulder strap included"
   - "Exterior shows smudges easily on black fabric"
-faq:
+faq: 
   - question: "How long does the Lifewit lunch bag keep food cold?"
     answer: "With an ice pack, the Lifewit keeps contents cold for 4-6 hours. The thick foam insulation does a respectable job, though it won't match high-end rotomolded coolers."
   - question: "Can it fit a standard meal prep container?"
@@ -27,6 +28,7 @@ faq:
     answer: "The interior lining is water-resistant and easy to wipe clean, but it's not fully leak-proof. We recommend using sealed containers for liquids."
   - question: "Does it come in different colors?"
     answer: "Yes, the Lifewit Medium Lunch Bag is available in several colors and patterns, including black, grey, blue, and floral designs."
+
 ---
 
 If you pack lunch more than twice a week, you know the struggle: a flimsy bag that leaks, a thermal lining that peels, and a shape that swallows your bento box whole. The Lifewit Medium Lunch Bag sidesteps most of that nonsense. At roughly 9.5 x 6.5 x 7 inches inside, it's sized for real meals — not just a sad sandwich and a yogurt cup. It's not perfect, but for under $20, it punches well above its weight.

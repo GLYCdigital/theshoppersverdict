@@ -1,4 +1,5 @@
 ---
+
 title: "HOSTACK LED Bed Frame with Charging Station"
 seo_title: "HOSTACK LED Bed Frame with Charging Station Review: Verdi"
 meta_description: "Our full hostack led bed frame with charging station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DGY49VQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81d28oyQf6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HOSTACK LED Bed Frame with Charging Station: A Feature-Packed Frame That Actually Delivers**

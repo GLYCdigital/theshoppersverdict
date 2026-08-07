@@ -1,4 +1,5 @@
 ---
+
 title: "Crock-Pot Programmable Stainless Steel 1500 Oval Slow Cooker"
 seo_title: "Crock-Pot Programmable 1500 Oval Slow Cooker Review: Worth It?"
 meta_description: "Crock-Pot Programmable Stainless Steel 1500 Oval Slow Cooker review: 7-quart capacity, digital controls, real-world performance. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7QDN9T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XG58Qs1yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "7-quart oval stoneware fits a full 6-pound roast or whole chicken with room to spare"
   - "Digital timer switches to Warm automatically, so food won't overcook while you're away"
   - "Stainless steel exterior resists fingerprints better than most black plastic slow cookers"
-cons:
+cons: 
   - "No built-in probe thermometer, which is odd at this price point when rivals include one"
   - "Stoneware insert is heavy when full — expect a two-hand carry to the sink"
   - "Programmable controls beep loudly with every press and can't be muted"
+
 ---
 
 If you've cooked with a slow cooker for any length of time, you know the drill: set it on Low at 8 AM, pray the chicken isn't sawdust by 5 PM. The Crock-Pot Programmable Stainless Steel 1500 takes the guesswork out of that equation with a digital timer that actually shuts things down and keeps food warm. After spending two weeks making everything from pot roast to overnight oatmeal in this 7-quart oval, here's what I found.

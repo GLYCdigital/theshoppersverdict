@@ -1,4 +1,5 @@
 ---
+
 title: "NorthStar ATV Broadcast and Spot Sprayer with 2-Nozzle Boom"
 seo_title: "NorthStar ATV Broadcast and Spot Sprayer with 2-No Review"
 meta_description: "Our full northstar atv broadcast and spot sprayer with 2-nozzle boom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GPB1C9RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hZv4SJlsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're managing more than a couple acres, dragging a garden hose around stops being an option. The NorthStar ATV Broadcast and Spot Sprayer exists to solve that specific problem — and for the most part, it does. With 200 ratings averaging 4.0 stars, this is a sprayer that's been through real seasons of real use. Here's what that actually looks like.

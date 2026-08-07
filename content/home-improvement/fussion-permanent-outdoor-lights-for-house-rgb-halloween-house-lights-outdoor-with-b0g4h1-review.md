@@ -1,4 +1,5 @@
 ---
+
 title: "Fussion Permanent Outdoor Lights for House, RGB Halloween Ho"
 seo_title: "Fussion Permanent Outdoor Lights Review: RGB House Lighting"
 meta_description: "Honest Fussion permanent outdoor lights review: RGB smart house lighting for Halloween & year-round. Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0G4H1PJDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uIIMsm21L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True permanent installation with aluminum track and polycarbonate lens — no seasonal ladder work"
   - "16 million RGB colors plus warm white for everyday use, not just holidays"
   - "App control with preset scenes for Halloween, Christmas, and 4th of July"
-cons:
+cons: 
   - "App setup and WiFi pairing is finicky — multiple buyers report connection dropouts"
   - "Cut-to-length track requires precise measurement; mistakes are costly since the kit isn't expandable"
   - "No Google Home or Alexa integration at this price point — app-only control"
+
 ---
 
 Let me be straight with you: the "permanent outdoor lights" category is crowded with flimsy clip-on strips that yellow within a season. The Fussion RGB system takes a different approach — aluminum channels, polycarbonate lenses, and a design meant to stay mounted year-round. At 3.6 stars from 180 ratings, it's not a slam dunk. But for the right buyer, it might be exactly what Halloween decorating calls for.

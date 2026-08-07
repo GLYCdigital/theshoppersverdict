@@ -1,4 +1,5 @@
 ---
+
 title: "Eyeko Beach Waterproof Mascara - Volume & Lift - Coconut Oil"
 seo_title: "Eyeko Beach Waterproof Mascara Review: Volume & Lift (2026)"
 meta_description: "Honest Eyeko Beach Waterproof Mascara review: coconut oil-infused, vegan volume & lift. Does it survive tears and sweat? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DX54KPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-km0pf0FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Coconut oil infusion actually conditions lashes — no crispy, brittle feel after 10+ hours of wear"
   - "The curved wand grabs short lashes at the root, delivering noticeable lift without flaking or smudging"
   - "Truly waterproof — survived a sweaty gym session and tears without raccoon eyes"
-cons:
+cons: 
   - "Removal is a battle — you'll need an oil-based remover or double cleanse, rubbing won't cut it"
   - "Formula dries out quickly in the tube; expect it to thicken noticeably around the 2-month mark"
   - "Can clump if you apply more than two coats — the wet formula needs a steady hand"
+
 ---
 
 **Eyeko Beach Waterproof Mascara Review: The Coconut-Infused Lash Lifter That Actually Holds**

@@ -1,4 +1,5 @@
 ---
+
 title: "Sceptre 24-inch Prime Monitor Thin 1080p LED Monitor 99% sRG"
 seo_title: "Sceptre 24-inch Prime Monitor Thin 1080p LED Monit Review"
 meta_description: "Our full sceptre 24-inch prime monitor thin 1080p led monitor 99% srg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CY39ZQW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+-pmJOYjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: for under a hundred bucks, most 24-inch monitors are a gamble. You're either getting a washed-out TN panel that looks like a 2008 laptop screen, or a "budget" display that cuts corners on ports, bezels, and color accuracy. The Sceptre 24-inch Prime doesn't play that game — and after spending time with it, I understand why 225 shoppers have pushed it to a 4.5-star average.

@@ -1,4 +1,5 @@
 ---
+
 title: "SADOER 6-Piece Hydrating Skincare Set with Vitamin C & Niaci"
 seo_title: "SADOER 6-Piece Hydrating Skincare Set with Vitamin Review"
 meta_description: "Our full sadoer 6-piece hydrating skincare set with vitamin c & niaci review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7L817KT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91iUn61g79L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Complete Routine in One Box — But Is It Worth It?

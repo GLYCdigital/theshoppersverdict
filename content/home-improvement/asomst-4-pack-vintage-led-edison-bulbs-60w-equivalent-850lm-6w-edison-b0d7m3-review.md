@@ -1,4 +1,5 @@
 ---
+
 title: "ASOMST 4-Pack Vintage LED Edison Bulbs 60W Equivalent, 850LM"
 seo_title: "ASOMST Vintage LED Edison Bulbs Review: 4-Pack 60W Equivalent"
 meta_description: "Honest ASOMST 4-pack vintage LED Edison bulbs review: 850 lumens, 60W equivalent, dimmable performance, build quality, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D7M3M46M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n6xmHDoNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers a true 850 lumens at just 6W — nearly 30% brighter than most vintage-style LED bulbs in this class"
   - "Dimmable down to 5% without flicker or buzz, thanks to a quality driver that most budget Edison bulbs skip"
   - "Warm 2200K color with a real glass envelope, not cheap plastic that yellows or melts near enclosed fixtures"
-cons:
+cons: 
   - "Large A19/ST58 size won't fit shallow sconces or small pendant shades — measure your fixture first"
   - "The amber tint is aggressive; if you want a neutral warm white, these lean heavily into candlelight territory"
   - "No dimmer compatibility guarantee — works with leading-edge dimmers tested, but trailing-edge models may misbehave"
+
 ---
 
 # ASOMST 4-Pack Vintage LED Edison Bulbs: Retro Looks, Modern Performance

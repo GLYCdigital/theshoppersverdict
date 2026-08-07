@@ -1,4 +1,5 @@
 ---
+
 title: "Funko Pop Games: Pokemon - Gengar - Collectable Vinyl Figure"
 seo_title: "Gengar Funko Pop Review: Is This Pokemon Vinyl Worth It?"
 meta_description: "Honest Gengar Funko Pop review: 4.8-star rated Pokemon vinyl figure. See build quality, glow details, sizing, and if it's worth adding to your collection."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D427G9JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c3aBH1OqL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Accurate Gengar purple with sharp, clean paint application on the eyes and mouth — no sloppy overspray"
   - "Glow-in-the-dark variant actually charges well and holds brightness for several hours after light exposure"
   - "Sturdy 4-inch vinyl with solid base peg — stands reliably without leaning or tipping"
-cons:
+cons: 
   - "At under 4 inches tall, it's noticeably smaller than standard Funko Pops — scale collectors may be disappointed"
   - "No exclusive sticker or chase variant — this is the standard release, so resale value will stay flat"
+
 ---
 
 The Shadow Pokemon finally gets his due. Funko's Gengar Pop is the kind of figure that makes you wonder why it took them this long — and whether the final product lives up to the hype. After handling one and cross-referencing buyer feedback across 240 ratings, here's what you need to know before you click add to cart.

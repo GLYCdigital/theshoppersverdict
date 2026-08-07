@@ -1,16 +1,17 @@
 ---
+
 title: "SODI Vertical Laptop Stand, Gravity Auto Lock, Aluminum, Gray"
 seo_title: "SODI Vertical Laptop Stand Review: Space-Saving Desk Solution (4.8/5)"
 meta_description: "Review of the SODI Vertical Laptop Stand with Gravity Auto Lock based on 664 Amazon reviews. Saves desk space, sturdy aluminum build — is it worth it?"
 slug: "sodi-vertical-laptop-stand-gravity-auto-lock-review"
 image_alt: "SODI Vertical Laptop Stand with Gravity Auto Lock for MacBook"
-keywords:
+keywords: 
   - "SODI laptop stand review"
   - "best vertical laptop stand"
   - "gravity auto lock stand"
   - "space-saving laptop holder"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Does the SODI vertical stand fit all laptop sizes?"
     answer: "Yes. Reviewers report it fits everything from a 13-inch MacBook Air to a 16-inch HP gaming laptop comfortably."
   - question: "How does the gravity auto lock work?"
@@ -23,16 +24,17 @@ review_count: 664
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CC5FZCD9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yeKLDrXaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Incredible space savings — reclaims your desk"
   - "Gravity lock is elegant and tool-free"
   - "Sturdy all-metal construction"
   - "Side slot for phone or tablet"
   - "Matches MacBook aesthetic perfectly"
-cons:
+cons: 
   - "Can grip a bit tightly on some laptops"
   - "Not adjustable for different thicknesses"
   - "Requires USB-C dock for port access while standing"
+
 ---
 
 If your desk feels like a cluttered war zone of cables, coffee mugs, and an open laptop eating up half the real estate, the SODI Vertical Laptop Stand is a deceptively simple fix.

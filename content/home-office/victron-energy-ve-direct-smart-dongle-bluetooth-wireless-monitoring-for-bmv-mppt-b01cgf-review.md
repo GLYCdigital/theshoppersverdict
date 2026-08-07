@@ -1,4 +1,5 @@
 ---
+
 title: "Victron Energy VE.Direct Smart Dongle (Bluetooth) - Wireless"
 seo_title: "Victron Energy VE.Direct Smart Dongle (Bluetooth)  Review"
 meta_description: "Our full victron energy ve.direct smart dongle (bluetooth) - wireless review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01CGFF8Q2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HXvihsjEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Victron gear: it's excellent, but it's also expensive. So when you drop $200+ on a BMV-712 battery monitor or a SmartSolar MPPT controller, the last thing you want is to be tethered to it with a USB cable to check your battery status. The VE.Direct Smart Dongle solves that problem — for a price. Is it worth $39.95? Let's dig in.

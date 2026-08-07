@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS TV Stand, Entertainment Center Media Console Table wit"
 seo_title: "DUMOS TV Stand Review: Storage, Style & Real Buyer Feedback"
 meta_description: "DUMOS TV Stand review: 4.4-star rated media console with 2 cabinets. Real buyer feedback on build quality, assembly, and whether it fits your space."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVWFGKZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IxbVrmCQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two large enclosed cabinets with adjustable shelves hide cable boxes, game consoles, and clutter completely"
   - "Open middle shelf fits soundbars up to ~20 inches wide and allows IR remote pass-through"
   - "Rounded corners and smooth MDF finish feel more premium than the price point suggests"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes with 30+ steps; two people strongly recommended for the top panel"
   - "Back panel is thin fiberboard — you must secure it with the included brackets or it will bow"
   - "Max TV weight is 110 lbs; not ideal for massive 85-inch panels without center support"
+
 ---
 
 # DUMOS TV Stand Review: Does This $150-ish Media Console Actually Hold Up?

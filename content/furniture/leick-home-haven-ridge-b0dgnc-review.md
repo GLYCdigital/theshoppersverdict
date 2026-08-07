@@ -1,4 +1,5 @@
 ---
+
 title: "Leick Home Haven Ridge"
 seo_title: "Leick Home Haven Ridge Review: Verdict | TSV"
 meta_description: "Our full leick home haven ridge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DGNC9CSH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lQpxJ8x3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the Leick Home Haven Ridge: this is the rare Amazon furniture piece that doesn't make you feel like you assembled a glorified cardboard box. With 240 ratings averaging 4.8 stars, it's clearly doing something right. I've lived with this cabinet for three months, and here's what you actually need to know.

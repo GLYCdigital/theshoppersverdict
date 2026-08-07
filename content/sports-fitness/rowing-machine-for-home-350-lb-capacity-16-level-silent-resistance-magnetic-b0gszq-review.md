@@ -1,4 +1,5 @@
 ---
+
 title: "Rowing Machine for Home, 350 LB Capacity, 16-Level Silent Re"
 seo_title: "Rowing Machine for Home, 350 LB Capacity, 16-Level Review"
 meta_description: "Our full rowing machine for home, 350 lb capacity, 16-level silent re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSZQJM7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gesd-pm3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The market is flooded with cheap magnetic rowers that wobble, squeak, and max out at 250 lbs. This machine — with its 350 lb capacity and 16-level magnetic resistance — is aiming at a different buyer. The question is whether it delivers.

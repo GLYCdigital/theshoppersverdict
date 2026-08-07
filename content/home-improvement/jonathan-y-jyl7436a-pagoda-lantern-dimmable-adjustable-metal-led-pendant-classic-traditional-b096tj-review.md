@@ -1,4 +1,5 @@
 ---
+
 title: "Jonathan Y JYL7436A Pagoda Lantern Dimmable Adjustable Metal"
 seo_title: "Jonathan Y JYL7436A Pagoda Lantern Dimmable Adjust Review"
 meta_description: "Our full jonathan y jyl7436a pagoda lantern dimmable adjustable metal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096TJGJ8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o3+ropzgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a dozen boring drum shades and flush mounts, the Jonathan Y JYL7436A Pagoda Lantern is the pendant that actually stops the scroll. This isn't a reinvented cylinder with a trendy finish — it's a genuine pagoda silhouette with stacked tiers, clean lines, and a warm industrial-traditional crossover that works in entryways, dining nooks, and above kitchen islands. With 229 ratings averaging 4.6 stars, it's clearly earning its place in real homes. Here's the honest breakdown.

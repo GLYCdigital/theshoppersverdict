@@ -1,4 +1,5 @@
 ---
+
 title: "Academic Planner - Hourly Planner Weekly and Monthly - Appoi"
 seo_title: "Academic Planner Review: Hourly Weekly & Monthly Layout"
 meta_description: "Honest Academic Planner review: hourly weekly & monthly layouts, durable cover, real student feedback. Is this appointment book worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GMQRBDJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9160pnUNU8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hourly breakdown from 7 AM to 9 PM gives real structure for block-scheduled classes and study sessions"
   - "Lay-flat binding actually stays open on a desk without weight — rare at this price point"
   - "Monthly overview pages include lined notes sections, not just blank grid boxes"
-cons:
+cons: 
   - "No undated option — if you buy mid-semester, you're wasting pages"
   - "Paper is thin enough that heavy gel pens ghost on the reverse side"
   - "Cover is flexible vinyl, not hardback — toss it in a backpack unprotected and corners will curl"
+
 ---
 
 # Academic Planner Review: Does This Hourly Layout Actually Keep Students on Track?

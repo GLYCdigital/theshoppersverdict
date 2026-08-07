@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering Modern Horizons 3 Bundle - 9 Play Boost"
 seo_title: "Magic: The Gathering Modern Horizons 3 Bundle - 9  Review"
 meta_description: "Our full magic: the gathering modern horizons 3 bundle - 9 play boost review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSVCRVRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817flCTk0OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Modern Horizons 3 Bundle is the rare MTG product where the packaging matters as much as the cards inside.** At $60-ish street price, you're getting 9 Play Boosters and 30 foil full-art basics—but the real story is how Wizards designed this for Modern players who want value without gambling on a full booster box.

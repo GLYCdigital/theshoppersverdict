@@ -1,4 +1,5 @@
 ---
+
 title: "Gardener's Supply Company Elevated Cedar Planter Box"
 seo_title: "Gardener's Supply Elevated Cedar Planter Box Review (2026)"
 meta_description: "Honest Gardener's Supply Company Elevated Cedar Planter Box review: build quality, ergonomics, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFFRG4WN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G5Q0QGXgL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "True cedar construction resists rot and looks far better than pine or composite boxes"
   - "Elevated 30-inch working height eliminates bending — a genuine relief for aging backs and knees"
   - "Generous 4-foot by 2-foot footprint holds serious soil volume for tomatoes, peppers, or herbs"
-cons:
+cons: 
   - "Assembly requires a drill; pre-drilled holes don't always align perfectly between panels"
   - "Cedar will weather to gray within one season unless you seal it — no finish included"
   - "Price sits well above basic raised beds, and the liner is sold separately"
+
 ---
 
 If you've spent a single season crouched over a ground-level raised bed, you already know the pain. The Gardener's Supply Company Elevated Cedar Planter Box solves that problem with a 30-inch working height that brings the soil to you — not the other way around. It's not the cheapest option, but for gardeners with back issues or limited mobility, this box earns its keep quickly.

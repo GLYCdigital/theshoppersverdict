@@ -1,5 +1,6 @@
 ---
 
+
 title: "16 Colors Changing Curtain Lights -Fairy String, 7 Modes Twi"
 seo_title: "16 Colors Changing Curtain Lights Review: Worth It? (2026)"
 meta_description: "Honest review of 16 Colors Changing Curtain Lights: 7 modes, remote control, and real-world durability tested. See pros, cons, and who should buy."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G2YZ838T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817x8m287IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 color options plus warm/cool white — actual color mixing, not just 16 static hues"
   - "Remote control works from 15+ feet through thin walls, no app or hub required"
   - "Two separate curtain panels (5' x 6.5' each) give you 130 sq ft of coverage for under $25 inch"
-cons:
+cons: 
   - "Wires are thin and delicate at connection points — handle gently during installation"
   - "Remote uses proprietary IR signal; replacement remotes are hard to source if lost"
   - "Timer function resets when power is cut — you'll reprogram it after every outage"
+
 
 ---
 

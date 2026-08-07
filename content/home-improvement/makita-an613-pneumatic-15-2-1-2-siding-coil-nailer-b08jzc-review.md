@@ -1,7 +1,8 @@
 ---
-title: "Makita AN613 Pneumatic 15Â° 2-1/2\" Siding Coil Nailer"
-seo_title: "Makita AN613 Pneumatic 15Â° 2-1/2\" Siding Coil Nai Review"
-meta_description: "Our full makita an613 pneumatic 15â° 2-1/2\" siding coil nailer review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Makita AN613 Pneumatic 15Â° 2-1/2\ Siding Coil Nailer"
+seo_title: "Makita AN613 Pneumatic 15Â° 2-1/2\ Siding Coil Nai Review"
+meta_description: "Our full makita an613 pneumatic 15â° 2-1/2\ siding coil nailer review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-an613-pneumatic-15-2-1-2-siding-coil-nailer-b08jzc-review"
 image_alt: "Makita AN613 Pneumatic 15Â° 2-1/2 Siding Coil Nailer"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08JZCF3C3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nP25xPdHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're installing HardiePlank, LP SmartSide, or cedar lap siding for a living, you already know that most coil nailers feel like you're lugging a boat anchor up a ladder. The Makita AN613 doesn't. At 5.4 pounds, it's the lightest 15-degree siding nailer I've tested that still drives a 2-1/2-inch ring shank nail flush — no shortcuts, no underpowered compromise.

@@ -1,4 +1,5 @@
 ---
+
 title: "T4U Clear Plastic Orchid Pots with Holes and Saucers"
 seo_title: "T4U Clear Plastic Orchid Pots with Holes and Sauce Review"
 meta_description: "Our full t4u clear plastic orchid pots with holes and saucers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DNM61VWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712h+gsTYlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed an orchid from root rot, you already know the problem: you couldn't see what was happening below the surface. The T4U Clear Plastic Orchid Pots with Holes and Saucers solve that blindness directly — and with 235 ratings averaging 4.7 stars, they're doing it well for a lot of growers.

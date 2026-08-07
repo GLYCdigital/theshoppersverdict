@@ -1,4 +1,5 @@
 ---
+
 title: "Dwi Dowellin Construction Toy Set,Remote Control Excavator,D"
 seo_title: "Dwi Dowellin RC Construction Toy Set Review: Excavator, Dump Truck"
 meta_description: "Honest Dwi Dowellin construction toy set review: 3 RC vehicles, battery life, durability, and value. Is this 4.4-star set worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5C2G8M7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cu4Nng03L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three separate RC vehicles (excavator, dump truck, bulldozer) each with independent controls — not a gimmick, they actually work differently"
   - "Excavator has functional 360° rotation and working arm with bucket that lifts and tilts, not just a static toy on wheels"
   - "Rechargeable batteries in vehicles with USB charging cables included — no constant AA battery purchases"
-cons:
+cons: 
   - "Remote controls require 2 AA batteries each (not included) — three remotes means six AA batteries upfront"
   - "Plastic body panels feel thin; a hard drop on concrete will likely crack them"
   - "No auto-off function — kids will drain batteries if they forget to switch vehicles off"
+
 ---
 
 Let me be upfront: I've tested more RC construction toys than I care to count, and most are either overpriced junk or single-function disappointments. The Dwi Dowellin set is different — it's three actual vehicles with distinct functions, and the 4.4-star average across 220 ratings reflects that.

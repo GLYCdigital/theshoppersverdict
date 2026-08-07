@@ -1,4 +1,5 @@
 ---
+
 title: "LG Electronics 6X Blu Ray Writer 8X DVD Writer +/- RW USB 2."
 seo_title: "LG Electronics 6X Blu Ray Writer 8X DVD Writer +/- Review"
 meta_description: "Our full lg electronics 6x blu ray writer 8x dvd writer +/- rw usb 2. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091J94335/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Os6QkvPsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been holding onto a stack of external optical drives from 2012, this LG is the upgrade you've been putting off. The 6X Blu-ray write speed isn't headline-grabbing, but it's substantially better than the 2X burners still floating around. For $80–$100 street price, you're getting a reliable BD-R writer that handles everything from disc archiving to watching 4K Blu-ray movies (playback only — no 4K UHD BD support, which is worth noting).

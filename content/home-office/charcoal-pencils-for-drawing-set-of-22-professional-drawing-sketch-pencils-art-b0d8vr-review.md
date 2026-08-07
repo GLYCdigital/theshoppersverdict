@@ -1,4 +1,5 @@
 ---
+
 title: "Charcoal Pencils for Drawing, Set of 22, Professional Drawin"
 seo_title: "Charcoal Pencils for Drawing Set of 22 Review (2026)"
 meta_description: "Honest review of the 22-piece professional charcoal pencil set. Tested for layering, smudging, and durability. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8VRTMC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7124zIQWx0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full hardness range (soft, medium, hard) covers everything from deep blacks to fine detail work"
   - "Compressed charcoal core is densely packed — resists snapping during sharpening and heavy-handed strokes"
   - "Minimal dust and smudging compared to stick charcoal, making it ideal for studio and travel work"
-cons:
+cons: 
   - "Soft grades (6B-8B) need frequent sharpening — expect to re-point every 10-15 minutes of active use"
   - "Wood casing is slightly thicker than premium brands like General's, which can feel bulky for tight linework"
+
 ---
 
 If you're tired of charcoal pencils that snap mid-stroke or crumble into dust the moment you apply pressure, this 22-piece set deserves a hard look. It's not just another bulk pack — it's a thoughtfully assembled kit that covers the full spectrum of charcoal work, from feather-light sketching to dense, velvety blacks.

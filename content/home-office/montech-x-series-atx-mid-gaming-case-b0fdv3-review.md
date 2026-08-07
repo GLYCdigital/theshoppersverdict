@@ -1,4 +1,5 @@
 ---
+
 title: "MONTECH X Series ATX Mid Gaming Case"
 seo_title: "MONTECH X Series ATX Mid Gaming Case Review: Verdict | TS"
 meta_description: "Our full montech x series atx mid gaming case review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FDV3W4GB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K2YifsUwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MONTECH X Series is the budget case that actually respects your components — and your cable management patience.** At a street price that typically lands well under $90, it packs features that cases twice the price sometimes skip. But it's not without compromise. Here's the real breakdown after digging through 210 Amazon ratings and the spec sheet.

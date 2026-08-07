@@ -1,4 +1,5 @@
 ---
+
 title: "Poolergetic Pool Liner Pad for Above Ground Pools, Round Und"
 seo_title: "Poolergetic Pool Liner Pad for Above Ground Pools, Review"
 meta_description: "Our full poolergetic pool liner pad for above ground pools, round und review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FF411JMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CIIdZ-JCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever pulled up an above-ground pool liner to find a constellation of pinhole leaks from a stray pebble, you know the value of a good underlayment. The Poolergetic Pool Liner Pad aims to be more than a glorified tarp — it's a closed-cell foam mat that actually cushions the pool floor. At 4.2 stars across 210 ratings, it's performing well, but let's talk about whether it's the right foundation for your specific setup.

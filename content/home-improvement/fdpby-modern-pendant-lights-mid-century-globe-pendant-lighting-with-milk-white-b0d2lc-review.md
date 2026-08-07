@@ -1,4 +1,5 @@
 ---
+
 title: "FDPBY Modern Pendant Lights - Mid Century Globe Pendant Ligh"
 seo_title: "FDPBY Modern Pendant Light Review: Mid-Century Globe (2026)"
 meta_description: "Honest FDPBY mid-century globe pendant light review: build quality, installation ease, light output, and who should buy. 4.6-star rated."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2LC5TBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qk218zMfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine milk-white glass shade (not plastic) that diffuses light evenly without harsh hotspots"
   - "Adjustable hanging length from roughly 8 to 50 inches — fits standard 8-10 foot ceilings"
   - "Compatible with dimmable bulbs and smart bulbs; E26 base means no special adapters needed"
-cons:
+cons: 
   - "No bulb included — factor in $8-$15 extra for a quality LED bulb"
   - "Open-bottom design means the bulb is visible from certain angles; choose a decorative bulb or accept it"
+
 ---
 
 Let's be direct: most pendant lights under $50 are cheap metal cones with a plastic shade that yellows in a year. The FDPBY Modern Pendant Light isn't that. This is a genuinely well-executed mid-century globe light that earns its 4.6-star rating across 229 reviews. But it's not perfect, and you should know exactly what you're getting before you click buy.

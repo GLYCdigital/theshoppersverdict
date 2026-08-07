@@ -1,4 +1,5 @@
 ---
+
 title: "Meridian Furniture 987Cream-C Sylvester Collection Modern | "
 seo_title: "Meridian Furniture 987Cream-C Sylvester Collection Review"
 meta_description: "Our full meridian furniture 987cream-c sylvester collection modern |  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CWVWK1Q3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41-TwMS2QZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Modern Dining Chair That Actually Delivers on Comfort**

@@ -1,4 +1,5 @@
 ---
+
 title: "Acanva Modern Outdoor Patio Furniture Set, All-Weather Alumi"
 seo_title: "Acanva Outdoor Patio Furniture Set Review (2026): Worth It?"
 meta_description: "Honest Acanva Modern Outdoor Patio Furniture Set review: build quality, comfort, weather resistance, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FLBZV9DH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817aI3CuB8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine all-weather aluminum frame — no rust worries, even in coastal or high-humidity climates"
   - "Generous 5-inch thick seat cushions with high-resilience foam that holds shape through heavy use"
   - "Modular design lets you reconfigure from L-shaped sectional to separate chairs as space needs change"
-cons:
+cons: 
   - "Assembly requires two people and roughly 60-90 minutes — not a solo weekend project"
   - "Cushion covers are not removable/washable, so you'll need to invest in outdoor furniture covers or bring them inside during rain"
+
 ---
 
 # Acanva Modern Outdoor Patio Furniture Set Review: The 4.6/5 Conversation Starter Your Patio Needs

@@ -1,4 +1,5 @@
 ---
+
 title: "GL.iNet GL-AR300M16-Ext Portable Mini Travel Wireless Pocket"
 seo_title: "GL.iNet GL-AR300M16-Ext Portable Mini Travel Wirel Review"
 meta_description: "Our full gl.inet gl-ar300m16-ext portable mini travel wireless pocket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07794JRC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41gQQAA8ozL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "travel routers" under $40 are plastic junk with firmware that makes you want to throw them out a hotel window. The GL.iNet GL-AR300M16-Ext is not that. It's the little box that frequent travelers, RV dwellers, and privacy nerds have been quietly recommending for years — and it's earned that reputation.

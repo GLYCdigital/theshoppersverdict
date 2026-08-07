@@ -1,4 +1,5 @@
 ---
+
 title: "Greesum Patio Umbrella, Hanging Outdoor Shade for Garden, La"
 seo_title: "Greesum Patio Umbrella, Hanging Outdoor Shade for  Review"
 meta_description: "Our full greesum patio umbrella, hanging outdoor shade for garden, la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHVNQ4P3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R8eAn80tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to squeeze four people around a table with a center-pole umbrella jabbing into the conversation, you already know why the Greesum Patio Umbrella exists. This is a hanging umbrella — technically a cantilever design — that mounts the canopy on an offset arm, leaving the entire footprint beneath it completely open. That single design choice changes how you use your patio furniture, and at a 4.5-star average across 225 ratings, it's clearly working for most buyers.

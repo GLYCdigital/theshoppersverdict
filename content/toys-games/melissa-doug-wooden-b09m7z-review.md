@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Wooden"
 seo_title: "Melissa & Doug Wooden Review: Verdict | TSV"
 meta_description: "Our full melissa & doug wooden review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M7ZZC9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eb3+TweoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Melissa & Doug Wooden Review: Is This Classic Toy Worth Your Money?**

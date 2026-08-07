@@ -1,4 +1,5 @@
 ---
+
 title: "HYPERLITE LED Canopy Light 65W/100W 1PACK &4PACK"
 seo_title: "HYPERLITE LED Canopy Light 65W/100W 1PACK &4PACK Review: "
 meta_description: "Our full hyperlite led canopy light 65w/100w 1pack &4pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKFRYV8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mCCjm4-xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hyperlite LED Canopy Light Review: Bright, Weatherproof, and Unproven

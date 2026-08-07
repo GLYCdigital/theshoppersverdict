@@ -1,4 +1,5 @@
 ---
+
 title: "Davines MOMO Moisturizing Shampoo & Conditioner for Dry, Deh"
 seo_title: "Davines MOMO Shampoo & Conditioner Review: Worth It? (2026)"
 meta_description: "Honest Davines MOMO Moisturizing Shampoo & Conditioner review for dry, dehydrated hair. Real results, fragrance, and value — is it worth $40+?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DC8JB4XX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Sulfate-free formula that cleanses without stripping — hair feels soft, not squeaky"
   - "Lightweight hydration that doesn't weigh down fine hair; works on wavy and curly textures"
   - "Strong slip from the conditioner — detangling is noticeably easier even on thick, knotted hair"
-cons:
+cons: 
   - "Fragrance is polarizing — some find it heavily perfumed, others love the herbal citrus scent"
   - "Price per ounce is steep; a full routine runs $40+ and smaller bottles last only ~4-6 weeks with daily washing"
+
 ---
 
 Look, I've tested enough $40 shampoos to be cynical. So when the Davines MOMO duo showed up — two unassuming bottles in a recyclable plastic that feels thinner than I'd like — I braced for mediocrity. But here's the thing: after three weeks of use, my dry, color-treated hair has actual slip at the roots, not just the ends. That doesn't happen by accident.

@@ -1,4 +1,5 @@
 ---
+
 title: "8PCS Birds Nest Hair Clips - Expandable Bun Maker Accessorie"
 seo_title: "Birds Nest Hair Clips Review: 8-Piece Bun Maker Kit"
 meta_description: "Honest review of 8PCS Birds Nest Hair Clips: expandable bun makers that hold thick hair securely. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D9NKNTMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mamezom/images/I/71Dxqbb1X-L._SL1200_.jpg"
-pros:
+pros: 
   - "Expandable spring mechanism grips thick, heavy hair without slipping or loosening throughout the day"
   - "Eight clips in a set means you can coordinate with outfits or keep spares in multiple bags"
   - "Lightweight construction (under 1 oz per clip) avoids the headache and neck strain heavier metal clips cause"
-cons:
+cons: 
   - "Smaller interior opening struggles with very long, ultra-thick hair — you may need two clips per bun"
   - "Spring tension is firm, which can pinch if you have fine or sensitive hair at the roots"
+
 ---
 
 ## The 8-Piece Bun Maker That Actually Respects Thick Hair

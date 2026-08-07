@@ -1,4 +1,5 @@
 ---
+
 title: "Merax Bunk Bed with Drawers, Solid Pine Wood Frame with Safe"
 seo_title: "Merax Bunk Bed with Drawers, Solid Pine Wood Frame Review"
 meta_description: "Our full merax bunk bed with drawers, solid pine wood frame with safe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FDMBVYTV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jjDpWoiDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Solid Pine Bunk That Rewards Patience (and Punishes Impatience)**

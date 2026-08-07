@@ -1,4 +1,5 @@
 ---
+
 title: "Tangkula Junior Golf Club Set for Children Right Hand, Inclu"
 seo_title: "Tangkula Junior Golf Club Set for Children Right H Review"
 meta_description: "Our full tangkula junior golf club set for children right hand, inclu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09294L5SQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CiNXB3-qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tangkula Junior Golf Club Set for Children Right Hand: The Real Starter-Set Test

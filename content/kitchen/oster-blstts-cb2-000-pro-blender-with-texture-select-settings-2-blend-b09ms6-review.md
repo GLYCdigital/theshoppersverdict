@@ -1,4 +1,5 @@
 ---
+
 title: "Oster BLSTTS-CB2-000 Pro Blender with Texture Select Setting"
 seo_title: "Oster BLSTTS-CB2-000 Pro Blender with Texture Sele Review"
 meta_description: "Our full oster blstts-cb2-000 pro blender with texture select setting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09MS6J54M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mpAqC970L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Oster Pro Blender with Texture Select isn't trying to be a $500 Vitamix killer. It's something smarter: a genuinely useful mid-range blender that solves the one problem most budget blenders screw up — consistency.**

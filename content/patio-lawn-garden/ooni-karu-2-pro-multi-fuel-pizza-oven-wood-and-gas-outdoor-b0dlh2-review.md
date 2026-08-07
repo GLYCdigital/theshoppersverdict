@@ -1,4 +1,5 @@
 ---
+
 title: "Ooni Karu 2 Pro Multi-Fuel Pizza Oven - Wood and Gas Outdoor"
 seo_title: "Ooni Karu 2 Pro Multi-Fuel Pizza Oven - Wood and G Review"
 meta_description: "Our full ooni karu 2 pro multi-fuel pizza oven - wood and gas outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLH28V1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h5glOSrML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Ooni Karu 2 Pro is the pizza oven you buy when you've stopped messing around with cast-iron skillet "pizza" and decided to take homemade pies seriously. At 4.5 stars across 225 Amazon ratings, it's clearly doing something right. But at this price point, you deserve the full story before pulling the trigger.

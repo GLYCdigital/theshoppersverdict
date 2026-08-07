@@ -1,4 +1,5 @@
 ---
+
 title: "Quaker Chewy Granola Bars, Variety Pack, 18 Count"
 seo_title: "Quaker Chewy Granola Bars, Variety Pack, 18 Count Review:"
 meta_description: "Our full quaker chewy granola bars, variety pack, 18 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM2LRFYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yfQKGCjbS._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real: you're not here because you're curious about gourmet granola. You're here because you need something to throw in a lunchbox, grab on the way out the door, or stuff in a desk drawer for the 3 p.m. crash. The Quaker Chewy Variety Pack is the default answer for millions of households, and it earned that spot for a reason.

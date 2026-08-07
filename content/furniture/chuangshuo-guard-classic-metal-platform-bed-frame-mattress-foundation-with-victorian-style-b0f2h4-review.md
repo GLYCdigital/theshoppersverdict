@@ -1,4 +1,5 @@
 ---
+
 title: "Chuangshuo Guard Classic Metal Platform Bed Frame,Mattress F"
 seo_title: "Chuangshuo Guard Metal Bed Frame Review: Victorian Style"
 meta_description: "Honest Chuangshuo Guard Classic Metal Platform Bed Frame review: Victorian style, no box spring needed, sturdy steel build. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2H4J4V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hm0hDKUoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Victorian-style metal scrollwork headboard and footboard deliver real visual impact for under $150 — looks far more expensive than it is"
   - "Slatted platform design means no box spring required, saving $100+ and cutting setup time to roughly 30 minutes"
   - "Rated to support up to 800 pounds, with reinforced center rails that hold up better than most budget steel frames"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and patience — the 20+ bolts are small and easy to cross-thread if rushed"
   - "The metal frame creaks slightly with movement for the first few weeks until all joints settle, especially on carpet"
+
 ---
 
 Let me cut to the chase: if you're tired of box springs that sag and bed frames that look like they belong in a dorm, the Chuangshuo Guard Classic is worth a hard look. This is a Victorian-style metal platform bed that actually delivers on its aesthetic promise without gutting your wallet.

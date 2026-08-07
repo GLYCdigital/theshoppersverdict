@@ -1,4 +1,5 @@
 ---
+
 title: "NETGEAR 10-Port Gigabit/10G Ethernet Plus Switch (GS110EMX) "
 seo_title: "NETGEAR 10-Port Gigabit/10G Ethernet Plus Switch ( Review"
 meta_description: "Our full netgear 10-port gigabit/10g ethernet plus switch (gs110emx)  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BNH2LT66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing 10-gig networking but choked at the price of full managed switches, the NETGEAR GS110EMX is the compromise you've been looking for. It's not the cheapest 10G switch on the market, but it's one of the few that gives you genuinely useful management features without requiring a networking degree to configure.

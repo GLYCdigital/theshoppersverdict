@@ -1,4 +1,5 @@
 ---
+
 title: "Detachable Head Shavers, SHPAVVER 5 i Electric Razor IPX7 Wa"
 seo_title: "SHPAVVER 5 i Electric Razor Review: Detachable Head Shaver"
 meta_description: "SHPAVVER 5 i electric razor review: 3.0-star rated detachable head shaver. We tested the IPX7 waterproof build, blade quality, and battery life."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0DW8HQJKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RNSqsL2lL._SL1500_.jpg"
-pros:
+pros: 
   - "Fully detachable head design makes cleaning and blade replacement genuinely simple — no proprietary tools needed"
   - "IPX7 waterproof rating means true wet/dry shaving in the shower without worrying about water damage"
   - "Rotary blade system handles both scalp and face with minimal pulling on coarse hair"
-cons:
+cons: 
   - "Motor struggles with thick, dense hair — requires multiple passes and can bog down on longer growth"
   - "Battery life fades noticeably after 6 months of regular use, with some units showing charge drop-off"
   - "Build quality feels plasticky for the price point — hinge mechanism on the detachable head is a known failure point"
+
 ---
 
 The SHPAVVER 5 i sits in a crowded category of budget-to-midrange electric razors that promise a lot on paper. With a 3.0-star average across 150 ratings, the real-world experience clearly doesn't match the marketing. Here's what you actually need to know before spending your money.

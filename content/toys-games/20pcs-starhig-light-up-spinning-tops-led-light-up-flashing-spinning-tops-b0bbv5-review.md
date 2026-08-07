@@ -1,4 +1,5 @@
 ---
+
 title: "20PCS Starhig Light Up Spinning Tops, LED Light Up Flashing"
 seo_title: "Starlight LED Spinning Tops Review: 20-Pack Value & Fun"
 meta_description: "Our 20-pack Starhig LED spinning tops review covers brightness, durability, battery life, and value. See if these flashing tops are worth buying."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BBV5KPP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yZpzw-rjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "20 tops per pack means instant party favors or classroom prizes without buying multiple sets"
   - "LED lights activate on spin with no switches — kids just twist and watch them flash"
   - "Compact 3-inch size fits easily in goodie bags, stockings, or Easter eggs"
-cons:
+cons: 
   - "Some units arrive with dead batteries or stop working after a few uses"
   - "Light show is dimmer in bright rooms — best effect requires dimmed lighting"
   - "Plastic build feels light and won't survive aggressive throws or stomping"
+
 ---
 
 # 20PCS Starhig Light Up Spinning Tops Review: Party Favor Hero or Novelty Gimmick?

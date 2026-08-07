@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Organic Seeds"
 seo_title: "Yupik Organic Seeds Review: Verdict | TSV"
 meta_description: "Our full yupik organic seeds review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07W93YG8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u0lIegzpL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be real — most seed mixes on Amazon are a gamble. You either get stale product that tastes like the bottom of a pantry, or you get a bag so dusty it could double as bird feed. The Yupik Organic Seeds B07W93 sits somewhere better than that, and here’s the honest breakdown.

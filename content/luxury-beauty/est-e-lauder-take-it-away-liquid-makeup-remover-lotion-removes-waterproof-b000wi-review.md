@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Take It Away Liquid Makeup Remover Lotion | Re"
 seo_title: "Estée Lauder Take It Away Remover Review: Does It Work?"
 meta_description: "Honest Estée Lauder Take It Away Liquid Makeup Remover Lotion review. Tested on waterproof makeup. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000WIBQBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41hktWG2QJL._SL1000_.jpg"
-pros:
+pros: 
   - "Dissolves stubborn waterproof mascara and long-wear lipstick with minimal rubbing — no tugging around the delicate eye area"
   - "Lotion texture doubles as a gentle first cleanser; rinses clean without leaving a greasy film or residue"
   - "Fragrance-free formula works for sensitive skin and contact lens wearers, per multiple verified reviews"
-cons:
+cons: 
   - "The pump dispenses more product than needed — you'll use less per application if you decant or pump carefully"
   - "Not a standalone cleanser for heavy face makeup; you'll still need a second cleanse with your regular face wash"
   - "Premium price point compared to drugstore removers; value depends on how often you wear full glam"
+
 ---
 
 If you've ever spent five minutes scrubbing at your eyes trying to get waterproof mascara off, you know the struggle. Estée Lauder's Take It Away Liquid Makeup Remover Lotion promises to dissolve even the most stubborn formulas without the harsh rubbing that leads to fine lines and lost lashes. With a 4.6-star average across 229 Amazon ratings, it's clearly earning its keep in bathroom cabinets. But is it worth the luxury price tag? Here's the breakdown.

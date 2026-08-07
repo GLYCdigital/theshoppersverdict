@@ -1,4 +1,5 @@
 ---
+
 title: "Rich's On TopÂ®, Soft Whip Topping, Naturally Flavored Sweet"
 seo_title: "Rich's On TopÂ®, Soft Whip Topping, Naturally Flav Review"
 meta_description: "Our full rich's on topâ®, soft whip topping, naturally flavored sweet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Q1W89PX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517yo2fcLBL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The coffee bar secret your local diner doesn't want you to know**

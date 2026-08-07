@@ -1,4 +1,5 @@
 ---
+
 title: "ComSaf Large Cat Scratcher Bed, 26 inch  Cat Scratching Board Cat"
 seo_title: "ComSaf Large Cat Scratcher Bed Review: 26 inch  Cardboard Lounge"
 meta_description: "Honest ComSaf Large Cat Scratcher Bed review: 26-inch cardboard lounge that doubles as a scratching board. Build quality, durability, and real cat feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKG6WKC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WWBUpWIIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26-inch curved design fits adult cats and small breeds; deep enough for full-body stretching while scratching"
   - "High-density corrugated cardboard holds up to daily clawing noticeably better than flimsier budget boards"
   - "Cardboard material is recyclable and completely replaceable — a smart swap when your cat shreds it"
-cons:
+cons: 
   - "Loose cardboard dust and debris will collect underneath; you'll be sweeping weekly"
   - "Not a true bed — some cats will sleep on it, but most use it primarily as a scratching surface"
+
 ---
 
 Let me be blunt: most cat scratchers on Amazon are flimsy afterthoughts that your cat ignores in favor of your couch. The ComSaf Large Cat Scratcher Bed is not that. It's a 26-inch curved cardboard lounge that pulls double duty — a scratching surface and a napping spot. But does it earn a permanent spot in your living room? Here's the real story after digging through 229 verified ratings.

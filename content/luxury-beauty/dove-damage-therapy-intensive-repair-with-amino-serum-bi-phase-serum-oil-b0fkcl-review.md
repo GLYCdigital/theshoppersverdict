@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Damage Therapy Intensive Repair with Amino Serum Bi-Pha"
 seo_title: "Dove Damage Therapy Intensive Repair Review: Amino Serum Oil"
 meta_description: "Dove Damage Therapy Intensive Repair with Amino Serum Bi-Phase review: Does this 2-in-1 serum-oil repair split ends? Real results, pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKCL6R1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-JpOae-oL._SL1500_.jpg"
-pros:
+pros: 
   - "Bi-phase formula delivers both water-soluble amino acids and nourishing oils — addresses moisture and lipid gaps simultaneously"
   - "Visible split-end sealing on first application, with effects lasting 2-3 washes"
   - "Lightweight enough for fine hair — no greasy buildup when applied sparingly"
-cons:
+cons: 
   - "Silicone-heavy formulation can weigh down very fine or thin hair if over-applied"
   - "Small 4.2 oz bottle for the price point — heavy users will burn through it in 3-4 weeks"
   - "Fragrance is strong and lingers — sensitive noses may find it overwhelming"
+
 ---
 
 # Dove Damage Therapy Intensive Repair: Does the Bi-Phase Serum Actually Repair Hair?

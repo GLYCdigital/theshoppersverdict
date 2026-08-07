@@ -1,4 +1,5 @@
 ---
+
 title: "Polaris Vac-Sweep 280 Pressure-Side In-ground Pool Cleaner, "
 seo_title: "Polaris Vac-Sweep 280 Pressure-Side In-ground Pool Review"
 meta_description: "Our full polaris vac-sweep 280 pressure-side in-ground pool cleaner,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002HRET6A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815E1E+XPaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Polaris Vac-Sweep 280 is the pressure-side cleaner your pool contractor probably recommended — and for good reason. This isn't a robotic gadget that learns your pool's layout or a suction-side afterthought that floats on the surface. It's a workhorse that uses your pool's own return pressure to do the dirty work. After analyzing 220 Amazon ratings averaging 4.4 stars, the pattern is clear: people who have the right plumbing setup swear by it, and people who don't, struggle.

@@ -1,4 +1,5 @@
 ---
+
 title: "Self Cleaning Litter Box"
 seo_title: "Self Cleaning Litter Box Review: Verdict | TSV"
 meta_description: "Our full self cleaning litter box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCD52SXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iFi0pZvvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're looking at this self-cleaning litter box, you're probably tired of scooping. At 4.6 stars across 229 ratings, this unit from the B0FCD52SXN line has earned its reputation — but it's not the flashy, app-connected robot box you might expect. It's something better: a reliable mechanical workhorse that just does the job.

@@ -1,4 +1,5 @@
 ---
+
 title: "TIMEMOR Sculptor Flat Burr Coffee Bean Grinder, Electric Esp"
 seo_title: "TIMEMOR Sculptor Flat Burr Coffee Bean Grinder, El Review"
 meta_description: "Our full timemor sculptor flat burr coffee bean grinder, electric esp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP6PN5LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jloibfPnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TIMEMOR Sculptor isn’t just another flat burr grinder — it’s the one that makes you rethink why you paid $200 for a stepped grinder.** At 4.3 stars from 215 buyers, it’s clearly earning its keep in home espresso setups. But is it the right tool for *your* counter? Let’s cut through the specs.

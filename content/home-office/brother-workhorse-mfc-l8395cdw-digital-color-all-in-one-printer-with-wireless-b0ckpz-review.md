@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Workhorse MFC-L8395CDW Digital Color All-in-One Prin"
 seo_title: "Brother MFC-L8395CDW Review: Color Laser All-in-One"
 meta_description: "Brother MFC-L8395CDW color laser all-in-one review: print speed, duplex, cost per page, and real user feedback. Is this office workhorse worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CKPZW49H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HiM-JDTML._AC_SY355_.jpg"
-pros:
+pros: 
   - "Rated print speed of 33 ppm sustained without slowdowns on long jobs"
   - "Automatic duplex printing standard — both scan and print sides"
   - "Low cost per page with high-yield toner option (up to 7,000 pages black)"
-cons:
+cons: 
   - "Front USB port is awkwardly placed behind the toner access door"
   - "No built-in NFC or AirPrint — mobile users need the Brother app"
   - "Touchscreen is a bit sluggish compared to newer competitors"
+
 ---
 
 If your office prints enough to make you wince every time someone hits "Print," this Brother deserves a hard look. The MFC-L8395CDW is the kind of machine that doesn't make headlines but quietly carries a busy workspace — and at 4.3 stars from 215 ratings, it's clear buyers notice.

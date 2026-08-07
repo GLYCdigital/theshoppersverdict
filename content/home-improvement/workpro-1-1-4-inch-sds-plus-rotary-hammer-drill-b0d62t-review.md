@@ -1,4 +1,5 @@
 ---
+
 title: "WORKPRO 1-1/4 Inch SDS-Plus Rotary Hammer Drill"
 seo_title: "WORKPRO 1-1/4 Inch SDS-Plus Rotary Hammer Drill Review: V"
 meta_description: "Our full workpro 1-1/4 inch sds-plus rotary hammer drill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D62TB1WM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LMZu-8WoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever burned through a standard hammer drill trying to punch a 3/4-inch hole in a foundation wall, you know the difference between "hammer drill" and *rotary hammer* isn't marketing — it's physics. The WORKPRO 1-1/4-Inch SDS-Plus model is firmly in the latter category, and at its price point, it's quietly becoming the budget pick that DIYers and light contractors actually recommend to each other.

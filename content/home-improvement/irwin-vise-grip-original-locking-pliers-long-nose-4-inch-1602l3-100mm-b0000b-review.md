@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN VISE-GRIP Original Locking Pliers, Long Nose, 4-Inch ("
 seo_title: "IRWIN VISE-GRIP Original Locking Pliers, Long Nose Review"
 meta_description: "Our full irwin vise-grip original locking pliers, long nose, 4-inch ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0000BYD9A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V5u98-JkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tools you buy because they're cheap. Others you buy because you're tired of replacing cheap tools. The IRWIN VISE-GRIP Original 4-inch Long Nose Locking Pliers fall squarely into the second category. This is the tool that's been clamping, twisting, and holding things together since 1957 — and the design hasn't needed much fixing since.

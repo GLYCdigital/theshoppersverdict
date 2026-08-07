@@ -1,4 +1,5 @@
 ---
+
 title: "Dystler Display Cabinet with Doors and Adjustable Shelves"
 seo_title: "Dystler Display Cabinet Review: Doors + Adjustable Shelves (2026)"
 meta_description: "Honest Dystler Display Cabinet review: build quality, assembly ease, real buyer feedback. Is this 4.4-star curio cabinet worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWF1BQVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c16lWSyJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable shelves accommodate everything from stacked board games to tall vases — no fixed-height frustration"
   - "Glass doors offer dust protection while keeping collectibles visible; magnetic catches close firmly"
   - "Veneer over MDF looks convincingly like real wood at a fraction of solid-wood pricing"
-cons:
+cons: 
   - "Assembly requires patience — expect 60–90 minutes with two people; cam locks are finicky if not perfectly aligned"
   - "Back panel is thin fiberboard; moving the cabinet fully assembled risks it bowing or popping loose"
+
 ---
 
 ## Is the Dystler Display Cabinet the Storage Fix You’ve Been Hunting For?

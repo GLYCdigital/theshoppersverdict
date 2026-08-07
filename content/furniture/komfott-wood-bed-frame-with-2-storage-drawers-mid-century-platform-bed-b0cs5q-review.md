@@ -1,4 +1,5 @@
 ---
+
 title: "KOMFOTT Wood Bed Frame with 2 Storage Drawers, Mid Century P"
 seo_title: "KOMFOTT Wood Bed Frame with 2 Storage Drawers, Mid Review"
 meta_description: "Our full komfott wood bed frame with 2 storage drawers, mid century p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CS5QD1NW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wvKEGeywL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most bed frames under $300 are particleboard nightmares that wobble by month two. The KOMFOTT Wood Bed Frame with 2 Storage Drawers isn't that — but it's also not heirloom furniture. Here's what 215 Amazon reviewers (4.3 stars) actually experienced.

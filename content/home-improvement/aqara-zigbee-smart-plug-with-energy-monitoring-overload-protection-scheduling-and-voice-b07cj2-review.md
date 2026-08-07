@@ -1,4 +1,5 @@
 ---
+
 title: "Aqara Zigbee Smart Plug with Energy Monitoring,Overload Prot"
 seo_title: "Aqara Zigbee Smart Plug Review: Energy Monitoring & Overload Protection"
 meta_description: "Aqara Zigbee Smart Plug review: Real-world energy monitoring, overload protection, and HomeKit/ Alexa compatibility. Is it worth it? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07CJ2MM6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SX9XPX4CL._SL1500_.jpg"
-pros:
+pros: 
   - "Tracks real-time wattage, voltage, and cumulative kWh per device — you can see exactly what your space heater or dehumidifier is costing you each month."
   - "Overload protection cuts power automatically at 2500W (10A), which is a genuine safety feature rarely found at this price point."
   - "Compact housing doesn't block the second outlet, a small detail most smart plugs get wrong."
-cons:
+cons: 
   - "Requires the Aqara Hub (sold separately) — it won't work standalone via Bluetooth. That's an extra $40-$50 before you even count the plug's cost."
   - "Zigbee range is solid indoors but struggles through thick exterior walls or across multi-floor setups without additional repeaters."
+
 ---
 
 If you're shopping for a smart plug that just toggles power on and off, you can stop reading — there are cheaper options. But if you want to know exactly what your old refrigerator is pulling from the grid, or you're tired of wondering whether that space heater is about to melt an extension cord, this Aqara plug is one of the few that earns its place in a serious home setup.

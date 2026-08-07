@@ -1,4 +1,5 @@
 ---
+
 title: "Clinique Rinse-Off Oil Free Eye Makeup Remover Solvent | Saf"
 seo_title: "Clinique Rinse-Off Oil Free Eye Makeup Remover Review (2026)"
 meta_description: "Honest Clinique Rinse-Off Oil Free Eye Makeup Remover review: Does this 4.8-star solvent work for sensitive eyes? Real results, downsides, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000OUVHS0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6152hWp23uL._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves waterproof mascara and long-wear liner in one gentle pass — no tugging or rubbing required"
   - "Truly oil-free formula that rinses clean without leaving a greasy film, making it safe for contact lens wearers"
   - "Dermatologist-tested and ophthalmologist-tested; fragrance-free formula won't sting even raw, irritated eyes"
-cons:
+cons: 
   - "Dual-phase formula requires vigorous shaking before each use, and it separates quickly between applications"
   - "Bottle cap is prone to leaking if stored on its side — keep it upright or pack it in a zip-top bag for travel"
+
 ---
 
 **The 4.8-star eye makeup remover that actually lives up to the hype — but has one frustrating quirk.**

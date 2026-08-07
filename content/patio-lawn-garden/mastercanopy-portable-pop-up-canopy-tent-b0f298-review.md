@@ -1,4 +1,5 @@
 ---
+
 title: "MASTERCANOPY Portable Pop Up Canopy Tent"
 seo_title: "MASTERCANOPY Portable Pop Up Canopy Tent Review: Verdict "
 meta_description: "Our full mastercanopy portable pop up canopy tent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F298XTXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RYoYcrXWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about the portable canopy market: most sub-$150 pop-ups are disposable. The MASTERCANOPY Portable Pop Up Canopy Tent sits in a slightly different lane, and the 4.3-star average across 215 ratings reflects that. This is a legitimately well-built shade structure for weekend warriors — with a few compromises you should know about before checkout.

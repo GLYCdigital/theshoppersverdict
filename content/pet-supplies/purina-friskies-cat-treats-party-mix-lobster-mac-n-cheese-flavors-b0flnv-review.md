@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Cat Treats, Party Mix Lobster & Mac 'N' Chee"
 seo_title: "Purina Friskies Cat Treats, Party Mix Lobster & Ma Review"
 meta_description: "Our full purina friskies cat treats, party mix lobster & mac 'n' chee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FLNVCTC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Unvx3ZgAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Purina Friskies Cat Treats, Party Mix Lobster & Mac 'N' Chee** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

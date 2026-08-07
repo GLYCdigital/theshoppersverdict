@@ -1,4 +1,5 @@
 ---
+
 title: "Ticova Ergonomic Office Chair - High Back Desk Chair with Ad"
 seo_title: "Ticova Ergonomic Office Chair - High Back Desk Cha Review"
 meta_description: "Our full ticova ergonomic office chair - high back desk chair with ad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08LBJXVSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eMoMhVJiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Ticova Ergonomic Office Chair Review: The $200 Chair That Tries to Punch Above Its Weight**

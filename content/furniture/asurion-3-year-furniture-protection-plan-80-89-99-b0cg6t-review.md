@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Furniture Protection Plan ($80 - $89.99)"
 seo_title: "ASURION 3 Year Furniture Protection Plan Review (2026)"
 meta_description: "ASURION 3 Year Furniture Protection Plan review: coverage details, claim process, and real customer experiences. Is this $80-$90 warranty worth it?"
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CG6T5HFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers stains, rips, and structural failures beyond the manufacturer's warranty period"
   - "Replacement or repair at no additional cost if the item can't be fixed"
   - "Covers accidental damage — not just defects — which most furniture warranties exclude"
-cons:
+cons: 
   - "Claims require photo documentation and can take 7-10 business days to process"
   - "Some buyers report friction when claims involve pre-existing wear or unclear damage causes"
   - "Plan cost ($80-$90) is steep relative to furniture under $300"
+
 ---
 
 You just dropped $400 on a sofa or $250 on a dining chair. The manufacturer's warranty covers defects for a year — maybe. Then you're on your own when your kid spills grape juice or the cat attacks the armrest. That's exactly the gap ASURION's 3 Year Furniture Protection Plan targets. But at $80 to $90, it's not pocket change. Here's what you're actually buying.

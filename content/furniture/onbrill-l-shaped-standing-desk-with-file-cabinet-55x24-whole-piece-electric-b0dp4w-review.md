@@ -1,4 +1,5 @@
 ---
+
 title: "ONBRILL L Shaped Standing Desk with File Cabinet, 55x24'' Wh"
 seo_title: "ONBRILL L Shaped Standing Desk with File Cabinet,  Review"
 meta_description: "Our full onbrill l shaped standing desk with file cabinet, 55x24'' wh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP4WZZL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ixtWMAXCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The L-shaped standing desk is the home-office equivalent of a Swiss Army knife — it promises more surface, more storage, and more ergonomic flexibility in one footprint. The ONBRILL 55x24 version adds a rolling file cabinet directly underneath. But does it deliver, or is it just another corner-hogging compromise? I dug through 215 Amazon ratings and tested the geometry to give you the straight answer.**

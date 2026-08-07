@@ -1,4 +1,5 @@
 ---
+
 title: "Natural Armor Weed and Grass Killer All-Natural Concentrated"
 seo_title: "Natural Armor Weed and Grass Killer All-Natural Co Review"
 meta_description: "Our full natural armor weed and grass killer all-natural concentrated review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B086HTWKRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711pCzWA9WL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been hunting for a weed killer that doesn’t involve donning a hazmat suit, Natural Armor’s All-Natural Concentrate has likely crossed your radar. With a 4.0-star average across 200 ratings, it’s clearly getting results for plenty of homeowners. But “all-natural” doesn’t automatically mean “better.” Here’s what you need to know before you pour this into your sprayer.

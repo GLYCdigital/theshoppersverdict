@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Gourmet BBQ System Hinged Cooking Grate â€“ Add Charco"
 seo_title: "Weber Gourmet BBQ System Hinged Cooking Grate â€“  Review"
 meta_description: "Our full weber gourmet bbq system hinged cooking grate â€“ add charco review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0044EQM9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-r5eurTYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you own a 22-inch Weber kettle, the Gourmet BBQ System Hinged Cooking Grate is the single most practical upgrade you can make. It solves a problem you probably didn't realize was annoying you — until you've used it, and then you'll never go back.

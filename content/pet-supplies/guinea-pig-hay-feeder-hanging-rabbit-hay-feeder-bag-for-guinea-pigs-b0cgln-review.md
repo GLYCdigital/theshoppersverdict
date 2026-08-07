@@ -1,4 +1,5 @@
 ---
+
 title: "Guinea Pig Hay Feeder, Hanging Rabbit Hay Feeder Bag for Gui"
 seo_title: "Guinea Pig Hay Feeder Review: Hanging Bag for Rabbits"
 meta_description: "Honest Guinea Pig Hay Feeder review: hanging bag design, durability, and cleanup. See if this 4.5-star feeder suits your small pet's needs."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGLNF6M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UWlsd6TVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Wide mouth opening makes refilling easy without removing the feeder from cage bars"
   - "Durable stitching and Oxford cloth material hold up to constant chewing and tugging"
   - "Keeps hay off the cage floor, reducing waste and simplifying daily cleanup"
-cons:
+cons: 
   - "Smaller mesh holes mean some fine hay dust and particles get trapped inside"
   - "Metal hooks can bend if you overtighten or hang on thin cage bars"
+
 ---
 
 If you've owned a guinea pig for more than a week, you know the hay problem. It ends up everywhere — trampled into bedding, scattered across the floor, and wasted by the handful. This hanging hay feeder bag attacks that problem directly, and with a 4.5-star average across 225 ratings, it's clearly working for most owners. But is it the right feeder for your setup? Let's dig into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sweet Loren's Vegan Breakfast Biscuits"
 seo_title: "Sweet Loren's Vegan Breakfast Biscuits Review: Verdict | "
 meta_description: "Our full sweet loren's vegan breakfast biscuits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FC32DBCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yJQViWuKL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.3-star vegan biscuit that actually tastes like a biscuit — not a hockey puck**

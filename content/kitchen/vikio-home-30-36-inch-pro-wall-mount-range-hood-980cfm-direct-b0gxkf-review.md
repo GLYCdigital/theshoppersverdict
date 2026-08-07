@@ -1,4 +1,5 @@
 ---
+
 title: "VIKIO HOME 30/36 Inch Pro Wall Mount Range Hood 980CFM, Dire"
 seo_title: "VIKIO HOME 30/36 Inch Pro Wall Mount Range Hood 98 Review"
 meta_description: "Our full vikio home 30/36 inch pro wall mount range hood 980cfm, dire review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXKFFBSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V2wrDPTYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've cooked over a gas range without serious ventilation, you know the drill: smoke alarm chirping, grease film on cabinets, and that lingering odor of last night's seared salmon. The VIKIO HOME Pro Wall Mount Range Hood is designed to end that cycle. This isn't a decorative statement piece — it's a workhorse rated at 980 CFM, and after digging through 235 verified buyer ratings averaging 4.7 stars, the consensus is clear: this hood actually moves air.

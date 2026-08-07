@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Wet Cat Food"
 seo_title: "ACANA Wet Cat Food Review: Is It Worth It? (2026)"
 meta_description: "Honest ACANA Wet Cat Food review: protein-rich recipes, real customer feedback, and who should buy it. Find out if this premium wet food fits your cat."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FWBX5J8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mYfBjVQXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High meat inclusion with named proteins like chicken, beef, and salmon — no vague 'meat meal' fillers"
   - "Grain-free, low-carb formula that mirrors a cat's natural ancestral diet"
   - "Multiple textures available (pâté and minced) to suit picky eaters"
-cons:
+cons: 
   - "Premium pricing — noticeably more expensive than grocery-store brands, roughly 30-40% higher per ounce"
   - "Some cats reject the strong fishy aroma, particularly the salmon variety"
   - "Cans arrive occasionally dented due to minimal packaging — cosmetic issue, not a safety concern"
+
 ---
 
 Let's cut through the marketing. ACANA has built its reputation on "biologically appropriate" pet food — a fancy way of saying your cat is an obligate carnivore that needs meat, not corn. The wet food line delivers on that promise, but at a price that makes you pause. Here's the honest breakdown after digging through specs and 204 verified Amazon ratings.

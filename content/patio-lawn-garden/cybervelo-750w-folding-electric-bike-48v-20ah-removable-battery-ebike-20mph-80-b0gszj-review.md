@@ -1,4 +1,5 @@
 ---
+
 title: "Cybervelo 750W Folding Electric Bike,48V 20AH Removable Batt"
 seo_title: "Cybervelo 750W Folding E-Bike Review: 20MPH, 80-Mile Range"
 meta_description: "Cybervelo 750W folding e-bike review: 48V 20AH removable battery, 20MPH top speed. Real-world range, build quality, and buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSZJY7QM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E11HnarYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 80-mile max range on pedal-assist with the 48V 20AH battery — rare at this price point"
   - "750W rear hub motor delivers honest 20MPH top speed, with a 1000W peak for hill climbs"
   - "Full suspension (front fork + rear shock) plus 4-inch fat tires absorbs rough terrain impressively"
-cons:
+cons: 
   - "Listed weight is 72 lbs — the frame is heavy, and lifting it into a trunk or upstairs is a two-person job"
   - "Folding mechanism is functional but takes practice; the locking latch requires firm pressure to seat correctly"
   - "Brakes are mechanical disc, not hydraulic — adequate for street use but need periodic cable adjustments"
+
 ---
 
 If you’ve been shopping for a folding e-bike, you’ve seen the pattern: foldable frames usually mean weak motors, tiny batteries, and a ride that feels like a toy. The Cybervelo 750W skips that script. With a 48V 20AH removable battery and a rear hub motor that peaks at 1000W, this is a full-power commuter that happens to fold — not a folding bike that happens to have a motor.

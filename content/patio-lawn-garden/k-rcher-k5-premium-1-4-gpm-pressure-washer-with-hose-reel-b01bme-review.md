@@ -1,4 +1,5 @@
 ---
+
 title: "KÃ¤rcher K5 Premium, 1.4 GPM Pressure Washer with Hose Reel,"
 seo_title: "KÃ¤rcher K5 Premium, 1.4 GPM Pressure Washer with  Review"
 meta_description: "Our full kã¤rcher k5 premium, 1.4 gpm pressure washer with hose reel, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01BMETENG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612cKICYFsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kärcher K5 Premium is the pressure washer that people buy when they're tired of cheap units that die after two seasons. It's not the most powerful machine in Kärcher's lineup — that's the K7 — but it's the one that hits the sweet spot between residential cleaning power and a feature set that actually makes sense. With a 4.0-star average across 200 ratings, it's clearly doing something right, but let's talk about whether it's right for *you*.

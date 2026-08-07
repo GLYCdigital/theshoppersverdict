@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH 497-Piece Mechanics Tool Set, Include SAE/Metric So"
 seo_title: "DURATECH 497-Piece Tool Set Review: Worth It? (2026)"
 meta_description: "DURATECH 497-piece mechanics tool set review: 90-tooth ratchets, SAE/metric coverage, and real-world durability. Is this $100-ish set worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08F4Z2ZGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z+PcBcltL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "90-tooth ratchets deliver a tight 4-degree swing arc — genuinely useful in tight engine bays"
   - Full SAE AND metric coverage from 4mm to 24mm and 5/32 inch " to 1 inch ", including deep and shallow sockets
   - "Chrome vanadium steel construction with a mirror-polished finish that actually resists rust"
-cons:
+cons: 
   - The 3/8 inch " drive flex-head ratchet can bind under heavy torque loads
   - "Case latches feel flimsy; one reviewer reported a latch cracking after six months of shop use"
+
 ---
 
 Let me be straight with you: a 497-piece tool set for this price sounds like a scam or a pile of junk. I've tested enough cheap kits to know the drill — thin chrome that flakes off, ratchets that skip teeth, and a case that falls apart before you've used half the sockets.

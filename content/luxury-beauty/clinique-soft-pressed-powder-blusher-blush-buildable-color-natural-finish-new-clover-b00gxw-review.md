@@ -1,4 +1,5 @@
 ---
+
 title: "Clinique Soft-Pressed Powder Blusher Blush | Buildable Color"
 seo_title: "Clinique Soft-Pressed Powder Blusher Review (2026): Is It Worth It?"
 meta_description: "Clinique Soft-Pressed Powder Blusher review: buildable color, natural finish, and 4.5-star rating. See pros, cons, and who should buy this cult-favorite blush."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00GXW7BK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612mlECWM9L._SL1000_.jpg"
-pros:
+pros: 
   - "True buildable formula — goes from sheer wash to noticeable color in two to three swipes without caking or patchiness"
   - "Oil-free, talc-free, and fragrance-free formula that performs well on sensitive and acne-prone skin types"
   - "Compact design with mirror and included brush makes touch-ups practical, though the brush is best for travel, not precision application"
-cons:
+cons: 
   - "The included brush is too small and flimsy for even application — plan on using your own brush for best results"
   - "Shade range skews toward lighter and medium skin tones; deeper complexions will find limited options"
   - "Powder can develop a hard pan layer over time if used with oily brushes, reducing pigment pickup"
+
 ---
 
 # Clinique Soft-Pressed Powder Blusher: The 30-Second Honest Take

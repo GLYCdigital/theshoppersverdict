@@ -1,4 +1,5 @@
 ---
+
 title: "Detoypapa Propane Refill Adapter Hose with Guage"
 seo_title: "Detoypapa Propane Refill Adapter Hose Review: Does It Work?"
 meta_description: "Honest Detoypapa propane refill adapter hose review: build quality, gauge accuracy, safety concerns, and whether it truly saves you money on 1-lb tanks."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FM44NBN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710s6fO9s0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in pressure gauge shows actual tank fill level, eliminating guesswork and preventing dangerous overfills"
   - "Solid brass fittings with a heavy-duty rubber hose that stays flexible even in cold weather"
   - "Includes a bleed valve that vents excess pressure safely—a feature many cheaper adapters skip"
-cons:
+cons: 
   - "Gauge reads backward on some tanks depending on valve orientation, requiring you to flip the adapter"
   - "Refilling takes patience—you need to chill the small tank first or you'll get only a partial fill"
   - "Not legal for refilling DOT-certified tanks in some municipalities; check local regulations before buying"
+
 ---
 
 If you camp, tailgate, or run a portable propane grill, you know the pain of paying $6–$8 for a 1-pound Coleman tank that lasts one weekend. The Detoypapa Propane Refill Adapter Hose promises to cut that cost to roughly $1 per refill by transferring propane from your big 20-pound tank into the small disposables. At 4.5 stars across 225 ratings, it's clearly working for most buyers—but there's more to this story than the headline rating suggests.

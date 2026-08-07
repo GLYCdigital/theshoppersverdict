@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee Mug Warmer for Coffee and Tea Portable Cup Warmer"
 seo_title: "Mr. Coffee Mug Warmer for Coffee and Tea Portable  Review"
 meta_description: "Our full mr. coffee mug warmer for coffee and tea portable cup warmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FDB2WBS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ja08WuPUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products promise to keep your coffee hot and fail. The Mr. Coffee Mug Warmer actually does it — with a catch or two you should know about before you click buy. After testing this 4.2-star gadget (210 ratings on Amazon), here’s the honest breakdown.

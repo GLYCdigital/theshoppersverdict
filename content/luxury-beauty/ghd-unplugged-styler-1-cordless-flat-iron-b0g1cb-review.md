@@ -1,7 +1,8 @@
 ---
-title: "ghd Unplugged Styler â€• 1\" Cordless Flat Iron"
-seo_title: "ghd Unplugged Styler â€• 1\" Cordless Flat Iron Review: Ve"
-meta_description: "Our full ghd unplugged styler â€• 1\" cordless flat iron review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "ghd Unplugged Styler â€• 1\ Cordless Flat Iron"
+seo_title: "ghd Unplugged Styler â€• 1\ Cordless Flat Iron Review: Ve"
+meta_description: "Our full ghd unplugged styler â€• 1\ cordless flat iron review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ghd-unplugged-styler-1-cordless-flat-iron-b0g1cb-review"
 image_alt: "ghd Unplugged Styler â€• 1 Cordless Flat Iron"
 verdict_score: 3.3
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0G1CBP4FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zBCBA1QoL._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The cordless promise, tested**

@@ -1,4 +1,5 @@
 ---
+
 title: "COOK WITH COLOR 6 Cup Rice Cooker 300W - Effortless Cooking"
 seo_title: "COOK WITH COLOR 6 Cup Rice Cooker Review (2026): Worth It?"
 meta_description: "COOK WITH COLOR 6 Cup Rice Cooker 300W review: Does this budget-friendly 6-cup cooker deliver fluffy rice? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV7X2R29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kj56JWkHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "300W heating element cooks 6 cups of rice in roughly 20 minutes — faster than many 400W+ competitors"
   - "One-touch operation with automatic keep-warm; no settings to fiddle with, just flip the switch"
   - "Non-stick inner pot is genuinely non-stick — rice releases cleanly with a plastic spatula, minimal soaking needed"
-cons:
+cons: 
   - "The '6 cup' capacity is cooked rice (about 3 uncooked cups); small households might find the 3-cup raw limit restrictive"
   - "No steaming basket included; you'll need to buy one separately if you want veggies with your rice"
   - "Keep-warm function tends to dry out rice after 30+ minutes if left on too long"
+
 ---
 
 If you've ever stared at a stovetop pot willing the water to boil evenly, the COOK WITH COLOR 6 Cup Rice Cooker is the low-stakes escape hatch. This is the appliance equivalent of a reliable sedan — it won't win awards, but it gets you where you're going without drama. At 300W with a 4.4-star average across 220 ratings, it's clearly doing something right for budget-conscious cooks.

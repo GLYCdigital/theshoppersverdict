@@ -1,4 +1,5 @@
 ---
+
 title: "FLAVIA ALTERRA Coffee, Colombia, 20-Count Fresh Packs (Pack"
 seo_title: "FLAVIA ALTERRA Colombia Coffee Review: Worth It? (2026)"
 meta_description: "Honest FLAVIA ALTERRA Colombia coffee review: flavor, strength, pack freshness, and value. See if these 20-count packs fit your brewer and taste."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B004PDE4AU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Alz1zjUoL._SL1500_.jpg"
-pros:
+pros: 
   - "Sealed Fresh Pack technology locks in aroma and flavor far better than typical K-cup or pod alternatives"
   - "Smooth, medium-bodied Colombian profile with low acidity — works well black or with milk"
   - "Reliable 20-count box; packs are compatible with all Flavia single-serve brewers, not just newer models"
-cons:
+cons: 
   - "Only available through Flavia's proprietary system — you're locked into their brewer and pack sizes"
   - "Not the strongest cup — dark-roast lovers will find this too mild and mellow"
   - "No decaf or flavored options in this specific Colombia line, so variety within this SKU is limited"
+
 ---
 
 If you own a Flavia brewer, you already know the deal: these packs are the only game in town. The question isn't *whether* to buy FLAVIA ALTERRA Colombia — it's whether this particular blend deserves a permanent spot in your rotation. After testing a full box, here's the honest breakdown.

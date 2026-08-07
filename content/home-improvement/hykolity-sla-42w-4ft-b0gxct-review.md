@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity SLA-42W 4FT"
 seo_title: "hykolity SLA-42W 4FT Review: Verdict | TSV"
 meta_description: "Our full hykolity sla-42w 4ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXCTL6F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NpOzfl4JL._AC_SL1432_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your garage or workshop still runs on flickering fluorescent tubes that hum louder than your table saw, the hykolity SLA-42W 4FT is the replacement you've been putting off. This is a 42-watt LED shop light that cranks out a claimed 5,000 lumens of 5000K daylight — and based on the 4.6-star average across 229 ratings, it's delivering on that promise for most buyers.

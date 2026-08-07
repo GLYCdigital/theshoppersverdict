@@ -1,4 +1,5 @@
 ---
+
 title: "PILOT Pen G2 & G2 Mini Premium Rolling Ball Gel Pens, Fine P"
 seo_title: "PILOT Pen G2 & G2 Mini Premium Rolling Ball Gel Pe Review"
 meta_description: "Our full pilot pen g2 & g2 mini premium rolling ball gel pens, fine p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C7WLFYQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TmaDbejdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PILOT G2 is the office pen everyone claims to love — but is the Mini version worth your desk space?**  

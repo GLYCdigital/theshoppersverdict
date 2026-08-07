@@ -1,4 +1,5 @@
 ---
+
 title: "4 LB Milky Butter Slime Bucket Gift for Girls, FunKidz 64 FL"
 seo_title: "FunKidz 4 LB Butter Slime Bucket Review: Worth It?"
 meta_description: "FunKidz 4 LB Milky Butter Slime Bucket review: texture, scent, value, and mess level. See if this 64 fl oz slime gift is worth your money."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C14L4FW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91e43ysbvwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely 4 full pounds of slime — this bucket lasts weeks of daily play, not an afternoon"
   - "Cloud-soft butter texture that holds its stretch and doesn't crumble like cheaper slimes"
   - "Mild, pleasant scent that won't trigger headaches or linger on hands"
-cons:
+cons: 
   - "No resealable lid — the bucket cover is friction-fit and slime dries out in 2-3 weeks if not stored properly"
   - "Sticky on first use; requires 2-3 minutes of kneading with the included activator before it hits peak texture"
   - "Single color/unscented option only — no mix-ins, charms, or variety packs for the price"
+
 ---
 
 Four pounds of slime. That's not a typo. The FunKidz Milky Butter Slime Bucket is a serious commitment to the slime lifestyle, and for parents of kids who can't get enough of the stretchy stuff, it's a value play that's hard to ignore.

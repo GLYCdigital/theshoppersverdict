@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Ditra-Heat-E-RS1 Smart Thermostat Floor Warming Sys"
 seo_title: "Schluter Ditra-Heat-E-RS1 Smart Thermostat Floor W Review"
 meta_description: "Our full schluter ditra-heat-e-rs1 smart thermostat floor warming sys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BN6TKGZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y8eooAllL._AC_SL1296_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're installing Schluter's Ditra-Heat floor warming system, the RS1 thermostat is the natural brain for the operation. But here's the catch: it's not a standalone purchase. You'll need the separate power module, and that changes the value equation. With 220 ratings averaging 4.4 stars, owners generally love it—but let's dig into what that rating actually means before you commit.

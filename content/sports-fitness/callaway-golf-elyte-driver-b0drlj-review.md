@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Elyte Driver"
 seo_title: "Callaway Elyte Driver Review: 2026 Game-Changer for Distance"
 meta_description: "Our Callaway Elyte Driver review covers real-world performance, forgiveness, and build quality. See if this 2026 driver is worth your money."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRLJWWTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+uNeyRrLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Up to 3 mph faster ball speeds on off-center hits thanks to the new Titanium Hyperbolic Face"
   - "Adjustable hosel (loft + lie) lets you fine-tune launch angle without buying a new shaft"
   - "Improved aerodynamics reduce drag at swing speeds above 100 mph — measurable clubhead speed gains"
-cons:
+cons: 
   - "Premium price point — this is a $600+ driver, not an impulse buy"
   - "Stock shaft options feel whippy for faster swingers — you'll likely want a custom fit"
   - "No headcover included in the base package (sold separately)"
+
 ---
 
 Is the Callaway Elyte Driver worth $600+? I tested it against last year's Paradym and a couple of competitors to find out whether the hype matches the price tag.

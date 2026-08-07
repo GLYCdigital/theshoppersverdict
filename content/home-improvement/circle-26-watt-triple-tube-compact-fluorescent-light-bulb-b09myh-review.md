@@ -1,4 +1,5 @@
 ---
+
 title: "Circle 26 Watt Triple Tube Compact Fluorescent Light Bulb"
 seo_title: "Circle 26W Triple Tube CFL Bulb Review (2026): Bright & Reliable"
 meta_description: "Honest Circle 26 Watt Triple Tube CFL review: brightness, color temperature, longevity, and where it falls short. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09MYHS4LG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UYgvILaOS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely bright 1600-lumen output at a fraction of the wattage of incandescent equivalents"
   - "Triple-tube design distributes light more evenly than single-tube CFLs, reducing harsh hotspots"
   - "Standard medium (E26) base fits most existing fixtures without adapters"
-cons:
+cons: 
   - "Noticeable 1-2 second warm-up delay before reaching full brightness — not ideal for motion-sensor areas"
   - "Contains mercury; requires careful disposal and cannot go in regular household trash"
+
 ---
 
 **The last CFL you'll want to buy — but here's why it's still worth it**

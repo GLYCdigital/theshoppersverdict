@@ -1,5 +1,6 @@
 ---
 
+
 title: "TempPro TP19H Digital Meat Thermometer"
 seo_title: "TempPro TP19H Review: Fast, Accurate Meat Thermometer"
 meta_description: "TempPro TP19H digital meat thermometer review: 2-3 second readout, magnetic back, 54K+ ratings. Is it worth $14? Read our honest verdict."
@@ -12,14 +13,15 @@ review_count: 54396
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GAhr0v1hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2-3 second readout with ±0.9°F accuracy — faster than thermometers twice the price"
   - "Built-in magnet and foldable probe make it genuinely useful for grillers, not just kitchen counter cooks"
   - "Auto-off after 10 minutes and replaceable AAA battery (included) means years of use for $14 inch"
-cons:
+cons: 
   - "No backlight — grilling at dusk or in a dark oven means squinting at the display"
   - "Probe is fixed-length at 4.3 inches; won't reach deep into large roasts or turkeys"
   - "Temperature range caps at 572°F — fine for meat but useless for candy making or deep frying"
+
 
 ---
 

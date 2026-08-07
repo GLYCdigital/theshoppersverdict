@@ -1,4 +1,5 @@
 ---
+
 title: "Natural Wispy Lash Clusters"
 seo_title: "Natural Wispy Lash Clusters Review: Verdict | TSV"
 meta_description: "Our full natural wispy lash clusters review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP2D7H6N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91GNEgvs0VL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about these Natural Wispy Lash Clusters: they're the closest thing I've found to a $150 salon lash extension set that you can apply at home in under 20 minutes. But they're not magic, and they're not for everyone.

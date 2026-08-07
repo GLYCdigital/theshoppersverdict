@@ -1,4 +1,5 @@
 ---
+
 title: "LALISU Floor Lamp, Standing Lamps with White Plastic Shade, "
 seo_title: "LALISU Floor Lamp, Standing Lamps with White Plast Review"
 meta_description: "Our full lalisu floor lamp, standing lamps with white plastic shade,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3LRYSLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+hEFYY+XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need a floor lamp that just *works* — bright, stable, and doesn’t cost a fortune — the LALISU standing lamp deserves a look. It’s not flashy, but it nails the essentials. As shown in the product image, the clean white drum shade and slim black pole fit neatly into a reading corner or beside a sofa without dominating the room.

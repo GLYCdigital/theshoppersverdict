@@ -1,4 +1,5 @@
 ---
+
 title: "Okuma Komodo SS Large Capacity Aluminum Frame Stainless Stee"
 seo_title: "Okuma Komodo SS Large Capacity Aluminum Frame Stai Review"
 meta_description: "Our full okuma komodo ss large capacity aluminum frame stainless stee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWC1F2P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LyxWci68L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Okuma Komodo SS isn't trying to be the lightest reel on the shelf. It's not the prettiest, either. What it *is* is a workhorse — a large-capacity low-profile baitcaster built for anglers who throw heavy baits, fish dirty water, and need a reel that won't fold after a season of hard abuse. With a 4.5-star average across 225 Amazon ratings, it's clearly earning its keep on the water. Here's the real breakdown.

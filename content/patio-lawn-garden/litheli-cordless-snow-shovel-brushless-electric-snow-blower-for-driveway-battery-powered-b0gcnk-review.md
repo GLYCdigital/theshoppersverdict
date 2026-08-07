@@ -1,4 +1,5 @@
 ---
+
 title: "Litheli Cordless Snow Shovel, Brushless Electric Snow Blower"
 seo_title: "Litheli Cordless Snow Shovel, Brushless Electric S Review"
 meta_description: "Our full litheli cordless snow shovel, brushless electric snow blower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GCNKLLFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hzVPtoIlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Litheli Cordless Snow Shovel isn't trying to replace your two-stage gas blower. It's trying to make you ditch the manual shovel entirely — and for most suburban driveways, it succeeds.**

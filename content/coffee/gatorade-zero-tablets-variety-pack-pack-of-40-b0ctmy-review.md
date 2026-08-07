@@ -1,4 +1,5 @@
 ---
+
 title: "Gatorade Zero Tablets, Variety Pack (Pack of 40)"
 seo_title: "Gatorade Zero Tablets, Variety Pack (Pack of 40) Review: "
 meta_description: "Our full gatorade zero tablets, variety pack (pack of 40) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CTMY5CF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hXxcVPhNL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're sick of lugging a 32-ounce Gatorade bottle to the gym when a 4-gram tablet does the same job, this variety pack is worth a serious look.** The Gatorade Zero Tablets pack 40 servings across four flavors, and they solve the one problem that's plagued electrolyte tablets for years: they actually taste like Gatorade, not like a chalky vitamin pill dissolved in tap water.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT FLEXVOLT 60V MAX* Circular Saw with Brake Kit, 7-1/4-"
 seo_title: "DEWALT FLEXVOLT 60V Circular Saw Review: Real Power, Real Weight"
 meta_description: "Our DEWALT FLEXVOLT 60V MAX circular saw review covers cutting power, battery life, and the blade brake. See if this cordless 7-1/4 inch  saw is worth it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B086MHYC1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bjyyOw0KL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "60V FLEXVOLT battery delivers corded-saw power through pressure-treated lumber and stacked 2x material without bogging down"
   - Electric blade brake stops the 7-1/4 inch " blade in under a second — a genuine safety upgrade for job-site work
   - "Integrated rafter hook and tool-free bevel adjustment (0-57°) with detents at 45° and 22.5° speed up repetitive cuts"
-cons:
+cons: 
   - "Heavy at 11.5 lbs with the 6Ah battery attached — overhead and plunge cuts will fatigue your arms quickly"
   - "No onboard blade wrench storage, so you must carry the hex key separately or risk losing it in the truck"
   - "LED work light sits close to the blade path and can cast shadows on the cut line in bright daylight"
+
 ---
 
 The DEWALT FLEXVOLT 60V MAX circular saw is the tool you buy when you've had enough of cordless saws that stall the moment you push them through wet lumber. This is the one that makes your corded saw feel like a backup option.

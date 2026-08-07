@@ -1,4 +1,5 @@
 ---
+
 title: "Tom Ford Soleil Blanc"
 seo_title: "Tom Ford Soleil Blanc Review: Verdict | TSV"
 meta_description: "Our full tom ford soleil blanc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D7ZYTV9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sUcK-WLGL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Tom Ford's Soleil Blanc worth the hype — or just an expensive sunscreen scent?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Piano Hinge 3 Inch Width, True 0.060'' Thick Stai"
 seo_title: "Heavy Duty Piano Hinge 3 Inch Width, True 0.060''  Review"
 meta_description: "Our full heavy duty piano hinge 3 inch width, true 0.060'' thick stai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CG6XGS2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xDuewoIcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most "heavy duty" piano hinges on Amazon are a lie. They're stamped from thin sheet metal that flexes under load, and the "stainless steel" rusts within a season. This 3-inch wide hinge from the B0CG6XGS2K listing actually delivers on the spec sheet. Here's what you need to know before buying.

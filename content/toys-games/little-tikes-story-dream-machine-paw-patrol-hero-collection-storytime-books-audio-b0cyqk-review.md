@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Story Dream Machine PAW Patrol Hero Collection,"
 seo_title: "Little Tikes Story Dream Machine PAW Patrol Hero C Review"
 meta_description: "Our full little tikes story dream machine paw patrol hero collection, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CYQK25RJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IWre-cpLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Little Tikes Story Dream Machine PAW Patrol Hero Collection,** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

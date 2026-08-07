@@ -1,4 +1,5 @@
 ---
+
 title: "RUBY.Q 1/2/3 Pack Large Parrot Toy, 20in Bird Parrot Toy, Mu"
 seo_title: "RUBY.Q 1/2/3 Pack Large Parrot Toy, 20in Bird Parr Review"
 meta_description: "Our full ruby.q 1/2/3 pack large parrot toy, 20in bird parrot toy, mu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJ28KVHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdu64i5gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Your parrot will either destroy this toy in a week or ignore it entirely. There's not much middle ground — and that's exactly why you need to read this before buying.**

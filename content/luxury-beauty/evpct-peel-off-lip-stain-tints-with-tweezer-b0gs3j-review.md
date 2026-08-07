@@ -1,4 +1,5 @@
 ---
+
 title: "evpct Peel Off Lip Stain Tints with Tweezer"
 seo_title: "evpct Peel Off Lip Stain Review: Worth It? [2026]"
 meta_description: "Honest evpct peel off lip stain review: does the 12-hour tint and tweezer set deliver? Real results, wear time, and application tips. Verdict inside."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GS3J8FGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n-BpLZSjL._SL1000_.jpg"
-pros:
+pros: 
   - "True 8–12 hour wear without transfer — survives coffee, meals, and kissing without smudging"
   - "Included precision tweezer makes peeling the dried stain film genuinely easy, even for beginners"
   - "Buildable color intensity — one coat gives a natural flush, two to three coats deliver a bold, saturated finish"
-cons:
+cons: 
   - "Drying time runs 10–15 minutes — you can't rush it, and it feels tight on the lips while setting"
   - "Shade payoff varies by color; lighter shades (like the pinks) need more coats for visible pigment"
+
 ---
 
 **The Short Version:** If you're tired of reapplying lipstick every time you sip a latte, this peel-off stain delivers on its core promise — but it demands patience during application.

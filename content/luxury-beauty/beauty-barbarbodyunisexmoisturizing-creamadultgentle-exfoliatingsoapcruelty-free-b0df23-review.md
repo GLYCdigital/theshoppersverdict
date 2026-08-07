@@ -1,4 +1,5 @@
 ---
+
 title: "Beauty BarBarBodyUnisexMoisturizing CreamAdultGentle exfolia"
 seo_title: "Beauty Bar Gentle Exfoliating Cream Review (2026) | Honest Verdict"
 meta_description: "Read our honest Beauty Bar gentle exfoliating moisturizer review. 4.8/5 rating, 240+ reviews. Is this unisex cream worth it? Pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DF23VB6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZAD9M0ZIL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual-action formula exfoliates and moisturizes in one step, saving time in your routine"
   - "Unisex scent profile — neither floral nor overly masculine, works for any household member"
   - "240+ ratings with 4.8 average suggests strong consistency batch-to-batch"
-cons:
+cons: 
   - "No full ingredient list transparency on the listing page — you'll want to check the physical label"
   - "Gentle exfoliation means it won't tackle rough patches on elbows or feet effectively"
   - "Jar packaging requires clean fingers or a spatula; not pump-dispensed for hygiene"
+
 ---
 
 # Beauty Bar Unisex Moisturizing Cream with Gentle Exfoliation: Does It Actually Do Both?

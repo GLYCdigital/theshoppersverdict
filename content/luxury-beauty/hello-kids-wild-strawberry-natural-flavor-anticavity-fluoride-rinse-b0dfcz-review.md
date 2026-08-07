@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Kids Wild Strawberry Natural Flavor Anticavity Fluorid"
 seo_title: "Hello Kids Wild Strawberry Natural Flavor Anticavi Review"
 meta_description: "Our full hello kids wild strawberry natural flavor anticavity fluorid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFCZM8N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jNt+gxsRL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the fluoride rinse that finally gets your kid to actually swish — or just another bottle that collects dust in the bathroom cabinet?**

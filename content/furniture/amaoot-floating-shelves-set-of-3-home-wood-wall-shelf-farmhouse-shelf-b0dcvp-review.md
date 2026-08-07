@@ -1,4 +1,5 @@
 ---
+
 title: "Amaoot Floating Shelves Set of 3, Home Wood Wall Shelf, Farm"
 seo_title: "Amaoot Floating Shelves Set of 3 Review: Farmhouse Style"
 meta_description: "Amaoot Floating Shelves Set of 3 review: sturdy MDF, hidden brackets, easy install. See real pros, cons, and who should buy these farmhouse shelves."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCVPRZ4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gHH3qqx7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden bracket system gives a true floating look with no visible hardware"
   - "Solid MDF construction with a smooth, consistent farmhouse finish that resists fingerprints"
   - "Each shelf supports up to 20 lbs when anchored into studs — enough for books, plants, or kitchenware"
-cons:
+cons: 
   - "MDF, not solid wood — prone to water damage if used in a steamy bathroom without sealing"
   - "Mounting template is basic; marking stud locations requires a level and a steady hand"
+
 ---
 
 **The Short Version:** If you want the look of custom-built floating shelves without the carpentry bill, the Amaoot set of three delivers. At a 4.6-star average across 229 ratings, these shelves consistently earn praise for their clean farmhouse aesthetic and genuinely hidden mounting system. But they're not solid wood, and installation demands more care than the product page suggests.

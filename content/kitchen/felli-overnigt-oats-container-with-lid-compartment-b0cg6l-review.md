@@ -1,4 +1,5 @@
 ---
+
 title: "Felli Overnigt Oats Container with Lid Compartment"
 seo_title: "Felli Overnight Oats Container Review: Worth It? (2026)"
 meta_description: "Honest Felli Overnight Oats Container review: leak-proof lid, portion control, and real customer feedback. Is this meal-prep jar worth buying?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG6LTRYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KojYz-VVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated lid compartment keeps toppings, nuts, or chia seeds separate until you're ready to eat — no soggy mix-ins"
   - "Wide-mouth jar design makes scooping, eating, and hand-washing genuinely easy, not a chore"
   - "Graduated markings on the side (ounces and milliliters) simplify portion control for consistent macros"
-cons:
+cons: 
   - "No insulation — this is a prep container, not a thermos; don't expect cold retention for hours"
   - "Lid compartment adds height, so it may not fit standard fridge door shelves; measure before buying"
   - "Silicone gasket is removable but requires careful re-seating to maintain the leak-proof seal"
+
 ---
 
 Let's be honest: most overnight oats containers are just repurposed mason jars with a marketing budget. The Felli Overnight Oats Container actually does something different — it puts the toppings compartment *in the lid*, which changes how you approach meal prep. After digging through 225 ratings and the physical design specs, here's the real breakdown.

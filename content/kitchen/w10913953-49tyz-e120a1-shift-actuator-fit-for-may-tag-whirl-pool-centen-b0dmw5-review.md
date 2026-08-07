@@ -1,4 +1,5 @@
 ---
+
 title: "W10913953 49tyz-e120a1 Shift Actuator fit for May-tag Whirl-"
 seo_title: "W10913953 49tyz-e120a1 Shift Actuator fit for May- Review"
 meta_description: "Our full w10913953 49tyz-e120a1 shift actuator fit for may-tag whirl- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMW5V1YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617h8bBf5xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 So your Maytag or Whirlpool washer just flashed an F5 E2 error, started spinning like a jet engine during the wash cycle, or simply refuses to drain. That grinding noise you're hearing? That's the shift actuator — a $30-ish plastic-and-metal component that tells your machine whether to agitate or spin. This W10913953 replacement is the part you need, and for most buyers, it's an exact fix. Let's break down whether it's worth your money.

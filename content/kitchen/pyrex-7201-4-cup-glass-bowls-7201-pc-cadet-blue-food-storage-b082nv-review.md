@@ -1,4 +1,5 @@
 ---
+
 title: "Pyrex 7201 4 Cup Glass Bowls & 7201-PC Cadet Blue Food Stora"
 seo_title: "Pyrex 7201 4 Cup Glass Bowls & 7201-PC Cadet Blue  Review"
 meta_description: "Our full pyrex 7201 4 cup glass bowls & 7201-pc cadet blue food stora review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B082NVF2JP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RZr3Fv8pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap plastic container stain orange after one bowl of chili, you already know why Pyrex glass storage earns its reputation. The 7201 set isn't flashy — it's just four no-nonsense 4-cup bowls with Cadet Blue lids that do exactly what they promise. At 4.8 stars from 240 ratings, this is one of those rare products where the hype actually matches the performance.

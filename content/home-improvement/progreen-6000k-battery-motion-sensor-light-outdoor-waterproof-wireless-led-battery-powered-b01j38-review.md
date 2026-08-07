@@ -1,4 +1,5 @@
 ---
+
 title: "ProGreen 6000K Battery Motion Sensor Light Outdoor Waterproo"
 seo_title: "ProGreen 6000K Battery Motion Sensor Light Outdoor Review"
 meta_description: "Our full progreen 6000k battery motion sensor light outdoor waterproo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01J38JFVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZcpdwuElS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a dark garage entrance, a shadowy side gate, or a back porch where the bulb burned out months ago, the ProGreen 6000K battery motion sensor light looks like the obvious fix. At $24.99 with no wiring required, it's tempting. After digging through 200 ratings and the spec sheet, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "EarthWay 2600A-PLUS Fertilizer Spreader, 40lb Hopper Capacit"
 seo_title: "EarthWay 2600A-PLUS Spreader Review: 40lb Hopper, Real Results"
 meta_description: "Honest EarthWay 2600A-PLUS spreader review: 40lb hopper, all-terrain wheels, edge guard. See what buyers praise and where it falls short before you buy."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B08SMNFTDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B87Cd7CSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-pound hopper capacity means fewer refill trips on quarter-acre lots"
   - "All-terrain wheels with deep tread handle uneven ground without bouncing"
   - "EdgeGuard feature lets you spread right up to flower beds without scorching them"
-cons:
+cons: 
   - "Flow rate can be inconsistent — several buyers report clumping with finer granules"
   - "Plastic gear assembly feels light-duty for the price point; handle flexes under load"
+
 ---
 
 The EarthWay 2600A-PLUS sits in an awkward spot: it's priced like a serious homeowner tool but built with some compromises that'll frustrate perfectionists. At 3.7 stars across 185 ratings, the consensus is "good bones, finicky delivery." Here's what that means for your lawn.

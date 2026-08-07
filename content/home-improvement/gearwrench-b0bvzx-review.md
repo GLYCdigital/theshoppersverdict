@@ -1,24 +1,26 @@
 ---
+
 title: "GEARWRENCH"
 seo_title: "GEARWRENCH Review: Is It Worth the Hype? (2026)"
 meta_description: "GEARWRENCH review: 4.6/5 from 229 ratings. We break down build quality, real-world performance, and who should buy it. Honest pros & cons inside."
 slug: "gearwrench-b0bvzx-review"
 image_alt: "GEARWRENCH ratcheting wrench set laid out on a workbench with a close-up of the open-end mechanism"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BVZXVL3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XFDHQTkvL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "90-tooth ratcheting mechanism turns bolts with just 5 degrees of swing — clears tight engine bays"  
   - "Chrome vanadium steel with a full polish that resists rust after repeated solvent exposure"  
   - "Beam-style design distributes torque evenly, reducing rounded-off nuts compared to cheaper 12-point wrenches"  
-cons:  
+cons: 
   - "No anti-slip serration on the open end — slick hands or greasy fasteners can cause the wrench to walk off"  
   - "Sizes below 10mm are not included in this set; you'll need to buy singles separately"  
   - "The reversing lever sits slightly proud of the handle — snags on tool roll pockets if you store them loose"
+
 ---
 
 Let’s cut the chase: GEARWRENCH is a brand that’s been a staple in professional garages for over two decades, and this particular set (listed as B0BVZXVL3Q on Amazon) is their bread-and-butter line. With a 4.6-star average across 229 ratings, it’s clearly doing something right. But is it the right purchase for *your* toolbox? Here’s the unvarnished breakdown.

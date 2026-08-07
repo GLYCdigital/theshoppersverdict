@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN CMMT44691 Standard SAE Combination Wrench - 5/16 inch "
 seo_title: "CRAFTSMAN CMMT44691 5/16 inch  Wrench Review: Solid Value"
 meta_description: "CRAFTSMAN CMMT44691 5/16 inch  SAE combination wrench review: full-polish finish, 12-point box end, lifetime warranty. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07SHZW17P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41KCovTwDzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-polish chrome finish resists corrosion and wipes clean easily — even after years in a toolbag"
   - "12-point box end gives you more engagement angles in tight spaces where you can't swing a full handle rotation"
   - "Laser-etched size marking stays legible — no worn-off stamps after heavy use"
-cons:
+cons: 
   - "No anti-slip flank drive or off-corner loading geometry like higher-end brands (Snap-on, Proto)"
   - 5/16 inch " is a niche size — most DIYers will need to buy the full set for practical use
   - "No hang hole for pegboard storage, which annoys some workshop organizers"
+
 ---
 
 Let's be direct about this 5/16" Craftsman wrench: it's not a showpiece, it's a worker. And for most home mechanics and DIYers, that's exactly what you need.

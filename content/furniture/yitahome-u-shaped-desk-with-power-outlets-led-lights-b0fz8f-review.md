@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME U Shaped Desk with Power Outlets & LED Lights"
 seo_title: "YITAHOME U Shaped Desk with Power Outlets & LED Li Review"
 meta_description: "Our full yitahome u shaped desk with power outlets & led lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZ8FNHKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91CVCDdRhtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YITAHOME U Shaped Desk isn't just another corner desk.** At 60 inches wide with a 19-inch deep return on each side, it's a command center designed for people who run three monitors, a laptop, and still need room for a notebook. But the real question isn't whether it looks good — it's whether the power outlets and LED lights hold up after six months of daily use.

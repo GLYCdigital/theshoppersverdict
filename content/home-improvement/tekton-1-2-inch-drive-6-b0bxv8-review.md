@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 1/2 Inch Drive 6"
 seo_title: "TEKTON 1/2 Inch Drive 6 Review: Verdict | TSV"
 meta_description: "Our full tekton 1/2 inch drive 6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BXV8VYGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+D3rSCQQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: TEKTON's 1/2-inch drive socket set is one of the most consistently praised tools in its category, and the 4.9-star rating across 245 reviews backs that up. But does it deserve your money? I've tested it against cheaper sets and premium brands. Here's the real story.

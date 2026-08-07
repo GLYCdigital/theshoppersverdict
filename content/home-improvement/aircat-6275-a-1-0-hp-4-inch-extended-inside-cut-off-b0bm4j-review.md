@@ -1,4 +1,5 @@
 ---
+
 title: "AIRCAT 6275-A 1.0 HP 4-Inch Extended Inside Cut-Off Tool wit"
 seo_title: "AIRCAT 6275-A Review: 1.0 HP Extended Cut-Off Tool"
 meta_description: "AIRCAT 6275-A 4-inch extended cut-off tool review: 1.0 HP motor, 90° head, 4.7/5 rating. Real-world performance, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BM4JZFWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vOBzA8UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Extended 17-inch reach with 90° angled head — cuts deep inside panels and frames without contorting"
   - "1.0 HP motor with 21,000 RPM no-load speed chews through sheet metal, fiberglass, and exhaust tubing"
   - "Comfortable composite housing stays cool during extended use; rear exhaust keeps sparks and debris away from hands"
-cons:
+cons: 
   - "At $263.75, it's roughly double the price of comparable 4-inch cut-off tools without the reach advantage"
   - "No variable-speed trigger — full throttle only, which takes some control finesse on thin materials"
   - "Air consumption is hefty at 4.5 CFM; small portable compressors will struggle to keep up"
+
 ---
 
 The problem with most cut-off tools is simple: they only reach what you can see. When a cut is buried 17 inches inside a rocker panel, a quarter panel, or an exhaust tunnel, a standard 4-inch grinder is useless. That's the gap the AIRCAT 6275-A was built to fill — and after 235 Amazon ratings averaging 4.7 stars, it's clearly filling it well.

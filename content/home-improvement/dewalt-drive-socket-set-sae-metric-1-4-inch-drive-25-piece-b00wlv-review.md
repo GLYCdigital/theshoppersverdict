@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Drive Socket Set, SAE/Metric, 1/4-Inch Drive, 25-Piec"
 seo_title: "DEWALT 1/4-Inch Drive Socket Set Review (25-Piece SAE/Metric)"
 meta_description: "Honest DEWALT 25-piece 1/4-inch drive socket set review: build quality, fit, durability, and who should buy it. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00WLVV4O2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ys5YO1q4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chrome vanadium steel construction with a polished finish that resists corrosion and wipes clean easily"
   - "Ball detent on the ratchet holds sockets securely — no frustrating drops when working overhead"
   - "Molded case keeps every socket in its labeled slot; sizes are stamped clearly on both the socket and the case"
-cons:
+cons: 
   - "No extension bar or universal joint included — you'll need to buy those separately for recessed fasteners"
   - "The ratchet's direction switch is stiff out of the box and takes a few dozen flips to loosen up"
   - "Case latch feels a bit flimsy; if you drop it on concrete, the hinge may crack"
+
 ---
 
 If you're tired of digging through a jumbled drawer for a 10mm socket, this DEWALT 25-piece set is the organizational reset you need. It's not the most comprehensive socket set on the market, but for everyday repairs, furniture assembly, and automotive light work, it hits the sweet spot between price and performance.

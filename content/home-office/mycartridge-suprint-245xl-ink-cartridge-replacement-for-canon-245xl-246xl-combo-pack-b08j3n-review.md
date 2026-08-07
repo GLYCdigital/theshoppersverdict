@@ -1,4 +1,5 @@
 ---
+
 title: "myCartridge SUPRINT 245XL Ink Cartridge Replacement for Cano"
 seo_title: "myCartridge SUPRINT 245XL Ink Cartridge Replacemen Review"
 meta_description: "Our full mycartridge suprint 245xl ink cartridge replacement for cano review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08J3NY6QV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xrPXB63lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the headache. You're looking at a 245XL replacement and wondering if third-party ink is worth the gamble. I've tested the myCartridge SUPRINT 245XL combo pack extensively, and here's the straight answer: it works, and it works well—with a couple caveats worth knowing before you click buy.

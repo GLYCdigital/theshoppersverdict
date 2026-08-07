@@ -1,4 +1,5 @@
 ---
+
 title: "RV Wholesale Direct Dicor 501LSW-1 RV Rubber Roof Sealant Se"
 seo_title: "RV Wholesale Direct Dicor 501LSW-1 RV Rubber Roof  Review"
 meta_description: "Our full rv wholesale direct dicor 501lsw-1 rv rubber roof sealant se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B092RHC7WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-cXrFQq1L._SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an RV, you already know the roof is a ticking clock. Every seam, vent flange, and antenna base is a potential entry point for water — and water is the one thing that will total your rig faster than a fender bender. The Dicor 501LSW-1 self-leveling lap sealant is the product most RV technicians grab first, and after testing it across two seasons, I understand why.

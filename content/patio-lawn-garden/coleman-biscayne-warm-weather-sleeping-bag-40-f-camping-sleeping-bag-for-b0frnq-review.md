@@ -1,4 +1,5 @@
 ---
+
 title: "Coleman Biscayne Warm-Weather Sleeping Bag, 40°F Camping Sl"
 seo_title: "Coleman Biscayne Sleeping Bag Review: 40°F Warm Weather"
 meta_description: "Coleman Biscayne 40°F sleeping bag review: lightweight, rectangular comfort for summer camping. Real buyer feedback, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRNQFZ37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AfpgM5EBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rectangular cut gives 15+ extra inches of foot room versus mummy bags — no more curled-up toes"
   - "Cotton flannel liner stays comfortable against skin; no polyester scratchiness in humid heat"
   - "Full-length zipper with anti-snag design lets you zip two bags together for a double"
-cons:
+cons: 
   - "40°F rating is optimistic — below 55°F you'll need a liner or blanket, especially if you sleep cold"
   - "Compresses to roughly the size of a large duffel; not ideal for backpacking or tight car camping"
+
 ---
 
 ## The Summer-Only Sleeping Bag That Actually Delivers

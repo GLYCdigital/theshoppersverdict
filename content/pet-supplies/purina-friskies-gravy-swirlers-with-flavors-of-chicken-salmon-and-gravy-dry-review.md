@@ -1,16 +1,17 @@
 ---
+
 title: "Purina Friskies Gravy Swirlers With Flavors of Chicken, Salmon and Gravy Dry Cat Food - 3.15 lb. Bag"
 seo_title: "Purina Friskies Gravy Swirlers With Flavors of Chi Review"
 meta_description: "Honest purina friskies gravy swirlers with flav review based on 37,067+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "purina-friskies-gravy-swirlers-with-flavors-of-chicken-salmon-and-gravy-dry-review"
 image_alt: "Purina Friskies Gravy Swirlers With Flavors of Chicken, Salmon and Gravy Dry Cat Food - 3.15 lb. Bag"
-keywords:
+keywords: 
   - "purina friskies gravy review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Purina Friskies Gravy Swirlers With well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the common complaints about the Purina Friskies Gravy Swirlers With?"
@@ -23,11 +24,12 @@ review_count: 37067
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0727R5C5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L-vopG6RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Great value for the price"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 If you're shopping for a pet product, you've probably noticed the Purina Friskies Gravy Swirlers With Flavors.... After combing through 37,067 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

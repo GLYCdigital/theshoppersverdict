@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Jurassic World T. rex Dinosaur Toy with Sound & Movem"
 seo_title: "Mattel Jurassic World T. rex Dinosaur Toy with Sou Review"
 meta_description: "Our full mattel jurassic world t. rex dinosaur toy with sound & movem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPKZZKB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uxMRPn+NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: this T. rex from Mattel's Jurassic World line is the dinosaur toy your kid has been begging for, and honestly, it mostly deserves the hype. With a 4.8-star average across 240 ratings, this isn't some cheap, hollow plastic dinosaur that'll break by Tuesday. It's a proper piece of play engineering.

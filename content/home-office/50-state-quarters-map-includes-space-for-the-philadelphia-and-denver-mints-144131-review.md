@@ -1,4 +1,5 @@
 ---
+
 title: "50 State Quarters Map (includes space for the Philadelphia a"
 seo_title: "50 State Quarters Map Review: Complete Collector's Guide"
 meta_description: "Honest 50 State Quarters Map review: build quality, coin fit, display appeal. See pros, cons & who should buy this US Mint collector's map."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/1441312315/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nS6NyeDAL._SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 12.5 x 19-inch frame with real glass front — not cheap acrylic that scratches"
   - "Dedicated labeled slots for both Philadelphia (P) and Denver (D) mint marks for every state"
   - "Pre-printed state names and statehood dates make placement foolproof for beginners"
-cons:
+cons: 
   - "Coin slots are snug — circulated quarters with heavy wear fit fine, but uncirculated proofs can be tight"
   - "No hanging hardware included; you'll need picture-hanging strips or a nail"
+
 ---
 
 Let's be honest: most coin-collecting gifts are either cheap plastic folders that fall apart or expensive albums that cost more than the quarters inside them. This 50 State Quarters Map from Peter Pauper Press sits in a smarter middle ground — a framed display piece that actually looks intentional on a wall.

@@ -1,4 +1,5 @@
 ---
+
 title: "MODELLOR (10 lb) Premium Super Washed Coco Coir Brick, High "
 seo_title: "MODELLOR (10 lb) Premium Super Washed Coco Coir Br Review"
 meta_description: "Our full modellor (10 lb) premium super washed coco coir brick, high  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSR8RFRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9101YLbWYYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a rock-hard coco coir brick that refuses to break apart, you know the frustration. The MODELLOR 10 lb premium brick is supposed to fix that. After digging through 235 ratings (4.7 stars) and testing the math on expansion, here's what actually matters before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Greluna Solar Post Lights - Dusk to Dawn Outdoor Waterproof "
 seo_title: "Greluna Solar Post Lights - Dusk to Dawn Outdoor W Review"
 meta_description: "Our full greluna solar post lights - dusk to dawn outdoor waterproof  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6B5G2TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bg+29pLGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by cheap solar lights that die after one rainy season, the Greluna Solar Post Lights deserve a closer look. With a 4.4-star average across 220 ratings, these aren't flash-in-the-pan gimmicks — they're a legitimately solid option for illuminating deck posts, fence caps, or mailbox posts without running wiring. Here's what you need to know before handing over your money.

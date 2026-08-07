@@ -1,4 +1,5 @@
 ---
+
 title: "BOTLOG Farmhouse Sideboard Buffet Cabinet with Storage, 47.2 inch"
 seo_title: "BOTLOG Farmhouse Sideboard Review: 47.2 inch  Buffet Cabinet"
 meta_description: "Read our honest BOTLOG Farmhouse Sideboard review: build quality, real storage capacity, assembly difficulty, and who should buy this 47.2 inch  buffet."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7ZG7M8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QOZd73s-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile 3-drawer + 2-door configuration fits dining rooms, entryways, or living spaces"
   - "Sturdy particleboard construction with reinforced back panel holds up to daily use"
   - "Farmhouse X-frame door design matches modern-rustic decor without looking cheap"
-cons:
+cons: 
   - "Assembly requires 45–90 minutes; cam locks and dowels need patience and a second person for the top panel"
   - "Only one adjustable shelf per cabinet section limits flexibility for tall or oddly shaped items"
+
 ---
 
 Let me cut through the listing photos and tell you what this 47.2-inch BOTLOG sideboard actually does for your space. At 4.5 stars across 225 ratings, it's clearly doing something right — but it's not perfect, and you deserve to know where it cuts corners before you click buy.

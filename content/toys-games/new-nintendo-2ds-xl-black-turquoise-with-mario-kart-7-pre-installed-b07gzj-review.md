@@ -1,4 +1,5 @@
 ---
+
 title: "New Nintendo 2DS XL - Black + Turquoise With Mario Kart 7 Pr"
 seo_title: "New Nintendo 2DS XL - Black + Turquoise With Mario Review"
 meta_description: "Our full new nintendo 2ds xl - black + turquoise with mario kart 7 pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GZJB8FG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uvpcfJwdL._SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nintendo 3DS family is officially dead — Nintendo shut down the eShop in March 2023 — yet the New 2DS XL remains one of the best-value handhelds you can buy in 2026. This black and turquoise bundle with Mario Kart 7 pre-installed is frequently the version shoppers land on, and for good reason. It's the entire 3DS library (over 1,000 games) at a budget price, with one of the best kart racers ever made already loaded.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Variety"
 seo_title: "Hello Variety Review: Verdict | TSV"
 meta_description: "Our full hello variety review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DS59ZS2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hh4bG85NL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hello Variety Review: Does This Luxury Skincare Set Deliver on Its Promise?

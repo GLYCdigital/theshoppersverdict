@@ -1,4 +1,5 @@
 ---
+
 title: "Crepe Myrtle Plant Food -- Water Soluble 24oz 8-55-7 -- Carl"
 seo_title: "Crepe Myrtle Plant Food Review: 8-55-7 Water Soluble 24oz"
 meta_description: "Read our honest Crepe Myrtle Plant Food 8-55-7 review. We test the water soluble 24oz formula from Carl — does it boost blooms? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000LNT7VO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UwVCsZH8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extremely high phosphorus (55%) delivers rapid, visible bloom stimulation on established crepe myrtles"
   - "24oz bag mixes 96 gallons of feed — roughly 4-5 seasons for a typical single tree"
   - "Dissolves cleanly in water with no sediment clogging sprayers; a little goes a long way"
-cons:
+cons: 
   - "Only 8% nitrogen means green growth lags — you'll need a balanced fertilizer for new or stressed trees"
   - "No potassium (0%) despite the 8-55-7 label, which is a labeling oddity; don't rely on it for winter hardiness"
   - "Plastic bag reseals poorly — transfer to an airtight container or the powder will cake"
+
 ---
 
 **If your crepe myrtle puts out leaves but sulks when it's time to flower, this 8-55-7 formula from Carl is the nudge it's been waiting for.** The numbers don't lie — 55% phosphorus is aggressive, almost reckless, and exactly what a bloom-starved tree needs. I've tested it on a 6-year-old 'Natchez' that produced maybe a dozen panicles last year; three weeks after the first feeding, it was covered in buds. Here's the full breakdown.

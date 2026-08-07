@@ -1,4 +1,5 @@
 ---
+
 title: "Gas Leak Detector – Portable Natural Gas Sniffer for Propane"
 seo_title: "Gas Leak Detector Review: Portable Natural Gas Sniffer"
 meta_description: "Honest review of the portable gas leak detector for propane, methane, and LPG. See real performance, sensitivity, build quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07FSVCSSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HhIes85RL._AC_SL1408_.jpg"
-pros:
+pros: 
   - "Flexible 15-inch gooseneck probe reaches behind stoves, water heaters, and RV propane lines without disassembly"
   - "Dual detection modes (LPG and natural gas) with audible beeping that escalates in pitch as concentration rises"
   - "Auto-calibrates in 30 seconds with a built-in zero point — no manual adjustment or gas calibration kit required"
-cons:
+cons: 
   - "Battery compartment requires a Phillips screwdriver to access — not tool-free, which is annoying when you're mid-inspection"
   - "No digital concentration readout on basic models; you're relying on beep pitch and LED count, not precise PPM numbers"
+
 ---
 
 **Bottom line: this is the $25–35 gas sniffer that actually earns its place in your toolbox — if you understand what it can and can't do.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Berkley Gulp! Alive! Swimming Mullet Saltwater Fishing Soft"
 seo_title: "Berkley Gulp Swimming Mullet Review: Real Saltwater Results"
 meta_description: "Honest Berkley Gulp Alive Swimming Mullet review. Does the scented soft bait outfish live bait? We break down durability, scent, and saltwater results."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVKTYYBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kVVJlGBpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exudes a powerful scent and flavor matrix that outlasts most soft plastics through multiple casts"
   - "Pre-rigged, hook-ready design with a paddletail that produces a lifelike swimming action even on a slow retrieve"
   - "Built-in salt content and durable material that holds up to aggressive strikes from redfish, speckled trout, and flounder"
-cons:
+cons: 
   - "Jar packaging can leak if not stored upright — a messy surprise in your tackle bag"
   - "Bait can dry out and become brittle if left exposed to air for extended periods between uses"
+
 ---
 
 Let's be direct: the Berkley Gulp! Alive! Swimming Mullet is one of the most polarizing soft baits in saltwater fishing. Either you swear by it, or you've given up on it because the juice leaks. But with a 4.6-star average across 229 ratings, the believers heavily outnumber the skeptics. Here's the unfiltered truth.

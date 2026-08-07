@@ -1,4 +1,5 @@
 ---
+
 title: "Tub WorksÂ® Smoothâ„¢ Jumbo Bath Crayons Bath Toy | Nontoxic"
 seo_title: "Tub WorksÂ® Smoothâ„¢ Jumbo Bath Crayons Bath Toy  Review"
 meta_description: "Our full tub worksâ® smoothâ„¢ jumbo bath crayons bath toy | nontoxic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDNMR9K2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QwEhGxGaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bath time is either the highlight of your toddler's day or a battle you dread. These crayons won't magically fix the latter, but they're one of the few bath toys that actually deliver on the "easy clean-up" promise most brands make and fail to keep.**

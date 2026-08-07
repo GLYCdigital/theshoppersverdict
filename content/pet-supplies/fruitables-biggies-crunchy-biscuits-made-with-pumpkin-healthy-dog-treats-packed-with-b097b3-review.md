@@ -1,4 +1,5 @@
 ---
+
 title: "Fruitables Biggies Crunchy Biscuits Made With Pumpkin, Healt"
 seo_title: "Fruitables Biggies Crunchy Biscuits Review: Healthy Dog Treats"
 meta_description: "Fruitables Biggies Crunchy Biscuits with pumpkin review: 4.6/5 stars. Are these healthy dog treats worth it? Ingredients, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B097B3CCB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ra6ITVYqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Only 15 calories per biscuit — one of the lowest-calorie large-breed treats I've seen"
   - "Real pumpkin is the first ingredient, not a filler like corn or wheat"
   - "Crunchy texture actually helps scrape plaque off teeth, per multiple buyer reports"
-cons:
+cons: 
   - "Some dogs with sensitive stomachs may need to start slow — pumpkin fiber can loosen stools initially"
   - "Biscuits can arrive broken in shipping if the bag gets tossed around"
+
 ---
 
 Let me be blunt: most "healthy" dog treats are marketing fluff wrapped in a misleading label. But Fruitables Biggies Crunchy Biscuits with Pumpkin actually live up to the claim — and with a 4.6/5 rating across 229 reviews, I'm not the only one convinced.

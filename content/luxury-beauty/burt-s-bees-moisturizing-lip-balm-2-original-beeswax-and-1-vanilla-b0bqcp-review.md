@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees Moisturizing Lip Balm, 2 Original Beeswax and 1 inch"
 seo_title: "Burt's Bees Moisturizing Lip Balm Review (3-Pack) 2026 inch"
 meta_description: "Honest Burt's Bees Moisturizing Lip Balm review: 2 Original Beeswax + 1 Vanilla. Real performance, longevity, and value — is this 4.6-star 3-pack worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQCPLQWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OZHQ5RbTL._SL1500_.jpg"
-pros:
+pros: 
   - "100% natural formula with beeswax, vitamin E, and coconut oil — no petroleum or parabens"
   - "3-stick bundle gives you two Original Beeswax tubes plus one Vanilla Bean for variety"
   - "Consistent 4.6-star rating across 229 reviews — rare stability for a lip balm"
-cons:
+cons: 
   - "Original Beeswax has a distinct earthy scent some find off-putting (vanilla is sweeter)"
   - "Balm can soften and bend in hot pockets or cars above 80°F"
+
 ---
 
 Let's be blunt: lip balm is the most overpromised, underdelivered product in the beauty aisle. Every brand claims "8-hour moisture." Almost none deliver. Burt's Bees has been the exception since 1984 — and the 3-pack of two Original Beeswax and one Vanilla Bean is the smartest way to buy it.

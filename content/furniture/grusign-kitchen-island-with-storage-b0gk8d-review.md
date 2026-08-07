@@ -1,4 +1,5 @@
 ---
+
 title: "GRUSIGN Kitchen Island with Storage"
 seo_title: "GRUSIGN Kitchen Island Review: Storage & Style Tested"
 meta_description: "GRUSIGN Kitchen Island with Storage review: real buyer feedback on build quality, assembly, and space. See if this 4.1-star cart earns your kitchen."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GK8DLKP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819XXIejawL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid wood top resists scratches and wipes clean easily — a real upgrade over cheap laminate"
   - "Four locking casters (two lockable) let you lock it firmly in place or roll it across the kitchen"
   - "Towel bar and two drawers add utility most carts at this price simply skip"
-cons:
+cons: 
   - "Assembly runs 60–90 minutes; some buyers report misaligned pre-drilled holes requiring extra patience"
   - "Drawer slides feel lightweight — fine for utensils, but don't load them with cast iron"
+
 ---
 
 The GRUSIGN Kitchen Island with Storage sits in that crowded middle of Amazon's furniture market: not the cheapest cart, not the premium butcher-block statement piece. At 4.1 stars across 204 ratings, it's clearly doing something right. But the real question is whether it earns a permanent spot in your kitchen or becomes another return.

@@ -1,4 +1,5 @@
 ---
+
 title: "Enertwist Cordless Electric Screwdriver Set, ET-CES-P"
 seo_title: "Enertwist Cordless Screwdriver Review (2026): Worth It?"
 meta_description: "Enertwist ET-CES-P cordless screwdriver review: torque, battery life, bits, and real-world performance. Is it worth $40? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08R3KQVP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TNLT-XRtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reasonable torque for a pen-style driver — handles #8 wood screws and cabinet hardware without stripping"
   - "USB-C charging (most budget drivers still use Micro-USB), full charge in about 90 minutes"
   - "48-piece bit set covers Torx, hex, Phillips, slotted, and nut drivers — genuinely useful range"
-cons:
+cons: 
   - "No clutch or torque adjustment — you can overdrive soft materials if you're not careful"
   - "Battery indicator is a single LED that's easy to miss in bright light"
   - "Chuck wobble noticeable under load; not a precision tool for fine electronics work"
+
 ---
 
 If you've ever wrestled with a manual screwdriver for twenty minutes assembling flat-pack furniture, you already know why cordless drivers exist. The Enertwist ET-CES-P is a compact, pen-style electric screwdriver that's clearly aimed at that exact frustration. It's not a replacement for a real drill, but it doesn't try to be. Here's what it actually does well, where it cuts corners, and who should buy it.

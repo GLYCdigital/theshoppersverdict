@@ -1,4 +1,5 @@
 ---
+
 title: "John Frieda Frizz Ease The Controller Extra Strength Hair Se"
 seo_title: "John Frieda Frizz Ease The Controller Extra Streng Review"
 meta_description: "Our full john frieda frizz ease the controller extra strength hair se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMPWBK6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MDoRoD6ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: frizz serums are a dime a dozen, and most of them fail the moment the humidity creeps past 60%. John Frieda’s Frizz Ease The Controller Extra Strength has been a drugstore staple for years, and the 4.4-star average across 220 ratings isn’t accidental. But does it actually *control* frizz, or just mask it for an hour? I tested it on naturally wavy, color-treated hair over two weeks, including a sweaty commute and a rainy afternoon. Here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Asimerdeco AR005 10 Pack Matte Black Cabinet Pulls 5 Inch(12 inch"
 seo_title: "Asimerdeco AR005 Matte Black Cabinet Pulls Review (5-Inch)"
 meta_description: "Honest Asimerdeco AR005 review: 10-pack 5-inch matte black cabinet pulls at $32.99. Build quality, finish durability, and who should buy. Rating 4.6/5."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWXTND8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717h6iev7OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Uniform matte black finish with no visible coating defects across all 10 pieces"
   - "Stainless steel core with solid feel — no thin-wall flex when tightened"
   - "Includes both 1-inch and 1.25-inch mounting screws to fit different door thicknesses"
-cons:
+cons: 
   - "5-inch center-to-center spacing is a specific fit — measure before buying; won't work on standard 3-inch or 4-inch holes"
   - "Matte coating is durable but will show fingerprints if your kitchen gets greasy — requires occasional wipe-down"
   - "No template included; you'll need to measure and mark holes yourself"
+
 ---
 
 If you’re replacing dated brass or chrome pulls, the Asimerdeco AR005 10-pack is a solid budget move at $32.99 — that’s about $3.30 per pull. The 5-inch (128mm) center-to-center spacing is the star here: it’s the most common size for standard upper and lower kitchen cabinets, so your installation will likely be a straight swap. The matte black finish is consistent across all ten pieces — no blotching, no uneven texture, no coating drips hiding in the corners.

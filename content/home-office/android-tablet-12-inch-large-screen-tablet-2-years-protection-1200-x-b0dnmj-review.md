@@ -1,5 +1,6 @@
 ---
 
+
 title: "Android Tablet, 12 inch Large Screen Tablet, 2 Years Protect"
 seo_title: "Android Tablet 12 Inch Review: Big Screen, 2-Year Protection"
 meta_description: "Honest review of the 12-inch Android tablet with 2-year protection. Is the large screen worth it for work? Real pros, cons, and buyer verdict."
@@ -12,14 +13,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DNMJHT8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711UMhc+gdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 12-inch display gives genuine split-screen multitasking without squinting"
   - "Included 2-year protection plan covers accidental damage — rare at this price point"
   - "Expandable storage via microSD card, so you're not locked to internal capacity"
-cons:
+cons: 
   - "Processor struggles with heavy multitasking; app switching can stutter"
   - "Battery life averages 6-7 hours under real-world use, not the advertised 10 inch"
   - "No stylus or keyboard included despite the productivity positioning"
+
 
 ---
 

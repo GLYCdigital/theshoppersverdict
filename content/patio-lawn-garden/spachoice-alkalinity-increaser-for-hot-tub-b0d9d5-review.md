@@ -1,4 +1,5 @@
 ---
+
 title: "SpaChoice Alkalinity Increaser for Hot Tub"
 seo_title: "SpaChoice Alkalinity Increaser for Hot Tub Review: Verdic"
 meta_description: "Our full spachoice alkalinity increaser for hot tub review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9D57CL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MZTwBsLZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hot tub water tests low for total alkalinity (below 80 ppm), you're fighting a losing battle with pH bounce, burning eyes, and scale on the heater. The SpaChoice Alkalinity Increaser is a targeted fix that most users report resolves this in a single treatment.

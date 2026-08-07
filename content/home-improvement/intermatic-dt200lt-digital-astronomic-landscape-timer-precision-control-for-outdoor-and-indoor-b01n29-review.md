@@ -1,4 +1,5 @@
 ---
+
 title: "Intermatic DT200LT Digital Astronomic Landscape Timer - Prec"
 seo_title: "Intermatic DT200LT Digital Astronomic Landscape Ti Review"
 meta_description: "Our full intermatic dt200lt digital astronomic landscape timer - prec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01N29QGQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FrPr8IxKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Intermatic DT200LT is the workhorse of landscape lighting timers. It doesn't have an app, it won't sync to your phone, and the programming button sequence will make you consult the manual twice. But if you need reliable, astronomically-correct dusk-to-dawn control for outdoor lighting — without dependence on a Wi-Fi network — this metal-bodied timer delivers for years. Given its 4.4-star rating across 220 reviews, buyers consistently confirm it earns its place.

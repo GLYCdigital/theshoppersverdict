@@ -1,4 +1,5 @@
 ---
+
 title: "AYCHIRO Electric Conical Burr Coffee Grinder, Touchscreen Coffee Grinder for Home Use, Compact Burr Mill Grinder with 30 Grind Settings, Detachable Hopper & Coffee Container, Black"
 seo_title: "AYCHIRO Conical Burr Grinder Review: 30 Settings, $80 inch"
 meta_description: "AYCHIRO electric conical burr grinder review: touchscreen, 30 grind settings, detachable hopper. Is this $80 grinder worth it? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 28
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GYJCYF4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NqbcdQpTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "30 precise grind settings from espresso-fine to French press-coarse, controlled via an intuitive touchscreen"
   - "True conical burrs deliver consistent particle size — a massive upgrade over blade grinders at this price point"
   - "Detachable 50g hopper and container make cleaning and bean swapping genuinely easy, not a marketing gimmick"
-cons:
+cons: 
   - "Touchscreen requires a firm press — some buyers may find it less responsive than a physical dial"
   - "Small 50g hopper capacity means frequent refills if you brew for more than 2-3 people daily"
   - "No timed dosing or weight-based grinding; you'll need a scale for precise espresso shots"
+
 ---
 
 **The $80 Grinder That Punches Way Above Its Price Tag — But Read This Before Buying**

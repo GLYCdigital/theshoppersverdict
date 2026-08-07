@@ -1,4 +1,5 @@
 ---
+
 title: "Colorescience Natural Finish Pressed Foundation SPF 20 inch"
 seo_title: "Colorescience Natural Finish Pressed Foundation Review (2026)"
 meta_description: "Honest Colorescience Natural Finish Pressed Foundation SPF 20 review: coverage, shade range, wear time, and whether this mineral powder is worth the luxury price."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07QFTMNWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fZwdlylTL._SL1500_.jpg"
-pros:
+pros: 
   - "True mineral powder with 20% zinc oxide — offers genuine broad-spectrum SPF 20 that won't pill or break down under makeup"
   - "Buildable medium coverage that layers smoothly without caking, even over sunscreen or moisturizer"
   - "Compact includes a mirror and sponge — genuinely travel-ready, no extra tools needed"
-cons:
+cons: 
   - "Shade range skews fair-to-light; deeper complexions will struggle to find a match"
   - "Powder formula can emphasize dry patches or fine lines if skin isn't prepped properly"
   - "At roughly $60+, it's a splurge — drugstore mineral powders deliver similar results for a fraction of the cost"
+
 ---
 
 **The $60 Mineral Powder That Actually Respects Your Skin**

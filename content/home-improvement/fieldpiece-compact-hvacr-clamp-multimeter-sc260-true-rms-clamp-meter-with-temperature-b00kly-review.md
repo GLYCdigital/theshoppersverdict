@@ -1,4 +1,5 @@
 ---
+
 title: "Fieldpiece Compact HVACR Clamp Multimeter SC260 – True RMS"
 seo_title: "Fieldpiece SC260 Clamp Meter Review: HVAC Tech Favorite"
 meta_description: "Fieldpiece SC260 True RMS clamp multimeter review: temperature, microamps, and durability tested. See why HVAC pros rate it 4.8/5."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00KLYJG78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510EKrM0AgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Measures microamps (µA) for flame rod testing on gas furnaces — a feature most clamp meters in this class skip entirely"
   - "Compact head fits into tight electrical panels and around bundled wires where full-size clamps won't go"
   - "True RMS accuracy on non-linear loads from variable-speed motors and VFDs, not just clean sine waves"
-cons:
+cons: 
   - "No low-pass filter for VFD motor readings — readings can be skewed on heavily distorted waveforms"
   - "Backlight is adequate but not bright; struggles in direct sunlight on rooftops"
   - "Magnetic hanger is an add-on accessory, not built into the housing like some competitors"
+
 ---
 
 **Bottom Line Up Front:** The Fieldpiece SC260 is the clamp meter I'd hand to a new HVAC tech and trust them with a furnace call. It's not the cheapest, not the fanciest, but it nails the specific measurements this trade actually needs — including the microamp range for flame rectification that most meters in this bracket simply omit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung T7 Portable SSD - 1 TB - USB 3.2 Gen.2 External SSD "
 seo_title: "Samsung T7 Portable SSD - 1 TB - USB 3.2 Gen.2 Ext Review"
 meta_description: "Our full samsung t7 portable ssd - 1 tb - usb 3.2 gen.2 external ssd  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087DFLF9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1sHjPpz6fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Samsung T7 is the external drive I recommend to nearly everyone — but it's not perfect. Here's what 235 Amazon reviewers and my own testing reveal.**

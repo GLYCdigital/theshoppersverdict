@@ -1,4 +1,5 @@
 ---
+
 title: "Deyidn Bathroom Vanity Light Fixtures Over Mirror, Modern Wa"
 seo_title: "Deyidn Bathroom Vanity Light Review: Modern Wall Sconce (2026)"
 meta_description: "Deyidn bathroom vanity light fixture review: 4.3-star rated modern wall sconce. See pros, cons, sizing, and who should buy this LED-ready mirror light."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1PKDM6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iuskpMtKL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Three-light design spreads illumination evenly across a 24-36 inch mirror, eliminating the shadowing common with single sconces"
   - "Milky white glass shades diffuse light effectively — no harsh hotspots, even with bare LED bulbs"
   - "Hardwired installation with a standard junction box; mounting plate is pre-attached, cutting install time roughly in half"
-cons:
+cons: 
   - "Bulbs not included — budget another $15-25 for three dimmable LED bulbs if you want the full effect"
   - "Glass shades attach via small set screws; over-tightening can crack the glass, so patience is required during assembly"
   - "Backplate only covers a standard 4-inch junction box — older homes with larger retrofit boxes may need an additional trim plate"
+
 ---
 
 If you've ever shaved or applied makeup under a single overhead light, you know the problem: your face is half in shadow, and you're tilting your chin at awkward angles just to see what you're doing. The Deyidn three-light vanity fixture attacks that problem directly. It spreads light across the mirror's width instead of dumping it from one point, and at roughly $40-60 depending on the finish you pick, it's priced like a smart upgrade rather than a renovation.

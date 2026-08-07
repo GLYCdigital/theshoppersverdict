@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE Low Voltage Transformer with 2 Indepentdent Output"
 seo_title: "SUNVIE Low Voltage Transformer with 2 Indepentdent Review"
 meta_description: "Our full sunvie low voltage transformer with 2 indepentdent output review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYP9ZXM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M9jsqtp8L._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **SUNVIE Low Voltage Transformer Review: Two Independent Outputs, One Serious Workhorse**

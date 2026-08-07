@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Pro Type Ultra Wireless Mechanical"
 seo_title: "Razer Pro Type Ultra Wireless Mechanical Review: Verdict "
 meta_description: "Our full razer pro type ultra wireless mechanical review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09L5G5L4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Zl5N5yY7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Razer Pro Type Ultra Wireless Mechanical: The Office Keyboard That Plays Both Sides

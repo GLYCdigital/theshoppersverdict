@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl Groomsman Battery Operated Facial Hair Trimmer for Bear"
 seo_title: "Wahl Groomsman Battery Operated Facial Hair Trimme Review"
 meta_description: "Our full wahl groomsman battery operated facial hair trimmer for bear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQQPHZFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714LZGFKe5L._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct about what the Wahl Groomsman is: it’s not a beard-shaper. It’s a precision detail tool for the guy who already has a beard and wants clean lines, a sharp mustache edge, or a tidy neckline without dragging a full-size clipper into the bathroom sink. And for that specific job, it punches well above its price.

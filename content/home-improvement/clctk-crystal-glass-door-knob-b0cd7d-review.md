@@ -1,4 +1,5 @@
 ---
+
 title: "CLCTK Crystal Glass Door Knob Review: Worth It?"
 seo_title: "CLCTK Crystal Glass Door Knob Review (2026): Real Test"
 meta_description: "CLCTK crystal glass door knob review: build quality, installation, durability. See what 225 Amazon buyers say before you buy this $20-30 hardware."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CD7D2GV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7185JBb49QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine faceted crystal knob (not plastic-coated) with visible internal prisms that catch light"
   - Universal fit — works on both 2-3/8 inch " and 2-3/4 inch " backset doors with included adjustable latch
   - "Solid zinc alloy base plate and rosette; doesn't feel hollow or cheap in hand"
-cons:
+cons: 
   - Set screw requires a 3/32 inch " hex wrench that isn't included — easy to strip if you use the wrong size
   - "Crystal is glass, not shatterproof — one reviewer reported cracking during overtightening"
   - "No privacy lock version available; this is strictly a passage or closet knob"
+
 ---
 
 The CLCTK Crystal Glass Door Knob is the kind of hardware that makes visitors ask, "Where did you get that?" It's also the kind that makes you wonder if you just spent $25 on something that'll loosen in six months. I tested it, checked the 225 Amazon reviews, and here's the honest picture.

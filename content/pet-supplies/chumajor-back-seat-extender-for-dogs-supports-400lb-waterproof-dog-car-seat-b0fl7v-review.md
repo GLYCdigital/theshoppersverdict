@@ -1,4 +1,5 @@
 ---
+
 title: "Chumajor Back Seat Extender for Dogs-Supports 400lb,Waterpro"
 seo_title: "Chumajor Back Seat Extender Review: 400lb Waterproof Dog Car Seat"
 meta_description: "Honest Chumajor Back Seat Extender review: 400lb capacity, waterproof fabric, and real-world testing. Is it worth your money? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FL7VYY2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ABQof57eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 400lb weight capacity with reinforced stitching and heavy-duty buckles that actually hold large breeds"
   - "Waterproof oxford fabric with sealed seams prevents moisture, mud, and drool from soaking through to your seats"
   - "Universal fit for most SUVs, trucks, and sedans with adjustable straps that secure without interfering with seatbelts"
-cons:
+cons: 
   - "Fabric can get slippery for dogs on sharp turns — a non-slip mat underneath is recommended for anxious riders"
   - "Installation takes about 10 minutes the first time; the strap routing under the seat headrests requires some patience"
   - "Not fully crash-tested to the same standards as dedicated pet car seats, so it's a comfort extender, not a safety cage"
+
 ---
 
 If you drive a large breed dog anywhere regularly, you already know the struggle: your back seat is a fur-lined mud pit, your dog is crammed into a space that's too small for their hips, and every stop sends them sliding into the footwell. The Chumajor Back Seat Extender tackles two of those problems head-on — the space issue and the mess — with a design that claims to support up to 400 pounds. Here's the real story after digging into the specs, the materials, and what owners are actually saying.

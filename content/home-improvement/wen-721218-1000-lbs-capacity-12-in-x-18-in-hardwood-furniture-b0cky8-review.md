@@ -1,4 +1,5 @@
 ---
+
 title: "Wen 721218 1000 lbs. Capacity 12 in. x 18 in. Hardwood Furni"
 seo_title: "Wen 721218 1000 lbs. Capacity 12 in. x 18 in. Hard Review"
 meta_description: "Our full wen 721218 1000 lbs. capacity 12 in. x 18 in. hardwood furni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CKY85RHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VHEuuPqoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to shove a 400-pound workbench across a garage floor, you know the problem: most dollies under $50 are flimsy metal frames with casters that buckle the moment you load them. The Wen 721218 takes a different approach — a solid hardwood slab rated for 1,000 pounds. That's not marketing math; it's a real capacity that shows up in how the thing is built.

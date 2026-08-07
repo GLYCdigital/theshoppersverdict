@@ -1,4 +1,5 @@
 ---
+
 title: "Schleich Dinosaurs"
 seo_title: "Schleich Dinosaurs Review: Verdict | TSV"
 meta_description: "Our full schleich dinosaurs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08Z85PZJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DsDinTPTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** Schleich dinosaurs aren't cheap, but they're the closest thing to museum-quality replicas you can toss in a toy bin. If your kid is past the "chew everything" stage and actually cares about dinosaur anatomy, these are worth every penny. If they just want a pile of plastic dinos for $20, look elsewhere.

@@ -1,4 +1,5 @@
 ---
+
 title: "okcomuy Rechargeable Pen Light Flashlight IP67 Waterproof wi"
 seo_title: "okcomuy Rechargeable Pen Light Flashlight IP67 Wat Review"
 meta_description: "Our full okcomuy rechargeable pen light flashlight ip67 waterproof wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DX7177TX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YNG1zauFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The okcomuy Rechargeable Pen Light sits in a crowded category of cheap inspection lights. Most of them are disposable junk you'll toss in three months. This one, at 4.4 stars from 220 ratings, has earned a reputation for being different. Here's the real story after digging through specs, user feedback, and the design details that actually matter.

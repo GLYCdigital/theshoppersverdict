@@ -1,4 +1,5 @@
 ---
+
 title: "TUKAKA Mesh Office Chair"
 seo_title: "TUKAKA Mesh Office Chair Review: Verdict | TSV"
 meta_description: "Our full tukaka mesh office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DCJGJKW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yJ4IgAG4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The TUKAKA Mesh Office Chair delivers 80% of the ergonomic experience of a $400 chair for roughly half the price — if you're under 200 pounds and don't need a headrest.**

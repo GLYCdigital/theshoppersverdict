@@ -1,4 +1,5 @@
 ---
+
 title: "Ken's Steak House Ken's Dressing, 16 oz"
 seo_title: "Ken's Steak House Ken's Dressing, 16 oz Review: Verdict |"
 meta_description: "Our full ken's steak house ken's dressing, 16 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRCS5SSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iZDu1RW9L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Ken's Steak House Ken's Dressing, 16 oz** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

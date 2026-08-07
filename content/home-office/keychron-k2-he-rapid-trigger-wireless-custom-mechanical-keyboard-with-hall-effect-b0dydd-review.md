@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron K2 HE Rapid Trigger Wireless Custom Mechanical Keyb"
 seo_title: "Keychron K2 HE Rapid Trigger Wireless Custom Mecha Review"
 meta_description: "Our full keychron k2 he rapid trigger wireless custom mechanical keyb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYDD3N25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ioq+AEmlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the Keychron K2 HE is not just another mechanical keyboard with a fancy name slapped on it. The "HE" stands for Hall Effect, and that's the whole story here. These switches use magnetic sensors instead of physical metal contacts, which fundamentally changes how the keyboard feels and performs. At $129 (check current pricing — it fluctuates), you're getting technology that was locked in $300+ enthusiast boards just a year ago.

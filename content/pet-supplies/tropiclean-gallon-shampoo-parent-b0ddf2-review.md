@@ -1,4 +1,5 @@
 ---
+
 title: "TropiClean Gallon Shampoo - Parent"
 seo_title: "TropiClean Gallon Shampoo - Parent Review: Verdict | TSV"
 meta_description: "Our full tropiclean gallon shampoo - parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDF2KQCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+1ac6Pp2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The math on a gallon of pet shampoo is simple: you're either a multi-pet household, a groomer, or someone about to watch a third of this bottle go to waste. TropiClean's gallon jug sits firmly in the "pro" column for the first two groups — and here's the honest breakdown for everyone else.**

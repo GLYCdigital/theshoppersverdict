@@ -1,4 +1,5 @@
 ---
+
 title: "Jandy 2 to 2-1/2-Inch Positive Seal NeverLube Valve"
 seo_title: "Jandy 2 to 2-1/2-Inch Positive Seal NeverLube Valv Review"
 meta_description: "Our full jandy 2 to 2-1/2-inch positive seal neverlube valve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B005AP4J48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TBkak2sHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a frozen pool valve in July, you already know why the Jandy NeverLube exists. This is the valve that pool pros install when they're tired of callbacks — and the 4.7-star average across 235 ratings suggests homeowners agree. But at this price point, you deserve to know exactly what you're paying for before you swap out that crusty old diverter.

@@ -1,4 +1,5 @@
 ---
+
 title: "BATYUE iPad 9th Generation Case - Protective Case for 10.2 i"
 seo_title: "BATYUE iPad 9th Gen Case Review: Is It Worth It? (2026)"
 meta_description: "BATYUE iPad 9th generation case review: rugged protection, built-in pencil holder, and kickstand tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GS9KVDCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tNHKApwKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts for the 9th gen's speakers, camera, and charging port — no blocked access or muffled audio"
   - "Integrated kickstand locks into two viewing angles, stable enough for lap use without wobble"
   - "Built-in Apple Pencil holder keeps the stylus secured and charged without adding bulk"
-cons:
+cons: 
   - "Heavier than slim folio cases — adds noticeable weight for tablet-only users"
   - "Only fits 9th generation (10.2-inch) — won't work with 8th gen or newer 10.9-inch models"
+
 ---
 
 The iPad 9th generation is the last of Apple's home-button tablets, and it's still a workhorse for students, field workers, and anyone who wants a cheap secondary screen. But that classic aluminum body? It's slippery, and it dents if you look at it wrong. The BATYUE case (around $20 on Amazon) steps in with a hybrid hard-shell/soft-frame design that's clearly built for real life, not just desk duty.

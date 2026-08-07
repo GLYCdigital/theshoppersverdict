@@ -1,4 +1,5 @@
 ---
+
 title: "Moen 84346SRN Karis One-Handle Lavatory Faucet, Brushed Nick"
 seo_title: "Moen 84346SRN Karis One-Handle Lavatory Faucet, Br Review"
 meta_description: "Our full moen 84346srn karis one-handle lavatory faucet, brushed nick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSQM562Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qj-VUFJUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Moen 84346SRN Karis isn't the flashiest faucet on the shelf, and that's exactly the point. This is a workhorse bathroom fixture that skips the gimmicks and delivers what actually matters: reliable operation, a finish that survives real life, and an install that won't eat your entire Saturday. With a 4.7 average across 235 Amazon ratings, it's clearly earning its keep in bathrooms nationwide.

@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER 20V MAX Cordless Edger Lawn Kit, 1.5 Ah Battery"
 seo_title: "BLACK+DECKER 20V MAX Cordless Edger Review (2026): Worth It?"
 meta_description: "Honest BLACK+DECKER 20V MAX Cordless Edger review: performance, battery life, edge quality, and who should buy. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B09VD1735L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E4d03MOaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "7.5-inch blade cuts a clean, defined edge along sidewalks and driveways without throwing debris into the lawn"
   - "Cordless freedom with a 20V MAX motor that handles average suburban edging tasks without bogging down"
   - "Tool-less depth adjustment lets you switch from shallow to deep edging in seconds"
-cons:
+cons: 
   - "1.5 Ah battery is small—buyers report 15-20 minutes of runtime max, not enough for large yards"
   - "No spare battery or charger included in the base kit, so you'll need to budget for extras"
+
 ---
 
 Let me be blunt: a 3.6-star average on 180 ratings means this edger has a split personality. Some owners swear by it; others want to throw it in a dumpster. After digging through buyer feedback and the spec sheet, here's what you actually need to know about the BLACK+DECKER 20V MAX Cordless Edger.

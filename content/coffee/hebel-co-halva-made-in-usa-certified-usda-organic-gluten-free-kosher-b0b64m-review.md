@@ -1,4 +1,5 @@
 ---
+
 title: "HEBEL & CO Halva | Made in USA | Certified USDA Organic, Glu"
 seo_title: "HEBEL & CO Halva | Made in USA | Certified USDA Or Review"
 meta_description: "Our full hebel & co halva | made in usa | certified usda organic, glu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B64MMZSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KimtFv1-L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about halva: most of what you find on Amazon is either a stale brick from a bulk importer or a cloying, sugar-bomb version that tastes like sweetened cardboard. HEBEL & CO is trying to change that with a small-batch, USDA Organic take on the ancient sesame confection. After tasting it, I understand the 4.3-star rating — and I also understand why it's not a perfect 5.

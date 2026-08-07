@@ -1,4 +1,5 @@
 ---
+
 title: "Pompeian Mild"
 seo_title: "Pompeian Mild Review: Verdict | TSV"
 meta_description: "Our full pompeian mild review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CMXXT6D7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ySnCWV4AL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pompeian Mild Review: A No-Nonsense Coffee Maker That Gets the Basics Right

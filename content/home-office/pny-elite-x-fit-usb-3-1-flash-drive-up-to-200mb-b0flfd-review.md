@@ -1,4 +1,5 @@
 ---
+
 title: "PNY Elite-Xâ„¢ Fit USB 3.1 Flash Drive â€“ Up to 200MB/s Rea"
 seo_title: "PNY Elite-Xâ„¢ Fit USB 3.1 Flash Drive â€“ Up to 2 Review"
 meta_description: "Our full pny elite-xâ„¢ fit usb 3.1 flash drive â€“ up to 200mb/s rea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLFDM26J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xlrKgxa1L._SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about flash drives: most of them are lying about their speeds. The PNY Elite-X Fit claims 200MB/s reads, and I've tested enough drives to be skeptical. But here's the thing—this one actually delivers.

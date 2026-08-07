@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Asad Bourbon for Unisex Eau de Parfum Spray, 3.4 Oun"
 seo_title: "Lattafa Asad Bourbon for Unisex Eau de Parfum Spra Review"
 meta_description: "Our full lattafa asad bourbon for unisex eau de parfum spray, 3.4 oun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQJBMZVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nuj0MY91L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Lattafa has built a reputation for punching above its weight class, and Asad Bourbon continues that streak — but with a twist. This isn't another generic oud bomb. It's a warm, boozy, vanilla-forward composition that sits somewhere between a cozy evening scent and a confident statement piece. At 3.4 ounces, you're getting serious juice for the money. But does it actually deliver? After testing it across workdays, evenings out, and a few sweaty commutes, here's the honest breakdown.

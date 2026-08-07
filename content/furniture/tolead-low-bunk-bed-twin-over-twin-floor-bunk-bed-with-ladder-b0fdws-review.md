@@ -1,4 +1,5 @@
 ---
+
 title: "TOLEAD Low Bunk Bed Twin Over Twin, Floor Bunk Bed with Ladd"
 seo_title: "TOLEAD Low Bunk Bed Twin Over Twin, Floor Bunk Bed Review"
 meta_description: "Our full tolead low bunk bed twin over twin, floor bunk bed with ladd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDWSQG5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vCTdLvoPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Standard bunk beds are a vertical game of risk. The top bunk hovers five feet off the ground, which is fine for a ten-year-old but terrifying for a six-year-old. TOLEAD solves that equation with a low-profile design that puts the bottom mattress on the floor and keeps the top bunk at roughly half the traditional height. That single design decision makes this bed a practical choice for families with younger kids who still want the bunk bed experience without the orthopedic ward visit.

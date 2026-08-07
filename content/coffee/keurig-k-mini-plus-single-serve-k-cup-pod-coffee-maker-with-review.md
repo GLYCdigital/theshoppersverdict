@@ -1,16 +1,17 @@
 ---
+
 title: "Keurig K-Mini Plus Single Serve K-Cup Pod Coffee Maker, with 6 to 12oz Brew Size, Stores up to 9 K-Cup Pods, Travel Mug Friendly, Misty Green"
 seo_title: "Keurig K-Mini Plus Single Serve K-Cup Pod Coffee M Review"
 meta_description: "Our full keurig k-mini plus single serve k-cup pod coffee maker, with 6 to 12oz brew size, stores up to 9 k-cup pods, travel mug friendly, misty green. Read "
 slug: "keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review"
 image_alt: "Keurig K-Mini Plus Single Serve K-Cup Pod Coffee Maker, with 6 to 12oz Brew Size, Stores up to 9 K-Cup Pods, Travel Mug "
-keywords:
+keywords: 
   - "keurig kmini plus review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the Keurig K-Mini Plus Single Serve K-Cup Pod Coffee Maker, with 6 to 12oz Brew Size, Stores up to 9 K-Cup Pods, Travel Mug Friendly, Misty Green?"
     answer: "Users consistently praise the strong performance that meets expectations. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,13 +24,14 @@ review_count: 39272
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09RQ4Z2X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y11sa0e0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong performance that meets expectations"
   - "Easy to set up and use right out of the box"
   - "Solid build quality that holds up to regular use"
-cons:
+cons: 
   - "Larger footprint than expected"
   - "Setup can be confusing for some users"
+
 ---
 
 The K-Mini Plus solves a very specific problem: you want real coffee from a real machine, but your counter is the size of a cutting board. At 4.5 inches wide and 12.1 inches deep, this is one of the narrowest single-serve brewers Keurig makes. The Misty Green color is a nice break from the sea of black and stainless steel appliances — it reads more sage than mint in person, which makes it easier to blend with warmer kitchen tones.

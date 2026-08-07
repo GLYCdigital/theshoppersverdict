@@ -1,4 +1,5 @@
 ---
+
 title: "RÅŒZ Air Thickening Spray - Volumizing Spray for Fuller, Thi"
 seo_title: "RÅŒZ Air Thickening Spray - Volumizing Spray for F Review"
 meta_description: "Our full råœz air thickening spray - volumizing spray for fuller, thi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D72CRHLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KQD7OjiXL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the Scandinavian-minimalist packaging and the "air" marketing. The RÅŒZ Air Thickening Spray is a 4.2-out-of-5 product that does exactly one thing well: it gives fine, limp hair visible lift at the roots without turning it into a crunchy, product-laden mess. But at this price point, "good" isn't quite enough — let's break down whether it's *your* good.

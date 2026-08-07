@@ -1,4 +1,5 @@
 ---
+
 title: "U Shaped Cloud Couch Modular Sectional Sofa with Deep Seat"
 seo_title: "U Shaped Cloud Couch Modular Sectional Sofa with D Review"
 meta_description: "Our full u shaped cloud couch modular sectional sofa with deep seat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G66NXP5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-+k7k9hGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # U Shaped Cloud Couch Modular Sectional Sofa with Deep Seat Review: Is the "Cloud" Hype Real?

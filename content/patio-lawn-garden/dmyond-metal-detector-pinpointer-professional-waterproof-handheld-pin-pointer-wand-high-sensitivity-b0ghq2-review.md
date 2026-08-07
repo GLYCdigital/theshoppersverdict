@@ -1,24 +1,26 @@
 ---
+
 title: "Dmyond Metal Detector Pinpointer - Professional Waterproof H"
 seo_title: "Dmyond Pinpointer Review: Waterproof Handheld Detector (2026)"
 meta_description: "Honest Dmyond Metal Detector Pinpointer review: waterproof build, sensitivity, battery life, and real-world performance for coin, relic, and gold prospecting."
 slug: "dmyond-metal-detector-pinpointer-professional-waterproof-handheld-pin-pointer-wand-high-sensitivity-b0ghq2-review"
 image_alt: "Dmyond waterproof handheld pinpointer metal detector with LED light and belt holster"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHQ292LG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ecQ3PXHBL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "IP68 waterproof rating — fully submersible to 10 feet for creek and lake hunting"  
   - "Three-tone audio with vibration feedback and adjustable sensitivity for pinpointing deep targets"  
   - "Includes belt holster, lanyard, and USB-C charging cable — ready out of the box"  
-cons:  
+cons: 
   - "Sensitivity dial is finicky — maxed out causes false signals on mineralized soil"  
   - "No replaceable battery; internal rechargeable degrades over time"  
   - "LED light is dim compared to competitors like the Garrett Pro-Pointer AT"
+
 ---
 
 # Dmyond Metal Detector Pinpointer: The Budget Pinpointer That Punches Above Its Weight?

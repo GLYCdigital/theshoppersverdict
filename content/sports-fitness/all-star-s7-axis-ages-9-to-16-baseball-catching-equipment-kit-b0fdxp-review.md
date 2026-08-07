@@ -1,4 +1,5 @@
 ---
+
 title: "All-Star S7 Axis Ages 9 to 16 - Baseball Catching Equipment"
 seo_title: "All-Star S7 Axis Catcher's Kit Review (Ages 9-16)"
 meta_description: "All-Star S7 Axis catcher's gear for ages 9-16: Full kit breakdown, fit notes, durability concerns, and who should buy. Honest 4.6/5 review."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDXPTC53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SxiHR3TcL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Full Axis protection system covers collarbone, sternum, and floating ribs with dual-density foam"
   - "Genuine leather shell on chest protector and leg guards holds up to a full season of travel ball abuse"
   - "Adjustable torso harness and removable leg guard wings let you dial in fit as your kid grows"
-cons:
+cons: 
   - "At $480, it's a serious investment — most rec-league families won't need this level of gear"
   - "Helmet sizing runs snug; kids at the upper end of the 9-16 range may need to try before buying"
+
 ---
 
 If your kid has decided catching is *the* position — not just the spot they got stuck in during rec league — the All-Star S7 Axis kit is the gear upgrade they'll feel the first time a 70 mph fastball rings off the chest protector. This is a legitimate pro-grade setup scaled down for players ages 9 to 16, and it costs like it. But for families with a serious young backstop, it's worth understanding exactly what that $480 gets you.

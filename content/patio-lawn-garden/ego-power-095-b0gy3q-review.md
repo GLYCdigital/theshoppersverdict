@@ -1,4 +1,5 @@
 ---
+
 title: "EGO Power+ 095: A Deep Dive into Cordless Performance"
 seo_title: "EGO Power+ 095 Review: Is It Worth the Hype? (2026)"
 meta_description: "Read our honest EGO Power+ 095 review. We break down performance, battery life, and value. See if this 4.7-star rated tool belongs in your garage."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY3Q3LX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vW5hPB2PL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Arc Lithium battery delivers consistent power without the fade you feel with older cordless tools"
   - "Brushless motor is genuinely quiet — you can hold a conversation while it runs"
   - "Weather-resistant build handles morning dew and light rain without hiccups"
-cons:
+cons: 
   - "Premium price point — you're paying for the EGO ecosystem, not just this tool"
   - "Battery and charger sold separately on some listings — check before you buy"
+
 ---
 
 Let's cut through the noise. The EGO Power+ 095 isn't just another cordless tool — it's a statement that battery technology has finally caught up with gas-powered performance. With 235 ratings averaging 4.7 stars, the crowd is clearly impressed. But is it the right investment for your lawn? Here's what I found after digging into the specs and real owner feedback.

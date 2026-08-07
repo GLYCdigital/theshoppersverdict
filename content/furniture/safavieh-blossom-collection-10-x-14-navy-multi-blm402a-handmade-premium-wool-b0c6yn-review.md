@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Blossom Collection 10' x 14' Navy/Multi BLM402A Han"
 seo_title: "SAFAVIEH Blossom Collection 10' x 14' Navy/Multi B Review"
 meta_description: "Our full safavieh blossom collection 10' x 14' navy/multi blm402a han review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6YNL42F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1J0mrSOqAS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SAFAVIEH Blossom Collection 10' x 14' Navy/Multi BLM402A Han Review: A Hand-Knotted Statement Piece With Real Tradeoffs

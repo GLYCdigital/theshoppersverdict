@@ -1,4 +1,5 @@
 ---
+
 title: "Lab Balance, A&D Weighing EK-1200i NTEP, Legal For Trade Eve"
 seo_title: "Lab Balance, A&D Weighing EK-1200i NTEP, Legal For Review"
 meta_description: "Our full lab balance, a&d weighing ek-1200i ntep, legal for trade eve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00AWT3H4U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J+-mU8BiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're weighing coffee beans for espresso one day and portioning 800 grams of flour for sourdough the next, you already know the problem with most kitchen scales. They drift. They lie. The cheap ones give you 12.4 grams one minute and 12.1 the next. The A&D EK-1200i is not that scale. This is a genuine NTEP-certified legal-for-trade balance, which means it's passed federal standards for commercial accuracy — the kind of certification a farmer's market vendor or a pharmacy compounding counter relies on. For a home cook, that's overkill in the best possible way.

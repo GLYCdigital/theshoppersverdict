@@ -1,4 +1,5 @@
 ---
+
 title: "Farmland Traditions Filler Free Dogs Love Premium Jerky Trea"
 seo_title: "Farmland Traditions Jerky Treats Review: Filler-Free Duck & Carrot"
 meta_description: "Honest Farmland Traditions filler-free jerky treats review: ingredient quality, picky dog results, texture, and value. See if these 4.6-star treats work."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD44R4LG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iEPAhh19L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single-source duck and carrot recipe with zero fillers, corn, wheat, or soy — clean label you can actually verify"
   - "Soft-chew texture works for senior dogs and puppies; doesn't shatter into sharp shards like brittle jerky"
   - "Resealable bag preserves freshness; treats stay pliable for weeks after opening"
-cons:
+cons: 
   - "Small bag size (6 oz) goes fast with medium and large breeds — value math depends on your dog's size"
   - "Strong duck aroma lingers; sensitive noses may find the smell off-putting indoors"
   - "Premium pricing per ounce compared to mass-market jerky; budget shoppers may balk"
+
 ---
 
 # Farmland Traditions Filler Free Dogs Love Premium Jerky Trea Review: Real Duck, Real Carrots, Zero Marketing Fluff

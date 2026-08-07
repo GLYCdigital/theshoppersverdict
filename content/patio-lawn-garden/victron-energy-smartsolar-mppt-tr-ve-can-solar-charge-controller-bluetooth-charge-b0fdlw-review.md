@@ -1,4 +1,5 @@
 ---
+
 title: "Victron Energy SmartSolar MPPT Tr VE. Can Solar Charge Contr"
 seo_title: "Victron Energy SmartSolar MPPT Tr VE. Can Solar Ch Review"
 meta_description: "Our full victron energy smartsolar mppt tr ve. can solar charge contr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FDLWQ6ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z92ehDlrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the hype. The Victron SmartSolar MPPT 100/30 is the controller that van-lifers and off-grid veterans swear by—but at $542, it's not a casual purchase. The 3.7-star average across 185 ratings tells a more complicated story than the YouTube hype suggests.

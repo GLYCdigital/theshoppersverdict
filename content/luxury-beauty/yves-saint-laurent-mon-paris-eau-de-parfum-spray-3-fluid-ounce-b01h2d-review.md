@@ -1,4 +1,5 @@
 ---
+
 title: "Yves Saint Laurent Mon Paris Eau de Parfum Spray, 3 Fluid Ou"
 seo_title: "Yves Saint Laurent Mon Paris Eau de Parfum Spray,  Review"
 meta_description: "Our full yves saint laurent mon paris eau de parfum spray, 3 fluid ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H2D7G72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51p7ouM7xtL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Yves Saint Laurent Mon Paris Eau de Parfum Review: The Romantic Perfume That Earns Its Hype**

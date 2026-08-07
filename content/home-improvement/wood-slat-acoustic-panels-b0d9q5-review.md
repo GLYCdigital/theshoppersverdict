@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Slat Acoustic Panels"
 seo_title: "Wood Slat Acoustic Panels Review: Verdict | TSV"
 meta_description: "Our full wood slat acoustic panels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9Q5P8N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qigUc3dyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "acoustic panels" on Amazon are 1/4-inch foam wrapped in fabric that does nothing for echo and looks like a dorm room. These wood slat panels are different, but they're not perfect either. Here's what 225 buyers and my own research found.

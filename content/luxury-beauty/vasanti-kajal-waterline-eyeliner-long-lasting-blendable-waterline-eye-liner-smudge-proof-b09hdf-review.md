@@ -1,4 +1,5 @@
 ---
+
 title: "VASANTI Kajal Waterline Eyeliner | Long-Lasting, Blendable W"
 seo_title: "VASANTI Kajal Waterline Eyeliner | Long-Lasting, B Review"
 meta_description: "Our full vasanti kajal waterline eyeliner | long-lasting, blendable w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09HDFTBGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+t6NfMMoL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The waterline is the most unforgiving real estate in makeup. One blink, one tear, one humid commute — and your liner either stays put or slides into your under-eye crease like it's on vacation. VASANTI's Kajal Waterline Eyeliner claims to be the exception. At 4.2 stars across 210 Amazon ratings, it's clearly doing something right. But is it the waterline hero shoppers are looking for, or just another overhyped kohl pencil? I've dug through the specs, the customer feedback, and the formula claims to give you the real story.

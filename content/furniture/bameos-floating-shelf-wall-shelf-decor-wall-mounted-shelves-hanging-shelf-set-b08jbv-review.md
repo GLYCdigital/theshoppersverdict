@@ -1,4 +1,5 @@
 ---
+
 title: "BAMEOS Floating Shelf,Wall Shelf,Decor Wall Mounted Shelves,"
 seo_title: "BAMEOS Floating Shelf Review: Sturdy Wall Mount Shelves"
 meta_description: "BAMEOS floating shelf review: 4.4-star wall-mounted decor shelves tested for weight, installation ease, and finish quality. Find out if they're worth it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08JBVNJP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8109-U2HAJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden mounting bracket system gives a true floating look with no visible hardware"
   - "Multiple size options in the set allow flexible wall arrangements"
   - "Solid engineered wood construction holds up to 20+ lbs when properly anchored"
-cons:
+cons: 
   - "Mounting hardware feels basic; you'll want drywall anchors for anything heavier than a photo frame"
   - "Finish is matte and can show scuffs from hard objects—use felt pads under items"
+
 ---
 
 The BAMEOS floating shelf set is the answer to that awkward blank wall above your couch, entryway table, or bathroom. With a 4.4-star average across 220 ratings, it's clearly doing something right—but let's talk about whether it's right for *you* before you hit buy.

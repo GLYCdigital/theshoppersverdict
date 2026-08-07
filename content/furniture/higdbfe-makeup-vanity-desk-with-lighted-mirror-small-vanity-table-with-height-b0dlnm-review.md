@@ -1,4 +1,5 @@
 ---
+
 title: "HIGDBFE Makeup Vanity Desk with Lighted Mirror, Small Vanity"
 seo_title: "HIGDBFE Makeup Vanity Desk with Lighted Mirror, Sm Review"
 meta_description: "Our full higdbfe makeup vanity desk with lighted mirror, small vanity review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLNMMFM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aJn8Pkk7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most vanity desks under $150 are wobbly, particleboard nightmares that look great in the listing photos and fall apart by month three. The HIGDBFE Makeup Vanity Desk with Lighted Mirror is not that. It's not perfect, but it earns its 4.4-star rating from 220 Amazon shoppers — and I'll tell you exactly where it shines and where it cuts corners.

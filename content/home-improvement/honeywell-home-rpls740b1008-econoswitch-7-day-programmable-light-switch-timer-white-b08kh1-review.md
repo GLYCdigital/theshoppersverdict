@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell Home RPLS740B1008 Econoswitch 7-Day Programmable L"
 seo_title: "Honeywell Home RPLS740B1008 Econoswitch 7-Day Prog Review"
 meta_description: "Our full honeywell home rpls740b1008 econoswitch 7-day programmable l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KH12FRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Okwn8KXYL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got outdoor floodlights that stay on until you remember to flip them off, or a porch light that’s been burning since 2019, the Honeywell Home Econoswitch RPLS740B1008 is the kind of product that quietly pays for itself. It’s a 7-day programmable switch timer that doesn’t try to be a smart home gadget—no Wi-Fi, no app, no voice control. Just solid, set-and-forget scheduling for lights, fans, or pumps.

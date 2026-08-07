@@ -1,23 +1,25 @@
 ---
+
 title: "DiVLMT Snorkeling Gear for Adults with Fins Scuba Diving Gea"
 seo_title: "DiVLMT Snorkeling Gear Review: Adult Fins & Mask (2026)"
 meta_description: "Honest DiVLMT snorkeling gear review: mask, fins, and snorkel tested for fit, comfort, and leak resistance. See pros, cons, and who should buy."
 slug: "divlmt-snorkeling-gear-for-adults-with-fins-scuba-diving-gear-adult-professional-b0b12v-review"
 image_alt: "DiVLMT adult snorkeling gear set with fins, mask, and snorkel laid out on sandy beach"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B12V9RKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v24YcbjML._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tempered glass mask lens — no fogging after 30+ minutes in 72°F water"  
   - "Fins use a full-foot pocket with adjustable heel strap; fits US 8–13 without pinch points"  
   - "Dry-top snorkel with a purge valve that actually clears in one forceful exhale"  
-cons:  
+cons: 
   - "Fins are on the stiff side — ankle flexibility suffers for beginners doing frog kicks"  
   - "Mask strap is a bit thin; needs a neoprene cover for all-day wear"
+
 ---
 
 If you’re buying your first snorkel set, the DiVLMT kit looks like a steal on paper: mask, dry-top snorkel, and fins for less than the cost of a single rental day at most resorts. But does it hold up past the first dip? I’ve tested it in open water and read through 225 Amazon ratings (4.5 stars) to give you the straight story.

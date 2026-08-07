@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton 20 Amp, 120/277 Volt Decora Plus Rocker Single-Pole "
 seo_title: "Leviton 20 Amp, 120/277 Volt Decora Plus Rocker Si Review"
 meta_description: "Our full leviton 20 amp, 120/277 volt decora plus rocker single-pole  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRN6N88S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bBtPAzoML._SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most homeowners grab whatever switch is on the shelf at the big-box store. That's fine for a 15-amp bedroom circuit. But when you're wiring a shop, a commercial space, or a heavy-duty appliance circuit, you need something with real guts. The Leviton 20 Amp Decora Plus Rocker Single-Pole is that switch. And with a 4.7-star average across 235 ratings, it's not just me saying so.

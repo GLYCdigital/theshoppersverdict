@@ -1,4 +1,5 @@
 ---
+
 title: "iClimb Ultralight Compact Camping Folding Table with Carry B"
 seo_title: "iClimb Ultralight Compact Camping Folding Table wi Review"
 meta_description: "Our full iclimb ultralight compact camping folding table with carry b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0838DY75Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ML4YiFmLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled a cheap folding table out of a car trunk—splintered particleboard, wobbly legs, a carry bag that tears on first use—you’ll understand why the iClimb Ultralight Compact Camping Folding Table exists. This is a table designed by someone who actually camps. And at 2.2 pounds, it’s the kind of gear you stop noticing you’re carrying. That’s the point.

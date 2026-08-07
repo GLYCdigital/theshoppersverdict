@@ -1,4 +1,5 @@
 ---
+
 title: "dervea 20 Pack Ribbon Dancing Wands Party Favors for Kids, R"
 seo_title: "dervea 20 Pack Ribbon Dancing Wands Review: Worth It?"
 meta_description: "dervea 20 Pack Ribbon Dancing Wands review: 4.8-star rated party favors. Are they durable? Read our honest take on quality, value, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09GFCGH7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lUfj8VDDL._AC_SL1028_.jpg"
-pros:
+pros: 
   - "20 wands per pack means you can cover a full classroom or birthday party without buying multiple sets"
   - "Ribbons are stitched securely to the stick — no mid-dance pop-offs reported in the first few uses"
   - "Lightweight plastic handle is smooth, no splinters or sharp edges for small hands"
-cons:
+cons: 
   - "Ribbons are thin polyester that can fray or tangle if kids get aggressive with them"
   - "Wands are single-use party favors, not a durable toy — expect them to bend after a few rough sessions"
+
 ---
 
 If you're planning a birthday party, classroom activity, or summer camp craft session, you've probably seen these ribbon wands clogging your search results. The dervea 20-pack sits at a 4.8-star average across 240 ratings, which is impressive for a party favor. After digging through what buyers actually say, here's the real breakdown.

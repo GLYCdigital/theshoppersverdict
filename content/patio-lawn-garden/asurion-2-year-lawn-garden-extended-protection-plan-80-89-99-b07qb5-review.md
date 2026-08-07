@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year Lawn & Garden Extended Protection Plan ($80 -"
 seo_title: "ASURION 2-Year Lawn & Garden Plan Review: Worth It?"
 meta_description: "Honest ASURION 2 Year Lawn & Garden Extended Protection Plan review. Is the $80-$89.99 warranty worth it? See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07QB558QX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Xr76m2WLL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on equipment up to $500 — including mowers, trimmers, and chainsaws"
   - "Claims handled through Asurion's 24/7 phone and online portal; most approved claims ship replacement parts or issue store credit within days"
   - "No deductibles or hidden fees — the $80-$89.99 price is the total cost, not a per-claim charge"
-cons:
+cons: 
   - "Does not cover normal wear items like blades, belts, or batteries — the parts that actually fail most often"
   - "Requires proof of purchase and original manufacturer warranty registration; a hassle if you bought the equipment secondhand or as a gift"
   - "Some buyers report slow claim resolution (2-3 weeks) when parts need to be shipped directly from the manufacturer"
+
 ---
 
 Let's be blunt: extended warranties are usually a racket. But when you're dropping $400 on a riding mower or $250 on a gas string trimmer, a $80–$90 protection plan that covers mechanical breakdowns for two extra years isn't automatically a bad deal. Here's the real breakdown.

@@ -1,23 +1,25 @@
 ---
+
 title: "Bushnell Edge Disc Golf Laser Rangefinder - Accurate Range F"
 seo_title: "Bushnell Edge Disc Golf Rangefinder Review (2026): Worth It?"
 meta_description: "Bushnell Edge Disc Golf Rangefinder review: accurate to 0.5 ft, 6x optics, slope mode. See pros, cons, and who should buy it before you spend."
 slug: "bushnell-edge-disc-golf-laser-rangefinder-accurate-range-finding-for-disc-golf-b08pvz-review"
 image_alt: "Bushnell Edge Disc Golf Laser Rangefinder held over a disc golf basket on a sunny course"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08PVZ3834/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uwunrHgPL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "0.5-foot accuracy with dedicated disc golf mode — no need to guess between flag and basket"  
   - "6x magnification with fully multi-coated optics stays clear in low light or shade"  
   - "Slope compensation mode gives adjusted distance for elevation changes, not just line-of-sight"  
-cons:  
+cons: 
   - "Lacks a magnetic mount or tripod thread, so you'll need a strap or pocket for mid-round access"  
   - "Battery life is solid but not exceptional — plan to carry a spare CR2 if you play tournaments"
+
 ---
 
 **The Bushnell Edge is the rangefinder that disc golf actually needed — not a hunting gadget retrofitted with a disc mode.** If you've been pacing off throws or squinting at a course map, this $200-ish device (check current pricing) removes the guesswork in a way that changes how you play.

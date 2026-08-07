@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco A19 GU24 LED Bulb Multicolor and Multisize"
 seo_title: "Sunco A19 GU24 LED Bulb Multicolor and Multisize Review: "
 meta_description: "Our full sunco a19 gu24 led bulb multicolor and multisize review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C4W56W9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YmNPDxANL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a GU24 socket and realized you can't just screw in any old bulb, you know the frustration. Sunco's A19 GU24 LED Bulb in Multicolor and Multisize is aimed squarely at that problem — and it mostly hits the mark. With a 4.7-star average across 235 ratings, this is one of the better options for upgrading those awkward twist-and-lock fixtures without replacing the entire housing. Here's the breakdown you actually need.

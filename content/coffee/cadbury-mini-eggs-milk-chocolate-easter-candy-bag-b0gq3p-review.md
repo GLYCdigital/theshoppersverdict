@@ -1,4 +1,5 @@
 ---
+
 title: "CADBURY MINI EGGS Milk Chocolate, Easter Candy Bag"
 seo_title: "Cadbury Mini Eggs Review: Easter Candy Worth Buying?"
 meta_description: "Cadbury Mini Eggs review: crunchy shell, creamy milk chocolate. See if this Easter candy bag lives up to the hype before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GQ3PJ2BF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sBMhjj0JL._SL1500_.jpg"
-pros:
+pros: 
   - "Crunchy sugar shell gives way to genuinely creamy Cadbury milk chocolate — the texture contrast is the whole point"
   - "The pastel speckled shell looks festive and holds up well in transit; minimal breakage or cracking in the bag"
   - "Portion-controlled bite size makes it dangerously easy to eat a handful without realizing it — which buyers seem to love"
-cons:
+cons: 
   - "The sugar shell is noticeably sweet; if you prefer dark chocolate or less sugary candy, this will be cloying"
   - "Bag sizes vary by season and seller — some buyers report receiving a smaller bag than expected for the price"
   - "Chocolate can soften or bloom if stored warm; not ideal for shipping in hot climates without refrigeration"
+
 ---
 
 Let me be upfront: this is a candy review, not a coffee review. But if you're reading this, you already know that. You're here because Easter is coming, or you've got a craving, and you want to know if the hype around Cadbury Mini Eggs is justified. The short answer: mostly yes, with a few caveats worth knowing.

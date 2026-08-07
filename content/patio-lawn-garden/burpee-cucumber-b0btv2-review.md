@@ -1,4 +1,5 @@
 ---
+
 title: "Burpee Cucumber"
 seo_title: "Burpee Cucumber Review: Worth Planting in 2026?"
 meta_description: "Honest Burpee Cucumber review: germination rates, yield, disease resistance, and real buyer feedback. Is this seed worth your garden space?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BTV222KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817o+MR1G3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High germination rate — most buyers report 90%+ sprout success within 7-10 days"
   - "Strong disease resistance package, particularly against powdery mildew and cucumber mosaic virus"
   - "Consistent, heavy yields of 8-9 inch slicing cucumbers over a long harvest window"
-cons:
+cons: 
   - "Seeds come in a small packet — some gardeners found 25-30 seeds insufficient for large plantings"
   - "Vines are vigorous and need substantial trellising; not ideal for cramped container gardens"
+
 ---
 
 **Burpee Cucumber Review: The $5 Seed Packet That Actually Delivers**

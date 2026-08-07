@@ -1,4 +1,5 @@
 ---
+
 title: "DWIL Tub Paint, Tub and Tile Refinishing Kit with Tools and"
 seo_title: "DWIL Tub Paint Review: Is This Refinishing Kit Worth It?"
 meta_description: "DWIL Tub Paint refinishing kit review: coverage, durability, application tips, and honest downsides. See if this DIY tub and tile kit delivers."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CPFJH9ML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H9ZsuGW8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kit includes rollers, brushes, and sanding pads so you don't need to buy separate applicators"
   - "Self-leveling formula dries to a smooth, glossy finish that rivals professional reglazing"
   - "Good adhesion on fiberglass and ceramic tile when surface prep is done correctly"
-cons:
+cons: 
   - "Strong chemical odor that requires heavy ventilation for 24-48 hours after application"
   - "Surface prep is non-negotiable — do it poorly and the paint will peel within months"
+
 ---
 
 Refinishing a bathtub used to mean either paying $500+ for a professional or crossing your fingers with a cheap rattle can. The DWIL Tub Paint and Tile Refinishing Kit sits in the middle, and at 4.3 stars across 215 ratings, it's clearly earning its keep for a lot of DIYers. But is it the right call for your bathroom? Let's get into it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Brightown Vintage LED Edison Bulbs, 6W, Equivalent 60W, High"
 seo_title: "Brightown Vintage LED Edison Bulbs Review: 6W, 60W Equivalent"
 meta_description: "Honest Brightown Vintage LED Edison Bulbs review: 6W (60W equiv), 750 lumens, warm dimmable glow. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK6YFM26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mhQjHSF-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True vintage look with actual filament-style LED array, not a printed fake — visible glow pattern is authentic"
   - "Pulls only 6W while matching a 60W incandescent's brightness at 750 lumens, so running four bulbs costs pennies a day"
   - "Dimmable down to 10% without flicker or hum, per multiple verified buyer reports"
-cons:
+cons: 
   - Large ST64 bulb profile (2.36 inch " diameter) can stick out awkwardly in shallow flush-mount fixtures or tight glass globes
   - "Warm 2200K temperature is noticeably amber — if you want neutral white for task lighting, this isn't it"
+
 ---
 
 If you're chasing that Edison bulb aesthetic but refuse to pay the electric bill that comes with real incandescents, the Brightown Vintage LED is the compromise that actually works. At 6W with 750 lumens of output, it delivers genuine 60W-equivalent brightness — not the dim, decorative-only glow most "vintage" LEDs settle for. That's the headline. Here's the rest.

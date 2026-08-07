@@ -1,4 +1,5 @@
 ---
+
 title: "Akxomel Nightstand, Fluted Night Stand with Charging Station"
 seo_title: "Akxomel Fluted Nightstand Review: Charging Station Built In"
 meta_description: "Akxomel fluted nightstand with charging station reviewed: build quality, USB ports, storage capacity, and whether it's worth your bedroom upgrade."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDKRS59B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DEPvpsCwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fluted panel design adds architectural texture without taking up extra floor space"
   - "Built-in charging station delivers real utility — AC outlet plus dual USB ports on the back panel"
   - "Assembly takes roughly 20 minutes with cam locks and labeled parts, no power tools required"
-cons:
+cons: 
   - "Only one drawer means limited concealed storage; the open shelf collects dust visibly"
   - "Charging ports sit on the back edge, so cables can't reach if the unit is flush against the wall"
   - "MDF construction shows edge wear if bumped during moves; not a solid-wood piece"
+
 ---
 
 **A nightstand that charges your phone without looking like a charging station.** That's the Akxomel fluted nightstand in a nutshell. At 13.8 inches deep, it's compact enough for a small bedroom but tall enough (roughly 20 inches) to sit level with most mattresses. The fluted front panel gives it that boutique-hotel look — think ribbed texture, soft curves, and a matte finish that doesn't scream "budget furniture."

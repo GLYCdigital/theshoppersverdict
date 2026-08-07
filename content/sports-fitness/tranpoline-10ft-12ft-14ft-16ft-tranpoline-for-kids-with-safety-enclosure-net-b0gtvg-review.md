@@ -1,4 +1,5 @@
 ---
+
 title: "Tranpoline 10FT 12FT 14FT 16FT Tranpoline for Kids with Safe"
 seo_title: "Tranpoline 10FT 12FT 14FT 16FT Tranpoline for Kids Review"
 meta_description: "Our full tranpoline 10ft 12ft 14ft 16ft tranpoline for kids with safe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTVGBXWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DKjujdh2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Backyard Trampoline That Actually Prioritizes Safety — With a Few Assembly Headaches**

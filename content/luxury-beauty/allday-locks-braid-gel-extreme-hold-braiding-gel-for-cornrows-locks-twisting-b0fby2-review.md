@@ -1,4 +1,5 @@
 ---
+
 title: "AllDay Locks Braid Gel Extreme Hold - Braiding Gel for Cornr"
 seo_title: "AllDay Locks Braid Gel Extreme Hold Review (2026) | Honest"
 meta_description: "AllDay Locks Braid Gel Extreme Hold reviewed: Does it tame edges, lay cornrows flat, and hold locks? Read our honest 4.6-star verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBY24GKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hrc5JslvL._SL1500_.jpg"
-pros:
+pros: 
   - "Flake-free hold that lasts 3–5 days even on coarse 4C hair"
   - "Water-based formula rinses out cleanly without sticky buildup"
   - "Jar packaging lets you scoop precise amounts — no wasted product"
-cons:
+cons: 
   - "Small 8oz jar runs out fast if you do full-head cornrows weekly"
   - "Extreme hold means hair feels stiff — not ideal for soft, natural movement"
+
 ---
 
 Let's be blunt: most braiding gels lie about "extreme hold." They flake by hour three, leave white residue, or turn your edges into a crunchy mess. The AllDay Locks Braid Gel actually delivers on the label — but it comes with tradeoffs you need to know before you buy.

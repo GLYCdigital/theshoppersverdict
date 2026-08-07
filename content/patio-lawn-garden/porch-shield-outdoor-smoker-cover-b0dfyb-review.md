@@ -1,4 +1,5 @@
 ---
+
 title: "Porch Shield Outdoor Smoker Cover"
 seo_title: "Porch Shield Outdoor Smoker Cover Review: Verdict | TSV"
 meta_description: "Our full porch shield outdoor smoker cover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFYB9CPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71poS4-x2zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve watched a $300 smoker turn into a rusted, faded mess after one rainy season, you know the drill: cheap covers rip at the corners, pool water on top, and flap off in the first decent gust. The Porch Shield Outdoor Smoker Cover aims to end that cycle — and with a 4.8-star average across 240 ratings, it’s clearly doing something right.  

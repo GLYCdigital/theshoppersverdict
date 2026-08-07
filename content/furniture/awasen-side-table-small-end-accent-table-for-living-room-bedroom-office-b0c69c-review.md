@@ -1,4 +1,5 @@
 ---
+
 title: "AWASEN Side Table, Small End Accent Table for Living Room Be"
 seo_title: "AWASEN Side Table Review: Small Accent Table for Living Room (2026)"
 meta_description: "AWASEN side table review: Is this small end accent table worth it? We break down build quality, real customer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C69CKXCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sgCuop8UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy 5-minute assembly with all tools included — no drill required"
   - "Sturdy X-frame design holds up to regular daily use without wobble"
   - "Compact footprint fits tight spaces like narrow hallways or beside a recliner"
-cons:
+cons: 
   - "Small surface area won't hold much beyond a drink, book, and phone"
   - "Some buyers report the wood finish is lighter than product photos suggest"
+
 ---
 
 Let's be honest: the market is drowning in cheap accent tables that wobble, scratch your floors, and fall apart in six months. The AWASEN Side Table isn't trying to reinvent the wheel — but it might be the rare budget pick that actually holds up. With a 4.6 average across 229 ratings, this little end table has earned its place in thousands of living rooms. Here's the real story.

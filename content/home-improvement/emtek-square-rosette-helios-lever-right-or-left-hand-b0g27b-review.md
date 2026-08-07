@@ -1,4 +1,5 @@
 ---
+
 title: "Emtek Square Rosette, Helios Lever, Right or Left Hand"
 seo_title: "Emtek Helios Lever Review: Square Rosette Door Handle"
 meta_description: "Honest Emtek Square Rosette Helios Lever review: build quality, installation, finish durability, and who should buy this premium lever set."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G27BX6M1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31IHrrZue5L._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid zinc die-cast construction with a substantial 2.4 lb weight — feels like a $200+ lever, not a builder-grade import"
   - "Reversible handing (left or right) simplifies ordering and installation — no need to specify handedness upfront"
   - "Clean square rosette profile pairs well with modern, transitional, and contemporary interior doors"
-cons:
+cons: 
   - Installation requires a 2-1/8 inch " bore hole and 1 inch " edge bore — not a drop-in replacement for all existing door prep
   - "Finish options vary in durability; unlacquered brass and oil-rubbed bronze will patina and require maintenance"
+
 ---
 
 **The Emtek Square Rosette with Helios Lever is the door hardware equivalent of a tailored suit — it fits beautifully, feels substantial, and makes everything around it look slightly underdressed.** But at this price point, you're paying for precision engineering and design, not convenience. Here's what you need to know before you commit.

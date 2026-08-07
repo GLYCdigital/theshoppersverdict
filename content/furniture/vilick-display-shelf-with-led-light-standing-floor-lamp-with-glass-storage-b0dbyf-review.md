@@ -1,4 +1,5 @@
 ---
+
 title: "VILICK Display Shelf with LED Light Standing Floor Lamp with"
 seo_title: "VILICK Display Shelf with LED Light Standing Floor Review"
 meta_description: "Our full vilick display shelf with led light standing floor lamp with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBYF41XN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B8Yo65QpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this a lamp with shelves, or a shelf with a lamp? The honest answer: it's both, and that's exactly why it works.**

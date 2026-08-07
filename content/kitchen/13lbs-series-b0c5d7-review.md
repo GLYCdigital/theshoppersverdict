@@ -1,4 +1,5 @@
 ---
+
 title: "13Lbs Series"
 seo_title: "13Lbs Series Review: Worth It? Real Buyer Insights"
 meta_description: "13Lbs Series review: 4.1-star kitchen gadget with 204 ratings. Real pros, cons, and who should buy. Honest verdict before you spend."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C5D7L2SP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KkJ7rT-7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers consistent results across multiple cooking methods without requiring constant attention"
   - "Compact footprint fits standard countertops while still handling family-sized portions"
   - "Intuitive controls with clear presets that actually match the cooking times printed on food packaging"
-cons:
+cons: 
   - "Initial setup requires a full cleaning cycle before first use — adds 20 minutes to unboxing"
   - "Exterior surface shows fingerprints and smudges easily, especially on darker finishes"
   - "Accessory tray is dishwasher-safe but warps slightly if placed on the bottom rack"
+
 ---
 
 The 13Lbs Series has been floating around Amazon with a solid 4.1-star average across 204 ratings, which tells me one thing: real people are using this thing daily, and most of them are satisfied. But "satisfied" isn't the same as "perfect," and after digging through the feedback and the specs, here's what you actually need to know before adding this to your cart.

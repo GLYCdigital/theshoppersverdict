@@ -1,5 +1,6 @@
 ---
 
+
 title: "FBSPORT Inflatable Bounce House Double Slide,Water Slide Par"
 seo_title: "FBSPORT Inflatable Bounce House Review: Double Slide Water Park"
 meta_description: "FBSPORT Inflatable Bounce House with double slide and splash pool: honest review of durability, setup, and safety. Is this 4.6-star water park worth it?"
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBGQRVDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+4WSJvYbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade 840D Oxford cloth with double-stitched seams holds up to aggressive play"
   - "Integrated splash pool and two slides offer three distinct play zones for under $300 inch"
   - "Blower motor runs continuously for hours without overheating — no annoying auto-shutoff"
-cons:
+cons: 
   - "Setup requires two adults and roughly 30 minutes; stakes alone won't hold it on hot pavement"
   - "Water slide surface gets slick fast — younger kids need spotting until they learn the landing zone"
   - "No carrying bag included; the deflated unit folds into a bulky 40-pound bundle"
+
 
 ---
 

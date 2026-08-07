@@ -1,24 +1,26 @@
 ---
+
 title: "96FT Filament Outdoor String Lights, with Vintage Edison 270 inch  "
 seo_title: "96FT Filament Outdoor String Lights Review (2026): Worth It?"
 meta_description: "Honest 96FT Filament Outdoor String Lights review: brightness, durability, dimmer, and real buyer feedback. See if these vintage Edison bulbs fit your patio."
 slug: "96ft-filament-outdoor-string-lights-with-vintage-edison-2700k-plastic-bulbs-dimmable-b0bwf4-review"
 image_alt: "96FT outdoor filament string lights with vintage Edison plastic bulbs draped across a backyard patio"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BWF4PGPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hy8ZY6OXL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 96-foot run covers large patios or pergolas in one pass — no daisy-chaining multiple sets"  
   - "2700K warm glow with real filament-style plastic bulbs that won't shatter on concrete"  
   - "Inline dimmer switch actually works; lets you drop from party-bright to mood-lighting"  
-cons:  
+cons: 
   - "Plastic bulbs look slightly less 'glass-like' up close than pricier vintage sets"  
   - "Bulbs are non-replaceable — if one burns out, you're replacing the whole strand"  
   - "Dimmer only works when bulbs are in the 'on' position — no remote or smart control"
+
 ---
 
 If you're shopping for patio lights, the first question isn't "which brand" — it's "how long is your space?" Most string lights top out at 48 or 60 feet, forcing you to buy two sets, find a second outlet, or deal with a visible splice in the middle. That's the problem this 96-foot set from Filament Outdoor solves outright. As shown in the product image, one continuous strand drapes across a full backyard pergola with zero breaks.

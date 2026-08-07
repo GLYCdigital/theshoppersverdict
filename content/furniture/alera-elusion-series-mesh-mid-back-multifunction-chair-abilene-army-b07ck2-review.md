@@ -1,4 +1,5 @@
 ---
+
 title: "Alera Elusion Series Mesh Mid-Back Multifunction Chair, Abil"
 seo_title: "Alera Elusion Series Mesh Chair Review: Is It Worth It?"
 meta_description: "Honest Alera Elusion Series Mesh Mid-Back Multifunction Chair review: build quality, comfort, lumbar support, and who should buy it. 4.1/5 rating."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07CK2MLCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SVkp2VclL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Breathable mesh back with contoured lumbar support that actually adjusts — rare at this price point"
   - "Multifunction tilt mechanism with lockable positions and adjustable tension for a custom recline"
   - "Assembles in under 20 minutes with minimal tools; most buyers report no stripped bolts or alignment issues"
-cons:
+cons: 
   - "Seat cushion is firm and relatively thin (about 3 inches) — not ideal for 8+ hour days without a seat pad"
   - "Fixed arms are non-adjustable; taller users (6'+) may find them slightly low for proper elbow support"
+
 ---
 
 The Alera Elusion Series Mesh Mid-Back Chair is the office chair equivalent of a solid used sedan: unglamorous, unpretentious, and remarkably dependable for what it costs. With over 204 ratings holding a steady 4.1-star average, it's not the flashiest option in the mesh chair category, but it's consistently showing up in home offices and dorm rooms for good reason. Let's break down whether it's the right seat for your backside.

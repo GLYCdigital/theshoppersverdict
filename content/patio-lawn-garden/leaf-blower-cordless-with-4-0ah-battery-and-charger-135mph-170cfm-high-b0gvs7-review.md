@@ -1,4 +1,5 @@
 ---
+
 title: "Leaf Blower Cordless with 4.0Ah Battery and Charger, 135MPH "
 seo_title: "Leaf Blower Cordless with 4.0Ah Battery and Charge Review"
 meta_description: "Our full leaf blower cordless with 4.0ah battery and charger, 135mph  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVS7LSZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SIJ9qPK0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've tested a dozen cordless leaf blowers under $150. Most of them are gutless wonders that move dry oak leaves but surrender the moment things get damp. This one—the 135MPH/170CFM model with a 4.0Ah battery—is different. It actually has teeth.

@@ -1,4 +1,5 @@
 ---
+
 title: "VYNIXUS Eyelashes"
 seo_title: "VYNIXUS Eyelashes Review: Verdict | TSV"
 meta_description: "Our full vynixus eyelashes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DZHF6MVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819Ayk-CWqL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "luxury" lashes are just drugstore pairs in a prettier box. The VYNIXUS Eyelashes actually justify the premium positioning — mostly. After wearing these for a full 12-hour workday plus dinner, here's what I found.

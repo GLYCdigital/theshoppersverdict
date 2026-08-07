@@ -1,4 +1,5 @@
 ---
+
 title: "Plustek PS186 Desktop Document Scanner, with 50-Pages Auto D"
 seo_title: "Plustek PS186 Desktop Document Scanner, with 50-Pa Review"
 meta_description: "Our full plustek ps186 desktop document scanner, with 50-pages auto d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B074TCWHYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QHEUY09cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Plustek PS186 doesn't look flashy. It's a matte black box with a 50-page automatic document feeder perched on top, and it sits quietly on your desk doing one job: turning paper into digital files. But for a small office drowning in paperwork, that one job matters more than 95% of the features on a $600 multifunction printer. Let me tell you what it actually does, where it stumbles, and whether it deserves a spot next to your keyboard.

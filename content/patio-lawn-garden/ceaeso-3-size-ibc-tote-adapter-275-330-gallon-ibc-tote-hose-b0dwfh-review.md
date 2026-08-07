@@ -1,4 +1,5 @@
 ---
+
 title: "Ceaeso 3-Size IBC Tote Adapter, 275-330 Gallon IBC Tote Hose"
 seo_title: "Ceaeso IBC Tote Adapter Review: 3-Size Hose Kit"
 meta_description: "Ceaeso 3-size IBC tote adapter review: Does the 275-330 gallon hose kit deliver leak-free connections? Testing durability, fit, and value."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWFHHBNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cBzNE9SpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three adapter sizes (2-inch, 3-inch, buttress) cover both standard and metric IBC threads without needing extra adapters"
   - "Heavy-duty polypropylene construction with reinforced sealing rings that hold up under gravity-fed water pressure without cracking"
   - "Includes a 5-foot hose with camlock-style fittings that actually seals — no Teflon tape required for most installations"
-cons:
+cons: 
   - "Hose is stiffer than expected in cold weather, making tight-radius routing frustrating below 50°F"
   - "The 2-inch adapter can be tight on some aftermarket IBC valves with slightly thicker threads — requires firm pressure to seat fully"
+
 ---
 
 # Is This the Only IBC Adapter Kit You'll Ever Need?

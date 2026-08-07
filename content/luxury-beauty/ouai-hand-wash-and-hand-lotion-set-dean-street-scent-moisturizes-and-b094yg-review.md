@@ -1,4 +1,5 @@
 ---
+
 title: "OUAI Hand Wash and Hand Lotion Set, Dean Street Scent - Mois"
 seo_title: "OUAI Hand Wash and Hand Lotion Set, Dean Street Sc Review"
 meta_description: "Our full ouai hand wash and hand lotion set, dean street scent - mois review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B094YGC5DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41yJlo19wNL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're paying luxury prices for hand soap and lotion. The question is whether OUAI's Dean Street set justifies that premium. After digging through 190 ratings and the actual ingredient lists, here's the honest breakdown.

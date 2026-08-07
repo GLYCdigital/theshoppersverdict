@@ -1,4 +1,5 @@
 ---
+
 title: "KCO Modern Black Globe Pendant Lamp 1-Light Mid Century Bras"
 seo_title: "KCO Modern Black Globe Pendant Lamp 1-Light Mid Ce Review"
 meta_description: "Our full kco modern black globe pendant lamp 1-light mid century bras review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7VMKJSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xPb5IVckL._AC_SL1414_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're hunting for that mid-century modern look without paying Restoration Hardware prices, the KCO Modern Black Globe Pendant is the kind of fixture that makes you do a double-take at the price tag. At 4.5 stars across 225 ratings, it's clearly resonating with buyers—but let's dig into whether it's actually worth your ceiling space.

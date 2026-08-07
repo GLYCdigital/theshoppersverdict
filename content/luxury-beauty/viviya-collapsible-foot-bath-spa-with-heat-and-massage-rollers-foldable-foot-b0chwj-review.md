@@ -1,4 +1,5 @@
 ---
+
 title: "VIVIYA Collapsible Foot Bath Spa with heat and Massage Rolle"
 seo_title: "VIVIYA Collapsible Foot Bath Spa with heat and Mas Review"
 meta_description: "Our full viviya collapsible foot bath spa with heat and massage rolle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CHWJBSZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716Lc0kM98L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about the foot spa market: most options are either cheap plastic buckets that crack by month three, or $300 motorized loungers that become expensive towel racks. The VIVIYA Collapsible Foot Bath Spa tries to split the difference at a mid-range price point, and after digging through 215 ratings and the spec sheet, here’s the real story.

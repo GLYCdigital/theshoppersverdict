@@ -1,4 +1,5 @@
 ---
+
 title: "Home Security Door Lock Reinforcement - Child Proof Locks fo"
 seo_title: "Home Security Door Lock Reinforcement - Child Proo Review"
 meta_description: "Our full home security door lock reinforcement - child proof locks fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CG12XCFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kCtWLPt7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you've got a toddler who's discovered the joy of opening doors, this $15-ish gadget is the cheapest peace of mind you'll buy this year. But it's not the right solution for every door in your house.

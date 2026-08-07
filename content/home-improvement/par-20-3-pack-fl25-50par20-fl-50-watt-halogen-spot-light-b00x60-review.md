@@ -1,4 +1,5 @@
 ---
+
 title: "Par 20 3 Pack FL25 50PAR20/FL 50 Watt Halogen Spot Light Bul"
 seo_title: "Par 20 3 Pack FL25 50PAR20/FL 50 Watt Halogen Spot Review"
 meta_description: "Our full par 20 3 pack fl25 50par20/fl 50 watt halogen spot light bul review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00X603LX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vsr-T9h+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still running halogen PAR20 bulbs, you already know the drill: warm light, instant brightness, and a beam that cuts through a room like a knife. This 3-pack from FL25 is a straightforward, no-nonsense replacement for recessed lighting, track heads, or display spots. At 4.6 stars across 229 ratings, it's clearly doing something right. But is it worth buying in 2026 when LED options are everywhere? Let's break it down.

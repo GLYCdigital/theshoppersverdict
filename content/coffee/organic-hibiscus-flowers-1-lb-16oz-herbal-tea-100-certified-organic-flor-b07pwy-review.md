@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Hibiscus Flowers - 1 lb (16oz) - Herbal Tea - 100% C"
 seo_title: "Organic Hibiscus Flowers - 1 lb (16oz) - Herbal Te Review"
 meta_description: "Our full organic hibiscus flowers - 1 lb (16oz) - herbal tea - 100% c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PWYLQ3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Znt0ut82L._SL1024_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1-Pound Hibiscus Bag That Actually Tastes Like Summer**

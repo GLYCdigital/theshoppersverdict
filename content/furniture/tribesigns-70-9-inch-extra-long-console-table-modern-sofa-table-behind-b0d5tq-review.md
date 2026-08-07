@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns 70.9 Inch Extra Long Console Table, Modern Sofa T"
 seo_title: "Tribesigns 70.9 Inch Extra Long Console Table, Mod Review"
 meta_description: "Our full tribesigns 70.9 inch extra long console table, modern sofa t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5TQRCHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kpCgPwJiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your sofa backs up to a wall with dead space behind it, you're wasting roughly six square feet of prime real estate. The Tribesigns 70.9-inch console table turns that void into a functional staging area — and at 4.7 stars across 235 ratings, it's clearly working for most buyers. But "most" isn't "all," and the industrial style won't suit every living room.

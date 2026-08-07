@@ -1,4 +1,5 @@
 ---
+
 title: "Egg Swing Chair with Stand"
 seo_title: "Egg Swing Chair with Stand Review: Worth It in 2026?"
 meta_description: "Honest egg swing chair with stand review: build quality, comfort, assembly, and who should buy. Real buyer feedback on this 4.1-star patio chair."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FYQFJ3L8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dDlJavcjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Steady A-frame stand that holds up on uneven patio surfaces without wobble"
   - "Full 360-degree swivel with smooth, quiet rotation — no grinding or squeaking"
   - "Generous weight capacity around 330 lbs, so it fits larger adults comfortably"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with two people; the directions are mostly diagrams with tiny text"
   - "Cushion is thinner than the photos suggest — you may want a separate seat pad for long lounging"
+
 ---
 
 If you've been eyeing one of those egg-shaped hanging chairs for your patio, you already know the market is flooded with flimsy options that buckle after one season. This one, hovering at 4.1 stars across 204 ratings, actually holds its own. Here's what you need to know before you click buy.

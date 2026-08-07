@@ -1,4 +1,5 @@
 ---
+
 title: "Macrout Plastic Storage Shed, Waterproof Outdoor Storage Cab"
 seo_title: "Macrout Plastic Storage Shed, Waterproof Outdoor S Review"
 meta_description: "Our full macrout plastic storage shed, waterproof outdoor storage cab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTHLMVT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yIvtInjpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The Macrout plastic storage shed delivers exactly what it promises — a weatherproof, compact storage solution for under $200 that won't rot, rust, or need painting. For the price, it's a solid value, but it's not without a few quirks.**

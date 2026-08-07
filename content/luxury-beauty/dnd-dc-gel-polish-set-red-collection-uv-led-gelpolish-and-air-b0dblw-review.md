@@ -1,4 +1,5 @@
 ---
+
 title: "DND DC Gel Polish Set, Red Collection, UV/LED GelPolish and"
 seo_title: "DND DC Red Gel Polish Set Review: 6 Shades Tested (2026)"
 meta_description: "Honest DND DC Red Gel Polish Set review: brush quality, pigmentation, wear time, and cure results on natural nails. See swatches and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBLWVBX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YMTppoxhL._SL1500_.jpg"
-pros:
+pros: 
   - "Six full-size 0.5 oz bottles with a true red spectrum — from fire-engine scarlet to deep oxblood — not just six variations of the same shade"
   - "Self-leveling formula that smooths out brush strokes in seconds, even on problem cuticle areas"
   - "Pigment is dense enough that most shades reach full opacity in two thin coats, saving curing time"
-cons:
+cons: 
   - "Brush is on the thinner side compared to salon brands like Gelish — requires a steady hand for wide nail beds"
   - "No color names printed on the bottles, only numbers; you'll need the box insert to know which is which"
+
 ---
 
 # DND DC Gel Polish Set, Red Collection: The Real Story Behind That 4.6-Star Rating

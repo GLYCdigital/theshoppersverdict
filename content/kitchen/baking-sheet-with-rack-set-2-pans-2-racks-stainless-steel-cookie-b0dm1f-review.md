@@ -1,4 +1,5 @@
 ---
+
 title: "Baking Sheet with Rack Set (2 Pans 2 Racks), Stainless Steel"
 seo_title: "Baking Sheet with Rack Set Review: Stainless Steel Pans Worth It?"
 meta_description: "Honest review of the 2-pack stainless steel baking sheet with rack set. Heavy-gauge construction, warp resistance, and real buyer feedback. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM1FJQYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wAR7iKvrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge stainless steel resists warping even at high roasting temperatures"
   - "Racks fit snugly with raised feet that keep food elevated for proper air circulation"
   - "Non-reactive surface won't leach chemicals or react with acidic ingredients like tomatoes"
-cons:
+cons: 
   - "Food sticks more easily than nonstick-coated pans without parchment or oil"
   - "Hand-wash only despite what you might expect from stainless steel"
+
 ---
 
 ## Two Pans, Two Racks, Zero Guesswork

@@ -1,4 +1,5 @@
 ---
+
 title: "HOME EC Premium Stainless Steel Sea Salt and Pepper Grinder "
 seo_title: "HOME EC Premium Stainless Steel Sea Salt and Peppe Review"
 meta_description: "Our full home ec premium stainless steel sea salt and pepper grinder  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWR3K5BP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F44X7RsFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOME EC Premium Stainless Steel Sea Salt and Pepper Grinder: Real-World Test

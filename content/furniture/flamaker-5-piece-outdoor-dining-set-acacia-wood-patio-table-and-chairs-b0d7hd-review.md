@@ -1,4 +1,5 @@
 ---
+
 title: "Flamaker 5 Piece Outdoor Dining Set Acacia Wood Patio Table"
 seo_title: "Flamaker 5-Piece Acacia Wood Dining Set Review (2026)"
 meta_description: "Honest Flamaker 5-piece acacia wood outdoor dining set review: build quality, comfort, assembly, and whether it's worth your patio budget."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D7HD976Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bbcwfiFTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid acacia wood construction with visible grain — feels like real furniture, not particleboard"
   - Table has a built-in umbrella hole (fits standard 1.5–2 inch " poles) and a lower storage shelf
   - "Chairs are genuinely comfortable for a wood set — contoured seats and angled backs, no cushions needed"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes with two people; bolts are easy to strip if you overtighten"
   - "Acacia arrives with a light oil finish — plan to seal it within the first season or it will gray"
   - "No armrests on chairs; taller users may find the seat depth slightly shallow"
+
 ---
 
 If you're shopping for a wood patio set under serious budget pressure, the Flamaker 5-piece acacia dining set is the one that keeps showing up in your search results. Here's what you need to know before you click buy.

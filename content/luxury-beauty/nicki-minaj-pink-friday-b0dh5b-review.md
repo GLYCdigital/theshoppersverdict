@@ -1,4 +1,5 @@
 ---
+
 title: "Nicki Minaj Pink Friday"
 seo_title: "Nicki Minaj Pink Friday Review: Verdict | TSV"
 meta_description: "Our full nicki minaj pink friday review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DH5BBXZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811glu2nbDL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: I've tested dozens of celebrity fragrances, and most are forgettable cash-grabs. Nicki Minaj Pink Friday isn't one of them. With 229 Amazon ratings holding a 4.6-star average, this is a legit contender in the budget-luxury fragrance space — but it's not for everyone.

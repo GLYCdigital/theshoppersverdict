@@ -1,4 +1,5 @@
 ---
+
 title: "Pencil Eraser for Kids"
 seo_title: "Pencil Eraser for Kids Review: Verdict | TSV"
 meta_description: "Our full pencil eraser for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CDKV28DP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e8Nssl1mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever peeled chunks of dried eraser off a math worksheet, you know the struggle. Most kids' erasers either smear graphite into a gray haze or shred the paper with aggressive rubbing. This set, which sits at a solid 4.7 stars from 235 Amazon shoppers, takes a different approach — and it mostly works.

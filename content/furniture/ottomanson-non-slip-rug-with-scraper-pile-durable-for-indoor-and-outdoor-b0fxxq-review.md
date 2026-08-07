@@ -1,4 +1,5 @@
 ---
+
 title: "Ottomanson Non Slip Rug with Scraper Pile Durable for Indoor"
 seo_title: "Ottomanson Non Slip Rug with Scraper Pile Durable  Review"
 meta_description: "Our full ottomanson non slip rug with scraper pile durable for indoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FXXQ3PFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a rug that lives near an entryway, mudroom, or garage door, you already know the problem: pretty rugs get destroyed, and functional mats look like they belong at a construction site. The Ottomanson Non Slip Rug with Scraper Pile splits the difference — and for most high-traffic indoor spots, it's the smarter buy.

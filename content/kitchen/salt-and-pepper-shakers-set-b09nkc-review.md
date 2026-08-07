@@ -1,4 +1,5 @@
 ---
+
 title: "Salt and Pepper Shakers Setâ€¦"
 seo_title: "Salt and Pepper Shakers Setâ€¦ Review: Verdict | TSV"
 meta_description: "Our full salt and pepper shakers setâ€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09NKCJBKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DDeMQSoxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: These shakers solve the two problems that make most salt and pepper sets worthless—clogging and rusting—without looking like a lab experiment on your table. At 4.7 stars from 235 ratings, they're doing something right.**

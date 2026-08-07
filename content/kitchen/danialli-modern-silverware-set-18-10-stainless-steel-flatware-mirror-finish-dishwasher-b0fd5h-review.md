@@ -1,4 +1,5 @@
 ---
+
 title: "Danialli Modern Silverware Set – 18/10 Stainless Steel Flatware"
 seo_title: "Danialli Modern Silverware Set Review – 18/10 Steel (2026)"
 meta_description: "Danialli Modern Silverware Set review: 18/10 stainless steel flatware with mirror finish. Is it dishwasher-safe and worth buying? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD5H1DBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j1v8LtQ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 18/10 stainless steel construction — resists rust, pitting, and corrosion far better than budget 18/0 flatware"
   - "Mirror-polished finish that holds up to daily dishwasher cycles without spotting or dulling"
   - "Weighted, balanced handles give a premium feel without being uncomfortably heavy"
-cons:
+cons: 
   - "Knives are not serrated — they struggle with crusty bread or thick-skinned produce"
   - "No storage case included; loose flatware can clatter in drawers without a divider tray"
+
 ---
 
 # Danialli Modern Silverware Set Review: Premium 18/10 Flatware That Actually Delivers

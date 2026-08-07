@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Single Monitor Stand Review"
 seo_title: "Amazon Basics Monitor Stand Review (2026): Worth It?"
 meta_description: "Amazon Basics Single Monitor Stand review: sturdy steel build, ergonomic height, 18K+ ratings. Is this $24 stand worth it? Find out now."
@@ -11,14 +12,15 @@ review_count: 18048
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DHK5DHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b30XjHGbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel construction that actually holds 22 lbs without flex or wobble"
   - "Raises your screen a full 4.7 inches — puts the top bezel at eye level for most users"
   - "Tool-free assembly with pre-installed screws; done in under 90 seconds"
-cons:
+cons: 
   - "Fixed height — no adjustment options once assembled"
   - "Open-bottom design leaves cables visible unless you zip-tie them"
   - "11.8-inch depth may overhang smaller desks"
+
 ---
 
 Let's be honest: most $25 monitor stands are flimsy plastic junk that wobble every time you type. The Amazon Basics Single Monitor Stand isn't that. With 18,048 ratings holding a 4.4-star average, it's one of the most-reviewed monitor risers on Amazon — and for good reason.

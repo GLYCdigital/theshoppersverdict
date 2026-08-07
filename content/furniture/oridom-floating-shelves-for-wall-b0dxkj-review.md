@@ -1,4 +1,5 @@
 ---
+
 title: "oridom Floating Shelves for Wall"
 seo_title: "oridom Floating Shelves for Wall Review: Verdict | TSV"
 meta_description: "Our full oridom floating shelves for wall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXKJKDCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SnONFBEiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **oridom Floating Shelves for Wall Review: Do They Earn Their 4.4 Stars?**

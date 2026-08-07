@@ -1,4 +1,5 @@
 ---
+
 title: "Celestial Aurora Adjustable Bed Frame Parent Review"
 seo_title: "Celestial Aurora Adjustable Bed Frame Review: Worth It?"
 meta_description: "Celestial Aurora adjustable bed frame review: real pros, cons, and buyer feedback. See if this 4.5-star frame delivers on comfort and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSPT117P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YAGqiD5sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Zero-gravity preset with dual-zone massage motors that run quietly enough for light sleepers"
   - "Under-bed USB ports and LED strip lighting come standard — no separate accessory purchase needed"
   - "Tool-free assembly takes under 30 minutes per most buyer reports, with all parts labeled in the box"
-cons:
+cons: 
   - "No wall-clearance feature — headboard mounts require precise placement or the frame will scrape when lifting"
   - "Weight capacity tops out at 600 lbs, which may exclude larger couples or those with heavy memory foam toppers"
+
 ---
 
 ## The Adjustable Bed Frame That Actually Respects Your Wallet

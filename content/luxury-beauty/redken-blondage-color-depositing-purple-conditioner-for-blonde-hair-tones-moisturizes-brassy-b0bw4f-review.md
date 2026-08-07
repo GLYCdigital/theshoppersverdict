@@ -1,4 +1,5 @@
 ---
+
 title: "Redken Blondage Color Depositing Purple Conditioner For Blon"
 seo_title: "Redken Blondage Color Depositing Purple Conditione Review"
 meta_description: "Our full redken blondage color depositing purple conditioner for blon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BW4FWH5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NkM-yDrJL._SL1400_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most purple conditioners are a compromise. You either get strong toning that leaves your hair feeling like straw, or decent conditioning that does almost nothing to kill brass. The Redken Blondage Color Depositing Purple Conditioner tries to end that trade-off — and for the most part, it succeeds.

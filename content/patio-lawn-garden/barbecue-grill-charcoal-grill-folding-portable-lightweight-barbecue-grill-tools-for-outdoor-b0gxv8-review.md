@@ -1,4 +1,5 @@
 ---
+
 title: "Barbecue Grill, Charcoal Grill Folding Portable Lightweight"
 seo_title: "Barbecue Grill Charcoal Folding Portable Review (2026)"
 meta_description: "Honest review of the folding portable charcoal barbecue grill. Lightweight, easy transport, decent heat output—but small cooking area. See if it's right for you."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXV841SR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Folds flat to roughly briefcase size — fits in a car trunk or even a large backpack without dominating the space"
   - "Legs lock securely open and shut with a simple mechanism that doesn't require tools or fiddly pins"
   - "Heat output is genuinely respectable for the size; sears burgers and chops without taking forever to come up to temp"
-cons:
+cons: 
   - "Cooking surface is about 15 x 12 inches — enough for 4 burgers max, not a family cookout"
   - "Thin steel body runs hot on the outside; you'll want gloves when adjusting the grill or moving it mid-cook"
   - "No integrated ash catcher — coals fall through the bottom vents, so place it on gravel or a fire pad, not your deck"
+
 ---
 
 If you've ever hauled a full-size kettle grill to a campsite or tailgate, you know the pain: the awkward shape, the rattling grates, the way it eats trunk space. This folding charcoal grill from B0GXV841SR attacks that problem head-on. It collapses to roughly the size of a briefcase, weighs just over 8 pounds, and sets up in under a minute. The question isn't whether it's portable — it's whether it actually cooks well enough to justify the compromise. After digging through 200 ratings and the spec sheet, here's the honest picture.

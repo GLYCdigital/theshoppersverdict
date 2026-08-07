@@ -1,4 +1,5 @@
 ---
+
 title: "chirvana Ergonomic Office Chair, Big and Tall Mesh Home Desk"
 seo_title: "chirvana Ergonomic Office Chair Review: Big & Tall Mesh"
 meta_description: "Read our honest chirvana ergonomic office chair review for big & tall users. Mesh back, lumbar support, 400-lb capacity. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DLB4NFNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fazrpB4nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 400-pound weight capacity with a reinforced steel frame and heavy-duty gas lift — rare at this price point"
   - "Adjustable lumbar support with 2-inch vertical travel and 3-depth settings, not just a fixed bump"
   - "Breathable 3D mesh back that actually keeps your back cool during 8+ hour sessions"
-cons:
+cons: 
   - "Seat cushion runs firm — lighter users (under 180 lbs) may find it unyielding for the first few weeks"
   - "Assembly takes 25-35 minutes; the armrest bolts are finicky to align without a second person"
   - "No seat-slider adjustment — tall users with long femurs may want more seat depth than offered"
+
 ---
 
 If you're over 6'2" or north of 250 pounds, you already know the struggle: most "ergonomic" chairs buckle, wobble, or bottom out within six months. The chirvana Ergonomic Office Chair enters that arena with a 400-pound weight rating and a welded steel frame — and after digging through 200 Amazon ratings and the spec sheet, here's the real story.

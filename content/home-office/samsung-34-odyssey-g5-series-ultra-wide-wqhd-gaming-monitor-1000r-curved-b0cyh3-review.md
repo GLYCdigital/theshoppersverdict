@@ -1,7 +1,8 @@
 ---
-title: "SAMSUNG 34\" Odyssey G5 Series Ultra-Wide WQHD Gaming Monitor"
-seo_title: "SAMSUNG 34\" Odyssey G5 Series Ultra-Wide WQHD Gami Review"
-meta_description: "Our full samsung 34\" odyssey g5 series ultra-wide wqhd gaming monitor review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SAMSUNG 34\ Odyssey G5 Series Ultra-Wide WQHD Gaming Monitor"
+seo_title: "SAMSUNG 34\ Odyssey G5 Series Ultra-Wide WQHD Gami Review"
+meta_description: "Our full samsung 34\ odyssey g5 series ultra-wide wqhd gaming monitor review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "samsung-34-odyssey-g5-series-ultra-wide-wqhd-gaming-monitor-1000r-curved-b0cyh3-review"
 image_alt: "SAMSUNG 34 Odyssey G5 Series Ultra-Wide WQHD Gaming Monitor, 1000R Curved, 165Hz, 1ms Response Time, FreeSync Premium, B"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CYH31CRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JD0I41fTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SAMSUNG 34" Odyssey G5 sits in that crowded middle ground of ultrawides—not the budget king, not the flagship. After spending time with it, the real question isn't whether it's good. It's whether the compromises match your priorities.

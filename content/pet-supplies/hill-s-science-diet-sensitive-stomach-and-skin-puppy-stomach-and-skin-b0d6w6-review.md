@@ -1,4 +1,5 @@
 ---
+
 title: "Hill's Science Diet Sensitive Stomach and Skin Puppy Stomach"
 seo_title: "Hill's Science Diet Sensitive Stomach and Skin Pup Review"
 meta_description: "Our full hill's science diet sensitive stomach and skin puppy stomach review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6W65TGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812qdc1stqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Puppy Food That Actually Fixes the Runs

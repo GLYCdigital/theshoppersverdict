@@ -1,4 +1,5 @@
 ---
+
 title: "COOLO Golf Driver for Beginner and Average Golfer, Designed"
 seo_title: "COOLO Golf Driver Review: Forgiving Beginner Driver"
 meta_description: "COOLO Golf Driver review: 4.1-star rated driver built for beginners. Tested for forgiveness, launch, and value. See who should buy and who should skip."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GBTJZ93J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BxrduS9dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Oversized 460cc titanium head with deep face delivers noticeably high launch on off-center strikes"
   - "Lightweight graphite shaft and 10.5° loft suit moderate swing speeds (85-95 mph) without feeling whippy"
   - "Under $150 price point undercuts big-brand beginner drivers by 40-60% with comparable forgiveness"
-cons:
+cons: 
   - "Stock grip is thin and slick when hands sweat — plan to regrip within a season"
   - "No adjustable hosel or loft sleeve; what you buy is what you play"
   - "Headcover feels cheap and tears at the seam after a few weeks of bag use"
+
 ---
 
 If you're a beginner or a weekend golfer spraying drives into the trees, the COOLO Golf Driver is the kind of club that makes you wonder why you spent $400 on a big-name driver in the first place. It's not perfect — the grip is borderline bad and there's zero adjustability — but for the price, it delivers the two things new golfers need most: forgiveness and launch height.

@@ -1,4 +1,5 @@
 ---
+
 title: "Melphoe 2 Pack Self Watering Hanging Planters Indoor Flower "
 seo_title: "Melphoe 2 Pack Self Watering Hanging Planters Indo Review"
 meta_description: "Our full melphoe 2 pack self watering hanging planters indoor flower  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F93GVY1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GWCIa2t3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "self-watering" planters are gimmicks. A cotton string dipped in a bottle cap of water doesn't count. The Melphoe 2-pack actually delivers on the promise — with a proper wicking system, a visible water level gauge, and a design that doesn't look like it fell off a discount shelf. At $15.98 for two planters, this is a legitimately smart buy for anyone who's killed a hanging plant from neglect or overwatering.

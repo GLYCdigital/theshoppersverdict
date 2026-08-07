@@ -1,13 +1,14 @@
 ---
+
 title: "BALEINE Non Slip Rug Pad Rug Gripper for Hardwood Floors, Extra Thick Non Slip Mat Under Carpet (2'x3')"
 seo_title: "BALEINE Non Slip Review: Verdict (4.4/5) | TSV"
 meta_description: "Great value and worth 2,964+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "baleine-non-slip-rug-pad-rug-gripper-for-hardwood-floors-extra-thick-review"
 image_alt: "BALEINE Non Slip Rug Pad Rug Gripper for Hardwood Floors, Extra Thick Non Slip Mat Under Carpet (2x3)"
-keywords:
+keywords: 
   - "baleine non slip review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the BALEINE Non Slip Rug?"
     answer: "Great value and worth it That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the BALEINE Non Slip Rug?"
@@ -21,12 +22,13 @@ review_count: 2964
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C91RZBH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KsL8PUGVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value and worth it."
   - "Exactly What My Man Cave Needed — Zero Slipping."
   - "Rug gripper was about 80% effective."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 ## The $6 rug pad that actually stays put

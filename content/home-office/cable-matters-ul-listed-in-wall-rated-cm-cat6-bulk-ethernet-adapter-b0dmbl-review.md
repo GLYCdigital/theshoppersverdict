@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters UL Listed in-Wall Rated (CM) Cat6 Bulk Etherne"
 seo_title: "Cable Matters Cat6 Bulk Ethernet Review: In-Wall Rated"
 meta_description: "Read our Cable Matters CM-rated Cat6 bulk cable review. UL listed for in-wall installs, tested performance, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMBLMSHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zgHlGWvFL._SL1500_.jpg"
-pros:
+pros: 
   - "UL-listed CM rating passes code inspection for residential in-wall runs — the single biggest reason to pick this over cheaper unrated cable"
   - "Solid 23AWG bare copper conductors (not CCA) maintain signal integrity at Cat6 spec distances up to 55 meters"
   - "Rigid enough to push through conduit and wall cavities without kinking, yet flexible enough for tight bends at the keystone jack"
-cons:
+cons: 
   - "The jacket is stiffer than typical patch cable, so terminating RJ45 ends takes more patience — especially for beginners"
   - "No pull box or spool rewind mechanism included, so you'll want a cable spooler if you're running more than 100 feet"
+
 ---
 
 Let's be straight about this: if you're fishing Ethernet through a wall, you don't want the cheap stuff from a big-box store that claims "in-wall rated" but doesn't have the paperwork to back it up. The Cable Matters CM-rated Cat6 bulk cable is the kind of product you buy because you want to run cable once, pass inspection, and not worry about it again.

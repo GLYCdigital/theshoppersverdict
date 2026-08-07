@@ -1,4 +1,5 @@
 ---
+
 title: "Vimatto Double-Layer Chandelier of Carriage Wheel"
 seo_title: "Vimatto Double-Layer Chandelier of Carriage Wheel Review:"
 meta_description: "Our full vimatto double-layer chandelier of carriage wheel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BV2F346D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XN1tFD4+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're scrolling through hundreds of identical drum shades and glass globes, the Vimatto Double-Layer Carriage Wheel Chandelier stops the scroll. This is a statement piece — a literal wagon wheel suspended from your ceiling, finished in matte black with two stacked tiers of six candle-style sockets each. It's the kind of fixture that makes guests ask, "Where did you get that?" before they've even sat down.

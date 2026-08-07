@@ -1,4 +1,5 @@
 ---
+
 title: "diimoy 4 Packs of Fake Wasp Nests, Waterproof Material Wasps"
 seo_title: "diimoy Fake Wasp Nests Review: Do They Work in 2026?"
 meta_description: "Our honest diimoy fake wasp nests review covers waterproof material, real-world effectiveness, and whether 4 packs keep wasps away. Read before buying."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D54MTZGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815lz1NyHGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof woven material that holds up through rain and humidity without sagging or fading"
   - "Realistic paper-like texture and shape that convincingly mimics an active wasp nest from 10+ feet away"
   - "Each pack includes 4 nests with sturdy hanging hooks — enough to cover a typical porch, garage, or shed perimeter"
-cons:
+cons: 
   - "Decoy effect is territorial, not guaranteed — wasps in mid-flight may still investigate before moving on"
   - "Smaller than real nests (roughly 6 inches), so very large swarms or established colonies may not be deterred"
+
 ---
 
 **The $15 Trick That Might Keep Wasps Off Your Porch — Or Not**

@@ -1,4 +1,5 @@
 ---
+
 title: "Rubbermaid Resin Weather Resistant Outdoor Storage Deck Box"
 seo_title: "Rubbermaid Resin Weather Resistant Outdoor Storage Review"
 meta_description: "Our full rubbermaid resin weather resistant outdoor storage deck box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B99PTY8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41b4d3AVyFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about outdoor storage: most deck boxes are either flimsy plastic that cracks by year two, or overpriced cedar that rots if you blink. The Rubbermaid Resin Weather Resistant Deck Box sits in a sweet spot — it's not glamorous, but it actually does the job. With 215 ratings averaging 4.3 stars, it's clearly earning its keep on patios across the country.

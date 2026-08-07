@@ -1,4 +1,5 @@
 ---
+
 title: "CAMO 0345124 Edge Deck Screws, Hidden Fastening, 1-7/8 inch , Pro"
 seo_title: "CAMO Edge Deck Screws Review: Hidden Fastening Pro Grade"
 meta_description: "CAMO 0345124 Edge Deck Screws review: 1-7/8 inch  Pro hidden fasteners. Real-world performance, driver bit life, and whether they beat deck clips."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2FBPJ48/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/61ALf7i6heL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Drive bit seats firmly in the screw head — no stripped cam-outs with a quality impact driver"
   - "ProTech coating holds up on treated lumber; no rust spotting after a wet season"
   - 1-7/8 inch " length works for both 5/4 decking and 1 inch " boards without poking through
-cons:
+cons: 
   - "Requires the CAMO Marksman tool or similar jig — you're locked into their system"
   - "No collation; screws come loose in a box, so you're loading the bit one at a time"
   - "Price per screw runs higher than standard deck screws once you factor in the drive tool"
+
 ---
 
 If you're laying down composite or hardwood decking and want a fastener-free surface, the CAMO Edge system has become the go-to for a reason. The 0345124 Pro screws are the consumable half of that equation — and at 1-7/8 inches, they're sized for the most common deck board thicknesses. But here's what you need to know before you commit.

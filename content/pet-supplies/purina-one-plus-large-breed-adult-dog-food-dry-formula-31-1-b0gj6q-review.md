@@ -1,4 +1,5 @@
 ---
+
 title: "Purina ONE Plus Large Breed Adult Dog Food Dry Formula - 31."
 seo_title: "Purina ONE Plus Large Breed Adult Dog Food Dry For Review"
 meta_description: "Our full purina one plus large breed adult dog food dry formula - 31. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GJ6Q1922/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AzXr9DVoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Big dogs eat a lot. That's not a shock to anyone who's bought a 30-pound bag of kibble and watched it vanish in three weeks. The question is whether you're feeding them something that actually supports their size — joints, digestion, energy — or just filling the bowl. Purina ONE Plus Large Breed Adult Formula is aimed squarely at the first camp. Here's what you need to know before that 31-pound bag lands in your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "NEW Microsoft Bluetooth Desktop - Matte Black"
 seo_title: "NEW Microsoft Bluetooth Desktop - Matte Black Review: Ver"
 meta_description: "Our full new microsoft bluetooth desktop - matte black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086QR6Q2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sDEUU00CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most wireless keyboard-and-mouse combos under $100 feel like they were designed by someone who’s never typed a full workday. The Microsoft Bluetooth Desktop in Matte Black isn’t that. It’s a full-size office workhorse with a few notable tradeoffs that might make you pause.

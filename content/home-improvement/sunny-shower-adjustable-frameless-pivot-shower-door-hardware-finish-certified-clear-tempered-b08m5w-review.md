@@ -1,4 +1,5 @@
 ---
+
 title: "SUNNY SHOWER Adjustable Frameless Pivot Shower Door,Hardware"
 seo_title: "SUNNY SHOWER Adjustable Frameless Pivot Shower Doo Review"
 meta_description: "Our full sunny shower adjustable frameless pivot shower door,hardware review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08M5WFGRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vu7TgBehL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SUNNY SHOWER Adjustable Frameless Pivot Shower Door Review: Premium Look, Practical Compromises

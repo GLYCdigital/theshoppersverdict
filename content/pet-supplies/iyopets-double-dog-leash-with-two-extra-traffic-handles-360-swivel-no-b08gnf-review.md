@@ -1,4 +1,5 @@
 ---
+
 title: "iYoPets Double Dog Leash with Two Extra Traffic Handles, 360"
 seo_title: "iYoPets Double Dog Leash with Two Extra Traffic Ha Review"
 meta_description: "Our full iyopets double dog leash with two extra traffic handles, 360 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GNFC9FZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eGv6lh9KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Walking two dogs at once is either a daily joy or a tangled nightmare—often both. The iYoPets Double Dog Leash with Two Extra Traffic Handles and 360° swivel clips aims to solve the chaos. With a 4.6-star average across 229 ratings, it's clearly working for many. Here's the honest breakdown before you buy.

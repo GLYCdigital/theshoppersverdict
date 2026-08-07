@@ -1,4 +1,5 @@
 ---
+
 title: "Prime-Line E Mortise Lock"
 seo_title: "Prime-Line E Mortise Lock Review: Verdict | TSV"
 meta_description: "Our full prime-line e mortise lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07BKQPKYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rVhNerpLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your door's mortise lock has finally given up after a decade of daily abuse, you're staring down a surprisingly confusing purchase. Mortise locks aren't like standard cylindrical knobs—they need to fit a specific pocket cut into the door edge, and getting that wrong means a trip back to the hardware store. The Prime-Line E Mortise Lock aims to be the straightforward replacement for the most common residential setup. Here's the real story after digging through what 220 buyers actually experienced.

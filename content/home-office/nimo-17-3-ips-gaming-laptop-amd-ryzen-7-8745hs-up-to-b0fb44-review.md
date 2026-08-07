@@ -1,7 +1,8 @@
 ---
-title: "NIMO 17.3\" IPS-Gaming-Laptop, AMD Ryzen 7 8745HS Up to 4.9GH"
-seo_title: "NIMO 17.3\" IPS-Gaming-Laptop, AMD Ryzen 7 8745HS U Review"
-meta_description: "Our full nimo 17.3\" ips-gaming-laptop, amd ryzen 7 8745hs up to 4.9gh review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "NIMO 17.3\ IPS-Gaming-Laptop, AMD Ryzen 7 8745HS Up to 4.9GH"
+seo_title: "NIMO 17.3\ IPS-Gaming-Laptop, AMD Ryzen 7 8745HS U Review"
+meta_description: "Our full nimo 17.3\ ips-gaming-laptop, amd ryzen 7 8745hs up to 4.9gh review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nimo-17-3-ips-gaming-laptop-amd-ryzen-7-8745hs-up-to-b0fb44-review"
 image_alt: "NIMO 17.3 IPS-Gaming-Laptop, AMD Ryzen 7 8745HS Up to 4.9GHz Beat R9 7940HS 32GB RAM 1TB SSD Radeon 780M-Graphics, Backl"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FB44MDGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xf5LHrjjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Big screen, big processor, big question: Is the NIMO 17.3" worth your money?**

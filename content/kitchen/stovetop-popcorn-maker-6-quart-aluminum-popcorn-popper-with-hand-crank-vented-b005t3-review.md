@@ -1,4 +1,5 @@
 ---
+
 title: "Stovetop Popcorn Maker - 6-Quart Aluminum Popcorn Popper wit"
 seo_title: "Stovetop Popcorn Maker - 6-Quart Aluminum Popcorn  Review"
 meta_description: "Our full stovetop popcorn maker - 6-quart aluminum popcorn popper wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B005T3P6PM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5152iYom0ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the stovetop popcorn maker that finally replaces your microwave bags?**  

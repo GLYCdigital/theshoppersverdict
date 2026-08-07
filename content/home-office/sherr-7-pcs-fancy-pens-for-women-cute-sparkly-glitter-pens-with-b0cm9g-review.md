@@ -1,4 +1,5 @@
 ---
+
 title: "Sherr 7 Pcs Fancy Pens for Women Cute Sparkly Glitter Pens w"
 seo_title: "Sherr 7 Pcs Fancy Pens for Women Cute Sparkly Glit Review"
 meta_description: "Our full sherr 7 pcs fancy pens for women cute sparkly glitter pens w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CM9GP1Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wtHeG0UpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Are these fancy pens actually good writers, or just pretty desk decor?** That's the question that matters when you're shelling out for a "cute" pen set. I've dug through the 235 ratings and buyer photos to give you the straight story on the Sherr 7-piece glitter pen set.

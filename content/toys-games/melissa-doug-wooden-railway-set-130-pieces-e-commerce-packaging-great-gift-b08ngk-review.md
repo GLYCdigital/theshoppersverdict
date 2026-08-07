@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Wooden Railway Set, 130 Pieces (E-Commerce Pa"
 seo_title: "Melissa & Doug Wooden Railway Set, 130 Pieces (E-C Review"
 meta_description: "Our full melissa & doug wooden railway set, 130 pieces (e-commerce pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08NGK89CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DxL8M5ptL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a 130-piece wooden train set that costs less than most 40-piece sets from name brands. That math alone gets attention. But the Melissa & Doug Wooden Railway Set isn't just cheap — it's genuinely good, with a few quirks you need to know about before you buy.

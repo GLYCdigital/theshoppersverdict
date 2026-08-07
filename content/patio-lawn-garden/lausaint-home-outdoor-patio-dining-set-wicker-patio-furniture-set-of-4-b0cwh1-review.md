@@ -1,4 +1,5 @@
 ---
+
 title: "LAUSAINT HOME Outdoor Patio Dining Set, Wicker Patio Furnitu"
 seo_title: "LAUSAINT HOME Outdoor Patio Dining Set, Wicker Pat Review"
 meta_description: "Our full lausaint home outdoor patio dining set, wicker patio furnitu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CWH1N6PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SnWyflUeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4-Piece Set That Actually Looks Like the Photos

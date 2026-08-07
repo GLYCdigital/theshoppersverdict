@@ -1,4 +1,5 @@
 ---
+
 title: "Yellow Mountain Imports American Mahjong Set All-in-One Rack"
 seo_title: "Yellow Mountain Imports American Mahjong Set All-i Review"
 meta_description: "Our full yellow mountain imports american mahjong set all-in-one rack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CF18FHWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81df2888u1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've played mahjong at a friend's house with those flimsy plastic racks that slide apart the moment someone sneezes, you already know the pain. The Yellow Mountain Imports American Mahjong Set All-in-One Rack solves that specific problem — and a few others — without demanding a $200 investment.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cucina Fruits & Passion Hand Soap Refill"
 seo_title: "Cucina Fruits & Passion Hand Soap Refill Review (2026)"
 meta_description: "Honest Cucina Fruits & Passion hand soap refill review: scent, lather, value, and whether this luxury refill beats cheaper drugstore options."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FN5TVB2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ejciQC9VL._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated formula means one refill pouch replaces multiple bottles — better value than buying single pumps"
   - "Fruit-forward scent profile that lingers subtly without being cloying or synthetic-smelling"
   - "Pump-compatible design works with existing Fruits & Passion dispensers, reducing plastic waste"
-cons:
+cons: 
   - "No built-in pump — you must already own or separately purchase a dispenser, which adds upfront cost"
   - "Scent strength varies by batch; some buyers report lighter fragrance than expected from the brand"
   - "Premium price per ounce compared to drugstore refills, though the quality justifies it for some"
+
 ---
 
 Let’s be blunt: most hand soap refills are a race to the bottom on price, and you feel it the second the liquid hits your palms — watery lather, chemical fragrance, skin that squeaks like a dry sponge. The Cucina Fruits & Passion Hand Soap Refill is not that product. It’s the kind of thing you buy when you’ve stopped treating handwashing as a chore and started treating it as a two-minute ritual.

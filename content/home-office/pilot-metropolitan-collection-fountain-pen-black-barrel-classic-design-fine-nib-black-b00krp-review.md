@@ -1,4 +1,5 @@
 ---
+
 title: "PILOT Metropolitan Collection Fountain Pen, Black Barrel, Cl"
 seo_title: "PILOT Metropolitan Collection Fountain Pen, Black  Review"
 meta_description: "Our full pilot metropolitan collection fountain pen, black barrel, cl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00KRPFD96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EA-haGijL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $30 fountain pen that outperforms pens costing three times as much. That's the reputation the Pilot Metropolitan has earned, and after putting the black barrel Classic Design through weeks of daily use, I understand why. This isn't just a gateway drug into fountain pens—it's a legitimate daily writer that belongs on any desk, regardless of your experience level.

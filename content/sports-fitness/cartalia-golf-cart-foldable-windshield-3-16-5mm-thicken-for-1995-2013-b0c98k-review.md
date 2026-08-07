@@ -1,4 +1,5 @@
 ---
+
 title: "Cartalia Golf Cart Foldable Windshield 3/16 inch  (5MM) Thicken f"
 seo_title: "Cartalia Golf Cart Foldable Windshield Review (2026): Worth It?"
 meta_description: "Honest Cartalia golf cart foldable windshield review: 5mm thick acrylic, fits 1995-2013 Club Car DS. Real pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C98KHZPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hVnfeH5ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 5mm thickness — noticeably sturdier than the flimsy 3mm stock shields that rattle at speed"
   - "Foldable hinge design lets you flip the upper half down for full-face wind protection without removing anything"
   - "Direct bolt-on fit for 1995-2013 Club Car DS models — no drilling, no adapter brackets needed"
-cons:
+cons: 
   - "Packaging is inconsistent — several buyers report hairline scratches from shipping that are impossible to buff out of acrylic"
   - "Hinge hardware uses small screws that can strip if you overtighten with a power drill instead of hand tools"
   - "Not compatible with lifted carts or those with aftermarket roofs that sit lower than stock height"
+
 ---
 
 Let me save you the headache: most foldable windshields under $150 are flimsy, warped, or don't fit. The Cartalia 5mm thick version is the exception — most of the time. Here's the full story.

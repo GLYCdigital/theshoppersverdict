@@ -1,4 +1,5 @@
 ---
+
 title: "Rugshop Geometric Boho Perfect for high Traffic Areas"
 seo_title: "Rugshop Geometric Boho Perfect for high Traffic Ar Review"
 meta_description: "Our full rugshop geometric boho perfect for high traffic areas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGDNMPG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F-GZCk3xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Rugshop Geometric Boho markets itself as the answer to the eternal rug dilemma: style that survives real life. With a 4.0 rating and no verified buyer feedback yet, you're essentially buying on spec. Here's what the product specs and materials actually tell us before you commit.

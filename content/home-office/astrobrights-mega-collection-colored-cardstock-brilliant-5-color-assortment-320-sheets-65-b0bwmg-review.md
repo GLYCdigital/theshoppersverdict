@@ -1,4 +1,5 @@
 ---
+
 title: "Astrobrights Mega Collection, Colored Cardstock,Brilliant"
 seo_title: "Astrobrights Mega Collection Cardstock Review: Worth It?"
 meta_description: "Our honest Astrobrights Mega Collection cardstock review covers quality, color payoff, and whether this 320-sheet Brilliant pack is worth your money."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BWMG1J47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KoflIzxKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 65 lb cover weight — substantial enough for invitations, signs, and DIY projects without being stiff or hard to fold"
   - "Colors are genuinely vibrant and saturated; the 'Brilliant' assortment includes 5 distinct shades that don't wash out under indoor lighting"
   - "Acid-free, lignin-free construction means projects won't yellow or degrade over time — a real consideration for keepsakes"
-cons:
+cons: 
   - "Only 5 colors in this specific assortment (64 sheets each), so if you want the full 25-color spectrum, you'll need another pack"
   - "Not a true cardstock for heavy embossing or intricate die-cutting — it's more of a heavy printer paper than a craft-grade board"
+
 ---
 
 ## Does the Astrobrights Mega Collection actually live up to the hype?

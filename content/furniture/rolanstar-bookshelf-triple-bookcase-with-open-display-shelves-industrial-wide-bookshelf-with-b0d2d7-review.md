@@ -1,4 +1,5 @@
 ---
+
 title: "Rolanstar Bookshelf, Triple Bookcase with Open Display Shelv"
 seo_title: "Rolanstar Bookshelf, Triple Bookcase with Open Dis Review"
 meta_description: "Our full rolanstar bookshelf, triple bookcase with open display shelv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2D7WKXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GzFQrqPpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a bookcase that doesn't look like it came from a dorm room, the Rolanstar Triple Bookcase deserves a hard look. With 229 ratings holding a steady 4.6-star average, this industrial-style unit has clearly found an audience. But is it worth your money? Let's break down what you're actually getting.

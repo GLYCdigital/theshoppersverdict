@@ -1,4 +1,5 @@
 ---
+
 title: "KINGRACK Folding Work Platform, Adjustable Step Ladder with "
 seo_title: "KINGRACK Folding Work Platform, Adjustable Step La Review"
 meta_description: "Our full kingrack folding work platform, adjustable step ladder with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7TMCLBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710c3kuDdIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KINGRACK Folding Work Platform is the rare piece of gear that genuinely serves double duty.** It's marketed as a work platform for DIY tasks, but it's found a second life in home gyms as a step platform. The question is whether it does either job well enough to justify the price. I've dug through the specs, the 220 ratings, and the buyer feedback to give you the straight story.

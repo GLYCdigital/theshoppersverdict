@@ -1,4 +1,5 @@
 ---
+
 title: "HMDecor Solar Pathway Lights Outdoor,Bright Modern Solar Lig"
 seo_title: "HMDecor Solar Pathway Lights Outdoor,Bright Modern Review"
 meta_description: "Our full hmdecor solar pathway lights outdoor,bright modern solar lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DZ2KVY4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710EUYYg32L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most solar pathway lights are junk. They're flimsy plastic stakes with a single dim LED that barely lights a crack in the sidewalk. So when something called "Hmdecor" shows up claiming "bright" and "modern," skepticism is justified. But after digging into the specs and design choices, there's actually a solid product here — with some caveats you need to know before buying.

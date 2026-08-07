@@ -1,4 +1,5 @@
 ---
+
 title: "Rosemary & Tea Tree Conditioner"
 seo_title: "Rosemary & Tea Tree Conditioner Review: Verdict | TSV"
 meta_description: "Our full rosemary & tea tree conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQ637RMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YDC0dQryL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The shelf is packed with conditioners promising thicker, healthier hair. Most of them are marketing with a pump bottle attached. This Rosemary & Tea Tree Conditioner is one of the rare ones that actually does what it claims — though it's not without its quirks.

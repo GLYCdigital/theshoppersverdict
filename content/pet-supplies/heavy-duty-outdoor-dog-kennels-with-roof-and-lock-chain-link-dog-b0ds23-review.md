@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Outdoor Dog Kennels with Roof and Lock, Chain Lin"
 seo_title: "Heavy Duty Outdoor Dog Kennels with Roof and Lock, Review"
 meta_description: "Our full heavy duty outdoor dog kennels with roof and lock, chain lin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DS23H2YF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91w9vNGS+AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a “heavy duty” dog kennel buckle under a determined chewer or blow over in a thunderstorm, you know the pain of buying cheap twice. The Heavy Duty Outdoor Dog Kennel with Roof and Lock is priced to compete with mid-range options, but does it actually hold up? I’ve dug through the specs, the build, and 204 buyer reviews to give you the straight story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie - Puppe mit Vintage-Kleid in rosa Vichy-Karo, Gänseblümchen"
 seo_title: "Barbie Vintage Gingham Dress Doll Review (2026)"
 meta_description: "Honest Barbie Vintage Gingham Dress Doll review: build quality, outfit details, articulation, and who should buy this 4.8-star collectible."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F8J1L4WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+I3hfh5mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely well-made vintage-style dress with neat stitching, functional buttons, and a full skirt that holds its shape"
   - "Pink Vichy gingham pattern is screen-printed with crisp registration — no blurring or misalignment on the fabric"
   - "Daisy hair accessory and molded shoes add cohesive styling that reads clearly as retro-chic, not costume-y"
-cons:
+cons: 
   - "Limited articulation — only 5 points of movement, so dynamic posing and play are restricted"
   - "Dress is not removable without unbuttoning the back closure carefully; younger kids may struggle with it"
   - "No extra outfit or accessory set included at this price point — you pay for the single look"
+
 ---
 
 **Opening Hook**

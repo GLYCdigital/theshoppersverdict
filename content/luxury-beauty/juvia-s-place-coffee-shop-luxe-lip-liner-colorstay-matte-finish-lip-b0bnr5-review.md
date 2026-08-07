@@ -1,4 +1,5 @@
 ---
+
 title: "Juvia's Place Coffee Shop Luxe Lip Liner - Colorstay Matte F"
 seo_title: "Juvia's Place Coffee Shop Luxe Lip Liner - Colorst Review"
 meta_description: "Our full juvia's place coffee shop luxe lip liner - colorstay matte f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNR5X8DW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FkNFYWJfL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a lip liner that looked rich in the tube but turned chalky on your lips, you know the disappointment. The Juvia's Place Coffee Shop Luxe Lip Liner in Colorstay Matte F is not that product. This is a liner that actually respects the coffee shop theme — it's warm, rich, and lingers longer than you expect.

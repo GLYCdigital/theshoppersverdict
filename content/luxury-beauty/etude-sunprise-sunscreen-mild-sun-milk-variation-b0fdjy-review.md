@@ -1,4 +1,5 @@
 ---
+
 title: "ETUDE Sunprise Sunscreen Mild Sun Milk Variation"
 seo_title: "ETUDE Sunprise Sun Milk Review: Lightweight SPF for Oily Skin"
 meta_description: "Honest ETUDE Sunprise Sunscreen Mild Sun Milk Variation review: does this K-beauty SPF50+ milk live up to the hype? Texture, finish, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDJYD824/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41-fdKyYtvL._SL1000_.jpg"
-pros:
+pros: 
   - "Alcohol-free formula that dries down to a true matte, powder-like finish — rare for SPF 50+"
   - "Zinc oxide and titanium dioxide mineral filter blend sits well under makeup without pilling"
   - "Compact 60ml pump bottle delivers precise, no-waste doses — one pump covers half your face"
-cons:
+cons: 
   - "The matte finish can feel tightening on dry or dehydrated skin — you'll want moisturizer underneath"
   - "White cast is minimal on fair-to-light skin tones but noticeable on deeper complexions"
+
 ---
 
 If you've spent any time in K-beauty circles, you've heard the Sunprise name whispered like a secret. The Mild Sun Milk Variation is the reformulated, alcohol-free sibling of the original Sunprise Mild Airy Finish — and it's quietly become one of the most reliable daily SPF options under $20. But is it worth the cult status? Let's dig in.

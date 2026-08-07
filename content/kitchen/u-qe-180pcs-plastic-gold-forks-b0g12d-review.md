@@ -1,4 +1,5 @@
 ---
+
 title: "U-QE 180Pcs Plastic Gold Forks"
 seo_title: "U-QE 180Pcs Plastic Gold Forks Review: Verdict | TSV"
 meta_description: "Our full u-qe 180pcs plastic gold forks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G12DJ738/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Tru8mOIDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about disposable forks: most of them snap the moment you look at them wrong. The U-QE 180-piece gold plastic forks set sidesteps that reputation with surprisingly robust construction. After 240 Amazon reviewers weighed in and landed on a 4.8-star average, I dug into what makes these different from the flimsy clear-plastic packs you grab at the dollar store.

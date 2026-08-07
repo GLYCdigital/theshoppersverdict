@@ -1,4 +1,5 @@
 ---
+
 title: "Stiletto TB15MC Claw Hammer"
 seo_title: "Stiletto TB15MC Claw Hammer Review: Verdict | TSV"
 meta_description: "Our full stiletto tb15mc claw hammer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00079R1YM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hA82eUc+S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about the Stiletto TB15MC before you drop serious money: this is a professional framer’s tool, not a weekend warrior novelty. At 15 ounces, it doesn’t sound impressive next to a 22-ounce steel sledge. But the titanium construction changes the math entirely. The head and handle are milled from a solid block of aerospace-grade titanium, which means the weight sits exactly where you need it — behind the striking face — while the handle stays light enough to swing all day without the forearm burn you get from steel.

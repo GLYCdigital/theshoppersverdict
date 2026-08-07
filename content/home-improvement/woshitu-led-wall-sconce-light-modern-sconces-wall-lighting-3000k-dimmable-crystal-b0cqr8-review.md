@@ -1,4 +1,5 @@
 ---
+
 title: "WOSHITU LED Wall Sconce Light: Modern Sconces Wall Lighting "
 seo_title: "WOSHITU LED Wall Sconce Light: Modern Sconces Wall Review"
 meta_description: "Our full woshitu led wall sconce light: modern sconces wall lighting  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQR8HC4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y6MNdt6jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **WOSHITU LED Wall Sconce Review: Is This Modern Crystal Light Worth Your Wall Space?**

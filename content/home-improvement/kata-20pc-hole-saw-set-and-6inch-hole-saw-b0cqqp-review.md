@@ -1,4 +1,5 @@
 ---
+
 title: "KATA 20PC Hole Saw Set and 6inch Hole Sawâ€¦"
 seo_title: "KATA 20PC Hole Saw Set and 6inch Hole Sawâ€¦ Review: Verd"
 meta_description: "Our full kata 20pc hole saw set and 6inch hole sawâ€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQQPSVJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RlLRNSFJL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $20 Hole Saw Kit That Actually Earns Its Keep

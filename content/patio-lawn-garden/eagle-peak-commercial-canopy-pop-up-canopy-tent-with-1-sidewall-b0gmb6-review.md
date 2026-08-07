@@ -1,4 +1,5 @@
 ---
+
 title: "EAGLE PEAK Commercial Canopy Pop Up Tent with Sidewall Review"
 seo_title: "EAGLE PEAK Commercial Canopy Review: 4.2-Star Pop Up Tent"
 meta_description: "EAGLE PEAK Commercial Canopy Pop Up Tent with 1 Sidewall review: build quality, wind resistance, setup time, and who should buy. Honest 4.2-star breakdown."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GMB6CLMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rm7owEb-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truss-style frame with cross-bracing handles gusty conditions far better than standard slant-leg canopies"
   - "Included sidewall converts it from sun shelter to wind/rain barrier in under 2 minutes"
   - "Tool-free push-button sliders make setup genuinely one-person doable at 75 lbs"
-cons:
+cons: 
   - "75 lb shipping weight is a workout — plan for two people or a hand truck for transport"
   - "No included stakes or weights — factor in another $40-60 for proper anchoring"
+
 ---
 
 Let's cut through the canopy tent noise. There are roughly 47,000 pop-up canopies on Amazon, and most of them will fold like a lawn chair in a moderate breeze. The EAGLE PEAK Commercial Canopy with one sidewall is not one of those. It's also not a featherweight tailgate tent. Here's the real breakdown after digging through 210 verified buyer experiences.

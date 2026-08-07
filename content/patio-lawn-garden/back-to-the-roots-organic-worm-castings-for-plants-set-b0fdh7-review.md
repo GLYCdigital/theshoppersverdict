@@ -1,23 +1,25 @@
 ---
+
 title: "Back to the Roots Organic Worm Castings for Plants Set"
 seo_title: "Back to the Roots Worm Castings Review: Organic Plant Food"
 meta_description: "Honest Back to the Roots Organic Worm Castings review: 4.6★, 229 ratings. Does this set beat synthetic ferts? Real-world results, pros, cons, and who should buy."
 slug: "back-to-the-roots-organic-worm-castings-for-plants-set-b0fdh7-review"
 image_alt: "Back to the Roots Organic Worm Castings set with resealable bag and scoop"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDH76TKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ou1R3hhnL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Odorless, dust-free castings that don't burn seedlings even when mixed directly into potting soil"  
   - "Resealable 5-quart bag holds enough for 20+ standard houseplants or a 4x4 raised bed"  
   - "OMRI-listed for organic gardening — safe for edible crops, unlike many synthetic slow-release feeds"  
-cons:  
+cons: 
   - "No NPK ratio printed on the bag — you're trusting the source, not a guaranteed analysis"  
   - "5-quart volume runs out fast if you're top-dressing large outdoor containers every month"
+
 ---
 
 **Is this the “just add water” solution for lazy gardeners? Mostly yes — with one catch.**

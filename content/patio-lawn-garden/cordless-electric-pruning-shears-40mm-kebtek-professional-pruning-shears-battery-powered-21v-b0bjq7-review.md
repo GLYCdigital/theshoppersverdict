@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Electric Pruning Shears 40MM, Kebtek Professional P"
 seo_title: "Cordless Electric Pruning Shears 40MM, Kebtek Prof Review"
 meta_description: "Our full cordless electric pruning shears 40mm, kebtek professional p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJQ7G93W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mK2auAZYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Cordless Electric Pruning Shears 40MM, Kebtek Professional P** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

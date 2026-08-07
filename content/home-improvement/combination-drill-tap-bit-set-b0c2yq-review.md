@@ -1,4 +1,5 @@
 ---
+
 title: "Combination Drill & Tap Bit Set"
 seo_title: "Combination Drill & Tap Bit Set Review: Worth It?"
 meta_description: "Honest Combination Drill & Tap Bit Set review: performance, durability, and value. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C2YQDZBR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71whIrOq2OL._SL1500_.jpg"
-pros:
+pros: 
   - "Combines drilling and tapping in one pass, saving real time on repetitive jobs"
   - "Cuts clean threads in aluminum and mild steel without needing a separate pilot hole"
   - "Storage case keeps sizes organized and labeled, which matters when you're mid-project"
-cons:
+cons: 
   - "Not for hardened steel — expect broken bits if you push them on tough alloys"
   - "Chip evacuation is mediocre at deeper depths; you'll need to back out frequently"
+
 ---
 
 Let's be direct about what this set actually is: a time-saver for soft metals, not a miracle worker for everything with a motor. If you've ever drilled a pilot hole, swapped to a tap, and then realized your tap handle doesn't fit your drill chuck, you already understand the pain this product eliminates. The combination drill-and-tap bit does both steps in one pass, and for the right jobs, that's genuinely valuable.

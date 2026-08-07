@@ -1,4 +1,5 @@
 ---
+
 title: "Britik Pop up Play Tent for Kids Aged 1-3 Years Old Boys and"
 seo_title: "Britik Pop Up Play Tent Review: Is It Worth It for Toddlers?"
 meta_description: "Honest Britik pop up play tent review for kids 1-3. See real pros, cons, safety details, and whether this 4.6-star toddler tent delivers on its promises."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBZ4PTYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WykbejGdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Truly pops open in under 3 seconds with no assembly tools — folds flat for storage between couch and wall"
   - "Mesh windows on three sides provide airflow and visibility so parents can supervise without crouching"
   - "Machine-washable fabric handles juice spills and diaper blowouts without permanent damage"
-cons:
+cons: 
   - "Folding it back down requires a specific twist technique that frustrates some parents on first attempts"
   - "Lightweight frame means an energetic toddler can tip it over when pushing against the walls"
   - "No included stakes or sandbags for outdoor use — a gust of wind will send it tumbling"
+
 ---
 
 Let me be blunt: most toddler tents are either flimsy junk that collapses when your kid breathes on them, or overengineered fortresses that take 20 minutes to assemble. The Britik Pop Up Play Tent sits somewhere in the sweet spot — but it's not without quirks.

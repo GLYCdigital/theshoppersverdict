@@ -1,4 +1,5 @@
 ---
+
 title: "CLXEAST 18 inch  Illuminated Outdoor Clock with Temperature and H"
 seo_title: "CLXEAST 18 inch  Outdoor Clock Review: Illuminated & Accurate"
 meta_description: "CLXEAST 18 inch  illuminated outdoor clock review: bright display, temp/humidity readings, durable build. See pros, cons & real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDKB36LP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IihHBwmVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18-inch dial is readable from 50+ feet away, even in direct sunlight"
   - "Built-in thermometer and hygrometer give accurate readings without extra sensors"
   - "Auto-dimming backlight prevents nighttime glare while staying visible"
-cons:
+cons: 
   - "Temperature display shows only Fahrenheit — metric users will need to convert"
   - "Mounting hardware is basic; plan to supply your own stainless screws for coastal areas"
+
 ---
 
 **The Short Version**

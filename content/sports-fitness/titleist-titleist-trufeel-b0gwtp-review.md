@@ -1,4 +1,5 @@
 ---
+
 title: "Titleist Titleist TruFeel"
 seo_title: "Titleist Titleist TruFeel Review: Verdict | TSV"
 meta_description: "Our full titleist titleist trufeel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWTPH881/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61URHb-EFGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever paid $50 for a dozen tour-level balls and lost three of them in the woods by hole six, the Titleist TruFeel is the financial reset you need. This is Titleist's entry-level ball, but calling it a "budget" option undersells what it does well. At roughly half the price of a Pro V1, the TruFeel delivers the soft feel that made Titleist famous, with enough distance to keep up with balls twice its price.

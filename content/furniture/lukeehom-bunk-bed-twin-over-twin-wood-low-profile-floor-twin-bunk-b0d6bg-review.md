@@ -1,4 +1,5 @@
 ---
+
 title: "LUKEEHOM Bunk Bed Twin Over Twin, Wood Low Profile Floor Twi"
 seo_title: "LUKEEHOM Bunk Bed Twin Over Twin, Wood Low Profile Review"
 meta_description: "Our full lukeehom bunk bed twin over twin, wood low profile floor twi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6BGWLB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JIXoT+p6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got two kids sharing a room, you've probably stared at bunk bed listings wondering which ones are actually safe and which are just accidents waiting to happen. The LUKEEHOM Twin Over Twin Low Profile Bunk Bed sits in that sweet spot — it's a solid wood frame that doesn't require a ceiling fan removal and a step stool just to tuck in the top kid.

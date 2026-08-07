@@ -1,4 +1,5 @@
 ---
+
 title: "National Hardware V1320 1-3/4-Inch Screen/Storm Door Lever L"
 seo_title: "National Hardware V1320 1-3/4-Inch Screen/Storm Do Review"
 meta_description: "Our full national hardware v1320 1-3/4-inch screen/storm door lever l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002KG00B6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S32otdOjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The $12 fix that stops your storm door from slamming**  

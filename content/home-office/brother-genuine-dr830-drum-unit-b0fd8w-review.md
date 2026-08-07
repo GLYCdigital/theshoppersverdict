@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine DR830 Drum Unit"
 seo_title: "Brother DR830 Drum Unit Review: Honest 2026 Verdict"
 meta_description: "Brother Genuine DR830 drum unit review: real print yields, compatibility with HL-L3210CW series, common complaints, and whether OEM is worth the cost."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8WJ91T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l--J5VqZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine OEM quality with 15,000-page yield that consistently hits spec in real-world use"
   - "Takes about 2 minutes to swap — no tools, no calibration, no tech support calls"
   - "Color registration stays sharp across full cartridge life; no streaking or banding reported"
-cons:
+cons: 
   - "Costs roughly 2-3x what third-party drums do, and aftermarket options are tempting but risky"
   - "Replacement interval sneaks up on you — printer gives minimal warning before quality drops"
+
 ---
 
 Let's be direct: you're looking at a $100+ consumable that feels like it should be simpler than it is. But if you own a Brother HL-L3210CW, HL-L3230CDW, or HL-L3270CDW, the DR830 drum unit isn't optional — it's the thing that determines whether your prints look professional or like they came off a dying office copier.

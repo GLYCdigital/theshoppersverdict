@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Princess Shimmer Spa Ariel 8-inch Styling Head, 20-Pi"
 seo_title: "Disney Princess Ariel Styling Head Review: 20-Piece Set"
 meta_description: "Our honest Disney Princess Shimmer Spa Ariel styling head review: 20 pieces, 8-inch size, real customer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJN1RK3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mTsliRAML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 8-inch styling head with thick, brushable red hair that holds styles well"
   - "20 pieces include real hair accessories plus 3 glittery shimmer sprays for added play value"
   - "Sturdy suction cup base holds firm on tile or bathtub surfaces for travel-friendly play"
-cons:
+cons: 
   - "Shimmer spray bottles can be tricky for small hands to pump — some kids need adult help"
   - "Hair tangles easily if left loose overnight; requires regular brushing to maintain"
+
 ---
 
 ## Is This the Styling Head Your Little Mermaid Fan Actually Wants?

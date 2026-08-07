@@ -1,4 +1,5 @@
 ---
+
 title: "240 Packs Colored Pencils Bulk Classroom, Colored Pencils fo"
 seo_title: "240 Pack Colored Pencils Bulk Classroom Review (2026)"
 meta_description: "Honest review of 240-pack bulk colored pencils for classrooms. 12 assorted colors, pre-sharpened tips, and value pricing. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5MD1BBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+VX7zbxJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-sharpened tips on every single pencil — no classroom time wasted on a blunt batch"
   - "12-color assortment covers the full spectrum without overwhelming younger kids"
   - "Break-resistant cores hold up to heavy-handed kindergarten pressure"
-cons:
+cons: 
   - "Wood casing is standard quality — aggressive sharpeners can cause splintering"
   - "Not artist-grade pigment; colors are vivid but won't blend like premium brands"
   - "No storage box included — you'll need your own container for the bulk pack"
+
 ---
 
 Let's be real: buying colored pencils for a classroom is a math problem disguised as a supply run. You need enough for 20-30 kids, you need them to survive until June, and you need them cheap enough that losing one to the floor monster isn't a crisis. The 240-pack bulk set from this brand is engineered for exactly that scenario. Here's the full breakdown after digging through the specs and what 235 buyers are actually saying.

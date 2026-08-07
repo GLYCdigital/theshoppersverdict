@@ -1,4 +1,5 @@
 ---
+
 title: "2Pcs Toilet Seat Screws, Steel Toilet Seat Hinge Bolts and N"
 seo_title: "2Pcs Toilet Seat Screws Review: Steel Hinge Bolts & Nuts"
 meta_description: "Honest review of 2Pcs steel toilet seat screws & hinge bolts. Durable, rust-resistant, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09328CXZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J4Scm+v0L._SL1500_.jpg"
-pros:
+pros: 
   - "Zinc-plated steel construction resists rust in humid bathrooms far better than the cheap chrome-plated bolts that come with most toilet seats"
   - "Universal size fits virtually all standard toilet hinge patterns — no need to measure or worry about brand compatibility"
   - "Includes both bolts, nuts, and washers in one pack, so you won't be hunting for missing hardware mid-install"
-cons:
+cons: 
   - "Only two screws per pack — if you're replacing bolts on a toilet with a wider hinge spread, you'll need to order multiple packs"
   - "The included nuts are standard hex style, so you'll need a wrench or pliers; no wing-nut option for tool-free hand tightening"
+
 ---
 
 You don't think about toilet seat bolts until the day you do — and then you're on your knees with a corroded, stripped-out screw that hasn't moved since the Bush administration. This two-piece set from the folks behind the B09328CXZL listing is the kind of thing you buy once, install in fifteen minutes, and forget about for the next decade. Here's the real breakdown.

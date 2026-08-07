@@ -1,4 +1,5 @@
 ---
+
 title: "Mansion Home 2 Person Hammock with Stand, Curved Spreader Ba"
 seo_title: "Mansion Home 2 Person Hammock with Stand, Curved S Review"
 meta_description: "Our full mansion home 2 person hammock with stand, curved spreader ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FZKBSN1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f6scgR41L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: most hammocks with stands are either flimsy aluminum contraptions that wobble when you sit down or rope-and-wood pieces that look nice but feel like lying in a sack of marbles. The Mansion Home 2-Person Hammock with Stand sits in a different category — it's a curved spreader bar design, which is the single biggest quality difference between this and the $60 options cluttering Amazon.

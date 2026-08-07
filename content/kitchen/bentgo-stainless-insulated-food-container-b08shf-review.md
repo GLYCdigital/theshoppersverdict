@@ -1,4 +1,5 @@
 ---
+
 title: "Bentgo Stainless Insulated Food Container"
 seo_title: "Bentgo Stainless Insulated Food Container Review (2026)"
 meta_description: "Bentgo Stainless Insulated Food Container review: 4.2-star rating, leak-proof seal, temp retention tested. Is it worth $35? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08SHF28DS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715bx9ARXYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall vacuum insulation keeps food hot for 4+ hours — verified by multiple reviewers, not just marketing claims"
   - "Fully leak-proof lid with silicone gasket — survives tossing in a backpack or gym bag without drama"
   - "18/8 stainless steel interior won't retain odors or stains from tomato-based sauces or curries"
-cons:
+cons: 
   - "No compartment divider — wet and dry foods mix unless you use silicone cupcake liners or separate containers"
   - "Wide mouth means heat escapes faster when opened; not ideal for slow, multi-hour grazing"
   - "4.2 rating reflects some QC complaints — a few units arrived with dents or loose lids"
+
 ---
 
 **Does this stainless steel jar actually keep lunch hot, or is it just another overpriced thermos? I tested it for a week. Here's the real story.**

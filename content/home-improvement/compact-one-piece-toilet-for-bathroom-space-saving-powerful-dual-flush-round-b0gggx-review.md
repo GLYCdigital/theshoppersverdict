@@ -1,4 +1,5 @@
 ---
+
 title: "Compact One Piece Toilet for Bathroom, Space-Saving Powerful"
 seo_title: "Compact One Piece Toilet Review: Space-Saving Dual Flush (2026)"
 meta_description: "Honest Compact One Piece Toilet review: powerful dual-flush, space-saving round design. Real pros, cons, and buying advice for small bathrooms."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GGGX9RGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XLI+T1TZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One-piece ceramic construction with no crevices for grime to collect — easy to wipe down in minutes"
   - "Powerful siphon flush clears a full bowl in one go despite the compact 28-inch depth"
   - "Dual-flush mechanism (0.8/1.28 GPF) genuinely cuts water usage without sacrificing performance"
-cons:
+cons: 
   - "Round bowl means less seat space than elongated models — taller or larger users will notice the difference"
   - "Seat and wax ring sold separately, which adds $40–60 to the actual installed cost"
   - "At roughly 88 pounds, you'll want a second person for lifting and positioning during install"
+
 ---
 
 **Bottom line: This is the toilet you buy when your bathroom is tight but you're not willing to sacrifice flush power.** At 4.6 stars across 229 ratings, the Compact One Piece Toilet has clearly earned its place in small-space bathrooms. But let's dig into what that rating actually means before you hand over your money.

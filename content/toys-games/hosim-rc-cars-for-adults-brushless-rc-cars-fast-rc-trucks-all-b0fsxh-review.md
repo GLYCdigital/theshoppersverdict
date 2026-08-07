@@ -1,4 +1,5 @@
 ---
+
 title: "Hosim RC Cars for Adults, Brushless RC Cars Fast RC Trucks A"
 seo_title: "Hosim Brushless RC Truck Review: Fast, Durable, Worth It?"
 meta_description: "Hosim brushless RC truck review: 45+ mph speed, metal upgrades, real durability. Is the $170 price justified? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSXHP4T5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815yOzV9UqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Brushless motor hits 45+ mph out of the box — genuinely fast, not a toy-grade claim"
   - "Full metal drivetrain, oil-filled shocks, and aluminum chassis braces survive hard bashing"
   - "Two swappable Li-ion batteries give 40-50 minutes of total runtime"
-cons:
+cons: 
   - "Stock tires lack grip on loose dirt; expect to upgrade for serious off-road use"
   - "Manual is thin — no exploded parts diagram, which complicates repairs"
   - "Battery charging takes 3+ hours, so plan ahead between runs"
+
 ---
 
 # Hosim Brushless RC Truck Review: Real Speed, Real Value

@@ -1,4 +1,5 @@
 ---
+
 title: "Original Spree Candy, 24 Pack, 1.77 oz Rolls, Sweet and Tart"
 seo_title: "Original Spree Candy, 24 Pack, 1.77 oz Rolls, Swee Review"
 meta_description: "Our full original spree candy, 24 pack, 1.77 oz rolls, sweet and tart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07581B5ST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rrPevozQL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the Spree you remember? Probably not — and that's the point.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Land Guard Galvanized Raised Garden Bed with Legs, 96Ã—24Ã—3"
 seo_title: "Land Guard Galvanized Raised Garden Bed with Legs, Review"
 meta_description: "Our full land guard galvanized raised garden bed with legs, 96ã—24ã—3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0D12GNG86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QkbW9JbRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Land Guard Galvanized Raised Garden Bed with Legs: An 8-Foot Planter That Saves Your Back — But Tests Your Patience

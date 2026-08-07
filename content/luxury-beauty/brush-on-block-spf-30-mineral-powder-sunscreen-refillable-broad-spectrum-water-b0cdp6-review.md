@@ -1,4 +1,5 @@
 ---
+
 title: "Brush On Block SPF 30 Mineral Powder Sunscreen, Refillable,"
 seo_title: "Brush On Block SPF 30 Mineral Powder Sunscreen Review"
 meta_description: "Honest Brush On Block SPF 30 Mineral Powder Sunscreen review: coverage, refill value, and whether this 4.2-star powder actually protects."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CDP612YS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yXjk0E7WL._SL1500_.jpg"
-pros:
+pros: 
   - "True 100% mineral formula with 22% zinc oxide — no chemical filters, no white cast on deeper skin tones"
   - "Refillable compact design cuts long-term cost by roughly 40% versus buying full brushes repeatedly"
   - "Water-resistant up to 80 minutes, which is genuinely rare for a powder sunscreen"
-cons:
+cons: 
   - "Coverage is sheer — you need 3-4 passes to reach the labeled SPF, which eats powder quickly"
   - "Brush head can shed a few bristles in the first week, especially if you press hard"
   - "No sponge or mirror in the compact — you're paying for the brush, not extras"
+
 ---
 
 Let’s cut through the hype: most powder sunscreens are a marketing gimmick. You swipe once, feel protected, and actually get SPF 8. The Brush On Block SPF 30 Mineral Powder Sunscreen is different — but it’s not magic either. Here’s what 210 Amazon reviewers (averaging 4.2 stars) and my own research tell you before you spend.

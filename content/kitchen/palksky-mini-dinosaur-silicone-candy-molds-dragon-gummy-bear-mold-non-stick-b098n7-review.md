@@ -1,4 +1,5 @@
 ---
+
 title: "Palksky Mini Dinosaur Silicone Candy molds/Dragon Gummy Bear"
 seo_title: "Palksky Mini Dinosaur Silicone Candy molds/Dragon  Review"
 meta_description: "Our full palksky mini dinosaur silicone candy molds/dragon gummy bear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B098N71BNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tHRf2wk-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most silicone candy molds on Amazon are cheap, flimsy, and produce blobs that look nothing like the product photos. The Palksky Mini Dinosaur set is better than that — but with caveats you need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "First Alert BRK SMI100-AC Hardwired Smoke Detector with Batt"
 seo_title: "First Alert BRK SMI100-AC Review: Hardwired Smoke Detector"
 meta_description: "First Alert BRK SMI100-AC hardwired smoke detector with battery backup: honest review of performance, installation, and reliability. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07B4CGQLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P8xUZFBFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Photoelectric sensor catches smoldering fires faster than dual-sensor units at this price"
   - "Quick-disconnect wiring harness makes retrofit installation a 10-minute job"
   - "Tamper-resistant locking pins included — a rare find on budget hardwired detectors"
-cons:
+cons: 
   - "No carbon monoxide detection — you'll need a separate unit for bedrooms"
   - "Loud chirp when battery dies is hard to silence without removing the unit"
   - "Plastic housing feels thinner than pricier BRK models like the 3120B"
+
 ---
 
 Let’s cut through the noise: most hardwired smoke detectors are commodity junk. You screw them up, forget they exist, and hope they work when grease catches fire. The First Alert BRK SMI100-AC is not that. It’s a photoelectric-only detector that costs less than a pizza, yet it brings features normally reserved for $40 units. Here’s the real story.

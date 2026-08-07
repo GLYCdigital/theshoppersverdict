@@ -1,4 +1,5 @@
 ---
+
 title: "Stove Windscreen Set, Aluminum Stove Windshield with Drawstr"
 seo_title: "Stove Windscreen Set, Aluminum Stove Windshield wi Review"
 meta_description: "Our full stove windscreen set, aluminum stove windshield with drawstr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CB7HL7YV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hWaAnSqdL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched your camp stove flame flicker sideways while your water takes twenty minutes to boil, you already know the problem this product solves. The Stove Windscreen Set is a three-panel aluminum shield that wraps around your burner and tells the wind to go somewhere else. Simple concept, solid execution — with a few caveats worth knowing before you buy.

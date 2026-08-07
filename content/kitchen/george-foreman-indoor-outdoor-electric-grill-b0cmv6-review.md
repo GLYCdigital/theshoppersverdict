@@ -1,4 +1,5 @@
 ---
+
 title: "George Foreman Indoor/Outdoor Electric Grill"
 seo_title: "George Foreman Indoor/Outdoor Electric Grill Review: Verd"
 meta_description: "Our full george foreman indoor/outdoor electric grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMV6Y6RN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6196Tk7kTzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Real-World Performance: The Sear Question**

@@ -1,4 +1,5 @@
 ---
+
 title: "SereneLife Saucer Swing with Tree Hang Kit, 40â€"
 seo_title: "SereneLife Saucer Swing with Tree Hang Kit, 40â€ Review: "
 meta_description: "Our full serenelife saucer swing with tree hang kit, 40â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DZM2PDHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those cheap saucer swings that fold in half the first time a 10-year-old leans back. The SereneLife 40-inch model is not that swing. With a 4.0-star average across 200 ratings, it's earned a solid reputation among backyard swing buyers — but it has one notable setup limitation you need to know about before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Coca Cola Carbonateddrink Liquid Glass Bottle Room"
 seo_title: "Coca Cola Glass Bottle Room Review: Worth It? | 2026 inch"
 meta_description: "Honest review of the Coca Cola Carbonateddrink Liquid Glass Bottle Room. Build quality, real-world use, pros/cons, and who should buy it. 4.1/5 rating."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CZTR76JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21eb5JZWYAL._PIbundle-12,TopRight,0,0_AA250SH20_.jpg"
-pros:
+pros: 
   - "Thick, durable glass construction that holds up to repeated hot/cold cycling without cracking"
   - "Vintage Coca-Cola branding adds genuine retro aesthetic that works as bar or kitchen decor"
   - "Versatile 1L capacity works for cold brew storage, syrups, or as a decorative dispenser"
-cons:
+cons: 
   - "Not dishwasher safe — hand washing required to protect the printed label from peeling"
   - "Cork stopper fits snug but can swell and become difficult to remove after extended use"
+
 ---
 
 Let's be direct about this: a Coca-Cola branded glass bottle is not a coffee maker. But in the real world of coffee gear, this 1-liter glass bottle has carved out a niche as a cold brew storage vessel, syrup dispenser, and retro kitchen decor piece. With 204 ratings averaging 4.1 stars, it's clearly earning its keep in people's homes — but for what, exactly?

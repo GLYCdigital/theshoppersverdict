@@ -1,4 +1,5 @@
 ---
+
 title: "Bio Ionic 10X UltraLight Speed Hair Dryer, Blow Dryer with A"
 seo_title: "Bio Ionic 10X UltraLight Dryer Review (2026): Worth It?"
 meta_description: "Bio Ionic 10X UltraLight Speed Hair Dryer review: 4.4-star rated. We test heat, speed, weight & noise. Is this $200 blow dryer worth it for fine or thick hair?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01CKH82Y6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dWDQp8e-L._SL1500_.jpg"
-pros:
+pros: 
   - "Dries thick, coarse hair 40-50% faster than standard dryers thanks to the 10X ionic technology and 1875-watt motor"
   - "Weighs just 10.6 ounces — noticeably lighter than the Dyson Supersonic (1.8 lbs), reducing arm fatigue during long styling sessions"
   - "Far-infrared heat penetrates the hair shaft rather than just blasting the cuticle, leaving hair shinier with less frizz"
-cons:
+cons: 
   - "No concentrator nozzle included in the box — you'll need to buy one separately for precise styling"
   - "The single cool-shot button requires constant holding; there's no true cold air lock setting"
   - "Loud — measures around 78-80 dB at high speed, so you'll want ear protection if you dry daily"
+
 ---
 
 **The $200 Hair Dryer That Actually Earns Its Price Tag**

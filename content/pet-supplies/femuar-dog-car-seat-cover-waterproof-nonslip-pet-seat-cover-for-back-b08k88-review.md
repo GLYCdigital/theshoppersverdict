@@ -1,4 +1,5 @@
 ---
+
 title: "Femuar Dog Car Seat Cover, Waterproof Nonslip Pet Seat Cover"
 seo_title: "Femuar Dog Car Seat Cover Review: Waterproof & Nonslip"
 meta_description: "Honest Femuar Dog Car Seat Cover review: waterproof, nonslip, 4.3-star rated. Does it hold up to muddy paws? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08K884N6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JxlLGIOWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4-layer waterproof construction with a non-slip backing that actually grips leather and cloth seats"
   - "Side flaps and headrest straps cover 80% of the seat — including the gap where dog hair usually collects"
   - "Heavy-duty 600D Oxford fabric resists scratches from claws and is machine washable"
-cons:
+cons: 
   - "No zipper or buckle opening for seatbelt access — dogs need to be harnessed before the cover goes on"
   - "Non-slip backing works best on cloth seats; leather seat owners report some sliding on hot days"
   - "Quilted pattern looks good but the stitching can pull if your dog is a dedicated digger"
+
 ---
 
 If your backseat looks like a fur factory exploded, you already know the pain this Femuar cover is trying to solve. The question is whether a $40-ish seat cover can actually survive a 70-pound Lab who thinks car rides are a contact sport. After digging through 215 ratings and the construction details, here's the straight story.

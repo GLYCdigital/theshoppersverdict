@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon Patio Chairs Set, Patio Furniture Set with Metal Fram"
 seo_title: "Gizoon Patio Chairs Set, Patio Furniture Set with  Review"
 meta_description: "Our full gizoon patio chairs set, patio furniture set with metal fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8N3P4FN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eE0x11pEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you need a compact, no-nonsense bistro set that won’t blow over in a gust, the Gizoon patio chairs set delivers. But it’s not the lounger of your dreams — and knowing that before you buy is the difference between loving it and resenting it.

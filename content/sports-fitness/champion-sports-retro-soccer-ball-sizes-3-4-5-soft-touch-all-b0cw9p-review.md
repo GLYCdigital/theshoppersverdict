@@ -1,4 +1,5 @@
 ---
+
 title: "Champion Sports Retro Soccer Ball – Sizes 3, 4, 5, Soft Touch"
 seo_title: "Champion Sports Retro Soccer Ball Review (2026): Soft Touch"
 meta_description: "Champion Sports Retro Soccer Ball review: soft-touch feel, retro style, sizes 3-5. Is it worth buying? Pros, cons, and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW9PCL3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rf+o0P1bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely soft-touch surface reduces sting on headers and hard kicks — rare at this price point"
   - "Retro black-and-white panel design looks sharp and stands out from generic training balls"
   - "Holds air well over multiple sessions; valve stays sealed without frequent re-inflation"
-cons:
+cons: 
   - "Not match-grade; heavier than premium balls and lacks the crisp rebound of a $40+ ball"
   - "Surface scuffs noticeably on rough concrete or asphalt — keep it on grass or turf"
+
 ---
 
 The Champion Sports Retro Soccer Ball is the training partner that won't bruise your shins or your ego. It's a soft-touch ball designed for players who want to work on technique without the rock-hard feel of cheap plastic balls. But is it worth your money? Let's break it down.

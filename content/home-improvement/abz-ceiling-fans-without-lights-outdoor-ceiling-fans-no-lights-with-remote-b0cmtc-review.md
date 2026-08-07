@@ -1,4 +1,5 @@
 ---
+
 title: "ABZ Ceiling Fans without Lights - Outdoor Ceiling Fans no Li"
 seo_title: "ABZ Outdoor Ceiling Fan Review: No-Light, Remote-Controlled"
 meta_description: "ABZ ceiling fans without lights deliver powerful airflow in a sleek, wet-rated design. Read our honest review of performance, noise, and installation."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CMTC9WTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G0ZCrcI6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "UL-rated for wet locations — can handle direct rain exposure without shorting"
   - "Six-speed DC motor is genuinely quiet at low settings (under 30 dB)"
   - "Reversible airflow for winter/summer use, controlled entirely from the remote"
-cons:
+cons: 
   - "Remote is required — no pull chain means you're stranded if it's misplaced"
   - "Installation instructions are minimal; the wiring diagram assumes prior electrical experience"
   - "Canopy design is bulky and may not sit flush on angled or textured ceilings"
+
 ---
 
 When a ceiling fan's primary job is moving air, not looking like a chandelier, you want something that just works. The ABZ outdoor ceiling fan without lights strips away the frills — no light kit, no pull chains, no fuss. But does it actually move air effectively on a covered porch, or is it just another humid-air circulator that looks good in product photos?

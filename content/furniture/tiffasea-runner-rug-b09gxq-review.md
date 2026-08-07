@@ -1,4 +1,5 @@
 ---
+
 title: "Tiffasea Runner Rug"
 seo_title: "Tiffasea Runner Rug Review: Verdict | TSV"
 meta_description: "Our full tiffasea runner rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09GXQ516N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ltJLGKA7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The Tiffasea Runner Rug solves the two biggest hallway rug complaints — sliding and shedding — without breaking the bank. It's not plush, and it's not a design statement, but for high-traffic zones where safety matters more than softness, it's genuinely hard to beat at this price point.

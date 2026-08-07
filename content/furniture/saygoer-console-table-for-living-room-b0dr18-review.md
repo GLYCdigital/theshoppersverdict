@@ -1,4 +1,5 @@
 ---
+
 title: "SAYGOER Console Table for Living Room"
 seo_title: "SAYGOER Console Table for Living Room Review: Verdict | T"
 meta_description: "Our full saygoer console table for living room review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR18TKQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NB-fBKlOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SAYGOER console table solves a very specific problem: you need a narrow surface for a hallway, entryway, or behind a sofa, and you don't want to spend a fortune or fight with complicated assembly. At 4.7 stars from 235 ratings, it's clearly doing something right. But is it the right table for *your* space? Let's dig in.

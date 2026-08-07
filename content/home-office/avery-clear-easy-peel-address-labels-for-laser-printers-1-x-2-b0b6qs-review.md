@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Clear Easy Peel Address Labels for Laser Printers 1 inch  x"
 seo_title: "Avery Clear Easy Peel Address Labels Review (2026): Are They Worth It?"
 meta_description: "Honest Avery Clear Easy Peel Address Labels review: real-world print quality, adhesion, and laser printer performance. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6QSPRPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qgAF-noyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True transparency — printed text appears to float directly on the envelope, not on a white box"
   - "Easy Peel carrier sheet halves the removal effort; label pops off without curling or tearing"
   - "Laser-optimized formulation resists smudging and toner flaking, even on textured cardstock"
-cons:
+cons: 
   - "Clear labels show every speck of dust or fingerprint before application — handle by edges only"
   - "Not compatible with inkjet printers; buying these for an inkjet wastes money"
   - "Adhesive is aggressive; repositioning after 5+ seconds leaves visible residue on envelopes"
+
 ---
 
 **The Verdict: These Are the Clear Labels You Actually Want — If You Own a Laser Printer**

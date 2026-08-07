@@ -1,4 +1,5 @@
 ---
+
 title: "BEQHAUSE Dirt Trapper Door Mat"
 seo_title: "BEQHAUSE Dirt Trapper Door Mat Review (2026): Worth It?"
 meta_description: "Honest BEQHAUSE Dirt Trapper Door Mat review: performance, build, real buyer feedback. Does it actually trap dirt? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DY1HFJ76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hdgwkvvxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive scraper texture removes mud, gravel, and pet paw debris in one or two swipes—not just surface dust"
   - "Rubber backing grips hard floors and rugs without curling at the edges, even in high-traffic doorways"
   - "Quick-dry microfiber loops absorb water and snowmelt without getting that mildewy smell"
-cons:
+cons: 
   - "Thicker profile (about 0.6 inches) can catch under storm doors that swing inward"
   - "Dark colors show lint and pet fur quickly—you'll be vacuuming it more often than you expect"
+
 ---
 
 The BEQHAUSE Dirt Trapper Door Mat sits in a crowded category where most mats are either pretty and useless or functional and ugly. This one actually commits to the "dirt trapper" name. With 225 Amazon ratings averaging 4.5 stars, it's clearly doing something right—but let's dig into whether it's the right mat for your specific doorway.

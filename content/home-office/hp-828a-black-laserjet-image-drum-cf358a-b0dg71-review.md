@@ -1,4 +1,5 @@
 ---
+
 title: "HP 828A Black LaserJet Image Drum (CF358A)"
 seo_title: "HP 828A Black LaserJet Image Drum (CF358A) Review: Verdic"
 meta_description: "Our full hp 828a black laserjet image drum (cf358a) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DG715P1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AMnlXsIRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP 828A drum (CF358A) is one of those components you don't think about until your prints start looking like a fax from 1998. Then you're scrambling. Here's the honest breakdown before you drop the money.

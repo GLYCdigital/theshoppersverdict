@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Big Tab Write & Erase Durable Plastic Dividers for 3 R"
 seo_title: "Avery Big Tab Write & Erase Dividers Review (2026)"
 meta_description: "Honest Avery Big Tab Write & Erase plastic dividers review: durability, reusability, real user feedback, and who should buy. 4.8-star rated."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01HC4KIVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+0XkSmOKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Giant 1-inch write-on tabs are genuinely readable from across a desk, unlike standard ½-inch divider tabs"
   - "True write-erase surface works with standard dry-erase markers — no special pens required, erases clean with a tissue"
   - "Full plastic construction (not poly over cardstock) survives binder abuse, coffee spills, and repeated page flipping without tearing"
-cons:
+cons: 
   - "Tabs stick out noticeably past binder edges — they can catch on backpack zippers or shelf edges during transport"
   - "Dry-erase writing smudges if you close the binder immediately after writing; you need to let ink dry a few seconds"
+
 ---
 
 **Skip the sticky notes. These dividers actually replace them.**

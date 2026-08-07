@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M12 Fuel 1/2 Right Angle IMP Wrench KIT"
 seo_title: "Milwaukee Electric - M12 Fuel 1/2 Right Angle IMP  Review"
 meta_description: "Our full milwaukee electric - m12 fuel 1/2 right angle imp wrench kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0816ZZH25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BsMP5OpXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tools solve a problem you didn't know you had. Then there are tools like the Milwaukee M12 Fuel 1/2" Right Angle Impact Wrench — a solution for a problem every mechanic knows intimately: the fastener that sits at an impossible angle, buried behind a bracket, with exactly zero clearance for a standard gun.

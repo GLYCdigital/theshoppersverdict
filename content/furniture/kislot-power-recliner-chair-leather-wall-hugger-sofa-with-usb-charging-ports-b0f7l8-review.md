@@ -1,4 +1,5 @@
 ---
+
 title: "KISLOT Power Recliner Chair Leather Wall Hugger Sofa with US"
 seo_title: "KISLOT Power Recliner Chair Leather Wall Hugger So Review"
 meta_description: "Our full kislot power recliner chair leather wall hugger sofa with us review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F7L8VT1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ldZnQ0kML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the KISLOT Power Recliner the wall-hugging answer to your small-space living room? Let’s cut through the listing photos and talk about what actually matters.**

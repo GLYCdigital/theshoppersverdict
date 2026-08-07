@@ -1,4 +1,5 @@
 ---
+
 title: "FREELICHT 4/6 Inch 5CCT LED Can Lights with Night Light, 270 inch"
 seo_title: "FREELICHT 5CCT LED Can Light Review: Night Light Feature"
 meta_description: "FREELICHT 4/6-inch 5CCT LED can lights with night light reviewed. See real performance, color temp options, and installation tips before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6CVQR28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610iHjMAlEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in night light mode eliminates the need for separate low-wattage fixtures in hallways and bathrooms"
   - "Five selectable color temperatures (2700K–5000K) let you match existing trim without buying multiple SKUs"
   - "Tool-free twist-lock installation works with standard 4-inch and 6-inch housings"
-cons:
+cons: 
   - "Night light mode requires the wall switch to remain on — no separate wiring for independent control"
   - "Color temperature switch is on the fixture body, so you must pull the light down to adjust after installation"
+
 ---
 
 If you've ever stared at a box of recessed lights wondering which color temperature to commit to, the FREELICHT 4/6 Inch 5CCT LED Can Lights solve that with a simple toggle. But the real headline here is the integrated night light — a feature that sounds gimmicky until you actually need to stumble to the bathroom at 2 AM without blinding yourself.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aveeno Kids Continuous Protection Zinc Oxide Mineral Sunscre"
 seo_title: "Aveeno Kids Mineral Sunscreen Review: SPF 50 Stick for Sensitive Skin"
 meta_description: "Honest Aveeno Kids Continuous Protection Zinc Oxide Mineral Sunscreen review. Does the SPF 50 stick deliver broad-spectrum protection without the white cast? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHH55HMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711VKDNfJjL._SL1500_.jpg"
-pros:
+pros: 
   - "Zinc oxide formula provides true broad-spectrum protection without chemical filters that can irritate sensitive skin"
   - "Oat extract helps soothe and moisturize — a genuine benefit for eczema-prone kids, not just marketing"
   - "Stick format makes application fast and mess-free, ideal for squirmy toddlers and school-age touch-ups"
-cons:
+cons: 
   - "Leaves a visible white cast that takes 2-3 minutes of rubbing to fully blend — noticeable on deeper skin tones"
   - "Small 1.0 oz stick size runs out quickly if used as directed (reapply every 2 hours), making it pricey for daily summer use"
+
 ---
 
 # Aveeno Kids Continuous Protection Zinc Oxide Mineral Sunscreen Review: Worth the Hype for Sensitive Skin?

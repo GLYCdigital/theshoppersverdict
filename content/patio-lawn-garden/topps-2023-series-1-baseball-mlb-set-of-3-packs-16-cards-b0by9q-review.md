@@ -1,4 +1,5 @@
 ---
+
 title: "Topps 2023 Series 1 Baseball MLB Set of 3 Packs - 16 Cards p"
 seo_title: "Topps 2023 Series 1 Baseball MLB Set of 3 Packs -  Review"
 meta_description: "Our full topps 2023 series 1 baseball mlb set of 3 packs - 16 cards p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BY9Q13Y1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B1zO-yYJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the hype. The Topps 2023 Series 1 Baseball 3-Pack isn't going to make you rich, but it might scratch that collecting itch without emptying your wallet. I've opened plenty of these, and here's the honest breakdown.

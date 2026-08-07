@@ -1,4 +1,5 @@
 ---
+
 title: "3 Step Ladder, Folding Step Stool with Anti-Slip Wide Pedal"
 seo_title: "3 Step Ladder Folding Step Stool Review: Anti-Slip & Sturdy"
 meta_description: "Honest review of the 3 Step Ladder with anti-slip wide pedal. Is this folding step stool worth it? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G3DVND89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Wide anti-slip pedal surface that actually grips — even with wet shoes or socks"
   - "Folds flat to about 2 inches, slides under beds or into closet gaps easily"
   - "Rated to 330 lbs, which is uncommon at this price point"
-cons:
+cons: 
   - "No locking mechanism on the folding hinge — a few users report it can pinch if you're not careful when closing"
   - "At just over 7 lbs, lighter users may find it shifts slightly when climbing quickly"
+
 ---
 
 Let's cut through the noise: a 3-step ladder is one of those purchases you don't think about until you're balancing on a wobbly chair trying to reach the top shelf. The **3 Step Ladder with Anti-Slip Wide Pedal** aims to end that gamble. With 200 Amazon ratings averaging 4.0 stars, it's clearly doing something right — but is it the step stool you should trust with your neck?

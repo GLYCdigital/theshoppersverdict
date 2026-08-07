@@ -1,4 +1,5 @@
 ---
+
 title: "2026 A4 A5 planner, 4 Colors Paper"
 seo_title: "2026 A4 A5 Planner Review: 4 Colors Paper & Layout (2026)"
 meta_description: "Honest 2026 A4 A5 planner review: 4 colors paper, 229 ratings at 4.6 stars. We break down build quality, layout, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXD5Q2HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yfCMlHwML._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Four distinct paper color options let you match the planner to your workspace or visual preference without paying a premium"
   - "A4 and A5 sizes available in the same listing, so you can standardize across home office and carry bag"
   - "Thick, bleed-resistant paper that holds up to gel pens and mild highlighters without ghosting"
-cons:
+cons: 
   - "No dated pages — it's an undated planner, so you'll need to write in dates if you want a fixed calendar structure"
   - "Cover is flexible cardstock rather than a rigid hardcover, which may not survive a year of heavy bag abuse"
+
 ---
 
 Let’s cut through the noise. A planner is a promise you make to your future self every January — and most of them break that promise by March. The 2026 A4/A5 planner with 4 colors paper is trying something different. Instead of the usual black or navy hardcover, this one gives you four paper color choices and two sizes. But does that gimmick hold up to daily use? I dug through the specs, the 229 ratings, and the customer feedback to give you the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Snack Organizer for Countertop"
 seo_title: "Snack Organizer for Countertop Review: Verdict | TSV"
 meta_description: "Our full snack organizer for countertop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FLK8P76D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aG92PakTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen counter looks like a snack graveyard — half-open chip bags, loose granola bars, a rogue fruit pouch — this organizer is the intervention you've been looking for. I've tested a dozen countertop organizers over the years, and this tiered acrylic unit is the first one that actually earned permanent counter space.

@@ -1,23 +1,25 @@
 ---
+
 title: "50 End Tab Fastener File Folders - Reinforced Straight Cut T"
 seo_title: "End Tab Fastener File Folders Review: 50-Pack Reinforced"
 meta_description: "Honest review of 50 end tab fastener file folders with reinforced straight-cut tabs. Durable, 2-prong design, real buyer feedback, pros & cons."
 slug: "50-end-tab-fastener-file-folders-reinforced-straight-cut-tab-2-prong-b071cn-review"
 image_alt: "Stack of reinforced end tab fastener file folders with straight-cut tabs and 2-prong fasteners"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B071CN31TC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LnLfplEEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Reinforced top and bottom edges resist tearing at stress points, even with heavy contents"  
   - "Straight-cut end tabs accept standard 1/5-cut tabs and labels without needing a separate tab kit"  
   - "2-prong metal fasteners are sturdy and hold up to 25 sheets without bending or popping loose"  
-cons:  
+cons: 
   - "Fastener prongs are short — bulky files over 1/4 inch thick strain the closure"  
   - "No pre-printed tab inserts included; you'll need to buy or print your own labels"
+
 ---
 
 ## The 50-Pack That Actually Holds Up — Most of the Time  

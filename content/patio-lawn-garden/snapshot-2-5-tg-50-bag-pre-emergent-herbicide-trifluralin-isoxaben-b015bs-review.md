@@ -1,4 +1,5 @@
 ---
+
 title: "Snapshot 2.5 TG 50# Bag- Pre-Emergent Herbicide Trifluralin "
 seo_title: "Snapshot 2.5 TG 50# Bag- Pre-Emergent Herbicide Tr Review"
 meta_description: "Our full snapshot 2.5 tg 50# bag- pre-emergent herbicide trifluralin  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B015BSQRI4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Svd1EIVRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the 50-pound bag sitting in the cart section at the farm supply store and wondered if it's overkill for a residential yard. Here's the short answer: if you have more than 5,000 square feet of lawn and ornamental beds, this is the most cost-effective pre-emergent you can buy. If you have a postage-stamp yard, you're better off with a smaller bag.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rotary Roller Coaster Truck â€¦"
 seo_title: "Rotary Roller Coaster Truck â€¦ Review: Verdict | TSV"
 meta_description: "Our full rotary roller coaster truck â€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KZTSGLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-wP6NDLKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: there's a reason this thing sits at 4.6 stars across 229 ratings. The Rotary Roller Coaster Truck is one of those unglamorous tools that you don't think about until you're alone in a parking lot trying to slide a 400-pound generator into your truck bed. Then it becomes the most important thing you own.

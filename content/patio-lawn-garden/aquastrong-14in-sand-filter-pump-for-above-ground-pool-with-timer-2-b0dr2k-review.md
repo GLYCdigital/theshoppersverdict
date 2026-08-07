@@ -1,8 +1,10 @@
 ---
 
+
 ## The 3.0-Star Reality Check: What 150 Buyers Are Actually Saying
 
 Let’s be blunt: a 3.0-star average on 150 ratings isn’t a fluke. It’s a signal that the AQUASTRONG 14-inch sand filter pump delivers on paper but stumbles in practice for a meaningful chunk of buyers. If you’re shopping for an above-ground pool filter, you need the unvarnished breakdown—here it is.
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair Vengeance DDR5 32GB (2x16GB) DDR5 6000MHz"
 seo_title: "Corsair Vengeance DDR5 32GB Review: Worth It in 2026?"
 meta_description: "Corsair Vengeance DDR5 32GB (2x16GB) 6000MHz review: real benchmarks, XMP 3.0 setup, heat performance, and who should buy this RAM in 2026."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3S6RYM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m8xvVXvvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 6000MT/s with tight CL30-36-36-76 timings out of the box via XMP 3.0 — no manual tuning needed for most AM5 boards"
   - "Low-profile 34.5mm heat spreader clears most large CPU coolers, unlike taller RGB kits"
   - "Single-rank Hynix dies that overclock well; many buyers report stable 6200-6400MT/s at 1.35V"
-cons:
+cons: 
   - "No RGB — if you want lighting effects, pay $20-30 more for the Vengeance RGB variant"
   - "EXPO profiles are not pre-loaded; AMD users must enable XMP in BIOS, which throws off some beginners"
   - "Barebones packaging — no thermal sensor or extra documentation included"
+
 ---
 
 # Corsair Vengeance DDR5 32GB Review: The Smart Buy for AM5 Builders?

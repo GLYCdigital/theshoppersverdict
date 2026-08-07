@@ -1,4 +1,5 @@
 ---
+
 title: "HOLD.ME Three-Way Hairspray by DESIGNME | Multi-Purpose Styl"
 seo_title: "HOLD.ME Three-Way Hairspray by DESIGNME | Multi-Pu Review"
 meta_description: "Our full hold.me three-way hairspray by designme | multi-purpose styl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09R233P8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41o-QPwXTOL._SL1081_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the multi-product routine. This one bottle claims to replace your setting lotion, texturizing spray, and finishing mist — and for most hair types, it actually delivers.**

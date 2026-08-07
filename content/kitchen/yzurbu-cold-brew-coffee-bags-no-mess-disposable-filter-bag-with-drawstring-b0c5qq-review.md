@@ -1,4 +1,5 @@
 ---
+
 title: "Yzurbu Cold Brew Coffee Bags, No Mess Disposable Filter Bag "
 seo_title: "Yzurbu Cold Brew Coffee Bags, No Mess Disposable F Review"
 meta_description: "Our full yzurbu cold brew coffee bags, no mess disposable filter bag  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C5QQ7S8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KeME1wzLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Cold Brew Without the Mess — Does It Actually Work?

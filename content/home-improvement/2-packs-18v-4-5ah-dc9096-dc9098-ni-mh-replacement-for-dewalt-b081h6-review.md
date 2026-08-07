@@ -1,4 +1,5 @@
 ---
+
 title: "2 Packs 18V 4.5Ah DC9096 DC9098 Ni-Mh Replacement for Dewalt"
 seo_title: "2-Pack 18V 4.5Ah DC9096/DC9098 Replacement Battery Review"
 meta_description: "Honest review of 2-pack 18V 4.5Ah Ni-MH replacement batteries for DeWalt DC9096/DC9098 tools. Real performance data, fitment notes, and value verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B081H6QGDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qPREq3PfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Second battery for the price of one OEM — genuine savings for a 2-pack"
   - "Drop-in compatible with DC9096, DC9098, and the entire 18V XRP line"
   - "4.5Ah capacity actually delivers noticeably longer runtime than stock 2.4Ah packs"
-cons:
+cons: 
   - "Ni-MH chemistry means self-discharge — store charged, expect to top off after weeks idle"
   - "Slightly heavier than OEM due to the higher cell count in the same shell"
   - "No fuel gauge or charge indicator LEDs on the pack housing"
+
 ---
 
 Let's be blunt: if you're still running DeWalt's 18V Ni-Cad/Ni-MH platform in 2026, you're not chasing the latest tech. You're keeping a workhorse alive because the tools themselves refuse to die. This 2-pack of 4.5Ah replacement batteries is aimed squarely at you, and for the most part, it delivers.

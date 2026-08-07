@@ -1,4 +1,5 @@
 ---
+
 title: "Le Creuset Enamel On Steel Demi Tea Kettle with Metal Finish"
 seo_title: "Le Creuset Enamel On Steel Demi Tea Kettle with Me Review"
 meta_description: "Our full le creuset enamel on steel demi tea kettle with metal finish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXWR2QXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zE5tOJIcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: you don't need to spend Le Creuset money on a tea kettle. A $20 stainless model from the hardware store boils water exactly the same. What you're paying for here is the enamel coating, the build quality, and the fact that this thing will likely outlive your current stove. Whether that's worth it depends entirely on how much you value a kettle that looks as good on day 500 as it did on day one.

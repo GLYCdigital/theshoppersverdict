@@ -1,4 +1,5 @@
 ---
+
 title: "Southern Ag Brush Killer 8.8% Triclopyr (Vines, Hard-to-Cont"
 seo_title: "Southern Ag Brush Killer 8.8% Triclopyr (Vines, Ha Review"
 meta_description: "Our full southern ag brush killer 8.8% triclopyr (vines, hard-to-cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B007PJWPCA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Du+Hmxc7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've fought multiflora rose, poison ivy, or wild blackberry thickets with glyphosate and lost, the Southern Ag Brush Killer is the chemical you've been missing. This is a serious herbicide for serious infestations — not a weekend-warrior weed spray. At 8.8% triclopyr (the same active ingredient in Brush-B-Gone and Garlon), it's formulated to kill woody plants that ordinary weed killers merely annoy.

@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Dry Cat Food for Indoor Cats"
 seo_title: "ACANA Dry Cat Food for Indoor Cats Review (2026)"
 meta_description: "Honest ACANA Dry Cat Food for Indoor Cats review: ingredients, protein content, picky eater feedback, and whether it's worth the premium price."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWRHBSMS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MH2rBhlAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First five ingredients are all animal proteins — chicken, turkey, whole eggs, fish, and chicken liver — giving indoor cats the meat-forward diet their biology demands"
   - "Includes freeze-dried chicken liver coating that even finicky eaters consistently accept, per multiple verified reviews"
   - "High fiber content from pumpkin and chicory root helps with hairball management and litter box regularity"
-cons:
+cons: 
   - "Premium price point runs roughly 30-40% higher than grocery-store brands; not budget-friendly for multi-cat households"
   - "Some cats with sensitive stomachs need a slow 7-10 day transition to avoid soft stools due to the high protein load"
+
 ---
 
 If your indoor cat has ever turned up their nose at "light" or "indoor formula" kibble, you already know the problem: most of those bags are packed with grains and fillers to hit a lower calorie count. ACANA takes the opposite approach with their Indoor Cat recipe, and it's worth understanding exactly what that means for your wallet and your cat's bowl.

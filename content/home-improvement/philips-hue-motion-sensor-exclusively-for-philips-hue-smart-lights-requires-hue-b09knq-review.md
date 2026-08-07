@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Hue Motion Sensor - Exclusively for Philips Hue Smar"
 seo_title: "Philips Hue Motion Sensor - Exclusively for Philip Review"
 meta_description: "Our full philips hue motion sensor - exclusively for philips hue smar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KNQ5KTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E6PcfbT0S._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What You Actually Get

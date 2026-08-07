@@ -1,4 +1,5 @@
 ---
+
 title: "Upgraded Dryer Repair Kit Dryer Roller Kit for LG Kenmore Dr"
 seo_title: "Upgraded Dryer Repair Kit Dryer Roller Kit for LG  Review"
 meta_description: "Our full upgraded dryer repair kit dryer roller kit for lg kenmore dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0826N5X4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bppCxBBAL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 That rumbling, thumping sound coming from your dryer isn't just annoying — it's your drum rollers grinding down to the metal. If you've got an LG or Kenmore dryer that's been running for five-plus years, this repair kit is likely the fix. Here's the honest breakdown after digging through the specs and what 235 buyers actually reported.

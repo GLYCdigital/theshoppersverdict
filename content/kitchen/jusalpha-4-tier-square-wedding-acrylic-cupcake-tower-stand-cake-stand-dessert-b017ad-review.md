@@ -1,4 +1,5 @@
 ---
+
 title: "Jusalpha 4 Tier Square Wedding Acrylic Cupcake Tower Stand-C"
 seo_title: "Jusalpha 4 Tier Square Wedding Acrylic Cupcake Tow Review"
 meta_description: "Our full jusalpha 4 tier square wedding acrylic cupcake tower stand-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B017ADLP1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7160i4TJqnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're planning a wedding, bridal shower, or any event where dessert is the centerpiece, you already know the dilemma: rent a tiered stand that arrives scratched, or buy one that costs more than the cake itself. The Jusalpha 4-Tier Square Acrylic Cupcake Tower sits in that sweet spot between disposable cardboard and heirloom crystal — but it's not without quirks.

@@ -1,4 +1,5 @@
 ---
+
 title: "Knorr Bouillon Sauces"
 seo_title: "Knorr Bouillon Sauces Review: Verdict | TSV"
 meta_description: "Our full knorr bouillon sauces review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08WR4Q6MR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kOOKW9bZL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Knorr Bouillon Sauces: they're not bouillon cubes, and they're not canned broth. These are concentrated liquid flavor bases in tear-open packets, and that distinction matters more than you'd think.

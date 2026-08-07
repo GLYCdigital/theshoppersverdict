@@ -1,4 +1,5 @@
 ---
+
 title: "Jo Milano Game of Spades Collection 3x30ml"
 seo_title: "Jo Milano Game of Spades Collection 3x30ml Review: Verdic"
 meta_description: "Our full jo milano game of spades collection 3x30ml review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6DGS3CD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DMHJhH1SL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

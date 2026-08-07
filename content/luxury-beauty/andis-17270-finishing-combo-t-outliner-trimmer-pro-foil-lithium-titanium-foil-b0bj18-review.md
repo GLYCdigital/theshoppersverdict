@@ -1,4 +1,5 @@
 ---
+
 title: "Andis 17270 Finishing Combo T-Outliner Trimmer & Pro Foil Li"
 seo_title: "Andis 17270 Finishing Combo Review: Pro-Grade Trimming"
 meta_description: "Andis 17270 Finishing Combo review: T-Outliner & Pro Foil Li tested for precision, battery life, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJ18QMXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o0HZJKfEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero-gap adjustable T-Outliner blades deliver crisp, barber-grade line work without the cost of separate guard sets"
   - "Lithium-ion battery in the Pro Foil Li runs 60+ minutes per charge — real cordless freedom, not a toy"
   - "Dual-voltage and cord/cordless flexibility make this a travel-ready kit for pros and home users alike"
-cons:
+cons: 
   - "T-Outliner runs warm during extended use; some users report heat after 15+ minutes of continuous trimming"
   - "No included blade oil or cleaning brush — you'll need to buy maintenance supplies separately"
+
 ---
 
 ## The barber-shop duo that actually earns its place on your counter

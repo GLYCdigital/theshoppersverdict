@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Universal Showering Components Shower Arm"
 seo_title: "Delta Universal Showering Components Shower Arm Review"
 meta_description: "Honest Delta Universal Showering Components Shower Arm review: build quality, fit, finish, and whether it's worth upgrading your shower setup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07C2QMXDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oDLLi+jRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a clean chrome finish that resists water spots and fingerprints"
   - "Universal 1/2-inch NPT threads fit virtually any standard shower arm flange and showerhead"
   - "Meets EPA WaterSense criteria when paired with a compatible Delta showerhead"
-cons:
+cons: 
   - "Only available in polished chrome — no brushed nickel or matte black options"
   - "Some buyers report the included flange is thinner than premium aftermarket options"
+
 ---
 
 ## The Unsung Hero of a Good Shower

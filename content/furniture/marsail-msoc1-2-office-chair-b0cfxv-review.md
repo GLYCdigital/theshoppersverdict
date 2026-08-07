@@ -1,4 +1,5 @@
 ---
+
 title: "Marsail MSOC1-2 Office Chair"
 seo_title: "Marsail MSOC1-2 Office Chair Review: Verdict | TSV"
 meta_description: "Our full marsail msoc1-2 office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CFXV6X1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jTpZjB+sL._AC_SL1328_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Marsail MSOC1-2 is the budget ergonomic chair that actually tries.** At a price point where most chairs give you a flat slab of foam and a prayer, this one shows up with real adjustments. After digging through 210 Amazon ratings averaging 4.2 stars, the story is consistent: solid value, a few compromises, and one glaring issue you need to know before you click buy.

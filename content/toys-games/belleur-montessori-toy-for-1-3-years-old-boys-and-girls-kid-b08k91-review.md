@@ -1,4 +1,5 @@
 ---
+
 title: "Belleur Montessori Toy for 1-3 Years Old Boys and Girls, Kid"
 seo_title: "Belleur Montessori Toy Review: Best Pick for 1-3 Year Olds"
 meta_description: "Honest Belleur Montessori Toy review for 1-3 year olds. See what 229 buyers love, real downsides, and whether this educational toy is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K91N1CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dKxgXMrXxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pinewood construction with smooth, splinter-free edges that survive toddler handling"
   - "Five distinct activities (shape sorting, bead maze, gears, clock, and sliding puzzle) in one compact unit"
   - "Non-toxic, water-based paint that passed safety testing for mouthing toddlers"
-cons:
+cons: 
   - "Bead maze wire is thinner than premium brands and can bend with aggressive play"
   - "Some buyers report the shape sorter lid is difficult for younger 12-month-olds to remove independently"
+
 ---
 
 **The Short Version: A Rare Montessori Toy That Actually Keeps Toddlers Engaged**

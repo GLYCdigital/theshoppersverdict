@@ -1,4 +1,5 @@
 ---
+
 title: "CAGIE Lined Journals for Writing Large Notebooks for Note Ta"
 seo_title: "CAGIE Large Lined Journal Review: Worth It? (2026)"
 meta_description: "Honest CAGIE lined journal review: paper quality, durability, and real buyer feedback on these large writing notebooks. See if they're worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNPT3J61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qukShOx9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 120gsm paper handles fountain pens and markers with minimal bleed-through"
   - "Lay-flat binding stays open on a desk without constant page-holding"
   - "Numbered pages and a table of contents make it functional for work notes, not just journaling"
-cons:
+cons: 
   - "Elastic closure band loosens slightly after 2-3 months of daily use"
   - "Only 2 ribbon bookmarks included — frequent note-takers may want more"
+
 ---
 
 # CAGIE Lined Journal Review: A Serious Notebook for Serious Note-Takers

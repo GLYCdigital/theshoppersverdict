@@ -1,4 +1,5 @@
 ---
+
 title: "PERLESMITH Universal TV Stand Mount for 20-75 Inch TVs, Heig"
 seo_title: "PERLESMITH Universal TV Stand Mount for 20-75 Inch Review"
 meta_description: "Our full perlesmith universal tv stand mount for 20-75 inch tvs, heig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B078MBL6KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610sNRrnFgL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You just bought a 65-inch TV and realized the stock feet put the screen two inches too low, or they're wider than your media console. Before you drop $200 on a full wall-mount install, here's the alternative thousands of shoppers have already grabbed: the PERLESMITH Universal TV Stand Mount. It's the furniture category's quiet workhorse — a set of heavy-duty legs that replaces your TV's factory feet and gives you back control over height and fit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Le Creuset Stoneware Mini Round Cocotte"
 seo_title: "Le Creuset Stoneware Mini Round Cocotte Review: Verdict |"
 meta_description: "Our full le creuset stoneware mini round cocotte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSSGLCHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Le Creuset Mini Round Cocotte is a tiny workhorse — if you know exactly what you're getting.** At first glance, the $30-ish price tag (depending on color and sales) for something that fits in your palm raises eyebrows. But this isn't a scaled-down Dutch oven for cooking a stew; it's a purpose-built vessel for individual portions, and it nails that niche.

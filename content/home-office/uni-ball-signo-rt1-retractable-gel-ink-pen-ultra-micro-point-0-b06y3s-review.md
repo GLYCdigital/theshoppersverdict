@@ -1,4 +1,5 @@
 ---
+
 title: "Uni-ball Signo RT1 Retractable Gel Ink Pen, Ultra Micro Poin"
 seo_title: "Uni-ball Signo RT1 Retractable Gel Ink Pen, Ultra  Review"
 meta_description: "Our full uni-ball signo rt1 retractable gel ink pen, ultra micro poin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06Y3S2XKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41G6JyrC6SL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Uni-ball Signo RT1 Ultra Micro Point is the pen you reach for when you need surgical precision — but it's not for everyone.**

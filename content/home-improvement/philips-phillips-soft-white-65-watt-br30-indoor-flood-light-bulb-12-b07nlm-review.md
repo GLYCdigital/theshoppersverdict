@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Phillips Soft White 65-Watt BR30 Indoor Flood Light "
 seo_title: "Philips Phillips Soft White 65-Watt BR30 Indoor Fl Review"
 meta_description: "Our full philips phillips soft white 65-watt br30 indoor flood light  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07NLM69W6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GXZpJbgGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got recessed lighting that's been flickering, buzzing, or just throwing that cold, sterile light that makes your living room feel like a waiting room, this Philips BR30 is the fix. It's not fancy. It's not LED. It's a straightforward incandescent flood bulb that does one thing well: warm, even light that makes a room feel like home.

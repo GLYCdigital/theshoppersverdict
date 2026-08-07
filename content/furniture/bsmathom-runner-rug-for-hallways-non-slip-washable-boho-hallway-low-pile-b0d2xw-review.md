@@ -1,4 +1,5 @@
 ---
+
 title: "Bsmathom Runner Rug for Hallways Non Slip Washable Boho Hall"
 seo_title: "Bsmathom Runner Rug Review: Non-Slip, Washable Boho Hallway"
 meta_description: "Bsmathom runner rug review: non-slip, washable boho hallway runner. Real buyer feedback on durability, cleaning, and fit for narrow spaces."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2XWCJ6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q8D-Qav7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without fraying or losing color"
   - "Grip backing holds firm on hardwood and tile — no curling edges or sliding underfoot"
   - "Low 0.2-inch pile sits flush under doors and won't catch on vacuum wheels"
-cons:
+cons: 
   - "Pattern shows footprints and dust between washes on lighter colorways"
   - "Sheds lightly for the first week — needs a couple of vacuum passes before it settles"
+
 ---
 
 Let's be blunt: most hallway rugs are either pretty or practical. The Bsmathom Runner Rug attempts both, and at a 4.5-star average across 225 ratings, it's largely pulling it off. But the real question isn't whether it looks good in the product photos — it's whether it survives your actual hallway. Here's what I found.

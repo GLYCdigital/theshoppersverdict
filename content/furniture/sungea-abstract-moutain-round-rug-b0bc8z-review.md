@@ -1,4 +1,5 @@
 ---
+
 title: "Sungea Abstract Moutain Round Rug"
 seo_title: "Sungea Abstract Moutain Round Rug Review: Verdict | TSV"
 meta_description: "Our full sungea abstract moutain round rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BC8Z3JH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BQZd4LE1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sungea Abstract Moutain Round Rug Review: Is This 5-Foot Circle Worth Your Floor Space?

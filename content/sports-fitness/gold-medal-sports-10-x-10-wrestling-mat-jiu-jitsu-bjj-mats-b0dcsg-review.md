@@ -1,4 +1,5 @@
 ---
+
 title: "Gold Medal Sports 10' x 10' Wrestling Mat, Jiu Jitsu BJJ Mat"
 seo_title: "Gold Medal Sports 10' x 10' Wrestling Mat, Jiu Jit Review"
 meta_description: "Our full gold medal sports 10' x 10' wrestling mat, jiu jitsu bjj mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DCSG6WTV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41YolZKh8PL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the mat that turns your garage into a legit dojo?** After 240 Amazon ratings averaging 4.8 stars, the Gold Medal Sports 10' x 10' Wrestling and BJJ Mat has clearly found its audience. But before you drop serious cash on home grappling equipment, let's dig into whether this mat delivers where it matters — impact absorption, durability, and grip.

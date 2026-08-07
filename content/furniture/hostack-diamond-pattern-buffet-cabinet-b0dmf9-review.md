@@ -1,4 +1,5 @@
 ---
+
 title: "HOSTACK Diamond Pattern Buffet Cabinet"
 seo_title: "HOSTACK Diamond Pattern Buffet Cabinet Review: Verdict | "
 meta_description: "Our full hostack diamond pattern buffet cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMF96WG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Jj35tVNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOSTACK Diamond Pattern Buffet Cabinet Review: Style That Punches Above Its Price

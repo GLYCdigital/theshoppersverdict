@@ -1,4 +1,5 @@
 ---
+
 title: "Tootoo Star Brown Large Drum Lamp Shade for Chandeliers Floo"
 seo_title: "Tootoo Star Brown Large Drum Lamp Shade for Chande Review"
 meta_description: "Our full tootoo star brown large drum lamp shade for chandeliers floo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08M67242J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EbU5sirLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tootoo Star Brown Large Drum Lamp Shade: The $25 Fix That Transforms a Ugly Light Fixture

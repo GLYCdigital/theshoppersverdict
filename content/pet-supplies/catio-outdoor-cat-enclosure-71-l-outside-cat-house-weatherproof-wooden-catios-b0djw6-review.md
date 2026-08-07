@@ -1,4 +1,5 @@
 ---
+
 title: "Catio Outdoor Cat Enclosure,71 inch  L Outside Cat House Weatherp"
 seo_title: "Catio Outdoor Cat Enclosure 71 inch  L Review: Weatherproof Wooden Catio"
 meta_description: "Honest review of the 71 inch  L Catio Outdoor Cat Enclosure. Is this weatherproof wooden catio worth it for your feline? Read pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJW6KN55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Ur87grGfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine wood construction (not particleboard) with a weatherproof coating that holds up to rain and direct sun"
   - "71-inch length gives multiple cats room to move; the elevated platform and ramp add vertical enrichment"
   - "Four lockable doors — two on the top, two on the sides — make cleaning and cat access genuinely convenient"
-cons:
+cons: 
   - "Assembly takes 2–3 hours with two people; the included hex wrench strips easily on the wood screws"
   - "The wire mesh is stapled, not screwed — determined chewers or clawing cats may eventually pull it loose"
   - "No floor panel included; you'll need to place it on grass, concrete, or a pallet to avoid moisture wicking up"
+
 ---
 
 If your cat spends every window session yowling at birds, a catio is the answer. The 71-inch Catio Outdoor Cat Enclosure is a solid mid-sized option that gives indoor cats fresh air without the free-roaming risks. But before you click buy, there are a few assembly and durability realities you need to know.

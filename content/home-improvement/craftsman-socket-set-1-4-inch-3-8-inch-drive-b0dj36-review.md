@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Socket Set, 1/4-Inch & 3/8-Inch Drive"
 seo_title: "CRAFTSMAN Socket Set Review: 1/4 & 3/8 Drive (2026)"
 meta_description: "Honest CRAFTSMAN 1/4 & 3/8-inch socket set review: build quality, missing sizes, who should buy it. Real user feedback included."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ362MFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81stSp7C5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-polish chrome finish resists rust and wipes clean easily, even after exposure to brake fluid and degreaser"
   - "72-tooth ratchets with a slim profile that fits into tight engine bays where bulkier heads won't go"
   - "Molded case keeps every socket in its labeled slot — no more digging through a drawer for the 10mm"
-cons:
+cons: 
   - "No 1/4-inch deep sockets included, which limits reach on longer studs and recessed fasteners"
   - "Case latches feel a bit thin; they'll hold up to normal use but may not survive a drop from a workbench"
+
 ---
 
 If you've ever owned a socket set that scattered across the garage floor the first time you opened the case, you know the value of a well-organized kit. The CRAFTSMAN 1/4-inch and 3/8-inch drive set aims to be the last basic socket set you buy for home use — and with a 4.8-star average across 240 ratings, it's clearly hitting the mark for most buyers. But is it right for you? Let's dig into what you actually get.

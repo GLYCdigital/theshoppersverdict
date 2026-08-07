@@ -1,4 +1,5 @@
 ---
+
 title: "[2 Pack] Stackable Conference Room Chairs with Wheels and Pa"
 seo_title: "Stackable Conference Chairs with Wheels Review (2-Pack)"
 meta_description: "Read our honest review of the 2-pack stackable conference chairs with wheels. See build quality, comfort, and if they're worth $105 for your office."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BM949DCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616PTwHT8QL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine stackability with a built-in handle — stores vertically in roughly half the floor space of typical rolling chairs"
   - "Weight capacity is honest at 250 lbs; the steel frame and nylon base don't flex or wobble under load"
   - "Smooth-rolling dual-wheel casters work on low-pile carpet and hard floors without leaving marks"
-cons:
+cons: 
   - "Seat cushion is dense and firm — fine for 30-minute meetings, punishing for 3-hour training sessions"
   - "Assembly requires an Allen wrench and patience; the star base and gas lift take about 20 minutes per chair"
   - "Padded armrests are fixed at one height — taller users (6'+) may find them slightly low"
+
 ---
 
 If you've ever wrestled with a dozen rolling chairs for a training room reset, you already know why stackable conference chairs exist. The question is whether a $105 two-pack can deliver both mobility and the space-saving promise. After digging through 200 ratings and the spec sheet, here's the real picture.

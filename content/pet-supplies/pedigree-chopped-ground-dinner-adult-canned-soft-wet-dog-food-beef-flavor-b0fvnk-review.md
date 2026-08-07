@@ -1,4 +1,5 @@
 ---
+
 title: "Pedigree Chopped Ground Dinner Adult Canned Soft Wet Dog Foo"
 seo_title: "Pedigree Chopped Ground Dinner Adult Canned Soft W Review"
 meta_description: "Our full pedigree chopped ground dinner adult canned soft wet dog foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVNKK6QS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdu3jD2RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pedigree Chopped Ground Dinner: A Budget Wet Food That Picky Dogs Actually Eat

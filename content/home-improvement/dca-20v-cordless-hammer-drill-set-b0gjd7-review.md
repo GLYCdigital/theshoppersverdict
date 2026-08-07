@@ -1,4 +1,5 @@
 ---
+
 title: "DCA 20V Cordless Hammer Drill Set"
 seo_title: "DCA 20V Cordless Hammer Drill Set Review (2026): Worth It?"
 meta_description: "DCA 20V Cordless Hammer Drill Set review: 4.4-star rated. Tested performance, battery life, and value. Find out if this budget drill beats the big brands."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJD7CHN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71swCUGqcYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two 2.0Ah batteries included — real runtime, not the single-battery tease budget kits usually pull"
   - Hammer drill function actually engages masonry — I drilled 1/4 inch " holes into cinder block without bogging down
   - "Variable speed trigger with 18+1 clutch positions gives genuine control for driving screws without stripping"
-cons:
+cons: 
   - "Chuck is metal but a bit gritty — occasionally needs a re-tighten mid-drive on larger bits"
   - "No belt clip or bit storage in the included bag — minor, but annoying if you're on a ladder"
   - "Battery charge indicator only has 3 LEDs — you'll get caught flat if you don't check before heavy use"
+
 ---
 
 **The $60 question: Can a no-name drill actually keep up, or is this a garage-sale paperweight?**

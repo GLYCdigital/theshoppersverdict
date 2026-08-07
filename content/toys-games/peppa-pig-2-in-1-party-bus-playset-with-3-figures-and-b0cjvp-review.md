@@ -1,4 +1,5 @@
 ---
+
 title: "Peppa Pig 2-in-1 Party Bus Playset with 3 Figures and 13 Acc"
 seo_title: "Peppa Pig 2-in-1 Party Bus Playset with 3 Figures  Review"
 meta_description: "Our full peppa pig 2-in-1 party bus playset with 3 figures and 13 acc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJVPXN6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-WO+uW9ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Peppa Pig Party Bus Review: 2-in-1 Playset That Actually Earns the Hype**

@@ -1,7 +1,8 @@
 ---
-title: "XKDOUS Invoice Book, 2-Part Carbonless, 5-9/16\" x 8-7/16\" In"
-seo_title: "XKDOUS Invoice Book, 2-Part Carbonless, 5-9/16\" x  Review"
-meta_description: "Our full xkdous invoice book, 2-part carbonless, 5-9/16\" x 8-7/16\" in review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "XKDOUS Invoice Book, 2-Part Carbonless, 5-9/16\ x 8-7/16\ In"
+seo_title: "XKDOUS Invoice Book, 2-Part Carbonless, 5-9/16\ x  Review"
+meta_description: "Our full xkdous invoice book, 2-part carbonless, 5-9/16\ x 8-7/16\ in review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "xkdous-invoice-book-2-part-carbonless-5-9-16-x-8-7-b0dj2l-review"
 image_alt: "XKDOUS Invoice Book, 2-Part Carbonless, 5-9/16 x 8-7/16 Invoice Receipt Book for Small Business, 50 Sets per Book"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ2LCRLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h3ySTkhLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: for $5.99, you're not buying a luxury invoicing system. You're buying a stack of numbered paper that needs to work when a customer asks for a receipt. The XKDOUS 2-Part Carbonless Invoice Book does exactly that — and does it well enough to earn a 4.8-star average from 240 buyers.

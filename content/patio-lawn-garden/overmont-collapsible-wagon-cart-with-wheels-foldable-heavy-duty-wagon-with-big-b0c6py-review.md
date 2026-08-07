@@ -1,4 +1,5 @@
 ---
+
 title: "Overmont Collapsible Wagon Cart with Wheels - Foldable Heavy"
 seo_title: "Overmont Collapsible Wagon Cart with Wheels - Fold Review"
 meta_description: "Our full overmont collapsible wagon cart with wheels - foldable heavy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6PYB3H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717SeSysHvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Overmont Collapsible Wagon: The $80 Workhorse That Actually Folds Flat

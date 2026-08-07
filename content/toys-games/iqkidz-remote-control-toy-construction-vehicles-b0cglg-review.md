@@ -1,4 +1,5 @@
 ---
+
 title: "IQKidz Remote Control Toy Construction Vehicles"
 seo_title: "IQKidz RC Construction Vehicles Review: 4.4-Star Verdict"
 meta_description: "IQKidz RC construction vehicles review: 2-pack trucks, 2.4GHz controls, lights & sounds. Is it worth it? Real buyer feedback, pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGLGT5J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p6HjKLzSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two vehicles in one box — dump truck and excavator — at a price that undercuts buying singles"
   - "2.4GHz controllers let two kids race or operate simultaneously without signal interference"
   - "Working dump bed and rotating excavator cab add genuine play value beyond just driving"
-cons:
+cons: 
   - "Battery compartment screws are tiny and fiddly — keep a precision screwdriver handy"
   - "Sound effects are loud with no volume control; parents may want to tape over the speaker"
   - "Plastic body shells feel light and could crack with repeated hard impacts"
+
 ---
 
 ## Two Trucks, One Box, Zero Signal Fights

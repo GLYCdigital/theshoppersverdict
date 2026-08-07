@@ -1,24 +1,26 @@
 ---
+
 title: "CLAXY Star Pendant Lights 14 inches 16 inches"
 seo_title: "CLAXY Star Pendant Lights Review: 14 & 16 Inch Fixtures"
 meta_description: "Honest CLAXY Star Pendant Lights review: 4.6★ from 229 shoppers. Tested for brightness, install ease, and style. Buy it or skip it — read first."
 slug: "claxy-star-pendant-lights-14-inches-16-inches-b083dl-review"
 image_alt: "CLAXY star-shaped pendant light in matte black, 14-inch size, hanging over a kitchen island"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B083DL5ZDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DCKJmxfRL._AC_SL1350_.jpg"
-pros:  
+pros: 
   - "Two size options (14 inch and 16 inch) with matching star-shaped shades offer real design flexibility"  
   - "E26 medium base works with standard dimmable LED bulbs — no proprietary hardware lock-in"  
   - "Fewer than 30 minutes to install for someone comfortable with basic wiring"  
-cons:  
+cons: 
   - "Bulbs not included — factor in an extra $15–$25 for quality dimmable LEDs"  
   - "Shade depth is fixed; you can't adjust the star's vertical position on the cord"  
   - "Some buyers report the matte black finish scuffs if you're careless during installation"
+
 ---
 
 The CLAXY Star Pendant Lights are the rare fixture that looks genuinely custom without the custom price tag. At 4.6 stars from 229 Amazon ratings, this isn't a flash-in-the-pan trend piece — it's a solidly-reviewed statement light that's been earning its keep in real kitchens, dining rooms, and stairwells. But before you buy, there's one thing you should know: the size you pick dramatically changes the look.

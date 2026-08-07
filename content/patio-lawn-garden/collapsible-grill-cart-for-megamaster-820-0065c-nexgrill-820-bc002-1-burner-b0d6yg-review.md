@@ -1,4 +1,5 @@
 ---
+
 title: "Collapsible Grill Cart for Megamaster 820-0065C Nexgrill â€Ž"
 seo_title: "Collapsible Grill Cart Review: Megamaster 820-0065C Fit"
 meta_description: "Honest review of the collapsible grill cart for Megamaster 820-0065C and Nexgrill. Real fit, build quality, portability. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D6YGPZ4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s7Fl1q17L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat to roughly 4 inches thick for garage or RV storage"
   - "Rated to hold up to 75 lbs — handles the 820-0065C with room for a full propane tank"
   - "Pre-drilled holes and included hardware bolt directly to the grill legs, no custom drilling"
-cons:
+cons: 
   - "No locking mechanism on the wheels — cart can roll on sloped patios"
   - "Surface is bare steel; expect light rust if left outside without a cover"
+
 ---
 
 Let me be blunt: a 4.2-star rating on a niche accessory like this tells you two things — it solves a real problem, and it has a couple of quirks. This collapsible cart exists for one reason: the Megamaster 820-0065C and Nexgrill 820-BC002 are great little single-burner grills, but they come on spindly legs that wobble on uneven concrete. This cart fixes that. Here's the full story.

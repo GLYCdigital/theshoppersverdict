@@ -1,4 +1,5 @@
 ---
+
 title: "Amada 10x10ft 1-Person Setup Pop Up Canopy Tent - Easy Outdo"
 seo_title: "Amada 10x10 Canopy Review: 1-Person Setup Worth It?"
 meta_description: "Honest Amada 10x10ft pop-up canopy review: Is the 1-person setup claim real? Tested for stability, portability & value. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F1JQZNDL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619SeFNizLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine one-person setup in under 90 seconds — no ladder or second pair of hands required"
   - "Straight-leg steel frame provides noticeably better stability than slanted-leg budget canopies in light wind"
   - "Included roller bag with wheels makes solo transport practical, though the bag itself is thin"
-cons:
+cons: 
   - "Not a waterproof canopy — the polyester top is water-resistant at best; heavy rain pools on the center"
   - "Frame corners lack reinforcement gussets, so the push-button locks can bind if you don't align the legs perfectly"
   - "Carry bag zipper is the weakest component; several reviewers report it splitting after 5–10 uses"
+
 ---
 
 **The "one-person setup" claim is the entire game here. Most 10x10 pop-ups require two adults, a ladder, and a patience test. The Amada actually delivers on that promise — but the real question is what you're trading away to get it.**

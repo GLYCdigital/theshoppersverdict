@@ -1,4 +1,5 @@
 ---
+
 title: "New 100 lb Steel Propane Cylinder with CGA510 Valve - DOT / "
 seo_title: "New 100 lb Steel Propane Cylinder with CGA510 Valv Review"
 meta_description: "Our full new 100 lb steel propane cylinder with cga510 valve - dot /  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0854RDYLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41PAWSP4a2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running a whole-house generator, a big propane grill, or a workshop heater, you know the dance: hauling those little 20 lb tanks back and forth to the filling station every week. This 100 lb steel cylinder ends that cycle. It's a serious piece of equipment for serious propane users, and at 4.6 stars from 229 ratings, it's clearly doing something right. But "serious" also means heavy — let's talk about what you're actually getting.

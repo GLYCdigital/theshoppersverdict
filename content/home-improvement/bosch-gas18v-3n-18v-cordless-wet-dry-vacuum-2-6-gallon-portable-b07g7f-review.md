@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GAS18V-3N 18V Cordless Wet Dry Vacuum, 2.6 Gallon Port"
 seo_title: "BOSCH GAS18V-3N 18V Cordless Wet Dry Vacuum Review"
 meta_description: "Hands-on BOSCH GAS18V-3N 18V cordless wet dry vacuum review. Real pros, cons, and buyer feedback on this 2.6-gallon portable shop vac."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07G7FPKMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EqfiAv9FL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Integrated blower function converts the vacuum into a powerful air mover, clearing sawdust and debris from crevices without extra attachments"
   - "Compact 2.6-gallon footprint with a built-in tool holder and accessory storage clips fits on a toolbox or shelf between jobs"
   - "Auto-clean HEPA filter system self-clears clogs with a 5-second spin of the dust cover — no disassembly needed"
-cons:
+cons: 
   - "Bare tool only — battery and charger sold separately, adding $100+ to the real cost if you're not already in the 18V ecosystem"
   - "2.6-gallon capacity fills fast on renovation dust; you'll empty it several times on larger projects"
   - "Short 4-foot hose included — you'll want an extension for floor work or overhead cleaning"
+
 ---
 
 **The BOSCH GAS18V-3N isn't just another shop vac — it's a cordless dust extractor that thinks like a tool, not an appliance.** With 229 Amazon ratings averaging 4.6 stars, it's clear this compact unit has found its audience. But is it worth the premium over cheaper cordless options? Let me break down what you're actually paying for.

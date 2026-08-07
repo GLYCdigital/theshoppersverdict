@@ -1,4 +1,5 @@
 ---
+
 title: "Bug Zapper Outdoor Cordless, 4200V Electric Mosquito Zapper"
 seo_title: "Bug Zapper Outdoor Cordless Review: 4200V Pest Control"
 meta_description: "Honest review of the 4200V cordless bug zapper with LED blue light. Does it actually kill mosquitoes? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSVWH6DC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8154WpUC+qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly cordless operation — runs on rechargeable battery, so you can place it anywhere without hunting for an outdoor outlet"
   - "4200V grid delivers instant kills on mosquitoes, flies, and gnats, with a satisfying zap you can hear from across the patio"
   - "Built-in LED blue light attracts bugs effectively at dusk, outperforming many cheaper zappers that rely on UV alone"
-cons:
+cons: 
   - "Battery life is roughly 8–10 hours per charge — fine for evening use, but don't expect all-night coverage without recharging"
   - "Not weatherproof — rain or sprinkler overspray can damage the unit, so you'll need to bring it inside when storms roll in"
+
 ---
 
 Let's be direct: most cordless bug zappers under $50 are garbage. Weak grids, flimsy plastic, and batteries that die after a single evening. The 4200V Outdoor Cordless Electric Mosquito Zapper isn't that. It's not perfect, but for the 210 shoppers who've rated it 4.2 out of 5, this one actually earns its place on the patio.

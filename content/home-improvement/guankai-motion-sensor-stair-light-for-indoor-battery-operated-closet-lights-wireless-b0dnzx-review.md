@@ -1,4 +1,5 @@
 ---
+
 title: "Guankai Motion Sensor Stair Light for Indoor, Battery Operat"
 seo_title: "Guankai Motion Sensor Stair Light for Indoor, Batt Review"
 meta_description: "Our full guankai motion sensor stair light for indoor, battery operat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DNZX25W3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7156VsrvZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Guankai Motion Sensor Stair Light solves a genuinely annoying problem: navigating dark stairs at 2 a.m. without fumbling for a light switch. At 4.0 stars across 200 ratings, it's a solid mid-tier pick in the crowded wireless stair light market. Here's the real story after digging through owner feedback and the spec sheet.

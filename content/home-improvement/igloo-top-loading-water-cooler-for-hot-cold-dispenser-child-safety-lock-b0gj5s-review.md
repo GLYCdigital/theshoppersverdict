@@ -1,4 +1,5 @@
 ---
+
 title: "Igloo Top Loading Water Cooler for Hot & Cold Dispenser â€“ "
 seo_title: "Igloo Top Loading Water Cooler for Hot & Cold Disp Review"
 meta_description: "Our full igloo top loading water cooler for hot & cold dispenser â€“  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GJ5S79MP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Igloo Top Loading Water Cooler is the kind of appliance you don't think about until you're tired of waiting for a kettle to boil or filling a pitcher from the fridge dispenser. Once it's on your counter, it quietly earns its space — provided you understand what it is and isn't before you buy.**

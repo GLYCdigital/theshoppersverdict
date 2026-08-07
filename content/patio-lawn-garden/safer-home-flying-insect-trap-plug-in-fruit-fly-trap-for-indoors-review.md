@@ -1,13 +1,14 @@
 ---
+
 title: "Safer Home Flying Insect Trap, Plug-in Fruit Fly Trap for Indoors, 2-Pack | Flying Insect, Moth, & Gnat Trap, Fruit Fly Killer, Fly Catcher, 24/7 Catch, Chemical-Free, 2 Traps + 2 Glue Cards, SH502-2SR"
 seo_title: "Safer Home Flying Review: Verdict (4.4/5) | TSV"
 meta_description: "Very effective and works best at night when the rest of the house is very 6,029+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "safer-home-flying-insect-trap-plug-in-fruit-fly-trap-for-indoors-review"
 image_alt: "Safer Home Flying Insect Trap, Plug-in Fruit Fly Trap for Indoors, 2-Pack | Flying Insect, Moth, & Gnat Trap, Fruit Fly "
-keywords:
+keywords: 
   - "safer home flying review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Safer Home Flying Insect?"
     answer: "Very effective and works best at night when the rest of the house is very dark That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Safer Home Flying Insect?"
@@ -21,12 +22,13 @@ review_count: 6029
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQ8RSTDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RI2s+ahLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Very effective and works best at night when the rest of the house is very dark."
   - "And boy are they easy to use and are discrete with the flys."
   - "Quality is decent."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The Safer Home Flying Insect Trap is a popular choice - with 6,029 Amazon reviews behind it. Here is what buyers actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "Elgato Key Light Neo"
 seo_title: "Elgato Key Light Neo Review: Slim LED Panel for Video Calls"
 meta_description: "Elgato Key Light Neo review: compact 14W LED panel with magnetic mounting, USB power, and 29 color presets. See if it's worth it for your desk setup."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FLF3VR39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51a0IOuiQcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic mounting system sticks to any steel monitor back — no clamps or arms needed, frees up desk space entirely"
   - "USB-C powered with a single cable that routes cleanly along the monitor arm, eliminating the wall-wart clutter of the original Key Light"
   - "29 built-in color presets and adjustable white balance (2900K–7000K) via the Control Center app, with a physical dimmer knob on the panel itself"
-cons:
+cons: 
   - "14W output is notably dimmer than the 25W Key Light — fine for a webcam at 2–3 feet, but won't light a full studio setup"
   - "Magnetic mount requires a steel backplate; aluminum or plastic monitors need the separate VESA mount accessory, which adds cost"
+
 ---
 
 The Elgato Key Light Neo is the brand's answer to a specific, growing problem: your webcam makes you look like you're broadcasting from a cave. The original Key Light solved that with a big, bright panel that also ate half your desk. The Neo takes a different approach — it's a slim 16.5-inch LED bar that mounts directly to the back of your monitor, powered by a single USB-C cable. At 4.3 stars from 215 Amazon ratings, it's clearly working for many people. But the real question is whether this $99 panel earns a spot on *your* desk, or if you should just buy a ring light and call it a day.

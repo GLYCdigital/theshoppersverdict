@@ -1,4 +1,5 @@
 ---
+
 title: "Alter Eco | Chocolate Bars | Pure Dark Cocoa, Fair Trade, Or"
 seo_title: "Alter Eco Dark Chocolate Bars Review: Fair Trade & Organic"
 meta_description: "Honest Alter Eco Pure Dark Cocoa chocolate bar review. Fair trade, organic, non-GMO. See if this 85% dark bar is worth it for serious cocoa lovers."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CL5M7H7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jz7mNPhpL._SL1500_.jpg"
-pros:
+pros: 
   - "85% cocoa content delivers genuinely intense, bitter dark chocolate flavor that competes with artisan brands"
   - "Certified Fair Trade, organic, and non-GMO — you're paying for verified ethics, not just marketing labels"
   - "Compostable, plastic-free wrapper actually works — no frustrating foil-and-cardboard combo to wrestle with"
-cons:
+cons: 
   - "Price per bar runs $1–2 higher than conventional dark chocolate, and the small 2.65-oz size goes fast"
   - "The sharp bitterness will turn off casual chocolate eaters — this is not a milk chocolate substitute"
   - "Some buyers report inconsistent melting texture; bars can arrive chalky or bloomed if exposed to heat in transit"
+
 ---
 
 Let’s be clear about what this isn’t: a sweet treat. The Alter Eco Pure Dark Cocoa bar is a serious, no-compromise dark chocolate experience. If you’re reaching for something to satisfy a sugar craving, put it back. If you want deep, roasted cocoa flavor that lingers, this is worth a look.

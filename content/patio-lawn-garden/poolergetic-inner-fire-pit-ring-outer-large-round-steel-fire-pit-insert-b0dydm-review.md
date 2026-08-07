@@ -1,4 +1,5 @@
 ---
+
 title: "Poolergetic Inner Fire Pit Ring, Outer Large Round Steel Fir"
 seo_title: "Poolergetic Inner Fire Pit Ring, Outer Large Round Review"
 meta_description: "Our full poolergetic inner fire pit ring, outer large round steel fir review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYDML6HB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e2oeDXIlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most fire pit rings sold on Amazon are stamped sheet metal that warps within a dozen burns. The Poolergetic Inner Fire Pit Ring isn't that. This is a 0.25-inch thick steel plate assembly — the kind of material you'd expect from a commercial fabricator, not a patio accessory brand. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in backyards. Here's the real breakdown.

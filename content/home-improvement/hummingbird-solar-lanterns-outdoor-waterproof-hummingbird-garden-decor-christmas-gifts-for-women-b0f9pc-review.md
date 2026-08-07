@@ -1,4 +1,5 @@
 ---
+
 title: "Hummingbird Solar Lanterns Outdoor Waterproof Hummingbird Ga"
 seo_title: "Hummingbird Solar Lanterns Outdoor Waterproof Humm Review"
 meta_description: "Our full hummingbird solar lanterns outdoor waterproof hummingbird ga review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9PCKXVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WCexpoheL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Hummingbird Solar Lanterns Outdoor Waterproof Hummingbird Ga"
 seo_title: "Hummingbird Solar Lanterns Review: Are They Worth It?"

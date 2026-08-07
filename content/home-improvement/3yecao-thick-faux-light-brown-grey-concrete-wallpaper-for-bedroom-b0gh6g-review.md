@@ -1,4 +1,5 @@
 ---
+
 title: "3yecao Thick Faux Light Brown Grey Concrete Wallpaper for Be"
 seo_title: "3yecao Concrete Wallpaper Review: Thick, Realistic, Worth It?"
 meta_description: "Honest 3yecao faux concrete wallpaper review: thickness, peel-and-stick performance, color accuracy, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GH6GXFQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814cAGmAWLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely thick material (reported ~1.5x standard peel-and-stick) that hides wall imperfections and feels more like vinyl than paper"
   - "Subtle light brown/grey concrete texture reads as natural — not a cheap printed repeat — at normal viewing distance"
   - "Strong adhesive that sticks to textured walls and holds at edges without curling, per multiple long-term owner reports"
-cons:
+cons: 
   - "Color can pull warmer/beiger in natural light than the neutral grey shown in product photos — check your lighting"
   - "Pattern repeat is visible up close; concrete texture looks slightly stylized rather than photorealistic on large spans"
+
 ---
 
 Let’s be honest about peel-and-stick wallpaper: most of it is glorified contact paper. The 3yecao Thick Faux Concrete Wallpaper tries to be the exception, and for the most part, it actually delivers. With a 4.4-star average across 220 ratings, this isn't a hidden gem — it's a proven option for anyone wanting a raw, industrial concrete look without the demolition dust. But the "thick" claim needs scrutiny, and the color needs a warning.

@@ -1,4 +1,5 @@
 ---
+
 title: "Victoria's Secret Love Spell Fragrance Lotion"
 seo_title: "Victoria's Secret Love Spell Fragrance Lotion Review: Ver"
 meta_description: "Our full victoria's secret love spell fragrance lotion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3LPCL1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iLvf-B0GL._SL1013_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Victoria's Secret Love Spell Fragrance Lotion Review: The Iconic Scent, Now in a Bottle You'll Actually Use

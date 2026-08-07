@@ -1,4 +1,5 @@
 ---
+
 title: "Thrustmaster Ferrari 488 GT3 Wheel Add-On, 1:1 Scale Replica"
 seo_title: "Thrustmaster Ferrari 488 GT3 Wheel Add-On, 1:1 Sca Review"
 meta_description: "Our full thrustmaster ferrari 488 gt3 wheel add-on, 1:1 scale replica review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CFM3FKT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718MQiYJ+-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Thrustmaster Ferrari 488 GT3 rim is the kind of product that makes you feel like a racing driver before you even plug it in. But is it a genuine upgrade or just a pretty face on your rig? I've spent time with this wheel and dug through the 215 Amazon ratings to give you the honest breakdown.

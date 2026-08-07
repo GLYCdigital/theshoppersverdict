@@ -1,4 +1,5 @@
 ---
+
 title: "INTEX Excursion 4 Inflatable Boat Set: Includes Deluxe 54in "
 seo_title: "INTEX Excursion 4 Inflatable Boat Set: Includes De Review"
 meta_description: "Our full intex excursion 4 inflatable boat set: includes deluxe 54in  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FL2QFYV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WpaZyqMWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The INTEX Excursion 4: More Boat Than You'd Expect for the Price

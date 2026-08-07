@@ -1,4 +1,5 @@
 ---
+
 title: "MELLCOM Folding Bed with Mattress, Portable Rollaway Guest B"
 seo_title: "MELLCOM Folding Bed with Mattress, Portable Rollaw Review"
 meta_description: "Our full mellcom folding bed with mattress, portable rollaway guest b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D62TY6LK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ghkzt7LSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: a guest bed that feels like a cot from a 1980s summer camp — sagging canvas, a bar digging into your spine, and springs that announce every toss and turn. The MELLCOM Folding Bed with Mattress is not that. It's a legitimate attempt at a real bed that disappears when you don't need it. The 4.4-star rating from 220 verified buyers isn't hype; it's mostly earned. Here's the honest breakdown before you drop your money.

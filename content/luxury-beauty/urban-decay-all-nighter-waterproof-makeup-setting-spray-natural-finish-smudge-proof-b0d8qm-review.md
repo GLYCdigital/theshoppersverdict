@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Decay All Nighter Waterproof Makeup Setting Spray - Na"
 seo_title: "Urban Decay All Nighter Waterproof Makeup Setting  Review"
 meta_description: "Our full urban decay all nighter waterproof makeup setting spray - na review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8QMG328/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Swiseua9L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched your foundation slide off your face by 2 PM, you already know the frustration. The Urban Decay All Nighter Waterproof Setting Spray — the natural finish version of the cult classic — is the product that's supposed to end that drama. After two weeks of wearing it through gym sessions, a humid outdoor wedding, and a 10-hour workday, here's the honest breakdown.

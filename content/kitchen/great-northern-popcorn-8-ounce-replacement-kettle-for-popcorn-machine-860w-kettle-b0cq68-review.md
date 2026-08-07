@@ -1,4 +1,5 @@
 ---
+
 title: "Great Northern Popcorn 8-Ounce Replacement Kettle for Popcor"
 seo_title: "Great Northern Popcorn 8-Ounce Replacement Kettle  Review"
 meta_description: "Our full great northern popcorn 8-ounce replacement kettle for popcor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQ68NTLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MB7+a8U+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your Great Northern machine's original kettle has finally given up — scorched, dented, or just tired — this 8-ounce replacement is the part you've been searching for.** It's a genuine manufacturer component, not a knockoff, and that matters when you're dealing with high heat and moving parts.

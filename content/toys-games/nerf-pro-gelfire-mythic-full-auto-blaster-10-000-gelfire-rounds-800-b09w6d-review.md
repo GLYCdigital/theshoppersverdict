@@ -1,4 +1,5 @@
 ---
+
 title: "Nerf Pro Gelfire Mythic Full Auto Blaster & 10,000 Gelfire R"
 seo_title: "Nerf Pro Gelfire Mythic Full Auto Blaster & 10,000 Review"
 meta_description: "Our full nerf pro gelfire mythic full auto blaster & 10,000 gelfire r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09W6DXY4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41IUwiWTVCL._AC_US40_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nerf Pro Gelfire Mythic isn't a toy. It's a tactical training tool that happens to be sold in the toy aisle — and that's exactly why it's worth your attention.**

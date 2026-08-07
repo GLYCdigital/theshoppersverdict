@@ -1,4 +1,5 @@
 ---
+
 title: "FanttikOutdoor Camping Tent 4/6/8/10 Person Instant Cabin Te"
 seo_title: "FanttikOutdoor Instant Cabin Tent Review: 4-10 Person Setup in Minutes"
 meta_description: "Honest FanttikOutdoor instant cabin tent review for 4-10 person camping. Tested for setup speed, rain resistance, and real-world durability. See if it's worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4QMGKFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zJEvcthoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-attached poles make setup a genuine 60-90 second job — no threading, no color-coding puzzle"
   - "Center height around 75 inches means most adults can stand upright inside, even in the 4-person model"
   - "Multiple mesh windows and a rainfly that actually covers the roof reduce condensation buildup on cool nights"
-cons:
+cons: 
   - "Carry bag is tight — repacking takes effort, especially with the pre-bent poles fighting you the whole way"
   - "The included stakes are thin sheet metal; replace them before any trip with wind potential or hard ground"
   - "Instant setup frames add weight — the 10-person version is a beast to carry any real distance from the car"
+
 ---
 
 # FanttikOutdoor Camping Tent Review: Instant Setup That Actually Works

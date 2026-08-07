@@ -1,4 +1,5 @@
 ---
+
 title: "ICE BREAKERS Ice Cubes Sugar Free Chewing Gum Bottles"
 seo_title: "ICE BREAKERS Ice Cubes Sugar Free Chewing Gum Bott Review"
 meta_description: "Our full ice breakers ice cubes sugar free chewing gum bottles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FND47C4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XrJVQhecL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **ICE BREAKERS Ice Cubes Sugar Free Gum Review: Does the Chill Actually Last?**

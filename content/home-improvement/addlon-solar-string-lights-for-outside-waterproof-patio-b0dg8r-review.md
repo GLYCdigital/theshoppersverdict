@@ -1,4 +1,5 @@
 ---
+
 title: "addlon Solar String Lights for Outside Waterproof Patio"
 seo_title: "addlon Solar String Lights Review: Worth It? (2026)"
 meta_description: "Honest addlon solar string lights review: 27ft waterproof patio lights tested for brightness, battery life & durability. See pros, cons & real buyer verdicts."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DG8R3PXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QD1ZVt7mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn auto sensor works reliably — lights turn on without touching anything"
   - "27ft length with 12 Edison-style bulbs covers a standard patio perimeter without daisy-chaining"
   - "IP65 waterproof rating holds up through heavy rain and snow, per multiple long-term buyer reports"
-cons:
+cons: 
   - "Battery life degrades noticeably after 8–10 months in direct sun; replacement batteries are proprietary"
   - "Plastic bulb housing feels less premium than glass — fine for function, but not a fashion statement"
+
 ---
 
 If you've priced out hardwired patio lighting lately, you know the sting. Electricians charge $200+ just to show up, and those "permanent" LED systems run $400–$800. The addlon Solar String Lights undercut that entirely — but the real question is whether solar ambient lighting actually performs, or just looks good in the product photos. After digging through 220 ratings and the spec sheet, here's the honest breakdown.

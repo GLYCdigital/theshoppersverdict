@@ -1,5 +1,6 @@
 ---
 
+
 title: "Crayola Easter Light Ups"
 seo_title: "Crayola Easter Light Ups Review: Are They Worth It?"
 meta_description: "Crayola Easter Light Ups review: Do these light-up egg decorating kits deliver? Real pros, cons, and buying advice from 240+ verified ratings."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GKB1M7WX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711FKH7zajL._AC_SL1081_.jpg"
-pros:
+pros: 
   - "Battery-powered egg bases actually light up through the decorated shell — no heat, no mess, no waiting for dye to set"
   - "Works with both real and plastic eggs, so you can use it year after year"
   - "Markers dry fast and don't smudge once the egg is placed on the light base"
-cons:
+cons: 
   - "Each light-up base requires 3 AG13/LR44 button batteries (not included) — you'll need 9 for the full set of 3 inch"
   - "The included markers are thin-tipped only; fine details are possible but broad color coverage takes effort"
+
 
 ---
 

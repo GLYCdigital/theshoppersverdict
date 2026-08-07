@@ -1,4 +1,5 @@
 ---
+
 title: "Ring Video Doorbell Wired Review: Is the Budget Smart Doorbell Worth It?"
 seo_title: "Ring Video Doorbell Wired Review 2026: The Best Budget Smart Doorbell?"
 meta_description: "Our full Ring Video Doorbell Wired review. Real customer insights on this budget-friendly smart doorbell. See pros, cons, and our verdict on the $59 entry-level Ring."
@@ -10,28 +11,29 @@ image_alt: "Ring Video Doorbell Wired in Satin Nickel with two-way talk, advance
 amazon_rating: 4.5
 review_count: 28541
 verdict_score: 4.5
-categories:
+categories: 
   - home-improvement
-keywords:
+keywords: 
   - Ring Video Doorbell Wired review
   - best budget smart doorbell
   - Ring doorbell wired vs battery
   - smart home security review
-pros:
+pros: 
   - "Incredible value — premium doorbell features at roughly one-third the price of the Pro models"
   - "1080p HD video with excellent night vision — clear face identification day or night"
   - "Seamless Alexa integration with Echo devices announcing visitors by name"
   - "Compact, unobtrusive design that looks clean on any door frame"
-cons:
+cons: 
   - "Requires existing doorbell wiring — can't run on battery alone"
   - "No advanced motion zones or 3D motion detection found on Pro models"
-faq:
+faq: 
   - question: "Does the Ring Video Doorbell Wired work without an existing doorbell?"
     answer: "No — the Ring Video Doorbell Wired requires existing doorbell wiring supplying 10-24 VAC. If your home doesn't have a wired doorbell, consider the battery-powered Ring Video Doorbell or the Ring Peephole Cam instead."
   - question: "Do I need a Ring Protect subscription to use it?"
     answer: "You get real-time notifications and live view for free. To record, review, and share footage, you'll need a Ring Protect Plan starting at $4.99/month per device or $10/month for all Ring devices at your address. Without it, the doorbell functions as a live-only intercom."
   - question: "How does the Wired model compare to the Ring Pro?"
     answer: "The Wired is the entry-level model at $59, while the Ring Pro 2 ($249) adds 1536p HD video, 3D motion detection, bird's eye view, and customizable motion zones. For most homeowners, the Wired hits the sweet spot — you get the core smart doorbell experience at a fraction of the cost."
+
 ---
 
 Let's be direct: most smart doorbells are either overpriced gadgets or frustrating battery-powered toys that die at the worst possible moment. The Ring Video Doorbell Wired sits in a smarter middle ground — a hardwired unit that trades the convenience of wireless install for something more valuable: reliability.

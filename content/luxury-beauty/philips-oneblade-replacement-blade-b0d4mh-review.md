@@ -1,4 +1,5 @@
 ---
+
 title: "Philips OneBlade Replacement Blade"
 seo_title: "Philips OneBlade Replacement Blade Review: Verdict | TSV"
 meta_description: "Our full philips oneblade replacement blade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4MHXCHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yUl-XFT3L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Philips OneBlade isn't a razor in the traditional sense. It's a hybrid — part trimmer, part shaver — and its replacement blade is the single most important purchase decision you'll make for it. Here's what 235 Amazon reviewers at 4.7 stars actually discovered.

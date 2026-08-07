@@ -1,4 +1,5 @@
 ---
+
 title: "ProtoArc EKM04 Ergonomic Keyboard Mouse"
 seo_title: "ProtoArc EKM04 Ergonomic Keyboard Mouse Review: Verdict |"
 meta_description: "Our full protoarc ekm04 ergonomic keyboard mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F8QFCJB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ew3W1QbLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your wrists ache by 3 PM every workday, the ProtoArc EKM04 is the kind of product that makes you wonder why you waited so long. This isn't a gimmick ergonomic kit — it's a genuinely thoughtful split-keyboard-and-vertical-mouse combo that addresses the two biggest culprits of desk discomfort: pronated wrists and ulnar deviation. At 4.3 stars across 215 ratings, it's earning its keep in home offices. But it's not without tradeoffs, and I'll get to those.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Grain Free, High Protein Pate Wet Cat Food, "
 seo_title: "Purina Pro Plan Grain Free, High Protein Pate Wet  Review"
 meta_description: "Our full purina pro plan grain free, high protein pate wet cat food,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0833PT9VB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IUFGimQ2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about cat food: most of what's on the shelf is carbohydrate-heavy filler dressed up with meat flavoring. That's not what this is. Purina Pro Plan's Grain Free High Protein pate line is one of the few mass-market wet foods that actually leads with real meat — chicken or salmon as the first ingredient — and skips the grains, corn, wheat, and soy that do little for obligate carnivores.

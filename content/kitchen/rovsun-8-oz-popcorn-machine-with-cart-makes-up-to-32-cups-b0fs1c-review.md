@@ -1,4 +1,5 @@
 ---
+
 title: "ROVSUN 8 Oz Popcorn Machine with Cart Makes Up to 32 Cups ET"
 seo_title: "ROVSUN 8 Oz Popcorn Machine with Cart Makes Up to  Review"
 meta_description: "Our full rovsun 8 oz popcorn machine with cart makes up to 32 cups et review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FS1C1B19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710IEKIfcDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ROVSUN 8 Oz Popcorn Machine Review: Does the 32-Cup Claim Hold Up?

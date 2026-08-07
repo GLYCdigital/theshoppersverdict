@@ -1,4 +1,5 @@
 ---
+
 title: "Round Sink"
 seo_title: "Round Sink Review: Verdict | TSV"
 meta_description: "Our full round sink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMSMMXLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m4Bn+I8ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A round sink is a surprisingly specific purchase.** You're not browsing casually — you've got a tight corner vanity, a laundry room remodel, or a compact powder bath where a standard oval won't fit. This 15-inch round drop-in basin from Amazon's B0DMSMMXLR listing has earned a 4.4-star average across 220 ratings, and after digging through the specs and buyer feedback, here's the real story.

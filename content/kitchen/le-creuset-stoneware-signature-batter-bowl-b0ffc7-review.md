@@ -1,4 +1,5 @@
 ---
+
 title: "Le Creuset Stoneware Signature Batter Bowl"
 seo_title: "Le Creuset Stoneware Signature Batter Bowl Review: Verdic"
 meta_description: "Our full le creuset stoneware signature batter bowl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFC76K1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bf9+uKbHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Le Creuset Batter Bowl: Worth the Hype or Just a Pretty Face?**

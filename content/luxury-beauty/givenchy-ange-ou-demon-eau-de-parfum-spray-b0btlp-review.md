@@ -1,4 +1,5 @@
 ---
+
 title: "Givenchy Ange Ou Demon Eau De Parfum Spray"
 seo_title: "Givenchy Ange Ou Demon Eau De Parfum Spray Review: Verdic"
 meta_description: "Our full givenchy ange ou demon eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTLPG7J4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Hbn-2b-HL._SL1081_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Givenchy Ange Ou Demon: The Fragrance That Refuses to Be Ignored**

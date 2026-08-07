@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Twin Size Limited Edition 11 inch"
 seo_title: "Signature Design by Ashley Twin Size Limited Editi Review"
 meta_description: "Our full signature design by ashley twin size limited edition 11 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FDSQLJ82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81McqxyzqAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a solid, mid-range hybrid twin mattress that punches above its price point for kids' rooms and guest beds — but don't expect luxury hotel comfort.**

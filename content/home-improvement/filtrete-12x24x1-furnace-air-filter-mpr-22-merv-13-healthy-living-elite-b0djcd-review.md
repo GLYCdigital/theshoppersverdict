@@ -1,4 +1,5 @@
 ---
+
 title: "Filtrete 12x24x1 Furnace Air Filter MPR 22 MERV 13, Healthy"
 seo_title: "Filtrete 12x24x1 MERV 13 Filter Review: Worth It? (2026)"
 meta_description: "Honest Filtrete 12x24x1 MERV 13 furnace filter review. Is the MPR 22 rating worth the airflow trade-off? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJCDD7SL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pkqA+QnSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine MERV 13 filtration with electrostatic media that captures 98% of airborne particles in the 0.3–1.0 micron range"
   - "Reinforced cardboard frame holds its shape during installation — no bowing or flexing, even in tight filter slots"
   - "Consistent 3-month lifespan at normal blower speeds; doesn't clog prematurely like some high-MERV competitors"
-cons:
+cons: 
   - "High MERV rating creates noticeable airflow restriction on older, weaker HVAC systems — can cause short-cycling"
   - "Price per filter runs 20-30% higher than comparable MERV 11 options, and there's no multi-pack discount at this size"
+
 ---
 
 Let's be blunt about furnace filters: most of them are glorified dust screens. The Filtrete 12x24x1 MERV 13 is not that. This is the filter you buy when you actually care about what's floating in your air — and you're willing to pay for it.

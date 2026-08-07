@@ -1,4 +1,5 @@
 ---
+
 title: "Caprihom Soccer Goals10FTx 6.5F Outdoor Backyard Soccer Net"
 seo_title: "Caprihom Soccer Goals 10FT Review: Backyard Net Worth It?"
 meta_description: "Caprihom Soccer Goals 10FT review: sturdy steel frame, 6.5FT net, top bin. See pros, cons, and who should buy this backyard soccer goal."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BQHRFRXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812XUVGhF1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel 1.5mm thick frame with 4 ground stakes and 2 sandbag straps — stays put in moderate wind without concrete anchors"
   - "Full 10x6.5ft playing surface with a top bin that catches lofted shots and keeps balls from sailing over the fence"
   - "Tool-free snap-button assembly goes together in under 15 minutes and breaks down flat for garage storage"
-cons:
+cons: 
   - "Net material is standard polyethylene — expect 1-2 seasons of heavy use before UV degradation shows, especially in southern climates"
   - "Weighs 22 pounds; light enough to drag but not truly portable — plan on leaving it set up in one spot"
   - "No carry bag included; the 6ft crossbar makes transport awkward without a truck or SUV"
+
 ---
 
 If you're tired of chasing balls into the neighbor's yard every time your kid winds up for a shot, the Caprihom 10x6.5 soccer goal with its top bin deserves a hard look. This isn't a toy-grade pop-up net — it's a legitimate training goal that splits the difference between a $50 portable and a $400 permanent installation.

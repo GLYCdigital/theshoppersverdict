@@ -1,4 +1,5 @@
 ---
+
 title: "Elizabeth Arden Green Tea Scent Spray Eau de Toilette, Women"
 seo_title: "Elizabeth Arden Green Tea EDT Review: Fresh & Clean (2026)"
 meta_description: "Elizabeth Arden Green Tea Eau de Toilette review: crisp, citrusy, affordable. Longevity, sillage, and who should buy this classic fresh scent."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6NS4LRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Nye5XN+KL._SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, unisex-friendly green tea opening with real citrus brightness — not a syrupy floral"
   - "Absurdly affordable for a designer fragrance; the 3.3oz bottle lasts months with daily use"
   - "Works as a refreshing post-shower body spray or office-safe scent that won't trigger allergies"
-cons:
+cons: 
   - "Longevity is genuinely short — expect 2–3 hours before it fades to a skin scent"
   - "Bottle is basic plastic with a sprayer that can dribble if you press too fast"
+
 ---
 
 Elizabeth Arden Green Tea isn't trying to be your signature night-out fragrance. It's the scent equivalent of a cold glass of water on a hot day — refreshing, uncomplicated, and exactly what you need when you need it. With 229 Amazon ratings averaging 4.6 stars, this budget-friendly eau de toilette has been a drugstore staple for over two decades. Here's the honest breakdown.

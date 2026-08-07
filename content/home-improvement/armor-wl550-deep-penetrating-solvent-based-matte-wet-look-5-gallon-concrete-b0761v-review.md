@@ -1,4 +1,5 @@
 ---
+
 title: "Armor WL550 Deep Penetrating Solvent-Based Matte Wet Look 5 inch"
 seo_title: "Armor WL550 Matte Wet Look Review: Concrete Sealer"
 meta_description: "Honest Armor WL550 review: deep-penetrating solvent-based matte wet look sealer for concrete. Coverage, durability, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0761V3L7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bFeSLDPWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers true wet-look gloss without the slick, skating-rink surface you get from water-based acrylics"
   - "Deep penetration into porous concrete means better adhesion and longer-lasting protection against moisture and salts"
   - "Comes in a 5-gallon pail — enough to cover roughly 500-750 sq ft, making it cost-effective for driveways and patios"
-cons:
+cons: 
   - "Strong solvent odor requires proper respirator and ventilation; not a weekend project for enclosed spaces"
   - "Solvent-based formula is thinner than acrylics, so it's easy to over-apply and create pooling or dark splotches if you're not careful"
+
 ---
 
 If you've ever sealed concrete with a water-based acrylic, you know the frustration: it looks great for a season, then peels, blisters, or turns chalky. The Armor WL550 takes a different approach — it's a solvent-based penetrating sealer that soaks into the concrete rather than sitting on top of it. That fundamental difference is why this 5-gallon pail has earned a 4.4-star average across 220 ratings. But it's not a grab-and-go product. Here's what you need to know before you commit.

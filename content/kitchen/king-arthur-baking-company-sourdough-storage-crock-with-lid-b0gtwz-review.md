@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur Baking Company Sourdough Storage Crock with Lid"
 seo_title: "King Arthur Baking Company Sourdough Storage Crock Review"
 meta_description: "Our full king arthur baking company sourdough storage crock with lid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTWZ4HVF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Sh8ZTLCVL._AC_SL1048_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some sourdough tools are gimmicks. This crock is not one of them. King Arthur Baking Company—the same folks who've been teaching America to bake since 1790—put their name on this stoneware vessel, and it shows. After 220 Amazon ratings averaging 4.4 stars, the consensus is clear: this is the crock you actually use, not the one that collects dust on a shelf.

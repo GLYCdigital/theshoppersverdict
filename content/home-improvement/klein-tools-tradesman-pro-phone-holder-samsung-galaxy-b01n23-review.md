@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools Tradesman Pro Phone Holder-Samsung Galaxy"
 seo_title: "Klein Tools Tradesman Pro Phone Holder-Samsung Gal Review"
 meta_description: "Our full klein tools tradesman pro phone holder-samsung galaxy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01N23XVUR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W7qkm9yUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dropped a phone from a ladder or watched one skitter across a concrete floor mid-task, you already know why a purpose-built phone holder beats a pocket. The **Klein Tools Tradesman Pro Phone Holder** is built for electricians, framers, and anyone whose phone is a work tool, not a fashion accessory. It's not the cheapest option on Amazon, but it's one of the few that actually stays put.

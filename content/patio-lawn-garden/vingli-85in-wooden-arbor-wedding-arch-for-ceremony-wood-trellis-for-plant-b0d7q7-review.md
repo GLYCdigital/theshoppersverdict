@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI 85in Wooden Arbor, Wedding Arch for Ceremony, Wood Tr"
 seo_title: "VINGLI 85in Wooden Arbor, Wedding Arch for Ceremon Review"
 meta_description: "Our full vingli 85in wooden arbor, wedding arch for ceremony, wood tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D7Q7Q2ST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tvRhreGCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re about to spend real money on a wooden arch that needs to hold flowers, hold up in photos, and not collapse mid-vows. The VINGLI 85-inch Wooden Arbor is one of the most popular wedding arch options on Amazon, sitting at a solid 4.2 stars from 210 ratings. Here’s what you’re actually getting.

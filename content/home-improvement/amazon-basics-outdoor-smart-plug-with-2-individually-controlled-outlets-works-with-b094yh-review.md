@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Outdoor Smart Plug with 2 Individually Control"
 seo_title: "Amazon Basics Outdoor Smart Plug Review: 2 Outlets, Worth It?"
 meta_description: "Amazon Basics Outdoor Smart Plug with 2 individually controlled outlets: honest review of Wi-Fi range, weatherproofing, app reliability, and Alexa/Google compatibility."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B094YHJJVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XLOcCypdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each of the two outlets is independently controllable, so you can schedule the porch lights separately from the string lights without extra hardware"
   - "The 270-degree rotating plug body fits tight against the outlet cover, and the ground prong doesn't block the second receptacle"
   - "IP65 weatherproof rating with a hinged rubber cover that actually seals—not the flimsy flap you see on $15 knockoffs"
-cons:
+cons: 
   - "The 2.4GHz-only Wi-Fi requirement is a dealbreaker if your router broadcasts only 5GHz or you've separated your bands"
   - "No energy monitoring—if you want to track what your heater or fountain is drawing, this plug won't tell you"
+
 ---
 
 # Amazon Basics Outdoor Smart Plug: Two Outlets, Zero Guesswork

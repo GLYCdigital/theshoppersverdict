@@ -1,4 +1,5 @@
 ---
+
 title: "TLGREEN Propane Fire Pit Table"
 seo_title: "TLGREEN Propane Fire Pit Table Review: Verdict | TSV"
 meta_description: "Our full tlgreen propane fire pit table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FM3GQGM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AK7z91zML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past fire pit tables that look good in renderings but wobble on real decks, the TLGREEN propane model deserves a closer look—but not a blind purchase. I’ve tested this alongside three other sub-$300 tables, and here’s the honest breakdown.

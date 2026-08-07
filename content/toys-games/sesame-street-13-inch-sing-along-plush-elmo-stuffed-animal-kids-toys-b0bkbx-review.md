@@ -1,4 +1,5 @@
 ---
+
 title: "Sesame Street 13-inch Sing-Along Plush Elmo Stuffed Animal, "
 seo_title: "Sesame Street 13-inch Sing-Along Plush Elmo Stuffe Review"
 meta_description: "Our full sesame street 13-inch sing-along plush elmo stuffed animal,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BKBXXDGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FlJWIAG1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is This the Elmo That Actually Sings? A Hands-On Look at the 13-Inch Sing-Along Plush**

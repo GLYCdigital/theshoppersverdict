@@ -1,4 +1,5 @@
 ---
+
 title: "Dell 3.84TB 12Gb/s 2.5 inch  SAS Solid State Drive Bundle with Tr"
 seo_title: "Dell 3.84TB SAS SSD Review: Enterprise Speed, Real Caveats"
 meta_description: "Dell 3.84TB 12Gb/s SAS SSD review: blazing enterprise performance, but compatibility and heat are real concerns. Is this bundle worth it?"
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B081THFZ1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61McelYFCpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine enterprise-grade endurance (up to 1 DWPD) with 12Gb/s SAS interface for sustained workloads"
   - "Full 3.84TB usable capacity in a 2.5-inch form factor — no overprovisioning tricks"
   - "Includes the drive tray/caddy, which normally costs $15–30 separately on Dell parts sites"
-cons:
+cons: 
   - "Requires a 12Gb/s SAS controller — won't work in standard SATA ports, and many buyers miss this"
   - "3.0-star average driven by DOA units and used/refurbished listings sold as new"
   - "No retail warranty support — Dell warranties this as a component, not an end-user product"
+
 ---
 
 Let's cut through the listing confusion. This is a Dell-branded, 3.84TB SAS SSD in a 2.5-inch form factor, bundled with the carrier/tray. It's aimed at PowerEdge servers and enterprise storage arrays — not your desktop gaming rig. The 3.0-star average tells you plenty of buyers didn't read the fine print before clicking "buy."

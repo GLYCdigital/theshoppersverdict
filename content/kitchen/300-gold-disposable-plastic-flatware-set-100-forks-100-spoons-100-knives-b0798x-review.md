@@ -1,4 +1,5 @@
 ---
+
 title: "300 Gold Disposable Plastic Flatware Set - 100 Forks, 100 Sp"
 seo_title: "300 Gold Plastic Flatware Set Review: Worth It? (2026)"
 meta_description: "Honest review of the 300-piece gold disposable flatware set. Is it sturdy enough for parties? We break down durability, value, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0798X7TVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91T66kgdj+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Color runs consistently through the entire piece — no streaking or peeling, even after contact with greasy foods"
   - "Heavier gauge plastic than most dollar-store disposables; forks hold up to firm pressure without bending"
   - "Exact 100/100/100 count verified by multiple buyers — no shorting out of knives like many budget sets"
-cons:
+cons: 
   - "Knives are the weakest link — they'll cut soft proteins but struggle with steak or anything crusty"
   - "Gold finish is matte, not shiny metallic — if you're expecting mirror-gloss, this isn't it"
+
 ---
 
 # 300 Gold Disposable Plastic Flatware Set Review: Party-Ready or Pretender?

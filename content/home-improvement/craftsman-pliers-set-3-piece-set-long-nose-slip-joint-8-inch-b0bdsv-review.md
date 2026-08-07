@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Pliers Set, 3 Piece Set, Long Nose, Slip Joint, 8 inch"
 seo_title: "CRAFTSMAN Pliers Set 3 Piece Review: 8-Inch Long Nose & Slip Joint"
 meta_description: "CRAFTSMAN 3-piece pliers set review: 8-inch long nose & slip joint pliers. Tested for grip, durability & value. See pros, cons & real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDSV2SJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLfYFJImL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full lifetime warranty backed by Craftsman's name — replace without receipt hassle"
   - "Forged alloy steel with induction-hardened cutting edges that actually stay sharp through repetitive use"
   - "Ergonomic grips with substantial cushioning reduce hand fatigue during extended twisting and pulling"
-cons:
+cons: 
   - "Slip joint pliers lack a quick-release button — adjustment requires manually sliding the joint, which slows one-handed work"
   - "No wire cutter on the long nose variant, limiting its utility for electrical work compared to combination pliers"
   - "At $40.52, you're paying a modest brand premium over no-name sets that offer similar basic utility"
+
 ---
 
 **Bottom Line: A $40.52 three-piece essentials kit that outperforms its price point — but has one notable gap.**

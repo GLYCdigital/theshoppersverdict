@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Window Screens, Durable Window Screen Mesh for P"
 seo_title: "Replacement Window Screens, Durable Window Screen  Review"
 meta_description: "Our full replacement window screens, durable window screen mesh for p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C651LB2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fKvywQXLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a torn patio door screen, you’re staring at a $200 service call or a $20 fix. This replacement mesh falls firmly in the second category. As shown in the product image, you get a roll of fiberglass mesh, spline, and a roller tool — everything needed to rescreen a sliding door or large window.

@@ -1,4 +1,5 @@
 ---
+
 title: "Keter Outdoor Storage Shed"
 seo_title: "Keter Outdoor Storage Shed Review: Verdict | TSV"
 meta_description: "Our full keter outdoor storage shed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FNNPGZHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t-Dc8-F8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Keter Outdoor Storage Shed is the IKEA furniture of the garden world — impressive on the showroom floor, frustrating in the details.** With a 3.8-star average across 190 Amazon ratings, this resin shed splits opinion harder than almost any patio product I've reviewed. Here's the unfiltered truth after digging through buyer experiences.

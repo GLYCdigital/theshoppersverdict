@@ -1,4 +1,5 @@
 ---
+
 title: "D&D Living Sofa Tray (Parent)"
 seo_title: "D&D Living Sofa Tray Review: Sturdy Couch Table"
 meta_description: "D&D Living Sofa Tray review: sturdy bamboo couch table with raised edges. See what 229 buyers say about this lap desk before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B098WZHV3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OcszTbjgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised lip on all four sides keeps drinks and small items from sliding off when you shift on the couch"
   - "Solid bamboo construction with a smooth, splinter-free finish that actually looks like furniture, not a lap desk"
   - "Built-in handle cutouts make it easy to carry between rooms or stow upright against a wall"
-cons:
+cons: 
   - "No non-slip padding on the underside — can slide on leather or microfiber couches if you're leaning forward"
   - "Not large enough to fit a full dinner plate plus a laptop simultaneously; prioritize your use case"
+
 ---
 
 If you've ever balanced a mug on a throw pillow while typing with one hand, you know the sofa-tray struggle. The D&D Living Sofa Tray (Parent) is a 4.6-star product with 229 ratings, and after digging through what buyers actually say, this one earns its score — with a couple of caveats.

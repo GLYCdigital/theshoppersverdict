@@ -1,4 +1,5 @@
 ---
+
 title: "HOOTSUM 1/2â€"
 seo_title: "HOOTSUM 1/2â€ Review: Verdict | TSV"
 meta_description: "Our full hootsum 1/2â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNKP5SGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SpapMLFdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: the tool aisle on Amazon is a graveyard of cheap chrome that bends on the third use. So when a relatively unknown brand like HOOTSUM shows up with a 4.6-star average across 229 ratings, my first instinct is skepticism. After digging through the specs, the buyer feedback, and the construction details, here’s the real story on their 1/2-inch offering.

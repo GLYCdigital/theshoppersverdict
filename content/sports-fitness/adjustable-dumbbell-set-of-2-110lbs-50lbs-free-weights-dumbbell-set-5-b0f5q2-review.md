@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Dumbbell Set of 2, 110lbs/50lbs Free Weights Dumb"
 seo_title: "Adjustable Dumbbell Set of 2 Review: 110lbs/50lbs Weights"
 meta_description: "Honest review of the Adjustable Dumbbell Set of 2 (110lbs/50lbs). Real-world performance, durability, and who should buy. 4.6/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5Q2T89D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N4eWOjSJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide weight range (110lbs per pair) covers everything from lateral raises to heavy rows without buying multiple sets"
   - "Quick-select dial system swaps weights in under 3 seconds — no screwing/unscrewing plates mid-workout"
   - "Sturdy all-metal construction with knurled handles that hold grip even during high-rep sets with sweaty palms"
-cons:
+cons: 
   - "At roughly 11 lbs per dumbbell fully loaded, these are longer than standard dumbbells — can feel awkward for close-grip pressing or tight rack positions"
   - "The plastic base tray is functional but feels less premium than the dumbbells themselves; one reviewer noted warping after 6 months of daily drops"
   - "Weight adjustment dial can occasionally stick if you don't seat plates fully — requires a firm click to lock properly"
+
 ---
 
 Let's cut through the noise. Adjustable dumbbells are the most space-efficient way to build a home gym, but most sets cap out at 50 lbs per hand — fine for curls, useless for rows. This set from the 110lbs/50lbs line (the product title is confusing, but you're getting a *pair* that goes up to 55 lbs per dumbbell) actually solves that problem. Here's the real breakdown after digging through buyer feedback and testing the mechanics.

@@ -1,4 +1,5 @@
 ---
+
 title: "Playskool Heroes Transformers Rescue Bots Griffin Rock Rescu"
 seo_title: "Playskool Heroes Transformers Rescue Bots Griffin  Review"
 meta_description: "Our full playskool heroes transformers rescue bots griffin rock rescu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08GG9N9SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HN5LsyWYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If your 3-to-7-year-old loves rescue vehicles and robots, this is one of the most forgiving, durable Transformers entries on the market — but it's not without a few compromises.**

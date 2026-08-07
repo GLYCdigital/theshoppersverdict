@@ -1,4 +1,5 @@
 ---
+
 title: "Poen 7 in 1 Taekwondo Kick Pad Boxing Training Equipment Pun"
 seo_title: "Poen 7 in 1 Taekwondo Kick Pad Boxing Training Equ Review"
 meta_description: "Our full poen 7 in 1 taekwondo kick pad boxing training equipment pun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6CV6J3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hxrPbfBqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 7-Piece Striking Kit That Actually Earns Its Place on Your Dojo Floor

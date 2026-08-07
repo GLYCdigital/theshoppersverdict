@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Magnetic Screen Door"
 seo_title: "Adjustable Magnetic Screen Door Review: Honest Buyer's Guide"
 meta_description: "Read our honest adjustable magnetic screen door review — coverage, magnet strength, installation tips, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B088WMWQFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7197Rr2dCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Adjustable width up to 39 inches — fits non-standard door frames without custom sizing"
   - "Heavy-duty mesh holds up to pets; several buyers report dogs pushing through daily without tearing"
   - "Full-frame hook-and-loop strip installs in under 10 minutes with no tools required"
-cons:
+cons: 
   - "Bottom edge isn't weighted — strong wind gusts can lift the panels and let bugs in"
   - "The magnetic seal weakens noticeably after 4–6 months of constant use; plan on periodic replacement"
+
 ---
 
 Let's be direct about the adjustable magnetic screen door: it's the most practical solution for high-traffic doorways that aren't perfectly square. But it's not a permanent fixture, and pretending otherwise sets you up for disappointment.

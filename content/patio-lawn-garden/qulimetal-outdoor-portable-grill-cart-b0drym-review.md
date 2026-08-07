@@ -1,4 +1,5 @@
 ---
+
 title: "QuliMetal Outdoor Portable Grill Cart"
 seo_title: "QuliMetal Outdoor Portable Grill Cart Review: Verdict | T"
 meta_description: "Our full qulimetal outdoor portable grill cart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRYMZ6CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710z93jyK2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most portable grill carts under $100 are flimsy sheet-metal afterthoughts that wobble the moment you put a hot grill on them. The QuliMetal Outdoor Portable Grill Cart isn’t that — but it’s also not a permanent patio fixture. Here’s who should buy it, who should skip it, and what 220 Amazon buyers are saying.

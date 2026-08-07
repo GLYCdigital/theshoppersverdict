@@ -1,4 +1,5 @@
 ---
+
 title: "Western Digital 4TB WD Purple Surveillance Internal Hard Dri"
 seo_title: "Western Digital 4TB WD Purple Surveillance Interna Review"
 meta_description: "Our full western digital 4tb wd purple surveillance internal hard dri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GS1Q7SYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Od7Xf5SwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You wouldn't run a marathon in flip-flops, so why are you running a 24/7 surveillance system on a desktop HDD? The Western Digital 4TB WD Purple is built for one job: writing video footage continuously, without the errors that plague standard drives when they overheat or get hammered with simultaneous streams. At 4.1 stars from 204 ratings, it's a solid pick — but it's not the right pick for everyone. Let me break down exactly what you're getting.

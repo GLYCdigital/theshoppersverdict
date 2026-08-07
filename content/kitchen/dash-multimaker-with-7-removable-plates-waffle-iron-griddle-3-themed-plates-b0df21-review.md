@@ -1,4 +1,5 @@
 ---
+
 title: "DASH Multimaker with 7 Removable Plates: Waffle Iron & Gridd"
 seo_title: "DASH Multimaker Review: 7 Plates, 1 Machine, Worth It?"
 meta_description: "DASH Multimaker review: 7 removable plates for waffles, griddle, more. 4.6-star rated. Is this countertop cooker worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF21QD4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CHpWm+eyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Seven interchangeable nonstick plates swap in seconds — no tools, no wrestling with hot metal"
   - "Compact footprint (roughly the size of a large toaster) fits in tight cabinets and dorms"
   - "Cooks evenly across all plates; the waffle plate produces consistently crisp exteriors with fluffy centers"
-cons:
+cons: 
   - "Single-batch capacity means feeding a family of four takes multiple rounds"
   - "No temperature dial — just a single heat setting that runs hot; some foods need watching"
   - "Plates are hand-wash only despite the nonstick coating; dishwasher will degrade them over time"
+
 ---
 
 **The DASH Multimaker is the kitchen equivalent of a Swiss Army knife — seven plates, one compact machine, and a 4.6-star average across 229 ratings that suggests it earns its counter space. But is it a genuine workhorse or a gadget that spends most of its life in a cabinet? I've dug through the specs, the customer feedback, and the real-world use cases to give you the straight answer.**

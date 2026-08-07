@@ -1,4 +1,5 @@
 ---
+
 title: "AmazeFan Pull Up Bar Doorway with Ergonomic Grip - Fitness C"
 seo_title: "AmazeFan Doorway Pull Up Bar Review: Solid Grip, Real Results"
 meta_description: "Honest AmazeFan doorway pull up bar review: 4.6-star rated, ergonomic grips, easy install. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7SM1977/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RE8expAlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, contoured foam grips reduce palm fatigue during high-rep sets"
   - "Tool-free install with padded brackets that protect door trim from scuffs"
   - "Holds firm on standard interior doorways (tested up to 24-32 inch frames)"
-cons:
+cons: 
   - "Not suitable for hollow-core or hollow metal doors — frame must be solid wood or composite"
   - "Max weight capacity is 300 lbs; heavier users may need a wall-mounted alternative"
   - "Foam grips absorb sweat and need periodic cleaning to avoid odor buildup"
+
 ---
 
 **The Verdict: A Doorway Pull-Up Bar That Actually Feels Like Equipment, Not a Compromise**

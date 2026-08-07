@@ -1,4 +1,5 @@
 ---
+
 title: "Jocisland Floating Bed Frame, Faux Leather Upholstered Platf"
 seo_title: "Jocisland Floating Bed Frame, Faux Leather Upholst Review"
 meta_description: "Our full jocisland floating bed frame, faux leather upholstered platf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTTZ2HMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jk3GLXccL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The Jocisland Floating Bed Frame with LED lights is a head-turning centerpiece that delivers the high-end "hotel suite" aesthetic without the four-figure price tag. But with zero verified customer reviews, you're betting on specs and reputation, not proof.

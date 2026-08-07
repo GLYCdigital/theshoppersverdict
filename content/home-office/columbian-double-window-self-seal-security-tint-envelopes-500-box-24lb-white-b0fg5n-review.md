@@ -1,4 +1,5 @@
 ---
+
 title: "Columbian Double-Window Self Seal Security Tint Envelopes, 5 inch"
 seo_title: "Columbian Double-Window Security Tint Envelopes Review (2026)"
 meta_description: "Read our honest Columbian Double-Window Self Seal Security Tint Envelopes review. 24lb paper, 4.6/5 rating. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FG5NVF9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71whcmg9LhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24lb paper stock is noticeably thicker and more substantial than standard #10 envelopes — resists bending and crumpling in transit"
   - "Security tint pattern effectively obscures check amounts and account numbers, verified by multiple buyers in real-world use"
   - "Self-seal adhesive is genuinely strong — several reviewers report envelopes staying sealed through sorting machines without reinforcement"
-cons:
+cons: 
   - "Double-window layout means the address shows through both sides; if you prefer total privacy for mailing addresses, this isn't it"
   - "Tint is a light gray pattern, not a dark opaque shield — under direct bright light, some text can be faintly detected"
+
 ---
 
 Most people don't think twice about envelopes. Then a check goes missing, or a client calls about a bill that arrived with the account number visible through the paper. That's exactly the scenario the Columbian Double-Window Self Seal Security Tint Envelopes are designed to prevent — and they do it well enough to earn a 4.6/5 rating from 229 Amazon reviewers.

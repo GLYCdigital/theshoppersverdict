@@ -1,4 +1,5 @@
 ---
+
 title: "Crescent Sensormatic Construction Wrench"
 seo_title: "Crescent Sensormatic Wrench Review: Smart Torque Tech"
 meta_description: "Crescent Sensormatic Construction Wrench review: Does the auto-adjusting jaw and digital torque display justify the price? Real-world testing and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07R7ZMVP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gsSZ2nfFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-adjusting jaw grips fasteners instantly—no manual ratcheting or resetting between turns"
   - "Built-in torque readout (up to 225 ft-lb) gives you data a plain wrench simply can't provide"
   - "Cr-Mo steel construction with induction-hardened jaws holds up to real job-site abuse"
-cons:
+cons: 
   - "Electronic display adds bulk—it won't fit in tight spots where a slim profile wrench slides right in"
   - "Battery life is decent but not infinite; dead battery means you lose the torque readout function"
   - "Premium price tag—you're paying for the tech, not just the turning capability"
+
 ---
 
 **The hook:** Most wrenches are dumb steel. The Crescent Sensormatic is the rare tool that actually earns its "smart" label without being gimmicky. It's an auto-adjusting wrench with a digital torque readout built right into the handle—and after digging through 235 ratings averaging 4.7 stars, the consensus is clear: this thing genuinely changes how you work on fasteners. But it's not for everyone, and here's the honest breakdown.

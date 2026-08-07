@@ -1,4 +1,5 @@
 ---
+
 title: "Heritage Set of 3 Rectangular Dishes"
 seo_title: "Heritage Set of 3 Rectangular Dishes Review: Verdict | TS"
 meta_description: "Our full heritage set of 3 rectangular dishes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BWTNH8G4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YDPJ5YvvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the Heritage Set of 3 Rectangular Dishes: it's the rare kitchen purchase that earns its 4.8-star rating through sheer reliability. No gimmicks, no "smart" features, just three solidly built ceramic dishes that do exactly what they're supposed to do — and hold up for years. But before you hit buy, let's talk about what those 240 five-star ratings don't tell you.

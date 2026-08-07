@@ -1,4 +1,5 @@
 ---
+
 title: "Monster High Frankie Stein Doll Head for Hairstyling with 65"
 seo_title: "Monster High Frankie Stein Doll Head for Hairstyli Review"
 meta_description: "Our full monster high frankie stein doll head for hairstyling with 65 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CB6JVYCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718IgTGevhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has been begging for a real salon experience without the salon price tag, the Monster High Frankie Stein Doll Head for Hairstyling is the closest thing to a cosmetology school mannequin you'll find in the toy aisle. And honestly? It's better than most adult styling heads I've handled.

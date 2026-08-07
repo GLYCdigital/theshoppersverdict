@@ -1,4 +1,5 @@
 ---
+
 title: "BELLEZE 65 Inch Modular Fluted Buffet Cabinet with Storage,"
 seo_title: "BELLEZE 65 inch Fluted Buffet Cabinet Review (2026) | Real Buyer Insights"
 meta_description: "Honest BELLEZE 65 inch fluted buffet cabinet review: modular design, build quality, storage capacity, and real owner feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G33K6DYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8189-vu+69L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modular 3-piece design fits through narrow doorways and adapts to L-shaped or straight configurations"
   - "Fluted arched doors hide fingerprints and scratches better than flat gloss finishes"
   - "Six soft-close drawers plus adjustable shelving handle real dining storage needs"
-cons:
+cons: 
   - "Assembly requires two people and roughly 2 hours despite the modular claim"
   - "Back panel is thin MDF — you'll want to anchor it to the wall if you have kids or pets"
+
 ---
 
 ## The 65-inch buffet that thinks it's a chameleon

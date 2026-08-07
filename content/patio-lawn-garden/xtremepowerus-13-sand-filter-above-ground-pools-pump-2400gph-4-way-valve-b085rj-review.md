@@ -1,7 +1,8 @@
 ---
-title: "XtremepowerUS 13\" Sand Filter Above Ground Pools Pump 2400GP"
-seo_title: "XtremepowerUS 13\" Sand Filter Above Ground Pools P Review"
-meta_description: "Our full xtremepowerus 13\" sand filter above ground pools pump 2400gp review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "XtremepowerUS 13\ Sand Filter Above Ground Pools Pump 2400GP"
+seo_title: "XtremepowerUS 13\ Sand Filter Above Ground Pools P Review"
+meta_description: "Our full xtremepowerus 13\ sand filter above ground pools pump 2400gp review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "xtremepowerus-13-sand-filter-above-ground-pools-pump-2400gph-4-way-valve-b085rj-review"
 image_alt: "XtremepowerUS 13 Sand Filter Above Ground Pools Pump 2400GPH 4-Way Valve Swimming Pool with Pool Pump 10,000GAL Capacity"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B085RJPJC9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zNa3gEWAL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **XtremepowerUS 13" Sand Filter Above Ground Pools Pump 2400GP** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

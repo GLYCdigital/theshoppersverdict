@@ -1,4 +1,5 @@
 ---
+
 title: "Sooez 9x12 Presentation Book"
 seo_title: "Sooez 9x12 Presentation Book Review: Verdict | TSV"
 meta_description: "Our full sooez 9x12 presentation book review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09XB7JT5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QB2Kcf0FL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever fumbled with a flimsy report cover in front of a client, you know the value of a presentation book that actually looks professional. The Sooez 9x12 Presentation Book isn’t flashy, but it does the job — and does it well enough to earn a 4.7-star average from 235 Amazon shoppers. Here’s the breakdown.

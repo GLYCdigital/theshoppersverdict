@@ -1,4 +1,5 @@
 ---
+
 title: "Skylar Eau de Parfum - Hypoallergenic & Clean Perfume for Wo"
 seo_title: "Skylar Eau de Parfum - Hypoallergenic & Clean Perf Review"
 meta_description: "Our full skylar eau de parfum - hypoallergenic & clean perfume for wo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F647YSQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tf0mVetjL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Clean Perfume That Actually Smells Expensive — Not Just "Safe"**

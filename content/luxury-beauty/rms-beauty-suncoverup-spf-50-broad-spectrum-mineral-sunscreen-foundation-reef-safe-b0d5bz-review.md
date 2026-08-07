@@ -1,4 +1,5 @@
 ---
+
 title: "RMS Beauty SunCoverup SPF 50 â€“ Broad Spectrum Mineral Suns"
 seo_title: "RMS Beauty SunCoverup SPF 50 â€“ Broad Spectrum Mi Review"
 meta_description: "Our full rms beauty suncoverup spf 50 â€“ broad spectrum mineral suns review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D5BZKWFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51i+iYBrxiL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "CAPHAUS Bookshelf, 24 Inch Width Free Standing Shelf, Bookca"
 seo_title: "CAPHAUS Bookshelf Review: 24-Inch Bookcase Worth It?"
 meta_description: "Read our honest CAPHAUS 24-inch bookshelf review. Real buyer feedback, build quality, sizing details, and who should buy. See if this bookcase fits your space."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5FY5Z13/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fRtwDF2uL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Narrow 24-inch footprint fits tight spaces where standard 30-36 inch bookcases won't"
   - "Five adjustable shelves give real storage flexibility without tools"
   - "Solid engineered wood construction holds up to daily use at this price point"
-cons:
+cons: 
   - "Assembly requires patience — several buyers report misaligned screw holes"
   - "Back panel is thin and needs careful handling during installation"
   - "Not designed for heavy hardcover encyclopedias — load per shelf has limits"
+
 ---
 
 You’ve measured the corner. You’ve stared at that awkward 24-inch gap between the window and the door. Every bookcase you find is either too wide, too flimsy, or requires a second mortgage. The CAPHAUS 24-inch bookshelf exists for that exact problem — and at 4.7 stars from 235 Amazon ratings, it’s clearly hitting the mark for most buyers. But is it the right shelf for *your* stuff? Let’s get into the specifics.

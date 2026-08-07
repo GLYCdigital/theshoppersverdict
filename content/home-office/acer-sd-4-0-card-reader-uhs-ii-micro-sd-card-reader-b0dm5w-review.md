@@ -1,4 +1,5 @@
 ---
+
 title: "Acer SD 4.0 Card Reader, UHS-II Micro SD Card Reader USB C,"
 seo_title: "Acer SD 4.0 Card Reader Review: UHS-II Speeds, USB-C"
 meta_description: "Acer SD 4.0 UHS-II Micro SD card reader review: real transfer speeds, build quality, and who should buy it. Testing USB-C performance."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM5WCV5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zNFnLKWeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers full UHS-II speeds (up to 312 MB/s) on both SD and microSD slots"
   - "Compact aluminum housing stays cool during sustained transfers"
   - "True plug-and-play on USB-C devices—no drivers or external power needed"
-cons:
+cons: 
   - "No USB-A adapter included, so older laptops require a separate dongle"
   - "MicroSD slot is spring-loaded and can eject cards accidentally if brushed"
   - "Lanyard hole is too small for most standard keyrings"
+
 ---
 
 ## The Card Reader That Finally Keeps Up With Your Camera

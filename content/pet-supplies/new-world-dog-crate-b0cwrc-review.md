@@ -1,4 +1,5 @@
 ---
+
 title: "New World Dog Crate"
 seo_title: "New World Dog Crate Review: Verdict | TSV"
 meta_description: "Our full new world dog crate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWRCYJCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The New World Dog Crate has quietly racked up a 4.7-star average across 235 Amazon ratings, and that kind of consistency usually means one of two things: either it's genuinely good, or it's cheap enough that buyers forgive flaws. After digging through the feedback and the specs, I can tell you it's the former — with a couple of caveats worth knowing before you click buy.

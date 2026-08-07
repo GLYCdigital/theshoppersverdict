@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools Impact Driver Set, 10-in-1 Stubby Screwdriver Dr"
 seo_title: "Klein Tools Impact Driver Set, 10-in-1 Stubby Scre Review"
 meta_description: "Our full klein tools impact driver set, 10-in-1 stubby screwdriver dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWMH5MZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S3Ae+SgKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wedged a full-size screwdriver into a tight electrical panel and watched it bend or slip, you already know why the Klein Tools 10-in-1 Stubby Impact Driver Set exists. This is the tool for the spots where your regular driver simply can't go—and it's built to survive the abuse of actual impact work.

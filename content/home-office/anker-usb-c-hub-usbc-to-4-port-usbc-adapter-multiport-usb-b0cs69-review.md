@@ -1,4 +1,5 @@
 ---
+
 title: "Anker USB-C Hub, USBC to 4-Port USBC Adapter, Multiport USB"
 seo_title: "Anker USB-C Hub 4-Port Review: Compact, Reliable, Worth It?"
 meta_description: "Anker USB-C Hub 4-port adapter review: build quality, data speeds, real-world performance. Is this compact multiport hub worth your desk space? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CS69N2Z6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aP1S04WSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact aluminum body that disappears into a laptop bag without adding bulk"
   - "True plug-and-play with no driver installation on macOS, Windows, or ChromeOS"
   - "Reliable Anker build quality with overcurrent protection on all four ports"
-cons:
+cons: 
   - "No pass-through charging — you'll still need your laptop's original charger"
   - "All four ports share bandwidth, so simultaneous heavy transfers will slow down"
   - "Cable is permanently attached and relatively short at about 5 inches"
+
 ---
 
 Let's be honest about what this Anker hub actually is: a four-port USB-C expansion adapter, not a full docking station. That distinction matters, because shoppers often grab hubs expecting monitor output or power delivery and end up disappointed. This device does one thing — gives you four extra USB-C ports — and it does that thing well.

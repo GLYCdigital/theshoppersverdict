@@ -1,4 +1,5 @@
 ---
+
 title: "Vego garden Modular Raised Garden Bed Kit"
 seo_title: "Vego garden Modular Raised Garden Bed Kit Review: Verdict"
 meta_description: "Our full vego garden modular raised garden bed kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6F1ZQTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hpH6BO-dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: if you're still building raised beds from cedar planks that rot in five years, the Vego garden Modular Kit is the upgrade you've been putting off. It's not the cheapest option — but it's likely the last one you'll buy.

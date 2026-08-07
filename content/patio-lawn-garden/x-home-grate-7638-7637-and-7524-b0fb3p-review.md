@@ -1,4 +1,5 @@
 ---
+
 title: "X Home Grate 7638, 7637 and 7524"
 seo_title: "X Home Grate 7638, 7637 and 7524 Review: Verdict | TSV"
 meta_description: "Our full x home grate 7638, 7637 and 7524 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FB3PJ1B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bJvXVz4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a fire pit spark shoot onto dry grass or a nearby deck, you know the panic. The X Home Grate 7638, 7637, and 7524 series is designed to kill that worry while doubling as a cooking surface. With a 4.7-star average from 235 ratings, it’s clearly earning its keep in backyards. But is it the right spark screen for *your* setup? Let’s break it down.

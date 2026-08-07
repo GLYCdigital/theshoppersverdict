@@ -1,4 +1,5 @@
 ---
+
 title: "Quartet Glass Whiteboard, Magnetic Dry Erase White Board, Br"
 seo_title: "Quartet Glass Whiteboard, Magnetic Dry Erase White Review"
 meta_description: "Our full quartet glass whiteboard, magnetic dry erase white board, br review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DNKGZYLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ebxi0h3IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Walk into any modern office and you'll see one of these on a wall — a frameless glass board that looks more like a design statement than a productivity tool. The Quartet Glass Whiteboard (Brilliance White surface, Infinity model) sits at that intersection of form and function. After spending time with it, here's what you need to know before dropping your money.

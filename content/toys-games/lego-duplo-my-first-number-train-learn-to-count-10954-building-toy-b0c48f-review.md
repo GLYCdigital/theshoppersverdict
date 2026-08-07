@@ -1,4 +1,5 @@
 ---
+
 title: "Lego DUPLO My First Number Train - Learn to Count 10954 Buil"
 seo_title: "Lego DUPLO My First Number Train - Learn to Count  Review"
 meta_description: "Our full lego duplo my first number train - learn to count 10954 buil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C48F9G8Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fTXzMBZhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lego DUPLO Number Train is the rare toddler toy that grows with your kid — but it's not perfect for every family.**

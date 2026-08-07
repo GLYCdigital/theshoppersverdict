@@ -1,4 +1,5 @@
 ---
+
 title: "BalanceFrom Neoprene Coated Iron Dumbbell Hex Weights Set wi"
 seo_title: "BalanceFrom Neoprene Dumbbell Set Review: Hex Weights w/ Stand"
 meta_description: "Honest BalanceFrom neoprene hex dumbbell set review. Covers grip, durability, stand quality, and who should buy. Real user feedback on this 4.6-star set."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FRNPSBGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617k7K0uQTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Color-coded neoprene coating makes grabbing the right weight effortless mid-workout — no squinting at stamped numbers"
   - "Hexagonal head design prevents rolling, so you can rest them on the floor or your thighs between sets without chase"
   - "Included A-frame stand keeps pairs organized and frees up floor space compared to loose dumbbells stacked in a corner"
-cons:
+cons: 
   - "Neoprene coating absorbs sweat and can develop a musty odor over time if not wiped down regularly"
   - "Fixed-weight pairs mean you'll need multiple sets for progressive overload — no adjustability here"
   - "Coating can chip at edges if you drop them repeatedly on hard surfaces, exposing the cast iron underneath"
+
 ---
 
 **The Short Version: Solid Fixed-Weight Dumbbells That Won't Roll Away or Break the Bank**

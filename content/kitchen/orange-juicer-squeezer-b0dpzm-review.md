@@ -1,4 +1,5 @@
 ---
+
 title: "Orange Juicer Squeezer"
 seo_title: "Orange Juicer Squeezer Review: Verdict | TSV"
 meta_description: "Our full orange juicer squeezer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPZMYH23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iQjW8HorL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about the orange juice situation: bottled stuff tastes like sugar water, and the grocery store fresh-squeezed stuff costs as much as a small car. A manual citrus press is the obvious middle ground, but most of them are flimsy plastic junk that squirts more juice onto your counter than into your glass. The Orange Juicer Squeezer — a stainless steel manual press with a hinged handle and reamer cone — is trying to be the exception. After digging through 225 ratings and the mechanics of how this thing actually works, here’s the real story.

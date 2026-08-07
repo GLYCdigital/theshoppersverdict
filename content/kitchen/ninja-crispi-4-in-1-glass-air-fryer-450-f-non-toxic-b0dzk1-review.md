@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Crispi 4-in-1 Glass Air Fryer | 450Â°F | Non-Toxic | 4"
 seo_title: "Ninja Crispi 4-in-1 Glass Air Fryer | 450Â°F | Non Review"
 meta_description: "Our full ninja crispi 4-in-1 glass air fryer | 450â°f | non-toxic | 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZK1DSH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UbThrQ3eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you've been avoiding air fryers because you don't want chemical coatings touching your food, the Ninja Crispi is the answer you've been waiting for. But it comes with tradeoffs — namely weight and a learning curve — that make it a "know what you're buying" product rather than a universal recommendation.

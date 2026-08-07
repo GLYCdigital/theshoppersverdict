@@ -1,4 +1,5 @@
 ---
+
 title: "RXBAR Protein Bars, 12g Protein, Gluten Free Snacks, Peanut "
 seo_title: "RXBAR Protein Bars, 12g Protein, Gluten Free Snack Review"
 meta_description: "Our full rxbar protein bars, 12g protein, gluten free snacks, peanut  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DVH6ZBZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RXBAR Protein Bars Review: Does Simple Actually Work?

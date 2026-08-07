@@ -1,4 +1,5 @@
 ---
+
 title: "YOLEO 880LB Adjustable Weight Bench for Bench Press, MAX Fol"
 seo_title: "YOLEO 880LB Adjustable Weight Bench for Bench Pres Review"
 meta_description: "Our full yoleo 880lb adjustable weight bench for bench press, max fol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 150
 amazon_rating: 1.0
 amazon_url: "https://www.amazon.com/dp/B0FVLWQGTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kvzto3xUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YOLEO 880LB bench looks great in the product photos. Then you read the actual reviews.**

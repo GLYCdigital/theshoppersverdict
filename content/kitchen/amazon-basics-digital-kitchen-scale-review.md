@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Digital Kitchen Scale"
 seo_title: "Amazon Basics Digital Kitchen Scale Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics Digital Kitchen Scale review: accuracy, build, and value at $19.56. Is this budget scale worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 132
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06X9NQ8GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eiII6MS-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reads in 1g increments up to 11 lbs — accurate enough for baking and portion control"
   - "Compact 7.5-inch platform fits in shallow drawers; runs on one CR2032 battery"
   - "Instant tare function lets you zero out bowls and containers without fuss"
-cons:
+cons: 
   - "Small display is hard to read from standing height — you'll need to lean in"
   - "No auto-off adjustment; powers down after 60 seconds, which can interrupt slow measuring"
+
 ---
 
 A $20 kitchen scale is the kind of purchase you overthink for weeks, then realize you should've just bought it. The Amazon Basics Digital Kitchen Scale sits in that sweet spot: cheap enough to impulse-buy, capable enough to handle real cooking. After digging through 132 ratings and the spec sheet, here's what actually matters.

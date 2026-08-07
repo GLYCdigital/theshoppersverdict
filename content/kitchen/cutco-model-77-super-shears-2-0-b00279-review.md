@@ -1,23 +1,25 @@
 ---
+
 title: "CUTCO Model 77 Super Shears 2.0 inch  "
 seo_title: "CUTCO Model 77 Super Shears 2.0 Review: Worth It?"
 meta_description: "CUTCO Model 77 Super Shears 2.0 review: 4.8-star kitchen shears. Tested for cutting, comfort, and durability. See pros, cons, and who should buy."
 slug: "cutco-model-77-super-shears-2-0-b00279-review"
 image_alt: "CUTCO Model 77 Super Shears 2.0 with serrated blade and locking hinge"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00279LFO2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C-iRMdwrL._AC_SL1157_.jpg"
-pros:  
+pros: 
   - "Serrated edge grips slippery poultry skin and cartilage without sliding"  
   - "Full-tang stainless steel construction with a locking hinge that stays put"  
   - "Comfortable, oversized handles fit gloved or large hands"  
-cons:  
+cons: 
   - "No built-in bottle opener or nutcracker — this is a pure cutting tool"  
   - "Price is steep if you only need occasional light-duty snipping"
+
 ---
 
 **The $80 kitchen shears that actually earn their keep**  

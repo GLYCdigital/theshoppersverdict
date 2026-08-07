@@ -1,4 +1,5 @@
 ---
+
 title: "TDANCE Easy Fan Lash Extension Rapid Blooming Volume Eyelash"
 seo_title: "TDANCE Easy Fan Lash Extension Rapid Blooming Volu Review"
 meta_description: "Our full tdance easy fan lash extension rapid blooming volume eyelash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLMH1H11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dZdKwFu7L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a lash tech hand-fan volume lashes and thought "I could never do that," the TDANCE Easy Fan line was made for you. These pre-made fans bloom open the moment they hit adhesive — no crimping, no pinching, no 45-minute learning curve. But at 4.4 stars across 220 ratings, is it actually a salon-grade shortcut or just another gimmick? I tested them to find out.

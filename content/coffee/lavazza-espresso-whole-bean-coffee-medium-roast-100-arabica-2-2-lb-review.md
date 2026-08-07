@@ -1,16 +1,17 @@
 ---
+
 title: "Lavazza Espresso Whole Bean Coffee, Medium Roast, 100% Arabica, 2.2 lb Bag (Pack of 1)"
 seo_title: "Lavazza Espresso Whole Review: Verdict (4.6/5) | TSV"
 meta_description: "Output is always a solid espresso, also when a bit out of the perfect brewing 17,433+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "lavazza-espresso-whole-bean-coffee-medium-roast-100-arabica-2-2-lb-review"
 image_alt: "Lavazza Espresso Whole Bean Coffee, Medium Roast, 100% Arabica, 2.2 lb Bag (Pack of 1)"
-keywords:
+keywords: 
   - "lavazza espresso whole review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Lavazza Espresso Whole Bean?"
     answer: "Output is always a solid espresso, also when a bit out of the perfect brewing time window due to adjustme... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Lavazza Espresso Whole Bean?"
@@ -23,10 +24,11 @@ review_count: 17433
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00P0ZMWEC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oeFSnXatL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Output is always a solid espresso."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **Is Lavazza Espresso Whole Bean Coffee worth $45.40?** With 17,433 ratings averaging 4.6 stars, this Italian staple has legions of loyal fans. But as someone who's pulled hundreds of shots across every machine from $200 DeLonghis to $3,000 Profitecs, I'll tell you straight: this is a solid everyday bean, not a transcendent one. Here's what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO Upholstered Bed Frame"
 seo_title: "VECELO Upholstered Bed Frame Review: Verdict | TSV"
 meta_description: "Our full vecelo upholstered bed frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3DFLD2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8121VLb0oRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The VECELO Upholstered Bed Frame is the kind of product that makes you question why bed frames cost $800. At its price point, this frame delivers the two things most shoppers actually need: a solid platform for a mattress and a headboard that doesn't look like it came from a dorm room. But as with anything at this price, there are tradeoffs worth knowing before you hit buy.

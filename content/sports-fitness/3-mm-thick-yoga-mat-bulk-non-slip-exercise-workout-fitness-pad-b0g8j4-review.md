@@ -1,4 +1,5 @@
 ---
+
 title: "3 mm Thick Yoga Mat Bulk, Non Slip Exercise Workout Fitness"
 seo_title: "3mm Thick Yoga Mat Bulk Review: Non-Slip Workout Pad"
 meta_description: "Honest review of the 3mm thick yoga mat bulk pack. Is the non-slip surface worth it for hot yoga or travel? We tested grip, durability, and value."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G8J4V9WM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9147RpP8suL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3mm thickness hits the sweet spot for balance-focused poses — you feel the floor for stability without knee pain"
   - "Textured non-slip surface holds up even with sweaty palms in hot yoga; several reviewers confirmed grip after months of use"
   - "Bulk option drops price per mat significantly — makes sense for studios, gyms, or splitting with friends"
-cons:
+cons: 
   - "At 3mm, this is not a cushioning mat — floor work like sit-ups or supine stretches will leave your spine feeling every plank"
   - "Surface shows scuffs and crease marks quickly; cosmetic wear appears within weeks even with normal use"
+
 ---
 
 If you've ever slid into downward dog on a $10 mystery mat, you know the difference grip makes. This 3mm thick yoga mat bulk option from Amazon sits in a weird middle ground — thin enough for serious balance work, thick enough to protect your knees. But is it worth your money? After digging through 200 ratings and cross-referencing the specs, here's the real story.

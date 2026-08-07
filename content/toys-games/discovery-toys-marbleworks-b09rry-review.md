@@ -1,4 +1,5 @@
 ---
+
 title: "Discovery Toys MARBLEWORKSÂ®"
 seo_title: "Discovery Toys Marbleworks Review: Is It Worth It? (2026)"
 meta_description: "Discovery Toys Marbleworks review: 4.4-star rated building set. See what 220+ buyers say about build quality, play value, and who it's best for."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09RRY32WT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VfhShXydL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chunky, palm-sized plastic pieces are genuinely toddler-safe — no small parts that snap off, and the marbles are large enough to pass a choke tube test"
   - "Open-ended design supports both vertical tower builds and flat, floor-level tracks, so it adapts as your kid's spatial reasoning grows"
   - "Pieces click together with satisfying friction — sturdy enough to survive a 3-year-old's enthusiastic rebuilds without constant collapse"
-cons:
+cons: 
   - "The included marble storage bag is flimsy — expect to replace it with a zippered pouch within a month of regular use"
   - "Base plates are sold separately, which limits stability for taller builds unless you buy additional sets or improvise with books"
   - "At full retail price it runs $10–15 more than comparable marble runs, though the durability partially justifies the premium"
+
 ---
 
 # Discovery Toys MARBLEWORKS® Review: A Sturdy Marble Run That Grows With Your Kid

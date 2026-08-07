@@ -1,5 +1,6 @@
 ---
 
+
 title: "Apricorn Aegis NVX - Ultra high Speed Ruggedized SSD, USB 3."
 seo_title: "Apricorn Aegis NVX Review: Rugged Encrypted SSD Speed"
 meta_description: "Apricorn Aegis NVX review: USB 3.2 Gen 2 speeds, hardware AES-256 encryption, IP67 rugged design. Real performance data, buyer feedback, and verdict."
@@ -12,14 +13,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CCHWZJGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TZDNll-bL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Real hardware AES-256 encryption with PIN pad — no software to install or fail"
   - "Sustained read speeds around 1,000 MB/s over USB 3.2 Gen 2, verified in third-party benchmarks"
   - "IP67-rated aluminum housing survives drops, dust, and submersion without a rubber sleeve"
-cons:
+cons: 
   - "At 2.9 oz and 3.5 inches long, it's bulkier than non-encrypted pocket SSDs like the Samsung T7 inch"
   - "The 8-digit PIN entry gets tedious if you swap between multiple devices daily"
   - "No USB-C to USB-C cable included — you get USB-C to USB-A, which limits speeds on newer MacBooks"
+
 
 ---
 

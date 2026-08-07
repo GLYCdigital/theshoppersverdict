@@ -1,4 +1,5 @@
 ---
+
 title: "3X6FT Large Pleated Fan Flag"
 seo_title: "3X6FT Pleated Fan Flag Review: Worth It? (2026)"
 meta_description: "Read our honest 3X6FT pleated fan flag review. See pros, cons, real buyer feedback, and who should buy this outdoor decoration."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F668VBGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kWPDTcjBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3x6 footprint with deep pleats that catch even light breezes"
   - "Double-stitched hems and reinforced corners hold up through wind and rain"
   - "Fits standard 1-inch flagpoles without needing extra hardware"
-cons:
+cons: 
   - "Fabric wrinkles crease in from folding; needs a steam session before first use"
   - "No pole or ground stake included — that's a separate purchase"
   - "Bright colors can fade after a full season of direct afternoon sun"
+
 ---
 
 If you've ever watched a standard rectangular flag hang limp on a windless day, you know the frustration. That's exactly why pleated fan flags exist — and this 3X6FT version is one of the better-executed examples I've tested. The deep vertical pleats act like rigid ribs, holding the flag open even when the breeze is barely there. It's a genuinely smart design that makes your yard look intentional rather than neglected.

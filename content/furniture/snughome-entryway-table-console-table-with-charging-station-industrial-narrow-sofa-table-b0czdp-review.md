@@ -1,4 +1,5 @@
 ---
+
 title: "Snughome Entryway Table, Console Table with Charging Station"
 seo_title: "Snughome Entryway Table, Console Table with Chargi Review"
 meta_description: "Our full snughome entryway table, console table with charging station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZDPMJLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71opU7y-RAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your entryway currently looks like a landing zone for keys, mail, and dead phones, the Snughome Entryway Table with Charging Station is built to fix two problems at once. It's a narrow console that gives you a proper surface for daily drop-items, and it packs power outlets right where you need them.

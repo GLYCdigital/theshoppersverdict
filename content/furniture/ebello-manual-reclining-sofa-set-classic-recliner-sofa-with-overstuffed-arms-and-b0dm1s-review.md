@@ -1,4 +1,5 @@
 ---
+
 title: "EBELLO Manual Reclining Sofa Set, Classic Recliner Sofa with"
 seo_title: "EBELLO Manual Reclining Sofa Set Review: Worth It? (2026)"
 meta_description: "Honest EBELLO Manual Reclining Sofa Set review: comfort, build quality, and real buyer feedback. Is this classic recliner worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DM1SQJ2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-DatxP57L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Manual reclining mechanism is dependable and easy to operate — no power cords or motors to fail"
   - "Overstuffed arms and plush seat cushions provide genuine comfort for extended sitting"
   - "Classic design fits most traditional living room decor without looking dated"
-cons:
+cons: 
   - "Assembly requires two people and patience — the backrests and base need careful alignment"
   - "Recline lever placement can be awkward for shorter users to reach comfortably"
   - "Fabric shows pet hair and light lint more readily than darker upholstery options"
+
 ---
 
 **EBELLO Manual Reclining Sofa Set Review: Solid Comfort Without the Gimmicks**

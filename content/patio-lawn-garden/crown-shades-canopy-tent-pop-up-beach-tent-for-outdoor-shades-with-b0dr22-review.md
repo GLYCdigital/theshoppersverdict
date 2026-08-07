@@ -1,4 +1,5 @@
 ---
+
 title: "CROWN SHADES Canopy Tent, Pop Up Beach Tent for Outdoor Shad"
 seo_title: "CROWN SHADES Canopy Tent Review: Pop Up Beach Shade (2026)"
 meta_description: "CROWN SHADES pop-up canopy tent review: 4.7★ rated beach shade. Setup speed, durability, wind resistance, and who it's actually for. Read before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR22GDSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zQ4MLNNDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 60-second setup with pre-attached poles — no threading or assembly guesswork"
   - "UPF 50+ fabric blocks roughly 98% of UV rays, verified by multiple buyers"
   - "Integrated sand pockets and included stakes hold firm in moderate beach winds"
-cons:
+cons: 
   - "Not a storm shelter — gusty conditions above 20 mph require taking it down"
   - "Carry bag is functional but straps feel thin for the tent's 12 lb weight"
+
 ---
 
 Let me be blunt: most pop-up beach tents under $100 are disposable junk that fold into a tangled mess after three uses. The CROWN SHADES Canopy Tent is not that. It's earned a 4.7-star average across 235 ratings for a reason — and it's not just because it looks good in the listing photos.

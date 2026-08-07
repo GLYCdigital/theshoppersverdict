@@ -1,4 +1,5 @@
 ---
+
 title: "Oil Based Food Coloring Chocolate Oil Food Dye for Baking 80"
 seo_title: "Oil Based Food Coloring Chocolate Oil Food Dye for Review"
 meta_description: "Our full oil based food coloring chocolate oil food dye for baking 80 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZX8RYTY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zdhNCyx8L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever ruined a batch of melted white chocolate by adding regular food coloring, you already know the pain. Water-based dyes cause chocolate to seize into a stiff, grainy mess. This oil-based set exists specifically to solve that problem. With 210 ratings averaging 4.2 stars, it's clearly doing something right — but let's dig into whether it's the right tool for your specific baking workflow.

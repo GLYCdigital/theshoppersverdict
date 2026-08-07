@@ -1,4 +1,5 @@
 ---
+
 title: "TRU Triple Buffet Server - Three 2.5 Quart Removable Crock I"
 seo_title: "TRU Triple Buffet Server - Three 2.5 Quart Removab Review"
 meta_description: "Our full tru triple buffet server - three 2.5 quart removable crock i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004ARV1X4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rrAPSQwdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a kitchen product, the **TRU Triple Buffet Server - Three 2.5 Quart Removable Crock I** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

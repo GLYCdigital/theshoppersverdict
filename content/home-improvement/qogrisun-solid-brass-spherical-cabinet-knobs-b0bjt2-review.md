@@ -1,4 +1,5 @@
 ---
+
 title: "QOGRISUN Solid Brass Spherical Cabinet Knobs"
 seo_title: "QOGRISUN Solid Brass Spherical Cabinet Knobs Review: Verd"
 meta_description: "Our full qogrisun solid brass spherical cabinet knobs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BJT27Q4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QGxajYcGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cabinet hardware at this price point is zinc alloy with a brass-colored coating that flakes off within a year. The QOGRISUN Solid Brass Spherical Knobs are different — they're machined from actual solid brass. You notice it the second you pick one up. At roughly 1.4 ounces each, they have a density that cheap hollow knobs simply can't fake.

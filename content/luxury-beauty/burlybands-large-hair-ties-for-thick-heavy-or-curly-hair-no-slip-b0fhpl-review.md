@@ -1,4 +1,5 @@
 ---
+
 title: "Burlybands Large Hair Ties for Thick Heavy or Curly Hair. No"
 seo_title: "Burlybands Large Hair Ties Review: Do They Hold Thick Hair?"
 meta_description: "Burlybands Large Hair Ties review: Do these no-slip bands actually hold thick, heavy, curly hair? Tested for grip, snag-free wear & durability. 4.6★."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FHPLZ2Z9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EUjFYXkcL._SL1080_.jpg"
-pros:
+pros: 
   - "Genuinely wide band surface (about 1 inch) distributes tension, so thick or heavy hair doesn't snap the elastic or cause a headache by end of day"
   - "Textured exterior grips curly and coily textures without sliding down, even in a high ponytail worn for 8+ hours"
   - "Zero metal or sharp join points — the band is seamless, which means no snagging or tearing on fragile, color-treated strands"
-cons:
+cons: 
   - "The grippy texture can catch on fine or silky hair when removing; you must unwind rather than yank, or you'll pull strands"
   - "Not ideal for very thin or baby-fine hair — the band's width overwhelms a small ponytail and leaves a visible crease"
   - "Pack of 3 only; if you lose them like I do, you'll be reordering sooner than you'd like"
+
 ---
 
 If you've got thick, heavy, or curly hair, you already know the struggle: regular elastics either snap on the third use, slide down your ponytail by noon, or leave a dent in your scalp that lasts until dinner. Burlybands claims to fix all three. After digging through 229 ratings and the physical specs, here's the real story.

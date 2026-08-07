@@ -1,4 +1,5 @@
 ---
+
 title: "LEPOWER Metal Desk Lamp, Adjustable Goose Neck Architect Tab"
 seo_title: "LEPOWER Metal Desk Lamp, Adjustable Goose Neck Arc Review"
 meta_description: "Our full lepower metal desk lamp, adjustable goose neck architect tab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B9S3D13G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618URISGWXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEPOWER Metal Desk Lamp is the rare budget lamp that doesn't feel like a budget lamp.** At a glance, the product image shows a matte black or silver gooseneck lamp with a circular weighted base — nothing flashy. But 225 Amazon reviewers averaging 4.5 stars suggest this thing earns its keep. Let me tell you what that rating actually means after digging into the specs, the feedback, and the real-world tradeoffs.

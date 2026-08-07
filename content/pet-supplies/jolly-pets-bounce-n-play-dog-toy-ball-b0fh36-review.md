@@ -1,4 +1,5 @@
 ---
+
 title: "Jolly Pets Bounce-n-Play Dog Toy Ball"
 seo_title: "Jolly Pets Bounce-n-Play Dog Toy Ball Review: Verdict | T"
 meta_description: "Our full jolly pets bounce-n-play dog toy ball review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FH369XSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UvIUrl40L._AC_SL1220_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog's idea of a perfect afternoon is chasing something, pouncing on it, and chasing it again, the Jolly Pets Bounce-n-Play Ball deserves a spot in your cart. But before you hit buy, understand what you're getting — this isn't a plush toy, and it's not for every dog.

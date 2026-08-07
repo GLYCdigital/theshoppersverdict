@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS TUF Gaming Gaming Graphics Card"
 seo_title: "ASUS TUF Gaming Graphics Card Review: Is It Worth It?"
 meta_description: "ASUS TUF Gaming graphics card review: performance, thermals, build quality, and real buyer feedback. See if this 4.5-star GPU fits your rig."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMPV6RLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cl8Wsp0uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive factory OC out of the box — most buyers see 5-8% over reference boost clocks without touching any software"
   - "Axial-tech fan design with dual ball bearings runs effectively silent under 50% load, even in open-air test benches"
   - "Full metal backplate and 2.7-slot heatsink keep memory junction temps under 80°C during sustained 4K gaming"
-cons:
+cons: 
   - "Massive 3.15-slot footprint — won't fit SFF cases or many mid-towers with front radiators; measure before buying"
   - "No dual BIOS switch on this model, so you're locked into the 'Performance' profile unless you manually undervolt"
+
 ---
 
 The ASUS TUF Gaming line has always positioned itself as the "no-nonsense" option in ASUS's GPU stack — less RGB, more heatsink. This generation continues that trend, but with 225 ratings averaging 4.5 stars, the real question is whether the TUF badge justifies the premium over cheaper partner cards. After digging through buyer feedback and spec sheets, here's the honest breakdown.

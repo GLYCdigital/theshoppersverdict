@@ -1,4 +1,5 @@
 ---
+
 title: "AMICLIBER Convertible Futon Sofa Bed, Futon Couch with Adjus"
 seo_title: "AMICLIBER Convertible Futon Sofa Review: Worth It? (2026)"
 meta_description: "AMICLIBER Convertible Futon Sofa Bed review: 4.2★ from 210 ratings. Real pros, cons, and who should buy this adjustable futon couch. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GX5QFSTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9161aaEcYYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position adjustable backrest (upright, reclined, flat) lets you dial in comfort without moving the whole frame"
   - "Folds flat to a guest bed in under 30 seconds with no tools required"
   - "Compact footprint (roughly 70 inches wide by 30 inches deep) fits small apartments and studio layouts"
-cons:
+cons: 
   - "Seat depth is on the shorter side—tall users (6'+) may find the sofa position snug"
   - "Assembly requires two people; the frame is heavy and awkward to flip during setup"
+
 ---
 
 Let’s be honest about the futon category: most of them are flimsy, saggy, or look like they belong in a college dorm. The AMICLIBER Convertible Futon Sofa Bed tries to break that mold, and based on 210 Amazon ratings averaging 4.2 stars, it’s mostly succeeding.

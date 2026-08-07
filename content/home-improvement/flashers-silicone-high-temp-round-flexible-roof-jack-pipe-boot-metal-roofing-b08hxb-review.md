@@ -1,24 +1,26 @@
 ---
+
 title: "Flashers Silicone High Temp Round Flexible Roof Jack Pipe Boot Review"
 seo_title: "Flashers Silicone Roof Jack Boot Review (2026): Pros, Cons & Fit"
 meta_description: "Honest Flashers Silicone High Temp Roof Jack Boot review: heat tolerance, fit for metal roofing, real user feedback, and who should skip it."
 slug: "flashers-silicone-high-temp-round-flexible-roof-jack-pipe-boot-metal-roofing-b08hxb-review"
 image_alt: "Flashers Silicone High Temp Round Flexible Roof Jack Pipe Boot installed on metal roofing"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HXB55QT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XE3OkTokL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Withstands continuous heat up to 400°F (and spikes to 500°F) — safe for wood stove and furnace exhaust pipes"  
   - "True silicone construction stays flexible in sub-zero temps, unlike rubber boots that crack after one winter"  
   - "Fits 1–6 inch diameter pipes with a tight, self-sealing collar that conforms to oval or slightly off-round pipe"  
-cons:  
+cons: 
   - "No pre-cut holes — you must trim the collar yourself, and a dull blade will tear the silicone"  
   - "The bright red color stands out against most dark roofing; painting it voids the heat warranty"  
   - "Not rated for direct flame or Class A chimney pipe — read the fine print before installing on a wood stove"
+
 ---
 
 ## The Roof Boot That Doesn't Crack, Melt, or Leak (Usually)

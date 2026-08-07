@@ -1,4 +1,5 @@
 ---
+
 title: "ZONEGRACE Solid Brass Landscape Spotlights, Heavy Duty 12V O"
 seo_title: "ZONEGRACE Solid Brass Landscape Spotlights, Heavy  Review"
 meta_description: "Our full zonegrace solid brass landscape spotlights, heavy duty 12v o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD3VJQQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qaZfaQURL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ZONEGRACE Solid Brass Landscape Spotlights: The Last Landscape Light You'll Buy?

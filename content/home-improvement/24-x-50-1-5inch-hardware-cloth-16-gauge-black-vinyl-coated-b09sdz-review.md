@@ -1,23 +1,25 @@
 ---
+
 title: "24'' x 50' 1.5inch Hardware Cloth 16 Gauge Black Vinyl Coate"
 seo_title: "24'' x 50' 1.5in Hardware Cloth Review: 16 Gauge Vinyl Coated"
 meta_description: "Honest 24'' x 50' 1.5in hardware cloth review: 16 gauge, black vinyl coated. Sturdy mesh for garden, coop, or fence—find strengths, limits, and verdict."
 slug: "24-x-50-1-5inch-hardware-cloth-16-gauge-black-vinyl-coated-b09sdz-review"
 image_alt: "Roll of 24 inch by 50 foot 1.5 inch black vinyl coated hardware cloth mesh"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09SDZ24GD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N1B84VY1L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Vinyl coating doesn’t peel or flake when cut—edges stay clean with tin snips"  
   - "1.5-inch mesh is rigid enough for critter barriers without sagging between posts"  
   - "Full 50-foot roll with consistent 24-inch width—no short rolls or tapered ends"  
-cons:  
+cons: 
   - "16 gauge is sturdy but not heavy enough for large predator (coyote/bear) enclosures"  
   - "Black coating can scratch off on concrete if dragged—unroll on cardboard or grass"
+
 ---
 
 If you're building a chicken run, reinforcing a garden bed, or blocking rodents from a crawlspace, the 24'' x 50' 1.5-inch hardware cloth is the kind of roll you buy once and use for three projects. At 16 gauge with a black vinyl coat, it sits squarely in the "serious but not industrial" tier—and for most homeowners, that's exactly the right call.

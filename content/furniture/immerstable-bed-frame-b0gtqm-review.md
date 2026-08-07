@@ -1,4 +1,5 @@
 ---
+
 title: "IMMERSTABLE Bed Frame"
 seo_title: "IMMERSTABLE Bed Frame Review: Verdict | TSV"
 meta_description: "Our full immerstable bed frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTQM1GN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7169tpmvPEL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A bed frame is the least glamorous piece of furniture you'll ever buy, but it's also the one you'll notice every single night. The IMMERSTABLE Bed Frame has been quietly racking up a 4.5-star average across 225 ratings, which tells me it's doing something right. The question is whether it's the right frame for *your* bedroom setup.

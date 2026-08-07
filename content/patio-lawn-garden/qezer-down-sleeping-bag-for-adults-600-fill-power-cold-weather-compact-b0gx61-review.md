@@ -1,4 +1,5 @@
 ---
+
 title: "QEZER Down Sleeping Bag for Adults 600 Fill Power, Cold Weat"
 seo_title: "QEZER Down Sleeping Bag for Adults 600 Fill Power, Review"
 meta_description: "Our full qezer down sleeping bag for adults 600 fill power, cold weat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GX61XYF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618hUR1+1xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've tested more sleeping bags than I care to count, and most "budget down" bags are a lie — either the fill is fake, the temp rating is fiction, or the thing weighs more than a cast-iron skillet. The QEZER 600 Fill Power bag isn't perfect, but it's one of the few under-$150 down bags that actually delivers on its core promises. Here's the full breakdown.

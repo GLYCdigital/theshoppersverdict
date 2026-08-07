@@ -1,4 +1,5 @@
 ---
+
 title: "Fiddle Leaf Fig Rescue Drops – Treats Root Rot, Brown Spot"
 seo_title: "Fiddle Leaf Fig Rescue Drops Review: Root Rot Treatment"
 meta_description: "Our honest Fiddle Leaf Fig Rescue Drops review: does this root rot treatment actually work? Tested for brown spot, leaf drop & fungus. Real buyer results."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPPD2Z9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ldIUvzSsL._SL1500_.jpg"
-pros:
+pros: 
   - "Three-pronged formula targets root rot, brown spot fungus, and nutrient deficiency simultaneously—not a band-aid fix"
   - "Dropper application makes dosing precise for pots from 4-inch nursery containers up to 12-inch floor planters"
   - "Visible improvement in new growth within 10–14 days on most treated plants, per buyer reports"
-cons:
+cons: 
   - "Won't resurrect a plant with mushy, fully blackened roots—if the root system is gone, this won't bring it back"
   - "Bottle covers roughly 6–8 treatments for a standard 10-inch pot, so larger fiddle leaf figs need multiple bottles"
+
 ---
 
 **If your fiddle leaf fig looks like it's auditioning for a plant funeral—brown spots spreading across the leaves, lower foliage dropping like it's autumn—you're likely dealing with one of three culprits: root rot from overwatering, fungal brown spot, or a nutrient deficiency. The Fiddle Leaf Fig Rescue Drops claims to tackle all three in one bottle. After digging through 225 ratings and the chemistry behind it, here's the real story.**

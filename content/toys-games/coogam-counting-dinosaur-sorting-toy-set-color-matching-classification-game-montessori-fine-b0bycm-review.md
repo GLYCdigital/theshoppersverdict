@@ -1,4 +1,5 @@
 ---
+
 title: "Coogam Counting Dinosaur Sorting Toy Set, Color Matching Cla"
 seo_title: "Coogam Counting Dinosaur Sorting Toy Review (2026): Worth It?"
 meta_description: "Coogam counting dinosaur sorting toy set review: 72 dinos, 6 colors, fine motor skills. See pros, cons, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BYCM441X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vKdH2k7ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72 dinosaurs across 6 colors with matching cups — enough pieces for multiple kids or classroom centers without fighting over toys"
   - "Tongs included for both left- and right-handed kids, turning color sorting into a fine motor workout"
   - "Durable, non-toxic plastic that survived drops and toddler chewing without chipping or peeling"
-cons:
+cons: 
   - "Dinosaur species are hard to distinguish — two types look nearly identical, so species-based sorting is frustrating"
   - "No storage container included, so the 72 loose pieces need a bag or bin you'll have to supply yourself"
   - "Cups are shallow and lightweight — younger toddlers may knock them over mid-sort, scattering the pieces"
+
 ---
 
 **Spoiler: Your toddler will love these tiny dinosaurs more than you expect.**

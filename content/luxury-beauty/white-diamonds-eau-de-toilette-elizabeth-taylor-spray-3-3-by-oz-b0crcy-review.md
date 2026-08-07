@@ -1,4 +1,5 @@
 ---
+
 title: "White Diamonds Eau De Toilette Elizabeth Taylor Spray 3.3 by"
 seo_title: "White Diamonds Eau De Toilette Elizabeth Taylor Sp Review"
 meta_description: "Our full white diamonds eau de toilette elizabeth taylor spray 3.3 by review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRCY6LVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ThcPRy4+L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1991 fragrance that refuses to die — and for good reason.**

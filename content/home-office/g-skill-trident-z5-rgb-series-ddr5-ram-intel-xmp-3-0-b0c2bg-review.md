@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Trident Z5 RGB Series DDR5 RAM (Intel XMP 3.0) 96GB "
 seo_title: "G.SKILL Trident Z5 RGB Series DDR5 RAM (Intel XMP  Review"
 meta_description: "Our full g.skill trident z5 rgb series ddr5 ram (intel xmp 3.0) 96gb  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2BGD6SM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UwHpj3J4L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **G.SKILL Trident Z5 RGB Series DDR5 RAM (Intel XMP 3.0) 96GB ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

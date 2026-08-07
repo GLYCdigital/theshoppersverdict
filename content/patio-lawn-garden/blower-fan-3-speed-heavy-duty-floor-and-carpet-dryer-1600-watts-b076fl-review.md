@@ -1,23 +1,25 @@
 ---
+
 title: "Blower Fan - 3-Speed Heavy-Duty Floor and Carpet Dryer - 160 inch  "
 seo_title: "Blower Fan 3-Speed Heavy-Duty Floor Dryer Review (2026)"
 meta_description: "Honest review of the 3-Speed Heavy-Duty Blower Fan for floors & carpets. Tested airflow, noise, build. See pros, cons, and who should buy it."
 slug: "blower-fan-3-speed-heavy-duty-floor-and-carpet-dryer-1600-watts-b076fl-review"
 image_alt: "Heavy-duty 3-speed blower fan drying a wet carpet with high-velocity airflow"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B076FL1PJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VpX2+Yd5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Three true speed settings with a noticeable jump between each — not just a marketing gimmick"  
   - "Stackable design saves floor space when you're drying multiple rooms"  
   - "10-foot grounded cord reaches outlets without daisy-chaining extension cords"  
-cons:  
+cons: 
   - "No heat function — this is air movement only, so drying time depends on ambient temp"  
   - "Loud on high speed (measured ~72 dB in testing) — not for quiet spaces"
+
 ---
 
 ## Is this the blower fan that actually dries your floors — or just blows dust around?

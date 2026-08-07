@@ -1,4 +1,5 @@
 ---
+
 title: "34 inch  Square Folding Card Table, Fold-in-Half Utility Dining P"
 seo_title: "34 inch  Square Folding Card Table Review: Fold-in-Half Utility Table"
 meta_description: "Honest review of the 34 inch  square folding card table. Is this fold-in-half utility dining table worth it? See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV52GXZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SagR06rRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "34-inch square surface fits four people comfortably for games or meals without feeling cramped"
   - "Fold-in-half design halves its footprint for storage, unlike traditional card tables that only fold legs"
   - "Sturdy locking mechanism keeps the tabletop rigid during use; no wobble reported by most buyers"
-cons:
+cons: 
   - "At roughly 17 pounds, it's not the lightest portable table; carrying it upstairs one-handed is a stretch"
   - "The included carry handle is functional but basic — no padded grip, which gets uncomfortable on longer carries"
+
 ---
 
 Let’s be straight about folding tables: most of them are flimsy, wobbly, and feel like they’ll collapse if you lean on them wrong. That’s not the case here. The 34" Square Folding Card Table from the fold-in-half utility line is a different animal — and with 240 ratings averaging 4.8 stars, I’m not the only one who noticed.

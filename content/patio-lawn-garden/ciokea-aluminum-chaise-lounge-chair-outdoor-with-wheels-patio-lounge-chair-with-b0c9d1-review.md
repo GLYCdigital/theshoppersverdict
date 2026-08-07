@@ -1,4 +1,5 @@
 ---
+
 title: "Ciokea Aluminum Chaise Lounge Chair Outdoor with Wheels, Pat"
 seo_title: "Ciokea Aluminum Chaise Lounge Chair Review (2026): Worth It?"
 meta_description: "Ciokea aluminum chaise lounge chair with wheels review: build quality, comfort, portability, and real buyer feedback. Is this patio lounger worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9D119J2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vu0+y7r-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine rust-proof aluminum frame — not steel with a paint job — so it holds up in wet climates"
   - "Rear wheels lift the legs off the ground when tilted, making repositioning a one-person job"
   - "Five-position backrest locks firmly; no sagging or slipping under 250 lbs"
-cons:
+cons: 
   - "Cushions are thin (about 2 inches) — you'll feel the frame crossbars on long sits"
   - "Wheels are plastic, not rubber — they roll fine on pavers but can skid on wet grass"
+
 ---
 
 # Ciokea Aluminum Chaise Lounge Chair Outdoor with Wheels: The Real Deal

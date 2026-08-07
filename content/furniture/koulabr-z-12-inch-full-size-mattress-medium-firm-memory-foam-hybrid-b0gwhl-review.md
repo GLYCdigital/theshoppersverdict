@@ -1,4 +1,5 @@
 ---
+
 title: "KOULABR Z | 12 Inch Full Size Mattress | Medium Firm | Memor"
 seo_title: "KOULABR Z | 12 Inch Full Size Mattress | Medium Fi Review"
 meta_description: "Our full koulabr z | 12 inch full size mattress | medium firm | memor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWHL962K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MIhM10rdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KOULABR Z 12-inch full mattress sits in a crowded field of bed-in-a-box options, and honestly, most of them blur together. This one doesn't. With a 4.3-star average across 215 ratings, it's carving out a reputation for delivering a genuinely balanced medium-firm feel at a price that undercuts the big names. But is it the right mattress for your sleep setup? Let's dig into what you're actually getting.

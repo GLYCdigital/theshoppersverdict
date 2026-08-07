@@ -1,4 +1,5 @@
 ---
+
 title: "ANTLUX 4FT LED Flushmount Lights"
 seo_title: "ANTLUX 4FT LED Flushmount Review: Bright Shop Lighting"
 meta_description: "Read our ANTLUX 4FT LED Flushmount review. We cover brightness, installation, and color temps to see if this linkable shop light is right for your garage."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09YCGLMNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WohPriZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Punchy 5000K daylight output (4400 lumens) that eliminates shadows in a standard two-car garage."
   - "Truly flush 1.2-inch profile mounts directly to the ceiling—no dangling chains or bulky housing."
   - "Daisy-chain capable up to 6 units with included connectors, letting you run a whole row off one switch."
-cons:
+cons: 
   - "Non-replaceable integrated LEDs mean the fixture is the bulb; when it dies (50,000 hrs), you replace the whole unit."
   - "Included mounting screws are short—they won't grab if you are hitting a metal stud or thick drywall anchor."
+
 ---
 
 Let’s be honest: most garage lighting is either blindingly harsh or depressingly dim. The ANTLUX 4FT LED Flushmount sits right in the sweet spot. It’s a low-profile, linkable workhorse that punches well above its price point for anyone converting a dark cave into a usable workshop.

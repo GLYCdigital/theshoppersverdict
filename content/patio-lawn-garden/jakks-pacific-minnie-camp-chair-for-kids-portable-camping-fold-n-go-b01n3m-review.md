@@ -1,4 +1,5 @@
 ---
+
 title: "JAKKS Pacific Minnie Camp Chair for Kids, Portable Camping F"
 seo_title: "JAKKS Pacific Minnie Camp Chair for Kids, Portable Review"
 meta_description: "Our full jakks pacific minnie camp chair for kids, portable camping f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01N3MQJU9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1gPnQCcEyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is at that age where they want to sit "like a big kid" but you're not ready to trust them in an adult camp chair that swallows them whole, the JAKKS Pacific Minnie Camp Chair is the middle ground you've been looking for. With 229 ratings holding steady at 4.6 stars, this is one of those rare kids' products that actually earns its rating rather than coasting on brand recognition.

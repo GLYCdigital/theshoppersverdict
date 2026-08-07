@@ -1,4 +1,5 @@
 ---
+
 title: "Litheli String Trimmer"
 seo_title: "Litheli String Trimmer Review: Verdict | TSV"
 meta_description: "Our full litheli string trimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GL82H4P6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SdaZCh4pL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The Litheli String Trimmer sits in a crowded market of budget cordless trimmers, and its 3.7-star average tells you real buyers have mixed feelings. I’ve dug through the feedback, the spec sheet, and the real-world usage patterns to give you the straight story before you spend money.

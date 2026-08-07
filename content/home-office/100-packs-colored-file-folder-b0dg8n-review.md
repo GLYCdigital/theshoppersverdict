@@ -1,4 +1,5 @@
 ---
+
 title: "100 Packs Colored File Folder"
 seo_title: "100 Packs Colored File Folder Review: Worth It? (2026)"
 meta_description: "Honest 100 Packs Colored File Folder review: durability, color accuracy, real user feedback. Is this 4.6-star office staple worth your money?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DG8N2J7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cu5veyH5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10 distinct colors in a single bulk pack — enough variety to color-code an entire client or project system without buying multiple boxes"
   - "Reinforced top tab and bottom fold resist tearing at stress points, even with daily filing and retrieval"
   - Letter-size (11.75 inch " x 9.5 inch ") fits standard lateral and vertical file cabinets without trimming or bending
-cons:
+cons: 
   - "Colors are slightly muted, not the vibrant saturated tones shown in some product photos — pastel-adjacent rather than bold"
   - "A few users report occasional misaligned die-cuts on the tab, causing minor label placement issues"
+
 ---
 
 # 100 Packs Colored File Folder Review: The Bulk Color-Coding Solution That Holds Up

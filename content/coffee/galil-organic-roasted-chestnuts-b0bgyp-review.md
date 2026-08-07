@@ -1,4 +1,5 @@
 ---
+
 title: "Galil Organic Roasted Chestnuts"
 seo_title: "Galil Organic Roasted Chestnuts Review: Worth It?"
 meta_description: "Honest Galil Organic Roasted Chestnuts review: taste, texture, value. See what 200 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BGYPKR4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Already peeled and roasted — zero prep, eat straight from the package"
   - "Organic certification and clean ingredient list (just chestnuts)"
   - "Soft, creamy texture with naturally sweet flavor that holds up well"
-cons:
+cons: 
   - "Some packages arrive dry or crumbly — texture consistency varies batch to batch"
   - "Smaller portion size than expected for the price point"
   - "Very mild flavor — won't satisfy anyone seeking bold, smoky roasting notes"
+
 ---
 
 Let's be direct: you're not here because you're curious about chestnuts. You're here because you saw "organic roasted chestnuts" on Amazon, remembered that scene from *The Holiday*, and wondered if these actually deliver. The answer is mostly yes — with some honest caveats.

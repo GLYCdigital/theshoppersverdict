@@ -1,4 +1,5 @@
 ---
+
 title: "Dream Castle Inflatable Bounce House with Slide for 1-6 Age"
 seo_title: "Dream Castle Bounce House Review: Slide Fun for Ages 1-6 inch"
 meta_description: "Honest Dream Castle inflatable bounce house review: build quality, safety features, and real buyer feedback for ages 1-6. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTWHJGZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JS26jEMYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced seams and double-stitched material hold up to daily backyard use"
   - "Compact footprint (roughly 10x8x7 ft) fits most suburban yards without dominating the space"
   - "Blower motor runs continuously and stays cool even after 4+ hours of summer play"
-cons:
+cons: 
   - "Stakes and sandbags are adequate for grass but won't hold on concrete or windy days"
   - "Slide angle is gentle — older 5-6 year olds may find it underwhelming"
   - "No repair patch kit included; you'll want to buy one preemptively"
+
 ---
 
 Let's be honest about inflatable bounce houses: most are cheap vinyl death traps that deflate mid-birthday-party. The Dream Castle is not that. With 215 ratings averaging 4.3 stars, this one's earned its place in the backyard rotation. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME TV Stand for Living Room"
 seo_title: "YITAHOME TV Stand for Living Room Review: Verdict | TSV"
 meta_description: "Our full yitahome tv stand for living room review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GDDWCJ5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BzPd5WcfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a TV stand that doesn't cost a fortune but still looks like you gave your living room some thought, the YITAHOME has been quietly racking up 4.4 stars from 220+ buyers. The question is whether it earns that rating in your actual living room, or just in the product photos.

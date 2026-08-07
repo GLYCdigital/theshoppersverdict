@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Singles Limited Ingredient Dry Dog Food, Beef & Pumpki"
 seo_title: "ACANA Singles Beef & Pumpkin Review: Limited Ingredient Dog Food"
 meta_description: "Honest ACANA Singles Limited Ingredient Dog Food review: beef & pumpkin recipe, quality ingredients, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGQSKPRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WFyyeDxWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Single animal protein source (beef) with pumpkin as the primary carbohydrate — genuinely limited ingredient, not just marketing"
   - "First five ingredients are whole beef, beef meal, pumpkin, beef fat, and beef liver — no unnamed meat meals or vague 'animal digest'"
   - "Grain-free formula that holds up well for dogs with grain sensitivities; kibble size works for both small and medium breeds"
-cons:
+cons: 
   - "Price per pound runs noticeably higher than comparable limited ingredient brands like Natural Balance or Zignature"
   - "Beef-based formula won't work for dogs with beef allergies — you'll need to seek out the other protein variants in the line"
   - "The 4.5 lb bag is the only size some retailers stock, which forces frequent repurchasing for larger dogs"
+
 ---
 
 If your dog has a sensitive stomach, you've likely played the rotating game — trying one "limited ingredient" food after another, watching for the telltale signs of an upset system. ACANA Singles aims to end that cycle with a formula that actually practices what it preaches.

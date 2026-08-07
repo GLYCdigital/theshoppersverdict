@@ -1,4 +1,5 @@
 ---
+
 title: "Google S3006WBUS Nest Protect, S3000BWES, 2nd Gen, Battery, "
 seo_title: "Google S3006WBUS Nest Protect, S3000BWES, 2nd Gen, Review"
 meta_description: "Our full google s3006wbus nest protect, s3000bwes, 2nd gen, battery,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B06ZZW7S9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sVkfs4LaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most smoke detectors are dumb plastic discs that beep when you burn toast and chirp at 3 AM for no reason. The Google Nest Protect 2nd Gen is not that. It's the smartest smoke and CO detector most people can buy — but it costs more than three standard alarms and demands you commit to its ecosystem. Here's what you're actually getting for the premium.

@@ -1,7 +1,8 @@
 ---
-title: "Oregon 50 Pack 40-139 8\" x 2\" Stick Edger Blade Fits Echo Ry"
-seo_title: "Oregon 50 Pack 40-139 8\" x 2\" Stick Edger Blade Fi Review"
-meta_description: "Our full oregon 50 pack 40-139 8\" x 2\" stick edger blade fits echo ry review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Oregon 50 Pack 40-139 8\ x 2\ Stick Edger Blade Fits Echo Ry"
+seo_title: "Oregon 50 Pack 40-139 8\ x 2\ Stick Edger Blade Fi Review"
+meta_description: "Our full oregon 50 pack 40-139 8\ x 2\ stick edger blade fits echo ry review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "oregon-50-pack-40-139-8-x-2-stick-edger-blade-fits-b07x12-review"
 image_alt: "Oregon 50 Pack 40-139 8 x 2 Stick Edger Blade Fits Echo Ryobi Red Max Stihl"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07X12T9FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613Hkke5XeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Fifty blades you won't think about again until next spring

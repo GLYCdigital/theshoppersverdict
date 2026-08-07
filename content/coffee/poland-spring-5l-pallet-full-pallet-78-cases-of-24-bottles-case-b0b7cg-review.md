@@ -1,4 +1,5 @@
 ---
+
 title: "Poland Spring .5L Pallet (Full Pallet - 78 Cases of 24 Bottl"
 seo_title: "Poland Spring .5L Pallet (Full Pallet - 78 Cases o Review"
 meta_description: "Our full poland spring .5l pallet (full pallet - 78 cases of 24 bottl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0B7CG147L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91u80mQvbiL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### What You're Actually Getting

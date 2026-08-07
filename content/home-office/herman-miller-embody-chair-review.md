@@ -1,4 +1,5 @@
 ---
+
 title: "Herman Miller Embody Ergonomic Office Chair"
 seo_title: "Herman Miller Embody Review: Worth $1,900? (2026)"
 meta_description: "Hands-on Herman Miller Embody review: BackFit support, pixelated cushion, and build quality. Is this $1,900 chair worth it? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 479
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01DGM7ZII/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vsHNwGGWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "BackFit adjustment lets you dial in lumbar support precisely, not just guess with a knob"
   - "Pixelated suspension seat eliminates pressure points—no more numb legs after 10-hour sessions"
   - "12-year warranty covers everything including the casters and gas cylinder"
-cons:
+cons: 
   - "No headrest option from the factory—a $1,900 chair should offer one"
   - "Seat depth adjustment requires tools, unlike the Aeron's easy slide mechanism"
   - "Arms feel plasticky and cheap relative to the rest of the build"
+
 ---
 
 You're looking at a $1,919 office chair. Before you click buy, let's talk about what that money actually gets you—and what it doesn't.

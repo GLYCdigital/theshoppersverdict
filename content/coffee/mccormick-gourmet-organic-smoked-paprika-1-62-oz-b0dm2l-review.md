@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Gourmet Organic Smoked Paprika, 1.62 Oz"
 seo_title: "McCormick Gourmet Organic Smoked Paprika, 1.62 Oz Review:"
 meta_description: "Our full mccormick gourmet organic smoked paprika, 1.62 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DM2LMZLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hC1XPG7bL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Smoked paprika is the closest thing to liquid smoke that actually tastes like food, and McCormick's organic version nails the balance. If you've ever bought a cheap jar that smelled like a campfire and tasted like ash, this is the correction. At 4.8 stars across 240 ratings, the consensus is clear: this is the paprika you reach for when you want that slow-smoked depth without firing up the grill.

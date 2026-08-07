@@ -1,4 +1,5 @@
 ---
+
 title: "chubbycable Curly Chubby 240W Coiled USB C Fast Charging Cab"
 seo_title: "chubbycable Curly Chubby 240W Coiled USB-C Review (2026)"
 meta_description: "Honest chubbycable Curly Chubby 240W coiled USB-C cable review: durability, charging speed, cable length, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CRGVQL97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614Le4RYHsL._SL1500_.jpg"
-pros:
+pros: 
   - "240W EPR rating delivers full-speed charging for MacBook Pro 16” and other high-wattage laptops, not just phones"
   - "Coiled design stretches to roughly 6 feet when extended but springs back to a tidy 12-inch loop for desk organization"
   - "Braided nylon sleeve with reinforced joints held up through 10,000+ bend cycles in my stress test"
-cons:
+cons: 
   - "Coil tension is aggressive—shorter devices like earbuds cases can yank the cable back mid-charge"
   - "Stiff out of the box; needs a few days of use before the spring loosens to comfortable tension"
+
 ---
 
 **Bottom line:** This is the rare coiled cable that actually delivers full laptop charging speeds, not just phone-fast charging. If you're tired of untangling standard cables on a cluttered desk, the Curly Chubby solves a real problem—but it's not without quirks.

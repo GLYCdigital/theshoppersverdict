@@ -1,4 +1,5 @@
 ---
+
 title: "Dried Mixed Fruits â€“ Gluten-Free & Peanut-Free, Slightly S"
 seo_title: "Dried Mixed Fruits Review: Gluten-Free Snack for Baking (2026)"
 meta_description: "Honest Dried Mixed Fruits review: texture, sweetness, and baking performance. See if this gluten-free, peanut-free blend earns its 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GNBSD1PR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jx1wnNPbL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent dice size (roughly ¼-inch) makes measuring for baked goods reliable — no hunting for oversized chunks"
   - "Genuinely peanut-free facility certification, not just a 'may contain' disclaimer"
   - "Slightly sweetened with apple juice concentrate, not corn syrup — dried fruit flavor comes through without cloying sugar"
-cons:
+cons: 
   - "No resealable zipper on the bag — you'll need a clip or transfer to a container"
   - "Texture leans soft, not chewy-dry; if you want crunchy dried fruit for trail mix, this isn't it"
+
 ---
 
 Let's be blunt: most dried fruit blends are either rock-hard nuggets that threaten dental work or sugar-glazed candy pretending to be fruit. This one sits somewhere better. At 4.6 stars across 229 ratings, it's clearly earning its keep in kitchens. Here's the real breakdown.

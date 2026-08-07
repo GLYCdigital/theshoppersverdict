@@ -1,4 +1,5 @@
 ---
+
 title: "jane iredale Eye Pencil Mineral Based with Conditioning Oils"
 seo_title: "jane iredale Eye Pencil Mineral Based with Conditi Review"
 meta_description: "Our full jane iredale eye pencil mineral based with conditioning oils review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B088PTLB11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FHK12BNRL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the luxury packaging noise. The **jane iredale Eye Pencil** is a $20+ eyeliner that sells itself on "mineral-based" and "conditioning oils" — two phrases that usually mean either "chalky mess" or "smudges by noon." After digging through 220 ratings and the real-world feedback, here’s the honest breakdown.

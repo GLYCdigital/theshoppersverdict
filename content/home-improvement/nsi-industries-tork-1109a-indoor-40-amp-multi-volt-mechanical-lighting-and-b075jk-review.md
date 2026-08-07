@@ -1,4 +1,5 @@
 ---
+
 title: "NSi Industries TORK 1109A Indoor 40-Amp Multi-Volt Mechanica"
 seo_title: "NSi Industries TORK 1109A Indoor 40-Amp Multi-Volt Review"
 meta_description: "Our full nsi industries tork 1109a indoor 40-amp multi-volt mechanica review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B075JKKX9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a-AxAZTAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the TORK 1109A is a workhorse, not a show pony. It's a mechanical time switch built for heavy-duty loads — think water heaters, pool pumps, commercial lighting — and it's been doing this job reliably for decades. But it's also a product with real limitations that'll frustrate you if you buy it for the wrong job.

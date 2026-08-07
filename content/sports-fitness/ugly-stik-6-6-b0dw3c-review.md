@@ -1,4 +1,5 @@
 ---
+
 title: "Ugly Stik 6â€™6â€"
 seo_title: "Ugly Stik 6â€™6â€ Review: Verdict | TSV"
 meta_description: "Our full ugly stik 6â€™6â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DW3CLQ44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EiAh921tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Ugly Stik 6’6” is the AK-47 of fishing rods — it’s not pretty, not sophisticated, and it refuses to die.** If you’ve ever snapped a rod on a snag or watched a graphite blank shatter on a car door, you already know why this stick has a cult following. The 215 Amazon ratings averaging 4.3 stars tell the same story: durability first, everything else second.

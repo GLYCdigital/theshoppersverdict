@@ -1,4 +1,5 @@
 ---
+
 title: "Great Eagle A19 LED Light Bulbs 100 Watt Equivalent"
 seo_title: "Great Eagle A19 LED Light Bulbs 100 Watt Equivalen Review"
 meta_description: "Our full great eagle a19 led light bulbs 100 watt equivalent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GX5Q5CJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6181K1AjwwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the LED aisle confusion. You've seen the claims: "100 watt equivalent, lasts 25 years, saves you $200." Most of that is marketing math. The Great Eagle A19 LED throws out 1500 real lumens from just 15 watts, and that's the number that actually matters.

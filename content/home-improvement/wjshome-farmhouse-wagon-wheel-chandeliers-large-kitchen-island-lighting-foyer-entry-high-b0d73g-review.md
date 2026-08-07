@@ -1,4 +1,5 @@
 ---
+
 title: "WJShome Farmhouse Wagon Wheel Chandeliers - Large, Kitchen I"
 seo_title: "WJShome Farmhouse Wagon Wheel Chandeliers - Large, Review"
 meta_description: "Our full wjshome farmhouse wagon wheel chandeliers - large, kitchen i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D73GJH73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BbRqt7jgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're scrolling through a hundred identical farmhouse chandeliers, the WJShome wagon wheel version stands out for one simple reason: it's built like something that would actually survive on a wagon. The steel rim is thick, the welds are clean, and the matte black finish looks far more expensive than the price tag suggests. After reading through 225 ratings and the bulk of the customer feedback, here's what you need to know before you commit.

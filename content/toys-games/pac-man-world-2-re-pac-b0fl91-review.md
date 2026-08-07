@@ -1,4 +1,5 @@
 ---
+
 title: "PAC-MAN WORLD 2 Re-PAC"
 seo_title: "PAC-MAN WORLD 2 Re-PAC Review: Verdict | TSV"
 meta_description: "Our full pac-man world 2 re-pac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL91YDCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EXaPgAGbL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about PAC-MAN WORLD 2 Re-PAC: it's a remaster of a game that most people under 20 have never played, and that's exactly why you should care. This isn't another lazy port of Pac-Man's maze-chasing arcade roots. It's a full 3D platformer from 2002, lovingly rebuilt for modern consoles, and it holds up far better than it has any right to.

@@ -1,4 +1,5 @@
 ---
+
 title: "DeerRun Walking Pad Treadmill with Incline and Handle Bar, 4 inch"
 seo_title: "DeerRun Walking Pad Treadmill Review: 4-in-1 With Incline (2026)"
 meta_description: "DeerRun Walking Pad Treadmill with Incline and Handle Bar: Is this 4-in-1 under-desk treadmill worth it? Read our honest review of performance, noise, and value."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CX51MK8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EFN92CuUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-level incline (0/1.5/3%) and 4-in-1 mode switching (walk/jog/run/under-desk) without needing tools or lifting the deck"
   - Compact footprint (roughly 32 inch "L x 21 inch "W) with front transport wheels and 6.5 inch " LED display that tracks speed, time, distance, and calories
   - "2.5 HP brushless motor runs quietly enough for Zoom calls — multiple users report using it during meetings without being heard"
-cons:
+cons: 
   - "Max speed of 4 mph caps out below true jogging pace — this is a walking pad, not a running treadmill, despite the '4-in-1' marketing"
   - "Incline adjustment requires getting off the treadmill to manually set — no remote or app control for incline, only for speed"
   - 10.5 inch " deck width feels narrow for users with wider strides or above 200 lbs; deck length of 40 inch " also short for taller folks
+
 ---
 
 Let's cut through the marketing. The DeerRun Walking Pad with Incline and Handle Bar isn't a miracle machine, but it solves a specific problem well: getting steps in while you work. At 4.1 stars from 204 ratings, it's solid but not spectacular. Here's what you need to know before swiping your card.

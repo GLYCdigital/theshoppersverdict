@@ -1,4 +1,5 @@
 ---
+
 title: "Inflatable Air Blower, GONFLABLE 1.5HP & 2HP Powerful Bounce"
 seo_title: "Inflatable Air Blower, GONFLABLE 1.5HP & 2HP Power Review"
 meta_description: "Our full inflatable air blower, gonflable 1.5hp & 2hp powerful bounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQPY395D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gR84uAISL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. You're looking at a blower that keeps a bounce house inflated — the only job that actually matters. The GONFLABLE comes in two variants: a 1.5HP model pushing 640 CFM and a 2HP version at 710 CFM. Both share the same chassis, so the difference is purely internal motor output. At roughly $70–$90 depending on the model, it sits in the mid-range of inflatable blowers — cheaper than commercial units, pricier than the no-name brands that die after three parties.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cavisoo 5-Pack 10 Gallon Potato Grow Bags, Garden Planting B"
 seo_title: "Cavisoo 10 Gallon Potato Grow Bags Review (5-Pack): Worth It?"
 meta_description: "Honest Cavisoo 10-gallon potato grow bag review: durability, yield, drainage, and real buyer feedback. See if this 5-pack is worth your garden budget."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08L5WNQK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713IRZF-ijL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 300g non-woven felt fabric that holds up for multiple seasons without tearing at the seams"
   - "Reinforced handles and stitched bottom allow moving a full bag of soil without it ripping"
   - "Built-in flap window makes harvesting potatoes easy without dumping the entire bag"
-cons:
+cons: 
   - "No drainage holes in the bottom — you must rely on the fabric's permeability, which can waterlog in heavy clay soil mixes"
   - "10-gallon capacity is smaller than advertised for some potato varieties; indeterminate types may outgrow the depth"
+
 ---
 
 Let's be blunt: most grow bags are glorified trash bags with handles. They tear mid-season, the seams split under soil weight, and you end up with a mess on your patio. The Cavisoo 5-pack actually tries to be different. Here's whether the extra engineering justifies the purchase.

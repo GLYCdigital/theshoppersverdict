@@ -1,4 +1,5 @@
 ---
+
 title: "VanAcc Sofa Bed, Sleeper Sofa with Storage Chaise, Convertib"
 seo_title: "VanAcc Sofa Bed, Sleeper Sofa with Storage Chaise, Review"
 meta_description: "Our full vanacc sofa bed, sleeper sofa with storage chaise, convertib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FR7Q4X4X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mjf1z38xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VanAcc Sofa Bed at a Glance: A Budget Convertible That Trades Comfort for Versatility**

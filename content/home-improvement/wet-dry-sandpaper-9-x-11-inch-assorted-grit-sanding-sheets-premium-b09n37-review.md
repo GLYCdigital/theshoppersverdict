@@ -1,4 +1,5 @@
 ---
+
 title: "Wet Dry Sandpaper, 9 x 11 Inch Assorted Grit Sanding Sheets,"
 seo_title: "Wet Dry Sandpaper, 9 x 11 Inch Assorted Grit Sandi Review"
 meta_description: "Our full wet dry sandpaper, 9 x 11 inch assorted grit sanding sheets, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09N37RQX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dqETZd5LL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "variety pack" of sandpaper only to find three sheets of 220-grit and one mystery sheet that might be 600 or might be 1000, you know the frustration. This 9x11 wet/dry assortment from Premium aims to solve that with a straightforward collection of full-size sheets across a usable grit range. At 4.6 stars from 229 ratings, it's clearly doing something right. Here's what I found after putting these through real work.

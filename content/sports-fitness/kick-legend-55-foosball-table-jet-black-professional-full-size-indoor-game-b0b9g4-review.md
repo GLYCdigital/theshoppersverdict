@@ -1,7 +1,8 @@
 ---
-title: "KICK Legend 55\" Foosball Table (Jet Black) â€“ Professional "
-seo_title: "KICK Legend 55\" Foosball Table (Jet Black) â€“ Pro Review"
-meta_description: "Our full kick legend 55\" foosball table (jet black) â€“ professional  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "KICK Legend 55\ Foosball Table (Jet Black) â€“ Professional "
+seo_title: "KICK Legend 55\ Foosball Table (Jet Black) â€“ Pro Review"
+meta_description: "Our full kick legend 55\ foosball table (jet black) â€“ professional  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kick-legend-55-foosball-table-jet-black-professional-full-size-indoor-game-b0b9g4-review"
 image_alt: "KICK Legend 55 Foosball Table (Jet Black) â€“ Professional Full-Size Indoor Game Table"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B9G45ZBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UYg0-chAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've played on a $150 foosball table from a big-box store, you know the feeling: wobbly legs, bent rods, and men that spin freely when you try a bank shot. The KICK Legend 55" in Jet Black is not that table. This is a serious piece of equipment aimed at players who understand the difference between a toy and a tool.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart CSK-150 1500-Watt Nonstick Oval Electric Skillet,B"
 seo_title: "Cuisinart CSK-150 Electric Skillet Review: 1500W Oval Pan"
 meta_description: "Honest Cuisinart CSK-150 1500W oval electric skillet review: heat performance, nonstick durability, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BM3HNZ8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ri8-onuPL._AC_SL1290_.jpg"
-pros:
+pros: 
   - "1500 watts delivers fast, even searing across a 16-inch oval surface"
   - "Dual-zone heat control with precise 200°F–450°F dial and keep-warm setting"
   - "Riveted cool-touch handles stay secure even when the pan is fully loaded"
-cons:
+cons: 
   - "Nonstick coating scratches easily if you use metal utensils despite the manufacturer's claims"
   - "Cord is permanently attached and shorter than ideal for countertop use"
+
 ---
 
 Some electric skillets are glorified hot plates with a pan bolted on top. The Cuisinart CSK-150 is not that. This 1500-watt oval skillet is built like real cookware with actual heat control, and for the price, it's one of the more capable countertop cookers you can buy. I've tested it side-by-side with cheaper round models, and the difference shows up immediately in the sear.

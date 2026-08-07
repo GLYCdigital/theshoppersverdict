@@ -1,4 +1,5 @@
 ---
+
 title: "Zorykn A19 3-Way LED Light Bulbs 3000K 5000K"
 seo_title: "Zorykn A19 3-Way LED Light Bulbs 3000K 5000K Review: Verd"
 meta_description: "Our full zorykn a19 3-way led light bulbs 3000k 5000k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F83YPBVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sjrJkq6TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever been burned by a "3-way" LED that actually just blinks or only hits two of three brightness levels, the Zorykn A19 is a pleasant surprise. This isn't a novelty bulb with a marketing label — it's a legitimately functional 3-way LED that pairs with any standard 3-way lamp socket. With 225 Amazon ratings and a 4.5-star average, it's clearly earned its spot in the conversation. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "iDOO Hydroponics Growing System Kit"
 seo_title: "iDOO Hydroponics Growing System Kit Review: Verdict | TSV"
 meta_description: "Our full idoo hydroponics growing system kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FP4J8JJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+2GYT3XHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed every potted herb you've ever owned, the iDOO Hydroponics Growing System Kit might be the closest thing to a plant-care cheat code. This is a soil-free countertop garden that handles the watering, lighting, and nutrient delivery automatically — you just drop in seeds and wait. With 225 Amazon ratings averaging 4.5 stars, it's clearly working for a lot of people. The real question isn't whether it grows plants. It's whether it fits your space, your budget, and your ambitions.

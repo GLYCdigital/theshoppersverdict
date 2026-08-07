@@ -1,4 +1,5 @@
 ---
+
 title: "Germ-X Original Hand Sanitizer, 2 Fl Oz (Pack of 24), Less D"
 seo_title: "Germ-X Original Hand Sanitizer, 2 Fl Oz (Pack of 2 Review"
 meta_description: "Our full germ-x original hand sanitizer, 2 fl oz (pack of 24), less d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D7GVTVBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mTW3tCBJL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Germ-X Original Hand Sanitizer, 2 Fl Oz (Pack of 24) — not the flashiest product on the shelf, but it does the job without drama. If you’re stocking up for a family, a classroom, or just want a bottle in every bag and car, this 24-pack is the kind of practical purchase that makes you wonder why you ever bought single bottles.

@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME 30 Cu Ft & 60 Cu Ft Outdoor Storage Shed-Y"
 seo_title: "YITAHOME 30 Cu Ft & 60 Cu Ft Outdoor Storage Shed- Review"
 meta_description: "Our full yitahome 30 cu ft & 60 cu ft outdoor storage shed-y review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DQ5K9G1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lcSnI5prL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced wooden sheds lately, you know the sticker shock. A 7x7 pressure-treated structure runs $800 before you factor in a weekend of framing. The YITAHOME 30/60 Cu Ft Outdoor Storage Shed-Y undercuts that dramatically — but does a $300-ish steel box actually hold up? I've dug through 200 Amazon ratings, the spec sheet, and the common failure points to give you the straight answer.

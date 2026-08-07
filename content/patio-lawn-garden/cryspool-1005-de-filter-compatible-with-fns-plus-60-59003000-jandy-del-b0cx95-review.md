@@ -1,4 +1,5 @@
 ---
+
 title: "CryspoolÂ® 1005 DE Filter Compatible with FNS Plus 60, 59003 inch"
 seo_title: "Cryspool 1005 DE Filter Review: FNS Plus 60 Alternative"
 meta_description: "Cryspool 1005 DE filter grid review: saves $100+ vs OEM for Jandy FNS Plus 60. Real-world fit, durability, and performance tested by pool owners."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CX9598LC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p0QDWjrQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-cut replacement that matches OEM FNS Plus 60 dimensions exactly, eliminating the guesswork of generic DE grids"
   - "Heavy-duty poly mesh and reinforced end caps hold up to repeated cleanings without tearing or separating"
   - "Costs roughly 30-40% less than the Jandy-branded equivalent while delivering comparable filtration performance"
-cons:
+cons: 
   - "Some units arrive with slightly stiff gaskets that need a warm-water soak before seating properly"
   - "Not compatible with FNS Plus 48 or Del 60 models despite similar appearance — double-check your model number first"
+
 ---
 
 If you own a Jandy FNS Plus 60 DE filter, you already know the sting of OEM replacement pricing. The Cryspool 1005 DE Filter steps into that gap as a direct replacement for the Jandy 59003, promising OEM-grade filtration at a fraction of the cost. With 229 ratings averaging 4.6 stars, it's clearly earning its keep in pools across the country. Here's the honest breakdown after digging through buyer experiences and the product's actual specs.

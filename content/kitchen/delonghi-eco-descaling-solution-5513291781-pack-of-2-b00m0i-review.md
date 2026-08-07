@@ -1,4 +1,5 @@
 ---
+
 title: "DeLonghi Eco Descaling Solution 5513291781 (Pack of 2)"
 seo_title: "DeLonghi Eco Descaling Solution Review: 2-Pack Value"
 meta_description: "Honest DeLonghi Eco Descaling Solution review. Does the 2-pack actually clean espresso machines? We tested performance, value, and eco-claims."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00M0IDEZI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uP98C13yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each 500ml bottle is pre-measured for one full descaling cycle — no guesswork, no measuring cups"
   - "DeLonghi's official formula is citric-acid based, so it's biodegradable and safer for septic systems than many generic descalers"
   - "The pack of 2 covers roughly 6 months of weekly maintenance for a typical household espresso machine"
-cons:
+cons: 
   - "You're paying a clear brand premium — generic citric acid descalers cost half as much per cycle"
   - "The 'eco' label refers to the formula, not the packaging — the plastic bottles are standard single-use containers"
+
 ---
 
 ## Is the DeLonghi Eco Descaling Solution Worth the Brand Premium?

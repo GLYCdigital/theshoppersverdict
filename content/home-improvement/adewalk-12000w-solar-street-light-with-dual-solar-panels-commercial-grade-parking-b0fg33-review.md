@@ -1,4 +1,5 @@
 ---
+
 title: "Adewalk 12000W Solar Street Light with Dual Solar Panels, Co"
 seo_title: "Adewalk 12000W Solar Street Light Review: Real-World Test"
 meta_description: "Honest Adewalk 12000W solar street light review: dual panels, motion sensor, brightness tested. See who should buy and who should skip it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FG33PHJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816YrKHPtUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 30W solar panels charge even in overcast conditions, delivering 3-4 nights of backup in testing"
   - "Die-cast aluminum housing with IP65 rating — survived heavy rain and 40mph winds without water ingress"
   - "Remote control offers 3 brightness modes plus a motion-sensor boost that genuinely doubles range"
-cons:
+cons: 
   - "Rated 12000W is marketing math — actual measured output is closer to 6000 lumens, still bright but not commercial-grade"
   - "Mounting hardware is basic; the included U-bolts won't fit poles thicker than 4 inches without a trip to the hardware store"
+
 ---
 
 ## Is the Adewalk 12000W Worth Your Money, or Just Another Bright Promise?

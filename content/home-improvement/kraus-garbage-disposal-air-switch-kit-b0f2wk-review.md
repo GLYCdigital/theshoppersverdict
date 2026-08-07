@@ -1,4 +1,5 @@
 ---
+
 title: "KRAUS Garbage Disposal Air Switch Kit"
 seo_title: "KRAUS Garbage Disposal Air Switch Kit Review: Verdict | T"
 meta_description: "Our full kraus garbage disposal air switch kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2WK8N79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e3LnbSxHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever flinched reaching under the sink for a wet wall switch, the KRAUS Air Switch Kit is the cure. It replaces that electrical toggle with a sleek countertop button that uses air pressure to trigger your disposal — no wiring, no electrician, no shock risk. At 4.7 stars across 235 ratings, it’s clearly doing something right. Here’s the full story.

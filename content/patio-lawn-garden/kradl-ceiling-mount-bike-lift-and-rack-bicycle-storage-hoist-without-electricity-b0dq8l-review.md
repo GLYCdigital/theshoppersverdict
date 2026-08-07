@@ -1,4 +1,5 @@
 ---
+
 title: "Kradl - Ceiling Mount Bike Lift and Rack. Bicycle Storage Ho"
 seo_title: "Kradl - Ceiling Mount Bike Lift and Rack. Bicycle  Review"
 meta_description: "Our full kradl - ceiling mount bike lift and rack. bicycle storage ho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ8L8DJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LSG+vIq4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You love your bike. You hate tripping over it in the garage. The Kradl Ceiling Mount Bike Lift solves that classic problem — if you're willing to drill into your ceiling joists. Let me tell you exactly what you're getting before you commit.

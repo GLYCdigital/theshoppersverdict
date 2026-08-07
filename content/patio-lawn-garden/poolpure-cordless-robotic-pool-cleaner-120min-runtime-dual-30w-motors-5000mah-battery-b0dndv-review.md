@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE Cordless Robotic Pool Cleaner, 120Min Runtime, Dual"
 seo_title: "POOLPURE Cordless Robotic Pool Cleaner, 120Min Run Review"
 meta_description: "Our full poolpure cordless robotic pool cleaner, 120min runtime, dual review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DNDVJW7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UQ+6NO1aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about what this POOLPURE unit is: a cordless robot that promises to liberate you from the garden hose and vacuum head. At 3.6 stars across 180 ratings, it's not a homerun, but it's also not the disaster some budget pool cleaners turn out to be. The question is whether its 120-minute runtime and dual 30W motors justify the compromise.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rice-a-Roni 4pk Cups - Four Cheese"
 seo_title: "Rice-a-Roni 4pk Cups - Four Cheese Review: Verdict | TSV"
 meta_description: "Our full rice-a-roni 4pk cups - four cheese review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTJ72V6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FVy1l0WiL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Rice-a-Roni 4pk Cups – Four Cheese: The 90-Second Compromise

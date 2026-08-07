@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS 120V LED Outdoor Spotlight, 3 Extra Lenses (Red Gr"
 seo_title: "DEWENWILS 120V LED Outdoor Spotlight Review: 4.2/5 inch"
 meta_description: "DEWENWILS 120V LED outdoor spotlight review: interchangeable red/green/yellow lenses, weatherproof build, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZHB6B7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mxAC210gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Interchangeable red/green/yellow lenses for holiday and seasonal accent lighting without buying multiple fixtures"
   - "Die-cast aluminum housing with weatherproof gasket rated for outdoor use in rain, snow, and humidity"
   - "Adjustable 180-degree swivel head and 90-degree tilt for precise beam placement on trees, flags, or siding"
-cons:
+cons: 
   - "Lens swap requires unscrewing the front ring — a minor hassle if you change colors frequently"
   - "No photocell or motion sensor built in — you'll need an external timer or smart switch for automated operation"
+
 ---
 
 **The Short Version:** If you want one fixture that does double duty for Christmas red-and-green and fall amber accents, the DEWENWILS 120V spotlight is a smart, affordable pick. It's not the brightest or most feature-packed option out there, but the lens system genuinely works and the build quality punches above its price point.

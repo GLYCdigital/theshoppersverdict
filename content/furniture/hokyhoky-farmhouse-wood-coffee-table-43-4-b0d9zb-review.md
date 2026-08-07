@@ -1,4 +1,5 @@
 ---
+
 title: "HOKYHOKY Farmhouse Wood Coffee Table - 43.4â€"
 seo_title: "HOKYHOKY Farmhouse Wood Coffee Table - 43.4â€ Review: Ver"
 meta_description: "Our full hokyhoky farmhouse wood coffee table - 43.4â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D9ZBV91J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iTTNQ3RUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A coffee table is one of those pieces you don't think about until you're stuck with one that wobbles, scratches, or just looks cheap. The HOKYHOKY Farmhouse Wood Coffee Table (43.4 inches) tries to hit a sweet spot: rustic charm, functional storage, and a price that won't make you wince. After digging through 200 Amazon ratings and analyzing the build specs, here's the real story.

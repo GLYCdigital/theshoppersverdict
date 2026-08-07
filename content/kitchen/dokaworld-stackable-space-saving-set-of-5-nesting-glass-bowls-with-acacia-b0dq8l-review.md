@@ -1,4 +1,5 @@
 ---
+
 title: "Dokaworld Stackable Space-Saving Set of 5 Nesting Glass Bowl"
 seo_title: "Dokaworld Nesting Glass Bowl Set Review (2026): Worth It?"
 meta_description: "Honest Dokaworld 5-piece nesting glass bowl set review: sizes, durability, stackability, and real buyer feedback. Is this space-saver worth it?"
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DQ8LBBR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PvqNKxCcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Five graduated sizes (roughly 1.5 to 8 cups) nest into one compact stack roughly the height of the largest bowl"
   - "Each bowl includes a bamboo lid — a feature often missing at this price point"
   - "Tempered borosilicate glass handles oven, microwave, and dishwasher use without thermal shock"
-cons:
+cons: 
   - "Bamboo lids are not airtight and can warp if run through the dishwasher despite labeling"
   - "Multiple buyers report chipped rims or breakage in transit — packaging is inconsistent"
   - "Nesting stack is tall; if you have low overhead cabinets, it won't clear the shelf"
+
 ---
 
 **Is this nesting glass bowl set a genuine countertop space-saver, or just another pretty stack of glass that chips on arrival?** After combing through 175 ratings and the mixed 3.5-star average, the Dokaworld 5-piece set has a clear story: the concept is excellent, the execution is decent, but the quality control is a coin flip.

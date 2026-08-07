@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 10 Gal. Dust Extractor with Automatic Filter Clean, C"
 seo_title: "DEWALT 10 Gal. Dust Extractor Review: Auto Filter Clean"
 meta_description: "DEWALT 10 Gal. dust extractor with automatic filter clean: HEPA-rated, 4.6-star rated. Real pros, cons & who should buy it. Read our full review."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2BRWJ9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Cg1o9qM2L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Automatic filter clean maintains suction without stopping, saving hours on large jobs"
   - "HEPA-rated filtration captures fine particulates from drywall, concrete, and masonry work"
   - "10-gallon capacity means fewer dump stops on full-day sanding or demo projects"
-cons:
+cons: 
   - "At roughly 30 pounds, it's heavy to haul up stairs or load into a truck bed solo"
   - "Hose and cord storage feel cramped — the wrap-around design can kink the hose over time"
+
 ---
 
 If you've ever spent an afternoon sanding drywall with a standard shop vac, you know the drill: suction fades, you stop, you tap the filter, you restart. Repeat every 10 minutes. That's the problem the DEWALT 10 Gal. Dust Extractor with Automatic Filter Clean (model DWV015) was built to solve. And after digging through 229 ratings and the spec sheet, it's clear this is a serious tool for serious dust — but it's not for everyone.

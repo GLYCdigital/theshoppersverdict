@@ -1,4 +1,5 @@
 ---
+
 title: "Fenix HM50R v2.0 Headlamp, 700 Lumen USB-C Rechargeable Ligh"
 seo_title: "Fenix HM50R v2.0 Headlamp Review: 700 Lumen USB-C Light"
 meta_description: "Fenix HM50R v2.0 headlamp review: 700 lumens, USB-C rechargeable, 2.5 oz. Is this compact light worth $70? Real-world testing and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09BP5YXTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JohOAJ7eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weighs just 2.5 oz with the headband — barely notice it during multi-hour jobs"
   - "USB-C charging with a battery indicator that's actually readable through the button"
   - "IP68 waterproof rating means it survives submersion, not just rain"
-cons:
+cons: 
   - "2400 mAh battery is non-removable — when it dies, you're tethered to a cable"
   - "Turbo mode steps down after 30 minutes due to thermal regulation, which some buyers find limiting"
   - "No red light mode for preserving night vision — a miss for hunters and astronomers"
+
 ---
 
 Let's cut through the noise: the Fenix HM50R v2.0 is a serious piece of gear for people who need light when their hands are busy. At 700 lumens from a package that weighs less than a deck of cards, it punches well above its size class. But it's not perfect, and the tradeoffs matter depending on what you're doing.

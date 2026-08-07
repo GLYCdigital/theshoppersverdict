@@ -1,4 +1,5 @@
 ---
+
 title: "Furinno Simplistic Set of 2 End Table"
 seo_title: "Furinno Simplistic End Table Set Review: Worth It?"
 meta_description: "Furinno Simplistic Set of 2 End Table review: real buyer feedback, build quality, assembly time, and who should buy. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FC5V4SKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QtWz2zXvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two tables for the price of one — genuine value at roughly $30 per table"
   - "Lightweight at under 10 lbs each — easy to move room to room"
   - "Assembly takes 15-20 minutes with a provided hex key; no extra tools needed"
-cons:
+cons: 
   - "CARB composite wood is particleboard — chips if you over-tighten screws"
   - "Not water-resistant; rings and stains appear if you skip coasters"
   - "Shelf is thin — don't load it with heavy hardcovers or decor"
+
 ---
 
 **Two Tables, Zero Fuss — But Know What You're Buying**

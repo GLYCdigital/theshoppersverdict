@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie Mysteries: Beach Detectives Malibu Doll & Cotton Cand"
 seo_title: "Barbie Mysteries Malibu Doll & Cotton Candy Booth Review"
 meta_description: "Honest review of the Barbie Mysteries Beach Detectives Malibu Doll & Cotton Candy Game Booth Playset. See what's included, build quality, and who it's for."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DMW8BM9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81syTmnsM5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Malibu doll has rooted eyelashes and articulation at the neck, shoulders, and hips — noticeably better than standard budget Barbies"
   - "The cotton candy booth actually spins and dispenses the pink fluff accessory, which keeps kids engaged beyond just posing the doll"
   - "Includes a second outfit and a tiny detective kit with magnifying glass, adding real play value for mystery-themed storytelling"
-cons:
+cons: 
   - "The booth's paper-thin plastic base feels fragile; rough play may crack the corner pieces where the awning snaps in"
   - "Cotton candy accessory is a solid molded piece, not removable fluff — younger kids might expect something they can actually pull apart"
   - "Malibu's molded top and skirt piece limits waist movement, so dramatic detective poses are harder to achieve than the box photos suggest"
+
 ---
 
 **This isn't just another pink princess doll — it's a working playset with a mystery angle.** The Barbie Mysteries: Beach Detectives Malibu Doll & Cotton Candy Game Booth hits a sweet spot for kids who want both a fashion doll and an interactive scene. With 240 ratings averaging 4.8 stars, it's clearly resonating with buyers. Here's the honest breakdown after digging through the details.

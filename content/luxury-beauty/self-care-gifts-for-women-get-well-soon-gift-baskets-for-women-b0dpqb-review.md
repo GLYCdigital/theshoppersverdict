@@ -1,4 +1,5 @@
 ---
+
 title: "Self Care Gifts for Women Get Well Soon Gift Baskets for Wom"
 seo_title: "Self Care Gifts for Women Get Well Soon Gift Baske Review"
 meta_description: "Our full self care gifts for women get well soon gift baskets for wom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DPQBRQ2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81swiNdCx9L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Gift baskets are usually a cop-out. A wicker basket stuffed with cellophane, a few travel-size lotions, and a card that says "feel better" — you've seen it a hundred times. This one's different, and the 4.9-star average across 245 ratings backs that up. But let's dig into what actually makes it worth your money.

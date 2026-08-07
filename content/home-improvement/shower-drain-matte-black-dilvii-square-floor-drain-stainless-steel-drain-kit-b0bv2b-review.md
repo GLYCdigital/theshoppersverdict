@@ -1,4 +1,5 @@
 ---
+
 title: "Shower Drain Matte Black, Dilvii Square Floor Drain, Stainle"
 seo_title: "Shower Drain Matte Black, Dilvii Square Floor Drai Review"
 meta_description: "Our full shower drain matte black, dilvii square floor drain, stainle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BV2BGXHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oCqGIdcvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're tiling a shower and want a square drain that doesn't look like an afterthought, the Dilvii matte black floor drain delivers. It's not perfect — the lack of weep holes is a real limitation for certain waterproofing systems — but for most DIY and pro tile jobs, this is a solid 4.6-star buy.

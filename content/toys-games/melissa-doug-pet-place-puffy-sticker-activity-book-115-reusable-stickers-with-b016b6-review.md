@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Pet Place Puffy Sticker Activity Book â€“ 115"
 seo_title: "Melissa & Doug Pet Place Puffy Sticker Activity Bo Review"
 meta_description: "Our full melissa & doug pet place puffy sticker activity book â€“ 115 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B016B6DJSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NSL3FzxuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review**

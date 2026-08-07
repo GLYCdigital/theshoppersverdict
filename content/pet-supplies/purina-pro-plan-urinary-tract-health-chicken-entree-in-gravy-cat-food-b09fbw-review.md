@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Urinary Tract Health Chicken Entree in Gravy"
 seo_title: "Purina Pro Plan Urinary Tract Health Chicken Entre Review"
 meta_description: "Our full purina pro plan urinary tract health chicken entree in gravy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09FBWNJPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bSXc7Zp4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat has ever strained in the litter box or, worse, been diagnosed with crystals, you already know the fear that comes with urinary tract issues. The Purina Pro Plan Urinary Tract Health Chicken Entree in Gravy isn't just another fancy wet food — it's a clinically formulated therapeutic diet designed to address the root cause of struvite crystals. With a 4.5-star rating across 225 reviews, this is one of the most trusted options in the urinary health category. Here's the honest breakdown.

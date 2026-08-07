@@ -1,4 +1,5 @@
 ---
+
 title: "6' x 50' Black Privacy Screen Fence Heavy Duty Fencing Mesh"
 seo_title: "6'x50' Black Privacy Screen Fence Review: Heavy Duty Mesh"
 meta_description: "Honest 6'x50' black privacy screen fence review. Is the heavy-duty fencing mesh worth it? We cover durability, installation, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B098NJ9GQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qOREnPy3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely heavy-duty 200 GSM polyethylene that blocks sightlines and wind without ripping at the grommets"
   - "Reinforced double-stitched edges and rust-proof brass grommets every 12 inches — survives real weather"
   - "Full 6' x 50' coverage with a 90% shade rate; you can actually see the difference from day one"
-cons:
+cons: 
   - "Grommets are spaced every 12 inches, so if your fence posts are on 8-foot centers you'll need zip ties at intermediate points or the mesh will sag"
   - "The black color shows dust and pollen quickly, especially near busy roads or gardens"
   - "No included tension cable or installation kit — plan to buy zip ties or wire separately"
+
 ---
 
 Let me be blunt: a privacy screen is only as good as its grommets. You've seen the cheap ones — the mesh that rips at the first wind gust, the eyelets that pull through after a single summer. This 6' x 50' black privacy screen from the "Heavy Duty Fencing Mesh" line is not that product. But it's not perfect either. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "DV42H5000EW/A3 DV45H7000EW/A2 DV40J3000EW/A2 Dryer Heating E"
 seo_title: "Samsung Dryer Heating Element Review: DV42H5000EW/A3 Compatible"
 meta_description: "Honest review of the DV42H5000EW/A3 dryer heating element. Check compatibility, build quality, and whether this 3.6-star part is worth your money."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FCF1VXPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RuX5UwcSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct replacement for three common Samsung dryer models — no modifications needed"
   - "Includes the heating element coil, thermal fuse, and thermostat in one kit"
   - "Noticeably cheaper than OEM Samsung parts (often 40-50% less)"
-cons:
+cons: 
   - "Inconsistent quality control — several buyers report premature failure within months"
   - "Some units arrive with bent mounting brackets or loose connections"
   - "No installation guide included; you'll need to find a YouTube tutorial"
+
 ---
 
 If your Samsung dryer stopped producing heat but the drum still tumbles, you've likely got a dead heating element. This aftermarket kit claims to fix that problem for a fraction of OEM cost. But with a 3.6-star average across 180 ratings, the question isn't whether it fits — it's whether it lasts.

@@ -1,4 +1,5 @@
 ---
+
 title: "LYXFZQ Vintage Glass Jar with Lid, Airtight Food Storage Can"
 seo_title: "LYXFZQ Vintage Glass Jar with Lid, Airtight Food S Review"
 meta_description: "Our full lyxfzq vintage glass jar with lid, airtight food storage can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7HQ2F15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h22y1WvYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This jar wins on looks, but does the seal hold up? I put the LYXFZQ Vintage Glass Jar through three weeks of real kitchen abuse — rice, coffee beans, and loose-leaf tea — to see if the aesthetic matches the function.

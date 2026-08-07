@@ -1,4 +1,5 @@
 ---
+
 title: "Primal Kitchen Primal Kitchen Sauce, 8.5 OZ"
 seo_title: "Primal Kitchen Primal Kitchen Sauce, 8.5 OZ Review: Verdi"
 meta_description: "Our full primal kitchen primal kitchen sauce, 8.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CV26LTTC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LAkEuJ3sL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most “healthy” condiments taste like punishment. Primal Kitchen’s sauce line has built a loyal following by claiming otherwise — and with 225 ratings holding a 4.5-star average, the numbers back that up. But is this 8.5-ounce bottle worth the premium over the standard stuff in your fridge door? I tested it across a week of real meals. Here’s the honest breakdown.

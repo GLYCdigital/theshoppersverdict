@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness Complete Health Large Breed Adult Dry Dog Food, No "
 seo_title: "Wellness Complete Health Large Breed Adult Dry Dog Review"
 meta_description: "Our full wellness complete health large breed adult dry dog food, no  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1832NKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K0roJ1YqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Right Kibble for Your 70-Pound Companion?

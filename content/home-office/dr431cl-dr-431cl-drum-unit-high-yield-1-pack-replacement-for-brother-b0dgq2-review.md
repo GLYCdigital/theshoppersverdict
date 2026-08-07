@@ -1,4 +1,5 @@
 ---
+
 title: "DR431CL DR-431CL Drum Unit (High Yield, 1-Pack) Replacement"
 seo_title: "DR431CL Drum Unit Review: Worth It for Brother Printers?"
 meta_description: "Honest DR431CL drum unit review: 3.5/5 rating, real buyer feedback, compatibility, yield, and quality issues. Is this replacement worth your money?"
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DGQ2T2MJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51i-jD9r4eL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely high yield — rated for approximately 15,000 pages, which matches OEM specs for heavy office use"
   - "Significantly cheaper than Brother's branded DR431CL drum, often 40-50% less at retail"
   - "Simple tool-free installation — slides directly into compatible Brother color laser models"
-cons:
+cons: 
   - "Inconsistent quality control — several buyers report units arriving dead on arrival or failing within weeks"
   - "Print quality degrades noticeably on glossy or photo paper, with visible banding in solid color areas"
   - "No reset gear included — you'll need to manually reset the drum counter or buy a separate reset tool"
+
 ---
 
 **The DR431CL drum unit is the kind of product that makes you feel like you're gaming the system — until you're not.** It's a third-party replacement for Brother's color laser drum, promising the same 15,000-page yield at a fraction of the OEM price. At 3.5 stars across 175 ratings, the reality is more complicated. Here's what you need to know before you click buy.

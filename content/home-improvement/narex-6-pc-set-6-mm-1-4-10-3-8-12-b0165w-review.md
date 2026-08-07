@@ -1,4 +1,5 @@
 ---
+
 title: "Narex 6 pc Set 6 mm (1/4), 10 (3/8), 12 (1/2), 16 (5/8), 20 "
 seo_title: "Narex 6 pc Set 6 mm (1/4), 10 (3/8), 12 (1/2), 16  Review"
 meta_description: "Our full narex 6 pc set 6 mm (1/4), 10 (3/8), 12 (1/2), 16 (5/8), 20  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0165WKKY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tC+kZyDrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of chisels that dull after three passes or handles that splinter on the first mallet strike, the **Narex 6-piece chisel set** deserves a hard look. This Czech-made set covers the essential woodworking sizes — 6 mm (1/4"), 10 mm (3/8"), 12 mm (1/2"), 16 mm (5/8"), and 20 mm (3/4") — and delivers performance that punches well above its price class.

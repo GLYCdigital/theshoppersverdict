@@ -1,4 +1,5 @@
 ---
+
 title: "Seachem Purigen Organic Filtration Resin - Fresh and Saltwat"
 seo_title: "Seachem Purigen Organic Filtration Resin - Fresh a Review"
 meta_description: "Our full seachem purigen organic filtration resin - fresh and saltwat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0002A5VVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gUgN+YdOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're chasing that "liquid glass" look for your aquarium — where the water is so clear it looks like the fish are floating in air — Seachem Purigen is the closest thing to a cheat code in the hobby. With a 4.8-star average across 240 ratings, this synthetic resin has built a cult following among reef keepers and planted tank enthusiasts. But at roughly double the price of activated carbon, is it actually worth it? Here's the honest breakdown.

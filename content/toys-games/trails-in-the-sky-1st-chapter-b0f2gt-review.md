@@ -1,4 +1,5 @@
 ---
+
 title: "Trails in the Sky 1st Chapter"
 seo_title: "Trails in the Sky 1st Chapter Review: Verdict | TSV"
 meta_description: "Our full trails in the sky 1st chapter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0F2GTN9XX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812PLPCyKCL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Trails in the Sky 1st Chapter: The JRPG That Respects Your Intelligence

@@ -1,4 +1,5 @@
 ---
+
 title: "BTF-LIGHTING FCOB COB WS2812B IC Chip RGB 180LED/m 160LED/m"
 seo_title: "BTF-LIGHTING FCOB COB WS2812B Review: Dense RGB LED Strip"
 meta_description: "BTF-LIGHTING FCOB COB WS2812B 180LED/m RGB strip review: seamless light, high density, addressable control. Real pros, cons & buying advice."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPG5WJ3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6111MmCnuUL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Seamless COB lighting with zero visible dotting — even at 180 LEDs per meter"
   - "Individually addressable WS2812B ICs allow per-LED color control for complex animations"
   - "Strong adhesive backing and flexible PCB that holds curves without lifting"
-cons:
+cons: 
   - "Requires 5V power — long runs demand thick wire and multiple injection points to avoid voltage drop"
   - "Cut points every 1-2 inches limit flexibility for precise corner fits"
   - "No waterproofing on standard version — indoor use only unless you buy the silicone-coated variant"
+
 ---
 
 If you've ever stared at a standard addressable LED strip and noticed the ugly dots of light between each chip, you already know why COB (Chip-on-Board) strips exist. BTF-LIGHTING's FCOB WS2812B packs 180 LEDs per meter into a continuous, seamless line of light — no dots, no gaps, just smooth illumination that looks closer to a neon tube than a traditional pixel strip. At 4.2 stars from 210 ratings, it's clearly earning its keep in the DIY lighting community, but it comes with some wiring realities you need to understand before you buy.

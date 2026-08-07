@@ -1,4 +1,5 @@
 ---
+
 title: "Tropwellhouse Permanent Outdoor Lights 100FT with 48 RGB LED"
 seo_title: "Tropwellhouse Permanent Outdoor Lights 100FT with  Review"
 meta_description: "Our full tropwellhouse permanent outdoor lights 100ft with 48 rgb led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FPQPPWJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CWUEMhwpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the budget-friendly way to get "permanent" holiday lighting without paying an electrician $2,000 to install trim lights.** At roughly 48 cents per foot, the Tropwellhouse 100FT kit delivers smart RGB control, genuine weatherproofing, and enough length to wrap most single-story homes. But the 24-inch spacing and app-dependent control mean it's a solid value, not a premium solution.

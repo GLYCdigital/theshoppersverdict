@@ -1,4 +1,5 @@
 ---
+
 title: "-017H-iPad Air 4 10.9/ Pro 11 Case with Shoulder Strap"
 seo_title: "iPad Air 4 10.9/Pro 11 Case Review: Shoulder Strap + Protection"
 meta_description: "Hands-on review of the -017H iPad Air 4 10.9/Pro 11 case with shoulder strap. Build quality, Apple Pencil support, and real-world tradeoffs at 4.5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMPP23MP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZQCkYzlxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Detachable shoulder strap turns the case into a hands-free carry solution — rare among folio-style iPad cases"
   - "Precise cutouts and responsive button covers; the Pencil holder keeps the stylus secure on the right edge"
   - "Multiple stand angles (typing and viewing) with a snug magnetic closure that stays shut in a bag"
-cons:
+cons: 
   - "Strap attachment points add noticeable bulk to the hinge area; doesn't lie perfectly flat when folded back"
   - "Interior is fabric-lined but not drop-rated — this is scratch/carry protection, not rugged armor"
+
 ---
 
 You've seen a hundred iPad folios. Most do the same thing: prop the tablet up, cover the screen, and call it a day. The -017H case for the iPad Air 4 10.9 and Pro 11 does that — but the shoulder strap changes the calculus. It's the difference between a case you tolerate and one that actually replaces your laptop bag for quick trips.

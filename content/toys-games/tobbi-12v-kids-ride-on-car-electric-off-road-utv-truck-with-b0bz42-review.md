@@ -1,4 +1,5 @@
 ---
+
 title: "TOBBI 12V Kids Ride on Car, Electric Off-Road UTV Truck with"
 seo_title: "TOBBI 12V Kids Ride on Car, Electric Off-Road UTV  Review"
 meta_description: "Our full tobbi 12v kids ride on car, electric off-road utv truck with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BZ424QCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XJaPZcBZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a kid's eyes light up at a ride-on car only to watch the toy die on a patch of grass, you know the frustration. The TOBBI 12V UTV is built to answer that specific problem — and for the most part, it delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Culinary Poultry Seasoning"
 seo_title: "McCormick Culinary Poultry Seasoning Review: Verdict | TS"
 meta_description: "Our full mccormick culinary poultry seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B087NK9LBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814aIVNJmkL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: McCormick Culinary Poultry Seasoning is the same trusted blend you’ve seen in grocery stores for decades, but in a 16-ounce restaurant-grade tin that changes the math entirely. If you roast chicken more than twice a month, this is arguably the smartest $8-10 you’ll spend on your spice shelf this year.

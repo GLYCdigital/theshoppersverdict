@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward SP1091LX Dyna-Skim Above-Ground Pool Skimmer, Surfac"
 seo_title: "Hayward SP1091LX Dyna-Skim Above-Ground Pool Skimm Review"
 meta_description: "Our full hayward sp1091lx dyna-skim above-ground pool skimmer, surfac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002DPY196/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rysVjd-2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your above-ground pool spends more time looking like a leaf trap than a swimming hole, the Hayward SP1091LX Dyna-Skim is the fix you’ve been circling. This is a surface skimmer that mounts directly to the pool wall, pulling floating debris into a capture basket before it sinks and turns your water green. At 4.7 stars across 235 ratings, it’s one of the most consistent performers in this category — but it’s not a universal fit. Here’s the real breakdown.

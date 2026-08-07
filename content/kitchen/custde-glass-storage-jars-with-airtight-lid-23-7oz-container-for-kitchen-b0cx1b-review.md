@@ -1,4 +1,5 @@
 ---
+
 title: "Custde Glass Storage Jars With Airtight Lid, 23.7oz Containe"
 seo_title: "Custde Glass Storage Jars Review: Airtight 23.7oz Containers"
 meta_description: "Custde glass storage jars with airtight lids: 23.7oz capacity, leak-proof seal, durable borosilicate glass. Read our honest review before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CX1BQBLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VFq8JA2EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Latch-lock bamboo lids with silicone gaskets create a genuinely airtight seal — tested for liquids without leaks"
   - "Thick borosilicate glass holds up to thermal shock, going from fridge to microwave without cracking"
   - "23.7oz capacity is versatile enough for dry pantry staples, leftovers, or meal-prep portions"
-cons:
+cons: 
   - "Lids are hand-wash only; the bamboo can warp or crack in a dishwasher over time"
   - "At roughly 1.5 lbs empty, the glass is substantial — lighter-weight users may find full jars awkward to handle"
+
 ---
 
 If you've ever watched a bag of flour get stale or had a leftover container leak all over your fridge shelf, you already know the problem. The Custde 23.7oz glass storage jar is designed to solve exactly that — and based on 229 ratings averaging 4.6 stars, it's doing a solid job. But is it actually worth your money, or is it just another pretty pantry jar? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amish Country Popcorn | Medium Yellow Popcorn | Old Fashione"
 seo_title: "Amish Country Popcorn Review: Medium Yellow, Non-GMO"
 meta_description: "Honest Amish Country Popcorn review: medium yellow kernels, non-GMO, gluten-free. Real performance, popping stats, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D348JBQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FwmD3CfjL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 95%+ pop rate with virtually no unpopped kernels when using proper oil temperature"
   - "Clean, neutral corn taste that doesn't need heavy butter or salt to be enjoyable"
   - "Non-GMO and gluten-free verified — safe for celiac households and clean eaters"
-cons:
+cons: 
   - "Kernel size varies noticeably between bags — some batches have smaller, denser kernels that pop smaller"
   - "No resealable packaging — the bag tears easily and needs a clip or transfer to an airtight container"
+
 ---
 
 Let's be honest: most grocery store popcorn is a gamble. You're paying for a bag of dried corn that might give you a bowl of fluffy goodness or a mouthful of half-popped hulls. Amish Country Popcorn's Medium Yellow is the kind of product that makes you wonder why you ever settled for the generic stuff.

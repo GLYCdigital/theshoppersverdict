@@ -1,4 +1,5 @@
 ---
+
 title: "WYWNA 10000W Solar Street Lights Outdoor - 6500K Parking Lot"
 seo_title: "WYWNA 10000W Solar Street Lights Outdoor - 6500K P Review"
 meta_description: "Our full wywna 10000w solar street lights outdoor - 6500k parking lot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GQLYYLQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WYWNA 10000W Solar Street Light: The Real Story Behind the Specs

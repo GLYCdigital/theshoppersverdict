@@ -1,4 +1,5 @@
 ---
+
 title: "Greaton, Wooden Bed Slats for Support Under Mattress with Co"
 seo_title: "Greaton Wooden Bed Slats Review: Solid Mattress Support"
 meta_description: "Read our honest Greaton wooden bed slats review. Sturdy replacement slats with cover for box spring elimination. Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY1BPZRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WdV8UvvXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hardwood slats with a non-slip fabric cover that prevents mattress shifting and eliminates the squeak common with loose slats"
   - "Each slat is individually wrapped in the cover, making installation a 10-minute job with no tools required"
   - "Fits most standard bed frames — measure your span before ordering, but the width coverage is generous for queen and king setups"
-cons:
+cons: 
   - "No center support rail included — on wider frames you'll need to add one to prevent sagging over time"
   - "The fabric cover adds grip but makes slats harder to reposition once installed; get your spacing right the first time"
+
 ---
 
 If your mattress is starting to sag in the middle or your box spring is shot, you don't need a whole new bed. You need Greaton's wooden bed slats — a straightforward replacement that does exactly what the product image promises: solid support under your mattress, with a fabric cover that keeps everything in place.

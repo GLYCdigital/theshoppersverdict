@@ -1,4 +1,5 @@
 ---
+
 title: "YOUBLEK 40In 2Lb Weighted Stuffed Animals,Cute Plush Dragon,"
 seo_title: "YOUBLEK 40In 2Lb Weighted Stuffed Animals,Cute Plu Review"
 meta_description: "Our full youblek 40in 2lb weighted stuffed animals,cute plush dragon, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGDNX2PC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cQ8xUQpRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is a 40-inch dragon that weighs only 2 pounds actually "weighted"?** That's the first question I had when the YOUBLEK plush arrived in my testing pile. The answer is yes — but with caveats that matter for how you plan to use it.

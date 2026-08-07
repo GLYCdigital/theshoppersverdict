@@ -1,4 +1,5 @@
 ---
+
 title: "98 62 02, Flat Nose Plastic Pliers 1000V"
 seo_title: "Knipex 98 62 02 Flat Nose Pliers Review: 1000V Insulated"
 meta_description: "Knipex 98 62 02 flat nose pliers review: 1000V insulated, precision tips, and VDE safety. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09MDQW2BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uoL8e80qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-ground tips hold tight on small fasteners without marring surfaces"
   - "Genuine VDE 1000V insulation tested to IEC 60900 standards, not just dipped coating"
   - "Honed cutting edges on the jaws handle soft wire cleanly despite the flat nose profile"
-cons:
+cons: 
   - "Not for heavy prying or twisting — the slim jaws will bend under excessive torque"
   - "Price sits well above generic insulated pliers; you pay for the Knipex name and certification"
+
 ---
 
 Some tools you buy for brute force. Others you buy for finesse. The Knipex 98 62 02 flat nose pliers fall firmly into the second category — and that's exactly why they've earned a 4.8-star average across 240 Amazon ratings. If you work on live electrical panels, precision electronics, or anything where a slip means a short circuit, these are worth a hard look.

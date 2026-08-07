@@ -1,4 +1,5 @@
 ---
+
 title: "Rockler Drill Guide | Portable Drill Press Adapter for Hand "
 seo_title: "Rockler Drill Guide | Portable Drill Press Adapter Review"
 meta_description: "Our full rockler drill guide | portable drill press adapter for hand  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BDMX52BN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GOnf4NtfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Rockler Drill Guide | Portable Drill Press Adapter for Hand ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

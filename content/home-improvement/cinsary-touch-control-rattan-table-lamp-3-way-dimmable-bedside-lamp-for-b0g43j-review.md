@@ -1,4 +1,5 @@
 ---
+
 title: "CINSARY Touch Control Rattan Table Lamp, 3 Way Dimmable Beds"
 seo_title: "CINSARY Touch Rattan Table Lamp Review: 3-Way Dimmable"
 meta_description: "CINSARY touch control rattan table lamp review: 3-way dimmable bedside lamp with natural woven shade. See pros, cons, and real buyer verdicts."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G43JYWNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e-MYIiGYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct brightness levels via touch — no fumbling for a switch in the dark"
   - "Natural rattan weave diffuses light beautifully, creating warm ambient glow without harsh hotspots"
   - "Sturdy weighted base prevents tipping despite the lightweight woven shade"
-cons:
+cons: 
   - "Touch sensor is sensitive to accidental brushes — pets or a passing hand will cycle brightness levels"
   - "Bulb not included — factor in an extra $8–12 for a compatible dimmable LED"
+
 ---
 
 **The Short Version**

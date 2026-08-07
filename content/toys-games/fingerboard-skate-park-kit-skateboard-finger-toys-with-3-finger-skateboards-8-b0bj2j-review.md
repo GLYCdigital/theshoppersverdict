@@ -1,4 +1,5 @@
 ---
+
 title: "Fingerboard Skate Park Kit,Skateboard Finger Toys with 3 Fin"
 seo_title: "Fingerboard Skate Park Kit Review: 3 Finger Skateboards + Obstacles"
 meta_description: "Hands-on Fingerboard Skate Park Kit review: 3 fingerboards, ramps & rails tested. See build quality, real gripes, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJ2JPPN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kUM-nPFvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Three complete fingerboards included — one for you, two for friends, or backups when bearings wear out
   - Modular park pieces (ramps, rails, kickers) can be rearranged to create multiple line setups, not just one static layout
   - Surprisingly durable plastic construction that holds up to aggressive finger-flipping without cracking
-cons:
+cons: 
   - Plastic ramps are slick — grip tape on the boards doesn't always translate to traction on painted surfaces, so slides feel different than on wood
   - Connectors between park sections are fiddly; younger kids may need help locking pieces together tightly
   - No storage bag or case included, so the loose pieces scatter easily when not in use
+
 ---
 
 **The Fingerboard Skate Park Kit Review: 3 Finger Skateboards + Obstacles**

@@ -1,4 +1,5 @@
 ---
+
 title: "Christmas Cactus Fertilizer â€“ Liquid Plant Food for More B"
 seo_title: "Christmas Cactus Fertilizer Review: Does It Boost Blooms?"
 meta_description: "Honest Christmas Cactus Fertilizer review: liquid plant food for more blooms & brighter color. See real results, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ3KG7WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71osg6m3-cL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced 2-7-7 NPK ratio specifically formulated for holiday cacti to drive bud set without excessive foliage growth"
   - "Dropper bottle design makes precise dosing simple — no measuring spoons or mixing guesswork"
   - "Works on all Schlumbergera varieties (Christmas, Thanksgiving, Easter cactus) plus other epiphytic plants"
-cons:
+cons: 
   - "Smaller 8-ounce bottle may require multiple purchases for large collections"
   - "No clear feeding schedule printed on label — some buyers report confusion on frequency"
   - "Slightly higher price per ounce than general-purpose fertilizers"
+
 ---
 
 Most Christmas cactus owners have the same problem: lush green growth all year, then nothing but leaves when December rolls around. This liquid fertilizer from a niche plant-care brand aims to fix that with a bloom-focused formula. After digging through 235 ratings (4.7 stars) and cross-referencing grower feedback, here's what actually matters.

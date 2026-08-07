@@ -1,7 +1,8 @@
 ---
-title: "Gotrax Dolphin 26\" Electric Bike, Max Range 30Miles(Pedal-as"
-seo_title: "Gotrax Dolphin 26\" Electric Bike, Max Range 30Mile Review"
-meta_description: "Our full gotrax dolphin 26\" electric bike, max range 30miles(pedal-as review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Gotrax Dolphin 26\ Electric Bike, Max Range 30Miles(Pedal-as"
+seo_title: "Gotrax Dolphin 26\ Electric Bike, Max Range 30Mile Review"
+meta_description: "Our full gotrax dolphin 26\ electric bike, max range 30miles(pedal-as review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gotrax-dolphin-26-electric-bike-max-range-30miles-pedal-assist1-20mph-power-b0cr8b-review"
 image_alt: "Gotrax Dolphin 26 Electric Bike, Max Range 30Miles(Pedal-assist1) & 20Mph Power by Peak 500W, 5 Pedal-Assist Levels & Fr"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CR8BZWD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GdakGs2PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Gotrax Dolphin 26" Electric Bike: The Real Story Behind That 30-Mile Claim

@@ -1,4 +1,5 @@
 ---
+
 title: "OHLECTRIC Replacement for ICN-2P32-SC 1&2 Lamp T8 Fluorescen"
 seo_title: "OHLECTRIC Replacement for ICN-2P32-SC 1&2 Lamp T8  Review"
 meta_description: "Our full ohlectric replacement for icn-2p32-sc 1&2 lamp t8 fluorescen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKJH6GWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jV8vw2A6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your fluorescent fixture is humming, flickering, or dead, the ballast is usually the culprit — and the OHLECTRIC ICN-2P32-SC replacement is the part most homeowners and electricians are grabbing.** With 229 ratings averaging 4.6 stars, this electronic ballast has earned a reputation as a dependable, budget-friendly fix. But is it the right one for your specific setup? Here's the breakdown.

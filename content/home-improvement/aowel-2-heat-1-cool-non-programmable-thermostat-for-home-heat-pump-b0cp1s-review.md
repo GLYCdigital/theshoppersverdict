@@ -1,4 +1,5 @@
 ---
+
 title: "Aowel 2 Heat/ 1 Cool Non-Programmable Thermostat for Home He"
 seo_title: "Aowel 2 Heat/1 Cool Thermostat Review: Honest Verdict"
 meta_description: "Aowel 2 Heat/1 Cool non-programmable thermostat review: build quality, wiring, compatibility, and real user feedback. Is it worth $25? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP1S77HX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ej5B+zbNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2H/1C support with dedicated O/B terminal for heat pump reversing valves — rare at this price point"
   - "Backlit display with large, readable digits; brightness is adjustable which matters for hallway installs"
   - "Simple 5-wire installation with clearly labeled terminals and included level — most DIYers finish in under 20 minutes"
-cons:
+cons: 
   - "No battery status indicator on the display — low battery warnings are easy to miss until the screen dims"
   - "The included screws are soft; use your own 6-32s if you're mounting into drywall without anchors"
   - "Non-programmable means no scheduling — if you want setback temperatures at night, this isn't the unit"
+
 ---
 
 Let me save you twenty minutes of research: if you need a straightforward, reliable thermostat for a heat pump system and you don't care about smart features or programming, the Aowel 2 Heat/1 Cool is a legitimate buy. It's not flashy, it won't learn your schedule, and it won't talk to your phone. What it does — control your HVAC reliably — it does exceptionally well for the money.

@@ -1,23 +1,25 @@
 ---
+
 title: "BlenderBottle C00359 GO STAK BLENDER BOTTLE, 150cc 2-Pak, Wh"
 seo_title: "BlenderBottle GO STAK 150cc 2-Pak Review (2026): Worth It?"
 meta_description: "BlenderBottle GO STAK 150cc 2-Pak review: leak-proof storage, twist-on base, real-world test. See pros, cons, and who should buy."
 slug: "blenderbottle-c00359-go-stak-blender-bottle-150cc-2-pak-white-b07yf4-review"
 image_alt: "Two white BlenderBottle GO STAK 150cc containers with twist-on bases, stacked and separated"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YF4Q717/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WFqwdfK8L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tight, leak-proof seal even with thin liquids like pre-workout or water"  
   - "Twist-on base locks securely to BlenderBottle shaker cups and standard wide-mouth jars"  
   - "150cc capacity is ideal for protein powder, supplements, or dry snacks — not too bulky"  
-cons:  
+cons: 
   - "Screw threads can be stiff at first; takes a few twists to seat properly"  
   - "Not dishwasher-safe on the top rack — hand wash only, which some owners find annoying"
+
 ---
 
 **If you’ve ever watched a scoop of protein powder go airborne mid-shake, you know the struggle.** The BlenderBottle GO STAK 150cc 2-Pak solves that specific problem — and a few others — without adding bulk to your gym bag. As shown in the product image, these are two small, white twist-on containers that attach directly to the bottom of your BlenderBottle shaker cup. They’re not meant to replace your main bottle; they’re meant to make it smarter.

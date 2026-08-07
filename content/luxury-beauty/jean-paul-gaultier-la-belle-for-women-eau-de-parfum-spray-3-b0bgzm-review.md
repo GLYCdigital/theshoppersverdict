@@ -1,4 +1,5 @@
 ---
+
 title: "Jean Paul Gaultier La Belle for Women Eau De Parfum Spray, 3"
 seo_title: "Jean Paul Gaultier La Belle for Women Eau De Parfu Review"
 meta_description: "Our full jean paul gaultier la belle for women eau de parfum spray, 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BGZM758Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51W1eX8hvZL._SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You’re Actually Getting**

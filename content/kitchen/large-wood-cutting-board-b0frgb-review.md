@@ -1,4 +1,5 @@
 ---
+
 title: "large wood cutting board"
 seo_title: "large wood cutting board Review: Verdict | TSV"
 meta_description: "Our full large wood cutting board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FRGBVTHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vVlN+7AyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most cutting boards are an afterthought. A slab of plastic you drag out when dinner prep starts, then shove back in a cabinet. This large wood cutting board is not that. It's a piece of kitchen equipment that demands your respect — and rewards you with years of reliable service if you give it basic upkeep.

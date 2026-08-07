@@ -1,4 +1,5 @@
 ---
+
 title: "EMMA + OLIVER Table"
 seo_title: "EMMA + OLIVER Table Review: Honest 2026 Buyer's Guide"
 meta_description: "EMMA + OLIVER Table reviewed: build quality, real-world use, and drawbacks. See if this 4.7-star rated table fits your space before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJKXBBB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1QT+0OTL8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid, wobble-free construction once assembled — no creaking or shifting during daily use"
   - "Tabletop finish resists water rings and scratches better than expected at this price point"
   - "Clear, numbered assembly instructions with all hardware included — most buyers finish in under 45 minutes"
-cons:
+cons: 
   - "Surface shows fingerprints and smudges easily on darker finishes — plan on regular wiping"
   - "Legs arrive with pre-drilled holes that don't always align perfectly with the frame — minor frustration during setup"
+
 ---
 
 A 4.7-star average across 235 ratings tells you one thing: this table is doing something right. But a strong rating doesn't tell you whether it'll survive a household with toddlers, whether the finish holds up to hot coffee mugs, or whether assembly will test your patience. Here's what I found digging through the reviews and product specs.

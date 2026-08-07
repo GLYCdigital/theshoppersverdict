@@ -1,4 +1,5 @@
 ---
+
 title: "Pendelton Turf Supply 18-3-6 Liquid Fertilizer (50% SRN & Mi"
 seo_title: "Pendelton Turf Supply 18-3-6 Liquid Fertilizer (50 Review"
 meta_description: "Our full pendelton turf supply 18-3-6 liquid fertilizer (50% srn & mi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07GRJ4T4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bC-kl6zBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Pendelton Turf Supply 18-3-6 is a serious liquid fertilizer for homeowners who want granular-level feeding duration with liquid application flexibility. The 50% slow-release nitrogen (SRN) is the headline feature here — it bridges the gap between cheap quick-release liquids that green your lawn for ten days and expensive granular programs. At 4.4 stars across 220 ratings, most users find it delivers. But it's not perfect, and I'll tell you exactly where it gets sticky.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pit Boss 3-Series Gas Vertical Smoker, Red Hammertone - 1077"
 seo_title: "Pit Boss 3-Series Gas Vertical Smoker, Red Hammert Review"
 meta_description: "Our full pit boss 3-series gas vertical smoker, red hammertone - 1077 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09F6ZT4XT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815ZNHSsXEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Gas Smoker That Actually Respects Your Weekend

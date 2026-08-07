@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid 4 Slice Manual Lift Toaster KMT4115OB, Onyx Black"
 seo_title: "KitchenAid 4 Slice Manual Lift Toaster KMT4115OB,  Review"
 meta_description: "Our full kitchenaid 4 slice manual lift toaster kmt4115ob, onyx black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B007P205JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fx6rAQqDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KitchenAid KMT4115OB isn't just another toaster. It's a statement piece that happens to make excellent toast. But with a 4.4-star average across 220 ratings, it's clear this machine has both passionate fans and a few vocal critics. Here's the real story.

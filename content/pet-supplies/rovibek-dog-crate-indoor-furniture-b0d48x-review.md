@@ -1,4 +1,5 @@
 ---
+
 title: "Rovibek Dog Crate Indoor Furniture"
 seo_title: "Rovibek Dog Crate Indoor Furniture Review: Verdict | TSV"
 meta_description: "Our full rovibek dog crate indoor furniture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D48XXCN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NPNqdZUxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most dog crates look like you're storing lawn equipment in your living room. The Rovibek Dog Crate Indoor Furniture tries to solve that by disguising itself as a side table. Does it actually work? I dug through 204 ratings and the buyer photos to find out.

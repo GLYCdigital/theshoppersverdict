@@ -1,4 +1,5 @@
 ---
+
 title: "Messenya Modern 6 Drawer Dresser, 55-Inch Wood Chest of Draw"
 seo_title: "Messenya Modern 6 Drawer Dresser, 55-Inch Wood Che Review"
 meta_description: "Our full messenya modern 6 drawer dresser, 55-inch wood chest of draw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDJ37653/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+5qPAGmML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a dresser under $300, you've likely seen a dozen variations of the same flat-pack box with drawers. The Messenya Modern 6 Drawer Dresser stands out for one reason: that curved, waterfall-style front panel. It's a genuinely different silhouette that reads more expensive than the price tag suggests. But is it actually a good dresser, or just a pretty face? I dug through 225 ratings and the spec sheet to find out.

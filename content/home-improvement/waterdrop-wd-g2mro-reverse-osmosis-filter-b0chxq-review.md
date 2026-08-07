@@ -1,4 +1,5 @@
 ---
+
 title: "Waterdrop WD-G2MRO Reverse Osmosis Filter"
 seo_title: "Waterdrop WD-G2MRO Reverse Osmosis Filter Review: Verdict"
 meta_description: "Our full waterdrop wd-g2mro reverse osmosis filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CHXQS395/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512FlOnA1fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out a reverse osmosis system lately, you know the good ones run $300–$600 and waste a shocking amount of water. Most conventional RO units dump three to four gallons of wastewater for every gallon they purify. The Waterdrop WD-G2MRO flips that equation — and it's why 240 Amazon buyers have pushed it to a 4.8-star rating.

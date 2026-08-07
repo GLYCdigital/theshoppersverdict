@@ -1,4 +1,5 @@
 ---
+
 title: "Joico Curls Like Us Hydrate & Define Curl CrÃ¨me Styler | Fo"
 seo_title: "Joico Curls Like Us Hydrate & Define Curl CrÃ¨me S Review"
 meta_description: "Our full joico curls like us hydrate & define curl crã¨me styler | fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFB1MRS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KOfUdr38L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the curl cream that finally delivers on its promises? I tested it for three weeks on 2B–3C hair to find out.**

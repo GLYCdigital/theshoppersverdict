@@ -1,4 +1,5 @@
 ---
+
 title: "LED Camping Tent Lantern, Portable Outdoor Waterproof Emerge"
 seo_title: "LED Camping Tent Lantern, Portable Outdoor Waterpr Review"
 meta_description: "Our full led camping tent lantern, portable outdoor waterproof emerge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWQHH1DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eJtimKZSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: the LED Camping Tent Lantern is the kind of product that quietly outperforms its price tag — and then makes you wish it had one more feature. I've tested dozens of camp lights over the years, and this one earns its 4.5-star average. Here's the full story.

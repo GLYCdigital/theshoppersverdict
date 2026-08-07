@@ -1,4 +1,5 @@
 ---
+
 title: "Ediloca SSD NVMe M.2 2280 Internal Solid State Drive"
 seo_title: "Ediloca SSD NVMe M.2 2280 Review: Is It Worth It?"
 meta_description: "Honest Ediloca SSD NVMe M.2 2280 review: real-world speeds, build quality, and whether this budget drive belongs in your PC. Read before buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBPP9V9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iy0q9cEZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dramatically faster boot and load times than SATA SSDs — real-world 3,000+ MB/s reads in testing"
   - "Included aluminum heatsink keeps temps 15-20°C lower under sustained writes than bare drives"
   - "Aggressive pricing per GB makes it a legit upgrade path for older laptops and desktops"
-cons:
+cons: 
   - "No DRAM cache — sustained write speeds drop after the SLC cache fills (noticeable on large file transfers)"
   - "Warranty support is thin — 3 years vs. the 5-year terms from Samsung or WD"
+
 ---
 
 Let’s cut through the noise. The Ediloca SSD NVMe M.2 2280 is a budget NVMe drive that’s been quietly racking up 4.5-star ratings from 225+ shoppers. But “budget” in the SSD world usually means “slow and unreliable.” Does this one break the mold? I tested it, tore down the specs, and scoured buyer feedback. Here’s what actually matters.

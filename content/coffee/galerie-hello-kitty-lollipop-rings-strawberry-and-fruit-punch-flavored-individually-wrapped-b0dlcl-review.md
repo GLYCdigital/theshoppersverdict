@@ -1,4 +1,5 @@
 ---
+
 title: "Galerie Hello Kitty Lollipop Rings, Strawberry and Fruit Punch"
 seo_title: "Galerie Hello Kitty Lollipop Rings Review: Cute Candy, Real Flavor"
 meta_description: "Galerie Hello Kitty Lollipop Rings review: are these strawberry & fruit punch candies worth the hype? Flavor, texture, and value breakdown from a candy skeptic."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLCLBXBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V007nSbGL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine strawberry flavor — tastes like real fruit, not artificial candy perfume"
   - "Individually wrapped rings stay fresh and are perfect for party favors or lunchbox treats"
   - "Hello Kitty branding is crisp and adorable — a collector's item as much as a candy"
-cons:
+cons: 
   - "Rings are smaller than expected — about the size of a quarter, not a full lollipop"
   - "Fruit punch flavor is noticeably weaker than strawberry; you'll taste the difference"
   - "Hard candy shell can be brittle — some rings arrive cracked in shipping"
+
 ---
 
 Let me be upfront: I bought these for the Hello Kitty packaging and stayed for the surprisingly legit strawberry flavor. The Galerie Hello Kitty Lollipop Rings are a hybrid product — part candy, part collectible — and they nail both jobs better than most licensed sweets.

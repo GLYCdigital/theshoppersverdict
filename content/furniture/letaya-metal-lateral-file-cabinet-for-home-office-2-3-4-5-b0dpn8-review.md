@@ -1,4 +1,5 @@
 ---
+
 title: "Letaya Metal Lateral File Cabinet for Home Office 2/3/4/5 Dr"
 seo_title: "Letaya Metal Lateral File Cabinet for Home Office  Review"
 meta_description: "Our full letaya metal lateral file cabinet for home office 2/3/4/5 dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPN8CJRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HAf6hwJwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're drowning in paper but your home office is the size of a closet, the Letaya Metal Lateral File Cabinet deserves a hard look. This isn't a flashy piece — it's a utilitarian metal box designed to hold files, and it does that job competently. With 210 ratings averaging 4.2 stars, it's clearly working for a lot of people. But before you click buy, here's what you need to know.

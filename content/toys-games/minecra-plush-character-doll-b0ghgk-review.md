@@ -1,4 +1,5 @@
 ---
+
 title: "Minecra Plush Character Doll"
 seo_title: "Minecra Plush Character Doll Review: Verdict | TSV"
 meta_description: "Our full minecra plush character doll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHGKP5ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hd0vsKg4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Minecra Plush Character Doll** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

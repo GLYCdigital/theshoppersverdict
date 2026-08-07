@@ -1,4 +1,5 @@
 ---
+
 title: "NORSEWOOD Hair Brush Set. for Long Short Thick Thin Curly St"
 seo_title: "NORSEWOOD Hair Brush Set. for Long Short Thick Thi Review"
 meta_description: "Our full norsewood hair brush set. for long short thick thin curly st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DB192LVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s87wQBYHL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict: A Legit 8-Brush Arsenal or Just Fancy Kindling?**

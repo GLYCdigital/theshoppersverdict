@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Posi-Temp Pressure Balancing Eco-Performance Tub and Sh"
 seo_title: "Moen Posi-Temp Pressure Balancing Eco-Performance  Review"
 meta_description: "Our full moen posi-temp pressure balancing eco-performance tub and sh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0042D6P00/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618LDGVU-RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're remodeling a tub and shower, the Moen Posi-Temp Pressure Balancing Eco-Performance trim kit is the kind of purchase that doesn't feel exciting but saves your skin — literally. This is the part that keeps you from getting scalded when someone flushes a toilet mid-shower. With 220 ratings averaging 4.4 stars, it's not perfect, but it's consistently solid. Here's what you're actually getting before you hand over your card.

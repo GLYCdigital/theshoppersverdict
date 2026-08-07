@@ -1,4 +1,5 @@
 ---
+
 title: "ACCOHOHO Farmhouse King Size Bed Frame with 52 inch  High Storage"
 seo_title: "ACCOHOHO Farmhouse King Bed Frame Review: 52 inch  Storage Headboard"
 meta_description: "Honest ACCOHOHO farmhouse king bed frame review: 52 inch  bookcase headboard, storage drawers, build quality, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1K9ZRH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AJJ3AYPFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "52-inch bookcase headboard with 6 open shelves gives genuinely useful storage without needing nightstands"
   - "Heavy-duty steel slats spaced 3 inches apart support a mattress without a box spring"
   - "Solid pine wood frame with farmhouse-style X detailing at a price that undercuts most comparable king beds"
-cons:
+cons: 
   - "Assembly is a 2-person job taking 60-90 minutes — the headboard is heavy and awkward to lift solo"
   - "Open shelves collect dust and require deliberate styling; no doors or drawers in the headboard itself"
+
 ---
 
 Let's cut through the listing photos. A king bed frame with a 52-inch-tall bookcase headboard sounds like a Pinterest dream and a logistics nightmare. After digging through 210 Amazon ratings and customer photos, here's the real story on the ACCOHOHO Farmhouse King Bed.

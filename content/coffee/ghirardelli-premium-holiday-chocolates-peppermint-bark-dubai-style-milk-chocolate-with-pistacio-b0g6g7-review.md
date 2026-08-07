@@ -1,4 +1,5 @@
 ---
+
 title: "GHIRARDELLI Premium Holiday Chocolates â€“ Peppermint Bark &"
 seo_title: "GHIRARDELLI Premium Holiday Chocolates â€“ Pepperm Review"
 meta_description: "Our full ghirardelli premium holiday chocolates â€“ peppermint bark & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6G7XHB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JPLlcb9tL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you're not buying this for the nutrition facts, and you don't need me to pretend otherwise. The question is whether GHIRARDELLI's holiday assortment justifies the shelf space and the price tag — especially when every drugstore in America is pushing peppermint bark this time of year. After working through a full box (purely for research, obviously), here's the honest breakdown.

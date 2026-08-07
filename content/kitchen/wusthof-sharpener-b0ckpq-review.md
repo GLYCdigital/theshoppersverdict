@@ -1,4 +1,5 @@
 ---
+
 title: "Wusthof Sharpener"
 seo_title: "Wusthof Sharpener Review: Verdict | TSV"
 meta_description: "Our full wusthof sharpener review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKPQTDJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DU7kinM-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pull-through sharpeners are garbage. They grind steel at inconsistent angles, leave burrs, and can ruin a $200 chef's knife. So when Wusthof — a company that's been forging blades since 1814 — released their own 2-stage sharpener, expectations were high. After testing it against my own Wusthof Classic chef's knife and a few other Western blades, here's the honest breakdown.

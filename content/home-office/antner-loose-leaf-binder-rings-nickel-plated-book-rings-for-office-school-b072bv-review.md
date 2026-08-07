@@ -1,4 +1,5 @@
 ---
+
 title: "Antner Loose Leaf Binder Rings, Nickel Plated Book Rings for"
 seo_title: "Antner Loose Leaf Binder Rings Review: Strong & Smooth (2026)"
 meta_description: "Honest Antner loose leaf binder rings review: nickel-plated strength, smooth opening, real-world durability tested. Who should buy, who should skip."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B072BVBLDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lquFIXGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Nickel plating resists rust and corrosion far better than cheap zinc alternatives — holds up through humid summers and coffee spills"
   - "Split-ring design opens fully with a simple twist, no prying or fingernail damage required"
   - "Consistent 1-inch diameter fits standard 3-hole paper without tearing or bending pages"
-cons:
+cons: 
   - "Light-gauge metal bends if you overload beyond roughly 50 sheets — these are for light binding, not heavy archival work"
   - "No size options in this listing — you get 1-inch rings only, which limits use cases for thicker stacks"
+
 ---
 
 ## The Unassuming Workhorse Your Desk Has Been Missing

@@ -1,4 +1,5 @@
 ---
+
 title: "Walkers Pure Butter Shortbread, Rounds, 5.3 oz"
 seo_title: "Walkers Pure Butter Shortbread, Rounds, 5.3 oz Review: Ve"
 meta_description: "Our full walkers pure butter shortbread, rounds, 5.3 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000V9XM1O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dyi09XPeL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Walkers Pure Butter Shortbread, Rounds, 5.3 oz: The Coffee Companion That Disappears Too Fast

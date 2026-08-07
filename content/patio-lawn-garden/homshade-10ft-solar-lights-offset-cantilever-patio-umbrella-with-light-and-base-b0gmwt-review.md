@@ -1,4 +1,5 @@
 ---
+
 title: "HOMSHADE 10ft Solar Lights Offset Cantilever Patio Umbrella "
 seo_title: "HOMSHADE 10ft Solar Lights Offset Cantilever Patio Review"
 meta_description: "Our full homshade 10ft solar lights offset cantilever patio umbrella  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMWTYLYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BpNB9J8KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the HOMSHADE 10ft Offset Umbrella Worth Your Patio Space?

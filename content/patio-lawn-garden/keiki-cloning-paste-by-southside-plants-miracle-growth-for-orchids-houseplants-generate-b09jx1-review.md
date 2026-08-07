@@ -1,4 +1,5 @@
 ---
+
 title: "Keiki Cloning Paste by Southside Plants - Miracle Growth for"
 seo_title: "Keiki Cloning Paste by Southside Plants - Miracle  Review"
 meta_description: "Our full keiki cloning paste by southside plants - miracle growth for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09JX1G39D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QEDm3AxvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a phalaenopsis orchid that's finished blooming and you're wondering whether that little bump on the flower spike is worth keeping, here's your answer: it might be, and Southside Plants' Keiki Cloning Paste is the tool that turns that bump into a baby orchid. This 10-gram jar of cytokinin-based growth hormone has become a cult favorite among orchid enthusiasts, and with 220 ratings at 4.4 stars, it's clearly doing something right — but it's not magic in a jar.

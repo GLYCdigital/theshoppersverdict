@@ -1,4 +1,5 @@
 ---
+
 title: "FCMP Outdoor Slim Line Design 45-Gallon Wood Grain Outdoor H"
 seo_title: "FCMP Outdoor 45-Gallon Trash Can Review: Worth It?"
 meta_description: "FCMP Outdoor Slim Line 45-gallon wood grain trash can review: capacity, build quality, lid fit, durability. See if this hideaway can suits your patio."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07TCCW1GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LYOf7RpcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 45-gallon capacity in a narrow 22-inch footprint — fits tight spaces between a house wall and AC unit"
   - "UV-stabilized resin resists fading and cracking; multiple buyers report 3+ years outdoors with no warping"
   - "Wood grain texture is surprisingly convincing up close; hides scuffs and dirt better than solid colors"
-cons:
+cons: 
   - "Lid is not hinged — it lifts off completely and can blow away in strong wind gusts"
   - "Assembly requires 8 bolts; hand-tightening works but the included wrench is flimsy"
   - "Rough interior edges near the rim can snag thin trash bags; consider double-bagging"
+
 ---
 
 If your curb-visible trash situation is an eyesore, this FCMP Slim Line is the low-key fix. It’s a 45-gallon resin canister that looks like a faux-wood planter from five feet away. But does it hold up when the garbage truck comes? Here’s the real story after digging through 220 ratings and hands-on owner reports.

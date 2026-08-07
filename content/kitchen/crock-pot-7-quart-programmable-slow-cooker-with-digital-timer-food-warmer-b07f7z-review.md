@@ -1,4 +1,5 @@
 ---
+
 title: "Crock-Pot 7 Quart Programmable Slow Cooker with Digital Time"
 seo_title: "Crock-Pot 7 Quart Programmable Slow Cooker Review (2026)"
 meta_description: "Crock-Pot 7 Quart Programmable Slow Cooker review: digital timer, 3 heat settings, 7-qt capacity. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07F7ZG4FM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QiJA0+zQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 7-quart capacity fits a 7-lb roast or whole chicken — no more cramming ingredients"
   - "Programmable timer with 3 heat settings (Low/High/Warm) and 20-hour cook window"
   - "Stoneware insert and lid are dishwasher-safe — cleanup takes minutes, not elbow grease"
-cons:
+cons: 
   - "No probe thermometer for meat — you're relying on time, not internal temperature"
   - "Warm mode runs hot for some users; food can overcook if left too long"
   - "Digital display is bright and stays lit — annoying in a dark kitchen at night"
+
 ---
 
 If you're feeding a family, hosting a potluck, or just tired of takeout, the Crock-Pot 7 Quart Programmable Slow Cooker is the workhorse you've been looking for. With a 4.5-star average across 225 ratings, it's not perfect — but for most home cooks, it's the closest thing to set-it-and-forget-it that actually delivers.

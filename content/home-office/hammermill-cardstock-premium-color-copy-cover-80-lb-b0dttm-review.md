@@ -1,4 +1,5 @@
 ---
+
 title: "Hammermill Cardstock, Premium Color Copy Cover, 80 lb"
 seo_title: "Hammermill Cardstock, Premium Color Copy Cover, 80 Review"
 meta_description: "Our full hammermill cardstock, premium color copy cover, 80 lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTTMLY8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71057HkjnBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever printed a wedding program on flimsy 65 lb stock and watched it wilt, you already know why Hammermill's Premium Color Copy Cover exists. This is the paper you grab when the project needs to feel substantial — business cards, invitations, presentation covers, signs that won't flop over in a binder. It's not cheap, but it's the kind of workhorse paper that makes you wonder why you ever settled for less.

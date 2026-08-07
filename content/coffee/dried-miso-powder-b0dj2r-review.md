@@ -1,4 +1,5 @@
 ---
+
 title: "Dried Miso Powder"
 seo_title: "Dried Miso Powder Review: Instant Umami for Coffee Lovers"
 meta_description: "Read our honest dried miso powder review. See how this instant umami boost elevates coffee-based marinades, broths, and more. 4.4-star rated."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ2R3Y8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QL3eihw4L._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves instantly in hot liquids with zero clumping, unlike traditional miso paste"
   - "One 10.6-ounce pouch replaces roughly 2 pounds of refrigerated miso paste"
   - "Shelf-stable for 12+ months without refrigeration, perfect for camping or backup"
-cons:
+cons: 
   - "Lacks the deep fermented funk of fresh miso — noticeably milder aroma"
   - "Sodium content runs high at 570mg per teaspoon; portion control is essential"
+
 ---
 
 Let's be honest: when you think "coffee gear," dried miso powder isn't the first thing that comes to mind. But if you've ever brewed a pot of coffee, used a few tablespoons for a marinade, and watched the rest go down the drain — this shelf-stable umami bomb might be the smartest addition to your kitchen you didn't know you needed. With 220 ratings averaging 4.4 stars, it's clearly earning its place in more than a few pantries.

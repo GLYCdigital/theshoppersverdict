@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Pop up Canopy with Removable Sidewalls Enclosed Canopy"
 seo_title: "VEVOR Pop up Canopy with Removable Sidewalls Enclo Review"
 meta_description: "Our full vevor pop up canopy with removable sidewalls enclosed canopy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FSRG5C5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613NmEdvIlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Verdict

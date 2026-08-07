@@ -1,4 +1,5 @@
 ---
+
 title: "Antep Rugs Alfombras Oriental Traditional Non-Skid (Non-Slip"
 seo_title: "Antep Rugs Oriental Traditional Non-Skid Review (2026)"
 meta_description: "Honest Antep Rugs Alfombras Oriental Traditional Non-Skid review: low-profile pile, grip backing, real buyer feedback. Is this 4.5-star rug worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08618MNYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1otg8KpMlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True non-slip backing that stays put on hardwood and tile — no separate rug pad required"
   - "Low-profile pile (under 0.5 inch) that clears most standard doorways and doesn't catch chair wheels"
   - "Dense, tight weave hides foot traffic and vacuum marks better than fluffier alternatives"
-cons:
+cons: 
   - "Initial chemical smell out of the box that takes 3–5 days to fully air out"
   - "Pattern colors run slightly darker in person than the product images suggest"
   - "Not plush underfoot — this is a functional rug, not a sink-your-toes-in luxury piece"
+
 ---
 
 ## A Traditional Pattern That Actually Stays Put

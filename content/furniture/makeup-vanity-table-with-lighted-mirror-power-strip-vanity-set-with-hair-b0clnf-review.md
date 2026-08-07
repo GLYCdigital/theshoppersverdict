@@ -1,4 +1,5 @@
 ---
+
 title: "Makeup Vanity Table with Lighted Mirror & Power Strip, Vanit"
 seo_title: "Makeup Vanity Table with Lighted Mirror & Power St Review"
 meta_description: "Our full makeup vanity table with lighted mirror & power strip, vanit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLNFDPHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mDAoJTqnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this vanity actually worth your money, or are you paying for a pretty product photo?** I've dug through 220 ratings, buyer photos, and the spec sheet to give you the straight story on the Vanit Makeup Vanity Table with Lighted Mirror & Power Strip.

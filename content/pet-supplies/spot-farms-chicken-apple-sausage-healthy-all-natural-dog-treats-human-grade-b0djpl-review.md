@@ -1,4 +1,5 @@
 ---
+
 title: "Spot Farms Chicken Apple Sausage Healthy All Natural Dog Tre"
 seo_title: "Spot Farms Chicken Apple Sausage Healthy All Natur Review"
 meta_description: "Our full spot farms chicken apple sausage healthy all natural dog tre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJPLT8KV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71chSwbqs+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Soft, human-grade, and actually good for training — but is the price worth it?**

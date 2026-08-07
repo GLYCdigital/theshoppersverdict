@@ -1,4 +1,5 @@
 ---
+
 title: "Japanese OP-09 Booster Box One Piece TCG Four Emperors"
 seo_title: "Japanese OP-09 Booster Box One Piece TCG Four Empe Review"
 meta_description: "Our full japanese op-09 booster box one piece tcg four emperors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D46M9DHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O7zkSUXRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the hype. The Japanese OP-09 Booster Box for One Piece TCG — the Four Emperors set — is the most anticipated Japanese release of 2026, and for good reason. This is the set that introduced the manga art Luffy and Shanks cards that have collectors throwing money at their screens. But is a Japanese box the right buy for *you*? Here’s the honest breakdown.

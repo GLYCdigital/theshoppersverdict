@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Brand, Aplenty Butter Chicken with Basmati Saffron Ri"
 seo_title: "Aplenty Butter Chicken Review: Is It Worth It?"
 meta_description: "Honest Aplenty Butter Chicken with Basmati Saffron Rice review. Flavor, portion size, prep time, and value analyzed. See if this ready meal delivers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW7S1G32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818enGJ3HzS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, properly spiced butter chicken sauce with a noticeable saffron finish — not watered down"
   - "Basmati rice stays fluffy after microwave prep, avoiding the mushy texture most ready meals suffer"
   - "10 oz portion is substantial enough for a full meal, not a snack-sized disappointment"
-cons:
+cons: 
   - "Chicken pieces can be uneven — some chunks are tender, others slightly dry or chewy"
   - "Saffron flavor is subtle; if you expect a strong floral kick, you'll be underwhelmed"
   - "Sodium content runs high (around 780mg per container) — a concern for anyone watching salt intake"
+
 ---
 
 **The Real Story on Aplenty's Butter Chicken**

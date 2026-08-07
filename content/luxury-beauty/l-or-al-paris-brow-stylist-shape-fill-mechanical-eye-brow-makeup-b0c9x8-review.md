@@ -1,4 +1,5 @@
 ---
+
 title: "Lâ€™OrÃ©al Paris Brow Stylist Shape & Fill Mechanical Eye Br"
 seo_title: "Lâ€™OrÃ©al Paris Brow Stylist Shape & Fill Mechani Review"
 meta_description: "Our full lâ€™orã©al paris brow stylist shape & fill mechanical eye br review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9X8LV2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SywaiL66L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some brow pencils promise a tattoo-level hold, then smear by lunch. Others draw on like crayon, leaving you with Instagram-filter brows in real life. The L'Oréal Paris Brow Stylist Shape & Fill sits in that rare middle ground: it's a mechanical pencil that actually mimics the look of natural brow hairs, and at a drugstore price point that undercuts most department store equivalents by half.

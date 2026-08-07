@@ -1,4 +1,5 @@
 ---
+
 title: "NUGRIART Metal Carport with Heavy Duty Galvanized Steel Roof"
 seo_title: "NUGRIART Metal Carport with Heavy Duty Galvanized  Review"
 meta_description: "Our full nugriart metal carport with heavy duty galvanized steel roof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GKVPKW4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610VTg8A02L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a cheap carport that collapses in the first windstorm is worse than no carport at all. The NUGRIART Metal Carport with Heavy Duty Galvanized Steel Roof sits in the mid-range of the market, but it's built like it costs more. After digging through 204 ratings and the spec sheet, here's what actually matters.

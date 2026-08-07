@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX XR Jig Saw, 3,200 Blade Speed, Cordless, Brus"
 seo_title: "DEWALT 20V MAX XR Jig Saw Review: 3,200 RPM Power"
 meta_description: "DEWALT 20V MAX XR jig saw review: 3,200 RPM brushless motor, 4-speed dial, dust blower. See real customer feedback, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07JPFHQKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cIUPtEqDL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuinely 3,200 SPM with a brushless motor that doesn't bog in 3/4-inch hardwood"
   - "4-position orbital action dial plus variable speed trigger gives real control for both rip cuts and fine curves"
   - "Keyless lever-action blade change takes under 5 seconds, even with gloves on"
-cons:
+cons: 
   - "No built-in LED work light — a glaring omission at this price point"
   - "Blade guide adjustment requires a hex wrench; not tool-free like the blade clamp"
   - "Doesn't come with a dust hose adapter; you'll need to buy one separately for shop vac hookup"
+
 ---
 
 Let me be direct: cordless jigsaws are usually the weak link in a contractor's kit. They bog down in thick stock, eat batteries, and vibrate so bad your hand goes numb. The DEWALT 20V MAX XR brushed aside most of those complaints—and at 4.8 stars across 240 ratings, buyers agree. But it's not perfect. Here's the real story.

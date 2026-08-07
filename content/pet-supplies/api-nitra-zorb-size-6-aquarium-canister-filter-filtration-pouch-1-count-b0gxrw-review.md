@@ -1,23 +1,25 @@
 ---
+
 title: "API NITRA-ZORB Size 6 Aquarium Canister Filter Filtration Po"
 seo_title: "API NITRA-ZORB Size 6 Review: Does It Control Nitrates?"
 meta_description: "API NITRA-ZORB Size 6 pouch review: real nitrate reduction data, fit for canister filters, longevity, and honest downsides before you buy."
 slug: "api-nitra-zorb-size-6-aquarium-canister-filter-filtration-pouch-1-count-b0gxrw-review"
 image_alt: "API NITRA-ZORB Size 6 filtration pouch for canister filters, white mesh bag with resin media"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXRWFJL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KBdWmTQsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Size 6 fits most mid-to-large canisters (FX4/FX6, Fluval 407, Sunsun) without modification"  
   - "Noticeable nitrate drop within 48–72 hours in stocked tanks, per multiple verified buyer reports"  
   - "Works passively — no chemical dosing, no constant recharging like resin-based products"  
-cons:  
+cons: 
   - "Loses effectiveness after 3–4 weeks; requires replacement, not regeneration"  
   - "Can cause a temporary pH dip in soft, low-alkalinity water — monitor if you keep sensitive species"
+
 ---
 
 If your test kit reads 40+ ppm nitrates no matter how often you water-change, you're not alone. API's NITRA-ZORB Size 6 pouch is one of the few chemical filtration media that actually targets nitrate — not just ammonia or nitrite — and it does so without turning your canister into a science experiment. But "works" and "works for long" are two different things, and this pouch has a clear expiration date.

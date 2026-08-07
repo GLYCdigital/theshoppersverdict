@@ -1,4 +1,5 @@
 ---
+
 title: "DELTA FAUCET Trinsic Floor-Mount Freestanding Tub Filler wit"
 seo_title: "Delta Trinsic Freestanding Tub Filler Review (2026)"
 meta_description: "Honest Delta Trinsic floor-mount tub filler review: build quality, installation challenges, and real buyer feedback. Is this $1,000+ faucet worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8V17Y42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid brass construction with Diamond Seal technology — no rubber washers to degrade, rated for 1 million uses"
   - "Integrated InnoFlex PEX supply lines eliminate the need for access panels behind the tub"
   - "Matching Trinsic handle design coordinates seamlessly with the full Delta Trinsic bathroom collection"
-cons:
+cons: 
   - "Requires precise rough-in placement — the 7.25-inch floor flange base leaves zero room for error"
   - "Handheld shower hose is only 60 inches; tall tubs may need a longer replacement hose"
   - "No integrated diverter valve — you must purchase the rough-in valve kit separately, adding $150–$200 to the real cost"
+
 ---
 
 **The $1,000 Question: Does This Delta Tub Filler Justify Its Price?**

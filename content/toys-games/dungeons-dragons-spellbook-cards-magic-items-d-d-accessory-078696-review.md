@@ -1,4 +1,5 @@
 ---
+
 title: "Dungeons & Dragons Spellbook Cards: Magic Items (D&D Accesso"
 seo_title: "D&D Spellbook Cards: Magic Items Review (2026) | Worth It?"
 meta_description: "D&D Spellbook Cards: Magic Items review — 240+ ratings, 4.8 stars. See what's inside, real pros/cons, and if this deck beats flipping through the DMG."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/078696670X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7114lcv28IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-color item art on every card — players instantly recognize loot without reading a paragraph"
   - "Slim 3.25x4.25-inch cards fit in standard card boxes or binders, unlike the bulky DMG"
   - "Includes items from Xanathar's and the DMG core rules, covering most campaign needs"
-cons:
+cons: 
   - "Cards are organized alphabetically, not by rarity — DMs still need the DMG for random tables"
   - "Thin cardstock bends if shuffled aggressively; sleeve them or keep them organized in a binder"
   - "No blank cards included for homebrew items, which feels like a missed opportunity"
+
 ---
 
 # D&D Spellbook Cards: Magic Items Review — The DM's Cheat Sheet That Actually Works

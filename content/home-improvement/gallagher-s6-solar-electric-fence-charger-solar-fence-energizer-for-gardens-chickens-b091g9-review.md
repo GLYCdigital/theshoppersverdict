@@ -1,4 +1,5 @@
 ---
+
 title: "Gallagher S6 Solar Electric Fence Charger | Solar Fence Ener"
 seo_title: "Gallagher S6 Solar Fence Charger Review: Reliable Power?"
 meta_description: "Gallagher S6 solar fence charger review: output, battery life, and real customer feedback. Is it worth the premium? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091G9YV9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dna8Jq9wS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 6-volt output delivers a sharp, attention-getting shock through heavy vegetation without sagging"
   - "Integrated solar panel and 12-volt rechargeable battery hold charge for days of overcast weather"
   - "Weatherproof housing with a visible charge indicator light — no guessing if it's working"
-cons:
+cons: 
   - "Premium price tag — you're paying for the Gallagher name and reliability, not bargain-bin pricing"
   - "No on/off switch; you must disconnect fence wires to power down for maintenance"
   - "Mounting bracket is functional but feels flimsy compared to the charger's solid build"
+
 ---
 
 **Bottom Line Up Front:** The Gallagher S6 is the solar charger you buy when you're done replacing cheap energizers every 18 months. It delivers consistent, vegetation-busting power for medium-sized fences — but you'll pay for that dependability, and a couple of design quirks keep it from perfection.

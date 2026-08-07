@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Dog Bakery Perfect Trainers, Mini Dog Training Treats,"
 seo_title: "Blue Dog Bakery Perfect Trainers Review: Healthy Mini Treats"
 meta_description: "Honest Blue Dog Bakery Perfect Trainers review: soft, mini dog training treats with 4.6 stars. Are they worth it? Texture, ingredients, and value analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GP35PJ4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vBbSXpTPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bite-size pieces (about the size of a pea) that don't break the calorie bank during long training sessions"
   - "Soft, pliable texture that tears easily — no fumbling with a treat pouch mid-command"
   - "Short ingredient list with real chicken listed first and no corn, soy, or artificial preservatives"
-cons:
+cons: 
   - "Bag is on the smaller side; heavy trainers may blow through it in a week"
   - "Some dogs with poultry sensitivities may react — no turkey or beef alternative in this line"
+
 ---
 
 # Blue Dog Bakery Perfect Trainers Review: Are These Mini Treats Actually Worth the Hype?

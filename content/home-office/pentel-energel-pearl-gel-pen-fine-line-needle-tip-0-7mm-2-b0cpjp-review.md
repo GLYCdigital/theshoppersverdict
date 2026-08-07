@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel EnerGel Pearl Gel Pen, Fine Line, Needle Tip (0.7mm) "
 seo_title: "Pentel EnerGel Pearl Gel Pen, Fine Line, Needle Ti Review"
 meta_description: "Our full pentel energel pearl gel pen, fine line, needle tip (0.7mm)  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPJP9WPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lRjny+BfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Pen That Made Me Rethink Gel Ink

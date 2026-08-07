@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan With Probiotics, High Protein Dry Kitten Foo"
 seo_title: "Purina Pro Plan With Probiotics, High Protein Dry  Review"
 meta_description: "Our full purina pro plan with probiotics, high protein dry kitten foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07CX9VWTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mMBMIMRcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever raised a kitten, you know the first year is a nutritional sprint. Their bodies double in size, their brains wire up, and their digestive systems are still figuring out how to be digestive systems. That's exactly the window Purina Pro Plan's High Protein Kitten formula targets — and it does so with a 4.8-star average across 240 ratings. But is it the right food for your specific kitten? Let's dig past the marketing.

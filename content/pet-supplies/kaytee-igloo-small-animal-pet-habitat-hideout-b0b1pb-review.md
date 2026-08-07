@@ -1,4 +1,5 @@
 ---
+
 title: "Kaytee Igloo Small Animal Pet Habitat Hideout"
 seo_title: "Kaytee Igloo Small Animal Pet Habitat Hideout Review: Ver"
 meta_description: "Our full kaytee igloo small animal pet habitat hideout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B1PBZ7MV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717evf6GpyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Kaytee Igloo Small Animal Pet Habitat Hideout: The Classic Hideaway, Tested

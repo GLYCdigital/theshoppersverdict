@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic NEOM McLaren Extreme E Race Car, Off-Road Pull "
 seo_title: "LEGO Technic NEOM McLaren Extreme E Race Car, Off- Review"
 meta_description: "Our full lego technic neom mclaren extreme e race car, off-road pull  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGYN2Q8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lnFKZ3yAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEGO Technic NEOM McLaren Extreme E Race Car: A Mini Off-Road Beast Worth Your Shelf Space

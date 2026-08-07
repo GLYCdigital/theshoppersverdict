@@ -1,4 +1,5 @@
 ---
+
 title: "INJORA Coreless High Torque Micro Servo with Mount and Servo"
 seo_title: "INJORA Coreless Micro Servo Review: High Torque for RC Crawlers"
 meta_description: "INJORA Coreless High Torque Micro Servo review: Is this 7g servo worth it for 1/24 RC crawlers? Real torque, fitment, and durability tested."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5MBB2N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JZOKOQpJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine coreless motor delivers noticeably faster response and smoother centering than brushed micro servos in the same weight class"
   - "Aluminum servo mount included — eliminates the flex you get with stock plastic mounts on 1/24 crawlers"
   - "Weighs just 7 grams yet produces enough torque to turn larger tires without stalling on steep climbs"
-cons:
+cons: 
   - "The 150mm lead wire is short for some chassis layouts — you'll likely need an extension for SCX24 or TRX4M builds"
   - "Plastic gear train is the weak point; a hard rollover can strip teeth if you're running aggressive aftermarket wheels"
   - "Not waterproof — don't dunk it in creek crossings without conformal coating"
+
 ---
 
 Let's cut through the noise: the INJORA Coreless High Torque Micro Servo is the single most common upgrade path for 1/24-scale RC crawlers, and there's a reason for that. At 7 grams with a coreless motor, it's a genuine performance bump over the stock servos that ship in most Axial and Traxxas micro rigs — not a gimmick dressed up in anodized aluminum.

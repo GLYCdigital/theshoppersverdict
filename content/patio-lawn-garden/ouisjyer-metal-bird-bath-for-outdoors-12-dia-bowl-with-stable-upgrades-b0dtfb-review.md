@@ -1,7 +1,8 @@
 ---
-title: "OUISJYER Metal Bird Bath for Outdoors, 12\" Dia Bowl with Sta"
-seo_title: "OUISJYER Metal Bird Bath for Outdoors, 12\" Dia Bow Review"
-meta_description: "Our full ouisjyer metal bird bath for outdoors, 12\" dia bowl with sta review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "OUISJYER Metal Bird Bath for Outdoors, 12\ Dia Bowl with Sta"
+seo_title: "OUISJYER Metal Bird Bath for Outdoors, 12\ Dia Bow Review"
+meta_description: "Our full ouisjyer metal bird bath for outdoors, 12\ dia bowl with sta review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ouisjyer-metal-bird-bath-for-outdoors-12-dia-bowl-with-stable-upgrades-b0dtfb-review"
 image_alt: "OUISJYER Metal Bird Bath for Outdoors, 12 Dia Bowl with Stable Upgrades Stake Birdbaths Garden Yard Lawn Decor 0.7 Gallo"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTFB25V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YhJzB0YvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those flimsy $20 bird baths that tip over the first time a squirrel breathes on them. The OUISJYER Metal Bird Bath isn't that. With a 12-inch diameter bowl and a three-stake ground anchoring system, this one actually stays put—and at a 4.1-star average across 204 ratings, buyers mostly agree.

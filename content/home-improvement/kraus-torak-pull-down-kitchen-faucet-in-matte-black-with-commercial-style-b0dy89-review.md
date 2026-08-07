@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus Torak Pull Down Kitchen Faucet in Matte Black with Com"
 seo_title: "Kraus Torak Pull Down Kitchen Faucet in Matte Blac Review"
 meta_description: "Our full kraus torak pull down kitchen faucet in matte black with com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DY89L6BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617rzD0luZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kraus Torak looks like it was ripped out of a commercial kitchen and refined for your countertop. That spring coil, the industrial silhouette, the matte black finish — it's a statement piece. But statement pieces need to perform, and with 225 ratings averaging 4.5 stars, the Torak has receipts. Here's what I found digging through the specs, the customer feedback, and the real-world tradeoffs.

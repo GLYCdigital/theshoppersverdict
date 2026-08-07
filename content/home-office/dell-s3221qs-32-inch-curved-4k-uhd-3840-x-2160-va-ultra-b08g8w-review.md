@@ -1,4 +1,5 @@
 ---
+
 title: "Dell S3221QS 32 Inch Curved 4K UHD (3840 x 2160), VA Ultra-T"
 seo_title: "Dell S3221QS Review: 32 inch  Curved 4K Monitor Worth It?"
 meta_description: "Dell S3221QS 32-inch curved 4K monitor review: VA panel pros, HDR limits, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08G8WMRRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LP6483haL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1800R curvature on a 32-inch panel delivers genuine immersion without the distortion you get on ultrawides"
   - "Factory color calibration covers 99% sRGB — usable for photo editing straight out of the box"
   - "Dual HDMI 2.0 ports plus DisplayPort 1.2 make multi-device setups genuinely painless"
-cons:
+cons: 
   - "HDR is a marketing checkbox, not a feature — 350 nits peak brightness means HDR content looks washed out"
   - "VA panel ghosting is noticeable in fast-paced games; this is not a competitive gaming monitor"
   - "Stand only offers tilt adjustment — no height or swivel means you'll likely want a VESA arm"
+
 ---
 
 The 32-inch 4K monitor market is crowded, but the Dell S3221QS has carved out a loyal following. With 220 ratings averaging 4.4 stars, it's clearly doing something right. The question is whether its compromises — and there are a few — matter for how you actually work.

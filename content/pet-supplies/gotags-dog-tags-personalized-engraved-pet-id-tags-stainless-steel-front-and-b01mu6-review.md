@@ -1,4 +1,5 @@
 ---
+
 title: "GoTags Dog Tags Personalized Engraved Pet ID Tags, Stainless"
 seo_title: "GoTags Stainless Dog Tags Review: Durable, Clear Engraving"
 meta_description: "GoTags stainless dog tags review: durable 2-sided engraving that won't fade. See if this 4.6-star ID tag is worth it for your pup."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MU6L99T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IuT8sOV9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-sided deep engraving is legible and won't rub off — the text is actually cut into the stainless steel, not printed on the surface"
   - "Stainless steel construction resists rust, scratches, and the kind of wear that destroys cheap plated tags within months"
   - "Rounded edges and smooth finish mean no sharp corners snagging on your dog's fur or scratching your hands during petting"
-cons:
+cons: 
   - "The included split ring is thin and can bend open with rough play — plan to swap it for a heavier-duty ring or silicone sleeve"
   - "No size options — the fixed 1.25-inch round tag runs small for large breeds and can get lost in thick double coats"
+
 ---
 
 Your dog's ID tag is the last line of defense between a lost pet and a safe return. That's why the GoTags Stainless Steel Personalized Pet ID Tag has earned 229 ratings and a 4.6-star average on Amazon. But does it actually hold up to the chaos of daily dog life? I've dug through the details and buyer feedback to give you the honest breakdown before you spend.

@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Ceramic Nonstick Cookware Pots and Pans Set"
 seo_title: "GreenPan Ceramic Nonstick Cookware Pots and Pans S Review"
 meta_description: "Our full greenpan ceramic nonstick cookware pots and pans set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GPFNVHFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716McT6cy6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GreenPan Ceramic Nonstick Cookware Pots and Pans Set: The Non-Toxic Nonstick That Trades Longevity for Safety

@@ -1,4 +1,5 @@
 ---
+
 title: "Crawford's Garibaldi Biscuits 2 BOXES"
 seo_title: "Crawford's Garibaldi Biscuits Review: 2-Box Value (2026)"
 meta_description: "Honest Crawford's Garibaldi Biscuits 2-box review: currant-filled tea biscuits, texture, value, and who should buy. Real shopper verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08LF5BF27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kU7KsrORL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine British import with the authentic Crawford's recipe — not a knockoff"
   - "Two full boxes (roughly 400g total) for the price, which beats single-box import pricing"
   - "Sturdy, crumb-resistant construction that holds up to dunking without disintegrating"
-cons:
+cons: 
   - "At $26.08, you're paying a heavy import premium — these are budget biscuits in the UK"
   - "The currant filling is sparse in some biscuits; pieces can vary noticeably batch to batch"
   - "No resealable packaging — once opened, they go stale faster than sealed alternatives"
+
 ---
 
 Let's be direct: this is a review of Crawford's Garibaldi Biscuits, and I'm placing it in the coffee gear category because that's exactly where these belong — next to your mug. These aren't a kitchen gadget, but they're the best coffee accessory you didn't know you needed.

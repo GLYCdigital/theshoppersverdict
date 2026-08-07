@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Vanishing Point Metallics Collection Retractable Fount"
 seo_title: "Pilot Vanishing Point Metallics Collection Retract Review"
 meta_description: "Our full pilot vanishing point metallics collection retractable fount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00Z7EAY28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ma2LhJCML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wanted a fountain pen that behaves like a ballpoint — click, write, click, pocket — the Pilot Vanishing Point is the only mainstream option that does it right. And the Metallics Collection adds a brushed-metal finish that makes it feel like a precision tool rather than a fragile writing instrument.

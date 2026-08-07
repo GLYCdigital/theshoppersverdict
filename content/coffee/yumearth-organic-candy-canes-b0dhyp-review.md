@@ -1,4 +1,5 @@
 ---
+
 title: "YumEarth Organic Candy Canes"
 seo_title: "YumEarth Organic Candy Canes Review: Verdict | TSV"
 meta_description: "Our full yumearth organic candy canes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHYP9ZVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n03Fd6t5L._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tasted more candy canes than any reasonable adult should admit to. Most are either overly sweet sugar sticks or taste like someone bottled the idea of mint without ever meeting an actual peppermint plant. The YumEarth Organic Candy Canes are neither of those things — and that's exactly why they've earned 4.5 stars from 225 Amazon shoppers.

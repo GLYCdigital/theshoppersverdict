@@ -1,4 +1,5 @@
 ---
+
 title: "Razab 35 Pc Set Glass Food Storage Containers with Lids - Me"
 seo_title: "Razab 35 Pc Set Glass Food Storage Containers with Review"
 meta_description: "Our full razab 35 pc set glass food storage containers with lids - me review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G5BCT5SP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9123PhlHKcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Razab 35-piece set a bargain or a trap? I spent two weeks rotating these through meal prep, leftovers, and a few aggressive soup-carrying tests to find out.**

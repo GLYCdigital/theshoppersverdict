@@ -1,4 +1,5 @@
 ---
+
 title: "Milk Makeup KUSH Mascara â€“ Volumizing Mascara for Thicker,"
 seo_title: "Milk Makeup KUSH Mascara â€“ Volumizing Mascara fo Review"
 meta_description: "Our full milk makeup kush mascara â€“ volumizing mascara for thicker, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F9NB4P9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-yRAJGYbL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Milk Makeup KUSH Mascara – Volumizing Mascara for Thicker, Fuller, High-Volume Lashes**

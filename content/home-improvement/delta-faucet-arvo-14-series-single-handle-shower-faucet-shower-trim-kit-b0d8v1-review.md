@@ -1,5 +1,6 @@
 ---
 
+
 title: "DELTA FAUCET Arvo 14 Series Single-Handle Shower Faucet, Sho"
 seo_title: "Delta Arvo 14 Series Shower Faucet Review: Worth It?"
 meta_description: "Read our honest Delta Arvo 14 Series single-handle shower faucet review. Covers Diamond Seal tech, spray settings, and real buyer feedback before you buy."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8V1K5PR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Diamond Seal technology rated for 5 million cycles — no rubber washers to fail"
   - "Multi-spray hand shower with independent pause toggle on the wand itself"
   - "In2ition design lets you run showerhead and hand shower simultaneously for full coverage"
-cons:
+cons: 
   - "Trim kit only — you must buy the rough-in valve body separately, which adds $60-100 inch"
   - "Some buyers report the magnetic docking for the hand shower is finicky with water pressure"
+
 
 ---
 

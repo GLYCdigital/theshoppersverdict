@@ -1,4 +1,5 @@
 ---
+
 title: "Squish-a-longs Party Pack On-the-Go Playset - Series 1 - Thr"
 seo_title: "Squish-a-longs Party Pack On-the-Go Playset - Seri Review"
 meta_description: "Our full squish-a-longs party pack on-the-go playset - series 1 - thr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CMXZKSTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OHPFXUv8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a kid who's obsessed with squishies, you already know the struggle: they buy one, lose it in a week, and beg for another. The Squish-a-longs Party Pack tries to solve that with a carrying case that's actually part of the toy. It mostly works.

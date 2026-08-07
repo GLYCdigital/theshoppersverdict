@@ -1,4 +1,5 @@
 ---
+
 title: "Makita MAC210Q Quiet Series, 1 HP, 2 Gallon, Oil-Free, Elect"
 seo_title: "Makita MAC210Q Quiet Series, 1 HP, 2 Gallon, Oil-F Review"
 meta_description: "Our full makita mac210q quiet series, 1 hp, 2 gallon, oil-free, elect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B084GYHQFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y92S-3uQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever flinched when a contractor's compressor kicked on inside a finished home, you understand why the Makita MAC210Q exists. Standard pancake compressors hit 80–90 dB — that's approaching a lawnmower. This Makita hums along at roughly 60 dB, which is closer to a normal conversation. For trim carpenters, cabinet installers, and hobbyists working in occupied spaces, that difference is the entire reason to buy this unit.

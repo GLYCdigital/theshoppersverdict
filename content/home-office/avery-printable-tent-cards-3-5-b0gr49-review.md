@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Tent Cards, 3.5 inch "
 seo_title: "Avery Printable Tent Cards 3.5 Review: Worth It in 2026?"
 meta_description: "Honest Avery Printable Tent Cards 3.5 review: print quality, durability, real buyer feedback. Find out if these place cards fit your event needs."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GR4967YX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p0bCEjlJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, clean printing on both sides with no bleed-through, even on standard inkjet settings"
   - "Sturdy 110 lb cardstock that holds its fold and stands upright without curling at the edges"
   - "Free Avery Design & Print templates and 5160-compatible layout make setup genuinely fast"
-cons:
+cons: 
   - "More expensive per card than generic brands — you're paying for consistency, not volume"
   - "Pre-scored fold line can split if you're careless; you need to crease it slowly and firmly"
+
 ---
 
 Let’s cut to it: the Avery Printable Tent Cards, 3.5" are the boring, reliable workhorse of event stationery. They won’t excite you, but they’ll do exactly what you need — and do it well. After 240 Amazon ratings averaging 4.8 stars, the consensus is clear: these cards are a safe buy for anyone who needs professional-looking table names, place settings, or menu cards without hiring a printer.

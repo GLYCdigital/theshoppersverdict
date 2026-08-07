@@ -1,4 +1,5 @@
 ---
+
 title: "Tropical Parent"
 seo_title: "Tropical Parent Review: Verdict | TSV"
 meta_description: "Our full tropical parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FNGXFF73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q6RlsZBwL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Tropical Parent is not the coffee maker you'll brag about to your friends. It's not flashy, it doesn't have a grinder, and it won't make latte art. But here's the thing — at this price point, with 180 ratings sitting at 3.6 stars, it does the one job that matters most: making a full pot of hot coffee without drama.

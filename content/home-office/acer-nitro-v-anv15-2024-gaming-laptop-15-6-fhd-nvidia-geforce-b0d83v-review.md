@@ -1,4 +1,5 @@
 ---
+
 title: "acer Nitro V ANV15 2024 Gaming Laptop / 15.6 inch  FHD NVIDIA GeF"
 seo_title: "Acer Nitro V ANV15 2024 Review: Worth It? | Honest Verdict"
 meta_description: "Read our honest Acer Nitro V ANV15 2024 gaming laptop review. Performance, battery life, build quality, and who should buy it. Verdict: 3.7/5."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D83VLC2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JyxiKucCL._AC_SL1182_.jpg"
-pros:
+pros: 
   - "RTX 40-series GPU delivers genuinely solid 1080p gaming performance at this price point"
   - "Upgradeable RAM and dual M.2 SSD slots — rare in budget gaming laptops, easy access panel"
   - "Decent port selection including USB-C with DisplayPort, HDMI 2.1, and Gigabit Ethernet"
-cons:
+cons: 
   - "Battery life is genuinely poor — expect 3–4 hours of mixed use, less while gaming"
   - "Plastic build flexes noticeably on the keyboard deck; lid twists under light pressure"
   - "Fan noise under load is loud enough to be distracting without headphones"
+
 ---
 
 The Acer Nitro V ANV15 (2024) sits in the most crowded, most competitive slice of the gaming laptop market: the sub-$1,000 RTX 4060 tier. It's a segment where every manufacturer is chasing the same spec sheet, and the differences come down to execution. After digging through the specs, the 190+ Amazon ratings, and what owners actually say, here's the honest picture.

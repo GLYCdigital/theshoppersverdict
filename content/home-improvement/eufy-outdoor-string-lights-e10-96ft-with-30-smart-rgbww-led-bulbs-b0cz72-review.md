@@ -1,4 +1,5 @@
 ---
+
 title: "eufy Outdoor String Lights E10, 96ft with 30 Smart RGBWW LED"
 seo_title: "eufy Outdoor String Lights E10 Review: 96ft Smart RGBWW"
 meta_description: "eufy Outdoor String Lights E10 review: 96ft, 30 RGBWW LEDs, smart app control. Is this $100+ patio upgrade worth it? Real buyer feedback, pros, cons."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZ72YJF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rCo5fN9tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True RGBWW color range — 16 million colors plus tunable white from 2700K warm to 6500K cool, not the usual limited 5-color string light palette"
   - "96ft continuous run with 30 bulbs spaced 3ft apart — covers a full patio or pergola without daisy-chaining multiple sets"
   - "Siri, Alexa, and Google Home voice control plus eufy app scheduling; no separate hub required"
-cons:
+cons: 
   - "Bulbs are non-replaceable — when one fails, you're replacing the entire strand, not just a socket"
   - "At roughly 3ft spacing, the glow is more accent than floodlight; don't expect to read a book under these"
   - "eufy app requires account creation and Wi-Fi setup — a hurdle if you want plug-and-play dumb lights"
+
 ---
 
 # eufy Outdoor String Lights E10: The Smart Patio Upgrade That Actually Delivers

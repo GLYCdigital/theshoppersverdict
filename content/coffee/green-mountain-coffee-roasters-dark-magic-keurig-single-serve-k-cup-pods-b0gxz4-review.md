@@ -1,4 +1,5 @@
 ---
+
 title: "Green Mountain Coffee Roasters Dark Magic Keurig Single-Serv"
 seo_title: "Green Mountain Coffee Roasters Dark Magic Keurig S Review"
 meta_description: "Our full green mountain coffee roasters dark magic keurig single-serv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXZ4HHJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MJ+Xyg5QL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict on Green Mountain Dark Magic: A Solid Dark Roast That Plays It Safe**

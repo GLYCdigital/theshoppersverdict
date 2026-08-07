@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Filter Size O, 1712-0100-00 Compatible with Wini"
 seo_title: "Replacement Filter Size O, 1712-0100-00 Compatible Review"
 meta_description: "Our full replacement filter size o, 1712-0100-00 compatible with wini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09XHLM1X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/913rgjJVq0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Air purifiers are only as good as their filters, and if you've owned a Winix for more than a year, you know the replacement cost sneaks up on you. The Replacement Filter Size O (model 1712-0100-00) is the direct swap for Winix units like the A230 and several 5300-series models. After digging through the spec sheet and what 240+ buyers are saying, here's the real picture.

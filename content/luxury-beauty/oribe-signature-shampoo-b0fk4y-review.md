@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Signature Shampoo"
 seo_title: "Oribe Signature Shampoo Review: Verdict | TSV"
 meta_description: "Our full oribe signature shampoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FK4YZ8HP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $50 Shampoo Question: Is Oribe Actually Different?

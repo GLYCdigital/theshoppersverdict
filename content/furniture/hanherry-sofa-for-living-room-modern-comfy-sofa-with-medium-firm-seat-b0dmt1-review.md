@@ -1,4 +1,5 @@
 ---
+
 title: "Hanherry Sofa for Living Room, Modern Comfy Sofa with Medium"
 seo_title: "Hanherry Sofa Review: Modern Comfy Living Room Pick (2026)"
 meta_description: "Honest Hanherry sofa review: medium-firm comfort, modern style, easy assembly. See pros, cons, and who should buy this 4.3-star living room sofa."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMT11T31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91TzpGVt77L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Medium-firm seat cushions provide actual back support without the sink-in sag of cheaper foam builds"
   - "Compact 76-inch width fits apartments and narrow living rooms while still seating three adults comfortably"
   - "Stain-resistant polyester fabric holds up well against daily wear and is easy to vacuum clean"
-cons:
+cons: 
   - "No reclining mechanism or adjustable headrests — what you see is the seating position you get"
   - "Assembly requires two people; the backrest sections need precise alignment that's frustrating solo"
+
 ---
 
 ## The $400 question: Can a mid-priced sofa actually feel good?

@@ -1,4 +1,5 @@
 ---
+
 title: "KES Shower Faucet, XB6305-Parent0817"
 seo_title: "KES Shower Faucet, XB6305-Parent0817 Review: Verdict | TS"
 meta_description: "Our full kes shower faucet, xb6305-parent0817 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CG553MCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91otNwYPezL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # KES Shower Faucet XB6305 Review: Solid Hardware, Frustrating Controls

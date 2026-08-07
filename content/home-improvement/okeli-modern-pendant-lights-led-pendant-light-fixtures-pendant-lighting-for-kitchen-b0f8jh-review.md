@@ -1,4 +1,5 @@
 ---
+
 title: "OKELI Modern Pendant Lights LED Pendant Light Fixtures Penda"
 seo_title: "OKELI Modern Pendant Lights LED Pendant Light Fixt Review"
 meta_description: "Our full okeli modern pendant lights led pendant light fixtures penda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F8JHJWM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YqBcXgifL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some pendant lights scream for attention with oversized shades and dangling chains. The OKELI Modern Pendant Light goes the opposite direction — it's a slim, understated disc that hovers just below your ceiling. And honestly, that restraint is exactly why it works in so many spaces.

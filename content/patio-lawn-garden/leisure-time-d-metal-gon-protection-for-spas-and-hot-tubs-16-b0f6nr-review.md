@@ -1,4 +1,5 @@
 ---
+
 title: "Leisure Time D Metal Gon Protection for Spas and Hot Tubs, 1"
 seo_title: "Leisure Time D Metal Gon Protection for Spas and H Review"
 meta_description: "Our full leisure time d metal gon protection for spas and hot tubs, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F6NRQSF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51eYicgeOdL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If your spa water turns green, brown, or leaves rust-colored rings around the shell, this is the bottle you've been missing.**

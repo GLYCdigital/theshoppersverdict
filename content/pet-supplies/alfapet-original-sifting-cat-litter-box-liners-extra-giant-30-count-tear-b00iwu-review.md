@@ -1,4 +1,5 @@
 ---
+
 title: "Alfapet Original Sifting Cat Litter Box Liners - Extra Giant"
 seo_title: "Alfapet Sifting Cat Litter Box Liners Review (2026)"
 meta_description: "Honest Alfapet Original Sifting Cat Litter Box Liners review: Do they really save scoop time? We break down durability, fit, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00IWUB36A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iSIvskM2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sifting holes are properly sized — clumps lift out cleanly while clean litter falls through, cutting scoop time roughly in half"
   - "Extra Giant size fits most standard 20-25 inch litter boxes without sagging or bunching at the corners"
   - "Thicker plastic than typical grocery-store liners; resists tearing from claws and repeated lifting"
-cons:
+cons: 
   - "Must pair with clumping litter — non-clumping litter falls straight through the perforations and makes a mess"
   - "Sifting works best with a dedicated second empty box; the 'shake-and-lift' method gets messy if you try to do it over the same box"
+
 ---
 
 If you've ever wrestled a torn liner while holding your breath and a scoop, the Alfapet Original Sifting Liner promises a different approach. Instead of a flat plastic sheet that just protects the box, this is a perforated basket that separates clumps from clean litter as you lift it. At 4.2 stars across 210 ratings, it's not perfect — but for the right setup, it genuinely reworks your daily chore.

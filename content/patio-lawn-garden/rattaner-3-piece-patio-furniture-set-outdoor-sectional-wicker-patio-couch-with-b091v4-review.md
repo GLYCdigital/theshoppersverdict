@@ -1,4 +1,5 @@
 ---
+
 title: "Rattaner 3-Piece Patio Furniture Set - Outdoor Sectional Wic"
 seo_title: "Rattaner 3-Piece Patio Furniture Set - Outdoor Sec Review"
 meta_description: "Our full rattaner 3-piece patio furniture set - outdoor sectional wic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B091V4WBR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91vh3yXrRuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you 20 minutes of scrolling through 215 reviews. The Rattaner 3-Piece Patio Set sells for a mid-range price that makes it a serious contender if you want the look of a custom sectional without the $2,000 custom price tag. But it's not perfect, and here's what you need to know before you click buy.

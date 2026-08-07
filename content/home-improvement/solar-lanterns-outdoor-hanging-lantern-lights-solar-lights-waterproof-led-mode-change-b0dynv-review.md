@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns Outdoor Hanging Lantern Lights Solar Lights W"
 seo_title: "Solar Lanterns Outdoor Hanging Lantern Lights Sola Review"
 meta_description: "Our full solar lanterns outdoor hanging lantern lights solar lights w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYNVRSH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816E5wUtiOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've browsed solar lanterns on Amazon, you've seen a hundred versions of the same product: a plastic shell, a tiny panel, and promises of "8–12 hours of light." Most of them die by November. These don't. The 4.6-star average across 229 ratings isn't inflated — this is one of the few solar lanterns that actually earns its keep.

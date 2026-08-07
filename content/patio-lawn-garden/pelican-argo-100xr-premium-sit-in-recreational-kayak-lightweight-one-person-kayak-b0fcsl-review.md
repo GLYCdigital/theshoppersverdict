@@ -1,4 +1,5 @@
 ---
+
 title: "Pelican Argo 100XR - Premium Sit-in Recreational Kayak - Lig"
 seo_title: "Pelican Argo 100XR - Premium Sit-in Recreational K Review"
 meta_description: "Our full pelican argo 100xr - premium sit-in recreational kayak - lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCSLN698/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z5GDxJqLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 9-foot kayak market is crowded with flimsy, tippy bathtubs that make you regret every dollar spent. The Pelican Argo 100XR isn't one of them — but it's not without compromises. After digging through 229 ratings and the spec sheet, here's the real story for anyone eyeing this sit-in.

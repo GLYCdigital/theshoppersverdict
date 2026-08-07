@@ -1,4 +1,5 @@
 ---
+
 title: "Double Boiler Pot Set, Melting Pot with Large Serving Spoon"
 seo_title: "Double Boiler Pot Set Review: Melting Pot + Spoon (2026)"
 meta_description: "Honest review of the Double Boiler Pot Set with Large Serving Spoon. Tested for butter, chocolate & cheese. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B8YY3K8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VqVjOJIeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tempered glass lid fits snugly, letting you monitor melting progress without lifting and losing heat"
   - "Large serving spoon included actually fits the pot — no more fishing spoons out of melted chocolate"
   - "Cool-touch handles stay comfortable even with boiling water in the bottom pot"
-cons:
+cons: 
   - "No pour spout, so transferring melted chocolate to molds requires a separate measuring cup or careful pouring"
   - "Stainless steel exterior shows fingerprints and water spots quickly — plan on hand-washing and immediate drying"
+
 ---
 
 If you've ever scorched a batch of chocolate in the microwave or burned butter in a skillet, you already know why a dedicated double boiler earns its place in the drawer. This set — a two-piece melting pot with a large serving spoon — tackles a specific job and does it well. At 4.6 stars across 229 ratings, it's clearly earning its keep in real kitchens. Let's break down what you're actually getting.

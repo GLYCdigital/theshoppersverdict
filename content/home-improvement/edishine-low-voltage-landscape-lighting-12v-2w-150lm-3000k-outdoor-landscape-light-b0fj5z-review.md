@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Low Voltage Landscape Lighting, 12V 2W 150LM 3000K"
 seo_title: "EDISHINE Low Voltage Landscape Lighting Review: 12V 2W 150LM"
 meta_description: "EDISHINE 12V 2W landscape lights deliver warm 3000K glow at 150LM. Read our honest review of build, beam spread, and installation before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ5ZBHJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91C5OLKJ3+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aluminum housing with sealed lenses that survive real weather, not just marketing claims"
   - "True 3000K warm white — no harsh blue cast common in budget landscape lights"
   - "Low 2W draw per fixture means you can run 10+ lights on a standard 100W transformer"
-cons:
+cons: 
   - "Each light is sold individually, so a full pathway setup gets pricey fast"
   - "No stake height adjustment — fixtures sit fixed at roughly 6 inches above grade"
+
 ---
 
 ## Small Fixture, Serious Presence

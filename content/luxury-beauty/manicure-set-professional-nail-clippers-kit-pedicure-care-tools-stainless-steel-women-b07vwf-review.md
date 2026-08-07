@@ -1,4 +1,5 @@
 ---
+
 title: "Manicure Set Professional Nail Clippers Kit Pedicure Care To"
 seo_title: "Manicure Set Professional Nail Clippers Kit Pedicu Review"
 meta_description: "Our full manicure set professional nail clippers kit pedicure care to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VWFMSHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hFASafpkL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this just another overpriced nail kit, or the last one you'll buy?

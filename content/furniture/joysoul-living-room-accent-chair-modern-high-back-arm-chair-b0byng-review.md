@@ -1,4 +1,5 @@
 ---
+
 title: "Joysoul Living Room Accent Chair Modern High Back Arm Chair"
 seo_title: "Joysoul Living Room Accent Chair Modern High Back  Review"
 meta_description: "Our full joysoul living room accent chair modern high back arm chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYNGTJKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U+rlqa+pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about accent chairs: most under $200 are disposable. The Joysoul Living Room Accent Chair is trying to be the exception, and for the most part, it pulls it off. With a 4.4-star average across 220 ratings, this isn't a hidden gem — it's a chair people are actually living with. Here's what that's really like.

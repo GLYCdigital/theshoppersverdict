@@ -1,4 +1,5 @@
 ---
+
 title: "Texas Instruments TI-30X IIS 2-Line Scientific Calculator"
 seo_title: "Texas Instruments TI-30X IIS 2-Line Scientific Cal Review"
 meta_description: "Our full texas instruments ti-30x iis 2-line scientific calculator review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07VYN99KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e9OwRlTuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Texas Instruments TI-30X IIS 2-Line Scientific Calculator** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

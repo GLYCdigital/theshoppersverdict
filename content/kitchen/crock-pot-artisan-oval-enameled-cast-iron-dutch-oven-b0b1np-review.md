@@ -1,4 +1,5 @@
 ---
+
 title: "Crock-Pot Artisan Oval Enameled Cast Iron Dutch Oven"
 seo_title: "Crock-Pot Artisan Dutch Oven Review: Worth It? (2026)"
 meta_description: "Crock-Pot Artisan Oval Dutch Oven review: 6.5-qt enameled cast iron performance, durability, and value. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B1NPD7FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QM+ozoIwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge cast iron with smooth, chip-resistant enamel interior that browns evenly and releases food cleanly"
   - "Oval 6.5-qt capacity fits whole chickens and large roasts that round Dutch ovens can't handle"
   - "Oven-safe to 500°F with stainless steel knob — works on all stovetops including induction"
-cons:
+cons: 
   - "At roughly 13 pounds empty, it's genuinely heavy — awkward for one-handed pouring or cabinet storage"
   - "Light-colored enamel interior shows staining from turmeric, tomato sauce, and seared meat; requires Bar Keepers Friend to keep pristine"
   - "Lid fit isn't perfectly airtight — some steam escapes during long braises, so you may need to add liquid mid-cook"
+
 ---
 
 The Le Creuset and Staub names carry serious price tags — often $300 to $400 for a 6-quart round oven. The Crock-Pot Artisan Oval undercuts them dramatically while promising the same enameled cast iron experience. After digging through 235 verified ratings and testing the build specs, here's the honest picture for shoppers who want Dutch oven performance without the boutique markup.

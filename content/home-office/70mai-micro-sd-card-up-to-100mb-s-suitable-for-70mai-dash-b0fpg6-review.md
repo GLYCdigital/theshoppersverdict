@@ -1,4 +1,5 @@
 ---
+
 title: "70mai Micro SD Card, Up to 100MB/s, Suitable for 70mai Dash"
 seo_title: "70mai Micro SD Card Review: 100MB/s for Dash Cams"
 meta_description: "70mai Micro SD Card review: 100MB/s speed, dash cam compatibility, durability. Real pros, cons, and verdict for shoppers."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPG6YDVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Iv6yBrIjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rated for continuous dash cam recording with high endurance design"
   - "Class 10/U3/V30 speed ratings handle 4K and 1080p loops without dropouts"
   - "Backed by a 3-year warranty from a known dash cam brand"
-cons:
+cons: 
   - "Write speeds cap at 100MB/s; not the fastest card for heavy file transfers"
   - "No adapter included for full-size SD slots"
+
 ---
 
 A dash cam is only as reliable as the card inside it. A cheap card that throttles or corrupts will cost you the one clip you actually needed. The 70mai Micro SD Card is engineered specifically for that workload, and with a 4.6-star average across 229 ratings, it's clearly doing something right. Let's dig into whether it deserves a slot in your dash cam.

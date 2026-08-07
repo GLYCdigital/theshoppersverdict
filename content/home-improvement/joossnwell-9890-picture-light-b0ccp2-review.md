@@ -1,4 +1,5 @@
 ---
+
 title: "Joossnwell 9890 Picture Lightâ€¦"
 seo_title: "Joossnwell 9890 Picture Lightâ€¦ Review: Verdict | TSV"
 meta_description: "Our full joossnwell 9890 picture lightâ€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCP2XD1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TOuB3j6BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to light a painting with a clamp-on desk lamp or a ceiling spot that casts shadows, you know the struggle. The Joossnwell 9890 Picture Light (model B0CCP2XD1Q) is a rechargeable, wireless art light that promises museum-quality illumination without running cables or hiring an electrician. At 4.5 stars across 225 ratings, it's clearly doing something right. But is it the right light for your space? Let's break it down.

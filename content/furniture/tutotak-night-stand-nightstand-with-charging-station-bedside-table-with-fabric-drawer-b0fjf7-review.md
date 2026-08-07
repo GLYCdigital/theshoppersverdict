@@ -1,4 +1,5 @@
 ---
+
 title: "TUTOTAK Night Stand, Nightstand with Charging Station, Bedsi"
 seo_title: "TUTOTAK Night Stand, Nightstand with Charging Stat Review"
 meta_description: "Our full tutotak night stand, nightstand with charging station, bedsi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJF72D4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+i3uKFY6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Nightstand That Actually Earns Its Spot Next to Your Bed

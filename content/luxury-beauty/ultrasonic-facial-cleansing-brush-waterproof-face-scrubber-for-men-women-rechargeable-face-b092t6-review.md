@@ -1,4 +1,5 @@
 ---
+
 title: "Ultrasonic Facial Cleansing Brush - Waterproof Face Scrubber"
 seo_title: "Ultrasonic Facial Cleansing Brush - Waterproof Fac Review"
 meta_description: "Our full ultrasonic facial cleansing brush - waterproof face scrubber review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B092T6HTVD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SHLGcZWSL._SL1430_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ultrasonic Facial Cleansing Brush: The $30 Spa Facial That Actually Works

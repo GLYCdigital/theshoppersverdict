@@ -1,4 +1,5 @@
 ---
+
 title: "20 Pack Mini Body Lotion Gift Bulk for Dry Skin,Travel Size"
 seo_title: "20 Pack Mini Body Lotion Review: Travel Size Bulk Buy"
 meta_description: "Honest review of the 20-pack mini body lotion gift bulk for dry skin. Is this travel-size value pack worth it? Real pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZP7FT7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A-HJvY0hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each 2-ounce bottle clears TSA carry-on limits, making this genuinely useful for frequent flyers rather than just decorative"
   - "The unscented formula uses shea butter and glycerin as primary humectants — not just filler ingredients you'd find in cheap hotel toiletries"
   - "Price per ounce undercuts most drugstore travel lotions by roughly 30-40%, assuming you need the full 20-pack quantity"
-cons:
+cons: 
   - "No flip-top cap — you get screw-off lids that are easy to lose in a packed toiletry bag mid-flight"
   - "The lotion is thinner than premium body butters; it absorbs fast but won't deliver that heavy-duty overnight repair for severely cracked winter skin"
+
 ---
 
 Let's cut through the noise: a 20-pack of anything sounds like a warehouse clearance gimmick. But this mini body lotion set actually earns its place in your cart — provided you're the right buyer. With a 4.6-star average across 229 ratings, it's not just another bulk novelty. Here's the real breakdown.

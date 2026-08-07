@@ -1,4 +1,5 @@
 ---
+
 title: "Xbox Qau Xbox X,S,One,Win 10,11,Android,Ios Gamepad Bluetoot"
 seo_title: "Xbox Qau Xbox X,S,One,Win 10,11,Android,Ios Gamepa Review"
 meta_description: "Our full xbox qau xbox x,s,one,win 10,11,android,ios gamepad bluetoot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7P41X12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41PELpQwHAL._SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 Controller That Actually Does Everything — Almost

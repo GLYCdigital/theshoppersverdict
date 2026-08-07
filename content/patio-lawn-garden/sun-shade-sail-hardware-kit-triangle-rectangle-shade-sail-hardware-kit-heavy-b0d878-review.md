@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Shade Sail Hardware Kit: Triangle Rectangle Shade Sail H"
 seo_title: "Sun Shade Sail Hardware Kit: Triangle Rectangle Sh Review"
 meta_description: "Our full sun shade sail hardware kit: triangle rectangle shade sail h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D878XGVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819FtIW7hfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The problem with most shade sail hardware kits is that they're flimsy. You hang a sail, the wind hits it, and within a month the bracket bends, the screw strips, or the whole thing sags like a wet towel. That's not the case with this kit — and at 4.6 stars from 229 ratings, buyers seem to agree.

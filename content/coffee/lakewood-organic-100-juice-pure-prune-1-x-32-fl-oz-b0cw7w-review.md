@@ -1,4 +1,5 @@
 ---
+
 title: "Lakewood Organic 100% Juice Pure Prune (1 X 32 FL OZ)"
 seo_title: "Lakewood Organic 100% Juice Pure Prune (1 X 32 FL  Review"
 meta_description: "Our full lakewood organic 100% juice pure prune (1 x 32 fl oz) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW7W14FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zyvraq08L._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut straight to it: if you're buying prune juice, you're not browsing for the fun of it. You want results. Lakewood Organic Pure Prune Juice delivers those results — but you need to know what you're signing up for before you commit to that 32 oz bottle.

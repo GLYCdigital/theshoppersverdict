@@ -1,4 +1,5 @@
 ---
+
 title: "Play-Doh Barbie Fashionista Ruffles Set, Make Doll Clothes w"
 seo_title: "Play-Doh Barbie Fashionista Ruffles Set, Make Doll Review"
 meta_description: "Our full play-doh barbie fashionista ruffles set, make doll clothes w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNTVNMS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Eyxzw1aOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: kids' toys that promise "make your own clothes" usually deliver sticky messes and disappointment. The Play-Doh Barbie Fashionista Ruffles Set is the exception — mostly. At 4.6 stars across 229 ratings, it's clearly resonating with families, but it has quirks you should know before buying.

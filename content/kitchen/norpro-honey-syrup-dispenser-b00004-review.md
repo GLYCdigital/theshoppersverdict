@@ -1,4 +1,5 @@
 ---
+
 title: "Norpro Honey/Syrup Dispenser"
 seo_title: "Norpro Honey/Syrup Dispenser Review: Verdict | TSV"
 meta_description: "Our full norpro honey/syrup dispenser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B00004UE7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iW01FV4QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Norpro Honey/Syrup Dispenser is the kind of product you buy once and forget about—until you drop it.**

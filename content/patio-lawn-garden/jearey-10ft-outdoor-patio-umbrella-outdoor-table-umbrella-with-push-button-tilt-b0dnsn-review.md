@@ -1,4 +1,5 @@
 ---
+
 title: "JEAREY 10FT Outdoor Patio Umbrella Outdoor Table Umbrella wi"
 seo_title: "JEAREY 10FT Outdoor Patio Umbrella Outdoor Table U Review"
 meta_description: "Our full jearey 10ft outdoor patio umbrella outdoor table umbrella wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DNSN2315/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sXr5s7Z9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the guesswork: the JEAREY 10FT outdoor umbrella is a solid mid-tier option that covers a lot of table for the money — but it's not the last umbrella you'll ever buy. Here's what 215 buyers at 4.3 stars are actually saying, and what they're not.

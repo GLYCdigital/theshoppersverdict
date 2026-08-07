@@ -1,4 +1,5 @@
 ---
+
 title: "EZARC Countersink Drill Bit Set"
 seo_title: "EZARC Countersink Drill Bit Set Review: Pro-Grade Results"
 meta_description: "EZARC countersink drill bit set review: 3-bit set with hex shanks, carbide tips, and depth stops. Tested for wood, drywall, and soft metals. Real pros and cons."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FP2KKFDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jmu4AwSeL._SL1500_.jpg"
-pros:
+pros: 
   - "Three sizes (8mm, 10mm, 12mm) with pilot drill bits included — covers #8 through #14 screws without buying extra pieces"
   - Hex shanks lock into any 3/8 inch " or 1/2 inch " drill chuck without slippage, even at high torque
   - "Adjustable depth stop rings with hex keys give repeatable countersink depth, critical for production work"
-cons:
+cons: 
   - "Depth stop rings can slip if you overtighten the set screw — use a light touch or they mar the bit shank"
   - Carbide tips are excellent on hardwood but chatter noticeably on thin sheet metal under 1/16 inch " thick
+
 ---
 
 If you've ever driven a wood screw flush only to split the face of a cabinet door, you already know the frustration that this EZARC set eliminates. Countersinking is one of those steps that separates "good enough" from "looks professional," and this three-bit kit from EZARC is aimed squarely at the latter category. With a 4.5-star average across 225 ratings, it's clearly earning its keep in workshops — but let's dig into whether it deserves a spot in yours.

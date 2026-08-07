@@ -1,4 +1,5 @@
 ---
+
 title: "IRONCK Tall Narrow Bookshelf 8 Tiers 71in Set of 2, Compact "
 seo_title: "IRONCK Tall Narrow Bookshelf 8 Tiers 71in Set of 2 Review"
 meta_description: "Our full ironck tall narrow bookshelf 8 tiers 71in set of 2, compact  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDQ8CB6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qW3Jhc+YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Is the IRONCK 8-Tier Narrow Bookshelf Worth Your Floor Space?

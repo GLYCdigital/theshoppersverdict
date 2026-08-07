@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Drill/Driver Premium 5.0Ah Kit"
 seo_title: "DEWALT Drill/Driver 5.0Ah Kit Review: Worth It? (2026)"
 meta_description: "DEWALT Drill/Driver Premium 5.0Ah Kit review: Real torque tests, battery life, and durability. See if this 4.7-star kit earns your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G949LJQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JEE1PNdrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two genuine 5.0Ah batteries deliver sustained runtime for full-day framing or cabinet work"
   - "Brushless motor punches above its class with real torque at 2,000 RPM — not a toy"
   - "Compact 6.3-inch head length fits between studs and inside tight cabinet boxes"
-cons:
+cons: 
   - "No impact driver included — you'll need a separate tool for long deck screws"
   - "Kit ships in a soft bag, not a hard case; protection on job sites is limited"
   - "Batteries add weight — noticeably heavier than 2.0Ah compact options"
+
 ---
 
 # DEWALT Drill/Driver Premium 5.0Ah Kit: The Workhorse That Earns Its Keep

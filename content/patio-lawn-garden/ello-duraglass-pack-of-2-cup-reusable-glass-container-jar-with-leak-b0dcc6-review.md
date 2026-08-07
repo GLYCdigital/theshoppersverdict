@@ -1,4 +1,5 @@
 ---
+
 title: "Ello Duraglass 2-Pack 2-Cup Glass Container Jar Review"
 seo_title: "Ello Duraglass 2-Pack 2-Cup Jar Review: Leak-Proof & Durable"
 meta_description: "Our Ello Duraglass 2-pack 2-cup glass jar review covers leak-proof performance, borosilicate durability, and real buyer feedback. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCC6F3G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O4Q0KzR1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Borosilicate glass handles thermal shock — goes from fridge to microwave without cracking"
   - "Leak-resistant lid with silicone gasket actually holds up to sideways transport in a lunch bag"
   - "True 2-cup capacity (473ml) with clear measurement markings that don't fade after dishwasher cycles"
-cons:
+cons: 
   - "Lids are not fully airtight for long-term liquid storage — minor seepage reported after 24+ hours upside down"
   - "Glass is heavier than plastic alternatives at roughly 14oz per filled jar, noticeable in packed lunches"
+
 ---
 
 ## Is This Just Another Glass Jar, or Something Better?

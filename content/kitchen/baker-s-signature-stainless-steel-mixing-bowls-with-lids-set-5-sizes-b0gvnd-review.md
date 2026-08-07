@@ -1,4 +1,5 @@
 ---
+
 title: "Baker's Signature Stainless Steel Mixing Bowls with Lids Set"
 seo_title: "Baker's Signature Mixing Bowls Review: 5 Sizes w/ Lids"
 meta_description: "Baker's Signature mixing bowls with lids review: 5 sizes, leakproof seals, nesting design. See if this $35 set beats premium brands."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GVNDFDPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YfVGeJdfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-gauge 18/10 stainless steel resists denting and won't react with acidic ingredients like tomato or citrus"
   - "Four tight-sealing lids (1.5qt and 2.5qt share a lid) actually lock — no more plastic wrap wrestling"
   - "Nesting design with stainless rims saves an entire cabinet shelf versus traditional nesting bowls"
-cons:
+cons: 
   - "No pour spout or handle on the largest 5-quart bowl — awkward when transferring batter one-handed"
   - "Silicone gasket on lids requires hand washing; dishwasher heat warps the seal over time"
+
 ---
 
 **The $35 Bowl Set That Makes You Question Why You Paid $80 for the Other Brand**

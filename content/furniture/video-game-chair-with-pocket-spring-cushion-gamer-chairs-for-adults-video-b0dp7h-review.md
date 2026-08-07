@@ -1,4 +1,5 @@
 ---
+
 title: "Video Game Chair with Pocket Spring Cushion,Gamer Chairs for"
 seo_title: "Video Game Chair with Pocket Spring Cushion,Gamer  Review"
 meta_description: "Our full video game chair with pocket spring cushion,gamer chairs for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP7HHDYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uUq4ZkSTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most gaming chairs under $200 are variations on the same uncomfortable theme: a slab of foam on a wobbly base that promises "racing style" but delivers back pain by hour two. This pocket spring model from the generic-brand shelf actually tries something different. After digging through 225 ratings and the product specs, here's the real story on whether it earns your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Reusable K Cups for Keurig | Refillable K cups"
 seo_title: "Reusable K Cups for Keurig | Refillable K cups Review: Ve"
 meta_description: "Our full reusable k cups for keurig | refillable k cups review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BCYQQR5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YYxAoOLjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re still buying single-use K-Cups every week, this reusable filter pays for itself in under a month. But it’s not a magic bullet — it demands a little effort and the right grind. Here’s the real deal after 204 ratings and my own bench-testing.

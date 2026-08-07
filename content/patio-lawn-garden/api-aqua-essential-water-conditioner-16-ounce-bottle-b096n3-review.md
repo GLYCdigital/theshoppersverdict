@@ -1,4 +1,5 @@
 ---
+
 title: "API AQUA ESSENTIAL Water Conditioner 16 ounce bottle"
 seo_title: "API AQUA ESSENTIAL Water Conditioner Review (16 oz)"
 meta_description: "API AQUA ESSENTIAL Water Conditioner 16 oz: Does it neutralize chlorine and heavy metals? Read our honest review, pros, cons, and buying verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096N3K99J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/61Fc5j62RXS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated formula treats up to 12,800 gallons — a single 16 oz bottle goes far beyond typical hobbyist needs"
   - "Neutralizes chlorine, chloramine, and heavy metals in one step, eliminating the need for multiple additives"
   - "Works instantly on contact; fish and plants can be added immediately without waiting periods"
-cons:
+cons: 
   - "Splash-top cap pours aggressively — easy to overdo it if you're not using a measuring syringe"
   - "No aloe vera or stress-coat additives, so it won't help heal damaged fins or slime coat"
+
 ---
 
 Let's be clear about what this product actually is: API AQUA ESSENTIAL is a straightforward water conditioner that removes chlorine, chloramine, and heavy metals from tap water. That's its job, and it does it well. But given the 4.7-star rating across 235 reviews, let's dig into whether it deserves a spot in your water-change routine.

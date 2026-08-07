@@ -1,4 +1,5 @@
 ---
+
 title: "BriSunshine 21.5 QT Stainless Steel Canning Pot with Lid, Ra"
 seo_title: "BriSunshine 21.5 QT Canning Pot Review: Worth It?"
 meta_description: "BriSunshine 21.5 QT stainless steel canning pot review: capacity, heat distribution, rack quality, and durability. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJC519LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fci-7T+CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 21.5-quart capacity fits 7 quart jars or 14 pint jars simultaneously — no awkward second batches"
   - "Tri-ply encapsulated base with aluminum core heats evenly across the bottom, eliminating scorch spots on jam"
   - "Includes a stainless steel canning rack with ergonomic lift handles that actually stay cool during processing"
-cons:
+cons: 
   - "Glass lid is not tempered — handle it gently or it can crack from thermal shock"
   - "No interior volume markings — you'll need a separate measuring tool for water levels"
   - "Stainless exterior shows water spots and fingerprints quickly; expect to polish after every use"
+
 ---
 
 Look, I've tested more canning pots than I care to count, and most of them fall into two camps: cheap aluminum thin-wall disasters that scorch your jam, or $200 commercial-grade monsters that require a restaurant budget. The BriSunshine 21.5 QT lands somewhere refreshingly sensible in between. Here's what 235 buyers and my own testing tell me about whether it deserves a spot on your stove.

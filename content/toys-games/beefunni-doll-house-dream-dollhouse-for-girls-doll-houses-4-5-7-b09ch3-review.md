@@ -1,4 +1,5 @@
 ---
+
 title: "beefunni Doll House, Dream Dollhouse for Girls,Doll Houses 4 inch"
 seo_title: "beefunni Doll House Review: Worth It? (2026)"
 meta_description: "Honest beefunni Doll House review: 3-story dream dollhouse with 12 rooms. See real pros, cons, and who should buy it before spending your money."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09CH3YPSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81of-jU8o3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three stories with 12 rooms — genuinely spacious layout that fits multiple kids playing together"
   - "Includes 20+ pieces of furniture and accessories, so you're not buying add-ons immediately"
   - "Sturdy engineered wood construction holds up to daily play better than flimsy plastic alternatives"
-cons:
+cons: 
   - "Assembly is genuinely tedious — expect 60-90 minutes with small screws and confusing pictogram instructions"
   - "Furniture pieces are smaller than expected and some accessories feel cheaply made"
   - "Staircase is narrow; larger dolls (Barbie-sized) won't fit through properly"
+
 ---
 
 # beefunni Doll House Review: The 3-Story Dream House That Tests Your Patience

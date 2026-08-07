@@ -1,7 +1,8 @@
 ---
-title: "Lenovo Yoga 7i 2-in-1 Laptop, 16\" 2K Touchscreen, Core Ultra"
-seo_title: "Lenovo Yoga 7i 2-in-1 Laptop, 16\" 2K Touchscreen,  Review"
-meta_description: "Our full lenovo yoga 7i 2-in-1 laptop, 16\" 2k touchscreen, core ultra review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo Yoga 7i 2-in-1 Laptop, 16\ 2K Touchscreen, Core Ultra"
+seo_title: "Lenovo Yoga 7i 2-in-1 Laptop, 16\ 2K Touchscreen,  Review"
+meta_description: "Our full lenovo yoga 7i 2-in-1 laptop, 16\ 2k touchscreen, core ultra review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-yoga-7i-2-in-1-laptop-16-2k-touchscreen-core-ultra-b0df4g-review"
 image_alt: "Lenovo Yoga 7i 2-in-1 Laptop, 16 2K Touchscreen, Core Ultra 5 125U (Beats i7-1355U), 300 nits, Backlit, TB4, HDMI 2.1, F"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DF4GVFCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-RC5FyCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lenovo Yoga 7i 16-inch is the rare 2-in-1 that doesn't force you to choose between a big, beautiful screen and a convertible form factor. With a 16" 2K touch panel and Intel's Core Ultra 7 155H processor, it's aimed squarely at professionals who want one device for spreadsheets, sketching, and Netflix. But at 4.2 stars across 210 Amazon ratings, it's not without compromises. Here's what you need to know before buying.

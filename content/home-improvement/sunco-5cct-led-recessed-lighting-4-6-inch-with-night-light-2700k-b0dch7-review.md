@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco 5CCT LED Recessed Lighting 4 & 6 Inch with Night Light"
 seo_title: "Sunco 5CCT LED Recessed Lighting 4 & 6 Inch with N Review"
 meta_description: "Our full sunco 5cct led recessed lighting 4 & 6 inch with night light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCH7ZDRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j8yoO4pIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the lighting aisle staring at boxes of 2700K, 3000K, and 4000K bulbs wondering which one won't make your kitchen look like a morgue or a surgery suite, the Sunco 5CCT recessed lights are designed for you. These 4-inch and 6-inch fixtures pack five color temperatures into one unit, plus a night light mode that's genuinely useful rather than a gimmick. With a 4.6-star average across 229 ratings, they're clearly doing something right. But there are a few things you need to know before you cut holes in your ceiling.

@@ -1,4 +1,5 @@
 ---
+
 title: "Vice Pro Golf Balls"
 seo_title: "Vice Pro Golf Balls Review: Verdict | TSV"
 meta_description: "Our full vice pro golf balls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWKP18VL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UsLtWvp3L._AC_SL1124_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Vice has spent years positioning itself as the "smart golfer's tour ball" — direct-to-consumer pricing, no retail markup, and specs that stack up against the $50-per-dozen premium options. The Vice Pro is the brand's flagship three-piece urethane offering, and at a street price that typically lands 30-40% below Titleist's premium line, it deserves a hard look from anyone who refuses to lose a $5 ball every other hole.

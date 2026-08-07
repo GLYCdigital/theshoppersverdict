@@ -1,4 +1,5 @@
 ---
+
 title: "TDLOL Outdoor String Lights Waterproof, Patio Lights with Sh"
 seo_title: "TDLOL Outdoor String Lights Waterproof, Patio Ligh Review"
 meta_description: "Our full tdlol outdoor string lights waterproof, patio lights with sh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBDGZV6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AGm0BqdLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap set of string lights die after one rainy season, you know the drill: corroded sockets, cracked bulbs, and a tangled mess of dead wire. The TDLOL Outdoor String Lights are built specifically to avoid that fate. With a 4.6-star average across 229 ratings, these aren't just another disposable patio light — they're engineered for the long haul.

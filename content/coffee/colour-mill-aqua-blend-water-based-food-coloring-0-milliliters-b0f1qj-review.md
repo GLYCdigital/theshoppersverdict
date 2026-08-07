@@ -1,4 +1,5 @@
 ---
+
 title: "Colour Mill Aqua Blend Water-Based Food Coloring, 0 Millilit"
 seo_title: "Colour Mill Aqua Blend Food Coloring Review: Worth It?"
 meta_description: "Colour Mill Aqua Blend food coloring review: water-based, 0 mL size, 3.8/5 rating. Is it worth your money? Pros, cons, and honest verdict."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F1QJJGSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710CYw08zrL._SL1080_.jpg"
-pros:
+pros: 
   - "Vibrant, concentrated pigment — a few drops go a long way in batters and frostings"
   - "Water-based formula won't affect the taste of baked goods or coffee drinks"
   - "Works well for tinting coffee creamers, latte art foam, and baked goods"
-cons:
+cons: 
   - "0 mL size listed is confusing — likely a listing error, actual bottle is small at 30 mL"
   - "Water-based colors can fade or bleed in high-fat or high-moisture applications"
   - "Not heat-stable — colors dull significantly when baked above 350°F"
+
 ---
 
 Here's the thing about a food coloring product listed as "0 Millilit" — you're immediately suspicious. And that suspicion isn't entirely misplaced. But once you get past the odd listing, the Colour Mill Aqua Blend is a genuinely interesting product for a specific type of home baker or coffee enthusiast. Let me break down what you're actually getting.

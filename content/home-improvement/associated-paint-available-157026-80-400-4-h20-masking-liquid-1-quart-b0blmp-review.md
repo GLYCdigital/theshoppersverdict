@@ -1,4 +1,5 @@
 ---
+
 title: "ASSOCIATED Paint Available 157026 80-400-4 H20 Masking Liqui"
 seo_title: "ASSOCIATED 157026 H20 Masking Liquid Review: Does It Work?"
 meta_description: "Honest ASSOCIATED 157026 H20 Masking Liquid review. We tested coverage, removal, and durability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLMP8TP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Y0oN9V-RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Water-based formula means no harsh solvent fumes — safe for indoor use and sensitive surfaces"
   - "Covers cleanly in one coat on most substrates, saving time versus two-coat competitors"
   - "Peels away in large, intact sheets rather than crumbling into bits — faster cleanup"
-cons:
+cons: 
   - "Dries to a light green tint that's subtle enough to miss under poor lighting — you may over-apply"
   - "Not ideal for high-heat applications like spray booth ovens — the film can bake on"
+
 ---
 
 # ASSOCIATED Paint Available 157026 H20 Masking Liquid Review: A Water-Based Masking Solution That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "Café Valet COFFEE"
 seo_title: "Café Valet COFFEE Review: Worth It in 2026?"
 meta_description: "Café Valet COFFEE review: 4.4-star rated coffee gear. We tested performance, build, and value. See who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX8XPMCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YrObZr6eL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent brew temperature across multiple cycles — no cold-cup surprises"
   - "Compact footprint fits under standard upper cabinets without tilting"
   - "Carafe pours clean with a drip-free lip, even at a full 10-cup capacity"
-cons:
+cons: 
   - "Water reservoir is opaque — you can't see fill level without opening the lid"
   - "No auto-shutoff timer for the warming plate; you must remember to turn it off"
+
 ---
 
 **The Short Version:** If you want a no-nonsense coffee maker that nails the basics without a parade of smart features you'll never use, the Café Valet COFFEE earns its keep. It's not flashy, but it's consistent — and that matters more than bells and whistles.

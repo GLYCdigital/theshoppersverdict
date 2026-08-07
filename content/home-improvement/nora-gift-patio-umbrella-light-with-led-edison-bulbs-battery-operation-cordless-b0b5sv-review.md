@@ -1,4 +1,5 @@
 ---
+
 title: "NoraÂ·Gift Patio Umbrella Light with LED Edison Bulbs, Batte"
 seo_title: "NoraÂ·Gift Patio Umbrella Light with LED Edison Bu Review"
 meta_description: "Our full noraâ·gift patio umbrella light with led edison bulbs, batte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B5SVJ96V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w6bwEwIXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever squinted at a patio dinner after sunset, you know the drill: string lights that tangle, candles that gutter in the wind, or a bulky extension cord snaking across the deck. The Nora·Gift Patio Umbrella Light with LED Edison Bulbs sidesteps all three annoyances by clamping directly to your umbrella pole and running on batteries. But does it justify its 4.2-star rating? I've dug through 210 customer reviews and the specs to give you the straight answer.

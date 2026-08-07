@@ -1,4 +1,5 @@
 ---
+
 title: "Anova Culinary Sous Vide Precision Cooker 2.0 (WiFi), 1000 W"
 seo_title: "Anova Sous Vide Precision Cooker 2.0 Review: WiFi, 1000W"
 meta_description: "Anova Precision Cooker 2.0 WiFi review: 1000W immersion circulator with app control. Is it worth it? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07WQ4M5TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XLUEdTI4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1000W heating element brings a full pot of water up to temp in roughly 15 minutes — noticeably quicker than 800W models"
   - "WiFi connectivity with the Anova app actually works reliably — you can start dinner remotely or monitor from another room"
   - "The clamp mechanism is sturdy and fits thicker pots without slipping, unlike cheaper circulators"
-cons:
+cons: 
   - "The 2.0's WiFi app requires a 2.4GHz network — it won't connect to 5GHz-only routers, which is a headache for some users"
   - "The detachable stainless steel sleeve is a pain to clean thoroughly — water gets trapped between the sleeve and the heating coil"
   - "No built-in timer display on the unit itself when not connected to the app — you're dependent on your phone for anything beyond basic temperature"
+
 ---
 
 If you've been sous-vide-curious, the Anova Precision Cooker 2.0 is likely on your radar — and for good reason. This 1000W immersion circulator is one of the most popular entries into precision cooking, and it's earned a 4.6-star average across 229 Amazon ratings. But is it the right one for you, or are you better off with a cheaper model? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Leapfrog Mr. Pencil's Scribble and Write"
 seo_title: "Leapfrog Mr. Pencil's Scribble and Write Review: Verdict "
 meta_description: "Our full leapfrog mr. pencil's scribble and write review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSBBKK7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b1j12rDnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Leapfrog Mr. Pencil's Scribble and Write: The Preschool Tracing Toy That Actually Teaches

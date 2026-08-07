@@ -1,4 +1,5 @@
 ---
+
 title: "Carhartt Quick Duck Jac, Durable Water Resistant, Weather-pr"
 seo_title: "Carhartt Quick Duck Jac Review: Durable Dog Jacket (2026)"
 meta_description: "Carhartt Quick Duck Jac review: Is this durable, water-resistant dog jacket worth $40+? Real buyer feedback, sizing tips, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08MXSWX2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oeBqMeQoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "13-ounce cotton duck canvas is genuinely tough — resists brambles, fence snags, and rough play better than any soft-shell competitor"
   - "Articulated leg straps and chest gusset allow full range of motion; dogs can run, jump, and squat without the jacket bunching up"
   - "Quilted fleece lining adds real warmth without bulk — works as a standalone in 30-45°F or layers under a sweater for deep winter"
-cons:
+cons: 
   - "Sizing runs small and the neck opening is snug; measure your dog's chest and neck carefully — many buyers report needing to size up one full size"
   - "Duck canvas is stiff out of the box and requires a break-in period of 1-2 weeks before it drapes naturally"
+
 ---
 
 **The Carhartt Quick Duck Jac is the Carhartt of dog jackets — literally.** Same 13-ounce duck canvas, same triple-stitched seams, same no-nonsense attitude. But is that heritage worth it for your dog? After digging through 225 ratings and buyer feedback, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Once Upon a Farm Berry Bundle Organic Kids' Snack Pouch Mult"
 seo_title: "Once Upon a Farm Berry Bundle Organic Kids' Snack  Review"
 meta_description: "Our full once upon a farm berry bundle organic kids' snack pouch mult review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDLY48SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A6rC7urDL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The cold-pressed pouch that actually tastes like fruit — not sugar water**

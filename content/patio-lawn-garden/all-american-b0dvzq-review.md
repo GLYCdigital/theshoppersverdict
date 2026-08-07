@@ -1,4 +1,5 @@
 ---
+
 title: "All American"
 seo_title: "All American Review: Is This Patio Gear Worth It? (2026)"
 meta_description: "Honest All American review: 4.6★ rated patio gear. Real pros, cons, and buyer feedback to help you decide before purchasing."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVZQ1RS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810qkCSni1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel frame with powder-coated finish resists rust through multiple seasons of outdoor exposure"
   - "Tool-free assembly takes under 10 minutes — no wrenches, no frustration, no leftover screws"
   - "Folds flat to 4 inches for easy garage or shed storage when not in use"
-cons:
+cons: 
   - "At 42 pounds, it's not something you'll want to move around the yard frequently"
   - "The green finish shows minor scuffs after heavy use — cosmetic only, but noticeable up close"
+
 ---
 
 **The Short Version**

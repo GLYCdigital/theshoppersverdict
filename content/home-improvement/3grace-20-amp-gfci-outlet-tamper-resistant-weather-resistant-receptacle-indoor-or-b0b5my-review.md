@@ -1,4 +1,5 @@
 ---
+
 title: "3GRACE 20 Amp GFCI Outlet, Tamper-Resistant, Weather Resista"
 seo_title: "3GRACE 20 Amp GFCI Outlet Review: TR Weather Resistant"
 meta_description: "3GRACE 20 Amp GFCI outlet review: tamper-resistant, weather-resistant receptacle. Tested for indoor/outdoor use, fit, and reliability. Read before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B5MY7KG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZI92GCKKL._SL1500_.jpg"
-pros:
+pros: 
   - "20-amp capacity handles heavy loads like space heaters and power tools without tripping nuisance breakers"
   - "True weather-resistant (WR) construction with corrosion-resistant plating — not just a marketing label"
   - "Self-test function runs automatic diagnostics every few seconds, catching ground-fault issues before they become dangerous"
-cons:
+cons: 
   - "Slightly bulkier than standard GFCI outlets — can be tight in shallow electrical boxes"
   - "No indicator light showing which outlet is protected downstream, unlike some competitors"
   - "Screws are Phillips-only; no combo head for those who prefer a flathead driver"
+
 ---
 
 If you're replacing a standard outlet in a garage, workshop, or outdoor location, the 3GRACE 20 Amp GFCI is the kind of upgrade you install once and forget about — which is exactly what you want from safety hardware. With a 4.4-star average across 220 ratings, it's clearly earning its keep in real homes. Here's the breakdown.

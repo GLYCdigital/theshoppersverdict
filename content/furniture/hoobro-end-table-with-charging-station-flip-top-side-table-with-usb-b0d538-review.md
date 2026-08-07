@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO End Table with Charging Station, Flip Top Side Table "
 seo_title: "HOOBRO End Table with Charging Station, Flip Top S Review"
 meta_description: "Our full hoobro end table with charging station, flip top side table  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D538C2Q9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717gzuasHLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hoobro Flip-Top End Table: A Smart Space-Saver With a Catch or Two**

@@ -1,4 +1,5 @@
 ---
+
 title: "TV Cat Scratcher Cardboard Lounge Bed, Cat Scratching Board,"
 seo_title: "TV Cat Scratcher Cardboard Lounge Bed, Cat Scratch Review"
 meta_description: "Our full tv cat scratcher cardboard lounge bed, cat scratching board, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09C16GK24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uugXYsFOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cat furniture: most of it is ugly, overpriced, or both. The TV Cat Scratcher Cardboard Lounge Bed sidesteps that trap entirely. It's a simple concept — a curved piece of dense corrugated cardboard that functions as both a scratching post and a lounging spot — but the execution matters. At a 4.6-star average across 229 ratings, this thing has clearly earned its place in living rooms. Let's break down whether it deserves space in yours.

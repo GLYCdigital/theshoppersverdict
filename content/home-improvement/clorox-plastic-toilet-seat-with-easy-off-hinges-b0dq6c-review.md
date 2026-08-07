@@ -1,4 +1,5 @@
 ---
+
 title: "Clorox Plastic Toilet Seat with Easy-Off Hinges"
 seo_title: "Clorox Plastic Toilet Seat Review: Easy-Off Hinges Tested"
 meta_description: "Clorox Plastic Toilet Seat with Easy-Off Hinges review: 4.4-star rated. Is the quick-release hinge worth it? Durability, fit, and cleaning tested."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ6CY53V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P3W58Y6pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy-Off hinge release mechanism genuinely works — seat lifts off in seconds without tools for deep cleaning"
   - "Durable polypropylene plastic resists staining and holds color well even with bleach-based cleaners"
   - "Adjustable stainless steel hinges fit both standard and elongated bowls with secure, wobble-free mounting"
-cons:
+cons: 
   - "Plastic construction feels lighter and less premium than wood or molded fiberglass options"
   - "Hinge release buttons can be stiff initially and require firm pressure, especially for older users"
   - "No slow-close feature on base model — lid drops if you let go"
+
 ---
 
 Let's be honest about toilet seats: nobody gets excited to buy one. You buy a new seat because the old one is cracked, stained, or wobbling so badly it feels like a carnival ride. The Clorox Plastic Toilet Seat with Easy-Off Hinges (model B0DQ6CY53V on Amazon) is aimed squarely at that moment of necessity — and for the most part, it delivers exactly what it promises.

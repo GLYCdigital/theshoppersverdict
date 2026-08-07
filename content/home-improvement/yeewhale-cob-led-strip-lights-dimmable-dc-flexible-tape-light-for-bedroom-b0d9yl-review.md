@@ -1,4 +1,5 @@
 ---
+
 title: "Yeewhale COB LED Strip Lights Dimmable DC Flexible Tape Ligh"
 seo_title: "Yeewhale COB LED Strip Lights Dimmable DC Flexible Review"
 meta_description: "Our full yeewhale cob led strip lights dimmable dc flexible tape ligh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9YLLDWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TeoO76F2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

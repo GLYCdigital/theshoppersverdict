@@ -1,4 +1,5 @@
 ---
+
 title: "Five Star Loose Leaf Paper + Study App, Notebook Paper, Grap"
 seo_title: "Five Star Loose Leaf Paper + Study App, Notebook P Review"
 meta_description: "Our full five star loose leaf paper + study app, notebook paper, grap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK7WT2LQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MVW6vRBGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another pack of graph paper, or does the "Study App" actually change how you take notes?** After 240+ five-star ratings and weeks of real-world testing, I can tell you: the Five Star Loose Leaf Paper + Study App is more than a gimmick, but it's not for everyone.

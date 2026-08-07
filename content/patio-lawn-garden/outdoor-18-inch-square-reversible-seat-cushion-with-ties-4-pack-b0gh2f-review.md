@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor 18-inch Square Reversible Seat Cushion with Ties, 4-"
 seo_title: "Outdoor 18-inch Square Reversible Seat Cushion wit Review"
 meta_description: "Our full outdoor 18-inch square reversible seat cushion with ties, 4- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GH2F37YP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8142B-oe28L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced outdoor seat cushions lately, you know a decent 18-inch square set usually runs $30–$50 per cushion. This 4-pack undercuts that significantly — but does the savings show up in the build? After digging through 235 ratings and the spec sheet, here's the real story.

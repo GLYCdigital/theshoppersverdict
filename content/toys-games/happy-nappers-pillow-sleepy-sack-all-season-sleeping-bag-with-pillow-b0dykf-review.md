@@ -1,4 +1,5 @@
 ---
+
 title: "Happy Nappers Pillow & Sleepy Sack All Season, Sleeping Bag"
 seo_title: "Happy Nappers Sleepy Sack Review: Pillow + Bag Combo"
 meta_description: "Honest Happy Nappers Pillow & Sleepy Sack review: cozy all-season sleeping bag with attached pillow. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYKFCL7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mozilla.org/images/I/61ptNPuIaCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Attached pillow stays put all night — no pillow fights or lost cushions"
   - "All-season weight works for sleepovers, camping, and nap time without overheating"
   - "Zipper runs smooth and is easy for even 4-year-olds to manage independently"
-cons:
+cons: 
   - "No fill insulation — thin fabric means cold basements or winter camping need extra layers"
   - "Pillow is flatter than expected; kids used to fluffy pillows may want a second one"
+
 ---
 
 If you've ever wrestled a wiggly 5-year-old into a sleeping bag at 9 PM, you know the struggle: half the night they're tangled, the pillow's migrated across the tent, and the zipper's jammed. The Happy Nappers Pillow & Sleepy Sack All Season aims to kill those headaches with a simple premise — a sleeping bag with the pillow built right in. After digging through 225 ratings and the design specs, here's the real story.

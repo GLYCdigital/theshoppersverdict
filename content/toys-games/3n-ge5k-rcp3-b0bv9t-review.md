@@ -1,4 +1,5 @@
 ---
+
 title: "3N-GE5K-RCP3 inch"
 seo_title: "3N-GE5K-RCP3 Review: Is This Toy Worth It? (2026)"
 meta_description: "Honest 3N-GE5K-RCP3 review: Build quality, gameplay, and real buyer feedback. See pros, cons, and who should buy this 4.6-star toy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BV9TY2G1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61omBrle6RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Durable ABS plastic construction that survives drops from table height without cracking"
   - "Tool-free assembly takes under 90 seconds — no tiny screws or lost parts"
   - "Battery compartment uses a standard Phillips head, not proprietary tools"
-cons:
+cons: 
   - "Instructions are picture-only with no text — some parents found the setup steps ambiguous"
   - "Small parts (under 1 inch) present a choking hazard for children under 3"
+
 ---
 
 Let me cut through the noise here. The 3N-GE5K-RCP3 has earned a solid 4.6 out of 5 from 229 verified buyers, and after digging through the feedback and specs, I can tell you exactly why—and where it stumbles.

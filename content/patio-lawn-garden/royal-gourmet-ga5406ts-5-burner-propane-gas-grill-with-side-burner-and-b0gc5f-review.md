@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Gourmet GA5406TS 5 Burner Propane Gas Grill with Side "
 seo_title: "Royal Gourmet GA5406TS 5 Burner Propane Gas Grill  Review"
 meta_description: "Our full royal gourmet ga5406ts 5 burner propane gas grill with side  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GC5FL5MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cs36JW9CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Royal Gourmet GA5406TS 5 Burner Gas Grill: Big Output, Real Tradeoffs

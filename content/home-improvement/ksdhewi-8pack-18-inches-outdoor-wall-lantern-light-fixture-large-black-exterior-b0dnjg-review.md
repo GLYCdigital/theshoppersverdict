@@ -1,4 +1,5 @@
 ---
+
 title: "KsDhewi 8pack 18 inches Outdoor Wall Lantern Light Fixture, "
 seo_title: "KsDhewi 8pack 18 inches Outdoor Wall Lantern Light Review"
 meta_description: "Our full ksdhewi 8pack 18 inches outdoor wall lantern light fixture,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNJGXX3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Adv1yO8eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a long porch, a row of garage doors, or a modern farmhouse exterior, the KsDhewi 8-pack of 18-inch wall lanterns is one of the smartest bulk buys you'll find. At 4.6 stars from 229 ratings, this isn't a flash-in-the-pan product — it's a workhorse fixture that solves a real problem: lighting multiple exterior zones without paying boutique prices per unit.

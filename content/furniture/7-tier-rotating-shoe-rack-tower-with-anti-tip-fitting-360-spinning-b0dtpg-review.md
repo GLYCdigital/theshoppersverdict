@@ -1,4 +1,5 @@
 ---
+
 title: "7-Tier Rotating Shoe Rack Tower with Anti-tip Fitting, 360 S"
 seo_title: "7-Tier Rotating Shoe Rack Tower Review: 360° Spin, Anti-Tip"
 meta_description: "Honest 7-Tier Rotating Shoe Rack Tower review: 360° spin access, anti-tip fitting, and real capacity. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTPGF4HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KEUiqwB9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "360° rotation makes every shelf fully accessible — no more digging through a dark closet stack"
   - "Anti-tip fitting included and genuinely functional; stabilizes even when loaded unevenly"
   - "7 tiers hold roughly 14-21 pairs depending on shoe size; footprint smaller than a standard shoe bench"
-cons:
+cons: 
   - "Assembly requires patience — the poles and tier connectors take 30-45 minutes and need a second person for the top sections"
   - "Tall boots and men's size 13+ shoes won't fit on the shelves; max clearance is about 5 inches per tier"
+
 ---
 
 Let's be honest about shoe storage: it's either a pile by the door, a stuffed closet floor, or an overpriced wooden cabinet that holds half of what you need. The 7-Tier Rotating Shoe Rack Tower tries to solve all three problems with a spinning, vertical design. After digging through the specs, customer feedback, and the 4.3-star average across 215 ratings, here's the real story.

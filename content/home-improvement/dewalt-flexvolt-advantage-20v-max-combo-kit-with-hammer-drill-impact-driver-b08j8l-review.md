@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT FLEXVOLT ADVANTAGE 20V MAX* Combo Kit with Hammer Dri"
 seo_title: "DEWALT FLEXVOLT ADVANTAGE 20V MAX Combo Kit Review (2026)"
 meta_description: "DEWALT FLEXVOLT ADVANTAGE 20V MAX combo kit review: hammer drill & impact driver tested. Real performance data, battery life, and value verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08J8L766B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aIHQZSCRs._AC_SL1000_.jpg"
-pros:
+pros: 
   - "FLEXVOLT ADVANTAGE tech delivers 20% more power when paired with 60V/120V FlexVolt batteries"
   - "DCD805 hammer drill hits 460 unit watts out — genuinely outperforms older DCD791/796 models"
   - "Compact 5.3-inch head length on both tools — fits into tight stud bays and cabinet interiors"
-cons:
+cons: 
   - "Kit ships with 20V batteries only — you won't unlock the FLEXVOLT power boost without buying 60V packs separately"
   - "No charger included in some configurations — double-check the kit contents before ordering"
   - "Tool bag is a soft case, not the tough TSTAK hard case DEWALT used to bundle"
+
 ---
 
 The FLEXVOLT ADVANTAGE name sounds like marketing jargon. It's not. This DEWALT combo kit — pairing the DCD805 hammer drill with the DCF887 impact driver — is the rare case where the headline feature actually changes how the tools perform. But there's a catch in the box, and you need to know it before you buy.

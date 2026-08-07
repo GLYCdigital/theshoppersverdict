@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Dry Shampoo, Tropical Fragrance, Refresh Hair and Ab"
 seo_title: "Batiste Dry Shampoo Tropical Review: Fresh Hair in Minutes"
 meta_description: "Honest Batiste Dry Shampoo Tropical review: Does it beat oily roots? Tested for absorption, scent strength, and white residue. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BW28T957/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jobf6N7NL._SL1500_.jpg"
-pros:
+pros: 
   - "Tropical scent is genuinely pleasant — not the usual chemical aerosol smell; lingers subtly for hours without being cloying"
   - "Absorbs oil at the roots fast; visible lift and texture within 60 seconds of working it through"
   - "Price-per-use is excellent for a 6.7 oz canister — roughly 15-20 applications per can depending on hair thickness"
-cons:
+cons: 
   - "White residue is noticeable on darker hair tones if you overspray — you must brush thoroughly or it shows at the part line"
   - "Aerosol propellant smell is strong for the first 10-15 seconds after spraying; sensitive noses may want to spray from farther away"
   - "Does not provide the same volume boost on fine, stick-straight hair as it does on wavy or textured hair — manage expectations"
+
 ---
 
 Let's be real: dry shampoo is either a lifesaver or a chalky disappointment. Batiste's Tropical version sits firmly in the first camp, and with 229 ratings averaging 4.6 stars, it's earned its spot in the hair-care hall of fame. But before you add it to your cart, here's what you actually need to know.

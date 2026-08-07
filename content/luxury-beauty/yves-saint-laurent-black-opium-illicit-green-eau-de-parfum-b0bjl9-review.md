@@ -1,4 +1,5 @@
 ---
+
 title: "Yves Saint Laurent - Black Opium Illicit Green Eau de Parfum"
 seo_title: "Yves Saint Laurent - Black Opium Illicit Green Eau Review"
 meta_description: "Our full yves saint laurent - black opium illicit green eau de parfum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJL9YLVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s4T96uDlL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Green Detour That Actually Works**

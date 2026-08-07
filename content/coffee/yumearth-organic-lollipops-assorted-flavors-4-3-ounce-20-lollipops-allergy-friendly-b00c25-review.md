@@ -1,4 +1,5 @@
 ---
+
 title: "YumEarth Organic Lollipops, Assorted Flavors, 4.3 Ounce, 20 "
 seo_title: "YumEarth Organic Lollipops, Assorted Flavors, 4.3  Review"
 meta_description: "Our full yumearth organic lollipops, assorted flavors, 4.3 ounce, 20  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00C25LNXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qTi6tceDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this actually a good lollipop, or just a "safe" one?** That's the question most shoppers ask when they see the YumEarth bag sitting next to the Dum Dums and Tootsie Pops. The short answer: yes, these are genuinely good. But they're not the same experience as a sugar-bomb candy, and you should know that before you buy.

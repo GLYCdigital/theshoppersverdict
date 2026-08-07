@@ -1,4 +1,5 @@
 ---
+
 title: "Squatz Adjustable Dumbbell Set 70-140LB Adjustable Dumbbells"
 seo_title: "Squatz Adjustable Dumbbell Set 70-140LB Adjustable Review"
 meta_description: "Our full squatz adjustable dumbbell set 70-140lb adjustable dumbbells review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GD26G2J1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RFMumx6RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve priced out a full dumbbell rack from 70 to 140 pounds lately, you know the pain: that’s easily $1,500+ and a garage full of iron. The Squatz Adjustable Dumbbell Set promises to collapse that entire range into two handles and a stack of plates. At 4.0 stars from 200 ratings, it’s not perfect — but here’s the real story on whether it earns a spot in your home gym.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wonderskin Mascara - Black Mascara for Volume, Length, and C"
 seo_title: "Wonderskin Mascara - Black Mascara for Volume, Len Review"
 meta_description: "Our full wonderskin mascara - black mascara for volume, length, and c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09GBLSWLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZUx7vfL6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict at a Glance:** Wonderskin's mascara positions itself as a high-performance volumizer, and for the most part, it delivers. But "for the most part" is doing a lot of work in that sentence.

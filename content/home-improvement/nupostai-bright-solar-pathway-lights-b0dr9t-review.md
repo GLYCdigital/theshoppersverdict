@@ -1,4 +1,5 @@
 ---
+
 title: "Nupostai Bright Solar Pathway Lights"
 seo_title: "Nupostai Bright Solar Pathway Lights Review: Verdict | TS"
 meta_description: "Our full nupostai bright solar pathway lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DR9TZMTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PN0KkJZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are these the last solar path lights you'll buy? Probably not — but they're close.

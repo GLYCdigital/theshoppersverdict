@@ -1,4 +1,5 @@
 ---
+
 title: "All Pro Passer Robotic Quarterback"
 seo_title: "All Pro Passer Robotic Quarterback Review: Worth It?"
 meta_description: "Honest All Pro Passer Robotic Quarterback review: accuracy, build quality, setup, and whether this football tosser delivers real reps or just frustration."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B09T2JCZYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714yCGSFwCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Adjustable throw distance and arc settings let you dial in everything from short slants to deep bombs"
   - "Runs on a rechargeable battery — no cord tangling or hunting for outlets mid-session"
   - "Sturdy tripod base holds firm on grass, so it won't tip over on uneven backyard terrain"
-cons:
+cons: 
   - "Ball feed jams occasionally, especially with slightly deflated or worn footballs"
   - "No remote control — you're walking back to the unit to change settings every time"
   - "Setup takes 15–20 minutes out of the box; instructions are minimal and diagram-only"
+
 ---
 
 Let me be upfront: a 3.7-star average on Amazon with 185 ratings tells you this robotic quarterback is a mixed bag. It's not a gimmick — it genuinely throws spiral passes on command — but it's also not the plug-and-play training tool the marketing photos suggest. Here's what you actually need to know before spending your money.

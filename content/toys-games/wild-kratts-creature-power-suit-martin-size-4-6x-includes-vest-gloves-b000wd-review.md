@@ -1,4 +1,5 @@
 ---
+
 title: "Wild Kratts Creature Power Suit -Martin (Size 4-6X) Includes"
 seo_title: "Wild Kratts Creature Power Suit -Martin (Size 4-6X Review"
 meta_description: "Our full wild kratts creature power suit -martin (size 4-6x) includes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000WDXD9A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91lgw4th97L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has watched even one episode of *Wild Kratts*, you already know the drill: the creature power suits are the whole fantasy. Martin’s version — a green vest with a circular "power core" and matching claw gloves — is the piece that turns a living room into the Amazon rainforest. At 4.5 stars across 225 ratings, it’s clearly delivering on that fantasy for most families. But is it worth the money for *your* kid? Here’s what I found.

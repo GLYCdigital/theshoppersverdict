@@ -1,4 +1,5 @@
 ---
+
 title: "LANDGOO LED Wall Sconce Human Body Induction Night Light"
 seo_title: "LANDGOO LED Wall Sconce Human Body Induction Night Review"
 meta_description: "Our full landgoo led wall sconce human body induction night light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FSTLXH8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Sn2Z+2crL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LANDGOO LED Wall Sconce** sits in an awkward middle ground: it's not a premium hardwired fixture, but it's several steps above the cheap stick-on puck lights that die after three weeks. With a 4.2-star average across 210 ratings, buyers are mostly satisfied — but the complaints that exist are worth knowing before you commit.

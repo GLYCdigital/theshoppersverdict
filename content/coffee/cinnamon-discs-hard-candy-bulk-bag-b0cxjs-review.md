@@ -1,4 +1,5 @@
 ---
+
 title: "Cinnamon Discs Hard Candy Bulk Bag"
 seo_title: "Cinnamon Discs Hard Candy Bulk Bag Review (2026)"
 meta_description: "Honest Cinnamon Discs Hard Candy Bulk Bag review: flavor, heat level, value, and crunch. See if this 4.5-star candy earns a spot in your pantry."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXJSGF4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819GvwiO6UL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cinnamon heat that builds, not just sugar with red food coloring"
   - "Individually wrapped discs stay fresh and don't stick together in the bag"
   - "Bulk sizing works for offices, cash-and-carry retail, or serious snacking"
-cons:
+cons: 
   - "Some batches arrive with broken or chipped discs due to shipping friction"
   - "Heat level may be too mild for those expecting red-hot intensity"
+
 ---
 
 Let’s be direct: most "cinnamon" hard candies are just sugar cubes with a whiff of spice and a lot of red dye. The Cinnamon Discs Hard Candy Bulk Bag isn't that. After digging through 225 ratings and customer feedback at a 4.5-star average, this earns its reputation as a legitimate cinnamon candy — not a novelty.

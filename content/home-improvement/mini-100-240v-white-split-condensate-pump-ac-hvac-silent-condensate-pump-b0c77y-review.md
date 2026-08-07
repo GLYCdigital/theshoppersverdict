@@ -1,4 +1,5 @@
 ---
+
 title: "Mini 100-240V White Split Condensate Pump, AC Hvac Silent Co"
 seo_title: "Mini 100-240V White Split Condensate Pump, AC Hvac Review"
 meta_description: "Our full mini 100-240v white split condensate pump, ac hvac silent co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C77YK5X4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IJBMDgnkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a mini-split drain line snake across a wall or drip into a bucket, you know the problem this pump solves. The **Mini 100-240V White Split Condensate Pump** is a small, self-contained unit that lifts condensation up and out — through the wall, into the attic, or wherever gravity won't cooperate. With a 4.3-star average across 215 ratings, it's clearly doing something right. The question is whether it's right for your specific install.

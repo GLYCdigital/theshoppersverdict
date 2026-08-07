@@ -1,4 +1,5 @@
 ---
+
 title: "Jean Lowe Noir by Maison Alhambra for Men - 3.4 oz EDP Spray"
 seo_title: "Jean Lowe Noir by Maison Alhambra for Men - 3.4 oz Review"
 meta_description: "Our full jean lowe noir by maison alhambra for men - 3.4 oz edp spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BGF9RG9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UyDYzE00L._SL1080_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The Opening: A Clone That Demands Attention

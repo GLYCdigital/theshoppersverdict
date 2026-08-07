@@ -1,4 +1,5 @@
 ---
+
 title: "Richwanone 14 inch Bed Frame with Headboard and Footboard, M"
 seo_title: "Richwanone 14 inch Bed Frame with Headboard and Fo Review"
 meta_description: "Our full richwanone 14 inch bed frame with headboard and footboard, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1MJBBGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dncM6ytrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need a box spring. That's the first thing to understand about the Richwanone 14-inch bed frame — and honestly, it's the reason most of the 225 shoppers who rated it 4.5 stars pulled the trigger. This is a metal platform frame with a headboard, footboard, and reinforced slats designed to hold your mattress directly. If you're tired of the sagging-box-spring shuffle, this is worth a serious look.

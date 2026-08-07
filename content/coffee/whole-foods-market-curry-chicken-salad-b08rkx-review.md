@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market Curry Chicken Salad"
 seo_title: "Whole Foods Market Curry Chicken Salad Review: Verdict | "
 meta_description: "Our full whole foods market curry chicken salad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08RKXVP9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QyYLgVsjL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be upfront: this isn't a coffee maker. But if you clicked expecting a gadget, you're not wrong to be here — because the Whole Foods Market Curry Chicken Salad has quietly become one of the most reliable grab-and-go lunches on Amazon Fresh. With 215 ratings averaging 4.3 stars, it's clearly doing something right. Here's the honest breakdown.

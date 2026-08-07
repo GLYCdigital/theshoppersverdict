@@ -1,4 +1,5 @@
 ---
+
 title: "AULIFE Cow top Leather Wooden Bar Stools, 360 Degree Swivel"
 seo_title: "AULIFE Cow Leather Bar Stools Review: Swivel & Style"
 meta_description: "Honest AULIFE cow leather wooden bar stool review: 360° swivel, solid build, real leather top. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C3KY8LZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iYzsKSJsL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine cowhide leather seat top that develops a rich patina — not bonded leather or vinyl"
   - "360-degree swivel mechanism runs on ball bearings, feels smooth even after months of daily use"
   - "Solid rubberwood legs with cross-bracing that actually prevents wobble on uneven floors"
-cons:
+cons: 
   - "Leather is natural hide — expect visible grain variations, scars, and color differences between stools"
   - "Footrest is fixed at one height; taller users (6'+) may find it slightly low"
   - "No floor protectors included — you'll need felt pads to avoid scratching hardwood"
+
 ---
 
 **AULIFE Cow Leather Wooden Bar Stools Review: Real Leather, Real Swivel, Real Value**

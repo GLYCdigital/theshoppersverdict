@@ -1,4 +1,5 @@
 ---
+
 title: "Rorence Whistling Tea Kettle: 2.5 Quart Stainless Steel Kett"
 seo_title: "Rorence Whistling Tea Kettle: 2.5 Quart Stainless  Review"
 meta_description: "Our full rorence whistling tea kettle: 2.5 quart stainless steel kett review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09JLLJBWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ma3HUggEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You can spend $80 on a designer kettle, or you can buy the Rorence Whistling Tea Kettle for a fraction of that and get 90% of the same experience. That's the short version. The longer version involves 2.5 quarts of capacity, a surprisingly loud whistle, and a few tradeoffs you should know about before you click buy.

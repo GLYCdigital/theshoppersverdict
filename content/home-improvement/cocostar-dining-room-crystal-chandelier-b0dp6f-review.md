@@ -1,4 +1,5 @@
 ---
+
 title: "COCOSTAR Dining Room Crystal Chandelier"
 seo_title: "COCOSTAR Crystal Chandelier Review: 4.6/5 Dining Light"
 meta_description: "Honest COCOSTAR dining room crystal chandelier review: build quality, brightness, installation ease, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP6FFVSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YTznKistL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real K9 crystal construction that delivers noticeable light dispersion and prismatic color — not cheap acrylic"
   - "Adjustable hanging height (fits 8-10 ft ceilings) with a 15.7-inch width that suits both 4-6 person dining tables"
   - "Gold finish is uniformly electroplated, not painted — holds up against tarnishing and fingerprints"
-cons:
+cons: 
   - "Crystals arrive in individual plastic wraps; expect 60-90 minutes of assembly before hanging"
   - "Heat sinks at the LED plate are visible from below if you use the included 3000K bulbs — slightly detracts from the crystal aesthetic"
+
 ---
 
 If you're shopping for a dining room chandelier under $200, you've likely cycled through dozens of listings that all blur together: same gold frame, same "crystal" description, same stock photo. The COCOSTAR Dining Room Crystal Chandelier stands apart for one concrete reason — it uses actual K9 crystal, not the polycarbonate or acrylic that dominates this price band. That distinction matters more than the 4.5-star average suggests.

@@ -1,16 +1,17 @@
 ---
+
 title: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers, 9-Inch"
 seo_title: "Klein Tools Lineman's Pliers Review: D213-9NE-CR Crimping Pliers (4.8/5)"
 meta_description: "Honest Klein Tools D213-9NE-CR Lineman's Pliers review based on 1,329 Amazon reviews. Made in USA, 46% more cutting power — are they worth $91?"
 slug: "klein-tools-linemans-crimping-pliers-d213-9ne-cr-review"
 image_alt: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers 9-Inch"
-keywords:
+keywords: 
   - "Klein Tools lineman pliers review"
   - "best crimping pliers"
   - "Klein D213-9NE-CR review"
   - "American made lineman pliers"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Are Klein Tools D213-9NE-CR pliers made in the USA?"
     answer: "Yes. These are manufactured in the USA with induction-hardened steel cutting knives for long tool life."
   - question: "What can the crimping die behind the hinge handle?"
@@ -23,16 +24,17 @@ review_count: 1329
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000CEMSLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31ygMI9KCdL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "46% more cutting power than standard pliers"
   - "Made in USA with induction-hardened steel"
   - "Smooth hot-riveted joint with zero wobble"
   - "Built-in crimping die and wire puller"
   - "Cross-hatched knurled jaws for secure grip"
-cons:
+cons: 
   - "Premium price at $91+"
   - "Specialized tool — overkill for basic DIY"
   - "Heavier than standard combination pliers"
+
 ---
 
 In the trades, you don't buy cheap tools twice. You buy good tools once, and Klein Tools has been the default answer for generations of electricians. The D213-9NE-CR Lineman's Pliers are a textbook example of why.

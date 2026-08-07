@@ -1,4 +1,5 @@
 ---
+
 title: "48 x 32 inches Large Rolling White Board, maxtek Reversible"
 seo_title: "Maxtek Reversible Rolling White Board Review (48x32)"
 meta_description: "Honest maxtek 48x32 rolling white board review: magnetic both sides, sturdy frame, real-world pros/cons. See if this mobile easel fits your workspace."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B096X6G13S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EqxlV8n1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided magnetic surface — two usable 48x32 writing areas in the footprint of one board"
   - "Locking casters on all four legs hold position firmly during active brainstorming sessions"
   - "Aluminum frame and 0.7-inch thick panel resist the wobble that plagues cheaper rolling boards"
-cons:
+cons: 
   - "Assembly takes 25-35 minutes and requires two people to safely attach the heavy panel"
   - "Tray is plastic and slightly shallow — standard markers fit, but bulky erasers can tip it"
   - "No pad-clamp or paper-roll holder included, limiting flip-chart use without extra hardware"
+
 ---
 
 If your team is still clustering around a wall-mounted board that you can't turn, you're losing time. The maxtek 48x32 rolling whiteboard solves that specific problem — and it does it with a double-sided twist that effectively doubles your writing surface without doubling your floor space.

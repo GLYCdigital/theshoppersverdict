@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Mini Garlic Chopper, Food Chopper Garlic Mincer USB"
 seo_title: "Electric Mini Garlic Chopper Review: USB Mincer Worth It?"
 meta_description: "Electric Mini Garlic Chopper USB review: fast garlic mincing, but is it worth it? Real pros, cons, and buying advice for this 3.8-star gadget."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GX9PLB7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TpiltbVOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "USB-C charging means no batteries to hunt down and no cord tangling around your prep space"
   - "Compact enough to live in a drawer — roughly the size of a coffee mug, so it won't claim permanent counter real estate"
   - "One-button pulse operation is genuinely simple — even a novice cook can mince garlic without watching a tutorial"
-cons:
+cons: 
   - "Small capacity (about 4-5 cloves per batch) means you'll run it multiple times for any recipe calling for a head of garlic"
   - "Motor strain on larger or harder items — several buyers report it stalling on whole cloves unless you cut them first"
   - "Cannot be fully submerged in water — the base has electronics, so cleaning requires careful wipe-downs rather than a sink rinse"
+
 ---
 
 If you've ever stood over a cutting board at 6 PM with a knife in one hand and a garlic clove sliding across the board, this little gadget speaks to you. The Electric Mini Garlic Chopper is a USB-powered pulse grinder that promises to take garlic prep from tedious to trivial. At 3.8 stars from 190 ratings, the verdict is genuinely mixed — so let's dig into what's actually happening here.

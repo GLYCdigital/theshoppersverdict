@@ -1,5 +1,6 @@
 ---
 
+
 title: "AMD Ryzenâ„¢ 7 5700X 8-Core, 16-Thread Unlocked Desktop Proc"
 seo_title: "AMD Ryzen 7 5700X Review: Still Worth It in 2026?"
 meta_description: "AMD Ryzen 7 5700X review: 8 cores, 16 threads, unlocked. Is this AM4 CPU still a smart buy? Performance, value, and upgrade path analyzed."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B5HGRSHL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gRv8z+K6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "65W TDP runs cool and quiet — no liquid cooler required, unlike Intel 12th-gen rivals"
   - "8 Zen 3 cores deliver genuine multi-threaded punch for rendering, compiling, and heavy office multitasking"
   - "Drops directly into existing AM4 boards (500-series with BIOS update) — cheapest meaningful upgrade path in 2026 inch"
-cons:
+cons: 
   - "No integrated graphics — you must have a discrete GPU or the system won't POST"
   - "Zen 3 architecture is now two generations old; AM5 buyers get faster single-core for a premium"
+
 
 ---
 

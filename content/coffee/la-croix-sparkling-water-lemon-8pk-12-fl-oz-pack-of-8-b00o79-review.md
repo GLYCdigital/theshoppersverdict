@@ -1,4 +1,5 @@
 ---
+
 title: "La Croix Sparkling Water, Lemon 8pk, 12 Fl Oz (pack of 8)"
 seo_title: "La Croix Sparkling Water, Lemon 8pk, 12 Fl Oz (pac Review"
 meta_description: "Our full la croix sparkling water, lemon 8pk, 12 fl oz (pack of 8) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00O79SKCU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IDjKmEy+L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're looking for a way to break a diet soda habit or just want something more interesting than flat water, La Croix is often the first name that comes up. But does the Lemon 8-pack live up to the hype, or is it just overpriced, faintly flavored fizz? I've dug through the reviews and product specs to give you the real story before you add it to your cart.

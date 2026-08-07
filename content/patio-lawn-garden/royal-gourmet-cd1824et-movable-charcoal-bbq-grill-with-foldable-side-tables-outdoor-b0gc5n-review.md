@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Gourmet CD1824ET Movable Charcoal BBQ Grill with Folda"
 seo_title: "Royal Gourmet CD1824ET Movable Charcoal BBQ Grill  Review"
 meta_description: "Our full royal gourmet cd1824et movable charcoal bbq grill with folda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GC5NRS4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7103PD2-qyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Royal Gourmet CD1824ET is the charcoal grill for people who thought they didn't have room for one.** It's a 24-inch kettle-style grill mounted on a wheeled cart with folding side tables — a setup that solves the two biggest complaints about traditional charcoal grills: they're immovable and they hog space. With a 4.0-star average from 200 ratings, it's not perfect, but it nails the essentials.

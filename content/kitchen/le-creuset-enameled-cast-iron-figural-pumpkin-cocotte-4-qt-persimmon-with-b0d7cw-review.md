@@ -1,4 +1,5 @@
 ---
+
 title: "Le Creuset Enameled Cast Iron Figural Pumpkin Cocotte, 4 qt."
 seo_title: "Le Creuset Enameled Cast Iron Figural Pumpkin Coco Review"
 meta_description: "Our full le creuset enameled cast iron figural pumpkin cocotte, 4 qt. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7CWWN66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AVkAkvEmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Le Creuset Pumpkin Cocotte is the rare piece that performs as beautifully as it photographs.**

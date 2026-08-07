@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Panel"
 seo_title: "Solar Panel Review: Verdict | TSV"
 meta_description: "Our full solar panel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNL4PZCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71te5S6QuBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **This solar panel is the quiet workhorse your patio setup has been missing.**

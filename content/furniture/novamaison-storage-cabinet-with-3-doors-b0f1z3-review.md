@@ -1,4 +1,5 @@
 ---
+
 title: "NOVAMAISON Storage Cabinet with 3 Doors"
 seo_title: "NOVAMAISON Storage Cabinet with 3 Doors Review: Verdict |"
 meta_description: "Our full novamaison storage cabinet with 3 doors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1Z3CGQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vmUpslMAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The NOVAMAISON 3-Door Storage Cabinet: A Solid Middleweight That Earns Its 4.2 Stars**

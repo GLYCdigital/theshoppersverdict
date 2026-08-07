@@ -1,4 +1,5 @@
 ---
+
 title: "Strictly Sinks 30 Inch Corner Kitchen Sink Undermountâ€“ 16 "
 seo_title: "Strictly Sinks 30 Inch Corner Kitchen Sink Undermo Review"
 meta_description: "Our full strictly sinks 30 inch corner kitchen sink undermountâ€“ 16  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CTCNXCMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E-R4BRasL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen layout wastes that awkward corner where two countertops meet, this sink turns dead space into the most functional part of your prep zone. The Strictly Sinks 30-inch corner undermount is a specialized solution, and after digging through 225 ratings and the spec sheet, here's what actually matters before you cut into your countertop.

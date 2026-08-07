@@ -1,24 +1,26 @@
 ---
+
 title: "Energetic 3CCT Low Voltage Landscape Lights Review"
 seo_title: "Energetic 3CCT Landscape Lights Review (2026): Worth It?"
 meta_description: "Energetic 3CCT low voltage landscape lights review: 3 color temps, aluminum build, 8-in-1 heads. See pros, cons, and who should buy these path lights."
 slug: "energetic-3cct-low-voltage-landscape-lights-b0fhgw-review"
 image_alt: "Energetic 3CCT low voltage landscape lights installed along a garden path, showing adjustable color temperature settings"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHGW5Z5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X4NoJDrlL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Three selectable color temperatures (3000K/4000K/5000K) via a switch on the fixture—no buying separate bulbs"  
   - "Die-cast aluminum housing with tempered glass lens; feels substantial, not like cheap plastic lights"  
   - "Adjustable 8-in-1 heads let you aim light at a 360° range, great for uplighting trees or washing a wall"  
-cons:  
+cons: 
   - "The color temp switch is inside the fixture—you must unscrew the head to change it, which is annoying if you're adjusting after install"  
   - "No photocell or timer built in; you'll need a separate smart controller or timer for auto on/off"  
   - "Included wire connectors are basic push-in types—I'd swap them for waterproof gel caps if your ground gets wet"
+
 ---
 
 # Energetic 3CCT Low Voltage Landscape Lights: The 8-in-1 Head That Actually Works  

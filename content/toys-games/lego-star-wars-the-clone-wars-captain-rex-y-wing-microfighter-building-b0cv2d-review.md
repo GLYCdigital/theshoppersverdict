@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: The Clone Wars Captain Rex Y-Wing Microfight"
 seo_title: "LEGO Star Wars: The Clone Wars Captain Rex Y-Wing  Review"
 meta_description: "Our full lego star wars: the clone wars captain rex y-wing microfight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV2DXNBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ImY1QHd8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you want Captain Rex without paying $100+ for a retired set, this is your best shot. The Y-Wing is a bonus.

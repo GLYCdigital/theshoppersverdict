@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Fireglass 10 Pounds Lava Rocks Natural Stone Granules fo"
 seo_title: "Mr. Fireglass 10 Pounds Lava Rocks Natural Stone G Review"
 meta_description: "Our full mr. fireglass 10 pounds lava rocks natural stone granules fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08JHSJ3T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810QRhhrZLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a bare gas fire pit burner and wondering whether to drop serious cash on fire glass or go the budget route, this Mr. Fireglass lava rock bag is the pragmatic middle ground. At 10 pounds, it's not a lifetime supply — but for a standard round fire pit, it's likely exactly what you need without overbuying.

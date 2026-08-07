@@ -1,4 +1,5 @@
 ---
+
 title: "Makeup Vanity Desk with Round Mirror and Lights, White Vanit"
 seo_title: "Makeup Vanity Desk with Round Mirror and Lights, W Review"
 meta_description: "Our full makeup vanity desk with round mirror and lights, white vanit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CCND7NLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nl+sWnlvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The hook:** Most vanities under $200 look like dorm-room afterthoughts. This white one with the round mirror is different — it has fluted drawer fronts, a velvet stool, and lighting that actually makes your makeup look correct. But is it a real piece of furniture or just another wobbly TikTok prop? I dug through 220 ratings to find out.

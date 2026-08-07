@@ -1,4 +1,5 @@
 ---
+
 title: "Akicon Bathroom Exhaust Fan with Light, 110CFM, 2.0 Sones Ba"
 seo_title: "Akicon Bathroom Exhaust Fan Review: 110CFM, Light, 2.0 Sones"
 meta_description: "Akicon 110CFM bathroom exhaust fan with light review: quiet 2.0 sones, bright lighting, easy install. Real pros, cons, and verdict for buyers."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5CMGJD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CnVGfeMdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "110 CFM airflow rating handles bathrooms up to 105 sq ft — enough for a full bath with a shower"
   - "2.0 sones noise level is genuinely quiet — you won't shout over it during your morning routine"
   - "Integrated 18W LED light is bright (equivalent to a 100W incandescent) with a clean white grille"
-cons:
+cons: 
   - "No humidity sensor — you'll need to run it manually or add a timer switch separately"
   - "Grille is plastic, not metal — fine for most but feels less premium than commercial-grade options"
   - "Duct connector size is 4-inch; if your existing rough-in is 6-inch you'll need an adapter"
+
 ---
 
 Let's be blunt: most bathroom fans under $50 are noisy, weak, and look like they belong in a gas station restroom. The Akicon 110CFM exhaust fan with light isn't that — but it's not a premium Panasonic either. Here's where it actually lands after digging through 215 verified ratings and the spec sheet.

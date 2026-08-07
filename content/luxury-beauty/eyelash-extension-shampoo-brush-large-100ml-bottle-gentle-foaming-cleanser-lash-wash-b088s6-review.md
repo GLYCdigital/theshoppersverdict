@@ -1,4 +1,5 @@
 ---
+
 title: "Eyelash Extension Shampoo & Brush - Large 100ml Bottle - Gen"
 seo_title: "Eyelash Extension Shampoo & Brush Review: Gentle Foaming Cleanser (2026)"
 meta_description: "Is the Gen Eyelash Extension Shampoo worth it? Read our honest review of this 100ml foaming cleanser & brush for lash longevity, buildup, and sensitive eyes."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B088S6YYRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N+dyUkk4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Foaming pump delivers a precise, diluted lather that rinses clean without residue—critical for glue bonds"
   - "The included dual-sided silicone brush is soft enough for daily use yet textured enough to scrub lash lines"
   - "Fragrance-free and pH-balanced formula works for sensitive eyes and contact lens wearers"
-cons:
+cons: 
   - "100ml bottle runs out in 6-8 weeks with daily use—frequent users should buy the refill size"
   - "The brush handle is short, making it slightly awkward for those with larger hands to maneuver"
+
 ---
 
 **The $15 Lash Saver That Stops Premature Shedding (or Wastes Your Money)**

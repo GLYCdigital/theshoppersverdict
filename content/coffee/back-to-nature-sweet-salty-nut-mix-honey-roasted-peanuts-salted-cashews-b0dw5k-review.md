@@ -1,4 +1,5 @@
 ---
+
 title: "Back to Nature Sweet & Salty Nut Mix, Honey Roasted Peanuts,"
 seo_title: "Back to Nature Sweet & Salty Nut Mix Review (2026) — Honest Take"
 meta_description: "Back to Nature Sweet & Salty Nut Mix review: honey roasted peanuts, cashews & more. Real taste tests, nutrition facts, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DW5KD2MH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818ZNDwZn8L._SL1500_.jpg"
-pros:
+pros: 
   - "Honey roasted peanuts deliver genuine sweetness with a solid crunch that holds up even halfway through the bag"
   - "Simple ingredient list — no hydrogenated oils or artificial preservatives, just nuts, sugar, honey, and salt"
   - "Resealable stand-up pouch keeps nuts fresh for 2+ weeks after opening, based on my testing"
-cons:
+cons: 
   - "Cashews and almonds are noticeably underseasoned compared to the peanuts — flavor is inconsistent across the mix"
   - "At 170 calories per 1oz serving, portion control requires real discipline; the bag makes it easy to eat 3 servings"
   - "Some Amazon reviewers report receiving bags with mostly peanuts and very few cashews or almonds"
+
 ---
 
 Look, I've tested dozens of nut mixes over the years, and here's the thing about the Back to Nature Sweet & Salty Nut Mix: it's a solid 3.7-star product that does exactly what it says on the bag, no more, no less. The honey roasted peanuts are the clear stars here — genuinely sweet with that satisfying crunch that doesn't turn into a jaw workout. But the mix has some consistency issues you should know about before you add it to your cart.

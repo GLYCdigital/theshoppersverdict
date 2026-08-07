@@ -1,5 +1,6 @@
 ---
 
+
 title: "Filterbuy Best Sellers MERV 8 Odor Eliminator (2-Pack), Plea"
 seo_title: "Filterbuy MERV 8 Odor Eliminator Review (2-Pack)"
 meta_description: "Honest Filterbuy MERV 8 Odor Eliminator review: Does it really cut HVAC smells? Real performance, fit data, and who should buy. 4.6/5 rating."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBZ1VZDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d0mF36iCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Carbon-impregnated media actually neutralizes pet, cooking, and musty odors at the filter — not just traps particles"
   - "Reinforced cardboard frame holds its shape during installation; no flimsy warping like cheap store brands"
   - "Consistent MERV 8 rating means solid 90%+ capture of 3-10 micron particles without choking airflow like a MERV 13 inch"
-cons:
+cons: 
   - "Carbon coating is single-use; odor-fighting performance fades noticeably by week 6 of a 90-day filter life"
   - "No sizing flexibility — you need the exact frame dimensions or you'll get air bypass gaps; common odd sizes are hit-or-miss"
   - "Priced at a premium over basic MERV 8 pleated filters; the odor benefit is real but not miraculous"
+
 
 ---
 

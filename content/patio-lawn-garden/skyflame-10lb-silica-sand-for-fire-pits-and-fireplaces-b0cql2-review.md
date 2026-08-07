@@ -1,4 +1,5 @@
 ---
+
 title: "Skyflame 10Lb Silica Sand for Fire Pits and Fireplaces"
 seo_title: "Skyflame 10Lb Silica Sand for Fire Pits and Firepl Review"
 meta_description: "Our full skyflame 10lb silica sand for fire pits and fireplaces review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQL2Q1BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zFxBemqzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever swapped a fire pit's ugly metal burner pan for lava rock and ended up with a sooty mess, you already know the struggle. The Skyflame 10Lb Silica Sand solves that specific problem — but not without a few tradeoffs worth knowing before checkout.

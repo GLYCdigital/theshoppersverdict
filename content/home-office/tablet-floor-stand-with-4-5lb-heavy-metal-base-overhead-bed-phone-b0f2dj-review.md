@@ -1,4 +1,5 @@
 ---
+
 title: "Tablet Floor Stand with 4.5LB Heavy Metal Base,Overhead Bed "
 seo_title: "Tablet Floor Stand with 4.5LB Heavy Metal Base,Ove Review"
 meta_description: "Our full tablet floor stand with 4.5lb heavy metal base,overhead bed  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F2DJT2BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e1pWNfO6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Overhead Viewing Solution That Actually Stays Put

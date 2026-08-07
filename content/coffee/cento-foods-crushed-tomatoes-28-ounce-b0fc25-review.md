@@ -1,4 +1,5 @@
 ---
+
 title: "Cento Foods, Crushed Tomatoes, 28 Ounce"
 seo_title: "Cento Crushed Tomatoes 28 oz Review: Worth It?"
 meta_description: "Cento Crushed Tomatoes 28 oz review: taste, texture, value. Is this pantry staple worth the price? Real buyer feedback and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FC25JJLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819XIsR7d0L._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, sweet tomato flavor from San Marzano-style tomatoes grown in California's rich soil"
   - "Thick, chunky texture that holds up in long simmers without turning watery"
   - "Clean ingredient list — just tomatoes and a touch of salt, no citric acid or fillers"
-cons:
+cons: 
   - "Price per ounce runs higher than store-brand crushed tomatoes, often 30-50% more"
   - "Can arrive dented in shipping if not boxed carefully — reported in some reviews"
   - "Some batches vary in saltiness; seasoning adjustments may be needed between cans"
+
 ---
 
 If you've ever tasted the difference between a watery, acidic crushed tomato and one that tastes like it was picked at peak ripeness, you understand why Cento has a loyal following. This 28-ounce can isn't just another pantry staple — it's the backbone of a proper Sunday gravy, a quick weeknight marinara, or a shakshuka that actually tastes like something.

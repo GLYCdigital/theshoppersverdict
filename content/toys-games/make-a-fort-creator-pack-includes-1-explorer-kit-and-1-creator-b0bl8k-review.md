@@ -1,4 +1,5 @@
 ---
+
 title: "Make-A-Fort Creator Pack - Includes 1 Explorer Kit and 1 Cre"
 seo_title: "Make-A-Fort Creator Pack - Includes 1 Explorer Kit Review"
 meta_description: "Our full make-a-fort creator pack - includes 1 explorer kit and 1 cre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL8KQY1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816I4zV2TBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The verdict: Should you buy the Make-A-Fort Creator Pack?

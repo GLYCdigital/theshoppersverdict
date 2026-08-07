@@ -1,4 +1,5 @@
 ---
+
 title: "Reebok Deck Multipurpose Adjustable Bench Aerobic Strength T"
 seo_title: "Reebok Deck Multipurpose Adjustable Bench Aerobic  Review"
 meta_description: "Our full reebok deck multipurpose adjustable bench aerobic strength t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FRN5GRFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one bench that actually pulls double duty — if you have the floor space**

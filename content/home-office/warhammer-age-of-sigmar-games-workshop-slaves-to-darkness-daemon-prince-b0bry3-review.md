@@ -1,4 +1,5 @@
 ---
+
 title: "Warhammer Age of Sigmar Games Workshop Slaves to Darkness: D"
 seo_title: "Warhammer Age of Sigmar Games Workshop Slaves to D Review"
 meta_description: "Our full warhammer age of sigmar games workshop slaves to darkness: d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BRY38LCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711Ah5QpbkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Is this the centerpiece your Dark Master needs?**

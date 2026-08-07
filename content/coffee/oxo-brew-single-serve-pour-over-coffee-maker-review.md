@@ -1,16 +1,17 @@
 ---
+
 title: "OXO Brew Single Serve Pour-Over Coffee Maker"
 seo_title: "OXO Brew Single Serve Pour-Over Coffee Maker Review: Verd"
 meta_description: "Our full oxo brew single serve pour-over coffee maker. Read real Amazon customer insights, pros, cons, and our verdict. 10,188+ reviews analyzed."
 slug: "oxo-brew-single-serve-pour-over-coffee-maker-review"
 image_alt: "OXO Brew Single Serve Pour-Over Coffee Maker"
-keywords:
+keywords: 
   - "oxo brew single review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the OXO Brew Single Serve Pour-Over Coffee Maker?"
     answer: "Users consistently praise the strong performance that meets expectations. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,13 +24,14 @@ review_count: 10188
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01ENK41Q6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Pi-0c8ovL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong performance that meets expectations"
   - "Easy to set up and use right out of the box"
   - "Excellent value for the price point"
-cons:
+cons: 
   - "Performance may not satisfy power users"
   - "Some users report durability concerns over time"
+
 ---
 
 If you're shopping for a oxo brew single serve pour over coffee maker, the OXO Brew Single Serve Pour-Over Coffee Maker has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.

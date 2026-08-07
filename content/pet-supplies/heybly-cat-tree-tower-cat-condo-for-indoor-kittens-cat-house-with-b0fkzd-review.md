@@ -1,4 +1,5 @@
 ---
+
 title: "Heybly Cat Tree Tower, Cat condo for Indoor Kittens, Cat Hou"
 seo_title: "Heybly Cat Tree Tower, Cat condo for Indoor Kitten Review"
 meta_description: "Our full heybly cat tree tower, cat condo for indoor kittens, cat hou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FKZD2B6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8180smCI8FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cat furniture is a gamble. You drop $60–$100 on a tower, and your cat either ignores it completely or shreds it within a month. The Heybly Cat Tree Tower sits at a 4.3-star average across 215 ratings, which tells me real buyers are mostly satisfied. But the real question is whether it earns its spot in your living room.

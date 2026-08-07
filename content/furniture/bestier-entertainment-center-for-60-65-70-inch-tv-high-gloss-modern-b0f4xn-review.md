@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier Entertainment Center for 60/65/70 inch TV, High Glos"
 seo_title: "Bestier Entertainment Center Review: High Gloss TV Stand for 65 inch  TVs"
 meta_description: "Honest Bestier Entertainment Center review for 60-70 inch TVs. High gloss finish, build quality, assembly, and real buyer feedback — before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F4XNZPCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910tmYSvOGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-gloss lacquer finish resists fingerprints better than expected and wipes clean easily"
   - "Tempered glass shelves rated for substantial weight — holds AV components without sagging"
   - "Integrated cable management channels and adjustable feet level on uneven floors"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes solo; hardware labeling is minimal and instructions are diagram-only"
   - "Glossy surface shows dust and smudges in direct sunlight — you'll be wiping it weekly"
   - "Max weight capacity on top shelf (110 lbs) means a 70-inch OLED may be over the limit"
+
 ---
 
 The Bestier Entertainment Center walks a tightrope between showpiece furniture and functional TV stand. At 4.2 stars across 210 ratings, it's clearly doing something right — but the high-gloss finish that makes it photograph beautifully is also its most demanding feature. Here's what you need to know before committing.

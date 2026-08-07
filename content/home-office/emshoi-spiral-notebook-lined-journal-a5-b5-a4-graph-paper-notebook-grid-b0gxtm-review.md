@@ -1,4 +1,5 @@
 ---
+
 title: "EMSHOI Spiral Notebook, Lined Journal, A5 B5 A4 Graph Paper"
 seo_title: "EMSHOI Spiral Notebook Review: A5 B5 A4 Graph & Lined"
 meta_description: "Honest EMSHOI spiral notebook review: A5/B5/A4 graph & lined options, thick paper, lay-flat spiral. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXTMBWK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rgR0hCX9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin-wire spiral binding lays completely flat — no fighting the spine to write near the edge"
   - "Thicker 100gsm paper handles fountain pens and gel ink without ghosting or bleed-through"
   - "Three sizes (A5/B5/A4) and page formats (lined, grid, graph) in one product line — mix and match"
-cons:
+cons: 
   - "Cover is flexible cardstock, not rigid — toss it loose in a backpack and corners will bend"
   - "Perforated pages are micro-perforated; tear cleanly if you're careful, but hasty rips leave jagged edges"
+
 ---
 
 If you've ever wrestled with a spiral notebook that refuses to lie flat, you already know the specific kind of frustration EMSHOI set out to solve. This is a workhorse notebook — not a luxury journal, not a bullet-journal cult favorite, just a genuinely well-executed everyday writer that's earned a 4.7-star average across 235 Amazon ratings. Here's the real breakdown.

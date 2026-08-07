@@ -1,4 +1,5 @@
 ---
+
 title: "LANEIGE Cream Skin Toner & Moisturizer: Lightweight Refillab"
 seo_title: "LANEIGE Cream Skin Toner & Moisturizer: Lightweigh Review"
 meta_description: "Our full laneige cream skin toner & moisturizer: lightweight refillab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTZ1BL4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41rGmSBmRDL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 2-in-1 toner that actually pulls its weight — but it's not for everyone**

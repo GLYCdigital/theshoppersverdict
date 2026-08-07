@@ -1,4 +1,5 @@
 ---
+
 title: "Legigo Natural Sphagnum Moss Potting Mix- Carnivorous Plant "
 seo_title: "Legigo Natural Sphagnum Moss Potting Mix- Carnivor Review"
 meta_description: "Our full legigo natural sphagnum moss potting mix- carnivorous plant  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09VH4Z78N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zDc2SPzQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Carnivorous plants are picky. They demand low-nutrient soil, consistent moisture, and the right pH — and most standard potting mixes will kill them within weeks. The Legigo Natural Sphagnum Moss Potting Mix is specifically formulated for these fussy species, and with a 4.4-star average across 220 ratings, it's clearly earning its keep in growers' greenhouses. But is it the right choice for your setup? Let's break down what you're actually getting.

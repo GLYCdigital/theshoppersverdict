@@ -1,23 +1,25 @@
 ---
+
 title: "ADORNEVE Loft Bed Twin Size with L-Shaped Desk, LED Lights,C"
 seo_title: "ADORNEVE Twin Loft Bed with Desk Review: Worth It? (2026)"
 meta_description: "ADORNEVE twin loft bed with L-shaped desk, LED lights & charging ports: honest review of build quality, assembly, space savings & who should buy."
 slug: "adorneve-loft-bed-twin-size-with-l-shaped-desk-led-lights-charging-b0dfvf-review"
 image_alt: "ADORNEVE twin size loft bed with L-shaped desk, LED lighting, and USB charging station in a bedroom"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFVF8TS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AXAtfZJoL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "L-shaped desk gives real workspace — 44 inch wide with a 23 inch return, fits a monitor and still leaves room for homework"  
   - "Built-in LED strip with remote (16 colors) plus 2 USB/2 AC outlets on the desk — no surge protector needed"  
   - "Solid 700-lb weight capacity; steel frame doesn't wobble even with a restless teen"  
-cons:  
+cons: 
   - "Assembly is a 2-person, 4-hour job — instructions are mostly diagrams with small text"  
   - Top bunk clearance is 30 inch — fine for kids, tight for adults sitting up
+
 ---
 
 # ADORNEVE Twin Loft Bed with L-Shaped Desk: The Space-Saving Solution That Actually Works  

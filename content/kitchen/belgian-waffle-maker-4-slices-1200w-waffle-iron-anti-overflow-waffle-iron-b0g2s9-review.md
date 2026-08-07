@@ -1,4 +1,5 @@
 ---
+
 title: "Belgian Waffle Maker 4 Slices, 1200W Waffle Iron, Anti-Overflow"
 seo_title: "Belgian Waffle Maker 4 Slices Review: 1200W Waffle Iron"
 meta_description: "Belgian waffle maker 4 slices review — 1200W power, anti-overflow design, even browning. See pros, cons, and who should buy this 4.5-star waffle iron."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2S9X6RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qQjFGC3UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1200W heating element delivers even browning across all 4 waffle sections in roughly 4-5 minutes"
   - "Anti-overflow channel catches excess batter — no messy countertop cleanup between batches"
   - "Rotates 180 degrees for even distribution, a feature usually reserved for $100+ waffle irons"
-cons:
+cons: 
   - "No audible 'ready' beep — you'll need to watch the indicator light or set your own timer"
   - "Non-stick coating requires gentle handling; metal utensils will scratch the plates"
+
 ---
 
 Weekend breakfast for a family of four is a logistical headache. You either make waffles one at a time and eat cold, or you buy a commercial-grade unit that takes up half your counter. This 4-slice Belgian waffle maker from the B0G2S9 series tries to split that difference — and for the most part, it succeeds.

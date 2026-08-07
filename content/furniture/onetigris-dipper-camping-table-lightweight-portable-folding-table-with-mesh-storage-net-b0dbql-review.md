@@ -1,4 +1,5 @@
 ---
+
 title: "ONETIGRIS Dipper Camping Table, Lightweight Portable Folding"
 seo_title: "ONETIGRIS Dipper Camping Table, Lightweight Portab Review"
 meta_description: "Our full onetigris dipper camping table, lightweight portable folding review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBQLT2LS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7175ZQbo7RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the ONETIGRIS Dipper is the kind of camping table that makes you wonder why you ever lugged that heavy plastic folding table to a campsite. With a 4.6/5 rating across 229 Amazon reviews, it's clearly earning its keep in the outdoor community. But is it right for *your* setup? Here's the honest breakdown.

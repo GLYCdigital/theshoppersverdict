@@ -1,4 +1,5 @@
 ---
+
 title: "Z-Man Games Carcassonne"
 seo_title: "Z-Man Games Carcassonne Review: Verdict | TSV"
 meta_description: "Our full z-man games carcassonne review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRDTH3F1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Te8WpEJ8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched someone lay a tile, slap down a meeple, and groan as their 12-point city gets stolen, you already know Carcassonne. This 2000 Klaus-Jürgen Wrede design remains one of the most enduring gateway games in the hobby — and this Z-Man edition is the version most North American shoppers will encounter. The question isn't whether it's good. It's whether this specific edition earns your shelf space.

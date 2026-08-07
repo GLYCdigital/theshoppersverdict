@@ -1,4 +1,5 @@
 ---
+
 title: "Axcoix Upgraded Plant Umbrellas for Outdoor Plants, 26 inch  Larg"
 seo_title: "Axcoix 26 inch  Plant Umbrella Review: Shade That Works"
 meta_description: "Axcoix 26 inch  plant umbrella review: adjustable height, UV protection, and stakes that hold. See if this patio shade is worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F5B9LXMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZoXqUngCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26-inch canopy is genuinely large enough to shade a full-grown hydrangea or tomato cage without looking comical"
   - "Adjustable pole height from roughly 27 to 46 inches means it works for both low ground cover and tall potted plants"
   - "Stake anchors down into soil or pots securely; doesn't tip over in moderate wind"
-cons:
+cons: 
   - "Stake fit is tight on standard 10-12 inch nursery pots — you'll wrestle it in or need to pre-drill a hole"
   - "Fabric is water-resistant but not waterproof; heavy rain pools on the canopy and can weigh it down"
+
 ---
 
 If you've ever watched a $40 hydrangea crisp up into brown confetti by July, you already know the pain this product solves. The Axcoix 26" plant umbrella is a simple answer to a frustrating problem: how do you give potted plants afternoon shade without building a pergola?

@@ -1,7 +1,8 @@
 ---
-title: "US Cargo Control Moving Blankets Heavy Duty 72\"x80\" 4-Pack ("
-seo_title: "US Cargo Control Moving Blankets Heavy Duty 72\"x80 Review"
-meta_description: "Our full us cargo control moving blankets heavy duty 72\"x80\" 4-pack ( review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "US Cargo Control Moving Blankets Heavy Duty 72\x80\ 4-Pack ("
+seo_title: "US Cargo Control Moving Blankets Heavy Duty 72\x80 Review"
+meta_description: "Our full us cargo control moving blankets heavy duty 72\x80\ 4-pack ( review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "us-cargo-control-moving-blankets-heavy-duty-72-x80-4-pack-95-b00jwu-review"
 image_alt: "US Cargo Control Moving Blankets Heavy Duty 72x80 4-Pack (95 lbs/doz), Padded Furniture Blankets for Moving, Shipping, a"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00JWU3QKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t6QWKUbQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Moving day is stressful enough without discovering a gouge in your dining table or a scratch across your mattress. If you're shopping for moving blankets, you've probably noticed a dozen brands all claiming "heavy duty" — but few actually deliver. The US Cargo Control 72x80-inch 4-pack sits in the middle of that crowded field, and after digging through the specs and 220+ Amazon ratings, here's what actually matters.

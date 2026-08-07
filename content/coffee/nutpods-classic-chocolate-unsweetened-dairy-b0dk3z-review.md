@@ -1,4 +1,5 @@
 ---
+
 title: "nutpods Classic Chocolate Unsweetened Dairy"
 seo_title: "nutpods Classic Chocolate Unsweetened Dairy Review: Verdi"
 meta_description: "Our full nutpods classic chocolate unsweetened dairy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK3ZRGW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V1wRhgcdL._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

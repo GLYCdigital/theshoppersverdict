@@ -1,4 +1,5 @@
 ---
+
 title: "Dumbbell Converter by SEWD – Turn Dumbbells into Barbell S"
 seo_title: "SEWD Dumbbell Converter Review: Turn Dumbbells Into a Barbell"
 meta_description: "SEWD dumbbell converter review: turn your dumbbells into a barbell for rows, presses & more. Real buyer feedback, fit notes, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFZ55TR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51M16cu0BGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid steel construction rated for heavy loads — handles up to 300+ lbs without flexing"
   - "Quick-thread mechanism secures dumbbells in under 30 seconds with no tools required"
   - "Compatible with most hex and round dumbbells from 5 to 50+ lbs per pair"
-cons:
+cons: 
   - "Length is fixed at 42 inches — taller lifters may find the grip spacing cramped for wide-grip work"
   - "Dumbbell handles must be fully exposed; rubber-coated or contour-grip dumbbells may not seat properly"
   - "No locking collar included for the dumbbells themselves — you're relying on the threaded ends to hold them"
+
 ---
 
 # SEWD Dumbbell Converter Review: A Clever Workaround or a Gimmick?

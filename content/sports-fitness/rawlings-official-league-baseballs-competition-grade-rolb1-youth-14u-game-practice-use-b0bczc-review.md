@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings | Official League Baseballs | Competition Grade | R"
 seo_title: "Rawlings | Official League Baseballs | Competition Review"
 meta_description: "Our full rawlings | official league baseballs | competition grade | r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BCZC8WNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yAqrVxkYL._AC_SL1219_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There's a sweet spot in baseballs where price meets performance, and the Rawlings Official League Competition Grade balls live there. At the 14U level, you don't need major-league-grade balls for every scrimmage, but you also shouldn't be throwing around practice balls with flat seams that teach bad habits. These strike that middle ground.

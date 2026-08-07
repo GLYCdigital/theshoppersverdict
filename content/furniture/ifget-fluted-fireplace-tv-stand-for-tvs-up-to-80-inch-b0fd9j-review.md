@@ -1,4 +1,5 @@
 ---
+
 title: "IFGET Fluted Fireplace TV Stand for TVs Up to 80 inch"
 seo_title: "IFGET Fluted Fireplace TV Stand for TVs Up to 80 i Review"
 meta_description: "Our full ifget fluted fireplace tv stand for tvs up to 80 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FD9JZ5P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m-6ndQKUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the TV stand that finally does it all — hides your cords, warms your living room, and looks custom-built?** After digging through 225 ratings and the spec sheet, the short answer is: mostly yes, with a few caveats you need to know before checkout.

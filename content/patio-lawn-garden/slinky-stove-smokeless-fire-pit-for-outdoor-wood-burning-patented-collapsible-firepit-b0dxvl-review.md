@@ -1,4 +1,5 @@
 ---
+
 title: "Slinky Stove Smokeless Fire Pit for Outdoor Wood-Burning - P"
 seo_title: "Slinky Stove Smokeless Fire Pit for Outdoor Wood-B Review"
 meta_description: "Our full slinky stove smokeless fire pit for outdoor wood-burning - p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXVL31XJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdbT80VyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Slinky Stove is the fire pit you buy when you've got a tiny patio, a hatchback trunk, or zero interest in wrestling a 40-pound steel bowl out of storage every time you want a fire.**

@@ -1,4 +1,5 @@
 ---
+
 title: "A ANLEOLIFE Trimmer Line with Bonus Line Cutter"
 seo_title: "ANLEOLIFE Trimmer Line Review: Bonus Cutter Included"
 meta_description: "Honest ANLEOLIFE trimmer line review: durability, feed performance, and the bonus line cutter. See if this 0.065 inch  line suits your weed eater."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B085NJ4DRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R7nRJQqOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Comes with 3 pre-wound spools plus a free line cutter tool — ready to swap in minutes"
   - "0.065-inch round line feeds consistently without frequent bumping"
   - "Works with most major trimmer brands including Ryobi, BLACK+DECKER, and Craftsman"
-cons:
+cons: 
   - "Round line shatters faster on concrete edging than twisted or star-shaped alternatives"
   - "Pre-wound spools may not fit every brand's proprietary loading system"
+
 ---
 
 If you've ever wrestled a tangled spool of trimmer line at 7 AM on a Saturday, you already know why the ANLEOLIFE Trimmer Line with Bonus Line Cutter exists. This is a three-pack of pre-wound 0.065-inch spools designed to drop into most major trimmer heads without the fuss of hand-winding. At 4.3 stars from 215 ratings, it's clearly doing something right — but the real question is whether it holds up on your specific yard.

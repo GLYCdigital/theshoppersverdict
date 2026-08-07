@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Kettle Variation New"
 seo_title: "Electric Kettle Review: Fast Boiling, 4.5 Stars"
 meta_description: "Electric Kettle Variation New review: fast 1500W boiling, stainless interior, auto shut-off. Is it worth it? Real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFK61DNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716SwY8Fu8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1500W heating element boils 1.7L in under 5 minutes — measured, not estimated"
   - "Fully concealed stainless steel interior prevents scale buildup in hard-water areas"
   - "Auto shut-off and boil-dry protection trigger reliably, even with minimal water"
-cons:
+cons: 
   - "Lid doesn't lock — tips open fully when pouring at steep angles, risking spills"
   - "Cord storage is minimal; 3-foot cord dangles if counter outlet isn't close"
   - "No temperature presets — this is a straight boil kettle, not a variable-temp unit"
+
 ---
 
 Let's be clear about what this kettle is: a workhorse, not a showpiece. The "Variation New" name suggests something fancy, but this is a straightforward 1500W electric kettle that nails the basics and skips the bells and whistles. At 4.5 stars from 225 ratings, it's earning its keep in real kitchens. Here's what that actually means for you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Utility Sink Laundry Tub With Pull Out Chrome Faucet, Spraye"
 seo_title: "Utility Sink Laundry Tub With Pull Out Chrome Fauc Review"
 meta_description: "Our full utility sink laundry tub with pull out chrome faucet, spraye review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DX43JBD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qvR8ecASL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your laundry room currently relies on a flimsy plastic utility tub that flexes when you fill it, this stainless steel unit is a serious step up. The 4.3-star average across 215 ratings tells you most buyers are satisfied — but let's dig into whether it's the right sink for your space.

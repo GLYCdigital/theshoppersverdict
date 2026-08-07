@@ -1,4 +1,5 @@
 ---
+
 title: "Eau De Parfum for Notes of - &"
 seo_title: "Eau De Parfum Review: Notes of - & Scent Depth (2026)"
 meta_description: "Honest Eau De Parfum review for Notes of - &: longevity, sillage, value. Real buyer feedback on this 4.2-star luxury fragrance. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1VFRBHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gk8eiXpQL._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated parfum strength delivers 8-10 hours of wear on skin, 12+ on clothing"
   - "Complex scent profile evolves through three distinct stages over several hours"
   - "Well-balanced projection — noticeable without being overpowering in office settings"
-cons:
+cons: 
   - "Price point sits at luxury tier; comparable designer fragrances offer better value per ml"
   - "Scent profile leans more feminine than unisex marketing suggests"
+
 ---
 
 ## A Fragrance That Rewards Patience

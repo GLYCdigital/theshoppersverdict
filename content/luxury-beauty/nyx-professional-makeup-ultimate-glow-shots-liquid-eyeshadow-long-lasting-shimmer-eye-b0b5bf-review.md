@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Ultimate Glow Shots, Liquid Eyeshado"
 seo_title: "NYX PROFESSIONAL MAKEUP Ultimate Glow Shots, Liqui Review"
 meta_description: "Our full nyx professional makeup ultimate glow shots, liquid eyeshado review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B5BFGTPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91iovPboIML._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: the NYX Ultimate Glow Shots is a liquid eyeshadow that delivers luxury-level pigment at a drugstore price point. With 215 ratings averaging 4.3 stars, it's clearly earning its keep — but there are nuances worth knowing before you buy.

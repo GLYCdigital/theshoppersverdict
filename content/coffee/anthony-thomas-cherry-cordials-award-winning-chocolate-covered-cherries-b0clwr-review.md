@@ -1,4 +1,5 @@
 ---
+
 title: "Anthony Thomas, Cherry Cordials, Award-Winning, Chocolate Co"
 seo_title: "Anthony Thomas Cherry Cordials Review: Worth It? | 2026 inch"
 meta_description: "Anthony Thomas Cherry Cordials review: award-winning chocolate-covered cherries. Taste, texture, value, and who should buy. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CLWRRS1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qZ4NbnrJL._SL1500_.jpg"
-pros:
+pros: 
   - "Liquid cherry center that actually bursts — not a gummy paste like many competitors"
   - "Generous 20-ounce box with individually wrapped pieces for freshness"
   - "Award-winning recipe with balanced dark and milk chocolate shells"
-cons:
+cons: 
   - "Chocolate can develop white bloom if stored improperly or too warm"
   - "Sugar-forward profile — not for those seeking low-sweetness dark chocolate"
   - "Some pieces arrive with thin shells that crack during shipping"
+
 ---
 
 Let me be direct: most cherry cordials are a disappointment. You get a hard cherry lump swimming in corn syrup, wrapped in waxy chocolate that tastes more like a candle than cocoa. Anthony Thomas claims their version is award-winning. After working through a full box, I can tell you the claim is mostly justified — with some caveats worth knowing before you buy.

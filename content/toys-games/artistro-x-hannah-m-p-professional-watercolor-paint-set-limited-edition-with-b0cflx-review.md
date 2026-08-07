@@ -1,4 +1,5 @@
 ---
+
 title: "ARTISTRO x HANNAH M.P Professional Watercolor Paint Set Limi"
 seo_title: "ARTISTRO x HANNAH M.P Watercolor Set Review: Worth It?"
 meta_description: "ARTISTRO x HANNAH M.P watercolor set review: 48 vibrant colors, dual brush, and mixing tray. See pros, cons, and who should buy this 4.6-star set."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CFLXPZS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PnmR50t+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "48 half-pan colors with excellent pigment load, including unique HANNAH M.P curated shades you won't find in standard beginner sets"
   - "Sturdy metal tin doubles as a mixing palette with a built-in water well and 7 mixing wells — no separate palette needed"
   - "Synthetic sable brush holds a fine point and enough water for continuous strokes, outperforming most brushes bundled with sets in this price range"
-cons:
+cons: 
   - "Pan layout is dense — the 48 pans sit close together, making it tricky to pick out colors with a wide brush without accidentally touching neighbors"
   - "No individual pan replacement available; when a favorite color runs out, you're buying a whole new set"
+
 ---
 
 **The ARTISTRO x HANNAH M.P collaboration feels like a breath of fresh air in a market flooded with generic paint sets.** This isn't just a rebranded palette with a famous illustrator's name slapped on the lid. Hannah M.P's influence shows in the color curation — there are muted earth tones, dusty pinks, and teal-heavy blues that actually make sense for landscapes and botanical subjects, not just the rainbow-bright primaries most sets default to.

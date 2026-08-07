@@ -1,4 +1,5 @@
 ---
+
 title: "Food Dehydrator for Jerky, 12-Trays Stainless Steel, 850W El"
 seo_title: "Food Dehydrator for Jerky Review: 12-Tray 850W Stainless Steel"
 meta_description: "Honest review of the 12-tray stainless steel 850W food dehydrator for jerky. Performance, capacity, build quality, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F99Q5NT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gYSt0fKgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 12-tray capacity handles 5-6 lbs of jerky per batch — enough for a family or serious hobbyist"
   - "850W motor with rear-mounted fan delivers even drying across all trays without rotating"
   - "Stainless steel trays resist warping and are dishwasher-safe, unlike cheap plastic alternatives"
-cons:
+cons: 
   - "Large footprint requires dedicated counter space — about the size of a toaster oven"
   - "Fan noise is noticeable at higher temperatures, measured around 55-60 dB by several buyers"
+
 ---
 
 If you're serious about jerky, you've probably burned through a cheap circular dehydrator already — the kind with the tiny motor on top that dries unevenly and sounds like a hair dryer having a seizure. This 12-tray stainless steel unit from the 850W line is a different animal. It's the upgrade you buy when you're done fighting with flimsy plastic trays and hot spots. Here's the honest breakdown after digging through 210 ratings and buyer experiences.

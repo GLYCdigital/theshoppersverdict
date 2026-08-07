@@ -1,4 +1,5 @@
 ---
+
 title: "Jonathan Y MCR100 Mercer Shag Plush Tassel"
 seo_title: "Jonathan Y MCR100 Mercer Shag Plush Tassel Review: Verdic"
 meta_description: "Our full jonathan y mcr100 mercer shag plush tassel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B084PTWQPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1hh-AlhfAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about shag rugs: most look great in photos and feel like disappointment in person. The **Jonathan Y MCR100 Mercer Shag Plush Tassel** is the exception—mostly. With 220 ratings averaging 4.4 stars, this rug has earned its place in countless living rooms. But it’s not perfect, and you deserve to know exactly where it shines and where it stumbles before you spend your money.

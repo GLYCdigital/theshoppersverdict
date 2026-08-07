@@ -1,4 +1,5 @@
 ---
+
 title: "LUXOAK Gas Lift Up Storage Bed, Wood Platform Bed Frame with"
 seo_title: "LUXOAK Gas Lift Up Storage Bed, Wood Platform Bed  Review"
 meta_description: "Our full luxoak gas lift up storage bed, wood platform bed frame with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJ2W3ZRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811mBj-xlGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most lift-up storage beds are particleboard nightmares that sag within a year. The LUXOAK Gas Lift Up Storage Bed isn't that. It's a genuinely functional piece of furniture that solves the "where do I put my stuff" problem without turning your bedroom into a warehouse.

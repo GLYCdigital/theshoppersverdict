@@ -1,4 +1,5 @@
 ---
+
 title: "WHOHOLL Ice Cream Toy Set for Boys Girls Kids"
 seo_title: "WHOHOLL Ice Cream Toy Set for Boys Girls Kids Review: Ver"
 meta_description: "Our full whoholl ice cream toy set for boys girls kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMNX7X8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811-GSK+fLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the WHOHOLL Ice Cream Set Worth Your Money?

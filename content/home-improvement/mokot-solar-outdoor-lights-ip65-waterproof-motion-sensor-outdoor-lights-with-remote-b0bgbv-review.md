@@ -1,4 +1,5 @@
 ---
+
 title: "Mokot Solar Outdoor Lights, IP65 Waterproof Motion Sensor Ou"
 seo_title: "Mokot Solar Outdoor Lights, IP65 Waterproof Motion Review"
 meta_description: "Our full mokot solar outdoor lights, ip65 waterproof motion sensor ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BGBVFVSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Du2JJBAsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most solar motion lights under $50 are junk. They're either dim as candles, die after a month, or the sensor triggers on every passing squirrel. The Mokot Solar Outdoor Lights are not that. After digging through 225 ratings and multiple long-term owner reports, this unit earns its 4.5-star average — but with caveats you need to hear before buying.

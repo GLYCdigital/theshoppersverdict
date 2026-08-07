@@ -1,4 +1,5 @@
 ---
+
 title: "Aspire X-Lite Super Performance Junior Golf Club Set - Right"
 seo_title: "Aspire X-Lite Junior Golf Club Set Review (Right-Handed)"
 meta_description: "Aspire X-Lite junior golf club set review: lightweight, right-handed clubs for kids. See what buyers praise, where it falls short, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDGWXDLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711XtAU+AcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-light graphite shafts reduce swing fatigue for younger juniors"
   - "Full set includes driver, fairway wood, hybrid, irons, putter, and stand bag—no piecemeal buying"
   - "Height-adjustable clubs grow with kids through multiple growth spurts"
-cons:
+cons: 
   - "Bag strap padding is thin—gets uncomfortable on longer carries"
   - "Putter alignment aid is minimal, which may frustrate beginners learning to line up putts"
+
 ---
 
 # Aspire X-Lite Junior Golf Club Set (Right-Handed): A Smart First Set That Won't Hold Your Kid Back

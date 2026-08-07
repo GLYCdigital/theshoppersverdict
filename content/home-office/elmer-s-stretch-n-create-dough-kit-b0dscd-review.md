@@ -1,4 +1,5 @@
 ---
+
 title: "Elmer’s Stretch 'N Create Dough Kit"
 seo_title: "Elmer’s Stretch 'N Create Dough Kit Review: Worth It? (2026)"
 meta_description: "Honest Elmer’s Stretch 'N Create Dough Kit review: texture, colors, value, and who it's for. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSCD6D9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ke0wHk5DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely stretchy, slow-return texture that holds up to aggressive pulling without tearing"
   - "Colors stay vibrant and don't bleed or stain hands during play"
   - "Resealable tubs keep dough soft for weeks between sessions"
-cons:
+cons: 
   - "Dough picks up lint and pet hair quickly — needs a clean surface to stay pristine"
   - "Strong chemical smell right out of the package that lingers for a day or two"
   - "Smaller container size than expected for the price point"
+
 ---
 
 Let’s cut through the noise: this isn’t your kid’s classic Play-Doh. Elmer’s Stretch 'N Create Dough Kit is a different beast entirely — a putty-like, hyper-stretchy compound that’s less about sculpting and more about the satisfying, almost meditative act of pulling it apart. If you’ve seen the product image with those bright, swirled tubs, you already have a sense of what you’re getting. But here’s what the packaging doesn’t tell you.

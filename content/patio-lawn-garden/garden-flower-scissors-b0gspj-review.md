@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Flower Scissors"
 seo_title: "Garden Flower Scissors Review: Precision Shears for Cutting"
 meta_description: "Hands-on Garden Flower Scissors review: sharp precision blades, ergonomic grip, and real buyer feedback. Find out if these shears earn their 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSPJ2KCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719KSflMKOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Razor-sharp stainless steel blades slice through thick stems cleanly without crushing, reducing plant damage"
   - "Ergonomic non-slip grips with a spring-loaded action that minimizes hand fatigue during extended cutting sessions"
   - "Safety lock engages easily with one thumb, making pocket or apron storage worry-free"
-cons:
+cons: 
   - "No included sheath or holster, so the exposed blade needs careful handling when not in use"
   - "Smaller cutting capacity (around 1/2 inch) means thicker woody branches require a separate pruner"
+
 ---
 
 ## The $15 Secret to a Better Bouquet

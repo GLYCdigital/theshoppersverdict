@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Vertuo Next Coffee and Espresso Maker by De'Longhi"
 seo_title: "Nespresso Vertuo Next Review: Is It Worth It? (2026)"
 meta_description: "Honest Nespresso Vertuo Next review: pros, cons, real user feedback. Is this De'Longhi espresso maker worth $160? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 2820
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B084GYKJ58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YTVpd0WPL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brews both 7.7oz coffee and 1.35oz espresso with a single touch — no pod flipping or manual size switching"
   - "Centrifusion extraction produces a thick, barista-style crema that rivals machines twice the price"
   - "Compact footprint at just 5.5 inches wide; fits under standard kitchen cabinets with room to spare"
-cons:
+cons: 
   - "Connectivity features are finicky — Bluetooth pairing and app setup frustrate many users"
   - "Proprietary Vertuo pods only; you're locked into Nespresso's ecosystem at roughly $1–$2 per cup"
   - "Reported leaking and descaling issues in some units; build quality feels lighter than older Vertuo models"
+
 ---
 
 The Nespresso Vertuo Next is the machine that finally makes single-serve coffee and espresso actually good. But at $160, it's not the cheapest pod brewer on the shelf — and it's not without quirks. Here's the real story after digging through 2,800+ Amazon ratings and testing the specs.

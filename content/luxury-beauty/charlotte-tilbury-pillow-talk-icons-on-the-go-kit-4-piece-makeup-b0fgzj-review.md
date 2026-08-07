@@ -1,4 +1,5 @@
 ---
+
 title: "Charlotte Tilbury Pillow Talk Icons On the Go Kit - 4-Piece"
 seo_title: "Charlotte Tilbury Pillow Talk Icons Kit Review (2026)"
 meta_description: "Honest Charlotte Tilbury Pillow Talk Icons On the Go Kit review: 4-piece set, shades, performance, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGZJ16DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RqF3x5EFL._SL1500_.jpg"
-pros:
+pros: 
   - "Cohesive Pillow Talk shade story — every piece works together for a foolproof monochromatic look"
   - "Travel-friendly compact sizing with full-size performance; the lipstick alone justifies the price"
   - "Flattering on a wide range of skin tones from fair to deep, per multiple verified buyer photos"
-cons:
+cons: 
   - "No applicator included for the eyeshadow pot — you'll need your own brushes or fingers"
   - "Shade range is limited to the warm neutral family; cool-toned shoppers may find it too peachy"
+
 ---
 
 Let's be direct: the Charlotte Tilbury Pillow Talk Icons On the Go Kit is the brand's most famous shade story condensed into four essentials. If you've been eyeing the full-size Pillow Talk lineup but balked at the $50+ per-item price tag, this kit is your entry point. With a 4.7-star average across 235 ratings, it's clearly resonating — but it's not without caveats.

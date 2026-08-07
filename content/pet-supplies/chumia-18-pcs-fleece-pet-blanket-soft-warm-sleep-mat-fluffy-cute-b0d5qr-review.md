@@ -1,4 +1,5 @@
 ---
+
 title: "Chumia 18 Pcs Fleece Pet Blanket Soft Warm Sleep Mat Fluffy"
 seo_title: "Chumia Fleece Pet Blanket Review: 18-Pack Value for Dogs & Cats"
 meta_description: "Chumia 18-pack fleece pet blankets reviewed: soft, warm, machine-washable. See real pros, cons, and if this bulk buy suits your pet."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5QRBBGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815zOAetRwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "18 blankets for roughly the price of 3–4 single pet blankets — genuine bulk value"
   - "Anti-static fleece doesn't cling to fur or attract excessive pet hair between washes"
   - "Generous 30x40-inch size fits crates, car seats, and sofas without constant repositioning"
-cons:
+cons: 
   - "Edges are raw-cut fleece; they won't fray, but curling occurs after 4–5 wash cycles"
   - "Thinner than premium sherpa throws — not ideal as a sole winter bedding for large outdoor dogs"
+
 ---
 
 # Chumia 18 Pcs Fleece Pet Blanket: The Bulk Buy That Actually Makes Sense

@@ -1,16 +1,17 @@
 ---
+
 title: "Starbucks by Nespresso Vertuo, Sunsera Blend, 32-count Coffee Pods, Brews 7.8 oz."
 seo_title: "Starbucks by Nespresso Vertuo Sunsera Review: Verdict (4.7/5) | TSV"
 meta_description: "Honest Starbucks by Nespresso Vertuo Sunsera Blend review 121+ reviews analyzed. Real pros, cons, flavor notes, and our verdict."
 slug: "starbucks-by-nespresso-vertuo-sunsera-blend-32-count-coffee-pods-review"
 image_alt: "Starbucks by Nespresso Vertuo Sunsera Blend 32-count coffee pods with citrus and toasted almond flavor notes"
-keywords:
+keywords: 
   - "Starbucks Nespresso Vertuo Sunsera review"
   - "Sunsera Blend coffee pods review"
   - "best Nespresso Vertuo pods"
   - "Starbucks blonde roast review"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "What does Starbucks Sunsera Blend taste like?"
     answer: "Starbucks Sunsera Blend is a light roast with citrus and toasted almond notes. At intensity level 4 out of 10, it's one of the milder Starbucks offerings — smooth, non-bitter, with what one reviewer described as 'floral tones.' It's designed for drinkers who find dark roasts too heavy or bitter."
   - question: "What size coffee does this Nespresso Vertuo pod brew?"
@@ -23,15 +24,16 @@ review_count: 121
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F85F6PKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MV1PYlErL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, light roast with no bitterness"
   - "Citrus and toasted almond flavor notes"
   - "Works beautifully hot or iced"
   - "Convenient for daily Subscribe & Save"
-cons:
+cons: 
   - "Some reviewers found the crema dissipates quickly"
   - "Lighter taste may not satisfy dark roast fans"
   - "Premium pricing versus third-party Vertuo pods"
+
 ---
 
 Let's cut to it: $48.69 for 32 coffee pods works out to about $1.52 per cup. That's cheaper than any Starbucks brewed coffee you'll buy at the counter, and it saves you the line. But does Sunsera Blend actually taste like the café experience, or are you paying for the green mermaid logo? I tested a full box in a Vertuo Next machine over two weeks. Here's the honest breakdown.

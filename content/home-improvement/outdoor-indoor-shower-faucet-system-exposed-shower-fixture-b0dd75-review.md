@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor&Indoor Shower Faucet System Exposed Shower Fixture"
 seo_title: "Outdoor&Indoor Shower Faucet System Exposed Shower Review"
 meta_description: "Our full outdoor&indoor shower faucet system exposed shower fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DD754VHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aXV5lZ+2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the dual-purpose shower valve that actually earns its keep indoors and out? I tested it for three weeks on a seasonal beach house setup and a basement utility shower. Here's the honest breakdown.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Automatic Sliding Gate Opener5 inch"
 seo_title: "Automatic Sliding Gate Opener5 Review: Worth It? (2026)"
 meta_description: "Honest Automatic Sliding Gate Opener5 review: performance, build quality, pros/cons, and who should buy. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSKJT2MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lU2zLdKyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-voltage 110V/220V motor handles heavy gates up to 1,200 lbs without straining"
   - "Gear-driven steel rack and pinion system delivers consistent, jam-free operation in wet conditions"
   - "Includes two rugged remote controls plus a keypad receiver — no extra wiring needed"
-cons:
+cons: 
   - "Hardware kit uses shallow self-tapping screws that strip easily on thin-wall steel gates"
   - "No soft-start/soft-stop feature — gate slams to a halt at full speed, stressing the end stops"
+
 ---
 
 If you're staring down a 12-foot sliding gate that's currently a manual workout every time you come home, the Automatic Sliding Gate Opener5 is the kind of upgrade that makes you wonder why you waited. With a 4.2-star average across 210 ratings, it's not the most popular opener on Amazon, but it's earned a solid following among homeowners who wanted something beefier than the cheap chain-drive units.

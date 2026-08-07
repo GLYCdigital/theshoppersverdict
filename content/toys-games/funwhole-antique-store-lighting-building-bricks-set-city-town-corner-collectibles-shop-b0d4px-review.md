@@ -1,4 +1,5 @@
 ---
+
 title: "FUNWHOLE Antique-Store Lighting Building-Bricks Set - City T"
 seo_title: "FUNWHOLE Antique-Store Lighting Set Review: City Bricks"
 meta_description: "FUNWHOLE Antique-Store Building-Bricks Set review: 4.6★ rated. LED lighting, 1,003 pieces, modular design. Is it worth $60? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4PX36TH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JDJu7ID0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED lighting system with wired power — no battery packs hidden in the build, no dead batteries after a week"
   - "1,003 pieces with a detailed storefront interior, including shelves, counter, and hanging lamps that actually illuminate"
   - "Compatible with standard building-brick brands, so it slots into existing city layouts without adapter plates"
-cons:
+cons: 
   - "Wiring harness is delicate during assembly — one reviewer noted a loose connection that required re-seating the cable"
   - "No motorized elements or moving parts beyond the door; this is a display piece, not a playset"
+
 ---
 
 Some building sets look great in the promo photos and fall apart in your hands. The FUNWHOLE Antique-Store set is not that. With 229 ratings averaging 4.6 stars, this 1,003-piece kit has carved out a niche for builders who want something that looks like a real storefront — not a plastic approximation of one.

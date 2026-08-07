@@ -1,4 +1,5 @@
 ---
+
 title: "Waterpik Genuine Precision Tips Replacement"
 seo_title: "Waterpik Genuine Precision Tips Replacement Review: Verdi"
 meta_description: "Our full waterpik genuine precision tips replacement review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSCV98ST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L9b3hZMmL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Why this matters more than you think**  

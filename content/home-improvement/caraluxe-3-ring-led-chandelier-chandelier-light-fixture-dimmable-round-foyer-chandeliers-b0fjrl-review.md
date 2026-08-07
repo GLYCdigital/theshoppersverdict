@@ -1,4 +1,5 @@
 ---
+
 title: "CaraLuxe 3 Ring LED Chandelier Chandelier Light Fixture Dimm"
 seo_title: "CaraLuxe 3 Ring LED Chandelier Review: Dimmable Foyer Light"
 meta_description: "Honest CaraLuxe 3 Ring LED Chandelier review: build quality, dimming performance, installation tips, and who should buy this modern foyer fixture."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJRLDCCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n8ZFiu6gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-ring concentric design with adjustable ring spacing — you can alter the visual footprint from 24 to 36 inches"
   - "Integrated dimmable LED array puts out a clean 3000K warm light that doesn't flicker at low settings"
   - "Slim 4-inch profile works in rooms with 8-foot ceilings where most chandeliers won't fit"
-cons:
+cons: 
   - "Driver box is bulky and hard to hide in the canopy — plan for extra ceiling clearance"
   - "No color temperature adjustment — you're locked to 3000K warm white"
   - "Ring alignment can shift during shipping; you'll need to manually re-tighten set screws"
+
 ---
 
 The CaraLuxe 3 Ring LED Chandelier is the rare modern fixture that actually delivers on its headline promise. Three concentric illuminated rings float at staggered heights, creating that "expensive designer showroom" look without the $1,200 price tag. But before you add it to your cart, understand what you're really getting — and where this fixture cuts corners.

@@ -1,4 +1,5 @@
 ---
+
 title: "MALACASA DECCA Soup Bowls"
 seo_title: "MALACASA DECCA Soup Bowls Review: Verdict | TSV"
 meta_description: "Our full malacasa decca soup bowls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5CZDZ6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515uVb+b2WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the flimsy ceramic bowls that go cold before you finish your soup. The MALACASA DECCA set does what cheap bowls can't: it keeps heat where it belongs.**

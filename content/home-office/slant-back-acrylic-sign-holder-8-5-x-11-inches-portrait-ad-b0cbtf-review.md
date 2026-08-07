@@ -1,4 +1,5 @@
 ---
+
 title: "Slant Back Acrylic Sign Holder 8.5 x 11 Inches, Portrait Ad "
 seo_title: "Slant Back Acrylic Sign Holder 8.5 x 11 Inches, Po Review"
 meta_description: "Our full slant back acrylic sign holder 8.5 x 11 inches, portrait ad  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBTFMVDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712EMih0ZeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. You're looking at a clear acrylic frame that holds one piece of paper at an angle. It costs about as much as a decent sandwich. So why do 235 people rate it 4.7 stars?

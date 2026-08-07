@@ -1,4 +1,5 @@
 ---
+
 title: "Sunday Weed & Green - Weed & Green for Lawns - Pre-Emergent "
 seo_title: "Sunday Weed & Green - Weed & Green for Lawns - Pre Review"
 meta_description: "Our full sunday weed & green - weed & green for lawns - pre-emergent  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F22QS9GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718YtraPpqL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out a professional lawn service this year, you already know the appeal of a bag you can spread yourself. Sunday Weed & Green promises the one-two punch of stopping crabgrass before it sprouts while feeding your turf — but the 3.6-star average across 180 ratings tells you the reality is more complicated. Here's what actually matters before you buy.

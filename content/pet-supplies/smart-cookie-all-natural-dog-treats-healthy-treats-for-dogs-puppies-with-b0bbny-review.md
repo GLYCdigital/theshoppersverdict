@@ -1,4 +1,5 @@
 ---
+
 title: "Smart Cookie All Natural Dog Treats - Healthy Treats for Dog"
 seo_title: "Smart Cookie All Natural Dog Treats - Healthy Trea Review"
 meta_description: "Our full smart cookie all natural dog treats - healthy treats for dog review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBNYM9FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YllopU4yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Smart Cookie All Natural Dog Treats Review: The Honest Take on These 4.5-Star Healthy Bites**  

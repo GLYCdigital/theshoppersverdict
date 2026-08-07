@@ -1,4 +1,5 @@
 ---
+
 title: "Fajiabao 18 Pcs Toddler Toys Cars for 1-3-5 Mini Pull Back C"
 seo_title: "Fajiabao 18 Pcs Toddler Cars Review: Pull Back Fun for Ages 1-5 inch"
 meta_description: "Fajiabao 18 pcs toddler pull back cars review: 4.4-star rated. Durable mini vehicles for ages 1-5. See what 220 buyers say about quality, value, and play value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHMNGB97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iiPITV0eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18 vehicles per box means roughly $0.50 per car at typical pricing — party favor gold"
   - "Pull-back mechanism is simple enough for 12-month-olds to master without frustration"
   - "Durable plastic body with no sharp edges or small detachable parts that break off easily"
-cons:
+cons: 
   - "Cars are roughly 2-3 inches long — smaller than many parents expect from product photos"
   - "Wheels can jam if fine sand or carpet fibers get lodged in the axle housing"
   - "No storage bag or container included — 18 loose cars will scatter quickly without a bin"
+
 ---
 
 Let's be honest about what we're looking at here. The Fajiabao 18-piece pull-back car set isn't a showpiece toy. It's a quantity play — and for the right buyer, that's exactly the point.

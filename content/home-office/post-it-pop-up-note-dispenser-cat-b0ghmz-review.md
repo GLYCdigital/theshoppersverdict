@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Pop-up Note Dispenser Cat"
 seo_title: "Post-it Pop-up Note Dispenser Cat Review: Verdict | TSV"
 meta_description: "Our full post-it pop-up note dispenser cat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHMZP5RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614LVo96vlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the cat-themed cuteness for a second. This is a 3M product, which means it's held to a different standard than the plastic desk junk that floods Amazon. The Post-it Pop-up Note Dispenser Cat isn't just a paperweight with whiskers — it's a functional office tool that happens to look like a feline. But is it worth the desk real estate? I've tested it, and here's the honest breakdown.

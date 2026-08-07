@@ -1,4 +1,5 @@
 ---
+
 title: "Fomcet Metal Wedding Arch Adjustable Over The Table Rod Stan"
 seo_title: "Fomcet Wedding Arch Review: Adjustable Over-Table Rod Stand"
 meta_description: "Fomcet Metal Wedding Arch with adjustable over-table rod stand: sturdy, versatile backdrop for ceremonies. Read our honest 4.6/5 review."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNR54L5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ypxgGPcEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clamp-mounted base grips table edges up to 2 inches thick — no sandbags or stakes needed"
   - "Adjustable height range from 6 to 8 feet, plus a telescoping crossbar that extends to 6 feet wide"
   - "Matte black powder-coated steel resists rust and scratches, surviving outdoor humidity and sun"
-cons:
+cons: 
   - "Clamps require a solid table or deck rail — you can't stake this into soft ground like a traditional arch"
   - "Assembly needs two people for the top section; the locking pins are stiff out of the box"
   - "No carrying case included, so transport requires careful bundling to avoid scratches"
+
 ---
 
 Let's cut through the wedding décor noise. Most backyard ceremony arches are either flimsy pop-up models that collapse in a breeze or heavy permanent structures you need a truck to move. The Fomcet Metal Wedding Arch takes a smarter route: it clamps onto whatever table, deck, or railing you already have, then extends upward to frame your ceremony. That's a genuinely useful design twist, and after digging through 225 ratings averaging 4.5 stars, the consensus is clear — this thing works, with a few caveats worth knowing before checkout.

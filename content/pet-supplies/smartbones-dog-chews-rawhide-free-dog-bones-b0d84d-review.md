@@ -1,4 +1,5 @@
 ---
+
 title: "SmartBones Dog Chews, Rawhide-Free Dog Bones"
 seo_title: "SmartBones Dog Chews, Rawhide-Free Dog Bones Review: Verd"
 meta_description: "Our full smartbones dog chews, rawhide-free dog bones review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D84DPVBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the rawhide alternative your dog actually needs?** If you've ever pulled a slimy, half-dissolved rawhide chunk out of your dog's mouth while silently praying they don't choke, you already know why SmartBones exists. These rawhide-free chews promise the satisfaction of a bone without the gastrointestinal gamble. But at 4.0 stars across 200 ratings, the real question is whether they deliver on that promise consistently — or just occasionally.

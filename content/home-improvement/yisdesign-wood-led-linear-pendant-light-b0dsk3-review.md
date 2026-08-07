@@ -1,4 +1,5 @@
 ---
+
 title: "YISDESIGN Wood LED Linear Pendant Light"
 seo_title: "YISDESIGN Wood LED Linear Pendant Light Review: Verdict |"
 meta_description: "Our full yisdesign wood led linear pendant light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSK33ZZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41-O6vdLhIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a dozen identical black cylinder pendants and want something that actually warms up a room, the YISDESIGN Wood LED Linear Pendant is worth a hard look. It's a 40-inch rectangular fixture with a real acacia wood housing — not veneer, not printed laminate — that throws a clean, warm light across kitchen islands or dining tables. At 4.3 stars from 215 ratings, it's not perfect, but it's got character most fixtures in this category lack.

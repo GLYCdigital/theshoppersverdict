@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Ergonomic Mesh Office Chair"
 seo_title: "COLAMY Ergonomic Mesh Office Chair Review (2026): Worth It?"
 meta_description: "COLAMY Ergonomic Mesh Office Chair review: 4.2/5 from 210 ratings. We break down comfort, build quality, and who this budget chair is actually for."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR9SYBW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O6rutFGDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely breathable 3D mesh backrest that prevents sweaty backs during long sessions — a real differentiator at this price point"
   - "Tilt mechanism with adjustable tension actually works smoothly, letting you rock back without feeling like you'll tip over"
   - "Assembly takes under 20 minutes with clear instructions and all tools included — no wrestling with misaligned holes"
-cons:
+cons: 
   - "Seat cushion is firm — if you prefer plush padding, this will feel like sitting on a board for the first two weeks"
   - "Armrests only adjust up/down, not in/out or angle — taller users may find them slightly narrow for proper elbow support"
+
 ---
 
 Let's be direct: the sub-$200 ergonomic office chair market is a graveyard of wobbly bases and faux-leather that peels by month three. The COLAMY Ergonomic Mesh Office Chair isn't trying to reinvent the wheel — it's trying to nail the fundamentals without cutting every corner. After digging through 210 Amazon ratings and the spec sheet, here's the real story.

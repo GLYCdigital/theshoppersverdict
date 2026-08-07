@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Car Seats for Small Dogs, FurFrolic Memory Foam Dog Boos"
 seo_title: "FurFrolic Dog Car Seat Review: Memory Foam Booster for Small Dogs"
 meta_description: "Honest FurFrolic dog car seat review: memory foam comfort, safety straps, and real owner feedback. Is this booster seat worth it for small dogs? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G52BXFZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lQpYQGa9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine memory foam base that holds its shape and keeps small dogs elevated enough to see out windows"
   - "Removable, machine-washable faux fur cover survives repeated cleaning without pilling or fading"
   - "Sturdy anti-slip base with adjustable safety tether that clips directly to a dog's harness, not collar"
-cons:
+cons: 
   - "No built-in seat belt pass-through; securing it properly requires routing the vehicle's belt around the base"
   - "Faux fur cover attracts hair and static, so lint rolling between washes is basically mandatory"
   - "Size runs small — dogs over 15 pounds will find it cramped despite the listed 25-pound capacity"
+
 ---
 
 If you've ever slammed on the brakes with a 12-pound dog loose in the passenger seat, you already know the problem. Small dogs don't ride well unsecured — they wobble, they pace, and in a sudden stop, they become projectiles. The FurFrolic Memory Foam Dog Booster Seat promises to fix that with a plush, elevated perch that turns your car's seat into something resembling first class for canines. After digging through 220 ratings (a solid 4.4 stars), here's what actually matters.

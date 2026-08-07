@@ -1,4 +1,5 @@
 ---
+
 title: "VASOENY Sofa Chair"
 seo_title: "VASOENY Sofa Chair Review: Verdict | TSV"
 meta_description: "Our full vasoeny sofa chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D44KFSVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xqQ9eYLeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: the VASOENY Sofa Chair is the kind of accent chair that makes you wonder why you'd spend three times more elsewhere. With 225 ratings averaging 4.5 stars, it's clearly doing something right. But is it the right chair for *your* living room, bedroom, or reading nook? I dug through the buyer feedback and specs to give you the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "ESR for iPad (A16) 11th/10th Generation Case, Detachable Mag"
 seo_title: "ESR iPad A16 11th Gen Case Review: Detachable Mag Cover"
 meta_description: "ESR iPad A16 11th/10th gen case with detachable magnetic cover: tested for drop protection, pencil support, and value. Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVD3VYHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-2+NCs0FL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Detachable magnetic cover snaps off cleanly for handheld use without adding bulk"
   - "Precise cutouts and tight fit around buttons and camera — no wobble or misalignment"
   - "Apple Pencil charging works through the case with the side flap secured by magnet"
-cons:
+cons: 
   - "Magnetic cover's holding strength weakens slightly after a few weeks of daily detaching"
   - "Kickstand only offers two viewing angles — no low typing angle option"
   - "Slightly heavier than minimalist folio cases at ~0.9 lbs with cover attached"
+
 ---
 
 Let's cut through the noise. The ESR Detachable Mag case for the iPad (A16) 11th/10th generation is one of those accessories that tries to be three things at once: a protective folio, a kickstand stand, and a slim handheld cover. The surprise? It mostly succeeds. 

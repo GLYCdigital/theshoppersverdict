@@ -1,4 +1,5 @@
 ---
+
 title: "Osoeri Beach Tent, Camping Sun Shelter UPF50+ with 8 Sandbag"
 seo_title: "Osoeri Beach Tent, Camping Sun Shelter UPF50+ with Review"
 meta_description: "Our full osoeri beach tent, camping sun shelter upf50+ with 8 sandbag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD3MWQJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CkbBR69HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most beach tents under $60 are glorified umbrellas with walls. The Osoeri Beach Tent isn't that. With eight sandbags, a UPF50+ rating, and a full floor, it's built like someone actually thought about what happens when the wind picks up at 2 PM on a crowded shoreline. After digging through 220 Amazon ratings (4.4 stars) and buyer photos, here's the real story.

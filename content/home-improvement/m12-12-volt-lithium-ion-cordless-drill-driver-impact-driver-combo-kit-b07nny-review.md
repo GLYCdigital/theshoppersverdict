@@ -1,4 +1,5 @@
 ---
+
 title: "M12 12-Volt Lithium-Ion Cordless Drill Driver/Impact Driver "
 seo_title: "M12 12-Volt Lithium-Ion Cordless Drill Driver/Impa Review"
 meta_description: "Our full m12 12-volt lithium-ion cordless drill driver/impact driver  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07NNYKXVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B4NJkgBQL._AC_SX355_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a full-size 18V drill into a cabinet hinge screw or tried to drive a 3-inch deck screw one-handed while balancing on a ladder, you already know why the M12 system exists. This compact duo from Milwaukee is the answer to "I need power, but I need it small."

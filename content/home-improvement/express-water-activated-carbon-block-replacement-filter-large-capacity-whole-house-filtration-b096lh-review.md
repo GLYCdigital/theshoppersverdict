@@ -1,4 +1,5 @@
 ---
+
 title: "Express Water Activated Carbon Block Replacement Filter Larg"
 seo_title: "Express Water Carbon Block Filter Review: Whole-House Value"
 meta_description: "Honest Express Water Activated Carbon Block Replacement Filter review. Real performance data, lifespan, and installation tips for whole-house filtration."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096LH4L82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nvh0AEJSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20,000-gallon capacity means roughly 6 months of service for a family of four — fewer changeouts than typical 10-inch carbon filters"
   - "5-micron carbon block removes chlorine, chloramine, VOCs, and sediment in one pass without the channeling issues of loose GAC media"
   - "Universal 10-inch x 4.5-inch sizing fits most standard whole-house filter housings, including iSpring and Pentek systems"
-cons:
+cons: 
   - "Initial water pressure drop of 10-15 PSI in homes with already-low well pressure — may require a pressure tank adjustment"
   - "No built-in sediment pre-filter means sandy or high-turbidity well water will clog this block prematurely"
+
 ---
 
 ## The Workhorse Filter That Actually Keeps Its Promises

@@ -1,4 +1,5 @@
 ---
+
 title: "AP-1512HH HEPA Set Compatible with Coway Filter - 2 Year Sup"
 seo_title: "AP-1512HH HEPA Filter Set for Coway: 2-Year Review (2026)"
 meta_description: "Honest AP-1512HH HEPA filter set review for Coway air purifiers. Covers fit, performance, 2-year value, and real buyer feedback. See if it's worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NVYD4KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UWjVqccRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True HEPA H13-grade media captures 99.97% of particles down to 0.3 microns — verified by multiple buyers with particle counters"
   - "Includes both the HEPA filter AND the activated carbon deodorization filter — a complete 2-year set, not just one piece"
   - "Exact dimensional match to OEM Coway AP-1512HH filters; drop-in fit with no modification needed"
-cons:
+cons: 
   - "No sealing gasket around the HEPA frame edge — some units may have minor air bypass if the housing doesn't compress tightly"
   - "Carbon filter is thinner than OEM; odor removal is adequate but not exceptional for heavy cooking or smoke exposure"
+
 ---
 
 ## The $60 question: Is this Coway filter replacement actually worth it?

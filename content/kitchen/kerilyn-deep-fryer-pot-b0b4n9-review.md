@@ -1,4 +1,5 @@
 ---
+
 title: "Kerilyn Deep Fryer Pot"
 seo_title: "Kerilyn Deep Fryer Pot Review: Verdict | TSV"
 meta_description: "Our full kerilyn deep fryer pot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B4N9F1ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CABEc+V-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past countertop electric fryers because they're bulky, hard to clean, and eat up storage space, the Kerilyn Deep Fryer Pot offers a different path. This is a stovetop solution — a 5.3-quart stainless steel pot with a fry basket that does the same job without the plastic housing taking over your kitchen. At 4.2 stars across 210 ratings, it's not perfect, but for the right buyer it's a genuinely smart purchase.

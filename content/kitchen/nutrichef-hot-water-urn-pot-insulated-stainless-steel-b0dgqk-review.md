@@ -1,4 +1,5 @@
 ---
+
 title: "NutriChef Hot Water Urn Pot Insulated Stainless Steel"
 seo_title: "NutriChef Hot Water Urn Pot Insulated Stainless St Review"
 meta_description: "Our full nutrichef hot water urn pot insulated stainless steel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DGQKYCSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711Ht1+y-VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NutriChef Hot Water Urn Pot solves a problem you didn't know you had — until you've hosted a holiday dinner and boiled the kettle six times. This 3.2-liter stainless steel urn holds enough hot water for a full tea service, pour-over coffee station, or office breakroom, and it keeps that water hot for hours without babysitting.

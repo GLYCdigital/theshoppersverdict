@@ -1,4 +1,5 @@
 ---
+
 title: "DoggieLawn Disposable Dog Potty - Real Grass - X-Large"
 seo_title: "DoggieLawn Real Grass Dog Potty Review: X-Large (2026)"
 meta_description: "DoggieLawn X-Large disposable real grass dog potty review: Build, odor control, longevity, and value. Is it worth $50+? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07CS8181K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716UCSCIMSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real, live grass sod—dogs instinctively recognize it and pee immediately, no training pads required"
   - X-Large size (36 inch " x 24 inch ") actually fits medium and large breeds; urine drains through to the tray below
   - "Arrives fresh with root system intact; most buyers report 2–3 weeks of use before replacement"
-cons:
+cons: 
   - "Expensive as a recurring cost—roughly $50–$60 per tray adds up fast for full-time indoor use"
   - "Can leak if dogs lift a leg near the edges; some buyers report tray cracks after a week of heavy use"
   - "Not a true 'odor-free' solution—ammonia smell develops by week two unless you water it down daily"
+
 ---
 
 **Bottom line up front:** If your dog refuses pee pads, hates fake grass, and you need a temporary or apartment-friendly solution, the DoggieLawn X-Large delivers exactly what it promises: real grass that dogs actually use. But this is a subscription-priced convenience, not a budget fix. Here's the honest breakdown after digging through 200+ owner experiences.

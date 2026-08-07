@@ -1,4 +1,5 @@
 ---
+
 title: "ONLYLUX 4Pack LED High Bay Light 200W 30000LM Commercial Lig"
 seo_title: "ONLYLUX 4Pack LED High Bay Light 200W 30000LM Comm Review"
 meta_description: "Our full onlylux 4pack led high bay light 200w 30000lm commercial lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ3J74S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DQY6opw3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a dark warehouse squinting at a pallet label, you know why high bay lighting matters. The ONLYLUX 4-pack 200W LED high bay light promises to fix that with 30,000 lumens per fixture — and after digging through 235 ratings and the spec sheet, this one largely delivers. It's not perfect, but for a budget-friendly commercial lighting upgrade, it's hard to beat.

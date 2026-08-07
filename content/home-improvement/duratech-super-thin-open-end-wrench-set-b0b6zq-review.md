@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Super-Thin Open End Wrench Set"
 seo_title: "DURATECH Super-Thin Wrench Set Review: Pros, Cons & Verdict"
 meta_description: "DURATECH Super-Thin Open End Wrench Set reviewed: ultra-slim design, build quality, real-world performance, and who should buy it. Honest 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6ZQ64YT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cbGpPCTrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ultra-thin profile (about half the thickness of standard wrenches) lets you reach fasteners in tight engine bays and cramped plumbing spaces where regular wrenches simply won't fit"
   - "Chrome vanadium steel construction with a mirror-polished finish resists corrosion and wipes clean easily after greasy jobs"
   - "Open-end design angles at 15 degrees, giving you more swing arc in confined spaces without flipping the wrench"
-cons:
+cons: 
   - "Thin profile means less torque capacity — don't use these for breaking loose rusted bolts or heavy lug nut work; they'll flex under extreme force"
   - "Only open-end, no box-end side — you lose the grip security a closed end provides for final tightening"
+
 ---
 
 If you've ever contorted your arm behind a dishwasher supply line or fought to reach a bolt tucked between engine components, you know the frustration: the wrench fits, but the handle hits something solid before you can turn it. The DURATECH Super-Thin Open End Wrench Set attacks exactly that problem. These wrenches are dramatically slimmer than standard fare — think half the thickness — which means they slide into gaps that would stop a typical Craftsman or Husky cold. For anyone who works on tight spaces, this set earns its place in the drawer before your standard wrenches do.

@@ -1,4 +1,5 @@
 ---
+
 title: "L.A. Girl HD Pro.Conceal"
 seo_title: "L.A. Girl HD Pro.Conceal Review: Verdict | TSV"
 meta_description: "Our full l.a. girl hd pro.conceal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ32QNYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616SRw7iQPL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $9 Concealer That Beats My $34 One

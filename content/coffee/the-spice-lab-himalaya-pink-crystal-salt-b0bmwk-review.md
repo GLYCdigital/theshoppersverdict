@@ -1,4 +1,5 @@
 ---
+
 title: "The Spice Lab Himalaya Pink Crystal Salt"
 seo_title: "The Spice Lab Himalaya Pink Crystal Salt Review: Verdict "
 meta_description: "Our full the spice lab himalaya pink crystal salt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BMWKG1Z8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JTuN7VkXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most pink salt is a marketing gimmick wrapped in a pretty color. The Spice Lab's Himalayan Pink Crystal Salt, with its 4.8-star average across 240 ratings, is one of the few that earns its shelf space. Here's why.

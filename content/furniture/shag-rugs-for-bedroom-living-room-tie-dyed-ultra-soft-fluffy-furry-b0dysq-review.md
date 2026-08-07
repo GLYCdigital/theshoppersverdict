@@ -1,4 +1,5 @@
 ---
+
 title: "Shag Rugs for Bedroom Living Room, Tie-Dyed Ultra Soft Fluff"
 seo_title: "Shag Rugs for Bedroom Living Room, Tie-Dyed Ultra  Review"
 meta_description: "Our full shag rugs for bedroom living room, tie-dyed ultra soft fluff review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYSQGD42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DjZHuFkYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing fluff: this is a 1.5-inch pile shag rug with a tie-dye pattern that's honestly more subdued than the product photos suggest. At 4.4 stars across 220 ratings, it's clearly doing something right. But the real question is whether it belongs in *your* bedroom or living room.

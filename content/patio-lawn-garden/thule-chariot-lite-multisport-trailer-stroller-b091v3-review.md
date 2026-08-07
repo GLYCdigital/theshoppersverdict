@@ -1,4 +1,5 @@
 ---
+
 title: "Thule Chariot Lite Multisport Trailer & Stroller"
 seo_title: "Thule Chariot Lite Multisport Trailer & Stroller Review: "
 meta_description: "Our full thule chariot lite multisport trailer & stroller review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B091V3RR54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UQow5fgyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Thule Chariot Lite isn't cheap, and it isn't small, and it isn't something you buy on a whim. But if you're an active parent who wants to keep running, cycling, or cross-country skiing with your kid in tow, this is the trailer that does all three without demanding a separate piece of equipment for each sport. With 225 ratings averaging 4.5 stars, the consensus is clear: it's expensive, it's worth it, and it has a few quirks you should know about before you click buy.

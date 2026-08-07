@@ -1,4 +1,5 @@
 ---
+
 title: "Cat's Pride Premium Lightweight"
 seo_title: "Cat's Pride Premium Lightweight Review: Is It Worth It?"
 meta_description: "Cat's Pride Premium Lightweight litter review: 4.4/5 rating, 220 reviews. Does it control odor and clump well? We break down pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GK9RPJPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KwW2W2A0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight formula (roughly 50% lighter than standard clay) makes box changes and refills genuinely easier, especially for multi-cat households or anyone with back issues."
   - "Strong odor control that holds up for a full week in a single-cat home, with a fresh scent that doesn't clash with urine or feces smells."
   - "Hard, fast clumps that hold their shape during scooping—no crumbling that leaves sticky residue on the box bottom."
-cons:
+cons: 
   - "Dust is noticeable on pour and when digging; sensitive cats or owners may sneeze, and it can leave a fine film on nearby surfaces."
   - "The lightweight formula can scatter outside the box more easily than heavier clays—expect to sweep more often if you have an enthusiastic digger."
+
 ---
 
 Let me be blunt: most "lightweight" litters sacrifice performance for convenience. You get a jug that's easy to lift, but you're also getting weak clumps, mediocre odor control, or dust that coats your bathroom like a snow globe exploded. Cat's Pride Premium Lightweight aims to break that pattern. After digging through 220 Amazon ratings averaging 4.4 stars, the consensus is clear—this litter mostly delivers. But "mostly" carries some caveats.

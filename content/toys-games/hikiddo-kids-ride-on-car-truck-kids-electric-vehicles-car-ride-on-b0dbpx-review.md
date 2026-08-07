@@ -1,4 +1,5 @@
 ---
+
 title: "Hikiddo Kids Ride on Car Truck, Kids Electric Vehicles Car R"
 seo_title: "Hikiddo Kids Ride on Car Truck Review: Worth It? (2026)"
 meta_description: "Hikiddo kids ride-on truck review: 4.6-star rated electric vehicle. Real parent feedback on battery life, assembly, and durability. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBPX3364/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81S15MkaYwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Parent remote control override works reliably, giving caregivers emergency braking at distances up to 30 feet"
   - "12V battery provides roughly 60-90 minutes of continuous run time before needing a charge"
   - "Built-in MP3 player, USB port, and Bluetooth connectivity keep kids entertained beyond just driving"
-cons:
+cons: 
   - "Assembly requires 45-60 minutes and the included Allen wrench strips easily on the wheel bolts"
   - "Plastic body panels show scratches quickly when driven on rough concrete or against curbs"
+
 ---
 
 **Hikiddo Kids Ride on Car Truck Review: A 4.6-Star Ride, But Know What You're Buying**

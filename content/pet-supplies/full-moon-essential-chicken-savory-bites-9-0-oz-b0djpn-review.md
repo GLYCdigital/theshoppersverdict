@@ -1,4 +1,5 @@
 ---
+
 title: "Full Moon Essential Chicken Savory Bites 9.0 oz"
 seo_title: "Full Moon Essential Chicken Savory Bites Review (2026)"
 meta_description: "Honest Full Moon Essential Chicken Savory Bites review: real ingredients, training treat versatility, and sizing tradeoffs. See if this 9 oz bag suits your dog."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJPN8ZTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711g28lNRYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Single-ingredient, USDA-inspected chicken with no preservatives, by-products, or fillers"
   - "Soft, moist texture that breaks into small pieces — works for puppies and senior dogs"
   - "Resealable 9 oz pouch keeps treats fresh longer than typical paper bags"
-cons:
+cons: 
   - "Bite size runs large for small breeds — you'll need to tear or cut most pieces"
   - "No zip-top closure despite being labeled resealable; it's a fold-and-clip seal"
+
 ---
 
 **Full Moon Essential Chicken Savory Bites 9.0 oz Review: Real Chicken, Real Simple — But Size Matters**

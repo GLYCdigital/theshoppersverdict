@@ -1,7 +1,8 @@
 ---
-title: "Airboss AW-342GL 1\" US Germany Award Winning Premium Air Imp"
+
+title: "Airboss AW-342GL 1\ US Germany Award Winning Premium Air Imp"
 seo_title: "Airboss AW-342GL Impact Wrench Review: Worth It? (2026)"
-meta_description: "Airboss AW-342GL 1\" air impact wrench review: real power, build quality, and value. See pros, cons, and who should buy this award-winning tool."
+meta_description: "Airboss AW-342GL 1\ air impact wrench review: real power, build quality, and value. See pros, cons, and who should buy this award-winning tool."
 slug: "airboss-aw-342gl-1-us-germany-award-winning-premium-air-impact-wrench-b0g1pr-review"
 image_alt: "Airboss AW-342GL 1-inch drive air impact wrench with protective boot and accessories"
 verdict_score: 4.6
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G1PRNL2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cJN0Yg0KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin-hammer mechanism delivers 1,200 ft-lbs of breakaway torque — genuine heavy-duty performance, not marketing math"
   - "Full-grain leather grip and magnesium housing keep weight at 8.2 lbs while surviving shop drops"
   - Includes 1\" and 3/4\" anvils plus a protective boot — real value, not throwaway accessories
-cons:
+cons: 
   - Requires a 1/2\" hose and 10+ CFM compressor; underpowered air supplies will leave you frustrated
   - "At 8.2 lbs, it's a two-hand tool for extended use — shoulder fatigue is real on suspension jobs"
   - "Price sits above budget brands like Pittsburgh Pro; you're paying for the German-engineered internals"
+
 ---
 
 # Airboss AW-342GL 1" Impact Wrench Review: German Engineering Meets Real-World Abuse

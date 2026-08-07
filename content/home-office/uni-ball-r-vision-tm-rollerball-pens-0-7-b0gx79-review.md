@@ -1,4 +1,5 @@
 ---
+
 title: "uni-ball(R) Vision(TM) Rollerball Pens, 0.7"
 seo_title: "uni-ball(R) Vision(TM) Rollerball Pens, 0.7 Review: Verdi"
 meta_description: "Our full uni-ball(r) vision(tm) rollerball pens, 0.7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX79VZFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The uni-ball Vision 0.7 is the pen you'll find clipped to a nurse's scrubs, a contractor's clipboard, and a novelist's Moleskine. It's been a professional's workhorse for decades, and the current version holds up — but it's not without quirks. Let's cut through the ink-stained hype.

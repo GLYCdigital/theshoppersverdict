@@ -1,4 +1,5 @@
 ---
+
 title: "American Flag Polyester"
 seo_title: "American Flag Polyester Review: Durable Outdoor Flag"
 meta_description: "Is the American Flag Polyester worth it? Our honest review covers durability, fabric quality, colorfastness, and real buyer feedback for this 4.5-star outdoor flag."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FK5W81MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8189zCbkhEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavyweight 200-denier polyester holds up through wind and weather far better than budget nylon flags"
   - "Stitched stars and reinforced fly-end hem prevent the early fraying that kills most cheap flags"
   - "Colors stay bold after months of sun exposure — no immediate fading or bleeding between stripes"
-cons:
+cons: 
   - "Fabric is stiffer than cotton or nylon — takes a few days of flying to soften and drape naturally"
   - "No storage bag or pole hardware included — this is strictly the flag itself"
+
 ---
 
 The American Flag Polyester is the kind of product you don't think about until you've bought three cheap flags in one year. If you've been replacing faded, shredded Stars and Stripes every few months, this 200-denier polyester version is worth a closer look. At 4.5 stars across 225 ratings, it's not the flashiest product on Amazon — but it might be the most dependable.

@@ -1,4 +1,5 @@
 ---
+
 title: "IRONZON Fingerprint Door Handle for Bedrooms - 191F 3-in-1 F"
 seo_title: "IRONZON Fingerprint Door Handle for Bedrooms - 191 Review"
 meta_description: "Our full ironzon fingerprint door handle for bedrooms - 191f 3-in-1 f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DSLCYD1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gr6jXrYCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The IRONZON 191F is a curious middle ground. It's not a full smart lock—there's no app, no Wi-Fi, no remote access. But it's also more than a standard keyed handle. If you're looking to ditch keys for your bedroom, office, or interior door without diving into the smart home ecosystem, this $50–70 handle (price varies by seller) is worth a serious look. Just know what you're signing up for.

@@ -1,4 +1,5 @@
 ---
+
 title: "5x7 Cardstock Paper, 80lb White Cardstock Thick Paper Heavyw"
 seo_title: "5x7 Cardstock Paper Review: 80lb Heavyweight Tested"
 meta_description: "Honest 5x7 cardstock review: 80lb thickness, print quality, real buyer feedback. Is this heavyweight paper worth it for DIY invites? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYZJ8YNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51g3nbt4z-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 80lb cover weight — substantial 220gsm feel that holds structure for cards and stands without bowing"
   - "Consistent 5x7 sizing with clean, uniform edges — no deckled cuts or off-square corners across the ream"
   - "Double-sided printing works flawlessly; ink dries quickly with minimal bleed even on budget inkjets"
-cons:
+cons: 
   - "Pure bright white (98+ brightness) can feel stark for vintage or cream-toned wedding aesthetics"
   - "No perforation or pre-scored fold lines — you'll need a bone folder for crisp card creases"
+
 ---
 
 If you've ever grabbed a "cardstock" pack from a big-box store only to realize it's barely thicker than copy paper, you know the frustration. That's exactly why this 5x7 cardstock from a dedicated paper manufacturer deserves a closer look. At 80lb cover weight — that's roughly 220gsm — this isn't the flimsy 65lb stuff that flops over in your hand. It's the real deal for anyone making invitations, place cards, or small signage.

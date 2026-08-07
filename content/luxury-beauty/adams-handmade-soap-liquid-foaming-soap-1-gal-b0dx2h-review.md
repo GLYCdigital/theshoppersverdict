@@ -1,4 +1,5 @@
 ---
+
 title: "Adams Handmade Soap Liquid Foaming Soap 1 Gal"
 seo_title: "Adams Handmade Foaming Soap Review: 1 Gal Luxury Clean"
 meta_description: "Adams Handmade Soap Liquid Foaming Soap 1 Gal review: Is this luxury refill worth $38? Real performance, scent, and value breakdown."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX2HJ487/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R9N8KXymL._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated formula delivers roughly 4 gallons of finished foaming soap — about 8x cheaper per ounce than bottled luxury soaps"
   - "Glycerin-rich base actually moisturizes; hands don't feel stripped or tight after repeated washing"
   - "One-gallon container with pump means refills every 2-3 months for a typical household"
-cons:
+cons: 
   - "No added fragrance options — scent is mild natural soap base only, not for fragrance lovers"
   - "Requires dilution with distilled water; tap water with heavy minerals can affect foam quality"
+
 ---
 
 Let me be direct: most "luxury" foaming soaps are 90% water sold at a 900% markup. Adams Handmade Soap Liquid Foaming Soap 1 Gal flips that equation — you're paying $37.99 for a concentrated gallon that stretches into roughly four gallons of finished product. That's the headline. Here's whether it actually delivers.

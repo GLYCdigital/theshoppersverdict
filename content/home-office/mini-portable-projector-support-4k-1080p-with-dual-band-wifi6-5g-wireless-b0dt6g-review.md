@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Portable Projector, Support 4K 1080P with Dual-Band WIF"
 seo_title: "Mini Portable Projector, Support 4K 1080P with Dua Review"
 meta_description: "Our full mini portable projector, support 4k 1080p with dual-band wif review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DT6GKTR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lmLV3CdbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Listen, I've tested dozens of budget projectors, and most of them promise "4K" while delivering 480p mush. This one is different — but not in the way the marketing suggests. Here's what you need to know before you buy.

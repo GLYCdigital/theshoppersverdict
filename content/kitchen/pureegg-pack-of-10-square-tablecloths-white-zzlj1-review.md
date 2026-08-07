@@ -1,17 +1,18 @@
 ---
+
 title: "Pureegg Pack of 10 Square Tablecloths, White-ZZLJ1 inch"
 seo_title: "Pureegg 10-Pack Disposable Tablecloths Review"
 meta_description: "Our verdict on Pureegg 10-Pack Disposable Tablecloths: 6,462 real reviews. 54 x 108 inch, white, for parties and events. Best $9.97 disposable table covers?"
 slug: "pureegg-pack-of-10-square-tablecloths-white-zzlj1-review"
 image_alt: "Pureegg Pack of 10 Square Tablecloths, White"
-keywords:
+keywords: 
   - "pureegg tablecloths review"
   - "disposable tablecloths"
   - "party table covers"
   - "wedding tablecloths"
   - "plastic tablecloth"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "Are Pureegg tablecloths see-through?"
     answer: "They can be, depending on the surface underneath. The plastic is thin — several reviewers mention it's slightly see-through, especially on dark tables. For a white-on-white look (tablecloth over a white table), it's fine. On dark wood, you may want a layer or a thicker option."
   - question: "How durable are Pureegg disposable tablecloths?"
@@ -26,16 +27,17 @@ review_count: 6462
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBM682SQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eAr9iJ0KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-pack for under $10 — unbeatable per-tablecloth cost"
   - "Thicker than expected for disposable — holds up all day"
   - "Clean, bright white — looks neat for parties and events"
   - "Fits standard 6ft and 8ft banquet tables"
-cons:
+cons: 
   - "Thin plastic — slightly see-through on dark tables"
   - "Can tear if handled roughly or caught on sharp edges"
   - "Wrinkle-prone out of the package"
   - "Not reusable in most cases — single-event only"
+
 ---
 
 If you've ever hosted a party, you know the tablecloth math: you need to cover tables, you don't want to spend a fortune, and you absolutely don't want to do laundry at midnight after everyone leaves. The **Pureegg 10-Pack Disposable Tablecloths** promise a clean white look for $9.97 — less than $1 per table. We analyzed 6,462 reviews to see if they hold up.

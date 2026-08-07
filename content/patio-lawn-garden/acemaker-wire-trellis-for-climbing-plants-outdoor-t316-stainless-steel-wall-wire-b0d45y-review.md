@@ -1,4 +1,5 @@
 ---
+
 title: "Acemaker Wire Trellis for Climbing Plants Outdoor, T316 Stai"
 seo_title: "Acemaker Wire Trellis Review: T316 Stainless for Climbing Plants"
 meta_description: "Acemaker wire trellis for climbing plants outdoor: T316 stainless build, wall-mount design, 225+ ratings at 4.5 stars. Is it worth it? Read our honest review."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D45YN7BP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wkNredZJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True T316 marine-grade stainless steel resists rust and corrosion even in coastal salt air"
   - "Rigid 3mm wire grid holds heavy vining plants like clematis and climbing roses without sagging"
   - "Includes all mounting hardware and wall spacers, so installation takes under 15 minutes"
-cons:
+cons: 
   - "Grid spacing is tight for large-fruited vegetables — tomatoes need creative weaving"
   - "No included anchor bolts for brick or masonry surfaces; you'll need to buy those separately"
+
 ---
 
 The Acemaker Wire Trellis looks simple in the product photos — a grid of stainless wire, some mounting brackets, nothing flashy. But get it in your hands and you understand why it's pulling 4.5 stars across 225 ratings. This is one of those rare garden products that doesn't cut corners on the material that actually matters.

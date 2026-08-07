@@ -1,4 +1,5 @@
 ---
+
 title: "Euro Cuisine Electric Yogurt Maker Machine- Promote Gut Heal"
 seo_title: "Euro Cuisine Yogurt Maker Review: Probiotic-Rich, Gut-Healthy"
 meta_description: "Euro Cuisine electric yogurt maker review: 6 glass jars, probiotic-rich yogurt in 8-12 hours. We tested temperature, texture, and ease of use."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSPJCBMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718w0rri56L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes six 6-ounce BPA-free glass jars with lids — no plastic leaching concerns, and they're dishwasher safe"
   - "Simple one-button operation with automatic shut-off at 12 hours; no timers to program or settings to fiddle with"
   - "Consistent 108°F incubation temperature maintained throughout the full cycle, verified by multiple long-term owners"
-cons:
+cons: 
   - "No built-in timer — you'll need to set your own alarm or remember when you started the batch"
   - "Lids are snap-on plastic that can crack if you overtighten or drop them; replacement jars sold separately"
+
 ---
 
 # Euro Cuisine Electric Yogurt Maker Review: Is This the Gut-Health Hack You Need?

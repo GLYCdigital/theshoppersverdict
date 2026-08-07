@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT 12 Pack 6 Inch Square Ultra-Thin LED Recessed Lightin"
 seo_title: "NUWATT 12 Pack 6 Inch Square Ultra-Thin LED Recess Review"
 meta_description: "Our full nuwatt 12 pack 6 inch square ultra-thin led recessed lightin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0949LHVKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jhplTCO+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **NUWATT 12-Pack 6-Inch Square Ultra-Thin LED Recessed Lights: The Honest Breakdown**

@@ -1,4 +1,5 @@
 ---
+
 title: "VATONI Adjustable Dimmable Wall Sconce"
 seo_title: "VATONI Adjustable Dimmable Wall Sconce Review: Verdict | "
 meta_description: "Our full vatoni adjustable dimmable wall sconce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09XMQVK3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MvjgSFuxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VATONI Adjustable Dimmable Wall Sconce** sits in that sweet spot of home improvement purchases: it's not the cheapest option, but it's not trying to be. At 4.5 stars across 225 ratings, this is a fixture that's earned its reputation through consistent performance rather than hype. Here's the real story.

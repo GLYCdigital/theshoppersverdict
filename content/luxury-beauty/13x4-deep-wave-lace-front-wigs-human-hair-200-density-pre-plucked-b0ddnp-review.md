@@ -1,4 +1,5 @@
 ---
+
 title: "13x4 Deep Wave Lace Front Wigs Human Hair 200% Density Pre P"
 seo_title: "13x4 Deep Wave Lace Front Wig Review: 200% Density Human Hair"
 meta_description: "Honest 13x4 Deep Wave Lace Front Wig review: 200% density human hair, pre-plucked. Real pros, cons, and who should buy. 3.7/5 verdict."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DDNP5WY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918RE7yjU6L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 200% density gives a thick, voluminous look that doesn't require extra styling products to appear full"
   - "Pre-plucked hairline with baby hairs significantly cuts down installation time — most buyers report 15-20 minutes saved"
   - "13x4 lace frontal allows versatile parting options (middle, side, deep) without additional customization"
-cons:
+cons: 
   - "Lace tint runs light for deeper skin tones — several buyers report needing to dye or tint the lace before wear"
   - "Hair arrives with a chemical smell that requires 2-3 washes with clarifying shampoo before it fades"
   - "Some units shed more than expected in the first week, particularly around the lace edges"
+
 ---
 
 Let's be blunt: at 3.8 stars with 190 ratings, this wig isn't universally loved — but the buyers who got a good unit are *very* happy. The 13x4 Deep Wave Lace Front Wig from the B0DDNP5WY6 listing sits in that frustrating middle ground of "great when it works, frustrating when it doesn't." Here's what you need to know before spending your money.

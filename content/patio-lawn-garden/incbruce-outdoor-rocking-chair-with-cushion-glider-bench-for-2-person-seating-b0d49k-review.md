@@ -1,4 +1,5 @@
 ---
+
 title: "Incbruce Outdoor Rocking Chair with Cushion Glider Bench for"
 seo_title: "Incbruce Outdoor Rocking Chair with Cushion Glider Review"
 meta_description: "Our full incbruce outdoor rocking chair with cushion glider bench for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D49KJWKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J-zW2xknL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: a glider bench is a gamble. Either it squeaks like a haunted staircase by week three, or it becomes the most-used piece of furniture on your porch. The Incbruce Outdoor Rocking Chair with Cushion Glider Bench leans hard toward the latter — with a few caveats worth knowing before you hit buy.

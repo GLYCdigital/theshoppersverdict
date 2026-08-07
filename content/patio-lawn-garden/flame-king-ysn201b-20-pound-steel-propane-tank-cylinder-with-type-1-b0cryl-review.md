@@ -1,4 +1,5 @@
 ---
+
 title: "Flame King YSN201b 20 Pound Steel Propane Tank Cylinder with"
 seo_title: "Flame King YSN201b 20 lb Propane Tank Review (2026)"
 meta_description: "Honest Flame King YSN201b 20 lb steel propane tank review: build quality, OPD valve, real-world grill performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRYLZC35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lq+NfPnJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 4.7-gallon water capacity delivers true 20 lb fill — no shortchanged propane like some off-brands"
   - "OPD float gauge gives accurate fuel readout, eliminating mid-cookout guesswork"
   - "Pre-purged and ready to fill — no bleeding or valve hassle before first use"
-cons:
+cons: 
   - "Arrives empty; you'll need an immediate exchange or fill trip before first grill session"
   - "Steel shell is heavy (around 38 lb full) — not ideal if you're hauling it up stairs regularly"
+
 ---
 
 Let's be direct: a propane tank is the least glamorous part of any backyard grill setup, but it's also the one component that can ruin a cookout faster than a burnt brisket. The Flame King YSN201b is a solid, no-nonsense 20-pound steel cylinder that does exactly what it's supposed to do — and does it well enough to earn a 4.7-star average across 235 Amazon ratings.

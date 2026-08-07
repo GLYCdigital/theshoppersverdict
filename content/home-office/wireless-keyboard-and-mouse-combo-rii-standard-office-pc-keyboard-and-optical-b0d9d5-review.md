@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Keyboard and Mouse Combo - Rii Standard Office PC K"
 seo_title: "Wireless Keyboard and Mouse Combo - Rii Standard O Review"
 meta_description: "Our full wireless keyboard and mouse combo - rii standard office pc k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9D5S263/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617Z20qCiML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most sub-$30 wireless keyboard and mouse combos are landfill fodder. The Rii Standard Office PC K is not that. It's not flashy, it's not premium, and it won't win any design awards. But after digging through 215 Amazon ratings and the spec sheet, this combo earns its keep for one simple reason — it just works, quietly, for a long time.

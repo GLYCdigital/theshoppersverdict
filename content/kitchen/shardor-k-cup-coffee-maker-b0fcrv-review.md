@@ -1,4 +1,5 @@
 ---
+
 title: "SHARDOR K Cup Coffee Maker"
 seo_title: "SHARDOR K Cup Coffee Maker Review: Verdict | TSV"
 meta_description: "Our full shardor k cup coffee maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FCRVK3L7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cPlxBxdbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SHARDOR K Cup Coffee Maker Review: The Budget Keurig Alternative That Actually Works

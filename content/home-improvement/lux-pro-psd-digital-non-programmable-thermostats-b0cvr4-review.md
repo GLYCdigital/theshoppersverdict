@@ -1,4 +1,5 @@
 ---
+
 title: "Lux Pro PSD Digital Non-Programmable Thermostats"
 seo_title: "Lux Pro PSD Digital Non-Programmable Thermostats Review: "
 meta_description: "Our full lux pro psd digital non-programmable thermostats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVR4GSMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aM-T8EP+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some thermostats try to do everything—learn your schedule, talk to your phone, and adjust themselves. The Lux Pro PSD does none of that, and honestly, that's exactly why it's worth a look. This is a no-frills, non-programmable digital thermostat built for people who want their house at one temperature, all the time, without fighting a menu system just to bump the heat up two degrees.

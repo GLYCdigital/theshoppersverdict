@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Lip Lingerie XXL Matte Liquid Lipsti"
 seo_title: "NYX PROFESSIONAL MAKEUP Lip Lingerie XXL Matte Liq Review"
 meta_description: "Our full nyx professional makeup lip lingerie xxl matte liquid lipsti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B17L8YPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KEHc5LAeL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $10 Lipstick That Thinks It's a $30 One

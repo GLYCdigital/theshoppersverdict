@@ -1,4 +1,5 @@
 ---
+
 title: "Taza Discs"
 seo_title: "Taza Discs Review: Verdict | TSV"
 meta_description: "Our full taza discs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BGM7GY41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wL7nGMSTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: paper coffee filters aren't expensive, but they're a recurring annoyance. You run out, you overpay at the grocery store, or you're stuck with the wrong size. Taza Discs aim to end that cycle with reusable stainless steel mesh filters designed for home espresso machines. With 204 ratings averaging 4.1 stars, they're clearly doing something right — but are they the right call for your setup? I dug through the feedback and the specs to give you the real story.

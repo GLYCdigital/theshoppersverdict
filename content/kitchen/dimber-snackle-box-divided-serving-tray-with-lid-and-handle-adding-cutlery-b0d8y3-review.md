@@ -1,23 +1,25 @@
 ---
+
 title: "Dimber Snackle Box, Divided Serving Tray with Lid and Handle"
 seo_title: "Dimber Snackle Box Review: Divided Tray With Lid & Handle"
 meta_description: "Dimber Snackle Box review: 4.5-star divided serving tray with lid & handle. Check durability, real-world use, and who should buy it at $19.99."
 slug: "dimber-snackle-box-divided-serving-tray-with-lid-and-handle-adding-cutlery-b0d8y3-review"
 image_alt: "Dimber Snackle Box divided serving tray with clear lid and carrying handle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 19.99  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: 19.99
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8Y3ZSJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713BkI4ixpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Five separate compartments keep wet and dry foods apart — no soggy crackers or mixed juices"  
   - "Locking latches and carry handle make it genuinely portable, not just a shallow tray with a lid"  
   - "Food-grade, BPA-free plastic survives dishwasher cycles without warping or clouding"  
-cons:  
+cons: 
   - "Lid doesn't seal airtight — don't expect it to keep liquids from leaking if tipped sideways"  
   - "Portions are snack-sized, not meal-sized; a sandwich won't fit in any single compartment"
+
 ---
 
 **Is the Dimber Snackle Box Worth $20? Real Talk on This Divided Serving Tray**

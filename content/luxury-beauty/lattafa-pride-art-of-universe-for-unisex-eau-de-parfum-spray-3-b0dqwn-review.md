@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Pride Art of Universe for Unisex Eau de Parfum Spray"
 seo_title: "Lattafa Pride Art of Universe for Unisex Eau de Pa Review"
 meta_description: "Our full lattafa pride art of universe for unisex eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQWN5C69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5140aLZTznL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lattafa Pride line has been quietly building a reputation among fragrance enthusiasts, and Art of Universe is the bottle that puts the house on the map.** With 229 ratings averaging 4.6 stars, this isn't a niche secret anymore — but does it deserve the hype? I've worn it for two weeks across workdays, evenings, and one very hot outdoor event. Here's the unfiltered picture.

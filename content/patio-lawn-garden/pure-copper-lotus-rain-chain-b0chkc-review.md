@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Copper Lotus Rain Chain"
 seo_title: "Pure Copper Lotus Rain Chain Review: Verdict | TSV"
 meta_description: "Our full pure copper lotus rain chain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHKCM7Q9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oIAKSypiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Rain chains are one of those products that look stunning in photos and feel like a gamble in real life. The Pure Copper Lotus Rain Chain is the best-selling option in its category for a reason — but it's not perfect. Here's what you actually need to know before you hang it.

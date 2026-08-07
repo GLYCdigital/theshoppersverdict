@@ -1,4 +1,5 @@
 ---
+
 title: "Givenchy L'interdit Rouge Eau de Parfum Spray"
 seo_title: "Givenchy L'interdit Rouge Eau de Parfum Spray Review: Ver"
 meta_description: "Our full givenchy l'interdit rouge eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CD84JQ3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z6Zxob9NL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Givenchy L'interdit Rouge: The Edgy Sister You Weren't Expecting

@@ -1,4 +1,5 @@
 ---
+
 title: "Leesa Foam Mattress in a Box, Luxury CertiPUR-US Certified 3"
 seo_title: "Leesa Foam Mattress in a Box, Luxury CertiPUR-US C Review"
 meta_description: "Our full leesa foam mattress in a box, luxury certipur-us certified 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08HRX8YDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91vHF4K7-KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What you're actually buying**

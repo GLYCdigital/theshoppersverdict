@@ -1,4 +1,5 @@
 ---
+
 title: "ARES WING Racing Simulator Cockpit, PS5, PS4, Xbox and PC Co"
 seo_title: "ARES WING Racing Simulator Cockpit Review: PS5/PC Rig"
 meta_description: "ARES WING racing simulator cockpit review: sturdy steel frame, PS5/PS4/Xbox/PC compatibility, and real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FWJSHRZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RXXi0ChiL._SL1500_.jpg"
-pros:
+pros: 
   - "Full steel frame with 80/20-style aluminum profile — no flex even with direct drive wheels up to 15Nm"
   - Integrated pedal deck angle adjustment and slide-adjustable seat track for drivers 5'2 inch " to 6'4 inch "
   - "Tool-free quick-release wheel plate and shifter mount — swap between GT and Formula setups in under a minute"
-cons:
+cons: 
   - "Assembly takes 2-3 hours with the included hex wrench — budget time or bring your own drill driver"
   - "Seat cushion is firm and not ideal for sessions over 2 hours — consider an aftermarket pad"
   - "No casters included; you'll need to lift the 68-lb frame to move it between rooms"
+
 ---
 
 If you've been racing on a desk with a clamped wheel and pedals sliding across the floor, you already know the problem. The ARES WING cockpit isn't just a frame to bolt your gear into — it's the difference between fighting your equipment and actually racing. With 225 ratings averaging 4.5 stars, this rig has clearly found its audience. Here's the full picture before you drop your money.

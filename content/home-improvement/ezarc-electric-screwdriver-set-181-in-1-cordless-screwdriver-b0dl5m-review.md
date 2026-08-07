@@ -1,4 +1,5 @@
 ---
+
 title: "EZARC Electric Screwdriver Set, 181 in 1 Cordless Screwdrive"
 seo_title: "EZARC 181-in-1 Electric Screwdriver Review (2026): Worth It?"
 meta_description: "EZARC 181-in-1 electric screwdriver review: 4.3★ rated. Is this cordless set worth your money? We break down bits, torque, battery & who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DL5MZ25V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TouzoafQL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "181-piece kit covers nearly every fastener type, including security Torx and hex bits most casual kits skip"
   - "Two-speed clutch with 21 torque settings prevents stripping screws in softwood or drywall"
   - "USB-C charging with a built-in battery indicator light — no more guessing mid-project"
-cons:
+cons: 
   - "At roughly 1.2 lbs, it's heavier than manual screwdrivers; overhead work will fatigue your wrist"
   - "The included bit holder is magnetic but shallow — longer screws can wobble if you're not careful"
+
 ---
 
 Most electric screwdrivers are either toys or overkill. The EZARC 181-in-1 sits in a rare middle ground: enough bits to handle 90% of household repairs, with enough torque to actually be useful. After 215 Amazon ratings averaging 4.3 stars, the consensus is clear — this is a solid tool with a few honest tradeoffs. Here's the real story.

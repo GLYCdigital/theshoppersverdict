@@ -1,4 +1,5 @@
 ---
+
 title: "ExcelMark 2445 Date Stamp with Text - Blue and Red Ink"
 seo_title: "ExcelMark 2445 Date Stamp Review: Blue & Red Ink (2026)"
 meta_description: "Honest ExcelMark 2445 date stamp review: dual-color blue/red ink, custom text line, build quality, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW5KMNYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BPqP-FgdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-color printing in a single strike — blue date, red custom text — eliminates the need for two separate stamps"
   - "Self-inking mechanism with a built-in ink pad, rated for roughly 10,000 impressions before needing a refill"
   - "Custom text line (up to 5 characters on select models) lets you add department codes, initials, or routing numbers"
-cons:
+cons: 
   - "Ink pad is not user-swappable; you must buy a replacement pad or use refill ink, which adds long-term cost"
   - "Band-style date wheel can occasionally misalign if you press at an angle, leaving a faint or partial date"
+
 ---
 
 If you've ever juggled a separate date stamp and a text stamp while trying to process incoming mail, invoices, or lab samples, you know the dance. The ExcelMark 2445 aims to end that shuffle by combining a date and a custom text line in one self-inking unit — and it largely succeeds, with a few caveats worth knowing before you click buy.

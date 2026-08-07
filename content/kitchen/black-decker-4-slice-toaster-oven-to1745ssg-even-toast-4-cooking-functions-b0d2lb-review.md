@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER 4-Slice Toaster Oven, TO1745SSG, Even Toast, 4 inch"
 seo_title: "BLACK+DECKER TO1745SSG Review: Even 4-Slice Toaster Oven"
 meta_description: "Honest BLACK+DECKER 4-Slice Toaster Oven review. Tested even-toast performance, 4 cooking functions, and real limitations. Is it worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2LBK6YL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7110zCGndjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Even Toast technology delivers consistent browning across all 4 slices, not just the middle two"
   - "Compact footprint (about 16 inches wide) fits under standard cabinets without sacrificing 4-slice capacity"
   - "Dual-function controls with separate toast shade dial and temperature knob for precise cooking across all 4 modes"
-cons:
+cons: 
   - "No interior light — you'll need to peek through the glass door to monitor browning progress"
   - "Crumb tray is thin gauge metal and can warp slightly if cleaned while still hot"
+
 ---
 
 **The $50 toaster oven that actually toasts evenly — and does a few other tricks too**

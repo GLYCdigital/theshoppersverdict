@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Elsey's Ultra Cat Litter"
 seo_title: "Dr. Elsey's Ultra Cat Litter Review: 2026 Honest Verdict"
 meta_description: "We tested Dr. Elsey's Ultra Cat Litter for odor control, clumping, and dust. Read our honest 2026 review before you buy."
@@ -11,13 +12,14 @@ review_count: 95521
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gV7T7iW-L._AC_SL1444_.jpg"
-pros:
+pros: 
   - "Superior ammonia odor control — 10-day guarantee actually holds up for multi-cat households"
   - "Rock-hard clumps that don't shatter during scooping, minimizing waste"
   - "Fine-grain texture feels natural to cats, reducing litter box avoidance issues"
-cons:
+cons: 
   - "Generates noticeable dust at pour time despite claims of 99.9% dust-free"
   - "Fine particles track easily beyond the mat, requiring more frequent sweeping"
+
 ---
 
 ## The 95,000-Review Truth: Does Dr. Elsey's Ultra Hold Up?

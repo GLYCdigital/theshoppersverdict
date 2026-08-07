@@ -1,4 +1,5 @@
 ---
+
 title: "5 PCS Window Grid Kit,32.8ft Peel and Stick Window Grids,DIY"
 seo_title: "5 PCS Window Grid Kit Review: Peel & Stick DIY False Mullions"
 meta_description: "Honest review of the 5 PCS peel and stick window grid kit (32.8ft). Does DIY fake mullion tape look real? Pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D3XTZBM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iq8-A+1lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adhesive is genuinely strong — several reviewers report it surviving months without peeling, even in direct sun"
   - "Flexible vinyl bends around curves and angles, so you can create custom diamond or arch patterns, not just standard grids"
   - "Cutting to size is forgiving; mistakes can be peeled and repositioned within the first few minutes"
-cons:
+cons: 
   - "Shiny finish reflects light noticeably — from certain angles it reads as 'tape,' not true mullion"
   - "No installation tool included; you'll need a sharp utility knife, straight edge, and a squeegee or credit card for best results"
+
 ---
 
 **If you’ve priced out real divided-light windows, you know the pain: custom grids run hundreds per window. This 32.8-foot peel-and-stick kit costs a fraction of that, and for a weekend DIY project, it delivers surprisingly convincing results — if you’re patient with the install.**

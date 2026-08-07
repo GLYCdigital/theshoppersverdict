@@ -1,4 +1,5 @@
 ---
+
 title: "AILEEKISS 62 inch  Loveseat Couches Upholstered Love Seat Sofas C"
 seo_title: "AILEEKISS 62 inch  Loveseat Review: Compact Comfort or Cramped?"
 meta_description: "AILEEKISS 62 inch  loveseat review: USB ports, assembly ease, and cushion comfort. Is this compact couch worth it for small spaces? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09S3MR965/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711ZBVbhU9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual USB and Type-C charging ports built into the armrest — genuinely useful, not a gimmick"
   - "Sturdy solid wood frame rated for 600+ lbs combined weight, holds up well for daily use"
   - "Removable, washable cushion covers make cleanup practical for households with kids or pets"
-cons:
+cons: 
   - "Firm seat cushions — some buyers find them too hard for extended lounging sessions"
   - "Assembly requires two people; aligning the backrest bolts can be frustrating solo"
   - "Fabric attracts lint and pet hair noticeably; a roller brush becomes essential"
+
 ---
 
 The AILEEKISS 62" Loveseat is the kind of product that makes you wonder why more furniture doesn't come with USB ports. It's a compact two-seater that punches above its weight class on features, but the real question is whether the comfort matches the convenience. After digging through 210 ratings and the full spectrum of buyer experiences, here's the honest breakdown.

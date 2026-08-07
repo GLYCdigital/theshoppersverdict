@@ -1,4 +1,5 @@
 ---
+
 title: "Starbucks Cold Brew Coffee â€” Signature Black"
 seo_title: "Starbucks Cold Brew Coffee â€” Signature Black Review: Ve"
 meta_description: "Our full starbucks cold brew coffee â€” signature black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CK65V7GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z6EFAxWLL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the bottled cold brew worth your grocery budget, or should you keep making it at home? I tested it for a week to find out.**

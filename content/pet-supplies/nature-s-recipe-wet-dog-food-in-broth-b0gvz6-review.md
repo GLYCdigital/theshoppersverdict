@@ -1,4 +1,5 @@
 ---
+
 title: "Nature's Recipe Wet Dog Food in Broth"
 seo_title: "Nature's Recipe Wet Dog Food in Broth Review: Verdict | T"
 meta_description: "Our full nature's recipe wet dog food in broth review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVZ6BRXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hZGsUWbML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns up their nose at dry kibble but you're not ready to commit to a raw diet, Nature's Recipe Wet Dog Food in Broth sits in a practical middle ground. With a 4.6-star average across 229 ratings, this isn't an obscure product — it's a steady performer that dog owners keep repurchasing. Here's what you're actually getting.

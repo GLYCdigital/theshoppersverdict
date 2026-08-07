@@ -1,4 +1,5 @@
 ---
+
 title: "Shimano PLEMIO 3000 Big Game [Japan Import]"
 seo_title: "Shimano PLEMIO 3000 Big Game [Japan Import] Review: Verdi"
 meta_description: "Our full shimano plemio 3000 big game [japan import] review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B014U5ID6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GN2wtYC1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: the Shimano PLEMIO 3000 Big Game is a Japan-import spinning reel that punches above its price point for anglers targeting medium-to-large saltwater species. It’s not flashy, not loaded with gimmicks, and won’t win Instagram contests. What it does is grind through hard fights with a smoothness that surprises most people who pick it up. With 200 Amazon ratings holding at a 4.0 average, the consensus is clear — this reel earns respect, but it has quirks you need to know before buying.

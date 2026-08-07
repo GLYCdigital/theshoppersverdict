@@ -1,4 +1,5 @@
 ---
+
 title: "Hareem Al Sultan Gold & Silver Value Pack CPO"
 seo_title: "Hareem Al Sultan Gold & Silver Value Pack CPO Review: Ver"
 meta_description: "Our full hareem al sultan gold & silver value pack cpo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DT655XS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71igLNaLh4L._SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hareem Al Sultan Gold & Silver Value Pack CPO Review: Luxury Skincare or Overpriced Glitter?

@@ -1,4 +1,5 @@
 ---
+
 title: "TAILGATERZ Magnetic Screen House, Game day Graphite, 11 x 9 "
 seo_title: "TAILGATERZ Magnetic Screen House, Game day Graphit Review"
 meta_description: "Our full tailgaterz magnetic screen house, game day graphite, 11 x 9  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00KJNLYFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tufbv0j0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a zippered screen house while holding a platter of wings, you already know why the TAILGATERZ Magnetic Screen House exists. This 11x9 pop-up swaps every zipper on the door for a 12-magnet closure system, and that single design choice changes the whole tailgating experience. But before you click buy, understand what this shelter does well — and where it cuts corners.

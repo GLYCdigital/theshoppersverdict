@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Round Entry Door Knobs Door Lockset with 3 Keys Key"
 seo_title: "Probrico Round Entry Door Knobs Door Lockset with  Review"
 meta_description: "Our full probrico round entry door knobs door lockset with 3 keys key review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D59M2FDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7177j-QgFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real about entry door knobs: most shoppers grab whatever's cheapest and regret it when the handle wiggles loose six months later. The Probrico Round Entry Door Knob sits in a different lane — it's a budget-priced lockset that actually behaves like a proper piece of hardware. With 225 ratings averaging 4.5 stars, the crowd consensus is clear, but let's dig into whether this is the right knob for your specific door.

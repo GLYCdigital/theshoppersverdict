@@ -1,4 +1,5 @@
 ---
+
 title: "Instinct Raw Boost Mixers Freeze Dried Raw Cat Food Topper, "
 seo_title: "Instinct Raw Boost Mixers Freeze Dried Raw Cat Foo Review"
 meta_description: "Our full instinct raw boost mixers freeze dried raw cat food topper,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP1C3C62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OVQ1KQvIL._AC_SL1302_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched your cat sniff their kibble, take one bite, and walk away in disgust, you know the struggle. The Instinct Raw Boost Mixers Freeze Dried Raw Cat Food Topper is designed to end that standoff. As shown in the product image, this bag of freeze-dried raw morsels looks less like a supplement and more like what a cat would actually hunt — chunks of raw chicken, liver, and other organ meats, minus the feathers and bones.

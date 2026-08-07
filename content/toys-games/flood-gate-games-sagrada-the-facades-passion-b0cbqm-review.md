@@ -1,4 +1,5 @@
 ---
+
 title: "Flood Gate Games Sagrada: The Facades-Passion"
 seo_title: "Sagrada Facades-Passion Review: Best Expansion Yet?"
 meta_description: "Our Sagrada: The Facades-Passion review covers the new translucent dice, private objectives, and difficulty levels. See if this expansion is worth it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CBQMSXC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cGQXENVfL._AC_SL1150_.jpg"
-pros:
+pros: 
   - "Four difficulty levels across 24 new window patterns give the expansion real replayability, not just cosmetic variety"
   - "The 12 new translucent dice add a fresh drafting twist without breaking the core Sagrada mechanics"
   - "Private objective cards deepen scoring strategy for experienced players who've memorized the base game patterns"
-cons:
+cons: 
   - "Requires the base Sagrada game — this is purely an expansion, not a standalone product"
   - "The Passion dice are visually similar to the base game's red dice at a glance, which can cause minor confusion during fast drafts"
   - "Difficulty Level 4 windows can feel punishing for casual players; the jump from Level 3 is steeper than expected"
+
 ---
 
 If you've played Sagrada more than a dozen times, you already know the problem: you've seen every window pattern, memorized the optimal dice placements, and the base game's scoring starts to feel automatic. The Facades-Passion expansion exists to fix exactly that, and for the most part, it succeeds.

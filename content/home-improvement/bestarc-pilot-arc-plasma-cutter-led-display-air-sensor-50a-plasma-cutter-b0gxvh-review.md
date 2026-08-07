@@ -1,4 +1,5 @@
 ---
+
 title: "bestarc Pilot Arc Plasma Cutter, [LED Display][Air Sensor] 5 inch"
 seo_title: "bestarc 50A Plasma Cutter Review: Pilot Arc & LED Display"
 meta_description: "Honest bestarc Pilot Arc Plasma Cutter review: 50A cutting power, LED display, air sensor. Real performance, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXVH9MNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iFr2jqjFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True pilot arc starts on rusty, painted, or coated metal without touching the workpiece — no grinding prep needed"
   - "LED display with real-time amperage readout and air pressure monitoring takes guesswork out of settings"
   - "Built-in air sensor automatically shuts down the torch if pressure drops, protecting consumables from premature wear"
-cons:
+cons: 
   - "Included work clamp and torch consumables are entry-level quality — plan to upgrade within the first year"
   - "110V input limits effective cutting thickness to around 1/4-inch cleanly; 3/8-inch requires patience and multiple passes"
+
 ---
 
 ## The $200 question: Can a budget plasma cutter actually perform?

@@ -1,4 +1,5 @@
 ---
+
 title: "Canine Naturals Puppy Chicken and Rice Chew - Rawhide Free P"
 seo_title: "Canine Naturals Puppy Chews Review: Rawhide-Free Chicken & Rice"
 meta_description: "Our Canine Naturals Puppy Chicken & Rice Chew review: rawhide-free, digestible puppy teething treats. See pros, cons, and if they're right for your pup."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCG9BDK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KQVZrO9bL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fully digestible, rawhide-free formula — safe for aggressive chewers without the blockage risk"
   - "Sized appropriately for puppies (under 25 lbs) with a soft-yet-durable texture that massages gums during teething"
   - "Single-ingredient chicken and rice recipe — no artificial colors, flavors, or preservatives"
-cons:
+cons: 
   - "Some puppies finish these faster than expected — not a long-lasting chew for determined teethers"
   - "Bag size is modest; heavy chewers may burn through a bag in under a week"
+
 ---
 
 If you've got a land-shark puppy in the 8–16 week phase, you already know the drill: everything goes in the mouth, and your baseboards are suffering. The **Canine Naturals Puppy Chicken and Rice Chew** is designed for exactly that window — and after digging through 225 ratings at 4.5 stars, this is one of the few puppy chews that actually earns its spot in your treat rotation.

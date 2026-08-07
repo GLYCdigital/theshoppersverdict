@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Marvel Spider-Man Mech vs. Anti-Venom Building Toy Set "
 seo_title: "LEGO Marvel Spider-Man Mech vs. Anti-Venom Buildin Review"
 meta_description: "Our full lego marvel spider-man mech vs. anti-venom building toy set  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1B7RWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711IGwhnY8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Build Experience and Real-World Play

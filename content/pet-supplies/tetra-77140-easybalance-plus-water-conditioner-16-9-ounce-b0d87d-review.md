@@ -1,4 +1,5 @@
 ---
+
 title: "Tetra 77140 EasyBalance Plus Water Conditioner, 16.9-Ounce"
 seo_title: "Tetra 77140 EasyBalance Plus Water Conditioner, 16 Review"
 meta_description: "Our full tetra 77140 easybalance plus water conditioner, 16.9-ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D87DMTLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RGuYihu7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you keep fish, you already know the ritual: scrape algae, vacuum gravel, haul buckets. Tetra EasyBalance Plus isn't promising to eliminate water changes entirely — but it's the closest thing I've tested that makes weekly maintenance genuinely lighter.

@@ -1,4 +1,5 @@
 ---
+
 title: "16 Lines Green Laser Level Kit -4x360° 4D Self-Leveling Cro"
 seo_title: "16 Lines Green Laser Level Kit Review: 4D Self-Leveling"
 meta_description: "Honest 16 Lines Green Laser Level Kit review: 4x360° 4D self-leveling, build quality, real-world accuracy, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D7W17WYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71txWeaeTxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four full 360° planes (H1, H2, V1, V2) mean zero repositioning for most room layouts — genuinely time-saving"
   - "Green laser diodes are 2-3x more visible than red equivalents, especially in daylight or over long distances"
   - "IP54 rating and rubberized over-mold corners make it genuinely job-site durable, not just workshop-grade"
-cons:
+cons: 
   - "Battery life is mediocre — roughly 4-5 hours of continuous use on the included 4000mAh pack, so buy a spare"
   - "The pulse mode for outdoor use with a detector requires a separate receiver that isn't included"
+
 ---
 
 Let's cut through the spec-sheet noise. A green laser level at this price point is either a game-changer or a frustrating toy — and the 16 Lines Green Laser Level Kit lands firmly in the former category, with a couple of caveats you need to know before you hit "add to cart."

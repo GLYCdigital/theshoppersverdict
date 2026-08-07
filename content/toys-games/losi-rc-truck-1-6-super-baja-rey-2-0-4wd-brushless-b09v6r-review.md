@@ -1,4 +1,5 @@
 ---
+
 title: "Losi RC Truck 1/6 Super Baja Rey 2.0 4WD Brushless Desert Tr"
 seo_title: "Losi RC Truck 1/6 Super Baja Rey 2.0 4WD Brushless Review"
 meta_description: "Our full losi rc truck 1/6 super baja rey 2.0 4wd brushless desert tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09V6R6379/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A6i9So9XS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Losi Super Baja Rey 2.0 isn't just another RC truck. At 1/6 scale, it's a monster — nearly two feet long and over 30 pounds of steel, aluminum, and brushless fury. This is the truck you buy when you're done with toys and want something that genuinely terrifies your neighbors when it rips down the street.

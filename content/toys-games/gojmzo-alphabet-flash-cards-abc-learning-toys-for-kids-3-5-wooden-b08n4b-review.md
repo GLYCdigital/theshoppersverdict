@@ -1,4 +1,5 @@
 ---
+
 title: "Gojmzo Alphabet Flash Cards, ABC Learning Toys for Kids 3-5,"
 seo_title: "Gojmzo Alphabet Flash Cards Review: ABC Learning Toys for Kids 3-5 inch"
 meta_description: "Honest Gojmzo Alphabet Flash Cards review: 26 wooden letters, 52 cards, and a storage box. See how this ABC learning toy performs for kids 3-5 before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08N4BXCM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UZkRa7lNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-sided card design pairs uppercase and lowercase letters with real photos, not cartoonish drawings"
   - "Thick wooden letter tiles are substantial (roughly 2 inches tall) and survive toddler handling"
   - "Comes with a sturdy storage box that actually keeps everything organized — rare at this price point"
-cons:
+cons: 
   - "Wooden letters are one-sided; kids can't see the letter shape while placing it on the card"
   - "Cards are thinner than premium brands — expect some corner bending with aggressive use"
+
 ---
 
 **Is this just another flash card set, or does it actually hold a 3-year-old's attention? After digging through 235 ratings and the product specs, here's the real story.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Calendar 2026-2027, 18/36 Month Hanging Calendar Monthl"
 seo_title: "Desk Calendar 2026-2027 Review: 18/36 Month Hanging Planner"
 meta_description: "Honest review of the 18/36-month desk calendar 2026-2027. Big grids, sturdy hanger, clear layout. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G8VFFP8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-SKtMp3KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large 1.5-inch daily grids give real room for appointments, deadlines, and notes without cramping"
   - "Runs from July 2026 through December 2027 — you get 18 full months of planning in one purchase"
   - "Heavyweight 120gsm paper holds up to daily pen use without ghosting or tearing"
-cons:
+cons: 
   - "Hanging hook is a simple metal loop — don't expect a reinforced grommet; it's fine for standard wall pins but not heavy-duty use"
   - "No pre-printed holidays or moon phases — if you rely on those cues, you'll be writing them in yourself"
+
 ---
 
 Let's be direct about this calendar: it's not flashy, it's not leather-bound, and it won't make your coworkers jealous. What it will do is hold your schedule together for the next year and a half without falling apart. With 229 ratings averaging 4.6 stars, this 18-month hanging planner from Amazon has quietly become a staple for people who need to see the big picture at a glance.

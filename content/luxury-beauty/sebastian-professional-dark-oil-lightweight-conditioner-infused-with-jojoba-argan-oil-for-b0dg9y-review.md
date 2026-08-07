@@ -1,4 +1,5 @@
 ---
+
 title: "Sebastian Professional Dark Oil Lightweight Conditioner | In"
 seo_title: "Sebastian Professional Dark Oil Lightweight Condit Review"
 meta_description: "Our full sebastian professional dark oil lightweight conditioner | in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DG9YZRRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mw7dBdtXL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The “Lightweight” Claim That Actually Holds Up

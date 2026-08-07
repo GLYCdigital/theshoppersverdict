@@ -1,4 +1,5 @@
 ---
+
 title: "Prutapet Large Cat Carrier 24x16.5x16.5 Soft-Sided Portable "
 seo_title: "Prutapet Large Cat Carrier 24x16.5x16.5 Soft-Sided Review"
 meta_description: "Our full prutapet large cat carrier 24x16.5x16.5 soft-sided portable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B094LD4R1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sLdehvcwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: cat carrier day means a hiding cat, scratched forearms, and a yowling soundtrack for the whole car ride. The Prutapet Large Cat Carrier aims to change that script. It's the rare soft-sided carrier that actually respects the size of a big cat—and it's earned a 4.8-star average across 240+ Amazon ratings. But is it built for the long haul or just a weekend trip?

@@ -1,4 +1,5 @@
 ---
+
 title: "New Star Foodservice | Restaurant-Grade Tomato Slicer, 3/16 "
 seo_title: "New Star Foodservice | Restaurant-Grade Tomato Sli Review"
 meta_description: "Our full new star foodservice | restaurant-grade tomato slicer, 3/16  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09LMMYM48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uyl4tJaYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: hand-slicing tomatoes for a busy kitchen is a miserable way to spend 20 minutes. The New Star Foodservice 3/16-inch tomato slicer promises to fix that for under $20. After digging through 210 ratings and the spec sheet, here's the real story.

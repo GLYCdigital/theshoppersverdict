@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Viper V3 Pro Wireless Esports Gaming Mouse"
 seo_title: "Razer Viper V3 Pro Wireless Esports Gaming Mouse Review: "
 meta_description: "Our full razer viper v3 pro wireless esports gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHZD3LMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fPqQWtXfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for a serious esports mouse, you’ve likely seen the Razer Viper V3 Pro dominating pro tournaments. It’s the mouse behind countless VALORANT and CS2 frags, and at 54 grams with a Focus Pro 35K sensor, it’s not hard to see why. But at a premium price point with some quirks, is it the right pick for *your* desk? I’ve broken down the specs, the real-world performance, and what 229 Amazon reviewers are actually saying to help you decide.

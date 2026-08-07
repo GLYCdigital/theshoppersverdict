@@ -1,4 +1,5 @@
 ---
+
 title: "Stansport Compact Portable Kids Picnic Table â€“ Foldable Sp"
 seo_title: "Stansport Compact Portable Kids Picnic Table â€“ F Review"
 meta_description: "Our full stansport compact portable kids picnic table â€“ foldable sp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWMWC72X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sa00TwgtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of dragging a full-size folding table to every backyard cookout or park trip just so your kids have somewhere to eat, this Stansport model solves that specific problem — mostly.

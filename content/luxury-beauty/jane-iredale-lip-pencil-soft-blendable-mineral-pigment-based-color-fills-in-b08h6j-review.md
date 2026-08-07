@@ -1,4 +1,5 @@
 ---
+
 title: "jane iredale Lip Pencil, Soft + Blendable Mineral Pigment-Ba"
 seo_title: "jane iredale Lip Pencil, Soft + Blendable Mineral  Review"
 meta_description: "Our full jane iredale lip pencil, soft + blendable mineral pigment-ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08H6J87PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Bqb-UdXcL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most lip pencils feel like dragging a crayon across your mouth. The jane iredale Lip Pencil isn't most lip pencils. It's a mineral-pigment formula that actually lives up to the "soft + blendable" claim in its name — and at a luxury price point, it should.

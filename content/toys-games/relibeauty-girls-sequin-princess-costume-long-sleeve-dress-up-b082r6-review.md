@@ -1,4 +1,5 @@
 ---
+
 title: "ReliBeauty Girls Sequin Princess Costume Long Sleeve Dress u"
 seo_title: "ReliBeauty Girls Sequin Princess Costume Long Slee Review"
 meta_description: "Our full relibeauty girls sequin princess costume long sleeve dress u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B082R6KVJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nKn21+YTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the dress that ends all "I have nothing to wear" meltdowns?** For the princess-obsessed 3-to-8 set, the ReliBeauty Sequin Princess Costume might just be it. With 235 ratings and a 4.7-star average, this isn't a random Amazon find — it's a dress-up staple that's earned its reputation. But before you add to cart, here's what 200+ buyers actually discovered.

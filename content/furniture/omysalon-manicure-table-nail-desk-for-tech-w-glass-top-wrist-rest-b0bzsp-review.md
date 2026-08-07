@@ -1,4 +1,5 @@
 ---
+
 title: "OmySalon Manicure Table Nail Desk for Tech w/Glass Top & Wri"
 seo_title: "OmySalon Manicure Table Nail Desk for Tech w/Glass Review"
 meta_description: "Our full omysalon manicure table nail desk for tech w/glass top & wri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZSPSHQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QQgIfTZkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a nail tech who's been working off a folding table and a clamp-on lamp, the OmySalon Manicure Table is the kind of upgrade that pays for itself in the first month. This is a purpose-built workstation, not a repurposed desk, and it shows in the details that matter: the glass surface, the wrist rest, and the built-in ventilation.

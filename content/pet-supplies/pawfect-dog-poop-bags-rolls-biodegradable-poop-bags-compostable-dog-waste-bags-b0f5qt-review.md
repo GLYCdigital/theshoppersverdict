@@ -1,4 +1,5 @@
 ---
+
 title: "Pawfect Dog Poop Bags Rolls â€“ Biodegradable Poop Bags, Com"
 seo_title: "Pawfect Dog Poop Bags Rolls â€“ Biodegradable Poop Review"
 meta_description: "Our full pawfect dog poop bags rolls â€“ biodegradable poop bags, com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F5QT45NS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TId0tRxOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody *wants* to spend time researching poop bags. But you're here because you're tired of bags that tear mid-scoop, leak through your fingers, or disintegrate before you reach the trash can. That's exactly the problem Pawfect claims to solve — and after digging through 240 ratings and the product specs, here's what actually matters.

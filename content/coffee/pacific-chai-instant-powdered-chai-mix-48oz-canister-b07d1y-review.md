@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Chai Instant Powdered Chai mix, 48oz canister"
 seo_title: "Pacific Chai Instant Powdered Chai mix, 48oz canis Review"
 meta_description: "Our full pacific chai instant powdered chai mix, 48oz canister review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D1YW9XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qOiWO+cEL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever paid $5.50 for a chai latte at a coffee shop and thought, "I could make this at home," you're right. The question is whether Pacific Chai's 48-ounce canister delivers that same experience — or just another sugary powder that tastes like cinnamon dust and regret.

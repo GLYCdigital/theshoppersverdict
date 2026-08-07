@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering The Lost Caverns of Ixalan Prerelease P"
 seo_title: "Magic: The Gathering The Lost Caverns of Ixalan Pr Review"
 meta_description: "Our full magic: the gathering the lost caverns of ixalan prerelease p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CMVT1L3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610syeVYlnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lost Caverns of Ixalan Prerelease Pack is the closest thing to a sealed tournament in a box. If you've never done a prerelease event at a local game store, this is how you experience that draft-from-scratch magic at home — minus the crowded table and the awkward small talk.

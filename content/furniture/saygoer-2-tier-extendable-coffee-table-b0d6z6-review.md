@@ -1,4 +1,5 @@
 ---
+
 title: "SAYGOER 2-Tier Extendable Coffee Table"
 seo_title: "SAYGOER 2-Tier Extendable Coffee Table Review: Verdict | "
 meta_description: "Our full saygoer 2-tier extendable coffee table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6Z6QZ56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dMNo6p+qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the product photography. The SAYGOER 2-Tier Extendable Coffee Table is one of those Amazon furniture finds that solves a specific problem: small living rooms that need more surface area without committing to a massive table. With 220 ratings averaging 4.4 stars, it's clearly doing something right. But is it right for you?

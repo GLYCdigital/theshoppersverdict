@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EG808 8â€ Review"
 seo_title: "Elite Gourmet EG808 8â€ Review: 4.6-Star Electric Skillet Worth It?"
 meta_description: "Elite Gourmet EG808 8â€ electric skillet review: 4.6/5 stars. Real buyer feedback on performance, cleanup, and durability. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVXZTPGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Compact 8-inch size fits small kitchens, dorms, and RVs without sacrificing cooking capacity"
   - "Non-stick surface holds up well with proper care — most buyers report no scratching after months of use"
   - "Adjustable temperature control with a clear indicator light for precise heat management"
-cons:
+cons: 
   - "Cord is permanently attached and relatively short, limiting where you can plug it in"
   - "No dishwasher-safe parts — the base must be wiped clean, not submerged"
+
 ---
 
 Let's be direct about the Elite Gourmet EG808: this is an 8-inch electric skillet that knows exactly what it is. It's not trying to replace your full stovetop setup. It's a compact, self-contained cooking surface for the people who need one. And with a 4.6-star average across 229 ratings, it's clearly hitting the mark for a lot of them.

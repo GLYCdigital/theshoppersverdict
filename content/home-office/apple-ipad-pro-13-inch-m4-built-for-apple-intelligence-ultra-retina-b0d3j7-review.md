@@ -1,5 +1,6 @@
 ---
 
+
 title: "Apple iPad Pro 13-Inch (M4): Built for Apple Intelligence, U"
 seo_title: "Apple iPad Pro 13-Inch M4 Review: Is It Worth It?"
 meta_description: "Apple iPad Pro 13-inch M4 review: ultra-fast performance, stunning OLED display, but pricey. See if it's worth it for pros."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3J71MS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YbWlh0P8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra Retina XDR (Tandem OLED) display hits 1000 nits full-screen and 1600 nits peak HDR — genuinely unmatched for photo and video work"
   - "M4 chip handles 4K video editing and heavy multitasking without thermal throttling, even on battery"
   - "At 5.1mm and 1.28 lbs, it's thinner and lighter than most 11-inch tablets from other brands"
-cons:
+cons: 
   - "iPadOS still limits true desktop-class workflows — no full external display support without stage manager quirks"
   - "Base 256GB model costs as much as a MacBook Pro; accessories (Magic Keyboard $349, Pencil Pro $129) push total past $2,000 inch"
   - "Battery life averages 8-9 hours in real-world use, not the 10 Apple claims, especially with the OLED at high brightness"
+
 
 ---
 

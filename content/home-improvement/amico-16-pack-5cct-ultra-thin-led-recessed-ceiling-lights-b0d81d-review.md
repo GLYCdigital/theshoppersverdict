@@ -1,23 +1,25 @@
 ---
+
 title: "Amico 16 Pack 5CCT Ultra-Thin LED Recessed Ceiling Lights"
 seo_title: "Amico 5CCT Ultra-Thin LED Recessed Lights Review (2026)"
 meta_description: "Amico 16-pack 5CCT ultra-thin LED recessed lights review: brightness, color tuning, install ease, and real buyer feedback. Is this 4.7-star kit worth it?"
 slug: "amico-16-pack-5cct-ultra-thin-led-recessed-ceiling-lights-b0d81d-review"
 image_alt: "Amico 16-pack ultra-thin LED recessed ceiling lights with selectable color temperature dial"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D81DCL22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PvQbDPVKL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 5-in-1 color temperature switch (2700K–5000K) on each fixture — set it and forget it before install"  
   - "Ultra-thin 0.5-inch profile with a 6-inch round trim fits tight ceiling cavities and new construction alike"  
   - "Daisy-chainable with quick-connect WAGO-style clips — no junction box required for most remodels"  
-cons:  
+cons: 
   - "IC-rated but no vapor barrier — not ideal for unconditioned attics or steamy bathrooms without added sealing"  
   - "Color switch is on the housing face; you must pull the fixture down to change CCT after install"
+
 ---
 
 # Amico 16-Pack 5CCT Ultra-Thin LED Recessed Lights: The Whole-Room Kit That Actually Delivers

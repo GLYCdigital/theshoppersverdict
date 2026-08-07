@@ -1,4 +1,5 @@
 ---
+
 title: "Kerastase Fresh Affair Dry Shampoo For All Hair Types - Inst"
 seo_title: "Kerastase Fresh Affair Dry Shampoo For All Hair Ty Review"
 meta_description: "Our full kerastase fresh affair dry shampoo for all hair types - inst review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2PTM6N8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51APBN6IgaL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real: a $30+ dry shampoo is a hard sell when a $7 Batiste sits on the same shelf. But after working through a full can of Kerastase Fresh Affair, I understand why it has 225 ratings and a 4.5-star average. The question isn't whether it works — it's whether the premium is justified.

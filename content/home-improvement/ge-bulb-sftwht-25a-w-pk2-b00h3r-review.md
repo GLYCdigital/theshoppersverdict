@@ -1,4 +1,5 @@
 ---
+
 title: "GE Bulb SFTWHT 25A/W PK2 inch"
 seo_title: "GE Bulb SFTWHT 25A/W PK2 Review: Soft White 25W Appliance Bulb"
 meta_description: "Honest GE Bulb SFTWHT 25A/W PK2 review. A 25-watt soft white appliance bulb with a candelabra base. See performance, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00H3R3QGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K39H6EpUL._AC_SX342_.jpg"
-pros:
+pros: 
   - "True 25W output with soft white 2700K color — warm, familiar glow that matches older appliance bulbs"
   - "Candelabra E12 base fits tight spaces in ovens, microwaves, and range hoods without modification"
   - "Pack of two gives you a spare on hand — handy since appliance bulbs often fail at the worst time"
-cons:
+cons: 
   - "Rated for only 1,000 hours — expect to replace these more often than LED alternatives"
   - "No shatter-resistant coating, so breakage risk is real if you're clumsy near glass surfaces"
   - "Limited to 120V — won't work in 12V or 24V RV/marine fixtures without a transformer"
+
 ---
 
 Let's cut the chase: you're here because a bulb in your oven, microwave, or range hood just died, and you need a replacement that actually fits and works. The GE Bulb SFTWHT 25A/W PK2 is a 25-watt, soft white incandescent appliance bulb with a candelabra (E12) base. It's a simple, old-school product that does exactly one job — and does it well.

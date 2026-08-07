@@ -1,4 +1,5 @@
 ---
+
 title: "1-2 Cup Small Coffee Filters,100 Count Disposable Basket Cof"
 seo_title: "1-2 Cup Basket Coffee Filters Review: 100 Count Small Size"
 meta_description: "Honest review of 1-2 cup disposable basket coffee filters. 100 count, 4.7-star rated. See if these small filters fit your brewer and brew quality."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D12RMKLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qzq9hdcnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Correct fit for Mr. Coffee 4-cup and similar mini basket brewers that standard #4 cone filters don't work in"
   - "Thicker paper than typical store-brand filters — fewer tears along the crimped seams when removing wet grounds"
   - "Reasonable price per filter at 100 count; no off-gassing or papery taste reported in brew"
-cons:
+cons: 
   - No size printed on the box — you'll need to measure your basket (approx. 4.5 inch " top diameter) before ordering
   - "Not bleached white; natural brown color may leave slight sediment in the first few cups if you don't rinse first"
+
 ---
 
 Let's be honest about small coffee filters: they're the most annoying thing to shop for online. You can't see the actual size, the packaging rarely lists dimensions clearly, and if you guess wrong, you're stuck with a box of useless paper. That's exactly why these 1-2 cup basket filters from an off-brand seller have racked up 235 ratings at 4.7 stars — they solved a specific, frustrating problem for a lot of people.

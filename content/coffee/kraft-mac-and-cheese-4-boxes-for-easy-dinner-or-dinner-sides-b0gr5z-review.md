@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft Mac and Cheese, 4 Boxes, for Easy Dinner or Dinner Sid"
 seo_title: "Kraft Mac and Cheese, 4 Boxes, for Easy Dinner or  Review"
 meta_description: "Our full kraft mac and cheese, 4 boxes, for easy dinner or dinner sid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GR5Z7SY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715C-GFqwmL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this is boxed mac and cheese. It's not artisanal pasta from a small-batch kitchen in Brooklyn. But if you're shopping for dinner convenience, the 4-pack of Kraft Macaroni & Cheese delivers exactly what the blue box promises — and 240 Amazon reviewers agree, rating it 4.8 out of 5 stars.

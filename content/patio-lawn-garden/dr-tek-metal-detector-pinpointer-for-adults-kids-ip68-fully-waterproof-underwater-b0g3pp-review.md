@@ -1,4 +1,5 @@
 ---
+
 title: "DR.Ã–TEK Metal Detector Pinpointer for Adults & Kids, IP68 F"
 seo_title: "DR.Ã–TEK Pinpointer Review: IP68 Waterproof Metal Detector"
 meta_description: "DR.Ã–TEK pinpointer review: IP68 fully waterproof metal detector for adults & kids. Tested performance, real pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G3PPS2DP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L87QJdo4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "IP68 rating means you can submerge it to 3 meters — genuine underwater hunting, not just rain-proofing"
   - "LED flashlight tip actually helps when digging in low light or dark soil conditions"
   - "Sensitivity adjustment dial lets you dial out trash while keeping small targets like coins and jewelry"
-cons:
+cons: 
   - "Battery life runs 20–25 hours on a single 9V — fine, but keep spares for long hunts"
   - "No vibration motor, only audible beeps — a problem in windy conditions or with hearing aids"
+
 ---
 
 Most pinpointers claim waterproofing. Few deliver it. The DR.Ã–TEK Pinpointer is one of the few that actually earns the IP68 badge — meaning it's rated for continuous submersion up to 3 meters. That's not marketing copy; it's the difference between a tool that survives a rain shower and one you can use for creek hunting or beach wading. At 4.6 stars across 229 ratings, this is a budget-friendly alternative to name brands like Garrett or XP, but it's not without its quirks.

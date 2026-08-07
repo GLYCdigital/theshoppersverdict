@@ -1,23 +1,25 @@
 ---
+
 title: "FINDMAG Magnetic Hooks with Swivel Carabiner, Neodymium Magn"
 seo_title: "FINDMAG Magnetic Hooks Review: Strong Neodymium Swivel Mounts"
 meta_description: "FINDMAG magnetic hooks with swivel carabiner: 50lb neodymium hold, rust-resistant, multi-angle. Read our honest test & verdict before buying."
 slug: "findmag-magnetic-hooks-with-swivel-carabiner-neodymium-magnet-hooks-heavy-duty-strong-b0dtpd-review"
 image_alt: "FINDMAG magnetic hooks with swivel carabiner holding a heavy tool bag on a steel beam"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTPD455T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zhs19GQyL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "50 lb rated pull with N52-grade neodymium — holds through paint and light rust"  
   - "360° swivel carabiner prevents torque from snapping the magnet off the surface"  
   - "Rubber-coated base protects painted steel and eliminates scratching"  
-cons:  
+cons: 
   - "Not for horizontal overhead use — magnet pulls straight off if loaded sideways"  
   - "Carabiner gate is stiff initially and needs a few cycles to loosen up"
+
 ---
 
 **FINDMAG Magnetic Hooks with Swivel Carabiner Review: Heavy-Duty Grip That Actually Swivels**  

@@ -1,4 +1,5 @@
 ---
+
 title: "Kobalt 120v & 12v Portable Air Compressor Inflator Tire Pump"
 seo_title: "Kobalt 120v & 12v Portable Air Compressor Inflator Review"
 meta_description: "Our full kobalt 120v & 12v portable air compressor inflator tire pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01N56OXQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sKiPMMwML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most portable air compressors are either cheap junk that dies in six months or overpriced units with features you never touch. The Kobalt 120v & 12v sits in a sweet spot — it's a dual-power inflator that actually works, and at a price that won't make you wince. But it's not perfect, and you should know exactly what you're getting before you click buy.

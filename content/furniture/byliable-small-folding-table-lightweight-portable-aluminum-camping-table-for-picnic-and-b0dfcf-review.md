@@ -1,4 +1,5 @@
 ---
+
 title: "Byliable Small Folding Table Lightweight Portable Aluminum C"
 seo_title: "Byliable Small Folding Table Review: Lightweight Aluminum C"
 meta_description: "Byliable small folding table review: Is this lightweight portable aluminum table worth it? Real pros, cons, and buyer feedback for camping & tailgating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFCFQH45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sNWw7v1qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aluminum frame keeps weight around 3-4 lbs, easy to carry one-handed with the built-in handle"
   - "Folds flat in seconds with a locking mechanism that stays secure during transport"
   - "Surface handles hot items and light moisture without warping or staining"
-cons:
+cons: 
   - "Not load-rated for heavy use — max capacity hovers around 50 lbs, so don't sit on it"
   - "Tabletop is relatively small; it fits two camping plates but not a full family spread"
   - "Legs can wobble slightly on uneven ground without the optional stabilizer bar"
+
 ---
 
 **The compact table that actually earns its spot in your trunk**

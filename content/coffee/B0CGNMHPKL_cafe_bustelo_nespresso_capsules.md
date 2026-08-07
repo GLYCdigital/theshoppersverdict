@@ -1,4 +1,5 @@
 ---
+
 title: "Café Bustelo Aluminum Espresso Capsules"
 seo_title: "Café Bustelo Espresso Capsules Review: Bold, Affordable"
 meta_description: "Café Bustelo aluminum espresso capsules review: bold Cuban-style coffee, Nespresso-compatible, 4.8 stars. Is it worth $24.98? Find out."
@@ -11,13 +12,14 @@ review_count: 1751
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aBcxNVmL._SL1500_.jpg"
-pros:
+pros: 
   - "Intense, dark Cuban-style roast that cuts through milk drinks without getting lost"
   - "Aluminum capsules are fully recyclable and feel sturdier than plastic competitors"
   - "Significant cost savings vs. name-brand Nespresso pods — often 30–40% cheaper per cup"
-cons:
+cons: 
   - "Lacks the crema depth and aromatic complexity of premium Nespresso blends"
   - "Only available in one roast profile — no decaf or intensity variations in this line"
+
 ---
 
 If you've ever stood in the coffee aisle staring at Café Bustelo's yellow brick of ground coffee and wondered what it would taste like in a Nespresso machine — this is the answer. And honestly, it's a good one.

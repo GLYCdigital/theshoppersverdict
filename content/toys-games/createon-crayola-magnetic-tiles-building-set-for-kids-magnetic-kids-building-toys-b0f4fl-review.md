@@ -1,4 +1,5 @@
 ---
+
 title: "CreateOn Crayola Magnetic Tiles Building Set for Kids, Magne"
 seo_title: "CreateOn Crayola Magnetic Tiles Review: 2026 Buyer's Guide"
 meta_description: "Hands-on CreateOn Crayola Magnetic Tiles review: durability, magnet strength, real parent feedback, and who should buy this 4.8-star building set."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F4FL48XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813U7Jk8tHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong embedded magnets hold structures together even when kids bump or knock them mid-build"
   - "Crayola-branded color palette is genuinely distinct — the bright primaries and pastels make finished builds photo-worthy"
   - "Compatible with standard 3-inch magnetic tile systems, so it expands existing collections rather than forcing a new ecosystem"
-cons:
+cons: 
   - "No storage bag or bin included — you'll need your own container for the 60+ pieces"
   - "Square tiles only; no triangles or specialty shapes in the base set, limiting architectural variety"
+
 ---
 
 **The short version:** This isn't just another magnetic tile set. The CreateOn Crayola collaboration nails two things most competitors miss — color quality and magnet strength — while staying fully compatible with the tiles you probably already own. At 4.8 stars from 240 ratings, the consensus is clear. But there are a couple of gaps worth knowing before you click buy.

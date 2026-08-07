@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Albion Brushed Gold Bathroom Faucet 3 Hole"
 seo_title: "Delta Albion Brushed Gold Faucet Review: Worth It?"
 meta_description: "Delta Albion brushed gold 3-hole bathroom faucet review: finish durability, installation ease, and real buyer feedback. Is this 4.2-star faucet right for you?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FNX8Y2NS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Gv5BobuuL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushed gold finish resists fingerprints and water spots far better than polished gold alternatives"
   - "Diamond Seal technology eliminates the rubber washer, reducing leak-prone failure points"
   - "Includes metal pop-up drain assembly — many competitors at this price ship cheap plastic drains"
-cons:
+cons: 
   - "3-hole configuration requires a 8-inch centerset spread; won't fit standard 4-inch centerset sinks without an extra plate"
   - "Finish color can look more champagne/brass in certain lighting than true gold — verify against your fixtures"
+
 ---
 
 Let me be direct: when a faucet costs less than $150 and promises a brushed gold finish that won't peel in two years, I'm skeptical. The Delta Albion 3-hole bathroom faucet has been on the market long enough to gather 210 ratings and hold a 4.2-star average. Here's what that rating actually means in practice.

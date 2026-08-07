@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Tidy Cats Clumping Cat Litter, Tidy Max Instant Actio"
 seo_title: "Purina Tidy Cats Clumping Cat Litter, Tidy Max Ins Review"
 meta_description: "Our full purina tidy cats clumping cat litter, tidy max instant actio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07P6ZRQMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BFk6fDIZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got more than one cat, you already know the drill: that ammonia wall hits you the second you walk in the door, and you're scooping twice a day just to stay ahead of it. Purina's Tidy Cats Tidy Max Instant Action is aimed squarely at that problem, and based on 229 Amazon ratings averaging 4.6 stars, it's doing something right. But is it the right litter for *your* household? Let's dig into what this stuff actually delivers.

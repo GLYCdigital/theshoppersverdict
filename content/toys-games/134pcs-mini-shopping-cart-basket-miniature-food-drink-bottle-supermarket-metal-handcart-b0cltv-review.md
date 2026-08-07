@@ -1,4 +1,5 @@
 ---
+
 title: "134pcs Mini Shopping Cart Basket Miniature Food Drink Bottle"
 seo_title: "134pcs Mini Shopping Cart Set Review: Tiny Grocery Fun"
 meta_description: "Honest review of the 134pc mini shopping cart & food set. See what's included, real quality, and who this tiny grocery playset suits best."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLTVLWZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SUIu9Me4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "134 pieces for the price — roughly 4-5 cents per item, with two metal carts and multiple baskets included"
   - "Metal handcarts feel substantial and roll smoothly; won't tip over when loaded"
   - "Realistic miniature grocery items (cereal boxes, milk cartons, soda bottles) that look great in dollhouses or dioramas"
-cons:
+cons: 
   - "No storage container included — the 134 pieces arrive loose in a poly bag, so you'll need your own organizer"
   - "Some tiny items (sauce packets, small cans) are under 1 inch and easy to lose or choke hazards for kids under 3"
+
 ---
 
 If you're building a dollhouse supermarket, setting up a miniature grocery display, or looking for a playset that actually keeps a kid busy for more than ten minutes, the 134pcs Mini Shopping Cart Basket set deserves a close look. This isn't a cheap plastic afterthought — it's a surprisingly detailed micro-grocery haul.

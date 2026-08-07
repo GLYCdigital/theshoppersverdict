@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Benchtop Planer, 15-Amp (CMEW320)"
 seo_title: "CRAFTSMAN Benchtop Planer CMEW320 Review: 15-Amp Power"
 meta_description: "Read our honest CRAFTSMAN Benchtop Planer CMEW320 review. 15-amp motor, 12-inch capacity, and 4.6/5 rating. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KM8QX8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VxF9E99XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15-amp motor handles hardwoods like oak and maple without bogging down"
   - "Quick-release depth adjustment with a visible scale for repeatable cuts"
   - "Built-in dust chute connects to a standard 2.5-inch shop vac hose"
-cons:
+cons: 
   - "Knives arrive slightly dull from the factory; plan to sharpen or replace early"
   - "No onboard storage for the wrenches, which are easy to misplace"
+
 ---
 
 The benchtop planer is the tool that separates "I buy lumber" from "I mill lumber." If you're tired of paying premium prices for S4S boards that still cup on you, the CRAFTSMAN CMEW320 deserves a hard look. With 229 ratings averaging 4.6 stars, it's clearly earning its keep in home shops. But let's dig past the star rating and talk about what this thing actually does on a Saturday afternoon.

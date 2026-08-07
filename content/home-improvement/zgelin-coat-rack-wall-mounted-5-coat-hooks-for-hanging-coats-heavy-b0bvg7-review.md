@@ -1,4 +1,5 @@
 ---
+
 title: "ZGELIN Coat Rack Wall Mounted,5 Coat Hooks for Hanging Coats"
 seo_title: "ZGELIN Coat Rack Wall Mounted,5 Coat Hooks for Han Review"
 meta_description: "Our full zgelin coat rack wall mounted,5 coat hooks for hanging coats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BVG7F9M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ymGfhxpsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A No-Nonsense Hook Bar That Actually Holds Up**

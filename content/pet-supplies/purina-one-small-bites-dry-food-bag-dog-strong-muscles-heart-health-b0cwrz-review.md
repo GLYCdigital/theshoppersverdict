@@ -1,4 +1,5 @@
 ---
+
 title: "Purina One small bites dry food bag dog strong muscles heart"
 seo_title: "Purina One small bites dry food bag dog strong mus Review"
 meta_description: "Our full purina one small bites dry food bag dog strong muscles heart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWRZC3PC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s8ql0UI0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most dog food aisles are 80% marketing. Purina One doesn't try to be the most glamorous brand on the shelf, but it consistently shows up in the bowls of dogs who live long, active lives. This Small Bites formula for muscle and heart health—with 235 ratings averaging 4.7 stars—deserves a closer look if you're feeding a smaller breed or a senior dog who's started turning up their nose at larger kibble.

@@ -1,4 +1,5 @@
 ---
+
 title: "Vintage Leather Journal - Antique Handmade Leather Bound jou"
 seo_title: "Vintage Leather Journal - Antique Handmade Leather Review"
 meta_description: "Our full vintage leather journal - antique handmade leather bound jou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK4L5FBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WqRDMBDmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the journal you've been scrolling past for months?** If you're the type who keeps a notebook for ideas, travel logs, or morning pages, you already know the problem: most journals look like they came from a big-box office supply aisle. The Vintage Leather Journal tries to fix that with full-grain leather, deckle edge paper, and a hand-stitched binding that actually lies flat. At 4.7 stars across 235 ratings, it's clearly resonating — but let's get into whether it earns a spot on your desk or in your go-bag.

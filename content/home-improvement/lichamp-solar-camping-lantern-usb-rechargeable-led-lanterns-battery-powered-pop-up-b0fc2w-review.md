@@ -1,4 +1,5 @@
 ---
+
 title: "Lichamp Solar Camping Lantern, USB Rechargeable LED Lanterns"
 seo_title: "Lichamp Solar Camping Lantern, USB Rechargeable LE Review"
 meta_description: "Our full lichamp solar camping lantern, usb rechargeable led lanterns review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC2WKSCN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J6hD7FA0L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most solar camping lanterns are a lie. The panel is decorative, the battery dies after two uses, and you end up back on Amazon within a month. The Lichamp solar camping lantern is not that product — but it's not perfect either. Here's what 229 buyers at a 4.6-star average actually got.

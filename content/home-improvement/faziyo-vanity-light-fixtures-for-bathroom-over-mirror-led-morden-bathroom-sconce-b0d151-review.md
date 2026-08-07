@@ -1,4 +1,5 @@
 ---
+
 title: "Faziyo Vanity Light Fixtures for Bathroom Over Mirror, LED M"
 seo_title: "Faziyo LED Vanity Light Review: Modern Bathroom Sconce"
 meta_description: "Honest Faziyo LED vanity light review: brightness, install ease, build quality, and whether this modern 3-light bar suits your bathroom. Read before buying."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D151S7S7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DJHD-3-HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4000K neutral light with no flicker — ideal for makeup and shaving accuracy"
   - "Slim aluminum housing (under 2 inches deep) sits flush against wall, works with shallow junction boxes"
   - "Integrated LEDs rated for 50,000 hours — no bulbs to replace, ever"
-cons:
+cons: 
   - "Non-replaceable LED board means whole fixture must be swapped if a diode fails after warranty"
   - "Mounting bracket alignment is finicky; the 3-light bar requires precise leveling before tightening"
+
 ---
 
 **Is the Faziyo LED vanity light worth your bathroom remodel budget?** After digging through 215 verified buyer experiences, here's the honest breakdown — including what impressed me and what might send you back to the search bar.

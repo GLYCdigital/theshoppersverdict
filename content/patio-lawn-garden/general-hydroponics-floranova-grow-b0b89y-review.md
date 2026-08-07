@@ -1,4 +1,5 @@
 ---
+
 title: "General Hydroponics FloraNova Grow Review"
 seo_title: "FloraNova Grow Review: Is This 2-Part Nutrient Worth It?"
 meta_description: "Honest FloraNova Grow review: performance, mixing tips, and drawbacks of GH's concentrated 2-part base nutrient for hydroponics and soil."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B89YVHTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pACr3HeIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extremely concentrated — 1 tsp per gallon vs. 2-3 tsp for comparable nutrients"
   - "pH buffers well; most growers report minimal drift after mixing"
   - "Works across hydro and soil without separate additive packages"
-cons:
+cons: 
   - "Thick, sludge-like consistency makes measuring messy and requires vigorous shaking"
   - "Not ideal for drip systems or small emitters — can clog lines if not fully dissolved"
+
 ---
 
 Let me save you some time: if you're tired of mixing five different bottles every feeding, FloraNova Grow deserves a hard look. But it's not without quirks, and I'm going to tell you exactly what those are.

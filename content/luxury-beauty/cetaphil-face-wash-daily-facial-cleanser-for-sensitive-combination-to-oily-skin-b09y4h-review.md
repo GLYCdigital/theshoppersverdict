@@ -1,4 +1,5 @@
 ---
+
 title: "Cetaphil Face Wash, Daily Facial Cleanser for Sensitive, Com"
 seo_title: "Cetaphil Face Wash Review: Daily Cleanser for Sensitive Skin"
 meta_description: "Cetaphil Daily Facial Cleanser review: Does it really work for sensitive, combination-to-oily skin? Honest pros, cons, and verdict from real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Y4HHY1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bzIktCpVL._SL1500_.jpg"
-pros:
+pros: 
   - "Fragrance-free and dye-free formula that won't trigger reactive skin"
   - "Gentle foaming action effectively removes excess oil without stripping moisture barrier"
   - "Specifically formulated for combination-to-oily skin with niacinamide for balance"
-cons:
+cons: 
   - "Pump dispenser can be finicky — sometimes sputters or delivers less product than expected"
   - "May not remove heavy waterproof makeup in a single wash; requires double cleansing"
+
 ---
 
 Let me be blunt: most cleansers marketed for "sensitive skin" are either so gentle they do nothing, or so aggressive they defeat the purpose. The Cetaphil Daily Facial Cleanser for combination-to-oily skin actually threads that needle — and the 4.7-star average across 235 ratings suggests I'm not alone in that assessment.

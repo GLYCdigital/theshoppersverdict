@@ -1,24 +1,26 @@
 ---
+
 title: "Blackstone 22 Inch Griddle 2350 Portable Blackstone Omnivore"
 seo_title: "Blackstone 22 Inch Griddle 2350 Review: Portable Omnivore"
 meta_description: "Blackstone 22 Inch Griddle 2350 review: Omnivore surface, FlexFold legs, portable propane power. Is this 4.7-star griddle worth it? Read before you buy."
 slug: "blackstone-22-inch-griddle-2350-portable-blackstone-omnivore-grill-with-flexfold-legs-b0dqqd-review"
 image_alt: "Blackstone 22 inch portable griddle with Omnivore surface and FlexFold legs on a patio table"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQQDFSGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oW7gAnqiL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "22-inch Omnivore surface heats evenly across the full cooktop, no cold spots at the edges"  
   - "FlexFold legs collapse flat for true portability — fits in a car trunk or RV bay"  
   - "Dual independent burners (12,000 BTU each) let you cook two zones at different temps"  
-cons:  
+cons: 
   - "No built-in grease trap — you'll need the optional rear drip cup or a foil liner"  
   - "Propane tank (1-lb) sits exposed on the side, making it awkward to confirm fuel level mid-cook"  
   - "Pre-seasoning is light; expect to do a proper initial seasoning before first use"
+
 ---
 
 **Opening: Why this griddle earns its keep**

@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie Permanent Mini Markers, Fine Point, Black, 72 Count "
 seo_title: "Sharpie Permanent Mini Markers, Fine Point, Black, Review"
 meta_description: "Our full sharpie permanent mini markers, fine point, black, 72 count  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001H9NXBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oxdN1NvIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Sharpie: you don't buy it because you're unsure. You buy it because it works. The Mini Permanent Marker 72-pack takes that reliability and shrinks it down to something you can actually carry without a dedicated holster.

@@ -1,4 +1,5 @@
 ---
+
 title: "KEROVI Solar Globe Light Outdoor"
 seo_title: "KEROVI Solar Globe Light Outdoor Review: Verdict | TSV"
 meta_description: "Our full kerovi solar globe light outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C7YZPYGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UAJ87A-1L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most solar lights under $40 are disposable junk that stops charging by October. The KEROVI Solar Globe Light isn't that — but it's not perfect either. Here's the honest breakdown after digging through 204 ratings and the specs that matter.

@@ -1,4 +1,5 @@
 ---
+
 title: "ACMEASE Leather Couch Sofa"
 seo_title: "ACMEASE Leather Couch Sofa Review: Honest 2026 Verdict"
 meta_description: "ACMEASE Leather Couch Sofa review: Real buyer insights on comfort, leather quality, and durability. See if this 4.5-star sofa fits your living room."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSPRDPQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XDKqpf2OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine top-grain leather on seating surfaces — not the bonded leather blend most sub-$1,000 sofas use"
   - "High-density foam cushions with pocket springs hold shape after months of daily use"
   - "Solid kiln-dried hardwood frame rated for 600+ lbs — no creaking or wobble"
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes — the backrest sections are heavy and awkward"
   - "Leather needs conditioning every 4–6 months to prevent drying in low-humidity climates"
+
 ---
 
 **Skip the showroom markup. This is what a $2,000 sofa should cost.**

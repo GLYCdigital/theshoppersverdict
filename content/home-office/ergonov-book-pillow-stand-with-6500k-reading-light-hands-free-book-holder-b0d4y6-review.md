@@ -1,4 +1,5 @@
 ---
+
 title: "ERGONOV Book Pillow Stand with 6500K Reading Light, Hands Fr"
 seo_title: "ERGONOV Book Pillow Stand Review: Hands-Free Reading Light"
 meta_description: "ERGONOV Book Pillow Stand review: Does the 6500K reading light and hands-free design justify the hype? Real pros, cons & verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4Y6HWTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PGfKirRKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated 6500K LED light is bright (150+ lumens) and positioned to illuminate both pages evenly without glare on glossy paper"
   - "Adjustable page-holding arms with silicone tips grip thin paperbacks and thick hardcovers alike without bending pages"
   - "Firm, structured foam core holds its shape on uneven surfaces like couches, beds, and recliner arms"
-cons:
+cons: 
   - "Light runs on 3 AAA batteries (not included) — no USB-C recharge option, so you'll buy batteries repeatedly"
   - "At roughly 1.5 lbs, it's heavier than basic book pillows; not ideal for travel or holding overhead while lying flat"
   - "The 6500K daylight color temperature can feel harsh for bedtime reading if you prefer warm, dim light"
+
 ---
 
 **Review Body**

@@ -1,4 +1,5 @@
 ---
+
 title: "YESHOMY Modern Farmhouse TV Stand"
 seo_title: "YESHOMY Modern Farmhouse TV Stand Review: Verdict | TSV"
 meta_description: "Our full yeshomy modern farmhouse tv stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GT7QH1SX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RIm5-MHVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past 50 identical "farmhouse" TV stands that all look like they fell off the same Pinterest board, the YESHOMY Modern Farmhouse TV Stand at least tries to do something different. The sliding barn doors aren't just decorative — they actually hide your cable box, game consoles, and the pile of remotes you swear you'll organize someday.

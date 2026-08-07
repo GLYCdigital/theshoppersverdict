@@ -1,4 +1,5 @@
 ---
+
 title: "TAZO Glazed Lemon Loaf Dessert Delights Herbal Tea Bags, Caf"
 seo_title: "TAZO Glazed Lemon Loaf Dessert Delights Herbal Tea Review"
 meta_description: "Our full tazo glazed lemon loaf dessert delights herbal tea bags, caf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC2C7HDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yfcUL0wvL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're craving something sweet but don't want the calories of an actual lemon loaf? TAZO's Glazed Lemon Loaf Dessert Delights tea attempts to solve that exact problem. And honestly? It mostly works.

@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech MX Anywhere 3 for Mac"
 seo_title: "Logitech MX Anywhere 3 for Mac Review: Verdict | TSV"
 meta_description: "Our full logitech mx anywhere 3 for mac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D76PNBKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PCUMmtCgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech MX Anywhere 3 for Mac is the rare mouse that actually understands the difference between "portable" and "compromised." At 99 grams and roughly the size of a deck of cards, it's the kind of peripheral you forget is in your bag — until you need it. And when you do, it delivers the kind of polish that makes you wonder why your desk mouse feels so primitive.

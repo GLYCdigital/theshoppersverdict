@@ -1,4 +1,5 @@
 ---
+
 title: "Carolina Cookwood Pizza Oven Wood - Naturally Cured White Oa"
 seo_title: "Carolina Cookwood Pizza Oven Wood Review: White Oak Splits"
 meta_description: "Honest Carolina Cookwood pizza oven wood review. Naturally cured white oak splits tested for moisture, burn, and flavor. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C37SQBP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713yRx-eeyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Unusually dry wood right out of the box — moisture readings around 15-18%, which means you skip the frustrating smolder phase and get clean ignition fast"
   - "Consistent split sizing (roughly 10-14 inches long, 2-4 inches thick) that fits standard pizza oven fireboxes without needing to re-split or chop"
   - "White oak burns hot and steady with minimal sparking, producing that mild, sweet smoke that doesn't overpower your toppings"
-cons:
+cons: 
   - "Packaging is basic — splits arrive loose in a cardboard box with no inner bag, so some buyers report bark dust and small debris at the bottom of the box"
   - "Moisture content varies slightly between batches; a few reviewers noted occasional splits that read closer to 20% and needed an extra day of air-drying"
+
 ---
 
 Let me be blunt: most "pizza oven wood" you buy online is glorified firewood — damp, inconsistently sized, and loaded with sap that makes your Margherita taste like a campfire. The Carolina Cookwood naturally cured white oak is a different animal, and after digging through 220 ratings and buyer feedback, here's the real story.

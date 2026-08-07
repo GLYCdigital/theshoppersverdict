@@ -1,4 +1,5 @@
 ---
+
 title: "addlon Sofa Floor lamp"
 seo_title: "addlon Sofa Floor Lamp Review: Arc Light Worth It?"
 meta_description: "addlon Sofa Floor Lamp review: 4.5-star arc light with 3 color temps, dimmer, and sturdy base. See if it fits your living room before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4M5982P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XB8l-i7EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperatures (3000K/4000K/5000K) via a foot switch — no fumbling with bulbs or smart home apps"
   - "Steady weighted base (~11 lbs) handles the arc overhang without tipping, even on carpet"
   - "Dimmer knob lets you drop from 1200 lumens down to a soft nightlight glow"
-cons:
+cons: 
   - "Assembly requires a hex wrench and about 20 minutes — the pole sections can be finicky to align"
   - "Foot switch is a press-and-cycle design; you can't jump straight from off to your last-used color temp"
   - "Not a reading light — the shade directs light downward and outward, not a focused beam"
+
 ---
 
 The addlon Sofa Floor Lamp is the kind of product that makes you wonder why every arc lamp doesn't ship this way. As someone who's tested a dozen of these over-the-sofa lights, I can tell you the category is full of wobbly poles and harsh, single-temperature bulbs. This one gets the fundamentals right — and then adds a few genuinely useful touches.

@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 1/4 Inch Drive Dual-Direction Click Torque Wrench (10"
 seo_title: "TEKTON 1/4 Inch Drive Dual-Direction Click Torque  Review"
 meta_description: "Our full tekton 1/4 inch drive dual-direction click torque wrench (10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08ZZ98WB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LHQLXV5pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you work on bicycles, motorcycles, or anything with small aluminum fasteners, you already know the pain of guessing torque. Snug isn't a spec. The TEKTON 1/4-inch drive dual-direction click torque wrench covers 10–150 in-lb — the sweet spot for derailleur bolts, brake calipers, scope rings, and electronics — and does it without the $150 price tag of Snap-On or CDI.

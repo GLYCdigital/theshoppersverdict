@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Sculpt Ergonomic Mouse, Black - Wireless Mouse for"
 seo_title: "Microsoft Sculpt Ergonomic Mouse, Black - Wireless Review"
 meta_description: "Our full microsoft sculpt ergonomic mouse, black - wireless mouse for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B00DUV01RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wJoVPREEL._AC_SL1078_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Microsoft Sculpt Ergonomic Mouse is the office chair of the mouse world — it looks strange, feels strange, and yet somehow makes eight hours of spreadsheet work hurt less. But before you buy into the dome, know this: the Sculpt is a niche tool, not a universal upgrade. At 3.9 stars across 195 ratings, it's a love-it-or-hate-it device, and the split usually comes down to hand size and grip style.

@@ -1,4 +1,5 @@
 ---
+
 title: "Employee Appreciation Gifts Bulk Inspirational Notebooks,Sma"
 seo_title: "Inspirational Notebooks Bulk Review: Employee Gifts Worth It?"
 meta_description: "Honest review of bulk inspirational notebooks with motivational pens. Great for employee appreciation? Build quality, value, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL9SD68V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Pjgr3nM9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "12 complete sets (notebook + pen) for under $16 — roughly $1.33 per gift recipient"
   - "Sturdy 100gsm paper that holds up to gel pens and markers without bleed-through"
   - "Motivational quotes printed on both cover and inside pages add genuine personal touch"
-cons:
+cons: 
   - "Notebooks are smaller than expected — roughly 5x7 inches, not full letter-size"
   - "Pens are basic ballpoints; don't expect premium writing instruments"
   - "Cardstock covers are decent but not laminated — they'll show wear in a bag or pocket"
+
 ---
 
 Let me cut through the fluff: you're probably here because you need to appreciate a team without breaking the bank. These bulk inspirational notebooks deliver on that promise — but with a few caveats worth knowing before you click buy.

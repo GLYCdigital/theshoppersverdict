@@ -1,4 +1,5 @@
 ---
+
 title: "Gel Food Coloring - Oil Based Food Coloring"
 seo_title: "Gel Food Coloring - Oil Based Food Coloring Review: Verdi"
 meta_description: "Our full gel food coloring - oil based food coloring review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLYBJJBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qd5v6VqbL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most food coloring is water-based. That's fine for frosting and cake batter. But the second you try to color white chocolate, candy melts, or — yes — coffee creamer, that water-based stuff seizes up like a scared cat. This oil-based gel set sidesteps that entire failure mode, and it's why it's earned a 4.4-star rating across 220 reviews. Let me break down what actually works.

@@ -1,4 +1,5 @@
 ---
+
 title: "FBSPORT Inflatable Bounce House, Kids Bounce Castle with Sli"
 seo_title: "FBSPORT Inflatable Bounce House Review: Castle + Slide (2026)"
 meta_description: "Honest FBSPORT inflatable bounce house review: 4.5-star castle with slide. Durability, blower power, setup time, and who it's best for — tested by real buyers."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FL7HQ1CP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yQm2BxgNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "322W blower inflates the whole unit in under 2 minutes and maintains firm pressure even with 3-4 kids bouncing hard"
   - "Commercial-grade 840D Oxford cloth with double-stitched seams holds up to daily summer use without developing leaks"
   - "Setup is genuinely tool-free — 4 ground stakes, plug in, go. Takes most parents under 10 minutes solo"
-cons:
+cons: 
   - "The slide is steep enough that toddlers under 3 will need constant spotting; this is really a 3+ toy"
   - "No carrying bag included for the blower — you'll need to store the cord and motor unit separately"
   - "The included stakes are basic 8-inch plastic; swap for metal ones if you have sandy soil or high winds"
+
 ---
 
 **Bottom line: This is the bounce house that actually gets used.** The FBSPORT Castle with Slide has 225 Amazon ratings averaging 4.5 stars, and after digging through the buyer feedback and specs, I can tell you exactly why it works — and where it doesn't.

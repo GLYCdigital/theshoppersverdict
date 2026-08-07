@@ -1,4 +1,5 @@
 ---
+
 title: "Rinkai-S 4.7 Inch Cool Gel Memory Foam Sofa Bed Replacement "
 seo_title: "Rinkai-S 4.7 Inch Cool Gel Memory Foam Sofa Bed Re Review"
 meta_description: "Our full rinkai-s 4.7 inch cool gel memory foam sofa bed replacement  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1PDKX8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xyi-Kq7-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you’ve been sleeping on a sofa bed that feels like a sack of baseballs, you already know the problem isn’t the frame. It’s the mattress. The Rinkai-S 4.7 Inch Cool Gel Memory Foam replacement aims to fix that without costing as much as a real mattress. Here’s the honest breakdown after digging through 220 ratings and the spec sheet.

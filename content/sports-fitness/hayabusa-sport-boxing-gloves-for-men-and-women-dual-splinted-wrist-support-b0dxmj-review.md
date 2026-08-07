@@ -1,4 +1,5 @@
 ---
+
 title: "Hayabusa Sport Boxing Gloves for Men and Women â€“ Dual-Spli"
 seo_title: "Hayabusa Sport Boxing Gloves for Men and Women â€“ Review"
 meta_description: "Our full hayabusa sport boxing gloves for men and women â€“ dual-spli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXMJB92L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710yeW02NML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hayabusa Sport Boxing Gloves aren't just another pair of mitts — they're the answer to a question every boxer eventually asks: "How do I stop my wrists from aching after every session?"**

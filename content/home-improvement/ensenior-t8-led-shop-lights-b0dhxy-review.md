@@ -1,4 +1,5 @@
 ---
+
 title: "Ensenior T8 LED Shop Lights"
 seo_title: "Ensenior T8 LED Shop Lights Review: Worth It? (2026)"
 meta_description: "Honest Ensenior T8 LED shop light review: brightness, install ease, real buyer feedback. See if these garage lights beat the competition."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHXY6129/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TqDYZgWNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free installation with included magnetic brackets and V-hooks — no wiring required for the plug-in version"
   - "Linkable design lets you daisy-chain up to 6 fixtures from a single outlet, which is rare at this price point"
   - "6000K daylight color temperature reads colors accurately for detailed work, not the harsh blue some cheap LEDs throw"
-cons:
+cons: 
   - "Built-in pull chain is stiff on some units — buyers report needing two hands to toggle it"
   - "No dimming function; if you want adjustable brightness, you'll need to buy a separate dimmer switch"
   - "Power cord is only 5.5 feet, so placement is limited unless you use the linkable connectors"
+
 ---
 
 # Ensenior T8 LED Shop Lights: The Garage Upgrade That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "Traeger Grills Sauce"
 seo_title: "Traeger Grills Sauce Review: Verdict | TSV"
 meta_description: "Our full traeger grills sauce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQHT575L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ggyETJmWL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most BBQ sauces on Amazon are either watery ketchup pretending to be artisanal, or so thick with molasses they taste like dessert. The Traeger Grills Sauce sits somewhere better — and that's exactly why it's holding a 4.4-star rating across 220 reviews.

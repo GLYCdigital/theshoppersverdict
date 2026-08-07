@@ -1,4 +1,5 @@
 ---
+
 title: "ENITYA Split King Gap Filler"
 seo_title: "ENITYA Split King Gap Filler Review: Fixes the Crevice"
 meta_description: "Our ENITYA Split King Gap Filler review covers the foam wedge that bridges the mattress crevice. See if it stays put, fits right, and kills the gap."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GX638DZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vFts9cfyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Firm high-density foam holds shape overnight without flattening under body weight"
   - "Universal fit works for 2-inch to 4-inch gaps between split king mattresses"
   - "Removable, machine-washable bamboo-blend cover resists slipping and pilling"
-cons:
+cons: 
   - "Wedge sits on top of mattresses, so you'll feel the edge transition if you sleep directly on the seam"
   - "No adhesive or strap system — can shift if you toss aggressively or use a mattress protector with slick undersides"
+
 ---
 
 If you sleep on a split king, you already know the enemy: that cold, dark canyon running down the middle of your bed. The ENITYA Split King Gap Filler is a foam wedge designed to bridge that crevice. At 4.3 stars from 215 ratings, it's one of the more popular solutions — but does it actually stay put? I dug through the feedback and the specs to find out.

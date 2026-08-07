@@ -1,4 +1,5 @@
 ---
+
 title: "Fanttik D2 Pocket Laser Level, 100 ft Self-Leveling Cross Li"
 seo_title: "Fanttik D2 Pocket Laser Level Review: 100ft Self-Leveling "
 meta_description: "Fanttik D2 pocket laser level review: 100ft range, self-leveling cross-line. Compact build, magnetic mount, real tradeoffs. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2HMBDXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+b4lj3qlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 100ft range with visible green beam — no need to squint in daylight conditions"
   - "Pocket-sized build with strong magnetic mount that sticks to conduit, studs, and metal framing"
   - "Self-leveling within 4° with out-of-level lock — gives an audible beep when it can't find level"
-cons:
+cons: 
   - "No included tripod or case — you'll pay extra for the mounting accessories bundle"
   - "Rechargeable battery is integrated, not replaceable — eventual lifespan concern for heavy daily use"
   - "Only projects cross-lines, not multi-line or dot patterns — less versatile for complex layout work"
+
 ---
 
 The Fanttik D2 pocket laser level looks like a toy at first glance. It's smaller than a smartphone, weighs almost nothing, and the price point suggests it belongs in a hobbyist's drawer. But 229 Amazon reviewers averaging 4.6 stars say otherwise. After digging through the specs and customer feedback, here's the real story on this compact cross-line laser.

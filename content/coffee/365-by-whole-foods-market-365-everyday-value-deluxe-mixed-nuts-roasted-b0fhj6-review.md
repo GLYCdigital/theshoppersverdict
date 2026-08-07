@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market 365 Everyday Value Deluxe Mixed Nuts"
 seo_title: "365 Everyday Value Deluxe Mixed Nuts Review (2026)"
 meta_description: "Honest 365 by Whole Foods Deluxe Mixed Nuts review: taste, freshness, value. See what 220+ Amazon shoppers say before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHJ6KFPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514QC5VkhWL._SL1000_.jpg"
-pros:
+pros: 
   - "Deluxe mix actually includes pecans and brazil nuts, not just filler peanuts and cashews"
   - "Dry-roasted with light sea salt — no heavy oil coating or sticky residue on fingers"
   - "Resealable tub keeps nuts fresh for weeks without going stale or rancid"
-cons:
+cons: 
   - "No peanuts in the mix means higher price per ounce than standard blends"
   - "Some batches arrive with more almonds than pecans — ratio varies by container"
+
 ---
 
 Let me be straight with you: this is a review of a coffee maker that is not a coffee maker. It's a can of nuts. But since you're here, let's talk about whether 365 by Whole Foods Market Deluxe Mixed Nuts deserves a spot in your pantry — because at 4.4 stars from 220+ shoppers, it's clearly doing something right.

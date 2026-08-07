@@ -1,4 +1,5 @@
 ---
+
 title: "Matte Card Sleeves for Trading Cards"
 seo_title: "Matte Card Sleeves for Trading Cards Review: Verdict | TS"
 meta_description: "Our full matte card sleeves for trading cards review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJMLSBW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lwPP6iXbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

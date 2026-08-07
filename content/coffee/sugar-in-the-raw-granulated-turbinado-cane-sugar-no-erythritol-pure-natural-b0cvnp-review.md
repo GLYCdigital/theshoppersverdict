@@ -1,4 +1,5 @@
 ---
+
 title: "Sugar In The Raw Granulated Turbinado Cane Sugar, No Erythri"
 seo_title: "Sugar In The Raw Granulated Turbinado Cane Sugar,  Review"
 meta_description: "Our full sugar in the raw granulated turbinado cane sugar, no erythri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVNP6LKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dJphQIL3L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Turbinado sugar occupies a strange middle ground in the sweetener world. It's less processed than white sugar but not as rustic as raw cane chunks. The question most shoppers ask: Is it worth the premium over regular sugar, and does this particular product deliver?

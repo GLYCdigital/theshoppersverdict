@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOHOME Submersible Cast Iron Sewage/Effluent Pump, Float S"
 seo_title: "VIVOHOME Submersible Cast Iron Sewage/Effluent Pum Review"
 meta_description: "Our full vivohome submersible cast iron sewage/effluent pump, float s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CV5GNR96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811njMilhML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VIVOHOME Cast Iron Sewage Pump: The Workhorse That Won't Quit (Mostly)

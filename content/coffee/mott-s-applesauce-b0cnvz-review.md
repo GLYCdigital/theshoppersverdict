@@ -1,4 +1,5 @@
 ---
+
 title: "Mott's Applesauce"
 seo_title: "Mott's Applesauce Review: Verdict | TSV"
 meta_description: "Our full mott's applesauce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNVZQNNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w3epeW8AL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I didn't expect to be writing a deep-dive review of applesauce. But with 240 ratings and a 4.8-star average on Amazon, clearly this isn't just "baby food for adults." Mott's has been making this stuff since 1842, and they've essentially perfected the shelf-stable applesauce category. Here's what you actually need to know before adding it to your cart.

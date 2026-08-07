@@ -1,4 +1,5 @@
 ---
+
 title: "Safety Technology International, Inc. STI-13010FR Universal "
 seo_title: "Safety Technology International, Inc. STI-13010FR  Review"
 meta_description: "Our full safety technology international, inc. sti-13010fr universal  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007885Y3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ACtI1EiHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The STI-13010FR Universal Stopper isn't glamorous. It's a clear plastic box that goes over your fire alarm pull station. But it's the kind of product that pays for itself the first time a kid slaps the handle "just to see what happens" — or a disgruntled employee decides to make a point.**

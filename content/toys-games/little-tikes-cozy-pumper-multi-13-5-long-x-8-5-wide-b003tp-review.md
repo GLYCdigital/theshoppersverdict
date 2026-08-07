@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Cozy Pumper Multi, 13.5 long x 8.5 wide x 17.5 "
 seo_title: "Little Tikes Cozy Pumper Multi, 13.5 long x 8.5 wi Review"
 meta_description: "Our full little tikes cozy pumper multi, 13.5 long x 8.5 wide x 17.5  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003TPPXAU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P8BRgDRFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Little Tikes Cozy Pumper Multi isn't a new toy — and that's exactly why it deserves your attention.** In a market flooded with blinking, beeping, screen-adjacent ride-ons, this is a back-to-basics machine that has quietly racked up 235 ratings with a 4.7-star average. At just 13.5 inches long, 8.5 inches wide, and 17.5 inches tall, it's a compact foot-powered vehicle designed for toddlers who want to *drive* — not just sit and be pushed.

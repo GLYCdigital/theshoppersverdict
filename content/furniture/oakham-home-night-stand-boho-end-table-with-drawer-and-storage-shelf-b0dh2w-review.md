@@ -1,4 +1,5 @@
 ---
+
 title: "OAKHAM HOME Night Stand, Boho End Table with Drawer and Stor"
 seo_title: "OAKHAM HOME Night Stand, Boho End Table with Drawe Review"
 meta_description: "Our full oakham home night stand, boho end table with drawer and stor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DH2WX2RC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SpYb2pC2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most nightstands under $100 are wobbly, particleboard disasters that you'll hate by month three. The OAKHAM HOME Boho End Table is not that. With a 4.5-star average across 225 ratings, this piece punches far above its price class — but it's not without tradeoffs. Here's what you need to know before you click "Add to Cart."

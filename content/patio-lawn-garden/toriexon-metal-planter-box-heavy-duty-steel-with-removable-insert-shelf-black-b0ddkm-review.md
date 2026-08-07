@@ -1,4 +1,5 @@
 ---
+
 title: "Toriexon Metal Planter Box, Heavy Duty Steel With Removable "
 seo_title: "Toriexon Metal Planter Box, Heavy Duty Steel With  Review"
 meta_description: "Our full toriexon metal planter box, heavy duty steel with removable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDKMP3FV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ANthufWNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the Toriexon Metal Planter Box is one of the better steel planters I've tested in this price range, but it's not without quirks. At 4.3 stars across 215 ratings, the consensus is solid — and for once, the Amazon reviews mostly match reality.

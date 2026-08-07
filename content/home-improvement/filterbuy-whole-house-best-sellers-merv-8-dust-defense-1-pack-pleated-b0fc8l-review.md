@@ -1,4 +1,5 @@
 ---
+
 title: "Filterbuy Whole House Best Sellers MERV 8 Dust Defense (1-Pa"
 seo_title: "Filterbuy MERV 8 Dust Defense Review: Whole House HVAC"
 meta_description: "Filterbuy Whole House MERV 8 Dust Defense review: 1-pack pleated filter performance, build quality, and real buyer feedback. See if it's right for your HVAC."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC8L7GKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713Jx89CQRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced cardboard frame holds its shape during installation — no warping or collapsing like cheap fiberglass panels"
   - "MERV 8 rating catches pollen, dust mites, and mold spores without choking airflow, so your furnace doesn't work harder than it should"
   - "1-inch pleated design maximizes surface area, meaning you'll likely get closer to the full 90 days between changes"
-cons:
+cons: 
   - "Only a single filter in the box — if you need to swap multiple returns, you'll be ordering several units"
   - "No sizing flexibility; you must match your existing dimensions exactly, which can be frustrating if your filter slot is between standard sizes"
+
 ---
 
 **Filterbuy Whole House MERV 8 Dust Defense: The Boring Purchase You Should Actually Care About**

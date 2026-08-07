@@ -1,4 +1,5 @@
 ---
+
 title: "Canon SELPHY CP1500 Compact Photo Printer with KP108 inch"
 seo_title: "Canon SELPHY CP1500 Review: Compact Photo Printer (2026)"
 meta_description: "Canon SELPHY CP1500 with KP108 kit review: dye-sub quality, 4x6 prints in 47 sec, wireless ease. See real tradeoffs before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1CTYLMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41YtfUBwd1L._AC_US40_.jpg"
-pros:
+pros: 
   - "Dye-sublimation prints are waterproof, smear-proof, and fingerprint-resistant — no drying time, no inkjet smudging"
   - "True borderless 4x6 prints in about 47 seconds via a compact (7.3 x 4.6 x 2.6-inch) unit that fits on a shelf"
   - "Wireless printing via the SELPHY app is genuinely intuitive, with borderless/with-border options, date stamps, and creative filters built in"
-cons:
+cons: 
   - "The KP108 kit only includes 108 sheets — at roughly 35–50 cents per print, this is an ongoing consumable cost, not a one-time buy"
   - "No internal battery option on the base CP1500 model — you'll need the optional NB-CP2LH battery pack for true portability"
   - "Max print size is 4x6 — no 5x7 or 8x10 output, so this won't replace your big photo printer"
+
 ---
 
 **If you're still printing photos on an inkjet and waiting for the ink to dry before you can touch them, you're living in the past.** The Canon SELPHY CP1500 uses dye-sublimation — a heat-based process that layers color protection onto the paper, making prints waterproof, smudge-proof, and ready to handle the second they slide out. That alone justifies a look.

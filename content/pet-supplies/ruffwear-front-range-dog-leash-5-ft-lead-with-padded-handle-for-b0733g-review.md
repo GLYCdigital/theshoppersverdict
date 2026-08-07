@@ -1,4 +1,5 @@
 ---
+
 title: "Ruffwear, Front Range Dog Leash, 5 ft Lead with Padded Handl"
 seo_title: "Ruffwear, Front Range Dog Leash, 5 ft Lead with Pa Review"
 meta_description: "Our full ruffwear, front range dog leash, 5 ft lead with padded handl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0733GM2KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D9eIZ-b3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ruffwear Front Range leash is the kind of product you buy once and forget about — until you grab a friend's fraying nylon strap and remember why you spent the extra $10. With 225 Amazon ratings averaging 4.5 stars, this 5-foot lead has earned its reputation among serious dog owners. But is it right for *your* dog? Let's dig in.

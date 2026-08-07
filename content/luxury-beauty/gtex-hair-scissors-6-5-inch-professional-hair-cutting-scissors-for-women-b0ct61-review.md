@@ -1,4 +1,5 @@
 ---
+
 title: "GTEX Hair Scissors, 6.5 inch Professional Hair Cutting Sciss"
 seo_title: "GTEX Hair Scissors, 6.5 inch Professional Hair Cut Review"
 meta_description: "Our full gtex hair scissors, 6.5 inch professional hair cutting sciss review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT612MJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810GizblOBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most hair scissors under $40 are glorified kitchen shears with a nice label. The GTEX 6.5-inch Professional model is not that. It's a legitimate tool that punches above its price point — but it's not flawless either.

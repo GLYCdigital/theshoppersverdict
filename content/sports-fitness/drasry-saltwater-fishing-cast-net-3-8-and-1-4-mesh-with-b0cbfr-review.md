@@ -1,4 +1,5 @@
 ---
+
 title: "Drasry Saltwater Fishing Cast Net 3/8 and 1/4 Mesh with Heav"
 seo_title: "Drasry Saltwater Cast Net Review: 3/8 & 1/4 Mesh Tested"
 meta_description: "Honest Drasry saltwater fishing cast net review: 3/8 and 1/4 mesh options, build quality, throwing performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CBFRSNF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ld6ZdwbbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Nylon monofilament mesh holds up to repeated saltwater abuse without rot or stiffness"
   - "Quick-drying 3/8 and 1/4 mesh options suit different bait sizes from shrimp to finger mullet"
   - "Lead line is properly weighted for a full circular spread on the throw"
-cons:
+cons: 
   - "No included carrying bag or storage pouch in the standard package"
   - "Mesh tangles easily if you don't master the proper throwing technique on the first few tries"
   - "Handles smaller than advertised for larger-handed anglers"
+
 ---
 
 If you've ever watched a seasoned angler send a cast net arcing perfectly across the water, you know the appeal: one throw, dozens of live bait. The Drasry Saltwater Fishing Cast Net aims to make that happen for you without breaking the bank. After digging through 220 ratings and the specs, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Superbaking Sourdough Starter Jar, Beginner Sourdough Starte"
 seo_title: "Superbaking Sourdough Starter Jar, Beginner Sourdo Review"
 meta_description: "Our full superbaking sourdough starter jar, beginner sourdough starte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9BX84R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91uhAVIzaQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sourdough starter jars are just repackaged Mason jars with a fancy price tag. The Superbaking Sourdough Starter Jar actually tries to solve the three things that make beginners quit: sticky messes, exploded lids, and not knowing when to feed.

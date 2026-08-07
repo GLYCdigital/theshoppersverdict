@@ -1,4 +1,5 @@
 ---
+
 title: "Nutro Natural Choice Adult Small Bites Dog Food"
 seo_title: "Nutro Natural Choice Adult Small Bites Dog Food Review: V"
 meta_description: "Our full nutro natural choice adult small bites dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GCNKZPTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YbjZSp76L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Small kibble. Big reputation. Does Nutro Natural Choice Adult Small Bites actually deliver, or is it just another bag of brown nuggets with a premium price tag?**

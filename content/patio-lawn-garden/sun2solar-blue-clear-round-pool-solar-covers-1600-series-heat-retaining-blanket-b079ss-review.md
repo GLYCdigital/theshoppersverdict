@@ -1,4 +1,5 @@
 ---
+
 title: "Sun2Solar Blue/Clear Round Pool Solar Covers | 1600 Series |"
 seo_title: "Sun2Solar Blue/Clear Round Pool Solar Covers | 160 Review"
 meta_description: "Our full sun2solar blue/clear round pool solar covers | 1600 series | review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B079SSYBCN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h2Shzr-BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of stepping into a pool that feels like it was filled from a mountain stream, the Sun2Solar 1600 Series is the cheapest temperature upgrade you can buy for an above-ground round pool. I've tested dozens of solar blankets over the years, and this one hits the sweet spot between price, heat gain, and durability — with a couple of caveats you should know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Steens Manuka Honey - MGO 830+ - Pure and Raw 100% Certified"
 seo_title: "Steens Manuka Honey - MGO 830+ - Pure and Raw 100% Review"
 meta_description: "Our full steens manuka honey - mgo 830+ - pure and raw 100% certified review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FPQN465V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JkVYYm29L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about something: MGO 830 is not beginner's manuka honey. This is the heavy artillery of the honey world, and Steens is positioning it as a certified UMF 20 product. Before you spend this kind of money, you need to understand exactly what you're getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "JOYLDIAS Kids Motorcycle, 12V7AH Ride On Motorcycle for Kids"
 seo_title: "JOYLDIAS Kids Motorcycle, 12V7AH Ride On Motorcycl Review"
 meta_description: "Our full joyldias kids motorcycle, 12v7ah ride on motorcycle for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09X9TW28C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PHpUhtwmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most ride-on motorcycles under $250 are plastic toys with undersized batteries that die in 20 minutes. The JOYLDIAS 12V7AH isn't that. With a genuine 7Ah battery — double what most competitors squeeze in at this price — this bike actually delivers a full afternoon of neighborhood cruising. But that extra capacity comes with some tradeoffs you need to know about before clicking buy.

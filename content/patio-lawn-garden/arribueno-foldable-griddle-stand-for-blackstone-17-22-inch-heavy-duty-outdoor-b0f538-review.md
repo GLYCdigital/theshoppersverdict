@@ -1,4 +1,5 @@
 ---
+
 title: "Arribueno Foldable Griddle Stand for Blackstone 17 & 22 Inch"
 seo_title: "Arribueno Foldable Griddle Stand Review: Blackstone 17 & 22 inch"
 meta_description: "Arribueno Foldable Griddle Stand for Blackstone 17 & 22 review: sturdy steel, 66-lb capacity, folds flat. Real buyer feedback on fit, wobble, and portability."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F53842X1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fF4X7g+cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fits Blackstone 17” and 22” models with zero modification — no tools needed for setup"
   - "Folds flat to roughly briefcase size; packs into a car trunk or RV bay without complaint"
   - "Welded steel frame rated to 66 lbs, so it holds a loaded griddle plus cookware without flex"
-cons:
+cons: 
   - "No locking mechanism on the legs — the stand can fold if you drag it while set up"
   - "Surface is bare steel, not coated; expect light surface rust if left outside uncovered"
+
 ---
 
 The Arribueno Foldable Griddle Stand solves a genuinely annoying problem: Blackstone makes excellent tabletop griddles, but their factory legs are flimsy, wobble on uneven ground, and don't fold into anything transportable. This stand replaces that frustration with a welded steel frame that goes from flat to functional in about 20 seconds.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bleuhome Plant Saucer 14-16-18-22 inch"
 seo_title: "Bleuhome Plant Saucer Review: 4-Pack Sizes Tested"
 meta_description: "Honest Bleuhome Plant Saucer review: durable 4-pack in 14-22 inch sizes. Tested for cracking, drainage, and stability. See real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZ8BVB69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kcCNh5fgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced ribbed bottom prevents warping and cracking under heavy pot loads"
   - "Four graduated sizes (14/16/18/22 inches) cover nearly every standard pot diameter"
   - "Thick 0.2-inch walls resist UV degradation and winter freeze-thaw cycles"
-cons:
+cons: 
   - "22-inch saucer is shallow at 2 inches deep — overflow risk with heavy watering"
   - "No drainage holes or risers included; standing water can breed mosquitoes if not emptied"
+
 ---
 
 If you've ever had a ceramic saucer crack under a heavy pot or watched mineral stains permanently etch into a terracotta tray, you know the frustration. The Bleuhome Plant Saucer set aims to end that cycle — and with a 4.6-star average across 229 ratings, it's clearly doing something right. This is a four-pack of heavy-duty plastic saucers in graduated sizes (14, 16, 18, and 22 inches) designed for indoor planters, patio pots, and raised garden beds. Here's what you actually get for your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bio-Groom BIO DERM LABORA (Bio-Groom)"
 seo_title: "Bio-Groom BIO DERM LABORA Review: Vet-Grade Skin Relief"
 meta_description: "Bio-Groom BIO DERM LABORA review: Does this medicated shampoo deliver on its skin relief claims? We analyze ingredients, results, and real owner feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDX3ZTSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7197VRdFiLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Vet-strength 3% chlorhexidine and 1% ketoconazole formula targets bacterial and fungal skin issues simultaneously"
   - "Rich lather means a little goes a long way — most owners report a 16oz bottle lasting 2-3 months with weekly baths"
   - "Soothes itching noticeably within first or second wash, per multiple long-term user accounts"
-cons:
+cons: 
   - "Must leave on skin for 5-10 minutes per application — impatient pets or owners will struggle with contact time"
   - "Scent is distinctly clinical/medicated, not pleasant — some owners find it lingers on coats for days"
   - "Thinner consistency than typical pet shampoos; easy to over-pour if you're not paying attention"
+
 ---
 
 If your dog's been scratching holes in their own skin, you've probably cycled through three "natural" oatmeal shampoos that promised relief and delivered nothing. The Bio-Groom BIO DERM LABORA is not that product. This is the medicated stuff — the kind your vet would sell you at a 40% markup if you didn't know better.

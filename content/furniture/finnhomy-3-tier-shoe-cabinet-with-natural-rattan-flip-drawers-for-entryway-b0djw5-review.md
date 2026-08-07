@@ -1,4 +1,5 @@
 ---
+
 title: "Finnhomy 3 Tier Shoe Cabinet with Natural Rattan Flip Drawer"
 seo_title: "Finnhomy 3-Tier Shoe Cabinet Review: Rattan Flip Drawer"
 meta_description: "Honest Finnhomy 3-tier shoe cabinet review: natural rattan flip drawer, assembly, capacity, and durability. Is it worth your entryway space? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJW56XF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MIb9+kEhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-down drawers keep shoes visible and accessible without taking up floor space"
   - "Natural rattan paneling adds texture that elevates it beyond basic particleboard cabinets"
   - Compact footprint (roughly 24 inch " wide) fits narrow entryways and mudrooms
-cons:
+cons: 
   - "Flip drawers only accommodate shoes up to about size 10-11 depending on width"
   - "Assembly requires patience — predrilled holes occasionally misalign on the back panel"
+
 ---
 
 **The Short Version:** If you're drowning in a pile of shoes by the front door and want something that looks intentional rather than purely functional, the Finnhomy 3-Tier Shoe Cabinet earns its place. It's not a heirloom piece — but at this price point, the natural rattan front gives you a designer look without the designer markup.

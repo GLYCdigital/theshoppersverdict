@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStation DualSense Edge Wireless Controller"
 seo_title: "PlayStation DualSense Edge Wireless Controller Review: Ve"
 meta_description: "Our full playstation dualsense edge wireless controller review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GPPMNCL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JWa-r-c2L._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Sony's DualSense Edge is the answer to a question Xbox players have been asking for years: "When is PlayStation getting a pro controller?" The short answer is now, and it's mostly worth the wait. The longer answer involves battery tradeoffs and a premium price tag that makes you think twice.

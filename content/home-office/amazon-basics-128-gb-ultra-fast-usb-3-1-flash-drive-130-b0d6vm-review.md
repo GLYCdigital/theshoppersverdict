@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 128 Gb Ultra Fast Usb 3.1 Flash Drive 130 Mbps"
 seo_title: "Amazon Basics 128GB USB 3.1 Flash Drive Review (2026)"
 meta_description: "Honest Amazon Basics 128GB USB 3.1 flash drive review: real speeds, build quality, and whether it beats pricier brands. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6VMQQSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RhxfozxvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True USB 3.1 Gen 1 speeds — sustained 130 MB/s reads, roughly 40-60 MB/s writes on real-world file transfers"
   - "Retractable connector protects the tip without a separate cap to lose"
   - "Priced well below comparable SanDisk or Samsung models at same capacity"
-cons:
+cons: 
   - "Write speeds lag read speeds significantly — don't expect 130 MB/s when copying files onto the drive"
   - "No activity LED, so you can't tell when it's writing without checking your OS"
   - "Plastic housing feels light; the sliding mechanism has a bit of play after heavy use"
+
 ---
 
 Let me save you 15 minutes of research. **The Amazon Basics 128GB USB 3.1 flash drive delivers exactly what the spec sheet promises — and nothing more.** That's not a criticism. For the price, it's the right tool for a specific job.

@@ -1,4 +1,5 @@
 ---
+
 title: "KFOSO Pitcher"
 seo_title: "KFOSO Pitcher Review: Verdict | TSV"
 meta_description: "Our full kfoso pitcher review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GT1P55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R-n6+swqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The KFOSO Pitcher Actually Delivers on Its Promises

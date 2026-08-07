@@ -1,4 +1,5 @@
 ---
+
 title: "Plastic File Folders, Waterproof Transparent Expandable File"
 seo_title: "Plastic File Folders, Waterproof Transparent Expan Review"
 meta_description: "Our full plastic file folders, waterproof transparent expandable file review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09PBDNRH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dJdtmroKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Transparent File Folder Actually Worth Your Money?

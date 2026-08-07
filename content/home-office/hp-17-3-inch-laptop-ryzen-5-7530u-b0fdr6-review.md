@@ -1,4 +1,5 @@
 ---
+
 title: "HP 17.3 inch Laptop Ryzen 5 7530U"
 seo_title: "HP 17.3 inch Laptop Ryzen 5 7530U Review: Verdict | TSV"
 meta_description: "Our full hp 17.3 inch laptop ryzen 5 7530u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDR6S582/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wMcAMUtWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most laptops under $600 are compromises wrapped in marketing. The HP 17.3-inch with a Ryzen 5 7530U is different — it's a legitimate workhorse that makes real tradeoffs in the right places. After digging through 220 Amazon ratings (4.4 stars) and the specs sheet, here's what actually matters.

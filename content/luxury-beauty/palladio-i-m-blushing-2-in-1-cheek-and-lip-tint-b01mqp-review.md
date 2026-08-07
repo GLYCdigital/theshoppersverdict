@@ -1,4 +1,5 @@
 ---
+
 title: "Palladio I'm Blushing 2-in-1 Cheek and Lip Tint"
 seo_title: "Palladio I'm Blushing 2-in-1 Cheek and Lip Tint Review: V"
 meta_description: "Our full palladio i'm blushing 2-in-1 cheek and lip tint review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01MQPFG28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hxFR6t8XL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the Palladio I'm Blushing 2-in-1 Cheek and Lip Tint: it's the kind of product that makes you wonder why you've been carrying separate blush and lip color for years. At a drugstore price point with a 4.3-star average across 215 Amazon ratings, it's clearly earning its keep in plenty of makeup bags.

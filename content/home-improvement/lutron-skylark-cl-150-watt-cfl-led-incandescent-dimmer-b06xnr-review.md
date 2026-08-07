@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Skylark CL 150-watt CFL/LED/Incandescent Dimmer"
 seo_title: "Lutron Skylark CL 150-watt CFL/LED/Incandescent Di Review"
 meta_description: "Our full lutron skylark cl 150-watt cfl/led/incandescent dimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06XNRL7LM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Wq+fur5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

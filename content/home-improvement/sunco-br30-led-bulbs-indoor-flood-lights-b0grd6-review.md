@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco BR30 LED Bulbs Indoor Flood Lights"
 seo_title: "Sunco BR30 LED Bulbs Indoor Flood Lights Review: Verdict "
 meta_description: "Our full sunco br30 led bulbs indoor flood lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRD61RHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512SMmTvAxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're replacing recessed can lights and want something that actually renders colors correctly without buzzing or flickering, the Sunco BR30 is a legitimate contender. It's not the cheapest bulb on the shelf, but it's the one you'll forget about after install — and that's the highest compliment a light bulb can earn.

@@ -1,16 +1,17 @@
 ---
+
 title: "Cuisinart Coffee Center Barista Bar 4-in-1 Coffee Maker, SS-4N1NAS"
 seo_title: "Cuisinart Coffee Center Barista Bar 4-in-1 Review: Verdict (4.1/5) | The Shopper's Verdict"
 meta_description: "Cuisinart Coffee Center Barista Bar SS-4N1NAS review: 1,184+ Amazon reviews analyzed. 4-in-1 coffee maker with K-Cup and Nespresso compatibility. Real pros, cons, and our verdict."
 slug: "cuisinart-coffee-center-barista-bar-4-in-1-coffee-maker-review"
 image_alt: "Cuisinart Coffee Center Barista Bar 4-in-1 Coffee Maker - SS-4N1NAS Black - Single-Serve and Carafe Brewer"
-keywords:
+keywords: 
   - "Cuisinart Coffee Center review"
   - "Barista Bar coffee maker review"
   - "4-in-1 coffee machine"
   - "best single-serve and carafe coffee maker"
 verdict_score: 4.1
-faq:
+faq: 
   - question: "What brewing formats does the Cuisinart Coffee Center support?"
     answer: "It supports four formats: full 12-cup carafe brewing, single-serve K-Cup pods, Nespresso OriginalLine capsules, and single-serve espresso. This makes it one of the most versatile countertop brewers available."
   - question: "Can I set the Coffee Center to brew automatically in the morning?"
@@ -23,17 +24,18 @@ review_count: 1184
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BWSMV57F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-ujch2B5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four brewing methods in one compact machine"
   - "24-hour programmability with auto brew"
   - "Adjustable Keep Warm up to 4 hours"
   - "Compatible with K-Cup pods and Nespresso OriginalLine capsules"
   - "Brew Pause feature lets you grab a cup mid-brew"
-cons:
+cons: 
   - "Large footprint — takes up significant counter space"
   - "Single-serve side only works with pods, not ground coffee"
   - "Carafe design could be better — lid can drip when pouring"
   - "At $250, it competes with dedicated machines in each category"
+
 ---
 
 **The one coffee maker that tries to do everything — and mostly succeeds.**

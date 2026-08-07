@@ -1,4 +1,5 @@
 ---
+
 title: "EASYCARE 10064 Algatec Super Algaecide-Clarifier, 64 Fl. Oz"
 seo_title: "EASYCARE Algatec Algaecide Review: Does It Work? (2026)"
 meta_description: "Read our honest EASYCARE Algatec Super Algaecide-Clarifier review. 64 oz formula, real results, and drawbacks. Is it worth it for your pool?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B001EBENCA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7171t7UHFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-action formula kills algae AND clarifies water in one pour — most competitors only do one or the other"
   - "64-ounce bottle treats up to 64,000 gallons, so a single bottle covers most residential in-ground pools"
   - "Copper-free chemistry won't stain plaster or fiberglass liners, a common issue with cheap algaecides"
-cons:
+cons: 
   - "Not a 'shock' replacement — you still need chlorine shock for severe green water, and this works best as maintenance"
   - "Some users report foaming if you over-pour; follow the dosage line carefully, especially in hot tubs or small pools"
+
 ---
 
 **The Short Version: If your pool is starting to look a little green around the edges, this is the product you grab before it becomes a swamp.**

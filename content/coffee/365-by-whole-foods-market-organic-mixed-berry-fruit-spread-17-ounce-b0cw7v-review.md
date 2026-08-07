@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Mixed Berry Fruit Spread,"
 seo_title: "365 Organic Mixed Berry Fruit Spread Review (2026) | Honest"
 meta_description: "Our honest 365 by Whole Foods Organic Mixed Berry Fruit Spread review: taste, texture, ingredients, and whether this 4.7-star jam is worth it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW7VHGPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hVPuLmaIL._SL1000_.jpg"
-pros:
+pros: 
   - "Real fruit-forward flavor with visible berry seeds and chunks, not just sugary gel"
   - "Organic ingredients without high-fructose corn syrup — sweetened with cane sugar only"
   - "Versatile 17-ounce jar works for toast, yogurt swirls, peanut butter sandwiches, and glazes"
-cons:
+cons: 
   - "Thinner consistency than traditional jam — runs off bread if you pile it on thick"
   - "Some buyers report tartness that may not suit those expecting a candy-sweet spread"
   - "No added pectin means separation can occur after refrigeration; needs a stir"
+
 ---
 
 Let’s be clear about something upfront: this is a fruit *spread*, not a jam. That distinction matters more than you'd think. The 365 by Whole Foods Market Organic Mixed Berry Fruit Spread is made with strawberries, blackberries, raspberries, and blueberries — and it tastes like it. At 4.7 stars from 235 Amazon ratings, it's clearly doing something right. Here's the full story.

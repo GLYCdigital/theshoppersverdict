@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie"
 seo_title: "Sharpie Review: Verdict | TSV"
 meta_description: "Our full sharpie review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY32M8HK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81htUXC40bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products earn their reputation. Sharpie is one of them. With 229 Amazon ratings holding a 4.6-star average, this isn't a flash-in-the-pan trend — it's a decade-spanning track record. But "good" and "right for you" aren't always the same thing. Here's what you need to know before you add to cart.

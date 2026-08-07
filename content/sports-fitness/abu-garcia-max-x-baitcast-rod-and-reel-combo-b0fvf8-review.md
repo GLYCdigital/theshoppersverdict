@@ -1,4 +1,5 @@
 ---
+
 title: "Abu Garcia Max X Baitcast Rod and Reel Combo"
 seo_title: "Abu Garcia Max X Baitcast Combo Review: Worth It?"
 meta_description: "Honest Abu Garcia Max X Baitcast Rod and Reel Combo review: build quality, casting performance, and who should buy this 4.3-star combo."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FVF8GW87/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wV9oF+TtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "30lb Max Drag carbon fiber drag system punches above its price class for bass and pike"
   - "6+1 stainless steel bearing system with corrosion-resistant construction survives brackish water trips"
   - "Graphite composite rod with 24-ton carbon blank delivers surprising sensitivity for sub-$100 combos"
-cons:
+cons: 
   - "Magnetic brake system requires a learning curve — first-time baitcasters will birdnest line"
   - "Stock line isn't braid-ready; you'll want to respool with 30lb+ braid for full casting distance"
+
 ---
 
 The baitcast combo market is a minefield of wobbly rods and reels that feel like toys. The Abu Garcia Max X isn't that. With a 4.3-star average across 215 ratings, it's carved out a reputation as the budget combo that actually fishes like real gear. But is it the right entry point for you, or should you spend more? Here's the honest breakdown.

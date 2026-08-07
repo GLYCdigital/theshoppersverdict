@@ -1,4 +1,5 @@
 ---
+
 title: "Ultra Fine Bird Netting for Trees, Plants, Vegetables, Fruit"
 seo_title: "Ultra Fine Bird Netting for Trees, Plants, Vegetab Review"
 meta_description: "Our full ultra fine bird netting for trees, plants, vegetables, fruit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B3TPNCY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91TfTArBJpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Real Story Behind This 4.4-Star Netting

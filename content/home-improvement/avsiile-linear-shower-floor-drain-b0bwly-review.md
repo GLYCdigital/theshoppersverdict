@@ -1,4 +1,5 @@
 ---
+
 title: "AVSIILE Linear Shower Floor Drain"
 seo_title: "AVSIILE Linear Shower Drain Review: Worth It?"
 meta_description: "AVSIILE linear shower floor drain review: 4.7-star rated, stainless steel build, easy install. Does it drain fast enough? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWLYVB1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NHQSh687L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "304 stainless steel body and grate resist corrosion far better than the cheap plastic-insert drains at big-box stores"
   - "40mm outlet fits standard plumbing, and the height-adjustable legs make leveling to your tile floor straightforward"
   - "Removable hair catcher basket traps debris before it reaches the P-trap, cutting down clog-related maintenance"
-cons:
+cons: 
   - "Grate sits flush but can be slippery with soapy water if you don't choose the textured option"
   - "No integrated waterproofing membrane — you'll need a linear drain pan or proper slope, which adds cost for DIYers"
+
 ---
 
 **If you're tiling a curbless shower or just want a modern look, the AVSIILE linear drain is one of those rare products that balances price, build quality, and installation flexibility.** But before you add it to your cart, understand what you're getting — and what it takes to install it right.

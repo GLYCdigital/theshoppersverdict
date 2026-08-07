@@ -1,4 +1,5 @@
 ---
+
 title: "Seylae 2-in-1 Desk Lamp with Light"
 seo_title: "Seylae 2-in-1 Desk Lamp with Light Review: Verdict | TSV"
 meta_description: "Our full seylae 2-in-1 desk lamp with light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKPHCNBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dcNeoafrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Seylae 2-in-1 Desk Lamp: One Lamp, Two Mounting Options, Zero Regrets

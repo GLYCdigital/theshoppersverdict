@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS TUF Gaming VG27VH1B 27â€ Review"
 seo_title: "ASUS TUF Gaming VG27VH1B 27â€ Review: 165Hz Curved Monitor"
 meta_description: "ASUS TUF VG27VH1B 27â€ review: 165Hz curved VA panel with FreeSync. Real-world performance, pros/cons, and who should buy this budget gaming monitor."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGJZ6N8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PT7y8XWsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "165Hz refresh rate at 1080p delivers genuinely smooth motion for the price"
   - "1500R curvature adds immersion without distorting spreadsheet text"
   - "Extreme Low Motion Blur (ELMB) sync works alongside FreeSync for tear-free gameplay"
-cons:
+cons: 
   - "VA panel shows noticeable black smearing in dark scenes — visible in slow-motion panning"
   - "1080p on 27 inches means ~81 PPI; text looks slightly soft next to a 1440p panel"
   - "Stand only adjusts tilt; you'll need a VESA arm for height or swivel"
+
 ---
 
 If you're shopping for a sub-$200 27-inch gaming monitor, the ASUS TUF Gaming VG27VH1B keeps showing up in search results for good reason. It packs a 165Hz VA panel, 1500R curvature, and FreeSync support into a package that undercuts most competitors. But is it the right monitor for your desk — or are you better off spending $50 more? Let's break it down.

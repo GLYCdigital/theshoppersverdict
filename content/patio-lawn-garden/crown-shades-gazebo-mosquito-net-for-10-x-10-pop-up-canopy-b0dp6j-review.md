@@ -1,4 +1,5 @@
 ---
+
 title: "CROWN SHADES Gazebo Mosquito Net for 10 x 10 Pop Up Canopy -"
 seo_title: "CROWN SHADES 10x10 Mosquito Net Review: Worth It? (2026)"
 meta_description: "Honest CROWN SHADES 10x10 gazebo mosquito net review: fit, durability, and bug protection for pop-up canopies. Real buyer feedback, pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP6JYK41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RQkobruvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 360-degree coverage with three zippered door panels — no more crawling under a gap"
   - "Heavy-duty 200+ mesh density that blocks no-see-ums, not just mosquitoes"
   - "Reinforced velcro and tie-down straps keep the net snug against the frame in wind"
-cons:
+cons: 
   - "No floor included — you'll need a separate ground tarp or mat for full protection"
   - "Zippers are functional but not heavy-duty; rough handling may shorten their lifespan"
   - "Fits only true 10x10 straight-leg canopies — slanted-leg frames will have gaps at the top"
+
 ---
 
 You're sitting under your pop-up canopy at dusk, swatting mosquitoes, wondering why you spent $200 on a frame that doesn't keep bugs out. The CROWN SHADES 10x10 mosquito net aims to fix exactly that problem. After digging through 220 ratings and the product specs, here's the real story.

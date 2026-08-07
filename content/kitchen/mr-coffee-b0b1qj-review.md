@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee"
 seo_title: "Mr. Coffee Review: Verdict | TSV"
 meta_description: "Our full mr. coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B1QJG72F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CbaCtZdfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the Mr. Coffee name carries decades of baggage. It's the machine your grandparents had, the one that sat on motel counters, the one that brews "fine" coffee and nothing more. But this particular model — the B0B1QJG72F — has quietly accumulated a 4.2-star rating across 210 reviews. Is it actually good, or is it just cheap enough that people forgive its flaws?

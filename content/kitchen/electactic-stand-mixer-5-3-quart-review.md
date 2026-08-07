@@ -1,17 +1,18 @@
 ---
+
 title: "Electactic Stand Mixer 5.3 Quart Review"
 seo_title: "Electactic Stand Mixer 5.3 Quart Review: Verdict (4.6/5) | The Shopper's Verdict"
 meta_description: "Electactic Stand Mixer review: 84 Amazon reviews analyzed. 12-speed, 5.3-quart tilt-head design with dough hook, whisk, and flat beater. Real pros, cons, and our verdict on this $90 kitchen mixer."
 slug: "electactic-stand-mixer-5-3-quart-review"
 image_alt: "Electactic Stand Mixer - 5.3 Quart 12-Speed Electric Mixer with Tilt Head, Red Finish with Dough Hook and Flat Beater"
-keywords:
+keywords: 
   - "Electactic stand mixer review"
   - "budget stand mixer"
   - "best stand mixer under $100"
   - "5.3 quart tilt head mixer"
   - "Electactic kitchen mixer review"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Is the Electactic stand mixer powerful enough for bread dough?"
     answer: "Yes. Multiple reviewers confirm it handles various types of dough, including bread. One owner states they 'use it multiple times a week for all kinds of dough and it is holding its own.' It is a solid choice for home bakers who do not need commercial-grade power."
   - question: "How noisy is this mixer?"
@@ -26,19 +27,20 @@ review_count: 84
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FB5BKD73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iHClISvtL._SL1500_.jpg"
-pros:
+pros: 
   - "12-speed settings provide good range for different mixing tasks"
   - "Tilt-head design makes bowl access and attachment changes easy"
   - "5.3-quart capacity is adequate for most home baking projects"
   - "Solid value at under $100 vs. premium brand alternatives"
   - "Includes all essential attachments (whisk, dough hook, flat beater)"
   - "Compact footprint suits smaller kitchens"
-cons:
+cons: 
   - "Notably noisy at higher speeds"
   - "Attachment quality control can be inconsistent"
   - "Limited review count (84) — less long-term reliability data available"
   - "May not have the torque for very heavy or stiff doughs"
   - "Red color option may not suit all kitchen aesthetics"
+
 ---
 
 ## Electactic Stand Mixer 5.3 Quart: Budget Baking without the Premium Price Tag

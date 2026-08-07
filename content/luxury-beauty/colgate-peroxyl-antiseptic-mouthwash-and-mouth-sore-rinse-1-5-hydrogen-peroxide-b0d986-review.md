@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate Peroxyl Antiseptic Mouthwash and Mouth Sore Rinse, 1 inch"
 seo_title: "Colgate Peroxyl Mouthwash Review: Does It Soothe Mouth Sores?"
 meta_description: "Honest Colgate Peroxyl Antiseptic Mouthwash review: 1.5% hydrogen peroxide formula for canker sores, gum irritation & post-dental work. Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D986LGPY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NwPH7QxDL._SL1500_.jpg"
-pros:
+pros: 
   - "1.5% hydrogen peroxide actively cleans and debrides mouth sores, not just masks pain"
   - "Alcohol-free formula means zero burn on open canker sores or post-extraction sites"
   - "Works in 30 seconds — practical for daily use without disrupting routine"
-cons:
+cons: 
   - "Strong medicinal taste that lingers for 10-15 minutes after rinsing"
   - "Not a daily maintenance rinse — best reserved for active flare-ups"
   - "Single 16oz bottle runs out fast if you're using it 4x daily as directed"
+
 ---
 
 You know that sharp, acidic sting when mouthwash hits a fresh canker sore? Colgate Peroxyl doesn't do that. That's the first thing you'll notice — and honestly, it's the reason this 4.7-star rated rinse has 235 shoppers talking. It's not a daily freshening mouthwash. It's a targeted treatment for when your mouth is actively angry at you.

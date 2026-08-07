@@ -1,23 +1,25 @@
 ---
+
 title: "FoxFarm Ocean Forest Potting Soil"
 seo_title: "FoxFarm Ocean Forest Potting Soil Review (2026): Is It Worth It?"
 meta_description: "Honest FoxFarm Ocean Forest Potting Soil review: pros, cons, real customer feedback. Is this premium organic mix worth the price for your plants?"
 slug: "foxfarm-ocean-forest-potting-soil-b07yv9-review"
 image_alt: "FoxFarm Ocean Forest Potting Soil bag with organic ingredients list and plant growth illustration"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07YV9CPJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818gXymQeoL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Ready-to-use out of the bag with 30-60 days of built-in nutrients (bat guano, earthworm castings, crab meal)"  
   - "Light, fluffy texture with excellent aeration and drainage — roots breathe and grow fast"  
   - "Consistent quality bag to bag; no surprises with pH or texture"  
-cons:  
+cons: 
   - "Premium price — noticeably more expensive than standard potting mixes"  
   - "Can be too 'hot' for seedlings or young plants straight out of the bag"
+
 ---
 
 If you're serious about growing — whether it's tomatoes on a patio, cannabis in a tent, or houseplants on a shelf — you've probably heard the name FoxFarm. Ocean Forest is their flagship mix, and it's earned a 4.7-star average across 235 Amazon ratings for a reason. But at a premium price, the real question is: does it deliver enough to justify the cost?

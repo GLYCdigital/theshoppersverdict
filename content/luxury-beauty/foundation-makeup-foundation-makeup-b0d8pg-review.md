@@ -1,4 +1,5 @@
 ---
+
 title: "Foundation Makeup Foundation Makeup"
 seo_title: "Foundation Makeup Foundation Makeup Review: Verdict | TSV"
 meta_description: "Our full foundation makeup foundation makeup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8PGGSNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UwT8kPuuL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the beauty market is drowning in foundations that promise everything and deliver a mask. So when a product simply named "Foundation Makeup" shows up with a 4.3-star average across 215 reviews, I pay attention. The question isn't whether it's good — it's whether it's good *for you*.

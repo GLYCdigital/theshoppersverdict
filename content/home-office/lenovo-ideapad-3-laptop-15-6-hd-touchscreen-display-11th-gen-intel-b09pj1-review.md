@@ -1,7 +1,8 @@
 ---
-title: "Lenovo Ideapad 3 Laptop, 15.6\" HD Touchscreen Display, 11th "
-seo_title: "Lenovo Ideapad 3 Laptop, 15.6\" HD Touchscreen Disp Review"
-meta_description: "Our full lenovo ideapad 3 laptop, 15.6\" hd touchscreen display, 11th  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo Ideapad 3 Laptop, 15.6\ HD Touchscreen Display, 11th "
+seo_title: "Lenovo Ideapad 3 Laptop, 15.6\ HD Touchscreen Disp Review"
+meta_description: "Our full lenovo ideapad 3 laptop, 15.6\ hd touchscreen display, 11th  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-ideapad-3-laptop-15-6-hd-touchscreen-display-11th-gen-intel-b09pj1-review"
 image_alt: "Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen Display, 11th Gen Intel Core i3-1115G4 Processor, Bluebooth, Webcam, Wi-Fi,"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09PJ18D8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eFMUYS+HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.9-Star Reality Check on Lenovo's Budget Touchscreen**

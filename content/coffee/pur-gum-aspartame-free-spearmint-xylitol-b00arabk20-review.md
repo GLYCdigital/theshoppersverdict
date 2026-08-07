@@ -1,4 +1,5 @@
 ---
+
 title: "PUR Gum | Aspartame Free Chewing Gum | 100% Xylitol | Natural Spearmint Flavored"
 seo_title: "PUR Gum Spearmint Review — 4.5★ Aspartame-Free Gum Worth It?"
 meta_description: "PUR Gum Spearmint review: 30,575 ratings analyzed. 100% xylitol sweetened, vegan, non-GMO. Is this the best natural chewing gum for fresh breath?"
@@ -11,22 +12,23 @@ review_count: 30575
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00ARABK20/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oIxHuFHjL._SL1500_.jpg"
-faq:
+faq: 
   - question: "Is PUR Gum really aspartame-free?"
     answer: "Yes. PUR Gum is sweetened exclusively with xylitol, a natural sugar alcohol derived from birch bark and other plant sources. It contains no aspartame, sucralose, or any artificial sweeteners."
   - question: "Does xylitol in gum cause digestive issues?"
     answer: "PUR Gum contains 1g of xylitol per piece, which is well below the threshold that typically causes digestive discomfort. Most users chew 1-2 pieces at a time without issues, though those with sensitive digestion should start slow."
   - question: "Is PUR Gum safe for teeth?"
     answer: "Yes — xylitol is actually beneficial for dental health. It disrupts the ability of cavity-causing bacteria to stick to teeth and reduces plaque formation. Many dentists recommend xylitol-sweetened gum."
-pros:
+pros: 
   - "100% xylitol sweetened — no artificial sweeteners at all"
   - "Vegan, non-GMO, gluten-free, soy-free, and aspartame-free"
   - "Clean spearmint flavor that lasts 20-30 minutes"
   - "Only 5 ingredients — transparent, simple formula"
-cons:
+cons: 
   - "Flavor doesn't last as long as synthetic gum (20-30 min vs 45+ min)"
   - "Xylitol is toxic to dogs — must store safely if you have pets"
   - "Softer texture than Trident or Orbit; some prefer firmer gum"
+
 ---
 
 Let's be honest: most "natural" gums taste like you're chewing on a blade of grass that's been through a lawnmower. PUR Gum isn't that. But it's also not a one-for-one Trident replacement, and you should know exactly what you're getting before you buy.

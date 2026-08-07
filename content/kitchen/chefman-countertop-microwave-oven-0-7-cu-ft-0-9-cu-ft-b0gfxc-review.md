@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman Countertop Microwave Oven 0.7 Cu. Ft, 0.9 Cu. Ft and"
 seo_title: "Chefman Countertop Microwave Review (0.7 & 0.9 cu ft): Worth It?"
 meta_description: "Honest Chefman countertop microwave review: 0.7 & 0.9 cu ft models. Compact power, real-world performance, and known drawbacks. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GFXCPY1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YFokQpTcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "700W of actual cooking power in a chassis that fits under most standard upper cabinets — a rare combo at this size"
   - "Push-button door release and stainless steel finish hide fingerprints far better than cheaper black plastic alternatives"
   - "Six one-touch presets (popcorn, potato, pizza, beverage, frozen dinner, reheat) that actually use sensible time/power combos, not guesswork"
-cons:
+cons: 
   - "The 0.7 cu ft interior is genuinely tight — a standard dinner plate only fits if you remove the turntable, which defeats the purpose"
   - "Power output drops noticeably on lower settings; defrosting large items takes patience and manual attention, not set-and-forget"
+
 ---
 
 Let's cut through the noise: countertop microwaves under 1.0 cubic foot are a crowded field of cheap plastic boxes that all look and perform the same. The Chefman 0.7 and 0.9 cu ft models are trying to be different — and for the most part, they succeed. Here's what 215 Amazon reviewers (averaging 4.3 stars) are actually saying, plus what the specs sheet doesn't tell you.

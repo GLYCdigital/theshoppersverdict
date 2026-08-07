@@ -1,4 +1,5 @@
 ---
+
 title: "Naturally Chic Square Palm Leaf Plates - Bamboo Like, Eco Fr"
 seo_title: "Naturally Chic Square Palm Leaf Plates - Bamboo Li Review"
 meta_description: "Our full naturally chic square palm leaf plates - bamboo like, eco fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV516HLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g+-ZP+OxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Palm leaf plates usually fall into one of two camps: flimsy "eco-friendly" nonsense that folds under a burger, or sturdy enough that you wonder why anyone buys paper. The Naturally Chic Square Palm Leaf Plates sit firmly in the second camp — with a couple of caveats worth knowing before you stock up.

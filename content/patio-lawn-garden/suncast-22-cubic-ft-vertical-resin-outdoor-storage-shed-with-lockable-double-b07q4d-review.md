@@ -1,4 +1,5 @@
 ---
+
 title: "Suncast 22 Cubic Ft. Vertical Resin Outdoor Storage Shed wit"
 seo_title: "Suncast 22 Cubic Ft. Vertical Resin Outdoor Storag Review"
 meta_description: "Our full suncast 22 cubic ft. vertical resin outdoor storage shed wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07Q4DT7KN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612jfnvMwaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a pile of garden tools leaning against the garage wall and a hose that's perpetually tangled, the Suncast 22 Cubic Ft. Vertical Resin Shed is the kind of product that makes you wonder why you waited so long. But it's not perfect. Here's the real story after digging through 220 ratings and buyer experiences.

@@ -1,24 +1,26 @@
 ---
+
 title: "Carnation Breakfast Essentials Powder Drink Mix Rich Milk Ch"
 seo_title: "Carnation Breakfast Essentials Rich Milk Chocolate Review (2026)"
 meta_description: "Honest Carnation Breakfast Essentials Rich Milk Chocolate review: taste, nutrition, mixability, and value. See if it beats a protein shake for busy mornings."
 slug: "carnation-breakfast-essentials-powder-drink-mix-rich-milk-chocolate-17-7-ounce-b00ezw-review"
 image_alt: "Carnation Breakfast Essentials Rich Milk Chocolate powder canister with nutritional facts visible"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00EZWTJYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71USARHT+RL._SL1500_.jpg"
-pros:  
+pros: 
   - "Delivers 13g protein and 21 essential vitamins/minerals per serving — real nutrition, not just flavoring"  
   - "Mixes cleanly in cold milk or water with minimal clumping, even with a spoon"  
   - "Rich chocolate taste that actually satisfies a sweet craving without chalky aftertaste"  
-cons:  
+cons: 
   - "Contains sucralose — artificial sweetener may bother sensitive palates or clean-label shoppers"  
   - "Powder settles if you let it sit; you'll need a quick re-stir mid-drink"  
   - "The 17.7-oz canister provides only 9 servings — frequent users will burn through it fast"
+
 ---
 
 **Is this just chocolate milk in a can, or an actual meal replacement?** After testing Carnation Breakfast Essentials Rich Milk Chocolate for a week of rushed work mornings, it's the latter — with a few honest caveats.

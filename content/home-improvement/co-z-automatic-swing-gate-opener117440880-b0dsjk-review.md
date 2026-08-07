@@ -1,4 +1,5 @@
 ---
+
 title: "CO-Z Automatic Swing Gate Opener117440880 inch"
 seo_title: "CO-Z Automatic Swing Gate Opener Review (2026): Worth It?"
 meta_description: "CO-Z Automatic Swing Gate Opener review: real performance data, installation pain points, and who should buy. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DSJKFZ5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ltaNDDGsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-arm design with 1,100 lb capacity handles heavy wood and iron gates without straining"
   - "Battery backup keeps the gate operable for up to 24 hours during power outages"
   - "Solar panel compatibility makes off-grid installation genuinely practical, not just a marketing bullet point"
-cons:
+cons: 
   - "Installation manual is sparse on torque arm adjustment specifics — expect a frustrating hour with a tape measure"
   - "Remote range drops significantly (to ~30 ft) when the control box is mounted inside a metal gate post"
   - "No built-in Wi-Fi or smart home integration at this price point — you're stuck with the included remotes or a wired keypad"
+
 ---
 
 If you're tired of hopping out of your truck in the rain to wrestle with a stubborn gate latch, the CO-Z Automatic Swing Gate Opener is the kind of upgrade that makes you wonder why you waited so long. With 200 Amazon ratings averaging a solid 4.0 stars, this is a proven budget contender in the driveway automation space. But as with anything that involves bolting motors to your property, the devil is in the installation details.

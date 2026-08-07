@@ -1,4 +1,5 @@
 ---
+
 title: "Rukars Floating Ball Pool Light Solar Powered 4 PCS, 14 Inch"
 seo_title: "Rukars Floating Ball Pool Light Solar Powered 4 PC Review"
 meta_description: "Our full rukars floating ball pool light solar powered 4 pcs, 14 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9ZH79L1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715D+zCk2wL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 14-Inch Solar Pool Light That Actually Looks Expensive

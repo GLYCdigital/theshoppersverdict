@@ -1,4 +1,5 @@
 ---
+
 title: "Kingsyard Metal Mesh Tube Bird Feeders for Outdoor Hanging, "
 seo_title: "Kingsyard Metal Mesh Tube Bird Feeders for Outdoor Review"
 meta_description: "Our full kingsyard metal mesh tube bird feeders for outdoor hanging,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BFF3J2FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bsLkawSEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The bird feeder aisle is full of flimsy plastic tubes that crack in the first frost or shatter when a squirrel decides they're a snack. The Kingsyard Metal Mesh Tube Feeder takes a different approach — a welded steel mesh body with a powder-coated finish that actually holds up. After 229 ratings averaging 4.6 stars, it's earned a spot as one of the better-value tube feeders on Amazon. But it's not perfect, and the mesh design has a specific audience.

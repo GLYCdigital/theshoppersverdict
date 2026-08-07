@@ -1,4 +1,5 @@
 ---
+
 title: "CAREMEE Scalloped Rug"
 seo_title: "CAREMEE Scalloped Rug Review: Honest 4.2-Star Look"
 meta_description: "CAREMEE Scalloped Rug review: soft texture, boho style, but shedding concerns. Read real buyer feedback before you buy this 210-rated rug."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHRSB4R8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wfPoqzr5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Scalloped edges are precise and lie flat, no curling or folding at the borders"
   - "Noticeably soft, plush pile that feels thicker than the price point suggests"
   - "Non-slip backing holds firm on hardwood and tile without a separate pad"
-cons:
+cons: 
   - "Initial shedding for the first 2-3 weeks requires frequent vacuuming"
   - "Light cream/ivory color options show dirt and stains quickly in high-traffic zones"
   - "Thin enough that furniture indentations linger if heavy pieces sit on it long-term"
+
 ---
 
 **The 4.2-star CAREMEE Scalloped Rug has 210 Amazon ratings behind it — but is it actually worth your money? Here's what you need to know before checkout.**

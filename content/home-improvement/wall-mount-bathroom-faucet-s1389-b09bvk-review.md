@@ -1,4 +1,5 @@
 ---
+
 title: "Wall Mount Bathroom Faucet S1389"
 seo_title: "Wall Mount Bathroom Faucet S1389 Review: Verdict | TSV"
 meta_description: "Our full wall mount bathroom faucet s1389 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BVKFX5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nl1bciy2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos and talk about what actually matters when you're bolting a faucet to your wall: does it leak, does it fit, and will it still look good in three years?

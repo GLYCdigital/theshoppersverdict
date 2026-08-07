@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Pen- Hammer, 8oz, Small, Camping Claw Hammer, Stubby"
 seo_title: "Mr. Pen- Hammer, 8oz, Small, Camping Claw Hammer,  Review"
 meta_description: "Our full mr. pen- hammer, 8oz, small, camping claw hammer, stubby review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G24LD6Q1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ymq-Uo85L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is an 8-ounce stubby hammer actually useful, or just a gimmick?** For most homeowners, a 16-ounce framing hammer is the default. But when you’re camping, hanging pictures in a tight corner, or assembling furniture in a cramped space, a full-size hammer is overkill. The Mr. Pen 8oz stubby claw hammer fills that niche—and does it well enough to earn a 4.8-star average from 240 Amazon shoppers. Here’s the real story.

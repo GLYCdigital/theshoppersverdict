@@ -1,4 +1,5 @@
 ---
+
 title: "Anley 20 Pack 48 inch  Reflective Driveway Markers, Snow Stakes w"
 seo_title: "Anley 48 inch  Reflective Driveway Markers Review (20-Pack)"
 meta_description: "Anley 20-pack 48 inch  reflective driveway markers review: fiberglass construction, visibility tests, winter durability, and who should buy them."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNP6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KySQ+faaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fiberglass core flexes under snowplow impact instead of snapping — the #1 reason buyers replace plastic stakes every season"
   - "Dual-sided reflective tape stays bright through sub-zero winters, with multiple buyers reporting 2+ seasons of visibility"
   - "48-inch height clears typical snow accumulation (up to 24-30 inches) while remaining visible above the plow line"
-cons:
+cons: 
   - "No pre-drilled base plate or installation tool included — you'll need a mallet and a pilot hole in frozen ground"
   - "Reflective tape is adhesive-backed, not embedded; it can peel if you install in temps above 50°F without cleaning the pole first"
+
 ---
 
 **If you've ever spent a January morning guessing where your driveway ends after a 14-inch dump, these Anley markers are the $30 insurance policy that pays for itself the first time the plow truck comes through.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse Short Pressure Washer Gun - 3600 Max PSI, M22 C"
 seo_title: "Westinghouse Short Pressure Washer Gun - 3600 Max  Review"
 meta_description: "Our full westinghouse short pressure washer gun - 3600 max psi, m22 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BX4NLXMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mUQRWGIoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pressure washer guns that ship in the box are garbage. Thin plastic, sticky triggers, and fittings that strip after a season. The Westinghouse Short Pressure Washer Gun is not that. At 3600 max PSI with a standard M22-14mm inlet, this is a direct replacement that actually improves on what came with your machine.

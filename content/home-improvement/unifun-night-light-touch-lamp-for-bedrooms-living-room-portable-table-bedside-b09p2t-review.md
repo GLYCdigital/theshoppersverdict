@@ -1,4 +1,5 @@
 ---
+
 title: "UNIFUN Night Light, Touch Lamp for Bedrooms Living Room Port"
 seo_title: "UNIFUN Night Light, Touch Lamp for Bedrooms Living Review"
 meta_description: "Our full unifun night light, touch lamp for bedrooms living room port review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09P2T3X5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51v0WM2-vgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most cheap night lights are either blindingly bright or uselessly dim. The UNIFUN Touch Lamp sits somewhere in the middle, and for most people, that's exactly the sweet spot. After digging through 220 ratings and the specs, here's what actually matters before you buy.

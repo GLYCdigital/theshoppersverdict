@@ -1,4 +1,5 @@
 ---
+
 title: "Cosy Companions Hair Dryer - High-Speed 150,000 RPM Hairdrye"
 seo_title: "Cosy Companions Hair Dryer Review: 150K RPM Fast Dry"
 meta_description: "Cosy Companions 150,000 RPM hair dryer review: Speed, heat control, noise, and value. Is this high-speed dryer worth it for fine or thick hair? Find out."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0C643LJRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GhtB1iTLL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely fast dry times — 150K RPM motor cuts drying time roughly in half for most hair types"
   - "Lightweight at under a pound; balanced grip reduces wrist fatigue during longer styling sessions"
   - "Multiple heat/speed settings with a cool shot button that actually delivers cold air for setting styles"
-cons:
+cons: 
   - "Noise level is higher than premium rivals — measured by users as noticeably louder than Dyson or Shark"
   - "Heat distribution can be uneven on the highest setting; fine hair needs the lower heat to avoid hot spots"
   - "Build quality feels slightly plasticky for the price point; the magnetic attachments can loosen over time"
+
 ---
 
 **The 150K RPM Question: Does This Budget High-Speed Dryer Actually Deliver?**

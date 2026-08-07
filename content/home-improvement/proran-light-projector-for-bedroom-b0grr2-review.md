@@ -1,4 +1,5 @@
 ---
+
 title: "Proran Light Projector for Bedroom"
 seo_title: "Proran Light Projector for Bedroom Review: Verdict | TSV"
 meta_description: "Our full proran light projector for bedroom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRR2XT3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717JnZuYs7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fallen down the rabbit hole of bedroom projectors, you know the market is flooded with $20 gadgets that project blurry, dim stars for exactly one night before dying. The Proran Light Projector sits in a different lane — it's been on Amazon long enough to rack up 225 ratings and hold a 4.5-star average, which in this category is practically a durability badge. But is it actually worth your money, or just another novelty that ends up in a drawer by December?

@@ -1,4 +1,5 @@
 ---
+
 title: "BedsPick Mattress, 12 Inch Hybrid Mattress in a Box, Memory"
 seo_title: "BedsPick 12 Inch Hybrid Mattress Review: Worth It? (2026)"
 meta_description: "BedsPick 12-inch hybrid mattress review: 4.5-star rated. We analyze comfort, support, edge stability, and who should buy this bed-in-a-box."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYF45RVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-jSogIwCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Zoned pocket coil system with 7-inch high-density base foam provides targeted lumbar support without sagging"
   - "Gel-infused memory foam top layer sleeps noticeably cooler than standard memory foam"
   - "Reinforced edge support allows you to sit on the edge without sliding off"
-cons:
+cons: 
   - "12-inch height may be too tall for low-profile bed frames or platform beds with tall footboards"
   - "Initial off-gassing smell lingers 24-48 hours despite being CertiPUR-US certified"
   - "Not ideal for stomach sleepers over 200 lbs — foam layers soften under concentrated weight"
+
 ---
 
 # BedsPick Mattress Review: The 4.5-Star Hybrid That Actually Delivers

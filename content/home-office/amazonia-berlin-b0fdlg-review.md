@@ -1,4 +1,5 @@
 ---
+
 title: "Amazonia Berlin Review: Is This Workspace Gear Worth It?"
 seo_title: "Amazonia Berlin Review: Honest Look at This Workspace Gear"
 meta_description: "Amazonia Berlin review: Real buyer insights on this 4.0-star office product. We break down build quality, performance, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FDLGRXCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YGJaRar8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build with premium materials that hold up to daily heavy use"
   - "Compact footprint fits neatly on cluttered desks without sacrificing function"
   - "Intuitive setup — most buyers report under 10 minutes from box to fully operational"
-cons:
+cons: 
   - "Limited color options — only two finishes available at this price point"
   - "Cable management could be better; some buyers report a minor tangle issue out of the box"
+
 ---
 
 Let's cut through the noise. The Amazonia Berlin has 200 ratings sitting at a 4.0 average, which tells me one thing immediately: it's a solid product with a few honest flaws that enough buyers noticed to keep it from being great. After digging through the feedback and examining the specs, here's what you actually need to know before spending your money.

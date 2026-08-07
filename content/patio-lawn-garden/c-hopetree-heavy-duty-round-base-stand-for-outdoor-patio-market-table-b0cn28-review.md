@@ -1,4 +1,5 @@
 ---
+
 title: "C-Hopetree Heavy Duty Round Base Stand for Outdoor Patio Mar"
 seo_title: "C-Hopetree Heavy Duty Round Base Stand Review (2026)"
 meta_description: "Honest C-Hopetree heavy duty round base stand review: build quality, stability, real buyer feedback, and who should buy this patio umbrella stand."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CN28BY7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81--aoOpHXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide 23-inch footprint distributes weight evenly, so a 50-lb sandbag or paver keeps a 9-ft umbrella planted even in gusty conditions"
   - "Fits both 1.5-inch and 1.9-inch pole diameters with the included reducer bushing — no shimming or duct tape required"
   - "All-steel construction with a powder-coated finish that resists rust far better than the bare-metal bases at this price point"
-cons:
+cons: 
   - "The tightening knob is plastic; a few buyers report it stripping if you over-crank it, so hand-tighten only"
   - "No wheels or carry handle, and at 18 lbs empty it's a two-hand job to move around once you add weight"
+
 ---
 
 If you've ever watched a $40 umbrella base tip over in a light breeze and send a fiberglass rib through your neighbor's fence, you know the cheap ones aren't worth the box they ship in. The C-Hopetree Heavy Duty Round Base Stand sits a notch above those flimsy plastic-and-resin options — but it's not the end-all, be-all of umbrella anchors either. Here's what 210 Amazon buyers and my own teardown of the specs say.

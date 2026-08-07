@@ -1,4 +1,5 @@
 ---
+
 title: "Midnight Scoop Stainless Steel Ice Cream Scoop - Ergonomic S"
 seo_title: "Midnight Scoop Stainless Steel Ice Cream Scoop - E Review"
 meta_description: "Our full midnight scoop stainless steel ice cream scoop - ergonomic s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01J15BT4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41jpQlkAtpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Midnight Scoop Stainless Steel Ice Cream Scoop Review: Is the Hype Real?

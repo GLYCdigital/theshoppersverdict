@@ -1,4 +1,5 @@
 ---
+
 title: "SUNLEI Metal Loft Bed with 2 Secured Ladders, Bunk Bed Twin "
 seo_title: "SUNLEI Metal Loft Bed with 2 Secured Ladders, Bunk Review"
 meta_description: "Our full sunlei metal loft bed with 2 secured ladders, bunk bed twin  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G48TJXXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91R8wzfu4QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A twin loft bed with two ladders sounds like a gimmick until you've lived with a bunk bed where both kids fight over the same side.** The SUNLEI Metal Loft Bed solves that specific problem with a design that's more thoughtful than the $200-bunk-bed crowd typically delivers. Here's the honest breakdown after digging through 204 Amazon ratings and the spec sheet.

@@ -1,4 +1,5 @@
 ---
+
 title: "New Classic Furniture Oscar Corner Table 3-Piece Dining Set"
 seo_title: "New Classic Furniture Oscar Corner Table 3-Piece D Review"
 meta_description: "Our full new classic furniture oscar corner table 3-piece dining set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJCQ9K66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jBaKObeDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve got a corner in your kitchen that’s too small for a standard table but too useful to leave empty. The New Classic Furniture Oscar Corner Table 3-Piece Dining Set is engineered specifically for that awkward space. At 4.3 stars across 215 ratings, it’s clearly working for a lot of people — but let’s dig into whether it’ll work for *you* before you commit.

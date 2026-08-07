@@ -1,4 +1,5 @@
 ---
+
 title: "Walfos Silicone Donut Mould â€“ Non-stick Silicone Donut Pla"
 seo_title: "Walfos Silicone Donut Mould â€“ Non-stick Silicone Review"
 meta_description: "Our full walfos silicone donut mould â€“ non-stick silicone donut pla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXZZ1H49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oxtTySL4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Walfos Silicone Donut Mould Review: The 4.5-Star Baking Tool That Actually Delivers

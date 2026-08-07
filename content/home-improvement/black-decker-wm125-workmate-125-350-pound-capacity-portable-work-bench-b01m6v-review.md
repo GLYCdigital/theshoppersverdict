@@ -1,4 +1,5 @@
 ---
+
 title: "Black & Decker WM125 Workmate 125 350-Pound Capacity Portabl"
 seo_title: "Black & Decker WM125 Workmate Review: Portable Bench (2026)"
 meta_description: "Black & Decker WM125 Workmate review: 350-lb capacity, foldable design, built-in clamps. Is this portable workbench worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01M6VB0X3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5191qt03X6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in quick-release clamps hold workpieces firmly at bench height—no separate vise needed"
   - "Folds flat to roughly briefcase size (under 20 lbs) for trunk storage or job-site hauling"
   - "350-pound capacity handles everything from miter saws to heavy lumber without wobble"
-cons:
+cons: 
   - "Assembling the legs requires fiddly bolts that strip easily if you overtighten—use a hand wrench, not a drill"
   - "Top surface is hardboard, not solid wood; drill through it and you'll leave permanent holes"
   - "No height adjustment—it's fixed at 30.5 inches, which is too low for taller users (6'+) to work comfortably"
+
 ---
 
 If you've ever balanced a 2x4 on two sawhorses and prayed it didn't slide, you already understand why the Black & Decker WM125 Workmate has been a garage staple for decades. This isn't a fancy tool—it's a 350-pound-capacity portable workbench with a party trick: built-in clamping jaws that turn any project into a two-handed job. At 4.4 stars from 220+ buyers, it's clearly earning its keep. But it's not without quirks. Here's the real breakdown.

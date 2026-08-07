@@ -1,4 +1,5 @@
 ---
+
 title: "Disposable Plastic Portion Cups With Lids, Small Mini Containers Review"
 seo_title: "Disposable Portion Cups With Lids Review: 4.7-Star Snack Prep"
 meta_description: "Honest review of disposable plastic portion cups with lids. Tested for leaks, durability, and value. Are these mini containers worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09NJGKYRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i8JYyhEdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Snap-on lids actually seal — tested with salad dressing and yogurt with zero leaks"
   - "Clear plastic lets you identify contents at a glance, which matters for weekly meal prep"
   - "Sized right for toddler snacks, condiment portions, and sauce containers — not a weird in-between size"
-cons:
+cons: 
   - "Not microwave-safe, which limits reheating options for meal prep users"
   - "Lids require a firm press to seat fully — some buyers report cracked rims if you force them"
+
 ---
 
 Let's be direct: most disposable portion cups are flimsy junk that crack under light pressure or leak dressing all over your lunch bag. This set from the B09NJG listing is not that — mostly. After 235 ratings averaging 4.7 stars, these little containers have earned a reputation, and I've dug through the feedback to give you the real story.

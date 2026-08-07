@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Grocery, Organic Pumpkin, 15 inch"
 seo_title: "Amazon Grocery Organic Pumpkin Review: Real Taste Test (2026)"
 meta_description: "Honest Amazon Grocery Organic Pumpkin review: texture, flavor, and value. See what 229 buyers say before you buy this 15-oz can."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GX6S1FR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CUZ9yqSpL._SL1500_.jpg"
-pros:
+pros: 
   - "100% organic pure pumpkin — single ingredient, no fillers or sweeteners"
   - "Consistently thick, smooth texture that holds structure in pies and breads"
   - "Reliable stock availability through Amazon Grocery with Prime shipping"
-cons:
+cons: 
   - "No resealable lid — you'll need a container for leftovers"
   - "Smaller 15-oz size means you may need two cans for large batch recipes"
+
 ---
 
 Let's be real about canned pumpkin: most shoppers grab whatever's cheapest without thinking twice. But the 15-ounce can of Amazon Grocery Organic Pumpkin has quietly racked up a 4.6-star rating across 229 reviews — and there's a reason regular buyers keep coming back.

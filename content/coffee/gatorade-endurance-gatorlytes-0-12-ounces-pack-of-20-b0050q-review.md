@@ -1,4 +1,5 @@
 ---
+
 title: "Gatorade Endurance Gatorlytes, 0.12 Ounces (Pack of 20)"
 seo_title: "Gatorade Endurance Gatorlytes Review: 20-Pack Electrolyte Powder"
 meta_description: "Gatorade Endurance Gatorlytes 20-pack review: 3x sodium, no sugar, mixes clear. See how it performs for long workouts and who should skip it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0050Q4DJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xsWbS0nTL._SL1500_.jpg"
-pros:
+pros: 
   - "1100mg sodium per packet — nearly 3x standard Gatorade Thirst Quencher, built for heavy sweaters"
   - "Zero sugar and no artificial dyes; mixes clear without the syrupy mouthfeel of regular sports drinks"
   - "Single-serve stick packs survive gym bags, hiking packs, and race belts without leaking or clumping"
-cons:
+cons: 
   - "No carbohydrate or calories — you'll still need actual fuel for efforts longer than 60-90 minutes"
   - "Potassium content (250mg) is modest compared to dedicated electrolyte tabs like Nuun or Skratch"
   - "Flavor is noticeably saltier than regular Gatorade; some reviewers describe it as 'briny' at first sip"
+
 ---
 
 Let me cut through the noise: this is not the Gatorade you grew up drinking on the sidelines. The **Gatorade Endurance Gatorlytes** formula is a completely different animal — and for a specific type of athlete, it's arguably better.

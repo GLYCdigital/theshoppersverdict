@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate 360 Whole Mouth Clean"
 seo_title: "Colgate 360 Whole Mouth Clean Review: Deep Clean, Soft Bristles"
 meta_description: "Colgate 360 Whole Mouth Clean review: Does this toothbrush's cheek cleaner & soft bristles deliver? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GL6YR9LG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81D7jn+kYDL._SL1500_.jpg"
-pros:
+pros: 
   - "Integrated cheek and tongue cleaner removes bacteria beyond standard bristle brushing"
   - "Soft, polished bristle tips are gentle on sensitive gums while still removing plaque effectively"
   - "Textured thumb grip and angled head make maneuvering to back molars noticeably easier"
-cons:
+cons: 
   - "Cheek cleaner can feel overly aggressive if you brush too hard — requires a light touch"
   - "Bristles wear out faster than budget brushes, needing replacement closer to the 3-month mark"
+
 ---
 
 Let's be honest: most toothbrushes are interchangeable plastic sticks with bristles. The Colgate 360 Whole Mouth Clean is not that. This brush has a legitimate design thesis — that brushing your teeth isn't enough if you're ignoring your cheeks, tongue, and gums. After digging through 235 ratings and the design specs, here's what actually matters.

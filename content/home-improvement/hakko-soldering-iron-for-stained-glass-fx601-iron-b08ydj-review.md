@@ -1,4 +1,5 @@
 ---
+
 title: "Hakko Soldering Iron for Stained Glass - FX601 Iron"
 seo_title: "Hakko Soldering Iron for Stained Glass - FX601 Iro Review"
 meta_description: "Our full hakko soldering iron for stained glass - fx601 iron review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08YDJBQ9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rdWcSRJWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a cheap soldering iron that can't hold heat while you're working a long copper foil seam, you already know why the Hakko FX601 commands attention. This isn't a hobbyist's first iron — it's the upgrade you buy when you're tired of cold joints and rework.

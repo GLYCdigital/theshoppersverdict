@@ -1,4 +1,5 @@
 ---
+
 title: "Quikrete Sandbox Play Sand â€“ Outdoor Kids Filtered Playsan"
 seo_title: "Quikrete Sandbox Play Sand â€“ Outdoor Kids Filter Review"
 meta_description: "Our full quikrete sandbox play sand â€“ outdoor kids filtered playsan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0896YDW45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bKkmB-isL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is Quikrete's filtered playsand actually worth buying for a backyard sandbox?

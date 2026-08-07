@@ -1,4 +1,5 @@
 ---
+
 title: "Bonnlo Kayak Stand Freestanding Storage Rack for Kayak Canoe"
 seo_title: "Bonnlo Kayak Stand Review: Freestanding Rack for Kayaks & Canoes"
 meta_description: "Read our honest Bonnlo kayak stand review. Heavy-duty freestanding rack for kayaks, canoes & paddle boards. See pros, cons & real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CMH22QT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511LUN9gsWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with padded cradles holds kayaks securely without scratching hulls"
   - "Freestanding design needs no wall mounting — works in garages, sheds, or outdoors"
   - "Folds flat for off-season storage when not in use"
-cons:
+cons: 
   - "Assembly requires a socket wrench; included Allen key is too small for tight bolts"
   - "Not ideal for kayaks over 14 feet or 100+ lbs without additional support"
+
 ---
 
 **The Bottom Line Up Front:** If you're tired of tripping over a kayak in the garage or leaving it outside to bake in the sun, the Bonnlo freestanding kayak stand solves a real problem. This is a simple, sturdy vertical rack that gets your boat off the floor and out of the way — and at a 4.8-star average across 240 ratings, it's clearly working for most buyers.

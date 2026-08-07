@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid All Purpose Kitchen Shears with Protective Sheath"
 seo_title: "KitchenAid All Purpose Kitchen Shears Review (2026): Worth It?"
 meta_description: "KitchenAid All Purpose Kitchen Shears review: 4.8/5 stars from 70K+ shoppers. Tested for cutting, cracking, and cleaning. Is this $7.59 tool worth it?"
@@ -11,13 +12,14 @@ review_count: 70845
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Serrated micro-blades grip poultry skin and slippery herbs without slipping"
   - "Full tang stainless steel construction with a $7.59 price that undercuts premium brands by 60%"
   - "Integrated bottle opener and nutcracker notch add genuine utility, not gimmick"
-cons:
+cons: 
   - "Handles lack a locking mechanism — the included sheath is mandatory for safe drawer storage"
   - "Not dishwasher safe despite what some third-party listings claim; hand wash only to prevent rust at the pivot"
+
 ---
 
 Let's be direct: you don't need to spend $35 on Japanese forged kitchen shears to break down a chicken. The **KitchenAid All Purpose Kitchen Shears** — available for $7.59 with over 70,000 ratings and a 4.8-star average — prove that a $7 tool can outperform expectations if the design is right. But is it right for *your* kitchen? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "JOKAONOTL Dusk to Dawn Porch Lights with GFCI Outlets Waterp"
 seo_title: "JOKAONOTL Dusk to Dawn Porch Lights with GFCI Outl Review"
 meta_description: "Our full jokaonotl dusk to dawn porch lights with gfci outlets waterp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GD7GLDSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710dKelr-5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most porch lights are dumb. They burn all day, or they're motion-sensor units that leave you fumbling for keys in the dark. The JOKAONOTL Dusk to Dawn Porch Light with GFCI outlets solves two problems at once — and it does it with a build quality that surprises at this price point.

@@ -1,24 +1,26 @@
 ---
+
 title: "DIKAIDA Bathroom Light Fixtures, Modern 2/3/4/6/8 Light Vani"
 seo_title: "DIKAIDA Bathroom Light Fixtures Review: Modern Vanity Lighting"
 meta_description: "Honest DIKAIDA bathroom light fixtures review: modern design, 2–8 light options, easy install. See pros, cons, and who should buy at $39.99."
 slug: "dikaida-bathroom-light-fixtures-modern-2-3-4-6-8-light-vanity-b0dp2n-review"
 image_alt: "DIKAIDA modern vanity light fixture with black metal frame and clear glass shades"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 39.99  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: 39.99
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP2N69N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tcaej+iTL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Sleek, minimal design that fits both farmhouse and industrial bathrooms"  
   - "Multiple size configurations (2/3/4/6/8) let you match fixture length to vanity width"  
   - "Tool-free assembly for the glass shades — a 10-minute install for most buyers"  
-cons:  
+cons: 
   - "Bulbs not included — adds $10–$20 to the total cost"  
   - "Hardware is surface-mounted only; no recessed or flush option for tight ceilings"  
   - "Some buyers report the black finish scratches if you’re not careful during install"
+
 ---
 
 # DIKAIDA Bathroom Light Fixtures Review: Does a $40 Vanity Light Deliver?

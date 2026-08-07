@@ -1,7 +1,8 @@
 ---
-title: "SHARP Countertop Microwave Oven with Removable 10.6\" Carouse"
+
+title: "SHARP Countertop Microwave Oven with Removable 10.6\ Carouse"
 seo_title: "SHARP Countertop Microwave Oven with Removable 10. Review"
-meta_description: "Our full sharp countertop microwave oven with removable 10.6\" carouse review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full sharp countertop microwave oven with removable 10.6\ carouse review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sharp-countertop-microwave-oven-with-removable-10-6-carousel-turntable-0-9-b0d934-review"
 image_alt: "SHARP Countertop Microwave Oven with Removable 10.6 Carousel Turntable, 0.9 Cubic Feet, 900 Watt, Stainless Steel"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D934HSGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ftonTg+EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most countertop microwaves under $100 are essentially the same machine with different badges. The SHARP 0.9 cu ft unit with the removable carousel is *not* that. It's a genuine improvement on a category that's been stagnant for a decade — and it has a few quirks worth knowing about before you buy.

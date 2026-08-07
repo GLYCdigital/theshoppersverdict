@@ -1,4 +1,5 @@
 ---
+
 title: "Kante 0049-P"
 seo_title: "Kante 0049-P Review: Verdict | TSV"
 meta_description: "Our full kante 0049-p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQSGKSWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hP+U0p70L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the patio and garden category is flooded with lookalike products that crumble after one season. The Kante 0049-P isn't one of them — but it's also not the indestructible beast the listing photos suggest. Here's what 215 buyers and my own research actually found.

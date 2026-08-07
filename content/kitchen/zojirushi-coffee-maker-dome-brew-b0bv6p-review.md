@@ -1,4 +1,5 @@
 ---
+
 title: "Zojirushi Coffee Maker Dome Brew"
 seo_title: "Zojirushi Coffee Maker Dome Brew Review: Verdict | TSV"
 meta_description: "Our full zojirushi coffee maker dome brew review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BV6PBLJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+UhBPz0JL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Zojirushi Coffee Maker Dome Brew: Precision Brewing Meets Practical Compromises

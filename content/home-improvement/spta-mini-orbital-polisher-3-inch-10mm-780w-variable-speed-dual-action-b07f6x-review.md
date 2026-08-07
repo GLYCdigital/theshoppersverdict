@@ -1,4 +1,5 @@
 ---
+
 title: "SPTA Mini Orbital Polisher - 3 Inch 10mm/780W Variable Speed"
 seo_title: "SPTA Mini Orbital Polisher - 3 Inch 10mm/780W Vari Review"
 meta_description: "Our full spta mini orbital polisher - 3 inch 10mm/780w variable speed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07F6X56GG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wNuKmQLnL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Compact Polisher That Punches Above Its Weight

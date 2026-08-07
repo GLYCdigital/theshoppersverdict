@@ -1,4 +1,5 @@
 ---
+
 title: "Leaf Blower Cordless,650 CFM & 160 MPH Electric Cordless Lea"
 seo_title: "Leaf Blower Cordless,650 CFM & 160 MPH Electric Co Review"
 meta_description: "Our full leaf blower cordless,650 cfm & 160 mph electric cordless lea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FX3QBGQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FwTLZpujL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Leaf Blower Cordless, 650 CFM & 160 MPH: The Real Deal or Just Numbers on a Box?

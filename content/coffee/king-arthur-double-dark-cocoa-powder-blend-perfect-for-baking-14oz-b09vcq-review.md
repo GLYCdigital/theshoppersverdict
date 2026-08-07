@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur Double Dark Cocoa Powder Blend, Perfect for Baki"
 seo_title: "King Arthur Double Dark Cocoa Powder Blend, Perfec Review"
 meta_description: "Our full king arthur double dark cocoa powder blend, perfect for baki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09VCQMJLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kbv+jOQSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hook: Is This the Cocoa Powder That Makes Everything Taste Like a Bakery?**

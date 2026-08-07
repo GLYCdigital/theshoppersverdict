@@ -1,4 +1,5 @@
 ---
+
 title: "R+Co GEMSTONE Color Conditioner â€“ Color-Enhancing & Protec"
 seo_title: "R+Co GEMSTONE Color Conditioner â€“ Color-Enhancin Review"
 meta_description: "Our full r+co gemstone color conditioner â€“ color-enhancing & protec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GM3662KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41tJaDjOD0L._SY445_PIbundle-24,TopRight,0,0_SX239SY445SH20_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # R+Co GEMSTONE Color Conditioner Review: The Color-Boosting Conditioner That Actually Delivers

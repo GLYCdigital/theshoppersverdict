@@ -1,4 +1,5 @@
 ---
+
 title: "earthbath, Hypoallergenic Dog Shampoo"
 seo_title: "earthbath Hypoallergenic Dog Shampoo Review (2026)"
 meta_description: "Is earthbath Hypoallergenic Dog Shampoo worth it? We analyze ingredients, lather, and scent for sensitive-skin pups. Read our honest 4.6/5 review."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDBF464D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DRei91B3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Oatmeal and aloe formula provides genuine relief for itchy, flaky skin without prescription-strength harshness"
   - "pH balanced specifically for dogs and cats — safe for puppies over 6 weeks old"
   - "Free of parabens, sulfates, and artificial dyes; fragrance-free option avoids triggering allergies"
-cons:
+cons: 
   - "Thinner consistency than mainstream shampoos — you'll use more product per bath than expected"
   - "No tear-free claim, so you still need to be careful around the eye area during rinsing"
+
 ---
 
 ## Does Your Itchy Dog Actually Need This?

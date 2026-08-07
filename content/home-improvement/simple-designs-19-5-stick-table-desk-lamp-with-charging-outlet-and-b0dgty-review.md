@@ -1,7 +1,8 @@
 ---
-title: "Simple Designs 19.5\" Stick Table Desk Lamp with Charging Out"
-seo_title: "Simple Designs 19.5\" Stick Table Desk Lamp with Ch Review"
-meta_description: "Our full simple designs 19.5\" stick table desk lamp with charging out review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Simple Designs 19.5\ Stick Table Desk Lamp with Charging Out"
+seo_title: "Simple Designs 19.5\ Stick Table Desk Lamp with Ch Review"
+meta_description: "Our full simple designs 19.5\ stick table desk lamp with charging out review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "simple-designs-19-5-stick-table-desk-lamp-with-charging-outlet-and-b0dgty-review"
 image_alt: "Simple Designs 19.5 Stick Table Desk Lamp with Charging Outlet and Drum Fabric Shade for Living Room, Hallway, Nightstan"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGTYFCNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WBBAZfDjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The lamp that quietly solves a desk-space problem

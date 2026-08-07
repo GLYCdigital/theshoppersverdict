@@ -1,7 +1,8 @@
 ---
-title: "Rawlings | Batting Practice Softballs | 11\" & 12\" Options | "
-seo_title: "Rawlings | Batting Practice Softballs | 11\" & 12\"  Review"
-meta_description: "Our full rawlings | batting practice softballs | 11\" & 12\" options |  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Rawlings | Batting Practice Softballs | 11\ & 12\ Options | "
+seo_title: "Rawlings | Batting Practice Softballs | 11\ & 12\  Review"
+meta_description: "Our full rawlings | batting practice softballs | 11\ & 12\ options |  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "rawlings-batting-practice-softballs-11-12-options-6-12-count-options-b0ccwb-review"
 image_alt: "Rawlings | Batting Practice Softballs | 11 & 12 Options | 6 & 12 Count Options"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCWB3TLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Dvi2FsyPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need another bucket of misshapen, rock-hard practice balls that die after one batting cage session. Rawlings made these BP softballs for one reason: to give you repetitions that actually translate to game day. And at $79.99 for a 12-pack (or the 6-pack at half that), they're priced like equipment, not disposable accessories.

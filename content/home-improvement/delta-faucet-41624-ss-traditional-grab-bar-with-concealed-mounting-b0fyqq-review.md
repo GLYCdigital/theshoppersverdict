@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet 41624-SS Traditional Grab Bar with Concealed Mo"
 seo_title: "Delta Faucet 41624-SS Grab Bar Review: Is It Worth It?"
 meta_description: "Delta Faucet 41624-SS traditional grab bar with concealed mounting: durable stainless steel, 240+ ratings at 4.8 stars. Read our honest review before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FYQQ564V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-vOlAh2XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24-inch length provides solid grip without dominating the wall; concealed mounting creates a clean, seamless look"
   - "Brushed stainless finish resists water spots and fingerprints far better than chrome; matches Delta's widespread bathroom fixtures"
   - "Weight-rated for serious support with proper installation—feels rock-solid, not decorative"
-cons:
+cons: 
   - "Concealed mounting requires precise hole alignment and access behind the wall; not a DIY-friendly retrofit for tile"
   - "Slightly higher price than exposed-mount grab bars of similar length—you're paying for the flush aesthetic"
+
 ---
 
 **The Grab Bar That Doesn't Look Like a Hospital Aisle**

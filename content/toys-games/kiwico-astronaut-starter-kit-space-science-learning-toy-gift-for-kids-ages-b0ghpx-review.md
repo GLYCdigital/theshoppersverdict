@@ -1,4 +1,5 @@
 ---
+
 title: "KiwiCo - Astronaut Starter Kit, Space & Science Learning Toy"
 seo_title: "KiwiCo - Astronaut Starter Kit, Space & Science Le Review"
 meta_description: "Our full kiwico - astronaut starter kit, space & science learning toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHPXQMCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pL5XIwPyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # KiwiCo Astronaut Starter Kit Review: Is This Space STEM Box Worth It?

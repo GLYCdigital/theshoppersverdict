@@ -1,4 +1,5 @@
 ---
+
 title: "ZINUS Narrow Twin Mattress (30â€"
 seo_title: "ZINUS Narrow Twin Mattress (30â€ Review: Verdict | TSV"
 meta_description: "Our full zinus narrow twin mattress (30â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B074QVPRY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ghiP+NaoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Zinus Narrow Twin Mattress 30 B074Qv Review: The Space-Saving Solution That Cuts 8 Inches

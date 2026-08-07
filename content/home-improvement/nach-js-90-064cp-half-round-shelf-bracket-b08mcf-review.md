@@ -1,4 +1,5 @@
 ---
+
 title: "NACH js-90-064cp Half-Round Shelf Bracket"
 seo_title: "NACH js-90-064cp Half-Round Shelf Bracket Review: Verdict"
 meta_description: "Our full nach js-90-064cp half-round shelf bracket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MCFTSH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RCESDTQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever mounted a shelf and watched it sag in the middle, you know the problem isn't the wood — it's the bracket. The NACH js-90-064cp takes a different approach with its half-round design, and after digging through 235 ratings and the product specs, here's the real story.

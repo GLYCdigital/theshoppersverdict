@@ -1,4 +1,5 @@
 ---
+
 title: "Lanccona Orchid Pot, 6.7 Inch 8 Pack Orchid Pots with Holes"
 seo_title: "Lanccona Orchid Pot, 6.7 Inch 8 Pack Orchid Pots w Review"
 meta_description: "Our full lanccona orchid pot, 6.7 inch 8 pack orchid pots with holes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BG5JKC57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Rrhv0nOYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed an orchid with root rot, you already know the culprit: a solid pot with a single drainage hole and soggy bark. The Lanccona 6.7-inch orchid pot doesn't reinvent the wheel — it just gives roots what they actually need: air. This 8-pack is aimed at growers who've graduated from grocery-store phalaenopsis and want pots that dry evenly and let you see what's happening underground.

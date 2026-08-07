@@ -1,4 +1,5 @@
 ---
+
 title: "ROBLOCK Rubber Tarp Straps with 150% Max Stretch, 100% EPDM "
 seo_title: "ROBLOCK Rubber Tarp Straps with 150% Max Stretch,  Review"
 meta_description: "Our full roblock rubber tarp straps with 150% max stretch, 100% epdm  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWJV6QLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PUfgDe8sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Rubber tarp straps are one of those products where you don't realize how much you need them until you've spent twenty minutes fighting a flapping tarp in the wind. The ROBLOCK Rubber Tarp Straps claim to solve that with a 150% max stretch and 100% EPDM construction. I've put them through a season of real-world abuse — here's the honest breakdown.

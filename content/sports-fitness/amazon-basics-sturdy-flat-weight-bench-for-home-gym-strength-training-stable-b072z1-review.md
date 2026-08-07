@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Sturdy Flat Weight Bench for Home Gym, Strengt"
 seo_title: "Amazon Basics Flat Weight Bench Review (2026): Sturdy & Affordable"
 meta_description: "Read our honest Amazon Basics Flat Weight Bench review. Is it stable enough for heavy presses? We break down build quality, limits, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B072Z1WN4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611cJ5LuVvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with a 600+ lb weight capacity holds up to serious pressing without wobble"
   - "Thick 3-inch high-density foam padding stays comfortable through long sessions"
   - "Tool-free assembly takes under 10 minutes with pre-drilled bolts and clear instructions"
-cons:
+cons: 
   - "Flat-only design — no incline/decline adjustment, so you'll need a separate bench for upper chest work"
   - Non-adjustable backrest may sit too upright for shorter lifters (under 5'5\")
   - "Feet lack rubber grips — can slide on smooth floors without a mat underneath"
+
 ---
 
 ## The Budget Bench That Doesn't Feel Like a Budget Bench

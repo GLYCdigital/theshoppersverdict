@@ -1,4 +1,5 @@
 ---
+
 title: "Ruoysun Full Size Mattress, 12 Inch Hybrid Full Bed Mattress"
 seo_title: "Ruoysun Full Size Mattress, 12 Inch Hybrid Full Be Review"
 meta_description: "Our full ruoysun full size mattress, 12 inch hybrid full bed mattress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM16D9XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LvatV4eDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Ruoysun 12-inch hybrid is the rare budget mattress that gets the fundamentals right — but it has a couple of quirks you need to know about before you click "buy."**

@@ -1,4 +1,5 @@
 ---
+
 title: "Nadex CR360 Cash Register"
 seo_title: "Nadex CR360 Cash Register Review: Verdict | TSV"
 meta_description: "Our full nadex cr360 cash register review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BBKK12VL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dEb90X9+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nadex CR360 sits in that awkward middle ground of cash registers: too capable to be a toy, too simple to run a full retail operation. That's exactly where most small businesses live, so it's worth a serious look.

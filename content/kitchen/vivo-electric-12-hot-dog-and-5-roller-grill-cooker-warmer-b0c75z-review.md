@@ -1,4 +1,5 @@
 ---
+
 title: "VIVO Electric 12 Hot Dog and 5 Roller Grill Cooker Warmer"
 seo_title: "VIVO Electric 12 Hot Dog and 5 Roller Grill Cooker Review"
 meta_description: "Our full vivo electric 12 hot dog and 5 roller grill cooker warmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C75Z6YTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81woXtWIUbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $100 question: Is this a novelty or a real kitchen workhorse?

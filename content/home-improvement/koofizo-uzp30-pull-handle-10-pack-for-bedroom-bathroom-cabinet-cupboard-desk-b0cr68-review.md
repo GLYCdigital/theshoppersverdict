@@ -1,4 +1,5 @@
 ---
+
 title: "KOOFIZO UZP30 Pull Handle 10-Pack for Bedroom Bathroom Cabin"
 seo_title: "KOOFIZO UZP30 Pull Handle 10-Pack for Bedroom Bath Review"
 meta_description: "Our full koofizo uzp30 pull handle 10-pack for bedroom bathroom cabin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR68YYT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CC63sTC4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out cabinet hardware lately, you know the sting: $8–$12 per pull at the big-box store, and suddenly a simple refresh costs more than the furniture itself. The KOOFIZO UZP30 10-pack undercuts that per-handle cost by a wide margin while delivering solid stainless steel construction. But is it a genuine upgrade or just cheap hardware that'll tarnish in a year? After digging through 235 ratings and the spec sheet, here's the honest breakdown.

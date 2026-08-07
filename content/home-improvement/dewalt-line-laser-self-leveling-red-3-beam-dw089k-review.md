@@ -1,15 +1,16 @@
 ---
+
 title: "DEWALT Line Laser, Self-Leveling, Red, 3-Beam (DW089K)"
 seo_title: "DEWALT Line Laser, Self-Leveling, Red, 3-Beam (DW0 Review"
 meta_description: "Honest dewalt line laser, self-leveling, red, 3 review based on 1,446+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "dewalt-line-laser-self-leveling-red-3-beam-dw089k-review"
 image_alt: "DEWALT Line Laser, Self-Leveling, Red, 3-Beam (DW089K)"
-keywords:
+keywords: 
   - "dewalt line laser review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the DEWALT Line Laser, Self-Leveling, Red well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the common complaints about the DEWALT Line Laser, Self-Leveling, Red?"
@@ -22,12 +23,13 @@ review_count: 1446
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B005OH6IPA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xgMXarg8L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Good feature set for the price"
   - "Good performance for the price range"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 If you're shopping for a tool or home improvement product, you've probably noticed the DEWALT Line Laser, Self-Leveling, Red, 3-Beam. After combing through 1,446 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

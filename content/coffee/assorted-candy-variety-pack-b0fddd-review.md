@@ -1,4 +1,5 @@
 ---
+
 title: "Assorted Candy Variety Pack"
 seo_title: "Assorted Candy Variety Pack Review: Worth It? | 2026 inch"
 meta_description: "Honest Assorted Candy Variety Pack review: 3.6-star rating, real pros & cons, flavor variety, portion sizes, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FDDD5CVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/71MgXiAitBL._SL1080_.jpg"
-pros:
+pros: 
   - "Genuine assortment across 8+ candy types — not just one flavor repackaged"
   - "Individually wrapped pieces stay fresh and are easy to portion or share"
   - "Resealable bag holds up well for long-term storage"
-cons:
+cons: 
   - "Inconsistent ratios — popular candies run out fast, fillers dominate"
   - "Some batches arrive with melted or chalky chocolate in warm weather"
+
 ---
 
 **The Assorted Candy Variety Pack is a mixed bag in every sense of the phrase.** With a 3.6-star average across 180 ratings, it's the kind of product that gets the job done for parties, office bowls, or movie nights — but it won't blow your mind. Here's the real breakdown before you add it to your cart.

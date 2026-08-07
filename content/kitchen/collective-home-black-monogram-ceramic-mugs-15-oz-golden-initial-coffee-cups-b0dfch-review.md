@@ -1,4 +1,5 @@
 ---
+
 title: "COLLECTIVE HOME - Black Monogram Ceramic Mugs, 15 oz Golden"
 seo_title: "COLLECTIVE HOME Black Monogram Mugs Review: 15 oz Golden"
 meta_description: "COLLECTIVE HOME Black Monogram Ceramic Mugs review: 15 oz golden initial mugs with 4.8★ rating. Are they worth it? Find out in our honest buyer's guide."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFCHS5LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yIV7RbGML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 15 oz capacity — holds a full Starbucks Venti serving, not the typical 12 oz that most 'large' mugs claim"
   - "Gold monogram is baked on, not a cheap decal — survives dishwasher cycles and microwave use without fading or peeling"
   - "Substantial weight and stoneware construction keeps coffee hot noticeably longer than standard ceramic mugs"
-cons:
+cons: 
   - "Only one letter option per mug — if you want a full set for different family members, you're buying multiple individual mugs"
   - "Matte black exterior shows water spots and fingerprints easily; you'll be wiping these down before guests arrive"
   - "Handle is on the smaller side — those with larger hands or arthritis may find it uncomfortable for two-finger gripping"
+
 ---
 
 # COLLECTIVE HOME Black Monogram Ceramic Mugs: Personalization That Actually Works

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Easy Peel Printable Address Labels with Sure Feed, 1 inch "
 seo_title: "Avery Easy Peel Address Labels Review: Worth It? (2026)"
 meta_description: "Honest Avery Easy Peel Printable Address Labels review: real-world print quality, adhesive strength, and whether Sure Feed lives up to the hype."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B079VT6DJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7137x3J5mfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pop-up edge design lets you peel labels one-handed without bending or tearing the sheet"
   - "Sure Feed strip prevents paper jams even in older or finicky home printers"
   - "Crisp, smudge-resistant output on both inkjet and laser printers with standard settings"
-cons:
+cons: 
   - "Labels are thin — they work for envelopes but feel flimsy for package shipping"
   - "No free template code printed on the box; you'll need to search Avery's site manually"
+
 ---
 
 If you've ever fought with a sheet of address labels—peeling corners, bending the backing, accidentally sticking two labels together—you know the pain. Avery's Easy Peel line with Sure Feed exists to eliminate that specific frustration. The question is whether it's worth the premium over generic store brands.

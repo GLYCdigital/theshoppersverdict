@@ -1,4 +1,5 @@
 ---
+
 title: "Ejet 952XL Ink Cartridges High Page Yield (4-Pack) Compatibl"
 seo_title: "Ejet 952XL Ink Cartridges Review: High-Yield 4-Pack for HP"
 meta_description: "Honest Ejet 952XL high-yield ink cartridge review: page yield, print quality, compatibility issues, and whether this 4-pack saves you real money."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F9FN45XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QwKdWhE3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial cost savings per page versus OEM HP 952XL cartridges, often 50-60% cheaper upfront"
   - "High-yield capacity actually delivers close to the advertised ~2,000 pages per black cartridge in standard-mode printing"
   - "Chip resets cleanly — most users report no 'non-genuine cartridge' warnings on HP printers"
-cons:
+cons: 
   - "Inconsistent quality control — a notable minority report leaking cartridges or immediate 'low ink' warnings that never clear"
   - "Color accuracy drifts noticeably on photo paper; acceptable for documents, less so for images"
   - "No individual cartridge replacement option — if one color fails early, the whole 4-pack value drops"
+
 ---
 
 Let's cut through the listing copy. The Ejet 952XL 4-pack is a third-party ink option for HP printers that take the standard 952 cartridge family — think OfficeJet Pro 8700, 8720, 8740, and the 8210/8216 series. The selling point is obvious: you're paying roughly half of what HP charges for OEM 952XL cartridges, and the "high yield" label promises roughly 2,000 pages per black cartridge and 1,600 per color. But with a 3.4-star average across 170 ratings, the real question is whether the savings justify the gamble.

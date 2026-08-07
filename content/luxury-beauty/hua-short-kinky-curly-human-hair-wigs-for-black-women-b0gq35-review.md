@@ -1,4 +1,5 @@
 ---
+
 title: "HUA Short Kinky Curly Human Hair Wigs for Black Women"
 seo_title: "HUA Short Kinky Curly Human Hair Wigs for Black Wo Review"
 meta_description: "Our full hua short kinky curly human hair wigs for black women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GQ35NTC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FJuMi-u0L._SL1200_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "kinky curly" wig online and received a limp, stringy mess that looks nothing like the photo, you know the gamble. The HUA Short Kinky Curly Human Hair Wig is not that gamble. It's one of the better options under $150 for Black women who want a short, defined curl pattern that actually mimics natural Type 4 hair — but it's not without a few honest tradeoffs.

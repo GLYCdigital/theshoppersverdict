@@ -1,4 +1,5 @@
 ---
+
 title: "Hauslane Range Hood 36 Inch - Under Cabinet Range Hood, Stai"
 seo_title: "Hauslane Range Hood 36 Inch - Under Cabinet Range  Review"
 meta_description: "Our full hauslane range hood 36 inch - under cabinet range hood, stai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0787VZL83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HZAikQ4+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most under-cabinet range hoods under $300 are decorative fans that smear grease around your kitchen. The Hauslane 36-inch model isn't that. It's a legitimate workhorse that actually pulls smoke, steam, and cooking odors out of your space — and at 4.3 stars across 215 ratings, buyers largely agree. Here's the full picture before you hand over your money.

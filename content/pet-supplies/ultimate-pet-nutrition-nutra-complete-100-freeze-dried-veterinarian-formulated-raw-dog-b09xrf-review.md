@@ -1,4 +1,5 @@
 ---
+
 title: "ULTIMATE PET NUTRITION Nutra Complete, 100% Freeze Dried Vet"
 seo_title: "ULTIMATE PET NUTRITION Nutra Complete, 100% Freeze Review"
 meta_description: "Our full ultimate pet nutrition nutra complete, 100% freeze dried vet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09XRFYZVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DmuAUkWGL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the closest thing to feeding your dog a whole-prey raw diet without the freezer space, the mess, and the bone-grinding? Mostly yes — if your budget stretches.**

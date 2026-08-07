@@ -1,4 +1,5 @@
 ---
+
 title: "CrystalClear Thrive - 10-14-8 Aquatic Plant Fertilizer"
 seo_title: "CrystalClear Thrive 10-14-8 Review: Best Aquatic Fertilizer?"
 meta_description: "Honest CrystalClear Thrive 10-14-8 aquatic plant fertilizer review. See how this NPK blend performs in planted tanks, dosing tips, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07G9W3NTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TbLKvhpML._SL1500_.jpg"
-pros:
+pros: 
   - "High phosphorus (14%) and potassium (8%) specifically targets root growth and flowering in heavy-rooting species like swords and crypts"
   - "Liquid concentrate dilutes cleanly with no clouding or residue in the water column when dosed correctly"
   - "One bottle covers roughly 500 gallons at standard dosing — strong value for medium to large tanks"
-cons:
+cons: 
   - "Not a complete fertilizer — no nitrogen or micronutrients, so you'll need a separate source for those"
   - "The 10-14-8 ratio leans heavily toward root feeders; stem plants and floaters may not show dramatic response"
   - "Dosing cap lacks graduations — you'll want a syringe for accurate measuring on smaller tanks"
+
 ---
 
 Let me be blunt: most aquatic fertilizers are either overpriced snake oil or carbon copies of the same three NPK ratios. The CrystalClear Thrive 10-14-8 sits in a narrower niche, and that's exactly why it's worth your attention — if your tank matches what it's designed to do.

@@ -1,4 +1,5 @@
 ---
+
 title: "YTKIH Rechargeable Battery Operated Motion Light Motion Sens"
 seo_title: "YTKIH Rechargeable Battery Operated Motion Light M Review"
 meta_description: "Our full ytkih rechargeable battery operated motion light motion sens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKMYPZ1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pwIkx7ZvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of fumbling for a light switch in a dark garage or tripping over boxes in a dim hallway, the YTKIH Rechargeable Battery Operated Motion Light is the kind of product that makes you wonder why every dark corner isn't equipped with one. With a 4.4-star average across 220 ratings, it's clearly earning its keep in shoppers' homes — but it's not without quirks worth knowing before you buy.

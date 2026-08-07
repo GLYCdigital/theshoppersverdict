@@ -1,4 +1,5 @@
 ---
+
 title: "docolor Gemstone Eyeshadow Palette Shadow Makeup Palette"
 seo_title: "docolor Gemstone Eyeshadow Palette Review (2026): Worth It?"
 meta_description: "Honest docolor Gemstone Eyeshadow Palette review: pigmentation, fallout, blendability & value. See if this 4.6-star palette earns a spot in your kit."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLV4XZYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NSUUy51OL._SL1500_.jpg"
-pros:
+pros: 
   - "Buttery, high-pigment shimmer shades that apply boldly with a fingertip or damp brush"
   - "Versatile 12-pan range covering neutral daily wear and jewel-toned evening looks"
   - "Minimal fallout during application and long-lasting wear through an 8-hour workday"
-cons:
+cons: 
   - "Matte shades require building — they're buildable but not one-swipe intense"
   - "No mirror or brush included, which limits travel convenience for the price point"
+
 ---
 
 **The Short Version:** If you're hunting for a palette that delivers jewel-toned drama without the $60 department-store markup, the docolor Gemstone Eyeshadow Palette earns serious consideration. At 4.6 stars across 229 ratings, it's clearly connecting with buyers. But "good for the price" and "genuinely great" are different claims — I'm here to sort out which one this actually is.

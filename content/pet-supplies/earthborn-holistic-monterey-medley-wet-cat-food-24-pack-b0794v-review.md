@@ -1,4 +1,5 @@
 ---
+
 title: "Earthborn Holistic Monterey Medley Wet Cat Food, 24-Pack"
 seo_title: "Earthborn Holistic Monterey Medley Cat Food Review (2026)"
 meta_description: "Honest Earthborn Holistic Monterey Medley wet cat food review: ingredients, texture, picky-eater results, and who should buy this 24-pack."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0794VB9VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SgStlNa-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-protein recipe with ocean fish, chicken, and shrimp as the first three ingredients — no carrageenan or artificial binders"
   - "Consistent pâté texture that holds up well when portioned, making it easy to split a 5.5-oz can across multiple feedings"
   - "Reliable for multi-cat households — flavor profile appeals broadly, even to cats that typically reject fish-only foods"
-cons:
+cons: 
   - "Strong fish-forward aroma that lingers in the bowl and can be off-putting for owners with sensitive noses"
   - "Pâté can dry out quickly if left out — needs to be served fresh or mixed with water for slower eaters"
+
 ---
 
 If your cat turns up its nose at the grocery-store fish brands but you're not ready to pay prescription-food prices, Earthborn Holistic Monterey Medley sits in a sweet spot worth examining. With 235 ratings averaging 4.7 stars, this 24-pack of 5.5-ounce cans has built a following among owners of finicky felines. But is it genuinely better than the mid-tier competition, or just another pretty label?

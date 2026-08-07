@@ -1,4 +1,5 @@
 ---
+
 title: "iRasptek Starter Kit for Raspberry Pi 5 16GB RAM - Pre-Loade"
 seo_title: "iRasptek Starter Kit for Raspberry Pi 5 16GB RAM - Review"
 meta_description: "Our full irasptek starter kit for raspberry pi 5 16gb ram - pre-loade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSSQ8C53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vdDbxA7uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Short Version

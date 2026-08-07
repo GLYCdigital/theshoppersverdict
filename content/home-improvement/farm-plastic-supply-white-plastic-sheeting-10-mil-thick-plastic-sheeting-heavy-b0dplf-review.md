@@ -1,4 +1,5 @@
 ---
+
 title: "Farm Plastic Supply - White Plastic Sheeting - 10 mil - Thic"
 seo_title: "Farm Plastic Supply White Plastic Sheeting 10 Mil Review (2026)"
 meta_description: "Farm Plastic Supply 10 mil white plastic sheeting review: real durability, tear resistance, and UV performance. 225 ratings, 4.5 stars. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPLFBYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/415Ykc9lh4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10 mil thickness measured at 0.010 inches — not the flimsy 6 mil 'heavy duty' most sellers push"
   - "UV-stabilized white polyethylene resists sunlight degradation for 6-12 months outdoors"
   - "Consistent 4-foot width across the roll with clean, straight edges that don't curl or split"
-cons:
+cons: 
   - "Punctures fairly easily when stretched tight over sharp corners — needs padding or tape at pressure points"
   - "White finish shows dirt and mold stains quickly in damp environments; not ideal for long-term outdoor use"
+
 ---
 
 **The 10 mil plastic sheeting that actually delivers on its thickness — but has one real weakness**

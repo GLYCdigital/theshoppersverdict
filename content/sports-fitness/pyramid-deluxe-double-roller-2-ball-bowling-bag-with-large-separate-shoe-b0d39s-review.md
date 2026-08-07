@@ -1,4 +1,5 @@
 ---
+
 title: "Pyramid Deluxe Double Roller 2 Ball Bowling Bag with Large S"
 seo_title: "Pyramid Deluxe Double Roller 2 Ball Bowling Bag wi Review"
 meta_description: "Our full pyramid deluxe double roller 2 ball bowling bag with large s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D39SMQ61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CvAegP4QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pyramid Deluxe Double Roller: Two Balls, One Bag, Zero Excuses

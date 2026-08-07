@@ -1,4 +1,5 @@
 ---
+
 title: "ScotchBlue Painter's Tape, Multi-Use, 1.41-Inch by 60-Yard, "
 seo_title: "ScotchBlue Painter's Tape, Multi-Use, 1.41-Inch by Review"
 meta_description: "Our full scotchblue painter's tape, multi-use, 1.41-inch by 60-yard,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00BRDKFDG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MqkLiMIKL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 60-Yard Roll That Actually Lasts

@@ -1,4 +1,5 @@
 ---
+
 title: "Invictus Platinum by Paco Rabanne for Men 3.4 oz Eau de Parf"
 seo_title: "Invictus Platinum by Paco Rabanne for Men 3.4 oz E Review"
 meta_description: "Our full invictus platinum by paco rabanne for men 3.4 oz eau de parf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YHKTYDB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e-M5bPjJL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

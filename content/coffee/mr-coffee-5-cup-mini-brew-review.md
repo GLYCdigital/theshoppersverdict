@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee 5-Cup Mini Brew Switch Coffee Maker, Black"
 seo_title: "Mr. Coffee 5-Cup Mini Brew Review (2026): Worth It?"
 meta_description: "Mr. Coffee 5-Cup Mini Brew Switch review: compact, affordable drip machine. Real pros, cons, and who should buy it. Honest verdict at 4.4 stars."
@@ -11,14 +12,15 @@ review_count: 27799
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08QD33PZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PRRg0wxqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grab-a-cup auto pause lets you pour mid-brew without dripping on the hot plate"
   - "Compact footprint (about 10.8 x 7.4 x 10.2 inches) fits under most upper cabinets"
   - "Simple rocker switch operation — no digital clock to program or buttons to decipher"
-cons:
+cons: 
   - "No auto shut-off; the warming plate stays on until you remember to flip the switch"
   - "Carafe is thin glass and top-rack dishwasher safe, but hand-washing is safer long-term"
   - "Brewing is slow for the volume — expect 6-8 minutes for a full 5 cups"
+
 ---
 
 ## The $27 Coffee Maker That Just Works — With Caveats

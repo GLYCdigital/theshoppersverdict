@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Glitter Primer, Long-Lasting Glitter"
 seo_title: "NYX PROFESSIONAL MAKEUP Glitter Primer, Long-Lasti Review"
 meta_description: "Our full nyx professional makeup glitter primer, long-lasting glitter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1KC3W8Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515MJY3LvML._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: glitter is the most high-maintenance makeup category. Without the right base, it ends up on your cheeks, your coffee mug, and your coworker’s shoulder by noon. This NYX Glitter Primer is the product that finally made glitter shadows behave for me — but it’s not without quirks.

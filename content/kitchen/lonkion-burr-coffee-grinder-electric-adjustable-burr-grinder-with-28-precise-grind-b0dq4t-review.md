@@ -1,4 +1,5 @@
 ---
+
 title: "Lonkion Burr Coffee Grinder Electric - Adjustable Burr Grind"
 seo_title: "Lonkion Burr Coffee Grinder Electric - Adjustable  Review"
 meta_description: "Our full lonkion burr coffee grinder electric - adjustable burr grind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQ4TP6L3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yWI8gc3hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're still using a blade grinder that pulverizes half your beans into dust and leaves the other half in jagged chunks, the Lonkion Burr Coffee Grinder is the upgrade you've been putting off. It's not perfect — nothing at this price point is — but it solves the biggest problem in entry-level home coffee: inconsistent grind size.

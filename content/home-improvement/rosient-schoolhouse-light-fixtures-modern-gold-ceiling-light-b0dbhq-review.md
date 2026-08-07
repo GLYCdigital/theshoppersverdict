@@ -1,4 +1,5 @@
 ---
+
 title: "Rosient Schoolhouse Light Fixtures Modern Gold Ceiling Light"
 seo_title: "Rosient Schoolhouse Light Fixtures Modern Gold Cei Review"
 meta_description: "Our full rosient schoolhouse light fixtures modern gold ceiling light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DBHQNXNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PAQz-F0DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The schoolhouse light is a design classic for a reason — that simple, nostalgic glass shade works in farmhouse kitchens, craftsman hallways, and even modern apartments. The Rosient version updates it with a brushed gold finish that feels contemporary rather than vintage. At 4.4 stars across 220 ratings, it's clearly doing something right. But is it worth your ceiling? Let's dig in.

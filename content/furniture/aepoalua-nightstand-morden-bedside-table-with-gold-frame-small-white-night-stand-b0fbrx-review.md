@@ -1,4 +1,5 @@
 ---
+
 title: "AEPOALUA Nightstand,Morden Bedside Table with Gold Frame,Sma"
 seo_title: "AEPOALUA Nightstand Review: Gold Frame Bedside Table"
 meta_description: "AEPOALUA nightstand review: gold frame, small white bedside table. Real buyer feedback, build quality, size limits, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBRX4RNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V8-ZfYbZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy metal frame with gold finish that resists scratching better than expected at this price point"
   - Compact footprint (roughly 15.7 inch "D x 15.7 inch "W) fits tight spaces without sacrificing drawer depth
   - "Easy 15-minute assembly with clearly labeled parts and an Allen wrench included"
-cons:
+cons: 
   - "Drawer glides are basic — they work but feel cheap and can stick if overloaded"
   - "White MDF top marks easily; use coasters or a mat or you'll see rings"
   - "Not a true 'gold' — it's more of a brushed champagne tone that skews warm"
+
 ---
 
 Let's be direct: a nightstand under $100 with a gold frame is usually junk. The AEPOALUA bedside table surprises because it isn't. After combing through 220 ratings and the buyer feedback attached to them, this little white-and-gold unit earns its 4.4-star average — but it's not without quirks you should know before checkout.

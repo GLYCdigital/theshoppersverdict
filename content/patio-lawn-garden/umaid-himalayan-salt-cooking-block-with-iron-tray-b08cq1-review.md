@@ -1,4 +1,5 @@
 ---
+
 title: "UMAID Himalayan Salt Cooking Block with Iron Tray"
 seo_title: "UMAID Himalayan Salt Cooking Block with Iron Tray Review:"
 meta_description: "Our full umaid himalayan salt cooking block with iron tray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08CQ17CVD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812r70zx3mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The UMAID Himalayan salt block is the closest thing to cooking on a 750°F slab of flavor — if you're patient enough to earn it.**

@@ -1,4 +1,5 @@
 ---
+
 title: "10Pcs Paint Brushes for Kids, Anezus Kids Paint Brushes Todd"
 seo_title: "Anezus Kids Paint Brushes Review: Best Toddler Brush Set?"
 meta_description: "Honest Anezus 10-piece toddler paint brush set review: chubby grips, nylon bristles, easy cleanup. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PPKQZ7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618edDmcXkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Chubby triangular handles are genuinely easy for small hands to grip — no slipping mid-stroke"
   - "Nylon bristles hold their shape after repeated washing and don't shed into paint"
   - "10 brushes for the price of a single craft-store brush — absurd value for classroom or home"
-cons:
+cons: 
   - "Bristles are on the stiff side; not ideal for watercolor washes or delicate detail work"
   - "Paint doesn't come with the set — you'll need to buy washable paint separately"
+
 ---
 
 Let’s be honest: most kids’ paintbrush sets are garbage. The bristles shed within two uses, the handles are too skinny for toddler fists, and you end up with more paint on the floor than on the paper. So when a 10-brush set for toddlers holds a 4.6-star average across 229 ratings, that tells me something. I’ve dug through the feedback, examined the specs, and tested the logic. Here’s the real story on the Anezus kids paint brushes.

@@ -1,4 +1,5 @@
 ---
+
 title: "FoundGo PVC Tarp"
 seo_title: "FoundGo PVC Tarp Review: Heavy-Duty 12x20 Waterproof Cover"
 meta_description: "FoundGo PVC tarp review: Is this heavy-duty 12x20 waterproof cover worth it? Tested for durability, grommets, and UV resistance. Read before buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B68B597Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814TQUnCYXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14 mil thickness with dual-sided PVC coating — genuinely heavy, not a glorified shower curtain"
   - "Reinforced hems with heat-sealed seams every 18 inches, not just stitched"
   - "Rust-proof aluminum grommets spaced every 3 feet — survived a full Midwest winter without tearing out"
-cons:
+cons: 
   - "Folded creases are stubborn — takes days in the sun or a warm garage to flatten completely"
   - "No UV stabilizer rating published — long-term sun exposure is an open question past 12 months"
+
 ---
 
 Let me save you some time scrolling through 210 ratings: the FoundGo PVC tarp is a legitimate heavy-duty cover, not the flimsy blue plastic you’re used to. At 14 mil thick with a dual-sided PVC coating, this thing weighs about 12 pounds in the 12x20 size. You feel it when you pick it up. That’s the first signal this isn’t a disposable tarp.

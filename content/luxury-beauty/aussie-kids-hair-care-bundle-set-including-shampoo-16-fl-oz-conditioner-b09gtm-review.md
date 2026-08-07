@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aussie Kids Hair Care Bundle Set Including: Shampoo (16 Fl O"
 seo_title: "Aussie Kids Hair Care Bundle Review: Is It Worth It? (2026)"
 meta_description: "Honest Aussie Kids Hair Care Bundle review: shampoo, conditioner & detangler performance, ingredient concerns, and which kids benefit most."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09GTMR23B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H3wvKt0kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Triple-action set (shampoo, conditioner, detangler) covers the full wash day routine for under $20 inch"
   - "Sulfate-free and paraben-free formula actually cleans without stripping fine or sensitive scalps"
   - "Signature Aussie scent is pleasant — not the artificial candy smell most kids' lines use"
-cons:
+cons: 
   - "Detangler comes in a spray bottle that can clog mid-bottle; you'll need to rinse the nozzle"
   - "Not tear-free — the shampoo will sting if it runs into eyes, unlike Johnson's or Honest Company"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Danner 0 Pond Aeration Pump with Diffuser"
 seo_title: "Danner 0 Pond Aeration Pump Review: Is It Worth It? (2026)"
 meta_description: "Honest Danner 0 Pond Aeration Pump review: performance, noise levels, and longevity. See if this 4.5-star aerator fits your pond size before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01JAXDZ90/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UHxv6+DML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Twin-diaphragm design pushes air to depths up to 7 feet, so it works for deeper ponds where cheaper piston pumps stall"
   - "Runs noticeably quieter than comparable units — multiple buyers noted they can't hear it from inside the house"
   - "Ships with 25 feet of weighted airline and a diffuser stone, so you're not hunting for accessories on day one"
-cons:
+cons: 
   - "No check valve included in the box — if you mount the pump below water level, you'll need to buy one separately to prevent backflow"
   - "Output is modest for larger ponds; it's rated for up to 2,000 gallons, but at the deep end you'll see reduced circulation"
+
 ---
 
 If your pond has turned into a mosquito nursery or your fish are gasping at the surface come August, you already know the fix. The Danner 0 Pond Aeration Pump with Diffuser is one of the most consistently recommended units in its class, and after digging through 225 ratings and buyer experiences, I understand why. This isn't a flashy piece of equipment — it's a workhorse that does one job and does it quietly.

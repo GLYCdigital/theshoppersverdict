@@ -1,4 +1,5 @@
 ---
+
 title: "Arfun Drip Irrigation Fittings Kit"
 seo_title: "Arfun Drip Irrigation Fittings Kit Review (2026): Worth It?"
 meta_description: "Arfun Drip Irrigation Fittings Kit review: 4.5-star rated. Tested for leaks, compatibility, and durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7KT4HWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hOfJJCZvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Barbed fittings grip 1/4-inch tubing securely without clamps — zero leaks at 45 PSI in testing"
   - "Includes 30+ assorted pieces covering tees, elbows, couplers, and end caps — enough for a 200-foot drip line layout"
   - "Polypropylene construction resists UV degradation and handles freeze-thaw cycles without cracking"
-cons:
+cons: 
   - "No 1/2-inch adapter included — you'll need to buy one separately if connecting to a mainline"
   - "The 5/32-inch drill bit included is cheap and dulls quickly on clay pots"
+
 ---
 
 ## The Arfun Drip Kit: The $20 Fix for Your Watering Woes

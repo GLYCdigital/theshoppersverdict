@@ -1,4 +1,5 @@
 ---
+
 title: "3-Speed Cordless Mini Drill Pen With 8 Small Drill Bits,Rech"
 seo_title: "3-Speed Cordless Mini Drill Pen Review: 8 Bits, Rechargeable"
 meta_description: "Honest review of the 3-speed cordless mini drill pen with 8 small drill bits. Is this rechargeable precision tool worth your money? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJBG84ND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OJfH+3yLy._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Pen-style grip offers precise control for delicate work that full-size drills can't manage"
   - "Three speed settings (roughly 8,000–15,000 RPM) handle everything from circuit boards to soft woods"
   - "USB-C rechargeable — no proprietary charging dock or AA battery hunting"
-cons:
+cons: 
   - Chuck accepts only 0.3–0.8mm bits, so it won't take standard 1/8 inch " shank accessories
   - "Battery life is moderate — expect 30–45 minutes of continuous use before a recharge"
   - "Included 8 bits are basic; you'll likely want a better set for serious work"
+
 ---
 
 If you've ever tried drilling a 1mm hole in a circuit board with a full-size drill, you know the pain. The 3-Speed Cordless Mini Drill Pen aims to fix that problem, and at 4.2 stars across 210 Amazon ratings, it's clearly doing something right. But let's be clear about what this tool is—and isn't—before you add it to your cart.

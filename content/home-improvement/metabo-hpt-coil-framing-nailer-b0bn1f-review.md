@@ -1,4 +1,5 @@
 ---
+
 title: "Metabo HPT Coil Framing Nailer"
 seo_title: "Metabo HPT Coil Framing Nailer Review: Verdict | TSV"
 meta_description: "Our full metabo hpt coil framing nailer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BN1FZNGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K0YCUMmrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pros:**

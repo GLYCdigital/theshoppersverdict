@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Food Coconut & Argan Oil Heat Protectant Leave-In Spray"
 seo_title: "Hair Food Coconut & Argan Oil Heat Protectant Leav Review"
 meta_description: "Our full hair food coconut & argan oil heat protectant leave-in spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07YPNW7SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6153iKIj47L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about heat protectants: most are either watery promises in a bottle or greasy formulas that leave your hair looking like you dipped it in cooking oil. The Hair Food Coconut & Argan Oil Leave-In Spray sits somewhere in the middle — and for the price, that's a better spot than you'd expect.

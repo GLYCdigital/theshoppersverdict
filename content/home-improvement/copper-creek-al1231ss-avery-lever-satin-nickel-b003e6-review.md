@@ -1,4 +1,5 @@
 ---
+
 title: "Copper Creek AL1231SS Avery Lever, Satin Nickel"
 seo_title: "Copper Creek Avery Lever Review: Satin Nickel Door Hardware"
 meta_description: "Honest Copper Creek AL1231SS Avery Lever review: satin nickel finish, ADA-compliant, easy install. See pros, cons, and who should buy this door lever."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B003E6O3BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mKWf0hjyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full metal construction with a solid, substantial feel — no hollow plastic components"
   - "Satin nickel finish resists fingerprints and smudges far better than polished chrome"
   - "ADA-compliant lever design works well for elderly users or anyone with grip issues"
-cons:
+cons: 
   - "Latch bolt can bind if your door frame is slightly misaligned — requires precise installation"
   - "Included screws are soft; use your own if you're driving into pre-existing holes"
   - "No keyed option available — this is passage/privacy function only"
+
 ---
 
 Let's cut through the noise on this one. The Copper Creek AL1231SS Avery Lever is an interior door handle that sits in that awkward middle ground — not the cheapest option at the big-box store, but far from premium. With 210 ratings averaging 4.2 stars, it's clearly doing something right for most buyers. Here's the full story.

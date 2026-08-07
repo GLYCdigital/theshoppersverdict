@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Espresso & Coffee Barista System"
 seo_title: "Ninja Espresso & Coffee Barista System Review: Verdict | "
 meta_description: "Our full ninja espresso & coffee barista system review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CPB4DQ6J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lxSljpTpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Ninja Espresso & Coffee Barista System is a do-everything countertop chameleon that nails the drip coffee side of its split personality, then trips over its own espresso ambitions.** At 3.9 stars across 195 ratings, the consensus is clear: this is a great coffee maker that happens to make espresso, not the other way around.

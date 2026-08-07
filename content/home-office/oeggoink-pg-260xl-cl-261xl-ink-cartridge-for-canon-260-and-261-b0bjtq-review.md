@@ -1,4 +1,5 @@
 ---
+
 title: "OEGGOINK PG-260XL CL-261XL Ink Cartridge for Canon 260 and 2"
 seo_title: "OEGGOINK PG-260XL CL-261XL Ink Cartridge for Canon Review"
 meta_description: "Our full oeggoink pg-260xl cl-261xl ink cartridge for canon 260 and 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BJTQBS43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rr1YFqzYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise about third-party ink. The OEGGOINK PG-260XL CL-261XL combo pack is one of those products that makes you question why Canon charges $70+ for OEM cartridges. At roughly half the price, this two-pack delivers the same stated page yields — 300 pages for the black PG-260XL and 220 for the tri-color CL-261XL. But as with any third-party ink, the question isn't whether it's cheaper. It's whether it's actually good.

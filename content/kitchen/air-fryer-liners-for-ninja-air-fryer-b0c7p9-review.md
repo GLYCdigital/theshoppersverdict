@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Liners for Ninja Air Fryer"
 seo_title: "Air Fryer Liners for Ninja: 4.6-Star Review Worth Buying?"
 meta_description: "Honest review of Air Fryer Liners for Ninja Air Fryer. See if these disposable parchment liners actually fit, perform, and simplify cleanup. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7P9BVX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K5Ulxit3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut square design fits Ninja 5-8qt baskets without curling or blowing around"
   - "Genuine parchment paper (not coated paper) that withstands 428°F without smoking"
   - "Greasproof and non-stick — catches drips, keeps basket pristine, and cuts cleanup to a quick rinse"
-cons:
+cons: 
   - "Not a universal fit — oversized for smaller 2-4qt baskets, so measure your basket first"
   - "Square corners leave small gaps where food can touch the basket directly"
   - "Single-use only; heavy users will need to restock regularly"
+
 ---
 
 If there’s one chore that makes people abandon their air fryer, it’s scrubbing caked-on grease out of the basket. These pre-cut parchment liners for Ninja air fryers are designed to eliminate that pain point entirely. With a 4.6-star average across 229 ratings, they’re clearly doing something right. But are they a perfect fit for your specific Ninja model? Let’s dig into the details.

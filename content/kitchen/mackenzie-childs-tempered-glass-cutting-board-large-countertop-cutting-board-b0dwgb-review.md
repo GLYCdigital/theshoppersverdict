@@ -1,4 +1,5 @@
 ---
+
 title: "MACKENZIE-CHILDS Tempered Glass Cutting Board, Large Counter"
 seo_title: "MACKENZIE-CHILDS Tempered Glass Cutting Board, Lar Review"
 meta_description: "Our full mackenzie-childs tempered glass cutting board, large counter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWGB2PNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41NKsAbMZ8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: this isn't a knife-friendly board. But if you're buying a MACKENZIE-CHILDS cutting board, you're not shopping for function first — you're buying a piece of functional art. The real question is whether the brand's signature hand-painted charm justifies the tradeoffs. After digging through 225 ratings and the practical reality of tempered glass, here's my honest take.

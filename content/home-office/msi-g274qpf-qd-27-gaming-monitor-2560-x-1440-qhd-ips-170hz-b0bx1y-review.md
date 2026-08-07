@@ -1,7 +1,8 @@
 ---
-title: "msi G274QPF-QD, 27\" Gaming Monitor, 2560 x 1440(QHD), IPS, 1"
-seo_title: "msi G274QPF-QD, 27\" Gaming Monitor, 2560 x 1440(QH Review"
-meta_description: "Our full msi g274qpf-qd, 27\" gaming monitor, 2560 x 1440(qhd), ips, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "msi G274QPF-QD, 27\ Gaming Monitor, 2560 x 1440(QHD), IPS, 1"
+seo_title: "msi G274QPF-QD, 27\ Gaming Monitor, 2560 x 1440(QH Review"
+meta_description: "Our full msi g274qpf-qd, 27\ gaming monitor, 2560 x 1440(qhd), ips, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "msi-g274qpf-qd-27-gaming-monitor-2560-x-1440-qhd-ips-170hz-b0bx1y-review"
 image_alt: "msi G274QPF-QD, 27 Gaming Monitor, 2560 x 1440(QHD), IPS, 170Hz, FreeSync Premium, HDR400, HDMI, Displayport, USB C, Til"
 verdict_score: 3.3
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0BX1YCQTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714f6zujiOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about the MSI G274QPF-QD: when it works, it's one of the best-value QHD gaming monitors you can buy. But a 3.4-star average across 170 ratings tells you something important — getting a good unit feels like winning a small lottery.

@@ -1,4 +1,5 @@
 ---
+
 title: "YONDU Organic Umami Seasoning Sauce â€“ Non-GMO, 100% Plant-"
 seo_title: "YONDU Organic Umami Seasoning Sauce â€“ Non-GMO, 1 Review"
 meta_description: "Our full yondu organic umami seasoning sauce â€“ non-gmo, 100% plant- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R2DRRW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611q0thMwaL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: YONDU is not barbecue sauce, not soy sauce, and not a gimmick. It’s a Korean-style fermented seasoning concentrate that delivers what the label promises — actual, measurable umami. At 4.6 stars from 229 ratings, it’s one of the better-performing plant-based flavor boosters on Amazon. Here’s the real story.

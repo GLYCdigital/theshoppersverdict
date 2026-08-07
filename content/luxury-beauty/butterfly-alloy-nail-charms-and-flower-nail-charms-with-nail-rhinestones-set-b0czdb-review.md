@@ -1,4 +1,5 @@
 ---
+
 title: "Butterfly Alloy Nail Charms and Flower Nail Charms, with Nai"
 seo_title: "Butterfly Alloy Nail Charms Review: 3D Flower Nail Art Kit"
 meta_description: "Honest Butterfly Alloy Nail Charms review: 3D flower & butterfly nail art accessories. See what 235 buyers say about quality, adhesion & value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZDBY22S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-and-images.amazon.com/images/I/81BjT2MgGFL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine alloy construction with visible depth — not flat stamped plastic, so 3D effects actually pop on the nail"
   - "Mixed butterfly and floral shapes in varied sizes give you enough pieces for 10-15 full manicures without repeat designs"
   - "Rhinestones included in the same kit match the metal tones, saving you from buying a separate accent pack"
-cons:
+cons: 
   - "Small charms (under 5mm) require tweezers and steady hands — not ideal for beginners doing their own nails"
   - "No adhesive included; you'll need nail glue or gel top coat, which isn't stated clearly in the listing"
+
 ---
 
 ## Are These 3D Nail Charms Worth the Hype?

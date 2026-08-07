@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Floating Shelves, 15 Inch Wall Shelf, Wall Mounted St"
 seo_title: "HOOBRO Floating Shelves, 15 Inch Wall Shelf, Wall  Review"
 meta_description: "Our full hoobro floating shelves, 15 inch wall shelf, wall mounted st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D47KNJZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717iYZ30NWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HOOBRO 15-inch floating shelves are the rare budget shelf that doesn't look like a budget shelf.** At a 4.5-star average across 225 ratings, these aren't just another Amazon filler product. They're the kind of wall-mounted storage that actually disappears into your wall — until you need it to hold something heavy.

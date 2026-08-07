@@ -1,4 +1,5 @@
 ---
+
 title: "Moko Green Backlight Chatpad for Xbox One Controller, Xbox S"
 seo_title: "Moko Green Backlight Chatpad for Xbox One Controll Review"
 meta_description: "Our full moko green backlight chatpad for xbox one controller, xbox s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D2HV39BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PqsVBrlHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to type a party chat message using the Xbox's on-screen keyboard, you know the pain: d-pad navigation, one letter at a time, while your squad waits. The Moko Green Backlight Chatpad aims to kill that friction for about the price of a decent lunch. After a week of daily use across Destiny 2 raids, Sea of Thieves sessions, and some surprisingly long party chat arguments, here's the honest breakdown.

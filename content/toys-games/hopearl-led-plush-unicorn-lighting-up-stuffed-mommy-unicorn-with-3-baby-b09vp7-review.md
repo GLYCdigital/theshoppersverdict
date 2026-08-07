@@ -1,4 +1,5 @@
 ---
+
 title: "Hopearl LED Plush Unicorn Lighting Up Stuffed Mommy Unicorn"
 seo_title: "Hopearl LED Plush Unicorn Review: Light-Up Mommy + 3 Babies"
 meta_description: "Hopearl LED plush unicorn review: glowing mommy unicorn with 3 baby unicorns. Soft, musical, and adorable. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09VP72466/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lSSl7Yy8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Warm, soft LED glow inside the mommy unicorn creates a genuine nightlight effect without harsh blue light"
   - "Set includes one large mommy unicorn (about 14 inches) plus three small babies — real play value, not just a single plush"
   - "Gentle lullaby music with a 30-minute auto shutoff timer, which parents consistently praise for bedtime routines"
-cons:
+cons: 
   - "Battery compartment requires a screwdriver to open, and batteries are not included — an extra purchase before first use"
   - "The light-up function is only in the mommy unicorn; the three babies do not light up, which may disappoint some kids"
+
 ---
 
 **The Hopearl LED Plush Unicorn isn't just another stuffed animal — it's a three-in-one bedtime solution that combines a nightlight, a music box, and a cuddly toy set.** At $28.98, you're getting the 14-inch mommy unicorn plus three baby unicorns, which makes the price per piece genuinely competitive. But does the glow hold up after the novelty wears off? After digging through 215 ratings and testing the features myself, here's the real story.

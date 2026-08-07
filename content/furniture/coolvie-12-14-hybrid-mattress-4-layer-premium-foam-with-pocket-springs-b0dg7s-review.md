@@ -1,4 +1,5 @@
 ---
+
 title: "Coolvie 12/14 Hybrid Mattress, 4 Layer Premium Foam with Poc"
 seo_title: "Coolvie 12/14 Hybrid Mattress Review: 4-Layer Foam + Springs"
 meta_description: "Honest Coolvie 12/14 Hybrid Mattress review: 4-layer foam meets pocket springs. Real pros, cons, and who should buy it. 4.3-star rated, 215 reviews."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DG7SP5TM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eK7Bt4lFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hybrid construction with individually wrapped pocket springs — better airflow and less motion transfer than all-foam beds at this price point"
   - "Zoned support foam layers that actually distribute weight evenly, not just marketing fluff"
   - "Choice of 12-inch or 14-inch profile lets you match mattress height to your bed frame or platform"
-cons:
+cons: 
   - "Off-gassing smell on arrival takes 24–48 hours to fully dissipate, which some buyers find off-putting"
   - "Edge support is adequate but not exceptional — sitting on the corner compresses noticeably more than premium hybrids"
+
 ---
 
 ## The Hybrid That Actually Earns the Label

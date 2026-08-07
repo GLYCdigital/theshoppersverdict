@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Houseware Spice Jars Glass Bottles with Shaker Lids, "
 seo_title: "Simple Houseware Spice Jars Glass Bottles with Sha Review"
 meta_description: "Our full simple houseware spice jars glass bottles with shaker lids,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08DZYJVWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91C2U3J0n4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve got a drawer full of mismatched plastic bags and half-empty spice containers from three different stores. That’s the problem these Simple Houseware jars solve. At 4.8 stars from 240 ratings, they’re clearly doing something right — but there are a few things you should know before you hit buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "ZOMISIA Dog Car Seat for Small Dogs - Waterproof Pet Booster"
 seo_title: "ZOMISIA Dog Car Seat for Small Dogs - Waterproof P Review"
 meta_description: "Our full zomisia dog car seat for small dogs - waterproof pet booster review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9GHZ5QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Vq771VXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you drive a small dog anywhere regularly, you've faced the chaos: the 12-pound yapper who insists on your lap at 70 mph, or the one who pancakes onto the floorboard the second you hit the brakes. The ZOMISIA Dog Car Seat for Small Dogs exists to end that circus. At 4.2 stars across 210 ratings, it's not the flashiest option on Amazon, but it's earned its place with a simple formula — sturdy construction, genuinely waterproof materials, and a price point that undercuts most competitors. Here's what 210 owners actually think, and whether it deserves a spot in your back seat.

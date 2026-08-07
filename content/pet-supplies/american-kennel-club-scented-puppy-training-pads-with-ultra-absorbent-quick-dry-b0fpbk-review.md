@@ -1,4 +1,5 @@
 ---
+
 title: "American Kennel Club Scented Puppy Training Pads with Ultra"
 seo_title: "AKC Scented Puppy Training Pads Review (2026): Worth It?"
 meta_description: "Honest AKC Scented Puppy Training Pads review: absorbency, scent appeal, real buyer feedback. See if these ultra pads beat the competition."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPBKJRC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A45YQ4W5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Attractant scent actually works — most puppies zero in on the pad within 2-3 days"
   - "Ultra-absorbent core holds 3+ full urinations before leaking, even for larger breeds"
   - "Quick-dry mesh top layer keeps paws dry, reducing tracking of wet paw prints"
-cons:
+cons: 
   - "Scent can be overpowering for sensitive noses; some puppies avoid the pad entirely"
   - "Not truly 'leak-proof' for overnight use with heavy drinkers — edges can wick if saturated"
   - "Pads are thinner than premium brands like Amazon Basics; need more frequent changes"
+
 ---
 
 ## The AKC Puppy Pad That Actually Smells Like a Target

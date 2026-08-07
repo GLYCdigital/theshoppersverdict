@@ -1,4 +1,5 @@
 ---
+
 title: "Chanel Chanel Coco Mademoiselle Twist & Spray Eau De Parfum"
 seo_title: "Chanel Coco Mademoiselle Twist & Spray Review (2026)"
 meta_description: "Honest Chanel Coco Mademoiselle Twist & Spray review: portability, sillage, longevity, and value. Is the 3x20ml refill set worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0040K65C8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810ElTLYXVL._SL1500_.jpg"
-pros:
+pros: 
   - "Three 20ml refill cartridges give 60ml total — same as a standard bottle, but split into purse-friendly units"
   - "Twist mechanism is genuinely leak-proof; the spray head locks securely between uses"
   - "Signature Coco Mademoiselle scent is identical to the full-size EDP — no dilution or reformulation in travel format"
-cons:
+cons: 
   - "The gold-tone metal case shows fingerprints and scratches quickly — it's a magnet for cosmetic bag wear"
   - "Refill cartridges are proprietary; you're locked into Chanel's refill system at a premium per-ml price"
   - "No atomizer cap on individual cartridges — you must keep them inside the case to spray"
+
 ---
 
 # Chanel Coco Mademoiselle Twist & Spray: Luxury Travel That Actually Works

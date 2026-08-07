@@ -1,4 +1,5 @@
 ---
+
 title: "GOODSMANN Landscape Lighting Pathway Lights Low Voltage 2.2 "
 seo_title: "GOODSMANN Landscape Lighting Pathway Lights Low Vo Review"
 meta_description: "Our full goodsmann landscape lighting pathway lights low voltage 2.2  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BTHM2BCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619e+4qPOKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the "deck spotlight" look. These do the job without the glare.**

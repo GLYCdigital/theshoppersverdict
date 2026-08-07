@@ -1,4 +1,5 @@
 ---
+
 title: "Down To Earth All Natural Fertilizers Bat Guano 7-3-1 Box Or"
 seo_title: "Down To Earth Bat Guano 7-3-1 Review: Natural Fertilizer"
 meta_description: "Down To Earth Bat Guano 7-3-1 review: all-natural fertilizer for flowering plants. Real performance data, application tips, and honest drawbacks."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FTD4CWSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Xpbk3lvbL._SL1500_.jpg"
-pros:
+pros: 
   - "Prilled granules disperse evenly and dissolve without clumping in a watering can"
   - "Smell is mild and earthy — won't offend neighbors or linger indoors"
   - "OMRI-listed for organic gardening; safe for edible crops when applied per label"
-cons:
+cons: 
   - "Nitrogen content (7%) is too low for heavy vegetative growth — this is a bloom-phase fertilizer, not an all-purpose one"
   - "Box packaging can tear at corners during shipping; transfer to an airtight container immediately"
   - "Powder dust during mixing can irritate lungs — wear a mask when handling"
+
 ---
 
 Let me be blunt: bat guano is one of those fertilizers that sounds like a gimmick until you actually use it. I've tested dozens of organic amendments over the years, and Down To Earth's 7-3-1 formulation is the real deal for one specific job—getting plants to flower and fruit. Here's the honest breakdown.

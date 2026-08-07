@@ -1,4 +1,5 @@
 ---
+
 title: "WESTERN HOME Cooling Elevated Dog Bed for Large Dogs, Portab"
 seo_title: "WESTERN HOME Cooling Elevated Dog Bed for Large Do Review"
 meta_description: "Our full western home cooling elevated dog bed for large dogs, portab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BWJ9WSVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tQIBv7ErL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your 80-pound lab has ever pancaked on your living room floor in July, you already know the problem: traditional plush beds trap heat like a down jacket. The WESTERN HOME Cooling Elevated Dog Bed takes a different approach — lift the dog off the ground, let air move underneath, and skip the stuffing entirely. After digging through 220 ratings (4.4 stars) and the spec sheet, here's the real story.

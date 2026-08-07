@@ -1,4 +1,5 @@
 ---
+
 title: "KOUSICOO Shimmer Markers Outline Double Line"
 seo_title: "KOUSICOO Shimmer Markers Outline Double Line Review: Verd"
 meta_description: "Our full kousicoo shimmer markers outline double line review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF5GBL63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813gCqOChWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about what the KOUSICOO Shimmer Markers actually are: a clever hybrid that combines a fine-line outline pen with a shimmering fill color in a single barrel. The concept is simple — you write a letter or draw a shape, and the double-line tip automatically creates a colored outline with a glitter-infused center. No layering, no switching pens, no smudging your work trying to fill in the gaps.

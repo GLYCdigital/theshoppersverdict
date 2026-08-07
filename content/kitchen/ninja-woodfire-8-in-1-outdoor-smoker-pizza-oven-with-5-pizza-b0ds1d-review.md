@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Woodfire 8-in-1 Outdoor Smoker Pizza Oven with 5 Pizza"
 seo_title: "Ninja Woodfire 8-in-1 Outdoor Smoker Pizza Oven wi Review"
 meta_description: "Our full ninja woodfire 8-in-1 outdoor smoker pizza oven with 5 pizza review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DS1DP59S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nO+58EvrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the Ninja Woodfire 8-in-1 is not a pizza oven. It's an outdoor cooking station that happens to make exceptional pizza. That distinction matters, because if you only want pizza, you're paying for seven other functions you might never use. But if you want one unit that smokes briskets, fires out pizzas for a party, and air-crisps wings on the same afternoon, this is the most versatile outdoor cooker I've tested under $500.

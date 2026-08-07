@@ -1,4 +1,5 @@
 ---
+
 title: "SICOTAS Rattan TV Stand"
 seo_title: "SICOTAS Rattan TV Stand Review: Verdict | TSV"
 meta_description: "Our full sicotas rattan tv stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FTT561JV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m+OPkKGrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SICOTAS Rattan TV Stand Review: Boho Style Without the Boho Price Tag

@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Glassy Cat Eye Gel Nail Polish, 16ml Reflective Translu"
 seo_title: "GAOY Glassy Cat Eye Gel Nail Polish, 16ml Reflecti Review"
 meta_description: "Our full gaoy glassy cat eye gel nail polish, 16ml reflective translu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9K42GG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-NPR-FpVL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Cat Eye That Actually Looks Like Glass

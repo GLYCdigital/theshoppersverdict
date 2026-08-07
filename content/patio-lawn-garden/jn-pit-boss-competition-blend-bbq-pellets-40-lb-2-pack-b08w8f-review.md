@@ -1,4 +1,5 @@
 ---
+
 title: "JN Pit Boss Competition Blend BBQ Pellets - 40 lb - (2-Pack)"
 seo_title: "JN Pit Boss Competition Blend BBQ Pellets - 40 lb  Review"
 meta_description: "Our full jn pit boss competition blend bbq pellets - 40 lb - (2-pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08W8FRH1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m7WaYfYZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a pellet grill, you know the drill: run out of fuel mid-brisket, panic-buy whatever's at the hardware store, and regret it for the next six hours. The JN Pit Boss Competition Blend 2-pack solves that problem with 80 pounds of fuel. But is it actually good, or just a lot of mediocre? Here's what 220 Amazon buyers and my own research say.

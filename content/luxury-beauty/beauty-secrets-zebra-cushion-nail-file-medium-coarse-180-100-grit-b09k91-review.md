@@ -1,4 +1,5 @@
 ---
+
 title: "Beauty Secrets Zebra Cushion Nail File Medium/Coarse 180/100 inch"
 seo_title: "Beauty Secrets Zebra Cushion Nail File Review: 180/100 Grit"
 meta_description: "Honest Beauty Secrets Zebra Cushion Nail File review: 180/100 grit dual-sided design, durability, and how it performs on natural and acrylic nails."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09K911XW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Yek2is2vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 180/100 grit surfaces handle both natural nail shaping and acrylic/gel removal without switching tools"
   - "Cushioned core flexes under pressure, reducing heat friction that causes peeling and splitting"
   - "Zebra print coating is genuinely resistant to wear — pattern stays intact after dozens of uses"
-cons:
+cons: 
   - "At roughly 5.5 inches, it's shorter than salon-style files, making the final 30 seconds of shaping less comfortable for larger hands"
   - "Cushion backing collects nail dust between the pad and file edge; requires tapping or a brush to fully clear"
+
 ---
 
 Let me be blunt: most nail files under $10 are disposable junk. The Beauty Secrets Zebra Cushion Nail File is the exception, and with 235 ratings averaging 4.7 stars, I'm not alone in that assessment. This dual-sided 180/100 grit file punches well above its price point — and it's worth understanding exactly why before you add it to your cart.

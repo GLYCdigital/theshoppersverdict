@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Trinsic Gold Bar Faucet, Gold Bar Sink Faucet S"
 seo_title: "Delta Trinsic Gold Bar Faucet Review: Worth the Splurge?"
 meta_description: "Hands-on Delta Trinsic gold bar faucet review: build quality, finish durability, real user feedback, and whether this 4.6-star faucet fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRBV6FM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715ePfqe0DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "VENETIAN BRONZE finish is baked-on and resists fingerprint smudging — verified by multiple long-term owners"
   - "Magnetic docking keeps the pull-down spray head firmly seated; no drooping wand after months of use"
   - "ShieldSpray technology toggles between stream and a powerful 45-degree rinse — genuinely useful for stuck-on food"
-cons:
+cons: 
   - "Gold finish shows water spots more than stainless — expect to wipe it down weekly"
   - "Single-hole install means the optional escutcheon plate must be purchased separately ($25+) if you're covering a 3-hole countertop"
   - "No built-in soap dispenser or smart features; this is a purely mechanical faucet at a premium price point"
+
 ---
 
 If you're shopping for a gold faucet, you've probably noticed the market splits into two camps: cheap brass-colored knockoffs that peel within a year, and premium fixtures that cost as much as a small appliance. The Delta Trinsic Gold Bar Faucet sits firmly in the second camp — and after digging through 229 verified ratings and the spec sheet, I can tell you exactly where that premium goes.

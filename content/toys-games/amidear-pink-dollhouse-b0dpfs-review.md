@@ -1,4 +1,5 @@
 ---
+
 title: "AmiDear Pink Dollhouse"
 seo_title: "AmiDear Pink Dollhouse Review: Worth It? Honest Look"
 meta_description: "AmiDear Pink Dollhouse review: 3.8-star toy with 190 ratings. We break down assembly, durability, and play value to help you decide."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DPFSX6JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-2pGl6v6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy MDF construction with smooth, rounded edges — no splinters or sharp corners"
   - "Comes with 20+ pieces of furniture including a working staircase and removable balcony"
   - "Three floors and five rooms offer genuinely different play zones, not just repeating layouts"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes and requires a Phillips screwdriver — no pre-drilled pilot holes on several pieces"
   - "Furniture pieces are thin plastic that can crack if a child sits or leans on them"
+
 ---
 
 The AmiDear Pink Dollhouse is the kind of toy that looks perfect in the product photos — a three-story pink dream house with furniture, a balcony, and enough rooms to keep a kid busy for hours. But as with most dollhouses in this price range, the gap between the marketing images and the reality of assembly, durability, and play value matters more than the aesthetics. Here's the honest breakdown after digging through 190 ratings.

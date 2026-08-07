@@ -1,4 +1,5 @@
 ---
+
 title: "Purolite An Ecolab Company C100E Water Softener Resin 1 CF"
 seo_title: "Purolite An Ecolab Company C100E Water Softener Re Review"
 meta_description: "Our full purolite an ecolab company c100e water softener resin 1 cf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQYXRB58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gGjxCK9oL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your water softener has been regenerating more often but softening less, the resin inside is likely exhausted — and the fix is cheaper than a new unit. The Purolite C100E is the workhorse refill that plumbers and DIYers consistently trust, and at 4.7 stars across 235 ratings, it's earned that reputation. But is it the right resin for *your* system? Let's break it down.

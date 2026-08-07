@@ -1,4 +1,5 @@
 ---
+
 title: "MELPO LED Flood Light Outdoor, 500W Equivalent 5000LM Smart "
 seo_title: "MELPO LED Flood Light Outdoor, 500W Equivalent 500 Review"
 meta_description: "Our full melpo led flood light outdoor, 500w equivalent 5000lm smart  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CK2C4DQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uaTblLa9L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of porch lights that cast more shadows than light, the MELPO LED Flood Light deserves a serious look. This 500W-equivalent fixture pumps out a genuine 5000 lumens—enough to turn a pitch-black backyard into a safely navigable space. With 229 Amazon ratings averaging 4.6 stars, it's clearly earning its keep. But smart floodlights are a crowded category, so let's break down whether this one actually delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Zebra ZSB Series Labels - Potato Starch-Based Printer Label "
 seo_title: "Zebra ZSB Series Labels - Potato Starch-Based Prin Review"
 meta_description: "Our full zebra zsb series labels - potato starch-based printer label  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0912VH4Q2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a4ZsNed9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Eco Label That Actually Prints Well

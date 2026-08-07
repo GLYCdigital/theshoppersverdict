@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor Floor Lamp Solar Outdoor Lamps for Patio Waterproof "
 seo_title: "Outdoor Floor Lamp Solar Outdoor Lamps for Patio W Review"
 meta_description: "Our full outdoor floor lamp solar outdoor lamps for patio waterproof  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPW682VN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bCKf4OUwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Outdoor Floor Lamp Solar is one of those products that sounds too simple to work well. A freestanding lamp, a solar panel, no wires, no outlet. But after digging through 210 ratings and the build specs, this one earns its 4.2 stars — with a few caveats worth knowing before you click buy.

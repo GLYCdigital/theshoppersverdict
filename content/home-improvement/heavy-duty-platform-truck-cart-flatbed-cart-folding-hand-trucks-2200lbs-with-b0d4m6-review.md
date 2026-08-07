@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Platform Truck Cart, Flatbed Cart Folding Hand Tr"
 seo_title: "Heavy Duty Platform Truck Cart, Flatbed Cart Foldi Review"
 meta_description: "Our full heavy duty platform truck cart, flatbed cart folding hand tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4M61WGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vs9+GbxsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill. You're moving appliances, boxes of tile, a stack of drywall — and your back is already complaining before you've loaded the first one. A decent platform cart is the difference between a day of work and a week of recovery. This heavy duty folding flatbed from the B0D4M6 line promises 2200 pounds of capacity and a footprint that disappears when you're done. Does it deliver? I've dug through the specs, the customer feedback, and the real-world complaints to give you the straight answer.

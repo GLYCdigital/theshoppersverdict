@@ -1,4 +1,5 @@
 ---
+
 title: "JIASTING Mid-Century Modern Solid Loveseat Sofa Bed Upholste"
 seo_title: "JIASTING Mid-Century Modern Solid Loveseat Sofa Be Review"
 meta_description: "Our full jiasting mid-century modern solid loveseat sofa bed upholste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07J5D5LGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WCSwrATXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a $400-ish sofa bed gets you. Usually, it's a flimsy frame disguised as furniture, with cushions that flatten in a month. The JIASTING Mid-Century Modern Loveseat surprises on the construction front — but it has tradeoffs you need to know before you click "add to cart."

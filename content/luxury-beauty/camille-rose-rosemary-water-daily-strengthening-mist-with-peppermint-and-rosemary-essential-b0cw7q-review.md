@@ -1,4 +1,5 @@
 ---
+
 title: "Camille Rose Rosemary Water Daily Strengthening Mist, with P"
 seo_title: "Camille Rose Rosemary Water Mist Review: Real Results?"
 meta_description: "Honest Camille Rose Rosemary Water Daily Strengthening Mist review. Does this peppermint & rosemary spray boost hair growth? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CW7Q9LVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Lightweight, non-greasy formula that doesn't weigh down fine or curly hair"
   - "Strong peppermint tingle that signals active stimulation without burning"
   - "Multipurpose — works as a daily refresher, pre-style mist, and scalp treatment"
-cons:
+cons: 
   - "Scent is heavily peppermint-forward; rosemary is barely detectable and may be overwhelming for sensitive noses"
   - "Bottle atomizer can be inconsistent — some reports of sputtering instead of a fine mist"
+
 ---
 
 You've seen the rosemary oil hair growth trend all over social media. The problem? Most DIY mixtures are greasy, messy, and leave your scalp smelling like a pasta dish. Camille Rose's answer is a water-based mist that claims to deliver those same benefits without the oil slick. Here's the real story after digging through 200+ ratings and customer experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "CATKIN Glossy Lip Balm Ultra Hydating Glow Lip Tinted Jelly"
 seo_title: "CATKIN Glossy Lip Balm Review: Hydrating Tinted Jelly (2026)"
 meta_description: "Honest CATKIN Glossy Lip Balm review: Does this ultra-hydrating tinted jelly live up to the 4.4-star rating? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPW3L3ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lqvK0d8QL._SL1500_.jpg"
-pros:
+pros: 
   - "Sheer-to-medium buildable tint that layers without getting sticky or cakey"
   - "Noticeably hydrating formula that lasts through a few hours without reapplication"
   - "Glass-like glossy finish that flatters most skin tones without glitter or shimmer chunks"
-cons:
+cons: 
   - "Tubes can leak slightly if stored on their side in warm conditions"
   - "Color payoff is lighter than the swatches suggest — fairer shades read almost clear"
+
 ---
 
 **The CATKIN Glossy Lip Balm** sits in that tricky middle ground between a tinted lip oil and a traditional balm. It promises "ultra hydrating" jelly texture with a glossy glow, and at 4.4 stars across 220 Amazon ratings, it's clearly doing something right. The question is whether it's doing enough for your specific needs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie and Teresa Recipe for Friendship Fashion Doll & Playset Review"
 seo_title: "Barbie & Teresa Recipe for Friendship Playset Review (2026)"
 meta_description: "Honest Barbie & Teresa Recipe for Friendship Fashion Doll & Playset review: what's included, quality, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D7PV6YMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eJeHY8q+L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Two fully articulated fashion dolls with rooted hair and detailed face screenings"
   - "Working kitchen play pieces — the oven door opens and the mixer actually spins"
   - "Fits standard Barbie clothing and accessories, so it expands your existing collection"
-cons:
+cons: 
   - "Small accessories like the spatula and measuring cups are easy to lose"
   - "No extra outfit changes included — what you see on the dolls is what you get"
+
 ---
 
 ## Two best friends, one tiny kitchen — and a whole lot of play value

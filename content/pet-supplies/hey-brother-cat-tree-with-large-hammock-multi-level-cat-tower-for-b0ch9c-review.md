@@ -1,4 +1,5 @@
 ---
+
 title: "Hey-brother Cat Tree with Large Hammock, Multi-Level Cat Tow"
 seo_title: "Hey-brother Cat Tree with Large Hammock, Multi-Lev Review"
 meta_description: "Our full hey-brother cat tree with large hammock, multi-level cat tow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CH9C6GJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P5pXFPASL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most cat trees under $100 are glorified cardboard with carpet stapled to them. They wobble, they shed, and your cat ignores them within a week. The Hey-brother Cat Tree with Large Hammock is not that product — but it's not perfect either. Here's what 229 buyers (averaging 4.6 stars) actually found when they unboxed this multi-level tower.

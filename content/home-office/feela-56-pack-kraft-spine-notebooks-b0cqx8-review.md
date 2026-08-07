@@ -1,4 +1,5 @@
 ---
+
 title: "feela 56 pack kraft spine notebooks"
 seo_title: "feela 56 pack kraft spine notebooks Review: Verdict | TSV"
 meta_description: "Our full feela 56 pack kraft spine notebooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQX83WLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CE9cBs-PL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most bulk notebooks are junk. Thin covers that curl, spines that crack after three flips, and paper that bleeds through with a fountain pen. The feela 56-pack kraft spine notebooks aren't that. They're not luxury stationery, but they punch well above their price point for anyone who burns through notebooks like I do.

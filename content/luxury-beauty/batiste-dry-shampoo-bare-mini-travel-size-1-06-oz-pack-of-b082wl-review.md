@@ -1,23 +1,25 @@
 ---
+
 title: "Batiste Dry Shampoo Bare Mini Travel Size 1.06 oz (Pack of 3 inch  "
 seo_title: "Batiste Dry Shampoo Bare Mini Travel Size Review (Pack of 3)"
 meta_description: "Batiste Dry Shampoo Bare Mini Travel Size review: 1.06 oz bottles, pack of 3. Find out if this sheer, no-residue formula works for fine hair & travel."
 slug: "batiste-dry-shampoo-bare-mini-travel-size-1-06-oz-pack-of-b082wl-review"
 image_alt: "Batiste Dry Shampoo Bare Mini Travel Size 1.06 oz pack of three bottles on white background"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B082WLL2SV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714IWFJMKBL._SL1500_.jpg"
-pros:  
+pros: 
   - "Truly invisible formula — no chalky white cast on dark or fine hair"  
   - "Compact 1.06 oz bottles meet TSA carry-on limits and fit in clutches"  
   - "Bare scent is subtle and fresh, not perfumey or overpowering"  
-cons:  
+cons: 
   - "Small size means you'll power through the pack quickly with daily use"  
   - "Absorption power is lighter than Batiste's original formula — oily scalps may need two passes"
+
 ---
 
 If you've ever been burned by a dry shampoo that leaves a gray halo on your roots, you already know the struggle. Batiste's Bare line was designed specifically to fix that, and this travel-size pack of three is the smartest way to test it without committing to a full-size bottle you might hate.

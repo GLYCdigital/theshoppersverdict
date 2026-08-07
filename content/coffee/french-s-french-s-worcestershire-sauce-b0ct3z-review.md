@@ -1,4 +1,5 @@
 ---
+
 title: "French's French ' S Worcestershire Sauce"
 seo_title: "French's Worcestershire Sauce Review: Bold Umami Flavor"
 meta_description: "French's Worcestershire Sauce review: bold umami, versatile cooking staple. See how it stacks up for marinades, soups, and more. Honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CT3ZN7M2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qfroY4lDL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced flavor profile — tangy, sweet, and savory without any single note dominating"
   - "Thicker consistency than leading brands, clings to meat and coats ingredients better"
   - "Versatile — works across marinades, stews, Bloody Marys, and as a table condiment"
-cons:
+cons: 
   - "Higher sodium content per serving (110mg) may be a concern for salt-sensitive shoppers"
   - "Smaller 10 fl oz bottle runs out fast for heavy kitchen users — no larger bulk option listed"
+
 ---
 
 **The Full Review**

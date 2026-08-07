@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Smart Light Bulbs, Color Changing Light Bulb, Compatib"
 seo_title: "Govee Smart Light Bulbs, Color Changing Light Bulb Review"
 meta_description: "Our full govee smart light bulbs, color changing light bulb, compatib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9YFLDQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sixdfNb4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Govee Smart Light Bulb: A Cheap Way to Ditch the Dull Lighting**

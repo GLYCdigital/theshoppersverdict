@@ -1,4 +1,5 @@
 ---
+
 title: "YUQUESEN 980,000 RPM Cordless Leaf Blower - 21V Electric Han"
 seo_title: "YUQUESEN 980,000 RPM Cordless Leaf Blower - 21V El Review"
 meta_description: "Our full yuquesen 980,000 rpm cordless leaf blower - 21v electric han review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0FCF1NPMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZQRXqUZKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YUQUESEN 980,000 RPM Cordless Leaf Blower: A 3.5-Star Reality Check**

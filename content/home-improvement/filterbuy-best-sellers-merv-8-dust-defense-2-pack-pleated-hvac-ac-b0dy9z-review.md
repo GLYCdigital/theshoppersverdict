@@ -1,4 +1,5 @@
 ---
+
 title: "Filterbuy Best Sellers MERV 8 Dust Defense (2-Pack), Pleated"
 seo_title: "Filterbuy MERV 8 Dust Defense Review (2-Pack) — Worth It?"
 meta_description: "Filterbuy MERV 8 Dust Defense 2-pack review: real performance data, durability, and fit. Does this budget filter protect your HVAC? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY9ZV1MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sFgXul31L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced cardboard frame resists warping better than budget filters that bend under airflow pressure"
   - "MERV 8 rating catches pollen, dust mites, and mold spores without choking your blower like a MERV 13 would"
   - "Sold as a 2-pack — practical for systems that need monthly swaps or households with pets"
-cons:
+cons: 
   - "No electrostatic charge means fine particulate (smoke, bacteria) passes through — this is not an allergy filter"
   - "Filtration media is on the thinner side; heavy dust loads may require replacement before the 90-day mark"
   - "Two-pack only — you'll spend more per filter than buying a 6-pack from the same brand"
+
 ---
 
 **The Filter That Does Its Job Without Making Your Furnace Work Overtime**

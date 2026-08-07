@@ -1,4 +1,5 @@
 ---
+
 title: "Roasting Pan with Lid - Covered Oval Roaster - Enamel Carbon"
 seo_title: "Roasting Pan with Lid - Covered Oval Roaster - Ena Review"
 meta_description: "Our full roasting pan with lid - covered oval roaster - enamel carbon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GS1WTT6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zKCXQQ1RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled with a flimsy aluminum roasting pan that buckles under a 12-pound turkey, this covered oval roaster is the upgrade your kitchen has been waiting for. The enameled carbon steel construction gives it the heat retention of cast iron at a fraction of the weight — and the domed lid does the real heavy lifting when it comes to locking in moisture.

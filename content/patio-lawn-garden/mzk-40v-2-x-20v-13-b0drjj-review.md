@@ -1,4 +1,5 @@
 ---
+
 title: "MZK 40V(2 x 20V) 13â€"
 seo_title: "MZK 40V(2 x 20V) 13â€ Review: Verdict | TSV"
 meta_description: "Our full mzk 40v(2 x 20v) 13â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DRJJ2246/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZosX8+o1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring up at a maple branch scraping your roof and dreading the ladder dance, the MZK 40V pole saw is the kind of tool that makes you wonder why you waited. This is a cordless, gas-free solution for the 80% of homeowners whose tree-trimming needs top out around 5-inch diameter branches. It's not perfect — the battery charging quirk will test your patience — but for the price, it punches well above its weight.

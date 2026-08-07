@@ -1,4 +1,5 @@
 ---
+
 title: "Clairol Balsam Permanent Hair Dye with 100% Gray Coverage"
 seo_title: "Clairol Balsam Permanent Hair Dye Review: 100% Gray Coverage"
 meta_description: "Honest Clairol Balsam Permanent Hair Dye review: does it truly deliver 100% gray coverage? Real results, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DH9MSHTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QtwJ+suHL._SL1500_.jpg"
-pros:
+pros: 
   - "Ammonia-free formula with built-in balsam conditioner leaves hair noticeably softer than typical box dyes"
   - "True 100% gray coverage on stubborn roots — even resistant coarse gray hair — in a single application"
   - "Wide shade range with realistic, non-flat results; color doesn't look painted-on or uniform"
-cons:
+cons: 
   - "Permanent formula means commitment — no fading out after a few weeks if you dislike the shade"
   - "Some users report the balsam conditioner can weigh down fine or thin hair if over-applied"
   - "Color may run slightly darker than the swatch on the box, especially on previously colored hair"
+
 ---
 
 Let's be direct: most box hair dyes promise "100% gray coverage" and deliver 70%. The Clairol Balsam Permanent Hair Dye is one of the few that actually backs it up. With 225 ratings averaging 4.5 stars, this isn't a hype-driven product — it's a workhorse that's earned its place in medicine cabinets across America. But it's not perfect, and you need to know where it falls short before you commit.

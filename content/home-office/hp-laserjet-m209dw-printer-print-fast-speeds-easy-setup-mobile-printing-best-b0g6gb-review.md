@@ -1,4 +1,5 @@
 ---
+
 title: "HP LaserJet M209dw Printer, Print, Fast speeds, Easy Setup, "
 seo_title: "HP LaserJet M209dw Printer, Print, Fast speeds, Ea Review"
 meta_description: "Our full hp laserjet m209dw printer, print, fast speeds, easy setup,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G6GBWWDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GRNyljp-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP LaserJet M209dw doesn't try to be everything. It's a monochrome laser printer that does one thing—fast, crisp text printing—and does it well enough to earn a solid 4.2-star rating from 210 buyers. But before you click buy, let's talk about what you're actually getting, because this machine has a split personality: brilliant for some, frustrating for others.

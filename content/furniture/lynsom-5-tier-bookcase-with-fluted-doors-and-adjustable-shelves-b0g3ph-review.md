@@ -1,4 +1,5 @@
 ---
+
 title: "LYNSOM 5-Tier Bookcase with Fluted Doors and Adjustable Shel"
 seo_title: "LYNSOM 5-Tier Bookcase with Fluted Doors and Adjus Review"
 meta_description: "Our full lynsom 5-tier bookcase with fluted doors and adjustable shel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G3PHSZP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810bytaoSEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past bookcases that all look like identical rectangle boxes, the LYNSOM 5-Tier with fluted doors is the one that makes you stop. The textured door fronts give it a custom-built look that sells for triple elsewhere. But is it actual quality or just a good photo? I dug through 240 ratings and the spec sheet to find out.

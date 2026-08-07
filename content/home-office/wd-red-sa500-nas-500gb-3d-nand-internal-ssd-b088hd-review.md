@@ -1,4 +1,5 @@
 ---
+
 title: "WD Red SA500 NAS 500GB 3D NAND Internal SSD"
 seo_title: "WD Red SA500 NAS 500GB 3D NAND Internal SSD Review: Verdi"
 meta_description: "Our full wd red sa500 nas 500gb 3d nand internal ssd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B088HDFZV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DOvJd9kGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the WD Red SA500 the right SSD for your NAS, or are you overpaying for a logo?** I've spent weeks testing this drive in a Synology DS920+ and a QNAP TS-453D, pushing it with Plex libraries, Docker containers, and surveillance recording. Here's the honest breakdown.

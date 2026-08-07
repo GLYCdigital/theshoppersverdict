@@ -1,4 +1,5 @@
 ---
+
 title: "InSinkErator Power .75HP, 3/4 HP Garbage Disposal, Power Ser"
 seo_title: "InSinkErator Power .75HP, 3/4 HP Garbage Disposal, Review"
 meta_description: "Our full insinkerator power .75hp, 3/4 hp garbage disposal, power ser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWMTM17V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WgSYMOcwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Who actually needs this disposal?**

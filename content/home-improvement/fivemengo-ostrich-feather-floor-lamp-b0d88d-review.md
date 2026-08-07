@@ -1,4 +1,5 @@
 ---
+
 title: "Fivemengo Ostrich Feather Floor Lamp"
 seo_title: "Fivemengo Ostrich Feather Floor Lamp Review (2026)"
 meta_description: "Honest Fivemengo Ostrich Feather Floor Lamp review: build quality, light output, shedding issues, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D88D3X7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tIXLid5UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Feathers are dense and full — actually looks like the product photos, not a sparse afterthought"
   - "Three-level dimming via foot switch is genuinely useful for mood lighting"
   - "Stable weighted base handles the tall pole without tipping, even on carpet"
-cons:
+cons: 
   - "Feathers shed noticeably for the first week — plan on vacuuming daily or running a hairdryer over them"
   - "Assembly requires patience; the feather sections attach via small screws that are fiddly to align"
   - "Not a reading lamp — the shade directs light upward and diffuses it, so brightness is ambient at best"
+
 ---
 
 Some lamps are furniture. This one is a statement. The Fivemengo Ostrich Feather Floor Lamp is the kind of piece that makes guests ask where you got it before they even sit down. But before you drop your money on something this theatrical, you need to know what you're actually buying — and what you're signing up for maintenance-wise.

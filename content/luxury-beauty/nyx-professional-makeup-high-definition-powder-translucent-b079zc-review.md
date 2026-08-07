@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP High Definition Powder, Translucent"
 seo_title: "NYX PROFESSIONAL MAKEUP High Definition Powder, Tr Review"
 meta_description: "Our full nyx professional makeup high definition powder, translucent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B079ZC5XSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XmClaLAuL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time in beauty circles, you've heard the name. The NYX Professional Makeup High Definition Powder in Translucent has become one of those cult products that beauty influencers either swear by or swear at. At $9.99, it sits in that sweet spot between drugstore and prestige — but does it actually perform like the high-end HD powders it's constantly compared to? I tested it for two weeks across different foundations, application methods, and lighting conditions. Here's the unvarnished truth.

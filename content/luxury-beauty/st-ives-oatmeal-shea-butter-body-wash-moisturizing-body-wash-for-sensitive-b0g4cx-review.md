@@ -1,4 +1,5 @@
 ---
+
 title: "St. Ives Oatmeal & Shea Butter Body Wash | Moisturizing Body"
 seo_title: "St. Ives Oatmeal & Shea Butter Body Wash | Moistur Review"
 meta_description: "Our full st. ives oatmeal & shea butter body wash | moisturizing body review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G4CXR5TW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/411U-VBwsBL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **St. Ives Oatmeal & Shea Butter Body Wash Review: Bargain Skincare That Actually Works**

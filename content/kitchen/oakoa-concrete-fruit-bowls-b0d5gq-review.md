@@ -1,4 +1,5 @@
 ---
+
 title: "OAKOA Concrete Fruit Bowls"
 seo_title: "OAKOA Concrete Fruit Bowls Review: Verdict | TSV"
 meta_description: "Our full oakoa concrete fruit bowls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5GQVRQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tFVot7ubL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most fruit bowls are forgettable. You buy them, you stack oranges in them, you forget they exist. The OAKOA Concrete Fruit Bowls are not that. These things have presence — the kind of weighty, tactile heft that makes you notice them every time you walk past your counter. But that same presence comes with tradeoffs you need to know about before you commit.

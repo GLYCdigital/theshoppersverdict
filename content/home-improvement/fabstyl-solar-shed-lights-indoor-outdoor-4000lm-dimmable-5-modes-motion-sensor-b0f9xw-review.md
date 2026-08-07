@@ -1,4 +1,5 @@
 ---
+
 title: "FabStyl Solar Shed Lights Indoor Outdoor, 4000LM Dimmable 5 inch"
 seo_title: "FabStyl Solar Shed Light Review: 4000LM Dimmable & Motion Sensor"
 meta_description: "FabStyl Solar Shed Lights 4000LM review: bright, dimmable, 5 modes. See real buyer feedback, battery life, and whether it's worth it for your shed."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9XWL6SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aV6QoLfFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three independently adjustable panels deliver a true 4000 lumens — genuinely bright enough to light a full workshop, not just a closet"
   - "Dimmable from 100% down to 10% with a responsive remote, so you can set the perfect ambiance without getting up"
   - "Motion sensor actually works in both indoor and outdoor conditions, avoiding most false triggers from passing cars"
-cons:
+cons: 
   - "Battery life at full brightness is roughly 4-6 hours on a good sunny day — you will need daily direct sun or the panel will struggle"
   - "Mounting hardware is basic plastic brackets; you'll want your own screws and anchors for anything beyond a wooden shed wall"
+
 ---
 
 If you've been burned by "solar" lights that glow like a dying firefly after an hour, the FabStyl 4000LM unit is a different animal. This isn't a decorative accent light — it's a functional replacement for a wired fixture in a shed, garage, or workshop. The three-panel design (each roughly 6.5 x 4 inches) spreads light across a wide area rather than throwing one harsh spotlight. As shown in the product image, the panels rotate on their mounts, so you can angle them toward workbenches, shelving, or that corner where you keep dropping screws.

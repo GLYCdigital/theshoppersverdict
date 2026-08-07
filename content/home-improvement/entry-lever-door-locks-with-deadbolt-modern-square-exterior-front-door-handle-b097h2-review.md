@@ -1,4 +1,5 @@
 ---
+
 title: "Entry Lever Door Locks with Deadbolt - Modern Square Exterio"
 seo_title: "Entry Lever Door Locks with Deadbolt Review (2026) | Square Exterior"
 meta_description: "Honest review of the Entry Lever Door Lock with Deadbolt — modern square design, solid feel, but check alignment. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097H2MG41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516ids6taBL._AC_SL1274_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a true satin nickel finish — resists fingerprints better than most brass or oil-rubbed options"
   - "Lever and deadbolt share the same modern square aesthetic, so the front door looks cohesive rather than mismatched"
   - "Deadbolt throws smoothly with a satisfying, solid thunk — no wobbly keyway or binding even after 3 months of daily use"
-cons:
+cons: 
   - "Strike plate screws are soft — two stripped during install even with a hand screwdriver; budget for aftermarket screws"
   - "No smart lock or keypad option in this line — if you want keyless entry, this isn't it"
+
 ---
 
 The front door is the first thing people touch when they visit your house. If it feels flimsy or looks dated, that's the impression you leave. This Entry Lever Door Lock with Deadbolt from the Modern Square Exterior line is trying to fix both problems at once — and for the most part, it succeeds.

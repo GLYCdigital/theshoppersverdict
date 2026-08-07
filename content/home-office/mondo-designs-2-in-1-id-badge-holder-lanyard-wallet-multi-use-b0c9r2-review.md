@@ -1,4 +1,5 @@
 ---
+
 title: "Mondo Designs 2-in-1 ID Badge Holder & Lanyard Wallet - Mult"
 seo_title: "Mondo Designs 2-in-1 ID Badge Holder & Lanyard Wal Review"
 meta_description: "Our full mondo designs 2-in-1 id badge holder & lanyard wallet - mult review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9R2LJ8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915NwtF2QpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment at the front desk — security badge in one hand, phone in the other, trying to swipe through while juggling a coffee? The Mondo Designs 2-in-1 ID Badge Holder & Lanyard Wallet attempts to solve exactly that. And for most office workers, nurses, and facility staff, it largely succeeds — with a few tradeoffs worth knowing before you click buy.

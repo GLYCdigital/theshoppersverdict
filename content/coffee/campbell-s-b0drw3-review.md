@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's"
 seo_title: "Campbell's Coffee Maker Review: Worth It? (2026)"
 meta_description: "Campbell's coffee maker review: 4.6-star rated brewer tested for performance, build, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRW3JPF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ICfs8yKeL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brewing temperature yields full-flavored extraction without bitterness"
   - "48-ounce carafe with ergonomic handle pours cleanly, no drips down the side"
   - "Programmable 24-hour timer with auto-shutoff is genuinely intuitive, not buried in menus"
-cons:
+cons: 
   - "No built-in grinder — you'll need whole beans ground separately"
   - "Carafe lid isn't fully sealed; coffee cools faster if you brew and walk away"
   - "Water reservoir lacks measurement markings below the 4-cup line"
+
 ---
 
 **Campbell's Coffee Maker Review: Solid Brews, Zero Gimmicks**

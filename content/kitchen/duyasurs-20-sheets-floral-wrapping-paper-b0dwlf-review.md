@@ -1,4 +1,5 @@
 ---
+
 title: "Duyasurs 20 Sheets Floral Wrapping Paper"
 seo_title: "Duyasurs Floral Wrapping Paper Review: 20 Sheets, Worth It?"
 meta_description: "Duyasurs 20-sheet floral wrapping paper review: quality, thickness, and design. See real buyer feedback and who should buy this gift wrap set."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWLFJLSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71avYrPyw3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four distinct floral patterns per set, so you're not stuck wrapping every gift in the same design"
   - "Thicker than dollar-store wrap — resists tearing at corners and holds creases well"
   - "Reverse side is blank, making it ideal for handwritten notes or custom decorating"
-cons:
+cons: 
   - "Sheets come fan-folded, so creases are baked in and won't fully flatten on larger gifts"
   - "At 20 inches by 28 inches, it's tight for wrapping oversized boxes or tall bottles"
+
 ---
 
 Look, I've wrapped enough gifts to know that most floral wrapping paper falls into two categories: flimsy tissue that rips the second you pull it taut, or glossy cardstock that fights every fold. The Duyasurs 20-sheet set sits somewhere more useful — it's a mid-weight paper that actually behaves like paper instead of a stubborn plastic film. With a 4.8-star average across 240 ratings, it's clearly winning over casual gift-givers. Here's the honest breakdown.

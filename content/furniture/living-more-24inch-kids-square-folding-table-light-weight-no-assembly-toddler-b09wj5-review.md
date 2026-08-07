@@ -1,4 +1,5 @@
 ---
+
 title: "Living & More 24inch Kids Square Folding Table, Light Weight"
 seo_title: "Living & More 24inch Kids Square Folding Table, Li Review"
 meta_description: "Our full living & more 24inch kids square folding table, light weight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WJ5THD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ECMdm-RtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The No-Tools Toddler Table That Actually Gets Used

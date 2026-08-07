@@ -1,16 +1,17 @@
 ---
+
 title: "Vital Proteins Matcha Collagen Peptides Powder, 10.5oz | Matcha Green Tea & Collagen Peptides, Supports Hair Skin & Nails, Daily Wellness Support, 21 Servings"
 seo_title: "Vital Proteins Matcha Collagen Review: Verdict (4.2/5) | TSV"
 meta_description: "Our honest Vital Proteins Matcha Collagen Peptides review: real buyer quotes on skin results, matcha taste, and mixing. Does this 2-in-1 collagen actually work? Verdict inside."
 slug: "vital-proteins-matcha-collagen-peptides-powder-review"
 image_alt: "Vital Proteins Matcha Collagen Peptides powder jar"
-keywords:
+keywords: 
   - "vital proteins matcha collagen review"
   - "matcha collagen peptides"
   - "collagen powder for skin"
   - "matcha green tea collagen"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Does Vital Proteins Matcha Collagen actually help skin and hair?"
     answer: "Many reviewers report visible results within a week to a month. One said her skin was 'glowing and a lot of fine lines have erased' within a week, while another noticed firmer, dewier skin after adding it as the only new thing to her routine."
   - question: "Does Vital Proteins Matcha Collagen taste like real matcha?"
@@ -24,16 +25,17 @@ review_count: 5923
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BLF3X7ZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5119InMS9iL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Real matcha flavor — not a generic green tea powder"
   - "Dissolves cleanly in hot or cold liquids with no clumping"
   - "Visible skin results reported by multiple reviewers"
   - "Mild caffeine lift without jitters, good coffee alternative"
-cons:
+cons: 
   - "No scoop included in the jar"
   - "Lighter, grassier taste than ceremonial-grade matcha"
   - "One reviewer found the container noticeably underfilled"
   - "Premium price for 21 servings"
+
 ---
 
 Let me be direct: this isn't a kitchen appliance or gadget. It's a wellness powder, and if you're here because you want to know whether it's worth $43, here's the honest breakdown.

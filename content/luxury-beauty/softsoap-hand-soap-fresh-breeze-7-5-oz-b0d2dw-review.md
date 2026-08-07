@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Hand Soap Fresh Breeze 7.5 Oz"
 seo_title: "Softsoap Hand Soap Fresh Breeze 7.5 Oz Review: Verdict | "
 meta_description: "Our full softsoap hand soap fresh breeze 7.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D2DWG322/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hAk-HnuVL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Softsoap Fresh Breeze 7.5 oz Review: The $3 Hand Soap That Punches Way Above Its Weight**

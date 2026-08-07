@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Forts! 69 Piece Buildable Indoor/Outdoor Play Fort Pla"
 seo_title: "Crazy Forts 69-Piece Fort Kit Review: Worth It? (2026)"
 meta_description: "Crazy Forts 69-piece fort builder review: real-world testing, build quality, and honest downsides. See if this DIY fort kit is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F677ZWX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718y54FaBDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plastic rods and connectors are genuinely durable — they survive being sat on, jumped on, and dragged across floors"
   - "Works with standard bedsheets and blankets, so you're not locked into buying proprietary covers"
   - "69 pieces give you enough to build a solid 4-5 foot structure that fits two kids comfortably"
-cons:
+cons: 
   - "Base kit doesn't include sheets or a carrying case — you'll need to supply blankets separately"
   - "Connectors can pop loose under heavy leaning or rough play; younger kids may need help reassembling mid-play"
   - "Storage is awkward — the rods are long and don't collapse, so plan shelf or closet space accordingly"
+
 ---
 
 # Crazy Forts! 69-Piece Buildable Fort Kit: The Real Story

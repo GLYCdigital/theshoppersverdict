@@ -1,4 +1,5 @@
 ---
+
 title: "PetAg Fresh â€™n Clean Oatmeal â€™n Baking Soda Shampoo - Tr"
 seo_title: "PetAg Fresh â€™n Clean Oatmeal â€™n Baking Soda Sh Review"
 meta_description: "Our full petag fresh â€™n clean oatmeal â€™n baking soda shampoo - tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DGZT479/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HMk4pY5SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **PetAg Fresh 'n Clean Oatmeal 'n Baking Soda Shampoo Review: The 4.7-Star Workhorse for Smelly Dogs**

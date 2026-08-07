@@ -1,4 +1,5 @@
 ---
+
 title: "Life Savers Hard Candy 5 Flavors - 5 lbs of Candy - Individu"
 seo_title: "Life Savers Hard Candy 5 Flavors - 5 lbs of Candy  Review"
 meta_description: "Our full life savers hard candy 5 flavors - 5 lbs of candy - individu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F4L4K2XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SEHtqLObL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you don't buy a 5-pound bag of Life Savers because you're planning a balanced diet. You buy it because you need a serious, long-term candy supply for an office, a household with kids, or a candy dish that never seems to stay full. The question is whether this bulk option actually delivers — and after digging through 240 ratings averaging 4.8 stars, the answer is mostly yes, with a few caveats worth knowing before you click.

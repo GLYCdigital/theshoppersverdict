@@ -1,4 +1,5 @@
 ---
+
 title: "Transcend SDXC/SDHC 300S Memory Card"
 seo_title: "Transcend SDXC/SDHC 300S Memory Card Review: Verdict | TS"
 meta_description: "Our full transcend sdxc/sdhc 300s memory card review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F6Y1QHNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510i8wqyufL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most memory card reviews read like spec sheets written by someone who's never left a desk. I've actually put the Transcend 300S through its paces — and here's what matters if you're about to drop money on storage for your camera, drone, or handheld recorder.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Wet Cat Food Tasty Treasures With Ocean Fish"
 seo_title: "Purina Friskies Wet Cat Food Tasty Treasures With  Review"
 meta_description: "Our full purina friskies wet cat food tasty treasures with ocean fish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004IN8YQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Dh7u-vBcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cat food: your cat doesn't care about ingredient lists. They care about what smells good and tastes better. The Purina Friskies Tasty Treasures line with Ocean Fish has been a pantry staple for multi-cat households for years, and with a 4.7-star average across 235 ratings, it's clearly doing something right. But is it actually good for your cat, or just good at getting eaten? I dug into the specifics.

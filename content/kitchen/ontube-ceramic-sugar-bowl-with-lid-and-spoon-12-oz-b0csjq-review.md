@@ -1,4 +1,5 @@
 ---
+
 title: "ONTUBE Ceramic Sugar Bowl with Lid and Spoon 12 oz"
 seo_title: "ONTUBE Ceramic Sugar Bowl with Lid and Spoon 12 oz Review"
 meta_description: "Our full ontube ceramic sugar bowl with lid and spoon 12 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSJQV918/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517CCtG1wCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most sugar bowls are either too small to be useful or too cheap to survive daily use. The ONTUBE 12 oz ceramic version sits in a sweet spot — literally and figuratively. After testing it alongside a $10 thrift-store find and a $30 designer option, this one does the job without fuss. Here's the full breakdown.

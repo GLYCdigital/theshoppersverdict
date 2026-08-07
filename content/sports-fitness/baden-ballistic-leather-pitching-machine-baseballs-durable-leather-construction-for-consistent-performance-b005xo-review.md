@@ -1,4 +1,5 @@
 ---
+
 title: "Baden Ballistic Leather Pitching Machine Baseballs | Durable"
 seo_title: "Baden Ballistic Leather Baseballs Review: Durable & Machine-Ready"
 meta_description: "Baden Ballistic Leather Pitching Machine Baseballs review: real durability data, stitching quality, and whether these hold up in practice. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B005XOI8H0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717nEJBB7YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised seams hold up through 500+ machine cycles without flattening, per multiple long-term user reports"
   - "Full-grain leather cover resists tearing better than synthetic balls at similar price points"
   - "Consistent 9-inch circumference and 5-ounce weight across the dozen — no wild variance between balls"
-cons:
+cons: 
   - "Leather cover scuffs noticeably on cage netting and turf — cosmetic wear appears within first few sessions"
   - "Not USSSA or ASA certified for live game play — strictly a practice/machine ball despite the pro look"
+
 ---
 
 Let me be upfront: most pitching machine balls are either too soft to feel real or too hard to trust with your expensive machine. The Baden Ballistic Leather sits in a useful middle ground — and that's exactly why it's earned 200 ratings averaging 4.0 stars.

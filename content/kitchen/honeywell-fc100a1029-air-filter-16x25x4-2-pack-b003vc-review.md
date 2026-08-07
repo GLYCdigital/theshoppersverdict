@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell FC100A1029 Air Filter - 16x25x4 - 2-Pack"
 seo_title: "Honeywell FC100A1029 Air Filter - 16x25x4 - 2-Pack Review"
 meta_description: "Our full honeywell fc100a1029 air filter - 16x25x4 - 2-pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B003VCI7RW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MX3z9mPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most air filters are commodity junk. Cardboard frames that warp, pleats that collapse, and "high efficiency" claims that mean nothing. The Honeywell FC100A1029 isn't that — but it's also not perfect. Here's the real breakdown after looking at how this filter actually performs in the 4-inch return vent slot it's designed for.

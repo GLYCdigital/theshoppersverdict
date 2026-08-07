@@ -1,4 +1,5 @@
 ---
+
 title: "Diffuser Hair Dryer for Curly Hair – Ionic Technology Hair"
 seo_title: "Diffuser Hair Dryer for Curly Hair Review: Ionic Tech (2026)"
 meta_description: "Honest review of the Ionic Technology diffuser hair dryer for curly hair. Does it cut frizz and dry time? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8WRZV2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pr6squj0L._SL1254_.jpg"
-pros:
+pros: 
   - "Cuts dry time by roughly 30% compared to standard dryers thanks to true ionic generation, not just a marketing sticker"
   - "Diffuser bowl is deep and wide enough for thick 3B–4C curls without cramming or crushing the curl pattern"
   - "Cool-shot button actually delivers cold air instantly, not lukewarm air that slowly cools"
-cons:
+cons: 
   - "Heavier than expected at 1.4 pounds — arm fatigue kicks in during longer styling sessions"
   - "No concentrator nozzle included, so it's useless for straightening or silk-pressing between washes"
   - "Heat settings run hot even on 'low' — fine for coarse hair, risky for fine or damaged curls"
+
 ---
 
 ## The Curly Girl's Dilemma, Addressed

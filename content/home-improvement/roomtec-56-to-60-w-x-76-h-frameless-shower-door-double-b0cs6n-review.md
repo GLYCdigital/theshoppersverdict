@@ -1,4 +1,5 @@
 ---
+
 title: "ROOMTEC 56 to 60'' W x 76'' H Frameless Shower Door, Double "
 seo_title: "ROOMTEC 56 to 60'' W x 76'' H Frameless Shower Doo Review"
 meta_description: "Our full roomtec 56 to 60'' w x 76'' h frameless shower door, double  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CS6NN6LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71svOVUpidL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ROOMTEC 56 to 60'' W x 76'' H Frameless Shower Door, Double: The $400 Gamble That Mostly Pays Off

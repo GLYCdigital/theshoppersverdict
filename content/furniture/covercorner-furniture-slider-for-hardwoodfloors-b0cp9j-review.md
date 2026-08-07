@@ -1,4 +1,5 @@
 ---
+
 title: "COVERCORNER Furniture Slider for HardwoodFloors"
 seo_title: "COVERCORNER Furniture Sliders Review: Do They Protect Hardwood?"
 meta_description: "Honest COVERCORNER furniture slider review for hardwood floors. Tested on sofas, tables, chairs. See pros, cons, and whether they're worth buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP9JBJV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TH5CrqtxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 3mm felt pad prevents scratches even on heavy furniture; no adhesive residue when removed"
   - "Self-adhesive backing holds firm on uneven or tapered legs after proper 24-hour cure time"
   - "Works on all hard surfaces — hardwood, tile, laminate, and vinyl — without leaving marks"
-cons:
+cons: 
   - "Not ideal for carpets or rugs; sliders will catch and bunch the fibers"
   - "Weight capacity drops significantly on legs smaller than 1 inch in diameter"
+
 ---
 
 If you've ever dragged a sofa across a hardwood floor and heard that gut-wrenching screech, you know the feeling. The COVERCORNER Furniture Slider aims to end that nightmare for good. With 225 ratings and a 4.5-star average, it's clearly doing something right. But is it the right slider for your specific furniture? Let's dig in.

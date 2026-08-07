@@ -1,4 +1,5 @@
 ---
+
 title: "AC Pacific Metal Barstool – Country Rustic Style with Low"
 seo_title: "AC Pacific Metal Barstool Review: Rustic, Sturdy, Low-Back"
 meta_description: "Honest AC Pacific Metal Barstool review: country rustic low-back design, real-world durability, buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G5ZGQH5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WgaE-TpKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine country rustic aesthetic — the distressed black finish looks intentional, not cheap, and pairs well with farmhouse or industrial decor."
   - "Feels far more solid than the price suggests; the all-metal construction doesn't wobble or creak under normal use."
   - "Lightweight enough to move one-handed between kitchen island and counter, yet stable once you're seated."
-cons:
+cons: 
   - "No floor protection on the feet — on hardwood or tile, you'll want felt pads or the legs will scratch."
   - "The low-back design means zero lumbar support; fine for quick meals, not for a two-hour dinner marathon."
   - "Paint finish can chip if you bang the frame against cabinets or other stools during stacking or moving."
+
 ---
 
 If you're hunting for a barstool that actually looks like it belongs in a rustic farmhouse — not a flimsy knockoff with a fake wood grain sticker — the AC Pacific Metal Barstool earns a serious look. With 215 ratings averaging 4.3 stars, this one's clearly doing something right. After digging through the specs and buyer feedback, here's the real story.

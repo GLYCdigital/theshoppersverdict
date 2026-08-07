@@ -1,4 +1,5 @@
 ---
+
 title: "E-Z Ink Pro LC203 Compatible Ink Cartridges Replacement for"
 seo_title: "E-Z Ink Pro LC203 Review: Reliable Brother Ink Alternative (2026)"
 meta_description: "E-Z Ink Pro LC203 compatible ink cartridges: Do they match Brother OEM quality? Our honest review covers yield, print quality, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CM5ZZHPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yP+Hrwe+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chipset reliably resets and reports accurate ink levels — no error codes or 'cannot detect cartridge' messages"
   - "Color accuracy is surprisingly close to Brother OEM, especially on glossy photo paper"
   - "Black ink dries fast and resists smudging on standard copy paper"
-cons:
+cons: 
   - "Yield falls short of Brother's LC203XL rating — expect roughly 15-20% fewer pages than OEM"
   - "Cyan cartridge can run low faster than others in the 4-pack, causing premature replacement of the set"
+
 ---
 
 The E-Z Ink Pro LC203 compatible ink cartridges are the kind of product that makes you question why you've been paying OEM prices for Brother ink. At 4.5 stars across 225 ratings, this 4-pack is one of the better-selling third-party options for Brother printers using the LC203 series — and for good reason. But before you add it to your cart, there are a few things worth knowing.

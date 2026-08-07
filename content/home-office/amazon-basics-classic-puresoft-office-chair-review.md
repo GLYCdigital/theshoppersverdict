@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Office Chair"
 seo_title: "Amazon Basics Office Chair Review: Worth It in 2026?"
 meta_description: "Honest Amazon Basics Office Chair review: comfort, build quality, and value at $84. Real buyer feedback on assembly, support, and durability."
@@ -11,14 +12,15 @@ review_count: 40351
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B081H3Y5NW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XrK-bAifL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely comfortable for the price — the padded seat and breathable mesh back offer solid support for 2-4 hour sessions"
   - "Exceedingly simple assembly — most buyers finish in under 15 minutes with the included Allen wrench"
   - "Surprisingly sturdy 250 lb weight capacity and smooth-rolling casters on both carpet and hard floors"
-cons:
+cons: 
   - No lumbar support adjustment — the fixed curve misses the mark for taller users (6'0 inch "+)
   - "Seat depth is shallow at 18.5 inches; buyers with longer thighs report pressure on the backs of their knees"
   - "Armrests are non-adjustable and feel slightly wobbly under heavy leaning"
+
 ---
 
 At $84, the Amazon Basics Office Chair isn't trying to be a Herman Miller. It's trying to be the desk chair that gets you through a workday without wrecking your back or your bank account. With over 40,000 ratings averaging 4.2 stars, it's clearly doing something right — but is it the right chair for *you*?

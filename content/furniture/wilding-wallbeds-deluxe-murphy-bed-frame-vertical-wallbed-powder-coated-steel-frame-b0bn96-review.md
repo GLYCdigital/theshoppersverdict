@@ -1,4 +1,5 @@
 ---
+
 title: "Wilding Wallbeds Deluxe Murphy Bed Frame Vertical Wallbed, P"
 seo_title: "Wilding Wallbeds Deluxe Murphy Bed Frame Vertical  Review"
 meta_description: "Our full wilding wallbeds deluxe murphy bed frame vertical wallbed, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN96B8X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+m0W-+YxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $2,000 Question: Is a Murphy Bed Worth It?**  

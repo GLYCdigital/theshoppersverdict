@@ -1,4 +1,5 @@
 ---
+
 title: "LITTLE TREE 70.9-Inch Long Console Table, Narrow Sofa Table "
 seo_title: "LITTLE TREE 70.9-Inch Long Console Table, Narrow S Review"
 meta_description: "Our full little tree 70.9-inch long console table, narrow sofa table  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM4YHTF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A5AaZMG9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the product-page poetry. A 70-inch console table for behind your sofa is a specific purchase for a specific problem: that dead space between your couch and the wall that swallows phone chargers and collects dust. The LITTLE TREE 70.9-Inch Long Console Table attacks that problem with a narrow profile and real storage capacity. Here's whether it actually delivers.

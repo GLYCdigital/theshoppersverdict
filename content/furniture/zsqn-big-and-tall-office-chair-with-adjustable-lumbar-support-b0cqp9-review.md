@@ -1,4 +1,5 @@
 ---
+
 title: "ZSQN Big and Tall Office Chair with Adjustable Lumbar Suppor"
 seo_title: "ZSQN Big and Tall Office Chair with Adjustable Lum Review"
 meta_description: "Our full zsqn big and tall office chair with adjustable lumbar suppor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQP9R1HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ko6EQz8PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 400-pound capacity is real, but is the ZSQN Big and Tall Office Chair actually comfortable for a full workday? I tested it for three weeks and dug through 220 Amazon ratings to give you the honest picture.**

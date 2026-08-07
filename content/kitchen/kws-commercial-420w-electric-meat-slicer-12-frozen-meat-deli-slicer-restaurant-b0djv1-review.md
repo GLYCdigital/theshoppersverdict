@@ -1,7 +1,8 @@
 ---
-title: "KWS Commercial 420W Electric Meat Slicer 12\" Frozen Meat Del"
-seo_title: "KWS Commercial 420W Electric Meat Slicer 12\" Froze Review"
-meta_description: "Our full kws commercial 420w electric meat slicer 12\" frozen meat del review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "KWS Commercial 420W Electric Meat Slicer 12\ Frozen Meat Del"
+seo_title: "KWS Commercial 420W Electric Meat Slicer 12\ Froze Review"
+meta_description: "Our full kws commercial 420w electric meat slicer 12\ frozen meat del review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kws-commercial-420w-electric-meat-slicer-12-frozen-meat-deli-slicer-restaurant-b0djv1-review"
 image_alt: "KWS Commercial 420W Electric Meat Slicer 12 Frozen Meat Deli Slicer Restaurant and Home Use [ETL, NSF Certified]"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJV1WR9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I60cN-DZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KWS Commercial 420W Electric Meat Slicer is aimed squarely at anyone who's tired of paying deli prices or wrestling with hand slicers. With 200 Amazon ratings averaging 4.0 stars, it's clearly getting the job done for a lot of people. But at this price point, "commercial" is a loaded word. Here's what you're actually getting.

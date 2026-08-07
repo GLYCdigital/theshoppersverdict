@@ -1,4 +1,5 @@
 ---
+
 title: "BioAdvanced 700350A Termite Killer Home Perimeter Treatment"
 seo_title: "BioAdvanced Termite Killer Review: Does It Work? (2026)"
 meta_description: "BioAdvanced 700350A Termite Killer Home Perimeter Treatment review: coverage, application, and real results. Find out if this granular barrier works."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B4HB3DLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RYTOoGYLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Kills termites on contact while creating a persistent soil barrier that works for up to 3 months"
   - "Ready-to-spread granules require no mixing, spraying, or special equipment"
   - "A single 9-pound bag covers 150 linear feet of foundation trench"
-cons:
+cons: 
   - "Requires digging a 6-inch trench around your entire foundation — serious labor if you have a large home"
   - "Rainfall above 1 inch may necessitate reapplication sooner than the 3-month label window"
+
 ---
 
 If you’ve seen mud tubes snaking up your foundation or found winged swarmers near your baseboards, you already know the panic. Termites cause billions in structural damage annually, and most homeowners discover them too late. The BioAdvanced 700350A Termite Killer Home Perimeter Treatment is a do-it-yourself barrier that promises to stop them without calling in a $500+ pest control company. But does a bag of granules actually hold the line? Here’s what 229 buyers (4.6 stars) discovered.

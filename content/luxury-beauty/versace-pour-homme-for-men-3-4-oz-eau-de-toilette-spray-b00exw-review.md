@@ -1,4 +1,5 @@
 ---
+
 title: "Versace Pour Homme for Men 3.4 oz Eau de Toilette Spray"
 seo_title: "Versace Pour Homme for Men 3.4 oz Eau de Toilette  Review"
 meta_description: "Our full versace pour homme for men 3.4 oz eau de toilette spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00EXW2J50/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KuGoC1t5L._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Versace Pour Homme: The 4.8-Star Classic That Still Earns Its Spot

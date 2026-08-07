@@ -1,4 +1,5 @@
 ---
+
 title: "Senyshilon Black Chandelier, Dining Room Light Fixture, Roun"
 seo_title: "Senyshilon Black Chandelier, Dining Room Light Fix Review"
 meta_description: "Our full senyshilon black chandelier, dining room light fixture, roun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQKKBPY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aHzBIJ+EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Senyshilon Black Chandelier is a farmhouse wagon wheel design that looks far more expensive than its price tag suggests. With a 4.6-star average across 229 ratings, it's clearly earning its keep in real dining rooms — but let's talk about whether it's the right fixture for your specific ceiling height, table size, and wiring situation.

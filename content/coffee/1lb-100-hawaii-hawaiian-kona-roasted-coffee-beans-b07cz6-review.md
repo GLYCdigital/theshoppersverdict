@@ -1,4 +1,5 @@
 ---
+
 title: "1LB. 100% Hawaii Hawaiian Kona Roasted Coffee Beans"
 seo_title: "Hawaiian Kona Coffee Beans Review: Worth the Price? (2026)"
 meta_description: "Honest review of 1LB 100% Hawaiian Kona Roasted Coffee Beans. Is this luxury coffee worth $50+? Flavor, freshness, and value breakdown."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07CZ68L8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91moU8neoqL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100% Kona — no blends or fillers, legally certified by Hawaii's Department of Agriculture"
   - "Roasted within days of shipping; most buyers report receiving beans with a roast date under two weeks old"
   - "Smooth, low-acid profile that drinks clean even black — no bitterness or burnt aftertaste"
-cons:
+cons: 
   - "Price per pound runs $55–70, roughly 4–5x the cost of a premium single-origin from elsewhere"
   - "Whole bean only — if you lack a burr grinder, you're adding another $40–100 to your setup"
+
 ---
 
 Kona coffee occupies a strange spot in the coffee world. It's simultaneously one of the most celebrated and most overhyped beans on the market — and often, what people buy labeled "Kona" is legally only 10% Kona mixed with cheaper South American beans. **This 1LB bag from Hawaii Coffee Company is the real thing: 100% Kona, certified, with the price tag to prove it.**

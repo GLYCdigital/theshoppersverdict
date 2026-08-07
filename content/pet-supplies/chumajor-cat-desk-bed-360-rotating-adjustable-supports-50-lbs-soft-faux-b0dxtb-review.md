@@ -1,4 +1,5 @@
 ---
+
 title: "Chumajor Cat Desk Bed - 360° Rotating & Adjustable, Support"
 seo_title: "Chumajor Cat Desk Bed Review: 360° Rotating Perch"
 meta_description: "Chumajor Cat Desk Bed review: 360° rotating, adjustable-height cat perch that supports 50 lbs. See if this faux-fur desk bed suits your feline."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXTBTP5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LKn1mXD5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 360° smooth rotation lets you spin your cat toward you without disturbing their nap"
   - "Adjustable height column extends from roughly 11 to 16 inches, fitting under most desks"
   - "Faux fur pad is removable and machine-washable, surviving claw kneading and hair"
-cons:
+cons: 
   - "Assembly requires a hex wrench — included, but fiddly for a 10-minute setup"
   - "Rotating base clicks audibly when turned; light sleepers may stir"
   - "Faux fur sheds slightly for the first week, especially with a heavy shedder"
+
 ---
 
 If your cat treats your keyboard like a throne and your lap like a backup option, the Chumajor Cat Desk Bed is a clever peace treaty. This is a 360° rotating, height-adjustable cat perch that clamps to your desk's edge, giving your feline a dedicated workspace perch that doesn't block your monitor or your arm room.

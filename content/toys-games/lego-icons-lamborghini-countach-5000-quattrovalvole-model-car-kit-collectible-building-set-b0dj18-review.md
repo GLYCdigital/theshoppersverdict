@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons Lamborghini Countach 5000 Quattrovalvole Model Ca"
 seo_title: "LEGO Icons Lamborghini Countach 5000 Quattrovalvol Review"
 meta_description: "Our full lego icons lamborghini countach 5000 quattrovalvole model ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ184XGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KOYzrApwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: The LEGO Icons Lamborghini Countach 5000 Quattrovalvole isn't a toy. It's a 1,506-piece tribute to one of the most absurd, angular supercars ever designed — and LEGO nailed the brief. If you've got $150-ish burning a hole in your pocket and a shelf that needs a centerpiece, this is one of the best car builds LEGO has released in years. But it's not perfect, and you deserve to know exactly where it compromises.

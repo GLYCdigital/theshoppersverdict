@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Outdoor Pergola Canopy"
 seo_title: "PURPLE LEAF Outdoor Pergola Canopy Review: Verdict | TSV"
 meta_description: "Our full purple leaf outdoor pergola canopy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BQXJ5GM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nWsYxYsUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at a sun-blasted patio wondering whether a pergola is worth the investment, the PURPLE LEAF Outdoor Pergola Canopy is a strong contender — but it's not the easiest install you'll ever tackle. With 220 ratings averaging 4.4 stars, this is a product that earns its keep once it's up, but the setup process will test your patience.

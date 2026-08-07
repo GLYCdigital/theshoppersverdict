@@ -1,4 +1,5 @@
 ---
+
 title: "RIDGID 29993 227S Stainless Steel Pipe Reamer Tool, 1/2-inch"
 seo_title: "RIDGID 29993 227S Stainless Steel Pipe Reamer Tool Review"
 meta_description: "Our full ridgid 29993 227s stainless steel pipe reamer tool, 1/2-inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C3VPK435/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a1G3FQvRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most pipe reamers under $15 are disposable junk. The RIDGID 29993 227S isn't that. But before you click buy, understand exactly what this tool does and doesn't do.

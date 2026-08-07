@@ -1,4 +1,5 @@
 ---
+
 title: "Bark2Basics Face Furst Scrub Dog Shampoo | 1 Gallon, Exfolia"
 seo_title: "Bark2Basics Face Furst Scrub Dog Shampoo Review (2026)"
 meta_description: "Honest Bark2Basics Face Furst Scrub Dog Shampoo review: Does the 1-gallon exfoliating formula deliver? Pros, cons, and buyer verdicts inside."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07FKTSHBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5126j89yKiL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "1-gallon jug lasts months for multi-dog households — real value at roughly $0.30 per wash"
   - "Fine pumice particles provide genuine exfoliation for flaky, itchy skin without harsh scrubbing"
   - "Sulfate-free formula (SLS-free) that still lathers well — rare combo in budget-friendly pet shampoos"
-cons:
+cons: 
   - "Scent is medicinal/oatmeal-heavy, not the 'fresh' fragrance many expect — dissipates but lingers"
   - "Can leave a slight residue on short-haired breeds if not rinsed thoroughly — extra rinse needed"
   - "Pump cap not included; you'll need to buy a separate pump or pour from the bulky gallon jug"
+
 ---
 
 **Opening Hook: The Budget Move That Actually Works**

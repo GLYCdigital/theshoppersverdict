@@ -1,4 +1,5 @@
 ---
+
 title: "Sugar Snap Peas, 16 OZ"
 seo_title: "Sugar Snap Peas, 16 OZ Review: Verdict | TSV"
 meta_description: "Our full sugar snap peas, 16 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BY43RY62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ha9Z6kNxL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you don't usually need a review to decide whether to buy snap peas. But when you're ordering fresh produce sight-unseen from Amazon, the stakes change. Are these actually crisp? Do they arrive bruised? Is the 16-ounce size worth it compared to grocery store bags? Here's what I found after working through two packages.

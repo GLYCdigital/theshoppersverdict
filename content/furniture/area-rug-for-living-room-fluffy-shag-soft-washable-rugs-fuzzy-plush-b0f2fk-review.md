@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug for Living Room: Fluffy Shag Soft Washable Rugs Fuz"
 seo_title: "Fluffy Shag Area Rug Review: Soft, Washable, $16.99 inch"
 meta_description: "Honest review of the Fluffy Shag Washable Area Rug — plush comfort, machine-washable convenience, but shedding concerns. Is it worth $16.99?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2FKL84Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817zqsWbUJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely plush 1.2-inch pile that feels significantly softer than comparably priced flatweave rugs"
   - "Machine washable at 30°C without losing shape — verified by multiple long-term owner reports"
   - "Non-slip TPR backing holds firmly on hardwood and tile, no pad required"
-cons:
+cons: 
   - "Initial shedding is noticeable for the first 2-3 weeks; vacuuming frequency needs to increase"
   - "Not suitable for high-traffic hallways — pile mats down permanently in heavily walked paths"
+
 ---
 
 **Is a $17 rug actually soft, or is this another Amazon gamble?** I've tested enough bargain home goods to be skeptical. But this fluffy shag rug from Fuz has earned a 4.3-star average across 215 ratings — and after digging into the specifics, here's what's real.

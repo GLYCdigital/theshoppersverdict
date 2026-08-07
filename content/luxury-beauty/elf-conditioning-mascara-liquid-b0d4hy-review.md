@@ -1,4 +1,5 @@
 ---
+
 title: "ELF conditioning Mascara Liquid"
 seo_title: "ELF Conditioning Mascara Liquid Review (2026): Honest Verdict"
 meta_description: "ELF conditioning Mascara Liquid review: Real results, wear test, smudge check. See if this 4.2-star mascara delivers length without clumps. Read before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D4HYRMGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bmcfd0YxL._SL1500_.jpg"
-pros:
+pros: 
   - "Conditioning formula with jojoba and vitamin E doesn't flake or stiffen, even after 10+ hour wear"
   - "Precision wand separates lashes cleanly — no clumping even with two coats"
   - "Removes easily with warm water — no harsh rubbing or eye makeup remover needed"
-cons:
+cons: 
   - "Not waterproof — tears or humidity will cause smudging within 30 minutes"
   - "Volume is modest; this is a lengthening mascara, not a dramatic false-lash effect"
   - "Tube dries out noticeably after 6-8 weeks of daily use, requiring a drop of saline to revive"
+
 ---
 
 # ELF Conditioning Mascara Liquid: The Honest Review

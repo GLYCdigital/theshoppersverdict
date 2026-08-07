@@ -1,24 +1,26 @@
 ---
+
 title: "DEWENWILS 200W Low Voltage Landscape Transformer, Outdoor We"
 seo_title: "DEWENWILS 200W Landscape Transformer Review (2026)"
 meta_description: "Honest DEWENWILS 200W low voltage landscape transformer review: timer, weatherproof build, real performance. Buy it or skip it? 4.2/5 verdict."
 slug: "dewenwils-200w-low-voltage-landscape-transformer-outdoor-weatherproof-transformer-with-timer-and-b0dznx-review"
 image_alt: "DEWENWILS 200W low voltage landscape transformer with digital timer and weatherproof casing"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZNXYQBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a3sN0+j9L._SL1500_.jpg"
-pros:  
+pros: 
   - "True 200W capacity handles 15-20 standard halogen or LED fixtures without tripping"  
   - "Digital timer with 6 on/off programs and dusk-to-dawn sensor — set once, forget for months"  
   - "Weatherproof aluminum housing with gasketed door actually survived a full rainy season"  
-cons:  
+cons: 
   - "Dusk sensor is conservative — lights often kick on 30-45 minutes before full dark"  
   - "Wire terminals are cramped; 12-gauge cable is a tight squeeze, especially on two wires per port"  
   - "No photocell override — you can't disable the sensor and rely purely on timer"
+
 ---
 
 If you're lighting a walkway, driveway, or backyard with low-voltage fixtures, the transformer is the unsung hero — and the weak link — of the whole setup. The DEWENWILS 200W unit aims to be the reliable middle ground between cheap 100W plastic boxes and $200+ commercial-grade metal units. After 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right. Here's what that actually means for your money.

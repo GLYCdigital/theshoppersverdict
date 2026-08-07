@@ -1,4 +1,5 @@
 ---
+
 title: "PRICUSIS Nonstick Frying Pan, 8/10/12 Inch Skillet"
 seo_title: "PRICUSIS Nonstick Frying Pan, 8/10/12 Inch Skillet Review"
 meta_description: "Our full pricusis nonstick frying pan, 8/10/12 inch skillet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GG9GPRD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bjpup4vrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PRICUSIS 3-Piece Nonstick Skillet Set: Budget Cookware That Actually Cooks**

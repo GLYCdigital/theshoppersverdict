@@ -1,4 +1,5 @@
 ---
+
 title: "Utopia Alley Schwarzkopf Igora Royal 6% 20 Vol. Colorist'S C"
 seo_title: "Utopia Alley Schwarzkopf Igora Royal 6% 20 Vol. Co Review"
 meta_description: "Our full utopia alley schwarzkopf igora royal 6% 20 vol. colorist's c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001GZWQP0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OXRqlxoPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a colorist mix a bowl of what looks like vanilla pudding and wondered what's actually in it, this is that stuff. The Utopia Alley listing for Schwarzkopf Igora Royal 6% 20 Vol. Colorist's C is the professional-grade developer that powers thousands of salon color services — and it's now sitting in Amazon carts for home users who want salon results without the salon markup.

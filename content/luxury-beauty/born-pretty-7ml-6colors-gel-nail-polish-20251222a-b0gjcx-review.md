@@ -1,4 +1,5 @@
 ---
+
 title: "BORN PRETTY 7ML 6Colors Gel Nail Polish 20251222A"
 seo_title: "BORN PRETTY 6-Color Gel Polish Set Review (2025)"
 meta_description: "Honest BORN PRETTY 7ML 6Colors Gel Nail Polish review: color payoff, durability, curing time, and who should buy this budget set."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJCX87HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bWA6hm6QL._SL1500_.jpg"
-pros:
+pros: 
   - "Six 7mL mini bottles give you a full color story for the price of two full-size polishes — perfect for sampling the BORN PRETTY formula."
   - "High-pigment formula delivers opaque coverage in two thin coats, even on lighter shades like pastels and nudes."
   - "Self-leveling consistency means fewer streaks and bubbles than most budget gel polishes in this price tier."
-cons:
+cons: 
   - "7mL bottles are small — expect roughly 8–10 manicures per color if you're doing full coverage on natural nails."
   - "No color names printed on the bottles, just codes — frustrating when you need to reorder a specific shade."
   - "Requires a UV/LED lamp (sold separately); won't cure under standard nail lamps or sunlight."
+
 ---
 
 **Is this budget gel set worth your manicure time? Let's talk about what you're actually getting.**

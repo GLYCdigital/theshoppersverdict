@@ -1,4 +1,5 @@
 ---
+
 title: "Clairol Nice'n Easy Permanent Hair Dye, Natural-Looking Brow"
 seo_title: "Clairol Nice'n Easy Permanent Hair Dye Review: Natural Brown"
 meta_description: "Honest Clairol Nice'n Easy Permanent Hair Dye review: natural-looking brown coverage, gray blending, and at-home results. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGQVYXG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hJRcyvf8L._SL1500_.jpg"
-pros:
+pros: 
   - "Color results look genuinely multi-tonal, not flat or shoe-polish dark — the 3D Color Real technology delivers on its promise"
   - "Gray coverage is thorough even on stubborn 30-40% resistant grays, with no patchy spots at the roots"
   - "Includes conditioner that actually leaves hair soft, not straw-like — a rare find in box dye"
-cons:
+cons: 
   - "Ammonia smell is noticeable during processing despite the 'low-ammonia' claim — ventilate your bathroom"
   - "Color can run slightly darker than the box swatch for the first 48 hours; expect it to settle lighter"
   - "No brush applicator included — the squeeze bottle works but precision sectioning takes patience"
+
 ---
 
 # Clairol Nice'n Easy Permanent Hair Dye: The $10 Salon Bluff That Actually Works

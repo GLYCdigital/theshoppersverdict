@@ -1,23 +1,25 @@
 ---
+
 title: "Aumtrly Grow Lights for Indoor Plants, Full Spectrum Lamp fo"
 seo_title: "Aumtrly Grow Light Review (2026): Full Spectrum for Tall Plants"
 meta_description: "Honest Aumtrly grow light review: full spectrum coverage, build quality, and real plant results. See pros, cons, and who should buy."
 slug: "aumtrly-grow-lights-for-indoor-plants-full-spectrum-lamp-for-large-tall-b0cwh4-review"
 image_alt: "Aumtrly full spectrum LED grow light panel positioned above indoor plants"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWH4GCB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aq-8m8rcL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Full spectrum 380–780nm with added IR/UV diodes for flowering and fruiting phases"  
   - "Daisy-chainable up to 4 units via built-in ports — no extra hubs needed"  
   - "Aluminum heat sink keeps surface temps below 95°F even after 10-hour runs"  
-cons:  
+cons: 
   - "No built-in timer — you'll need an outlet timer for consistent photoperiods"  
   - "Mounting hardware only fits 1-inch thick shelves; thicker wood requires longer bolts"
+
 ---
 
 If you've ever watched a monstera stretch toward a dim window like it's begging for sunlight, you know the problem. Aumtrly's full spectrum grow light for large and tall plants directly addresses that — without turning your living room into a cannabis lab. At 4.5 stars from 225 ratings, it's not perfect, but it's a serious upgrade from the cheap blurple panels that make your plants look like they're in a rave.

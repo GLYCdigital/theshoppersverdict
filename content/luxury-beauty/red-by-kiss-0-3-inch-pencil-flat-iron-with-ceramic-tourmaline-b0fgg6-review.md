@@ -1,4 +1,5 @@
 ---
+
 title: "RED by KISS 0.3 Inch Pencil Flat Iron with Ceramic Tourmalin"
 seo_title: "RED by KISS 0.3 Inch Pencil Flat Iron with Ceramic Review"
 meta_description: "Our full red by kiss 0.3 inch pencil flat iron with ceramic tourmalin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGG6GG42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712MnZrDaML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RED by KISS 0.3" Pencil Flat Iron Review: Precision Tool or Gimmick?

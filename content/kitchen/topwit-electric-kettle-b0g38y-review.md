@@ -1,4 +1,5 @@
 ---
+
 title: "Topwit Electric Kettle"
 seo_title: "Topwit Electric Kettle Review: Verdict | TSV"
 meta_description: "Our full topwit electric kettle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G38YSY96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tKZsWMDSS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the Topwit Electric Kettle is not trying to be your fancy, temperature-controlled, app-connected countertop gadget. It’s a straightforward, fast-boiling kettle that does exactly one thing well. And for a lot of shoppers, that’s precisely the point.

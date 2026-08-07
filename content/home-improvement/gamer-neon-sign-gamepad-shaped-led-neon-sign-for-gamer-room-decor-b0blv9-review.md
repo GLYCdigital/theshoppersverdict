@@ -1,4 +1,5 @@
 ---
+
 title: "Gamer Neon Sign, Gamepad Shaped LED Neon Sign for Gamer Room"
 seo_title: "Gamer Neon Sign Review: Gamepad LED Wall Decor for Gaming Rooms"
 meta_description: "Honest Gamer Neon Sign review: gamepad-shaped LED wall art for gaming rooms. Build quality, brightness, mounting, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLV9YVSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K+MEuvHLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True acrylic-backed neon LED, not flimsy wire — the gamepad shape holds its form with a rigid 3mm acrylic base that won't sag or twist during mounting"
   - "USB-powered with a 5V/2A adapter included — plug into any wall outlet, power strip, or even a console's USB port for flexible placement"
   - "Dual brightness modes via inline dimmer switch — one setting for full RGB glow, one for a softer ambient mode that won't wash out a monitor"
-cons:
+cons: 
   - "The included mounting kit uses small screws and adhesive strips — drywall anchors aren't included, so you'll need your own for plaster or concrete walls"
   - "The sign is directional — the gamepad design faces one way, so plan your mounting height carefully or the controller looks upside-down from below"
+
 ---
 
 If you're building out a gaming room, you've probably seen a dozen so-called "neon signs" that turn out to be bendy LED wire that sags within a week. This one isn't that. The Gamer Neon Sign from B0BLV9YVSV uses a rigid acrylic backing that holds the gamepad silhouette in place, and the LED channel is embedded rather than glued on. It's a meaningful difference in build quality that shows up the moment you unbox it.

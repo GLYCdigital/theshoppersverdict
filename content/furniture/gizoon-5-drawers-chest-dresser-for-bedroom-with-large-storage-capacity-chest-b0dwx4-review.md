@@ -1,24 +1,26 @@
 ---
+
 title: "Gizoon 5 Drawers Chest, Dresser for Bedroom with Large Stora"
 seo_title: "Gizoon 5 Drawers Chest Dresser Review: Honest Verdict"
 meta_description: "Is the Gizoon 5-drawer chest worth it? We break down build quality, storage capacity, and assembly pain points from 195 real Amazon reviews."
 slug: "gizoon-5-drawers-chest-dresser-for-bedroom-with-large-storage-capacity-chest-b0dwx4-review"
 image_alt: "Gizoon 5 drawer bedroom dresser chest with fabric drawers and wood top"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DWX4HHC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "Five full-size fabric drawers (approx. 14.5L x 13W x 6H each) swallow folded sweaters, jeans, and bedding without cramming."
   - "Sturdy MDF frame with a smooth, water-resistant top surface — holds a 32-inch TV or a stack of books without flex."  
   - "Tool-free assembly takes about 20 minutes; no cams, no allen wrenches — just click-lock joints and a screwdriver for the handles."  
-cons:  
+cons: 
   - "Fabric drawer liners are thin non-woven polyester; sharp zippers or heavy objects can tear through over time."  
   - "Back panel is a single sheet of hardboard that arrives bowed in roughly 10% of units — you'll need to brace it or contact support."  
   - "No anti-tip wall anchor included, which is a safety miss for a 30-inch-tall dresser in a kids' room."
+
 ---
 
 **Opening Hook: The $99 dresser that punches above its weight — until it doesn't.**  

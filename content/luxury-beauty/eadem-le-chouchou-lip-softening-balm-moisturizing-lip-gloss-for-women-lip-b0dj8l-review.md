@@ -1,4 +1,5 @@
 ---
+
 title: "EADEM Le Chouchou Lip Softening Balm, Moisturizing Lip Gloss"
 seo_title: "EADEM Le Chouchou Lip Balm Review: Worth the Hype?"
 meta_description: "EADEM Le Chouchou Lip Softening Balm review: Is this moisturizing lip gloss worth $20+? Real results, texture, wear time & honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ8LHMQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WUbKXDY7L._SL1500_.jpg"
-pros:
+pros: 
   - "Cloud-like, non-sticky cushion texture that genuinely plumps lips without the tingle"
   - "Visible improvement in lip texture after 7-10 days of consistent use, not just temporary hydration"
   - "Clean formula with shea butter, jojoba oil, and peptides — no parabens, sulfates, or synthetic fragrance"
-cons:
+cons: 
   - "Price point sits firmly in luxury territory — you're paying for the brand and packaging"
   - "Shade range is limited to three sheer tints; no bold color payoff if that's what you want"
+
 ---
 
 **The $28 Lip Balm That Actually Does Something Different**

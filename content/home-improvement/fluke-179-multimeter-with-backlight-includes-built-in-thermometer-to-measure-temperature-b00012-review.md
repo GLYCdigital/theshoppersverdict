@@ -1,4 +1,5 @@
 ---
+
 title: "Fluke 179 Multimeter with Backlight, Includes Built-In Therm"
 seo_title: "Fluke 179 Multimeter Review: True-RMS HVAC Workhorse"
 meta_description: "Fluke 179 multimeter review: True-RMS accuracy, built-in thermometer, CAT IV safety. See real pros, cons, and who should buy this $400-class meter."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00012Z0V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MrbJy2H5L._SL1500_.jpg"
-pros:
+pros: 
   - "True-RMS AC/DC measurement to 1000V with 0.09% basic DC accuracy — reliable on non-linear loads like VFDs"
   - "Built-in Type K thermocouple input eliminates carrying a separate thermometer, measuring from -40°F to 1000°F"
   - "CAT IV 600V / CAT III 1000V safety rating with input alert beeper — genuinely safe for panel work"
-cons:
+cons: 
   - "The included TL71 test leads are stiff in cold weather and lack the magnetic holster found on newer models"
   - "No low-impedance (LoZ) mode or millivolt DC range, which limits some automotive sensor diagnostics"
   - "Fluke's calibration sticker and manual are sparse — you'll want to download the 30-page supplement online"
+
 ---
 
 The Fluke 179 is the multimeter that electricians and HVAC techs buy when they're done replacing $40 meters every six months. It's not cheap, and it's not flashy. But after 235 Amazon ratings averaging 4.7 stars, the pattern is clear: this meter outlasts everything else on the truck. The question isn't whether it's good — it's whether you need this level of tool.

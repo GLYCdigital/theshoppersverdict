@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Pacific Rim Whole Bean Coffee, Me"
 seo_title: "365 Pacific Rim Whole Bean Coffee Review: Medium-Dark"
 meta_description: "365 by Whole Foods Pacific Rim whole bean coffee review: balanced medium-dark roast, smooth body, honest pros and cons. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B074XXSSBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qOnFrIgPL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth medium-dark roast with genuine Pacific Rim flavor complexity — cocoa, subtle spice, low bitterness"
   - "Consistently fresh whole beans with solid aroma even from a sealed bag"
   - "Fair price point for 12 oz of organic-certified coffee"
-cons:
+cons: 
   - "Roast level leans darker than 'medium-dark' implies — some buyers may find it almost dark roast"
   - "Occasional batch variability in bean size and oiliness"
+
 ---
 
 Let me cut to the chase: if you're scrolling past this because "365 by Whole Foods" sounds like generic grocery-store coffee, you're making a mistake. This Pacific Rim blend has quietly built a 4.4-star reputation across 220+ Amazon ratings, and after digging into what buyers actually say, I understand why.

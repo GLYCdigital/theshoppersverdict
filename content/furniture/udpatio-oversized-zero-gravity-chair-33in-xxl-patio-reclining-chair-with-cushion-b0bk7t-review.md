@@ -1,4 +1,5 @@
 ---
+
 title: "UDPATIO Oversized Zero Gravity Chair 33In XXL Patio Reclinin"
 seo_title: "UDPATIO Oversized Zero Gravity Chair 33In XXL Pati Review"
 meta_description: "Our full udpatio oversized zero gravity chair 33in xxl patio reclinin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BK7TJFLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xYm21xFLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Udpatio Oversized Zero Gravity Chair Review: Does XXL Actually Mean XXL?

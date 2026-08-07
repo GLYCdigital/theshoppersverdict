@@ -1,4 +1,5 @@
 ---
+
 title: "Natural Balance Limited Ingredient Diet"
 seo_title: "Natural Balance Limited Ingredient Diet Review: Verdict |"
 meta_description: "Our full natural balance limited ingredient diet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP4JTVSN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81keKlFUbpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has a sensitive stomach or itchy skin that you've been chasing with trial-and-error diets, the Natural Balance Limited Ingredient Diet deserves a serious look. This is one of those foods that does exactly what it says on the bag — no marketing gymnastics, no exotic ingredient laundry list. At 4.5 stars from 225 ratings, it's clearly resonating with owners who've been down the "mystery allergy" road before.

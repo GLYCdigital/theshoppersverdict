@@ -1,4 +1,5 @@
 ---
+
 title: "Decorative Garden Fence 16.5in x 10ft, 10 Pack Rustproof Met"
 seo_title: "Decorative Garden Fence Review: 16.5in x 10ft 10-Pack Rustproof Metal"
 meta_description: "Honest review of the 16.5in x 10ft decorative garden fence 10-pack. Is this rustproof metal edging worth it? Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F22CY35V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ov-fnWS9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine rustproof coating holds up through rain, sprinkler overspray, and winter thaw cycles"
   - "Each panel is 16.5 inches tall — tall enough to deter small animals without blocking sightlines"
   - "10 panels per pack covers 10 linear feet, which is actually enough to finish a project"
-cons:
+cons: 
   - "Ground stakes are included but thin — upgrade them for heavy clay or sandy soil"
   - "The black finish scuffs if you hammer directly on it; use a rubber mallet or a wood block"
+
 ---
 
 Let’s be honest: most garden fences under $40 look like they’ll fall apart by August. This 10-pack is the exception — and the 4.5-star average across 225 ratings backs that up. I’ve tested it, and here’s what you need to know before you buy.

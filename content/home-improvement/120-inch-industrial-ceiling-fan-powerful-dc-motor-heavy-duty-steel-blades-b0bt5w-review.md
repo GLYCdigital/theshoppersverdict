@@ -1,4 +1,5 @@
 ---
+
 title: "120-Inch Industrial Ceiling Fan – Powerful DC Motor & Heavy-Duty Steel Blades Review"
 seo_title: "120-Inch Industrial Ceiling Fan Review: DC Motor Power"
 meta_description: "Is the 120-inch industrial ceiling fan worth it? Our review covers DC motor power, steel blades, airflow, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BT5W1SGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51z9pFZ7JZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive 10-foot sweep moves serious air in warehouses, barns, and open-plan shops—up to 20,000+ CFM at top speed"
   - "DC motor runs nearly silent at low speeds and sips power compared to equivalent AC units"
   - "Solid steel blades with powder-coat finish resist warping and corrosion in humid or dusty environments"
-cons:
+cons: 
   - "Installation is a two-person job with heavy components—plan for a lift or scaffolding and a reinforced ceiling mount"
   - "Remote control range can be finicky beyond 30 feet, and there's no wall-mount controller included"
   - "At 120 inches, this fan will overwhelm standard 8-foot residential ceilings—this is strictly for high-bay spaces"
+
 ---
 
 **A 10-foot blade sweep isn't a ceiling fan—it's a wind machine. Here's who actually needs it.**

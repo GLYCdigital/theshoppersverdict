@@ -1,4 +1,5 @@
 ---
+
 title: "AXTH Right Angle Ratcheting Screwdriver Set"
 seo_title: "AXTH Right Angle Ratcheting Screwdriver Review (2026)"
 meta_description: "AXTH right angle ratcheting screwdriver set review: 72-tooth ratchet, 45 bits, compact design. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJDN3VLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G0niwJeaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72-tooth ratchet delivers a tight 5-degree arc — you can turn fasteners in spaces where a standard driver won't even swing"
   - "45-piece bit assortment covers Phillips, slotted, Torx, hex, and security bits — most common jobs covered straight out of the box"
   - "Chrome vanadium steel bits and a solid alloy body hold up to real torque without flexing or stripping"
-cons:
+cons: 
   - "The handle is on the shorter side — big-handed users may find it cramped during prolonged use"
   - "Bit storage is a friction-fit sleeve, not a locking case — bits can slide out if you toss it in a loose bag"
+
 ---
 
 Tight spaces are the enemy of every DIYer. You've got a screw buried behind a cabinet, under a sink, or wedged between studs, and a standard screwdriver simply won't fit. That's exactly the problem the **AXTH Right Angle Ratcheting Screwdriver Set** was built to solve — and based on 229 Amazon ratings averaging 4.6 stars, it's solving it well.

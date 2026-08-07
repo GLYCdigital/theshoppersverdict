@@ -1,4 +1,5 @@
 ---
+
 title: "LINSY HOME End Table Set of 2 with Charging Station, Modern "
 seo_title: "LINSY HOME End Table Set of 2 with Charging Statio Review"
 meta_description: "Our full linsy home end table set of 2 with charging station, modern  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G1QZHF7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yg-Ey4TtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** A functional, attractive pair of nightstands that solves the "where do I charge everything" problem for under $100 — with a couple of caveats worth knowing before you buy.

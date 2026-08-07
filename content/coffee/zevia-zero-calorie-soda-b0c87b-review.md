@@ -1,4 +1,5 @@
 ---
+
 title: "Zevia Zero Calorie Soda"
 seo_title: "Zevia Zero Calorie Soda Review: Verdict | TSV"
 meta_description: "Our full zevia zero calorie soda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C87BDFD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pzm8zMwAL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the chemistry lab. This is soda sweetened by a plant.**

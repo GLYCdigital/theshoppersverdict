@@ -1,4 +1,5 @@
 ---
+
 title: "Mountman Mini Split AC/Heating System,19 SEER2 Energy Effici"
 seo_title: "Mountman Mini Split AC/Heating System,19 SEER2 Ene Review"
 meta_description: "Our full mountman mini split ac/heating system,19 seer2 energy effici review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVZCFRBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QkKvb11NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me get this out of the way first: a 19 SEER2 rating at this price point is genuinely impressive. Most budget mini splits hover in the 16-17 SEER2 range, and that efficiency gap translates to real dollar savings on your summer cooling bills. But the Mountman isn't just an efficiency play — it's a functional heating and cooling system that could replace both your window AC and your baseboard heaters.

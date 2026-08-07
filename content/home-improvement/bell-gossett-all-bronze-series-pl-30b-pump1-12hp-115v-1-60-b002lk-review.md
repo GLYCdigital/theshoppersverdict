@@ -1,4 +1,5 @@
 ---
+
 title: "Bell & Gossett All Bronze Series PL 30B Pump1/12HP 115V/1/60 inch"
 seo_title: "Bell & Gossett PL 30B Pump Review: Bronze Circulator Worth It?"
 meta_description: "Bell & Gossett PL 30B bronze circulator pump review: build quality, performance, common failures & who should buy. Real user feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B002LKRO9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813fesezMvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-bronze construction resists corrosion in open systems and domestic water loops where cast iron pumps fail"
   - "Compact 1/12 HP footprint fits tight mechanical rooms and replaces older B&G models without re-piping"
   - "Quiet operation at 3450 RPM with reliable induction motor that handles continuous duty cycles"
-cons:
+cons: 
   - "No integrated check valve — you'll need to add one externally or risk gravity circulation when the pump stops"
   - "Flange gaskets not included; budget for them separately since standard flange kits don't always match"
   - "Higher price than comparable cast iron circulators — you pay a real premium for the bronze casing"
+
 ---
 
 The Bell & Gossett PL 30B isn't a sexy purchase. It's a workhorse component that sits in a mechanical room, moving hot water through pipes so your radiators or baseboard heaters actually work. If you're replacing a failed circulator, you already know the drill — you want something that installs clean, runs quietly, and doesn't corrode out in a few years. The PL 30B delivers on the corrosion front with an all-bronze body, but you need to know what you're getting into before you drop the cash on this pump.

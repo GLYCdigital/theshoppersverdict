@@ -1,4 +1,5 @@
 ---
+
 title: "HOODELL FR691V Tune Up Kit for Kawasaki FR651V FR730V FS481V"
 seo_title: "HOODELL FR691V Tune Up Kit for Kawasaki FR651V FR7 Review"
 meta_description: "Our full hoodell fr691v tune up kit for kawasaki fr651v fr730v fs481v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0957MVQ97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oQV3BAUVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HOODELL FR691V Tune Up Kit is the kind of purchase that separates a 20-minute Saturday morning job from a two-week wait for a dealer part. If you own a Kawasaki-powered mower — specifically the FR651V, FR730V, or FS481V — this kit consolidates everything you need for a full service into one Amazon box. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's the honest breakdown.

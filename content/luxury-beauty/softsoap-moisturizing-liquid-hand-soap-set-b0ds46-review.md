@@ -1,4 +1,5 @@
 ---
+
 title: "Softsoap Moisturizing Liquid Hand Soap set"
 seo_title: "Softsoap Moisturizing Liquid Hand Soap set Review: Verdic"
 meta_description: "Our full softsoap moisturizing liquid hand soap set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DS46C3WL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NSaXhgWkL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some hand soaps clean your hands and leave them feeling like sandpaper. Others smell nice but rinse off so fast you wonder if they did anything. The Softsoap Moisturizing Liquid Hand Soap set tries to hit the middle ground—and with 235 ratings averaging 4.7 stars, it seems to be working for most people. But is it worth your money, or just another pump bottle taking up sink space? Let's get into it.

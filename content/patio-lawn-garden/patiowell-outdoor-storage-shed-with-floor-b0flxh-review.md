@@ -1,4 +1,5 @@
 ---
+
 title: "Patiowell Outdoor Storage Shed with Floor"
 seo_title: "Patiowell Outdoor Storage Shed with Floor Review: Verdict"
 meta_description: "Our full patiowell outdoor storage shed with floor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FLXHPYXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81APiF53KkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The Patiowell Outdoor Storage Shed with Floor is a solid mid-tier option that solves the two biggest complaints about budget sheds—damp floors and flimsy doors. But it's not a set-and-forget purchase.**

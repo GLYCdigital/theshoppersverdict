@@ -1,4 +1,5 @@
 ---
+
 title: "Fine Fixtures Single Threshold Acrylic Shower Base - Non-Sli"
 seo_title: "Fine Fixtures Acrylic Shower Base Review: Non-Slip & Durable"
 meta_description: "Fine Fixtures Single Threshold Acrylic Shower Base review: textured non-slip surface, easy install, 4.7★ rating. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBJ8FL9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41M0Em+12uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured non-slip floor pattern provides genuine traction even with soap and water — no aftermarket adhesive mats needed"
   - "Single-threshold design sits nearly flush with bathroom floor, eliminating the tripping hazard common with raised shower bases"
   - "Acrylic construction resists cracking, chipping, and staining; holds up to daily use without yellowing"
-cons:
+cons: 
   - "Non-slip texture can be rough on bare feet for the first few weeks until you adjust"
   - "Limited color options — primarily white and bone, which may not match every bathroom palette"
+
 ---
 
 **Bottom line up front:** The Fine Fixtures Single Threshold Acrylic Shower Base solves the two biggest complaints about prefab shower pans — slippery floors and awkward step-over heights — without forcing you into a costly custom tile job. At 4.7 stars from 235 buyers, it's earning its keep in real bathrooms, not just showroom displays.

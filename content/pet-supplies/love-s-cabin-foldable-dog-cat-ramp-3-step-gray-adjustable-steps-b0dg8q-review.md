@@ -1,4 +1,5 @@
 ---
+
 title: "Love's cabin Foldable Dog/Cat Ramp - 3-Step Gray, Adjustable"
 seo_title: "Love's cabin Foldable Dog/Cat Ramp - 3-Step Gray,  Review"
 meta_description: "Our full love's cabin foldable dog/cat ramp - 3-step gray, adjustable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DG8QPKHL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J5Nc7rNJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has started hesitating at the edge of the bed — that little pause before the jump — you already know the problem. Love's cabin's 3-step foldable ramp is aimed squarely at that moment, and it mostly delivers. With 235 ratings averaging 4.7 stars, this is one of the better-reviewed budget-friendly pet ramps on Amazon. Here's the honest breakdown after digging through the specs and real owner feedback.

@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman 4 QT Compact Air Fryer"
 seo_title: "Chefman 4 QT Compact Air Fryer Review (2026): Is It Worth It?"
 meta_description: "Chefman 4 QT Compact Air Fryer review: 4.6-star rated, $59.99. We test performance, capacity, and ease of use. Find out if this budget fryer delivers."
@@ -11,14 +12,15 @@ review_count: 1769
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5FRXYMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mu4+sWUfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Countertop footprint is genuinely small — about the size of a coffee maker, fits under most upper cabinets"
   - "One-touch presets for fries, chicken, and fish actually produce consistent results without guesswork"
   - "Nonstick basket and crisper plate release food cleanly and wash up in under two minutes by hand"
-cons:
+cons: 
   - "No digital display — just a manual dial timer, so precise temperature control requires the included chart"
   - "4-quart capacity realistically serves 2-3 people; a 4-person family will need to cook in batches"
   - "Loud-ish fan noise (around 60dB) that's noticeable in open-concept kitchens during the full cooking cycle"
+
 ---
 
 The Chefman 4 QT Compact Air Fryer sits in that awkward middle ground of kitchen appliances: cheap enough to impulse-buy, small enough to justify, but does it actually perform? After digging through 1,769 ratings and testing one myself, the answer is a qualified yes — with some caveats you need to know before you hit buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purple Purple+ mattresses"
 seo_title: "Purple Purple+ mattresses Review: Verdict | TSV"
 meta_description: "Our full purple purple+ mattresses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FZNM67RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71teTP8jHgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Purple+ mattress is one of the most polarizing beds on Amazon.** Some shoppers swear it changed their sleep forever; others return it within the 100-night trial. At 4.2 stars from 210 ratings, the truth sits somewhere in the middle. Here's what you actually need to know before spending your money.

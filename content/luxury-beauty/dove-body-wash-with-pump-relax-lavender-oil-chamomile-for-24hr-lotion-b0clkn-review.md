@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Body Wash with Pump Relax Lavender Oil & Chamomile For"
 seo_title: "Dove Relax Lavender Body Wash Review: Worth It?"
 meta_description: "Honest Dove Relax Lavender Oil & Chamomile body wash review. Does the pump bottle deliver? Scent, lather & skin feel tested. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLKNYZ71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7148rmcsGWL._SL1500_.jpg"
-pros:
+pros: 
   - "Pump dispenser delivers a measured, mess-free portion every time — no slippery bottle fumbling in the shower"
   - "Lavender scent is genuine aromatherapy-grade, not synthetic or overpowering; lingers subtly for hours"
   - "Sulfate-free formula with NutriumMoisture leaves skin noticeably softer without a greasy film"
-cons:
+cons: 
   - "Pump can jam if you store the bottle upside down or let product dry in the nozzle"
   - "Scent may be too mild for buyers expecting a strong, spa-intensity lavender hit"
   - "At roughly 20 oz, the price per ounce runs higher than standard Dove body washes"
+
 ---
 
 Is a $10 body wash actually worth it? Here's the thing about the Dove Relax Lavender Oil & Chamomile with pump: it solves a problem you didn't know you had. The pump. It sounds trivial until you've wrestled a slippery 20-ounce bottle one-handed while your other hand holds a loofah. For anyone with arthritis, limited grip strength, or just impatience, this is the quiet luxury upgrade.

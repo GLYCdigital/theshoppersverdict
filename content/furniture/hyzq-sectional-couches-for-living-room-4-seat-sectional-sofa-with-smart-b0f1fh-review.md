@@ -1,4 +1,5 @@
 ---
+
 title: "HYZQ Sectional Couches for Living Room, 4 Seat Sectional Sof"
 seo_title: "HYZQ Sectional Couches for Living Room, 4 Seat Sec Review"
 meta_description: "Our full hyzq sectional couches for living room, 4 seat sectional sof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F1FHBTFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91nY0RydPPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 3.6-star average across 180 ratings tells you one thing immediately: this HYZQ sectional is a polarizing piece of furniture. Some buyers describe it as a compact marvel that transformed their apartment. Others call it a firm, awkward compromise. Here's the truth after digging through the feedback and specs.

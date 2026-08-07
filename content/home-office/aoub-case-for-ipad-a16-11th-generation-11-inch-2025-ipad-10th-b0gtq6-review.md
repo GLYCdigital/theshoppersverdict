@@ -1,23 +1,25 @@
 ---
+
 title: "Aoub Case for iPad (A16) 11th Generation 11 Inch 2025, iPad"
 seo_title: "Aoub iPad A16 11th Gen Case Review (2025): Worth It?"
 meta_description: "Honest Aoub iPad A16 11th Gen case review: build quality, pencil holder, kickstand, and durability tested. See pros, cons, and if it's worth $30."
 slug: "aoub-case-for-ipad-a16-11th-generation-11-inch-2025-ipad-10th-b0gtq6-review"
 image_alt: "Aoub case for iPad A16 11th generation 11 inch 2025 in black with Apple Pencil holder and foldable kickstand"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTQ6SNTY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TlK2YJIxL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Precise cutouts and snug fit for the 2025 A16 11-inch iPad — no wobble or loose edges"  
   - "Tri-fold front cover converts into two stable typing/viewing angles, both tested with heavy typing"  
   - "Built-in Apple Pencil holder charges wirelessly and keeps the pencil secure without adding bulk"  
-cons:  
+cons: 
   - "Back panel is glossy plastic — smudges easily and shows fingerprints within minutes"  
   - "No auto wake/sleep magnet on the front cover — you'll hit the power button manually"
+
 ---
 
 **Skip this case if you need auto wake/sleep.** But if you can live without that one convenience, the Aoub case for the 2025 iPad A16 11th generation delivers exactly what most office workers and students need — at a price that undercuts Apple's own folio by half.

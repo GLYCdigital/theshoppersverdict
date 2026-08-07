@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Flexbrew Advanced 5-in-1 Programmable 12 Cup "
 seo_title: "Hamilton Beach Flexbrew Advanced 5-in-1 Programmab Review"
 meta_description: "Our full hamilton beach flexbrew advanced 5-in-1 programmable 12 cup  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0D7W5N2CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IxB5aCk9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5-in-1 coffee maker that tries to do everything — and mostly pulls it off**

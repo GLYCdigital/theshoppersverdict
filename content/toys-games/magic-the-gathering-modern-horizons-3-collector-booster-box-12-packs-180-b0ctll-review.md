@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering Modern Horizons 3 Collector Booster Box"
 seo_title: "Magic: The Gathering Modern Horizons 3 Collector B Review"
 meta_description: "Our full magic: the gathering modern horizons 3 collector booster box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CTLL4PMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lKuENxhxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Magic: The Gathering Modern Horizons 3 Collector Booster Box — Premium Gambling or Smart Investment?

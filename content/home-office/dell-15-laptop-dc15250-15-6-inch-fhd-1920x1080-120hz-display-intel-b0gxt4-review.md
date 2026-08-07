@@ -1,4 +1,5 @@
 ---
+
 title: "Dell 15 Laptop DC15250, 15.6-inch FHD (1920x1080) 120Hz Disp"
 seo_title: "Dell 15 Laptop DC15250 Review: 120Hz FHD Display"
 meta_description: "Dell 15 DC15250 review: 15.6-inch FHD 120Hz display, smooth performance, 4.8-star rating. We test build quality, battery, and real-world use. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXT4G6VC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v13eyHS+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "120Hz panel on a budget laptop — scrolling and window management feel dramatically smoother than the typical 60Hz office machine"
   - "Full-size keyboard with dedicated number pad; key travel is surprisingly deep for a thin chassis"
   - "FHD (1920x1080) resolution at 15.6 inches delivers crisp text without scaling headaches in Windows"
-cons:
+cons: 
   - "Battery life hovers around 6-7 hours in mixed use — fine for a workday but not all-day endurance"
   - "Speakers get loud but lack low-end; you'll want headphones for anything beyond conference calls"
   - "Single USB-C port (non-Thunderbolt) means you'll juggle adapters if you dock multiple peripherals"
+
 ---
 
 Most office laptops treat a 60Hz display as a given. The Dell 15 DC15250 doesn't. That 120Hz panel is the headline feature here, and after a week of spreadsheets, video calls, and way too many browser tabs, I can tell you it's not a gimmick — it changes how the machine feels in daily use. The question is whether that smoothness justifies the tradeoffs elsewhere. Let's dig in.

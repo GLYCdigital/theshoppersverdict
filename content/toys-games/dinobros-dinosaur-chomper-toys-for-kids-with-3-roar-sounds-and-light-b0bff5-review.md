@@ -1,4 +1,5 @@
 ---
+
 title: "DINOBROS Dinosaur Chomper Toys for Kids with 3 Roar Sounds a"
 seo_title: "DINOBROS Dinosaur Chomper Toy Review: Roar Sounds & Lights"
 meta_description: "DINOBROS Dinosaur Chomper toy review: Does it deliver on 3 roar sounds and bite action? We test durability, volume, and fun for kids ages 3+."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BFF5YPLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aT0FuP2cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct roar sounds plus a light-up chest that activates with the chomping motion"
   - "Sturdy ABS plastic construction holds up to aggressive play — no flimsy joints"
   - "Chomping jaw action is satisfyingly tactile; kids can trigger sounds independently"
-cons:
+cons: 
   - "Batteries (3x AAA) not included — a common but annoying extra purchase"
   - "Sound volume is fixed at one level with no mute switch; some parents find it loud indoors"
+
 ---
 
 Let’s be honest: most dinosaur toys for kids are either static plastic statues or cheap electronic junk that breaks within a week. The DINOBROS Dinosaur Chomper sits somewhere in the middle, and for most families, that’s exactly the sweet spot.

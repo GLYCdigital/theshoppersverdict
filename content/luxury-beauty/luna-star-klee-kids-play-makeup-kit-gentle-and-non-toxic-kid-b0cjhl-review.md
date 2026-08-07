@@ -1,4 +1,5 @@
 ---
+
 title: "Luna Star Klee Kids Play Makeup Kit. Gentle and Non-Toxic. K"
 seo_title: "Luna Star Klee Kids Play Makeup Kit. Gentle and No Review"
 meta_description: "Our full luna star klee kids play makeup kit. gentle and non-toxic. k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CJHLKS2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Play Makeup Kit That Won't End Up in the Trash?

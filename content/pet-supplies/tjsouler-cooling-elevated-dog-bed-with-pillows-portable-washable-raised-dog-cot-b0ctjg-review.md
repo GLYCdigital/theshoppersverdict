@@ -1,4 +1,5 @@
 ---
+
 title: "TJSOULER Cooling Elevated Dog Bed with Pillows,Portable Wash"
 seo_title: "TJSOULER Cooling Elevated Dog Bed with Pillows,Por Review"
 meta_description: "Our full tjsouler cooling elevated dog bed with pillows,portable wash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CTJGGN6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+lhbqevZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog treats their bed like a personal furnace, the TJSOULER Cooling Elevated Dog Bed is worth a hard look. This isn't a plush pillow you sink into — it's a raised cot designed to keep air moving underneath your pup. With 215 ratings averaging 4.3 stars, it's clearly working for a lot of owners. But is it right for *your* dog? Let's break it down.

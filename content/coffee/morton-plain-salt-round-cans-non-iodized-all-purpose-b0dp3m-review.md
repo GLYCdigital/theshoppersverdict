@@ -1,4 +1,5 @@
 ---
+
 title: "Morton, Plain Salt, Round Cans, Non-Iodized, All-Purpose"
 seo_title: "Morton, Plain Salt, Round Cans, Non-Iodized, All-P Review"
 meta_description: "Our full morton, plain salt, round cans, non-iodized, all-purpose review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP3MSBS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711SftwQp9L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: salt isn't exciting. But if you're serious about your coffee gear — and you should be — the salt you use matters more than you think. A pinch of plain salt in your coffee grounds cuts bitterness and brightens acidity without adding sodium flavor. That's exactly where Morton Plain Salt earns its keep.

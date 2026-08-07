@@ -1,4 +1,5 @@
 ---
+
 title: "RUIYEY Bathroom Vanity Light Fixtures: Bathroom Lighting Fix"
 seo_title: "RUIYEY Bathroom Vanity Light Fixtures: Bathroom Li Review"
 meta_description: "Our full ruiyey bathroom vanity light fixtures: bathroom lighting fix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DY4432C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513bAJsQvRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've stared at a harsh overhead light while trying to apply makeup or shave, you already know the problem. The RUIYEY three-light vanity bar attacks that issue directly with milky glass shades that scatter light instead of blasting it. At 4.8 stars across 240 ratings, it's clearly doing something right. Here's what 30 minutes of install time and a week of daily use taught me.

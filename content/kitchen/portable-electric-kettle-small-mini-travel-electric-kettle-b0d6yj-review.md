@@ -1,4 +1,5 @@
 ---
+
 title: "Portable Electric Kettle Small Mini Travel Electric Kettle"
 seo_title: "Portable Electric Kettle Small Mini Travel Electri Review"
 meta_description: "Our full portable electric kettle small mini travel electric kettle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6YJM5DJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mcPEfIU-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Travel Kettle That Actually Earns Its Bag Space

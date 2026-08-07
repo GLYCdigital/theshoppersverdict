@@ -1,4 +1,5 @@
 ---
+
 title: "Aipsun Modern Vanity Light Up and Down LED Vanity Light for"
 seo_title: "Aipsun LED Vanity Light Review: Up/Down Lighting for Bathrooms"
 meta_description: "Honest Aipsun Modern Vanity Light review: 4.6/5 stars. Learn about the up/down LED design, brightness, installation, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSCXY271/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513FZC6n5uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual up/down LED emission creates full, shadow-free illumination across the whole vanity — no more dark spots on your face"
   - "Integrated LED chips rated for 50,000 hours mean no bulbs to replace or hunt for at the hardware store"
   - "Sleek aluminum housing in multiple finishes (black, brushed nickel, chrome) that hides finger smudges well"
-cons:
+cons: 
   - "Hardwired installation requires a junction box and basic electrical knowledge — not a plug-and-play swap for renters"
   - "Light is fixed at 4000K natural white; if you prefer warm 2700K or cool 5000K, this isn't adjustable"
   - "At 24 inches wide, it suits single or double sinks, but larger 48-60 inch vanities need two units or a longer model"
+
 ---
 
 Let's be blunt: most vanity lighting is a compromise. You either get a single fixture that casts harsh shadows across your jawline, or you install those dated Hollywood bulbs that look like a dressing room from 1987. The Aipsun Modern Vanity Light sidesteps both with an up/down LED design that's become the default recommendation in bathroom renovation circles. Here's what 229 buyers and I think after real-world use.

@@ -1,4 +1,5 @@
 ---
+
 title: "Criss Cross Chair with Flip-Up Arms"
 seo_title: "Criss Cross Chair with Flip-Up Arms Review: Worth It?"
 meta_description: "Honest Criss Cross Chair with Flip-Up Arms review: comfort, build quality, ergonomics, and who should buy. Real buyer feedback at $99.99."
@@ -11,13 +12,14 @@ review_count: 38
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GJDFSQ11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t1471lcEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-up arms create 20 inches of open access, making it easy to slide in and out or sit cross-legged without obstruction"
   - "Memory foam seat cushion holds up under 8+ hour workdays without flattening, per multiple long-term reviewers"
   - "Assembles in under 15 minutes with the included hex wrench — no power tools required"
-cons:
+cons: 
   - "Backrest is fixed at one angle; no recline or tilt tension adjustment for users who want to lean back"
   - "Seat height range (17–20 inches) runs low — taller users over 6 feet may find their knees sit above hip level"
+
 ---
 
 If you've spent any time searching for an ergonomic chair that doesn't look like it belongs in a spaceship, you've probably hit the same wall: most "ergonomic" options cost $300+ and still feel like sitting on a board. The Criss Cross Chair with Flip-Up Arms sits in a different lane entirely. At $99.99, it's aimed at people who want to sit naturally — cross-legged, knees tucked, or perched on the edge — without paying premium prices for the privilege.

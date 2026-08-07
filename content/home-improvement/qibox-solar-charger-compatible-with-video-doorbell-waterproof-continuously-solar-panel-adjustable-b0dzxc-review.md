@@ -1,4 +1,5 @@
 ---
+
 title: "QIBOX Solar Charger Compatible with Video Doorbell, Waterpro"
 seo_title: "QIBOX Solar Charger Compatible with Video Doorbell Review"
 meta_description: "Our full qibox solar charger compatible with video doorbell, waterpro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZXCZSRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xd5xgsIOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're tired of climbing a ladder every few weeks to yank your video doorbell off its mount for a charge, the QIBOX solar charger is the fix. It's not a gimmick — this thing actually delivers usable current. But it has a couple of quirks worth knowing before you buy.

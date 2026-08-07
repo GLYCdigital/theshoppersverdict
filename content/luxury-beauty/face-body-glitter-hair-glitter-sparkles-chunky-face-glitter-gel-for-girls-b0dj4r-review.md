@@ -1,4 +1,5 @@
 ---
+
 title: "Face Body Glitter, Hair Glitter Sparkles Chunky Face Glitter"
 seo_title: "Face Body Glitter Review: Chunky Sparkles Gel for Girls"
 meta_description: "Honest Face Body Glitter review: chunky sparkle gel for face, hair & body. See pros, cons, and who should buy this 4.7-star beauty pick."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ4RPLLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713K0ufwY-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Chunky glitter particles deliver visible, high-impact sparkle — not a subtle shimmer"
   - "One jar covers face, hair, and body, eliminating the need for multiple products"
   - "Gel base dries down without feeling sticky or greasy on skin"
-cons:
+cons: 
   - "Chunky particles can flake off throughout the day, especially on hair"
   - "Removal requires double cleansing or makeup remover — water alone won't cut it"
   - "Not ideal for oily skin; the gel can slide on shiny T-zones"
+
 ---
 
 Let's be clear about what this is: a $9 jar of chunky glitter gel that delivers exactly what it promises. No more, no less. If you're shopping for festival season, a music concert, or a themed party, this Face Body Glitter from Sparkles has earned its 4.7-star rating for a reason — it actually shows up in photos.

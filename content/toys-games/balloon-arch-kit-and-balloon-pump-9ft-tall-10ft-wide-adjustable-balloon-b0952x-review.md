@@ -1,4 +1,5 @@
 ---
+
 title: "Balloon Arch Kit and Balloon Pump, 9Ft Tall & 10Ft Wide Adju"
 seo_title: "Balloon Arch Kit & Pump Review: 9Ft x 10Ft Adjustable Frame"
 meta_description: "Honest review of the 9ft x 10ft adjustable balloon arch kit with pump. Learn about assembly, durability, and if it's worth your money for parties."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0952XJ7YF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YtJ1MnCDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable frame bends into arches, columns, or garlands — one kit covers multiple party setups"
   - "Included balloon pump actually works — dual-action design inflates standard 11-inch balloons in 2-3 pumps"
   - "Frame components snap together without tools; disassembly takes under 5 minutes"
-cons:
+cons: 
   - "Balloons are NOT included — buyers must purchase 100+ balloons separately, adding significant cost"
   - "Base plates are lightweight plastic; outdoor use on grass or windy days requires extra weights"
   - "Frame flexibility means it can sag under heavy balloon loads unless clips are positioned evenly"
+
 ---
 
 If you've priced pre-made balloon arches at party stores lately, you know they run $50–$150 for a single event. This kit promises a reusable frame for roughly the same cost — but does it deliver? After digging through 220 ratings and the product specs, here's the honest breakdown.

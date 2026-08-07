@@ -1,4 +1,5 @@
 ---
+
 title: "Lexar Professional 1066x 64GB SDXC UHS-I Card Silver Series"
 seo_title: "Lexar Professional 1066x 64GB SDXC UHS-I Card Silv Review"
 meta_description: "Our full lexar professional 1066x 64gb sdxc uhs-i card silver series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09VF7W7TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gs7oUJU1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a memory card choke mid-shoot — that dreaded blinking write light while your subject waits — you know why the Lexar Professional 1066x has earned its 4.7-star reputation across 235 Amazon ratings. This isn't the cheapest 64GB SD card on the shelf, but it's the one that won't embarrass you when it matters.

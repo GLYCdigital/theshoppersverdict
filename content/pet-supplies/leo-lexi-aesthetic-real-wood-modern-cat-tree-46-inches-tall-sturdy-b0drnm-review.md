@@ -1,4 +1,5 @@
 ---
+
 title: "LEO & LEXI Aesthetic, Real Wood Modern Cat Tree. 46 inches T"
 seo_title: "LEO & LEXI Aesthetic, Real Wood Modern Cat Tree. 4 Review"
 meta_description: "Our full leo & lexi aesthetic, real wood modern cat tree. 46 inches t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRNMJBBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n0K+V38pL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cat trees look like they were salvaged from a 1980s rec room — beige carpet, fake wood grain, and that lingering smell of regret. The LEO & LEXI Aesthetic Real Wood Cat Tree is not that. At 46 inches tall, this is the piece that makes guests ask, "Wait, that's a cat tree?" before your cat claims it as their throne.

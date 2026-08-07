@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN 1/2-HP Smart Belt Drive Garage Door Opener Wi-fi C"
 seo_title: "CRAFTSMAN 1/2-HP Smart Belt Drive Opener Review (2026)"
 meta_description: "CRAFTSMAN 1/2-HP Smart Belt Drive Garage Door Opener review: quiet operation, Wi-Fi built-in, battery backup. Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D4SDP72D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oGPn7tx-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Belt drive system is genuinely quiet — measured conversations can continue in attached garages without interruption"
   - "Built-in Wi-Fi via myQ app works without extra hub, and the free tier covers remote open/close and activity alerts"
   - "Integrated battery backup keeps the door operational during power outages, a feature often reserved for $300+ models"
-cons:
+cons: 
   - "1/2-HP motor is adequate for standard steel doors but struggles with heavy solid wood or insulated double doors, especially in cold climates"
   - "Requires a 2-wire door sensor retrofit for most homes built before 1993 — budget extra time or an electrician if your sensors are older"
   - "myQ app occasionally drops connection after router updates; re-pairing takes about 10 minutes and can frustrate less tech-savvy users"
+
 ---
 
 **The Short Version: Is the CRAFTSMAN 1/2-HP Smart Belt Drive Worth It?**

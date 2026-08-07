@@ -1,4 +1,5 @@
 ---
+
 title: "ESI Grips Chunky - Silicone MTB Grips - Ultimate Comfort and"
 seo_title: "ESI Grips Chunky Review: Best Silicone MTB Grips for Comfort"
 meta_description: "ESI Grips Chunky silicone MTB grips review: 4.7-star rated comfort upgrade. See how these shock-absorbing grips reduce hand fatigue on aggressive trails."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00554FMUY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-3CRlUXFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Proprietary silicone compound absorbs trail vibration better than any lock-on grip tested at this weight"
   - "Chunky 33mm diameter fills the palm for riders with larger hands or those wanting pressure relief on long descents"
   - "No glue, no bar ends, no locking collars — installs in under 60 seconds with just air and a little rubbing alcohol"
-cons:
+cons: 
   - "Not compatible with carbon handlebars — the silicone can slip without a locking mechanism"
   - "Durability suffers if you crash frequently; silicone tears more easily than rubber compounds"
   - "The extra diameter feels bulky for riders with smaller hands or those who prefer a direct bar feel"
+
 ---
 
 Most mountain bikers treat grips as an afterthought — something to swap when the stock ones get sticky. That's a mistake. Your hands are the only contact points transmitting trail feedback, and nothing ruins a ride faster than numb fingers on the descent. The ESI Grips Chunky has built a cult following among trail riders for good reason: it's a fundamentally different approach to vibration damping that actually works.

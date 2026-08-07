@@ -1,4 +1,5 @@
 ---
+
 title: "Chaz Dean Wen Cleansing Conditioner, Sweet Almond Mint, 16 O"
 seo_title: "Wen Cleansing Conditioner Sweet Almond Mint Review (2026)"
 meta_description: "Honest Chaz Dean Wen Sweet Almond Mint review: Does the 16 oz cleansing conditioner deliver soft hair? Real pros, cons & verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00JC0ZPE0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zT-vdU12L._SL1500_.jpg"
-pros:
+pros: 
   - "Replaces shampoo and conditioner in one step, cutting wash time roughly in half"
   - "Sweet Almond Mint scent is genuinely pleasant — fresh, spa-like, not medicinal"
   - "16 oz bottle lasts 2-3 months for most users with 2-3x weekly washing"
-cons:
+cons: 
   - "Significant adjustment period — hair can feel heavy or greasy for the first 2 weeks"
   - "Not ideal for fine, limp hair; many users report it weighs hair down"
+
 ---
 
 The Wen Cleansing Conditioner is one of those products people either swear by or swear at. There's rarely a middle ground. After digging through 229 ratings and countless user experiences, here's the honest breakdown of whether the Sweet Almond Mint formula deserves a spot in your shower.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DW618B3 12 Amp 2-1/4 Horsepower Plunge Base and Fixed"
 seo_title: "DEWALT DW618B3 Review: 2-Base Router Kit Worth It?"
 meta_description: "Read our honest DEWALT DW618B3 12 Amp plunge and fixed base router review. See real pros, cons, and who should buy this 2.25 HP kit."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07P36N9X5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TL87U4AXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Quick-release motor housing swaps between plunge and fixed bases in seconds without tools"
   - "Through-the-base dust collection port on the fixed base captures most chips at the source"
   - "Precision depth adjustment with micro-fine bit depth ring and 3-amp electronic feedback for consistent speed under load"
-cons:
+cons: 
   - "Plunge base is heavier than dedicated plunge routers, making overhead work tiring"
   - "Wrench needed for bit changes — no spindle lock button like newer competitors"
   - "Carrying case is bulky; it takes up significant shop or truck space"
+
 ---
 
 If you're a serious woodworker who's ever owned a single-base router, you already know the frustration: you set up a dovetail jig, then need a chamfer bit, and suddenly you're unbolting, re-aligning, and re-zeroing. The DEWALT DW618B3 solves that with a clever two-base system. But is it the right router for your shop? I've spent time with this kit, and here's what actually matters.

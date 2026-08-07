@@ -1,4 +1,5 @@
 ---
+
 title: "G-SAFAVA 23.75'' Industrial Black Metal Table Lamps Living R"
 seo_title: "G-SAFAVA Industrial Table Lamp Review: 23.75'' Black Metal"
 meta_description: "G-SAFAVA 23.75'' industrial black metal table lamp review: build quality, light output, real buyer feedback. Is this $40 farmhouse lamp worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1SNR8QD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718wzz8LaiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid all-metal construction with weighted base — no wobble, no plastic parts"
   - "Versatile Edison bulb compatibility (E26 base) lets you dial in warm or bright light"
   - "Compact 23.75'' height fits end tables, nightstands, and narrow console spaces"
-cons:
+cons: 
   - "Requires assembly — the two-piece pole threads together but can loosen over time"
   - "Open cage design means bare bulbs are exposed; dust collects on bulbs and interior"
   - "Pull-chain switch placement on the socket is awkward if lamp sits behind furniture"
+
 ---
 
 **The $40 industrial lamp that actually looks like it costs more — but there's a catch**

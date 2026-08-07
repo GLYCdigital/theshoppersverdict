@@ -1,4 +1,5 @@
 ---
+
 title: "Karat 170 oz Paper Food Buckets with Lids | 223 mm"
 seo_title: "Karat 170 oz Paper Food Buckets with Lids | 223 mm Review"
 meta_description: "Our full karat 170 oz paper food buckets with lids | 223 mm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GSKLQ8BH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: a 170-ounce paper bucket is not a subtle product. At 223 mm across the top, this Karat bucket is closer to a small trash can than what most people picture when they think "food storage." But that's exactly the point. If you're feeding a crowd, running a food truck, or catering a backyard wedding, this thing holds over five gallons of pulled pork, coleslaw, or fried chicken — and that's a real capability most kitchen containers simply don't have.

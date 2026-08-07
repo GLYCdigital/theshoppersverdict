@@ -1,4 +1,5 @@
 ---
+
 title: "Sun2Solar Blue Round Pool Solar Cover | 8 Mil | Heat Retaini"
 seo_title: "Sun2Solar Blue Round Pool Solar Cover | 8 Mil | He Review"
 meta_description: "Our full sun2solar blue round pool solar cover | 8 mil | heat retaini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08F69MGSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81icHJ-F5uL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sun2Solar 8 Mil Round Pool Solar Cover: Heat Without the Hype?

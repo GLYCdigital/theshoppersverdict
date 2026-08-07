@@ -1,4 +1,5 @@
 ---
+
 title: "Ensenior Recessed Light, 2700K-5000K 5CCT Selectable, Dimmab"
 seo_title: "Ensenior Recessed Light Review: 5CCT Dimmable Can Light"
 meta_description: "Honest Ensenior recessed light review: 5CCT selectable, dimmable, IC-rated. Real pros, cons, and buying advice before you install."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GQ43WP4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-mCrntNDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5CCT switch lets you dial in 2700K-5000K before install — no buying multiple units for different rooms"
   - "IC-rated housing allows direct insulation contact, simplifying retrofit installs in existing ceilings"
   - "Damp-location rated, so it handles bathroom and covered porch duty without issue"
-cons:
+cons: 
   - "Color selection is locked at installation — you can't change CCT from the wall switch later"
   - "Requires a compatible dimmer; standard incandescent dimmers may cause flicker at low levels"
+
 ---
 
 The Ensenior recessed light solves a problem most can lights ignore: you don't always know what color temperature you want until you see it in the room. With a 5CCT switch on the housing, you pick 2700K, 3000K, 3500K, 4000K, or 5000K before you lock it into the ceiling. That's genuinely useful — especially for homeowners who've installed a "warm white" light only to realize it reads too yellow or too sterile for the space.

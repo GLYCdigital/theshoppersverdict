@@ -1,7 +1,8 @@
 ---
-title: "PoKat 20.25\" Rustic Table Lamp Set of 2 for Bedroom Living R"
-seo_title: "PoKat 20.25\" Rustic Table Lamp Set of 2 for Bedroo Review"
-meta_description: "Our full pokat 20.25\" rustic table lamp set of 2 for bedroom living r review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "PoKat 20.25\ Rustic Table Lamp Set of 2 for Bedroom Living R"
+seo_title: "PoKat 20.25\ Rustic Table Lamp Set of 2 for Bedroo Review"
+meta_description: "Our full pokat 20.25\ rustic table lamp set of 2 for bedroom living r review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pokat-20-25-rustic-table-lamp-set-of-2-for-bedroom-living-b0ctmb-review"
 image_alt: "PoKat 20.25 Rustic Table Lamp Set of 2 for Bedroom Living Room, Vintage Retro Traditional Nightstand Bedside Lamps, Kids"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTMBG5N8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IgaKU57YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Two lamps. One box. Zero guesswork. If you're furnishing a bedroom or living room and want a cohesive look without dropping $100 per lamp at a boutique store, the PoKat 20.25" Rustic Table Lamp Set of 2 is exactly the kind of practical purchase that makes sense. At 4.4 stars from 220 ratings, it's not perfect — but it delivers where it counts.

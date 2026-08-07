@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Light Raspberry Green Tea Powdered Drink Mix"
 seo_title: "Crystal Light Raspberry Green Tea Review: Worth It?"
 meta_description: "Crystal Light Raspberry Green Tea powdered drink mix review: taste, mixability, caffeine content, and how it compares to bottled versions. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5KHNN97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BNtn-9KUL._SL1500_.jpg"
-pros:
+pros: 
   - "Each 0.5 oz single-serve packet dissolves cleanly in cold water with no gritty residue — a common failure point for powdered drink mixes"
   - "Only 10 calories and 0g sugar per serving, making it a smart swap for sugary bottled iced teas that pack 35-40g of sugar"
   - "The raspberry flavor is tart and distinct, not a generic berry blend — it actually tastes like raspberry, with green tea notes coming through on the finish"
-cons:
+cons: 
   - "The caffeine content (roughly 25mg per serving) is modest — if you're replacing your morning coffee, this won't cut it"
   - "The artificial sweetener aftertaste is present, though milder than most sugar-free drink mixes — noticeable if you're sensitive to sucralose"
+
 ---
 
 Let's be honest: most powdered drink mixes taste like vaguely fruity sugar water with a chemical ghost. The Crystal Light Raspberry Green Tea mix, however, earns its 4.6-star rating across 229 Amazon reviews for a simple reason — it tastes like what it claims to be. That's rarer than it should be.

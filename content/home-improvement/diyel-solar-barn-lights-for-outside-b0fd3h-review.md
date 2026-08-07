@@ -1,24 +1,26 @@
 ---
+
 title: "Diyel Solar Barn Lights for Outside"
 seo_title: "Diyel Solar Barn Lights Review: Honest 2026 Verdict"
 meta_description: "Diyel Solar Barn Lights for Outside reviewed: build quality, brightness, battery life, and real buyer feedback. Is this 4.0-star light worth your money?"
 slug: "diyel-solar-barn-lights-for-outside-b0fd3h-review"
 image_alt: "Diyel solar barn light mounted on exterior wall with warm glow at dusk"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD3H6FQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619k4Bba7dL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Dual-head adjustable design covers wide areas without extra mounting hardware"  
   - "IP65 waterproof rating holds up in heavy rain, based on multiple long-term buyer reports"  
   - "Motion sensor actually works at 20+ feet, not the usual 10-foot gimmick"  
-cons:  
+cons: 
   - "Solar panel is separate from the light — adds a cable run you must plan around"  
   - "Battery life drops noticeably in winter months below freezing, even with the 2000mAh cells"  
   - "Mounting bracket uses plastic — fine for siding, but don't torque the screws into masonry"
+
 ---
 
 **Skip the wiring. Skip the electrician. But don't skip reading this before you buy.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Jazwares Marvel Spidey and His Amazing Friends Action Launch"
 seo_title: "Jazwares Marvel Spidey and His Amazing Friends Act Review"
 meta_description: "Our full jazwares marvel spidey and his amazing friends action launch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMV9ZD9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y+7iHZLNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

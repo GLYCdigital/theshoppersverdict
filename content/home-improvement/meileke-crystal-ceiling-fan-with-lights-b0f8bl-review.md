@@ -1,4 +1,5 @@
 ---
+
 title: "MEILEKE Crystal Ceiling Fan with Lights"
 seo_title: "MEILEKE Crystal Ceiling Fan with Lights Review: Verdict |"
 meta_description: "Our full meileke crystal ceiling fan with lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8BL8PY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l-6RK3z-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MEILEKE Crystal Ceiling Fan with Lights: The $200 Fan That Feels Custom

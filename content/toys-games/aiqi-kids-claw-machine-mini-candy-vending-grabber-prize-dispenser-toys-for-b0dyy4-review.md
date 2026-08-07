@@ -1,23 +1,25 @@
 ---
+
 title: "Aiqi Kids Claw Machine, Mini Candy Vending Grabber, Prize Di"
 seo_title: "Aiqi Kids Claw Machine Review: Mini Candy Grabber Tested"
 meta_description: "Honest Aiqi Kids Claw Machine review: mini candy vending grabber tested with real kids. See what works, what breaks, and who should buy it."
 slug: "aiqi-kids-claw-machine-mini-candy-vending-grabber-prize-dispenser-toys-for-b0dyy4-review"
 image_alt: "Aiqi Kids Claw Machine mini candy vending grabber with colorful prizes inside"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYY46PG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A2eRES7OL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Two play modes (prize claw + vending dispenser) double the fun for the price"  
   - "Rechargeable battery means no hunting for AAAs — USB-C charging works"  
   - "Compact footprint (about 8x10 inches) fits on a shelf or desk without dominating"  
-cons:  
+cons: 
   - "Claw grip strength is weak on small, lightweight items; heavier prizes slip constantly"  
   - "Vending chute jams occasionally with non-spherical items — stick to round candies"
+
 ---
 
 **Opening: Is this a toy or a test of patience?**  

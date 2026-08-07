@@ -1,4 +1,5 @@
 ---
+
 title: "Camping Lantern"
 seo_title: "Camping Lantern Review: Bright, Durable, Worth It?"
 meta_description: "Our honest Camping Lantern review covers brightness, battery life, build quality, and real buyer feedback. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVLZWQZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rki02l7PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bright 360-degree output with multiple color temperature modes (warm, neutral, cool)"
   - "Solid aluminum body with IPX4 water resistance — survives rain and splashes"
   - "USB-C rechargeable with 8-100 hour runtime depending on brightness setting"
-cons:
+cons: 
   - "Hanging hook is plastic and feels less durable than the aluminum body"
   - "No battery percentage indicator — just a low-battery warning light"
   - "Brightness drops noticeably on the lowest setting after ~6 hours of continuous use"
+
 ---
 
 Let's cut through the noise. You're looking at a camping lantern, and there are about 400 of them on Amazon ranging from $12 pieces of junk to $80 over-engineered bricks. This one sits in the middle of that pack, and after digging through 220 ratings and the spec sheet, here's what actually matters.

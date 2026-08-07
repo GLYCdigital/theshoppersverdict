@@ -1,4 +1,5 @@
 ---
+
 title: "Commercial Sink Faucet,TOLSUNY Commercial Kitchen Faucet Wal"
 seo_title: "TOLSUNY Commercial Kitchen Faucet Review: Wall-Mount Pre-Rinse"
 meta_description: "Honest TOLSUNY commercial kitchen faucet review: wall-mount pre-rinse build, sprayer performance, leaks, and who should buy. Real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DFQN3M9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61M-gbSJBgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full metal body and solid brass connections; no plastic fittings in the water path"
   - "The pre-rinse sprayer delivers strong jet pressure that actually blasts cooked-on food off dishes"
   - "Wall-mount design frees up counter space and works well with deep 3-compartment sinks"
-cons:
+cons: 
   - "Inlet spacing is fixed at 8 inches — if your wall rough-in is 6 inches, this won't fit without an adapter"
   - "Several buyers report the sprayer hose kinks near the connection point, restricting water flow after a few months"
   - "No flow restrictor means water usage is high; expect a noticeable bump on your utility bill"
+
 ---
 
 If you're outfitting a commercial kitchen, food truck, or serious home prep station, the TOLSUNY wall-mount pre-rinse faucet promises restaurant-grade performance at a fraction of the price of brands like T&S or Chicago Faucets. But does it deliver where it counts — day-in, day-out abuse?

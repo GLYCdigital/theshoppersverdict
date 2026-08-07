@@ -1,4 +1,5 @@
 ---
+
 title: "MILWAUKEE'S Electric Tools 2724-20 M18 Fuel Blower (Bare)"
 seo_title: "MILWAUKEE'S Electric Tools 2724-20 M18 Fuel Blower Review"
 meta_description: "Our full milwaukee's electric tools 2724-20 m18 fuel blower (bare) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B079LC6RHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VEHAbABAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Milwaukee M18 Fuel Blower (2724-20): The Cordless Blower That Actually Replaces Gas

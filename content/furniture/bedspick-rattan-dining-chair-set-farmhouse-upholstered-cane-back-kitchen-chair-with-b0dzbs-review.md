@@ -1,4 +1,5 @@
 ---
+
 title: "BedsPick Rattan Dining Chair Set - Farmhouse Upholstered Cane Back"
 seo_title: "BedsPick Rattan Dining Chair Review: Farmhouse Cane Back Set (2026)"
 meta_description: "Honest BedsPick rattan dining chair review: comfort, build quality, and real buyer feedback on this farmhouse cane-back chair set. See who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZBSHLJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91O9ro+DtkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with reinforced corner blocks — noticeably sturdier than typical $100-per-chair imports"
   - "Cane back is hand-woven, not printed plastic; adds genuine texture and airflow for long dinners"
   - "Upholstered seat has 2-inch foam padding with a removable, washable fabric cover"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and about 25 minutes per chair — tools not included"
   - "Light cream upholstery shows stains quickly; order the darker linen option if you have kids or pets"
   - "Seat height is fixed at 18.5 inches — verify your table clearance before buying"
+
 ---
 
 Let’s cut through the farmhouse decor noise. The BedsPick Rattan Dining Chair Set is one of those Amazon finds that looks like a $300-per-chair boutique piece but lands at a fraction of that. I’ve tested dozens of dining chairs in this category, and the cane-back trend usually means flimsy MDF frames with plastic veneer. This one is different — but it’s not perfect.

@@ -1,4 +1,5 @@
 ---
+
 title: "ETUDE Zero Sebum Drying Powder Variation (new)"
 seo_title: "ETUDE Zero Sebum Drying Powder Review (2026): Does It Work?"
 meta_description: "Read our honest ETUDE Zero Sebum Drying Powder Variation review. We test oil control, finish, and longevity on 215+ ratings. Find out if it's worth it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVC5XNJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41aZ0wcdNLL._SL1000_.jpg"
-pros:
+pros: 
   - "Instantly blurs pores and sets makeup with a velvety, non-flashback finish"
   - "The 5g travel-friendly compact survives purse abuse — no cracking or powder explosion"
   - "Works as both a daytime mattifier and an overnight skincare hack for oily T-zones"
-cons:
+cons: 
   - "The puff applicator is thin; you'll want a separate brush for precise, even application"
   - "Slightly drying on already-flaky skin — this is an oil-control product, not a hydrator"
+
 ---
 
 **The cult-favorite K-beauty powder that refuses to die — now in a "Variation" formula. Here's the honest breakdown.**

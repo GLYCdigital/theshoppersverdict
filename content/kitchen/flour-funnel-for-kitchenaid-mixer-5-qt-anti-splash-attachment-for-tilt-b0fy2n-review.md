@@ -1,4 +1,5 @@
 ---
+
 title: "Flour Funnel for KitchenAid Mixer 5 Qt, Anti-Splash Attachme"
 seo_title: "Flour Funnel for KitchenAid 5 Qt Review: Anti-Splash Tested"
 meta_description: "We tested the anti-splash flour funnel for KitchenAid 5 Qt tilt-head mixers. Does it really stop the flour cloud? Read our honest review before buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY2NZ2Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6129DZaXblL._SL1500_.jpg"
-pros:
+pros: 
   - "Eliminates the flour cloud that coats your counter and kitchen half a dozen times over when adding 4+ cups of flour to a running mixer"
   - "Fits both the standard pour chute AND the small lid opening on KitchenAid 5 Qt tilt-head models — no adapter needed"
   - "Clear plastic lets you see exactly how much flour has dropped, so you don't over-pour into your dough"
-cons:
+cons: 
   - "Doesn't fit Artisan 5 Qt models with the wider, square-ish pour shield — check your model's chute diameter before ordering"
   - "Taller profile means you may need to remove it before using the tilt-head to check dough consistency mid-mix"
+
 ---
 
 If you bake bread or pizza dough in a KitchenAid 5-quart tilt-head mixer, you know the routine: you pour in two cups of flour, hit the switch, and suddenly your kitchen looks like a snow globe. The Flour Funnel for KitchenAid Mixer 5 Qt aims to kill that flour cloud once and for all. After testing it through a full bread-baking week, here's the honest picture.

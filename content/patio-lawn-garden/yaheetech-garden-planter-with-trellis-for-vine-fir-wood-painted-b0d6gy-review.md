@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Garden Planter With Trellis For Vine Fir Wood Pain"
 seo_title: "Yaheetech Garden Planter With Trellis For Vine Fir Review"
 meta_description: "Our full yaheetech garden planter with trellis for vine fir wood pain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D6GYVG94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91L-8QYRioL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a sunny corner that’s begging for vertical interest, the Yaheetech Garden Planter With Trellis looks like the obvious fix. It’s a fir wood planter box with a lattice back — built for cucumbers, sweet peas, clematis, or anything that climbs. But before you hit “Add to Cart,” you need to know what you’re actually getting.

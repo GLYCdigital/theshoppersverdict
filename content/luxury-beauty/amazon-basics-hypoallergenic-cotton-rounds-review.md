@@ -1,17 +1,18 @@
 ---
+
 title: "Amazon Basics Hypoallergenic Cotton Rounds Review"
 seo_title: "Amazon Basics Cotton Rounds Review: Verdict (4.7/5) | The Shopper's Verdict"
 meta_description: "Amazon Basics Hypoallergenic Cotton Rounds review: 51,300+ Amazon reviews analyzed. 100% cotton, soft and gentle, perfect for makeup removal and toner application. Real pros, cons, and our verdict on this $4 skincare essential."
 slug: "amazon-basics-hypoallergenic-cotton-rounds-review"
 image_alt: "Amazon Basics Hypoallergenic Cotton Rounds - 100 Count, 100% Cotton Skincare and Makeup Removal Pads"
-keywords:
+keywords: 
   - "Amazon Basics cotton rounds review"
   - "best cotton pads for toner"
   - "hypoallergenic cotton rounds"
   - "affordable makeup remover pads"
   - "cotton rounds for skincare"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Are these cotton rounds good for sensitive skin?"
     answer: "Yes. The rounds are 100% cotton and hypoallergenic, making them suitable for sensitive skin. Multiple reviewers confirm they are soft and gentle, especially around the delicate eye area. One reviewer emphasized they are 'gentle enough for sensitive skin and work great for all my skincare steps.'"
   - question: "Do these cotton rounds shed or leave lint on the face?"
@@ -26,7 +27,7 @@ review_count: 51312
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09542G9ZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41roS4Ps5RL._SL1500_.jpg"
-pros:
+pros: 
   - "100% hypoallergenic cotton — gentle on sensitive skin"
   - "Soft texture that does not irritate even around eyes"
   - "Absorbs product efficiently without wasting toner or micellar water"
@@ -34,11 +35,12 @@ pros:
   - "Versatile — works for makeup removal, toner, nail polish, and baby care"
   - "Excellent value at roughly 4 cents per round"
   - "Convenient resealable packaging"
-cons:
+cons: 
   - "Can shed slightly if pulled or snagged on rough skin"
   - "Occasional loose fibers left on face after use"
   - "Not as thick as some premium spa-quality cotton pads"
   - "Packaging is simple — no dispensing mechanism"
+
 ---
 
 ## Amazon Basics Hypoallergenic Cotton Rounds: The Everyday Essential Done Right

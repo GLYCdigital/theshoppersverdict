@@ -1,4 +1,5 @@
 ---
+
 title: "Goomavi Modern Ceiling Light"
 seo_title: "Goomavi Modern Ceiling Light Review: Verdict | TSV"
 meta_description: "Our full goomavi modern ceiling light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJZLVNC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PFJV-WNUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most flush-mount ceiling lights under $50 are either ugly, flimsy, or cast light like a interrogation room. The Goomavi Modern Ceiling Light tries to break that pattern with a clean, low-profile design and a genuinely useful trick — three color temperatures controlled by your existing wall switch. After digging through 220 ratings and the spec sheet, here's the real story.

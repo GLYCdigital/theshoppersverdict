@@ -1,4 +1,5 @@
 ---
+
 title: "Elan Publishing Company Field Notebook/Pocket Journal - 3.5 inch "
 seo_title: "Elan Field Notebook Review: Durable 3.5x5.5 Pocket Journal"
 meta_description: "Honest Elan Publishing field notebook review: 3.5x5.5 pocket journal with waterproof covers, 192 pages. Is it worth it? Pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07488JMMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yL45tLiuL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof covers and paper that shrugs off rain, mud, and coffee spills"
   - "192 perforated pages with 3.5x5.5 size fits comfortably in a shirt pocket or hip pack"
   - "Thread-bound spine lays completely flat — no fighting to keep pages open in the field"
-cons:
+cons: 
   - "Paper is thin-ish at 50gsm; heavy ink bleeders like Sharpies will ghost through"
   - "Elastic closure is functional but not as strong as a Moleskine's band"
   - "No page numbers or index — you'll need your own system for referencing notes"
+
 ---
 
 **The Elan Field Notebook is the kind of gear you forget you're carrying — until you need it, and then it saves your day.** This 3.5" x 5.5" pocket journal has earned a 4.7-star rating from 235 Amazon shoppers, and after putting it through realistic abuse, I understand why. It's not flashy. It doesn't have a cult following like Moleskine or Field Notes. But it does one thing exceptionally well: it survives.

@@ -1,4 +1,5 @@
 ---
+
 title: "Oversized Reusable Dry Erase Pocket Sleeves with 6 Rings, 20"
 seo_title: "Oversized Reusable Dry Erase Pocket Sleeves with 6 Review"
 meta_description: "Our full oversized reusable dry erase pocket sleeves with 6 rings, 20 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKXG52ND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M0EDSYRgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 20-pack dry-erase sleeve set that actually survives a school year — and then some.**

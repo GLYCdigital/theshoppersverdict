@@ -1,4 +1,5 @@
 ---
+
 title: "AquaPod The Original Rocket Bottle Launcher Kit - Launches S"
 seo_title: "AquaPod Rocket Bottle Launcher Kit Review: Worth It? (2026)"
 meta_description: "AquaPod rocket launcher review: real-world test of launch height, durability, and fun. See pros, cons, and if it's worth $30 for your backyard."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003Y5DOJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aSyTOVLmL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Launches standard 1- or 2-liter soda bottles 100+ feet with just water and a bike pump"
   - "No batteries, fuel, or consumables — the only recurring cost is water and a bottle"
   - "Sturdy ABS plastic base and launch tube survive repeated hard landings"
-cons:
+cons: 
   - "Requires a separate bike pump with a pressure gauge — not included, and not all pumps fit"
   - "Can tip over in moderate wind if the base isn't weighted with sand or water"
   - "Adult supervision needed for younger kids — a 100-ft water rocket is not a toy for toddlers"
+
 ---
 
 If you've ever watched a kid's eyes light up watching a 2-liter soda bottle rocket 100 feet into the sky, you already know why the AquaPod is a backyard legend. This is the original — the one that started the water rocket craze — and 220 Amazon reviewers have pushed it to a solid 4.4 stars. But is it actually worth your money, or is it just another gimmick that'll gather dust in the garage after one weekend?

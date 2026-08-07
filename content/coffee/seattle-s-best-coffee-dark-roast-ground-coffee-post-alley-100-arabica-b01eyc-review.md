@@ -1,4 +1,5 @@
 ---
+
 title: "Seattleâ€™s Best Coffee, Dark Roast Ground Coffee, Post Alle"
 seo_title: "Seattleâ€™s Best Coffee, Dark Roast Ground Coffee, Review"
 meta_description: "Our full seattleâ€™s best coffee, dark roast ground coffee, post alle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01EYCIH8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TJg0zVj4L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you’re staring at the coffee aisle, and every dark roast promises “bold” but delivers burnt? Seattle’s Best Post Alley is not that coffee. This one actually earns the dark roast label — but with a nuance that surprises most shoppers.

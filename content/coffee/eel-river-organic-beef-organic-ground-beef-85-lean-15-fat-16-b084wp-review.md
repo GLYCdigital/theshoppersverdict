@@ -1,4 +1,5 @@
 ---
+
 title: "Eel River Organic Beef Organic Ground Beef 85% Lean/15% Fat,"
 seo_title: "Eel River Organic Ground Beef Review: Is It Worth It?"
 meta_description: "Honest Eel River Organic Ground Beef 85/15 review: taste, texture, value, and whether this pasture-raised beef justifies the premium price."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084WP7XTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ehWaHVPUL._SL1500_.jpg"
-pros:
+pros: 
   - "True pasture-raised flavor that tastes noticeably cleaner than conventional supermarket ground beef"
   - "85/15 fat ratio holds up well in burgers and skillet dishes without excessive shrinkage or greasiness"
   - "USDA Organic certification with third-party verification — traceable to a single family farm in Humboldt County, CA"
-cons:
+cons: 
   - "Premium price point — expect to pay 30–50% more per pound than conventional ground beef"
   - "Packaging can arrive with minor freezer burn if shipping delays occur; check sell-by dates carefully"
   - "Some buyers report inconsistent grind coarseness between packages — not an issue for most uses, but noticeable if you're particular"
+
 ---
 
 Let's be direct: this is not the ground beef you grab on a Tuesday for $4.99 a pound. Eel River Organic Ground Beef (85/15) is a premium product with a premium price tag, and the question you need answered is whether the jump in quality justifies the jump in cost. After digging through 235 Amazon ratings and the spec sheet, here's the real story.

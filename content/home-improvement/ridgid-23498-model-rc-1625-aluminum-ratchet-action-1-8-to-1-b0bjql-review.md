@@ -1,7 +1,8 @@
 ---
-title: "RIDGID 23498 Model RC-1625 Aluminum Ratchet Action 1/8\" to 1"
+
+title: "RIDGID 23498 Model RC-1625 Aluminum Ratchet Action 1/8\ to 1"
 seo_title: "RIDGID 23498 Model RC-1625 Aluminum Ratchet Action Review"
-meta_description: "Our full ridgid 23498 model rc-1625 aluminum ratchet action 1/8\" to 1 review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full ridgid 23498 model rc-1625 aluminum ratchet action 1/8\ to 1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ridgid-23498-model-rc-1625-aluminum-ratchet-action-1-8-to-1-b0bjql-review"
 image_alt: "RIDGID 23498 Model RC-1625 Aluminum Ratchet Action 1/8 to 1-5/8 Plastic Pipe And Tubing Cutter, Silver"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJQLD6QK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41VmTeGtcKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Ratchet Cutter That Earns Its Spot in Your Bag

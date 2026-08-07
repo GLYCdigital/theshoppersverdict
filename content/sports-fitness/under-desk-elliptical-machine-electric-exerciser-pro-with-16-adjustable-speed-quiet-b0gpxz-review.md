@@ -1,4 +1,5 @@
 ---
+
 title: "Under Desk Elliptical Machine, Electric Exerciser Pro with 1"
 seo_title: "Under Desk Elliptical Machine, Electric Exerciser  Review"
 meta_description: "Our full under desk elliptical machine, electric exerciser pro with 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GPXZV5L4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714hiVRTQHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a desk job and your Apple Watch keeps scolding you for sitting too long, the Under Desk Elliptical Machine with 16 Adjustable Speeds is probably on your radar. After 220 Amazon ratings averaging 4.4 stars, this thing has clearly earned a following. Here's the real story on whether it belongs under your desk.

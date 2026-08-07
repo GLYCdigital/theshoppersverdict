@@ -1,4 +1,5 @@
 ---
+
 title: "L'Oreal Paris Feria Multi-Faceted Shimmering Permanent Hair "
 seo_title: "L'Oreal Paris Feria Multi-Faceted Shimmering Perma Review"
 meta_description: "Our full l'oreal paris feria multi-faceted shimmering permanent hair  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G6G1WQD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PuwyaVGeL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about drugstore hair color: most of it promises "salon results" and delivers a flat, one-dimensional tint that screams *home job*. L'Oreal's Feria line has always been the exception — the one with the shimmering, light-catching finish that actually looks dimensional. The Multi-Faceted Shimmering Permanent Hair Color builds on that reputation, and after digging through 220 ratings and testing notes, here's what you need to know.

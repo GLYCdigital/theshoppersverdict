@@ -1,4 +1,5 @@
 ---
+
 title: "WORKPRO Cable Cutter, 7-1/2 Inch Heavy Duty Wire Rope Cutter"
 seo_title: "WORKPRO Cable Cutter, 7-1/2 Inch Heavy Duty Wire R Review"
 meta_description: "Our full workpro cable cutter, 7-1/2 inch heavy duty wire rope cutter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B8MCVSZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-p429fNSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WORKPRO Cable Cutter: A Compact Workhorse for the Everyday DIYer

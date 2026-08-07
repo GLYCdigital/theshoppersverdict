@@ -1,4 +1,5 @@
 ---
+
 title: "Dixie SSS51 Spoon Refill, for SmartStock Dispenser, 960/CT,"
 seo_title: "Dixie SSS51 Spoon Refill Review: 960-Ct SmartStock Value"
 meta_description: "Dixie SSS51 SmartStock spoon refill review: 960 durable plastic spoons that fit the dispenser perfectly. See why cafeterias trust these."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007EPVZOE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51eWCBZOJXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Feeds 960 spoons in one sealed sleeve — no reloading mid-shift even in busy break rooms"
   - "Stiff, sturdy polypropylene that holds up to hot soup and aggressive scooping without snapping"
   - "Engineered to drop one-at-a-time from SmartStock dispensers with zero jamming"
-cons:
+cons: 
   - "Only fits the Dixie SmartStock dispenser — useless if you've got a standard countertop caddy"
   - "No individual wrapping, so they're exposed once the sleeve opens; fine for back-of-house, not guest-facing buffets"
+
 ---
 
 ## This Refill Turns a SmartStock Dispenser Into a Set-and-Forget Machine

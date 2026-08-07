@@ -1,4 +1,5 @@
 ---
+
 title: "Every Man Jack Mens Beard Oil - Aged Bourbon Fragrance - Dee"
 seo_title: "Every Man Jack Beard Oil Review: Aged Bourbon (2026)"
 meta_description: "Honest Every Man Jack beard oil review: Aged Bourbon scent, ingredients, and results. See if this 4.6-star grooming essential is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKZRHCZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716PS+hu3qL._SL1500_.jpg"
-pros:
+pros: 
   - "Jojoba and argan oils are first ingredients — real conditioning, not filler"
   - "Aged Bourbon scent is masculine but subtle; fades to a light woodsy note in 30 minutes"
   - "Non-greasy formula absorbs in under 2 minutes, no sticky residue on pillowcases"
-cons:
+cons: 
   - "Glass dropper bottle is slippery when hands are oily — easy to fumble in the shower"
   - "Scent won't last all day; expect 3-4 hours max before needing to reapply"
+
 ---
 
 Every Man Jack's beard oil with the Aged Bourbon fragrance has carved out a solid 4.6-star reputation across 229 ratings. But does it deserve the hype, or is this just another overpriced grooming product riding on a trendy scent name? I've broken down the ingredients, the performance, and what real buyers are saying so you can decide before you drop your cash.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blackstone Original Omnivore Griddle"
 seo_title: "Blackstone Omnivore Griddle Review: Worth It? (2026)"
 meta_description: "Honest Blackstone Original Omnivore Griddle review: build quality, cooking performance, real buyer feedback, and who should buy it. 4.6-star verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8Y547LL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g0CbLKr+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Omnivore plate technology heats evenly with no cold spots, even across the full 28-inch cooking surface"
   - "Integrated grease management system directs runoff into a removable rear trap — no messy front cup to empty"
   - "Pre-seasoned from the factory; first cook works immediately without the usual burn-in ritual"
-cons:
+cons: 
   - "Assembly takes roughly 45–60 minutes and the included hardware feels flimsy in spots — use your own wrench"
   - "No built-in lid or cover included; rain and dust will attack the seasoned surface fast unless you buy one separately"
   - "Fuel gauge is imprecise; you'll still need a manual tank weight check before big cooks"
+
 ---
 
 The Blackstone Original Omnivore Griddle has been sitting at 4.6 stars across 229 Amazon ratings for a reason. It's not flashy, not smart, and won't win design awards. But it does one thing exceptionally well: cook a massive amount of food evenly, without fuss. Here's the real story after digging through buyer feedback and the spec sheet.

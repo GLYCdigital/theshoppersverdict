@@ -1,24 +1,26 @@
 ---
+
 title: "Akeelighting Antique Gold Chandelier Light Fixture, Crystal"
 seo_title: "Akeelighting Antique Gold Chandelier Review: Worth It?"
 meta_description: "Honest Akeelighting antique gold crystal chandelier review: build quality, lighting performance, and who should buy this 4.8-star fixture."
 slug: "akeelighting-antique-gold-chandelier-light-fixture-crystal-chandelier-lighting-modern-for-high-b0gjlq-review"
 image_alt: "Akeelighting antique gold crystal chandelier installed in a modern dining room"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GJLQV3GR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yuqtY9ijL._AC_SL1100_.jpg"
-pros:  
+pros: 
   - "Genuine K9 crystal droplets — high refractive index, not cheap glass"  
   - "Antique gold finish is brushed, not shiny — hides fingerprints and dust well"  
   - "Adjustable hanging height (20–60 inches) fits standard 8-ft and 9-ft ceilings"  
-cons:  
+cons: 
   - "Assembly is fiddly — expect 60–90 minutes with two people"  
   - "Bulbs not included; requires six E12 candelabra bases (max 40W each)"  
   - "No dimmer included — you'll need to buy one separately for mood lighting"
+
 ---
 
 **Opening Hook: A Showpiece That Earns Its Place**  

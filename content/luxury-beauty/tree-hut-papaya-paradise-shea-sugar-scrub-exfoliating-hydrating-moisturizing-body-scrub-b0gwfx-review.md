@@ -1,4 +1,5 @@
 ---
+
 title: "Tree Hut Papaya Paradise Shea Sugar Scrub, Exfoliating, Hydr"
 seo_title: "Tree Hut Papaya Paradise Shea Sugar Scrub, Exfolia Review"
 meta_description: "Our full tree hut papaya paradise shea sugar scrub, exfoliating, hydr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWFX67JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sHhayWa9L._SL1080_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the hype: a body scrub that costs under $10 shouldn’t outperform department-store exfoliators. But Tree Hut’s Papaya Paradise Shea Sugar Scrub does exactly that — and the 4.7-star average across 235 ratings isn’t accidental. This is the rare drugstore product that earns its reputation.

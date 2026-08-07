@@ -1,16 +1,17 @@
 ---
+
 title: "A' Siciliana Sicilian Sparkling Drink Aranciata, Blood Orange, 24 Pack"
 seo_title: "A' Siciliana Blood Orange Soda Review: Verdict (4.6/5) | TSV"
 meta_description: "Our honest A' Siciliana Aranciata review: real buyer quotes on taste, real juice content, and the price question. Is this Italian blood orange soda worth $52.99? Verdict inside."
 slug: "a-siciliana-sicilian-sparkling-drink-aranciata-blood-orange-24-pack-review"
 image_alt: "A' Siciliana Sicilian sparkling blood orange soda cans in a 24-pack"
-keywords:
+keywords: 
   - "a siciliana aranciata review"
   - "sicilian blood orange soda"
   - "italian sparkling drink"
   - "blood orange soda"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Does A' Siciliana Aranciata taste like regular orange soda?"
     answer: "Reviewers say it's in a different league. One buyer called it 'WAY better' than artificially flavored supermarket orange sodas, made with real Sicilian blood orange juice and real cane sugar at roughly half the sugar of a typical soft drink."
   - question: "Is A' Siciliana made with real juice?"
@@ -24,14 +25,15 @@ review_count: 226
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087429FHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rjKtmbI+L._SL1500_.jpg"
-pros:
+pros: 
   - "Made with real Sicilian blood orange juice and real cane sugar"
   - "Distinct, authentic flavor that beats artificially flavored sodas"
   - "Half the sugar of a typical soft drink, per one label-reading reviewer"
   - "Works great as a cocktail mixer or straight over ice"
-cons:
+cons: 
   - "Pricey on Amazon — several buyers hesitate to reorder regularly"
   - "24-can case is a big commitment for a first taste"
+
 ---
 
 ## The Blood Orange Soda That Actually Tastes Like Sicily

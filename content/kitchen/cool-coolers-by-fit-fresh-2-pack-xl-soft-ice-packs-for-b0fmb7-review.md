@@ -1,4 +1,5 @@
 ---
+
 title: "Cool Coolers by Fit & Fresh 2 Pack XL Soft Ice Packs for Coo"
 seo_title: "Fit & Fresh XL Soft Ice Packs Review (2-Pack) | 2026 inch"
 meta_description: "Honest Fit & Fresh 2-pack XL soft ice pack review: leak-proof, flexible, stays cold 8+ hrs. See pros, cons & who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMB7KV81/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91KQu9fCiFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flexible gel packs contour around bottles and food, filling dead air space better than rigid bricks"
   - "Reusable fabric shell prevents frostbite burns on hands when handling straight from freezer"
   - "True XL size (11x7 inches) covers larger cooler floors and lunch bag backs efficiently"
-cons:
+cons: 
   - "Fabric exterior absorbs moisture and odors — needs air drying after each use to avoid mustiness"
   - "Not as long-lasting as dense freezer bricks for multi-day camping trips (closer to 8-10 hours)"
+
 ---
 
 Let’s be blunt: most ice packs are terrible. They’re rock-hard bricks that don’t fit around a bottle of milk, they sweat all over your sandwiches, and they burn your fingers when you grab them. The Fit & Fresh 2-pack XL soft ice packs solve two of those three problems, and they solve them well.

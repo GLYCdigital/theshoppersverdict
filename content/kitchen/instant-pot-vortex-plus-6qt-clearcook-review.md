@@ -1,10 +1,11 @@
 ---
+
 title: "Instant Pot Vortex Plus 6QT ClearCook Air Fryer Review: $89.99"
 seo_title: "Instant Pot Vortex Plus 6QT — ClearCook Tested | TSV"
 meta_description: "Instant Pot Vortex Plus 6QT ClearCook Air Fryer review: 4.6 stars, 7,887 ratings, $89.99. Clear window, 6-in-1 functions. America's Test Kitchen top pick."
 slug: "instant-pot-vortex-plus-6qt-clearcook-review"
 image_alt: "Instant Pot Vortex Plus 6QT ClearCook Air Fryer with clear viewing window and touch controls in black"
-keywords:
+keywords: 
   - "Instant Pot Vortex Plus 6QT review"
   - "best air fryer with clear window"
   - "Instant Pot ClearCook air fryer"
@@ -16,18 +17,18 @@ amazon_rating: 4.6
 price: 89.99
 amazon_url: "https://www.amazon.com/dp/B096N3FTZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QM4TEKo8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "America's Test Kitchen top-rated air fryer"
   - "ClearCook window allows monitoring without pulling the basket"
   - "Easy to clean with non-stick interior"
   - "Fast cooking with even browning — no flipping required"
   - "6-in-1 functionality replaces multiple kitchen appliances"
-cons:
+cons: 
   - "Burning plastic smell during initial uses"
   - "Interior light could be brighter for better visibility"
   - "Some users experienced unit failures after extended use"
   - "Large footprint requires dedicated countertop space"
-faq:
+faq: 
   - question: "Is the Instant Pot Vortex Plus 6QT big enough for a family?"
     answer: "Yes. The 6-quart capacity handles a full meal for 3-4 people. One reviewer notes it has 'the widest tray and holds plenty of food,' even accommodating full chickens and large batches of fries."
   - question: "Is the ClearCook window useful?"
@@ -37,6 +38,7 @@ faq:
   - question: "Does it smoke or smell during first use?"
     answer: "Yes, this is normal. Multiple reviewers note a 'burning plastic smell while you're using it' during the first few uses. This dissipates after the break-in period and is common across most air fryer brands."
 date: 2026-05-30
+
 ---
 
 Let me be blunt: most air fryers are black boxes. You set the timer, pray, and open the basket to find either pale food or charcoal. The Instant Pot Vortex Plus 6QT ClearCook solves that with a literal window. That's the headline feature, and it's not a gimmick—it changes how you cook.

@@ -1,4 +1,5 @@
 ---
+
 title: "KNIPEX Tools Cobra Water Pump Pliers, 7 1/4 inch, red"
 seo_title: "KNIPEX Tools Cobra Water Pump Pliers, 7 1/4 inch,  Review"
 meta_description: "Our full knipex tools cobra water pump pliers, 7 1/4 inch, red review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B000X4PU26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+jF6Dv6vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about water pump pliers: most people buy one cheap pair at the hardware store, use it twice a year, and never think about it again. Then there's the KNIPEX Cobra — the pair that makes plumbers, electricians, and serious DIYers swear off everything else permanently. With a 4.9 average across 245 ratings, this 7-1/4" version is the sweet spot in the lineup. Here's whether it's worth the premium.

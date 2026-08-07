@@ -1,4 +1,5 @@
 ---
+
 title: "Hippeas Veggie Straws, Variety Pack: Sour Cream & Onion"
 seo_title: "Hippeas Veggie Straws, Variety Pack: Sour Cream &  Review"
 meta_description: "Our full hippeas veggie straws, variety pack: sour cream & onion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1Z44RWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cHN5HBmeL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hippeas Veggie Straws Variety Pack (Sour Cream & Onion) is the snack that thinks it's a chip but has better manners.** With 225 ratings averaging 4.5 stars, this isn't a niche health-food curiosity — it's a mainstream snack that's earned its place in lunchboxes and desk drawers. But before you add it to your cart, understand exactly what you're getting.

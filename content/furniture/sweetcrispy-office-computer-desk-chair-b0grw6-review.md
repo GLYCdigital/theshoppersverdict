@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Office Computer Desk Chair"
 seo_title: "Sweetcrispy Office Computer Desk Chair Review: Verdict | "
 meta_description: "Our full sweetcrispy office computer desk chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRW66XYP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SLiPTLWNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sweetcrispy Office Computer Desk Chair: The Budget Ergonomic That Actually Delivers

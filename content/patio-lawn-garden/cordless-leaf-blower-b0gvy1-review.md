@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Leaf Blower"
 seo_title: "Cordless Leaf Blower Review: Real Power, Zero Cords"
 meta_description: "Our honest cordless leaf blower review covers battery life, airspeed, and real-world yard tests. See if this 4.2-star blower fits your property."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVY1MX34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h1oS91fhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers gas-like power at 130 MPH without the fumes or pull-start hassle"
   - "Two included 2.0Ah batteries with rapid charger give 40+ minutes of combined runtime"
   - "Weighs just 5.2 lbs with battery — genuinely comfortable for 30-minute sessions"
-cons:
+cons: 
   - "Battery warning light is easy to miss in bright sunlight — you'll get caught mid-cleanup"
   - "No variable speed trigger; just three preset settings that jump significantly between levels"
+
 ---
 
 If you've been eyeing a cordless blower but worry they're all weak plastic toys compared to your old gas unit, this one from the B0GVY1 line deserves a hard look. With 210 Amazon ratings averaging a solid 4.2 stars, it's clearly earning its keep on real suburban lawns. Here's the unvarnished truth after digging through the specs, the reviews, and what actually matters on a Saturday morning.

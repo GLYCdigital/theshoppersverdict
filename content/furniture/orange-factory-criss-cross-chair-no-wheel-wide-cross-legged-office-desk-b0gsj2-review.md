@@ -1,4 +1,5 @@
 ---
+
 title: "Orange Factory Criss Cross Chair No Wheel Wide Cross Legged "
 seo_title: "Orange Factory Criss Cross Chair No Wheel Wide Cro Review"
 meta_description: "Our full orange factory criss cross chair no wheel wide cross legged  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSJ2KCL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819-MueFBBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "ergonomic" chairs are just mesh-covered thrones that cost as much as a used car. The Orange Factory Criss Cross Chair takes a different bet — that you'd rather sit *like a human* than like a CEO. And for 220 buyers who've rated it 4.4 stars, that bet is mostly paying off.

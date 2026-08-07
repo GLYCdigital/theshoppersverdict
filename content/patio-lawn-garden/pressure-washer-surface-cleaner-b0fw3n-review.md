@@ -1,4 +1,5 @@
 ---
+
 title: "Pressure Washer Surface Cleaner"
 seo_title: "Pressure Washer Surface Cleaner Review: Verdict | TSV"
 meta_description: "Our full pressure washer surface cleaner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FW3NG2BM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sgX4tW0mL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever spent an afternoon hunched over a pressure washer wand trying to erase driveway grime, you already know the pain: the streaks, the overspray, the aching back. This surface cleaner attachment promises to fix all three. After 225 Amazon ratings averaging 4.5 stars, the consensus is clear — but let's dig into whether it actually earns a spot in your garage.

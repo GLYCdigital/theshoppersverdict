@@ -1,4 +1,5 @@
 ---
+
 title: "Swivel Armchair for Living Room"
 seo_title: "Swivel Armchair for Living Room Review: Verdict | TSV"
 meta_description: "Our full swivel armchair for living room review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSV4DJCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MKPVgk1KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most swivel chairs under $300 are a gamble. You're either getting a wobbly base that rocks like a boat or upholstery that pills within a month. This one, based on 229 ratings and a 4.6-star average, appears to be the exception — but let's dig into whether it actually earns that score.

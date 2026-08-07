@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Dimmable, 10,000 Hour Lifetime, PAR20 LED Ligh"
 seo_title: "Amazon Basics PAR20 LED Bulb Review: Dimmable & Reliable"
 meta_description: "Amazon Basics PAR20 LED review: dimmable performance, 10,000-hour life, and energy savings. See if this affordable recessed light bulb is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086CT5RSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dkc-e8zhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, flicker-free dimming down to roughly 10% brightness — rare at this price point"
   - "True 10,000-hour rated life means years of use even in frequently-lit rooms"
   - "Compact PAR20 form factor fits tight recessed housings and track fixtures without overhang"
-cons:
+cons: 
   - "Color temperature is fixed at 2700K warm white — no tunable white option for flexible ambiance"
   - "Heat buildup in fully enclosed fixtures can shorten lifespan despite the 10,000-hour rating"
+
 ---
 
 Let’s be honest about LED bulbs: most of them are interchangeable, forgettable, and easy to skip. The Amazon Basics Dimmable PAR20 is different — not because it’s flashy, but because it nails the fundamentals at a price that makes you wonder why you ever paid more.

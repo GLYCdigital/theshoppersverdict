@@ -1,4 +1,5 @@
 ---
+
 title: "Safly Fun Gymnastics Bar for Kids Ages 3-15 | Sturdy Steel H"
 seo_title: "Safly Fun Gymnastics Bar for Kids Ages 3-15 | Stur Review"
 meta_description: "Our full safly fun gymnastics bar for kids ages 3-15 | sturdy steel h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSG2J97F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617xzKl8izL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Safly Fun Gymnastics Bar: A Real Home Gym Solution or Just Another Foldable Toy?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Alabaster Gold Long Wall Sconce, Antique Brass Sconces Wall"
 seo_title: "Alabaster Gold Long Wall Sconce Review: Antique Brass (2026)"
 meta_description: "Honest review of the Alabaster Gold Long Wall Sconce with antique brass finish. Real pros, cons, and buyer feedback on this 4.7-star wall light."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DD44G35S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zF2A2F3VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine alabaster stone diffuser creates warm, diffused light that flatters any wall color"
   - "Substantial antique brass finish—not painted-on, so it won't flake or tarnish unevenly"
   - "Long 14-inch profile fills empty wall space above consoles, beds, or staircases without needing two fixtures"
-cons:
+cons: 
   - "Hardwired only—no plug-in option, so you'll need existing junction box or an electrician"
   - "Alabaster is porous; mineral oil treatment recommended to prevent water marks in humid bathrooms"
   - "Dimmer compatibility varies—some LED bulbs buzz unless paired with specific dimmer switches"
+
 ---
 
 If you've been scrolling past a dozen brass sconces that all look like they came off the same factory line, this Alabaster Gold Long Wall Sconce is the one that'll make you stop. It's not the cheapest option, and it's not trying to be. What it is: a genuinely well-made fixture that solves a specific problem—long empty wall space above a console, a king bed, or a hallway that swallows standard-size sconces whole.

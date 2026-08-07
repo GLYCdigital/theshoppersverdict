@@ -1,4 +1,5 @@
 ---
+
 title: "Loddie Doddie Liquid Chalk Markers - 24 Pack, 1mm Tip, Multi"
 seo_title: "Loddie Doddie Liquid Chalk Markers - 24 Pack, 1mm  Review"
 meta_description: "Our full loddie doddie liquid chalk markers - 24 pack, 1mm tip, multi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CB6ZPDNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w3vW8JbZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to write a legible drink menu with a fat-tipped chalk marker, you know the struggle. The Loddie Doddie 24-pack with 1mm tips is built to fix that specific problem — and for the most part, it does.

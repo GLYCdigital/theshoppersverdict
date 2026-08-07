@@ -1,4 +1,5 @@
 ---
+
 title: "SHEEPAM 7 Tier Tree Bookshelf with Drawer"
 seo_title: "SHEEPAM 7 Tier Tree Bookshelf with Drawer Review: Verdict"
 meta_description: "Our full sheepam 7 tier tree bookshelf with drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMTJQB22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QCqLn6Y5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You see a lot of novelty bookshelves that look great in renderings and fall apart in real life. The SHEEPAM 7 Tier Tree Bookshelf is not that product. With a 4.5-star average across 225 ratings, this unit earns its place in the conversation — but it's not without quirks. Here's what you actually need to know before clicking buy.

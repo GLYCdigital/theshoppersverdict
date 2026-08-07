@@ -1,4 +1,5 @@
 ---
+
 title: "Pink ICE Rue 21 Perfume Spray Fl"
 seo_title: "Pink ICE Rue 21 Perfume Spray Fl Review: Verdict | TSV"
 meta_description: "Our full pink ice rue 21 perfume spray fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C4CF22Q6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619BhMJTxcL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some fragrances try to be everything at once and end up being nothing. The Pink ICE Rue 21 Perfume Spray isn't that. It knows exactly what it is: a bright, youthful, fruity-floral that delivers way more presence than its price tag suggests. And with 240 ratings averaging 4.8 stars, I'm clearly not the only one who thinks so.

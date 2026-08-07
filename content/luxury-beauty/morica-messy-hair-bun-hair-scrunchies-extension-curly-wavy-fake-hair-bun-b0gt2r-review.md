@@ -1,4 +1,5 @@
 ---
+
 title: "MORICA Messy Hair Bun Hair Scrunchies Extension Curly Wavy f"
 seo_title: "MORICA Messy Hair Bun Hair Scrunchies Extension Cu Review"
 meta_description: "Our full morica messy hair bun hair scrunchies extension curly wavy f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GT2R8XXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tigJB35-L._SS40_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: a fake hair bun scrunchie is either a lifesaver or a costume-party prop. The MORICA Messy Hair Bun Extension sits firmly in the former camp, with a few caveats worth knowing before you hit buy.

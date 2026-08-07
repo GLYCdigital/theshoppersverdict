@@ -1,4 +1,5 @@
 ---
+
 title: "KAMPKEEPER 10x10 Pop Up Canopy Tent with 2 Sidewalls, Beach "
 seo_title: "KAMPKEEPER 10x10 Pop Up Canopy Tent with 2 Sidewal Review"
 meta_description: "Our full kampkeeper 10x10 pop up canopy tent with 2 sidewalls, beach  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXQ17X2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qlqEYx6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a pop-up canopy on a windy beach, you know the drill: poles fighting you, stakes pulling loose, and a tarp that turns into a sail. The KAMPKEEPER 10x10 aims to fix those pain points with pre-attached sidewalls, sand pockets, and a vented roof. After combing through 210 Amazon ratings (4.2/5 average), here's the real story.

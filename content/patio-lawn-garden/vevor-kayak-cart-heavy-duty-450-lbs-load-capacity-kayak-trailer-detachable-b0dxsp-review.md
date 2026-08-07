@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Kayak Cart, Heavy Duty 450 LBS Load Capacity Kayak Tra"
 seo_title: "VEVOR Kayak Cart, Heavy Duty 450 LBS Load Capacity Review"
 meta_description: "Our full vevor kayak cart, heavy duty 450 lbs load capacity kayak tra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXSPW38V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JVh3FzGmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've ever dragged a 70-pound fishing kayak across a gravel lot, you know the shoulder burn. The VEVOR Kayak Cart fixes that for under what most brands charge for bare-bones frames. But it's not perfect—here's what 225 buyers actually found.

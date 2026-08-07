@@ -1,4 +1,5 @@
 ---
+
 title: "Haidms Black Interior Door Knobs Sets MS 2093 NEW"
 seo_title: "Haidms Black Interior Door Knobs Sets MS 2093 NEW Review:"
 meta_description: "Our full haidms black interior door knobs sets ms 2093 new review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BZZ2TZK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Haidms Black Interior Door Knobs Sets MS 2093 NEW: The Real Deal?

@@ -1,4 +1,5 @@
 ---
+
 title: "Floor Register Vent Cover, Heavy Duty Steel Floor Vent Cover"
 seo_title: "Heavy Duty Steel Floor Vent Cover Review (2026) | Honest Verdict"
 meta_description: "In-depth review of the Heavy Duty Steel Floor Vent Cover. Is this 4.6-star register worth it? We test durability, airflow, and fit. Real pros & cons."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP3Z5H4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cYLTF4K6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel construction won't crack or warp under foot traffic, unlike plastic grilles that snap within months"
   - "Precision fit — the flange sits flush against the floor with no rocking or rattling, even on slightly uneven subfloors"
   - "Adjustable louvers let you direct airflow precisely, and they lock in place without creeping closed over time"
-cons:
+cons: 
   - "Sharp-ish edges on the underside during installation — wear work gloves or you'll get nicked"
   - "Paint finish is durable but not chip-proof; dropping a heavy object on the corner will leave a mark"
+
 ---
 
 Let's be blunt: most floor vent covers are flimsy plastic afterthoughts that crack, warp, or pop loose the first time someone steps on them wrong. That's not this product. This heavy-duty steel register is the kind of thing you install once and forget about for a decade.

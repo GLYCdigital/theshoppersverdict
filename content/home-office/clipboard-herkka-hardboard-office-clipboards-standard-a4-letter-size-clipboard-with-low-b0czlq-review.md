@@ -1,4 +1,5 @@
 ---
+
 title: "Clipboard, HERKKA Hardboard Office Clipboards Standard A4 Le"
 seo_title: "HERKKA Hardboard Clipboard Review: Honest A4 Office Test"
 meta_description: "HERKKA hardboard A4 clipboard review: solid build, smooth writing surface, strong clip. Real pros, cons & buying advice from 240+ Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZLQTD92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712FWSBP49L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5mm hardboard construction — rigid enough for lap writing without flexing or warping"
   - "Smooth, sealed surface eliminates ink bleed-through and ballpoint skipping"
   - "Strong spring clip holds 40+ pages securely without leaving permanent dents"
-cons:
+cons: 
   - "No integrated storage for loose papers or pens — you'll carry extras separately"
   - "Hardboard edges can show minor scuffs after heavy field use"
+
 ---
 
 Some clipboards are flimsy plastic afterthoughts. The HERKKA hardboard A4 is not that. This is the clipboard you grab when you need a reliable writing surface — whether you're on a warehouse floor, in a client meeting, or working from the couch.

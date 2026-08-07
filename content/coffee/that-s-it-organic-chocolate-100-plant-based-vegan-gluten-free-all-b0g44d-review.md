@@ -1,4 +1,5 @@
 ---
+
 title: "That's it. Organic Chocolate 100% Plant-Based, Vegan, Gluten"
 seo_title: "That's it. Organic Chocolate 100% Plant-Based, Veg Review"
 meta_description: "Our full that's it. organic chocolate 100% plant-based, vegan, gluten review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G44DCQZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yjEvQZtkL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: That's it. Organic Chocolate bars are not chocolate bars. They're fruit bars with a light dusting of cocoa. That distinction matters, because shoppers expecting a sweet, creamy chocolate experience will be disappointed. But if you're looking for a genuinely clean, plant-based snack that happens to have a hint of chocolate, these deliver exactly what they promise.

@@ -1,4 +1,5 @@
 ---
+
 title: "Apple USB-C Digital AV Multiport Adapter"
 seo_title: "Apple USB-C AV Multiport Adapter Review (2026): Worth It?"
 meta_description: "Apple's USB-C AV Multiport Adapter reviewed: 4.6/5 stars. Does it deliver 4K HDMI, USB-A, and pass-through charging? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD9V8FD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21v79bJz1xL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Reliable 4K HDMI output at 60Hz — crisp for presentations or external monitors"
   - "Pass-through USB-C charging up to 60W keeps MacBook topped off during use"
   - "Compact aluminum body that matches Apple's design language and doesn't overheat"
-cons:
+cons: 
   - "Only one USB-A port — you'll need a hub for anything beyond a mouse or flash drive"
   - "No SD card slot, which is a dealbreaker for photographers or videographers"
   - "Premium price tag compared to third-party multiport adapters with more ports"
+
 ---
 
 **Opening hook**  

@@ -1,4 +1,5 @@
 ---
+
 title: "Acure Curiously Clarifying Shampoo & Conditioner – Deep Cl"
 seo_title: "Acure Curiously Clarifying Shampoo Review: Deep Clean, Hydration"
 meta_description: "Honest Acure Curiously Clarifying Shampoo & Conditioner review: Does the deep-cleansing duo strip hair or hydrate? Real user results, pros, cons."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C347ZSHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513d-5MH-ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Sulfate-free clarifying formula removes buildup without the squeaky, straw-like feeling typical of drugstore clarifiers"
   - "Argan oil and mint in the conditioner provide real slip and a cooling scalp sensation that lingers"
   - "Vegan, cruelty-free, and formulated without parabens, silicones, or mineral oil — clean enough for sensitive scalps"
-cons:
+cons: 
   - "Fragrance is divisive — some users find the citrus-mint blend too sharp, almost medicinal"
   - "Thin conditioner texture requires more product than expected, especially for thick or curly hair"
+
 ---
 
 Let’s be honest about clarifying shampoo: most of them work like a chemistry experiment on your scalp, stripping away not just product buildup but also your hair’s natural moisture. The Acure Curiously Clarifying Shampoo & Conditioner duo aims to break that pattern. With a 4.3-star average across 215 ratings, it’s clearly doing something right — but is it the deep-cleansing reset your hair needs, or just another bottle of overhyped greenwashing?

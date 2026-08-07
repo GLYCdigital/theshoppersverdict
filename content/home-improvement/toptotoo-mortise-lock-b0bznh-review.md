@@ -1,4 +1,5 @@
 ---
+
 title: "ToPToToo Mortise Lock"
 seo_title: "ToPToToo Mortise Lock Review: Verdict | TSV"
 meta_description: "Our full toptotoo mortise lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BZNHVWZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QON6XTKqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between "bargain bin" and "pro-grade," the ToPToToo Mortise Lock sits in a surprisingly sweet spot for DIYers. At 4.2 stars across 210 ratings, it's not perfect — but for a door mechanism that costs a fraction of what a locksmith would charge, it earns its keep.

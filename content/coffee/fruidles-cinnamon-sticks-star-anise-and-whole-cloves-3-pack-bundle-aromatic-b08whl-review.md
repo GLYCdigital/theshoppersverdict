@@ -1,4 +1,5 @@
 ---
+
 title: "Fruidles Cinnamon Sticks, Star Anise and Whole Cloves - 3 Pa"
 seo_title: "Fruidles Spice Trio Review: Cinnamon, Anise & Cloves"
 meta_description: "Fruidles 3-pack spice bundle review: Ceylon cinnamon sticks, star anise & whole cloves for coffee, tea & baking. Real aroma tests, honest cons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08WHLMT63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ySo5o7vPL._SL1500_.jpg"
-pros:
+pros: 
   - "Ceylon cinnamon is the real deal — sweet, delicate, and noticeably different from cheap cassia; the sticks are thick and fragrant"
   - "Star anise pods are whole and intact, with that licorice punch that actually holds up through a full coffee brew cycle"
   - "Three separate resealable pouches mean you're not stuck with one giant bag of cloves you'll never finish"
-cons:
+cons: 
   - "No harvest or batch date on the packaging, so freshness is a gamble depending on how long it sat in Amazon's warehouse"
   - "Clove quantity is modest — roughly 2 ounces — and if you're using them in mulled drinks regularly, you'll restock fast"
+
 ---
 
 Let's be direct: most spice bundles on Amazon are a trap. You get one giant bag of dusty cassia bark, some broken star anise that's lost its oil, and cloves that smell more like cardboard than clove. The Fruidles 3-pack isn't that. Here's what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Mehron Makeup Paradise Makeup AQ 30 Color"
 seo_title: "Mehron Makeup Paradise Makeup AQ 30 Color Review: Verdict"
 meta_description: "Our full mehron makeup paradise makeup aq 30 color review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09MV2NDRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91trDiMpr4L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced individual water-activated face paint pans lately, you know the sting: $8–12 per shade, and suddenly you're out $200 before you've painted a single butterfly. The Mehron Paradise Makeup AQ 30 Color palette sidesteps that math entirely—30 professional-grade shades in one slim case for a fraction of the cost. But is it a budget win or a compromise in quality? I've tested it extensively. Here's the honest breakdown.

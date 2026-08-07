@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Jurassic World Spinosaurus & Quetzalcoatlus Air Mission"
 seo_title: "LEGO Jurassic World Spinosaurus & Quetzalcoatlus A Review"
 meta_description: "Our full lego jurassic world spinosaurus & quetzalcoatlus air mission review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRW6FBXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v5qxm7YaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What's Actually in the Box**

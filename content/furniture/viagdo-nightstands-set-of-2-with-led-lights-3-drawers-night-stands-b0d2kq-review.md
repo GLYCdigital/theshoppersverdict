@@ -1,4 +1,5 @@
 ---
+
 title: "VIAGDO Nightstands Set of 2 with LED Lights, 3 Drawers Night"
 seo_title: "VIAGDO Nightstands Set of 2 with LED Lights, 3 Dra Review"
 meta_description: "Our full viagdo nightstands set of 2 with led lights, 3 drawers night review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D2KQQXYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qZkaH3cDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VIAGDO Nightstands Set of 2: LED Lights That Actually Do Something**

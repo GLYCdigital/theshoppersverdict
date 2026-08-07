@@ -1,4 +1,5 @@
 ---
+
 title: "Glocusent Book Lights for Reading at Night, Rechargeable Boo"
 seo_title: "Glocusent Book Lights for Reading at Night, Rechar Review"
 meta_description: "Our full glocusent book lights for reading at night, rechargeable boo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5QW779L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SeB6mKYEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever woken up your partner with a bedside lamp at 1 a.m., you already know why the Glocusent rechargeable book light exists. With 225 ratings averaging 4.5 stars, this clip-on light has become a quiet staple for night readers. The question isn't whether it works — it's whether it's the right one for your specific reading habits. Here's the honest breakdown.

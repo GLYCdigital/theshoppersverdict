@@ -1,4 +1,5 @@
 ---
+
 title: "Nostalgia Snow Cone Shaved Ice Machine - Retro Table-Top Slu"
 seo_title: "Nostalgia Snow Cone Shaved Ice Machine - Retro Tab Review"
 meta_description: "Our full nostalgia snow cone shaved ice machine - retro table-top slu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FX58MQTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MmFvFs5vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

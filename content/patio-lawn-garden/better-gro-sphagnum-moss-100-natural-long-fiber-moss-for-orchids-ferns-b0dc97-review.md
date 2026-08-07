@@ -1,4 +1,5 @@
 ---
+
 title: "Better-GRO Sphagnum Moss - 100% Natural, Long-Fiber Moss for"
 seo_title: "Better-GRO Sphagnum Moss Review: Long-Fiber for Orchids (2026)"
 meta_description: "Honest Better-GRO Sphagnum Moss review: 100% natural long-fiber for orchids, ferns & terrariums. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC972MST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91keM8YhOSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely long fibers that hold structure and resist breaking down — not the dusty, crumbled stuff you get with cheaper brands"
   - "Rewetting is fast and even; a dry brick or bag doesn't turn into a soggy clump that repels water"
   - "Consistent quality across batches — no surprise piles of twigs, bark, or debris mixed in"
-cons:
+cons: 
   - "Bag arrives compressed and dry; you'll need to fluff and soak it before use, which takes 10-15 minutes of hands-on prep"
   - "No quantity indicator on the listing photos — easy to underestimate how much you need for larger repotting jobs"
+
 ---
 
 If you've ever cracked open a bag of "sphagnum moss" only to find brown, crumbled dust that packs into a suffocating brick, you know the disappointment. Better-GRO's long-fiber offering is the antidote to that experience — but it's not without its own quirks.

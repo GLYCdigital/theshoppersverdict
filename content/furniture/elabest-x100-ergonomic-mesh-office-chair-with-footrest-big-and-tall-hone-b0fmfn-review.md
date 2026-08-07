@@ -1,4 +1,5 @@
 ---
+
 title: "ELABEST X100 Ergonomic Mesh Office Chair with Footrest, Big"
 seo_title: "ELABEST X100 Ergonomic Mesh Chair Review: Big & Tall Friendly"
 meta_description: "ELABEST X100 ergonomic mesh office chair with footrest review: 4.7/5 rating, big & tall friendly, breathable. Honest pros, cons, and buying verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMFNF27F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81X9duDwN9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Breathable 3D mesh backrest keeps you cool during marathon work sessions—no swamp back by 3 PM"
   - Flip-out footrest actually extends far enough for taller users (5'11 inch "+), unlike most chair add-ons
   - Big & tall rated capacity holds up to 350 lbs with a reinforced steel frame and wide 21.7 inch " seat
-cons:
+cons: 
   - "Assembly takes 30–40 minutes solo; the footrest mechanism alignment is finicky and needs patience"
   - "Seat cushion is firm—great for posture, but if you prefer plush cloud seating, this isn't it"
+
 ---
 
 If you're over 6 feet tall or north of 250 pounds, you already know the struggle: "big and tall" office chairs are usually just regular chairs with longer gas cylinders. The ELABEST X100 actually changes the geometry. With a 21.7-inch wide seat, a backrest that extends to 33 inches tall, and a reinforced steel frame rated to 350 pounds, this isn't a marketing gimmick—the dimensions genuinely accommodate larger frames. And it throws in a footrest most competitors charge $80 extra for.

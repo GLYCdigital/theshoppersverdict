@@ -1,4 +1,5 @@
 ---
+
 title: "Open Farm Wet Cat Parent"
 seo_title: "Open Farm Wet Cat Parent Review: Verdict | TSV"
 meta_description: "Our full open farm wet cat parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D1GTPMYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZtNuwsT5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cat parents know the drill: you buy an expensive, “premium” wet food, your cat sniffs it once, and walks away. The Open Farm Wet Cat Parent line tries to be different — ethically sourced proteins, transparent sourcing, and a clean ingredient list. But does that translate to a bowl your cat will actually empty? With 195 ratings averaging 3.9 stars, the answer is complicated.

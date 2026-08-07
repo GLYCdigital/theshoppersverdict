@@ -1,4 +1,5 @@
 ---
+
 title: "JONATHAN Y NRF103A-13 Pata Hand Woven Chunky Jute with Fring"
 seo_title: "JONATHAN Y NRF103A-13 Pata Hand Woven Chunky Jute  Review"
 meta_description: "Our full jonathan y nrf103a-13 pata hand woven chunky jute with fring review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CY1FS1FJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1O1B9vcOYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Jute Rug That Actually Looks Handmade

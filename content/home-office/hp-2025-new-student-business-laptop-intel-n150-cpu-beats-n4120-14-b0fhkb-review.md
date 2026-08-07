@@ -1,4 +1,5 @@
 ---
+
 title: "HP 2025 New Student Business Laptop, Intel N150 CPU(Beats N4"
 seo_title: "HP 2025 New Student Business Laptop, Intel N150 CP Review"
 meta_description: "Our full hp 2025 new student business laptop, intel n150 cpu(beats n4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FHKBQXF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710boErsa9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The budget laptop that finally ditched the ancient N4120 — but is the N150 enough for real work? Let's dig in.**

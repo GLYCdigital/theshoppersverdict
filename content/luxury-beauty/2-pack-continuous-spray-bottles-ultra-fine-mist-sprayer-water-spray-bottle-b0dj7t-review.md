@@ -1,4 +1,5 @@
 ---
+
 title: "2 Pack Continuous Spray Bottles - Ultra Fine Mist Sprayer |"
 seo_title: "2 Pack Continuous Spray Bottles Review: Fine Mist Sprayer"
 meta_description: "Honest review of 2 Pack Continuous Spray Bottles with ultra fine mist. See how this sprayer performs for skincare, hair, and plants. Real pros & cons."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ7T9PTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xqEyEchML._SL1500_.jpg"
-pros:
+pros: 
   - "Continuous spray technology delivers a steady, hands-free mist without the finger fatigue of trigger bottles"
   - "Ultra-fine 360-degree nozzle works upside down and at angles, reaching hard-to-access areas"
   - "Leak-proof seal and durable PET construction hold up to daily use with alcohol-based toners"
-cons:
+cons: 
   - "No visible volume markings, making it difficult to mix precise DIY solutions"
   - "Small 8oz capacity means frequent refills for heavy daily use"
+
 ---
 
 If you've ever held a trigger sprayer until your index finger cramped, you already understand why the continuous spray bottle category exists. The 2 Pack Continuous Spray Bottles with Ultra Fine Mist aim to solve that exact problem — and for the most part, they deliver.

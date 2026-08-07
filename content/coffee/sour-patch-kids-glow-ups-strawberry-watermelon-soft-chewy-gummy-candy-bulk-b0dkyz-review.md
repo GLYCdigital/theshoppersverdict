@@ -1,4 +1,5 @@
 ---
+
 title: "SOUR PATCH KIDS Glow Ups Strawberry-Watermelon Soft & Chewy "
 seo_title: "SOUR PATCH KIDS Glow Ups Strawberry-Watermelon Sof Review"
 meta_description: "Our full sour patch kids glow ups strawberry-watermelon soft & chewy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKYZ6Z5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+PWXK8OBL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The gummy that glows: is it a gimmick or genuinely good candy?**

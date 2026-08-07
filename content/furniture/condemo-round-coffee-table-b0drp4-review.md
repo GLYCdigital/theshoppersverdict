@@ -1,4 +1,5 @@
 ---
+
 title: "Condemo Round Coffee Table"
 seo_title: "Condemo Round Coffee Table Review (2026): Worth It?"
 meta_description: "Condemo Round Coffee Table review: 4.6★ rating. Is this sturdy round table worth your money? Real pros, cons, and buying advice inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRP4V2N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jgjcgBF5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid MDF and metal frame construction that doesn't wobble, even on carpet"
   - "Round 31.5-inch top fits four people comfortably without dominating a small room"
   - "Two-tier shelf design adds practical storage without visual clutter"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 25 minutes of patience"
   - "White finish shows scuffs more readily than darker wood tones"
+
 ---
 
 A round coffee table is one of those pieces that either anchors a living room or becomes a constant annoyance — too big, too flimsy, too awkward. The Condemo Round Coffee Table sits firmly in the first camp, and with a 4.6-star average across 229 ratings, it's clearly earning its keep in real homes. Here's the honest breakdown.

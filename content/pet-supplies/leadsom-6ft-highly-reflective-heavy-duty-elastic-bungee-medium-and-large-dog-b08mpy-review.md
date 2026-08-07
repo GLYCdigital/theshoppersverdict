@@ -1,4 +1,5 @@
 ---
+
 title: "LEADSOM 6FT Highly Reflective Heavy Duty Elastic Bungee Medi"
 seo_title: "LEADSOM 6FT Highly Reflective Heavy Duty Elastic B Review"
 meta_description: "Our full leadsom 6ft highly reflective heavy duty elastic bungee medi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08MPYYP5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IQpDrwddL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your 70-pound lab decides a squirrel is worth chasing, a standard leash transfers every ounce of that momentum straight into your shoulder joint. The LEADSOM 6FT bungee leash is built to absorb that hit — and for the most part, it does exactly what it promises.

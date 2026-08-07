@@ -1,4 +1,5 @@
 ---
+
 title: "MEUS Racing Isokinetic 3-Section CVD Front and Rear Axles Ma"
 seo_title: "MEUS Racing Isokinetic 3-Section CVD Front and Rea Review"
 meta_description: "Our full meus racing isokinetic 3-section cvd front and rear axles ma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC2ML37N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nAgfTrQuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched your crawler's front wheels bind up at full steering lock, you already know the problem. Stock dogbone axles on most 1/10 scale rigs turn smooth until you need maximum steering angle — then they catch, skip, and fight you. That's exactly what the MEUS Racing Isokinetic 3-Section CVD axles are designed to eliminate. And based on 229 Amazon ratings averaging 4.6 stars, they largely deliver. But they're not without a few sharp edges.

@@ -1,4 +1,5 @@
 ---
+
 title: "Orison Outdoor Ceiling Fans with Light, Wet Rated Outdoor Ha"
 seo_title: "Orison Outdoor Ceiling Fans with Light, Wet Rated  Review"
 meta_description: "Our full orison outdoor ceiling fans with light, wet rated outdoor ha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD2XMPFT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r7NZKDnxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Wet-rated outdoor fans are a crowded category, but the Orison stands out for one simple reason: it actually handles weather.** I've tested fans that claimed "outdoor rated" and rusted within a season. This one has an IP68-rated motor housing and sealed blade brackets, which means it's not just splash-proof — it's built for direct rain, humidity, and even coastal salt air. At $149.99, it undercuts most competitors with similar wet-rated specs by $50 to $100.

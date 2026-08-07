@@ -1,4 +1,5 @@
 ---
+
 title: "Awescuti Round Boho Wood Coffee Table - 29.1 inch  Farmhouse Natu"
 seo_title: "Awescuti Round Boho Coffee Table Review: Worth It?"
 meta_description: "Honest Awescuti round boho wood coffee table review: build quality, real-world use, and who should buy. 4.4-star rating analyzed for smart shoppers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVPML1Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BRrHXNAUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood construction with a natural finish that hides everyday scuffs well"
   - "Space-efficient 29.1-inch round footprint fits small living rooms without dominating"
   - "Open lower shelf adds practical storage without visual bulk — rare at this price"
-cons:
+cons: 
   - "Assembly requires patience; pre-drilled holes on the lower shelf can misalign slightly"
   - "Rounded edges look great but reduce usable flat surface area vs. a square table"
   - "Natural wood tone varies between units — don't expect a perfect match to product photos"
+
 ---
 
 The Awescuti Round Boho Wood Coffee Table is the kind of piece that looks like it costs three times its actual price — until you inspect the joinery. At 29.1 inches in diameter and roughly 18 inches tall, it's a compact circle that brings a warm, organic focal point to any living room. But is it a smart buy or just another pretty face in the Amazon furniture graveyard? I've dug through the specs, the 220 ratings, and the recurring buyer feedback to give you the unvarnished truth.

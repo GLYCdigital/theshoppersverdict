@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Wood Cat Tree with Sisal Rope."
 seo_title: "Modern Wood Cat Tree with Sisal Rope. Review: Verdict | T"
 meta_description: "Our full modern wood cat tree with sisal rope. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKB8ZJ7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vz0NbgK5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cat trees look like they escaped from a 1990s basement rec room — carpeted blobs in garish colors that scream “pet store.” This one doesn’t. The Modern Wood Cat Tree with Sisal Rope actually looks like furniture you’d tolerate in a living room, not hide in a corner. But looks only get a product so far. After digging through 220 ratings at 4.4 stars, here’s what you need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bag Boy CB-15 Golf Cart Bag"
 seo_title: "Bag Boy CB-15 Golf Cart Bag Review: 14-Way Top, Durable"
 meta_description: "Bag Boy CB-15 golf cart bag review: 14-way top, 15 pockets, cart-strap pass-through. See pros, cons, and who should buy this 4.7-star cart bag."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJS2F1KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NjejmyqgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14-way padded top with full-length dividers prevents club tangling and protects graphite shafts"
   - "Cart-strap pass-through channel keeps straps from crushing pockets when secured to a cart"
   - "15 pockets including a fleece-lined valuables pouch and insulated cooler pocket"
-cons:
+cons: 
   - "Weighs 7.5 pounds — noticeably heavier than comparable cart bags if you carry it any distance"
   - "No integrated rain hood included; you'll need to buy one separately for wet rounds"
+
 ---
 
 The Bag Boy CB-15 isn't trying to be the lightest bag or the flashiest. It's trying to be the most practical cart bag you'll own — and with a 4.7-star average across 235 ratings, it's clearly hitting that mark for most golfers. Here's the real breakdown.

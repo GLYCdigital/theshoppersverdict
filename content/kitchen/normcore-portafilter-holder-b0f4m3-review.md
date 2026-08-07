@@ -1,4 +1,5 @@
 ---
+
 title: "Normcore Portafilter Holder"
 seo_title: "Normcore Portafilter Holder Review: Verdict | TSV"
 meta_description: "Our full normcore portafilter holder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4M3LGVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u+T-NM9DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re tired of your portafilter sliding across the counter while you tamp—or worse, resting directly on your drip tray where it picks up water stains—the Normcore Portafilter Holder is a simple solution that most 58mm espresso users will appreciate. But "most" is the keyword here, and you need to check your gear before you click buy.

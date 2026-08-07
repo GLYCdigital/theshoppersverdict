@@ -1,4 +1,5 @@
 ---
+
 title: "A LA MAISON Rosemary Mint Natural Hand Wash Made with Essent"
 seo_title: "A LA MAISON Rosemary Mint Hand Wash Review (2026)"
 meta_description: "Honest A LA MAISON Rosemary Mint Natural Hand Wash review: real performance, scent strength, lather quality, and who should buy it. 4.6-star verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJZ9FWSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Er6stz4kL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine essential oil blend — rosemary and mint are unmistakable, not synthetic-smelling"
   - "Doesn't strip skin; hands feel clean but supple after repeated washes"
   - "Pump dispenses the right amount — no watery drip, no thick clumps"
-cons:
+cons: 
   - "Scent fades quickly on skin after rinsing — you won't smell it 10 minutes later"
   - "Price per ounce runs high versus drugstore hand washes, though the formula justifies it"
   - "Pump cap can occasionally stick if product dries around the nozzle"
+
 ---
 
 Most hand washes fall into two camps: the industrial stuff that strips your skin raw, or the fancy bottles that smell like a candle and clean like water. A LA MAISON's Rosemary Mint Natural Hand Wash sits in a third lane — and it's worth your attention.

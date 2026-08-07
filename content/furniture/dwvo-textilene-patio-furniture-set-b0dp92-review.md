@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Textilene Patio Furniture Set"
 seo_title: "DWVO Textilene Patio Furniture Set Review (2026): Worth It?"
 meta_description: "DWVO Textilene patio furniture set review: real buyer feedback, durability, comfort & assembly. Is this 4.1-star set worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DP92KVFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81S1PwdHi4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textilene mesh seats resist fading and mildew, surviving full-sun exposure without sagging"
   - "Tool-free assembly takes most buyers under 15 minutes per chair — no wrench required"
   - "Compact footprint fits small balconies, yet the 250-lb weight capacity handles larger adults"
-cons:
+cons: 
   - "Cushions are NOT included — the set is all-mesh, which some buyers find too firm for long lounging"
   - "Table is smaller than photos suggest; measured 18 inches diameter, not ideal for full meals"
   - "Frame scratches easily if dragged across concrete — lift, don't slide"
+
 ---
 
 **Bottom line:** The DWVO Textilene set nails the basics—durable mesh, quick assembly, and a price that won't make you wince—but skips the comfort upgrades you might expect at this level. Here's who should buy it and who should scroll past.

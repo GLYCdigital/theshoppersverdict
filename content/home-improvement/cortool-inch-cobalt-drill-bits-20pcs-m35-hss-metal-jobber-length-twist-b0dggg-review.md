@@ -1,23 +1,25 @@
 ---
+
 title: "CORTOOL inch Cobalt Drill Bits (20Pcs), M35 HSS Metal Jobber"
 seo_title: "CORTOOL Cobalt Drill Bits Review: M35 HSS 20-Piece Set"
 meta_description: "CORTOOL 20-piece cobalt drill bit set review: M35 HSS jobber bits for metal. Tested performance, durability, and value. See pros, cons, and verdict."
 slug: "cortool-inch-cobalt-drill-bits-20pcs-m35-hss-metal-jobber-length-twist-b0dggg-review"
 image_alt: "CORTOOL 20-piece M35 cobalt drill bit set with jobber length twist bits in metal case"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGGG5V7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z-4t9C0eL._SL1500_.jpg"
-pros:  
+pros: 
   - "M35 cobalt construction handles stainless steel and hardened alloys without glazing"  
   - "Full 20-piece fractional set (1/16 inch  to 1/2 inch ) covers most shop and automotive jobs"
   - "135° split point starts on contact — no wandering, no center punching required"  
-cons:  
+cons: 
   - "No metric sizes included; fractional-only limits international DIY users"  
   - "Thin plastic case doesn't hold bits snugly — expect to sort them after a drop"
+
 ---
 
 If you've ever watched a cheap HSS bit smoke out halfway through a single hole in 3/16" steel, you know the drill-bit frustration loop. It's why the CORTOOL 20-piece M35 cobalt set earns its 4.6-star rating from 229 buyers — this is the set that stops the cycle. Cobalt doesn't just cut; it survives. And at this price point, the value proposition is hard to argue with.

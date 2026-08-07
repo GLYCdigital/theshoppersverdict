@@ -1,4 +1,5 @@
 ---
+
 title: "ALL FORTUNE Battery Operated Hanging Outdoor Chandelier, Bat"
 seo_title: "ALL FORTUNE Battery Hanging Chandelier Review: Outdoor Pendant"
 meta_description: "Honest ALL FORTUNE battery-operated hanging outdoor chandelier review. Build quality, battery life, light output, and who should buy it. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8F6MN18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819kE1ULknL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly cordless — runs on 3 D-cell batteries, so you can hang it anywhere without hiring an electrician or running extension cords"
   - "Metal frame and seeded glass shades feel substantial, not like cheap plastic that will yellow or crack"
   - "Remote control with dimming and timer functions works from across the yard, not just line-of-sight"
-cons:
+cons: 
   - "Battery life is modest at roughly 30 hours of continuous use — expect to replace D-cells monthly if you run it nightly"
   - "No included hanging chain; you'll need to purchase a hook or chain separately for most ceiling heights"
+
 ---
 
 If you've ever stared at a bare gazebo or pergola and thought, "That needs light but I'm not running wiring," this chandelier is aimed squarely at you. The ALL FORTUNE battery-operated hanging outdoor chandelier solves the single biggest headache of outdoor entertaining lighting: the lack of an outlet where you actually need light. At 4.3 stars across 215 ratings, it's clearly working for a lot of people. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Auto Cooling Fan and Charge Stand Accessories for Xbox Serie"
 seo_title: "Xbox Series X Cooling Fan & Charger Stand Review"
 meta_description: "Does the Xbox Series X cooling stand with dual charging docks actually work? We break down cooling performance, battery life, and fit."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DNHJ1Q6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CfnihHSXL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual 1400mAh rechargeable battery packs with USB-C charging eliminate the need for AA batteries entirely"
   - "Vertical stand with integrated cooling fan runs whisper-quiet and actually lowers exhaust temps by 5-8°F in testing"
   - "Tool-free installation takes under 60 seconds; the stand locks securely into the console's base without wobble"
-cons:
+cons: 
   - "Cooling fan must be unplugged from the console's rear USB port if you want zero power draw in standby mode"
   - "The stand adds roughly 2 inches of height, which may not fit tight media center shelves"
+
 ---
 
 **The Xbox Series X is a sleek tower, but it runs hot and eats AA batteries like candy. This accessory tackles both problems in one vertical package. Here’s the honest breakdown after digging through 235 ratings and real user feedback.**

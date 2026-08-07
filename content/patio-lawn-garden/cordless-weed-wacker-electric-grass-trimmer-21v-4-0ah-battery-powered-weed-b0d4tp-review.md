@@ -1,24 +1,26 @@
 ---
+
 title: "Cordless Weed Wacker, Electric Grass Trimmer 21V 4.0Ah Batte"
 seo_title: "Cordless Weed Wacker 21V Review: Battery Grass Trimmer"
 meta_description: "Honest Cordless Weed Wacker 21V review: 4.0Ah battery performance, build quality, and real-world trimming results. Find out if this electric grass trimmer is worth it."
 slug: "cordless-weed-wacker-electric-grass-trimmer-21v-4-0ah-battery-powered-weed-b0d4tp-review"
 image_alt: "Cordless weed wacker 21V electric grass trimmer with 4.0Ah battery and cutting line"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 185  
-amazon_rating: 3.7  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 185
+amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0D4TP8LFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81G83aSxvFL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Lightweight at 4.5 lbs — easy to handle for extended trimming sessions without arm fatigue"  
   - "4.0Ah battery delivers roughly 40–50 minutes of runtime on standard grass, enough for most small-to-mid yards"  
   - "Tool-free 0.065 inch line replacement with bump-feed head; no wrenches or disassembly needed"  
-cons:  
+cons: 
   - "Motor bogs down noticeably in thick, wet, or overgrown vegetation — requires multiple passes"  
   - "Battery takes 4–5 hours to fully charge, so plan ahead if you have a larger property"  
   - "Single-speed trigger only — no variable speed control for delicate edging work"
+
 ---
 
 **The 21V Cordless Weed Wacker: Decent Muscle for Small Yards, But Don't Expect a Machete**  

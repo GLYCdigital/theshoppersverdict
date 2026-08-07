@@ -1,23 +1,25 @@
 ---
+
 title: "Dog car seat for Small/Medium Dogs"
 seo_title: "Dog Car Seat for Small Dogs Review: 2026 Buyer's Guide"
 meta_description: "Honest review of the 4.7-star dog car seat for small/medium pups. Covers safety, install, cleaning, and which dogs it fits best."
 slug: "dog-car-seat-for-small-medium-dogs-b0dwy3-review"
 image_alt: "Small dog sitting in a padded dog car seat booster with seatbelt clip attached"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DWY3NV92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BsPSFbMSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Three-point tether clips into your car's seatbelt buckle — not just a clip-on strap"  
   - "Machine-washable cover with a zipper; inner foam holds shape after repeated washes"  
   - "Raised bolsters give anxious dogs a headrest; collapses flat for trunk storage"  
-cons:  
+cons: 
   - "Base is non-slip but not anchored — hard braking can shift the whole seat sideways"  
   - "Top opening is 11 inches — too snug for chunky 25-lb dogs despite the 'medium' label"
+
 ---
 
 Let me start with what I wasn't expecting: this $40-ish booster seat has a **three-point tether that clicks into your car's actual seatbelt buckle** — not one of those flimsy carabiner loops that attach to the headrest. That single detail changes the safety math. Most competitors at this price point use a strap that clips around the headrest post, which lets the seat pivot forward on impact. This one locks the dog in place with the same mechanism that holds you in a crash.

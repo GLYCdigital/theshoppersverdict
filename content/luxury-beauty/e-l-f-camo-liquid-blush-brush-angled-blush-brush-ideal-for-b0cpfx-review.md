@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Camo Liquid Blush Brush, Angled Blush Brush Ideal For"
 seo_title: "e.l.f. Camo Liquid Blush Brush Review: Angled Precision"
 meta_description: "Honest e.l.f. Camo Liquid Blush Brush review: angled synthetic bristles, liquid & cream compatibility, easy cleaning. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPFX9BZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BmOkk9k6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense synthetic bristles with a precise 45° angle that hugs cheekbones without streaking"
   - "Zero product waste — bristles pick up thin liquid formulas cleanly and release them evenly"
   - "Dries fast after washing; no shedding even after repeated cleanses"
-cons:
+cons: 
   - "Handle is noticeably shorter than standard brushes, which may feel cramped for larger hands"
   - "Not ideal for powder formulas — this brush is strictly for liquids and creams"
+
 ---
 
 ## The $6 Brush That Outperforms My $45 One

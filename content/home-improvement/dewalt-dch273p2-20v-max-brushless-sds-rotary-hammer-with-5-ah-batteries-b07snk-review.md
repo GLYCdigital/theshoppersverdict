@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCH273P2 20V Max Brushless SDS Rotary Hammer with 5 A"
 seo_title: "DEWALT DCH273P2 Review: 20V SDS Rotary Hammer Worth It?"
 meta_description: "DEWALT DCH273P2 20V Max Brushless SDS Rotary Hammer review: real-world drilling performance, battery life, and who should buy this cordless hammer."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07SNKNK6H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yk5-uYr3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine rotary hammer power — drills 1/2-inch holes in cured concrete without bogging down"
   - "AVS anti-vibration system keeps hands comfortable through extended overhead work"
   - "Two 5Ah batteries included — genuinely useful runtime, not the usual 2Ah starter packs"
-cons:
+cons: 
   - "Heavy at 7.4 pounds with battery — fatigue sets in during prolonged overhead drilling"
   - "No carrying case included; you get a soft bag that offers minimal protection"
   - "Chuck only accepts SDS Plus bits — you'll need adapters for standard round-shank masonry bits"
+
 ---
 
 If you've ever tried drilling into poured concrete with a standard drill, you already know the frustration: the bit spins, the dust flies, and the hole barely dents the surface. The DEWALT DCH273P2 is the tool that ends that struggle — but at 7.4 pounds with the battery attached, it also makes you earn every hole.

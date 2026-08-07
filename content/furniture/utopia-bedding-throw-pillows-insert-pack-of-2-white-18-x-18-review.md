@@ -1,13 +1,14 @@
 ---
+
 title: "Utopia Bedding Throw Pillows Insert (Pack of 2, White) - 18 x 18 Inches Bed and Couch Pillows - Indoor Decorative Pillows"
 seo_title: "Utopia Bedding Throw Review: Verdict (4.6/5) | TSV"
 meta_description: "Decent Arrived firm and look to be good 156,476+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "utopia-bedding-throw-pillows-insert-pack-of-2-white-18-x-18-review"
 image_alt: "Utopia Bedding Throw Pillows Insert (Pack of 2, White) - 18 x 18 Inches Bed and Couch Pillows - Indoor Decorative Pillow"
-keywords:
+keywords: 
   - "utopia bedding throw review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Utopia Bedding Throw Pillows?"
     answer: "Decent Arrived firm and look to be good quality That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Utopia Bedding Throw Pillows?"
@@ -20,10 +21,11 @@ review_count: 156476
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01NBNDC1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KAg9UOAaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Decent Arrived firm and look to be good quality."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's cut through the noise: you're looking at a two-pack of 18x18 pillow inserts for about $24. That's $12 per insert. At that price, you'd expect flimsy, lumpy fill that flattens in a week. The 4.6-star average across 156,476 ratings suggests otherwise — and after digging into what buyers actually report, the math checks out.

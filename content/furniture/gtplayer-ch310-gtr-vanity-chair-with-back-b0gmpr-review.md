@@ -1,4 +1,5 @@
 ---
+
 title: "GTPLAYER CH310-GTR Vanity Chair with Back"
 seo_title: "GTPLAYER CH310-GTR Vanity Chair Review (2026): Worth It?"
 meta_description: "Honest GTPLAYER CH310-GTR vanity chair review: comfort, build quality, and ergonomics tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMPRHXSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JfXGsx+GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Generous 4.7-inch thick cushion with high-density foam holds shape even after months of daily use"
   - "Swivel mechanism is buttery-smooth with a 360° range, and the hydraulic lift adjusts from 17.7 to 21.2 inches"
   - "Lumbar-supporting curved backrest actually works—it's not just decorative like on most vanity chairs"
-cons:
+cons: 
   - "Assembly takes roughly 25 minutes and the included Allen wrench is flimsy; use your own hex set"
   - "The PU leather is convincing but won't survive sharp pets' claws or heavy daily abuse for years"
+
 ---
 
 If you've shopped for a vanity chair recently, you know the struggle: most are either cheap backless stools that leave your spine screaming after ten minutes, or bulky office chairs that ruin the aesthetic of your setup. The GTPLAYER CH310-GTR tries to split that difference with a padded backrest, thick seat foam, and a compact footprint. After digging through 225 ratings and the spec sheet, here's the real story.

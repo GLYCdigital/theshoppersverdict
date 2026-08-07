@@ -1,4 +1,5 @@
 ---
+
 title: "SlimySand Party Pack"
 seo_title: "SlimySand Party Pack Review: Verdict | TSV"
 meta_description: "Our full slimysand party pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM8QG93G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NoAaTVtbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **SlimySand Party Pack Review: Squishy, Moldable, and Surprisingly Mess-Free**

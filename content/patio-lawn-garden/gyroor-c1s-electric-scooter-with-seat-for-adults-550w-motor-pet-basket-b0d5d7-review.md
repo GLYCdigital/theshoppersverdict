@@ -1,4 +1,5 @@
 ---
+
 title: "Gyroor C1S Electric Scooter with Seat for Adults - 550W Moto"
 seo_title: "Gyroor C1S Electric Scooter with Seat for Adults - Review"
 meta_description: "Our full gyroor c1s electric scooter with seat for adults - 550w moto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5D75FP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vn7BfsVdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Gyroor C1S is the scooter equivalent of a Swiss Army knife — it tries to be a commuter, a cruiser, and a pet-friendly runabout all at once. The surprise? It mostly succeeds. With a 4.4-star average across 220 ratings, this 550W motorized scooter with a removable seat and front pet basket has carved out a loyal following. But before you drop your cash, here's what you're actually getting.

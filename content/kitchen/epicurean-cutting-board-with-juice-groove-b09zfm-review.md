@@ -1,23 +1,25 @@
 ---
+
 title: "Epicurean Cutting Board with Juice Groove"
 seo_title: "Epicurean Cutting Board with Juice Groove Review 2026 inch  "
 meta_description: "Honest Epicurean Cutting Board with Juice Groove review: durability, knife-friendliness, dishwasher safety, and real buyer feedback. Worth it?"
 slug: "epicurean-cutting-board-with-juice-groove-b09zfm-review"
 image_alt: "Epicurean Cutting Board with Juice Groove on a kitchen counter"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZFMN7L5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b0NoeJLKL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Heat-resistant up to 350°F — doubles as a trivet for hot pans"  
   - "Dishwasher-safe (top rack) without warping or cracking, unlike wood boards"  
   - "Non-porous surface resists staining and odors from garlic, onions, and beets"  
-cons:  
+cons: 
   - "Slightly slick surface when wet — needs a damp paper towel underneath for grip"  
   - "Juice groove is shallow; won't contain heavy runoff from large roasts"
+
 ---
 
 Let’s be blunt: most cutting boards fall into two camps — pretty wood boards that stain and warp, or cheap plastic that slides around and dulls your knives. The Epicurean Cutting Board with Juice Groove tries to split the difference, and for most home cooks, it actually does.  

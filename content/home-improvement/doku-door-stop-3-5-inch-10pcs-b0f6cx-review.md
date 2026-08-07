@@ -1,4 +1,5 @@
 ---
+
 title: "DOKU Door Stop 3.5 Inch 10PCS"
 seo_title: "DOKU Door Stop 3.5 Inch Review: 10-Pack Worth It?"
 meta_description: "DOKU Door Stop 3.5 Inch 10PCS review: durable rubber construction, scratch-free grip, and real-world performance. Is this 10-pack worth your money?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6CX95NL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UenMPN9UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured rubber wedge grips hard floors without sliding, even on smooth tile and hardwood"
   - "3.5-inch length gives solid leverage under heavier doors without being obtrusive"
   - "10-pack pricing works out to under a dollar per stop at typical street prices"
-cons:
+cons: 
   - "Rubber can leave light scuff marks on unfinished or painted wood floors"
   - "Not ideal for very thick commercial doors or high-pile carpet — wedge tends to sit too high"
+
 ---
 
 **The 10-pack you'll actually use — if your floors are right**

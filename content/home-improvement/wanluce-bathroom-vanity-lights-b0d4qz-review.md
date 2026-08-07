@@ -1,4 +1,5 @@
 ---
+
 title: "Wanluce Bathroom Vanity Lights"
 seo_title: "Wanluce Bathroom Vanity Lights Review: Verdict | TSV"
 meta_description: "Our full wanluce bathroom vanity lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4QZF4VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tzjCSGi6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most vanity lights under $100 are cheap stamped metal with plastic shades that yellow in a year. The Wanluce bathroom vanity light isn't that. But it's also not a premium designer fixture. Here's where it actually lands after digging through 220 ratings and the specs.

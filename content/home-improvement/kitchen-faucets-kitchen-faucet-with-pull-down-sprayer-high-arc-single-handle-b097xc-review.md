@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen Faucets, Kitchen Faucet with Pull Down Sprayer, High"
 seo_title: "Kitchen Faucets, Kitchen Faucet with Pull Down Spr Review"
 meta_description: "Our full kitchen faucets, kitchen faucet with pull down sprayer, high review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097XCCWMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51osNwrcEsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos. This kitchen faucet with a pull-down sprayer sits in a crowded field of $60–$120 options, all promising "commercial grade" performance. At 4.4 stars across 220 ratings, it's performing above average. But is it a genuine upgrade or just another box of imported chrome that'll drip in 18 months? I've dug through the spec sheet and the buyer feedback so you don't have to gamble on a plumbing project.

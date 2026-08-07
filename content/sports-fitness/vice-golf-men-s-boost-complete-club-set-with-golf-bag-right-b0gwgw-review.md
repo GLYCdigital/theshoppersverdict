@@ -1,4 +1,5 @@
 ---
+
 title: "Vice Golf Men's Boost Complete Club Set with Golf Bag (Right"
 seo_title: "Vice Golf Men's Boost Complete Club Set with Golf  Review"
 meta_description: "Our full vice golf men's boost complete club set with golf bag (right review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GWGWGFJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714FOGWk6TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Vice Golf's Boost set is a bold swing at the beginner market — but it's not for everyone. Here's who should buy it, who should skip it, and what the 185 Amazon raters are actually saying.**

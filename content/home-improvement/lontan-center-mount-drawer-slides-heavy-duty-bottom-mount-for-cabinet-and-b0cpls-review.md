@@ -1,4 +1,5 @@
 ---
+
 title: "LONTAN Center Mount Drawer Slides Heavy Duty Bottom Mount fo"
 seo_title: "LONTAN Center Mount Drawer Slides Heavy Duty Botto Review"
 meta_description: "Our full lontan center mount drawer slides heavy duty bottom mount fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CPLSDQDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AYLaDINoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: center mount drawer slides are the workhorses nobody thinks about until the ones in your kitchen start grinding. The LONTAN Heavy Duty Center Mount slides promise 100-pound capacity and smooth operation for under $20 a pair. After digging through 215 ratings and the technical specs, here's what actually matters.

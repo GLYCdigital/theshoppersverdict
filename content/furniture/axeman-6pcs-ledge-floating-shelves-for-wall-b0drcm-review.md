@@ -1,4 +1,5 @@
 ---
+
 title: "Axeman 6PCS Ledge Floating Shelves for Wall"
 seo_title: "Axeman 6PC Ledge Floating Shelves Review (2026): Worth It?"
 meta_description: "Axeman 6PCS Ledge Floating Shelves review: 220+ ratings, 4.4 stars. We break down build quality, mounting, and whether this 6-shelf set earns its spot on your wall."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRCM6JNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G-hCs8bjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six shelves per box means you can style an entire gallery wall or a full hallway in one purchase"
   - "Ledge-style design with a raised lip keeps framed photos and small plants from sliding off"
   - "Clean, minimal silhouette that works in modern, farmhouse, or transitional spaces"
-cons:
+cons: 
   - "The included mounting hardware is utilitarian at best — plan to buy your own wall anchors for drywall"
   - "Each shelf holds modest weight only; don't expect to load these with heavy hardcover books"
+
 ---
 
 Six floating shelves for the price of what most brands charge for two or three. That's the immediate math on the Axeman 6PCS Ledge set, and it's the reason this bundle has racked up 220 ratings at a solid 4.4-star average. But volume alone doesn't make a shelf worth your wall space. Here's what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Mokot Solar Lights Outdoor, 288 LED 2800LM Solar Motion Sens"
 seo_title: "Mokot Solar Lights Outdoor, 288 LED 2800LM Solar M Review"
 meta_description: "Our full mokot solar lights outdoor, 288 led 2800lm solar motion sens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0DPMG36V2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jBnQtP57L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 2800 Lumen Promise That Stumbles on Battery Reality

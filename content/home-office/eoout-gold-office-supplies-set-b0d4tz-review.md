@@ -1,4 +1,5 @@
 ---
+
 title: "EOOUT Gold Office Supplies Set Review"
 seo_title: "EOOUT Gold Office Supplies Set Review: Worth It? (2026)"
 meta_description: "Honest EOOUT Gold Office Supplies Set review: what's included, build quality, real buyer feedback, and who should buy it. 4.7/5 rating examined."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4TZW8G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71laLADEW5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gold finish is actual metallic coating, not cheap spray paint — resists chipping through daily use"
   - "Stapler handles 20+ sheets without jamming, thanks to the reinforced spring mechanism"
   - "Complete 14-piece set covers desk essentials at a fraction of buying items separately"
-cons:
+cons: 
   - "Tape dispenser is lightweight — can slide around if you tug tape aggressively"
   - "Scissors are solid but not precision-grade; fine for general office cutting, not detailed craft work"
+
 ---
 
 You've seen those "cute office sets" on TikTok that fall apart by week two. The EOOUT Gold Office Supplies Set isn't that. With a 4.7-star average across 235 ratings, this 14-piece kit actually holds up. Here's what you're really getting before you click buy.

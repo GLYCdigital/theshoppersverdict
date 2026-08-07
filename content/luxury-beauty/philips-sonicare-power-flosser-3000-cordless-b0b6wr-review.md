@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Sonicare Power Flosser 3000 Cordless"
 seo_title: "Philips Sonicare Power Flosser 3000 Cordless Review: Verd"
 meta_description: "Our full philips sonicare power flosser 3000 cordless review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B6WRKTPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XD+9OaLmL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this actually is: a luxury water flosser for people who hate string floss but want dentist-approved results. The Philips Sonicare Power Flosser 3000 Cordless isn't cheap, and it's not trying to be. After digging through 215 ratings and the spec sheet, here's what you need to know before dropping your money.

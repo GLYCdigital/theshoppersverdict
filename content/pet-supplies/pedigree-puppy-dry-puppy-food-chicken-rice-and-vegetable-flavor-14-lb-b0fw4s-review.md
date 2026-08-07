@@ -1,4 +1,5 @@
 ---
+
 title: "Pedigree Puppy Dry Puppy Food, Chicken, Rice, and Vegetable "
 seo_title: "Pedigree Puppy Dry Puppy Food, Chicken, Rice, and  Review"
 meta_description: "Our full pedigree puppy dry puppy food, chicken, rice, and vegetable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FW4SGL8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JVtXRLmyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Bringing home a puppy is equal parts joy and chaos. Between the chewed shoes and the 3 a.m. potty breaks, one decision matters more than most: what goes in their bowl. Pedigree Puppy Dry Food with Chicken, Rice, and Vegetable is the budget-friendly option that 235 Amazon reviewers have rated at 4.7 stars. But is it actually good for your growing pup, or just cheap? I dug through the ingredient panel, the customer feedback, and the real-world experiences to give you the honest picture.

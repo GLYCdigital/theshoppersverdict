@@ -1,4 +1,5 @@
 ---
+
 title: "Comptoir Sud Pacifique Vanille Abricot Eau de Toilette Fl Oz"
 seo_title: "Comptoir Sud Pacifique Vanille Abricot Review (2026): Worth It?"
 meta_description: "Comptoir Sud Pacifique Vanille Abricot EDT review: scent profile, longevity, sillage, and who should buy. Honest verdict from 229 Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CFLKHGCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zFMyHbunL._SL1500_.jpg"
-pros:
+pros: 
   - "Gourmand apricot-vanilla blend that's genuinely unique — not a generic candy-sweet scent"
   - "Works as a skin scent with moderate projection; intimate but present for 4–6 hours"
   - "Layering-friendly formulation that pairs well with vanilla or amber body products"
-cons:
+cons: 
   - "Eau de toilette concentration means frequent reapplication for all-day wear"
   - "Sweet profile may skew too youthful or dessert-like for formal or office settings"
   - "Price per ounce runs premium compared to designer gourmands with similar longevity"
+
 ---
 
 **The Short Version: A Sun-Drenched Apricot That Actually Smells Like Fruit, Not Candy**

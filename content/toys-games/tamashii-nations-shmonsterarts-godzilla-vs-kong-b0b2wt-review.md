@@ -1,4 +1,5 @@
 ---
+
 title: "Tamashii Nations SHMonsterArts - Godzilla Vs Kong"
 seo_title: "Tamashii Nations SHMonsterArts - Godzilla Vs Kong Review:"
 meta_description: "Our full tamashii nations shmonsterarts - godzilla vs kong review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B2WT53Q1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jEGz36K+S._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This two-pack is the collection centerpiece you've been waiting for — or a pricey impulse buy you'll regret. There's no middle ground with Tamashii Nations' SHMonsterArts line, and the **Godzilla vs Kong** set delivers exactly what hardcore kaiju fans expect: movie-grade sculpts, insane articulation, and a price tag that makes you wince.

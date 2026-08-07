@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics 1800W Portable Electric Induction Cooktop, Bur"
 seo_title: "Amazon Basics Induction Cooktop Review: 1800W Portable Burner"
 meta_description: "Honest Amazon Basics 1800W induction cooktop review: power, control, and safety tested. See if this portable burner fits your kitchen needs."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07S2628R9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915zCWZci+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Punches well above its price point — 1800W of real cooking power that boils water in under 3 minutes"
   - "Dual control panel with separate power and temperature modes gives you precision most budget units lack"
   - "Child lock and auto shut-off make it genuinely safe for households with curious kids"
-cons:
+cons: 
   - "Fan noise is noticeable — you'll hear it spin up on high heat, which can be annoying in open kitchens"
   - "Requires magnetic cookware; your non-stick pans with aluminum cores won't work unless they have a magnetic base"
+
 ---
 
 **The $50 Question: Can a Budget Induction Cooktop Replace Your Stove?**

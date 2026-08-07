@@ -1,4 +1,5 @@
 ---
+
 title: "Lorenzo Pazzaglia Summer Hammer Extrait De Parfum Spray for "
 seo_title: "Lorenzo Pazzaglia Summer Hammer Extrait De Parfum  Review"
 meta_description: "Our full lorenzo pazzaglia summer hammer extrait de parfum spray for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJCJXL8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nqTlhiy6L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The "Summer" name is a lie — and that's exactly why you should consider it.**

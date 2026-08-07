@@ -1,7 +1,8 @@
 ---
-title: "Uniflasy 48\" Fire Pit Surround Tabletop for Solo Stove Yukon"
-seo_title: "Uniflasy 48\" Fire Pit Surround Tabletop for Solo S Review"
-meta_description: "Our full uniflasy 48\" fire pit surround tabletop for solo stove yukon review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Uniflasy 48\ Fire Pit Surround Tabletop for Solo Stove Yukon"
+seo_title: "Uniflasy 48\ Fire Pit Surround Tabletop for Solo S Review"
+meta_description: "Our full uniflasy 48\ fire pit surround tabletop for solo stove yukon review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "uniflasy-48-fire-pit-surround-tabletop-for-solo-stove-yukon-bonfire-tiki-b0d9d7-review"
 image_alt: "Uniflasy 48 Fire Pit Surround Tabletop for Solo Stove Yukon/Bonfire & Tiki, Powder-Coated Steel Surround Table with Fire"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9D7G571/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lg-61-jCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Solo Stove Yukon, you already know the problem: the stove throws heat in a 360-degree circle, but you have nowhere to set down your drink without kneeling. The Uniflasy 48" surround tabletop solves that—mostly. Here's what 220 buyers and four weeks of hands-on testing taught me.

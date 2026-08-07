@@ -1,4 +1,5 @@
 ---
+
 title: "Walasaso Paper Cups 8 Oz, 120 Pack Paper Coffee Cups 8 Oz, D"
 seo_title: "Walasaso Paper Cups 8 Oz, 120 Pack Paper Coffee Cu Review"
 meta_description: "Our full walasaso paper cups 8 oz, 120 pack paper coffee cups 8 oz, d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8ZDSPXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cVjRyFHiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're buying 120 paper cups, you're not hosting a tea party — you're stocking an office breakroom, prepping for a weekend campout, or feeding a houseful of kids who treat disposable cups like they're free. The Walasaso 8 oz 120-pack hits that sweet spot of cheap enough to not stress about, sturdy enough to not embarrass you when a guest actually picks one up.

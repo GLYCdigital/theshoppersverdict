@@ -1,4 +1,5 @@
 ---
+
 title: "AB Earth 36â€ Review"
 seo_title: "AB Earth 36 Review: Honest Verdict on This Fitness Tool"
 meta_description: "AB Earth 36 review: Real buyer feedback on the 36-inch fitness gear. Is it worth your money? We break down performance, build quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CPFG29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618Mt-AAdtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "36-inch length provides genuine versatility for both mobility work and strength training without taking up floor space"
   - "Textured grip surface holds up through heavy sweat sessions — no slipping even with chalk-free hands"
   - "Solid steel construction with a 4.7-star average from 235 ratings, indicating consistent build quality across units"
-cons:
+cons: 
   - "No included carrying case or storage bag, which means you'll need to buy a separate solution for travel"
   - "The smooth finish on the ends can feel slippery when hands are heavily sweated during high-rep sets"
+
 ---
 
 Here's the thing about the AB Earth 36: it looks like a simple steel tube, but it's quietly become one of the most versatile pieces of gear in my home gym. With 235 ratings averaging 4.7 stars, this isn't a flashy purchase — it's a workhorse. And after spending several weeks putting it through mobility flows, strength circuits, and recovery sessions, I understand why buyers keep recommending it.

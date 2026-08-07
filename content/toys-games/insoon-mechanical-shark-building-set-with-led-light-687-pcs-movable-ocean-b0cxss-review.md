@@ -1,4 +1,5 @@
 ---
+
 title: "INSOON Mechanical Shark Building Set with LED Light, 687 PCS"
 seo_title: "INSOON Mechanical Shark Building Set Review: 687 PCS"
 meta_description: "Honest INSOON Mechanical Shark Building Set review: 687 pieces, LED light, moving parts. Is it worth it? See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXSSKRDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ktBnEW+JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gear-driven jaw and tail mechanism actually works — the shark snaps and swims with a wind-up motion, not just static display"
   - "LED light module illuminates the translucent body panels, creating a striking effect that looks far more expensive than the price point"
   - "687 pieces split into numbered bags with a full-color manual — most builders finish in 4-6 hours without frustration"
-cons:
+cons: 
   - "LED module uses 3 small button batteries (included) but they're not replaceable without disassembling part of the head — plan accordingly"
   - "Some pieces require firm pressure to snap together, especially around the jaw hinge — younger kids under 10 may need adult help"
   - "Tail joint can loosen after repeated play; a dab of glue fixes it permanently but kills the swivel function"
+
 ---
 
 **Opening Hook**

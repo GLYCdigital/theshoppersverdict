@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year Lawn & Garden Extended Protection Plan ($2000 inch"
 seo_title: "ASURION 2-Year Lawn & Garden Protection Plan Review"
 meta_description: "ASURION 2-Year Lawn & Garden Protection Plan ($2000-$2999.99) review: coverage details, claims process, and whether it's worth the cost."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B07P6YX4XB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Xr76m2WLL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures after the manufacturer's warranty expires — including labor and parts"
   - "Transferable if you sell the covered equipment within the protection period"
   - "No deductible — one flat cost covers the full 2-year term"
-cons:
+cons: 
   - "Does not cover pre-existing damage, cosmetic issues, or normal wear and tear like belts and blades"
   - "Claims require proof of purchase and a diagnostic fee upfront if the repair turns out to be non-covered"
   - "Several buyers report slow claim processing and back-and-forth with customer service"
+
 ---
 
 **Is an extended warranty on lawn equipment ever worth it?** For a $2,000–$3,000 mower, tiller, or chainsaw, the math gets interesting. ASURION's 2-Year Lawn & Garden Protection Plan costs a fraction of what a single repair might run — but the 3.8-star average with 190 ratings tells you the experience isn't universally smooth. Here's what you're actually buying.

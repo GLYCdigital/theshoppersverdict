@@ -1,4 +1,5 @@
 ---
+
 title: "HEXCELEN Bathroom Storage Cabinet, Narrow Tall Bathroom Cabi"
 seo_title: "HEXCELEN Bathroom Storage Cabinet, Narrow Tall Bat Review"
 meta_description: "Our full hexcelen bathroom storage cabinet, narrow tall bathroom cabi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGKS5J7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Br6oLkjfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

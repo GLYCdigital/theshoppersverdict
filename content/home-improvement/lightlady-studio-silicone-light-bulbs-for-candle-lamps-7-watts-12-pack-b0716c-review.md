@@ -1,4 +1,5 @@
 ---
+
 title: "LightLady Studio Silicone Light Bulbs for Candle Lamps, 7 Wa"
 seo_title: "LightLady Studio Silicone Light Bulbs for Candle L Review"
 meta_description: "Our full lightlady studio silicone light bulbs for candle lamps, 7 wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0716CVT42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510gv7cRDEL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a glass candle bulb shatter while twisting it into a chandelier, you already know the pain. The LightLady Studio Silicone Light Bulbs exist to solve that exact problem — and they do it surprisingly well. With a 4.8-star average across 240 ratings, this 12-pack of 7-watt E12 candelabra bulbs has become a go-to for anyone tired of replacing fragile flame-tip bulbs.

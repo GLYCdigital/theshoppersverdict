@@ -1,4 +1,5 @@
 ---
+
 title: "LONEDRUID Outdoor Wall Light Fixtures Exterior Wall Lantern "
 seo_title: "LONEDRUID Outdoor Wall Light Fixtures Exterior Wal Review"
 meta_description: "Our full lonedruid outdoor wall light fixtures exterior wall lantern  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08RMN5KB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F0lcx1qHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A porch light that actually looks like it costs more than $70

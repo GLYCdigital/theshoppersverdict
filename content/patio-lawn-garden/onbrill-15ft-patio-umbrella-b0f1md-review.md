@@ -1,4 +1,5 @@
 ---
+
 title: "ONBRILL 15FT Patio Umbrella"
 seo_title: "ONBRILL 15FT Patio Umbrella Review: Verdict | TSV"
 meta_description: "Our full onbrill 15ft patio umbrella review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F1MDPJHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719sI+B4diL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ONBRILL 15FT Patio Umbrella is the rare large-format cantilever that doesn't feel like a compromise — but it demands a serious base investment.**

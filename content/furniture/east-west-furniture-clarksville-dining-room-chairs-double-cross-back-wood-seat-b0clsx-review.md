@@ -1,4 +1,5 @@
 ---
+
 title: "East West Furniture Clarksville Dining Room Chairs - Double"
 seo_title: "East West Furniture Clarksville Chairs Review (2026)"
 meta_description: "East West Furniture Clarksville dining chairs review: cross-back design, solid wood seat, 4.5-star rating. Is this double pack worth it? Read our honest take."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLSXJSQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gA6M49DwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with genuine cross-back support — not veneer or MDF"
   - "Double pack ships as two chairs, saving roughly 15-20% vs buying singles"
   - Seat height (18.5 inch ") fits standard 30 inch " dining tables without awkward gaps
-cons:
+cons: 
   - "No padding on the wood seat — extended sitting gets uncomfortable past 90 minutes"
   - "Assembly requires a Phillips head screwdriver; included Allen wrench is flimsy"
   - "Finish is matte and can show water rings if you don't use coasters"
+
 ---
 
 You've seen a hundred cross-back dining chairs online. Most are particle board with a printed wood grain. The East West Furniture Clarksville set is not that. Here's the honest breakdown after digging through specs and 225 buyer ratings.

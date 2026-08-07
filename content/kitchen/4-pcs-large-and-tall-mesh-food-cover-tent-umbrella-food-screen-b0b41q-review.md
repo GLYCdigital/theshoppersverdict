@@ -1,4 +1,5 @@
 ---
+
 title: "4 Pcs Large and Tall Mesh Food Cover Tent Umbrella Food Scre"
 seo_title: "4 Pcs Mesh Food Cover Tent Review: Large, Tall, Worth It?"
 meta_description: "Honest 4 Pcs Mesh Food Cover Tent review: tall dome design, outdoor protection, and real buyer feedback. See if this 4.4-star set fits your patio."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B41QGQ39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614qeNDY2cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tall 13-inch dome clears platters and stacked dishes, unlike flat mesh lids"
   - "Reinforced fiberglass frame holds shape in wind without collapsing"
   - "Four-piece set covers an entire buffet spread for under typical single-cover prices"
-cons:
+cons: 
   - "Mesh is fine enough to block flies but will not stop gnats or fruit flies"
   - "Frame does not fold flat — takes up storage space between uses"
   - "No weighted base; light gusts can lift covers off flat-sided bowls"
+
 ---
 
 Let’s be honest: most mesh food covers are flimsy, flat little domes that barely clear a plate of wings. This set is different. The headline feature here is **height** — these tents stand roughly 13 inches tall at the center, which means you can actually cover a slow cooker insert, a stacked veggie tray, or a tall cake stand without the mesh pressing into your food. That single design choice solves the most common complaint I see across food cover reviews.

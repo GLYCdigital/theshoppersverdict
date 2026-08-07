@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Paradym AI Smoke High Launch Iron Set"
 seo_title: "Callaway Paradym AI Smoke High Launch Iron Review (2026)"
 meta_description: "Callaway Paradym AI Smoke High Launch irons review: forgiving, high-launching game improvement set. See pros, cons, who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSB4JVGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ibDe12U6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "AI-designed Smart Face delivers exceptional ball speed consistency across the face — mis-hits lose almost no distance"
   - "High Launch configuration produces steep, soft-landing descent angles that hold greens even for moderate swing speeds"
   - "Premium look at address with a clean topline and minimal offset for a game improvement iron"
-cons:
+cons: 
   - "Strong lofts across the set create big distance gaps between long and mid-irons that require club fitting to dial in"
   - "Hollow-body design produces a louder, more metallic impact sound that some players find less satisfying than forged irons"
+
 ---
 
 The game improvement iron market is crowded with options that all promise the same thing: more distance, more forgiveness, higher launch. Most deliver one or the other. The Callaway Paradym AI Smoke High Launch Iron Set is one of the rare sets that actually delivers on both — and it does it without looking like a chunky shovel at address.

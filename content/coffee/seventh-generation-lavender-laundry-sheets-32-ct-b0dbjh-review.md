@@ -1,4 +1,5 @@
 ---
+
 title: "Seventh Generation Lavender Laundry Sheets, 32 CT"
 seo_title: "Seventh Generation Lavender Laundry Sheets, 32 CT Review:"
 meta_description: "Our full seventh generation lavender laundry sheets, 32 ct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBJH7YKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dvfriHm7L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Nobody gets excited about laundry detergent sheets. They're the tofu of the cleaning aisle — you buy them because they're good for you, not because they're thrilling. But Seventh Generation's Lavender Laundry Sheets might be the exception, and here's why: they actually work, they smell like real lavender rather than a candle factory explosion, and they've quietly solved the biggest complaint about detergent sheets — incomplete dissolving.

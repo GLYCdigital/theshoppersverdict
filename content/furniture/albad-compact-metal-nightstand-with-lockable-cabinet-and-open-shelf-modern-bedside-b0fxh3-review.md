@@ -1,4 +1,5 @@
 ---
+
 title: "ALBAD Compact Metal Nightstand with Lockable Cabinet and Ope"
 seo_title: "ALBAD Metal Nightstand Review: Lockable Storage for Small Spaces"
 meta_description: "Honest ALBAD Compact Metal Nightstand review: lockable cabinet, open shelf, sturdy steel build. See pros, cons, and who should buy this bedside table."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FXH3ZNKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uM54gfdVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lockable cabinet provides genuine security for medications, valuables, or items you don't want kids or guests accessing"
   - "All-steel construction with powder-coated finish resists scratches and won't warp or swell like particleboard alternatives"
   - Compact footprint (roughly 16 inch "W x 16 inch "D) fits tight spaces while still offering two storage zones plus a top surface
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and patience — the cam locks can be finicky to align during build"
   - "No cable management holes, so charging cords snake visibly across the top and down the sides"
   - "The open shelf has no lip or edge — small items can roll off if you bump the nightstand"
+
 ---
 
 If you've ever woken up at 2 AM to the sound of your toddler fiddling with the bottle of ibuprofen on your nightstand, you understand the appeal of a lockable bedside table. The ALBAD Compact Metal Nightstand addresses that specific anxiety with a locking cabinet that actually works — no flimsy magnetic catch, but a real keyed lock. At 4.3 stars across 215 ratings, it's clearly doing something right. Here's the full story.

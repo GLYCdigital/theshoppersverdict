@@ -1,4 +1,5 @@
 ---
+
 title: "Sloosh Water Slides with 2 bodyboards Backyard Outdoor Lawn "
 seo_title: "Sloosh Water Slides with 2 bodyboards Backyard Out Review"
 meta_description: "Our full sloosh water slides with 2 bodyboards backyard outdoor lawn  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CRDR74H7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91kGhAvc4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. A backyard water slide is about one thing: maximum fun per dollar. The Sloosh Water Slides with 2 bodyboards delivers that—with a few caveats you need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "HEAD Speed 21 Junior Pre-Strung Tennis Racquet, Lightweight "
 seo_title: "HEAD Speed 21 Junior Pre-Strung Tennis Racquet, Li Review"
 meta_description: "Our full head speed 21 junior pre-strung tennis racquet, lightweight  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B095RZ2P67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tTeZgYwrS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The right first racket matters more than you think**

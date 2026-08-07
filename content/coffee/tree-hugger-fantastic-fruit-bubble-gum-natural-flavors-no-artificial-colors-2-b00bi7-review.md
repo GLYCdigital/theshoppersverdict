@@ -1,4 +1,5 @@
 ---
+
 title: "Tree Hugger Fantastic Fruit Bubble Gum, Natural Flavors, No "
 seo_title: "Tree Hugger Fantastic Fruit Bubble Gum, Natural Fl Review"
 meta_description: "Our full tree hugger fantastic fruit bubble gum, natural flavors, no  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00BI77UM0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kWjrHE8FS._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tree Hugger Fantastic Fruit Bubble Gum: Clean Ingredients, Honest Tradeoffs

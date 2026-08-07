@@ -1,4 +1,5 @@
 ---
+
 title: "Versace"
 seo_title: "Versace Review: Verdict | TSV"
 meta_description: "Our full versace review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07TPQDH19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OQhpl-6bL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a luxury beauty product, the **Versace** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

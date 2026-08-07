@@ -1,4 +1,5 @@
 ---
+
 title: "Moss & Stone Glass casserole - Made by Borosilicate Glass | "
 seo_title: "Moss & Stone Glass casserole - Made by Borosilicat Review"
 meta_description: "Our full moss & stone glass casserole - made by borosilicate glass |  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09335LS38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QZGB+5viL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the claims: "thermal shock resistant," "freezer to oven," "borosilicate." Every glass bakeware brand says it. But when you're pulling a bubbling lasagna from a 425°F oven, physics doesn't care about marketing. Here's what the Moss & Stone borosilicate casserole actually does — and doesn't — deliver.

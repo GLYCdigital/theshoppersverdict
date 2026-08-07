@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart 4 Slice Toaster"
 seo_title: "Cuisinart 4 Slice Toaster Review: Honest 2026 Verdict"
 meta_description: "Cuisinart 4 Slice Toaster review: deep-dive on performance, build quality, and value. See what 215+ buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G1CDNBLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cfQhkolWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide slots fit bagels, thick sourdough slices, and artisan bread without forcing them down"
   - "Even browning across all four slots — no more pale on one side, burnt on the other"
   - "One-touch functions (bagel, defrost, reheat) plus a motorized lift that actually works"
-cons:
+cons: 
   - "Stainless steel shell is a fingerprint magnet — you'll be wiping it down constantly"
   - "Crumb tray sits flush and requires a firm pull to remove; awkward when full"
   - "No keep-warm setting, so the last slice in a batch can cool before breakfast is ready"
+
 ---
 
 Let's be honest: most toasters are disposable $30 impulse buys that burn your bagels unevenly and die after 14 months. The Cuisinart 4 Slice Toaster, as shown in the product image, is trying to be something different — a countertop appliance built to actually last. After digging through 215 Amazon ratings and the spec sheet, here's what you need to know before spending your money.

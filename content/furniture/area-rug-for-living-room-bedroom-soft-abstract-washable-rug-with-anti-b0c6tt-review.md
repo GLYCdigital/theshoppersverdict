@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug for Living Room Bedroom, Soft Abstract Washable Rug"
 seo_title: "Washable Abstract Area Rug Review: Soft & Stylish (2026)"
 meta_description: "Honest review of the Soft Abstract Washable Area Rug: softness, durability, cleaning results, and who should buy. 4.6/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6TT59LQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZHQpGLDGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without fraying or losing pile softness"
   - "Low-profile 0.4-inch pile height works well under furniture and doesn't trip robot vacuums"
   - "Anti-slip latex backing holds firm on hardwood and tile — no rug pad required for most setups"
-cons:
+cons: 
   - "Initial chemical smell out of the box requires 24-48 hours of airing out before use"
   - "Thinner than traditional plush rugs — not ideal if you want deep cushioning for floor sitting"
   - "Light abstract patterns show darker stains more readily than busy, multi-color designs"
+
 ---
 
 ## The Washable Rug That Actually Holds Up

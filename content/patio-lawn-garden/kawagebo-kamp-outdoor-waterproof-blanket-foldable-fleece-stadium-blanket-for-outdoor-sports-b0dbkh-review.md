@@ -1,4 +1,5 @@
 ---
+
 title: "KawaGebo Kamp Outdoor Waterproof Blanket, Foldable Fleece St"
 seo_title: "KawaGebo Kamp Outdoor Waterproof Blanket, Foldable Review"
 meta_description: "Our full kawagebo kamp outdoor waterproof blanket, foldable fleece st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBKHP8DM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ylg3dWlLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most outdoor blankets are either waterproof or comfortable, rarely both. The KawaGebo Kamp tries to bridge that gap with a three-layer build that's clearly aimed at stadium bleachers, damp park grass, and sandy beach days. After digging through 235 ratings (4.7 stars) and the spec sheet, here's what actually matters.

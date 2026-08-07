@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Sensitive Skin and Stomach Cat Food, Tuna an"
 seo_title: "Purina Pro Plan Sensitive Skin and Stomach Cat Foo Review"
 meta_description: "Our full purina pro plan sensitive skin and stomach cat food, tuna an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B085PVZNGJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DCXX6YmPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When your cat is scratching herself raw or leaving half-eaten bowls because her stomach hurts, you don't need another mystery-meat kibble. You need a formula that addresses both problems at once. Purina Pro Plan Sensitive Skin and Stomach in the Tuna and Oat flavor is one of the most consistently recommended options in the 4.5-star Amazon range — but it's not perfect. Let's break down what actually matters.

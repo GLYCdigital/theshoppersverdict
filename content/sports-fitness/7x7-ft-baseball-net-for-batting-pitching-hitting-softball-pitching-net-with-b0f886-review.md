@@ -1,4 +1,5 @@
 ---
+
 title: "7x7 ft Baseball Net for Batting Pitching Hitting, Softball P"
 seo_title: "7x7 Baseball Net Review: Batting & Pitching Practice"
 meta_description: "Honest 7x7 baseball net review: sturdy frame, easy setup, real buyer feedback. Is this batting/pitching net worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8861DDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yi48wEhzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 7x7 ft hitting surface catches wild misses without tipping — no more chasing balls into the neighbor's yard"
   - "Tool-free assembly in under 5 minutes with interlocking poles that stay rigid once locked"
   - "Reinforced double-stitched netting with 1-inch mesh handles both baseballs and softballs without tearing"
-cons:
+cons: 
   - "Ground stakes are lightweight — you'll want to anchor with sandbags on windy days"
   - "Carrying bag is functional but thin; handle stitching shows wear after a few months of weekly transport"
+
 ---
 
 **Is this 7x7 ft baseball net actually worth your money?** After digging through 229 ratings and real buyer feedback, here's the straight story.

@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Pro Eyelash Curler, Stainless Steel Lash Curler, Long"
 seo_title: "e.l.f. Pro Eyelash Curler Review: Steel, Long-Lasting"
 meta_description: "e.l.f. Pro Eyelash Curler review: stainless steel build, long handle, 4.4-star rating. Does it hold a curl? Real buyer feedback and honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07ZVYM365/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N4WwdQIlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full stainless steel construction with a wide-opening hinge that fits deep-set and hooded eyes without pinching"
   - "Long handle provides solid leverage — less hand cramping than compact travel curlers"
   - "Replacement silicone pads are widely available and cheap, extending the tool's lifespan significantly"
-cons:
+cons: 
   - "The pad sits slightly firm out of the box; some users report needing a few days of use to soften it for best results"
   - "No included replacement pads or storage case — you'll need to buy those separately"
+
 ---
 
 **The $10 eyelash curler that outperforms tools three times its price — if your eye shape cooperates.**

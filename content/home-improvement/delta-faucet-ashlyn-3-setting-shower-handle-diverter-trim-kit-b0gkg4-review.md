@@ -1,23 +1,25 @@
 ---
+
 title: "Delta Faucet Ashlyn 3-Setting Shower Handle Diverter Trim Ki"
 seo_title: "Delta Ashlyn Shower Diverter Trim Kit Review (2026)"
 meta_description: "Delta Ashlyn 3-setting shower diverter trim kit review: build quality, real user feedback, pros/cons, and who should buy it. Honest verdict inside."
 slug: "delta-faucet-ashlyn-3-setting-shower-handle-diverter-trim-kit-b0gkg4-review"
 image_alt: "Delta Faucet Ashlyn chrome shower handle diverter trim kit on white background"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GKG4JG76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "Solid metal construction with a smooth, positive detent between each of the three settings—no mushy stops."  
   - "Universal 1/2-inch IPS connection fits most existing shower arms without needing to replumb."  
   - "Matte chrome finish resists water spots and fingerprints far better than polished chrome."  
-cons:  
+cons: 
   - "Handle is slightly smaller than stock Delta handles—users with large hands may find it fiddly."  
   - "The trim kit does not include the actual diverter valve body; you must buy that separately."
+
 ---
 
 If you’re remodeling a shower and want a clean, modern handle that actually switches between spray modes without wrestling with a stiff knob, the Delta Ashlyn 3-Setting Diverter Trim Kit deserves a hard look. It’s not the cheapest trim on the shelf, but it’s one of the few that feels like it was designed by someone who’s actually used a shower before.

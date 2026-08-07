@@ -1,4 +1,5 @@
 ---
+
 title: "Primal Hatch Jurassic World Interactive Toy Dinosaur & Egg, "
 seo_title: "Primal Hatch Jurassic World Interactive Toy Dinosa Review"
 meta_description: "Our full primal hatch jurassic world interactive toy dinosaur & egg,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSL9L1ZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91bvmQF3waL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If your kid has been begging for a dinosaur that actually feels alive, this is the one. It hatches, it listens, it roars. But it's not without quirks.**

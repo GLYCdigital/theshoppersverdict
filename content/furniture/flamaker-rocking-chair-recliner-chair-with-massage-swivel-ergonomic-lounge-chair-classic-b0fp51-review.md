@@ -1,4 +1,5 @@
 ---
+
 title: "Flamaker Rocking Chair Recliner Chair with Massage Swivel Er"
 seo_title: "Flamaker Massage Rocking Recliner Review: Worth It?"
 meta_description: "Flamaker rocking recliner review: massage, swivel, and ergonomic comfort tested. See pros, cons, and who should buy this 4.0-star chair."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FP51942V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r8tBiT+vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position recline with smooth rocking motion — genuinely comfortable for reading or napping"
   - "Built-in massage nodes target lumbar and upper back; heat function is a legitimate bonus at this price"
   - "360-degree swivel base makes it easy to pivot toward a TV, desk, or conversation without scooting the chair"
-cons:
+cons: 
   - "Massage intensity is fixed — no speed or strength adjustment, which some users find too aggressive or too weak"
   - "Assembly takes roughly 45–60 minutes with two people; the base bolts need frequent re-tightening after a few weeks"
   - "Fabric is soft but not removable or washable — spills and pet hair are a permanent problem"
+
 ---
 
 **The Flamaker Rocking Recliner: A $200 Chair That Tries to Do Everything (And Mostly Succeeds)**

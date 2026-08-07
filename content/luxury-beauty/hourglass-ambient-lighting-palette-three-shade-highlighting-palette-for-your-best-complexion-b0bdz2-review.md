@@ -1,4 +1,5 @@
 ---
+
 title: "Hourglass Ambient Lighting Palette. Three-Shade Highlighting"
 seo_title: "Hourglass Ambient Lighting Palette. Three-Shade Hi Review"
 meta_description: "Our full hourglass ambient lighting palette. three-shade highlighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDZ2KZVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718UTh7+3+L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The "Lit-From-Within" Finishing Powder That Actually Delivers

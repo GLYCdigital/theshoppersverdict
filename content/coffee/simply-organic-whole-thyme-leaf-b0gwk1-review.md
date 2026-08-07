@@ -1,4 +1,5 @@
 ---
+
 title: "Simply Organic Whole Thyme Leaf,"
 seo_title: "Simply Organic Whole Thyme Leaf, Review: Verdict | TSV"
 meta_description: "Our full simply organic whole thyme leaf, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWK1J551/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JRHEppvWL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Walk past the spice aisle and you'll see a dozen thyme options — ground, rubbed, in plastic bags, in generic jars. The Simply Organic Whole Thyme Leaf stands out for one simple reason: it's actually whole. That matters more than most shoppers realize.

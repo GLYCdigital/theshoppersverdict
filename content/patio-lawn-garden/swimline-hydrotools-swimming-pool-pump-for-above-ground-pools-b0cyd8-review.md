@@ -1,4 +1,5 @@
 ---
+
 title: "SWIMLINE HYDROTOOLS Swimming Pool Pump For Above Ground Pool"
 seo_title: "SWIMLINE HYDROTOOLS Swimming Pool Pump For Above G Review"
 meta_description: "Our full swimline hydrotools swimming pool pump for above ground pool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CYD8L74Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811-DhGOlnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line:** A workhorse above-ground pool pump that prioritizes function over frills. If you're replacing a dead pump or upgrading from a weak cartridge system, this delivers solid circulation at a fair price — just bring your own hose clamps.

@@ -1,4 +1,5 @@
 ---
+
 title: "DUDUDU Heated Eyelash Curler, Portable Travel-Size Mini Elec"
 seo_title: "DUDUDU Heated Eyelash Curler Review: Worth It? (2026)"
 meta_description: "Honest DUDUDU heated eyelash curler review: does this travel-size electric lash curler hold a curl? Real pros, cons & verdict after 210 ratings."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FFH99Q6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sDTOSgPGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Curl holds 8–12 hours even on straight, stubborn lashes—verified by multiple reviewers who abandoned their traditional curlers"
   - "Dual-sided silicone pad design lets you curl upper lashes from both angles without crimping or kinking"
   - "USB-C charging means you can top up from a laptop or power bank; a full charge lasts roughly 30 uses"
-cons:
+cons: 
   - "Heating element takes a solid 20–30 seconds to reach optimal temperature—impatient users may burn lashes if they rush"
   - "No automatic shutoff; if you toss it in a bag while still on, the battery drains quickly and the pad can overheat"
+
 ---
 
 If you've got stick-straight lashes that laugh at traditional curlers by noon, the DUDUDU Heated Eyelash Curler might be the $20-ish fix you've been hunting for. At a 4.2-star average across 210 ratings, it's not perfect—but it's quietly earning a devoted following among people who've given up on heated curlers before.

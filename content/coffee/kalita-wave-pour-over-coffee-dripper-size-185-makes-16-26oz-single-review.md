@@ -1,16 +1,17 @@
 ---
+
 title: "Kalita Wave Pour Over Coffee Dripper, Size 185​, Makes 16-26oz, Single Cup Maker, Heat-Resistant Glass, Patented & Portable,black"
 seo_title: "Kalita Wave Pour Over Coffee Dripper, Size 185​, M Review"
 meta_description: "Honest kalita wave pour over coffee dripper, si review based on 1,362+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "kalita-wave-pour-over-coffee-dripper-size-185-makes-16-26oz-single-review"
 image_alt: "Kalita Wave Pour Over Coffee Dripper, Size 185​, Makes 16-26oz, Single Cup Maker, Heat-Resistant Glass, Patented & Porta"
-keywords:
+keywords: 
   - "kalita wave pour review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Kalita Wave Pour Over Coffee well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Does the Kalita Wave Pour Over Coffee perform well?"
@@ -23,13 +24,14 @@ review_count: 1362
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B004W5KPSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517DTakkLFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Easy to set up and use"
   - "Clean and practical design"
-cons:
+cons: 
   - "Performance may not satisfy power users"
   - "Some durability concerns over time"
+
 ---
 
 Let's cut through the pour-over noise. For years, the V60 was the default answer for manual brewing — until people realized it demands surgical precision. The Kalita Wave 185 is the antidote: a flat-bottom dripper that forgives your shaky pour and still delivers a clean, balanced cup. At $26.25 with 1,362 ratings averaging 4.5 stars, it's the most recommended "gateway" pour-over for good reason.

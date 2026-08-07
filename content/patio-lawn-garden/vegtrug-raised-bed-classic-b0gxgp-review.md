@@ -1,4 +1,5 @@
 ---
+
 title: "VegTrugÂ® Raised Bed Classic"
 seo_title: "VegTrugÂ® Raised Bed Classic Review: Verdict | TSV"
 meta_description: "Our full vegtrugâ® raised bed classic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXGP4WZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aHUaqo8ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The raised bed that actually respects your back

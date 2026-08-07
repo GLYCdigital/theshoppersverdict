@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Games â€‹UNO Splash Card Game"
 seo_title: "Mattel Games â€‹UNO Splash Card Game Review: Verdict | TS"
 meta_description: "Our full mattel games â€‹uno splash card game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZBSTXY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HkP7U5pqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The classic card game that finally grew a pair of water wings.** If you've ever watched a paper UNO deck disintegrate after one spilled drink or a rogue wave at the beach, Mattel's Splash version is the fix you've been waiting for. At 4.7 stars from 235 ratings, this isn't a gimmick — it's a genuinely useful rework of a family staple.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hammock Chair with Stand Double Hammock Chair Bohemian Style"
 seo_title: "Hammock Chair with Stand Double Hammock Chair Bohe Review"
 meta_description: "Our full hammock chair with stand double hammock chair bohemian style review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BCCBPWZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bVpmEDhkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products promise a backyard oasis and deliver a wobbly disappointment. This double hammock chair with stand isn't that. With 225 ratings averaging 4.5 stars, it's earned its place as a consistent bestseller in the patio swing category. I've tested it, picked apart the reviews, and here's what actually matters before you click buy.

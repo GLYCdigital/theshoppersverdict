@@ -1,4 +1,5 @@
 ---
+
 title: "Wiseek Kids Baseball Tee, 20.87 to 31.29 Inches Batting Tees"
 seo_title: "Wiseek Kids Baseball Tee, 20.87 to 31.29 Inches Ba Review"
 meta_description: "Our full wiseek kids baseball tee, 20.87 to 31.29 inches batting tees review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZNTWQGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Nzb2Ru34L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

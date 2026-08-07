@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Calculator 12 Digit Extra Large LCD Display, Touch Comf"
 seo_title: "Desk Calculator 12 Digit Extra Large LCD Review (2026)"
 meta_description: "Honest review of the 12-digit desk calculator with extra-large LCD and comfy keys. Is it worth $16? Real pros, cons, and buyer verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B67QN29F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711gsV7aL9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Extra-large 12-digit LCD with big, high-contrast digits readable from across a desk"
   - "Large, well-spaced keys with soft tactile feedback — comfortable for hours of data entry"
   - "Solar + battery dual power means it won't die mid-spreadsheet, even under office lighting"
-cons:
+cons: 
   - "Plastic body feels light and can slide on glossy desks unless the rubber feet grip well"
   - "No backlight — the LCD relies on ambient light, so dim workstations will reduce visibility"
+
 ---
 
 **The $16 Calculator That Actually Respects Your Eyes**

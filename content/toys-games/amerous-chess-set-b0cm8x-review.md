@@ -1,4 +1,5 @@
 ---
+
 title: "AMEROUS Chess Set"
 seo_title: "AMEROUS Chess Set Review: Worth It? (2026) | Honest Look"
 meta_description: "AMEROUS Chess Set review: 4.7/5 rated. Is it good for beginners or tournament play? We tested build quality, pieces, and more. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CM8XYJZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81T0nZHutCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 15mm board with felt-lined storage drawer keeps pieces organized and protected"
   - "Weighted pieces with felt bases — stable on the board, won't slide during aggressive play"
   - "Folding design with secure latch makes it genuinely portable for travel or club nights"
-cons:
+cons: 
   - "King height around 3 inches is slightly shorter than tournament regulation — purists may notice"
   - "Board squares are printed, not inlaid wood — won't appeal to collectors seeking premium craftsmanship"
+
 ---
 
 **The AMEROUS Chess Set: A $30 Board That Plays Like It Costs Twice as Much**

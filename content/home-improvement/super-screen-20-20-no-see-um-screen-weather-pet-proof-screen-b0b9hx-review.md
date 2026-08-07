@@ -1,4 +1,5 @@
 ---
+
 title: "Super Screen 20/20 No-See-Um Screen - Weather & Pet Proof Sc"
 seo_title: "Super Screen 20/20 No-See-Um Screen - Weather & Pe Review"
 meta_description: "Our full super screen 20/20 no-see-um screen - weather & pet proof sc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B9HXC1S1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C41x-md5L._AC_SL1206_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a no-see-um fly straight through a standard window screen, you know the frustration. These tiny biting pests are barely visible, yet they ruin evenings on the porch. The Super Screen 20/20 claims to fix that with a 20x20 mesh density — and after digging through the specs and 235 buyer ratings, I can confirm it actually delivers.

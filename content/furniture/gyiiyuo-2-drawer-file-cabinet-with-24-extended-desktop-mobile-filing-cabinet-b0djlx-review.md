@@ -1,7 +1,8 @@
 ---
+
 title: "GYIIYUO 2 Drawer File Cabinet with 24'' Extended Desktop, Mo"
 seo_title: "GYIIYUO 2 Drawer File Cabinet Review: Extended Desktop"
-meta_description: "Honest GYIIYUO 2 drawer file cabinet review with 24\" extended desktop. Real pros, cons, and who should buy it. Read before you spend."
+meta_description: "Honest GYIIYUO 2 drawer file cabinet review with 24\ extended desktop. Real pros, cons, and who should buy it. Read before you spend."
 slug: "gyiiyuo-2-drawer-file-cabinet-with-24-extended-desktop-mobile-filing-cabinet-b0djlx-review"
 image_alt: "GYIIYUO mobile file cabinet with two drawers and extended desktop surface in a home office setting"
 verdict_score: 4.2
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJLXPG52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bVuQ8K9tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24-inch extended desktop actually fits a monitor and keyboard, not just decorative space"
   - "Full-extension ball-bearing drawer slides rated for daily use — no wobble at full pull"
   - "Locking top drawer secures sensitive files; caster wheels lock on both front wheels"
-cons:
+cons: 
   - "Assembly requires two people for the desktop attachment; hardware alignment is finicky"
   - "Drawer capacity is letter-size only — legal-size hanging files will not fit without bending"
   - "Wheels are plastic, not rubber-coated; expect some noise on hardwood floors"
+
 ---
 
 If you're working with a cramped home office, the GYIIYUO 2 Drawer File Cabinet with 24'' Extended Desktop is trying to solve a very specific problem: how to get filing storage and a usable work surface without dedicating floor space to both. The 4.2-star average across 210 ratings suggests it mostly succeeds — but the extended desktop is the feature that makes or breaks this purchase.

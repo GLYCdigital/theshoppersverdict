@@ -1,4 +1,5 @@
 ---
+
 title: "HLDIRECT A Gaming Desk"
 seo_title: "HLDIRECT A Gaming Desk Review: Verdict | TSV"
 meta_description: "Our full hldirect a gaming desk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDC7XQ9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UvNM687DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A gaming desk is either a flimsy afterthought or the backbone of your setup. The HLDIRECT A Gaming Desk leans hard toward the latter. With a 4.6-star average across 229 ratings, it's clearly doing something right. The question is whether that something matters for your specific space, gear, and habits.

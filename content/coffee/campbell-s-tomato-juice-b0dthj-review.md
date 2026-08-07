@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's Tomato Juice"
 seo_title: "Campbell's Tomato Juice Review: Bold, Smooth, Worth It?"
 meta_description: "Campbell's Tomato Juice review: 4.7-star rated. Is it worth buying? Taste, texture, sodium, and value compared. Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTHJJZ67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u9oMh8QGL._SL1500_.jpg"
-pros:
+pros: 
   - "Thick, rich tomato flavor that tastes fresh-squeezed, not cooked-down or metallic"
   - "Balanced salt level — enough to enhance flavor without making you chug water afterward"
   - "Versatile 46-oz size works for drinking, cooking, or Bloody Mary bases without waste"
-cons:
+cons: 
   - "Opened bottle needs consumption within 7-10 days — large format is tough for solo drinkers"
   - "At roughly $3.50-$4.50 per bottle depending on retailer, it's pricier than store-brand alternatives"
+
 ---
 
 **Verdict at a glance:** Campbell's Tomato Juice holds a 4.7-star rating across 235 Amazon reviews for good reason. It's the benchmark for shelf-stable tomato juice — thick, savory, and genuinely tomato-forward. But it's not perfect, and whether it earns a spot in your fridge depends on how you plan to use it.

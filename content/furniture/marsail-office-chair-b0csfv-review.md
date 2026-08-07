@@ -1,4 +1,5 @@
 ---
+
 title: "Marsail Office Chair"
 seo_title: "Marsail Office Chair Review: Verdict | TSV"
 meta_description: "Our full marsail office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSFV8HBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q7xrXB4QL._AC_SL1328_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $150–$250 ergonomic chair market is a battlefield of lookalikes. Most promise "executive comfort" and deliver a torture device wrapped in bonded leather. The Marsail Office Chair doesn't reinvent the wheel — but it does something rarer: it gets the fundamentals right at a price that won't make you wince. Is it the chair your back has been begging for, or just another Amazon gamble? Here's the honest breakdown.

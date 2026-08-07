@@ -1,4 +1,5 @@
 ---
+
 title: "24x30x1, Percisionaire Ez Flow Ii Front Panel Merv 4, 10055."
 seo_title: "Percisionaire EZ Flow II MERV 4 Review: 24x30x1 Filter"
 meta_description: "Honest review of the 24x30x1 Percisionaire EZ Flow II MERV 4 filter. Real performance data, sizing accuracy, and airflow tradeoffs before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00CAO7DYU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dvir10jSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exact 24x30x1 fit with rigid frame that doesn't flex or bow when seated"
   - "Low MERV 4 rating means minimal static pressure drop — HVAC blower works less hard"
   - "Reinforced wire backing prevents the media from collapsing under high airflow"
-cons:
+cons: 
   - "MERV 4 only catches larger particles — fine dust and allergens pass through"
   - "No pleats; flat panel design means shorter service life than comparable pleated filters"
   - "Pack of 12 requires storage space; individual price per filter unclear without current listing"
+
 ---
 
 **If your furnace filter is doing more harm than good, this is the one to consider.** The 24x30x1 Percisionaire EZ Flow II isn't flashy — it's a flat-panel fiberglass filter, not a pleated HEPA wannabe. But that's precisely the point. With 229 ratings averaging 4.6 stars, it's clear homeowners running standard HVAC systems appreciate what this filter *doesn't* do: choke your airflow.

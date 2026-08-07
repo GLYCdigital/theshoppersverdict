@@ -1,4 +1,5 @@
 ---
+
 title: "KERASTASE Nutritive Heat Protecting Spray | Nourishing Heat "
 seo_title: "KERASTASE Nutritive Heat Protecting Spray | Nouris Review"
 meta_description: "Our full kerastase nutritive heat protecting spray | nourishing heat  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZZK8VLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VYnoIE5WL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most heat protectants are either watery sprays that evaporate before your blow-dry or heavy creams that leave hair greasy by lunchtime. The Kerastase Nutritive Heat Protecting Spray claims to thread that needle — and with 229 ratings averaging 4.6 stars, it's apparently doing something right. But at luxury prices, "something right" needs to mean more than just adequate.

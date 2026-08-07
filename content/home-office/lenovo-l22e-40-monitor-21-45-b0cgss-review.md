@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo L22e-40 Monitor, 21.45â€"
 seo_title: "Lenovo L22e-40 Monitor, 21.45â€ Review: Verdict | TSV"
 meta_description: "Our full lenovo l22e-40 monitor, 21.45â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGSSNBGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZPu8-MrPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $90 monitor that doesn't feel like a compromise — mostly

@@ -1,4 +1,5 @@
 ---
+
 title: "cuero 3 Moon Blue Lapis Embossed Vintage Leather Journal | 2 inch"
 seo_title: "cuero 3 Moon Blue Lapis Journal Review: Worth It?"
 meta_description: "cuero 3 Moon Blue Lapis embossed vintage leather journal review: 240 pages, genuine leather cover, lay-flat binding. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09KBZBKR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NJcSAujhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine full-grain leather cover with hand-embossed lapis pattern — no two journals look exactly alike"
   - "240 pages of 100gsm acid-free cream paper that handles fountain pens with minimal bleed-through"
   - "Lay-flat smyth-sewn binding — pages stay open without constant hand-holding"
-cons:
+cons: 
   - "The brass clasp is decorative, not magnetic — it won't hold the journal shut if you toss it in a bag"
   - "Leather has a distinct natural smell that lingers for the first 1-2 weeks"
   - "At 5.5 x 8.5 inches, it's too large for a standard jacket pocket but too small for a full A4 notebook feel"
+
 ---
 
 Most journals in this price range are either cheap bonded leather with flimsy paper or overpriced designer filler. The cuero 3 Moon Blue Lapis sits in a different lane — it's a genuine leather journal that looks like something you'd find in a specialty stationery shop, but with the practicality of a daily-use notebook. After handling this one and reading through what 225 Amazon buyers had to say, here's the real breakdown.

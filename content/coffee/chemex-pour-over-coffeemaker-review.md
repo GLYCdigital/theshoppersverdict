@@ -1,4 +1,5 @@
 ---
+
 title: "Chemex Pour-Over Glass Coffeemaker 8-Cup"
 seo_title: "Chemex Pour-Over Glass Coffeemaker Review (2026)"
 meta_description: "Honest Chemex 8-cup pour-over review: brew quality, durability, filters, and who should buy it. Real buyer feedback at 4.8 stars."
@@ -11,14 +12,15 @@ review_count: 8655
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000I1WP7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rEZwQAmqL._AC_SL1009_.jpg"
-pros:
+pros: 
   - "Produces sediment-free, clean-tasting coffee that highlights origin notes better than most drip machines"
   - "Thick borosilicate glass withstands thermal shock — safe for stovetop reheating and dishwasher cleaning"
   - "Timeless design that doubles as serving carafe; wooden collar and leather tie are replaceable parts"
-cons:
+cons: 
   - "Requires buying Chemex brand bonded filters — standard drip filters will clog and overflow"
   - "Glass is fragile if knocked; no thermal insulation, so coffee cools faster than in a metal carafe"
   - "No built-in kettle or gooseneck spout — you need separate pouring equipment for best results"
+
 ---
 
 **The Chemex 8-Cup is the coffee equivalent of a cast-iron skillet: it's been around for decades, it hasn't changed much, and there's a reason for that.** If you're browsing pour-over brewers and landed here, you already know the silhouette — that hourglass glass carafe with the wooden collar and leather tie. It's been a design icon since 1941, and it's in the permanent collection at the Museum of Modern Art. But does it actually brew coffee worth the hype and the price tag? After digging through 8,655 Amazon ratings at 4.8 stars, here's the honest breakdown.

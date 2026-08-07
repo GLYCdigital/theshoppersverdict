@@ -1,4 +1,5 @@
 ---
+
 title: "Annie's Homegrown Canned Meal All Stars,15 Ounce"
 seo_title: "Annie's Homegrown Canned Meal All Stars Review (2026)"
 meta_description: "Honest Annie's Homegrown Canned Meal All Stars review: taste, texture, portions, and value. See if this 15-oz pasta meal is worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0005YMACC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8148w-0cLLL._SL1500_.jpg"
-pros:
+pros: 
   - "Organic pasta with no artificial colors, flavors, or preservatives — clean label shoppers will appreciate"
   - "Fun bunny-shaped pasta that actually holds sauce well and stays al dente after cooking"
   - "Quick 10-minute prep from pantry to plate, making it a reliable weeknight backup"
-cons:
+cons: 
   - "Sauce-to-pasta ratio leans dry; you'll likely want to add extra marinara or a splash of water"
   - "At 15 ounces, it serves 2-3 modest portions — not the 4 servings claimed on the box"
   - "Mild seasoning profile; adults may find it underseasoned without added salt or herbs"
+
 ---
 
 **The 15-Ounce Pasta That Thinks It's a Meal — And Mostly Delivers**

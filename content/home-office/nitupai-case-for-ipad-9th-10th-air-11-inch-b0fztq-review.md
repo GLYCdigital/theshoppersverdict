@@ -1,4 +1,5 @@
 ---
+
 title: "Nitupai Case for iPad 9th 10th Air 11 inch"
 seo_title: "Nitupai Case for iPad 9th 10th Air 11 inch Review: Verdic"
 meta_description: "Our full nitupai case for ipad 9th 10th air 11 inch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FZTQZ267/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h8NX1d0tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The market is flooded with generic iPad folios that all look identical on a product page. What separates the Nitupai Case for iPad 9th, 10th, and Air 11 inch is that it actually respects the dimensional differences between these models. This isn't a one-size-fudges-it shell — it's molded with model-specific cutouts that line up correctly whether you're using an older 9th Gen home button or a newer Air with Face ID.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kichler 9234BA One Light Indoor/Outdoor Wall Mount"
 seo_title: "Kichler 9234BA One Light Indoor/Outdoor Wall Mount Review"
 meta_description: "Our full kichler 9234ba one light indoor/outdoor wall mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07KR11843/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aDLWzfmWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the Kichler 9234BA. This is a $60–$80 wall sconce that behaves like it costs twice that. It's a fixture that solves the "I want it to look custom but I don't want to hire an electrician for a week" problem. But it's not without a few honest tradeoffs you should know about before checkout.

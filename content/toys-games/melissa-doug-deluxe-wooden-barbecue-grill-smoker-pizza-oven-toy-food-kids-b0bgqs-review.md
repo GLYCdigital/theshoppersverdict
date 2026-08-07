@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Deluxe Wooden Barbecue Grill, Smoker & Pizza "
 seo_title: "Melissa & Doug Deluxe Wooden Barbecue Grill, Smoke Review"
 meta_description: "Our full melissa & doug deluxe wooden barbecue grill, smoker & pizza  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGQSNWYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y0LarbnkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Melissa & Doug Deluxe Wooden Barbecue Grill, Smoker & Pizza is the closest thing to a full outdoor kitchen your kid will own before they're tall enough to flip a real burger.** With 235 Amazon ratings averaging 4.7 stars, this 3-in-1 wooden playset has clearly earned its place in living rooms across America. But is it worth the floor space? Let's dig in.

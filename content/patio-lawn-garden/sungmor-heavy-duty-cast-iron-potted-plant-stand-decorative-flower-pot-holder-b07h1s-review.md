@@ -1,4 +1,5 @@
 ---
+
 title: "Sungmor Heavy Duty Cast Iron Potted Plant Stand, Decorative "
 seo_title: "Sungmor Heavy Duty Cast Iron Potted Plant Stand, D Review"
 meta_description: "Our full sungmor heavy duty cast iron potted plant stand, decorative  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07H1S1J85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ALtMm+aBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sungmor Heavy Duty Cast Iron Potted Plant Stand: The Real Story

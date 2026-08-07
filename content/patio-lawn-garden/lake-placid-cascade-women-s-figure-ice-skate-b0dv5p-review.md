@@ -1,4 +1,5 @@
 ---
+
 title: "Lake Placid Cascade Women's Figure Ice Skate"
 seo_title: "Lake Placid Cascade Women's Figure Ice Skate Review: Verd"
 meta_description: "Our full lake placid cascade women's figure ice skate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DV5PPB8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J2xy6nnbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I'll be straight with you: the Lake Placid Cascade Women's Figure Skate sits in a weird spot. It's not the $40 junk you'll find at big-box stores that folds like cardboard on your first crossover. But it's also not a $300 Jackson or Riedell that'll carry you through freestyle levels. What it is — and this matters — is arguably the best sub-$100 beginner figure skate on Amazon right now. And with 215 ratings averaging 4.3 stars, I'm not the only one saying it.

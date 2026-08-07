@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Kitchen System BL770 inch"
 seo_title: "Ninja Kitchen System BL770 Review: 4.7-Star Powerhouse"
 meta_description: "Ninja Kitchen System BL770 review: 1500W blender, food processor & single-serve cups. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 92840
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00939I7EK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ME5sqz5TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1500-watt motor crushes ice and frozen fruit in under 30 seconds — no shaking or stirring required"
   - "Three interchangeable bases (72-oz pitcher, 8-cup food processor, 16-oz single-serve cups) replace three separate countertop appliances"
   - "Total Crushing blades are genuinely sharp — they handle kale stems, nut butters, and frozen smoothies without bogging down"
-cons:
+cons: 
   - "Loud — measured at roughly 90+ decibels during heavy blending; you'll hear it through walls"
   - "Pitcher lid can be finicky to lock; misalignment causes leaking and requires a firm press to seat properly"
   - "No variable speed dial — only three fixed presets (Low, High, Pulse) which limits precision for delicate tasks"
+
 ---
 
 The Ninja Kitchen System BL770 has sat on my counter for three weeks now, and I've put it through everything from frozen margaritas to almond butter. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "TOLLCY Remote Control Boat for Kids, 2Pack RC Boats with LED"
 seo_title: "TOLLCY Remote Control Boat for Kids, 2Pack RC Boat Review"
 meta_description: "Our full tollcy remote control boat for kids, 2pack rc boats with led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GR82W4FL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81blZlDIejL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re looking for a gift that doesn’t require a trip to the hobby shop, the TOLLCY 2-pack is a strong contender. This is a toy-grade RC boat meant for ponds, pools, and lakes — not a racing machine. But for the price of a family dinner, you get two boats, two remotes, and enough LED flash to keep kids entertained until the batteries give out.

@@ -1,4 +1,5 @@
 ---
+
 title: "HESTYA Fishing Lures Spoons Saltwater Treble Trout Lures Har"
 seo_title: "HESTYA Fishing Lures Spoons Saltwater Treble Trout Review"
 meta_description: "Our full hestya fishing lures spoons saltwater treble trout lures har review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B3HL9DSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612E-2DL+lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Performance, Build, and Real-World Use

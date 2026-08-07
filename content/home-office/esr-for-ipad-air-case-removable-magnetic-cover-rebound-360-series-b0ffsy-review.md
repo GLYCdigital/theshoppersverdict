@@ -1,4 +1,5 @@
 ---
+
 title: "ESR for iPad Air Case, Removable Magnetic Cover, Rebound 360 inch"
 seo_title: "ESR iPad Air Case Rebound 360 Review: Magnetic Cover Tested"
 meta_description: "ESR Rebound 360 iPad Air case review: removable magnetic cover, build quality, and real-world drop protection. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFSYTL84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lL1qntcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable magnetic front cover clips on and off cleanly — turns a folio into a slim back shell in seconds"
   - "Military-grade corner air cushioning (ESR's Rebound tech) absorbs drops better than flat TPU cases"
   - "Built-in Apple Pencil holder with secure flap — keeps the Pro stylus locked in transit"
-cons:
+cons: 
   - "Back shell is glossy plastic — picks up fingerprints and micro-scratches faster than matte finishes"
   - "Magnet strength on the cover is solid but not Apple Smart Folio strong — won't survive a hard shake in a bag"
   - "No kickstand on the back shell itself — you lose viewing angles when the cover is detached"
+
 ---
 
 If you've ever owned a folio case, you know the trade-off: great screen protection, miserable ergonomics when you just want to hold the bare tablet. The ESR Rebound 360 for iPad Air tries to solve that with a magnetic detach system. After 229 ratings at 4.6 stars, the question isn't whether it works — it's whether the compromises are worth it for your workflow.

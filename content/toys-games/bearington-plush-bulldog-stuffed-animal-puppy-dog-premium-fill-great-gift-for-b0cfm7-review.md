@@ -1,4 +1,5 @@
 ---
+
 title: "Bearington Plush Bulldog Stuffed Animal Puppy Dog: Premium F"
 seo_title: "Bearington Plush Bulldog Review: Premium F Dog Toy (2026)"
 meta_description: "Bearington Plush Bulldog review: premium fabric, bean-filled base, and a charming face. See if this 4.7-star stuffed dog is worth the price."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CFM75P3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RKarjsFeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ultra-soft premium fabric that holds up to repeated hugging and toddler play without pilling"
   - "Weighted, bean-filled bottom lets the bulldog sit upright on shelves, couches, or beds — no flopping over"
   - "Detailed, hand-stitched face with expressive eyes that gives it genuine character, not the dead-eyed look cheap plush toys have"
-cons:
+cons: 
   - "Not machine washable — spot clean only, which is a hassle for a kids' toy that will definitely get drooled on"
   - "Smaller than photos suggest at roughly 10 inches tall; not the lap-filling size some buyers expect"
+
 ---
 
 Let’s cut through the fluff. There are roughly a million stuffed bulldogs on Amazon, ranging from $8 gas-station quality to $80 “collector” pieces that feel like a scam. The Bearington Plush Bulldog sits somewhere in the premium middle, and after digging through 235 ratings and the product specs, here’s what actually matters.

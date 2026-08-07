@@ -1,4 +1,5 @@
 ---
+
 title: "ELEMUSE Mattress in a Box"
 seo_title: "ELEMUSE Mattress in a Box Review: Worth It? (2026)"
 meta_description: "ELEMUSE Mattress in a Box review: 4.5-star rated bed. We break down comfort, edge support, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSW3HT95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Vum5YJBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Triple-layer foam construction with a 2.5-inch gel-infused memory foam top that sleeps noticeably cooler than standard foam"
   - "Comes compressed in a manageable box (roughly 40 lbs for a queen) — one person can realistically set it up in under 15 minutes"
   - "Motion isolation is genuinely impressive; a glass of water stays put when your partner rolls over at 3 AM"
-cons:
+cons: 
   - "Edge support is average at best — sit too close to the perimeter and you'll slide off; not ideal for couples who need the full surface"
   - "Off-gassing smell is strong for the first 48 hours; plan to air it out in a ventilated room before sleeping on it"
+
 ---
 
 Let's be direct about the ELEMUSE Mattress in a Box: at 4.5 stars across 225 Amazon ratings, this isn't a hidden gem or a marketing fluke. It's a solid, mid-range memory foam bed that does most things right and a few things just okay. Here's what you actually need to know before you hit "Buy."

@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Claro On/Off Switch, 15 Amp, 3-Way"
 seo_title: "Lutron Claro On/Off Switch, 15 Amp, 3-Way Review: Verdict"
 meta_description: "Our full lutron claro on/off switch, 15 amp, 3-way review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07VXRGNWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NTS1GMlFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most people don't think about light switches until they flip one that feels like a hollow plastic toy. The Lutron Claro is not that switch. This is the paddle you notice — in a good way — every time you use it.

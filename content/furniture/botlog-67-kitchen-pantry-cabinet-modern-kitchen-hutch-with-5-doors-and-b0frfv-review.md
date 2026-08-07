@@ -1,4 +1,5 @@
 ---
+
 title: "BOTLOG 67 inch  Kitchen Pantry Cabinet, Modern Kitchen Hutch with"
 seo_title: "BOTLOG 67 inch  Kitchen Pantry Cabinet Review: Worth It? (2026)"
 meta_description: "BOTLOG 67 inch  kitchen pantry cabinet review: 5-door storage, build quality, assembly, and real buyer feedback. See if this modern hutch fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FRFVZFPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qbubhMQaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Five-door layout with split internal shelving gives flexible storage for small appliances, dry goods, and oversized cookware"
   - "Rounded corners and smooth surfaces make it safer for homes with young children"
   - "Adjustable shelves accommodate everything from cereal boxes to a stand mixer without wasted vertical space"
-cons:
+cons: 
   - "Assembly is time-consuming — expect 2-3 hours with two people; hardware alignment requires patience"
   - "Back panel is thin particleboard; anchoring to the wall is strongly advised if you have kids or pets"
   - "Finish is prone to fingerprints and smudges on darker colorways"
+
 ---
 
 **Opening Hook**

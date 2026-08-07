@@ -1,4 +1,5 @@
 ---
+
 title: "LIKIMIO Bed Frames with Lighted Headboard, Upholstered Moder"
 seo_title: "LIKIMIO Bed Frames with Lighted Headboard, Upholst Review"
 meta_description: "Our full likimio bed frames with lighted headboard, upholstered moder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DXVW7KBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KSGrGEumL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LIKIMIO Bed Frames with Lighted Headboard: The Illuminated Upgrade Your Bedroom Didn't Know It Needed

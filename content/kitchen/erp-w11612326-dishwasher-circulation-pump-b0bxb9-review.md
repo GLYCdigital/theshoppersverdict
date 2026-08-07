@@ -1,4 +1,5 @@
 ---
+
 title: "ERP W11612326 Dishwasher Circulation Pump"
 seo_title: "ERP W11612326 Dishwasher Circulation Pump Review"
 meta_description: "ERP W11612326 dishwasher circulation pump review: fit, noise, performance, and durability. Is it a true OEM replacement? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BXB9ZKPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514cK0UObPL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Direct OEM-equivalent replacement for Whirlpool/KitchenAid/Maytag models — same W11612326 part number, no adapter hacks needed"
   - "Includes the mounting bracket and inlet strainer pre-attached, saving a separate parts order"
   - "Consistent 4.5-star rating across 225 reviews, with multiple reports of resolving 'no wash' or 'weak spray' errors permanently"
-cons:
+cons: 
   - "No wiring harness included — you must reuse your old one, and the connector can be brittle after years of heat cycles"
   - "Some units arrive with a slight cosmetic casting seam; doesn't affect sealing but looks unfinished if visible through the sump"
+
 ---
 
 Your dishwasher stopped cleaning. Dishes come out with food stuck on, or the cycle runs but the spray arms barely turn. Before you call a $150 service visit, look at the circulation pump — it's the heart of the wash system, and the ERP W11612326 is the replacement you'll find on nearly every shelf.

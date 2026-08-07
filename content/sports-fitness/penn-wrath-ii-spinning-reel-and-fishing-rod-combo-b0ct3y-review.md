@@ -1,4 +1,5 @@
 ---
+
 title: "Penn Wrath II Spinning Reel and Fishing Rod Combo"
 seo_title: "Penn Wrath II Spinning Reel and Fishing Rod Combo Review:"
 meta_description: "Our full penn wrath ii spinning reel and fishing rod combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CT3Y5H4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pPqDDj51L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the Penn Wrath II combo is not a premium setup, and it doesn't pretend to be. It's a competent, durable, budget-conscious saltwater rig that punches above its weight in drag performance but falls short in rod balance. Here's the breakdown.

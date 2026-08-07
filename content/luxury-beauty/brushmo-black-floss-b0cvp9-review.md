@@ -1,4 +1,5 @@
 ---
+
 title: "Brushmo Black Floss"
 seo_title: "Brushmo Black Floss Review: Luxury Dental Care Worth It?"
 meta_description: "Brushmo Black Floss review: Does this luxury charcoal floss beat drugstore brands? Real pros, cons, and buyer verdicts from 215+ Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CVP9TNZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cLp8dSJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slides between tight contacts without shredding or snapping mid-use"
   - "Infused with activated charcoal that leaves a clean, fresh sensation"
   - "Packaging doubles as a discreet travel case with a built-in cutter"
-cons:
+cons: 
   - "Premium price per yard compared to basic floss picks or standard spools"
   - "Black coating can transfer to fingers if hands are wet during use"
+
 ---
 
 Let's be honest: floss is about as glamorous as a product gets when it's hidden in your bathroom drawer. But Brushmo is trying to change that with a luxury black floss that looks like it belongs in a spa, not next to your toothpaste. After digging through 215 Amazon ratings averaging 4.3 stars, here's the real story on whether this premium thread is worth your money.

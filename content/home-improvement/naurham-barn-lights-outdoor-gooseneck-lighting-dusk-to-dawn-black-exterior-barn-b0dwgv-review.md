@@ -1,4 +1,5 @@
 ---
+
 title: "Naurham Barn Lights Outdoor Gooseneck Lighting, Dusk to Dawn"
 seo_title: "Naurham Barn Lights Outdoor Gooseneck Lighting, Du Review"
 meta_description: "Our full naurham barn lights outdoor gooseneck lighting, dusk to dawn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWGVB4GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZXaokcbqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most barn lights on Amazon are flimsy sheet metal with a cheap sensor that dies in six months. The Naurham gooseneck fixture is not that. With a 4.4-star average across 220 ratings, it's earned a spot in the conversation — but it's not perfect. Here's what you need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Raw Pumpkin Seeds 2 LB Bag - Shelled, AAA Grade, Unsalted, D"
 seo_title: "Raw Pumpkin Seeds 2 LB Bag - Shelled, AAA Grade, U Review"
 meta_description: "Our full raw pumpkin seeds 2 lb bag - shelled, aaa grade, unsalted, d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLSBW3XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DpokfyaAL._SL1068_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most bulk pumpkin seeds you find online are either stale, inconsistently roasted, or mysteriously "lightly salted" when the label says otherwise. This 2-pound bag of shelled, AAA-grade, unsalted pepitas is a different story — and with a 4.8-star average across 240 ratings, the crowd agrees. But is it worth your money? I dug through the feedback and the specs to give you the real picture.

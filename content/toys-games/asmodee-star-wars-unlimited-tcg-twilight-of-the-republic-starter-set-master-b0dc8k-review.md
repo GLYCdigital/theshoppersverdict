@@ -1,4 +1,5 @@
 ---
+
 title: "Asmodee Star Wars: Unlimited TCG Twilight of The Republic St"
 seo_title: "Star Wars Unlimited Twilight of the Republic Starter Set Review"
 meta_description: "Honest Star Wars: Unlimited Twilight of the Republic starter set review — card quality, gameplay, value, and who should buy this 2-player TCG box."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC8KG6JB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XVmnc1lDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two fully pre-built 50-card decks out of the box — zero deck-building required for your first game"
   - "Twilight of the Republic cards feature crisp Clone Wars artwork with readable, well-organized layout"
   - "Starter-exclusive cards (like the alternate-art Anakin Skywalker leader) that aren't in booster packs"
-cons:
+cons: 
   - "Only two leaders per box — you'll need a second starter or boosters to explore other factions"
   - "No card sleeves included; the glossy finish scuffs noticeably after repeated shuffling"
   - "Rulebook assumes some TCG familiarity — absolute beginners may need to watch a tutorial video"
+
 ---
 
 The Star Wars: Unlimited TCG has been quietly building one of the most loyal followings in competitive card games, and the **Twilight of the Republic** starter set is the best entry point the line has produced. This is the Clone Wars expansion, dropping you straight into the conflict between the Grand Army of the Republic and the Separatist Alliance with two ready-to-play decks that skip the deck-building hurdle entirely.

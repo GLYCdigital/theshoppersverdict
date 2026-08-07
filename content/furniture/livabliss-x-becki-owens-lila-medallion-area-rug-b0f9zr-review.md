@@ -1,4 +1,5 @@
 ---
+
 title: "Livabliss x Becki Owens Lila Medallion Area Rug"
 seo_title: "Livabliss x Becki Owens Lila Medallion Area Rug Review: V"
 meta_description: "Our full livabliss x becki owens lila medallion area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F9ZRJ7RW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SKxzrH9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Livabliss x Becki Owens Lila Medallion Area Rug: A Designer Look With Real Tradeoffs

@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Parts Kit for irobot Roomba 600 Series 694 675 6"
 seo_title: "Replacement Parts Kit for irobot Roomba 600 Series Review"
 meta_description: "Our full replacement parts kit for irobot roomba 600 series 694 675 6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLWFM9PG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wPvlsnP7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Replacement Parts Kit for iRobot Roomba 600 Series: The $25 Fix That Keeps Your Bot Alive

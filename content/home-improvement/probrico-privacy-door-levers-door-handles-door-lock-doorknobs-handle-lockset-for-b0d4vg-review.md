@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Privacy Door Levers Door Handles Door Lock Doorknob"
 seo_title: "Probrico Privacy Door Levers Door Handles Door Loc Review"
 meta_description: "Our full probrico privacy door levers door handles door lock doorknob review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4VGH25Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eOzHbA6jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 

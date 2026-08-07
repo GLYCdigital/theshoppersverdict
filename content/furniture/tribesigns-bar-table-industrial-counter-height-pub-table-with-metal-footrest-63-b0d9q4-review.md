@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Bar Table, Industrial Counter Height Pub Table wi"
 seo_title: "Tribesigns Bar Table, Industrial Counter Height Pu Review"
 meta_description: "Our full tribesigns bar table, industrial counter height pub table wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9Q43HJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91OvQyCoKtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 63-inch industrial bar table that actually delivers on looks — if you can handle the assembly**

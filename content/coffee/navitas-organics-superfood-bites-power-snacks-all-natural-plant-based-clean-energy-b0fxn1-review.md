@@ -1,4 +1,5 @@
 ---
+
 title: "Navitas Organics Superfood+ BITES â€“ Power Snacks â€“ All N"
 seo_title: "Navitas Organics Superfood+ BITES â€“ Power Snacks Review"
 meta_description: "Our full navitas organics superfood+ bites â€“ power snacks â€“ all n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXN1ZDN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MT2wnUceL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Are These Bites Worth Your Snack Budget?**

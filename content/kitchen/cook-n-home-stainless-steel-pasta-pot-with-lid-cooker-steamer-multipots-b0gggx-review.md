@@ -1,4 +1,5 @@
 ---
+
 title: "Cook N Home Stainless Steel Pasta Pot with Lid Cooker Steame"
 seo_title: "Cook N Home Stainless Steel Pasta Pot Review (2026): Worth It?"
 meta_description: "Honest Cook N Home stainless steel pasta pot review: 4.7-star rating, build quality, steamer insert performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGGX2Z3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HkOxzYF-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply encapsulated base heats evenly without scorching pasta or burning the bottom"
   - "Steamer insert fits snugly and doubles as a colander — no separate draining step"
   - "Glass lid seals well enough to simmer sauces without splattering the stovetop"
-cons:
+cons: 
   - "Stainless steel exterior shows fingerprints and water spots quickly"
   - "Handles stay cool on the stovetop but get warm during prolonged oven use"
   - "Steamer insert lacks side handles — need a towel or mitt to lift it when hot"
+
 ---
 
 If you've ever dumped a pound of spaghetti into boiling water and watched it clump into a sticky mass, you know the struggle. The Cook N Home Stainless Steel Pasta Pot with Lid Cooker Steamer aims to fix that — and for the most part, it delivers. This 4.7-star-rated multipot (235 ratings) isn't flashy, but it's the kind of workhorse that earns a permanent spot on your stovetop.

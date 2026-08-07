@@ -1,4 +1,5 @@
 ---
+
 title: "IVIIN USB 3.0 Hub, 4 Port USB Hub Splitter, USB A Expander P"
 seo_title: "IVIIN USB 3.0 Hub, 4 Port USB Hub Splitter, USB A  Review"
 meta_description: "Our full iviin usb 3.0 hub, 4 port usb hub splitter, usb a expander p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXH9SV2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pQHHM1iGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # IVIIN USB 3.0 Hub, 4 Port USB Hub Splitter, USB A Expander P

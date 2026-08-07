@@ -1,7 +1,8 @@
 ---
-title: "IFGET Farmhouse End Table with Charging Station, 20\" Nightst"
+
+title: "IFGET Farmhouse End Table with Charging Station, 20\ Nightst"
 seo_title: "IFGET Farmhouse End Table with Charging Station, 2 Review"
-meta_description: "Our full ifget farmhouse end table with charging station, 20\" nightst review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full ifget farmhouse end table with charging station, 20\ nightst review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ifget-farmhouse-end-table-with-charging-station-20-nightstand-w-groove-barn-b0cw13-review"
 image_alt: "IFGET Farmhouse End Table with Charging Station, 20 Nightstand w/Groove Barn Door, Rustic Wood Bedside Table, Side Table"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW13N9MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716qHS1fktL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The IFGET Farmhouse End Table doesn't try to be the fanciest nightstand you've ever owned — it tries to be the most practical one, and honestly, that's a smarter play.**

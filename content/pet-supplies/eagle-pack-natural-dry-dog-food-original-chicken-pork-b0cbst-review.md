@@ -1,4 +1,5 @@
 ---
+
 title: "Eagle Pack Natural Dry Dog Food, Original Chicken & Pork"
 seo_title: "Eagle Pack Natural Dog Food Review: Chicken & Pork (2026)"
 meta_description: "Honest Eagle Pack Natural Dry Dog Food review: ingredients, kibble quality, real owner feedback, and who should buy. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBSTNBP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZNVy9qayL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First three ingredients are named meat proteins (chicken, pork meal, chicken meal) — no vague 'meat by-products'"
   - "Includes guaranteed probiotics and prebiotic fiber for digestive support, which is rare at this price point"
   - "Kibble size and texture work well for medium and large breeds — owners report less gulping and better chewing"
-cons:
+cons: 
   - "Contains pea protein and potato products, which some dogs with sensitive stomachs may not tolerate"
   - "No grain-free option — this formula includes whole grain brown rice, so it won't suit grain-averse owners"
   - "Price fluctuates significantly on Amazon; you'll want to compare per-pound cost before committing"
+
 ---
 
 **The 30-Second Hook**

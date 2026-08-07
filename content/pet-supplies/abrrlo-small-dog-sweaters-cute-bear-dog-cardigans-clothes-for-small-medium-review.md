@@ -1,16 +1,17 @@
 ---
+
 title: "ABRRLO Small Dog Sweaters Cute Bear Dog Cardigans Clothes for Small Medium Dogs Boy Girl Puppy Cat Knitting Cardigan Outfits Dogs Autumn Coats Warm Pet Doggy Clothes Soft Knitwear Apparel"
 seo_title: "ABRRLO Small Dog Review: Verdict (4.3/5) | TSV"
 meta_description: "It’s hard to find good size and great quality dog sweater for a decent 763+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "abrrlo-small-dog-sweaters-cute-bear-dog-cardigans-clothes-for-small-medium-review"
 image_alt: "ABRRLO Small Dog Sweaters Cute Bear Dog Cardigans Clothes for Small Medium Dogs Boy Girl Puppy Cat Knitting Cardigan Out"
-keywords:
+keywords: 
   - "abrrlo small dog review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the ABRRLO Small Dog Sweaters?"
     answer: "It’s hard to find good size and great quality dog sweater for a decent price That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the ABRRLO Small Dog Sweaters?"
@@ -24,12 +25,13 @@ review_count: 763
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9GT8PMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zzw8MtpDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It’s hard to find good size and great quality dog sweater for a decent price."
   - "Soft and warm,good quality and durability."
   - "It was a good price too."
-cons:
+cons: 
   - "Too small Cute but very tiny."
+
 ---
 
 The ABRRLO Small Dog Sweaters Cute is a popular choice - with 763 Amazon reviews behind it. Here is what buyers actually say.

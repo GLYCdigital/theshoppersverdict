@@ -1,4 +1,5 @@
 ---
+
 title: "DAMAIFROM Convertible Sleeper Sofa Bed with Cylindrical Pill"
 seo_title: "DAMAIFROM Convertible Sleeper Sofa Review: Honest 2026 Verdict"
 meta_description: "DAMAIFROM Convertible Sleeper Sofa Bed review: corduroy fabric, folding mattress design, comfort and durability tested. Real buyer insights and buying advice."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FK2FM3M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ITZ35tB5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position adjustable backrest lets you dial in the exact angle for sitting, lounging, or sleeping without tools"
   - "Corduroy upholstery is noticeably softer and more durable than the standard linen-blend fabric on most budget sleeper sofas"
   - "Full-length cylindrical pillow doubles as a backrest when sitting and a neck support when sleeping — genuinely useful, not decorative"
-cons:
+cons: 
   - "At roughly 30 pounds, it's light enough to move but not something you'll want to reposition frequently once set up"
   - "The folding mechanism requires a firm push to lock into the flat position — some smaller-framed users may struggle at first"
+
 ---
 
 # The DAMAIFROM Convertible Sleeper Sofa: The Guest Bed That Doesn't Look Like One

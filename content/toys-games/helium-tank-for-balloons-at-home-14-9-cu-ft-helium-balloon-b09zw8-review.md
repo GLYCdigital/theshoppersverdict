@@ -1,4 +1,5 @@
 ---
+
 title: "Helium Tank for Balloons At Home, 14.9 Cu Ft Helium Balloon"
 seo_title: "Helium Tank for Balloons At Home Review: 14.9 Cu Ft"
 meta_description: "Honest review of the 14.9 cu ft helium tank for balloons at home. How many balloons it fills, ease of use, and whether it's worth the cost."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09ZW8JBGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N13ZBIUJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fills roughly 50-60 standard 9-inch latex balloons, which covers most birthday setups in one purchase"
   - "Twist-and-release valve gives you precise control — no wasted helium or surprise balloon pops"
   - "Lightweight aluminum tank is easy to carry and store, unlike bulky rental tanks"
-cons:
+cons: 
   - "Tank is one-time use only — you can't refill it, so you're paying for disposal after each event"
   - "Won't inflate foil/mylar balloons to full float time; they'll last hours, not days"
+
 ---
 
 Let me be direct with you: buying helium for a one-time party is usually a waste of money. But if you've ever stood in a party store checkout line holding 30 deflated balloons, you already know the alternative isn't great either. This 14.9 cubic foot tank sits in the middle — and for the right buyer, it's genuinely the smartest option.

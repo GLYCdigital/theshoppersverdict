@@ -1,4 +1,5 @@
 ---
+
 title: "Funko Pop Premium: Demon Slayer - Rengoku 9th Form - Collect"
 seo_title: "Funko Pop Rengoku 9th Form Review: Premium Demon Slayer Figure"
 meta_description: "Honest Funko Pop Premium Rengoku 9th Form review: build quality, glow details, size, and if this $25 Demon Slayer collectible is worth it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D98TZ8K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7143MizjAiL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Translucent flame effects with UV-reactive glow that actually pops under blacklight"
   - "Premium line gets a larger 5-inch scale with heavier, sturdier vinyl than standard Pops"
   - "Dynamic pose captures Rengoku's 9th Form mid-swing — not a static standing figure"
-cons:
+cons: 
   - "Flame pieces are delicate at attachment points; one reviewer reported a snapped blade tip in transit"
   - "No protective case included despite the premium price point"
   - "Box art is plain compared to the figure itself — in-box display won't do it justice"
+
 ---
 
 If you've ever stared at a standard Funko Pop and thought, "This is just… standing there," the Premium line was made for you. The Rengoku 9th Form figure is the clearest example yet of Funko actually trying — this isn't a repaint or a minor sculpt tweak. It's a proper action-oriented figure with translucent flame effects wrapping around the Flame Hashira mid-attack.

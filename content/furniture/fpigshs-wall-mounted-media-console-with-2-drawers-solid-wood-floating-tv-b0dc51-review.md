@@ -1,4 +1,5 @@
 ---
+
 title: "FPIGSHS Wall Mounted Media Console with 2 Drawers Solid Wood"
 seo_title: "FPIGSHS Wall Mounted Media Console Review: Solid Wood Floating TV Stand"
 meta_description: "Honest FPIGSHS wall mounted media console review: solid wood construction, floating design, 2 drawers. See pros, cons, and who should buy this 4.5-star TV stand."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DC51FSK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q5ZvAd4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid wood construction with visible grain — not MDF or particleboard"
   - "Floating wall-mount design frees up floor space and makes cleaning easier"
   - "Pre-drilled mounting holes and included hardware make installation straightforward"
-cons:
+cons: 
   - "Mounting requires finding studs — no drywall-only anchors included"
   - "Drawer runners feel basic; not soft-close at this price point"
   - "Cable management gap behind the console is tight for bulky power strips"
+
 ---
 
 # FPIGSHS Wall Mounted Media Console: A Floating TV Stand That Earns Its Place on Your Wall

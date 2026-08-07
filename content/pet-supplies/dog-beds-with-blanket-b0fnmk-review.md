@@ -1,23 +1,25 @@
 ---
+
 title: "Dog Beds with Blanket"
 seo_title: "Dog Beds with Blanket Review: Cozy, Washable, Worth It?"
 meta_description: "Read our honest Dog Beds with Blanket review. See how this 4.7-star bed holds up for chewers, seniors, and anxious pups. Pros, cons, and buying advice."
 slug: "dog-beds-with-blanket-b0fnmk-review"
 image_alt: "Plush dog bed with matching blanket, showing soft bolster and non-slip bottom"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNMKBLRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aRBxlq1VL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Removable, machine-washable cover and blanket — survives weekly wash cycles without pilling or shrinking"  
   - "High-density foam base holds shape even for 70+ lb dogs; no flat-slab feeling after months"  
   - "Matching blanket clips securely to the bed — no more chasing a displaced cover across the crate"  
-cons:  
+cons: 
   - "Slick underside slides on hardwood floors unless you add a rug gripper"  
   - "The blanket is thin — fine for warmth, not a substitute for a heavy winter throw"
+
 ---
 
 Let’s be blunt: most “dog beds with blanket” combos are marketing gimmicks. The blanket slips, the bed flattens in three weeks, and you’re left with a sad pancake your dog refuses to touch. This one, though, has earned a 4.7-star rating from 235 buyers — and after digging into the specs and owner feedback, I get why.

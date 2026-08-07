@@ -1,4 +1,5 @@
 ---
+
 title: "Tub WorksÂ® Tub Soupâ„¢ Scoop, Strain & Play Toddler Bath To"
 seo_title: "Tub WorksÂ® Tub Soupâ„¢ Scoop, Strain & Play Toddl Review"
 meta_description: "Our full tub worksâ® tub soupâ„¢ scoop, strain & play toddler bath to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWVB3QXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vXGdqJFwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Bath time is either a daily battle or a treasured ritual, and the Tub Works® Tub Soup™ Scoop, Strain & Play set is clearly designed for parents who want the latter. With a 4.6-star average across 229 ratings, this isn't a flashy electronic toy — it's a back-to-basics water-play set that earns its keep through smart design. Here's the real breakdown.

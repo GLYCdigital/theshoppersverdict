@@ -1,4 +1,5 @@
 ---
+
 title: "MEWOOFUN Cat Couch Bed, Pet Sofa for Indoor Cats Wooden Indo"
 seo_title: "MEWOOFUN Cat Couch Bed, Pet Sofa for Indoor Cats W Review"
 meta_description: "Our full mewoofun cat couch bed, pet sofa for indoor cats wooden indo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF5P7WC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oB1vAIZtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa like a scratching post and your guest bed like a personal litter box, the MEWOOFUN Cat Couch Bed is trying to be the polite compromise. This is a small, wooden-framed pet sofa that looks like a miniature piece of actual furniture — not a nylon cave or a fuzzy donut. It's a different aesthetic entirely, and for owners who want their pet gear to blend into the living room rather than scream "pet supply aisle," that's the entire point.

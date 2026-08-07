@@ -1,4 +1,5 @@
 ---
+
 title: "CALOKES 13-Inch Semi-Flush Mount Ceiling Light"
 seo_title: "CALOKES 13-Inch Ceiling Light Review: Worth It? (2026)"
 meta_description: "Read our honest CALOKES 13-inch semi-flush mount ceiling light review. See how this $49.99 fixture performs, its pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPHXVDY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510w4JGdYWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free installation with a twist-lock canopy that clicks into place in under 10 minutes"
   - "Integrated 24W LED delivers 2400 lumens at 3000K warm white — no bulb hunting or replacement costs"
   - "Sealed acrylic diffuser prevents dust and bug buildup inside the fixture"
-cons:
+cons: 
   - "Non-replaceable LED board means the whole unit dies when the diodes eventually fail"
   - "3000K is fixed — no color temperature switching for those who prefer daylight or cool white"
+
 ---
 
 Let me be direct: most ceiling lights under $50 are either ugly, dim, or a pain to install. The CALOKES 13-inch semi-flush mount manages to dodge all three bullets, and at 4.5 stars across 225 ratings, buyers seem to agree. But is it right for your hallway, bedroom, or kitchen? Here's what I found after digging through the specs and real owner feedback.

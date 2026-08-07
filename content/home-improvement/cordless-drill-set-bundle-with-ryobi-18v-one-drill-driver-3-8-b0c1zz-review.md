@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Drill Set Bundle with Ryobi 18V ONE+ Drill Driver,"
 seo_title: "Ryobi 18V ONE+ Drill Driver Bundle Review (2026)"
 meta_description: "Honest Ryobi 18V ONE+ cordless drill set bundle review: performance, battery life, included accessories, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C1ZZ8MPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AUeYPdkKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "38% more torque than previous Ryobi drills (515 in-lbs) — actually drives 3-inch deck screws without pre-drilling"
   - "Includes two 2.0Ah batteries, so one charges while the other works — no downtime on medium projects"
   - "Works with every ONE+ tool in Ryobi's 300+ product lineup — one battery platform covers your whole garage"
-cons:
+cons: 
   - "2.0Ah batteries drain fast under heavy continuous load — expect 45–60 minutes of real drilling, not all day"
   - "Chuck is keyed (not keyless) — you'll need the included chuck key nearby, which is easy to misplace"
   - "No belt clip or bit holder included in the bundle — minor annoyance for anyone used to those extras"
+
 ---
 
 **The Ryobi 18V ONE+ Drill Driver bundle is the boring, practical choice — and that's exactly why it's one of the best-rated drill kits on Amazon at 4.8 stars from 240 buyers.**

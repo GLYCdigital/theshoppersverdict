@@ -1,4 +1,5 @@
 ---
+
 title: "Consofa Wingback Recliner Chair with Massage and Heat Tufted"
 seo_title: "Consofa Wingback Recliner Review: Massage & Heat in 2026 inch"
 meta_description: "Consofa wingback recliner review: PU leather, massage, heat, and push-back recline. Is it worth $300? Real pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B3D9H5P4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZtrdKCqXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine push-back recline mechanism with no lever — smooth, tool-free operation"
   - "Heat function gets genuinely warm (not just a weak vibration) and targets the lumbar area"
   - "PU leather is surprisingly durable for the price point; easy to wipe clean"
-cons:
+cons: 
   - "Massage function is more of a deep vibration than a kneading massage — it's loud enough to hear over TV"
   - "Assembly requires two people despite the '5-minute' claim — the backrest alignment is finicky"
   - "No USB port or cup holder, which feels like a miss at this price tier"
+
 ---
 
 Let's be blunt: a recliner under $350 with massage and heat usually means you're getting a flimsy cardboard throne that collapses by Christmas. The Consofa Wingback Recliner Chair with Massage and Heat Tufted isn't that — but it's not a La-Z-Boy either. Here's what 215 Amazon buyers (4.3 stars) are actually getting for their money.

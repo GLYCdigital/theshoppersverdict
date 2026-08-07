@@ -1,4 +1,5 @@
 ---
+
 title: "DECZHIYU Birthday Gifts For Men Women - Birthday Decorations"
 seo_title: "DECZHIYU Birthday Gifts Review: Worth It? (2026)"
 meta_description: "Honest DECZHIYU birthday gifts review: 4.8-star rated decorations. See what buyers love, where it falls short, and if it fits your celebration."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D2XRRXX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811SkjieNWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes 100+ pieces covering banner, balloons, cake toppers, and photo props — no need to buy extras"
   - "Sturdy cardstock and thick foil balloons hold up for multi-hour parties without deflating"
   - "Gender-neutral black and gold design works for adults 21–60, not childish or themed"
-cons:
+cons: 
   - "Balloons require a separate pump or helium tank — not included in the box"
   - "Banner letters arrive unstrung; expect 10–15 minutes of assembly before hanging"
+
 ---
 
 I've reviewed dozens of "birthday in a box" kits, and most are garbage — cheap crepe paper, puny balloons, and a banner that looks like it came from a gas station. The DECZHIYU Birthday Gifts set is not that. At 4.8 stars from 240 ratings, it's earning its keep. Here's the honest breakdown.

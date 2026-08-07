@@ -1,4 +1,5 @@
 ---
+
 title: "Wolawu Oval Coffee Table Marble Table"
 seo_title: "Wolawu Oval Coffee Table Marble Table Review: Verdict | T"
 meta_description: "Our full wolawu oval coffee table marble table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DG5CKN83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kmy0+TMSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The marble look without the marble price tag — mostly**

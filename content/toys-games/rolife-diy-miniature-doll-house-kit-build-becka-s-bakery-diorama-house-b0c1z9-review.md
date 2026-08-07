@@ -1,4 +1,5 @@
 ---
+
 title: "Rolife DIY Miniature Doll House Kit, Build Becka's Bakery Di"
 seo_title: "Rolife DIY Miniature Doll House Kit, Build Becka's Review"
 meta_description: "Our full rolife diy miniature doll house kit, build becka's bakery di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C1Z9VFMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eCI1V+frL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've built enough of these miniature kits to know that most of them are just recycled versions of the same five designs with different stickers slapped on. Rolife's Becka's Bakery is not that. This is a proper, thoughtfully engineered kit that rewards patience — and it's currently sitting at 4.8 stars out of 240 ratings for a reason.

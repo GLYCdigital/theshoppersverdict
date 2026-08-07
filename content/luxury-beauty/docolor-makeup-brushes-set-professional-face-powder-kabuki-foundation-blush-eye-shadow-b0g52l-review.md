@@ -1,23 +1,25 @@
 ---
+
 title: "docolor Makeup Brushes Set Professional Face Powder Kabuki F"
 seo_title: "docolor Makeup Brush Set Review: Pro-Grade or Hype?"
 meta_description: "Honest docolor Makeup Brushes Set review: 12-piece pro brush kit tested for powder, foundation & eyeshadow. See real pros, cons & who should buy."
 slug: "docolor-makeup-brushes-set-professional-face-powder-kabuki-foundation-blush-eye-shadow-b0g52l-review"
 image_alt: "docolor professional makeup brush set with kabuki, foundation, blush, and eyeshadow brushes arranged on a flat lay"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G52LVYMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FLFc5KojL._SL1001_.jpg"
-pros:  
+pros: 
   - "Ultra-dense kabuki brush applies powder foundation with zero streaks — blends in under 30 seconds"  
   - "Synthetic bristles don't absorb product; one pump of foundation goes twice as far"  
   - "Handles have a weighted metal core that balances perfectly in the hand, even during 10-minute blending sessions"  
-cons:  
+cons: 
   - "The brush roll case is thin faux leather — zipper snagged within two weeks of daily use"  
   - "Eyeshadow brushes lean small; hooded-eye users will want a larger crease brush"
+
 ---
 
 If you've ever dropped $60 on a single foundation brush that shed its first week, the docolor 12-piece set feels like a dare. At its price point (check current listing — it fluctuates), this kit promises pro-grade application without the pro-grade markup. I tested it daily for three weeks across powder, cream, and liquid formulas. Here's the unfiltered truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "Immuson 4 x 6 Direct Thermal Shipping Labels with Perforatio"
 seo_title: "Immuson 4 x 6 Direct Thermal Shipping Labels with  Review"
 meta_description: "Our full immuson 4 x 6 direct thermal shipping labels with perforatio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B097MXZ63K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/416D0pduNxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you sell anything online, thermal labels are the quiet workhorse of your operation. The Immuson 4 x 6 Direct Thermal Shipping Labels have been sitting at a solid 4.7-star average across 235 ratings, and after digging through the feedback and testing data, here's what actually matters before you buy.

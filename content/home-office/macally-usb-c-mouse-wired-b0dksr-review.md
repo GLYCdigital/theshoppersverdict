@@ -1,4 +1,5 @@
 ---
+
 title: "Macally USB C Mouse Wired"
 seo_title: "Macally USB C Mouse Wired Review: Verdict | TSV"
 meta_description: "Our full macally usb c mouse wired review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKSRHVGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jc8xuk-TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wired mice are afterthoughts — cheap plastic throwaways with cables that kink and sensors that skip. The Macally USB-C mouse doesn't try to be anything it isn't. It's a straightforward, no-nonsense peripheral that does exactly what it promises: plug in, click, scroll, done. At $19.99, it sits in a weird spot between disposable $8 office mice and $40+ ergonomic options. Here's where it actually lands.

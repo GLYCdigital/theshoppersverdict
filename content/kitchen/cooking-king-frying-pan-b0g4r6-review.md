@@ -1,4 +1,5 @@
 ---
+
 title: "COOKING KING Frying Pan"
 seo_title: "COOKING KING Frying Pan Review: Honest 2026 Verdict"
 meta_description: "COOKING KING Frying Pan review: nonstick performance, heat distribution, durability, and real buyer feedback. See who should buy it and who should skip."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G4R6XT96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VeaBRQxjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely nonstick — eggs and delicate fish slide off with minimal oil, even after weeks of daily use"
   - "Even heat distribution across the cooking surface, no scorching hotspots on electric or gas stoves"
   - "Comfortable, stay-cool handle with a solid riveted construction that doesn't wobble"
-cons:
+cons: 
   - "Not induction-compatible — glass and coil cooktop users are out of luck"
   - "Hand-wash only; the nonstick coating shows wear if you run it through the dishwasher"
   - "Oven-safe only to 350°F, which limits finishing steaks or frittatas in the oven"
+
 ---
 
 # COOKING KING Frying Pan: The $30 Pan That Punches Above Its Weight

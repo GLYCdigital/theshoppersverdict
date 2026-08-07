@@ -1,4 +1,5 @@
 ---
+
 title: "Radio Flyer Toddler Ride On Toy"
 seo_title: "Radio Flyer Toddler Ride On Toy Review: Verdict | TSV"
 meta_description: "Our full radio flyer toddler ride on toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09GGR64SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FFn1yk2ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When you see the name Radio Flyer, you expect the little red wagon DNA — steel, red paint, and durability that outlasts the kids who ride it. The Radio Flyer Toddler Ride On Toy mostly delivers on that reputation, but with a few caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Alpine Corporation Outdoor Tiered Rock Water Fountain"
 seo_title: "Alpine Corporation Tiered Rock Fountain Review (2026)"
 meta_description: "Honest Alpine Corporation outdoor tiered rock water fountain review: build quality, noise level, assembly, and whether it's worth your patio space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBF6Z9F3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AISzfll5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cast stone construction with realistic rock texture that won't fade or crack like resin fountains"
   - "Three-tier cascading design creates a soothing water sound without the loud splash common to single-tier fountains"
   - "Compact 27-inch footprint fits small patios, balconies, and garden corners without overwhelming the space"
-cons:
+cons: 
   - "Assembly requires two people — the upper tiers are heavy and awkward to lift into place alone"
   - "Pump flow rate isn't adjustable, so you can't dial down the water volume if you prefer a gentler trickle"
+
 ---
 
 Let's be honest about what you're actually buying here. The Alpine Corporation tiered rock fountain is a cast stone piece — not the lightweight resin stuff that tips over in a breeze and looks like plastic within a season. That's the first thing you'll notice when the box arrives. This thing has real heft.

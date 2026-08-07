@@ -1,4 +1,5 @@
 ---
+
 title: "Calloway Mills 900222248 Gatsby Rubber Doormat"
 seo_title: "Calloway Mills Gatsby Rubber Doormat Review (2026)"
 meta_description: "Honest Calloway Mills Gatsby Rubber Doormat review: durability, grip, and real-world performance. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08KT8MPQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8173AY35Q9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Scrapes mud and debris aggressively without wearing down — the rubber teeth stay stiff even after months of daily use"
   - "Stays put on concrete and wood decks thanks to the heavy 10-pound weight and textured backing; no curling at the corners"
   - "Weatherproof through rain, snow, and full sun — no cracking, fading, or waterlogging after a full season outside"
-cons:
+cons: 
   - "Initial rubber odor is noticeable for the first week or two, especially if stored indoors before first use"
   - "Not ideal for barefoot comfort — the scraping surface is deliberately rough and will feel harsh on sensitive feet"
   - "Sheds a few black rubber flecks during the first week as the surface breaks in; sweep or hose them away"
+
 ---
 
 Let’s be honest: most doormats are decorative afterthoughts. You pick one up because it matches the house number, then forget about it until it starts shedding fibers all over the porch. The Calloway Mills Gatsby Rubber Doormat is not that mat. It’s a functional tool disguised as a clean, geometric statement piece — and with 240 ratings averaging 4.8 out of 5, it’s earning serious loyalty from people who actually use their front door.

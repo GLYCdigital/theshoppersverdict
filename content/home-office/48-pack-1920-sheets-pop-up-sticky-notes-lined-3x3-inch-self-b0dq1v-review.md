@@ -1,4 +1,5 @@
 ---
+
 title: "48 Pack 1920 Sheets Pop Up Sticky Notes Lined 3x3 inch Self-"
 seo_title: "48 Pack Pop Up Sticky Notes Review: 1920 Sheets of Lined 3x3 inch"
 meta_description: "Honest review of the 48-pack pop-up sticky notes with 1,920 lined sheets. Are they worth the bulk buy? We tested adhesion, paper quality, and value."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DQ1V4V3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715NlswTdJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each 3x3 pad has 40 lined sheets — 1,920 total, which is roughly triple what most bulk packs offer at this price point"
   - "Pop-up dispenser boxes fan out the notes for one-handed pulls; no more wrestling with sticky pad edges"
   - "Lined format keeps handwriting straight — genuinely useful for to-do lists and meeting notes, not just scribbles"
-cons:
+cons: 
   - "Adhesive strength is moderate, not aggressive — notes will curl and drop on vertical monitors or textured walls after a few days"
   - "Paper is slightly thinner than Post-it brand (around 70gsm feel), so heavy ink markers ghost through"
+
 ---
 
 If you burn through sticky notes like they're going out of style, the math on this 48-pack is hard to argue with. You're getting 1,920 lined sheets in standard 3x3-inch format — that's roughly three times the sheet count of typical bulk packs that hover around 600-700 notes. For a teacher, a project manager, or anyone who lives in meeting rooms, that's months of supply in one box.

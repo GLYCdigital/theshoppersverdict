@@ -1,24 +1,26 @@
 ---
+
 title: "Frideko Wall Sconce"
 seo_title: "Frideko Wall Sconce Review: Honest 2026 Buyer’s Guide"
 meta_description: "Read our Frideko Wall Sconce review: build quality, brightness, installation, real buyer quotes, and who should buy it. 4.6/5 rating, 229 reviews."
 slug: "frideko-wall-sconce-b0gvdz-review"
 image_alt: "Frideko Wall Sconce mounted in a modern living room, warm light glowing against a textured wall"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVDZB7PD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hRR1dtaCL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Die-cast aluminum housing and frosted glass diffuser that resist rust and yellowing"  
   - "Three color temperature settings (3000K/4000K/5000K) selectable via a wall switch before install"  
   - "Tool-free mounting plate with pre-drilled keyhole slots — a 10-minute job for most DIYers"  
-cons:  
+cons: 
   - "Bulbs not included (E26 base) — factor in $12–$20 for two quality LEDs"  
   - "Hardwired only; no plug-in or battery option for renters or non-wired walls"  
   - "Screws and anchors in the box are cheap — swap for your own if mounting on drywall"
+
 ---
 
 If you’ve been scrolling past a dozen identical black cylinder sconces, the **Frideko Wall Sconce** actually earns a second look. It’s not flashy — it’s a straightforward, hardwired, up/down light that gets the fundamentals right. With a 4.6-star average across 229 ratings, it’s clearly doing something better than the $19 Amazon basics crowd. Here’s what that something is.

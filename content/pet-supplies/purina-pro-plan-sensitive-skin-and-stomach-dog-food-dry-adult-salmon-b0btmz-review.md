@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Sensitive Skin and Stomach Dog Food Dry, Adu"
 seo_title: "Purina Pro Plan Sensitive Skin and Stomach Dog Foo Review"
 meta_description: "Our full purina pro plan sensitive skin and stomach dog food dry, adu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTMZJ6H9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nVhDTBpoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has spent weeks scratching raw spots or leaving you a 3 a.m. cleanup duty after digestive upset, you already know the drill: most "sensitive" formulas are just marketing spin. Purina Pro Plan's Sensitive Skin and Stomach line, specifically the salmon-based adult formula, is one of the few that actually walks the walk. At 4.5 stars across 225 Amazon ratings, it's earned its reputation — but not without a few caveats worth knowing before you buy.

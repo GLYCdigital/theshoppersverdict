@@ -1,4 +1,5 @@
 ---
+
 title: "akifun 107 inch  U-Shape Cloud Couch, Modern Modular Sectional Co"
 seo_title: "akifun 107 inch  U-Shape Cloud Couch Review: Worth It? (2026)"
 meta_description: "akifun 107 inch  U-Shape Cloud Couch review: 4.3-star modular sectional. Tested for comfort, assembly, and durability. Is it worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZ36WMVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S5TcRHmeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full U-shape configuration seats six adults comfortably at 107 inches wide, with chaise sections on both ends"
   - "Modular pieces can be rearranged into an L-shape, two separate loveseats, or a giant lounging bed"
   - "High-density foam cushions with pocket coil springs hold up to daily use without sagging"
-cons:
+cons: 
   - "Back cushions arrive compressed and need 24-48 hours to fully fluff; some buyers report they never reach the 'cloud' softness shown in marketing photos"
   - "Fabric is a polyester blend that shows pet hair and lint easily; not ideal for households with shedding animals"
   - "Assembly requires two people — the individual modules are heavy, and the connecting brackets are finicky to align"
+
 ---
 
 # The 107-Inch U-Shape That Actually Fits in a Normal Room

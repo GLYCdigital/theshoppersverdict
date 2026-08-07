@@ -1,4 +1,5 @@
 ---
+
 title: "Fashion Pet Carrier Dog Cat Carrier Purse Soft-Sided Leather"
 seo_title: "Fashion Pet Carrier Purse Review: Stylish or Gimmick?"
 meta_description: "Honest Fashion Pet Carrier Dog Cat Carrier Purse review: build quality, safety, real buyer feedback, and who should skip it. 4.4-star rating analyzed."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09V2NPGSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wj-nMeMJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine leather exterior that softens with use, not bonded vinyl like most purse carriers at this price"
   - "Removable/washable fleece liner — critical when your dog gets car sick or has an accident"
   - "Structured base holds its shape even with a 10–12 lb pet shifting around inside"
-cons:
+cons: 
   - "Carrying capacity is optimistic — a 12 lb dog will be cramped for anything beyond a quick vet run"
   - "Single shoulder strap only; no crossbody option means it slides off constantly if you're bending down"
   - "Ventilation mesh is only on two sides; warm days can make the interior stuffy quickly"
+
 ---
 
 Let's be blunt: most "fashion" pet carriers are garbage disguised with a pretty pattern. The Fashion Pet Carrier Dog Cat Carrier Purse actually tries to be both a functional carrier and a decent accessory — and for the most part, it succeeds. But there are compromises you need to know about before you hit "Add to Cart."

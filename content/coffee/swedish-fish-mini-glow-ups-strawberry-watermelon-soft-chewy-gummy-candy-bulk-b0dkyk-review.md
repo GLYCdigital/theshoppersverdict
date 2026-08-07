@@ -1,4 +1,5 @@
 ---
+
 title: "SWEDISH FISH Mini Glow Ups Strawberry-Watermelon Soft & Chew"
 seo_title: "SWEDISH FISH Mini Glow Ups Strawberry-Watermelon S Review"
 meta_description: "Our full swedish fish mini glow ups strawberry-watermelon soft & chew review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKYKGHVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fe7rgS79L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some candies promise “soft & chewy” and deliver rubber. These don't. The **SWEDISH FISH Mini Glow Ups** in strawberry-watermelon are legitimately softer than the classic red fish — closer to a fruit snack than a traditional gummy. If you’ve ever passed on Swedish Fish because they felt like chewing a tire, this version fixes that complaint.

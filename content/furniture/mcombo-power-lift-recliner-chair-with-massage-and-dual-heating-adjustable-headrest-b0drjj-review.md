@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Power Lift Recliner Chair with Massage and Dual Heati"
 seo_title: "MCombo Power Lift Recliner Chair with Massage and  Review"
 meta_description: "Our full mcombo power lift recliner chair with massage and dual heati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRJJNDKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LFRI8D0CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a power lift recliner, you've probably noticed a sea of near-identical chairs from brands you've never heard of. The MCombo stands out because it does something most competitors at this price don't: it pairs a genuine lift mechanism with a massage system that actually works—not just a vibrating motor strapped to a foam cushion.

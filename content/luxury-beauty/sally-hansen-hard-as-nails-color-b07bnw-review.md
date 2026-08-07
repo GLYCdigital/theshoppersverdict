@@ -1,4 +1,5 @@
 ---
+
 title: "Sally Hansen Hard as Nails Color"
 seo_title: "Sally Hansen Hard as Nails Color Review: Verdict | TSV"
 meta_description: "Our full sally hansen hard as nails color review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07BNWKSWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rEruBjbBL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about nail polish: most drugstore brands promise “hard-as-nails” strength and deliver a streaky mess by day two. Sally Hansen’s Hard as Nails Color has stayed on shelves for decades, and with 220 ratings averaging 4.4 stars, it’s clearly doing something right. But is it a genuine two-in-one strengthener, or just marketing wrapped in a glossy bottle? I bought it, wore it for a week, and here’s what actually matters.

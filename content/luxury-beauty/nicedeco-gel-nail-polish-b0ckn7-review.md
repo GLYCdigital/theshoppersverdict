@@ -1,4 +1,5 @@
 ---
+
 title: "Nicedeco Gel Nail Polish"
 seo_title: "Nicedeco Gel Nail Polish Review: Verdict | TSV"
 meta_description: "Our full nicedeco gel nail polish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKN78J4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TxIhbJhSL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most gel polishes under $15 are a gamble. Either the pigment is watery, the brush frays by the second use, or it peels off in sheets by day three. The Nicedeco Gel Nail Polish — currently sitting at 4.5 stars across 225 Amazon ratings — claims to sidestep all of that. I tested it for two weeks. Here's what's real.

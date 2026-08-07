@@ -1,4 +1,5 @@
 ---
+
 title: "English Lavender Seeds for Planting Indoors or Outdoors, 90%"
 seo_title: "English Lavender Seeds Review: 90% Germination Promise Tested"
 meta_description: "Honest English lavender seeds review: 90% germination claim tested, indoor/outdoor growing tips, real buyer results, and who should buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BTDVB47S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fz4rb4cJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine English lavender (Lavandula angustifolia) — cold-hardy to Zone 5, unlike less hardy French or Spanish varieties"
   - "Seed packet includes roughly 300+ seeds, enough for multiple sowing attempts or a small border"
   - "No pretreatment needed for most climates; cold stratification optional, not mandatory"
-cons:
+cons: 
   - "The '90% germination' claim is optimistic — real-world rates land closer to 50-70% even with careful technique"
   - "Lavender is slow to establish; expect 90+ days from sowing to transplant-ready seedlings"
   - "Seeds are tiny and prone to damping off if you overwater — beginners will lose some starts"
+
 ---
 
 Let's be direct: lavender seeds are among the most frustrating things to grow from seed. They're slow, finicky, and the germination window is narrow. So when a packet slaps "90%" on the front, shoppers have a right to be skeptical.

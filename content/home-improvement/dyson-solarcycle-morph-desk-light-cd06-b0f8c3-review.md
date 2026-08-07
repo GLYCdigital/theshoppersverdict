@@ -1,4 +1,5 @@
 ---
+
 title: "Dyson Solarcycle Morph Desk Light CD06 Review"
 seo_title: "Dyson Solarcycle Morph Desk Light CD06 Review: Worth It?"
 meta_description: "Dyson Solarcycle Morph CD06 desk light review: 4.4-star rated. Does $650+ buy real value? Task lighting, color accuracy, and auto-adjust tested."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8C3857M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yzXUUKtUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four distinct lighting modes (task, indirect, display, ambient) actually work — not gimmicks"
   - "Auto-adjust feature tracks daylight and compensates automatically, which genuinely reduces eye strain"
   - "Solid aluminum construction with magnetic covers; feels engineered, not like a toy"
-cons:
+cons: 
   - "Price is objectively hard to justify for a desk lamp, even a smart one"
   - "Magnetic head covers pop off if you bump the lamp — minor annoyance at this price point"
   - "App setup requires account creation; no local-only control option"
+
 ---
 
 Let's be honest about the elephant in the room: this is a $700 desk lamp. Before you close the tab, understand that the Dyson Solarcycle Morph CD06 isn't aiming to be a lamp — it's aiming to be a lighting system. The question is whether that distinction matters to your wallet.

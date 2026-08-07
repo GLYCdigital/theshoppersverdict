@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Jurassic World Dinosaur Missions: Allosaurus Transport "
 seo_title: "LEGO Jurassic World Dinosaur Missions: Allosaurus  Review"
 meta_description: "Our full lego jurassic world dinosaur missions: allosaurus transport  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CV27XCMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m61I8xzpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Jurassic World Dinosaur Missions: Allosaurus Transport doesn't waste time with a slow build-up. Within the first few minutes you're snapping together the truck chassis and the gray cargo trailer, and the whole thing comes together in about 20 minutes if you're an adult, or closer to 45 if your kid is driving the build.

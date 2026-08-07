@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Frozen 12 Piece Plant Based Lip Gloss, Girls Party Fa"
 seo_title: "Disney Frozen Lip Gloss Set Review: 12 Shades for Kids"
 meta_description: "Our honest Disney Frozen 12-piece plant-based lip gloss review: shade range, wear time, value, and if it's worth buying for party favors."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D269QYKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b60ZdT4iL._SL1500_.jpg"
-pros:
+pros: 
   - "12 full-size glosses with distinct Frozen-themed colors — not just minor variations on pink"
   - "Plant-based formula with no harsh ingredients; safe for sensitive young lips"
   - "High pigmentation that shows up on kids without being sticky or heavy"
-cons:
+cons: 
   - "Packaging is lightweight plastic that won't survive rough play or backpack abuse"
   - "No flavor variety — all 12 glosses share the same vanilla scent"
+
 ---
 
 **Is this the Frozen lip gloss set that actually delivers, or just another licensed product coasting on the brand name?**

@@ -1,4 +1,5 @@
 ---
+
 title: "POP MART HIRONO Reshape Series Blind Box Figures, Random Des"
 seo_title: "POP MART HIRONO Reshape Series Blind Box Figures,  Review"
 meta_description: "Our full pop mart hirono reshape series blind box figures, random des review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQ2TQSNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AjPb9V5eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: if you're new to the POP MART blind box rabbit hole, the HIRONO Reshape Series is a solid entry point. If you're a collector already, you probably know exactly which figures you're chasing. Either way, here's what you're actually getting for your money.

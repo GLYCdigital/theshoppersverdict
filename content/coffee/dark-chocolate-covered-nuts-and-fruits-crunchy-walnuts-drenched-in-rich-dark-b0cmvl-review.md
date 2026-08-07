@@ -1,4 +1,5 @@
 ---
+
 title: "Dark Chocolate Covered Nuts and Fruits - Crunchy Walnuts Dre"
 seo_title: "Dark Chocolate Walnuts Review: Crunchy, Rich, Worth It?"
 meta_description: "Honest Dark Chocolate Covered Walnuts review: texture, sweetness, value. See if this 4.5-star snack lives up to the hype before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMVLFK4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71fWmg5jsxL._SL1500_.jpg"
-pros:
+pros: 
   - "Walnuts stay genuinely crunchy — no stale, soft centers even weeks after opening"
   - "Dark chocolate is 60% cacao with real cocoa butter, not waxy compound coating"
   - "Resealable stand-up pouch keeps freshness better than typical flimsy snack bags"
-cons:
+cons: 
   - "No portion control — easy to eat half the bag in one sitting"
   - "Chocolate coating is thin in spots; some pieces arrive with bare walnut showing"
   - "Package size varies listing to listing — double-check you're ordering the 12oz, not 8oz"
+
 ---
 
 ## Is this actually worth your snack budget?

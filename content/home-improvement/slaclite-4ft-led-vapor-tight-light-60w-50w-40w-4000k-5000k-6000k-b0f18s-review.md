@@ -1,4 +1,5 @@
 ---
+
 title: "SLAclite 4FT LED Vapor Tight Light 60W/50W/40W,4000K/5000K/6"
 seo_title: "SLAclite 4FT LED Vapor Tight Light 60W/50W/40W,400 Review"
 meta_description: "Our full slaclite 4ft led vapor tight light 60w/50w/40w,4000k/5000k/6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0F18SP5BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YuMWyRlzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a garage, workshop, or covered porch, you've probably stared at a wall of "vapor tight" fixtures that all claim to be waterproof and bright. The SLAclite 4FT LED stands out because it actually gives you three fixtures in one — not through an app or a remote, but via physical switches on the housing. That's rare in this price range, and it's why 245 buyers have pushed it to a 4.9-star average.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kingston Fury Beast White RGB | Infrared Syncing | Fury CTRL"
 seo_title: "Kingston Fury Beast White RGB | Infrared Syncing | Review"
 meta_description: "Our full kingston fury beast white rgb | infrared syncing | fury ctrl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CT567M51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OkIqQkxBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **First impressions: This RAM looks like it belongs in a showroom, not a PC.**  

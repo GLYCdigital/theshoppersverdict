@@ -1,4 +1,5 @@
 ---
+
 title: "YNNICO Plant Pots, 5 Pack Flower Pots Outdoor Indoor, Plante"
 seo_title: "YNNICO Plant Pots, 5 Pack Flower Pots Outdoor Indo Review"
 meta_description: "Our full ynnico plant pots, 5 pack flower pots outdoor indoor, plante review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9XWDWHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71seHG0OE5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What's Actually in the Box

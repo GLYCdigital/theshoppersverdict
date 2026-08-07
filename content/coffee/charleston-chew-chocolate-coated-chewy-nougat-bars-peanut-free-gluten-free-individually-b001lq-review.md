@@ -1,4 +1,5 @@
 ---
+
 title: "Charleston Chew Chocolate Coated Chewy Nougat Bars - Peanut"
 seo_title: "Charleston Chew Peanut Review: Is It Worth Buying?"
 meta_description: "Charleston Chew Peanut bars review: Classic nougat, chocolate coating, real peanut flavor. See what 229 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001LQO8IC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x0N8HFGdL._SL1200_.jpg"
-pros:
+pros: 
   - "Real peanut pieces folded through the nougat, not just artificial flavoring"
   - "Holds up well in heat — coating doesn't melt into a mess in your bag"
   - "Individually wrapped, making portion control and sharing genuinely easy"
-cons:
+cons: 
   - "Texture is polarizing — some find the nougat too chewy or sticky on teeth"
   - "Sugar content is high; not a snack for keto or low-carb shoppers"
   - "Peanut version can arrive with broken bars if the box gets tossed in transit"
+
 ---
 
 Let's be honest: most candy bars in the checkout aisle blur together. Charleston Chew isn't one of them. This is a bar that's been around since 1925 for a reason — and the Peanut version earns its keep. Here's the real story.

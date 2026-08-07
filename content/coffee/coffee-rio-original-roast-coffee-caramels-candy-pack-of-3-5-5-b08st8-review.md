@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Rio Original Roast Coffee Caramels Candy, Pack of 3 ("
 seo_title: "Coffee Rio Original Roast Coffee Caramels Review (2026)"
 meta_description: "Honest Coffee Rio Original Roast Coffee Caramels review: rich coffee flavor, chewy texture, and real buyer feedback. See if this 3-pack candy is worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08ST8D1FF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lafx4yJgL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine coffee flavor from real coffee extract, not artificial flavoring — tastes like a fresh pour-over in candy form"
   - "Soft, chewy caramel texture that doesn't stick to teeth the way most commercial caramels do"
   - "Individual wrapping makes them ideal for desk drawers, travel bags, or portion control"
-cons:
+cons: 
   - "At roughly 40 calories per piece, it's easy to eat several without noticing — portion discipline required"
   - "The coffee flavor is bold, so if you prefer milkier, sweeter coffee drinks, this might be too intense"
   - "Pack of 3 bags with no bulk discount — per-ounce price is higher than typical grocery store caramels"
+
 ---
 
 **Opening Hook**

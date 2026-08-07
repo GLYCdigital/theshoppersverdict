@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE Z-Wave keypad deadbolt"
 seo_title: "SCHLAGE Z-Wave keypad deadbolt Review: Verdict | TSV"
 meta_description: "Our full schlage z-wave keypad deadbolt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVGHCSV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LqIKUW8UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Z-Wave Lock That Respects Your Existing Hub

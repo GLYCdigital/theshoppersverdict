@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture 24''W x 48''L Rectangular Plastic Height Adj"
 seo_title: "Flash Furniture 24x48 Plastic Table Review (2026)"
 meta_description: "Honest Flash Furniture 24x48 plastic table review: height-adjustable legs, real user feedback, durability concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B076GXMX07/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vj4ut0QiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Legs adjust from 21 to 30 inches in two-inch increments — works for toddlers through standing adults"
   - "Molded plastic top with raised edges contains spills and small items during crafts or meals"
   - "Weighs about 20 pounds; one person can move it, wipe it down, and store it flat"
-cons:
+cons: 
   - "Plastic surface scratches visibly with metal toys or rough use — no way to refinish it"
   - "Legs can wobble at full extension if the locking pins aren't seated perfectly"
   - "White color shows marker, paint, and dirt quickly; requires prompt cleaning"
+
 ---
 
 Let me be direct: this is not a piece of heirloom furniture. It's a workhorse — the kind of table schools, churches, and parents of toddlers buy when they need something that survives glue sticks, juice boxes, and finger paint without a panic attack. With 220 ratings averaging 4.4 stars, the Flash Furniture 24" x 48" plastic activity table has clearly earned its place in thousands of homes and classrooms. Here's what you're actually getting.

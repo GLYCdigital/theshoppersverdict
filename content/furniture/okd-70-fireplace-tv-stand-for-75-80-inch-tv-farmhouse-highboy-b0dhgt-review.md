@@ -1,7 +1,8 @@
 ---
-title: "OKD 70\" Fireplace TV Stand for 75+ 80 Inch TV, Farmhouse Hig"
-seo_title: "OKD 70\" Fireplace TV Stand for 75+ 80 Inch TV, Far Review"
-meta_description: "Our full okd 70\" fireplace tv stand for 75+ 80 inch tv, farmhouse hig review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "OKD 70\ Fireplace TV Stand for 75+ 80 Inch TV, Farmhouse Hig"
+seo_title: "OKD 70\ Fireplace TV Stand for 75+ 80 Inch TV, Far Review"
+meta_description: "Our full okd 70\ fireplace tv stand for 75+ 80 inch tv, farmhouse hig review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "okd-70-fireplace-tv-stand-for-75-80-inch-tv-farmhouse-highboy-b0dhgt-review"
 image_alt: "OKD 70 Fireplace TV Stand for 75+ 80 Inch TV, Farmhouse Highboy Entertainment Center with 30 Electric Fireplace & Slidin"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHGTWG4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TTWsqObeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **OKD 70" Fireplace TV Stand for 75+ 80 Inch TV, Farmhouse Hig** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "IRIS USA Airtight Pet Food Storage Container with Wheels"
 seo_title: "IRIS USA Airtight Pet Food Storage Container with  Review"
 meta_description: "Our full iris usa airtight pet food storage container with wheels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHFDTWTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JCVdhXSfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # IRIS USA Airtight Pet Food Storage Container with Wheels: The Rolling Kibble Vault That Actually Works

@@ -1,4 +1,5 @@
 ---
+
 title: "Anbull Rebar Bender RB-16 inch"
 seo_title: "Anbull Rebar Bender RB-16 Review: Worth It? (2026)"
 meta_description: "Anbull Rebar Bender RB-16 review: 4.6-star rated manual bender. Tested performance, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B097GY7HPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PTNPh5GSL._AC_SL1000_.jpg"
-pros:
+pros: 
   - Bends up to #5 (5/8 inch ") rebar cleanly with no kinking or deformation
   - "Solid welded steel frame stays put during heavy use — no tipping or flex"
   - "Dual bending pins (short and long) handle tight 90° corners and larger radius bends"
-cons:
+cons: 
   - "No built-in degree stop — you'll need a speed square or protractor for repeatable angles"
   - "Bolt-down holes are present, but the included hardware is undersized for permanent mounting"
   - "Lever arm gets physically demanding on #5 bar — plan for a cheater pipe on long jobs"
+
 ---
 
 **Bottom Line Up Front:** The Anbull RB-16 is a legit workhorse for anyone bending rebar regularly, but it's not a set-and-forget tool. It demands a little technique and a lot of elbow grease on thicker bar. Here's the full picture.

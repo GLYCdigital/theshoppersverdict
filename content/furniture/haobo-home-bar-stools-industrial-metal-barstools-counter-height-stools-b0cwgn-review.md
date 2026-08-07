@@ -1,4 +1,5 @@
 ---
+
 title: "HAOBO Home Bar Stools Industrial Metal Barstools Counter Hei"
 seo_title: "HAOBO Industrial Bar Stools Review: Worth It? (2026)"
 meta_description: "HAOBO industrial metal bar stools review: build quality, comfort, and real buyer feedback. See if these counter-height stools fit your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWGNKFDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XDnbC8aAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid steel frame with welded joints — no wobble even on uneven floors when adjusted"
   - Footrest is positioned at a comfortable height for average adults (5'6 inch "–6'0 inch ")
   - "Assembly takes under 15 minutes with the included Allen wrench — no special tools needed"
-cons:
+cons: 
   - "Wood seat is sealed but not lacquered; spills left sitting will stain"
   - "No floor glides included — metal feet can scratch hardwood if you drag instead of lift"
+
 ---
 
 Let's be blunt: most bar stools under $100 are wobbly, cheaply welded, and look like they'd collapse under a heavy toddler. The HAOBO Home Industrial Metal Barstools aren't that. After digging through 225 ratings (4.5 stars) and the spec sheet, here's the real story.

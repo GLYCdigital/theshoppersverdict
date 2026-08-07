@@ -1,4 +1,5 @@
 ---
+
 title: "HOGOKIDS Flower Bouquet Building Set with LED Lighting - 596 inch"
 seo_title: "HOGOKIDS Flower Bouquet Building Set Review: LED Beauty"
 meta_description: "HOGOKIDS 596-piece flower bouquet building set with LED lights: gorgeous display piece, but fragile stems. Read our honest review before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BPM4XKJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AHY+KGSIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "LED lighting base transforms the bouquet into a striking nightlight display — genuinely unique for a brick-built flower set"
   - "596 pieces deliver substantial build time (roughly 3-4 hours) with satisfying variety across roses, tulips, and accent blooms"
   - "Compatible with standard building brick systems, so you can integrate pieces with existing collections"
-cons:
+cons: 
   - "Stems and petals use friction-fit connections that pop apart easily when handled or moved — this is a display piece, not a toy"
   - "Instruction booklet has a few confusing steps where similar-colored pieces are hard to distinguish in the diagrams"
   - "LED unit requires 2 AAA batteries (not included) and the switch is tucked awkwardly beneath the base"
+
 ---
 
 Some flower bouquets wilt in a week. This one will outlast your dining room table's entire decorating cycle — and it glows. The HOGOKIDS Flower Bouquet Building Set with LED Lighting packs 596 pieces into a permanent bouquet that's become one of the more interesting brick-built flower options on Amazon, holding a solid 4.2-star average across 210 ratings.

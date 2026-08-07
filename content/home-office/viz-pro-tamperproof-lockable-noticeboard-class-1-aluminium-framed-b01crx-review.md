@@ -1,4 +1,5 @@
 ---
+
 title: "Viz-pro Tamperproof Lockable Noticeboard Class 1 Aluminium F"
 seo_title: "Viz-pro Tamperproof Lockable Noticeboard Class 1 A Review"
 meta_description: "Our full viz-pro tamperproof lockable noticeboard class 1 aluminium f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01CRXZI72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41mTrlcuEuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever walked past a noticeboard and spotted a confidential memo pinned next to a takeaway menu, you understand the problem this Viz-pro board solves. It's the office equivalent of a locked filing cabinet — but for your wall.

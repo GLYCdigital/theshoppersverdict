@@ -1,4 +1,5 @@
 ---
+
 title: "Giantex Wood Bed Frames with Headboard, Solid Acacia Wood Pl"
 seo_title: "Giantex Acacia Wood Bed Frame Review: Solid, Stylish, Sturdy?"
 meta_description: "Honest Giantex solid acacia wood bed frame review: build quality, assembly, real owner feedback, and who should buy this platform bed."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FX44NH3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jtNv3-BQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid acacia wood construction — no particleboard or MDF veneer to chip or sag"
   - "Tall slatted headboard makes a visual statement and works with or without a box spring"
   - "Requires no box spring thanks to integrated wood slats, saving you $100+ on setup costs"
-cons:
+cons: 
   - "Assembly is a multi-hour project with dozens of bolts; several owners report stripped screw holes"
   - "Wood arrives with a dry, unfinished feel that benefits from an overnight oil treatment"
   - "Slats sit closer together than most, which is good for support but creates a firm, no-give surface"
+
 ---
 
 **Review Body:**

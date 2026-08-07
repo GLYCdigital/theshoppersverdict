@@ -1,4 +1,5 @@
 ---
+
 title: "Corrugated Stainless Steel Pipe"
 seo_title: "Corrugated Stainless Steel Pipe Review: Worth It? (2026)"
 meta_description: "Honest corrugated stainless steel pipe review: build quality, flexibility, leak risks, and who should buy. Real buyer feedback + verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DH19DS83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VzM1GDjDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely flexible — bends around tight corners under sinks without kinking, unlike rigid pipe"
   - "Full stainless steel construction resists corrosion better than chrome-plated brass alternatives"
   - "Pre-attached nuts with rubber washers cut installation time to under 10 minutes with hand tools only"
-cons:
+cons: 
   - "The corrugated interior creates slight water flow resistance; not ideal for high-volume applications"
   - "Some buyers report the included washers degrade faster than expected in hard-water areas"
+
 ---
 
 Let's be blunt: most flexible water supply lines are junk. The cheap braided ones crack after two years, and the rigid copper pipes make you want to throw a wrench through the drywall when you're trying to thread them behind a garbage disposal. This corrugated stainless steel pipe sits in a useful middle ground — if you know what you're buying.

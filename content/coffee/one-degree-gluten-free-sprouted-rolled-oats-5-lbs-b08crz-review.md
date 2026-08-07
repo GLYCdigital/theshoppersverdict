@@ -1,4 +1,5 @@
 ---
+
 title: "One Degree Gluten Free Sprouted Rolled Oats 5 lbs."
 seo_title: "One Degree Gluten Free Sprouted Rolled Oats 5 lbs. Review"
 meta_description: "Our full one degree gluten free sprouted rolled oats 5 lbs. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08CRZCVFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/411p4fUUqsL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another overpriced "clean" oat brand, or does sprouting actually matter? I tested a 5 lb bag for three weeks to find out.**

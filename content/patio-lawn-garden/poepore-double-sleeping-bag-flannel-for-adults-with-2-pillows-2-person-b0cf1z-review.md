@@ -1,4 +1,5 @@
 ---
+
 title: "POEPORE Double Sleeping Bag Flannel for Adults with 2 Pillow"
 seo_title: "POEPORE Double Sleeping Bag Flannel for Adults wit Review"
 meta_description: "Our full poepore double sleeping bag flannel for adults with 2 pillow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CF1ZQ4Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GFfeh+dVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Most double sleeping bags are glorified blankets with a zipper. The POEPORE flannel version is actually trying harder — and for car campers and backyard loungers, it mostly works.**

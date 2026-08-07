@@ -1,4 +1,5 @@
 ---
+
 title: "Disney The Simpsons Talking Krusty Doll Plush, 16-Inches Tal"
 seo_title: "Talking Krusty Doll Review: 16-Inch Simpsons Plush Tested"
 meta_description: "Honest review of the 16-inch Disney Simpsons Talking Krusty Doll. Does the voice work match the nostalgia? Real buyer feedback on sound, quality, and value."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQMYGHWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s3dU8geL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine Dan Castellaneta voice clips — not a cheap sound-alike — with Krusty's signature laugh and catchphrases"
   - "Sturdy 16-inch build with quality stitching that survives enthusiastic hugging and couch-throwing"
   - "Soft, huggable fabric with accurate screen-accurate details like the green bowtie, blue tufts, and oversized shoes"
-cons:
+cons: 
   - "Voice activation requires a firm squeeze — young kids may struggle to trigger it consistently"
   - "Only 5-6 phrases total; after a week the repetition becomes noticeable"
   - "No off switch — battery compartment requires a screwdriver to disconnect when not in use"
+
 ---
 
 # Disney The Simpsons Talking Krusty Doll Plush, 16-Inches Tal

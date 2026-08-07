@@ -1,4 +1,5 @@
 ---
+
 title: "Aiourx Hand Impact Screwdriver Set, Manual Reversible Impact"
 seo_title: "Aiourx Hand Impact Screwdriver Review: S2 Steel, Reversible"
 meta_description: "Honest Aioux Hand Impact Screwdriver review: S2 steel bits, reversible action, and real-world performance for seized screws. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GCJKTVC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811B0h0OmlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "S2 steel bits withstand repeated hammer strikes without chipping or rounding"
   - "Reversible mechanism works one-handed — flip the collar, no need to disassemble"
   - "Compact kit includes 8 common bits in a magnetic organizer that stays shut"
-cons:
+cons: 
   - "Handle is short — limited leverage when you need to twist a stuck screw by hand"
   - "Case is basic ABS plastic; the hinge feels flimsy if you drop it on concrete"
   - "No Phillips #1 bit included — a common size for small electronics and trim screws"
+
 ---
 
 # The Tool That Finally Beats Rusted Screws

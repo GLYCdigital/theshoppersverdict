@@ -1,4 +1,5 @@
 ---
+
 title: "ALMAY Brow Styler"
 seo_title: "ALMAY Brow Styler Review: Worth It? (2026)"
 meta_description: "ALMAY Brow Styler review: honest look at the 2-in-1 pencil & brush. Does it deliver natural brows? Find out pros, cons, who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07J6RWZ6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YbDbxibsL._SL1500_.jpg"
-pros:
+pros: 
   - "Fine-tipped pencil draws hair-like strokes that don't look drawn-on"
   - "Built-in spoolie brush blends product fast for a natural finish"
   - "Holds up through sweat and humidity without flaking or smudging"
-cons:
+cons: 
   - "Limited shade range — darker skin tones may struggle to find a match"
   - "Pencil runs short quickly with daily use (about 5-6 weeks)"
+
 ---
 
 ## The $10 brow pencil that punches above its weight

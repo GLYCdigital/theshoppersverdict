@@ -1,4 +1,5 @@
 ---
+
 title: "Mixed Chicks Detangling Deep Conditioner"
 seo_title: "Mixed Chicks Detangling Deep Conditioner Review: Verdict "
 meta_description: "Our full mixed chicks detangling deep conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B078TP1STR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hi1YF0XZL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you have curly, coily, or transitioning hair, you already know the struggle: conditioner either slips through your strands like water or sits on top like paste. Mixed Chicks Detangling Deep Conditioner claims to split the difference. After digging through 240 ratings and multiple rounds of real-world testing, here's the honest breakdown.

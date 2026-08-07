@@ -1,4 +1,5 @@
 ---
+
 title: "Clorox Pool&Spa 12016CLX Pool Total Alkalinity Increaser, 16 inch"
 seo_title: "Clorox Pool&Spa 12016CLX Pool Total Alkalinity Inc Review"
 meta_description: "Our full clorox pool&spa 12016clx pool total alkalinity increaser, 16 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BRGL4LW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cG6pzEsPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Clorox Pool&Spa 12016CLX Pool Total Alkalinity Increaser, 16** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

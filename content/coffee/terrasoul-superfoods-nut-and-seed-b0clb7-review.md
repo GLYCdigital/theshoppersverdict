@@ -1,4 +1,5 @@
 ---
+
 title: "Terrasoul Superfoods NUT_AND_SEED"
 seo_title: "Terrasoul Superfoods NUT_AND_SEED Review: Verdict | TSV"
 meta_description: "Our full terrasoul superfoods nut_and_seed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLB7CTWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611f85goIQL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

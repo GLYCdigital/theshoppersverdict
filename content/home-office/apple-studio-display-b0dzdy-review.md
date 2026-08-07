@@ -1,5 +1,6 @@
 ---
 
+
 title: "Apple Studio Display"
 seo_title: "Apple Studio Display Review: 5K Brilliance, Real Tradeoffs"
 meta_description: "Our Apple Studio Display review covers the 5K panel, webcam, and build quality—plus the pricing, stand, and compatibility drawbacks to know before buying."
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZDYBR9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I1KXzxHIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5K Retina panel with 218 ppi renders text so crisply that it genuinely replaces a 27-inch iMac display"
   - "Studio-quality six-speaker array with force-canceling woofers delivers audio that embarrasses dedicated desktop speakers under $200 inch"
   - "Single Thunderbolt 3 cable carries video, 96W laptop charging, and a 3-port USB-C hub — pure desk-cable minimalism"
-cons:
+cons: 
   - "The $1,599 starting price is for the standard stand; the tilt-and-height-adjustable stand adds $400, making the total feel punishing"
   - "No HDR support and a fixed 60Hz refresh rate — creative pros editing HDR or high-frame-rate footage will feel the ceiling"
   - "The 12MP Center Stage webcam is merely acceptable, not great, especially in low light — surprising at this price point"
+
 
 ---
 

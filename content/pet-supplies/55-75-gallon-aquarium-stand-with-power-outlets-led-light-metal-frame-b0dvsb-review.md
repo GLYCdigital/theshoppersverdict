@@ -1,4 +1,5 @@
 ---
+
 title: "55-75 Gallon Aquarium Stand with Power Outlets & LED Light,"
 seo_title: "55-75 Gallon Aquarium Stand Review: Power Outlets & LED (2026)"
 meta_description: "Read our honest 55-75 gallon aquarium stand review. Metal frame, built-in power outlets, LED light. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVSBXWNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71koj1UUKNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in 4-outlet power strip with surge protection eliminates the need for messy extension cords behind the tank"
   - "Integrated LED light bar on the bottom shelf provides functional illumination for maintenance and display"
   - "Rated to support up to 1,000 lbs, comfortably handling a filled 75-gallon tank (roughly 850 lbs)"
-cons:
+cons: 
   - "Open-frame design leaves equipment visible; no cabinet doors or storage to hide filters, heaters, and cords"
   - "Some buyers report the included mounting hardware feels light-duty for the price point; consider upgrading screws"
+
 ---
 
 Let me be direct: most aquarium stands under $200 are either particleboard disasters waiting to warp or flimsy metal frames that wobble. This 55-75 gallon stand from the metal-frame category actually threads the needle — but not without caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "Longleaf Pine Straw Roll for Landscaping - UV Resistant - Co"
 seo_title: "Longleaf Pine Straw Roll for Landscaping - UV Resi Review"
 meta_description: "Our full longleaf pine straw roll for landscaping - uv resistant - co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1TKH96B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91cciC+qJxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about pine straw: it's not flashy, it's not trendy, but it's one of the most practical mulches you can put down. This Longleaf Pine Straw Roll from the B0C1TKH96B listing has earned its 4.4-star rating from 220 buyers for solid reasons. Here's the breakdown you actually need.

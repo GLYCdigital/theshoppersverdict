@@ -1,4 +1,5 @@
 ---
+
 title: "Indian Shelf Adhesive Hook- No Drill Hooks- Adhesive Boho Ho"
 seo_title: "Indian Shelf Adhesive Hook- No Drill Hooks- Adhesi Review"
 meta_description: "Our full indian shelf adhesive hook- no drill hooks- adhesive boho ho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPLZMFNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lZj11CSWL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Indian Shelf Adhesive Hook Review: Boho Charm Without the Drill Holes

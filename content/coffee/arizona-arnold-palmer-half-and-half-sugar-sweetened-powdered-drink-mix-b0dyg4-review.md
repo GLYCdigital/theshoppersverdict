@@ -1,4 +1,5 @@
 ---
+
 title: "AriZona Arnold Palmer Half and Half - Sugar Sweetened Powder"
 seo_title: "AriZona Arnold Palmer Half & Half Powder Review (2026)"
 meta_description: "Honest AriZona Arnold Palmer Half and Half powdered drink mix review. Taste, sweetness, value, and how it compares to bottled. Read before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYG48QK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IBNS7v1mL._SL1500_.jpg"
-pros:
+pros: 
   - "Tastes remarkably close to the bottled version — the tea and lemonade balance is spot-on"
   - "Each canister makes roughly 8-10 quarts, which comes out to a fraction of the cost per glass versus buying bottles"
   - "Dissolves cleanly in cold water with minimal stirring — no clumping or gritty residue"
-cons:
+cons: 
   - "It's aggressively sweet — one reviewer called it 'sugar with a hint of tea' — so plan to use less than the label suggests"
   - "The powder settles if you let it sit too long, so you'll need to stir or shake before each pour"
   - "No caffeine kick to speak of — this is more of a casual sipper than a morning pick-me-up"
+
 ---
 
 I'll be straight with you: I was skeptical that a powdered version of AriZona's Arnold Palmer could hold a candle to the iconic bottled drink. The 4.2-star rating across 210 reviews suggested I wasn't alone in wondering. After testing it across multiple batches — cold, over ice, and in a few experiments — here's what I found.

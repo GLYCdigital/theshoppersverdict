@@ -1,4 +1,5 @@
 ---
+
 title: "One Purina High Protein, Natural Dry Kitten Food, +Plus Heal"
 seo_title: "One Purina High Protein, Natural Dry Kitten Food,  Review"
 meta_description: "Our full one purina high protein, natural dry kitten food, +plus heal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F634XZG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YhcSM0sUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're overthinking kitten food. Every bag claims "complete nutrition." Most deliver the same corn-and-filler formula dressed up with a cute kitten photo. So when a product actually leads with real chicken and backs it with 40% protein, it earns a second look. The One Purina High Protein +Plus Heal formula isn't revolutionary — but it's quietly doing the important things right.

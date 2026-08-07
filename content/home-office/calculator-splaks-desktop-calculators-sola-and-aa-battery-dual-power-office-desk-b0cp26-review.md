@@ -1,4 +1,5 @@
 ---
+
 title: "Calculator, SPLAKS Desktop Calculators Sola and AA Battery D"
 seo_title: "SPLAKS Desktop Calculator Review: Dual Power, Big Display"
 meta_description: "SPLAKS desktop calculator review: dual solar/AA battery power, large display, and sturdy keys. See if it's worth your desk space."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CP26LS5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FQ-AmwYEL._AC_SL1483_.jpg"
-pros:
+pros: 
   - "Dual power source (solar + AA battery) means it keeps working even in dim office lighting or when the solar panel is covered"
   - "Large 12-digit display with big, angled digits that are easy to read from across a desk"
   - "Solid, weighted build with responsive keys that don't wobble or stick during rapid entry"
-cons:
+cons: 
   - "The key layout takes getting used to — the equals key is smaller than competitors' and sits in an unusual spot"
   - "No backlit display, so you'll need decent ambient light or the battery to keep the screen visible"
   - "The plastic body shows fingerprints and smudges quickly, especially on the darker color options"
+
 ---
 
 ## The SPLAKS Desktop Calculator: A Reliable Workhorse or Just Another Desk Ornament?

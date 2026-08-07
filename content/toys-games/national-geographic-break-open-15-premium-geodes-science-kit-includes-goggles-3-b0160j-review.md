@@ -1,4 +1,5 @@
 ---
+
 title: "National Geographic Break Open 15 Premium Geodes Science Kit"
 seo_title: "National Geographic Break Open 15 Premium Geodes S Review"
 meta_description: "Our full national geographic break open 15 premium geodes science kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0160JBC6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/911yiRxZDML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the National Geographic Break Open 15 Premium Geodes Science Kit: it's one of the few toys that actually delivers on its promise. You get 15 real geodes, you crack them open, and there are genuine crystals inside. No plastic replicas, no "simulated" minerals. As shown in the product image, the kit arrives with everything laid out — the geodes themselves, a pair of safety goggles, a magnifying glass, and a display stand. It's exactly what you'd expect from National Geographic, and that's a good thing.

@@ -1,4 +1,5 @@
 ---
+
 title: "Buffalo Games Squishmallows Buddies Jigsaw Puzzle - 100-Piec"
 seo_title: "Buffalo Games Squishmallows Buddies Puzzle Review (100-Piece)"
 meta_description: "Honest Buffalo Games Squishmallows Buddies 100-piece puzzle review. Cute design, sturdy pieces, and easy assembly. See if it's right for your family."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNQBG5R6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714hWTXT1sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, durable puzzle board pieces that hold up to repeated assembly"
   - "Adorable Squishmallows artwork that appeals to both kids and adult collectors"
   - "Full-size 8x8 inch finished puzzle — larger than typical 100-piece sets"
-cons:
+cons: 
   - "Some pieces arrive with minor peeling at the edges due to manufacturing"
   - "Not challenging enough for experienced puzzlers — strictly for casual/family use"
+
 ---
 
 Let’s be honest: most 100-piece puzzles are an afterthought purchase. You grab one for a rainy day, the kid finishes it in 20 minutes, and it lives in a drawer forever. The Buffalo Games Squishmallows Buddies puzzle is different — not because it’s harder, but because it’s *better made* and genuinely enjoyable to complete. Here’s the breakdown.

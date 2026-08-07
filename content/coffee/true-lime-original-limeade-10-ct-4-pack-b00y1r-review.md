@@ -1,4 +1,5 @@
 ---
+
 title: "True Lime Original Limeade, 10 ct - 4 pack"
 seo_title: "True Lime Original Limeade, 10 ct - 4 pack Review: Verdic"
 meta_description: "Our full true lime original limeade, 10 ct - 4 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00Y1RNU3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816BPRWjOWS._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: I've tested dozens of powdered drink mixes, and most taste like vaguely citrus-flavored cardboard. The True Lime Original Limeade 10 Ct 4 Pack is not that. But it's also not fresh-squeezed limeade from a Mexican restaurant. Here's where it actually lands.

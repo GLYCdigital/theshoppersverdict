@@ -1,4 +1,5 @@
 ---
+
 title: "VTech Gabby's Dollhouse Watch"
 seo_title: "VTech Gabby's Dollhouse Watch Review: Verdict | TSV"
 meta_description: "Our full vtech gabby's dollhouse watch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCJKT4KL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XgD7lA3+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most kids' smartwatches are junk. They break in a week, the games are boring, and the "camera" takes photos that look like potato-quality blobs. The VTech Gabby's Dollhouse Watch is not that. It's actually one of the better preschool tech toys I've tested, and the 4.7-star average across 235 ratings backs that up.

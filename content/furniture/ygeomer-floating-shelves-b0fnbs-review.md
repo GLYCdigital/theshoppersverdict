@@ -1,4 +1,5 @@
 ---
+
 title: "YGEOMER Floating Shelves"
 seo_title: "YGEOMER Floating Shelves Review: Verdict | TSV"
 meta_description: "Our full ygeomer floating shelves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNBSYR7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FE67hme1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Floating shelves are one of those purchases where you get exactly what you pay for — and sometimes less. The YGEOMER set, hovering at 4.6 stars across 229 ratings, claims to deliver the clean, bracket-free look without the premium price tag. I've tested enough wall-mounted storage to be skeptical of that promise. Here's what I found.

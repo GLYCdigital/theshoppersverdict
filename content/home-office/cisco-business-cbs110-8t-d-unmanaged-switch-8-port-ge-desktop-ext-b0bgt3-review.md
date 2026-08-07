@@ -1,4 +1,5 @@
 ---
+
 title: "Cisco Business CBS110-8T-D Unmanaged Switch | 8 Port GE | De"
 seo_title: "Cisco CBS110-8T-D Review: 8-Port Gigabit Switch Worth It?"
 meta_description: "Cisco CBS110-8T-D 8-port Gigabit unmanaged switch review: performance, build quality, fanless design, and who should buy. Honest 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGT34423/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tf8HVFp5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fanless metal chassis runs silent and stays cool even under sustained load"
   - "Full 8 Gigabit ports with 16 Gbps switching capacity — no port sharing bottlenecks"
   - "Plug-and-play with zero configuration; Cisco reliability at a sub-$50 price point"
-cons:
+cons: 
   - "No wall-mounting hardware included — you'll need to buy brackets separately for under-desk mounting"
   - "Lacks QoS or VLAN features; unmanaged means no traffic prioritization for VoIP or streaming"
+
 ---
 
 ## The Cisco Name, Without the Cisco Price Tag

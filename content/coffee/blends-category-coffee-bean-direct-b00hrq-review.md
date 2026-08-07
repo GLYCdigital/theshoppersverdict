@@ -1,4 +1,5 @@
 ---
+
 title: "Blends Category Coffee Bean Direct"
 seo_title: "Coffee Bean Direct Blends Review: Real Taste Test (2026)"
 meta_description: "Coffee Bean Direct Blends Category review: roast profiles, freshness, value, and who should buy. Honest verdict from 215 verified Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00HRQ3ACK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tlvZWUN8L._SL1500_.jpg"
-pros:
+pros: 
   - "Whole beans arrive with a recent roast date stamped on the bag — most buyers report beans within 2-3 weeks of roasting"
   - "The blend lineup covers low-acid, dark, and breakfast roasts, so there's a viable option for nearly every brewing method"
   - "Value pricing lands well below specialty roasters while still using 100% arabica beans"
-cons:
+cons: 
   - "No single-origin transparency — the blend composition isn't disclosed beyond vague 'Central/South American' sourcing"
   - "Consistency varies between batches; several reviewers noted flavor differences from one order to the next"
   - "The 'Category' naming is confusing — you're really picking a roast style, not a specific blend"
+
 ---
 
 Let's be clear about what Coffee Bean Direct's "Blends Category" actually is: a grab-bag of roast profiles sold under one listing, not a single signature blend. That's either a feature or a frustration, depending on how you shop.

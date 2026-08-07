@@ -1,4 +1,5 @@
 ---
+
 title: "Schlage FE285 CAM 619 GEO Camelot Front Entry Handleset with"
 seo_title: "Schlage FE285 CAM 619 GEO Camelot Front Entry Hand Review"
 meta_description: "Our full schlage fe285 cam 619 geo camelot front entry handleset with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002053PAU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MlWMI-k7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos and talk about what this Schlage FE285 actually does at your front door.

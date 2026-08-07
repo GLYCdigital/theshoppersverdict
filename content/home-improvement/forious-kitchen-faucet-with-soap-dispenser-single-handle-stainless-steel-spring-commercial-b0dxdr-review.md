@@ -1,4 +1,5 @@
 ---
+
 title: "FORIOUS Kitchen Faucet with Soap Dispenser, Single Handle St"
 seo_title: "FORIOUS Kitchen Faucet Review: Spring Commercial Style (2026)"
 meta_description: "Honest FORIOUS kitchen faucet review: spring commercial design, built-in soap dispenser, 4.6★ rating. Real pros, cons & buying verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXDRVD8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O+rFVxQ+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated side soap dispenser eliminates countertop pump bottles and frees up sink-adjacent space"
   - "Heavy-duty stainless steel spring design holds its position without drooping, unlike cheaper coiled rivals"
   - "Single-handle lever offers smooth one-finger temperature control with 360-degree swivel reach"
-cons:
+cons: 
   - "Soap dispenser pump mechanism can be finicky with thicker soaps — stick to thin dish liquids"
   - "Spring coil crevices require regular wipe-downs to prevent hard water spotting"
   - "No pull-down sprayer wand — the fixed spring head limits directed rinsing"
+
 ---
 
 Here's the thing about commercial-style spring faucets: most look the part but collapse under pressure. The FORIOUS version, however, has earned a 4.6-star average across 229 ratings for a reason — it actually functions like the restaurant-grade piece it mimics.

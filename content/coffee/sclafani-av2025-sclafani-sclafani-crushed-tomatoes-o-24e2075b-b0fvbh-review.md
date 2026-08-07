@@ -1,4 +1,5 @@
 ---
+
 title: "Sclafani av2025-Sclafani-sclafani crushed tomatoes o-24e2075"
 seo_title: "Sclafani av2025-Sclafani-sclafani crushed tomatoes Review"
 meta_description: "Our full sclafani av2025-sclafani-sclafani crushed tomatoes o-24e2075 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FVBHHQKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z9xExsIEL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably grabbed whatever crushed tomatoes were on sale and called it a day. That's fine for chili. But if you're building a Sunday gravy or a proper Bolognese, the tomatoes you start with are the difference between "good" and "I can't stop eating this." Sclafani's crushed tomatoes have built a loyal following among home cooks and pizza makers for one reason: they taste like someone already did the hard work.

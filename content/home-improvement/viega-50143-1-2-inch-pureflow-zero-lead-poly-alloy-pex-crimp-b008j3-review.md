@@ -1,4 +1,5 @@
 ---
+
 title: "Viega 50143 - 1/2-Inch PureFlow Zero Lead Poly Alloy PEX Cri"
 seo_title: "Viega 50143 - 1/2-Inch PureFlow Zero Lead Poly All Review"
 meta_description: "Our full viega 50143 - 1/2-inch pureflow zero lead poly alloy pex cri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B008J33LJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8146ncF2hrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're crimping PEX-B pipe, the ring you slide over the fitting is the difference between a watertight connection you'll forget about and a slow leak behind a closed wall. The Viega 50143 PureFlow crimp rings are the quiet workhorse of that system — and at 4.4 stars across 220 ratings, they've earned their reputation.

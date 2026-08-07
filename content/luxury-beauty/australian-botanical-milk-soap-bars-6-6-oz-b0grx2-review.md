@@ -1,4 +1,5 @@
 ---
+
 title: "Australian Botanical Milk Soap Bars, 6.6 OZ"
 seo_title: "Australian Botanical Milk Soap Review: Worth It? (2026)"
 meta_description: "Honest Australian Botanical Milk Soap review: ingredients, lather, skin feel, and value. See what 235 buyers say before you buy these 6.6 oz bars."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRX21WPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-china.com/images/I/61YI44CLXEL._SL1500_.jpg"
-pros:
+pros: 
   - "Creamy, dense lather that rinses clean without stripping — even on sensitive skin"
   - "Noticeable botanical additives (oatmeal, calendula, or similar) visible in the bar, not just marketing"
   - "One 6.6 oz bar outlasts three standard drugstore bars — measured by multiple reviewers"
-cons:
+cons: 
   - "Bar softens quickly if left in standing water; needs a draining soap dish"
   - "Scent is subtle and natural — not for buyers wanting strong fragrance"
+
 ---
 
 Let me cut through the noise on this one. The **Australian Botanical Milk Soap Bars (6.6 oz)** sit in a crowded category of "luxury" soaps that are often just rebranded glycerin with a fancy label. These are not that. With a 4.7-star average across 235 ratings, buyers are consistently reporting something different — and I think I know why.

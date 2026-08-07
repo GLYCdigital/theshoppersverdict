@@ -1,4 +1,5 @@
 ---
+
 title: "Lightdot 6Pack 150W LED Wall Pack Lights, 3CCT Selectable (3"
 seo_title: "Lightdot 6Pack 150W LED Wall Pack Lights, 3CCT Sel Review"
 meta_description: "Our full lightdot 6pack 150w led wall pack lights, 3cct selectable (3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL861BGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fgsnnZv3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Lightdot's 6-pack of 150W wall packs isn't for everyone. At roughly 21,000 lumens per fixture, this is commercial-grade illumination — the kind of light that makes a parking lot look like a stadium. If you're a homeowner looking to brighten one garage door, this is overkill. But if you're a contractor, property manager, or farm owner, this six-pack could save you hundreds over buying singles.

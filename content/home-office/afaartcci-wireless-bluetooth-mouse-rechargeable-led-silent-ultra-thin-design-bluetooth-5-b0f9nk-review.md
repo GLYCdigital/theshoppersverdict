@@ -1,4 +1,5 @@
 ---
+
 title: "Afaartcci Wireless Bluetooth Mouse, Rechargeable, LED, Silen"
 seo_title: "Afaartcci Wireless Bluetooth Mouse Review: Silent, Rechargeable (2026)"
 meta_description: "Afaartcci wireless Bluetooth mouse review: silent clicks, LED indicator, USB-C rechargeable. See if this ultra-thin mouse fits your workflow."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9NKCNQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61167CbmCKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "USB-C rechargeable battery eliminates AA battery waste — a full charge lasts roughly 3-4 weeks of daily 8-hour use"
   - "True silent-click switches (not just dampened) — audible feedback is a soft thock, not a click, which matters in shared offices"
   - "Bluetooth 5.0 + 2.4GHz dual-mode connects to 3 devices simultaneously with a dedicated toggle button"
-cons:
+cons: 
   - "Ultra-thin profile (just 1.1 inches at the highest point) offers no palm support — this is a fingertip grip mouse, not an ergonomic one"
   - "LED battery indicator is only a single color-changing dot — it doesn't show percentage, just green/yellow/red, so you won't know exactly when to charge"
+
 ---
 
 Let’s cut to it: the Afaartcci Wireless Bluetooth Mouse is a competent, budget-friendly travel companion that gets the fundamentals right, but it’s not going to replace your ergonomic desk setup. At 4.3 stars across 215 ratings, buyers largely agree — it’s a solid value, not a revelation.

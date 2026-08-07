@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Business Furniture Studio C Low Storage Cabinet"
 seo_title: "Bush Studio C Low Storage Cabinet Review (2026)"
 meta_description: "Honest Bush Business Furniture Studio C Low Storage Cabinet review: build quality, real-world use, drawbacks, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQLW7K11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KFqHW0vhL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid particleboard construction with a clean laminate finish that resists scratches and fingerprints"
   - "Adjustable shelf inside gives real flexibility for files, binders, or bulky office gear"
   - "Assembles in roughly 30-45 minutes with cam locks — no special tools required beyond the included hex wrench"
-cons:
+cons: 
   - "Back panel is thin fiberboard; you must be careful during assembly or it can warp at the staple points"
   - "Doors need occasional realignment — the hinges loosen slightly after a few months of daily use"
   - "No soft-close mechanism; doors close with a solid thunk if you let them go"
+
 ---
 
 If you're outfitting a home office and need something that stores printer paper, files, and assorted desk clutter without looking like a dorm-room afterthought, the Bush Business Furniture Studio C Low Storage Cabinet deserves a serious look. It's not flashy, but at 4.2 stars across 210 ratings, it's quietly doing its job for a lot of people.

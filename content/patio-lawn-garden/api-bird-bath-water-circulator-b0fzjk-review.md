@@ -1,4 +1,5 @@
 ---
+
 title: "API Bird Bath Water Circulator"
 seo_title: "API Bird Bath Water Circulator Review: Worth It? (2026)"
 meta_description: "Honest API Bird Bath Water Circulator review: performance, noise levels, and durability. See if this 4.4-star pump keeps water fresh or falls short."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZJKM55M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Al4I0otRL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Solar-powered, so zero electrical cords near water and no monthly energy cost"
   - "Floating design works in any bird bath depth — no mounting hardware required"
   - "Produces a gentle, visible ripple that deters mosquitoes without scaring skittish birds"
-cons:
+cons: 
   - "Solar panel needs direct, unobstructed sunlight — dies completely in shade or on overcast days"
   - "No battery backup, so circulation stops entirely at night when mosquitoes are most active"
   - "Flow rate is modest; won't create a fountain-like spray, just a surface ripple"
+
 ---
 
 If you've ever dumped out a bird bath in July and found a slick of mosquito larvae wriggling at the bottom, you already know the problem this product solves. Stagnant water is a health hazard for birds and a breeding ground for pests. The API Bird Bath Water Circulator is a solar-powered floating pump designed to keep that water moving — and it's one of the more popular options on Amazon, holding a 4.4-star average across 220 ratings. But does it actually perform, or is it another solar gadget that dies the moment a cloud rolls by? I've dug through the specs, the customer feedback, and the real-world quirks. Here's what you need to know before buying.

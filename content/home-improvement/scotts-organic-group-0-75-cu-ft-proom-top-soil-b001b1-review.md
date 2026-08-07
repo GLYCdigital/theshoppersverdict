@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Organic Group 0.75 cu.ft. Proom Top Soil"
 seo_title: "Scotts Organic Group 0.75 cu.ft. Proom Top Soil Review: V"
 meta_description: "Our full scotts organic group 0.75 cu.ft. proom top soil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B001B1KHXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MJ0JjtP2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're patching bare spots in your lawn, you've probably stared at a wall of soil bags at the hardware store, wondering which one won't turn your yard into a weed farm or a mud pit. The Scotts Organic Group 0.75 cu.ft. Proom Top Soil is a solid middle-ground option that does exactly what it promises—no more, no less. At 4.3/5 stars from 215 ratings, it's not a miracle product, but it's a reliable workhorse for most homeowners.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rotary Item 12179, Vortex Trimmer Line .095 X 1140' , 5 Lb L"
 seo_title: "Rotary Item 12179, Vortex Trimmer Line .095 X 1140 Review"
 meta_description: "Our full rotary item 12179, vortex trimmer line .095 x 1140' , 5 lb l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B005IG1WTO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XB7llKCeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some trimmer lines are sold in cute little 50-foot loops that vanish in an afternoon. The Rotary Vortex 12179 is the opposite of that. This is a 5-pound spool holding 1,140 feet of .095-inch twisted line — enough to last a full season for most homeowners and several months for someone running a commercial rig. At a 4.6-star average across 229 ratings, it's clearly doing something right. The question is whether that something matches your trimmer and your yard.

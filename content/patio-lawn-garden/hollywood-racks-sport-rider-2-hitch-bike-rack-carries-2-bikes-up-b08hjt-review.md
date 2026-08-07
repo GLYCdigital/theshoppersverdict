@@ -1,7 +1,8 @@
 ---
-title: "Hollywood Racks Sport Rider 2\" Hitch Bike Rack, Carries 2 Bi"
-seo_title: "Hollywood Racks Sport Rider 2\" Hitch Bike Rack, Ca Review"
-meta_description: "Our full hollywood racks sport rider 2\" hitch bike rack, carries 2 bi review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Hollywood Racks Sport Rider 2\ Hitch Bike Rack, Carries 2 Bi"
+seo_title: "Hollywood Racks Sport Rider 2\ Hitch Bike Rack, Ca Review"
+meta_description: "Our full hollywood racks sport rider 2\ hitch bike rack, carries 2 bi review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hollywood-racks-sport-rider-2-hitch-bike-rack-carries-2-bikes-up-b08hjt-review"
 image_alt: "Hollywood Racks Sport Rider 2 Hitch Bike Rack, Carries 2 Bikes up to 80 lbs Each for Standard, Fat Tire and Electric Bic"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08HJTFN64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619bvWVwmpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hollywood Racks Sport Rider 2" Hitch Bike Rack Review: The Practical Choice for Weekend Riders

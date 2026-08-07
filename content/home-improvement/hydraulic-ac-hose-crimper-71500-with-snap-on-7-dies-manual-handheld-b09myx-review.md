@@ -1,4 +1,5 @@
 ---
+
 title: "Hydraulic AC Hose Crimper 71500 with Snap-On 7 Dies, Manual "
 seo_title: "Hydraulic AC Hose Crimper 71500 with Snap-On 7 Die Review"
 meta_description: "Our full hydraulic ac hose crimper 71500 with snap-on 7 dies, manual  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09MYX3QLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t796B4hbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're paying a shop $80 to crimp a single AC hose, this $113 tool pays for itself by the second job. But it's not a miracle worker, and you need to know exactly what you're getting into before you click buy.

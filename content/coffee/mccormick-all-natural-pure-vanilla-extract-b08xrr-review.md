@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick All Natural Pure Vanilla Extract"
 seo_title: "McCormick All Natural Pure Vanilla Extract Review: Verdic"
 meta_description: "Our full mccormick all natural pure vanilla extract review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08XRR8XFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TLPQj4p3L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about vanilla extract in coffee: it's a tiny addition that makes or breaks your morning cup. Get it wrong—artificial, thin, or overly sweet—and you've ruined a perfectly good pour-over. Get it right, and your kitchen smells like a bakery. McCormick's All Natural Pure Vanilla Extract is firmly in the "get it right" camp, and with 240 ratings averaging 4.8 stars, I'm not the only one who thinks so.

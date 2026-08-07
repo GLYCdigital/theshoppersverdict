@@ -1,4 +1,5 @@
 ---
+
 title: "Lawry's Pepper Seasoning Course Ground, 2.25 Oz"
 seo_title: "Lawry's Pepper Seasoning Course Ground, 2.25 Oz Review: V"
 meta_description: "Our full lawry's pepper seasoning course ground, 2.25 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1BJVGZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TLt0HP6JL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about something: this is not a coffee maker. It's a pepper seasoning. But if you're here because you want a bold, no-fuss way to finish a steak, burger, or roasted vegetables, Lawry's Course Ground Pepper Seasoning is worth a hard look. With a 4.8-star average across 240 ratings, it's clearly earning its keep in real kitchens.

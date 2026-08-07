@@ -1,4 +1,5 @@
 ---
+
 title: "LXZ Gaming PC Desktop 12th I5-12400F, 6 core 2.5GHz Desktop "
 seo_title: "LXZ Gaming PC Desktop 12th I5-12400F, 6 core 2.5GH Review"
 meta_description: "Our full lxz gaming pc desktop 12th i5-12400f, 6 core 2.5ghz desktop  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DDTM7B2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vHXuWM6dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LXZ Gaming PC Desktop with the 12th-gen i5-12400F is a budget prebuilt that walks a tightrope between genuine value and corners cut. At roughly $600–$700 depending on configuration, it's targeting first-time PC buyers who want 1080p gaming without assembling anything themselves. But a 3.7-star average across 185 ratings tells you the experience isn't uniform. Let me break down what you're actually getting, where the shortcuts hurt, and whether this makes sense for your desk setup.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pool Fence â€“ 4 or 5 Ft Tall x 15 Ft, Black Removable Mesh "
 seo_title: "Pool Fence â€“ 4 or 5 Ft Tall x 15 Ft, Black Remov Review"
 meta_description: "Our full pool fence â€“ 4 or 5 ft tall x 15 ft, black removable mesh  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPTDDRS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918poNXMVjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced permanent pool fencing lately, you know the sticker shock. This 15-foot removable mesh section from the black pool fence line lands at a fraction of custom iron or glass installs, and with 4.5 stars across 225 ratings, it's clearly earning its keep. But the real question isn't whether it's cheaper than a contractor — it's whether it actually holds up, installs cleanly, and passes inspection.

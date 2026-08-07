@@ -1,4 +1,5 @@
 ---
+
 title: "Joneaz Bungee Cord with Hooks Heavy Duty Outdoor 4 Pack, UV "
 seo_title: "Joneaz Bungee Cord with Hooks Heavy Duty Outdoor 4 Review"
 meta_description: "Our full joneaz bungee cord with hooks heavy duty outdoor 4 pack, uv  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BWYR4C1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d2sCbhABL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Joneaz Bungee Cord with Hooks Heavy Duty Outdoor 4 Pack, UV: The Truth After 3 Months of Abuse  

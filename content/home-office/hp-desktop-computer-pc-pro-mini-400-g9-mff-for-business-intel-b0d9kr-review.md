@@ -1,4 +1,5 @@
 ---
+
 title: "HP Desktop Computer PC Pro Mini 400 G9 MFF for Business, Int"
 seo_title: "HP Desktop Computer PC Pro Mini 400 G9 MFF for Bus Review"
 meta_description: "Our full hp desktop computer pc pro mini 400 g9 mff for business, int review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D9KR595N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f9hELziWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Pro Mini 400 G9 MFF is the office equivalent of a studio apartment: everything you need, nothing you don't, and cleverly packed into a footprint smaller than a hardcover novel. At roughly 6.9 x 6.9 x 1.3 inches and about 2.7 pounds, this machine disappears into your workspace in a way tower desktops simply can't.

@@ -1,4 +1,5 @@
 ---
+
 title: "ARC 55,000BTU Propane Burner Camping Stove,Outdoor Gas Stove"
 seo_title: "ARC 55,000 BTU Propane Burner Review: Is It Worth It?"
 meta_description: "ARC 55,000 BTU propane burner review: powerful outdoor gas stove for boiling, frying & canning. Real pros, cons, and buyer feedback. See if it's right for you."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07SM22XLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716pLlhG7LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Boils 5 gallons of water in under 10 minutes thanks to the high-output cast iron burner head"
   - "Plenty of clearance between the pot support and burner — fits a 100,000 BTU-rated turkey fryer pot without tipping"
   - "Legs lock into place with a solid click and don't wobble on uneven surfaces"
-cons:
+cons: 
   - "No built-in ignition — you'll need a long-reach lighter or match every time"
   - "Included regulator hose is only 3 feet, which may require an extension for some setups"
   - "Flame adjustment is coarse at low temps — fine for boiling, tricky for simmering sauces"
+
 ---
 
 When you need to boil 10 gallons of water for a crawfish boil or crank out 50 ears of sweet corn for a family reunion, your kitchen stove isn't going to cut it. The ARC 55,000 BTU propane burner promises restaurant-grade output at a backyard-friendly price point. After digging through 229 ratings and the specs, here's what you actually need to know before adding one to your cart.

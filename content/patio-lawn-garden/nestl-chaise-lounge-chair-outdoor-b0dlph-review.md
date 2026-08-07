@@ -1,4 +1,5 @@
 ---
+
 title: "Nestl Chaise Lounge Chair Outdoor"
 seo_title: "Nestl Chaise Lounge Chair Outdoor Review: Verdict | TSV"
 meta_description: "Our full nestl chaise lounge chair outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLPHZYQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Hf4zj8EPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred outdoor chaise lounges. Most are either flimsy plastic that cracks by August or heavy teak that costs more than your patio furniture budget combined. The Nestl Chaise Lounge Chair sits in the middle ground — and for a 4.2-star average across 210 ratings, it's earning its spot in backyards. Here's the full story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Harry Potterâ„¢ Bertie Bott's Every Flavour Beans, 1.2 oz Bo"
 seo_title: "Harry Potterâ„¢ Bertie Bott's Every Flavour Beans, Review"
 meta_description: "Our full harry potterâ„¢ bertie bott's every flavour beans, 1.2 oz bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BP9P3GB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MO3EW6XWL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: Bertie Bott's Every Flavour Beans aren't candy in the traditional sense. They're a social experiment wrapped in a 1.2 oz cardboard box. And for that purpose, they're nearly perfect.

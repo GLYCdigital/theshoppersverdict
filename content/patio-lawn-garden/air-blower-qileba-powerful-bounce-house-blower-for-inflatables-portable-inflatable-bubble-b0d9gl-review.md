@@ -1,4 +1,5 @@
 ---
+
 title: "Air Blower, QILEBA Powerful Bounce House Blower for Inflatab"
 seo_title: "QILEBA Bounce House Blower Review: Powerful & Portable"
 meta_description: "Read our honest QILEBA air blower review for bounce houses, inflatables, and bubble tents. See real pros, cons, and who should buy this 4.5-star blower."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9GLZVMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j3mAl-cIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 110V outlets let you daisy-chain a second blower or inflatable without needing an extra extension cord"
   - "Built-in GFCI protection shuts off power if it detects moisture — a real safety feature for outdoor use"
   - "Carrying handles are molded into the housing, not flimsy straps that tear after a season"
-cons:
+cons: 
   - "At 9.7 pounds, it's heavier than compact backpack blowers — fine for backyard use, not for camping trips"
   - "No variable speed control; you get full power or nothing, which can overinflate lightweight bubble tents if you don't watch it"
+
 ---
 
 If you've ever wrestled with a sagging inflatable at a kid's birthday party, you know the pain of an underpowered blower. The QILEBA bounce house blower is built to end that struggle. This is a serious piece of equipment — not a toy — and it shows in the build quality and performance.

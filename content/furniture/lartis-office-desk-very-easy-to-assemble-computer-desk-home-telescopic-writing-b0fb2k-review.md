@@ -1,4 +1,5 @@
 ---
+
 title: "Lartis Office Desk, Very Easy to Assemble, Computer Desk, Ho"
 seo_title: "Lartis Office Desk, Very Easy to Assemble, Compute Review"
 meta_description: "Our full lartis office desk, very easy to assemble, computer desk, ho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FB2KPJD9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mXoeND9XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lartis Office Desk Review: The 15-Minute Setup That Actually Holds Up

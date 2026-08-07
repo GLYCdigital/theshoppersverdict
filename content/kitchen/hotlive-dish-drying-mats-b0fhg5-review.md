@@ -1,4 +1,5 @@
 ---
+
 title: "HotLive Dish Drying Mats"
 seo_title: "HotLive Dish Drying Mats Review: Verdict | TSV"
 meta_description: "Our full hotlive dish drying mats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHG58M6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pHnlrTylL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 Countertop Upgrade That Actually Earns Its Keep**

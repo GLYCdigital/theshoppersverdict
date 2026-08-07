@@ -1,4 +1,5 @@
 ---
+
 title: "MAYBELLINE TATTOO STUDIO GEL EYELINER PENCIL"
 seo_title: "MAYBELLINE TATTOO STUDIO GEL EYELINER PENCIL Review: Verd"
 meta_description: "Our full maybelline tattoo studio gel eyeliner pencil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CRX7X2CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HZ+jqRafL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: if you've ever blinked mid-wing and ended up with a smudged mess by noon, the Maybelline Tattoo Studio Gel Eyeliner Pencil is worth your attention. But it's not without quirks. Here's the honest breakdown after testing and digging through buyer experiences.

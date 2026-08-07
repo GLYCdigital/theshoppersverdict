@@ -1,4 +1,5 @@
 ---
+
 title: "GRLYUH Waffle Bath Mat, Boho Bathroom Rugs Non Slip Washable"
 seo_title: "GRLYUH Waffle Bath Mat Review: Non-Slip Boho Rug Tested"
 meta_description: "Honest GRLYUH waffle bath mat review: texture, grip, washability, and real buyer feedback. Is this boho rug worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPX359LV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815IKa0ZRkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Waffle weave texture dries significantly faster than standard plush bath mats, reducing musty odors"
   - "TPR non-slip backing holds firmly on tile and hardwood without curling at the edges"
   - "Machine washable at 40°C with minimal pilling reported across 210+ ratings"
-cons:
+cons: 
   - "Thinner underfoot than plush alternatives—not the choice if you want deep cushioning"
   - "Lighter color options show water spots and toothpaste splatter quickly between washes"
+
 ---
 
 The bath mat is the most ignored workhorse in your bathroom. It takes a daily beating—wet feet, splashed toothpaste, dropped hair products—and the moment it starts smelling or sliding, you notice. The GRLYUH Waffle Bath Mat tries to solve the two biggest complaints (slow drying, slippery backing) with a textured weave and rubberized grip. Here's whether it actually delivers.

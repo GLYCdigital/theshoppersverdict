@@ -1,4 +1,5 @@
 ---
+
 title: "CORSAIR iCUE Link H100i LCD Liquid CPU Cooler"
 seo_title: "CORSAIR iCUE Link H100i LCD Review: Worth It in 2026?"
 meta_description: "Read our honest CORSAIR iCUE Link H100i LCD review. Covers cooling performance, LCD screen quality, noise levels, and whether this AIO is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CW81H79Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ANJVsrYiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "240mm radiator with dual 120mm fans delivers genuine cooling headroom for high-TDP CPUs like the i7-14700K or Ryzen 9 7950X"
   - "2.1-inch IPS LCD screen with 480x480 resolution displays temps, GIFs, and system stats crisply — the best-looking pump display at this price point"
   - "iCUE Link single-cable daisy-chain system dramatically simplifies installation and cable management vs. traditional AIO wiring"
-cons:
+cons: 
   - "Requires CORSAIR iCUE Link System Hub (sold separately or in select bundles) — adds cost and complexity if you're not already in the ecosystem"
   - "Pump noise can be audible at higher RPMs; some units exhibit a faint whine above 75% pump speed"
   - "LCD screen is a power draw — expect a slight idle wattage increase, and the screen's refresh rate can stutter with complex GIFs"
+
 ---
 
 # CORSAIR iCUE Link H100i LCD Liquid CPU Cooler Review: The LCD AIO That Actually Delivers

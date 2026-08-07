@@ -1,4 +1,5 @@
 ---
+
 title: "Diamabrush Wood Deck Removal Tool 4-1/2 in. (One Pack)"
 seo_title: "Diamabrush Wood Deck Removal Tool Review: 4-1/2 In."
 meta_description: "Diamabrush Wood Deck Removal Tool 4-1/2 in. review: Does this diamond cup wheel strip paint & stain fast? Real performance, fitment, and durability tested."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CK57CCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sHWDQbwEL._SL1500_.jpg"
-pros:
+pros: 
   - "Removes multiple layers of latex and oil-based paint in one pass without gouging softwood"
   - "Fits any standard 4-1/2-inch angle grinder with 5/8-11 arbor; no adapter needed"
   - "Cuts with 20 diamond-embedded carbide teeth, not sandpaper grit — stays aggressive far longer"
-cons:
+cons: 
   - "Produces a very fine dust cloud; you absolutely need a respirator and eye protection"
   - "Not for use on hardwood decking like ipe or mahogany — will burn and leave deep swirls"
+
 ---
 
 If you’ve ever spent a weekend with a chemical stripper and a stiff brush trying to lift decades-old paint from a deck, you know the misery. The Diamabrush Wood Deck Removal Tool promises to turn that job into a couple of hours with an angle grinder. After digging through 220 ratings and the real-world feedback behind that 4.4-star average, here’s the honest breakdown.

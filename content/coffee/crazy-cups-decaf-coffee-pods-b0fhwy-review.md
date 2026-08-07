@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy cups decaf coffee pods"
 seo_title: "Crazy Cups Decaf Coffee Pods Review: Worth It? (2026)"
 meta_description: "Crazy Cups decaf coffee pods reviewed: flavor, compatibility, value. See what 195 Amazon buyers say before you buy. Honest pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FHWYMQZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91scnv1JEML._SL1500_.jpg"
-pros:
+pros: 
   - "Broad flavor variety — 4+ roasts/flavors in one box, good for sampling without committing to 24 of the same pod"
   - "Compatible with standard 2.0 K-Cup brewers, including Keurig 2.0 models that lock out generic pods"
   - "Genuinely decaffeinated (water process, 99.9% caffeine-free) — safe for after-dinner or late-afternoon brewing"
-cons:
+cons: 
   - "Inconsistent flavor intensity across the variety pack — some pods taste noticeably weaker or more bitter than others"
   - "Plastic pod body feels thinner than name-brand K-Cups; a few buyers reported puncturing issues in older Keurig models"
   - "No strength control or intensity rating on the box — you're guessing until you brew"
+
 ---
 
 ## Crazy Cups Decaf Coffee Pods Review: Decaf That Doesn't Taste Punished

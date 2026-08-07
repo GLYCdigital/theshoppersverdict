@@ -1,4 +1,5 @@
 ---
+
 title: "Lazzanto Night Stand Bedside Table Bedroom - Nightstand with"
 seo_title: "Lazzanto Night Stand Bedside Table Bedroom - Night Review"
 meta_description: "Our full lazzanto night stand bedside table bedroom - nightstand with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB1GTK36/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7193hUEZ0gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Lazzanto Nightstand Worth It? A Buyer's Honest Take

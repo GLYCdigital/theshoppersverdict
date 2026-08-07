@@ -1,4 +1,5 @@
 ---
+
 title: "Expandable Garden Trellis, Wooden Lattice Fence Wall Panel S"
 seo_title: "Expandable Garden Trellis Review: Wooden Lattice Panel Worth It?"
 meta_description: "Honest review of the Expandable Wooden Garden Trellis. Is this 4.5-star lattice panel sturdy enough for climbing plants? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BNNFQF2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i3XIECHLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely expandable from compact 18-inch width up to 5 feet — one panel covers an unexpected amount of wall space"
   - "Sturdy fir wood construction with smooth, splinter-free finish; holds up in wind without flexing"
   - "Reversible hinge design lets you fold it inward or outward for flat storage or right-angle corner installations"
-cons:
+cons: 
   - "The 'S' size maxes out around 5 feet wide — larger patios will need to buy multiple panels, which adds up in cost"
   - "Wood is untreated; buyers in humid climates report needing to apply their own weather sealant to prevent graying"
   - "Stakes included are short for soft soil — plan on upgrading them or securing to an existing structure"
+
 ---
 
 Let me cut to the chase: the Expandable Garden Trellis is one of those rare Amazon finds that actually does what the photos promise. I've tested enough flimsy lattice panels to be skeptical, but this fir wood panel surprised me. It's not perfect, but for most patio and balcony gardeners, it's a solid 4.6-star purchase — and here's why.

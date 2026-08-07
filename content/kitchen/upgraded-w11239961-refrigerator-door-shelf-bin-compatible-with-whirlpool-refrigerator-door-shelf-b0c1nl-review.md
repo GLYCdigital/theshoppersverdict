@@ -1,4 +1,5 @@
 ---
+
 title: "UPGRADED W11239961 Refrigerator Door Shelf Bin Compatible wi"
 seo_title: "UPGRADED W11239961 Refrigerator Door Shelf Bin Com Review"
 meta_description: "Our full upgraded w11239961 refrigerator door shelf bin compatible wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1NL37Y9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vNnnjFQWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # W11239961 Refrigerator Door Shelf Bin: The $20 Fix That Actually Works

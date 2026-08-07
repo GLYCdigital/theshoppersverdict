@@ -1,4 +1,5 @@
 ---
+
 title: "SanDisk Ultra SDXC UHS-I Memory Card"
 seo_title: "SanDisk Ultra SDXC UHS-I Memory Card Review: Verdict | TS"
 meta_description: "Our full sandisk ultra sdxc uhs-i memory card review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN8Q1Z9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DMYsp2MBL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a photographer, videographer, or drone pilot, you've probably learned the hard way that the cheapest memory card on the shelf is a gamble with your work. The SanDisk Ultra SDXC UHS-I doesn't promise to be the fastest card in existence — it promises to be the most reliable workhorse you'll own. After 240 Amazon ratings averaging 4.8 stars, the consensus is clear: this card is the boring, dependable choice that just works.

@@ -1,4 +1,5 @@
 ---
+
 title: "Anna and Sarah Dried Turkish Apricots in Resealable Bag"
 seo_title: "Anna and Sarah Dried Apricots Review: Are They Worth It?"
 meta_description: "Honest Anna and Sarah Dried Turkish Apricots review: texture, sweetness, resealable bag quality, and how they compare to cheaper options."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KH83Z7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f-NelugGL._SL1500_.jpg"
-pros:
+pros: 
   - "Large, plump apricots with a soft, moist texture — not leathery or chewy like most supermarket brands"
   - "Naturally sweet with no added sugar or sulfites, so the apricot flavor comes through clearly"
   - "Resealable bag actually works — keeps fruit soft for weeks without drying out"
-cons:
+cons: 
   - "No pitting issues are rare but some bags arrive with a few pits still intact — check before giving to kids"
   - "Price per ounce runs higher than bulk-bin apricots, though the quality justifies the premium"
+
 ---
 
 Let me say this upfront: I've tested a lot of dried fruit in my time, and most of it tastes like sweetened cardboard. The Anna and Sarah Dried Turkish Apricots are a different animal entirely. These are the real deal — soft, plump, and intensely apricot-flavored in a way that makes you wonder why you ever settled for the sulfur-drenched stuff in the baking aisle.

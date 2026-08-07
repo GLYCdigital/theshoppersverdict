@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch Power Tools GCM12SD - 15 Amp 12 Inch Corded Dual-Bevel"
 seo_title: "Bosch GCM12SD Review: 12 inch  Dual-Bevel Sliding Saw (2026)"
 meta_description: "Bosch GCM12SD 12-inch dual-bevel sliding miter saw review: axial-glide performance, cut capacity, dust collection, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MEEDI1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mBd2jE2bL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Axial-glide system with no rails — saves roughly 12 inches of depth vs. conventional sliding saws, fits flush against a wall"
   - "Dual-bevel with detents at 0°, 45°, and 48° both directions — no flipping the workpiece for compound cuts"
   - "Square-lock fence with a 7-inch tall capacity on the left side handles crown molding standing up"
-cons:
+cons: 
   - "Dust collection is mediocre even with the included 31mm hose adapter — expect cleanup after heavy use"
   - "The clear plastic blade guard can fog or scratch quickly, reducing visibility during repeated cuts"
   - "At 65 pounds, it's a bench saw first — the optional gravity stand costs extra and adds another $200+ to the total"
+
 ---
 
 Let's be blunt: most 12-inch sliding miter saws are space hogs. You clear a 4-foot workbench, mount the thing, and still have to step back for the rails to clear. The Bosch GCM12SD throws that convention out with its axial-glide system — a set of hinged arms that telescope the head forward without rear rails. It's the reason this saw commands a premium, and after researching hundreds of buyer experiences, it's the reason most people never look back.

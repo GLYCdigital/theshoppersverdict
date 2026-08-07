@@ -1,4 +1,5 @@
 ---
+
 title: "Teenage Mutant Ninja Turtles Toy, Pizza Blaster RC Vehicle w"
 seo_title: "Teenage Mutant Ninja Turtles Toy, Pizza Blaster RC Review"
 meta_description: "Our full teenage mutant ninja turtles toy, pizza blaster rc vehicle w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BHXTKQ6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811tdnY4WjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has been begging for a Ninja Turtles toy that actually does something, the Pizza Blaster RC Vehicle is one of the more interesting options on the shelf right now. It's not just a static figure or a basic remote car — it's a working RC vehicle that shoots foam pizza discs while it drives. That's the kind of dual-purpose design that keeps kids entertained past the first 20 minutes.

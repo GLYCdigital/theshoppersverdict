@@ -1,4 +1,5 @@
 ---
+
 title: "Accent Opaque White 8.5â€ Review: Premium Paper That Performs"
 seo_title: "Accent Opaque White 8.5â€ Review: Worth the Upgrade? (2026)"
 meta_description: "Accent Opaque White 8.5â€ paper review: 4.8-star rated. We test brightness, thickness, and print quality. Is it worth the price? Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01JGGQHPU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X-MjOFNTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "94 brightness rating delivers noticeably crisper text and more vivid color than standard multipurpose paper"
   - "24 lb weight feels substantial — no show-through even with heavy duplex printing or marker use"
   - "Consistent 8.5x11 sheet size with clean edges — zero misfeeds across multiple printer brands in testing"
-cons:
+cons: 
   - "Priced at a premium over generic office paper — roughly 30-40% more per ream"
   - "No recycled content option — buyers prioritizing sustainability will need to look elsewhere"
   - "Slightly stiffer than typical 20 lb paper, which can cause curl issues in high-heat laser printers"
+
 ---
 
 Let me be blunt: most office paper is a commodity. You grab whatever ream is on sale, and the only time you think about it is when the printer jams or the ink bleeds through. The Accent Opaque White 8.5â€ challenges that indifference. After running a full ream through daily use, I can tell you it earns its 4.8-star rating — but with some caveats worth knowing before you buy.

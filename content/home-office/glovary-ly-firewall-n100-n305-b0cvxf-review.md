@@ -1,4 +1,5 @@
 ---
+
 title: "Glovary LY Firewall N100 N305"
 seo_title: "Glovary LY Firewall N100 N305 Review: Verdict | TSV"
 meta_description: "Our full glovary ly firewall n100 n305 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVXFX94F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RJjY2NPnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Glovary LY Firewall N100 N305 isn't a pretty product. It's a black slab of aluminum with a couple of blinking LEDs and more ports than personality. But if you're shopping for a dedicated firewall, router, or home server, that's exactly the point. This thing is built to be shoved in a network closet and forgotten — and that's a compliment.

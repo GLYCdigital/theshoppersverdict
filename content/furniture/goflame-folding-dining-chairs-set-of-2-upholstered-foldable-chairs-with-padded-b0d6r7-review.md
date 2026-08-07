@@ -1,5 +1,6 @@
 ---
 
+
 title: "GOFLAME Folding Dining Chairs Set of 2, Upholstered Foldable"
 seo_title: "GOFLAME Folding Dining Chairs Review: Padded & Sturdy (2026)"
 meta_description: "GOFLAME folding dining chairs set of 2 review: padded comfort, space-saving design, 300lb capacity. See pros, cons & who should buy."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6R7X9BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XFFWpsZKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely padded seat and backrest (2.4-inch foam) — not a thin vinyl wrap like most folding chairs under $50 inch"
   - "Folds flat to roughly 6 inches deep — slides under a bed or into a closet without eating floor space"
   - "Weight capacity rated at 300 lbs per chair, which is unusually high for a folding design at this price point"
-cons:
+cons: 
   - "Assembly requires a hex wrench (included) — roughly 15 minutes per chair, not 'ready to use' out of the box as some listings imply"
   - "Fabric is a bonded leather that will show wear in high-friction spots (armrests, seat edges) within 6–12 months of daily use"
+
 
 ---
 

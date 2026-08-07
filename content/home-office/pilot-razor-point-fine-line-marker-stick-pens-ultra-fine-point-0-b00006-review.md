@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Razor Point Fine Line Marker Stick Pens, Ultra-Fine Po"
 seo_title: "Pilot Razor Point Fine Line Marker Stick Pens, Ult Review"
 meta_description: "Our full pilot razor point fine line marker stick pens, ultra-fine po review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00006IFJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RkXsugz+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to write in the margins of a textbook or squeeze a full semester's worth of notes onto one index card, you already know why the Pilot Razor Point has a cult following. This is the pen for people who treat paper like real estate — every millimeter counts.

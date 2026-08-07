@@ -1,4 +1,5 @@
 ---
+
 title: "ACEPLANET Patio Door Handle Review"
 seo_title: "ACEPLANET Patio Door Handle Review (2026): Is It Worth It?"
 meta_description: "Honest ACEPLANET Patio Door Handle review: build quality, fit, pros/cons, and who should buy. Real buyer feedback on this 4.4-star rated hardware."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGGJVW96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BtjsXN2JL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a smooth powder-coated finish that resists fingerprints and corrosion"
   - "Universal fit — adjustable strike plate and included hardware accommodate most standard patio door configurations"
   - "Smooth, satisfying latch action with a positive deadbolt lock that engages cleanly every time"
-cons:
+cons: 
   - "Installation requires a 1-inch hole saw and precise alignment; not a 5-minute swap for DIY novices"
   - "The included screws are soft — several buyers reported stripping heads during install, so budget for replacements"
+
 ---
 
 Let me be straight with you: replacing a patio door handle is one of those jobs that sounds simpler than it is. You're not just swapping a knob — you're dealing with backset distances, spindle lengths, and the eternal question of whether the old handle's screw holes will line up with the new one.

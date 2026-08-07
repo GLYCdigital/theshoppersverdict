@@ -1,4 +1,5 @@
 ---
+
 title: "Lil Ray 8ml Portable Mini Perfume Atomizerï¼ŒRefilable Empty"
 seo_title: "Lil Ray 8ml Portable Mini Perfume Atomizerï¼ŒRefil Review"
 meta_description: "Our full lil ray 8ml portable mini perfume atomizerï¼œrefilable empty review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4JLTZ64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VD7CSJxSL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched $200 of perfume evaporate into a hotel bathroom drain because you packed the full bottle, the Lil Ray 8ml atomizer is the fix you didn't know you needed. This tiny refillable spray bottle has earned a 4.5-star average across 225 Amazon ratings, and after digging into what buyers actually say, the hype mostly holds up.

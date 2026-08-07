@@ -1,4 +1,5 @@
 ---
+
 title: "3IngSeagulls White Vanity Desk Without Mirror Review"
 seo_title: "3IngSeagulls White Vanity Desk Review: Worth It? (2026)"
 meta_description: "Honest 3IngSeagulls white vanity desk review: build quality, assembly, real buyer feedback. Is this compact makeup station worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FPQGGXDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rVKzwICXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy particleboard construction with reinforced drawer slides — holds up to daily use without wobble"
   - Compact footprint (roughly 40 inch "W x 16 inch "D) fits tight bedrooms but still offers two drawers and a lower shelf
   - "Tool-free assembly in under 30 minutes thanks to pre-drilled cam locks and labeled parts"
-cons:
+cons: 
   - "White finish scuffs easily — you'll want a desk pad or makeup mat to protect the surface"
   - "No mirror included means you'll spend extra for a separate lighted makeup mirror"
+
 ---
 
 Let's be blunt: the 3IngSeagulls White Vanity Desk isn't the fanciest piece of furniture you'll ever own. But for under $100, it solves a very specific problem — giving you a dedicated makeup station without eating your entire bedroom floor space.

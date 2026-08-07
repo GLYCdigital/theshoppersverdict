@@ -1,4 +1,5 @@
 ---
+
 title: "Yara Candy for Women"
 seo_title: "Yara Candy for Women Review: Verdict | TSV"
 meta_description: "Our full yara candy for women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCW9KGPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51t89Jk5xML._SL1312_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sweet Spot Between Gourmand and Wearable**

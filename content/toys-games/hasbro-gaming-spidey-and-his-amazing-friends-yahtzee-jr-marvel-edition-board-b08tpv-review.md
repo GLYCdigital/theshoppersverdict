@@ -1,4 +1,5 @@
 ---
+
 title: "Hasbro Gaming Spidey and His Amazing Friends Yahtzee Jr.Marv"
 seo_title: "Spidey Yahtzee Jr. Review: Fun Marvel Dice Game for Kids"
 meta_description: "Our honest Spidey and His Amazing Friends Yahtzee Jr. review: is this $15 Marvel dice game worth it for preschoolers? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08TPVQQMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718bHMk0DyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Simplified scoring with picture-based categories — pre-readers can play independently"
   - "Sturdy dice cup and chunky dice sized for small hands (ages 4+)"
   - "Two-sided scoring pad offers both beginner and advanced play modes"
-cons:
+cons: 
   - "Only 3 dice means limited strategic depth — older kids may outgrow it fast"
   - "Spidey theme is cosmetic only — no special powers or character-specific abilities"
+
 ---
 
 If your kid is obsessed with Spidey and his Amazing Friends — and let's be honest, most 4-to-6-year-olds are — this Yahtzee Jr. Marvel edition is a surprisingly solid gateway into tabletop gaming. But the real question is whether it earns its $14.99 price tag or if you're just paying for the Spider-Man decal.

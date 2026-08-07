@@ -1,4 +1,5 @@
 ---
+
 title: "DAUSOLA 8x11.6 FT Outdoor Storage Shed, Metal Garden Tool Sh"
 seo_title: "DAUSOLA 8x11.6 FT Metal Shed Review: Worth It?"
 meta_description: "DAUSOLA 8x11.6 ft metal storage shed review: real buyer feedback on assembly, durability, and value. See if this 3.6-star garden shed fits your yard."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F2Z2QV1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91W-yp+W3KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Generous 8x11.6 ft footprint fits a riding mower plus shelving — roughly 92 sq ft of storage"
   - "Galvanized steel panels with anti-rust coating hold up in rain and snow when assembled correctly"
   - "Sloped roof and gable design shed water effectively, preventing pooling on the roof panels"
-cons:
+cons: 
   - "Assembly is a marathon, not a sprint — most buyers report 6-10 hours with two people required"
   - "Instruction manual is sparse with small diagrams; expect to pause and problem-solve repeatedly"
   - "Anchoring kit sold separately — and in high-wind areas, skipping it risks panel separation"
+
 ---
 
 **Is the DAUSOLA 8x11.6 FT Metal Shed a Smart Buy — or a Weekend Nightmare?**

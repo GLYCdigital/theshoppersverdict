@@ -1,4 +1,5 @@
 ---
+
 title: "kadision LED Flood Light Outdoor with Dusk to Dawn Photocell"
 seo_title: "kadision LED Flood Light Outdoor with Dusk to Dawn Review"
 meta_description: "Our full kadision led flood light outdoor with dusk to dawn photocell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVQ7HDYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i-NFsg8vL._AC_SL1212_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The kadision 50W LED flood light doesn't try to be clever. It just floods your yard with 6,500 lumens of clean white light the moment the sun goes down — and shuts itself off at dawn. No app, no motion sensor, no Wi-Fi. For a homeowner who wants reliable, hands-off illumination, that simplicity is exactly the point.**

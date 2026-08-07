@@ -1,7 +1,8 @@
 ---
+
 title: "Autolock Orbital Sander,Professional Random Orbital Sander,7"
-seo_title: "Autolock Orbital Sander Review: 7" Pro Palm Sander"
-meta_description: "Autolock orbital sander review: 7" variable-speed random orbit with dust collection. Is it worth it? Tested performance, pros, cons, and who should buy."
+seo_title: "Autolock Orbital Sander Review: 7 Pro Palm Sander"
+meta_description: "Autolock orbital sander review: 7 variable-speed random orbit with dust collection. Is it worth it? Tested performance, pros, cons, and who should buy."
 slug: "autolock-orbital-sander-professional-random-orbital-sander-7-variable-speed-palm-sander-b0d9w3-review"
 image_alt: "Autolock 7-inch professional random orbital sander with variable speed dial and dust collection bag"
 verdict_score: 4.2
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9W3FMKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710zKuptSQL._AC_SL1490_.jpg"
-pros:
+pros: 
   - "7-inch pad covers roughly double the surface area of a standard 5-inch sander, cutting job time significantly on large flat panels"
   - "Variable speed dial (2,000–6,200 OPM) gives genuine control from delicate finish work to aggressive stock removal"
   - "Hook-and-loop pad grips paper firmly with no sliding, even at max speed on vertical surfaces"
-cons:
+cons: 
   - "At 4.4 lbs, it's noticeably heavier than a 5-inch palm sander — arm fatigue sets in during extended overhead or vertical work"
   - "Dust bag fills fast and the clear window makes it obvious; you'll want a shop vac hose attached for anything beyond a single small project"
   - "No soft-start feature — the pad spins up to full speed instantly when you pull the trigger, which can mar soft woods if you're not careful"
+
 ---
 # Autolock Orbital Sander Review: Is the 7-Inch Pro Worth the Extra Weight?
 

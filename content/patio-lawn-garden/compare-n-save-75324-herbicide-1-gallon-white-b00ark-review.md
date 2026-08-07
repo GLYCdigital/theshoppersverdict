@@ -1,4 +1,5 @@
 ---
+
 title: "Compare-N-Save 75324 Herbicide, 1-gallon, white"
 seo_title: "Compare-N-Save 75324 Herbicide Review: 1-Gallon Weed Killer"
 meta_description: "Our Compare-N-Save 75324 herbicide review covers effectiveness, coverage, and value. See if this 1-gallon concentrate is right for your lawn."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00ARKS3XO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TJclV5yML._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Active ingredient is the same 41% glyphosate concentrate sold by bigger brands, at roughly half the cost per ounce"
   - "1-gallon jug mixes to 43 gallons of ready-to-spray solution — handles large properties or multiple seasons"
   - "Works on over 200 weed types including poison ivy, crabgrass, and dandelions; visible results in 24-48 hours"
-cons:
+cons: 
   - "It's non-selective — kills EVERYTHING it touches, including desirable grass and flowers if you're careless"
   - "White plastic jug is thin and the cap can drip; you'll want to transfer to a sprayer with a sealed lid"
+
 ---
 
 If you've priced name-brand glyphosate concentrates lately, you know the pain. A quart of the blue-jug stuff runs $20-plus. Compare-N-Save 75324 gives you a full gallon of the same 41% active ingredient (isopropylamine salt of glyphosate) for roughly the same money. That's the headline. But let's dig into whether the savings cost you anything else.

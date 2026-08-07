@@ -1,4 +1,5 @@
 ---
+
 title: "Hooga Book Light, Amber, Rechargeable LED Reading Light 3 Br"
 seo_title: "Hooga Book Light, Amber, Rechargeable LED Reading  Review"
 meta_description: "Our full hooga book light, amber, rechargeable led reading light 3 br review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096W8N5J2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512q21QDOEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you read in bed and wonder why you're still wired at midnight, the problem isn't your book — it's your light. Standard white LEDs emit blue wavelengths that suppress melatonin and trick your brain into thinking it's noon. The Hooga Book Light (model B096W8N5J2) takes a different approach: a 1600K amber LED that mimics sunset. It's a niche tool, but for the right buyer, it's genuinely transformative.

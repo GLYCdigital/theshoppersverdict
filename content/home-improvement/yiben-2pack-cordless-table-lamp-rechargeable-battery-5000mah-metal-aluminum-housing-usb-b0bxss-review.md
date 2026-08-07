@@ -1,4 +1,5 @@
 ---
+
 title: "YIBEN 2Pack Cordless Table Lamp, Rechargeable Battery 5000mA"
 seo_title: "YIBEN 2Pack Cordless Table Lamp, Rechargeable Batt Review"
 meta_description: "Our full yiben 2pack cordless table lamp, rechargeable battery 5000ma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXSSMZNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61davNRFU8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tripped over a lamp cord at 2 a.m. or wrestled with an extension cord just to read on a patio, you already know why the YIBEN 2Pack Cordless Table Lamp exists. It's a rechargeable, portable light source that cuts the cord entirely. And at 4.6 stars from 229 ratings, it's clearly doing something right. But is it worth your money? Let's break down what you actually get.

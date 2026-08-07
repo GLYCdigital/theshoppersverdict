@@ -1,4 +1,5 @@
 ---
+
 title: "AKEYDIY Inflatable Water Park, Bounce House With Dual Pool,"
 seo_title: "AKEYDIY Inflatable Water Park Review: Dual Pool Bounce House"
 meta_description: "AKEYDIY inflatable water park with dual pools, climbing wall & slide. Read our honest review on durability, setup, and value before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXTHZTZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8106LVT-3DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated dual splash pools keep kids cool while bouncing—no separate wading pool needed"
   - "Reinforced seams and 0.4mm PVC hold up to aggressive play, per multiple long-term reviews"
   - "Blower motor runs continuously without overheating during 4+ hour backyard sessions"
-cons:
+cons: 
   - "Takes 20–25 minutes to fully inflate and stake down—not a quick setup"
   - "180W blower is loud enough to be annoying from 10 feet away; conversations get drowned out"
   - "Splash pools only fill to about 6 inches—too shallow for older kids who want to submerge"
+
 ---
 
 **Is this the backyard summer upgrade your kids keep begging for, or just another plastic eyesore that deflates by July?** After digging through 229 ratings (4.6 stars average) and cross-referencing what actual buyers say, here's the honest breakdown.

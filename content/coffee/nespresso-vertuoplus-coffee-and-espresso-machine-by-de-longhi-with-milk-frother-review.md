@@ -1,16 +1,17 @@
 ---
+
 title: "Nespresso VertuoPlus Coffee and Espresso Machine by De'Longhi with Milk Frother, Ink Black"
 seo_title: "Nespresso VertuoPlus Coffee Review: Verdict (4.6/5) | TSV"
 meta_description: "I've only owned the machine for a month, but the build and overall experience 8,461+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "nespresso-vertuoplus-coffee-and-espresso-machine-by-de-longhi-with-milk-frother-review"
 image_alt: "Nespresso VertuoPlus Coffee and Espresso Machine by DeLonghi with Milk Frother, Ink Black"
-keywords:
+keywords: 
   - "nespresso vertuoplus coffee review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Nespresso VertuoPlus Coffee and?"
     answer: "I've only owned the machine for a month, but the build and overall experience lends itself to belief this... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Nespresso VertuoPlus Coffee and?"
@@ -23,12 +24,13 @@ review_count: 8461
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YBVTM6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sHWwtjeqL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "I've only owned the machine for a month."
   - "Easy to use out of the box--there's ONE button."
   - "I like my Keurig--we've had it for over 5 years."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The Nespresso VertuoPlus Coffee and Espresso is a popular choice - with 8,461 Amazon reviews behind it. Here is what buyers actually say.

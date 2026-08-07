@@ -1,4 +1,5 @@
 ---
+
 title: "Kondras Outdoor Motion Sensor Step Lights for Outside"
 seo_title: "Kondras Outdoor Motion Sensor Step Lights for Outs Review"
 meta_description: "Our full kondras outdoor motion sensor step lights for outside review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQ3PK45Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MEOkizfiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most solar step lights are junk. They barely glow, die by October, and the plastic housings crack within a season. The Kondras Outdoor Motion Sensor Step Lights aren't perfect, but they're a legitimate cut above the typical Amazon lighting gamble. With a 4.3-star average across 215 ratings, the consensus is clear — these work, and they hold up.

@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks Brushless Lawn Mower"
 seo_title: "Greenworks Brushless Lawn Mower Review: Verdict | TSV"
 meta_description: "Our full greenworks brushless lawn mower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C921GYZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NuTJL7rRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a gas mower that won't start after winter, or you're tired of wrestling an extension cord across the yard, the Greenworks Brushless Lawn Mower deserves a hard look. This cordless mower has earned a 4.2-star rating from 210 Amazon buyers — solid, but not glowing. Here's the unvarnished truth about what you're actually getting.

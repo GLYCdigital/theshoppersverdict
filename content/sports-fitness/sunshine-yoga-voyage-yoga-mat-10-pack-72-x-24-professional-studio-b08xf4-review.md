@@ -1,7 +1,8 @@
 ---
-title: "Sunshine Yoga Voyage Yoga Mat, 10 Pack, 72\" x 24\" Profession"
-seo_title: "Sunshine Yoga Voyage Yoga Mat, 10 Pack, 72\" x 24\"  Review"
-meta_description: "Our full sunshine yoga voyage yoga mat, 10 pack, 72\" x 24\" profession review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Sunshine Yoga Voyage Yoga Mat, 10 Pack, 72\ x 24\ Profession"
+seo_title: "Sunshine Yoga Voyage Yoga Mat, 10 Pack, 72\ x 24\  Review"
+meta_description: "Our full sunshine yoga voyage yoga mat, 10 pack, 72\ x 24\ profession review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sunshine-yoga-voyage-yoga-mat-10-pack-72-x-24-professional-studio-b08xf4-review"
 image_alt: "Sunshine Yoga Voyage Yoga Mat, 10 Pack, 72 x 24 Professional Studio and Gym Bulk Yoga Mats, 5mm Thick, Durable, Anti-Tea"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08XF4JVNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zcVtzKUVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sunshine Yoga Voyage Yoga Mat 10-Pack: The Bulk Buy That Actually Makes Sense

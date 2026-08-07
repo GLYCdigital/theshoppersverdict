@@ -1,4 +1,5 @@
 ---
+
 title: "ANPABO 24V 2 Seater Ride On Dump Truck, 4x75W, Max 5 Mph, EV"
 seo_title: "ANPABO 24V 2-Seater Dump Truck Review: 4x75W Power, Real Dumping"
 meta_description: "Honest ANPABO 24V 2-seater ride-on dump truck review. 4x75W motors, 5 mph top speed, dual seating. Real buyer feedback on power, build, battery life."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDY7YRFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71boyhsUvBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4-wheel drive with four 75W motors handles grass and mild hills that stall typical 12V ride-ons"
   - "Working dump bed with manual tilt plus 2-seat bench means siblings actually fit side-by-side"
   - "24V 7Ah battery delivers roughly 60-90 minutes of run time in real-world mixed terrain use"
-cons:
+cons: 
   - "Assembly runs 2-3 hours with fiddly axle and bumper alignment; you'll want a second adult"
   - "No suspension means bumpy ride on uneven pavement; younger kids feel every crack"
   - "Plastic dump bed is rigid — dumping heavy loads of sand can stress the latch hinge"
+
 ---
 
 Most ride-on trucks are glorified rocking chairs with a steering wheel. The ANPABO 24V 2-Seater Dump Truck is not that. With four 75W motors and a 24-volt electrical system, this is the first "toy" in this price bracket that actually behaves like a miniature work vehicle. After digging through 215 ratings averaging 4.3 stars, the consensus is clear: this truck earns its keep, but it's not without compromises.

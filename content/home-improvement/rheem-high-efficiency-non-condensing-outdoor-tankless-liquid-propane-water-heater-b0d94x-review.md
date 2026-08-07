@@ -1,4 +1,5 @@
 ---
+
 title: "Rheem High Efficiency Non-Condensing Outdoor Tankless Liquid"
 seo_title: "Rheem High Efficiency Non-Condensing Outdoor Tankl Review"
 meta_description: "Our full rheem high efficiency non-condensing outdoor tankless liquid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D94XQRH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TsICIZ9qL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: a tankless water heater at $756 sounds like a steal, but the real cost lives in the install details. I've dug through 195 owner ratings and technical specs on this Rheem non-condensing outdoor unit. Here's what actually matters before you hand over your credit card.

@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO Sphagnum Peat Moss"
 seo_title: "Miracle-GRO Sphagnum Peat Moss Review: Verdict | TSV"
 meta_description: "Our full miracle-gro sphagnum peat moss review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B095LDG3VN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7125ABL5oqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: peat moss isn't glamorous. But if you're amending clay-heavy garden beds or trying to keep potted blueberries alive through July, this is the product that does the unglamorous work. Miracle-GRO's Sphagnum Peat Moss has earned a 4.7-star average across 235 ratings — and after digging into what buyers actually say, the praise is mostly justified.

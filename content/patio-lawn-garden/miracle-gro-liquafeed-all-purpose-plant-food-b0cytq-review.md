@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO LiquaFeed All Purpose Plant Food"
 seo_title: "Miracle-GRO LiquaFeed All Purpose Plant Food Review: Verd"
 meta_description: "Our full miracle-gro liquafeed all purpose plant food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYTQ91J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Ef2LN93S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you've ever killed a plant with "just a splash" of concentrated fertilizer, the Miracle-GRO LiquaFeed system is worth a hard look. The built-in feeder takes the math out of feeding — you attach it to your hose, squeeze the trigger, and the venturi mechanism dilutes the concentrate automatically. It's the easiest way to consistently feed a mixed garden without burning anything.

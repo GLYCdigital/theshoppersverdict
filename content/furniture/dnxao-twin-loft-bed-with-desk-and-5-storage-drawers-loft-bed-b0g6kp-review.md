@@ -1,4 +1,5 @@
 ---
+
 title: "Dnxao Twin Loft Bed with Desk and 5 Storage Drawers,Loft Bed"
 seo_title: "Dnxao Twin Loft Bed Review: Desk + 5 Drawers (2026)"
 meta_description: "Honest Dnxao Twin Loft Bed review: desk, 5 drawers, build quality, weight limits, assembly tips. Is this space-saver right for your kid's room?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G6KPCS46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GZIHyVSQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated desk + 5 drawers pack serious utility into a twin footprint — ideal for small rooms"
   - "Solid steel frame with 400+ lb weight capacity holds up to real kids, not just toddlers"
   - "Guard rails run full-length on both sides; ladder placement is flexible (left or right)"
-cons:
+cons: 
   - "Assembly is a 2-3 hour, two-person job with dozens of bolts — clear instructions help but patience required"
   - "Mattress must be 6 inches or thinner; thicker mattresses make the guard rail feel low"
   - "Drawer slides are basic — they work fine but won't survive rough teenage handling"
+
 ---
 
 **Dnxao Twin Loft Bed with Desk and 5 Storage Drawers: The Space-Saving Champion That Demands Patience**

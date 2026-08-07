@@ -1,4 +1,5 @@
 ---
+
 title: "Greenies Feline Adult Natural Dental Care Cat Treats, Catnip"
 seo_title: "Greenies Catnip Cat Treats Review: Vet-Recommended Dental Care"
 meta_description: "Read our honest Greenies Feline Catnip Dental Treats review. We tested texture, cat appeal, and real dental benefits. See if these 4.8-star treats fit your cat."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTLDKPLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vwFqf1XIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "VET RECOMMENDED formula with VOHC seal — proven to reduce tartar and plaque with daily feeding"
   - "Crunchy texture actually scrubs teeth; catnip flavor masks the 'dental treat' taste finicky cats reject"
   - "Under 2 calories per treat — suitable for daily use without wrecking your cat's waistline"
-cons:
+cons: 
   - "Some cats eat these too fast to get full dental benefit — you'll need to supervise or ration"
   - "Bag reseals poorly; treats go stale quickly if you don't transfer to an airtight container"
+
 ---
 
 ## The Dental Treat That Cats Actually Eat

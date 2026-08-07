@@ -1,4 +1,5 @@
 ---
+
 title: "Roller Skates for Men and Women, Black Derby Roller Skates w"
 seo_title: "Roller Skates for Men and Women, Black Derby Rolle Review"
 meta_description: "Our full roller skates for men and women, black derby roller skates w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1C6WWJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DXepNb7wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 These Black Derby roller skates have earned a 4.6-star average from 229 Amazon shoppers, and after digging through the feedback and specs, the hype is mostly justified. This isn't a gimmicky fashion skate — it's a legit quad setup that balances retro aesthetics with modern performance. Here's what you need to know before you add them to your cart.

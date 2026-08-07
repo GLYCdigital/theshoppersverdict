@@ -1,4 +1,5 @@
 ---
+
 title: "RIDGID 31622 Model 150 Constant Swing Tubing Cutter, 1/8-inc"
 seo_title: "RIDGID 31622 Model 150 Constant Swing Tubing Cutte Review"
 meta_description: "Our full ridgid 31622 model 150 constant swing tubing cutter, 1/8-inc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ9Y6FLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5194SWZBq7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most cheap tubing cutters are frustrating little devices that pinch, skip, and leave jagged edges. The RIDGID 31622 Model 150 is not that. It’s a $40-ish professional-grade tool that solves the biggest annoyance in tubing work — the constant re-tightening dance — with a genuinely clever mechanical design.

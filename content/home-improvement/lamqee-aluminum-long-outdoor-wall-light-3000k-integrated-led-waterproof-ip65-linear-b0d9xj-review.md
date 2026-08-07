@@ -1,4 +1,5 @@
 ---
+
 title: "LamQee Aluminum Long Outdoor Wall Light, 3000K Integrated LE"
 seo_title: "LamQee Aluminum Long Outdoor Wall Light, 3000K Int Review"
 meta_description: "Our full lamqee aluminum long outdoor wall light, 3000k integrated le review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9XJK7YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KPwiWb+lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been hunting for a modern linear wall sconce that doesn't look like every other generic box-store floodlight, the LamQee Aluminum Long Outdoor Wall Light deserves a hard look. This is a fixture that actually understands the difference between "outdoor-rated" and "will survive three Midwest winters." At 4.3 stars across 215 ratings, it's not perfect — but it's remarkably close for the price point.

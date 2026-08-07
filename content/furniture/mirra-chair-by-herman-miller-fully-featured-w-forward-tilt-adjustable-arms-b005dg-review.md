@@ -1,4 +1,5 @@
 ---
+
 title: "Mirra Chair by Herman Miller: Fully Featured w/Forward Tilt "
 seo_title: "Mirra Chair by Herman Miller: Fully Featured w/For Review"
 meta_description: "Our full mirra chair by herman miller: fully featured w/forward tilt  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B005DGXN46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZKtD4qbPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the “cheaper Aeron” you’ve been eyeing? Yes — but only if you know what you’re giving up.**  

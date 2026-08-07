@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 8x5' Grill Gazebo, 3-Tier Outdoor BBQ Gazebo with "
 seo_title: "Yaheetech 8x5' Grill Gazebo, 3-Tier Outdoor BBQ Ga Review"
 meta_description: "Our full yaheetech 8x5' grill gazebo, 3-tier outdoor bbq gazebo with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXL7384C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BTlV2ccnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever flipped burgers in a downpour while clutching an umbrella between your chin and shoulder, you already know why a grill gazebo makes sense. The Yaheetech 8x5' model is one of the more popular options on Amazon — 210 ratings, 4.2 stars — but popularity alone doesn't tell you whether it'll survive a Midwest thunderstorm or just look pretty in the product photos. Here's the real breakdown.

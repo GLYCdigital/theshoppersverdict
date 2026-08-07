@@ -1,4 +1,5 @@
 ---
+
 title: "Redragon M690 Wireless Gaming Mouse"
 seo_title: "Redragon M690 Wireless Gaming Mouse Review: Verdict | TSV"
 meta_description: "Our full redragon m690 wireless gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BSF38MBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hl4Aa3HHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Redragon M690: A budget wireless mouse that actually delivers**

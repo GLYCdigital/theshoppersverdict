@@ -1,4 +1,5 @@
 ---
+
 title: "Casta Diva Compact One Piece Toilet for Small Bathroom, Roun"
 seo_title: "Casta Diva Compact One Piece Toilet Review (2026)"
 meta_description: "Honest Casta Diva compact one-piece toilet review: space-saving round design, skirted ease, and 4.1-star buyer feedback. Is it right for your small bathroom?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTJTCNRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "True one-piece ceramic construction eliminates the dreaded tank-to-bowl seam where bacteria and grime collect"
   - "Compact 26.5-inch depth fits tight spaces where standard 28-30 inch toilets simply won't clear the door"
   - "Fully skirted sides make floor cleaning a single wipe — no crevices to attack with a scrub brush"
-cons:
+cons: 
   - "Short 12-inch rough-in limits replacement options for older homes with 14-inch plumbing; measure before buying"
   - "Round bowl sacrifices legroom — taller users will feel the difference versus elongated models"
   - "No soft-close seat included; factor $30-50 extra for a quality aftermarket seat"
+
 ---
 
 If your bathroom measures less than five feet wall-to-wall, you already know the struggle: every toilet you look at sticks out too far, or worse, forces you to sit sideways. The Casta Diva Compact One Piece Toilet is engineered for exactly that scenario — and at 204 ratings with a 4.1-star average, it's not a gamble, but it's also not perfect. Here's what you need to know before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Red Rose TEA"
 seo_title: "Red Rose TEA Review: Verdict | TSV"
 meta_description: "Our full red rose tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTB95PBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818ppwSI2pL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Red Rose Tea: it's been a Canadian pantry staple since 1894, but it's having a genuine moment on Amazon right now. With 240 ratings and a 4.8-star average, this isn't a product people are lukewarm about — they either grew up on it or discovered it recently and won't shut up about it. But is it actually good, or is it just nostalgia in a box? I brewed my way through a full box to find out.

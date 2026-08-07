@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Keyless Privacy Door Knobs, 5766bk/sn/orb-bk"
 seo_title: "Probrico Keyless Privacy Door Knobs, 5766bk/sn/orb Review"
 meta_description: "Our full probrico keyless privacy door knobs, 5766bk/sn/orb-bk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3XXVGQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LJrn2jd-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most privacy knobs in this price range feel like they came out of a cereal box. The Probrico Keyless Privacy Door Knob isn't that. It's heavier, better finished, and honestly feels like it costs twice what it does. But is it worth replacing your existing hardware? Let's break it down.

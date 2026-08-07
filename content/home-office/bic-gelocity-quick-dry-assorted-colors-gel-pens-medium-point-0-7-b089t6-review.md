@@ -1,4 +1,5 @@
 ---
+
 title: "BIC Gelocity Quick Dry Assorted colors Gel Pens, Medium Poin"
 seo_title: "BIC Gelocity Quick Dry Gel Pens Review (2026): Are They Worth It?"
 meta_description: "BIC Gelocity Quick Dry gel pens review: 4.8-star rated, fast-drying ink, 12 colors. We test smudge resistance, comfort, and value. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B089T6TR6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hi9zGDrUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ink dries in under 2 seconds on standard copy paper — no smeared notes or smudged fingers"
   - "12-color assortment covers everything from basic blue to teal and violet at a fraction of premium pen prices"
   - "0.7mm medium point delivers crisp, saturated lines without bleeding through standard notebook paper"
-cons:
+cons: 
   - "Barrel is slick when hands sweat — no rubber grip means you'll want a death grip during long writing sessions"
   - "Some colors (yellow, orange) run lighter than expected; fine for highlighting, weak for dense text"
   - "Ink reservoir runs out faster than comparable Pilot G2s for heavy daily journaling"
+
 ---
 
 You've been burned before by "quick dry" pens that smear all over your to-do list and leave ink on your palm. The BIC Gelocity line claims to solve that — and here's the surprise: it actually does. With a 4.8-star average across 240 ratings, these pens have quietly become a staple in offices and bullet journals alike. But are they worth your money? I've put them through the gauntlet: left-handed smudge tests, cheap printer paper, long note-taking sessions, and the dreaded "drop it in a bag and see if the cap stays on" test.

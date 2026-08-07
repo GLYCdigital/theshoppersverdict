@@ -1,4 +1,5 @@
 ---
+
 title: "Ansopu Lined Journal Notebook"
 seo_title: "Ansopu Lined Journal Notebook Review: Durable & Smooth"
 meta_description: "Ansopu lined journal notebook review: thick no-bleed paper, lay-flat design, durable cover. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSYPZ732/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WywcRWRqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "120gsm paper handles fountain pens and heavy ink without bleed-through or ghosting"
   - "Lay-flat binding stays open on a desk without holding pages down"
   - "Stitched PU leather cover with elastic closure and pen loop feels far more premium than the price suggests"
-cons:
+cons: 
   - "Paper has noticeable tooth — not ideal if you prefer ultra-smooth, glossy notebook paper"
   - "Only 192 pages (96 sheets) — thinner than many competitors at the same price point"
+
 ---
 
 # Ansopu Lined Journal Notebook Review: The Budget Journal That Punches Above Its Weight

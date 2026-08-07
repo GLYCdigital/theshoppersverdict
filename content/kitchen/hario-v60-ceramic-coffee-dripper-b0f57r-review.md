@@ -1,4 +1,5 @@
 ---
+
 title: "Hario V60 Ceramic Coffee Dripper"
 seo_title: "Hario V60 Ceramic Coffee Dripper Review: Verdict | TSV"
 meta_description: "Our full hario v60 ceramic coffee dripper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F57RS7PC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5186roHpocL._AC_SL1260_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hario V60 Ceramic Coffee Dripper: The Pour-Over Standard, But Is It For You?

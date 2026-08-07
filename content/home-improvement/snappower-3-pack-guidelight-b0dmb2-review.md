@@ -1,4 +1,5 @@
 ---
+
 title: "SnapPower 3 Pack GuideLight"
 seo_title: "SnapPower 3 Pack GuideLight Review: Verdict | TSV"
 meta_description: "Our full snappower 3 pack guidelight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMB2XF3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZKG2AgKXL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SnapPower GuideLight solves a problem you didn't know you had: dark hallways, bathrooms, and kids' rooms where you don't want a full lamp on but also don't want to stub your toe. This three-pack replaces standard outlet covers with motion-activated LED night lights. No wiring, no electrician, no charging dock — just a screwdriver (actually, not even that) and three AAA batteries per unit.

@@ -1,4 +1,5 @@
 ---
+
 title: "MIXC Plant Nursery Pots Multi-Szie with Plant Label"
 seo_title: "MIXC Plant Nursery Pots Multi-Szie with Plant Labe Review"
 meta_description: "Our full mixc plant nursery pots multi-szie with plant label review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GGBZVS82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610j+jflWvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you twenty minutes of scrolling: these MIXC nursery pots are exactly what they claim to be — a no-frills, multi-size starter set for anyone who propagates, divides, or just hoards half-dead succulents. The 4.3-star average across 215 ratings isn't inflated by hype; it's the quiet approval of people who've repotted a few dozen plants and know the difference between a pot that lasts and one that splits on first use.

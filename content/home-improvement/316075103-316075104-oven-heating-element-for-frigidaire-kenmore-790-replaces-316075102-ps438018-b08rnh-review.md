@@ -1,4 +1,5 @@
 ---
+
 title: "316075103 316075104 Oven Heating Element for Frigidaire Kenm"
 seo_title: "316075103 Oven Heating Element Review: Frigidaire & Kenmore 790 inch"
 meta_description: "Honest 316075103 316075104 oven heating element review for Frigidaire and Kenmore 790 ranges. Real specs, install tips, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08RNH345H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GLNxoBwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise OEM-equivalent fit for Frigidaire and Kenmore 790-series ranges — no bending or modification needed."
   - "240V/3200W rating matches original bake element output; even heating across the oven cavity."
   - "Includes both the element and new mounting hardware, saving a separate parts order."
-cons:
+cons: 
   - "Terminal connections are bare spade-style — you'll need a 1/4-inch nut driver and basic electrical comfort."
   - "No paper manual included; wiring diagram is only on the box label (take a photo before you toss it)."
+
 ---
 
 **The 316075103/316075104 is the bake element your Frigidaire or Kenmore 790 has been begging for.** If you're staring at an oven that won't heat, won't reach temperature, or heats unevenly, this is the replacement part that solves it. With 240 ratings averaging 4.8 stars, the consensus is clear: this is the bake element to buy.

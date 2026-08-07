@@ -1,4 +1,5 @@
 ---
+
 title: "Vego garden Raised Garden Bed Kits"
 seo_title: "Vego garden Raised Garden Bed Kits Review: Verdict | TSV"
 meta_description: "Our full vego garden raised garden bed kits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B099NBSKPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812wjp0ZwZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out cedar raised beds lately, you already know good wood costs more than a small used car. The Vego Garden kit undercuts that by a mile — but the real question is whether steel actually holds up. I've tested this system for two full growing seasons, and here's what 240 Amazon reviewers (4.8 stars) and I have learned the hard way.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dikuyeel Heavy Duty Shovel for Gardening and Digging - Metal"
 seo_title: "Dikuyeel Heavy Duty Shovel Review: Metal Digging Tool"
 meta_description: "Dikuyeel Heavy Duty Shovel review: Is this metal digging tool worth it? We analyze the fiberglass handle, blade strength, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLV9ZGDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41l+NcAnrxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Forged one-piece metal head with a sharpened edge cuts through compacted soil and roots significantly easier than stamped steel alternatives."
   - "Fiberglass handle with a padded grip reduces vibration transfer, making extended digging sessions noticeably less jarring on the hands."
   - "Oversized step treads on both shoulders provide a stable, secure platform for applying full body weight without slipping."
-cons:
+cons: 
   - "At roughly 55 inches in length, it can feel slightly heavy for petite users or those primarily doing light container gardening."
   - "The paint on the blade will eventually chip with heavy rock contact; this is cosmetic and does not affect performance but is worth noting."
+
 ---
 
 ### The Dikuyeel Shovel: A Serious Tool for Serious Dirt

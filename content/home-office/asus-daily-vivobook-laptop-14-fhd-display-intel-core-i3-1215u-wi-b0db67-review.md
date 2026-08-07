@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Daily Vivobook Laptop, 14 inch  FHD Display, Intel Core i3-1 inch"
 seo_title: "ASUS Vivobook 14 Review: i3-1215U Value Pick for Daily Work"
 meta_description: "Honest ASUS Vivobook 14 FHD laptop review: Intel Core i3-1215U performance, display quality, and battery life. Is it worth buying for office work?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DB6771J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jojpe4KVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12th-gen Intel Core i3-1215U delivers snappy everyday performance with two performance cores for burst tasks"
   - "14-inch FHD anti-glare display is genuinely usable outdoors and under harsh office lighting"
   - "Full-size keyboard with dedicated number pad — rare at this size and price point"
-cons:
+cons: 
   - "Only 8GB of soldered RAM with no upgrade path; heavy multitab Chrome users will feel the ceiling"
   - "Integrated Intel UHD graphics struggle with anything beyond light photo editing or 1080p video"
   - "Plastic chassis flexes noticeably around the keyboard deck under pressure"
+
 ---
 
 **Is this the budget laptop that actually works for daily office grind? I spent a week with the ASUS Vivobook 14 to find out.**

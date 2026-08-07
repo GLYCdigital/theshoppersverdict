@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Outdoor Silo Point Eucaluptus Pat"
 seo_title: "Signature Design by Ashley Outdoor Silo Point Euca Review"
 meta_description: "Our full signature design by ashley outdoor silo point eucaluptus pat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPMBZQ95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DJkIEnq0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced solid-wood outdoor furniture lately, you know the sticker shock is real. Teak runs $400+ for a simple side table. So when Signature Design by Ashley offers a solid eucalyptus end table in the sub-$150 range, it grabs attention. The question is whether the Silo Point delivers or just looks good in the product photos.

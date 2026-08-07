@@ -1,4 +1,5 @@
 ---
+
 title: "WB44k10005 Oven Bake Element WB44K10001 Fit for G-E Hot-Poin"
 seo_title: "WB44k10005 Oven Bake Element WB44K10001 Fit for G- Review"
 meta_description: "Our full wb44k10005 oven bake element wb44k10001 fit for g-e hot-poin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07XTBTKDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HzxphKyyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your oven's been running cold for a week. Cakes come out pale. The casserole's raw in the middle. You've checked the thermostat, cleaned the oven, and still nothing. Chances are the bake element is burned out — and if you own a GE or Hotpoint range from the last two decades, you're likely shopping for a WB44k10005. Here's what you need to know before you click buy.

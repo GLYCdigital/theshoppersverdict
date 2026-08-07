@@ -1,4 +1,5 @@
 ---
+
 title: "Viking Press Landmine Handle for 2-Inch Barbell, Hack Squat "
 seo_title: "Viking Press Landmine Handle for 2-Inch Barbell, H Review"
 meta_description: "Our full viking press landmine handle for 2-inch barbell, hack squat  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09F31RS6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YKhfS7v3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $40 question: Is this landmine attachment a game-changer for your home gym, or just another piece of steel collecting dust in the corner?**

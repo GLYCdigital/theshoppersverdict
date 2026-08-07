@@ -1,4 +1,5 @@
 ---
+
 title: "Astrobrights Color Cardstock, 65 lb Cover Weight, 8.5 x 11,"
 seo_title: "Astrobrights Color Cardstock Review: 65 lb Cover Weight"
 meta_description: "Honest Astrobrights Color Cardstock review: 65 lb cover weight, 8.5x11. Tested for print quality, durability & bleed-through. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8F2G5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MBO9vp7FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 65 lb cover thickness — substantial feel, holds up to folding and handling without tearing at stress points"
   - "Vibrant, saturated colors that don't wash out under standard printer settings; the 'Celestial' mix covers a genuinely useful spectrum"
   - "Prints cleanly on both inkjet and laser — no curling, jamming, or smudging even on double-sided jobs"
-cons:
+cons: 
   - "Color assortment skews heavily toward the neon end; if you need muted pastels for professional documents, this isn't the pack"
   - "Slight color variation between batches — if you're buying multiples for a large project, order enough at once to ensure matching shades"
+
 ---
 
 Most cardstock reviews read like they were written by someone who printed one birthday banner and called it a day. I've put this 65 lb cover weight pack from Astrobrights through actual work — event signage, client presentation covers, kid's school projects, and a full set of wedding place cards. Here's what 235 Amazon reviewers at 4.7 stars are actually talking about.

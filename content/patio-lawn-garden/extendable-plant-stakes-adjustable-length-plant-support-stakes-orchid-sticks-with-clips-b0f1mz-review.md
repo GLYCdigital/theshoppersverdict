@@ -1,4 +1,5 @@
 ---
+
 title: "Extendable Plant Stakes, Adjustable Length Plant Support Sta"
 seo_title: "Extendable Plant Stakes Review: Adjustable Support Stakes Worth It?"
 meta_description: "Read our honest extendable plant stakes review. Adjustable length plant support stakes with clips at $12.99. See how they perform for orchids, tomatoes, and more."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F1MZ55JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QlO0fGmRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Telescoping design extends from roughly 12 inches to over 3 feet, so one set handles seedlings and mature plants without buying multiple sizes"
   - "Included clips grip stems firmly but have enough give to avoid crushing delicate orchid or monstera stalks"
   - "Weather-resistant coating holds up through rain and humidity without rusting or flaking"
-cons:
+cons: 
   - "No locking mechanism — the sections can slide back down under heavy plant weight unless you press the twist lock firmly"
   - "Clips are small; they work for stems up to about a half-inch thick but struggle with chunky or heavily branched plants"
+
 ---
 
 # Extendable Plant Stakes, Adjustable Length Plant Support Stakes Review: One Set That Grows With Your Plants

@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin Feline Breed Nutrition Maine Coon Adult Dry Cat "
 seo_title: "Royal Canin Feline Breed Nutrition Maine Coon Adul Review"
 meta_description: "Our full royal canin feline breed nutrition maine coon adult dry cat  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B011M6K81Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71slKhL-c1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Maine Coons aren't just big cats — they're a different engineering problem. A 20-pound frame with a broad skull, a deep chest prone to hypertrophic cardiomyopathy, and joints that carry serious weight. Feeding them a generic adult cat food is like putting regular gasoline in a diesel truck. It runs, but not optimally. That's the gap Royal Canin's Maine Coon Adult formula targets, and for the most part, it hits.

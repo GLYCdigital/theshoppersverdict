@@ -1,4 +1,5 @@
 ---
+
 title: "Envipod Master Family"
 seo_title: "Envipod Master Family Review: Honest 2026 Verdict"
 meta_description: "Envipod Master Family review: Real buyer feedback on this coffee gear. See pros, cons, and whether it's worth your money in 2026."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0BJFGRH4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DNv55jwHL._SL1000_.jpg"
-pros:
+pros: 
   - "Large 1.8L water reservoir means you're not refilling mid-morning, even for a full household"
   - "Reusable stainless steel filter eliminates recurring paper filter costs after initial purchase"
   - "Programmable 24-hour timer with auto-shutoff gives genuine set-and-forget convenience"
-cons:
+cons: 
   - "Carafe lid is prone to leaking if you pour too aggressively — several buyers report drips down the side"
   - "Brew cycle runs hot enough that the first cup can scald; no temperature adjustment available"
   - "Plastic housing scratches easily and shows fingerprints; not a looker on open shelving"
+
 ---
 
 **The Envipod Master Family is the coffee maker equivalent of a solid mid-tier sedan: it gets the job done without fanfare, but it won't win any beauty contests or impress your espresso-snob friends.**

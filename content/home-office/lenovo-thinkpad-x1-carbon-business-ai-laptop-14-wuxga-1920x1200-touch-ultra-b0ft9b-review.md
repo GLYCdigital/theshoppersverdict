@@ -1,7 +1,8 @@
 ---
-title: "Lenovo ThinkPad X1 Carbon Business AI Laptop, 14\" WUXGA (192"
-seo_title: "Lenovo ThinkPad X1 Carbon Business AI Laptop, 14\"  Review"
-meta_description: "Our full lenovo thinkpad x1 carbon business ai laptop, 14\" wuxga (192 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo ThinkPad X1 Carbon Business AI Laptop, 14\ WUXGA (192"
+seo_title: "Lenovo ThinkPad X1 Carbon Business AI Laptop, 14\  Review"
+meta_description: "Our full lenovo thinkpad x1 carbon business ai laptop, 14\ wuxga (192 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-thinkpad-x1-carbon-business-ai-laptop-14-wuxga-1920x1200-touch-ultra-b0ft9b-review"
 image_alt: "Lenovo ThinkPad X1 Carbon Business AI Laptop, 14 WUXGA (1920x1200) Touch, Ultra 7 155H, FP Reader, Wi-Fi 6E, Win11 Pro, "
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FT9BWZRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cf0D9bJhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lenovo ThinkPad X1 Carbon Review: The Business Laptop That Actually Keeps Its Promises

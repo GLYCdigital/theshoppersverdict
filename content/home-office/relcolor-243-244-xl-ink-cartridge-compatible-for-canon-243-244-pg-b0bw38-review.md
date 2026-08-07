@@ -1,4 +1,5 @@
 ---
+
 title: "Relcolor 243 244 XL Ink Cartridge Compatible for Canon 243 2"
 seo_title: "Relcolor 243 244 XL Ink Cartridge Compatible for C Review"
 meta_description: "Our full relcolor 243 244 xl ink cartridge compatible for canon 243 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW38Y619/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j9izSzGiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the research time: if you own a Canon PIXMA that takes the 243/244 cartridges — models like the TS3520, TS3522, or MG3620 — and you're tired of paying $45+ for a two-pack of OEM ink, this Relcolor XL set is the value play that actually works. But it's not without a quirk or two.

@@ -1,4 +1,5 @@
 ---
+
 title: "Schwinn Fitness Treadmill"
 seo_title: "Schwinn Fitness Treadmill Review: Verdict | TSV"
 meta_description: "Our full schwinn fitness treadmill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F79PNS4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610CNY57GlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Schwinn Fitness Treadmill: A Solid Middleweight With a Few Rough Edges

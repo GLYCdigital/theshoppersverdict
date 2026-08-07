@@ -1,4 +1,5 @@
 ---
+
 title: "MAC Studio Fix Powder Plus Foundation for Women, NC40, 0.52 "
 seo_title: "MAC Studio Fix Powder Plus Foundation for Women, N Review"
 meta_description: "Our full mac studio fix powder plus foundation for women, nc40, 0.52  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0042CKBMO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61z8ej4R7WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen this compact in every makeup artist's kit. Here's the honest question: does MAC Studio Fix Powder Plus Foundation in NC40 actually earn the hype, or is it riding on legacy? After digging through 215 Amazon ratings and testing the shade myself, here's what real shoppers need to know before dropping money on this 0.52-ounce compact.

@@ -1,4 +1,5 @@
 ---
+
 title: "NAMSAN Pet Screen Door, Dog Door for Sliding Door, Magnetic "
 seo_title: "NAMSAN Pet Screen Door, Dog Door for Sliding Door, Review"
 meta_description: "Our full namsan pet screen door, dog door for sliding door, magnetic  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F48S9MS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H5PCbrBpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 Solution to the Sliding Door Problem

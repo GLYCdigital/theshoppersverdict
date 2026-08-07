@@ -1,4 +1,5 @@
 ---
+
 title: "Coca-Cola Orange Cream Soda, 12 oz. cans (Pack of 12)"
 seo_title: "Coca-Cola Orange Cream Soda Review: 12-Pack Taste Test"
 meta_description: "Honest Coca-Cola Orange Cream Soda review: flavor profile, carbonation, sweetness, and value. Is this 12-can pack worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHYJ2VX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pr8N6EP1L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine orange cream flavor — tastes like a melted orange Creamsicle, not artificial candy"
   - "Smooth, creamy mouthfeel with balanced carbonation that doesn't bite"
   - "Classic Coca-Cola branding on familiar 12 oz. cans; easy to grab and go"
-cons:
+cons: 
   - "Sweetness level is high — closer to a dessert soda than a refresher"
   - "12-pack sells out frequently; availability can be spotty and price fluctuates"
   - "Cream flavor dominates; orange is subtle, not a bright citrus punch"
+
 ---
 
 **The Orange Creamsicle in a Can — But Is It a Daily Driver or a Treat?**

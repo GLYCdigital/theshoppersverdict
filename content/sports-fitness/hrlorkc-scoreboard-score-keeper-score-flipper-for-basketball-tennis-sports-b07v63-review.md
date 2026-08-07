@@ -1,4 +1,5 @@
 ---
+
 title: "HRLORKC Scoreboard Score Keeper Score Flipper for Basketball"
 seo_title: "HRLORKC Scoreboard Score Keeper Score Flipper for  Review"
 meta_description: "Our full hrlorkc scoreboard score keeper score flipper for basketball review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07V63L7Q6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W6hIykO4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: if you’re coaching a youth basketball game or running a weekend tournament, you don't need an electronic scoreboard with a $1,500 price tag. You need something that works, survives being dropped on a gym floor, and is readable from the bleachers. The HRLORKC Scoreboard Score Keeper aims to hit that sweet spot. Here’s the real story.

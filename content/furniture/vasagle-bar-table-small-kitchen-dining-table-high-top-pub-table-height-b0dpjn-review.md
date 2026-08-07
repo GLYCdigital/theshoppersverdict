@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Bar Table, Small Kitchen Dining Table, High Top Pub "
 seo_title: "VASAGLE Bar Table, Small Kitchen Dining Table, Hig Review"
 meta_description: "Our full vasagle bar table, small kitchen dining table, high top pub  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPJNX2X4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GvJp8KITL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VASAGLE Bar Table is the answer for small-space living that doesn't want to look cheap doing it.** At 4.6 stars from 229 Amazon ratings, this compact high-top has earned its place in cramped apartments, breakfast nooks, and home bars. But is it worth your money? Let's dig past the marketing photos.

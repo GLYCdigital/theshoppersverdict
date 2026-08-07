@@ -1,4 +1,5 @@
 ---
+
 title: "Lexar D40E Dual Drive USB 3.2 Gen 1 Type-Câ„¢ Jump Drive"
 seo_title: "Lexar D40E Dual Drive USB 3.2 Gen 1 Type-Câ„¢ Jump Review"
 meta_description: "Our full lexar d40e dual drive usb 3.2 gen 1 type-câ„¢ jump drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP8DCBX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oHbtsbdzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you live between a modern laptop and an older desktop, carrying two separate flash drives is a pain. The Lexar D40E Dual Drive solves that with a simple trick: both USB-C and USB-A connectors on a single stick, protected by a rotating collar. At 4.5 stars across 225 ratings, it's clearly doing something right. But is it the right drive for your workflow? Let's dig in.

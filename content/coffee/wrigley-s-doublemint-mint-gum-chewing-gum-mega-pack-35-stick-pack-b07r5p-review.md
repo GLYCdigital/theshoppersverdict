@@ -1,4 +1,5 @@
 ---
+
 title: "WRIGLEY'S DOUBLEMINT Mint Gum Chewing Gum Mega Pack, 35 Stic"
 seo_title: "WRIGLEY'S DOUBLEMINT Mint Gum Chewing Gum Mega Pac Review"
 meta_description: "Our full wrigley's doublemint mint gum chewing gum mega pack, 35 stic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07R5P3DX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eCso5+GsL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is a review of Wrigley's Doublemint gum, not a coffee maker. The product data says "coffee maker or coffee gear," but that's clearly a mislabel. What you're actually looking at is a 35-stick mega pack of one of the most recognizable mint gums on the planet. And for what it is — a bulk gum purchase — it does the job well, with a few honest caveats.

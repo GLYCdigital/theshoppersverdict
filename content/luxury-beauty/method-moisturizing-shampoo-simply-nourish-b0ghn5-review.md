@@ -1,4 +1,5 @@
 ---
+
 title: "Method Moisturizing Shampoo, Simply Nourish"
 seo_title: "Method Moisturizing Shampoo, Simply Nourish Review: Verdi"
 meta_description: "Our full method moisturizing shampoo, simply nourish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHN56Q9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about something: most drugstore "moisturizing" shampoos are just sulfate-heavy formulas with a marketing sticker slapped on the front. Method's Simply Nourish isn't that. This is a genuinely different formulation — sulfate-free, plant-based cleansers, and a texture that tells you immediately it's not your standard grocery store shampoo. But is it worth the premium price tag? I tested it for three weeks, and here's the real story.

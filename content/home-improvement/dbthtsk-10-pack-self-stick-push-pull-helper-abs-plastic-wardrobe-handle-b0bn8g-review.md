@@ -1,4 +1,5 @@
 ---
+
 title: "DBTHTSK 10 Pack Self-Stick Push Pull Helper ABS Plastic Ward"
 seo_title: "DBTHTSK Self-Stick Push Pull Helper Review: 10-Pack Worth It?"
 meta_description: "DBTHTSK 10-pack self-stick push-pull cabinet handles reviewed. Are these no-drill ABS plastic pulls durable? Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BN8GXV5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51V+vwWsW5L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Pre-applied 3M adhesive strips bond instantly; most buyers report zero drilling needed even on painted MDF"
   - "Low-profile design (roughly 1.5-inch depth) clears knuckles on tight kitchen layouts"
   - "10-pack pricing lands around $1.30 per handle — cheaper than a single brass pull at big-box stores"
-cons:
+cons: 
   - "ABS plastic flexes noticeably if you grip it at the edges rather than the center; thin-walled sections can crack with overtightened screws"
   - "Adhesive fails on textured, porous, or previously painted-over surfaces — several buyers report pulls dropping within 2 weeks"
+
 ---
 
 **The no-drill cabinet handle that actually stays put — mostly**

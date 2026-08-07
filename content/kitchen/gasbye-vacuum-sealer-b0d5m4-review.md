@@ -1,4 +1,5 @@
 ---
+
 title: "Gasbye Vacuum Sealer"
 seo_title: "Gasbye Vacuum Sealer Review: Verdict | TSV"
 meta_description: "Our full gasbye vacuum sealer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D5M47YSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817IsEJbe7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Gasbye Vacuum Sealer Review: The $40 Question Is Whether You Need Fancy Features

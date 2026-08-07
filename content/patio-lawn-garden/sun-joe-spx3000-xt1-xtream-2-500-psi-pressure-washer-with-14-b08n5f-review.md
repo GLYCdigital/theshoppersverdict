@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Joe SPX3000-XT1 XTREAM 2,500 PSI Pressure Washer with 14"
 seo_title: "Sun Joe SPX3000-XT1 XTREAM 2,500 PSI Pressure Wash Review"
 meta_description: "Our full sun joe spx3000-xt1 xtream 2,500 psi pressure washer with 14 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08N5F26XN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QSdwCeyVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sun Joe SPX3000-XT1 XTREAM Review: Budget Pressure Washer That Actually Delivers

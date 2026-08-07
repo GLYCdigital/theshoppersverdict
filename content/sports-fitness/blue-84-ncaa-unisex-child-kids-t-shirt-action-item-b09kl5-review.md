@@ -1,4 +1,5 @@
 ---
+
 title: "Blue 84 NCAA Unisex-Child Kids T-Shirt Action Item"
 seo_title: "Blue 84 NCAA Kids T-Shirt Review: Real Fan Gear for Little Ones"
 meta_description: "Honest Blue 84 NCAA Unisex-Child Kids T-Shirt review: fit, fabric quality, screen print durability, sizing quirks, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KL5628H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aBaVsSqfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Screen print holds up through 20+ washes without cracking or peeling — verified by multiple long-term buyers"
   - "True athletic fit that's trimmer than typical kids' tees, which parents of slim kids will appreciate"
   - "Officially licensed NCAA gear at a price point that won't make you wince when it gets stained at the tailgate"
-cons:
+cons: 
   - "Runs noticeably small — order one size up, especially for kids who aren't stick-thin"
   - "100% cotton with no moisture-wicking treatment, so it's not ideal for high-sweat sports practices"
+
 ---
 
 ## The "Action Item" tee is a sleeper hit for young fans

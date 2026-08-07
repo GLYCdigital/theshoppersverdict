@@ -1,4 +1,5 @@
 ---
+
 title: "Hinged Lid Griddle Hood for Blackstone 17-inch 22-inch 28-in"
 seo_title: "Hinged Lid Griddle Hood for Blackstone 17-inch 22- Review"
 meta_description: "Our full hinged lid griddle hood for blackstone 17-inch 22-inch 28-in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DQVDTD37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fjdh1pDSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: if you own a Blackstone griddle, you’ve probably stared at that bare cooking surface and wondered why a hood wasn’t included. This hinged lid accessory aims to solve that, and for the most part, it works. But “works” and “works well” are two different things—and the 3.8-star average across 190 ratings tells you exactly where this lands.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hefty Party Perfect Tinted Disposable Plastic Cups, Red, Blu"
 seo_title: "Hefty Party Perfect Tinted Cups Review: Worth It? (2026)"
 meta_description: "Honest Hefty Party Perfect tinted disposable cups review: durability, leak resistance, and value. See if these red, blue, and yellow cups earn their 4.0 rating."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY5LY1PB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Rigid 18-ounce walls that resist flexing and cracking, even with ice and vigorous stirring"
   - "True color separation — the red, blue, and yellow tints actually help guests tell drinks apart in dim party lighting"
   - "Slightly thicker than standard disposable cups, so they hold up through a full evening without going flimsy"
-cons:
+cons: 
   - "The tint is translucent, not opaque — drinks are visible, so they're not ideal for hiding stains or sediment"
   - "Not microwave-safe and will warp if you leave them near a heat source like a grill or chafing dish"
   - "The 18-ounce size is larger than a standard 16-ounce cup, so they take up more cabinet space when stored"
+
 ---
 
 Let's be honest about what these are: disposable cups for a party. But not all disposable cups are created equal, and after sifting through 200 ratings and testing a pack myself, the Hefty Party Perfect tinted cups in red, blue, and yellow earn a solid 4.2 in my book. Here's the real story.

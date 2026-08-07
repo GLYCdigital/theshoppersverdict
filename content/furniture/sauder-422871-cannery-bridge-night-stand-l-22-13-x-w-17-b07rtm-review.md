@@ -1,7 +1,8 @@
 ---
-title: "Sauder 422871 Cannery Bridge Night Stand, L: 22.13\" x W: 17."
+
+title: "Sauder 422871 Cannery Bridge Night Stand, L: 22.13\ x W: 17."
 seo_title: "Sauder 422871 Cannery Bridge Night Stand, L: 22.13 Review"
-meta_description: "Our full sauder 422871 cannery bridge night stand, l: 22.13\" x w: 17. review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full sauder 422871 cannery bridge night stand, l: 22.13\ x w: 17. review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sauder-422871-cannery-bridge-night-stand-l-22-13-x-w-17-b07rtm-review"
 image_alt: "Sauder 422871 Cannery Bridge Night Stand, L: 22.13 x W: 17.56 x H: 25.71, Mystic Oak Finish"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07RTMT157/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H5YP6kFhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a nightstand under $100, you've probably seen the Sauder Cannery Bridge pop up more than once. With a 4.4-star average across 220 ratings, it's one of those Amazon furniture staples that either impresses or frustrates depending on what you expect. Here's the honest breakdown after digging into specs, customer feedback, and real-world use.

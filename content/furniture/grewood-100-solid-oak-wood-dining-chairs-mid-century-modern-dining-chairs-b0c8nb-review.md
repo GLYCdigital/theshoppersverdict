@@ -1,4 +1,5 @@
 ---
+
 title: "Grewood 100% Solid Oak Wood Dining Chairs,Mid Century Modern"
 seo_title: "Grewood Solid Oak Dining Chairs Review (2026): Worth It?"
 meta_description: "Grewood solid oak dining chairs review: real build quality, comfort, and value. See what 204 buyers say before you spend. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C8NBYLT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YYE1JATZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100% solid oak — no veneer, no MDF. The grain is visible and will patina nicely over years."
   - "Mid-century silhouette with angled legs and a gently curved backrest that actually supports your lumbar."
   - "Assembly takes under 15 minutes per chair with included hex wrench; hardware is pre-threaded into the seat."
-cons:
+cons: 
   - "Seat is hard — no padding. You'll want cushions for meals over 30 minutes."
   - "Finish is matte and light; it shows water rings and scratches more readily than darker woods."
   - "No floor protectors on the legs — buy felt pads or you'll scratch hardwood."
+
 ---
 
 **Opening: The honest first impression**

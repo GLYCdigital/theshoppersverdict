@@ -1,4 +1,5 @@
 ---
+
 title: "Smart Color Art 140 Colors Gel Pens Set Gel Pen for Adult Co"
 seo_title: "Smart Color Art 140 Colors Gel Pens Set Gel Pen fo Review"
 meta_description: "Our full smart color art 140 colors gel pens set gel pen for adult co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B072BTC5PV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rJnJ2MEnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "140-color" pen sets are a gimmick. They cram in 40 near-identical blues, use cheap dye-based ink that feathers on anything less than 90gsm paper, and the barrel snaps if you look at it wrong. The Smart Color Art 140 set isn't that — mostly. Here's the real breakdown after digging through 225 ratings and knowing what to look for.

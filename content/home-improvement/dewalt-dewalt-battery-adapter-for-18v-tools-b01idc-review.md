@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Dewalt Battery Adapter for 18V Tools"
 seo_title: "DEWALT 18V Battery Adapter Review: Does It Work?"
 meta_description: "DEWALT 18V battery adapter review: real-world testing, compatibility, durability, and whether this $20 adapter is worth it for your old tools."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01IDC214E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5171Xa+KTOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Breathes new life into legacy 18V tools using modern 20V MAX batteries"
   - "Solid ABS construction handles drops and vibration on job sites"
   - "Works with 1.5Ah through 6Ah batteries without clearance issues"
-cons:
+cons: 
   - "Adds roughly 1.5 inches of length, making tools feel front-heavy"
   - "No locking tab — batteries can pop loose if you grip them wrong"
+
 ---
 
 If you've got a garage full of perfectly good DEWALT 18V tools from a decade ago, this adapter is the bridge between your old workhorses and the modern 20V MAX battery lineup. Instead of shelling out hundreds for new tools, this $20-ish piece of plastic lets you run your old drill, saw, or impact driver on the batteries you probably already own. The math works out fast.

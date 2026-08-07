@@ -1,5 +1,6 @@
 ---
 
+
 title: "Greenvelly Metal Twin Bed"
 seo_title: "Greenvelly Metal Twin Bed Review: Sturdy, Simple, Smart Buy"
 meta_description: "Read our Greenvelly Metal Twin Bed review. Is this 4.4-star frame worth your money? We break down build quality, assembly, and who it's best for."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVMD4WRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HJZterEcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free assembly in under 30 minutes thanks to a snap-lock mechanism — no wrench or screwdriver required"
   - "Heavy-duty steel frame with 13 reinforced support slats eliminates the need for a box spring, saving you $80–120 inch"
   - "Under-bed clearance of 11.5 inches fits standard storage bins neatly for small-space organization"
-cons:
+cons: 
   - "Metal frame creaks on hardwood floors after several weeks unless you add felt pads to the legs"
   - "Headboard is purely decorative — there's no padding, so leaning against it while reading gets uncomfortable fast"
+
 
 ---
 

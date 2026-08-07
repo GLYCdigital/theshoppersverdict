@@ -1,4 +1,5 @@
 ---
+
 title: "MOTPK Full Shelf Gaming Desk with Power Outlet & LED Lights,"
 seo_title: "MOTPK Full Shelf Gaming Desk with Power Outlet & L Review"
 meta_description: "Our full motpk full shelf gaming desk with power outlet & led lights, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C58GKP1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81L5X1D2ibL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MOTPK Full Shelf Gaming Desk: The Storage-First Desk That Actually Delivers

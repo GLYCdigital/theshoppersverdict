@@ -1,4 +1,5 @@
 ---
+
 title: "lampshades Medium Set of 2 for Table Lamps Lampshades Floor "
 seo_title: "lampshades Medium Set of 2 for Table Lamps Lampsha Review"
 meta_description: "Our full lampshades medium set of 2 for table lamps lampshades floor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSDFPMJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xrq47yqwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear: buying lampshades online is a gamble. The dimensions are never quite what you pictured, the fabric looks different under your ceiling lights, and the fitting doesn’t match that thrift-store lamp you love. So when a set of two medium shades holds a 4.6 average across 229 ratings, that’s a signal worth investigating.

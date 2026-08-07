@@ -1,4 +1,5 @@
 ---
+
 title: "Exact Index Cardstock, 94 Brightness, 90 lb /163 gsm, 1000 S"
 seo_title: "Exact Index Cardstock Review: 90 lb Heavyweight for Crafts & Printing"
 meta_description: "Read our Exact Index Cardstock review. 90 lb/163 gsm, 94 brightness, 1000 sheets. Tested for printing, crafts, and durability. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B073CCQZQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gg+vIKDRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine 90 lb / 163 gsm weight — thick enough for business cards and invitations without jamming standard printers"
   - "94 brightness gives crisp, high-contrast prints; colors pop without looking washed out"
   - "1000-sheet carton works out to serious per-sheet savings versus buying reams at retail"
-cons:
+cons: 
   - "Not coated — inkjet photos can bleed slightly; skip this if you need glossy photo output"
   - "Cardstock this heavy can curl if you print double-sided on a low-end inkjet; let it dry flat"
   - "Ships in a soft carton — some buyers report corner damage in transit, though sheets themselves arrive fine"
+
 ---
 
 ## The Heavyweight That Does More Than You'd Expect

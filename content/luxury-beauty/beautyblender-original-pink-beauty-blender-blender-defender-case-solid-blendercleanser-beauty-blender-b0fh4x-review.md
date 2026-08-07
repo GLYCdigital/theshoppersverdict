@@ -1,23 +1,25 @@
 ---
+
 title: "Beautyblender Original Pink + Defender Case & Cleanser Review"
 seo_title: "Beautyblender Original Pink + Defender Review (2026)"
 meta_description: "Honest Beautyblender Original Pink review: does the Defender case + solid cleanser justify the price? Real testing, pros, cons, and verdict."
 slug: "beautyblender-original-pink-beauty-blender-blender-defender-case-solid-blendercleanser-beauty-blender-b0fh4x-review"
 image_alt: "Beautyblender Original Pink sponge with Defender travel case and solid Blender Cleanser"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FH4XD3R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516gIW1NiBL._SL1200_.jpg"
-pros:  
+pros: 
   - "Original pink sponge still outperforms cheap dupes for streak-free, airbrushed foundation application"  
   - "Defender case actually protects the sponge from mildew and deformation during travel"  
   - "Solid Blender Cleanser removes stubborn foundation and concealer buildup in under 60 seconds"  
-cons:  
+cons: 
   - "The sponge degrades noticeably faster than previous batches if you use harsh cleansers or twist it while washing"  
   - "Defender case is bulky for a single sponge — won't fit in most makeup bags or small purses"
+
 ---
 
 **The original pink sponge is still the gold standard — but this bundle makes you pay for convenience you might not need.**

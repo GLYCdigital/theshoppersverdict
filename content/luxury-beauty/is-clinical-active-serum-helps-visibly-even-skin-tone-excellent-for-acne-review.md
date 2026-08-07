@@ -1,16 +1,17 @@
 ---
+
 title: "iS CLINICAL Active Serum - Helps visibly even skin tone, Excellent for acne-prone skin, Anti-Aging, Face Serum"
 seo_title: "iS CLINICAL Active Serum - Helps visibly even skin Review"
 meta_description: "Our full is clinical active serum - helps visibly even skin tone, excellent for acne-prone skin, anti-aging, face serum. Read real Amazon customer insights, "
 slug: "is-clinical-active-serum-helps-visibly-even-skin-tone-excellent-for-acne-review"
 image_alt: "iS CLINICAL Active Serum - Helps visibly even skin tone, Excellent for acne-prone skin, Anti-Aging, Face Serum"
-keywords:
+keywords: 
   - "is clinical active review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the iS CLINICAL Active Serum - Helps visibly even skin tone, Excellent for acne-prone skin, Anti-Aging, Face Serum?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 879
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0073RK3S2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oT64Q+KUL._SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 **The $96 acid cocktail that actually earns its hype — if your skin can handle it.**

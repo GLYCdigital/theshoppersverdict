@@ -1,4 +1,5 @@
 ---
+
 title: "Keter Solana 70 Gallon Storage Bench Deck Box for Patio Furn"
 seo_title: "Keter Solana 70 Gallon Storage Bench Deck Box for  Review"
 meta_description: "Our full keter solana 70 gallon storage bench deck box for patio furn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CZYJCSMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6112ekCftTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Keter Solana 70-Gallon Storage Bench: A Double-Duty Workhorse That Earns Its Spot**

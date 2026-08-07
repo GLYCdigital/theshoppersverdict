@@ -1,4 +1,5 @@
 ---
+
 title: "Kainozoic Dawn to Dusk Outdoor Sensor Motion Sensor Light Fi"
 seo_title: "Kainozoic Dawn to Dusk Outdoor Sensor Motion Senso Review"
 meta_description: "Our full kainozoic dawn to dusk outdoor sensor motion sensor light fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1Y3THJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iotfpDlWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kainozoic Dawn to Dusk outdoor light isn't the flashiest fixture on Amazon, but it's the kind of workhorse that solves a specific problem: you want light when you need it, without burning electricity all night or fumbling for a switch.**

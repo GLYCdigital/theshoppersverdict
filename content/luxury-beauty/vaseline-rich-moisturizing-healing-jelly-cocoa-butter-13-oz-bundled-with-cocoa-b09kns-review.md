@@ -1,4 +1,5 @@
 ---
+
 title: "Vaseline Rich Moisturizing Healing Jelly Cocoa Butter, 13 oz"
 seo_title: "Vaseline Rich Moisturizing Healing Jelly Cocoa But Review"
 meta_description: "Our full vaseline rich moisturizing healing jelly cocoa butter, 13 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09KNS55RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711J+VYOwmL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most petroleum jelly products are the same boring, greasy goo your grandmother swore by. The Vaseline Rich Moisturizing Healing Jelly with Cocoa Butter is different — and not just because it smells like a chocolate bar. This 13 oz jar has earned a 4.8-star average across 240 ratings for a reason. Here's the honest breakdown.

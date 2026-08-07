@@ -1,4 +1,5 @@
 ---
+
 title: "Power Pet Electronic Dog Door - Fully Automatic Sliding e-Gl"
 seo_title: "Power Pet Electronic Dog Door - Fully Automatic Sl Review"
 meta_description: "Our full power pet electronic dog door - fully automatic sliding e-gl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07LBYDKV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KCZmFEE3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a sliding glass door and a dog that acts like a prison break artist every time you leave the house, the Power Pet Electronic Dog Door is worth a hard look. This isn't the flimsy flap you wedge into a screen door — it's a fully automated sliding panel system that mounts directly into your existing door track. With 200 ratings averaging 4.0 stars, it's clearly working for a lot of people, but it's not without its quirks. Here's the breakdown you actually need before dropping money on this.

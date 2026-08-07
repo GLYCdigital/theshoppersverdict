@@ -1,23 +1,25 @@
 ---
+
 title: "Anthony-Thomas, Peanut Butter & Milk Chocolate Buckeyes in O"
 seo_title: "Anthony-Thomas Buckeyes Review: Ohio State Candy Box"
 meta_description: "Honest Anthony-Thomas Buckeyes review: taste, texture, value. Are these peanut butter & chocolate candies worth it? Real buyer verdict inside."
 slug: "anthony-thomas-peanut-butter-milk-chocolate-buckeyes-in-ohio-state-buckeyes-box-b0c28j-review"
 image_alt: "Anthony-Thomas Peanut Butter and Milk Chocolate Buckeyes in Ohio State branded gift box"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C28JSKFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A6rG3qkEL._SL1440_.jpg"
-pros:  
+pros: 
   - "Real peanut butter center with a proper ratio — not sugar-heavy like mass-market truffles"  
   - "Milk chocolate shell stays snappy at room temp, no waxy aftertaste"  
   - "Ohio State branded gift box makes it a ready-made present for alumni or Buckeye fans"  
-cons:  
+cons: 
   - "Smaller than expected — each buckeye is roughly golf-ball sized, not jumbo"  
   - "Chocolate melts fast in warm shipping conditions; order during cooler months or pay for expedited"
+
 ---
 
 Some products sell on nostalgia. Some sell on taste. The Anthony-Thomas Peanut Butter & Milk Chocolate Buckeyes sell on both — but they also sell on the fact that they're the official candy of Ohio State fandom. If you're a Buckeye alum, a Columbus transplant, or just someone who appreciates a proper peanut butter-and-chocolate ratio, this box deserves a look. But let's be clear: this isn't a novelty item. It's a legitimate confection that happens to wear a scarlet and gray jersey.

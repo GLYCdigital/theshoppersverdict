@@ -1,4 +1,5 @@
 ---
+
 title: "Minecraft - Nintendo Switch"
 seo_title: "Minecraft - Nintendo Switch Review: Verdict | TSV"
 meta_description: "Our full minecraft - nintendo switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07D13QGXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dIHv1zh7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Minecraft on the Switch isn't just a port. It's the full Bedrock Edition squeezed into a cartridge, and for a lot of families, it's the definitive way to play. But is it worth picking up in 2026, when the game is available on literally everything? Here's what you need to know.

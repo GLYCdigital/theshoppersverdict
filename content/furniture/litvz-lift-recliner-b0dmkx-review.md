@@ -1,4 +1,5 @@
 ---
+
 title: "LITVZ Lift Recliner"
 seo_title: "LITVZ Lift Recliner Review: Verdict | TSV"
 meta_description: "Our full litvz lift recliner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMKXK4CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KOfX6R5PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you or a loved one needs help getting out of a chair without sacrificing living-room aesthetics, the LITVZ Lift Recliner deserves a hard look.** This isn't a medical-looking contraption you'll want to hide in a corner. It's a proper piece of furniture that happens to include a quiet, capable lift mechanism. After digging through 215 verified buyer experiences and analyzing the specs closely, here's the real story.

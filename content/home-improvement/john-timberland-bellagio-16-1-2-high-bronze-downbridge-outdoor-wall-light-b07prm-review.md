@@ -1,7 +1,8 @@
 ---
-title: "John Timberland Bellagio 16 1/2\" High Bronze Downbridge Outd"
-seo_title: "John Timberland Bellagio 16 1/2\" High Bronze Downb Review"
-meta_description: "Our full john timberland bellagio 16 1/2\" high bronze downbridge outd review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "John Timberland Bellagio 16 1/2\ High Bronze Downbridge Outd"
+seo_title: "John Timberland Bellagio 16 1/2\ High Bronze Downb Review"
+meta_description: "Our full john timberland bellagio 16 1/2\ high bronze downbridge outd review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "john-timberland-bellagio-16-1-2-high-bronze-downbridge-outdoor-wall-light-b07prm-review"
 image_alt: "John Timberland Bellagio 16 1/2 High Bronze Downbridge Outdoor Wall Light"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PRMLQL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gc+aGTsAL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most outdoor wall lights under $100 are flimsy stamped metal that rusts within two seasons. The John Timberland Bellagio isn't that. At 16 1/2 inches tall with a solid bronze finish, this downbridge fixture has earned its 4.8-star rating across 240 reviews — and after looking at what buyers actually say, the praise is legitimate.

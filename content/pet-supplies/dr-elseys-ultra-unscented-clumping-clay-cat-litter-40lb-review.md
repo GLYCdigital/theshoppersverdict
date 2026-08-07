@@ -1,16 +1,17 @@
 ---
+
 title: "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter, 40 lb Bag"
 seo_title: "Dr. Elsey's Ultra Cat Litter Review — 4.3★ by 95K+ Cat Owners"
 meta_description: "Dr. Elsey's Ultra Unscented Clumping Cat Litter review: 95,521 reviews analyzed. 99.9% dust-free, hard clumping, low tracking. Is the 40lb bag the best value in cat litter?"
 slug: "dr-elseys-ultra-unscented-clumping-clay-cat-litter-40lb-review"
 image_alt: "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter 40lb Bag"
-keywords:
+keywords: 
   - "Dr. Elsey's cat litter review"
   - "best unscented clumping cat litter"
   - "Dr. Elsey's Ultra review"
   - "low dust cat litter"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Is Dr. Elsey's Ultra really 99.9% dust-free?"
     answer: "Yes, it's exceptionally low-dust compared to most clay litters. While no clay litter is completely dust-free, Dr. Elsey's produces far less airborne dust than Tidy Cats, Fresh Step, or most store brands when pouring and scooping."
   - question: "How well does it control odor without added scent?"
@@ -23,14 +24,15 @@ review_count: 95521
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gV7T7iW-L._AC_SL1444_.jpg"
-pros:
+pros: 
   - "95,521 reviews — one of the most trusted cat litters on Amazon"
   - "Exceptional odor control without artificial scents — truly neutralizes smells"
   - "Hard clumping makes scooping fast and easy, less waste per scoop"
-cons:
+cons: 
   - "Clumps can bond to the bottom of the box if you don't use enough depth (fill 3-4 inches)"
   - "40lb bag is very heavy — delivery drivers may not love you, but it's great value"
   - "Some users find the clumps almost too hard — they can be difficult to break up in small scoops"
+
 ---
 
 With 95,521 Amazon reviews at 4.3 stars, Dr. Elsey's Ultra is the most-reviewed cat litter on the platform — for good reason. Cat owners are passionate about litter (seriously, read the reviews) and what they say about this stuff borders on evangelical.

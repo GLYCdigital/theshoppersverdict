@@ -1,4 +1,5 @@
 ---
+
 title: "MAXYOYO Loveseat Sofa for Living Room, Small Sofa Couch Tuft"
 seo_title: "MAXYOYO Loveseat Sofa for Living Room, Small Sofa  Review"
 meta_description: "Our full maxyoyo loveseat sofa for living room, small sofa couch tuft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FNWDW896/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xwSl-u10L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: the MAXYOYO Loveseat is not trying to be your grandparent’s plush living room centerpiece. This is a pragmatic, space-saving solution for small apartments, dorm rooms, and home offices — and for that job, it does remarkably well. With a 4.0-star average across 200 ratings, buyers generally agree, though the complaints reveal some real tradeoffs you should know before clicking buy.

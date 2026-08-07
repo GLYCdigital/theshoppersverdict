@@ -1,4 +1,5 @@
 ---
+
 title: "BIXBI Liberty Dry Cat Food Health Formula for Indoor, Kitten"
 seo_title: "BIXBI Liberty Kitten Food Review: Real Meat, Digestive Support"
 meta_description: "Honest BIXBI Liberty kitten food review: US-sourced chicken, pumpkin for digestion, no fillers. See pros, cons, and if it's right for your indoor kitten."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GW89YWDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qEckt52ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deboned chicken is the first ingredient — not a meat meal or byproduct"
   - "Pumpkin and dried Bacillus subtilis fermentation product support healthy digestion in sensitive kittens"
   - "No corn, wheat, soy, or artificial preservatives — clean ingredient list for the price point"
-cons:
+cons: 
   - "Kibble size is small but slightly hard; very young kittens (under 8 weeks) may need it moistened"
   - "No grain-free claim — contains brown rice, which some owners specifically avoid"
   - "Transition period can cause loose stools if you skip a 7-10 day gradual switch"
+
 ---
 
 ## Is BIXBI Liberty Actually Worth It for Your Kitten?

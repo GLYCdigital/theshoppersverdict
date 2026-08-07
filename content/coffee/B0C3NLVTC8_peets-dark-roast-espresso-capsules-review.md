@@ -1,4 +1,5 @@
 ---
+
 title: "Peet's Coffee Dark Roast Espresso Capsules Variety Pack"
 seo_title: "Peet's Dark Roast Espresso Capsules Review (2026)"
 meta_description: "Honest Peet's Dark Roast Espresso Capsules Variety Pack review: flavor breakdown, value, and whether this 4.5-star coffee is worth $58. Read before buying."
@@ -11,13 +12,14 @@ review_count: 283
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3NLVTC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mYjGbDXmL._SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct dark roast profiles (Café Domingo, Ricchezza, and Major Dickason's Blend) in one box — genuinely different flavor experiences, not just repackaged beans"
   - "Aluminum capsules with a firm crimp that hold up in high-pressure extraction without blowing out, unlike cheaper plastic pods"
   - "Bold, syrupy crema that holds for 30+ seconds — closer to café espresso than most supermarket capsules"
-cons:
+cons: 
   - "Price per capsule works out to roughly $0.97 — significantly more than generic Nespresso-compatible pods, and you get only 60 capsules in the box"
   - "Not all capsules are compatible with every machine — they're designed for Nespresso OriginalLine, so Vertuo owners are out of luck"
+
 ---
 
 Peet's isn't trying to win a popularity contest with this variety pack. These are serious dark roasts — the kind that leave a lingering bitterness that coffee drinkers either crave or curse. At $58.42 for 60 capsules, you're paying premium prices for what many consider the closest thing to café-quality espresso you can brew at home with a pod machine. The question is whether the flavor justifies the cost.

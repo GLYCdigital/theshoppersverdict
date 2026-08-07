@@ -1,4 +1,5 @@
 ---
+
 title: "GBC Paper Shredder, Auto Feed+, 60 Sheet Capacity, Super Cro"
 seo_title: "GBC Paper Shredder, Auto Feed+, 60 Sheet Capacity, Review"
 meta_description: "Our full gbc paper shredder, auto feed+, 60 sheet capacity, super cro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09QRWY19S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xcfszNgwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GBC Auto Feed+ isn't another desktop shredder that demands you babysit every sheet. This is the machine you set and forget — at least until the bin fills up. With a 60-sheet auto-feed capacity and super cross-cut blades, it's aimed squarely at home offices and small teams drowning in paperwork. But does it justify the premium over a standard strip-cut unit? Let's dig in.

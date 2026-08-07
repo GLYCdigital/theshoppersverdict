@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters [USB-IF Certified] 10Gbps Gen 2 USBA to USB C"
 seo_title: "Cable Matters USB-A to USB-C 10Gbps Review (2026)"
 meta_description: "Cable Matters USB-IF Certified 10Gbps USB-A to USB-C cable review: speed, build quality, compatibility, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XMY49BM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qk1cQAWAL._SL1500_.jpg"
-pros:
+pros: 
   - "USB-IF certified, so it actually sustains 10Gbps without negotiation drops"
   - "Braided nylon jacket with reinforced strain reliefs — survives daily bag carry"
   - "Backward compatible with USB 3.0/2.0 ports, so it works with older hardware"
-cons:
+cons: 
   - "Stiff cable — not ideal for tight cable management or right-angle routing"
   - "No E-Marker chip for power delivery, so don't expect fast charging above 15W"
+
 ---
 
 Let's be blunt: most USB-C cables on Amazon are lying to you. They say "10Gbps" on the listing, then you plug in an external SSD and watch the transfer speed crawl at 400MB/s. The Cable Matters Gen 2 USB-A to USB-C cable is not one of those cables. It's USB-IF certified — meaning an independent lab verified it can actually sustain 10Gbps (1,250MB/s theoretical) without handshake failures. At a 4.7-star average across 235 ratings, it's earned its reputation.

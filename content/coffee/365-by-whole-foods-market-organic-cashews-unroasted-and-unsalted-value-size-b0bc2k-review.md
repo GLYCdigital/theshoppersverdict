@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Cashews, Unroasted and Un"
 seo_title: "365 Organic Cashews Review: Unroasted, Unsalted, Worth It?"
 meta_description: "Honest 365 by Whole Foods Organic Cashews review: unroasted, unsalted, value size. Texture, taste, and who should buy. Verdict: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BC2KLYVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sGFb+DSML._SL1000_.jpg"
-pros:
+pros: 
   - "Truly unroasted — retains that soft, creamy raw texture roasted nuts lose entirely"
   - "No added oil, salt, or sugar; single-ingredient clean label that lives up to the Whole Foods 365 standard"
   - "Value size bag holds up well; cashews arrive mostly whole with minimal broken pieces"
-cons:
+cons: 
   - "Unroasted flavor is subtle — if you expect roasted depth, you'll be underwhelmed"
   - "Bag is resealable but the zipper can be finicky; transfer to a jar if you're not using them daily"
+
 ---
 
 **The raw cashew dilemma: buy cheap, get stale. Buy premium, get… still stale sometimes. The 365 by Whole Foods Market Organic Cashews (Unroasted & Unsalted) sit in a middle zone that surprises most shoppers — and the 4.8-star rating across 240 reviews suggests this isn't luck.**

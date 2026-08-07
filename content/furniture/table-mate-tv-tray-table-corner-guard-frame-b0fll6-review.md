@@ -1,4 +1,5 @@
 ---
+
 title: "Table-Mate TV Tray Table Corner Guard Frame"
 seo_title: "Table-Mate TV Tray Table Corner Guard Frame Review: Verdi"
 meta_description: "Our full table-mate tv tray table corner guard frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FLL6VZJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p6UyHOCQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Table-Mate TV Tray Table Corner Guard Frame Review: Does This $30 Bracket Actually Fix the Wobble?

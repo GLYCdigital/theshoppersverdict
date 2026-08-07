@@ -1,4 +1,5 @@
 ---
+
 title: "MSI Stealth 18 HX AI 18â€"
 seo_title: "MSI Stealth 18 HX AI 18â€ Review: Verdict | TSV"
 meta_description: "Our full msi stealth 18 hx ai 18â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F95K93FN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71madPoggDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MSI Stealth 18 HX AI is a paradox. It's marketed as a "stealth" machine, yet it packs the most powerful mobile components money can buy. After digging through 195 Amazon ratings and analyzing the spec sheet, here's the real story for anyone considering this near-$4,000 investment.

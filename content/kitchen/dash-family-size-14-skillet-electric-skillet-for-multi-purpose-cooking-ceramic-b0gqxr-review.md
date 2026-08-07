@@ -1,4 +1,5 @@
 ---
+
 title: "Dash Family Size 14 inch  Skillet - Electric Skillet for Multi-Pu"
 seo_title: "Dash Family Size 14 inch  Skillet Review: Worth It? (2026)"
 meta_description: "Honest Dash Family Size 14 inch  electric skillet review: ceramic surface, even heating, real pros/cons, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQXRKSQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xx-22K-EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 14-inch cooking surface fits a full family meal — 6 chicken breasts or a dozen eggs without crowding"
   - "Ceramic non-stick coating is PTFE and PFOA free, and it holds up better than cheap Teflon pans"
   - "Dishwasher-safe pan insert makes cleanup genuinely easy, not just marketing talk"
-cons:
+cons: 
   - "Temperature dial lacks precise markings — you're guessing between Low/Med/High, not cooking at exact degrees"
   - "Cord is short (about 2 feet), which limits where you can place it on a counter"
   - "Heating element runs hotter near the edges; you'll need to rotate food for perfectly even browning"
+
 ---
 
 **The 14-inch electric skillet that actually earns counter space**

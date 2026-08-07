@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Green Outdoor Odor Eliminator for Pets, Dogs, Ideal f"
 seo_title: "Simple Green Outdoor Odor Eliminator for Pets, Dog Review"
 meta_description: "Our full simple green outdoor odor eliminator for pets, dogs, ideal f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CP3DK72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QdI0XPBFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If you have a dog, a patch of artificial grass, and a nose, this is worth a shot — but don’t expect magic on everything.**  

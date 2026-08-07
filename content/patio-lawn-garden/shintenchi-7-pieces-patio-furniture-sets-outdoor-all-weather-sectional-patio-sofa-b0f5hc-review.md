@@ -1,4 +1,5 @@
 ---
+
 title: "Shintenchi 7 Pieces Patio Furniture Sets Outdoor All-Weather"
 seo_title: "Shintenchi 7 Pieces Patio Furniture Sets Outdoor A Review"
 meta_description: "Our full shintenchi 7 pieces patio furniture sets outdoor all-weather review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F5HC6MP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ma6NvIWkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Shintenchi 7-Piece Patio Furniture Set: Budget Sectional or False Economy?

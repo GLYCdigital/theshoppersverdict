@@ -1,4 +1,5 @@
 ---
+
 title: "NIVEA Pampering Cocoa and Shea Butter Body Wash with Nourish"
 seo_title: "NIVEA Pampering Cocoa and Shea Butter Body Wash wi Review"
 meta_description: "Our full nivea pampering cocoa and shea butter body wash with nourish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CS7RK1XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oM96bx4JL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some body washes clean you. A few actually moisturize. The NIVEA Pampering Cocoa and Shea Butter Body Wash with Nourish sits firmly in that second camp — and with 229 ratings averaging 4.6 stars, it's clear I'm not the only one who noticed. But is it worth your shower shelf space? Let's break down what this $8-ish (price varies) bottle actually delivers.

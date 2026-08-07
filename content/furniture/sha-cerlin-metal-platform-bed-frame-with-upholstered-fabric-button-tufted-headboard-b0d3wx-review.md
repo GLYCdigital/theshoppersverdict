@@ -1,4 +1,5 @@
 ---
+
 title: "SHA CERLIN Metal Platform Bed Frame with Upholstered Fabric "
 seo_title: "SHA CERLIN Metal Platform Bed Frame with Upholster Review"
 meta_description: "Our full sha cerlin metal platform bed frame with upholstered fabric  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3WXXRBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kESlYULaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever assembled a bed frame that required a PhD in engineering and a second pair of hands, the SHA CERLIN Metal Platform Bed Frame is a breath of fresh air. At 4.4 stars across 220 ratings, it's clearly doing something right — but let's be honest about what you're actually getting for your money.

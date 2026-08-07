@@ -1,4 +1,5 @@
 ---
+
 title: "JayRex Bathroom Organizer Countertop Corner Shelf, Kitchen C"
 seo_title: "JayRex Bathroom Organizer Countertop Corner Shelf, Review"
 meta_description: "Our full jayrex bathroom organizer countertop corner shelf, kitchen c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B7SHLW4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fmH8nPkWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the JayRex Bathroom Organizer Countertop Corner Shelf is a deceptively simple product that solves a genuinely annoying problem. If you’ve got a cluttered bathroom vanity or a kitchen counter where spice bottles and oils are staging a hostile takeover, this 3-tier corner unit is worth a hard look. But as with anything that claims to do double duty, there are tradeoffs worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Igloo 5 Gallon Seat Top Beverage Jug with spigot - (3 Contai"
 seo_title: "Igloo 5 Gallon Seat Top Beverage Jug with spigot - Review"
 meta_description: "Our full igloo 5 gallon seat top beverage jug with spigot - (3 contai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07DGZ521P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GyWcjAOxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5-Gallon Workhorse That Doubles as a Seat — But Don't Expect a Cooler**

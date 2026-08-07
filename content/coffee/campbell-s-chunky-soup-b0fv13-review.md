@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's Chunky Soup"
 seo_title: "Campbell's Chunky Soup Review: Is It Worth It? (2026)"
 meta_description: "Campbell's Chunky Soup review: hearty portions, real ingredients, but high sodium. We break down flavors, value, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FV13CH4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c79pZVmxL._SL1500_.jpg"
-pros:
+pros: 
   - "Substantial chunk sizes — actual fork-ready meat and vegetables, not broth-heavy filler"
   - "Consistent flavor across the core lineup (Chicken Noodle, New England Clam Chowder, Steak & Potato)"
   - "One 18.8-oz can is genuinely filling — most adults can't finish a full can in one sitting"
-cons:
+cons: 
   - "Sodium content is aggressive — one can pushes 1,700-1,900mg, nearly 80% of daily recommended intake"
   - "Texture consistency varies by batch — some cans arrive with mushy potatoes or overcooked pasta"
+
 ---
 
 Let's be clear about one thing: this isn't a coffee maker. The product data says "coffee maker or coffee gear," but that's wrong. Campbell's Chunky Soup is a shelf-stable, ready-to-heat meal that's been a pantry staple for decades. What you're actually getting here is a 18.8-ounce can of dense, hearty soup that's designed to replace a meal, not complement one. And for the most part, it delivers on that promise.

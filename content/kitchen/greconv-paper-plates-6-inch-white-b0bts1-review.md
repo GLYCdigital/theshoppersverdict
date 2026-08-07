@@ -1,4 +1,5 @@
 ---
+
 title: "Greconv Paper Plates 6 Inch, White"
 seo_title: "Greconv Paper Plates 6 Inch, White Review: Verdict | TSV"
 meta_description: "Our full greconv paper plates 6 inch, white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTS1F7J1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lbZMPLcIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy 6-inch paper plates for turkey dinners. You buy them for snacks, parties, and the chaos of feeding small humans. Greconv's offering in this category is quietly better than most, and 229 ratings at 4.6 stars suggest I'm not alone in noticing.

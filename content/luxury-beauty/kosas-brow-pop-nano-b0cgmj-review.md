@@ -1,4 +1,5 @@
 ---
+
 title: "Kosas Brow Pop Nano"
 seo_title: "Kosas Brow Pop Nano Review: Verdict | TSV"
 meta_description: "Our full kosas brow pop nano review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CGMJZKJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41iUU4Db3ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "clean" brow pencils are a compromise. You get a formula that's good for your skin but terrible at staying put, or a color payoff that fades by lunch. The Kosas Brow Pop Nano tries to be the exception — and for the most part, it pulls it off.

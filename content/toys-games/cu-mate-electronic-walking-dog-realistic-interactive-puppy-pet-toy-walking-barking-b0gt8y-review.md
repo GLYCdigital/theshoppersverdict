@@ -1,4 +1,5 @@
 ---
+
 title: "CU-MATE Electronic Walking Dog, Realistic Interactive Puppy"
 seo_title: "CU-MATE Electronic Walking Dog Review: Realistic Interactive Puppy"
 meta_description: "CU-MATE Electronic Walking Dog review: realistic barking, walking, and interactive features. Is this robotic puppy worth it for kids? Find out now."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT8YLCFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61392M0UtqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic walking motion with head movements that actually track forward while moving"
   - "Responsive touch sensors on head and back trigger distinct barking and tail-wag reactions"
   - "Sturdy ABS plastic body holds up to drops and rough play from younger children"
-cons:
+cons: 
   - "Barking volume is fixed with no volume control — loud enough to be annoying indoors"
   - "Requires 4 C batteries (not included) and chews through them in about 6-8 hours of play"
   - "Walking mechanism stalls on thick carpet; only works smoothly on hard floors or low-pile rugs"
+
 ---
 
 **The Honest Truth About the CU-MATE Electronic Walking Dog**

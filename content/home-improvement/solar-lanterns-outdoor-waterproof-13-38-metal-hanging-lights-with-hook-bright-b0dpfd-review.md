@@ -1,7 +1,8 @@
 ---
-title: "Solar Lanterns Outdoor Waterproof, 13.38\" Metal Hanging Ligh"
-seo_title: "Solar Lanterns Outdoor Waterproof, 13.38\" Metal Ha Review"
-meta_description: "Our full solar lanterns outdoor waterproof, 13.38\" metal hanging ligh review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Solar Lanterns Outdoor Waterproof, 13.38\ Metal Hanging Ligh"
+seo_title: "Solar Lanterns Outdoor Waterproof, 13.38\ Metal Ha Review"
+meta_description: "Our full solar lanterns outdoor waterproof, 13.38\ metal hanging ligh review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "solar-lanterns-outdoor-waterproof-13-38-metal-hanging-lights-with-hook-bright-b0dpfd-review"
 image_alt: "Solar Lanterns Outdoor Waterproof, 13.38 Metal Hanging Lights with Hook, Bright and Warm Classic Outdoor Solar Lights fo"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPFDLXKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bk7iHgO9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 13.38-Inch Metal Solar Lantern: A Patio Upgrade That Actually Works**

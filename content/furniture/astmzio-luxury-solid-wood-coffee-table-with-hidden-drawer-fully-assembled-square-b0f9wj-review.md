@@ -1,4 +1,5 @@
 ---
+
 title: "ASTMZIO Luxury Solid Wood Coffee Table with Hidden Drawer, F"
 seo_title: "ASTMZIO Solid Wood Coffee Table Review: Hidden Drawer, Pros & Cons"
 meta_description: "Read our honest ASTMZIO luxury solid wood coffee table review. Hidden drawer, square design, real wood build, and what buyers complain about. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F9WJSRLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ikMn2VL8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fully assembled out of the box — no tools, no confusing hardware, no stripped screws. You unbox it and put it in place."
   - "Genuine solid wood construction with a visible grain pattern; feels dense and substantial, not like veneer over particleboard."
   - "Hidden drawer is integrated into the frame, not a visible add-on, so the table keeps a clean, minimalist silhouette."
-cons:
+cons: 
   - "The solid wood top is prone to showing water rings and scratches — you'll want coasters and a protective finish from day one."
   - "Assembly-free shipping means the box is heavy and awkward; moving it upstairs or through narrow doorways is a two-person job."
+
 ---
 
 **The short version:** If you're tired of flat-pack coffee tables that wobble after six months and leave you with a drawer full of Allen wrenches, the ASTMZIO Luxury Solid Wood Coffee Table is a breath of fresh air. It arrives fully assembled, weighs enough to feel genuinely solid, and hides a storage drawer you'd never notice from across the room. But it's not perfect — and the 4.0-star average from 200 ratings tells you there are a few tradeoffs worth knowing before you buy.

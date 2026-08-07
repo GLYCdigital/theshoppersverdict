@@ -1,4 +1,5 @@
 ---
+
 title: "MZK Cordless Leaf Blower,20V Battery Powered Electric Blower"
 seo_title: "MZK Cordless Leaf Blower,20V Battery Powered Elect Review"
 meta_description: "Our full mzk cordless leaf blower,20v battery powered electric blower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWN5BTNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dhEg1SE-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MZK 20V Cordless Leaf Blower: A Lightweight Fix for Small-Space Cleanup**

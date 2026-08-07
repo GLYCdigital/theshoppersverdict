@@ -1,4 +1,5 @@
 ---
+
 title: "Lash Serum: Eyelash Growth Serum Gentle Natural Vegan Enhanc"
 seo_title: "Lash Serum: Eyelash Growth Serum Gentle Natural Ve Review"
 meta_description: "Our full lash serum: eyelash growth serum gentle natural vegan enhanc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0FT7F7Z93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715TDKRwf3L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is This the Gentle Lash Growth Serum You've Been Searching For?**

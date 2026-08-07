@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Patio Furniture Set 4 Pieces, Outdoor Wicker Furniture"
 seo_title: "DUMOS Patio Furniture Set 4 Pieces Review: Worth It?"
 meta_description: "Honest DUMOS 4-piece outdoor wicker furniture set review. Covers assembly, durability, comfort, and real buyer feedback. See who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSF45NPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l2gTMFCdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weather-resistant PE rattan wicker over a rust-proof aluminum frame — holds up in rain and sun"
   - "Thick, high-resilience foam cushions with removable, washable zip-off covers"
   - "Tempered glass coffee table top with a lower shelf for extra storage or display"
-cons:
+cons: 
   - "Cushions arrive compressed; takes 24–48 hours to fully fluff back to shape"
   - "Assembly requires two people — the loveseat frame is heavy and awkward to flip alone"
   - "No included cover; you'll want to buy one separately if your patio is fully exposed"
+
 ---
 
 Let’s cut through the noise. The DUMOS 4-piece patio set — two chairs, a loveseat, and a coffee table — is one of those Amazon finds that looks like a steal in the product photos. The real question is whether it survives a season of actual use. After digging through 204 ratings and the spec sheet, here’s what you’re actually getting.

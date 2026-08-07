@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen Tongs for Cooking, Small Silicone Tongs, Food Grade "
 seo_title: "Kitchen Tongs for Cooking, Small Silicone Tongs, F Review"
 meta_description: "Our full kitchen tongs for cooking, small silicone tongs, food grade  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BW91CD2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WaIQFRfGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 These are the tongs you didn't know you needed. And that's coming from someone who owns four other pairs.

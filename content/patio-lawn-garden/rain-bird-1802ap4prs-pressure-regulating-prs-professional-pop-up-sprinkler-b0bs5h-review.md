@@ -1,4 +1,5 @@
 ---
+
 title: "Rain Bird 1802AP4PRS Pressure Regulating (PRS) Professional "
 seo_title: "Rain Bird 1802AP4PRS Pressure Regulating (PRS) Pro Review"
 meta_description: "Our full rain bird 1802ap4prs pressure regulating (prs) professional  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BS5HV8QY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QtktTXISL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your irrigation system sprays a fine mist that drifts away before hitting the soil, you're not watering your lawn — you're fogging it. The Rain Bird 1802AP4PRS attacks that exact problem with a pressure-regulating valve built directly into the body. It's a professional-grade fix for a frustratingly common issue, and after digging through the specs and 225 buyer ratings, here's the real story.

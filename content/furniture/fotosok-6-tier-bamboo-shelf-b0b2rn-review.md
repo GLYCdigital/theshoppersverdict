@@ -1,4 +1,5 @@
 ---
+
 title: "FOTOSOK 6-Tier Bamboo Shelf"
 seo_title: "FOTOSOK 6-Tier Bamboo Shelf Review: Sturdy, Stylish Storage"
 meta_description: "FOTOSOK 6-Tier Bamboo Shelf review: Is this tall, versatile storage unit worth your money? We break down build quality, real-world use, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B2RNKDN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a56Ca1V0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100% bamboo construction—not bamboo veneer over particleboard—so it resists warping and holds up in humid rooms like bathrooms"
   - "Narrow 15.7-inch footprint gives you six vertical tiers without eating floor space, ideal for apartments or tight corners"
   - "Assembly takes under 20 minutes with clearly labeled parts and an included Allen wrench, no power tools required"
-cons:
+cons: 
   - "Top shelf is load-limited to roughly 10 pounds despite looking like it can hold more—heavy books or appliances will strain it"
   - "No anti-tip wall strap included, which is a real safety gap for a 60-inch tall piece if you have kids or pets"
+
 ---
 
 **The tall, narrow storage unit that punches above its price point—with one or two caveats worth knowing before you buy.**

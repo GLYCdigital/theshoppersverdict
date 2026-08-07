@@ -1,4 +1,5 @@
 ---
+
 title: "Banral Rechargeable Flashlights High Lumens - Super Bright S"
 seo_title: "Banral Rechargeable Flashlight Review: Super Bright S Tested"
 meta_description: "Banral Super Bright S flashlight review: 2000-lumen pocket light with magnetic base. Real-world beam tests, battery life, and durability findings."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9V8SLDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812b4TAgmOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2000-lumen peak output in a body under 4 inches — genuinely pocketable power"
   - "Magnetic tail cap holds firmly on tool boxes, engine bays, and steel studs"
   - "USB-C charging with visible battery indicator; no proprietary cables needed"
-cons:
+cons: 
   - "High mode throttles down after 2-3 minutes of continuous use — expect sustained output around 800 lumens"
   - "No included battery — requires a separate 18650 cell, which adds to the upfront cost"
+
 ---
 
 ## The Pocket Light That Punches Way Above Its Class

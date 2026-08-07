@@ -1,4 +1,5 @@
 ---
+
 title: "GeneralAire # 4541 MERV 11 for # GF 4511 ReservePro 16x25x5 inch"
 seo_title: "GeneralAire 4541 MERV 11 Filter Review: 16x25x5 Fit & Value"
 meta_description: "Honest GeneralAire 4541 MERV 11 replacement filter review. Real fit data for GF 4511 ReservePro, performance notes, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078RBTMPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AoWUlS-EL._AC_SL1398_.jpg"
-pros:
+pros: 
   - "True 5-inch depth with rigid frame that won't collapse under high static pressure"
   - "MERV 11 rating catches pollen, mold spores, and pet dander without choking airflow"
   - "Drop-in fit for GF 4511 ReservePro — no trimming, no gaps, no wrestling"
-cons:
+cons: 
   - "Price per filter runs higher than generic 16x25x5 options — you pay for the brand"
   - "No replacement indicator — you'll need to track 3-6 month change intervals yourself"
+
 ---
 
 Let's cut through the noise: a 5-inch filter is a specialty item. Most big-box stores stock 1-inch filters by the pallet but look at you sideways when you ask for a 16x25x5. That's where the GeneralAire #4541 steps in — a filter designed specifically for the GF 4511 ReservePro media cabinet, and one that's earned a 4.7-star average across 235 ratings.

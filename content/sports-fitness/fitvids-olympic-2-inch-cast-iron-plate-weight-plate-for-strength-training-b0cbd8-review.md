@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Olympic 2-Inch Cast Iron Plate Weight Plate for Stre"
 seo_title: "Fitvids Olympic 2-Inch Cast Iron Plate Review (2026)"
 meta_description: "Honest Fitvids Olympic 2-inch cast iron plate review: durability, accuracy, and value. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBD8R2HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GZHalSGnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise 2-inch center hole fits Olympic bars snugly with minimal rattle during lifts"
   - "Durable matte powder-coat finish resists chipping and rust better than bare iron"
   - "Consistent weight tolerance across plates — no surprise 48-pound '45s' in the set"
-cons:
+cons: 
   - "Bare cast iron edges can mar cheaper chrome or zinc barbell sleeves over time"
   - "No rubber bumper or coating means louder drops on hard gym floors"
   - "Plates arrive lightly oiled — you'll want to wipe them down before first use"
+
 ---
 
 ## Buy These If You're Tired of Wobbly, Inaccurate Plates

@@ -1,4 +1,5 @@
 ---
+
 title: "Liberty Pumps ASCENTII-MUW Toilet System Macerating Unit Onl"
 seo_title: "Liberty Pumps ASCENTII-MUW Toilet System Maceratin Review"
 meta_description: "Our full liberty pumps ascentii-muw toilet system macerating unit onl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B009PRLGU2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41P6Y9Y5fSL._AC_SL1213_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Basement Bathroom Solution That Doesn't Require a Jackhammer

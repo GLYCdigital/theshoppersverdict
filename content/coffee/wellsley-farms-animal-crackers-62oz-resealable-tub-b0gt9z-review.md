@@ -1,4 +1,5 @@
 ---
+
 title: "Wellsley Farms Animal Crackers 62oz. Resealable Tub."
 seo_title: "Wellsley Farms Animal Crackers 62oz. Resealable Tu Review"
 meta_description: "Our full wellsley farms animal crackers 62oz. resealable tub. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GT9Z86B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-bln-4LOL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wellsley Farms Animal Crackers 62oz: The Bulk Snack That Actually Delivers

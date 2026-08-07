@@ -1,4 +1,5 @@
 ---
+
 title: "Oneofics Canopy Tent, 10X10 FT Pop Up Canopy Outdoor Tent Sl"
 seo_title: "Oneofics Canopy Tent, 10X10 FT Pop Up Canopy Outdo Review"
 meta_description: "Our full oneofics canopy tent, 10x10 ft pop up canopy outdoor tent sl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVY2Q38J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516z3ikyFaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 10x10 pop-up canopy is the most crowded category in outdoor shade. Everyone from premium brands to no-name imports sells one, and they all look identical in the product photos. The Oneofics 10x10 FT Pop Up Canopy with slant legs separates itself from the pack in a few meaningful ways — and stumbles in a couple of predictable ones. Here's the breakdown after digging through specs, build materials, and what 215 buyers actually reported.

@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Air Hose Reel"
 seo_title: "VEVOR Air Hose Reel Review: Verdict | TSV"
 meta_description: "Our full vevor air hose reel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYF4KWK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c1inLTntL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you're tired of tripping over coiled hoses or wrestling with tangled lines every time you need air, the VEVOR Air Hose Reel solves a real problem at a price that undercuts most competitors. But it's not without quirks — and the cold-weather performance might change how you use it.

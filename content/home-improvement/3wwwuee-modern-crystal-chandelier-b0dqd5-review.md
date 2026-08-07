@@ -1,4 +1,5 @@
 ---
+
 title: "3WWWUEE Modern Crystal Chandelier"
 seo_title: "3WWWUEE Crystal Chandelier Review: Worth It? (2026)"
 meta_description: "Honest 3WWWUEE Modern Crystal Chandelier review: build quality, brightness, installation tips, and who should buy. 4.7-star rated. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQD5QG2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J4uG4+fDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty K9 crystal prisms that actually catch and refract light — not cheap acrylic"
   - "Tool-free assembly with numbered parts; most buyers report install under 45 minutes"
   - "Dimmable LED compatibility (with standard wall dimmer) for adjustable ambiance"
-cons:
+cons: 
   - "Box lacks a template for ceiling mounting; you'll need a stud finder and pencil"
   - "Crystal strands arrive unstrung — plan for 20–30 minutes of fiddly hooking"
+
 ---
 
 ## First Impressions: More Crystal Than You Expect

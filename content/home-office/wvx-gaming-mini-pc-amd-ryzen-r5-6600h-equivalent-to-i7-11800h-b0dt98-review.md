@@ -1,4 +1,5 @@
 ---
+
 title: "WVX Gaming Mini PC AMD Ryzen R5 6600H (Equivalent to i7-1180"
 seo_title: "WVX Gaming Mini PC AMD Ryzen R5 6600H (Equivalent  Review"
 meta_description: "Our full wvx gaming mini pc amd ryzen r5 6600h (equivalent to i7-1180 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DT98GY77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RDpedlGXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, the phrase "gaming mini PC" gets thrown around loosely on Amazon. The WVX with the AMD Ryzen R5 6600H is a solid little workstation that happens to have Radeon 660M integrated graphics. That's not the same thing as a gaming rig, and understanding that distinction will save you a return shipping fee.

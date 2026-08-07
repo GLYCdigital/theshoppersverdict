@@ -1,4 +1,5 @@
 ---
+
 title: "U-Haul Large Moving Boxes - Pack of 10 Boxes - 18â€"
 seo_title: "U-Haul Large Moving Boxes - Pack of 10 Boxes - 18â Review"
 meta_description: "Our full u-haul large moving boxes - pack of 10 boxes - 18â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07HFFWQNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dnhm22vxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Moving boxes are the most boring purchase you'll make all year — until the bottom of a cheap one gives out on a staircase and your cast-iron skillet becomes a bowling ball. That's why I've tested a lot of corrugated cardboard, and the U-Haul Large Moving Boxes (pack of 10) hold up better than most.

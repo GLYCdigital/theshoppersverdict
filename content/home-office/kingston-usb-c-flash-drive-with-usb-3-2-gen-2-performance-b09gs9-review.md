@@ -1,4 +1,5 @@
 ---
+
 title: "Kingston USB-C Flash Drive with USB 3.2 Gen 2 Performance"
 seo_title: "Kingston USB-C Flash Drive with USB 3.2 Gen 2 Perf Review"
 meta_description: "Our full kingston usb-c flash drive with usb 3.2 gen 2 performance review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09GS91QQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TI9oHMmpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kingston USB-C Flash Drive with USB 3.2 Gen 2 Performance is the rare thumb drive that actually delivers on its speed promise. If you've been burned by cheap drives that advertise 200MB/s and deliver 30MB/s, this one's different.

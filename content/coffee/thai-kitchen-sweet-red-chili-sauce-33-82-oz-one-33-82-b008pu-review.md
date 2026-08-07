@@ -1,4 +1,5 @@
 ---
+
 title: "Thai Kitchen Sweet Red Chili Sauce, 33.82 oz - One 33.82 Oun"
 seo_title: "Thai Kitchen Sweet Red Chili Sauce, 33.82 oz - One Review"
 meta_description: "Our full thai kitchen sweet red chili sauce, 33.82 oz - one 33.82 oun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008PU36V2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AhQ5FaktL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review Body:**

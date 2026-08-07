@@ -1,4 +1,5 @@
 ---
+
 title: "Manton Cork Sheets 24x36"
 seo_title: "Manton Cork Sheets 24x36 Review: Verdict | TSV"
 meta_description: "Our full manton cork sheets 24x36 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08ZP12S8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-zMXUKoxL._AC_SL1338_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most cork sheets sold on Amazon are glorified placemats — thin, brittle, and useless after six months of pinning. The Manton Cork Sheets 24x36 are different. At a true quarter-inch thickness with a 4.5-star average across 225 ratings, this is the sheet you actually want for a real project. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gardzen Steel Wall-Mounted Heavy Duty Black Hose Bracket, Ca"
 seo_title: "Gardzen Steel Hose Bracket Review: Heavy-Duty Wall Mount"
 meta_description: "Honest Gardzen steel wall-mounted hose bracket review: build quality, install tips, real buyer feedback. Is this heavy-duty holder worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCD984F2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JuLLw-rhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel construction with a powder-coated black finish that resists rust and UV fading — no plastic parts to crack"
   - "Holds up to 200 feet of 5/8-inch hose without sagging, thanks to the reinforced mounting plate and welded arms"
   - "Comes with stainless steel hardware and wall anchors, so you don't need a separate trip to the hardware store"
-cons:
+cons: 
   - "The 7.5-inch arm depth won't accommodate larger hose reels or thick coiled 3/4-inch hoses without forcing them"
   - "Mounting screws are adequate for wood studs, but you'll want heavy-duty masonry anchors if attaching to brick or stucco"
+
 ---
 
 If you've ever wrestled a tangled hose off a cheap plastic holder that bent after one season, you know the frustration. The Gardzen Steel Wall-Mounted Heavy Duty Hose Bracket aims to end that cycle with a straightforward, no-nonsense design. After digging through 229 ratings and the 4.6-star average, here's the honest breakdown.

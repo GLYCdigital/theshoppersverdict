@@ -1,23 +1,25 @@
 ---
+
 title: "Amico UFO LED High Bay Light 150W 21000lm 5000K High Bay LED"
 seo_title: "Amico UFO LED High Bay Light 150W Review (2026): Worth It?"
 meta_description: "Honest Amico UFO LED High Bay Light 150W review: 21,000 lumens, 5000K brightness, dimming, and durability tested. See pros, cons, and who should buy."
 slug: "amico-ufo-led-high-bay-light-150w-21000lm-5000k-high-bay-led-b0fjs7-review"
 image_alt: "Amico UFO LED high bay light 150W with 21,000 lumens and 5000K cool white output, shown in industrial warehouse setting"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: 129.99  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: 129.99
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJS7L912/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PgQmCipuL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 21,000 lumens at 150W — replaces 400W metal halide with 40% less energy draw"  
   - "Dimmable via 0-10V controller (sold separately) for flexible light levels"  
   - "IP65 rating and aluminum heat sink handle dust, moisture, and continuous 12-hour shifts"  
-cons:  
+cons: 
   - "5000K cool white is harsh for residential spaces — this is strictly commercial/workshop"  
   - "No mounting hook or pendant kit included; you'll need to buy hardware separately"
+
 ---
 
 If you're lighting a warehouse, garage workshop, or barn, you've probably stared at 400W metal halide fixtures that eat electricity and throw off heat like a space heater. The Amico UFO LED High Bay Light 150W is the modern replacement — and at $129.99, it's priced to make the switch painless. But is it actually as bright as claimed, and does it hold up? I've dug through the specs, the 220 Amazon ratings (4.4 stars), and the real user experiences to give you the straight story.

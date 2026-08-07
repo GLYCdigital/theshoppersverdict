@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE BUFFALO Life Protection Formula Small Dry Bag Dog Senio"
 seo_title: "BLUE BUFFALO Life Protection Senior Small Dog Food Review"
 meta_description: "BLUE BUFFALO Life Protection senior small dog food review: joint support, real meat first, 4.7 stars. Is it worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2XCNN6H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hciF0qLcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real deboned chicken is the first ingredient — not a meal or byproduct"
   - "Glucosamine and chondroitin are included for senior joint support"
   - "Small kibble size is actually small — easy for toy and small breeds to chew"
-cons:
+cons: 
   - "Price per pound runs higher than grocery-store brands"
   - "Some picky eaters may turn up their noses at the transition — mix gradually"
   - "No grain-free option in this specific formula line"
+
 ---
 
 Your senior small dog has earned the good stuff. The question is whether BLUE BUFFALO Life Protection Formula Small Breed Senior delivers enough to justify the premium price tag. After digging through the ingredient panel, customer feedback, and the 4.7-star average across 235 ratings, here's the honest breakdown.

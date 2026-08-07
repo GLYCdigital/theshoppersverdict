@@ -1,4 +1,5 @@
 ---
+
 title: "Asweets Kids Table and Chair Set,4 in 1 Toddler Desk with St"
 seo_title: "Asweets 4-in-1 Kids Table & Chair Set Review (2026)"
 meta_description: "Honest Asweets kids table and chair set review: 4-in-1 toddler desk with storage. Build quality, sizing, real parent feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZ27396N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ovYKGwX0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Converts through 4 configurations (desk, table, easel, storage bench), extending usable life from toddler to early elementary"
   - "Solid pine wood construction with rounded corners — holds up to active kids without tipping or wobble"
   - "Built-in storage cubbies and reversible tabletop (chalkboard/whiteboard) add genuine utility, not gimmicks"
-cons:
+cons: 
   - "Assembly requires patience — roughly 30–45 minutes with multiple small parts; some parents report misaligned screw holes"
   - "Chair seat height (11 inches) is fixed; taller 4-5 year olds may outgrow the chair before the desk"
   - "Chalkboard surface smudges permanently if you use regular chalk — must buy dust-free chalk"
+
 ---
 
 **Opening Hook**

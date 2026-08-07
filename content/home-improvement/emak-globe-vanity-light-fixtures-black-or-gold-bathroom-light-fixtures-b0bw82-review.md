@@ -1,4 +1,5 @@
 ---
+
 title: "Emak Globe Vanity Light Fixtures, Black or Gold Bathroom Lig"
 seo_title: "Emak Globe Vanity Light Review: Black & Gold Options (2026)"
 meta_description: "Honest Emak globe vanity light review: build quality, installation, and real buyer feedback on the black & gold bathroom fixtures with 4.7★ rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BW82B9LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UUAzVO+sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid metal housing with a clean powder-coated finish that resists fingerprints and bathroom humidity"
   - "Three independent globe shades distribute light evenly without harsh shadows — ideal for grooming tasks"
   - "Hardwired installation is straightforward for a DIYer with basic electrical knowledge; mounting bracket included"
-cons:
+cons: 
   - "Globe shades are glass and ship separately — a few buyers reported breakage in transit, though replacements came quickly"
   - "No dimmer compatibility unless you purchase a separate dimmable bulb; standard bulbs are not dimmable"
   - "Bulbs not included — factor in the cost of three G9 or E12 bulbs depending on the model you choose"
+
 ---
 
 **Is the Emak Globe Vanity Light worth the hype, or just another pretty fixture that'll give you trouble? After digging through 235 ratings and the specs, here's the honest picture.**

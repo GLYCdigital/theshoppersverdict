@@ -1,4 +1,5 @@
 ---
+
 title: "8.5 x 11 Excel One (230949) Carbonless Paper, 2 Part Reverse"
 seo_title: "Excel One Carbonless Paper Review: 2-Part Reverse Forms"
 meta_description: "Excel One 230949 carbonless paper review: crisp 2-part reverse forms, clean copies, and real-world durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B072LP45LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lGnSzPG8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, legible copies every time thanks to the CF (coated front) and CB (coated back) chemistry — no smudging or ghosting on the second sheet"
   - "Reverse collation (white on top, blue on bottom) means the customer gets the white original — ideal for receipt-style workflows"
   - "Feeds reliably through laser printers and copiers without jamming, even in high-volume runs"
-cons:
+cons: 
   - "The blue second sheet is noticeably thinner than standard 20-lb paper — prone to curling if left in a hot printer tray"
   - "Not compatible with inkjet printers — the coating can react with liquid ink and cause smearing"
+
 ---
 
 If you've ever peeled apart a carbonless form only to find the second copy is a smudged, unreadable mess, you know the frustration. The Excel One 230949 eliminates that problem — mostly. This 8.5 x 11, 2-part reverse carbonless paper has earned a 4.5-star rating from 225 buyers, and after digging into the details, it's clear why. But let's get into what actually matters before you add it to your cart.

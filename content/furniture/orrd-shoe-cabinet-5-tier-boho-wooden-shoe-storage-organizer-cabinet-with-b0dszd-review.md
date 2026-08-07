@@ -1,4 +1,5 @@
 ---
+
 title: "ORRD Shoe Cabinet, 5 Tier Boho Wooden Shoe Storage Organizer"
 seo_title: "ORRD Shoe Cabinet, 5 Tier Boho Wooden Shoe Storage Review"
 meta_description: "Our full orrd shoe cabinet, 5 tier boho wooden shoe storage organizer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSZD2HXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wFxFlEEQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of a pile of sneakers by the door or a closet floor that looks like a shoe explosion, the ORRD 5-Tier Boho Wooden Shoe Cabinet is a solid contender. At 4.2 stars across 210 ratings, it's not perfect — but it solves a very specific problem well. Here's the unvarnished truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "FALOVE Solar Spot Lights Outdoor, 180°Adjustable Auto On/Of"
 seo_title: "FALOVE Solar Spot Lights Review: 180° Adjustable, Worth It?"
 meta_description: "FALOVE solar spot lights review: 180° adjustable, auto on/off floodlights for flag poles & gardens. Tested for brightness, battery life, durability. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B49Z6SZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MkhScZOYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "180° rotation on both the head and arm lets you aim light exactly where needed — even up a flagpole or across a wide yard"
   - "Auto on/off with a built-in dusk sensor works reliably; no timers or smart-home hub required"
   - "IP65 weatherproofing holds up through rain, snow, and direct sun without fading or leaking"
-cons:
+cons: 
   - "Battery life in winter months drops noticeably — expect 4–5 hours of full brightness vs. 8+ in summer"
   - "Plastic housing feels less premium than metal competitors; handle gently during installation"
+
 ---
 
 **FALOVE Solar Spot Lights Outdoor Review: 180° Adjustable, Auto On/Off — Worth Your Money?**

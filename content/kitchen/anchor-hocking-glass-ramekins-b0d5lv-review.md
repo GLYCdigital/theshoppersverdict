@@ -1,4 +1,5 @@
 ---
+
 title: "Anchor Hocking Glass Ramekins"
 seo_title: "Anchor Hocking Ramekins Review: Worth It? (2026)"
 meta_description: "Honest Anchor Hocking glass ramekins review: durability, sizes, baking performance, and downsides. See if these 4.5-star dishes fit your kitchen."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5LVZHSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C1pE3L53L._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Oven-safe up to 425°F with lids; safe for microwave, freezer, and dishwasher"
   - "Thick, sturdy glass construction resists thermal shock better than thin competitors"
   - "Straight-sided design makes even baking and easy food release"
-cons:
+cons: 
   - "Lids are not airtight — don't expect leak-proof meal prep"
   - "Some users report minor air bubbles in the glass; cosmetic only"
+
 ---
 
 Let’s cut to it: Anchor Hocking has been making glass bakeware since 1905, and these ramekins carry that legacy. But are they actually good, or are you paying for the name? After digging through 225 ratings (4.5 stars) and testing the specs, here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "GHIRARDELLI Premium Chocolate Assorted Squares Bags"
 seo_title: "GHIRARDELLI Premium Chocolate Assorted Squares Bag Review"
 meta_description: "Our full ghirardelli premium chocolate assorted squares bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FZKPVPYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RCtdiwZQL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a chocolate review, not a coffee gear review. But if you're shopping for a coffee lover, this belongs on your shortlist. The GHIRARDELLI Premium Chocolate Assorted Squares Bags have become the default "gift that actually works" for good reason — and with a 4.5-star average across 225 ratings, the crowd has spoken.

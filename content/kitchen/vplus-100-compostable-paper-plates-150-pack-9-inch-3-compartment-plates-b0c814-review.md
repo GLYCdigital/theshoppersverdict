@@ -1,4 +1,5 @@
 ---
+
 title: "Vplus 100% Compostable Paper Plates, 150 Pack 9 Inch 3 Compa"
 seo_title: "Vplus 100% Compostable Paper Plates, 150 Pack 9 In Review"
 meta_description: "Our full vplus 100% compostable paper plates, 150 pack 9 inch 3 compa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8144YJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717tZCrnEqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched barbecue sauce bleed into your coleslaw or gravy flood your green beans, you already know why compartment plates exist. The Vplus 100% Compostable Paper Plates (150-pack, 9-inch, 3-compartment) aim to solve that without the guilt of styrofoam. With a 4.6-star average across 229 ratings, they’ve clearly earned a following. But are they sturdy enough for a loaded dinner plate, or just for dry snacks? Here’s the real story.

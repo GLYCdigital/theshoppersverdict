@@ -1,4 +1,5 @@
 ---
+
 title: "IAMS Perfect Portions Indoor Adult Grain Free Wet Cat Food P"
 seo_title: "IAMS Perfect Portions Indoor Adult Grain Free Wet  Review"
 meta_description: "Our full iams perfect portions indoor adult grain free wet cat food p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2XCGLZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tqk1VCKkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a half-empty can of cat food sliding to the back of the fridge, you already know the struggle. IAMS Perfect Portions Indoor Adult Grain Free Wet Cat Food Pate attacks that problem head-on with pre-portioned twin trays that make mealtime about as fuss-free as it gets. But does the convenience justify the price per serving? I dug into the specs, the reviews, and the real-world feeding experience to give you the straight story.

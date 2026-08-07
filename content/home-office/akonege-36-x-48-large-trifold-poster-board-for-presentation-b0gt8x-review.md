@@ -1,4 +1,5 @@
 ---
+
 title: "AKONEGE 36 inch  x 48 inch  Large Trifold Poster Board for Presentatio"
 seo_title: "AKONEGE 36x48 Trifold Poster Board Review: Worth It?"
 meta_description: "AKONEGE 36x48 trifold poster board review: durability, thickness, and real-world use for science fairs and presentations. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GT8XX2DH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jcryYUQVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - True 36 inch " x 48 inch " dimensions with a 12-inch center panel — fits standard tri-fold display requirements without awkward overhang
   - "Substantial 0.055-inch thickness resists buckling even when loaded with heavy cardstock, photos, or small 3D elements"
   - "Clean white surface accepts markers, paint, and adhesives without bleed-through or visible ghosting"
-cons:
+cons: 
   - "Folded creases arrive sharp and can be stubborn — you'll need to reverse-fold them a few times to get panels to lay flat"
   - "One side has a subtle matte finish while the other is glossier; color matching across panels requires checking which side you're on"
+
 ---
 
 Let me be blunt: most trifold boards are flimsy cardboard that collapses the moment you tape a heavy photo to them. The AKONEGE 36" x 48" board is not that. This is the board you want when your project actually matters — a science fair, a client pitch, a conference poster session — and you can't afford to have it sag halfway through the day.

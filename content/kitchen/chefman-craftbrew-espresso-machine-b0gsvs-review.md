@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman CraftBrew Espresso Machine"
 seo_title: "Chefman CraftBrew Espresso Machine Review (2026): Worth It?"
 meta_description: "Chefman CraftBrew Espresso Machine review: 15-bar pump, milk frother, and semi-auto controls. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GSVS2B3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LIr5V8kiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15-bar Italian pump delivers café-level crema at a sub-$100 price point"
   - "Compact 11.8-inch footprint fits tight countertops without sacrificing a 1.5L water tank"
   - "Stainless steel frothing wand produces microfoam good enough for latte art"
-cons:
+cons: 
   - "Single-boiler system means you can't brew and steam simultaneously — expect a 30-second heat-up pause between steps"
   - "Non-pressurized basket is noticeably absent; you're locked into pre-ground espresso with the dual-wall filters"
   - "No pressure gauge or shot timer, so dialing in requires trial and error"
+
 ---
 
 The Chefman CraftBrew walks into a crowded room. Breville sits in the corner at $400+. De'Longhi owns the mid-range. Mr. Coffee holds the budget floor. So where does a 4.2-star, 210-review machine from a brand better known for air fryers fit? Right in the sweet spot for anyone who wants real espresso pressure without the barista certification.

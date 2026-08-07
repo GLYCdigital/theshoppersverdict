@@ -1,4 +1,5 @@
 ---
+
 title: "STICKGOO Drop Ceiling Tile 2ft x 2ft, Ceiling Panel High-Gra"
 seo_title: "STICKGOO Drop Ceiling Tile 2ft x 2ft, Ceiling Pane Review"
 meta_description: "Our full stickgoo drop ceiling tile 2ft x 2ft, ceiling panel high-gra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CX1S2M3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qf0o20vOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The STICKGOO 2x2 drop ceiling tile is the kind of product that makes you wonder why you waited so long to replace those stained, sagging fiber tiles that came with your basement. But before you commit to a whole ceiling, let's get real about what these PVC panels actually deliver.

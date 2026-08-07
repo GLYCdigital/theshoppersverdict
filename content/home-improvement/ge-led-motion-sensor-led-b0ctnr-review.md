@@ -1,4 +1,5 @@
 ---
+
 title: "GE LED+ Motion Sensor LED"
 seo_title: "GE LED+ Motion Sensor LED Review: Smart Light or Gimmick?"
 meta_description: "GE LED+ Motion Sensor LED review: 4.2-star rated bulb with built-in sensor. Real performance, battery life, and placement tips from 210+ verified buyers."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CTNRDN8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dVY56avvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in motion sensor means zero hub, app, or wiring required — screw it in and it works"
   - "Dusk-to-dawn ambient light detection prevents daytime activation, saving energy"
   - "Wide 120-degree detection angle catches movement from multiple approach directions"
-cons:
+cons: 
   - "Fixed sensitivity and timeout settings — no adjustment for pet triggers or desired duration"
   - "Compatibility issues with some enclosed fixtures and dimmer switches"
   - "Bulb runs warm during extended active periods, which may shorten lifespan in tight enclosures"
+
 ---
 
 ## The Hands-Free Light You Didn't Know You Needed

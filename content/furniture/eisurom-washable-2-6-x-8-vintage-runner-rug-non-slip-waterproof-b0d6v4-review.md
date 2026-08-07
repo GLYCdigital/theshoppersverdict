@@ -1,4 +1,5 @@
 ---
+
 title: "EISUROM Washable 2'6'' x 8' Vintage Runner Rug - Non-Slip, W"
 seo_title: "EISUROM Washable Runner Rug Review: Non-Slip, Vintage Style"
 meta_description: "EISUROM washable 2'6 inch  x 8' vintage runner rug review: non-slip backing, waterproof, machine-washable. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6V45K7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QmS9vAU-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True machine-washable construction — survives repeated cycles without shedding or losing shape"
   - "Non-slip TPR backing stays put on hardwood and tile, even in high-traffic hallways"
   - "Vintage print looks far more expensive than the price point suggests"
-cons:
+cons: 
   - "Thin pile (around 0.2 inches) — not cushioned enough for standing for long periods"
   - "Initial chemical smell that takes a few days to air out fully"
+
 ---
 
 Let's be honest about hallway rugs: most are either pretty and useless or durable and ugly. The EISUROM Washable Runner Rug actually tries to be both, and for the most part, it pulls it off. With 235 ratings averaging 4.7 stars, this 2'6" x 8' runner has found its audience. Here's whether you should join them.

@@ -1,4 +1,5 @@
 ---
+
 title: "2xhome Solid Wooden Dining Chair | Upholstered Faux Leather"
 seo_title: "2xhome Solid Wooden Dining Chair Review: Worth It? (2026)"
 meta_description: "Honest 2xhome solid wooden dining chair review: build quality, faux leather comfort, real buyer feedback, and who should buy. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFC7V3B2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zhkUJgi3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid wood frame (not MDF or particleboard) at a price point where most competitors cut corners"
   - "High-density foam cushioning that holds up to daily use without flattening out"
   - "Faux leather is easy to wipe clean — practical for households with kids or pets"
-cons:
+cons: 
   - "Faux leather doesn't breathe like fabric — expect some stickiness on bare legs in summer"
   - "Assembly requires a Phillips screwdriver and about 20 minutes per chair; hardware is basic"
   - "Only available in a limited color range — no true white or dark walnut options"
+
 ---
 
 **The Review**

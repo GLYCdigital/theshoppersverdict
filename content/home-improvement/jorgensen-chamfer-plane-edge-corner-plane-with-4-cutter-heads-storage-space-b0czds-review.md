@@ -1,4 +1,5 @@
 ---
+
 title: "JORGENSEN Chamfer Plane, Edge Corner Plane with 4 Cutter Hea"
 seo_title: "JORGENSEN Chamfer Plane, Edge Corner Plane with 4  Review"
 meta_description: "Our full jorgensen chamfer plane, edge corner plane with 4 cutter hea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZDSF7HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711YMhMaUEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Chamfer Plane That Replaces Four Tools in Your Shop

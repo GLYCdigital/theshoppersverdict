@@ -1,4 +1,5 @@
 ---
+
 title: "Toshiba Canvio Flex 1TB Portable External Hard Drive USB-C U"
 seo_title: "Toshiba Canvio Flex 1TB Portable External Hard Dri Review"
 meta_description: "Our full toshiba canvio flex 1tb portable external hard drive usb-c u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SKQ826M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-C7VUBGwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Toshiba Canvio Flex 1TB: The Dual-Cable Workhorse That Just Works

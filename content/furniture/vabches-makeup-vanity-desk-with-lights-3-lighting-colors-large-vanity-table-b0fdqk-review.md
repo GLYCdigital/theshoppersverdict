@@ -1,4 +1,5 @@
 ---
+
 title: "Vabches Makeup Vanity Desk with Lights, 3 Lighting Colors, L"
 seo_title: "Vabches Makeup Vanity Desk with Lights, 3 Lighting Review"
 meta_description: "Our full vabches makeup vanity desk with lights, 3 lighting colors, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FDQKS9MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dKs8aLB8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: a makeup vanity with lights is either a game-changer or a $200 paperweight with a mirror. The Vabches Makeup Vanity Desk with Lights sits somewhere comfortably in the middle — genuinely useful, well-built for the price, but not without a few compromises you should know about before you click "buy."

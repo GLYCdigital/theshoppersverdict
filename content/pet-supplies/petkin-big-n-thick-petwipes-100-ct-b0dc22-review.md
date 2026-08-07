@@ -1,4 +1,5 @@
 ---
+
 title: "Petkin Big N' Thick Petwipes 100 ct"
 seo_title: "Petkin Big N' Thick Petwipes 100 ct Review: Verdict | TSV"
 meta_description: "Our full petkin big n' thick petwipes 100 ct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC229CHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SNfuJggJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a muddy paw away from your white couch, you know the drill: baby wipes are too small, paper towels fall apart, and the "pet wipes" you grabbed at the pharmacy were basically wet tissue paper. The Petkin Big N' Thick Petwipes are engineered to solve that specific problem, and based on 235 ratings averaging 4.7 stars, they're doing it right.

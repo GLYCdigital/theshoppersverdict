@@ -1,4 +1,5 @@
 ---
+
 title: "HEQET"
 seo_title: "HEQET Review: Verdict | TSV"
 meta_description: "Our full heqet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09XKBTVLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uBxqJXnFL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HEQET Review: The Budget Tool That Actually Holds Up

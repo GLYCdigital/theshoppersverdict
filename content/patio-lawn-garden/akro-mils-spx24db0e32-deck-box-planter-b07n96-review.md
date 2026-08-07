@@ -1,4 +1,5 @@
 ---
+
 title: "Akro Mils (SPX24DB0E32) Deck Box Planter"
 seo_title: "Akro Mils Deck Box Planter Review: Sturdy or Gimmick?"
 meta_description: "Honest Akro Mils SPX24DB0E32 deck box planter review: build quality, drainage, real buyer feedback. Is this 4.5-star garden box worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07N96742G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xwjLUDUdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 1.5-inch thick cedar-look plastic panels that resist warping, cracking, and splintering in full sun"
   - "Removable false bottom with built-in drainage grid keeps soil from sitting in standing water"
   - "Assembles in under 20 minutes with zero tools — interlocking tabs lock panels tightly"
-cons:
+cons: 
   - "At 24x24x22 inches, it's shallow for deep-rooted vegetables — stick to flowers and herbs"
   - "Natural cedar color fades to a grayish tone after one full season in direct sun"
+
 ---
 
 Let me be blunt: most deck planters sold on Amazon are flimsy resin boxes that crack by August. The Akro Mils SPX24DB0E32 is not that. With a 4.5-star average across 225 ratings, this 24-inch cube has earned its reputation — but it's not perfect. Here's what you need to know before you click buy.

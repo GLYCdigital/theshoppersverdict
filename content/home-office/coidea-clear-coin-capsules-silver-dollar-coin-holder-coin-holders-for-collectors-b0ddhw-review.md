@@ -1,23 +1,25 @@
 ---
+
 title: "COIDEA Clear Coin Capsules, Silver Dollar Coin Holder, Coin"
 seo_title: "COIDEA Clear Coin Capsules Review: Silver Dollar Holder (2026)"
 meta_description: "COIDEA Clear Coin Capsules review: 4.4★ rated silver dollar holders. Sizing, fit, durability tested. See what 220 buyers say before you buy."
 slug: "coidea-clear-coin-capsules-silver-dollar-coin-holder-coin-holders-for-collectors-b0ddhw-review"
 image_alt: "COIDEA clear coin capsules holding silver dollars and large coins, side-by-side comparison"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDHWRYYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714eYtU5lkL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 40.6mm interior fits Morgan and Peace dollars without rattling or forced snapping"  
   - "Ultrasonic-welded seams hold up to repeated opening — no cracking at the hinge after 50+ cycles"  
   - "UV-resistant PET plastic keeps coins from toning or tarnishing during long-term storage"  
-cons:  
+cons: 
   - "Outer diameter (43.5mm) won't fit standard 2x2 cardboard boxes or some album pages — measure first"  
   - "No foam ring insert — smaller coins like half dollars shift slightly inside the capsule"
+
 ---
 
 If you collect Morgan or Peace dollars, you already know the problem: flimsy flips that yellow, cardboard holders that bend, and capsules that crack the moment you look at them wrong. The COIDEA Clear Coin Capsules aim to end that cycle — and for the most part, they deliver.

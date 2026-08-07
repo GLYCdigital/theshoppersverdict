@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Brentwood Collection 9' Square Navy/Cream BNT865N M"
 seo_title: "SAFAVIEH Brentwood Collection 9' Square Navy/Cream Review"
 meta_description: "Our full safavieh brentwood collection 9' square navy/cream bnt865n m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP7RY65K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sOv02tdsS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 9' square rug is the forgotten middle child of the rug world.** Round and rectangular dominate every showroom, but if you've got a square dining table or a big open living area, you know the struggle of making a 8x10 or 9x12 work without looking awkward. That's exactly the gap SAFAVIEH's Brentwood Collection fills with this navy and cream medallion piece.

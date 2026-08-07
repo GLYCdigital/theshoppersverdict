@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Long Lasting Eraser"
 seo_title: "Pentel Long Lasting Eraser Review: Verdict | TSV"
 meta_description: "Our full pentel long lasting eraser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07F7T3D73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zaqq+8FHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about erasers: most of them are terrible. They smear graphite into gray streaks, tear your paper, or crumble into a mess that sticks to everything. The Pentel Long Lasting Eraser — that plain white rectangle you've probably seen in office supply drawers — is the exception. And with a 4.7-star average across 235 Amazon ratings, I'm not the only one who thinks so.

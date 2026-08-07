@@ -1,4 +1,5 @@
 ---
+
 title: "XY-WQ Chlorine Floater, Floating Pool Chlorine Dispenser, Fi"
 seo_title: "XY-WQ Chlorine Floater, Floating Pool Chlorine Dis Review"
 meta_description: "Our full xy-wq chlorine floater, floating pool chlorine dispenser, fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT8C8T9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Jk2d6TI0S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # XY-WQ Chlorine Floater Review: The $15 Fix for Consistent Pool Chemistry

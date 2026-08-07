@@ -1,4 +1,5 @@
 ---
+
 title: "SIEDiNLAR Solar Barn Light Outdoor 3 Modes 035B"
 seo_title: "SIEDiNLAR Solar Barn Light Outdoor 3 Modes 035B Review: V"
 meta_description: "Our full siedinlar solar barn light outdoor 3 modes 035b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F16RLRSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EBnfoJeOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Solid Solar Barn Light That Gets the Job Done — With Caveats**

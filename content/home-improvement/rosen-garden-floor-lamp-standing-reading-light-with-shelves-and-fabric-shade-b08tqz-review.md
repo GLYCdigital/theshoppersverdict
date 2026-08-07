@@ -1,4 +1,5 @@
 ---
+
 title: "ROSEN GARDEN Floor Lamp, Standing Reading Light with Shelves"
 seo_title: "ROSEN GARDEN Floor Lamp, Standing Reading Light wi Review"
 meta_description: "Our full rosen garden floor lamp, standing reading light with shelves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08TQZ33V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ezarebQ6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about floor lamps: most are either pretty but useless, or functional but ugly. The ROSEN GARDEN Floor Lamp with Shelves tries to be both, and for the most part, it pulls it off. With 225 ratings averaging 4.5 stars, this isn't a niche product — it's a proven workhorse for small spaces. Here's the real breakdown.

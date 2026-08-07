@@ -1,4 +1,5 @@
 ---
+
 title: "EXPO Dry Erase Markers, Low Odor Ink, Chisel Tip, 8 Count"
 seo_title: "EXPO Dry Erase Markers Review: Low Odor Chisel Tip (2026)"
 meta_description: "EXPO Dry Erase Markers 8-pack review: low odor chisel tip performance, durability, and value. See real pros, cons, and buying verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00006IFIL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iX3JGdVML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Chisel tip delivers both broad strokes and fine detail with a single marker — genuinely versatile"
   - "Low-odor ink dries fast and erases cleanly without ghosting, even after days on the board"
   - "Vivid, saturated colors that stay legible from across a meeting room"
-cons:
+cons: 
   - "8-count pack runs through black and blue fastest — heavy users will need refills sooner than expected"
   - "Fine-point accuracy fades after heavy use; the chisel edge rounds with pressure"
   - "Colors are not individually replaceable in this pack; you buy the whole set again"
+
 ---
 
 **The office default that actually earns its reputation.**

@@ -1,4 +1,5 @@
 ---
+
 title: "YumEarth Organic Gluten Free Pomegranate Licorice Snack Pack"
 seo_title: "YumEarth Organic Gluten Free Pomegranate Licorice  Review"
 meta_description: "Our full yumearth organic gluten free pomegranate licorice snack pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DJSJXV18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RLsLvVyUL._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: this is a candy review, not a coffee gear review, despite what the category metadata suggests. But if you're here, you're likely a parent or snack buyer hunting for allergy-safe treats, and that's a mission I respect. The YumEarth Organic Pomegranate Licorice Snack Pack sits at a 3.9-star average across 195 ratings — a score that tells me real shoppers are split. Here's the unvarnished truth after digging through the feedback.

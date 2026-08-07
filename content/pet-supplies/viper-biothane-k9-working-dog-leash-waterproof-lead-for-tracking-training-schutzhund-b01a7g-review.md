@@ -1,4 +1,5 @@
 ---
+
 title: "Viper Biothane K9 Working Dog Leash Waterproof Lead for Trac"
 seo_title: "Viper Biothane K9 Working Dog Leash Waterproof Lea Review"
 meta_description: "Our full viper biothane k9 working dog leash waterproof lead for trac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01A7GIXO6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hkb2-G1tL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you train working dogs for a living — or just take your sport seriously — you already know the problem with traditional leather tracking leads. They absorb water, they stretch, they rot from the inside out, and they stink like a swamp after three sessions. The Viper Biothane K9 Working Dog Leash exists to end that cycle. And honestly? It does.

@@ -1,4 +1,5 @@
 ---
+
 title: "Marc Jacobs Perfect Eau de Parfum â€“ Floral Women's Perfume"
 seo_title: "Marc Jacobs Perfect Eau de Parfum â€“ Floral Women Review"
 meta_description: "Our full marc jacobs perfect eau de parfum â€“ floral women's perfume review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GKFQFCCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f8IWA2rIL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pros:**

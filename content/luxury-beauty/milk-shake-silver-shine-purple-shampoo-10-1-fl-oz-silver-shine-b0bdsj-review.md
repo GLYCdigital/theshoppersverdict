@@ -1,4 +1,5 @@
 ---
+
 title: "milk_shake Silver Shine Purple Shampoo 10.1 Fl Oz + Silver S"
 seo_title: "milk_shake Silver Shine Purple Shampoo 10.1 Fl Oz  Review"
 meta_description: "Our full milk_shake silver shine purple shampoo 10.1 fl oz + silver s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDSJRB5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TiUk2asVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever emerged from a purple shampoo rinse looking like you dipped your head in a Smurf smoothie, you know the struggle. Most toning shampoos overcorrect — leaving pale blondes with lavender tints or grayish casts that scream "I tried too hard." The milk_shake Silver Shine system takes a different approach, and it's why this Italian salon brand has built a loyal following among color-treated blondes.

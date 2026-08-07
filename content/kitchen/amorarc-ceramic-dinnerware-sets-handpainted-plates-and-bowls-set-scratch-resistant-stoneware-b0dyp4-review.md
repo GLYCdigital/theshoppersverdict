@@ -1,4 +1,5 @@
 ---
+
 title: "AmorArc Ceramic Dinnerware Sets, Handpainted Plates and Bowl"
 seo_title: "AmorArc Ceramic Dinnerware Set Review: Handpainted & Durable"
 meta_description: "Honest AmorArc ceramic dinnerware set review: handpainted stoneware plates & bowls. Scratch-resistant, dishwasher-safe. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYP4685J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WdjxHUajL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Handpainted reactive glaze means every piece has a unique pattern — no two sets look identical"
   - "Scratch-resistant stoneware body holds up to daily use; rim stays chip-free after months of dishwasher cycles"
   - "Generous 10.5-inch dinner plate and 7.5-inch bowl proportions work for real meals, not just appetizers"
-cons:
+cons: 
   - "Handpainted finish can show minor glaze variations between pieces — a non-issue for some, a dealbreaker for perfectionists"
   - "Not microwave-safe despite being dishwasher-safe — check the care card before you buy"
   - "Sold as a set only; no open-stock replacements if a piece breaks"
+
 ---
 
 If you're tired of the same white Corelle or IKEA stack that every rental kitchen has, the AmorArc ceramic dinnerware set is the visual upgrade you've been circling. With 225 ratings and a 4.5-star average, it's clearly resonating with shoppers — but is the handpainted charm worth the tradeoffs? Here's what you actually need to know before you hit buy.

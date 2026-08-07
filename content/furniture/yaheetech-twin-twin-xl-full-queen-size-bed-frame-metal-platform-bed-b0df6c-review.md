@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Twin/Twin XL/Full/Queen Size Bed Frame Metal Platf"
 seo_title: "Yaheetech Twin/Twin XL/Full/Queen Size Bed Frame M Review"
 meta_description: "Our full yaheetech twin/twin xl/full/queen size bed frame metal platf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF6C1J2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bGqbHLA1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the bed frame that makes you question why anyone pays $500+ for a basic platform.** At 4.5 stars from 225 ratings, the Yaheetech metal platform frame delivers what matters: solid support, zero squeaking, and enough clearance to store your life underneath. But it's not without compromises.

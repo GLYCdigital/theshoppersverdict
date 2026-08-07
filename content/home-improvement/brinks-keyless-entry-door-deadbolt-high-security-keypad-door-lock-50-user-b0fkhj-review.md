@@ -1,4 +1,5 @@
 ---
+
 title: "BRINKS Keyless Entry Door Deadbolt, High-Security Keypad Doo"
 seo_title: "BRINKS Keyless Entry Deadbolt Review: Worth It? (2026)"
 meta_description: "Honest BRINKS keyless entry deadbolt review: 4.5-star rated. We break down security features, installation, battery life, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FKHJM87K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dePP-y6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "ANSI Grade 2 certification with a hardened steel bolt and anti-pick shield — real security, not just a convenience gadget"
   - "50 unique user codes with 4-12 digit lengths, giving you granular control over who gets in and when"
   - "Backlit keypad with auto-lock feature that's genuinely reliable — no more standing in the dark fumbling"
-cons:
+cons: 
   - "No built-in Wi-Fi or smart home integration; this is a standalone keypad lock, not a smart lock"
   - Installation requires a 2-1/8 inch " bore hole; renters or those with odd door prep may need extra work
   - "Audible beeps can't be fully silenced — only the keypress tones, not the lock/unlock confirmation"
+
 ---
 
 **The BRINKS Keyless Entry Deadbolt Is a Workhorse — But It's Not a Smart Lock**

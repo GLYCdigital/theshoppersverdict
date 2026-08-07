@@ -1,4 +1,5 @@
 ---
+
 title: "Depets Cat Litter Scoop, Metal Litter Scooper with Deep Shov"
 seo_title: "Depets Cat Litter Scoop Review: Deep Metal Scooper (2026)"
 meta_description: "Honest Depets Cat Litter Scoop review: deep metal shovel head, detachable handle, and solid build. See pros, cons, and if it beats plastic scoops."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BX42PJ9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yqkqTa-uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deep metal shovel head holds twice the clumps of standard plastic scoops, reducing trips to the trash bin"
   - "Detachable handle design makes storage easy and the whole unit is fully rinseable without awkward angles"
   - "Rust-resistant stainless steel won't absorb odors like plastic does"
-cons:
+cons: 
   - "Metal slots are wider than some fine-grain litter brands, letting smaller particles fall through during scooping"
   - "Handle connection point can feel slightly loose if you don't twist it fully into the locked position"
+
 ---
 
 Most cat owners have a graveyard of plastic litter scoops that warped within months, snapped at the handle, or permanently absorbed that ammonia smell no amount of bleach could fix. The Depets Metal Litter Scooper is designed to be the last scoop you buy. After looking at the build quality, the deep shovel geometry, and what 235 verified buyers are saying, here's the honest breakdown.

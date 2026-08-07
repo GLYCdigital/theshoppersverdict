@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year Furniture Protection Plan ($900 - $999.99)"
 seo_title: "ASURION 2-Year Furniture Protection Plan Review (2026)"
 meta_description: "Honest ASURION 2 Year Furniture Protection Plan review for $900-$999.99 furniture. Coverage details, claim process, pros/cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CG6RWBK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Xr76m2WLL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on furniture with power features like recliners, lift chairs, and adjustable bases"
   - "24/7 claims via phone or online with fast approval — most claims processed within 48 hours"
   - "Transferable if you sell or gift the furniture within the coverage period"
-cons:
+cons: 
   - "Does NOT cover accidental damage, stains, tears, or pet damage — only mechanical/electrical failure"
   - "No reimbursement for shipping or delivery fees on replacements; you may pay out of pocket"
   - "Claim denial rate is higher than advertised for cosmetic issues — read the fine print on exclusions"
+
 ---
 
 Let me save you $100 and 20 minutes of reading fine print. The ASURION 2 Year Furniture Protection Plan for items in the $900–$999.99 range is a straightforward extended warranty, but it's not what many shoppers assume it is. This is not accidental damage coverage. It's a mechanical and electrical failure plan. If you're buying a $950 power recliner and worried about the motor dying, this plan has your back. If you're worried about your kid spilling juice on the fabric, it won't.

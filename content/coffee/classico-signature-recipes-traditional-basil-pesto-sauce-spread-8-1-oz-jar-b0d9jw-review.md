@@ -1,4 +1,5 @@
 ---
+
 title: "Classico Signature Recipes Traditional Basil Pesto Sauce & Spread"
 seo_title: "Classico Traditional Basil Pesto Review: Worth It? (2026)"
 meta_description: "Classico Traditional Basil Pesto Sauce review: taste, texture, versatility, and value. See how this pantry staple compares to fresh pesto before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9JW1LRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F6ypyloYL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, authentic basil-forward flavor with real Parmigiano-Romano cheese — not a generic olive-oil paste"
   - "Thick, spreadable consistency works as both a sauce and a sandwich spread without turning watery"
   - "One 8.1 oz jar covers roughly 4-6 pasta servings, making it a solid value at typical grocery prices"
-cons:
+cons: 
   - "Contains soybean oil and added sugar, which purists may notice compared to fresh-made pesto"
   - "Once opened, the jar needs refrigeration and should be used within 2-3 weeks before flavor fades"
+
 ---
 
 If you’ve ever grabbed a jar of pesto only to find it tastes like oily basil-scented mush, you know the struggle. Classico’s Signature Recipes Traditional Basil Pesto sits a notch above that sad baseline — and with 229 Amazon ratings averaging 4.6 stars, it’s clearly earning its place in shoppers’ carts. But is it a true replacement for fresh pesto, or just a convenient compromise? Here’s the honest breakdown.

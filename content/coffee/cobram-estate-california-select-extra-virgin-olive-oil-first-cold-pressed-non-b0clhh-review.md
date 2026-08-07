@@ -1,4 +1,5 @@
 ---
+
 title: "Cobram Estate California Select Extra Virgin Olive Oil, Firs"
 seo_title: "Cobram Estate California Select EVOO Review (2026)"
 meta_description: "Honest Cobram Estate California Select EVOO review: flavor, freshness, price, and who should buy. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLHH2RR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41kerICoLVL._SL1080_.jpg"
-pros:
+pros: 
   - "Harvest date printed on bottle — you know exactly how fresh it is, unlike 90% of supermarket olive oils"
   - "Bold, peppery finish that actually tastes like real olive oil, not the bland neutral stuff"
   - "High polyphenol count (over 400 mg/kg) means genuine health benefits, not marketing claims"
-cons:
+cons: 
   - "The peppery kick can be too aggressive for delicate dishes or people new to quality EVOO"
   - "Premium price point — you'll pay noticeably more than standard grocery store brands"
   - "Dark glass bottle is great for freshness but makes it hard to see how much oil remains"
+
 ---
 
 Let's be direct: most "extra virgin olive oil" on American shelves is a lie. It's old, oxidized, or blended with cheap refined oil. Cobram Estate is not that. This California Select bottle is one of the few oils you can buy where the harvest date is printed right on the label — and that alone puts it ahead of 95% of what you'll find at the supermarket.

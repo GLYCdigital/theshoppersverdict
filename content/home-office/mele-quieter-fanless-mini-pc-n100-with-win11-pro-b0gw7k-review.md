@@ -1,4 +1,5 @@
 ---
+
 title: "MeLE Quieter Fanless Mini PC N100 with Win11 Pro"
 seo_title: "MeLE Quieter Fanless Mini PC N100 with Win11 Pro Review: "
 meta_description: "Our full mele quieter fanless mini pc n100 with win11 pro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GW7K5X8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oXFDVJ2HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MeLE Quieter Fanless Mini PC N100 Review: The Silent Desk Companion That Actually Delivers

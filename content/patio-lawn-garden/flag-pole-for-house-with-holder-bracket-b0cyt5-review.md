@@ -1,4 +1,5 @@
 ---
+
 title: "Flag Pole for House with Holder Bracket"
 seo_title: "Flag Pole for House with Holder Bracket Review (2026) | Best"
 meta_description: "Honest review of the Flag Pole for House with Holder Bracket: 4.5★, 225+ ratings. Build quality, mounting depth, wind performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYT5H9CQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PsdEu0MzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick-gauge aluminum pole resists bending in gusts, with a powder-coated finish that holds up against UV and salt air"
   - "Adjustable bracket angles (0–15°) let you mount on siding, brick, or eaves without shims"
   - "Ball-bearing swivel ring prevents the flag from wrapping around the pole during wind shifts"
-cons:
+cons: 
   - "Bracket mounting hardware is basic zinc-plated screws — upgrade to stainless if you live within 10 miles of the coast"
   - "Pole sections use a friction-lock taper; if you don't seat them fully, the top section can rattle in high wind"
+
 ---
 
 Most house-mounted flag poles are flimsy aluminum tubes that sag after a season. This one isn't. The pole is built from a thick-wall 6063 aluminum alloy, and the finish is a matte powder coat that doesn't chalk or peel in direct sun. The bracket itself is a heavy stamped steel unit with a 0°–15° tilt adjustment, so you can match the angle of your siding or eave without improvising shims.

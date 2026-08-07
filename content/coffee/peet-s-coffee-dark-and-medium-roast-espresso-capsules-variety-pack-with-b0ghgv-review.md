@@ -1,4 +1,5 @@
 ---
+
 title: "Peet's Coffee, Dark and Medium Roast Espresso Capsules Varie"
 seo_title: "Peet's Coffee, Dark and Medium Roast Espresso Caps Review"
 meta_description: "Our full peet's coffee, dark and medium roast espresso capsules varie review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GHGVJ1NH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eGWmEe65L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Peet's Espresso Capsules: Worth the Premium Over Store Brand?**

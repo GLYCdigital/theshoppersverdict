@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 12V/20V MAX LED Work Light, Compact with 360 Degree R"
 seo_title: "DEWALT 12V/20V MAX LED Work Light Review: Compact, Bright"
 meta_description: "Honest DEWALT 12V/20V MAX LED Work Light review: 360° rotation, dual-voltage power, real-world brightness tests, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B088XWTWPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611-HMF4I2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-voltage compatibility runs on both 12V and 20V MAX batteries, so one light works across your existing DEWALT ecosystem"
   - "360-degree rotating head locks into any angle, making it genuinely useful in tight crawl spaces and under-sink work"
   - "Compact body (roughly 6 inches) fits in a tool bag pocket without adding noticeable weight"
-cons:
+cons: 
   - "No USB pass-through charging — you can't use it as a battery charger for your phone or other devices"
   - "Brightness is capped at 250 lumens; fine for close work but underpowered for illuminating an entire room"
+
 ---
 
 If you've ever held a flashlight in your teeth while trying to tighten a pipe fitting, you already know why this DEWALT light exists. The 12V/20V MAX LED Work Light solves the most basic problem on any job site: getting light exactly where you need it without a third hand to hold the source.

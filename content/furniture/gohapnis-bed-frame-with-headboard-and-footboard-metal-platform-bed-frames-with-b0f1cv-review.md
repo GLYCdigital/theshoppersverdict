@@ -1,4 +1,5 @@
 ---
+
 title: "Gohapnis Bed Frame with Headboard and Footboard,Metal Platfo"
 seo_title: "Gohapnis Metal Bed Frame Review: Sturdy Platform with Headboard"
 meta_description: "Honest Gohapnis bed frame review: metal platform construction, headboard & footboard included. See pros, cons, and who should buy this 4.4-star frame."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1CVSZC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81X5Gm3-d6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly with sliding lock mechanism — most buyers report setup under 30 minutes"
   - "Full headboard and footboard included at a price point where competitors often charge extra"
   - "14 inches of under-bed clearance fits standard storage bins and robot vacuums"
-cons:
+cons: 
   - "Metal frame can squeak on hardwood floors without the included floor protectors properly positioned"
   - "No center support beam on queen and king sizes — heavier sleepers may notice some flex"
   - "Headboard is purely decorative; no shelf or charging ports for bedside essentials"
+
 ---
 
 Let's be blunt: most sub-$200 bed frames are flimsy compromises. The Gohapnis Metal Platform Bed Frame, however, punches above its weight class — with a few caveats worth knowing before you click "add to cart."

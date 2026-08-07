@@ -1,4 +1,5 @@
 ---
+
 title: "Japanese Sushi Sauce by Shirakiku | Sweet and Savory Authent"
 seo_title: "Japanese Sushi Sauce by Shirakiku | Sweet and Savo Review"
 meta_description: "Our full japanese sushi sauce by shirakiku | sweet and savory authent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07H6LWD1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-dErjm8OL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Shirakiku Sushi Sauce Review: Is This the Umami Shortcut You Need?

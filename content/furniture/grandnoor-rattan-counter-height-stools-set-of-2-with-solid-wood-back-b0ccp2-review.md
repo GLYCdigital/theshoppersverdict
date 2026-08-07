@@ -1,4 +1,5 @@
 ---
+
 title: "GrandNoor Rattan Counter Height Stools Set of 2 with Solid W"
 seo_title: "GrandNoor Rattan Counter Stools Review: 4.8-Star Buy or Skip?"
 meta_description: "Honest GrandNoor rattan counter height stools review — solid wood build, style, comfort, and durability. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CCP28BPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DkGnqW8lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine solid wood frame — not the hollow particleboard you find at this price point"
   - "Hand-woven rattan back that's tightly wrapped and feels substantial, not flimsy"
   - "Assembles in under 15 minutes with only four bolts per stool"
-cons:
+cons: 
   - "No footrest padding — bare wood can get uncomfortable for taller users over long sits"
   - "Rattan weave is natural; expect minor color variation between stools that some may find inconsistent"
   - "Seat height is fixed at 24 inches — won't work for standard 30-inch tables"
+
 ---
 
 # GrandNoor Rattan Counter Height Stools Set of 2 with Solid W: The Natural-Fiber Upgrade Your Kitchen Actually Needs

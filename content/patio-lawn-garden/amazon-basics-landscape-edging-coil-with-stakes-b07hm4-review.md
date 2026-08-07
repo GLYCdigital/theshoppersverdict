@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Landscape Edging Coil with Stakes"
 seo_title: "Amazon Basics Landscape Edging Coil Review (2026)"
 meta_description: "Amazon Basics Landscape Edging Coil with Stakes review: 4.4-star rated. Is this budget edging worth it? We break down durability, installation, and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HM4K3HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Nw75TDRhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flexible 20-foot coil bends easily around curves and tight radii without kinking or cracking"
   - "Stakes are long enough (about 8 inches) to hold firm in loose soil and stay put through rain"
   - "At roughly $0.50 per foot, it undercuts big-box store brands by 40% while offering similar thickness"
-cons:
+cons: 
   - "Material is noticeably thinner (about 1.5mm) than premium edging — can warp under extreme heat or repeated frost heave"
   - "Stakes have small heads that can pull through the edging slots if you hammer them too aggressively"
   - "Black color fades to a grayish tone within one season in full-sun southern exposures"
+
 ---
 
 Let's be honest about landscape edging: it's not glamorous, but the right product saves you weekends of re-digging trenches and fighting creeping grass. The Amazon Basics Landscape Edging Coil with Stakes has become a default pick for budget-conscious gardeners, and with 220 ratings averaging 4.4 stars, it's clearly doing something right. But is it the right edging for *your* yard? Here's the unvarnished truth.

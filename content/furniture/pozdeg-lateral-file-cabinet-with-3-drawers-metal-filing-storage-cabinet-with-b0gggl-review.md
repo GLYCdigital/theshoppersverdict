@@ -1,4 +1,5 @@
 ---
+
 title: "pozdeg Lateral File Cabinet with 3 Drawers, Metal Filing Sto"
 seo_title: "pozdeg Lateral File Cabinet with 3 Drawers, Metal  Review"
 meta_description: "Our full pozdeg lateral file cabinet with 3 drawers, metal filing sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GGGLQB2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ujQ0JdNvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most lateral file cabinets under $150 are cheaply made with particleboard backs and drawers that wobble. The pozdeg 3-drawer metal cabinet isn’t that — but it’s also not a $400 Steelcase. At a 3.8-star average from 190 ratings, it sits in a frustrating middle ground. Here’s what you’re actually getting.

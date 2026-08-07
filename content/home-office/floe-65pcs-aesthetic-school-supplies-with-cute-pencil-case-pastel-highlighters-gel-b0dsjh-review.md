@@ -1,4 +1,5 @@
 ---
+
 title: "FLOE 65PCS Aesthetic School Supplies with Cute Pencil Case, "
 seo_title: "FLOE 65PCS Aesthetic School Supplies with Cute Pen Review"
 meta_description: "Our full floe 65pcs aesthetic school supplies with cute pencil case,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSJH1WY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pmncpPkPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a tween, a college student, or yourself (no judgment — pastel stationery is a legitimate personality trait), the FLOE 65-piece set is the kind of purchase that either delights or disappoints based on one question: are you buying for the *vibe* or for *daily durability*? Let's unpack both.

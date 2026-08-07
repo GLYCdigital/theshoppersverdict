@@ -1,5 +1,6 @@
 ---
 
+
 title: "DoinMaster Solar Metal Address Signs for Yard with 50 Custom"
 seo_title: "DoinMaster Solar Address Signs Review: Worth It? (2026)"
 meta_description: "Honest DoinMaster solar metal address sign review: durability, brightness, customization options, and whether it's worth your money."
@@ -12,13 +13,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09ZVLCPWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OAoqc7-yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True custom engraving on both sides — not cheap stick-on vinyl numbers that peel in a year"
   - "Solid metal construction with a powder-coated finish that handles rain, snow, and direct sun without rusting"
   - "Solar panel is separate from the sign, so you can angle it for maximum sun even if your mounting spot is shaded"
-cons:
+cons: 
   - "Battery life drops noticeably in winter — expect dimmer numbers when daylight hours shrink below 8 inch"
   - "The included ground stakes are thin; the sign wobbles in soft soil or high winds unless you mount it on a post"
+
 
 ---
 

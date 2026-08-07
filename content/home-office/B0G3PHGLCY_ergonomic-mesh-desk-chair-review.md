@@ -1,4 +1,5 @@
 ---
+
 title: "Ergonomic Mesh Desk Chair with Adjustable Lumbar Support"
 seo_title: "Ergonomic Mesh Desk Chair Review: Headrest & Lumbar Support"
 meta_description: "Our honest ergonomic mesh desk chair review: adjustable lumbar support, breathable back, and headrest. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 1
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0G3PHGLCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vu3nqsjZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Breathable full-back mesh that prevents sweaty-back syndrome during long sitting sessions, unlike padded leather chairs"
   - "Independent lumbar support that adjusts vertically AND in depth — rare at this price point"
   - "Flip-up armrests that slide completely out of the way for keyboard work or sliding the chair under a desk"
-cons:
+cons: 
   - Only one size option — taller users (6'2 inch "+) may find the seat depth slightly short
   - "No seat angle tilt lock; the rocking tension requires a hex key to adjust, not a lever"
   - "With only one verified rating, long-term durability is still unproven"
+
 ---
 
 Let’s be blunt: most mesh chairs under $200 are flimsy, squeaky, and make you feel like you’re sitting on a wire rack. This one breaks that pattern. The Ergonomic Mesh Desk Chair with Adjustable Lumbar Support at $169.99 has a 5.0-star rating — but with only one review, that number needs context. Here’s what the rating doesn’t tell you, and what actually matters for your back and your wallet.

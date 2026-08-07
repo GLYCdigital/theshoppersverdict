@@ -1,4 +1,5 @@
 ---
+
 title: "Heifymi E12 E17 LED Bulbs 40W 60W"
 seo_title: "Heifymi E12 E17 LED Bulbs 40W 60W Review: Verdict | TSV"
 meta_description: "Our full heifymi e12 e17 led bulbs 40w 60w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXFKN4XY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WEPE3hgbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Candelabra Bulb That Actually Fits Both E12 and E17 — Without the Adapter Hassle**

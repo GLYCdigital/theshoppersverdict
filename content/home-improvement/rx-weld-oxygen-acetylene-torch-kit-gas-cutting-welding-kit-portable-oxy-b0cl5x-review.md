@@ -1,4 +1,5 @@
 ---
+
 title: "RX WELD Oxygen & Acetylene Torch Kit, Gas Cutting Welding Ki"
 seo_title: "RX WELD Oxygen & Acetylene Torch Kit, Gas Cutting  Review"
 meta_description: "Our full rx weld oxygen & acetylene torch kit, gas cutting welding ki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CL5XCZZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7114Y0j2kbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: buying a cheap oxy-acetylene kit on Amazon feels like a gamble. Gas torches can kill you if assembled wrong, and the market is flooded with no-name kits that look identical in photos but fall apart in practice. The RX WELD kit sits in that crowded middle ground. After digging through 200 customer ratings, the build sheets, and real user experiences, here's the honest breakdown.

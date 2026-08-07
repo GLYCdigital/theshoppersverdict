@@ -1,4 +1,5 @@
 ---
+
 title: "WICHEMI Condiment Caddy with Lid Dispenser Tray Bar Fruit Ca"
 seo_title: "WICHEMI Condiment Caddy with Lid Dispenser Tray Ba Review"
 meta_description: "Our full wichemi condiment caddy with lid dispenser tray bar fruit ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RT4SG6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eSlJzhALL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Condiment Caddy That Finally Works?

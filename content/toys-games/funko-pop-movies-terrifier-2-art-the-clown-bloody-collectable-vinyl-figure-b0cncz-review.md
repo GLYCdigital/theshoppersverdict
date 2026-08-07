@@ -1,4 +1,5 @@
 ---
+
 title: "Funko POP! Movies: Terrifier 2 - Art the Clown - Bloody - Co"
 seo_title: "Funko POP Terrifier 2 Art the Clown Bloody Review (2026)"
 meta_description: "Honest Funko POP Terrifier 2 Art the Clown Bloody review: paint details, sizing, and collector value. See if this horror exclusive is worth adding."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CNCZV7R2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pclm5uZ4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy blood-red paint application with realistic splatter pattern across the black jumpsuit and face — not a lazy repaint"
   - "Signature black-and-white makeup sculpt captured accurately, including the exaggerated grin and hollow eye sockets"
   - "Stable 4-inch figure with weighted base; stands without wobble even on uneven shelves"
-cons:
+cons: 
   - "Bloody variant is essentially the same mold as the standard Art the Clown — if you own that one, this is a paint swap"
   - "No accessories or alternate hands; single static pose limits display options compared to other horror POPs"
+
 ---
 
 **Funko POP! Movies: Terrifier 2 – Art the Clown (Bloody): A Collector's Deep Dive**

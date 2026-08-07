@@ -1,4 +1,5 @@
 ---
+
 title: "Pulsar Gaming Gears Crazylight Wireless Gaming Mouse, Ultra "
 seo_title: "Pulsar Gaming Gears Crazylight Wireless Gaming Mou Review"
 meta_description: "Our full pulsar gaming gears crazylight wireless gaming mouse, ultra  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GRSVSW7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PjhB95iJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook — why this mouse is worth your attention**

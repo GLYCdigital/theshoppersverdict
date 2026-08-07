@@ -1,4 +1,5 @@
 ---
+
 title: "MikroTik S+RJ10"
 seo_title: "MikroTik S+RJ10 Review: Verdict | TSV"
 meta_description: "Our full mikrotik s+rj10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B078SNK1MY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pf7wBNOlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. You're staring at a 10-gigabit upgrade and the SFP+ port on your switch is begging for a module. The MikroTik S+RJ10 is the copper transceiver everyone recommends — but is it actually good, or just cheap? I've run this thing hard in a homelab and a small office. Here's the real story.

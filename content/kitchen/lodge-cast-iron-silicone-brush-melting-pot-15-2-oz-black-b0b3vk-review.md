@@ -1,4 +1,5 @@
 ---
+
 title: "Lodge Cast Iron Silicone Brush Melting Pot, 15.2 oz, Black"
 seo_title: "Lodge Cast Iron Silicone Brush Melting Pot, 15.2 o Review"
 meta_description: "Our full lodge cast iron silicone brush melting pot, 15.2 oz, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B3VKXV3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xmlmrmLEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most melting pots are plastic junk that scorch chocolate on setting two. The Lodge Cast Iron Silicone Brush Melting Pot is not that. This 15.2-ounce cast iron mini-pot earns its 4.8-star rating (240 ratings) by solving the two biggest problems with melting: uneven heat and messy application. But it's not for everyone.

@@ -1,4 +1,5 @@
 ---
+
 title: "NETGEAR Nighthawk DOCSIS 3.1 Mid/high-Split Cable Modem (CM2"
 seo_title: "NETGEAR Nighthawk DOCSIS 3.1 Mid/high-Split Cable  Review"
 meta_description: "Our full netgear nighthawk docsis 3.1 mid/high-split cable modem (cm2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3W6N667/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41cZIxqB+KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NETGEAR Nighthawk CM2500 is the modem you buy when you're tired of renting a $15/month box from your cable company and want something that won't be obsolete in 18 months. But here's the catch: it's built for a future that hasn't fully arrived everywhere yet.

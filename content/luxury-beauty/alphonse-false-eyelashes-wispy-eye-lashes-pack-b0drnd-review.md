@@ -1,4 +1,5 @@
 ---
+
 title: "ALPHONSE False Eyelashes Wispy Eye Lashes Pack"
 seo_title: "ALPHONSE Wispy Lashes Review: Fluffy 3D Pack Worth It?"
 meta_description: "Honest ALPHONSE wispy false eyelashes review: 3D crisscross design, comfort, durability, and who should buy. Real pros, cons, and rating."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRNDKSLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rukiLx-sL._SL1500_.jpg"
-pros:
+pros: 
   - "True 3D crisscross layering creates feathery depth that reads as natural, not costume-y"
   - "Ultra-thin 0.03mm clear band disappears at the lash line — no visible glue line even in photos"
   - "Reusable up to 10 times with proper care, making the per-wear cost genuinely competitive"
-cons:
+cons: 
   - "Wispy tips are delicate — aggressive mascara layering or rough removal will shorten lifespan"
   - "Band flexibility requires practice; beginners may find the cotton-free style trickier to seat than standard strips"
+
 ---
 
 **The 4.2-star verdict on these feathery lashes — and who should actually buy them**

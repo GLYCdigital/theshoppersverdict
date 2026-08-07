@@ -1,4 +1,5 @@
 ---
+
 title: "HOMEBOSILY Under Sink Organizer"
 seo_title: "HOMEBOSILY Under Sink Organizer Review: Verdict | TSV"
 meta_description: "Our full homebosily under sink organizer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHHQBLKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ayPMbdrsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The under-sink cabinet is where good intentions go to die. You buy the organizer, swear you'll keep it tidy, and three weeks later you're spelunking for a bottle of drain cleaner behind a pile of old sponges. The HOMEBOSILY Under Sink Organizer attempts to fix this with a simple premise: two sliding drawers that pull out so you can actually see what you own.

@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman 4 QT Compact Air Fryer"
 seo_title: "Chefman 4 QT Compact Air Fryer Review: Worth It? (2026)"
 meta_description: "Honest Chefman 4 QT Compact Air Fryer review: performance, real user feedback, downsides, and who should buy it. Read before you spend."
@@ -11,12 +12,13 @@ review_count: 3220
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNY1F31S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ld+1SBc5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact 10.5 x 11.5-inch footprint fits tight countertops; still fits a 4 QT basket that handles a 3-4 lb chicken"
   - "Digital touchscreen with 8 presets (fries, chicken, steak, fish, shrimp, pizza, bake, reheat) and shake reminder"
-cons:
+cons: 
   - "Nonstick basket coating is fragile; several buyers report peeling within months despite hand-washing"
   - "No pause function when you pull the basket mid-cycle — timer keeps running, so you lose time checking food"
+
 ---
 
 Opening a box labeled "compact" usually means compromising on capacity or power. The Chefman 4 QT doesn't ask you to choose. It squeezes a genuinely useful basket into a machine that won't dominate your countertop. But "compact" also means tradeoffs, and a few of them are real enough that you should read this before clicking buy.

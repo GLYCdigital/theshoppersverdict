@@ -1,4 +1,5 @@
 ---
+
 title: "FANDAMEI Press On Nails, 6 Colors Cat Eye Press On Nails Sho"
 seo_title: "FANDAMEI Cat Eye Press On Nails Review: 6 Colors Tested"
 meta_description: "Honest FANDAMEI cat eye press on nails review: 6 magnetic colors tested for wear, fit, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FBRTJZ3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cXUwADlDL._SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic cat eye effect actually works — each set includes a wand that pulls the shimmer into a defined stripe"
   - "Six distinct colorways in one box gives you a salon range for under what a single gel manicure costs"
   - "Short, almond-shaped tips are practical for typing, texting, and everyday tasks without the learning curve of long nails"
-cons:
+cons: 
   - "Sizing runs small — buyers with wider nail beds report having to file down or skip the thumb pieces entirely"
   - "The included adhesive tabs fail faster than the glue; expect 2–3 days of wear with tabs versus up to a week with glue"
   - "Magnetic effect dulls noticeably after the first few days as the top layer gets scratched from routine use"
+
 ---
 
 **The short version: These are the press-ons that actually deliver the cat eye effect — if your nail beds are on the narrower side.**

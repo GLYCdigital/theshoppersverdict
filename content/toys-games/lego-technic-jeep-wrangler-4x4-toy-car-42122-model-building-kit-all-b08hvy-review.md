@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic Jeep Wrangler 4x4 Toy Car 42122 Model Building "
 seo_title: "LEGO Technic Jeep Wrangler 4x4 Toy Car 42122 Model Review"
 meta_description: "Our full lego technic jeep wrangler 4x4 toy car 42122 model building  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08HVYLS6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UGX0KDxuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO Technic Jeep Wrangler 42122 Review: The Off-Roader That Actually Rolls**

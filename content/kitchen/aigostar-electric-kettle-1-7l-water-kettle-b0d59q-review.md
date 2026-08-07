@@ -1,4 +1,5 @@
 ---
+
 title: "Aigostar Electric Kettle 1.7L, Water Kettle"
 seo_title: "Aigostar Electric Kettle 1.7L Review: Fast, Safe, and Quiet"
 meta_description: "Honest Aigostar Electric Kettle 1.7L review: boil speed, build quality, safety features, and real owner feedback. Find out if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D59QB7VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l64wxuLlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1500W heating element boils a full 1.7L in about 5 minutes, consistently faster than my old 1200W kettle"
   - "Stainless steel interior with no plastic touching the water—no chemical taste, even after weeks of daily use"
   - "Auto shut-off and boil-dry protection actually work; kettle clicks off within 2 seconds of reaching a rolling boil"
-cons:
+cons: 
   - "Lid is stiff to open when hot—you'll need a towel or oven mitt to flip it up after boiling"
   - "Base has no cord storage, so the 28-inch cord dangles awkwardly on crowded countertops"
+
 ---
 
 Let's be honest: most electric kettles are boring. You plug them in, water boils, you pour. The Aigostar 1.7L doesn't reinvent the category, but it gets the fundamentals right—and a few details wrong. Here's what 220 Amazon buyers and I found out.

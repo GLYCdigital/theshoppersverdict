@@ -1,4 +1,5 @@
 ---
+
 title: "HOME EDIT Champagne Bronze Kitchen Cabinet Knobs, Solid Zinc"
 seo_title: "HOME EDIT Champagne Bronze Kitchen Cabinet Knobs,  Review"
 meta_description: "Our full home edit champagne bronze kitchen cabinet knobs, solid zinc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM1W2RWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NFzn3uEsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The champagne bronze hardware trend shows no signs of slowing down, but the market is flooded with knobs that look right in the product photo and arrive looking like cheap spray-painted plastic. The HOME EDIT solid zinc knobs are not those. With a 4.7-star average across 235 ratings, these round pulls have earned their place in kitchens that need that warm, brushed-gold-meets-bronze tone without the brass-plated flaking problem.

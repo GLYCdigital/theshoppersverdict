@@ -1,4 +1,5 @@
 ---
+
 title: "Pelican Argo 100X EXO - Premium Sit-in Recreational Kayak -1"
 seo_title: "Pelican Argo 100X EXO - Premium Sit-in Recreationa Review"
 meta_description: "Our full pelican argo 100x exo - premium sit-in recreational kayak -1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FCSKB7J4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rCOCrLURL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pelican Argo 100X EXO isn't just another entry-level kayak. It's the rare budget sit-in that actually solves the problems that make beginners hate sit-ins: water sloshing over the cockpit rim, cramped legroom, and seats that leave you numb after an hour.**

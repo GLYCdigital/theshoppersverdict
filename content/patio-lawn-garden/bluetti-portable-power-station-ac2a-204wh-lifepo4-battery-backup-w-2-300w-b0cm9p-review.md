@@ -1,4 +1,5 @@
 ---
+
 title: "BLUETTI Portable Power Station AC2A, 204Wh LiFePO4 Battery B"
 seo_title: "BLUETTI AC2A Review: 204Wh LiFePO4 Portable Power Station"
 meta_description: "Honest BLUETTI AC2A review: 204Wh LiFePO4 battery, 300W output, 2 AC outlets. Is this compact power station worth it for camping and emergencies? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CM9P75TV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qecHKjxmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "LiFePO4 battery rated for 3,000+ charge cycles — roughly 10 years of daily use before meaningful degradation"
   - "2,700W surge capacity via Power Lifting mode can start small refrigerators and power tools despite 300W continuous rating"
   - "Charges from 0-80% in 45 minutes via AC — faster than most competitors in this size class"
-cons:
+cons: 
   - "204Wh capacity is genuinely small — a 60W CPAP draws it down in under 3 hours"
   - "No wireless charging pad and only 1 USB-C port (100W max) limits modern device charging"
   - "Fan noise is noticeable under sustained load — not ideal for bedside backup"
+
 ---
 
 Let me be direct: the BLUETTI AC2A is not the power station you buy to run your whole house during an outage. It's the one you buy for the specific jobs where lugging a 30-pound brick is overkill. At 7.5 pounds with a handle that actually fits your hand, this is the grab-and-go option that lives in your trunk or on a patio shelf without becoming furniture.

@@ -1,4 +1,5 @@
 ---
+
 title: "RIDGID 59787 K-3 Toilet Auger, 3-Foot Toilet Auger Snake wit"
 seo_title: "RIDGID 59787 K-3 Toilet Auger, 3-Foot Toilet Auger Review"
 meta_description: "Our full ridgid 59787 k-3 toilet auger, 3-foot toilet auger snake wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Q8T7GFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31cJHdyQjrL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When a toilet backs up at 11 PM, you have two options: call a plumber and pay $150, or grab a $20 auger and handle it yourself. The RIDGID K-3 sits firmly in the second camp, and after looking at what 229 buyers have to say (4.6 stars), it's clear this little snake earns its place in most home toolboxes.

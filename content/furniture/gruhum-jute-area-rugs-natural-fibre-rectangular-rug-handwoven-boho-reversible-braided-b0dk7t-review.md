@@ -1,4 +1,5 @@
 ---
+
 title: "GRUHUM Jute Area Rugs Natural Fibre Rectangular Rug Handwove"
 seo_title: "GRUHUM Jute Area Rug Review: Natural Boho Flooring"
 meta_description: "Honest GRUHUM jute area rug review: natural fibre, handwoven, reversible. Real pros, cons, and fit for your space before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DK7T6ZF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915TUs4echL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine handwoven jute with a tight, durable weave that holds up to daily foot traffic without shedding excessively"
   - "Reversible design doubles the lifespan — flip it when one side shows wear and it looks fresh again"
   - "Natural fibre construction is inherently stain-resistant and easy to clean with just a vacuum or damp cloth"
-cons:
+cons: 
   - "Jute is rough underfoot — not ideal for bare feet, kneeling, or play areas without a rug pad underneath"
   - "Fibre can shed noticeably for the first few weeks, which may frustrate buyers with allergies or hard floors"
   - "No non-slip backing — on hardwood or tile, this rug will slide without a separate grip pad (not included)"
+
 ---
 
 If you’ve been scrolling past the same polyester shag rugs and wondering whether natural fibre actually delivers, the GRUHUM jute area rug is worth a hard look. This handwoven, rectangular piece brings a texture and earthy warmth that synthetic rugs simply can’t fake. But as with any natural material, there are tradeoffs you need to know before checkout.

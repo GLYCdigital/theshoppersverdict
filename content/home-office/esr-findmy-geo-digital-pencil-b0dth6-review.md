@@ -1,4 +1,5 @@
 ---
+
 title: "ESR Findmy Geo Digital Pencil"
 seo_title: "ESR Findmy Geo Digital Pencil Review: Find My iPad Stylus"
 meta_description: "ESR Findmy Geo Digital Pencil review: magnetic iPad stylus with Apple Find My tracking, USB-C charging, palm rejection. Is it worth it? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTH66PHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iErqOsKSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Apple Find My integration actually works — locates pencil in Lost Mode with proximity alerts on iPhone"
   - "Magnetic snap-on charging with USB-C fallback; 100-hour battery life beats Apple Pencil's 12-hour rating"
   - "Full palm rejection and tilt sensitivity at roughly half the price of Apple Pencil (2nd gen)"
-cons:
+cons: 
   - "No pressure sensitivity — a dealbreaker for professional illustrators, fine for note-takers"
   - "Wireless charging only works on iPad Pro/Air models with side magnetic rail, not standard iPads"
   - "Latency is good but not Apple Pencil-grade; occasional lag with heavy Procreate brush strokes"
+
 ---
 
 ## The Anti-Loss Stylus That Actually Works

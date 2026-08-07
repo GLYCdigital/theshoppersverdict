@@ -1,4 +1,5 @@
 ---
+
 title: "11 Pcs Magnetic Train Set Montessori Toys for 1 2 3 Years Ol"
 seo_title: "11 Pcs Magnetic Train Set Review: Montessori Toys for Toddlers"
 meta_description: "Honest review of the 11 Pcs Magnetic Train Set Montessori Toys for 1 2 3 year olds. See how this 4.6-star toddler toy performs, its real pros & cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFDXHB5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813GTy7DJuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic connectors are strong enough to hold cars together during play but detach easily for small hands"
   - "Wooden construction feels substantial — no cheap plastic wobble or sharp edges"
   - "11-piece set gives variety (engine, passenger cars, cargo cars) without overwhelming a young toddler"
-cons:
+cons: 
   - "No track pieces included — it's a pull-along set, not a track system, which some buyers may not expect"
   - "The 1-year-old age claim is optimistic; the small magnetic pieces require supervision for the youngest toddlers"
+
 ---
 
 **The Short Version: A Magnetic Train Set That Actually Respects Toddler Physics**

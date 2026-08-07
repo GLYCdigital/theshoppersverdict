@@ -1,4 +1,5 @@
 ---
+
 title: "RealspaceÂ® Modern Comfort Series Winsley Bonded Leather Mid"
 seo_title: "RealspaceÂ® Modern Comfort Series Winsley Bonded L Review"
 meta_description: "Our full realspaceâ® modern comfort series winsley bonded leather mid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01N6PGHFE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610q-R3ODFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen this chair in every office supply catalog for a decade. The Realspace Modern Comfort Series Winsley is the default mid-back chair in thousands of cubicles — and there's a reason for that. But is it the right chair for *your* home office? After digging through 220 Amazon ratings and the spec sheet, here's the honest breakdown.

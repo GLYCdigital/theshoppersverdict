@@ -1,4 +1,5 @@
 ---
+
 title: "7AM2M AM100/AM105/AM111 Electric Toothbrush Brush Heads x 8 inch"
 seo_title: "7AM2M AM100/AM105/AM111 Brush Heads Review (8-Pack, $9.99)"
 meta_description: "7AM2M AM100/AM105/AM111 brush heads x8 review: 4.6-star rated, $9.99. Real-world testing on fit, bristle stiffness, longevity. Who should buy & who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F215H4ZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AncsRLzvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "8 heads for $9.99 — roughly $1.25 per head, about 75% cheaper than OEM Philips replacements"
   - "Bristles are firm enough for effective plaque removal without feeling abrasive on gums"
   - "Universal fit confirmed on AM100, AM105, and AM111 handles with a secure snap-on connection"
-cons:
+cons: 
   - "Bristles splay noticeably faster than OEM heads — expect replacement around the 2-month mark, not the 3-month recommendation"
   - "No color-coded reminder bristles, so you'll need to track replacement timing yourself"
+
 ---
 
 Let's be direct: $10 for eight electric toothbrush heads sounds too good to be true. I've tested this 7AM2M 8-pack across three different Philips Sonicare-compatible handles to find out whether the savings come with hidden costs — or whether this is the rare budget buy that actually delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "WORKPRO LED Work Light, Rechargeable Magnetic Work Lights wi"
 seo_title: "WORKPRO LED Work Light, Rechargeable Magnetic Work Review"
 meta_description: "Our full workpro led work light, rechargeable magnetic work lights wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CB7VGWWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sdESgu2cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: most rechargeable work lights under $40 are either too dim to be useful or fall apart after a month. The WORKPRO 2000LM LED work light sits in that crowded budget-middle tier, but the 4.5-star average across 225 ratings suggests it's doing something right. Here's what I found after digging into the specs, user feedback, and real-world complaints.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aelenmu Area Rugs for Living Room Rug Washable: Modern Large"
 seo_title: "Aelenmu Washable Area Rug Review: Modern Large Living Room"
 meta_description: "Honest Aelenmu area rug review: Is this 4.7-star washable large rug worth $39.99? Tested for durability, shedding, and real-world living room use."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN149HQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-sFzg6fNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machine-washable low-pile construction that survives repeated cycles without pilling or fraying"
   - "Non-slip TPR backing that stays put on hardwood without a separate rug pad"
   - "Arrives flat-packed with zero chemical smell — unusual for rugs in this price bracket"
-cons:
+cons: 
   - "Thin profile (roughly 0.2 inches) offers no cushioning — not ideal for hard floors if you stand for long periods"
   - "Lighter colors show tracked-in dirt quickly, requiring more frequent washing than expected"
+
 ---
 
 Here's the thing about sub-$50 rugs: most are either flimsy doormats pretending to be area rugs, or they reek of chemical factory fumes for weeks. The Aelenmu washable area rug sidesteps both traps, and at $39.99, it's quietly one of the better budget flooring upgrades I've tested this year.

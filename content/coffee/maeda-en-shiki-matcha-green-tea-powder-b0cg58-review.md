@@ -1,4 +1,5 @@
 ---
+
 title: "Maeda-en Shiki Matcha Green Tea Powder"
 seo_title: "Maeda-en Shiki Matcha Green Tea Powder Review: Verdict | "
 meta_description: "Our full maeda-en shiki matcha green tea powder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG58X9XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kWGIEZuNL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought matcha from a hipster café, you know the sting of a $7 latte that tastes like grass clippings. Maeda-en's Shiki line aims to fix that — not by being the cheapest option on Amazon, but by delivering genuinely drinkable ceremonial-grade powder at a price that won't make you wince. After 220 ratings averaging 4.4 stars, the consensus is clear: this is one of the most reliable value plays in the matcha game.

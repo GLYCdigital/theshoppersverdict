@@ -1,4 +1,5 @@
 ---
+
 title: "Sabra Breakfast Avocado Spread With Toast, Avocado Toast Als"
 seo_title: "Sabra Breakfast Avocado Spread With Toast, Avocado Review"
 meta_description: "Our full sabra breakfast avocado spread with toast, avocado toast als review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07FVXJG5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AYAPnbm7L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

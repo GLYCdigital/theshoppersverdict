@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie 35-Well Shadow Palette, Shimmery and Opaque Colors, P"
 seo_title: "Barbie 35-Well Shadow Palette Review: Worth It? (2026)"
 meta_description: "Honest Barbie 35-Well Shadow Palette review: pigmentation, blendability, fallout, and who should buy. Real buyer feedback on this 35-color palette."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CFFPQRQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NazyJbnKL._SL1500_.jpg"
-pros:
+pros: 
   - "35 shades across a genuine mix of matte, shimmer, and metallic finishes — not 30 variations of the same brown"
   - "Opaque payoff in a single swipe, even on lighter skin tones, without needing a wet brush"
   - "Compact case with a full-size mirror holds up to travel without cracking or opening in transit"
-cons:
+cons: 
   - "No brush or applicator included — you'll need your own tools, which is unusual at this price point"
   - "Three or four of the lightest shimmer shades show visible fallout within four hours unless you use a primer"
   - "Packaging is sturdy but plastic-heavy; the clear lid scratches easily if you toss it in a makeup bag loose"
+
 ---
 
 You've seen "35-color palettes" before. Usually that means 30 shades of muddy brown and three chalky pinks that all blend into the same gray smear. The Barbie 35-Well Shadow Palette is not that. This one actually earns its 4.8-star rating across 240 Amazon reviews — and after breaking down what's inside, I get why.

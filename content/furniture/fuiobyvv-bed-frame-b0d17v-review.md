@@ -1,4 +1,5 @@
 ---
+
 title: "FUIOBYVV Bed Frame"
 seo_title: "FUIOBYVV Bed Frame Review: Solid Budget Platform Bed"
 meta_description: "FUIOBYVV bed frame review: Is this $79.99 platform bed worth it? We analyze build quality, assembly, and real customer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D17VZDQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K1SSwcqdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reinforced steel frame with 9 wooden slats supports up to 800 lbs without box spring"
   - "Under-bed clearance of 11.8 inches fits standard storage bins and robot vacuums"
   - "Tool-free assembly takes most buyers under 30 minutes with numbered parts"
-cons:
+cons: 
   - "Slats can shift when making the bed aggressively; a center support bar is sold separately for queen sizes"
   - "Frame can squeak on carpet if not fully tightened during assembly"
+
 ---
 
 A $79.99 bed frame is a gamble. Either you get a wobbly piece of metal that groans every time you roll over, or you get something that quietly does its job for years. The FUIOBYVV Bed Frame, with its 4.4-star average across 220 ratings, leans firmly toward the latter—with a few caveats worth knowing before you click buy.

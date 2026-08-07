@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair MP600 Mini 2TB M.2 NVMe PCIe x4 Gen4 SSD – M.2 223 inch"
 seo_title: "Corsair MP600 Mini 2TB Review: Tiny Gen4 SSD Powerhouse"
 meta_description: "Corsair MP600 Mini 2TB Gen4 SSD review: blazing speeds, compact M.2 2230 build, real-world performance, heat, and compatibility tested."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DD7X1KR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lvsAgR3yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 2TB capacity in the rare M.2 2230 form factor — one of the few high-capacity options for Steam Deck, ROG Ally, and compact laptops"
   - "Sustained sequential reads hit ~7,000 MB/s in real-world testing, not just benchmark marketing numbers"
   - "Includes a graphene heatsink that actually fits inside tight 2230 slots without clearance issues"
-cons:
+cons: 
   - "Runs noticeably warm under sustained heavy writes — you'll want decent chassis airflow or a laptop cooling pad"
   - "No DRAM cache; relies on HMB (Host Memory Buffer), which can cause slight performance dips in some older systems"
   - "Premium pricing per GB compared to standard 2280 drives — you're paying for the compact form factor"
+
 ---
 
 The Corsair MP600 Mini 2TB isn't just another NVMe drive. It's the answer to a very specific, very frustrating problem: finding serious storage capacity in the tiny M.2 2230 form factor. If you own a Steam Deck, ROG Ally, or one of the new ultra-compact laptops like the Surface Pro 9 or Framework 13, you know the pain of being stuck with a 512GB or 1TB drive. This 2TB option changes the conversation entirely.

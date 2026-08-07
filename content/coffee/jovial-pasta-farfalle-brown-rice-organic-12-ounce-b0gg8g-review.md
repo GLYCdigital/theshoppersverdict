@@ -1,4 +1,5 @@
 ---
+
 title: "Jovial, Pasta Farfalle Brown Rice Organic, 12 Ounce"
 seo_title: "Jovial, Pasta Farfalle Brown Rice Organic, 12 Ounc Review"
 meta_description: "Our full jovial, pasta farfalle brown rice organic, 12 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GG8GW9J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DAx+-ybmL._SL1132_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the gluten-free pasta that finally doesn't taste like a compromise?**

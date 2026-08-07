@@ -1,4 +1,5 @@
 ---
+
 title: "HAOBO Home Upholstered Headboards Foldable Panels with Heigh"
 seo_title: "HAOBO Foldable Headboard Review: Height-Adjustable Panels"
 meta_description: "HAOBO Home upholstered headboards foldable panels review: height-adjustable, tool-free setup, sturdy build. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0892BCLD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1tb5CjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free assembly with foldable design — sets up in under 5 minutes, no drill required"
   - "Height-adjustable legs (roughly 8–14 inches) let you fine-tune panel position against any bed frame"
   - "Sturdy MDF core with dense foam padding and linen-look upholstery that holds up to daily leaning"
-cons:
+cons: 
   - "Fabric is more polyester-blend than true linen — shows pet hair and requires regular lint-rolling"
   - "Legs are plastic, not metal — fine for stationary use but not ideal if you shift the headboard frequently"
+
 ---
 
 Let's be direct: most headboards under $150 are flimsy, ugly, or both. The HAOBO Home Foldable Panel headboard, sitting at 4.5 stars across 225 ratings, claims to break that pattern. After digging through verified buyer feedback and the spec sheet, here's the real story.

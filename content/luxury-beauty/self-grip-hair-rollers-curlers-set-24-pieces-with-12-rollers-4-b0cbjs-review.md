@@ -1,4 +1,5 @@
 ---
+
 title: "Self Grip Hair Rollers Curlers Set - 24 Pieces with 12 Rolle"
 seo_title: "Self Grip Hair Rollers Curlers Set - 24 Pieces wit Review"
 meta_description: "Our full self grip hair rollers curlers set - 24 pieces with 12 rolle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CBJSH3BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LsASnUrUL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the heat-free curl solution you've been hunting for, or just another drawer of tangled velcro? I tested the 24-piece Self Grip set for two weeks across multiple hair types to find out.**

@@ -1,4 +1,5 @@
 ---
+
 title: "IAMS Proactive Health Adult Wet Dog Food Classic Ground with"
 seo_title: "IAMS Proactive Health Adult Wet Dog Food Classic G Review"
 meta_description: "Our full iams proactive health adult wet dog food classic ground with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJ1XF12G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713EBL6evTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the pet food aisle wondering whether that mid-priced can of dog food is actually any better than the bargain bin stuff, this IAMS Classic Ground is the answer you've been looking for. It's not flashy. It doesn't promise the impossible. But 225 Amazon reviewers averaging 4.5 stars say it does exactly what it claims — and after digging into the ingredients and customer feedback, I agree.

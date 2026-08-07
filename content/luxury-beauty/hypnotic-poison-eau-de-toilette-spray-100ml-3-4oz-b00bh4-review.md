@@ -1,4 +1,5 @@
 ---
+
 title: "Hypnotic Poison Eau De Toilette Spray 100ml/3.4oz"
 seo_title: "Hypnotic Poison Eau De Toilette Spray 100ml/3.4oz Review:"
 meta_description: "Our full hypnotic poison eau de toilette spray 100ml/3.4oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00BH4M484/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eP8XXQhqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Fragrance That Refuses to Be Ignored

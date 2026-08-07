@@ -1,7 +1,8 @@
 ---
-title: "WOJET Pressure Washer Pump, 3/4\" Shaft, 3400PSI 2.5GPM, Hori"
-seo_title: "WOJET Pressure Washer Pump, 3/4\" Shaft, 3400PSI 2. Review"
-meta_description: "Our full wojet pressure washer pump, 3/4\" shaft, 3400psi 2.5gpm, hori review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WOJET Pressure Washer Pump, 3/4\ Shaft, 3400PSI 2.5GPM, Hori"
+seo_title: "WOJET Pressure Washer Pump, 3/4\ Shaft, 3400PSI 2. Review"
+meta_description: "Our full wojet pressure washer pump, 3/4\ shaft, 3400psi 2.5gpm, hori review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wojet-pressure-washer-pump-3-4-shaft-3400psi-2-5gpm-horizontal-power-b0dj6l-review"
 image_alt: "WOJET Pressure Washer Pump, 3/4 Shaft, 3400PSI 2.5GPM, Horizontal Power Washer Pump With Anti-seize, Self-Priming, Repla"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ6LBNZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VwKKYX7cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your pressure washer pump just died, you're staring down two options: pay $150+ for a brand-name replacement or gamble on a no-name import. The WOJET 3400 PSI pump sits squarely in that second category, and with 220 ratings averaging 4.4 stars, it's worth a serious look. Here's the real story after digging through buyer experiences and the specs that actually matter.

@@ -1,4 +1,5 @@
 ---
+
 title: "Retrospec Rover Hauler Bike Cargo Trailer - Foldable Frame w"
 seo_title: "Retrospec Rover Hauler Bike Cargo Trailer - Foldab Review"
 meta_description: "Our full retrospec rover hauler bike cargo trailer - foldable frame w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B084DL67K1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iXUotL9AS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Retrospec Rover Hauler: The $200 question is whether you need a cargo trailer at all.**

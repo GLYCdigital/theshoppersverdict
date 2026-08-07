@@ -1,4 +1,5 @@
 ---
+
 title: "Mario Kart Live: Home Circuit -Nintendo Switch"
 seo_title: "Mario Kart Live: Home Circuit -Nintendo Switch Review: Ve"
 meta_description: "Our full mario kart live: home circuit -nintendo switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HKGQXS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Whs7JqhLL._SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Mario Kart has been a couch multiplayer staple for three decades, but Nintendo finally asked the obvious question in 2020: what if the race happened in your living room? Mario Kart Live: Home Circuit answers with a physical, camera-equipped kart that projects augmented reality onto your TV or handheld screen. It's clever, occasionally frustrating, and genuinely unlike anything else on the Switch — but it demands more from your space than your typical game.

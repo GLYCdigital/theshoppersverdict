@@ -1,4 +1,5 @@
 ---
+
 title: "Sorbus Dresser with 9 Drawers - Furniture Storage Chest Towe"
 seo_title: "Sorbus Dresser with 9 Drawers - Furniture Storage  Review"
 meta_description: "Our full sorbus dresser with 9 drawers - furniture storage chest towe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXGGDXDG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jko06qpGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: the Sorbus 9-Drawer Dresser is not the heirloom oak armoire your grandmother had. It's a lightweight, fabric-front storage tower that solves a very specific problem — maximizing vertical storage in tight spaces without requiring a forklift to move. And for that job, it's surprisingly good.

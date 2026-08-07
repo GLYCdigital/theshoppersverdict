@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo V15 i7 IST Parent"
 seo_title: "Lenovo V15 i7 IST Parent Review: Verdict | TSV"
 meta_description: "Our full lenovo v15 i7 ist parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GTTQJ33Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dv+u0obdL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lenovo V15 i7 IST Parent is the kind of laptop that doesn't try to impress you with flashy design — it wants to get work done without drama. After digging through the specs, customer feedback, and what this machine actually delivers at its price tier, here's the honest breakdown.

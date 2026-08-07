@@ -1,4 +1,5 @@
 ---
+
 title: "LEONLITE 5CCT 120V LED Step Lights, 3.5W 5%-100% Dimmable In"
 seo_title: "LEONLITE 5CCT 120V LED Step Lights, 3.5W 5%-100% D Review"
 meta_description: "Our full leonlite 5cct 120v led step lights, 3.5w 5%-100% dimmable in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BV95DWG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515B7Q7iAFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, step lights are one of those products where you get what you pay for — cheap ones buzz, flicker, and die within a year. The LEONLITE 5CCT 120V LED Step Light sits at a different tier, and with 225 ratings averaging 4.5 stars, it's worth understanding why before you hand over your money.

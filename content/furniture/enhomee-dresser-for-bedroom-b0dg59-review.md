@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee Dresser for Bedroom"
 seo_title: "EnHomee Dresser for Bedroom Review: 6-Drawer Solid Wood"
 meta_description: "Honest EnHomee dresser review: 6 spacious drawers, sturdy wood frame, easy assembly. See what 200+ buyers say before you buy. Real pros and cons."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DG59817G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Y1nQZLy6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy MDF/particleboard frame with solid wood legs rated for 30+ lbs per drawer"
   - Six fabric drawers offer deep storage — each measures roughly 14 inch "W x 12 inch "H
   - "Assembles in under 30 minutes with labeled parts and cam-lock hardware"
-cons:
+cons: 
   - "Fabric drawers are not the same as solid wood — they sag slightly when overloaded"
   - "No anti-tip wall anchor included; you'll need to purchase one separately"
+
 ---
 
 ## Is the EnHomee Dresser a Smart Buy? Here's the Real Deal

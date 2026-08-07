@@ -1,4 +1,5 @@
 ---
+
 title: "Best Choice Products Metal Hanging Hammock C-Stand for Chair"
 seo_title: "Best Choice Products C-Stand Review: Sturdy & Portable"
 meta_description: "Read our honest Best Choice Products hammock C-stand review. Tested for stability, build quality, and portability. See real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2YC2VP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLjScprYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 14-gauge steel construction rated for 265 lbs, with a wide 3.5-foot base that resists tipping even with active sitters"
   - "Tool-free assembly in under 10 minutes — the pin-and-lock system beats most stands that require wrenches and socket sets"
   - "Powder-coated finish handles weather well; multiple buyers report leaving it outside all season without rust or peeling"
-cons:
+cons: 
   - "At 32 pounds, it's portable but not light — you won't want to move it daily from yard to patio"
   - "The hanging hook is fixed-height; you'll need to adjust chain links on your chair to find the perfect swing height"
   - "Base footprint is wide enough for stability but requires a roughly 4-foot diameter clear space on your deck or lawn"
+
 ---
 
 You know that hammock chair you bought last summer that's still sitting in its box? The one that needs two trees perfectly spaced and a branch strong enough to hold you? This C-stand from Best Choice Products is the workaround that actually works. It turns any flat spot into a hangout — no trees, no ceiling hooks, no engineering degree required.

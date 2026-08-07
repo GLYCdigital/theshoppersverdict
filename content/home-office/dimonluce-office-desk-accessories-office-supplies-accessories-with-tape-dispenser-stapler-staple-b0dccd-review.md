@@ -1,23 +1,25 @@
 ---
+
 title: "Dimonluce Office Desk Accessories, Office Supplies Accessori"
 seo_title: "Dimonluce Office Desk Accessories Review: Worth It? (2026)"
 meta_description: "Honest Dimonluce office desk accessories review: build quality, tape dispenser performance, what 235 buyers say, and who should buy this set."
 slug: "dimonluce-office-desk-accessories-office-supplies-accessories-with-tape-dispenser-stapler-staple-b0dccd-review"
 image_alt: "Dimonluce office desk accessory set with tape dispenser, stapler, and staple remover on a desk"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCCDYKNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813VCqZef8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Heavy, non-slip base on the tape dispenser — one-handed tearing works without the unit sliding across the desk"  
   - "Stapler loads 100+ staples and has a comfortable, low-effort squeeze — even for smaller hands"  
   - "Matte black finish resists fingerprints and smudges, unlike glossy plastic sets that show every mark"  
-cons:  
+cons: 
   - "Staple remover is small and can feel flimsy if you're removing heavy-gauge staples from thick document stacks"  
   - "No included staples or tape refills — you'll need to buy those separately right away"
+
 ---
 
 **Opening hook**  

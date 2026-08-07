@@ -1,24 +1,26 @@
 ---
+
 title: "FOTING Full 304 Stainless Steel Sump Pump with Float Switch"
 seo_title: "FOTING 304 Stainless Sump Pump Review: 1HP 4600GPH"
 meta_description: "FOTING full 304 stainless sump pump review: 1HP, 4600GPH, float switch. Is it worth it? Real pros, cons, and buying advice for homeowners."
 slug: "foting-full-304-stainless-steel-sump-pump-with-float-switch-1hp-4600gph-b0gxz7-review"
 image_alt: "FOTING full 304 stainless steel submersible sump pump with tethered float switch shown in product image"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 204  
-amazon_rating: 4.1  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 204
+amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GXZ79XPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media.amazon.com/images/I/71xAb4sUtHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Full 304 stainless steel housing and motor casing — resists corrosion far better than painted cast iron or plastic pumps in wet environments"  
   - "1HP motor with 4600 GPH at 10-foot lift handles rapid water intrusion, not just slow seepage"  
   - "Tethered float switch with wide 9-inch activation range gives flexibility for different basin depths"  
-cons:  
+cons: 
   - "Tethered float requires a minimum basin diameter of 14 inches — too wide for many narrow sump pits (check your pit before buying)"  
   - "No built-in check valve included; you'll need to buy one separately or risk water backflow between cycles"  
   - "Weighs 22 pounds fully assembled — heavier than comparable plastic-bodied pumps, making installation awkward in tight spaces"
+
 ---
 
 If your basement floods even once, you'll spend more on cleanup than this pump costs. The FOTING Full 304 Stainless Steel Sump Pump is built for homeowners who want a submersible workhorse that won't rust out in two seasons. At 4.1 stars across 204 ratings, it's not perfect — but for the price point, it punches well above its weight in materials and output.

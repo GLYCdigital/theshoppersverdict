@@ -1,4 +1,5 @@
 ---
+
 title: "Uffy MiniPop Travel Hair Brush â€“ Mini Folding Boar Bristle"
 seo_title: "Uffy MiniPop Travel Hair Brush â€“ Mini Folding Bo Review"
 meta_description: "Our full uffy minipop travel hair brush â€“ mini folding boar bristle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C3798QTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Aztq8E8QL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tiny Brush That Punches Way Above Its Size**

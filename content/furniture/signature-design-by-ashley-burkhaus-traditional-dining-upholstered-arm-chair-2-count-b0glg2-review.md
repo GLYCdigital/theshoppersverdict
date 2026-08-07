@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Burkhaus Traditional Dining Uphol"
 seo_title: "Signature Design by Ashley Burkhaus Traditional Di Review"
 meta_description: "Our full signature design by ashley burkhaus traditional dining uphol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GLG23KKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615QH+LZ1GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a 4.0-star rating with zero reviews tells you nothing. So I dug into the specs, the construction methods, and what Ashley Furniture actually does differently at this price point. Here's the real story on the Burkhaus dining arm chair 2-pack.

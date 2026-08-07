@@ -1,4 +1,5 @@
 ---
+
 title: "STERILITE 12238004 Rect Laundry Hamper"
 seo_title: "STERILITE 12238004 Rect Laundry Hamper Review: Verdict | "
 meta_description: "Our full sterilite 12238004 rect laundry hamper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00FBPHQWO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51h1fv382sL._AC_SL1328_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **STERILITE 12238004 Rect Laundry Hamper Review: The $15 Workhorse That Actually Earns Its Place**

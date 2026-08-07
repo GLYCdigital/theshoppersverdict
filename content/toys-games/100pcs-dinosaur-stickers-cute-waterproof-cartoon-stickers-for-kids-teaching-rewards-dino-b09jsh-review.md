@@ -1,4 +1,5 @@
 ---
+
 title: "100PCS Dinosaur Stickers, Cute Waterproof Cartoon Stickers f"
 seo_title: "100PCS Dinosaur Stickers Review: Cute, Waterproof & Kid-Approved"
 meta_description: "Honest 100PCS dinosaur stickers review: waterproof, vibrant, and perfect for rewards. See what 235 buyers love and what falls short before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09JSHC9HH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rTKFPmxDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof — stickers survive water bottles, laptops, and dishwasher cycles without peeling"
   - "100 unique designs per pack, no duplicates, which is rare at this price point"
   - "Thick vinyl material that doesn't tear when little hands peel them off the sheet"
-cons:
+cons: 
   - "Smaller than expected — most stickers measure 1-2 inches, not the larger size some product images suggest"
   - "Adhesive is strong but not repositionable — one wrong placement and you're committed"
   - "Some designs have slightly off-center printing, noticeable on the larger T-Rex decals"
+
 ---
 
 Let's cut to the chase: if you've got a dinosaur-obsessed kid, a classroom full of them, or you're the person who puts stickers on everything, this 100-pack from the B09JSHC9HH listing is worth a hard look. After digging through 235 ratings at 4.7 stars, the consensus is clear — these are genuinely good stickers that hold up. But "good" doesn't mean "perfect," and there are a few things you should know before adding to cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Palladio Double Barrel 3 in 1 Cosmetic Pencil Sharpener with"
 seo_title: "Palladio Double Barrel 3 in 1 Cosmetic Pencil Shar Review"
 meta_description: "Our full palladio double barrel 3 in 1 cosmetic pencil sharpener with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001AC4J04/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WDAikPGeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most cosmetic sharpeners are an afterthought. You grab the freebie from the beauty counter, it destroys your favorite eyeliner pencil, and you're back online ordering a replacement within a month. The Palladio Double Barrel 3-in-1 aims to be the last sharpener you buy. At 4.6 stars across 229 ratings, it's clearly doing something right — but is it actually worth the space in your makeup bag?

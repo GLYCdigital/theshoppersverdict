@@ -1,4 +1,5 @@
 ---
+
 title: "Trung Nguyen G7 Instant Coffee - 3-in-1 Roasted Ground Blend"
 seo_title: "Trung Nguyen G7 Instant Coffee - 3-in-1 Roasted Gr Review"
 meta_description: "Our full trung nguyen g7 instant coffee - 3-in-1 roasted ground blend review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08D9M1BPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+bunNQuaL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Trung Nguyen G7 Instant Coffee - 3-in-1 Roasted Ground Blend** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

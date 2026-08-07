@@ -1,4 +1,5 @@
 ---
+
 title: "Diamond Bakery Shortbreat Cookies - MacNut and NonMacNut"
 seo_title: "Diamond Bakery Shortbreat Cookies Review: MacNut & Classic | 4.2 Stars"
 meta_description: "Honest Diamond Bakery Shortbreat Cookies review: MacNut vs NonMacNut texture, taste, and value. Find out which Hawaii-style shortbread is worth buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07YP1578Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j2jP3lazL._SL1500_.jpg"
-pros:
+pros: 
   - "Crumbly, melt-in-your-mouth shortbread texture that holds up surprisingly well in shipping"
   - "MacNut variety delivers real roasted macadamia flavor without being overly sweet"
   - "Individually wrapped packs stay fresh for weeks — ideal for office desks or travel bags"
-cons:
+cons: 
   - "NonMacNut version tastes noticeably plainer — the classic is honestly a bit one-note"
   - "Some packages arrive with broken cookies despite careful packing; cosmetic issue only"
   - "Price per ounce runs high compared to grocery-store shortbread, though the texture justifies it"
+
 ---
 
 **These aren't your average shortbread cookies.** Diamond Bakery has been making crackers and cookies in Honolulu since 1921, and their Shortbreat line — yes, that's the actual spelling, a nod to the Hawaiian "shortbread" pronunciation — has developed a cult following. The question is whether this two-pack combo (one MacNut, one NonMacNut) earns its keep on your counter or in your gift box. After tasting both varieties and digging through 210 Amazon ratings, here's the real story.

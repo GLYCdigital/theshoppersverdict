@@ -1,4 +1,5 @@
 ---
+
 title: "RUSK Thickr Thickening Hairspray 10 Fl Oz"
 seo_title: "RUSK Thickr Thickening Hairspray 10 Fl Oz Review: Verdict"
 meta_description: "Our full rusk thickr thickening hairspray 10 fl oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B002RS6JOE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NpE7YY5GL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "thickening" hairsprays are marketing fluff. They spray on, feel sticky, and promise volume they never deliver. The RUSK Thickr Thickening Hairspray is different — and that's why it holds a solid 4.5-star average across 225 ratings. This is a heat-activated formula, meaning it works with your blow dryer to swell each strand rather than just coating the surface with polymers. That distinction matters.

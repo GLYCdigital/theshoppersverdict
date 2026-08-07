@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Race Around the World Tracks Cardboard Jigsaw"
 seo_title: "Melissa & Doug Race Around the World Tracks Cardbo Review"
 meta_description: "Our full melissa & doug race around the world tracks cardboard jigsaw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BW2923K7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yo0fylQbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a preschooler lose interest in a puzzle the moment it's finished, you understand the appeal of the Melissa & Doug Race Around the World Tracks Cardboard Jigsaw. This isn't a finish-and-forget activity — it's a 200+ piece floor puzzle that transforms into a working race track for the included wooden cars. At 4.6 out of 5 stars across 229 Amazon ratings, it's clearly resonating with families. But does it hold up to the chaos of actual toddler play? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "SKLZ 6X Ultra Durable Agility Hurdles - for Athletes of All "
 seo_title: "SKLZ 6X Ultra Durable Agility Hurdles - for Athlet Review"
 meta_description: "Our full sklz 6x ultra durable agility hurdles - for athletes of all  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BY3YW81W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hibu4t71L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you coach youth sports or train for speed, you know the drill: flimsy plastic hurdles that shatter on the first sidestep, or metal ones that leave bruises when you clip them. The SKLZ 6X set aims to end that cycle. After digging through 235 ratings and the engineering specs, here's the honest breakdown.

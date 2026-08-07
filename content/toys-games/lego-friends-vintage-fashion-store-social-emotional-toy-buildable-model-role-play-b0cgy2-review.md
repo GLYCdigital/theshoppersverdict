@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Friends Vintage Fashion Store, Social-Emotional Toy, Bu"
 seo_title: "LEGO Friends Vintage Fashion Store, Social-Emotion Review"
 meta_description: "Our full lego friends vintage fashion store, social-emotional toy, bu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY2VW1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n4Xz8Tw-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a LEGO set that actually does something beyond sitting on a shelf, the **LEGO Friends Vintage Fashion Store** deserves a hard look. This isn't just another pastel-colored display piece — it's a fully functional boutique with a working elevator, a sliding glass door, and enough outfit-swapping accessories to keep a kid occupied for hours. With a 4.8/5 average across 240+ Amazon ratings, it's clearly resonating with buyers. But is it worth your money? Let's break it down.

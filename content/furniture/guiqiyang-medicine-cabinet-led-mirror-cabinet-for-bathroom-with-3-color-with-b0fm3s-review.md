@@ -1,4 +1,5 @@
 ---
+
 title: "GUIQIYANG Medicine Cabinet, LED Mirror Cabinet for Bathroom"
 seo_title: "GUIQIYANG LED Medicine Cabinet Review: Honest 2026 Verdict"
 meta_description: "GUIQIYANG LED medicine cabinet review: 3-color lighting, anti-fog mirror, and storage. See real pros, cons, and who should buy this bathroom cabinet."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FM3SS4PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z+pTwhHJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three adjustable color temperatures (warm, natural, cool) with touch-switch memory function"
   - "Built-in anti-fog pad keeps the mirror clear during hot showers"
   - "Recessed or surface-mount installation options suit different wall types"
-cons:
+cons: 
   - "Wiring required for hardwired models — no plug-and-play option for renters"
   - "Screws and mounting hardware feel flimsy; several buyers replaced them with sturdier anchors"
   - "Interior shelves are fixed — no height adjustment for taller bottles"
+
 ---
 
 Let’s be upfront: a 3.9-star average across 195 ratings tells you this LED medicine cabinet isn’t perfect. But for the price, it does things mirrors twice its cost don’t. Here’s the breakdown.

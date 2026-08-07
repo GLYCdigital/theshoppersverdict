@@ -1,4 +1,5 @@
 ---
+
 title: "DAMIENSABER Dueling Light Saber Support Motion Control"
 seo_title: "DAMIENSABER Dueling Light Saber Review: Motion Control Tested"
 meta_description: "DAMIENSABER Dueling Light Saber motion control review: build quality, sound effects, dueling durability, and who should buy this 4.3-star toy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B6ZXJF1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619I+5dBnXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Motion-triggered sound effects respond accurately to swings and clashes, adding immersion without requiring button presses mid-duel"
   - "Blade durability holds up to repeated impacts — multiple buyers report surviving weeks of sibling battles without cracking"
   - "Two-handed hilt design with textured grip sections gives adults and older kids a comfortable, stable hold during extended dueling sessions"
-cons:
+cons: 
   - "Sound quality is noticeably compressed — voices and saber hums sound tinny at higher volumes, especially compared to premium replicas"
   - "Battery door sits flush on the hilt but requires a coin or flat tool to open; no tool included in the box"
   - "Motion calibration occasionally triggers clash sounds on hard swings — a minor annoyance for purists who want sound only on actual contact"
+
 ---
 
 Let's be direct: most light-up toy sabers under $50 are plastic glow sticks with a speaker glued on. The DAMIENSABER Dueling Light Saber tries to be more — and for the most part, it actually delivers. With a 4.3-star average across 215 ratings, this isn't a niche collectible. It's a toy that families are actually using, and the feedback shows a pattern worth paying attention to.

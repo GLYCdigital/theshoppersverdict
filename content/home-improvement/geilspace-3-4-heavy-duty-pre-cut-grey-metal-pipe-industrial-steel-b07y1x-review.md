@@ -1,4 +1,5 @@
 ---
+
 title: "GeilSpace 3/4 inch  Heavy Duty Pre-Cut Grey Metal Pipe, Industria"
 seo_title: "GeilSpace 3/4 inch  Metal Pipe Review: Heavy-Duty Industrial Build"
 meta_description: "GeilSpace 3/4 inch  pre-cut grey metal pipe review: real-world durability, threading quality, and whether this industrial steel pipe suits your DIY project."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07Y1XV7KT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DQdZFD7oL._AC_SL1000_.jpg"
-pros:
+pros: 
   - Consistent 3/4 inch " NPT threading on both ends — couplings and fittings thread on smoothly without cross-threading
   - "Pre-cut lengths are accurate to spec, which saves you from renting a pipe cutter or making 15 trips to the hardware store"
   - "Grey industrial finish holds up to scuffs, moisture, and garage abuse better than cheaper black pipe"
-cons:
+cons: 
   - "No end caps included — you'll need to buy those separately if you're building a shelf or rack"
   - "Surface has light oil residue from manufacturing; wipe it down before painting or use in finished spaces"
   - Sizing is nominal — actual outside diameter is roughly 1.05 inch ", so verify your fittings match NPT standards
+
 ---
 
 # GeilSpace 3/4" Heavy Duty Pre-Cut Grey Metal Pipe: The DIY Skeleton You've Been Looking For

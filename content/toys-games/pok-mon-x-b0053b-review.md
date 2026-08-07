@@ -1,4 +1,5 @@
 ---
+
 title: "PokÃ©mon X"
 seo_title: "PokÃ©mon X Review: Verdict | TSV"
 meta_description: "Our full pokã©mon x review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0053B5RGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6185WWlzJ1L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the nostalgia. **Pokémon X** hit shelves in 2013, and in 2026 it still commands a 4.7-star average from 235 Amazon ratings. That's not a fluke — but it's also not a game without flaws. Here's what you're actually getting if you drop money on this 3DS classic today.

@@ -1,4 +1,5 @@
 ---
+
 title: "FlowerHouse Hanging Pumpkin Patio Chair - Dreamcatcher Black"
 seo_title: "FlowerHouse Hanging Pumpkin Chair Review: Dreamcatcher Black"
 meta_description: "Honest FlowerHouse Hanging Pumpkin Patio Chair review. Build quality, comfort, installation tips, and who should buy this 4.5-star dreamcatcher chair."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08JD1B9NM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iXlmOyHcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 360-degree swivel with smooth ball-bearing rotation — you can spin without scooting the base"
   - "Cushion is 4 inches thick with a zippered, removable cover that actually survives machine washing"
   - "Steel frame rated to 300 lbs with powder-coated finish that resists rust better than most sub-$200 hanging chairs"
-cons:
+cons: 
   - "Assembly requires a 10mm wrench and some patience — the spreader ring bolts are finicky to align"
   - "Stand sold separately — you're looking at another $100+ unless you have a porch beam rated for dynamic load"
+
 ---
 
 You've seen these hanging pumpkin chairs all over Instagram, and honestly, they look like a gimmick. But the FlowerHouse Dreamcatcher Black version has earned a 4.5-star average across 225 ratings for a reason: it's genuinely comfortable, surprisingly sturdy, and the all-black design doesn't scream "novelty" the way the natural rattan versions do.

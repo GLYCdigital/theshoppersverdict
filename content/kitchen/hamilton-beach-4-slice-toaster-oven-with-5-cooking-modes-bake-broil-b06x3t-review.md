@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach 4-Slice Toaster Oven with 5 Cooking Modes (Ba"
 seo_title: "Hamilton Beach 4-Slice Toaster Oven with 5 Cooking Review"
 meta_description: "Our full hamilton beach 4-slice toaster oven with 5 cooking modes (ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06X3T8D1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YGDTptquL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most $50 toaster ovens are glorified bread warmers. The Hamilton Beach 4-Slice with five cooking modes actually tries to be a real mini-oven. After digging through 215 verified ratings and the spec sheet, here's the honest breakdown.

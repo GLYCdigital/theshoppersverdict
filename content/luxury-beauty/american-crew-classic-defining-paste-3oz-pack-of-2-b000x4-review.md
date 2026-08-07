@@ -1,4 +1,5 @@
 ---
+
 title: "American Crew Classic Defining Paste, 3oz Pack of 2 inch"
 seo_title: "American Crew Classic Defining Paste Review (2-Pack)"
 meta_description: "American Crew Classic Defining Paste 2-pack review: hold, shine, and texture for men's hair. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000X4J30G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Y6YiX9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Medium hold with zero stiffness — hair moves naturally but stays put through an 8-hour workday"
   - "Low shine finish works for both office and evening looks; doesn't look greasy or wet"
   - "Pack of 2 actually saves you money vs. buying singles — roughly 20% cheaper per ounce"
-cons:
+cons: 
   - "Wax-based formula can feel heavy if you over-apply — a pea-sized amount is genuinely all you need"
   - "Not ideal for very fine or thinning hair; the paste can weigh strands down by midday"
+
 ---
 
 If you've ever stood in the grooming aisle wondering whether that $20 jar of styling product is actually worth it, this is the review for you. American Crew's Classic Defining Paste has been a barbershop staple for over two decades, and this 2-pack of 3oz tubes is the smartest way to buy it. Here's the real story.

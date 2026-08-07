@@ -1,4 +1,5 @@
 ---
+
 title: "Koike Oxy-Fuel Quick Connect Torch To Hose Coupler Set, Safe"
 seo_title: "Koike Oxy-Fuel Quick Connect Torch To Hose Coupler Review"
 meta_description: "Our full koike oxy-fuel quick connect torch to hose coupler set, safe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08L88HVSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+1+dkeFBL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched someone reach for the wrong hose on a hot cutting job, you know why this coupler set exists. The Koike Oxy-Fuel Quick Connect set is built around one non-negotiable principle: you should never be able to accidentally cross oxygen and fuel lines. As shown in the product image, the fuel side uses a left-hand thread and distinct fitting profile that physically prevents a mismatch. That's not a convenience feature — that's a safety interlock.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainless Steel Bowl"
 seo_title: "Cuisinart Stand Mixer Review — 4.7★ KitchenAid Competitor at $298"
 meta_description: "Cuisinart 5.5-quart stand mixer review: 9,956 reviews analyzed. 500-watt motor, tilt-head design, die-cast metal construction. Does it beat the KitchenAid?"
@@ -11,23 +12,24 @@ review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aZxs6FBPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "500-watt motor that handles heavy dough without straining or overheating"
   - "Die-cast metal construction with tilt-back head — feels built for life"
   - "Accepts KitchenAid attachments — unlocks a full accessory ecosystem"
   - "Splash guard with pour spout included — actually useful, not an upsell"
-cons:
+cons: 
   - "Bowl capacity is 5.5 quarts — large double-batch bakers may want bigger"
   - "Breaks quieter than KitchenAid but lacks that brand's name recognition"
   - "Limited 3-year warranty is shorter than some competitors"
 
-faq:
+faq: 
   - question: "Is the Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainless Steel B worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 The Cuisinart Stand Mixer is the mixer that Cuisinart fans have been waiting for. 9,956 Amazon reviews reveal a pattern: people who buy this mixer are often coming from KitchenAid, and they're surprised to find they prefer the Cuisinart. Here's the full story.

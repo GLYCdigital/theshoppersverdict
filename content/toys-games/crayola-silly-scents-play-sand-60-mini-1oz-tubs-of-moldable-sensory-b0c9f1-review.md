@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Silly Scents Play Sand â€“ 60 Mini 1oz Tubs of Molda"
 seo_title: "Crayola Silly Scents Play Sand Review: 60 Mini Tubs Worth It?"
 meta_description: "Crayola Silly Scents Play Sand 60-pack review: scented moldable sand for kids. Is the 1oz tub size practical? We test texture, scent, and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C9F1CQXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P0RY0kExL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "60 individual 1oz tubs — enough for parties, classrooms, or stash-and-save gifting"
   - "Moldable texture that holds shapes without drying out, unlike kinetic sand alternatives"
   - "Scents are subtle and pleasant, not chemically overpowering for indoor play"
-cons:
+cons: 
   - "1oz per tub is small — you'll need 4-6 tubs for one decent sandcastle"
   - "Lids are easy for small hands to pop off, leading to dried-out sand if not resealed"
   - "Scents fade noticeably within a month of regular use"
+
 ---
 
 If you've ever bought scented play sand before, you know the disappointment: it arrives dry, crumbly, and smells like a candle factory explosion. The Crayola Silly Scents Play Sand 60-pack sidesteps most of those problems, but it brings its own quirks. With 220 Amazon ratings averaging 4.4 stars, this is a solid sensory toy — but "solid" doesn't mean "perfect for everyone."

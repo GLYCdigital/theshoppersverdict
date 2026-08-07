@@ -1,4 +1,5 @@
 ---
+
 title: "For Minn Kota 1854021 Quick Release Bracket MKA-21 fits Ulte"
 seo_title: "Minn Kota MKA-21 Quick Release Bracket Review (2026)"
 meta_description: "Honest Minn Kota MKA-21 quick release bracket review: fits Ulterra/Terrova, tool-free removal, anti-theft lock. Real pros, cons, and buyer verdicts."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB84RW5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nWZEDCzPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free release in under 10 seconds — pull two spring-loaded pins and the entire trolling motor lifts straight off"
   - "Marine-grade aluminum construction with stainless steel hardware holds up to saltwater exposure without corroding"
   - "Integrated anti-theft lock cylinder secures the motor when the boat is parked or trailered"
-cons:
+cons: 
   - "Lock mechanism uses a standard key that's easy to lose — and replacement keys require contacting Minn Kota directly"
   - "Some buyers report the release pins need periodic lubrication to prevent sticking after months of freshwater use"
+
 ---
 
 Let me be direct: if you own a Minn Kota Ulterra or Terrova and you're still bolting it directly to your boat deck, you're making dock loading and trailer security harder than it needs to be. The MKA-21 Quick Release Bracket solves a problem you didn't realize you had — until you've used it once and can't imagine going back.

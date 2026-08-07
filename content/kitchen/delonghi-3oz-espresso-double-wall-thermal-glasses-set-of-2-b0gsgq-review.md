@@ -1,4 +1,5 @@
 ---
+
 title: "DeLonghi 3oz Espresso Double Wall Thermal Glasses, Set of 2 inch"
 seo_title: "DeLonghi 3oz Espresso Double Wall Glasses Review (2026)"
 meta_description: "DeLonghi 3oz espresso double wall thermal glasses review: do they keep shots hot without burning hands? Real buyer feedback, durability notes, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSGQX2GT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LmqVWDs0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True double-wall construction keeps espresso hot for 10+ minutes while the exterior stays cool to the touch"
   - "The 3oz capacity is calibrated for proper single and double shots — no awkward half-filled glasses"
   - "Survives dishwasher cycles and daily use without fogging, cracking, or losing the vacuum seal"
-cons:
+cons: 
   - "3oz is too small for Americanos or lungo drinks — these are strictly for straight shots"
   - "No handles means you must grip the full circumference; if your hands are wet, they can be slippery"
   - "At this price point, you're paying for the DeLonghi name — identical unbranded glasses cost less"
+
 ---
 
 If you've ever watched a fresh espresso shot go cold in a thick ceramic cup before you finished the second sip, you already understand the problem these DeLonghi glasses solve. The 3oz double-wall thermal design isn't a gimmick — it's the difference between tasting your shot's crema at first sip and drinking lukewarm brown water.

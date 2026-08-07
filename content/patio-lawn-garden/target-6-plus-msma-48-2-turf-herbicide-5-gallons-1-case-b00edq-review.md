@@ -1,4 +1,5 @@
 ---
+
 title: "Target 6 Plus (MSMA) 48.2% Turf Herbicide - 5 gallons:1 case"
 seo_title: "Target 6 Plus (MSMA) 48.2% Turf Herbicide - 5 gall Review"
 meta_description: "Our full target 6 plus (msma) 48.2% turf herbicide - 5 gallons:1 case review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00EDQ1DCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DGtvBUkYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. If you’re fighting dallisgrass, crabgrass, or other stubborn weeds in warm-season turf, you already know most over-the-counter herbicides won’t touch them. Target 6 Plus (MSMA) 48.2% is the heavy artillery — and at 4.8 stars across 240 ratings, it’s earned a reputation. But it’s not a grab-and-go spray. Here’s what you need to know before you commit to five gallons of it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fody Foods Vegan Extra Virgin Olive Oil | Low FODMAP Certifi"
 seo_title: "Fody Foods Low FODMAP Olive Oil Review (2026): Gut-Friendly EVOO"
 meta_description: "Fody Foods Low FODMAP extra virgin olive oil review: Is this gut-friendly EVOO worth it? Taste, uses, and honest verdict for IBS shoppers."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09VYHGQ6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617hacWqNKL._SL1500_.jpg"
-pros:
+pros: 
   - "Third-party certified Low FODMAP by Monash University — rare for oils, eliminates guesswork for IBS sufferers"
   - "Clean, peppery finish typical of quality EVOO; works as both finishing oil and cooking oil up to medium heat"
   - "Single-origin, cold-extracted from early harvest olives — no blends or filler oils"
-cons:
+cons: 
   - "Premium price per ounce compared to standard grocery store EVOO"
   - "Dark glass bottle is sturdy but heavy; not ideal for travel or camping"
   - "Peppery bite may be too assertive for those used to mild, buttery olive oils"
+
 ---
 
 **The Short Version:** If you live with IBS or follow a strict low FODMAP elimination phase, this is the olive oil you've been searching for. Fody Foods has taken something as simple as extra virgin olive oil and given it the certification treatment — and it genuinely matters.

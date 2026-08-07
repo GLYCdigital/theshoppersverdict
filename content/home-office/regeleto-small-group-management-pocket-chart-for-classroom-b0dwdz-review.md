@@ -1,4 +1,5 @@
 ---
+
 title: "REGELETO Small Group Management Pocket Chart for Classroom"
 seo_title: "REGELETO Small Group Management Pocket Chart for C Review"
 meta_description: "Our full regeleto small group management pocket chart for classroom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWDZDXNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zgAzlvtHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $20 Organizer That Actually Tames Guided Reading Chaos

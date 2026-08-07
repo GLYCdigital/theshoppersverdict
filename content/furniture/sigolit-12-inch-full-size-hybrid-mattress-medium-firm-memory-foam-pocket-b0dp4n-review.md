@@ -1,4 +1,5 @@
 ---
+
 title: "sigolit 12 Inch Full Size Hybrid Mattress - Medium Firm, Mem"
 seo_title: "sigolit 12 Inch Full Size Hybrid Mattress - Medium Review"
 meta_description: "Our full sigolit 12 inch full size hybrid mattress - medium firm, mem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP4NMY98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tSZcqt8SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The bed-in-a-box market is crowded with 10-inch all-foam options that sag by year two. The sigolit 12-inch hybrid takes a different approach: it pairs a pocket coil base with memory foam comfort layers, aiming for the support of an innerspring with the pressure relief of foam. After digging through 220 ratings and the spec sheet, here's the honest breakdown.

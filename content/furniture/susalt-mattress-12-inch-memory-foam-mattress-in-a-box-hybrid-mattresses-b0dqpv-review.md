@@ -1,4 +1,5 @@
 ---
+
 title: "Susalt Mattress 12 Inch, Memory Foam Mattress in a Box, Hybr"
 seo_title: "Susalt Mattress 12 Inch, Memory Foam Mattress in a Review"
 meta_description: "Our full susalt mattress 12 inch, memory foam mattress in a box, hybr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQPVWYC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c2AiOIo2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The "mattress in a box" category is crowded with foam slabs that all claim to feel like luxury hotels at budget prices. Most don't deliver. The Susalt 12-inch hybrid actually does something different: it pairs a coil support core with memory foam comfort layers, which solves the two biggest complaints about cheap bed-in-a-box options — sagging and heat retention.

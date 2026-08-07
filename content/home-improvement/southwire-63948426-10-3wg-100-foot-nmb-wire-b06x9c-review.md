@@ -1,4 +1,5 @@
 ---
+
 title: "Southwire 63948426 10/3WG 100-Foot NMB Wire"
 seo_title: "Southwire 63948426 10/3WG 100-Foot NMB Wire Review: Verdi"
 meta_description: "Our full southwire 63948426 10/3wg 100-foot nmb wire review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06X9CXVGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YMI+bs6dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're wiring a 30-amp circuit — an EV charger, a subpanel, a water heater, or a dryer — you've likely stared at the copper wire aisle wondering if you're overpaying for a brand name. The Southwire 63948426 10/3WG is the wire electricians reach for when they want to finish a job without wrestling with junk. Here's what you're actually getting for that premium.

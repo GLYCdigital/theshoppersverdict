@@ -1,4 +1,5 @@
 ---
+
 title: "Char-Broil Performance Cover"
 seo_title: "Char-Broil Performance Cover Review: Is It Worth It?"
 meta_description: "Honest Char-Broil Performance Cover review: durability, fit, and water resistance tested. See pros, cons, and buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BB85Z8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5104+3ebagL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Heavy-duty 600D polyester with water-resistant coating, not cheap flimsy tarp material"
   - "Adjustable hem with buckles keeps it secured in wind without cinching too tight"
   - "Fits most 3-5 burner gas grills up to 60 inches — verified by multiple buyer photos"
-cons:
+cons: 
   - "Not fully waterproof — heavy rain can seep through seams over time (needs reproofing)"
   - "Air vents are minimal; can trap moisture underneath in humid climates if grill isn't cool"
+
 ---
 
 A grill cover is one of those purchases that feels boring until the first rust spot appears on your investment. The Char-Broil Performance Cover has 235 ratings averaging 4.7 stars, which is impressive for something so unglamorous. But is it actually protecting grills, or just collecting good reviews from people who haven't owned it long enough? I dug into the specs, the buyer feedback, and the real-world tradeoffs to give you the straight answer.

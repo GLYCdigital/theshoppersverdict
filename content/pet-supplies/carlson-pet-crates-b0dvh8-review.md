@@ -1,4 +1,5 @@
 ---
+
 title: "Carlson Pet Crates"
 seo_title: "Carlson Pet Crates Review: Solid, Safe, Worth It? (2026)"
 meta_description: "Read our honest Carlson Pet Crates review. We cover build quality, sizing, real owner feedback, and whether this 4.6-star crate is right for your dog."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVH8GZ4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fkryn2q-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-door design with a fold-down front panel that doubles as a ramp for older or injured dogs"
   - "Divider panel included — lets you shrink the space for puppies without buying a second crate"
   - "Durable #5 gauge wire and welded seams hold up to determined chewers and escape artists"
-cons:
+cons: 
   - "Assembly requires a screwdriver and patience; the slide-bolt latches can be stiff at first"
   - "The included plastic tray is serviceable but not chew-proof — replace it if you have an aggressive chewer"
+
 ---
 
 Let’s be honest: most wire dog crates are flimsy, fiddly, and feel like they’ll collapse the first time your dog throws a tantrum. The Carlson Pet Crates line is different — it’s the one owners consistently describe as the crate that actually survives. With a 4.6-star average across 229 ratings, this isn't a flash-in-the-pan product. It’s a workhorse. But is it the right workhorse for *your* dog? Here’s the breakdown.

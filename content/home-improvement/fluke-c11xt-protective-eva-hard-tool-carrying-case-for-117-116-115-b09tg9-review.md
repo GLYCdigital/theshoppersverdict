@@ -1,4 +1,5 @@
 ---
+
 title: "Fluke C11XT Protective EVA Hard Tool Carrying Case for 117/1 inch"
 seo_title: "Fluke C11XT EVA Hard Case Review: Best Fit for 117/116 inch"
 meta_description: "Fluke C11XT EVA hard case review: custom fit for 117/116/115 meters, drop protection, and snug tool storage. See if it beats OEM cases."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TG9VDVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UNzM9+S9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Custom-molded EVA shell with dedicated cutouts for Fluke 117/116/115 meters and TL175 leads—zero rattling inside"
   - "Rigid crush-resistant exterior that survives a 3-foot drop onto concrete while keeping the meter's LCD protected"
   - "Interior elastic straps and zip pouch hold test probes and small accessories securely without adding bulk"
-cons:
+cons: 
   - "Not compatible with Fluke 87V or larger meters—the cutouts are specific to the 117/116/115 family only"
   - "No belt loop or shoulder strap; it's strictly a handheld case, which limits hands-free carry options"
+
 ---
 
 **Bottom line up front:** If you own a Fluke 117, 116, or 115 multimeter, the C11XT case is the best $30-ish you'll spend on protecting that $400 meter. It's a purpose-built EVA shell, not a generic padded pouch. But it's also a one-trick pony—it fits the 117 family and nothing else.

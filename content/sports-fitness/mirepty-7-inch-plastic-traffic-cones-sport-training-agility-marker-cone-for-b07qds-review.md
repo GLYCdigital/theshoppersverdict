@@ -1,4 +1,5 @@
 ---
+
 title: "Mirepty 7 Inch Plastic Traffic Cones Sport Training Agility "
 seo_title: "Mirepty 7 Inch Plastic Traffic Cones Sport Trainin Review"
 meta_description: "Our full mirepty 7 inch plastic traffic cones sport training agility  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QDS8BMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5162YhJ551L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever run a youth soccer practice or a quick agility drill in the driveway, you know the drill: full-size cones are bulky, expensive, and somehow always underfoot. The Mirepty 7-inch plastic traffic cones are the answer to that specific frustration. These are compact, stackable, and cheap enough to buy in bulk—but are they actually good? I dug through the specs, the customer feedback, and the real-world use cases to give you the full picture.

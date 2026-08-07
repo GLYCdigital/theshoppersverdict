@@ -1,4 +1,5 @@
 ---
+
 title: "Greenhouses Polycarbonate Greenhouse Panels"
 seo_title: "Greenhouses Polycarbonate Greenhouse Panels Review: Verdi"
 meta_description: "Our full greenhouses polycarbonate greenhouse panels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLYCCYDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vWYn72kDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Greenhouses Polycarbonate Greenhouse Panels** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

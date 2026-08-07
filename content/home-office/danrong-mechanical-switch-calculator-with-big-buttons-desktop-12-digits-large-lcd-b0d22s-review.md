@@ -1,4 +1,5 @@
 ---
+
 title: "DANRONG Mechanical Switch Calculator with Big Buttons, Deskt"
 seo_title: "DANRONG Mechanical Switch Calculator Review: Big Buttons, 12-Digit"
 meta_description: "DANRONG mechanical switch calculator review: satisfying clicky keys, big buttons, 12-digit LCD. See pros, cons, and who should buy this $10 desktop essential."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D22S27FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xc+EhvpXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tactile mechanical key switches with audible click — precise input feedback you can feel and hear"
   - "Extra-large buttons (roughly 1.5x standard calculator keys) reduce mispresses for thick fingers or gloves"
   - "Angled 12-digit LCD with oversized numerals readable from 3+ feet away"
-cons:
+cons: 
   - "Plastic body feels light and hollow; not built for drops or heavy desk abuse"
   - "No backlight — the LCD relies on ambient light, so dim workspaces require a desk lamp"
   - "Battery door is snug; replacing the included LR44 takes a small screwdriver and patience"
+
 ---
 
 ## The $10 Calculator That Feels Like a Keyboard

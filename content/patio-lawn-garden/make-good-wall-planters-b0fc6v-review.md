@@ -1,4 +1,5 @@
 ---
+
 title: "Make Good Wall planters"
 seo_title: "Make Good Wall planters Review: Verdict | TSV"
 meta_description: "Our full make good wall planters review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC6VFT9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617w7Q4x+xL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Vertical gardening that doesn't look like a compromise

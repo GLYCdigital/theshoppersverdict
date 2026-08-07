@@ -1,4 +1,5 @@
 ---
+
 title: "Commercial Bay Lighting UFO"
 seo_title: "Commercial Bay Lighting UFO Review: Honest 2026 Buyer's Guide"
 meta_description: "Our Commercial Bay Lighting UFO review covers brightness, install ease, and real drawbacks. See if this 4.3-star LED shop light fits your garage."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXWZ4HKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RPPNfyycL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5000K daylight output with 0-10V dimming built into the driver — no extra controller needed"
   - "Die-cast aluminum heat sink keeps the driver cool even in uninsulated garages; no noticeable thermal throttling after 6 hours of continuous use"
   - "Mounting bracket accepts both standard junction boxes and direct surface mount — flexible install options for different ceiling types"
-cons:
+cons: 
   - "No included plug or whip cord — you'll need to hardwire it or buy a separate pendant cord, which catches some buyers off guard"
   - "Reflector is fixed at 90 degrees; you can't adjust the beam angle to narrow it for very high ceilings above 20 feet"
   - "Some units ship with the hanging hooks loose in the box rather than pre-attached — check packaging before tossing the box"
+
 ---
 
 If you're lighting a garage, workshop, or warehouse bay, you've probably stared at a ceiling fixture decision longer than you'd care to admit. The Commercial Bay Lighting UFO is one of the most popular LED high bay options on Amazon right now — 215 ratings, 4.3 stars. Here's what that rating doesn't tell you, and what you need to know before spending your money.

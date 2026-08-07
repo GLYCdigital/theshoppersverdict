@@ -1,4 +1,5 @@
 ---
+
 title: "PETKAO Stainless Steel Grill Warming Racks Replacement Parts"
 seo_title: "PETKAO Stainless Steel Grill Warming Racks Replace Review"
 meta_description: "Our full petkao stainless steel grill warming racks replacement parts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CSFDR1S9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zyA4I7aVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **PETKAO Stainless Steel Grill Warming Racks Replacement Parts** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "Shameless Pets Cookies, Biscuits & Snacks"
 seo_title: "Shameless Pets Cookies, Biscuits & Snacks Review: Verdict"
 meta_description: "Our full shameless pets cookies, biscuits & snacks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR96J8MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JVM2tyZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The upcycled dog treat that's actually good — for your dog and the planet**

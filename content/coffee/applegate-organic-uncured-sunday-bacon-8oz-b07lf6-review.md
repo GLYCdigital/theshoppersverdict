@@ -1,4 +1,5 @@
 ---
+
 title: "Applegate, Organic Uncured Sunday Bacon, 8oz"
 seo_title: "Applegate Organic Uncured Sunday Bacon Review (2026)"
 meta_description: "Honest Applegate Organic Uncured Sunday Bacon review: nitrate-free taste, texture, and value. Is it worth the premium price? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07LF6G7DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fuw+LxyFL._SL1500_.jpg"
-pros:
+pros: 
   - "Organic, uncured pork with zero nitrates or nitrites — just celery powder and sea salt"
   - "Thick-cut slices hold up beautifully in a pan without curling or shriveling to nothing"
   - "Clean, smoky flavor that actually tastes like pork, not salt and chemicals"
-cons:
+cons: 
   - "Premium price point — expect to pay roughly double conventional bacon per ounce"
   - "8oz package yields fewer slices than standard 12oz or 16oz bacon packs"
   - "Some batches can be inconsistently sliced, with a few ragged-edged pieces"
+
 ---
 
 Let's be direct about what we're dealing with here. This is not your diner's bacon. Applegate's Organic Uncured Sunday Bacon is the product you buy when you've read the ingredient list on standard bacon and decided you're done with sodium nitrite. At 4.7 stars across 235 Amazon ratings, it's clearly resonating with shoppers who take their pork seriously.

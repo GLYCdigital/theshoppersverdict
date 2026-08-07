@@ -1,4 +1,5 @@
 ---
+
 title: "Endangered Species Dark Chocolate Bar Review"
 seo_title: "Endangered Species Dark Chocolate Review (2026): Real Taste Test"
 meta_description: "Endangered Species Dark Chocolate Bar review: honest taste test, ingredient quality, pros/cons, and who should buy. 4.1-star rating analyzed."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00O09I03G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719Hg+7UlOL._SL1500_.jpg"
-pros:
+pros: 
   - "72% cacao content delivers genuinely bold, complex flavor — not watery or overly sweet like many mass-market dark bars"
   - "Ethically sourced cacao with 10% of profits donated to wildlife conservation — your purchase actually funds something tangible"
   - "Fair-trade certified and non-GMO, with clean ingredient list (cocoa mass, sugar, cocoa butter, vanilla)"
-cons:
+cons: 
   - "Texture runs slightly gritty compared to premium artisan bars — don't expect the silky mouthfeel of Valrhona or Amedei"
   - "Some buyers report inconsistent melting behavior in warmer climates — bars arrive with white bloom (fat separation) if shipped in summer heat"
+
 ---
 
 I'm not going to pretend this is a luxury chocolate bar. It's not. But that's exactly why it might be the right choice for your pantry.

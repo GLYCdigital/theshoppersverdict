@@ -1,4 +1,5 @@
 ---
+
 title: "CHEFMAN 2 Qt Mini Air Fryer – Digital Space-Saving Compact Air Fryer with Nonstick and Dishwasher Safe Basket, Quick & Easy Meals in Minutes, Features Digital Timer and Shake Reminder – Red"
 seo_title: "CHEFMAN 2 Qt Mini Air Fryer Review: Compact Digital Power (2026)"
 meta_description: "Read our honest CHEFMAN 2 Qt Mini Air Fryer review. Compact digital air fryer with nonstick basket, shake reminder & dishwasher-safe parts. Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 29179
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNK5DQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717RT0khBAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True countertop footprint saver — about the size of a coffee maker, fits under upper cabinets easily"
   - "Shake reminder actually works — beeps mid-cycle so you don't have to babysit your food"
   - "Nonstick basket releases food cleanly and rinses out in under a minute"
-cons:
+cons: 
   - "2-quart capacity is tight — you'll cook in batches for more than one hungry adult"
   - "No preheat function; you'll add 2–3 minutes to account for cold-start cooking"
   - "Digital touchpad can be finicky with wet fingers; use the back of a knuckle"
+
 ---
 
 If your countertop is a war zone of appliances fighting for space, the CHEFMAN 2 Qt Mini Air Fryer is the diplomat that settles the peace. At roughly 11 inches deep and weighing just over 7 pounds, this is one of the smallest digital air fryers that still delivers actual results — not just a cute paperweight. For $49.99, it's positioned as the budget-friendly, space-saving option in a market crowded with 6-quart behemoths. But does shrinking the footprint mean shrinking the performance? After digging through 29,000+ ratings and the spec sheet, here's the real story.

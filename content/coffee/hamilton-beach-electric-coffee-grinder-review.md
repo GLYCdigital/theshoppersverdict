@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Electric Coffee Grinder for Beans, Spices and More, with Multiple Grind Settings for up to 14 Cups, Removable Stainless Steel Chamber, Grey (80396C), 10 oz"
 seo_title: "Hamilton Beach Coffee Grinder Review (2026): Is It Worth $43?"
 meta_description: "Honest Hamilton Beach 80396C coffee grinder review: 14-cup capacity, 10 oz steel chamber, and multi-grind settings. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 1433
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09SVN2SR9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615cmcKp11L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10 oz stainless steel chamber holds enough beans for a full 14-cup pot — no refills mid-brew"
   - "Stainless steel grinding cup and blades resist staining from spices and oils better than plastic competitors"
   - "Simple slide dial offers 7 grind settings plus pulse, giving real control from coarse to fine without menu-diving"
-cons:
+cons: 
   - "Blade grinder produces inconsistent particle size — fines and boulders in the same batch, noticeable with pour-over"
   - "Noisy operation; several owners report it's loud enough to wake the household at 6 AM"
+
 ---
 
 **Bottom line:** The Hamilton Beach 80396C is a workhorse blade grinder that nails the basics — big capacity, easy cleanup, and enough grind settings to keep most drip and French press drinkers happy. It won't satisfy espresso purists, but at $43.95, it's a solid value for casual coffee drinkers who also want to grind spices.

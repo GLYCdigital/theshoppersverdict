@@ -1,4 +1,5 @@
 ---
+
 title: "Elmer's Disappearing Purple School Glue Sticks, Washable"
 seo_title: "Elmer's Disappearing Purple Glue Sticks Review (2026): Worth It?"
 meta_description: "Honest Elmer's Disappearing Purple Glue Sticks review: Does the color-change feature help or hinder? Tested for bond strength, mess, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B1VP57MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eayw5QGxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Purple color dries clear in roughly 60 seconds, giving you a visible application window without leaving residue marks"
   - "Washable formula lifts off hands, clothes, and most surfaces with plain water—no scrubbing or solvents needed"
   - "Twist-up base with a snug cap prevents the glue from drying out between uses, even in backpacks"
-cons:
+cons: 
   - "Bond strength is noticeably weaker than liquid glue—thin paper or cardstock may curl or separate under stress"
   - "The 0.21-ounce sticks run out fast for big projects; you'll need 4–6 sticks for a full poster board"
+
 ---
 
 Let's be real: most glue sticks are the same beige stick in a plastic tube. Elmer's Disappearing Purple version isn't revolutionary, but it fixes the one thing that makes glue sticks frustrating—you can't see where you've already applied the stuff. That purple dye is a small tweak with a big payoff, especially if you're wrangling craft supplies with kids or trying to glue cardstock without leaving white streaks on the edges. At 4.7 stars from 235 ratings, it's clearly working for most people. But is it the right glue stick for *your* projects? Here's the breakdown.

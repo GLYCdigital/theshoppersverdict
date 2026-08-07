@@ -1,4 +1,5 @@
 ---
+
 title: "SodaStream Flavoured Drinks"
 seo_title: "SodaStream Flavoured Drinks Review: Verdict | TSV"
 meta_description: "Our full sodastream flavoured drinks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVY97QD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is This the End of Your Can-Buying Habit? A Deep Dive into SodaStream Syrups**

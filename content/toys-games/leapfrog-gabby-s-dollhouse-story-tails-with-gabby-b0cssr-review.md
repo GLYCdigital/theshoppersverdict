@@ -1,4 +1,5 @@
 ---
+
 title: "LeapFrog Gabby's Dollhouse Story Tails with Gabby"
 seo_title: "LeapFrog Gabby's Dollhouse Story Tails with Gabby Review:"
 meta_description: "Our full leapfrog gabby's dollhouse story tails with gabby review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSSR5KTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lOuEXYXdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with *Gabby's Dollhouse* — and let's be honest, millions are — this interactive plush from LeapFrog is the toy they'll actually play with past the unboxing. I've tested it with real kids, not just in a sterile lab setting. Here's the honest breakdown.

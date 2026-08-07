@@ -1,4 +1,5 @@
 ---
+
 title: "MicroBacter7 - Bacteria & Water Conditioner for Fish Tank or"
 seo_title: "MicroBacter7 - Bacteria & Water Conditioner for Fi Review"
 meta_description: "Our full microbacter7 - bacteria & water conditioner for fish tank or review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0988G8HNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yBDdkwHeL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **MicroBacter7 Review: The Biological Filter in a Bottle That Actually Delivers**

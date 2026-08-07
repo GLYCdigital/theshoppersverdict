@@ -1,4 +1,5 @@
 ---
+
 title: "Quartet Bulletin Board, Fabric, 3' x 2', Frameless, Fiberboa"
 seo_title: "Quartet Bulletin Board, Fabric, 3' x 2', Frameless Review"
 meta_description: "Our full quartet bulletin board, fabric, 3' x 2', frameless, fiberboa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BKP2WNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815SepxNKFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Quartet Bulletin Board, Fabric, 3' x 2', Frameless, Fiberboa** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

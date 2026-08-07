@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Unsalted Black Beans, 15 Ounce"
 seo_title: "365 by Whole Foods Market, Unsalted Black Beans, 15 Oun Review"
 meta_description: "Honest review of 365 by Whole Foods Market, Unsalted Black Beans, 15 Ounce. Real pros, cons, and verdict from The Shopper's Verdict."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 **SEO Title:** 365 Unsalted Black Beans Review: Pantry Staple or Skip?
 **Meta Description:** We tested 365 by Whole Foods Market Unsalted Black Beans. Is the 4.7-star rating earned? Read our honest review on texture, sodium, and value.

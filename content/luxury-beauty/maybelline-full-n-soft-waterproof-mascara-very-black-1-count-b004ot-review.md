@@ -1,4 +1,5 @@
 ---
+
 title: "Maybelline Full 'N Soft Waterproof Mascara, Very Black, 1 Co"
 seo_title: "Maybelline Full 'N Soft Waterproof Mascara, Very B Review"
 meta_description: "Our full maybelline full 'n soft waterproof mascara, very black, 1 co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B004OT29MA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VCHi7UFUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most waterproof mascaras are a trade-off. You get smudge-proof staying power, but you pay for it with lashes that feel like brittle twigs by 6 PM. The Maybelline Full 'N Soft Waterproof Mascara in Very Black tries to rewrite that equation — and for the most part, it succeeds.

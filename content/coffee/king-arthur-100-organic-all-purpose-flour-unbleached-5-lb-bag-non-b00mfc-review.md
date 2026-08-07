@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur 100% Organic All-Purpose Flour, Unbleached, 5 lb"
 seo_title: "King Arthur 100% Organic All-Purpose Flour, Unblea Review"
 meta_description: "Our full king arthur 100% organic all-purpose flour, unbleached, 5 lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00MFC5U2O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ltuot51ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 11.7% Protein Secret: Why This Flour Bakes Differently**

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Animal Crossing Nookâ€™s Cranny & Rosie's House, Builda"
 seo_title: "LEGO Animal Crossing Nookâ€™s Cranny & Rosie's Hou Review"
 meta_description: "Our full lego animal crossing nookâ€™s cranny & rosie's house, builda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGY1LZ78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mwkHmd0eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the LEGO set that finally does the Animal Crossing franchise justice?** After the mixed reception of earlier AC-themed LEGO releases, Nook’s Cranny & Rosie’s House arrives with a lot to prove. Having built it twice — once solo, once with a 7-year-old — here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bob's Red Mill Xanthan Gum, 8oz"
 seo_title: "Bob's Red Mill Xanthan Gum Review: Gluten-Free Thickener"
 meta_description: "Bob's Red Mill Xanthan Gum 8oz review: gluten-free thickening power, keto-friendly, and versatile. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZ66LY45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y0snt-PyL._SL1500_.jpg"
-pros:
+pros: 
   - "Works in cold and hot liquids without clumping when properly dispersed"
   - "8oz resealable bag lasts months for regular home bakers"
   - "Gluten-free certified and keto-friendly — one ingredient, nothing else"
-cons:
+cons: 
   - "No measuring spoon included; easy to overuse and create slimy texture"
   - "Can form stubborn clumps if added too quickly to hot liquids"
+
 ---
 
 Xanthan gum isn't glamorous. It's the behind-the-scenes workhorse that gives gluten-free bread its chew, salad dressing its cling, and ice cream its scoopable texture. Bob's Red Mill's 8oz version is the go-to for many home bakers, and with a 4.6-star average across 229 ratings, it's earned its place in the pantry. But here's the honest truth: this product has a learning curve, and if you don't respect the powder, it will ruin your batch.

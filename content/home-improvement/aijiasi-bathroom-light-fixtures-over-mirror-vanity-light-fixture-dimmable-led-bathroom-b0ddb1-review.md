@@ -1,23 +1,25 @@
 ---
+
 title: "AIJIASI Bathroom Light Fixtures Over Mirror - Vanity Light F"
 seo_title: "AIJIASI Bathroom Vanity Light Review: Dimmable LED Fixture"
 meta_description: "Honest AIJIASI bathroom light fixture review: dimmable LED, easy install, 4.5-star rated. See pros, cons, and who should buy this vanity light."
 slug: "aijiasi-bathroom-light-fixtures-over-mirror-vanity-light-fixture-dimmable-led-bathroom-b0ddb1-review"
 image_alt: "AIJIASI dimmable LED bathroom vanity light fixture mounted above mirror in modern bathroom"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDB1RKZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710FH3bg19L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True dimmable range (10%–100%) with warm 3000K color that flatters skin tones"  
   - "Tool-free mounting plate and pre-wired driver cut install time to under 20 minutes"  
   - "Sleek 24-inch aluminum body fits most 30–36 inch mirrors without overhang"  
-cons:  
+cons: 
   - "Non-replaceable LED board means a full fixture swap if it fails after warranty"  
   - "No color temperature adjustment (fixed 3000K) — cool-white fans should look elsewhere"
+
 ---
 
 **Skip this if you need tunable white light. Buy this if you want a warm, flattering glow that took me 15 minutes to install.**  

@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Garden Hose Guide Spike, Hose Guides for Garden Heavy "
 seo_title: "Metal Garden Hose Guide Spike, Hose Guides for Gar Review"
 meta_description: "Our full metal garden hose guide spike, hose guides for garden heavy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWFBGC6N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D8Tmw1I1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dragged a hose across a freshly planted bed and watched it flatten your dahlias, you already know why hose guides exist. The question is whether this heavy-duty metal spike does the job without becoming another rusted lawn ornament. After digging through 210 ratings holding at a solid 4.2 stars, here's the real story.

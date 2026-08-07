@@ -1,4 +1,5 @@
 ---
+
 title: "PAUTIX CCT COB LED Strip Light White 2700K-6500K,32.8ft/24ft"
 seo_title: "PAUTIX CCT COB LED Strip Light White 2700K-6500K,3 Review"
 meta_description: "Our full pautix cct cob led strip light white 2700k-6500k,32.8ft/24ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJ4YPZP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HCCNjVa-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Why this strip is worth your money (or not)**  

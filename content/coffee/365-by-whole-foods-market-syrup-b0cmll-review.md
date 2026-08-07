@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market SYRUP"
 seo_title: "365 by Whole Foods Syrup Review: Honest Verdict (2026)"
 meta_description: "365 by Whole Foods Market Syrup review: 4.7-star rated coffee syrup. Real flavor tests, ingredient breakdown, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMLL5RZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517QYlW+kEL._SL1000_.jpg"
-pros:
+pros: 
   - "Clean ingredient list with no artificial colors or high-fructose corn syrup"
   - "Consistent pump action that dispenses the right amount every time"
   - "Balanced sweetness that doesn't overpower the coffee's natural flavor"
-cons:
+cons: 
   - "Flavor selection varies by region — not all varieties ship to all locations"
   - "Bottle size is smaller than Torani equivalents at a similar price point"
+
 ---
 
 Let me be direct: you don't need me to tell you that Whole Foods' house brand makes decent stuff. The question is whether their coffee syrup earns a permanent spot on your counter next to your machine. After digging through 235 ratings and testing this against the usual suspects, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nature's Recipe Grain Free Salmon, Sweet Potato & Pumpkin Re"
 seo_title: "Nature's Recipe Grain Free Salmon, Sweet Potato &  Review"
 meta_description: "Our full nature's recipe grain free salmon, sweet potato & pumpkin re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F1BBQG63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xKLkNQ6YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Real-World Performance**

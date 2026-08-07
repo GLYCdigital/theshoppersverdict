@@ -1,4 +1,5 @@
 ---
+
 title: "Case Bundle"
 seo_title: "Case Bundle Review: Is This Toy Worth Buying? (2026)"
 meta_description: "Read our honest Case Bundle review — build quality, real customer feedback, pros, cons, and who should buy this toy. 4.0-star rating analyzed."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B2PPXNSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Solid construction that holds up to rough play from younger kids"
   - "Versatile play options — works for solo play or group settings"
   - "Clear instructions with visual guide make setup frustration-free"
-cons:
+cons: 
   - "Some pieces run smaller than product photos suggest"
   - "Storage case lid doesn't latch securely — pieces can spill"
   - "Not ideal for kids under 3 due to small detachable parts"
+
 ---
 
 # Case Bundle Review: A Solid Toy With One Big Catch

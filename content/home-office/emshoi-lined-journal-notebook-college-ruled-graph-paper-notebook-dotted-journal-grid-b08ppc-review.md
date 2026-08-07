@@ -1,4 +1,5 @@
 ---
+
 title: "EMSHOI Lined Journal Notebook College Ruled Graph Paper Note"
 seo_title: "EMSHOI Lined Journal Notebook Review: College Ruled & Graph Paper"
 meta_description: "Honest EMSHOI lined journal notebook review: college ruled paper, graph grid options, build quality, ink bleed tests, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08PPCTG3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718TA7Q-k9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three paper formats (college ruled, graph, dotted) in one notebook — switch between note styles without carrying multiple books"
   - "Lay-flat spiral or stitched binding that holds open without weight, confirmed by multiple long-term users"
   - "Thicker 100gsm paper handles gel pens and mildliners without significant ghosting or bleed-through"
-cons:
+cons: 
   - "Cover is flexible cardstock, not rigid — won't protect against heavy backpack crushing"
   - "Page count varies by format (college ruled sections run fewer pages than standard 200-sheet notebooks)"
+
 ---
 
 **The multi-format notebook that actually delivers — most of the time**

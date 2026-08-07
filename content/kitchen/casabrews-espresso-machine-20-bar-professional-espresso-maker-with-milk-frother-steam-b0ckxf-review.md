@@ -1,4 +1,5 @@
 ---
+
 title: "CASABREWS Espresso Machine 20 Bar, Professional Espresso Mak"
 seo_title: "CASABREWS Espresso Machine 20 Bar Review: Worth It?"
 meta_description: "CASABREWS 20 Bar espresso machine review: real performance, milk frother quality, and value. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKXFN9GN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719gPTwtbzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "20-bar Italian pump delivers thick crema and proper extraction, not just watery brown water"
   - "Built-in steam wand actually textures milk for latte art — rare at this price point"
   - Compact footprint (about 11.8 inch " deep) fits under standard upper cabinets without sacrificing drip tray space
-cons:
+cons: 
   - "Single boiler means you must wait 30-60 seconds between pulling a shot and steaming milk"
   - "Portafilter is pressurized-style, so pre-ground supermarket coffee works but freshly ground beans can't reach full potential"
   - "No pressure gauge or shot timer — dialing in requires trial and error"
+
 ---
 
 **The CASABREWS 20 Bar: A $150 Espresso Machine That Respects You Enough to Try**

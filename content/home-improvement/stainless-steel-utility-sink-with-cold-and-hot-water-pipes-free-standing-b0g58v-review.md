@@ -1,4 +1,5 @@
 ---
+
 title: "Stainless Steel Utility Sink with Cold and Hot Water Pipes, "
 seo_title: "Stainless Steel Utility Sink with Cold and Hot Wat Review"
 meta_description: "Our full stainless steel utility sink with cold and hot water pipes,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G58V7YQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SIUwjSq1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A utility sink is one of those purchases you don't think about until you're scrubbing paint rollers in the kitchen sink or washing dog gear in the bathtub. This stainless steel freestanding model with pre-plumbed hot and cold water pipes is aimed squarely at garages, basements, and workshops — and for the most part, it delivers.

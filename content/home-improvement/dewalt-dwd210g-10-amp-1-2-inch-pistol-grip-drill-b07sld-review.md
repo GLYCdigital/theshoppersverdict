@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DWD210G 10-Amp 1/2-Inch Pistol-Grip Drill"
 seo_title: "DEWALT DWD210G 10-Amp 1/2-Inch Drill Review (2026)"
 meta_description: "Honest DEWALT DWD210G review: 10-amp power, 0-2,500 RPM, keyed chuck. Is it worth it for pros or DIYers? Real pros, cons, and verdict inside."
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07SLDRFGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JkHVYUhsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely brutal 10-amp motor that spins up to 2,500 RPM — drills through hardwood and steel studs without bogging down"
   - "All-metal chuck and gear casing hold up to years of job-site abuse; one buyer called it 'built like a tank'"
   - "Compact 9.4-inch length fits into tight spaces between studs and joists where bulkier corded drills won't reach"
   - "0-2,500 RPM variable speed trigger gives precision control for pilot holes and high-speed boring alike"
-cons:
+cons: 
   - "Keyed chuck requires a chuck key — no one-handed bit changes like modern keyless drills"
   - "No built-in belt hook or side handle in the box; you'll want to buy a side handle for heavy drilling"
   - "Corded only — if you're already invested in a battery platform, this is a second tool to carry"
+
 ---
 
 The DEWALT DWD210G is a tool that doesn't care about trends. While everyone's chasing brushless battery drills, this 10-amp corded workhorse quietly does what battery drills can't: deliver relentless, uninterrupted torque until the job is done. With a 4.8-star average across 240 ratings, it's clearly earning its keep on real job sites. But is it right for you? Let's dig into the specifics.

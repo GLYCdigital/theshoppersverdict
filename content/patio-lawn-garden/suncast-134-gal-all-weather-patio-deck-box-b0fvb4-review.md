@@ -1,4 +1,5 @@
 ---
+
 title: "Suncast 134-gal. All-Weather Patio Deck Box"
 seo_title: "Suncast 134-gal. All-Weather Patio Deck Box Review: Verdi"
 meta_description: "Our full suncast 134-gal. all-weather patio deck box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FVB4Z2XJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GNTbbaQXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Suncast 134-gallon All-Weather Patio Deck Box is the storage equivalent of that friend who always has a spare cooler. It's not flashy, but it solves a real problem: where do you put eight throw pillows, a stack of pool towels, and the grill cover when summer ends? At 4.3 stars across 215 ratings, it's clearly doing something right. But "all-weather" is doing a lot of heavy lifting in that name—let's talk about what that actually means.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Armani Beauty- My Way Ylang - Eau de Parfum - Women's Perfum"
 seo_title: "Armani My Way Ylang Review: A Brighter, Fresher Floral"
 meta_description: "Our Armani My Way Ylang review covers the bright floral scent, performance, and who it suits best. See how this Eau de Parfum compares to the original."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT7FNKLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WcqJW-MYL._SL1500_.jpg"
-pros:
+pros: 
   - "Ylang-ylang takes center stage, offering a creamy, slightly sweet floral that's more distinctive than the original's generic tuberose"
   - "Excellent longevity — consistently delivers 8+ hours on skin with strong projection for the first 3 inch"
   - "The design evolution (blue gradient bottle) feels premium and modern without being gimmicky"
-cons:
+cons: 
   - "An initial alcohol burst at first spray can be sharp for the first 30 seconds"
   - "The scent stays close to the original My Way DNA — if you disliked that, this won't change your mind"
   - "Price point sits at luxury level; you're paying for the Armani name as much as the juice"
+
 
 ---
 

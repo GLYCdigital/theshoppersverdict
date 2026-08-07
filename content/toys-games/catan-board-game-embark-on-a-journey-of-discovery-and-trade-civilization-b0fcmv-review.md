@@ -1,4 +1,5 @@
 ---
+
 title: "CATAN Board Game - Embark on a Journey of Discovery and Trad"
 seo_title: "CATAN Board Game Review (2026): Still the King of Strategy Games?"
 meta_description: "Our honest CATAN board game review covers gameplay, build quality, and replay value. See if this 4.8-star classic deserves a spot in your game closet."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FCMV4JJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zZW70yiYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modular hex board means every game plays differently — no two setups are alike"
   - "Trading mechanic forces real player interaction, keeping everyone engaged even between turns"
   - "3-4 player base game plays in 60-90 minutes, hitting the sweet spot for a weeknight"
-cons:
+cons: 
   - "Player elimination doesn't exist, but kingmaking can decide games when one player falls behind early"
   - "Dice rolls carry significant luck — skilled placement helps, but a bad roll streak can sink a strong start"
   - "Box insert doesn't hold pieces well once opened; you'll want baggies for tiles and cards"
+
 ---
 
 **If you've ever heard someone say "I'll just play one more round of Catan," you know the drill.** This is the game that turned millions of casual board gamers into hobbyists. But in 2026, with a crowded market of worker-placement and engine-building titles, does the granddaddy of modern strategy still earn its shelf space? Short answer: absolutely — with a few caveats worth knowing before you buy.

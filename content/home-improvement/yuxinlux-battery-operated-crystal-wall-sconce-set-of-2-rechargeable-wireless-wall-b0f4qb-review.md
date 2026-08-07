@@ -1,4 +1,5 @@
 ---
+
 title: "YUXINLUX Battery Operated Crystal Wall Sconce Set of 2, Rech"
 seo_title: "YUXINLUX Battery Operated Crystal Wall Sconce Set  Review"
 meta_description: "Our full yuxinlux battery operated crystal wall sconce set of 2, rech review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F4QBDHNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xzpZFNGhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most battery-operated "crystal" sconces on Amazon are plastic junk with fake gems and a light so dim you'll wonder if it's on. The YUXINLUX set isn't that. It's not perfect, but it's the rare wireless sconce that actually looks intentional on a wall — and with 240 ratings averaging 4.8 stars, buyers agree more often than not.

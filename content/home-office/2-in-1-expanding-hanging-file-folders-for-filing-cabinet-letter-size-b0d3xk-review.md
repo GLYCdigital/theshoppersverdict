@@ -1,4 +1,5 @@
 ---
+
 title: "2-in-1 Expanding Hanging File Folders for Filing Cabinet, Le"
 seo_title: "2-in-1 Expanding Hanging File Folders Review (Letter Size)"
 meta_description: "Honest 2-in-1 Expanding Hanging File Folders review: letter-size, fits standard cabinets, real pros & cons from 220+ ratings. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3XK1789/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FJ4X+mnSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expanding gussets hold roughly 50% more paper than flat folders without bowing the cabinet drawer"
   - "Reinforced rod hooks slide smoothly on standard metal rails — no snagging on cheap cabinet tracks"
   - "Double-sided tab system lets you label both front and back for quick flipping in dense drawers"
-cons:
+cons: 
   - "Hooks are plastic, not metal — fine for light use but they'll flex under 3+ inches of documents"
   - "Tab inserts are thin cardstock; expect to replace them if you handle folders frequently"
   - "Expanding design eats drawer depth — measure your cabinet interior before buying, they're not slim"
+
 ---
 
 If your filing cabinet has become a black hole of loose receipts, client folders, and "I'll file this later" piles, the 2-in-1 Expanding Hanging File Folders are worth a serious look. But here's the thing: these aren't your standard manila hangers. The expanding gusset design is both the biggest selling point and the biggest caveat, depending on how you file.

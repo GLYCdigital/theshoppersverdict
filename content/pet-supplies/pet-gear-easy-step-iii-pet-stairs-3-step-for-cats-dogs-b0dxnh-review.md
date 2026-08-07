@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Gear Easy Step III Pet Stairs, 3 Step for Cats/Dogs, Rem"
 seo_title: "Pet Gear Easy Step III Pet Stairs, 3 Step for Cats Review"
 meta_description: "Our full pet gear easy step iii pet stairs, 3 step for cats/dogs, rem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DXNHDV1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xVP55Qb1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your 14-year-old cat has started eyeing the bed like it's a cliff face, the Pet Gear Easy Step III is the kind of purchase you make once and forget about — until you realize you've stopped lifting your dog on and off the couch every morning. This 3-step stair sits right in the middle of the market: cheaper than the fancy wooden ramps, sturdier than the foam blocks that compress into pancakes.

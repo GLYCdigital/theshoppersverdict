@@ -1,4 +1,5 @@
 ---
+
 title: "LancÃ´me Teint Idole Ultra Wear Natural Matte Foundation- Lo"
 seo_title: "LancÃ´me Teint Idole Ultra Wear Natural Matte Foun Review"
 meta_description: "Our full lancã´me teint idole ultra wear natural matte foundation- lo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B072LP4FC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51l68uGKhfL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lancôme Teint Idole Ultra Wear Natural Matte Foundation Review: The Long-Wear Legend, Tested

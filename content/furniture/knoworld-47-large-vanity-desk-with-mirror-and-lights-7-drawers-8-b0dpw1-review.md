@@ -1,4 +1,5 @@
 ---
+
 title: "knoworld 47'' Large Vanity Desk with Mirror and Lights, 7 Dr"
 seo_title: "knoworld 47'' Large Vanity Desk with Mirror and Li Review"
 meta_description: "Our full knoworld 47'' large vanity desk with mirror and lights, 7 dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPW1SRRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TyxhkyokL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The 47-Inch Vanity That Actually Holds Everything

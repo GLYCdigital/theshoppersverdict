@@ -1,4 +1,5 @@
 ---
+
 title: "ELF hd powder loose"
 seo_title: "ELF HD Powder Loose Review: Honest 2026 Verdict"
 meta_description: "Our ELF HD Powder Loose review covers real-world performance, oil control, flashback risk, and who should buy it. 4.5-star verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4J1VFDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l9+UHKV0L._SL1500_.jpg"
-pros:
+pros: 
   - "Silky, finely-milled texture that blurs pores without caking or settling into fine lines"
   - "True HD finish — disappears under flash photography and bright studio lighting"
   - "Lasts 6–8 hours on normal-to-combination skin before noticeable touch-up needed"
-cons:
+cons: 
   - "Single shade only — no tinted options, so it can leave a white cast on deeper skin tones"
   - "Sifter opening dispenses too much powder at once; you'll waste product without a separate brush"
+
 ---
 
 # ELF HD Powder Loose Review: The $6 Dupe That Beats High-End Setting Powders?

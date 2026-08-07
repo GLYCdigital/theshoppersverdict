@@ -1,4 +1,5 @@
 ---
+
 title: "Northern Lights Aurora Projector, AIRIVO Galaxy Projector Mu"
 seo_title: "Northern Lights Aurora Projector, AIRIVO Galaxy Pr Review"
 meta_description: "Our full northern lights aurora projector, airivo galaxy projector mu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09XN2LN5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AaOpG-TLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: the AIRIVO Galaxy Projector Mu isn't trying to replicate the real aurora borealis with scientific precision. It's trying to turn your ceiling into a calming, colorful light show that helps you sleep, meditate, or just unwind. And on that front, it mostly delivers — but with a few caveats worth knowing before you add it to your cart.

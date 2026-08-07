@@ -1,4 +1,5 @@
 ---
+
 title: "Hasuit Drawers Dresser for Bedroom, Large Chest of Drawers w"
 seo_title: "Hasuit Drawers Dresser Review: Large Chest With Charging Station"
 meta_description: "Honest Hasuit dresser review: 6-drawer chest with charging station. Real pros, cons, and who should buy it. See if it's right for your bedroom."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQLBSVTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built-in USB and AC charging ports on the top surface — genuinely useful for phones, tablets, and small devices"
   - "Fabric drawers are surprisingly sturdy with reinforced bottoms; they hold more than you'd expect from a soft-sided unit"
   - "Assembly is tool-free and takes under 20 minutes — the frame clicks together with locking connectors"
-cons:
+cons: 
   - "Fabric drawer fronts collect dust and pet hair visibly; they need regular lint-rolling to look clean"
   - "The charging station is on the top only — no ports on side drawers, and the cord routing hole is small for thick cables"
   - "Weight capacity is moderate — roughly 15 lbs per drawer — so don't plan on storing heavy tools or books"
+
 ---
 
 A dresser with charging ports sounds like a gimmick. But after digging through 204 ratings and the spec sheet, the Hasuit 6-drawer chest earns its 4.1-star average for a simple reason: it solves a real problem for small bedrooms — storage that doesn't dominate the room, plus a place to park your devices overnight.

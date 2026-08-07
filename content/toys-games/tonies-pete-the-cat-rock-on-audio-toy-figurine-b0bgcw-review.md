@@ -1,4 +1,5 @@
 ---
+
 title: "Tonies Pete the Cat: Rock On! Audio Toy Figurine"
 seo_title: "Tonies Pete the Cat: Rock On! Audio Toy Figurine Review: "
 meta_description: "Our full tonies pete the cat: rock on! audio toy figurine review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGCW3PZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71055IaK5lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If your kid already owns a Toniebox and loves Pete the Cat, this is a no-brainer addition. If you're buying it hoping it'll turn a non-reader into a bookworm, manage expectations — it's a fun audio companion, not a literacy tool.

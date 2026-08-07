@@ -1,4 +1,5 @@
 ---
+
 title: "Fun Memories Rustic Floating Shelves for Wall,Wood Deep Wall"
 seo_title: "Fun Memories Rustic Floating Shelves Review (2026) | Honest"
 meta_description: "Fun Memories Rustic Floating Shelves review: deep 9.4 inch  wood wall shelves, 4.4★ from 220 ratings. Real load tests, install tips, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRF5YNLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kN2qWWylL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 9.4-inch depth fits hardcover books and chunky decor that standard 6-inch shelves can't handle"
   - "Solid pine with a hand-rubbed rustic finish — no veneer peeling or hollow particle board"
   - "Hidden bracket system supports up to 40 lbs per shelf when anchored into studs"
-cons:
+cons: 
   - "Only includes 4 screws and 4 wall anchors — buy better hardware before you start"
   - "Rustic finish is hand-distressed, so color varies slightly between shelves in the same set"
+
 ---
 
 Let's be direct about floating shelves: most of them are decorative first and functional a distant second. The Fun Memories Rustic Floating Shelves are different because they're genuinely deep — 9.4 inches front to back, not the standard 6-inch shelf that can barely hold a paperback upright. That's the headline feature and it changes what you can actually display on these.

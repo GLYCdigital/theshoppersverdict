@@ -1,4 +1,5 @@
 ---
+
 title: "Worth Garden Leader Short Garden Hose Green/Black 5/8"
 seo_title: "Worth Garden Leader Short Garden Hose Green/Black  Review"
 meta_description: "Our full worth garden leader short garden hose green/black 5/8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07H8LM861/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u+W+rv1ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most garden hoses are either flimsy vinyl that kinks the moment you look at them, or overpriced "pro-grade" models that weigh as much as a small dog. The Worth Garden Leader Short Garden Hose sits somewhere in the sweet spot between those extremes — and for a 25-foot workhorse, that's exactly where you want to be.

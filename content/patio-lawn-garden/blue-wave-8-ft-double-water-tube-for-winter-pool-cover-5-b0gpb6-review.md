@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Wave 8-ft Double Water Tube for Winter Pool Cover - 5 P"
 seo_title: "Blue Wave 8-ft Water Tube Review: Pool Cover Weights"
 meta_description: "Honest Blue Wave 8-ft double water tube review: durability, leaks, and winter pool cover performance. See if these 5 tubes are worth your money."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GPB6FMV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images/61cbhx6GMVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-tube design provides roughly 50% more water weight per foot than single tubes, meaning fewer tubes needed per pool"
   - "UV-treated heavy-duty PVC resists sun damage and held up through full winter in most user reports"
   - "Large 8-foot length covers more perimeter with fewer seams, reducing leak points along your cover edge"
-cons:
+cons: 
   - "Valve design is a weak point — multiple buyers report leaks forming at the seam around the cap within one season"
   - "Filling takes patience; the 8-foot length requires sustained water pressure and can bulge unevenly if not laid perfectly flat"
   - "No drain cap included — winterizing the tubes in spring means cutting them open or wrestling with the fill valve to siphon water out"
+
 ---
 
 Let's be direct about the Blue Wave 8-ft Double Water Tube set: at 3.6 stars across 180 ratings, this is a product with real strengths and one persistent flaw. If you're securing a winter pool cover, these tubes do the job — but you need to understand what you're buying before you drop the cash.

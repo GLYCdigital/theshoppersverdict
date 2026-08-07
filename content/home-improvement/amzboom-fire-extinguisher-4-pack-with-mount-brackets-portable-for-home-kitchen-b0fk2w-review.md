@@ -1,4 +1,5 @@
 ---
+
 title: "AmzBoom Fire Extinguisher 4-Pack with Mount Bracketsï¼ŒPorta"
 seo_title: "AmzBoom Fire Extinguisher 4-Pack Review: Worth It? (2026)"
 meta_description: "AmzBoom Fire Extinguisher 4-Pack review: Are these portable units reliable? We analyze performance, mounts, and value for home kitchens & garages."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FK2WRPG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZDc1jcbwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four fully charged units mean coverage for kitchen, garage, car, and bedroom without moving one canister around"
   - "Mounting brackets use a quick-release design that actually holds the canister securely but releases with one hand"
   - "Clear pressure gauge and instruction label printed directly on the canister — no fumbling to read directions mid-emergency"
-cons:
+cons: 
   - "Each unit is relatively small (around 2.5 lbs) — not a substitute for a full-size 5-lb extinguisher for large garage fires"
   - "No wall anchors or screws included in the box, so factor in buying hardware separately"
   - "The included brackets fit the canister snugly — if you mount them outdoors, corrosion could make release harder over time"
+
 ---
 
 Most people don't think about fire extinguishers until they need one — and then it's too late. The AmzBoom 4-pack solves the two biggest problems with home fire safety: not having a unit where you need it, and not having one that's actually charged.

@@ -1,4 +1,5 @@
 ---
+
 title: "Camp Chef Everest 2X 2-Burner Portable Camping Stove, 40,000 inch"
 seo_title: "Camp Chef Everest 2X Review: 40K BTU Portable Stove (2026)"
 meta_description: "Camp Chef Everest 2X review: Is the 40,000 BTU 2-burner portable stove worth it? Real performance, wind resistance, and buying advice from a 4.6-star product."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KNVRDNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J5ttHnYvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40,000 total BTU output boils a gallon of water in roughly 4 minutes — genuinely fast, not marketing-speak"
   - "Built-in 15-inch windscreen folds out from the side, making it usable on breezy ridge lines where other stoves fail"
   - "Two independent burner controls let you simmer one side while cranking the other — rare at this price point"
-cons:
+cons: 
   - "Weighs 14.5 pounds, which is heavy for backpacking — this is car-camping gear, not a trail stove"
   - "The 16-inch hose and regulator are fixed; you can't swap in a shorter hose for tabletop use without an adapter"
   - "Piezo ignition works, but some units develop a weak spark after a season of heavy use — carry a lighter as backup"
+
 ---
 
 ## The Camp Chef Everest 2X: Serious Heat for Serious Camp Cooks

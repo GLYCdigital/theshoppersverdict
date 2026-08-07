@@ -1,4 +1,5 @@
 ---
+
 title: "Bostitch 16 Ga 7/16 In. Pneumatic Medium Heavy Duty Crown St"
 seo_title: "Bostitch Crown Stapler Review: 7/16 In. Pneumatic Power"
 meta_description: "Read our honest Bostitch 16 Ga 7/16 In. pneumatic crown stapler review. See real-world performance, durability, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004XJYATQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5144StX8vFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Fires 7/16-inch crown staples from 1/2-inch up to 1-1/2-inch — covers virtually every trim, upholstery, and cabinet-back job you'll face"
   - "Dual trigger lockout plus contact trip mechanism gives both sequential and bump-fire modes without accidental discharge"
   - "External easy-clear jam release clears misfeeds in under 10 seconds, no tools required"
-cons:
+cons: 
   - "No belt hook included — you'll need to buy one separately or set the tool down constantly on ladder jobs"
   - "Air consumption is noticeable at higher pressures; a smaller pancake compressor may struggle on long run cycles"
+
 ---
 
 If you've ever fought with a cheap stapler that jams every third staple or won't sink a fastener flush into oak, you already know why the Bostitch medium heavy-duty crown stapler earns its 4.6-star rating across 229 reviews. This isn't a hobby-grade tool — it's the kind of stapler a trim carpenter reaches for at 7 AM on a Tuesday and doesn't think about again until lunch.

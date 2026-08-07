@@ -1,4 +1,5 @@
 ---
+
 title: "Gyfimoie 9 Drawers Dresser for Bedroom with Power Outlet, Ch"
 seo_title: "Gyfimoie 9 Drawer Dresser Review: Power Outlet, Real Drawbacks"
 meta_description: "Honest Gyfimoie 9 drawer dresser review: USB ports, assembly, durability. Real buyer feedback on this bedroom chest before you buy."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DBQTZ9GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UdhAuphlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in power outlet and USB ports on the top drawer — genuinely useful for charging phones and tablets overnight"
   - "Nine drawers provide substantial storage in a compact footprint (roughly 30 inches wide, which fits tight spaces)"
   - "Fabric drawer design makes it lightweight enough to move solo, unlike solid wood dressers"
-cons:
+cons: 
   - "Fabric drawers mean sagging over time — multiple buyers report frames bowing with heavy clothing loads"
   - "Assembly is tedious; hardware alignment issues are common per several verified reviews"
   - "No anti-tip wall anchor included, despite having a power cord that could pose a tripping hazard"
+
 ---
 
 **A 9-drawer dresser with a built-in charging station sounds like a dream. Here's what 185 Amazon buyers actually discovered.**

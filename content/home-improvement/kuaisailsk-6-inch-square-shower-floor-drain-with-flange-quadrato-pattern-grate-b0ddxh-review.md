@@ -1,4 +1,5 @@
 ---
+
 title: "kuaisailsk 6 Inch Square Shower Floor Drain with Flange,Quad"
 seo_title: "kuaisailsk 6 Inch Square Shower Floor Drain with F Review"
 meta_description: "Our full kuaisailsk 6 inch square shower floor drain with flange,quad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDXHVPYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ah9vlHByL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Drain That Actually Looks Good in Your Shower

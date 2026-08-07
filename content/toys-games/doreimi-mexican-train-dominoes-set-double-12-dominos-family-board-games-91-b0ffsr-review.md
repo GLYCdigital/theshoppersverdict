@@ -1,4 +1,5 @@
 ---
+
 title: "Doreimi Mexican Train Dominoes Set Double 12 Dominos Family"
 seo_title: "Doreimi Mexican Train Dominoes Double 12 Review (2026)"
 meta_description: "Doreimi Mexican Train Dominoes Double 12 review: sturdy tiles, carry case, and family-friendly play. Is this $21 set worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FFSRLGVZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7117n7hM4TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick, easy-to-read pips with a matte finish that resists slipping during play"
   - "Included locking plastic case with numbered tile compartments doubles as storage and travel organizer"
   - "Double-12 set gives you 91 tiles — enough for up to 8 players without buying expansions"
-cons:
+cons: 
   - "Hub/center piece is lightweight plastic that can shift on uneven tables"
   - "Train markers are small and can be easy to knock over in tight games"
   - "Case latches are snug at first — need a few opens/closes to loosen up"
+
 ---
 
 **Bottom line: The Doreimi Mexican Train Dominoes Set is a solid, no-nonsense Double-12 set that hits the sweet spot between cheap party-game plastic and premium tournament weight.** At $20.99, it's not the cheapest set on Amazon, but it's also nowhere near the $50+ range of wooden or jumbo sets. The question is whether the build quality justifies the mid-range price — and for most families, it does.

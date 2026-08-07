@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse Peak Watt Portable Open Frame Inverter Generato"
 seo_title: "Westinghouse Peak Watt Portable Open Frame Inverte Review"
 meta_description: "Our full westinghouse peak watt portable open frame inverter generato review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFTMKW1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815oSLlcVSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Westinghouse Peak Watt Portable Open Frame Inverter Generator has 225 Amazon ratings sitting at 4.5 stars, and after digging through the specs and buyer feedback, here's the real story.

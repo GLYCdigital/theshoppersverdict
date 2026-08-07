@@ -1,4 +1,5 @@
 ---
+
 title: "MORA Ceramic Latte Art Mug With Saucer - 10.5 oz, Round Bott"
 seo_title: "MORA Ceramic Latte Art Mug With Saucer - 10.5 oz,  Review"
 meta_description: "Our full mora ceramic latte art mug with saucer - 10.5 oz, round bott review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRSK58LK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tPJDZPCpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

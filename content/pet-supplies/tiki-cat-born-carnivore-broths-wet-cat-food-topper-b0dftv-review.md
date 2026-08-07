@@ -1,4 +1,5 @@
 ---
+
 title: "Tiki Cat Born Carnivore Broths Wet Cat Food Topper"
 seo_title: "Tiki Cat Born Carnivore Broths Wet Cat Food Topper Review"
 meta_description: "Our full tiki cat born carnivore broths wet cat food topper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFTVPBLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kXK4jW0wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Tiki Cat Born Carnivore Broths Wet Cat Food Topper** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

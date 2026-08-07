@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M12 Fuel 6 Random Orbital Sander 3/16 B"
 seo_title: "Milwaukee Electric - M12 Fuel 6 Random Orbital San Review"
 meta_description: "Our full milwaukee electric - m12 fuel 6 random orbital sander 3/16 b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F3L9P1X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ZWxvTYdBL._AC_SX355_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the cordless sander hype. The Milwaukee M12 Fuel 6 Random Orbital Sander with 3/16-inch orbit has been out for a bit now, and with 215 ratings averaging 4.3 stars, buyers are mostly happy — but not universally. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Jurassic World Action Figures"
 seo_title: "Mattel Jurassic World Action Figures Review: Verdict | TS"
 meta_description: "Our full mattel jurassic world action figures review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G2TPLX6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41PX5+9nrrL._AC_US40_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most dinosaur toys are either cheap plastic junk that breaks in a week or expensive collector pieces your kid can't actually touch. The Mattel Jurassic World line sits in a rare middle ground — and it earns its 4.8-star rating with 240 reviews.

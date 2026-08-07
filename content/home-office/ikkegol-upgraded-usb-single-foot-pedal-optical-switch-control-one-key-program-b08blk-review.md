@@ -1,4 +1,5 @@
 ---
+
 title: "iKKEGOL Upgraded USB Single Foot Pedal Optical Switch Contro"
 seo_title: "iKKEGOL Upgraded USB Single Foot Pedal Optical Swi Review"
 meta_description: "Our full ikkegol upgraded usb single foot pedal optical switch contro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08BLK12KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Cy2r13CtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you spend hours in transcription software, digital audio workstations, or FPS games, you already know the problem: your left hand is doing too much. The iKKEGOL Upgraded USB Single Foot Pedal offloads one repetitive action to your foot, and the optical switch inside means it'll outlast the mechanical pedals that die after a year of daily stomping.

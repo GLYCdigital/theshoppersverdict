@@ -1,4 +1,5 @@
 ---
+
 title: "GE 3-Outlet Extender, T-Shaped Adapter Spaced"
 seo_title: "GE 3-Outlet Extender Review: Spaced T-Shaped Adapter (2026)"
 meta_description: "GE 3-Outlet Extender T-Shaped Adapter Spaced review: Does the extra spacing fit bulky plugs? Real pros, cons, and verdict for this 4.6-star adapter."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJDHJNWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sE1T-zU5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True side-spacing between outlets accommodates bulky wall warts without covering the second receptacle"
   - "Rotates 360 degrees for flexible positioning in tight spaces behind furniture"
   - "Tough thermoplastic housing that resists cracking and dissipates heat well"
-cons:
+cons: 
   - "Does not convert a 2-prong outlet to grounded 3-prong — it only adds receptacles"
   - "No surge protection built in; this is a passive splitter, not a protector"
   - "With three large adapters plugged in, the unit can feel slightly bulky depending on your outlet placement"
+
 ---
 
 Let's be honest: most outlet extenders are cheap plastic afterthoughts that make you choose between blocking the second receptacle or shaving down your charger. The GE 3-Outlet Extender takes a different approach — it's a T-shaped adapter with genuine spacing between receptacles, and it's become one of the more practical solutions in this category.

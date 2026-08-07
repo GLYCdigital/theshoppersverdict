@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Indoor Balance Chicken Cat Food Wet Entree i"
 seo_title: "Purina Pro Plan Indoor Balance Chicken Cat Food We Review"
 meta_description: "Our full purina pro plan indoor balance chicken cat food wet entree i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D35QRDP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713YkoJTcaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your indoor cat turns up its nose at pâté-style food, the Purina Pro Plan Indoor Balance Chicken Wet Entree in Gravy deserves a hard look. This is a 4.8-star product with 240 ratings — and it holds up to the hype for a specific type of owner.

@@ -1,4 +1,5 @@
 ---
+
 title: "Herbal Essences Shampoo & Conditioner Set, Rose Hips - Smoot"
 seo_title: "Herbal Essences Shampoo & Conditioner Set, Rose Hi Review"
 meta_description: "Our full herbal essences shampoo & conditioner set, rose hips - smoot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRWZX4GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mNG+2c8LL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 Question: Does "Natural" Actually Work Here?**

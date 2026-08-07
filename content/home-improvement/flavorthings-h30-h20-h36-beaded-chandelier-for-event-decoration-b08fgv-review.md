@@ -1,4 +1,5 @@
 ---
+
 title: "FlavorThings H30 H20 H36 Beaded Chandelier for Event Decorat"
 seo_title: "FlavorThings Beaded Chandelier Review: H30 H20 H36 inch"
 meta_description: "FlavorThings H30 H20 H36 beaded chandelier review: elegant event decor with 4.4 stars. Read honest pros, cons, and buying advice before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08FGVXRWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615i3hGCtJL._AC_SL1058_.jpg"
-pros:
+pros: 
   - "Three distinct hanging lengths (H30/H20/H36) let you layer depth and dimension across a venue ceiling"
   - "Beaded strands catch and scatter light dramatically — photos and video pick up the sparkle well"
   - "Lightweight design means standard ceiling hooks and zip ties handle installation without reinforced mounting"
-cons:
+cons: 
   - "Beads arrive individually strung, not pre-assembled on a frame — expect 30-45 minutes of setup per unit"
   - "Some beads are painted rather than dyed; friction during packing can cause minor surface scuffs on lighter colors"
   - "No included mounting hardware or hanging wire — factor in extra cost for hooks, chains, or fishing line"
+
 ---
 
 If you've priced rental chandeliers for a wedding or corporate gala recently, you know the drill: $150–$300 per unit, delivery fees, and a pickup deadline that stresses your entire timeline. The FlavorThings H30/H20/H36 beaded chandelier undercuts that model entirely — but the tradeoffs aren't obvious from the product photos. Here's what 220+ buyers discovered after hanging these, and what you should know before checkout.

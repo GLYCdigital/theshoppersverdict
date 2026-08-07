@@ -1,4 +1,5 @@
 ---
+
 title: "Peplink Cellular Router MAX BR1 Mini - LTE (CAT 7) WiFi Rout"
 seo_title: "Peplink Cellular Router MAX BR1 Mini - LTE (CAT 7) Review"
 meta_description: "Our full peplink cellular router max br1 mini - lte (cat 7) wifi rout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD9Z7JD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sJZ3T9h1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Peplink MAX BR1 Mini is the cellular router that remote workers and RV dwellers keep coming back to — but it's not without compromises.**

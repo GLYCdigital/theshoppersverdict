@@ -1,4 +1,5 @@
 ---
+
 title: "XunDong Cordless Impact Wrench"
 seo_title: "XunDong Cordless Impact Wrench Review: Verdict | TSV"
 meta_description: "Our full xundong cordless impact wrench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F65YV6XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UiSidnbbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the XunDong Cordless Impact Wrench sits in a crowded field of budget-friendly cordless tools that promise professional performance at a fraction of the price. The 4.1-star rating across 204 reviews suggests it mostly delivers—but "mostly" matters when you're wrenching on your daily driver at 10 PM.

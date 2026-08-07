@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Architecture Collection: The White House 21054 Model Bu"
 seo_title: "Lego Architecture Collection: The White House 2105 Review"
 meta_description: "Our full lego architecture collection: the white house 21054 model bu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0C4D4B1X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uMios01aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the LEGO Architecture White House a must-build for landmark collectors, or just another pricey shelf ornament? After 245 Amazon ratings holding a 4.9 average, the consensus leans strongly positive — but let's dig into whether that enthusiasm holds up for *your* money.**

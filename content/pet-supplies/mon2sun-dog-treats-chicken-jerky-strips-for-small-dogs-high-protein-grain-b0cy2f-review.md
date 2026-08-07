@@ -1,4 +1,5 @@
 ---
+
 title: "MON2SUN Dog Treats, Chicken Jerky Strips for Small Dogs, Hig"
 seo_title: "MON2SUN Dog Treats, Chicken Jerky Strips for Small Review"
 meta_description: "Our full mon2sun dog treats, chicken jerky strips for small dogs, hig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CY2FBBH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717K-6dwZjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Short answer: If you have a small dog that loves chicken, these are the treats you’ve been searching for. If you own a Lab, keep scrolling.**

@@ -1,16 +1,17 @@
 ---
+
 title: "Ticonderoga Dixon Wood-Cased #2 HB Pencils, Pre-Sharpened, Hang Tab Box of 18, Yellow (13818)"
 seo_title: "Ticonderoga Dixon Wood-Cased Review: Verdict (4.8/5) | TSV"
 meta_description: "Quality Good quality, best 16,601+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "ticonderoga-dixon-wood-cased-2-hb-pencils-pre-sharpened-hang-tab-box-review"
 image_alt: "Ticonderoga Dixon Wood-Cased #2 HB Pencils, Pre-Sharpened, Hang Tab Box of 18, Yellow (13818)"
-keywords:
+keywords: 
   - "ticonderoga dixon woodcased review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Ticonderoga Dixon Wood-Cased #2?"
     answer: "Quality Good quality, best seller That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Ticonderoga Dixon Wood-Cased #2?"
@@ -23,12 +24,13 @@ review_count: 16601
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B002VL5IJO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u+FG2YD7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality Good quality."
   - "Perfectly Practical Pencils Unbelievably great quality."
   - "The smell, the appearance."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If you've ever gripped a flimsy pencil that snaps mid-SAT or leaves gray ghosts of eraser streaks across your work, you know the difference between a writing instrument and a writing tool. The Ticonderoga 13818 is firmly in the second category. This is the pencil that teachers hoard, that lawyers use for margin notes, that your grandmother still keeps in the kitchen drawer. With 16,601 Amazon ratings averaging 4.8 stars, it's not just popular — it's practically iconic. But at $11.86 for 18 pre-sharpened pencils, you're paying for the name. Is it worth the premium? Here's the honest breakdown.

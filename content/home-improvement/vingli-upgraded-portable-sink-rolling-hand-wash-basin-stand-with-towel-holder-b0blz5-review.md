@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Upgraded Portable Sink| Rolling Hand Wash Basin Stand"
 seo_title: "VINGLI Upgraded Portable Sink| Rolling Hand Wash B Review"
 meta_description: "Our full vingli upgraded portable sink| rolling hand wash basin stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLZ5QZHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xJmXunsIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VINGLI Upgraded Portable Sink: The Rolling Hand Wash Station That Actually Works

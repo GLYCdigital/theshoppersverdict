@@ -1,4 +1,5 @@
 ---
+
 title: "Special K Bar Pastry Crisps, Breakfast Bars, 100 Calorie Sna"
 seo_title: "Special K Bar Pastry Crisps, Breakfast Bars, 100 C Review"
 meta_description: "Our full special k bar pastry crisps, breakfast bars, 100 calorie sna review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07ZKWRXWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812fFV4eFHL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most 100-calorie snack bars taste like compressed sawdust with a hint of artificial sweetener. The Special K Pastry Crisps are not that. They're the rare diet-friendly bar that doesn't punish you for watching your intake.

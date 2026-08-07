@@ -1,4 +1,5 @@
 ---
+
 title: "DYMO LetraTag LT-100T Compact"
 seo_title: "DYMO LetraTag LT-100T Review: Compact Label Maker (2026)"
 meta_description: "DYMO LetraTag LT-100T review: compact label maker with QWERTY keyboard, one-touch formatting. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08W4J5DW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xS-HR3mNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full QWERTY keyboard makes typing labels fast and intuitive — no phone-style triple-tap hunting"
   - "One-touch formatting keys (font, size, style, frame) sit right on the keypad, so you don't dig through menus"
   - "Uses widely available LT-100 series tape (1/2-inch), so refills are cheap and stocked everywhere"
-cons:
+cons: 
   - "Monochrome LCD shows only 13 characters per line — you'll scroll to preview longer labels"
   - "Requires 4 AAA batteries (not included); no AC adapter option for desk-bound use"
   - "Print resolution caps at 180 dpi — fine for labels, but text below 8pt gets blurry"
+
 ---
 
 If you've ever wrestled with a label maker that forces you to cycle through a virtual keyboard with arrow keys, you already know why the DYMO LetraTag LT-100T stands out: it has a real QWERTY keyboard. That single design decision makes this $25-ish gadget (check current pricing) dramatically faster to use than comparably priced Brother or casio units. But is it the right label maker for your home office? Let's dig in.

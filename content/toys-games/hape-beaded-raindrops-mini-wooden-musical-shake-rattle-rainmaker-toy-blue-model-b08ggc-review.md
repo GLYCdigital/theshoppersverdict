@@ -1,4 +1,5 @@
 ---
+
 title: "Hape Beaded Raindrops | Mini Wooden Musical Shake & Rattle R"
 seo_title: "Hape Beaded Raindrops Review: Mini Wooden Rainmaker Toy"
 meta_description: "Hape Beaded Raindrops mini wooden rainmaker: honest review of build, sound, and durability. See if this 4.7-star baby toy is worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08GGCK4K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Compact 6-inch size fits small hands perfectly, yet produces a surprisingly full rain sound"
   - "Smooth-sanded wood with non-toxic, water-based paint — no chemical smell out of the box"
   - "Durable clear plastic ends let kids see the beads cascade, which adds visual tracking benefits"
-cons:
+cons: 
   - "Plastic end caps feel slightly less premium than the rest of the all-wood construction"
   - "Sound is soft and gentle — older toddlers who want loud rattles may find it underwhelming"
+
 ---
 
 You’ve seen the videos. A baby flips a rainmaker, beads tumble down, and suddenly the whole room goes quiet. The Hape Beaded Raindrops is the mini version of that classic sensory toy — and at roughly six inches tall, it’s built for the youngest listeners. With a 4.7-star average across 235 ratings, it’s clearly doing something right. Here’s what that something is.

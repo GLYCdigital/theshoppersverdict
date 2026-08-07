@@ -1,4 +1,5 @@
 ---
+
 title: "Ac Infinity Inline Duct Fan Silencer Aluminum Ducting fertil"
 seo_title: "Ac Infinity Inline Duct Fan Silencer Review: 2026 Buyer's Guide"
 meta_description: "Does the Ac Infinity Inline Duct Fan Silencer cut noise? Our 2026 review covers real dB reduction, build quality, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2Y1Y5S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AYf5JWdAL._SL1500_.jpg"
-pros:
+pros: 
   - "Measurable noise reduction of 10-15 dB in the 250-500 Hz range, which is where inline fan whine lives"
   - "Flanged aluminum housing with 4 pre-drilled mounting holes per side — installs in minutes without brackets"
   - "Works with any 4-inch or 6-inch ducting, so you can reuse it if you upgrade your fan later"
-cons:
+cons: 
   - "Length adds roughly 12 inches to your duct run — tight grow tents or closet setups need to plan for the extra space"
   - "Not effective on high-frequency motor whine above 1 kHz; it tames airflow noise, not bearing noise"
   - "Aluminum exterior gets hot if mounted directly against a fan housing — leave a 2-inch gap for heat dissipation"
+
 ---
 
 If you run an inline duct fan for your grow tent, greenhouse exhaust, or workshop ventilation, you already know the problem: that constant rushing-air drone that bleeds through walls. The Ac Infinity Inline Duct Fan Silencer attacks exactly that issue — and based on 225 Amazon ratings averaging 4.5 stars, it's doing something right. But is it worth the money, or just another piece of aluminum that promises more than it delivers? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO LiquaFeed Quick Start Transplanting Solution"
 seo_title: "Miracle-GRO LiquaFeed Quick Start Transplanting So Review"
 meta_description: "Our full miracle-gro liquafeed quick start transplanting solution review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08NKM8XYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615oBI+vQVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-Second Hook**

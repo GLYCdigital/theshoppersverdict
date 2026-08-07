@@ -1,4 +1,5 @@
 ---
+
 title: "Dyson Solarcycle Morph™ Floor Light CF06 inch"
 seo_title: "Dyson Solarcycle Morph Floor Light CF06 Review (2026)"
 meta_description: "Dyson Solarcycle Morph CF06 floor light review: 4.2/5 stars. Tested for color accuracy, smart features, and build. Is it worth $800?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D2HTTVTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514dU+CvurL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Head rotates a full 360° and pivots 90° vertically, letting you aim light exactly where you need it without moving the base"
   - "Auto-adjusts color temperature (2700K–6500K) based on ambient daylight, matching natural light patterns throughout the day"
   - "Magnetic magnetic attachment system for the optical head makes swapping between task, feature, and ambient modes effortless"
-cons:
+cons: 
   - "At $800+, it costs 10x more than a quality LED floor lamp with similar raw output—you're paying for optics and smarts, not lumens"
   - "The Dyson Link app setup is finicky; multiple buyers report Bluetooth pairing drops that require power-cycling the lamp"
+
 ---
 
 Here's the reality: most floor lamps are dumb tubes that throw light in every direction. The Dyson Solarcycle Morph CF06 is not that. It's a precision optical instrument disguised as a lamp, with a rotating head that spins a full 360 degrees and pivots 90 degrees vertically. That's not a gimmick—it means you can pin light onto a book, a canvas, or a workbench without moving the heavy base. If you've ever fought with a swing-arm lamp that droops or a track light that won't stay put, this solves that permanently.

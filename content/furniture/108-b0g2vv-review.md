@@ -1,4 +1,5 @@
 ---
+
 title: "108â€ Round Table Review: Spacious Design for Large Gatherings"
 seo_title: "108â€ Round Table Review: Is It Worth It? (2026)"
 meta_description: "Read our honest 108â€ round table review: build quality, seating capacity, real buyer feedback, and who should buy this large-format dining table."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2VVLG7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pQIoXJN1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 9-foot diameter seats 10-12 adults comfortably without elbow bumping"
   - "Solid construction with reinforced pedestal base that doesn't wobble under heavy use"
   - "Finish resists water rings and heat marks better than typical veneer tables"
-cons:
+cons: 
   - "Shipping freight delivery requires planning — you'll need help moving it inside"
   - "Round shape means wasted corner space in rectangular rooms"
+
 ---
 
 When a table measures 108 inches across, you're not buying furniture — you're buying a gathering place. This round table from the B0G2VVLG7W listing has earned a 4.6-star average across 229 ratings, and that number holds up once you understand what this piece actually delivers.

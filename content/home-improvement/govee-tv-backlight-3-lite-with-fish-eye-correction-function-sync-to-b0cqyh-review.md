@@ -1,4 +1,5 @@
 ---
+
 title: "Govee TV Backlight 3 Lite with Fish-Eye Correction Function "
 seo_title: "Govee TV Backlight 3 Lite with Fish-Eye Correction Review"
 meta_description: "Our full govee tv backlight 3 lite with fish-eye correction function  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQYHSZLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711nlDCdiGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Govee TV Backlight 3 Lite Review: The Fish-Eye Fix That Actually Works**

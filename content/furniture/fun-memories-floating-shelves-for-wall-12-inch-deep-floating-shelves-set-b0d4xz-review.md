@@ -1,4 +1,5 @@
 ---
+
 title: "Fun Memories Floating Shelves for Wall, 12 Inch Deep Floatin"
 seo_title: "Fun Memories Floating Shelves Review: 12-Inch Deep Wall Shelves"
 meta_description: "Honest Fun Memories floating shelves review: 12-inch deep wall shelves, real customer feedback, weight capacity, and who should buy them."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4XZGXR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZG9Hpv+TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 12-inch depth fits large books, vinyl records, and bulky decor that standard 9-inch shelves can't handle"
   - "Hidden bracket system creates a genuine floating look with no visible hardware from the front"
   - "Solid wood construction with a smooth, splinter-free finish that feels premium for the price point"
-cons:
+cons: 
   - "Installation requires a stud finder and careful measuring — the hidden brackets leave zero room for error"
   - "Not ideal for renters or anyone who can't patch drywall; the mounting system leaves noticeable holes if removed"
+
 ---
 
 ## The 12-Inch Depth Is the Whole Point

@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Basics Limited Ingredient Diet, Turkey, Small B"
 seo_title: "Blue Buffalo Basics Turkey Small Breed Review: Worth It?"
 meta_description: "Honest Blue Buffalo Basics Limited Ingredient Diet Turkey Small Breed review: protein quality, portion sizes, picky eater results, and real owner feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09H6JWF9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZSj4otaWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single animal protein source (deboned turkey) plus easily digestible potato — genuinely limited ingredient, not just marketing"
   - "Kibble size is actually small (roughly 8mm), not just 'small breed' in name — fits toy breeds like Yorkies and Chihuahuas without choking risk"
   - "No chicken, beef, corn, wheat, soy, dairy, or eggs — one of the safest picks for dogs with confirmed poultry sensitivities"
-cons:
+cons: 
   - "Expensive per pound compared to standard Blue Buffalo lines — you're paying a significant premium for the limited ingredient formula"
   - "Some picky eaters refuse it after a few weeks; the turkey flavor is mild and lacks the strong aroma that entices finicky dogs"
   - "Contains pea fiber and pea starch — if your dog has true legume sensitivities, this may still trigger issues despite the 'limited' label"
+
 ---
 
 ## The Limited Ingredient Promise — Does It Actually Deliver?

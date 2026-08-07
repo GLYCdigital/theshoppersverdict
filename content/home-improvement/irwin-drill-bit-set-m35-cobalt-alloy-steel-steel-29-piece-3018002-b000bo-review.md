@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN Drill Bit Set, M35 Cobalt Alloy Steel Steel, 29-Piece "
 seo_title: "IRWIN Drill Bit Set, M35 Cobalt Alloy Steel Steel, Review"
 meta_description: "Our full irwin drill bit set, m35 cobalt alloy steel steel, 29-piece  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000BO9JMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pYtPUyr6L._SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most drill bit sets under $50 are a compromise. You get either a bunch of cheap high-speed steel that dulls after one job on metal, or a few decent bits that cost more individually than the whole set. The IRWIN M35 Cobalt 29-piece set sits in a sweet spot — it's priced like a starter set but performs like a professional one. After running these through stainless steel, mild steel, and aluminum, here's the real story.

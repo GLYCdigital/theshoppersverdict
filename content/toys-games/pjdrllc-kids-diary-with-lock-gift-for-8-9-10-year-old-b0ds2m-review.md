@@ -1,4 +1,5 @@
 ---
+
 title: "PJDRLLC Kids Diary with Lock, Gift for 8 9 10 Year Old Girl,"
 seo_title: "PJDRLLC Kids Diary with Lock, Gift for 8 9 10 Year Review"
 meta_description: "Our full pjdrllc kids diary with lock, gift for 8 9 10 year old girl, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DS2M1355/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QxjTk5w3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a locked diary for an 8-to-10-year-old actually needs to be: durable enough to survive being tossed in a backpack, cute enough to feel special, and secure enough to make the owner feel her secrets are safe. The PJDRLLC Kids Diary nails the first two. The third? Mostly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Leather Journal for daughter granddaughter niece"
 seo_title: "Leather Journal for daughter granddaughter niece Review: "
 meta_description: "Our full leather journal for daughter granddaughter niece review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BHTP9JZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IYT4czEoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the journal you actually want to gift?

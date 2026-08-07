@@ -1,4 +1,5 @@
 ---
+
 title: "Charmline Desktop Charcoal Grill, Liftable Grilling Net, Sav"
 seo_title: "Charmline Desktop Charcoal Grill Review: Compact & Smart"
 meta_description: "Honest Charmline Desktop Charcoal Grill review: liftable grilling net, compact design, real performance. Is this space-saving grill worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNM3XQGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NXZN+CJNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Liftable grilling net gives you instant heat control without removing food — a genuinely useful feature for charcoal beginners"
   - "Compact footprint (roughly the size of a dinner plate) fits small balconies, tabletops, and camping setups"
   - "Gets genuinely hot — reviewers report searing steak and chicken thighs properly, not just warming them"
-cons:
+cons: 
   - "Small cooking surface (around 8 inches) means you're cooking for 1-2 people max, not a family"
   - "Charcoal basket is shallow — you'll need to reload for longer cooks or expect about 30-40 minutes of usable heat"
   - "No ash catcher included; you'll need a heat-safe tray underneath unless you want charcoal dust on your table"
+
 ---
 
 Let's be blunt: most "desktop" grills are gimmicks. They're either too small to sear anything, or they're just a candle warmer with a grate on top. The Charmline Desktop Charcoal Grill is not that. At 4.6 stars across 229 ratings, it's earning its reputation the hard way — by actually working.

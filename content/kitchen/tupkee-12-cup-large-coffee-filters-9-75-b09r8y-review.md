@@ -1,4 +1,5 @@
 ---
+
 title: "Tupkee 12-Cup Large Coffee Filters - 9.75â€"
 seo_title: "Tupkee 12-Cup Large Coffee Filters - 9.75â€ Review: Verdi"
 meta_description: "Our full tupkee 12-cup large coffee filters - 9.75â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09R8Y9VGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-LxPVrOeL._AC_SL1227_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what these are: **Tupkee 12-cup coffee filters are a bulk-buy workhorse for anyone running a commercial brewer or a high-volume home setup.** At 9.75 inches across, they're designed for the big basket brewers — think Bunn, Fetco, or the 12-cup models from Cuisinart and Mr. Coffee — not your standard #4 cone. If that's your machine, this pack is worth a hard look.

@@ -1,23 +1,25 @@
 ---
+
 title: "Garbage Disposal Air Switch Kit By CLEESINK"
 seo_title: "CLEESINK Garbage Disposal Air Switch Kit Review (2026)"
 meta_description: "CLEESINK air switch kit review: easy installation, safe no-wire control for your disposal. See how it performs, real pros/cons, and who should buy."
 slug: "garbage-disposal-air-switch-kit-by-cleesink-b0f9p5-review"
 image_alt: "CLEESINK garbage disposal air switch kit with chrome push button and power module"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F9P5DBWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610nYQs0eML._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Brushed stainless steel button is solid and matches most kitchen faucets"  
   - "Air tube length (1.6m) fits deep sinks without extra extenders"  
   - "15A/120V rated module handles standard 1HP disposals without tripping"  
-cons:  
+cons: 
   - "Included adhesive mount is weak — you'll want the drill-mount option for granite"  
   - "No outlet cord included — you must supply your own or hardwire it"
+
 ---
 
 Let me be blunt: if you're still reaching under the sink to flip a wall switch every time you grind food scraps, you're doing it wrong. The CLEESINK Garbage Disposal Air Switch Kit is the $30-ish fix that makes your disposal actually convenient — and at 4.8 stars across 240 ratings, it's clearly working for most people. But it's not perfect, and I'll tell you exactly where it stumbles.

@@ -1,15 +1,16 @@
 ---
+
 title: "Stand Mixer, Kitchen in the box 3.2Qt Small Electric Food Mixer,6 Speeds Portable Lightweight Kitchen Mixer for Daily Use with Egg Whisk,Dough Hook,Flat Beater (Purple)"
 seo_title: "Stand Mixer, Kitchen in the box 3.2Qt Small Electr Review"
 meta_description: "Honest stand mixer, kitchen in the box 3.2qt sm review based on 9,297+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "stand-mixer-kitchen-in-the-box-3-2qt-small-electric-food-mixer-review"
 image_alt: "Stand Mixer, Kitchen in the box 3.2Qt Small Electric Food Mixer,6 Speeds Portable Lightweight Kitchen Mixer for Daily Us"
-keywords:
+keywords: 
   - "stand mixer kitchen review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like about the Stand Mixer, Kitchen in the?"
     answer: "Yes — a standout feature. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Is the Stand Mixer, Kitchen in the well-made?"
@@ -22,13 +23,14 @@ review_count: 9297
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BVCPMQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aJoRpgISL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clean and practical design"
   - "Compact and space-efficient"
   - "Easy to set up and use"
-cons:
+cons: 
   - "Some durability concerns over time"
   - "Customer Service"
+
 ---
 
 If you're shopping for a kitchen appliance, you've probably noticed the Stand Mixer, Kitchen in the box.... After combing through 9,297 Amazon customer reviews, one thing is clear: reviewers consistently highlight its clean, thoughtful design as a key strength.

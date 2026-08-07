@@ -1,5 +1,6 @@
 ---
 
+
 title: "FancyMay 20 inch  Modern Low Profile Ceiling Fan with Light, 6 Sp"
 seo_title: "FancyMay 20 inch  Low Profile Ceiling Fan Review: 3.3/5 Verdict"
 meta_description: "FancyMay 20 inch  low profile ceiling fan with 6 speeds and light — honest review of build quality, airflow, noise, and installation. 2.9/5 Amazon rating analyzed."
@@ -12,14 +13,15 @@ review_count: 150
 amazon_rating: 2.9
 amazon_url: "https://www.amazon.com/dp/B0D9BCFTQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61grXaPaZhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Compact 20-inch blade span fits tight spaces where standard 52-inch fans won't — ideal for closets, small offices, or hallways"
   - "Six-speed reversible motor offers meaningful airflow control, from whisper-quiet low to strong high-speed circulation"
   - "Integrated LED light with dimmable color temperature options (2700K-6500K) replaces a separate light fixture"
-cons:
+cons: 
   - "Mixed installation reliability — several buyers report missing mounting brackets or stripped screws requiring returns"
   - "Noise complaints emerge at higher speeds; some buyers describe a whine or hum above speed 4 inch"
   - "Remote control is the only way to operate — no wall switch compatibility, which frustrates some users"
+
 
 ---
 

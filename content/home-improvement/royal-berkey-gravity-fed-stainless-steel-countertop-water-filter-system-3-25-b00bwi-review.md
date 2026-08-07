@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Berkey Gravity-Fed Stainless Steel Countertop Water Fi"
 seo_title: "Royal Berkey Gravity-Fed Stainless Steel Counterto Review"
 meta_description: "Our full royal berkey gravity-fed stainless steel countertop water fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00BWIWZJI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+0EK2sWfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Royal Berkey isn't a filter, it's a survival tool that happens to look good on your counter. With a 4.7-star average across 235 ratings, it's clearly doing something right. But at this price point, you deserve to know exactly what you're getting before you commit.

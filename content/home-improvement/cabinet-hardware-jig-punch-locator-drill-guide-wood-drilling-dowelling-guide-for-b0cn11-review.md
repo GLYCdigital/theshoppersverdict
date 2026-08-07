@@ -1,4 +1,5 @@
 ---
+
 title: "Cabinet Hardware Jig, Punch Locator Drill Guide,Wood Drillin"
 seo_title: "Cabinet Hardware Jig Review: Drill Guide for Perfect Holes"
 meta_description: "Honest review of the Cabinet Hardware Jig Punch Locator Drill Guide. Tested for accuracy, build quality, and ease of use. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN114BJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WrepqHu-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Self-centering punch locator eliminates measuring errors on cabinet faces and drawer fronts"
   - Hardened steel bushings accept standard 3/8 inch " and 5/16 inch " drill bits without wobble
   - "Compact body fits into tight corners where full-size jigs won't reach"
-cons:
+cons: 
   - "No built-in depth stop — you'll need to mark your bit or use tape for consistent hole depth"
   - "Spring tension on the punch is stiff; requires firm pressure on softwoods to avoid tear-out"
+
 ---
 
 If you've ever installed cabinet pulls by measuring each hole with a ruler and praying the drill doesn't wander, you know the pain. This punch locator drill guide from B0CN114BJQ promises to end that guesswork. After 225 ratings averaging 4.5 stars, it's clearly earning its keep in workshops. Here's the honest breakdown.

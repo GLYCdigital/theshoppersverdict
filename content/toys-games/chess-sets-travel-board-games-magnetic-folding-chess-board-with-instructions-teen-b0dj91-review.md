@@ -1,4 +1,5 @@
 ---
+
 title: "Chess Sets Travel Board Games: Magnetic Folding Chess Board"
 seo_title: "Magnetic Folding Chess Board Review: Travel Set Worth It?"
 meta_description: "Honest review of the Magnetic Folding Chess Board: build quality, magnet strength, portability, and downsides. Is this travel chess set right for you?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ919R1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T9ho7JlML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnets hold pieces firmly even when the board is tilted at a 45-degree angle — no sliding mid-game"
   - "Folded footprint is roughly the size of a hardcover novel, so it fits in a backpack side pocket or glove box"
   - "Pieces have a satisfying snap when placed; you can feel the magnetic connection without fighting to lift them"
-cons:
+cons: 
   - "Board surface is a printed vinyl laminate rather than real wood — it looks decent but won't win any aesthetic awards"
   - "King height is about 1.5 inches, which feels small for players with larger hands or those used to tournament sets"
   - "The included instructions are a single folded sheet covering basic moves only — no strategy guidance for beginners"
+
 ---
 
 If you've ever tried playing chess on a plane tray table or in a passenger seat, you know the struggle: pieces sliding, knocked-over kings, and the inevitable "wait, was that knight on b3 or b4?" A magnetic board fixes that, but only if the magnets are strong enough to actually hold. This set from the Chess Sets Travel Board Games line gets that part right — and that's the whole ballgame for a travel board.

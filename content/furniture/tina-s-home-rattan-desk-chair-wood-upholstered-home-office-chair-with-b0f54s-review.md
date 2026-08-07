@@ -1,4 +1,5 @@
 ---
+
 title: "TINA'S HOME Rattan Desk Chair, Wood Upholstered Home Office "
 seo_title: "TINA'S HOME Rattan Desk Chair, Wood Upholstered Ho Review"
 meta_description: "Our full tina's home rattan desk chair, wood upholstered home office  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F54SN2LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81at98R4PgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most rattan chairs under $200 are decorative junk. They wobble, the weave peels, and they're strictly for Instagram photos. The TINA'S HOME Rattan Desk Chair, however, sits in a different category. It's one of the few pieces that actually delivers on both form and function — with a few honest caveats.

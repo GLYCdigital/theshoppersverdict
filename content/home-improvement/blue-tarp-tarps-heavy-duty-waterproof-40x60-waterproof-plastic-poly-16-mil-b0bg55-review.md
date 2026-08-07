@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Tarp, Tarps Heavy Duty Waterproof 40x60, Waterproof Pla"
 seo_title: "Blue Tarp 40x60 Heavy Duty Waterproof Review (2026)"
 meta_description: "Honest review of the Blue Tarp 40x60 heavy duty waterproof tarp. 16 mil thickness, reinforced corners, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BG55ND82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WrcKLXwBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "16 mil thickness handles serious weather without tearing at stress points"
   - "Reinforced corners and double-stitched hems survive high winds when properly tied down"
   - "True 40x60 coverage — no shrinkflation, dimensions verified by multiple buyers"
-cons:
+cons: 
   - "Blue color fades noticeably after 2-3 months of direct sun exposure"
   - "Grommets are spaced every 36 inches — you'll want extra rope or bungees for a tight fit"
+
 ---
 
 A 40x60 tarp is a commitment. You're not buying a weekend camp cover — you're buying something meant to shield a boat, a haystack, or a construction pile through seasons of abuse. The Blue Tarp Heavy Duty Waterproof 40x60 stakes its claim on a 16 mil polyethylene build, and after digging through 225 ratings and the spec sheet, here's what actually matters.

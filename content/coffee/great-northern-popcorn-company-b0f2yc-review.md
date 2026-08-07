@@ -1,4 +1,5 @@
 ---
+
 title: "Great Northern Popcorn Company"
 seo_title: "Great Northern Popcorn Company Review: Verdict | TSV"
 meta_description: "Our full great northern popcorn company review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F2YCKL2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bdfsjq6BL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a movie theater pop fresh corn and thought, "I want that at home," the Great Northern Popcorn Company machine is the closest you'll get without a commercial lease. With 220 Amazon ratings averaging 4.4 stars, this isn't a novelty appliance — it's a legitimate countertop popper that's earned its keep in hundreds of kitchens.

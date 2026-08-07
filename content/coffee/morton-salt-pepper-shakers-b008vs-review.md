@@ -1,4 +1,5 @@
 ---
+
 title: "Morton Salt & Pepper Shakers"
 seo_title: "Morton Salt & Pepper Shakers Review: Verdict | TSV"
 meta_description: "Our full morton salt & pepper shakers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008VSYZL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Xx-PAvWfL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a salt and pepper shaker set isn't the kind of purchase that gets your heart racing. But after spending time with the Morton Salt & Pepper Shakers — and digging through 235 Amazon ratings averaging 4.7 stars — these earn their place on your counter. Here's the real story.

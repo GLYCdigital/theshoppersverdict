@@ -1,4 +1,5 @@
 ---
+
 title: "Gorilla Mind Energy Drink | Unmatched Energy Â· Amplified Fo"
 seo_title: "Gorilla Mind Energy Drink | Unmatched Energy Â· Am Review"
 meta_description: "Our full gorilla mind energy drink | unmatched energy â· amplified fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK68K3WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l0pYhgOUL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Gorilla Mind Energy Drink Review: A Pre-Workout in a Can, But Know the Cost**

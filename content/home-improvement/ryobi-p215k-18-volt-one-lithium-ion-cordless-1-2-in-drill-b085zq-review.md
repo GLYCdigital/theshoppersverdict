@@ -1,4 +1,5 @@
 ---
+
 title: "Ryobi P215K 18-Volt ONE+ Lithium-Ion Cordless 1/2 in. Drill/"
 seo_title: "Ryobi P215K 18-Volt ONE+ Lithium-Ion Cordless 1/2  Review"
 meta_description: "Our full ryobi p215k 18-volt one+ lithium-ion cordless 1/2 in. drill/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B085ZQKQXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NhoKmS9gL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ryobi P215K isn't the flashiest drill on the shelf, but it's the one you'll actually grab when the job needs doing. This 18-volt ONE+ compact drill has carved out a reputation as the sensible middle child of cordless drilling — not the most powerful, not the lightest, but arguably the best value for the average homeowner.

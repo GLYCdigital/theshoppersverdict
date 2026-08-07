@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Brazilian Anti Frizz Daily Shampoo & Conditioner - Salt"
 seo_title: "Pure Brazilian Anti Frizz Daily Shampoo & Conditio Review"
 meta_description: "Our full pure brazilian anti frizz daily shampoo & conditioner - salt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZNW64S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L4srMnwXL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hair frizzes the moment humidity hits 60%, you’ve probably tried every “smoothing” shampoo on the shelf—only to end up with limp, greasy strands by day two. Pure Brazilian’s Anti Frizz Daily duo takes a different route: it tames flyaways while *adding* texture and volume, thanks to sea salt. That’s a rare combo, and after three weeks of testing, I understand why this set holds a 4.5-star average across 225 Amazon ratings.

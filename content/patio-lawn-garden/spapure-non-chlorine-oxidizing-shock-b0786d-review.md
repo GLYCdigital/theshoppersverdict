@@ -1,4 +1,5 @@
 ---
+
 title: "SpaPure Non-Chlorine Oxidizing Shock"
 seo_title: "SpaPure Non-Chlorine Oxidizing Shock Review: Verdict | TS"
 meta_description: "Our full spapure non-chlorine oxidizing shock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0786DZJY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717lJBmczOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a hot tub owner, you know the drill: after a soak, the water looks a little tired. Cloudy. Maybe a faint film on the surface. Chlorine shock handles it, but the smell and the wait time are brutal. That's where SpaPure Non-Chlorine Oxidizing Shock comes in — a monopersulfate (MPS) shock that's been quietly racking up 4.6 stars across 229 ratings.

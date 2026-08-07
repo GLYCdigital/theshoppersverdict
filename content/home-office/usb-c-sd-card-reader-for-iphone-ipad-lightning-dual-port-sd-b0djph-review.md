@@ -1,4 +1,5 @@
 ---
+
 title: "USB C SD Card Reader for iPhone, iPad, Lightning Dual Port S"
 seo_title: "USB C SD Card Reader for iPhone, iPad, Lightning D Review"
 meta_description: "Our full usb c sd card reader for iphone, ipad, lightning dual port s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJPH4ZNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513FZUYC4EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

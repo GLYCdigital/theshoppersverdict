@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Squeeze Me Lip Balm, Moisturizing Lip Balm for A Shee"
 seo_title: "e.l.f. Squeeze Me Lip Balm Review (2026): Worth It?"
 meta_description: "e.l.f. Squeeze Me Lip Balm review: affordable, sheer, moisturizing. Read pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GF8W1QP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-wzxMlT1L._SL1500_.jpg"
-pros:
+pros: 
   - "Sheer, buildable color that flatters without needing a mirror"
   - "Non-sticky, cushiony texture that actually sinks in rather than sitting on top"
   - "Clean ingredients at a drugstore price — no parabens, phthalates, or drying alcohols"
-cons:
+cons: 
   - "Shade range is limited — only 6 options, and lighter shades can wash out deeper skin tones"
   - "Squeeze tube means you can accidentally dispense too much if you're not careful"
+
 ---
 
 ## The $4 Lip Balm That Punches Above Its Weight

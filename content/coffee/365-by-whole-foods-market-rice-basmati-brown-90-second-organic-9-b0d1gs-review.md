@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market, Rice Basmati Brown 90 Second Orga"
 seo_title: "365 Whole Foods Basmati Brown Rice Review: 90-Second Organic"
 meta_description: "Honest 365 Whole Foods Basmati Brown Rice review: 90-second organic convenience, taste, texture, and value vs. regular rice. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1GS3PNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R2cPcXOZL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly ready in 90 seconds — no soaking, no 40-minute simmer, no rice cooker required"
   - "Organic basmati brown rice with a distinct nutty aroma and separate, non-mushy grains"
   - "No added salt, preservatives, or oils — just rice and water in a BPA-free pouch"
-cons:
+cons: 
   - "Smaller serving size than expected — each pouch yields roughly 1 cup cooked, not the 2 cups some shoppers assume"
   - "Price per ounce runs 3-4x higher than cooking dry basmati rice from a bag"
   - "Texture leans slightly chewy if you don't fluff it immediately after heating"
+
 ---
 
 Let's get one thing straight: this is not a coffee maker. The product data says "coffee gear" but the reality is a 90-second pouch of organic brown basmati rice from Whole Foods' house brand. I'm reviewing the actual product shoppers will receive — and honestly, it's a solid one.

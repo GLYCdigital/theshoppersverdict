@@ -1,5 +1,6 @@
 ---
 
+
 title: "Farmhouse Drum Pendant Light Chandeliers for Dining Room, Vi"
 seo_title: "Farmhouse Drum Pendant Light Review: Vintage Metal Pendant for Dining"
 meta_description: "Honest review of the Farmhouse Drum Pendant Light Chandelier — build quality, brightness, installation, and who should buy. Real buyer feedback included."
@@ -12,13 +13,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFYMP27K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819kGUwFuIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel drum shade with a textured powder-coat finish that hides smudges and resists chipping"
   - "Fully adjustable hanging height (roughly 12 to 60 inches) without needing to cut or rewire the cord"
   - "Compatible with standard dimmer switches and E26 bulbs, so you can tune warmth and brightness"
-cons:
+cons: 
   - "Open-bottom design means the bare bulb is visible — you'll want a vintage Edison bulb for looks, not a standard A19 inch"
   - "Finial set-screws on the canopy can loosen during shipping; check them before mounting"
+
 
 ---
 

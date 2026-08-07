@@ -1,4 +1,5 @@
 ---
+
 title: "Rani Curry Powder Mild Parent"
 seo_title: "Rani Curry Powder Mild Parent Review: Verdict | TSV"
 meta_description: "Our full rani curry powder mild parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR9D1WFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PzHx7m-OL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what's happening here: the product listing calls this "Rani Curry Powder Mild Parent," yet it's filed under coffee gear. That's a categorization quirk, not a flaw in the product itself. But it does raise the question — what are you actually getting?

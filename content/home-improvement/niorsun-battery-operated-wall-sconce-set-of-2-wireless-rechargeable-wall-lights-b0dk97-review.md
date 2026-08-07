@@ -1,4 +1,5 @@
 ---
+
 title: "NIORSUN Battery Operated Wall Sconce Set of 2, Wireless Rech"
 seo_title: "NIORSUN Battery Operated Wall Sconce Set of 2, Wir Review"
 meta_description: "Our full niorsun battery operated wall sconce set of 2, wireless rech review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK97CY2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O21cHU5QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## No Wiring, No Drill, No Ugly Cords — But Is It Actually Bright Enough?

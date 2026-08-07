@@ -1,4 +1,5 @@
 ---
+
 title: "DEIME Air Fryer 7.5 QT 1700W Oilless Oven Healthy Cooker Air"
 seo_title: "DEIME Air Fryer 7.5 QT Review: 1700W Oilless Oven Tested"
 meta_description: "DEIME Air Fryer 7.5 QT 1700W review: We tested capacity, crisping, and ease of use. See if this oilless oven is worth your kitchen space and money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMXC21C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gr82S+8yL._AC_SL1448_.jpg"
-pros:
+pros: 
   - "1700W heating element delivers genuinely fast preheat and crisp results on frozen foods without thawing"
   - "7.5-quart capacity fits a whole 5-pound chicken or 2.5 pounds of fries—actually feeds a family of five"
   - "Dishwasher-safe basket and crisper plate with non-stick coating that survived 40+ washes in our testing"
-cons:
+cons: 
   - "No dehydrator function despite the 'healthy cooker' branding—a missed feature at this price point"
   - "Digital touchscreen is glossy and smudges easily; buttons require a firm press that can be finicky with wet fingers"
+
 ---
 
 # DEIME Air Fryer 7.5 QT: Big Capacity, Real Power, One Missing Feature

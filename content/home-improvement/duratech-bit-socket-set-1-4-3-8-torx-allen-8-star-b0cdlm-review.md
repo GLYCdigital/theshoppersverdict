@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Bit Socket Set, 1/4 inch  3/8 inch  Torx, Allen, 8 Star, Extr"
 seo_title: "DURATECH Bit Socket Set Review: 1/4 inch  3/8 inch  Torx & Allen"
 meta_description: "DURATECH bit socket set review: 1/4 inch  & 3/8 inch  drive with Torx, Allen, and 8-star bits. See what 229 buyers say about quality, fit, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDLM5DDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KpholKwzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "S2 steel bits hold up to repeated high-torque use without stripping or snapping"
   - Dual-drive coverage (1/4 inch " and 3/8 inch ") covers both precision and heavy-duty fasteners in one case
   - "Laser-etched size markings stay legible after months of shop use and grease exposure"
-cons:
+cons: 
   - "Case hinge feels flimsy and may crack if dropped on concrete"
   - No 1/4 inch " hex-to-square adapter included, so you'll need a separate holder for loose bits
+
 ---
 
 If you've ever dug through three different toolboxes hunting for a T25 Torx bit while your knuckles bleed on a brake caliper, this DURATECH set is built for you. It packs 32 common bit sockets across both 1/4" and 3/8" drives into one organized case — and at a 4.6-star average across 229 ratings, it's clearly earning its keep in home garages and pro vans alike.

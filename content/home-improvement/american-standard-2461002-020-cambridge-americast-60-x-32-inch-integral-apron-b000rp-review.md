@@ -1,4 +1,5 @@
 ---
+
 title: "American Standard 2461002.020 Cambridge Americast 60 x 32-In"
 seo_title: "American Standard Cambridge Americast Tub Review (2026)"
 meta_description: "American Standard Cambridge Americast 60x32 tub review: real weight, installation tips, durability. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B000RP6DCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oyS3AR+PL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Weighs roughly 70 lbs vs. 300+ for cast iron — one or two people can maneuver it up stairs and into an alcove without a crew or special equipment"
   - "Americast enamel surface resists chipping and scratching far better than standard acrylic; holds heat noticeably longer than fiberglass"
   - "Integral apron and pre-leveled flange simplify installation — no separate skirt to caulk or align, and the flange sits flush against studs"
-cons:
+cons: 
   - "60-inch length is true tub size, not rough-in dimension — you need roughly 60.5 inches of actual alcove space, and the lip adds width; measure your rough opening carefully before ordering"
   - "Slightly slippery when wet with soap; you'll want a mat or adhesive decals, especially for kids or older bathers"
   - "Limited color options — essentially white only in most markets, so if your bathroom needs a bone or biscuit shade, look elsewhere"
+
 ---
 
 If you're remodeling a bathroom, you've hit the classic dilemma: cast iron feels premium but weighs a ton and costs a fortune to install. Acrylic is light and cheap but flexes, scratches, and loses heat fast. The American Standard Cambridge Americast splits that difference — and mostly, it works.

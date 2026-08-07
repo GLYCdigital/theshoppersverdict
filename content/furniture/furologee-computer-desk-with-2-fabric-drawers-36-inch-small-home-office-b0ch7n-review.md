@@ -1,4 +1,5 @@
 ---
+
 title: "Furologee Computer Desk with 2 Fabric Drawers, 36 Inch Small"
 seo_title: "Furologee Computer Desk Review: 36 Inch with Drawers (2026)"
 meta_description: "Honest Furologee 36-inch computer desk review: fabric drawers, build quality, assembly, and who should buy. Real pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH7N8MYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712bcVvqe0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two full-width fabric drawers glide smoothly and hold real weight — not just flimsy organizers"
   - "31.5-inch wide top fits a monitor, laptop, and coffee mug without feeling cramped"
   - "Sturdy X-frame steel legs with adjustable feet pads eliminate wobble on uneven floors"
-cons:
+cons: 
   - "Fabric drawers show dust and lint quickly; need regular vacuuming to look clean"
   - "No cable management holes in the desktop — you'll need clips or a tray for cords"
+
 ---
 
 ## The 36-Inch Desk That Actually Gets It Right

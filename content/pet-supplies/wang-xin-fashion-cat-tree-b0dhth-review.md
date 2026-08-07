@@ -1,4 +1,5 @@
 ---
+
 title: "Wang Xin Fashion Cat Tree"
 seo_title: "Wang Xin Fashion Cat Tree Review: Verdict | TSV"
 meta_description: "Our full wang xin fashion cat tree review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHTHWW6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tgua75irL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A cat tree that actually earns its keep — if you have the floor space.**

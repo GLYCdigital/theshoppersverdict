@@ -1,4 +1,5 @@
 ---
+
 title: "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready-to-Run Co"
 seo_title: "Losi RC Motorcycle Promoto-MX 1/4 Motorcycle Ready Review"
 meta_description: "Our full losi rc motorcycle promoto-mx 1/4 motorcycle ready-to-run co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8Z7RT7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71msstB9ojL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Losi Promoto-MX isn't a toy. It's the closest thing to a real dirt bike you can ride without leaving your driveway — and it demands respect.**

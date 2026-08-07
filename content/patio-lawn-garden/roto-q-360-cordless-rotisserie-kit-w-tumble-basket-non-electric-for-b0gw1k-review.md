@@ -1,4 +1,5 @@
 ---
+
 title: "ROTO-Q 360 Cordless Rotisserie Kit w/Tumble Basket - Non-Ele"
 seo_title: "ROTO-Q 360 Cordless Rotisserie Kit w/Tumble Basket Review"
 meta_description: "Our full roto-q 360 cordless rotisserie kit w/tumble basket - non-ele review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GW1KCQTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aHqyrHlML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the ROTO-Q 360 solves a real problem — you want rotisserie results without running a power cord across your patio or drilling into your grill. At 4.4 stars from 220 ratings, it's clearly working for most people. But "cordless" comes with tradeoffs, and you need to know them before you buy.

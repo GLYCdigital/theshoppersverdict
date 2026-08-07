@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Homestyle Recipe Natural Adult Small Breed Wet Dog Food Review"
 seo_title: "Blue Buffalo Homestyle Small Breed Wet Food Review: 2026"
 meta_description: "Honest Blue Buffalo Homestyle Recipe Small Breed wet dog food review. See real pros, cons, and if it's worth the price for your picky eater."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09H5VG861/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bkRvD-05L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deboned chicken is the first ingredient, delivering a high-protein start without poultry by-product meals or corn/wheat/soy fillers."
   - "The 'Homestyle' stew texture has a rich gravy that picky small breeds consistently go for, making it an excellent topper for dry kibble."
   - "Formulated specifically for small-breed metabolisms with balanced calcium and phosphorus for adult maintenance, not just scaled-down portion sizes."
-cons:
+cons: 
   - "Contains carrageenan, a thickener some owners prefer to avoid; if you are strict about gums and binders, this is a dealbreaker."
   - "The 12.5-oz can is large for a single small dog—unless you have two or portion it, you're dealing with leftovers that need refrigerating within 2 hours."
+
 ---
 
 **Is this the "home-cooked" upgrade your small dog deserves, or just another overpriced can of gravy? Let's break down the label and the real-world feedback.**

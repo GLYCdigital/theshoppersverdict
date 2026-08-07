@@ -1,4 +1,5 @@
 ---
+
 title: "Pretty memory 100 Pairs Foam Eye Pads for Lash Extensions, L"
 seo_title: "Pretty memory 100 Pairs Foam Eye Pads for Lash Ext Review"
 meta_description: "Our full pretty memory 100 pairs foam eye pads for lash extensions, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6FP5T1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710jp13+gHL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Pretty memory 100 Pairs Foam Eye Pads for Lash Extensions, L"
 seo_title: "Pretty Memory Foam Eye Pads Review: Lash Tech Must-Have"

@@ -1,4 +1,5 @@
 ---
+
 title: "20 x 20 - Paint Pockets GREEN Overspray Arrestor - 40 Pack"
 seo_title: "Paint Pockets GREEN Overspray Arrestor Review (20x20, 40-Pack)"
 meta_description: "Honest review of Paint Pockets GREEN 20x20 overspray arrestors. 40-pack filters that catch overspray without killing airflow. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00EUOP5KW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713KHxsdjbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Catches fine overspray mist without clogging quickly — the 3D pocket design gives roughly 4x the surface area of flat fiberglass filters"
   - "Maintains strong booth airflow even when loaded; less strain on your exhaust fan motor over long spraying sessions"
   - "Built-in cardboard frame keeps the filter rigid in cheap metal racks — no sagging or gaps around the edges"
-cons:
+cons: 
   - "Green (standard) rating only catches particles down to 10 microns — fine lacquer mist from HVLP guns can partially pass through on heavy coats"
   - "Pricier per filter than bargain fiberglass pads; you pay for longevity, not upfront savings"
+
 ---
 
 If you spray paint, lacquer, or clear coat with any regularity, you already know the pain of a clogged exhaust filter. The fan sounds like it's dying, the booth pressure drops, and overspray starts settling on your freshly painted piece. The Paint Pockets GREEN 20x20 filters are designed to solve exactly that problem, and after looking at how they're built and what 235 buyers say (4.7 stars), they mostly do.

@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 1/4, 3/8, 1/2 Inch Drive 6-Point Impact Socket Set wi"
 seo_title: "TEKTON 1/4, 3/8, 1/2 Inch Drive 6-Point Impact Soc Review"
 meta_description: "Our full tekton 1/4, 3/8, 1/2 inch drive 6-point impact socket set wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DR3NKCZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qVwggcyqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of buying three separate socket sets — one for each drive size — the TEKTON 1/4, 3/8, 1/2 Inch Drive 6-Point Impact Socket Set collapses that into one purchase. But is consolidation worth the tradeoffs? After digging through the specs and what 220 buyers are saying (4.4 stars), here's the honest breakdown.

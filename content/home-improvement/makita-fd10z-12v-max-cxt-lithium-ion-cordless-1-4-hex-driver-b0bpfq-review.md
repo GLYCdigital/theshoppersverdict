@@ -1,7 +1,8 @@
 ---
-title: "Makita FD10Z 12V max CXTÂ® Lithium-Ion Cordless 1/4\" Hex Dri"
+
+title: "Makita FD10Z 12V max CXTÂ® Lithium-Ion Cordless 1/4\ Hex Dri"
 seo_title: "Makita FD10Z 12V max CXTÂ® Lithium-Ion Cordless 1/ Review"
-meta_description: "Our full makita fd10z 12v max cxtâ® lithium-ion cordless 1/4\" hex dri review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full makita fd10z 12v max cxtâ® lithium-ion cordless 1/4\ hex dri review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-fd10z-12v-max-cxt-lithium-ion-cordless-1-4-hex-driver-b0bpfq-review"
 image_alt: "Makita FD10Z 12V max CXTÂ® Lithium-Ion Cordless 1/4 Hex Driver"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPFQ7GLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GxOc4yY4L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Compact Driver That Punches Above Its Weight Class

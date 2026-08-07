@@ -1,4 +1,5 @@
 ---
+
 title: "Carsky Remote Control Car RC Stunt Cars for Girl 360° Stunt"
 seo_title: "Carsky RC Stunt Car Review: 360° Rotation for Girls (2026)"
 meta_description: "Honest Carsky RC stunt car review: 360° flips, dual-sided driving, and durability tested. See if this 4.4-star toy is worth buying for your girl."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DBLBFK76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+718TDuZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 360° rotation and dual-sided driving work reliably on hardwood and short carpet"
   - "Impressive 2.4GHz range — full control up to 80 feet without signal drops"
   - "Battery life delivers 25–30 minutes per charge with USB-C charging (not micro-USB)"
-cons:
+cons: 
   - "Controller requires 2 AA batteries (not included) — hidden cost to factor in"
   - "Plastic body feels light and slightly hollow; won't survive aggressive throws or drops on concrete"
   - "LED lights are cosmetic only — don't expect them to function as headlights in dark rooms"
+
 ---
 
 **The Carsky RC Stunt Car: A 360° Flip Machine That Actually Delivers**

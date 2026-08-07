@@ -1,4 +1,5 @@
 ---
+
 title: "Rolling Whiteboard Double Sided, Large Mobile Dry Erase Boar"
 seo_title: "Rolling Whiteboard Double Sided, Large Mobile Dry  Review"
 meta_description: "Our full rolling whiteboard double sided, large mobile dry erase boar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLC5WCZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615+Rd0ovuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Image Alt Text:** Large double-sided rolling whiteboard on a sturdy metal frame with magnetic dry erase surface, positioned in a bright modern office.

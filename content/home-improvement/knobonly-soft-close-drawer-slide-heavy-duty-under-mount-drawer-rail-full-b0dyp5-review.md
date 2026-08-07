@@ -1,4 +1,5 @@
 ---
+
 title: "Knobonly Soft Close Drawer Slide, Heavy Duty Under Mount Dra"
 seo_title: "Knobonly Soft Close Drawer Slide, Heavy Duty Under Review"
 meta_description: "Our full knobonly soft close drawer slide, heavy duty under mount dra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYP5BXRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XEXx+gngL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most drawer slides under $40 a pair are junk. The Knobonly Soft Close under-mount set isn't junk — but it's also not the forgiving, foolproof upgrade some product listings suggest. After digging through 210 ratings and the spec sheet, here's what actually matters.

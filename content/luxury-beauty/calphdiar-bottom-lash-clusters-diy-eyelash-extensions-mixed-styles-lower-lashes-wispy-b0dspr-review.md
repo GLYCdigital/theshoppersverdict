@@ -1,4 +1,5 @@
 ---
+
 title: "calphdiar Bottom Lash Clusters DIY Eyelash Extensions Mixed"
 seo_title: "calphdiar Bottom Lash Clusters Review: DIY Lower Lashes (2026)"
 meta_description: "calphdiar Bottom Lash Clusters DIY review: Do these $9 mixed wispy lower lashes hold up? 215+ ratings at 4.3 stars. Real wear test, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSPR1VBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i1nayZTNL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine mixed styles (wispy, spikey, classic) in one tray — you get variation without buying three separate packs"
   - "Flexible, clear band that hugs the lower lash line without the stiff, stabby feel of cheaper clusters"
   - "Under $10 for 80+ clusters with adhesive included — roughly 10-15 full applications if you reuse carefully"
-cons:
+cons: 
   - "The included glue is mediocre — plan to swap in your own bonder or expect reduced wear time on oily lids"
   - "Cluster lengths run short (6–10mm); anyone with naturally long lower lashes may find them barely visible"
   - "No applicator tool included despite the DIY positioning — you'll need tweezers or your fingers"
+
 ---
 
 **Bottom lashes are the neglected stepchild of the lash world.** Everyone obsesses over volume and curl up top, then leaves the lower lash line bare — which is exactly why the calphdiar Bottom Lash Clusters exist. At $9.29 for a mixed tray, they're cheap enough to be an impulse buy. The real question is whether they're worth your time when you're already juggling ten other beauty steps in the morning.

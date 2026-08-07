@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Tray for Oven, Extra Large Oven Air Fryer Basket a"
 seo_title: "Air Fryer Tray for Oven Review: Extra Large Basket (2026)"
 meta_description: "Honest review of the extra large air fryer tray for oven. Does it crisp evenly? Fit standard ovens? We tested it — real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVGFC9ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ydw2YpABL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Perforated surface area roughly 40% larger than standard quarter-sheet trays — fits a full pound of wings in one batch"
   - "Raised side walls prevent grease runoff while still allowing hot air to circulate underneath"
   - "Heavy-gauge steel construction survived 200+ oven cycles without warping"
-cons:
+cons: 
   - "Non-stick coating shows minor scratching after repeated metal utensil use — stick to silicone or wood"
   - "No handles included; the tray gets genuinely hot and requires two hands with mitts to extract"
+
 ---
 
 **The Real Story on This Extra Large Air Fryer Tray**

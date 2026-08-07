@@ -1,4 +1,5 @@
 ---
+
 title: "CREPOW Solar Spot Lights Outdoor,Solar Lights Outdoor Waterp"
 seo_title: "CREPOW Solar Spot Lights Review: Worth It? (2026)"
 meta_description: "CREPOW solar spot lights review: 20 LED, IP65 waterproof, 3 light modes. Real buyer feedback on brightness, battery life, and durability."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CKHJ3735/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J1YjwulhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20 LED bulbs per fixture deliver noticeably brighter output than typical 4-6 LED solar spots — good for accenting trees or architectural features"
   - "IP65 waterproof rating holds up through rain and snow; buyers report surviving full winter seasons without seal failure"
   - "Three selectable light modes (warm/cool/both) give flexibility to match existing landscape lighting without buying multiple products"
-cons:
+cons: 
   - "Battery capacity is modest — several buyers report 4-6 hour runtimes on the brightest setting, not the advertised 8-10 hours"
   - "Plastic housing feels lightweight and can crack if you overtighten the adjustment knobs or drop them on concrete"
   - "Solar panel is small relative to the LED draw; overcast days mean dim output or skipped nights entirely"
+
 ---
 
 Let me be direct: most solar spot lights under $30 are disposable junk that glow faintly for two hours then die by September. The CREPOW Solar Spot Lights aren't that — but they're not the premium solution the listing photos suggest either. At a 3.8-star average across 190 ratings, these sit in the "solid budget option with caveats" zone. Here's what you need to know before buying.

@@ -1,16 +1,17 @@
 ---
+
 title: "ZeroWater Replacement Filter for Pitchers, 4-Pack, (ZR-006)"
 seo_title: "ZeroWater ZR-006 4-Pack Replacement Filter Review — 4.4★ at $72"
 meta_description: "ZeroWater ZR-006 replacement filter 4-pack review: 22,628 reviews analyzed. 5-stage vs 2-stage filtration, NSF certified for lead removal. Is it worth the cost?"
 slug: "zerowater-replacement-filter-4-pack-zr-006-review"
 image_alt: "ZeroWater Replacement Filter for Pitchers, 4-Pack, (ZR-006)"
-keywords:
+keywords: 
   - "zerowater replacement filter review"
   - "zerowater zr-006 review"
   - "water filter pitcher replacement"
   - "best water filter"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "How long does a ZeroWater filter last?"
     answer: "About 6 months or 300 gallons, depending on your water quality. The included TDS meter will tell you when it's time to replace."
   - question: "Does ZeroWater remove more than Brita?"
@@ -23,13 +24,14 @@ review_count: 22628
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00C7N7L1E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ltr3pvOmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5-stage filtration removes 99.6% of TDS — measurable difference"
   - "NSF certified for lead and heavy metal reduction"
   - "TDS meter included so you can verify the results yourself"
-cons:
+cons: 
   - "Filters don't last as long as competitors — 6 weeks vs 3 months in hard water"
   - "Premium price point at $72 for a 4-pack"
+
 ---
 
 # ZeroWater ZR-006 Replacement Filters: The 5-Stage Filtration That Actually Proves It Works

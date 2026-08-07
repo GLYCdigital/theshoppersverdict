@@ -1,4 +1,5 @@
 ---
+
 title: "Deli Staplers, 12 Pack"
 seo_title: "Deli Staplers 12 Pack Review: Bulk Office Value"
 meta_description: "Deli Staplers 12 Pack review: Are these budget staplers worth buying in bulk? Real performance, durability, and buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSK6ZM83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rWJiMddUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full metal stapling mechanism that handles up to 20 sheets without jamming, rare at this price point"
   - "Comes in six assorted colors (two of each) — practical for color-coding or just keeping track of whose stapler is whose"
   - "Lightweight at 4.2 ounces each, so they're easy to toss in a drawer or bag without adding bulk"
-cons:
+cons: 
   - "No built-in staple remover, which feels like a missed convenience on an otherwise solid design"
   - "Spring-loaded magazine is stiff out of the box and requires a firm thumb press to load — gets easier but never silky smooth"
+
 ---
 
 Twelve staplers for less than the cost of two name-brand units. That math alone gets attention, but here's the real question: are these Deli staplers actually worth owning, or are you just buying a box of frustration? After digging through 225 ratings and the specs, here's the honest breakdown.

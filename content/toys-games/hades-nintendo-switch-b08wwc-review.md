@@ -1,4 +1,5 @@
 ---
+
 title: "Hades - Nintendo Switch"
 seo_title: "Hades Nintendo Switch Review: Is It Worth the Hype?"
 meta_description: "Hades on Nintendo Switch review: 4.8/5 stars, 240 ratings. We break down performance, gameplay, and whether this roguelike is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08WWC6GBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Qqu2J59L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Runs flawlessly in handheld mode at 60fps, even during chaotic fights with dozens of enemies and particle effects on screen"
   - "The 'God Mode' accessibility option lets players toggle damage reduction up to 80%, making the game approachable for newcomers"
   - "Boasts an actual ending and a story that unfolds over dozens of runs, not just a loop of repeated bosses"
-cons:
+cons: 
   - "Physical cartridge requires a hefty download patch (~1GB) before you can play, so don't expect a pure plug-and-play experience"
   - "Text is quite small in handheld mode, which can strain eyes during long sessions on the standard Switch screen"
+
 ---
 
 # Hades on Switch: The Roguelike That Respects Your Time

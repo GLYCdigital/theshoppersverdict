@@ -1,4 +1,5 @@
 ---
+
 title: "WERTHER'S ORIGINAL Mini Sugar Free Hard Candies"
 seo_title: "WERTHER'S ORIGINAL Mini Sugar Free Hard Candies Review: V"
 meta_description: "Our full werther's original mini sugar free hard candies review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B082PHMR88/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91QRhxR3klL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WERTHER'S ORIGINAL Mini Sugar Free Hard Candies: The Caramel Fix That Won't Spike Your Blood Sugar

@@ -1,4 +1,5 @@
 ---
+
 title: "SanDisk Extreme PRO SDXC UHS-I Card"
 seo_title: "SanDisk Extreme PRO SDXC UHS-I Card Review: Verdict | TSV"
 meta_description: "Our full sandisk extreme pro sdxc uhs-i card review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BJW5LJ4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v4RgZDjpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: this is the card you buy when your camera is better than your current card. The SanDisk Extreme PRO SDXC UHS-I is the top of the UHS-I food chain, and for most shooters, editors, and office-based media pros, it's the last card you'll need.

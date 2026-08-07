@@ -1,4 +1,5 @@
 ---
+
 title: "AOZITA COLORFUL MASON JAR LIDS"
 seo_title: "AOZITA Colorful Mason Jar Lids Review: Leak-Proof & Durable"
 meta_description: "Honest AOZITA colorful mason jar lids review: leak-proof seal, BPA-free plastic, easy pour spouts. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVSYLSC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HG6E5-h1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Leak-proof silicone gasket creates an airtight seal that survives shaking and travel"
   - "BPA-free, food-grade plastic with no metallic taste transferred to beverages"
   - "Wide compatibility — fits standard and wide-mouth Ball, Kerr, and generic mason jars" 
   - "Easy-pour spout design reduces drips when serving from a full jar"
-cons:
+cons: 
   - "Not dishwasher safe on top rack — hand washing recommended to preserve seal integrity"
   - "Plastic construction won't handle boiling liquids or hot canning processes"
+
 ---
 
 Let me be direct about the AOZITA Colorful Mason Jar Lids: these are the lids you didn't know you needed until you've thrown away your third moldy jar lid because the metal rusted. The 4.7-star rating across 235 reviews isn't hype — these solve a real problem.

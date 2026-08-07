@@ -1,4 +1,5 @@
 ---
+
 title: "Gotrax ECLIPSE ULTRA Electric Scooter for Adults, Max 38 Mil"
 seo_title: "Gotrax ECLIPSE ULTRA Electric Scooter for Adults,  Review"
 meta_description: "Our full gotrax eclipse ultra electric scooter for adults, max 38 mil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C1SVTXSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r93ztZOkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the spec sheet: 38 miles, 20 mph, dual suspension. But here's what the Gotrax ECLIPSE ULTRA actually delivers after you've put 300 miles on it — the good, the annoying, and the honest verdict.

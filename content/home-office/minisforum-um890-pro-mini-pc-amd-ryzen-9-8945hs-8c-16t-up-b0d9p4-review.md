@@ -1,4 +1,5 @@
 ---
+
 title: "MINISFORUM UM890 Pro Mini PC AMD Ryzen 9 8945HS(8C/16T, up t"
 seo_title: "MINISFORUM UM890 Pro Mini PC AMD Ryzen 9 8945HS(8C Review"
 meta_description: "Our full minisforum um890 pro mini pc amd ryzen 9 8945hs(8c/16t, up t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D9P494JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RBPfDCQaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MINISFORUM UM890 Pro is the kind of machine that makes you question why you ever bought a tower PC. It's smaller than a paperback novel, yet it packs an AMD Ryzen 9 8945HS — an 8-core, 16-thread CPU that's genuinely fast enough to replace a full desktop for most office work, light video editing, and even some gaming.

@@ -1,4 +1,5 @@
 ---
+
 title: "KINGRACK Step Ladder, Sturdy Steel Step Stool with Anti-Slip"
 seo_title: "KINGRACK Step Ladder, Sturdy Steel Step Stool with Review"
 meta_description: "Our full kingrack step ladder, sturdy steel step stool with anti-slip review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GSXSVBSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cfI8cIp0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **KINGRACK Step Ladder, Sturdy Steel Step Stool with Anti-Slip** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

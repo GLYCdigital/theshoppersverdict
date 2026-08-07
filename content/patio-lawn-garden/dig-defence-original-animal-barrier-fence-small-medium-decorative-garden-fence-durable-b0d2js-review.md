@@ -1,4 +1,5 @@
 ---
+
 title: "Dig Defence Original Animal Barrier Fence - Small/Medium Dec"
 seo_title: "Dig Defence Animal Barrier Fence Review: Does It Stop Digging?"
 meta_description: "Read our honest Dig Defence Original Animal Barrier Fence review. We test if this durable garden fence stops dogs, raccoons, and critters from digging under."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2JSH8WF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NoD-smznL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Welded steel construction (not flimsy wire) that holds shape even when packed with soil or kicked by a determined dog."
   - "Two-tier design with 4-inch and 6-inch sections that lets you create a sharp 90-degree 'L' barrier along fence lines or beds."
   - "Decorative scalloped top edge that actually looks intentional in a garden, not like an industrial repurposed grate."
-cons:
+cons: 
   - "Small/Medium size only covers a 2-foot span; you will need multiple units for any real perimeter, which adds up fast."
   - "The 4-inch buried flange requires a solid trench cut; in rocky or clay soil, you will need a pickaxe or serious elbow grease."
+
 ---
 
 If you’ve ever watched a raccoon pry up your pavers or a dog tunnel under a fence faster than you can yell "no," you know the frustration. The Dig Defence Original Animal Barrier Fence is a flat, welded steel panel designed to stop exactly that. It doesn’t look like a cage. It looks like a decorative garden edging that happens to be armor-plated.

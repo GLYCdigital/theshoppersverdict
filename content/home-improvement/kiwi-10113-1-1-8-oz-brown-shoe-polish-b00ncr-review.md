@@ -1,4 +1,5 @@
 ---
+
 title: "Kiwi 10113 1-1/8 Oz Brown Shoe Polish"
 seo_title: "Kiwi 10113 1-1/8 Oz Brown Shoe Polish Review: Verdict | T"
 meta_description: "Our full kiwi 10113 1-1/8 oz brown shoe polish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00NCR65KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U3Em764fS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the last shoe polish you'll ever buy? Probably not — but it's the one you'll keep reaching for.**

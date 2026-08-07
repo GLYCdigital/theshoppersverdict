@@ -1,4 +1,5 @@
 ---
+
 title: "EGO Power+ AH1530 Replacement Rapid Reload Plus Trimmer Head"
 seo_title: "EGO Power+ AH1530 Trimmer Head Review: Rapid Reload Plus"
 meta_description: "Honest EGO Power+ AH1530 Rapid Reload Plus trimmer head review: bump-feed reliability, line loading ease, fitment quirks, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C72S2XVL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U1zm2M1YL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free line reload takes under 60 seconds once you learn the twist-lock motion"
   - "Bump feed delivers consistent .095-inch line without constant re-tapping"
   - "Direct OEM fit for EGO Power+ trimmers — no adapter guessing games"
-cons:
+cons: 
   - "Line reload still requires threading both ends through eyelets; not fully automatic"
   - "Compatibility limited to clockwise-rotation EGO models — check your trimmer first"
   - "Bump knob can be stiff for the first few uses until the mechanism seats"
+
 ---
 
 If you own an EGO Power+ string trimmer, the stock head is often the weakest link. The AH1530 Rapid Reload Plus is EGO's own fix for that. It's a genuine OEM replacement, not a third-party gamble, and that alone matters when you're spinning line at 6,000+ RPM.

@@ -1,4 +1,5 @@
 ---
+
 title: "Claire Wall-Mount Bathroom Sink"
 seo_title: "Claire Wall-Mount Bathroom Sink Review (2026): Honest Look"
 meta_description: "Claire Wall-Mount Bathroom Sink review: Does this space-saving ceramic sink hold up? We analyze durability, installation, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D21QGG5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51N1fBFeVYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine vitreous china construction with a smooth, non-porous glaze that resists staining and is far easier to clean than acrylic alternatives"
   - "Space-saving wall-mount design frees up floor area — critical for half baths, powder rooms, and tiny rentals"
   - "Generous 16.5-inch depth for a wall-hung model; splashback and overflow are integrated into the mold"
-cons:
+cons: 
   - "No included mounting hardware or template — you'll need to source appropriate toggle bolts or anchors for your wall type"
   - "The 4-inch centerset faucet holes are non-negotiable; you can't mount a widespread faucet without drilling, which voids the warranty"
+
 ---
 
 **Bottom line: The Claire Wall-Mount Bathroom Sink solves the tiny-bathroom problem without looking like a compromise. It's a genuine vitreous china sink that installs flush against the wall, freeing up those precious floor inches for a small vanity, a stool, or just breathing room.**

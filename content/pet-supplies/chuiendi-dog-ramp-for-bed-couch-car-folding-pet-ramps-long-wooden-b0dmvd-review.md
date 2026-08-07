@@ -1,4 +1,5 @@
 ---
+
 title: "Chuiendi Dog Ramp for Bed, Couch, Car, Folding Pet Ramps Lon"
 seo_title: "Chuiendi Dog Ramp Review: Folding Pet Ramp for Bed & Car"
 meta_description: "Honest Chuiendi dog ramp review: foldable pet ramp for bed, couch & car. See real pros, cons, weight limits, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DMVDJPMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715rW-ftqcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds compactly to roughly half its length with a built-in carrying handle — genuinely portable for car trips"
   - "Non-slip carpeted surface gives small and senior dogs confident footing even at steeper angles"
   - "Load capacity around 150 pounds, making it suitable for large breeds like Labradors, not just toy dogs"
-cons:
+cons: 
   - "At roughly 10 pounds, it's heavier than foam or inflatable alternatives — you won't want it permanently strapped to your back"
   - "A few buyers report the hinge pin can loosen over time; worth checking periodically and retightening"
+
 ---
 
 If your senior dog has started hesitating at the edge of the bed — that pause before the jump that breaks your heart — the Chuiendi folding ramp is a practical fix. It's not flashy. It's a wooden plank with carpet and hinges. But for the roughly 200 shoppers who've rated it at 4.0 stars, it's solving a real daily problem.

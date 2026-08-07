@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH CST/berger, Inches / Aluminum Telescoping Rod"
 seo_title: "BOSCH CST/berger Telescoping Rod Review: 2026 Buying Guide"
 meta_description: "Honest BOSCH CST/berger aluminum telescoping rod review: build quality, real-world accuracy, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B087JYBBTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A+ArdInpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Locking mechanism holds firm without slipping under load—critical when you're reaching 10+ feet overhead"
   - "Aluminum construction keeps it light enough for one-handed ceiling work while staying rigid"
   - "Compatible with the full Bosch CST/berger laser mount system, so it works with your existing gear"
-cons:
+cons: 
   - "No built-in bubble vial for quick level checks—you'll need a separate level or laser for reference"
   - "At full extension, there's noticeable flex that can throw off precision alignment work"
+
 ---
 
 ### The telescoping rod that does the heavy lifting—literally

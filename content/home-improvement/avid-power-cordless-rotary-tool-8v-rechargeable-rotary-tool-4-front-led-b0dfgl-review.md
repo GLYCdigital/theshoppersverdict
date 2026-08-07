@@ -1,4 +1,5 @@
 ---
+
 title: "AVID POWER Cordless Rotary Tool 8V Rechargeable Rotary Tool,"
 seo_title: "AVID POWER Cordless Rotary Tool Review: 8V Rechargeable"
 meta_description: "Honest AVID POWER 8V cordless rotary tool review: speed, battery life, accessories, and real buyer feedback. See if it beats Dremel for your projects."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFGL3WC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Og4g7pYYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Variable-speed dial (8,000–30,000 RPM) gives real control for polishing, cutting, and engraving without bogging down"
   - "USB-C fast charging tops the 8V battery in about 2 hours — no proprietary wall wart to lose"
   - "Includes 36 accessories plus a flex shaft, so most buyers won't need to buy extras immediately"
-cons:
+cons: 
   - "Battery life is modest — expect 20–30 minutes of continuous heavy use, so keep it charged for bigger jobs"
   - "Chuck accepts only 1/8-inch shank bits; 3/32-inch Dremel accessories need an adapter (not included)"
+
 ---
 
 ## Skip the Cord? Here's What You're Actually Getting

@@ -1,4 +1,5 @@
 ---
+
 title: "Darkaway Outdoor Lights Fixtures 6X24B"
 seo_title: "Darkaway Outdoor Lights Fixtures 6X24B Review: Worth It?"
 meta_description: "Darkaway Outdoor Lights Fixtures 6X24B review: 4.7-star rated. See real pros, cons, and who should buy. Honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWP1HGKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nu8lx2-UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weatherproof gaskets handles rain, snow, and coastal salt air without rusting"
   - "Adjustable 3-color temperature switch (3000K/4000K/5000K) lets you match existing porch lights or garage fixtures"
   - "Tool-free installation with included mounting plate and wire nuts — most setups finish in under 20 minutes"
-cons:
+cons: 
   - "Motion sensor range is only 16-20 feet, shorter than advertised for some users; placement matters"
   - "Screws included are soft metal — replace with stainless steel if mounting into brick or stucco"
+
 ---
 
 Some outdoor lights look great in the box and die within a season. The Darkaway 6X24B is not one of them. With a 4.7-star average across 235 ratings, this fixture has clearly earned its reputation among homeowners who actually installed it. I dug through the specs, the customer feedback, and the build quality to give you the straight story.

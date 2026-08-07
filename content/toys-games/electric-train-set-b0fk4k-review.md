@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Train Set"
 seo_title: "Electric Train Set Review: Worth It for Kids? (2026)"
 meta_description: "Our honest Electric Train Set review covers build quality, track compatibility, and real buyer feedback. See if this $62.99 set is worth the buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FK4K9GCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ofz44q0YL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Smoke unit and realistic chugging sound at a sub-$70 price point"
   - "Track sections snap together firmly with no derailments on curves"
   - "Forward/reverse functionality with working headlight adds play value"
-cons:
+cons: 
   - "Couplers between cars are fragile and snap with rough play"
   - "Smoke fluid needs refilling every 2-3 sessions — not included"
   - "Controller has no speed dial, just a throttle lever with touchy response"
+
 ---
 
 Let's be direct: most electric train sets under $100 are junk. Plastic bodies that feel hollow, motors that stall on curves, and controllers that might as well be on/off switches. So when a 4.3-star average across 215 ratings pops up at $62.99, I pay attention. Here's the real story after digging through buyer feedback and spec sheets.

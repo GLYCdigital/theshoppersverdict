@@ -1,4 +1,5 @@
 ---
+
 title: "Smashers Mega Jurassic Light Up Dino Egg by ZURU Collectible"
 seo_title: "Smashers Mega Jurassic Light Up Dino Egg by ZURU C Review"
 meta_description: "Our full smashers mega jurassic light up dino egg by zuru collectible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBBV893N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hnX0jK5kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

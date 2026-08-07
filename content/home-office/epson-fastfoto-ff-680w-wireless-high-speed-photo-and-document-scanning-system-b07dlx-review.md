@@ -1,4 +1,5 @@
 ---
+
 title: "Epson FastFoto FF-680W Wireless High-Speed Photo and Documen"
 seo_title: "Epson FastFoto FF-680W Review: Is It Worth It? (2026)"
 meta_description: "Epson FastFoto FF-680W review: 4.5-star rated photo scanner. Real speed tests, build quality, and drawbacks. Is it worth $600? Find out here."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07DLX26BB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ulr9Z9S6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Scans a stack of up to 30 photos at once at roughly one photo per second — no manual feeding"
   - "Built-in AI auto-rotation, color restoration, and dust removal actually work on old snapshots"
   - "Wi-Fi scanning to phone or tablet works reliably without a PC in the loop"
-cons:
+cons: 
   - "Plastic feed rollers will eventually wear out; replacements cost around $40 and require a screwdriver"
   - "Maximum scan size is 8.5 x 36 inches — panorama shots longer than 36 inches need manual stitching"
   - "No built-in date recognition; you'll manually sort or rename files if organization matters"
+
 ---
 
 **If you've got shoeboxes of old photos gathering dust, the Epson FastFoto FF-680W is the closest thing to a time machine you can plug into a wall.** I've tested dozens of scanners, and this one solves the single biggest pain point of digitizing family archives: speed. It's not perfect — nothing at this price point is — but it's the only consumer scanner I've used that makes digitizing 1,000 photos feel like a weekend project instead of a month-long slog.

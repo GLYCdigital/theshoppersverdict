@@ -1,4 +1,5 @@
 ---
+
 title: "LIANYU 9 Inch Round Cake Pan"
 seo_title: "LIANYU 9 Inch Round Cake Pan Review: Verdict | TSV"
 meta_description: "Our full lianyu 9 inch round cake pan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRFZT89M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UsCYwU52L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most cheap cake pans are flimsy stamped aluminum that warps mid-bake and torments you at release time. The LIANYU 9-inch round pan isn't that. It's a heavy-gauge carbon steel pan with a reinforced rolled rim — the kind of build you'd expect from pans twice its price. At 4.7 stars across 235 ratings, it's clearly earning its keep in real kitchens.

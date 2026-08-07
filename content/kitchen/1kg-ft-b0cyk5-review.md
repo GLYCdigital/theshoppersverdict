@@ -1,4 +1,5 @@
 ---
+
 title: "1kg-FT Review: Honest Look at This Kitchen Tool"
 seo_title: "1kg-FT Review: Is It Worth Buying? (2026)"
 meta_description: "Read our honest 1kg-FT review. We analyze build quality, performance, and real buyer feedback to help you decide if this kitchen tool earns its 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYK5NSY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Td3bbSTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid stainless steel build that feels substantial in hand — no cheap plastic flex"
   - "Precise 1kg capacity with clear measurement markings that stay legible after repeated dishwasher cycles"
   - "Compact footprint under 8 inches wide, slides into tight cabinet spaces without a dedicated drawer"
-cons:
+cons: 
   - "Stainless exterior smudges with fingerprints quickly — you'll be wiping it down often"
   - "No non-slip base padding; slides on smooth countertops when pushing down firmly"
+
 ---
 
 Let me be direct with you. When a product listing shows up as just "1kg-FT" with no brand name and no frills, I'm skeptical. But 225 ratings at 4.5 stars earned it a closer look. Here's what I found after digging through the feedback and examining what you're actually getting.

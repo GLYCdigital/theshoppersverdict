@@ -1,4 +1,5 @@
 ---
+
 title: "Alohappy Makeup Vanity Set with Mirror & Stool for Girls, Va"
 seo_title: "Alohappy Makeup Vanity Set Review: Worth It? (2026)"
 meta_description: "Honest Alohappy makeup vanity set review: build quality, assembly, lighting, and size. See real buyer feedback before you buy this girl's vanity table."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FW4Z7JRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BHhE8bbXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dimmable LED mirror with three color temperatures — warm, natural, and cool — so makeup looks right under any lighting condition"
   - "Sturdy MDF construction with smooth, rounded edges that feel safe for younger users"
   - "Hidden storage compartments plus open shelves give real organization without eating up floor space"
-cons:
+cons: 
   - "Assembly requires patience — expect 45–60 minutes with two people for the LED wiring"
   - "The included stool is functional but not cushioned; you'll want a seat pad for longer sessions"
   - "Mirror is not height-adjustable, which can be awkward for very tall or very short users"
+
 ---
 
 Let's be honest: most vanity sets marketed to girls are flimsy particleboard junk that wobbles the moment you touch them. The Alohappy Makeup Vanity Set isn't that. It's a legitimate piece of furniture that happens to come with a Hollywood-style mirror and stool, and after digging through 229 ratings averaging 4.6 stars, the consensus is clear — this thing delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Skinny Console Table with Charging Station, Narrow So"
 seo_title: "HOOBRO Skinny Console Table with Charging Station, Review"
 meta_description: "Our full hoobro skinny console table with charging station, narrow so review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4Y9RJQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51T0be4iL-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a dead zone behind your sofa or a hallway that's too narrow for a real console, the HOOBRO Skinny Console Table is trying to solve a very specific problem. The twist? It brings power outlets to a spot where you'd normally have to run extension cords.

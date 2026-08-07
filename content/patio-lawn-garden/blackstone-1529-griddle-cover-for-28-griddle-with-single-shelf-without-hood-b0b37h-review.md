@@ -1,4 +1,5 @@
 ---
+
 title: "Blackstone 1529 Griddle Cover for 28 inch  Griddle with Single Sh"
 seo_title: "Blackstone 1529 Griddle Cover Review: 28 inch  Single Shelf"
 meta_description: "Blackstone 1529 griddle cover review: durable 600D fabric, waterproof backing, snug fit for 28 inch  models with single shelf. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B37HSFC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g+wewH4WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "600D polyester with waterproof PVC backing — handles rain, snow, and UV without cracking"
   - "Pre-attached clips keep the cover secured in high winds; no bungee cords required"
   - Designed specifically for 28 inch " models with a single side shelf — not a generic one-size-fits-all
-cons:
+cons: 
   - "No vents or air circulation — trapped moisture can lead to surface rust if you cover a hot or wet griddle"
   - "Only fits the single-shelf version; won't work on models with a hood or dual shelves"
+
 ---
 
 You've spent $300+ on a Blackstone 28-inch griddle with the single side shelf. Leaving it bare to the elements is a slow-motion disaster — rusted cooktop, seized knobs, faded paint. The Blackstone 1529 cover exists to prevent exactly that, and it does the job better than most generic covers I've tested.

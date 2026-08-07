@@ -1,4 +1,5 @@
 ---
+
 title: "ALFIOT Solar spot Lights"
 seo_title: "ALFIOT Solar Spot Lights Review: Worth It? (2026)"
 meta_description: "Honest ALFIOT solar spot lights review: brightness, battery life, build quality, and real buyer feedback. Find out if these 4.0-star lights are worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F37YXXJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ryXi5Uw0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn operation with a removable 2000mAh battery that charges in full sun in about 6 hours"
   - "Three adjustable head angles and a 270° rotation base let you aim light exactly where you need it, not just straight ahead"
   - "IP65 weatherproofing holds up through rain, snow, and summer heat — several buyers report two-plus years of outdoor use"
-cons:
+cons: 
   - "Plastic housing feels lighter than premium metal units; rough handling during installation can crack the mounting clip"
   - "Auto mode uses a light sensor that can be fooled by streetlights or porch lights, causing late activation or early shutdown"
+
 ---
 
 **ALFIOT Solar Spot Lights Review: Affordable Illumination With a Few Caveats**

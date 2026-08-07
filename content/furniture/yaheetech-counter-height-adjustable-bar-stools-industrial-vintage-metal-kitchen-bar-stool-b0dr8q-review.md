@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Counter Height Adjustable Bar Stools Industrial Vi"
 seo_title: "Yaheetech Counter Height Adjustable Bar Stools Ind Review"
 meta_description: "Our full yaheetech counter height adjustable bar stools industrial vi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR8QXKT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AW1cLAIjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most adjustable bar stools under $100 are wobbly junk that'll have you checking the welds by week two. The Yaheetech Industrial Counter Height Stool isn't that — but it's also not a $400 designer piece. Here's what 235 buyers at a 4.7-star average are actually getting.

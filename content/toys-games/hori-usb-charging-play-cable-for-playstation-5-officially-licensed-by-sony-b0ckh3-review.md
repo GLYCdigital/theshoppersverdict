@@ -1,4 +1,5 @@
 ---
+
 title: "Hori USB Charging Play Cable for PlayStation® 5 - Officiall"
 seo_title: "Hori USB Charging Play Cable for PS5 Review (2026)"
 meta_description: "Hori USB Charging Play Cable for PS5 review: 3m braided cable, official license, 4.7-star rated. Is it worth it over cheaper third-party options?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKH31KK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BYEJPhVFL._SL1500_.jpg"
-pros:
+pros: 
   - "10-foot (3-meter) braided cable reaches across any living room setup"
   - "Officially licensed by Sony — no third-party compatibility worries"
   - "Works for both charging and data sync with DualSense and DualSense Edge"
-cons:
+cons: 
   - "No USB-C to USB-C option — requires a USB-A port on your console or adapter"
   - "Braided jacket is stiff out of the box; takes a few days to loosen up"
+
 ---
 
 **The bottom line up front:** If you've ever screamed at your DualSense mid-boss-fight because the battery died, this cable is your fix. But it's not the only fix on the market — so let's talk about whether the Hori justifies its premium over the $8 generic options.

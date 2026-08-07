@@ -1,23 +1,25 @@
 ---
+
 title: "Floating Chlorine Dispenser for Pool Fits 4×3inch Tablets,"
 seo_title: "Floating Chlorine Dispenser Review: Fits 4×3 Tablets"
 meta_description: "Honest review of the floating chlorine dispenser for pools that fits 4×3 tablets. See pros, cons, and who should buy it before you spend."
 slug: "floating-chlorine-dispenser-for-pool-fits-4-3inch-tablets-swimming-pool-chlorine-b0drnw-review"
 image_alt: "Floating chlorine dispenser for pool with adjustable vent holes, fits 4×3 inch tablets"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRNWVP9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EcjkTyDdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Fits standard 4×3 inch tablets — no cutting or breaking needed"  
   - "Adjustable vent holes let you dial in chlorine output"  
   - "Sturdy, thick plastic that holds up to sun and pool chemicals"  
-cons:  
+cons: 
   - "Float can tip if you load only one tablet (weight distribution)"  
   - "Vent dial is stiff at first — needs a few rotations to loosen"
+
 ---
 
 If your pool maintenance routine involves wrestling with 4×3 inch chlorine tablets that never seem to fit the dispenser you bought, this floating unit is worth a hard look. It’s not flashy, but it does the one job that matters: it holds those bulky tablets and releases chlorine at a rate you control. With a 4.2-star average from 210 Amazon ratings, it’s clearly working for a lot of pool owners — but it’s not perfect. Here’s the real story.

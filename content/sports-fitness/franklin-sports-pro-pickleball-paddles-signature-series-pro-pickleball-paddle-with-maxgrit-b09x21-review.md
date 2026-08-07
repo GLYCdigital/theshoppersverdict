@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Pro Pickleball Paddles - Signature Series Pr"
 seo_title: "Franklin Sports Pro Pickleball Paddle Review (2026): MaxGrit"
 meta_description: "Franklin Sports Pro Pickleball Paddle review: MaxGrit face, honeycomb core, cushioned grip. Is it worth it? Real buyer feedback, pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09X21M26J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vUPWZy3-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "MaxGrit textured face delivers immediate, aggressive spin on serves and third-shot drops — verified by multiple reviewers"
   - "Generous 15.75-inch length with 4.25-inch grip fits two-handed backhands comfortably"
   - "Honeycomb polypropylene core provides a soft, forgiving feel that reduces vibration on off-center hits"
-cons:
+cons: 
   - "Polypropylene core lacks the pop of graphite or carbon faces — power hitters may find drives falling short"
   - "Edge guard is minimal; unprotected rim is vulnerable to chips if you scrape the court on low dinks"
+
 ---
 
 Some paddles feel like plywood. Others feel like a wet noodle. The Franklin Sports Signature Series Pro sits in a sweet spot that's rare under $100 — and it's why 225 Amazon shoppers have pushed it to a 4.5-star average.

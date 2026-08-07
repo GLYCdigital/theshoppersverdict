@@ -1,4 +1,5 @@
 ---
+
 title: "Mighty Paw Retractable Dog Leash 2.0 | 16â€™ Heavy Duty Refl"
 seo_title: "Mighty Paw Retractable Dog Leash 2.0 | 16â€™ Heavy Review"
 meta_description: "Our full mighty paw retractable dog leash 2.0 | 16â€™ heavy duty refl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08T6KZH2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p-tzht88L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The retractable leash most dog owners buy twice — here's why this one might be the last one you need.**

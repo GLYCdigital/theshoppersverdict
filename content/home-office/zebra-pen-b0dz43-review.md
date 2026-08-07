@@ -1,4 +1,5 @@
 ---
+
 title: "Zebra Pen"
 seo_title: "Zebra Pen Review: Verdict | TSV"
 meta_description: "Our full zebra pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZ43XM38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i6oLGQEVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the Zebra Pen has been a quiet staple in offices for decades, but the current model (B0DZ43XM38) brings some updates that matter. With 225 Amazon ratings averaging 4.5 stars, it’s clearly doing something right. But is it the right pen for *your* workflow? Here’s what I found after digging into the specs and what real buyers are saying.

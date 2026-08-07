@@ -1,4 +1,5 @@
 ---
+
 title: "Marcy Cast Iron Hex Dumbbells Collection - Available size fr"
 seo_title: "Marcy Cast Iron Hex Dumbbells Collection - Availab Review"
 meta_description: "Our full marcy cast iron hex dumbbells collection - available size fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJYJ42Q8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rZYqz2ScL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a sports & fitness product, the **Marcy Cast Iron Hex Dumbbells Collection - Available size fr** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

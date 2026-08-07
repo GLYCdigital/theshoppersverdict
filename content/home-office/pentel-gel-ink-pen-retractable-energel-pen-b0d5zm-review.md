@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Gel Ink Pen, Retractable EnerGel Pen"
 seo_title: "Pentel Gel Ink Pen, Retractable EnerGel Pen Review: Verdi"
 meta_description: "Our full pentel gel ink pen, retractable energel pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D5ZMSSSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m9yINOOBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: the Pentel EnerGel is the pen that office workers hoard and left-handers swear by. With a 4.8-star average across 240 ratings, it's clearly doing something right. But is it the *right* pen for *you*? Here's what I found after putting it through real-world testing.

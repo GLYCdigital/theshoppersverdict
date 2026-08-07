@@ -1,4 +1,5 @@
 ---
+
 title: "Dexpt Laptop Charger for Lenovo ThinkPad T14, T14s, T15, T16 inch"
 seo_title: "Dexpt ThinkPad Charger Review: Reliable 65W USB-C Power"
 meta_description: "Dexpt 65W USB-C charger for Lenovo ThinkPad T14, T15, T16 — tested for speed, heat, and durability. See if this $16 replacement beats OEM."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CYFP1HC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uy-WOuR7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 65W USB-C PD output — charges T14/T16 at full speed, not a weak 45W compromise"
   - "Detachable 6-foot cable with right-angle connector keeps the cord out of your way"
   - "Compact, folding-prong design weighs half of Lenovo's stock brick"
-cons:
+cons: 
   - "No USB-A secondary port — you cannot charge a phone and laptop simultaneously"
   - "Folding prongs feel slightly loose; travelers report they can shift in the socket"
+
 ---
 
 Losing a Lenovo ThinkPad charger is a $60 mistake. The OEM 65W brick costs that much, and the knockoffs on Amazon are a lottery — some work, some buzz, some die in a month. The Dexpt charger at $15.99 sits in the middle, and after digging through 229 ratings averaging 4.6 stars, here's what you need to know before you buy.

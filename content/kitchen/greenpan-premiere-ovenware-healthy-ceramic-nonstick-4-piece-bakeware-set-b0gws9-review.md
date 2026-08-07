@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Premiere Ovenware Healthy Ceramic Nonstick 4 Piece "
 seo_title: "GreenPan Premiere Ovenware Healthy Ceramic Nonstic Review"
 meta_description: "Our full greenpan premiere ovenware healthy ceramic nonstick 4 piece  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWS9C7K7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613qulYMJML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The GreenPan Premiere Ovenware Set: Ceramic Nonstick That Actually Holds Up

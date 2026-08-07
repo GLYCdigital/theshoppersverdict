@@ -1,4 +1,5 @@
 ---
+
 title: "VERB Sea Spray, 6.3 fl oz"
 seo_title: "VERB Sea Spray, 6.3 fl oz Review: Verdict | TSV"
 meta_description: "Our full verb sea spray, 6.3 fl oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B099QYTX1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tF9vtWMaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a luxury hair product and a drugstore impulse buy sits VERB Sea Spray. It's the kind of product that gets recommended in beauty subreddits and by hairstylists who don't want to admit they use drugstore-adjacent brands. With a 4.5-star average across 225 ratings, it's clearly doing something right. The question is whether it's doing it for *your* hair type.

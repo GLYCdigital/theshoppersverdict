@@ -1,23 +1,25 @@
 ---
+
 title: "DUMOS 40 Inch Electric Standing Desk Height Adjustable, Sit"
 seo_title: "DUMOS 40 inch Electric Standing Desk Review: Compact Sit-Stand Value"
 meta_description: "Read our honest DUMOS 40-inch electric standing desk review. Compact sit-stand design, dual motors, stability tested. Who should buy it and who should skip."
 slug: "dumos-40-inch-electric-standing-desk-height-adjustable-sit-to-stand-up-b0g43f-review"
 image_alt: "DUMOS 40 inch electric standing desk in sit-to-stand position with monitor and laptop setup"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G43F4M5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+AOIXOHUL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Dual-motor lift handles up to 150 lbs with smooth, quiet operation even at max height"  
   - "Compact 40x24-inch top fits tight home offices without sacrificing keyboard-and-monitor space"  
   - "Three programmable height presets plus USB-A and USB-C ports built into the control panel"  
-cons:  
+cons: 
   - "Non-locking casters are optional add-on — desk wobbles slightly at standing height without them"  
   - "Cable management tray is shallow; thick power bricks won't fit underneath"
+
 ---
 
 If your home office is a corner of the living room, not a dedicated 10x10 room, the DUMOS 40-inch electric standing desk is worth a hard look. Most sit-stand desks assume you have floor space to spare. This one doesn't. At 40 inches wide and 24 inches deep, it squeezes into spots where a standard 55-inch desk would never fit — and it does so without feeling like a toy.

@@ -1,13 +1,14 @@
 ---
+
 title: "LULUCATCH Mouse & Insect Traps 12 Pack, Heavier Sticky Traps with Non-Toxic Glue for Small Mice & Insects. Sticky Mouse Traps Indoor for Home, Easy to Set"
 seo_title: "LULUCATCH Mouse & Review: Verdict (4.3/5) | TSV"
 meta_description: "It is easy to use and 4,887+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "lulucatch-mouse-insect-traps-12-pack-heavier-sticky-traps-with-non-toxic-review"
 image_alt: "LULUCATCH Mouse & Insect Traps 12 Pack, Heavier Sticky Traps with Non-Toxic Glue for Small Mice & Insects. Sticky Mouse "
-keywords:
+keywords: 
   - "lulucatch mouse insect review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the LULUCATCH Mouse & Insect?"
     answer: "It is easy to use and setup That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the LULUCATCH Mouse & Insect?"
@@ -20,12 +21,13 @@ review_count: 4887
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BLG8NL23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hbDf-I3VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It is easy to use and setup."
   - "Caught 4 mice in one night These were incredibly easy to use."
   - "The adhesive is strong and effective for catching small rodents."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If you've got a mouse problem, you've got three options: snap traps that require careful baiting and resetting, poison that risks pets and kids, or glue boards. The **LULUCATCH Mouse & Insect Traps 12 Pack** falls firmly in that third category, and at $7.98 for a dozen, it's one of the cheapest pest-control strategies per square foot you'll find.

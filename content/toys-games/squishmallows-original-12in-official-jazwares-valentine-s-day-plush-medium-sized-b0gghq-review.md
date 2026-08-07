@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 12in â€“ Official Jazwares Valentineâ"
 seo_title: "Squishmallows Original 12in â€“ Official Jazwares  Review"
 meta_description: "Our full squishmallows original 12in â€“ official jazwares valentineâ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GGHQT8PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zBOn6GNOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Squishmallow Craze, Explained (and Whether This One's Worth It)**

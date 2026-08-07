@@ -1,7 +1,8 @@
 ---
-title: "HP 17.3\" Full HD Laptop, with Free Lifetime Microsoft Office"
-seo_title: "HP 17.3\" Full HD Laptop, with Free Lifetime Micros Review"
-meta_description: "Our full hp 17.3\" full hd laptop, with free lifetime microsoft office review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17.3\ Full HD Laptop, with Free Lifetime Microsoft Office"
+seo_title: "HP 17.3\ Full HD Laptop, with Free Lifetime Micros Review"
+meta_description: "Our full hp 17.3\ full hd laptop, with free lifetime microsoft office review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17-3-full-hd-laptop-with-free-lifetime-microsoft-office-2024-b0gtn4-review"
 image_alt: "HP 17.3 Full HD Laptop, with Free Lifetime Microsoft Office 2024, Intel Core i7-1355U, 16GB RAM, 512GB SSD, Intel Iris X"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTN4FNR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+RjIRINxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** This HP 17.3-inch laptop earns its 4.3-star rating by solving the two biggest pain points for budget-conscious office buyers — a large, readable screen and a perpetually licensed Microsoft Office suite. The free lifetime Office alone justifies consideration, but the hardware has real limitations you should know about before you click buy.

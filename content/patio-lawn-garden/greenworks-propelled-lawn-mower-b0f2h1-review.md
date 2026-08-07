@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks propelled Lawn Mower"
 seo_title: "Greenworks propelled Lawn Mower Review: Verdict | TSV"
 meta_description: "Our full greenworks propelled lawn mower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F2H1XRG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71amNxVsBZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still pushing a mower around a sloped yard, stop. The Greenworks self-propelled model takes the worst part of lawn care—the grunt work—and hands it to a brushless motor. But before you hit "buy," there's a catch worth knowing about.

@@ -1,4 +1,5 @@
 ---
+
 title: "Martha Stewart Lockton"
 seo_title: "Martha Stewart Lockton Review: Verdict | TSV"
 meta_description: "Our full martha stewart lockton review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMTVV5Q4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Eb19RYAXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: the kitchen gadget graveyard is full of "clever" solutions that solve problems nobody actually had. The Martha Stewart Lockton isn't one of them. This is a genuinely useful tool for anyone who's ever opened a fridge to find a container of leftover soup that has somehow migrated its contents across every shelf. 

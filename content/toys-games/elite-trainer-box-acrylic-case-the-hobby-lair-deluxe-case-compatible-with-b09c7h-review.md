@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Trainer Box Acrylic Case | The Hobby Lair Deluxe Case"
 seo_title: "Elite Trainer Box Acrylic Case Review: The Hobby Lair Deluxe"
 meta_description: "Read our honest Elite Trainer Box Acrylic Case review. The Hobby Lair Deluxe fits ETBs perfectly, protects cards, and looks great. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09C7HCW79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713zJue2ChL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise, snug fit for standard Pokémon Elite Trainer Boxes — no rattling, no sliding"
   - "Thick 3mm acrylic panels that feel genuinely sturdy, not flimsy display plastic"
   - "Magnetic closure keeps the lid secure while allowing easy access to cards and dice"
-cons:
+cons: 
   - "Only fits standard ETBs — won't accommodate premium or oversized trainer boxes"
   - "Acrylic surface shows fingerprints and dust quickly; requires regular wiping"
   - "No stacking lip or interlocking design, so stacking multiple cases is unstable"
+
 ---
 
 If you’ve ever watched a pristine Pokémon Elite Trainer Box get crushed in a closet or scuffed on a shelf, you know the pain. The Hobby Lair Deluxe Acrylic Case solves that specific problem with a purpose-built display box that treats your ETB like the collectible it actually is.

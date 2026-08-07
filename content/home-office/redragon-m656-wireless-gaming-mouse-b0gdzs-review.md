@@ -1,4 +1,5 @@
 ---
+
 title: "Redragon M656 Wireless Gaming Mouse"
 seo_title: "Redragon M656 Wireless Gaming Mouse Review: Verdict | TSV"
 meta_description: "Our full redragon m656 wireless gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GDZSG58F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gVnLijAYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Redragon M656 is a budget wireless mouse that tries to be both a gaming peripheral and an office workhorse. At 4.2 stars from 210 Amazon ratings, it's clearly doing something right. But is it the right mouse for your desk? Here's the honest breakdown.

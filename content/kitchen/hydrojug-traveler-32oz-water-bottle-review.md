@@ -1,4 +1,5 @@
 ---
+
 title: "Product Review: HydroJug Traveler — 32 oz Insulated Water Bottle"
 seo_title: "HydroJug Traveler 32 oz Water Bottle Review | TSV"
 meta_description: "HydroJug Traveler 32 oz water bottle keeps drinks ice-cold all day with a leak-resistant flip straw design. Read our review of this 4.6-star insulated tumbler."
@@ -10,30 +11,31 @@ amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6C6GS58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31tbwj3Mi9L._AC_SL1000_.jpg"
 image_alt: "HydroJug Traveler 32 oz insulated stainless steel water bottle with handle and flip straw in Pink Sand color"
-keywords:
+keywords: 
   - "HydroJug Traveler"
   - "32 oz water bottle"
   - "insulated tumbler with straw"
   - "leak resistant water bottle"
   - "HydroJug cup holder bottle"
-pros:
+pros: 
   - "Exceptional insulation — ice stays cold overnight and well into the next day"
   - "Flip straw design folds down for leak-resistant transport in bags"
   - "Fits standard car cup holders despite 32 oz capacity"
   - "Built-in carrying handle makes it easy to grab and go"
   - "Durable rubber base protects against drops and provides stable grip"
-cons:
+cons: 
   - "Flip straw is leak-resistant but not fully leak-proof when upside down"
   - "Lid durability may show wear over extended daily use"
   - "32 oz with liquid is fairly heavy for some users"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "Does the HydroJug Traveler keep ice cold all day?"
     answer: "Yes, the HydroJug Traveler keeps ice cold through the day and into the next afternoon. Multiple reviewers confirm ice remains overnight and well into midday, making it one of the best-insulated 32 oz tumblers available."
   - question: "Is the HydroJug Traveler leak proof?"
     answer: "The HydroJug Traveler is leak-resistant when the flip straw is folded down. It's designed to be safe for tossing in a bag without major spills, though it's not fully leak-proof when turned upside down for extended periods."
   - question: "Does the HydroJug Traveler fit in a cup holder?"
     answer: "Yes, despite its 32 oz capacity, the HydroJug Traveler is designed to fit standard car cup holders. The tapered base makes it much more cup holder-friendly than similarly sized tumblers."
+
 ---
 
 **The 32oz HydroJug Traveler isn't trying to reinvent the water bottle. It's trying to perfect the one you already own — and for the vast majority of the 19,000+ buyers who rated it 4.6 stars, it gets uncomfortably close.**

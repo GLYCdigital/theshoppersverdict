@@ -1,4 +1,5 @@
 ---
+
 title: "Alfaparf Milano Semi Di Lino Diamond Shine Illuminating Hair"
 seo_title: "Alfaparf Milano Diamond Shine Illuminating Hair Review (2026)"
 meta_description: "Alfaparf Milano Semi Di Lino Diamond Shine Illuminating Hair review: Does this sulfate-free shine treatment deliver glass-like results? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GY1MPGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51f0m68od9L._SL1500_.jpg"
-pros:
+pros: 
   - "Immediate mirror-like shine that lasts 2–3 days between washes, even on color-treated hair"
   - "Sulfate-free formula with a lightweight feel — no heavy buildup or weighed-down strands"
   - "Salon-grade quality at a fraction of the cost of a single glossing treatment"
-cons:
+cons: 
   - "Strong perfume scent that may linger on hair for hours — sensitive noses should test first"
   - "Not ideal for very fine, straight hair; can slightly flatten roots if applied too close to the scalp"
+
 ---
 
 **The Short Version: Does Your Hair Actually Look Like Glass?**

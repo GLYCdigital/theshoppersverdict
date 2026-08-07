@@ -1,5 +1,6 @@
 ---
 
+
 title: "Anker Soundcore Q20i Headphones"
 seo_title: "Anker Soundcore Q20i Review: Best Budget Office Headphones"
 meta_description: "Anker Soundcore Q20i review: 4.6-star budget headphones with ANC, 40-hour battery, and deep bass. See if they're worth $39.99 for your workspace."
@@ -12,13 +13,14 @@ review_count: 63317
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "40-hour battery life with ANC on — a full work week without touching a charger"
   - "Hybrid active noise cancellation that genuinely filters office chatter and HVAC hum"
   - "Custom 40mm dynamic drivers with BassUp tuning deliver surprising low-end punch for $40 inch"
-cons:
+cons: 
   - "Plastic build feels creaky at the hinge points; don't toss them in a bag unprotected"
   - "Microphone quality is mediocre for calls — fine for video meetings, bad for podcasts"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Homedawn Side Table for Small Space, 3-Tier Narrow End Table"
 seo_title: "Homedawn Side Table for Small Space, 3-Tier Narrow Review"
 meta_description: "Our full homedawn side table for small space, 3-tier narrow end table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9L96QX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719K29hkC1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The skinny-table solution your cramped room has been waiting for

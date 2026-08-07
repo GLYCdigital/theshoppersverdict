@@ -1,4 +1,5 @@
 ---
+
 title: "DIMBRAH Overnight Oats Containers with Lids,16oz Glass Jars"
 seo_title: "DIMBRAH Overnight Oats Containers Review: 16oz Glass Jars"
 meta_description: "Honest DIMBRAH overnight oats containers review: 16oz glass jars with leak-proof lids. Build quality, real-world use, and who should buy them."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKRS86H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QZhB7sW4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass that handles hot and cold without cracking"
   - "Truly leak-proof screw-top lids — tested with liquids on their side"
   - "16oz capacity is the sweet spot for standard overnight oat recipes"
-cons:
+cons: 
   - "Lids are plastic, not glass — some buyers wanted all-glass construction"
   - "No measurement markings on the jar walls"
   - "Slightly heavier than plastic alternatives if you're carrying to work daily"
+
 ---
 
 ## The 16oz Glass Jar That Actually Gets Used

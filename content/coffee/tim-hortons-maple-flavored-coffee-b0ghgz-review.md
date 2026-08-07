@@ -1,4 +1,5 @@
 ---
+
 title: "Tim Hortons Maple Flavored Coffee,"
 seo_title: "Tim Hortons Maple Flavored Coffee, Review: Verdict | TSV"
 meta_description: "Our full tim hortons maple flavored coffee, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGZ6Q4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sElHxfPLL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've ever stood in a Tim Hortons line in Canada and wondered if that maple magic could come home with you, this is the closest you'll get without a passport.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wonnitar Flower Outdoor Rug"
 seo_title: "Wonnitar Flower Outdoor Rug Review: Verdict | TSV"
 meta_description: "Our full wonnitar flower outdoor rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ8785B9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816Edxk-gqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Wonnitar Flower Outdoor Rug sits in that crowded middle ground of patio floor coverings — cheap enough to replace, expensive enough that you'd rather not. At 4.6 stars across 229 ratings, it's clearly doing something right. But the real question is whether it does what *you* need. So let's cut through the listing photos and talk about what this rug actually is.

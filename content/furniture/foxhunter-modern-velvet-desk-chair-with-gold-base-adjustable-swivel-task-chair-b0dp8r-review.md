@@ -1,4 +1,5 @@
 ---
+
 title: "FOXHUNTER Modern Velvet Desk Chair with Gold Base, Adjustabl"
 seo_title: "FOXHUNTER Velvet Desk Chair Review: Gold Base, Adjustable"
 meta_description: "Honest FOXHUNTER velvet desk chair review: comfort, build quality, adjustability. See real pros, cons, and who should buy this gold-base task chair."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP8RWNY5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XYrowvgzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Plush velvet upholstery with dense foam padding that holds up through multi-hour work sessions"
   - "Sturdy gold metal base with smooth-rolling casters that glide on hardwood and low-pile carpet"
   - "Tool-free assembly under 15 minutes — no Allen wrench wrestling match"
-cons:
+cons: 
   - Seat depth runs shallow (about 17 inches) — taller users over 5'10 inch " will feel the edge
   - "No lumbar support adjustment; the fixed curve may not suit everyone with lower-back issues"
+
 ---
 
 Let’s be blunt: most chairs under $150 look like they came from a dentist’s waiting room. The FOXHUNTER Modern Velvet Desk Chair tries to break that mold with a plush velvet seat and a gold base that screams “I have my life together.” Does it deliver, or is it all show? After digging through 210 ratings and the specs, here’s what you need to know before clicking buy.

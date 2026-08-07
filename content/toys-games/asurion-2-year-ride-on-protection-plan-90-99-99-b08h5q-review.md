@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year Ride-On Protection Plan ($90 - $99.99)"
 seo_title: "ASURION Ride-On Protection Plan Review: Worth It? (2026)"
 meta_description: "Honest ASURION 2-year ride-on protection plan review. Is extended coverage worth $90-100? Real claims process, coverage details, and buyer experiences."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08H5QQ6G1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ADLPnb4GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures that manufacturer warranties typically exclude after 90 days"
   - "Claims process is straightforward — file online or by phone, ship the unit back, and replacements ship within days"
   - "Protects a $300-$800 investment for roughly 25-30% of the purchase price"
-cons:
+cons: 
   - "Doesn't cover normal wear and tear — batteries that degrade from regular use won't qualify"
   - "You pay shipping for the defective unit back to ASURION, which can run $40-$60 for a ride-on"
   - "Plan must be purchased within 30 days of the ride-on's delivery date — easy to miss this window"
+
 ---
 
 ## The Real Question: Is Insurance for a Kid's Toy Actually Worth It?

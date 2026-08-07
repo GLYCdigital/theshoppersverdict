@@ -1,4 +1,5 @@
 ---
+
 title: "Crybaby Wild but Cutie Series - Vinyl Plush Pendant Blind Bo"
 seo_title: "Crybaby Wild but Cutie Vinyl Plush Pendant Review (2026)"
 meta_description: "Honest Crybaby Wild but Cutie vinyl plush pendant blind box review: quality, sizes, dupes, and if it's worth collecting. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F18LN947/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/images/I/71R9h2dcLYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft vinyl material with durable stitching that holds up to daily bag-clip wear"
   - "Six distinct character designs plus a secret rare — genuine collector appeal"
   - "Compact pendant size (roughly 4 inches) with a functional clip, not just display-only"
-cons:
+cons: 
   - "Blind box format means you might get duplicates when buying multiple units"
   - "No way to identify which character is inside without opening the sealed packaging"
   - "Small parts make it unsuitable for children under 3 despite the cute aesthetic"
+
 ---
 
 **The blind box that actually delivers on the "crybaby" charm — with one frustrating catch.**

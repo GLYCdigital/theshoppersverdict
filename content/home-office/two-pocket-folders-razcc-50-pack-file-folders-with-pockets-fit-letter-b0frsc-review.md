@@ -1,4 +1,5 @@
 ---
+
 title: "Two Pocket Folders, RAZCC 50 Pack File Folders with Pockets "
 seo_title: "Two Pocket Folders, RAZCC 50 Pack File Folders wit Review"
 meta_description: "Our full two pocket folders, razcc 50 pack file folders with pockets  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FRSCG9JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y6nZhIkpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These the Last File Folders You'll Ever Need to Buy?

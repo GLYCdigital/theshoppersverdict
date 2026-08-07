@@ -1,4 +1,5 @@
 ---
+
 title: "Universal 11289 Copy Paper Convenience Carton, 92 Brightness"
 seo_title: "Universal 11289 Copy Paper Convenience Carton, 92  Review"
 meta_description: "Our full universal 11289 copy paper convenience carton, 92 brightness review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00006L35Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Br65frEQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about office paper: it's boring, it's everywhere, and most of it is interchangeable. The Universal 11289, though, has quietly become a 4.7-star favorite with 235 ratings — and that kind of consensus deserves a closer look.

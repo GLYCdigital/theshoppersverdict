@@ -1,4 +1,5 @@
 ---
+
 title: "2xhome Solid Wooden Dining Chair | Upholstered Fabric Cushio"
 seo_title: "2xhome Solid Wooden Dining Chair Review (2026): Worth It?"
 meta_description: "Honest 2xhome solid wooden dining chair review: build quality, comfort, real buyer feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FFCVXTGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HycDkpHBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with mortise-and-tenon joinery — no particle board or MDF anywhere"
   - "2.4-inch thick foam seat cushion with ergonomic curve that holds up to 300 lbs"
   - "Tool-free assembly in under 10 minutes — pre-drilled holes line up perfectly"
-cons:
+cons: 
   - "Fabric is light beige/linen only — no darker color options for high-traffic households"
   - "No floor glides included; bare wood legs can scuff hardwood floors"
+
 ---
 
 Let’s cut through the noise. The 2xhome Solid Wooden Dining Chair has 240 ratings at a 4.8 average — that’s a strong signal, but averages hide the details. I’ve dug through the build specs, the materials list, and what actual buyers are saying to give you the real story before you click “add to cart.”

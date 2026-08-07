@@ -1,4 +1,5 @@
 ---
+
 title: "NUGRIART Metal Chicken Coop with Outdoor Run, Waterproof Cov"
 seo_title: "NUGRIART Metal Chicken Coop with Outdoor Run, Wate Review"
 meta_description: "Our full nugriart metal chicken coop with outdoor run, waterproof cov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GKV6NX3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZaMxUsqrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Short on space but determined to keep chickens? This NUGRIART metal coop might be the answer — if you can get it assembled.**

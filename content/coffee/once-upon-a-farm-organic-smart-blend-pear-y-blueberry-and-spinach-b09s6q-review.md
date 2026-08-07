@@ -1,4 +1,5 @@
 ---
+
 title: "Once Upon a Farm Organic Smart Blend, Pear-y Blueberry and S"
 seo_title: "Once Upon a Farm Organic Smart Blend, Pear-y Blueb Review"
 meta_description: "Our full once upon a farm organic smart blend, pear-y blueberry and s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B09S6QZLX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t+3nLPhgL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Once Upon a Farm Organic Smart Blend, Pear-y Blueberry and Spinach: The Cold-Pressed Pouch That Actually Tastes Fresh

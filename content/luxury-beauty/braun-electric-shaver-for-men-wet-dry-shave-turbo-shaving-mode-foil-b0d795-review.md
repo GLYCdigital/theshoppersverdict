@@ -1,4 +1,5 @@
 ---
+
 title: "Braun Electric Shaver for Men, Wet & Dry Shave, Turbo Shavin"
 seo_title: "Braun Electric Shaver Review: Wet & Dry Turbo Shaving Tested"
 meta_description: "Honest Braun electric shaver review: wet/dry performance, turbo mode, foil quality, battery life, and who should buy. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D795YXGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qiKi3POrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Turbo mode delivers noticeably faster passes on thick, coarse growth without extra irritation"
   - "Wet/dry versatility means you can pair it with your regular shave cream or hit it dry in 60 seconds"
   - "Foil head flexes independently across 5 pivoting elements, hugging jawline and neck curves"
-cons:
+cons: 
   - "Battery indicator only shows three lights — no precise percentage, so you can't tell if you have one shave or five left"
   - "Cleaning station sold separately; manual rinsing under the tap works but leaves residue in foil crevices over time"
   - "Premium price point that undercuts budget rotary options but still demands a real investment"
+
 ---
 
 **The bottom line up front:** This Braun foil shaver earns its 4.2-star rating through consistent, comfortable shaves — but it's not magic. It's a serious tool for men who want a close shave without the razor burn, especially if you've got thick or sensitive skin. Here's the full breakdown.

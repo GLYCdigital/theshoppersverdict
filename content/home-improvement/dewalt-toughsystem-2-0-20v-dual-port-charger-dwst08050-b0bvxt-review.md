@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Toughsystem 2.0 20V Dual Port Charger (DWST08050)"
 seo_title: "DEWALT Toughsystem 2.0 Dual Port Charger Review (2026)"
 meta_description: "DEWALT Toughsystem 2.0 20V Dual Port Charger review: speeds, stacking, real-world performance, and who should buy it. Honest 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BVXTLKKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sVPyUPBpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Charges two 20V MAX batteries simultaneously at full speed without splitting power between ports"
   - "Integrates directly into Toughsystem 2.0 stacking — no separate charging station cluttering your workspace"
   - "Charges 1.7Ah–12Ah batteries with a bright LED indicator that shows charging status at a glance"
-cons:
+cons: 
   - "Does not charge FLEXVOLT 60V/120V batteries — 20V MAX only, which surprises some buyers"
   - "No USB pass-through port for charging phones or other devices"
   - "Requires Toughsystem 2.0 ecosystem; won't attach to original Toughsystem cases without adapters"
+
 ---
 
 If you've invested in DEWALT's Toughsystem 2.0 storage ecosystem, you already know the pain of keeping chargers separate from your stack. The DEWALT DWST08050 solves that with a dual-port 20V MAX charger that snaps directly onto your Toughsystem 2.0 boxes. But here's the catch—the integration is excellent, yet the charger itself has limitations you need to know about before you drop your money.

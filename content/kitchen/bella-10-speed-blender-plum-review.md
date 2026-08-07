@@ -1,4 +1,5 @@
 ---
+
 title: "bella 10 Speed Blender"
 seo_title: "bella 10 Speed Blender Review: Budget Power or Compromise? (2026)"
 meta_description: "We tested the bella 10 Speed Blender. Is this $30 blender worth it for smoothies, crushing ice, and soups? Read our honest review before you buy."
@@ -11,13 +12,14 @@ review_count: 2450
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CZPGWJ8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sGgEX6bpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10 speeds plus pulse give real control for a sub-$30 price point"
   - "40-ounce glass jar is dishwasher safe and won't retain odors like plastic"
   - "600-watt motor handles frozen fruit and ice with surprising authority"
-cons:
+cons: 
   - "No travel cup or to-go lid included — blending for portability requires extra purchase"
   - "Lid can be stubborn to seat properly; misalignment causes leaks mid-blend"
+
 ---
 
 **The $30 Blender That Actually Blends (Mostly)**

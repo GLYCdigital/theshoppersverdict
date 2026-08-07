@@ -1,4 +1,5 @@
 ---
+
 title: "Watering Can for Indoor & Outdoor Plants, Plant Watering Can"
 seo_title: "Watering Can for Indoor & Outdoor Plants, Plant Wa Review"
 meta_description: "Our full watering can for indoor & outdoor plants, plant watering can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQNYSP39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-NqMjVWdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A watering can is one of those purchases you don't think about twice — until you're standing over a row of thirsty tomatoes with a cheap plastic jug that dribbles down your wrist. This stainless steel option from the "Watering Can for Indoor & Outdoor Plants" line aims to be the last can you buy. After looking at what 220 Amazon reviewers have to say (4.4 stars average), here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kakanuo Cordless Table Lamp with Fabric Lampshade"
 seo_title: "Kakanuo Cordless Table Lamp with Fabric Lampshade Review:"
 meta_description: "Our full kakanuo cordless table lamp with fabric lampshade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRTXBGS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ejOnz7fCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most cordless lamps in this price range are either glorified nightlights or plastic junk that looks worse off than it does on. The Kakanuo Cordless Table Lamp with Fabric Lampshade sits in a different lane — it's actually trying to look like a real piece of furniture. The question is whether the performance backs up the aesthetics.

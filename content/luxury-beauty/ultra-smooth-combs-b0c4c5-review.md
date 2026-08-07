@@ -1,4 +1,5 @@
 ---
+
 title: "Ultra Smooth Combs"
 seo_title: "Ultra Smooth Combs Review: Verdict | TSV"
 meta_description: "Our full ultra smooth combs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4C5K244/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q1-9a4pRL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ultra Smooth Combs Review: Luxury Detangling That Actually Delivers

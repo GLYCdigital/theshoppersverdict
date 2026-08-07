@@ -1,4 +1,5 @@
 ---
+
 title: "PetAmi Airline Approved Pet Carrier for Cats & Small Dogs, S"
 seo_title: "PetAmi Airline Approved Pet Carrier for Cats & Sma Review"
 meta_description: "Our full petami airline approved pet carrier for cats & small dogs, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VX94DD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8188KxPd4UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're standing at the gate, boarding pass in hand, and your cat is meowing from a carrier that looks like it barely survived the security line. That's the scenario the **PetAmi Airline Approved Pet Carrier** (Size S) is built for — and with a 4.6-star average across 229 ratings, it's clearly earning its keep in most households. But is it the right pick for *your* pet? Let's break it down.

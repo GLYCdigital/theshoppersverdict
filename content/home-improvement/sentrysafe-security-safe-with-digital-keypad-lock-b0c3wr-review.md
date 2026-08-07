@@ -1,4 +1,5 @@
 ---
+
 title: "SentrySafe Security Safe with Digital Keypad Lock"
 seo_title: "SentrySafe Security Safe with Digital Keypad Lock Review:"
 meta_description: "Our full sentrysafe security safe with digital keypad lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C3WRNQLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jPqlH1IiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SentrySafe digital keypad safe is the security equivalent of a strong lock on a hollow-core door: it stops casual snooping and smash-and-grab thieves, but it's not a bank vault.** At 4.4 stars across 220 ratings, it's a popular pick for home offices and dorm rooms — but you need to understand exactly what it can and can't do before you hand over your cash.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair, Modern Com"
 seo_title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair,  Review"
 meta_description: "Our full lexicon 360 degree swivel accent chair arm chair, modern com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDHBJ4L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91bHUeksukL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair, Modern Com"
 seo_title: "Lexicon Swivel Accent Chair Review: Worth It? [2026]"

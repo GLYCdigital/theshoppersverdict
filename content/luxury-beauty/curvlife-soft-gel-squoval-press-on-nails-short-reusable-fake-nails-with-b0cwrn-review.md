@@ -1,4 +1,5 @@
 ---
+
 title: "CurvLife Soft Gel Squoval Press-On Nails Short, Reusable Fak"
 seo_title: "CurvLife Soft Gel Press-On Nails Review: Are They Worth It?"
 meta_description: "CurvLife soft gel squoval press-on nails review: 4.2/5 stars. Real wear test, sizing tips, longevity, and who should buy these reusable fakes."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CWRNZWWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qNx9gxMKL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cured gel topcoat delivers salon-level gloss that doesn't dull or scratch after a week of wear"
   - "24-nail set covers multiple resizes; squoval shape flatters most finger types without looking costume-y"
   - "Reusable up to 3-4 times with proper removal, dropping per-wear cost below drugstore polish"
-cons:
+cons: 
   - "Adhesive tabs fail fast on oily nail beds — you'll need glue for reliable hold past day two"
   - "Sizing runs narrow; wide nail beds may need to size up or file edges, which weakens the gel seal"
+
 ---
 
 **FRONTMATTER COMPLETE** — Now the review body:

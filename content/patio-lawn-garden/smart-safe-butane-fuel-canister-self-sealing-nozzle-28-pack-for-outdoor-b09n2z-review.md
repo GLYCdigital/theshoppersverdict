@@ -1,4 +1,5 @@
 ---
+
 title: "Smart & Safe Butane Fuel Canister - Self-Sealing Nozzle - 28"
 seo_title: "Smart & Safe Butane Fuel Canister - Self-Sealing N Review"
 meta_description: "Our full smart & safe butane fuel canister - self-sealing nozzle - 28 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09N2ZZH98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8197qtAwXcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the trial and error: if you're running a portable butane stove, a culinary torch, or a camping burner, the Smart & Safe 28-pack is one of the more dependable fuel options on Amazon right now. At 4.7 stars from 235 ratings, it's not a fluke — but it's not perfect either. Here's the honest breakdown before you commit.

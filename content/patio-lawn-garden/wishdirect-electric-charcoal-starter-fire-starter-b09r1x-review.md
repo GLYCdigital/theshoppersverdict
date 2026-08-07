@@ -1,4 +1,5 @@
 ---
+
 title: "WishDirect Electric Charcoal Starter Fire Starter"
 seo_title: "WishDirect Electric Charcoal Starter Fire Starter Review:"
 meta_description: "Our full wishdirect electric charcoal starter fire starter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09R1XW6Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pLA8txv1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: lighting charcoal is the worst part of grilling. Lighter fluid leaves a chemical taste that ruins $30 of steak. Chimney starters work but require newspaper, matches, and patience. The WishDirect Electric Charcoal Starter promises to fix all of that with a plug, a button, and about ten minutes. At 4.6 stars across 229 ratings, it’s clearly working for most people. Here’s the full story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ecosense EQ100 EcoQube, Digital Radon Detector, Fast Capture"
 seo_title: "Ecosense EQ100 EcoQube Review: Fast Radon Detection"
 meta_description: "Ecosense EQ100 EcoQube review: accurate digital radon monitoring with fast results. See performance, accuracy, and real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08LLFKVX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RQMHCil6L._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Fast first reading in under 1 hour — most competing digital monitors require 24-48 hours for baseline data"
   - "Compact 2.6-inch cube design fits on nightstands, desks, or basement shelves without being an eyesore"
   - "Free mobile app tracks hourly, daily, and long-term trends with color-coded EPA guidance"
-cons:
+cons: 
   - "Requires USB power at all times — no battery option means placement is limited by cord reach"
   - "Occasional connectivity hiccups with the app reported by multiple users, needing a restart to re-sync"
   - "No built-in audible alarm; only app notifications, which you'll miss if your phone is on silent"
+
 ---
 
 ## Is This the Radon Monitor You Actually Need?

@@ -1,4 +1,5 @@
 ---
+
 title: "UGREEN M.2 NVMe SSD Enclosure 10Gbps USB 3.2 Gen 2 (10 Gbps)"
 seo_title: "UGREEN M.2 NVMe SSD Enclosure 10Gbps USB 3.2 Gen 2 Review"
 meta_description: "Our full ugreen m.2 nvme ssd enclosure 10gbps usb 3.2 gen 2 (10 gbps) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D53K7HK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ATLiiwnnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 2.5-inch drive is dead. This is the replacement.

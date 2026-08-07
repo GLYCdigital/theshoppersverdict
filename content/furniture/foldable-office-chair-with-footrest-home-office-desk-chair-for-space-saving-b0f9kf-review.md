@@ -1,24 +1,26 @@
 ---
+
 title: "Foldable Office Chair with Footrest, Home Office Desk Chair"
 seo_title: "Foldable Office Chair with Footrest Review: Space-Saving Pick"
 meta_description: "Foldable office chair with footrest review: 4.4-star rated, space-saving design, ergonomic support. See pros, cons, and who should buy it."
 slug: "foldable-office-chair-with-footrest-home-office-desk-chair-for-space-saving-b0f9kf-review"
 image_alt: "Foldable office chair with footrest folded flat next to a small home office desk"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F9KF19CZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817Q2Oy1DSL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Folds flat to roughly 6 inches deep — tucks behind doors or under beds"  
   - "Built-in flip-up footrest adds genuine reclined comfort for breaks"  
   - "Breathable mesh back keeps you cool during longer work sessions"  
-cons:  
+cons: 
   - "No adjustable lumbar support — lower back pressure builds after 3+ hours"  
   - "Seat cushion is firm; heavier users (over 200 lbs) report bottoming out"  
   - "Armrests are fixed and narrow — not great for broad shoulders"
+
 ---
 
 If your home office doubles as a dining room, guest room, or laundry drop zone, you already know the struggle: full-size ergonomic chairs eat floor space like it’s their job. This foldable office chair with footrest solves that specific problem without making you sit on a stool. At 4.4 stars from 220 Amazon ratings, it’s clearly working for a lot of people — but it’s not a replacement for a $400 ergonomic throne. Here’s the real breakdown.

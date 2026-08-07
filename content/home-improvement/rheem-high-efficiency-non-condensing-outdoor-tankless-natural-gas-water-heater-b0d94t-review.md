@@ -1,4 +1,5 @@
 ---
+
 title: "Rheem High Efficiency Non-Condensing Outdoor Tankless Natura"
 seo_title: "Rheem High Efficiency Non-Condensing Outdoor Tankl Review"
 meta_description: "Our full rheem high efficiency non-condensing outdoor tankless natura review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D94TVZN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E0E7Td41L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your water heater lives outside your house, you already know the pain of a tank rusting out in five to seven years.** The Rheem High Efficiency Non-Condensing Outdoor Tankless Natura (model RTEX-18, for the natural gas version) attacks that problem from a different angle — it simply doesn't store water at all, so there's no tank to corrode. With 229 Amazon ratings averaging 4.6 stars, the consensus is clear: this unit delivers endless hot water without eating your garage or basement floor space. But it's not the right choice for every household, and I'm going to tell you exactly why.

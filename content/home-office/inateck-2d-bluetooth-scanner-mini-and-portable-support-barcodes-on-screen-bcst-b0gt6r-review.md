@@ -1,4 +1,5 @@
 ---
+
 title: "Inateck 2D Bluetooth Scanner, Mini and Portable, Support Bar"
 seo_title: "Inateck 2D Bluetooth Scanner, Mini and Portable, S Review"
 meta_description: "Our full inateck 2d bluetooth scanner, mini and portable, support bar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GT6RR655/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cn9a9zaiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Inateck 2D Bluetooth Scanner doesn't look like much — a compact black wand about the size of a thick marker, with a trigger and a small LED. But this little device solves a problem that plagues anyone who's tried to scan barcodes off a phone screen with a laser scanner: most cheap scanners simply can't do it. This one can, and it does it reliably enough to earn a 4.3 average across 215 Amazon ratings. Here's the real story.

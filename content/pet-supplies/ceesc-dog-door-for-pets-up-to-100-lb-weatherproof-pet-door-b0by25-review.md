@@ -1,4 +1,5 @@
 ---
+
 title: "CEESC Dog Door for Pets Up to 100 lb, Weatherproof Pet Door"
 seo_title: "CEESC Dog Door Review: Weatherproof Pet Door for Large Dogs"
 meta_description: "Read our CEESC Dog Door for pets up to 100 lb review. Weatherproof, energy-efficient, and easy to install. See pros, cons, and if it's right for your home."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY25PY2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sBIuUENVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sliding glass door installation means no cutting into your wall or door frame — removes in minutes for rental-friendly use"
   - "Three-layer magnetic seal plus weatherstripping keeps drafts out; buyers report noticeable energy bill savings"
   - "Accepts pets up to 100 lbs with a wide 13.5-inch opening, yet the flap is flexible enough for smaller dogs"
-cons:
+cons: 
   - "Tight fit for some sliding door tracks — measure your track height carefully or you'll deal with gaps"
   - "Locking mechanism is a sliding bolt that can be finicky; some owners report it sticking in humid weather"
   - "No insulation panel included for when you remove the door in winter — you'll need to buy a separate filler panel"
+
 ---
 
 **The Short Version**

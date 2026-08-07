@@ -1,4 +1,5 @@
 ---
+
 title: "Baking Sheet Pan Set of 3, Commercial Cookie Sheets for Baki"
 seo_title: "Baking Sheet Pan Set of 3 Review: Commercial Cookie Sheets"
 meta_description: "Honest review of the Baking Sheet Pan Set of 3 commercial cookie sheets. Tested for warping, nonstick performance, and durability. See if it's worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DGTGJSH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PKv1A2BlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced steel gauge resists warping even at 450°F+ with heavy batters"
   - "True commercial-grade nonstick coating releases cookies and pastries without greasing"
   - "Three sizes (half, quarter, and jelly roll) cover nearly every baking need"
-cons:
+cons: 
   - "Not dishwasher safe — hand washing required to protect the coating"
   - "Dark surface absorbs heat faster, so you may need to shave 2-3 minutes off bake times"
+
 ---
 
 **The Short Version**

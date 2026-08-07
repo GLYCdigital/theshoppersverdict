@@ -1,4 +1,5 @@
 ---
+
 title: "Aqara Smart Valve Controller T1,Matter Over Bridge,Requires"
 seo_title: "Aqara Smart Valve Controller T1 Review: Matter & Zigbee"
 meta_description: "Honest Aqara Smart Valve Controller T1 review: Matter over bridge setup, Zigbee 3.0 reliability, leak response speed, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DB8KS8Q3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BakT-Hj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Motorized ball valve physically rotates your existing quarter-turn valve — no plumbing changes needed, installs in about 10 minutes with just a screwdriver."
   - "Zigbee 3.0 local control via Aqara hub works even when your internet is down, so the leak shutoff isn't dependent on cloud services."
   - "Manual override knob lets you operate the valve by hand during power outages or if the motor fails — a critical safety feature many competitors omit."
-cons:
+cons: 
   - "Requires an Aqara Hub (sold separately) for Matter support — the bridge requirement is not clearly disclosed on the listing and confuses first-time buyers."
   - "Motor torque is modest; on stiff or corroded ball valves it can stall mid-rotation and report a false 'closed' status."
   - "No built-in leak sensor — you must buy Aqara's water leak sensors separately to trigger automatic shutoff, adding $30–40 to the total cost."
+
 ---
 
 # Aqara Smart Valve Controller T1: The Leak Shutoff That Almost Gets It Right

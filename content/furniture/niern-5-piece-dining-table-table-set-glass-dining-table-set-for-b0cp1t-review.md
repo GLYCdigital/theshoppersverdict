@@ -1,4 +1,5 @@
 ---
+
 title: "NIERN 5 Piece Dining Table Table Set, Glass Dining Table Set"
 seo_title: "NIERN 5 Piece Dining Table Table Set, Glass Dining Review"
 meta_description: "Our full niern 5 piece dining table table set, glass dining table set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CP1TQPTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PAp66Nv0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a glass dining set, which means you've already accepted one truth: you'll be wiping fingerprints off the table for as long as you own it. The Niern 5-piece set leans into that tradeoff with a tempered glass top that's genuinely easier to maintain than any wood finish I've tested. But is it worth your money? Let's break down what you're actually getting.

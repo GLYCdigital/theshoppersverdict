@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier TV Stand for 75/85/90 inch TVs, LED Gaming Entertain"
 seo_title: "Bestier TV Stand Review: LED Gaming Console for 85 inch TVs"
 meta_description: "Honest Bestier TV Stand review: LED backlighting, cable management, and real durability for 75–90-inch TVs. See specs, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRJ763GK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ccBNFTakL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rated to hold TVs up to 90 inches with a sturdy metal frame — no wobble at full extension"
   - "Built-in LED strip with multiple color modes and remote control, not just a static glow"
   - "Open shelving fits large consoles like the PS5 and Xbox Series X with room for airflow"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes; instructions are mostly diagrams with small print"
   - "LED strip is adhesive-backed and can peel over time if you move the stand frequently"
+
 ---
 
 Let’s cut through the listing photos. A TV stand for a 75-to-90-inch screen isn’t a casual purchase — it’s holding a $1,500+ display and your gaming setup. The Bestier TV Stand for 75/85/90 inch TVs with LED lighting has earned a 4.3-star average from 215 Amazon ratings. Here’s what that rating actually means for you.

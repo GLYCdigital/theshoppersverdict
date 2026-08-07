@@ -1,4 +1,5 @@
 ---
+
 title: "Alloyman 20V Pole Hedge Trimmer"
 seo_title: "Alloyman 20V Pole Hedge Trimmer Review: Worth It?"
 meta_description: "Alloyman 20V pole hedge trimmer review: 4.3/5 rating, 215 reviews. Tested reach, cutting power, battery life. Is it worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSFN7RQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61utgrM41fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "11.5-foot max reach tackles second-story hedges without a ladder"
   - "20V motor with 24-inch dual-action blade cuts 1-inch branches cleanly"
   - "Fully adjustable head locks at 7 angles for hard-to-reach top edges"
-cons:
+cons: 
   - "Battery runtime around 30 minutes under load — tight for large properties"
   - "At 8.6 pounds fully assembled, arm fatigue sets in after extended overhead work"
+
 ---
 
 If you've ever balanced on a wobbly step ladder with a gas trimmer in one hand, you already know why the Alloyman 20V Pole Hedge Trimmer deserves a hard look. This cordless unit promises to extend your reach to 11.5 feet, which is the difference between pruning your arborvitae and paying someone else to do it. With 215 Amazon ratings averaging 4.3 stars, it's clearly connecting with homeowners. But does it hold up beyond the first few cuts? I dug through the specs and real owner feedback to give you the straight story.

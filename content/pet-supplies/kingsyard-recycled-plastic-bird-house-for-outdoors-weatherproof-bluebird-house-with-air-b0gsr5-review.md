@@ -1,4 +1,5 @@
 ---
+
 title: "Kingsyard Recycled Plastic Bird House for Outdoors - Weather"
 seo_title: "Kingsyard Recycled Plastic Bird House for Outdoors Review"
 meta_description: "Our full kingsyard recycled plastic bird house for outdoors - weather review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSR5B1X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W6TWhGf4L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

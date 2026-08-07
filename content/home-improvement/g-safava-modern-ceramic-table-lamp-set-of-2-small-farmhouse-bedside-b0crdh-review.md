@@ -1,4 +1,5 @@
 ---
+
 title: "G-SAFAVA Modern Ceramic Table lamp Set of 2 Small Farmhouse"
 seo_title: "G-SAFAVA Ceramic Table Lamp Set of 2 Review (2026)"
 meta_description: "G-SAFAVA Modern Ceramic Table Lamp Set of 2 review: farmhouse style, 4.4-star rated. Real pros, cons, and who should buy these bedside lamps."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRDHPXND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71viiDR5w3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full ceramic body (not hollow plastic) with a smooth, matte finish that resists fingerprints"
   - "Compact footprint — roughly 10–11 inches tall, fits nightstands under 14 inches deep"
   - "Two lamps per box at a price that undercuts most single ceramic lamps"
-cons:
+cons: 
   - "Small harp means max bulb height is limited — standard A19 bulbs may poke above the shade"
   - "Shades are thin and slightly translucent; bright bulbs create a hotspot"
   - "No dimmer or USB port — basic on/off only"
+
 ---
 
 **The short version:** These are the lamps you buy when you want the farmhouse look without paying boutique prices. Two solid ceramic lamps, decent linen-look shades, and a footprint small enough for cramped nightstands. At 4.4 stars from 220 raters, they're doing something right — but they're not perfect.

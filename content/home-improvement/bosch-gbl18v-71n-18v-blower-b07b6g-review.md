@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GBL18V-71N 18V Blower"
 seo_title: "BOSCH GBL18V-71N Blower Review: 18V Cordless Power"
 meta_description: "BOSCH GBL18V-71N 18V blower review: 71N airflow, cordless convenience, build quality. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07B6GDR7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610Mj0q7c5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ergonomic balance with battery mounted low for reduced wrist fatigue"
   - "Variable speed trigger with lock-on for continuous operation"
   - "Compact 40.5-inch length fits in tight garage or shed storage"
-cons:
+cons: 
   - "No battery or charger included in bare tool configuration"
   - "Air volume (71 CFM) is modest — this is a cleanup blower, not a leaf season workhorse"
   - "Plastic nozzle collar feels less robust than Bosch's pro-grade line"
+
 ---
 
 If you're shopping for a cordless blower, you've probably noticed most of them share the same silhouette: long barrel, big battery hanging off the back, and a trigger that fatigues your hand after ten minutes. The BOSCH GBL18V-71N breaks that mold in one important way, and that's exactly why it's worth your attention.

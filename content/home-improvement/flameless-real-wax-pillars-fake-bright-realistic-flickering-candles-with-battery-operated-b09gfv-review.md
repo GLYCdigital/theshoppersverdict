@@ -1,4 +1,5 @@
 ---
+
 title: "Flameless Real Wax Pillars Fake Bright Realistic Flickering"
 seo_title: "Flameless Real Wax Pillars Review: Realistic Flicker, 4.6 Stars"
 meta_description: "Honest review of flameless real wax pillar candles: realistic flicker, battery life, heat-free safety, and whether they're worth the price."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09GFV1QKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514kqLkZpTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine real wax outer shell that looks and feels like a traditional candle, not plastic"
   - "Realistic flickering LED flame with warm color temperature that mimics actual burning wax"
   - "Reliable battery life with timer function options on most units"
-cons:
+cons: 
   - "Some units reported inconsistent flame brightness between candles in same set"
   - "Wax surface can scratch or scuff if handled roughly or stored improperly"
+
 ---
 
 ## Flameless Real Wax Pillars: The Honest Breakdown

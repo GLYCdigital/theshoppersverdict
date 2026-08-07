@@ -1,4 +1,5 @@
 ---
+
 title: "Fielda 10 Inch Hanging Planters for Indoor Plants, 2 Pack Se"
 seo_title: "Fielda 10 Inch Hanging Planters Review: Self-Watering 2-Pack"
 meta_description: "Fielda 10-inch hanging planters 2-pack review: self-watering design, sturdy build, real pros & cons. See if these are worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJKZ2NWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JK6ukIV9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-inch diameter fits standard nursery pots and provides room for root systems to spread"
   - "Self-watering reservoir with visible water level indicator reduces watering frequency to roughly once a week"
   - "Sturdy 3-point chain suspension and thick plastic rim support trailing plants and vines without tipping"
-cons:
+cons: 
   - "No drainage holes in the outer shell — overwatering can pool in the saucer if you're not careful"
   - "Chain hooks are fixed length; you'll need to shorten or replace them for low-ceiling installations"
+
 ---
 
 # Fielda 10 Inch Hanging Planters Review: Do These Self-Watering Pots Actually Work?

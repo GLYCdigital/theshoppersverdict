@@ -1,4 +1,5 @@
 ---
+
 title: "Starburst Original Chewy Candy - 3 lbs - Starburst Original "
 seo_title: "Starburst Original Chewy Candy - 3 lbs - Starburst Review"
 meta_description: "Our full starburst original chewy candy - 3 lbs - starburst original  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQ19Y5R8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WsRklm1NL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, you already know what Starburst tastes like. The question isn't whether the candy is good — it's whether buying a 3-pound bag sight-unseen on Amazon is a smart move. Here's the honest breakdown.

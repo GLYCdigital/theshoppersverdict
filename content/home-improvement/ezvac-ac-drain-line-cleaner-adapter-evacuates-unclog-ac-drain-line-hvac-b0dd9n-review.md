@@ -1,4 +1,5 @@
 ---
+
 title: "EZVAC - AC Drain Line Cleaner Adapter Evacuates & Unclog AC"
 seo_title: "EZVAC AC Drain Line Cleaner Adapter Review (2026): Does It Work?"
 meta_description: "EZVAC AC drain line cleaner adapter review: real-world tests, pros, cons, and who should buy. See if this $25 tool beats a wet/dry vac for clogged condensate lines."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD9NLTDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tP8ZXp6WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits standard 3/4-inch and 1-inch PVC drain lines with a universal rubber adapter — no tape or putty needed for a tight seal"
   - "Two-port design lets you switch between blow and suction modes without disconnecting the setup"
   - "Built-in blow-off valve releases pressure safely when clearing stubborn clogs, preventing hose pop-off"
-cons:
+cons: 
   - "Requires a wet/dry vacuum (not included) — useless if you don't already own one with at least 5 HP"
   - "The rubber adapter can deform if you overtighten the metal clamp, potentially cracking thin PVC fittings"
   - "No check valve included, so water can backflow into the vacuum if you angle the hose wrong"
+
 ---
 
 **The $25 tool that turns your shop vac into an AC drain unclogger — here's the honest breakdown.**

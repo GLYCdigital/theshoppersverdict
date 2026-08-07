@@ -1,4 +1,5 @@
 ---
+
 title: "NIUXX In-Drawer Knife Block Set for Knives(Not Included)"
 seo_title: "NIUXX In-Drawer Knife Block Set for Knives(Not Inc Review"
 meta_description: "Our full niuxx in-drawer knife block set for knives(not included) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBLHWYMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YhAWRxn5L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

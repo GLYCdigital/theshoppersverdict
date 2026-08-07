@@ -1,4 +1,5 @@
 ---
+
 title: "Schwinn Koen & Elm Big Kid Bike"
 seo_title: "Schwinn Koen & Elm Big Kid Bike Review: Verdict | TSV"
 meta_description: "Our full schwinn koen & elm big kid bike review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXT5G5CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mOOh9MfXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Schwinn Koen & Elm Big Kid Bike: A First Real Bike That Doesn't Fight Back

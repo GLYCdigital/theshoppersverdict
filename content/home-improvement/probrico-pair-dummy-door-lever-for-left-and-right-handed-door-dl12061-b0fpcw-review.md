@@ -1,4 +1,5 @@
 ---
+
 title: "Probrico Pair Dummy Door Lever for Left and Right Handed Doo"
 seo_title: "Probrico Pair Dummy Door Lever for Left and Right  Review"
 meta_description: "Our full probrico pair dummy door lever for left and right handed doo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FPCWC3LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OzVTqgtYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Dummy door levers are the quiet workhorses of home improvement—nobody notices them until they're wrong. The Probrico pair solves the most common headache right out of the box: it ships with both a left-handed and a right-handed lever, so you're not stuck with two of the same orientation. That alone saves a return trip to the hardware store.

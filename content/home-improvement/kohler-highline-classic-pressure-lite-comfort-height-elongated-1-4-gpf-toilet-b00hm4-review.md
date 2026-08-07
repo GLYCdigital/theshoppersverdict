@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler Highline Classic Pressure Lite Comfort Height Elongat"
 seo_title: "Kohler Highline Classic Pressure Lite Comfort Heig Review"
 meta_description: "Our full kohler highline classic pressure lite comfort height elongat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00HM4WYVK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516NAVsrFcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kohler Highline Classic Pressure Lite isn't the flashiest toilet on the market. It doesn't have a heated seat, a nightlight, or a remote control. What it delivers is something far more practical for most homes: dependable, water-efficient flushing power at a price that won't make you wince.**

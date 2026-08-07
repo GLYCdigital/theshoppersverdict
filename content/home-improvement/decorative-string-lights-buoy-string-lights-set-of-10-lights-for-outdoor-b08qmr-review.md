@@ -1,4 +1,5 @@
 ---
+
 title: "Decorative String Lights, Buoy String Lights Set of 10 Light"
 seo_title: "Buoy String Lights Review: Set of 10 Outdoor Decor (2026)"
 meta_description: "Honest Buoy String Lights review: set of 10 decorative outdoor lights. Build quality, weather resistance, brightness, and who should buy them."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08QMRQ4TT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KEbR4nCLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True nautical look — each buoy has a metal ring and textured plastic shell, not a flat printed decal"
   - "Warm white LEDs are dim enough for ambiance but bright enough to actually light a 10-foot railing"
   - "Weatherproof construction held up through rain and humidity in customer testing"
-cons:
+cons: 
   - "Bulbs are non-replaceable — when one goes, you're replacing the whole strand"
   - "Wire is thin (18-gauge feel) and tangles easily if you don't coil it properly for storage"
+
 ---
 
 These buoy string lights are the rare outdoor decor piece that looks better in person than in the product photos. The set of 10 hangs on a roughly 15-foot wire, and each buoy has a proper metal ring on top and a textured, glossy red shell that catches light like real marine hardware. At $20.99, they're priced to be an impulse buy — but they perform well enough to justify a deliberate purchase.

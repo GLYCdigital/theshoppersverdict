@@ -1,7 +1,8 @@
 ---
-title: "Ingersoll Rand 360-418 - Air Belt Sander, 1/2\"x18\" 20,000 RP"
-seo_title: "Ingersoll Rand 360-418 - Air Belt Sander, 1/2\"x18\" Review"
-meta_description: "Our full ingersoll rand 360-418 - air belt sander, 1/2\"x18\" 20,000 rp review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Ingersoll Rand 360-418 - Air Belt Sander, 1/2\x18\ 20,000 RP"
+seo_title: "Ingersoll Rand 360-418 - Air Belt Sander, 1/2\x18\ Review"
+meta_description: "Our full ingersoll rand 360-418 - air belt sander, 1/2\x18\ 20,000 rp review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ingersoll-rand-360-418-air-belt-sander-1-2-x18-20-000-b0bwkx-review"
 image_alt: "Ingersoll Rand 360-418 - Air Belt Sander, 1/2x18 20,000 RPM, 4700 SFPM, 0.6 HP"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BWKX4HQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41jpJaJap3L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 20,000 RPM Question: Is This the Last Air Belt Sander You'll Buy?**

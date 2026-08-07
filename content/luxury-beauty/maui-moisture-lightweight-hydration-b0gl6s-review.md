@@ -1,4 +1,5 @@
 ---
+
 title: "Maui Moisture Lightweight Hydration +"
 seo_title: "Maui Moisture Lightweight Hydration + Review: Verdict | T"
 meta_description: "Our full maui moisture lightweight hydration + review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GL6S396J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714rsjlKADL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Lightweight Hydration That Doesn't Lie

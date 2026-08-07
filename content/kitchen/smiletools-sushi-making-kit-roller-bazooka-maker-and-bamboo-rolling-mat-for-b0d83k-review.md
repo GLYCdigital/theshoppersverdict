@@ -1,4 +1,5 @@
 ---
+
 title: "SmileTools Sushi Making Kit - Roller, Bazooka, Maker, and Ba"
 seo_title: "SmileTools Sushi Making Kit - Roller, Bazooka, Mak Review"
 meta_description: "Our full smiletools sushi making kit - roller, bazooka, maker, and ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D83KN7GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MxxOMCVGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SmileTools Sushi Making Kit Review: Does It Beat a $10 Bamboo Mat?  

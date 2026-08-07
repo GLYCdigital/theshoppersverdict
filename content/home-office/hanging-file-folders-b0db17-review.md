@@ -1,4 +1,5 @@
 ---
+
 title: "Hanging File Folders"
 seo_title: "Hanging File Folders Review: Verdict | TSV"
 meta_description: "Our full hanging file folders review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DB17GW2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y67xpkgGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap hanging file folder bow under a half-full drawer, you know the frustration. These folders from the B0DB17 listing don't do that. With a 4.8-star average across 240 ratings, they're clearly doing something right — and after handling them, it's obvious what.

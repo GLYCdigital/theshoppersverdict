@@ -1,4 +1,5 @@
 ---
+
 title: "Nilight Winches"
 seo_title: "Nilight Winches Review: Verdict | TSV"
 meta_description: "Our full nilight winches review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPB41LCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814SSe-NewL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most winches under $400 are either underpowered toys or overbuilt bricks that weigh more than your spare tire. The Nilight sits in that crowded middle ground, and after digging through 210 verified buyer experiences, here's the real story.

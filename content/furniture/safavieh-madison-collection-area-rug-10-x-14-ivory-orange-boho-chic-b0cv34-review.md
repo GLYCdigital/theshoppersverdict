@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Madison Collection Area Rug - 10' x 14', Ivory & Or"
 seo_title: "SAFAVIEH Madison Collection Area Rug - 10' x 14',  Review"
 meta_description: "Our full safavieh madison collection area rug - 10' x 14', ivory & or review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV34MMTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1tbb6qh4hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **SAFAVIEH Madison Collection Area Rug - 10' x 14', Ivory & Or** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

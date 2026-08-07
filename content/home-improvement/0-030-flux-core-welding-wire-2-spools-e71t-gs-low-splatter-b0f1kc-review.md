@@ -1,4 +1,5 @@
 ---
+
 title: "0.030 Flux Core Welding Wire, 2 Spools E71T-GS Low Splatter Review"
 seo_title: "0.030 Flux Core Wire Review: 2 Spools, Low Splatter E71T-GS"
 meta_description: "Honest review of 0.030 E71T-GS flux core wire. Tested for splatter, feedability, and weld quality on thin metal. Is the 2-spool value worth it?"
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 

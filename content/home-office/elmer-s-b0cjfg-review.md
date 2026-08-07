@@ -1,4 +1,5 @@
 ---
+
 title: "Elmer's"
 seo_title: "Elmer's Office Product Review: Worth It in 2026?"
 meta_description: "Honest Elmer's office product review: build quality, real-world performance, and who should buy. 4.6/5 rating, 229 reviews analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJFG6CJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812aecCxlhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent glue formula that dries clear without wrinkling paper — rare even among premium brands"
   - "Nozzle design delivers precision application without clogging, even after months of intermittent use"
   - "Value pricing undercuts office supply stores while matching school-grade durability"
-cons:
+cons: 
   - "Cap can be tight to remove when product hasn't been used for a week or more"
   - "Not waterproof once dry — don't use for outdoor projects or humid environments"
+
 ---
 
 Let's be blunt: when a brand name is so ubiquitous it becomes the generic term for the product category itself, you expect consistency. Elmer's has carried that weight for over 75 years, and this particular offering — the classic white glue formula in the familiar squeeze bottle — largely lives up to the legacy. But is it worth your money in 2026 when cheaper alternatives flood Amazon? Let's dig in.

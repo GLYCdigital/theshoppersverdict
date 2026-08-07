@@ -1,16 +1,17 @@
 ---
+
 title: "medicube Facial Cleanser Zero Pore Capsule Cleansing Foam | Daily Gentle Cleanser for Skin Texture, Blackhead & Pore Care - AHA, BHA & PHA for Deep Cleansing, Korean Skincare, 4.23 oz"
 seo_title: "medicube Facial Cleanser Review: Verdict (4.7/5) | TSV"
 meta_description: "Great value and a little dab goes a long 3,336+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "medicube-facial-cleanser-zero-pore-capsule-cleansing-foam-daily-gentle-cleanser-for-review"
 image_alt: "medicube Facial Cleanser Zero Pore Capsule Cleansing Foam | Daily Gentle Cleanser for Skin Texture, Blackhead & Pore Car"
-keywords:
+keywords: 
   - "medicube facial cleanser review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the medicube Facial Cleanser Zero?"
     answer: "Great value and a little dab goes a long way That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the medicube Facial Cleanser Zero?"
@@ -23,12 +24,13 @@ review_count: 3336
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYTQ5GYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vXRV5ShmL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value and a little dab goes a long way."
   - "Gentle enough to use twice a day."
   - "Even better it's affordable."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let me cut through the K-beauty hype for a second. The medicube Zero Pore Capsule Cleansing Foam has over 3,300 ratings holding at 4.7 stars, which means it's either genuinely good or has a marketing machine behind it. After breaking down the ingredient list, testing reports, and buyer feedback, I'm landing closer to the former — with caveats.

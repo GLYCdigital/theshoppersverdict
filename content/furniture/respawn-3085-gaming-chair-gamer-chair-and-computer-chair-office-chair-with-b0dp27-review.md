@@ -1,4 +1,5 @@
 ---
+
 title: "Respawn 3085 Gaming Chair - Gamer Chair and Computer Chair, "
 seo_title: "Respawn 3085 Gaming Chair - Gamer Chair and Comput Review"
 meta_description: "Our full respawn 3085 gaming chair - gamer chair and computer chair,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP27JY5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71epjBX0CxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $200-and-under gaming chair market is a minefield of wobbly bases and back pain disguised as "racing style." The Respawn 3085 manages to dodge most of those traps, but it's not without compromises. After digging through 220 ratings and the spec sheet, here's what actually matters.

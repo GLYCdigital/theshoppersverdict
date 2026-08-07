@@ -1,4 +1,5 @@
 ---
+
 title: "Scrabble Giant Deluxe Edition by WS Game Company with Oversi"
 seo_title: "Scrabble Giant Deluxe Edition by WS Game Company w Review"
 meta_description: "Our full scrabble giant deluxe edition by ws game company with oversi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004SRWXOW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UbuD5mriL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Scrabble Giant Deluxe Edition by WS Game Company is the closest thing to a "heirloom" board game you'll find on Amazon.** If you've ever squinted at standard Scrabble tiles or watched someone reach across the table to spell "QUIET" while knocking over your rack, this set solves both problems with an oversized, rotating wooden board that feels like it belongs in a cabin lodge rather than a closet shelf.

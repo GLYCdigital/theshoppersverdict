@@ -1,4 +1,5 @@
 ---
+
 title: "Cliganic Organic Rosehip Oil"
 seo_title: "Cliganic Organic Rosehip Oil Review (2026): Is It Worth It?"
 meta_description: "Honest Cliganic Organic Rosehip Oil review: pure, cold-pressed, USDA-certified. Does it fade scars and hydrate? Real buyer results, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLSX8PST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fvveZRFvL._SL1500_.jpg"
-pros:
+pros: 
   - "Single-ingredient, USDA-certified organic rosehip oil — no carrier oils, fillers, or synthetic fragrances to dilute potency"
   - "Cold-pressed and unrefined, preserving the natural vitamin A, vitamin C, and essential fatty acids that drive results"
   - "Non-comedogenic formula absorbs in under 60 seconds without leaving a greasy film — works under makeup and moisturizer"
-cons:
+cons: 
   - "Amber glass bottle has no dropper — you get a screw-top lid, making controlled application messy and wasteful"
   - "Thin, lightweight texture won't be enough as a standalone moisturizer for very dry or mature skin types"
   - "Some users report a faint nutty/earthy scent that lingers 10-15 minutes — not an issue if you layer fragrance-free products"
+
 ---
 
 **The $10 Face Oil That's Actually Worth the Hype — If You Know How to Use It**

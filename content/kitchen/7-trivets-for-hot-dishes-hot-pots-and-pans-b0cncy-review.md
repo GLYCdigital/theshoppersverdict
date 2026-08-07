@@ -1,4 +1,5 @@
 ---
+
 title: "7 inch  Trivets for Hot Dishes, Hot pots and Pans"
 seo_title: "7-Inch Trivets for Hot Dishes Review: Heat Protection That Works"
 meta_description: "Honest review of 7 inch  trivets for hot dishes, pots, and pans. Tested for heat resistance, stability, and surface protection. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNCYDDJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814SxV-+cAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 7-inch diameter provides a stable landing zone for 10-12 inch pans without tipping"
   - "Silicone core with heat resistance up to 450°F — tested with straight-from-oven cast iron"
   - "Non-slip bottom grips granite, quartz, and wood surfaces even when wet"
-cons:
+cons: 
   - "Single 7-inch size won't fit extra-large Dutch ovens or roasting pans with wide bases"
   - "Lighter color options show scorch marks over time despite claimed stain resistance"
+
 ---
 
 You've just pulled a screaming-hot cast iron skillet from the oven. Your granite countertop is seconds away from a permanent white burn ring. This set of 7-inch trivets is the $15 insurance policy that keeps your surfaces alive. After testing these against direct oven heat, boiling pots, and the dreaded "forgot it was on" scenario, here's the honest breakdown.

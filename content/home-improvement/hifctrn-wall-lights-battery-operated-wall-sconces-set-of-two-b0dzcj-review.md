@@ -1,4 +1,5 @@
 ---
+
 title: "HIFCTRN Wall Lights Battery Operated Wall Sconces Set of Two"
 seo_title: "HIFCTRN Wall Lights Battery Operated Wall Sconces  Review"
 meta_description: "Our full hifctrn wall lights battery operated wall sconces set of two review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZCJ6BH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PX6f31WJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Finally, a battery sconce that doesn't look like a toy**

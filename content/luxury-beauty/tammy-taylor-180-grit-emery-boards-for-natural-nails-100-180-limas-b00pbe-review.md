@@ -1,4 +1,5 @@
 ---
+
 title: "Tammy Taylor 180 Grit Emery Boards for Natural Nails, 100/18"
 seo_title: "Tammy Taylor 180 Grit Emery Boards for Natural Nai Review"
 meta_description: "Our full tammy taylor 180 grit emery boards for natural nails, 100/18 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00PBEN21O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pOK0YkUVL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most nail files are an afterthought. You grab whatever’s at the drugstore checkout, file a few rough edges, and toss it in a drawer. The Tammy Taylor 180 Grit Emery Boards are not that. These are the files your nail tech actually uses — the ones that make you wonder why you ever settled for the flimsy foam ones that disintegrate after three uses.

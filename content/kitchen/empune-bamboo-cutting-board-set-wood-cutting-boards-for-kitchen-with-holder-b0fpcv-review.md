@@ -1,4 +1,5 @@
 ---
+
 title: "Empune Bamboo Cutting Board Set, Wood Cutting Boards for Kit"
 seo_title: "Empune Bamboo Cutting Board Set Review (2026): Worth It?"
 meta_description: "Honest Empune bamboo cutting board set review: build quality, durability, real user feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPCV5RG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718pt3brJZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three distinct board sizes (roughly 15x10, 12x8, and 9x6 inches) cover everything from bread to full meal prep without hogging counter space"
   - "Integrated juice groove on the large board catches meat drippings — a small detail that keeps your counter clean"
   - "Bamboo construction is naturally antimicrobial and holds up to daily knife work without deep gouging"
-cons:
+cons: 
   - "Boards arrive with a light oil finish that wears off after a few weeks; you'll need to hand-apply food-safe mineral oil monthly to prevent drying"
   - "The included metal holder fits the boards snugly — almost too snugly — and requires two hands to pull the largest board out"
+
 ---
 
 Let me be direct: most bamboo cutting board sets under $30 are thin, flimsy, and warp within a month. The Empune set isn't that. With a 4.6-star average across 229 ratings, this three-board set with a metal holder has earned its place in my kitchen. But it's not perfect, and you should know exactly what you're getting before you click buy.

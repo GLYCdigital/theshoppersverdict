@@ -1,4 +1,5 @@
 ---
+
 title: "Barber Shop Pretend Play Toy, Kids Hair Salon Toys, Kids Sha"
 seo_title: "Barber Shop Pretend Play Toy Review: Kids Hair Salon Set"
 meta_description: "Honest review of the Barber Shop Pretend Play Toy for kids. See what’s inside, how it holds up, and whether it’s worth the money for your little stylist."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP2N9F78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71psJHUPhlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic accessories (razor, clippers, comb) that actually mimic real barber tools without sharp edges"
   - "Sturdy plastic construction — survives drops and aggressive toddler play"
   - "Includes storage case or tray, making cleanup and portability genuinely easy"
-cons:
+cons: 
   - "Some accessories are small — not ideal for kids under 3 due to choking hazard"
   - "Sound effects (if included) are repetitive and can get annoying quickly"
   - "No mirror included in the base set — you’ll need to supply your own for full effect"
+
 ---
 
 If your kid has ever grabbed a pair of scissors and headed toward their own hair — or worse, the dog’s — you already know why this toy exists. The Barber Shop Pretend Play Toy isn’t just another plastic playset. It’s a way to redirect that fascination with haircuts into something safe, and based on 229 Amazon ratings averaging 4.6 stars, it’s working for a lot of families.

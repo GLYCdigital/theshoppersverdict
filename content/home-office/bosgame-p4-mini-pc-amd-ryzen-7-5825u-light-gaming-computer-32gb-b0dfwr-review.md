@@ -1,4 +1,5 @@
 ---
+
 title: "BOSGAME P4 Mini PC, AMD Ryzen 7 5825U Light Gaming Computer,"
 seo_title: "BOSGAME P4 Mini PC Review (Ryzen 7 5825U): Worth It?"
 meta_description: "BOSGAME P4 Mini PC review: Ryzen 7 5825U, 32GB RAM. Is it good for office work and light gaming? Real performance, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFWRLLV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d8IdKbI9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-core/16-thread Ryzen 7 5825U delivers desktop-class multitasking in a chassis smaller than a paperback novel"
   - "32GB DDR4 RAM and 1TB NVMe SSD out of the box — no immediate upgrades needed for most users"
   - "Quiet operation under load; dual 2.5G Ethernet ports make it a strong homelab or firewall candidate"
-cons:
+cons: 
   - "Integrated Vega graphics handle esports titles at 1080p, but modern AAA games will require low settings or 720p"
   - "Plastic top panel feels less premium than metal alternatives at this price point"
   - "No USB4/Thunderbolt port — single USB-C is data-only, limiting future eGPU or high-speed peripheral options"
+
 ---
 
 Let's be direct: most mini PCs under $300 are compromises. You get a weak Celeron that chokes on a dozen browser tabs, or you pay triple for something with a discrete GPU you don't need. The BOSGAME P4 sits in a smarter spot — an 8-core Ryzen 7 5825U with 32GB RAM that's aimed squarely at office work, media centers, and light gaming. After spending a week with it, here's the real story.

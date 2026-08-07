@@ -1,4 +1,5 @@
 ---
+
 title: "Kicking Horse Coffee, Three Sisters, Medium Roast, Whole Bea"
 seo_title: "Kicking Horse Coffee, Three Sisters, Medium Roast, Review"
 meta_description: "Our full kicking horse coffee, three sisters, medium roast, whole bea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FG2Z4KF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617dvT9v8RL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Kicking Horse Coffee, Three Sisters, Medium Roast, Whole Bean — Review**

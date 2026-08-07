@@ -1,4 +1,5 @@
 ---
+
 title: "Ascher LED Track Lighting Kit, Flexibly Rotatable Light Head"
 seo_title: "Ascher LED Track Lighting Kit Review: Rotatable Heads"
 meta_description: "Ascher LED track lighting kit review: flexible rotatable heads, easy install, 4.6/5 rating. See pros, cons, and who should buy this ceiling spotlight."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FP2N8WD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-2hCbZCEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heads rotate and pivot through a wide range, letting you aim light exactly where you need it — artwork, countertops, or accent walls"
   - "Slim, low-profile track design sits close to the ceiling, so it doesn't dominate the room visually"
   - "Tool-free installation with included mounting hardware — most buyers report setup in under 30 minutes"
-cons:
+cons: 
   - "Light heads are non-replaceable; if one fails, you're replacing the entire unit"
   - "No dimmer switch included — you'll need to supply your own compatible dimmer if you want adjustable brightness"
+
 ---
 
 If you've been staring at a dark corner of your living room or a kitchen island that never gets enough light, the Ascher LED Track Lighting Kit is a straightforward fix. With a 4.6-star average across 229 ratings, this isn't a flashy product — it's a practical one that does what it promises. Here's the honest breakdown before you buy.

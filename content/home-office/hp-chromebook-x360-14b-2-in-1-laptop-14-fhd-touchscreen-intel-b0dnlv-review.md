@@ -1,7 +1,8 @@
 ---
-title: "HP Chromebook X360 14b 2-in-1 Laptop (14\" FHD Touchscreen, I"
-seo_title: "HP Chromebook X360 14b 2-in-1 Laptop (14\" FHD Touc Review"
-meta_description: "Our full hp chromebook x360 14b 2-in-1 laptop (14\" fhd touchscreen, i review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Chromebook X360 14b 2-in-1 Laptop (14\ FHD Touchscreen, I"
+seo_title: "HP Chromebook X360 14b 2-in-1 Laptop (14\ FHD Touc Review"
+meta_description: "Our full hp chromebook x360 14b 2-in-1 laptop (14\ fhd touchscreen, i review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-chromebook-x360-14b-2-in-1-laptop-14-fhd-touchscreen-intel-b0dnlv-review"
 image_alt: "HP Chromebook X360 14b 2-in-1 Laptop (14 FHD Touchscreen, Intel N100, 4GB RAM, 128GB Storage (64GB eMMC + 64GB SD Card))"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DNLVCN2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tKb1g1d5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most Chromebooks under $350 feel like toys. The HP Chromebook X360 14b isn't one of them. After spending two weeks with this as my daily driver for email, video calls, and writing, I understand why it's holding a 4.7-star average across 235 Amazon ratings. But it's not perfect, and you need to know where the corners were cut before you hit "add to cart."

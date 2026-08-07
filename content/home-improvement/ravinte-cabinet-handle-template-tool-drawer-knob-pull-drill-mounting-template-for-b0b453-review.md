@@ -1,4 +1,5 @@
 ---
+
 title: "Ravinte Cabinet Handle Template Tool Drawer Knob Pull Drill "
 seo_title: "Ravinte Cabinet Handle Template Tool Drawer Knob P Review"
 meta_description: "Our full ravinte cabinet handle template tool drawer knob pull drill  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B453WYGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aWiDEsM6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ravinte Cabinet Handle Template: The $20 Jig That Saves Your Cabinet Doors

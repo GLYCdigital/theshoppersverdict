@@ -1,4 +1,5 @@
 ---
+
 title: "Heroine Make by KissMe Mascara Remover | Waterproof Makeup R"
 seo_title: "Heroine Make by KissMe Mascara Remover | Waterproo Review"
 meta_description: "Our full heroine make by kissme mascara remover | waterproof makeup r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GR1JNHFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dzUzu+QhL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Heroine Make by KissMe Mascara Remover | Waterproof Makeup R

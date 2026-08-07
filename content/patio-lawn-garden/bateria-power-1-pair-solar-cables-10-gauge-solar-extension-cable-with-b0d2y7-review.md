@@ -1,4 +1,5 @@
 ---
+
 title: "Bateria Power 1 Pair Solar Cables, 10 Gauge Solar Extension"
 seo_title: "Bateria Power 10 Gauge Solar Cables Review: Worth It?"
 meta_description: "Bateria Power 10 gauge solar extension cables reviewed: 240+ ratings, 4.8 stars. Are they durable? UV-resistant? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D2Y7TWX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gmBPNt8qL._AC_SL1497_.jpg"
-pros:
+pros: 
   - "True 10 AWG copper conductors handle up to 30A without measurable voltage drop on runs under 50 feet"
   - "UV-stabilized XLPE jacket resists cracking and sun damage far better than standard PVC cables"
   - "Pre-attached male/female MC4 connectors — no crimping tool or DIY assembly required"
-cons:
+cons: 
   - "Cable is noticeably stiff in cold weather, making tight-radius bends difficult"
   - "No built-in strain relief where the connector meets the wire — rough handling can eventually loosen the seal"
+
 ---
 
 Let me be direct with you: most solar extension cables on Amazon are cheap, flimsy, and fail within a year. The Bateria Power 10 Gauge set is not that. With a 4.8-star average from 240 buyers, this pair of pre-assembled cables has earned its reputation — but it's not perfect, and you deserve to know exactly where it shines and where it stumbles before you spend money.

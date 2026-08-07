@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Blankets for Large Dogs, Dog Cat Flannel Blankets Washab"
 seo_title: "Dog Blankets for Large Dogs Review: Flannel, Washable"
 meta_description: "Honest review of Washab Dog Blankets for large dogs: flannel fabric, size, washability, and real customer feedback. See if this 4.4-star blanket fits your pup."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV86J1B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U7fzaT3bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely soft flannel that holds up to repeated washing without pilling or fading"
   - "Large enough to actually cover a couch cushion or crate floor for big breeds"
   - "Lightweight but warm — works as a liner or layer without trapping excessive heat"
-cons:
+cons: 
   - "No anti-slip backing, so it slides on leather or slick furniture surfaces"
   - "May shed lint during the first couple of washes before fibers settle"
   - "Not waterproof — wet paws or accidents will soak through to whatever's underneath"
+
 ---
 
 If you've ever watched a 70-pound Labrador claim your couch as his personal throne, you know the drill: hair everywhere, claw scratches on the fabric, and that permanent doggy smell no amount of Febreze can fix. The Washab flannel blanket for large dogs is designed to be the barrier between your furniture and your furry roommate. But does it actually deliver, or is it just another overpriced piece of fleece that'll end up in the donation pile? Let's get into it.

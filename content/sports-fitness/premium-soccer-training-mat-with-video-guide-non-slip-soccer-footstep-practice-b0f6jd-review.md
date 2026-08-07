@@ -1,4 +1,5 @@
 ---
+
 title: "Premium Soccer Training Mat with Video Guide - Non-Slip Socc"
 seo_title: "Premium Soccer Training Mat with Video Guide - Non Review"
 meta_description: "Our full premium soccer training mat with video guide - non-slip socc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F6JD2D3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TDXbbhnrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this another gimmick mat, or does it actually build touch?

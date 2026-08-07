@@ -1,4 +1,5 @@
 ---
+
 title: "Empava 30 Inch Gas Cooktop with 5 World Class Made in Italy"
 seo_title: "Empava 30 Inch Gas Cooktop Review: 5 Italian Burners Tested"
 meta_description: "Empava 30-inch gas cooktop review: 5 Italian-made burners, dual-ring wok power, and tempered glass. See real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B07P3WBF5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mkPskoGSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-ring 18,000 BTU wok burner delivers serious high-heat searing for a 30-inch unit"
   - "True made-in-Italy burner assembly (SABAF) with sealed design — no crossover ignition issues"
   - "Tempered glass top with brushed stainless trim looks premium and cleans up fast"
-cons:
+cons: 
   - "No griddle accessory or wok ring included — that dual-ring burner needs a flat-bottom pan or separate add-on"
   - "Some units arrive with cosmetic scratches on the glass or misaligned knobs right out of the box"
   - "Requires professional installation for gas line conversion (NG to LP) — not a DIY-friendly swap"
+
 ---
 
 **Is the Empava 30-inch gas cooktop with “world class Made in Italy” burners actually worth your kitchen remodel budget?** With 195 Amazon ratings averaging 3.9 stars, the answer is nuanced. This cooktop sits in a sweet spot — it undercuts premium Italian brands like Bertazzoni or Ilve by hundreds of dollars while claiming the same SABAF burner tech underneath. But as with anything in that price tier, there are tradeoffs you need to know before you commit.

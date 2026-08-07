@@ -1,4 +1,5 @@
 ---
+
 title: "Elitezip Upgraded 1500LBS Outdoor Rebounder System with Bask"
 seo_title: "Elitezip 1500LBS Outdoor Rebounder Review: Worth It? (2026)"
 meta_description: "Honest Elitezip 1500LBS outdoor rebounder review: build quality, basketball hoop, lights & sprinkler. Real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FJLZ32HD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UNpjLMuGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 1500LB weight capacity on the trampoline mat — tested by heavier users and holds steady"
   - "Basketball hoop, LED light strip, and sprinkler attachment are all included — no separate purchases needed"
   - "Galvanized steel frame and weather-resistant components survive full sun and rain without rusting"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes and the instructions are occasionally vague about bolt placement"
   - "Basketball hoop is a mini 24-inch rim — great for kids, less satisfying for serious adult shooters"
   - "Sprinkler connection requires a standard garden hose, and water pressure varies the spray pattern significantly"
+
 ---
 
 ## The Multi-Sport Backyard Upgrade That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "CAMPHILL Camping Chair Set of 3, Outdoor Folding Camping Cha"
 seo_title: "CAMPHILL Camping Chair Set of 3 Review: Worth It? (2026)"
 meta_description: "CAMPHILL Camping Chair Set of 3 review: sturdy steel frame, padded armrests, 400lb capacity. See pros, cons, and who should buy these folding chairs."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CD1WZ5T3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VbAWqbiZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three chairs for the price of one premium single — real value if you need seating for a family or group"
   - "Rated to 400 lbs per chair with reinforced steel frame and double-layered Oxford fabric"
   - "Built-in cup holder and side pocket on each chair — no fighting over accessories"
-cons:
+cons: 
   - "No padding on the seat itself — just the armrests — so long sits on hard ground get uncomfortable"
   - "Carry bags are thin and the chairs are heavy (about 10 lbs each), making the set awkward to haul for one person"
+
 ---
 
 Let me be direct: if you're buying a set of three camping chairs, you're probably not a solo ultralight backpacker. You're a parent, a tailgater, or someone who hosts a fire pit. And for that crowd, the CAMPHILL 3-pack makes a lot of sense.

@@ -1,4 +1,5 @@
 ---
+
 title: "Texas Instruments TI-84 Plus CE Blueberry Graphing Calculato"
 seo_title: "Texas Instruments TI-84 Plus CE Blueberry Graphing Review"
 meta_description: "Our full texas instruments ti-84 plus ce blueberry graphing calculato review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00UG8TN2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PWI2C0UUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TI-84 Plus CE in Blueberry is the calculator that refuses to die — and for good reason. It's been the gold standard for high school and college math for over a decade, and this slimmer, color-screened version modernizes the formula without breaking what worked. But at its price point, you need to know exactly what you're getting before you click buy.

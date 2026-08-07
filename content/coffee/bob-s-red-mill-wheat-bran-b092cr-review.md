@@ -1,4 +1,5 @@
 ---
+
 title: "Bob's Red Mill Wheat Bran"
 seo_title: "Bob's Red Mill Wheat Bran Review: Is It Worth It?"
 meta_description: "Bob's Red Mill Wheat Bran review: texture, taste, and baking results from 240+ Amazon ratings. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B092CRR48N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uVGYknEPL._SL1500_.jpg"
-pros:
+pros: 
   - "Fine, consistent grind that blends seamlessly into batters, doughs, and smoothies without grittiness"
   - "Fresh, nutty aroma and clean wheat flavor — no stale or rancid notes that plague cheaper brands"
   - "Resealable 1-pound bag holds up well; stays fresh for months if stored properly"
-cons:
+cons: 
   - "Price per ounce runs higher than generic store-brand wheat bran — you're paying for the Bob's name"
   - "Fine texture can clump if added directly to liquids; needs whisking or blending to incorporate smoothly"
+
 ---
 
 ## The Unsung Hero of Your Morning Routine

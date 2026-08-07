@@ -1,4 +1,5 @@
 ---
+
 title: "DuPont Tyvek HomeWrap - 3' x 100'"
 seo_title: "DuPont Tyvek HomeWrap Review: 3' x 100' House Wrap"
 meta_description: "Honest DuPont Tyvek HomeWrap 3' x 100' review: tear resistance, UV exposure limits, installation tips, and whether it's worth the premium."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00DRL8MBI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y-9hjbRKL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Exceptional tear and puncture resistance — survives stapling, wind load, and job site abuse without ripping"
   - "True air barrier performance with 58% better drainage vs. commodity wraps when installed per spec"
   - "UV exposure limit of 4 months — the longest in the category, forgiving for slow builds"
-cons:
+cons: 
   - "Premium price — typically 30–50% more per square foot than generic house wraps"
   - "Slippery surface when wet — can be hazardous on sloped roofs or scaffolding during installation"
+
 ---
 
 You're about to wrap a house, and the WRB (weather-resistant barrier) you choose is the only thing standing between your sheathing and decades of moisture intrusion. This isn't the place to save $40. Here's why the 3' x 100' DuPont Tyvek HomeWrap (300 square feet per roll) is the benchmark — and where it stumbles.

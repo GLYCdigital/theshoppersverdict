@@ -1,4 +1,5 @@
 ---
+
 title: "DAE Moisture Mask Parent"
 seo_title: "DAE Moisture Mask Review: Is This Deep Conditioner Worth It?"
 meta_description: "Our honest DAE Moisture Mask review covers performance, ingredients, and real customer feedback. See if this luxury deep conditioner earns its 4.3-star rating."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CLT86ZMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sLPTSiX-L._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers noticeable softness and shine after a single 10-minute application, even on color-treated hair"
   - "Signature citrus-vanilla scent lingers for days without being overpowering"
   - "Sulfate-free, paraben-free formula with clean ingredients that won't strip natural oils"
-cons:
+cons: 
   - "Price point sits firmly in luxury territory — you're paying for the brand name and packaging"
   - "May weigh down fine, straight hair if used more than once a week"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Curtain Lights Smart Curtain Lights"
 seo_title: "Govee Curtain Lights Smart Curtain Lights Review: Verdict"
 meta_description: "Our full govee curtain lights smart curtain lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DCK1D4Y9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LOc7dG2tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "curtain lights" on Amazon are cheap, non-addressable strings with a 20-button remote and a prayer. The Govee Curtain Lights are different — they're a single 9.8 x 6.5 ft panel of 260 individually addressable LEDs that plugs into the same ecosystem as Govee's popular floor lamps and light strips. But different doesn't automatically mean better. Here's the real story after digging through the specs and 215 buyer ratings.

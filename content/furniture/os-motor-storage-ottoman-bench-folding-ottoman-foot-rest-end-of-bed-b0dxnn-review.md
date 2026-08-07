@@ -1,4 +1,5 @@
 ---
+
 title: "OS MOTOR Storage Ottoman Bench, Folding Ottoman Foot Rest,En"
 seo_title: "OS MOTOR Storage Ottoman Bench, Folding Ottoman Fo Review"
 meta_description: "Our full os motor storage ottoman bench, folding ottoman foot rest,en review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXNNZ9C7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YqoGfg5yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Ottoman That Hides More Than Your Feet

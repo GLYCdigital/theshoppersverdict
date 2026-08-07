@@ -1,4 +1,5 @@
 ---
+
 title: "Babo Botanicals Eucalyptus Remedy Plant Based Soothing Chest"
 seo_title: "Babo Botanicals Eucalyptus Chest Rub Review (2026)"
 meta_description: "Read our honest Babo Botanicals Eucalyptus Remedy chest rub review. We tested this plant-based soothing balm for congestion relief. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08644GKFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TPdo9uGRL._SL1500_.jpg"
-pros:
+pros: 
   - "USDA-certified organic base with no petroleum jelly, parabens, or synthetic fragrances — a genuinely clean formula"
   - "Fast-acting eucalyptus and peppermint essential oils open airways within minutes of application"
   - "Non-greasy balm texture absorbs fully in under 60 seconds without staining clothes or leaving residue"
-cons:
+cons: 
   - "Strong menthol scent lingers for hours — not ideal for those sensitive to aromatic oils"
   - "Small 2.4 oz jar runs out quickly if applied multiple times daily during a cold"
+
 ---
 
 # Babo Botanicals Eucalyptus Remedy Soothing Chest: A Clean-Burning Relief or Just Hype?

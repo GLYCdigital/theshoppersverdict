@@ -1,4 +1,5 @@
 ---
+
 title: "Bonsai Fertilizer - Gentle Slow Release Plant Food Pellets -"
 seo_title: "Bonsai Fertilizer Review: Gentle Slow Release Pellets (2026)"
 meta_description: "Honest review of Gentle Slow Release Bonsai Fertilizer Pellets. See if these 4.6-star plant food pellets deliver steady growth for indoor bonsai."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08LJNKWPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614Sh+CsxhL._ACSY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "No chemical burn risk — gentle 5-5-5 NPK formula safe for delicate root systems, even on young trees"
   - "Zero odor pellets work indoors without attracting fungus gnats or leaving residue on soil surface"
   - "One application feeds for 2-3 months, eliminating weekly liquid fertilizer mixing"
-cons:
+cons: 
   - "Slow release means no quick green-up — takes 2-3 weeks to see noticeable response"
   - "Small 1.5 lb bag covers roughly 20-25 trees; heavy collectors will need multiple bags"
   - "No measuring scoop included, so dosing requires guesswork or a separate teaspoon"
+
 ---
 
 ## Is This the Fertilizer Your Bonsai Has Been Waiting For?

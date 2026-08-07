@@ -1,4 +1,5 @@
 ---
+
 title: "CLrkualn Kick Scooter for Kids Ages 3-12, 5 Adjustable Heigh"
 seo_title: "CLrkualn Kids Kick Scooter Review (2026): Adjustable, Ages 3-12 inch"
 meta_description: "Our CLrkualn kick scooter review covers the 5-height adjustable deck, wheel quality, and real buyer feedback. Is this lean-to-steer scooter worth it for ages 3-12? Read before buying."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7WF3WXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x5UYpvqiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five handlebar height positions (65-82cm) genuinely span ages 3-12, so you won't need a second scooter"
   - "Wide anti-slip PU wheels with LED lights make evening rides visible without batteries to replace"
   - "Tool-free folding mechanism locks securely — fits in a car trunk or stroller basket when snapped shut"
-cons:
+cons: 
   - "The lean-to-steer mechanism has a learning curve; younger kids (3-4) may need a week of practice"
   - "Weight limit caps at 110 lbs, so older or taller 12-year-olds near that mark will outgrow it quickly"
+
 ---
 
 **Is this the last scooter you'll buy for your kid? Not quite — but it's close.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Ollny Christmas Cluster Lights - 400LED 20ft 4X Bright Tree "
 seo_title: "Ollny Christmas Cluster Lights - 400LED 20ft 4X Br Review"
 meta_description: "Our full ollny christmas cluster lights - 400led 20ft 4x bright tree  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BV19VDGJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AlK+rvbaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ollny Christmas Cluster Lights Review: Is 400 LEDs in 20 Feet Actually Worth It?

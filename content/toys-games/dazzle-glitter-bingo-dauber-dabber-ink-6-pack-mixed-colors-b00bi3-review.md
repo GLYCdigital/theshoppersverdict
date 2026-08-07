@@ -1,4 +1,5 @@
 ---
+
 title: "Dazzle Glitter Bingo Dauber/Dabber Ink 6-Pack Mixed Colors"
 seo_title: "Dazzle Glitter Bingo Dauber Review: 6-Pack Ink Dabbers"
 meta_description: "Dazzle Glitter Bingo Dauber 6-pack review: vibrant glitter ink, leak-resistant tips. See pros, cons, and who should buy these dabbers."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00BI3QW3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tlA75jD8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine glitter suspended in ink, not just shimmer dye — dries with visible sparkle that holds on paper"
   - "Sponge tip is firm enough for precise bingo card marking but soft enough for kids' crafts"
   - "Ink is opaque and saturated; one dab covers numbers cleanly without ghosting through"
-cons:
+cons: 
   - "Glitter particles can settle in the bottle; needs a vigorous shake before each use or you get watery streaks"
   - "No individual color labeling on caps — you must remember which color is which or test on scrap paper"
   - "Ink is permanent on fabric; a stray drop on clothes won't wash out, so cover your table"
+
 ---
 
 ## Glitter Bingo Dabbers That Actually Deliver Sparkle — Most of the Time

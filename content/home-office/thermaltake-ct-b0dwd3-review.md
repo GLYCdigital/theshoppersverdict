@@ -1,4 +1,5 @@
 ---
+
 title: "Thermaltake CT"
 seo_title: "Thermaltake CT Review: Verdict | TSV"
 meta_description: "Our full thermaltake ct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWD3FTMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n+vpUbYjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a dozen "workspace organizers" that promise to declutter your life and end up as drawer-filler within a month. The Thermaltake CT isn't that. With a 4.6-star average across 229 ratings, it's earning its keep in home offices and cubicles alike. But is it the right gear for *your* desk? Let's dig past the star rating.

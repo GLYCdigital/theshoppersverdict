@@ -1,4 +1,5 @@
 ---
+
 title: "28lb 10x13 Catalog Envelopes Self Seal 100 Pack, Goefun 80GS"
 seo_title: "Goefun 28lb 10x13 Catalog Envelopes Review (2026)"
 meta_description: "Goefun 28lb 10x13 catalog envelopes self-seal 100-pack review: thickness, adhesive strength, printability, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CY2NKSG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6175upqTAQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 28lb/80gsm stock — holds up to heavy inserts without tearing at the seams"
   - "Self-seal adhesive actually bonds — no licking, no tape gun needed"
   - "Fits standard 10x13 mailers and accepts laser/inkjet addressing without smudging"
-cons:
+cons: 
   - "Kraft color shows scuffs and handling marks more obviously than white stock"
   - "Adhesive strip is aggressive — repositioning the flap after sealing will tear the paper"
   - "Packaging can arrive crushed if shipped loose without rigid padding"
+
 ---
 
 If you mail catalogs, legal documents, or product samples regularly, you know the pain of a flimsy envelope that splits in transit or a gummed flap that refuses to seal. The Goefun 28lb 10x13 catalog envelope pack claims to solve both problems. After digging through 204 verified buyer ratings and testing the specs against real-world mailing demands, here's where it lands.

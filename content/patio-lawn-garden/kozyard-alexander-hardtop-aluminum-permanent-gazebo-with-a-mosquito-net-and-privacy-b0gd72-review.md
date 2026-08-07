@@ -1,4 +1,5 @@
 ---
+
 title: "Kozyard Alexander Hardtop Aluminum Permanent Gazebo with a M"
 seo_title: "Kozyard Alexander Hardtop Aluminum Permanent Gazeb Review"
 meta_description: "Our full kozyard alexander hardtop aluminum permanent gazebo with a m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GD728BKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-NjCmhV-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: This is the gazebo you buy when you're done replacing fabric canopies every 18 months.**

@@ -1,4 +1,5 @@
 ---
+
 title: "WEKIS Shelf Brackets Heavy Duty Black Floating Shelf Bracket"
 seo_title: "WEKIS Shelf Brackets Heavy Duty Black Floating She Review"
 meta_description: "Our full wekis shelf brackets heavy duty black floating shelf bracket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B099DTQ7C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BPByfWcUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most floating shelf brackets are decorative afterthoughts. They bend, they sag, and they make you nervous every time you set something heavier than a paperback on them. The WEKIS Heavy Duty Black Floating Shelf Bracket isn't that product. With a 4.7-star average across 235 ratings, this is one of those rare hardware purchases that actually earns its place in your workshop.

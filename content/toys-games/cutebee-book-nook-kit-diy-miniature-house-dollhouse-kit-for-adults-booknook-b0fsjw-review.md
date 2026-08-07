@@ -1,4 +1,5 @@
 ---
+
 title: "CUTEBEE Book Nook Kit - DIY Miniature House Dollhouse Kit fo"
 seo_title: "CUTEBEE Book Nook Kit Review: Worth It? (2026)"
 meta_description: "Honest CUTEBEE Book Nook Kit review: build quality, difficulty, missing pieces, and who should buy this DIY miniature dollhouse kit."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSJW4MDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CPl-L5XsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut wooden pieces fit precisely with minimal sanding needed"
   - "LED lighting system is genuinely impressive — warm glow transforms the finished piece"
   - "Detailed instruction booklet with step-by-step photos, not just vague diagrams"
-cons:
+cons: 
   - "Small parts require tweezers and patience — not ideal for shaky hands"
   - "Glue application is fiddly; a precision applicator is strongly recommended"
   - "Glue application is fiddly; precision applicator strongly recommended"
+
 ---
 
 # CUTEBEE Book Nook Kit Review: A Tiny World That Tests Your Patience

@@ -1,4 +1,5 @@
 ---
+
 title: "La Roche-Posay Anthelios UV Pro-Sport Sunscreen for Face & B"
 seo_title: "La Roche-Posay Anthelios UV Pro-Sport Sunscreen fo Review"
 meta_description: "Our full la roche-posay anthelios uv pro-sport sunscreen for face & b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GY4XLVWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wQDLxgFRL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The sunscreen that actually survives a marathon — without looking like you ran one.**

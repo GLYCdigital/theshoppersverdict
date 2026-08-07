@@ -1,4 +1,5 @@
 ---
+
 title: "Tom Ford Ombre Leather - Eau De Parfum Travel Spray 0.34 Oun"
 seo_title: "Tom Ford Ombre Leather - Eau De Parfum Travel Spra Review"
 meta_description: "Our full tom ford ombre leather - eau de parfum travel spray 0.34 oun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRY9CNB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OesC6-mLL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** Tom Ford's Ombre Leather is one of the most polarizing — and most beloved — fragrances in the luxury market. This travel spray delivers the identical composition as the full-size bottle in a carry-on-friendly format. It's expensive per milliliter, but if you want the real deal without committing to a 50ml bottle, this is the smartest way to test the waters.

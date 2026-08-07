@@ -1,4 +1,5 @@
 ---
+
 title: "LIANLAM Washable Rug 9x12 Area Rugs for Living Room - & Ultr"
 seo_title: "LIANLAM Washable Rug 9x12 Area Rugs for Living Roo Review"
 meta_description: "Our full lianlam washable rug 9x12 area rugs for living room - & ultr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F186TFWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AlhOZbXiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 9x12 rug is a commitment. It's heavy, it's expensive, and if it's a pain to clean, you'll resent it every single time you drag it to the laundry. The LIANLAM Washable Rug tries to solve that problem head-on. Here's the honest breakdown after digging through 204 ratings and real owner experiences.

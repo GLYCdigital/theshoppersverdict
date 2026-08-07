@@ -1,4 +1,5 @@
 ---
+
 title: "Toodour Solar String Lights Outdoor, 56ft 100 LED Globe Stri"
 seo_title: "Toodour Solar String Lights Outdoor, 56ft 100 LED  Review"
 meta_description: "Our full toodour solar string lights outdoor, 56ft 100 led globe stri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DPHXC6PG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71knLLLvXaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Toodour Solar String Lights: 100 LEDs, 56 Feet, and a Few Caveats

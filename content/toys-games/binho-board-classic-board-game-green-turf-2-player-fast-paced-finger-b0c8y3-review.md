@@ -1,4 +1,5 @@
 ---
+
 title: "Binho Board Classic Board Game Green Turf - 2-Player Fast-Pa"
 seo_title: "Binho Board Classic Game Review: Fast-Paced 2-Player Fun"
 meta_description: "Binho Board Classic Game review: A fast, tactile 2-player finger soccer game. See if its clever build and replay value justify the hype."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8Y3DT9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RPnX18sRL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Tactile, satisfying gameplay that takes seconds to learn but offers genuine skill depth"
   - "Solid ABS construction with a grippy green turf surface that keeps the ball rolling predictably"
   - "Compact 12-inch design makes it genuinely portable — toss it in a backpack for travel"
-cons:
+cons: 
   - "Requires a flat, stable surface to play well; slightly uneven tables cause frustrating ball drift"
   - "The included ball is small and can be easily lost — order spares if you play outdoors"
+
 ---
 
 ## The $20 Question: Is This Just Flick-Football, or Something More?

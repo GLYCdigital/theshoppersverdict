@@ -1,4 +1,5 @@
 ---
+
 title: "Accessories for Xbox One Elite Series 2 Controller(Model 179 inch"
 seo_title: "Elite Series 2 Accessories Review: Metal Thumbsticks (2026)"
 meta_description: "Honest review of metal thumbsticks & accessories for Xbox Elite Series 2. Build quality, grip, durability tested. See if they're worth upgrading."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBBRC99G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cJ9UBewIL._SL1500_.jpg"
-pros:
+pros: 
   - "CNC-machined aluminum thumbsticks with textured grip rings that hold up far better than the stock rubber-coated sticks"
   - "Includes both standard and tall stick variants plus a D-pad and paddles in one kit"
   - "Tool-free installation — sticks pull straight off and press on in seconds"
-cons:
+cons: 
   - "Metal sticks get noticeably cold in air-conditioned rooms, which some players find off-putting"
   - "No carrying case or storage tray included, so loose components can get lost between swaps"
+
 ---
 
 The Elite Series 2 is Microsoft's $180 flagship controller, and the stock thumbsticks are its weakest link. The rubber coating peels. The tension wears unevenly. And when you're paying that much for precision input, a mushy stick ruins the whole experience. This accessory kit addresses that specific problem — and does it well enough to earn a 4.7 average across 235 ratings.

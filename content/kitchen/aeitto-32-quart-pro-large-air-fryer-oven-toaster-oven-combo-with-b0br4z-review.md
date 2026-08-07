@@ -1,4 +1,5 @@
 ---
+
 title: "AeittoÂ® 32-Quart PRO Large Air Fryer Oven| Toaster Oven Com"
 seo_title: "Aeitto 32-Quart Air Fryer Toaster Oven Review (2026)"
 meta_description: "Honest Aeitto 32-Quart PRO air fryer toaster oven combo review: capacity, performance, drawbacks, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BR4ZYSRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uI5iBha9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "32-quart capacity fits a 12-inch pizza or whole 5-pound chicken without rotating"
   - "Dual convection fans deliver noticeably faster, more even cooking than single-fan units"
   - "Interior oven light and large viewing window let you monitor progress without opening the door"
-cons:
+cons: 
   - "Heavy — roughly 28 pounds — needs dedicated counter space and two hands to move"
   - "Controls are digital-only with no physical dial; older users may find the touch buttons finicky"
   - "Preheating takes 4-5 minutes, slower than basket-style air fryers"
+
 ---
 
 Let me save you some research time: if you're torn between an air fryer and a toaster oven, this Aeitto 32-quart combo is the answer — but it's not for everyone. After digging through 220 ratings and the specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bradford Boat Flag American"
 seo_title: "Bradford Boat Flag American Review: 4.6 Star Honest Look"
 meta_description: "Bradford Boat Flag American review: Is this 4.6-star garden flag worth it? Real buyer feedback on durability, size, and fading. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHMK9RHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GUDn7D71L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Vibrant, double-sided printing that stays sharp after weeks of direct sun exposure"
   - "Reinforced stitching along the hem and fly end prevents fraying in moderate wind"
   - "True-to-size 12x18 inch dimensions that fit standard garden flag stands without sagging"
-cons:
+cons: 
   - "Fabric is lightweight polyester; will not survive severe storms or hurricane-force gusts"
   - "Colors fade faster than premium nylon flags if left out for 3+ months continuously"
+
 ---
 
 You see "Boat Flag American" and you might picture something destined for a transom. But the Bradford Boat Flag American is really a patriotic garden flag doing its best nautical cosplay. With 229 ratings averaging 4.6 stars, it's clearly hitting the mark for most buyers. But is it the right flag for your yard, or should you keep scrolling? I dug through the feedback, the construction details, and the real-world complaints to give you a straight answer.

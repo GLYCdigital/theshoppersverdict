@@ -1,23 +1,25 @@
 ---
+
 title: "AIRHOP Upgraded 0.79 inch  Extra Thick 48 Sq Ft High-Density Eva"
 seo_title: "AIRHOP 0.79 inch  Extra Thick EVA Foam Mats Review (48 Sq Ft)"
 meta_description: "Honest AIRHOP 0.79 inch  extra thick EVA foam mat review: coverage, density, real durability, and who should buy. 4.6-star rating, 229 reviews analyzed."
 slug: "airhop-upgraded-0-79-extra-thick-48-sq-ft-high-density-eva-b0f64n-review"
 image_alt: "AIRHOP extra thick 0.79 inch high-density EVA foam floor mats laid out in a home gym"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F64NRYCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mPTjtUvCL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 0.79-inch thickness — noticeably more cushion under knees and elbows than standard 0.5-inch mats"  
   - "48 sq ft coverage in one package (6 tiles, 24 inch x24 inch  each) — enough for a full home gym bay or playroom corner"
   - "High-density EVA doesn't compress permanently; holds shape after months of heavy dumbbell drops"  
-cons:  
+cons: 
   - "Textured surface shows dust and crumbs — you'll be vacuuming or wiping it weekly"  
   - "Tiles interlock but can shift apart on carpet; use the included edge strips or tape for hard floors"
+
 ---
 
 You've seen the 0.5-inch mats that feel like a yoga mat on concrete. The AIRHOP 0.79-inch is a different animal. At nearly 20% thicker than standard interlocking foam, it's the difference between "I can feel the floor" and "I can actually do a plank without my elbows screaming." With 229 ratings averaging 4.6 stars, this isn't a niche product — it's a crowd-pleaser. But is it right for *your* floor? Let's break it down.

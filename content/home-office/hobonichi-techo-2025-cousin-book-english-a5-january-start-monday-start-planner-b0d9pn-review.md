@@ -1,4 +1,5 @@
 ---
+
 title: "Hobonichi Techo 2025 Cousin Book [English/A5/January Start/M"
 seo_title: "Hobonichi Techo 2025 Cousin Book [English/A5/Janua Review"
 meta_description: "Our full hobonichi techo 2025 cousin book [english/a5/january start/m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9PNDFW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fmXD7irwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hobonichi Techo Cousin is the planner that launched a thousand stationery obsessions.** And honestly? For once, the hype is mostly justified.

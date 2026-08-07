@@ -1,4 +1,5 @@
 ---
+
 title: "SteelSeries Arctis Nova 7P Wireless Multi-Platform Gaming He"
 seo_title: "SteelSeries Arctis Nova 7P Wireless Multi-Platform Review"
 meta_description: "Our full steelseries arctis nova 7p wireless multi-platform gaming he review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CD8T9QF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YjwXQ9U5L._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Arctis Nova 7P is the headset I recommend when someone says "I play everything and can't decide."** It's not flashy, not gimmicky — it's just solid engineering that does exactly what it promises, and the 4.5-star rating from 225 Amazon buyers backs that up.

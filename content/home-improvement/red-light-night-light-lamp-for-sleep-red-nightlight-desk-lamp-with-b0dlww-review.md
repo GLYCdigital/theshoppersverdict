@@ -1,4 +1,5 @@
 ---
+
 title: "Red Light Night Light Lamp for Sleep Red Nightlight Desk Lam"
 seo_title: "Red Light Night Light Lamp for Sleep Red Nightligh Review"
 meta_description: "Our full red light night light lamp for sleep red nightlight desk lam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLWWM2XK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dao5OVdDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most "red" nightlights on Amazon are just white LEDs with a red plastic filter. That's not what this is. The Red Light Night Light Lamp uses a true 660nm red LED — the wavelength sleep researchers actually cite when talking about circadian-friendly lighting. If you've been scrolling your phone in bed and wondering why you can't fall asleep, this is the fix that doesn't require giving up your midnight reading habit.

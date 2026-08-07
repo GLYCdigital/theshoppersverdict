@@ -1,4 +1,5 @@
 ---
+
 title: "Biuwory Hardcover Leather Lined Journal Notebook for Women M"
 seo_title: "Biuwory Leather Journal Review: Honest Take for 2026 inch"
 meta_description: "Biuwory hardcover leather journal review: durable cover, smooth lined pages, secure closure. See real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DBFYH3PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yw2Lt-0YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine PU leather cover with deep embossed tree of life design that doesn't peel or flake after months of daily use"
   - "192 thick, acid-free lined pages that handle fountain pens and gel ink with minimal ghosting or bleed-through"
   - "Lay-flat binding stays open on a desk without weights — rare at this price point"
-cons:
+cons: 
   - "Elastic closure band is snug enough that it can leave a slight indentation on the cover over time"
   - "No ribbon page marker included, which feels like a miss for a journal at this price"
+
 ---
 
 **The Biuwory Hardcover Leather Journal: A $20 Journal That Thinks It's a $60 One**

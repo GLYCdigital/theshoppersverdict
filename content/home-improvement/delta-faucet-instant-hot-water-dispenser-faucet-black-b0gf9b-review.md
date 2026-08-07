@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Instant Hot Water Dispenser Faucet Black"
 seo_title: "Delta Instant Hot Water Dispenser Faucet Black Review (2026)"
 meta_description: "Honest Delta instant hot water faucet review: build quality, install ease, real user complaints, and who should buy it. 4.2/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GF9BX7JB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Near-boiling water (up to 200°F) delivered in under 3 seconds — no waiting for a kettle"
   - "Matte black finish resists fingerprints and water spots far better than chrome or stainless"
   - "Compact under-sink tank fits in tight cabinets; 1/2-gallon capacity is enough for daily tea/coffee"
-cons:
+cons: 
   - "Tank heats water continuously — expect a small bump in your electricity bill, roughly $3–5/month"
   - "Installation requires a dedicated 20-amp circuit; many kitchens won't have one without an electrician"
   - "No temperature adjustment dial — fixed at 200°F, which can scald if you have kids around"
+
 ---
 
 ## The 3-Second Tea Machine That's Almost Perfect

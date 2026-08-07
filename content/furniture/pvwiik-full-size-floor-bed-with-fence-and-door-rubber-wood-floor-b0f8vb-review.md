@@ -1,4 +1,5 @@
 ---
+
 title: "PVWIIK Full Size Floor Bed with Fence and Door,Rubber Wood F"
 seo_title: "PVWIIK Full Size Floor Bed with Fence and Door,Rub Review"
 meta_description: "Our full pvwiik full size floor bed with fence and door,rubber wood f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F8VBBFJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NzA-meFsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A floor bed that does double duty — but check the fine print before you commit**

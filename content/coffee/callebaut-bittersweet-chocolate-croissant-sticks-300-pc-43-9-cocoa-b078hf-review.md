@@ -1,4 +1,5 @@
 ---
+
 title: "Callebaut Bittersweet Chocolate Croissant Sticks - (300 pc)"
 seo_title: "Callebaut Chocolate Croissant Sticks Review (300 pc)"
 meta_description: "Honest Callebaut bittersweet chocolate croissant sticks review: 300-count bulk pack, 43.9% cocoa, cost per piece, and real barista feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B078HFV5VB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/419nzYVjslL._SL1000_.jpg"
-pros:
+pros: 
   - "43.9% cocoa content delivers genuinely dark, complex flavor — not sugary milk chocolate"
   - "Individually wrapped sticks are easy to portion and stay fresh for months"
   - "Costs roughly $0.40–0.50 per croissant — cheaper than most bakery alternatives"
-cons:
+cons: 
   - "They arrive frozen; you need 20–30 minutes thaw time before baking"
   - "Sticks are smaller than typical café croissants — about 4 inches long"
   - "Texture leans more 'pastry dough' than flaky laminated croissant"
+
 ---
 
 **The Review**

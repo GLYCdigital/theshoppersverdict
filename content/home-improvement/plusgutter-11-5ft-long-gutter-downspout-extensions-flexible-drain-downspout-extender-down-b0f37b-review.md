@@ -1,4 +1,5 @@
 ---
+
 title: "plusgutter 11.5ft Long Gutter Downspout Extensions Flexible,"
 seo_title: "plusgutter 11.5ft Long Gutter Downspout Extensions Review"
 meta_description: "Our full plusgutter 11.5ft long gutter downspout extensions flexible, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F37BHL9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61b7dXKMF+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Standing water pooling against your foundation is one of those problems you don't notice until you're pricing basement waterproofing. The plusgutter 11.5ft Flexible Downspout Extension is a $26 fix that solves it — provided you understand what you're buying.

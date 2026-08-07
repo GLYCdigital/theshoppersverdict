@@ -1,4 +1,5 @@
 ---
+
 title: "AIPER Cordless Automatic Cleaner, Pool Vacuum with Auto- Par"
 seo_title: "AIPER Cordless Pool Vacuum Review: Auto-Park Tested (2026)"
 meta_description: "AIPER Cordless Automatic Pool Vacuum review: We test the Auto-Park feature, battery life, and cleaning power. See real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F2HR97XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JyqD4iZzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-Park function drives the unit to the waterline for easy retrieval — no fishing around the deep end"
   - "Cordless design with claimed 90-minute runtime covers most above-ground pools in a single charge"
   - "Weighs under 10 pounds, making it genuinely easy to lift in and out of the water"
-cons:
+cons: 
   - "3.6-star average from 180 ratings signals real inconsistency — some units fail within weeks"
   - "No wall-climbing capability; strictly a floor cleaner for flat-bottom pools"
   - "Filter basket is small and clogs quickly on heavy debris like leaves or sand"
+
 ---
 
 **The AIPER Cordless Automatic Pool Vacuum is the kind of product that makes you wonder why you didn't buy one sooner — until it doesn't work.**

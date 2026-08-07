@@ -1,23 +1,25 @@
 ---
+
 title: "FLZOSPER 6-32mm Metric Ratchet Wrench,Box End Head 72-Tooth"
 seo_title: "FLZOSPER 6-32mm Metric Ratchet Wrench Review: 72-Tooth Box End"
 meta_description: "Read our honest FLZOSPER 6-32mm metric ratchet wrench review. 72-tooth box end, full size range, real pros & cons. Is it worth your money? Find out."
 slug: "flzosper-6-32mm-metric-ratchet-wrench-box-end-head-72-tooth-ratcheting-b08yyp-review"
 image_alt: "FLZOSPER 6-32mm metric ratchet wrench with 72-tooth box end head, showing chrome vanadium steel construction and laser-etched size markings"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08YYPZ18J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Ohof+Yt1L._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Full 6-32mm coverage in one set — 17 wrenches, no gaps"  
   - "72-tooth mechanism gives a 5° swing arc for tight spaces"  
   - "Chrome vanadium steel with a matte finish that resists slipping"  
-cons:  
+cons: 
   - "Ratcheting head only on the box end; open end is non-ratcheting"  
   - "No case or rail included — you'll need to supply your own organization"
+
 ---
 
 You know that moment when you’re elbow-deep in an engine bay, and the bolt is exactly 4° past where your wrench will swing? That’s where the FLZOSPER 6-32mm metric ratchet wrench set earns its keep. This isn’t a gimmick piece — it’s a full 17-piece set that replaces both a standard wrench set and a decent ratchet for most metric work. At 4.7 stars from 235 buyers, it’s clearly doing something right. Here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering Aetherdrift Commander Deck"
 seo_title: "Magic: The Gathering Aetherdrift Commander Deck Review: V"
 meta_description: "Our full magic: the gathering aetherdrift commander deck review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DW6Y31Z8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bgPfN7zDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The Aetherdrift Commander Deck, specifically the **Eternal Might** precon, is the standout of the set — a surprisingly well-tuned Zombie tribal deck that works right out of the box. It's not perfect, but for $45–55, it's one of the best value precons Wizards has shipped in recent memory.

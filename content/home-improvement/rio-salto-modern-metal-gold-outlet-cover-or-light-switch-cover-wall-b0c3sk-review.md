@@ -1,4 +1,5 @@
 ---
+
 title: "Rio Salto Modern Metal Gold Outlet Cover or Light Switch Cov"
 seo_title: "Rio Salto Modern Metal Gold Outlet Cover or Light  Review"
 meta_description: "Our full rio salto modern metal gold outlet cover or light switch cov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C3SKBBSN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618dWdb0IjL._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're renovating a bathroom, upgrading a kitchen backsplash, or just tired of the same ivory plastic plates that came with your home, the Rio Salto Modern Metal Gold Outlet Cover catches your eye immediately. And for the most part, it delivers on that first impression.

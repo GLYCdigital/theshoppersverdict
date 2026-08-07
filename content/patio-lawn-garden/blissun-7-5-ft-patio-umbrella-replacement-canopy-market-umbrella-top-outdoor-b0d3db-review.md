@@ -1,4 +1,5 @@
 ---
+
 title: "Blissun 7.5 ft Patio Umbrella Replacement Canopy, Market Umb"
 seo_title: "Blissun 7.5 ft Patio Umbrella Canopy Review (2026): Worth It?"
 meta_description: "Blissun 7.5 ft patio umbrella replacement canopy review: fit, fabric quality, UV protection & real buyer feedback. Is it worth the money? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3DB32HV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xvHJ3JH7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 7.5 ft diameter replacement canopy that fits most standard market umbrella frames without modification"
   - "Fade-resistant, water-repellent polyester with UV protection—holds color after a full season in direct sun"
   - "Reinforced stitching at stress points and a sturdy pole ring; several buyers report it surviving windy days"
-cons:
+cons: 
   - "Only includes the canopy top—no pole, finial, or cross-brace hardware, so you need an existing frame"
   - "Color may appear slightly lighter in person than in product photos, especially the beige/tan option"
   - "Vent design lets some light through; not ideal if you want a completely opaque shade canopy"
+
 ---
 
 If your patio umbrella frame is still solid but the fabric is sun-bleached, torn, or just plain ugly, you’re staring at a $100+ problem with a $35 solution. The Blissun 7.5 ft Patio Umbrella Replacement Canopy is the kind of practical buy that makes you wonder why you didn't just replace the top years ago. But before you click add to cart, let's talk about whether it actually fits your specific frame — because that's the make-or-break detail here.

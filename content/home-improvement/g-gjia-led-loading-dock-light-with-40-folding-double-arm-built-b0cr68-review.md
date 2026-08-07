@@ -1,4 +1,5 @@
 ---
+
 title: "G GJIA LED Loading Dock Light with 40 inch  Folding Double Arm, B"
 seo_title: "G GJIA LED Dock Light Review: 40 inch  Folding Double Arm"
 meta_description: "G GJIA LED loading dock light review: 40 inch  folding double arm, 215+ ratings, 4.3 stars. Is this work light worth your money? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CR68N14B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lDLN8Gb-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-inch double folding arm gives 80 inches of total reach, letting you position light deep into trailers without moving the base"
   - "Dual-head LED design throws bright, even light across a full 8-foot trailer width with no dark spots"
   - "Spring-assisted arm holds position firmly — no sagging or drifting once you set it"
-cons:
+cons: 
   - "Mounting plate requires 4-bolt pattern that may not match existing dock light holes — you'll likely need to drill new ones"
   - "No built-in switch; you need external wiring or a separate wall switch to control it"
   - "Some reports of the LED driver humming at higher brightness levels in quiet environments"
+
 ---
 
 If you've ever wrestled a swing-arm dock light that sags after six months, you know the pain. The G GJIA LED Loading Dock Light with 40" Folding Double Arm is built to solve that specific problem — and for the most part, it does.

@@ -1,4 +1,5 @@
 ---
+
 title: "Albeaut Concealer Brush, Under Eye Makeup Small Angled Preci"
 seo_title: "Albeaut Concealer Brush Review: Precision Under-Eye Coverage"
 meta_description: "Read our honest Albeaut Concealer Brush review. Small angled design, precision tip, and real user feedback. See if this 4.6-star brush is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKZB9D9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uz4faMzwL._SL1500_.jpg"
-pros:
+pros: 
   - "Precision angled tip reaches inner corners and lash lines without smearing — no more concealer in the creases"
   - "Dense synthetic bristles deposit product evenly without absorbing it, so you use less concealer per application"
   - "Compact handle gives steady control for detailed work; works for spot concealing and brow cleanup too"
-cons:
+cons: 
   - "Small head means full-face concealing takes noticeably longer — this is a detail brush, not an all-over tool"
   - "Requires careful cleaning; product can cling to the base of the bristles if you don't wash it weekly"
+
 ---
 
 The under-eye area is unforgiving. Too much concealer and you're creasing by noon. Too little and you're still looking at shadows. The Albeaut Concealer Brush positions itself as the precision tool that threads that needle — and at 4.6 stars across 229 ratings, it's clearly earning its keep in a lot of makeup bags.

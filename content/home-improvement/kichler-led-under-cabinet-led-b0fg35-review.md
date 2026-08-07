@@ -1,4 +1,5 @@
 ---
+
 title: "Kichler LED Under Cabinet LED"
 seo_title: "Kichler LED Under Cabinet LED Review: Verdict | TSV"
 meta_description: "Our full kichler led under cabinet led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FG35TDG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C6gLsN9iL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Under-cabinet lighting is one of those upgrades people put off for years, then wonder why they waited. The Kichler LED Under Cabinet Light has 225 Amazon reviews sitting at a 4.5-star average, which tells you it's doing something right. But is it the right fixture for your kitchen? Here's what you need to know before you buy.

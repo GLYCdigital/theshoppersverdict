@@ -1,4 +1,5 @@
 ---
+
 title: "Kaytee Fiesta Conure Pet Bird Food, 4.5 Pound"
 seo_title: "Kaytee Fiesta Conure Pet Bird Food, 4.5 Pound Review: Ver"
 meta_description: "Our full kaytee fiesta conure pet bird food, 4.5 pound review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQ63VVH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YTAs5V6IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Kaytee Fiesta the best conure food for your bird? We dug into the ingredients, owner feedback, and real-world feeding habits to find out.**

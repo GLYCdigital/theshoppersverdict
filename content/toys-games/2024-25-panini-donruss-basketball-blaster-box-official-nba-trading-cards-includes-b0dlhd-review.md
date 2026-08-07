@@ -1,4 +1,5 @@
 ---
+
 title: "2024–25 Panini Donruss Basketball Blaster Box – Official"
 seo_title: "2024–25 Panini Donruss Blaster Box Review: Worth It?"
 meta_description: "Honest 2024–25 Panini Donruss Basketball Blaster Box review: hits, rookie cards, and value. See what 225+ buyers say before you rip."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLHDVX7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y4bbKtEXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Guaranteed 5 trading cards per pack with 4 packs per blaster — consistent 20-card rip with at least one insert or parallel per pack on average"
   - "Rated Rookie cards are the main draw; base set includes top 2024–25 draft class names like Zaccharie Risacher and Alexandre Sarr"
   - "Donruss Rated Rookies hold collector value years later — this is the entry-level box that historically produces breakout rookie cards"
-cons:
+cons: 
   - "No guaranteed autograph or memorabilia card in blaster format — you need a hobby box for those guaranteed hits"
   - "Base card quality is thin stock; corners can ding in shipping if the box isn't padded"
   - "Retail odds for numbered parallels are steep — most boxes yield base cards and one or two inserts only"
+
 ---
 
 **The $30 question: Is a Donruss blaster worth ripping?**

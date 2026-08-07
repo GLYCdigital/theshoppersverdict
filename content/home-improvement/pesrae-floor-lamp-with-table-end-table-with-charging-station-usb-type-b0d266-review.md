@@ -1,4 +1,5 @@
 ---
+
 title: "PESRAE Floor Lamp with Table, End Table with Charging Statio"
 seo_title: "PESRAE Floor Lamp with Table, End Table with Charg Review"
 meta_description: "Our full pesrae floor lamp with table, end table with charging statio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D266HNNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7121jwamt3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PESRAE Floor Lamp with Table: One Piece of Furniture, Three Jobs — Does It Actually Deliver?**

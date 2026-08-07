@@ -1,4 +1,5 @@
 ---
+
 title: "Sensodyne TOOTH_CLEANING_AGENT"
 seo_title: "Sensodyne TOOTH_CLEANING_AGENT Review: Verdict | TSV"
 meta_description: "Our full sensodyne tooth_cleaning_agent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CN4C3XK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N6NvjouZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sensodyne TOOTH_CLEANING_AGENT isn't your typical drugstore toothpaste — and that's exactly the point.**

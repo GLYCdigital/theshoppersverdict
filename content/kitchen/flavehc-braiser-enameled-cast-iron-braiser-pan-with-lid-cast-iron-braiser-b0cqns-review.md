@@ -1,4 +1,5 @@
 ---
+
 title: "Flavehc Braiser Enameled Cast Iron Braiser Pan with Lid, Cas"
 seo_title: "Flavehc Braiser Review: Enameled Cast Iron Pan Worth It?"
 meta_description: "Flavehc enameled cast iron braiser review: 5-qt Dutch oven performance, heat retention, durability, and value vs. Le Creuset. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQNS2R21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51p++-KDM8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 5-quart capacity with wide 11-inch cooking surface — sears 4 chicken thighs without crowding"
   - "Enamel coating is thick, glass-smooth, and survived 6 months of daily use with zero chips or crazing"
   - "Oven-safe to 500°F including the stainless steel knob — no fiddly knob-swapping"
-cons:
+cons: 
   - "Weighs 11.2 lbs empty — a genuine arm workout lifting from lower cabinets or filling with liquid"
   - "Light cream interior shows turmeric and tomato staining; needs baking soda paste to fully reset"
   - "Handles stay hot on gas stovetops — you'll need silicone covers or a towel every single time"
+
 ---
 
 If you've been eyeing a Le Creuset braiser but winced at the $300+ price tag, the Flavehc is the answer you've been looking for — with a few caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Not Your Mother's All Eyes On Me 3-in-1 Hair Styling Cream w"
 seo_title: "Not Your Mother's All Eyes On Me 3-in-1 Hair Styli Review"
 meta_description: "Our full not your mother's all eyes on me 3-in-1 hair styling cream w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP5NMSQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VMc40yjeL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the beauty-industry hype for a second. "3-in-1" usually means one product that does three things poorly. Not Your Mother's All Eyes On Me Hair Styling Cream is the exception — mostly. With a 4.5-star average across 225 ratings, this vegan, cruelty-free formula has earned a spot in the rotation for a lot of shoppers. The question is whether it earns one in yours.

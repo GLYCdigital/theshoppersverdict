@@ -1,4 +1,5 @@
 ---
+
 title: "INTEX 26700EP 10Ft X 30In Prism Frame Premium Above Ground S"
 seo_title: "INTEX 26700EP 10Ft X 30In Prism Frame Premium Abov Review"
 meta_description: "Our full intex 26700ep 10ft x 30in prism frame premium above ground s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSR52Q6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pvv3B3sWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a backyard that's become a kiddie-pool graveyard of punctured vinyl and warped frames, the INTEX 26700EP is the upgrade that actually holds up. This 10-foot by 30-inch Prism Frame pool sits in INTEX's premium line, and the difference isn't just cosmetic — though the grey basket-weave exterior is a welcome departure from the neon blue of cheaper models. With 215 ratings averaging 4.3 stars, it's clearly doing something right. But let's talk about what that rating doesn't tell you.

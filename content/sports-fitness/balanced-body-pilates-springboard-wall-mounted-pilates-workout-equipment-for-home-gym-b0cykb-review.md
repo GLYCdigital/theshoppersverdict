@@ -1,4 +1,5 @@
 ---
+
 title: "Balanced Body Pilates Springboard, Wall Mounted Pilates Work"
 seo_title: "Balanced Body Pilates Springboard Review: Wall-Mounted Reformer"
 meta_description: "Balanced Body Pilates Springboard review: wall-mounted reformer for home gyms. Compact, pro-grade resistance, 4.5★. See if it beats a full reformer."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYKB49FM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G1caJsaDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Commercial-grade maple platform and steel frame — not the wobbly folding junk you find at half the price"
   - "4 spring resistance levels (light to heavy) let you progress from rehab to advanced strength work without buying add-ons"
   - "Folds flat against wall when not in use, freeing floor space in apartments or small studios"
-cons:
+cons: 
   - "Installation requires solid wall studs and serious hardware — renters or drywall-only walls face real challenges"
   - "Springs are loud; you'll hear metallic clanking during transitions, which may bother shared-wall neighbors"
   - "Foot strap is basic and can slide during fast transitions; serious users may want the upgraded loop version"
+
 ---
 
 **Balanced Body Pilates Springboard Review: The Wall-Mounted Reformer That Delivers**

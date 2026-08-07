@@ -1,4 +1,5 @@
 ---
+
 title: "Tootsie Roll Sugar Free Dubble Bubble - Individually Wrapped"
 seo_title: "Tootsie Roll Sugar Free Dubble Bubble - Individual Review"
 meta_description: "Our full tootsie roll sugar free dubble bubble - individually wrapped review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PWR3PN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GHgg78GxL._SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: sugar-free bubble gum usually tastes like a chemistry experiment that went wrong. But this Dubble Bubble variant is the exception — and it's become a staple in my household for reasons that go beyond just "less sugar."

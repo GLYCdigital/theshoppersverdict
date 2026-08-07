@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur Pasta Flour Blend, Finely Ground, 3 lb,White"
 seo_title: "King Arthur Pasta Flour Blend, Finely Ground, 3 lb Review"
 meta_description: "Our full king arthur pasta flour blend, finely ground, 3 lb,white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D15B66LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CIQlS2hiL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If you've been rolling out pasta dough that fights back, cracks at the edges, or turns to glue in the pot, this is the fix. But it's not magic — and it's not cheap.**

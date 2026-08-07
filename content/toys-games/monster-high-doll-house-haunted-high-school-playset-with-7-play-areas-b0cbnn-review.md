@@ -1,4 +1,5 @@
 ---
+
 title: "Monster High Doll House, Haunted High School Playset with 7 "
 seo_title: "Monster High Doll House, Haunted High School Plays Review"
 meta_description: "Our full monster high doll house, haunted high school playset with 7  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBNNL9NB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KtxttKoYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most dollhouses under $100 are flimsy, one-note boxes that collapse under enthusiastic play. The Monster High Haunted High School Playset is not that. With a 4.7-star average across 235 ratings, this thing has earned its reputation — but it's not without quirks.

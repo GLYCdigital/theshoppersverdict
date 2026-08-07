@@ -1,4 +1,5 @@
 ---
+
 title: "Delta T2738-RB Lahara Roman Tub Trim"
 seo_title: "Delta T2738-RB Lahara Review: Pros, Cons & Verdict"
 meta_description: "Delta T2738-RB Lahara Roman Tub Trim review: Venetian Bronze finish, solid brass build, easy DIY install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07N96VV6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510sg7QlIUL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a durable Venetian Bronze finish that resists corrosion and fingerprints"
   - "Includes both a hand shower and 6-foot hose, saving you $80–$150 versus buying components separately"
   - "Compatible with Delta's In2ition dual-flow technology and most standard 3-hole 8-inch centerset tub configurations"
-cons:
+cons: 
   - "Requires a separate rough-in valve (sold separately), adding $80–$120 to your total project cost"
   - "Some buyers report the finish shows water spots more readily than chrome or stainless options"
+
 ---
 
 If you're remodeling a master bath and want a Roman tub faucet that looks like it belongs in a boutique hotel without paying boutique-hotel prices, the Delta T2738-RB Lahara is worth a serious look. This is the trim kit — the part you see and touch — for Delta's R1000 series rough-in valve, and at 4.6 stars across 229 Amazon ratings, it's clearly doing something right. But here's the catch: it's not a complete faucet. That distinction matters, so let's dig into what you're actually buying.

@@ -1,7 +1,8 @@
 ---
-title: "OKD Farmhouse Lift Top Coffee Table with Sliding Door, 48\" L"
+
+title: "OKD Farmhouse Lift Top Coffee Table with Sliding Door, 48\ L"
 seo_title: "OKD Farmhouse Lift Top Coffee Table with Sliding D Review"
-meta_description: "Our full okd farmhouse lift top coffee table with sliding door, 48\" l review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full okd farmhouse lift top coffee table with sliding door, 48\ l review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "okd-farmhouse-lift-top-coffee-table-with-sliding-door-48-large-rustic-b0dtpc-review"
 image_alt: "OKD Farmhouse Lift Top Coffee Table with Sliding Door, 48 Large Rustic Center Table with Hidden Storage Compartment, Lif"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTPCZ4NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rwoQ888lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: this is the coffee table you want if you work from your couch and hate visible clutter. The OKD Farmhouse Lift Top has been on my radar since it started racking up 4.4-star ratings, and after digging through 220 verified reviews plus specs, here's the real story.

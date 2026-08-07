@@ -1,7 +1,8 @@
 ---
-title: "RedLemon Bookcase with 2 File Drawers, 72\" Tall Farmhouse Bo"
-seo_title: "RedLemon Bookcase with 2 File Drawers, 72\" Tall Fa Review"
-meta_description: "Our full redlemon bookcase with 2 file drawers, 72\" tall farmhouse bo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "RedLemon Bookcase with 2 File Drawers, 72\ Tall Farmhouse Bo"
+seo_title: "RedLemon Bookcase with 2 File Drawers, 72\ Tall Fa Review"
+meta_description: "Our full redlemon bookcase with 2 file drawers, 72\ tall farmhouse bo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "redlemon-bookcase-with-2-file-drawers-72-tall-farmhouse-bookshlef-with-storage-b0dfm6-review"
 image_alt: "RedLemon Bookcase with 2 File Drawers, 72 Tall Farmhouse Bookshlef with Storage and Adjustable Shelves, 4 Tier Rustic Wo"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFM6ZSRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JUx8+JlYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 72-inch bookcase that tries to do everything — and mostly pulls it off**

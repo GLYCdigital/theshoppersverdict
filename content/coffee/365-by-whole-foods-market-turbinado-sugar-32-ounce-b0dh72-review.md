@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Turbinado Sugar, 32 Ounce"
 seo_title: "365 Whole Foods Turbinado Sugar Review: Coffee Sweetener"
 meta_description: "365 Whole Foods Turbinado Sugar review: 32 oz raw sugar crystals for coffee. Real taste tests, pros/cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH72PQXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wts4Vd4IL._SL1500_.jpg"
-pros:
+pros: 
   - "Large 32-ounce bag costs meaningfully less per ounce than small retail jars of turbinado — about half the price of Sugar in the Raw equivalents"
   - "Coarse golden crystals dissolve slower than white sugar, giving you a gentle sweetness that doesn't spike and crash mid-cup"
   - "Minimally processed — retains natural molasses content, which adds a faint caramel note that complements dark roasts"
-cons:
+cons: 
   - "Crystals are coarse enough that they don't fully dissolve in cold brew or iced coffee — you'll get grit at the bottom of the glass"
   - "Resealable bag is flimsy; the zipper tears after a few weeks of regular use, so transfer to a jar or clip the top"
   - "No measuring scoop included — you'll need your own spoon, and the large opening makes overscooping easy"
+
 ---
 
 **Turbinado sugar is the quiet workhorse of the coffee bar.** It's what cafes use when they want sweetness without the cloying simplicity of white sugar — that faint molasses undertone that makes a dark roast taste more complex. The 365 by Whole Foods Market version gives you a full 32 ounces of it for roughly what you'd pay for a 16-ounce jar of the name-brand stuff. That alone earns attention.

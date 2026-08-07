@@ -1,4 +1,5 @@
 ---
+
 title: "KRUPS Simply Brew Stainless Steel Drip Coffee Maker"
 seo_title: "KRUPS Simply Brew Stainless Steel Drip Coffee Make Review"
 meta_description: "Our full krups simply brew stainless steel drip coffee maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0FHYKRX6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-TwAT55GL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KRUPS Simply Brew looks like the answer to a common problem: You want a no-fuss drip machine that doesn't scorch your coffee on a hot plate. The double-wall stainless steel thermal carafe promises hours of hot coffee without the burnt aftertaste. In practice? It's a mixed bag — and the 3.3-star average across 165 ratings tells you real buyers feel the same way.

@@ -1,4 +1,5 @@
 ---
+
 title: "ORIJEN Small Breed Dog Food & Puppy"
 seo_title: "ORIJEN Small Breed Dog Food & Puppy Review: Verdict | TSV"
 meta_description: "Our full orijen small breed dog food & puppy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3PGXKHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jen1eMq+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: ORIJEN isn't cheap, and it doesn't pretend to be. But if you've got a Yorkie, a Chihuahua, a Frenchie, or a puppy from a small breed, this food earns its premium price tag in ways that matter — and falls short in a few ways you should know about before checkout.

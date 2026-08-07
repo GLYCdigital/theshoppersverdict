@@ -1,4 +1,5 @@
 ---
+
 title: "Crafti Ceremonial Grade Organic Matcha"
 seo_title: "Crafti Ceremonial Grade Organic Matcha Review: Worth It?"
 meta_description: "Honest Crafti Ceremonial Grade Organic Matcha review: taste, texture, sourcing, and value. See if this 4.4-star matcha deserves your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DBJ4326D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yrXK44pEL._SL1500_.jpg"
-pros:
+pros: 
   - "Vibrant, deep green color indicating proper shading and high chlorophyll content"
   - "Smooth, umami-forward flavor with zero bitterness, even when whisked with water alone"
   - "Resealable, opaque packaging that blocks light — actually protects freshness"
-cons:
+cons: 
   - "No harvest date printed on the package, so you can't verify freshness before buying"
   - "Fine powder can clump if you don't sift it first; a bamboo whisk is nearly mandatory"
   - "Price per gram runs higher than comparable ceremonial grades from Japanese direct-import brands"
+
 ---
 
 Let me be blunt: most matcha sold on Amazon is garbage. It's dull brownish-green, tastes like grass clippings, and turns bitter the second you look at it wrong. So when a 4.4-star organic ceremonial grade shows up, I'm skeptical but hopeful. After testing Crafti's offering for two weeks across different preparations, here's the honest breakdown.

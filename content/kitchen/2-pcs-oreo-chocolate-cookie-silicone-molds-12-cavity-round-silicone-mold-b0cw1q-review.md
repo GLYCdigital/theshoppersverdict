@@ -1,4 +1,5 @@
 ---
+
 title: "2 Pcs Oreo Chocolate Cookie Silicone Molds, 12-Cavity Round"
 seo_title: "Oreo Cookie Silicone Molds Review: 2-Pack, 12-Cavity"
 meta_description: "Honest review of the 2-pack Oreo silicone molds. Do they capture the iconic cookie look? We tested flexibility, release, and cleanup."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CW1QG23Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oDcuyDibL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Both wafers and cream filling are molded separately, so you get authentic sandwich-cookie depth instead of a flat disc"
   - "Food-grade silicone is thick enough to hold shape but flexible enough for clean one-piece release"
   - "Two molds included means 24 cavities total — enough for a full batch without washing mid-project"
-cons:
+cons: 
   - "No instructions or recipe card included; beginners will need to search for compatible chocolate setting times"
   - "Cavities are on the smaller side (about 1.5 inches) — too small for standard-size truffles if that's your plan"
+
 ---
 
 If you've ever tried to make chocolate cookies that actually look like an Oreo — with that distinct waffle pattern and the cream center peeking out — you know it's nearly impossible freehand. This two-pack of silicone molds solves that problem directly. Each mold gives you 12 cavities with separate recesses for the chocolate wafer and the cream filling, so your finished pieces have real depth instead of looking like flat buttons.

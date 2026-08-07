@@ -1,4 +1,5 @@
 ---
+
 title: "COACH Floral 2 Piece Eau de Parfum Gift Set (Eau de Parfum S"
 seo_title: "COACH Floral 2-Piece Gift Set Review: Worth It? (2026)"
 meta_description: "Honest COACH Floral 2-piece Eau de Parfum gift set review: scent longevity, value, and who should buy it. 4.7-star rated. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4VS44WL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sxOcqt6qL._SL1500_.jpg"
-pros:
+pros: 
   - "Two full-size products (3.3 oz EDP + 2.6 oz body lotion) with the same floral signature scent — rare value at this price point"
   - "COACH Floral's pear and pink peony notes give it a fresh, office-safe profile that layers cleanly without being cloying"
   - "The lotion actually moisturizes well (shea butter base) rather than being a thin afterthought like most gift-set companions"
-cons:
+cons: 
   - "Longevity is moderate — expect 4-6 hours on skin before needing a reapply, not the all-day wear some expect from a designer EDP"
   - "The scent is linear; it doesn't evolve much from opening to dry-down, which may disappoint those who prefer complex fragrance journeys"
+
 ---
 
 You're looking at a gift set that solves the two biggest problems with buying fragrance online: guessing if the scent works on your skin chemistry, and overpaying for a single bottle that might miss. The COACH Floral 2-Piece Eau de Parfum Gift Set bundles a 3.3 oz bottle of the signature EDP with a 2.6 oz body lotion in the same scent. At the typical $80-90 street price, you're effectively getting the lotion free — not a bad deal when the perfume alone normally runs $75+.

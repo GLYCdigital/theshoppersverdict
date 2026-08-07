@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco Lighting 4 Inch and 5/6 Inch Baffle Selectable Retrofi"
 seo_title: "Sunco Lighting 4 Inch and 5/6 Inch Baffle Selectab Review"
 meta_description: "Our full sunco lighting 4 inch and 5/6 inch baffle selectable retrofi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9BYKV2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NMMoJXjrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about recessed lighting retrofits: most are either cheap plastic junk that buzzes or overpriced commercial units that cost more than a new fixture. The Sunco Baffle Selectable sits in the middle, and after 225 ratings holding a 4.5-star average, it's clearly doing something right. Here's what I found after digging into the specs and real owner feedback.

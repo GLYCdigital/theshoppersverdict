@@ -1,4 +1,5 @@
 ---
+
 title: "ABET Bar Stools Counter Height Chair, 27 inch  Backless Farmhouse"
 seo_title: "ABET Bar Stools Review: 27 inch  Backless Farmhouse Counter Chairs"
 meta_description: "Honest ABET bar stools review: 27 inch  backless farmhouse counter chairs. Build quality, sizing, real buyer feedback, and who should buy. 4.3/5 rating."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D26885NM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81X4vYwXI0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid acacia wood seat with a hand-rubbed finish that holds up to daily use"
   - "Built-in footrest bar adds genuine comfort for a backless design"
   - "Assembles in under 10 minutes with only four bolts — no tools needed"
-cons:
+cons: 
   - "No padding means hard surfaces for extended sitting sessions"
   - "Paint on metal legs can chip if you drag them instead of lifting"
+
 ---
 
 If you’re shopping for counter-height seating, you’ve likely hit the same wall I have: most backless stools look identical, feel flimsy, and wobble after three months. The ABET 27" Backless Farmhouse stool doesn’t reinvent the wheel — but it does something more valuable. It gets the basics right, at a price that won’t make you wince. After digging through 215 ratings and the spec sheet, here’s what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dell ECT1250 Tower Desktop Computer - Intel Core Ultra 5 225 inch"
 seo_title: "Dell ECT1250 Tower Desktop Review: Core Ultra 5 Value"
 meta_description: "Dell ECT1250 Tower Desktop with Intel Core Ultra 5 225 review: performance, build quality, and who should buy it. Honest pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXZZB75D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jcbpzDjPL._AC_SL1450_.jpg"
-pros:
+pros: 
   - "Core Ultra 5 225 delivers genuine multi-core muscle for office workloads without the power draw of older i7s"
   - "Tool-less chassis with easy-access side panel — actually upgradeable RAM and storage"
   - "Quiet thermals under sustained load; fans ramp up only during heavy multi-tasking"
-cons:
+cons: 
   - "Integrated Intel UHD graphics are fine for spreadsheets, useless for gaming or video editing"
   - "No USB-C on the front panel — minor but annoying for modern peripherals"
   - "Dell's bloatware (McAfee trial, Dell Optimizer) needs a 15-minute cleanup on first boot"
+
 ---
 
 If you're shopping for an office tower that won't feel ancient in three years, the Dell ECT1250 deserves a hard look. This isn't a flashy machine — it's a workhorse with the new Intel Core Ultra 5 225 under the hood, and that chip matters more than the model number suggests.

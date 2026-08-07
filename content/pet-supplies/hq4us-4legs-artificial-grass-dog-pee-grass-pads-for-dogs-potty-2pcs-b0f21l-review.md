@@ -1,4 +1,5 @@
 ---
+
 title: "HQ4US 4LEGS Artificial Grass, Dog Pee Grass Pads for Dogs Po"
 seo_title: "HQ4US 4LEGS Artificial Grass, Dog Pee Grass Pads f Review"
 meta_description: "Our full hq4us 4legs artificial grass, dog pee grass pads for dogs po review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F21LNXCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-jIINJaRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of shredded newspaper, soggy puppy pads, and the smell of ammonia hitting you every time you walk in the door, the HQ4US 4LEGS Artificial Grass pads deserve a hard look. At 4.5 stars from 225 Amazon ratings, this two-pack of synthetic turf pads is aimed squarely at apartment dwellers, balcony pet parents, and anyone crate-training a puppy who hasn't quite grasped the "outside" concept yet.

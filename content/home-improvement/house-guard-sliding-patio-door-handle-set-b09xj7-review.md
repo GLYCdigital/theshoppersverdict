@@ -1,4 +1,5 @@
 ---
+
 title: "House Guard Sliding Patio Door Handle Set"
 seo_title: "House Guard Sliding Patio Door Handle Set Review: Verdict"
 meta_description: "Our full house guard sliding patio door handle set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09XJ7RY3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-1FLu+O4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The House Guard Sliding Patio Door Handle Set** solves a problem most homeowners don't think about until it's too late: that flimsy, plastic handle on your sliding glass door that wiggles, sticks, or has a lock so worn you could open it with a credit card. This is the replacement you buy when you're done being annoyed.

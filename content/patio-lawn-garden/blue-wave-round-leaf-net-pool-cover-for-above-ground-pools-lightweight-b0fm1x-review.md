@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Wave Round Leaf Net Pool Cover for Above-Ground Pools"
 seo_title: "Blue Wave Leaf Net Pool Cover Review: Lightweight & Durable"
 meta_description: "Honest Blue Wave round leaf net pool cover review for above-ground pools. Real pros, cons, and buying advice for fall leaf protection."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FM1XFFHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mugns1DlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight mesh design lets rainwater drain through, preventing sagging and algae buildup on the cover surface"
   - "The cinch cord around the perimeter cinches tight, keeping the net secured even through moderate wind gusts"
   - "Round shape with reinforced edge stitching holds up across multiple seasons without tearing at stress points"
-cons:
+cons: 
   - "Does not block sunlight — algae will still grow in the water if you skip chemical treatment"
   - "The included stakes are basic plastic; most buyers will want to upgrade to metal anchors for windy regions"
+
 ---
 
 Let’s be direct: if you own an above-ground pool, you already know the fall ritual. You spend an afternoon skimming, balancing chemicals, and then you throw a tarp over the whole thing. Come spring, you peel it back to find a swamp. That’s where the Blue Wave Round Leaf Net Pool Cover comes in — and it’s not trying to be your winter cover. It’s a leaf net, and it does that job very well.

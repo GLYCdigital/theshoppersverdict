@@ -1,4 +1,5 @@
 ---
+
 title: "Watson & Whitely Genuine Leather Power Recliner Chairs for A"
 seo_title: "Watson & Whitely Genuine Leather Power Recliner Ch Review"
 meta_description: "Our full watson & whitely genuine leather power recliner chairs for a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3QQWC7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MqQHrTshL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The Watson & Whitely Genuine Leather Power Recliner is the rare recliner that actually delivers on the "wall hugger" promise while using real leather — not the bonded stuff that peels in two years. At 4.6 stars from 229 ratings, it's earning its reputation, but it's not perfect. Here's the honest breakdown.

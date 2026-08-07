@@ -1,4 +1,5 @@
 ---
+
 title: "Barilla Protein+ Elbows Pasta, 14.5 Oz"
 seo_title: "Barilla Protein+ Elbows Pasta Review: Worth It? (2026)"
 meta_description: "Barilla Protein+ Elbows Pasta review: 4.8/5 stars from 240+ buyers. Does it taste like regular pasta? Texture, protein content, and cooking tips inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FC2CYFNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eeSxvybcL._SL1500_.jpg"
-pros:
+pros: 
   - "10g protein per 2oz serving from lentils, chickpeas, and peas — no protein powder aftertaste"
   - "Holds shape well in soups and baked dishes; doesn't turn to mush like some legume pastas"
   - "Cooks in 8 minutes, same as regular elbows — no soaking or special handling required"
-cons:
+cons: 
   - "Noticeably different mouthfeel — slightly firmer and less tender than traditional semolina elbows"
   - "Box is only 14.5 oz vs. the standard 16 oz, so you'll pay more per pound for the protein boost"
   - "Best texture at al dente; overcooking by 2+ minutes makes it unpleasantly chewy"
+
 ---
 
 # Barilla Protein+ Elbows: The High-Protein Pasta That Doesn't Taste Like Cardboard

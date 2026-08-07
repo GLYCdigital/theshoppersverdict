@@ -1,4 +1,5 @@
 ---
+
 title: "Italian Brainrot 2Pcs Tralalero Tralala and Tung Tung Tung S"
 seo_title: "Italian Brainrot 2Pcs Tralalero Tralala & Tung Tung Tung S Review"
 meta_description: "Honest review of the Italian Brainrot 2Pcs meme toy set — Tralalero Tralala and Tung Tung Tung S. Build quality, sound, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FC86GBLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mnQZI1dIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Loud, crisp sound playback that captures the meme audio accurately without distortion"
   - "Compact 3-inch size fits easily in pockets, bags, or as a desk accessory"
   - "Sturdy ABS plastic shell survives drops and rough handling from kids and adults alike"
-cons:
+cons: 
   - "Sound quality is intentionally lo-fi — purists wanting studio-grade audio will be disappointed"
   - "No volume control or mute switch; it's full blast or nothing, which gets old fast"
+
 ---
 
 If you know, you know. The "Tralalero Tralala" and "Tung Tung Tung S" sounds have taken over group chats, TikTok feeds, and office Slack channels. Now they're physical objects you can hold, press, and weaponize against your coworkers. The Italian Brainrot 2Pcs set packages both viral audio clips into a pair of palm-sized buttons, and at a 4.7-star average across 235 ratings, it's clearly hitting the mark for meme enthusiasts.

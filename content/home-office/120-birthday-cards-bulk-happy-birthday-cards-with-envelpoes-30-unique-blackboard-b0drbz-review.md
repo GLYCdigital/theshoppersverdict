@@ -1,4 +1,5 @@
 ---
+
 title: "120 Birthday Cards Bulk- Happy Birthday Cards with Envelpoes"
 seo_title: "120 Birthday Cards Bulk Review: Worth It? (2026)"
 meta_description: "Are 120 bulk birthday cards with envelopes worth it? Read our honest review covering card quality, envelope fit, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRBZFZ8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91UJrRDnYVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "30 unique blackboard-style designs means no two recipients get the same card"
   - "Envelopes included and actually fit — no frustrating size mismatches"
   - "Cardstock is thick enough to feel substantial without being bulky to store"
-cons:
+cons: 
   - "Blackboard aesthetic leans casual — not ideal for milestone birthdays like 50th or 60th"
   - "Interior is blank, so you'll want your own pens that write well on the textured surface"
+
 ---
 
 Let's be honest: buying 120 birthday cards in bulk feels like a decision you make once and regret for a decade if you get it wrong. The good news? This set from the blackboard collection is one of the rare bulk purchases that actually makes sense for offices, small businesses, and families who send a lot of mail.

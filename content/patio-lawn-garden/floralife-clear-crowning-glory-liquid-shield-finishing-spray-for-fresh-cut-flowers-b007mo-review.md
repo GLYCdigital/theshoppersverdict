@@ -1,4 +1,5 @@
 ---
+
 title: "FloraLife Clear Crowning Glory - Liquid Shield Finishing Spr"
 seo_title: "FloraLife Crowning Glory Review: Liquid Shield Finish Spray"
 meta_description: "Read our FloraLife Clear Crowning Glory review: Does this liquid shield finishing spray extend fresh-cut flower life? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B007MO4LTI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ngMzzxu8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Visible glossy finish that makes petals look freshly cut for days, even on delicate blooms like roses and tulips"
   - "Concentrated formula — one 16oz bottle treats roughly 30-40 full arrangements, so the per-use cost is pennies"
   - "Dries clear without residue or stickiness, so it won't attract dust or leave white marks on dark petals"
-cons:
+cons: 
   - "The sprayer nozzle clogs if you don't rinse it after each use — a minor annoyance for a product at this price point"
   - "Strong chemical odor during application that lingers for about 10-15 minutes, so you'll want ventilation"
+
 ---
 
 # FloraLife Clear Crowning Glory: The Florist's Secret Weapon or Overhyped Spray?

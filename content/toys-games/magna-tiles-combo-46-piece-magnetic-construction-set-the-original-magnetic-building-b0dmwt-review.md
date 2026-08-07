@@ -1,4 +1,5 @@
 ---
+
 title: "MAGNA-TILESÂ® Combo 46-Piece Magnetic Construction Set, The "
 seo_title: "MAGNA-TILESÂ® Combo 46-Piece Magnetic Construction Review"
 meta_description: "Our full magna-tilesâ® combo 46-piece magnetic construction set, the  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DMWTNK5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QsLdLoqvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Magnetic Tile That Made Every Other Set Feel Like a Knockoff

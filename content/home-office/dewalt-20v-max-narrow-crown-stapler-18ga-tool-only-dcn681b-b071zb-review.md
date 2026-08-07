@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* Narrow Crown Stapler, 18GA, Tool Only (DCN68"
 seo_title: "DEWALT DCN681B Stapler Review: 18GA Cordless Power"
 meta_description: "DEWALT 20V MAX 18GA narrow crown stapler review: real performance, battery life, jams, and who should buy. 4.7/5 rating, honest verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B071ZBRNCJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615cnPlXAFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - Drives 18GA narrow crown staples from 1/2\" to 1-1/2\" with consistent depth control via the tool-free adjustable nose
   - "Brushless motor delivers real power on a 20V battery — no compressor, no hose, no noise"
   - "Dry-fire lockout prevents wasted staples and protects the driver blade"
-cons:
+cons: 
   - "Tool-only means you need an existing DEWALT 20V battery and charger — adds cost if you're new to the platform"
   - "Slightly nose-heavy and bulky compared to pneumatic staples; overhead work gets tiring"
   - "Jam clearing requires removing two screws — not tool-free like some competitors"
+
 ---
 
 Let's cut through the specs. The DEWALT DCN681B is a cordless narrow crown stapler that promises to replace your pneumatic setup for trim, cabinetry, and furniture work. After digging through 235 ratings and the technical details, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "TOPENS PW302 Dual Swing Gate Opener Light Duty Automatic Gat"
 seo_title: "TOPENS PW302 Dual Swing Gate Opener Light Duty Aut Review"
 meta_description: "Our full topens pw302 dual swing gate opener light duty automatic gat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08VJ7CQBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sK7XakppL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TOPENS PW302 occupies a strange spot in the gate opener market. It's priced like a budget unit, yet it brings dual-arm operation, solar compatibility, and a brushless motor — features you'd typically pay double for. But "light duty" isn't a marketing disclaimer here; it's a hard engineering limit. Let's break down whether this opener belongs on your driveway.

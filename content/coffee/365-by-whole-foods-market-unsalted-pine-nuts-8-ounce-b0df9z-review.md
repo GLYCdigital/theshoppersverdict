@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Unsalted Pine Nuts, 8 Ounce"
 seo_title: "365 Whole Foods Pine Nuts Review: 8-Ounce Unsalted"
 meta_description: "365 by Whole Foods unsalted pine nuts review: flavor, texture, and value. See how this 8-ounce jar performs for pesto, baking, and snacking."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9ZRPFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512Yw1ChitL._SL1000_.jpg"
-pros:
+pros: 
   - "Consistently fresh, buttery flavor with no rancid batches reported — rare for pine nuts at this price point"
   - "Unsalted and unroasted, giving you full control over seasoning and toast timing for recipes"
   - "8-ounce jar seals well and resists staleness for weeks if stored properly"
-cons:
+cons: 
   - "Pack size is small relative to price — pine nuts are inherently costly, and this jar won't last heavy users long"
   - "No resealable feature beyond the standard screw lid; if you lose the lid, the nuts go stale fast"
+
 ---
 
 Let’s be honest: pine nuts are the truffle oil of the nut world — expensive, delicate, and worth every penny when handled right. The 365 by Whole Foods Market Unsalted Pine Nuts come in an 8-ounce jar that looks unassuming, but the 4.7-star average across 235 ratings suggests this is one of the more reliable options in a category plagued by rancidity complaints.

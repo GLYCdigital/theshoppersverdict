@@ -1,4 +1,5 @@
 ---
+
 title: "MAXYOYO Convertible Sofa Bed, Fold Out Single Sleeper Sofa w"
 seo_title: "MAXYOYO Convertible Sofa Bed, Fold Out Single Slee Review"
 meta_description: "Our full maxyoyo convertible sofa bed, fold out single sleeper sofa w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F386KNWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RrrGv1gsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The MAXYOYO Convertible Sofa Bed is a genuinely useful space-saver that does three jobs adequately rather than one job brilliantly. For under $200, it's a smart buy for guest rooms, dorms, and apartments — provided you're not expecting a cloud-like mattress.

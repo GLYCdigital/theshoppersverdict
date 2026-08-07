@@ -1,4 +1,5 @@
 ---
+
 title: "CatScratcherParent"
 seo_title: "CatScratcherParent Review: Worth It for Pet Owners?"
 meta_description: "CatScratcherParent review: 4.7★ rated cat scratching solution. Is it durable, cat-approved, and worth your money? Read our honest breakdown."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM37FMZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xqHJec-PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cardboard material is thick and dense enough to handle aggressive dig-and-scratch behavior from large cats"
   - "Includes catnip packet — a small touch that actually helps redirect scratching within 48 hours"
   - "Reversible design doubles the usable surface life before you need a replacement"
-cons:
+cons: 
   - "Cardboard fibers shed noticeably for the first week — expect to vacuum daily if your cat goes hard"
   - "No wall-mount option or rubber backing, so it slides on hardwood floors during vigorous scratching sessions"
+
 ---
 
 Let's be honest about cat scratchers: most are flimsy cardboard rectangles that your cat ignores in favor of your sofa. The CatScratcherParent is trying to change that narrative, and with a 4.7-star average across 235 ratings, it might actually be doing so. Here's the full story.

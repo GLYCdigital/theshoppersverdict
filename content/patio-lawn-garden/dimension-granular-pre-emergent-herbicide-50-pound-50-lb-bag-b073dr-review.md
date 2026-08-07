@@ -1,4 +1,5 @@
 ---
+
 title: "Dimension Granular Pre-Emergent Herbicide - 50 Pound - 50 LB"
 seo_title: "Dimension Granular Pre-Emergent Herbicide Review (50 LB)"
 meta_description: "Honest Dimension Granular Pre-Emergent Herbicide 50 LB review: coverage, crabgrass control, application tips, and who should buy this dithiopyr-based product."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B073DR4FKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IrUXJh5mL._SL1500_.jpg"
-pros:
+pros: 
   - "Controls crabgrass AND other grassy weeds for up to 4 months with a single application"
   - "Contains dithiopyr, which provides early post-emergent control on young crabgrass — not just prevention"
   - "50 lb bag covers 16,000 sq ft at standard rates — enough for 2-3 applications on a typical suburban lawn"
-cons:
+cons: 
   - "Must be watered in within 14 days to activate — forgetting this step wastes the entire application"
   - "Not effective on established broadleaf weeds like dandelions or clover — you'll still need a separate herbicide"
   - "Heavy 50 lb bag with no handle makes transport and pouring awkward for older users"
+
 ---
 
 # Dimension Granular Pre-Emergent Herbicide Review: The 50 LB Bag That Actually Pays Off

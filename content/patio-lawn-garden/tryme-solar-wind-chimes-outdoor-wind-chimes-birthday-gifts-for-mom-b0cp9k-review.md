@@ -1,4 +1,5 @@
 ---
+
 title: "Tryme Solar Wind Chimes Outdoor Wind Chimes Birthday Gifts f"
 seo_title: "Tryme Solar Wind Chimes Outdoor Wind Chimes Birthd Review"
 meta_description: "Our full tryme solar wind chimes outdoor wind chimes birthday gifts f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP9KH8XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71goPMuYNWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A solar wind chime that actually puts the "solar" to work**

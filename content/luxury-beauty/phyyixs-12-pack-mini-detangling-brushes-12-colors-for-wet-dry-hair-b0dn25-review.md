@@ -1,4 +1,5 @@
 ---
+
 title: "Phyyixs 12 Pack Mini Detangling Brushes - 12 Colors for Wet "
 seo_title: "Phyyixs 12 Pack Mini Detangling Brushes - 12 Color Review"
 meta_description: "Our full phyyixs 12 pack mini detangling brushes - 12 colors for wet  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN255JWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M0iQuinVL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the last detangling brush you'll ever need to buy? Probably, if you're tired of hunting for a brush that actually works on wet hair without turning your morning routine into a wrestling match.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Arteck Backlit USB Wired Full Size Keyboard with Media Hotke"
 seo_title: "Arteck Backlit USB Keyboard Review: Full-Size & Reliable"
 meta_description: "Arteck Backlit USB wired full-size keyboard review: backlit keys, media shortcuts, and quiet typing. Is it worth it? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09STTTKBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y1XHhn2pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-level backlighting with adjustable brightness — rare at this price point"
   - "Quiet, low-profile scissor-switch keys that don't bottom out harshly"
   - "Dedicated media hotkey row that actually works out of the box on Windows"
-cons:
+cons: 
   - "Backlight is white-only; no color options if you want RGB flair"
   - "Cable is fixed and non-detachable — minor inconvenience for cable management"
+
 ---
 
 Most keyboards under $30 make you choose: backlit *or* quiet *or* full-size. The Arteck Backlit USB Wired Full Size Keyboard tries to give you all three without asking you to remortgage your desk setup. And for the most part, it delivers.

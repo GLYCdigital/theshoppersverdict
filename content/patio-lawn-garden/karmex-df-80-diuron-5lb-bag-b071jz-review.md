@@ -1,4 +1,5 @@
 ---
+
 title: "Karmex DF 80% Diuron 5lb Bag"
 seo_title: "Karmex DF 80% Diuron 5lb Bag Review: Verdict | TSV"
 meta_description: "Our full karmex df 80% diuron 5lb bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B071JZL3TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BTIlMaFbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a professional-grade herbicide that works exactly as labeled — but it will punish careless application.**

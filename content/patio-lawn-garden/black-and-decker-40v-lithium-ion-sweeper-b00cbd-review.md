@@ -1,4 +1,5 @@
 ---
+
 title: "Black and Decker 40V Lithium Ion Sweeper"
 seo_title: "Black and Decker 40V Sweeper Review: Does It Work?"
 meta_description: "Black and Decker 40V Lithium Ion Sweeper review: real performance on driveways, patios & garages. See what 225 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00CBDO0HI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51neioPSa1L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Battery and charger included — no hidden costs at this price point"
   - "Brushless motor delivers consistent power without the maintenance of brushed units"
   - "Tool-free height adjustment and pivoting brush reach under low furniture and edges"
-cons:
+cons: 
   - "Plastic housing feels less robust than commercial-grade sweepers"
   - "Not designed for wet leaves or heavy mud — dry debris only"
   - "Battery runtime drops noticeably in thick, matted fall leaves"
+
 ---
 
 If you've ever wrestled a push broom across a two-car driveway only to watch dust resettle five minutes later, the Black and Decker 40V Lithium Ion Sweeper is aimed squarely at your frustration. This is not a leaf blower and not a shop vac — it's a powered push sweeper that flicks debris into a rear collection tray as you walk. With 225 ratings holding a 4.5-star average, it's clearly doing something right. The question is whether that something matches your specific yard situation.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS Light Sensor Socket, Dusk to Dawn Sensor Socket, L"
 seo_title: "DEWENWILS Dusk to Dawn Sensor Socket Review (2026): Worth It?"
 meta_description: "Honest DEWENWILS light sensor socket review: automatic dusk-to-dawn operation, build quality, and real buyer feedback. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV7HNVTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jdOo0CJdL._SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn automation with a built-in photocell — no timers, no smart home hub, no app required"
   - "Fits standard E26 sockets and accepts any E26 bulb up to 100W (LED or incandescent), so you can keep your existing bulbs"
   - "Compact, low-profile design that doesn't protrude awkwardly from the socket — works in ceiling fixtures, porch lights, and lamp bases"
-cons:
+cons: 
   - "The sensor can be triggered by nearby light sources (streetlights, porch lights) causing the bulb to stay off or flicker in some installations"
   - "No adjustable sensitivity or delay settings — you get fixed behavior, which may not suit every location"
   - "Plastic housing feels slightly less rugged than metal alternatives, though it's fine for indoor or covered outdoor use"
+
 ---
 
 If you've ever left your porch light burning all day or come home to a dark driveway because you forgot to flip the switch, the DEWENWILS Light Sensor Socket is a $10-ish fix that quietly solves a dumb problem. This isn't a smart bulb that needs Wi-Fi, an app, or a bridge. It's a passive device: screw it into any standard E26 socket, screw in any bulb you already own, and the built-in photocell handles the rest. At 4.4 stars across 220 ratings, it's a solid performer — but it's not without quirks.

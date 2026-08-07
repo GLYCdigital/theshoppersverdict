@@ -1,4 +1,5 @@
 ---
+
 title: "BMOUO Case for iPad 6th/5th Generation 9.7 inch  Inch 2018/2017 inch"
 seo_title: "BMOUO iPad 9.7 Case Review: 2018/2017 Model Protection"
 meta_description: "BMOUO iPad 6th/5th Gen 9.7-inch case review: durable build, multi-angle stand, auto wake/sleep. Is it worth it? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFLMYT9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N+8wDdepL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and snug fit specifically for the 9.7-inch iPad (2018/2017) — no wobble, no blocked ports"
   - "Multi-angle folding front cover functions as a stable kickstand for typing or viewing, with magnetic auto wake/sleep"
   - "Shock-absorbing silicone edges with raised bezels protect screen and camera from drops and flat-surface scratches"
-cons:
+cons: 
   - "Not compatible with newer iPad generations — verify your model number before buying to avoid a return"
   - "Polyurethane exterior shows fingerprints and smudges more readily than textured or leather-finish cases"
   - "No Apple Pencil holder or storage slot, which is a miss for note-takers using the 2018 iPad"
+
 ---
 
 If you're still rocking a 9.7-inch iPad from 2017 or 2018, you already know the struggle: most accessory makers have moved on to newer models. That's exactly why the BMOUO case deserves a hard look. It's built specifically for the iPad 6th and 5th generation — not a one-size-fits-all compromise — and with 229 ratings averaging 4.6 stars, it's clearly filling a real gap in the market.

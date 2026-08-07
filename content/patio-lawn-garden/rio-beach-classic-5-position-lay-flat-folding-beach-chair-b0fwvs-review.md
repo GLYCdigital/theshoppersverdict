@@ -1,4 +1,5 @@
 ---
+
 title: "Rio Beach Classic 5-Position Lay-Flat Folding Beach Chair"
 seo_title: "Rio Beach Classic 5-Position Lay-Flat Folding Beac Review"
 meta_description: "Our full rio beach classic 5-position lay-flat folding beach chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FWVS7GTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JU+H5Dt0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the Rio Beach Classic 5-Position Lay-Flat Folding Beach Chair: this is the chair you see at every beach, tailgate, and outdoor concert for a reason. It's not flashy, it doesn't have cupholders, and it won't massage your back. But it does one thing exceptionally well — it lets you lie flat and actually relax.

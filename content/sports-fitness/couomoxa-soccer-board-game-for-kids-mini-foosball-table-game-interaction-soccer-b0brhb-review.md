@@ -1,4 +1,5 @@
 ---
+
 title: "COUOMOXA Soccer Board Game for Kids: Mini Foosball Table Gam"
 seo_title: "COUOMOXA Soccer Board Game Review: Mini Foosball for Kids"
 meta_description: "COUOMOXA mini foosball table review: portable soccer board game for kids. Tested for durability, playability, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BRHB6M9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NJ+LJB9zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy ABS plastic frame holds up to aggressive play — no wobble or flex during fast matches"
   - "Compact 20-inch design fits on coffee tables or kids' desks, yet rods slide smoothly without sticking"
   - "Comes fully assembled — zero setup time, which is rare at this price point"
-cons:
+cons: 
   - "Manual score sliders are easy for kids to bump accidentally during intense matches"
   - "Players are permanently fixed to rods — you can't reposition formations like on full-size tables"
+
 ---
 
 Let's be honest: most mini foosball tables under $30 are junk. The rods bend, the players spin wildly, and the whole thing feels like it'll disintegrate after a week of enthusiastic play. The COUOMOXA Soccer Board Game isn't that. It's not a tournament-grade table by any stretch, but it's genuinely the best sub-$40 foosball experience I've tested for younger kids.

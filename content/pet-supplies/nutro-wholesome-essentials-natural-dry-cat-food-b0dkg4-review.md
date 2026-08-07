@@ -1,4 +1,5 @@
 ---
+
 title: "Nutro Wholesome Essentials Natural Dry Cat Food"
 seo_title: "Nutro Wholesome Essentials Natural Dry Cat Food Review: V"
 meta_description: "Our full nutro wholesome essentials natural dry cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKG4HV5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A3tbnfR0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Nutro Wholesome Essentials actually worth the premium price, or are you paying for the label? I dug through the specs, the ingredient panel, and 229 verified buyer ratings to give you the straight answer.**

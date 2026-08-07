@@ -1,15 +1,16 @@
 ---
+
 title: "Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainless Steel Bowl, Chef’s Whisk, Mixing Paddle, Dough Hook, Splash Guard w/ Pour Spout, White Linen, SM-50NAS, Manual"
 seo_title: "Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainle Review"
 meta_description: "Honest cuisinart stand mixer, 12 speed, 5.5 qua review based on 9,956+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "cuisinart-stand-mixer-12-speed-5-5-quart-stainless-steel-bowl-chef-review"
 image_alt: "Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainless Steel Bowl, Chef’s Whisk, Mixing Paddle, Dough Hook, Splash Guard w"
-keywords:
+keywords: 
   - "cuisinart stand mixer review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Cuisinart Stand Mixer, 12 Speed well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the Cuisinart Stand Mixer, 12 Speed?"
@@ -22,13 +23,14 @@ review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aZxs6FBPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Easy to set up and use"
   - "Runs quietly"
-cons:
+cons: 
   - "Customer Service"
   - "Some durability concerns over time"
+
 ---
 
 If you're shopping for a kitchen appliance, you've probably noticed the Cuisinart Stand Mixer, 12 Speed, 5.5.... After combing through 9,956 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

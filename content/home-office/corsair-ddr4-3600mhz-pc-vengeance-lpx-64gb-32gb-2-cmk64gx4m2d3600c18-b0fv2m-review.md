@@ -1,5 +1,6 @@
 ---
 
+
 title: "CORSAIR DDR4-3600MHz Desktop PC Memory Vengeance LPX Review"
 seo_title: "CORSAIR Vengeance LPX DDR4-3600 Review (2026): Is It Worth It?"
 meta_description: "CORSAIR Vengeance LPX DDR4-3600 review: real-world performance, heat spreader design, compatibility notes, and buyer feedback. Is this RAM worth your money?"
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FV2M1658/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DmAKBhmxL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Low-profile heat spreaders (34mm) clear virtually all tower coolers, including NH-D15 and Dark Rock Pro 4 inch"
   - "XMP 2.0 profile hits 3600MT/s at CL18 with 1.35V on nearly any Ryzen 3000/5000 or Intel 10th-12th gen board"
   - "Tight dual-rank kits (32GB/64GB) maintain stability for productivity workloads, not just gaming"
-cons:
+cons: 
   - "No RGB — if you want lighting effects, you're paying extra elsewhere or missing out entirely"
   - "Aluminum heat spreaders are purely cosmetic at DDR4 voltages; don't expect meaningful thermal headroom over bare PCB"
   - "CL18 latency is a touch loose compared to 3600 CL16 kits — roughly 2-3% real-world impact in memory-sensitive tasks"
+
 
 ---
 

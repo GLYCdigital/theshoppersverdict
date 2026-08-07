@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Easel Pad, 20 in x 23 in, White w/Lines, 20 Sheets/P"
 seo_title: "Post-it Easel Pad, 20 in x 23 in, White w/Lines, 2 Review"
 meta_description: "Our full post-it easel pad, 20 in x 23 in, white w/lines, 20 sheets/p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0088BBJX0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JkVR72D5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most easel pads are flimsy, bleed-through disasters that tear the moment you rip a page off. The Post-it Easel Pad isn't that. After putting this through a week of client workshops, sprint planning sessions, and one genuinely chaotic whiteboard war room, here's the real story.

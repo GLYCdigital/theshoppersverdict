@@ -1,4 +1,5 @@
 ---
+
 title: "Imperia IPasta Classic Line. Pasta Machine 100% Made in Ital"
 seo_title: "Imperia IPasta Classic Line. Pasta Machine 100% Ma Review"
 meta_description: "Our full imperia ipasta classic line. pasta machine 100% made in ital review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSB7PBFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DR3qNL75L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the cheap knockoffs on Amazon — $35 pasta machines with "Italian style" in the listing but "Made in China" in the fine print. The Imperia IPasta Classic Line isn't that. This is the real deal from a company that's been making pasta machines in Italy since 1932, and honestly, you can feel the difference the moment you clamp it to your counter.

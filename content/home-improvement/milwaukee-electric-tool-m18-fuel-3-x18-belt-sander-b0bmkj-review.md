@@ -1,7 +1,8 @@
 ---
-title: "Milwaukee Electric Tool M18 Fuel 3\"\" x18 Belt Sander"
-seo_title: "Milwaukee Electric Tool M18 Fuel 3\"\" x18 Belt Sand Review"
-meta_description: "Our full milwaukee electric tool m18 fuel 3\"\" x18 belt sander review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Milwaukee Electric Tool M18 Fuel 3\\ x18 Belt Sander"
+seo_title: "Milwaukee Electric Tool M18 Fuel 3\\ x18 Belt Sand Review"
+meta_description: "Our full milwaukee electric tool m18 fuel 3\\ x18 belt sander review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-electric-tool-m18-fuel-3-x18-belt-sander-b0bmkj-review"
 image_alt: "Milwaukee Electric Tool M18 Fuel 3 x18 Belt Sander"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BMKJWKXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jSGgU09tL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Milwaukee M18 Fuel 3x18 Belt Sander: The cordless king that makes you pay for freedom**

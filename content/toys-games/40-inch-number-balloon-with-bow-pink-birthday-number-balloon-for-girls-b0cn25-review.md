@@ -1,4 +1,5 @@
 ---
+
 title: "40 inch Number Balloon with Bow Pink Birthday Number Balloon"
 seo_title: "40 Inch Pink Number Balloon Review: Big Birthday Statement"
 meta_description: "Honest review of the 40 inch pink number balloon with bow. Is it worth the hype for birthday parties? Real buyer feedback, sizing, and value analyzed."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CN25JR3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+I6+zxArL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-inch size creates genuine visual impact — roughly 3.3 feet tall, impossible to miss in standard living rooms"
   - "Attached bow and tassel included, so no separate decoration purchases needed for a cohesive look"
   - "Foil material holds air for weeks when sealed properly, not just hours like latex"
-cons:
+cons: 
   - "Requires a LOT of helium — a 40-inch foil balloon needs multiple tanks or a commercial fill, adding hidden cost"
   - "No mounting hardware included — you'll need to rig your own string or clip to hang it"
   - "Pink-only colorway limits reuse for non-gender-specific celebrations"
+
 ---
 
 Some birthday decorations whisper. This one announces itself from across the room. At 40 inches tall — that's about three and a half feet — the Number Balloon with Bow in Pink is the kind of centerpiece that makes a milestone birthday feel like an event. And with a 4.6-star average across 229 ratings, it's clearly delivering for most buyers. But before you add it to your cart, here's what you should actually know.

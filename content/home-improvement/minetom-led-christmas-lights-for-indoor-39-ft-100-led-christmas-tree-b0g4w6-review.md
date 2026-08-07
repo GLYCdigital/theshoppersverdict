@@ -1,4 +1,5 @@
 ---
+
 title: "Minetom LED Christmas Lights for Indoor,39 FT 100 LED Christ"
 seo_title: "Minetom LED Christmas Lights for Indoor,39 FT 100  Review"
 meta_description: "Our full minetom led christmas lights for indoor,39 ft 100 led christ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G4W6QN83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819+PN9ILbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wrestled with a 20-foot string of lights that leaves the bottom third of your tree dark, the Minetom LED Christmas Lights are the answer you didn’t know you needed. At 39 feet with 100 LEDs, this is a “wrap once, done” solution for most standard indoor trees—and it doesn’t cost a fortune. But is it built to last past one December? Here’s the honest breakdown.

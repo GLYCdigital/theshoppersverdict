@@ -1,4 +1,5 @@
 ---
+
 title: "Countertop Support Bracket 4 Pack 12 inch  Lx 2.5 inch  W Hidden Count"
 seo_title: "Countertop Support Bracket 4 Pack Review: 12 inch  Hidden Design"
 meta_description: "Countertop support bracket 4 pack review: 12 inch  L x 2.5 inch  W hidden design. See load capacity, install tips, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7PM41DQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rM6rwzuxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12-inch depth provides genuine support for standard 24-25 inch deep countertops with 12 inches of overhang"
   - "Hidden design means the bracket tucks under the counter — no visible hardware from above or at eye level"
   - "Sold as a 4-pack at a price point that beats buying single brackets from big-box stores"
-cons:
+cons: 
   - "Mounting screws included are adequate but not premium — plan to swap for heavier gauge screws for stone or thick butcher block"
   - "No pilot hole guide template in the box — measure twice or buy a cheap positioning jig"
+
 ---
 
 Let’s cut to it: a breakfast bar or kitchen island overhang that dips in the middle is an instant giveaway of cheap construction. This 4-pack of 12-inch hidden countertop support brackets is designed to fix that problem without making your joinery look like a construction site. After digging through 229 ratings at 4.6 stars, here’s the real story.

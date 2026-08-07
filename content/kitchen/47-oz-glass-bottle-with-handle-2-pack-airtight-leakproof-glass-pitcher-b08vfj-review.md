@@ -1,4 +1,5 @@
 ---
+
 title: "47 oz Glass Bottle with Handle (2 Pack) â€“ Airtight Leakpro"
 seo_title: "47 oz Glass Bottle with Handle 2 Pack Review (2026)"
 meta_description: "Honest review of the 47 oz glass bottle with handle 2-pack: leakproof lid, durable borosilicate glass, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08VFJZXT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vZRQDzzlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 47 oz capacity per bottle — holds a full 1.4 liters, enough for a full day of water or a big batch of cold brew"
   - "Sturdy borosilicate glass that handles hot and cold liquids without thermal shock cracking"
   - "Leakproof cap with silicone gasket — verified by multiple buyers for sideways carry in bags"
-cons:
+cons: 
   - "Glass is heavy when full (roughly 3.5 lbs) — not ideal for delicate hands or car cup holders"
   - "Handle is fixed and non-insulated — hot liquids make the handle warm to the touch after a few minutes"
+
 ---
 
 **Is this the glass bottle that finally replaces your plastic jug? Let's break it down.**

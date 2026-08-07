@@ -1,4 +1,5 @@
 ---
+
 title: "CARNA4 All Life Stages Chicken Formula Dry Dog Food"
 seo_title: "CARNA4 Chicken Dry Dog Food Review: Is It Worth It?"
 meta_description: "Honest CARNA4 All Life Stages Chicken Formula review: cold-pressed nutrition, real ingredients, picky-eater results, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B078JYN1Q9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wyG+SBIxL._AC_SL1198_.jpg"
-pros:
+pros: 
   - "Cold-pressed at low temperatures, preserving more natural nutrients than typical high-heat extrusion"
   - "Limited ingredient list with whole chicken as the first ingredient — no rendered meals, by-products, or artificial additives"
   - "Noticeably improves coat condition and digestion for many dogs within 2-3 weeks"
-cons:
+cons: 
   - "Premium price point — expect to pay significantly more than mainstream brands"
   - "Kibble texture is soft and crumbly; aggressive chewers may not get the dental benefit they need"
   - "Transition period can cause temporary loose stool for some dogs, even with gradual switching"
+
 ---
 
 Most dry dog foods are cooked at temperatures high enough to destroy a meaningful portion of the nutrients you're paying for. CARNA4 takes a different path — cold-pressed at low temperatures to preserve what's actually in the ingredients. That's the headline, and after digging through 215 ratings and talking to real owners, the story mostly holds up. But it's not perfect, and you should know exactly what you're getting before you pay the premium.

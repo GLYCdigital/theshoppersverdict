@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Shipping Address Labels"
 seo_title: "Avery Shipping Address Labels Review: Are They Worth It?"
 meta_description: "Avery Shipping Address Labels review: 4.7-star rated, 235 reviews. We test adhesion, print quality, and value. Find out if these labels earn their spot."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B6QSJRC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vC8vFgpnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smudge-proof, water-resistant surface that holds up through rain and postal handling"
   - "True Perforation technology means labels peel cleanly without tearing or curling edges"
   - "Jams-free feeding in both inkjet and laser printers, even on double-sided runs"
-cons:
+cons: 
   - "Only 30 labels per sheet — you'll go through boxes fast if you ship daily"
   - "White-only finish; no clear or kraft options in this specific listing"
+
 ---
 
 **The boring label that saves you from shipping disasters.**

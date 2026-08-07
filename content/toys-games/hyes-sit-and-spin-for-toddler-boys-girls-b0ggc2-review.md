@@ -1,4 +1,5 @@
 ---
+
 title: "HYES Sit and Spin for Toddler Boys Girls"
 seo_title: "HYES Sit and Spin Review: Fun Toy or Letdown?"
 meta_description: "Honest HYES Sit and Spin review for toddlers. We break down build quality, spin smoothness, and safety concerns before you buy."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GGC2QL7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OF0jyjQvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth 360-degree spin mechanism that even young toddlers can self-propel with minimal effort"
   - "Stable low-profile base (approximately 13 inches wide) that resists tipping during active play"
   - "Easy-grip handles positioned at the right height for 18-month to 3-year-old arms"
-cons:
+cons: 
   - "Reports of the center spindle wearing down after a few months of daily use, creating wobble"
   - "No padding on the seat — hard plastic gets uncomfortable for longer play sessions"
   - "Assembly requires a screwdriver and some patience; the pieces fit tightly and can be frustrating"
+
 ---
 
 The classic sit-and-spin has been a toddler staple for decades, and the HYES version aims to deliver that same dizzying fun at a budget-friendly price point. The question is whether it holds up to the abuse only a 2-year-old can dish out. After digging through 180 ratings and analyzing the design, here's what I found.

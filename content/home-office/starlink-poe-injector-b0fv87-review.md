@@ -1,4 +1,5 @@
 ---
+
 title: "Starlink POE Injector"
 seo_title: "Starlink POE Injector Review: Verdict | TSV"
 meta_description: "Our full starlink poe injector review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FV87PL2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sC+76Z8aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the chase: if you're here because your OEM Starlink power supply died or you need to extend your dish's cable run, this third-party POE injector is a solid 80% solution. It's not perfect — the 3.9-star average tells you that — but for $40-ish less than Starlink's official replacement, it does the core job.

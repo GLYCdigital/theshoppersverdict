@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Classic Pate, Variety Pack (5.5 oz, 48 Count"
 seo_title: "Purina Friskies Classic Pate, Variety Pack (5.5 oz Review"
 meta_description: "Our full purina friskies classic pate, variety pack (5.5 oz, 48 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07G328RHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lyzRX9PKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a 48-can brick of cat food, wondering if your feline overlord will even look at it. Here's the short version: Purina Friskies Classic Pate is the budget-friendly workhorse of the wet cat food world, and the 4.6-star rating across 229 reviews isn't an accident. But it's not for every cat — or every owner.

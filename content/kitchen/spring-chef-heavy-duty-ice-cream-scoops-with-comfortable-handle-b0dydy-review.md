@@ -1,4 +1,5 @@
 ---
+
 title: "Spring Chef Heavy Duty Ice Cream Scoops with Comfortable Han"
 seo_title: "Spring Chef Heavy Duty Ice Cream Scoops with Comfo Review"
 meta_description: "Our full spring chef heavy duty ice cream scoops with comfortable han review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DYDYWDQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L8eY2-b1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Spring Chef Heavy Duty Ice Cream Scoop Review: Does It Actually Handle Rock-Hard Ice Cream?

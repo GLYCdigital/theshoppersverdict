@@ -1,4 +1,5 @@
 ---
+
 title: "SortRax Accordion File Organizer 12 Pockets"
 seo_title: "SortRax Accordion File Organizer 12 Pockets Review: Verdi"
 meta_description: "Our full sortrax accordion file organizer 12 pockets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRV1B6XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R4Za5h+aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a receipt, a contract, and a warranty card dissolve into the black hole of your work bag, the SortRax Accordion File Organizer is the intervention you need. This isn't a flashy product — it's a 12-slot filing system that does exactly what it promises, and at 4.6 stars from 229 ratings, buyers mostly agree. Here's the honest breakdown before you click "add to cart."

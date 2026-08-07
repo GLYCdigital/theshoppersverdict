@@ -1,4 +1,5 @@
 ---
+
 title: "OLILAWN 10ft Patio Umbrella with Base Included, Outdoor Offs"
 seo_title: "OLILAWN 10ft Patio Umbrella with Base Included, Ou Review"
 meta_description: "Our full olilawn 10ft patio umbrella with base included, outdoor offs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DWXSBBML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812f4nSJNlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced offset umbrellas lately, you know the base usually costs extra. The OLILAWN 10ft Patio Umbrella bundles both for one price, which immediately puts it on the radar for anyone outfitting a deck or patio without blowing the budget. It's not perfect, but for under $200 (when on sale), it solves the biggest complaint about cantilever umbrellas: the hidden costs.

@@ -1,17 +1,18 @@
 ---
+
 title: "PILOT G2 Premium Refillable & Retractable Rolling Ball Gel Pens, Fine Point, Black Ink, 12 Count"
 seo_title: "Pilot G2 Gel Pen Review — 4.8★ Best Gel Pen at $20"
 meta_description: "Pilot G2 gel pen review: 32,711 reviews analyzed. Smooth rolling ball, refillable, comfortable grip. Is the $19.89 12-pack worth the hype? Full verdict inside."
 slug: "pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-ink-12-count-review"
 image_alt: "Pilot G2 Premium Refillable Retractable Rolling Ball Gel Pens 12 Count"
-keywords:
+keywords: 
   - "pilot g2 review"
   - "pilot g2 gel pen review"
   - "best gel pen for everyday writing"
   - "pilot g2 fine point black ink review"
   - "best office pens"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Are Pilot G2 pens refillable?"
     answer: "Yes. Pilot G2 pens are fully refillable with Pilot G2 refills available in multiple ink colors and point sizes. The barrel unscrews at the grip section for easy replacement — less waste, more writing."
   - question: "Do Pilot G2 pens smudge?"
@@ -24,16 +25,17 @@ review_count: 32711
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713GdY+wh4L._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, consistent ink flow from the first word to the last"
   - "Refillable design — buy once, refill forever, reduce waste"
   - "Comfortable rubber grip for extended writing sessions"
   - "Excellent contrast for scanned documents"
   - "Reliable — doesn't skip or stop mid-word like competitors"
-cons:
+cons: 
   - "Occasional packaging damage in transit (pens survive, boxes don't)"
   - "Minor break-in period — takes a few pages to reach peak smoothness"
   - "Loose pens may arrive instead of boxed set if listing isn't clear"
+
 ---
 
 The PILOT G2 has been the default "nice pen" in offices for over two decades. It's the pen you steal from the bank teller, the one your grandmother keeps in the kitchen drawer, the one that shows up in every "best pens" listicle ever written. With 32,711 Amazon ratings averaging 4.8 stars, the crowd has spoken. But is the 12-pack worth $19.89 in 2026, when a dozen disposable Bics cost less than half that? Let's dig in.

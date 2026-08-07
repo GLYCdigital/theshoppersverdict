@@ -1,4 +1,5 @@
 ---
+
 title: "Mannequin Head Human Hair-31"
 seo_title: "Mannequin Head Human Hair-31 Review: Verdict | TSV"
 meta_description: "Our full mannequin head human hair-31 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G5X65GJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tznJt279L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Practice Head Your Styling Kit Is Missing?

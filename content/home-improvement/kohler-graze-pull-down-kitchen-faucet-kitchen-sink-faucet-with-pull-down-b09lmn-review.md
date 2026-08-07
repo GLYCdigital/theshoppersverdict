@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler Graze Pull Down Kitchen Faucet, Kitchen Sink Faucet w"
 seo_title: "Kohler Graze Pull Down Kitchen Faucet, Kitchen Sin Review"
 meta_description: "Our full kohler graze pull down kitchen faucet, kitchen sink faucet w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B09LMNM9VY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618HiP1ZkCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Frontmatter fields are complete above. Here's the full review body:**

@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PGI-270XL/CLI-271 5 Color Value Pack"
 seo_title: "Canon PGI-270XL/CLI-271 Value Pack Review (2026)"
 meta_description: "Honest Canon PGI-270XL/CLI-271 5-color value pack review: real page yields, print quality, cost per page, and compatibility issues explained."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0101SITH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mVLsmb9RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "XL black yields roughly 400 pages vs 180 for standard — nearly 2.2x the output for about 30% more cost"
   - "Genuine Canon pigment-based black resists smudging on plain paper, critical for double-sided document printing"
   - "Four dye-based color cartridges (cyan, magenta, yellow, plus photo black) deliver accurate skin tones in photos"
-cons:
+cons: 
   - "No XL version of the color cartridges — the CLI-271 colors are all standard yield, which makes color printing expensive long-term"
   - "Canon's chip-based ink monitoring can show empty early by 10-15%, wasting usable ink if you swap cartridges at the first warning"
   - "If you own a newer PIXMA (like the TS series), verify compatibility — some TS models use different cartridge geometry despite similar naming"
+
 ---
 
 You're looking at a 5-cartridge bundle for a Canon PIXMA, and the math matters more than the brand name. Here's the real breakdown before you click buy.

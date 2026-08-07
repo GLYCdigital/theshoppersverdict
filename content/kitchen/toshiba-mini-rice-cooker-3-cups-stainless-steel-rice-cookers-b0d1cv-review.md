@@ -1,4 +1,5 @@
 ---
+
 title: "Toshiba Mini Rice Cooker 3 Cups Stainless Steel rice cookers"
 seo_title: "Toshiba Mini Rice Cooker 3 Cups Stainless Steel ri Review"
 meta_description: "Our full toshiba mini rice cooker 3 cups stainless steel rice cookers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1CVJFFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61faDpE-TKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most mini rice cookers are plastic-bodied, nonstick-lined, and die within two years. The Toshiba Mini Rice Cooker 3 Cups Stainless Steel tries to break that mold — and mostly succeeds. After 225 ratings averaging 4.5 stars, it’s clearly earning its place on counters. But is it the right cooker for *your* kitchen? Here’s the real breakdown.

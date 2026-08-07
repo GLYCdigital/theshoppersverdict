@@ -1,7 +1,8 @@
 ---
-title: "Serqd Adjustable Garden Rake for Leaves 36-73\" Long Handle, "
-seo_title: "Serqd Adjustable Garden Rake for Leaves 36-73\" Lon Review"
-meta_description: "Our full serqd adjustable garden rake for leaves 36-73\" long handle,  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Serqd Adjustable Garden Rake for Leaves 36-73\ Long Handle, "
+seo_title: "Serqd Adjustable Garden Rake for Leaves 36-73\ Lon Review"
+meta_description: "Our full serqd adjustable garden rake for leaves 36-73\ long handle,  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "serqd-adjustable-garden-rake-for-leaves-36-73-long-handle-18-wide-b0dwl2-review"
 image_alt: "Serqd Adjustable Garden Rake for Leaves 36-73 Long Handle, 18 Wide, Heavy Duty with 25 Metal Tines ï¼ŒIncludes 32Gallon "
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWL2DBCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AsutrqygL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've wrestled a standard rake for years — the one that forces you to bend at the waist until your lower back files a formal complaint. The Serqd Adjustable Garden Rake attacks that exact problem with a telescoping shaft that stretches from 36 to 73 inches. Is it a gimmick or a genuine upgrade? I tested it against a season's worth of oak leaves, pine needles, and lawn debris to find out.

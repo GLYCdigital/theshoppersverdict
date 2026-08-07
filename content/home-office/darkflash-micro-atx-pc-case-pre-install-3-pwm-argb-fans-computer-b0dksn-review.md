@@ -1,4 +1,5 @@
 ---
+
 title: "darkFlash Micro ATX PC Case, Pre-Install 3 PWM ARGB Fans Com"
 seo_title: "darkFlash Micro ATX PC Case Review: 3 PWM ARGB Fans Included"
 meta_description: "Honest darkFlash Micro ATX PC case review: pre-installed PWM ARGB fans, build quality, airflow, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DKSN6XN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J0joIJt-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three PWM ARGB fans pre-installed — saves $30-40 vs. buying separately, and they're addressable, not just RGB"
   - "Full mesh front panel with dust filter delivers genuine airflow, not just looks"
   - "Tempered glass side panel with swing-open hinge — no screwdriver needed for quick component access"
-cons:
+cons: 
   - "Cable management channel is tight behind the motherboard tray; non-modular PSUs will be a squeeze"
   - "Included fan hub only supports 4 devices — you'll need a splitter if adding more fans"
+
 ---
 
 Let's cut through the noise: most cases under $70 that promise "pre-installed ARGB fans" deliver cheap, loud 3-pin fans with rainbow static. The darkFlash Micro ATX case with three PWM ARGB fans is a different animal — and at 4.2 stars across 210 ratings, buyers agree it's worth a hard look.

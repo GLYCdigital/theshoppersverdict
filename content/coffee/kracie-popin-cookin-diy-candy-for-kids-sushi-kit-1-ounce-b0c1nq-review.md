@@ -1,4 +1,5 @@
 ---
+
 title: "Kracie Popin' Cookin' Diy Candy for Kids, Sushi Kit, 1 Ounce"
 seo_title: "Kracie Popin' Cookin' Diy Candy for Kids, Sushi Ki Review"
 meta_description: "Our full kracie popin' cookin' diy candy for kids, sushi kit, 1 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C1NQTCPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sXD76tE+L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the videos. A kid in a kitchen transforms colorful powders into a plate of tiny, edible sushi rolls that look almost too good to eat. The Kracie Popin' Cookin' DIY Candy Sushi Kit is the exact kit behind those viral clips, and at 4.2 stars from 210 Amazon ratings, it's clearly delivering on the novelty. But is it worth the mess, the prep, and the inevitable sugar high? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water Filled Squ"
 seo_title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water  Review"
 meta_description: "Our full purple leaf offset patio umbrella base sand/water filled squ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07N78VPYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710TspMu64L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water Filled Squ"
 seo_title: "PURPLE LEAF Umbrella Base Review: 4.6-Star Stability"

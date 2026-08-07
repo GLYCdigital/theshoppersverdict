@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie"
 seo_title: "Barbie Doll Review (2026): Is It Worth the Hype?"
 meta_description: "Honest Barbie doll review: build quality, play value, accessories, and drawbacks. See if this iconic toy is worth your money in 2026."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLLD2BHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UmWN0na4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Articulated knees and elbows allow for realistic posing and sturdier play than classic stiff-limbed Barbies"
   - "Hair quality is noticeably better than previous generations — thick, rootable, and resists tangling after brushing"
   - "Outfit construction uses real stitching and magnetic closures, not cheap Velcro that fails after three wears"
-cons:
+cons: 
   - "Shoes are still notoriously tiny and easy to lose — buy a backup pack if your kid likes removing them"
   - "The included comb is flimsy and breaks within weeks; budget for a proper doll hairbrush"
+
 ---
 
 # Barbie Review: The 2026 Refresh That Actually Listens to Parents

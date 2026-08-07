@@ -1,4 +1,5 @@
 ---
+
 title: "NRICO Portable External Hard Drive USB 3.0 HDD 2.5inch Stora"
 seo_title: "NRICO Portable External Hard Drive USB 3.0 HDD 2.5 Review"
 meta_description: "Our full nrico portable external hard drive usb 3.0 hdd 2.5inch stora review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08MWBRQC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WPVWp4bxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NRICO Portable External Hard Drive isn't trying to be sexy. It's a no-nonsense 2.5-inch SATA enclosure with a drive inside, designed for one job: getting your files off a dead laptop or backing up a decade of photos. At 4.1 stars from 204 ratings, it's a solid budget pick — but only if you understand what you're sacrificing.

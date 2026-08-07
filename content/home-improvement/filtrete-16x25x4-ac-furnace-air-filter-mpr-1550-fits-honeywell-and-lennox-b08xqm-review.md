@@ -1,4 +1,5 @@
 ---
+
 title: "Filtrete 16x25x4 AC Furnace Air Filter, MPR 1550, Fits Honey"
 seo_title: "Filtrete 16x25x4 MPR 1550 Filter Review: Worth $195?"
 meta_description: "Filtrete 16x25x4 MPR 1550 furnace filter review: real performance data, fitment issues, and whether premium filtration justifies the $195 price."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08XQMKFY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FYGl3wCIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine MPR 1550 rating captures pet dander, smoke particles, and pollen-sized allergens — not just dust bunnies"
   - "4-inch deep pleat media means 15+ months of service life if you rotate seasonally, cutting annual filter costs vs. 1-inch cheapies"
   - "Sturdy wire mesh backing prevents the media from collapsing under high static pressure from variable-speed blowers"
-cons:
+cons: 
   - "At $195 for a 3-pack, you're paying roughly $65 per filter — nearly double the cost of comparable MERV 13 media filters from AirBear or Nordic Pure"
   - "The 'Fits Honeywell' claim is misleading — it fits Honeywell *media cabinets* but NOT standard 1-inch filter slots; measure your filter rack depth before ordering"
   - "MPR 1550 creates meaningful airflow restriction; if your furnace is over 15 years old with a PSC motor, expect reduced blower efficiency and potential short-cycling"
+
 ---
 
 **$195 for three cardboard rectangles. Let's talk about whether that's insane or actually smart.**

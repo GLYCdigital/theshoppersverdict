@@ -1,7 +1,8 @@
 ---
-title: "Microsoft Surface Laptop Go 3 12.4\" Touchscreen Notebook - I"
-seo_title: "Microsoft Surface Laptop Go 3 12.4\" Touchscreen No Review"
-meta_description: "Our full microsoft surface laptop go 3 12.4\" touchscreen notebook - i review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Microsoft Surface Laptop Go 3 12.4\ Touchscreen Notebook - I"
+seo_title: "Microsoft Surface Laptop Go 3 12.4\ Touchscreen No Review"
+meta_description: "Our full microsoft surface laptop go 3 12.4\ touchscreen notebook - i review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "microsoft-surface-laptop-go-3-12-4-touchscreen-notebook-intel-core-i5-b0cw23-review"
 image_alt: "Microsoft Surface Laptop Go 3 12.4 Touchscreen Notebook - Intel Core i5-16 GB - 256 GB SSD - English Keyboard - Platinum"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0CW23286G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610oJxMaSNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Surface Laptop Go 3 is the laptop you buy when you've given up on "gaming laptops" that weigh as much as a small dumbbell. At 2.84 pounds with a full aluminum body, it's the kind of machine that disappears into a bag — and at 12.4 inches, it fits on an airplane tray table without your elbows playing bumper cars with your neighbor's. But this isn't just a featherweight; there's a real processor under that hood, and buyers have noticed.

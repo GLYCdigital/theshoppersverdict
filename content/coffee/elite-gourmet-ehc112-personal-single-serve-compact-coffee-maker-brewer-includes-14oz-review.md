@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EHC112 Personal Single-Serve Compact Coffee Maker Brewer Includes 14Oz. Thermal Travel Mug with Stainless Steel Interior, Compatible with Coffee Grounds, Reusable Filter, Black"
 seo_title: "Elite Gourmet EHC112 Review: Single-Serve Coffee Maker"
 meta_description: "Elite Gourmet EHC112 single-serve coffee maker review: 14oz thermal mug, reusable filter, $35. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 9794
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B197X3H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D9m1ChnUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero ongoing pod costs — permanent reusable filter means you buy beans once, brew forever"
   - "Double-wall stainless thermal mug actually keeps coffee hot for 2+ hours, unlike glass carafes"
   - "Compact footprint (about 8 inches wide) fits tight counter spaces, dorm rooms, or office desks"
-cons:
+cons: 
   - "No brew-strength selector — coffee comes out medium at best, and fine grinds can clog the basket"
   - "Travel mug lid is not fully leakproof when tipped sideways in a bag"
+
 ---
 
 **The $35 Coffee Maker That Kills Keurig's Biggest Rip-Off**

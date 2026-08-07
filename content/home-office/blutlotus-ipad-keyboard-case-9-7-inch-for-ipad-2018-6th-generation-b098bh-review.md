@@ -1,5 +1,6 @@
 ---
 
+
 title: "BLUTLOTUS iPad Keyboard Case 9.7 inch for iPad 2018 6th Gene"
 seo_title: "BLUTLOTUS iPad Keyboard Case 9.7 Review (2026): Worth It?"
 meta_description: "BLUTLOTUS iPad Keyboard Case 9.7 for iPad 2018 6th Gen review: real typing tests, build quality, and battery life. Is this $33 keyboard case worth it?"
@@ -12,14 +13,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B098BHKB1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lQgsM4-9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Detachable magnetic keyboard gives you both a typing deck and a slim protective case for under $35 inch"
   - "Full-size scissor keys with 1.5mm travel — surprisingly tactile for a budget keyboard case"
   - "USB-C charging means you can top up with the same cable as your iPad"
-cons:
+cons: 
   - "Trackpad absent — you'll still need to reach for the screen for cursor work"
   - "Fits only the 2018 6th Gen and 2017 5th Gen 9.7-inch iPads — not the newer 10.2-inch models"
   - "Backlit keys missing, which makes low-light typing a guessing game"
+
 
 ---
 

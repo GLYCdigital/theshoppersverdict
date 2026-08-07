@@ -1,4 +1,5 @@
 ---
+
 title: "Clixo Ocean Creatures Pack - Glow-in-The-Dark Magnetic Build"
 seo_title: "Clixo Ocean Creatures Pack Review: Glow-in-Dark Magnetic Toy"
 meta_description: "Our Clixo Ocean Creatures Pack review covers the glow-in-dark magnetic building toy's flexibility, STEM value, and drawbacks. See if it's worth the buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJN91PG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o8JK63RdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flexible, fabric-hinged pieces allow organic curved shapes that rigid magnetic tiles simply can't achieve — you can actually build a believable octopus tentacle"
   - "Genuine glow-in-the-dark effect that charges in 30 seconds of sunlight and holds for hours, not a gimmick that fades in minutes"
   - "Pieces snap together with satisfying magnetic strength while staying easy enough for a 4-year-old to pull apart independently"
-cons:
+cons: 
   - "Set includes only 24 pieces — roughly enough for two small creatures simultaneously, so you'll want a second pack for bigger builds"
   - "Glow effect requires direct light charging; indoor LED lighting produces a much weaker, shorter-lived glow"
   - "Fabric hinges can collect crumbs and dust in crevices over time, requiring occasional spot cleaning"
+
 ---
 
 ## Is the Clixo Ocean Creatures Pack Worth the Hype?

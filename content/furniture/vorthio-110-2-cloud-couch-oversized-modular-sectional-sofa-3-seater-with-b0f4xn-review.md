@@ -1,7 +1,8 @@
 ---
-title: "Vorthio 110.2\" Cloud Couch Oversized Modular Sectional Sofa,"
-seo_title: "Vorthio 110.2\" Cloud Couch Oversized Modular Secti Review"
-meta_description: "Our full vorthio 110.2\" cloud couch oversized modular sectional sofa, review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Vorthio 110.2\ Cloud Couch Oversized Modular Sectional Sofa,"
+seo_title: "Vorthio 110.2\ Cloud Couch Oversized Modular Secti Review"
+meta_description: "Our full vorthio 110.2\ cloud couch oversized modular sectional sofa, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "vorthio-110-2-cloud-couch-oversized-modular-sectional-sofa-3-seater-with-b0f4xn-review"
 image_alt: "Vorthio 110.2 Cloud Couch Oversized Modular Sectional Sofa, 3 Seater with Ottoman Modern Sofa True Relax Comfy, Wide & D"
 verdict_score: 3.7
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F4XN5GZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yKrnjCXhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the cloud couch dupe you've been hunting for? Here's the unfiltered truth after digging through 180+ verified buyer experiences.**

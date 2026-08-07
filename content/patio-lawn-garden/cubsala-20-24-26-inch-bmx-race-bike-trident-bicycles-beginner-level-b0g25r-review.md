@@ -1,4 +1,5 @@
 ---
+
 title: "cubsala 20 24 26 Inch BMX Race Bike Trident Bicycles Beginne"
 seo_title: "cubsala BMX Race Bike Review: 20/24/26-Inch for Beginners"
 meta_description: "Honest cubsala 20 24 26 inch BMX race bike review. We break down frame quality, gearing, and who should buy this Trident beginner bike. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G25RFX8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719i0RTXO-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three wheel sizes (20/24/26) mean proper fit for kids as young as 8 through adult beginners—most budget BMX bikes only come in one size"
   - "Full chromoly frame and fork at this price point flex on competitors using hi-ten steel; noticeably lighter when you're throwing it around turns"
   - Threaded headset and standard 1-1/8 inch steerer tube mean you can upgrade forks, bars, or stem without proprietary headaches
-cons:
+cons: 
   - "Stock brakes are single-pivot calipers—adequate for stopping but will fade on long downhill runs; plan to swap to V-brakes if you're riding real race tracks"
   - "Assembly instructions are sparse; the included tools are functional but cheap, and you'll want a proper Allen key set and torque wrench for the crank arm bolts"
+
 ---
 
 **The cubsala Trident BMX Race Bike isn't the flashiest name in the starting gate, but it's the one that actually fits—and that matters more than brand decals.**

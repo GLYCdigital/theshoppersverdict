@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin extra smallwetcandogpuppy"
 seo_title: "Royal Canin extra smallwetcandogpuppy Review: Verdict | T"
 meta_description: "Our full royal canin extra smallwetcandogpuppy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX26HJHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZY5mvDIuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Royal Canin's Extra Small wet puppy food is one of those products that makes you question whether you're overpaying for a tiny can of mush — until you watch a 2-pound Yorkie puppy try to eat regular kibble. The 3-ounce cans hold a smooth, fine-textured pâté that's specifically engineered for toy breed puppies who top out under 10 pounds as adults. It's not just smaller kibble in a can; it's a completely different nutritional profile.

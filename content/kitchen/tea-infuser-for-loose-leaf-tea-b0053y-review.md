@@ -1,4 +1,5 @@
 ---
+
 title: "Tea Infuser for Loose Leaf Tea"
 seo_title: "Tea Infuser for Loose Leaf Tea Review: Verdict | TSV"
 meta_description: "Our full tea infuser for loose leaf tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0053YPXAA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XUcpdUWyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fished a soggy paper tea bag out of your mug and wondered why you're paying for crushed floor sweepings when whole-leaf tea tastes dramatically better, this infuser is the $10 fix that makes sense. At 4.7 stars from 235 ratings, it's clearly working for most people. But let's talk about whether it'll work for you.

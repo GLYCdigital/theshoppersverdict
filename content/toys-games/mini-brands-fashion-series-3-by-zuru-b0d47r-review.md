@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Brands Fashion Series 3 by ZURU"
 seo_title: "Mini Brands Fashion Series 3 by ZURU Review: Verdict | TS"
 meta_description: "Our full mini brands fashion series 3 by zuru review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D47R6QZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hHpKgRwUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wished your favorite fashion houses came in a size you could fit in your palm, ZURU's Mini Brands Fashion Series 3 delivers exactly that — with a gambling twist. At 4.6 stars across 229 ratings, this blind box collectible has clearly found its audience. But is it worth your cash? Let's dig in.

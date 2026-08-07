@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Friends Creative Beach and Travel Suitcase Toy Building"
 seo_title: "LEGO Friends Creative Beach and Travel Suitcase To Review"
 meta_description: "Our full lego friends creative beach and travel suitcase toy building review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ17CRDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dLYRHtobL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEGO Friends Creative Beach and Travel Suitcase Review: The Ultimate On-the-Go Build?

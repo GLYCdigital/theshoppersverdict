@@ -1,4 +1,5 @@
 ---
+
 title: "DARKDAWN UV Flashlight 395nm Black Light Mini USB Rechargeab"
 seo_title: "DARKDAWN 395nm UV Flashlight Review: Mini USB Rechargeable"
 meta_description: "DARKDAWN 395nm UV flashlight review: compact, USB-rechargeable black light. Real performance, battery life, and limitations from a hands-on tool expert."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMVJXCXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+zp-kLmlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 395nm wavelength with focused beam — fluoresces cracks, leaks, and pet stains that cheap 400nm+ lights miss"
   - "USB-C rechargeable with built-in battery; roughly 90 minutes of continuous runtime on a full charge"
   - "Pocket-sized aluminum body that survives drops — feels like a proper tool, not a novelty gadget"
-cons:
+cons: 
   - "No battery level indicator — you'll get caught mid-job when it dies without warning"
   - "Single output mode only; no low-power setting for extended battery conservation"
+
 ---
 
 Let's be blunt: most UV flashlights on Amazon are glorified party toys. The DARKDAWN 395nm is not that. This is a legitimate inspection tool dressed in a compact body, and with a 4.5-star average across 225 ratings, it's earned its reputation. Here's what you actually need to know before buying.

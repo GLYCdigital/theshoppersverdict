@@ -1,15 +1,16 @@
 ---
+
 title: "Arrow Fastener T50 Heavy Duty Staple Gun"
 seo_title: "Arrow Fastener T50 Review: Verdict (4.5/5) | TSV"
 meta_description: "Not once has it jammed and feels like a great quality item, of which it 4,846+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "arrow-fastener-t50-heavy-duty-staple-gun-review"
 image_alt: "Arrow Fastener T50 Heavy Duty Staple Gun"
-keywords:
+keywords: 
   - "arrow fastener t50 review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Arrow Fastener T50 Heavy?"
     answer: "Not once has it jammed and feels like a great quality item, of which it is That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Arrow Fastener T50 Heavy?"
@@ -22,11 +23,12 @@ review_count: 4846
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ZmPITX9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Not once has it jammed and feels like a great quality item."
   - "Elle est solide, un peu lourde."
-cons:
+cons: 
   - "I am disappointed in receiving a defective product - Brand New Arrow T50 Heavy Duty Staple Gun Kit."
+
 ---
 
 Some tools are disposable. You buy them, use them twice, and they end up in a drawer next to three rolls of mismatched tape. The Arrow T50 is not that tool. I've seen these things survive basement floods, garage reorganizations, and 15 years of holiday decorations being stapled back into wooden beams. At $20, it's the rare budget tool that outlasts the projects you bought it for.

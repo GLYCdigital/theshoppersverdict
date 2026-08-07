@@ -1,4 +1,5 @@
 ---
+
 title: "BREEZEHEAT Electric Fireplace TV Stand Review"
 seo_title: "BREEZEHEAT Electric Fireplace TV Stand Review (2026)"
 meta_description: "Honest BREEZEHEAT Electric Fireplace TV Stand review: heating performance, build quality, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F948L5ZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811us7GSngL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heats a 400–500 sq ft room effectively with 1500W forced fan, not just radiant heat from the glass"
   - "Assembles in under 45 minutes with cam-lock hardware and labeled parts — no confusing dowels"
   - "Solid MDF construction holds up to a 65-inch TV without wobble or sagging in the center"
-cons:
+cons: 
   - "No remote comes included — you're adjusting temperature and flame settings from the control panel on the back"
   - "The fireplace insert can be visible around the edges if you're sitting low to the ground — minor fit gap"
+
 ---
 
 If you're staring at a blank wall wondering how to combine a TV stand, a room heater, and something that doesn't look like a college dorm setup, the BREEZEHEAT Electric Fireplace TV Stand is worth a serious look. With 229 ratings averaging 4.6 stars, it's not flying under the radar — but let's get past the aggregate score and talk about whether it's the right call for your living room.

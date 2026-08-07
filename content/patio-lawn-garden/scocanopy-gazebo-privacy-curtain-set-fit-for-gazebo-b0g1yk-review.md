@@ -1,4 +1,5 @@
 ---
+
 title: "SCOCANOPY Gazebo Privacy Curtain Set fit for Gazebo"
 seo_title: "SCOCANOPY Gazebo Privacy Curtain Set fit for Gazeb Review"
 meta_description: "Our full scocanopy gazebo privacy curtain set fit for gazebo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G1YKBKTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ieM9I2EVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out full privacy screens for a hardtop gazebo, you know the pain: custom panels run $200–$400, and cheap tarps flap like sails in a breeze. The SCOCANOPY Gazebo Privacy Curtain Set splits the difference at a fraction of that cost — but it comes with tradeoffs you need to know before you buy.

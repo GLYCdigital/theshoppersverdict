@@ -1,4 +1,5 @@
 ---
+
 title: "Fruit Slices Jelly Candy 2 Pound Bag | Assorted Flavors | Su"
 seo_title: "Fruit Slices Jelly Candy Review: 2LB Bag Worth It? (2026)"
 meta_description: "Honest Fruit Slices Jelly Candy 2LB review: texture, flavor, value. See what 185 Amazon buyers say before you buy this assorted candy bag."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0B7KF9QFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EBCy8zw0L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine orange, lemon, and lime slices with a soft, pliable gel texture that doesn't harden"
   - "2-pound bag delivers roughly 60-70 pieces — solid value for candy bowls or baking"
   - "Sugar coating is light, not gritty; flavors are distinct, not muddled"
-cons:
+cons: 
   - "Sugar crystals can clump in humid conditions, making pieces stick together"
   - "Some batches arrive with hard or chewy pieces — texture inconsistency reported"
   - "No resealable closure on the bag; you'll need your own container"
+
 ---
 
 You're looking at a 2-pound bag of fruit slice jelly candies — the kind your grandmother kept in a crystal dish. The question isn't whether these are nostalgic. It's whether they're worth your money at 3.7 stars from 185 Amazon shoppers. Let's dig in.

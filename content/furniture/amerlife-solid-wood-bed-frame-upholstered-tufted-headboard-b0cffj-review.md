@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Solid Wood Bed Frame Upholstered Tufted Headboard"
 seo_title: "AMERLIFE Solid Wood Bed Frame Review: Worth It? (2026)"
 meta_description: "Honest AMERLIFE solid wood bed frame review: build quality, tufted headboard comfort, assembly ease, and who should buy. 4.2/5 rating breakdown."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CFFJN2NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aqusORvSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid wood frame construction with sturdy slats — no particleboard shortcuts, supports up to 800 lbs evenly distributed"
   - "Tufted headboard padding is thick and comfortable for sitting up in bed reading or watching TV"
   - "Tool-free assembly in under 30 minutes — slats lock into place without screws, frame bolts together with included hex wrench"
-cons:
+cons: 
   - "Headboard height is fixed at 48 inches — too tall for low-profile mattresses, leaving a visible gap between mattress top and headboard bottom"
   - "Noise on slats after 3-4 months of use — some buyers report creaking if slat caps loosen, requiring periodic re-tightening"
+
 ---
 
 ## Is the AMERLIFE Solid Wood Bed Frame Worth Your Money?

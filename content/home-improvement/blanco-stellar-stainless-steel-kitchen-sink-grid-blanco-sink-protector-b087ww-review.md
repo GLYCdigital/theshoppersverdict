@@ -1,4 +1,5 @@
 ---
+
 title: "BLANCO STELLAR Stainless Steel Kitchen Sink Grid - BLANCO Si"
 seo_title: "BLANCO STELLAR Sink Grid Review: Honest 2026 Verdict"
 meta_description: "BLANCO STELLAR stainless sink grid review: real-world testing, scratch protection, fit notes, and durability. Is it worth $100+? Find out here."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B087WWM6GZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bQcVaVAiS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge 18/10 stainless steel construction resists bending even under heavy cast iron cookware — no flex at the corners"
   - "Rounded, polished edges won't scratch sink walls; integrated rubber bumpers keep it silent and stable during use"
   - "Precision-fit design for BLANCO STELLAR sinks — drops in flush with zero wobble and doesn't impede drainage"
-cons:
+cons: 
   - "Premium price point — you're paying for the BLANCO name; generic grids cost half as much"
   - "Rubber feet can slip out of their slots if you drag the grid across the sink to clean it"
   - "Not universal — only fits BLANCO STELLAR models, so verify your sink dimensions before ordering"
+
 ---
 
 # BLANCO STELLAR Sink Grid Review: The $100 Question

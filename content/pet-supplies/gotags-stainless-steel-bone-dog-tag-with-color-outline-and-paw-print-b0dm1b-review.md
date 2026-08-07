@@ -1,4 +1,5 @@
 ---
+
 title: "GoTags Stainless Steel Bone Dog Tag with Color Outline and Paw Print Review"
 seo_title: "GoTags Stainless Steel Bone Dog Tag Review (2026): Is It Worth It?"
 meta_description: "Honest GoTags stainless steel bone dog tag review: durability, engraving quality, sizing, and real owner feedback. See if this ID tag is right for your dog."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM1B939B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xrA1yLzRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel construction resists rust, scratching, and fading far better than cheaper aluminum tags"
   - "Deep laser engraving stays legible for years — even with daily wear and outdoor exposure"
   - "Color outline and paw print option makes your dog's ID instantly recognizable from a distance"
-cons:
+cons: 
   - "Bone shape can spin on the collar, making the engraving occasionally face backward"
   - "Slightly heavier than aluminum alternatives — noticeable on small breeds under 10 pounds"
+
 ---
 
 A dog tag is one of those purchases you hope you never actually need to rely on. But when your dog bolts after a squirrel or slips through a gap in the fence, that little piece of metal becomes the difference between a happy reunion and a frantic week of posting flyers. The GoTags Stainless Steel Bone Dog Tag with Color Outline and Paw Print is designed for exactly that scenario — and it does the job well.

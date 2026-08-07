@@ -1,4 +1,5 @@
 ---
+
 title: "CFexpress Type A 4.0 inch"
 seo_title: "CFexpress Type A 4.0 Review: Speed Tested for Crea... "
 meta_description: "CFexpress Type A 4.0 memory card reviewed: real-world speeds, heat performance, and compatibility with Sony cameras. Is it worth the upgrade?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT8ZHSQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qkVCEC2zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sustained write speeds that don't throttle during long 4K/6K video bursts"
   - "Physically identical footprint to SD cards — no adapter needed for Sony CFexpress slots"
   - "Consistent performance across multiple card readers, not just proprietary ones"
-cons:
+cons: 
   - "Runs noticeably warm under sustained heavy writes — be careful when ejecting"
   - "Premium pricing vs. V90 SD cards for photographers who don't shoot video"
+
 ---
 
 Let's be blunt: if you're still shooting on V90 SD cards in a camera that supports CFexpress Type A, you're leaving performance on the table. This card class is the bridge between pro workflows and compact bodies, and the CFexpress Type A 4.0 slot sits right in that sweet spot. With a 4.6 average across 229 ratings, it's clearly earning its keep. But the real question isn't whether it's fast — it's whether *your* workflow needs that speed.

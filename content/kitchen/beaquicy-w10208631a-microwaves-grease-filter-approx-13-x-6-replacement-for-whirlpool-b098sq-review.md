@@ -1,4 +1,5 @@
 ---
+
 title: "Beaquicy W10208631A Microwaves Grease Filter Approx. 13 inch  x 6 inch"
 seo_title: "Beaquicy W10208631A Grease Filter Review: Exact Fit"
 meta_description: "Beaquicy W10208631A microwave grease filter review: exact fit for Whirlpool/KitchenAid models, durable mesh, easy install. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B098SQ2KHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/914b77XdXAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Exact OEM-equivalent dimensions (13 inch " x 6 inch ") with correct tab orientation for tool-free pop-in installation
   - "Multi-layer aluminum mesh catches grease effectively without restricting airflow — microwave venting stays strong"
   - "Ships as a 2-pack, so you get a spare or can replace both filters on dual-filter over-the-range models"
-cons:
+cons: 
   - "Not dishwasher-safe — hand washing with hot soapy water is required to avoid warping the aluminum frame"
   - "Fits only the specific Whirlpool/KitchenAid/Maytag models listed — verify your model number before ordering"
+
 ---
 
 ## The $20 fix that saves you from a $300 service call

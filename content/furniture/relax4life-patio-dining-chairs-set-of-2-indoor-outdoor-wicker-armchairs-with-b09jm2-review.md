@@ -1,4 +1,5 @@
 ---
+
 title: "RELAX4LIFE Patio Dining Chairs Set of 2, Indoor Outdoor Wick"
 seo_title: "RELAX4LIFE Patio Dining Chairs Set of 2, Indoor Ou Review"
 meta_description: "Our full relax4life patio dining chairs set of 2, indoor outdoor wick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09JM2WVYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ra1jzKEwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RELAX4LIFE Patio Dining Chairs Set of 2: The $150 Question

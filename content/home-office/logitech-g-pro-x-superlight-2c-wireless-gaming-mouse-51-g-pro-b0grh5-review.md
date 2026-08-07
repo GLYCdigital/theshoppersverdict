@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech G PRO X Superlight 2c Wireless Gaming Mouse, 51 g p"
 seo_title: "Logitech G PRO X Superlight 2c Wireless Gaming Mou Review"
 meta_description: "Our full logitech g pro x superlight 2c wireless gaming mouse, 51 g p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRH5V81P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech G PRO X Superlight 2c isn't a mouse. It's a statement. At 51 grams, this thing is so light it feels like a hollow shell in the box — until you plug it in and realize that weight reduction is exactly what makes it disappear in your hand. I've reviewed dozens of gaming mice over the years, and this is the first one that genuinely made me forget I was holding anything at all.

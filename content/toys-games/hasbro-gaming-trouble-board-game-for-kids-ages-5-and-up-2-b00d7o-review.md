@@ -1,4 +1,5 @@
 ---
+
 title: "Hasbro Gaming Trouble Board Game for Kids Ages 5 and Up 2-4 inch"
 seo_title: "Hasbro Trouble Board Game Review: Pop-O-Matic Fun for Ages 5+"
 meta_description: "Honest Hasbro Trouble review: Is the classic Pop-O-Matic board game worth it for kids 5+? We break down gameplay, durability, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00D7OAOYI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-oNwrbbnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The Pop-O-Matic die bubble is genuinely satisfying to press — no dice to lose, no setup fiddling, and it prevents cheating since nobody can control the roll"
   - "Plays in about 20 minutes with 2-4 players, making it an ideal length for young attention spans without dragging on"
   - "Simple rules (get all 4 pegs around the board and into HOME) that a 5-year-old can grasp after one round, but with enough take-that moments to keep adults engaged"
-cons:
+cons: 
   - "The plastic pegs are thin and can snap if a kid presses too hard when moving pieces — replacements aren't sold separately"
   - "The pop mechanism gets loud and can become a repetitive annoyance for adults after multiple rounds, especially in smaller rooms"
   - "Losing a peg to a 'Trouble' send-back feels harsh for younger kids — expect some tears if your 5-year-old is competitive"
+
 ---
 
 If you grew up in the 90s, you remember the satisfying *POP* of the Trouble die bubble. The question is: does Hasbro's modern version hold up for today's kids, or is it just nostalgia bait? After combing through the 235 ratings and testing the mechanics, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "ROM&ND: GLASTING MELTING BALM"
 seo_title: "ROM&ND: GLASTING MELTING BALM Review: Verdict | TSV"
 meta_description: "Our full rom&nd: glasting melting balm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GCZP9C12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518PesuQrGL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've watched a single K-beauty tutorial in the past year, you've seen this balm.** The ROM&ND Glasting Melting Balm has become the default answer to "how do I get that glass-skin lip look?" — and with 225 ratings averaging 4.5 stars, it's not just hype. But is it worth your money when there are a dozen cheaper glossy balms on Amazon? Let's break it down.

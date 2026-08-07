@@ -1,4 +1,5 @@
 ---
+
 title: "ウェーデ"
 seo_title: "ウェーデ Review: Is This Patio Tool Worth It? (2026)"
 meta_description: "Read our honest ウェーデ review. We tested build quality, real-world performance, and value. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK7GCR1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z5yDhUSiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid, weather-resistant construction that survives repeated outdoor use without rust or warping"
   - "Ergonomic grip reduces hand fatigue during extended sessions — a real difference in comfort"
   - "Versatile enough for both detailed edging work and larger clearing tasks"
-cons:
+cons: 
   - "Handle length may feel short for taller users (over 6 feet)"
   - "Not ideal for heavy clay or rocky soil — it will struggle in those conditions"
+
 ---
 
 # ウェーデ Review: A Solid Garden Workhorse With One Notable Catch

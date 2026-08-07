@@ -1,4 +1,5 @@
 ---
+
 title: "Einhomn Queen Size Upholstered Bed Frame with Wingback Headb"
 seo_title: "Einhomn Queen Bed Frame Review: Wingback Headboard, 4.4 Stars"
 meta_description: "Einhomn Queen upholstered bed frame review: Is the wingback headboard platform worth it? Real pros, cons, and buying advice from 220+ ratings."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3HRMLDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xiYOJYC0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free assembly — the frame clicks together in roughly 20–30 minutes with no drill required"
   - "Solid wood slats spaced closely enough to support a memory foam mattress without a box spring"
   - "Wingback headboard with dense foam padding provides genuine back support for sitting up in bed"
-cons:
+cons: 
   - "Fabric is a light linen blend that shows pet hair and dust clearly — darker colors are safer if you have animals"
   - "Wingback design adds 12+ inches on each side, so measure your room carefully before ordering"
   - "No under-bed clearance for storage — the platform sits flush to the floor"
+
 ---
 
 **Let's be honest about the Einhomn Queen Upholstered Bed Frame with Wingback Headboard.** At 4.4 stars from 220 ratings, the math says most owners are satisfied. But the real question is whether this frame fits *your* bedroom, not just whether it's "good on Amazon." Here's what you actually need to know.

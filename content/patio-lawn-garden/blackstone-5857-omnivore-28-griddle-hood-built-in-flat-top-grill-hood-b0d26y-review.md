@@ -1,4 +1,5 @@
 ---
+
 title: "BLACKSTONE 5857 Omnivore 28 inch  Griddle Hood, Built-in Flat Top"
 seo_title: "BLACKSTONE 5857 Omnivore 28 inch  Griddle Hood Review (2026)"
 meta_description: "Honest BLACKSTONE 5857 Omnivore 28 inch  griddle hood review: build quality, fit, performance, and whether this accessory is worth adding to your flat top."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D26YKYN5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61puQX4ANbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Powder-coated steel construction with stainless steel hinge pins resists rust and warping through high-heat cycles"
   - Compatible with both 28 inch " Omnivore griddles and older 28 inch " models — check your model number before ordering
   - "Wind guard channels heat efficiently; tested to hold temperature with a 40°F drop on cold, breezy days"
-cons:
+cons: 
   - "No integrated temperature gauge — you'll need a surface thermometer for precise cooking"
   - Fits only 28 inch " models; the 22 inch " and 36 inch " owners will need a different hood
   - "Handle gets hot during extended high-heat sessions; use a glove or towel"
+
 ---
 
 If you own a 28-inch Blackstone griddle, you already know the deal: the cooking surface is phenomenal, but cooking outdoors without a hood means slow heat-ups on windy days, splatter on your patio, and zero ability to melt cheese or trap steam for smash burgers. The BLACKSTONE 5857 Omnivore 28" Griddle Hood addresses exactly those pain points. After spending a season with it, here's the honest breakdown.

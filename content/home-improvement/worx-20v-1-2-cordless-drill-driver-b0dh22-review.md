@@ -1,7 +1,8 @@
 ---
-title: "Worx 20V 1/2\" Cordless Drill Driver"
-seo_title: "Worx 20V 1/2\" Cordless Drill Driver Review: Verdict | TSV"
-meta_description: "Our full worx 20v 1/2\" cordless drill driver review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Worx 20V 1/2\ Cordless Drill Driver"
+seo_title: "Worx 20V 1/2\ Cordless Drill Driver Review: Verdict | TSV"
+meta_description: "Our full worx 20v 1/2\ cordless drill driver review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "worx-20v-1-2-cordless-drill-driver-b0dh22-review"
 image_alt: "Worx 20V 1/2 Cordless Drill Driver"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DH22SYKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OTfpSz4XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the cordless drill market is crowded with $60 options that feel like toys. The Worx 20V 1/2" Drill Driver isn't trying to compete with a Milwaukee Fuel or a DeWalt XR — and it doesn't need to. What it does is deliver dependable, repeatable performance for the home DIYer and light-contractor crowd at a price that won't make you wince. With a 4.6-star average across 229 ratings, the consensus is clear: this thing earns its place in your toolbox.

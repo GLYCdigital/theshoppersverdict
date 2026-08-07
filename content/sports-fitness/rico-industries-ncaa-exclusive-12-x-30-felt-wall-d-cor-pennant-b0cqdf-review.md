@@ -1,7 +1,8 @@
 ---
-title: "Rico Industries NCAA Exclusive 12\" x 30\" Felt Wall DÃ©cor Pe"
-seo_title: "Rico Industries NCAA Exclusive 12\" x 30\" Felt Wall Review"
-meta_description: "Our full rico industries ncaa exclusive 12\" x 30\" felt wall dã©cor pe review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Rico Industries NCAA Exclusive 12\ x 30\ Felt Wall DÃ©cor Pe"
+seo_title: "Rico Industries NCAA Exclusive 12\ x 30\ Felt Wall Review"
+meta_description: "Our full rico industries ncaa exclusive 12\ x 30\ felt wall dã©cor pe review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "rico-industries-ncaa-exclusive-12-x-30-felt-wall-d-cor-pennant-b0cqdf-review"
 image_alt: "Rico Industries NCAA Exclusive 12 x 30 Felt Wall DÃ©cor Pennant - Great for Home/Bed Room/Man Cave DÃ©cor"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQDFZDXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Sbilvp+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this is a felt pennant, not a framed piece of art. But if you want to show team pride without dropping $80 on a framed poster, the Rico Industries NCAA Exclusive 12" x 30" Felt Wall Décor hits a sweet spot — provided you understand what you're buying.

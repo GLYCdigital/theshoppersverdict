@@ -1,4 +1,5 @@
 ---
+
 title: "100% Solid Wood Coffee Table for Living Room, 2-Tier Coffee"
 seo_title: "100% Solid Wood Coffee Table Review: 2-Tier Living Room Pick"
 meta_description: "Honest 100% Solid Wood Coffee Table review: 2-tier design, real wood construction, 4.8-star rating. Is it worth your money? Find out who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DT8WKHTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l66YJpH5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 100% solid wood construction — no particleboard or veneer hiding under the finish"
   - "Two-tier design adds practical storage without making the footprint feel bulky"
   - "Sturdy, wobble-free assembly with straightforward instructions — most buyers report 20-30 minute setup"
-cons:
+cons: 
   - "Wood grain and color can vary noticeably between units — don't expect a perfect match to product photos"
   - "Lower shelf is open with no lip — smaller items can slide off if bumped"
   - "Not ideal for very small spaces — the 2-tier structure needs breathing room to look right"
+
 ---
 
 If you've been burned by "solid wood" furniture that turns out to be MDF with a wood-print sticker, this 2-tier coffee table from the 100% Solid Wood line is the reality check you need. At 4.8 stars across 240 ratings, it's clearly doing something right. But let's dig past the star rating and see if it actually earns a spot in your living room.

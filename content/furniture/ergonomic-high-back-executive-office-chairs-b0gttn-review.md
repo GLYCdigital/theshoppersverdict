@@ -1,23 +1,25 @@
 ---
+
 title: "Ergonomic High-Back Executive Office Chairs"
 seo_title: "Ergonomic High-Back Executive Chair Review (2026)"
 meta_description: "Honest review of the Ergonomic High-Back Executive Office Chair: lumbar support, build quality, comfort tradeoffs, and who should buy it."
 slug: "ergonomic-high-back-executive-office-chairs-b0gttn-review"
 image_alt: "Ergonomic high-back executive office chair with padded armrests and lumbar support"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTTN6Z2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c9H1x9aSL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine high-back support that reaches mid-shoulder blade — rare at this price point"  
   - "Thick, dense foam cushioning that holds up after months of daily use"  
   - "Tool-free assembly under 15 minutes, with clearly labeled parts"  
-cons:  
+cons: 
   - "Armrests adjust only up/down, not inward or outward — a miss for wider builds"  
   - "Seat depth is fixed; taller users (6'+) may find the edge digs into thighs"
+
 ---
 
 **This chair isn't trying to be a $900 Herman Miller. It's trying to be the best $250-ish executive chair you can actually live with — and for most people, it mostly succeeds.**

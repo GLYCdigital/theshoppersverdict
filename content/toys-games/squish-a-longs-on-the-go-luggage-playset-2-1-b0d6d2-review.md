@@ -1,4 +1,5 @@
 ---
+
 title: "Squish-a-longs On-The-Go Luggage Playset - (2) 1â€"
 seo_title: "Squish-a-longs On-The-Go Luggage Playset - (2) 1â€ Review"
 meta_description: "Our full squish-a-longs on-the-go luggage playset - (2) 1â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6D2SGK9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eV+Cl44sL._AC_SL1435_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Squish-a-longs On-The-Go Luggage Playset is the rare travel toy that actually earns its name.** Most "travel" toys are just smaller versions of the same thing—this one is thoughtfully designed around the problem of keeping little hands busy on the move. At 4.6 stars from 229 Amazon ratings, it's clearly hitting a nerve with parents. Here's the real story.

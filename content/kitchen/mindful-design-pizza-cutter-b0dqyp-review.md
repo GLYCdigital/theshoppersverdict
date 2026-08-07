@@ -1,4 +1,5 @@
 ---
+
 title: "Mindful Design Pizza Cutter"
 seo_title: "Mindful Design Pizza Cutter Review: Verdict | TSV"
 meta_description: "Our full mindful design pizza cutter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQYPQKXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JcIbwBg7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most pizza cutters are flimsy plastic wheels that smear cheese and crush crusts. The Mindful Design Pizza Cutter is not that. With 225 ratings averaging 4.5 stars, this is the cutter that actually does what it promises — clean slices through everything from Neapolitan thin crust to deep-dish Chicago style.

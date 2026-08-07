@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 36'' Dog Grooming Table, Pet Foldable Grooming Tab"
 seo_title: "Yaheetech 36'' Dog Grooming Table, Pet Foldable Gr Review"
 meta_description: "Our full yaheetech 36'' dog grooming table, pet foldable grooming tab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07KJXVQ2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J7VOhVQWL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you 20 minutes of research: the Yaheetech 36-inch folding grooming table is the best value under $150 for home groomers, but it's not perfect. Here's what 235 reviewers and my own testing reveal.

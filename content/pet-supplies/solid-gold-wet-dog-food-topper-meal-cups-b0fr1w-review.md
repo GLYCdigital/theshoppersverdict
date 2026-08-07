@@ -1,4 +1,5 @@
 ---
+
 title: "Solid Gold Wet Dog Food Topper & Meal Cups,"
 seo_title: "Solid Gold Wet Dog Food Topper & Meal Cups, Review: Verdi"
 meta_description: "Our full solid gold wet dog food topper & meal cups, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR1WGN94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U4cqfr7ML._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns their nose up at dry kibble, you've probably cycled through a dozen toppers already — some too greasy, some too salty, most just ignored. Solid Gold Wet Dog Food Topper & Meal Cups are different. This is a brand with a legit pedigree (they've been around since 1974), and these cups deliver on the two things that matter most: real protein and convenience. But they're not without quirks, and you need to know what you're buying before you commit.

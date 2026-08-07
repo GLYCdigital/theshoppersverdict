@@ -1,4 +1,5 @@
 ---
+
 title: "CFMOUR Original Speed Cube 3x3x3, Fast Magic Cube for Kids,"
 seo_title: "CFMOUR Speed Cube 3x3x3 Review: Smooth & Fast for Kids (2026)"
 meta_description: "CFMOUR Original Speed Cube 3x3x3 review: Is this fast magic cube worth it for kids? We test smoothness, durability, and corner cutting. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2V97CT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GRXiUgdeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tension-adjustable core lets you dial in speed from loose to tight — a feature usually reserved for $20+ cubes"
   - "Weighs just 82 grams, so it's light enough for small hands to manipulate for hours without fatigue"
   - "Carbon-textured surface provides grip without the sticky residue cheaper cubes leave behind"
-cons:
+cons: 
   - "Stickerless tiles can show minor scratching after weeks of aggressive solving, though this doesn't affect performance"
   - "No included lubrication syringe or adjustment tool — you'll need a small screwdriver for the tension system"
   - "The spring noise on tight settings is noticeable for the first day until the mechanism breaks in"
+
 ---
 
 The $8-to-$12 cube market is a minefield. Most of what you'll find there pops apart mid-solve, locks up on corner cuts, or feels like twisting a brick. The CFMOUR Original Speed Cube 3x3x3 is not that cube. With a 4.6-star average across 229 ratings, it's quietly become one of the most dependable budget speed cubes for younger solvers — and I understand why after testing it.

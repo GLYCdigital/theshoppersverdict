@@ -1,4 +1,5 @@
 ---
+
 title: "C3... 1 inch  Stabilized Chlorine Tablets for Swimming Pools | Sl"
 seo_title: "C3 1-Inch Stabilized Chlorine Tablets Review: 2026 Pool Care"
 meta_description: "Honest C3 1-inch stabilized chlorine tablets review: slow-dissolving power, 95% available chlorine, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5749PM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nBFMzrvPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "95% available chlorine content means fewer tablets needed per week than budget brands"
   - "Slow-dissolving formulation holds up in hot weather without leaving residue in skimmers"
   - "Stabilized with cyanuric acid, protecting chlorine from rapid UV degradation"
-cons:
+cons: 
   - "1-inch size fits only small floaters and inline feeders — not standard 3-inch dispensers"
   - "Cyanuric acid builds up over time, requiring partial drain/refill if you use exclusively"
+
 ---
 
 If you're tired of shocking your pool every other day just to keep algae at bay, the C3 1-inch Stabilized Chlorine Tablets deserve a hard look. This isn't a flashy product — it's a bucket of white discs that do one job well. But that job matters: keeping your water clear without babysitting it.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars Venator-Class Republic Attack Cruiser, Ultima"
 seo_title: "LEGO Star Wars Venator-Class Republic Attack Cruis Review"
 meta_description: "Our full lego star wars venator-class republic attack cruiser, ultima review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGY4T856/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bqB5BmkzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you've been waiting for a LEGO Star Wars set that truly captures the *Venator*-class Republic Attack Cruiser's aggressive wedge silhouette, this is it. The Ultimate Collector Series treatment finally does justice to the ship that led the Grand Army of the Republic into battle. With 5,374 pieces, it's the largest *Star Wars* ship LEGO has released in this scale — and it shows.

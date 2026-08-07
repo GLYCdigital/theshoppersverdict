@@ -1,4 +1,5 @@
 ---
+
 title: "NEW!! Cutting Board by OTOTO â€“ Wooden & Plastic Cutting Bo"
 seo_title: "NEW!! Cutting Board by OTOTO â€“ Wooden & Plastic  Review"
 meta_description: "Our full new!! cutting board by ototo â€“ wooden & plastic cutting bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJV63B7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qtg2IdIgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 OTOTO is the Israeli design studio behind those viral whale-shaped colanders and garlic-holding penguins. So when they released a cutting board, expectations were high — could it be both whimsical *and* functional? After digging through 229 ratings and the specs, here's the real story.

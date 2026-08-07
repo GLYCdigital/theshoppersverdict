@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Lawn & Garden Extended Protection Plan ($175 inch"
 seo_title: "ASURION 3-Year Lawn & Garden Plan Review: Worth It? (2026)"
 meta_description: "ASURION 3 Year Lawn & Garden Extended Protection Plan review: coverage details, real customer experiences, claim process, and whether the $175 price is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07P83ZNWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wLRfGdjlL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures from day one — no separate manufacturer warranty juggling"
   - "Claims are handled by Asurion's in-house team, not a third-party broker; most approvals happen within 24-48 hours"
   - "Transferable if you sell the equipment within the coverage window — adds resale value"
-cons:
+cons: 
   - "Does not cover normal wear items like mower blades, belts, or trimmer lines — expect to pay for those out of pocket"
   - "You must register the plan within 30 days of purchase; miss the window and the plan is void with no refund"
+
 ---
 
 Let's be direct about what this is: a $175 insurance policy for your lawn equipment, not a product you can hold. The question isn't whether it's flashy — it's whether it pays out when your riding mower dies in year two. After digging through 225 ratings and the actual coverage terms, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee 55 inch  TV Stand Dresser for Bedroom with 8 Fabric Drawe"
 seo_title: "EnHomee 55 inch  TV Stand Dresser Review: 8 Fabric Drawers"
 meta_description: "Honest EnHomee 55 inch  TV stand dresser review: 8 fabric drawers, sturdy frame, real buyer feedback. Is this 2-in-1 bedroom piece worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1K8YJRR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cL+-Wr90L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Eight spacious fabric drawers offer serious storage — more than most TV stands in this price class"
   - Assembled dimensions (roughly 55 inch "W x 15.7 inch "D x 29.5 inch "H) fit most 55-inch TVs with room to spare
   - "Fabric drawers are removable and washable — a practical upgrade over fixed particleboard bins"
-cons:
+cons: 
   - "Drawer runners are basic; heavy loading can cause sticking or misalignment over time"
   - "Fabric panels attract dust and pet hair visibly — need regular vacuuming to look clean"
   - "No cable management holes in the back panel — a minor but annoying oversight for TV setups"
+
 ---
 
 Let’s be honest: most combo TV stands and dressers are a compromise. You get flimsy MDF, drawers that jam, or a footprint that swallows your bedroom. The EnHomee 55" TV Stand Dresser tries to fix that with eight fabric drawers and a low-profile design. After digging through 210 ratings and real owner feedback, here’s what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "HaeBorl Wireless Controller for Xbox One"
 seo_title: "HaeBorl Wireless Controller Xbox One Review (2026)"
 meta_description: "HaeBorl Wireless Controller for Xbox One review: build quality, battery life, and compatibility tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DGQFMDZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QIYSi9eRL._SL1400_.jpg"
-pros:
+pros: 
   - "Hall effect joysticks eliminate drift for years of reliable play"
   - "Full wireless and wired flexibility with Bluetooth and USB-C"
   - "Responsive triggers with adjustable hair-trigger stops"
-cons:
+cons: 
   - "No 3.5mm headphone jack limits audio options"
   - "Mushy face buttons compared to official Xbox controllers"
   - "Battery life averages 12-15 hours, shorter than Microsoft's claim"
+
 ---
 
 Let's cut to the chase: the HaeBorl Wireless Controller for Xbox One is a budget-friendly alternative that punches above its price point in some surprising ways — and falls short in others. I've spent a week with it across shooters, racing games, and platformers, and here's the honest breakdown.

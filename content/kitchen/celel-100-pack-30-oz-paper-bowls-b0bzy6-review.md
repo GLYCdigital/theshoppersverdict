@@ -1,4 +1,5 @@
 ---
+
 title: "Celel 100 Pack 30 oz Paper Bowls"
 seo_title: "Celel 30 oz Paper Bowls Review: Sturdy 100-Pack Value"
 meta_description: "Celel 30 oz paper bowls review: leak-proof, sturdy 100-pack. See real customer feedback on these disposable bowls for meal prep, parties & more."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BZY62718/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BLnLtOIxL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Leak-proof coated interior holds up to 30 oz of hot soup or chili without soaking through"
   - "Extra-thick paper walls resist bending and collapsing even when fully loaded"
   - "100-count bulk pack works out to roughly 30 cents per bowl — cheaper than most alternatives"
-cons:
+cons: 
   - "Not microwave-safe for extended heating; coating can soften with prolonged high heat"
   - "No lids included — you'll need to buy separate covers for leftovers or takeout"
+
 ---
 
 # Celel 100 Pack 30 oz Paper Bowls Review: Are These the Last Disposable Bowls You'll Need?

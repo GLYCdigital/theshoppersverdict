@@ -1,16 +1,17 @@
 ---
+
 title: "eos Cashmere Shave Oil – Vanilla Cashmere, Moisturizing Shave Oil with Shea Butter & Glycerin, Helps Prevents Irritation & Razor Burn, Vegan, 6 fl oz"
 seo_title: "eos Cashmere Shave Review: Verdict (4.7/5) | TSV"
 meta_description: "The second this hit my skin I felt how soft it was and tried not to get too 7,664+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "eos-cashmere-shave-oil-vanilla-cashmere-moisturizing-shave-oil-with-shea-butter-review"
 image_alt: "eos Cashmere Shave Oil – Vanilla Cashmere, Moisturizing Shave Oil with Shea Butter & Glycerin, Helps Prevents Irritation"
-keywords:
+keywords: 
   - "eos cashmere shave review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the eos Cashmere Shave Oil?"
     answer: "The second this hit my skin I felt how soft it was and tried not to get too excited but this was the fast... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the eos Cashmere Shave Oil?"
@@ -23,12 +24,13 @@ review_count: 7664
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CPYQZR23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NJWAgT7hL._SL1500_.jpg"
-pros:
+pros: 
   - "The second this hit my skin I felt how soft it was and tried not to get too excited but this was the."
   - "Smells amazing and works great Smells amazing and works great."
   - "Works great Love this shave oil."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Shoppers with dry, irritation-prone skin have been burned before by shave products that promise moisture but deliver a waxy coating. The eos Cashmere Shave Oil in Vanilla Cashmere takes a different approach — it skips the foam entirely. After testing this 6 fl oz pump bottle through three full shaves, including a week-long growth on sensitive legs, here's where it lands.

@@ -1,4 +1,5 @@
 ---
+
 title: "HALLS Relief Sugar Free Black Cherry Flavor Cough Drops, Eco"
 seo_title: "HALLS Relief Sugar Free Black Cherry Flavor Cough  Review"
 meta_description: "Our full halls relief sugar free black cherry flavor cough drops, eco review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B079H5C44T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hNOfTo0JL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've reviewed a lot of throat lozenges, and most of them fall into two camps: candy that pretends to medicate, or medicine that tastes like punishment. The HALLS Relief Sugar Free Black Cherry drops actually split the difference. With a 4.9-star average across 245 ratings, this economy pack has clearly found its audience — and after testing it through a brutal allergy season, I get why.

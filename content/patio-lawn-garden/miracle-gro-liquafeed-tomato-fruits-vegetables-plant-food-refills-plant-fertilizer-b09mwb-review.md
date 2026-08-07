@@ -1,4 +1,5 @@
 ---
+
 title: "Miracle-GRO LiquaFeed Tomato, Fruits & Vegetables Plant Food"
 seo_title: "Miracle-GRO LiquaFeed Tomato, Fruits & Vegetables  Review"
 meta_description: "Our full miracle-gro liquafeed tomato, fruits & vegetables plant food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B09MWB13JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uBTnvJ7DS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the garden aisle staring at fertilizer bags, wondering which one won't burn your tomato roots into crispy husks, this review is for you. The Miracle-Gro LiquaFeed system takes a genuinely different approach: instead of mixing granular fertilizer into soil and hoping roots find it, you're delivering a precise nutrient solution directly to the root zone every time you water. And with a 4.9-star average from 245 Amazon ratings, backyard growers are clearly noticing the difference.

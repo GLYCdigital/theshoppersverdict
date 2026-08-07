@@ -1,4 +1,5 @@
 ---
+
 title: "Espresso Accessories Kit,316 Stainless Steel WDT Tool Espres"
 seo_title: "Espresso Accessories Kit Review: 316 Steel WDT Tool & Funnel"
 meta_description: "Honest review of the 316 stainless steel espresso accessories kit with WDT tool, dosing funnel, and leveler. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB4L9SDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JShjOsBfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 316 marine-grade steel resists corrosion and rust far better than the 304 steel most budget kits use"
   - "Magnetic docking station holds all three tools securely — no more rummaging through drawers mid-shot"
   - "The WDT tool's 0.4mm needles are thin enough to break clumps without gouging the basket"
-cons:
+cons: 
   - "No dosing funnel magnetic connection — the funnel sits loose on the portafilter and can shift during use"
   - "The leveler's adjustable depth screw can loosen with heavy use; you'll want to check it weekly"
+
 ---
 
 Let's be direct: most espresso accessory kits under $40 are junk. Thin 304 steel, wobbly magnetic docks, and needles thick enough to redistribute grounds like a garden rake. This 316 stainless steel kit from Amazon's budget tier is the exception — mostly.

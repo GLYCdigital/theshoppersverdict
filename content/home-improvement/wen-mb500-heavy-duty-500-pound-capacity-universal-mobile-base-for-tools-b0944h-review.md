@@ -1,4 +1,5 @@
 ---
+
 title: "WEN MB500 Heavy Duty 500-Pound Capacity Universal Mobile Bas"
 seo_title: "WEN MB500 Heavy Duty 500-Pound Capacity Universal  Review"
 meta_description: "Our full wen mb500 heavy duty 500-pound capacity universal mobile bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0944H6H4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jeik34TcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your workshop has a 300-pound table saw squatting in the corner because moving it means a back injury, the WEN MB500 solves that problem for about the price of a tank of gas. This universal mobile base is the kind of purchase that makes you wonder why you didn't buy it months ago.

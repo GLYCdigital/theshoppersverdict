@@ -1,4 +1,5 @@
 ---
+
 title: "A-Tech | DDR4 DIMM ECC Unbuffered | All Kit Sizes All Speeds"
 seo_title: "A-Tech DDR4 ECC UDIMM Review: Reliable Server RAM"
 meta_description: "A-Tech DDR4 ECC Unbuffered DIMM review: Is this affordable server memory worth it? Tested speeds, compatibility, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQ99Z9RW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VN-VX5fGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine ECC UDIMM support at a fraction of OEM pricing — typically 30-50% less than Dell/HP/HPE branded sticks"
   - "Wide compatibility across Xeon, Ryzen Pro, and select Core i3/i5 platforms that support unbuffered ECC"
   - "Lifetime warranty with free advanced replacement — no return shipping wait if a stick fails"
-cons:
+cons: 
   - "Limited to 288-pin UDIMM slots — will not work in RDIMM/LRDIMM server boards or most consumer desktops"
   - "No heat spreader on several configs — runs fine but looks bare in windowed cases"
   - "Speed bins max out at 3200MHz — not for overclockers chasing 3600+"
+
 ---
 
 ## The Budget ECC Option That Actually Works

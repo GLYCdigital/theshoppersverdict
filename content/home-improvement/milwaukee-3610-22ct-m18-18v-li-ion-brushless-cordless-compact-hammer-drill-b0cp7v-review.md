@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 3610-22CT M18 18V Li-ion Brushless Cordless Compac"
 seo_title: "Milwaukee 3610-22CT M18 18V Li-ion Brushless Cordl Review"
 meta_description: "Our full milwaukee 3610-22ct m18 18v li-ion brushless cordless compac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP7VSDLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LIXoEuBLL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Milwaukee 3610-22CT is the drill you grab when the job is in a cramped corner, not when you're mixing mortar.** This compact brushless hammer drill from Milwaukee's M18 lineup packs surprising punch for its size, but it comes with compromises that matter depending on what you're drilling.

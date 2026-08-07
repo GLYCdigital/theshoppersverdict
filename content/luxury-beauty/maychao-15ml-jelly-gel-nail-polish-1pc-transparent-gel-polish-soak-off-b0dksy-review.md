@@ -1,4 +1,5 @@
 ---
+
 title: "MAYCHAO 15ML Jelly Gel Nail Polish 1Pc Transparent Gel Polis"
 seo_title: "MAYCHAO 15ML Jelly Gel Nail Polish 1Pc Transparent Review"
 meta_description: "Our full maychao 15ml jelly gel nail polish 1pc transparent gel polis review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKSY89TF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l4CuvEfpL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

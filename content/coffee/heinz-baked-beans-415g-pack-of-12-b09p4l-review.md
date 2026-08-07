@@ -1,4 +1,5 @@
 ---
+
 title: "Heinz Baked Beans 415g (Pack of 12)"
 seo_title: "Heinz Baked Beans 415g (Pack of 12) Review: Verdict | TSV"
 meta_description: "Our full heinz baked beans 415g (pack of 12) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09P4L33SW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sNABOMiAL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There's a reason Heinz Baked Beans are a pantry staple across the British Isles, and this 12-pack delivers that same unmistakable taste — with a few caveats you need to know before clicking buy. Let's cut through the hype and talk about what you're actually getting.

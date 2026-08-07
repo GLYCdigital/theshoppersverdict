@@ -1,4 +1,5 @@
 ---
+
 title: "Monster Jam, Official Grave Digger Remote Control Truck"
 seo_title: "Monster Jam, Official Grave Digger Remote Control  Review"
 meta_description: "Our full monster jam, official grave digger remote control truck review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNZN96DL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818GMtZnCrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Grave Digger name carries weight. For three decades, this truck has been the face of monster truck racing — the one kids point at in the stands and the one dads secretly want to drive too. This official RC version from Monster Jam promises that experience in a package small enough for the living room floor. The question is whether it delivers real monster truck performance or just looks the part.

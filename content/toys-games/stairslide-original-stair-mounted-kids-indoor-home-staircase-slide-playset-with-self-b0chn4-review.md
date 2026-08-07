@@ -1,4 +1,5 @@
 ---
+
 title: "Stairslide Original Stair Mounted Kids Indoor Home Staircase"
 seo_title: "Stairslide Original Stair Mounted Kids Indoor Home Review"
 meta_description: "Our full stairslide original stair mounted kids indoor home staircase review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CHN4ZCQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51egTvH1KzL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the Stairslide Original is one of those products that looks like a gimmick until you see a kid use it. Then you get it. It's a molded plastic slide that mounts directly onto your existing staircase, turning a boring set of stairs into a mini amusement park ride. At $150-$200 depending on current pricing, it's not cheap — but it's also not a flimsy piece of inflatable nonsense. The question is whether your stairs, your kid, and your sanity can handle it.

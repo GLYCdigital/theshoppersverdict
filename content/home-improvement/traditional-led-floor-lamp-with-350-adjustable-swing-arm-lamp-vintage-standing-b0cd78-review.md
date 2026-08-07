@@ -1,4 +1,5 @@
 ---
+
 title: "Traditional LED Floor Lamp with 350Â° Adjustable Swing Arm L"
 seo_title: "Traditional LED Floor Lamp with 350Â° Adjustable S Review"
 meta_description: "Our full traditional led floor lamp with 350â° adjustable swing arm l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CD78YFPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kzW17QqFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The "reading lamp that actually reaches" — tested in a real living room**

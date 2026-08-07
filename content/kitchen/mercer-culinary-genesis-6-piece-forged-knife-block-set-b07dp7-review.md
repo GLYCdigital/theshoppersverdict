@@ -1,4 +1,5 @@
 ---
+
 title: "Mercer Culinary Genesis 6-Piece Forged Knife Block Set"
 seo_title: "Mercer Culinary Genesis 6-Piece Forged Knife Block Review"
 meta_description: "Our full mercer culinary genesis 6-piece forged knife block set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07DP7WGMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iVdamN4IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most knife sets under $150 are a compromise. You get decent blades, but the handles feel cheap, the block takes up half your counter, and the included "steel" is a gimmick. The Mercer Culinary Genesis 6-Piece set isn't that. This is the set that culinary school students buy for themselves — and then keep using for a decade. Here's why it deserves a spot on your counter.

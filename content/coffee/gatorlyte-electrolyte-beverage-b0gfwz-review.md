@@ -1,4 +1,5 @@
 ---
+
 title: "Gatorlyte Electrolyte Beverage"
 seo_title: "Gatorlyte Electrolyte Beverage Review: Verdict | TSV"
 meta_description: "Our full gatorlyte electrolyte beverage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GFWZ275Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710upmQbO4L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: Gatorlyte isn't your standard sports drink. This is Gatorade's answer to the clinical hydration market — the stuff that's actually designed to pull fluids into your bloodstream, not just taste like fruit punch. Here's what the 4.7-star rating doesn't tell you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bigbiglife Living Room Coffee Table Set of 3, Industrial X-D"
 seo_title: "Bigbiglife Coffee Table Set of 3 Review: Industrial X-Design"
 meta_description: "Read our honest Bigbiglife Living Room Coffee Table Set of 3 review. Industrial X-design, durable materials, real pros & cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFW9KZT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zNJWSt3oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-piece nesting set gives you a coffee table, side table, and accent table for roughly the price of one decent standalone table"
   - "Solid MDF tops with a textured wood-grain finish that convincingly mimics real wood at a fraction of the cost"
   - "The X-shaped black metal legs are genuinely sturdy — no wobble even on medium-pile carpet"
-cons:
+cons: 
   - "MDF construction means you'll want to use coasters; standing water can leave rings if left overnight"
   - "Assembly requires a Phillips head screwdriver and about 25 minutes per table — the included Allen wrench is too short for comfortable leverage"
   - "The finish is matte and slightly rough to the touch, not the smooth lacquered surface you'd get on a $500+ table"
+
 ---
 
 ## Three Tables, One Price Point — Is the Bigbiglife Set Worth It?

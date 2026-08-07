@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Fancy Feast Savory Centers With Beef Wet Cat Food Pat"
 seo_title: "Purina Fancy Feast Savory Centers With Beef Wet Ca Review"
 meta_description: "Our full purina fancy feast savory centers with beef wet cat food pat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07QC8C7N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O-c3QjUyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the dual-texture gimmick worth the premium? Here's what 240 cat owners discovered.**

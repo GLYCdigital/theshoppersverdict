@@ -1,4 +1,5 @@
 ---
+
 title: "9-Inch Pie Pan Review"
 seo_title: "9-Inch Pie Pan Review: Honest Look at This 4.6-Star Pan"
 meta_description: "Read our 9-inch pie pan review. We tested browning, sticking, and cleanup. See who should buy this 4.6-star pan and who should skip it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B085VWNG5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TXZJw+ICL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Even heat distribution produces uniformly golden crusts without scorched edges"
   - "Genuinely non-stick surface releases slices cleanly without crumbling"
   - "Sturdy fluted rim resists warping under high oven heat (up to 450°F)"
-cons:
+cons: 
   - "Shallow 1.2-inch depth means deep-dish recipes will overflow"
   - "Hand-wash only — dishwasher dulls the non-stick coating over time"
+
 ---
 
 You can spot a bad pie pan from across the kitchen: crust edges burnt to charcoal, filling bubbling over a warped rim, and a bottom slice that sticks so badly you’re eating it with a fork straight from the pan. The 9-inch pie pan sold under this listing (Amazon's B085VWNG5B) avoids most of those disasters — but it’s not perfect. Here’s the honest breakdown.

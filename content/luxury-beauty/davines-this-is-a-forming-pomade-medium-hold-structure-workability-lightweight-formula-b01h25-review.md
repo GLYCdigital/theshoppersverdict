@@ -1,4 +1,5 @@
 ---
+
 title: "Davines This Is A Forming Pomade, Medium Hold Structure & Workability"
 seo_title: "Davines Forming Pomade Review: Medium Hold, Real Results"
 meta_description: "Davines This Is A Forming Pomade review: medium hold, lightweight formula, natural finish. See if this luxury styling product earns its price tag."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01H25XZKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HwFOsF52L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Water-soluble formula washes out completely with one shampoo — no waxy buildup"
   - "Lightweight texture that doesn't weigh down fine hair or leave visible residue"
   - "Scent is subtle and sophisticated — citrus and woodsy notes that fade quickly"
-cons:
+cons: 
   - "Medium hold won't tame thick, coarse, or unruly hair — you'll need something stronger"
   - "Price is steep for the 2.5 oz jar; comparable drugstore pomades cost a fraction"
+
 ---
 
 **The $30 question: Does this Italian luxury pomade justify its price tag, or is it just expensive wax in a pretty jar?**

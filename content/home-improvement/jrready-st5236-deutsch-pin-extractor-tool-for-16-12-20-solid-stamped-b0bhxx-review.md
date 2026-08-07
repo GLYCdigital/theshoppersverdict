@@ -1,4 +1,5 @@
 ---
+
 title: "JRready ST5236 Deutsch Pin Extractor Tool for 16#12#20# Soli"
 seo_title: "JRready ST5236 Deutsch Pin Extractor Tool for 16#1 Review"
 meta_description: "Our full jrready st5236 deutsch pin extractor tool for 16#12#20# soli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHXXSV4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-mKqP1-HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a stuck Deutsch terminal with a jeweler's screwdriver and a prayer, you know the pain. The JRready ST5236 exists to end that struggle. This three-tip extractor set targets solid/stamped contacts in 12, 16, and 20 gauge — the most common sizes in automotive, marine, and off-road wiring. At 4.6 stars from 229 ratings, it's clearly earning its keep in real garages. But is it worth your money? Let's dig into the specifics.

@@ -1,4 +1,5 @@
 ---
+
 title: "Al Haramain - Junoon"
 seo_title: "Al Haramain Junoon Review: Is This Luxury Fragrance Worth It?"
 meta_description: "Honest Al Haramain Junoon review: performance, longevity, sillage, and value. See if this 4.1-star luxury perfume deserves your money."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F5MVFSYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41TNnIGUViL._SL1000_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8–12 hours on skin with solid projection for the first 3–4 hours"
   - "Complex oriental-floral composition that evolves noticeably from opening to dry-down"
   - "Strong value proposition versus designer counterparts at 2–3x the price"
-cons:
+cons: 
   - "Opening can be sharp and aldehydic — needs 10–15 minutes to settle into its true character"
   - "Bottle feels lighter and less premium than the price point suggests"
+
 ---
 
 # Al Haramain Junoon Review: The $100+ Fragrance That Thinks It's a Designer

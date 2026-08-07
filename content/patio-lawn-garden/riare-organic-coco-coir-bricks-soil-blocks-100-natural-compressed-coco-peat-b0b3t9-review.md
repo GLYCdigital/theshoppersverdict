@@ -1,4 +1,5 @@
 ---
+
 title: "Riare Organic Coco Coir Bricks Soil Blocks- 100% Natural Com"
 seo_title: "Riare Organic Coco Coir Bricks Soil Blocks- 100% N Review"
 meta_description: "Our full riare organic coco coir bricks soil blocks- 100% natural com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3T9H9LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rjhUZp-AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: if you're still hauling bales of peat moss, you're paying for shipping on mostly air. The Riare Organic Coco Coir Bricks compress a lot of growing medium into a small package — but does that translate to better plants? I tested these bricks across seed starting, container mixes, and raised bed amendment over a full season. Here's what actually matters.

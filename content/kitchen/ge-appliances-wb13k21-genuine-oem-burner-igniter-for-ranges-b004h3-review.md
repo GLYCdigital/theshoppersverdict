@@ -1,4 +1,5 @@
 ---
+
 title: "GE Appliances WB13K21 Genuine OEM Burner Igniter for Ranges"
 seo_title: "GE Appliances WB13K21 Genuine OEM Burner Igniter f Review"
 meta_description: "Our full ge appliances wb13k21 genuine oem burner igniter for ranges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B004H3XPQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SktUMsM1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a kitchen product, the **GE Appliances WB13K21 Genuine OEM Burner Igniter for Ranges** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

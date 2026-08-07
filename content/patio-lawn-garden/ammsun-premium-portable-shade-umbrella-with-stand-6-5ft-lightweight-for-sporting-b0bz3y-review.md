@@ -1,4 +1,5 @@
 ---
+
 title: "AMMSUN Premium Portable Shade Umbrella With Stand, 6.5ft Lig"
 seo_title: "AMMSUN Portable Shade Umbrella Review: 6.5ft With Stand"
 meta_description: "AMMSUN 6.5ft portable shade umbrella with stand: 4.6/5 stars. Durable, adjustable, and easy to carry. Real buyer feedback and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZ3Y6KL4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dSZVX7bqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "30-pound sandbag base with fill hole makes it genuinely stable on grass and uneven ground"
   - "Telescoping aluminum pole extends from 5.5ft to 7ft, giving real flexibility for sun angle"
   - "Carry bag and total weight under 10lbs when empty means it's actually portable"
-cons:
+cons: 
   - "Sandbag base takes effort to fill and drains slowly when you need to empty it"
   - "Canopy is polyester, not UV-rated canvas — extended all-day sun exposure will test it"
   - "No tilt mechanism — you must reposition the whole unit to chase shade"
+
 ---
 
 Let’s be honest: most portable umbrellas are either flimsy wind catchers or heavy burdens that stay in the trunk. The AMMSUN 6.5ft Portable Shade Umbrella tries to thread that needle, and with a 4.6-star average across 229 ratings, it’s clearly doing something right. The question is whether it earns a spot in your car for game days, beach trips, and backyard hangs.

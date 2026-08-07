@@ -1,4 +1,5 @@
 ---
+
 title: "Sportneer Camping Cot, Military Cot Portable Camping Cots fo"
 seo_title: "Sportneer Camping Cot, Military Cot Portable Campi Review"
 meta_description: "Our full sportneer camping cot, military cot portable camping cots fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX27NRPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZKMjKEXHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Cot That Finally Gets Height Right

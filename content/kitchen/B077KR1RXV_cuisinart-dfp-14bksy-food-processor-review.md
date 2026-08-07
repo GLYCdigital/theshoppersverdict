@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Food Processor 14-Cup"
 seo_title: "Cuisinart 14-Cup Food Processor Review: Worth It in 2026?"
 meta_description: "Cuisinart 14-Cup food processor review: 4.6 stars from 21k+ buyers. We test performance, durability & value. Is this $340 workhorse worth it?"
@@ -11,14 +12,15 @@ review_count: 21370
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B077KR1RXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uQbmZI-zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "720-watt motor powers through dense dough and frozen ingredients without stalling"
   - "Extra-large 11.5-cup work bowl fits whole batches—no need to process in halves"
   - "Supreme™ disc system with reversible shredding/slicing plates is genuinely useful, not gimmicky"
-cons:
+cons: 
   - "Lid seal can be finicky—requires exact alignment or the unit won't start"
   - "Bowl and blades are not dishwasher-safe top-rack only, and the blades demand careful hand washing"
   - "At $340, it's a serious investment when 7-cup models deliver 80% of the function for half the price"
+
 ---
 
 If you've been eyeing the Cuisinart 14-Cup Food Processor, you already know it's the brand name in food processing. The 4.6-star average across 21,370 ratings isn't accidental—but neither is the $340 price tag. Here's the real breakdown after digging through the specs, the user feedback, and the honest tradeoffs.

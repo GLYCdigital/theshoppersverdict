@@ -1,4 +1,5 @@
 ---
+
 title: "GETPRO Shower Door Double Sliding Shower Glass Doors"
 seo_title: "GETPRO Double Sliding Shower Door Review (2026): Worth It?"
 meta_description: "Honest GETPRO double sliding shower glass door review: 4.6/5 rating, build quality, install tips, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSFHT6GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kfNoYpa1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully framed aluminum construction with 5mm tempered glass — feels significantly more solid than budget unframed alternatives"
   - "Double sliding design saves floor space versus hinged doors, ideal for tight 56-60 inch alcove openings"
   - "Includes reversible installation, dual towel bars, and concealed bottom guides that prevent door derailment"
-cons:
+cons: 
   - "Installation is a two-person job with no pre-drilled holes — expect a full afternoon if you're not handy with a level"
   - "Some buyers report the included silicone sealant strips can trap water at the bottom track if not angled correctly during setup"
   - "Clear glass shows every water spot; budget for a squeegee in your routine or consider the frosted option"
+
 ---
 
 A sliding shower door is one of those purchases where you're either going to get a precision-engineered upgrade or a rattling frustration you'll regret every morning. The GETPRO Double Sliding Shower Glass Door sits firmly in the former camp — but it's not without its quirks.

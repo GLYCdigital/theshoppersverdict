@@ -1,4 +1,5 @@
 ---
+
 title: "OEAGO Glass Coffee Mug"
 seo_title: "OEAGO Glass Coffee Mug Review: Double-Wall, Gift-Ready"
 meta_description: "OEAGO Glass Coffee Mug review: double-wall insulation, 14oz capacity, and leak-proof lid. See why 7,800+ buyers rate it 4.7 stars."
@@ -11,13 +12,14 @@ review_count: 7849
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09JNRXJD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X0ob1FvIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall borosilicate glass keeps drinks hot for 1–2 hours without burning your hands"
   - "Leak-resistant bamboo lid and silicone sleeve make it genuinely portable, not just desk decor"
   - "Dishwasher-safe glass that doesn't cloud or stain after repeated use"
-cons:
+cons: 
   - "Bamboo lid is not fully airtight — don't toss it in a bag and expect zero drips"
   - "14oz capacity runs small for oversized coffee orders from chain shops"
+
 ---
 
 You've seen the aesthetic latte mugs all over Instagram. The OEAGO Glass Coffee Mug is the one that actually holds up. With 7,849 ratings and a 4.7-star average, this isn't a flash-in-the-pan trend piece — it's a legit everyday workhorse. I've tested the double-wall insulation, abused it in the dishwasher, and carried it under my arm. Here's the real story.

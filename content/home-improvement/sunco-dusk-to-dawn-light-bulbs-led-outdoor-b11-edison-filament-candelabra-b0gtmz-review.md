@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco Dusk to Dawn Light Bulbs LED Outdoor B11, Edison Filam"
 seo_title: "Sunco Dusk to Dawn Light Bulbs LED Outdoor B11, Ed Review"
 meta_description: "Our full sunco dusk to dawn light bulbs led outdoor b11, edison filam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTMZ6M24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wAkCMa4WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sunco Dusk to Dawn LED Bulbs: Set-and-Forget Outdoor Lighting

@@ -1,4 +1,5 @@
 ---
+
 title: "homary Dimmable Kitchen Island Lighting Gold Dining Room Lig"
 seo_title: "homary Dimmable Kitchen Island Lighting Gold Dinin Review"
 meta_description: "Our full homary dimmable kitchen island lighting gold dining room lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKGNJL48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MyHX6tzHL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: there are about 4,000 gold kitchen island lights on Amazon, and most of them are the same fixture with a different brand sticker slapped on. The Homary Dimmable Kitchen Island Lighting is not that. It’s a genuinely different design that solves a few real problems — and creates a couple of new ones.

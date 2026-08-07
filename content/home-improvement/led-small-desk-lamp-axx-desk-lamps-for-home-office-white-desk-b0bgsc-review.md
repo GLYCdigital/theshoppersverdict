@@ -1,4 +1,5 @@
 ---
+
 title: "LED Small Desk Lamp, AXX Desk Lamps for Home Office, White D"
 seo_title: "LED Small Desk Lamp, AXX Desk Lamps for Home Offic Review"
 meta_description: "Our full led small desk lamp, axx desk lamps for home office, white d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BGSCJ4TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GIuoODTYS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your desk is a war zone of cables, coffee rings, and half-finished projects, the AXX LED Small Desk Lamp is the quiet, space-saving solution you didn’t know you needed. This white, compact lamp doesn’t try to be a statement piece — it just shows up, lights your workspace, and gets out of the way. But is it worth your money? I’ve dug through the specs and buyer feedback to give you the straight story.

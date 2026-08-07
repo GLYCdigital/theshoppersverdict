@@ -1,4 +1,5 @@
 ---
+
 title: "Macadamia Protein Bars"
 seo_title: "Macadamia Protein Bars Review: Verdict | TSV"
 meta_description: "Our full macadamia protein bars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FN3K2P3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dSwr4ZqJL._SL1296_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** Macadamia Protein Bars are a genuinely good low-carb snack that doesn't taste like a chemistry experiment. But they're not a candy bar substitute, and the texture has limits. Here's the full breakdown before you spend your money.

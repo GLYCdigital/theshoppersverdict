@@ -1,4 +1,5 @@
 ---
+
 title: "fast Cat. Cat6 Ethernet Cable 1000ft - 23 AWG, CMR, Insulate"
 seo_title: "fast Cat. Cat6 Ethernet Cable 1000ft - 23 AWG, CMR Review"
 meta_description: "Our full fast cat. cat6 ethernet cable 1000ft - 23 awg, cmr, insulate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0857DGB4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71snYkfgDtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1000-foot cable that actually delivers what it promises**

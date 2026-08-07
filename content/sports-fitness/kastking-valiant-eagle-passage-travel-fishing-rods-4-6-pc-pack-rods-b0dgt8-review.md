@@ -1,4 +1,5 @@
 ---
+
 title: "KastKing Valiant Eagle Passage Travel Fishing Rods, 4 & 6 Pc"
 seo_title: "KastKing Valiant Eagle Passage Travel Fishing Rods Review"
 meta_description: "Our full kastking valiant eagle passage travel fishing rods, 4 & 6 pc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DGT85BCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P0EOvpHRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KastKing Valiant Eagle Passage Travel Rods: A pack rod that actually fishes like a one-piece**

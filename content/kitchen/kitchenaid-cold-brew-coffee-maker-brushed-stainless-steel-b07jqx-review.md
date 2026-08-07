@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid Cold Brew Coffee Maker, Brushed Stainless Steel"
 seo_title: "KitchenAid Cold Brew Coffee Maker, Brushed Stainle Review"
 meta_description: "Our full kitchenaid cold brew coffee maker, brushed stainless steel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07JQX2VZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vnx+nAGbL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cold brew is the easiest coffee you'll ever make — water, grounds, time. The hard part is filtering out the sludge, controlling strength, and storing the result without it turning bitter. KitchenAid's cold brew maker tackles all three with a design that's smarter than most of the glass-jar-and-cheesecloth setups on Amazon. At 4.4 stars from 220 ratings, it's clearly working for most people. Here's the full breakdown.

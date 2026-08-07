@@ -1,4 +1,5 @@
 ---
+
 title: "MAXYOYO Folding Sofa Bed, Convertible Sofa Bed with High-Den"
 seo_title: "MAXYOYO Folding Sofa Bed, Convertible Sofa Bed wit Review"
 meta_description: "Our full maxyoyo folding sofa bed, convertible sofa bed with high-den review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPH37WYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/912ptlkRryL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: most folding sofa beds under $300 are a compromise you learn to live with. The MAXYOYO Folding Sofa Bed is one of the few that actually tries to be good at both jobs — and mostly pulls it off. With 210 ratings averaging 4.2 stars, it's clearly finding its way into apartments, guest rooms, and home offices. Here's the real breakdown.

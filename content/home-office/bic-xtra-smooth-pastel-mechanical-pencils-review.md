@@ -1,16 +1,17 @@
 ---
+
 title: "BIC Xtra-Smooth Pastel Mechanical Pencils, 0.7 mm, 40-Count Pack"
 seo_title: "BIC Xtra-Smooth Pastel Pencils Review: Best Student Pencil? (4.9/5)"
 meta_description: "Read our BIC Xtra-Smooth Pastel Mechanical Pencils review based on 3,304 Amazon reviews. Smooth writing, durable lead, gorgeous colors — are they worth the hype?"
 slug: "bic-xtra-smooth-pastel-mechanical-pencils-review"
 image_alt: "BIC Xtra-Smooth Pastel Mechanical Pencils 40-Count Bulk Pack"
-keywords:
+keywords: 
   - "BIC mechanical pencil review"
   - "best mechanical pencils for students"
   - "BIC Xtra-Smooth review"
   - "bulk school pencils"
 verdict_score: 4.9
-faq:
+faq: 
   - question: "Do these BIC pencils smudge when erasing?"
     answer: "No. The No. 2 lead erases cleanly without smudging or tearing paper, according to reviewers."
   - question: "Are the pastel colors just cosmetic?"
@@ -23,16 +24,17 @@ review_count: 3304
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CQ6QY3WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nCrUQNGvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally smooth writing with zero scratchiness"
   - "Lead resists breaking under heavy pressure"
   - "Clean erasing without smudges"
   - "Gorgeous pastel colors make them easy to spot"
   - "Refillable and long-lasting"
-cons:
+cons: 
   - "Bulk pack (40) is a lot if you only need a few"
   - "Pastel barrels show dirt more than dark colors"
   - "Some may prefer a finer 0.5 mm point"
+
 ---
 
 It's a mechanical pencil — how much can there really be to say? As it turns out, quite a bit. The BIC Xtra-Smooth Pastel pack has quietly become one of the highest-rated office supply products on Amazon at 4.9 stars from over 3,300 reviews, and after reading through the feedback, the near-perfect score makes sense.

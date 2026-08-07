@@ -1,4 +1,5 @@
 ---
+
 title: "RUBMEOW Cat Scratch Pad Cardboard Cat Scrathcer Box,Scratchi"
 seo_title: "RUBMEOW Cat Scratch Pad Cardboard Cat Scrathcer Bo Review"
 meta_description: "Our full rubmeow cat scratch pad cardboard cat scrathcer box,scratchi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BJQ126D1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612AzroDUmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most cardboard scratchers are disposable junk that disintegrates in two weeks. The RUBMEOW Cat Scratch Pad is not that. With a 4.8-star average across 240 ratings, this thing has earned genuine cat approval — but it's not without tradeoffs. Here's the full picture before you add to cart.

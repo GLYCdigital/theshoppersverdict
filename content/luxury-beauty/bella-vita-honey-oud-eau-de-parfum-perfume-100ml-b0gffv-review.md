@@ -1,4 +1,5 @@
 ---
+
 title: "Bella vita Honey Oud Eau de parfum | perfume 100ml"
 seo_title: "Bella vita Honey Oud Review: Is This 100ml Perfume Worth It?"
 meta_description: "Honest Bella vita Honey Oud Eau de parfum review: performance, longevity, sillage, and who should buy this 100ml fragrance. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GFFVH9DV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qWsAr60eL._SL1500_.jpg"
-pros:
+pros: 
   - "True unisex formulation — honey sweetness is balanced by smoky oud, not cloying on either gender"
   - "Strong projection for the first 2-3 hours; one spray fills a room without being offensive"
   - "100ml bottle at a budget-friendly price point makes this an accessible entry into oud fragrances"
-cons:
+cons: 
   - "Longevity drops noticeably after 4-5 hours on skin — becomes a close-wearing scent requiring reapplication"
   - "Synthetic dry-down in the final hours; the honey note fades into a generic amber-musk base"
+
 ---
 
 **The honey-oud balancing act: does Bella vita pull it off?**

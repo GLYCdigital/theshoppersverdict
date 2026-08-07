@@ -1,4 +1,5 @@
 ---
+
 title: "Scunci by Conair The Original Scrunchie Hair Ties, 20 Count "
 seo_title: "Scunci by Conair The Original Scrunchie Hair Ties, Review"
 meta_description: "Our full scunci by conair the original scrunchie hair ties, 20 count  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FT4FD8R6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612IONcPi0L._SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Scrunchie That Actually Earned Its 4.6 Stars — Here’s Who Should Buy It**

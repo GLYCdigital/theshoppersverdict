@@ -1,4 +1,5 @@
 ---
+
 title: "AEWHALE Electric Nonstick Extra Larger Griddle Grill"
 seo_title: "AEWHALE Electric Griddle Grill Review: Big Surface, Mixed Results"
 meta_description: "AEWHALE Electric Griddle Grill review: huge 20-inch nonstick surface, but 3.1-star rating reveals heat issues. Read before you buy this family-size griddle."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0GGXX9H2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GQlWwbmiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely massive cooking surface — fits 12+ pancakes or a full pound of bacon in one batch"
   - "Nonstick coating holds up well for eggs, fish, and delicate items with minimal oil"
   - "Integrated drip tray catches grease effectively, making cleanup faster than most griddles"
-cons:
+cons: 
   - "Temperature control runs hot — multiple buyers report burning on low settings"
   - "Heating is uneven across the surface, with cooler zones at the edges"
   - "Build quality feels light; the base flexes when pressing down during cooking"
+
 ---
 
 The AEWHALE Electric Nonstick Extra Larger Griddle Grill promises family-sized cooking capacity at a budget price. But with a 3.1-star average across 155 ratings, shoppers are clearly split. I've dug through the feedback, examined the specs, and tested the claims. Here's what you need to know before adding this to your cart.

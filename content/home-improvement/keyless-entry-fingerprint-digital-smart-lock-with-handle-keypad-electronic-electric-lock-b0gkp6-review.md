@@ -1,4 +1,5 @@
 ---
+
 title: "Keyless Entry Fingerprint Digital Smart Lock with Handle & K"
 seo_title: "Keyless Entry Fingerprint Digital Smart Lock with  Review"
 meta_description: "Our full keyless entry fingerprint digital smart lock with handle & k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GKP636LM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IuU0ItS6L._AC_SL1456_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Is This Smart Lock Worth Your Door?**

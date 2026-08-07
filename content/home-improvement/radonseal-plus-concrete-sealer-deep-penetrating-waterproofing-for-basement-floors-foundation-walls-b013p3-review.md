@@ -1,4 +1,5 @@
 ---
+
 title: "RadonSeal Plus Concrete Sealer â€“ Deep Penetrating Waterpro"
 seo_title: "RadonSeal Plus Concrete Sealer â€“ Deep Penetratin Review"
 meta_description: "Our full radonseal plus concrete sealer â€“ deep penetrating waterpro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B013P3QE1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZrBdkqy1L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Stop Basement Sweat Without Locking Moisture In

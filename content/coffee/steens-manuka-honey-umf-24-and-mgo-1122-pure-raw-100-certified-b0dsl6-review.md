@@ -1,4 +1,5 @@
 ---
+
 title: "Steens Manuka Honey - UMF 24+ and MGO 1122+ - Pure & Raw 100"
 seo_title: "Steens Manuka Honey - UMF 24+ and MGO 1122+ - Pure Review"
 meta_description: "Our full steens manuka honey - umf 24+ and mgo 1122+ - pure & raw 100 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSL63WGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tvdWq1UBL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

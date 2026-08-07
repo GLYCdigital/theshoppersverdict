@@ -1,4 +1,5 @@
 ---
+
 title: "UNP Camping Canopy - Inner Tent - Side Tents - SUV Camping C"
 seo_title: "UNP Camping Canopy - Inner Tent - Side Tents - SUV Review"
 meta_description: "Our full unp camping canopy - inner tent - side tents - suv camping c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GS1W635P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616VCtEe9GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The UNP Camping Canopy isn't trying to be the lightest backpacking shelter. It's solving a different problem: how to turn a campsite into something that actually feels like a base camp. With 215 Amazon ratings sitting at a solid 4.3 stars, this modular system has clearly found its audience. After breaking it down feature by feature, here's who that audience is — and who should walk away.

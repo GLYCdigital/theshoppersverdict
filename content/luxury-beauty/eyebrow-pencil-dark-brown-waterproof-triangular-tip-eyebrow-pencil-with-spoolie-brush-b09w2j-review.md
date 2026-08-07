@@ -1,4 +1,5 @@
 ---
+
 title: "Eyebrow Pencil Dark Brown, Waterproof, Triangular Tip Eyebro"
 seo_title: "Eyebrow Pencil Dark Brown Review: Waterproof Triangular Tip"
 meta_description: "Honest review of the waterproof dark brown eyebrow pencil with triangular tip. Does it last? Is it worth it? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09W2J299K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41oYFw8F3VL._SL1500_.jpg"
-pros:
+pros: 
   - "Triangular tip actually delivers both precise hair strokes and quick brow fills without switching tools"
   - "Waterproof formula survives sweat, rain, and 10+ hour wear without smudging or fading"
   - "Built-in spoolie brush is genuinely useful, not an afterthought — blends product naturally"
-cons:
+cons: 
   - "Dark brown shade runs warmer than expected; cool-toned users may find it slightly red"
   - "Formula can feel waxy if you layer too much; needs light-handed application to avoid clumping"
   - "Some users report breakage at the tip if you press too hard during application"
+
 ---
 
 Let me be straight with you: the eyebrow pencil market is oversaturated with mediocre options that either smudge by noon or go on like a crayon. This dark brown waterproof triangular tip pencil from the B09W2J299K listing has carved out a solid 4.4-star rating across 220 reviews. Here's whether it deserves a spot in your makeup bag.

@@ -1,4 +1,5 @@
 ---
+
 title: "HP Laptop 255 G10 Notebook â€¢ 32GB RAM â€¢ 1TB SSD â€¢ 15.6"
 seo_title: "HP Laptop 255 G10 Notebook â€¢ 32GB RAM â€¢ 1TB SS Review"
 meta_description: "Our full hp laptop 255 g10 notebook â€¢ 32gb ram â€¢ 1tb ssd â€¢ 15.6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F1VD6TR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717RE0R0SpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 32GB RAM Headline Is Real — But Check What's Around It

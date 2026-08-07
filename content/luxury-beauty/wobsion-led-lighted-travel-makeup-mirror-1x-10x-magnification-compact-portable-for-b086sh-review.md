@@ -1,4 +1,5 @@
 ---
+
 title: "WOBSION LED Lighted Travel Makeup Mirror, 1x/10x Magnificati"
 seo_title: "WOBSION LED Lighted Travel Makeup Mirror, 1x/10x M Review"
 meta_description: "Our full wobsion led lighted travel makeup mirror, 1x/10x magnificati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086SHC43R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OwI06gb8L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The WOBSION LED Lighted Travel Makeup Mirror looks like a clever solution to a universal problem: how do you apply precise makeup in bad lighting, cramped hotel bathrooms, or a cluttered vanity? At roughly the size of a large smartphone, this fold-flat mirror promises salon-quality illumination and serious magnification. But does it actually deliver, or is it another gadget that ends up in a drawer? I've broken down what 220 buyers at 4.4 stars are saying — and where the hype meets reality.

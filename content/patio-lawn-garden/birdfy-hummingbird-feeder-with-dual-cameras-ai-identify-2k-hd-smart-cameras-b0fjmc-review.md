@@ -1,4 +1,5 @@
 ---
+
 title: "Birdfy Hummingbird Feeder with Dual Cameras AI Identify - 2K"
 seo_title: "Birdfy Hummingbird Feeder Dual Camera Review (2026)"
 meta_description: "Our Birdfy Hummingbird Feeder with dual 2K cameras AI Identify review: real footage quality, setup, and whether it's worth $100+ for bird lovers."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FJMCV7RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lstx7viqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 2K cameras capture both the feeding port and the approach path — you see the hummingbird coming, not just its beak in frame"
   - "AI species identification actually works for common North American hummers (ruby-throated, Anna's, rufous) and logs visits automatically"
   - "Solar panel keeps the 5200mAh battery topped off in direct sun — I went 3 weeks without a manual charge"
-cons:
+cons: 
   - "AI misidentifies or misses birds in low light or when they hover at the edge of frame — roughly 1 in 5 visits logged wrong or not at all"
   - "No built-in perch; hummingbirds must hover to feed, which some species (like the Anna's) tolerate poorly and will abandon"
   - "Antenna design is exposed on top — rain gets into the charging port if you don't angle the solar panel correctly"
+
 ---
 
 Here's the thing about hummingbird feeders: you're not buying a feeder. You're buying the *show*. And the Birdfy Hummingbird Feeder with Dual Cameras AI Identify — 2K is built entirely around that premise. It's a 4.3-star product on Amazon with 215 ratings, and after spending three weeks with it mounted in a suburban backyard, I can tell you exactly where that rating comes from — and where it doesn't.

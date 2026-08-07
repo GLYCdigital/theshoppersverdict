@@ -1,4 +1,5 @@
 ---
+
 title: "Baseball Card Binder 900 Pockets, Toploader Trading Card Hol"
 seo_title: "Baseball Card Binder 900 Pockets Review: Toploader-Friendly Storage"
 meta_description: "Honest review of the 900-pocket baseball card binder with removable sleeves. See how it fits toploaders, build quality, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09Y8PBWSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RA5Zm7+NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely fits standard 3x4 toploaders and one-touch cases up to 35pt — not just raw cards like most binders claim"
   - "Removable 9-pocket pages let you expand or reorganize without tearing the whole binder apart"
   - "Stitched, reinforced spine and thick cover boards that actually lie flat when open"
-cons:
+cons: 
   - "900-pocket capacity is theoretical; toploaders take up roughly double the space, so expect closer to 450 cards in practice"
   - "Pages can be tight when fully loaded with thick toploaders — you'll need to work cards in gently at first"
+
 ---
 
 Let’s cut through the listing copy. Most “toploader-compatible” binders on Amazon are a lie—they bulge, tear, or simply won’t close once you slide in anything thicker than a penny sleeve. This 900-pocket binder from the B09Y8P line is one of the few that actually delivers on that promise. I’ve tested it with raw cards, standard Ultra Pro toploaders, and even 35pt one-touch magnetics. Here’s what you need to know before you buy.

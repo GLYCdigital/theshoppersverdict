@@ -1,15 +1,16 @@
 ---
+
 title: "Hamilton Beach Portable Blender for Shakes and Smoothies, 14 Oz BPA Free Travel Cup & Lid, Durable Stainless Steel Blades, Personal Smoothie Blender, White ( 51101V)"
 seo_title: "Hamilton Beach Portable Review: Verdict (4.2/5) | TSV"
 meta_description: "Honest hamilton beach portable blende review 70,156+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "hamilton-beach-portable-blender-for-shakes-and-smoothies-14-oz-bpa-free-review"
 image_alt: "Hamilton Beach Portable Blender for Shakes and Smoothies, 14 Oz BPA Free Travel Cup & Lid, Durable Stainless Steel Blade"
-keywords:
+keywords: 
   - "hamilton beach portable review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What are the downsides of the Hamilton Beach Portable Blender?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Is the Hamilton Beach Portable Blender durable for daily use?"
@@ -20,10 +21,11 @@ review_count: 70156
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00065L6CU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+xUG74fkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The Hamilton Beach 51101V sits in a weird spot: it's one of the most-purchased personal blenders on Amazon with over 70,000 ratings, yet it's not truly portable. Here's what that means for your morning routine.

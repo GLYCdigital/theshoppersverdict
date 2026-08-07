@@ -1,4 +1,5 @@
 ---
+
 title: "Ariana Grande MOD Vanilla Eau De Parfum – Gourmand Musk Fr"
 seo_title: "Ariana Grande MOD Vanilla Review: Gourmand Musk for Women"
 meta_description: "Read our honest Ariana Grande MOD Vanilla review. Is this gourmand musk fragrance worth it? We break down scent, longevity, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR3Q7H6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+9lqavswL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, creamy vanilla with a skin-like musk base that layers beautifully over other perfumes"
   - "Impressive longevity — 6-8 hours on skin, 10+ on clothing per multiple buyer reports"
   - "Unisex-leaning gourmand that avoids the syrupy sweetness of typical celebrity vanilla scents"
-cons:
+cons: 
   - "Sillage is moderate — don't expect a room-filling trail; this sits close to the skin"
   - "The musk note can turn slightly powdery on some skin chemistries, especially in dry climates"
+
 ---
 
 **Ariana Grande MOD Vanilla: The Grown-Up Gourmand That Actually Delivers**

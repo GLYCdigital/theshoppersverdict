@@ -1,4 +1,5 @@
 ---
+
 title: "DOGIBIXO Bed Frame with 4 Storage, Upholstered Velvet Platfo"
 seo_title: "DOGIBIXO Bed Frame Review: 4 Storage Drawers, Velvet"
 meta_description: "Honest DOGIBIXO bed frame review: velvet upholstery, 4 storage drawers, platform design. Build quality, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G4CZBVKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rnGuuQ8hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four integrated storage drawers on rolling casters — no box spring needed, so you save money and space"
   - "Velvet upholstery with foam padding on the headboard and side rails; feels more expensive than the price point suggests"
   - "Tool-free assembly with cam locks; most buyers report build times under 45 minutes"
-cons:
+cons: 
   - "Drawers are shallow (roughly 5 inches deep) — fine for bedding and off-season clothes, not for bulky items"
   - "Velvet shows dust and pet hair readily; you'll want a lint roller nearby"
   - "No center support leg on some sizes, which can lead to slight sagging with heavier memory foam mattresses"
+
 ---
 
 Let's talk about the DOGIBIXO Bed Frame with 4 Storage. It's a 4.1-star product with 204 ratings, which in the furniture category is actually a solid score — bed frames tend to get hammered by shipping damage and assembly complaints that have nothing to do with how the bed sleeps. So what's the real story here?

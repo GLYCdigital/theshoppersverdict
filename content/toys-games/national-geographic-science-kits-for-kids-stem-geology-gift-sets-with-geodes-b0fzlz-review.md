@@ -1,4 +1,5 @@
 ---
+
 title: "National Geographic Science Kits for Kids â€“ STEM Geology G"
 seo_title: "National Geographic Science Kits for Kids â€“ STEM Review"
 meta_description: "Our full national geographic science kits for kids â€“ stem geology g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FZLZ6LVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yYAg2ZfwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most kids' science kits are glorified coloring books with a pipette thrown in. The National Geographic STEM Geology Kit is not that. This is the kit that gets a 4.7-star average across 235 Amazon ratings because it delivers the one thing kids actually want from a geology set: the chance to smash rocks and find treasure inside.

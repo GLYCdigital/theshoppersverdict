@@ -1,4 +1,5 @@
 ---
+
 title: "Firecore Aluminum Grade Rod"
 seo_title: "Firecore Aluminum Grade Rod Review: Durable & Accurate"
 meta_description: "Firecore Aluminum Grade Rod review: 4.6★ rated. Lightweight, rust-proof, and accurate for grading, leveling & DIY. Read pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4T83FQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sUIHQHMGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Telescoping aluminum sections lock tightly with zero wobble — critical for accurate grade readings"
   - "Full-length measurement scale printed on both sides, readable from 6+ feet away"
   - "Weighs under 2 lbs, so it's easy to carry on long grading jobs without fatigue"
-cons:
+cons: 
   - "Locking collars require two hands to tighten — awkward when you're alone on a slope"
   - "No carrying case included, so the rod can get scratched in a truck bed"
+
 ---
 
 If you've ever tried to read a grade rod that's wobbling in the wind or squinting at a faded scale, you know the pain. The Firecore Aluminum Grade Rod aims to fix that with a rigid telescoping design and high-visibility markings. After digging through 229 verified buyer experiences and the spec sheet, here's the honest picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fruity Cheerios"
 seo_title: "Fruity Cheerios Review: Bold Ceramic Coffeemaker Worth It?"
 meta_description: "Read our honest Fruity Cheerios coffee maker review. Bold design, 12-cup capacity, and ceramic interior. See pros, cons, and real buyer feedback at 4.6 stars."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC5TV748/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8105tlay90L._SL1500_.jpg"
-pros:
+pros: 
   - "Ceramic-lined carafe keeps coffee hot 40% longer than glass without burnt taste"
   - "12-cup capacity with a programmable timer that actually works reliably"
   - "Bold red finish hides fingerprints and scratches far better than stainless steel"
-cons:
+cons: 
   - "Pause-and-pour valve drips for a few seconds after removing the carafe"
   - "No auto-shutoff option — unit stays on for 2 hours by design"
+
 ---
 
 Let me be upfront: I didn't expect to be impressed by a coffee maker named after a breakfast cereal. But the Fruity Cheerios brewer (yes, that's the actual product name) has quietly earned a 4.6-star rating from 229 Amazon shoppers — and after digging into the specs and owner feedback, I get why.

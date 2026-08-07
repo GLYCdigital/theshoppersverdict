@@ -1,4 +1,5 @@
 ---
+
 title: "XINYAO Electric Standing Desk with 5 Drawers"
 seo_title: "XINYAO Electric Standing Desk with 5 Drawers Review: Verd"
 meta_description: "Our full xinyao electric standing desk with 5 drawers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FY3797DZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tEaj1U5gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The XINYAO Electric Standing Desk with 5 Drawers is trying to solve a problem most standing desks ignore: where does all your stuff go? Most adjustable desks are just a flat slab and four legs, forcing you to buy a separate file cabinet or hutch. XINYAO built the storage directly into the frame. The question is whether that integration compromises the things that matter most — stability, lift performance, and build quality. After digging through 220 Amazon ratings and the spec sheet, here's the real picture.

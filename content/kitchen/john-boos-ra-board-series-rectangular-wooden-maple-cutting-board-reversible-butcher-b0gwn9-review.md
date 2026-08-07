@@ -1,4 +1,5 @@
 ---
+
 title: "John Boos RA-Board Series Rectangular Wooden Maple Cutting B"
 seo_title: "John Boos RA-Board Series Rectangular Wooden Maple Review"
 meta_description: "Our full john boos ra-board series rectangular wooden maple cutting b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWN9LXXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b3VKKD+ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # John Boos RA-Board Series Rectangular Wooden Maple Cutting Board Review

@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson WRT1073CS US Open Regular Duty Ball Case"
 seo_title: "Wilson WRT1073CS US Open Regular Duty Ball Case Review: V"
 meta_description: "Our full wilson wrt1073cs us open regular duty ball case review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00JG92V8U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qxm5cj1GL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most recreational tennis players don't need the same ball that Novak Djokovic smacks around at Flushing Meadows. But the Wilson US Open Regular Duty case (WRT1073CS) is the rare pro-level ball that actually translates to weekend warrior play—with a couple of honest caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "Givenchy Gentleman For Men"
 seo_title: "Givenchy Gentleman For Men Review: Verdict | TSV"
 meta_description: "Our full givenchy gentleman for men review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08TK4F14L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719PaTZ3hrL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Givenchy Gentleman For Men** isn't a fragrance that whispers. It announces itself with a confident, iris-heavy opening that separates it from the citrus-and-ambroxan crowd dominating men's shelves. But is it worth your money? After digging through 220 Amazon ratings and testing notes, here's the real breakdown.

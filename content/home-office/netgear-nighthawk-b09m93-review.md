@@ -1,4 +1,5 @@
 ---
+
 title: "NETGEAR Nighthawk"
 seo_title: "NETGEAR Nighthawk Review: Verdict | TSV"
 meta_description: "Our full netgear nighthawk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09M93BVBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WfgjZu-cL._AC_SL1350_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're working from home, streaming in the living room, and someone's gaming in the basement — and your current router is choking. That's the exact scenario the NETGEAR Nighthawk was built for. But at this price point (check current pricing on Amazon), you deserve to know if it's genuinely better than the budget options or just paying for the name.

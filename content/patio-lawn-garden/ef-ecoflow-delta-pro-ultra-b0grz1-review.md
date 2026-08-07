@@ -1,4 +1,5 @@
 ---
+
 title: "EF ECOFLOW DELTA Pro Ultra"
 seo_title: "EF ECOFLOW DELTA Pro Ultra Review: Real Power for Off-Grid Living"
 meta_description: "Our honest EF ECOFLOW DELTA Pro Ultra review: 7.2kW output, 4kWh expandable battery, real-world performance tested. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRZ1BM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51S6JzJ8bVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 7,200W continuous output handles dual 240V appliances or a full EV charge — most competitors stall at 3,600W"
   - "Modular 4kWh battery expands to 12kWh; stack two units for 24kWh whole-home backup"
   - "15ms UPS-style switchover keeps sensitive electronics running through outages without a blip"
-cons:
+cons: 
   - "Weighs 115 lbs with battery — this is not a 'grab and go' unit; plan a permanent spot or cart"
   - "No built-in wheels or handle; EcoFlow sells a separate dolly that should be included at this price"
   - "2,400W max solar input sounds great but requires 3+ panels wired in series — adds $1,500+ to total cost"
+
 ---
 
 Let me cut through the marketing noise: the EF ECOFLOW DELTA Pro Ultra is not a camping gadget. This is a serious piece of home infrastructure disguised as a portable power station. At 115 pounds with the battery installed, it's the kind of unit you wheel into your garage, wire into a transfer switch, and forget about — until the grid drops.

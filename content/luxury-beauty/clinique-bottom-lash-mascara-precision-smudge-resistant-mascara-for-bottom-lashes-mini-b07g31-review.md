@@ -1,24 +1,26 @@
 ---
+
 title: "Clinique Bottom Lash Mascara | Precision Smudge-Resistant Ma"
 seo_title: "Clinique Bottom Lash Mascara Review: Does It Smudge-Proof?"
 meta_description: "Honest Clinique Bottom Lash Mascara review: tiny brush, smudge-resistant formula, real wear tests. See pros, cons, and who should buy it."
 slug: "clinique-bottom-lash-mascara-precision-smudge-resistant-mascara-for-bottom-lashes-mini-b07g31-review"
 image_alt: "Clinique Bottom Lash Mascara mini with precision brush, smudge-resistant formula for lower lashes"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07G316ZMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Fkr7yDuqL._SL1000_.jpg"
-pros:  
+pros: 
   - "Tiny 3mm brush reaches every lower lash without poking your eye"  
   - "Smudge-proof formula survives 10+ hours on oily under-eyes"  
   - "Mini size (2.3ml) is travel-friendly and won't dry out before you finish it"  
-cons:  
+cons: 
   - "No dramatic volume — it's a definition tool, not a falsies effect"  
   - "Formula dries quickly; you have about 20 seconds to layer before it sets"  
   - "Removal needs oil-based cleanser; waterproof-style stubbornness"
+
 ---
 
 If you’ve ever blinked mid-application and ended up with mascara flecks on your cheekbone, you know the bottom lash struggle is real. Most full-size wands are too fat to navigate lower lashes without smearing product everywhere. Clinique’s Bottom Lash Mascara exists specifically to fix that — and it mostly does. Here’s the honest breakdown after wearing it through commutes, workouts, and 14-hour workdays.

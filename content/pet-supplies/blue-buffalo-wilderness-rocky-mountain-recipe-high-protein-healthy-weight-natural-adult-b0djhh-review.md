@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Wilderness Rocky Mountain Recipe High Protein H"
 seo_title: "Blue Buffalo Wilderness Rocky Mountain Recipe Review (2026)"
 meta_description: "Honest Blue Buffalo Wilderness Rocky Mountain Recipe review: high-protein kibble for weight management. Ingredients, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJHHW748/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UUHH7WthL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real deboned beef and bison as first ingredients — not meat meal or by-product"
   - "L-carnitine added to support fat metabolism, not just protein content"
   - "No chicken by-product meal, corn, wheat, soy, or artificial preservatives"
-cons:
+cons: 
   - "Price per pound runs 20-30% higher than comparable high-protein kibbles"
   - "Some dogs with sensitive stomachs report loose stools during transition"
   - "Bag's resealable zipper is flimsy — use a clip or transfer to a container"
+
 ---
 
 If your dog is carrying a few extra pounds but still acts like a wolf at mealtime, you're stuck in the classic dilemma: cut calories and watch them sulk, or feed normally and watch the vet's scale climb. Blue Buffalo's Wilderness Rocky Mountain Recipe Healthy Weight formula tries to solve that by swapping carbs for protein — and for most dogs, it actually works.

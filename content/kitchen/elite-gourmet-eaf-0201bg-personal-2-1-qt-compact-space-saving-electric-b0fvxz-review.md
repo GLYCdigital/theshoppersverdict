@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EAF-0201BG Personal 2.1 Qt. Compact Space Savi"
 seo_title: "Elite Gourmet EAF-0201BG Review: 2.1 Qt Compact Air Fryer"
 meta_description: "Our Elite Gourmet EAF-0201BG review covers performance, capacity, and value. Is this 2.1 Qt space-saving air fryer worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FVXZJ5BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717des3tj+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2.1-quart capacity handles a full pound of fries or a 3-4 lb chicken without crowding"
   - "Drawer is dishwasher-safe and the nonstick basket releases food cleanly — no soaking required"
   - "Air filters are cheap and user-replaceable, extending the unit's usable life well past typical budget fryers"
-cons:
+cons: 
   - "No preheat function means you'll add 2–3 minutes to every cook time yourself"
   - "Timer maxes out at 30 minutes — fine for most tasks, but you can't do a whole chicken in one cycle"
+
 ---
 
 Let's be honest about what the Elite Gourmet EAF-0201BG actually is: a no-nonsense, single-serving air fryer that doesn't pretend to be a countertop oven or a family-sized appliance. It's a small unit for small jobs, and it nails that brief. With 225 ratings averaging 4.5 stars, the consensus is clear — but let's dig into whether it's the right small air fryer for your kitchen.

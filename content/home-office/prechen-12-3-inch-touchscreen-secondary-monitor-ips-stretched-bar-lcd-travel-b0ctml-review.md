@@ -1,4 +1,5 @@
 ---
+
 title: "Prechen 12.3 Inch Touchscreen Secondary Monitor, IPS Stretch"
 seo_title: "Prechen 12.3 Inch Touchscreen Secondary Monitor, I Review"
 meta_description: "Our full prechen 12.3 inch touchscreen secondary monitor, ips stretch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CTML6XP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GsEi4nfHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

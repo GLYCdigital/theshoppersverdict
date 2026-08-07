@@ -1,4 +1,5 @@
 ---
+
 title: "Purina One plus dry food bag cat adult hairball control and "
 seo_title: "Purina One plus dry food bag cat adult hairball co Review"
 meta_description: "Our full purina one plus dry food bag cat adult hairball control and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CWRY7HDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rg43g4upL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 Solution to Your Cat's Hairball Problem (That Actually Works)**

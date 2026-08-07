@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Trellis"
 seo_title: "Garden Trellis Review: Sturdy Plant Support for Climbing Vines"
 meta_description: "Honest Garden Trellis review: build quality, real-world performance, and buyer feedback. See if this 4.6-star plant support is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BP6BF7D4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VqpmeM9SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel construction holds up under mature vine weight without bending"
   - "Tool-free assembly takes under five minutes — no screws, bolts, or frustration"
   - "Powder-coated finish resists rust through multiple wet seasons"
-cons:
+cons: 
   - "Base legs are narrow; top-heavy plants in exposed areas may need staking"
   - "Only available in one size — not ideal for large-scale garden walls"
+
 ---
 
 Most garden trellises fail in one of two ways: they're flimsy enough to topple over with a decent wind, or they require an engineering degree to assemble. This one avoids both traps, and that's why it holds a solid 4.6-star average across 229 ratings. Let's get into whether it deserves a spot in your garden.

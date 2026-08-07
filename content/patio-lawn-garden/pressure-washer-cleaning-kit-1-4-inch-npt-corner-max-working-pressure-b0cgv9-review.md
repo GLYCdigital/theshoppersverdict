@@ -1,4 +1,5 @@
 ---
+
 title: "Pressure Washer Cleaning Kit 1/4 Inch NPT Corner Max Working"
 seo_title: "Pressure Washer Cleaning Kit 1/4 Inch NPT Corner M Review"
 meta_description: "Our full pressure washer cleaning kit 1/4 inch npt corner max working review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGV9QKXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K15I93CJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Corner Problem, Solved

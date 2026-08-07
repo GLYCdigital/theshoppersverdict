@@ -1,4 +1,5 @@
 ---
+
 title: "WEN 2.3-Amp 8-Inch 5-Speed Cast Iron Benchtop Drill Press"
 seo_title: "WEN 2.3-Amp 8-Inch 5-Speed Cast Iron Benchtop Dril Review"
 meta_description: "Our full wen 2.3-amp 8-inch 5-speed cast iron benchtop drill press review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCHQ29NY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710RNq2myxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of drilling crooked holes with a hand drill, the **WEN 2.3-Amp 8-Inch 5-Speed Cast Iron Benchtop Drill Press** is the budget-friendly fix. This isn't a toy—it's a genuine benchtop machine with a 32-pound cast iron base that keeps your bit on-axis, even when you're pushing through 1/2-inch steel plate. With 225 ratings averaging 4.5 stars, it's one of the most trusted entry-level drill presses on Amazon. Here's the real story after digging through specs and owner feedback.

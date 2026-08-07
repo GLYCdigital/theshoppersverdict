@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Tool Box, Lockable, 16 inch"
 seo_title: "CRAFTSMAN Tool Box Lockable 16 Review (2026): Is It Worth It?"
 meta_description: "CRAFTSMAN 16-inch lockable tool box review: build quality, security, storage capacity, real owner feedback, and who should buy it. 4.6-star verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6NRJLSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aA3pSDHuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty steel construction with reinforced corners that actually survives job-site drops"
   - "Integrated lock hasps on both sides accept a standard padlock (up to 3/8-inch shackle) — real security, not a decorative latch"
   - "Removable tote tray with molded compartments organizes sockets and bits without eating into main storage depth"
-cons:
+cons: 
   - "No built-in lock included — you must supply your own padlock, which is an added cost"
   - "At roughly 4.5 pounds empty, it's not the lightest 16-inch box; weight adds up if you carry it far"
   - "Latch mechanism can feel stiff for the first week until the metal seats in"
+
 ---
 
 # CRAFTSMAN Tool Box, Lockable, 16 — Honest Review After Real-World Use

@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Dog Stairs Foldable Nonslip Dog Steps for Small Pet Dogs"
 seo_title: "Pet Dog Stairs Foldable Nonslip Dog Steps for Smal Review"
 meta_description: "Our full pet dog stairs foldable nonslip dog steps for small pet dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GCYTJX3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U0it+No9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is your 15-pound senior dog hesitating before jumping off the bed? Or is your puppy treating your sofa like a cliff edge?** This foldable set of dog stairs from the B0GCYTXJ3N line is aimed squarely at small-breed households that need a portable ramp solution without permanent installation. After 220 buyers weighed in with a 4.4-star average, the consensus is clear: these steps work, but they’re not for every dog.

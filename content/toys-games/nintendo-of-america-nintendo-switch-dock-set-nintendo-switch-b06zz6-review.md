@@ -1,4 +1,5 @@
 ---
+
 title: "Nintendo of America Nintendo Switch Dock Set - Nintendo Swit"
 seo_title: "Nintendo of America Nintendo Switch Dock Set - Nin Review"
 meta_description: "Our full nintendo of america nintendo switch dock set - nintendo swit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06ZZ6FGGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MENbM05xL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the chase: if you own a Nintendo Switch, the dock is the most fragile, most essential, and most overpriced piece of plastic in your entertainment center. The official Nintendo Switch Dock Set exists to solve that problem — or at least give you a backup when the original gives up.

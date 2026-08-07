@@ -1,4 +1,5 @@
 ---
+
 title: "Riedell RW Wave Roller Skates for Men and Women - Durable Re"
 seo_title: "Riedell RW Wave Roller Skates for Men and Women -  Review"
 meta_description: "Our full riedell rw wave roller skates for men and women - durable re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00655DKHE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Lph0ivxyL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sub-$150 roller skates are disposable toys that fall apart within a season. The Riedell RW Wave isn't that. With a 4.6-star average across 229 ratings, these quads have earned a reputation among casual skaters who want something that actually lasts without dropping $300 on a custom boot.

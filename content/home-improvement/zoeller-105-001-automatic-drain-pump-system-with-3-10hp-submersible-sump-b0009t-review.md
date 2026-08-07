@@ -1,4 +1,5 @@
 ---
+
 title: "Zoeller 105-001 Automatic Drain Pump System - With 3/10HP Su"
 seo_title: "Zoeller 105-001 Automatic Drain Pump System - With Review"
 meta_description: "Our full zoeller 105-001 automatic drain pump system - with 3/10hp su review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0009TCDZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ASZaymGlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a condensate pump, you've probably noticed the market is flooded with cheap plastic units that die in 18 months. The Zoeller 105-001 is not one of those. This is the pump you buy when you're tired of replacing the cheap one.

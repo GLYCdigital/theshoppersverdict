@@ -1,4 +1,5 @@
 ---
+
 title: "GREEN PARTY Tabletop Griddle with Ceramic Coated Cast Iron P"
 seo_title: "GREEN PARTY Tabletop Griddle with Ceramic Coated C Review"
 meta_description: "Our full green party tabletop griddle with ceramic coated cast iron p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKB6H2Q5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TtkJ11Q0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the GREEN PARTY Tabletop Griddle the outdoor cooking upgrade your patio has been waiting for?**

@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten"
 seo_title: "LAURA GELLER NEW YORK Award-Winning Baked Balance- Review"
 meta_description: "Our full laura geller new york award-winning baked balance-n-brighten review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GWRVMP9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DCP6kOakL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Laura Geller Baked Balance-n-Brighten has been a QVC bestseller for over 20 years, won Allure's Best of Beauty award, and has a devoted cult following. But the Amazon rating sits at 3.8 stars with 190 ratings — and that gap tells you something. It's not a bad product. It's a *specific* product that works brilliantly for certain people and falls flat for others. Here's the unvarnished truth.

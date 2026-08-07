@@ -1,4 +1,5 @@
 ---
+
 title: "Eyelash Growth Serum Volumizing Lash Serum For Eyelash Growt"
 seo_title: "Eyelash Growth Serum Review: Does It Really Work? (2026)"
 meta_description: "Honest Eyelash Growth Serum review: 4.2-star rated volumizing lash serum. Real results, application tips, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D5LHW7PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DYU9RNp7L._SL1500_.jpg"
-pros:
+pros: 
   - "Visible lash lengthening within 4-6 weeks for most users, not just marketing promises"
   - "Precision applicator delivers product exactly at the lash line without waste or mess"
   - "Formulated without prostaglandin analogs, reducing the risk of eye irritation and darkening"
-cons:
+cons: 
   - "Consistency requires daily application for 8+ weeks — results vanish if you stop"
   - "Some users report mild stinging if product migrates into the eye during application"
+
 ---
 
 **The $40 lash serum that actually delivers? Here's the honest breakdown.**

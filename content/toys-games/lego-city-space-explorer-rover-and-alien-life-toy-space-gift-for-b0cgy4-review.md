@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Space Explorer Rover and Alien Life Toy, Space Gif"
 seo_title: "LEGO City Space Explorer Rover and Alien Life Toy, Review"
 meta_description: "Our full lego city space explorer rover and alien life toy, space gif review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY4Z6NM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qbSWRrHYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO City Space Explorer Rover isn't just another box of bricks — it's a compact mission kit that packs more play value than its modest piece count suggests.** After 240 Amazon ratings averaging 4.8 stars, this set has clearly earned its place in the LEGO Space lineup. Here's what you're actually getting before you spend your money.

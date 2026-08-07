@@ -1,4 +1,5 @@
 ---
+
 title: "Jello Strawberry Gelatin 6oz Box"
 seo_title: "Jello Strawberry Gelatin 6oz Box Review: Verdict | TSV"
 meta_description: "Our full jello strawberry gelatin 6oz box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FFB9W8NW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PJn9KKuRL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Jello Strawberry Gelatin 6oz Box** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

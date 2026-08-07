@@ -1,4 +1,5 @@
 ---
+
 title: "Sweejar Ceramic Dog Bowls with Bone Pattern, Dog Food Dish f"
 seo_title: "Sweejar Ceramic Dog Bowls with Bone Pattern, Dog F Review"
 meta_description: "Our full sweejar ceramic dog bowls with bone pattern, dog food dish f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BWJJDRC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41A4ImtzhKL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still feeding your dog from a scratched-up plastic bowl, it's time to look at what you're actually putting in front of them. Plastic bowls harbor bacteria in microscopic grooves, and some dogs develop chin acne from constant contact with them. The Sweejar Ceramic Dog Bowls with Bone Pattern address that problem directly with a heavy, non-porous surface that's easier to keep clean and harder to tip over.

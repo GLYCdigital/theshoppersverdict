@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet R11000 3-Setting and 6-Setting Custom Shower Di"
 seo_title: "Delta R11000 Shower Diverter Review: Smart Customization"
 meta_description: "Honest Delta R11000 shower diverter review: 3-setting vs 6-setting valve, real-world performance, installation tips, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD9KKTSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TQkSxfzZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuinely versatile — supports up to six shower functions with a single valve body, eliminating the need for multiple controls"
   - "Delta's Diamond Seal Technology uses ceramic discs instead of rubber washers, so the valve won't drip or wear out over time"
   - "Works with both 1/2-inch and 3/4-inch connections, giving you flexibility for different plumbing setups"
-cons:
+cons: 
   - "You must pair it with Delta's proprietary R10000 series trim kit — you can't just bolt on any handle from the hardware store"
   - "The 6-setting version costs notably more than the 3-setting, and most households won't use all six functions"
   - "Installation requires access behind the wall; this isn't a quick swap for existing single-function shower setups"
+
 ---
 
 If you've ever stood in a shower with a single spray pattern and thought, "This is fine, I guess," the Delta R11000 diverter valve is designed to make you question that acceptance. This is the valve that lets you run a rain head, a handheld wand, and body sprays — all from one control. It's a serious upgrade, but it's not a simple one.

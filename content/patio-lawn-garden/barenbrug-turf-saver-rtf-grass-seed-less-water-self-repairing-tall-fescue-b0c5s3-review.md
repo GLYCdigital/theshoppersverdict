@@ -1,4 +1,5 @@
 ---
+
 title: "Barenbrug Turf Saver RTF Grass Seed - Less Water Self-Repair"
 seo_title: "Barenbrug Turf Saver RTF Review: Less Water, Self-Repairing"
 meta_description: "Barenbrug Turf Saver RTF Grass Seed review: Does self-repairing tall fescue really cut water use? Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C5S3L1YF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71suzLAlPvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rhizomatous tall fescue actually spreads to fill bare patches — most fescues are bunch-type and won't do this"
   - "Noticeably deeper root system means visible drought tolerance; many buyers report green grass when neighbors' lawns go dormant"
   - "Fine-bladed texture looks more like a bluegrass lawn than typical coarse tall fescue"
-cons:
+cons: 
   - "Premium price per pound — roughly double what you'd pay for standard tall fescue blends"
   - "Slow to establish from seed; takes 2-3 weeks longer than ryegrass or bluegrass mixes"
   - "Not ideal for heavy shade — needs 4+ hours of direct sun to perform as advertised"
+
 ---
 
 # Barenbrug Turf Saver RTF Grass Seed Review: The Self-Repairing Fescue That Actually Walks the Walk

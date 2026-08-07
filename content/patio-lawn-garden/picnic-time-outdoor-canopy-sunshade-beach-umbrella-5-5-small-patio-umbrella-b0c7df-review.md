@@ -1,4 +1,5 @@
 ---
+
 title: "Picnic Time Outdoor Canopy Sunshade Beach Umbrella 5.5' - Sm"
 seo_title: "Picnic Time Outdoor Canopy Sunshade Beach Umbrella Review"
 meta_description: "Our full picnic time outdoor canopy sunshade beach umbrella 5.5' - sm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7DFZ5YT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vwD4qXJ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most sub-$50 beach umbrellas are disposable junk that lasts one season. The Picnic Time 5.5' Outdoor Canopy Sunshade is not that — but it's also not what you'd call a full-size patio umbrella. Here's the honest breakdown after digging through 225 ratings and the specs that matter.

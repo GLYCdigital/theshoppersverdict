@@ -1,4 +1,5 @@
 ---
+
 title: "unipaws Furniture Style Dog Crate End Table with Cushion, Wo"
 seo_title: "unipaws Furniture Style Dog Crate End Table with C Review"
 meta_description: "Our full unipaws furniture style dog crate end table with cushion, wo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BDLG5992/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J4c9AbKbL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the unipaws Furniture Style Dog Crate End Table the solution to the "dog crate ruins my living room" problem?** I've tested this crate for three weeks with a 35-pound Border Collie mix, and the short answer is: yes, mostly — but with a few caveats worth knowing before you buy.

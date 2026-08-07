@@ -1,4 +1,5 @@
 ---
+
 title: "FARBERWARE Classic Wood Rolling Pin, 18-Inch Hardwood Dough"
 seo_title: "FARBERWARE Classic Wood Rolling Pin Review: Worth It?"
 meta_description: "Honest FARBERWARE Classic Wood Rolling Pin review: 18-inch hardwood construction, real performance, pros & cons. Is it the right baking tool for you?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B005D6GFFA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MBKGGJu+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid American hardwood construction with no lacquer or varnish coating that could flake"
   - "18-inch length provides generous coverage for standard pie crusts and cookie dough batches"
   - "Bearing-free design means zero metal parts to rust or seize over time"
-cons:
+cons: 
   - "Requires manual seasoning with food-grade mineral oil to prevent cracking in dry climates"
   - "No handles means you grip the barrel directly — hands transfer heat to dough more quickly"
   - "Heavier than hollow or silicone options at roughly 1.5 pounds, which can fatigue smaller hands"
+
 ---
 
 Let's be direct: most rolling pins under $20 are either hollow sticks that flex in the middle or coated with a finish that eventually chips into your dough. The FARBERWARE Classic Wood Rolling Pin sidesteps both problems with a straightforward design that's been working for centuries — a solid piece of American hardwood, shaped and sanded, with zero moving parts to fail. At 18 inches long with a 9-inch rolling surface, it's the Goldilocks size for home bakers: long enough to handle a full pie crust in two passes, short enough to store in a standard drawer.

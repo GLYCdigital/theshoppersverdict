@@ -1,4 +1,5 @@
 ---
+
 title: "Bumble Bee Bee Chunk White Albacore Tuna in Water"
 seo_title: "Bumble Bee Albacore Tuna Review: Is It Worth It?"
 meta_description: "Honest Bumble Bee Chunk White Albacore Tuna review: taste, texture, value vs. competitors. See if this pantry staple earns its 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDT1N6CG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PbDgrEgwL._SL1500_.jpg"
-pros:
+pros: 
   - "Mild, clean flavor with firm, meaty chunks that hold shape when flaked — not mushy or stringy"
   - "Packed in water with no oil, making it a solid macro-friendly protein at roughly 120 calories per can"
   - "Consistent can-to-can quality; low risk of dark meat or overly fishy pieces"
-cons:
+cons: 
   - "Pricier per ounce than chunk light tuna — you're paying for the albacore label"
   - "Some cans arrive with dented rims due to thin aluminum; inspect before buying in bulk"
+
 ---
 
 Let’s be clear about what this is: Bumble Bee Chunk White Albacore Tuna in Water isn't a coffee maker, and it won't brew your morning pour-over. But if you're shopping Amazon for pantry staples alongside your coffee gear, this canned tuna deserves a look. With 225 ratings averaging 4.5 stars, it's clearly doing something right. Here's the real story.

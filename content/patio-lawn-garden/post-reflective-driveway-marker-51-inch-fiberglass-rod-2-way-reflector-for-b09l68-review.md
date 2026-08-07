@@ -1,4 +1,5 @@
 ---
+
 title: "Post Reflective Driveway Marker 51 Inch Fiberglass Rod 2-Way"
 seo_title: "Post Reflective Driveway Marker 51 Inch Fiberglass Review"
 meta_description: "Our full post reflective driveway marker 51 inch fiberglass rod 2-way review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09L68K1L7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T2pJp1FFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you live where snowplows treat your driveway like a slalom course, you already know the pain of replacing broken driveway markers every spring. The Post Reflective Driveway Marker 51-Inch Fiberglass Rod is built to survive that abuse — and for the most part, it delivers.

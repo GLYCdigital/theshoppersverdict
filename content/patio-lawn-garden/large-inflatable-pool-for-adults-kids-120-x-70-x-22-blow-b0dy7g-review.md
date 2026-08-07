@@ -1,7 +1,8 @@
 ---
-title: "Large Inflatable Pool for Adults & Kids, 120\" x 70\" x 22\" Bl"
-seo_title: "Large Inflatable Pool for Adults & Kids, 120\" x 70 Review"
-meta_description: "Our full large inflatable pool for adults & kids, 120\" x 70\" x 22\" bl review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Large Inflatable Pool for Adults & Kids, 120\ x 70\ x 22\ Bl"
+seo_title: "Large Inflatable Pool for Adults & Kids, 120\ x 70 Review"
+meta_description: "Our full large inflatable pool for adults & kids, 120\ x 70\ x 22\ bl review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "large-inflatable-pool-for-adults-kids-120-x-70-x-22-blow-b0dy7g-review"
 image_alt: "Large Inflatable Pool for Adults & Kids, 120 x 70 x 22 Blow Up Pool, Thickened Full-Sized Family Kiddie Pool for Outdoor"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY7G8LWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616w8f229HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This Pool Actually Holds Adults — Here's the Proof

@@ -1,4 +1,5 @@
 ---
+
 title: "ECO-WORTHY Bifacial 195 Watt 12 Volt 12BB Solar Panel Monocr"
 seo_title: "ECO-WORTHY Bifacial 195W Solar Panel Review: Worth It?"
 meta_description: "Honest ECO-WORTHY Bifacial 195W 12V solar panel review: real output, build quality, bifacial gains, and who should buy. 4.3-star rated."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CDW4XDBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813kS6RI9NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bifacial design captures reflected light from ground/snow, boosting real-world output 10-25% over standard panels in optimal mounting"
   - "12BB (12-busbar) monocrystalline cells with 22% efficiency rating — better shade tolerance and lower hot-spot risk than 5BB panels"
   - "IP67-rated junction box and sturdy anodized aluminum frame; survived multiple hail and wind reports without glass damage"
-cons:
+cons: 
   - "Heavier than spec suggests — 26.5 lbs actual vs. advertised 24 lbs; awkward for single-person roof installs"
   - "Bifacial gains require at least 4-6 inches of clearance behind the panel; flush-mounted users get zero extra output"
+
 ---
 
 **If you're building a 12V off-grid system — RV, shed, cabin, or camper — the ECO-WORTHY Bifacial 195W panel deserves a hard look. But only if you mount it correctly.** This is a genuinely different solar panel than the budget monocrystalline slabs you've seen a hundred times. The bifacial design means it's got glass on both sides, harvesting reflected light from below. That's not marketing fluff — it's measurable, and I'll tell you exactly when it pays off.

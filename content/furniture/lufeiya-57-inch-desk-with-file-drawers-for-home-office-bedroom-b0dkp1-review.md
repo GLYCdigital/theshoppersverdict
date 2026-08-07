@@ -1,4 +1,5 @@
 ---
+
 title: "Lufeiya 57 inch Desk with File Drawers for Home Office Bedro"
 seo_title: "Lufeiya 57 inch Desk with File Drawers for Home Of Review"
 meta_description: "Our full lufeiya 57 inch desk with file drawers for home office bedro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKP1JG7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IUUweG9dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lufeiya 57-inch Desk: The $150 Desk That Actually Gets File Storage Right**

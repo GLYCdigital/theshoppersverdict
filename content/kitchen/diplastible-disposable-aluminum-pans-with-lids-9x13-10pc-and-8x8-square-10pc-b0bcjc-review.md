@@ -1,4 +1,5 @@
 ---
+
 title: "Diplastible Disposable Aluminum Pans With Lids, 9x13 (10pc)"
 seo_title: "Diplastible Disposable Aluminum Pans 9x13 Review (2026)"
 meta_description: "Honest Diplastible disposable aluminum pans 9x13 review: sturdy, leak-resistant, and oven-safe. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BCJCWCYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gEv8++EAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-gauge aluminum resists warping and bending even when loaded with dense casseroles or lasagna"
   - "Lids snap on with a satisfying click and stay sealed — no foil-ball wrestling to keep leftovers covered"
   - "Full 9x13 capacity with straight sides, not the tapered throwaway trays you're used to"
-cons:
+cons: 
   - "Lids are plastic and NOT oven-safe — remove before reheating or you'll have a melted mess"
   - "Pan edges are slightly sharp right out of the box; handle with care when transferring hot dishes"
+
 ---
 
 Look, most disposable aluminum pans are flimsy excuses for cookware. They bend when you look at them, the lids never fit, and you're constantly worried about a lasagna avalanche in the oven. The Diplastible 9x13 pans with lids are a different animal entirely. Here's the full breakdown.

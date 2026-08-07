@@ -1,4 +1,5 @@
 ---
+
 title: "SOYUOI Ultimate Transforming Unicorn Car Toy - Collision to "
 seo_title: "SOYUOI Ultimate Transforming Unicorn Car Toy - Col Review"
 meta_description: "Our full soyuoi ultimate transforming unicorn car toy - collision to  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DQTC3H43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tasX4hCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The hook: A transforming toy that actually works — but will it survive your kid?**

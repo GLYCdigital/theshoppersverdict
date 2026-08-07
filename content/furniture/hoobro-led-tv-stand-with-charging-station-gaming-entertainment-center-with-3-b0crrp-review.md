@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO LED TV Stand with Charging Station, Gaming Entertainm"
 seo_title: "HOOBRO LED TV Stand with Charging Station, Gaming  Review"
 meta_description: "Our full hoobro led tv stand with charging station, gaming entertainm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRRP5YPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91gfvJ4rbjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about TV stands: most are either cheap particleboard boxes or overpriced slabs of wood that don't do anything. The HOOBRO LED TV Stand with Charging Station sits in a rare middle ground — it actually tries to solve real problems gamers and streamers face, and for the most part, it succeeds.

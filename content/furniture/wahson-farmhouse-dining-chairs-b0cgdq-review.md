@@ -1,4 +1,5 @@
 ---
+
 title: "Wahson Farmhouse Dining Chairs"
 seo_title: "Wahson Farmhouse Dining Chairs Review: Verdict | TSV"
 meta_description: "Our full wahson farmhouse dining chairs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CGDQZDT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mWEYvRslL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred farmhouse chair listings that promise "rustic charm" and deliver wobbly particleboard with a bad paint job. The Wahson set isn't that. But it's also not a heirloom-quality piece. Here's what you're actually getting for your money.

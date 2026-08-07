@@ -1,4 +1,5 @@
 ---
+
 title: "HTM Lighting Solutions 17 in. RLM Warehouse Shade with Goose"
 seo_title: "HTM Lighting Solutions 17 in. RLM Warehouse Shade  Review"
 meta_description: "Our full htm lighting solutions 17 in. rlm warehouse shade with goose review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07V6LLDQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51H7zhpljuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for that classic industrial warehouse look, you've probably seen a dozen RLM shades that all claim to be "heavy duty." Most of them aren't. The HTM Lighting Solutions 17-inch RLM Warehouse Shade with Gooseneck is one of the few that actually backs that claim up. After digging through 235 ratings and the spec sheet carefully, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "BLDR - Squishmallows Building Set"
 seo_title: "BLDR Squishmallows Building Set Review: Worth It? (2026)"
 meta_description: "BLDR Squishmallows Building Set review: 4.8-star rated brick set. See what's inside, how it builds, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F19CKGB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yiMHxr7-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy brick construction actually holds together during play — no collapsing towers mid-session"
   - "Detailed printed pieces capture the Squishmallows aesthetic without relying on stickers"
   - "Build time is substantial enough to justify the price for kids 6+"
-cons:
+cons: 
   - "Some smaller pieces are a genuine choking hazard — not suitable for under-3 despite cute appearance"
   - "Instructions are dense and can frustrate younger builders without adult help"
+
 ---
 
 If your kid has a pile of Squishmallows taking over the couch, here's a twist: what if they could *build* one instead? The BLDR Squishmallows Building Set takes the brand's signature round-bellied charm and translates it into a brick-based build that's more than just a shelf decoration. With a 4.8-star average across 240 ratings, it's clearly resonating — but let's get into whether it holds up to real play.

@@ -1,4 +1,5 @@
 ---
+
 title: "KURUKAHVECI MEHMET EFENDI Turkish Coffee, Arabica Beans, Roa"
 seo_title: "KURUKAHVECI MEHMET EFENDI Turkish Coffee, Arabica  Review"
 meta_description: "Our full kurukahveci mehmet efendi turkish coffee, arabica beans, roa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJYNWNJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cJ4sTjWXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever ordered Turkish coffee in a restaurant and wondered why it tastes nothing like the instant stuff at home, this is the brand that fixes that. KURUKAHVECI MEHMET EFENDI isn't some trendy third-wave roaster — it's a 150-year-old Istanbul institution that's been grinding coffee the same way since 1871. And after brewing several pots, I can tell you the hype is mostly justified.

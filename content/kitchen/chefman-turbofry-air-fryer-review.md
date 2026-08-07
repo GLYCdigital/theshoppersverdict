@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman TurboFry 8 Qt Air Fryer"
 seo_title: "Chefman TurboFry 8 Qt Air Fryer Review (2026): Worth It?"
 meta_description: "Chefman TurboFry 8 Qt Air Fryer review: 4.5★ from 16,432 buyers. Big capacity, dual controls, but is it worth it? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 16432
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DKYBTPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VzGtbzyFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 8-quart capacity fits a whole 5-pound chicken or 6-8 servings of fries without crowding"
   - "Dual independent baskets with separate temperature and timer controls let you cook two dishes at once"
   - "Dishwasher-safe parts and nonstick coating hold up well after months of heavy use"
-cons:
+cons: 
   - "Bulky footprint (about 15 inches deep) demands dedicated counter space"
   - "Dual-basket mode can't sync cook times—one side may finish well before the other"
+
 ---
 
 # Chefman TurboFry 8 Qt Air Fryer: Big Capacity, Dual Baskets, Real Trade-offs

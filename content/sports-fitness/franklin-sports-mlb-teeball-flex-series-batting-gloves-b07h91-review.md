@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports MLB Teeball Flex Series Batting Gloves"
 seo_title: "Franklin MLB Teeball Flex Batting Gloves Review (2026)"
 meta_description: "Honest Franklin Sports MLB Teeball Flex batting gloves review: fit, durability, palm grip, sizing guide & who should buy. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07H912QL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91VYENUo63S._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine leather palm provides solid grip on bat without being sticky or slick"
   - "Flex Series design uses four-way stretch mesh that actually breathes — hands stay dry in summer heat"
   - "Reinforced thumb and index finger stitching survives a full teeball season of dragging on dirt"
-cons:
+cons: 
   - "Sizing runs small — parents consistently report ordering one size up from normal shoe size"
   - "Velcro wrist strap is functional but on the narrow side; older kids may find it less secure"
+
 ---
 
 **The honest truth about youth batting gloves**

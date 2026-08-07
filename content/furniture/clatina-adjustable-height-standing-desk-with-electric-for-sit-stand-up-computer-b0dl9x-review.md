@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Adjustable Height Standing Desk with Electric for Si"
 seo_title: "CLATINA Electric Standing Desk Review: Worth It in 2026?"
 meta_description: "CLATINA adjustable height standing desk review: dual-motor lift, stability at 6'3 inch , assembly ease, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DL9X6HMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f8BJ5vN1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-motor lift handles up to 154 lbs smoothly, with minimal wobble even at full standing height"
   - "Memory presets (4 positions) let you switch between sitting and standing with one touch — no fiddling"
   - "Cable management tray and pre-drilled holes save you 30+ minutes of setup headaches"
-cons:
+cons: 
   - "The laminated particleboard top scratches more easily than solid wood — use a desk pad if you're hard on surfaces"
   - "No USB ports or power outlets built into the frame, which you'll find on similarly priced competitors"
+
 ---
 
 Let's be blunt: the standing desk market is flooded with wobbly, overpriced options that shake the moment you rest your elbows. The CLATINA Adjustable Height Standing Desk cuts through that noise with a dual-motor frame and a price that undercuts the big names. But is it actually stable at standing height, or does it turn into a Jell-O mold when you type? I dug through 210 ratings and the spec sheet so you don't have to gamble your home office budget.

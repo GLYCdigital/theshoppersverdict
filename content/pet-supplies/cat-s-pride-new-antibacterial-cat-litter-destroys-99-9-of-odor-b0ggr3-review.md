@@ -1,4 +1,5 @@
 ---
+
 title: "Cat's Pride NEW Antibacterial Cat Litter: Destroys 99.9% of"
 seo_title: "Cat's Pride Antibacterial Cat Litter Review: 99.9% Odor Kill"
 meta_description: "Our Cat's Pride Antibacterial Cat Litter review covers real odor control, dust levels, and clumping. See if this 4.5-star litter is right for your cat."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GGR3MQLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GvVEVP+fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Antibacterial formula genuinely neutralizes ammonia odors at the source rather than just masking them with perfume"
   - "Low-dust clay formula that tracks less than most competitors in the same price bracket"
   - "Strong clumping that holds shape during scooping without crumbling into the clean litter"
-cons:
+cons: 
   - "Scent may be too noticeable for cats and owners sensitive to fragranced litters"
   - "Antibacterial claims require consistent scooping to maintain effectiveness, so skip if you're not a daily scooper"
+
 ---
 
 Let's be direct: most cat litters promise odor control, then betray you by day three. Cat's Pride is making a bolder claim with this new antibacterial formula — that it destroys 99.9% of odor-causing bacteria rather than simply covering them up. After digging through 225 ratings averaging 4.5 stars, I can tell you whether that promise holds up in a real litter box.

@@ -1,4 +1,5 @@
 ---
+
 title: "Covetrus Nutrisential Lean Treats for Dogs - Small, Medium &"
 seo_title: "Covetrus Nutrisential Lean Treats Review: Worth It? (2026)"
 meta_description: "Honest Covetrus Nutrisential Lean Treats review: ingredients, calorie counts, and real buyer feedback. See if these low-cal training treats suit your dog."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GGML6JD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LawZKw3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Only 3 calories per treat, making it one of the lowest-calorie training bites available"
   - "Crunchy texture that dogs find satisfying without crumbling into a mess"
   - "Veterinary brand backing (Covetrus) with cleaner ingredient list than typical grocery-store treats"
-cons:
+cons: 
   - "Small pieces mean large-breed owners will blow through a bag quickly during training sessions"
   - "Some picky eaters may find the flavor too mild compared to high-fat treats"
   - "Bag lacks a resealable zipper — you'll want a clip or container for freshness"
+
 ---
 
 Let me be blunt: most "low-calorie" dog treats are a marketing joke. They claim 5 calories per piece but pack the first three ingredients with sugar and fillers. The Covetrus Nutrisential Lean Treats actually deliver on the promise — 3 calories per treat, with chicken liver as the first ingredient. That's the real story here.

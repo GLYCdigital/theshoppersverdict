@@ -1,4 +1,5 @@
 ---
+
 title: "10 Strawberry Street Wazee Matte"
 seo_title: "10 Strawberry Street Wazee Matte Review: Worth It?"
 meta_description: "Honest 10 Strawberry Street Wazee Matte review: build quality, performance, real buyer feedback, and who should buy. Get the facts before you spend."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G49CZV8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xXRiiG0WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Matte ceramic nonstick surface holds up noticeably better than cheap nonstick pans — no scratching after months of regular use"
   - "Oven-safe up to 350°F with riveted stainless steel handles that stay cool on the stovetop"
   - "Even heat distribution across the base thanks to the aluminum core — no hot spots when searing"
-cons:
+cons: 
   - "Not dishwasher-safe despite what some buyers expect — hand washing is mandatory to protect the finish"
   - "The matte exterior shows fingerprints and oil splatter more than glossy finishes"
   - "Metal utensils will eventually mar the surface — stick to silicone or wood"
+
 ---
 
 # 10 Strawberry Street Wazee Matte Review: A Budget-Friendly Nonstick That Actually Delivers

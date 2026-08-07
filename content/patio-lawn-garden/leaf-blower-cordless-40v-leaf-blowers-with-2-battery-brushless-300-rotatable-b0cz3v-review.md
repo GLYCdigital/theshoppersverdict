@@ -1,4 +1,5 @@
 ---
+
 title: "Leaf Blower Cordless, 40V Leaf Blowers with 2 Battery Brushl"
 seo_title: "Leaf Blower Cordless, 40V Leaf Blowers with 2 Batt Review"
 meta_description: "Our full leaf blower cordless, 40v leaf blowers with 2 battery brushl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CZ3VMPX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-ouIwWfOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Leaf Blower Cordless, 40V Leaf Blowers with 2 Battery Brushl — Full Review

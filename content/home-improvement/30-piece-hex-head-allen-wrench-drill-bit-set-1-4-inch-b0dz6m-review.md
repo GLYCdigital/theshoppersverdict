@@ -1,4 +1,5 @@
 ---
+
 title: "30 Piece Hex Head Allen Wrench Drill Bit Set, 1/4 Inch Shank"
 seo_title: "30 Piece Allen Wrench Drill Bit Set Review — 1/4 inch Shank"
 meta_description: "Honest review of the 30-piece hex head Allen wrench drill bit set with 1/4-inch shank. Build quality, real-world testing, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZ6MP15D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DUo9awHyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Full 30-bit coverage from 0.05 inch to 3/8 inch and 1.5mm to 10mm — nearly every fastener you'll meet
   - "S2 alloy steel construction holds up to high-torque impact driver use without snapping"
   - "Color-coded case with size markings makes grabbing the right bit a 3-second task"
-cons:
+cons: 
   - "No ball-end option — angled access is limited to straight-on driving"
   - "Case hinge feels light-duty; handle with care on job sites"
+
 ---
 
 If you've ever dug through a drawer full of loose L-keys looking for the one Allen size that fits, this set is the cure. The 30-piece hex head Allen wrench drill bit set with a 1/4-inch shank consolidates every common hex size into one organized kit that turns any drill or impact driver into a powered hex driver.

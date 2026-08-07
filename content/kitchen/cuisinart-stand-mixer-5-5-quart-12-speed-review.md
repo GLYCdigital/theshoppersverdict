@@ -1,17 +1,18 @@
 ---
+
 title: "Cuisinart Stand Mixer, 12 Speed, 5.5 Quart Stainless Steel Bowl"
 seo_title: "Cuisinart Stand Mixer SM-50NAS Review: Verdict (4.6/5) | The Shopper's Verdict"
 meta_description: "Cuisinart SM-50NAS stand mixer review: 9,950+ Amazon reviews analyzed. 500W motor, 5.5-qt bowl, 12 speeds. Long-term owner feedback on bread dough, value vs KitchenAid, and real-world durability."
 slug: "cuisinart-stand-mixer-5-5-quart-12-speed-review"
 image_alt: "Cuisinart Stand Mixer 5.5 Quart 12 Speed White Linen with Stainless Steel Bowl"
-keywords:
+keywords: 
   - "Cuisinart stand mixer review"
   - "SM-50NAS review"
   - "best stand mixer for bread dough"
   - "Cuisinart vs KitchenAid stand mixer"
   - "affordable stand mixer"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Can the Cuisinart stand mixer handle bread dough?"
     answer: "Yes — with a 500-watt motor and die-cast metal construction, it handles heavy bread dough reliably. Owners report years of regular bread baking without overheating or motor strain."
   - question: "Does it accept KitchenAid attachments?"
@@ -24,18 +25,19 @@ review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aZxs6FBPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "500W motor handles heavy bread dough without overheating"
   - "Tilt-back head with continuous beater rotation while lifted"
   - "Lighter and quieter than equivalent KitchenAid models"
   - "All metal attachments included — whisk, paddle, dough hook"
   - "3-year warranty gives confidence for long-term use"
   - "Compatible with useful add-ons (ice cream maker, pasta roller)"
-cons:
+cons: 
   - "5.5-qt bowl is large but not oversized for very big batches"
   - "Splash guard is two-piece and must be removed to change beaters"
   - "Speed markings are printed on a sticker, not engraved"
   - "Some vibration at higher speeds with heavy doughs"
+
 ---
 
 The Cuisinart SM-50NAS occupies the sweet spot in the stand mixer market: serious enough for a bread baker who grinds their own flour, affordable enough for someone who just wants better cookies. With 9,956 Amazon reviews averaging 4.7 stars, it is one of the best-reviewed consumer stand mixers at any price. The consensus after thousands of owners is clear — this mixer competes directly with KitchenAid at roughly half the cost.

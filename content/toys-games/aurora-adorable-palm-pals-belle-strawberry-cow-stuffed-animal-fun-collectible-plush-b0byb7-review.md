@@ -1,4 +1,5 @@
 ---
+
 title: "Aurora® Adorable Palm Pals™ Belle Strawberry Cow™ Stuff"
 seo_title: "Aurora Palm Pals Belle Strawberry Cow Review: Adorable 5 inch  Plush"
 meta_description: "Aurora Palm Pals Belle Strawberry Cow review: Is this 5-inch mini plush worth it? Real owner feedback on softness, size, and collectibility. Verdict: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYB79YD9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cIP38MQLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ultra-soft marshmallow texture that holds up to repeated squeezing without matting"
   - "True 5-inch palm size — fits perfectly in an adult hand for desk or car use"
   - "Embroidered strawberry details and face — no plastic eyes to scratch or fall off"
-cons:
+cons: 
   - "Smaller than some photos suggest — expect 5 inches, not the 8-10 inches product images can imply"
   - "Not a standalone toy for rough play — it's a collectible display piece, not a toss-around plaything"
+
 ---
 
 Let's cut through the cuteness overload for a second. The Aurora Palm Pals Belle Strawberry Cow is a 5-inch mini plush that has earned a 4.7-star average from 235 Amazon ratings — and nearly all of them are five stars. But is this tiny cow actually worth your money, or is it just another impulse-buy desk decoration? Here's the real story.

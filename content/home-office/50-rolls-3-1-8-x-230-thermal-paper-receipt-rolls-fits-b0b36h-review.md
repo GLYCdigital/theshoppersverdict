@@ -1,4 +1,5 @@
 ---
+
 title: "(50 Rolls) 3 1/8 x 230 Thermal Paper Receipt Rolls fits all"
 seo_title: "3 1/8 x 230 Thermal Paper Rolls Review: 50-Pack Value"
 meta_description: "Honest review of 50-roll 3 1/8 x 230 thermal receipt paper. Real buyer feedback on print quality, BPA concerns, and whether this bulk pack saves you money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B36HW9CP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81trPfDQhdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 230-foot roll length — genuinely lasts weeks in high-volume retail, not the short 165-foot rolls some sellers pass off as standard"
   - "Clean, consistent thermal coating with no streaking or fading in the first 24 hours; prints stay legible for months when stored properly"
   - "Universal 3 1/8-inch width fits the vast majority of POS systems including Square, Clover, Star, Epson, and older IBM registers"
-cons:
+cons: 
   - "Paper is noticeably thinner than premium brands — tears more easily when handling receipts roughly or near the perforation line"
   - "No BPA-free certification stated on packaging; buyers needing strict compliance for food or healthcare should verify before purchasing"
+
 ---
 
 If you run a small business, you know the drill: you're out of receipt paper at 4:55 PM on a Friday. This 50-roll bulk pack from an unbranded Amazon seller aims to end that problem for good. At roughly 4.4 stars across 220 ratings, it's clearly doing something right. But "fits all" is doing a lot of heavy lifting in that title — let's break down whether this is actually the right thermal paper for your setup.

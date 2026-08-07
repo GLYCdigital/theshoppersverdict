@@ -1,4 +1,5 @@
 ---
+
 title: "BDYDT Wall Art Chameleon Building Blocks Set; A Wall Decor S"
 seo_title: "BDYDT Chameleon Wall Art Blocks Review: Worth It? (2026)"
 meta_description: "BDYDT Wall Art Chameleon Building Blocks Set review: 4.3★ rated. Is this 3D wall decor worth the assembly effort? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4VBTBF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mBfX1hxsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Large finished piece (roughly 20x20 inches assembled) that reads as genuine wall art, not a toy"
   - "Blocks snap together snugly with no glue needed — the friction fit holds firm on the included mounting plate"
   - "Chameleon design uses 6+ distinct green/teal shades for real visual depth from across a room"
-cons:
+cons: 
   - "No numbered bags — you'll sort ~500 pieces by color yourself, adding 30-45 minutes to build time"
   - "Wall-mounting hardware is basic (screws + anchors only); you'll want your own level and measuring tape"
   - "Some pieces arrive with minor molding flash that needs a quick trim before they seat fully"
+
 ---
 
 **Is a wall-mounted LEGO-style chameleon worth your wall space? After digging through 215 ratings and the build process itself, here's the honest breakdown.**

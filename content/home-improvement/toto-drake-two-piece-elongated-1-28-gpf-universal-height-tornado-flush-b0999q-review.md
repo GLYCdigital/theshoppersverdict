@@ -1,4 +1,5 @@
 ---
+
 title: "TOTOÂ® DrakeÂ® Two-Piece Elongated 1.28 GPF Universal Height"
 seo_title: "TOTOÂ® DrakeÂ® Two-Piece Elongated 1.28 GPF Univer Review"
 meta_description: "Our full totoâ® drakeâ® two-piece elongated 1.28 gpf universal height review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0999Q6NFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UnIY3K0MS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the TOTO Drake is one of the most frequently recommended toilets from plumbers and contractors — but this specific two-piece version has a split personality. At 1.28 gallons per flush with TOTO's Tornado Flush system, it promises serious water savings. Yet the 3.8-star average on Amazon tells you not everyone's experience matched that promise. Here's what you need to know before you hand over your credit card.

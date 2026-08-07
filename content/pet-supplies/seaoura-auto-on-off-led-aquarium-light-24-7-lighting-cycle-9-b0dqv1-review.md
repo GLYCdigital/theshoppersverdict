@@ -1,4 +1,5 @@
 ---
+
 title: "SEAOURA Auto On Off LED Aquarium Light, 24/7 Lighting Cycle,"
 seo_title: "SEAOURA Auto On Off LED Aquarium Light, 24/7 Light Review"
 meta_description: "Our full seaoura auto on off led aquarium light, 24/7 lighting cycle, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQV17GBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nJ2Dxpn1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of manually flipping your aquarium light on and off every morning and night, the SEAOURA LED light with its 24/7 auto cycle actually delivers on that promise. It's not a powerhouse light for demanding planted tanks, but for community fish tanks and low-light setups, it's a genuinely convenient, well-built option that's earned its 4.2-star rating across 210 reviews.

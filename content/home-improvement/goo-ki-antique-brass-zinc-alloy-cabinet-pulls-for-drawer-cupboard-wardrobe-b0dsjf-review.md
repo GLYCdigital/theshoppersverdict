@@ -1,4 +1,5 @@
 ---
+
 title: "Goo-Ki Antique Brass zinc Alloy Cabinet pulls for Drawer,Cup"
 seo_title: "Goo-Ki Antique Brass zinc Alloy Cabinet pulls for  Review"
 meta_description: "Our full goo-ki antique brass zinc alloy cabinet pulls for drawer,cup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSJF3K1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tXTzhmhqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen. Get it right and the whole room looks intentional. Get it wrong and you're staring at a mismatch every time you open a drawer. The Goo-Ki Antique Brass zinc alloy pulls sit firmly in the "get it right" category — with a few caveats worth knowing before you add them to your cart.

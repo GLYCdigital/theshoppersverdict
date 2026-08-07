@@ -1,4 +1,5 @@
 ---
+
 title: "HES 8000C Complete Pac for Latchbolt Locks, Includes The 801"
 seo_title: "HES 8000C Complete Pac for Latchbolt Locks, Includ Review"
 meta_description: "Our full hes 8000c complete pac for latchbolt locks, includes the 801 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PMLNYNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pBj3co9aL._AC_SL1158_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever shown up to a job with an electric strike and realized you packed the wrong faceplate, you already know why the HES 8000C Complete Pac exists. This kit bundles the 801 latchbolt strike with both the 801A (1-1/8" face) and 801B (1-3/8" face), plus all the mounting hardware and spacers. It's the "grab-and-go" box that security installers keep in the van for exactly this reason.

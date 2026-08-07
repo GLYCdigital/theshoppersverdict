@@ -1,4 +1,5 @@
 ---
+
 title: "CHAMPRO BHP Inground Home Plate"
 seo_title: "CHAMPRO BHP Inground Home Plate Review: Worth It?"
 meta_description: "CHAMPRO BHP Inground Home Plate review: durable pro-style anchor plate, real dimensions, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08GKVXX3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nBQckIxML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 17-inch pro-style dimensions with tapered edges that sit flush for safer slides"
   - "Pre-drilled anchor holes and molded black rubber that stays put without shifting"
   - "Hollow base design sheds water and resists warping through freeze-thaw cycles"
-cons:
+cons: 
   - "Requires digging a proper hole and anchoring — not a drop-in surface plate"
   - "Some units arrive with minor cosmetic scuffs from shipping, though function is unaffected"
+
 ---
 
 Let’s be honest about home plates: most cheap ones are flimsy plastic that warps by mid-season. The CHAMPRO BHP Inground Home Plate is a different animal. It’s a real, anchored plate built for players who slide hard and grounds crews who don’t want to re-level dirt every week. After digging into the specs and 215 buyer ratings (4.3 stars), here’s the full story.

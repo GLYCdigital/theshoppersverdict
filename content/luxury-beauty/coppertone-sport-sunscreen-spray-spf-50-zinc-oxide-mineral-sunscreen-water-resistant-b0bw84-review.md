@@ -1,5 +1,6 @@
 ---
 
+
 title: "Coppertone SPORT Sunscreen Spray SPF 50, Zinc Oxide Mineral"
 seo_title: "Coppertone Sport SPF 50 Mineral Spray Review (2026)"
 meta_description: "Honest Coppertone SPORT SPF 50 zinc oxide spray review: coverage, white cast, water resistance, and sweat performance. Is it worth it? Find out."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BW846N71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71leoiho17L._SL1500_.jpg"
-pros:
+pros: 
   - "True 80-minute water resistance that holds up through actual sweat sessions, not just pool dips"
   - "Zinc oxide formula sprays evenly without the thick, pasty texture most mineral sunscreens suffer from"
   - "Non-greasy finish that doesn't attract sand or dirt — rare for a mineral SPF 50 inch"
-cons:
+cons: 
   - "Leaves a visible white cast on deeper skin tones, especially if you don't rub it in aggressively"
   - "Spray nozzle can clog if you don't shake the canister vigorously before each use"
   - "Scent is mildly clinical — not unpleasant, but don't expect the classic Coppertone beachy aroma"
+
 
 ---
 

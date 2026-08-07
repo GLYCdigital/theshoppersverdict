@@ -1,4 +1,5 @@
 ---
+
 title: "Giraffe Tools Grandfalls Retractable Pressure Washer G20B, 2"
 seo_title: "Giraffe Tools Grandfalls Retractable Pressure Wash Review"
 meta_description: "Our full giraffe tools grandfalls retractable pressure washer g20b, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4QDBR3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712BZn+hRlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a 50-foot pressure washer hose back onto a flimsy plastic reel while it kinks and sprays muddy water up your arm, you already know why the Giraffe Tools Grandfalls G20B is worth a hard look. This is a wall-mounted unit with a 40-foot hose that retracts at the pull of a tab — no cranking, no wrestling, no puddles of regret on your garage floor. The 4.3-star average across 215 ratings suggests buyers are mostly satisfied, but the real question is whether it delivers where it counts: actual cleaning power and daily usability.

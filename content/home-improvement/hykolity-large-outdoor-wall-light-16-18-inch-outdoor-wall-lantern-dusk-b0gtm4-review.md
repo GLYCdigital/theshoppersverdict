@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity Large Outdoor Wall Light, 16 & 18 Inch Outdoor Wall"
 seo_title: "hykolity Large Outdoor Wall Light, 16 & 18 Inch Ou Review"
 meta_description: "Our full hykolity large outdoor wall light, 16 & 18 inch outdoor wall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTM4KJQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tzzu1lvkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most exterior lights are afterthoughts — small, weak, and forgettable. The hykolity Large Outdoor Wall Light is the opposite. At 16 or 18 inches tall, this fixture commands your facade. But is it a quality purchase or just big and cheap? I dug into the specs, the build, and what 235 buyers are actually saying.

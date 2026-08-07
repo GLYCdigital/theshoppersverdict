@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Flat Brush"
 seo_title: "Oribe Flat Brush Review: Verdict | TSV"
 meta_description: "Our full oribe flat brush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BRYHXLLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bd-57aVsL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what's happening here. You're looking at a flat brush that costs more than most complete hair care routines. The Oribe Flat Brush has earned a 4.2-star rating across 210 Amazon reviews, and the question on your mind is simple: does it perform well enough to justify the spend? After digging through buyer feedback and examining the construction, here's what you need to know before you hit "add to cart."

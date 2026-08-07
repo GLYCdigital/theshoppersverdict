@@ -1,4 +1,5 @@
 ---
+
 title: "Date Lady Syrup Review"
 seo_title: "Date Lady Syrup Review: Best Natural Coffee Sweetener?"
 meta_description: "Date Lady Syrup review: Is this date-based sweetener worth it for coffee? Real pros, cons, flavor notes, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CD123YG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nka7Q934L._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, single-ingredient formula — just dates, no refined sugar or artificial additives"
   - "Caramel-like depth that actually complements coffee instead of masking it"
   - "Thick, syrup consistency that dissolves well in hot drinks without clumping"
-cons:
+cons: 
   - "Price per ounce runs higher than standard flavored syrups"
   - "Bottle size means frequent reorders if you use it daily"
   - "Flavor profile leans naturally sweet — won't satisfy those expecting intense vanilla or caramel"
+
 ---
 
 If you've been circling the idea of ditching refined sugar in your coffee but found stevia's aftertaste offensive and monk fruit too expensive, this bottle is worth your attention. Date Lady Syrup has quietly racked up 240 ratings at a 4.8-star average, and the numbers aren't the only thing that's sweet.

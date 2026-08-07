@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco Linkable LED Utility Shop Light, 4500 LM, 4 FT, 48 Inc"
 seo_title: "Sunco Linkable LED Utility Shop Light, 4500 LM, 4  Review"
 meta_description: "Our full sunco linkable led utility shop light, 4500 lm, 4 ft, 48 inc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMTSW45K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CJi1nz5XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about garage lighting: most of us are working under a single bare bulb that makes every shadow look like a crime scene. The Sunco Linkable LED Utility Shop Light is the upgrade that fixes that without requiring an electrician or a second mortgage.

@@ -1,4 +1,5 @@
 ---
+
 title: "Adjustable Air Vent Deflector for AC,Ceiling, Wall, Floor, 9 inch"
 seo_title: "Adjustable Air Vent Deflector Review: 9-Inch AC Deflector (2026)"
 meta_description: "Honest review of the 9-inch Adjustable Air Vent Deflector for AC vents. 4.4-star rated. Does it stop cold spots and drafts? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FY6XP3MD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619iWD53h6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic base holds firmly to steel vents — no tools or adhesive required for install"
   - "Pivoting louver design redirects airflow up to 90 degrees, killing cold spots in rooms with poor vent placement"
   - "Fits 9-inch vents but adjusts slightly for 8-10 inch registers; works on ceiling, wall, and floor"
-cons:
+cons: 
   - "Magnet strength is moderate — can slide if you have a high-velocity HVAC system or dusty vent fins"
   - "Plastic feels a bit thin at the hinge points; aggressive adjustments may stress the joint over time"
+
 ---
 
 If you've ever lain in bed staring at a ceiling vent blowing directly on your face, or sat at a desk with one arm freezing while the rest of you sweats, this 9-inch adjustable air vent deflector is the $24 fix you didn't know you needed. It's a simple concept — redirect the airflow where you actually want it — but the execution matters. Here's the honest breakdown after digging through 220 ratings and real-world feedback.

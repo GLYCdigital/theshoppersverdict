@@ -1,4 +1,5 @@
 ---
+
 title: "Moccona 03 Mattress-FBA"
 seo_title: "Moccona 03 Mattress-FBA Review: Verdict | TSV"
 meta_description: "Our full moccona 03 mattress-fba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GXYX8D9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qiN60zMfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A mattress is the one purchase where "good enough" can cost you years of mediocre sleep. The Moccona 03 lands in a crowded field of bed-in-a-box options, but with 204 ratings holding a respectable 4.1-star average, it's clearly doing something right. The question is whether that something justifies your money — or your back.

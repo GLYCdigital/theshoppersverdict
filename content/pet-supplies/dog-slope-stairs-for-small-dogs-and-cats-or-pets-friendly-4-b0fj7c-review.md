@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Slope Stairs for Small Dogs and Cats or Pets Friendly, 4 inch"
 seo_title: "Dog Slope Stairs for Small Dogs Review (2026) | 4-Step Pet Ramp"
 meta_description: "Honest Dog Slope Stairs for Small Dogs review: 4-step foam ramp for cats & seniors. Does it hold up? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FJ7CXLJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814kAINfc4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight but dense foam holds a 20 lb dog without sagging, per owner reports"
   - "Non-slip bottom grips hardwood and carpet, and the textured tread gives paws real traction"
   - "Covers up to 14 inches of bed height — enough for most platform beds and sofas"
-cons:
+cons: 
   - "Cover is not removable for washing; spot-cleaning only gets so far with muddy paws"
   - "At roughly 30 inches long, it eats floor space in tight bedrooms"
   - "Some small-breed puppies ignore it entirely and still launch off the bed — training required"
+
 ---
 
 **The 4-Step Foam Ramp That Saves Your Small Dog's Joints (and Your Back)**

@@ -1,4 +1,5 @@
 ---
+
 title: "Lithonia Lighting CPHB Compact PRO LED Bay Light, High Bay"
 seo_title: "Lithonia Lighting CPHB Compact PRO LED Bay Light,  Review"
 meta_description: "Our full lithonia lighting cphb compact pro led bay light, high bay review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CBP7MYJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with what matters: this is a serious piece of lighting equipment, not a garage LED. The Lithonia CPHB Compact PRO is a 150-watt high bay that throws 20,250 lumens at 5000K — that's a genuine 400W metal halide replacement in a package that weighs about 13 pounds and measures 13.5 inches across. If you're lighting a warehouse, workshop, gym, or commercial garage, this is the class of fixture you should be looking at.

@@ -1,4 +1,5 @@
 ---
+
 title: "3 Sets BBQ Accessories 12 Inch Round Stainless Steel Basting"
 seo_title: "3 Sets BBQ Accessories 12 Inch Round Stainless Steel Review"
 meta_description: "Honest review of 3 Sets BBQ Accessories 12 Inch Round Stainless Steel Basting covers. See real pros, cons, and who should buy. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08PBJF2PK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SsCbrmgeL._AC_SL1152_.jpg"
-pros:
+pros: 
   - "Three-piece set means you can baste multiple meats or use one as a splatter guard while the others rest"
   - "12-inch diameter covers a standard cast iron skillet or grill grate with room to spare"
   - "Stainless steel construction distributes heat evenly and won't warp at high grill temps"
-cons:
+cons: 
   - "No locking mechanism on the handle — it folds freely and can flop around during transport"
   - "Handles are not insulated; you'll need a mitt or towel every time you lift"
+
 ---
 
 Let's get one thing straight: you don't need a basting cover. You need *three* of them. That's the entire premise of this 3-pack from a brand that clearly understands how BBQ actually works — you're not basting one thing, you're basting everything, and you don't want to wash a greasy cover mid-cook to reuse it.

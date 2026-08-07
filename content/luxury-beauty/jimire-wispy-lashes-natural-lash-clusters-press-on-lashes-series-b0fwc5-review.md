@@ -1,4 +1,5 @@
 ---
+
 title: "JIMIRE Wispy Lashes Natural Lash Clusters Press on Lashes Se"
 seo_title: "JIMIRE Wispy Lashes Natural Lash Clusters Press on Review"
 meta_description: "Our full jimire wispy lashes natural lash clusters press on lashes se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FWC5SGPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w+gu0c85L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about lash clusters: most of them look like spiders threw a party on your eyelids. The JIMIRE Wispy Lashes are different — and that's the first thing you'll notice when you pull them from the box.

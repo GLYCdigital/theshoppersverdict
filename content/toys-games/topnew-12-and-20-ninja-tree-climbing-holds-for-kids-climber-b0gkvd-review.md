@@ -1,4 +1,5 @@
 ---
+
 title: "TOPNEW 12 and 20 Ninja Tree Climbing Holds for Kids Climber"
 seo_title: "TOPNEW 12 and 20 Ninja Tree Climbing Holds for Kid Review"
 meta_description: "Our full topnew 12 and 20 ninja tree climbing holds for kids climber review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKVD2YP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XjmTGi4BL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kids have discovered Ninja Warrior on TV, you already know what's coming: they're going to climb something. The question is whether that something is a bookshelf, a doorframe, or a tree in your backyard. The TOPNEW 12 and 20 Ninja Tree Climbing Holds are designed to give you a controlled answer to that question — and at $38.99 for a set that includes both 12 and 20 holds, it's priced like a no-brainer. But is it actually tree-safe, kid-safe, and durable enough to earn a permanent spot in your yard? Here's the real story from 229 buyers who've already put these to the test.

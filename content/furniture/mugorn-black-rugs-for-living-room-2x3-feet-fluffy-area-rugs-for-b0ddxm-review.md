@@ -1,4 +1,5 @@
 ---
+
 title: "Mugorn Black Rugs for Living Room, 2x3 Feet Fluffy Area Rugs"
 seo_title: "Mugorn Black Rugs for Living Room, 2x3 Feet Fluffy Review"
 meta_description: "Our full mugorn black rugs for living room, 2x3 feet fluffy area rugs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDXM9MJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R4dUTK77L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "fluffy" rug online and gotten something that feels like a doormat, you know the disappointment. The Mugorn 2x3 black area rug is not that rug. It's genuinely plush — dense enough that your feet sink in a little when you step on it. But before you hit buy, there are a few things about this specific size and color you need to know.

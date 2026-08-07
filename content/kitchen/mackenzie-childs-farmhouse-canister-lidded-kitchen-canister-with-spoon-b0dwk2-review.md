@@ -1,4 +1,5 @@
 ---
+
 title: "MACKENZIE-CHILDS Farmhouse Canister, Lidded Kitchen Canister"
 seo_title: "MACKENZIE-CHILDS Farmhouse Canister, Lidded Kitche Review"
 meta_description: "Our full mackenzie-childs farmhouse canister, lidded kitchen canister review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DWK22DMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rVVGkcCoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you don't buy a MACKENZIE-CHILDS canister because you need somewhere to store sugar. You buy it because you want your kitchen to look like it belongs in a Hudson Valley farmhouse with a story to tell. The question is whether the 4.7-star rating from 235 buyers holds up when you're actually scooping flour out of it at 7 AM on a Tuesday.

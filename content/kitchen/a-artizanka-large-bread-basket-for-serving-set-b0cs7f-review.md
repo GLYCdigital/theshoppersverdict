@@ -1,4 +1,5 @@
 ---
+
 title: "A ARTIZANKA Large Bread Basket for Serving Set"
 seo_title: "A ARTIZANKA Bread Basket Set Review: Worth It?"
 meta_description: "A ARTIZANKA large bread basket set review: honest verdict on size, durability, and value. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CS7FY98G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91VSqARIySL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely large — fits a full baguette or 8+ dinner rolls without crowding"
   - "Sturdy woven construction that holds its shape even when loaded with heavy sourdough"
   - "Included liner cloth is thick enough to keep crumbs contained and bread warm"
-cons:
+cons: 
   - "Basket is hand-wash only; warps if you machine-wash it on a whim"
   - "Liner fabric wrinkles noticeably after first wash, so it won't look crisp for long"
+
 ---
 
 Let's cut through the listing photos. A bread basket is a simple thing — a holder, a liner, a way to get carbs to the table. But the A ARTIZANKA Large Bread Basket set has quietly pulled in 225 ratings at 4.5 stars, which says something. The question is whether it earns a spot in your kitchen or just becomes another cabinet occupant.

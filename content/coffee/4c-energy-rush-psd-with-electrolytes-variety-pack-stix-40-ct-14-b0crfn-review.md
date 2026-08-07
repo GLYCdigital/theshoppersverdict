@@ -1,4 +1,5 @@
 ---
+
 title: "4C Energy Rush PSD with Electrolytes Variety Pack Stix, 40 ct"
 seo_title: "4C Energy Rush PSD with Electrolytes Review (40 ct)"
 meta_description: "Honest 4C Energy Rush PSD with Electrolytes Variety Pack review: 40 sticks, 4 flavors, 100mg caffeine each. Does it beat coffee? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRFNYRB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dtewwmYML._SL1500_.jpg"
-pros:
+pros: 
   - "40 sticks per box works out to roughly $0.50 per serving — cheaper than most canned energy drinks"
   - "100mg natural caffeine per stick from green coffee bean extract, so you get a clean lift without jitters"
   - "Includes electrolytes (sodium, potassium, magnesium) to actually help with hydration, not just flavor"
-cons:
+cons: 
   - "PSD stands for 'Product with Smart Drip' — you must fully dissolve in 16oz water or you'll get chalky sediment at the bottom"
   - "Sweetener is sucralose; if you're sensitive to artificial sweeteners, the aftertaste is noticeable"
   - "No individual wrapper nutrition facts — you need the box or the Amazon listing for per-stick caffeine counts"
+
 ---
 
 If you're staring at a $3.50 canned energy drink and thinking, "there's got to be a cheaper way," this 40-count box of 4C Energy Rush sticks is that way. At roughly 50 cents per serving, you're paying a fraction of what you would for a Celsius or Monster — and you're getting something that hydrates better than coffee.

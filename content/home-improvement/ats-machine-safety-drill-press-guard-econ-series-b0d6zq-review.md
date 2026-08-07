@@ -1,4 +1,5 @@
 ---
+
 title: "ATS Machine Safety Drill Press Guard Econ Series"
 seo_title: "ATS Drill Press Guard Review: Econ Series Safety (2026)"
 meta_description: "ATS Econ Series drill press guard review: clear polycarbonate shield, easy install, fits most presses. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6ZQ5KLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41O9sg2m8eL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crystal-clear polycarbonate shield gives full visibility of the bit and workpiece while blocking chips and debris"
   - "Spring-loaded hinge keeps the guard up when you need to change bits or align work, then drops back down automatically"
   - "Universal mounting bracket fits most benchtop and floor-model drill presses without drilling into the head casting"
-cons:
+cons: 
   - "Locking knob can loosen over time with heavy vibration, requiring occasional re-tightening mid-project"
   - "Shield depth is tight on smaller 8-inch drill presses — larger workpieces may bump the guard before contacting the bit"
+
 ---
 
 If you've ever taken a hot metal chip to the face while drilling, you already know why a guard matters. The ATS Machine Safety Drill Press Guard Econ Series is the budget-friendly answer to that problem — and at 4.6 stars across 229 ratings, it's clearly earning its keep in workshops. But is it the right guard for *your* press? Let's dig in.

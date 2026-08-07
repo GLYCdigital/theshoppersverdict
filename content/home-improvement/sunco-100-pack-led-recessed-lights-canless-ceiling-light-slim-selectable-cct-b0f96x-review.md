@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco 100 Pack LED Recessed Lights, Canless Ceiling Light Sl"
 seo_title: "Sunco 100 Pack LED Recessed Lights, Canless Ceilin Review"
 meta_description: "Our full sunco 100 pack led recessed lights, canless ceiling light sl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F96X6J47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uAYL4Sv+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're wiring a whole house, a rental flip, or a commercial buildout, the math on the Sunco 100-pack is hard to ignore. At roughly $2–3 per fixture when you do the per-unit math, you're looking at contractor-grade pricing for a product with a legitimate 4.4-star average across 220+ ratings. But bulk pricing only matters if the fixture itself doesn't drive you crazy during install. Here's the real breakdown.

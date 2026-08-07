@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Trident Z5 Royal Neo Series DDR5 RAM (AMD EXPO) 96GB"
 seo_title: "G.SKILL Trident Z5 Royal Neo Series DDR5 RAM (AMD  Review"
 meta_description: "Our full g.skill trident z5 royal neo series ddr5 ram (amd expo) 96gb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4M26KSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fVKzifdDL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Ryzen workstation is choking on 32GB or 64GB of RAM, the G.SKILL Trident Z5 Royal Neo is the upgrade you've been waiting for. This isn't a gaming-first kit — it's a 96GB powerhouse tuned specifically for AMD's EXPO platform, and it's been sitting at a 4.7-star average across 235 Amazon ratings for good reason.

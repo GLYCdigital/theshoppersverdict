@@ -1,4 +1,5 @@
 ---
+
 title: "VAL CUCINA Retro Infrared Heating Air Fryer Toaster Oven, Ex"
 seo_title: "VAL CUCINA Retro Infrared Heating Air Fryer Toaste Review"
 meta_description: "Our full val cucina retro infrared heating air fryer toaster oven, ex review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G1SZ7VHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q81CvvDtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The countertop oven market is crowded with me-too black boxes that all promise the same crispy results. The VAL CUCINA Retro Infrared Heating Air Fryer Toaster Oven actually tries something different — and for the most part, it works.

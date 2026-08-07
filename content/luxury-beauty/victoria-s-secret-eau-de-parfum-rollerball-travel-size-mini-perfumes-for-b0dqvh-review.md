@@ -1,4 +1,5 @@
 ---
+
 title: "Victoria's Secret Eau de Parfum Rollerball, Travel Size Mini"
 seo_title: "Victoria's Secret Eau de Parfum Rollerball, Travel Review"
 meta_description: "Our full victoria's secret eau de parfum rollerball, travel size mini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQVHCPR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gclnB2LDL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever paid $15 for a knockoff "VS-style" perfume at a gas station, you know the disappointment. This rollerball is the real thing — actual Victoria's Secret Eau de Parfum, concentrated and legit. The question isn't whether it smells good. It's whether the format works for how you actually wear fragrance.

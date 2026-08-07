@@ -1,4 +1,5 @@
 ---
+
 title: "Aqraou Solar Lights Outdoor Waterproof, 6500K Dusk to Dawn S"
 seo_title: "Aqraou Solar Lights Outdoor Review: 6500K Dusk to Dawn"
 meta_description: "Aqraou solar lights outdoor waterproof review: 6500K brightness, dusk-to-dawn sensor, real battery life. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSW9CP9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zJS1xvD5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 6500K daylight output that cuts through darkness without the sickly yellow cast of cheaper solar units"
   - "IP65 waterproofing holds up in driving rain — multiple reviewers confirmed survival through storms"
   - "Dusk-to-dawn sensor is genuinely reliable, not the flaky light-detection you get at this price point"
-cons:
+cons: 
   - "Battery life shortens noticeably after 8-10 months in cold climates; northern buyers should expect reduced winter runtime"
   - "Mounting bracket is metal but thin — overtightening the screws can strip the threads"
   - "Motion sensor version triggers on small animals, causing false activations that drain the battery faster"
+
 ---
 
 If you're tired of solar lights that glow like dying fireflies for two hours then give up, the Aqraou outdoor light is worth a serious look. Unlike the flimsy stake lights and decorative lanterns crowding Amazon's solar aisle, this is a purpose-built fixture meant to actually light up a driveway, backyard, or outbuilding. It's not perfect — no solar product is — but it earns its 4.3-star average across 215 ratings for a reason.

@@ -1,4 +1,5 @@
 ---
+
 title: "MoJack MJ750XT Professional Zero Turn Radius Lawn Mower Lift"
 seo_title: "MoJack MJ750XT Professional Zero Turn Radius Lawn  Review"
 meta_description: "Our full mojack mj750xt professional zero turn radius lawn mower lift review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B081B7W6Y5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gec6shF0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you own a zero-turn mower and you're still using cinder blocks and a floor jack, stop reading and buy this. If you only own a standard riding mower, you can skip it.**

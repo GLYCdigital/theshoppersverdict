@@ -1,4 +1,5 @@
 ---
+
 title: "Victrix Pro KO Leverless All Button Fight Stick for PlayStat"
 seo_title: "Victrix Pro KO Leverless All Button Fight Stick fo Review"
 meta_description: "Our full victrix pro ko leverless all button fight stick for playstat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKYTDZT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mWeG4wk9L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Victrix Pro KO Leverless: The $200 All-Button Controller That Rewards Patience

@@ -1,4 +1,5 @@
 ---
+
 title: "Nautilus CC Pro and Supreme Caddy and Cover"
 seo_title: "Nautilus CC Pro and Supreme Caddy and Cover Review: Verdi"
 meta_description: "Our full nautilus cc pro and supreme caddy and cover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0GP8CMCMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YvE+40ZvL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version First**

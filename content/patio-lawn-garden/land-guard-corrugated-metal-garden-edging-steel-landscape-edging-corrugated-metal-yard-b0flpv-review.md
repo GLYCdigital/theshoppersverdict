@@ -1,4 +1,5 @@
 ---
+
 title: "Land Guard Corrugated Metal Garden Edging, Steel Landscape E"
 seo_title: "Land Guard Corrugated Metal Garden Edging, Steel L Review"
 meta_description: "Our full land guard corrugated metal garden edging, steel landscape e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FLPVM1PQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717mbe+uBmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $60 steel edging that actually stays put (most of the time)**  

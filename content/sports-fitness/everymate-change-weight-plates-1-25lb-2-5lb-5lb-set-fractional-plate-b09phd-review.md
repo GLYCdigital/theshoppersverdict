@@ -1,4 +1,5 @@
 ---
+
 title: "EVERYMATE Change Weight Plates 1.25LB 2.5LB 5LB Set Fraction"
 seo_title: "EVERYMATE Change Weight Plates Review: Fractional Set"
 meta_description: "EVERYMATE fractional plates 1.25-5LB review: durable build, precise increments. See pros, cons, and who should buy this 4.8-star set."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09PHDT4QV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tXdZgzNgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined steel construction with a durable matte finish that resists chipping and rust"
   - "2-inch center holes fit standard Olympic barbells snugly with no wobble during lifts"
   - "Color-coded sizing (1.25LB blue, 2.5LB red, 5LB green) makes loading quick at a glance"
-cons:
+cons: 
   - "Plates are bare steel—no rubber coating—so they clank loudly when stacked on metal floors"
   - "The 1.25LB pair is thin enough that it can pinch fingers if you're careless loading the bar"
+
 ---
 
 If you've been stuck at the same squat or bench number for months, the problem isn't your work ethic—it's your loading increments. Most barbells jump by 10 pounds total (two 5LB plates), which is a massive leap for overhead press or close-grip bench. The EVERYMATE Change Weight Plates set solves that by giving you 1.25LB, 2.5LB, and 5LB pairs to fill the gaps. With a 4.8-star rating across 240 reviews, it's clearly working for others. Here's my honest breakdown after digging into the specs and what owners actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "Proform Carbon Treadmills: Treadmills for Walking and Runnin"
 seo_title: "Proform Carbon Treadmills: Treadmills for Walking  Review"
 meta_description: "Our full proform carbon treadmills: treadmills for walking and runnin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F6YT56HG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mctrQ7aCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the Proform Carbon Treadmill: this is a machine for people who want a genuine workout without paying gym-membership-for-a-decade prices. At 4.2 stars from 210 ratings, it's not perfect — but for the price point, it punches above its weight in a few specific ways that matter.

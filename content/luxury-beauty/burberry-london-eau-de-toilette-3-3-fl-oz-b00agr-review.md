@@ -1,4 +1,5 @@
 ---
+
 title: "Burberry London Eau de Toilette 3.3 fl oz"
 seo_title: "Burberry London EDT Review: Is This Iconic Scent Worth It?"
 meta_description: "Burberry London Eau de Toilette 3.3 fl oz review: performance, longevity, and who should buy this warm spicy classic. Honest verdict with pros and cons."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00AGR7KHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E4fLnqnVL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Warm spicy-sweet profile that layers cinnamon, tobacco leaf, and mimosa for a genuinely distinctive winter scent"
   - "Excellent sillage for an EDT — one reviewer noted 'compliments every single time I wear it'"
   - "Versatile enough for office wear yet cozy for evenings; the 3.3 oz bottle lasts 6+ months with daily use"
-cons:
+cons: 
   - "Longevity is moderate at 4-6 hours on skin — reapplication needed for full-day wear"
   - "The cinnamon note can read as 'holiday candle' to some; not ideal for warm weather or formal settings"
   - "Bottle lacks a sprayer cap, making travel and storage slightly awkward"
+
 ---
 
 **Burberry London Eau de Toilette** has held a cult following for over a decade, and with good reason. This is not your typical fresh-out-of-the-shower fragrance — it's a warm, spicy character scent that announces itself confidently. At 3.3 fluid ounces, this is the full-size bottle that serious wearers want. But is it worth your money in 2026? Let's break it down.

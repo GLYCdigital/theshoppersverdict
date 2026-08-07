@@ -1,4 +1,5 @@
 ---
+
 title: "CUTTEREX Floor Cutters"
 seo_title: "CUTTEREX Floor Cutters Review: Worth It? (2026)"
 meta_description: "Honest CUTTEREX Floor Cutters review: build quality, real cutting performance, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4CG8PHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SQeMPfdDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Carbide scoring wheel stays sharp through hundreds of cuts on porcelain and ceramic tile"
   - "Ergonomic handle with rubberized grip reduces hand fatigue during long scoring sessions"
   - "Built-in measuring guides on the base plate allow for repeat cuts without constant measuring"
-cons:
+cons: 
   - "Maximum cutting depth is limited to 12mm — won't handle thick natural stone or heavy porcelain"
   - "Requires a steady hand and firm pressure; not ideal for absolute beginners without practice"
+
 ---
 
 Let's be honest about floor cutters: most cheap ones are garbage that skips across tile, snaps blades, or leaves jagged edges that ruin your project. The CUTTEREX Floor Cutters, however, have earned a 4.5-star average across 225 Amazon ratings — and after digging into what buyers actually say, that rating looks earned rather than inflated.

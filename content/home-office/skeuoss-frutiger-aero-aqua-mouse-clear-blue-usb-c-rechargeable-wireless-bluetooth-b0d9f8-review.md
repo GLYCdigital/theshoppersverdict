@@ -1,4 +1,5 @@
 ---
+
 title: "Skeuoss Frutiger Aero Aqua Mouse - Clear Blue USB-C Recharge"
 seo_title: "Skeuoss Frutiger Aero Aqua Mouse - Clear Blue USB- Review"
 meta_description: "Our full skeuoss frutiger aero aqua mouse - clear blue usb-c recharge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9F8SCRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UqxP7delL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What’s in the Box**

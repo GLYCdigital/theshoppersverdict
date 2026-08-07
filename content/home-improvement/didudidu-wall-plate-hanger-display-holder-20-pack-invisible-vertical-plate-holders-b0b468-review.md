@@ -1,4 +1,5 @@
 ---
+
 title: "DIDUDIDU Wall Plate Hanger Display Holder - 20 Pack Invisibl"
 seo_title: "DIDUDIDU Wall Plate Hangers Review: 20-Pack Invisible Holders"
 meta_description: "DIDUDIDU wall plate hangers review: Do these 20-pack invisible display holders actually work for heavy plates? Tested for grip, install, and value."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B468X7N1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oorn9i7uL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely invisible from the front — the clear acrylic and angled grip hide the hardware completely once a plate is seated"
   - "Works on plates from 6 to 11 inches without adjustments, thanks to the spring-loaded tension arm"
   - "At $9.49 for 20, that's under 50 cents per hanger — cheaper than any magnetic or adhesive alternative that holds the same weight"
-cons:
+cons: 
   - "Packaging is flimsy and hangers arrive loose; several reviewers reported cracked arms from shipping mishandling"
   - "The included screws are soft metal — upgrade to #6 drywall anchors if you're hanging anything heavier than a salad plate"
+
 ---
 
 If you've ever tried to display decorative plates without drilling visible holes through the pattern, you know the struggle. The DIDUDIDU Wall Plate Hanger 20-pack promises invisible mounting for under ten bucks. Here's the honest breakdown after digging through 220 ratings and real customer photos.

@@ -1,4 +1,5 @@
 ---
+
 title: "NATIONAL GEOGRAPHIC Break Open Geodes Science Kit â€“ Includ"
 seo_title: "NATIONAL GEOGRAPHIC Break Open Geodes Science Kit  Review"
 meta_description: "Our full national geographic break open geodes science kit â€“ includ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B082KX76ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LVI-uiZKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The National Geographic Break Open Geodes Science Kit isn't a toy that sits on a shelf. It's a destructive, messy, genuinely exciting activity that ends with something permanent: real crystal specimens you keep. At 4.4 stars from 220 ratings, it's clear the experience lands well with most families. Here's what you're actually getting before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Angled Blush Brush, Face Makeup Brush For A Sculpted"
 seo_title: "e.l.f. Angled Blush Brush Review: Sculpted Cheeks on a Budget"
 meta_description: "e.l.f. Angled Blush Brush review: soft bristles, precise contouring, and a $5 price tag. Does it rival high-end brushes? Find out here."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B008SYWGW0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ttl+-1zYL._SL1500_.jpg"
-pros:
+pros: 
   - "Dense synthetic bristles hold powder evenly without shedding — even after months of washing"
   - "The 45-degree angle deposits color precisely along cheekbones, making contouring nearly foolproof"
   - "Cruelty-free and vegan at a $5 price point that undercuts most drugstore competitors"
-cons:
+cons: 
   - "The ferrule is lightweight plastic; it won't survive a hard drop onto tile"
   - "Bristles are too stiff for pressed mineral blushes — you'll need to tap off excess or get patchy payoff"
+
 ---
 
 You don't need a $40 brush to sculpt your cheekbones. The e.l.f. Angled Blush Brush proves it — provided you know how to use it. At roughly five bucks, this synthetic brush has earned a 4.6-star rating across 229 Amazon reviews, and the math makes sense: it delivers 90% of what a high-end angled brush does for a fraction of the cost.

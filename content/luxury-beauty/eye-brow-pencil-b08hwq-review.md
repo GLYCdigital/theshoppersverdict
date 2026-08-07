@@ -1,4 +1,5 @@
 ---
+
 title: "Eye - Brow Pencil"
 seo_title: "Eye Brow Pencil Review: Precision & Staying Power (2026)"
 meta_description: "Our Eye Brow Pencil review covers pigment payoff, wear time, and precision. See if this 4.5-star brow pencil is worth the hype before you buy."
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08HWQRZR4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ICkxMbHlL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-fine 1.4mm tip allows hair-like strokes that mimic natural brow hairs"
   - "Waterproof, smudge-proof formula survives sweat, rain, and 12+ hour wear"
   - "Dual-ended design with spoolie brush for blending and grooming"
   - "Pigment is buildable — light pass for natural, second pass for bold"
-cons:
+cons: 
   - "Pencil is short — heavy daily use depletes it in 4-6 weeks"
   - "Only 6 shades available, and the range skews cool-toned"
   - "Requires sharpening; some users find the wood casing brittle"
+
 ---
 
 ## The Fine-Tip Game Changer for Brows

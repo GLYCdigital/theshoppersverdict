@@ -1,4 +1,5 @@
 ---
+
 title: "Liftmaster HD RJO 98032 Jackshaft Wallmount DC WiFi with Bac"
 seo_title: "Liftmaster HD RJO 98032 Jackshaft Wallmount DC WiF Review"
 meta_description: "Our full liftmaster hd rjo 98032 jackshaft wallmount dc wifi with bac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CY67355L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41jSC-ZVjYL._AC_SL1041_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Don't let the ceiling-hugging design fool you. The LiftMaster RJO 98032 is a serious piece of hardware that solves a real problem — but it comes with a catch that's driving some owners up the wall. Here's the honest breakdown after digging through 180+ verified buyer experiences.

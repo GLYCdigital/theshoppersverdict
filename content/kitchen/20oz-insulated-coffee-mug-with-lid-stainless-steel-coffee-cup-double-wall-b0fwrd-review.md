@@ -1,4 +1,5 @@
 ---
+
 title: "20oz Insulated Coffee Mug with Lid, Stainless Steel Coffee C"
 seo_title: "20oz Insulated Coffee Mug Review: Double-Wall Stainless Steel"
 meta_description: "Our honest 20oz insulated coffee mug review: double-wall stainless steel, leak-resistant lid, real-world temp tests, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FWRDTCLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611tdRpZZBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall vacuum insulation keeps coffee hot 4-6 hours — verified in real-world testing, not just marketing claims"
   - "Leak-resistant threaded lid with sliding closure that actually seals when closed"
   - "Fits standard car cup holders despite the 20oz capacity — a rare combo at this size"
-cons:
+cons: 
   - "Exterior gets noticeably warm near the rim after 30+ minutes — not truly cold-to-touch at the top"
   - "Lid gasket requires disassembly for thorough cleaning; hand-wash only, no dishwasher safe parts"
   - "At 1.2 lbs empty, it's heavier than ceramic mugs — noticeable if you're carrying it by the handle for long stretches"
+
 ---
 
 ## The 20oz Coffee Mug That Actually Earns Its Keep

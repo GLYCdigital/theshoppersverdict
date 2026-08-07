@@ -1,4 +1,5 @@
 ---
+
 title: "EasyFlex Pound-in Landscape Edging"
 seo_title: "EasyFlex Landscape Edging Review: Pound-In Steel Borders"
 meta_description: "Honest EasyFlex pound-in landscape edging review: build quality, installation ease, real buyer feedback, and who should skip it. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCPXJDDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-b7ZGFJFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "No trenching or concrete required — installs with a rubber mallet in under an hour for a 20-foot run"
   - "Galvanized steel body won't rot, crack, or warp like plastic edging in freeze-thaw climates"
   - "Flexible enough to form tight curves while maintaining a crisp, low-profile finished edge"
-cons:
+cons: 
   - "Stakes sit proud of the top edge and can catch mower decks if you run tight against the border"
   - "Thin steel edges can bend if struck directly by a shovel or edging tool — requires careful maintenance"
+
 ---
 
 ## The edging that actually stays put

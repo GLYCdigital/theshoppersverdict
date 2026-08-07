@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT (DWMT75049) Mechanics Tool Set, 192-Piece"
 seo_title: "DEWALT DWMT75049 192-Piece Mechanics Tool Set Review"
 meta_description: "DEWALT DWMT75049 192-piece mechanics tool set review: coverage, durability, ratchet quality, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08FDK84C8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61adKMvY4kS._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Full 1/4-inch, 3/8-inch, and 1/2-inch drive coverage with both SAE and metric sizes from 4mm to 24mm"
   - "Premium chrome vanadium steel construction with polished mirror finish that resists corrosion and wipes clean easily"
   - "Low-profile 72-tooth ratchets with a 5-degree swing arc — ideal for tight engine bay work"
-cons:
+cons: 
   - "The molded plastic case is functional but the latches feel thin; one buyer reported a latch cracking after two years of daily shop use"
   - "No skip-proof socket rails — sockets sit in foam cutouts that can loosen if the case is jostled upside down"
   - "Sockets are marked with laser etching rather than deep stamps; heavy grease can make sizes hard to read until wiped clean"
+
 ---
 
 If you're shopping for a mechanics tool set and the DEWALT DWMT75049 is on your shortlist, you've already noticed the headline number: 192 pieces for a price that undercuts most comparable sets from Snap-on or even Craftsman. But is this actually a complete kit, or just a box full of filler? After digging through the spec sheet and two hundred-plus owner reviews, here's the honest breakdown.

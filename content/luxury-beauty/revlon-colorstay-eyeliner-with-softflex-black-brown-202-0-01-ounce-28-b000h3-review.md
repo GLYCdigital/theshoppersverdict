@@ -1,4 +1,5 @@
 ---
+
 title: "REVLON ColorStay Eyeliner with SoftFlex, Black Brown 202, 0."
 seo_title: "REVLON ColorStay Eyeliner with SoftFlex, Black Bro Review"
 meta_description: "Our full revlon colorstay eyeliner with softflex, black brown 202, 0. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000H3FBGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MqmL43gUL._SL1280_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: finding an eyeliner that actually stays put without requiring a chemistry degree to remove is rare. The REVLON ColorStay Eyeliner with SoftFlex in Black Brown 202 has built a quiet reputation among 225 Amazon reviewers, holding a 4.5-star average. I put it through real-world testing — long workdays, gym sessions, and the occasional emotional movie scene. Here’s what I found.

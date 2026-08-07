@@ -1,4 +1,5 @@
 ---
+
 title: "CoolNES - UV Sun Protection Neck Drape Adjustable Multifunct"
 seo_title: "CoolNES UV Neck Drape Review: 2-in-1 Sun Protection"
 meta_description: "Read our honest CoolNES UV neck drape review. We test the adjustable 2-in-1 face cover for sun protection, breathability, and comfort. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B091KNKKQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719tymo0rpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "UPF 50+ rated fabric blocks 98% of UVA/UVB rays without feeling heavy or trapping heat"
   - "Adjustable toggle system lets you dial in the fit around your neck — no gaps, no choking"
   - "Converts from neck drape to full face cover in seconds, giving you two products for the price of one"
-cons:
+cons: 
   - "The elastic band around the face opening can feel snug for larger head sizes — measure before buying"
   - "No moisture-wicking treatment means sweat can pool around the neck in extreme heat (90°F+)"
+
 ---
 
 Most neck drapes are flimsy pieces of fabric that either flap uselessly in the wind or suffocate you within ten minutes. The CoolNES UV Sun Protection Neck Drape tries to solve both problems with an adjustable toggle system and a 2-in-1 design that converts from neck coverage to a full face mask. Does it deliver? Mostly yes — with a couple of caveats worth knowing before you click buy.

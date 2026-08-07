@@ -1,4 +1,5 @@
 ---
+
 title: "WINKEAR Roman Bathtub Faucet Set With Hand Shower Deck Mount"
 seo_title: "WINKEAR Roman Bathtub Faucet Set With Hand Shower  Review"
 meta_description: "Our full winkear roman bathtub faucet set with hand shower deck mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FNK57HWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yHyuClMKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most deck-mount tub fillers under $200 are cheap zinc alloy with paint that flakes off in a year. The WINKEAR Roman Bathtub Faucet Set isn’t that. It’s a solid brass unit that looks like it costs twice what it does — but it has a couple of quirks you need to know before you drill holes in your tub deck.

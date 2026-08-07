@@ -1,4 +1,5 @@
 ---
+
 title: "Fit & Fresh Soft Ice Packs"
 seo_title: "Fit & Fresh Soft Ice Packs Review: Do They Stay Cold?"
 meta_description: "Honest Fit & Fresh Soft Ice Packs review: leak-testing, cold retention, real lunchbox fit. See pros, cons, and who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY2W3XJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZToyay4cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thin flexible gel packs that slip into tight spaces in lunch bags or bento boxes"
   - "Stays cold 4-6 hours in a standard insulated lunch bag, per multiple buyer tests"
   - "Zero-leak construction with double-sealed edges that hold up to repeated freezing"
-cons:
+cons: 
   - "No built-in temperature indicator — you can't tell if contents are still safe without opening the bag"
   - "Smaller surface area than rigid block packs, so they work best when paired with an insulated bag"
+
 ---
 
 **The Review**

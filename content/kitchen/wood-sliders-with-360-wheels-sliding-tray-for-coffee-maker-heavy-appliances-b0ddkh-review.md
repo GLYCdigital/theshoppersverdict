@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Sliders with 360 Wheels - Sliding Tray for Coffee Maker"
 seo_title: "Wood Sliders with 360 Wheels - Sliding Tray for Co Review"
 meta_description: "Our full wood sliders with 360 wheels - sliding tray for coffee maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDKHQN96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ng4ypK-BL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products solve a problem you didn't know you had. This wood slider tray is one of them. If you've ever wrestled a 20-pound espresso machine forward to refill the water tank, or contorted your arm to reach the drip tray release on a bulky coffee maker, you already know why this exists. At 4.7 stars from 235 ratings, buyers clearly agree. But is it worth your counter space? Let's break it down.

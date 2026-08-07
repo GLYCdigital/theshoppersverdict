@@ -1,4 +1,5 @@
 ---
+
 title: "RONGFA Kids Teepee Tent with White Pom Pom - Indoor Play Tee"
 seo_title: "RONGFA Kids Teepee Tent with White Pom Pom - Indoo Review"
 meta_description: "Our full rongfa kids teepee tent with white pom pom - indoor play tee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYDGJW57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aUh4rdhUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the RONGFA Kids Teepee Tent with White Pom Pom worth the floor space?** After digging through 220+ ratings and the specs, here’s the straight answer: this is a solid mid-range play teepee that nails the aesthetic and the size, but it cuts corners on fabric weight that some parents will notice.

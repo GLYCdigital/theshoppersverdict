@@ -1,4 +1,5 @@
 ---
+
 title: "Landzie AeroLeveler - The Lawn Leveling Rake That Never Flip"
 seo_title: "Landzie AeroLeveler - The Lawn Leveling Rake That  Review"
 meta_description: "Our full landzie aeroleveler - the lawn leveling rake that never flip review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FKPC5899/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/912hQCfnGKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If you're tired of a leveling rake that flips over every time you pull it, the Landzie AeroLeveler solves that specific problem with a genuinely smart design — but it's a specialized tool, not a universal one.

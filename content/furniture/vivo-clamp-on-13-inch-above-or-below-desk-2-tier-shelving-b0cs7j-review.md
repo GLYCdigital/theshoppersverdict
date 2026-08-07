@@ -1,4 +1,5 @@
 ---
+
 title: "VIVO Clamp-on 13 inch Above or Below Desk 2-Tier Shelving Un"
 seo_title: "VIVO Clamp-on 13 inch Above or Below Desk 2-Tier S Review"
 meta_description: "Our full vivo clamp-on 13 inch above or below desk 2-tier shelving un review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CS7JSH9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WsqkJDl8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your desk is a flat wasteland of tangled cables and a monitor hogging every square inch, the VIVO Clamp-on 13-inch 2-Tier Shelf is the space-saving hack you didn’t know you needed. It’s a simple idea executed well: bolt a two-tier shelf to the back edge of your desk, reclaim the surface, and keep your monitor at eye level. With a 4.6-star average across 229 ratings, it’s clearly working for most buyers — but the 13-inch depth is a dealbreaker for some setups, so let’s dig into the specifics before you hit add to cart.

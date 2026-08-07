@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Disney Princess Wooden Stamp Set"
 seo_title: "Melissa & Doug Disney Princess Wooden Stamp Set Review: V"
 meta_description: "Our full melissa & doug disney princess wooden stamp set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNCL1CGJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7158c5Zc0hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is in the Disney Princess phase — and let's be honest, most are — this Melissa & Doug set hits a sweet spot that cheap plastic stamp kits miss. It's got the licensing, the wooden durability, and the washable ink that keeps it from becoming a permanent art installation on your walls. But it's not perfect, and here's what you need to know before you click buy.

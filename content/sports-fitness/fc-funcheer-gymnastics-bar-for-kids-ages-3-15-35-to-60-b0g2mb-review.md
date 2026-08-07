@@ -1,4 +1,5 @@
 ---
+
 title: "FC FUNCHEER Gymnastics Bar for Kids Ages 3-15, 35 inch  to 60 inch  Ad"
 seo_title: "FC FUNCHEER Gymnastics Bar Review: Adjustable Kids Bar (2026)"
 meta_description: "Honest FC FUNCHEER gymnastics bar review: 8 height settings, 330-lb capacity, and floor-safe design. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G2MBQJWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z98ZbF+lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - 8 height positions (35 inch "–60 inch ") genuinely spans ages 3–15 without needing a second bar
   - "330-lb weight capacity exceeds most kids' bars, so it survives sibling pile-ons"
   - "Foam-padded base protects hardwood floors and muffles the noise of dismounts"
-cons:
+cons: 
   - "Assembly takes 20–30 minutes; the hex wrench is included but the threading is finicky"
   - "No width adjustment — narrow for teens with broader shoulders"
   - "Base is heavy (about 23 lbs) and awkward to carry between rooms"
+
 ---
 
 If your kid has watched one too many Simone Biles highlight reel and now thinks the couch is a balance beam, here’s the reality check: most kids' gymnastics bars under $150 are flimsy plastic toys that wobble on the first kip. The FC FUNCHEER Gymnastics Bar is different, but it's not perfect. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Retrospec Bike Rack Cross-Bar Adapter - Universal Top Tube F"
 seo_title: "Retrospec Bike Rack Cross-Bar Adapter - Universal  Review"
 meta_description: "Our full retrospec bike rack cross-bar adapter - universal top tube f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B082CNTGK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K-BMwiALL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a step-through, cruiser, or women's frame bike, you already know the frustration: trunk racks simply don't fit. The top tube isn't there. You've either wedged straps against the seat post (dangerous) or left the bike home. The Retrospec Cross-Bar Adapter is the $25 workaround that turns your frame into a standard diamond shape — and with 225 ratings averaging 4.5 stars, it's clearly working for a lot of people.

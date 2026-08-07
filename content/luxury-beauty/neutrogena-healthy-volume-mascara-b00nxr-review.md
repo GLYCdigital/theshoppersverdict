@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena Healthy Volume Mascara"
 seo_title: "Neutrogena Healthy Volume Mascara Review: Verdict | TSV"
 meta_description: "Our full neutrogena healthy volume mascara review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00NXRC7DU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FuH8xAlJL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Mascara is the one product where women will forgive almost anything — smudging, flaking, that weird crunchy feeling by noon — as long as the lashes look good. The Neutrogena Healthy Volume Mascara flips that equation. It's not the most dramatic lash product I've tested, but it's one of the few that treats your lashes like hair instead of straw. With a 4.2-star average across 210 Amazon ratings, it's clearly earning its keep in bathroom cabinets. Here's who should care.

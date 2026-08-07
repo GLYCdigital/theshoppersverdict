@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aoxun Permanent Hardtop Gazebo with Galvanized Steel Double"
 seo_title: "Aoxun Permanent Hardtop Gazebo Review: Steel Double Roof (2026)"
 meta_description: "Honest Aoxun Permanent Hardtop Gazebo review: galvanized steel double roof, aluminum frame durability, real buyer feedback, and who should buy it."
@@ -12,13 +13,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DY7F6FGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81clLA2aU7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel double roof blocks rain noise significantly better than single-panel hardtops"
   - "Aluminum frame with rust-resistant coating holds up through full seasons without corrosion"
   - "Pre-drilled holes and labeled parts cut assembly time to roughly 4-5 hours for two people"
-cons:
+cons: 
   - "No side walls or mosquito netting included — budgeting for those adds $150-$300 inch"
   - "Anchoring hardware is basic; high-wind areas will need extra ground stakes or concrete footings"
+
 
 ---
 

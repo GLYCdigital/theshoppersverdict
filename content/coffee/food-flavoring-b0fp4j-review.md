@@ -1,5 +1,6 @@
 ---
 
+
 title: "Food flavoring"
 seo_title: "Food Flavoring Review: Coffee Syrup Drops Worth It?"
 meta_description: "Honest food flavoring review for coffee. See how these flavor drops perform, what buyers love, and who should skip them. 4.4-star rated."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FP4JJB95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81daVUGnO7L._SL1500_.jpg"
-pros:
+pros: 
   - "Zero-calorie, zero-sugar flavoring that doesn't leave an artificial aftertaste like many liquid sweeteners"
   - "Small bottle (roughly 2 oz) delivers 100+ drops — about 60-80 cups of flavored coffee per bottle"
   - "Works across hot and cold beverages without separating or turning cloudy"
-cons:
+cons: 
   - "Dropper bottle can be finicky — some buyers report clogging or uneven drop sizes"
   - "Flavor intensity varies by batch; you may need 3-4 drops instead of the suggested 2 inch"
   - "Not a syrup — don't expect sweetness or body, just flavor"
+
 
 ---
 

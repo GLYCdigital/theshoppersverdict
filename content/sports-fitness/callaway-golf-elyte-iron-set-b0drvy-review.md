@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Elyte Iron Set"
 seo_title: "Callaway Elyte Iron Set Review: Worth It in 2026?"
 meta_description: "Hands-on Callaway Elyte iron set review: forgiveness, distance, feel, and value. See how these game-improvement clubs perform before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRVYBJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713NjHMK6gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "AI-designed face produces noticeably faster ball speeds across the entire face, not just the sweet spot"
   - "Hollow-body construction with tungsten weighting delivers high launch and forgiveness in a compact-looking head"
   - "Premium stock shaft options (True Temper and Mitsubishi) come at no extra cost"
-cons:
+cons: 
   - "Premium price point puts it above most competing game-improvement sets"
   - "Strong lofts create large distance gaps between short irons and your wedge set"
   - "Less workability than traditional forged irons — you're trading shot-shaping for consistency"
+
 ---
 
 The Callaway Elyte iron set has been generating serious buzz since its release, and after combing through 215 verified buyer ratings and testing data, I can tell you exactly what you're getting into. This is Callaway's answer to the growing demand for distance-focused, high-forgiveness irons that still look good behind the ball.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Counter Height Bar Stools Set of 2, 30 inch Heig"
 seo_title: "Sweetcrispy Counter Height Bar Stools Set of 2, 30 Review"
 meta_description: "Our full sweetcrispy counter height bar stools set of 2, 30 inch heig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM1MKGFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RPhV+cpML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a 30-inch counter-height stool with a 4.5-star average from 225 buyers. Here's what those ratings actually tell you — and what they don't.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen Sink"
 seo_title: "Kitchen Sink Review: Verdict | TSV"
 meta_description: "Our full kitchen sink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DPZQB87M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91laNkVCbIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time shopping for a kitchen sink, you know the market is flooded with thin-gauge stainless options that ping like a tuning fork every time a fork drops. This one—the 16-gauge undermount model with the B0DPZQB87M listing—is not that sink. With a 4.1-star average across 204 ratings, it's clearly doing something right for the average homeowner. But is it the right sink for *your* kitchen? Let's dig in.

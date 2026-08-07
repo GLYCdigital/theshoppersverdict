@@ -1,4 +1,5 @@
 ---
+
 title: "HAILANG Mini Fridge with Freezer, Single Door Mini Refrigera"
 seo_title: "HAILANG Mini Fridge with Freezer, Single Door Mini Review"
 meta_description: "Our full hailang mini fridge with freezer, single door mini refrigera review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKR24NVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AODHjTsrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Compact Fridge That Actually Has a Real Freezer

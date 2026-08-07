@@ -1,4 +1,5 @@
 ---
+
 title: "CEWOR Landscape Staples"
 seo_title: "CEWOR Landscape Staples Review: Worth It? Honest Verdict"
 meta_description: "CEWOR Landscape Staples review: 6-inch galvanized stakes tested for fabric, edging & more. Real pros, cons, and buying advice. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DCVHW35D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QiGpaCYsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 11-gauge wire bends without snapping — holds fabric tight even in loose soil"
   - "6-inch length bites deep enough to anchor through mulch and heavy landscape fabric"
   - "Galvanized coating resists rust far better than cheap black-painted staples that flake"
-cons:
+cons: 
   - "Sharp points can puncture thin weed barrier if you hammer at an angle"
   - "No included driver tool — you'll want a mallet or rubber hammer for best results"
   - "Priced slightly higher per unit than budget 4-inch staples, but the extra length justifies it"
+
 ---
 
 # CEWOR Landscape Staples: The 6-Inch Anchor That Actually Stays Put

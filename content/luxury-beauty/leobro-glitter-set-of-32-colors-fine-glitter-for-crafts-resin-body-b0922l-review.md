@@ -1,4 +1,5 @@
 ---
+
 title: "LEOBRO Glitter, Set of 32 Colors, Fine Glitter for Crafts, R"
 seo_title: "LEOBRO Glitter, Set of 32 Colors, Fine Glitter for Review"
 meta_description: "Our full leobro glitter, set of 32 colors, fine glitter for crafts, r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0922LRL5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+RHyf7pnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: glitter is a pain in the ass to buy online. You get 12 colors, five are basically the same gold, and the "fine" glitter clumps like wet sand. That's not the case here.

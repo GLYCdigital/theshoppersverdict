@@ -1,4 +1,5 @@
 ---
+
 title: "CHOMPS Grass Fed Beef Jerky Meat Snack Sticks"
 seo_title: "CHOMPS Beef Jerky Sticks Review: Grass Fed Snack"
 meta_description: "CHOMPS grass fed beef jerky sticks review: 10g protein, clean ingredients, but pricey. See if these paleo-friendly snack sticks are worth it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKS6WCZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718MWFFOaWL._SL1500_.jpg"
-pros:
+pros: 
   - "100% grass-fed beef with no antibiotics or hormones — clean single-ingredient protein"
   - "10g protein per stick with only 1g sugar and 0g carbs — fits keto, paleo, whole30 diets"
   - "No artificial preservatives, nitrates, or celery powder — just beef, salt, and spices"
-cons:
+cons: 
   - "Premium price per stick — roughly $2.50-$3 each, significantly more than conventional jerky"
   - "Texture is softer than traditional jerky — more like a salami stick, not a chewy jerky"
   - "Some buyers report inconsistent spice distribution between sticks in the same box"
+
 ---
 
 Let me be straight with you: this isn't jerky in the traditional sense. CHOMPS calls these "meat snack sticks," and that distinction matters. They're more like a high-end, clean-ingredient salami stick than the tough, stringy jerky you grew up with. And for many shoppers, that's exactly what they want.

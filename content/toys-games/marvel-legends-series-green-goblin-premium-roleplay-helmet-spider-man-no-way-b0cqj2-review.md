@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Legends Series Green Goblin Premium Roleplay Helmet, "
 seo_title: "Marvel Legends Series Green Goblin Premium Rolepla Review"
 meta_description: "Our full marvel legends series green goblin premium roleplay helmet,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQJ2CBHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JyuIZLI2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Real-World Performance

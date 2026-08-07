@@ -1,4 +1,5 @@
 ---
+
 title: "VADANIA Heavy Duty Drawer Slide with Lock Silver"
 seo_title: "VADANIA Heavy Duty Drawer Slide with Lock Silver Review: "
 meta_description: "Our full vadania heavy duty drawer slide with lock silver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FSZ7MVF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DYU2JlIrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a loaded drawer slide off its rails mid-pull and dump a socket set onto your toes, you understand why the VADANIA Heavy Duty Drawer Slide with Lock exists. This isn't a decorative furniture slide — it's a workhorse component for tool chests, workbenches, and heavy shop storage. At $22.86 per pair, it sits in the sweet spot between bargain-bin hardware and overpriced premium slides.

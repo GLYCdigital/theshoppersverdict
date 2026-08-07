@@ -1,4 +1,5 @@
 ---
+
 title: "Tool Daily Short Pressure Washer Gun with Foam Cannon"
 seo_title: "Tool Daily Short Pressure Washer Gun with Foam Can Review"
 meta_description: "Our full tool daily short pressure washer gun with foam cannon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F2F6W95B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718y6YyLoEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tool Daily Short Pressure Washer Gun** is a compact solution for anyone tired of wrestling a long, unwieldy wand around their driveway. At roughly 9 inches from trigger to tip, this gun cuts the bulk of standard units while bundling a foam cannon into one package. With 220 Amazon ratings averaging 4.4 stars, it's clearly earning its keep in garages. But is compact worth the trade-offs? Let's break it down.

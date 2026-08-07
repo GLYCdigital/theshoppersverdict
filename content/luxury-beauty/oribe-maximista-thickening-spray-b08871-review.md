@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Maximista Thickening Spray"
 seo_title: "Oribe Maximista Thickening Spray Review: Verdict | TSV"
 meta_description: "Our full oribe maximista thickening spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08871VNHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BT8u-hTmL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the reality about luxury hair products: most are overpriced shampoo with nice packaging. The Oribe Maximista Thickening Spray is not that. But is it worth $50? Let's break down what you're actually paying for.

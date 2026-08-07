@@ -1,4 +1,5 @@
 ---
+
 title: "Marie Sharp's HOT and Green Habanero Pepper Sauce 10oz"
 seo_title: "Marie Sharp's HOT and Green Habanero Pepper Sauce  Review"
 meta_description: "Our full marie sharp's hot and green habanero pepper sauce 10oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B078XYPQ77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MBnWMiYML._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've tested dozens of green hot sauces, and most fall into one of two traps: they're either pure vinegar with a whisper of pepper, or they're so thick and gloopy they belong in a paint can. Marie Sharp's HOT Green Habanero sits in a sweet spot that makes me wonder why more Belizean-style sauces aren't on every shelf. This isn't your average Louisiana-style pour — it's a completely different animal.

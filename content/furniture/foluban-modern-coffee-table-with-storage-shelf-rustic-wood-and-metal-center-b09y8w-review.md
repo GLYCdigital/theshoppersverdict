@@ -1,4 +1,5 @@
 ---
+
 title: "FOLUBAN Modern Coffee Table with Storage Shelf, Rustic Wood"
 seo_title: "FOLUBAN Coffee Table Review: Rustic Wood & Metal Shelf (2026)"
 meta_description: "Honest FOLUBAN modern coffee table review: 4.6/5 stars. Real buyer feedback on assembly, durability, and style. Is this rustic wood shelf table worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Y8WW56W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kWLvNVHWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy metal frame with reinforced crossbars supports heavy loads without wobble"
   - "Two-tier storage design (tabletop plus lower shelf) maximizes small-space function"
   - "Rustic wood grain finish reads far more expensive than the price point"
-cons:
+cons: 
   - "Assembly requires a power drill — manual screwdrivers will test your patience"
   - "Wood surface shows water rings; coasters are non-negotiable"
+
 ---
 
 Let's be direct: most coffee tables under $150 are flimsy particleboard junk that wobbles the moment you look at them sideways. The FOLUBAN Modern Coffee Table isn't that. With a 4.6-star average across 229 ratings, this rustic wood and metal piece has earned its place in thousands of living rooms. But is it right for yours? Here's what you need to know before you click buy.

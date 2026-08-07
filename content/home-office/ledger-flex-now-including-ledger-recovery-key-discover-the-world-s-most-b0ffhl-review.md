@@ -1,4 +1,5 @@
 ---
+
 title: "Ledger Flex - Now Including Ledger Recovery Key - Discover t"
 seo_title: "Ledger Flex - Now Including Ledger Recovery Key -  Review"
 meta_description: "Our full ledger flex - now including ledger recovery key - discover t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFHL7FZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41RFYDJiETL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ledger Flex: The Hardware Wallet That Finally Feels Modern

@@ -1,4 +1,5 @@
 ---
+
 title: "XEWEA Solar String Lights Outdoor"
 seo_title: "XEWEA Solar String Lights Outdoor Review: Verdict | TSV"
 meta_description: "Our full xewea solar string lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GGWX1HC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PqrIf5M7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for solar string lights, you’ve probably seen a dozen listings promising “12 hours of glow” and “all-weather durability.” The XEWEA Solar String Lights Outdoor are more honest than most — but that honesty cuts both ways. Priced in the budget-to-midrange tier, these 27-foot lights with 18 warm-white LEDs deliver solid performance for the money, yet they’re not the set you’ll be bragging about to neighbors. Here’s the breakdown after digging through 195 ratings and real buyer experiences.

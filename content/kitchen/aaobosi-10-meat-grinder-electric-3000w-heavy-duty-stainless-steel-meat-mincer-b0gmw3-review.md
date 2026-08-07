@@ -1,24 +1,26 @@
 ---
+
 title: "AAOBOSI #10 Meat Grinder Electric [3000W] Heavy Duty Stainle"
 seo_title: "AAOBOSI #10 Meat Grinder Review: 3000W Power Tested"
 meta_description: "AAOBOSI #10 meat grinder review: 3000W stainless steel electric mincer. Real performance, durability, and downsides. Is it worth it for home butchers?"
 slug: "aaobosi-10-meat-grinder-electric-3000w-heavy-duty-stainless-steel-meat-mincer-b0gmw3-review"
 image_alt: "AAOBOSI #10 electric meat grinder with stainless steel body and grinding plates"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GMW3372H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71Quk1KaVQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "3000W motor chews through gristle and sinew without stalling, even on frozen-ish meat"  
   - "All food-contact parts are stainless steel — no cheap aluminum or plastic where it matters"  
   - "Includes three grinding plates (fine, medium, coarse) plus a sausage stuffing tube and kubbe attachment"  
-cons:  
+cons: 
   - "Loud. Genuinely loud. Expect 85+ dB under load — ear protection recommended for extended batches"  
   - "The plastic stomper feels flimsy against the machine's power — replace it with a metal one if you do big runs"  
   - "Reverse button works, but it's slow to engage mid-grind; you'll wait a few seconds if something jams"
+
 ---
 
 ## Is the AAOBOSI #10 a real workhorse or just another shiny motor?

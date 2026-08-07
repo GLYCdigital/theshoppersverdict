@@ -1,7 +1,8 @@
 ---
-title: "Vicenpal Clear Plastic Name Tent Holders 11\" x 4.25\" Acrylic"
-seo_title: "Vicenpal Clear Plastic Name Tent Holders 11\" x 4.2 Review"
-meta_description: "Our full vicenpal clear plastic name tent holders 11\" x 4.25\" acrylic review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Vicenpal Clear Plastic Name Tent Holders 11\ x 4.25\ Acrylic"
+seo_title: "Vicenpal Clear Plastic Name Tent Holders 11\ x 4.2 Review"
+meta_description: "Our full vicenpal clear plastic name tent holders 11\ x 4.25\ acrylic review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "vicenpal-clear-plastic-name-tent-holders-11-x-4-25-acrylic-name-b0bg3v-review"
 image_alt: "Vicenpal Clear Plastic Name Tent Holders 11 x 4.25 Acrylic Name Plate for Desk PVC Card Tent Holder Desk Sign Frame for "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BG3VDRBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q0rVNB7bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Walk into any conference room that's seen better days, and you'll find the same sad sight: flimsy paper tents drooping like tired accordions, names barely legible through smudged plastic. The **Vicenpal Clear Plastic Name Tent Holders** are the antidote to that. At 11 inches wide and 4.25 inches tall, these aren't the dinky little cardholders you get free with a convention badge. These are proper table presence.

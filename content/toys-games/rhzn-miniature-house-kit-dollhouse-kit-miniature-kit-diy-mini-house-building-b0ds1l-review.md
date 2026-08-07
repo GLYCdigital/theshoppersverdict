@@ -1,4 +1,5 @@
 ---
+
 title: "RHZN Miniature House Kit, Dollhouse Kit, Miniature Kit, DIY "
 seo_title: "RHZN Miniature House Kit, Dollhouse Kit, Miniature Review"
 meta_description: "Our full rhzn miniature house kit, dollhouse kit, miniature kit, diy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DS1LX5MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/913EGhkVMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen those impossibly cute miniature room kits all over social media. The RHZN Miniature House Kit is one of the more affordable entries in that crowded field, and at 4.4 stars across 220 ratings, it's clearly doing something right. But is it actually worth your weekend — or will it end up half-built in a closet? I dug through the specs, customer feedback, and the actual assembly experience to give you the straight story.

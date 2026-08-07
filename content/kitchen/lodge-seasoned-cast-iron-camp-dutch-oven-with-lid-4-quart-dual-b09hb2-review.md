@@ -1,4 +1,5 @@
 ---
+
 title: "Lodge Seasoned Cast Iron Camp Dutch Oven with Lid - 4 Quart "
 seo_title: "Lodge Seasoned Cast Iron Camp Dutch Oven with Lid  Review"
 meta_description: "Our full lodge seasoned cast iron camp dutch oven with lid - 4 quart  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09HB221WR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618TDApDYrL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a camp Dutch oven, you're probably weighing three things: does it hold heat, will the lid fit right, and will it survive years of abuse. The Lodge 4-quart answers all three with a confident yes — then adds a quirk or two you should know about before you buy.

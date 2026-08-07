@@ -1,4 +1,5 @@
 ---
+
 title: "CROCI Lavender Scented 28x34in/30x36in Extra Large Dog Pads,"
 seo_title: "CROCI Lavender Scented Dog Pads Review (2026): Extra Large"
 meta_description: "Honest CROCI lavender scented extra large dog pads review: absorbency, odor control, sizing, and value for senior dogs and heavy urinators."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BNMXB255/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jGmmym9KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lavender scent genuinely masks urine odor on contact — no competing perfume smell"
   - "Thick quilted core holds up to 4-5 cups of liquid without leaking through to floors"
   - "Oversized 28x34in/30x36in footprint covers large areas; adhesive strips stay put on tile and hardwood"
-cons:
+cons: 
   - "Scent may be too strong for sensitive noses — noticeable from across the room when fresh"
   - "No wetness indicator; you must check visually or by touch to know when to swap"
   - "Edges curl slightly if left out longer than 24 hours between changes"
+
 ---
 
 If you've got a senior dog with bladder control issues or a puppy in the potty-training phase, you already know the drill: standard 22x22 pads are a joke. One misstep and you're cleaning urine off the baseboards. The CROCI lavender-scented pads step up the game with a genuinely oversized footprint — the 30x36in option gives you nearly double the coverage of standard large pads. After two weeks of testing with a 70-pound lab mix and a recovering foster pup, here's the full breakdown.

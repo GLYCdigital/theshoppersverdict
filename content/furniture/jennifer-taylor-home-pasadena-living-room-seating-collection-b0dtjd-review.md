@@ -1,4 +1,5 @@
 ---
+
 title: "Jennifer Taylor Home Pasadena Living Room Seating Collection"
 seo_title: "Jennifer Taylor Home Pasadena Living Room Seating  Review"
 meta_description: "Our full jennifer taylor home pasadena living room seating collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTJD4JJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615fxEKMCcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through the same mass-market sofas that all look identical, the Jennifer Taylor Home Pasadena Collection stops the scroll. This isn't the generic, boxy sectional everyone's neighbor owns. The tapered mid-century legs, tailored back cushions, and softly curved arms give it a designer showroom presence — at a price point that doesn't require a second mortgage.

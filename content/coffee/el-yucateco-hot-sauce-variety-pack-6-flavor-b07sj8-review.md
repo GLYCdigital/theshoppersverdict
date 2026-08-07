@@ -1,4 +1,5 @@
 ---
+
 title: "El Yucateco Hot Sauce Variety Pack - 6 Flavor"
 seo_title: "El Yucateco Hot Sauce Variety Pack Review: 6 Flavors"
 meta_description: "Our El Yucateco Hot Sauce Variety Pack review covers all 6 flavors, heat levels, and real-world use. See if this 4.7-star pack is worth buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SJ8H2CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EU0wsRm7L._SL1500_.jpg"
-pros:
+pros: 
   - "Six distinct flavor profiles, from mild habanero to XXXtra-hot Kutbil-ik, covering multiple heat levels in one order"
   - "Carotenoids from actual habanero peppers provide natural color—no artificial dyes or preservatives in any bottle"
   - "Each 4.6 oz bottle is shelf-stable and keeps its punch for months after opening"
-cons:
+cons: 
   - "Heat inconsistency between flavors is significant—the Black Label Reserve and Kutbil-ik are genuinely punishing for casual users"
   - "Small 4.6 oz bottles run out fast if you use hot sauce daily on multiple meals"
+
 ---
 
 **Opening Hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "Yehchi Mini Split Wall Mount Condensers - Universal Outdoor "
 seo_title: "Yehchi Mini Split Wall Mount Condensers - Universa Review"
 meta_description: "Our full yehchi mini split wall mount condensers - universal outdoor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D49KWWRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XAYwUKr-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some research time. If you're pricing out a mini split installation and a contractor quoted you $400–$600 just to mount the condenser, the Yehchi universal wall mount is the answer. This is the bracket that DIYers and savvy homeowners use to knock that cost down to under $100 and an afternoon of work.

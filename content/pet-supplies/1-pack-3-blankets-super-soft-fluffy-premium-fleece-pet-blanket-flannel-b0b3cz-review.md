@@ -1,4 +1,5 @@
 ---
+
 title: "1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blank"
 seo_title: "Super Soft Fluffy Fleece Pet Blanket Review (3-Pack)"
 meta_description: "Honest review of the 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket. Is this 3-pack worth it for dogs and cats? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3CZSDSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Se2BwiV2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three blankets per pack — enough to cover a crate, a couch, and the car without re-washing every other day"
   - "Genuinely soft double-sided fleece that holds up to repeated washing without pilling or shedding"
   - "Lightweight but warm — dogs and cats alike seem drawn to it immediately"
-cons:
+cons: 
   - "No anti-slip backing — will slide around on hardwood or leather furniture unless anchored"
   - "Size runs slightly smaller than expected; measure your crate or bed before ordering"
+
 ---
 
 Let's be honest: most pet blankets are either too thin to matter or so bulky they're a pain to wash. This 3-pack from the "Super Soft Fluffy" line sits somewhere in the sweet spot — and with 225 ratings holding a 4.5-star average, it's clearly earning its keep in real homes.

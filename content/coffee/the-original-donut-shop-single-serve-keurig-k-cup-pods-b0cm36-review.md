@@ -1,4 +1,5 @@
 ---
+
 title: "The Original Donut Shop Single-Serve Keurig K-Cup Pods"
 seo_title: "The Original Donut Shop Single-Serve Keurig K-Cup  Review"
 meta_description: "Our full the original donut shop single-serve keurig k-cup pods review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM36Y4QR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yCxYyDgwL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the honest truth about The Original Donut Shop K-Cups: this is the coffee equivalent of your favorite pair of jeans. Not flashy, not trendy, but it works every single time. With 220 ratings holding a steady 4.4-star average, this isn't a hype-driven product — it's a reliable workhorse that's earned its place in thousands of Keurig machines.

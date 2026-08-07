@@ -1,4 +1,5 @@
 ---
+
 title: "Cool Gel Mercer Pillow Top Cool Gel Memory Foam and Innerspr"
 seo_title: "Cool Gel Mercer Pillow Top Mattress Review: Honest 2026 inch"
 meta_description: "Cool Gel Mercer Pillow Top hybrid mattress review: cooling gel memory foam meets innerspring. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6BL6BW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Gel-infused memory foam layer actually sleeps cooler than standard memory foam, based on consistent owner feedback"
   - "Pillow top adds genuine plushness without sacrificing the support of the innerspring coil system beneath"
   - "Hybrid construction delivers solid edge support — you won't roll off the side when sitting on the edge"
-cons:
+cons: 
   - "No mention of the exact coil gauge or foam density in the listing, making durability hard to verify long-term"
   - "Some sleepers report a break-in period of 2–3 weeks where the pillow top feels firmer than expected"
   - "Off-gassing smell is present on arrival; takes 24–72 hours to dissipate fully in most cases"
+
 ---
 
 ## The Hybrid That Tries to Do It All — and Mostly Succeeds

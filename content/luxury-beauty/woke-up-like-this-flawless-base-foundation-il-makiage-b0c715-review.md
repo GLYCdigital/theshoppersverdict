@@ -1,4 +1,5 @@
 ---
+
 title: "WOKE UP LIKE THIS FLAWLESS BASE FOUNDATION IL MAKIAGE"
 seo_title: "WOKE UP LIKE THIS FLAWLESS BASE FOUNDATION IL MAKI Review"
 meta_description: "Our full woke up like this flawless base foundation il makiage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C715993P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31KK+7XcJ8L._SY355_PIbundle-8,TopRight,0,0_SX261SY355SH20_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is the hype real or just clever marketing? IL MAKIAGE has dominated social feeds with its "Woke Up Like This" campaign and a shade-match quiz that promises perfection. At this price point, you deserve to know if the foundation delivers before you commit. After analyzing 200+ verified buyer experiences, here's the unfiltered truth.

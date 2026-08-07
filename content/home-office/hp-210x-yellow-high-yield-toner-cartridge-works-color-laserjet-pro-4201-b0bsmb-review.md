@@ -1,4 +1,5 @@
 ---
+
 title: "HP 210X Yellow High-Yield Toner Cartridge | Works Color Lase"
 seo_title: "HP 210X Yellow High-Yield Toner Cartridge | Works  Review"
 meta_description: "Our full hp 210x yellow high-yield toner cartridge | works color lase review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSMBZBVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FPKuLQdML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the toner aisle confusion. The HP 210X Yellow is the high-yield cartridge for the Color LaserJet Pro 4201 and 4202 series — printers that are workhorses for small offices and home offices with serious color needs. If you're staring at a printer that eats standard cartridges like candy, this 4,100-page option is the math that finally makes sense.

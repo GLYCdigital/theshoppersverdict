@@ -1,4 +1,5 @@
 ---
+
 title: "BCQNXX AM141034 Lawn Mower High Lift Blade for 42 Inch Deck"
 seo_title: "BCQNXX AM141034 High Lift Blade Review: 42-Inch Deck"
 meta_description: "BCQNXX AM141034 high lift blade review: Does it fit 42-inch decks? Real owner feedback on cut quality, suction, and durability. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRDGVCWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/51nqIPTj3YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably stronger deck suction lifts matted grass and wet clippings that standard blades leave behind"
   - "Heat-treated steel edge holds a sharp cutting surface through a full season on average-size lawns"
   - "Direct AM141034 replacement that mounts without modification on common 42-inch John Deere and knockoff decks"
-cons:
+cons: 
   - "High-lift design creates increased vibration at full throttle on some tractors, especially at lower engine speeds"
   - "Bagging performance is outstanding but the aggressive lift throws clippings harder — you'll hear debris hitting the bagger chute"
+
 ---
 
 Let's be blunt: most replacement mower blades are the same stamped steel with a new coat of paint. The BCQNXX AM141034 is not that. This is a high-lift blade with a genuinely aggressive wing profile, and it changes how your 42-inch deck behaves. The question is whether you want that change.

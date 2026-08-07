@@ -1,4 +1,5 @@
 ---
+
 title: "amika headstrong intense hold hairspray"
 seo_title: "amika Headstrong Hairspray Review: Intense Hold That Lasts"
 meta_description: "Our amika Headstrong intense hold hairspray review covers performance, ingredients, and real user feedback. Is this 4.6-star luxury spray worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CX2TLN66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TriDZUc7L._SL1500_.jpg"
-pros:
+pros: 
   - "Flexible-but-firm hold that survives humidity without crunch or stiffness"
   - "Clean formula free of sulfates, parabens, and phthalates — no aerosol propellant sting"
   - "Coconut-derived ingredients and heat protectant built in, so it doubles as a styling aid"
-cons:
+cons: 
   - "Premium price point — you're paying for the brand, not just the product"
   - "Some users with fine hair report needing multiple layers for all-day hold"
+
 ---
 
 **If you've ever watched an elaborate updo collapse by hour three, you know the hairspray struggle.** The amika headstrong intense hold hairspray promises to end that — and with a 4.6-star average across 229 Amazon ratings, it's clearly delivering for a lot of people. But at this price point, "good" isn't enough. Let's dig into whether this luxury spray earns its keep.

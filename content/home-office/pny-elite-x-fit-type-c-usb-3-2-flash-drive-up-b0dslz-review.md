@@ -1,4 +1,5 @@
 ---
+
 title: "PNY Elite-X Fit Type-C USB 3.2 Flash Drive â€“ Up to 200MB/s"
 seo_title: "PNY Elite-X Fit Type-C USB 3.2 Flash Drive â€“ Up  Review"
 meta_description: "Our full pny elite-x fit type-c usb 3.2 flash drive â€“ up to 200mb/s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSLZF813/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qSwVIFELL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PNY Elite-X Fit solves a problem you didn't know you had: USB-C ports that are positioned awkwardly close together. If you've ever tried plugging two chunky drives into a MacBook Pro or ultrabook simultaneously, you know the pain. This drive is so small — roughly the size of a thumbnail — that it disappears into your port and stays there.

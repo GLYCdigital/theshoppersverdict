@@ -1,4 +1,5 @@
 ---
+
 title: "Felli Duo Loc Meal Prep Containers with Lid Leak Proof & Sta"
 seo_title: "Felli Duo Loc Meal Prep Containers Review: Leak Proof & Durable"
 meta_description: "Honest Felli Duo Loc meal prep containers review: leak-proof lids, stackable design, real-world testing. Is the 4.4-star rating justified? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK73BLHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZgNz64FDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four independent side latches create a genuine liquid-tight seal — I inverted a container full of marinara with zero drips"
   - "Stain and odor resistance holds up; curry and turmeric washed out completely with just dish soap"
   - "Stackable design with recessed lids means a full fridge shelf holds six containers without wobble"
-cons:
+cons: 
   - "Lids require firm, deliberate pressure to close all four latches; anyone with arthritis or weak grip will struggle"
   - "Not microwave-safe for reheating over 3 minutes — plastic softens noticeably at high temps"
   - "The 1.2L size is bulkier than it looks; doesn't fit standard lunch bags designed for typical deli containers"
+
 ---
 
 ## The Leak-Proof Promise: Does the Felli Duo Loc Actually Deliver?

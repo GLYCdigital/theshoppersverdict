@@ -1,4 +1,5 @@
 ---
+
 title: "Pyrex 2-Piece Glass Pie Plate Set"
 seo_title: "Pyrex 2-Piece Glass Pie Plate Set Review: Verdict | TSV"
 meta_description: "Our full pyrex 2-piece glass pie plate set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BPMTT5GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WzrFCi+7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products just work, and the Pyrex 2-Piece Glass Pie Plate Set is one of them. It's two identical 9-inch glass pie plates — nothing flashy, nothing complicated. But after 240 Amazon ratings averaging 4.8 stars, the consensus is clear: this is the pie plate set most home bakers should own.

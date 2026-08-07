@@ -1,4 +1,5 @@
 ---
+
 title: "Savior Generator Petcock Fuel Gas Tank Switch Shut Off Valve"
 seo_title: "Savior Generator Petcock Fuel Gas Tank Switch Shut Review"
 meta_description: "Our full savior generator petcock fuel gas tank switch shut off valve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00XVS3FXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cD-tasRnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Harbor Freight Predator 212cc engine — the workhorse in generators, log splitters, and mini bikes — you already know the stock plastic petcock is a ticking time bomb. It strips, it seeps, and it leaves you smelling like gasoline every time you wheel the generator out of the shed. The Savior Generator Petcock is the $10 fix that 229 Amazon reviewers have rated at 4.6 stars. Here's the real story after digging through the feedback and specs.

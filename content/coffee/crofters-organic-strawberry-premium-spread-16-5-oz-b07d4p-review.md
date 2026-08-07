@@ -1,4 +1,5 @@
 ---
+
 title: "Crofters Organic Strawberry Premium Spread, 16.5 oz"
 seo_title: "Crofters Organic Strawberry Spread Review (2026): Worth It?"
 meta_description: "Honest Crofters Organic Strawberry Premium Spread review: taste, ingredients, texture, and value. See how this 16.5 oz jar stacks up against store brands."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07D4PCZWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lRe1YssdL._SL1500_.jpg"
-pros:
+pros: 
   - "70% organic fruit per serving — noticeably more strawberry flavor than sugar-forward competitors"
   - "No high-fructose corn syrup, artificial preservatives, or pectin fillers; ingredient list is just strawberries, sugar, fruit pectin, and citric acid"
   - "Consistently smooth, spreadable texture straight from the fridge — no stiff, tear-the-bread clumping"
-cons:
+cons: 
   - "Sweetness level is moderate but still present — not a tart, low-sugar preserve despite the 'premium' positioning"
   - "16.5 oz jar is smaller than typical 18-22 oz supermarket options, and the price per ounce runs higher"
   - "Some batches arrive with separation (liquid on top) requiring a stir; not a dealbreaker but worth noting"
+
 ---
 
 # Crofters Organic Strawberry Spread Review: The Real Story Behind the 4.7 Stars

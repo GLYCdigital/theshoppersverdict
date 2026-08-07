@@ -1,7 +1,8 @@
 ---
-title: "Makita XRW01Z 18V LXTÂ® Lithium-Ion Cordless 3/8\" / 1/4\" Sq."
-seo_title: "Makita XRW01Z 18V LXTÂ® Lithium-Ion Cordless 3/8\"  Review"
-meta_description: "Our full makita xrw01z 18v lxtâ® lithium-ion cordless 3/8\" / 1/4\" sq. review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Makita XRW01Z 18V LXTÂ® Lithium-Ion Cordless 3/8\ / 1/4\ Sq."
+seo_title: "Makita XRW01Z 18V LXTÂ® Lithium-Ion Cordless 3/8\  Review"
+meta_description: "Our full makita xrw01z 18v lxtâ® lithium-ion cordless 3/8\ / 1/4\ sq. review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-xrw01z-18v-lxt-lithium-ion-cordless-3-8-1-4-sq-b09p8j-review"
 image_alt: "Makita XRW01Z 18V LXTÂ® Lithium-Ion Cordless 3/8 / 1/4 Sq. Drive Ratchet, Tool Only"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09P8JKDP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41MP-Bsr9-L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Makita XRW01Z: The Ratchet That Actually Earns Its Battery

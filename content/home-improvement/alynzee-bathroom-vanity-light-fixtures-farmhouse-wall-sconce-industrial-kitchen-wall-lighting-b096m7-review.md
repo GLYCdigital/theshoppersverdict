@@ -1,4 +1,5 @@
 ---
+
 title: "Alynzee Bathroom Vanity Light Fixtures,Farmhouse Wall Sconce"
 seo_title: "Alynzee Farmhouse Vanity Light Review: Honest 2026 Verdict"
 meta_description: "Alynzee farmhouse vanity light review: 4.7-star rated wall sconce. Is it worth it? Build quality, brightness, installation, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096M7PJRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qQOtP0yYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled out of the box—no wiring harness to build, just mount and connect"
   - "Clear seeded glass shades diffuse light evenly without harsh glare or hotspots"
   - "Durable matte black finish resists fingerprints and bathroom humidity corrosion"
-cons:
+cons: 
   - "Requires a junction box; doesn't include one—some buyers underestimated this"
   - "Bulbs sold separately, and the E26 base limits you to A19 or globe shapes"
+
 ---
 
 Let’s be blunt: most vanity lights under $60 look cheap in person. The Alynzee Farmhouse Wall Sconce, hovering around that price point (check current pricing on Amazon), is the exception. With 235 ratings and a 4.7-star average, it’s clearly earning its keep in bathrooms from Nashville to New England. But is it right for *your* remodel? Here’s what 200+ hours of buyer feedback and spec analysis tell me.

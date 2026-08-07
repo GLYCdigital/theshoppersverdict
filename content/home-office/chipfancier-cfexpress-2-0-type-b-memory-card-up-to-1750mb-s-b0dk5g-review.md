@@ -1,4 +1,5 @@
 ---
+
 title: "CHIPFANCIER CFexpress 2.0 Type B Memory Card Up to 1750MB/s"
 seo_title: "CHIPFANCIER CFexpress 2.0 Type B Card Review (2026)"
 meta_description: "CHIPFANCIER CFexpress 2.0 Type B card review: 1750MB/s read speeds, real-world performance, durability, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK5GWGK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ygpfF9GSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sustained write speeds hold near 1500MB/s even on prolonged 4K/6K bursts, not just burst-mode marketing numbers"
   - "Aluminum alloy heat sink casing keeps thermals in check during extended recording — no throttling after 20+ minutes"
   - "Aggressive pricing undercuts Sony and SanDisk equivalents by 30-40% while maintaining CFexpress 2.0 spec compliance"
-cons:
+cons: 
   - "No included USB-C reader — you'll need a separate CFexpress reader (adds $25-40 to total cost)"
   - "Warranty support is handled through the CHIPFANCIER store directly, not Amazon — slower response times reported"
+
 ---
 
 If you've priced CFexpress Type B cards lately, you know the sting. Sony's 128GB runs $150+. SanDisk's Extreme Pro? Similar. Then there's CHIPFANCIER, a brand you might not recognize, undercutting the big names by a third while claiming the same 1750MB/s read ceiling. I tested it against that spec. Here's the honest picture.

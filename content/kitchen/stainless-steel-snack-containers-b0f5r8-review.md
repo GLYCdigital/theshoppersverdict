@@ -1,4 +1,5 @@
 ---
+
 title: "Stainless Steel Snack Containers"
 seo_title: "Stainless Steel Snack Containers Review: Verdict | TSV"
 meta_description: "Our full stainless steel snack containers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F5R82LL5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716f2RyZ7yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These Worth the Hype — or Just Another Lunch Container?

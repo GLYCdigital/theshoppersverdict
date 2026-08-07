@@ -1,4 +1,5 @@
 ---
+
 title: "IKEA 901.491.48 Frakta Storage Bag, Blue, 4 Pack"
 seo_title: "IKEA 901.491.48 Frakta Storage Bag, Blue, 4 Pack Review: "
 meta_description: "Our full ikea 901.491.48 frakta storage bag, blue, 4 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00MJC4U08/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ihMcEyMoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most storage bags are flimsy fabric sacks that tear the first time you overstuff them. The IKEA Frakta isn't that. This blue workhorse has been a moving-day staple for years, and with a 4.7-star average across 235 ratings, it's earned its reputation. But is it right for your specific storage needs? Let's dig in.

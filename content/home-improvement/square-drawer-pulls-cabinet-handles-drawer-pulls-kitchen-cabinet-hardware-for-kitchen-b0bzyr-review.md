@@ -1,4 +1,5 @@
 ---
+
 title: "Square Drawer Pulls Cabinet Handles Drawer Pulls Kitchen Cab"
 seo_title: "Square Drawer Pulls Cabinet Handles Drawer Pulls K Review"
 meta_description: "Our full square drawer pulls cabinet handles drawer pulls kitchen cab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZYR9VYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H8nA4e7fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a kitchen full of dated, round knob hardware and want an instant modern refresh, square bar pulls are the single highest-impact change you can make under $50. The question is whether this specific set delivers on the look without the usual hardware headaches. After digging through 235 ratings and the spec sheet, here's the honest breakdown.

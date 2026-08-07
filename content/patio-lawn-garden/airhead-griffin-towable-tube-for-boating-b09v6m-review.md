@@ -1,4 +1,5 @@
 ---
+
 title: "Airhead Griffin Towable Tube Review"
 seo_title: "Airhead Griffin Towable Tube Review (2026): Is It Worth It?"
 meta_description: "Airhead Griffin towable tube review: 4.7★ rated. Tested for speed, comfort, and durability. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09V6M8SY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618ueJsfBRL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Double-stitched 840-denier nylon cover with full PVC bladder — survives repeated impacts and shoreline bumps"
   - "Three-person capacity (12 ft tow rope included) with separate neoprene knee pads and grab handles per rider"
   - "Quick-connect tow system with Boston valve inflates in under 5 minutes with a standard pump"
-cons:
+cons: 
   - "No built-in cooler or storage pockets — you'll need a separate dry bag for phones or keys"
   - "At 85 lbs recommended max weight, it's tight for three average-sized adults — realistically a two-adult plus kid tube"
   - "Neoprene pads are thin; longer sessions on rough water can leave knees sore"
+
 ---
 
 The Airhead Griffin is the rare towable that actually delivers on its "three-rider" promise — if you're honest about who's riding. At 4.7 stars from 235 buyers, it's clearly doing something right. Here's what that rating really means.

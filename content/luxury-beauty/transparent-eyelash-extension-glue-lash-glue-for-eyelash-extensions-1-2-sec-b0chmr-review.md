@@ -1,4 +1,5 @@
 ---
+
 title: "Transparent Eyelash Extension Glue Lash Glue for Eyelash Ext"
 seo_title: "Transparent Eyelash Extension Glue Lash Glue for E Review"
 meta_description: "Our full transparent eyelash extension glue lash glue for eyelash ext review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CHMR34YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xDQyJWBbL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: lash glue is the one product you should never cheap out on. It's the difference between sets that last three weeks and sets that shed by day three. This transparent formula from a lesser-known brand sits at 4.2 stars across 210 ratings — solid, but not spectacular. Here's what you actually need to know before adding it to your cart.

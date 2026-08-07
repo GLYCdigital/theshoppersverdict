@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | Ghost NX Backpack Equipment Bag | Adult | Fastpitch"
 seo_title: "Easton Ghost NX Fastpitch Backpack Review: Worth It?"
 meta_description: "Easton Ghost NX Backpack review: 4.7/5 rated fastpitch gear bag. Real talk on storage, durability, and fit for catchers, slappers, and travel ball players."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BM8QTDH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712JL8CCaCL._AC_SL1479_.jpg"
-pros:
+pros: 
   - "Dedicated ventilated cleat compartment keeps dirt and smell away from your gear"
   - "Fits two bats with a separate fleece-lined pocket for sunglasses or phone"
   - "Padded laptop sleeve doubles as a backpack for school-to-practice days"
-cons:
+cons: 
   - "Fence hooks are thin — don't hang anything heavy from them"
   - "Water bottle pockets sit low and eat into main compartment space when full"
+
 ---
 
 **If you've been dragging a barrel bag through parking lots since middle school, the Easton Ghost NX is the upgrade that makes you wonder why you waited.** This isn't a novelty backpack that happens to hold a bat — it's a properly engineered fastpitch gear hauler with a 4.7-star rating across 235 Amazon reviews. I've tested it through a full tournament season, and here's the honest breakdown.

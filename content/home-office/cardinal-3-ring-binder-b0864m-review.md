@@ -1,4 +1,5 @@
 ---
+
 title: "Cardinal 3 Ring Binder"
 seo_title: "Cardinal 3 Ring Binder Review: Solid, Affordable, Worth It?"
 meta_description: "Honest Cardinal 3 Ring Binder review: durability, capacity, real user feedback, and who should buy it. Check pros, cons, and verdict before you order."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0864MS7K8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7100AZyiUgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rings open smoothly and stay aligned even with heavy use — no pinched fingers or misaligned pages"
   - "The clear overlay pocket on the front cover lets you customize the spine and cover without labels that peel off"
   - "Back pocket holds loose handouts or un-punched documents up to a decent stack without bulging the cover"
-cons:
+cons: 
   - "The vinyl cover shows scuffs and fingerprints quickly, especially in black — wipe it down or accept the wear"
   - "Ring capacity is rated for 350 sheets, but it gets tight past 275–300; don't push it to the stated max"
+
 ---
 
 If you’ve ever wrestled with a binder whose rings snag pages or refuse to close cleanly, you know the pain. The Cardinal 3 Ring Binder aims to fix that specific frustration, and for most buyers, it largely succeeds. With 235 ratings holding a 4.7-star average, this isn’t a flashy product — it’s a workhorse. Here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Shipping Labels with Sure Feed, 2 inch  x 4 inch  Cust"
 seo_title: "Avery Sure Feed Shipping Labels Review: 2x4 Custom"
 meta_description: "Honest Avery 2x4 shipping labels review: Sure Feed tech, print quality, adhesive strength, and real buyer feedback. See if they're worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXC21WX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lfN6jQMkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sure Feed strip virtually eliminates paper jams, even on older or finicky printers — a real time-saver"
   - "Crisp, smudge-resistant ink absorption that handles both laser and inkjet without ghosting"
   - "Strong permanent adhesive that sticks to cardboard, poly mailers, and recycled boxes without curling"
-cons:
+cons: 
   - "Labels are perforated but not split into individual sheets — you must tear them from the sheet yourself"
   - "The 2x4 size is tighter than standard 4x6 thermal labels, which can be cramped for long international addresses"
+
 ---
 
 Let's be honest about shipping labels: most of them are either flimsy paper that jams your printer or thick stickers that peel off in transit. The Avery 2x4 Printable Shipping Labels with Sure Feed sit in a sweet spot — they're not the cheapest option on Amazon, but they consistently avoid the two biggest headaches in home shipping: printer jams and labels that don't stick. With a 4.8-star average across 240 ratings, this is one of those quiet workhorse products that does exactly what it promises.

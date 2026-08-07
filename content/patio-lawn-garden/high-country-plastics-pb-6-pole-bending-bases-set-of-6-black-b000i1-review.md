@@ -1,4 +1,5 @@
 ---
+
 title: "High Country Plastics PB-6 Pole Bending Bases, Set of 6, Bla"
 seo_title: "High Country Plastics PB-6 Pole Bending Bases, Set Review"
 meta_description: "Our full high country plastics pb-6 pole bending bases, set of 6, bla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000I1M9FA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GlI05ME6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you run barrels, poles, or any speed event practice at home, you know the drill: PVC pipes, cinder blocks, and bungee cords held together with hope. The High Country Plastics PB-6 Pole Bending Bases exist to end that nonsense. These aren't fancy—they're flat, black, square bases with molded-in slots for your poles. But after 229 ratings averaging 4.6 stars, they've clearly earned their place in countless trailers and arenas.

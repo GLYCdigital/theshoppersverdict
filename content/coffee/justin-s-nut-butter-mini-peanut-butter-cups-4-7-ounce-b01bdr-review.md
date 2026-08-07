@@ -1,4 +1,5 @@
 ---
+
 title: "Justin's Nut Butter Mini Peanut Butter Cups, 4.7 Ounce"
 seo_title: "Justin's Nut Butter Mini Peanut Butter Cups, 4.7 O Review"
 meta_description: "Our full justin's nut butter mini peanut butter cups, 4.7 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01BDRUOHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71td4Ym8Z+L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this actually better than the orange-wrapped classic, or just pricier? I tested a full bag to find out.**

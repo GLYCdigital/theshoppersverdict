@@ -1,4 +1,5 @@
 ---
+
 title: "Plantronics Poly - VVX 411 12-Line VOIP Business Phone (Poly"
 seo_title: "Plantronics Poly - VVX 411 12-Line VOIP Business P Review"
 meta_description: "Our full plantronics poly - vvx 411 12-line voip business phone (poly review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B01C6WRXUO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511oSa4zdmL._AC_SL1005_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Poly VVX 411 is the office phone equivalent of that reliable coworker who never calls in sick. It's not flashy, it won't win design awards, and it'll probably outlast three of your laptops. But is it the right desk phone for your business? After digging through 204 ratings and the technical spec sheet, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "SONGMICS"
 seo_title: "SONGMICS Review: Verdict | TSV"
 meta_description: "Our full songmics review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GH6CD9MD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UU6unv11L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 SONGMICS has become a familiar name in the budget-to-midrange furniture space, and this particular piece—part of their home organization line—has racked up a respectable 4.4 out of 5 stars across 220 ratings. But numbers only tell part of the story. I've dug through the customer feedback, examined the build specs, and weighed the practical tradeoffs to give you the real picture before you hit "add to cart."

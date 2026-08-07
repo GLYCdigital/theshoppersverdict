@@ -1,4 +1,5 @@
 ---
+
 title: "Bundle of Metabo HPT Framing Nailer"
 seo_title: "Metabo HPT Framing Nailer Bundle Review: Worth It? (2026)"
 meta_description: "Metabo HPT framing nailer bundle review: 4.7★ rated. Explore power, jam-resistance, and value. Is this the right nailer for your crew? Read more."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CM6TT7QN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jfFyysoRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Selective firing trigger prevents accidental double-nailing when bump-firing"
   - "Tool-free depth adjustment with quick-release nose for clearing jams in under 30 seconds"
   - "Bundle includes extra driver guide and oil, saving roughly $20 over buying separately"
-cons:
+cons: 
   - "Magazine is plastic — durable but not drop-proof on concrete from ladder height"
   - "No belt hook included in the bundle; you'll need to buy one separately"
   - Requires 120 PSI to drive 3-1/2 inch " nails into dense LVL; smaller compressors will struggle
+
 ---
 
 There's a reason framing crews aren't loyal to the fanciest nailer on the shelf — they're loyal to the one that doesn't quit at hour nine. The Metabo HPT framing nailer has built its reputation on exactly that kind of endurance, and this bundle wraps it with the extras you'd normally buy anyway.

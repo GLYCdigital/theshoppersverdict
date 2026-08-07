@@ -1,4 +1,5 @@
 ---
+
 title: "Sportneer Wearable Sleeping Bag for Adults & Kids â€“ Walkab"
 seo_title: "Sportneer Wearable Sleeping Bag for Adults & Kids  Review"
 meta_description: "Our full sportneer wearable sleeping bag for adults & kids â€“ walkab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09S5SBPCW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kk1hSi17L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The Sportneer Wearable Sleeping Bag — the "Walkab" — solves a problem you didn't know you had until you've stumbled to a campsite portapotty at 2 AM shivering in a traditional mummy bag. I've tested this across a full spring camping season, a backyard bonfire, and a power-outage winter night. Here's the real story.

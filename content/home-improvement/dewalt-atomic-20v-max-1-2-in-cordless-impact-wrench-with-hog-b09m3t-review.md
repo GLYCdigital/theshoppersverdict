@@ -1,23 +1,25 @@
 ---
+
 title: "DEWALT ATOMIC 20V MAX* 1/2 in. Cordless Impact Wrench with Hog Ring Anvil"
 seo_title: "DEWALT ATOMIC Impact Wrench Review: Power & Portability"
 meta_description: "Our DEWALT ATOMIC 20V MAX 1/2-in impact wrench review covers power, runtime, and real-world lug nut performance. See if it's worth your money."
 slug: "dewalt-atomic-20v-max-1-2-in-cordless-impact-wrench-with-hog-b09m3t-review"
 image_alt: "DEWALT ATOMIC 20V MAX 1/2-inch cordless impact wrench with hog ring anvil and battery"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09M3TL9BB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pa9bfvqyL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "330 ft-lbs of breakaway torque in a sub-compact body that fits between studs and behind calipers"  
   - "Three-speed selector with a precise Precision Drive mode for lug nuts and fragile fasteners"  
   - "Hog ring anvil accepts standard 1/2-in impact sockets without needing a detent pin tool"  
-cons:  
+cons: 
   - "No battery or charger included — you'll need an existing 20V MAX system or add $100+ to the price"  
   - "At 3.1 lbs with a 5Ah battery, it's not the lightest sub-compact, and the head is slightly bulky for tight exhaust work"
+
 ---
 
 Let’s cut the chase: if you’re a DIYer or a weekend mechanic who’s tired of wrestling lug nuts with a breaker bar, the DEWALT ATOMIC 20V MAX 1/2-inch impact wrench is the tool that will make you wonder why you waited so long. It’s not the most brutal wrench on the market, but it’s the one you’ll actually grab every time because of how it balances size, weight, and real-world grunt.  

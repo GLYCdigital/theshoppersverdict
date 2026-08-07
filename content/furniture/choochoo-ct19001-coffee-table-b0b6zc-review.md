@@ -1,4 +1,5 @@
 ---
+
 title: "ChooChoo CT19001 Coffee Table Review: Worth It?"
 seo_title: "ChooChoo CT19001 Coffee Table Review (2026): Pros, Cons"
 meta_description: "Honest ChooChoo CT19001 coffee table review: build quality, assembly, real buyer feedback. See pros, cons, and who should buy. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6ZCP4P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PUKJ5cHmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy steel frame with reinforced X-bracing holds up to daily use without wobble"
   - "Smooth, splinter-free wood top surface that resists water rings and scratches"
   - "Understated industrial-modern design pairs with both leather and fabric sofas"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and takes 25–35 minutes — not tool-free"
   - "Lower shelf is open with no lip; small items like remotes can slide off"
+
 ---
 
 The ChooChoo CT19001 is the coffee table equivalent of a solid handshake: unpretentious, dependable, and exactly what it claims to be. With a 4.6-star average across 229 ratings, it's clearly doing something right. But is it the right table for *your* living room? Let's break down what you're actually getting.

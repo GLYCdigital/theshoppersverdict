@@ -1,4 +1,5 @@
 ---
+
 title: "Deepn 9000W Solar Street Light, Bright LED Security Solar Fl"
 seo_title: "Deepn 9000W Solar Street Light Review: Honest Verdict"
 meta_description: "Deepn 9000W solar street light review: real brightness, battery life, and durability tested. See who should buy and who should skip this LED flood light."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DHTM3R1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OqACwJHDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn operation with a separate solar panel that can be mounted remotely for maximum sun exposure"
   - "Multiple brightness modes and a motion sensor that genuinely extends battery life in real-world use"
   - "Aluminum housing with IP66 water resistance — built to survive rain, snow, and direct sun without degrading"
-cons:
+cons: 
   - "The '9000W' rating is wildly misleading; actual measured output is closer to a 100W-150W equivalent, not enough for large commercial areas"
   - "Battery capacity varies significantly between units; several buyers report premature failure within 6-8 months in cold climates"
   - "Mounting hardware feels cheap — the included brackets and screws are not suitable for heavy wind loads or pole installations"
+
 ---
 
 **The "9000W" in the title is a fantasy. The actual performance is somewhere between "decent garage light" and "disappointing driveway floodlight."** With a 3.4-star average across 170 ratings, the Deepn solar street light splits buyers into two camps: those who needed a modest backyard light and got exactly that, and those who expected to illuminate a parking lot and felt burned.

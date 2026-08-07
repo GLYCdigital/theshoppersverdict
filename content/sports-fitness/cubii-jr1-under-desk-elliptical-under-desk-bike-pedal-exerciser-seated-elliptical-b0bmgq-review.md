@@ -1,4 +1,5 @@
 ---
+
 title: "Cubii JR1, Under Desk Elliptical, Under Desk Bike Pedal Exer"
 seo_title: "Cubii JR1 Under Desk Elliptical Review: Worth It?"
 meta_description: "Cubii JR1 under desk elliptical review: quiet, compact, and effective? We analyze resistance, noise levels, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BMGQQ7H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510stu8Y2WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 resistance levels offer a genuine progression from light fidgeting to a legit leg burn"
   - "Bluetooth app integration tracks steps, distance, and calories — surprisingly motivating for a desk accessory"
   - "Quiet enough for open offices; multiple buyers report using it during video calls without disruption"
-cons:
+cons: 
   - "Compact stride length limits hip extension — taller users may find the range of motion restrictive"
   - "No handlebars or arm engagement; this is strictly lower-body work, so don't expect a full-body session"
+
 ---
 
 You know that 3 p.m. slump where your legs feel like lead and your steps for the day barely crack 2,000? The Cubii JR1 is designed specifically for that moment. It's a seated elliptical that slides under your desk and lets you pedal while you work, watch TV, or read. With a 4.6-star average across 229 ratings, it's clearly connecting with people who want to move more without carving out gym time.

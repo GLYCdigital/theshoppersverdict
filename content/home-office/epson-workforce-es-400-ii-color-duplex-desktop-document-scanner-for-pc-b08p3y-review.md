@@ -1,4 +1,5 @@
 ---
+
 title: "Epson Workforce ES-400 II Color Duplex Desktop Document Scan"
 seo_title: "Epson ES-400 II Review: Fast Duplex Document Scanner (2026)"
 meta_description: "Epson ES-400 II review: 35ppm duplex scanning, auto document feeder, and reliable performance. See pros, cons, and who should buy this desktop scanner."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08P3YVH3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qGlkp+DoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 35ppm duplex scanning with a 50-sheet ADF — real throughput, not marketing math"
   - Compact footprint (11.7 inch " x 5.7 inch " closed) fits on a shelf or corner desk without dominating
   - "One-touch scan-to-cloud presets work reliably with Dropbox, Google Drive, and SharePoint"
-cons:
+cons: 
   - "No Wi-Fi or battery — strictly USB-C tethered to a PC or Mac, which limits placement"
   - "No bundled OCR software; you'll need Adobe or a third-party tool for searchable PDFs"
   - "Plastic shell feels light at 3.5 lbs — fine for desktop use but not road-tough"
+
 ---
 
 ## The $300 question: Is the ES-400 II worth it over cheaper flatbeds?

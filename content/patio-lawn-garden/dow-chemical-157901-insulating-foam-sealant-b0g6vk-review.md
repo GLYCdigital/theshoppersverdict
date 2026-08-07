@@ -1,4 +1,5 @@
 ---
+
 title: "DOW Chemical 157901 Insulating Foam Sealant"
 seo_title: "DOW Chemical 157901 Foam Sealant Review: Real Results"
 meta_description: "DOW Chemical 157901 Insulating Foam Sealant review: Does this expanding foam stop drafts and pests? Real pros, cons, and buying advice for homeowners."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6VKJ49D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SKEjEi66L._SL1260_.jpg"
-pros:
+pros: 
   - "Expands up to 3x its size to fill gaps that other sealants can't reach"
   - "Cured foam is paintable, sandable, and cuts cleanly with a knife"
   - "Adheres to wood, metal, masonry, and most plastics without sagging"
-cons:
+cons: 
   - "Requires 8+ hours to fully cure — not a quick-fix solution"
   - "Sticky uncured foam is a nightmare to remove from skin and clothing"
+
 ---
 
 Let me be blunt: if you've got gaps around pipes, window frames, or that mysterious draft that makes your patio door feel like Antarctica in January, you're probably staring at a tube of caulk and wondering why it's not enough. Here's the truth — caulk isn't. For gaps wider than ¼ inch, you need expanding foam. The DOW Chemical 157901 is the one homeowners keep coming back to, and after digging through 235 ratings averaging 4.7 stars, I understand why.

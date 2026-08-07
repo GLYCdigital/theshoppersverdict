@@ -1,4 +1,5 @@
 ---
+
 title: "TOPDON BT100 Car Battery Tester 12V Load Tester, 100-2000 CC"
 seo_title: "TOPDON BT100 Car Battery Tester 12V Load Tester, 1 Review"
 meta_description: "Our full topdon bt100 car battery tester 12v load tester, 100-2000 cc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07Z67MMGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JbY+bvFZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## TOPDON BT100 Review: A $30 Battery Tester That Actually Tells the Truth

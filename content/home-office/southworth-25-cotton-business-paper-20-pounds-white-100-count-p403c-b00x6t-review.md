@@ -1,4 +1,5 @@
 ---
+
 title: "Southworth 25% Cotton Business Paper, 20 Pounds, White, 100 "
 seo_title: "Southworth 25% Cotton Business Paper, 20 Pounds, W Review"
 meta_description: "Our full southworth 25% cotton business paper, 20 pounds, white, 100  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00X6TNFY0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pwFOW3ILL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Does 25% cotton actually matter for your business documents? I tested this Southworth paper against standard office stock to find out.**

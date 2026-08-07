@@ -1,4 +1,5 @@
 ---
+
 title: "10L0L 4 Passenger (2+2) Golf Cart Seat Belt Kit for EZGO, Ya"
 seo_title: "10L0L 2+2 Golf Cart Seat Belt Kit Review: Worth It?"
 meta_description: "10L0L 4-passenger golf cart seat belt kit review: fit, install, safety, and durability for EZGO & Yamaha. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHDF2BMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71625h1uckL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Retractable 3-point belts with metal buckles — no cheap plastic latch feel"
   - "Fits both front and rear 2+2 seats with 52-inch straps, covers most EZGO and Yamaha models"
   - "Stainless steel mounting hardware included; corrosion-resistant for outdoor storage"
-cons:
+cons: 
   - "Hardware bolts are short — 1.5 inches — won't work if your cart has thick body panels or aftermarket seats"
   - "Mounting plates can flex under heavy tug; fine for normal use but not for aggressive pulling"
+
 ---
 
 **The Short Version: Do You Actually Need Seat Belts on a Golf Cart?**

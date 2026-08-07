@@ -1,4 +1,5 @@
 ---
+
 title: "Miss Jones Baking Co Organic Vanilla Frosting, 11.29 OZ"
 seo_title: "Miss Jones Baking Co Organic Vanilla Frosting, 11. Review"
 meta_description: "Our full miss jones baking co organic vanilla frosting, 11.29 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06XRBXQHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jlJXCafTL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Miss Jones Baking Co Organic Vanilla Frosting Review: The Clean-Label Frosting That Actually Tastes Like Vanilla

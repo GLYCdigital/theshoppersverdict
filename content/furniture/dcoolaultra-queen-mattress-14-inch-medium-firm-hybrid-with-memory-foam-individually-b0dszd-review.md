@@ -1,4 +1,5 @@
 ---
+
 title: "DCOOLAULTRA Queen Mattress 14 Inch,Medium Firm Hybrid with M"
 seo_title: "DCOOLAULTRA Queen Mattress Review: 14 inch Hybrid Tested"
 meta_description: "DCOOLAULTRA 14-inch queen hybrid mattress review: medium-firm feel, cooling gel memory foam, motion isolation. Is it worth it? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSZD99DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lBYnL4BGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "14-inch profile with 7-inch individually wrapped coil layer gives substantial edge support and prevents roll-off"
   - "Gel-infused memory foam top stays noticeably cooler than standard foam beds, per multiple verified reviews"
   - "True medium-firm feel (6-7/10) suits back and stomach sleepers without the rock-hard break-in period"
-cons:
+cons: 
   - "Heavy — queen weighs roughly 80+ lbs; solo setup is genuinely difficult and requires two people"
   - "Off-gassing smell lingers 24-48 hours even after the first night, which bothers sensitive noses"
   - "No handles on the side — moving or rotating this mattress is awkward despite the weight"
+
 ---
 
 ## The 14-inch hybrid that actually balances support and pressure relief

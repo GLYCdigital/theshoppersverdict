@@ -1,4 +1,5 @@
 ---
+
 title: "GLOBE Electric 52847 Swing-Arm Desk Lamp, Clamp-On"
 seo_title: "GLOBE Electric 52847 Swing-Arm Desk Lamp, Clamp-On Review"
 meta_description: "Our full globe electric 52847 swing-arm desk lamp, clamp-on review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5DHDD9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51slEyXj8EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through it: the Globe Electric 52847 is a no-nonsense swing arm task lamp that does exactly what it says — and nothing more. In a market flooded with $25 LED wands that flicker and die, this one takes a more traditional approach. The question is whether that approach still holds up in 2026.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dinty Moore Beef Stew, 9-Ounce Packages (Pack of 6)"
 seo_title: "Dinty Moore Beef Stew Review: 6-Pack Worth It? (2026)"
 meta_description: "Dinty Moore Beef Stew 9-oz 6-pack review: taste, texture, value, and serving size. Is this shelf-stable classic worth buying? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001E52WAG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81h7wUSdoQL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, hearty beef chunks that hold their texture through reheating — not mushy or stringy"
   - "Convenient 9-ounce single-serve size that's easy to stash in a desk drawer, go-bag, or camping kit"
   - "Shelf-stable with a long expiration window, making it a practical emergency food or pantry staple"
-cons:
+cons: 
   - "One 9-ounce can is modest — most adults will want a second can or a side to feel full"
   - "Noticeably high sodium at 790mg per serving, which matters if you're watching salt intake"
   - "Potatoes and carrots can be softer than fresh-cooked versions — a tradeoff for the shelf stability"
+
 ---
 
 Let's be honest: you're not buying Dinty Moore Beef Stew because you're looking for a Michelin-starred meal. You're buying it because you want something hot, filling, and dependable when you don't feel like cooking — or can't. The question is whether this 6-pack of 9-ounce cans delivers on that promise, and at 4.6 stars across 229 ratings, the crowd seems to think it does. Here's the real story.

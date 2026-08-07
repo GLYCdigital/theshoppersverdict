@@ -1,4 +1,5 @@
 ---
+
 title: "BORJOMI Sparkling Mineral Water"
 seo_title: "BORJOMI Sparkling Water Review: Is It Worth It?"
 meta_description: "Honest BORJOMI sparkling mineral water review: taste, carbonation, and value. Real buyer feedback on this iconic Georgian water. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FSG18VMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ywwAwsFNL._SL1500_.jpg"
-pros:
+pros: 
   - "Naturally carbonated from Georgian volcanic springs with a distinct mineral profile"
   - "Salty, complex flavor that pairs unusually well with food (especially rich dishes)"
   - "Glass bottles preserve carbonation better than plastic over extended storage"
-cons:
+cons: 
   - "Polarizing taste — the high sodium content (350mg/L) turns off many casual drinkers"
   - "Price point sits well above domestic sparkling waters like Perrier or San Pellegrino"
   - "Carbonation intensity varies between batches, which frustrates consistency seekers"
+
 ---
 
 Let me be direct: BORJOMI is not a beginner's sparkling water. This is a 130-year-old Georgian mineral water with a fiercely loyal following and an equally vocal group of people who think it tastes like salty club soda. Both groups are right. Here's what you're actually getting into.

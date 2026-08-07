@@ -1,4 +1,5 @@
 ---
+
 title: "AOGLLATI Rattan Dresser for Bedroom with 5 Drawer, Modern Do"
 seo_title: "AOGLLATI Rattan Dresser Review: 5-Drawer Modern Storage (2026)"
 meta_description: "Honest AOGLLATI rattan dresser review: 5-drawer modern bedroom storage. Real pros, cons, build quality & who should buy. 4.5-star rated, 225+ reviews."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DL5V8J9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KKz2X-EYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drawers glide on full-extension metal slides — no half-open wobble"
   - "Natural rattan weave panels are handcrafted, not printed-on veneer"
   - "Assembles in under 40 minutes with cam locks and labeled parts"
-cons:
+cons: 
   - "No anti-tip wall strap included — must buy separately for safety"
   - "Top surface scratches if you slide decor without felt pads"
+
 ---
 
 If you've been scrolling past a dozen "mid-century modern" dressers that all look identical, the AOGLLATI Rattan Dresser stops the scroll. It's the one with actual woven rattan door fronts — not a wood-grain print pretending to be boho. At 4.5 stars from 225+ shoppers, it's clearly connecting with people who want warmth without the farmhouse cliché. But is it a real furniture piece or a weekend DIY project wearing a costume? I dug through the specs, the build, and what owners actually say.

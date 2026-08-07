@@ -1,4 +1,5 @@
 ---
+
 title: "Product Review: Owala SmoothSip Slider Coffee Tumbler — Leak-Proof Travel Mug"
 seo_title: "Owala SmoothSip Slider Coffee Tumbler Review | TSV"
 meta_description: "Owala SmoothSip Slider coffee tumbler keeps drinks hot or cold without leaking. Read our review of this 4.6-star insulated travel mug with 12K+ reviews."
@@ -10,30 +11,31 @@ amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF472VMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/311JdFvhtVL._AC_SL1200_.jpg"
 image_alt: "Owala SmoothSip Slider insulated stainless steel coffee tumbler in Vanilla Bean color with slider lid and handle"
-keywords:
+keywords: 
   - "Owala SmoothSip Slider"
   - "insulated coffee tumbler"
   - "leak proof travel mug"
   - "Owala coffee mug"
   - "best travel coffee cup"
-pros:
+pros: 
   - "Leak-proof slider lid — no spills even when tipped upside down"
   - "Keeps hot drinks warm for 3-4 hours and iced drinks cold even longer"
   - "Comfortable handle for easy carrying on commutes"
   - "Smooth sip-through spout with controlled flow"
   - "Durable stainless steel construction with attractive finish"
-cons:
+cons: 
   - "12 oz capacity may be too small for large coffee drinkers"
   - "Handle design may prevent fitting in some car cup holders"
   - "Hand washing recommended to preserve lid and finish"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "Does the Owala SmoothSip Slider keep coffee hot?"
     answer: "Yes, the Owala SmoothSip Slider keeps hot drinks warm for 3-4 hours and iced drinks cold even longer. The double-wall insulation is effective for daily commutes and office use."
   - question: "Is the Owala coffee tumbler leak proof?"
     answer: "Yes, the SmoothSip Slider lid is fully leak proof. One reviewer confirms they tested it by dropping the tumbler and it didn't leak at all. It's safe for tossing in a bag or carrying through a commute."
   - question: "Does the SmoothSip Slider fit in a cup holder?"
     answer: "The 12 oz SmoothSip Slider fits most standard cup holders, though the handle may interfere in tighter spaces. One reviewer noted it may not fit with the handle oriented in certain positions. It's best suited for commuters who carry it by the handle."
+
 ---
 
 The Owala SmoothSip Slider enters a crowded field of insulated coffee tumblers, but it brings one feature that actually matters: a lid you can trust. After testing this 14oz stainless steel tumbler alongside the Yeti, Stanley, and Contigo options, the SmoothSip earns its 4.6-star rating from over 12,600 buyers — with a few caveats worth knowing before you click buy.

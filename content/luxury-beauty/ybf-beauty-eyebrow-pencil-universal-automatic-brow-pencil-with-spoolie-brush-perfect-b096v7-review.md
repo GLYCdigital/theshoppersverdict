@@ -1,4 +1,5 @@
 ---
+
 title: "ybf Beauty Eyebrow Pencil - Universal Automatic Brow Pencil "
 seo_title: "ybf Beauty Eyebrow Pencil - Universal Automatic Br Review"
 meta_description: "Our full ybf beauty eyebrow pencil - universal automatic brow pencil  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096V7TQQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DDUX3Z7aL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one-brow-pencil-fits-all claim sounds like marketing hype. Here's why it actually holds up.**

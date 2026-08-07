@@ -1,4 +1,5 @@
 ---
+
 title: "Spice Classics Egg Shade Food Color"
 seo_title: "Spice Classics Egg Shade Food Color Review: Verdict | TSV"
 meta_description: "Our full spice classics egg shade food color review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08PTP3NL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91CfggaQMUL._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested a lot of egg dye kits, and most are either overpriced gimmicks or barely tint the shell. The Spice Classics Egg Shade Food Color sits in a sweet spot — it's cheap, it works, and it's earned a 4.8-star average from 240 ratings for a reason.

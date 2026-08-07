@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron K4 Wireless Bluetooth/USB Wired Gaming Mechanical K"
 seo_title: "Keychron K4 Wireless Bluetooth/USB Wired Gaming Me Review"
 meta_description: "Our full keychron k4 wireless bluetooth/usb wired gaming mechanical k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08T1F8P4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xgXGaP2-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Keychron K4 solves a problem you didn't know you had: it's a full-function keyboard that doesn't eat your entire desk.**

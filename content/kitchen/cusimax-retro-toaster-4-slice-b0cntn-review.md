@@ -1,4 +1,5 @@
 ---
+
 title: "CUSIMAX retro toaster 4 slice"
 seo_title: "CUSIMAX Retro Toaster 4 Slice Review (2026): Worth It?"
 meta_description: "CUSIMAX retro 4-slice toaster review: even browning, wide slots, real downsides. Is this stylish 4.4-star appliance worth your counter space? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNTNFP7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717h2nCm8aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide 1.5-inch slots fit thick sourdough slices and bagels without forcing"
   - "Independent dual controls let you toast two slices while keeping two warm — genuinely useful for mixed households"
   - "Retro enamel finish (available in mint, cream, and red) hides fingerprints far better than stainless steel"
-cons:
+cons: 
   - "Single-sided toasting is uneven — the exposed side of a bagel or English muffin comes out noticeably lighter"
   - "Crumb tray sits flush with the base; you'll need a butter knife or small brush to pry it out for cleaning"
   - "Cord is only 28 inches — placement is dictated by your outlet, not your counter layout"
+
 ---
 
 Let's be honest: most four-slice toasters are bulky aluminum boxes that burn one side and under-toast the other. The CUSIMAX retro toaster tries to be different — it's got the pastel enamel looks of a 1950s diner and a dual-control system that actually makes sense. After 220 Amazon ratings holding a 4.4 average, it's worth a closer look. Here's what you're actually getting.

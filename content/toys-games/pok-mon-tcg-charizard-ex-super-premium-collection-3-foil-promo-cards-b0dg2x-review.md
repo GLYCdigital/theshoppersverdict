@@ -1,4 +1,5 @@
 ---
+
 title: "PokÃ©mon TCG: Charizard ex Super-Premium Collection (3 Foil "
 seo_title: "PokÃ©mon TCG: Charizard ex Super-Premium Collectio Review"
 meta_description: "Our full pokã©mon tcg: charizard ex super-premium collection (3 foil  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DG2XTYDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VESsb4YTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: you're not buying this for the booster packs. You're buying it for the Charizard ex promos — and that's exactly the right reason.

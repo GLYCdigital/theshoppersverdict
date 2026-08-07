@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Grocery, Dark Chocolate Chunks, 12 Oz"
 seo_title: "Amazon Grocery Dark Chocolate Chunks Review (12 Oz)"
 meta_description: "Honest review of Amazon Grocery Dark Chocolate Chunks 12 Oz. We tested flavor, melt quality, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTB5WZFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713OGIShzVL._SL1500_.jpg"
-pros:
+pros: 
   - "True dark chocolate flavor (60% cacao) with minimal sweetness — works for baking and snacking"
   - "Chunk format melts evenly and folds into batters better than standard chips"
   - "Consistently fresh batches — multiple buyers report no bloom or stale taste"
-cons:
+cons: 
   - "No resealable zipper — bag must be clipped or transferred after opening"
   - "Chunk sizes vary noticeably within the same bag, which can affect uniform melting"
+
 ---
 
 **Skip the baking aisle. This 12-ounce bag of dark chocolate chunks from Amazon Grocery might be the most underrated value in your pantry right now.**

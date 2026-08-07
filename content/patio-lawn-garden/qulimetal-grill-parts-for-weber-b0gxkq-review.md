@@ -1,4 +1,5 @@
 ---
+
 title: "QuliMetal Grill Parts for Weber"
 seo_title: "QuliMetal Grill Parts for Weber Review: Verdict | TSV"
 meta_description: "Our full qulimetal grill parts for weber review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXKQ98M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ih8+VQcYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # QuliMetal Grill Parts for Weber: The Replacement Kit That Outperforms Factory

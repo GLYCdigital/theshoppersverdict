@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Nicoli Centerset Brushed Gold Bathroom Faucet with Spr"
 seo_title: "Delta Nicoli Brushed Gold Faucet Review: 2026 Buyer's Guide"
 meta_description: "Delta Nicoli centerset brushed gold faucet review: 4.8/5 rating, pull-down sprayer, Diamond Seal technology. Is it worth $155? Find out here."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK9X9XH2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TfDW1JjVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Diamond Seal Technology eliminates the need for a rubber washer, reducing leak points and extending valve life"
   - "Pull-down sprayer with Touch-Clean nozzles makes rinsing the sink and cleaning the faucet itself genuinely easier"
   - "Brushed gold finish is applied via PVD (physical vapor deposition), which resists fingerprints and corrosion far better than painted finishes"
-cons:
+cons: 
   - "Centerset configuration requires exactly 4 inches between outer holes — won't fit 8-inch widespread setups without an adapter plate"
   - "Sprayer hose adds drag when pivoting the spout; you'll feel slight resistance when moving it side to side"
   - "Brushed gold is a statement finish — it won't match chrome or stainless fixtures in the same bathroom without looking intentional"
+
 ---
 
 The Delta Nicoli Centerset with Sprayer is the rare bathroom faucet that actually earns its premium price. At $155, it's not cheap — but after 240 ratings averaging 4.8 stars, buyers consistently say it looks and performs like a fixture costing twice as much. Here's the honest breakdown.

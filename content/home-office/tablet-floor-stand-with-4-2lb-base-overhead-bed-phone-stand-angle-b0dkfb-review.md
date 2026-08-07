@@ -1,4 +1,5 @@
 ---
+
 title: "Tablet Floor Stand with 4.2LB Base,Overhead Bed Phone Stand "
 seo_title: "Tablet Floor Stand with 4.2LB Base,Overhead Bed Ph Review"
 meta_description: "Our full tablet floor stand with 4.2lb base,overhead bed phone stand  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKFB2D1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qipsMFv+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tablet Floor Stand with 4.2LB Base** is the rare accessory that actually solves the "tablet in bed" problem without requiring you to rig a pillow fort or buy a separate over-bed mount. At 4.1 stars from 204 shoppers, it's not perfect — but for the right buyer, it's a game-changer.

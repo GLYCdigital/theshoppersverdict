@@ -1,4 +1,5 @@
 ---
+
 title: "The Army Painter, Warpaints Fanatic Flexible Triad: 6 x 18 m"
 seo_title: "The Army Painter, Warpaints Fanatic Flexible Triad Review"
 meta_description: "Our full the army painter, warpaints fanatic flexible triad: 6 x 18 m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D5QSR5LG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p33QRvx8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a paint rack trying to figure out which shade counts as a "highlight" for your base color, The Army Painter's Warpaints Fanatic Flexible Triad exists specifically to end that headache. This 3-bottle set gives you a pre-matched base, layer, and highlight in one color family — but as with any hobby paint, the real question is whether the formula earns its place on your wet palette.

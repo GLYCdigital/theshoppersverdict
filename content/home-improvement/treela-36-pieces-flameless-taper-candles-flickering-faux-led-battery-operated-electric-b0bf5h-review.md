@@ -1,4 +1,5 @@
 ---
+
 title: "Treela 36 Pieces Flameless Taper Candles Flickering Faux LED"
 seo_title: "Treela 36 Pieces Flameless Taper Candles Flickerin Review"
 meta_description: "Our full treela 36 pieces flameless taper candles flickering faux led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BF5H1FRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BY9aaSqPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've tested more flameless candles than I care to admit. Most are either blindingly fake — that harsh blue-white LED that screams "I'm a flashlight" — or they cost a small fortune per candle. The Treela 36-piece set sits in a rare middle ground: it actually looks like a taper candle, and at this quantity, the per-unit cost is absurdly low.

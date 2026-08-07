@@ -1,23 +1,25 @@
 ---
+
 title: "AIRBANK Mini Bike Pump with Gauge, Pocket 2 PRO, 120 PSI Ele"
 seo_title: "AIRBANK Pocket 2 PRO Review: 120 PSI Mini Pump Tested"
 meta_description: "AIRBANK Pocket 2 PRO mini bike pump review: 120 PSI, built-in gauge, compact design. Real performance tests, pros, cons, and who should buy it."
 slug: "airbank-mini-bike-pump-with-gauge-pocket-2-pro-120-psi-electric-b0dszt-review"
 image_alt: "AIRBANK Pocket 2 PRO mini bike pump with pressure gauge held next to a bicycle tire"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSZTZ3NM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CAtFJJt0L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Accurate analog gauge reads true pressure — no more guessing between 60 and 80 PSI"  
   - "Aluminum barrel and CNC-machined head survive drops on gravel and garage concrete"  
   - "Folds to 6.3 inches; fits inside a jersey pocket or saddle bag without bulk"  
-cons:  
+cons: 
   - "Presta valve requires the included adapter — lose it and you're stuck with Schrader only"  
   - "120 PSI rating is optimistic; realistic max is around 100 PSI with sustained effort"
+
 ---
 
 You know that sinking feeling when your rear tire goes soft at mile 40, and the only pump you brought is a glorified straw? The AIRBANK Pocket 2 PRO aims to be the last mini pump you'll ever need to carry. At 4.4 stars across 220 ratings, it's clearly doing something right. Here's what 40+ miles of testing and a deep dive into buyer feedback revealed.

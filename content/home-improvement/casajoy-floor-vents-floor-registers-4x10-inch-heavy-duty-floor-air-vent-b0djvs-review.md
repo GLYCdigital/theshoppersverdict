@@ -1,4 +1,5 @@
 ---
+
 title: "CASAJOY Floor Vents Floor Registers 4x10 inch,Heavy Duty Flo"
 seo_title: "CASAJOY 4x10 Floor Vent Review: Heavy-Duty Steel Register"
 meta_description: "CASAJOY 4x10 floor vent review: heavy-duty steel register with adjustable louvers. See real pros, cons, and fitment tips before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJVSDDZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+ltBEnOdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 16-gauge steel construction with a powder-coated finish that resists scratches and rust far better than stamped aluminum registers"
   - "Adjustable louvers stay put once set — no flimsy flapping or re-adjusting every week"
   - "Recessed screw holes let the register sit flush with the floor, so it won't catch socks or vacuum attachments"
-cons:
+cons: 
   - "Paint finish can chip if you drop it on concrete during installation — handle carefully"
   - "No built-in filter slot, so dust still settles on the louvers and needs periodic wiping"
   - "The 4x10 size is less common than 4x12, so double-check your duct opening before ordering"
+
 ---
 
 Let's be honest about floor vents: nobody thinks about them until they're stepping on a bent, rusted, rattling piece of stamped metal that's been in the house since 1987. The CASAJOY 4x10 floor register is the kind of replacement that makes you wonder why you waited so long. With 229 ratings averaging 4.6 stars, this isn't a niche product — it's a solid, workhorse HVAC component that does exactly what it should.

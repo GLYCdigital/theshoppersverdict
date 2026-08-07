@@ -1,4 +1,5 @@
 ---
+
 title: "Stretchy Bluey | Super Stretchy Toy Figure of Bluey with Squ"
 seo_title: "Stretchy Bluey | Super Stretchy Toy Figure of Blue Review"
 meta_description: "Our full stretchy bluey | super stretchy toy figure of bluey with squ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVR4C3L2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qRKKgWKnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen the show. You know Bluey. But this isn’t another static vinyl figure that ends up in the bottom of a toy bin. The Stretchy Bluey from the Super Stretchy line is a different kind of toy — one your kid will actually grab, pull, and squeeze until it’s a puddle of blue goo. And then it pops right back. Here’s the honest breakdown before you hit buy.

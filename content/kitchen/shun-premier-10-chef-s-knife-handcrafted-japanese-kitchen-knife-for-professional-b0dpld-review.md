@@ -1,7 +1,8 @@
 ---
-title: "Shun Premier 10\" Chef's Knife, Handcrafted Japanese Kitchen "
-seo_title: "Shun Premier 10\" Chef's Knife, Handcrafted Japanes Review"
-meta_description: "Our full shun premier 10\" chef's knife, handcrafted japanese kitchen  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Shun Premier 10\ Chef's Knife, Handcrafted Japanese Kitchen "
+seo_title: "Shun Premier 10\ Chef's Knife, Handcrafted Japanes Review"
+meta_description: "Our full shun premier 10\ chef's knife, handcrafted japanese kitchen  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "shun-premier-10-chef-s-knife-handcrafted-japanese-kitchen-knife-for-professional-b0dpld-review"
 image_alt: "Shun Premier 10 Chefs Knife, Handcrafted Japanese Kitchen Knife for Professional and Home Chefs, VG-MAX Core with Damasc"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DPLD2W7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ut1un-2IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Shun Premier 10" Chef's Knife sits at a peculiar crossroads. It's not the flashiest knife Shun makes (that's the Kanso or the Fuji line), but it's the one that professional cooks and serious home chefs keep coming back to. The 10-inch blade length is the headline here — it's a meaningful step up from the standard 8-inch workhorse, and it changes how you approach a pile of vegetables or a large roast.

@@ -1,4 +1,5 @@
 ---
+
 title: "VTech Race and Discover Driver"
 seo_title: "VTech Race and Discover Driver Review: Verdict | TSV"
 meta_description: "Our full vtech race and discover driver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BS3KBQLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yM2ABHYgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The VTech Race and Discover Driver is the rare toddler toy that earns its keep. It's not just a plastic steering wheel that makes noise — it's a properly designed learning tool that happens to look like a fun car dashboard. At roughly the size of a dinner plate (about 12 inches wide), it's substantial enough to feel real to little hands but compact enough to toss in a diaper bag.

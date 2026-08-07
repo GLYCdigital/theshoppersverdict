@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Garlic Powder, 2.01 Ounce"
 seo_title: "365 Whole Foods Garlic Powder Review (2026): Honest Verdict"
 meta_description: "365 by Whole Foods garlic powder review: Is this 2.01 oz jar worth it? We break down flavor, value, and real customer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D57F51RF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pBBilNclL._SL1000_.jpg"
-pros:
+pros: 
   - "Reliable, consistent garlic flavor that doesn't turn bitter when sautéed or cooked at higher heat"
   - "Clean label — just garlic, no anti-caking agents or fillers like silicon dioxide you'll find in many competing brands"
   - "2.01 oz size is practical for regular use without going stale before you finish the jar"
-cons:
+cons: 
   - "Price per ounce runs higher than bulk-value brands like McCormick or Great Value — you're paying for the Whole Foods name"
   - "No resealable inner seal or shaker top — the standard screw lid can clump if stored near steam or humidity"
+
 ---
 
 Let's be blunt: most garlic powders are interchangeable dust. This one actually isn't. The 365 by Whole Foods Market Garlic Powder has earned a 4.6-star average across 229 Amazon ratings, and after digging through the feedback and the label, here's what that score actually buys you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Minn Kota Talon Shallow Water Anchor"
 seo_title: "Minn Kota Talon Shallow Water Anchor Review: Verdict | TS"
 meta_description: "Our full minn kota talon shallow water anchor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDVGGG4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41IShlSpRVL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever spent ten frustrating minutes trying to hold position on a windy flat with a rope anchor, only to drift 30 feet off your spot while you fiddle with knots, the Minn Kota Talon is the answer to a prayer you didn't know you were praying. This is a shallow water anchoring system that replaces the entire anchor-and-rope dance with a button press. At 4.6 stars from 229 Amazon ratings, it's clear anglers are impressed — but let's dig into what you're actually getting for your money.

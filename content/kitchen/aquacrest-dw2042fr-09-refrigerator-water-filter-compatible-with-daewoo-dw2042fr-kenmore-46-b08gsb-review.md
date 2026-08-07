@@ -1,4 +1,5 @@
 ---
+
 title: "AQUACREST DW2042FR-09 Refrigerator Water Filter, Compatible"
 seo_title: "AQUACREST DW2042FR-09 Water Filter Review: Worth It?"
 meta_description: "AQUACREST DW2042FR-09 refrigerator water filter review: Does this compatible filter for Daewoo/Kenmore deliver clean water? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GSB8HD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OhTsOHPbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Certified to NSF/ANSI 42 and 372 standards, so you're not gambling on water safety with a third-party filter"
   - "Simple twist-and-lock installation that takes under two minutes — no tools, no plumber, no mess"
   - "Priced significantly below OEM Daewoo filters while maintaining comparable filtration performance"
-cons:
+cons: 
   - "Compatibility is limited to Daewoo and specific Kenmore models — won't fit Frigidaire, Samsung, or LG fridges"
   - "Some users report a slight plastic taste during the first tank of water that requires a 5-10 gallon flush"
   - "No expiration date printed on the filter housing, so you'll need to track the 6-month replacement cycle yourself"
+
 ---
 
 Refrigerator water filters are the kind of product nobody thinks about until the "Replace Filter" light starts blinking. Then it's a scramble: pay $40+ for the OEM cartridge, or gamble on a cheaper compatible? The AQUACREST DW2042FR-09 sits firmly in the second camp, and after digging through 229 ratings and the spec sheet, here's the honest picture.

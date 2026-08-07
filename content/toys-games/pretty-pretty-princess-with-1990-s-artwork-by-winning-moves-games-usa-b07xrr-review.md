@@ -1,4 +1,5 @@
 ---
+
 title: "Pretty, Pretty, Princess with 1990's Artwork by Winning Move"
 seo_title: "Pretty, Pretty, Princess with 1990's Artwork by Wi Review"
 meta_description: "Our full pretty, pretty, princess with 1990's artwork by winning move review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07XRR3QZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ezhpD5NcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Pretty, Pretty Princess (1990's Edition): The Retro Reissue That Actually Delivers

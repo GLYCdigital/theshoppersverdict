@@ -1,4 +1,5 @@
 ---
+
 title: "Brixwell Plastic Window Grille Kit in White Finish With 12 T"
 seo_title: "Brixwell Plastic Window Grille Kit Review: 12 Panels, White"
 meta_description: "Brixwell plastic window grille kit review: 12 white snap-in muntins. Real-world fit, durability, and whether they beat wood or aluminum options."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B64M3ZGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-4uI5+JrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Snap-in design installs in under 10 minutes per window with zero tools"
   - "UV-stabilized PVC resists yellowing and won't rot, warp, or need repainting"
   - "White finish blends convincingly with most standard vinyl window frames"
-cons:
+cons: 
   - "Not adjustable in length — you must cut or order exact widths"
   - "Thinner profile than real divided-light muntins; visible from close range"
+
 ---
 
 If you want the colonial look of divided-light windows without paying $800 per window for true muntins, the Brixwell Plastic Window Grille Kit is the shortcut. But shortcuts have tradeoffs, and this one cuts corners in a few places worth knowing before you buy.

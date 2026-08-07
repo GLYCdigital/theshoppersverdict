@@ -1,4 +1,5 @@
 ---
+
 title: "ENDGAME GEAR OP1w 4k v2 Wireless Gaming Mouse"
 seo_title: "ENDGAME GEAR OP1w 4k v2 Review: Is It Worth It?"
 meta_description: "ENDGAME GEAR OP1w 4k v2 wireless mouse review: 4k polling, 38g weight, build quality, battery life, and real buyer feedback. See who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9PBD9Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wjQtur6-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "38g shell with no holes — ultra-light but solid, no flex or creaking"
   - "True 4000Hz wireless polling with sub-0.5ms click latency, not marketing hype"
   - "Hot-swap switch sockets let you change click feel without soldering"
-cons:
+cons: 
   - "Battery life drops hard at 4K polling — expect 2–3 days, not the advertised week"
   - "No Bluetooth; USB receiver only, and the dongle is easy to lose"
   - "Small-medium shape with low hump — palm grippers with large hands will cramp"
+
 ---
 
 **The 38g mouse that actually delivers on the esports promise — if your grip matches**

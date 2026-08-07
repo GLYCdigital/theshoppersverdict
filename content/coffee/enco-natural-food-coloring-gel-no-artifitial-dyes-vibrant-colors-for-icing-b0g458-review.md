@@ -1,4 +1,5 @@
 ---
+
 title: "ENCO Natural Food Coloring Gel No artifitial dyes - Vibrant"
 seo_title: "ENCO Natural Food Coloring Gel Review: Vibrant, Dye-Free"
 meta_description: "ENCO Natural Food Coloring Gel review: 12 vibrant dye-free shades for frosting and baking. See how it performs, where it falls short, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G458ZC7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O23tc88CL._SL1500_.jpg"
-pros:
+pros: 
   - "True gel consistency — a pea-sized drop colors a full cup of frosting without thinning it, unlike watery liquid dyes"
   - "12 vibrant shades that actually stay true after baking, not just in the bowl"
   - "No artificial dyes, no bitter aftertaste — uses vegetable, fruit, and plant extracts instead"
-cons:
+cons: 
   - "Color payoff varies by shade — red and blue need more gel than yellow or green to reach full intensity"
   - "No dropper tip — you squeeze from the tube, which makes precise small-batch coloring trickier than expected"
   - "Natural ingredients can fade slightly when exposed to prolonged sunlight on decorated cookies"
+
 ---
 
 Let’s be honest about what natural food coloring usually means: muted, muddy colors that look pretty on the Instagram post but sad on your actual buttercream. The ENCO Natural Food Coloring Gel set aims to fix that with 12 vibrant, dye-free shades that claim to hold their own against synthetic competitors. After digging through 215 ratings and testing the performance claims, here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Creator 3 in 1 Red Dragon Toy, Transforms from Dragon t"
 seo_title: "LEGO Creator 3 in 1 Red Dragon Toy, Transforms fro Review"
 meta_description: "Our full lego creator 3 in 1 red dragon toy, transforms from dragon t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY9Q4ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sY+SNj-OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEGO Creator 3 in 1 Red Dragon: Three Creatures, One Solid Set

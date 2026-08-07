@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Powered Sprayer 2 Gallon, 2025 Upgrade Electric Spra"
 seo_title: "2025 Battery Sprayer Review: 2-Gallon Electric Power"
 meta_description: "Read our 2025 2-gallon battery sprayer review. 4.2★ from 210 buyers. See how it handles cleaning, weed control & more. Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DX614L42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wLpuBUeFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rechargeable battery delivers consistent pressure across the full 2-gallon tank — no pumping mid-task"
   - "Adjustable nozzle and wand reach under eaves and into tight patio corners without stooping"
   - "Translucent tank with visible fill lines makes mixing concentrate and water genuinely simple"
-cons:
+cons: 
   - "Plastic wand threads feel thin; hand-tighten only or you risk cross-threading"
   - "Battery adds noticeable weight when the tank is full — shoulder strap is essential, not optional"
   - "No battery level indicator; pressure drops suddenly near the end of a charge"
+
 ---
 
 Let’s be honest: hand-pump sprayers are cheap for a reason. Your shoulder pays for that savings. This 2025 upgrade 2-gallon electric sprayer from the B0DX614L42 listing is the kind of tool that makes you wonder why you didn’t switch sooner — until you hit its quirks.

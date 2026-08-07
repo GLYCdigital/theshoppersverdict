@@ -1,4 +1,5 @@
 ---
+
 title: "Zonon 6 Rolls 150 Feet Carpet Marker Strips, Floor Tape for "
 seo_title: "Zonon 6 Rolls 150 Feet Carpet Marker Strips, Floor Review"
 meta_description: "Our full zonon 6 rolls 150 feet carpet marker strips, floor tape for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4LCSTQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EpiNaRtOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most floor tape is either duct tape that ruins your floors or cheap vinyl that curls up within a week. The Zonon Carpet Marker Strips sit in a rare middle ground — they’re actually designed for temporary marking, and they mostly nail it.

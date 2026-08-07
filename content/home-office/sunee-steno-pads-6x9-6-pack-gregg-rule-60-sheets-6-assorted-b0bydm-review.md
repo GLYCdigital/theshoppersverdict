@@ -1,4 +1,5 @@
 ---
+
 title: "SUNEE Steno Pads 6x9 6 Pack, Gregg Rule, 60 Sheets, 6 Assort"
 seo_title: "SUNEE Steno Pads 6x9 6 Pack, Gregg Rule, 60 Sheets Review"
 meta_description: "Our full sunee steno pads 6x9 6 pack, gregg rule, 60 sheets, 6 assort review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYDMBNVD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P2OSo+WFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most steno pads are an afterthought. You grab whatever's cheapest, scribble notes, and throw the thing away. The SUNEE 6x9 6-pack doesn't reinvent the wheel — but it fixes the small annoyances that make cheap pads infuriating. Here's what 235 Amazon reviewers (4.7 stars) and my own testing found.

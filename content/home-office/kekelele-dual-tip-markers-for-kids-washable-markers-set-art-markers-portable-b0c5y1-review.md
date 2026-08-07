@@ -1,4 +1,5 @@
 ---
+
 title: "Kekelele Dual Tip Markers for Kids, Washable Markers Set, Ar"
 seo_title: "Kekelele Dual Tip Markers for Kids, Washable Marke Review"
 meta_description: "Our full kekelele dual tip markers for kids, washable markers set, ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5Y1JN1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oglWIbDML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kekelele Dual Tip Markers aren't trying to be professional art supplies.** They're trying to be the markers that survive a preschooler's afternoon — and based on 235 Amazon ratings averaging 4.7 stars, they're succeeding. Here's who should buy them and who should keep scrolling.

@@ -1,4 +1,5 @@
 ---
+
 title: "Awapuhi Wild Ginger by Paul Mitchell Intensive Treatment, Re"
 seo_title: "Awapuhi Wild Ginger Intensive Treatment Review (2026)"
 meta_description: "Honest Awapuhi Wild Ginger by Paul Mitchell Intensive Treatment review: does this keratin-rich mask rebuild dry, damaged hair? Real results, pros, cons."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ5NNNZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jydqEcAXL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably softer, more manageable hair after a single 5-minute application — most reviewers confirm it"
   - "Keratin + awapuhi extract formula targets actual structural damage, not just surface frizz"
   - "Works on both color-treated and virgin hair without weighing fine textures down"
-cons:
+cons: 
   - "The jar packaging is awkward in the shower — wet hands slip on the smooth plastic lid"
   - "Scent is strong and lingers for hours; if you're sensitive to fragrance, this will bother you"
   - "Results fade after 2–3 washes, so it's a maintenance product, not a one-and-done fix"
+
 ---
 
 ## Is This the Repair Treatment Your Hair's Been Begging For?

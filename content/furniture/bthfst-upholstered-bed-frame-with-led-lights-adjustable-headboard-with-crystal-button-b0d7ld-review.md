@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST Upholstered Bed Frame with LED Lights, Adjustable Hea"
 seo_title: "BTHFST Upholstered Bed Frame Review: LED, Adjustable Headboard"
 meta_description: "Honest BTHFST upholstered bed frame review with LED lights and adjustable headboard. Build quality, real owner feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7LDS772/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f+QdXizJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly with labeled parts; most owners report full setup in under 45 minutes"
   - "LED lighting is genuinely functional — adjustable brightness and color modes, not just a gimmick"
   - "Adjustable headboard angles (multiple positions) work well for reading or watching TV in bed"
-cons:
+cons: 
   - "LED power supply is non-detachable from the frame; moving the bed requires unplugging the whole unit"
   - "Fabric upholstery shows dust and pet hair quickly, especially in darker color options"
+
 ---
 
 **The bed frame that does double duty — but read this before you buy**

@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Wall Sconces Set of 2, Farmhouse Vanity Lights Fixt"
 seo_title: "EDISHINE Wall Sconces Review: Farmhouse Vanity Lights Worth It?"
 meta_description: "Honest EDISHINE Wall Sconces set of 2 review: build quality, installation, brightness, and whether these farmhouse vanity lights deliver at 4.7 stars."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5R53SGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918Bbo-EkBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled, pre-wired fixture with all mounting hardware included — installs in under 30 minutes with basic tools"
   - "Dual finish options (matte black/brushed nickel) with clear seeded glass that diffuses light without harsh glare"
   - "Compatible with dimmer switches and accepts standard E26 bulbs — no proprietary bulb trap"
-cons:
+cons: 
   - "Backplate is only 4.7 inches wide — won't cover larger or non-standard junction boxes"
   - "Bulbs not included; the Edison-style look requires a separate purchase (typically $10–15 extra)"
+
 ---
 
 # EDISHINE Wall Sconces Review: Farmhouse Vanity Lights That Actually Deliver

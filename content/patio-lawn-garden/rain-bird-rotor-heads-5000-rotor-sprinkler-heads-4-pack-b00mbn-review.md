@@ -1,4 +1,5 @@
 ---
+
 title: "Rain Bird Rotor Heads 5000 Rotor Sprinkler Heads. 4-Pack"
 seo_title: "Rain Bird Rotor Heads 5000 Rotor Sprinkler Heads.  Review"
 meta_description: "Our full rain bird rotor heads 5000 rotor sprinkler heads. 4-pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00MBNRXBI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7156jqWPMbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Rain Bird 5000 Rotor Heads Review: The 4-Pack That Ends Patchy Lawns

@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid Classic Slotted Turner, One Size"
 seo_title: "KitchenAid Classic Slotted Turner, One Size Review: Verdi"
 meta_description: "Our full kitchenaid classic slotted turner, one size review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08T7VH675/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719QAIDZNCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most spatulas are afterthoughts. You grab whatever's in the drawer, flip your burger, and move on. The KitchenAid Classic Slotted Turner, however, is the kind of tool that makes you notice the difference — and at roughly $10, it's the rare kitchen upgrade that won't make you wince at checkout.

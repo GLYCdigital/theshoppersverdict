@@ -1,4 +1,5 @@
 ---
+
 title: "essence | Lash Princess False Waterproof Mascara Cruelty Fre"
 seo_title: "essence Lash Princess Waterproof Mascara Review: Does It Work?"
 meta_description: "Honest essence Lash Princess False Waterproof Mascara review: volume, wear time, smudging, and whether it beats the original. Read before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B66BXH5N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JKC7rsK2L._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers dramatic false-lash volume in one coat — the fiber wand grabs every lash, even short straight ones"
   - "Holds a curl through humidity and tears; genuinely waterproof, not just water-resistant"
   - "Cruelty-free and budget-friendly at under $6 — performs like department store mascaras four times the price"
-cons:
+cons: 
   - "Removal is a battle; you'll need an oil-based remover or double cleanse or you'll wake up with raccoon eyes"
   - "Can flake by hour 10 on oily lids — carry a mirror for touch-ups if you're out all day"
   - "The wand is large; lower lash line application takes a steady hand or you'll smudge"
+
 ---
 
 **The $6 mascara that outperforms $30 tubes — but it comes with a catch.**

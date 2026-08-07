@@ -1,4 +1,5 @@
 ---
+
 title: "EXFEIN Diamond Tile Hole Saw Kit - Diamond Core Drill Bits &"
 seo_title: "EXFEIN Diamond Tile Hole Saw Kit Review (2026): Worth It?"
 meta_description: "EXFEIN Diamond Tile Hole Saw Kit review: 6 sizes, wet/dry drilling, porcelain-tough. Real user results, downsides, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLNSFRMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bZnQ6WplL._SL1500_.jpg"
-pros:
+pros: 
   - "Vacuum-brazed diamond edge cuts through porcelain and ceramic without chipping — no need to swap to a carbide bit for tough tile"
   - "Six most-used sizes (6mm–50mm) cover faucet holes, shower heads, and outlet boxes in one kit, with a centering guide included"
   - "Works dry or with water; the 0.4-inch depth lets you cut through standard 3/8-inch tile in a single pass"
-cons:
+cons: 
   - "Centering guide is plastic and wears quickly if you use it heavily — metal guide would last longer"
   - "Sizes below 10mm are slow on porcelain; you'll need patience and steady pressure, not force"
+
 ---
 
 If you've ever watched a diamond hole saw skate across a $12 porcelain tile and leave a crack behind, you know the pain. The EXFEIN Diamond Tile Hole Saw Kit aims to end that — and with a 4.7-star average across 235 ratings, it's largely succeeding.

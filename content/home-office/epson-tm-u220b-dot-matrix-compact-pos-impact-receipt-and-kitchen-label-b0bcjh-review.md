@@ -1,4 +1,5 @@
 ---
+
 title: "Epson TM-U220B Dot Matrix Compact POS Impact Receipt and Kit"
 seo_title: "Epson TM-U220B Review: Dependable Dot Matrix POS Printer"
 meta_description: "Read our honest Epson TM-U220B dot matrix POS printer review. See real-world performance, durability, ribbon kit details, and who should buy this receipt printer."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BCJHZ9WF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813xdIUL3oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Prints receipts that actually last — thermal paper fades, but impact ink doesn't, making it ideal for records that must survive for years"
   - "Cut-resistant steel print head rated for 200 million characters, so this thing outlasts several thermal printers at similar price points"
   - "Compact 5.9-inch deep footprint fits tight counter spaces where most receipt printers won't go"
-cons:
+cons: 
   - "Dot matrix is genuinely loud — the classic clatter is unmistakable and will be heard across a small store or office"
   - "Max 42-column print width means you're working with narrow receipts; no option for wider 80-column kitchen tickets"
   - "Setup requires driver installation and careful dip-switch configuration — not plug-and-play out of the box"
+
 ---
 
 If you've ever watched a thermal receipt slowly fade to blank in a shoebox of tax records, you already understand why the Epson TM-U220B still has a place in 2026. This is a 9-pin dot matrix printer that uses actual ink ribbons, producing receipts that remain legible for decades rather than months. That alone justifies its existence in a world of disposable thermal prints.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler K-965"
 seo_title: "Kohler K-965 Review: Verdict | TSV"
 meta_description: "Our full kohler k-965 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYL4B42S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zmDtieA7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most faucets in this price range are a gamble. You're either getting a decent brand name with plastic guts, or a no-name import that looks fine in photos but drips within a year. The Kohler K-965 sits in a different category entirely, and after 229 buyers weighed in with a 4.6-star average, the consensus is clear — this is one of the more reliable single-handle kitchen faucets you can install without hiring a plumber.

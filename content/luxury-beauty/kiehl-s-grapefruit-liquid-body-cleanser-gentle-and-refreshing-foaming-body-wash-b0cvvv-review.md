@@ -1,4 +1,5 @@
 ---
+
 title: "Kiehl's Grapefruit Liquid Body Cleanser, Gentle and Refreshi"
 seo_title: "Kiehl's Grapefruit Liquid Body Cleanser, Gentle an Review"
 meta_description: "Our full kiehl's grapefruit liquid body cleanser, gentle and refreshi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CVVV12N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m2ARdJNJL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the prestige-beauty noise. Kiehl's Grapefruit Liquid Body Cleanser has been a counter staple for decades, and the 4.7-star average across 235 ratings suggests it's more than just packaging hype. I've been using it daily for a month, and here's what actually matters if you're considering the splurge.

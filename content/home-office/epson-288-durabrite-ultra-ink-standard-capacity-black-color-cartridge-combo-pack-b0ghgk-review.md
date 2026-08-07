@@ -1,4 +1,5 @@
 ---
+
 title: "EPSON 288 DURABrite Ultra Ink Standard Capacity Black & Colo"
 seo_title: "EPSON 288 DURABrite Ultra Ink Review: Worth It? (2026)"
 meta_description: "EPSON 288 DURABrite Ultra ink combo pack review: pigment-based smudge-proof prints, page yields, and real buyer feedback. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHGKFDBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kkCMj5RRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pigment-based formula resists water smudging and highlighter streaks — a rare trait in standard-capacity ink"
   - "Genuine EPSON formulation prevents printhead clogging in DURABrite-compatible printers, unlike third-party refills"
   - "Black cartridge yields roughly 200 pages, enough for a month of typical home-office printing"
-cons:
+cons: 
   - "Standard capacity means higher cost per page than high-yield XL variants — math matters for heavy printers"
   - "Only three color cartridges in the combo (cyan, magenta, yellow), so frequent photo printing will drain them fast"
+
 ---
 
 Let's cut through the ink aisle confusion. You're staring at a small box of EPSON 288 cartridges, wondering if you're overpaying for the brand name or if the cheap generics will wreck your printer. I've tested both routes, and here's what I found.

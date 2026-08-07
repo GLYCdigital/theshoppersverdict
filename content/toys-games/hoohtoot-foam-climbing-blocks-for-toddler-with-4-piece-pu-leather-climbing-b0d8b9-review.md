@@ -1,4 +1,5 @@
 ---
+
 title: "Hoohtoot Foam Climbing Blocks for Toddler: with 4-Piece PU L"
 seo_title: "Hoohtoot Foam Climbing Blocks Review: 4-Piece Set for Toddlers"
 meta_description: "Hoohtoot 4-piece foam climbing blocks for toddlers: durable PU leather, lightweight, easy to clean. Read our honest review before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8B97CKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xj8fTC3wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full PU leather cover (not thin fabric) that wipes clean in seconds and holds up to daily toddler abuse"
   - "Firm high-density foam that supports climbing without collapsing — rated for up to 110 lbs"
   - "Slip-resistant base texture keeps blocks from sliding on hardwood or tile floors"
-cons:
+cons: 
   - "Cover is not removable — machine washing isn't possible, so you're limited to spot cleaning"
   - "Only 4 pieces means limited building configurations compared to larger 8-10 piece sets"
+
 ---
 
 If your living room has become an obstacle course of pillows and couch cushions, the Hoohtoot Foam Climbing Blocks might just save your back — and your sofa. This 4-piece set is designed for toddlers who treat furniture as a jungle gym, offering a safer, dedicated outlet for that endless climbing energy.

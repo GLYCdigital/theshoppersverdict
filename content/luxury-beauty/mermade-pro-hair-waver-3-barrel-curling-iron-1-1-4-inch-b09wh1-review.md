@@ -1,4 +1,5 @@
 ---
+
 title: "Mermade PRO Hair Waver - 3 Barrel Curling Iron 1 1/4 Inch, C"
 seo_title: "Mermade PRO Hair Waver - 3 Barrel Curling Iron 1 1 Review"
 meta_description: "Our full mermade pro hair waver - 3 barrel curling iron 1 1/4 inch, c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09WH1XS26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nW-fkCMpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past $100+ hair waver wands wondering whether they’re actually worth it, here’s the honest answer: the Mermade PRO 1¼-inch 3-barrel iron is one of the few that justifies the price tag — but with caveats you need to know before checkout.

@@ -1,4 +1,5 @@
 ---
+
 title: "FBZ 150FT Permanent Outdoor RGB Lights - IP67 Waterproof wit"
 seo_title: "FBZ 150FT Permanent Outdoor RGB Lights Review: IP67 Tested"
 meta_description: "Honest FBZ 150FT permanent outdoor RGB lights review. We analyze IP67 claims, app reliability, and 165 real buyer ratings before you install."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0GFMKNSHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wAm9EnDFL._AC_SL1346_.jpg"
-pros:
+pros: 
   - "150ft coverage with 16.4ft per spool — enough for most single-story ranch homes without splicing"
   - "True IP67 waterproofing with sealed connectors and silicone-filled junction points"
   - "Cut-to-length segments every 1.6ft with snap connectors — no soldering required"
-cons:
+cons: 
   - "App setup is finicky — multiple buyers report 2.4GHz-only pairing failures and repeated Bluetooth handshake errors"
   - "Color consistency drifts between spools — whites show visible pink/blue shift where segments join"
   - "No UL or ETL certification listed — a real concern for permanent hardwired installations"
+
 ---
 
 You're about to screw 150 feet of LED lights into your roofline and trust them for the next decade. That's the promise FBZ makes with this kit. At 3.3 stars across 165 ratings, buyers are split between "transformed my house" and "returned after a week." Here's what separates those experiences before you spend the money.

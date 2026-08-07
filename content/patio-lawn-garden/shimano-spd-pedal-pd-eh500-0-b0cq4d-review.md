@@ -1,4 +1,5 @@
 ---
+
 title: "Shimano SPD Pedal PD-EH500 0"
 seo_title: "Shimano SPD Pedal PD-EH500 0 Review: Verdict | TSV"
 meta_description: "Our full shimano spd pedal pd-eh500 0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ4D13X8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719cJQthqwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you ride a commuter, tourer, or hybrid and you’ve been waffling between flat pedals and clipless, the Shimano PD-EH500 is the compromise that actually works. It’s not a gimmick — it’s one side flat, one side SPD, and both sides are usable without looking down. That’s the whole point, and Shimano nailed it.

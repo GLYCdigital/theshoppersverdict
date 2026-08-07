@@ -1,23 +1,25 @@
 ---
+
 title: "Aqueon Filter Cartridge Small/6 Pk - Aquarium Filter Cartrid"
 seo_title: "Aqueon Small Filter Cartridge Review (6-Pack) – Worth It?"
 meta_description: "Honest Aqueon Small Filter Cartridge 6-pack review: fit, performance, and value for nano tanks. See what 240+ buyers say before you buy."
 slug: "aqueon-filter-cartridge-small-6-pk-aquarium-filter-cartridge-6-count-b07hhj-review"
 image_alt: "Aqueon Small Filter Cartridge 6-pack for aquarium filters, white filter pad with carbon insert"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07HHJ2QB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61okoREUdpL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Exact OEM fit for Aqueon QuietFlow 10/20 and Tetra Whisper 10/20 — no trimming required"  
   - "Carbon-impregnated pad actually removes odors and clears slight yellowing in nano tanks"  
   - "One cartridge lasts 4 weeks in a lightly stocked 5–10 gallon; 6-pack covers 6 months"  
-cons:  
+cons: 
   - "No replaceable carbon core — once the carbon is spent, the whole cartridge must be tossed"  
   - "Slightly thinner pad than third-party brands; may need double-stacking in heavy bioloads"
+
 ---
 
 If you own a small aquarium — say, a 5-gallon betta tank or a 10-gallon community setup — you already know the drill: the filter cartridge is the one consumable you can't cheap out on. Aqueon's Small Filter Cartridge 6-pack is the OEM replacement for their QuietFlow line, and it also happens to fit Tetra Whisper filters. With a 4.8-star average across 240 ratings, it's clearly doing something right. But is it the best value, or are you paying for the name? Let's break it down.

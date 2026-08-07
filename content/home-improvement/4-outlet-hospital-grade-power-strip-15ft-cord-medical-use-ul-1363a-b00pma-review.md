@@ -1,4 +1,5 @@
 ---
+
 title: "4 Outlet Hospital Grade Power Strip - 15ft Cord - Medical Us"
 seo_title: "4 Outlet Hospital Grade Power Strip Review: UL 1363A, 15ft Cord"
 meta_description: "Honest review of the 4 Outlet Hospital Grade Power Strip with 15ft cord. UL 1363A certified, medical-grade build. Is it worth the premium? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00PMAE036/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41keiS7HGVL._AC_US40_.jpg"
-pros:
+pros: 
   - "True hospital-grade UL 1363A listing with commercial-duty construction and strain relief"
   - "15-foot 14AWG SJTW cord delivers full power over long runs without voltage drop"
   - "Compact metal housing dissipates heat well and survives drops that kill plastic strips"
-cons:
+cons: 
   - "Only 4 outlets — no USB ports, no surge protection, no switch — what you see is what you get"
   - "The 15ft cord is thick and stiff; coiling it for storage requires effort"
   - "Premium price over basic power strips, justified only if you need the certification"
+
 ---
 
 Let me be blunt: most power strips on Amazon are glorified extension cords with plastic shells and copper that barely meets code. This is not that. The 4 Outlet Hospital Grade Power Strip with a 15-foot cord is built to a different standard entirely — and for certain buyers, that difference is worth every penny.

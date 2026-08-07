@@ -1,4 +1,5 @@
 ---
+
 title: "52 Inch 60 Inch Wood Ceiling Fan with Light and Remote"
 seo_title: "52 Inch 60 Inch Wood Ceiling Fan Review: Is It Worth It?"
 meta_description: "Honest review of the 52/60 inch wood ceiling fan with light and remote. Covers airflow, noise, installation, and value. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CC518FV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hlm0MCtYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Two size options (52 inch and 60 inch) with a reversible motor — good for both summer downdraft and winter updraft airflow
   - "Genuine wood blades (not printed laminate) with a matte finish that hides dust well"
   - "Quiet DC motor at low speeds, measured at under 35 dB in several user reports"
-cons:
+cons: 
   - "Remote receiver adds wiring complexity during installation — not ideal for DIY novices"
   - "Light kit output is modest (~1500 lumens) — adequate for ambiance, weak for task lighting"
   - "Blade finish can vary slightly from product photos; some units show more grain variation than expected"
+
 ---
 
 When you're staring at a 20-foot ceiling in a great room, the fan you pick isn't just about air movement — it's a piece of furniture that hangs in your sightline all day. This wood-blade ceiling fan from Amazon's B0CC518FV8 listing has been hovering around 4.2 stars across 210 ratings, and after digging through the buyer feedback, here's what actually matters.

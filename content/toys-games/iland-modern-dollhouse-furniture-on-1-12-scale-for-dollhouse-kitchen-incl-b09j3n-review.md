@@ -1,4 +1,5 @@
 ---
+
 title: "iLAND Modern Dollhouse Furniture on 1/12 Scale for Dollhouse"
 seo_title: "iLAND Modern Dollhouse Furniture 1/12 Scale Review (2026)"
 meta_description: "Honest iLAND Modern Dollhouse Furniture 1/12 scale review: quality, fit, and value for miniaturists. See what 235 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09J3N54B6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m3UG5PAHL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True 1/12 scale that fits standard dollhouses without modification — no wobble or oversize pieces"
   - "Sturdy MDF construction with smooth edges; holds up to repeated handling by kids"
   - "Modern aesthetic with clean lines that upgrades basic dollhouse rooms instantly"
-cons:
+cons: 
   - "Some pieces arrive with a mild chemical smell that needs a few days to air out"
   - "Assembly requires patience — small screws and tiny parts mean adult help for younger kids"
+
 ---
 
 Let's be direct about dollhouse furniture: most of it looks like it came from a 1980s discount bin — clunky proportions, peeling paint, and pieces that fall apart if a child breathes on them. That's not what the iLAND Modern Dollhouse Furniture set delivers. With 235 ratings averaging 4.7 stars, this set has earned its reputation. Here's what actually matters if you're about to spend money on it.

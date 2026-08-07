@@ -1,4 +1,5 @@
 ---
+
 title: "ostritec Sunflower Solar Lights Outdoor Decor, 4 Pack Solar "
 seo_title: "ostritec Sunflower Solar Lights Outdoor Decor, 4 P Review"
 meta_description: "Our full ostritec sunflower solar lights outdoor decor, 4 pack solar  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F6N2ZQZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qBnE-Ld1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've browsed solar garden lights on Amazon, you've seen a hundred variations of the same plastic mushroom or glass cube. The ostritec Sunflower Solar Lights 4-pack at least tries something different — and for the most part, it works. These are decorative accent lights, not security floodlights, and once you understand that distinction, they're a solid value. Here's the honest breakdown after digging through 200 ratings and buyer feedback.

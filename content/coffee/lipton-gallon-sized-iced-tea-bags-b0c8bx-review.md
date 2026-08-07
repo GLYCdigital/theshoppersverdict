@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Gallon-Sized Iced Tea Bags"
 seo_title: "Lipton Gallon-Sized Iced Tea Bags Review: Verdict | TSV"
 meta_description: "Our full lipton gallon-sized iced tea bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8BXLQPT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tl1jw2xZL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most iced tea bags are a compromise. Either they're too weak for a full pitcher, or they turn bitter when you try to compensate. Lipton's Gallon-Sized bags sidestep that problem entirely. Each bag is engineered to brew one full gallon — not a quart, not a half-gallon, a **full gallon** — which immediately eliminates the most annoying part of making iced tea at home.

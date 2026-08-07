@@ -1,4 +1,5 @@
 ---
+
 title: "HP 05A Black Toner Cartridge | Works with HP LaserJet P2035,"
 seo_title: "HP 05A Black Toner Cartridge | Works with HP Laser Review"
 meta_description: "Our full hp 05a black toner cartridge | works with hp laserjet p2035, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQSBQF5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c8p-oi5zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP 05A is the toner cartridge that keeps aging LaserJet P2035 and P2055 workhorses alive. If you're still running one of these printers — and plenty of small offices are — you know the drill: they refuse to die, and they demand OEM toner to behave. Here's what 235 Amazon reviewers at 4.7 stars have learned about this cartridge, and what you should know before clicking buy.

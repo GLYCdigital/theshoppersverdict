@@ -1,4 +1,5 @@
 ---
+
 title: "YLKJSWIM Swim Goggles for Kids 3-15 with Earplugs Large Fram"
 seo_title: "YLKJSWIM Swim Goggles for Kids 3-15 with Earplugs  Review"
 meta_description: "Our full ylkjswim swim goggles for kids 3-15 with earplugs large fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F99D298Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nx15Egp9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "PWR+ 12Ft Extra Long USB-Printer-Cable 2.0 for HP OfficeJet "
 seo_title: "PWR+ 12Ft Extra Long USB-Printer-Cable 2.0 for HP  Review"
 meta_description: "Our full pwr+ 12ft extra long usb-printer-cable 2.0 for hp officejet  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01BIE3OCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619prjuGciL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody gets excited about a printer cable. You buy one because your desk layout forces your printer into a corner that's exactly 11 feet from your computer, and the 6-foot cable that came with the printer is useless. The PWR+ 12Ft USB-Printer-Cable 2.0 exists to solve that one specific problem. After testing it with an HP OfficeJet Pro and a few other devices, here's the real story.

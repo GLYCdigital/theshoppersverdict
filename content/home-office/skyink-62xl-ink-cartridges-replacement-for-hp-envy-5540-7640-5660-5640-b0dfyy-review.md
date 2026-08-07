@@ -1,4 +1,5 @@
 ---
+
 title: "Skyink 62XL Ink Cartridges Replacement for HP Envy 5540 7640"
 seo_title: "Skyink 62XL Ink Cartridges Replacement for HP Envy Review"
 meta_description: "Our full skyink 62xl ink cartridges replacement for hp envy 5540 7640 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DFYYQ1RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AJ1-VMffL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Are these the cartridges that finally make your HP Envy affordable to run? Let's find out.**

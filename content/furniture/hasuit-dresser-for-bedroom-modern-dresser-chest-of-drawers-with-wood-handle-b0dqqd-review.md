@@ -1,4 +1,5 @@
 ---
+
 title: "Hasuit Dresser for Bedroom, Modern Dresser Chest of Drawers "
 seo_title: "Hasuit Dresser for Bedroom, Modern Dresser Chest o Review"
 meta_description: "Our full hasuit dresser for bedroom, modern dresser chest of drawers  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DQQDC42S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hasuit Dresser for Bedroom: Modern Storage That Mostly Delivers

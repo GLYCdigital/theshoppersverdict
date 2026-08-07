@@ -1,4 +1,5 @@
 ---
+
 title: "ICE BREAKERS Ice Cubes Mint Crystal Sugar Free Chewing Gum B"
 seo_title: "ICE BREAKERS Ice Cubes Mint Crystal Sugar Free Che Review"
 meta_description: "Our full ice breakers ice cubes mint crystal sugar free chewing gum b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B3551FZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iJyNC60lL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this isn't coffee gear, and I'm not going to pretend it is. But if you're a coffee drinker, you already know the problem — that lingering espresso breath, the bitter aftertaste that no amount of water fixes. ICE BREAKERS Ice Cubes Mint Crystal gum is the closest thing to a palate reset I've found, and with 235 ratings averaging 4.7 stars, I'm not alone in that assessment.

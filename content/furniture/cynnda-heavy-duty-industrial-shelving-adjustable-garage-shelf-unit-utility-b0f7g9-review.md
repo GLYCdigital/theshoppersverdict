@@ -1,4 +1,5 @@
 ---
+
 title: "cynnda Heavy Duty Industrial Shelving Adjustable Garage Shel"
 seo_title: "cynnda Heavy Duty Industrial Shelving Review (2026): Worth It?"
 meta_description: "Honest cynnda heavy duty industrial shelving review: load capacity, assembly ease, real buyer feedback, and who should buy this adjustable garage shelf unit."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F7G98K1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CEa5KZRrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely adjustable shelves — reposition in seconds without tools, not just a marketing claim"
   - "Solid steel frame with a powder-coated finish that resists garage humidity and scratches"
   - "Assembles in roughly 30 minutes with a rubber mallet; no wobbly particleboard anywhere"
-cons:
+cons: 
   - "Shelf boards are thin — rated for 150 lbs per level, but heavy tools will bow them over time"
   - "No wall anchor included; on carpet or uneven floors, the unit can rock until you add one"
   - "The 4.3-star average hides a few complaints about bent crossbars on arrival — check packaging immediately"
+
 ---
 
 **The cynnda Heavy Duty Industrial Shelving Adjustable Garage Shelf Unit** isn't trying to be pretty. It's trying to hold your junk — and for the most part, it succeeds. With 215 ratings averaging 4.3 stars, this is the kind of utilitarian storage you see in garages, basements, and workshops across the country. Here's the real story before you click buy.

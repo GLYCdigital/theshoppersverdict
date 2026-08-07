@@ -1,4 +1,5 @@
 ---
+
 title: "Penta Ultra-Purified Water, Oxygen Infused Natural pH Hydrat"
 seo_title: "Penta Ultra-Purified Water, Oxygen Infused Natural Review"
 meta_description: "Our full penta ultra-purified water, oxygen infused natural ph hydrat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BMVN8TWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51POQuad7VL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Penta Ultra-Purified Water Review: Premium Hydration or Overpriced H2O?

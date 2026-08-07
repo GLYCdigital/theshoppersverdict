@@ -1,4 +1,5 @@
 ---
+
 title: "Findepot Shower Base"
 seo_title: "Findepot Shower Base Review: Solid Pan or Skip? (2026)"
 meta_description: "Findepot Shower Base review: 4.6-star rated shower pan. We analyze build quality, installation, drainage, and who should buy it. Honest pros & cons."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4DFSRK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PErdIw-yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 1-piece acrylic construction with no seams to leak, backed by a solid warranty"
   - "Textured, slip-resistant floor pattern that feels secure underfoot even with soapy water"
   - "Pre-sloped pan with integrated drain flange — no mortar bed or custom slope needed"
-cons:
+cons: 
   - "Size runs slightly shallow — tall users may find the 3-inch sidewall limiting"
   - "Some buyers report the pan flexes slightly in the center if not fully supported underneath"
+
 ---
 
 A shower base is the one part of a bathroom remodel you don't want to get wrong. A leak here means tearing out tile, subfloor, and possibly ceiling below. So when a pan shows up with 229 ratings and a 4.6 average, it earns a look. The Findepot Shower Base has become a popular pick for DIYers and contractors alike — but "popular" doesn't always mean "right for your project." Here's what you actually need to know before you buy.

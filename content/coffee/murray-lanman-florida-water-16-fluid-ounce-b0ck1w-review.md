@@ -1,4 +1,5 @@
 ---
+
 title: "Murray & Lanman Florida Water, 16 Fluid Ounce"
 seo_title: "Murray & Lanman Florida Water, 16 Fluid Ounce Review: Ver"
 meta_description: "Our full murray & lanman florida water, 16 fluid ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK1WHP1X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MNVayrzZL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this isn't a typical cologne, and that's precisely why it's been in continuous production since 1808. The Murray & Lanman Florida Water is a 170-year-old formula that refuses to die because it actually works for what people need it to do.

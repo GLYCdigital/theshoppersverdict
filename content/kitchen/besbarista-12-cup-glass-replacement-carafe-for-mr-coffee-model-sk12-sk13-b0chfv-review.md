@@ -1,4 +1,5 @@
 ---
+
 title: "BESBARISTA 12-Cup Glass Replacement Carafe for Mr. Coffee Mo"
 seo_title: "BESBARISTA 12-Cup Carafe Review: Fits Mr. Coffee Models"
 meta_description: "Honest BESBARISTA 12-cup glass replacement carafe review. Does it fit Mr. Coffee SK12/SK13? Real buyer feedback, durability concerns, and fitment details."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHFVJ383/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-76ee7BwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precision-fit glass and lid assembly for Mr. Coffee SK12/SK13 models — no wobble, no drip when pouring"
   - "Marked measurements are accurate to actual brewed cups, not the exaggerated '5oz mug' math most carafes use"
   - "Sturdier handle joint than OEM — reinforced where the glass meets the handle, a common failure point"
-cons:
+cons: 
   - "Glass is thinner than the original Mr. Coffee carafe — handle it with care when washing"
   - "Lid gasket sits tight initially; a few buyers report needing to press firmly to seat it fully"
+
 ---
 
 Your Mr. Coffee finally gave up its original carafe — maybe it met the sink edge, maybe the handle just snapped after years of daily use. Either way, you're staring at a perfectly good coffee maker and a useless glass vessel. The BESBARISTA 12-Cup Replacement Carafe promises to fix that for a fraction of what Mr. Coffee charges for OEM parts. But does an aftermarket carafe actually hold up? Here's the real story after digging through 235 verified buyer experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "TRLIFE Rechargeble Battery Operated Dimmable Wall Sconces 01"
 seo_title: "TRLIFE Rechargeble Battery Operated Dimmable Wall  Review"
 meta_description: "Our full trlife rechargeble battery operated dimmable wall sconces 01 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9VV8C5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MRkXp3J3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most battery-operated sconces are a compromise — you trade the hassle of hardwiring for ugly cords, weak light, or a remote that eats coin batteries. The TRLIFE Rechargeable Wall Sconces sidestep most of those traps, but not all of them. At 4.4 stars across 220 ratings, they're clearly doing something right. Here's the honest breakdown.

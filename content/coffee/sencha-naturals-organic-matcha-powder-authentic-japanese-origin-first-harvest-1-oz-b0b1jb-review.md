@@ -1,4 +1,5 @@
 ---
+
 title: "Sencha Naturals Organic Matcha Powder Authentic Japanese Ori"
 seo_title: "Sencha Naturals Organic Matcha Powder Authentic Ja Review"
 meta_description: "Our full sencha naturals organic matcha powder authentic japanese ori review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B1JBZ8LM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ffRTlVgKL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've tested dozens of matcha powders, and most fall into two camps: bitter grass clippings sold as "ceremonial grade" or overpriced dust that tastes like nothing. The Sencha Naturals Organic Matcha sits somewhere more interesting — it's genuinely good, but you need to know what you're buying before you pull the trigger.

@@ -1,4 +1,5 @@
 ---
+
 title: "CANPA Adjustable Squat Rack Stand Multi-Function Barbell Rac"
 seo_title: "CANPA Adjustable Squat Rack Review: Solid Budget Barbell Stand"
 meta_description: "CANPA adjustable squat rack review: sturdy multi-function barbell stand for home gyms. See real pros, cons, and who should buy it in our honest breakdown."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0998TX74D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51s6o1S4KZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable J-hooks and safety arms accommodate both Olympic and standard bars without wobble"
   - "All-steel frame with welded base plates holds up to 800 lbs — no shaky plasticky feel mid-squat"
   - "Tool-free height changes from 32 to 54 inches, so one rack works for bench press and overhead press"
-cons:
+cons: 
   - "No spotter arms included — you're relying on the safety pins only for failed reps"
   - "Base footprint is narrower than commercial racks; wide-stance squatters may feel the balance limits"
+
 ---
 
 Squat stands are the most lied-about piece of home gym equipment. Manufacturers slap "heavy duty" on anything with four legs and a J-hook. So when a sub-$150 rack from CANPA shows up with a 4.5-star average across 225 ratings, I paid attention. Here's the real story after digging into specs, user feedback, and what this thing actually does in a cramped garage or apartment corner.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart SS-5P1 Single-Serve 40-Ounce Coffeemaker, Stainles"
 seo_title: "Cuisinart SS-5P1 Review: 40-Ounce Single-Serve Coffee Maker"
 meta_description: "Cuisinart SS-5P1 single-serve coffee maker review: 40-ounce reservoir, reusable filter cup, and brew-size options. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B014W1C1H2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uFVKQiFXS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-ounce reservoir means fewer refills than 32-ounce competitors like the Keurig K-Mini"
   - "Includes a permanent mesh filter basket — no paper pods required, saving money long-term"
   - "Three brew sizes (6, 8, 10 oz) with a 5-minute keep-warm plate for the carafe"
-cons:
+cons: 
   - "No actual pod compatibility — this is ground coffee only, despite the 'single-serve' branding"
   - "Carafe is glass and lacks a drip-free pour spout; expect minor drips on the counter"
   - "Some users report the brew cycle runs slow, around 3–4 minutes for a full 10-ounce cup"
+
 ---
 
 If you're shopping for a single-serve coffee maker, the Cuisinart SS-5P1 is a bit of a chameleon. It looks like a pod machine, but it's actually a ground-coffee brewer with a 40-ounce reservoir and a glass carafe. That's either exactly what you want or a dealbreaker, depending on your morning routine. Here's the honest breakdown.

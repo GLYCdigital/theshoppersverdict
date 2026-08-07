@@ -1,4 +1,5 @@
 ---
+
 title: "WEAREC TN436 Toner Cartridge Replacement Compatible for Brot"
 seo_title: "WEAREC TN436 Toner Cartridge Replacement Compatibl Review"
 meta_description: "Our full wearec tn436 toner cartridge replacement compatible for brot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJBZXPYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SinN5SgVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you twenty minutes of scrolling through mixed Amazon reviews. The WEAREC TN436 replacement cartridge is one of those products that gets a 4.2-star average because it genuinely works for most people — but the few who hit problems hit them hard.

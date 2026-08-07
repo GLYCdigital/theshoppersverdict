@@ -1,4 +1,5 @@
 ---
+
 title: "ZSPENG 24.5 oz Citronella Torches for Outside, Metal Table T"
 seo_title: "ZSPENG 24.5 oz Citronella Torches for Outside, Met Review"
 meta_description: "Our full zspeng 24.5 oz citronella torches for outside, metal table t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ6F6SHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zElnEXtTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of citronella candles that gutter out in ten minutes or torches that look like they'd snap in a stiff breeze, the ZSPENG 24.5 oz metal tabletop torches deserve a hard look. Priced as a mid-range set (typically $30–$40 for two), these aren't the flimsiest options on Amazon — and they're not the priciest either. The real question is whether they earn their place on your patio. After digging through 229 ratings and the spec sheet, here's the honest breakdown.

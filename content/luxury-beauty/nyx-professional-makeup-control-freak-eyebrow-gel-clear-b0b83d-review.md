@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Control Freak Eyebrow Gel - Clear"
 seo_title: "NYX PROFESSIONAL MAKEUP Control Freak Eyebrow Gel  Review"
 meta_description: "Our full nyx professional makeup control freak eyebrow gel - clear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B83DFK96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A86Lb7wuL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: clear brow gel is one of those products where drugstore options usually make you choose between hold and comfort. NYX Control Freak claims to deliver both without the $24 price tag of the prestige brands. After testing it against three competitors and combing through 215 Amazon ratings, here’s the real story.

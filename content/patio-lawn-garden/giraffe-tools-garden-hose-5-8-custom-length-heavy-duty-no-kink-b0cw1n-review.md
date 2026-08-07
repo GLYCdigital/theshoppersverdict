@@ -1,5 +1,6 @@
 ---
 
+
 title: "Giraffe Tools Garden Hose 5/8 inch , Custom Length, Heavy Duty, N"
 seo_title: "Giraffe Tools Garden Hose Review: Custom Length, No-Kink"
 meta_description: "Honest Giraffe Tools 5/8 inch  garden hose review: custom lengths, no-kink design, heavy-duty build. Real pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CW1NJVRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iY-upHDTL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Custom length options mean you pay for exactly what you need — no 50-foot coil dragging through flower beds when you only need 25 inch"
   - "5/8 inch  diameter delivers solid water flow without the heavy, stiff feel of commercial-grade hoses"
   - "Brass fittings with a swivel design that actually rotates smoothly — no more fighting kinks at the spigot connection"
-cons:
+cons: 
   - "At 4.0 stars from 200 ratings, there are legitimate quality-control complaints — some buyers report leaks at the fitting after a few months"
   - "Not truly 'no-kink' in cold weather; below 50°F the hose stiffens and memory coils return"
   - "The outer jacket scuffs easily on concrete and rough surfaces, which is cosmetic but noticeable on lighter colors"
+
 
 ---
 

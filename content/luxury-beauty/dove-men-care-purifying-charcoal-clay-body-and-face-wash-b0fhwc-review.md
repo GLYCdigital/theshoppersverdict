@@ -1,4 +1,5 @@
 ---
+
 title: "DOVE MEN + CARE Purifying Charcoal + Clay Body and Face Wash"
 seo_title: "DOVE MEN + CARE Charcoal Clay Body and Face Wash Review"
 meta_description: "Honest DOVE MEN + CARE Purifying Charcoal + Clay wash review: deep-cleaning 2-in-1 for face and body. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FHWC3HSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Dual charcoal and clay formula genuinely pulls out oil without stripping skin to squeaky dryness"
   - "One product handles both face and body — cuts down shower shelf clutter and saves money vs buying separately"
   - "Pump dispenser delivers controlled amount, so the 500ml bottle lasts noticeably longer than squeeze-tube alternatives"
-cons:
+cons: 
   - "Fragrance is noticeably strong — if you're sensitive to scented skincare, this could trigger irritation"
   - "Not ideal for daily face washing if you have chronically dry skin; best used every other day or as a deep-clean option"
+
 ---
 
 A 2-in-1 that actually works? Let's talk about it.

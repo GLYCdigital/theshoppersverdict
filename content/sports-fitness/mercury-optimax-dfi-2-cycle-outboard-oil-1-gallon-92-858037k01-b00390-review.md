@@ -1,4 +1,5 @@
 ---
+
 title: "Mercury Optimax /DFI 2-Cycle Outboard Oil 1 Gallon 92-858037"
 seo_title: "Mercury Optimax /DFI 2-Cycle Outboard Oil 1 Gallon Review"
 meta_description: "Our full mercury optimax /dfi 2-cycle outboard oil 1 gallon 92-858037 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B003901RIM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n9ACQzlEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Mercury Optimax or a direct fuel injection (DFI) two-stroke outboard, you already know the engine isn't cheap to repair. The question isn't whether to use quality oil — it's whether this specific jug justifies its premium over the generic stuff. After digging through 240 Amazon ratings and the technical specs, here's what matters.

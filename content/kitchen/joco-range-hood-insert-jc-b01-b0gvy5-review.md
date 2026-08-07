@@ -1,4 +1,5 @@
 ---
+
 title: "JOCO Range Hood Insert JC-B01"
 seo_title: "JOCO Range Hood Insert JC-B01 Review: Verdict | TSV"
 meta_description: "Our full joco range hood insert jc-b01 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVY54K3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xx1tWIa9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JOCO Range Hood Insert JC-B01: The Honest Review

@@ -1,4 +1,5 @@
 ---
+
 title: "PHI VILLA 13ft Patio Umbrella with Solar-Powered 120 PCS LED"
 seo_title: "PHI VILLA 13ft Patio Umbrella with Solar-Powered 1 Review"
 meta_description: "Our full phi villa 13ft patio umbrella with solar-powered 120 pcs led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FT2PK3JR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1x2-xHxE-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about big patio umbrellas: most are either cheap junk that wobbles in a breeze or overpriced behemoths that require a forklift to open. The PHI VILLA 13ft solar LED umbrella sits somewhere in the middle — and for most backyard entertainers, that’s exactly where it needs to be.

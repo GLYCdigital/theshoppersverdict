@@ -1,4 +1,5 @@
 ---
+
 title: "Micgeek Area Rug Living Room - Abstract Washable Large Soft "
 seo_title: "Micgeek Area Rug Living Room - Abstract Washable L Review"
 meta_description: "Our full micgeek area rug living room - abstract washable large soft  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DY14DMS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s8J6q3TWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

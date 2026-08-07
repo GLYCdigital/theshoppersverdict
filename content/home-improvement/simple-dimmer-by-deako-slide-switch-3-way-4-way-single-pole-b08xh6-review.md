@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Dimmer by Deako, Slide Switch, 3-Way/4-Way/Single Pol"
 seo_title: "Simple Dimmer by Deako, Slide Switch, 3-Way/4-Way/ Review"
 meta_description: "Our full simple dimmer by deako, slide switch, 3-way/4-way/single pol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08XH6HRTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41u0W5H+gyL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most dimmers on Amazon are either cheap rotary knobs that flicker or $50 smart switches that need a hub. The Deako Simple Dimmer sits in a weird middle ground — it's not smart, it's not dumb, and it's genuinely easier to install than anything else in its class. With a 4.6 average across 229 ratings, it's clearly doing something right. Here's the real story.

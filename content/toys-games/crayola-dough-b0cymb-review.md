@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Dough Review"
 seo_title: "Crayola Dough Review: Soft, Durable Modeling Compound (2026)"
 meta_description: "Crayola Dough review: Is this modeling compound worth buying? We tested softness, durability, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYMBBX66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zDfV64-qL._AC_SL1081_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, pliable texture right out of the container — no kneading required, even for younger kids"
   - "Colors stay vibrant and don't bleed or transfer onto hands or surfaces during play"
   - "Doesn't dry out quickly; containers reseal tightly, extending playability over weeks"
-cons:
+cons: 
   - "Limited color variety in the base pack compared to Play-Doh's standard 8-color set"
   - "Pieces can crumble if left out for extended sessions — need to re-knead to restore consistency"
   - "No included tools or cutters; you're paying for the dough alone, which may feel sparse for the price"
+
 ---
 
 # Crayola Dough: The Modeling Compound That Plays Nicer Than Play-Doh

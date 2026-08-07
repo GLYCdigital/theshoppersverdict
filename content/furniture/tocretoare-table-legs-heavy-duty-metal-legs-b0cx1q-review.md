@@ -1,4 +1,5 @@
 ---
+
 title: "TOCRETOARE Table Legs, Heavy Duty Metal Legs"
 seo_title: "TOCRETOARE Table Legs, Heavy Duty Metal Legs Review: Verd"
 meta_description: "Our full tocretoare table legs, heavy duty metal legs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX1QKL53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XN2AGbq5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most table legs on Amazon are flimsy afterthoughts. The TOCRETOARE Heavy Duty Metal Legs are not that. With a 4.7-star average across 235 ratings, this is a set that earns its keep — but it's not perfect. Here's the honest breakdown.

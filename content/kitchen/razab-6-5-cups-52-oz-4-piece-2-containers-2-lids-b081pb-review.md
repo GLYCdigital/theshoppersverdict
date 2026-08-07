@@ -1,4 +1,5 @@
 ---
+
 title: "Razab 6.5 Cups / 52 Oz 4 Piece (2 Containers + 2 Lids) Glass"
 seo_title: "Razab 6.5 Cups / 52 Oz 4 Piece (2 Containers + 2 L Review"
 meta_description: "Our full razab 6.5 cups / 52 oz 4 piece (2 containers + 2 lids) glass review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081PBY1CR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SJb4qYiIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most glass food storage sets are either too small for actual meals or so heavy they feel like you're lugging bricks to work. The Razab 6.5-cup set sits in a useful middle ground — big enough for a real portion, compact enough to stack in a standard fridge.

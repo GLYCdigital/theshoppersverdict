@@ -1,4 +1,5 @@
 ---
+
 title: "British Berkefeld Doulton 3.17 Gallon W9361137 Countertop Gr"
 seo_title: "British Berkefeld Doulton 3.17 Gal Countertop Review"
 meta_description: "British Berkefeld Doulton 3.17-gallon countertop gravity filter review: ceramic filtration, flow rate, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09NC1WX95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61heB4-ZTUL._SL1500_.jpg"
-pros:
+pros: 
   - "Removes bacteria, cysts, and particulates down to 0.5 microns without electricity or wasted water"
   - "Sturdy 3.17-gallon capacity (12L) actually delivers a full day of drinking water for a family of four"
   - "Replaceable ceramic elements last 6–12 months depending on source water, with visible grime buildup signaling when to clean"
-cons:
+cons: 
   - "Flow rate is slow — roughly 1–2 liters per hour — so you must plan ahead, not fill on demand"
   - "Initial setup requires priming the ceramic candles and discarding the first few batches of water, which tastes vaguely of carbon dust"
   - "The spigot is basic plastic and drips occasionally if you don't fully close it; no metal upgrade option at this price"
+
 ---
 
 **The Boring-Looking Water Filter That Actually Earns Its 4.5 Stars**

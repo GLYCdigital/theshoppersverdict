@@ -1,4 +1,5 @@
 ---
+
 title: "EXPO Dry Erase Markers, Low Odor Ink, Black, Chisel Tip, 12 inch"
 seo_title: "EXPO Dry Erase Markers Review: Low Odor Black Chisel Tip"
 meta_description: "Honest EXPO dry erase markers review: low odor black chisel tip 12-pack. Tested for ink life, ghosting, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY5SLG8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Chisel tip delivers both broad strokes for headings and fine lines for details — two widths from one marker"
   - "Low odor ink formulation you can actually use in a closed conference room without getting a headache"
   - "Consistent black color density across all 12 markers; no faded or watery batches in standard packs"
-cons:
+cons: 
   - "Ink life is shorter than expected if you leave caps loose — dry out noticeably faster than premium alternatives"
   - "Single-color pack means you'll need to buy other colors separately for color-coded workflows"
   - "Some users report occasional hard-start markers that need vigorous shaking to get flowing"
+
 ---
 
 Let's be honest: when you search for dry erase markers, you're probably just tired of the cheap ones that skip, smear, and smell like a chemistry lab. The EXPO 12-pack of black chisel tip markers is the default choice for a reason — but "default" doesn't always mean "best." Here's the real story after putting these through actual board work, both in an office and on a whiteboard at home.

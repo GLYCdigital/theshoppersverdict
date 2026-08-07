@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Grill Mates Grill Mates Hamburger Seasoning Oz"
 seo_title: "McCormick Grill Mates Grill Mates Hamburger Season Review"
 meta_description: "Our full mccormick grill mates grill mates hamburger seasoning oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1VDDY59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JHRobwVPL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # McCormick Grill Mates Hamburger Seasoning: The 4.8-Star Seasoning That Earns Its Rating

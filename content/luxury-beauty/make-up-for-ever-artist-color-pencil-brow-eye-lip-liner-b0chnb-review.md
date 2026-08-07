@@ -1,4 +1,5 @@
 ---
+
 title: "MAKE UP FOR EVER Artist Color Pencil Brow Eye & Lip Liner"
 seo_title: "MAKE UP FOR EVER Artist Color Pencil Brow Eye & Li Review"
 meta_description: "Our full make up for ever artist color pencil brow eye & lip liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHNBZ8ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512Myjc5mcL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one-pencil-does-everything makeup bag hack that actually delivers.**

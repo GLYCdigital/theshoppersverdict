@@ -1,4 +1,5 @@
 ---
+
 title: "Nail Art Pens for Painting Nails, 2026 Nail Art Markers for "
 seo_title: "Nail Art Pens for Painting Nails, 2026 Nail Art Ma Review"
 meta_description: "Our full nail art pens for painting nails, 2026 nail art markers for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZ8Z6DDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610H24rzA2L._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

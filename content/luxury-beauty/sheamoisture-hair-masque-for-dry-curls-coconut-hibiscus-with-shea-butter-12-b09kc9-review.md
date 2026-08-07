@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Hair Masque For Dry Curls Coconut Hibiscus With"
 seo_title: "SheaMoisture Hair Masque For Dry Curls Coconut Hib Review"
 meta_description: "Our full sheamoisture hair masque for dry curls coconut hibiscus with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KC9GKGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cbqJBtjjL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SheaMoisture Hair Masque For Dry Curls: The Deep Conditioner That Actually Delivers

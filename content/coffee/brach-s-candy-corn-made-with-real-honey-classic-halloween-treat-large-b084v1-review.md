@@ -1,4 +1,5 @@
 ---
+
 title: "Brach's Candy Corn, Made with Real Honey, Classic Halloween"
 seo_title: "Brach's Candy Corn Review: Real Honey Halloween Classic"
 meta_description: "Read our honest Brach's Candy Corn review. We tested the classic Halloween treat made with real honey. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B084V159ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hGOZuG7rL._SL1500_.jpg"
-pros:
+pros: 
   - "Real honey in the ingredient list adds a subtle floral sweetness that rounds out the traditional candy corn flavor — noticeable in a side-by-side taste test"
   - "Firm, non-waxy texture that snaps cleanly rather than bending; pieces hold their shape even after sitting in a warm bowl for an hour"
   - "Generous 20-ounce bag size that actually fills a Halloween bowl — roughly 200 pieces per bag based on standard serving counts"
-cons:
+cons: 
   - "The honey flavor is subtle, not pronounced — if you're expecting a strong honey taste, you'll be disappointed"
   - "Sugar content is high even by candy standards at 23 grams per serving; this is a treat, not a snack"
+
 ---
 
 Let's be honest about candy corn: you either plan your fall around it or you've never forgiven it for being 90% sugar. Brach's Classic Candy Corn with Real Honey sits firmly in the first camp, and after working through a full bag, I understand the 4.5-star rating across 225 Amazon reviews. This isn't a coffee maker — it's the thing you'll want next to your coffee mug all October.

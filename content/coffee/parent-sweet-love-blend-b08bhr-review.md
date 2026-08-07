@@ -1,4 +1,5 @@
 ---
+
 title: "PARENT - Sweet Love Blend"
 seo_title: "PARENT - Sweet Love Blend Review: Verdict | TSV"
 meta_description: "Our full parent - sweet love blend review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08BHRTV75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513OdM9XnjL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the coffee your mornings have been missing?**  

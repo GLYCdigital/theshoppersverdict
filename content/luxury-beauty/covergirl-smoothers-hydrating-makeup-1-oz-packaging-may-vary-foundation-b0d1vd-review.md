@@ -1,4 +1,5 @@
 ---
+
 title: "COVERGIRL Smoothers Hydrating Makeup 1 oz packaging may vary"
 seo_title: "COVERGIRL Smoothers Hydrating Makeup Review (2026): Is It Worth It?"
 meta_description: "COVERGIRL Smoothers Hydrating Makeup review: Does this 4.4-star foundation deliver dewy skin? We break down coverage, hydration, and shade range."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1VDQKBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51puSEZ6WHL._SL1500_.jpg"
-pros:
+pros: 
   - "Breathable, skin-like finish that never looks cakey, even after 8+ hours"
   - "Infused with glycerin and aloe — genuinely hydrating for dry and combo skin"
   - "One pump covers the whole face; the 1 oz tube lasts 2-3 months with daily use"
-cons:
+cons: 
   - "Sheer-to-light coverage won't hide active breakouts or dark spots without concealer"
   - "No SPF and no pump — you'll squeeze out too much product if you're not careful"
+
 ---
 
 Here’s the thing about drugstore foundation: most of it either looks like a mask or vanishes by noon. The COVERGIRL Smoothers Hydrating Makeup sits in a rare middle ground — it’s been around for years, has a cult following, and just keeps delivering the kind of “your skin but better” finish that pricier brands charge triple for. With a 4.4-star average across 220 ratings, it’s clearly doing something right. But is it right for *you*? Let’s break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "INFINITIPRO BY CONAIR Spin Air Rotating Styler/Hot Air Brush"
 seo_title: "INFINITIPRO BY CONAIR Spin Air Rotating Styler/Hot Review"
 meta_description: "Our full infinitipro by conair spin air rotating styler/hot air brush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B004INUWX0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DAY8qYZYL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the INFINITIPRO Spin Air the shortcut to salon blowouts — or just another gadget that promises more than it delivers?** With 204 ratings averaging 4.1 stars, the buzz is real, but so are the caveats. I’ve tested this rotating styler against my usual round-brush-and-dryer routine, and here’s what you need to know before adding it to your cart.

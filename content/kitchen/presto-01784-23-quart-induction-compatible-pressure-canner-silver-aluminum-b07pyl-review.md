@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 01784 23-Quart Induction Compatible Pressure Canner, "
 seo_title: "Presto 01784 23-Quart Induction Compatible Pressur Review"
 meta_description: "Our full presto 01784 23-quart induction compatible pressure canner,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PYLD742/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zZBR2xgnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most pressure canners on the market are stuck in the 1990s — heavy steel, finicky dials, and zero compatibility with modern induction ranges. The Presto 01784 23-Quart Induction Compatible Pressure Canner fixes the biggest pain point (induction compatibility) while keeping the classic design that's made Presto a household name for over a century. But is it the right canner for your kitchen? Here's what 240 buyers at a 4.8-star average are actually saying.

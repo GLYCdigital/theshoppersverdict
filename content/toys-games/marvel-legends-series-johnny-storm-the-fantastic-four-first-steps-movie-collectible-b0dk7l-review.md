@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Legends Series Johnny Storm, The Fantastic Four: Firs"
 seo_title: "Marvel Legends Series Johnny Storm, The Fantastic  Review"
 meta_description: "Our full marvel legends series johnny storm, the fantastic four: firs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK7LPLQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p9H+e5AOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you've been collecting Marvel Legends for any length of time, you know the Human Torch has gotten the short end of the stick more than once. Prior releases leaned heavily on reused bodies and generic flame pieces that looked more like orange cotton candy than fire. The Marvel Legends Series Johnny Storm from *The Fantastic Four: First Steps* changes that calculus in a meaningful way.

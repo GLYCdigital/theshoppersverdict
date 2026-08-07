@@ -1,4 +1,5 @@
 ---
+
 title: "Olafus 70W Motion Sensor Outdoor Light Plug in, Motion Flood"
 seo_title: "Olafus 70W Motion Sensor Outdoor Light Plug in, Mo Review"
 meta_description: "Our full olafus 70w motion sensor outdoor light plug in, motion flood review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHWWMQMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YqYFwo3FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've been putting off adding security lighting because the idea of calling an electrician makes you cringe, the Olafus 70W Motion Sensor Outdoor Light removes that excuse entirely.** This is a plug-in floodlight that delivers serious illumination without touching your home's wiring. After digging through 215 ratings and testing the specs against real-world expectations, here's the honest breakdown.

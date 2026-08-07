@@ -1,4 +1,5 @@
 ---
+
 title: "Emperor Pets Retractable Dog Leash 26 ft - Heavy Duty Leash"
 seo_title: "Emperor Pets Retractable Dog Leash 26 ft Review (2026)"
 meta_description: "Honest Emperor Pets 26 ft retractable dog leash review: build quality, real-world performance, and who should buy it. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CZTZJQRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yfu0ZsbSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26-foot length gives small and medium dogs real freedom in open spaces without sacrificing control"
   - "Tangle-resistant ribbon tape and smooth retraction mechanism hold up well after months of daily use"
   - "Ergonomic handle with soft grip padding stays comfortable even when your dog makes a sudden sprint"
-cons:
+cons: 
   - "Hook is bulky—won't fit through standard D-rings on some harnesses; you'll need a carabiner adapter"
   - "Lock button requires deliberate thumb pressure; owners with arthritis or weak grip may find it stiff"
   - "No built-in waste bag dispenser or LED light, which competing leashes at this price point often include"
+
 ---
 
 **The 26-Foot Freedom Test: Does Emperor Pets Deliver Real Control?**

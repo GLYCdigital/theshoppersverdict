@@ -1,4 +1,5 @@
 ---
+
 title: "FANTIAN Succulent Soil Potting Mix,5-8 mm Cactus Soil Pottin"
 seo_title: "FANTIAN Succulent Soil Potting Mix Review: 5-8mm Grit"
 meta_description: "Honest FANTIAN succulent soil potting mix review: 5-8mm particle size, drainage, and value. See pros, cons, and who should buy this cactus soil."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDXPZ7QQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q62X9JIuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Consistent 5-8mm particle size gives serious drainage — no dusty fines clogging roots"
   - "Pre-mixed and ready to use straight from the bag; no measuring or blending needed"
   - "Sturdy 8.8lb bag covers roughly 4-6 standard 4-inch pots"
-cons:
+cons: 
   - "Larger particles mean it dries fast — you'll water more often in hot, dry climates"
   - "Not ideal for moisture-loving plants like ferns or tropicals; this is strictly for arid species"
+
 ---
 
 If you've ever killed a succulent with kindness—overwatering, drowning roots in dense potting soil—you know the problem isn't you. It's the dirt. The FANTIAN Succulent Soil Potting Mix takes a different approach: chunky, gritty particles that physically can't hold water long enough to rot your plants. Here's my honest take after digging through the specs and buyer feedback.

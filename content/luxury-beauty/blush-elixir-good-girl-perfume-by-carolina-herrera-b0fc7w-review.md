@@ -1,4 +1,5 @@
 ---
+
 title: "Blush Elixir Good Girl Perfume by Carolina Herrera"
 seo_title: "Blush Elixir Good Girl Perfume Review: Worth the Hype?"
 meta_description: "Honest Blush Elixir Good Girl Perfume review: scent profile, longevity, sillage, and who should buy. Is this Carolina Herrera flanker worth $150+?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FC7WY1FF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yzevBU2kL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional 8-10 hour longevity with a noticeable sillage trail that projects for the first 3 hours"
   - "Unique gourmand-floral blend — the lychee and orange blossom top notes cut through the heavy vanilla base, avoiding the 'syrupy' trap of other elixir perfumes"
   - "The stiletto heel cap is magnetic and satisfyingly clicky — a small detail that makes daily application feel premium"
-cons:
+cons: 
   - "Strong projection means 2 sprays max — overspraying will overwhelm a room and trigger headaches"
   - "Price point sits at the premium end of the flanker range ($150+ for 80ml) with no travel size included"
+
 ---
 
 # Blush Elixir Good Girl Perfume: The Flanker That Finally Gets the Balance Right

@@ -1,4 +1,5 @@
 ---
+
 title: "Vesgantti Mattress 12 Inch in a Box,Fiberglass Free Luxury H"
 seo_title: "Vesgantti Mattress 12 Inch in a Box,Fiberglass Fre Review"
 meta_description: "Our full vesgantti mattress 12 inch in a box,fiberglass free luxury h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0FCBHDVZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qoznTybHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $300 gamble: Does this budget hybrid deliver or disappoint?

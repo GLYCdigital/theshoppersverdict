@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Ditra-XL Uncoupling and Waterproofing Membrane for "
 seo_title: "Schluter Ditra-XL Uncoupling and Waterproofing Mem Review"
 meta_description: "Our full schluter ditra-xl uncoupling and waterproofing membrane for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B018A2WO1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XMSgCu-RL._AC_SL1368_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Schluter Ditra-XL Review: The Heavy-Duty Uncoupling Membrane That Earns Its Premium

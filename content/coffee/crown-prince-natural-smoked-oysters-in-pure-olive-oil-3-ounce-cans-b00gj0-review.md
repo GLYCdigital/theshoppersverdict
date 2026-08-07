@@ -1,4 +1,5 @@
 ---
+
 title: "Crown Prince Natural Smoked Oysters in Pure Olive Oil, 3-Oun"
 seo_title: "Crown Prince Smoked Oysters Review: Worth It? (2026)"
 meta_description: "Honest Crown Prince smoked oysters in olive oil review. Flavor, texture, and value compared. See if these pantry staples earn their 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00GJ0WW24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CjyTH3ZBL._SL1500_.jpg"
-pros:
+pros: 
   - "Firm, plump oysters with a clean smoke flavor that doesn't overpower the brininess"
   - "Pure olive oil (not soybean or cottonseed) that doubles as a finishing oil for salads or pasta"
   - "Consistent texture across multiple tins — no mushy or broken pieces in the batches we tested"
-cons:
+cons: 
   - "Small 3-ounce tins — roughly 6-8 oysters per can, so you'll want multiple tins for a full appetizer spread"
   - "The smoke flavor is more subtle than liquid-smoke-heavy competitors, which some buyers may find too mild"
+
 ---
 
 Let's be blunt: The canned seafood aisle is a graveyard of mushy fish and cloudy oils. Crown Prince's Smoked Oysters in Pure Olive Oil, however, has earned a 4.6-star average across 229 ratings for a reason. These aren't the sad, gray oysters of your childhood — they're firm, briny, and carry an actual smoke character that makes them a pantry staple worth clearing shelf space for.

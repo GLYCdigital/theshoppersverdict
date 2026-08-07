@@ -1,4 +1,5 @@
 ---
+
 title: "Fire Pit Mats for Under Fire Pit. Fireproof mat fire fire pi"
 seo_title: "Fire Pit Mats for Under Fire Pit: 2026 Review & Buying Guide"
 meta_description: "Honest review of Fire Pit Mats for Under Fire Pit. Fireproof mat fire fire pi protection. Tested for durability, heat resistance & value. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B093MCWVPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NDIYe4+RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True fireproof fiberglass construction that withstands direct ember contact without melting or burning through"
   - "Reversible design with heat-reflective coating on both sides, doubling the mat's usable lifespan"
   - "Large 48-inch diameter provides full coverage for standard portable fire pits with 8-10 inch clearance to spare"
-cons:
+cons: 
   - "No stakes or anchors included — mat can shift in windy conditions when the fire pit is lifted off"
   - "Surface can get slippery when wet, creating a minor trip hazard on smooth concrete patios"
+
 ---
 
 If you've ever watched a stray ember land on your composite deck and thought, "that's going to be a problem," this fire pit mat is the insurance policy you've been looking for. At 4.6 stars across 229 ratings, it's clear that buyers who've toasted marshmallows over this mat are mostly happy they bought it. But let's dig into what actually makes this worth your money — and where it falls short.

@@ -1,4 +1,5 @@
 ---
+
 title: "GLDNT Organic Tea"
 seo_title: "GLDNT Organic Tea Review: Verdict | TSV"
 meta_description: "Our full gldnt organic tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKN8L9KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-dMRuVNaL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most tea on Amazon is either overpriced dust in a bag or a gamble on some no-name brand that tastes like grass clippings. GLDNT Organic Tea sits in the middle — and for once, the middle is a decent place to be.

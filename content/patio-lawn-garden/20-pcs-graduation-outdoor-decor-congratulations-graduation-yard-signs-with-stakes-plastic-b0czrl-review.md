@@ -1,4 +1,5 @@
 ---
+
 title: "20 PCS Graduation Outdoor Decor, Congratulations Graduation"
 seo_title: "20 PCS Graduation Yard Signs Review: Worth It? (2026)"
 meta_description: "Honest review of the 20 PCS Graduation Outdoor Decor set. Are these plastic yard signs durable? See pros, cons & real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZ3RLYKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91t3n74p-wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20-piece set covers a full front yard for under $20 — no need to buy multiple packs"
   - "Double-sided printing means visibility from both the street and the house"
   - "Vibrant, fade-resistant colors that hold up for the entire graduation season"
-cons:
+cons: 
   - "Stakes are thin plastic that can bend in hard-packed or rocky soil"
   - "No storage bag included — signs arrive loose in a poly bag"
+
 ---
 
 You've got one graduate, one big day, and about 200 square feet of front lawn that needs to scream "congratulations" before the party starts. The 20 PCS Graduation Outdoor Decor set from Amazon is the kind of purchase you make on a Tuesday night and hope looks decent by Saturday morning. After digging through 225 ratings and the product specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sour Gummy Candy Mix | 2-Pound Pack | Chewy Gummies for Cand"
 seo_title: "Sour Gummy Candy Mix | 2-Pound Pack | Chewy Gummie Review"
 meta_description: "Our full sour gummy candy mix | 2-pound pack | chewy gummies for cand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D5DLLVQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91pY8mdyLQL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a 3.8-star average on a bulk candy bag usually means one of two things — either the flavor mix is lopsided, or the texture misses the mark. This 2-pound Sour Gummy Candy Mix from the generic Amazon brand shelf lands somewhere in between, and here's the breakdown you actually need.

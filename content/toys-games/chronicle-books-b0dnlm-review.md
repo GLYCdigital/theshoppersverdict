@@ -1,4 +1,5 @@
 ---
+
 title: "Chronicle Books"
 seo_title: "Chronicle Books B0DNLM Review: Is This Game Worth It? (2026)"
 meta_description: "Chronicle Books B0DNLM toy/game review: 4.6-star rated with 229 reviews. We break down what's inside, who it's for, and where it falls short."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNLM1XM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Wx8fbh5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-quality card stock and components that survive repeated play sessions without bending or tearing"
   - "Rules are learnable in under 5 minutes, making it a strong pick for mixed-age groups"
   - "Compact box design fits easily on a shelf or in a travel bag — no awkward oversized packaging"
-cons:
+cons: 
   - "Player count flexibility is limited; some configurations feel unbalanced at the minimum player count"
   - "Replay value depends heavily on group size — smaller groups burn through the content faster"
+
 ---
 
 A 4.6-star average across 229 ratings is nothing to sneeze at. But what does the Chronicle Books B0DNLM actually deliver once the shrink wrap comes off? I've dug through the component quality, the rulebook, and the verified buyer feedback to give you the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "PURITO From Green Cleansing Oil, Fragrance-Free Makeup Remov"
 seo_title: "PURITO From Green Cleansing Oil, Fragrance-Free Ma Review"
 meta_description: "Our full purito from green cleansing oil, fragrance-free makeup remov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FPVPT4J1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cU3+YB+SL._SL1080_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me skip the pleasantries and get straight to it: if you wear waterproof makeup on the regular and your current cleanser leaves you rubbing your eyes raw, PURITO's From Green Cleansing Oil deserves a spot in your routine. This fragrance-free, EWG-certified first cleanser has earned a 4.5-star average across 225 Amazon ratings, and after digging into the formula and customer feedback, I can tell you the hype is mostly justified.

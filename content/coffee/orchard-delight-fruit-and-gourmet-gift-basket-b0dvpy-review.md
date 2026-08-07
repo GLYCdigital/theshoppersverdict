@@ -1,4 +1,5 @@
 ---
+
 title: "Orchard Delight Fruit and Gourmet Gift Basket"
 seo_title: "Orchard Delight Fruit and Gourmet Gift Basket Review: Ver"
 meta_description: "Our full orchard delight fruit and gourmet gift basket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DVPY8W1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91JIeJG0KHL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Orchard Delight Fruit and Gourmet Gift Basket: A Solid "Send-and-Forget" Gift, With Caveats

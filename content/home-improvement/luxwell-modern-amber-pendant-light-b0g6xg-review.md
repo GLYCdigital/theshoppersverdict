@@ -1,4 +1,5 @@
 ---
+
 title: "LUXWELL Modern Amber Pendant Light"
 seo_title: "LUXWELL Modern Amber Pendant Light Review: Verdict | TSV"
 meta_description: "Our full luxwell modern amber pendant light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G6XGJP67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HMf+kEWLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through pendant lights for the past three evenings, you already know the problem: everything looks either like a spaceship or a Pinterest cliché. The LUXWELL Modern Amber Pendant Light sits in that sweet spot between them — a warm, hand-blown glass shade with brushed metal hardware that reads "intentional" rather than "catalog dump." At 4.0 stars from 200 ratings, it's not flawless, but it's worth understanding exactly what you're getting.

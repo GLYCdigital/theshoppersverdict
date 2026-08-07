@@ -1,4 +1,5 @@
 ---
+
 title: "LIKIMIO Bed Frame with 4 Storage Drawers, Platform Bed with "
 seo_title: "LIKIMIO Bed Frame with 4 Storage Drawers, Platform Review"
 meta_description: "Our full likimio bed frame with 4 storage drawers, platform bed with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9KB7WQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WCU2njEZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most platform beds under $500 either look cheap or collapse under enthusiastic... activity. The LIKIMIO with four storage drawers and a charging headboard tries to do everything — and for the most part, it pulls it off. After digging through 225 ratings and the spec sheet, here's the real story.

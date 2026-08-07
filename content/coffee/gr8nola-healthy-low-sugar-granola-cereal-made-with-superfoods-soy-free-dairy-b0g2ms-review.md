@@ -1,4 +1,5 @@
 ---
+
 title: "gr8nola - Healthy, Low Sugar Granola Cereal - Made with Supe"
 seo_title: "gr8nola - Healthy, Low Sugar Granola Cereal - Made Review"
 meta_description: "Our full gr8nola - healthy, low sugar granola cereal - made with supe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G2MSJVJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uTFtHECvL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # gr8nola Healthy Low Sugar Granola: The Superfood Cereal That Doesn't Taste Like Cardboard

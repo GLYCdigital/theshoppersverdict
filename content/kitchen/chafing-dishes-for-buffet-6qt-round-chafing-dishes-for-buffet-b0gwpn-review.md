@@ -1,4 +1,5 @@
 ---
+
 title: "Chafing Dishes for Buffet, 6QT Round Chafing Dishes for Buff"
 seo_title: "Chafing Dishes for Buffet 6QT Review: Worth It? (2026)"
 meta_description: "Honest review of 6QT round chafing dishes for buffet serving. Build quality, heat retention, and real buyer feedback. See pros, cons, and who should buy."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWPN65S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710jeWmbudL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 6QT capacity per pan — actually holds a full tray of lasagna or 40+ meatballs without crowding"
   - "Triple-layer construction (stainless steel with aluminum core) distributes heat evenly, no scorching on the bottom"
   - "Complete set includes pans, covers, stands, fuel holders, and serving spoons — no separate purchases needed"
-cons:
+cons: 
   - "Fuel gel cans not included — you'll need to budget an extra $15-25 for a case of 12-hour cans"
   - "Lids have a tendency to collect condensation and drip when lifted — angle them when removing to avoid water on the food"
   - "Fuel gel cans not included — budget $15-25 extra for a case of chafing fuel"
   - "Lids collect condensation that drips when lifted — tilt them to avoid watering down your food"
+
 ---
 
 # Chafing Dishes for Buffet, 6QT Round Chafing Dishes for Buff: The Full Breakdown

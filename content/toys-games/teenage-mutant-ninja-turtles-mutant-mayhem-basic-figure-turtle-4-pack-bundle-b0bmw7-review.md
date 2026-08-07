@@ -1,4 +1,5 @@
 ---
+
 title: "Teenage Mutant Ninja Turtles: Mutant Mayhem Basic Figure Tur"
 seo_title: "Teenage Mutant Ninja Turtles: Mutant Mayhem Basic  Review"
 meta_description: "Our full teenage mutant ninja turtles: mutant mayhem basic figure tur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BMW7GK4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iWvrRYe9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a TMNT fan who loved the 2023 *Mutant Mayhem* film, this 4-pack is the obvious starting point. At $39.99, you're getting all four brothers — Leonardo, Donatello, Michelangelo, and Raphael — in their movie-accurate, teenage-scrawny designs. That's about $10 per figure, which undercuts most single-packed action figures on shelves today. But is the quality there, or are you just paying for the novelty? Let's break it down.

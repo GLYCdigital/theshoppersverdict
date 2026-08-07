@@ -1,7 +1,8 @@
 ---
-title: "Samsung PM9A3 7.68 TB Solid State Drive - 2.5\" Internal - PC"
-seo_title: "Samsung PM9A3 7.68 TB Solid State Drive - 2.5\" Int Review"
-meta_description: "Our full samsung pm9a3 7.68 tb solid state drive - 2.5\" internal - pc review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Samsung PM9A3 7.68 TB Solid State Drive - 2.5\ Internal - PC"
+seo_title: "Samsung PM9A3 7.68 TB Solid State Drive - 2.5\ Int Review"
+meta_description: "Our full samsung pm9a3 7.68 tb solid state drive - 2.5\ internal - pc review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "samsung-pm9a3-7-68-tb-solid-state-drive-2-5-internal-pci-b0b63p-review"
 image_alt: "Samsung PM9A3 7.68 TB Solid State Drive - 2.5 Internal - PCI Express NVMe (PCI Express NVMe 4.0 x4)"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B63PKZ8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21DpcuN0EWL._AC_SX355_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 7.68 TB elephant in the room

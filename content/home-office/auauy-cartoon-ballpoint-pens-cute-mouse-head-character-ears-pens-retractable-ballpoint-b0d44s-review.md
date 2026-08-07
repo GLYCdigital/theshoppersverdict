@@ -1,4 +1,5 @@
 ---
+
 title: "AUAUY Cartoon Ballpoint Pens, Cute Mouse Head Character Ears"
 seo_title: "AUAUY Cartoon Mouse Pens Review: Cute Retractable Ballpoints"
 meta_description: "AUAUY cartoon mouse head pens review: cute retractable ballpoints that write smoothly. See pros, cons, and if these novelty pens hold up."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D44SCT1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511n3Chs8rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Smooth 0.7mm medium-point ink that starts writing immediately without skipping or blotting"
   - "Cute molded mouse-head cap with ears that doubles as a fidget-friendly desk accent"
   - "Retractable design with a sturdy clip that actually holds up in bags and pockets"
-cons:
+cons: 
   - "Mouse ears add bulk to the grip area, which can feel awkward during long writing sessions"
   - "Limited color variety per pack — you're mostly choosing between pastel and primary options"
+
 ---
 
 Most novelty pens are garbage. They squeak, they skip, they fall apart by page three. The AUAUY Cartoon Ballpoint Pens with the mouse head character ears are not that. Are they the best writing instrument you'll ever hold? No. Are they a genuinely charming, functional desk upgrade that won't embarrass you when a coworker borrows one? Yes — and that's a rarer combination than you'd think.

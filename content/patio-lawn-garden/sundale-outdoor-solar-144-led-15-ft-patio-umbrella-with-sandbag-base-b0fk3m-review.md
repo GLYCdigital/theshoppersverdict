@@ -1,4 +1,5 @@
 ---
+
 title: "Sundale Outdoor Solar 144 LED 15 ft Patio Umbrella with Sand"
 seo_title: "Sundale Outdoor Solar 144 LED 15 ft Patio Umbrella Review"
 meta_description: "Our full sundale outdoor solar 144 led 15 ft patio umbrella with sand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FK3MMWJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WAg1ivMAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you want a shaded patio that turns into a glow-lit evening space without running extension cords, the Sundale 15-ft solar umbrella delivers. It's not perfect — the solar charging dictates how you angle the canopy, and the fabric won't win any longevity awards — but for the price, it's a solid buy for evening entertainers.

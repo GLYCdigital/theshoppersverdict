@@ -1,4 +1,5 @@
 ---
+
 title: "2 inch  x 50' Heavy Duty Discharge Hose with NPT Pin Lug and Nipp"
 seo_title: "2 inch  x 50' Discharge Hose Review: NPT Pin Lug Value (2026)"
 meta_description: "Honest 2 inch  x 50' heavy duty discharge hose review. Tested for flow rate, kink resistance, and NPT pin lug durability. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6QSSQZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712IvLegcHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 2-inch inner diameter sustains high flow rates without collapsing, even at 100+ PSI from a trash pump"
   - "NPT pin lug couplings are cast, not stamped — threads engage cleanly and seal without excessive Teflon tape"
   - "Reinforced PVC wall resists abrasion on concrete and gravel better than typical sump pump hose"
-cons:
+cons: 
   - "Stiff when cold; below 50°F it resists coiling and needs warm-up time before deployment"
   - "No hose clamps included — the couplings are barbed, so budget an extra $8-10 for proper stainless clamps"
+
 ---
 
 If you're moving water in volume — think dewatering a flooded basement, filling a 500-gallon tank, or running a trash pump on a jobsite — the 2" x 50' heavy duty discharge hose with NPT pin lug couplings is the workhorse you've been scrolling past. At 4.4 stars from 220 buyers, it's not the flashiest pick, but it's the one people keep ordering for a reason.

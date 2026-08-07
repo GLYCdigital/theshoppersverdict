@@ -1,4 +1,5 @@
 ---
+
 title: "Festa Essential 4 Pack 8QT 5QT Chafing Dish Buffet Set Stain"
 seo_title: "Festa Essential 4-Pack Chafing Dish Set Review (2026)"
 meta_description: "Honest Festa Essential 4-pack chafing dish review: 8QT & 5QT stainless steel buffet set tested for catering, holidays & parties. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C3CQPXS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IFDmPdszL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Mirror-polished 18/8 stainless steel resists fingerprints and wipes clean in seconds"
   - "Two 8QT and two 5QT pans cover both large mains and smaller sides without extra purchases"
   - "Sturdy folding stands with locking hinges hold steady through a full event"
-cons:
+cons: 
   - "Fuel cans (chafing fuel) sold separately — an immediate $15–20 add-on cost"
   - "Lids condensate heavily; you'll want to tilt them slightly to keep food from getting watery"
   - "No carry bag included, and the 4-piece set is bulky to transport"
+
 ---
 
 If you're hosting Thanksgiving for 15 or catering a weekend event, the Festa Essential 4-pack hits a practical sweet spot: two 8-quart pans for the mains, two 5-quart pans for sides. At 4.3 stars across 215 ratings, it's not perfect — but for the price, it's hard to beat the value. Here's what you need to know before you click buy.

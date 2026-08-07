@@ -1,4 +1,5 @@
 ---
+
 title: "Graza Extra Virgin Olive Oil, Finishing Oil (Drizzle)"
 seo_title: "Graza Extra Virgin Olive Oil, Finishing Oil (Drizz Review"
 meta_description: "Our full graza extra virgin olive oil, finishing oil (drizzle) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FCTH858S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Gqr0ALZ6L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Graza's "Drizzle" bottle has become the poster child for the modern olive oil rebrand — but does the liquid inside justify the cult following? After testing this finishing oil across salads, pasta, roasted vegetables, and even a few experiments I won't repeat, here's the unvarnished truth.

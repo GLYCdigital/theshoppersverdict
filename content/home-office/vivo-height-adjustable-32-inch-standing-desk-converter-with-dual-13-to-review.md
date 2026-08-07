@@ -1,16 +1,17 @@
 ---
+
 title: "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13 to 30 inch Monitor Stand, Sit Stand Monitor Mount and Desk Riser, Gray, DESK-V000K-M2G"
 seo_title: "VIVO Height Adjustable Review: Verdict (4.5/5) | TSV"
 meta_description: "This standing desk is the PERFECT size for my unorthodox 600+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "vivo-height-adjustable-32-inch-standing-desk-converter-with-dual-13-to-review"
 image_alt: "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13 to 30 inch Monitor Stand, Sit Stand Monitor Mount an"
-keywords:
+keywords: 
   - "vivo height adjustable review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the VIVO Height Adjustable 32?"
     answer: "This standing desk is the PERFECT size for my unorthodox desk That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the VIVO Height Adjustable 32?"
@@ -23,12 +24,13 @@ review_count: 600
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8LBV86T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TPqP2DQNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "This standing desk is the PERFECT size for my unorthodox desk."
   - "The desk is sturdy and well-made."
   - "Great Value Standing Desk That Checks All the Boxes I have been thinking about getting a standing de."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If you've been eyeing a standing desk converter but balked at the flimsy single-arm models that wobble with every keystroke, the VIVO DESK-V000K-M2G is worth a hard look. This is a 32-inch wide, gas-spring powered riser that holds two monitors up to 30 inches each, and it's currently sitting at 4.5 stars from 600+ Amazon buyers. Here's what you're actually getting for $210.

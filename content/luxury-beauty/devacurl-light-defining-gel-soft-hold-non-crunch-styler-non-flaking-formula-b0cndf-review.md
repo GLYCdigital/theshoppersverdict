@@ -1,4 +1,5 @@
 ---
+
 title: "DevaCurl Light Defining Gel Soft Hold Non-Crunch Styler | No"
 seo_title: "DevaCurl Light Defining Gel Review: Soft Hold for Curls"
 meta_description: "Honest DevaCurl Light Defining Gel review: soft hold, non-crunch finish for wavy & curly hair. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNDFTCJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bVXY1jaUL._SL1500_.jpg"
-pros:
+pros: 
   - "Creates a flexible, touchable cast that scrunches out completely without crunch or flaking"
   - "Formulated without sulfates, silicones, or parabens — safe for curly girl method and color-treated hair"
   - "Lightweight enough for fine hair and loose waves; won't weigh down or create stringy definition"
-cons:
+cons: 
   - "Hold strength is genuinely light — won't last through humidity for tighter curl patterns"
   - "Pump dispenser can clog or sputter as the bottle gets low, wasting product"
   - "Scent is strong (citrus-herbal) and lingers for hours after application"
+
 ---
 
 If you've ever wrestled with a gel that turned your curls into a crunchy helmet by noon, the DevaCurl Light Defining Gel is the antidote. This is the rare styler that actually delivers on the "soft hold, non-crunch" promise — and for the 215 shoppers who've rated it 4.3 out of 5 stars, that's the whole point.

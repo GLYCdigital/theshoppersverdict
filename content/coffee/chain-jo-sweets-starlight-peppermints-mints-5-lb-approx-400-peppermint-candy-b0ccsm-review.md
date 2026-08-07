@@ -1,4 +1,5 @@
 ---
+
 title: "CHAIN & JO SWEETS Starlight Peppermints Mints 5 Lb -Approx 4 inch"
 seo_title: "CHAIN & JO Starlight Peppermints 5 Lb Review: Bulk Buy?"
 meta_description: "CHAIN & JO SWEETS Starlight Peppermints 5 lb bulk review: flavor, freshness, crunch, and value. Is this 4.6-star candy worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCSM1JGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NcXHJ4w6L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hard candy crunch that snaps cleanly — no chalky, soft-center letdown"
   - "Bold, true peppermint oil flavor that clears sinuses without being medicinal"
   - "Massive 5-pound bag delivers roughly 400 individually wrapped pieces — serious per-unit savings"
-cons:
+cons: 
   - "Some pieces arrive cracked or chipped from bulk shipping — cosmetic, not flavor-impacting"
   - "No resealable closure; you'll need your own container or clip for long-term storage"
   - "Classic red-and-white swirl only — no flavor variety or sugar-free options"
+
 ---
 
 ## Is a 5-Pound Bag of Peppermints Overkill? Maybe. Is It Worth It? Absolutely.

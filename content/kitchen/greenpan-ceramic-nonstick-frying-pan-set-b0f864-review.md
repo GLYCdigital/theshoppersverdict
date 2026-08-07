@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Ceramic Nonstick Frying Pan Set"
 seo_title: "GreenPan Ceramic Nonstick Frying Pan Set Review: Verdict "
 meta_description: "Our full greenpan ceramic nonstick frying pan set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F864TF14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wfrF+981L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the obvious question: does a ceramic nonstick pan set actually hold up, or is it just another eco-friendly gimmick that dies in a year? After digging through 204 Amazon ratings and the specs on this GreenPan set, here's the real story.

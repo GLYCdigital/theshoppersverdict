@@ -1,4 +1,5 @@
 ---
+
 title: "Il Makiage Woke Up Like This Flawless Liquid Foundation, Ful"
 seo_title: "Il Makiage Woke Up Like This Flawless Liquid Found Review"
 meta_description: "Our full il makiage woke up like this flawless liquid foundation, ful review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D6CZWP16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sd4i3CXJL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $45 Foundation That's Actually Worth the Hype?

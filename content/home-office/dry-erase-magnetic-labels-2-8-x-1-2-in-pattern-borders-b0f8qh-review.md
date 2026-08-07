@@ -1,4 +1,5 @@
 ---
+
 title: "Dry Erase Magnetic Labels 2.8 x 1.2 in, Pattern Borders, Dry"
 seo_title: "Dry Erase Magnetic Labels Review: Pattern Borders, 2.8x1.2 in"
 meta_description: "Honest review of dry erase magnetic labels 2.8x1.2 in with pattern borders. Tested for adhesion, erasability, and durability. See if they're worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8QH11JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I3m1DB6PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong magnetic backing holds firmly on vertical steel surfaces without sliding"
   - "Pattern borders make labels visually distinct at a glance — four designs included"
   - "True dry-erase surface wipes clean with no ghosting after repeated use"
-cons:
+cons: 
   - "2.8 x 1.2-inch size is tight for more than 8-10 characters of text"
   - "Only one marker included — you'll want to buy a fine-tip set separately"
+
 ---
 
 ## Are These Magnetic Labels Actually Worth Your Desk Space?

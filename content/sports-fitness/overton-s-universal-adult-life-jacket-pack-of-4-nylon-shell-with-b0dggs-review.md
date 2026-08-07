@@ -1,4 +1,5 @@
 ---
+
 title: "Overton's Universal Adult Life Jacket - Pack of 4, Nylon She"
 seo_title: "Overton's Universal Adult Life Jacket - Pack of 4, Review"
 meta_description: "Our full overton's universal adult life jacket - pack of 4, nylon she review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGGSYJ5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iSa9HAb0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're outfitting a boat for guests, renting a pontoon for the weekend, or replacing the faded orange relics from 2011. Overton's Universal Adult Life Jacket 4-pack solves the "I need six PFDs and I don't want to spend $200" problem. But universal sizing always means compromise — let's get into whether that compromise matters for you.

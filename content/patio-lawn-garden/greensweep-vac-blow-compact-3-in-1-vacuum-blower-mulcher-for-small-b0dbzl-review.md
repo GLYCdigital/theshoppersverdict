@@ -1,4 +1,5 @@
 ---
+
 title: "GreenSweep Vac & Blow | Compact 3 in 1 Vacuum, Blower & Mulc"
 seo_title: "GreenSweep Vac & Blow | Compact 3 in 1 Vacuum, Blo Review"
 meta_description: "Our full greensweep vac & blow | compact 3 in 1 vacuum, blower & mulc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DBZLQK2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T1eSdqS+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the GreenSweep Vac & Blow is a tool for a very specific person. If you have a quarter-acre of mature oaks, keep scrolling. If you've got a postage-stamp patio, a few shrubs, and a growing resentment toward your leaf blower's cord, this 3-in-1 deserves a look.

@@ -1,4 +1,5 @@
 ---
+
 title: "MAC Macximal Silky Matte - for Women 0.11 oz Lipstick"
 seo_title: "MAC Macximal Silky Matte - for Women 0.11 oz Lipst Review"
 meta_description: "Our full mac macximal silky matte - for women 0.11 oz lipstick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D586PTRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mbGFLfJ6L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MAC Macximal Silky Matte Review: The Matte That Doesn't Punish Your Lips

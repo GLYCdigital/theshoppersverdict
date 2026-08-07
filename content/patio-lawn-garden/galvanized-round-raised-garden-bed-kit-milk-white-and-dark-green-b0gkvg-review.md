@@ -1,4 +1,5 @@
 ---
+
 title: "Galvanized Round Raised Garden Bed Kit Milk White and Dark G"
 seo_title: "Galvanized Round Raised Garden Bed Review (2026): Worth It?"
 meta_description: "Honest review of the Galvanized Round Raised Garden Bed Kit in Milk White and Dark Green. See pros, cons, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GKVGVF3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716iT4QvsLL._AC_SL1328_.jpg"
-pros:
+pros: 
   - "Two-tone milk white and dark green finish stands out in any yard without looking cheap"
   - "Rust-resistant galvanized steel with reinforced rolled rims — won't bend or flake like thinner kits"
   - "Tool-free assembly in under 20 minutes; panels lock together with a secure seam"
-cons:
+cons: 
   - "No bottom panel — you'll need to lay cardboard or landscape fabric if you want weed suppression"
   - "Shallow depth (around 11 inches) limits root vegetables like carrots or potatoes"
+
 ---
 
 Let me save you some scrolling: if you want a raised bed that doesn't look like a galvanized afterthought, this milk white and dark green kit is the best-looking option in its price range. But before you click buy, there are a couple of things you need to know.

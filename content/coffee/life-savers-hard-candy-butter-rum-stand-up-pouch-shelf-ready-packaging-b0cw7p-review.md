@@ -1,4 +1,5 @@
 ---
+
 title: "LIFE SAVERS HARD CANDY BUTTER RUM STAND UP POUCH SHELF READY"
 seo_title: "LIFE SAVERS HARD CANDY BUTTER RUM STAND UP POUCH S Review"
 meta_description: "Our full life savers hard candy butter rum stand up pouch shelf ready review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CW7PCJWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61izUd0QzSL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is a 4.8-star rating on a bag of hard candy actually earned, or is it nostalgia doing the heavy lifting? After digging into the Life Savers Butter Rum Stand Up Pouch, I can tell you the numbers hold up—but not for the reasons you'd expect.

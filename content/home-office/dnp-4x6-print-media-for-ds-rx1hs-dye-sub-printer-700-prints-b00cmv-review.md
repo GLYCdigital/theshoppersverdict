@@ -1,4 +1,5 @@
 ---
+
 title: "DNP 4x6 inch  Print Media for DS-RX1HS Dye Sub Printer, 700 Print"
 seo_title: "DNP 4x6 Print Media for DS-RX1HS Review (700 Prints)"
 meta_description: "DNP 4x6 dye sub print media for DS-RX1HS: 700 glossy prints per roll. Real-world testing, print quality, cost per photo, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00CMVZIDO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51St04U9IuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine OEM consumable — consistent color output and proper DS-RX1HS recognition, no third-party compatibility headaches"
   - "700 continuous prints per roll with ribbon included, dropping cost-per-photo well under $0.30 when bought in bulk"
   - "Waterproof, smudge-proof, and fingerprint-resistant glossy finish that survives handling immediately after printing"
-cons:
+cons: 
   - "Roll format means paper is curled on exit — you'll need to flatten prints under a book or in an album for a few minutes"
   - "No individual sheet replacement option — if one photo jams and tears, you lose that position from the 700-count roll"
   - "Premium OEM pricing hits harder than generic dye-sub alternatives, though you pay for reliability"
+
 ---
 
 Let me be blunt: if you own a DNP DS-RX1HS, you already know that third-party paper is a gamble that can void your warranty and produce off-color prints. This OEM media kit is the safe bet — and it's also genuinely good. Here's what 700 prints of real-world experience taught me.

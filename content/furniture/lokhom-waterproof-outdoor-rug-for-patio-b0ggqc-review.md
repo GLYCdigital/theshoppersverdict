@@ -1,4 +1,5 @@
 ---
+
 title: "LOKHOM Waterproof Outdoor Rug for Patio"
 seo_title: "LOKHOM Waterproof Outdoor Rug for Patio Review: Verdict |"
 meta_description: "Our full lokhom waterproof outdoor rug for patio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GGQCQQGZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jdPa6lExL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Outdoor rugs are a gamble. Either they look great for a season and fall apart, or they're so stiff and plastic-y that you'd rather stare at bare concrete. The LOKHOM Waterproof Outdoor Rug sits somewhere in the middle of that spectrum — and for most patios, that's exactly the right spot.

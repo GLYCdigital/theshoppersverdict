@@ -1,4 +1,5 @@
 ---
+
 title: "Pfister Courant Bathroom Sink Faucet"
 seo_title: "Pfister Courant Bathroom Sink Faucet Review: Verdict | TS"
 meta_description: "Our full pfister courant bathroom sink faucet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CC9S7M97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HDUERXMmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pfister Courant is the rare bathroom faucet that doesn't make you choose between looking good and working well. At 4.7 stars across 235 ratings, it's clearly doing something right. But is it the right faucet for your sink? Let's dig into the details that matter.

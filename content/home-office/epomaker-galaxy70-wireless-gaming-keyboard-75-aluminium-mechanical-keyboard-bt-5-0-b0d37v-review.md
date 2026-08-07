@@ -1,4 +1,5 @@
 ---
+
 title: "EPOMAKER Galaxy70 Wireless Gaming Keyboard, 75% Aluminium Me"
 seo_title: "EPOMAKER Galaxy70 Wireless Keyboard Review: 75% Aluminium"
 meta_description: "EPOMAKER Galaxy70 wireless keyboard review: 75% aluminium build, BT 5.0, hot-swap switches. Is this $99 compact board worth it? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D37VWVFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G5810PeML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full CNC aluminium top case at a price point where most competitors ship plastic — the heft and rigidity are immediately noticeable"
   - "Tri-mode connectivity (BT 5.0, 2.4GHz dongle, USB-C wired) with a 4000mAh battery that genuinely lasts weeks with RGB off"
   - "Gasket-mounted, pre-lubed switches deliver a deep, thocky sound profile that punches above the $100 mark"
-cons:
+cons: 
   - "No dedicated F-key row separation or knob — the 75% layout is standard, but the right shift is slightly short, which typists may notice"
   - "The stock keycaps are double-shot PBT but feel a bit thin; you'll likely want to swap them within a month if you're picky"
+
 ---
 
 **Bottom line: The EPOMAKER Galaxy70 is the rare budget board that doesn't feel budget.** For under $100, you're getting a CNC-machined aluminium case, gasket mounting, and tri-mode wireless — specs that were reserved for $150+ customs just two years ago. It's not perfect, but it's the best value 75% wireless keyboard I've tested this year.

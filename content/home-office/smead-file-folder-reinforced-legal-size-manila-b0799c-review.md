@@ -1,4 +1,5 @@
 ---
+
 title: "Smead File Folder, Reinforced Legal Size, Manila"
 seo_title: "Smead File Folder, Reinforced Legal Size, Manila Review: "
 meta_description: "Our full smead file folder, reinforced legal size, manila review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0799CL9P3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Lp5BKEKwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that sinking feeling when you grab a file folder by the tab and it rips clean off, sending documents everywhere? That's the exact problem Smead engineered this reinforced legal-size folder to solve — and with 235 ratings averaging 4.7 stars, it's clearly working for most buyers. But is it worth the premium over standard folders? Let's dig into the details.

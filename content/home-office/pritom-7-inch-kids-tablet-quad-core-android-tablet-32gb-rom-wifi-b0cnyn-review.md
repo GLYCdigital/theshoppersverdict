@@ -1,4 +1,5 @@
 ---
+
 title: "PRITOM 7 inch Kids Tablet | Quad Core Android Tablet, 32GB R"
 seo_title: "PRITOM 7 inch Kids Tablet | Quad Core Android Tabl Review"
 meta_description: "Our full pritom 7 inch kids tablet | quad core android tablet, 32gb r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CNYN7X6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812GDYFnx7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Is This the Budget Tablet Your Kid Actually Needs?

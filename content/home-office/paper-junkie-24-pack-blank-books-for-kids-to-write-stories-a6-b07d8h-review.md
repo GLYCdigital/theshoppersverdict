@@ -1,4 +1,5 @@
 ---
+
 title: "Paper Junkie 24 Pack Blank Books for Kids to Write Stories, "
 seo_title: "Paper Junkie 24 Pack Blank Books for Kids to Write Review"
 meta_description: "Our full paper junkie 24 pack blank books for kids to write stories,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07D8H8G68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XoThdLVVL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever watched a kid abandon a "story" because the lines were too narrow or the page count was intimidating, you already understand the problem this 24-pack solves.** Paper Junkie's blank books strip away the pressure — no ruled lines, no page numbers, no "fill in the word" prompts. Just 48 open pages per book, waiting for whatever a 6-year-old's imagination decides to put there.

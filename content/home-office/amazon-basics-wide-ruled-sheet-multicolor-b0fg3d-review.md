@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Wide Ruled Sheet Multicolor"
 seo_title: "Amazon Basics Wide Ruled Sheet Review: Worth It? (2026)"
 meta_description: "Amazon Basics Wide Ruled Sheet Multicolor review: 4.7-star rated. We break down paper quality, bleed-through, and value. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FG3DJG2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C02lUml9L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Genuinely thick 24-lb paper — holds up to fountain pens and gel ink without ghosting"
   - "Perforated sheets tear out cleanly with zero jagged edges"
   - "Color-coding across 5 shades makes organizing class notes or project sections genuinely easier"
-cons:
+cons: 
   - "Only 200 sheets per pack — heavy note-takers will burn through it fast"
   - "Wide ruling (9/32-inch) is too spacious for adults with small handwriting"
+
 ---
 
 Let's be honest about notebook paper: most of it is trash. Thin enough to see your last class's notes through the page, flimsy enough to rip when you flip it. So when a 4.7-star rating shows up on a product literally called "Amazon Basics," I get skeptical. Then I got my hands on a pack, and I get it now.

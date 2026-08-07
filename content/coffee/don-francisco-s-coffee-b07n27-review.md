@@ -1,4 +1,5 @@
 ---
+
 title: "Don Francisco's COFFEE"
 seo_title: "Don Francisco's Coffee Review: Worth the Hype? (2026)"
 meta_description: "Read our honest Don Francisco's Coffee review. See how this 4.7-star rated coffee performs, who it's best for, and where it falls short before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07N2763W4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vCqlt2XYL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent medium roast with low acidity — smooth enough for daily drinking without bitterness"
   - "Aromatic and flavorful whether brewed in drip, French press, or pour-over"
   - "Reliable bag packaging with a one-way valve that keeps beans fresh weeks after opening"
-cons:
+cons: 
   - "Whole bean only — no pre-ground option for those without a grinder"
   - "Price per ounce runs higher than grocery-store staples if you buy in small bags"
+
 ---
 
 **Bottom line up front:** Don Francisco's is a solid, dependable medium-roast coffee that delivers restaurant-quality flavor without the pretension. At 4.7 stars from 235 ratings, it's not revolutionary — but it's remarkably consistent, and that's exactly what most daily drinkers need.

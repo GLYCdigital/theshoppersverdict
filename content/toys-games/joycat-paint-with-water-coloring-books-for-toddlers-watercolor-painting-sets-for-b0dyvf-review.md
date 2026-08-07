@@ -1,4 +1,5 @@
 ---
+
 title: "JoyCat Paint with Water Coloring Books for Toddlers, Waterco"
 seo_title: "JoyCat Paint with Water Coloring Books for Toddler Review"
 meta_description: "Our full joycat paint with water coloring books for toddlers, waterco review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYVFPV29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m912pkX6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever handed a two-year-old a cup of water and a brush, you already know the drill: the "painting" lasts about four minutes before the water ends up on the floor, the dog, or your laptop. The JoyCat Paint with Water Coloring Books solve that specific chaos with a deceptively simple trick — the color is already embedded in the page. Add water, watch it appear, let it dry, and it's gone.

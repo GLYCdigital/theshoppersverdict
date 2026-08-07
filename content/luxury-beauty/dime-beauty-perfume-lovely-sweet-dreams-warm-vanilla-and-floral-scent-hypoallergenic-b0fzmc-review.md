@@ -1,4 +1,5 @@
 ---
+
 title: "DIME Beauty Perfume Lovely Sweet Dreams - Warm Vanilla and F"
 seo_title: "DIME Beauty Lovely Sweet Dreams Review: Warm Vanilla Floral"
 meta_description: "DIME Beauty Lovely Sweet Dreams perfume review: warm vanilla & floral notes, hypoallergenic formula. See if this 4.5-star fragrance delivers on its dreamy promise."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FZMCYV3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41M39Pn2FnL._SL1500_.jpg"
-pros:
+pros: 
   - "Hypoallergenic formula that actually performs — no skin irritation reported across 225+ reviews"
   - "Long-lasting sillage (4–6 hours) despite being a clean, paraben-free fragrance"
   - "Unique warm vanilla-forward profile that reads more high-end niche than drugstore gourmand"
-cons:
+cons: 
   - "Price point sits premium — you're paying for the clean formulation, not just the scent"
   - "Projection is intimate, not a room-filler — reapplication needed for evening wear"
+
 ---
 
 You've smelled a hundred vanilla perfumes that evaporate into nothing by lunch. DIME Beauty's Lovely Sweet Dreams isn't one of them. This is a warm vanilla-floral hybrid that earns its 4.5-star rating through one thing shoppers rarely get from "clean" beauty: actual performance.

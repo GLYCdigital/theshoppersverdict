@@ -1,4 +1,5 @@
 ---
+
 title: "Maylaywood A19 LED Light Bulb, 60 Watt Equivalent LED Bulb D"
 seo_title: "Maylaywood A19 LED Light Bulb, 60 Watt Equivalent  Review"
 meta_description: "Our full maylaywood a19 led light bulb, 60 watt equivalent led bulb d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6G63WCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wTflrGuyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you twenty minutes of scrolling through bulb listings. The Maylaywood A19 LED is a solid, no-drama replacement for your 60-watt incandescents — but it has one or two quirks you should know about before you drop money on a multipack.

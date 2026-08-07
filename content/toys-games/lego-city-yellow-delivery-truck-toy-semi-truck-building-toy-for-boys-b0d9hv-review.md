@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Yellow Delivery Truck Toy - Semi Truck Building To"
 seo_title: "LEGO City Yellow Delivery Truck Toy - Semi Truck B Review"
 meta_description: "Our full lego city yellow delivery truck toy - semi truck building to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D9HVQM3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NR3mpzubL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the rare LEGO City set that delivers more than the box promises.** At 4.9 stars from 245 Amazon ratings, the Yellow Delivery Truck has become a quiet favorite for good reason — it nails the fantasy of "driving a big rig" without the usual LEGO compromises.

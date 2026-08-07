@@ -1,4 +1,5 @@
 ---
+
 title: "Douglas Sasha Husky Dog Plush Stuffed Animal"
 seo_title: "Douglas Sasha Husky Plush Review: Soft, Lifelike, Worth It?"
 meta_description: "Douglas Sasha Husky Dog plush review: Is this 12-inch stuffed animal worth the price? Real buyer feedback, softness, durability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00IKWQOPU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZLTg7-rdS._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, dense fur that holds up to aggressive cuddling and repeated washing without matting"
   - "Realistic husky markings and face shape — looks like a miniature version of the real breed, not a generic dog"
   - "Firmly stuffed body with bean-weighted bottom, so it sits upright on shelves and beds without toppling"
-cons:
+cons: 
   - "At roughly 12 inches, it's smaller than many buyers expect from the product photos — check dimensions before buying"
   - "Eyes are hard plastic, which makes it less suitable for very young children under 3 despite the soft exterior"
+
 ---
 
 If you've ever searched "realistic husky plush" and waded through a sea of cartoonish, off-brand dogs with derpy expressions, the Douglas Sasha stands out for one simple reason: it actually looks like a husky. The gray-and-white markings follow the breed's distinctive facial mask pattern, the ears are properly pointed, and the tail curls the way a real husky's does. That attention to breed accuracy is why this 12-inch plush has earned a 4.8-star average across 240 ratings — and why it's become a go-to gift for husky owners who want a stand-in for the real thing.

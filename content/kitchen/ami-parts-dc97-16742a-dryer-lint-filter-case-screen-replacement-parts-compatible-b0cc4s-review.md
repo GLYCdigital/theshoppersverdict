@@ -1,4 +1,5 @@
 ---
+
 title: "AMI PARTS DC97-16742A Dryer Lint Filter Case Screen Replacem"
 seo_title: "AMI PARTS DC97-16742A Lint Filter Review (2026): Fit & Quality"
 meta_description: "AMI PARTS DC97-16742A dryer lint filter replacement: Does it fit Samsung dryers? Read our honest review on build quality, airflow, and value."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CC4S359S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L15QRWo0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise OEM-equivalent fit for Samsung DC97-16742A models — snaps in without modification"
   - "Fine mesh screen catches lint effectively without restricting airflow, cutting dry times"
   - "Sturdy ABS plastic frame resists warping from heat, unlike some flimsy third-party filters"
-cons:
+cons: 
   - "No gasket/seal included — if your old filter's rubber edge is worn, you'll need to transfer it"
   - "Slightly thinner plastic than Samsung OEM — fine for most, but heavy-handed users should be careful"
+
 ---
 
 You don't think about your dryer's lint filter until the day your clothes come out damp after 60 minutes. That's when you realize the mesh is torn, the frame is warped, or the handle snapped off. The AMI PARTS DC97-16742A is the replacement that most Samsung dryer owners land on—215 ratings averaging 4.3 stars say it's doing something right. Here's the honest breakdown before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "L'OR Espresso Capsules, 50 Count Colombia, Single-Serve Alum"
 seo_title: "L'OR Espresso Capsules, 50 Count Colombia, Single- Review"
 meta_description: "Our full l'or espresso capsules, 50 count colombia, single-serve alum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08D351RBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kY9lS-R8L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most single-serve espresso capsules are a compromise. You trade the ritual and richness of a real shot for convenience, and too often you get watery, bitter swill in return. The L'OR Colombia 50-count box is the exception that proves the rule — but it comes with a catch you need to know about before you hit "buy."

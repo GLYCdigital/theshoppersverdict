@@ -1,4 +1,5 @@
 ---
+
 title: "Pro-Grade Kids Backyard Soccer Goal, Tear-Resistant 5-Layer "
 seo_title: "Pro-Grade Kids Backyard Soccer Goal, Tear-Resistan Review"
 meta_description: "Our full pro-grade kids backyard soccer goal, tear-resistant 5-layer  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYDSWKK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ku3H6S9qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

@@ -1,4 +1,5 @@
 ---
+
 title: "Dior Miss Eau de Parfum"
 seo_title: "Dior Miss Eau de Parfum Review: Worth It? | 2026 inch"
 meta_description: "Dior Miss Eau de Parfum reviewed honestly: performance, sillage, longevity, and value. See if this floral fragrance lives up to the hype."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C61729L1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bTkvCCQSL._SL1024_.jpg"
-pros:
+pros: 
   - "Long-lasting floral composition that holds 6-8 hours on skin without becoming cloying"
   - "Elegant, versatile scent profile that transitions smoothly from office to evening"
   - "High-quality ingredients with noticeable depth — this is not a flat, synthetic floral"
-cons:
+cons: 
   - "Premium price point with no travel-size option included in the box"
   - "Sillage is moderate — don't expect a room-filling trail from this one"
   - "Some buyers report batch-to-batch variance in intensity"
+
 ---
 
 **The short version:** If you're looking for a blind-buy safe floral that actually respects your skin chemistry, Dior Miss Eau de Parfum is a strong contender. But at this price point, you deserve to know exactly what you're paying for — and where it falls short.

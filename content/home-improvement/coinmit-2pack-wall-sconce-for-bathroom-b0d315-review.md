@@ -1,23 +1,25 @@
 ---
+
 title: "Coinmit 2PACK Wall Sconce for Bathroom"
 seo_title: "Coinmit 2-Pack Bathroom Sconce Review (2026): Worth It?"
 meta_description: "Coinmit 2PACK wall sconce review: 4.5-star rated, matte black glass vanity light. See pros, cons, install tips & who should buy it."
 slug: "coinmit-2pack-wall-sconce-for-bathroom-b0d315-review"
 image_alt: "Coinmit 2-pack matte black bathroom wall sconce with clear glass shade mounted over a vanity mirror"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D315KL8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617bPu918RL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Includes two matching sconces in one box — no need to hunt down a second unit separately."  
   - "Seeded glass shade diffuses light evenly, reducing harsh glare around mirrors."  
   - "Compact 5.1-inch depth fits tight spaces above narrow vanities or in hallways."  
-cons:  
+cons: 
   - "Hardwired only — no plug-in option, so you’ll need existing junction boxes or an electrician."  
   - "Glass shade is delicate; a few buyers report chips during shipping if packaging is rough."
+
 ---
 
 If your bathroom vanity is stuck with one overhead light casting shadows across your face, the **Coinmit 2PACK Wall Sconce** is a $40-ish fix that solves the problem with two matching fixtures. At 4.5 stars from 225 ratings, it’s not revolutionary — but it’s a solid, no-nonsense upgrade that gets the job done without breaking your budget.

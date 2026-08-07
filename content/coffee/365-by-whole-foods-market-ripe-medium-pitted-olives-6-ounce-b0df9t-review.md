@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Ripe Medium Pitted Olives, 6 Ounc"
 seo_title: "365 Whole Foods Pitted Olives Review: Worth It?"
 meta_description: "365 by Whole Foods pitted olives review: texture, brine, value. See if these medium ripe olives earn their 4.6-star rating before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF9TMQ8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-worksystems.com/images/I/51LZAsjx6TL._SL1000_.jpg"
-pros:
+pros: 
   - "Consistently firm, meaty texture that holds up in salads and cooking — no mushy olives here"
   - "Clean, balanced brine without the metallic aftertaste cheaper canned olives often have"
   - "Truly pitted — no surprise pits in any of the 229 verified ratings"
-cons:
+cons: 
   - "6-ounce can is small; heavy users will need multiple cans for a party platter"
   - "No sodium-reduced option in this size — the brine is noticeably salty even for olives"
+
 ---
 
 Let's be direct: this is a 6-ounce can of black olives. It's not a coffee maker, and it's not trying to be. But if you're here because you want to know whether this specific can of pitted medium olives from Whole Foods' house brand is worth your money, you've come to the right place. With 229 ratings averaging 4.6 stars, the numbers say it's a winner. Here's what the numbers don't tell you.

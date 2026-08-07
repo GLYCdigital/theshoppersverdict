@@ -1,4 +1,5 @@
 ---
+
 title: "HP OfficeJet Pro 6978 All-in-One Wireless Printer, Instant I"
 seo_title: "HP OfficeJet Pro 6978 All-in-One Wireless Printer, Review"
 meta_description: "Our full hp officejet pro 6978 all-in-one wireless printer, instant i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01FS2W6I8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D78TKiJaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced ink cartridges lately, you know the printer industry's real business model: sell the hardware cheap, bleed you dry on consumables. The HP OfficeJet Pro 6978 attacks that problem head-on with HP's Instant Ink subscription service — and that's both its greatest strength and its biggest catch. Let's break down whether this all-in-one actually earns a spot on your desk.

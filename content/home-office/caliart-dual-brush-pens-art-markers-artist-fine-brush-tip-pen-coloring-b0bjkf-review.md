@@ -1,4 +1,5 @@
 ---
+
 title: "Caliart Dual Brush Pens Art Markers, Artist Fine & Brush Tip"
 seo_title: "Caliart Dual Brush Pens Review: Fine & Brush Tip Markers"
 meta_description: "Caliart Dual Brush Pens review: 36 vibrant colors, durable dual tips, low bleed. See how these artist markers perform for lettering, coloring, and sketching."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJKFQRCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jp8lWLM6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brush tip holds a sharp point through heavy use — no fraying after weeks of lettering practice"
   - "Ink lays down saturated color in one pass, so you don't need to layer repeatedly for vibrancy"
   - "Plastic barrel is thick enough to survive drops without cracking — a common failure point in cheaper sets"
-cons:
+cons: 
   - "Ink bleeds through standard printer paper; you'll need marker paper or cardstock for serious work"
   - "No individual replacement pens — when one color runs dry, you're buying a whole new set"
+
 ---
 
 You can spot a cheap marker set from across the room: watery ink, frayed tips, colors that look nothing like the barrel. The Caliart Dual Brush Pens aren't that. This 36-piece set has earned a 4.6-star rating from 229 Amazon shoppers, and after digging through the feedback, the praise is consistent — these punch well above their price point for a dual-tip marker set.

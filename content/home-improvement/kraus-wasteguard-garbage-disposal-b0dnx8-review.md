@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus WasteGuard Garbage Disposal"
 seo_title: "Kraus WasteGuard Garbage Disposal Review: Verdict | TSV"
 meta_description: "Our full kraus wasteguard garbage disposal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNX8482P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XWR0T6VYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kraus WasteGuard isn't the cheapest disposal you'll find, and it's not trying to be.** At 4.6 stars across 229 Amazon ratings, it sits squarely in the "buy once, cry once" territory — a mid-to-upper-tier unit that promises durability and quiet operation without the premium markup of the big names. I've tested enough disposals to know that's a crowded space. Here's where the WasteGuard actually earns its keep.

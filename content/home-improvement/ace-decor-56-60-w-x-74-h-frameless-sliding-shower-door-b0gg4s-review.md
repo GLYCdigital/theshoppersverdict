@@ -1,24 +1,26 @@
 ---
+
 title: "ACE DECOR 56-60 inch  W x 74 inch  H Frameless Sliding Shower Door, Gl"
 seo_title: "ACE DECOR Frameless Sliding Shower Door Review (2026)"
 meta_description: "Honest ACE DECOR 56-60 inch  frameless sliding shower door review: build quality, installation pain points, and real buyer feedback. See if it's worth it."
 slug: "ace-decor-56-60-w-x-74-h-frameless-sliding-shower-door-b0gg4s-review"
 image_alt: "ACE DECOR frameless sliding shower door in clear glass with brushed nickel hardware"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GG4SFVC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IlSQ+ajlL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 3/8 inch  tempered glass with clear ANSI certification markings — not cheap 1/4 inch  panels"
   - "Sliding design fits narrower openings (56-60 inch ) where pivoting doors won't work"
   - "Full-length magnetic seal keeps water in better than most frameless sliders at this price"  
-cons:  
+cons: 
   - "Installation is brutal for one person — top rail requires precise leveling before glass goes in"  
   - "Several buyers report hairline cracks in glass during shipping or install; inspect immediately"  
   - "Roller adjustment is finicky — wheels can bind if the track isn't perfectly shimmed"
+
 ---
 
 Frameless shower doors look like a million bucks — until you try to install one. The ACE DECOR 56-60" sliding model sits in the middle of the pack: it's genuinely well-built for the money, but it will test your patience and your measuring tape. After digging through 195 ratings and the spec sheet, here's what you actually need to know before clicking buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Le Monde Gourmand Perfume Oil - 1 fl oz | 30ml"
 seo_title: "Le Monde Gourmand Perfume Oil - 1 fl oz | 30ml Review: Ve"
 meta_description: "Our full le monde gourmand perfume oil - 1 fl oz | 30ml review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B69R77JD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71azarPMmZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Le Monde Gourmand’s perfume oils have a cult following for a reason, but they’re not for everyone. Let’s cut through the hype and figure out if this 30ml bottle deserves a spot in your rotation.

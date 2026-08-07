@@ -1,4 +1,5 @@
 ---
+
 title: "MageGee TS91 Mini 60% Gaming/Office Keyboard,Waterproof Keyc"
 seo_title: "MageGee TS91 Mini 60% Gaming/Office Keyboard,Water Review"
 meta_description: "Our full magegee ts91 mini 60% gaming/office keyboard,waterproof keyc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08F7HTCBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714Y4KXLVPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MageGee TS91 makes a compelling argument that you don't need to spend $150 on a mechanical keyboard to get 90% of the experience. At its typical street price, this compact 60% board undercuts most competitors while delivering genuine mechanical switches, RGB lighting, and a spill-resistant design. But the tradeoffs are real — especially if you're coming from a full-size keyboard.

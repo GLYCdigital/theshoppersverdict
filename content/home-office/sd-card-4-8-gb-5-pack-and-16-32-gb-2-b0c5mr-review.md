@@ -1,4 +1,5 @@
 ---
+
 title: "SD Card 4 & 8 GB 5 Pack and 16 & 32 GB 2 Pack"
 seo_title: "SD Card 4 & 8 GB 5 Pack and 16 & 32 GB 2 Pack Review: Ver"
 meta_description: "Our full sd card 4 & 8 gb 5 pack and 16 & 32 gb 2 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5MRYTDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gMIVV0CRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **These budget cards won't star in your flagship camera, but for the right devices, they're a solid value play.**

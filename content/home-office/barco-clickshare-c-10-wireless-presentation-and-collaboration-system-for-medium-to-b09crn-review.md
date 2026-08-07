@@ -1,4 +1,5 @@
 ---
+
 title: "Barco ClickShare C-10 — Wireless Presentation and Collaboration System for Medium Rooms"
 seo_title: "Barco ClickShare C-10 Review: Wireless Conferencing That Just Works"
 meta_description: "Read our Barco ClickShare C-10 review — wireless screen sharing with one-click setup, 4K output, and dual-screen support. Is it worth $1,000+? Find out."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B09CRNH1L4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UR6iausrL._SL1500_.jpg"
-pros:
+pros: 
   - "One-click wireless presentation with zero software installs for guests — the included USB button works instantly on Windows, Mac, and Linux"
   - "Dual-screen output with 4K resolution (3840x2160) at 30fps, so two presenters can share side-by-side without switching windows"
   - "AirPlay, Google Cast, and Miracast support built in — laptop, phone, or tablet users can share natively without the button"
-cons:
+cons: 
   - "No built-in scheduling display or room booking integration — you'll need a separate panel for that"
   - "The included ClickShare Button is easy to lose; replacements run roughly $150–200 each"
   - "Setup requires a network switch with PoE+ (Power over Ethernet) — some smaller offices may need to buy one"
+
 ---
 
 # Barco ClickShare C-10: The Conference Room Fix That Ends Cable Chaos

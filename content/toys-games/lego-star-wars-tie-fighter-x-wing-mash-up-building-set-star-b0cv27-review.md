@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars TIE Fighter & X-Wing Mash-Up Building Set - S"
 seo_title: "LEGO Star Wars TIE Fighter & X-Wing Mash-Up Buildi Review"
 meta_description: "Our full lego star wars tie fighter & x-wing mash-up building set - s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV2772ZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U5AGCxTEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

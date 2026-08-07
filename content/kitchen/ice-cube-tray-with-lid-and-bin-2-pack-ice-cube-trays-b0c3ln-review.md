@@ -1,4 +1,5 @@
 ---
+
 title: "Ice Cube Tray with Lid and Bin, 2 Pack Ice Cube Trays for Fr"
 seo_title: "Ice Cube Tray with Lid and Bin, 2 Pack Ice Cube Tr Review"
 meta_description: "Our full ice cube tray with lid and bin, 2 pack ice cube trays for fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0C3LN9X61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u4aioJdPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ice Cube Tray with Lid and Bin, 2 Pack: Convenient Concept, Execution Gaps

@@ -1,4 +1,5 @@
 ---
+
 title: "ECOLipak 150 Piecs Compostable Square Plates"
 seo_title: "ECOLipak Compostable Square Plates Review (2026): Are They Worth It?"
 meta_description: "ECOLipak 150-piece compostable square plates review: real strength tests, soak-through resistance, and value vs. paper plates. Find out if they're worth buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBCD7XL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Gh5qwTP3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavyweight 10-inch square design (approx. 2.5mm thick) resists sagging even with loaded pasta or BBQ plates"
   - "Genuinely compostable bagasse construction — no PLA lining, so it breaks down in backyard compost within 45-60 days"
   - "Square shape maximizes plate surface area over round alternatives, giving you roughly 15% more usable space"
-cons:
+cons: 
   - "Not microwave-safe for more than 60 seconds — extended heating causes the bagasse to soften and weep moisture"
   - "Texture is rougher than coated paper plates; some users find the natural fiber finish off-putting for formal dining"
   - "No lids or compartments — you'll need separate bowls for sides, and the square shape doesn't fit standard round to-go containers"
+
 ---
 
 Here is the full review:

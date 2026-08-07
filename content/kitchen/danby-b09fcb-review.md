@@ -1,4 +1,5 @@
 ---
+
 title: "Danby"
 seo_title: "Danby Review: Is This Kitchen Appliance Worth It? (2026)"
 meta_description: "Danby kitchen appliance review: performance, build quality, and real buyer feedback. See who should buy it and who should skip it before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09FCBJFTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zwsYcJ+UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quiet operation measured well below competing models in its class"
   - "Compact footprint fits standard countertop spaces without overhang"
   - "Straightforward controls with no learning curve — set and walk away"
-cons:
+cons: 
   - "No digital display on the base model — you're working with analog dials only"
   - "Some buyers report the exterior scratches more easily than expected"
   - "Cord length is shorter than ideal for kitchens with limited outlet placement"
+
 ---
 
 # Danby Review: The Quiet Workhorse Your Kitchen Didn't Know It Needed

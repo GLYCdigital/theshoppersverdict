@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech MX Keys Mini for Mac"
 seo_title: "Logitech MX Keys Mini for Mac Review: Verdict | TSV"
 meta_description: "Our full logitech mx keys mini for mac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSGD4LNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e9GHOPagL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech MX Keys Mini for Mac solves a problem you didn't know you had — until you use it. As shown in the product image, this is a compact 75% layout keyboard that drops the number pad and function row to save desk space while keeping every key you actually need. With a 4.5-star average across 225 ratings, it's clearly doing something right. Here's the honest breakdown.

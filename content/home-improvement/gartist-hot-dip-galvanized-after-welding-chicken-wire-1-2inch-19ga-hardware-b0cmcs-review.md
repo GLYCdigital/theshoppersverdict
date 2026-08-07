@@ -1,4 +1,5 @@
 ---
+
 title: "Gartist Hot-Dip Galvanized After Welding Chicken Wire, 1/2in"
 seo_title: "Gartist 1/2in Galvanized Chicken Wire Review: Worth It?"
 meta_description: "Honest Gartist 1/2in hot-dip galvanized chicken wire review. Build quality, real-world durability, and who should buy. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMCS4HHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mOCsCRyNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True hot-dip galvanized after welding — zinc coats weld points, not just wire surface, so joints don't rust first"
   - "1/2-inch mesh is tight enough to block mice, snakes, and small predators, not just keep chickens in"
   - "19-gauge wire feels noticeably stiffer than cheap 20-gauge rolls; holds shape when cut"
-cons:
+cons: 
   - "Roll arrives tightly wound — it fights you during unrolling and takes two people to manage cleanly"
   - "Sharp cut ends will snag clothing and skin; plan on wearing gloves and using dedicated tin snips"
+
 ---
 
 Most chicken wire is garbage. It's flimsy, rusts at the weld points within a season, and a determined raccoon can peel it apart like tinfoil. The Gartist 1/2-inch hot-dip galvanized welded wire is not most chicken wire. Here's the honest breakdown after digging through 235 ratings and what buyers actually report.

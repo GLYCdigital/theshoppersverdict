@@ -1,4 +1,5 @@
 ---
+
 title: "Greater Goods Electric Gooseneck Kettle - 1200 Watt Precisio"
 seo_title: "Greater Goods Electric Gooseneck Kettle - 1200 Wat Review"
 meta_description: "Our full greater goods electric gooseneck kettle - 1200 watt precisio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CC1HR5YH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I0s8uwCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you're shopping for a gooseneck kettle, you're probably already a pour-over devotee or a tea snob who's tired of nuking water in the microwave. The Greater Goods Electric Gooseneck Kettle targets exactly that crowd, and for the most part, it hits the mark.

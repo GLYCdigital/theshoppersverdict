@@ -1,4 +1,5 @@
 ---
+
 title: "C-Hopetree Rectangular Outdoor Patio Market Umbrella with So"
 seo_title: "C-Hopetree Rectangular Patio Umbrella Review: Solar LED"
 meta_description: "Honest C-Hopetree rectangular patio umbrella review: solar LED lights, 10ft coverage, tilt mechanism. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CFTHD4FJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41o2jt2qC+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solar-powered LED lights along the ribs provide practical evening illumination without wiring or batteries"
   - "Rectangular canopy design actually covers long dining tables and outdoor sofas far better than round umbrellas"
   - "Crank tilt mechanism is smooth and holds position even in moderate wind"
-cons:
+cons: 
   - "Fabric is lighter-weight polyester that can fade or mildew if left out in harsh sun or rain all season"
   - "Pole is two-piece steel that can wobble at the joint unless the collar is fully tightened"
   - "Solar charge requires several hours of direct sun; overcast stretches drain the lights fast"
+
 ---
 
 **The Short Version**

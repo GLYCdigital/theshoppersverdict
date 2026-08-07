@@ -1,4 +1,5 @@
 ---
+
 title: "RICHFOCUS Picture Ledge Shelf"
 seo_title: "RICHFOCUS Picture Ledge Shelf Review: Verdict | TSV"
 meta_description: "Our full richfocus picture ledge shelf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZ2457TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Osgl73WDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Floating picture ledges are one of those products that look simple until you try to hang one level. The RICHFOCUS Picture Ledge Shelf aims to solve that with a hidden bracket system and a clean, minimalist profile. After digging through the specs, the 4.6-star rating across 229 reviews, and what actual buyers are saying, here's the honest breakdown.

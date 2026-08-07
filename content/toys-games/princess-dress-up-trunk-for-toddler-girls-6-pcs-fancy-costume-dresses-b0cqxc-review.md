@@ -1,4 +1,5 @@
 ---
+
 title: "Princess Dress Up Trunk for Toddler Girls, 6 Pcs Fancy Costu"
 seo_title: "Princess Dress Up Trunk for Toddler Girls, 6 Pcs F Review"
 meta_description: "Our full princess dress up trunk for toddler girls, 6 pcs fancy costu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQXCV65R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tXtDoNJKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: if you have a toddler who's obsessed with all things princess, you've probably already been price-checking individual costume dresses. They run $15–$25 each, and they're often flimsy polyester with scratchy elastic. This trunk from B0CQXCV65R bundles six complete outfits for roughly the price of two single dresses. That math alone gets most parents' attention. But is the quality worth it, or are you just buying a pile of cheap fabric?

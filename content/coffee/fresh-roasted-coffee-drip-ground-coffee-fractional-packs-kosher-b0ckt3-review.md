@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Roasted Coffee, Drip Ground Coffee Fractional Packs, K"
 seo_title: "Fresh Roasted Coffee Fractional Packs Review (2026)"
 meta_description: "Honest review of Fresh Roasted Coffee Drip Ground Fractional Packs. Kosher, small-batch, 4.5 stars. Is it worth it? Find out what buyers really say."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKT3PXPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WNPT3S9zL._SL1200_.jpg"
-pros:
+pros: 
   - "Truly fresh roast date printed on each box — coffee arrives within days of roasting, not months"
   - "Fractional packs lock in aroma and flavor; no stale grounds sitting in an open bag"
   - "Kosher certified and available in multiple roasts, making it a versatile pantry staple"
-cons:
+cons: 
   - "No whole-bean option — you're locked into their grind size, which may be too fine for some drip machines"
   - "Individual packs create more packaging waste than a single bag of grounds"
   - "Price per ounce runs higher than bulk ground coffee from major brands"
+
 ---
 
 **Fresh Roasted Coffee's fractional packs solve a real problem: stale coffee.** Most ground coffee sits in warehouses for months before it hits your shelf. These individual foil packs arrive with a roast date printed right on the box — typically within days of leaving the roaster. That's a meaningful difference you can taste.

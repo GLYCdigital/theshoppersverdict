@@ -1,4 +1,5 @@
 ---
+
 title: "AMAZING GOODS 10 oz Hot Beverage Disposable NEW YORK CITY Co"
 seo_title: "AMAZING GOODS 10 oz Hot Beverage Cups Review (2026)"
 meta_description: "Honest AMAZING GOODS 10 oz NYC disposable hot cups review: insulation, leak-resistance, value. See pros, cons & who should buy before you order."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B2Q97P35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lDGBw7N9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid double-wall construction holds shape with hot liquids and doesn't buckle when squeezed"
   - "New York City-themed design is printed clearly and doesn't smudge or fade with condensation"
   - "10 oz capacity suits standard coffee machines and tea brewers without overfilling"
-cons:
+cons: 
   - "No lid included — you'll need to buy them separately, which adds to the per-cup cost"
   - "Not suitable for microwave reheating; the printed design can degrade with high heat"
+
 ---
 
 If you're tired of flimsy paper cups that go soggy halfway through your morning coffee, the AMAZING GOODS 10 oz Hot Beverage Disposable cups deserve a serious look. This NYC-themed cup has earned a 4.6-star average across 229 Amazon ratings, and after digging into what buyers actually say, the praise isn't hype. But it's not perfect either — here's the full breakdown before you add to cart.

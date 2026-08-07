@@ -1,4 +1,5 @@
 ---
+
 title: "PLATPORTS Playground Slide - Big Backyard Freestanding Plast"
 seo_title: "PLATPORTS Playground Slide - Big Backyard Freestan Review"
 meta_description: "Our full platports playground slide - big backyard freestanding plast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01FWLNJDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41k3+LZBDzL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your backyard is the designated hangout spot for every kid on the block, the PLATPORTS Big Backyard Slide is about to become the most fought-over piece of plastic you own.** With 225 ratings holding a solid 4.5-star average, this freestanding twist slide has earned its place in the rotation. But is it worth the assembly sweat? I dug into the specs, the customer chatter, and the real-world quirks to give you the full picture.

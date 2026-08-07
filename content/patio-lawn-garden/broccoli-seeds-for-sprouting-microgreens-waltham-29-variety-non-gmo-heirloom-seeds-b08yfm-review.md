@@ -1,4 +1,5 @@
 ---
+
 title: "Broccoli Seeds for Sprouting & Microgreens | Waltham 29 Vari"
 seo_title: "Waltham 29 Broccoli Seeds Review: Best for Sprouting?"
 meta_description: "Honest Waltham 29 broccoli seeds review — germination rates, sprouting tips, and flavor. See if these microgreen seeds earn a 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08YFM3TQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711V5DCH7bL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Consistently high germination rates — most buyers report 95%+ sprouting within 2-3 days"
   - "Clean seed stock with minimal debris or hulls, reducing mold risk during sprouting"
   - "Waltham 29 is a proven variety bred for cold tolerance, producing mild, sweet microgreens without bitterness"
-cons:
+cons: 
   - "Seed hulls can cling to microgreen cotyledons, requiring extra rinsing before harvest"
   - "No resealable zipper on the bag — you'll need your own storage container for long-term seed keeping"
+
 ---
 
 If you've ever stared at a $12 clamshell of broccoli microgreens at the grocery store and thought, "I could grow this myself," you're right. And this is the seed to do it with.

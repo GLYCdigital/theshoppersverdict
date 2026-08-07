@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Grain Free Classic Beef and Chicken Entree D"
 seo_title: "Purina Pro Plan Grain Free Classic Beef and Chicke Review"
 meta_description: "Our full purina pro plan grain free classic beef and chicken entree d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0815SR1LN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QuBtW1InL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns up his nose at dry kibble but you're not willing to feed raw, this Purina Pro Plan grain-free pâté is the middle ground that actually works. With 229 ratings averaging 4.6 stars, the Classic Beef and Chicken Entree has earned its spot in the rotation for plenty of picky eaters. But is it right for *your* dog? Let's dig in.

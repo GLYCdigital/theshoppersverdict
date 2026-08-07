@@ -1,4 +1,5 @@
 ---
+
 title: "Smartoo Dog Water Fountain for Large Dogs with 1/3/9/12/16 P"
 seo_title: "Smartoo Dog Water Fountain for Large Dogs with 1/3 Review"
 meta_description: "Our full smartoo dog water fountain for large dogs with 1/3/9/12/16 p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXVRQGC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sGsRNDDwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: If you've got a big dog that drinks like a fire hose, the Smartoo Dog Water Fountain is one of the few fountains that actually keeps up. Most pet fountains on Amazon are glorified birdbaths — too shallow, too small, and the pump dies in three months. This one has the capacity and the muscle for large breeds. But it's not without a few quirks.

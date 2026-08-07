@@ -1,4 +1,5 @@
 ---
+
 title: "Brut Cow Compost – Nutrient-Rich Composted Cow Manure Orga"
 seo_title: "Brut Cow Compost Review: Organic Soil Amendment Worth It?"
 meta_description: "Honest Brut Cow Compost review: 4.8-star organic cow manure amendment. Does it deliver nutrients? We break down odor, texture, and results."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GXX142ZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810AqtMPshL._SL1500_.jpg"
-pros:
+pros: 
   - "Fully composted and screened — no raw manure burn risk, uniform texture works for topdressing or mixing"
   - "Noticeably low odor for a manure product; earthy smell dissipates within hours of working into soil"
   - "Visible results in 2–3 weeks on leafy greens and container veggies when mixed at 20–25% ratio"
-cons:
+cons: 
   - "Bag weight varies noticeably — some buyers report 35–38 lbs despite the 40 lb listing, so weigh before planning"
   - "Fine, powdery consistency can clump when wet; needs thorough mixing to avoid localized nutrient pockets"
   - "No NPK percentages printed on bag — you're trusting the 'composted cow manure' label without lab numbers"
+
 ---
 
 Let's cut through the marketing. You're looking at a bag of composted cow manure, and you want to know if it's worth hauling home versus the cheap stuff at the big-box store. Brut Cow Compost has earned a 4.8-star average across 240 ratings, which tells me real gardeners are coming back satisfied. But satisfaction alone doesn't tell you whether it's right for your beds.

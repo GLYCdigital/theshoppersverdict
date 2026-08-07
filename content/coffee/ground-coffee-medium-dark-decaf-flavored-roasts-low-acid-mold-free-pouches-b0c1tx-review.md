@@ -1,4 +1,5 @@
 ---
+
 title: "Ground Coffee Medium Dark Decaf Flavored Roasts Low Acid Mol"
 seo_title: "Ground Coffee Medium Dark Decaf Flavored Roasts Lo Review"
 meta_description: "Our full ground coffee medium dark decaf flavored roasts low acid mol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C1TXS2F3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813ufuxPiFL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most decaf coffee tastes like hot brown water with a grudge. This one doesn't. That's the short version. The longer version is worth reading if you've been burned by decaf before — or if your stomach has been burning *you* after your morning cup.

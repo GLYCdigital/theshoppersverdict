@@ -1,4 +1,5 @@
 ---
+
 title: "207 216 SUP01 inch"
 seo_title: "207 216 SUP01 Review: Is This Workspace Gear Worth It?"
 meta_description: "Honest 207 216 SUP01 review: build quality, real-world performance, and who should buy it. See pros, cons, and our 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BX972G45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713s1Un5TDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined aluminum base adds real stability — no wobble even during aggressive typing sessions"
   - "Cable management channel hides both power and data cables cleanly, reducing desk clutter"
   - "Tool-free height adjustment lets you switch between sitting and standing in under five seconds"
-cons:
+cons: 
   - "Non-slip pads are thin; they hold on wood but slide slightly on glass desktops"
   - "Package doesn't include a USB-C cable — you'll need to supply your own for data transfer"
+
 ---
 
 ## The 207 216 SUP01 is the rare workspace accessory that actually earns its desk space

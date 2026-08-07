@@ -1,4 +1,5 @@
 ---
+
 title: "Frito-Lay Chips"
 seo_title: "Frito-Lay Chips Review: Worth It or Skip? (2026)"
 meta_description: "Frito-Lay Chips review: 4.6/5 stars from 229 ratings. We break down value, freshness, variety, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMWZHGMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hOR0K4+YL._SL1500_.jpg"
-pros:
+pros: 
   - "Wide variety pack covering classic favorites — Lay's, Doritos, Cheetos, and Fritos in one order"
   - "Individual serving bags (roughly 1 oz each) make portion control and lunchbox packing effortless"
   - "Freshness consistently praised — sealed bags arrive intact with no crushed or stale product reported"
-cons:
+cons: 
   - "No customization — you get whatever assortment Amazon ships, and it can vary between orders"
   - "Per-ounce price runs higher than buying full-size bags at a grocery store"
+
 ---
 
 Let's be blunt: you don't need a review to know what Frito-Lay chips taste like. The question is whether this particular bundle — roughly $14 for a mix of snack-size bags — is worth your money. After digging through 229 ratings and the actual product specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Western Digital 240GB WD Green SN350 NVMe Internal SSD Solid"
 seo_title: "Western Digital 240GB WD Green SN350 NVMe Internal Review"
 meta_description: "Our full western digital 240gb wd green sn350 nvme internal ssd solid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09F3NYNTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BRworEhOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: at $74 for 240GB, this drive isn't winning any capacity-per-dollar awards. But if you're stuck with a mechanical hard drive or an aging SATA SSD, the WD Green SN350 is the cheapest way to jump into NVMe speeds — and for office work, that's exactly the upgrade that makes an old machine feel new.

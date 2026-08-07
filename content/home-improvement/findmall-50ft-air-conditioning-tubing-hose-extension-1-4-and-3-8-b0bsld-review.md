@@ -1,4 +1,5 @@
 ---
+
 title: "findmall 50FT Air Conditioning Tubing Hose Extension 1/4 and"
 seo_title: "findmall 50FT AC Tubing Hose Extension Review (2026)"
 meta_description: "findmall 50FT AC tubing hose extension review: 1/4 & 3/8 lines, real-world performance, durability, and fitment issues. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BSLD8GX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdMQQgy+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 50-foot length with both 1/4-inch and 3/8-inch lines pre-flared and capped — no cutting or flaring needed for standard mini-split installations"
   - "Thick wall construction with quality insulation that holds up to bending without kinking, even in tight spaces"
   - "Comes with 5/16-inch and 3/8-inch nuts pre-installed, saving a trip to the supply house for common connection sizes"
-cons:
+cons: 
   - "Some units arrive with slightly off-angle flares that require re-flaring before vacuuming — inspect both ends immediately"
   - "No included insulation tape for the fittings, so you'll need to buy separate line set wrap for exposed connections"
+
 ---
 
 If you're installing a mini-split and the factory line set comes up short, you've got two options: buy a pre-flared extension like this findmall 50-footer, or spend an afternoon learning to flare copper yourself. For most DIYers and even plenty of pros, the extension is the smarter play — provided you inspect it before you vacuum the system down.

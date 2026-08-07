@@ -1,4 +1,5 @@
 ---
+
 title: "Easyego Modern Cat Tree Review: Worth It?"
 seo_title: "Easyego Modern Cat Tree Review (2026): Is It Worth It?"
 meta_description: "Easyego Modern Cat Tree review: 4.7-star rated cat condo. Real pros, cons, and buyer feedback. Is this stylish cat tree worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSJHM88B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VE7jmNKaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction with anti-tip bracket — holds up to 25 lbs of active cat without wobbling"
   - "Replaceable scratching posts extend product life; real sisal rope, not glued-on carpet scraps"
   - "Modern aesthetic (faux wool fabric, clean lines) that doesn't look like a basement afterthought"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes with 20+ steps; the included allen wrench is workable but slow"
   - "The top perch is on the smaller side — a 15+ lb Maine Coon will hang off the edges"
+
 ---
 
 **Is the Easyego Modern Cat Tree actually modern, or is that just marketing speak?** I've tested enough cat furniture to be cynical about the word "modern" — it usually means "we painted particle board gray." But the Easyego surprised me. This 4.7-star rated cat tree (235 ratings on Amazon) delivers on its design promise without sacrificing the structural integrity your cat will test daily.

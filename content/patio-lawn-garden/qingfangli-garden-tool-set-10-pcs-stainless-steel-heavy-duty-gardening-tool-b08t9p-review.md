@@ -1,4 +1,5 @@
 ---
+
 title: "QINGFANGLI Garden Tool Set,10 PCS Stainless Steel Heavy Duty"
 seo_title: "QINGFANGLI Garden Tool Set,10 PCS Stainless Steel  Review"
 meta_description: "Our full qingfangli garden tool set,10 pcs stainless steel heavy duty review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08T9P3TWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613Dq4R-2HL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. You've seen a dozen garden tool sets on Amazon, all promising "heavy duty" and "stainless steel." Most are painted carbon steel with a misleading label. The QINGFANGLI 10-piece set is different — but it's not perfect. Here's what you need to know before you click buy.

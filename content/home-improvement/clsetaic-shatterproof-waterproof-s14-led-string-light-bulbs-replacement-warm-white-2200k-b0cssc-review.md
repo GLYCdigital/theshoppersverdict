@@ -1,4 +1,5 @@
 ---
+
 title: "CLSETAIC Shatterproof & Waterproof S14 LED String Light Bulb"
 seo_title: "CLSETAIC S14 LED Bulb Review: Shatterproof & Waterproof"
 meta_description: "CLSETAIC S14 LED replacement bulbs review: shatterproof, waterproof, 2200K warm white. See real performance, fitment issues, and buying advice."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSSCW55H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qpBB2VGaS._AC_SL1412_.jpg"
-pros:
+pros: 
   - "Genuinely shatterproof polycarbonate construction survives drops and impacts that would destroy glass S14 bulbs instantly"
   - "True 2200K warm white with even 360-degree glow — no visible LED hotspots or harsh color casts"
   - "IP65 waterproof rating handles direct rain, sprinklers, and hose-downs without internal fogging"
-cons:
+cons: 
   - "Screw-base fitment can be loose on some string light sockets — may require a twist or slight bend for a snug connection"
   - "At roughly 1.5W per bulb, they're dimmer than equivalent 7W glass S14s — fine for ambiance, not for task lighting"
+
 ---
 
 If you've ever watched a glass S14 bulb explode across your patio when a branch dropped or a ladder bumped the line, you already know why the CLSETAIC shatterproof S14s exist. At 4.6 stars across 229 ratings, these polycarbonate replacements are earning their keep on pergolas, restaurant patios, and backyard string light setups. But they're not a perfect drop-in swap for every fixture. Here's what you need to know before you buy.

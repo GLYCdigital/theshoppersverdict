@@ -1,4 +1,5 @@
 ---
+
 title: "INJORA 51mm Shocks-Long Travel Threaded Double Barrel Damper"
 seo_title: "INJORA 51mm Shocks Review: Long Travel Threaded Dampers"
 meta_description: "INJORA 51mm long travel threaded double barrel shocks reviewed for Axial AX24. Real performance, build quality, and fitment data from 220+ ratings."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2HLJNXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716dVDh5DyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Threaded bodies allow precise ride-height tuning without swapping springs or disassembling the shock"
   - "Double barrel damper design adds oil volume for more consistent damping over rough terrain"
   - "51mm stroke is a genuine upgrade over stock AX24 shocks — noticeably more articulation at the axles"
-cons:
+cons: 
   - "Stock springs are on the soft side; heavier AX24 builds may need the included preload spacers or aftermarket springs"
   - "Hardware is small and easy to lose — have a magnetic tray handy during install"
+
 ---
 
 # INJORA 51mm Shocks Review: Worth the Upgrade for Your AX24?

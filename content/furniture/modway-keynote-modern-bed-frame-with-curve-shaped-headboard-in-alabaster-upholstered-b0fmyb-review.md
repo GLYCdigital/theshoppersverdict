@@ -1,4 +1,5 @@
 ---
+
 title: "Modway Keynote Modern Bed Frame with Curve Shaped Headboard "
 seo_title: "Modway Keynote Modern Bed Frame with Curve Shaped  Review"
 meta_description: "Our full modway keynote modern bed frame with curve shaped headboard  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0FMYBRZ2T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Maap9MElL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a hundred cookie-cutter platform beds, the Modway Keynote stops the scroll. This isn't another flat, boxy frame. The curved headboard is the whole story here — a sculptural arc that wraps slightly forward at the top, giving you something real to lean against when you read or watch TV in bed. With a perfect 5.0 average across 250 ratings, it's clearly connecting with buyers. But perfect scores deserve scrutiny. Here's the honest breakdown.

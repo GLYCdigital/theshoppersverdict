@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Sushi Slicing Wooden Play Food Set"
 seo_title: "Melissa & Doug Sushi Slicing Wooden Play Food Set Review:"
 meta_description: "Our full melissa & doug sushi slicing wooden play food set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000FQ9IG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815LnetvfCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most wooden play food sets are glorified paperweights. Kids lose interest after five minutes, and parents are left stepping on wooden carrots for the next decade. The Melissa & Doug Sushi Slicing Set is different — and here's why it's earned a 4.8-star average from 240 buyers.

@@ -1,4 +1,5 @@
 ---
+
 title: "BELLEBOOST Jelly Bedazzling Rhinestones for Crafting and Nai"
 seo_title: "BELLEBOOST Jelly Rhinestones Review: Worth It? (2026)"
 meta_description: "Honest BELLEBOOST jelly rhinestones review: 4.7-star rated nail & craft gems. Tested for adhesion, sparkle, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4KCHMXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91A36rbPFOL._SL1500_.jpg"
-pros:
+pros: 
   - "Unusually consistent sizing across all 12 colors — no surprise mini stones ruining a pattern"
   - "Jelly translucent finish catches light differently than standard glass — looks expensive on nails"
   - "Flat-backed design sits flush on nail tips and cardstock without rolling during placement"
-cons:
+cons: 
   - "No applicator tool or wax pencil included — you'll need tweezers or a dotting tool"
   - "Clear jelly shades can look washed out on dark polish; need a light base coat to pop"
+
 ---
 
 At $6.42, you'd expect a grab bag of misshapen plastic. The BELLEBOOST jelly rhinestones are not that. This 12-color set of flat-backed gems has earned a 4.7-star average from 235 buyers — and the consistency of sizing is the first thing you'll notice. Each stone in the batch I examined matched its color-mates within fractions of a millimeter. That matters when you're laying a gradient down a nail bed or framing a resin coaster.

@@ -1,4 +1,5 @@
 ---
+
 title: "Brizled LED Rope Lights"
 seo_title: "Brizled LED Rope Lights Review: Honest 2026 Verdict"
 meta_description: "Brizled LED Rope Lights reviewed: 4.4-star rated, 100ft flexible lighting. Real pros, cons, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ7XHDJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814IJfc+JVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 100ft continuous run without dark spots or voltage drop at the far end"
   - "IP65 weatherproofing holds up through rain, snow, and direct sun exposure"
   - "12 color modes plus music sync — actual useful variety, not gimmick presets"
-cons:
+cons: 
   - "Adhesive backing is weak on textured surfaces — you'll need clips or zip ties"
   - "Controller box is bulky and can be awkward to hide in tight installations"
+
 ---
 
 ### The 100-Foot Question Nobody Answers

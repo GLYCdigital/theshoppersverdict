@@ -1,4 +1,5 @@
 ---
+
 title: "Doctor Kit for Girls -Vet Play Sets for Kids, Pretend Play D"
 seo_title: "Vet Play Set for Kids Review: Best Doctor Kit for Girls 2026 inch"
 meta_description: "Our honest vet play set review: 26-piece doctor kit for girls with carrying case, working stethoscope, and vet tools. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM5ST3ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hFw-3fy2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26 pieces means real variety — stethoscope, syringe, otoscope, thermometer, and a vet-specific carry case that actually organizes everything"
   - "Working stethoscope with audible heartbeat sound engages kids beyond just holding props"
   - "Sturdy plastic construction holds up to repeated play; pieces snap back together after aggressive toddler handling"
-cons:
+cons: 
   - "The pink/girl-centric color scheme and 'for Girls' labeling unnecessarily narrows appeal — plenty of boys would love this vet kit too"
   - "Some smaller accessories like the syringe plunger can pop out during enthusiastic play and get lost under furniture"
+
 ---
 
 ## The Verdict at a Glance

@@ -1,10 +1,11 @@
 ---
+
 title: "HENCKELS Statement 15-Piece Knife Set Review: German Quality at $139.95"
 seo_title: "HENCKELS Statement Knife Set Review — 4.6 Stars | TSV"
 meta_description: "HENCKELS Statement 15-piece knife set review: 4.6 stars, 24,512 ratings, $139.95. German blades, razor-sharp edge. A kitchen upgrade built to last."
 slug: "henckels-statement-15-piece-knife-set-review"
 image_alt: "HENCKELS Statement razor-sharp 15-piece white handle knife set with block, German engineered stainless steel blades"
-keywords:
+keywords: 
   - "HENCKELS Statement knife set review"
   - "best knife set 2026"
   - "German kitchen knife set"
@@ -16,18 +17,18 @@ amazon_rating: 4.6
 price: 139.95
 amazon_url: "https://www.amazon.com/dp/B08VJK4KFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bgetMyziL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally sharp out of the box — razor-sharp German steel"
   - "Good weight and balance for confident cutting"
   - "Includes all essential knives plus honing rod and shears"
   - "Beautiful white handle design complements modern kitchens"
   - "Edge retention remains strong after a year of use"
-cons:
+cons: 
   - "Steel is slightly softer than Japanese alternatives — requires honing"
   - "Must be hand-dried to prevent potential rust spots"
   - "Santoku knife may occasionally arrive with uneven edge bevel"
   - "White handles show stains more readily than dark options"
-faq:
+faq: 
   - question: "How does the HENCKELS Statement set hold up after a year?"
     answer: "Excellent. One reviewer reported that after a year of regular use with periodic honing, the knives 'are still as sharp and beautiful as the first day I got them.'"
   - question: "Does the set include a honing rod for maintenance?"
@@ -37,6 +38,7 @@ faq:
   - question: "What knives are included in the 15-piece set?"
     answer: "The set includes chef's knife, bread knife, utility knife, paring knives, steak knives, kitchen shears, honing rod, and a wooden block for storage."
 date: 2026-05-29
+
 ---
 With 24,512 reviews and a 4.6-star average, the HENCKELS Statement 15-Piece Knife Set is one of the most popular knife sets on Amazon. And for good reason — it delivers genuine German engineering at a price that undercuts many competitors by hundreds of dollars.
 

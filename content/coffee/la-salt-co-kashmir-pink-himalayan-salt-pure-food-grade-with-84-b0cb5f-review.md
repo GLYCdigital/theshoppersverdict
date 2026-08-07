@@ -1,4 +1,5 @@
 ---
+
 title: "LA SALT CO Kashmir Pink Himalayan Salt | Pure, Food Grade wi"
 seo_title: "LA SALT CO Kashmir Pink Himalayan Salt | Pure, Foo Review"
 meta_description: "Our full la salt co kashmir pink himalayan salt | pure, food grade wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB5FBW5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61clpVOR76L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LA SALT CO Kashmir Pink Himalayan Salt Review: Is the Hype Real?

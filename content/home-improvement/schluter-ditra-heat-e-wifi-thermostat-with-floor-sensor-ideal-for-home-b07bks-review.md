@@ -1,4 +1,5 @@
 ---
+
 title: "Schluter Ditra-Heat-E-WiFi Thermostat with Floor Sensor - Id"
 seo_title: "Schluter Ditra-Heat-E-WiFi Thermostat with Floor S Review"
 meta_description: "Our full schluter ditra-heat-e-wifi thermostat with floor sensor - id review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07BKST1ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41CFGWwHzTL._AC_SL1368_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

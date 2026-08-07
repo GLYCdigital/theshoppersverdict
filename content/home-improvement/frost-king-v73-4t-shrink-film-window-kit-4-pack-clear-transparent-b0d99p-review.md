@@ -1,4 +1,5 @@
 ---
+
 title: "Frost King V73/4T Shrink Film Window KIT, 4-Pack, Clear, Tra"
 seo_title: "Frost King V73/4T Shrink Film Window Kit Review (2026)"
 meta_description: "Honest Frost King V73/4T shrink film window kit review: Does the 4-pack actually stop drafts? Tested for fit, clarity, and durability. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D99PBTK7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dxz5r4TdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers up to 84 inches (7 feet) per roll — enough for a standard double-hung window with room to spare"
   - "Clear film shrinks drum-tight with a hair dryer, eliminating the wrinkled, sloppy look of cheaper kits"
   - "Double-sided tape adheres firmly to wood, vinyl, and aluminum frames without leaving sticky residue when removed carefully"
-cons:
+cons: 
   - "Tape is not included in some retailer batches — verify contents before buying, as the kit image shows tape but packaging varies"
   - "Film is thin (about 0.5 mil) and punctures easily if you press too hard while smoothing bubbles"
   - "Not reusable — once removed, the film stretches and loses its shrink properties, so it's a single-season product"
+
 ---
 
 If you've ever stood near a drafty window in January and watched your heating bill climb, you already know the pain this kit solves. The Frost King V73/4T is a 4-pack of clear shrink film designed to seal windows against cold air infiltration. At 4.5 stars from 225 Amazon ratings, it's one of the more popular options in this category — but popularity doesn't always mean performance. Here's what you actually get.

@@ -1,4 +1,5 @@
 ---
+
 title: "GARDENBRO 4 Pcs Ollas Terracotta Watering Pots Large -14 Oz"
 seo_title: "GARDENBRO Ollas Terracotta Watering Pots Review (4-Pack, 14 Oz)"
 meta_description: "Honest GARDENBRO 4-pack ollas review: 14 oz terracotta watering pots tested for drip efficiency, durability, and plant health. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DVZR5QHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CQCCGe1NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine unglazed terracotta that wicks water effectively — keeps topsoil dry while roots get consistent moisture"
   - Compact 14 oz size (roughly 5.5 inch " deep, 4 inch " wide) fits standard 5-gallon grow bags and medium planters without crowding roots
   - "Includes solid cork stoppers that seal tightly; no mosquito breeding issues or evaporation when not in use"
-cons:
+cons: 
   - "Fragile — several buyers report chipping around the rim during installation; handle gently and wet the soil first"
   - "14 oz capacity means daily refills in hot, dry climates; better suited for small containers than thirsty raised beds"
+
 ---
 
 These unglazed clay pots work on a principle older than plumbing: bury them, fill them with water, and let the terracotta sweat moisture directly to the roots. The GARDENBRO 4-pack brings that ancient tech to modern container gardening for about the price of two fancy coffee drinks. But does the execution hold up? I've dug into the specs, the customer chatter, and the physics of porous clay to give you the real answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wnutrees Farmhouse Round Coffee Table, Rustic Sofa Side Tea "
 seo_title: "Wnutrees Farmhouse Round Coffee Table, Rustic Sofa Review"
 meta_description: "Our full wnutrees farmhouse round coffee table, rustic sofa side tea  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DH2KVCFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BaO5xja5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most round coffee tables under $150 are wobbly, hollow, and look like they’ll collapse if you lean on them. The Wnutrees Farmhouse Round Coffee Table isn’t that. At 4.6 stars from 229 ratings, it’s earning its keep in real living rooms — but it’s not perfect. Here’s the breakdown.

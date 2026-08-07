@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Disney Stitch Toy Building Kit, Disney Toy for 9 Year O"
 seo_title: "LEGO Disney Stitch Toy Building Kit, Disney Toy fo Review"
 meta_description: "Our full lego disney stitch toy building kit, disney toy for 9 year o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY26D8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711NUjxK6zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the LEGO Disney Stitch set actually worth your money, or is it just another licensed cash grab? I've dug through the specs, the build experience, and what 240+ buyers are saying. Here's the honest breakdown.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Epson Workforce DS-970 Sheetfed Scanner - 600 dpi Optical,Wh"
 seo_title: "Epson DS-970 Scanner Review: Fast Duplex for Busy Offices"
 meta_description: "Epson DS-970 sheetfed scanner review: 65ppm duplex speed, 100-sheet ADF, but software quirks and mixed reliability. Is it worth it? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B07PYYRG52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ivspfu8UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Blazing 65ppm duplex scanning — a 20-page double-sided document clears in under 20 seconds"
   - "Robust 100-sheet automatic document feeder handles mixed paper weights without jamming"
   - "Built-in ultrasonic double-feed detection catches overlapping pages before they become misfiled"
-cons:
+cons: 
   - "Software setup is a chore — Epson Scan 2 and Document Capture Pro require separate downloads and occasional driver conflicts"
   - "Some units develop feed roller wear within 12-18 months of heavy use, and replacements cost $60+"
   - "No Wi-Fi — this is strictly USB 3.0 tethered, which surprises buyers expecting modern connectivity"
+
 ---
 
 If you're drowning in paperwork — contracts, invoices, client forms — the Epson Workforce DS-970 is the kind of machine that makes you wonder how you survived without it. And then it'll occasionally make you want to throw it out a window. That's the honest range of this 3.7-star scanner.

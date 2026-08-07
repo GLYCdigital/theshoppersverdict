@@ -1,4 +1,5 @@
 ---
+
 title: "homdiy Cabinet Knobs Drawer Knobs Square Kitchen Hardware fo"
 seo_title: "homdiy Cabinet Knobs Drawer Knobs Square Kitchen H Review"
 meta_description: "Our full homdiy cabinet knobs drawer knobs square kitchen hardware fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLX13F2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qUgzOYVhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're replacing dated round knobs with something geometric and modern, the homdiy square knobs deliver exactly what the product photos promise—crisp lines, a solid feel, and a finish that doesn't turn into a fingerprint magnet within a week. At 4.6 stars across 229 ratings, these aren't a gamble.

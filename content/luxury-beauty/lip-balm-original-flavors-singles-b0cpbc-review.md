@@ -1,4 +1,5 @@
 ---
+
 title: "Lip Balm | Original Flavors, Singles"
 seo_title: "Lip Balm | Original Flavors, Singles Review: Verdict | TS"
 meta_description: "Our full lip balm | original flavors, singles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPBC93DG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ztDogOvhL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the lip balm market is crowded with $3 drugstore staples and $40 influencer-backed tubes that perform identically. So where does this one — the **Lip Balm Original Flavors Singles** — actually land? After digging through 220 Amazon ratings and testing the formula's claims, here's the honest breakdown.

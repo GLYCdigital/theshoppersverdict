@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart 4 Slice Belgian Waffle Maker - Square, WAF-150NAS"
 seo_title: "Cuisinart WAF-150NAS Waffle Maker Review: Worth It?"
 meta_description: "Cuisinart 4-slice Belgian waffle maker review: deep wells, browning dial, drip tray. Real buyer feedback on performance, cleanup, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FZM1R43T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qaDmHDOmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deep 1-inch wells produce thick, fluffy Belgian waffles with crispy exteriors — not thin diner-style pancakes"
   - "Five-position browning dial actually works; you can dial in anything from pale and soft to deeply caramelized"
   - "Removable drip tray and nonstick plates make cleanup far less annoying than most waffle irons"
-cons:
+cons: 
   - "No audible beep when waffles are done — you'll need to watch the indicator light or set your own timer"
   - "Cord storage is minimal and there's no locking lid, so upright storage takes up more cabinet space"
+
 ---
 
 If you're tired of waffle makers that produce pale, soggy disks that stick to the plates and take 20 minutes to clean, the Cuisinart WAF-150NAS is worth a hard look. This 4-slice square Belgian waffle maker has earned a 4.6-star average across 229 Amazon ratings, and after digging into what buyers actually say, the praise is largely justified — with a few caveats worth knowing before you buy.

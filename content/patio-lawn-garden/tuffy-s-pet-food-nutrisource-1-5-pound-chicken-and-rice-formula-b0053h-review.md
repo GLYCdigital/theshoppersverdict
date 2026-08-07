@@ -1,4 +1,5 @@
 ---
+
 title: "Tuffy'S Pet Food Nutrisource 1.5-Pound Chicken And Rice Form"
 seo_title: "Tuffy'S Pet Food Nutrisource 1.5-Pound Chicken And Review"
 meta_description: "Our full tuffy's pet food nutrisource 1.5-pound chicken and rice form review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0053H9JTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617P7b0tGIL._AC_SL1068_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tuffy's Nutrisource Chicken & Rice: The Small-Bag Test That Actually Matters

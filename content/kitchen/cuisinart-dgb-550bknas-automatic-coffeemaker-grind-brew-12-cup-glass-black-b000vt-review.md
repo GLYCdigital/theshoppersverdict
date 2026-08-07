@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart DGB-550BKNAS Automatic Coffeemaker Grind & Brew, 1 inch"
 seo_title: "Cuisinart DGB-550BKNAS Review: Grind & Brew 12-Cup"
 meta_description: "Cuisinart DGB-550BKNAS Grind & Brew review: fresh-ground coffee in one machine. Real pros, cons, and who should buy it. Read before you spend."
@@ -11,15 +12,16 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B000VTP45Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uCuYr7U0L._AC_SL1273_.jpg"
-pros:
+pros: 
   - "Built-in conical burr grinder delivers fresher coffee than pre-ground, with 8 grind settings from coarse to fine"
   - "24-hour programmable timer lets you wake up to freshly ground and brewed coffee, not stale pre-ground sitting since last night"
   - "Auto-pause feature lets you pour a cup mid-brew without making a mess on the hot plate"
   - "Removable grinder basket and filter basket rinse clean easily under the tap — no awkward crevices"
-cons:
+cons: 
   - "Grinder is loud — noticeably noisier than a standalone grinder; you'll hear it through walls in the morning"
   - "No strength selector; you control intensity only by adjusting grind size or bean quantity"
   - "Carafe is glass, not thermal — coffee continues cooking on the hot plate and can turn bitter after 30–40 minutes"
+
 ---
 
 If you're still buying pre-ground coffee and brewing it in a $20 drip machine, the Cuisinart DGB-550BKNAS is the upgrade that will make you wonder why you waited. This 12-cup grind-and-brew unit puts a conical burr grinder and a drip coffeemaker in one chassis, so the beans go from hopper to cup in under a minute. At 4.2 stars across 210 Amazon ratings, it's not perfect — but for the price, it's one of the most practical ways to get fresh-ground coffee without a separate grinder taking up counter space.

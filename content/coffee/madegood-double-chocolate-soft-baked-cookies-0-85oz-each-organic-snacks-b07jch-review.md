@@ -1,4 +1,5 @@
 ---
+
 title: "MadeGood Double Chocolate Soft-Baked Cookies, 0.85oz Each, O"
 seo_title: "MadeGood Double Chocolate Soft-Baked Cookies, 0.85 Review"
 meta_description: "Our full madegood double chocolate soft-baked cookies, 0.85oz each, o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07JCHRG5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ai-kWAgqL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MadeGood Double Chocolate Soft-Baked Cookies Review: The Allergen-Free Cookie That Actually Tastes Like a Cookie

@@ -1,4 +1,5 @@
 ---
+
 title: "Nexxus KERAPHIX Liquid Crystallizer Hair Strengthening Treat"
 seo_title: "Nexxus KERAPHIX Liquid Crystallizer Hair Strengthe Review"
 meta_description: "Our full nexxus keraphix liquid crystallizer hair strengthening treat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FWMWJH2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i-BBOEVXL._SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Nexxus KERAPHIX Liquid Crystallizer Hair Strengthening Treat Review: Is This 60-Second Leave-In Worth the Price?**

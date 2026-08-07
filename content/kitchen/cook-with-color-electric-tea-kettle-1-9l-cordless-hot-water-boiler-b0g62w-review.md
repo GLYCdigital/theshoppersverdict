@@ -1,4 +1,5 @@
 ---
+
 title: "COOK WITH COLOR Electric Tea Kettle, 1.9L Cordless Hot Water"
 seo_title: "COOK WITH COLOR Electric Tea Kettle Review: 1.9L Boiler"
 meta_description: "Our COOK WITH COLOR 1.9L electric tea kettle review covers speed, safety, and durability. See if this cordless hot water boiler is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G62W6ZSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Uyu9BrkTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rapid 1500W heating brings 1.9L to a rolling boil in roughly 5–6 minutes"
   - "Stainless steel interior and BPA-free plastic housing — no metallic aftertaste in water"
   - "Auto shut-off plus boil-dry protection; cordless 360° base makes pouring effortless"
-cons:
+cons: 
   - "Lid doesn't lock — tilting the kettle fully can let hot water escape from the top"
   - "Exterior gets noticeably hot to the touch during boiling; keep hands clear"
   - "No temperature presets — it's a simple boil-only kettle, not a variable temp model"
+
 ---
 
 # COOK WITH COLOR Electric Tea Kettle Review: Does This 1.9L Boiler Deliver?

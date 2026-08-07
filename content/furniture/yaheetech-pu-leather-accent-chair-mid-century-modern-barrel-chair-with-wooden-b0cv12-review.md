@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech PU Leather Accent Chair, Mid-Century Modern Barrel"
 seo_title: "Yaheetech PU Leather Accent Chair, Mid-Century Mod Review"
 meta_description: "Our full yaheetech pu leather accent chair, mid-century modern barrel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV12LCSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91z8H+8Db4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Yaheetech PU Leather Accent Chair: Mid-Century Looks Without the Mid-Century Price

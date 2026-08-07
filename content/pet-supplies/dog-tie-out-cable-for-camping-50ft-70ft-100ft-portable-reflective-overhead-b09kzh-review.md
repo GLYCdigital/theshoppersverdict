@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Tie Out Cable for Camping - 50ft/70ft/100ft Portable Ref"
 seo_title: "Dog Tie Out Cable for Camping Review: Is It Worth It?"
 meta_description: "Honest review of the 50ft/70ft/100ft Portable Reflective Dog Tie Out Cable. See how it performs for camping, backyard use, and travel before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KZHPS6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DNLck3RpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty 10mm coated steel cable holds up to 100+ lb dogs without fraying or kinking"
   - "360° swivel clips on both ends prevent tangling, so your dog won't wrap themselves into a knot"
   - "Reflective threading woven into the cable improves visibility during dusk or early morning walks"
-cons:
+cons: 
   - "Included ground stake is not adequate for hard-packed or rocky soil — you'll likely need a heavier stake for permanent backyard use"
   - "Cable drags on the ground when used as a ground tie-out, which can catch on brush or tree roots in dense campsites"
+
 ---
 
 **The short version:** This is the tie-out cable I'd actually recommend to a friend who camps with a strong dog. The 4.6-star rating across 229 reviews isn't inflated—it's one of the few budget-friendly cables that doesn't twist into a mess or snap on the first excited lunge.

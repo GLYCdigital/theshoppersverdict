@@ -1,13 +1,14 @@
 ---
+
 title: "BAND-AID Brand All-Purpose Portable Compact First Aid Kit, 160 Piece | Emergency Wound Care Essentials with Adhesive Bandages, Gauze & Pain Relief for Home, Car, Dorm, Camping, Cruise & Travel"
 seo_title: "BAND-AID Brand All-Purpose Review: Verdict (4.8/5) | TSV"
 meta_description: "The quality feels reliable and it’s nice having a grab-and-go kit instead of 8,257+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "band-aid-brand-all-purpose-portable-compact-first-aid-kit-160-piece-review"
 image_alt: "BAND-AID Brand All-Purpose Portable Compact First Aid Kit, 160 Piece | Emergency Wound Care Essentials with Adhesive Ban"
-keywords:
+keywords: 
   - "bandaid brand allpurpose review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the BAND-AID Brand All-Purpose Portable?"
     answer: "The quality feels reliable and it’s nice having a grab-and-go kit instead of trying to piece supplies tog... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the BAND-AID Brand All-Purpose Portable?"
@@ -21,12 +22,13 @@ review_count: 8257
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09NWH8553/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P6jSfKcsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The quality feels reliable and it’s nice having a grab-and-go kit instead of trying to piece supplie."
   - "Compact, Complete."
   - "Compact, well-stocked kit with useful name-brand items I chose the 160-piece first aid kit because I."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The BAND-AID Brand All-Purpose Portable Compact is a popular choice - with 8,257 Amazon reviews behind it. Here is what buyers actually say.

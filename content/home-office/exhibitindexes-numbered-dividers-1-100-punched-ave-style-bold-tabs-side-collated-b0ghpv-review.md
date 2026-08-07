@@ -1,4 +1,5 @@
 ---
+
 title: "Exhibitindexes® Numbered Dividers 1-100 Punched - AVE Style"
 seo_title: "Exhibitindexes Numbered Dividers 1-100 Review (2026)"
 meta_description: "Honest Exhibitindexes Numbered Dividers 1-100 review: 4.7-star rated AVE-style tabs, 3-hole punched, side-collated. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHPVBX4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B6PJ6XbpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100 numbered tabs (1-100) included in one set — no need to buy multiple packs for large binders"
   - "Bold, oversized AVE-style tabs are easy to read at a glance, even on a crowded shelf"
   - "Side-collated numbering means tabs progress left-to-right as you flip, which is counterintuitive but efficient for reference binders"
-cons:
+cons: 
   - "Paper is standard 20lb weight — not as heavy as some premium divider sets, so rough handling can cause edge wear"
   - "Tabs are not reinforced with Mylar; heavy daily use in a litigation or classroom setting may cause tab creasing over time"
   - "The side-collated layout takes getting used to if you’re accustomed to traditional sequential tab placement"
+
 ---
 
 If you’re managing a binder that needs to hold 100 separate sections — think trial exhibits, a complete set of discovery documents, or a year’s worth of client files — you’ve probably been piecing together multiple packs of 31-tab dividers and hoping the numbering lines up. The Exhibitindexes Numbered Dividers 1-100 in AVE style eliminate that headache in one shot. This is a single set that covers the full range, and for anyone who works in legal, accounting, or project management, that’s a significant time-saver.

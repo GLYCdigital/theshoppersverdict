@@ -1,4 +1,5 @@
 ---
+
 title: "WD_Black C50 Expansion Card for Xbox"
 seo_title: "WD_Black C50 Expansion Card for Xbox Review: Verdict | TS"
 meta_description: "Our full wd_black c50 expansion card for xbox review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C8NZTKD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QxmOXxYVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **WD_Black C50 Expansion Card for Xbox** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

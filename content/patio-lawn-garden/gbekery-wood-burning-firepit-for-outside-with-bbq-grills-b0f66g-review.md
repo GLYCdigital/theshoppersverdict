@@ -1,4 +1,5 @@
 ---
+
 title: "Gbekery Wood Burning Firepit for Outside with BBQ Grills"
 seo_title: "Gbekery Wood Burning Firepit Review: BBQ Grill Combo (2026)"
 meta_description: "Honest Gbekery wood burning firepit review: dual BBQ grills, heavy-duty build, real customer feedback. Is this 2-in-1 fire pit worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F66G586B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bYZibKDJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual height-adjustable BBQ grills let you cook and keep a fire going simultaneously — rare at this price point"
   - "Heavy-gauge steel body with high-temp paint holds up through full burn seasons without warping"
   - "Included spark screen and poker make it safely usable on wood decks, not just patios"
-cons:
+cons: 
   - "Assembly requires a second person; bracket holes occasionally misalign by a few millimeters"
   - "Fire bowl is 24 inches — fine for small groups, but tight for feeding 6+ people and a roaring fire"
   - "No ash pan; cleanup means tipping the unit or scooping from the bottom"
+
 ---
 
 **The dual-purpose fire pit that actually earns its keep**

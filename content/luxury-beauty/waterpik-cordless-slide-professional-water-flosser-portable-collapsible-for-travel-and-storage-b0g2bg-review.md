@@ -1,4 +1,5 @@
 ---
+
 title: "Waterpik Cordless Slide Professional Water Flosser, Portable"
 seo_title: "Waterpik Cordless Slide Professional Water Flosser Review"
 meta_description: "Our full waterpik cordless slide professional water flosser, portable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0G2BGXMTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jKMgw5YrL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The Waterpik Cordless Slide is pitched as the flosser that finally solves travel and storage problems. And to be fair, it does solve those two specific problems. But at 3.8 stars across 190 ratings, the real story is more complicated than the product page suggests.

@@ -1,4 +1,5 @@
 ---
+
 title: "Health Extension Little Cups Grain-Free Wet Dog Food, Small "
 seo_title: "Health Extension Little Cups Grain-Free Wet Dog Fo Review"
 meta_description: "Our full health extension little cups grain-free wet dog food, small  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKJWR8V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812RvPX7ohL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: crack open a 13-ounce can of wet food for your 8-pound Yorkie, spoon out a tablespoon, and then wrestle with a smelly, half-empty tin in your fridge for the next four days. Health Extension Little Cups exist specifically to kill that problem. These 3-ounce single-serve cups are sized for small breeds, and the 4.4-star average across 220 ratings suggests the convenience alone has won over plenty of owners.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hibbent Universal Bathroom Sink Stopper, Pop Up Sink Stopper"
 seo_title: "Hibbent Universal Bathroom Sink Stopper, Pop Up Si Review"
 meta_description: "Our full hibbent universal bathroom sink stopper, pop up sink stopper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CW5JY722/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HqOcCsr4L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 Fix That Ends Drain Snaking Forever**

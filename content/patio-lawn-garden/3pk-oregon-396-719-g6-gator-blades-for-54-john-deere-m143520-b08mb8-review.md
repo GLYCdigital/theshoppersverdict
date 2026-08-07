@@ -1,4 +1,5 @@
 ---
+
 title: "3PK Oregon 396-719 G6 Gator Blades for 54 inch  John Deere M14352 inch"
 seo_title: "Oregon 396-719 G6 Gator Blades Review: 54 inch  John Deere"
 meta_description: "Oregon 396-719 G6 Gator blades for 54 inch  John Deere M14352: real owner feedback on mulching, sharpness, and deck fit. 4.3/5 rating. Is the premium worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08MB8N8D4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E8xm6nw0L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "G6 Gator's patented curved wing design produces noticeably finer clippings than standard blades — most owners report no visible clippings on the lawn after a single pass"
   - "Pre-sharpened, heat-treated steel edge holds up well across a full season; buyers consistently report 2+ seasons of use before needing replacement"
   - "Oregon's Gator line has a 40-year track record in commercial mowing — the build quality and balance are visibly superior to OEM or no-name alternatives"
-cons:
+cons: 
   - "Precision fit is exact for the M14352 deck, but if your John Deere uses a different spindle/spacer setup, you'll need to verify compatibility — some buyers report needing additional washers for older decks"
   - "These are mulching blades first, bagging second — expect reduced bagging efficiency if you switch between modes frequently"
   - "The G6 profile is aggressive; on wet or thick St. Augustine grass, some owners report the blades bog down at low engine RPMs"
+
 ---
 
 ## The Gator Bite: Why These Blades Are Worth the Upgrade

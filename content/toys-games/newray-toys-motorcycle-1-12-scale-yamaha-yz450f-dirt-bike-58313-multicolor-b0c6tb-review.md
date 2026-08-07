@@ -1,4 +1,5 @@
 ---
+
 title: "NewRay Toys Motorcycle 1:12 Scale Yamaha YZ450F Dirt Bike, 5"
 seo_title: "NewRay Toys Motorcycle 1:12 Scale Yamaha YZ450F Di Review"
 meta_description: "Our full newray toys motorcycle 1:12 scale yamaha yz450f dirt bike, 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C6TBH38S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y19XgG68L._AC_SL1062_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're shopping for a dirt bike toy that actually looks like a Yamaha YZ450F rather than a generic "moto" blob, this NewRay 1:12 scale model is the one to grab.** It's the kind of thing that sits at the intersection of "toy" and "display piece"—detailed enough for a collector's shelf, durable enough for a kid who wants to send it off a ramp. But it's not without a few compromises.

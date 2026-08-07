@@ -1,4 +1,5 @@
 ---
+
 title: "Premier Trunk Mounted Bike Rack"
 seo_title: "Premier Trunk Mounted Bike Rack Review: Verdict | TSV"
 meta_description: "Our full premier trunk mounted bike rack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07DG4S5J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z4OdnJVpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most trunk racks are either cheap junk that wobbles at 55 mph or overpriced hitch systems that cost more than your bike. The Premier Trunk Mounted Bike Rack sits somewhere in the sensible middle—and for most weekend riders, that's exactly the right spot.

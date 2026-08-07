@@ -1,4 +1,5 @@
 ---
+
 title: "AT-A-GLANCE Planner, Weekly, Telephone/Address & Hourly Sche"
 seo_title: "AT-A-GLANCE Weekly Planner Review: Hourly Scheduling & Contacts"
 meta_description: "AT-A-GLANCE DayMinder weekly planner review: hourly scheduling, contacts section, durable build. See pros, cons & who should buy this 4.8-star planner."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FF4STBJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U6Hk6x8YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hourly breakdown (7 AM–8 PM) on every weekday spread — rare at this price point, genuinely useful for appointment-heavy schedules"
   - "Built-in telephone/address book with A–Z tabs saves you from buying a second organizer"
   - "Durable leatherette cover and twin-wire binding lie flat on a desk; survives a full year of daily abuse"
-cons:
+cons: 
   - "Weekly spreads run Monday–Sunday only — no Sunday-start option for those who plan that way"
   - "Contact pages are limited (roughly 30 entries); heavy networkers will outgrow it fast"
   - "No monthly calendar view — you're committing to week-at-a-glance only, which isn't for everyone"
+
 ---
 
 Let's be direct: most planners under $20 are flimsy throwaways with paper so thin you can see next week's entries bleeding through. The AT-A-GLANCE DayMinder Weekly with Telephone/Address is not that. At 4.8 stars across 240 ratings, it's earned its reputation the old-fashioned way — by being genuinely useful.

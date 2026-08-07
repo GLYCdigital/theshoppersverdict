@@ -1,4 +1,5 @@
 ---
+
 title: "ACASIS NVME to USB Docking Station, Aluminium Alloy Housing"
 seo_title: "ACASIS NVMe to USB Docking Station Review: Fast & Cool"
 meta_description: "ACASIS NVMe to USB docking station review: aluminum housing, heat dissipation, real transfer speeds, and who should buy it. Honest 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJSZ1YF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FvV-Zx0UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10Gbps USB 3.2 Gen 2 throughput — sustained reads around 950MB/s in real-world tests, not just marketing numbers"
   - "Full aluminum CNC-machined body acts as a passive heatsink; drives stay below 50°C even during 30-minute continuous writes"
   - "Tool-free magnetic latch design — swapping NVMe drives takes under 5 seconds without screwdrivers or clips"
-cons:
+cons: 
   - "No USB-C to USB-C cable included in the box — you get USB-A only, which bottlenecks some modern laptops"
   - "The magnetic lid is strong enough to interfere with nearby metal objects; keep it away from loose screws or paperclips"
   - "No UASP toggle switch for legacy systems — older Windows 7 machines may see inconsistent write speeds"
+
 ---
 
 If you're still shuttling files via a plastic SATA enclosure, you're leaving performance on the table. The ACASIS NVMe to USB Docking Station hits the sweet spot between a permanent internal install and a flimsy $15 adapter. After two weeks of daily use as a primary workstation drive, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE F10 V Acc 619 Accent Door Lever Hall & Closet Passag"
 seo_title: "SCHLAGE F10 V Acc 619 Accent Door Lever Hall & Clo Review"
 meta_description: "Our full schlage f10 v acc 619 accent door lever hall & closet passag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW91F9M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517WeMD9w6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me guess what you're doing right now. You're standing in a hardware aisle or scrolling Amazon, trying to find a door lever that doesn't look like it came from a cheap apartment complex. You want something that feels solid, installs without a fight, and won't have you replacing it in 18 months. The Schlage F10 Accent in satin nickel (the "619" finish) is the answer you're probably looking for — with a couple of caveats.

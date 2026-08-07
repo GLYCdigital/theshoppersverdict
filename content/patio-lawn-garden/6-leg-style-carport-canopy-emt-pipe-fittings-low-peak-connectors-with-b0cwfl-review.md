@@ -1,4 +1,5 @@
 ---
+
 title: "6 Leg Style Carport Canopy EMT Pipe Fittings Low Peak Connec"
 seo_title: "6 Leg Carport EMT Fittings Review: Low Peak Connectors"
 meta_description: "Honest review of 6 Leg Style Carport Canopy EMT Pipe Fittings Low Peak Connectors. Build a sturdy 6-leg canopy with these galvanized steel fittings. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWFLGQ5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LNBXhTFHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Pre-drilled holes align perfectly with standard 1-3/8 inch " EMT conduit, saving hours of layout time
   - "Galvanized steel construction holds up in wet climates without surface rust after a full season"
   - "Low peak angle creates better water runoff than typical 4-leg flat designs, reducing fabric pooling"
-cons:
+cons: 
   - "Hardware pack includes only basic bolts — you'll need to source washers and locknuts separately"
   - "No instruction template included; first-time builders should sketch the geometry before assembly"
+
 ---
 
 If you're sizing up a 6-leg carport frame, you already know the hardest part isn't lifting the pipe — it's the joints. This EMT fitting kit solves that problem with pre-welded, pre-drilled low peak connectors that turn a pile of electrical conduit into a structural frame. Here's what 229 buyers at 4.6 stars are actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kolkata Chai Masala Chai Mix, Premium Loose Leaf Black Tea a"
 seo_title: "Kolkata Chai Masala Chai Mix, Premium Loose Leaf B Review"
 meta_description: "Our full kolkata chai masala chai mix, premium loose leaf black tea a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C22TRRWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7124BNR2daL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most “chai mixes” on Amazon are ground dust with a vague cinnamon smell. The Kolkata Chai Masala Chai Mix is not that. As shown in the product image, you get a loose-leaf Assam black tea blended with visibly whole spices — cardamom pods, cloves, cinnamon bark, and dried ginger. That alone puts it ahead of 80% of the competition.

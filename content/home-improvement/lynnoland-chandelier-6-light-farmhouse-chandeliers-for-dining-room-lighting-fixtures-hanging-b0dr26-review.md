@@ -1,4 +1,5 @@
 ---
+
 title: "Lynnoland Chandelier, 6-Light Farmhouse Chandeliers for Dini"
 seo_title: "Lynnoland Chandelier, 6-Light Farmhouse Chandelier Review"
 meta_description: "Our full lynnoland chandelier, 6-light farmhouse chandeliers for dini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DR26ST5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-7JnKPRtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through farmhouse chandeliers and wondering why similar six-light fixtures cost three times as much, the Lynnoland is the answer to that question. At under $100 on most days, this is the kind of budget-friendly lighting that actually looks like you paid more — but only if you go in knowing what you're getting.

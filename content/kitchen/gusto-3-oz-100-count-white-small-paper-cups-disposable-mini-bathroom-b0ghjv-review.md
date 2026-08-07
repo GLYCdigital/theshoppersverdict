@@ -1,4 +1,5 @@
 ---
+
 title: "GUSTO [3 oz. - 100 Count White Small Paper Cups, Disposable "
 seo_title: "GUSTO [3 oz. - 100 Count White Small Paper Cups, D Review"
 meta_description: "Our full gusto [3 oz. - 100 count white small paper cups, disposable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHJVC85L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5117KbzmbGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a 3-ounce paper cup isn't a product you agonize over. It's a utility item you grab without thinking, use for 30 seconds, and toss. But GUSTO's 100-count pack of these mini cups has quietly earned a 4.7-star average across 235 ratings, which tells me people are actually paying attention to something they normally ignore. I tested these for a week in the two places they matter most: the bathroom sink and the kitchen counter.

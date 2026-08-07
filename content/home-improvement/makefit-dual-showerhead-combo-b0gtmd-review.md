@@ -1,4 +1,5 @@
 ---
+
 title: "MakeFit Dual Showerhead Combo"
 seo_title: "MakeFit Dual Showerhead Combo Review: Verdict | TSV"
 meta_description: "Our full makefit dual showerhead combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTMDY3F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716o2NsWulL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most dual showerheads in this price range are a compromise — weak pressure, leaky diverter, or a handheld that dribbles. The MakeFit Combo tries to fix all three at once. After digging through 220 ratings and the spec sheet, here's the real story.

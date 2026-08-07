@@ -1,4 +1,5 @@
 ---
+
 title: "Sportdo Solid Wood Vintage Cornhole Game Set, Two 4'x2'Cornh"
 seo_title: "Sportdo Solid Wood Vintage Cornhole Game Set, Two  Review"
 meta_description: "Our full sportdo solid wood vintage cornhole game set, two 4'x2'cornh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095SVG66H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812X41Xt8lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most cornhole sets under $150 are flimsy plywood with stickers on top. The Sportdo Solid Wood Vintage set isn't that. It's a legitimate wooden set with real heft and a finish that looks like it belongs in a lake house, not a Walmart clearance aisle. At 4.5 stars across 225 ratings, it's clearly earning its keep. Here's the honest breakdown after digging into what buyers actually say.

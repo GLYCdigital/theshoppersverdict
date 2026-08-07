@@ -1,4 +1,5 @@
 ---
+
 title: "Bird of Paradise Fertilizer – Liquid Plant Food for Bigger"
 seo_title: "Bird of Paradise Fertilizer Review: Bigger Blooms in 2026 inch"
 meta_description: "Honest Bird of Paradise fertilizer review: Does this liquid plant food deliver bigger tropical leaves? See real results, pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQ3LKB81/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mpg/71xRPEaJkyL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced 3-1-2 NPK ratio tailored to tropical foliage plants, not a generic all-purpose feed"
   - "Measured dropper cap makes dosing precise — no guesswork, no measuring spoons"
   - "Visible leaf size increase reported within 3–4 weeks by multiple verified buyers"
-cons:
+cons: 
   - "32-ounce bottle treats only about 64 watering sessions for a large plant — heavy users will reorder often"
   - "No slow-release mechanism; needs biweekly application during active growing season"
+
 ---
 
 Let's cut through the fertilizer aisle noise. Most plant foods are repackaged 20-20-20 with a pretty label. This Bird of Paradise Fertilizer actually does something different—and it matters if you're growing Strelitzia indoors.

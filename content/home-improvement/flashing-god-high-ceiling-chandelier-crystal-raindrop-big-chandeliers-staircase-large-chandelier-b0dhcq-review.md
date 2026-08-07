@@ -1,4 +1,5 @@
 ---
+
 title: "Flashing God High Ceiling Chandelier Crystal Raindrop Big Ch"
 seo_title: "Flashing God Chandelier Review: High Ceiling Crystal Raindrop"
 meta_description: "Honest Flashing God high ceiling chandelier review: crystal raindrop design, big staircase lighting, 4.0 rating. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DHCQNYRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Han5CNxML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Impressive visual impact for the price — the crystal raindrop strands catch light from every angle"
   - "Genuinely suited for two-story foyers and stairwells with a long enough downrod for 20+ ft ceilings"
   - "Dimmable when paired with a compatible dimmer switch, which buyers report works smoothly"
-cons:
+cons: 
   - "Installation is a two-person job — the frame is heavy and the crystal strands are tedious to hang one by one"
   - "Bulbs not included, and it requires six candelabra-base bulbs, which adds unexpected upfront cost"
   - "No smart-home compatibility out of the box; you'll need to add a smart bulb or switch yourself"
+
 ---
 
 If your entryway has a ceiling that swallows standard lighting fixtures whole, you already know the struggle: most chandeliers look like toys when hung in a two-story foyer. The Flashing God High Ceiling Chandelier takes a different approach — it's built specifically for the vertical void. And for the most part, it delivers the drama you're paying for.

@@ -1,4 +1,5 @@
 ---
+
 title: "Western Digital 12TB WD Purple Surveillance Internal Hard Dr"
 seo_title: "Western Digital 12TB WD Purple Surveillance Intern Review"
 meta_description: "Our full western digital 12tb wd purple surveillance internal hard dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DYNG3N8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YmquaLyLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Surveillance storage is the one place you don't want to cheap out. A failed drive in your NVR means lost footage — and in a worst-case scenario, lost evidence. The WD Purple 12TB is built specifically for that 24/7 grind, but it's not the right drive for everyone. Here's the full picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "10-Sheet Long Hexagon Peel and Stick Kitchen Backsplash Tile"
 seo_title: "Peel and Stick Hexagon Backsplash Review: Real Kitchen Test"
 meta_description: "Honest review of 10-sheet long hexagon peel and stick backsplash tiles. Real adhesion tests, durability checks, and buying advice before you install."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GQGLSKT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61M3b0NDVUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3D texture with 1.5mm raised hexagon pattern that catches light and hides minor wall imperfections"
   - "Genuine 10-sheet coverage—each sheet measures 12x12 inches, giving you 10 square feet of material"
   - "Waterproof PVC construction handles steam and splatter without edge curling when edges are pressed firmly"
-cons:
+cons: 
   - "Adhesive backing struggles on textured or heavily painted drywall—surface prep is non-negotiable"
   - "Pattern alignment across sheets requires patience; edges can show seams if you rush the layout"
+
 ---
 
 # 10-Sheet Long Hexagon Peel and Stick Kitchen Backsplash Tile Review

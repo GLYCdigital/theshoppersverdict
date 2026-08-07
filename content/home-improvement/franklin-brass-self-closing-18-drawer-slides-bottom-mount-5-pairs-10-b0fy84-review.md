@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Brass Self-Closing 18' Drawer Slides Bottom Mount,"
 seo_title: "Franklin Brass Self-Closing 18 inch  Drawer Slides Review (5 Pairs)"
 meta_description: "Franklin Brass self-closing 18 inch  drawer slides bottom mount review: soft-close action, 100-lb capacity, installation tips, and honest drawbacks."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FY84BNB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O11BdrLBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine soft-close mechanism that catches and slows the drawer in the final 2-3 inches — no slamming, even with heavy contents"
   - "Steel construction with epoxy coating resists rust and handles a 100-lb load rating without flex or sag"
   - "Includes both 0.5-inch and 0.75-inch side spacers for flexibility across different cabinet frame styles"
-cons:
+cons: 
   - "Self-closing action requires a firm push to engage — feather-light touches will leave the drawer partially open"
   - "Bottom-mount design means you need at least 0.5 inches of clearance on each side; not suitable for frameless cabinets without modification"
+
 ---
 
 If you're rebuilding a kitchen or replacing a warped set of slides on a dresser, you don't want to gamble on hardware that fails at the 11-month mark. The Franklin Brass Self-Closing 18" Drawer Slides have earned a 4.4-star average from 220 buyers, but the real question is whether they'll work for *your* specific cabinet setup. Here's the honest breakdown after digging through the specs and what actual owners report.

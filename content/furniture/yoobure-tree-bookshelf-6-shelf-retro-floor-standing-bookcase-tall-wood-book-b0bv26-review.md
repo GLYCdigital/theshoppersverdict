@@ -1,4 +1,5 @@
 ---
+
 title: "Yoobure Tree Bookshelf - 6 Shelf Retro Floor Standing Bookca"
 seo_title: "Yoobure Tree Bookshelf - 6 Shelf Retro Floor Stand Review"
 meta_description: "Our full yoobure tree bookshelf - 6 shelf retro floor standing bookca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BV264GW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fBLRIiLEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Yoobure Tree Bookshelf isn't just another flat-pack rectangle. It's a conversation piece that happens to store your paperbacks. As shown in the product image, the staggered branch-like tiers break up that monotonous wall-of-books look, making it a smart pick if you want storage that doesn't scream "dorm room."

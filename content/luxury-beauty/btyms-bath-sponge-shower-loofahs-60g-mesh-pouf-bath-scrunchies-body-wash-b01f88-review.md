@@ -1,4 +1,5 @@
 ---
+
 title: "BTYMS Bath Sponge Shower Loofahs 60g Mesh Pouf Bath Scrunchi"
 seo_title: "BTYMS Bath Sponge Loofah Review: 60g Mesh Pouf Worth It?"
 meta_description: "Honest BTYMS bath sponge review: 60g mesh pouf lather, durability, and feel. See if this luxury scrunchi beats drugstore loofahs before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01F88BMC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UrfaqrZJS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 60g mesh creates a thick, creamy lather with a fraction of the body wash you'd use with a flat washcloth"
   - "Holds its shape and bounce after months of use — no flattening into a sad, limp disk like cheap loofahs"
   - "Dries quickly between showers, minimizing the mildew risk that plagues thicker sponges"
-cons:
+cons: 
   - "At 60g, the material is dense enough that rinsing out all the soap takes an extra few seconds"
   - "No hanging loop included — you'll need a shower caddy or hook to store it properly"
+
 ---
 
 Let's be honest about bath loofahs: most are flimsy, disposable things that disintegrate into a stretched-out mess within three weeks. The BTYMS 60g mesh pouf is not that. This thing has actual substance — 60 grams of tightly woven mesh that feels more like a professional spa tool than a drugstore impulse buy. With a 4.6-star average across 229 ratings, it's clearly earning its keep in real bathrooms, not just in marketing photos.

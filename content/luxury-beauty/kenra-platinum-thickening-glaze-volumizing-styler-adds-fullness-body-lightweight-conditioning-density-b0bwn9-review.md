@@ -1,4 +1,5 @@
 ---
+
 title: "Kenra Platinum Thickening Glaze | Volumizing Styler | Adds F"
 seo_title: "Kenra Platinum Thickening Glaze | Volumizing Style Review"
 meta_description: "Our full kenra platinum thickening glaze | volumizing styler | adds f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BWN9C9LV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ce9DjVI0L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hair has the structural integrity of wet tissue paper, you've probably tried every root spray, mousse, and powder on the market. The Kenra Platinum Thickening Glaze approaches the problem differently. Instead of coating strands with heavy polymers that leave hair feeling like straw, this formula targets density and movement—two things fine hair desperately needs.

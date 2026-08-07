@@ -1,4 +1,5 @@
 ---
+
 title: "TARARIUM Aquarium Filter U-V Light w/Timer for 10-300 Gal. F"
 seo_title: "TARARIUM Aquarium Filter U-V Light w/Timer for 10- Review"
 meta_description: "Our full tararium aquarium filter u-v light w/timer for 10-300 gal. f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GKLTFHGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SdidDxCyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What's Actually in the Box**

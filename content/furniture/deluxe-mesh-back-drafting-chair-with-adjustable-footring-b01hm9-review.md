@@ -1,4 +1,5 @@
 ---
+
 title: "Deluxe Mesh Back Drafting Chair with Adjustable Footring"
 seo_title: "Deluxe Mesh Back Drafting Chair Review: Adjustable Footring"
 meta_description: "Our in-depth Deluxe Mesh Back Drafting Chair review covers comfort, adjustability, and value for tall users and drafters."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01HM9DERW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X4jtQZsLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pneumatic seat height range roughly 22–31 inches, putting your line of sight at drafting tables or standing desks without add-ons"
   - "Adjustable footring with 5-inch vertical range lets shorter users rest feet properly, reducing thigh pressure"
   - "Mesh back breathes during long sessions; dense foam seat holds up past 8-hour days without flattening"
-cons:
+cons: 
   - "Armrests are not included — if you need them, budget for an aftermarket clip-on pair"
   - "Footring adjustment requires tools (hex key), not a quick-release lever like pricier ergonomic chairs"
+
 ---
 
 If you’re shopping for a drafting chair, you already know the problem: most “tall” chairs are just office chairs on stilts, with footrests bolted at one height and seats that pitch you forward. The Deluxe Mesh Back Drafting Chair with Adjustable Footring (model B01HM9DERW on Amazon, 4.6 stars from 229 ratings) actually solves the geometry. Here’s what I found after breaking down the specs and digging through buyer feedback.

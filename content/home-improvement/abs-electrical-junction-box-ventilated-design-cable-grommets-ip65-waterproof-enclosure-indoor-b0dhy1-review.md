@@ -1,4 +1,5 @@
 ---
+
 title: "ABS Electrical Junction Box, Ventilated Design, Cable Gromme"
 seo_title: "ABS Electrical Junction Box Review: IP65 Ventilated Enclosure"
 meta_description: "Honest ABS electrical junction box review: IP65 waterproof rating, ventilated design, cable grommets. See real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHY1ZFQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dTc8rKCOL._SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free lid removal with captive screws — no lost hardware when working overhead"
   - "Molded cable grommets seal tight enough for outdoor use despite the ventilation slots"
   - "Thick ABS walls (approx. 2.5mm) resist cracking in cold weather where polycarbonate alternatives often shatter"
-cons:
+cons: 
   - "Ventilation slots compromise the IP65 rating — fine for sheds and garages, not for direct rain exposure"
   - "Interior volume shrinks ~15% due to molded ribs; tight fit for larger Wi-Fi relays or smart switches"
+
 ---
 
 **Review Body**

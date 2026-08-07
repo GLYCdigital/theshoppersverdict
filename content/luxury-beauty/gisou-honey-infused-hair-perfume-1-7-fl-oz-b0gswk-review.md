@@ -1,4 +1,5 @@
 ---
+
 title: "Gisou Honey Infused Hair Perfume (1.7 Fl Oz)"
 seo_title: "Gisou Honey Infused Hair Perfume (1.7 Fl Oz) Review: Verd"
 meta_description: "Our full gisou honey infused hair perfume (1.7 fl oz) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSWKD4T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mlL0J35kL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just overpriced scented water, or does the honey actually do something? I tested it for two weeks to find out.**

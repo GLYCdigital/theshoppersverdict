@@ -1,4 +1,5 @@
 ---
+
 title: "Got 2b Ultra Glued Invincible Styling Gel, 1.25 Ounce (2 Pac"
 seo_title: "Got 2b Ultra Glued Invincible Styling Gel, 1.25 Ou Review"
 meta_description: "Our full got 2b ultra glued invincible styling gel, 1.25 ounce (2 pac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B073X4XT35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619JfdBbn+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Got 2b Ultra Glued Invincible Styling Gel: The Name Isn't Hyperbole**

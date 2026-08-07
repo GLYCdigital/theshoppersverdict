@@ -1,4 +1,5 @@
 ---
+
 title: "Lexmark MS821N LASERPR 55PPM 1200DPI DUPLX"
 seo_title: "Lexmark MS821N LASERPR 55PPM 1200DPI DUPLX Review: Verdic"
 meta_description: "Our full lexmark ms821n laserpr 55ppm 1200dpi duplx review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07F6JH7XH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tDhKDL7iS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lexmark MS821N isn't a printer you buy. It's a printer you deploy.**

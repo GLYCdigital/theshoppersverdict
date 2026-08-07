@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Emaan Eau de Parfum Spray for Unisex, 3.4 Ounce"
 seo_title: "Lattafa Emaan Eau de Parfum Spray for Unisex, 3.4  Review"
 meta_description: "Our full lattafa emaan eau de parfum spray for unisex, 3.4 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1LHPKZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YvA6xcmNL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Lattafa Emaan Eau de Parfum Review: A Genuine Unisex Fragrance That Earns Its Keep**

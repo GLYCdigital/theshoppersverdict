@@ -1,4 +1,5 @@
 ---
+
 title: "KENES Tub Shower Faucet Set Complete, Brushed Nickel Tub and"
 seo_title: "KENES Tub Shower Faucet Set Complete, Brushed Nick Review"
 meta_description: "Our full kenes tub shower faucet set complete, brushed nickel tub and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D597WQV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OTy07peKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're remodeling a bathroom and want a complete tub/shower setup without piecing together five different brands, the KENES brushed nickel trim kit is a serious contender. It's not the cheapest option, but it's not the most expensive either — and what you get is a cohesive, well-built system that most buyers install without calling a plumber.

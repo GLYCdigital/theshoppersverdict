@@ -1,4 +1,5 @@
 ---
+
 title: "All in One Makeup Kit for Makeup storage bag 2X14 Colors Eye"
 seo_title: "All in One Makeup Kit Review: 28 Eye Colors + Storage Bag"
 meta_description: "Honest All in One Makeup Kit review: 28 eye shadow shades, storage bag, and build quality tested. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBBLWKC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o6HMx3gKL._SL1500_.jpg"
-pros:
+pros: 
   - "28 shades across two 14-pan palettes gives real variety — mattes, shimmers, and satins in one kit"
   - "Built-in storage bag with dividers keeps everything organized and travel-ready"
   - "Strong pigmentation for the price point — most shades need only one or two passes"
-cons:
+cons: 
   - "Some shimmer shades have noticeable fallout — tap off excess before applying"
   - "No mirror inside the storage bag, which limits its usefulness as a travel kit"
   - "Color payoff varies slightly between the two palettes — the warmer palette is more consistent"
+
 ---
 
 Let’s be honest about what you’re actually looking at here. This isn’t a luxury brand name. It’s a functional, budget-friendly makeup kit that packs 28 eye shadow shades into two slim palettes, plus a storage bag to hold them. The question isn’t whether it’s Tom Ford — it’s whether it delivers what you need without wasting your money. Based on 229 Amazon ratings averaging 4.6 stars, most buyers say yes. Here’s what I found digging into the details.

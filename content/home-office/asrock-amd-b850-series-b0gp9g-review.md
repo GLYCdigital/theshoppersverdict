@@ -1,4 +1,5 @@
 ---
+
 title: "ASRock AMD B850 Series"
 seo_title: "ASRock AMD B850 Series Review: Solid AM5 Office Board"
 meta_description: "ASRock AMD B850 Series review: Is this AM5 motherboard right for your office build? Real pros, cons, and buying advice from 195 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GP9G8PZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hFYvQfkSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rock-solid VRM cooling keeps Ryzen 7000/9000 chips stable under sustained office workloads"
   - "Dual M.2 slots with PCIe 5.0 support on the primary slot — fast NVMe speeds without extra adapters"
   - "Rear I/O includes USB-C 10Gbps and 2.5G LAN — genuinely future-proof for a workspace hub"
-cons:
+cons: 
   - "Only three SATA ports, not the usual four to six — a problem if you're migrating multiple HDDs from an older build"
   - "BIOS update process is clunky; users report needing a USB flashback feature that this board lacks at this price tier"
+
 ---
 
 Let me be blunt: most office PC builds don't need a $200+ motherboard. But if you're putting together a serious workstation — something that'll chew through spreadsheets, video calls, and the occasional creative workload without breaking a sweat — the ASRock AMD B850 Series deserves a hard look. After digging through 195 Amazon ratings (3.9 stars) and the spec sheet, here's the real story.

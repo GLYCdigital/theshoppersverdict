@@ -1,4 +1,5 @@
 ---
+
 title: "BORN PRETTY Cat Magnetic Eye Gel Nail Polish 1 inch"
 seo_title: "BORN PRETTY Cat Eye Gel Polish Review: Magnetic Nail Magic"
 meta_description: "Honest BORN PRETTY Cat Magnetic Eye Gel Nail Polish review: does the 3D cat-eye effect deliver? Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G9P52PS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dPWbYKGpL._SL1500_.jpg"
-pros:
+pros: 
   - "Dense magnetic particles create a genuine 3D cat-eye band with just one pass of the included magnet"
   - "Self-leveling gel formula applies smoothly without flooding cuticles, even for shaky hands"
   - "Cures fully in 60 seconds under a 48W UV/LED lamp with zero tacky residue after wiping"
-cons:
+cons: 
   - "Magnet must be held perfectly still for 10-15 seconds or the effect scatters into a muddy blur"
   - "Single 10ml bottle runs $15-18 — pricier per ounce than drugstore magnetic polishes"
+
 ---
 
 If you've ever watched a cat-eye magnetic polish video and thought "that's a filter," the BORN PRETTY Cat Magnetic Eye Gel Nail Polish will prove you wrong — and then test your patience. This 10ml bottle packs a serious visual punch, but it demands a steady hand and a willingness to learn the technique. Here's what 210 Amazon reviewers (averaging 4.2 stars) are actually saying.

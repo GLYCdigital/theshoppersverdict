@@ -1,4 +1,5 @@
 ---
+
 title: "Whirlpool W11414076 Genuine OEM Dishwasher Pump and Motor As"
 seo_title: "Whirlpool W11414076 Genuine OEM Dishwasher Pump an Review"
 meta_description: "Our full whirlpool w11414076 genuine oem dishwasher pump and motor as review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D35YYS9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G9v2GkegL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your dishwasher stopped draining mid-cycle. Water's pooled at the bottom, the unit's humming but not pumping, and you're staring at a repair bill that could hit $300 with labor. Before you call a technician, here's the part that fixes this in about 45 minutes — if you're willing to get your hands wet.

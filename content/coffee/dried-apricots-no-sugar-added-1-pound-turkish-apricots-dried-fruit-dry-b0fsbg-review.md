@@ -1,23 +1,25 @@
 ---
+
 title: "Dried Apricots No Sugar Added, 1 Pound. Turkish Apricots Dri"
 seo_title: "Dried Apricots No Sugar Added Review: Worth It?"
 meta_description: "Honest review of Turkish dried apricots (no sugar added, 1 lb). Texture, taste, value, and downsides compared to 225 Amazon ratings."
 slug: "dried-apricots-no-sugar-added-1-pound-turkish-apricots-dried-fruit-dry-b0fsbg-review"
 image_alt: "One pound bag of no-sugar-added Turkish dried apricots, whole fruit, amber color"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSBGK6JK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71njOk+cjyL._SL1500_.jpg"
-pros:  
+pros: 
   - "No added sugar or preservatives — just dried Turkish apricots, verified by ingredient list"  
   - "Generous 1-pound bag with consistent, plump fruit — not shredded or broken pieces"  
   - "Natural sweetness and chewy-tender texture that holds up in cooking and snacking"  
-cons:  
+cons: 
   - "Some bags arrive with variable moisture — a few apricots can be overly dry or hard"  
   - "No resealable zip-top; you'll need your own container to keep them fresh"
+
 ---
 
 Let’s be clear: this is not a coffee maker. This is a 1-pound bag of Turkish dried apricots with no added sugar. But if you’re here because you clicked a mislabeled category, you’re not wasting your time — this is one of the more honest, straightforward dried fruit options on Amazon, and it deserves a real review.

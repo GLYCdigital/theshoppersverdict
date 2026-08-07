@@ -1,4 +1,5 @@
 ---
+
 title: "DAVID Roasted and Salted Jumbo Sunflower Seeds, Honey Roaste"
 seo_title: "DAVID Jumbo Sunflower Seeds Review: Honey Roasted Flavor"
 meta_description: "Honest DAVID honey roasted jumbo sunflower seeds review: flavor, shell quality, salt level, and value. See if this 4.1-star snack is worth buying."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FC264T5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-QjEgYLaL._SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo seed size means more kernel per crack — noticeably bigger than standard sunflower seeds"
   - "Honey roasted coating balances sweet and salty without being cloying or sticky"
   - "Strong, consistent roast — seeds crack open cleanly with minimal broken shells"
-cons:
+cons: 
   - "Shell salt is heavy; if you're watching sodium, this isn't a snack for you (210mg per serving)"
   - "Bag is 5.25oz — smaller than the classic 5.75oz DAVID size, and the resealable zipper can fail after a few opens"
+
 ---
 
 Let me be straight with you: this isn't a coffee maker or espresso machine. This is a bag of sunflower seeds. But if you're like half the people I know who work from home, this is the thing sitting next to your keyboard while you wait for your pour-over to finish. So let's review it like the snack it is — honestly, and with the detail you actually need before dropping money on a bag of seeds.

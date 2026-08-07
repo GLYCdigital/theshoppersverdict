@@ -1,4 +1,5 @@
 ---
+
 title: "PURRUGS Dirt Trapping Door mat, Non-Slip/Skid Machine Washab"
 seo_title: "PURRUGS Dirt Trapping Door mat, Non-Slip/Skid Mach Review"
 meta_description: "Our full purrugs dirt trapping door mat, non-slip/skid machine washab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVLKKXP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81h2rDQlkHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Door Mat That Actually Earns Its Keep

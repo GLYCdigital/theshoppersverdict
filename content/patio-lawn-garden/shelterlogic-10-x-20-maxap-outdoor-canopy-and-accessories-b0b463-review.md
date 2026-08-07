@@ -1,4 +1,5 @@
 ---
+
 title: "ShelterLogic 10' x 20' MaxAP Outdoor Canopy and Accessories"
 seo_title: "ShelterLogic 10' x 20' MaxAP Outdoor Canopy and Ac Review"
 meta_description: "Our full shelterlogic 10' x 20' maxap outdoor canopy and accessories review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B4631K8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510HlFr-rVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the ShelterLogic 10' x 20' MaxAP is the canopy you buy when you need real covered square footage — not a pop-up tent — but you're not ready to pour concrete footings. With a 4.4-star average across 220 ratings, it's one of the most-purchased shade structures in its class. Here's what that rating actually means.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Return Address Labels with Sure Feed for Laser Printer"
 seo_title: "Avery Return Address Labels Review: Sure Feed Worth It?"
 meta_description: "Avery Return Address Labels with Sure Feed review: 4.8-star rating, 240 reviews. Does the anti-jam tech deliver? Real-world testing and honest verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B6QQRX1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mcQW9XZUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sure Feed strip genuinely eliminates paper jams — the labels feed through laser printers like plain paper"
   - "Crisp, dark print with no smudging or curling when using the recommended label settings"
   - "Strong adhesive that stays put on envelopes, poly mailers, and even glossy cardstock"
-cons:
+cons: 
   - "Only 30 labels per sheet — you'll go through sheets fast if you send a lot of mail"
   - "No templates included in the box; you'll need to download Avery's free Design & Print software or use the Word template"
+
 ---
 
 ## Are These the Last Return Address Labels You'll Ever Buy?

@@ -1,4 +1,5 @@
 ---
+
 title: "Scalloped Lamp Shades Set of 2"
 seo_title: "Scalloped Lamp Shades Set of 2 Review: Verdict | TSV"
 meta_description: "Our full scalloped lamp shades set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMSRLPCN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gR-7AmGsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most lamp shades under $30 a pair look like they were stamped out of a bargain bin. The Scalloped Lamp Shades Set of 2 is not that. But before you add to cart, there are a few fit and finish details you need to know — because this shade style isn't a universal replacement.

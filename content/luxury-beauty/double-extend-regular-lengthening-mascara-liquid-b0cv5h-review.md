@@ -1,4 +1,5 @@
 ---
+
 title: "Double Extend Regular Lengthening Mascara Liquid"
 seo_title: "Double Extend Regular Mascara Review: Lengthening Lash Look"
 meta_description: "Honest Double Extend Regular Lengthening Mascara review: 4.4/5 stars. Does the 2-step tube system deliver? Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV5H6MTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613jTy9LFEL._SL1500_.jpg"
-pros:
+pros: 
   - "Two-step tube system actually delivers visible length — the white primer coats each lash before the black topcoat sets it"
   - "Holds a curl for 8+ hours without flaking, even on straight, stubborn lashes"
   - "Removes cleanly with warm water — no harsh rubbing, no raccoon eyes the next morning"
-cons:
+cons: 
   - "The primer step adds 60–90 seconds to your routine; not ideal for rushed mornings"
   - "Can feel slightly stiff by end of day compared to tubing mascaras with more flexible film"
+
 ---
 
 Let's be honest: most "lengthening" mascaras are just black goo with marketing hype. The Double Extend Regular Lengthening Mascara Liquid takes a different approach — it's a two-step system that treats lash extension like a construction project. And for the most part, it delivers.

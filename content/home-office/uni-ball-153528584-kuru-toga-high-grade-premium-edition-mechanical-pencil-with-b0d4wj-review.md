@@ -1,4 +1,5 @@
 ---
+
 title: "uni-ball 153528584 Kuru Toga High Grade Premium Edition Mech"
 seo_title: "uni-ball 153528584 Kuru Toga High Grade Premium Ed Review"
 meta_description: "Our full uni-ball 153528584 kuru toga high grade premium edition mech review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4WJ6V9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cp5Gf21AL._AC_SL1487_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kuru Toga is the mechanical pencil that obsessed stationery nerds have been evangelizing for a decade. The High Grade Premium Edition is uni-ball's attempt to dress that clever lead-rotating engine in something worthy of a desk where money is no object. After 235 Amazon ratings averaging 4.7 stars, it's clear uni-ball mostly pulled it off — but "mostly" comes with caveats.

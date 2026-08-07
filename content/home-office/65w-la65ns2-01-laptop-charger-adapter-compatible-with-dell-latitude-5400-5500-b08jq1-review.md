@@ -1,4 +1,5 @@
 ---
+
 title: "65W LA65NS2-01 Laptop Charger Adapter Compatible with Dell L"
 seo_title: "LA65NS2-01 65W Dell Charger Review: Reliable & Affordable"
 meta_description: "Our LA65NS2-01 65W Dell laptop charger review: compatibility, build quality, and real-world performance. Is it worth it? We tested it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08JQ1S9RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pvO2CPJuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style replacement for Dell's LA65NS2-01, with identical 7.4mm tip and 65W output that matches original specs"
   - "Includes a 3-foot AC cord and 6-foot DC cable, giving you 9 feet of total reach — enough for most desk setups"
   - "Priced well below Dell's genuine replacement, often at 50-60% less, with 225 ratings holding a 4.5-star average"
-cons:
+cons: 
   - "Non-genuine branding means Dell warranty won't cover it if the charger damages your laptop"
   - "No USB-C or USB-A passthrough port like some newer Dell chargers — this is strictly AC-to-DC"
+
 ---
 
 **The Shopper's Verdict: LA65NS2-01 65W Dell Laptop Charger**

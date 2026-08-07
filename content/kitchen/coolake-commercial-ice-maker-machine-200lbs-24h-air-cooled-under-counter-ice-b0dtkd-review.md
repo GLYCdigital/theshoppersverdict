@@ -1,4 +1,5 @@
 ---
+
 title: "Coolake Commercial Ice Maker Machine 200lbs/24H, Air Cooled"
 seo_title: "Coolake 200lbs/24H Ice Maker Review: Honest Verdict"
 meta_description: "Coolake commercial ice maker 200lbs/24H review: real performance, build quality, and reliability. Is this under-counter unit worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DTKDJ8V9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VuCGnIlwL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 200lbs/24H production capacity when ambient temps stay below 80°F — verified by multiple long-term owners"
   - Compact 17.5 inch " footprint fits under standard counters while producing nugget-style ice that holds drinks well
   - "Self-cleaning cycle and removable bin liner make maintenance significantly easier than comparable commercial units"
-cons:
+cons: 
   - "Air-cooled condenser requires 6+ inches of clearance on all sides or production drops sharply — installers beware"
   - "Multiple reports of thermistor failures within first 6 months, requiring warranty claims and downtime"
   - "No built-in water filter; hard water areas will need an inline filter or risk scale buildup on the evaporator plates"
+
 ---
 
 # Coolake Commercial Ice Maker Machine 200lbs/24H, Air Cooled: A Workhorse With Caveats

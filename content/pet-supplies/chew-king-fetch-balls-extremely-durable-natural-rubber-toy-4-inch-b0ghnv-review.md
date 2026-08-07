@@ -1,4 +1,5 @@
 ---
+
 title: "Chew King Fetch Balls Extremely Durable Natural Rubber Toy 4"
 seo_title: "Chew King Fetch Balls Review: Durable Natural Rubber Toy"
 meta_description: "Chew King Fetch Balls review: Are these natural rubber toys truly indestructible? We tested durability, bounce, and safety for aggressive chewers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHNVXQ16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CeWesmgdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid natural rubber construction holds up to aggressive chewers where hollow tennis balls fail"
   - "Floats in water, making it a dual-purpose fetch toy for pool, lake, or beach days"
   - "Mild vanilla scent masks the rubber smell that many dogs reject"
-cons:
+cons: 
   - "4-inch diameter is too large for small breeds or puppies under 20 pounds"
   - "Heavier than a tennis ball — some dogs struggle to carry it on long retrieves"
+
 ---
 
 If you've ever watched a $12 bag of tennis balls get shredded into green felt confetti within 48 hours, you already know why the Chew King Fetch Balls exist. This 4-inch natural rubber ball is designed for the dog that treats every toy like a personal challenge. But does it actually survive? I dug through 225 ratings and the product specs to give you the straight answer.

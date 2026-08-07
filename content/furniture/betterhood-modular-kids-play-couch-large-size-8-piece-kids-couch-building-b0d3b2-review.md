@@ -1,4 +1,5 @@
 ---
+
 title: "Betterhood Modular Kids Play Couch Large Size, 8-Piece Kids"
 seo_title: "Betterhood Modular Kids Play Couch Review (2026): 8-Piece Set"
 meta_description: "Honest Betterhood Modular Kids Play Couch review: 8-piece foam building set, durability, real parent feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3B2FZHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k7DhsGEmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-piece set covers a full fort or lounger layout — no need to buy two boxes immediately"
   - "High-density foam holds shape after weeks of jumping and stacking"
   - "Removable, machine-washable covers handle marker, juice, and snack disasters"
-cons:
+cons: 
   - "Pieces slide apart during active play — no velcro or connector straps included"
   - "Covers are snug; wrestling them back on after washing takes real effort"
   - "Large size eats floor space — measure your playroom before committing"
+
 ---
 
 **Who actually needs an 8-piece foam couch?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Heyroll Realistic Artificial Turf Grass Artificial Synthetic"
 seo_title: "Heyroll Realistic Artificial Turf Grass Artificial Review"
 meta_description: "Our full heyroll realistic artificial turf grass artificial synthetic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBK61SJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91adT3GC6WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've been staring at a dead patch of dirt or a sad concrete balcony and thinking "I could fake it," the Heyroll 20mm turf is one of the better budget-friendly options I've tested. It's not golf-course perfect, but it's convincingly real from a normal viewing distance — and that's the whole point.

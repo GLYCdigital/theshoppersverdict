@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Ladybug Cozy Coupe Ride-On Car - Amazon Exclusi"
 seo_title: "Little Tikes Ladybug Cozy Coupe Ride-On Car - Amaz Review"
 meta_description: "Our full little tikes ladybug cozy coupe ride-on car - amazon exclusi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00UHH9MCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511yE-ltOsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ladybug Cozy Coupe is an Amazon-exclusive take on the most iconic ride-on toy in American history. Since 1979, the Little Tikes Cozy Coupe has been a rite of passage for toddlers everywhere, and this ladybug variant adds a fresh coat of personality to a proven design. But is it worth your money over the classic red model? Let's break it down.

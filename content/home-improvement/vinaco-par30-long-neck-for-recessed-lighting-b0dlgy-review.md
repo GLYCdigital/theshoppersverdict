@@ -1,4 +1,5 @@
 ---
+
 title: "Vinaco PAR30 Long Neck for Recessed Lighting"
 seo_title: "Vinaco PAR30 Long Neck for Recessed Lighting Review: Verd"
 meta_description: "Our full vinaco par30 long neck for recessed lighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DLGY2N45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71so5PUUa7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a PAR30 bulb into a recessed can only to find it half-hidden behind the trim, you know the frustration. The Vinaco PAR30 Long Neck addresses exactly that problem — and mostly succeeds. But as with any specialized bulb, there are tradeoffs worth knowing before you click buy.

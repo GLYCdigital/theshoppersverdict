@@ -1,4 +1,5 @@
 ---
+
 title: "Wedge-It WEDGE-IT-1 The Ultimate Door Stop, Lime Green"
 seo_title: "Wedge-It WEDGE-IT-1 The Ultimate Door Stop, Lime G Review"
 meta_description: "Our full wedge-it wedge-it-1 the ultimate door stop, lime green review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00N4M2UCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61neDF5sVqL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've kicked a rubber wedge under a door, watched it slide across tile, and bent down to fish it out with your fingernails. That's the problem the Wedge-It WEDGE-IT-1 solves — and it does it with more cleverness than any $5 door stop has a right to.

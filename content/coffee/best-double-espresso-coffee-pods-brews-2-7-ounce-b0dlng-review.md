@@ -1,4 +1,5 @@
 ---
+
 title: "Best Double Espresso Coffee Pods, Brews 2.7 Ounce"
 seo_title: "Best Double Espresso Coffee Pods Review: 2.7 oz Brews (2026)"
 meta_description: "Honest review of Best Double Espresso Coffee Pods brewing 2.7 oz. Real taste tests, compatibility, and value compared. Is it worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DLMNG5JP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pQoeViO0L._SL1000_.jpg"
-pros:
+pros: 
   - "True 2.7 oz double shot — roughly double the volume of standard pods, so you get an actual lungo or double espresso without brewing twice"
   - "Consistent crema across multiple brew cycles — rare at this price point, even with cheaper machines"
   - "Compatible with most standard single-serve machines (Keurig 2.0, older 1.0 models, and many off-brands)"
-cons:
+cons: 
   - "Not compatible with Nespresso machines — if you own a Vertuo or Original line, these won't fit"
   - "Flavor profile leans dark and smoky, which may be too bitter for those who prefer bright, fruity espresso notes"
+
 ---
 
 **Best Double Espresso Coffee Pods, Brews 2.7 Ounce — The Real Story**

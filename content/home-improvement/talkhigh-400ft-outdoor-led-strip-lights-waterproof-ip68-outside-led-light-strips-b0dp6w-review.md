@@ -1,4 +1,5 @@
 ---
+
 title: "talkhigh 400ft Outdoor LED Strip Lights Waterproof,IP68 Outs"
 seo_title: "talkhigh 400ft Outdoor LED Strip Lights Waterproof Review"
 meta_description: "Our full talkhigh 400ft outdoor led strip lights waterproof,ip68 outs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DP6W6R2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p5FlSrBsL._AC_SL1346_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # talkhigh 400ft Outdoor LED Strip Lights: A Lot of Light for a Lot of Perimeter

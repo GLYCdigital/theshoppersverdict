@@ -1,4 +1,5 @@
 ---
+
 title: "Welch's Fruitfuls"
 seo_title: "Welch's Fruitfuls Review: Verdict | TSV"
 meta_description: "Our full welch's fruitfuls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FTMT4PDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S9LRaB19L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: when you see "Welch's" in the coffee aisle, you think grape juice, not great coffee. But this Fruitfuls brewer has quietly earned a 4.2-star average from 210 Amazon shoppers — so either the brand is coasting on name recognition, or there's something real here. I've spent a week with it to find out which.

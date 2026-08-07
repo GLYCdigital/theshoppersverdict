@@ -1,4 +1,5 @@
 ---
+
 title: "DP040-012 Drain Pump 4681EA1007A 5859EA1004F 5859EA1004P 585 inch"
 seo_title: "DP040-012 Drain Pump Review: OEM Replacement for LG Washers"
 meta_description: "DP040-012 drain pump 4681EA1007A 5859EA1004F review: 4.6-star rated LG washer replacement. Fit, performance, and installation insights."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZPD7GXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HjxE7eRrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct OEM replacement for five LG part numbers (4681EA1007A, 5859EA1004F/G/P, WH23X10020) — no adapter hacking needed"
   - "Includes pre-attached wire harness and rubber boot, so installation takes roughly 20 minutes with basic hand tools"
   - "Consistent 4.6-star rating across 229 reviews, with multiple reports of fixing error codes OE and draining issues on first try"
-cons:
+cons: 
   - "No mounting bracket or screws included — you'll need to reuse hardware from your original pump"
   - "Not a genuine LG-branded part; some buyers report slight connector differences on older washer models that require gentle persuasion"
+
 ---
 
 Let’s be honest: when your washing machine throws an error code and stops draining, you don’t want a mystery box. You want the part that’s going to fix it the first time. This DP040-012 drain pump claims compatibility with five different LG part numbers, and based on 229 ratings averaging 4.6 stars, it’s doing something right.

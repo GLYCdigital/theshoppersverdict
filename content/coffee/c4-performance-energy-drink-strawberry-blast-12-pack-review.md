@@ -1,16 +1,17 @@
 ---
+
 title: "C4 Performance Energy Drink | Strawberry Blast | Zero Sugar | 200mg Caffeine | 16 Fl Oz (12 Pack)"
 seo_title: "C4 Performance Energy Drink Strawberry Blast Review — 4.6★ at $27"
 meta_description: "C4 Performance Energy Drink Strawberry Blast review: 6,764 reviews analyzed. Zero sugar pre-workout energy drink with 200mg caffeine and CarnoSyn Beta-Alanine."
 slug: "c4-performance-energy-drink-strawberry-blast-12-pack-review"
 image_alt: "C4 Performance Energy Drink | Strawberry Blast | Zero Sugar | 16 Fl Oz (12 Pack)"
-keywords:
+keywords: 
   - "c4 performance energy drink review"
   - "c4 strawberry blast review"
   - "best sugar free energy drink"
   - "pre-workout energy drink"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "Does the C4 Performance Energy Drink have sugar?"
     answer: "No. It contains zero sugar and zero artificial colors. It's sweetened without adding sugar."
   - question: "How much caffeine is in C4 Performance Energy?"
@@ -23,13 +24,14 @@ review_count: 6764
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09FXVQ8WN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rRSIKm2TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "NSF Certified for Sport — clean and tested for athletes"
   - "200mg caffeine with performance boosters, not just stimulants"
   - "Zero sugar and zero artificial colors"
-cons:
+cons: 
   - "Beta-Alanine tingles can be uncomfortable for new users"
   - "Strong carbonation may not suit everyone for pre-workout"
+
 ---
 
 # Is C4 Performance Energy Drink Worth Your Money? A No-Nonsense Review

@@ -1,24 +1,26 @@
 ---
+
 title: "Artmarry Flameless Candles Review: Realistic Flicker, 3 Sizes"
 seo_title: "Artmarry Flameless Candles Review (4/5/6 inch): Realistic Flicker"
 meta_description: "Artmarry flameless pillar candles review: realistic flicker, 3 sizes, remote-friendly. See pros, cons, and who should buy these battery-operated candles."
 slug: "artmarry-flameless-candles-4-5-6-outdoor-indoor-pillars-battery-operated-flickering-b0gfdm-review"
 image_alt: "Artmarry flameless candles in 4, 5, and 6 inch sizes with realistic flickering LED flames"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GFDMMG76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z-FgX6uGL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Realistic 3D wick flame that flickers naturally — indistinguishable from wax at 3 feet"  
   - "True-to-size pillars (4, 5, 6 inches) that fit standard candle holders and lanterns"  
   - "Reliable 6-hour timer cycles (on 6h, off 18h) that hold memory after battery changes"  
-cons:  
+cons: 
   - "Flame brightness is fixed — no dimmer option for moodier low-light settings"  
   - "Batteries not included; takes 2 AA per candle, so a full set needs 6 AAs upfront"  
   - "Ribbed texture on the wax body collects dust between ribs — needs regular wiping"
+
 ---
 
 If you've bought flameless candles before, you know the two biggest failures: plastic-looking flames that don't flicker, and timers that forget their settings the moment you swap batteries. The Artmarry 3-piece pillar set (4", 5", 6") sidesteps both problems for under $25, making it one of the better budget options for porch decor, dining tables, or rental-safe ambiance.  

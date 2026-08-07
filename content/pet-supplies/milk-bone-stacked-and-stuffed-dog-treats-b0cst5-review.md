@@ -1,4 +1,5 @@
 ---
+
 title: "Milk-Bone Stacked and Stuffed Dog Treats"
 seo_title: "Milk-Bone Stacked and Stuffed Dog Treats Review: Verdict "
 meta_description: "Our full milk-bone stacked and stuffed dog treats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CST5HHFX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q7tstHpXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Milk-Bone Stacked and Stuffed Dog Treats: The Crunch-and-Cream Combo That Actually Delivers**

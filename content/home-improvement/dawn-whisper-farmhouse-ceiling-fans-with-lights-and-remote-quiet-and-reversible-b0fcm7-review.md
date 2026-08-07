@@ -1,4 +1,5 @@
 ---
+
 title: "Dawn Whisper Farmhouse Ceiling Fans with Lights and Remote Q"
 seo_title: "Dawn Whisper Farmhouse Ceiling Fan Review: Quiet & Stylish"
 meta_description: "Dawn Whisper farmhouse ceiling fan with light and remote review: quiet motor, reversible blades, easy install. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FCM75PY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YY40MI1hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "DC motor runs whisper-quiet even on high speed — no hum or wobble at 52-inch span"
   - "Remote with 6-speed control, dimmable 3000K LED light, and a memory function that remembers your last settings"
   - "Reversible blades in two finishes (walnut/black) let you flip the look without buying a new fan"
-cons:
+cons: 
   - "Remote is required for operation — the wall switch only cuts power, no pull chains included"
   - "Light output is warm at 3000K — fine for cozy rooms, but not ideal if you want bright task lighting"
+
 ---
 
 If you've ever stood under a ceiling fan that sounds like a helicopter taking off, you'll appreciate what Dawn Whisper is going for. This 52-inch farmhouse-style fan pairs a brushless DC motor with a dimmable integrated LED light kit, and it ships with a remote that actually controls everything. No pull chains, no wall-mount module to install separately — the remote pairs to the receiver in the canopy right out of the box.

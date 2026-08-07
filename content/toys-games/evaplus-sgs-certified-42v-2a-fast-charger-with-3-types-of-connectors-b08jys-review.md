@@ -1,4 +1,5 @@
 ---
+
 title: "EVAPLUS SGS Certified 42V 2A Fast Charger with 3 Types of Co"
 seo_title: "EVAPLUS 42V 2A Fast Charger Review: SGS Certified, 3 Connectors"
 meta_description: "EVAPLUS SGS Certified 42V 2A fast charger review: 3 connector types, real-world performance, safety, and who should buy it. Honest buyer's guide."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08JYSZX78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qZ64KrMXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three interchangeable connectors (5.5mm, 7mm, and 2-pin) cover nearly every ride-on toy battery on the market"
   - "SGS certification and built-in short circuit/overcharge protection add real safety credibility"
   - "2A output charges a typical 12V/7Ah battery in roughly 3–4 hours — noticeably faster than stock 800mA chargers"
-cons:
+cons: 
   - "No indicator light to show when charging is complete — you'll need to track time manually"
   - "Connector swap requires a small screwdriver and feels slightly fiddly if you switch often"
   - "Cable is only 3.5 feet long, which limits placement flexibility in garages or outlets near the floor"
+
 ---
 
 If you've ever watched a child's face fall when their ride-on Jeep won't move because the stock charger died after two months, you know the pain. The EVAPLUS 42V 2A Fast Charger aims to solve that problem — and for most families, it genuinely does. But "most" is doing heavy lifting here, and I'll get to why.

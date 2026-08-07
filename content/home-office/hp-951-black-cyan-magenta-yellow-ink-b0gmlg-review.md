@@ -1,4 +1,5 @@
 ---
+
 title: "HP 951 Black, Cyan, Magenta, Yellow Ink"
 seo_title: "HP 951 Black, Cyan, Magenta, Yellow Ink Review: Verdict |"
 meta_description: "Our full hp 951 black, cyan, magenta, yellow ink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMLGW1BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719f6RF-sEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an OfficeJet Pro 8600, 8610, or 8620, you already know the HP 951 cartridge family is your only genuine OEM option. This four-pack bundles the black, cyan, magenta, and yellow standard-yield cartridges into one box, which is convenient for restocking all at once — but is it the smartest buy for your printing habits? Let's dig into what these actually deliver beyond the packaging.

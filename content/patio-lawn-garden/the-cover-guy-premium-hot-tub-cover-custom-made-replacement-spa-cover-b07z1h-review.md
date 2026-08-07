@@ -1,4 +1,5 @@
 ---
+
 title: "The Cover Guy Premium Hot Tub Cover | Custom Made Replacemen"
 seo_title: "The Cover Guy Premium Hot Tub Cover | Custom Made  Review"
 meta_description: "Our full the cover guy premium hot tub cover | custom made replacemen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07Z1HHLJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HNlz3aEvL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Cover Guy Premium Hot Tub Cover Review: Custom-Made Replacement That Holds Up**

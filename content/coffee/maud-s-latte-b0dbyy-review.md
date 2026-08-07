@@ -1,4 +1,5 @@
 ---
+
 title: "Maud's Latte"
 seo_title: "Maud's Latte Review: Verdict | TSV"
 meta_description: "Our full maud's latte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DBYY4L7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617WHJ+DpIL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There are two kinds of coffee gear in this world: stuff that sits in your cabinet gathering dust, and stuff that earns a permanent spot on your counter. Maud's Latte falls firmly in the second camp — if you actually drink lattes. Here's the honest breakdown after digging through the specs and what 200 Amazon reviewers are saying.

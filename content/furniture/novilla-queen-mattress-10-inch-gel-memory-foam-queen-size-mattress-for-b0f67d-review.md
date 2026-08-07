@@ -1,4 +1,5 @@
 ---
+
 title: "Novilla Queen Mattress, 10 Inch Gel Memory Foam Queen Size M"
 seo_title: "Novilla Queen Mattress, 10 Inch Gel Memory Foam Qu Review"
 meta_description: "Our full novilla queen mattress, 10 inch gel memory foam queen size m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F67DC6C8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pG8TdkH3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10-inch queen mattress under $300 makes you suspicious. I get it. But the Novilla Gel Memory Foam Queen is one of those rare budget finds that genuinely punches above its weight — with a few caveats worth knowing before you hit "add to cart."

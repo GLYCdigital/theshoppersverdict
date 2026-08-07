@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Bean Caffeine Tierra Packet"
 seo_title: "Whole Bean Caffeine Tierra Packet Review: Verdict | TSV"
 meta_description: "Our full whole bean caffeine tierra packet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CH37VBHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cEhWSMNfL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the coffee aisle staring at a $20 bag of beans, wondering if you'll actually finish them before they go stale, the Whole Bean Caffeine Tierra Packet is designed for you. This isn't a fancy brewer or a new grinder — it's a single-serve approach to whole bean coffee that skips the equipment entirely. And for the right buyer, it's genuinely clever.

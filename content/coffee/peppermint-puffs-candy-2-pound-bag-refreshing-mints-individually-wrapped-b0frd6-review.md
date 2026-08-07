@@ -1,4 +1,5 @@
 ---
+
 title: "Peppermint Puffs Candy | 2-Pound Bag | Refreshing Mints, Ind"
 seo_title: "Peppermint Puffs Candy | 2-Pound Bag | Refreshing  Review"
 meta_description: "Our full peppermint puffs candy | 2-pound bag | refreshing mints, ind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FRD67TCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/913qQ9raw1L._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about something upfront: these are *not* your grandmother’s hard peppermint candies. Peppermint Puffs are soft, chewy little pillows of mint — think marshmallow-adjacent with a serious cooling kick. That distinction matters, because half the disappointment in the reviews comes from people expecting a crunchy candy and getting something entirely different.

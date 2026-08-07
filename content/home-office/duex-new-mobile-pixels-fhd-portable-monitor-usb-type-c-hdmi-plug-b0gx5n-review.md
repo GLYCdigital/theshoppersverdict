@@ -1,4 +1,5 @@
 ---
+
 title: "Duex New Mobile Pixels FHD Portable Monitor, USB Type-C/HDMI"
 seo_title: "Duex Mobile Pixels FHD Portable Monitor Review (2026)"
 meta_description: "Duex New Mobile Pixels FHD portable monitor review: USB-C/HDMI, 15.6-inch display. Is it worth it? Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX5NZLWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+Xv-lGxyL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True plug-and-play via single USB-C cable — no drivers or external power brick needed for most laptops"
   - "1080p IPS panel delivers sharp text and decent color accuracy for productivity tasks, not just spreadsheets"
   - "Ultra-slim 0.3-inch profile and under 2-pound weight make it genuinely travel-friendly"
-cons:
+cons: 
   - "Built-in speakers are weak and tinny — plan on headphones or external speakers for anything beyond system alerts"
   - "Some USB-C laptops (particularly older models) won't deliver enough power through a single cable, forcing a second connection"
   - "Flimsy kickstand feels less durable than the aluminum body suggests; handle with care when adjusting angles"
+
 ---
 
 # Duex New Mobile Pixels FHD Portable Monitor Review: A Second Screen That Actually Travels

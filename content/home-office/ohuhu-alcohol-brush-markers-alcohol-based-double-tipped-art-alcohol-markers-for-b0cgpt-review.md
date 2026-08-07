@@ -1,4 +1,5 @@
 ---
+
 title: "Ohuhu Alcohol Brush Markers - Alcohol Based Double Tipped Ar"
 seo_title: "Ohuhu Alcohol Brush Markers - Alcohol Based Double Review"
 meta_description: "Our full ohuhu alcohol brush markers - alcohol based double tipped ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGPTDNTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710l+T8jwbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: the Ohuhu Alcohol Brush Markers are a legitimate contender in the alcohol marker space, particularly if you're tired of paying Copic prices. With a 4.8-star average across 240 ratings, these markers have built a loyal following — and after digging into the specs and user feedback, I understand why. But they're not perfect, and you should know exactly what you're getting before you hit "add to cart."

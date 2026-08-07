@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Pure Color Long-Lasting Hi-Lustre Lipstick for"
 seo_title: "Estée Lauder Hi-Lustre Lipstick Review: Long-Lasting & Hydrating"
 meta_description: "Our honest Estée Lauder Hi-Lustre Lipstick review: rich color, 8-hour wear, buttery feel. See pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJM3Y3GH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pbk21ZUAL._SL1500_.jpg"
-pros:
+pros: 
   - "One-swipe color payoff with a glass-like shine that doesn't settle into lip lines"
   - "8-hour wear through coffee and meals without the dry, cracked feeling of matte formulas"
   - "Weightless hyaluronic acid + vitamin E complex hydrates instead of just coating lips"
-cons:
+cons: 
   - "At ~$35+, it's a splurge — drugstore dupes exist but lack the same pigment density"
   - "The glossy finish transfers to cups and masks, so touch-ups after eating are non-negotiable"
+
 ---
 
 ## The $35 Lipstick Worth Every Cent (If You Pick the Right Shade)

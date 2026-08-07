@@ -1,4 +1,5 @@
 ---
+
 title: "XSWPL Electric Lunch Box 80W Heated Lunch Box for Adults 12/"
 seo_title: "XSWPL Electric Lunch Box 80W Heated Lunch Box for  Review"
 meta_description: "Our full xswpl electric lunch box 80w heated lunch box for adults 12/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8PTF6TY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rDOTD+EsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever eaten a cold sandwich at noon while your coworker microwaved last night's pasta, you know the pain. The XSWPL Electric Lunch Box is built for exactly that scenario — but it's not the magic bullet some listings suggest. Here's what 225 Amazon buyers (averaging 4.5 stars) actually think after using it.

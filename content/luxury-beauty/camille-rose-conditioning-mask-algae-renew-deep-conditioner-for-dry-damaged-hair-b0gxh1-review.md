@@ -1,4 +1,5 @@
 ---
+
 title: "Camille Rose Conditioning Mask, Algae Renew – Deep Conditi"
 seo_title: "Camille Rose Algae Renew Mask Review: Deep Hydration"
 meta_description: "Camille Rose Algae Renew deep conditioning mask review: Does it repair dry, damaged hair? Real results, ingredients, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXH196LY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hKhjp2QLL._SL1500_.jpg"
-pros:
+pros: 
   - "Algae extract and marshmallow root provide genuine slip and detangling without heavy silicones"
   - "Thick, creamy formula that actually penetrates — not just a surface coating"
   - "Works on multiple textures from 3A curls to 4C coils, per consistent buyer feedback"
-cons:
+cons: 
   - "Strong botanical scent that some buyers find overpowering, not fragrance-free"
   - "8 oz jar runs out quickly if you have long or high-density hair — expect to repurchase monthly"
   - "May weigh down fine or low-porosity hair if left on past the recommended 10 minutes"
+
 ---
 
 Let’s be blunt: the hair care aisle is crowded with masks that smell like a tropical vacation but do absolutely nothing beyond the rinse. The Camille Rose Algae Renew Deep Conditioning Mask is not one of them. With a 4.6-star average across 229 ratings, this is a product that has earned its reputation through results, not marketing. But it's not perfect, and whether it's worth your money depends entirely on your hair type and expectations.

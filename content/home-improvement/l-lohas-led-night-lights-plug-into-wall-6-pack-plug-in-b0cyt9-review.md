@@ -1,4 +1,5 @@
 ---
+
 title: "L LOHAS LED Night Lights Plug into Wall[6-Pack], Plug in Nig"
 seo_title: "L LOHAS LED Night Lights Plug into Wall[6-Pack], P Review"
 meta_description: "Our full l lohas led night lights plug into wall[6-pack], plug in nig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYT9GVPY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HCpg6RBBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 2 a.m. bathroom trip doesn’t have to be a stumble-and-cuss adventure.** The L LOHAS LED Night Lights 6-pack promises to solve that with zero-effort plug-in illumination. After digging through the specs and buyer feedback, here’s the honest breakdown.

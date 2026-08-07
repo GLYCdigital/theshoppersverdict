@@ -1,4 +1,5 @@
 ---
+
 title: "Fisher-Price Little People Toddler Toy Everyday Adventures A"
 seo_title: "Fisher-Price Little People Airport Playset Review (2026)"
 meta_description: "Honest Fisher-Price Little People Everyday Adventures Airport review: build quality, play value, and who it's best for. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9W7XF3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Ts-4ky9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Airplane actually rolls and has a spinning propeller — real motion, not just a static prop"
   - "Three full play zones (terminal, baggage claim, runway) in a compact footprint under 18 inches wide"
   - "Figures and accessories are chunky enough for 18-month-olds but detailed enough to hold a 3-year-old's attention"
-cons:
+cons: 
   - "No sound or lights — if your toddler expects the singing/chanting of other Little People sets, this one is quiet by design"
   - "Baggage carousel is manually operated; small hands need a bit of practice to spin it smoothly"
   - "Airplane fits only one figure at a time, which can cause sharing disputes with siblings"
+
 ---
 
 **Fisher-Price Little People Everyday Adventures Airport: The Honest Review**

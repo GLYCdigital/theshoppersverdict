@@ -1,4 +1,5 @@
 ---
+
 title: "BALI OUTDOORS Propane Fire Pit"
 seo_title: "BALI OUTDOORS Propane Fire Pit Review (2026): Honest Verdict"
 meta_description: "BALI OUTDOORS Propane Fire Pit review: 4.6★ from 229 ratings. Real buyer feedback on heat output, build quality, and assembly. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1F6HFGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aCAsMfgrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "34,000 BTU output with dual burner rings throws serious heat for a portable unit"
   - "Drop-in fit with included adapter ring works for both 28'' and 30'' table cutouts"
   - "Stainless steel burner assembly resists corrosion far better than painted steel at this price point"
-cons:
+cons: 
   - "No lid or cover included — you'll need to purchase a separate weather cover"
   - "Electronic ignition requires a AAA battery; some buyers report the igniter fails within months"
+
 ---
 
 Let’s cut through the marketing. A propane fire pit is the fastest way to turn a dead patio into a gathering spot, and the BALI OUTDOORS unit has earned a solid 4.6-star average from 229 ratings. But is it the right one for your deck? Here’s the real breakdown.

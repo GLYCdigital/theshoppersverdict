@@ -1,4 +1,5 @@
 ---
+
 title: "Shurflo Pump Indoor kitchen Sink Hand Wash Station, Shurflo "
 seo_title: "Shurflo Pump Indoor kitchen Sink Hand Wash Station Review"
 meta_description: "Our full shurflo pump indoor kitchen sink hand wash station, shurflo  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B082BGFYNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-d2kn45EL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, if you're running a food truck, a festival booth, or a mobile detailing service, you already know the pain: you need a hand-washing station that passes inspection, and you need it yesterday. The Shurflo Pump Indoor Kitchen Sink Hand Wash Station is a purpose-built solution that skips the DIY PVC-and-bucket approach and gives you something that actually meets NSF standards. At 4.0 stars from 200 ratings, it's not perfect — but it might be exactly what your setup demands.

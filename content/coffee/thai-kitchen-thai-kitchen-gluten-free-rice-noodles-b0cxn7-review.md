@@ -1,4 +1,5 @@
 ---
+
 title: "Thai Kitchen Thai Kitchen Gluten Free Rice Noodles"
 seo_title: "Thai Kitchen Thai Kitchen Gluten Free Rice Noodles Review"
 meta_description: "Our full thai kitchen thai kitchen gluten free rice noodles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXN7R2KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DW5f1uCHL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: I've tested more than my share of rice noodles that turn into a starchy, broken mess the second you look at them wrong. Thai Kitchen's offering is different — and mostly in a good way.

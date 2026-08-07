@@ -1,4 +1,5 @@
 ---
+
 title: "Red Sea ReefMat Filter Roller for Saltwater Aquariums"
 seo_title: "Red Sea ReefMat Filter Roller for Saltwater Aquari Review"
 meta_description: "Our full red sea reefmat filter roller for saltwater aquariums review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR6QD69P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RbFqIdkpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Red Sea ReefMat Filter Roller Review: Is Automatic Filtration Worth It?

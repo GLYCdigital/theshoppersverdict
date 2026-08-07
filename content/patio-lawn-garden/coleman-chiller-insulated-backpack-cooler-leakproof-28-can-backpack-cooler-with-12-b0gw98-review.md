@@ -1,4 +1,5 @@
 ---
+
 title: "Coleman Chiller Insulated Backpack Cooler, Leakproof 28-Can"
 seo_title: "Coleman Chiller Backpack Cooler Review: Leakproof 28-Can"
 meta_description: "Coleman Chiller Insulated Backpack Cooler review: Is the leakproof 28-can backpack worth it? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GW98GZGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516mRK3gU7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly leakproof liner holds up to real abuse — no puddles in your trunk after a full day with ice"
   - "28-can capacity in a backpack form factor means hands-free carrying that actually fits a day at the beach or tailgate"
   - "Padded shoulder straps and back panel make it comfortable even when loaded to capacity"
-cons:
+cons: 
   - "No external pockets — small items like keys or a phone have nowhere to go"
   - "Insulation is adequate but not Thermoelectric-grade; ice lasts 12-18 hours, not 48"
   - "Front zipper access requires digging to the bottom — no top-loading convenience"
+
 ---
 
 Most backpack coolers are either glorified lunch bags or overpriced gear with a logo. The Coleman Chiller 28-Can sits somewhere smarter: it's a legitimately leakproof, comfortable pack that doesn't pretend to be something it isn't. At 4.4 stars from 220 ratings, it's not perfect — but for the price, it punches well above its weight.

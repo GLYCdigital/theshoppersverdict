@@ -1,4 +1,5 @@
 ---
+
 title: "Seagate Exos X18 12TB Internal Hard Drive Enterprise HDD - C"
 seo_title: "Seagate Exos X18 12TB Internal Hard Drive Enterpri Review"
 meta_description: "Our full seagate exos x18 12tb internal hard drive enterprise hdd - c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJFG3JJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bXGmyHF3L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The 12TB Workhorse That Won't Quit (If You Keep It Cool)

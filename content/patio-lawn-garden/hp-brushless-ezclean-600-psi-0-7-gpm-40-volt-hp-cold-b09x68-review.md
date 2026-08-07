@@ -1,4 +1,5 @@
 ---
+
 title: "HP Brushless EZClean 600 PSI 0.7 GPM 40 Volt HP Cold Water C"
 seo_title: "HP Brushless EZClean 600 PSI 0.7 GPM 40 Volt HP Co Review"
 meta_description: "Our full hp brushless ezclean 600 psi 0.7 gpm 40 volt hp cold water c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B09X68PZY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WI7V1W0kL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HP Brushless EZClean 600 PSI: A Light-Duty Cordless Option With a Serious Catch

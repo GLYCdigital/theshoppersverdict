@@ -1,4 +1,5 @@
 ---
+
 title: "Dynta A5 Spiral Blank Lined Notebook, Unlined College Ruled"
 seo_title: "Dynta A5 Spiral Notebook Review: Blank & Lined Pages (2026)"
 meta_description: "Honest Dynta A5 spiral notebook review: dual blank/lined pages, college-ruled format, build quality, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BCHWBLFT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iznyj1uwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dual-page format — blank left page for sketches/diagrams, college-ruled right page for notes — no flipping between notebooks"
   - "A5 size (5.8 x 8.3 inches) hits the sweet spot between pocketable and writable; fits in most bags and standard A5 covers"
   - "Spiral binding lays completely flat, and the wire doesn't dig into your wrist even when writing near the top edge"
-cons:
+cons: 
   - "Paper is 70gsm — fine for ballpoint and gel pens, but heavy inkers and fountain pens will see ghosting on the reverse side"
   - "Softcover flexes noticeably when writing without a hard surface underneath; a clipboard helps if you're a lap writer"
+
 ---
 
 If you've ever flipped between a sketchbook and a lined notebook during the same meeting, the Dynta A5 Spiral Blank Lined Notebook is built for exactly that frustration. One side gives you unlined freedom; the other gives you college-ruled structure. It's a simple concept that most notebook brands somehow overcomplicate — and at 4.8 stars across 240 ratings, buyers clearly appreciate the straightforward execution.

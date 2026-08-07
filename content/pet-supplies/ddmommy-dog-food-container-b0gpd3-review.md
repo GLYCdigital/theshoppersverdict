@@ -1,4 +1,5 @@
 ---
+
 title: "DDMOMMY dog food container"
 seo_title: "DDMOMMY Dog Food Container Review: Airtight, Worth It?"
 meta_description: "Honest DDMOMMY dog food container review: airtight seal, capacity, and durability tested. See pros, cons, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GPD39MLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SFpIUqDzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gasketed, airtight lid actually keeps kibble fresh for 3+ weeks in humidity tests"
   - "Rolling casters and ergonomic handle make moving a full 40lb container effortless"
   - "Transparent body lets you see remaining kibble at a glance without opening"
-cons:
+cons: 
   - "Wheels are non-locking — container can roll on smooth floors when pushed"
   - "Not fully waterproof; standing water on the lid can seep past the gasket"
+
 ---
 
 Let's be honest about pet food storage: most containers are either flimsy plastic bins that crack by month three or overpriced stainless steel that looks great but slides around your pantry floor. The DDMOMMY dog food container sits somewhere in the practical middle — and for most households, that's exactly the right spot.

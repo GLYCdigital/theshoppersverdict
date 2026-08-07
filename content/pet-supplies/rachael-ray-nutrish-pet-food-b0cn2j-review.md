@@ -1,4 +1,5 @@
 ---
+
 title: "Rachael Ray Nutrish PET_Food"
 seo_title: "Rachael Ray Nutrish PET_Food Review: Verdict | TSV"
 meta_description: "Our full rachael ray nutrish pet_food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CN2J6JZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a6cDzDkTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pros:**

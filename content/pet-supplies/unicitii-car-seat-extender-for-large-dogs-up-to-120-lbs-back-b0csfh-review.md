@@ -1,4 +1,5 @@
 ---
+
 title: "UNICITII Car Seat Extender for Large Dogs up to 120 LBS, Bac"
 seo_title: "UNICITII Car Seat Extender for Large Dogs up to 12 Review"
 meta_description: "Our full unicitii car seat extender for large dogs up to 120 lbs, bac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSFH6366/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IMY8woPOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The UNICITII Back Seat Extender: What 120 Pounds of Dog Actually Does to It**

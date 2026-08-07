@@ -1,4 +1,5 @@
 ---
+
 title: "Juyace 18W Outdoor Wall Sconce Light"
 seo_title: "Juyace 18W Outdoor Wall Sconce Light Review: Verdict | TS"
 meta_description: "Our full juyace 18w outdoor wall sconce light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D29HJDZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MxWV+Q0dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos for a second. The Juyace 18W outdoor wall sconce is one of those fixtures that looks like a generic modern rectangle until you get it in your hands — and then the build quality makes you pause. At 4.6 stars across 229 ratings, this isn't a flash-in-the-pan product. It's a solid workhorse for homeowners who want that architectural "light bar" look without paying boutique lighting store prices.

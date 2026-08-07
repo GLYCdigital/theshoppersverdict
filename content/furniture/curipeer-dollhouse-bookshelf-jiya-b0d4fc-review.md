@@ -1,4 +1,5 @@
 ---
+
 title: "Curipeer Dollhouse Bookshelf Jiya"
 seo_title: "Curipeer Dollhouse Bookshelf Jiya Review: Worth It? (2026)"
 meta_description: "Curipeer Dollhouse Bookshelf Jiya review: charming 4-tier kids' bookcase with dollhouse-style design. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4FCZ87X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717Z8TolSQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy engineered wood construction with rounded corners — holds up to active kids without wobble"
   - "Four spacious tiers offer more storage than typical 3-shelf dollhouse designs"
   - "Versatile design works as bookshelf, toy organizer, or decorative display unit in any room"
-cons:
+cons: 
   - "Assembly requires patience — multiple small parts and no pre-drilled pilot holes on some pieces"
   - "White finish shows scuffs and fingerprints easily; touch-up paint not included"
+
 ---
 
 **The Curipeer Dollhouse Bookshelf Jiya** looks like a toy store display case and a real piece of furniture had a baby. That's exactly why it's earned a 4.4-star average across 220 Amazon ratings — and why some parents are less thrilled than others.

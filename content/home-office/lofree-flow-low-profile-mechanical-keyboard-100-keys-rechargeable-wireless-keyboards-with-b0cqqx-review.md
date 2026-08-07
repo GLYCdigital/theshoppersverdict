@@ -1,4 +1,5 @@
 ---
+
 title: "LOFREE Flow Low Profile Mechanical Keyboard, 100 Keys Rechar"
 seo_title: "LOFREE Flow Low Profile Mechanical Keyboard, 100 K Review"
 meta_description: "Our full lofree flow low profile mechanical keyboard, 100 keys rechar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQQX5CC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Zim8jmcxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LOFREE Flow isn't trying to be your gaming keyboard. It's aiming at a simpler target: your desk, your wrists, and the person on the other end of a video call who can hear every clack. With a 4.3-star average across 215 ratings, it's getting attention. But is it worth the premium over a standard membrane board? Let's break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Fountain, Solatec Solar Powered Bird Bath Fountain Pum"
 seo_title: "Solar Fountain, Solatec Solar Powered Bird Bath Fo Review"
 meta_description: "Our full solar fountain, solatec solar powered bird bath fountain pum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DT7P8W81/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813ottDnfqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Solatec solar fountain a gentle babbling addition to your garden, or a finicky gadget that quits when a cloud passes? After digging through 195 ratings and the spec sheet, here's what actually matters.**

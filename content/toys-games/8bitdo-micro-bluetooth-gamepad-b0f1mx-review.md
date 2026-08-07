@@ -1,4 +1,5 @@
 ---
+
 title: "8BitDo Micro Bluetooth Gamepad"
 seo_title: "8BitDo Micro Gamepad Review: Tiny Controller, Big Value"
 meta_description: "8BitDo Micro Bluetooth Gamepad review: pocket-sized controller with impressive compatibility. Is it worth it? We break down the pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1MXKKVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rt1RXGH7L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely pocket-sized at just 2.5 inches wide — slips into a coin pocket or glasses case"
   - "Works across Switch, Android, iOS, and PC via Bluetooth with zero dongle hassle"
   - "Excellent D-pad with satisfying tactile click — feels far more premium than the price suggests"
-cons:
+cons: 
   - "No analog sticks — 3D platformers and twin-stick shooters are immediately off the table"
   - "Small size means adult hands will cramp during anything beyond 30-minute sessions"
   - "Setup requires holding specific button combos; the manual is small-print and easy to lose"
+
 ---
 
 Most "mini" gamepads are a compromise you regret within ten minutes. The 8BitDo Micro Bluetooth Gamepad, however, is a different beast entirely. This thing is smaller than a deck of cards — roughly 2.5 inches wide and about an inch tall — yet it manages to pack the full 8BitDo signature D-pad quality into a package that vanishes into any pocket. As shown in the product image, it's essentially the face buttons and D-pad of a full controller, shrunk down with two shoulder buttons on top. But is it a novelty or a genuinely useful tool? After spending time with it, I'd argue it's the latter — with important caveats.

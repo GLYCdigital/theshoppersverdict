@@ -1,4 +1,5 @@
 ---
+
 title: "Gabby's Dollhouse DreamWorks, Sing & Celebrate Gabby Girl Do"
 seo_title: "Gabby's Dollhouse Sing & Celebrate Gabby Doll Review (2026)"
 meta_description: "Our honest Gabby's Dollhouse Sing & Celebrate Gabby Girl Doll review: 13-inch interactive toy with lights, music, and 4.8-star Amazon rating. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYNZL311/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vtzS5IApL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three interactive play modes (sing-along, dance party, and phrase mode) activated by pressing the cat-ear headband"
   - "13-inch size is substantial enough for kids 3+ yet light enough for small hands to carry around"
   - "Comes with a removable microphone accessory that actually triggers sound effects when pressed"
-cons:
+cons: 
   - "Requires 3 AAA batteries (not included) — an immediate $5-8 additional cost most buyers don't expect"
   - "Sound quality is decent but noticeably compressed at higher volumes; gets slightly distorted above 70% volume"
   - "Attached skirt limits leg movement — kids who want to pose the doll for display will find the range restricted"
+
 ---
 
 If your kid is obsessed with the hit Netflix show *Gabby's Dollhouse* — and let's be honest, millions of parents are living this reality right now — this 13-inch Sing & Celebrate Gabby doll is probably already on their wishlist. The question is whether it's worth the shelf space and the battery run. After digging through 240 Amazon ratings and the product specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "GASPRO Propane Tank Adapter Review"
 seo_title: "GASPRO Propane Tank Adapter Review: 4.6-Star Verdict"
 meta_description: "GASPRO propane tank adapter review: Is this brass 1-lb to 20-lb connector worth it? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSK3YNNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FxJwyk1XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a rubberized grip handles cold temperatures without cracking"
   - "Universal fit works on Coleman, Ozark Trail, King Kooker, and other standard 1-lb propane appliances"
   - "Compact size (under 3 inches) stores easily in camping bins or grill tool drawers"
-cons:
+cons: 
   - "No shut-off valve — you must disconnect the appliance to stop gas flow, which is inconvenient mid-cook"
   - "Adding a 20-lb tank to a lightweight appliance increases tip-over risk; needs a stable base"
+
 ---
 
 If you're tired of burning through $6 disposable propane cylinders every time you camp or tailgate, the GASPRO Propane Tank Adapter is the $15 fix you've been looking for. This small brass adapter lets you connect your standard 20-lb grill tank directly to appliances designed for those tiny 1-lb green cylinders. At 4.6 stars across 229 reviews, it's clear this little connector solves a real problem for outdoor cooks. But it's not perfect — and I'll tell you exactly where it falls short.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Fancy Feast Gravy Lovers Variety Pack Feast Pate in W"
 seo_title: "Purina Fancy Feast Gravy Lovers Variety Pack Feast Review"
 meta_description: "Our full purina fancy feast gravy lovers variety pack feast pate in w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGV8PBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814wzni09HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a cat who acts like a four-star food critic, the Purina Fancy Feast Gravy Lovers Variety Pack is the wet food equivalent of offering a tasting menu. This 24-can case (each 3 oz.) gives you four protein options — Chicken Feast, Turkey Feast, Salmon Feast, and Beef Feast — all in that signature pate-in-gravy format. With a 4.7-star average across 235 ratings, it's clearly winning over finicky felines. But is it the right pick for *your* cat? Let's dig in.

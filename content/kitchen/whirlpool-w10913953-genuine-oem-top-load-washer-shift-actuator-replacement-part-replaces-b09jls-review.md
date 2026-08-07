@@ -1,4 +1,5 @@
 ---
+
 title: "Whirlpool W10913953 Genuine OEM Top Load Washer Shift Actuat"
 seo_title: "Whirlpool W10913953 Genuine OEM Top Load Washer Sh Review"
 meta_description: "Our full whirlpool w10913953 genuine oem top load washer shift actuat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09JLS8L3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612aA4SL7cL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your Whirlpool top-load washer is grinding like a coffee mill mid-cycle, flashing an F5 E2 error, or refusing to spin, the shift actuator is almost certainly the culprit.** This small plastic-and-metal component sits under the machine and physically moves the transmission between agitate and spin modes. When it fails, the washer either can't shift gears or thinks it's stuck — and you're left hand-wringing over a $400 service call. This OEM replacement from Whirlpool is the part that fixes it, and at 4.2 stars across 210 reviews, it's the one most DIYers land on.

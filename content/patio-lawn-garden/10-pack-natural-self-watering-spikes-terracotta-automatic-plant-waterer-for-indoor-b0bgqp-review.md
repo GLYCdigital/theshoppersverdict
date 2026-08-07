@@ -1,4 +1,5 @@
 ---
+
 title: "10-Pack Natural Self Watering Spikes - Terracotta - Automati"
 seo_title: "Terracotta Self Watering Spikes Review: 10-Pack Tested"
 meta_description: "Honest review of 10-pack terracotta self watering spikes. Do they actually work for indoor plants? Tested performance, pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BGQPKLCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81T2qsL2zTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine unglazed terracotta that wicks water effectively — not cheap glazed ceramic"
   - "Each spike fits standard 16.9oz water bottles, so replacement bottles are easy to find"
   - "10-pack gives you enough for a full shelf of plants; no need to buy two sets"
-cons:
+cons: 
   - "Terracotta is porous and will develop mineral stains over time — cosmetic only, but noticeable"
   - "No flow control; larger plants may drain a bottle too fast, smaller pots may stay too wet"
   - "Bottles sit top-down and look utilitarian — not the prettiest solution for visible living room plants"
+
 ---
 
 If you've killed plants on vacation more times than you'd like to admit, these terracotta spikes are worth a serious look. They're dead simple — stick the cone in soil, screw on a water bottle, and let physics do the rest. But simple doesn't always mean effective. After testing a full 10-pack across indoor pots and a couple of outdoor containers, here's the real story.

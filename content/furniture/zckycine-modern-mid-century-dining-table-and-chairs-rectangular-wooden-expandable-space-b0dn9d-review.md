@@ -1,4 +1,5 @@
 ---
+
 title: "ZckyCine Modern Mid-Century Dining Table and Chairs - Rectan"
 seo_title: "ZckyCine Modern Mid-Century Dining Table and Chair Review"
 meta_description: "Our full zckycine modern mid-century dining table and chairs - rectan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DN9DZZR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8192KThbwxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Dining Set That Respects Small Spaces — Mostly

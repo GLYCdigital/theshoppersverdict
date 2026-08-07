@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Brand - Wag Dry Dog Food Small Breed with Grains (Chi"
 seo_title: "Wag Small Breed Dog Food Review: Chicken & Grains (2026)"
 meta_description: "Honest Wag Small Breed Dry Dog Food review: chicken & grains recipe, kibble size, price, and real owner feedback. Is it right for your pup?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097Z89HVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yrISibWcS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First ingredient is deboned chicken, not a vague meat meal or filler"
   - "Small kibble size actually matches small-breed jaws — no choking or gulping"
   - "Includes glucosamine and chondroitin for joint support, which most value brands skip at this price"
-cons:
+cons: 
   - "Contains chicken meal and brewers rice — acceptable but not premium ingredients"
   - "No grain-free option; dogs with wheat or corn sensitivities may need to look elsewhere"
+
 ---
 
 Let's be straight about this: finding a decent small-breed dog food that doesn't cost as much as your own groceries is genuinely difficult. The Wag Small Breed formula from Amazon's own brand aims to split that difference — and based on 220 ratings averaging 4.4 stars, it's earning real traction. Here's what you need to know before adding it to your cart.

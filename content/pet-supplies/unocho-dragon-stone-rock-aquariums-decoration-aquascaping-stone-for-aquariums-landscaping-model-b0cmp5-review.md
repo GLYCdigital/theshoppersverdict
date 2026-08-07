@@ -1,4 +1,5 @@
 ---
+
 title: "Unocho Dragon Stone Rock Aquariums Decoration Aquascaping St"
 seo_title: "Unocho Dragon Stone Rock Aquariums Decoration Aqua Review"
 meta_description: "Our full unocho dragon stone rock aquariums decoration aquascaping st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMP5CV84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tK9seVZ8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've browsed aquascaping inspiration on YouTube or Instagram, you've seen dragon stone — that craggy, rust-streaked gray rock that anchors high-end planted tanks. The Unocho Dragon Stone Rock promises that signature look without the $40-per-pound price tag of specialty aquarium stores. At 4.4 stars across 220 ratings, it's clearly doing something right. Here's what you're actually getting before you hit buy.

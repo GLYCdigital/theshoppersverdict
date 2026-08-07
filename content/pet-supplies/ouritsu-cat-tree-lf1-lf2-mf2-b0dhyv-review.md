@@ -1,4 +1,5 @@
 ---
+
 title: "Ouritsu Cat Tree LF1 LF2 MF2"
 seo_title: "Ouritsu Cat Tree LF1 LF2 MF2 Review: Verdict | TSV"
 meta_description: "Our full ouritsu cat tree lf1 lf2 mf2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHYVB8ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qXYKJpq5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If your cat treats furniture like a personal climbing gym, the Ouritsu Cat Tree LF1/LF2/MF2 series gives them a dedicated outlet — and it actually holds up. At 4.6 stars across 229 ratings, this isn't a flashy product. It's a functional one, and for most cat owners, that's exactly what matters.

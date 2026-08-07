@@ -1,4 +1,5 @@
 ---
+
 title: "Hawaiian Luau Party Decorations(161 Pcs), Tropical Summer Be"
 seo_title: "Hawaiian Luau Party Decorations 161 Pcs Review"
 meta_description: "Honest review of the 161-piece Hawaiian Luau party decorations set. See what's included, real quality checks, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B2RFGJL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tA7Fa0I8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "161 pieces covers an entire venue — no need to buy multiple separate kits"
   - "Cardstock banners and cutouts hold up well enough for a full event and can be reused"
   - "Vibrant, photo-friendly colors that actually deliver the tropical look in pictures"
-cons:
+cons: 
   - "Inflatable palm trees and flamingos are thin plastic — punctures happen easily"
   - "No tape or adhesive included — you'll need to supply your own for hanging"
+
 ---
 
 **Full Review:**

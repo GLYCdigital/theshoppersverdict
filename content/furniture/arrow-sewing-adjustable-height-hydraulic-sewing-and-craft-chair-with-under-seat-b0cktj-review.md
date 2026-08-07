@@ -1,23 +1,25 @@
 ---
+
 title: "Arrow Sewing Adjustable Height Hydraulic Sewing and Craft Ch"
 seo_title: "Arrow Hydraulic Sewing Chair Review: Adjustable & Sturdy"
 meta_description: "Read our Arrow Sewing adjustable hydraulic chair review. See how it performs for quilters and crafters, plus pros, cons, and who should buy it."
 slug: "arrow-sewing-adjustable-height-hydraulic-sewing-and-craft-chair-with-under-seat-b0cktj-review"
 image_alt: "Arrow Sewing adjustable hydraulic craft chair with under-seat storage in a home sewing studio"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKTJMDYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ib+EfmkuL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Gas-lift pneumatic height adjustment from 20.5 to 27 inches, works for standard and sit-stand sewing tables"  
   - "Under-seat storage tray slides out for scissors, thread, and small tools—keeps your workspace clear"  
   - "Padded seat and backrest with breathable upholstery; holds up to 250 lbs"  
-cons:  
+cons: 
   - "Casters are basic hard plastic—they roll fine on hard floors but can scratch wood or laminate"  
   - "Assembly takes about 20 minutes; the included wrench is flimsy, so have your own Allen key set handy"
+
 ---
 
 **The sewing chair that finally gets the height right**  

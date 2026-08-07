@@ -1,4 +1,5 @@
 ---
+
 title: "LunchEAZE XL Cordless Heated & Electric Lunch Box â€“ Batter"
 seo_title: "LunchEAZE XL Cordless Heated & Electric Lunch Box  Review"
 meta_description: "Our full luncheaze xl cordless heated & electric lunch box â€“ batter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQYCD1BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZmjnmaCDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing noise: most "portable" heated lunch boxes are just insulated bags with a cord you pray reaches an outlet. The LunchEAZE XL actually cuts the cord — and that changes how you use it. But is the battery worth the weight? After digging through 235 verified ratings and the spec sheet, here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Monterey Mini 1-Light Outdoor Wall Lantern"
 seo_title: "Monterey Mini 1-Light Outdoor Wall Lantern Review: Verdic"
 meta_description: "Our full monterey mini 1-light outdoor wall lantern review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F66R6SSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PlFphyyxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Monterey Mini isn't trying to be the brightest light on your block. It's trying to be the one that still looks good in five years.**  

@@ -1,4 +1,5 @@
 ---
+
 title: "YBEK G9 Halogen Bulb 120V 25W T4 Type 2 Pin Base, Replacemen"
 seo_title: "YBEK G9 Halogen Bulb 120V 25W T4 Type 2 Pin Base,  Review"
 meta_description: "Our full ybek g9 halogen bulb 120v 25w t4 type 2 pin base, replacemen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B091BSMFH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619CJQmuvgS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a light fixture that takes G9 halogen bulbs, you already know the pain: they burn out at the worst possible moment, and the replacement aisle is full of confusing options. The YBEK G9 Halogen Bulb 120V 25W T4 Type 2 Pin Base is the kind of straightforward, no-drama replacement that gets the job done without making you think too hard about it. Here's the full breakdown.

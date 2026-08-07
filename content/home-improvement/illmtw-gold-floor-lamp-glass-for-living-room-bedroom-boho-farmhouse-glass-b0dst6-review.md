@@ -1,4 +1,5 @@
 ---
+
 title: "ILLMTW Gold Floor Lamp Glass for Living Room Bedroom Boho Fa"
 seo_title: "ILLMTW Gold Floor Lamp Glass for Living Room Bedro Review"
 meta_description: "Our full illmtw gold floor lamp glass for living room bedroom boho fa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DST6VKX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710MRq3by4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Illmtw Gold Floor Lamp Glass Review: Boho Farmhouse Lighting Worth Your Floor Space?

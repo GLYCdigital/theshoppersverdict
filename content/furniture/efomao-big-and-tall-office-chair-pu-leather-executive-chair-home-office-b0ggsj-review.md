@@ -1,4 +1,5 @@
 ---
+
 title: "Efomao Big and Tall Office Chair, PU Leather Executive Chair"
 seo_title: "Efomao Big & Tall Office Chair Review: Worth It in 2026?"
 meta_description: "Honest Efomao Big and Tall PU Leather Executive Chair review: comfort, weight capacity, build quality, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GGSJRWG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-and-images.amazon.com/images/I/71O8kpEazqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide 22-inch seat and heavy-duty base rated for users up to 400 lbs"
   - "Thick high-density foam cushioning that doesn't flatten out after months of daily use"
   - "Reclines to 135 degrees with adjustable tilt tension for custom lumbar support"
-cons:
+cons: 
   - "PU leather can get sticky and sweaty in warm rooms — fabric would breathe better"
   - "Armrests are fixed and not height-adjustable, which limits ergonomic customization"
+
 ---
 
 Let's be blunt about the big-and-tall office chair market: most options are either flimsy "extended" versions of standard chairs or cost more than a used car. The Efomao Big and Tall Executive Chair sits in the middle — and for the price, it punches surprisingly hard.

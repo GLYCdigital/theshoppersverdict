@@ -1,4 +1,5 @@
 ---
+
 title: "CAP Barbell Neoprene Dumbbell Weights Pairs & Sets | Multipl"
 seo_title: "CAP Barbell Neoprene Dumbbell Review: Worth It? (2026)"
 meta_description: "Honest CAP Barbell neoprene dumbbell review: grip, durability, sizing, and real buyer feedback. See if these weights fit your home gym."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D47N79VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z-bx20c8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hexagonal shape prevents rolling and allows stable floor rests between sets"
   - "Neoprene coating provides a firm, non-slip grip even with sweaty hands"
   - "Color-coded weight increments make quick selection during circuits easy"
-cons:
+cons: 
   - "Neoprene can develop a slight odor in humid environments if not aired out"
   - "Not ideal for heavy lifting — max pair weight is typically 10 lbs per dumbbell in entry sets"
+
 ---
 
 You don't need a full rack of iron to get a solid workout. But you do need dumbbells that won't roll under your couch, slip out of your hand mid-rep, or flake paint onto your floor. The CAP Barbell Neoprene Dumbbell Pairs & Sets check those boxes — with a few caveats worth knowing before you buy.

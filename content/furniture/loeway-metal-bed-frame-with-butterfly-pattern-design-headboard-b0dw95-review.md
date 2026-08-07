@@ -1,4 +1,5 @@
 ---
+
 title: "LOEWAY Metal Bed Frame with Butterfly Pattern Design Headboa"
 seo_title: "LOEWAY Metal Bed Frame with Butterfly Pattern Desi Review"
 meta_description: "Our full loeway metal bed frame with butterfly pattern design headboa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW95VFW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XVhLRKHsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LOEWAY Metal Bed Frame with Butterfly Pattern Design Headboard is one of those rare Amazon finds that delivers more than the photos suggest. At 4.7 stars across 235 ratings, it's clearly doing something right — but let's dig into whether it's the right frame for your specific setup.

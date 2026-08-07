@@ -1,7 +1,8 @@
 ---
-title: "OKD Fireplace TV Stand for 85\" TV, 33\" Tall Highboy Farmhous"
-seo_title: "OKD Fireplace TV Stand for 85\" TV, 33\" Tall Highbo Review"
-meta_description: "Our full okd fireplace tv stand for 85\" tv, 33\" tall highboy farmhous review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "OKD Fireplace TV Stand for 85\ TV, 33\ Tall Highboy Farmhous"
+seo_title: "OKD Fireplace TV Stand for 85\ TV, 33\ Tall Highbo Review"
+meta_description: "Our full okd fireplace tv stand for 85\ tv, 33\ tall highboy farmhous review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "okd-fireplace-tv-stand-for-85-tv-33-tall-highboy-farmhouse-entertainment-b0dksw-review"
 image_alt: "OKD Fireplace TV Stand for 85 TV, 33 Tall Highboy Farmhouse Entertainment Center w/ 42 Electric Fireplace & LED Light, R"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKSWD66L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VhrxZ23YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about this: the **Okd Fireplace TV Stand for 85" TVs** is a niche answer to a very specific problem. Most fireplace stands top out around 60-65 inches wide, which leaves an 85-inch TV looking like it's floating awkwardly above a toy chest. This unit takes a different approach — instead of going wider, it goes taller. That 33-inch height is the headline feature, and it's genuinely smart.

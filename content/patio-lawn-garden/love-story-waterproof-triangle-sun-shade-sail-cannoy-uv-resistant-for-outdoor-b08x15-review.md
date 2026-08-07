@@ -1,4 +1,5 @@
 ---
+
 title: "LOVE STORY Waterproof Triangle Sun Shade Sail Cannoy UV Resi"
 seo_title: "LOVE STORY Waterproof Triangle Sun Shade Sail Cann Review"
 meta_description: "Our full love story waterproof triangle sun shade sail cannoy uv resi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08X156S8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RkrkuPRKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** This is one of the few sub-$40 triangle shade sails that actually keeps rain off, not just sun. It's not perfect — the lack of hardware and pooling issues will frustrate some — but for the price, it outperforms most budget sails.

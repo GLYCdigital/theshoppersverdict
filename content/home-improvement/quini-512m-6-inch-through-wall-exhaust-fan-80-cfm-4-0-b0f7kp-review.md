@@ -1,4 +1,5 @@
 ---
+
 title: "Quini 512M 6-inch Through Wall Exhaust Fan, 80 CFM 4.0 Sones"
 seo_title: "Quini 512M 6-inch Through Wall Exhaust Fan, 80 CFM Review"
 meta_description: "Our full quini 512m 6-inch through wall exhaust fan, 80 cfm 4.0 sones review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F7KPXZZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yGLF2kHiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need to move humid air out of a workshop, grow room, or utility bathroom, the Quini 512M gets the job done without asking you to remortgage. At 80 CFM with a true 6-inch duct collar, this is a workhorse — but it's not subtle about it. Here's what 225 buyers at 4.5 stars actually think after living with it.

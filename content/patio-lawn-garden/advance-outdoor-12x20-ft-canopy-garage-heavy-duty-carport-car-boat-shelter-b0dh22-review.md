@@ -1,4 +1,5 @@
 ---
+
 title: "ADVANCE OUTDOOR 12x20 ft Canopy Garage Heavy Duty Carport Ca"
 seo_title: "ADVANCE OUTDOOR 12x20 Carport Review: Worth It? (2026)"
 meta_description: "Honest ADVANCE OUTDOOR 12x20 ft carport review: build quality, wind resistance, real owner feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DH22N9PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oKskb54BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel frame with reinforced trusses handles moderate snow loads better than typical carports at this price point"
   - "240 sq ft of coverage fits full-size trucks, SUVs, boats, or RV accessories without cramping"
   - "Pre-drilled holes and color-coded poles cut assembly time to roughly 2-3 hours with two people"
-cons:
+cons: 
   - "Ratcheting straps are the weak link — several owners report replacing them within 6 months in windy areas"
   - "Peak height of 9.5 ft is tight for lifted trucks or RVs over 9 ft tall"
+
 ---
 
 **Bottom line: This is a solid mid-tier shelter that protects vehicles from sun, hail, and light snow — but it's not a permanent building, and the anchoring system demands respect.**

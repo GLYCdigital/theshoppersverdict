@@ -1,4 +1,5 @@
 ---
+
 title: "4K HDMI Capture Card USB 3.0 – 1080P 60FPS Gaming & Stream"
 seo_title: "4K HDMI Capture Card Review: 1080P 60FPS USB 3.0 for Streaming"
 meta_description: "Honest review of the 4K HDMI Capture Card USB 3.0. Is 1080P 60FPS pass-through worth it for streaming? We test latency, build, and real-world use."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BWT35QW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z3BHFWMtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero-latency 4K60 pass-through to your monitor while capturing 1080P 60FPS to your PC — no HDMI splitter required"
   - "Plug-and-play on Windows, Mac, and Linux with UVC standard — no drivers to install for OBS, Streamlabs, or Teams"
   - "Compact aluminum housing stays cool during 6+ hour streaming sessions; USB 3.0 bus-powered, no external power brick"
-cons:
+cons: 
   - "Captures at 1080P 60FPS maximum — if you need 4K recording for post-production, this isn't your card"
   - "Included USB-C cable is short (about 3 feet); you'll likely need a quality extension for desktop setups"
   - "No 3.5mm audio input jack — you'll need to route game audio through HDMI or use a separate audio interface"
+
 ---
 
 If you're building a streaming setup on a budget, the HDMI capture card market is a minefield of cheap knockoffs that promise 4K and deliver 720P garbage with 200ms of lag. This 4K HDMI Capture Card USB 3.0 sits in the sweet spot — it's not the fanciest option, but with a 4.4/5 rating across 220 reviews, it's clearly doing something right. Here's the real story after putting it through actual streaming, recording, and video-conference abuse.

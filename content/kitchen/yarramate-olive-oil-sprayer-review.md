@@ -1,4 +1,5 @@
 ---
+
 title: "YARRAMATE Olive Oil Sprayer Review: Best Glass Oil Dispenser for Cooking?"
 seo_title: "YARRAMATE Olive Oil Sprayer Review 2026: 16oz Glass Oil Dispenser for Cooking Tested"
 meta_description: "Our YARRAMATE 16oz glass olive oil sprayer review covers performance, nozzle quality, and value. See if this $11 oil sprayer is the kitchen tool you need for portion control."
@@ -12,14 +13,14 @@ amazon_image: "https://m.media-amazon.com/images/I/71ZjnwrH7iL._AC_SL1500_.jpg"
 price: 11
 image_alt: "YARRAMATE 16oz glass olive oil sprayer in black with portion control nozzle"
 keywords: [YARRAMATE olive oil sprayer review, best oil sprayer, glass oil dispenser, kitchen oil sprayer, cooking spray bottle]
-pros:
+pros: 
   - "Glass bottle is BPA-free and won't leach chemicals"
   - "Fine mist nozzle distributes oil evenly for cooking"
   - "Includes labels and funnel for easy filling"
-cons:
+cons: 
   - "Nozzle can clog with thicker oils or infused varieties"
   - "Hand wash only — not dishwasher safe"
-faq:
+faq: 
   - question: "Can you use this sprayer with olive oil?"
     answer: "Yes, olive oil works well. The fine mist nozzle atomizes the oil effectively, though extra virgin olive oil may clog the nozzle slightly more than refined oils due to sediment."
   - question: "How many sprays does one fill last?"
@@ -28,6 +29,7 @@ faq:
     answer: "The glass is thick and feels durable, but it's still glass. Dropping it on tile will likely break it. The included protective sleeve helps."
   - question: "Is this better than aerosol cooking spray?"
     answer: "Yes. DIY oil sprayers let you control exactly what oil you use (no propellants or additives), save money in the long run, and are better for the environment."
+
 ---
 
 Let’s be blunt: most oil sprayers under $15 are junk. They clog after three uses, spray uneven streams that pool oil in your pan, or crack in the dishwasher. The YARRAMATE Olive Oil Sprayer, at $11, sits squarely in that budget tier — yet it's trying to punch above its weight. Here's what I found after putting it through real kitchen testing.

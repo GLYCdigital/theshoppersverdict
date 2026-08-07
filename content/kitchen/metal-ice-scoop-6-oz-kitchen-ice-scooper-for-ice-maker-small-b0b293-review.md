@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Ice Scoop 6 Ozï¼ŒKitchen Ice Scooper for Ice Maker, Sm"
 seo_title: "Metal Ice Scoop 6 Ozï¼ŒKitchen Ice Scooper for Ice Review"
 meta_description: "Our full metal ice scoop 6 ozï¼œkitchen ice scooper for ice maker, sm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B293QNWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tI5SvCCxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 An ice scoop is one of those things you don't think about until you're stuck using a flimsy plastic cup that cracks under pressure. This 6-ounce metal scoop from the B0B293 line aims to be the last one you buy. After looking at the specs and what 235 buyers are saying at a 4.7-star average, here's the real story.

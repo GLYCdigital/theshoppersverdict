@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Pro Micro Computer, Intel Core i7-12700K, 8GB RAM, 4TB"
 seo_title: "Dell Pro Micro i7-12700K Review: Compact Power for Office"
 meta_description: "Dell Pro Micro with i7-12700K and 4TB storage reviewed. See if this tiny desktop delivers desktop-class speed for your workspace."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0G669FVM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oeTmW4syL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Desktop-class i7-12700K performance in a chassis small enough to mount behind a monitor"
   - "4TB of storage is exceptional — most micro PCs ship with 512GB or 1TB max"
   - "Tool-free access to internals makes RAM and SSD upgrades a 5-minute job"
-cons:
+cons: 
   - "8GB RAM is the bottleneck — you'll want to upgrade to 16GB immediately for multitasking"
   - "Integrated graphics only — no option for discrete GPU for creative workloads"
   - "No Wi-Fi antenna included in the box — you'll need to buy one separately if you want wireless"
+
 ---
 
 **This tiny box punches way above its weight class — but only if you're willing to do one upgrade.**

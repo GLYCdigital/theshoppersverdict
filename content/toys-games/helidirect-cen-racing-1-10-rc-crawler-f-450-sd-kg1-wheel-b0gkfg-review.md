@@ -1,4 +1,5 @@
 ---
+
 title: "Helidirect CEN Racing 1/10 RC Crawler - F-450 SD KG1 Wheel E"
 seo_title: "CEN Racing F-450 SD RC Crawler Review: Worth It? [2026]"
 meta_description: "Honest CEN Racing F-450 SD KG1 Wheel E RC crawler review: scale looks, real trail capability, and build quirks. Should you buy this 1/10 rig?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GKFG3THD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gfWCnvouL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Factory-finished F-450 body with realistic KG1 wheel/tire combo that looks far more expensive than it is"
   - "Steel C-channel frame rails and metal axles hold up to real crawling abuse, not just shelf display"
   - "Comes RTR (ready-to-run) with electronics installed — battery and charger are the only extras you need"
-cons:
+cons: 
   - "Stock servo is underpowered for the weight — expect steering fade on steep climbs or in tall grass"
   - "Plastic shock bodies leak over time; budget for aluminum upgrades if you run it hard"
   - "No battery included despite the RTR claim — a common frustration echoed in buyer feedback"
+
 ---
 
 Let's be direct: the CEN Racing F-450 SD KG1 Wheel E is a scale crawler that wants to be taken seriously, and for the most part, it earns that respect. At 1/10 scale, this isn't a toy-grade basher — it's a hobby-grade rig with real metal components and a surprisingly detailed Ford F-450 body. But at 3.8 stars from 190 ratings, there's clearly a split between buyers who got a gem and those who got a project.

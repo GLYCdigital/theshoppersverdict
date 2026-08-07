@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Dallas Shag Collection Area Rug"
 seo_title: "SAFAVIEH Dallas Shag Collection Area Rug Review: Verdict "
 meta_description: "Our full safavieh dallas shag collection area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNZJWGZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1rpNgkpJ9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SAFAVIEH Dallas Shag Collection Area Rug

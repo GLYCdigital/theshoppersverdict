@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe Mineral Sunscreen Stick SPF 50, Broad Spectrum SPF +"
 seo_title: "CeraVe Mineral Sunscreen Stick SPF 50 Review (2026): Worth It?"
 meta_description: "CeraVe Mineral Sunscreen Stick SPF 50 review: 4.5/5 stars. Does the tinted mineral stick with ceramides hold up? Pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GY4SW93Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OtMv+zTDL._SL1500_.jpg"
-pros:
+pros: 
   - "Zinc oxide formula with no chemical filters — safe for sensitive skin, rosacea, and post-procedure use"
   - "Includes hyaluronic acid and three essential ceramides, so it hydrates rather than drying out skin like most mineral sunscreens"
   - "Twist-up stick format applies cleanly without sticky hands and fits easily in a pocket or bag"
-cons:
+cons: 
   - "Leaves a visible white cast on medium to deep skin tones — this is not a 'no-trace' mineral formula"
   - "Can feel slightly waxy on application; needs a few passes to blend evenly, especially over moisturizer"
   - "Smaller than expected — 0.47 oz stick runs out quickly if you're applying the recommended two-finger amount daily"
+
 ---
 
 Let’s be blunt: most mineral sunscreen sticks are a compromise. They protect, sure, but they drag on the skin, leave a chalky film, and generally feel like you’re rubbing a crayon on your face. The CeraVe Mineral Sunscreen Stick SPF 50 tries to fix that with a ceramide-rich, hyaluronic acid-infused formula. Does it succeed? Mostly, yes — with a couple of caveats you need to know before you buy.

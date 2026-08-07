@@ -1,4 +1,5 @@
 ---
+
 title: "Chanel Coco Noir Eau De Parfum Spray 35ml/1.2oz"
 seo_title: "Chanel Coco Noir EDP 35ml Review: Dark Elegance or Overhyped?"
 meta_description: "Chanel Coco Noir EDP 35ml review: rich oriental scent with mixed longevity. Is this dark floral worth $100+? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B00EXTO76W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lMg4N0QNL._SL1500_.jpg"
-pros:
+pros: 
   - "Sophisticated, complex oriental-floral composition (rose, jasmine, patchouli) that reads expensive and mature"
   - "The 35ml travel size is genuinely pocketable — fits in a clutch or small bag without the bulk of a 50ml or 100ml"
   - "Signature Chanel bottle design with magnetic cap feels substantial and premium in hand"
-cons:
+cons: 
   - "Longevity is inconsistent — many buyers report 3-4 hours max on skin, which is poor for the price point"
   - "The opening can be sharp/alcoholic for the first 15-20 minutes before the dry-down emerges"
   - "Not a blind-buy safe scent — the heavy patchouli base is divisive and leans mature"
+
 ---
 
 # Chanel Coco Noir Eau De Parfum Spray 35ml/1.2oz Review

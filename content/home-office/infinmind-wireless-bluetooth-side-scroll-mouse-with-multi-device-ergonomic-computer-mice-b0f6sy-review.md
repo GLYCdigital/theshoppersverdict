@@ -1,4 +1,5 @@
 ---
+
 title: "INFINMIND Wireless Bluetooth Side Scroll Mouse with Multi-De"
 seo_title: "INFINMIND Wireless Bluetooth Side Scroll Mouse wit Review"
 meta_description: "Our full infinmind wireless bluetooth side scroll mouse with multi-de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6SY96SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hr2IJz7pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The INFINMIND Wireless Bluetooth Side Scroll Mouse isn't trying to be flashy. It's solving one specific problem: horizontal scrolling without holding Shift and wrestling a trackpad. And for spreadsheet warriors, video editors, and anyone who lives in timeline views, that side wheel is the reason to pay attention.

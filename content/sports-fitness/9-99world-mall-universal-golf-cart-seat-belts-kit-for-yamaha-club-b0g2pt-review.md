@@ -1,24 +1,26 @@
 ---
+
 title: "9.99WORLD MALL Universal Golf Cart Seat Belts Kit for Yamaha"
 seo_title: "9.99WORLD MALL Golf Cart Seat Belts Review (2026)"
 meta_description: "Honest 9.99WORLD MALL Universal Golf Cart Seat Belts Kit review: install ease, durability, fitment for Yamaha & Club Car. See pros, cons, verdict."
 slug: "9-99world-mall-universal-golf-cart-seat-belts-kit-for-yamaha-club-b0g2pt-review"
 image_alt: "9.99WORLD MALL universal golf cart seat belts installed on a Yamaha cart"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2PTC1J8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wn6oqQ6oL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Works across Yamaha, Club Car, and EZ-GO without custom drilling (uses existing seat mount holes)"  
   - "2-inch polyester webbing with stitched 3-point latch — feels sturdier than $30 generic straps"  
   - "Full kit includes steel brackets, stainless hardware, and clear instructions for both bench and bucket seats"  
-cons:  
+cons: 
   - "Hardware lacks thread-locker; bolts can vibrate loose off-road unless you add your own Loctite"  
   - "Webbing runs short for extra-thick custom seats — measure seat depth before ordering"  
   - "Not DOT-certified; fine for neighborhood use, not for highway-speed modified carts"
+
 ---
 
 **Is a $40 seat belt kit worth it for a golf cart you drive at 15 mph?** If you've ever had a passenger grab the roll bar during a sharp turn, you already know the answer. The 9.99WORLD MALL Universal Kit solves that problem without forcing you to buy a cart-specific set that costs twice as much. After 229 ratings averaging 4.6 stars, this is the belt kit most owners are landing on. Here's what that rating actually means in real-world use.

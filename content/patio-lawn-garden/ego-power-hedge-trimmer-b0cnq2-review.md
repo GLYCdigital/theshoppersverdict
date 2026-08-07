@@ -1,4 +1,5 @@
 ---
+
 title: "EGO Power+ Hedge Trimmer"
 seo_title: "EGO Power+ Hedge Trimmer Review: 2026 Buyer's Guide"
 meta_description: "Our honest EGO Power+ Hedge Trimmer review covers battery life, cutting power, and real-world performance. See who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNQ2J5KT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WnZlf6FtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "26-inch dual-action steel blades slice through 3/4-inch branches without binding or stalling"
   - "Weather-resistant build with IPX4 rating handles damp morning dew without electrical concerns"
   - "Variable-speed trigger delivers precise control from delicate shaping to aggressive cutting"
-cons:
+cons: 
   - "Bare tool only — the 56V ARC battery and charger cost an additional $200+ if you're new to the EGO ecosystem"
   - "Blade cover is flimsy compared to the tool's otherwise rugged build quality"
+
 ---
 
 The EGO Power+ Hedge Trimmer sits in an interesting spot. It's not the cheapest option, and it's not the most powerful gas model on the market. But for homeowners who've already invested in EGO's 56V ARC battery platform—or who are ready to ditch gas entirely—this trimmer represents the sweet spot between professional-grade performance and cordless convenience.

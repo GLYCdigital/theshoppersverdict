@@ -1,23 +1,25 @@
 ---
+
 title: "Bvlgari Omnia Crystalline by Bvlgari for Women - 3.4 oz EDT"
 seo_title: "Bvlgari Omnia Crystalline Review: Fresh, Clear EDT for Women"
 meta_description: "Bvlgari Omnia Crystalline review: A clean, watery floral EDT with bamboo and pear. See longevity, sillage, and who it suits best."
 slug: "bvlgari-omnia-crystalline-by-bvlgari-for-women-3-4-oz-edt-spray-b0cnwy-review"
 image_alt: "Bvlgari Omnia Crystalline 3.4 oz EDT bottle with clear glass and silver cap"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNWYZQR9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DbGVBV39L._SL1000_.jpg"
-pros:  
+pros: 
   - "Clean, watery lotus and bamboo heart that smells expensive without being loud"  
   - "Remarkably consistent performance for an EDT — 5-7 hours on skin, longer on clothes"  
   - "Unisex-leaning freshness that works year-round, not just summer"  
-cons:  
+cons: 
   - "Projection is soft to moderate — not a compliment magnet for those who want to be noticed across a room"  
   - "Scent can read as 'shower fresh' to some — lacks the warm depth of Omnia's other flankers"
+
 ---
 
 Bvlgari Omnia Crystalline is the quiet luxury of the fragrance world — the scent equivalent of crisp white linen and morning light. It doesn't shout, it doesn't chase trends, and it doesn't try to be everything to everyone. What it does is deliver a polished, watery floral that's been a sleeper hit since its 2005 debut, and the 3.4 oz EDT bottle currently sitting at 4.5 stars across 225 Amazon ratings reflects exactly that: a steady, loyal following rather than viral hype.

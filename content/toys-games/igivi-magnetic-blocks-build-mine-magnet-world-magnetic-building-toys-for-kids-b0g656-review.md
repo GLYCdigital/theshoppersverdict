@@ -1,4 +1,5 @@
 ---
+
 title: "IGIVI Magnetic Blocks Build Mine Magnet World, Magnetic Buil"
 seo_title: "IGIVI Magnetic Blocks Review: Build Mine Magnet World for Kids"
 meta_description: "IGIVI Magnetic Blocks Build Mine Magnet World review: 4.7-star rated magnetic building toy. See what kids love, what breaks, and if it's worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G656RF44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aeCPxDBbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong neodymium magnets hold structures firmly even with 3-4 year old rough play"
   - "Compatible with major magnetic tile brands, so you can mix sets as your collection grows"
   - "Pieces click together satisfyingly and stay connected — no frustrating mid-build collapses"
-cons:
+cons: 
   - "Some pieces show minor surface scratches after a few weeks of regular play"
   - "Storage bag is thin; you'll want a sturdier container for long-term organization"
+
 ---
 
 I've watched a lot of magnetic building sets pass through my testing — and most of them fall into one of two traps. Either the magnets are too weak to hold anything beyond a flat square, or the pieces crack under the pressure of an enthusiastic toddler. The IGIVI Magnetic Blocks Build Mine Magnet World avoids both pitfalls, and that puts it ahead of most sets in its price range.

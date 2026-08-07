@@ -1,4 +1,5 @@
 ---
+
 title: "Hawaiian Shaved Ice S777 Snow Cone and Shaved Ice Machine wi"
 seo_title: "Hawaiian Shaved Ice S777 Snow Cone and Shaved Ice  Review"
 meta_description: "Our full hawaiian shaved ice s777 snow cone and shaved ice machine wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09LVTP8KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wkqxxeKzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've been burned before by "shaved ice" machines that just crush cubes into crunchy, unsatisfying gravel. I get it. The category is full of pretenders. The Hawaiian Shaved Ice S777 is not one of them. This is the real deal — actual fluffy, snow-like shaved ice that holds syrup without turning into a watery mess. But it's not without quirks, and you need to know them before you commit.

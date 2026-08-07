@@ -1,4 +1,5 @@
 ---
+
 title: "Outsunny Camping Tent Cot, Folding Tent Cot Combo with Mattr"
 seo_title: "Outsunny Camping Tent Cot, Folding Tent Cot Combo  Review"
 meta_description: "Our full outsunny camping tent cot, folding tent cot combo with mattr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GK53WJYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the Outsunny Camping Tent Cot is not a backpacking shelter. At over 30 pounds, it's a vehicle-based camping solution that trades portability for convenience. But if you're a car camper or festival-goer tired of waking up on a cold, uneven tent floor, this 2-in-1 cot-tent combo might be exactly what your gear closet is missing.

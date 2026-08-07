@@ -1,4 +1,5 @@
 ---
+
 title: "iPormis Floating Bed Frame with Charging Station and Led Lig"
 seo_title: "iPormis Floating Bed Frame with Charging Station a Review"
 meta_description: "Our full ipormis floating bed frame with charging station and led lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMNRTMYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QENjZ0OkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The floating bed look is one of those design trends that seems like it should cost a fortune. The iPormis bed frame with charging stations and LED lights undercuts that expectation — but the real question is whether it holds up beyond the aesthetics. With 215 ratings averaging 4.3 stars, there's enough owner feedback to give you the honest picture before you commit.

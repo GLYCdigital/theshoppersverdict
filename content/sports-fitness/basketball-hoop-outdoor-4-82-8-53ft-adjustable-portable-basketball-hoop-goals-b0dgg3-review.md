@@ -1,4 +1,5 @@
 ---
+
 title: "Basketball Hoop Outdoor 4.82-8.53ft Adjustable, Portable Bas"
 seo_title: "Basketball Hoop Outdoor Review: Adjustable 4.82-8.53ft Portable Goal"
 meta_description: "Honest review of the adjustable 4.82-8.53ft portable basketball hoop. Real pros, cons, and buyer feedback to help you decide before buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGG3FJ27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qoODr6U6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4.82-8.53ft height adjustment range with locking pin system — covers kids through adult play"
   - "Compact footprint works on small driveways or shared spaces where a permanent in-ground hoop isn't feasible"
   - "Tool-free assembly takes under 30 minutes according to multiple verified buyers"
-cons:
+cons: 
   - "Base must be filled with sand or water (about 35-40 lbs of sand) to prevent tipping during aggressive play"
   - "Backboard is smaller than regulation — measured at roughly 36 inches, so bank shots take practice"
+
 ---
 
 If you've priced in-ground hoops lately, you know the sticker shock. This portable option from the 4.82-8.53ft adjustable category undercuts that by hundreds — but the real question is whether it holds up. After digging through 220 ratings and verified buyer experiences, here's the honest breakdown.

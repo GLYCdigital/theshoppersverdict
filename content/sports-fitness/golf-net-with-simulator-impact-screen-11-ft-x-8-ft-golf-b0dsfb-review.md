@@ -1,4 +1,5 @@
 ---
+
 title: "Golf Net with Simulator Impact Screen, 11 FT x 8 FT Golf Pra"
 seo_title: "Golf Net with Simulator Impact Screen, 11 FT x 8 F Review"
 meta_description: "Our full golf net with simulator impact screen, 11 ft x 8 ft golf pra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSFB3LWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RNaBJB-+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what this 11x8 golf net actually is: it’s not a cheap backyard toy, and it’s not a full simulator enclosure. It sits somewhere in the middle — and for a lot of golfers, that’s exactly the sweet spot.

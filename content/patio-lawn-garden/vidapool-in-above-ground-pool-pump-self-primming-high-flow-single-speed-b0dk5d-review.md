@@ -1,4 +1,5 @@
 ---
+
 title: "VIDAPOOL In/Above Ground Pool Pump, Self Primming High Flow "
 seo_title: "VIDAPOOL In/Above Ground Pool Pump, Self Primming  Review"
 meta_description: "Our full vidapool in/above ground pool pump, self primming high flow  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DK5DD4RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i29n2mbJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A pool pump is the heartbeat of your backyard oasis. When it fails, you're not swimming — you're staring at a green soup wondering where it all went wrong. The VIDAPOOL In/Above Ground Pool Pump promises self-priming convenience and high flow at a budget-friendly price point. But with a 3.8-star average across 190 ratings, the real story is more nuanced than the marketing suggests.

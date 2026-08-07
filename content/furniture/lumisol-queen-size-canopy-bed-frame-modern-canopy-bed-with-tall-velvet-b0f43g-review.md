@@ -1,4 +1,5 @@
 ---
+
 title: "LUMISOL Queen Size Canopy Bed Frame, Modern Canopy Bed with "
 seo_title: "LUMISOL Queen Size Canopy Bed Frame, Modern Canopy Review"
 meta_description: "Our full lumisol queen size canopy bed frame, modern canopy bed with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F43G14GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815GCBezkuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LUMISOL Queen Size Canopy Bed Frame: A Lot of Drama for the Money

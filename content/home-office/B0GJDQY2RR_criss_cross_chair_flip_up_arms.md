@@ -1,4 +1,5 @@
 ---
+
 title: "Criss Cross Chair with Flip-Up Arms"
 seo_title: "Criss Cross Chair with Flip-Up Arms Review: Worth It?"
 meta_description: "Honest Criss Cross Chair with Flip-Up Arms review: comfort, build quality, and who should buy this $99 ergonomic floor chair. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 38
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GJDQY2RR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vqjvkT7aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-up arms pivot a full 90 degrees, letting you sit cross-legged or tuck the chair under a desk without moving it"
   - "High-density foam seat holds its shape through 8-hour workdays — multiple reviewers confirm no flattening after months of use"
   - "Non-slip rubber base grips hardwood and tile floors, so the chair doesn't slide mid-task"
-cons:
+cons: 
   - "At 14.5 inches seat height, it's a floor chair — not suitable for standard 30-inch desks without a low desk or adjustable setup"
   - "No lumbar support built into the backrest; tall users (6'+) report pressure on the lower back after extended sitting"
+
 ---
 
 **The Criss Cross Chair with Flip-Up Arms** is the answer to a question you probably didn't know you had: What if your office chair let you sit the way you actually sit at home — legs folded, posture relaxed, but still getting work done?

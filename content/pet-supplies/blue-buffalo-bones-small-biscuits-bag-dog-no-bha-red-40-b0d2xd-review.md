@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE BUFFALO Bones Small Biscuits Bag Dog No Bha, Red 40 inch"
 seo_title: "BLUE BUFFALO Bones Small Biscuits Review (2026): Worth It?"
 meta_description: "Honest BLUE BUFFALO Bones Small Biscuits review: crunch, ingredients, and value. See if these No BHA/RED 40 treats fit your dog's needs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D2XDL1YZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Up18hlXlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real chicken first ingredient; no BHA, Red 40, corn, wheat, or soy — clean label for a mainstream biscuit"
   - "Small bone shape is genuinely bite-sized for toy and small breeds; 8-10 treats per day won't blow a calorie budget"
   - "Crunchy texture holds up for dental scraping without shattering into sharp shards"
-cons:
+cons: 
   - "Some bags arrive with significant breakage — crumb dust at the bottom, pieces snapped in half during shipping"
   - "No resealable closure; the bag goes stale quickly if you don't transfer to an airtight container"
   - "At roughly $0.30–$0.40 per treat, it's pricier than grocery-store biscuits with similar ingredient lists"
+
 ---
 
 **The short version:** If you've got a small dog and you're tired of flipping over treat bags to find Red 40, BHA, or corn syrup in the ingredient list, these Blue Buffalo biscuits are a legitimately clean option. But they're not perfect — the packaging has a real flaw, and the price per treat stings a bit. Here's the full breakdown.

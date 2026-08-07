@@ -1,4 +1,5 @@
 ---
+
 title: "KingSpec SSD, M.2 NVMe Gen3x4 SSD 2280 - Up to 2400MB/s, Int"
 seo_title: "KingSpec SSD, M.2 NVMe Gen3x4 SSD 2280 - Up to 240 Review"
 meta_description: "Our full kingspec ssd, m.2 nvme gen3x4 ssd 2280 - up to 2400mb/s, int review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9TKSC99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AwEi1DPIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The KingSpec M.2 NVMe Gen3x4 SSD 2280 is a legitimately fast budget drive that punches above its price class — but it's not the right pick for every workload. If you're upgrading an older laptop or adding storage to a desktop that still runs PCIe 3.0, this is a smart buy. If you're chasing peak sustained performance or plan to hammer it with continuous writes, there are better options.

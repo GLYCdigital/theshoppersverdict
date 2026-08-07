@@ -1,4 +1,5 @@
 ---
+
 title: "Bantie New Upgraded V-Shaped Weather Stripping Door Seal Sou"
 seo_title: "Bantie V-Shaped Weather Stripping Review: Does It Seal?"
 meta_description: "Bantie V-shaped weather stripping review: real test results on soundproofing, draft blocking, and adhesion. See if this door seal is worth it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7P74CWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Ek8Bx1hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "V-shape design compresses and springs back, sealing uneven gaps up to 0.35 inches without losing shape"
   - "Self-adhesive 3M backing holds firm on wood, metal, and painted frames — no staples or nails needed"
   - "Cuts cleanly with scissors to fit any door size; comes in a 16.4-foot roll covering two standard doors"
-cons:
+cons: 
   - "Surface prep is critical — dust or old adhesive residue kills the bond and causes peeling within weeks"
   - "Not a true soundproofing solution; reduces rattle and hiss but won't stop loud TV or street noise"
   - "The V-shape flattens permanently on doors that get heavy daily use — you'll need to replace it yearly"
+
 ---
 
 Let's be honest about what weather stripping is supposed to do. It blocks drafts, keeps bugs out, and stops that annoying rattle. The Bantie V-Shaped Weather Stripping claims to do all that plus offer some soundproofing. At 4.5 stars from 225 Amazon shoppers, it's clearly doing something right. But is it the right seal for *your* door?

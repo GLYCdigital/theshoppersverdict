@@ -1,4 +1,5 @@
 ---
+
 title: "Grooy Artificial Boxwood Roll Panels,UV-Anti Faux Ivy Leaves"
 seo_title: "Grooy Artificial Boxwood Roll Panels,UV-Anti Faux  Review"
 meta_description: "Our full grooy artificial boxwood roll panels,uv-anti faux ivy leaves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D39V4RBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+HkDtRjML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced real boxwood hedges lately, you know the sticker shock. A 6-foot privacy hedge runs $200–$400 per linear foot installed. That's why artificial panels like the Grooy Boxwood Roll have become the budget workaround — but not all fake greenery is worth your money. The cheap stuff fades pink in one summer and looks like a party store decoration by fall. So where does this one land? After digging through 229 ratings averaging 4.6 stars, here's the real story.

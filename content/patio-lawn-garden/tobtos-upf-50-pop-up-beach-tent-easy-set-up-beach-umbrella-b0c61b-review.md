@@ -1,4 +1,5 @@
 ---
+
 title: "TOBTOS UPF 50+ Pop Up Beach Tent, Easy Set Up Beach Umbrella"
 seo_title: "TOBTOS UPF 50+ Pop Up Beach Tent, Easy Set Up Beac Review"
 meta_description: "Our full tobtos upf 50+ pop up beach tent, easy set up beach umbrella review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C61BX6BH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qO-85zzKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: most pop-up beach tents are garbage. The poles bend, the fabric tears at the seams, and "instant setup" takes fifteen minutes of wrestling fiberglass rods into sleeves. The TOBTOS UPF 50+ Pop Up Beach Tent isn't that. It's not perfect, but it's the rare budget canopy that actually does what it promises — and does it fast.

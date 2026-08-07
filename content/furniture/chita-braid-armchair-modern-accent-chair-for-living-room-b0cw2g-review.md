@@ -1,4 +1,5 @@
 ---
+
 title: "CHITA Braid Armchair, Modern Accent Chair for Living Room"
 seo_title: "CHITA Braid Armchair Review: Modern Accent Chair Worth It?"
 meta_description: "Honest CHITA Braid Armchair review: build quality, comfort, and style. See what 225+ Amazon buyers say before you buy this modern accent chair."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW2GPG1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715qcIm5bhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured braided upholstery hides spills and pet hair far better than smooth fabric"
   - "Solid rubberwood legs with floor protectors included — no scratching on hardwoods"
   - "Assembles in under 15 minutes with only four bolts, according to multiple buyers"
-cons:
+cons: 
   - "Firm seat cushion — not ideal if you want to sink in for hours of TV watching"
   - "Backrest sits lower than standard accent chairs, which tall users (6'+) may notice"
+
 ---
 
 The CHITA Braid Armchair walks a tightrope that most accent chairs fall off of: it tries to be both a style piece and a functional seat. After combing through 225 ratings and the real customer feedback behind that 4.5-star average, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "YouTheFan Officially-Licensed NCAA Set of 4 Cornhole Bags - "
 seo_title: "YouTheFan Officially-Licensed NCAA Set of 4 Cornho Review"
 meta_description: "Our full youthefan officially-licensed ncaa set of 4 cornhole bags -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D4BKJVDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M51NvTlmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever bought a “cornhole bag” from a big-box store and watched it flatten into a pancake by Labor Day, you know the drill. The YouTheFan Officially-Licensed NCAA Set of 4 Cornhole Bags is not that. These are the real deal — regulation size, all-weather construction, and actual team branding that doesn’t look like a sticker slapped on at the last minute. For tailgaters and backyard warriors who want their gear to match their fandom, this set punches above its modest price point.

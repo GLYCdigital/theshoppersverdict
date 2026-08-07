@@ -1,4 +1,5 @@
 ---
+
 title: "Carolina Herrera Good Girl"
 seo_title: "Carolina Herrera Good Girl Review: Worth the Hype? (2026)"
 meta_description: "Honest Carolina Herrera Good Girl review: scent profile, longevity, sillage, and who should buy it. See if this 4.7-star fragrance earns its cult status."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSRCQL82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51I+FxkO6fL._SL1000_.jpg"
-pros:
+pros: 
   - "Signature stiletto-shaped bottle that's instantly recognizable on any vanity"
   - "Complex tuberose-jasmine-cocoa blend that transitions beautifully from day to evening"
   - "Strong sillage — 2-3 sprays last 8+ hours on skin, longer on fabric"
-cons:
+cons: 
   - "Heavy projection can overwhelm in close quarters or hot weather"
   - "Sweet cocoa-almond dry-down isn't for those who prefer fresh or citrus scents"
   - "Bottle design, while iconic, is awkward to store and the cap is prone to loosening"
+
 ---
 
 Carolina Herrera Good Girl has become that fragrance you spot across a crowded room — literally. The stiletto-heel bottle is a conversation piece before you even spray it. But does the juice inside live up to the sculptural packaging? After digging through 235 Amazon ratings sitting at a 4.7 average, here's the honest breakdown.

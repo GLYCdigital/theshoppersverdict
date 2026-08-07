@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Thestral Family Building Toy - Pretend Pla"
 seo_title: "LEGO Harry Potter Thestral Family Building Toy - P Review"
 meta_description: "Our full lego harry potter thestral family building toy - pretend pla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DRW5SRH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RPI0rpesL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever stared at a LEGO Harry Potter set and thought, *“This is great, but where are the creepy skeleton horses?”* — this is your set. The **LEGO Harry Potter Thestral Family (76434)** is the first standalone Thestral build in the theme’s history, and it’s been quietly racking up a 4.9-star average across 245 ratings. That’s not a fluke. This is a niche set done right, but it’s not without a few compromises.

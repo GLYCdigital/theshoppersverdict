@@ -1,4 +1,5 @@
 ---
+
 title: "Cawypety Cat Backpack Carrier, Breathable Cat Carrier Large"
 seo_title: "Cawypety Cat Backpack Carrier Review: Is It Worth It? (2026)"
 meta_description: "Cawypety Cat Backpack Carrier review: 4.5-star rated, breathable space bubble design. Real pros, cons, and buying advice for anxious cats and hikers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B8YH69HW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814ptwF-kHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Large 17-inch interior with sturdy frame — fits 15-18 lb cats without squishing; cat can stand, turn, and lie flat"
   - "Triple-layer ventilation (bubble window, dual mesh sides, rear vent) keeps air moving even in warm weather"
   - "Suede-lined base pad removes for machine washing — smells and fur don't become permanent fixtures"
-cons:
+cons: 
   - "Bubble window scratches easily if cats paw at it — replacements aren't sold separately"
   - "Backpack straps lack chest clip; heavier cats (12+ lbs) can pull the load backward on long walks"
+
 ---
 
 **Is the Cawypety Cat Backpack Carrier actually comfortable for your cat, or just a cute Instagram prop?** I've tested a dozen pet backpacks, and this one from Cawypety is genuinely different. With 225 ratings averaging 4.5 stars, it's earned real traction. Here's what you need to know before dropping money on it.

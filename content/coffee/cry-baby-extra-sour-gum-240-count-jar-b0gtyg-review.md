@@ -1,4 +1,5 @@
 ---
+
 title: "Cry Baby Extra Sour Gum, 240-Count Jar"
 seo_title: "Cry Baby Extra Sour Gum Review: 240-Count Jar Worth It?"
 meta_description: "Cry Baby Extra Sour Gum 240-count jar review: intense sour kick, massive value, real buyer feedback. Is this candy worth your money? Find out here."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTYG643Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x3oFQd6nL._SL1500_.jpg"
-pros:
+pros: 
   - "Massive 240-count jar delivers roughly 11 standard candy boxes of gum for a fraction of the per-piece cost"
   - "Intense malic acid sour coating that actually lasts through the first 2-3 minutes of chewing, not just the first bite"
   - "Individually wrapped pieces stay fresh for months and are ideal for sharing, party favors, or resale"
-cons:
+cons: 
   - "Sugar content is high at 3g per piece — a 10-piece session is 30g of sugar, which is a full day's added sugar limit"
   - "The sour coating can irritate the roof of your mouth if you chew multiple pieces back-to-back"
   - "Jar packaging is functional but not resealable with a child-proof lid that some adults find annoying"
+
 ---
 
 # Cry Baby Extra Sour Gum: The 240-Count Jar That Packs a Punch

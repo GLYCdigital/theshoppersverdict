@@ -1,4 +1,5 @@
 ---
+
 title: "suddus String Lights with Remote, Led Fairy Lights Plug in w"
 seo_title: "suddus String Lights with Remote, Led Fairy Lights Review"
 meta_description: "Our full suddus string lights with remote, led fairy lights plug in w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSWJ3X42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lcsy6nBRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 66-Foot Light Show That Actually Respects Your Schedule

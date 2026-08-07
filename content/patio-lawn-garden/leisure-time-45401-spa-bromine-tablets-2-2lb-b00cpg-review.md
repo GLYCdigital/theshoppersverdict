@@ -1,4 +1,5 @@
 ---
+
 title: "Leisure Time 45401 Spa Bromine Tablets, 2.2lb"
 seo_title: "Leisure Time 45401 Spa Bromine Tablets, 2.2lb Review: Ver"
 meta_description: "Our full leisure time 45401 spa bromine tablets, 2.2lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00CPG6TV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tVXhYZGRL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever opened a chlorine shock container and felt your eyes water from across the patio, you already know why spa owners migrate to bromine. The Leisure Time 45401 Spa Bromine Tablets, 2.2lb, is one of the most popular ways to make that switch — a 4.6-star average across 229 ratings says plenty. But is it the right sanitizer for *your* hot tub? Let's break down what you're actually buying.

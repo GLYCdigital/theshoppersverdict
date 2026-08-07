@@ -1,17 +1,18 @@
 ---
+
 title: "Nespresso Capsules Vertuo, Barista Flavored Pack, Medium Roast, 30 Count"
 seo_title: "Nespresso Vertuo Barista Flavored Pack Review: Sweet Vanilla, Caramel, Hazelnut (4.7★)"
 meta_description: "Nespresso Vertuo Barista Flavored Pack review. 4.7 stars from 8,900+ ratings. Sweet Vanilla, Golden Caramel, Roasted Hazelnut. Coffee shop flavors at home."
 slug: "nespresso-vertuo-barista-flavored-pack-review"
 image_alt: "Nespresso Vertuo Barista Flavored Pack capsules: Sweet Vanilla, Golden Caramel, and Roasted Hazelnut"
-keywords:
+keywords: 
   - "Nespresso Vertuo Barista pack review"
   - "Nespresso flavored coffee pods"
   - "Nespresso Sweet Vanilla review"
   - "best Nespresso Vertuo flavors"
   - "Nespresso Barista Creations review"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "What flavors are in the Nespresso Vertuo Barista Flavored Pack?"
     answer: "The pack contains 30 capsules: 10 Sweet Vanilla, 10 Golden Caramel, and 10 Roasted Hazelnut — all medium roast, brewing 7.8 oz cups."
   - question: "Are the flavors artificial-tasting?"
@@ -26,18 +27,19 @@ review_count: 8946
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZJVFFNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71alICrU9dL._SL1500_.jpg"
-pros:
+pros: 
   - "Three popular flavors in one pack — Sweet Vanilla, Golden Caramel, Roasted Hazelnut"
   - "Natural-tasting flavors that complement rather than overpower the coffee"
   - "Consistent, velvety crema on every pour"
   - "Medium roast base provides balanced flavor without being too strong"
   - "Genuine Nespresso packaging ensures freshness"
-cons:
+cons: 
   - "Premium pricing — at ~$8.50 per capsule, this is an expensive daily habit"
   - "Only 30 pods per box — heavy users will blow through this quickly"
   - "Flavors are not for purists who want unadulterated coffee taste"
   - "Requires Vertuo machine — not compatible with Original Line brewers"
   - "Some may find the flavors too subtle and want more punch"
+
 ---
 
 There's a reason flavored coffee has a reputation problem. Most of it tastes like a scented candle melted into hot water. Artificial, cloying, and nothing like actual coffee.

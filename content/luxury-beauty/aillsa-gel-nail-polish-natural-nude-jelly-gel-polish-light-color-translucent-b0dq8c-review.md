@@ -1,4 +1,5 @@
 ---
+
 title: "AILLSA Gel Nail Polish Natural Nude Jelly Gel Polish Light C"
 seo_title: "AILLSA Jelly Gel Polish Review: Natural Nude Light C (2026)"
 meta_description: "Honest AILLSA Gel Nail Polish review: Natural Nude Jelly Light C coverage, wear time, curing tips, and who should buy. Real user feedback inside."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ8C4T6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pX3fbx+ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Sheer jelly formula builds from barely-there wash to saturated nude in 2-3 coats without looking thick or gloopy"
   - "Self-leveling consistency spreads evenly and smooths out brush strokes, making application forgiving for non-pros"
   - "Cures properly under standard 36W LED lamps in 60 seconds; no tacky inhibition layer issues reported"
-cons:
+cons: 
   - "Light C shade leans pinker than the product photos suggest — cool undertones may not suit warm skin"
   - "Thin viscosity means you need careful brush loading; too much product pools in cuticles and floods the nail bed"
+
 ---
 
 I've tested enough gel polishes to know that "jelly" formulas are a gamble. Most are either so sheer they look like tinted top coat after three coats, or so thick they self-level into a lumpy mess. The AILLSA Natural Nude Jelly in Light C sits squarely in the middle — and that's actually a good thing.

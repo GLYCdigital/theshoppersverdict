@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE All-In-One LED Landscape Lighting Kit, 8-Pack Low Vol"
 seo_title: "SUNVIE All-In-One LED Landscape Lighting Kit, 8-Pa Review"
 meta_description: "Our full sunvie all-in-one led landscape lighting kit, 8-pack low vol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKQD6V6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S+wHUWU9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If you're tired of solar lights that die by October and want a real low-voltage system without hiring an electrician, the SUNVIE 8-pack delivers surprising value at $98.99. It's not perfect — the transformer is dumb, and the lenses degrade in full sun — but for the price, this is the most complete plug-and-play kit I've tested.

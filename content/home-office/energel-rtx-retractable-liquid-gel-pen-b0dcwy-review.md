@@ -1,4 +1,5 @@
 ---
+
 title: "EnerGel RTX Retractable Liquid Gel Pen"
 seo_title: "EnerGel RTX Retractable Gel Pen Review: Worth It? (2026)"
 meta_description: "EnerGel RTX retractable gel pen review: fast-drying ink, smooth writing, comfortable grip. See pros, cons, and who should buy it in 2026."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DCWYN7Q1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zDpy+8TFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "0.7mm needle-point tip delivers crisp, consistent lines without skipping or blobbing"
   - "Fast-drying liquid gel ink eliminates smudging for lefties and fast writers"
   - "Comfortable latex-free grip reduces hand fatigue during long writing sessions"
-cons:
+cons: 
   - "Ink runs out faster than standard ballpoints — expect to replace refills regularly"
   - "Bright color options (like pink and orange) can bleed slightly on cheap copy paper"
   - "Retractable mechanism feels a bit wobbly on some units after heavy use"
+
 ---
 
 Let's be blunt: most gel pens are either too wet, too scratchy, or too slow to dry. The EnerGel RTX manages to sidestep most of those traps — and with a 4.8-star average across 240 ratings, it's clearly doing something right. But is it the right pen for *your* daily carry? Here's the breakdown.

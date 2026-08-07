@@ -1,4 +1,5 @@
 ---
+
 title: "JSOT Solar Spotlights RGB"
 seo_title: "JSOT Solar Spotlights RGB Review: Verdict | TSV"
 meta_description: "Our full jsot solar spotlights rgb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09WCK7ZCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ATf6N6+5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Solar landscape lighting is usually a compromise. You get convenience, but you sacrifice brightness, color accuracy, or durability. The **JSOT Solar Spotlights RGB** tries to change that calculus with a 1500-lumen output, IP65-rated housing, and a full RGB palette controlled by remote. At 4.3 stars across 215 ratings, it's clearly doing something right—but the real question is whether it earns a spot in your yard.

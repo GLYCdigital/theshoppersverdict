@@ -1,4 +1,5 @@
 ---
+
 title: "Globular Cluster CMP2 Comfortable Mod for PS VR 2 - Sweet Sp"
 seo_title: "Globular Cluster CMP2 PS VR 2 Mod Review: Worth It?"
 meta_description: "Globular Cluster CMP2 PS VR 2 comfort mod review: fixes sweet spot, adds balance, reduces pressure. 4.7★ from 235 ratings. Is it worth $40? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBJY4DR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/61GaFZ9Y3qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multiple pad sets included (fabric/leatherette) so you can fine-tune fit without buying extras"
   - "Counterweight genuinely balances the headset — reduces forehead pressure during 2+ hour sessions"
   - "Top strap keeps the halo positioned correctly, which directly stabilizes the sweet spot during fast movement"
-cons:
+cons: 
   - "Installation takes 15-20 minutes and requires patience with the included hook-and-loop strips"
   - "The counterweight adds noticeable bulk to the back of the headset when storing or traveling"
   - "Not a miracle cure — if the stock halo doesn't fit your head shape, this mod improves but doesn't fully eliminate discomfort"
+
 ---
 
 Let me be direct: Sony's PS VR 2 is a fantastic headset with one glaring flaw — the stock comfort system. After 45 minutes, that front-heavy design starts punishing your forehead. The Globular Cluster CMP2 is the most popular aftermarket fix, and it's earned its 4.7-star rating from 235 buyers. Here's the honest breakdown.

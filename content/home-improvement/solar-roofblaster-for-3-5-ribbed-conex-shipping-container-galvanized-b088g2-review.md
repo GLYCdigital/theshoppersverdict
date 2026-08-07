@@ -1,7 +1,8 @@
 ---
-title: "Solar RoofBlaster for 3.5\" Ribbed Conex Shipping Container ("
-seo_title: "Solar RoofBlaster for 3.5\" Ribbed Conex Shipping C Review"
-meta_description: "Our full solar roofblaster for 3.5\" ribbed conex shipping container ( review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Solar RoofBlaster for 3.5\ Ribbed Conex Shipping Container ("
+seo_title: "Solar RoofBlaster for 3.5\ Ribbed Conex Shipping C Review"
+meta_description: "Our full solar roofblaster for 3.5\ ribbed conex shipping container ( review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "solar-roofblaster-for-3-5-ribbed-conex-shipping-container-galvanized-b088g2-review"
 image_alt: "Solar RoofBlaster for 3.5 Ribbed Conex Shipping Container (Galvanized)"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B088G29CQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91pEqerNjVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you store anything in a shipping container long-term, you already know the enemy: condensation. Temperature swings turn the inside of a steel box into a sweat lodge, rusting tools, mildewing cardboard, and ruining whatever you've stored. The Solar RoofBlaster is a purpose-built answer to that problem — a solar-powered vent fan designed specifically for the corrugated (ribbed) roofs of Conex containers. Here's the honest breakdown after digging through specs, customer experiences, and real-world complaints.

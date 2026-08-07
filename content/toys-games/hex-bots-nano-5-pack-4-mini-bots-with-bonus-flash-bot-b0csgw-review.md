@@ -1,24 +1,26 @@
 ---
+
 title: "HEX BOTS Nano 5 Pack, 4 Mini Bots with Bonus Flash Bot, Sens"
 seo_title: "HEX BOTS Nano 5 Pack Review: 4.6-Star Mini Robot Toys"
 meta_description: "HEX BOTS Nano 5 Pack review: 4 mini battle bots plus bonus Flash Bot. Real buyer feedback, pros/cons, and who should buy. 4.6/5 rating."
 slug: "hex-bots-nano-5-pack-4-mini-bots-with-bonus-flash-bot-b0csgw-review"
 image_alt: "HEX BOTS Nano 5 Pack with four mini battle robots and bonus Flash Bot in action"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSGWYQMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TiS1LaJqL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Five bots for the price of a single premium toy — real value if you're buying for siblings or a classroom"  
   - "Tiny size (about 1.5 inches) means they work on desks, tabletops, or even a dinner plate — no floor space required"  
   - "Flash Bot bonus actually adds a different play pattern — it's not just a palette swap"  
-cons:  
+cons: 
   - "Batteries are included but not rechargeable — expect to replace them after 6–8 hours of heavy play"  
   - "The 'sensor' feature is basic bump-and-turn, not true obstacle avoidance — don't expect Roomba-level tech"  
   - "Small parts mean this is strictly for ages 8+, and even then, supervision helps with the tiny screws"
+
 ---
 
 **The Short Version: Five Tiny Bots That Punch Above Their Weight**

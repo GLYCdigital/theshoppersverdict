@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Surface Pro Signature Keyboard with Microsoft Surf"
 seo_title: "Microsoft Surface Pro Signature Keyboard with Micr Review"
 meta_description: "Our full microsoft surface pro signature keyboard with microsoft surf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09H42MXBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xgKnGzgiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried typing on a tablet keyboard that feels like tapping a hard plastic cutting board, you'll understand why the Microsoft Surface Pro Signature Keyboard commands a premium price. This isn't just a cover — it's a fully backlit, mechanical-feeling keyboard with a built-in charging dock for the Surface Slim Pen 2, all wrapped in a soft-touch Alcantara fabric. As shown in the product image, the keyboard magnetically attaches to the bottom of your Surface Pro, and the pen slots neatly into the groove above the keys.

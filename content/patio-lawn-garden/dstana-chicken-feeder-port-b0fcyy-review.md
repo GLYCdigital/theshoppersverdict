@@ -1,4 +1,5 @@
 ---
+
 title: "DSTANA Chicken Feeder Port"
 seo_title: "DSTANA Chicken Feeder Port Review: Keep Feed Clean & Dry"
 meta_description: "DSTANA Chicken Feeder Port review: Does this $21 galvanized feeder port keep pests out and feed dry? Real pros, cons, and verdict for backyard flocks."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCYYSMYX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wlzVemr2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-gauge galvanized steel holds up to weather and pecking without rusting"
   - "Universal fit works on 5-gallon buckets and most 3.5-gallon pails"
   - "Chickens can't scratch feed out, cutting waste by roughly half"
-cons:
+cons: 
   - "Sharp metal edges on the cutout require careful installation or gloves"
   - "Smaller-breed chickens may struggle to reach deep into the port"
+
 ---
 
 The DSTANA Chicken Feeder Port solves one of the most annoying problems backyard chicken keepers face: feed that gets pecked, scratched, pooped on, and soaked. At $20.99, this galvanized steel port turns a standard 5-gallon bucket into a gravity feeder that keeps your flock fed without the daily cleanup routine. But is it worth adding to your coop setup? Here's the honest breakdown.

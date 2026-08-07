@@ -1,7 +1,8 @@
 ---
-title: "Yuzonc Double Sleeping Pad - Self Inflating 4\" Extra-Thick f"
-seo_title: "Yuzonc Double Sleeping Pad - Self Inflating 4\" Ext Review"
-meta_description: "Our full yuzonc double sleeping pad - self inflating 4\" extra-thick f review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Yuzonc Double Sleeping Pad - Self Inflating 4\ Extra-Thick f"
+seo_title: "Yuzonc Double Sleeping Pad - Self Inflating 4\ Ext Review"
+meta_description: "Our full yuzonc double sleeping pad - self inflating 4\ extra-thick f review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yuzonc-double-sleeping-pad-self-inflating-4-extra-thick-for-2-person-b0ggb4-review"
 image_alt: "Yuzonc Double Sleeping Pad - Self Inflating 4 Extra-Thick for 2 Person with Pillow Built-in Foot Pump Inflatable Sleepin"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GGB4YQBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pyZZd+O7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is a 4-inch self-inflating double pad actually comfortable, or just another marketing number?** I've slept on enough camping mattresses to be skeptical of thickness claims. The Yuzonc Double Sleeping Pad makes a bold promise — 4 inches of air and foam between you and the cold, hard ground. After digging through 210 verified ratings and the construction details, here's what you actually need to know before spending your money.

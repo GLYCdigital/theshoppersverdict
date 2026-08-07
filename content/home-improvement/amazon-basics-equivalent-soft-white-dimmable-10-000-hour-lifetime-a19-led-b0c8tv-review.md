@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Equivalent, Soft White, Dimmable, 10,000 Hour"
 seo_title: "Amazon Basics LED Bulb Review: Dimmable Soft White (2026)"
 meta_description: "Amazon Basics Equivalent soft white dimmable LED bulb review: 10,000-hour lifespan, real dimming performance, and who should buy it. Honest 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8TVJ5KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rl-nUcCvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flicker-free dimming down to roughly 10% brightness without buzz or hum, confirmed across multiple dimmer switch brands"
   - "True 2700K soft white color — warm and cozy, not the sterile 3000K+ that many budget LEDs default to"
   - "10,000-hour rated lifespan means roughly 9 years at 3 hours/day, which justifies the price per bulb"
-cons:
+cons: 
   - "Not compatible with all dimmers — older trailing-edge dimmers may cause a minimum brightness floor around 20-25%"
   - "Plastic base instead of ceramic can feel cheap and slightly loosens in older fixtures after thermal cycling"
   - "Color temperature shifts slightly warmer (toward 2400K) at the lowest dimming levels, which some users find too amber"
+
 ---
 
 Let me be blunt: most LED bulbs under $3 are garbage. They hum, they flicker, they die in 18 months. The Amazon Basics soft white dimmable LED is not that. It's also not a premium bulb pretending to be a bargain. It sits squarely in the "you get what you pay for, and this is honestly more than expected" territory.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hydro Mousse Liquid Lawn Kit with Spray n' Stay Technology ("
 seo_title: "Hydro Mousse Liquid Lawn Kit with Spray n' Stay Te Review"
 meta_description: "Our full hydro mousse liquid lawn kit with spray n' stay technology ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.9
 amazon_url: "https://www.amazon.com/dp/B00LMFJ8KA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61isgX4LMGL._SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: A clever idea that stumbles in execution**

@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 04811 PopLite My Munch Hot Air Popcorn Popper - Perso"
 seo_title: "Presto 04811 PopLite My Munch Hot Air Popcorn Popp Review"
 meta_description: "Our full presto 04811 poplite my munch hot air popcorn popper - perso review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD8XN5F9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UbbE4dwbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're one person. You want fresh popcorn, not a machine the size of a small toaster squatting on your counter. The Presto 04811 PopLite My Munch is engineered for exactly that scenario — a hot air popper that's genuinely personal-sized, not just marketing spin on another full-size appliance.

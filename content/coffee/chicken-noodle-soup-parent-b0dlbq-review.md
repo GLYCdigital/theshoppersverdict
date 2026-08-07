@@ -1,6 +1,8 @@
 ---
 
-I’m going to be straight with you: the product name in the data is "Chicken Noodle Soup_PARENT," which is almost certainly a listing error or placeholder. But the specs say this is a coffee maker or coffee gear, and the 4.6-star average across 229 ratings tells me real shoppers are buying it. So let’s cut through the naming confusion and review the actual machine.
+
+I’m going to be straight with you: the product name in the data is Chicken Noodle Soup_PARENT, which is almost certainly a listing error or placeholder. But the specs say this is a coffee maker or coffee gear, and the 4.6-star average across 229 ratings tells me real shoppers are buying it. So let’s cut through the naming confusion and review the actual machine.
+
 
 ---
 

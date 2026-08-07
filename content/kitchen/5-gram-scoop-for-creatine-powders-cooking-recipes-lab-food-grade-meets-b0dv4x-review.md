@@ -1,4 +1,5 @@
 ---
+
 title: "5 Gram Scoop for Creatine, Powders, Cooking, Recipes, Lab, F"
 seo_title: "5 Gram Scoop Review: Precise Powder Measuring for $6.95 inch"
 meta_description: "Honest 5 gram scoop review for creatine, protein powders, cooking & lab use. Durable construction, accurate dosing, and real buyer feedback at $6.95."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DV4XSR8T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41vGXUj2aqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise 5-gram capacity with clear measurement markings — accurate enough for supplement dosing"
   - "Food-grade stainless steel construction that won't warp, stain, or retain odors"
   - "Long handle design reaches bottom of tall supplement containers without digging into powder"
-cons:
+cons: 
   - "Single-size capacity only — you'll need additional scoops for other measurement amounts"
   - "Slightly narrower bowl width than some competitors, making it less ideal for scooping thick batters"
+
 ---
 
 Let me be straight with you: a scoop is a scoop, right? Not quite. When you're measuring creatine every single day, or portioning out ingredients for a recipe that needs precision, the difference between a flimsy plastic scoop and a properly designed one becomes painfully obvious within a week.

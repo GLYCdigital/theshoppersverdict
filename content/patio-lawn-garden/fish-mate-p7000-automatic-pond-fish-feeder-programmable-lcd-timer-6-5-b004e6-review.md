@@ -1,4 +1,5 @@
 ---
+
 title: "Fish Mate P7000 Automatic Pond Fish Feeder – Programmable"
 seo_title: "Fish Mate P7000 Pond Feeder Review: Programmable & Reliable"
 meta_description: "Read our honest Fish Mate P7000 automatic pond feeder review. Covers programming, battery life, portion control, and real owner feedback. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B004E6DTRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yGMakBzmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 24-hour cycles with up to 4 feedings per cycle give you granular control over portions for different fish species"
   - "Flange and locking ring design keeps the unit secure even in high wind, unlike cheaper clamp-style feeders"
   - "Runs up to 6 months on 4 D-cell batteries — no cord, no solar panel failure worries"
-cons:
+cons: 
   - "The 9.5-inch drop tube is too short for deep pond edges; you'll need to build a platform or mount it on a post"
   - "Dial-and-button programming is dated and unintuitive; expect to consult the manual more than once"
+
 ---
 
 **The Fish Mate P7000 is the automatic feeder that pond owners recommend when they're tired of cheap units that jam, tip over, or dump the entire hopper into the water after one rainstorm.** It's not flashy, and it won't win design awards, but it does the one thing that matters: feed your fish reliably on schedule. With a 4.1-star average across 204 ratings, it's the workhorse of the category — and for good reason, with some caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "Feit Electric A19 LED Light Bulb, 60W Equivalent, E26 Medium"
 seo_title: "Feit Electric A19 LED Bulb Review: 60W Equivalent, E26 Base"
 meta_description: "Honest Feit Electric A19 LED bulb review: brightness, color quality, and dimming performance. See if this 60W equivalent E26 bulb is worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTLS6RVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AsPS+JPIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers 800 lumens at 2700K warm white — accurate 60W replacement with zero warm-up flicker"
   - "Non-dimmable version runs cool and quiet; no buzzing even on older household wiring"
   - "Wide 220° beam angle spreads light evenly, reducing hotspot shadows in lamps and ceiling fixtures"
-cons:
+cons: 
   - "Not compatible with dimmer switches — buy the dimmable variant if you need adjustable brightness"
   - "Plastic base feels lighter than premium ceramic alternatives, though it meets UL safety standards"
   - "Color temperature is fixed at 2700K; no tunable white option for those who prefer daylight tones"
+
 ---
 
 If you're still buying incandescent bulbs out of habit, the Feit Electric A19 LED is the nudge you need. This is a straightforward, no-nonsense 60W replacement that delivers exactly what it promises: 800 lumens of warm, familiar light for roughly a tenth of the energy. With a 4.5-star average across 225 ratings, it's clearly earning its keep in real homes—not just on spec sheets.

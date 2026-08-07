@@ -1,4 +1,5 @@
 ---
+
 title: "ClinQ Wood 26in Counter Height Bar Stools"
 seo_title: "ClinQ Wood 26in Bar Stools Review: Worth It? (2026)"
 meta_description: "Honest ClinQ Wood 26in counter height bar stools review: build quality, comfort, assembly, and who should buy. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQM14VJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uETcGW0OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with real joinery — no particle board or MDF shortcuts"
   - "26in seat height pairs with standard 36in countertops; footrest is positioned for actual comfort"
   - "Assembly takes under 15 minutes with included hex wrench and clear instructions"
-cons:
+cons: 
   - "Seat cushion is firm — not plush; some may want an added pad for long sits"
   - "Wood finish shows scuffs easily on lighter tones; darker options hide wear better"
+
 ---
 
 Let's cut through the noise. The ClinQ Wood 26in Counter Height Bar Stools sit in a crowded market of lookalike wooden stools, but they hold their own — and then some. With a 4.6-star average across 229 ratings, these aren't just another Amazon furniture gamble. Here's the real breakdown.

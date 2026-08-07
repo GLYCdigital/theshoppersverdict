@@ -1,4 +1,5 @@
 ---
+
 title: "Joly Powder Puff for Makeup Face Powder Set of 1, 3, 5, 10"
 seo_title: "Joly Powder Puff for Makeup Face Powder Set of 1,  Review"
 meta_description: "Our full joly powder puff for makeup face powder set of 1, 3, 5, 10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B018Z2WMK0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cjXl3TLtL._SL1002_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've spent $60 on a setting powder. Why are you still patting it in with a sponge that eats half the product? That's the frustration the Joly Powder Puff set exists to solve — and for the most part, it delivers.

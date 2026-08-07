@@ -1,4 +1,5 @@
 ---
+
 title: "Windone E20/K2 Electric Bike for Adults, Max 20/28 MPH & 40/"
 seo_title: "Windone E20/K2 Electric Bike for Adults, Max 20/28 Review"
 meta_description: "Our full windone e20/k2 electric bike for adults, max 20/28 mph & 40/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GDWZ41RD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i1Fn7-CpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Windone E20/K2 Electric Bike Review: Does the 40-Mile Claim Hold Up?

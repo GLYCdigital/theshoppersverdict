@@ -1,4 +1,5 @@
 ---
+
 title: "Carr's Table Water Crackers"
 seo_title: "Carr's Table Water Crackers Review: Crisp, Neutral Base for Toppings"
 meta_description: "Carr's Table Water Crackers review: ultra-thin, crispy, neutral-tasting crackers for cheese and spreads. See pros, cons, and who should buy them."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GS6ML3QM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AehzIw+8L._SL1500_.jpg"
-pros:
+pros: 
   - "Paper-thin, shatteringly crisp texture that holds up under heavy toppings without going soggy"
   - "Genuinely neutral flavor — no salt crystals or yeastiness overpowering your cheese board"
   - "Baked, not fried — 60 calories per 4 crackers with zero saturated fat"
-cons:
+cons: 
   - "Extremely delicate — expect breakage in the box; you'll lose 10-15% to crumbs"
   - "Neutrality borders on bland if you eat them solo; these are a vehicle, not a snack"
   - "Price per ounce runs high compared to grocery-store saltines or woven wheat crackers"
+
 ---
 
 # Carr's Table Water Crackers: The Unsung Hero of a Proper Cheese Board

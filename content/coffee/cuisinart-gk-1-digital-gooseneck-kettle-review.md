@@ -1,17 +1,18 @@
 ---
+
 title: "Cuisinart GK-1 Digital Gooseneck Kettle Review"
 seo_title: "Cuisinart GK-1 Digital Gooseneck Kettle Review: Verdict (4.4/5) | The Shopper's Verdict"
 meta_description: "Cuisinart GK-1 Digital Gooseneck Kettle review: 21,500+ Amazon reviews analyzed. Precision pour control, 1-liter capacity, 1200W quick heating. Real pros, cons, and our verdict on this $155 gooseneck kettle."
 slug: "cuisinart-gk-1-digital-gooseneck-kettle-review"
 image_alt: "Cuisinart GK-1 Digital Gooseneck Kettle - Stainless Steel Electric Kettle with Precision Gooseneck Spout and Matte Black Finish"
-keywords:
+keywords: 
   - "Cuisinart GK-1 review"
   - "best gooseneck kettle"
   - "electric gooseneck kettle"
   - "Cuisinart digital kettle review"
   - "precision pour over kettle"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "Is the Cuisinart GK-1 good for pour-over coffee?"
     answer: "Yes. The precision gooseneck spout is specifically designed for controlled pouring, making it excellent for pour-over coffee methods like Chemex or V60. The 1200W heating element also brings water to temperature quickly, and the 30-minute keep-warm feature means you do not need to re-boil between pours."
   - question: "Can you set custom temperatures on the GK-1?"
@@ -26,7 +27,7 @@ review_count: 21509
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08KCT8T6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lMuPnlIoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision gooseneck spout delivers exceptional pour control for pour-over coffee and tea"
   - "1200W heating element brings 1 liter to boil in minutes"
   - "Multiple preset temperature settings for different tea and coffee types"
@@ -34,11 +35,12 @@ pros:
   - "Remarkable longevity — many owners report 6-17 years of daily use"
   - "No metallic taste or smell transferred to water"
   - "Quieter operation than previous Cuisinart models"
-cons:
+cons: 
   - "Temperature button labels can wear off over years of use"
   - "Water level indicator labeling may fade over time"
   - "Lid condensation from steam is normal but requires care when opening"
   - "Some users report the 'ding' notification becomes intermittent after extended use"
+
 ---
 
 ## Cuisinart GK-1 Digital Gooseneck Kettle: Precision Brewing, Built to Last

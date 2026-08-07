@@ -1,4 +1,5 @@
 ---
+
 title: "Stash Tea Variety Pack Samplers â€“ Assorted Flavors and Siz"
 seo_title: "Stash Tea Variety Pack Samplers â€“ Assorted Flavo Review"
 meta_description: "Our full stash tea variety pack samplers â€“ assorted flavors and siz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTRSLWZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F4mVwhaOL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the tea aisle confusion. You're staring at dozens of Stash varieties, unsure whether to commit to a full box of Lemon Ginger or Wild Raspberry. This variety pack solves that problem by handing you five different boxes at once. But is it the right sampler for your kitchen? Here's what 229 buyers at a 4.6-star average figured out before you.

@@ -1,4 +1,5 @@
 ---
+
 title: "BODYARMOR LYTE Sports Drink Low-Calorie Sports Beverage, Ora"
 seo_title: "BODYARMOR LYTE Orange Clementine Review: Low-Calorie Hydration"
 meta_description: "Is BODYARMOR LYTE Orange Clementine worth it? Our honest review covers taste, electrolytes, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077TQRF9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hyGuQHcTL._SL1500_.jpg"
-pros:
+pros: 
   - "20 calories per bottle with 500mg of electrolytes — serious hydration without the sugar crash"
   - "Orange Clementine flavor tastes closer to fresh juice than a typical sports drink, not syrupy or artificial"
   - "No artificial sweeteners, colors, or dyes — uses Stevia and natural flavors, which is a clean label for a sports drink"
-cons:
+cons: 
   - "Stevia aftertaste is noticeable on the finish — some drinkers will find it slightly bitter"
   - "Not a heavy-duty electrolyte replacement for endurance athletes — 500mg is moderate, not Gatorade Endurance-level"
   - "Bottles are 16 oz, which is smaller than the standard 20 oz sports drink — you'll go through a case faster than expected"
+
 ---
 
 **Bottom line:** BODYARMOR LYTE Orange Clementine is the smart pick for anyone who wants real hydration without drinking liquid candy. It's not perfect — the Stevia finish is a real thing — but at 20 calories with 500mg of electrolytes, it beats most of what's on the shelf.

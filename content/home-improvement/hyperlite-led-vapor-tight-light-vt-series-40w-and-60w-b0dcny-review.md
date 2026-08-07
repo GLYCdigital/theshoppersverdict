@@ -1,4 +1,5 @@
 ---
+
 title: "HYPERLITE LED Vapor Tight Light VT Series 40W and 60W"
 seo_title: "HYPERLITE LED Vapor Tight Light VT Series 40W and  Review"
 meta_description: "Our full hyperlite led vapor tight light vt series 40w and 60w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCNYSKG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51k5uzN1TwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever replaced a fluorescent shop light in a damp garage or under a carport, you know the drill: brittle plastic housings, flickering tubes, and ballasts that die at the worst possible moment. The HYPERLITE LED Vapor Tight Light VT Series aims to end that cycle with a sealed, LED-based replacement that skips the tube entirely. After digging through 220 Amazon ratings (4.4 stars) and analyzing the specs, here's the real story.

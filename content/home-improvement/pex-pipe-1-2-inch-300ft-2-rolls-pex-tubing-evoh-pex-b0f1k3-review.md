@@ -1,4 +1,5 @@
 ---
+
 title: "PEX Pipe 1/2 Inch 300ft 2 Rolls PEX Tubing EVOH pex-B pipe N"
 seo_title: "PEX Pipe 1/2 Inch 300ft 2 Rolls PEX Tubing EVOH pe Review"
 meta_description: "Our full pex pipe 1/2 inch 300ft 2 rolls pex tubing evoh pex-b pipe n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F1K3MDKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ySISaYS3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the Amazon listing noise. This is a 1/2-inch PEX-B pipe with an EVOH oxygen barrier, sold as two 150-foot rolls (red and blue) for a combined 300 feet. At 4.8 stars from 240 ratings, it's clearly doing something right. Here's what that actually means for your project.

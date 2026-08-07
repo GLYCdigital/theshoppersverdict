@@ -1,4 +1,5 @@
 ---
+
 title: "DKNY Be Delicious Eau de Parfum Perfume Spray For Women"
 seo_title: "DKNY Be Delicious Eau de Parfum Review (2026): Worth It?"
 meta_description: "DKNY Be Delicious Eau de Parfum review: fresh apple scent, longevity, and value. See if this 4.7-star women's perfume is worth the buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CPCL1JN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711C0RToHHL._SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, realistic green apple top note that stays fresh without turning cloying or candy-sweet"
   - "Eau de Parfum concentration delivers 6-8 hours of wear — noticeably better than the original EDT version"
   - "The iconic apple-shaped bottle doubles as shelf decor; heavy glass base feels premium, not cheap"
-cons:
+cons: 
   - "Sillage is moderate-to-soft; don't expect projection that fills a room — it sits closer to the skin after the first hour"
   - "The citrus and apple opening fades within 30 minutes; you're left with a musky floral that some may find generic"
   - "No sprayer lock mechanism — the cap pulls off and could accidentally depress in a crowded purse"
+
 ---
 
 **The DKNY Be Delicious Eau de Parfum is the grown-up version of a classic.** If you remember the original green apple EDT from the early 2000s, this EDP iteration answers the biggest complaint fans had: it actually lasts. But "grown-up" also means the sharp, juicy apple bite mellows faster than you might expect. Here's the full breakdown.

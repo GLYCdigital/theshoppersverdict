@@ -1,4 +1,5 @@
 ---
+
 title: "Sea to Summit Camp Self-Inflating Foam Sleeping Mat for Camp"
 seo_title: "Sea to Summit Camp Self-Inflating Foam Sleeping Ma Review"
 meta_description: "Our full sea to summit camp self-inflating foam sleeping mat for camp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B4F47LP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ehi6OfSfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most self-inflating mats cheat. They call themselves "self-inflating" but still need a few lungfuls of air to reach usable firmness. The Sea to Summit Camp Self-Inflating Mat is different — crack the valve and it pulls air in aggressively, reaching roughly 80% firmness on its own in about three minutes. That's the first thing you'll notice. The second is how thick it is: 3.8 inches of air-sprung foam. That's not a typo. For a self-inflating mat, that's a monster number.

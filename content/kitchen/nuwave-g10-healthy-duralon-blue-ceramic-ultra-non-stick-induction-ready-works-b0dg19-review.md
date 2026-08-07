@@ -1,4 +1,5 @@
 ---
+
 title: "Nuwave G10 Healthy Duralon Blue Ceramic Ultra Non-Stick, Ind"
 seo_title: "Nuwave G10 Healthy Duralon Blue Ceramic Ultra Non- Review"
 meta_description: "Our full nuwave g10 healthy duralon blue ceramic ultra non-stick, ind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DG19KQB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vuUu-R+dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Nuwave G10 Healthy Duralon Blue Ceramic skillet is a 2026 release that's been quietly building a solid following — 220 ratings and a 4.4 average as of this writing. I'll cut through the pitch and tell you whether it earns a spot on your stovetop.

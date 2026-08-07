@@ -1,4 +1,5 @@
 ---
+
 title: "Fielda 2 Pack 8 inch Plant Pots, Plastic Self Watering Plant"
 seo_title: "Fielda 2 Pack 8 inch Self Watering Plant Pots Review (2026)"
 meta_description: "Honest Fielda 2 Pack 8 inch self watering plant pots review: build quality, wicking performance, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQ4D6Q8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812zP1peHqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True capillary wicking system with separate water reservoir — watering every 7-10 days instead of daily"
   - "Thick, UV-stabilized polypropylene that won't crack or fade after a full outdoor season"
   - "Detachable inner basket with drainage slots makes repotting a 30-second job, no prying roots loose"
-cons:
+cons: 
   - "No drainage hole in the outer shell — overwatering enthusiasts can drown plants if they ignore the water level indicator"
   - "8-inch size runs small for true '8 inch' pots — inner planting depth is closer to 6.5 inches"
+
 ---
 
 Overwatering kills more houseplants than neglect ever will. That's the problem Fielda's 8-inch self-watering pots actually solve — and they do it for under the price of a single ceramic planter at a big-box store. These aren't decorative showpieces; they're functional tools that let you leave town for a week without returning to crispy foliage.

@@ -1,4 +1,5 @@
 ---
+
 title: "Waterproof Membrane for Shower"
 seo_title: "Waterproof Membrane for Shower Review: Verdict | TSV"
 meta_description: "Our full waterproof membrane for shower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D67BTJ74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t-BLrEcHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tiling a shower and you're not waterproofing the pan, you're building a mold farm. The question is whether this sheet membrane earns its place in your project — or whether you should stick with the liquid roll-on stuff. I've installed both, and here's the honest breakdown.

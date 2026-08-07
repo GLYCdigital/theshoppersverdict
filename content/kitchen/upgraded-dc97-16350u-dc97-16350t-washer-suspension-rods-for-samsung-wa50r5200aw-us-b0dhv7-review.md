@@ -1,4 +1,5 @@
 ---
+
 title: "Upgraded DC97-16350U DC97-16350T Washer Suspension Rods for "
 seo_title: "Upgraded DC97-16350U DC97-16350T Washer Suspension Review"
 meta_description: "Our full upgraded dc97-16350u dc97-16350t washer suspension rods for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHV7SCVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d63Xm70HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Samsung top-load washer has started vibrating like a paint shaker during the spin cycle, you already know the drill: it's almost always the suspension rods. The factory DC97-16350U and DC97-16350T rods wear out, the tub loses its dampening, and suddenly every load sounds like a construction project. This upgraded set claims to fix that — and with 235 ratings sitting at 4.7 stars, it's worth a serious look.

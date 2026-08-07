@@ -1,4 +1,5 @@
 ---
+
 title: "Clearly Canadian Sparkling Water, 24-Pack (Regular & Zero) â"
 seo_title: "Clearly Canadian Sparkling Water Review: 24-Pack Tested"
 meta_description: "Clearly Canadian Sparkling Water 24-pack review: flavor quality, carbonation, and value. See if this retro favorite beats LaCroix."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F76JJDBS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810VQ4VbA2L._SL1500_.jpg"
-pros:
+pros: 
   - "Real cane sugar in the regular line — not artificial sweeteners, giving a clean, crisp finish"
   - "Glass bottles preserve carbonation and flavor better than aluminum or plastic cans"
   - "Distinctive fruit-forward flavors like Wild Cherry and Black Cherry that actually taste like the fruit"
-cons:
+cons: 
   - "Price per bottle runs higher than mainstream sparkling waters — you're paying for the brand and glass"
   - "Sweetened versions pack 90 calories per bottle, so zero-sugar drinkers need to check labels carefully"
   - "Availability varies wildly by region — some buyers report long shipping delays or damaged glass in transit"
+
 ---
 
 **The 90s called — and this time it brought legit flavor.**

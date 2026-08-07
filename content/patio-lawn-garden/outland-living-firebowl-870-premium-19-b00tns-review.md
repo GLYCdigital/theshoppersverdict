@@ -1,4 +1,5 @@
 ---
+
 title: "Outland Living Firebowl 870 Premium 19â€"
 seo_title: "Outland Living Firebowl 870 Premium 19â€ Review: Verdict "
 meta_description: "Our full outland living firebowl 870 premium 19â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00TNS8HMI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZA4hQ-PpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with wet firewood, smoky clothes, and the 20 minutes it takes to get a campfire going, the Outland Living Firebowl 870 is the antidote. This 19-inch propane fire pit delivers instant flame with zero smoke and zero ash — and with 240 Amazon ratings averaging 4.8 stars, it's clearly doing something right. But is it the right fire pit for your patio? Let's break it down.

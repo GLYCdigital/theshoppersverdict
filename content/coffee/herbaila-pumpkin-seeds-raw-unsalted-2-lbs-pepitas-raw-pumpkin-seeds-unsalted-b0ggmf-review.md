@@ -1,4 +1,5 @@
 ---
+
 title: "Herbaila Pumpkin Seeds Raw Unsalted, 2 lbs. Pepitas Raw Pump"
 seo_title: "Herbaila Pumpkin Seeds Raw Unsalted, 2 lbs. Pepita Review"
 meta_description: "Our full herbaila pumpkin seeds raw unsalted, 2 lbs. pepitas raw pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGMFCSMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71speKuFtrL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "raw" pumpkin seeds you find in grocery stores are roasted, salted, or sitting on a shelf for eleven months. Herbaila's 2-pound bag of raw, unsalted pepitas is the exception — and at 4.7 stars from 235 ratings, shoppers seem to agree. But is this bulk bag actually worth your money, or is it just another Amazon gamble? I dug into the specs, the feedback, and the real-world use cases to give you the straight answer.

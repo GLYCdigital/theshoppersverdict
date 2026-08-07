@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan x Bobby Flay 4.5QT Nonstick Saute Pan with Glass Li"
 seo_title: "GreenPan x Bobby Flay 4.5QT Nonstick Saute Pan wit Review"
 meta_description: "Our full greenpan x bobby flay 4.5qt nonstick saute pan with glass li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FLF4P47N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VbWuT+U3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GreenPan x Bobby Flay 4.5QT Nonstick Saute Pan: The Celebrity Chef Collab That Actually Delivers

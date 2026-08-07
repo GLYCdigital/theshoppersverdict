@@ -1,4 +1,5 @@
 ---
+
 title: "Casper Sleep Foundation for Mattress"
 seo_title: "Casper Sleep Foundation Review: Solid Base or Skip? (2026)"
 meta_description: "Casper Sleep Foundation review: Is this sturdy, breathable mattress base worth it? Real pros, cons, and who should buy it in 2026."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2MTYTLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iQ-4WrstL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid 9-leg steel frame with center support — no sagging even on queen and king sizes"
   - "Breathable fabric panels prevent heat buildup where the mattress meets the base"
   - "Tool-free assembly in under 10 minutes — no box spring or bunkie board needed"
-cons:
+cons: 
   - "Sits low (12 inches) — may feel too close to the floor for older buyers or those with mobility issues"
   - "No storage space underneath — if you're used to bed risers or under-bed bins, this won't work"
+
 ---
 
 The Casper Sleep Foundation isn't the sexiest purchase you'll make for your bedroom. But it's the kind of product that quietly determines whether your $1,200 mattress feels like a cloud or a hammock after six months. Here's what 229 Amazon reviewers (4.6 stars) are saying — and what the marketing doesn't tell you.

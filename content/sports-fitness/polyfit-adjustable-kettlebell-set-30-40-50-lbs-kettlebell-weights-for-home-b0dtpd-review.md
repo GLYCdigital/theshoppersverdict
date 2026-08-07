@@ -1,4 +1,5 @@
 ---
+
 title: "Polyfit Adjustable Kettlebell Set | 30/40/50 lbs | Kettlebel"
 seo_title: "Polyfit Adjustable Kettlebell Set | 30/40/50 lbs | Review"
 meta_description: "Our full polyfit adjustable kettlebell set | 30/40/50 lbs | kettlebel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTPDXMMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pXuT5AUiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of tripping over a row of kettlebells in your garage — or dropping $150+ on three separate weights — the Polyfit Adjustable Kettlebell Set deserves a hard look. This single unit replaces 30, 40, and 50 lb kettlebells with a twist-and-lock plate system. At 4.8 stars from 240 Amazon ratings, it's clearly working for most buyers. But adjustable gear always comes with tradeoffs. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Hairball Management, Indoor Cat Food, Turkey"
 seo_title: "Purina Pro Plan Hairball Management, Indoor Cat Fo Review"
 meta_description: "Our full purina pro plan hairball management, indoor cat food, turkey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001VIY9E8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71emVB+cqrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stepped on a wet hairball at 3 AM, you know the drill. You love your cat, but you don't love cleaning up their digestive rejects. Purina Pro Plan Hairball Management Indoor Cat Food in Turkey & Rice Formula is a targeted solution to that specific problem — and with a 4.8-star average across 240 ratings, it's clearly working for a lot of cat owners.

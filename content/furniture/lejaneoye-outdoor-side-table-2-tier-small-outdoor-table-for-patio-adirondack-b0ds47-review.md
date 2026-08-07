@@ -1,4 +1,5 @@
 ---
+
 title: "LEJANEOYE Outdoor Side Table, 2-Tier Small Outdoor Table for"
 seo_title: "LEJANEOYE Outdoor Side Table, 2-Tier Small Outdoor Review"
 meta_description: "Our full lejaneoye outdoor side table, 2-tier small outdoor table for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DS47XJJJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714aNc4hxLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEJANEOYE Outdoor Side Table solves a problem every patio owner knows: you've got a drink in one hand, a book in the other, and nowhere to put either without leaning forward awkwardly. This 2-tier table is designed to sit flush against your Adirondack chair or outdoor sofa, putting everything within arm's reach without taking up half your deck.

@@ -1,4 +1,5 @@
 ---
+
 title: "TIYA Containers - Rectangular Plastic To-Go Containers - Reu"
 seo_title: "TIYA Containers - Rectangular Plastic To-Go Contai Review"
 meta_description: "Our full tiya containers - rectangular plastic to-go containers - reu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YVLBL75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jsx7+Fh+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most to-go container sets are either flimsy enough to crack in a week or so sturdy you'd hesitate to microwave them. The TIYA rectangular set at $39.99 sits in a rare sweet spot — genuinely reusable, properly sealed, and priced like a bulk purchase rather than a premium system. After 220 Amazon ratings averaging 4.4 stars, the consensus is clear: this is the set you buy when you're done throwing away soggy takeout boxes.

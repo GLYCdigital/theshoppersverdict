@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon TCG Scarlet & Violet 3.5 Pokemon 151 Booster Bundle"
 seo_title: "Pokemon TCG Scarlet & Violet 3.5 Pokemon 151 Boost Review"
 meta_description: "Our full pokemon tcg scarlet & violet 3.5 pokemon 151 booster bundle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8YBXDYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xgn1vx-sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Pokemon TCG Scarlet & Violet 3.5 Pokemon 151 Booster Bundle** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "Industrial Air Contractor 4 Gal. 155 PSI Kohler Gas Powered "
 seo_title: "Industrial Air Contractor 4 Gal. 155 PSI Kohler Ga Review"
 meta_description: "Our full industrial air contractor 4 gal. 155 psi kohler gas powered  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 3.0
 amazon_url: "https://www.amazon.com/dp/B0CCXM8SVZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U+4M8K+cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Industrial Air Contractor 4 Gal 155 PSI Kohler gas-powered compressor is a niche tool done right. It's not for everyone — but if you're a roofer, framer, or fence installer working where extension cords don't reach, this little machine punches above its weight. The Kohler engine is the headline feature, and for good reason.

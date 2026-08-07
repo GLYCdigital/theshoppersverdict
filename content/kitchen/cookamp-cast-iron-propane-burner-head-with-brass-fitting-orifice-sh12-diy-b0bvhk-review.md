@@ -1,4 +1,5 @@
 ---
+
 title: "COOKAMP Cast Iron Propane Burner Head with Brass Fitting Ori"
 seo_title: "COOKAMP Cast Iron Propane Burner Review: DIY Power"
 meta_description: "COOKAMP cast iron propane burner head with brass orifice: honest review of output, build quality, and DIY fit. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVHK9MMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+KzgV9iOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cast iron construction with heavy-duty walls that hold heat and resist warping at high output"
   - "Brass orifice and fitting are precision-machined for consistent propane flow and easy jet replacement"
   - "SH12 thread pattern fits common DIY burner stands and turkey fryer frames without custom adapters"
-cons:
+cons: 
   - "No igniter included — you must supply a spark source or lighter separately"
   - "Cast iron surface will rust if left wet or stored without a light oil coating"
   - "High-output operation consumes propane quickly; expect to refill a 20-lb tank in about 8–10 hours"
+
 ---
 
 # COOKAMP Cast Iron Propane Burner Head: A Serious Upgrade for DIY Burners

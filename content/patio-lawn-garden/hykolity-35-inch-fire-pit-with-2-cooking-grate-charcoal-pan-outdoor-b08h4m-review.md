@@ -1,4 +1,5 @@
 ---
+
 title: "Hykolity 35 Inch Fire Pit with 2 Cooking Grate & Charcoal Pa"
 seo_title: "Hykolity 35 Inch Fire Pit with 2 Cooking Grate & C Review"
 meta_description: "Our full hykolity 35 inch fire pit with 2 cooking grate & charcoal pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08H4MNQ3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UGNOmhDrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most fire pits under $150 are flimsy, rust-prone, and barely hold a flame. The Hykolity 35-inch model, with its 4.5-star rating across 225 reviews, claims to be different. After digging through the specs and what owners actually say, here's the real story.

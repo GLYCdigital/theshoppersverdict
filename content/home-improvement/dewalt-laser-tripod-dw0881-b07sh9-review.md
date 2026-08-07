@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Laser Tripod DW0881 inch"
 seo_title: "DEWALT Laser Tripod DW0881 Review: Rock-Solid Stability"
 meta_description: "DEWALT DW0881 laser tripod review: 5/8-11 mount, adjustable legs, solid build. See real pros, cons, and if it's worth it for pros or DIYers."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07SH9PKWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51c04MkXhcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Universal 5/8-11 thread mounts most rotary lasers, line lasers, and even some camera gear"
   - "Heavy-duty aluminum legs with rubber feet stay planted on slick concrete and uneven dirt"
   - "Extends from 3 ft to 6.3 ft — tall enough for most ceiling grid and foundation work"
-cons:
+cons: 
   - "No bubble level on the tripod head — you'll still need a level base or laser with self-leveling"
   - "Plastic twist locks feel less durable than the aluminum body; overtightening risks cracking"
+
 ---
 
 If you've ever watched a cheap $30 tripod slowly sag under a $600 rotary laser, you know why the DEWALT DW0881 exists. This is the tripod that actually holds its position — the one that doesn't wobble when you bump it, doesn't twist when you tighten the mount, and doesn't collapse mid-layout. At 4.4 stars from 220+ ratings, it's clearly doing something right. But is it the right tripod for *your* job? Let's break it down.

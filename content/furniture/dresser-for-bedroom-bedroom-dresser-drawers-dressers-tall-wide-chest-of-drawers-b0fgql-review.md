@@ -1,4 +1,5 @@
 ---
+
 title: "Dresser for Bedroom, Bedroom Dresser Drawers Dressers, Tall"
 seo_title: "Dresser for Bedroom Review: Tall Chest With 6 Drawers"
 meta_description: "Read our honest Dresser for Bedroom review. We test the tall 6-drawer chest's build, storage capacity, and assembly. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FGQL9ZC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XFSXLBTgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six full-extension drawers glide smoothly on metal slides, even when loaded with denim and sweaters"
   - "Sturdy particleboard frame with reinforced back panel holds up better than most sub-$200 dressers"
   - "Anti-tip wall anchor included and easy to install — a genuinely useful safety feature for tall furniture"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes; drawer fronts arrive detached and require precise alignment"
   - "Top surface scratches easily — you'll want a runner or mat before placing lamps or decor"
+
 ---
 
 **A Tall Dresser That Actually Earns Its Floor Space**

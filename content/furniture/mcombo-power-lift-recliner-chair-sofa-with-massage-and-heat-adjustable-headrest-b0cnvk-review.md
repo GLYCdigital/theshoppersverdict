@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Power Lift Recliner Chair Sofa with Massage and Heat,"
 seo_title: "MCombo Power Lift Recliner Chair Sofa with Massage Review"
 meta_description: "Our full mcombo power lift recliner chair sofa with massage and heat, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNVKV559/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fcQUGaBRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a lift chair, you already know the stakes. This isn't a fun purchase — it's about keeping a parent safe, or giving yourself independence after surgery. The MCombo Power Lift Recliner with Massage and Heat (model B0CNVKV559) is trying to be the budget-friendly answer to chairs that cost three times as much. The question is whether it cuts corners where it matters.

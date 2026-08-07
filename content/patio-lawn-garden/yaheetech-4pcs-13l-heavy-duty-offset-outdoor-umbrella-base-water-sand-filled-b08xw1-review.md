@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 4Pcs 13L Heavy Duty Offset Outdoor Umbrella Base W"
 seo_title: "Yaheetech 4Pcs 13L Heavy Duty Offset Outdoor Umbre Review"
 meta_description: "Our full yaheetech 4pcs 13l heavy duty offset outdoor umbrella base w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08XW1NBNG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1H+AYTqkTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an offset umbrella, you already know the struggle: the cantilever arm creates leverage that makes lightweight bases useless. The Yaheetech 4-pack of 13L heavy-duty bases attacks that problem with sheer mass — but only if you're willing to put in the work to fill them. Here's the honest breakdown after digging through 215 ratings and the spec sheet.

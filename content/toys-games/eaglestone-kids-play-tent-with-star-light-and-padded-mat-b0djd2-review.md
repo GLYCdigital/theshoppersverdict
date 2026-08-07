@@ -1,4 +1,5 @@
 ---
+
 title: "EagleStone Kids Play Tent with Star Light and Padded Mat"
 seo_title: "EagleStone Kids Play Tent Review: Star Light & Mat (2026)"
 meta_description: "Honest EagleStone Kids Play Tent review: star projector, padded mat, build quality, and real parent feedback. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJD29FBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VjCF65nkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Star projector creates a genuinely immersive night-sky effect — bright enough for bedtime but dim enough not to disrupt sleep"
   - "Padded mat is thicker than most tent mats (roughly 1cm) and provides real cushioning on hardwood floors"
   - "Tent pops open in under 60 seconds and folds flat for storage — no assembly headaches"
-cons:
+cons: 
   - "Star light requires 3 AAA batteries (not included) and has no auto-off timer, so the projector drains power if left on overnight"
   - "Fabric is lightweight polyester — fine for indoor play but won't survive rough outdoor use or aggressive toddlers"
   - "No floor attachment point on the mat; it slides around slightly on smooth surfaces when kids roll on it"
+
 ---
 
 Let's be honest about kids' play tents: most are flimsy nylon teepees that collapse the moment your child breathes on them. The EagleStone Kids Play Tent with Star Light and Padded Mat is not that. It's also not a premium indoor castle that'll survive a decade of abuse. It sits comfortably in the middle — and for most families, that's exactly the right spot.

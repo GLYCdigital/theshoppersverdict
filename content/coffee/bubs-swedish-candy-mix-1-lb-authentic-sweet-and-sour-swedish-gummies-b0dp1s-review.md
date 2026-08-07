@@ -1,4 +1,5 @@
 ---
+
 title: "BUBS Swedish Candy Mix 1 lb - Authentic Sweet and Sour Swedi"
 seo_title: "BUBS Swedish Candy Mix Review: Authentic Sweet & Sour Gummies"
 meta_description: "BUBS Swedish Candy Mix 1 lb review: authentic sweet-sour gummies, real texture, honest pros/cons, and who should buy. Verdict 4.2/5."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DP1SMZW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GOr+OGJKL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Swedish recipe with that distinct chewy-then-sour kick — not a cheap knockoff"
   - "1 lb resealable bag holds up well for sharing or stocking a candy drawer"
   - "Balanced mix of classic sweet and sour varieties, so there's something for every palate"
-cons:
+cons: 
   - "Sour coating is aggressive on some pieces — sensitive mouths may find it harsh"
   - "No ingredient breakdown per individual candy type in the listing"
   - "Texture leans firmer than American gummies; not for fans of soft, pillowy candy"
+
 ---
 
 # BUBS Swedish Candy Mix 1 lb: A Serious Look at the Sweet-Sour Classic

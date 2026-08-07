@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja XSKUNSTAND Outdoor Stand, Woodfire Products, Adjustabl"
 seo_title: "Ninja XSKUNSTAND Outdoor Stand, Woodfire Products, Review"
 meta_description: "Our full ninja xskunstand outdoor stand, woodfire products, adjustabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2L8RSZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HGiDKmL-L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Ninja Woodfire outdoor grill or smoker, you already know the struggle: where do you put the tongs, the sauce brush, the thermometer, and the plate of seasoned chicken while you're working the fire? The Ninja XSKUNSTAND Outdoor Stand answers that question, but it's not without a quirk or two.

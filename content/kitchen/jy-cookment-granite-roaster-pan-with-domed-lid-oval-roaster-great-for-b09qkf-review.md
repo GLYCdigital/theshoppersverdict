@@ -1,4 +1,5 @@
 ---
+
 title: "JY COOKMENT Granite Roaster Pan with Domed Lid - Oval Roaste"
 seo_title: "JY COOKMENT Granite Roaster Pan with Domed Lid - O Review"
 meta_description: "Our full jy cookment granite roaster pan with domed lid - oval roaste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09QKF34P9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D8QjxyfLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Heavy-Duty Roaster That Earns Its Place in Your Oven**

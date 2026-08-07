@@ -1,24 +1,26 @@
 ---
+
 title: "Amazon Basics Two Pocket Plastic Dividers, 8 Tab Set"
 seo_title: "Amazon Basics 8-Tab Pocket Dividers Review (2026): Worth It?"
 meta_description: "Amazon Basics Two Pocket Plastic Dividers, 8 Tab Set review: durable, clear, budget-friendly. See pros, cons, and who should buy these $4 organizers."
 slug: "amazon-basics-two-pocket-plastic-dividers-8-tab-set-b0cqt1-review"
 image_alt: "Amazon Basics 8-tab two-pocket plastic dividers with clear tabs and reinforced top edge"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 3.92  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: 3.92
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQT1GGG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-dhwOY-jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Clear plastic pockets let you see contents at a glance without flipping pages"  
   - "Sturdy polypropylene material resists tearing even with heavy paper stacks"  
   - "Printable index tabs (8 tabs) work with standard 8.5x11 sheet labels"  
-cons:  
+cons: 
   - "Tabs are not pre-printed — you'll need a label maker or handwriting for organization"  
   - "Pockets are shallow (holds ~15 sheets each); thicker documents won't fit flat"  
   - "Only 8 tabs per set — large binders need multiple sets, driving up cost"
+
 ---
 
 **Opening: The $4 organization hack that actually works**  

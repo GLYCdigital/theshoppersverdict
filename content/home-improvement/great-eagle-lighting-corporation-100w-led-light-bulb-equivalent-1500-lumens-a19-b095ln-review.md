@@ -1,4 +1,5 @@
 ---
+
 title: "Great Eagle Lighting Corporation 100W LED Light Bulb Equival"
 seo_title: "Great Eagle Lighting Corporation 100W LED Light Bu Review"
 meta_description: "Our full great eagle lighting corporation 100w led light bulb equival review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095LNSC55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aZxhJzpmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Great Eagle's 100W LED equivalent: it does exactly what it promises, and nothing more. No smart features, no dimming, no color tuning. Just raw, blindingly bright light at a price that undercuts most competitors. For a garage, workshop, or utility room, that's often exactly what you need.

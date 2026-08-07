@@ -1,4 +1,5 @@
 ---
+
 title: "DreamBone Dream Kabobz, Rawhide-Free Chews for Dogs"
 seo_title: "DreamBone Dream Kabobz Review: Rawhide-Free Dog Chews"
 meta_description: "DreamBone Dream Kabobz review: A rawhide-free dog chew with real meat. See how it holds up, what dogs think, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9V9YSBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fs1PnccGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twisted kabob shape slows down aggressive chewers better than flat rawhide strips"
   - "Real chicken and bacon are the first ingredients — not fillers or rawhide glue"
   - "Soft enough for senior dogs and puppies, yet durable enough for 15-20 minutes of active chewing"
-cons:
+cons: 
   - "Small pieces can break off toward the end — supervise dogs that inhale food"
   - "Not calorie-free; heavy chewers could pack on pounds if you don't adjust meals"
+
 ---
 
 If you've ever peeled a rawhide chew off your dog's teeth — or worse, watched them swallow a soggy chunk whole — you already know why the DreamBone Dream Kabobz exist. This is a rawhide-free chew built around a simple promise: give dogs something satisfying to gnaw without the digestive risks that come with traditional hide.

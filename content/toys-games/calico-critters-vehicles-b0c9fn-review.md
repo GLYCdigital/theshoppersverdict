@@ -1,4 +1,5 @@
 ---
+
 title: "Calico Critters Vehicles"
 seo_title: "Calico Critters Vehicles Review: Worth It? (2026)"
 meta_description: "Honest Calico Critters Vehicles review: build quality, play value, and compatibility. See what 240+ buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9FNFJM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uxmuIdyhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Doors and trunks actually open on both vehicles, with working wheels that roll smoothly on carpet and hardwood"
   - "Figures click securely into seat pegs, so critters don't tumble out during play — a fix for the older vehicle line's biggest flaw"
   - "Compatible with all standard Calico Critters figures and most furniture pieces from the brand's extensive catalog"
-cons:
+cons: 
   - "No storage solution included — the two vehicles take up significant shelf space, and there's no carrying case or bag"
   - "Small parts like the spare tire and picnic basket are genuine choking hazards for kids under 3, despite the 3+ label"
   - "Wheels are hard plastic, not rubberized — they roll fine but can scratch wood floors if played with aggressively"
+
 ---
 
 ## The Calico Critters Vehicles Set: Finally, a Car That Actually Works

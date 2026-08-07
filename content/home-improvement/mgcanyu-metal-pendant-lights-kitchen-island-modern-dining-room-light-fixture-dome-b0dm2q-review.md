@@ -1,4 +1,5 @@
 ---
+
 title: "Mgcanyu Metal Pendant Lights Kitchen Island, Modern Dining R"
 seo_title: "Mgcanyu Metal Pendant Lights Kitchen Island, Moder Review"
 meta_description: "Our full mgcanyu metal pendant lights kitchen island, modern dining r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM2Q4B5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710Jjl7hbfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most sub-$100 pendant lights look like they came from a dorm room clearance bin. The Mgcanyu Metal Pendant Light is not that. It's a genuinely decent fixture that punches above its price point — as long as you understand what you're buying.

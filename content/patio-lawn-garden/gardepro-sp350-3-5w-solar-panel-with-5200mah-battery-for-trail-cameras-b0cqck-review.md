@@ -1,4 +1,5 @@
 ---
+
 title: "GardePro SP350 3.5W Solar Panel with 5200mAh Battery for Tra"
 seo_title: "GardePro SP350 Solar Panel Review: 5200mAh Trail Cam Power"
 meta_description: "Honest GardePro SP350 3.5W solar panel review for trail cameras. Real battery life, weather durability, and buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQCKM5FJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ijlgGI3XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated 5200mAh battery eliminates the need for disposable AAs; charges directly from the 3.5W monocrystalline panel"
   - "IP65 weatherproof housing held up through rain, snow, and direct sun in buyer tests"
   - "Universal 12V barrel connector and included 6.5ft cable work with most trail camera brands, not just GardePro"
-cons:
+cons: 
   - "Panel output drops significantly in shaded or heavily wooded setups — needs 4-6 hours of direct sun for full daily recharge"
   - "No mounting hardware included beyond a basic strap; you'll likely need to source your own pole mount"
+
 ---
 
 Let's cut through the listing photos. If you're running trail cameras on public land or a remote property, the #1 headache isn't the camera — it's the batteries. The GardePro SP350 is a direct attempt to solve that problem with an all-in-one solar panel and lithium battery pack. After digging through 215 ratings and the spec sheet, here's what actually matters.

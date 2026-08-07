@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie Ultra Fine Permanent Marker Set - 12 Assorted Ultra "
 seo_title: "Sharpie Ultra Fine Permanent Marker Set - 12 Assor Review"
 meta_description: "Our full sharpie ultra fine permanent marker set - 12 assorted ultra  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09TRZ5YKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZpqJQEKSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've lost count of how many so-called "fine point" markers bled through my shipping labels and turned a 30-second job into a reprint. So when the Sharpie Ultra Fine 12-pack showed up, I put it through the grinder — label stock, glossy plastic, cardboard, even that weird coated paper that rejects everything. Here's what actually happened.

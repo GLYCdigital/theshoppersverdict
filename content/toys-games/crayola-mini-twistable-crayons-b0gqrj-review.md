@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Mini Twistable Crayons"
 seo_title: "Crayola Mini Twistable Crayons Review: Worth It? (2026)"
 meta_description: "Crayola Mini Twistable Crayons review: no-peel, no-break coloring for kids. See pros, cons, and if these 4.6-star crayons beat classic sticks."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQRJ3STD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611oPRfoyUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "No peeling or sharpening — twist-up plastic barrel eliminates the classic crayon mess entirely"
   - "Shorter, thicker body fits small hands better than standard-size twistables, reducing grip fatigue"
   - "Durable 2mm tip resists snapping even under aggressive toddler pressure"
-cons:
+cons: 
   - "Mini size means shorter lifespan per crayon than full-length versions — heavy users will burn through them faster"
   - "Color payoff is slightly lighter than classic wax crayons, especially on cheaper paper"
   - "No built-in sharpener, so once the tip dulls you're stuck with a blunt edge until it wears down"
+
 ---
 
 ## These Mini Twistables Fix the Two Biggest Crayon Annoyances

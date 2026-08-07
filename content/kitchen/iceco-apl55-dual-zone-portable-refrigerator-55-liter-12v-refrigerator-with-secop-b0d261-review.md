@@ -1,4 +1,5 @@
 ---
+
 title: "ICECO APL55 Dual Zone Portable Refrigerator, 55 Liter 12v re"
 seo_title: "ICECO APL55 Dual Zone Portable Refrigerator, 55 Li Review"
 meta_description: "Our full iceco apl55 dual zone portable refrigerator, 55 liter 12v re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D261FFYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61If7V1cIVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 55-liter sweet spot nobody talks about**

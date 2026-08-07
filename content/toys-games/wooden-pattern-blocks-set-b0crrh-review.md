@@ -1,4 +1,5 @@
 ---
+
 title: "Wooden Pattern Blocks Set"
 seo_title: "Wooden Pattern Blocks Set Review: Verdict | TSV"
 meta_description: "Our full wooden pattern blocks set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRRH81N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yxpct3syL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wooden Pattern Blocks Set: The Geometry Toy That Actually Earns Its Keep

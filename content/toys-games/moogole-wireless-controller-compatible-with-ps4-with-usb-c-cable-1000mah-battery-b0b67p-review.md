@@ -1,4 +1,5 @@
 ---
+
 title: "MOOGOLE Wireless Controller Compatible with PS4, with USB C "
 seo_title: "MOOGOLE Wireless Controller Compatible with PS4, w Review"
 meta_description: "Our full moogole wireless controller compatible with ps4, with usb c  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B67PQ6HR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CD9zhE0KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PS4's DualShock 4 has a well-documented flaw: the battery dies faster than your patience on a laggy server. The MOOGOLE wireless controller doesn't just fix that — it throws in USB-C charging, which Sony still hasn't bothered with. But is this $30-ish third-party pad actually worth swapping into your rotation? Let's break it down.

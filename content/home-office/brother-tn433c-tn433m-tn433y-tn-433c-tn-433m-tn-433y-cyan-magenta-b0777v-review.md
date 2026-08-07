@@ -1,4 +1,5 @@
 ---
+
 title: "Brother TN433C, TN433M, TN433Y (TN-433C, TN-433M, TN-433Y) C"
 seo_title: "Brother TN433 Toner Cartridges Review: 3-Pack CMY Value"
 meta_description: "Brother TN433 C/M/Y toner 3-pack review: genuine OEM quality, ~1,200 pages per cartridge, crisp color output. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0777VC4GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ar4AqqNRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine Brother OEM toner — no third-party quality gamble, consistent color registration"
   - "Smart color toner saves the black cartridge in color jobs, stretching your black yield"
   - "Reliable chip recognition — no firmware update headaches or reset workarounds"
-cons:
+cons: 
   - "Only ~1,200 pages per cartridge (ISO/IEC 19798) — light for high-volume offices"
   - "No starter toner inconvenience — you're paying full price from the first install"
+
 ---
 
 Let’s cut through the toner aisle confusion. If you own a Brother HL-L8360CDW, HL-L9310CDW, or MFC-L8900CDW, these TN433 cartridges are the only ones that belong in your machine. Here’s the real story after digging through 229 ratings and the spec sheet.

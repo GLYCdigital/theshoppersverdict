@@ -1,4 +1,5 @@
 ---
+
 title: "Goody Smoothing Hairbrush with Natural Boar Bristles for Fri"
 seo_title: "Goody Smoothing Hairbrush with Natural Boar Bristl Review"
 meta_description: "Our full goody smoothing hairbrush with natural boar bristles for fri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DLWO7D0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-C7y0CvGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most drugstore brushes are disposable junk. The Goody Smoothing Hairbrush, however, punches well above its price point — and 215 Amazon reviewers averaging 4.3 stars seem to agree. But is it actually a luxury-level tool or just another overhyped hair accessory? Here's the real breakdown.

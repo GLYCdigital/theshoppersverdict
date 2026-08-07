@@ -1,4 +1,5 @@
 ---
+
 title: "Wall Hung Basin Sink Small Cloakroom Basin Rectangle Ceramic"
 seo_title: "Wall Hung Basin Sink Small Cloakroom Basin Rectang Review"
 meta_description: "Our full wall hung basin sink small cloakroom basin rectangle ceramic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B083FJ7GG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51y1JZv0jHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your bathroom is the size of a phone booth, you already know the struggle: standard sinks eat floor space, and pedestal models make the room feel like a maze. This wall-hung basin is a purpose-built solution for exactly that problem — a compact ceramic rectangle that mounts directly to the wall, clearing the floor entirely.

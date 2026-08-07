@@ -1,4 +1,5 @@
 ---
+
 title: "JOYIN Galaxy Slime Party Favors - Stretchy, Non-Sticky, Mess"
 seo_title: "JOYIN Galaxy Slime Party Favors - Stretchy, Non-St Review"
 meta_description: "Our full joyin galaxy slime party favors - stretchy, non-sticky, mess review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ8DJ46B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81p6qFPzt6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Why this slime deserves a spot in your party bag**  

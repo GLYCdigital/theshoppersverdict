@@ -1,4 +1,5 @@
 ---
+
 title: "AdirOffice 40 Keys Cabinet with Digital Lock - Electronic Ke"
 seo_title: "AdirOffice 40-Key Cabinet Review: Digital Lock Security"
 meta_description: "AdirOffice 40-key steel cabinet with digital lock review — real-world testing, durability, and who should buy. Honest pros & cons."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B071SKVL72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PTUxPMv7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 18-gauge steel construction with a powder-coated finish that resists scratches and fingerprints"
   - "Programmable 4-8 digit PIN code with an override key slot for emergency access"
   - "40 internal key hooks with numbered labels — enough capacity for most small businesses or property managers"
-cons:
+cons: 
   - "Digital keypad feels a bit plasticky and the backlight is dim in low-light rooms"
   - "No pre-drilled wall-mounting holes — you'll need to drill your own or buy a separate mounting kit"
   - "Batteries drain faster than expected if you use the keypad frequently — keep spares handy"
+
 ---
 
 ## The Digital Lock That Actually Keeps Keys Secure

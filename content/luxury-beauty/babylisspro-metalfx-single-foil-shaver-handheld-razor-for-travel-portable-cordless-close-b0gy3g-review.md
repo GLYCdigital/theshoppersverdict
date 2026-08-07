@@ -1,4 +1,5 @@
 ---
+
 title: "BaBylissPRO METALFX Single Foil Shaver, Handheld Razor for T"
 seo_title: "BaBylissPRO METALFX Foil Shaver Review: Close, Cordless"
 meta_description: "BaBylissPRO METALFX single foil shaver review: Is this cordless travel razor worth $150? Real performance, battery life, and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY3G8KRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Titanium-coated foil delivers a genuinely close shave—comparable to a blade on 1-2 day growth"
   - "Fully cordless with USB-C charging; 60+ minutes of runtime per charge"
   - "Compact metal body (5.2 oz) fits in a dopp kit without bulky charging dock"
-cons:
+cons: 
   - "Single foil means slower shaves—plan 8-10 minutes for full face, not a quick 3-minute pass"
   - "Loud motor buzz audible in quiet bathrooms; some users report vibration fatigue in hand"
   - "No pop-up trimmer for sideburns or detail work—you'll need a second tool"
+
 ---
 
 # BaBylissPRO METALFX Single Foil Shaver Review: Luxury Price, Barber-Grade Results?

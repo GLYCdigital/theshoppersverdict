@@ -1,4 +1,5 @@
 ---
+
 title: "Craftersmark Picture Light with Remote Control, Rechargeable"
 seo_title: "Craftersmark Picture Light Review: Rechargeable & Remote"
 meta_description: "Honest Craftersmark picture light review: battery life, remote range, color accuracy, and whether this wireless art light is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GR9PQ8MJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kDPMZBR0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3000K warm light with CRI 90+ rendering that makes art colors pop without the harsh blue cast cheap LEDs throw"
   - "USB-C fast charging tops up the 3000mAh battery in under 3 hours for roughly 8 hours of continuous use"
   - "20-minute auto-off timer and 10-level dimming give gallery-style control without touching the fixture"
-cons:
+cons: 
   - "Remote requires line-of-sight to the IR sensor on the light bar — no RF passthrough, so hidden mounts can block commands"
   - "Mounting hardware is basic adhesive strips only; heavier frames over 15 lbs will need separate picture-hanging wire"
+
 ---
 
 # Craftersmark Picture Light: Wireless Art Lighting That Actually Works

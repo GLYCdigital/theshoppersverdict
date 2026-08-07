@@ -1,23 +1,25 @@
 ---
+
 title: "Aheaplus Rotating Bookshelf, 360 Display Floor Standing Book"
 seo_title: "Aheaplus Rotating Bookshelf Review: 360-Degree Storage"
 meta_description: "Honest Aheaplus Rotating Bookshelf review: 4.5-star rated, 360° display, floor-standing design. See pros, cons, and who should buy it."
 slug: "aheaplus-rotating-bookshelf-360-display-floor-standing-bookcase-storage-rack-b0fgyd-review"
 image_alt: "Aheaplus 360-degree rotating bookshelf with multiple tiers displaying books and decor in a living room"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGYDSVTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71meR02M0IL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Smooth 360° rotation on a sturdy base — no wobble even when fully loaded"  
   - "Five display tiers offer versatile storage for books, plants, or collectibles"  
   - "Tool-free assembly takes under 15 minutes with clear instructions"  
-cons:  
+cons: 
   - "Open-shelf design means dust collects on items — you'll need regular dusting"  
   - "Weight capacity per tier is modest (about 8 lbs), so heavy hardcovers need even distribution"
+
 ---
 
 **The Aheaplus Rotating Bookshelf: A 360-Degree Space Saver That Actually Works**

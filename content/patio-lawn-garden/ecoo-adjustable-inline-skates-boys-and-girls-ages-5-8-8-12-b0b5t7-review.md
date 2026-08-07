@@ -1,4 +1,5 @@
 ---
+
 title: "ECOO Adjustable Inline Skates Boys and Girls Ages 5-8 8-12 w"
 seo_title: "ECOO Adjustable Inline Skates Review: Sized 5-8 & 8-12 (2026)"
 meta_description: "ECOO Adjustable Inline Skates for kids ages 5-12: 4.7-star rated, 4-size adjustment, aluminum frame. See if they fit your child before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5T73GPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ki8WVTAqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four-size push-button adjustment per pair (US 11C-2Y and 2Y-5Y) means one purchase covers roughly two years of growth"
   - "Aluminum alloy frame and 82A urethane wheels hold up to curbs and rough pavement better than plastic-frame skates in this price class"
   - "Buckle plus lace closure system is genuinely easy for kids to fasten themselves — no parent wrestling with sticky straps before every skate session"
-cons:
+cons: 
   - "The brake is on the right skate only; left-foot-dominant beginners may struggle with stopping technique until they adapt"
   - "Wheels are 70mm at 82A durometer — fine for smooth driveways but noticeably bumpy on cracked sidewalks and asphalt"
   - "Size adjustment requires a solid push on the button; some parents report needing pliers the first time to break the mechanism loose"
+
 ---
 
 Let me be straight with you: most kids' inline skates under $60 are plastic-frame toys that bend, wobble, and end up in the basement by June. The ECOO Adjustable Inline Skates are different — and the 4.7-star average across 235 ratings backs that up. These are real skates with an aluminum frame, not a gimmick with wheels bolted on.

@@ -1,4 +1,5 @@
 ---
+
 title: "IAMS Proactive Health Dry Food Bag Cat Adult Sensitive Diges"
 seo_title: "IAMS Proactive Health Dry Food Bag Cat Adult Sensi Review"
 meta_description: "Our full iams proactive health dry food bag cat adult sensitive diges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2XF6QVZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iEXQ7-UHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I’m not going to tell you this is the most premium cat food on Amazon. It isn’t. What I *will* tell you is that IAMS Proactive Health for Sensitive Digestion does exactly what it promises for the price, and that’s rarer than you’d think in this category.

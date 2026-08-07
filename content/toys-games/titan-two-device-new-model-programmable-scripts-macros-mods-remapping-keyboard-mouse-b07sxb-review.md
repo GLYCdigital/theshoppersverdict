@@ -1,4 +1,5 @@
 ---
+
 title: "Titan Two Device NEW Model [Programmable Scripts, Macros, Mo"
 seo_title: "Titan Two Device NEW Model [Programmable Scripts,  Review"
 meta_description: "Our full titan two device new model [programmable scripts, macros, mo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07SXBW6XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513gu1ybCIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Titan Two Device Review: The Swiss Army Knife of Gaming Adapters

@@ -1,4 +1,5 @@
 ---
+
 title: "Mermaid Slime Kit Party Favors for Kids Slime Cup Bulk Stret"
 seo_title: "Mermaid Slime Kit Party Favors for Kids Slime Cup  Review"
 meta_description: "Our full mermaid slime kit party favors for kids slime cup bulk stret review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DC6BBHKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L8KXU0pUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever handed out slime at a birthday party, you know the drill: sticky fingers, stained carpet, and a dozen tiny containers with questionable lids. The Mermaid Slime Kit Party Favors aims to fix that with pre-sealed cups in a bulk pack. I tested these with three kids (ages 4, 7, and 9) over two weeks of regular play. Here's the real story.

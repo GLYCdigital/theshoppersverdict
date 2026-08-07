@@ -1,4 +1,5 @@
 ---
+
 title: "Midwest Steel Pet Gate"
 seo_title: "Midwest Steel Pet Gate Review: Verdict | TSV"
 meta_description: "Our full midwest steel pet gate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYM8VQYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813fIxoMFTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a 70-pound Labrador casually lean on a cheap plastic gate until it buckles, you know why the Midwest Steel Pet Gate exists. This thing is built like a piece of gym equipment, not a piece of nursery furniture. With a 4.5-star average across 225 ratings, it's clearly earning its keep in real homes. Here's what you need to know before you buy.

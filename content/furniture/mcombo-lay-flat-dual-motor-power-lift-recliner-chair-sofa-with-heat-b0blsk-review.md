@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Lay Flat Dual Motor Power Lift Recliner Chair Sofa wi"
 seo_title: "MCombo Lay Flat Dual Motor Power Lift Recliner Cha Review"
 meta_description: "Our full mcombo lay flat dual motor power lift recliner chair sofa wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLSKTN3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BzPAYF7XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $600 question: Can a budget power recliner actually lay flat and feel good?

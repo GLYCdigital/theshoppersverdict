@@ -1,4 +1,5 @@
 ---
+
 title: "MERKYO Halloween Decorations Outdoor - 5 FT Large Hanging Sw"
 seo_title: "MERKYO Halloween Decorations Outdoor - 5 FT Large  Review"
 meta_description: "Our full merkyo halloween decorations outdoor - 5 ft large hanging sw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FCC1BBTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XQOy8g34L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5-Foot Hanging Ghost That Actually Delivers — Most of the Time**

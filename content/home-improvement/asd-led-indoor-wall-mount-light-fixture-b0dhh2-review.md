@@ -1,4 +1,5 @@
 ---
+
 title: "ASD LED Indoor Wall Mount Light Fixture"
 seo_title: "ASD LED Wall Mount Light Fixture Review (2026): Is It Worth It?"
 meta_description: "Honest ASD LED indoor wall mount light fixture review: build quality, brightness, real buyer feedback, and who should buy it. 4.6/5 rating, 229 reviews."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHH2Q6JR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ca21ua7sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free installation with included mounting template — most buyers finish in under 15 minutes"
   - "Even, flicker-free 3000K warm light that flatters hallways, bedrooms, and stairwells"
   - "Dimmable with standard ELV/triac dimmers, giving you real control over ambiance"
-cons:
+cons: 
   - "The integrated LED driver is non-replaceable — when it fails, you replace the whole fixture"
   - "Screws supplied are fine for drywall but too short for thicker plaster or lath walls"
+
 ---
 
 Let’s cut to it: the ASD LED indoor wall mount fixture is the kind of product that doesn’t make you think twice — until it’s installed, and you realize you actually like it more than you expected. With a 4.6 average across 229 Amazon ratings, this isn't a flashy statement piece. It’s a workhorse. And for most homeowners, that’s exactly what you want from a wall sconce.

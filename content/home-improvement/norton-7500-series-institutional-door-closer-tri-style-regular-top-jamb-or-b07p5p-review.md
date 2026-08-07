@@ -1,4 +1,5 @@
 ---
+
 title: "Norton 7500 Series Institutional Door Closer, Tri-StyleÂ® (R"
 seo_title: "Norton 7500 Series Institutional Door Closer, Tri- Review"
 meta_description: "Our full norton 7500 series institutional door closer, tri-styleâ® (r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07P5PG55M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VSsNW7YXL._AC_SL1107_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This is the closer your building inspector would spec if they had to pay for the replacement themselves.

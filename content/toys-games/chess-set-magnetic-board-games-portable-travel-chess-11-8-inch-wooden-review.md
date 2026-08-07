@@ -1,13 +1,14 @@
 ---
+
 title: "Chess Set Magnetic, Board Games, Portable Travel Chess, 11.8 Inch | Wooden-Style, Classic 2-Player Strategy, Foldable, Board Game for Teens and Adult, Family Educational, Gifts, Toys"
 seo_title: "Chess Set Magnetic Review: Verdict (4.4/5) | TSV"
 meta_description: "The wood feels solid and well made, and the pieces have a nice weight to them, 655+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "chess-set-magnetic-board-games-portable-travel-chess-11-8-inch-wooden-review"
 image_alt: "Chess Set Magnetic, Board Games, Portable Travel Chess, 11.8 Inch | Wooden-Style, Classic 2-Player Strategy, Foldable, B"
-keywords:
+keywords: 
   - "chess set magnetic review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Chess Set Magnetic, Board?"
     answer: "The wood feels solid and well made, and the pieces have a nice weight to them, which makes playing even m... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Chess Set Magnetic, Board?"
@@ -20,12 +21,13 @@ review_count: 655
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHX6H96Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Smu9+w9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The wood feels solid and well made, and the pieces have a nice weight to them."
   - "Also a great value for the price if you dont need something too flashy."
   - "Quality is great Nice quality wood , hinged nice and strong."
-cons:
+cons: 
   - "Cheap looking The board itself is a stick on over plywood."
+
 ---
 
 You don't need to spend $80 on a walnut tournament board to get a solid chess set. This 11.8-inch magnetic travel set from the generic-but-capable corner of Amazon proves that point — with a few caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Polar Seltzer Water Cranberry Lime, 12 fl oz cans, 12 pack"
 seo_title: "Polar Seltzer Water Cranberry Lime, 12 fl oz cans, Review"
 meta_description: "Our full polar seltzer water cranberry lime, 12 fl oz cans, 12 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00H3TN080/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F6DH0oqsL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the obvious: I'm reviewing a seltzer water on a page that says "coffee maker or coffee gear." That's the kind of category confusion Amazon sometimes throws at you. But here's the thing — if you're reading this, you're probably a seltzer loyalist who's tired of paying $8 for a 12-pack of LaCroix that tastes like someone whispered "lime" near a can of carbonated water. Polar's Cranberry Lime is a different animal entirely.

@@ -1,4 +1,5 @@
 ---
+
 title: "Emergency Glow Sticks with 12 Hours Duration, Individually W"
 seo_title: "Emergency Glow Sticks Review: 12-Hour Industrial Grade (2026)"
 meta_description: "Honest review of industrial-grade emergency glow sticks with 12-hour duration. See real pros, cons, and if they're worth buying for your emergency kit."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGRDQFYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nRpGgfyZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 12-hour runtime in real-world use — verified by multiple buyers timing them overnight"
   - "Industrial-grade casing that survives being stepped on, tossed in toolboxes, and left in hot cars without leaking"
   - "Individual foil wrapping keeps them fresh for years — several buyers report testing sticks stored for 24+ months"
-cons:
+cons: 
   - "Green is the only color option — no red, blue, or orange for tactical or color-coding needs"
   - "Light output is steady but not blinding — fine for reading and marking, not for illuminating a full campsite"
+
 ---
 
 Sometimes the simplest tool is the one you forget to stock. Emergency glow sticks fall into that category — until the power goes out at 9 PM and your phone's at 12%. These industrial-grade sticks with a claimed 12-hour duration have earned a 4.7-star average across 235 ratings, and after digging through the buyer feedback, here's the real story.

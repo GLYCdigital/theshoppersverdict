@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach The Scoop Single Serve Coffee Maker & Fast Gr"
 seo_title: "Hamilton Beach The Scoop Single Serve Coffee Maker Review"
 meta_description: "Our full hamilton beach the scoop single serve coffee maker & fast gr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CYHGJ6ZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oSS+mwSmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Scoop on Fresh Coffee Without the Fuss

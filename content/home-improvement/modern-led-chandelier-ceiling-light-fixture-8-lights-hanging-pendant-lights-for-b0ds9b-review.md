@@ -1,4 +1,5 @@
 ---
+
 title: "Modern LED Chandelier Ceiling Light Fixture, 8 Lights Hangin"
 seo_title: "Modern LED Chandelier Ceiling Light Fixture, 8 Lig Review"
 meta_description: "Our full modern led chandelier ceiling light fixture, 8 lights hangin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DS9BYPF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615LCVXYIJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Modern LED Chandelier Review: Is This 8-Light Hanging Fixture a Smart Buy?

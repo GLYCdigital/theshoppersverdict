@@ -1,4 +1,5 @@
 ---
+
 title: "E ENERGETIC LIGHTING G25 inch"
 seo_title: "E ENERGETIC LIGHTING G25 Review: Worth the Hype?"
 meta_description: "E ENERGETIC LIGHTING G25 review: 4.7-star rated tool with 235 reviews. We test performance, durability, and value. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BKPFSWTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613pjuYuswL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brutally bright 2,000-lumen output in a body small enough to fit in a jacket pocket"
   - "IP65 water resistance handles rain, dust, and job-site abuse without flinching"
   - "Swivel base with 180° tilt locks solidly — no sagging mid-project"
-cons:
+cons: 
   - "Battery life at max brightness runs about 90 minutes — bring spares for full-day jobs"
   - "No magnetic mount, so you'll need the tripod or a clamp for hands-free positioning"
+
 ---
 
 Let's cut through the lighting aisle noise. The E ENERGETIC LIGHTING G25 is a compact work light that's been quietly racking up 4.7 stars from 235 buyers — and after looking at what it actually does, the praise isn't hype. This is a seriously capable little light that punches well above its size class.

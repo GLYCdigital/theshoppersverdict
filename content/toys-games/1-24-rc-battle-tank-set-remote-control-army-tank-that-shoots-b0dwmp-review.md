@@ -1,4 +1,5 @@
 ---
+
 title: "1/24 RC Battle Tank Set, Remote Control Army Tank That Shoot"
 seo_title: "1/24 RC Battle Tank Set Review: Shoots & Drives"
 meta_description: "Our honest 1/24 RC Battle Tank Set review: dual-tank combat, IR shooting, realistic tracks. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWMPTYQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PD5f97KkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-tank package means two kids can battle immediately without buying a second set"
   - "IR hit detection with vibration and sound feedback makes combat feel real, not just cosmetic"
   - "True tank-style steering (independent track controls) rather than cheap car-style skid steering"
-cons:
+cons: 
   - "IR shooting range is roughly 15-20 feet indoors; outdoor performance drops significantly in sunlight"
   - "Batteries not included — you'll need 6 AAAs total (3 per tank) plus 4 AAs for the controllers"
   - "Plastic tracks can slip on thick carpet or smooth tile when turning at full speed"
+
 ---
 
 If you've got a kid (or a grown-up kid) who's obsessed with tanks, you've probably seen the cheap RC knockoffs that drive in circles and shoot nothing. This 1/24 RC Battle Tank Set is different — it's got actual infrared combat mechanics, two tanks in the box, and enough realism to keep a 10-year-old engaged for more than an afternoon.

@@ -1,4 +1,5 @@
 ---
+
 title: "115-in-1 Precision Screwdriver Sets, Professional Repair Too"
 seo_title: "115-in-1 Precision Screwdriver Set Review: Worth It?"
 meta_description: "Our 115-in-1 precision screwdriver set review covers bit quality, case durability, and real repair use. See if this professional tool kit is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRH2K99D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pdRVJwQ2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "115 bits cover nearly every fastener type you'll encounter, from Torx security to game console tri-wing"
   - "Magnetic driver handle with swivel cap provides solid grip during high-torque turns"
   - "Aluminum storage case keeps bits organized and protected for travel or workshop drawers"
-cons:
+cons: 
   - "Bit retention could be stronger — smaller bits occasionally slip out of the magnetic holder"
   - "Case latch feels slightly flimsy for the price point; treat it gently"
+
 ---
 
 ## One Kit to Rule Them All? Let's Talk About That.

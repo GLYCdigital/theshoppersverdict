@@ -1,4 +1,5 @@
 ---
+
 title: "WIZEKA Kitchen Knife Set with Block"
 seo_title: "WIZEKA Kitchen Knife Set with Block Review: Verdict | TSV"
 meta_description: "Our full wizeka kitchen knife set with block review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSVKS3KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71trCkLMXpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: most knife sets under $100 are glorified butter knives wrapped in pretty wooden blocks. The WIZEKA Kitchen Knife Set with Block doesn't fully escape that category — but it comes closer than most at this price point. With a 4.6-star average across 229 ratings, it's clearly earning its keep in real kitchens. Here’s the breakdown after digging through specs and buyer experiences.

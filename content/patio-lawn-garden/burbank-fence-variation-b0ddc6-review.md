@@ -1,4 +1,5 @@
 ---
+
 title: "Burbank Fence Variation"
 seo_title: "Burbank Fence Variation Review: Worth It? (2026)"
 meta_description: "Honest Burbank Fence Variation review: build quality, real-world durability, and who should buy. See pros, cons, and the final verdict."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DDC6HP12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ADHErJCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut panels and color-matched hardware cut installation time roughly in half versus building from scratch"
   - "Powder-coated steel rails resist rust far better than budget galvanized alternatives in wet climates"
   - "Modular design lets you expand or reconfigure sections without buying a whole new kit"
-cons:
+cons: 
   - "Hardware pack includes only basic screws — lag bolts for posts sold separately, which adds $20–30 to total cost"
   - "Panels arrive with minor surface scratches from shipping; touch-up paint not included"
   - "Gate kits are not compatible — you must buy Burbank's separate, pricier gate system"
+
 ---
 
 **Is the Burbank Fence Variation a clever modular solution or just another overpriced yard accessory? After digging through 190 ratings and the spec sheet, here's what actually matters.**

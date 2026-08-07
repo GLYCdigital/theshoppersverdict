@@ -1,4 +1,5 @@
 ---
+
 title: "EcoEvo Glass Food Containers with Glass Lid"
 seo_title: "EcoEvo Glass Food Containers Review: Are They Worth It?"
 meta_description: "Honest EcoEvo Glass Food Containers review: leak-proof glass lids, durability, real buyer feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLGHH9X4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618IetieBuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full glass lids with silicone gasket — no plastic touching food, sealed airtight for leak-proof transport"
   - "Borosilicate glass body handles oven, microwave, and dishwasher duty without clouding or cracking"
   - "Stackable rectangular design with measurement markings saves fridge space and simplifies portion tracking"
-cons:
+cons: 
   - "Lids feel heavy compared to plastic alternatives; can be slippery when wet right after washing"
   - "No snap-lock tabs — the lid tension relies on the glass rim and gasket, which takes a firm press to seat properly"
+
 ---
 
 You've seen the drill: plastic containers that stain from spaghetti sauce, warp in the microwave, and hold onto yesterday's garlic like a grudge. The EcoEvo Glass Food Containers with Glass Lid are the grown-up answer to that cycle. And here's the twist that actually matters — the lids are glass too.

@@ -1,4 +1,5 @@
 ---
+
 title: "Staples Multiuse Copy Paper, 20 lbs., 94 Brightness (Parent)"
 seo_title: "Staples Multiuse Copy Paper, 20 lbs., 94 Brightnes Review"
 meta_description: "Our full staples multiuse copy paper, 20 lbs., 94 brightness (parent) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDCM3JFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VYFO2RI9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: copy paper is copy paper until it jams your printer at 11 PM before a deadline. Then it matters a lot. The Staples Multiuse 20 lb / 94 brightness ream sits in that middle ground between bargain-bin flimsy and premium presentation stock. After running this through a laser printer, an inkjet, and a high-volume office copier, here’s what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Crown Maple Sugar, 10 Ounce"
 seo_title: "Crown Maple Sugar Review: Pure Maple Sweetener for Coffee"
 meta_description: "Crown Maple Sugar review: 10 oz pure maple sugar for coffee. Taste, texture, and value analyzed. See how it compares to brown sugar."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01NBNAU6O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VADY90+7L._SL1000_.jpg"
-pros:
+pros: 
   - "Fine, sand-like texture dissolves quickly in hot coffee without gritty residue"
   - "True maple flavor — tastes like real syrup, not artificial maple extract"
   - "10 oz resealable bag lasts roughly 60-70 cups at 1-2 tsp per serving"
-cons:
+cons: 
   - "Price per ounce is roughly 3-4x standard granulated sugar — it's a treat, not a daily driver"
   - "Delicate maple notes can get lost in dark roasts or heavy cream additions"
   - "Bag isn't moisture-proof; clumps if left open near steam or humidity"
+
 ---
 
 # Crown Maple Sugar Review: The Coffee Sweetener That Actually Tastes Like Maple

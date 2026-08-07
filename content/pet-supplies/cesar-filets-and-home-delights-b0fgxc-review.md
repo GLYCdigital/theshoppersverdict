@@ -1,4 +1,5 @@
 ---
+
 title: "Cesar Filets and Home Delights"
 seo_title: "Cesar Filets and Home Delights Review: Is It Worth It?"
 meta_description: "Cesar Filets and Home Delights review: 4.6-star rated dog food. We break down ingredients, portions, picky-eater appeal, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGXC7V7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Zg4liPDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real meat filets in gravy — not the mushy pâté most wet foods use"
   - "Easy-peel trays that actually work without a knife or scissors"
   - "Picky eaters consistently clean the bowl, per multiple verified reviews"
-cons:
+cons: 
   - "Small 2.6-oz trays — large breeds will need two or three per meal"
   - "Price per ounce runs higher than bulk canned options"
+
 ---
 
 If you've got a dog who turns their nose up at the same brown mush you've been scooping for months, Cesar Filets and Home Delights is worth a hard look. This isn't another pâté-style wet food. These are actual meat filets — cut into small, recognizable pieces — swimming in a savory gravy. As shown in the product image, you can see distinct shreds of meat, not a uniform paste. For small-breed owners and picky eaters, that visual difference alone can be the difference between a full bowl and a cold, untouched one.

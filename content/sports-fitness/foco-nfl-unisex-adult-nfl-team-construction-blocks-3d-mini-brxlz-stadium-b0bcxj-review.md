@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO NFL Unisex-Adult NFL Team Construction Blocks 3D Mini B"
 seo_title: "FOCO NFL Construction Blocks Review: 3D Mini Stadium Set"
 meta_description: "Honest FOCO NFL 3D Mini Construction Blocks review: build quality, team accuracy, sizing, and who should buy this unique fan memorabilia."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BCXJ9DLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gTNgICDXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Official NFL licensing with authentic team colors and logos printed on bricks"
   - "Compact finished size fits neatly on a desk or shelf without dominating the space"
   - "Compatible with standard building brick systems, so you can mix with existing sets"
-cons:
+cons: 
   - "Small pieces — frustrating for anyone with larger hands or limited dexterity"
   - "No printed instructions; you'll need to scan a QR code for the PDF manual"
   - "Some buyers report missing pieces or loose fits on certain team-specific parts"
+
 ---
 
 **Is this a football collectible or just another brick set?** The FOCO NFL 3D Mini Construction Blocks straddle both worlds. It’s officially licensed, team-specific, and designed for display — but it’s also a genuine build that takes patience. With 204 ratings averaging 4.1 stars, the consensus is that this is a solid fan gift with some assembly quirks. Here’s the breakdown.

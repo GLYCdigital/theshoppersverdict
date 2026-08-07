@@ -1,4 +1,5 @@
 ---
+
 title: "CDCASA Oversized Accent Chair, Linen Fabric Mid Century Mode"
 seo_title: "CDCASA Oversized Accent Chair Review: Comfy Mid-Century Pick"
 meta_description: "Our honest CDCASA Oversized Accent Chair review: is this linen mid-century chair worth it? Real buyer feedback, comfort, build quality & sizing insights."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGN1Y7Q8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uAwBpTkiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely oversized seat (over 23 inches wide) that fits taller and plus-size users comfortably"
   - "Sturdy solid wood legs and reinforced frame — multiple buyers report 250+ lb users with no wobble"
   - "Linen-blend fabric resists pilling and feels softer than typical budget upholstery"
-cons:
+cons: 
   - "Assembly requires two people; the backrest attachment points are finicky to align"
   - "Seat cushions arrive compressed and need 24–48 hours to fully loft — some buyers thought they were defective at first"
+
 ---
 
 Let me cut through the noise on this one. The CDCASA Oversized Accent Chair is one of those Amazon furniture finds that actually delivers on its "oversized" promise — and that's rarer than you'd think at this price point. With a 4.5-star average across 225 ratings, it's not perfect, but it's solving a real problem for a specific type of shopper. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "KNIPEX Tools - Cable Shears, Twin Cutting Edge (9511200), 8 "
 seo_title: "KNIPEX Tools - Cable Shears, Twin Cutting Edge (95 Review"
 meta_description: "Our full knipex tools - cable shears, twin cutting edge (9511200), 8  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C61X3JC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P+fekHpPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a stuck cable with a pair of lineman's pliers, you know the struggle: crushed insulation, frayed copper, and a cut that takes three passes. The KNIPEX 9511200 Twin Cutting Edge Cable Shears exist to end that fight. As shown in the product image, these aren't your average diagonal cutters — they're purpose-built for the sparky who values clean, fast cuts over brute force.

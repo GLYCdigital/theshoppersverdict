@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Big & Tall Leather Waiting Room Guest Chair"
 seo_title: "CLATINA Big & Tall Leather Guest Chair Review (2026)"
 meta_description: "CLATINA Big & Tall leather guest chair review: 4.2★ rating, 500-lb capacity, real-world durability tested. Is it worth it for waiting rooms or home offices?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3FD7KQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611QZa1kL5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18.5-inch seat width and 500-pound weight capacity genuinely accommodate larger users without the 'squeezed into a desk chair' feeling"
   - "Full-grain PU leather over high-density foam holds up to daily commercial use — several reviewers report years of service in medical offices"
   - "Tool-free assembly takes under 10 minutes — the seat, backrest, and base lock together with pre-installed bolts"
-cons:
+cons: 
   - No lumbar support adjustment — the fixed backrest curve works for average heights but taller users (6'2 inch "+) may want a lumbar cushion
   - "The PU leather can get sticky in humid environments; some reviewers note it's not breathable for long sitting sessions over 2 hours"
+
 ---
 
 **The waiting room chair that actually respects big and tall bodies** — that's the gap CLATINA is filling here, and it's a real one. Most guest chairs cap out at 300 pounds and 19 inches of seat width. This one bumps both numbers up meaningfully. But does the extra capacity come with tradeoffs? After digging through 210 ratings and the spec sheet, here's what you need to know before buying.

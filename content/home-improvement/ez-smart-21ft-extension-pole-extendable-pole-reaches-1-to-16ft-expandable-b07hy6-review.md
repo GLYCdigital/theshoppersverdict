@@ -1,4 +1,5 @@
 ---
+
 title: "EZ Smart 21ft+ Extension Pole – Extendable Pole Reaches 1 inch"
 seo_title: "EZ Smart 21ft Extension Pole Review: Worth It? (2026)"
 meta_description: "Honest EZ Smart 21ft+ extension pole review: build quality, real-world reach, and who should buy. See pros, cons, and verdict before spending $85."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HY6ZKSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FYAMKexWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Aluminum construction stays rigid at full extension without the wobble common in cheaper fiberglass poles"
   - "Threaded tip accepts standard paint roller frames, squeegees, and brush attachments without adapters"
   - "Twist-lock collars tighten securely and release smoothly, even when wet or gloved"
-cons:
+cons: 
   - "At 21ft fully extended, the pole becomes unwieldy for one person to control in windy conditions"
   - "No rubber bumper or grip pad on the base — it can slip on smooth concrete when fully extended"
   - "Carrying case is not included, despite the price point"
+
 ---
 
 If you've ever balanced on a ladder with a paint roller over your head, you already know why a 21-foot extension pole exists. The EZ Smart isn't the cheapest option, but it might be the last one you buy. Here's the honest breakdown after digging through 220 ratings and real user experiences.

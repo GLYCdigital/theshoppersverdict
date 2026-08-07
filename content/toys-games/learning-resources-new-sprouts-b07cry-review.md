@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources New Sprouts"
 seo_title: "Learning Resources New Sprouts Review: Verdict | TSV"
 meta_description: "Our full learning resources new sprouts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07CRYH3RD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+X-gNWnzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most play food sets are cheap plastic junk that cracks within a month. The Learning Resources New Sprouts line isn't that. With a 4.8-star average across 240 ratings, this is the set parents actually recommend to other parents — not because it's flashy, but because it survives.

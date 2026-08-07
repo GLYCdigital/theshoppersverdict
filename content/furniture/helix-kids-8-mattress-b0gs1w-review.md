@@ -1,7 +1,8 @@
 ---
-title: "Helix Kids 8\" Mattress"
-seo_title: "Helix Kids 8\" Mattress Review: Verdict | TSV"
-meta_description: "Our full helix kids 8\" mattress review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Helix Kids 8\ Mattress"
+seo_title: "Helix Kids 8\ Mattress Review: Verdict | TSV"
+meta_description: "Our full helix kids 8\ mattress review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "helix-kids-8-mattress-b0gs1w-review"
 image_alt: "Helix Kids 8 Mattress"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GS1W8389/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6137ucbkwUL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Helix Kids 8" Mattress is one of the few children's mattresses that actually grows with your child, thanks to a genuinely clever flippable design. At 4.9 stars across 245 ratings, it's clearly doing something right — but at this price, you deserve to know exactly what you're paying for.

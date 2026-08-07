@@ -1,4 +1,5 @@
 ---
+
 title: "WAMPAT 3 Drawer Dresser"
 seo_title: "WAMPAT 3 Drawer Dresser Review: Verdict | TSV"
 meta_description: "Our full wampat 3 drawer dresser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F5BG5KMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LMPVSIgfL._SS180_.png"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a solid "starter" dresser for small spaces — not a heirloom piece.** If you need temporary bedroom storage in a dorm, rental, or guest room, the Wampat gets the job done with minimal fuss. If you want something that'll survive a decade of daily use, keep looking.

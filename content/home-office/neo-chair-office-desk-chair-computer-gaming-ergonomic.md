@@ -1,10 +1,11 @@
 ---
+
 title: "NEO CHAIR Ergonomic Office Chair Review: Budget Comfort at $59.98"
 seo_title: "NEO CHAIR Office Chair Review — 4.4 Stars | TSV"
 meta_description: "NEO CHAIR ergonomic desk chair review: 4.4 stars, 1,703 ratings, $59.98. Lumbar support, flip-up armrests, adjustable height. Incredible value for home offices."
 slug: "neo-chair-ergonomic-office-desk-chair-review"
 image_alt: "NEO CHAIR ergonomic office desk chair in all black with flip-up padded armrests, mesh back, and lumbar support"
-keywords:
+keywords: 
   - "NEO CHAIR office chair review"
   - "best budget ergonomic chair"
   - "home office chair under $100"
@@ -16,18 +17,18 @@ amazon_rating: 4.4
 price: 59.98
 amazon_url: "https://www.amazon.com/dp/B0F59PVZX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rv6lYIFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional value at $59.98 with ergonomic features"
   - "Easy to assemble with clear instructions"
   - "Comfortable wide seat with good lumbar support"
   - "Smooth-rolling casters work on hard floors"
   - "Multiple color options to match decor"
-cons:
+cons: 
   - "Caster wheels can be difficult to insert initially"
   - "Not built for extremely long (8+ hour) sessions"
   - "Mesh back lacks cushioning for some users"
   - "Limited adjustability compared to premium chairs"
-faq:
+faq: 
   - question: "How easy is the NEO CHAIR to assemble?"
     answer: "Reviewers say assembly is straightforward — typically 15-20 minutes. Clear instructions are included, and an assembly video is available on Amazon."
   - question: "Does the NEO CHAIR work on hard floors?"
@@ -37,6 +38,7 @@ faq:
   - question: "Is the lumbar support effective?"
     answer: "Yes, the built-in lumbar support is a highlight. Reviewers say their posture has noticeably improved since switching to this chair for their home office."
 date: 2026-05-29
+
 ---
 
 # NEO CHAIR Ergonomic Office Chair Review: The $60 Chair That Actually Respects Your Back

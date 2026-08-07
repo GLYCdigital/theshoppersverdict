@@ -1,4 +1,5 @@
 ---
+
 title: "Weruva All Natural Grain-Free, Canned Wet Dog Food - Ten Rec"
 seo_title: "Weruva All Natural Grain-Free, Canned Wet Dog Food Review"
 meta_description: "Our full weruva all natural grain-free, canned wet dog food - ten rec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08L4PQS8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ubEfTu4VL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Weruva All Natural Grain-Free, Canned Wet Dog Food — Ten Recipes, One Honest Review

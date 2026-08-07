@@ -1,4 +1,5 @@
 ---
+
 title: "Purple Sweet Potato Powder 24oz (680g) - Natural Food Colori"
 seo_title: "Purple Sweet Potato Powder 24oz (680g) - Natural F Review"
 meta_description: "Our full purple sweet potato powder 24oz (680g) - natural food colori review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F52FSZGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PO9T+k0IL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: if you're looking for a natural way to get that Instagram-worthy purple hue without reaching for synthetic food dyes, this 24oz (680g) pouch of purple sweet potato powder deserves a hard look. It's a niche product, but for bakers, smoothie enthusiasts, and latte artists, it's a genuine workhorse.

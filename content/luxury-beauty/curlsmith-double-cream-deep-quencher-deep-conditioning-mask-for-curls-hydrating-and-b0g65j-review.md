@@ -1,23 +1,25 @@
 ---
+
 title: "CURLSMITH Double Cream Deep Quencher - Deep Conditioning Mas"
 seo_title: "CURLSMITH Double Cream Deep Quencher Review: Deep Hydration"
 meta_description: "CURLSMITH Double Cream Deep Quencher review: 4.4-star deep conditioner for curls. Our verdict on hydration, frizz control, and who should buy it."
 slug: "curlsmith-double-cream-deep-quencher-deep-conditioning-mask-for-curls-hydrating-and-b0g65j-review"
 image_alt: "CURLSMITH Double Cream Deep Quencher deep conditioning mask tub for curly hair"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G65JPGCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B05A7sasL._SL1500_.jpg"
-pros:  
+pros: 
   - "Delivers serious moisture without weighing down fine curls — a rare combo at this price"  
   - "Clean, fragrance-forward formula with shea butter and avocado oil that actually penetrates, not just coats"  
   - "Works as both a 5-minute quick fix and a 30-minute intensive treatment"  
-cons:  
+cons: 
   - "The thick cream texture can be stubborn to rinse out completely on low-porosity hair"  
   - "Scent is strong — a tropical coconut-vanilla blend that lingers for hours"
+
 ---
 
 **CURLSMITH Double Cream Deep Quencher Review: Is This $30 Mask Worth It for Thirsty Curls?**

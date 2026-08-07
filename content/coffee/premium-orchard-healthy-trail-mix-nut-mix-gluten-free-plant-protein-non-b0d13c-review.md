@@ -1,4 +1,5 @@
 ---
+
 title: "Premium Orchard - Healthy Trail Mix, Nut Mix - Gluten Free, "
 seo_title: "Premium Orchard - Healthy Trail Mix, Nut Mix - Glu Review"
 meta_description: "Our full premium orchard - healthy trail mix, nut mix - gluten free,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D13CMKVL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812kGd9q-OL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about trail mix: most bags are 60% peanuts and raisins with a few sad almonds tossed in for optics. Premium Orchard flips that ratio, and that's the first thing you'll notice when the bag lands in your hands.

@@ -1,4 +1,5 @@
 ---
+
 title: "CPDI Champion Pool Shock - Ready to Use Liquid Chlorine - Co"
 seo_title: "CPDI Champion Pool Shock Review: 12.5% Liquid Chlorine"
 meta_description: "CPDI Champion Pool Shock review: 12.5% liquid chlorine that clears green pools fast. See real buyer results, drawbacks, and if it beats granular shock."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07W6J2YX7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z+9nhzvzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12.5% sodium hypochlorite concentration — 25% stronger than typical 10% liquid bleach, so you use less per shock"
   - "No dissolving, no pre-mixing, no residue — pours straight from the jug into the skimmer or pool edge"
   - "Works fast on green/algae pools; most buyers report clear water within 24–48 hours"
-cons:
+cons: 
   - "Liquid chlorine degrades in heat and sunlight — store it in a cool, dark place or it loses potency fast"
   - "Jug has no built-in pouring spout; you'll likely need a funnel to avoid splashing"
   - "Heavy (about 17 lbs per case) and shipping can be slow in peak pool season"
+
 ---
 
 **Bottom line up front:** If you're tired of granular shock that leaves white dust on your pool floor and takes forever to dissolve, CPDI Champion Pool Shock is the liquid alternative that actually delivers. At 12.5% sodium hypochlorite, this is commercial-grade strength — not the watered-down 6% bleach from the grocery store. With a 4.5-star average across 225 ratings, the consensus is clear: this stuff nukes algae fast. But it has quirks you need to know before you buy.

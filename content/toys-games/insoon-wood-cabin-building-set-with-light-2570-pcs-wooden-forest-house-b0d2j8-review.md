@@ -1,4 +1,5 @@
 ---
+
 title: "INSOON Wood Cabin Building Set with Light, 2570 PCS Wooden F"
 seo_title: "INSOON Wood Cabin Building Set Review: 2570 PCS Kit"
 meta_description: "Honest INSOON Wood Cabin Building Set review: 2570 PCS, LED light, real wood bricks. Build quality, learning value, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2J85GRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PlZddexUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real wood bricks with visible grain — far more tactile and premium-feeling than plastic bricks"
   - "Warm LED lighting kit integrated into the build, not slapped on after"
   - "2570 pieces delivers a genuine multi-week project, not a weekend filler"
-cons:
+cons: 
   - "No numbered bags — sorting 2570 pieces by hand is a serious time investment"
   - "Wooden bricks require firmer pressure to lock; younger builders may struggle"
   - "Instructions are picture-only with no text callouts for tricky sub-assemblies"
+
 ---
 
 **Meta:** Honest INSOON Wood Cabin Building Set review: 2570 PCS, LED light, real wood bricks. Build quality, learning value, and who should buy it.

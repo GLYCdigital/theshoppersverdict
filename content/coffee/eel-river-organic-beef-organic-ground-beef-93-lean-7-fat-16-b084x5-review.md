@@ -1,4 +1,5 @@
 ---
+
 title: "Eel River Organic Beef Organic Ground Beef 93% Lean/7% Fat,"
 seo_title: "Eel River Organic Ground Beef Review: 93% Lean Worth It?"
 meta_description: "Eel River Organic Ground Beef 93/7 review: taste, texture, and value. Is this pasture-raised beef worth the price? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084X5YHF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91OGzexqLVL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently fresh, clean flavor with no gamey aftertaste — even at 93% lean"
   - "Packaged in 16-ounce vacuum-sealed chubs that freeze flat and thaw quickly"
   - "USDA Certified Organic and pasture-raised with no antibiotics or added hormones"
-cons:
+cons: 
   - "Price per pound runs 30-50% higher than conventional ground beef at most grocers"
   - "Some buyers report variable fat content between packages despite the 93/7 label"
   - "Chub packaging makes it difficult to portion without thawing the entire pound"
+
 ---
 
 You're staring at a $9 tube of ground beef when the store brand is sitting there at half the price. Is Eel River Organic actually worth the premium? After digging through 235 verified ratings and the spec sheet, here's the honest breakdown.

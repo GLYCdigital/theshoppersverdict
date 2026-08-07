@@ -1,4 +1,5 @@
 ---
+
 title: "Kodiak Cakes Power Cakes"
 seo_title: "Kodiak Cakes Power Cakes Review: Verdict | TSV"
 meta_description: "Our full kodiak cakes power cakes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CXYTFK4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-2P3E4WFL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.8-star pancake mix that actually tastes like a cheat meal**

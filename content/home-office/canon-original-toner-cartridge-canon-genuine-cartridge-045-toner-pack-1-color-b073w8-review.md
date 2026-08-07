@@ -1,4 +1,5 @@
 ---
+
 title: "Canon Original Toner Cartridge, Canon Genuine Cartridge 045 T"
 seo_title: "Canon 045 T Toner Review: Honest Look at Genuine Cartridge"
 meta_description: "Canon 045 T toner cartridge review: real-world performance, page yield, and compatibility. Is the genuine Canon worth the price? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B073W8JT63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lso-q2b5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canon formulation delivers consistent, smudge-free prints that match OEM quality expectations"
   - "Compatible with a wide range of Canon imageCLASS printers including MF445dw, MF449dw, and LBP233dw"
   - "Reliable chip communication prevents error codes and 'non-genuine cartridge' warnings that plague third-party options"
-cons:
+cons: 
   - "Premium pricing compared to compatible alternatives—you're paying for the Canon name and reliability"
   - "2,300-page yield is modest for high-volume offices; heavy users will need to stock multiple cartridges"
+
 ---
 
 ## The Genuine Cartridge Dilemma: When OEM Makes Sense

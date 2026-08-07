@@ -1,4 +1,5 @@
 ---
+
 title: "BHA Ceramic Resin Fiber Grinding and Sanding Discs, 5â€"
 seo_title: "BHA Ceramic Resin Fiber Discs Review: 5 inch  Grinding & Sanding"
 meta_description: "BHA 5-inch ceramic resin fiber discs review: aggressive grinding, long life, real-world performance tested. Find out if they beat flap discs."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08831V295/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513PjFUKEtL._SL1004_.jpg"
-pros:
+pros: 
   - "Ceramic grain cuts aggressively on steel and stainless without loading up, even at low grinder speeds"
   - "Resin fiber backing holds up to heavy pressure and edge work without delaminating or tearing"
   - "Significantly longer working life than comparable aluminum oxide discs for similar cost"
-cons:
+cons: 
   - "Not suited for wood or soft materials — the ceramic grain will gouge and burn rather than sand"
   - Requires a 5/8-11 backing pad (sold separately); the center hole is 7/8 inch " but won't fit standard 5 inch " hook-and-loop pads
+
 ---
 
 Let's be blunt about grinding discs: most of them are either cheap and useless or expensive and only marginally better. The BHA Ceramic Resin Fiber Discs sit in a sweet spot that's rare at this price point — they're aggressive enough for real metalwork but don't demand a second mortgage. Here's the honest breakdown after putting these through actual shop conditions.

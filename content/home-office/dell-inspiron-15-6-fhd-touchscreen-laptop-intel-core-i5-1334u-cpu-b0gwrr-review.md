@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Inspiron 15.6 inch  FHD Touchscreen Laptop | Intel Core i5-1 inch"
 seo_title: "Dell Inspiron 15.6 FHD Touchscreen Review (2026): Core i5 Value"
 meta_description: "Dell Inspiron 15.6 FHD touchscreen laptop review: Intel Core i5 performance, display quality, battery life, and honest tradeoffs for buyers."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWRRKFQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lOqqYIZeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bright 15.6-inch FHD touchscreen with solid color accuracy for the price point"
   - "Core i5-1334U delivers genuine multitasking power without fan noise under normal loads"
   - "Comfortable keyboard with backlighting and responsive precision touchpad"
-cons:
+cons: 
   - "Battery life is middling — expect 6-7 hours, not the all-day figure Dell advertises"
   - "Only 8GB of RAM soldered; no upgrade path beyond what you order at purchase"
   - "Plastic chassis flexes under pressure around the palm rest area"
+
 ---
 
 ## The Budget Touchscreen That Gets the Basics Right

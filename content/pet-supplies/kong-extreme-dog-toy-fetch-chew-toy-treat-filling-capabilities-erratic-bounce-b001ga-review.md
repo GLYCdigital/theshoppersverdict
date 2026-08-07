@@ -1,4 +1,5 @@
 ---
+
 title: "KONG Extreme Dog Toy - Fetch & Chew Toy - Treat-Filling Capa"
 seo_title: "KONG Extreme Dog Toy - Fetch & Chew Toy - Treat-Fi Review"
 meta_description: "Our full kong extreme dog toy - fetch & chew toy - treat-filling capa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B001GAQ9OY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616UIXeYlbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a power chewer, you know the drill: you buy a toy, and it’s shredded confetti within 20 minutes. The KONG Extreme is marketed as the solution for those "black belt" chewers. But at a premium price, does it actually hold up, or is it just another expensive chew toy destined for the trash? Here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GWX18V-8N 18V X-LOCK Brushless 4-1/2 In. Angle Grinder"
 seo_title: "BOSCH GWX18V-8N X-LOCK Angle Grinder Review (2026)"
 meta_description: "BOSCH GWX18V-8N 18V X-LOCK brushless angle grinder review: power, runtime, and ergonomics tested. See if this cordless 4-1/2” grinder is worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLJ553WT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617cfIauVuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "X-LOCK system swaps discs in about one second with no wrench — real time-saver on repetitive jobs"
   - "Brushless motor delivers genuinely corded-like power at 8,500 RPM with excellent thermal endurance"
   - "Compact 11.2-inch length and 3.5-pound weight (bare tool) reduce fatigue during extended overhead work"
-cons:
+cons: 
   - "X-LOCK discs cost more than standard 7/8-inch arbors and are harder to find in local hardware stores"
   - "No brake — spin-down time after trigger release feels long and adds seconds to every cut"
   - "Bare tool only — you'll need to factor in a battery and charger if you're not already in the 18V ecosystem"
+
 ---
 
 Let's cut to the chase: the BOSCH GWX18V-8N is one of the few cordless grinders that doesn't make you feel like you're compromising. With 8,500 RPM from a brushless motor and the proprietary X-LOCK tool-free disc change system, this 4-1/2-inch grinder targets pros who need speed and tradespeople already invested in Bosch's 18V platform. But it's not without quirks — and you need to know them before you click buy.

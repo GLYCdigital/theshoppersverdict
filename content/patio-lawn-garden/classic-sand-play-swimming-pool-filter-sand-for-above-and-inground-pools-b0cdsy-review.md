@@ -1,4 +1,5 @@
 ---
+
 title: "CLASSIC SAND & PLAY Swimming Pool Filter Sand for above and"
 seo_title: "CLASSIC SAND & PLAY Filter Sand Review: 4.6 Stars"
 meta_description: "Honest CLASSIC SAND & PLAY pool filter sand review: Does 50 lbs of #20 silica deliver? Real buyer feedback, pros, cons, and verdict for above/inground pools."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDSY1Y55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612Mzat3uTL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Consistent #20 grade silica with proper 0.45–0.55 mm grain size — filters down to 20 microns without clumping"
   - "Pre-washed and dried; minimal dust cloud when pouring, unlike cheaper play sand alternatives"
   - "One 50 lb bag covers most above-ground filters (typically 100–300 lb systems) with enough left for partial top-offs"
-cons:
+cons: 
   - "No tear-away pour spout — you'll need a scoop or funnel; the bag is stiff and awkward to handle solo"
   - "Some buyers report occasional pebbles or debris in the batch, so a quick visual inspection before loading is worth it"
+
 ---
 
 Let's cut through the marketing. Pool filter sand is basically glorified silica — the question is whether CLASSIC SAND & PLAY gets the grade right. After digging through 229 ratings and the spec sheet, here's the real picture.

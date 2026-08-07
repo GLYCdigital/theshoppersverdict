@@ -1,4 +1,5 @@
 ---
+
 title: "Agfabric Standard Insect Screen & Garden Netting Against Bug"
 seo_title: "Agfabric Insect Screen & Garden Netting Review (2026)"
 meta_description: "Agfabric insect screen & garden netting review: Does it stop bugs, birds, and squirrels? Real pros, cons, and who should buy this 4.6-star mesh."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPCG7FFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vTEcHbT8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fine 0.8mm mesh blocks flea beetles, cabbage worms, and aphids while still passing 85% sunlight"
   - "Reinforced edges and double-stitched hems hold up to wind and repeated handling without fraying"
   - "Lightweight enough to drape directly on plants without support hoops, yet durable for multi-season use"
-cons:
+cons: 
   - "No included stakes or clips — you'll need to buy ground pins or bricks to secure edges"
   - "Fine mesh also blocks some larger pollinators, so remove it during flowering if you need bees"
+
 ---
 
 **If you've lost one too many cabbage heads to flea beetles or watched birds strip your blueberry bush in a morning, this netting is the cheap insurance you've been looking for.** The Agfabric Standard Insect Screen sits in that sweet spot: fine enough to stop the tiny pests that chew through larger mesh, but breathable and light-transmitting enough that your plants won't sulk underneath it.

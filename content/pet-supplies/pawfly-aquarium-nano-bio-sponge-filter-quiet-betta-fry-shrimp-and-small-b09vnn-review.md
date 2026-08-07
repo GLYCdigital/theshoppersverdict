@@ -1,4 +1,5 @@
 ---
+
 title: "Pawfly Aquarium Nano Bio Sponge Filter Quiet Betta Fry Shrim"
 seo_title: "Pawfly Aquarium Nano Bio Sponge Filter Quiet Betta Review"
 meta_description: "Our full pawfly aquarium nano bio sponge filter quiet betta fry shrim review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09VNN273S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A20pkWvSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut straight to it: if you’re keeping bettas, shrimp, or any fry, you already know the struggle. Standard hang-on-back filters turn your tank into a blender. The Pawfly Nano Bio Sponge Filter exists to solve exactly that problem — and for the most part, it does.

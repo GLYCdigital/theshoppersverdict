@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Poop Bags-150 Counts with Leash Dispenser (10 Rolls), Bi"
 seo_title: "Dog Poop Bags 150 Counts Review: Leash Dispenser + Biodegradable"
 meta_description: "Honest review of 150-count dog poop bags with leash dispenser. Are they leak-proof? Do they tear? We tested durability, value, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4MZXYF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KMCEl0DCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Each roll is individually wrapped, so you can stash extras in car doors, jacket pockets, and backpack compartments without the whole box going everywhere"
   - "At roughly 15 bags per roll, the 10-roll count actually delivers the full 150 bags — no inflated packaging math"
   - "The leash-attached dispenser clips on and stays put; it doesn't spin around the handle or pop open mid-walk"
-cons:
+cons: 
   - "Bags are on the thinner side — around 0.8 mil — so if your dog has particularly sharp or large droppings, you'll want to double-bag"
   - "The 'biodegradable' claim requires specific composting conditions; in a standard landfill, they'll break down slower than advertised"
+
 ---
 
 Let's be honest: nobody *wants* to buy poop bags. You buy them because you have to, which means the only things that matter are — do they tear, do they leak, and do you run out at the worst possible moment?

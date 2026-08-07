@@ -1,4 +1,5 @@
 ---
+
 title: "Indomie Mi Goreng Instant Stir Fry Noodles, Halal Certified,"
 seo_title: "Indomie Mi Goreng Instant Stir Fry Noodles, Halal  Review"
 meta_description: "Our full indomie mi goreng instant stir fry noodles, halal certified, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDRBQG4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qXeHRITvL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Indomie Mi Goreng Review: The Cult-Favorite Instant Noodle, Tested

@@ -1,4 +1,5 @@
 ---
+
 title: "White Paper Punch"
 seo_title: "White Paper Punch Review: Verdict | TSV"
 meta_description: "Our full white paper punch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7M281GD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xbgXx-IhL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some office tools are so forgettable you don't realize they're bad until you're wrestling with a crimped hole and torn paper. The White Paper Punch is not that tool. This is the rare hole punch that disappears into your workflow because it just works — no jamming, no wobbling, no misaligned holes ruining a stack of documents you needed five minutes ago.

@@ -1,4 +1,5 @@
 ---
+
 title: "ELF lip stain glossy long wear liquid"
 seo_title: "ELF Lip Stain Glossy Long Wear Review: Is It Worth It?"
 meta_description: "Honest ELF lip stain glossy long wear liquid review: coverage, wear time, shine, and whether this budget-friendly option delivers luxury results."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D4J1NSCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vk5oJ9MXC._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely long-lasting color that survives meals with minimal touch-ups needed"
   - "Glossy finish that doesn't dry out lips — feels comfortable through hours of wear"
   - "One-coat pigment is impressive for a stain; no patchiness on application"
-cons:
+cons: 
   - "Shade range skews limited — deeper skin tones may struggle to find a match"
   - "Gloss wears off faster than the stain, leaving a matte finish after a few hours"
+
 ---
 
 **The 4.0-star reality check: Is ELF's glossy long-wear lip stain actually worth your money?**

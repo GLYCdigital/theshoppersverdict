@@ -1,4 +1,5 @@
 ---
+
 title: "Cross Refill Dual Pack Blue Ink"
 seo_title: "Cross Refill Dual Pack Blue Ink Review: Worth It? (2026)"
 meta_description: "Cross Refill Dual Pack Blue Ink review: genuine Cross quality, smooth writing, and real-world value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004D2QGAY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nuA+IpDIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Cross ink flow — consistent, skip-free writing from first stroke to last"
   - "Dual pack means you get a spare; practical for daily carry pens that run dry mid-meeting"
   - "Blue ink is a true, professional medium-blue — not washed out, not too dark"
-cons:
+cons: 
   - "Price per refill is higher than generic alternatives; you pay for the Cross name"
   - "Only fits Cross pens — check compatibility before buying, it won't work in most other brands"
+
 ---
 
 You've got a Cross pen that's run dry, and you're staring at a two-pack of refills wondering if the premium price is justified. Here's the short answer: yes, but only if you actually own a Cross pen. Let me explain why this specific refill earns its 4.7-star rating.

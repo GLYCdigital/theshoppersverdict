@@ -1,4 +1,5 @@
 ---
+
 title: "Aeropress Go Review"
 seo_title: "Aeropress Go Review (2026): Is It Worth $40? | Shopper's Verdict"
 meta_description: "Aeropress Go review: We tested the portable coffee press. See how it brews, what's in the box, and if it beats the original for travel. Honest verdict."
@@ -11,14 +12,15 @@ review_count: 12876
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07YVL8SF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51M014zDVrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Everything nests inside the included mug — the entire kit is roughly the size of a large travel tumbler, so it disappears into a carry-on"
   - "The mug doubles as the brewing chamber and drinking vessel, eliminating the need to pack extra cups or a separate carafe"
   - "The included scoop doubles as a funnel, and the stirrer snaps into the lid — no loose accessories to lose at a campsite"
-cons:
+cons: 
   - "The included mug is smaller than the standard Aeropress — you get about 8 oz of coffee per brew, not the 10 oz the original produces"
   - "The lid is not leakproof when the press is stored inverted, so you'll want to pack it upright or risk coffee grounds in your bag"
   - "The press body is slightly shorter than the original, which means you lose a little capacity for concentrated brews"
+
 ---
 
 Let me be blunt: if you’re a coffee snob who refuses to drink hotel lobby sludge, the Aeropress Go is the single best $40 you’ll spend this year. I’ve taken it on three flights, two camping trips, and one very stressful week in a conference room with only a kettle for company. It delivered every time.

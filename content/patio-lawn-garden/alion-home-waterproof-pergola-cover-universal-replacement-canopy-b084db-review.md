@@ -1,4 +1,5 @@
 ---
+
 title: "Alion Home Waterproof Pergola Cover - Universal Replacement"
 seo_title: "Alion Home Pergola Cover Review: Waterproof & Universal Fit"
 meta_description: "Honest Alion Home Waterproof Pergola Cover review: durability, fit, waterproofing, and real buyer feedback. Is this universal replacement worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B084DBZ5PW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TSRsngqpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof 600D Oxford fabric with welded seams — no drip-through during heavy rain"
   - "Universal fit works on pergolas 10x10 to 10x13, with multiple grommet and strap options for tensioning"
   - "Full UV protection with a UPF 50+ rating that keeps the seating area noticeably cooler"
-cons:
+cons: 
   - "No pole or frame included — this is strictly a canopy replacement, which catches some buyers off guard"
   - "Color fades noticeably after a full season in direct sun, especially the darker shades"
   - "Wind resistance is average; without extra bungee tie-downs, strong gusts will lift the corners"
+
 ---
 
 You've spent serious money on a pergola, and the original canopy has turned into a sagging, sun-rotted mess. Before you rip the whole structure down, here's the smarter play: the Alion Home Waterproof Pergola Cover. This is a universal replacement canopy that bolts onto your existing frame, and at 4.0 stars from 200+ ratings, it's clearly working for a lot of people. But is it right for your setup? Let's dig in.

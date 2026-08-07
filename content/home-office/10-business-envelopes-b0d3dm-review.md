@@ -1,4 +1,5 @@
 ---
+
 title: "#10 Business Envelopes"
 seo_title: "#10 Business Envelopes Review: Are They Worth It? (2026)"
 meta_description: "Read our honest #10 Business Envelopes review. We tested durability, gum seal, and print quality. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D3DMSCS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618MnlfM9-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 24lb paper that holds up in mail sorting machines without jamming or tearing"
   - "Moisture-activated seal bonds firmly after one pass — no re-wetting needed"
   - "Clean, bright white surface takes laser and inkjet printing without smudging"
-cons:
+cons: 
   - "Packaging is flimsy — boxes can arrive crushed, causing bent corners on edge envelopes"
   - "No security tint or pattern inside, so contents are visible under bright light"
+
 ---
 
 You'd think an envelope is an envelope. Then you run 200 invoices through a laser printer and half of them jam, or the flap curls back after sealing, and suddenly you care a lot more about paper grain and gum adhesion than you ever expected. That's where this #10 business envelope earns its keep.

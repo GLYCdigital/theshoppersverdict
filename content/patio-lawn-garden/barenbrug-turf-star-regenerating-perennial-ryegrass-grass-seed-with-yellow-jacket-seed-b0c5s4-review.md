@@ -1,4 +1,5 @@
 ---
+
 title: "Barenbrug Turf Star Regenerating Perennial Ryegrass Grass Se"
 seo_title: "Barenbrug Turf Star Ryegrass Seed Review: Does It Work?"
 meta_description: "Honest Barenbrug Turf Star Regenerating Perennial Ryegrass review. We test germination, durability, and value. Is this the best grass seed for high-traffic lawns?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5S41QLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dPFX1QEuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Yellow Jacket seed coating includes fertilizer and root stimulant, giving new grass a measurable head start"
   - "Regenerating technology fills in thin patches without overseeding, recovering from dog urine and heavy foot traffic"
   - "High germination rate (95%+) with fast establishment in 7-10 days when kept consistently moist"
-cons:
+cons: 
   - "Premium price point is significantly higher than standard ryegrass blends at big-box stores"
   - "Requires aggressive watering schedule for first two weeks—miss a day and germination suffers noticeably"
   - "Perennial ryegrass still goes dormant in extreme summer heat; not a full-sun Southern lawn solution"
+
 ---
 
 **Is this the grass seed that actually fixes a wrecked lawn, or just another overpriced bag of promises?**

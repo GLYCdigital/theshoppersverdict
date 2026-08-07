@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Old Spice Shampoo For Men With 21 9 Oz Each Twin P"
 seo_title: "Old Spice Old Spice Shampoo For Men With 21 9 Oz E Review"
 meta_description: "Our full old spice old spice shampoo for men with 21 9 oz each twin p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXBM5284/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GpA6RvRBL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some shampoos for men are all fragrance and no function. This one actually cleans. I've put the Old Spice twin pack through real-world use — gym days, greasy hair emergencies, and everything between — and here's the honest breakdown before you add it to your cart.

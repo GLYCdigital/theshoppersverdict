@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Jamaican Black Castor Oil Treatment Masque Jama"
 seo_title: "SheaMoisture Jamaican Black Castor Oil Treatment M Review"
 meta_description: "Our full sheamoisture jamaican black castor oil treatment masque jama review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB1V2CPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TqUdzq4eL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got hair that laughs at regular conditioners, SheaMoisture's Jamaican Black Castor Oil Treatment Masque is the heavyweight you've been circling. With a 4.6-star average across 229 ratings, this isn't a quiet little hair mask — it's a treatment that makes promises and mostly keeps them. But it demands something from you in return: time, patience, and a tolerance for mint that could clear a sinus cavity.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEJUN 2026 New Upgraded GLX-CTL-RITE Control Unit Replacemen"
 seo_title: "LEJUN 2026 New Upgraded GLX-CTL-RITE Control Unit  Review"
 meta_description: "Our full lejun 2026 new upgraded glx-ctl-rite control unit replacemen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CYSPXPM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sl+zJq7CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Hayward pool control board just died, you're staring at a $300+ OEM replacement quote from a pool tech — or a $100-ish gamble on this LEJUN unit. Here's what 200 buyers found when they rolled the dice.

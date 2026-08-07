@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DWE6423K Variable Speed Random Orbit Sander, 5 inch "
 seo_title: "DEWALT DWE6423K Sander Review: Best 5 inch  Random Orbit?"
 meta_description: "Read our honest DEWALT DWE6423K random orbit sander review. Real specs, performance, dust collection, and buyer feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07SH7QJH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7100SHWImzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hook-and-loop pad holds paper firmly with no slipping, even at high RPM during aggressive sanding"
   - "Variable speed dial (8,000–12,000 OPM) gives genuine control for everything from paint stripping to fine finishing"
   - "Dust collection is genuinely effective — the sealed system with the included canister catches most fine particles"
-cons:
+cons: 
   - "The hard plastic dust canister clicks on but feels slightly flimsy; replace it with a shop vac hose for serious work"
   - "At 3.4 pounds it's not the lightest sander in its class; your forearm will feel it after a full hour of overhead work"
   - "No on-board paper punch; you'll need to align holes manually or buy pre-punched discs"
+
 ---
 
 The DEWALT DWE6423K is the sander that keeps showing up in "best of" lists, and after spending time with it, I get why. With a 4.8-star average from 240+ ratings, it's clearly doing something right. But the real question is whether it earns the premium over budget options. Here's the honest breakdown.

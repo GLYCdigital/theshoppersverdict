@@ -1,4 +1,5 @@
 ---
+
 title: "Homall Loveseat Love Seats"
 seo_title: "Homall Loveseat Love Seats Review: Verdict | TSV"
 meta_description: "Our full homall loveseat love seats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0G76BSYD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lAO2oiunL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Homall Loveseat is the Ikea Lack table of seating: it does exactly what it costs, nothing more, nothing less.** At a price point that undercuts most big-box retailers by hundreds, this two-seater tempts anyone furnishing a first apartment or a home office. But a 3.7-star average across 185 ratings tells you the experience is more "you get what you pay for" than "hidden gem." Here's the breakdown before you hit buy.

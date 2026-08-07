@@ -1,24 +1,26 @@
 ---
+
 title: "Fluest Queen Bed Frame with Headboard & Footboard, Bed Frame"
 seo_title: "Fluest Queen Bed Frame Review: Headboard & Footboard (2026)"
 meta_description: "Honest Fluest queen bed frame review: headboard, footboard, and sturdy steel build. See real pros, cons, and who should buy it before you spend."
 slug: "fluest-queen-bed-frame-with-headboard-footboard-bed-frame-with-built-in-b0f9wq-review"
 image_alt: "Fluest queen bed frame with upholstered headboard and footboard in a modern bedroom setting"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F9WQHLY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Zhum3wL-L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tool-free assembly in under 30 minutes — no wrench hunting required"  
   - "Solid steel frame rated for 800 lbs; doesn't flex or squeak when you roll over"  
   - "Tall 45-inch headboard with padded upholstery makes a strong visual anchor"  
-cons:  
+cons: 
   - "Footboard is purely decorative — it's low and offers zero mattress retention"  
   - "Upholstery fabric is thin; snags easily if you drag the frame across flooring"  
   - "No center support leg included, despite the 800-lb weight claim"
+
 ---
 
 You don't buy a bed frame every week, so when you do, the details matter. The Fluest Queen Bed Frame with Headboard & Footboard sits in that crowded mid-range slot — under $200 on a good day, promising hotel-room looks without the hotel price tag. Is it the foundation your mattress deserves, or a compromise you'll regret by month three? I dug through the specs, the 195 ratings, and the real customer gripes to give you the straight answer.  

@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Folding Portable Bar Table, Tradeshow Podium Table for"
 seo_title: "VEVOR Folding Portable Bar Table, Tradeshow Podium Review"
 meta_description: "Our full vevor folding portable bar table, tradeshow podium table for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTZNTVJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Jbw8WSH8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Tradeshow Lifesaver You Didn't Know You Needed

@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Scooter Peak 1000W 28MPH & 20-40KM, 12.5Ah, 10 inch  Tir"
 seo_title: "Peak 1000W Electric Scooter Review: 28MPH Speed Test"
 meta_description: "Honest Peak 1000W electric scooter review: 28MPH top speed, 12.5Ah battery range, 10-inch tires. Real rider feedback on build quality, hills, and value."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D13TG4L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K9CB24QmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 28MPH top speed on flat ground, verified by multiple owner speedometer tests"
   - "10-inch pneumatic tires soak up cracks and uneven pavement better than 8.5-inch rivals"
   - "Folding stem locks securely with dual latches — no wobble at full speed"
-cons:
+cons: 
   - "Rated 20-40KM range is optimistic; expect 15-18 miles in real-world mixed riding"
   - "No suspension means rough trails will rattle your wrists and ankles"
   - "At 40+ pounds, carrying it upstairs is a two-hand, awkward chore"
+
 ---
 
 Let's cut through the spec-sheet hype. The Peak 1000W scooter promises 28MPH and a 20-40KM range for a price that undercuts most dual-motor commuters. After combing through 204 Amazon ratings and owner reports, here's what actually matters.

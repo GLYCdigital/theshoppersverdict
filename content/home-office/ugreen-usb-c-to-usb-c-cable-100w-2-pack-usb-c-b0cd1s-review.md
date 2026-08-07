@@ -1,4 +1,5 @@
 ---
+
 title: "UGREEN USB C to USB C Cable, 100W 2-Pack USB C Charger Cable"
 seo_title: "UGREEN USB C to USB C Cable, 100W 2-Pack USB C Cha Review"
 meta_description: "Our full ugreen usb c to usb c cable, 100w 2-pack usb c charger cable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CD1S3C6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vr-Fu4rHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a laptop die mid-presentation because the "100W" cable you bought off a random listing actually topped out at 60W, you understand why I don't take charging cables at face value. The UGREEN 100W 2-pack has been sitting on my desk for three weeks now, powering a MacBook Pro 16", a Dell XPS 13, and a Nintendo Switch OLED through a mix of wall chargers and power banks. Here’s what survived the testing and what didn't.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hyperkin Guitar Controller for Wii"
 seo_title: "Hyperkin Wii Guitar Controller Review: Worth It in 2026?"
 meta_description: "Honest Hyperkin Guitar Controller for Wii review: build quality, gameplay accuracy, and whether it's worth buying for Guitar Hero or Rock Band in 2026."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FBRHXVFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZbTvJnD8L._SL1500_.jpg"
-pros:
+pros: 
   - "Plug-and-play Wii Remote compatibility — no sensor bar or sync headaches"
   - "Solid strum bar with tactile click; holds up to aggressive play better than expected"
   - "Full-size body with comfortable fret button spacing for adult hands"
-cons:
+cons: 
   - "Fret buttons feel mushy compared to first-party Nintendo peripherals"
   - "Whammy bar has noticeable dead zone before registering input"
   - "Wii Remote sits exposed in the back slot — easy to knock loose mid-song"
+
 ---
 
 Let's be blunt: the market for Wii guitar controllers in 2026 is a graveyard of brittle plastic and dead batteries. Original Nintendo and third-party Guitar Hero controllers are either priced like collectibles or crumbling from years of sweat and hammering. That's where the Hyperkin Guitar Controller enters — a new-old-stock option that promises the plastic-fantastic experience without the eBay gamble.

@@ -1,4 +1,5 @@
 ---
+
 title: "QILLOWAY Outdoor Wicker Cushion Set of 5 - Waterproof Fade R"
 seo_title: "QILLOWAY Outdoor Wicker Cushion Set of 5 - Waterpr Review"
 meta_description: "Our full qilloway outdoor wicker cushion set of 5 - waterproof fade r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07R4Z99DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oIASwU3SL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $78 question: Can a five-piece cushion set under $80 actually survive a brutal outdoor season?** Short answer: mostly yes, with a few compromises you need to know about before you hit "add to cart."

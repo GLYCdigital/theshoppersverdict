@@ -1,4 +1,5 @@
 ---
+
 title: "Douglas Harko Black German Shepherd Dog Plush Stuffed Animal"
 seo_title: "Douglas Harko German Shepherd Plush Review: Worth It?"
 meta_description: "Douglas Harko Black German Shepherd plush review: lifelike detail, soft fur, sturdy build. See pros, cons, and who should buy this 4.7-star stuffed dog."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B086H3SMLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61666PHxCgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lifelike airbrushed coloring and realistic facial features that capture the breed's alert expression"
   - "High-quality faux fur with a soft, plush texture that holds up to repeated hugging and play"
   - "Sturdy, well-stuffed body that sits upright on its own — no floppy, bean-bag collapse"
-cons:
+cons: 
   - "Black fur shows lint, pet hair, and dust quickly — needs regular brushing to stay presentable"
   - "Not machine washable; spot-cleaning only, which is a hassle for a kids' toy"
   - "Eyes are hard plastic, so it's not suitable for very young children under 3 years"
+
 ---
 
 If you've ever owned a German Shepherd, you know they're not just dogs — they're opinionated, loyal, and somehow always in the middle of whatever you're doing. The Douglas Harko Black German Shepherd plush captures that essence in stuffed-animal form, and it's earned a solid 4.7-star average across 235 Amazon ratings for good reason.

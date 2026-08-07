@@ -1,4 +1,5 @@
 ---
+
 title: "TAZO Organic Green Tea, Green Ginger"
 seo_title: "TAZO Organic Green Tea, Green Ginger Review: Verdict | TS"
 meta_description: "Our full tazo organic green tea, green ginger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZ41FYWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ALVocpmcL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most supermarket green teas taste like grass clippings soaked in warm water. Tazo's Green Ginger breaks that mold — but not without a few compromises. Here's the full breakdown after putting this blend through real testing.

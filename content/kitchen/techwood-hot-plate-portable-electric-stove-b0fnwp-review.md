@@ -1,4 +1,5 @@
 ---
+
 title: "Techwood Hot Plate Portable Electric Stove"
 seo_title: "Techwood Hot Plate Portable Electric Stove Review: Verdic"
 meta_description: "Our full techwood hot plate portable electric stove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FNWPHGDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LPenk2gKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Techwood Hot Plate isn't trying to be your full kitchen replacement. It's trying to be the thing you pull out when your stove dies, when you're in a dorm room, or when you need a second burner for Thanksgiving. At 4.3 stars across 215 ratings, it's clearly doing something right. Here's what that something is — and where it falls short.

@@ -1,4 +1,5 @@
 ---
+
 title: "NewYork Cables Cat6a Riser Cable 1000ft - Certified 100% Sol"
 seo_title: "NewYork Cables Cat6a Riser Cable 1000ft - Certifie Review"
 meta_description: "Our full newyork cables cat6a riser cable 1000ft - certified 100% sol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2M882Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817kS3fyJVL._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running a 10-gig network through walls, ceilings, or between floors, the cable you choose matters more than the switch you plug it into. Cheap CCA (copper-clad aluminum) wire will give you headaches — attenuation, crosstalk, and returns down the road. The NewYork Cables Cat6a Riser 1000ft spool is built to avoid those problems, and with 225 ratings averaging 4.5 stars, it's earned a reputation. Let me tell you if it's the right spool for your project.

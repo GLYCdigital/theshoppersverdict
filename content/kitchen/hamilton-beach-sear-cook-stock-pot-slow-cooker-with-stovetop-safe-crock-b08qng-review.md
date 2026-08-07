@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Sear & Cook Stock Pot Slow Cooker with Stovet"
 seo_title: "Hamilton Beach Sear & Cook Stock Pot Slow Cooker w Review"
 meta_description: "Our full hamilton beach sear & cook stock pot slow cooker with stovet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QNGTC1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bPXomla8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the standard slow cooker workflow is broken. You sear meat in a skillet, deglaze, transfer everything to the crock, then wash two greasy pans. The Hamilton Beach Sear & Cook Stock Pot eliminates that dance by making the insert itself stovetop-safe. It's a genuinely useful upgrade — with a few tradeoffs you should know about before buying.

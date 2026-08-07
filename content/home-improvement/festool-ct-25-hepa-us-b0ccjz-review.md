@@ -1,4 +1,5 @@
 ---
+
 title: "Festool CT 25 HEPA US"
 seo_title: "Festool CT 25 HEPA US Review: Pro Dust Extraction"
 meta_description: "Read our Festool CT 25 HEPA US review — 4.7/5 rated. Real-world dust extraction, build quality, and system compatibility tested. Is it worth the premium?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCJZRWNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wz62fDB0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "HEPA filtration with 99.97% efficiency at 0.3 microns — genuinely clean air, not just dust collection"
   - "Automatic tool-start function via built-in outlet responds in milliseconds, no missed dust"
   - "Compact footprint (25L tank) fits under most workbenches while still handling full renovation jobs"
-cons:
+cons: 
   - "Premium price — expect to pay 2–3x comparable non-HEPA shop vacuums"
   - "Proprietary hose and accessory system locks you into Festool's ecosystem"
   - "Filter cleaning requires the optional (and pricey) ND-22 cleaning kit for best results"
+
 ---
 
 # Festool CT 25 HEPA US Review: The Gold Standard in Dust Extraction — Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Wicked Glinda, Elphaba & Nessarose at Shiz University B"
 seo_title: "LEGO Wicked Glinda, Elphaba & Nessarose at Shiz Un Review"
 meta_description: "Our full lego wicked glinda, elphaba & nessarose at shiz university b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYM22VT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ejqtDplHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you're a Wicked fan, you've already made peace with the fact that LEGO was going to make you choose between your wallet and your love for Oz. The **LEGO Wicked Glinda, Elphaba & Nessarose at Shiz University** set (item 75679) is the first proper brick-built homage to the Broadway phenomenon, and it mostly delivers — but not without a few compromises.

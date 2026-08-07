@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Holiday Adventure Camper Van Building Toy Set - Va"
 seo_title: "LEGO City Holiday Adventure Camper Van Building To Review"
 meta_description: "Our full lego city holiday adventure camper van building toy set - va review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ19FVRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wcde9bNOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO City Holiday Adventure Camper Van** has been sitting at a 4.9-star average across 245 ratings, and after digging into what buyers actually say, the praise isn't just hype. This isn't another throwaway City vehicle — it's a compact playset that packs surprising detail into a mid-range build.

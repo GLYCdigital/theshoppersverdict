@@ -1,4 +1,5 @@
 ---
+
 title: "SUPCASE Charging Dock for Nintendo Switch 2 Joy Con, [Suppor"
 seo_title: "SUPCASE Charging Dock for Nintendo Switch 2 Joy Co Review"
 meta_description: "Our full supcase charging dock for nintendo switch 2 joy con, [suppor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWMP82FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616vmbBx8FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you own a Nintendo Switch 2 and play in handheld mode more than docked, the SUPCASE Charging Dock is the accessory you didn't know you needed — until your right Joy-Con dies mid-boss-fight. At 4.8 stars across 240 ratings, it's clearly resonating with owners. But it's not perfect. Here's the full picture.

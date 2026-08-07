@@ -1,4 +1,5 @@
 ---
+
 title: "Hapcrea Outdoor Table Lamp for Patio Decor"
 seo_title: "Hapcrea Outdoor Table Lamp for Patio Decor Review: Verdic"
 meta_description: "Our full hapcrea outdoor table lamp for patio decor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZHLVNZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fA0KAPfFL._AC_SL1363_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $30 patio lamp that actually looks like a lamp, not a glow stick**

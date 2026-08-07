@@ -1,4 +1,5 @@
 ---
+
 title: "ALUMANI Dog Door for Wall, Steel Frame, Coffee"
 seo_title: "ALUMANI Dog Door for Wall Review: Steel Frame, Coffee"
 meta_description: "ALUMANI wall-mounted dog door with steel frame: durable, secure, and stylish. Read our honest review of build quality, installation, and real-world performance."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4DXLSJJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JnrK4HvpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame resists warping and cracking — a major upgrade over flimsy plastic doors that fail in extreme heat or cold"
   - "Coffee finish blends naturally with wood tones and painted walls, not the usual stark white or black"
   - "Insulated flap with magnetic seal keeps drafts and weather out better than budget alternatives"
-cons:
+cons: 
   - "Installation requires a circular saw or jigsaw — this is not a drop-in replacement for existing dog doors"
   - "No included tunnel/sleeve for thicker walls, so you may need to buy the extension kit separately for walls over 5 inches deep"
   - "Customers with very strong or large dogs report needing to reinforce the flap's magnetic hold over time"
+
 ---
 
 ## This Dog Door Actually Looks Like Part of Your Wall

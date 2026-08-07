@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama ZR02-124A Door Levers"
 seo_title: "Asidrama ZR02-124A Door Levers Review: Worth It?"
 meta_description: "Asidrama ZR02-124A door levers reviewed: 4.6/5 from 229 buyers. Solid build, easy install, but check the finish. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWF3ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51odBn0H5DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a smooth, premium lever action — no wobble or slop at the handle"
   - "Reversible latch and straightforward 2-screw install; most buyers report completing a door in under 20 minutes"
   - "Comes with both keyed entry and passage functions in one kit, covering exterior and interior doors with a matched look"
-cons:
+cons: 
   - "Finish is a fingerprint magnet — oil-rubbed bronze and matte black show smudges quickly, requiring frequent wiping"
   - "Strike plate screws are soft; a few users report stripping them if using a power driver without care"
   - "No smart lock or keypad option in this model line — if you want keyless entry, look elsewhere"
+
 ---
 
 Door hardware is one of those things you don't think about until you're standing in a hallway with a handful of mismatched knobs, a deadbolt that sticks, and a growing sense of regret. The Asidrama ZR02-124A door levers are designed to solve that specific problem — and based on 229 ratings averaging 4.6 out of 5, they're doing it well for most people. But let's dig past the aggregate score and figure out if these are the right levers for your doors.

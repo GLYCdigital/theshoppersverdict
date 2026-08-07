@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Homestyle Recipe Puppy"
 seo_title: "Blue Buffalo Homestyle Recipe Puppy Review: Real Meat Wet Food"
 meta_description: "Blue Buffalo Homestyle Recipe Puppy wet food review: ingredients, picky eater results, portion guidance, and honest downsides from 229 ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQY4R878/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y70rummiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deboned chicken is the first ingredient; no chicken by-product meal or corn/wheat/soy fillers"
   - "Tear-open trays portion out cleanly without needing a can opener or fridge storage for leftovers"
   - "High moisture content (78%) supports hydration — helpful for puppies that don't drink enough water"
-cons:
+cons: 
   - "Pricier per ounce than most grocery-store puppy foods; consistent feeding adds up quickly"
   - "Some puppies experience loose stools during transition — requires a slow 7-10 day blend"
   - "Tray packaging feels wasteful compared to recyclable cans; check your local recycling rules"
+
 ---
 
 If you're raising a puppy, you already know the drill: those first months are a minefield of chewed shoes, midnight potty breaks, and a shocking number of decisions about kibble, training treats, and wet food. The Blue Buffalo Homestyle Recipe Puppy trays have earned a solid 4.6 out of 5 from 229 Amazon ratings — but is this the right wet food for your specific pup? Here's what I found after digging into the ingredients, the feeding experience, and what actual buyers are saying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Amz-7Adstbf Modern Metal Bed Frame"
 seo_title: "Amazon Basics Metal Bed Frame Review: Honest Verdict"
 meta_description: "Amazon Basics Amz-7Adstbf metal bed frame review: build quality, noise, assembly, and value. See if this 4.5-star frame fits your bedroom."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6VN5PPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616OVv8s28L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly in under 20 minutes — no wrench or screwdriver needed"
   - "Reinforced center support bar prevents the sagging common at this price point"
   - "Under-bed clearance of roughly 12 inches fits standard storage bins"
-cons:
+cons: 
   - "No headboard mounting brackets — the frame is headboard-incompatible as shipped"
   - "Metal-on-metal contact points can squeak if you don't tighten everything fully"
   - "Leg caps are thin plastic; they can crack if you drag the frame across the floor"
+
 ---
 
 Let's cut through the noise: a bed frame under $100 usually means flimsy crossbars, wobbly legs, and a mattress that slowly migrates toward the floor. The Amazon Basics Amz-7Adstbf Modern Metal Bed Frame sidesteps most of those traps — but not all of them. Here's the honest breakdown after digging through 225 ratings and what buyers actually report.

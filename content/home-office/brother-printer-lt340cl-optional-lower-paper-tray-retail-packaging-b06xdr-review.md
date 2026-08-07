@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Printer LT340CL Optional Lower Paper Tray - Retail P"
 seo_title: "Brother LT340CL Lower Paper Tray Review (2026): Worth It?"
 meta_description: "Brother LT340CL lower paper tray review: capacity, compatibility, real-world performance. Is this $150+ add-on worth it for your Brother laser printer?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06XDRZGHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VKPAS06oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adds 250 sheets of genuine Brother paper capacity, doubling total input for compatible MFC/HL models"
   - "Tool-free installation takes under 2 minutes — snaps onto the printer base with no drivers or firmware updates"
   - "Solid, stable construction with no paper feed jams reported; matches the printer's original finish"
-cons:
+cons: 
   - "Only compatible with a specific list of Brother models — verify your printer before ordering to avoid a $150 paperweight"
   - "No status indicator or sensor feedback on the front panel; you won't know it's empty until the print job fails"
+
 ---
 
 If your Brother laser printer lives on a shared desk or in a small office, you already know the pain: the stock 250-sheet tray runs dry at the worst possible moment. The LT340CL is Brother's official answer — a lower paper tray that adds another 250 sheets of capacity. The question isn't whether it works. It's whether your printer is on the compatibility list, and whether the added bulk makes sense for your setup.

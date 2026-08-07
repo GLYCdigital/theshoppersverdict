@@ -1,4 +1,5 @@
 ---
+
 title: "Anisotropic Magnetic Tape with Adhesive Backing"
 seo_title: "Anisotropic Magnetic Tape Review: Strong, Flexible, Versatile"
 meta_description: "Honest review of anisotropic magnetic tape with adhesive backing. Real-world strength tests, best uses, and limitations. Is this flexible magnet worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D86HG48G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51iTStkuFlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong holding force for a flexible magnet — holds lightweight tools and notes without sagging"
   - "Adhesive backing sticks firmly to metal, plastic, and wood surfaces with proper surface prep"
   - "Cuts easily with scissors to custom lengths — no special tools needed"
-cons:
+cons: 
   - "Anisotropic design means magnetism only pulls from one face — you must orient it correctly during install"
   - "Adhesive fails if applied to dusty or oily surfaces — needs alcohol wipe prep first"
+
 ---
 
 You've seen those flimsy fridge magnet strips that barely hold a receipt. This anisotropic magnetic tape is not that. With a 4.3-star average across 215 ratings, it's earned a reputation as the workhorse of flexible magnets — but it's not without quirks you need to understand before buying.

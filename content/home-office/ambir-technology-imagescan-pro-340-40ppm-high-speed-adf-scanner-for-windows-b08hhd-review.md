@@ -1,4 +1,5 @@
 ---
+
 title: "Ambir Technology ImageScan Pro 340 40ppm High-Speed ADF Scan"
 seo_title: "Ambir ImageScan Pro 340 Review: Fast 40ppm ADF Scanner"
 meta_description: "Ambir ImageScan Pro 340 review: 40ppm duplex scanning, 50-sheet ADF, USB powered. See if this compact document scanner fits your workflow."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08HHDCVZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LgUP8298L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 40ppm duplex scanning at 300dpi — no waiting around for a stack of paperwork"
   - "Single USB cable powers and connects the scanner — no wall adapter needed"
   - "Compact footprint roughly the size of a laptop stand, fits on crowded desks"
-cons:
+cons: 
   - "Windows-only driver support — Mac users need to look elsewhere"
   - "The 50-sheet ADF can occasionally double-feed with worn or creased paper"
   - "No built-in OCR software included in the box — budget for a third-party solution"
+
 ---
 
 You've got a mountain of paperwork and a shrinking attention span. The Ambir ImageScan Pro 340 attacks that stack at 40 pages per minute, double-sided. That's the headline. But the real question is whether this $300-ish scanner holds up beyond the marketing spec sheet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Fun 5 Combo Outdoor Game Set - Backyard, Bea"
 seo_title: "Franklin Sports Fun 5 Combo Outdoor Game Set Review (2026)"
 meta_description: "Franklin Sports Fun 5 Combo review: 5 backyard games in one set. Tested for durability, setup, and family fun. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CJ5XHX9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DRC40DcFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five distinct games in one box—cornhole, ladder toss, disc golf, ring toss, and a bonus yard game—at roughly the cost of two individual sets"
   - "Collapsible legs and nesting board design make storage genuinely compact; fits in a trunk or closet shelf"
   - "Weather-resistant PVC-coated frames and nylon targets hold up to repeated outdoor use without rust or fraying"
-cons:
+cons: 
   - "Carry bag is thin and the zipper feels flimsy—multiple buyers report it splitting after a few trips"
   - "Cornhole boards are lighter than regulation weight; they slide on smooth patios during aggressive tosses"
   - "No carrying handles on individual pieces—you'll be juggling boards, bags, and posts when moving from car to yard"
+
 ---
 
 Let me be blunt: I've tested a lot of "5-in-1" game sets, and most are a gimmick. Five games usually means five cheap, half-broken versions of things you already own. The Franklin Sports Fun 5 Combo is the exception—barely. It's a genuinely useful bundle, but it has a few quirks you need to know about before you click buy.

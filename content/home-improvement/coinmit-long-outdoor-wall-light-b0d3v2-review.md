@@ -1,4 +1,5 @@
 ---
+
 title: "Coinmit Long Outdoor Wall Light"
 seo_title: "Coinmit Long Outdoor Wall Light Review (2026): Honest Verdict"
 meta_description: "Coinmit Long Outdoor Wall Light review: build quality, brightness, installation, and real buyer feedback. Is this 4.4-star fixture worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3V2V978/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZgxYhKLGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide 120° beam spread throws light across a full garage door or patio wall without dark spots"
   - "Die-cast aluminum housing with powder-coated finish resists rust and fading in coastal or high-humidity climates"
   - "Compatible with standard 4-inch junction boxes, making retrofit installation a 20-minute job"
-cons:
+cons: 
   - "Sealed LED module is not replaceable — when it fails, you replace the whole fixture"
   - "Light output (about 1,200 lumens) is modest for large driveways; you'll want two units for big areas"
+
 ---
 
 Let me be direct about the Coinmit Long Outdoor Wall Light: this is the fixture you buy when you want the look of a high-end architectural light without paying boutique lighting store prices. At roughly $60–$80 depending on the day, it sits in that sweet spot between builder-grade junk and designer fixtures that cost five times as much.

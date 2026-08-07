@@ -1,4 +1,5 @@
 ---
+
 title: "Airhead Orca Neoprene Kwik-Dry Neolite Life Jacket, USCG App"
 seo_title: "Airhead Orca Life Jacket Review: USCG-Approved Comfort (2026)"
 meta_description: "Read our honest Airhead Orca Neoprene Kwik-Dry life jacket review. USCG-approved, comfortable fit, real user feedback. Is it worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B094HJCCT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuine USCG Type III approval at a price point well under comparable brands like NRS or Mustang"
   - "Neoprene construction with Kwik-Dry lining actually sheds water and resists that clammy, soggy feeling"
   - "Neolite foam panels keep the jacket slim — no Michelin Man bulk when you're paddling or casting"
-cons:
+cons: 
   - "Sizing runs small — several buyers report needing to go up a full size, especially for chest measurements"
   - "Zipper pull is flimsy; a handful of reviewers describe it separating or jamming after a season of hard use"
   - "No zippered pockets — you're stuck with the two open hand-warmer slots that drain water but won't secure keys or a phone"
+
 ---
 
 Let's cut through the noise. If you're shopping for a life jacket on a budget, you've probably seen a wall of neon foam vests that feel like wearing a mattress. The Airhead Orca isn't trying to be that. It's a neoprene hybrid that aims to give you USCG-approved flotation without making you sweat through a summer afternoon on the lake. Here's the real story after digging through 200 ratings and owner feedback.

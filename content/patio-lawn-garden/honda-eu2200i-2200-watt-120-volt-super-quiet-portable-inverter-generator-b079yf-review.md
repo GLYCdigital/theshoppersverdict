@@ -1,4 +1,5 @@
 ---
+
 title: "Honda EU2200i 2200-Watt 120-Volt Super Quiet Portable Invert"
 seo_title: "Honda EU2200i 2200-Watt 120-Volt Super Quiet Porta Review"
 meta_description: "Our full honda eu2200i 2200-watt 120-volt super quiet portable invert review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B079YF1HF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mi7mkDdOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've priced out quiet inverter generators lately, you already know the Honda EU2200i sits at the top of the price pyramid. The question isn't whether it's good — it's whether it's worth the premium over the $600 competition. After digging through 240 buyer ratings and the spec sheet, here's the honest breakdown.**

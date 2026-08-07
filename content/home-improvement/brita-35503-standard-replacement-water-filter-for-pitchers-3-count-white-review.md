@@ -1,15 +1,16 @@
 ---
+
 title: "BRITA 35503 Standard Replacement Water Filter for Pitchers, 3 Count White"
 seo_title: "BRITA 35503 Standard Review: Verdict (4.8/5) | TSV"
 meta_description: "Brita standard replacement filter The replacement filter is easy to use and 235,732+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "brita-35503-standard-replacement-water-filter-for-pitchers-3-count-white-review"
 image_alt: "BRITA 35503 Standard Replacement Water Filter for Pitchers, 3 Count White"
-keywords:
+keywords: 
   - "brita 35503 standard review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the BRITA 35503 Standard Replacement?"
     answer: "Brita standard replacement filter The replacement filter is easy to use and fits to standard Brita pitche... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the BRITA 35503 Standard Replacement?"
@@ -22,12 +23,13 @@ review_count: 235732
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00004SU18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sc1WjCZGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brita standard replacement filter The replacement filter is easy to use and fits to standard Brita p."
   - "Fast delivery, great filter to fit on."
   - "Water tastes good Good price."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 ## What's Actually in the Box

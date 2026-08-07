@@ -1,4 +1,5 @@
 ---
+
 title: "Panovue Fire Pit for Outside, Heavy Duty Wood Burning Fire P"
 seo_title: "Panovue Fire Pit for Outside, Heavy Duty Wood Burn Review"
 meta_description: "Our full panovue fire pit for outside, heavy duty wood burning fire p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1V239DP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81umF2mcvRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Panovue Fire Pit Is the Right Kind of Heavy**

@@ -1,4 +1,5 @@
 ---
+
 title: "Blueberry Fertilizer – Liquid Plant Food for Bigger Berries"
 seo_title: "Blueberry Fertilizer Review: Liquid Plant Food for Bigger Berries"
 meta_description: "Our honest Blueberry Fertilizer review: does this liquid plant food deliver bigger berries? Tested for acidity, NPK, and real-world results."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C73SSFH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CXN7p--sL._SL1500_.jpg"
-pros:
+pros: 
   - "Acidifying formula (pH 4.5–5.0) specifically matched to blueberry root requirements — not a generic all-purpose feed"
   - "Measured dropper cap makes dosing precise for containers; no guesswork with tablespoons"
   - "Visible leaf greening within 10–14 days in most customer reports, even on established bushes"
-cons:
+cons: 
   - "Strong sulfur odor for 24–48 hours after application; noticeable if applied near windows or patios"
   - "Bottle size (32 oz) treats only ~64 square feet of garden bed — heavy users will repurchase quickly"
+
 ---
 
 **Bottom Line Up Front:** If your blueberry bushes have that telltale yellowing between leaf veins, this liquid fertilizer is the corrective shot they need. It's not the cheapest option per application, but the targeted acidifying formula works where balanced fertilizers fail. At 4.4 stars from 220 ratings, it's earned its place in my garden shed — with one caveat about the smell.

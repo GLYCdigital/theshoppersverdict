@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* XR String Trimmer, 14-Inch, Tool Only (DCST9 inch"
 seo_title: "DEWALT 20V XR String Trimmer Review: DCST922B Tested"
 meta_description: "Honest DEWALT 20V MAX XR 14-inch string trimmer review. Real user feedback, battery life, power, and edge-case verdicts. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B085DKD3VW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sW6AeRQJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers surprising power for a 20V platform — cuts thick grass and light weeds without bogging down"
   - "Tool-free 14-inch cutting swath with a 0.080-inch line that feeds smoothly via the bump head"
   - "Foldable shaft and compact design make storage and transport genuinely convenient"
-cons:
+cons: 
   - "Tool-only — you need a DEWALT 20V battery and charger, which adds $100+ to the real cost if you're not already in the ecosystem"
   - "Balance is nose-heavy with heavier batteries; your wrist will feel it after 20 minutes of continuous edging"
+
 ---
 
 ## The 20V Trimmer That Thinks It's Bigger

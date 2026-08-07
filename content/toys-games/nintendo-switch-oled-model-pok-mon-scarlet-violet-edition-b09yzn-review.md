@@ -1,4 +1,5 @@
 ---
+
 title: "Nintendo Switchâ„¢ â€“ OLED Model: PokÃ©monâ„¢ Scarlet & Vio"
 seo_title: "Nintendo Switchâ„¢ â€“ OLED Model: PokÃ©monâ„¢ Sca Review"
 meta_description: "Our full nintendo switchâ„¢ â€“ oled model: pokã©monâ„¢ scarlet & vio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YZNRQ7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Sf26ophuL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pokémon OLED Switch: Worth the Premium, or Just a Fancy Skin?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Circuit Fitness by Marcy 16 x 16 inches Adjustable Height Ae"
 seo_title: "Circuit Fitness Marcy 16x16 Adjustable Step Review (2026)"
 meta_description: "Honest Circuit Fitness by Marcy 16x16 adjustable aerobic step review: build quality, height settings, stability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DLP6WJQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aWe5UeA1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four adjustable height settings (4, 6, 8, and 10 inches) let you progress without buying a second platform"
   - "Compact 16x16 footprint fits under a couch or bed for storage — measured, not guessed"
   - "Non-slip textured surface holds up during high-rep plyometric work, even with sweaty hands"
-cons:
+cons: 
   - "At 10 inches, the platform flexes noticeably under 200+ lb users during explosive movements"
   - "No riser locking mechanism — the risers can shift if you drag the step across a hard floor"
+
 ---
 
 If you're shopping for an aerobic step, you've probably noticed a pattern: most budget options are either too flimsy for real work or too big to store. The Circuit Fitness by Marcy 16x16 Adjustable Height Step tries to split that difference. At 4.3 stars from 215 ratings, it's clearly working for most buyers — but let's talk about who it's actually for and where it falls short.

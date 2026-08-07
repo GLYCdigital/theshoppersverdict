@@ -1,4 +1,5 @@
 ---
+
 title: "DG Casa Wesley Solid Wood Queen Size Bed - Mid Century Moder"
 seo_title: "DG Casa Wesley Solid Wood Bed Review: Mid-Century Queen"
 meta_description: "DG Casa Wesley solid wood queen bed review: build quality, assembly, comfort. Is this mid-century modern bed worth it? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP3KNQMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r8grTrLIP._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine solid wood frame and legs—not particleboard or MDF—so it holds up to daily use and doesn't wobble"
   - "Mid-century silhouette with tapered legs and clean lines that fits both modern apartments and traditional bedrooms"
   - "No box spring required; slat system supports a standard queen mattress directly, saving you $150+"
-cons:
+cons: 
   - "Assembly is a two-person job—the headboard is heavy and awkward to align solo"
   - "Low-profile design sits closer to the floor; if you prefer a tall bed, this isn't it"
+
 ---
 
 The DG Casa Wesley is the bed frame that keeps showing up in "mid-century modern under $500" searches, and for good reason. But before you click buy, let's break down what 235 Amazon reviewers actually experienced—the good, the annoying, and the genuinely surprising.

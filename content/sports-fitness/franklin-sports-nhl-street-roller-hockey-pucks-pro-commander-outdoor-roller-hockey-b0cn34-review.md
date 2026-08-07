@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports NHL Street Roller Hockey Pucks - Pro Command"
 seo_title: "Franklin NHL Street Hockey Pucks Review: Pro Command"
 meta_description: "Franklin Sports NHL Street Roller Hockey Pucks review: durable outdoor pucks for street play. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN345P4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s4yApT8AL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Glide smoothly on rough asphalt and concrete without the bouncing you get from ice pucks"
   - "Holds up to repeated slap shots; edges resist chipping better than cheaper street pucks"
   - "Official NHL branding and regulation weight make practice feel game-realistic"
-cons:
+cons: 
   - "Can feel hard and unforgiving on cold days — expect some vibration through your stick"
   - "Not designed for indoor use; will scuff gym floors and skate poorly on smooth surfaces"
+
 ---
 
 Let's be honest about street hockey pucks: most of them are garbage. They bounce like tennis balls, chip within a week, or glide like sandpaper blocks. The Franklin Sports NHL Street Roller Hockey Pucks — Pro Command line actually tries to solve those problems. After digging through 220 ratings and the physics of outdoor play, here's the real story.

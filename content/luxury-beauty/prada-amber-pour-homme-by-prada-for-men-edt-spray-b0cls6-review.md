@@ -1,4 +1,5 @@
 ---
+
 title: "Prada Amber Pour Homme by Prada for Men - EDT Spray"
 seo_title: "Prada Amber Pour Homme by Prada for Men - EDT Spra Review"
 meta_description: "Our full prada amber pour homme by prada for men - edt spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLS6H57P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Npuk0jRWL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Prada Amber Pour Homme by Prada for Men – EDT Spray Review

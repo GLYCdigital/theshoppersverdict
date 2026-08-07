@@ -1,16 +1,17 @@
 ---
+
 title: "Arbusb Step Ladder, Folding Step Stool, 3-Step with Handrail"
 seo_title: "Arbusb Step Ladder Review: Sturdy 3-Step Folding Stool Verdict (4.8/5)"
 meta_description: "Read our Arbusb 3-Step Ladder review based on 1,063 Amazon reviews. Wide anti-slip pedals, 500-lb capacity, folds to 2 inches — worth it?"
 slug: "arbusb-step-ladder-folding-stool-review"
 image_alt: "Arbusb 3-Step Folding Step Ladder with Handrail and Anti-Slip Pedals"
-keywords:
+keywords: 
   - "Arbusb step ladder review"
   - "best folding step stool"
   - "sturdy step ladder for home"
   - "anti-slip step stool"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Is the Arbusb step ladder stable for heavier adults?"
     answer: "Yes. It's tested to support up to 500 lbs. Reviewers at 200-210 lbs report it feels solid even when holding extra weight."
   - question: "How thin does it fold for storage?"
@@ -23,16 +24,17 @@ review_count: 1063
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D95WNG6Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-xFhz1z6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds impossibly thin — just 2 inches"
   - "Wide, anti-slip steps feel secure"
   - "500-lb rated capacity for heavy-duty use"
   - "Lightweight enough to carry room to room"
   - "No assembly needed"
-cons:
+cons: 
   - "Locking mechanism requires firm pressure"
   - "Price is slightly above basic step stools"
   - "Plastic construction may not suit industrial use"
+
 ---
 
 A step ladder is one of those things you don't think about until you're wobbling on a dining chair trying to change a light bulb. The Arbusb 3-Step Ladder is the right answer to that problem, and with a 4.8-star rating from over 1,000 Amazon buyers, it's clearly striking a chord.

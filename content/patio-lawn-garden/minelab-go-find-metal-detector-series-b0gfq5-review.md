@@ -1,4 +1,5 @@
 ---
+
 title: "Minelab GO-FIND Metal Detector Series"
 seo_title: "Minelab GO-FIND Metal Detector Series Review: Verdict | T"
 meta_description: "Our full minelab go-find metal detector series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GFQ55JT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619iUmgPi7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Minelab GO-FIND series has become the default answer to "what's a decent first metal detector?" — and with 210 ratings averaging 4.2 stars, that reputation isn't unearned. But the GO-FIND line isn't one detector; it's a family. The base model starts around $129, the mid-tier adds a pinpointer, and the top version includes wireless headphones. What you actually need depends entirely on whether you're chasing pennies in the park or scouting a serious hobby.

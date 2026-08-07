@@ -1,5 +1,6 @@
 ---
 
+
 title: "Coleman Montana Camping Tent, 6/8 Person Family Tent with In"
 seo_title: "Coleman Montana Tent Review: 6/8 Person Family Camping"
 meta_description: "Coleman Montana 6/8 person tent review: 4.4-star family camping tent. Real specs, rainfly performance, and honest sizing truth."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTHW4DB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K5ewxnQ4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full rainfly included — most budget family tents charge extra or ship a useless partial fly"
   - "Snag-free continuous pole sleeves make setup genuinely fast — no threading through separate clips"
   - "10-foot by 9-foot floor fits two queen airbeds or four cots with walk-around room"
-cons:
+cons: 
   - "The '8 person' claim is marketing fiction — it's a 6-person tent that sleeps 8 only if they're all children under 10 inch"
   - "Factory seam sealing is inconsistent; several buyers report leaks at the corners in sustained rain"
+
 
 ---
 

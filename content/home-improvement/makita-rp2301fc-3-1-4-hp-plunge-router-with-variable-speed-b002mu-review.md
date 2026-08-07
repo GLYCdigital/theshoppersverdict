@@ -1,4 +1,5 @@
 ---
+
 title: "Makita RP2301FC 3-1/4 HP* Plunge Router, with Variable Speed"
 seo_title: "Makita RP2301FC 3-1/4 HP* Plunge Router, with Vari Review"
 meta_description: "Our full makita rp2301fc 3-1/4 hp* plunge router, with variable speed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B002MUAMF4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qFgvtfRQL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap router buck sideways on a plunge cut, you know the fear. The Makita RP2301FC attacks that problem with brute force and engineering — a 3-1/4 HP motor paired with soft start that eases the bit into the work instead of slamming it. This is the router you buy when you're done fighting your tools.

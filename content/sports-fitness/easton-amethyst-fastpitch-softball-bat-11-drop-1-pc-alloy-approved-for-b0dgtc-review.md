@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | Amethyst Fastpitch Softball Bat | -11 Drop | 1 Pc."
 seo_title: "Easton Amethyst Fastpitch Bat Review: Is the -11 Drop Worth It?"
 meta_description: "Our Easton Amethyst fastpitch softball bat review covers the -11 drop, 1-piece alloy build, and real player feedback. See who it's for and who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGTCK35C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G4PDNb6ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Balanced swing weight at -11 drop makes it ideal for slappers and contact hitters who prioritize bat speed over power"
   - "One-piece alloy construction delivers a stiff feel with zero flex, giving immediate feedback on off-center hits"
   - "Approved for USSSA, NSA, ISA, and ASA play — one bat that works across the major sanctioning bodies"
-cons:
+cons: 
   - "Alloy barrel has a smaller sweet spot than composite bats, so mishits sting and lose noticeable pop"
   - "No break-in period required, but the performance ceiling is lower than a composite once you've invested 50+ swings"
+
 ---
 
 If you're shopping for a fastpitch bat for a player who's more slap than smash, the Easton Amethyst deserves a serious look. This is a -11 drop, one-piece alloy bat that's clearly engineered for a specific type of hitter — and it nails that job. But it's not the bat for everyone, and pretending otherwise would be doing you a disservice.

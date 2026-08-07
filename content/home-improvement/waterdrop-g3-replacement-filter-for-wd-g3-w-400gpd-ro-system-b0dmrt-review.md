@@ -1,4 +1,5 @@
 ---
+
 title: "Waterdrop G3 Replacement Filter for WD-G3-W 400GPD RO System"
 seo_title: "Waterdrop G3 Replacement Filter for WD-G3-W 400GPD Review"
 meta_description: "Our full waterdrop g3 replacement filter for wd-g3-w 400gpd ro system review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMRTWSXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vxKClzr7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Waterdrop G3 400GPD system, this replacement filter isn't optional — it's the only genuine cartridge that fits. The good news? It works exactly as it should, which is more than I can say for the knockoffs on Amazon.

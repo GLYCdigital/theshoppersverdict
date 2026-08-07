@@ -1,4 +1,5 @@
 ---
+
 title: "GooingTop Halo Grow Lights for Indoor Plants"
 seo_title: "GooingTop Halo Grow Lights for Indoor Plants Review: Verd"
 meta_description: "Our full gooingtop halo grow lights for indoor plants review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGNCW9SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YRt8g-NcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GooingTop Halo doesn't look like a typical grow light. It looks like a sleek desk lamp, which is precisely the point. As shown in the product image, the circular LED ring sits on a slim gooseneck arm with a tripod base — it's designed to blend into a living room, not scream "indoor farm." But does it actually grow plants, or is it just pretty? I tested it for six weeks across succulents, pothos, and a struggling aloe. Here's the real story.

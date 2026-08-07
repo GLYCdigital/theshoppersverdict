@@ -1,7 +1,8 @@
 ---
-title: "GRELWT Chain Link Fence Post Extender, 2 3/8\" Fence Extensio"
-seo_title: "GRELWT Chain Link Fence Post Extender, 2 3/8\" Fenc Review"
-meta_description: "Our full grelwt chain link fence post extender, 2 3/8\" fence extensio review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "GRELWT Chain Link Fence Post Extender, 2 3/8\ Fence Extensio"
+seo_title: "GRELWT Chain Link Fence Post Extender, 2 3/8\ Fenc Review"
+meta_description: "Our full grelwt chain link fence post extender, 2 3/8\ fence extensio review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "grelwt-chain-link-fence-post-extender-2-3-8-fence-extension-b0d66k-review"
 image_alt: "GRELWT Chain Link Fence Post Extender, 2 3/8 Fence Extension"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D66KV4ZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QNwe9KQ3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need more privacy, want to keep deer out of a garden, or just need to run another row of chain link above an existing fence, the GRELWT post extender is the kind of product that saves you from a weekend of digging post holes. The concept is dead simple: instead of pulling the old posts and pouring new concrete, you slip this 2-3/8" extension over the top of your existing posts and bolt it down. No concrete bag math, no post hole digger, no re-tensioning an entire run of fencing from scratch.

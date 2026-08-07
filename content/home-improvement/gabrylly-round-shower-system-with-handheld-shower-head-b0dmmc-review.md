@@ -1,4 +1,5 @@
 ---
+
 title: "Gabrylly round shower system with handheld shower head"
 seo_title: "Gabrylly Round Shower System Review: Handheld Combo"
 meta_description: "Gabrylly round shower system with handheld head review: build quality, water pressure, installation ease, and real buyer feedback. Is this 4.6-star combo worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMMCLV7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hO9ZS-RdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushed nickel finish resists water spots and fingerprints far better than chrome"
   - "Dual-function handheld with pause button — genuinely useful for shaving or rinsing the shower walls"
   - "Full 1/2-inch NPT connections and included brass diverter eliminate the need for extra adapter purchases"
-cons:
+cons: 
   - "Round ceiling mount requires an 8-inch hole — not compatible with standard 6-inch shower arm stubs"
   - "Some units shipped with slight thread misalignment on the handheld hose connector"
   - "No pressure-balancing valve included — you'll need to supply your own if code requires one"
+
 ---
 
 Let me be direct: a round shower system with a handheld is a category where most products under $200 are flimsy plastic with chrome plating that peels in a year. The Gabrylly round system, sitting at 4.6 stars across 229 ratings, is trying to be the exception. Here's what I found after digging into the specs and what actual buyers are saying.

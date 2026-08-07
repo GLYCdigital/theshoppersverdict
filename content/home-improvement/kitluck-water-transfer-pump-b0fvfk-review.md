@@ -1,4 +1,5 @@
 ---
+
 title: "KITLUCK Water Transfer Pump"
 seo_title: "KITLUCK Water Transfer Pump Review: Verdict | TSV"
 meta_description: "Our full kitluck water transfer pump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FVFKP1DS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pu2uDjdDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to siphon water by mouth — and accidentally swallowed a mouthful of stale aquarium water — you already know why the KITLUCK Water Transfer Pump exists. This hand-operated siphon pump eliminates the gross-out factor entirely, and with 225 Amazon ratings averaging 4.5 stars, it's clearly doing something right. But is it the right tool for your specific water-moving job? Let's dig into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "General Hydroponics CaliMagic, 6-Gallon"
 seo_title: "General Hydroponics CaliMagic Review: 6-Gallon Calcium Boost"
 meta_description: "Does General Hydroponics CaliMagic prevent calcium/magnesium deficiencies? Our 6-gallon review covers results, dosage, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09CGD5KTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AeW-ty4kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2-1-0 NPK with 2% calcium and 1% magnesium — prevents blossom end rot and tip burn in one additive"
   - "6-gallon size delivers roughly 1,536 teaspoons of concentrate, enough for 768 gallons of nutrient solution at 2 tsp/gal"
   - "Works in both hydro and soil/coco when using RO water or low-EC tap water"
-cons:
+cons: 
   - "No nitrogen-free version — growers running high-N regimes need to adjust base nutrients downward"
   - "The 6-gallon jug is heavy (about 50 lbs) and has no handle — budget for a pump or extra hands"
   - "Not a fix for existing deficiencies; it's preventative, so late-stage corrections will need a stronger product"
+
 ---
 
 ## The 6-Gallon Commitment: Is CaliMagic Worth the Space?

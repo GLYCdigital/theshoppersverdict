@@ -1,4 +1,5 @@
 ---
+
 title: "Spicy World Cinnamon Powder 5 LB Jar - Lab Tested for Lead -"
 seo_title: "Spicy World Cinnamon Powder 5 LB Jar - Lab Tested  Review"
 meta_description: "Our full spicy world cinnamon powder 5 lb jar - lab tested for lead - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004VLVSJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QbIMIoxZL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: cinnamon is one of the most adulterated spices on the market. Between lead-contaminated imports and filler spices, buying a 5-pound jar of anything is a leap of faith. That's exactly why the lab-tested claim on this Spicy World jar matters — and why it's earned a 4.6-star average across 229 ratings.

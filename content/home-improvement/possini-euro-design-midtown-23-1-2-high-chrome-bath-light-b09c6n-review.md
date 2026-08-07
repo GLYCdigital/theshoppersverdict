@@ -1,7 +1,8 @@
 ---
-title: "Possini Euro Design Midtown 23 1/2\" High Chrome Bath Light"
-seo_title: "Possini Euro Design Midtown 23 1/2\" High Chrome Ba Review"
-meta_description: "Our full possini euro design midtown 23 1/2\" high chrome bath light review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Possini Euro Design Midtown 23 1/2\ High Chrome Bath Light"
+seo_title: "Possini Euro Design Midtown 23 1/2\ High Chrome Ba Review"
+meta_description: "Our full possini euro design midtown 23 1/2\ high chrome bath light review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "possini-euro-design-midtown-23-1-2-high-chrome-bath-light-b09c6n-review"
 image_alt: "Possini Euro Design Midtown 23 1/2 High Chrome Bath Light"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09C6N4FTY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fbBE40-HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a bathroom where the vanity light cast shadows across your face, you know the struggle. The Possini Euro Design Midtown bath light attacks that problem head-on with downward-angled glass shades that put illumination where it belongs. At 23.5 inches wide and 7 inches tall, this two-light fixture is a compact workhorse that's earned a 4.5-star average across 225 Amazon ratings. But is it the right fixture for your remodel? Let's dig in.

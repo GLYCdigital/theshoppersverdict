@@ -1,4 +1,5 @@
 ---
+
 title: "Starfrit The Rock Non-Stick Cookware set - Durable Forged Al"
 seo_title: "Starfrit The Rock Non-Stick Cookware set - Durable Review"
 meta_description: "Our full starfrit the rock non-stick cookware set - durable forged al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTVSDHSH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t+I3+1UML._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Starfrit The Rock Non-Stick Cookware Set Review: Does the Hype Hold Up?

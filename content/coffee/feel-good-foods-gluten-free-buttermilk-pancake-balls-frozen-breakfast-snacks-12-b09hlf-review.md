@@ -1,4 +1,5 @@
 ---
+
 title: "Feel Good Foods Gluten Free Buttermilk Pancake Balls | Froze"
 seo_title: "Feel Good Foods Pancake Balls Review: Gluten-Free Breakfast Snack"
 meta_description: "Honest Feel Good Foods Gluten Free Buttermilk Pancake Balls review: crispy outside, fluffy inside, but watch for sogginess. See if they're worth buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09HLFHGKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EEumW5FWL._SL1500_.jpg"
-pros:
+pros: 
   - "Genius reimagining of pancakes as poppable balls — kids and adults both gravitate toward the format"
   - "Genuinely gluten-free with a light, fluffy interior that doesn't taste like a compromise"
   - "Air fryer instructions work perfectly — 6-7 minutes yields crispy edges with a tender center"
-cons:
+cons: 
   - "Microwave instructions produce a soggy, doughy texture — you must use an air fryer or oven"
   - "Only 12 pieces per box, which works out to roughly 3-4 servings; heavy eaters will blow through it fast"
   - "Price per ounce is steep compared to making pancakes from scratch, especially with the gluten-free premium"
+
 ---
 
 **The gluten-free breakfast that finally breaks the pancake mold**

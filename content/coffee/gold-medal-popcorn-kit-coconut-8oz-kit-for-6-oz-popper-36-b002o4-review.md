@@ -1,4 +1,5 @@
 ---
+
 title: "Gold Medal Popcorn Kit Coconut, 8oz kit for 6 Oz popper, 36 "
 seo_title: "Gold Medal Popcorn Kit Coconut, 8oz kit for 6 Oz p Review"
 meta_description: "Our full gold medal popcorn kit coconut, 8oz kit for 6 oz popper, 36  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B002O4DVN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dz8hcDDmL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this is: the Gold Medal Popcorn Kit Coconut is a flavor powder, not a popcorn seasoning salt. And that distinction matters more than you'd think.

@@ -1,4 +1,5 @@
 ---
+
 title: "WJORATA Metal Platform Bed Frame with Headboard Sturdy Steel"
 seo_title: "WJORATA Metal Platform Bed Frame with Headboard St Review"
 meta_description: "Our full wjorata metal platform bed frame with headboard sturdy steel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DCBDC9DN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H0M87gKvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WJORATA Metal Platform Bed Frame with Headboard: Simple, Sturdy, and Smart

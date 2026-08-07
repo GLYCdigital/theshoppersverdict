@@ -1,4 +1,5 @@
 ---
+
 title: "WEN 2305 Rotary Tool Kit"
 seo_title: "WEN 2305 Rotary Tool Kit Review: Verdict | TSV"
 meta_description: "Our full wen 2305 rotary tool kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GNLW1HWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BEKi9aGqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Opening with a blunt question: Is the WEN 2305 worth your money when Dremel owns the rotary tool aisle? At 4.4 stars from 220 buyers, the answer is a qualified yes — but only if you know what you're trading away.

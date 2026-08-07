@@ -1,17 +1,18 @@
 ---
+
 title: "ESPRO Light P3 French Press Coffee Maker – Patented Double Micro-Filter"
 seo_title: "ESPRO P3 French Press Review: Grit-Free Coffee at Last (4.2★)"
 meta_description: "ESPRO Light P3 French Press review. 4.2 stars from 3,000+ ratings. The double micro-filter finally delivers grit-free French press coffee without sediment."
 slug: "espro-p3-french-press-review"
 image_alt: "ESPRO Light P3 French Press Coffee Maker in black with 32 oz borosilicate glass carafe"
-keywords:
+keywords: 
   - "ESPRO French Press review"
   - "best French press coffee maker"
   - "grit-free French press"
   - "ESPRO P3 review"
   - "double filter French press"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Does the ESPRO French Press eliminate coffee sediment?"
     answer: "Yes. The patented double micro-filter — a BPA-free plastic mesh combined with ultra-fine stainless steel — filters up to 12x finer than standard French press designs. Multiple reviewers confirm genuinely silt-free coffee."
   - question: "Is the ESPRO P3 hard to clean?"
@@ -26,16 +27,17 @@ review_count: 3037
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B011WTM622/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wCApbpxtL._AC_SL1452_.jpg"
-pros:
+pros: 
   - "Patented double micro-filter eliminates grit and sediment — truly silt-free French press coffee"
   - "Thicker borosilicate glass carafe resists thermal shock better than standard French presses"
   - "Optional paper filter compatibility for even cleaner brews"
   - "No electricity, no motherboard, no moving parts — simple mechanical durability"
-cons:
+cons: 
   - "Filter basket takes up significant volume; realistic yield is ~2-3 cups, not 32 oz"
   - "Glass carafe doesn't seat securely in the plastic holder — requires care when pouring"
   - "More parts to clean than a standard French press, though dishwasher safe"
   - "Higher price point than basic French press models"
+
 ---
 
 There are two kinds of French press owners: people who love the rich, full-bodied brew, and people who are tired of chewing their coffee.

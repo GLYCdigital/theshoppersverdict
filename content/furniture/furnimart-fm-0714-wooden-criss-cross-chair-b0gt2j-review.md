@@ -1,4 +1,5 @@
 ---
+
 title: "Furnimart FM-0714 Wooden Criss Cross Chair"
 seo_title: "Furnimart FM-0714 Criss Cross Chair Review (2026)"
 meta_description: "Furnimart FM-0714 wooden criss cross chair review: sturdy build, compact footprint, real comfort tradeoffs. See if it fits your space and budget."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GT2J2GV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rj8S8M8FL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame rated to 300 lbs — no wobble even on uneven floors"
   - Compact 22 inch "W x 24 inch "D footprint fits tight corners, entryways, and small apartments
   - "Criss-cross backrest provides ergonomic lumbar support without a cushion"
-cons:
+cons: 
   - "Firm seat — no padding, so 60+ minute sits get uncomfortable"
   - "Assembly requires a Phillips head screwdriver; hardware feels slightly soft if over-torqued"
   - "Natural wood finish shows scuffs easily; consider a protective coat for high-traffic areas"
+
 ---
 
 **The Furnimart FM-0714 isn't trying to be your living room throne.** It's a purpose-built accent chair that nails the mid-century modern look without the mid-century modern price tag. At 4.5 stars across 225 ratings, it's clearly doing something right — but "something" isn't "all-day lounging." Here's the breakdown.

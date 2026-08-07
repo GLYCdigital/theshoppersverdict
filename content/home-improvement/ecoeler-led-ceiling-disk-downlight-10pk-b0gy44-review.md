@@ -1,23 +1,25 @@
 ---
+
 title: "ECOELER LED Ceiling Disk Downlight-10PK"
 seo_title: "ECOELER LED Ceiling Disk Downlight Review (10-Pack, 2026)"
 meta_description: "Honest ECOELER LED ceiling disk downlight 10-pack review: brightness, color temps, wiring, and dimming quirks. See if this 4.7-star value holds up."
 slug: "ecoeler-led-ceiling-disk-downlight-10pk-b0gy44-review"
 image_alt: "ECOELER LED ceiling disk downlight 10-pack with slim recessed fixtures and junction boxes"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY44YG99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51do51HV4JL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "5-step color temperature switch (2700K–5000K) on each fixture — no buying separate bulbs"  
   - "Slim 0.3-inch profile fits tight joist spaces; IC-rated housing touches insulation safely"  
   - "Wide 120° beam spread with 1100 lumens per unit — bright enough for kitchens and hallways"  
-cons:  
+cons: 
   - "Non-dimmable — if you want dimmers, this is a hard pass"  
   - "Junction box is bulky; retrofit into old 4-inch cans requires adapter (sold separately)"
+
 ---
 
 ### The 10-pack that makes recessed lighting a weekend job

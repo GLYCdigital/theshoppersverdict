@@ -1,4 +1,5 @@
 ---
+
 title: "LUMISOL Round Dining Table Set - 5 Piece With Special Shaped"
 seo_title: "LUMISOL Round Dining Table Set - 5 Piece With Spec Review"
 meta_description: "Our full lumisol round dining table set - 5 piece with special shaped review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CM3M6GHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8121B+JA6XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $400 question: Can a sub-$500 dining set actually look like it belongs in a designer catalog?** The LUMISOL 5-piece round set makes a compelling argument — until you run your hand across the tabletop and remember what you paid.

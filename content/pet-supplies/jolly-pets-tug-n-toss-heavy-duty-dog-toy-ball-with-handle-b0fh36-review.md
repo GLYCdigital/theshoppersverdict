@@ -1,4 +1,5 @@
 ---
+
 title: "Jolly Pets Tug-n-Toss Heavy Duty Dog Toy Ball with Handle"
 seo_title: "Jolly Pets Tug-n-Toss Heavy Duty Dog Toy Ball with Review"
 meta_description: "Our full jolly pets tug-n-toss heavy duty dog toy ball with handle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FH36GBYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F33T2KQiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog destroys tennis balls in under ten minutes — and you're tired of replacing them weekly — the Jolly Pets Tug-n-Toss deserves a hard look. This isn't a delicate fetch toy for a Chihuahua. It's a serious hunk of rubber engineered for power chewers and enthusiastic fetchers, and at 4.0 stars across 200 ratings, most owners agree it earns its keep.

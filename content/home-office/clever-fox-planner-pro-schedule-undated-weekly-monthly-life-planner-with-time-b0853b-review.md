@@ -1,4 +1,5 @@
 ---
+
 title: "Clever Fox Planner PRO Schedule – Undated Weekly & Monthly"
 seo_title: "Clever Fox Planner PRO Schedule Review: Worth It? (2026)"
 meta_description: "Honest Clever Fox Planner PRO Schedule review: build quality, layout, and whether this undated weekly/monthly planner fits your workflow. Real pros, cons."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0853BF8R3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UjIdU7KmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lay-flat binding actually works — spiral spine lets pages sit flat on a desk without weight"
   - "Thick 120gsm paper handles gel pens and mild highlighters without bleed-through"
   - "Undated format with 12 months of weekly spreads means zero wasted pages if you skip a week"
-cons:
+cons: 
   - "No monthly goal tracker or habit grid — the 'PRO' name oversells a fairly basic layout"
   - "Cover is a soft matte finish that scuffs easily in a work bag; consider a sleeve"
+
 ---
 
 If you've ever bought a dated planner in January, abandoned it by March, and felt guilty every time you saw it on your shelf — the Clever Fox Planner PRO Schedule is designed specifically for you. This undated weekly/monthly system starts whenever you do, which is why it holds a 4.6-star average across 229 Amazon ratings. But "undated" is only half the story. Here's what actually matters before you add it to your cart.

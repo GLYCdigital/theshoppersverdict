@@ -1,4 +1,5 @@
 ---
+
 title: "Umbalir InfIatable Bounce House for Kids 3-8 yr, Bouncy Hous"
 seo_title: "Umbalir InfIatable Bounce House for Kids 3-8 yr, B Review"
 meta_description: "Our full umbalir infiatable bounce house for kids 3-8 yr, bouncy hous review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLNPBTMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kD58kUtaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. You're looking at an inflatable bounce house for a 3-8 year old, and you want to know if this Umbalir unit is actually worth your money or if it'll deflate after three uses. I've dug through the specs, the buyer feedback, and the build quality details. Here's the honest picture.

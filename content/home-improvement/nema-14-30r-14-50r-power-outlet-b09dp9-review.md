@@ -1,4 +1,5 @@
 ---
+
 title: "NEMA 14-30R & 14-50R Power Outlet"
 seo_title: "NEMA 14-30R & 14-50R Power Outlet Review: Verdict | TSV"
 meta_description: "Our full nema 14-30r & 14-50r power outlet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09DP9359H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j2whvxSAS._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're installing a Level 2 EV charger, a welder, or a dryer in a new spot, you've hit the wall with the same problem: you need a dedicated 240-volt outlet, and you need it done right the first time. This NEMA 14-30R & 14-50R combo unit takes a smart approach — one rugged duplex-style plate that handles both the 30-amp and 50-amp standards. It's not the only option, but after digging through 235 ratings and the actual hardware specs, it's clear why this one sits at 4.7 stars.

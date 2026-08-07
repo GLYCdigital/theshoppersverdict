@@ -1,4 +1,5 @@
 ---
+
 title: "Epicurean EPI-BUTTER Cutlery Board Butter"
 seo_title: "Epicurean EPI-BUTTER Cutlery Board Review: Worth It?"
 meta_description: "Epicurean EPI-BUTTER Cutlery Board Butter review: 4.8-star rated cutting board that sharpens knives. Is it worth $50? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD8WM6VJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FLk2hrHSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated sharpening surface keeps knives honed with every slice — no separate sharpener needed"
   - "Dishwasher-safe composite material resists warping, cracking, and knife-dulling better than wood or bamboo"
   - "Lightweight (roughly 2 lbs) with a juice groove that actually captures liquid without being too shallow"
-cons:
+cons: 
   - "Sharpening surface is aggressive — it removes steel quickly, so you can't use it as a daily cutting surface or you'll wear down expensive knives"
   - "At roughly $40–50, it's pricier than standard composite boards without the sharpening feature"
+
 ---
 
 Here's the thing about Epicurean's EPI-BUTTER board: it's not just another cutting board. It's a two-in-one tool that solves a problem most home cooks don't even realize they have — dull knives. But that dual function comes with a catch you need to understand before you buy.

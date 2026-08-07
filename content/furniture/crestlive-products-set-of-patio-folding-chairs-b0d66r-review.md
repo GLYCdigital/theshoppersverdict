@@ -1,4 +1,5 @@
 ---
+
 title: "Crestlive Products Set of Patio Folding Chairs"
 seo_title: "Crestlive Patio Folding Chairs Review (2026): Worth It?"
 meta_description: "Honest Crestlive patio folding chairs review: comfort, build quality, and portability tested. See what 235 buyers say before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D66RF4P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zVL5bVxsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely comfortable padded seat and backrest that hold up through a full summer of daily use"
   - "Folds flat to just a few inches thick — stows easily behind a door or in a car trunk"
   - "Built-in cup holder and side pocket are positioned for actual reachability, not decoration"
-cons:
+cons: 
   - "Rated for 250 lbs, which is lower than many competing folding chairs at this price point"
   - "Frame creaks slightly when you shift weight after a few months of heavy use"
+
 ---
 
 If you've ever bought a cheap folding chair that buckled the first time a guest sat down, you know the stakes. The Crestlive Products Set of Patio Folding Chairs sits in a crowded market of $50–$80 two-packs, but the 4.7-star average across 235 ratings suggests it's doing something right. After digging through the spec sheet and what actual buyers report, here's the honest picture.

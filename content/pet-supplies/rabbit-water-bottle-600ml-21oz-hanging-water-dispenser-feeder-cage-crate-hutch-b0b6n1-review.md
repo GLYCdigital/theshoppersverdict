@@ -1,4 +1,5 @@
 ---
+
 title: "Rabbit Water Bottle, 600ml/21oz Hanging Water Dispenser Feed"
 seo_title: "Rabbit Water Bottle, 600ml/21oz Hanging Water Disp Review"
 meta_description: "Our full rabbit water bottle, 600ml/21oz hanging water dispenser feed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0B6N1V1HN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615bGKOI0UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the last water bottle you'll buy for your rabbit? Probably not — but it's close, if your setup matches its quirks.**

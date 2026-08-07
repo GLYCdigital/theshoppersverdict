@@ -1,4 +1,5 @@
 ---
+
 title: "VINLUZ Modern Bathroom Lighting Brushed Nickel Vanity Light "
 seo_title: "VINLUZ Modern Bathroom Lighting Brushed Nickel Van Review"
 meta_description: "Our full vinluz modern bathroom lighting brushed nickel vanity light  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRGX3BJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Wh29D3dFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most vanity lights fall into one of two camps: cheap fixtures that look like they belong in a motel, or overpriced designer pieces that require an electrician. The VINLUZ Modern Bathroom Lighting Brushed Nickel Vanity Light sits in a rare middle ground — it looks like it costs twice its price, but it doesn't demand professional installation.

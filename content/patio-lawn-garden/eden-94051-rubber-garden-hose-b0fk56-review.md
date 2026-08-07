@@ -1,4 +1,5 @@
 ---
+
 title: "Eden 94051 Rubber Garden Hose"
 seo_title: "Eden 94051 Rubber Garden Hose Review: Honest 2026 Verdict"
 meta_description: "Eden 94051 rubber garden hose review: 4.4-star rated, kink-resistant, all-weather flexibility. Is it worth it? Pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FK56XQLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91QmW6TdC5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full rubber construction stays flexible down to freezing temps, unlike vinyl hoses that stiffen"
   - "Heavy-duty brass fittings with crush-proof collar hold up to repeated drops on concrete"
   - "Zero-kink performance at normal household water pressure — even when dragged around corners"
-cons:
+cons: 
   - "Significantly heavier than vinyl hoses (about 12 lbs for a 50-foot length), tiring for extended use"
   - "Rubber smell lingers for the first few weeks, especially if left in the sun"
+
 ---
 
 You've wrestled with a kinked, twisted vinyl hose that turns rock-solid in the cold. You know the drill. The Eden 94051 rubber garden hose exists to end that fight — and for most homeowners, it does exactly that. But it's not without compromise. Here's the unvarnished truth after digging through real user experiences.

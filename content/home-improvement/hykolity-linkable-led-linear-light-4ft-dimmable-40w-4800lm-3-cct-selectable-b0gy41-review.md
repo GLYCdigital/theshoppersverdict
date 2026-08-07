@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity Linkable LED Linear Light, 4FT Dimmable, 40W 4800lm"
 seo_title: "hykolity Linkable LED Linear Light, 4FT Dimmable,  Review"
 meta_description: "Our full hykolity linkable led linear light, 4ft dimmable, 40w 4800lm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY41PC98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619mvnmeaEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # hykolity Linkable LED Linear Light, 4FT Dimmable, 40W 4800lm

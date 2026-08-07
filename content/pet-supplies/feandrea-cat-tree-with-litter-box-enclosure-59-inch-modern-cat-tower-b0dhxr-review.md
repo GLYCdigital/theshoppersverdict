@@ -1,4 +1,5 @@
 ---
+
 title: "Feandrea Cat Tree with Litter Box Enclosure, 59-Inch Modern"
 seo_title: "Feandrea Cat Tree with Litter Box Enclosure Review (2026)"
 meta_description: "Honest Feandrea 59-inch cat tree review: litter box enclosure, sisal scratching posts, and stability tested. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHXRR2RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uzLDhYxML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated litter box enclosure hides mess and tracks less litter — the hidden compartment fits most standard 20-inch litter boxes"
   - "Sturdy 59-inch structure with reinforced base plate holds up to active multi-cat households"
   - "Thick, replaceable sisal posts on all main scratching surfaces — not the flimsy glued-on rope you see on cheaper towers"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes with 30+ steps — clear instructions but tedious"
   - "The litter box compartment opening is 8.7 inches high, which may be tight for larger breeds like Maine Coons"
   - "Faux fur shelves shed slightly for the first week — vacuuming required initially"
+
 ---
 
 # Feandrea Cat Tree with Litter Box Enclosure: The 2-in-1 Solution That Actually Works

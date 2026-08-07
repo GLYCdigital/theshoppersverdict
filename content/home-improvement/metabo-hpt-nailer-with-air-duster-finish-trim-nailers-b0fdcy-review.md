@@ -1,4 +1,5 @@
 ---
+
 title: "Metabo HPT Nailer with Air Duster/Finish/Trim Nailers"
 seo_title: "Metabo HPT Nailer with Air Duster/Finish/Trim Nail Review"
 meta_description: "Our full metabo hpt nailer with air duster/finish/trim nailers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDCY2DRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DfwzEIUbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Metabo HPT Nailer with Air Duster is a 2-in-1 tool that sounds gimmicky but actually earns its place on a workbench. With 229 ratings and a 4.6 average, it’s not a niche oddity—it’s a tool pros and serious DIYers keep using. I’ve spent time with this unit, and here’s the honest breakdown.

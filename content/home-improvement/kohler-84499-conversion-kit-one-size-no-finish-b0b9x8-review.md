@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler 84499 Conversion Kit, One Size, No Finish"
 seo_title: "Kohler 84499 Conversion Kit, One Size, No Finish Review: "
 meta_description: "Our full kohler 84499 conversion kit, one size, no finish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9X8CYN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CCFJd2cOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a leaky or failing Kohler faucet, you've probably discovered that buying a whole new faucet feels wasteful. The Kohler 84499 Conversion Kit exists to fix that — but only if you have the right model. Here's what 220 Amazon reviewers (averaging 4.4 stars) want you to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "BaBylissPRO Nano Titanium Italian Portofino Hair Dryer - Pro"
 seo_title: "BaBylissPRO Portofino Hair Dryer Review: Pro Power, Real Results"
 meta_description: "BaBylissPRO Portofino 2000W titanium dryer review: fast drying, ionic shine, salon-grade heat. See pros, cons & who it's right for."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CM3WV92T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610Z-JKvBvL._SL1500_.jpg"
-pros:
+pros: 
   - "2000-watt AC motor dries thick or coarse hair in 5–7 minutes — noticeably faster than standard 1875W dryers"
   - "Nano titanium technology emits far-infrared heat and negative ions, cutting frizz and boosting shine without extreme heat damage"
   - "Comes with two concentrator nozzles and a diffuser — enough attachments for precise styling or curly/textured hair"
-cons:
+cons: 
   - "Weighs about 1.4 pounds; heavier than compact travel dryers, and arm fatigue can set in during longer styling sessions"
   - "Six heat/speed settings feel redundant — most users will stick to two or three, making the controls busier than necessary"
+
 ---
 
 If you've ever stood in a hotel bathroom with a sad 1200-watt dryer, waiting for your hair to dry so you can finally go to dinner, the BaBylissPRO Nano Titanium Italian Portofino is the answer to that misery. This is a serious tool aimed at people who treat their hair like an investment — not a quick morning afterthought.

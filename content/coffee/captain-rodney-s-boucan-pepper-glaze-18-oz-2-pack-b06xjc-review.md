@@ -1,4 +1,5 @@
 ---
+
 title: "Captain Rodney's Boucan Pepper Glaze 18 oz (2 Pack)"
 seo_title: "Captain Rodney's Boucan Pepper Glaze Review (2-Pack) | 2026 inch"
 meta_description: "Captain Rodney's Boucan Pepper Glaze 2-pack review: smoky-sweet glaze that wins on flavor but has a heat caveat. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XJCWHGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713C-7W9TWL._SL1254_.jpg"
-pros:
+pros: 
   - "Smoky, complex flavor profile that works on everything from pork to roasted vegetables"
   - "Thick, clingy consistency that caramelizes beautifully without burning"
   - "Two-bottle pack offers real value at roughly $8 per bottle"
-cons:
+cons: 
   - "Heat level is genuinely mild — self-proclaimed pepperheads will want more kick"
   - "High sugar content means it can scorch if you're not watching the grill"
+
 ---
 
 ## The Glaze That Made Me Rethink Bottled Sauce

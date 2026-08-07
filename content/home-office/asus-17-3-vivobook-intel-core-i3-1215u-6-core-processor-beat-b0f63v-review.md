@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS 17.3 inch  Vivobook, Intel Core i3-1215U 6-core Processor (B"
 seo_title: "ASUS 17.3 Vivobook i3-1215U Review: Big Screen Value"
 meta_description: "Honest ASUS 17.3 inch  Vivobook review: Intel Core i3-1215U performance, display quality, battery life, and who should buy. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F63VVRHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuinely usable 17.3-inch Full HD display that doesn't force you to squint at spreadsheets"
   - "Alder Lake i3-1215U punches well above its price class for everyday multitasking"
   - "Full-size keyboard with numpad — a rarity at this price point"
-cons:
+cons: 
   - "Plastic build flexes noticeably under pressure; won't survive a drop without drama"
   - "Battery life hovers around 5-6 hours, not an all-day machine"
   - "Speakers are disappointing — thin, tinny, and easily overpowered by a phone"
+
 ---
 
 Let's be blunt about what the ASUS 17.3" Vivobook with the Intel Core i3-1215U actually is: a big-screen budget workhorse that understands its job. It's not flashy, it's not fast, and it won't excite anyone. But for $500-ish (depending on current Amazon pricing), it delivers something most laptops at this price don't — a screen that makes spreadsheets, documents, and split-screen work genuinely comfortable.

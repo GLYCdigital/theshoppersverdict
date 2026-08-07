@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Extra Gravy Wet Cat Food Chunky 24ct Variety"
 seo_title: "Purina Friskies Extra Gravy Wet Cat Food Chunky 24 Review"
 meta_description: "Our full purina friskies extra gravy wet cat food chunky 24ct variety review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FV1S8NRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xTU0soXZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you're not buying Friskies for gourmet ingredients. You're buying it because your cat inhales it, your wallet doesn't scream, and the 4.6-star rating across 229 reviews suggests it's doing something right. But before you add this 24-can variety pack to your cart, here's what you need to know.

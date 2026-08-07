@@ -1,4 +1,5 @@
 ---
+
 title: "Uphome Boho Braided Rug, Cotton Hand Woven Rug"
 seo_title: "Uphome Boho Braided Rug, Cotton Hand Woven Rug Review: Ve"
 meta_description: "Our full uphome boho braided rug, cotton hand woven rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D925XPL3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jdi2uWYZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Uphome Boho Braided Rug Review: Is This Hand-Woven Cotton Rug Worth It?

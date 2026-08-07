@@ -1,4 +1,5 @@
 ---
+
 title: "210A Toner Cartridges 4 Pack 4301fdw 4301fdn 4201dw Compatib"
 seo_title: "210A Toner 4 Pack Review: Compatible for HP 4301fdw & 4201dw"
 meta_description: "Honest 210A toner 4-pack review for HP 4301fdw/4301fdn/4201dw. Real print quality, page yield, and failure issues at 2.9 stars. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.9
 amazon_url: "https://www.amazon.com/dp/B0F62945Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LARVcbF3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cost savings—roughly 60-70% cheaper than HP-branded 210A cartridges per page"
   - "Crisp black text output with consistent density for the first 1,500-2,000 pages in most units"
   - "Simple tool-free installation; chips register immediately with HP 4301fdw and 4201dw firmware"
-cons:
+cons: 
   - "Inconsistent quality control—multiple reports of premature 'Toner Low' warnings at 40-50% claimed yield"
   - "Some units leak toner powder around the drum shutter, causing streaked prints and internal printer mess"
   - "No page count or remaining toner visibility in HP Smart app—you're flying blind until a cartridge dies"
+
 ---
 
 **The $60 gamble that could save you $200—or cost you a printer.**

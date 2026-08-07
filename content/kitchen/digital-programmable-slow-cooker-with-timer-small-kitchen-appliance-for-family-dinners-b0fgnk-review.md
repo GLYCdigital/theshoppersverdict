@@ -1,4 +1,5 @@
 ---
+
 title: "Digital Programmable Slow Cooker with Timer - Small Kitchen"
 seo_title: "Digital Programmable Slow Cooker Review: Is It Worth It?"
 meta_description: "Digital programmable slow cooker with timer review: performance, capacity, and ease of use. See if this small kitchen appliance earns its 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGNKHM3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61er+1M9UOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Programmable timer with auto warm-hold keeps food ready without overcooking, even if you're home late"
   - "Compact footprint fits under standard upper cabinets while still handling a 4-6 person meal"
   - "Digital controls with clear countdown display are intuitive enough for first-time slow cooker users"
-cons:
+cons: 
   - "Stoneware insert is heavy when full — awkward for anyone with weak wrists or arthritis"
   - "No searing function on the base, so you'll need a separate pan for browning meat first"
+
 ---
 
 Let's be honest: most slow cookers are the same gray oval with three knobs and a lid that rattles. This digital programmable model from the "Small Kitchen" line actually attempts something different — and mostly succeeds.

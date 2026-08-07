@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | Firefly Fastpitch Softball Bat | Approved for All F"
 seo_title: "Easton Firefly Fastpitch Bat Review: Worth It? (2026)"
 meta_description: "Honest Easton Firefly Fastpitch Softball Bat review: 12U-14U performance, all-fields approval, durability concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CX9M5T9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a2MIjmh3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Approved for all major fastpitch associations (ASA, USSSA, NSA, ISA) — one bat for every league"
   - "Balanced swing weight offers a smooth transition for slappers and contact hitters moving up from -10 or -11 drops"
   - "Composite barrel delivers a generous sweet spot that performs well in cooler spring temperatures"
-cons:
+cons: 
   - "Durability reports are inconsistent — several buyers report cracking within 50-100 swings, especially on mis-hits"
   - "Lacks the pop of premium composite bats in the same price tier; exit velocity feels average, not elite"
   - "Grip wears quickly — plan on re-wrapping within the first month of regular practice"
+
 ---
 
 **The Easton Firefly is a solid, no-drama fastpitch bat that does exactly what it promises — and nothing more.** It's not the flashiest or the hottest bat off the rack, but for a 12U or 14U player transitioning to a heavier drop, it's a legitimate option worth considering. Here's the breakdown.

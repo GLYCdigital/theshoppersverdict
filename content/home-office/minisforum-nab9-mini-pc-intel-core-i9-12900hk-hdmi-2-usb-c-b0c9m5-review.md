@@ -1,4 +1,5 @@
 ---
+
 title: "MINISFORUM NAB9 Mini PC Intel Core i9-12900HK HDMIÃ—2+USB-CÃ"
 seo_title: "MINISFORUM NAB9 Mini PC Intel Core i9-12900HK HDMI Review"
 meta_description: "Our full minisforum nab9 mini pc intel core i9-12900hk hdmiã—2+usb-cã review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C9M5XTXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M-zGh6SnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 14-Core Desktop Replacement That Hides in Plain Sight

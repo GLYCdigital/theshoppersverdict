@@ -1,4 +1,5 @@
 ---
+
 title: "Noctua NH-D9L, Premium CPU Cooler with NF-A9 92mm Fan (Brown"
 seo_title: "Noctua NH-D9L, Premium CPU Cooler with NF-A9 92mm  Review"
 meta_description: "Our full noctua nh-d9l, premium cpu cooler with nf-a9 92mm fan (brown review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00QCEWTAW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gUPWuWARL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Noctua NH-D9L is the cooler you buy when you've already committed to a small form factor build and realized most tower coolers simply won't fit. At just 110mm tall, this dual-tower cooler squeezes into cases that reject everything else. But the real question is whether that clearance comes at too steep a performance cost. After examining the specs and digging through 235 Amazon ratings, here's the honest picture.

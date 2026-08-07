@@ -1,4 +1,5 @@
 ---
+
 title: "Harper & Bright Designs Queen Size Murphy Bed, Wood Queen Wa"
 seo_title: "Harper & Bright Designs Queen Murphy Bed Review: Worth It?"
 meta_description: "Honest Harper & Bright Designs Queen Murphy Bed review: build quality, space-saving value, and real owner feedback. See if this wall bed fits your home."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0DNZ4CBSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-osjHioHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid plywood cabinet construction with soft-close hinges feels sturdier than particleboard alternatives in this price range"
   - "Built-in folding mechanism with gas piston assist makes lowering and raising the bed manageable for one person"
   - "Generous under-cabinet clearance when folded — fits standard rolling storage bins or a small desk setup"
-cons:
+cons: 
   - "Hardware quality is inconsistent; several owners report stripped screws and misaligned pre-drilled holes during assembly"
   - "Cabinet depth is deeper than most standard Murphy beds (approximately 18 inches), which eats into room floor space when closed"
   - "No mattress included, and the bed requires a specific 8–10 inch mattress thickness — thicker models won't fold flush"
+
 ---
 
 ## The space-saving gamble: Does this Murphy bed deliver?

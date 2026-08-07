@@ -1,4 +1,5 @@
 ---
+
 title: "Petheivun Big & Tall Office Chair 500LBS"
 seo_title: "Petheivun Big & Tall Office Chair 500LBS Review: Verdict "
 meta_description: "Our full petheivun big & tall office chair 500lbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CW32G3P6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FMez8aWAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're over 250 pounds, you know the struggle of shopping for an office chair. Most "heavy-duty" chairs claim support they don't deliver — wobbly bases, sinking gas lifts, and seats that bottom out after three months. The Petheivun Big & Tall Office Chair is one of the few that takes the 500-pound rating seriously. After digging through 215 Amazon ratings and the engineering specs, here's the real story.

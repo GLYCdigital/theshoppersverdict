@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market Chocolate Chip Scone 4 Count"
 seo_title: "Whole Foods Market Chocolate Chip Scone 4 Count Review: V"
 meta_description: "Our full whole foods market chocolate chip scone 4 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08MM9XPPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41nafZLbfvL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Coffee's Best Friend — If You Warm It First**

@@ -1,4 +1,5 @@
 ---
+
 title: "VBKK 2 Tier Wagon Wheel Chandelier Farmhouse Industrial Ligh"
 seo_title: "VBKK 2 Tier Wagon Wheel Chandelier Farmhouse Indus Review"
 meta_description: "Our full vbkk 2 tier wagon wheel chandelier farmhouse industrial ligh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK6WFCKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZLN6qO9gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the VBKK 2 Tier Wagon Wheel Chandelier is a statement piece that costs a fraction of what you'd pay at a specialty lighting store. The 4.4-star average across 220 ratings isn't inflated with fake enthusiasm — buyers genuinely like the look. But there are real tradeoffs that deserve attention before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Overnight Heatless Curling Hair Care Set"
 seo_title: "Overnight Heatless Curling Hair Care Set Review: Verdict "
 meta_description: "Our full overnight heatless curling hair care set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GWMDM7DK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xK+dSwxCL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time on social media, you've seen the overnight heatless curl trend: wrap damp hair around a flexible rod, sleep, wake up with salon waves — zero heat damage. The **Overnight Heatless Curling Hair Care Set** promises exactly that, packaged as a complete kit.

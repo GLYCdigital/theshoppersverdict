@@ -1,4 +1,5 @@
 ---
+
 title: "Moroccanoil Intense Smoothing Frizz Control Serum, 1.7 Fl. O"
 seo_title: "Moroccanoil Intense Smoothing Frizz Control Serum, Review"
 meta_description: "Our full moroccanoil intense smoothing frizz control serum, 1.7 fl. o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCK1XL7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fZsL7E4sL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the scroll: this is the closest thing to a magic wand for frizz that I've tested in the luxury hair care category. But it's not without caveats, and you should know exactly what you're buying before you hit that checkout button.

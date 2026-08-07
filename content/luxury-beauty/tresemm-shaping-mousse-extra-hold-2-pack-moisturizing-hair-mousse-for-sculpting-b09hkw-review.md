@@ -1,4 +1,5 @@
 ---
+
 title: "TRESemmÃ© Shaping Mousse, Extra Hold 2-Pack â€“â€¯Moisturizi"
 seo_title: "TRESemmÃ© Shaping Mousse, Extra Hold 2-Pack â€“â€¯ Review"
 meta_description: "Our full tresemmã© shaping mousse, extra hold 2-pack â€“â€¯moisturizi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09HKWMQSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FFMz2qlrL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **TRESemmé Shaping Mousse, Extra Hold 2-Pack Review: Real Hold Without the Helmet Head**

@@ -1,4 +1,5 @@
 ---
+
 title: "Dragro 2023 Upgraded Sheep Clippers 500W, Professional Elect"
 seo_title: "Dragro 500W Sheep Clippers Review: Pros, Cons & Verdict"
 meta_description: "Dragro 2023 Upgraded 500W sheep clippers review: real power, blade quality, and durability tested. Is this pro shearer worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B096XKY6G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wH7v9CiXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 500W motor handles thick, dirty fleece without bogging down mid-run"
   - "Cutter and comb assembly is interchangeable with standard Heiniger-style blades"
   - "Ventilation slots and aluminum housing keep it cool through multi-hour sessions"
-cons:
+cons: 
   - "Cord is on the shorter side at 10 feet, which limits mobility in large pens"
   - "Blades arrive sharp but need immediate break-in oiling; skipping this causes tugging"
   - "Noise level sits at roughly 85 dB — hearing protection recommended for full-day use"
+
 ---
 
 **Review Body:**

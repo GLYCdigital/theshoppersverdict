@@ -1,4 +1,5 @@
 ---
+
 title: "63XL Ink Cartridges Black and Color for HP Ink 63 Replacemen"
 seo_title: "63XL Ink Cartridges Review: HP 63 Replacement Value"
 meta_description: "Honest 63XL ink cartridges review for HP 63 replacements. Compare yield, print quality, and cost per page. See if this 2-pack is worth buying."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSVSJQRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71StIAqJgIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "XL yield delivers roughly 480 black pages and 330 color pages per cartridge — nearly double standard HP 63 capacity"
   - "Chip compatibility works reliably with HP printers that accept third-party cartridges, including Envy and DeskJet models"
   - "Color accuracy is solid for a remanufactured cartridge — no banding or streaking reported on standard copy paper"
-cons:
+cons: 
   - "Not OEM — HP firmware updates can occasionally trigger 'non-genuine' warnings that require manual override"
   - "Some units report lower-than-expected black yield if the printer runs frequent cleaning cycles"
   - "Packaging varies between batches; a few buyers received loose cartridges without protective caps"
+
 ---
 
 Let me save you the research time: if you own an HP printer that takes the 63 or 63XL cartridge, you already know the OEM price is painful. This two-pack — one black XL, one tricolor XL — is the third-party alternative that's been sitting in Amazon carts since it launched. Here's what 215 buyers at 4.3 stars are actually getting for their money.

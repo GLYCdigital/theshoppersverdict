@@ -1,4 +1,5 @@
 ---
+
 title: "General Pump TSF2021 Pressure Washer Pump, Triplex, 8.5GPM@3 inch"
 seo_title: "General Pump TSF2021 Review: Triplex 8.5 GPM Pump"
 meta_description: "General Pump TSF2021 triplex pressure washer pump review: 8.5 GPM @ 3600 PSI, 1750 RPM. Build quality, real-world performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B074PCL91D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yjZbyM53L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine Italian-made triplex with forged brass manifold and ceramic plungers — not a cheap knockoff"
   - "Massive 8.5 GPM flow at 3600 PSI handles commercial-grade cleaning and high-demand applications"
   - "Direct replacement for many General Pump TS Series models; bolt pattern and shaft match common Honda/GX and Kohler setups"
-cons:
+cons: 
   - "Heavy at roughly 45 pounds — shipping weight is substantial, and mounting requires a solid frame"
   - "Requires a 1750 RPM engine with a 1-1/8-inch keyed shaft; mismatched pulleys or direct-drive setups will need adapter work"
+
 ---
 
 ## Is the General Pump TSF2021 Worth the Money for Serious Cleaning?

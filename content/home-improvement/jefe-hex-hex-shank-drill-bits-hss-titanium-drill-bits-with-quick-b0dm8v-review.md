@@ -1,4 +1,5 @@
 ---
+
 title: "JEFE HEX Hex Shank Drill Bits, HSS Titanium Drill Bits with "
 seo_title: "JEFE HEX Hex Shank Drill Bits, HSS Titanium Drill  Review"
 meta_description: "Our full jefe hex hex shank drill bits, hss titanium drill bits with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM8VBZK7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z-XpBukCL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most drill bit sets under $30 fall into one of two camps: cheap enough to treat as disposable, or frustrating enough to make you wish you'd spent more. The JEFE HEX hex shank set tries to split that difference, and based on 225 Amazon ratings averaging 4.5 stars, it's mostly working. Here's what you need to know before buying.

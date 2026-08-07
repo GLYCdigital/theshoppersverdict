@@ -1,23 +1,25 @@
 ---
+
 title: "Bathroom Sink Faucet 4 Inch 2 Handle Centerset Lead-Free Mod"
 seo_title: "Bathroom Sink Faucet 4 Inch 2 Handle Centerset Lead-Free Review"
 meta_description: "Honest review of the 4-inch 2-handle centerset bathroom faucet: lead-free build, easy install, real pros/cons from 225 ratings. Is it right for your sink?"
 slug: "bathroom-sink-faucet-4-inch-2-handle-centerset-lead-free-modern-bathroom-b0dfch-review"
 image_alt: "Modern 4-inch centerset bathroom faucet with two chrome handles and lead-free construction"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFCH53MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KBYhAo2SL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 4-inch centerset fit — drops into most existing 3-hole sinks without a new deck plate"  
   - "Lead-free brass body with a smooth chrome finish that resists water spots better than expected"  
   - "Quarter-turn ceramic cartridges — no drip after months of daily use, handles move with zero play"  
-cons:  
+cons: 
   - "Supply lines are not included — you’ll need to buy your own 3/8-inch compression hoses"  
   - "Aerator is plastic, not metal — fine for water flow but feels cheap if you’re used to brass fittings"
+
 ---
 
 # Bathroom Sink Faucet 4 Inch 2 Handle Centerset Lead-Free: The No-Nonsense Pick for Standard 3-Hole Sinks  

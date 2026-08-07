@@ -1,4 +1,5 @@
 ---
+
 title: "Dance Mat Toys for 4 Years Old Girls - Light Up Dance Floor"
 seo_title: "Dance Mat Toys for 4 Year Old Girls Review (2026): Worth It?"
 meta_description: "Honest review of the Light Up Dance Floor mat for 4-year-old girls. Tested for durability, sound quality, and fun. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHGKS4L8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ducYMaphL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five play modes (follow-me, free dance, memory, step-count, and two-player) keep the toy fresh for months, not days"
   - "Non-slip textured surface holds up on hardwood and tile without sliding mid-jump"
   - "Built-in speaker is genuinely loud enough for a playroom, with volume control parents will actually use"
-cons:
+cons: 
   - "Requires 3 AA batteries (not included) and chews through them in about 6-8 hours of active play"
   - "Sensor pads are less responsive when kids wear thick socks or slippers — bare feet work best"
+
 ---
 
 If you've got a 4-year-old who treats every kitchen floor as a stage, the Light Up Dance Floor mat is about to become the most-used toy in your house. After spending a week with this thing — and watching a very opinionated 4-year-old put it through her paces — I can tell you exactly where it shines and where it frustrates.

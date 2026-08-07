@@ -1,4 +1,5 @@
 ---
+
 title: "HERSHEY'S Natural Unsweetened Cocoa Powder Can, 8 oz"
 seo_title: "HERSHEY'S Natural Unsweetened Cocoa Powder Can, 8  Review"
 meta_description: "Our full hershey's natural unsweetened cocoa powder can, 8 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D95P2BF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614ibEVT7zL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen the can a hundred times — that familiar red lid, the bold HERSHEY’S script. But here’s what most shoppers don’t realize: this 8 oz can of **natural unsweetened cocoa powder** is one of the most versatile, budget-friendly upgrades you can make to your home coffee bar. It’s not just for brownies. This is the ingredient that turns a plain drip coffee into a 30-second mocha that beats most café versions.

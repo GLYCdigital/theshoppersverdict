@@ -1,4 +1,5 @@
 ---
+
 title: "French's Original Chili Seasoning Mix Review"
 seo_title: "French's Original Chili Seasoning Mix Review (2026) | Honest Verdict"
 meta_description: "French's Original Chili Seasoning Mix review: real flavor tests, portion sizes, and buyer feedback. See if this 4.8-star pantry staple earns a spot in your kitchen."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CNNVK7BH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZhFVzlejL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced spice blend that delivers real heat without overpowering — works for family dinners, not just chili purists"
   - "One packet seasons a full pound of meat, making meal prep genuinely easy for weeknight cooking"
   - "Consistent results batch after batch — no clumping, no bland pockets, even when simmered low and slow"
-cons:
+cons: 
   - "Sodium runs high at 390mg per serving — anyone watching salt intake will need to adjust or skip"
   - "Single-serve packets only — no bulk jar option on this listing, so heavy users will reorder frequently"
+
 ---
 
 Let’s be honest: most chili seasoning packets are dust with ambition. French’s version is different, and the 4.8-star average across 240 ratings backs that up. I tested it three ways — classic ground beef chili, a vegetarian bean version, and a quick weeknight skillet — to see if this seasoning earns permanent pantry space.

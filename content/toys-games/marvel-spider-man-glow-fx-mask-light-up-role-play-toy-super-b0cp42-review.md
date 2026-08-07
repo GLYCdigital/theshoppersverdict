@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Spider-Man Glow FX Mask, Light-Up Role Play Toy, Supe"
 seo_title: "Marvel Spider-Man Glow FX Mask, Light-Up Role Play Review"
 meta_description: "Our full marvel spider-man glow fx mask, light-up role play toy, supe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP42BTSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YrbTnUaWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The Real Story Behind the Glow

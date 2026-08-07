@@ -1,23 +1,25 @@
 ---
+
 title: "Art3d 12-Pack Drop Ceiling Tiles 2x4 Ft, Decorative PVC Ceil"
 seo_title: "Art3d 12-Pack Drop Ceiling Tiles Review (2x4 Ft PVC)"
 meta_description: "Honest Art3d 12-pack drop ceiling tiles review: 2x4 ft PVC panels, easy install, real pros/cons, and who should buy. 4.5-star rating breakdown."
 slug: "art3d-12-pack-drop-ceiling-tiles-2x4-ft-decorative-pvc-ceiling-covering-b0dfsy-review"
 image_alt: "Art3d 12-pack 2x4 ft decorative PVC drop ceiling tiles laid out for installation"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFSY2Q9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719gm-TGhvL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine 2x4 ft size (not undersized like many budget tiles) — fits standard drop ceiling grids without trimming"  
   - "PVC material is waterproof and moisture-resistant, so it won't sag or stain in basements or bathrooms"  
   - "Lightweight at about 1.5 lbs per tile — one person can handle installation"  
-cons:  
+cons: 
   - "Surface scratches easily during installation — handle with care or you'll see marks under direct light"  
   - "Pattern is printed, not embossed — up close it looks flat, not like real tin or wood"
+
 ---
 
 If you're staring at a stained, sagging drop ceiling in a basement or rental, you've probably priced replacement tiles and winced. The Art3d 12-pack offers a genuinely different route: PVC tiles that actually fit standard 2x4 ft grids, cost less than mineral fiber per square foot, and shrug off moisture. But "decorative" is doing a lot of heavy lifting in the product name. Here's what you need to know before clicking buy.

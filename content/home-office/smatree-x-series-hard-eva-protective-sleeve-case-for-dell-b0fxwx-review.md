@@ -1,4 +1,5 @@
 ---
+
 title: "Smatree X Series Hard EVA Protective Sleeve Case for DELL"
 seo_title: "Smatree X Series Hard EVA Protective Sleeve Case f Review"
 meta_description: "Our full smatree x series hard eva protective sleeve case for dell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXWX8JKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r-UPW01CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Smatree X Series Hard EVA Protective Sleeve Case for DELL: The $36 Armor Your Laptop Deserves

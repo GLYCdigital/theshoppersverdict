@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market 365 By Wfm Coffee Buzz Free Decaff"
 seo_title: "365 by Whole Foods Decaf Coffee Review: Buzz-Free Brew"
 meta_description: "365 by Whole Foods Market decaf coffee review: taste, value, and quality. Is this buzz-free brew worth it? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7HQCT21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QNq2KkBwL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, full-bodied flavor that doesn't taste like typical watery decaf"
   - "Swiss Water Process removes caffeine without chemical solvents"
   - "Consistent quality across multiple batches, per long-term buyer reports"
-cons:
+cons: 
   - "Whole beans require a grinder — no pre-ground option for convenience buyers"
   - "Lighter roast profile may underwhelm those who prefer dark, smoky brews"
+
 ---
 
 Most decaf coffee tastes like a punishment — a watery, flat apology for a beverage. The 365 by Whole Foods Market Coffee Buzz Free Decaf doesn't. It's the rare decaf that actually tastes like coffee, not a sad approximation of it. After 220 ratings averaging 4.4 stars, this isn't a niche opinion.

@@ -1,7 +1,8 @@
 ---
-title: "KALI AUDIO LP-6 V2 6.5\" Project Lone Pine Powered Studio Mon"
-seo_title: "KALI AUDIO LP-6 V2 6.5\" Project Lone Pine Powered  Review"
-meta_description: "Our full kali audio lp-6 v2 6.5\" project lone pine powered studio mon review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "KALI AUDIO LP-6 V2 6.5\ Project Lone Pine Powered Studio Mon"
+seo_title: "KALI AUDIO LP-6 V2 6.5\ Project Lone Pine Powered  Review"
+meta_description: "Our full kali audio lp-6 v2 6.5\ project lone pine powered studio mon review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kali-audio-lp-6-v2-6-5-project-lone-pine-powered-studio-b09mlt-review"
 image_alt: "KALI AUDIO LP-6 V2 6.5 Project Lone Pine Powered Studio Monitor - Low-Noise Bi-Amped Professional Studio Speaker for Mus"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09MLT8C45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xv-F6gUZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kali Audio LP-6 V2 isn't just another budget studio monitor. It's the speaker that made budget audiophiles and home studio owners question why they ever spent twice as much elsewhere. But it's not perfect — and pretending otherwise does you no favors.**

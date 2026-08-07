@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset SmartCode 270 Keyless Entry Electronic Touchpad Dead"
 seo_title: "Kwikset SmartCode 270 Keyless Entry Electronic Tou Review"
 meta_description: "Our full kwikset smartcode 270 keyless entry electronic touchpad dead review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXMJ85WF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gDDk+gP6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're shopping for a keyless deadbolt and expect it to connect to your phone, stop reading right now. The Kwikset SmartCode 270 is not a smart lock. It's a keypad lock — and that's exactly why it might be the right choice for you.

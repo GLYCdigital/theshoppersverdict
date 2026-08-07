@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Marvel Spidey and His Amazing Friends Spidey and Gobby'"
 seo_title: "LEGO Marvel Spidey and His Amazing Friends Spidey  Review"
 meta_description: "Our full lego marvel spidey and his amazing friends spidey and gobby' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ1BPFX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YKEA8a0CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with the *Spidey and His Amazing Friends* show on Disney Jr., you already know the struggle: finding toys that match the cartoon's energy without breaking the bank or requiring a PhD in instruction-following. The LEGO Marvel Spidey and Gobby' set (set number 10797) walks that line impressively well. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "echosari Solar Curtain Lights Garden Outdoor 7.9ft x 6ft 144 inch"
 seo_title: "echosari Solar Curtain Lights Review: 144 LED Outdoor Decor"
 meta_description: "Honest echosari solar curtain lights review: 7.9ft x 6ft, 144 LEDs. Build quality, brightness, battery life, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CB5D8LXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VFpoUF+PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True drop-style curtain design with 144 individual LEDs on 12 strands, each strand 5.9ft long — covers a solid 7.9ft x 6ft area without gaps"
   - "Solar panel separates from the lights via a 9.8ft cable, so you can mount the panel in direct sun while hanging lights in a shaded porch"
   - "8 lighting modes including steady, wave, and twinkle — controlled from a single button, no app or remote required"
-cons:
+cons: 
   - "Battery life in real-world use runs 4-6 hours on a full charge, not the 8-10 hours advertised, especially in winter or cloudy conditions"
   - "The plastic housing around the solar panel feels thin; several reviewers report cracking after one season of UV exposure"
   - "Light color is a cool white (6000K), not warm white — if you want that cozy amber glow, this isn't it"
+
 ---
 
 Let's cut to it: the echosari Solar Curtain Lights are a solid value for the money, but they come with a few caveats that could matter depending on where you hang them. Here's the honest breakdown after digging through spec sheets and 204 verified buyer experiences.

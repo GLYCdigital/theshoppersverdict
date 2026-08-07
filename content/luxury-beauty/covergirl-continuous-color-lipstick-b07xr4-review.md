@@ -1,4 +1,5 @@
 ---
+
 title: "Covergirl Continuous Color Lipstick Review"
 seo_title: "Covergirl Continuous Color Lipstick Review (2026): Worth It?"
 meta_description: "Honest Covergirl Continuous Color Lipstick review: rich color, all-day wear, and hydration. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07XR42BYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RDtlMk8aL._SL1500_.jpg"
-pros:
+pros: 
   - "Buttery, hydrating formula with aloe and vitamin E that doesn't dry out lips"
   - "One-swipe opaque color payoff that lasts 4-6 hours through coffee and snacks"
   - "Classic shade range (30+ colors) with true-to-tube accuracy across the line"
-cons:
+cons: 
   - "Not transfer-proof — expect some color on glasses and cups"
   - "Bullet is soft; can break if you apply too much pressure in warm weather"
+
 ---
 
 ## The $10 Lipstick That Beats $40 Tubes — Here's the Truth

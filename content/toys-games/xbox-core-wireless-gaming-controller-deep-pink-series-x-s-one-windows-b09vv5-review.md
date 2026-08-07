@@ -1,4 +1,5 @@
 ---
+
 title: "Xbox Core Wireless Gaming Controller â€“ Deep Pink Series X|"
 seo_title: "Xbox Core Wireless Gaming Controller â€“ Deep Pink Review"
 meta_description: "Our full xbox core wireless gaming controller â€“ deep pink series x| review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09VV5LJS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hxzGfRpKL._SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the preamble: this is the same excellent Xbox Series X|S controller you’ve seen reviewed a hundred times, just dressed in a color that actually pops. The Deep Pink finish is saturated and confident — not the pale, washed-out pink you see on budget peripherals. But the real question isn’t whether it looks good. It’s whether you should spend your money on this over the black standard model or a third-party alternative. Here’s the honest breakdown.

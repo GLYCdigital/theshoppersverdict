@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Money Tree - Lunar New Year Building Toy - Kids Chinese"
 seo_title: "LEGO Money Tree - Lunar New Year Building Toy - Ki Review"
 meta_description: "Our full lego money tree - lunar new year building toy - kids chinese review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BRBKRRKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JV96j8gnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Money Tree (set 40648) is a compact cultural gem that packs more authenticity into 336 pieces than most LEGO sets triple its size.** It's not a playset — it's a conversation piece, a teaching tool, and a genuinely thoughtful gift for Lunar New Year. Here's the real breakdown.

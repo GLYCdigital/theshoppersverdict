@@ -1,4 +1,5 @@
 ---
+
 title: "Evermagin 29 inch  Coat Rack Wall Mount with Shelf Metal"
 seo_title: "Evermagin 29 inch  Coat Rack with Shelf Review (2026)"
 meta_description: "Honest Evermagin 29 inch  coat rack wall mount review: sturdy steel build, 4.6-star rating, real limits on coat capacity and shelf weight. Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQV8DJBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718QSZWCeoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full steel construction with 5 sturdy hooks rated for heavy coats and bags"
   - "Integrated shelf adds storage without extra wall footprint — good for small entryways"
   - "All mounting hardware included; installs in under 15 minutes with a drill"
-cons:
+cons: 
   - "Shelf is decorative-weight only — keep it under 10 lbs or it will sag"
   - "Hooks are fixed; you can't angle them for bulky items like umbrellas"
   - "Black finish scratches if you drag metal hangers across it repeatedly"
+
 ---
 
 Most wall-mounted coat racks are either flimsy wire disasters or overbuilt industrial monsters that cost three times as much. The **Evermagin 29" Coat Rack with Shelf** sits in the sweet spot — a welded steel frame with a real wood shelf that doesn't look like it belongs in a garage. After 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it the right rack for your entryway? Let's dig into what you're actually getting.

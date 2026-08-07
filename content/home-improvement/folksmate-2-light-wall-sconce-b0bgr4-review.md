@@ -1,4 +1,5 @@
 ---
+
 title: "FOLKSMATE 2-Light Wall Sconce"
 seo_title: "FOLKSMATE 2-Light Wall Sconce Review: Worth It?"
 meta_description: "Honest FOLKSMATE 2-light wall sconce review: build quality, brightness, and installation. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGR4PH78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kDxenpYFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable gooseneck arms let you direct light exactly where needed—rare at this price point"
   - "Dimmable compatibility with standard LED bulbs works smoothly (verified by multiple buyers)"
   - "Heavy-duty metal construction with a matte finish that resists fingerprints and smudges"
-cons:
+cons: 
   - "Requires hardwiring—no plug-in option, so plan for electrical work or an electrician"
   - "Downrod and mounting hardware feel slightly thin; take care during installation to avoid stripping threads"
+
 ---
 
 ### The Bottom Line First

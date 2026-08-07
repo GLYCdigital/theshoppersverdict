@@ -1,23 +1,25 @@
 ---
+
 title: "DSMJFU DSMJFU Small Semi Flush Mount Ceiling Light"
 seo_title: "DSMJFU Semi Flush Mount Ceiling Light Review (2026)"
 meta_description: "Honest DSMJFU small semi flush mount ceiling light review: brightness, build, dimming quirks, and who should buy. 4.6/5 from 229 ratings."
 slug: "dsmjfu-dsmjfu-small-semi-flush-mount-ceiling-light-b0dpsv-review"
 image_alt: "DSMJFU small semi flush mount ceiling light installed in a hallway with warm ambient glow"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPSVJPKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71HEoKph20L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Compact footprint (11-inch diameter) fits tight spaces without overwhelming a small room"  
   - "Warm 3000K LED delivers genuinely cozy light — not the sterile blue-white most budget fixtures emit"  
   - "Tool-free installation with a twist-lock canopy; most buyers report 20-minute setups"  
-cons:  
+cons: 
   - "Non-replaceable LED board — when it dies, the whole fixture goes (rated ~25,000 hours)"  
   - "No dimmer compatibility unless you buy the separate dimmable driver version"
+
 ---
 
 The DSMJFU Small Semi Flush Mount is the kind of fixture that makes you wonder why every builder-grade ceiling light isn't this thoughtful. It's a 11-inch disc that sits about 4 inches off the ceiling — low enough for a 7-foot hallway, compact enough for a laundry room, and styled with a brushed gold ring that reads more boutique hotel than big-box store.

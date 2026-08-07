@@ -1,23 +1,25 @@
 ---
+
 title: "addlon Floor lamp with Shelves"
 seo_title: "addlon Floor Lamp with Shelves Review: 4.5-Star Pick"
 meta_description: "Read our addlon Floor lamp with Shelves review: build quality, shelf stability, and lighting performance. Is it worth it? Find out before you buy."
 slug: "addlon-floor-lamp-with-shelves-b0gxlm-review"
 image_alt: "addlon floor lamp with wood shelves in a modern living room setting"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXLMB2SV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613ZD7sLfTL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Three solid wood shelves hold up to 8 lbs each — real storage, not just decoration"  
   - "Remote control with 3 color temps and dimmable brightness from 5% to 100%"  
   - "Assembles in under 15 minutes with clear instructions and a hex key included"  
-cons:  
+cons: 
   - "No USB port — you're stuck with the two-prong outlet plug"  
   - "Light head is fixed; you can't tilt or swivel it to direct light where you need it"
+
 ---
 
 **The addlon Floor Lamp with Shelves isn't your average corner filler.** Most floor lamps are a pole, a shade, and a bulb — this one actually earns its footprint. It's a hybrid: a task lamp, an ambient light source, and a three-shelf display unit in one. If you're short on floor space and need somewhere to put plants, books, or a record player, this design makes sense. But before you hit "add to cart," here's what 225 Amazon reviewers (averaging 4.5 stars) actually say about living with it.

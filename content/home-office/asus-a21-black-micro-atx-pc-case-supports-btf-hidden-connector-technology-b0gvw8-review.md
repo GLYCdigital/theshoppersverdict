@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS A21 Black Micro ATX PC Case Supports BTF Hidden Connect"
 seo_title: "ASUS A21 Review: BTF Hidden Connect mATX Case (2026)"
 meta_description: "ASUS A21 micro ATX case review: BTF Hidden Connect, airflow, build quality. Real buyer feedback, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVW8F14J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HxgoFI4JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "BTF Hidden Connect support hides the 24-pin and front-panel cables entirely — a genuinely clean build with zero adapter tricks."
   - "Mesh front panel with two pre-installed 140mm fans delivers strong out-of-the-box airflow for a mATX case in this price tier."
   - "Generous GPU clearance at 380mm and CPU cooler height at 165mm fits nearly any current mid-range or high-end component."
-cons:
+cons: 
   - "No rear fan included — you'll need to budget for at least one 120mm exhaust fan to balance the positive pressure setup."
   - "Cable management space behind the motherboard tray is tight at roughly 22mm, especially when routing the thicker BTF connector bundles."
+
 ---
 
 The ASUS A21 isn't trying to be flashy. It's a black box with a mesh front — but that's exactly the point. This is a case built for people who care more about clean cable routing and airflow than RGB spectacle. And with BTF Hidden Connect support, it's quietly one of the more interesting mATX options in 2026.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports NFL Kids Football Uniform Set - NFL Youth Fo"
 seo_title: "Franklin Sports NFL Kids Football Uniform Review (2026)"
 meta_description: "Franklin Sports NFL Kids Football Uniform Set review: sizing, durability, value. Is this $80 youth costume worth it? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDY9S6QK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Hz5cjTpDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete set includes jersey, padded pants, and integrated shoulder pads — no separate pieces to buy"
   - "Genuine NFL team branding that holds up to washing without peeling or cracking"
   - "Adjustable fit system accommodates growth spurts across two full youth sizes"
-cons:
+cons: 
   - "Padding is foam-based and more costume-grade than game-ready — not for tackle football"
   - "Sizing runs small; several buyers recommend going one full size up from normal youth sizing"
+
 ---
 
 ## Is This the Youth Football Uniform That Delivers?

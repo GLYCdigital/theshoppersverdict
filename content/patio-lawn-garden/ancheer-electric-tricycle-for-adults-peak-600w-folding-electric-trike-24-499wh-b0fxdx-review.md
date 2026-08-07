@@ -1,4 +1,5 @@
 ---
+
 title: "ANCHEER Electric Tricycle for Adults, Peak 600W Folding Elec"
 seo_title: "ANCHEER Electric Tricycle Review: 600W Folding Trike"
 meta_description: "ANCHEER 600W folding electric trike review: range, comfort, stability, and real buyer feedback. Is this adult e-tricycle worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXDXY161/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QEp8p7a4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-wheel stability with a low step-through frame makes mounting and balancing genuinely easy for older riders or those with mobility concerns"
   - Folding hinge and 24 inch wheels split the difference—compact enough for a trunk, stable enough for real road use at up to 15.5 mph
   - "499Wh battery delivers a claimed 55-mile max range; realistic mixed-use riding lands around 30-40 miles per charge"
-cons:
+cons: 
   - "At roughly 70 lbs, it's not a featherweight—lifting it into a car trunk or up stairs requires real effort despite the folding hinge"
   - "The front basket is small and the rear rack has a 55-lb limit; don't plan on hauling a full week of groceries without adding your own bags"
+
 ---
 
 **The honest take on a three-wheeled e-trike that trades sportiness for stability**

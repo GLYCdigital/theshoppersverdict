@@ -1,4 +1,5 @@
 ---
+
 title: "Dirnun Christmas Lights Incandescent Lights UL Certified Con"
 seo_title: "Dirnun Christmas Lights Review: UL Certified Incandescent Set"
 meta_description: "Honest Dirnun Christmas Lights review: UL-certified incandescent string lights at $11.99. Warm glow, connectable design, real buyer feedback. Worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKF8NMPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k9DsnbTVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True incandescent warm glow (2700K) that LEDs still can't replicate for that classic Christmas feel"
   - "UL certification means real third-party fire safety testing — rare at this price point"
   - "End-to-end connectable design lets you link up to 5 sets without overloading a single outlet"
-cons:
+cons: 
   - "Incandescent bulbs run hot and draw more power (roughly 5W per string) than LED alternatives"
   - "Glass bulbs are fragile — expect occasional breakage during installation or storage"
+
 ---
 
 Let's cut through the holiday marketing noise. At $11.99 for a UL-certified incandescent string light set, the Dirnun Christmas Lights are either a nostalgic bargain or a dated technology you should skip. After digging through 229 buyer ratings and the spec sheet, here's what actually matters.

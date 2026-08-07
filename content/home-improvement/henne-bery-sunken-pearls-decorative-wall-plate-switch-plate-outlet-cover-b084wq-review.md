@@ -1,4 +1,5 @@
 ---
+
 title: "Henne Bery Sunken Pearls Decorative Wall Plate Switch Plate "
 seo_title: "Henne Bery Sunken Pearls Decorative Wall Plate Swi Review"
 meta_description: "Our full henne bery sunken pearls decorative wall plate switch plate  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B084WQ57ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D8isvxCgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wall plates are an afterthought — a piece of cheap plastic you screw on and immediately forget. The Henne Bery Sunken Pearls plate is the opposite. This is a decorative accent that makes people stop and look. At $11.99, it's priced like a luxury upgrade but sits firmly in impulse-buy territory. The question is whether the pearl detailing holds up to real-world use or just looks good in the listing photos.

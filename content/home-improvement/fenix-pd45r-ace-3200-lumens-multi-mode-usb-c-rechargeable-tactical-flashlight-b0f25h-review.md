@@ -1,4 +1,5 @@
 ---
+
 title: "Fenix PD45R ACE 3200 Lumens Multi-Mode USB-C Rechargeable Ta"
 seo_title: "Fenix PD45R ACE Review: 3200 Lumen Tactical Flashlight Tested"
 meta_description: "Fenix PD45R ACE 3200-lumen tactical flashlight review: beam distance, USB-C charging, build quality, and real-world performance. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F25H92TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gGjPtX2yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3200-lumen turbo output with 1,300+ meter beam throw — verified by multiple independent reviewers"
   - "USB-C charging with power bank capability means you can charge your phone from the light in a pinch"
   - "Dual-switch interface (tail switch for instant strobe/turbo, side switch for mode cycling) is intuitive under gloves"
-cons:
+cons: 
   - "Turbo mode thermal-throttles to 1500 lumens after roughly 3 minutes of continuous use"
   - "Proprietary battery required — the included 21700 cell is not cross-compatible with other Fenix lights"
   - "No pocket clip included in the box (sold separately), which feels cheap at this price point"
+
 ---
 
 # Fenix PD45R ACE Review: 3200 Lumens of Serious Throw

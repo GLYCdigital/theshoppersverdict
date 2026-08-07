@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Leaf Iced Tea, Extra Sweet, Real Brewed Tea, 18.5 Fl Oz"
 seo_title: "Pure Leaf Iced Tea, Extra Sweet, Real Brewed Tea,  Review"
 meta_description: "Our full pure leaf iced tea, extra sweet, real brewed tea, 18.5 fl oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00XOOP95U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZLT9IQyAL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most bottled iced teas taste like sweetened tea-flavored water. Pure Leaf Extra Sweet is not that. This is the bottled tea that made me stop apologizing for buying convenience over home-brewing.

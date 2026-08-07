@@ -1,4 +1,5 @@
 ---
+
 title: "SUPERDANNY LED Desk Lamp for Office Home, Eye-Caring Desk Li"
 seo_title: "SUPERDANNY LED Desk Lamp for Office Home, Eye-Cari Review"
 meta_description: "Our full superdanny led desk lamp for office home, eye-caring desk li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMTMBKP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o9Kz0V9QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the SUPERDANNY LED Desk Lamp Actually Eye-Caring, or Just Marketing?

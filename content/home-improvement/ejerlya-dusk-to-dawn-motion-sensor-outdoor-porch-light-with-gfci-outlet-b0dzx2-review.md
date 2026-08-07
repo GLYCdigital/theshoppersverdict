@@ -1,4 +1,5 @@
 ---
+
 title: "Ejerlya Dusk to Dawn Motion Sensor Outdoor Porch Light with"
 seo_title: "Ejerlya Dusk to Dawn Porch Light Review: Smart + GFCI"
 meta_description: "Ejerlya motion sensor porch light with GFCI outlet review: dual-head design, dusk-to-dawn reliability, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZX2JZSH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gHzP+nG5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in GFCI outlet eliminates the need to wire a separate receptacle — a genuine time-saver for exterior installs"
   - "Dual-head design with independent 180° motion sensors covers wide driveways and entryways without blind spots"
   - "Dusk-to-dawn photocell works reliably with an override mode for constant light when you need it"
-cons:
+cons: 
   - "Motion sensor range (up to 30 ft) is shorter than some competitors claiming 40-50 ft — test your mounting height first"
   - "Housing is aluminum but the mounting plate feels thinner than expected; use the included gasket to prevent corrosion"
+
 ---
 
 **The Ejerlya Dusk to Dawn Motion Sensor Outdoor Porch Light** solves a problem you didn't know you had: that dead exterior outlet you've been meaning to install for string lights, a security camera, or a holiday inflatable. This fixture pairs a dual-head motion light with a built-in GFCI receptacle, which sounds gimmicky until you realize how practical it is. With a 4.7-star average across 235 ratings, it's clearly working for most buyers. Here's the full breakdown.

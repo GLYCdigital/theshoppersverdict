@@ -1,4 +1,5 @@
 ---
+
 title: "Space Cowboys"
 seo_title: "Space Cowboys Review: Verdict | TSV"
 meta_description: "Our full space cowboys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BMGW1N8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nIT6MoBvL._AC_SL1415_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Space Cowboys Review: A Rootin'-Tootin' Space Showdown Worth Your Table Time**

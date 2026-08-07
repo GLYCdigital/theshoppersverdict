@@ -1,4 +1,5 @@
 ---
+
 title: "Thymes Moisturizing Hand Wash Soap with Pump - Luxury Hand S"
 seo_title: "Thymes Moisturizing Hand Wash Soap with Pump - Lux Review"
 meta_description: "Our full thymes moisturizing hand wash soap with pump - luxury hand s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G5C12543/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i98kJMGoL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what you're actually buying here. Thymes isn't selling you clean hands — it's selling a five-second sensory escape every time you approach the sink. The question is whether that's worth the premium. After testing this hand wash against more utilitarian options, I've got a clear answer.

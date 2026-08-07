@@ -1,4 +1,5 @@
 ---
+
 title: "Fortigate 60F UTP Bundles"
 seo_title: "Fortigate 60F UTP Bundles Review: Verdict | TSV"
 meta_description: "Our full fortigate 60f utp bundles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G4NMH6GT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-b5j1v6FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The FortiGate 60F is the firewall that keeps showing up in small business networking threads, and for good reason. But the UTP bundle version changes the math on whether it's actually worth buying. Here's the breakdown after digging through specs, user feedback, and real-world deployment reports.

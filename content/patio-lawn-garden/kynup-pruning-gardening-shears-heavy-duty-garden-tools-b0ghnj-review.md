@@ -1,4 +1,5 @@
 ---
+
 title: "Kynup Pruning Gardening Shears, Heavy Duty Garden Tools"
 seo_title: "Kynup Pruning Gardening Shears, Heavy Duty Garden  Review"
 meta_description: "Our full kynup pruning gardening shears, heavy duty garden tools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHNJ657B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711-wP9MnKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a pair of cheap pruning shears through a half-inch branch only to have them bind, crush, and leave a ragged tear, you know the difference between a tool and a frustration. The Kynup Pruning Gardening Shears are squarely in the "tool" category. With 235 ratings averaging 4.7 stars, this is a pair of bypass pruners that's getting real traction with home gardeners. Here's the honest breakdown.

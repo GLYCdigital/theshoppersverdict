@@ -1,4 +1,5 @@
 ---
+
 title: "EHOMEWARE Door Handle Set 3633SB-01ET"
 seo_title: "EHOMEWARE Door Handle Set Review: Solid 4.2-Star Pick"
 meta_description: "EHOMEWARE Door Handle Set 3633SB-01ET review: Build quality, finish, installation ease, and honest downsides from 210+ Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B66XK57Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6117KSEda6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a smooth, consistent brushed nickel finish that resists fingerprints"
   - "Includes both levers, latch, strike plate, and all mounting screws — no hidden trips to the hardware store"
   - Universal 2-3/8 inch " to 2-3/4 inch " backset adjustment works on standard pre-drilled doors
-cons:
+cons: 
   - "Strike plate screw holes can be slightly misaligned on non-standard door frames — minor filing may be needed"
   - "No privacy lock or keyed option in this model — it's strictly a passage set"
+
 ---
 
 Let's cut through the noise. The EHOMEWARE Door Handle Set 3633SB-01ET is a passage lever set that's been sitting at a respectable 4.2 stars across 210 Amazon ratings. I've dug through the feedback, examined the specs, and compared it against what else is out there in this price bracket. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "COOLA Organic Sunscreen SPF 30 Sunblock Spray, Dermatologist"
 seo_title: "COOLA Organic Sunscreen SPF 30 Spray Review (2026)"
 meta_description: "COOLA Organic Sunscreen SPF 30 Spray review: 4.6-star rated, dermatologist-tested. Does this luxury sunblock deliver? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXGP3W7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mKiPaVM5L._SL1500_.jpg"
-pros:
+pros: 
   - "Plant-based, organic actives (70%+) that feel light and don't clog pores"
   - "Clear spray formula — no white cast on deeper skin tones, applies invisible"
   - "Dermatologist-tested with antioxidants (vitamin C, shea butter) for added skin benefits"
-cons:
+cons: 
   - "Spray nozzle can be finicky — requires a steady hand to avoid uneven coverage"
   - "Higher price point vs. drugstore sprays; you're paying for the organic label"
+
 ---
 
 Let's cut through the noise: COOLA's Organic Sunscreen SPF 30 Spray sits in a crowded market of sunscreens that all promise the same thing. What makes this one different — and worth the premium price — comes down to how it feels on skin and what's actually inside the bottle.

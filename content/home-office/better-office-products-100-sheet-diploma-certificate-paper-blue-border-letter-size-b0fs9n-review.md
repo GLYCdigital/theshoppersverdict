@@ -1,4 +1,5 @@
 ---
+
 title: "Better Office Products 100 Sheet Diploma Certificate Paper,"
 seo_title: "Certificate Paper Review: Better Office Products 100 Sheets"
 meta_description: "Honest review of Better Office Products 100-sheet certificate paper. Tested print quality, thickness, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS9NF26K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816bVyWRx3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crisp 32lb weight handles laser and inkjet without curling or bleed-through"
   - "Pre-printed blue border adds professional polish at a fraction of print-shop cost"
   - "Acid-free archival quality means certificates won't yellow after years on a wall"
-cons:
+cons: 
   - "Border is only on top and bottom, not full perimeter — a surprise for some"
   - "Pack has no protective sleeve or folder; you'll need to source your own"
+
 ---
 
 If you're about to hand out a certificate printed on flimsy 20lb copy paper, stop. That document represents hours of work — a graduation, an award, a completion milestone. It deserves better than something that feels like a homework assignment. The Better Office Products 100-sheet certificate paper delivers that upgrade at a price that undercuts any print shop.

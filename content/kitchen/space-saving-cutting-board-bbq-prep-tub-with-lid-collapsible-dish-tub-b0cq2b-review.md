@@ -1,4 +1,5 @@
 ---
+
 title: "Space Saving Cutting Board, BBQ Prep Tub with Lid, Collapsib"
 seo_title: "Space Saving Cutting Board, BBQ Prep Tub with Lid, Review"
 meta_description: "Our full space saving cutting board, bbq prep tub with lid, collapsib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ2BLQT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nDQt9pjeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "space-saving" kitchen gadgets are a gimmick. They save space by being useless. This collapsible cutting board and BBQ prep tub is different — it actually earns its spot in your cabinet. With 235 ratings averaging 4.7 stars, the buzz is real. Here's what you need to know before you buy.

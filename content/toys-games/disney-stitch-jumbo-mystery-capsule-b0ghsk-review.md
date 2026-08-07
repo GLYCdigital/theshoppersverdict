@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Stitch Jumbo Mystery Capsule"
 seo_title: "Disney Stitch Jumbo Mystery Capsule Review (2026)"
 meta_description: "Honest Disney Stitch Jumbo Mystery Capsule review: what's inside, build quality, and whether the 4.6-star rating holds up. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHSKNH3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iSokQshxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo capsule size delivers a substantial collectible — not a cheap trinket"
   - "Multiple Stitch variants in the series reward repeat purchases without feeling like a scam"
   - "Capsule shell doubles as storage, which buyers actually use"
-cons:
+cons: 
   - "Blind-box format means you might get a duplicate if buying multiples"
   - "Some reported paint imperfections on the figure's face details"
   - "No rarity guide included — you'll need to check online forums to know what you pulled"
+
 ---
 
 If you're a Stitch collector, you already know the drill: mystery capsules are a gamble wrapped in plastic. The Disney Stitch Jumbo Mystery Capsule, however, shifts that equation. At roughly the size of a large grapefruit when assembled, this isn't a vending-machine trinket — it's a display piece with genuine heft. The question is whether the gamble pays off.

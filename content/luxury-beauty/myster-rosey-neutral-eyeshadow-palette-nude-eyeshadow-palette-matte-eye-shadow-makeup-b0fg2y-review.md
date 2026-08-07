@@ -1,4 +1,5 @@
 ---
+
 title: "MYSTER ROSEY Neutral Eyeshadow Palette, Nude Eyeshadow Palet"
 seo_title: "MYSTER ROSEY Neutral Eyeshadow Palette, Nude Eyesh Review"
 meta_description: "Our full myster rosey neutral eyeshadow palette, nude eyeshadow palet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FG2Y9FLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XOoCSRS8L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "neutral palette" only to find it's really six variations of the same brown, you'll understand why the MYSTER ROSEY's shade range is the first thing worth talking about. This 18-pan palette spans warm taupe, rose-toned neutrals, and deeper espresso shades — not just the same pigment repeated with different names. At 4.4 stars from 220 ratings, it's earning its keep in a crowded category.

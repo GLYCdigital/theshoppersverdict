@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe Hydrating Sheer Sunscreen SPF 30 for Face and Body"
 seo_title: "CeraVe Hydrating Sheer Sunscreen SPF 30 Review (2026)"
 meta_description: "CeraVe Hydrating Sheer Sunscreen SPF 30 review: Does this 3-in-1 face & body sunscreen hydrate without white cast? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTRS68P8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PYzL5Y-pL._SL1500_.jpg"
-pros:
+pros: 
   - "Weightless, fast-absorbing gel-cream texture that layers cleanly under makeup without pilling"
   - "Sheer finish leaves no white cast on deeper skin tones — rare for a mineral-hybrid SPF at this price"
   - "Ceramides, niacinamide, and hyaluronic acid deliver genuine skincare benefits beyond sun protection"
-cons:
+cons: 
   - "Pump dispenser delivers inconsistent amounts — some shoppers report sputtering or clogging mid-bottle"
   - "Not water-resistant; needs reapplication after swimming or heavy sweating, which limits beach use"
+
 ---
 
 Let me be blunt: most "hydrating" sunscreens are either greasy messes or chalky disappointments. The CeraVe Hydrating Sheer Sunscreen SPF 30 tries to thread that needle — and based on 225 Amazon ratings averaging 4.5 stars, it mostly succeeds. Here's the full breakdown after digging through customer experiences and the ingredient list.

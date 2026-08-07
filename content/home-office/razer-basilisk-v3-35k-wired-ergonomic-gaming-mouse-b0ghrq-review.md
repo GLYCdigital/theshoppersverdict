@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Basilisk V3 35K Wired Ergonomic Gaming Mouse"
 seo_title: "Razer Basilisk V3 35K Wired Ergonomic Gaming Mouse Review"
 meta_description: "Our full razer basilisk v3 35k wired ergonomic gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHRQLMCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FTJT7-SSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Razer Basilisk V3 35K is the latest iteration of a mouse that's been a mainstay on Amazon's bestseller list for years. With 229 ratings holding a 4.6-star average, it's clearly doing something right. But the "35K" in the name refers to the new Focus Pro 35K optical sensor, and the question is whether that upgrade justifies the price tag over the standard V3. I've spent time with both, and here's the honest breakdown.

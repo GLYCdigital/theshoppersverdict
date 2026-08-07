@@ -1,4 +1,5 @@
 ---
+
 title: "Warhammer 40k - Space Marine Assault Intercessors"
 seo_title: "Warhammer 40k - Space Marine Assault Intercessors Review:"
 meta_description: "Our full warhammer 40k - space marine assault intercessors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08P7XNWPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kJpfsIHLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your workspace doubles as a hobby station, you already know the drill: you've got clippers, plastic glue, and a growing pile of "someday" kits. The Warhammer 40k Space Marine Assault Intercessors box is one of those kits that actually earns its place on the desk — not just because it's a solid unit for tabletop play, but because it builds clean, paints fast, and looks sharp when done.

@@ -1,4 +1,5 @@
 ---
+
 title: "French Fry Cutter 4-in-1, Potato Cutter for Fries, Onion Dic"
 seo_title: "French Fry Cutter 4-in-1, Potato Cutter for Fries, Review"
 meta_description: "Our full french fry cutter 4-in-1, potato cutter for fries, onion dic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CP2241S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EwfPk891L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the last potato cutter you'll buy, or just another drawer-filler? Let's cut to the chase.**

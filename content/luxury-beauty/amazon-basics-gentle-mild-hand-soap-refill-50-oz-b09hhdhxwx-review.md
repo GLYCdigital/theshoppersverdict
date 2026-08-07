@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, 50 oz"
 seo_title: "Amazon Basics Hand Soap Refill Review — 4.6★ at $3.82"
 meta_description: "Amazon Basics Gentle & Mild hand soap refill review: 44,666 ratings. Dermatologist tested, triclosan-free 50 oz refill. Is it as good as Softsoap?"
@@ -11,22 +12,23 @@ review_count: 44666
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09HHDHXWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F5elwBZYL._SL1500_.jpg"
-faq:
+faq: 
   - question: "Is Amazon Basics hand soap comparable to Softsoap?"
     answer: "Yes — Amazon markets it as a direct alternative to Softsoap Gentle & Mild. The formulation is nearly identical: clear, mild, moisturizing, and free of triclosan, parabens, and phthalates."
   - question: "Can I refill my Softsoap dispenser with Amazon Basics soap?"
     answer: "Absolutely. This 50 oz refill bottle is designed to pour into existing pump dispensers. It works perfectly with any standard hand soap dispenser."
   - question: "Is this soap cruelty-free?"
     answer: "Amazon Basics states it is not tested on animals and is made in the USA with US and foreign components. The soap is dermatologist tested and pH balanced."
-pros:
+pros: 
   - "50 oz refill bottle at $3.82 — hands-down the best value per ounce in liquid hand soap"
   - "Dermatologist tested, pH balanced, and triclosan-free"
   - "No artificial fragrances — clear formula is safe for sensitive skin"
   - "Works with Alexa voice reordering for effortless resupply"
-cons:
+cons: 
   - "Clear formula means you can't easily see soap level in opaque dispensers"
   - "Not a thick gel — this is a runnier, clear soap formulation"
   - "Some may prefer a scented option; this is fragrance-free"
+
 ---
 
 **The $3.82 Hand Soap That 44,000+ Shoppers Swear By — Here's the Real Deal**

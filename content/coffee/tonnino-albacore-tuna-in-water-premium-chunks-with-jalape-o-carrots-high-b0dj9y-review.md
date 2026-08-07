@@ -1,4 +1,5 @@
 ---
+
 title: "Tonnino Albacore Tuna in Water, Premium Chunks with JalapeÃ±"
 seo_title: "Tonnino Albacore Tuna in Water, Premium Chunks wit Review"
 meta_description: "Our full tonnino albacore tuna in water, premium chunks with jalapeã± review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ9YZPKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812XueFYWgL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tonnino Albacore Tuna with Jalapeño: The Premium Pick That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "14 Cups Coffee Maker Carafe Replacement Pot Compatible with"
 seo_title: "14 Cup Coffee Carafe Replacement Review (2026): Fit, Durability"
 meta_description: "Honest review of the 14-cup coffee carafe replacement pot. Does it fit Mr. Coffee models? We test durability, pour quality, and value. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBVBNFZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619XVFQPWBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced glass base is noticeably thicker than OEM carafes, surviving thermal shock better"
   - "Precise fit on Mr. Coffee 14-cup models — no wobble on the warming plate, handle aligns perfectly"
   - "Clearly marked 4, 6, 8, 10, 12, and 14-cup water level lines on both sides for left- and right-handed pours"
-cons:
+cons: 
   - "Lid is a bit stiff for the first week; requires two hands to snap shut until it breaks in"
   - "Not compatible with Cuisinart or Hamilton Beach 14-cup models despite similar dimensions — double-check your model number"
+
 ---
 
 You just shattered your Mr. Coffee carafe at 6:45 AM, and now you're staring at a $25-30 OEM replacement that feels like a ripoff. This aftermarket 14-cup carafe is the alternative you've been hoping for — but only if you own the right machine. Here's what 229 buyers and my own hands-on testing reveal.

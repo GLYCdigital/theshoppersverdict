@@ -1,4 +1,5 @@
 ---
+
 title: "Rain Gutter Downspout Splash Block, Gutter Downspout Extensi"
 seo_title: "Rain Gutter Downspout Splash Block, Gutter Downspo Review"
 meta_description: "Our full rain gutter downspout splash block, gutter downspout extensi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXPT6N63/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616dAWGAmAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 10-Second Hook**

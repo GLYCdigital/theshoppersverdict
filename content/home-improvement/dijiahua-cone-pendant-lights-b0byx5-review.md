@@ -1,4 +1,5 @@
 ---
+
 title: "Dijiahua Cone Pendant Lights"
 seo_title: "Dijiahua Cone Pendant Lights Review: Worth It? (2026)"
 meta_description: "Honest Dijiahua Cone Pendant Lights review: build quality, brightness, installation tips, and who should buy. 4.3/5 rating analyzed."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYX5HSS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Q+IEPFoLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel cone shade with powder-coated finish resists chipping and fingerprints"
   - "Fully dimmable with standard LED or Edison bulbs when paired with a dimmer switch"
   - "Adjustable cord and canopy kit fits 8-10 foot ceilings without extra parts"
-cons:
+cons: 
   - "Bulbs not included despite product images showing warm Edison bulbs"
   - "Black finish shows dust quickly in high-traffic kitchens"
   - "Slightly smaller than expected at 11 inches wide — measure before buying"
+
 ---
 
 If you've been scrolling through thousands of pendant lights that all look like they were designed by the same algorithm, the Dijiahua cone pendant stands out for one simple reason: it's honest. No fake wood grain, no brass plating that'll flake off in eighteen months. Just a powder-coated steel cone, a cord, and a socket. The question is whether that simplicity translates into a fixture worth hanging above your island.

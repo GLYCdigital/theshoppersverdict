@@ -1,4 +1,5 @@
 ---
+
 title: "210A Toner Cartridges 4 Pack Color Laser jet Pro MFP 4301fdw"
 seo_title: "210A Toner 4 Pack Review: Worth It for HP 4301fdw?"
 meta_description: "Our 210A toner 4-pack review covers print quality, page yield, and compatibility for HP LaserJet Pro 4301fdw. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F1D2SRHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pXs5hv-jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 4-color set costs roughly 40-50% less than buying HP-branded 210A cartridges individually"
   - "Chipset recognized immediately by HP 4301fdw firmware — no bypass menus or error overrides needed"
   - "Consistent color registration across all four cartridges with no streaking or banding in test prints"
-cons:
+cons: 
   - "Page yield runs about 10-15% below the OEM 2,300-page rating in real-world mixed document printing"
   - "Black cartridge casing feels slightly thinner than HP OEM — careful when removing the orange shipping seal"
   - "Some users report the yellow cartridge arrives with minor toner dust residue inside the packaging"
+
 ---
 
 If you own an HP Color LaserJet Pro 4301fdw, you already know the dirty secret: OEM 210A toner will bleed your office budget dry. This 4-pack alternative promises the same output at a fraction of the cost. After 204 Amazon ratings averaging 4.1 stars, the consensus is clear — this set delivers, but with a few caveats worth knowing before you click buy.

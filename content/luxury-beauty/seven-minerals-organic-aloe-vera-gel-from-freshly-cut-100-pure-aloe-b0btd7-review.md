@@ -1,4 +1,5 @@
 ---
+
 title: "Seven Minerals Organic Aloe Vera Gel from freshly cut 100% P"
 seo_title: "Seven Minerals Organic Aloe Vera Gel from freshly  Review"
 meta_description: "Our full seven minerals organic aloe vera gel from freshly cut 100% p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTD73TDM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81igfHZd8ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most "aloe vera gels" on Amazon are 90% water, alcohol, and thickener with aloe as an afterthought. Seven Minerals flips that script. This is the real deal: 100% organic aloe vera, straight from freshly cut leaves, with nothing added. No water. No alcohol. No carbomer. Just the plant.

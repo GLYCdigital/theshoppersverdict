@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Easy Assembly Wood Slat 1.6 Inch Bunkie Board / Mattre"
 seo_title: "Zinus Easy Assembly Wood Slat 1.6 Inch Bunkie Boar Review"
 meta_description: "Our full zinus easy assembly wood slat 1.6 inch bunkie board / mattre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B077RYKCKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TfD-vjyYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the research time. The Zinus Easy Assembly Wood Slat Bunkie Board is the mattress foundation you buy when you're tired of box springs that cost as much as the mattress itself.

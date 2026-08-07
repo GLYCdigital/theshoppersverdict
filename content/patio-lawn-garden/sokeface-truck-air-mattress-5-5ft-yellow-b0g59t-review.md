@@ -1,4 +1,5 @@
 ---
+
 title: "Sokeface Truck air Mattress 5.5ft Yellow"
 seo_title: "Sokeface Truck air Mattress 5.5ft Yellow Review: Verdict "
 meta_description: "Our full sokeface truck air mattress 5.5ft yellow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G59TPC62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OJN3UkCuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be real: sleeping in a truck bed without a mattress is a backache waiting to happen. The **Sokeface Truck Air Mattress 5.5ft Yellow** aims to fix that for weekend campers, tailgaters, and overlanders. With a 4.2-star average across 210 ratings, it’s clearly working for many — but it’s not without quirks. Here’s the honest breakdown.

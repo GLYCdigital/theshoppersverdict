@@ -1,4 +1,5 @@
 ---
+
 title: "N NEVO RHINO Internal Frame Hiking Backpack 50/60/65/70/80L,"
 seo_title: "N NEVO RHINO Internal Frame Hiking Backpack 50/60/ Review"
 meta_description: "Our full n nevo rhino internal frame hiking backpack 50/60/65/70/80l, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09BKJ2SH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OOBH4QyTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $80 pack that punches above its weight — until you load it past 40 pounds.**

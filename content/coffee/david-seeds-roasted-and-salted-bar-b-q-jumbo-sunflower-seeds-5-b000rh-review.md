@@ -1,4 +1,5 @@
 ---
+
 title: "DAVID SEEDS Roasted and Salted Bar-B-Q Jumbo Sunflower Seeds"
 seo_title: "DAVID SEEDS Bar-B-Q Jumbo Sunflower Seeds Review (2026)"
 meta_description: "Honest DAVID SEEDS Bar-B-Q Jumbo Sunflower Seeds review: bold flavor, jumbo size, shell salt tradeoffs. See who should buy and who should skip."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000RHY1YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nEDl-T-JL._SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo-sized kernels deliver a meaty crunch that standard sunflower seeds can't match"
   - "Bar-B-Q seasoning is bold and smoky with a sweet-tangy finish that lingers"
   - "Roasted and salted consistently — every shell in the bag carries even flavor"
-cons:
+cons: 
   - "Heavy salt on the shell means your fingers and lips will take a beating"
   - "Shells split inconsistently — some crack clean, others shatter into fragments"
   - "Bag is smaller than it looks; if you're a serious spitter, you'll burn through it fast"
+
 ---
 
 Let me be upfront: this review covers a snack, not a coffee maker. But if you're the kind of person who needs something to do with your hands while your pour-over drips or your espresso machine warms up, these sunflower seeds earn their place on your counter. And with 229 ratings averaging 4.6 stars, I'm not the only one who thinks so.

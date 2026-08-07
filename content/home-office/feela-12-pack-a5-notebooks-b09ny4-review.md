@@ -1,4 +1,5 @@
 ---
+
 title: "feela 12 pack a5 notebooks"
 seo_title: "feela 12 pack a5 notebooks Review: Verdict | TSV"
 meta_description: "Our full feela 12 pack a5 notebooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09NY4KBHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VblcyfqtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bulk notebook gamble: 12 for the price of 3 — but is the quality there?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Pacifica Coconut Milk Hair Detangler Spray â€“ Leave-In Cond"
 seo_title: "Pacifica Coconut Milk Hair Detangler Spray â€“ Lea Review"
 meta_description: "Our full pacifica coconut milk hair detangler spray â€“ leave-in cond review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHGJ16V3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VF6-02IpL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pacifica Coconut Milk Hair Detangler Spray: The Honest Truth

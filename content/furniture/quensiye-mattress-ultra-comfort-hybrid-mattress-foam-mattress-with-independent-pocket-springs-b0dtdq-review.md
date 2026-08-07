@@ -1,4 +1,5 @@
 ---
+
 title: "QUENSIYE Mattress, Ultra Comfort Hybrid Mattress, Foam Mattr"
 seo_title: "QUENSIYE Mattress, Ultra Comfort Hybrid Mattress,  Review"
 meta_description: "Our full quensiye mattress, ultra comfort hybrid mattress, foam mattr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTDQS2CF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cwjesx-uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the listing copy and give you the straight story on this QUENSIYE hybrid. At 4.1 stars from 204 ratings, it's not setting the world on fire, but it's also not a dud. Here's what you actually need to know.

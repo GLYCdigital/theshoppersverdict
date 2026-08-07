@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX XTREME Cordless Bandfile Power Tool Belt Sand"
 seo_title: "DEWALT 20V MAX XTREME Cordless Bandfile Review (2026)"
 meta_description: "DEWALT 20V MAX XTREME cordless bandfile review: real-world performance, battery life, and versatility for metalwork and woodworking. Honest pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8TD1ZDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GjF+hIMwL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Variable-speed dial (5,000–9,500 RPM) lets you match belt speed to material without bogging down"
   - "Tool-free belt release and adjustable platen arm for tight corners and flush sanding"
   - "Lands squarely in the XTREME sub-compact line — noticeably lighter and better balanced than full-size bandfiles"
-cons:
+cons: 
   - "Bare tool ships without battery or charger — adds $100+ if you're not already in the 20V MAX ecosystem"
   - "Dust collection port is a token gesture; you'll still get grit everywhere without a shop vac"
   - "Belt tracking needs occasional adjustment under heavy side-loading, especially on curved work"
+
 ---
 
 If you've ever hand-filed a weld bead or spent twenty minutes chasing a burr with a Dremel, the DEWALT 20V MAX XTREME Cordless Bandfile is the tool that makes you wonder why you waited. This is a sub-compact belt sander that puts a 1/2-inch by 18-inch abrasive belt in a chassis that weighs about 2.5 pounds without the battery. It's not a replacement for a bench grinder, but it's the tool you'll grab first for deburring, blending, and detail work in spots a full-size sander can't reach.

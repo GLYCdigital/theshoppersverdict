@@ -1,4 +1,5 @@
 ---
+
 title: "Make It Real â€“ Fashion Design Sketchbook: City Style - Ins"
 seo_title: "Make It Real â€“ Fashion Design Sketchbook: City S Review"
 meta_description: "Our full make it real â€“ fashion design sketchbook: city style - ins review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFR8LXBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hdQWwZbHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A Fashion Sketchbook That Actually Respects Young Designers

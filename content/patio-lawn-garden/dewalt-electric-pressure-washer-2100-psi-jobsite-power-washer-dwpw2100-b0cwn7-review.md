@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Electric Pressure Washer, 2100 PSI, Jobsite Power Was"
 seo_title: "DEWALT 2100 PSI Electric Pressure Washer Review (2026)"
 meta_description: "Honest DEWALT 2100 PSI electric pressure washer review: real performance, build quality, and drawbacks. Is this jobsite-grade washer worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CWN71JB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51P3FrQJKIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers consistent 2100 PSI without the maintenance headaches of brushed units"
   - "12-inch pneumatic tires roll smoothly over grass, gravel, and uneven driveways"
   - "Onboard storage for nozzles, wand, and hose keeps everything organized on the job"
-cons:
+cons: 
   - "35-foot hose requires careful management—it kinks if you're not paying attention"
   - "No hose reel or cord wrap means setup and breakdown takes longer than it should"
+
 ---
 
 Let's cut through the yellow-and-black branding. DEWALT slapped their name on plenty of homeowner-grade gear that doesn't live up to the jobsite reputation. The DEWALT Electric Pressure Washer, 2100 PSI, however, actually earns the logo. At 4.4 stars across 220 ratings, this machine has real traction with buyers who clean everything from siding to farm equipment. Here's what you need to know before handing over your money.

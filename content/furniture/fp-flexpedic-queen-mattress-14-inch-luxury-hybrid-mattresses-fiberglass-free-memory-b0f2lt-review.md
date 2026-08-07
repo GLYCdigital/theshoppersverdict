@@ -1,4 +1,5 @@
 ---
+
 title: "FP FLEXPEDIC Queen Mattress, 14 Inch Luxury Hybrid Mattresse"
 seo_title: "FP FLEXPEDIC Queen Mattress Review: 14 Inch Hybrid (2026)"
 meta_description: "Honest FP FLEXPEDIC 14-inch hybrid queen mattress review: fiberglass-free build, comfort layers, real owner feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F2LTNB11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zs5t717fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fiberglass-free construction with a quilted pillow top that actually stays put after months of use"
   - "14-inch profile with 6 inches of pocket coils — noticeable edge support without the 'rolling off' feeling"
   - "Medium-firm feel that suits both back and side sleepers, per multiple verified reviews"
-cons:
+cons: 
   - "Off-gassing smell persists longer than premium hybrids — several buyers report 3-5 days before it clears"
   - "No built-in handles, making repositioning a two-person chore on a 70-pound queen"
+
 ---
 
 The bedding market is flooded with "luxury hybrid" mattresses that are really just foam slabs with a spring sticker on the box. The FP FLEXPEDIC 14-inch Queen is not that. But it's also not a $2,000 boutique bed. Here's where it actually lands after digging through 210 verified ratings and the spec sheet.

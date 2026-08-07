@@ -1,4 +1,5 @@
 ---
+
 title: "American Flag - 100% Made in USA - US Flag with Embroidered"
 seo_title: "American Flag Made in USA Review: Embroidered Stars Worth It?"
 meta_description: "Honest review of the 100% Made in USA American flag with embroidered stars. Is it worth your money? Build quality, fading, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07NWPD5FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+yVrfgVbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely 100% American-made — every component sourced and assembled in the USA, not just 'assembled here'"
   - "Embroidered stars are dense and tight; they hold their shape and color far better than printed alternatives"
   - "Double-stitched fly end with reinforced hem prevents the fraying that kills most flags within a season"
-cons:
+cons: 
   - "No grommets included — you'll need to buy brass grommets separately or use a flagpole clip system"
   - "Heavier fabric than budget flags; not ideal for lightweight or collapsible poles in gusty conditions"
+
 ---
 
 ## The "Made in USA" claim actually holds up here

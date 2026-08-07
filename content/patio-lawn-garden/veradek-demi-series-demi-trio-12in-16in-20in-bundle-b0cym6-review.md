@@ -1,4 +1,5 @@
 ---
+
 title: "Veradek Demi Series Demi Trio (12in; 16in; 20in) Bundle"
 seo_title: "Veradek Demi Series Demi Trio (12in; 16in; 20in) B Review"
 meta_description: "Our full veradek demi series demi trio (12in; 16in; 20in) bundle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CYM6RQG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NUAqrMcfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some planters look good in the product photos and cheap in person. The Veradek Demi Trio bundle is not that. This is the rare set that actually looks better sitting on your porch than it does on a screen — the matte finish, the clean geometric lines, the weight that says "I'm not blowing over in a thunderstorm."

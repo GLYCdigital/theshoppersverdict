@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Low Voltage Landscape Lighting HGSL35AB"
 seo_title: "EDISHINE Landscape Lighting Review: Worth It? (2026)"
 meta_description: "EDISHINE HGSL35AB low voltage landscape lighting review: build quality, brightness, real buyer feedback, and who should buy. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVF4XNXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iGexW8f2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weatherproof IP65 rating — built for years outdoors"
   - "Warm 2700K LEDs deliver true ambiance without the harsh blue-white glare cheaper sets emit"
   - "Tool-free angle adjustment (up to 15°) makes aiming at walkways or facades genuinely easy"
-cons:
+cons: 
   - "Voltage drop becomes noticeable if you daisy-chain more than 10 fixtures on one run — plan your layout"
   - "No photocell or timer built in, so you'll need a separate smart plug or timer to automate dusk-to-dawn operation"
+
 ---
 
 Most landscape lighting kits under $100 are plastic junk that cracks by the second winter. The EDISHINE HGSL35AB isn't that. It's a six-pack of die-cast aluminum well lights that actually looks like someone thought about the installation process — and after 235 ratings averaging 4.7 stars, buyers agree more often than not.

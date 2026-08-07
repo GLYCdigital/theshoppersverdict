@@ -1,4 +1,5 @@
 ---
+
 title: "Berlin Modisch Contemporary Square"
 seo_title: "Berlin Modisch Contemporary Square Review: Solid Buy?"
 meta_description: "Berlin Modisch Contemporary Square review: build quality, real-world performance, and who should buy it. Honest verdict after analyzing 225 ratings."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08Q4KYY3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z-mJN0gtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined edges stay true to 90° even after repeated drops on concrete"
   - "Laser-etched markings remain legible after 6 months of daily jobsite use"
   - "Anodized finish resists rust and corrosion in humid environments"
-cons:
+cons: 
   - "No included carry case or protective sleeve — arrives bare in a poly bag"
   - "Markings are in fractions only; metric users will need to convert mentally"
+
 ---
 
 Let's cut through the noise. The Berlin Modisch Contemporary Square has 225 Amazon ratings averaging 4.5 stars. That's a respectable sample size. But numbers alone don't tell you whether this square belongs in your toolbox. Here's what does.

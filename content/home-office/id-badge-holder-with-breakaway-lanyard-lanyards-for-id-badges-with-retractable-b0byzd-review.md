@@ -1,4 +1,5 @@
 ---
+
 title: "ID Badge Holder with Breakaway Lanyard, Lanyards for Id Badg"
 seo_title: "ID Badge Holder with Breakaway Lanyard, Lanyards f Review"
 meta_description: "Our full id badge holder with breakaway lanyard, lanyards for id badg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYZDWWNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f2MFy+WUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **ID Badge Holder with Breakaway Lanyard, Lanyards for Id Badg** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

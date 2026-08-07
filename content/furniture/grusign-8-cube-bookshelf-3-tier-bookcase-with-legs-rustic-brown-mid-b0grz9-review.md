@@ -1,4 +1,5 @@
 ---
+
 title: "GRUSIGN 8 Cube Bookshelf,3 Tier Bookcase with Legs,Rustic Br"
 seo_title: "GRUSIGN 8 Cube Bookshelf Review: Sturdy 3-Tier Storage for $60 inch"
 meta_description: "Honest GRUSIGN 8 Cube Bookshelf review: sturdy particleboard construction, 3-tier design, and easy assembly. See if this budget bookcase fits your space."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRZ96X37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P88LJs4WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Surprisingly sturdy for the price point — the back panel and cross-bracing keep the frame square even when loaded unevenly"
   - "Legs elevate the unit 4 inches off the floor, which makes cleaning underneath easy and protects baseboards"
   - "Each of the 8 cubes holds roughly 10-12 paperback books or 2-3 binders, giving you genuinely useful storage volume"
-cons:
+cons: 
   - "Particleboard construction means you need to be careful with the cam lock screws — overtightening strips the threads permanently"
   - "The rustic brown finish is a printed laminate, not real wood grain, so scratches will reveal the lighter particleboard underneath"
   - "Assembly takes about 45-60 minutes with two people; doing it solo risks misaligning the dowels on the taller panels"
+
 ---
 
 If you're shopping for a budget bookshelf under $75, you've probably seen a dozen options that all look identical in the product photos. The GRUSIGN 8 Cube Bookshelf stands out for one simple reason: it doesn't wobble. After spending time with this unit, I can tell you exactly where it earns its 4.5-star rating and where it cuts corners.

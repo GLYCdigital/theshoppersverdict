@@ -1,4 +1,5 @@
 ---
+
 title: "Z GRILLS Wood Pellet Grill Smoker"
 seo_title: "Z GRILLS Wood Pellet Grill Smoker Review: Verdict | TSV"
 meta_description: "Our full z grills wood pellet grill smoker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6Y52N9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rJ0a0MxbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been cross-shopping pellet grills, you've probably noticed the price gap between entry-level Traegers and the Z GRILLS line. The Z GRILLS Wood Pellet Grill Smoker sits squarely in the budget-to-midrange sweet spot, pulling 4.4 stars from 220+ Amazon ratings. But is it genuinely good, or just cheap? I've dug through the specs, the user feedback, and the common complaints to give you the straight story.

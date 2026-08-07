@@ -1,4 +1,5 @@
 ---
+
 title: "12-Pack Premium S2 Alloy Steel Square Drive Bits Set - Magne"
 seo_title: "S2 Alloy Steel Square Drive Bit Set Review (12-Pack, Magnetic)"
 meta_description: "Honest review of the 12-pack S2 alloy steel square drive bits with magnetic heads. Tested for fit, durability, and value. See who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVQ21NX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NG7X-Y6lL._SL1500_.jpg"
-pros:
+pros: 
   - "S2 alloy steel holds up to repeated impact driver use without rounding out on standard Robertson screws"
   - "Magnetic heads actually hold screws on vertical and overhead applications — no more fumbling in tight stud bays"
   - "Laser-etched size markings that stay legible after weeks of use, unlike cheap painted stamps"
-cons:
+cons: 
   - "No case included — bits ship loose in a bag, which means you'll want a separate organizer"
   - "Square drive sizes skip #1, jumping straight from #0 to #2, which limits smaller furniture assembly work"
+
 ---
 
 If you've stripped one too many cheap square drive bits on a stubborn deck screw, this 12-pack from Magne deserves a hard look. It's a no-frills set that gets the fundamentals right: proper S2 alloy steel, real magnetic retention, and sizing that actually matches Robertson screws. At 4.6 stars across 229 ratings, it's clearly earning its keep in toolboxes — but it's not without a couple of annoyances worth knowing before you click buy.

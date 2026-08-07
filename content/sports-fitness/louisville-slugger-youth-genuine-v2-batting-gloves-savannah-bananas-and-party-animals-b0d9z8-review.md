@@ -1,4 +1,5 @@
 ---
+
 title: "Louisville Slugger Youth Genuine V2 Batting Gloves - Savanna"
 seo_title: "Louisville Slugger Youth Genuine V2 Batting Gloves Review"
 meta_description: "Our full louisville slugger youth genuine v2 batting gloves - savanna review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9Z869MN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aKL4NRCCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about youth batting gloves: most parents buy whatever’s on sale, and kids wear them until the fingers blow out. The Louisville Slugger Youth Genuine V2 in Savanna is not that glove. At 4.6 stars across 229 ratings, it’s earning its keep — but it’s not perfect either. Here’s what you need to know before you add it to the cart.

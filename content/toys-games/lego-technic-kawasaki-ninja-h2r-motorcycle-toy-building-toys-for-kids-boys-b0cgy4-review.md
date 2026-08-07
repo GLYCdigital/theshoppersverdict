@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic Kawasaki Ninja H2R Motorcycle Toy - Building To"
 seo_title: "LEGO Technic Kawasaki Ninja H2R Motorcycle Toy - B Review"
 meta_description: "Our full lego technic kawasaki ninja h2r motorcycle toy - building to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY4B3GB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812ayBeUg0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Technic Kawasaki Ninja H2R is the closest most of us will ever get to owning a 300-horsepower superbike — and honestly, that's fine.** This isn't just another shelf ornament. It's a mechanical demonstration that happens to look stunning in Kawasaki green.

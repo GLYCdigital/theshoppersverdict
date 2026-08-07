@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools Nail Puller with Integrated Dimpler, Heavy-Duty "
 seo_title: "Klein Tools Nail Puller with Integrated Dimpler, H Review"
 meta_description: "Our full klein tools nail puller with integrated dimpler, heavy-duty  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F145VW3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41CGjL+hppL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got a nail head flush with the drywall, and your standard claw hammer keeps gouging the surface. That's the exact problem Klein Tools set out to solve with this nail puller — and it mostly nails it (pun intended).  

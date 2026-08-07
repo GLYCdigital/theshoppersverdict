@@ -1,4 +1,5 @@
 ---
+
 title: "Aya's Cutlery Kingdom Disposable Plastic Plates - 60 Pack -"
 seo_title: "Aya's Cutlery Kingdom Plastic Plates Review (60-Pack)"
 meta_description: "Honest review of Aya's Cutlery Kingdom 60-pack disposable plastic plates. Sturdy, leak-proof, and party-ready. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5RQRZJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814+oXW6MXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced rim design prevents bending and flexing even when loaded with heavy pasta or barbecue"
   - "Genuinely leak-proof — no grease bleeding through after an hour of contact with oily foods"
   - "60-plate count means you're paying roughly half the per-unit cost of comparable store-brand disposables"
-cons:
+cons: 
   - "Not microwave-safe despite the sturdy feel — heating food on these will warp the surface"
   - "Plain white finish feels utilitarian; no decorative patterns if you're hosting something fancier"
+
 ---
 
 Let me be direct: most disposable plates are garbage. They flex, they leak, and they make you hold your plate like a waiter carrying a soufflé. Aya's Cutlery Kingdom 60-pack is not most disposable plates.

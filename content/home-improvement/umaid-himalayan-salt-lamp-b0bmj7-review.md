@@ -1,4 +1,5 @@
 ---
+
 title: "UMAID Himalayan Salt Lamp"
 seo_title: "UMAID Himalayan Salt Lamp Review: Verdict | TSV"
 meta_description: "Our full umaid himalayan salt lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BMJ79KVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OtGxopRCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about salt lamps: half the ones on Amazon are overpriced glow sticks with a chunk of dyed rock glued to a bulb. The UMAID Himalayan Salt Lamp isn't that. It's a legitimate hand-carved crystal from the Khewra Salt Mine in Pakistan, weighing in at a substantial 10–15 pounds depending on which piece you receive. That weight matters — it tells you the salt is solid, not hollowed out to fit a tiny bulb and marked up 300%.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kewpie Squeeze Mayonnaise"
 seo_title: "Kewpie Squeeze Mayonnaise Review: Verdict | TSV"
 meta_description: "Our full kewpie squeeze mayonnaise review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7JYF6LT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717q17R5b5L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something upfront: this is not your average mayonnaise. The Kewpie Squeeze bottle on your screen — with that iconic red cap and creamy yellow squeeze nozzle — has been a Japanese kitchen staple for nearly a century. And after 225 Amazon ratings holding a steady 4.5 stars, it's clear American home cooks have caught on.

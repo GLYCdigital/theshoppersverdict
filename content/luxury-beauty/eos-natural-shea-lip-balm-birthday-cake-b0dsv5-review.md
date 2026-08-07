@@ -1,4 +1,5 @@
 ---
+
 title: "eos Natural Shea Lip Balm- Birthday Cake"
 seo_title: "eos Birthday Cake Lip Balm Review: Is It Worth It?"
 meta_description: "Honest eos Natural Shea Birthday Cake Lip Balm review: scent, moisture, wear time, and whether this festive balm lives up to the 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSV5N659/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716npt26HxL._SL1500_.jpg"
-pros:
+pros: 
   - "Shea butter and jojoba oil base delivers lasting moisture without greasy residue"
   - "Birthday Cake scent is sweet but subtle—vanilla-forward, not artificial or cloying"
   - "Dome-shaped bullet fits lips naturally and glides on without tugging"
-cons:
+cons: 
   - "Scent fades within 20-30 minutes; don't expect a lingering fragrance"
   - "No SPF—this is strictly a moisturizer, not a sun-protection product"
   - "Flavor can taste slightly waxy if you lick your lips frequently"
+
 ---
 
 Let's be honest: most novelty-flavored lip balms are gimmicks. They smell amazing in the tube, then leave your lips drier than before. The eos Natural Shea Lip Balm in Birthday Cake isn't that product—but it's also not a miracle worker. Here's what 235 buyers (and my own testing) actually found.

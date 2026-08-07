@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Architecture Notre-Dame de Paris Replica, Architectural"
 seo_title: "LEGO Architecture Notre-Dame de Paris Replica, Arc Review"
 meta_description: "Our full lego architecture notre-dame de paris replica, architectural review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPQ7DKPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rPblBlsDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The cathedral that fits on your coffee table

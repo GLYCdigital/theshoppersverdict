@@ -1,4 +1,5 @@
 ---
+
 title: "BROTTAR Corner Display Cabinet with Doors"
 seo_title: "BROTTAR Corner Display Cabinet Review: 4.4-Star Verdict"
 meta_description: "Honest BROTTAR corner display cabinet review: build quality, assembly, size, and value. See who should buy it, who should skip, and real pros/cons."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FX9M5RC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816lsDd1CHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Fits tight corners with a compact 15.7 inch " depth, maximizing dead space without dominating the room
   - "Three adjustable tempered-glass shelves hold up to 15 lbs each, with a sturdy MDF frame rated at 60 lbs total"
   - "Two hinged glass doors with magnetic latches and metal handles keep dust off collectibles while staying easy to open"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes and requires a Phillips screwdriver; pre-drilled holes align well but the cam locks need patience"
   - "The back panel is thin fiberboard (3mm) — fine for display, but not if you plan to push the cabinet hard against an uneven wall"
   - "No built-in lighting; you'll need to add your own LED strips if you want your items to pop behind the tinted glass"
+
 ---
 
 ## Is the BROTTAR Corner Display Cabinet Worth Your Corner?

@@ -1,4 +1,5 @@
 ---
+
 title: "Roman Tub Faucet"
 seo_title: "Roman Tub Faucet Review: Verdict | TSV"
 meta_description: "Our full roman tub faucet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPX1BTX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BaIaAH4iL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some faucets look great in the renderings and disappoint on day three. This Roman tub faucet — the one with the tall arching spout and widespread handles you've probably scrolled past — is not that faucet. With a 4.4-star average across 220 ratings, it's earned its place on the shortlist. But it's not flawless, and the quirks matter depending on your setup.

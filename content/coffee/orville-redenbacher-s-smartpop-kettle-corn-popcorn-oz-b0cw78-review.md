@@ -1,4 +1,5 @@
 ---
+
 title: "Orville Redenbacher's SmartPop! Kettle Corn Popcorn Oz"
 seo_title: "Orville Redenbacher's SmartPop! Kettle Corn Popcor Review"
 meta_description: "Our full orville redenbacher's smartpop! kettle corn popcorn oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW782TGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gUPmPTEWL._SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the snack aisle confusion: most kettle corn is a sugar bomb dressed up as popcorn. Orville Redenbacher's SmartPop! Kettle Corn takes a different route — and for most buyers, that's a win.

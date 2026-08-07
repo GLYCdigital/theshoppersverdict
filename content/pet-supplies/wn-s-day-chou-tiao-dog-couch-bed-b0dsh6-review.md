@@ -1,4 +1,5 @@
 ---
+
 title: "Wn's Day CHOU Tiao Dog Couch Bed"
 seo_title: "Wn's Day CHOU Tiao Dog Couch Bed Review: Verdict | TSV"
 meta_description: "Our full wn's day chou tiao dog couch bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSH6W446/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814xnTBOn4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The "couch" your dog actually deserves — or just another throwaway bed?**

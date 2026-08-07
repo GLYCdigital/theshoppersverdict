@@ -1,4 +1,5 @@
 ---
+
 title: "Tupkee Coffee Filters 4-6 Cups - Junior Basket Style, White "
 seo_title: "Tupkee Coffee Filters 4-6 Cups - Junior Basket Sty Review"
 meta_description: "Our full tupkee coffee filters 4-6 cups - junior basket style, white  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWQT3JBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713ca+cN7mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If your drip machine takes the junior basket size, these Tupkee filters are a legitimate upgrade over generic store-brand paper. At 4.7 stars from 235 ratings, the consensus is clear — but size compatibility is the catch you need to check before ordering.

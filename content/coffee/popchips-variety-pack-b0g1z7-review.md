@@ -1,4 +1,5 @@
 ---
+
 title: "Popchips variety pack"
 seo_title: "Popchips variety pack Review: Verdict | TSV"
 meta_description: "Our full popchips variety pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1Z7VMCY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CSLL4mCeL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the snack variety pack that actually earns a permanent spot in your pantry? I tested all four flavors over three weeks to find out.**

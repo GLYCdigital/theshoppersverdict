@@ -1,4 +1,5 @@
 ---
+
 title: "Fitense Rechargeable LED Armband 2-Pack, High Visibility Ref"
 seo_title: "Fitense LED Armband 2-Pack Review: Bright, Rechargeable"
 meta_description: "Fitense Rechargeable LED Armband 2-Pack review: bright, USB-C rechargeable, reflective. See why 225+ runners rate it 4.5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNRJSBDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VTS4kXcaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "USB-C rechargeable with claimed 10+ hour battery life per charge — no coin cells to replace"
   - "Elastic strap with silicone grip lining stays put on arms of varying sizes without slipping mid-run"
   - "Multiple light modes (steady, fast flash, slow pulse) plus reflective banding for 360-degree visibility"
-cons:
+cons: 
   - "Strap runs snug on larger biceps — check circumference before ordering if you're over 15 inches"
   - "Flashing modes are bright enough for drivers but not certified to any safety standard (EN 13356 or ANSI/ISEA 107)"
+
 ---
 
 ### You Can't Outrun a Car — But You Can Make Sure It Sees You

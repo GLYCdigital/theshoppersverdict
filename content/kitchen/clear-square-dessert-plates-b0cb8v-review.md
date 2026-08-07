@@ -1,4 +1,5 @@
 ---
+
 title: "Clear Square Dessert Plates"
 seo_title: "Clear Square Dessert Plates Review: Pros, Cons & Verdict"
 meta_description: "Honest Clear Square Dessert Plates review: durability, design, real buyer feedback, and whether these 4.7-star plates belong in your kitchen."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CB8VYLM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dLSSsJA4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crystal-clear tempered glass that holds up to daily dishwasher cycles without clouding or scratching"
   - "Square footprint maximizes plating surface while fitting neatly in standard kitchen cabinets"
   - "Stackable design with a subtle rim that prevents sticking — no felt separators needed"
-cons:
+cons: 
   - "Not microwave-safe, which limits reheating leftovers directly on the plate"
   - "Slippery surface when wet — hand-washing requires care to avoid drops"
+
 ---
 
 Clear square dessert plates are one of those purchases that seem simple until you actually start using them. The cheap ones cloud up after three dishwasher cycles. The thick ones look like you're serving cheesecake on a hockey puck. This set — the one with 235 ratings averaging 4.7 stars — claims to thread that needle. After digging through the specs and what real buyers are saying, here's the honest picture.

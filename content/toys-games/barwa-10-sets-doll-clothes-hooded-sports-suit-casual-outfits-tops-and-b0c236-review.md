@@ -1,4 +1,5 @@
 ---
+
 title: "Barwa 10 Sets Doll Clothes Hooded Sports Suit Casual Outfits"
 seo_title: "Barwa 10 Sets Doll Clothes Review: Hooded Sports Suits"
 meta_description: "Hands-on Barwa 10 Sets Doll Clothes review: hooded sports suits for 11.5-inch dolls. See what fits, what frays, and if the value holds up."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C2364ML1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812XSI3nsGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ten complete outfits for roughly $2 per set — substantial value for bulk play or party favors"
   - "Hooded jackets and pants use a soft, stretchy knit that fits standard 11.5-inch dolls without wrestling matches"
   - "Color variety spans neutral and bright tones, so kids get real mix-and-match options"
-cons:
+cons: 
   - "Seams on several jackets show loose threads after a week of active play — hand-washing recommended"
   - "No shoes or accessories included despite the 'sports suit' name; you're paying strictly for tops and bottoms"
   - "Elastic waistbands on pants can roll if the doll has wider hips, requiring occasional readjustment"
+
 ---
 
 If you've priced individual doll outfits lately, you know the pain: $8 to $12 for a single dress that your kid will lose under the couch within a week. The Barwa 10 Sets Doll Clothes Hooded Sports Suit flips that math. Ten full outfits — jacket and pants each — for about the cost of two retail store-brand sets. That's the hook. The question is whether the quality holds up or if you're buying ten versions of disappointment.

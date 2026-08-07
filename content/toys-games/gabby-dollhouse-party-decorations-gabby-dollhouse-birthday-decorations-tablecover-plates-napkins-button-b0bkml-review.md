@@ -1,4 +1,5 @@
 ---
+
 title: "Gabby Dollhouse Party Decorations | Gabby Dollhouse Birthday"
 seo_title: "Gabby Dollhouse Party Decorations Review: Worth It? (2026)"
 meta_description: "Honest Gabby Dollhouse party decorations review: tablecover, plates & napkins bundle. See what's included, durability, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BKML335Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810LK5ZZDiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy tablecover that holds up to spills without tearing — doesn't need tape to stay put"
   - "Thick, sturdy paper plates that survive heavy toppings without bending or leaking"
   - "Vibrant, true-to-show graphics that please even picky Gabby fans"
-cons:
+cons: 
   - "Only 8 plates and 8 napkins — you'll need a second set for parties over 8 kids"
   - "Napkins are on the smaller side; adults may need two for messy cake"
+
 ---
 
 If your kid has announced that the birthday party is *non-negotiable* Gabby's Dollhouse themed, you already know the drill: the decorations make or break the whole event. This kit from the official Gabby's Dollhouse line bundles the essentials — a tablecover, plates, and napkins — all in one box. The real question isn't whether it's cute (it is). It's whether the paper goods actually hold up when 10 sugared-up five-year-olds descend on the snack table. After digging through 240 Amazon ratings and the product specs, here's what I found.

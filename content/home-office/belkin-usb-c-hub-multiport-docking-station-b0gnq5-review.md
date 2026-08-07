@@ -1,4 +1,5 @@
 ---
+
 title: "Belkin USB-C Hub, MultiPort Docking Station"
 seo_title: "Belkin USB-C Hub MultiPort Docking Station Review (2026)"
 meta_description: "Belkin USB-C Hub MultiPort Docking Station review: 4.5/5 from 225 shoppers. Ports, speed, build quality tested. Who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GNQ53STS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71InbQtnQpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid aluminum body stays cool under sustained 4K video output"
   - "PD 3.0 passthrough delivers up to 85W to the host laptop, not just 60W like many competitors"
   - "Dual HDMI out supports true 4K@60Hz when both ports are active"
-cons:
+cons: 
   - "No SD or microSD card slot — content creators will need an external reader"
   - "Ethernet caps at Gigabit; no 2.5GbE option for prosumer NAS users"
+
 ---
 
 Let me be direct: most USB-C hubs are cheap plastic dongles that overheat, drop connections, and lie about their speeds. The Belkin MultiPort Docking Station is not that. It's a chunky aluminum block that feels like it was machined rather than injection-molded. But is it worth the premium over generic hubs? I've dug through the data, the 225 ratings, and the spec sheet to give you the real picture.

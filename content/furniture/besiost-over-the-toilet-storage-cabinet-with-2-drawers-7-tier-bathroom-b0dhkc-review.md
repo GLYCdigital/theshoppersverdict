@@ -1,4 +1,5 @@
 ---
+
 title: "Besiost Over The Toilet Storage Cabinet with 2 Drawers - 7 T"
 seo_title: "Besiost Over Toilet Storage Cabinet Review (2026): 7-Tier"
 meta_description: "Honest Besiost over toilet storage cabinet review: 7 tiers, 2 drawers, 4.4-star rated. Does it fit standard toilets? Real pros, cons, and buyer advice."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHKC2R37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y1VV2rGvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 7-tier design maximizes dead space above the toilet — holds towels, toiletries, and decor without touching the tank"
   - "2 fabric drawers tuck away smaller items (hair tools, first aid) that would clutter open shelves"
   - "Sturdy enough for daily use — multiple buyers report zero wobble on standard toilets"
-cons:
+cons: 
   - "Assembly is fiddly — expect 45–60 minutes and a second pair of hands for the upper frame"
   - "Fabric drawers are thin and not moisture-proof; keep damp items off them"
   - "Tank clearance is tight for elongated toilets — measure your tank height before buying"
+
 ---
 
 ## The 7-Tier Over-Toilet Cabinet That Actually Earns Its Space

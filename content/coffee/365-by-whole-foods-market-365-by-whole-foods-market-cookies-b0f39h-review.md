@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market 365 by Whole Foods Market Cookies"
 seo_title: "365 Whole Foods Cookies Review: Worth It? (2026)"
 meta_description: "365 by Whole Foods Market Cookies review: taste, texture, value, and whether these store-brand cookies beat name brands. Honest buyer verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F39H7S47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41yATb4x3RL._SL1000_.jpg"
-pros:
+pros: 
   - "Clean ingredient list with no artificial preservatives, high-fructose corn syrup, or hydrogenated oils"
   - "Consistently soft-baked texture that holds up well for several days after opening"
   - "Better value per ounce than comparable national brands at most Whole Foods locations"
-cons:
+cons: 
   - "Only 4-5 cookie varieties in the standard lineup, so flavor rotation gets repetitive"
   - "Some buyers report inconsistent batch quality — occasional dry or crumbly cookies"
   - "No single-serve packaging option; the resealable bag doesn't stay fresh as long as claimed"
+
 ---
 
 Let me be straight with you: these are store-brand cookies. But they're not the sad, chalky disks you might remember from generic grocery aisles. The 365 by Whole Foods Market Cookies have carved out a legitimate following, and at 4.4 stars across 220 ratings, they're doing something right. Here's what you need to know before adding them to your cart.

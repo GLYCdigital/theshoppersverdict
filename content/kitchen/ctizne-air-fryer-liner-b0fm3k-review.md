@@ -1,4 +1,5 @@
 ---
+
 title: "Ctizne Air Fryer Liner"
 seo_title: "Ctizne Air Fryer Liner Review: Worth It in 2026?"
 meta_description: "Honest Ctizne Air Fryer Liner review: 4.6-star rated. Do these parchment liners fit, perform, and save cleanup time? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM3KMCJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uvlCkt-fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut square design fits 4-8 quart baskets without trimming or folding"
   - "Genuine non-stick performance — food releases cleanly, no soaking or scrubbing"
   - "Heat-resistant to 450°F with no reported warping, burning, or chemical smell"
-cons:
+cons: 
   - "Lighter weight than some premium brands — can flutter in high-fan baskets if not weighed down by food"
   - "Only one size option — too large for 2-3 quart compact air fryers"
+
 ---
 
 If you’ve ever scraped burnt cheese off a basket with a sponge and a grudge, you already know why the Ctizne Air Fryer Liner exists. This is a 100-pack of pre-cut parchment squares designed to sit flat in your basket, catch the drips, and make cleanup a 10-second toss-and-go. At 4.6 stars across 229 ratings, it’s clearly working for most people — but let’s talk about who it’s *not* for.

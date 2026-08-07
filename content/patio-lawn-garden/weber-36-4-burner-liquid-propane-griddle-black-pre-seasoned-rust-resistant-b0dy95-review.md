@@ -1,7 +1,8 @@
 ---
-title: "Weber 36\" 4â€‘Burner Liquid Propane Griddle, Black â€“ Preâ€"
-seo_title: "Weber 36\" 4â€‘Burner Liquid Propane Griddle, Black Review"
-meta_description: "Our full weber 36\" 4â€‘burner liquid propane griddle, black â€“ preâ€ review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Weber 36\ 4â€‘Burner Liquid Propane Griddle, Black â€“ Preâ€"
+seo_title: "Weber 36\ 4â€‘Burner Liquid Propane Griddle, Black Review"
+meta_description: "Our full weber 36\ 4â€‘burner liquid propane griddle, black â€“ preâ€ review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "weber-36-4-burner-liquid-propane-griddle-black-pre-seasoned-rust-resistant-b0dy95-review"
 image_alt: "Weber 36 4â€‘Burner Liquid Propane Griddle, Black â€“ Preâ€‘Seasoned Rustâ€‘Resistant Carbon Steel Cooktop with 500Â°F+ "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DY95RTGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610mXqmJW8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** Weber took their 36-inch gas griddle frame and gave it the flat-top treatment — and it shows. This isn't a griddle attachment bolted onto a grill. It's a purpose-built cooking surface with the heat output to back it up.

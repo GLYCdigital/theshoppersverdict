@@ -1,4 +1,5 @@
 ---
+
 title: "CURLSMITH Fragrance-Free Leave In Conditioner, Hydrating Dee"
 seo_title: "Curlsmith Fragrance-Free Leave-In Conditioner Review (2026)"
 meta_description: "Honest Curlsmith fragrance-free leave-in conditioner review: hydration, slip, and frizz control for sensitive scalps. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT7KS3VM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HkXDiLtRL._SL1500_.jpg"
-pros:
+pros: 
   - "Glycerin and oat-derived ingredients deliver lasting hydration without heavy buildup on fine curls"
   - "Fragrance-free formula genuinely works for sensitive scalps and fragrance-triggered eczema flare-ups"
   - "Lightweight milky texture spreads easily through thick hair — one pump covers mid-length to ends"
-cons:
+cons: 
   - "Doesn't provide enough slip for severe detangling on high-density or tightly coiled hair — pair with a dedicated detangler"
   - "Price point sits firmly in luxury territory (roughly $30+ for 8 oz), and the pump can dispense too much product if you're not careful"
+
 ---
 
 ## The Fragrance-Free Curl Hydrator That Actually Delivers

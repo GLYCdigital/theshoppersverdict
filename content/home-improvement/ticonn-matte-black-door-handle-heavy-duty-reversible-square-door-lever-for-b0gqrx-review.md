@@ -1,4 +1,5 @@
 ---
+
 title: "TICONN Matte Black Door Handle Heavy Duty, Reversible Square"
 seo_title: "TICONN Matte Black Door Handle Heavy Duty, Reversi Review"
 meta_description: "Our full ticonn matte black door handle heavy duty, reversible square review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQRXQNXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LomQtjfZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TICONN Matte Black Door Handle is one of those products that looks far more expensive than it actually is. As shown in the product image, this square-lever handle delivers a modern, architectural look that punches well above its price class — but the real question is whether it holds up to daily use. After digging through the specs and the 220 ratings at 4.4 stars, here's the honest breakdown.

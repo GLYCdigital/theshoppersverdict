@@ -1,4 +1,5 @@
 ---
+
 title: "Eminence Organic Skincare Mangosteen Daily Resurfacing Clean"
 seo_title: "Eminence Mangosteen Resurfacing Cleanser Review (2026)"
 meta_description: "Honest Eminence Mangosteen Daily Resurfacing Cleanser review: LHA exfoliation, organic ingredients, real results. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DPGRT75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716k27g9E9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "LHA (lipohydroxy acid) delivers visible resurfacing without the sting of glycolic acid"
   - "Certified organic fruit acids actually brighten — multiple reviewers report fading dark spots in 2-3 weeks"
   - "Creamy texture lathers enough to remove makeup residue without stripping the moisture barrier"
-cons:
+cons: 
   - "At roughly $40+ for 4.2 oz, it's a luxury price point — drugstore alternatives exist but lack the organic fruit acid blend"
   - "Scent is strong and fruity — if you're sensitive to fragrance, test before committing"
   - "Not a true makeup remover — heavy or waterproof makeup needs a first cleanse"
+
 ---
 
 Let me be direct: you don't *need* a $40 cleanser. But if you're fighting dullness, rough texture, or post-acne marks, the Eminence Mangosteen Daily Resurfacing Cleanser is one of the few luxury formulas that actually earns its price tag. After 229 Amazon ratings averaging 4.6 stars, the consensus is clear — this isn't hype, it's chemistry.

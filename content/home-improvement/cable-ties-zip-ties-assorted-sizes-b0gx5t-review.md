@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Ties, Zip Ties Assorted Sizes"
 seo_title: "Cable Ties Zip Ties Assorted Sizes Review: Worth It? "
 meta_description: "Cable Ties, Zip Ties Assorted Sizes review: 4.7★ rated. Tested for strength, durability & value. Real buyer feedback on sizes & quality. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GX5TVW96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IFpKXbvUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely assorted — 4-5 distinct sizes in one bag covers everything from tiny electronics to heavy-duty outdoor bundling"
   - "Reinforced head design locks firmly without slipping under tension; teeth grip consistently even on smooth plastic conduit"
   - "UV-stabilized nylon holds up outdoors — several reviewers report using them on exterior projects for over a year without brittle cracking"
-cons:
+cons: 
   - "No color coding — all ties are black, so quick visual size identification mid-project requires sorting them yourself"
   - "Smallest size (4-inch) can be finicky to thread with gloved hands; the tail is stiff and doesn't self-guide into the head"
+
 ---
 
 Let's be honest about zip ties: they're not exciting. You buy them, you use three, and the rest sit in a drawer for five years. But when you need one — really need one — you want it to hold. This assorted pack is the set that actually earns its drawer space.

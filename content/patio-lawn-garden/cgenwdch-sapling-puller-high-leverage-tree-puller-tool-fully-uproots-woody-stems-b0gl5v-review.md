@@ -1,4 +1,5 @@
 ---
+
 title: "CGENWDCH Sapling Puller, High-Leverage Tree Puller Tool, Ful"
 seo_title: "CGENWDCH Sapling Puller Review: High-Leverage Weed Wrench"
 meta_description: "Honest CGENWDCH Sapling Puller review: Does this high-leverage tree puller uproot woody stems? Tested for build, ease, and value. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GL5VKPCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+gNBnC9YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grips stems down to 1/4 inch, uproots roots intact instead of snapping tops"
   - "Fulcrum design delivers real mechanical advantage—removes 6-foot saplings without bending over"
   - "All-steel construction with welded pivot rated for decades of hard yard work"
-cons:
+cons: 
   - "Handle length is fixed—taller users will hunch, shorter users lose leverage"
   - "Jaws struggle with wet, soft soil—roots pull through instead of gripping"
   - "Pivot bolt loosens under heavy torque; needs thread-locker or periodic re-tightening"
+
 ---
 
 If you've ever fought a 5-foot buckthorn or a stubborn mulberry sapling with a shovel, you know the drill: snap the top, leave the root, and watch it laugh at you by July. The CGENWDCH Sapling Puller claims to end that cycle with a high-leverage fulcrum design that extracts the whole root ball. At 3.8 stars across 190 ratings, the crowd is split—but the physics is sound. Here's who it actually works for.

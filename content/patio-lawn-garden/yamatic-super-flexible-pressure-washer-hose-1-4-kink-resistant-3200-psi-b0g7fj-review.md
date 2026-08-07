@@ -1,7 +1,8 @@
 ---
-title: "YAMATIC Super Flexible Pressure Washer Hose, 1/4\" Kink Resis"
-seo_title: "YAMATIC Super Flexible Pressure Washer Hose, 1/4\"  Review"
-meta_description: "Our full yamatic super flexible pressure washer hose, 1/4\" kink resis review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "YAMATIC Super Flexible Pressure Washer Hose, 1/4\ Kink Resis"
+seo_title: "YAMATIC Super Flexible Pressure Washer Hose, 1/4\  Review"
+meta_description: "Our full yamatic super flexible pressure washer hose, 1/4\ kink resis review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yamatic-super-flexible-pressure-washer-hose-1-4-kink-resistant-3200-psi-b0g7fj-review"
 image_alt: "YAMATIC Super Flexible Pressure Washer Hose, 1/4 Kink Resistant 3200 PSI Heavy Duty Power Washer Extension Replacement H"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G7FJH6RL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i-SY-5H2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the stock hose that came with your pressure washer is probably stiff, short, and annoying. The YAMATIC Super Flexible 1/4" hose exists to fix exactly that problem — and for most homeowners, it does the job well. But there's a tradeoff hiding in that 1/4" diameter, and you need to know about it before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hugsleek Porcelain Farmhouse Kitchen Sink Ceramic Fireclay"
 seo_title: "Hugsleek Porcelain Farmhouse Kitchen Sink Ceramic  Review"
 meta_description: "Our full hugsleek porcelain farmhouse kitchen sink ceramic fireclay review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTS87J9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811JnqwJhEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hugsleek Porcelain Farmhouse Kitchen Sink Review

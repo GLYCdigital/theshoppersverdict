@@ -1,4 +1,5 @@
 ---
+
 title: "HOSHANHO 3 Pieces Knife Set, Professional Japanese High Carbon Stainless Steel Kitchen Knife Set, Ultra Sharp Chef Knives Sets with Ergonomic Pakwood Handle"
 seo_title: "HOSHANHO 3-Piece Knife Set Review: Worth It? (2026)"
 meta_description: "HOSHANHO 3-piece Japanese knife set review: 4.7-star rated. We test sharpness, edge retention, and handle comfort. Is this $151 set worth it? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 905
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKZ1MJ7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sA4MhgOjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Surgical-grade sharpness out of the box — glides through tomatoes without crushing, tested by hundreds of buyers"
   - "58-60 HRC hardness means the edge holds noticeably longer than typical German steel (which sits around 56)"
   - "Full tang construction with triple-riveted pakkawood handles that stay secure even with wet, soapy hands"
-cons:
+cons: 
   - "High-carbon steel requires immediate hand-washing — leaving them in the sink will produce rust spots, and this is not an exaggeration"
   - "No blade guard or storage block included — you'll need a magnetic strip or blade covers to protect the edges (and your fingers)"
   - "The gyutou's 8.2-inch blade runs long for smaller hands; home cooks with petite grips may find it unwieldy for precision work"
+
 ---
 
 # HOSHANHO 3-Piece Knife Set Review: Japanese Sharpness Without the $400 Price Tag

@@ -1,4 +1,5 @@
 ---
+
 title: "Delta 79735 Cassidy Double Towel"
 seo_title: "Delta 79735 Cassidy Double Towel Review: Worth It?"
 meta_description: "Honest Delta 79735 Cassidy Double Towel review. Build quality, installation tips, and real buyer feedback. See if this 4.8-star bar is right for your bathroom."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHNDSM2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tket+yJmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc die-cast construction with a 24-inch double bar that holds two full-size bath towels without overlap"
   - "Includes mounting template and all necessary hardware — most buyers finish installation in under 20 minutes"
   - "Spot-resistant chrome finish resists water spots and fingerprints far better than cheaper brushed nickel options"
-cons:
+cons: 
   - "Mounting screws are soft — several buyers strip them if using a power drill instead of a manual screwdriver"
   - "Bars are fixed at a 6-inch spacing, which can feel tight for oversized or thick plush towels"
+
 ---
 
 Let’s be honest: a towel bar is not a glamorous purchase. But the Delta 79735 Cassidy Double Towel is the rare home improvement item that earns its 4.8-star rating through pure execution. If you’re remodeling a bathroom or just tired of towels piling on the floor, this is the bar to beat in its category.

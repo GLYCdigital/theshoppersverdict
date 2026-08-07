@@ -1,4 +1,5 @@
 ---
+
 title: "Furinno GEHRY Book Shelf, Bookshelf, Bookcase with Adjustabl"
 seo_title: "Furinno GEHRY Book Shelf Review: Budget Adjustable Shelving"
 meta_description: "Read our honest Furinno GEHRY Book Shelf review. Adjustable shelves, compact design, and real buyer feedback. Is this budget bookcase worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHCWJ5YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ym4gRlO+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely adjustable shelves — pins allow 4-5 different height positions without tools"
   - Compact footprint fits narrow spaces: "roughly 23.6 inch  W x 11.8 inch  D, ideal for apartments"
   - "Composite wood with a clean laminate finish resists scratches and wipes down easily"
-cons:
+cons: 
   - "Material is lightweight particleboard — not built for heavy hardcover encyclopedias"
   - "Assembly requires patience; cam locks are fiddly and instructions are minimal"
   - "No back panel included, so items can poke through from behind if overloaded"
+
 ---
 
 If you're shopping for a bookcase under $50, the Furinno GEHRY is probably in your search results. It's one of those budget staples that shows up everywhere — and for good reason. But before you hit buy, here's what 210 Amazon reviewers (averaging 4.2 stars) actually say about living with it.

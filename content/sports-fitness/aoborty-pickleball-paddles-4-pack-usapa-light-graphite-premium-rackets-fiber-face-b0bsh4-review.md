@@ -1,4 +1,5 @@
 ---
+
 title: "AOBORTY Pickleball Paddles 4 Pack - USAPA Light Graphite Pre"
 seo_title: "AOBORTY Pickleball Paddles 4 Pack Review (2026): USAPA-Approved"
 meta_description: "Honest AOBORTY pickleball paddles 4-pack review: graphite face, USAPA-approved, lightweight. See how they perform, who they're for, and real downsides."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BSH4FZ79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xjjrm9RIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine USAPA approval — tournament-legal out of the box, no sticker fakes"
   - "Graphite fiber face delivers consistent spin without breaking the bank at ~$25/paddle"
   - "4 identical paddles means no 'who gets the good one' arguments in a foursome"
-cons:
+cons: 
   - Handle length (4.75 inch ") is on the shorter side — two-handed backhand players will feel cramped
   - "Polypropylene honeycomb core is medium-density; doesn't offer the pop of pricier polymer cores"
   - "No paddle cover included — for $100+, you'd expect at least one"
+
 ---
 
 **AOBORTY Pickleball Paddles 4 Pack Review: The $25 Tournament-Legal Paddle That Actually Delivers**

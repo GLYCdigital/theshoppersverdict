@@ -1,4 +1,5 @@
 ---
+
 title: "ALIDE E11 E12 E14 Candelabra Led Bulbs"
 seo_title: "ALIDE E11 E12 E14 Candelabra LED Bulbs Review (2026)"
 meta_description: "Honest ALIDE E11 E12 E14 candelabra LED bulbs review: brightness, fit, dimming performance, and real buyer feedback. Is this 3-base pack worth it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWR5KSR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ylzAtGVfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three base sizes (E11, E12, E14) in one pack covers most candelabra fixtures without buying separate boxes"
   - "True warm white output around 2700K that doesn't cast the sterile blue tint common in cheap LEDs"
   - "Compact glass envelope fits tight globes and enclosed fixtures where longer bulbs won't clear"
-cons:
+cons: 
   - "Non-dimmable — if your chandelier is on a dimmer switch, these will flicker or hum"
   - "Light output is modest (~400 lumens); adequate for ambiance but too dim for task lighting"
+
 ---
 
 If you've ever stood in the lighting aisle juggling three different base sizes because your house has a chandelier, a sconce, and a pendant light that all take different bulbs, the ALIDE E11 E12 E14 candelabra LED pack is trying to solve your exact problem. One box, three base types, no more guessing.

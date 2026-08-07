@@ -1,4 +1,5 @@
 ---
+
 title: "Fit Butters High Protein Nut Butter and Protein Peanut Butte"
 seo_title: "Fit Butters Protein Nut Butter Review: Worth It?"
 meta_description: "Fit Butters High Protein Nut Butter review: taste, texture, mixability, and value. See if this protein spread beats regular PB for your macros."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0BLWCQTB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8154NpnMfPL._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers 12-14g protein per 2-tbsp serving — roughly double regular peanut butter — with only 2g net carbs"
   - "Uses whey protein isolate and peanut flour rather than cheap fillers like maltodextrin or soy protein isolate"
   - "No stirring required — the oil doesn't separate like natural peanut butters, so it's spoon-ready every time"
-cons:
+cons: 
   - "Texture is noticeably drier and grittier than standard peanut butter; several buyers describe it as 'chalky' or 'powdery'"
   - "Sweetener aftertaste is polarizing — the stevia/monk fruit blend bothers some people more than others"
   - "At roughly $1.50-$2.00 per ounce, you're paying a heavy premium for protein that's easy to get elsewhere"
+
 ---
 
 **The 3.4-star reality check on Fit Butters: protein-packed, but is it actually good?**

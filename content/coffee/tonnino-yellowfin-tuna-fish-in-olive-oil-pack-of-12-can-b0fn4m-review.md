@@ -1,4 +1,5 @@
 ---
+
 title: "Tonnino Yellowfin Tuna Fish in Olive Oil - Pack of 12 Can"
 seo_title: "Tonnino Yellowfin Tuna Fish in Olive Oil - Pack of Review"
 meta_description: "Our full tonnino yellowfin tuna fish in olive oil - pack of 12 can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN4MX6JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815gTdi071L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Short Version  

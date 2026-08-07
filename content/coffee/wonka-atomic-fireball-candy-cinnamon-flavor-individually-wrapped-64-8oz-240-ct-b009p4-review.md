@@ -1,4 +1,5 @@
 ---
+
 title: "Wonka Atomic Fireball, Candy, Cinnamon Flavor, Individually "
 seo_title: "Wonka Atomic Fireball, Candy, Cinnamon Flavor, Ind Review"
 meta_description: "Our full wonka atomic fireball, candy, cinnamon flavor, individually  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B009P4MX3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wDFKqts3L._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the Wonka Atomic Fireball is not a subtle candy. It's a cinnamon hard candy that delivers an escalating burn that lingers long after the candy dissolves. If you're looking for a gentle cinnamon flavor, this isn't it. But if you want a candy that demands your attention — and rewards you with a satisfying, spicy finish — this 240-count bulk box delivers exactly what it promises.

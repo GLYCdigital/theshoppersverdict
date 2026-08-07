@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Bookshelf Industrial 5 Tier Etagere Bookcase, Fre"
 seo_title: "Tribesigns Bookshelf Industrial 5 Tier Etagere Boo Review"
 meta_description: "Our full tribesigns bookshelf industrial 5 tier etagere bookcase, fre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRGRWJDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IpHxXo8OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past those flimsy, pressboard cube organizers that sag under the weight of a single hardcover, the Tribesigns 5-Tier Industrial Etagere is the antidote. This isn't a $40 particleboard special that arrives looking like a collapsed cardboard box. It's a genuinely substantial piece of furniture that earns its 4.6-star rating from 229 Amazon shoppers — and it has the build weight to prove it.

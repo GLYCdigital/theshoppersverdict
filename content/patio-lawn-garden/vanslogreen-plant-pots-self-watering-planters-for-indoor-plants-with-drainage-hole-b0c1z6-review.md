@@ -1,4 +1,5 @@
 ---
+
 title: "Vanslogreen Plant Pots, Self Watering Planters for Indoor Pl"
 seo_title: "Vanslogreen Plant Pots, Self Watering Planters for Review"
 meta_description: "Our full vanslogreen plant pots, self watering planters for indoor pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1Z61NMD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71916cXrCOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Vanslogreen Self-Watering Planters: The 4.6-Star Secret for Forgetful Plant Parents  

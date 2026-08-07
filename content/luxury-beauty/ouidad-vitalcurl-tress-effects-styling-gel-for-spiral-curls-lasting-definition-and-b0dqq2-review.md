@@ -1,4 +1,5 @@
 ---
+
 title: "Ouidad VitalCurl+ Tress Effects Styling Gel for Spiral Curls"
 seo_title: "Ouidad VitalCurl+ Tress Effects Styling Gel for Sp Review"
 meta_description: "Our full ouidad vitalcurl+ tress effects styling gel for spiral curls review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQQ29KXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tmNAaT-aL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $30 gel that actually respects your spiral pattern — most of the time.**

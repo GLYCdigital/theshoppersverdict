@@ -1,4 +1,5 @@
 ---
+
 title: "NOVAMAISON Tall Corner Cabinet"
 seo_title: "NOVAMAISON Tall Corner Cabinet Review: Verdict | TSV"
 meta_description: "Our full novamaison tall corner cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F47KLGJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gchF0qNKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Does This Corner Cabinet Actually Solve Your Storage Problem?

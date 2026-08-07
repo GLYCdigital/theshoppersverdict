@@ -1,4 +1,5 @@
 ---
+
 title: "La-Z-Boy Sonata Executive Mid-Back Office Chair, Button-Tuft"
 seo_title: "La-Z-Boy Sonata Executive Mid-Back Office Chair, B Review"
 meta_description: "Our full la-z-boy sonata executive mid-back office chair, button-tuft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ8W378C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Sk5omUBxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: La-Z-Boy's reputation for living-room comfort finally makes its way to your home office — but it's not the ergonomic workstation chair you might expect.**

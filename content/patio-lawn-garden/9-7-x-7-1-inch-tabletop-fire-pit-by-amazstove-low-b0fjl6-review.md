@@ -1,4 +1,5 @@
 ---
+
 title: "9.7 x 7.1 Inch Tabletop Fire Pit by AmazStove, Low Smoke Cam"
 seo_title: "AmazStove Tabletop Fire Pit Review: Low-Smoke 9.7x7.1 inch"
 meta_description: "Honest AmazStove tabletop fire pit review: 9.7x7.1 low-smoke cam, real flame output, build quality, and who should buy it. 4.5-star analysis."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJL6KVKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X7tNRRXTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Low-smoke design with efficient airflow chamber that produces clean, blue-tipped flames"
   - "Compact 9.7x7.1 footprint fits on standard patio tables without dominating the space"
   - "Durable stainless steel construction with heat-resistant base that won't scorch tabletops"
-cons:
+cons: 
   - "Small fuel chamber limits burn time to roughly 45-60 minutes per fill"
   - "No wind guard — exposed flames flicker out in moderate breezes"
   - "Requires isopropyl alcohol (not included); gel fuel won't work in this design"
+
 ---
 
 If you've been burned by cheap tabletop fire pits that smoke like a campfire and leave soot on your patio furniture, the AmazStove 9.7 x 7.1 Inch Tabletop Fire Pit deserves a closer look. This little unit has quietly racked up 225 ratings at 4.5 stars, and after digging into what owners actually say, the low-smoke claim isn't marketing fluff — it's the whole point of this design.

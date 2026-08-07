@@ -1,4 +1,5 @@
 ---
+
 title: "essie gel couture, gel-like nail polish, longwear, vegan for"
 seo_title: "essie Gel Couture Review: Longwear Gel-Like Polish Worth It?"
 meta_description: "Honest essie Gel Couture review: gel-like shine, longwear vegan formula, and real-world wear tests. See if this salon-free polish delivers on its 14-day promise."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSCDK2GD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y3Uv3Va8L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine gel-like shine and depth without needing a UV lamp — two-step system with the matching top coat delivers real mirror gloss"
   - "Self-leveling formula means fewer streaks and brush marks; most reviewers report smooth, even application even with minimal skill"
   - "Vegan formula with no animal-derived ingredients, and the wide brush makes one-coat coverage achievable on most shades"
-cons:
+cons: 
   - "The '14-day wear' claim is optimistic for most users — expect 5–7 days before noticeable tip wear or chipping, especially if you type or wash dishes without gloves"
   - "Must be removed with the matching Gel Couture remover or acetone; regular polish remover struggles and leaves residue"
   - "Thicker formula means it can go gloopy quickly if you don't tighten the cap properly between coats"
+
 ---
 
 **The $12 Salon Secret That Actually Holds Up — With One Big Catch**

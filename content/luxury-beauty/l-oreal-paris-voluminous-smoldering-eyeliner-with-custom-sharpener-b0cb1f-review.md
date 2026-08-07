@@ -1,4 +1,5 @@
 ---
+
 title: "L'Oreal Paris Voluminous Smoldering Eyeliner with Custom Sha"
 seo_title: "L'Oreal Paris Voluminous Smoldering Eyeliner with  Review"
 meta_description: "Our full l'oreal paris voluminous smoldering eyeliner with custom sha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB1FSXZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IUlZk4IjL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $10 Eyeliner That Thinks It's Luxury

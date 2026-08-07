@@ -1,4 +1,5 @@
 ---
+
 title: "Hammermill Printer Paper"
 seo_title: "Hammermill Printer Paper Review: Verdict | TSV"
 meta_description: "Our full hammermill printer paper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09QBMPNWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713PHjNto9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you about printer paper: it's the most boring purchase you'll make all year, but the wrong choice will cost you hours of frustration. Hammermill has built a reputation over decades as a reliable office staple. This particular listing, though, tells a more complicated story.

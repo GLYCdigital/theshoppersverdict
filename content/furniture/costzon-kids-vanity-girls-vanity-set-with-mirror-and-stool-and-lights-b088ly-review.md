@@ -1,4 +1,5 @@
 ---
+
 title: "Costzon Kids Vanity, Girls Vanity Set with Mirror and Stool"
 seo_title: "Costzon Kids Vanity Review: Is This Girls Vanity Set Worth It?"
 meta_description: "Costzon Kids Vanity Set review: sturdy MDF build, LED mirror, and stool. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B088LYFFGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51S-TZ5lXuL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Sturdy MDF construction with rounded corners — holds up to daily use by young kids without wobbling"
   - "Bright LED mirror with three color temperatures, a feature you rarely find at this price point"
   - "Assembly takes under 30 minutes with labeled parts and an Allen wrench included"
-cons:
+cons: 
   - "Stool height is fixed at 11.8 inches — taller 7-8 year olds may find it cramped"
   - "LED lights require 3 AA batteries (not included) and the touch sensor is finicky if hands are damp"
+
 ---
 
 Some kids' furniture is glorified cardboard. This isn't. The Costzon Kids Vanity Set is a legitimately sturdy piece — the tabletop is solid MDF, not that hollow particleboard stuff that caves in after six months. At 4.4 stars across 220 ratings, the consensus is clear: parents are mostly happy, with a few caveats worth knowing before you click buy.

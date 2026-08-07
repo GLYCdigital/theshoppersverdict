@@ -1,4 +1,5 @@
 ---
+
 title: "DYMO Authentic LW White Mailing Address Labels, For LabelWriter Printers"
 seo_title: "DYMO Authentic LW White Mailing Labels Review (2026)"
 meta_description: "DYMO Authentic LW White Mailing Address Labels review: real-world performance, jamming issues, compatibility, and value. Is this the right label for your LabelWriter?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00004Z64M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8154atiFHKS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, smudge-proof thermal printing with no ink or toner to replace"
   - "Reliable adhesive that sticks firmly to envelopes, poly mailers, and cardboard"
   - "Consistent sizing and die-cut edges that feed smoothly through LabelWriter printers"
-cons:
+cons: 
   - "Genuine DYMO labels cost noticeably more than third-party alternatives"
   - Only 2 inch x 4 inch size — no flexibility for larger shipping labels or smaller return-address formats
+
 ---
 
 Let's be direct: if you own a DYMO LabelWriter, you've probably asked yourself whether the "Authentic" label markup is worth it, or if those cheaper knockoffs from random sellers will do the same job. I've tested both, and here's the honest breakdown of DYMO's own LW White Mailing Address Labels.

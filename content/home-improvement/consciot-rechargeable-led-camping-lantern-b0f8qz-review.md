@@ -1,4 +1,5 @@
 ---
+
 title: "Consciot Rechargeable LED Camping Lantern"
 seo_title: "Consciot Rechargeable LED Camping Lantern Review (2026)"
 meta_description: "Consciot rechargeable LED camping lantern review: brightness, battery life, build quality, and real buyer feedback. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8QZZTGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B-brdersL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Collapsible design compresses to roughly half its height for easy packing"
   - "Built-in USB-C charging with power bank capability for topping off a phone"
   - "Multiple brightness modes including a dim red light that preserves night vision"
-cons:
+cons: 
   - "No replaceable battery — when the internal cell eventually degrades, it's throwaway"
   - "The hanging hook feels flimsy for a lantern this weight when fully extended"
   - "Max brightness drains battery fast — expect around 4 hours on the highest setting"
+
 ---
 
 Let's cut through the noise: most camping lanterns under $30 are either too dim to light a tent or too bulky to justify packing. The Consciot Rechargeable LED Camping Lantern sits in a sweet spot, and the 4.6-star average across 229 ratings suggests I'm not the only one who thinks so. Here's what you actually need to know before adding it to your cart.

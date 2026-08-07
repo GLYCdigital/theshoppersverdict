@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Keyed Entry Knob"
 seo_title: "Kwikset Keyed Entry Knob Review: Verdict | TSV"
 meta_description: "Our full kwikset keyed entry knob review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6CXGRWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S7dLCheVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. A keyed entry knob is the first thing a burglar touches on your home, and the last thing you want to cheap out on. But the Kwikset Keyed Entry Knob sits in a crowded field of $15–$30 locksets, all promising security they may not deliver. So what does 220 Amazon reviewers actually say after living with this thing?

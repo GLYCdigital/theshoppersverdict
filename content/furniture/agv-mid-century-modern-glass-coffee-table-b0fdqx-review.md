@@ -1,4 +1,5 @@
 ---
+
 title: "AGV Mid Century Modern Glass Coffee Table"
 seo_title: "AGV Mid Century Modern Glass Coffee Table Review (2026)"
 meta_description: "Honest AGV Mid Century Modern Glass Coffee Table review: build quality, real buyer feedback, dimensions, and who should buy. Get the full story before you order."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDQXQ4QH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HVIzQgWML._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Tempered glass top is genuinely durable — survives daily use and accidental bumps without chipping"
   - "Clean mid-century silhouette with tapered wooden legs that don't wobble on carpet or hardwood"
   - "Assembly takes under 15 minutes with only four leg attachments — no power tools required"
-cons:
+cons: 
   - "Glass surface shows fingerprints and smudges almost instantly — keep a microfiber cloth nearby"
   - "No lower storage shelf, so it's purely a display piece rather than a functional storage solution"
+
 ---
 
 Let's be blunt: most coffee tables under $200 are either flimsy pressboard disasters or so generic they vanish into the room. The AGV Mid Century Modern Glass Coffee Table sits in a different lane — but is it worth your money? After digging through 215 ratings and the real customer feedback, here's the honest picture.

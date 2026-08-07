@@ -1,4 +1,5 @@
 ---
+
 title: "Victoria Cast Iron Griddle. Double Burner Griddle, Reversibl"
 seo_title: "Victoria Cast Iron Griddle. Double Burner Griddle, Review"
 meta_description: "Our full victoria cast iron griddle. double burner griddle, reversibl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHRGTT8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c0ifOV4vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Victoria Cast Iron Griddle Review: Is the Double Burner Workhorse Worth Your Kitchen Space?

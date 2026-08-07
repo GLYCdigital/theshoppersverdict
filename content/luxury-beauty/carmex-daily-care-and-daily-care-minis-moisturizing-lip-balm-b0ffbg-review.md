@@ -1,4 +1,5 @@
 ---
+
 title: "Carmex Daily Care and Daily Care Minis Moisturizing Lip Balm"
 seo_title: "Carmex Daily Care Lip Balm Review: Worth It? (2026)"
 meta_description: "Carmex Daily Care lip balm review: 4.8-star rated moisture, texture, and value. See if this daily treatment beats the classic jar."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FFBG5PN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91iXLKE7I7L._SL1500_.jpg"
-pros:
+pros: 
   - "SPF 15 protection in every tube — rare for daily lip balms at this price point"
   - "Non-greasy formula that absorbs in under 60 seconds, no sticky residue on hair or glasses"
   - "Minis are genuinely pocket-sized (0.15 oz), perfect for keychains, gym bags, and travel kits"
-cons:
+cons: 
   - "Contains lanolin — a dealbreaker for vegans and those with wool allergies"
   - "Flavor is subtle but sweet; if you prefer completely unflavored balms, this won't be it"
+
 ---
 
 Let me be direct: the classic yellow Carmex jar has been a drugstore staple for decades, but it’s also thick, greasy, and frankly a bit messy. The Daily Care line is Carmex answering the call for something lighter, more modern, and actually wearable under lipstick. After a month of testing both the full-size tube and the minis, here’s the real story.

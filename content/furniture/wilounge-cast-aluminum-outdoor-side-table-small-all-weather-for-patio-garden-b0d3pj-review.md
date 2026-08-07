@@ -1,4 +1,5 @@
 ---
+
 title: "WILOUNGE Cast Aluminum Outdoor Side Table - Small, All-Weath"
 seo_title: "WILOUNGE Cast Aluminum Outdoor Side Table - Small, Review"
 meta_description: "Our full wilounge cast aluminum outdoor side table - small, all-weath review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3PJQZ53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sPmvQb1uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some outdoor side tables feel like an afterthought — flimsy aluminum tubes, a plastic top that fades in one season, and a wobble that gets worse every time you bump it. The WILOUNGE cast aluminum side table is not that. It's a 20-pound chunk of solid metal that feels like it was carved, not assembled. But before you hit "add to cart," there are a few things you should know about its size and maintenance.

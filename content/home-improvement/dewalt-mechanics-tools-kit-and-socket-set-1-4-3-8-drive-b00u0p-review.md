@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Mechanics Tools Kit and Socket Set, 1/4 inch  & 3/8 inch  Drive"
 seo_title: "DEWALT Mechanics Tool Set Review: 1/4 & 3/8 Drive Kit"
 meta_description: "Honest DEWALT mechanics tools kit review: 1/4 inch  & 3/8 inch  drive socket set with 4.8-star rating. See what buyers praise, where it falls short, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00U0P0GHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mPvINiSKL._SL1500_.jpg"
-pros:
+pros: 
   - "Chrome vanadium steel construction with a full polish finish that wipes clean easily and resists rust far better than budget sets"
   - "Dual-direction ratchets with 72 teeth — a 5-degree arc swing that actually fits into tight engine bays where cheaper 36-tooth ratchets bind"
   - "Color-coded, size-stamped sockets that make it easy to grab the right one from a crowded toolbox drawer"
-cons:
+cons: 
   - "No 10mm socket in either drive size — the one size every mechanic inevitably loses and needs most"
   - "Case is bulky and the latches feel flimsy; the insert trays don't hold sockets tightly enough to survive a drop without scattering"
+
 ---
 
 If you're tired of buying the same cheap socket set every few years because the chrome flakes off and the ratchet slips, DEWALT's 1/4" and 3/8" mechanics kit deserves a hard look. It's not the cheapest option on Amazon, but it's the kind of set that stays in your toolbox for a decade rather than ending up in a garage sale box.

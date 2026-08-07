@@ -1,4 +1,5 @@
 ---
+
 title: "LulliSpace 6 in 1 Toddler Slide,Kids Playset for Toddlers In"
 seo_title: "LulliSpace 6 in 1 Toddler Slide,Kids Playset for T Review"
 meta_description: "Our full lullispace 6 in 1 toddler slide,kids playset for toddlers in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F62RC5GN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c27nKmvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LulliSpace 6-in-1 Toddler Slide: One Toy That Earns Its Floor Space**

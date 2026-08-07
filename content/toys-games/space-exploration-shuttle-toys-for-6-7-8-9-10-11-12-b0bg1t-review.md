@@ -1,4 +1,5 @@
 ---
+
 title: "Space Exploration Shuttle Toys for 6 7 8 9 10 11 12 Year Old"
 seo_title: "Space Exploration Shuttle Toys for 6 7 8 9 10 11 1 Review"
 meta_description: "Our full space exploration shuttle toys for 6 7 8 9 10 11 12 year old review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BG1TFJHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XLOvd54GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has stared at Artemis launch footage and asked a hundred questions, this shuttle set is about to become their new favorite thing. But is it worth the shelf space? I dug into the specs, the 229 ratings, and what buyers actually say to give you the full picture.

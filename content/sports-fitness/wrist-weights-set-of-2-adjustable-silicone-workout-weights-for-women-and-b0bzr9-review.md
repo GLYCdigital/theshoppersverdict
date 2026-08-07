@@ -1,4 +1,5 @@
 ---
+
 title: "Wrist Weights Set of 2, Adjustable Silicone Workout Weights "
 seo_title: "Wrist Weights Set of 2, Adjustable Silicone Workou Review"
 meta_description: "Our full wrist weights set of 2, adjustable silicone workout weights  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZR92R5N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611jchW8mwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wrist Weights Set of 2, Adjustable Silicone Workout Weights: The Real Story Before You Buy

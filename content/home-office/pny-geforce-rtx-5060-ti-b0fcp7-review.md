@@ -1,4 +1,5 @@
 ---
+
 title: "PNY GeForce RTXâ„¢ 5060 Ti"
 seo_title: "PNY GeForce RTXâ„¢ 5060 Ti Review: Verdict | TSV"
 meta_description: "Our full pny geforce rtxâ„¢ 5060 ti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCP7GV5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l9TJoBOtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The RTX 5060 Ti isn't the flashiest GPU on the shelf, but for anyone building a serious 1440p workstation or gaming rig in 2026, it's quietly become the smartest mid-range buy on the market.** With 229 Amazon ratings averaging 4.6 stars, the consensus is clear: this card punches well above its price class.

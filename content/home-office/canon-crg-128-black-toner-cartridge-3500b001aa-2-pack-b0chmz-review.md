@@ -1,4 +1,5 @@
 ---
+
 title: "Canon CRG-128 Black Toner Cartridge, 3500B001AA, 2-Pack"
 seo_title: "Canon CRG-128 Black Toner Review: 2-Pack Value & Performance"
 meta_description: "Honest Canon CRG-128 black toner 2-pack review: yield, print quality, compatibility, and cost per page. See if this OEM cartridge is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CHMZBZC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uA359iJvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM Canon toner — no compatibility headaches or printer firmware issues"
   - "Consistent 2,500-page yield per cartridge with crisp, smudge-free text"
   - "Two-pack lands at a better cost per page than buying singles"
-cons:
+cons: 
   - "Premium OEM pricing — third-party alternatives run 30-50% cheaper"
   - "No high-yield option for this model; heavy users will replace often"
+
 ---
 
 If you own a Canon imageCLASS printer that takes CRG-128 toner, you already know the frustration of gambling on third-party cartridges. The good news: this 2-pack from Canon eliminates that gamble entirely. The bad news: you'll pay for the peace of mind. Here's the full picture.

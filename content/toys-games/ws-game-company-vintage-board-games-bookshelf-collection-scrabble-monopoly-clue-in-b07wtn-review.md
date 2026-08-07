@@ -1,4 +1,5 @@
 ---
+
 title: "WS Game Company Vintage Board Games Bookshelf Collection - S"
 seo_title: "WS Game Company Vintage Board Games Bookshelf Coll Review"
 meta_description: "Our full ws game company vintage board games bookshelf collection - s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07WTNZ1XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DSLlCTMeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The WS Game Company Vintage Board Games Bookshelf Collection is a display piece that actually gets played — which is rarer than you'd think in the "collectible game" category. This three-game set (Scrabble, Monopoly, and Clue) comes in hardbound book-style boxes that look like they belong in a library, not a toy closet. At 4.8 stars from 240 Amazon ratings, it's clearly hitting the mark for most buyers. Here's the honest breakdown.

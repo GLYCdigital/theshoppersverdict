@@ -1,4 +1,5 @@
 ---
+
 title: "DynastyMattress 4-inch Cool Gel Memory Foam Mattress Sleeper"
 seo_title: "DynastyMattress 4-Inch Gel Memory Foam Review (2026)"
 meta_description: "DynastyMattress 4-inch cool gel memory foam sleeper review: Is this foldable mattress worth it for guests, camping, or kids? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G1YV65KR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ITImF-T0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely cool-to-the-touch gel-infused top layer that runs noticeably cooler than cheap foam toppers"
   - "Zippered, removable bamboo-blend cover is machine washable — a rare feature at this price point"
   - "Folds flat in under 30 seconds with no permanent crease damage, even after weeks of storage"
-cons:
+cons: 
   - "Only 4 inches thick — side sleepers over 180 lbs will feel the floor through it"
   - "No built-in handle or carry strap, which makes lugging it around awkward despite the foldable design"
   - "Off-gassing smell lingers 3-5 days, longer than the advertised 24-48 hours for some buyers"
+
 ---
 
 # DynastyMattress 4-inch Cool Gel Memory Foam Mattress Sleeper: The Honest Verdict

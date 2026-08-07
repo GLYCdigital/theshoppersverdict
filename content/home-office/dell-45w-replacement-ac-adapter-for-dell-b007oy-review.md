@@ -1,4 +1,5 @@
 ---
+
 title: "Dell 45W Replacement AC Adapter for Dell"
 seo_title: "Dell 45W AC Adapter Review: Reliable Power, Real Value (2026)"
 meta_description: "Dell 45W replacement AC adapter review: OEM-grade power, slim design, universal tip compatibility. Is it worth it? Real buyer feedback, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B007OYLNGA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dFqJDpuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Dell OEM build with 18-month warranty — not a risky third-party knockoff"
   - "Fits a huge range of Dell laptops (Inspiron, Latitude, XPS, Vostro) thanks to the standard 7.4mm tip"
   - "Compact brick (roughly 4.1 x 1.8 x 0.9 inches) with a 6-foot cord, easy to pack"
-cons:
+cons: 
   - "Only 45W — will not charge larger Dell laptops (65W+ required) or run them at full performance while plugged in"
   - "Non-detachable AC cord is a minor annoyance if you need to replace just the wall cable"
+
 ---
 
 ## A replacement charger that doesn't make you nervous

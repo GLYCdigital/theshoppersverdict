@@ -1,4 +1,5 @@
 ---
+
 title: "DawsonÂ® 3/4 inch  (19mm) Strut Channel Unistrut Socket 1/2 inch  Driv"
 seo_title: "Dawson 3/4 inch  Strut Socket Review: 1/2 inch  Drive Unistrut Tool"
 meta_description: "Dawson 3/4 inch  strut channel socket review: 1/2 inch  drive unistrut tool for spring nuts, beam clamps. 4.7/5 stars from 235 buyers. Read pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B016MWLXT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SssczWGjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Machined hex opening fits 3/4 inch " strut nuts precisely, no slipping even on rounded corners
   - Solid chrome vanadium construction with 1/2 inch " drive square — handles real torque without flexing
   - "Works with standard ratchets, extensions, and impact drivers for faster unistrut assembly"
-cons:
+cons: 
   - "Niche tool — if you only run a few strut fittings per year, a standard wrench still works"
   - "No knurled grip or finger-tightening feature; you'll need a ratchet or driver for every use"
   - "Not magnetic — spring nuts can drop during vertical installation without a holding trick"
+
 ---
 
 If you've ever fought a spring nut inside a strut channel while holding a wrench at an impossible angle, the Dawson 3/4" strut socket is the tool that ends that battle. It's a one-trick pony, but it performs that trick flawlessly. For electricians, plumbers, and AV installers who assemble unistrut daily, this socket pays for itself in the first job.

@@ -1,4 +1,5 @@
 ---
+
 title: "Perky-Pet Smart Bird Feeder with Camera"
 seo_title: "Perky-Pet Smart Bird Feeder with Camera Review: Verdict |"
 meta_description: "Our full perky-pet smart bird feeder with camera review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F5XCTGXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qnHLZDT9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been shopping for a camera bird feeder, you've seen the pattern: great concept, buggy execution. The Perky-Pet Smart Bird Feeder with Camera lands somewhere in the middle — it gets the basics right but fumbles some details that matter. Here's the honest breakdown after digging through 190 verified ratings and owner experiences.

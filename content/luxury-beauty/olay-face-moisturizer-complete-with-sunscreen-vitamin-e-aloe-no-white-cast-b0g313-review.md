@@ -1,4 +1,5 @@
 ---
+
 title: "Olay Face Moisturizer, Complete with Sunscreen, Vitamin E & "
 seo_title: "Olay Face Moisturizer, Complete with Sunscreen, Vi Review"
 meta_description: "Our full olay face moisturizer, complete with sunscreen, vitamin e &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G313Z58D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f3yRKNYqL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The One-Step Moisturizer That Actually Pulls Its Weight**

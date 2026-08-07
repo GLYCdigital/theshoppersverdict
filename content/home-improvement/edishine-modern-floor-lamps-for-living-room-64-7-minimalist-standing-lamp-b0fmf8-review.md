@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Modern Floor Lamps for Living Room, 64.7 inch  Minimalis"
 seo_title: "EDISHINE Modern Floor Lamp Review: Minimalist 64.7 inch  Pick"
 meta_description: "EDISHINE Modern Floor Lamp review: 64.7 inch  minimalist design, sturdy build, warm lighting. See pros, cons, and who should buy this 4.7-star lamp."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMF8QWNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eSjA+hkZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-color temperature settings (3000K/4000K/6000K) with stepless dimming — genuinely useful for reading vs. ambient lighting"
   - "Solid 11.8-inch weighted base prevents tipping even on carpet, a common failure point in cheap floor lamps"
   - "Tool-free assembly takes under 5 minutes — the pole sections twist-lock securely without wobble"
-cons:
+cons: 
   - "Remote control requires line-of-sight to the IR receiver on the pole; if the lamp sits behind a sofa, you'll be walking around it"
   - "No USB charging port or side table shelf — you're paying purely for lighting, not furniture"
   - "Foot pedal switch placement on the cord can be awkward if the outlet is behind furniture"
+
 ---
 
 Let me save you the scrolling. The EDISHINE Modern Floor Lamp is a 64.7-inch minimalist pole lamp that does exactly what it promises — no more, no less. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's the full story.

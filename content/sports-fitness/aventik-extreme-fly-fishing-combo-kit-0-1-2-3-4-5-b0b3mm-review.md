@@ -1,4 +1,5 @@
 ---
+
 title: "Aventik Extreme Fly Fishing Combo Kit 0/1/2/3/4/5/6 Weight S"
 seo_title: "Aventik Extreme Fly Combo Review: Budget to Pro? (2026)"
 meta_description: "Honest Aventik Extreme Fly Fishing Combo Kit review: 8 weights tested, real casting performance, rod action, reel drag, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B3MMNM5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xGTdDATnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 weight options (0-6wt) mean you can match rod to target species without buying multiple setups"
   - "Carbon fiber blank with moderate-fast action loads smoothly for beginners but has backbone for experienced casters"
   - "Pre-spooled with quality WF line, backing, and tapered leader — ready to fish out of the box"
-cons:
+cons: 
   - "Reel drag is basic clicker-style; not built for big fish runs beyond 20-inch trout"
   - "Rod sections can be finicky to align during assembly — check ferrules before tightening"
   - "Stripping basket not included despite 'kit' branding; you'll need to buy one separately"
+
 ---
 
 The Aventik Extreme doesn't scream luxury. It doesn't need to. What it offers is a complete, fishable fly setup for the price of a single mid-tier rod blank — and that's exactly the value proposition that's earned it a 4.3-star average across 215 Amazon ratings. But is it the *right* kit for *your* fishing? Let's break it down.

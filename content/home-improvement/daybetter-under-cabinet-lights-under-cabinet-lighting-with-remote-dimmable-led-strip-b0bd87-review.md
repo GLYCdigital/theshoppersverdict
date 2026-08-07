@@ -1,4 +1,5 @@
 ---
+
 title: "DAYBETTER Under Cabinet Lights, Under Cabinet Lighting with"
 seo_title: "DAYBETTER Under Cabinet Lights Review (2026): Worth It?"
 meta_description: "Honest DAYBETTER under cabinet lights review: brightness, remote, install ease, and real downsides. See if these LED strips fit your kitchen before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BD87VHGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n8zYUI7uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3M adhesive backing holds firmly on painted drywall and wood cabinets without sagging after weeks of use"
   - "Remote control with 20 brightness levels and 3 color temperatures (3000K/4500K/6000K) gives genuine control, not just a dimmer switch"
   - "Cuttable at marked intervals so you can trim to exact cabinet widths without losing end-cap function"
-cons:
+cons: 
   - "Adhesive is permanent-grade—removing the strip will likely pull paint or leave sticky residue you'll need goo-gone to clean"
   - "Remote requires line-of-sight to the IR receiver; mounting the receiver hidden behind a cabinet lip can cause frustrating signal drops"
   - "No hardwired option—if you want it on a wall switch, you're out of luck; these are battery or plug-in only"
+
 ---
 
 Let me be straight with you: under-cabinet lighting is one of those upgrades that transforms a kitchen from "fine" to "actually pleasant to cook in," but only if the product doesn't drive you insane during installation. The DAYBETTER LED strip kit sits in a crowded field of cheap Amazon lighting, and at 4.3 stars from 215 ratings, it's clearly doing something right. Here's what that something is—and where it trips up.

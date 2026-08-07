@@ -1,4 +1,5 @@
 ---
+
 title: "Flame King Propane Refill Fitting Adapter Valve for 1LB Camp"
 seo_title: "Flame King Propane Refill Adapter Review: Save on 1LB Tanks"
 meta_description: "Flame King 1LB propane refill adapter review: saves money on disposable tanks. See pros, cons, and real user feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KHXTPWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-4yG5RWHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a hand-tightened knob — no tools needed, seals reliably every time"
   - "Includes a built-in bleed valve that releases trapped air, which is essential for a complete refill"
   - "Weighs under 4 ounces, so it's easy to keep in your camp kit without adding bulk"
-cons:
+cons: 
   - "Only works with refillable 1LB tanks — standard disposable green Coleman tanks will not accept a refill safely"
   - "Requires a 20LB bulk tank with a standard ACME thread; won't fit tanks with older or non-standard valves"
+
 ---
 
 If you camp, tailgate, or run a propane lantern for more than a few weekends a year, you already know the pain: buying those little green 1LB cylinders at $6–$8 a pop adds up fast. The Flame King Propane Refill Fitting Adapter Valve promises to let you refill those small tanks from a standard 20LB bulk tank, cutting your fuel cost by roughly 75%. After digging through the specs, the 229 ratings, and the real customer feedback, here's the honest picture.

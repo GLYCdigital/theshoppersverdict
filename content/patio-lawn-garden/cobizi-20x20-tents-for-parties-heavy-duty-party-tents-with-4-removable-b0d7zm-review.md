@@ -1,4 +1,5 @@
 ---
+
 title: "COBIZI 20x20 Tents for Parties Heavy Duty, Party Tents with"
 seo_title: "COBIZI 20x20 Party Tent Review: Heavy-Duty Coverage"
 meta_description: "COBIZI 20x20 party tent review: 400 sq ft of shade, steel frame, and removable walls. See real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D7ZMH8MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dRcdQ+vGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "400 square feet of shaded coverage — fits 3-4 standard 6-foot banquet tables comfortably"
   - "All four sidewalls are removable and included, not sold as an add-on"
   - "Steel frame with cross-bracing handles moderate wind better than typical pop-ups"
-cons:
+cons: 
   - "Weighs roughly 90+ pounds and requires at least two people to assemble"
   - "Peak height of 11 feet but side eaves sit at 7 feet — tall guests will duck near edges"
   - "No pre-attached guy lines; stakes alone won't hold it in a sudden storm"
+
 ---
 
 Let me cut through the listing copy: this is a 20x20 canopy that gives you 400 square feet of covered space — enough for a wedding reception of 40-50 guests or a backyard graduation party with room for a buffet line and seating. The COBIZI 20x20 is positioned as the "heavy duty" option in the brand's lineup, and for the most part, it lives up to that billing. But "heavy duty" comes with a literal weight cost.

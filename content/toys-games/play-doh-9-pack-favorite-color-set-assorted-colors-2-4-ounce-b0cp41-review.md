@@ -1,4 +1,5 @@
 ---
+
 title: "Play-Doh 9 Pack Favorite Color Set, Assorted Colors, 2 & 4 O"
 seo_title: "Play-Doh 9 Pack Favorite Color Set, Assorted Color Review"
 meta_description: "Our full play-doh 9 pack favorite color set, assorted colors, 2 & 4 o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CP417FBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CzMZJSJiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Play-Doh: it's been around for 70 years, and you'd think there's nothing new to say. But this 9-pack solves a specific problem most multi-packs get wrong: color balance. Instead of throwing in six shades of pink and calling it a day, this set gives you the core rainbow in a mix of 2-ounce and 4-ounce tubs that actually matches how kids sculpt. As shown in the product image, you're getting nine tubs total — the big 4-ounce sizes cover the heavy-use colors (red, blue, yellow, green), while the 2-ounce tubs handle the secondary hues like orange, purple, and white.

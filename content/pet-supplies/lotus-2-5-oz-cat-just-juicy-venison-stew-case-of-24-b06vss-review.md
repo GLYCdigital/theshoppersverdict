@@ -1,4 +1,5 @@
 ---
+
 title: "Lotus 2.5 Oz Cat Just Juicy Venison Stew (Case Of 24), One S"
 seo_title: "Lotus 2.5 Oz Cat Just Juicy Venison Stew (Case Of  Review"
 meta_description: "Our full lotus 2.5 oz cat just juicy venison stew (case of 24), one s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B06VSSQC2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UCH9gwg0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Lotus Just Juicy Venison Stew worth the premium? A 204-review analysis.**

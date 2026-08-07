@@ -1,4 +1,5 @@
 ---
+
 title: "Flanders 14X24x1 Fbg Furn Filter (Pack Of 12) 1005 Furnace F"
 seo_title: "Flanders 14x24x1 FBG Furnace Filter Review (12-Pack)"
 meta_description: "Honest Flanders 14x24x1 FBG furnace filter review: MERV 8 performance, 12-pack value, fit, and airflow tradeoffs. See what 225+ buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B009XU6D18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j6s-mi-dL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "MERV 8 rating delivers solid filtration without choking airflow — safe for standard 1-inch filter slots"
   - "12-pack at roughly the cost of 4-6 name-brand filters from big-box stores"
   - "Reinforced cardboard frame holds its shape during install; no flimsy edges that bend or collapse"
-cons:
+cons: 
   - "Fiberglass media won't capture fine dust or allergens like a pleated MERV 11+ filter will"
   - "No printed airflow direction arrow on every filter — easy to install backwards if you're not paying attention"
+
 ---
 
 If you've priced 14x24x1 furnace filters lately, you know the sticker shock. A single pleated filter from a hardware chain can run $15–$20. That's why the Flanders FBG 1005 12-pack deserves a serious look — at roughly half the per-filter cost of comparable options, it's the kind of bulk buy that makes sense for homeowners who change filters on schedule.

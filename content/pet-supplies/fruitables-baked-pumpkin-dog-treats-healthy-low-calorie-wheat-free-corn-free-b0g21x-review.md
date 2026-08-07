@@ -1,4 +1,5 @@
 ---
+
 title: "Fruitables Baked Pumpkin Dog Treats – Healthy Low-Calorie"
 seo_title: "Fruitables Baked Pumpkin Dog Treats Review (2026): Worth It?"
 meta_description: "Honest Fruitables Baked Pumpkin Dog Treats review: taste, ingredients, calorie count, and value. See if these low-cal treats suit your dog."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G21X8Y2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lf0P2Sc+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Only 3 calories per treat — genuinely low-cal, not marketing spin"
   - "First ingredient is real pumpkin, not a filler or by-product"
   - "Wheat, corn, and soy free — safer for dogs with grain sensitivities"
-cons:
+cons: 
   - "Treats crumble easily; you'll find pieces at the bottom of the bag"
   - "Soft-baked texture means they can go stale if the pouch isn't sealed tight"
   - "Pumpkin flavor is mild — picky dogs may want something stronger"
+
 ---
 
 If you've ever stood in the pet aisle squinting at calorie counts, wondering if that "training treat" is actually just a tiny biscuit that'll blow your dog's daily budget, these Fruitables Baked Pumpkin treats deserve a hard look. At 3 calories per piece, they're one of the few treats on Amazon where the low-calorie claim actually checks out.

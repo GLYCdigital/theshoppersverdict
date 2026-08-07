@@ -1,4 +1,5 @@
 ---
+
 title: "FAMIC Office Chair Review"
 seo_title: "FAMIC Office Chair Review: Worth It in 2026? | Honest"
 meta_description: "FAMIC Office Chair review: 4.3-star rated ergonomic chair. Tested for comfort, build quality & value. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CGCYKK2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UtQ02xhgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely comfortable for 8+ hour days — the high-density foam seat doesn't flatten out even after months of daily use"
   - "Tool-free assembly in under 15 minutes — the pre-attached gas lift and clearly labeled hardware make setup painless"
   - "Adjustable lumbar support that actually works — you can dial in the curve instead of being stuck with a fixed bump"
-cons:
+cons: 
   - "The flimsy flip-up armrests feel cheap and wobble side-to-side during use — you'll want to keep them down if you're heavy-handed"
   - Seat depth is fixed with no slider — taller users (6'0 inch+) will find the 19.7-inch depth a bit short for full thigh support
+
 ---
 
 ## The $150 ergonomic chair that punches above its weight — mostly

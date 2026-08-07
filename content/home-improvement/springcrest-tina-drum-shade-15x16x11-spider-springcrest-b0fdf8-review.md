@@ -1,4 +1,5 @@
 ---
+
 title: "Springcrest Tina Drum Shade 15x16x11 (Spider) - Springcrest"
 seo_title: "Springcrest Tina Drum Shade 15x16x11 (Spider) - Sp Review"
 meta_description: "Our full springcrest tina drum shade 15x16x11 (spider) - springcrest review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDF8DMC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816R4kK7MwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct about lampshades: most are either cheap and flimsy or outrageously overpriced for what’s essentially fabric stretched over wire. The Springcrest Tina Drum Shade sits in a sweet spot—it’s well-constructed, properly sized, and priced like a replacement part should be. But it’s not without quirks. Here’s what 235 Amazon reviewers (4.7 stars) are actually saying, plus what the listing photos don’t tell you.

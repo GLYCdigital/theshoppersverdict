@@ -1,16 +1,17 @@
 ---
+
 title: "INVENHO Small Medium Dog Bed, Rectangular, Washable, Orthopedic, Soft, Calming, Durable, Non-Slip Bottom, S (20 x 19 x 6 inches, 50.8 x 48.3 x 15.2 cm)"
 seo_title: "INVENHO Small Medium Review: Verdict (4.3/5) | TSV"
 meta_description: "Great quality, good 4,501+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "invenho-small-medium-dog-bed-rectangular-washable-orthopedic-soft-calming-durable-non-review"
 image_alt: "INVENHO Small Medium Dog Bed, Rectangular, Washable, Orthopedic, Soft, Calming, Durable, Non-Slip Bottom, S (20 x 19 x 6"
-keywords:
+keywords: 
   - "invenho small medium review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the INVENHO Small Medium Dog?"
     answer: "Great quality, good size That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the INVENHO Small Medium Dog?"
@@ -23,11 +24,12 @@ review_count: 4501
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C27WBWMS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c-r-TMWEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great quality, good size."
   - "Good quality bed - had to get my other dog his own It folds right into shape."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be blunt: most $45 dog beds are glorified pillows with a zipper. The INVENHO Small Medium Dog Bed is not that. It's a legitimate orthopedic sleep system disguised as a cozy rectangle — and for small breeds with joint issues or senior dogs who've earned their comfort, it earns its place on your floor.

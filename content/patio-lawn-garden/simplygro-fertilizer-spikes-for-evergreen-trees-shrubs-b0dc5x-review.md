@@ -1,4 +1,5 @@
 ---
+
 title: "SimplyGro Fertilizer Spikes for Evergreen Trees & Shrubs"
 seo_title: "SimplyGro Fertilizer Spikes for Evergreen Trees &  Review"
 meta_description: "Our full simplygro fertilizer spikes for evergreen trees & shrubs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DC5XDMY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8160TfSasAL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most fertilizer spikes are overpriced convenience items that barely outperform a bag of generic 10-10-10. The SimplyGro Evergreen Spikes are different — but they're also not magic. After digging through 229 ratings and what actual buyers are saying, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Beetles Nail Tips, for Gel Nail Polish Gelly Tips DIY Nail S"
 seo_title: "Beetles Nail Tips Review: Gel Polish DIY Gelly Tips (2026)"
 meta_description: "Honest Beetles Gelly Tips review: do these soft gel nail tips hold up? Real pros, cons, sizing, and who should buy. 4.5-star rated DIY nail kit."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX4B6Y91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tgu0XW3BL._SL1500_.jpg"
-pros:
+pros: 
   - "Full-cover soft gel tips blend at the cuticle with minimal filing — no forms or sculpting needed"
   - "Complete kit includes LED lamp, primer, gel polish, and base/top coats — genuinely everything for a salon-style set"
   - "Tips come in 24 sizes with a clear, labeled storage case; natural curve fits most nail beds without pinching"
-cons:
+cons: 
   - "Curing time is longer than professional lamps — expect 60+ seconds per layer, not the 30 seconds claimed"
   - "The included brush-on gel adhesive is thin and runs toward cuticles if you're not quick; a thicker gel would be more forgiving"
+
 ---
 
 **Skip the salon. Skip the $60 appointment. Here's what 225 Amazon reviewers actually discovered about the Beetles Gelly Tips kit.**

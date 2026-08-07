@@ -1,4 +1,5 @@
 ---
+
 title: "Herman Miller Aeron Chair"
 seo_title: "Herman Miller Aeron Chair Review: Verdict | TSV"
 meta_description: "Our full herman miller aeron chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07DKZC7XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VVk7m8aIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Aeron is the chair that built Herman Miller's reputation. It's also the chair that your office has probably been using since 1994. After thousands of hours of collective sitting, the design hasn't changed much — and that's either brilliance or stubbornness, depending on how much you value modern ergonomic features.

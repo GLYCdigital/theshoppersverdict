@@ -1,4 +1,5 @@
 ---
+
 title: "Samyoung Mesh Back Lumbar Support, Back Support Seat Cushion"
 seo_title: "Samyoung Mesh Back Lumbar Support, Back Support Se Review"
 meta_description: "Our full samyoung mesh back lumbar support, back support seat cushion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09W22HS8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rW3oUYcoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most lumbar supports are either too soft to do anything or so rigid they feel like a brick pressed into your spine. The Samyoung Mesh Back Lumbar Support tries to split the difference — and for the most part, it pulls it off.

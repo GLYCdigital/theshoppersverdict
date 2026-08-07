@@ -1,4 +1,5 @@
 ---
+
 title: "ELII 3200pcs Books Tabs for Annotating,Sticky Tabs Clear Sti"
 seo_title: "ELII 3200pcs Book Tabs Review: Worth It? (2026)"
 meta_description: "ELII 3200pcs book tabs review: 4.8-star rated sticky tabs for annotating. Do they hold up? Real pros, cons, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C375HJX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G7RflOSNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "3200 tabs across 20 color-coded strips — roughly a decade of annotating for heavy readers"
   - "Clear base leaves text fully legible; morandi color palette is muted and professional"
   - "Adhesive holds firmly on glossy book covers and thin Bible pages without tearing"
-cons:
+cons: 
   - "Tabs arrive in a plastic bag, not a storage box — you'll want your own organizer"
   - "One strip of 160 tabs is awkward to carry; peel-off backing requires careful fingernail work"
+
 ---
 
 **Opening Hook: The Math That Sells It**

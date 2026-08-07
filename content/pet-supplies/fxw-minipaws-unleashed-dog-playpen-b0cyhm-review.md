@@ -1,4 +1,5 @@
 ---
+
 title: "FXW MiniPaws Unleashed Dog Playpen"
 seo_title: "FXW MiniPaws Unleashed Dog Playpen Review (2026): Honest Verdict"
 meta_description: "FXW MiniPaws Unleashed Dog Playpen review: 4.6/5 from 229 buyers. Is it sturdy enough for chewers? We break down size, setup, and real-world durability."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYHMJ9MD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JcU+5YlsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly locks panels together in under 2 minutes — no loose bolts or fiddly pins"
   - "All-steel frame with a powder-coated finish that actually resists scratching from eager paws"
   - "Folds flat for storage; comes with a carrying strap, so it travels better than most pens in this class"
-cons:
+cons: 
   - "No included floor mat — you'll need to buy a separate pad for hard floors or outdoor use"
   - "Latch is secure but takes two hands to open; not ideal if you're holding a wriggling puppy"
   - "Panels are 24 inches tall — fine for small breeds, but a determined jumper can clear it"
+
 ---
 
 **The Short Version: A Sturdy, No-Fuss Pen That Gets the Basics Right**

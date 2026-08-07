@@ -1,4 +1,5 @@
 ---
+
 title: "Redken Control Hair Spray 28 - Long-Lasting Style Memory For"
 seo_title: "Redken Control Hair Spray 28 - Long-Lasting Style  Review"
 meta_description: "Our full redken control hair spray 28 - long-lasting style memory for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08B8FTXD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K1dwOwWiL._SL1080_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24-Hour Claim Is Real — But There's a Catch**

@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Kettlebells Rubber Base, Kettlebell Set for Women, S"
 seo_title: "Yes4All Kettlebells Rubber Base, Kettlebell Set fo Review"
 meta_description: "Our full yes4all kettlebells rubber base, kettlebell set for women, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09TFWT2W1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PXoMHhI7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "women's kettlebell sets" are just smaller versions of the same round-bottomed cast iron you've seen for decades. The Yes4All Rubber Base set actually tries something different — and for the most part, it works.

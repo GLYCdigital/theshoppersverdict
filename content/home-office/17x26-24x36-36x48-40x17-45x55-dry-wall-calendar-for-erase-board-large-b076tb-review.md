@@ -1,4 +1,5 @@
 ---
+
 title: "17x26 24x36 36x48 40x17 45x55 Dry Wall Calendar for Erase Bo"
 seo_title: "Dry Erase Wall Calendar Review: 5 Sizes, 4.7 Stars"
 meta_description: "Honest review of the 17x26 to 45x55 dry erase wall calendar. Tested for ghosting, magnet hold, and durability. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B076TBJ66G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815jLZHTlTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five size options (17x26 up to 45x55) mean you can match the board to your actual wall space, not the other way around"
   - "Monthly grid layout with large date boxes — enough room for multiple appointments per day without cramming"
   - "Includes mounting hardware and a dry erase marker with eraser, so it's truly ready to hang out of the box"
-cons:
+cons: 
   - "No magnetic surface — if you want to stick notes or photos, you'll need a separate magnetic board or adhesive strips"
   - "The included marker is basic; you'll want a quality low-odor set for regular use, especially on the larger sizes"
+
 ---
 
 If you've ever squinted at a phone calendar while your spouse yells "what's Thursday?" across the kitchen, this dry erase wall calendar is the answer. It's not fancy. It's not smart. But it does exactly what a family or office calendar should: put the whole month in front of you, clearly, with room to write.

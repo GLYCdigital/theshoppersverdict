@@ -1,17 +1,18 @@
 ---
+
 title: "YETI Pour Over Coffee Maker Accessory Ramblers, Stainless Steel"
 seo_title: "YETI Pour Over Review: Travel-Ready Coffee, 4.7★"
 meta_description: "YETI Pour Over Coffee Maker review. 4.7 stars from 433 ratings. Double-wall stainless steel pour-over that works with YETI Rambler mugs. Built for camping and daily use."
 slug: "yeti-pour-over-review"
 image_alt: "YETI Pour Over Coffee Maker in black stainless steel, designed for YETI Rambler mugs"
-keywords:
+keywords: 
   - "YETI pour over review"
   - "YETI coffee maker"
   - "best pour over for camping"
   - "stainless steel pour over"
   - "YETI Rambler pour over"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "Does the YETI Pour Over work with regular coffee cups?"
     answer: "It works with most standard-sized coffee cups, but is specifically designed for YETI Rambler mugs. Very oversized cups may not fit under the cone."
   - question: "Does the YETI Pour Over stay cool on the outside?"
@@ -26,16 +27,17 @@ review_count: 433
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DS6KM3WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xGUgfU6fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall stainless steel — outside stays cool, coffee stays hot"
   - "Durable, travel-friendly design — not breakable like glass or ceramic pour-overs"
   - "Dishwasher safe and easy to clean"
   - "No plastic components — zero microplastic concerns in your brew"
-cons:
+cons: 
   - "Higher price point than glass or ceramic pour-over cones"
   - "Does not fit oversized coffee mugs or extra-wide cups"
   - "Pour-over method inherently slower than drip machines — not for rushed mornings"
   - "Requires a gooseneck kettle for best results"
+
 ---
 
 Here's a product I didn't know I needed until I used it: a stainless steel pour-over that doesn't burn your fingers, won't shatter in your camping bag, and makes coffee good enough to retire your Chemex.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Italian Dressing, 16 Fl O"
 seo_title: "365 Whole Foods Organic Italian Dressing Review (2026)"
 meta_description: "Honest 365 by Whole Foods Organic Italian Dressing review: taste, ingredients, value. See if this 16 oz bottle beats store brands. Verdict: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07CWZ53SW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E-lHMlQaL._SL1000_.jpg"
-pros:
+pros: 
   - "Clean ingredient list — organic expeller-pressed soybean oil, organic vinegar, no artificial preservatives"
   - "Balanced tangy-sweet profile that doesn't overpower delicate greens"
   - "16 oz bottle delivers roughly 16 servings — reasonable price per ounce for organic"
-cons:
+cons: 
   - "Separates quickly — needs vigorous shaking every time, even after short fridge sits"
   - "Thinner consistency than creamy Italian rivals; won't coat thick salads heavily"
+
 ---
 
 Let's be blunt: most grocery store Italian dressings are vinegar-water with soybean oil and a chemistry lab's worth of stabilizers. The 365 by Whole Foods version takes a different path — and for the price per ounce, it's worth a serious look.

@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Vero 14 Series Single-Function Tub and Shower T"
 seo_title: "Delta Vero 14 Series Tub & Shower Trim Review (2026)"
 meta_description: "Delta Vero 14 Series tub and shower trim review: build quality, installation fit, and real performance. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F4TDMSL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wQ6yKRu0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Metal lever handle and trim ring feel substantial — no cheap plastic wobble"
   - "Single-function valve body is compatible with existing Delta rough-in, so retrofit jobs don't require opening the wall"
   - "Clean, minimal Vero design works in both modern and transitional bathrooms"
-cons:
+cons: 
   - "No pressure-balance or thermostatic control on the trim — you're relying on the rough-in valve for that"
   - "Cover plate screws are visible and can be finicky to align perfectly flush"
   - "At this price point, you're paying for the Delta brand name — basic finishes only, no matte black option"
+
 ---
 
 ## The Delta Vero 14: A Solid, No-Nonsense Trim That Gets the Job Done

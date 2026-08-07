@@ -1,4 +1,5 @@
 ---
+
 title: "Patriot Viper Elite II DDR4 DRAM Deskto Gaming Memory Parent"
 seo_title: "Patriot Viper Elite II DDR4 DRAM Deskto Gaming Mem Review"
 meta_description: "Our full patriot viper elite ii ddr4 dram deskto gaming memory parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095JG7R2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n-vnPKoIS._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The DDR4 King That Refuses to Die — and Why That's Good

@@ -1,4 +1,5 @@
 ---
+
 title: "WOODBRIDGE Acrylic Freestanding Bathtub Contemporary Soaking"
 seo_title: "WOODBRIDGE Acrylic Freestanding Bathtub Contempora Review"
 meta_description: "Our full woodbridge acrylic freestanding bathtub contemporary soaking review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNK5174H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ocaKBNTQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced freestanding tubs lately, you know the sticker shock: most decent-looking options from Kohler or Victoria + Albert run $1,200 to $2,500 before installation. The WOODBRIDGE Acrylic Freestanding Bathtub undercuts that significantly while promising the same deep-soak experience. But does "budget-friendly" mean "budget quality"? After digging through 220 ratings and owner experiences, here's the real story.

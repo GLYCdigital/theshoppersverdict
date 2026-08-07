@@ -1,4 +1,5 @@
 ---
+
 title: "OUAI Wave Spray"
 seo_title: "OUAI Wave Spray Review: Verdict | TSV"
 meta_description: "Our full ouai wave spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CGF6RX5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bMfGRxNBL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The wave spray market is crowded with $12 drugstore options that promise "effortless beach hair" and deliver crunchy, sticky disappointment. So the OUAI Wave Spray has to justify its $38 price tag with actual results. Spoiler: it mostly does — if you know how to use it.

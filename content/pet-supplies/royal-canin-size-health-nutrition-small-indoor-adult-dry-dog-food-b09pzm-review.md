@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin Size Health Nutrition Small Indoor Adult Dry Dog"
 seo_title: "Royal Canin Size Health Nutrition Small Indoor Adu Review"
 meta_description: "Our full royal canin size health nutrition small indoor adult dry dog review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09PZMXTVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xVVVGsBiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the right fuel for your 10-pound lap companion? Let's break it down.**

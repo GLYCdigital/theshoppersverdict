@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18TRADE Compact BRUSHLESS 2-Tool Combo"
 seo_title: "Milwaukee Electric - M18TRADE Compact BRUSHLESS 2- Review"
 meta_description: "Our full milwaukee electric - m18trade compact brushless 2-tool combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP7TPXST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nWXQ3iucL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Compact Kit That Punches Above Its Weight Class

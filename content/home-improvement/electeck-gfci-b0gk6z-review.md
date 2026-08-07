@@ -1,4 +1,5 @@
 ---
+
 title: "ELECTECK GFCI"
 seo_title: "ELECTECK GFCI Review: Reliable Protection for Your Home"
 meta_description: "Read our honest ELECTECK GFCI outlet review. See how this tamper-resistant receptacle performs, what buyers love, and where it falls short before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GK6ZMQZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717BputRC4L._SL1500_.jpg"
-pros:
+pros: 
   - "Self-grounding clip and back-wire terminals with side screws accept 14 AWG and 12 AWG solid wire without needing to wrap hooks"
   - "Tamper-resistant shutters meet NEC 2023 requirements and pass the dual-plug insertion test without being stiff or finicky"
   - "Slim 0.8-inch body depth fits easily in retrofit boxes, including older steel boxes where space is tight"
-cons:
+cons: 
   - "No LED indicator light means you can't visually confirm trip status from across the room — you'll need to check the reset button position"
   - "Wiring holes are marked but not color-coded by manufacturer's terminal convention, which can trip up first-time installers"
   - "Packaging includes only the outlet and one faceplate — you'll need to supply your own wire nuts and box"
+
 ---
 
 Most homeowners don't think about their GFCI outlets until something goes wrong — a hair dryer trips in the bathroom, or a space heater kills power in the garage. That's exactly why the ELECTECK GFCI deserves attention before you need it. With a 4.7-star average across 235 ratings, this receptacle is quietly building a reputation as a dependable, code-compliant upgrade for kitchens, bathrooms, and outdoor circuits. But is it worth swapping out your existing outlets? Here's what I found after digging into the specs, the install process, and what actual buyers are saying.

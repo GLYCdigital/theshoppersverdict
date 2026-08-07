@@ -1,7 +1,8 @@
 ---
-title: "Minka Aire F845-DK Light Wave LED 44\" Distressed Koa Low Pro"
-seo_title: "Minka Aire F845-DK Light Wave LED 44\" Distressed K Review"
-meta_description: "Our full minka aire f845-dk light wave led 44\" distressed koa low pro review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Minka Aire F845-DK Light Wave LED 44\ Distressed Koa Low Pro"
+seo_title: "Minka Aire F845-DK Light Wave LED 44\ Distressed K Review"
+meta_description: "Our full minka aire f845-dk light wave led 44\ distressed koa low pro review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "minka-aire-f845-dk-light-wave-led-44-distressed-koa-low-profile-b0935h-review"
 image_alt: "Minka Aire F845-DK Light Wave LED 44 Distressed Koa Low Profile Ceiling Fan with Light, Remote Control and 3.5 Inch Down"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0935HFRJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719oFZ9UP7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your ceiling sits at 8 feet — or worse, 7'6" — you know the ceiling fan struggle. Most fans hang too low, turn your bedroom into a hazard zone for tall visitors, and look like a turbine strapped to your drywall. The Minka Aire Light Wave F845-DK sidesteps that entirely with a flush-mount design that tucks just under 9 inches from the ceiling. But a low profile only matters if the fan actually performs. Here's the real story after digging through 225 ratings and the spec sheet.

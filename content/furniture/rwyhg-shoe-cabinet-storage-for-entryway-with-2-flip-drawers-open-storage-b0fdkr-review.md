@@ -1,4 +1,5 @@
 ---
+
 title: "RWYHG Shoe Cabinet Storage for Entryway with 2 Flip Drawers "
 seo_title: "RWYHG Shoe Cabinet Storage for Entryway with 2 Fli Review"
 meta_description: "Our full rwyhg shoe cabinet storage for entryway with 2 flip drawers  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDKR3B9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hw3nKnhCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The entryway is the first thing you see when you walk in the door — and often the last place you want to look at a pile of sneakers. The RWYHG Shoe Cabinet with two flip drawers attacks that problem with a space-saving design that's become popular in compact homes. But does it actually hold up? I dug through 220 ratings and the specs to give you the straight story.

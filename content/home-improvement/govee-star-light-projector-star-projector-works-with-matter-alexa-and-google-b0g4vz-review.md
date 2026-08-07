@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Star Light Projector, Star Projector Works with Matter"
 seo_title: "Govee Star Light Projector, Star Projector Works w Review"
 meta_description: "Our full govee star light projector, star projector works with matter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G4VZ7HDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VWQvpBZzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most star projectors under $50 are cheap toys with blurry dots and a motorized cover that clicks every rotation. The Govee Star Light Projector is not that. It's a purpose-built ambient lighting tool with Matter certification, which matters more than most shoppers realize. Let me explain why.

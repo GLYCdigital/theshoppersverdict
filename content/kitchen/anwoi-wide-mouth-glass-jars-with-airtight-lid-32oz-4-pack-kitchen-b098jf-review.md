@@ -1,4 +1,5 @@
 ---
+
 title: "Anwoi Wide Mouth Glass Jars with Airtight Lid 32OZ 4 Pack, K"
 seo_title: "Anwoi Wide Mouth Glass Jars 32oz Review: Airtight 4-Pack"
 meta_description: "Honest Anwoi 32oz glass jar 4-pack review: airtight lids, leak-proof performance, durability, and real downsides. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B098JFRDRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n1mBo0xuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True leak-proof seal — tested with liquid upside down, zero drips"
   - "Thick 3mm soda-lime glass that survives dishwasher cycles and drops onto tile"
   - "Wide 3.5-inch mouth lets you fit a full measuring cup or spoon inside without spillage"
-cons:
+cons: 
   - "Lids are plastic, not glass — staining with tomato-based foods requires immediate washing"
   - "No measurement markings on the side, so you'll need a separate measuring cup for precise recipes"
+
 ---
 
 Let’s cut through the noise: you’ve seen a dozen “mason jar” listings on Amazon, and most are thin-walled, leak-prone disappointments. The Anwoi Wide Mouth 32oz set is different — not because it’s flashy, but because it gets the fundamentals right. Here’s the full breakdown after handling these jars and digging through 235 verified buyer experiences.

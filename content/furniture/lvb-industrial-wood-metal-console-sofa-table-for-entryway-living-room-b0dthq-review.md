@@ -1,4 +1,5 @@
 ---
+
 title: "LVB Industrial Wood Metal Console Sofa Table for Entryway Li"
 seo_title: "LVB Industrial Wood Metal Console Sofa Table for E Review"
 meta_description: "Our full lvb industrial wood metal console sofa table for entryway li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTHQH68T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VtT4oCVXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about console tables: most are flimsy, overpriced, or both. The LVB Industrial Wood Metal Console Sofa Table sits at a 4.7-star average across 235 ratings, and that number didn’t come by accident. This is a genuinely well-built piece for the price tier, but it’s not without tradeoffs. Here’s what you need to know before you click buy.

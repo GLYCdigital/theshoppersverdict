@@ -1,4 +1,5 @@
 ---
+
 title: "Dye Free - Plant Based - All Natural - Food Coloring Powder"
 seo_title: "Plant-Based Food Coloring Review: Dye-Free Powder"
 meta_description: "Honest review of Dye Free Plant Based All Natural Food Coloring Powder. See how this natural set performs, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNXCPHY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dBqBYtfUL._SL1500_.jpg"
-pros:
+pros: 
   - "Actually dye-free — uses plant-derived pigments like turmeric, beetroot, and spirulina rather than synthetic FD&C colors"
   - "Concentrated powder format means a tiny pinch goes far; one set lasts through dozens of frosting batches"
   - "Holds up better than liquid natural dyes in baked goods — colors don't fade as much during high-heat baking"
-cons:
+cons: 
   - "Powder can clump if exposed to moisture; you'll need to dissolve it in liquid or grind it finer for smooth results"
   - "Muted, earthy tones rather than neon-bright hues — don't expect electric red or vivid purple"
   - "Slightly bitter aftertaste noticeable in delicate recipes like macarons or white cake if you use more than a pinch"
+
 ---
 
 Let's be clear about what this isn't: it's not a set of neon-bright, artificial-looking colors that'll make your kid's birthday cake look like it came from a clown's makeup kit. What this *is* is a genuinely clean alternative for anyone who's tired of reading "Red 40" and "Yellow 5" on ingredient labels. And with 210 ratings averaging 4.2 stars, it's clearly earning its place in real kitchens.

@@ -1,4 +1,5 @@
 ---
+
 title: "Niuniu Daddy Weighted Stuffed Animals, Weighted Plush Toy, S"
 seo_title: "Niuniu Daddy Weighted Stuffed Animals, Weighted Pl Review"
 meta_description: "Our full niuniu daddy weighted stuffed animals, weighted plush toy, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GTNQ1SCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vf64P+0KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the ads: a ridiculously long stuffed animal draped over a sleeping kid like a noodle. The Niuniu Daddy weighted plush is exactly that — a body-shaped sensory pillow that's been pulling in 4.8-star ratings from 240+ Amazon shoppers. But does it actually help kids settle down, or is it just another plush toy taking up bed space? I dug into the specs, the build, and what owners are saying.

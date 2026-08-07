@@ -1,4 +1,5 @@
 ---
+
 title: "MAYFLASH Magic-S PRO 2 Wireless Bluetooth USB Adapter for PS"
 seo_title: "MAYFLASH Magic-S PRO 2 Wireless Bluetooth USB Adap Review"
 meta_description: "Our full mayflash magic-s pro 2 wireless bluetooth usb adapter for ps review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YTRLLF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pw53lp6wL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever owned more than one console, you know the pain: three controllers, two systems, zero cross-compatibility. The MAYFLASH Magic-S PRO 2 is a small USB dongle that tries to end that nonsense. At roughly the size of a USB flash drive, it promises to let you use your PS5, PS4, or Switch Pro controller on nearly any modern platform. Does it deliver? Mostly yes — with a few caveats worth knowing before you buy.

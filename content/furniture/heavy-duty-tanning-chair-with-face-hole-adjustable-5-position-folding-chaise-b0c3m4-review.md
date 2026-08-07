@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Tanning Chair with Face Hole Adjustable 5-Positio"
 seo_title: "Heavy Duty Tanning Chair with Face Hole Adjustable Review"
 meta_description: "Our full heavy duty tanning chair with face hole adjustable 5-positio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C3M44ZD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sHKiaY39L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Heavy Duty Tanning Chair with Face Hole: Is the $80–100 Price Tag Worth It?

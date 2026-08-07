@@ -1,4 +1,5 @@
 ---
+
 title: "ARABIYAT Prestige La Di Da For Him, EDP 100ml"
 seo_title: "ARABIYAT Prestige La Di Da For Him Review: Worth It?"
 meta_description: "ARABIYAT Prestige La Di Da For Him EDP 100ml review: performance, sillage, longevity, and value. Is this 4.7-star fragrance worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F7FYNZYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t6gg+F9PL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine EDP concentration delivers 8-10 hours on skin with strong projection for the first 3 hours"
   - "Complex oriental-fresh blend that avoids the synthetic harshness common at this price tier"
   - "100ml bottle with magnetic cap and heavy glass — feels substantially more expensive than it is"
-cons:
+cons: 
   - "Scent profile leans mature — younger noses may find it too formal for casual wear"
   - "Performance varies dramatically by skin chemistry; some users report 4-hour longevity"
+
 ---
 
 ## The $30 Fragrance That Thinks It's $150

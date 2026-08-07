@@ -1,4 +1,5 @@
 ---
+
 title: "15% Incline Treadmill with Handle, 3-in-1 Portable Treadmill"
 seo_title: "15% Incline Treadmill Review: 3-in-1 Portable for Home"
 meta_description: "Our 15% incline treadmill with handle review covers the 3-in-1 portable design, real user feedback, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D7Q9HJL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fpvHakRqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 15% incline adds serious glute and hamstring work that flat treadmills can't match"
   - "3-in-1 design (run, walk, desk mode) folds flat enough to slide under a couch or bed"
   - "Handlebar provides real stability during incline intervals — not just a decorative rail"
-cons:
+cons: 
   - "Deck is narrow for larger runners — stride needs to be deliberate"
   - "Max speed likely tops out around 6 mph, so sprinters will hit a ceiling"
   - "No built-in heart rate monitor — you'll need your own watch or chest strap"
+
 ---
 
 If you've been scrolling past compact treadmills because they feel like glorified walking pads, this one deserves a second look. The headline feature — a real 15% incline — separates it from the flat, underpowered options crowding this category. At 4.2 stars from 210 ratings, it's not perfect, but it's genuinely useful for a specific kind of home exerciser.

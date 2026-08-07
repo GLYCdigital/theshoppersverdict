@@ -1,4 +1,5 @@
 ---
+
 title: "kasa smart Plug Power Strip KP303, Surge Protector with 3 In"
 seo_title: "kasa smart Plug Power Strip KP303, Surge Protector Review"
 meta_description: "Our full kasa smart plug power strip kp303, surge protector with 3 in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B083JKSSR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yUqv7M9VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most smart power strips are either overpriced junk or they force you into an ecosystem you don't want. The Kasa KP303 sits in a sweet spot — it's a 3-outlet surge protector with two USB ports, individual outlet control, and no hub required. At a 4.6-star average across 229 ratings, it's clearly doing something right. Here's what you need to know before you buy.

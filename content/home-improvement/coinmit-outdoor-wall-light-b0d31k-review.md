@@ -1,4 +1,5 @@
 ---
+
 title: "Coinmit Outdoor Wall Light"
 seo_title: "Coinmit Outdoor Wall Light Review: Worth It? (2026)"
 meta_description: "Coinmit Outdoor Wall Light review: 4.4-star rated. We test build quality, brightness, and durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D31K4D82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617DqItoUeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant finish that holds up through rain and freezing temps"
   - "Warm 3000K light output flatters brick, stucco, and wood siding without harsh glare"
   - "Tool-free access to the LED module — replacing the driver is a 5-minute job, not an electrician call"
-cons:
+cons: 
   - "Motion sensor range is conservative — roughly 15 feet, not the 30 feet advertised in some listings"
   - "Replacement LED boards aren't widely available yet; you may need to contact the seller directly"
+
 ---
 
 **The Coinmit Outdoor Wall Light: Honest Take on a 4.4-Star Fixture**

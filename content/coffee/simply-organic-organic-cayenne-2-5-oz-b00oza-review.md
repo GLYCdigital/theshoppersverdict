@@ -1,4 +1,5 @@
 ---
+
 title: "Simply Organic Organic Cayenne, 2.5 OZ"
 seo_title: "Simply Organic Organic Cayenne, 2.5 OZ Review: Verdict | "
 meta_description: "Our full simply organic organic cayenne, 2.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00OZA2HT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815E1jD3pSL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about what this is: a pantry staple for people who put cayenne in *everything* — from chili and eggs to hot honey and homemade kimchi. The Simply Organic Organic Cayenne has racked up a 4.8-star average across 240 ratings, and after looking at how it actually performs, that score makes sense. But there are a few things to know before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gilmour Flexogen 5/8 in x 50 ft Garden Hose, Heavy Duty Wate"
 seo_title: "Gilmour Flexogen 5/8 x 50 ft Hose Review: Heavy Duty"
 meta_description: "Gilmour Flexogen 5/8 x 50 ft garden hose review: is this heavy-duty hose worth it? Real pros, cons, and durability verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00002N674/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818srkh82aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stays flexible in cold weather down to freezing — no stiff, kinked mess"
   - "Full-flow brass fittings with crush-proof coupling that won't crack at the spigot"
   - "Reinforced 5/8-inch interior maintains solid water pressure over the full 50 feet"
-cons:
+cons: 
   - "Outer jacket scuffs and shows wear marks on rough concrete or gravel"
   - "At 7.5 lbs empty, it's heavier than basic vinyl hoses when fully filled"
+
 ---
 
 The Gilmour Flexogen 5/8 x 50 ft is the hose you buy when you're done replacing hoses every spring. It's not the cheapest option on the shelf, and it's not the lightest, but it's built to survive the abuse that kills standard vinyl hoses within a season or two. With a 4.2-star average across 210 ratings, the consensus is clear: this is a workhorse, not a throwaway.

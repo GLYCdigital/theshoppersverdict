@@ -1,4 +1,5 @@
 ---
+
 title: "SKLZ Quickster Soccer Goal - Portable Goal for Backyard & Fi"
 seo_title: "SKLZ Quickster Soccer Goal - Portable Goal for Bac Review"
 meta_description: "Our full sklz quickster soccer goal - portable goal for backyard & fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B092WZYL56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r-8eyToOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most portable soccer goals are flimsy pieces of plastic that collapse the moment you hit a proper strike. The SKLZ Quickster is not that. After spending time with the 6'x4' model — and digging through what 210 Amazon reviewers actually say — this is a genuinely well-built goal that solves the two biggest problems with portable nets: stability and setup speed.

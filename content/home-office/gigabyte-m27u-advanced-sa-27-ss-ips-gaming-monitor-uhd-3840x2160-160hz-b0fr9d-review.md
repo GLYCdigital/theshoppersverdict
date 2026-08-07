@@ -1,7 +1,8 @@
 ---
-title: "GIGABYTE M27U Advanced (SA) - 27\" SS IPS Gaming Monitor - UH"
-seo_title: "GIGABYTE M27U Advanced (SA) - 27\" SS IPS Gaming Mo Review"
-meta_description: "Our full gigabyte m27u advanced (sa) - 27\" ss ips gaming monitor - uh review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "GIGABYTE M27U Advanced (SA) - 27\ SS IPS Gaming Monitor - UH"
+seo_title: "GIGABYTE M27U Advanced (SA) - 27\ SS IPS Gaming Mo Review"
+meta_description: "Our full gigabyte m27u advanced (sa) - 27\ ss ips gaming monitor - uh review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gigabyte-m27u-advanced-sa-27-ss-ips-gaming-monitor-uhd-3840x2160-160hz-b0fr9d-review"
 image_alt: "GIGABYTE M27U Advanced (SA) - 27 SS IPS Gaming Monitor - UHD 3840x2160-160Hz - 1ms MPRT - AMD FreeSync Premium - Type C "
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FR9DQS1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d-odH5-8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GIGABYTE M27U Advanced (SA) Review: 4K 160Hz Done Right — Mostly

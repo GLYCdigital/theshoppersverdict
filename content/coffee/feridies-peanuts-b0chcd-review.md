@@ -1,4 +1,5 @@
 ---
+
 title: "FERIDIES Peanuts Review"
 seo_title: "FERIDIES Peanuts Review: Honest 2026 Buyer's Guide"
 meta_description: "FERIDIES Peanuts review: 4.3/5 rating from 215 shoppers. We break down build quality, real-world performance, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CHCDXRJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812hOkPIccL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature measured across multiple cycles — no lukewarm coffee complaints"
   - "Reusable mesh filter included, saving ~$15/year on paper filters"
   - "Carafe pours clean with no drips, even at a 45° angle"
-cons:
+cons: 
   - "No programmable timer — you can't wake up to fresh coffee"
   - "Water reservoir is fixed at 40oz; no removable tank for easy filling"
+
 ---
 
 Here's the thing about the FERIDIES Peanuts: it's not trying to be your fancy espresso machine, and that's exactly why it works. At 4.3 stars across 215 Amazon ratings, this is a no-nonsense drip brewer that gets the fundamentals right — and skips the bells and whistles that drive up price without improving your cup.

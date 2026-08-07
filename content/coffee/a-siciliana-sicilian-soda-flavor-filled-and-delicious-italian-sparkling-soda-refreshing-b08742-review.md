@@ -1,4 +1,5 @@
 ---
+
 title: "A' Siciliana Sicilian Soda - Flavor Filled and Delicious Ita"
 seo_title: "A' Siciliana Sicilian Soda Review: Real Italian Flavor"
 meta_description: "A' Siciliana Sicilian Soda review: authentic Italian sparkling sodas with intense fruit flavors. See if these 4.4-star drinks are worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B087429FHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rjKtmbI+L._SL1500_.jpg"
-pros:
+pros: 
   - "Intense, genuine Italian fruit extracts — blood orange and lemon taste like the real fruit, not syrup"
   - "Aggressive carbonation that holds up even after the bottle's been open for a day"
   - "Clean ingredient list with real cane sugar instead of high-fructose corn syrup"
-cons:
+cons: 
   - "Sweetness level runs high — roughly 38g of sugar per bottle, closer to dessert than a thirst-quencher"
   - "Price per bottle lands well above mainstream sodas, making this an occasional treat rather than a daily staple"
+
 ---
 
 Let's be direct about what this is: A' Siciliana isn't your average grocery-store soda. These Italian sparkling drinks come in glass bottles with a flavor intensity that makes San Pellegrino taste like sparkling water with a hint of fruit. At a 4.4-star average across 220 ratings, shoppers are clearly finding something worth repeating.

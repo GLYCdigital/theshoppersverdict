@@ -1,4 +1,5 @@
 ---
+
 title: "YUCHIYA Dog Poop Pickup Bags Holder Dispenser with Leak-Proo"
 seo_title: "YUCHIYA Dog Poop Pickup Bags Holder Dispenser with Review"
 meta_description: "Our full yuchiya dog poop pickup bags holder dispenser with leak-proo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCRG4XTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i7hmGwN-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve been there: mid-walk, dog squats, and you’re patting empty pockets. The YUCHIYA Dog Poop Pickup Bags Holder Dispenser with Leak-Proof Scented Doggy Bags is designed to end that scramble. With a 4.6-star average across 229 ratings, it’s clearly doing something right. But is it the right pick for your daily walks? Let’s break it down.

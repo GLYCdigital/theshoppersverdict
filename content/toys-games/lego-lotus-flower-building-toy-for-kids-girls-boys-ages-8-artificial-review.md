@@ -1,13 +1,14 @@
 ---
+
 title: "LEGO Lotus Flower - Building Toy for Kids, Girls & Boys, Ages 8+ - Artificial Lotus Flowers for Home Decor & Display - Creative Gift Idea for Her & Him - 40647"
 seo_title: "LEGO Lotus Flower Review: Verdict (4.8/5) | TSV"
 meta_description: "They don't take long to build, the instructions are clear, and they are 4,082+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "lego-lotus-flower-building-toy-for-kids-girls-boys-ages-8-artificial-review"
 image_alt: "LEGO Lotus Flower - Building Toy for Kids, Girls & Boys, Ages 8+ - Artificial Lotus Flowers for Home Decor & Display - C"
-keywords:
+keywords: 
   - "lego lotus flower review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the LEGO Lotus Flower -?"
     answer: "They don't take long to build, the instructions are clear, and they are simple That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the LEGO Lotus Flower -?"
@@ -20,11 +21,12 @@ review_count: 4082
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZT7H8CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717iDw6uFlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "They don't take long to build, the instructions are clear."
   - "Great quality, durable and my very pretty."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The LEGO Lotus Flower (40647) sits in an awkward middle ground: it's not part of LEGO's premium Botanical Collection, yet it costs more than a standard Creator set. Here's the thing though — it might be the best value blossom set LEGO currently makes.**

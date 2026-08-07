@@ -1,24 +1,26 @@
 ---
+
 title: "Anker Steam Deck Dock, Docking Station for Steam Deck (OLED)"
 seo_title: "Anker Steam Deck Dock (OLED) Review: 4K Output & USB Hub"
 meta_description: "Anker Steam Deck Dock (OLED) review: 4K HDMI, Gigabit Ethernet, and 100W charging in a compact hub. Tested for fit, heat, and real-world use."
 slug: "anker-steam-deck-dock-docking-station-for-steam-deck-oled-rog-ally-b0cs6b-review"
 image_alt: "Anker Steam Deck Dock with OLED Steam Deck connected via USB-C, showing HDMI and USB ports on the side"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CS6BWL4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HMF4EHokL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Fits the OLED model perfectly with rubberized top plate that prevents scratching the shell"  
   - "HDMI 2.0 delivers true 4K@60Hz output — sharper than the 1080p caps on cheaper docks"  
   - "Gigabit Ethernet port gives stable online play where Wi-Fi drops frames"  
-cons:  
+cons: 
   - "USB-C power passthrough maxes at 100W, so you can't fast-charge a laptop through it"  
   - "No DisplayPort or second HDMI — dual-monitor setups are off the table"  
   - "Slightly bulkier than the official Valve dock, taking up more desk space"
+
 ---
 
 **The Anker Steam Deck Dock (OLED) isn't just a plastic stand with ports. It's a proper desktop hub for Valve's handheld — but it's not without a couple of compromises.**  

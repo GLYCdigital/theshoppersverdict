@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco 5/6 Inch Gimbal LED Recessed Light"
 seo_title: "Sunco 5/6 Inch Gimbal LED Recessed Light Review: Verdict "
 meta_description: "Our full sunco 5/6 inch gimbal led recessed light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F1P71S3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a ceiling full of holes and wondering whether the Sunco gimbal is worth your Saturday afternoon, here's the short version: this is a solid, no-drama retrofit light that does exactly what it promises, with one or two quirks you should know about before you buy a six-pack.

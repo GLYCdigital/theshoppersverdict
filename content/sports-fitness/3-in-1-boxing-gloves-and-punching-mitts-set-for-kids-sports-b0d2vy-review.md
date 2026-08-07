@@ -1,4 +1,5 @@
 ---
+
 title: "3-in-1 Boxing Gloves and Punching Mitts Set for Kids, Sports"
 seo_title: "3-in-1 Kids Boxing Gloves & Mitts Set Review (2026)"
 meta_description: "Honest review of the 3-in-1 boxing gloves and punching mitts set for kids. See real pros, cons, sizing tips, and if it's worth buying for young athletes."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2VYC4CS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G3lb-FxYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three pieces in one box — a pair of gloves plus two matching punch mitts — so parent and child can start training immediately without buying extra gear"
   - "Hook-and-loop wrist straps with a secure wrap design are sized for small wrists, staying put during active play rather than sliding around"
   - "Lightweight foam padding absorbs impact well enough for kids to hit with full force without hurting their hands or the person holding the mitts"
-cons:
+cons: 
   - "Sizing runs small — several buyers note the gloves fit snugly even on younger children, so older kids (10+) may need to size up or skip this set"
   - "Foam padding compresses noticeably after a few weeks of daily use, reducing impact protection over time"
+
 ---
 
 **Meta Description (154 chars):**  

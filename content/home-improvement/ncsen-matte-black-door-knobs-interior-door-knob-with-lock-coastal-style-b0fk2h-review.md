@@ -1,4 +1,5 @@
 ---
+
 title: "NCSEN Matte Black Door Knobs,Interior Door Knob with Lock,Co"
 seo_title: "NCSEN Matte Black Door Knobs,Interior Door Knob wi Review"
 meta_description: "Our full ncsen matte black door knobs,interior door knob with lock,co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FK2H256J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QG2C1jY9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NCSEN matte black interior door knob with lock is the kind of product that looks like it costs twice its price point when you first pull it out of the box. That first impression matters — especially when you're upgrading every door in a hallway and want consistency without dropping $40 per knob.

@@ -1,4 +1,5 @@
 ---
+
 title: "WOODBRIDGE Frameless Sliding Bathtub Door"
 seo_title: "WOODBRIDGE Frameless Sliding Bathtub Door Review: Verdict"
 meta_description: "Our full woodbridge frameless sliding bathtub door review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C6DN661R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aMArFML+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out frameless shower doors at a big-box store, you know the sticker shock. A decent unit with installation runs $600–$1,000. The WOODBRIDGE Frameless Sliding Bathtub Door sits at roughly half that, which makes it an immediate attention-grabber. The question is whether the savings come with hidden costs — in install frustration, durability, or water leakage. After digging through 210 ratings and the specifics of how this thing is built, here's the real story.

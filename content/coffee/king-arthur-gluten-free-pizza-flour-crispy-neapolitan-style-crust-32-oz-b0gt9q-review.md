@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur Gluten Free Pizza Flour: Crispy Neapolitan-Style"
 seo_title: "King Arthur Gluten Free Pizza Flour: Crispy Neapol Review"
 meta_description: "Our full king arthur gluten free pizza flour: crispy neapolitan-style review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GT9QDB3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iDoWycH6L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # King Arthur Gluten Free Pizza Flour: Crispy Neapolitan-Style Review

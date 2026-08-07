@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Card Game Set (Skip Bo, Uno & Phase 10)"
 seo_title: "Mattel Card Game Set (Skip Bo, Uno & Phase 10) Review: Ve"
 meta_description: "Our full mattel card game set (skip bo, uno & phase 10) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00IIINF08/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IaU6p7hEL._AC_SL1059_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at the gaming equivalent of a value meal — three all-time classics bundled into one box. The Mattel Card Game Set (Skip Bo, Uno & Phase 10) has earned a 4.8-star average from 240 ratings, and for good reason. But is this triple pack actually the smart buy, or are you better off grabbing individual decks? Here's the real breakdown.

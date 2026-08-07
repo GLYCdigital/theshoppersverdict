@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Durable View 3 Ring Binder, Slant Rings, Black, 4-Pack"
 seo_title: "Avery Durable View 3 Ring Binder Review: Slant Rings, 4-Pack"
 meta_description: "Avery Durable View 3 Ring Binder 4-pack review: slant rings, clear view cover, 175-sheet capacity. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GT5JBMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sXJ1SM5eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slant rings hold 25% more paper per inch than standard round rings, so you get real capacity without a bulky spine"
   - "Clear view cover lets you customize the spine and front with your own inserts — no plastic sleeve sliding around"
   - "Back pocket is welded, not glued, so it actually survives daily use without tearing at the seams"
-cons:
+cons: 
   - "Only available in black in the 4-pack — if you need color-coding, you're buying singles"
   - "Hinged spine means the binder doesn't lie perfectly flat when open; you'll need to hold pages down while writing"
+
 ---
 
 Some binders are an afterthought. This one isn't. The Avery Durable View with slant rings solves a specific problem — fitting more sheets without the spine growing to unnatural proportions — and it does it well enough to justify the slightly higher price per unit than a no-name 4-pack.

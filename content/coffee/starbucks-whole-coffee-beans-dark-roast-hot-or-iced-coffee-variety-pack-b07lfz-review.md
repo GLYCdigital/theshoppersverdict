@@ -1,4 +1,5 @@
 ---
+
 title: "Starbucks Whole Coffee Beans, Dark Roast Hot or Iced Coffee,"
 seo_title: "Starbucks Whole Coffee Beans, Dark Roast Hot or Ic Review"
 meta_description: "Our full starbucks whole coffee beans, dark roast hot or iced coffee, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07LFZM8DQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xzZ5W7MyL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: Starbucks whole beans are the most polarizing coffee on Amazon. You either love the bold, smoky profile or you think it tastes like burnt tires. After testing this dark roast across a drip machine, French press, and cold brew setup, here's where I land.

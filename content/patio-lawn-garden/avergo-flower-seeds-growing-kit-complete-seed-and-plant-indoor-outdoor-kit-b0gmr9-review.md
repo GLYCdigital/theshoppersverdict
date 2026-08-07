@@ -1,4 +1,5 @@
 ---
+
 title: "AVERGO Flower Seeds Growing Kit – Complete Seed and Plant"
 seo_title: "AVERGO Flower Seeds Growing Kit Review (2026): Worth It?"
 meta_description: "Honest AVERGO Flower Seeds Growing Kit review: what's included, germination rates, pros, cons, and who should buy. Real buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMR93TBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RwH2U9v0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes 10+ flower varieties with separate labeled packets, not a random mixed bag"
   - "Biodegradable peat pots and compressed soil pellets eliminate need for separate seed-starting supplies"
   - "Complete kit works for both indoor windowsill starts and direct outdoor planting"
-cons:
+cons: 
   - "No grow lights or heat mat included — germination in cooler homes will be slow"
   - "Some buyers report lower-than-expected germination rates for specific varieties (notably cosmos)"
+
 ---
 
 **The Short Version**

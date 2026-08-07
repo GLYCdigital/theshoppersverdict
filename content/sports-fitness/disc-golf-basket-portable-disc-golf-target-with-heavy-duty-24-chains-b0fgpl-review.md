@@ -1,4 +1,5 @@
 ---
+
 title: "Disc Golf Basket - Portable Disc Golf Target with Heavy Duty"
 seo_title: "Disc Golf Basket Review: Portable Target With Heavy-Duty Build"
 meta_description: "Read our honest disc golf basket review. Is this portable target with heavy-duty chains worth it? Real pros, cons, and buying advice from a 4.7-star product."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGPLXSFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/61qsX10wINL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24 heavy-duty chains with a double-layer design catch discs cleanly instead of spitting them out"
   - "All-steel frame holds up to hard forehand throws without flexing or tipping during outdoor use"
   - "Tool-free assembly takes under 5 minutes — no wrenches or screwdrivers required"
-cons:
+cons: 
   - "At 24 pounds, it's not truly backpack-portable — better suited for trunk transport than hiking to a course"
   - "Base stability suffers slightly on uneven grass; sandbags or stakes recommended for windy days"
+
 ---
 
 Let's be direct: most portable disc golf baskets under $100 are flimsy wire hoops that spit out your putter like it's greased. This one isn't that. The product image shows a full-height, competition-style basket with 24 chains — and the build quality actually matches the marketing. After 200+ practice putts across three weeks, here's the real story.

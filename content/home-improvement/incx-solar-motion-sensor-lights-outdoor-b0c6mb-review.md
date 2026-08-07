@@ -1,4 +1,5 @@
 ---
+
 title: "INCX Solar Motion Sensor Lights Outdoor"
 seo_title: "INCX Solar Motion Sensor Lights Outdoor Review: Verdict |"
 meta_description: "Our full incx solar motion sensor lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6MBVZDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618J+EyFIQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re looking at another solar motion light, and honestly, most of them are the same plastic box with a sensor glued on. The INCX version caught my attention because of one spec you don’t see at this price point: a **detachable solar panel**. That single feature changes where you can install it. Instead of being forced to mount the light on a sun-blasted wall, you can put the panel on your roof or a fence post and aim the actual light at your doorway. That’s a genuinely useful engineering choice, not a marketing bullet.

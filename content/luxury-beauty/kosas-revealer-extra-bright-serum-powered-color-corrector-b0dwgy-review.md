@@ -1,4 +1,5 @@
 ---
+
 title: "Kosas Revealer Extra Bright, Serum-Powered Color Corrector"
 seo_title: "Kosas Revealer Extra Bright, Serum-Powered Color C Review"
 meta_description: "Our full kosas revealer extra bright, serum-powered color corrector review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DWGYRL2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SSzT2roRL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dark circles laugh at every concealer you've tried, Kosas’s Revealer Extra Bright is the ambush tactic you've been missing. This isn't another heavy peach paste that settles into fine lines by noon. It's a serum-powered color corrector that treats the under-eye area while it neutralizes discoloration — and that dual-action approach is exactly why it's earned a 4.3-star average across 215 Amazon ratings.

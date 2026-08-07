@@ -1,4 +1,5 @@
 ---
+
 title: "OS MOTOR Round Folding Table with Carry Handle, Portable Hea"
 seo_title: "OS MOTOR Round Folding Table with Carry Handle, Po Review"
 meta_description: "Our full os motor round folding table with carry handle, portable hea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXY8V41W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vXBI68oiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "OS MOTOR Round Folding Table with Carry Handle, Portable Hea"
 seo_title: "OS MOTOR Folding Table Review: Portable & Heavy-Duty (2026)"

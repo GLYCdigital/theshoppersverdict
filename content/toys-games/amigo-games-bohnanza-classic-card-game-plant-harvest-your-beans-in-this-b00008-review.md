@@ -1,4 +1,5 @@
 ---
+
 title: "Amigo Games Bohnanza Classic Card Game – Plant & Harvest Your Beans in This B00008 inch"
 seo_title: "Bohnanza Card Game Review: Is It Still a Must-Buy in 2026?"
 meta_description: "Bohnanza review: Uwe Rosenberg's classic bean-trading card game. We break down gameplay, replayability, and who should buy it. Find out if it's worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00008URUS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DfA-AHPhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Trading mechanic forces constant player interaction — no quiet turns where you just draw and pass"
   - "Simple 10-minute rules explanation, yet the negotiation depth keeps it fresh for years"
   - "Survives 25+ years as a design because luck and strategy are perfectly balanced"
-cons:
+cons: 
   - "Card art is dated and purely functional — don't expect modern graphic design"
   - "Plays best with 4-5 players; at 3 players the trading loses some of its chaos"
+
 ---
 
 Here's the thing about Bohnanza: it's a card game about trading beans that has outsold most flashy modern board games for over two decades. That's not an accident.

@@ -1,4 +1,5 @@
 ---
+
 title: "PAWUP Freeze-Dried Pet Food, Dog Treats, Cat Snacks,Chicken,"
 seo_title: "PAWUP Freeze-Dried Pet Food, Dog Treats, Cat Snack Review"
 meta_description: "Our full pawup freeze-dried pet food, dog treats, cat snacks,chicken, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1D3QXWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AL1txslrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog turns up its nose at yet another "premium" treat that's 40% wheat flour and mystery meal, the PAWUP freeze-dried chicken might be the reset button you need. This is a single-ingredient product — just chicken breast, freeze-dried to lock in nutrients. No grains, no glycerin, no artificial preservatives, no vague "meat derivatives." For pet owners who read labels like a hawk, that's the whole ballgame.

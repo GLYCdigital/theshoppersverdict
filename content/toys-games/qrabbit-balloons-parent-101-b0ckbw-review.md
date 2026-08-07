@@ -1,4 +1,5 @@
 ---
+
 title: "QRabbit Balloons Parent 101"
 seo_title: "QRabbit Balloons Parent 101 Review: Verdict | TSV"
 meta_description: "Our full qrabbit balloons parent 101 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKBWN1YB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gQKnM3REL._AC_SL1470_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **QRabbit Balloons Parent 101 Review: The Balloon-Popping Card Game That Actually Teaches Kids to Think**

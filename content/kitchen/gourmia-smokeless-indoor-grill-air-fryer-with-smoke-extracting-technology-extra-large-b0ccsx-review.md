@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmia Smokeless Indoor Grill & Air Fryer With Smoke Extrac"
 seo_title: "Gourmia Smokeless Indoor Grill & Air Fryer With Sm Review"
 meta_description: "Our full gourmia smokeless indoor grill & air fryer with smoke extrac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCSXX2WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X9GM96VHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried grilling indoors, you know the drill: windows thrown open, smoke alarm screaming, and the lingering smell of burnt burgers for three days. The Gourmia Smokeless Indoor Grill & Air Fryer (model number on the box reads B0CCSX, roughly $95 at time of writing) promises to eliminate that dance. Does it deliver? Mostly, yes — with some caveats worth knowing before you hit buy.

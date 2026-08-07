@@ -1,4 +1,5 @@
 ---
+
 title: "HORUSDY Insulated Screwdriver Set"
 seo_title: "HORUSDY Insulated Screwdriver Set Review: Verdict | TSV"
 meta_description: "Our full horusdy insulated screwdriver set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKS77R46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oI-6T3LiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're working on live electrical panels, the last thing you want is a screwdriver that *might* be insulated. The HORUSDY Insulated Screwdriver Set doesn't leave that to chance. This 8-piece kit is certified to IEC 60900 — the international standard for live-working tools — and at under $25, it undercuts brands like Klein or Wiha by half while delivering comparable protection.

@@ -1,4 +1,5 @@
 ---
+
 title: "Tgideas Hydrating Collagen Hair Mask for Dry Damaged Hair"
 seo_title: "Tgideas Hydrating Collagen Hair Mask for Dry Damag Review"
 meta_description: "Our full tgideas hydrating collagen hair mask for dry damaged hair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGJ96S1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JoKcyiKHL._SL1254_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about hair masks: most are either glorified conditioners or so heavy they leave your hair looking greasy by lunch. The Tgideas Hydrating Collagen Hair Mask sits somewhere in the middle — and for most people with dry, damaged hair, that's exactly the sweet spot. With a 4.5-star average across 225 ratings, this isn't a viral TikTok flash-in-the-pan. It's a workhorse treatment that's earning repeat purchases.

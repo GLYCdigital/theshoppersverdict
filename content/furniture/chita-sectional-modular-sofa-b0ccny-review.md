@@ -1,4 +1,5 @@
 ---
+
 title: "CHITA Sectional Modular Sofa Review"
 seo_title: "CHITA Sectional Modular Sofa Review: Worth It? (2026)"
 meta_description: "Honest CHITA Sectional Modular Sofa review: build quality, comfort, assembly, and real buyer feedback. Is this 4.2-star modular sofa worth your money?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCNY4WCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Re2yWAvGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modular design lets you reconfigure from L-shape to U-shape to separate chairs — genuinely flexible for changing room layouts"
   - "Velvet-like upholstery feels more premium than the price point suggests, with decent stain resistance for daily use"
   - "Assembly requires no tools — pieces click together with a simple locking mechanism, doable solo in under 30 minutes"
-cons:
+cons: 
   - "Seat cushions are firm — if you want a sink-in cloud feel, this isn't it. Several reviewers note it takes a week to break in"
   - "Back cushions are loose and need constant fluffing; they slide down during heavy use"
   - "Low-profile design sits 15 inches off the floor — a genuine issue for taller users or anyone with knee problems"
+
 ---
 
 # CHITA Sectional Modular Sofa: The Real Story Behind That 4.2-Star Rating

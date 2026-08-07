@@ -1,4 +1,5 @@
 ---
+
 title: "ADORNEVE Loft Bed Full Size with U-Shaped Desk, 6 Storage Dr"
 seo_title: "ADORNEVE Loft Bed Full Size Review: Desk + Storage (2026)"
 meta_description: "ADORNEVE full-size loft bed with U-shaped desk and 6 drawers: honest review of build quality, space savings, assembly pain points, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F79SRP9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TDZ8NPnLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "U-shaped desk design provides a true 60-inch work surface with knee clearance that actually fits a full-size task chair"
   - "Six drawers (three per side) roll on full-extension slides and handle real weight — not flimsy particleboard junk"
   - "Steel frame rated for 400 lbs; no center support bar under the mattress, so you don't feel a ridge while sleeping"
-cons:
+cons: 
   - "Assembly is a 3-4 hour project with two people; the instructions are mostly diagrams and several bolt holes require patience to align"
   - Top bunk clearance is tight — 32 inches from mattress to ceiling — adults taller than 5'10 inch " will feel cramped sitting up
   - "Drawer fronts are MDF with a paper laminate that scratches if you're not careful sliding bins in and out"
+
 ---
 
 **The ADORNEVE Loft Bed Full Size with U-Shaped Desk is the rare piece of student furniture that actually solves two problems at once.** In a small bedroom, you need a place to sleep and a place to work, and this unit commits fully to both — not a token shelf pretending to be a desk, but a genuine U-shaped workspace with drawers that don't jam.

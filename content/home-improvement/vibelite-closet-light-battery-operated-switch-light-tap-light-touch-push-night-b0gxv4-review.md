@@ -1,4 +1,5 @@
 ---
+
 title: "VIBELITE Closet Light, Battery Operated Switch Light, Tap Li"
 seo_title: "VIBELITE Closet Light, Battery Operated Switch Lig Review"
 meta_description: "Our full vibelite closet light, battery operated switch light, tap li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXV4VB8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aSzUMWBrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The $12 Closet Light That Actually Earns Its Spot

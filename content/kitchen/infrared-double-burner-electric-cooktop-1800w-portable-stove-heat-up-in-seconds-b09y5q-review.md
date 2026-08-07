@@ -1,4 +1,5 @@
 ---
+
 title: "Infrared Double Burner Electric Cooktop - 1800W Portable Sto"
 seo_title: "Infrared Double Burner Electric Cooktop - 1800W Po Review"
 meta_description: "Our full infrared double burner electric cooktop - 1800w portable sto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09Y5QGXC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ztnpCs4rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a coil burner take three full minutes to turn orange, you know the frustration. This infrared double burner flips that script — the glass surface is hot within seconds of powering on. It's the kind of immediate feedback that makes you wonder why every portable cooktop doesn't work this way.

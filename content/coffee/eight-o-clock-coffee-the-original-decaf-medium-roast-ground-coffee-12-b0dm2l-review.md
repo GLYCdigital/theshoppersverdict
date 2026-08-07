@@ -1,4 +1,5 @@
 ---
+
 title: "Eight O'Clock Coffee The Original Decaf, Medium Roast, Groun"
 seo_title: "Eight O'Clock Decaf Coffee Review: Original Medium Roast (2026)"
 meta_description: "Honest Eight O'Clock Coffee Original Decaf review: taste, value, and drawbacks. See if this medium roast ground coffee deserves a spot in your cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM2LFBKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HnfCpEtsL._SL1500_.jpg"
-pros:
+pros: 
   - "Swiss Water Process decaffeination retains real coffee flavor without chemical aftertaste"
   - "Consistent medium roast works across drip, pour-over, and cold brew without turning bitter"
   - "Substantial 12-ounce bag undercuts most specialty decaf options by several dollars"
-cons:
+cons: 
   - "Pre-ground means you sacrifice freshness — whole bean version is better if you have a grinder"
   - "Not single-origin or third-wave; flavor profile is straightforward, not complex"
+
 ---
 
 ## The Decaf That Doesn't Taste Like Punishment

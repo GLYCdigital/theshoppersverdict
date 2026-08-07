@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GLM165-27CGL 165 Ft Blaze Green-Beam Laser Distance Me"
 seo_title: "BOSCH GLM165-27CGL Review: Green-Beam Laser Measure"
 meta_description: "BOSCH GLM165-27CGL 165 ft green-beam laser distance measure review: accuracy, visibility, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0943VQG4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N0JIVqndL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Green beam is genuinely visible outdoors — up to 4x brighter than red lasers in daylight conditions"
   - "Blaze technology with 360° bubble level and side measurement key makes one-handed operation practical on ladders"
   - "IP54 rated against dust and water splashes, with rubber overmold that survives real job-site drops"
-cons:
+cons: 
   - "No Bluetooth or app connectivity — you're limited to the onboard memory (10 stored measurements)"
   - "Requires 2 AAA batteries that aren't included; battery door feels slightly flimsy compared to the rest of the build"
   - "Digital viewfinder is basic — it helps but won't replace a tape measure in tight corners or over long distances"
+
 ---
 
 **The GLM165-27CGL isn't just another laser measure — it's the one that finally makes green-beam tech affordable for serious DIYers and pros alike.**

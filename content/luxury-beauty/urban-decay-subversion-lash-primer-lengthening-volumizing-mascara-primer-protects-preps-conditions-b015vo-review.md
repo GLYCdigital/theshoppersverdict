@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Decay Subversion Lash Primer - Lengthening & Volumizin"
 seo_title: "Urban Decay Subversion Lash Primer - Lengthening & Review"
 meta_description: "Our full urban decay subversion lash primer - lengthening & volumizin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B015VO0BDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6106prKeW+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most lash primers are a gimmick. A wet white coat that adds nothing except another step to your routine. But the Urban Decay Subversion Lash Primer has a 4.6-star average across 229 Amazon ratings for a reason — it actually does something. The question is whether it's worth the premium price tag for your specific lash situation. Here's the real story.

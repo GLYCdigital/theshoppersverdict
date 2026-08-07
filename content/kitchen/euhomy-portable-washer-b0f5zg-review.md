@@ -1,4 +1,5 @@
 ---
+
 title: "EUHOMY Portable Washer"
 seo_title: "EUHOMY Portable Washer Review: Compact Spin Dryer for Small Spaces"
 meta_description: "EUHOMY Portable Washer review: compact twin-tub design, spin dryer, and real-world performance tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F5ZG996T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MbxG0hoRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact twin-tub design fits on countertops; wash side handles roughly 8.8 lbs while the spin side extracts enough water to cut drying time by hours"
   - "Quiet enough for apartment use — measured around 55 dB during spin, quieter than most full-size units"
   - "Simple mechanical dials — no digital boards to fail; gravity drain hose works without a pump for most setups"
-cons:
+cons: 
   - "No automatic water fill — you'll hand-pour or attach a faucet adapter; skip the adapter and you're hauling buckets"
   - "Spin basket is small — bulky items like jeans or towels need to go in one at a time to balance properly"
   - "Timer caps at 15 minutes wash and 5 minutes spin; longer cycles require resetting the dial"
+
 ---
 
 **Bottom line: The EUHOMY Portable Washer is a space-saving laundry solution that does exactly what it promises — for small loads, small spaces, and small budgets. It won't replace your full-size machine, but it doesn't pretend to.**

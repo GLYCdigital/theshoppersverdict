@@ -1,4 +1,5 @@
 ---
+
 title: "Tomxcute Swan Neck Cat Water Fountain - Elegant Swan Neck Co"
 seo_title: "Tomxcute Swan Neck Cat Water Fountain - Elegant Sw Review"
 meta_description: "Our full tomxcute swan neck cat water fountain - elegant swan neck co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BN5HN4KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jOsofMjDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tomxcute Swan Neck Cat Water Fountain Review: Does the Copper Spout Actually Matter?**

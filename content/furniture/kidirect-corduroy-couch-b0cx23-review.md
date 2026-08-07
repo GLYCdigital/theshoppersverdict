@@ -1,4 +1,5 @@
 ---
+
 title: "Kidirect Corduroy Couch"
 seo_title: "Kidirect Corduroy Couch Review: Verdict | TSV"
 meta_description: "Our full kidirect corduroy couch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CX23QLGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VT70Esz4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the corduroy couch trend all over social media. The Kidirect version promises that cozy, textured look without the designer price tag. At 3.8 stars from 190 ratings, it's solidly middle-of-the-road — but the real question is whether it delivers where it counts. I've dug through the specs, the customer feedback, and the complaints to give you the full picture.

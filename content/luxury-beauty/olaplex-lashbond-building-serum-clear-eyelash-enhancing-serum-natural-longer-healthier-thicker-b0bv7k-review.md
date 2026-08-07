@@ -1,4 +1,5 @@
 ---
+
 title: "Olaplex Lashbond Building Serum: Clear Eyelash Enhancing Ser"
 seo_title: "Olaplex Lashbond Building Serum: Clear Eyelash Enh Review"
 meta_description: "Our full olaplex lashbond building serum: clear eyelash enhancing ser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BV7KR7WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615ms0tB4PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $60 Question: Does Bond-Building Technology Translate From Hair to Lashes?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Great White Mycorrhizal Fungi 4 oz, Beneficial Bacteria for "
 seo_title: "Great White Mycorrhizal Fungi 4 oz, Beneficial Bac Review"
 meta_description: "Our full great white mycorrhizal fungi 4 oz, beneficial bacteria for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7V8D2W7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oB9-GyaML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The claim sounds almost too good to be true: sprinkle a powder on your roots and your plants will grow bigger, resist disease, and need less water. But Great White Mycorrhizal Fungi has earned its 4.7-star rating across 235 reviews for a reason — this stuff actually works when you use it right. Here's the honest breakdown.

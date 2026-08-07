@@ -1,4 +1,5 @@
 ---
+
 title: "243XL Black Ink Cartridges Replacement for Canon Ink 243 PG-"
 seo_title: "243XL Black Ink Cartridge Review: Canon 243 PG- Replacement"
 meta_description: "Honest review of 243XL black ink cartridges for Canon 243 PG-. Real performance data, page yield, print quality, and compatibility details."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVYWJ37G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719ueU4iY8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine page yield of roughly 600 pages per cartridge in standard mode — actually hits the XL rating"
   - "Chip installs without firmware errors on current Canon PIXMA models, no reset headaches"
   - "Solid black density on plain paper — text stays crisp down to 8-point font without smudging"
-cons:
+cons: 
   - "No color matching guarantee if you're pairing with a third-party color cartridge — stick to OEM for photo work"
   - "Cartridge shell feels slightly lighter than Canon OEM — handle carefully during installation"
+
 ---
 
 # 243XL Black Ink Cartridges Replacement for Canon Ink 243 PG-: A Budget Lifeline for PIXMA Owners

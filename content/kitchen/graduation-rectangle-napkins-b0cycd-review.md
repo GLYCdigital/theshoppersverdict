@@ -1,4 +1,5 @@
 ---
+
 title: "Graduation Rectangle Napkins"
 seo_title: "Graduation Rectangle Napkins Review: Verdict | TSV"
 meta_description: "Our full graduation rectangle napkins review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYCDGJBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KRYdUKPzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most party napkins are a trap. You buy them because they match the theme, then someone grabs a burger and the napkin disintegrates into wet confetti. So when a product called "Graduation Rectangle Napkins" shows up with 240 ratings and a 4.8 average, I had to dig past the pretty packaging to see if these actually perform or just look good on the dessert table.

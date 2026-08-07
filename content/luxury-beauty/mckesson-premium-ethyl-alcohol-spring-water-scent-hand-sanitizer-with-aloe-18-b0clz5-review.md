@@ -1,4 +1,5 @@
 ---
+
 title: "McKesson Premium Ethyl Alcohol Spring Water Scent Hand Sanit"
 seo_title: "McKesson Premium Ethyl Alcohol Spring Water Scent  Review"
 meta_description: "Our full mckesson premium ethyl alcohol spring water scent hand sanit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLZ5B8HH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7136zbfRRtL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most hand sanitizers smell like a hospital hallway and leave your palms feeling like you just sanded a deck. The McKesson Premium Ethyl Alcohol Hand Sanitizer with Aloe in Spring Water scent takes a different route — and that's exactly why it's sitting at 4.7 stars from 235 ratings.  

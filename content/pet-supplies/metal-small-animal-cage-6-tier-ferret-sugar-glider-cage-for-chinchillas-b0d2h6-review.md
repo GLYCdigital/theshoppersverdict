@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Small Animal Cage 6-Tier Ferret Sugar Glider Cage for "
 seo_title: "Metal Small Animal Cage 6-Tier Ferret Sugar Glider Review"
 meta_description: "Our full metal small animal cage 6-tier ferret sugar glider cage for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D2H6BM8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e7G04kIWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: Skip the Cramped Starter Cages**

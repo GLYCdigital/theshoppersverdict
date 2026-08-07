@@ -1,4 +1,5 @@
 ---
+
 title: "DEYNITE Wall Sconces Set of Two 2-Light Modern Wall Light Ba"
 seo_title: "DEYNITE Wall Sconces Review: Modern 2-Light Set for Bathrooms"
 meta_description: "Honest DEYNITE wall sconces review: 2-light modern bathroom lighting set. See pros, cons, install tips, and who should buy these 4.4-star fixtures."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNFC282W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BOKlksfJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wet-rated damp location listing means they survive steamy bathrooms without rust or corrosion"
   - "Two-light design delivers 360° of illumination — kills shadows on both sides of the mirror"
   - "Modern matte black finish with clear glass shades resists fingerprints and wipes clean easily"
-cons:
+cons: 
   - "Hardwired only — no plug-in option, and the wiring is tight if your junction box isn't centered"
   - "Bulbs not included, and the exposed G9 sockets show cheap bulbs clearly — budget for quality ones"
+
 ---
 
 ### Two Lights, Zero Shadows — But Read This Before You Buy

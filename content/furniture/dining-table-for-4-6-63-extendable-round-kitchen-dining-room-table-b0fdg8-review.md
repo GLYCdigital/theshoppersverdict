@@ -1,4 +1,5 @@
 ---
+
 title: "Dining Table for 4-6,63â€œExtendable Round Kitchen Dining Ro"
 seo_title: "Extendable Round Dining Table Review: Is It Worth It?"
 meta_description: "Honest review of the 63-inch extendable round dining table for 4-6. Real pros, cons, build quality, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FDG8FT92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xDNxJLr8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Butterfly-leaf extension is self-storing — no hunting for a loose tabletop piece in a closet"
   - "63-inch round footprint seats 4 comfortably daily, expands to fit 6 without dominating a standard dining room"
   - "Solid MDF core with wood veneer resists warping better than particleboard alternatives at this price point"
-cons:
+cons: 
   - "Assembly requires two people — the top is heavy and awkward to flip during install, per multiple reviews"
   - "Veneer can chip if you drag heavy ceramic serveware across the surface; use placemats or pads"
   - "Round shape eats floor space — measure your room diagonally, not just the width, before committing"
+
 ---
 
 If you’ve ever wrestled with a drop-leaf table that wobbles or a rectangular extension that turns your dining room into a Tetris puzzle, this 63-inch extendable round option deserves a hard look. The premise is simple: a round table that seats four daily, expands to six with a self-storing leaf, and doesn’t look like it came from a dorm room. At a 4.1-star average across 204 ratings, it’s not perfect — but for the price point, it solves a specific problem that rectangular tables can’t.

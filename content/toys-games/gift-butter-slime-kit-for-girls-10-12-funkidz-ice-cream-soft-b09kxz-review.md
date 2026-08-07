@@ -1,4 +1,5 @@
 ---
+
 title: "Gift Butter Slime Kit for Girls 10-12, FunKidz Ice Cream Sof"
 seo_title: "FunKidz Ice Cream Butter Slime Kit Review: Worth It?"
 meta_description: "FunKidz Ice Cream Butter Slime Kit review: 6 colors, mix-ins, and 4.6/5 rating. Is this the right sensory gift for your tween? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KXZDQN5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91k4vHgtQpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six generous 3.5oz containers of butter slime — that's over 21 ounces total, enough for multiple kids to play simultaneously"
   - "Crunchy foam beads and clay mix-ins provide genuinely different textures that extend playtime beyond the initial novelty"
   - "Each slime comes in its own sealed container with a secure lid, preventing the dried-out mess common with cheaper kits"
-cons:
+cons: 
   - "Slime has a noticeable chemical scent straight from the container — a few minutes of airing out helps, but be prepared"
   - "The 'ice cream' theme is visual only — no actual scent matching the colors, so the strawberry is pink but smells like generic slime"
   - "Butter slime leaves a slight oily residue on hands after extended play — wash hands after, not before"
+
 ---
 
 **Is this the slime kit that survives the tween test — or a sticky mess waiting to happen?**

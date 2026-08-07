@@ -1,4 +1,5 @@
 ---
+
 title: "Kenmore 4.5 cu. ft. Front Load Washer with Stain Removing St"
 seo_title: "Kenmore 4.5 cu. ft. Front Load Washer with Stain R Review"
 meta_description: "Our full kenmore 4.5 cu. ft. front load washer with stain removing st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FD2S9CM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71evVMHzKcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring down a pile of grass-stained kids' jeans or a silk blouse with a wine spill from last weekend, the Kenmore 4.5 cu. ft. Front Load Washer with Stain Removing Steam makes a compelling case for itself. But before you commit to this machine, let's talk about what it actually does — and where it gets lazy.

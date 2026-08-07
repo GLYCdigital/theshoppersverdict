@@ -1,4 +1,5 @@
 ---
+
 title: "HHamoyzs 65W Laptop Charger USB C - Compatible with Dell Lat"
 seo_title: "HHamoyzs 65W Laptop Charger USB C - Compatible wit Review"
 meta_description: "Our full hhamoyzs 65w laptop charger usb c - compatible with dell lat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHYPD612/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T+hRQursL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to drop $30–$40 on a third-party charger for a Dell Latitude that cost you a grand. The question isn't whether it works — it's whether it works *safely* and *fast enough* to justify swapping out the brick Dell included. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kicking Horse Coffee, Smart Ass, Medium Roast, Whole Bean, 1"
 seo_title: "Kicking Horse Coffee, Smart Ass, Medium Roast, Who Review"
 meta_description: "Our full kicking horse coffee, smart ass, medium roast, whole bean, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B014KG4YZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nX7WjOO4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're the kind of coffee drinker who thinks "medium roast" means gentle, mild, and easygoing, Kicking Horse's Smart Ass is about to correct that assumption. This Canadian roaster has built a cult following for its irreverent branding and seriously bold beans, and Smart Ass — their self-described "kick-ass" medium roast — delivers exactly what the name promises.

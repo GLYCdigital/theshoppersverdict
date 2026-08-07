@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Office Guest Chair with Lumbar Support"
 seo_title: "CLATINA Office Guest Chair Review: Lumbar Support Worth It?"
 meta_description: "CLATINA Office Guest Chair with Lumbar Support reviewed: comfort, build quality, and value. See pros, cons, and who should buy this 4.3-star chair."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FKBFCZF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O09byWJFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine lumbar support via a curved backrest and adjustable pad — rare at this price point"
   - "Sturdy steel frame and base rated to 300 lbs, with a weight distribution that doesn't wobble"
   - "Breathable mesh back keeps visitors from sweating during long meetings"
-cons:
+cons: 
   - "Seat cushion is firm — not plush — which some users find uncomfortable after 90+ minutes"
   - "No armrest height adjustment; fixed 10-inch arms may not suit taller or shorter visitors"
+
 ---
 
 **The quiet workhorse of your waiting area or conference room.**

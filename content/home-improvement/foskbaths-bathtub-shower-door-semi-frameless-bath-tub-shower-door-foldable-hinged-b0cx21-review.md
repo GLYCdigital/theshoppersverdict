@@ -1,4 +1,5 @@
 ---
+
 title: "Foskbaths Bathtub Shower Door, Semi-Frameless Bath Tub Showe"
 seo_title: "Foskbaths Bathtub Shower Door Review: Semi-Frameless 2026 inch"
 meta_description: "Honest Foskbaths semi-frameless bathtub shower door review: build quality, installation, leaks, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CX21K636/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H9GY+KAVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Tempered safety glass (5/16 inch " thick) with a smooth, easy-clean coating that resists hard water spots
   - "Foldable hinged panels that tuck away flat, saving up to 8 inches of tub space vs. a fixed door"
   - "Includes a bottom sweep and magnetic seals that actually stop water migration for most users"
-cons:
+cons: 
   - "Installation is genuinely difficult for one person — the glass panels are heavy (45+ lbs each) and need a helper, plus a perfectly plumb wall"
   - "The included hardware uses non-standard Phillips screws that strip easily if you breathe on them wrong; swap in your own"
+
 ---
 
 **Opening: The upgrade that makes a rental bathroom feel custom — if you're handy**

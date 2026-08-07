@@ -1,4 +1,5 @@
 ---
+
 title: "LetPot Hydroponics Growing Sponges"
 seo_title: "LetPot Hydroponics Growing Sponges Review: Verdict | TSV"
 meta_description: "Our full letpot hydroponics growing sponges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DGY5QRKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hrAL3mVOL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most hydroponic grow sponges are an afterthought. You buy them, they work okay, and you forget about them. The LetPot Hydroponics Growing Sponges aren't that. With a 4.7-star average from 235 ratings, these have earned a reputation — and I've spent enough time with them to understand why.

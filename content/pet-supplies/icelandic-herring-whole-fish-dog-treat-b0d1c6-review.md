@@ -1,4 +1,5 @@
 ---
+
 title: "Icelandic+ Herring Whole Fish Dog Treat"
 seo_title: "Icelandic+ Herring Whole Fish Dog Treat Review: Verdict |"
 meta_description: "Our full icelandic+ herring whole fish dog treat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1C6PR3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lzCtRzxVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The problem with most "single-ingredient" dog treats is that they're a marketing story. You flip the bag over and find "chicken" followed by "chicken broth, salt, natural flavor, potassium sorbate." The Icelandic+ Herring Whole Fish Dog Treat is not that product. This is genuinely one ingredient — wild-caught Icelandic herring, freeze-dried whole. That's it. If you're a label reader who's been burned by misleading pet food claims, this one actually delivers.

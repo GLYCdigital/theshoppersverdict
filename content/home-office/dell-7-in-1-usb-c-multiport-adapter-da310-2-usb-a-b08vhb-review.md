@@ -1,4 +1,5 @@
 ---
+
 title: "Dell 7-in-1 USB-C Multiport Adapter - DA310-2. USB-A Ports,"
 seo_title: "Dell DA310-2 USB-C Adapter Review: 7 Ports, Compact"
 meta_description: "Dell DA310-2 7-in-1 USB-C adapter review: 4K HDMI, 100W PD, dual USB-A. Compact design, real-world performance, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08VHB4VGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hSbUv13hL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Rare 7-in-1 layout that includes both HDMI and DisplayPort, letting you run dual external monitors from a single USB-C port"
   - "100W USB-C power passthrough — enough to charge a Dell XPS or MacBook Pro at full speed while the adapter is loaded"
   - "Compact folding design with a detachable 6-inch cable, so it disappears into a sleeve pocket without snagging"
-cons:
+cons: 
   - "Runs noticeably warm under sustained 4K output or when charging a laptop simultaneously — not alarming, but you'll feel it"
   - "Detachable cable is short (about 6 inches) and stiff, which can create awkward strain if your USB-C port sits on an angled edge"
   - "No Ethernet port — for a dock at this price, some travelers will miss a wired network option"
+
 ---
 
 Let's cut through the noise: most USB-C hubs are either too bulky to travel with or too limited to replace a real dock. The Dell DA310-2 sits in a sweet spot that few competitors hit. It's genuinely compact — roughly the size of a deck of cards when folded — yet it offers a port selection that covers most laptop users' daily needs without forcing you to carry a separate HDMI adapter and SD card reader.

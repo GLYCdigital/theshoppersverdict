@@ -1,4 +1,5 @@
 ---
+
 title: "Marlig Fix-A-Leak Pool and Spa Leak Sealer - 32 oz"
 seo_title: "Marlig Fix-A-Leak Pool and Spa Leak Sealer - 32 oz Review"
 meta_description: "Our full marlig fix-a-leak pool and spa leak sealer - 32 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B004BN89GE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41GWFa4TuoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is your pool losing water faster than a colander holds soup? Before you call a pool service and drop hundreds on a pressure test, the Marlig Fix-A-Leak Pool and Spa Leak Sealer promises a $25-ish shortcut. But does a liquid sealer actually plug a leak, or is it just snake oil in a 32-ounce bottle? I dug through 204 ratings and the technical specs to give you the straight answer.

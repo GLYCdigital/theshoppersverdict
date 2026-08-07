@@ -1,4 +1,5 @@
 ---
+
 title: "A11N SPORTS Aluminum Tournament Pickleball Net with Tension"
 seo_title: "A11N SPORTS Aluminum Tournament Pickleball Net Review"
 meta_description: "Honest A11N SPORTS aluminum tournament pickleball net review: build quality, tension system, portability, and who should buy it. 4.4-star rated."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4QTCLC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6188r+gRNOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in tension lock system holds net taut without tools, unlike cheaper bungee designs"
   - "Full 22-foot tournament width meets official USA Pickleball specs"
   - "Aluminum frame stays cool in direct sun and weighs about 30% less than steel equivalents"
-cons:
+cons: 
   - "Carry bag is thin — you'll want a padded case if you transport it weekly"
   - "Center strap requires a solid 20+ pounds of pull to achieve proper 34-inch height"
   - "Some users report the netting snags on the frame edges if not assembled precisely"
+
 ---
 
 If you've played on a sagging Walmart net with a center strap that droops mid-match, you already know why the **A11N SPORTS Aluminum Tournament Pickleball Net** exists. This is a serious piece of equipment aimed at players who've outgrown backyard rec sets and want competition-grade tension without paying $400+ for a permanent installation.

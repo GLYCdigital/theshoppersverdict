@@ -1,4 +1,5 @@
 ---
+
 title: "Atomic Horseradish"
 seo_title: "Atomic Horseradish Review: Bold Coffee Gear Worth It?"
 meta_description: "Atomic Horseradish coffee gear review: 4.4-star rated. See if this bold, unique brewer delivers on flavor and durability before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BR5G37KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413v24mhYfL._SY445_.jpg"
-pros:
+pros: 
   - "Unique, heat-retaining stainless steel carafe keeps coffee at drinking temp for over 2 hours"
   - "No plastic touches the brew path — clean, pure flavor extraction"
   - "Compact footprint (~8 inches wide) fits tight counter spaces"
-cons:
+cons: 
   - "No auto-shutoff on the warming plate — you must remember to turn it off manually"
   - "Carafe lid is finicky to align; drips if you don't seat it perfectly"
+
 ---
 
 Let me be straight with you: the Atomic Horseradish isn't a coffee maker. It's a statement. Whether that statement is "I take my caffeine seriously" or "I bought this because the name made me laugh" depends entirely on what you value in your morning ritual.

@@ -1,4 +1,5 @@
 ---
+
 title: "DomeShade Patio Double-Sided Umbrellas with Base"
 seo_title: "DomeShade Patio Double-Sided Umbrella Review: Worth It?"
 meta_description: "DomeShade double-sided patio umbrella review: coverage, stability, and value. See pros, cons, and who should buy this 4.4-star shade solution."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DR77GMBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PNKTmrBsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided canopy design provides roughly twice the shade coverage of a standard single-panel umbrella, covering a full 10-foot diameter offset area"
   - "Crank lift mechanism with push-button tilt makes angle adjustments effortless — you can rotate the canopy 360 degrees to chase shade as the sun moves"
   - "Included cross-base fits standard 1.5-inch poles and is weighted for stability, though most buyers report adding extra sandbags for gusty afternoons"
-cons:
+cons: 
   - "Fabric is polyester, not solution-dyed acrylic — expect some UV fading after a full season in direct sun"
   - "Assembly requires two people; the double-rib design is heavier than typical cantilever umbrellas, and the included instructions are sparse"
   - "Base fills with sand or water, but the fill port is small — plan on using a funnel and a lot of patience"
+
 ---
 
 If you've ever hosted a backyard barbecue and watched half your guests squint into the sun while the other half huddles under a standard 9-foot market umbrella, you already understand the problem the DomeShade double-sided umbrella is trying to solve. This is a shade coverage play, not a style statement — and for the most part, it delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bento Lunch Box with 8oz Soup Thermo, Leak-Proof Lunch Conta"
 seo_title: "Bento Lunch Box with 8oz Soup Thermo Review (2026)"
 meta_description: "Honest Bento lunch box with 8oz soup thermo review: leak-proof test, build quality, portion sizes, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP5SMT9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y8Y54Am4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely leak-proof lid seals — one buyer tested it with soup upside down in a bag and reported zero drips"
   - "8oz thermos keeps soup genuinely hot for 4-5 hours, not just warm — verified by multiple reviewers"
   - "Dishwasher-safe main compartments and thermos make daily cleanup actually practical, not a chore"
-cons:
+cons: 
   - "Total food capacity is modest — the main compartments hold roughly 3 cups combined, which may run small for big eaters"
   - "The outer shell is plastic, not insulated — hot food in the main compartments cools faster than in the thermos"
+
 ---
 
 Let's be direct: most "leak-proof" lunch containers are a lie waiting to ruin your backpack. This bento box from the B0CP5SMT9F listing (the one with the 8oz soup thermos) is the exception — and it's earned its 4.5-star rating across 225 reviews by actually doing what it claims. Here's the full breakdown.

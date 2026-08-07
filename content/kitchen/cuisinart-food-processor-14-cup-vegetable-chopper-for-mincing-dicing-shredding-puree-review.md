@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Food Processor 14-Cup Vegetable Chopper for Mincing, Dicing, Shredding, Puree & Kneading Dough, Cream Stainless Steel, DFP-14CRM"
 seo_title: "Cuisinart 14-Cup Food Processor Review: DFP-14CRM Tested"
 meta_description: "Cuisinart DFP-14CRM 14-cup food processor review: 4.6/5 from 21,370 ratings. We test chopping, dough kneading, and puree performance. Is it worth $329?"
@@ -11,14 +12,15 @@ review_count: 21370
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K1SPT9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7114eh3ap-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide 4-inch feed chute means you can drop in whole tomatoes, quartered onions, and even small potatoes without pre-cutting"
   - "Dough blade kneads 2 pounds of bread or pizza dough in under 60 seconds without straining the motor"
   - "Dishwasher-safe parts (bowl, lid, blades) make cleanup genuinely painless"
-cons:
+cons: 
   - "At $330 it's priced above most home cooks' needs — a 7-cup model does fine for singles or couples"
   - "Lid can be stubborn to seat properly; several users report needing extra pressure to align the safety interlock"
   - "The 11.5-cup usable capacity is smaller than the 14-cup marketing number suggests (that includes the bowl's total volume)"
+
 ---
 
 **Is the Cuisinart DFP-14CRM the last food processor you'll ever buy? Maybe — if you cook for a crowd or batch-prep like a maniac. Here's the honest breakdown after digging through 21,370 ratings.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Furlogy Combinable Cat Scratching Post Cat Scratcher for Ind"
 seo_title: "Furlogy Combinable Cat Scratcher Review: 2026 Verdict"
 meta_description: "Honest Furlogy Combinable Cat Scratching Post review: modular design, real cat testing, durability concerns, and who should buy it. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTG2G897/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711yPmOt4SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modular posts reconfigure into different layouts as cats grow or preferences shift"
   - "Real sisal rope wrapped densely — not glued-on carpet that shreds in weeks"
   - "Sturdy base holds up to enthusiastic scratching without tipping"
-cons:
+cons: 
   - "Assembly requires patience; alignment holes aren't perfectly marked"
   - "Top perch padding is thin — heavier cats may find it uncomfortable"
   - "Replacement sisal wraps sold separately, and they're not cheap"
+
 ---
 
 The Furlogy Combinable Cat Scratching Post is the rare cat product that actually respects your living room aesthetic. But before you hit "add to cart," let's talk about whether it earns its keep with your actual cat. Because we all know — cats vote with their claws.

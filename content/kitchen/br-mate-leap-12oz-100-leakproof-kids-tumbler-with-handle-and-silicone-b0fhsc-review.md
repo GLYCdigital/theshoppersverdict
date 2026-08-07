@@ -1,4 +1,5 @@
 ---
+
 title: "BrüMate Leap 12oz 100% Leakproof Kids Tumbler with Handle a"
 seo_title: "BrüMate Leap 12oz Kids Tumbler Review: Leakproof Tested"
 meta_description: "BrüMate Leap 12oz leakproof kids tumbler review: real leak tests, handle durability, straw flow rate, and who should buy it. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FHSCNFRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51F3MWvrtCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely leakproof — survived upside-down shakes and backpack tosses in testing"
   - "12oz capacity hits the sweet spot for 3-7 year olds; not too heavy when full"
   - "Silicone handle is comfortable for small hands and easy to grip when wet"
-cons:
+cons: 
   - "Straw requires firm suction; younger toddlers may get frustrated"
   - "No insulation — drinks warm up fast, so don't expect ice retention"
   - "Lid disassembly for cleaning is fiddly; mold can hide in the gasket if you rush"
+
 ---
 
 If you've bought more than two kids' water bottles, you know the drill: "leakproof" usually means "leaks when it's sideways in the car seat." The BrüMate Leap 12oz claims 100% leakproof, and here's the thing — it mostly delivers. But there are tradeoffs you need to know before you hand this to your kid.

@@ -1,4 +1,5 @@
 ---
+
 title: "NEREUS String Light Hanging Kit with Vinyl Coated 304 Stainl"
 seo_title: "NEREUS String Light Hanging Kit with Vinyl Coated  Review"
 meta_description: "Our full nereus string light hanging kit with vinyl coated 304 stainl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBVD2L19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZRKc5gDxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever hung string lights with zip ties and prayer, you know the sinking feeling when a gust of wind snaps everything at 2 AM. The NEREUS String Light Hanging Kit is the antidote to that chaos. This is a proper cable-railing-style tension system, not a backyard hack. With a 4.7-star average across 235 ratings, it's clearly earning its keep on patios and pergolas nationwide.

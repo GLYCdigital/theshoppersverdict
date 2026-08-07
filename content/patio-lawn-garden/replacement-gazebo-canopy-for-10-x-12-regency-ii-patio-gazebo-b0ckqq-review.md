@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement Gazebo Canopy for 10 x 12 Regency II Patio Gazeb"
 seo_title: "Replacement Gazebo Canopy for 10 x 12 Regency II P Review"
 meta_description: "Our full replacement gazebo canopy for 10 x 12 regency ii patio gazeb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKQQKSP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61deweVCYeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a 10x12 Regency II patio gazebo, the original canopy is likely the first thing to give out — sun rot, wind tears, or just stubborn mildew stains. This replacement top from the same manufacturer is the obvious fix, and at 4.2 stars across 210 ratings, it's proven. But before you click buy, let's talk about whether it's the right fit — literally and figuratively.

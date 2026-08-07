@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Scratcher Replacement Pads for Active Play"
 seo_title: "Cat Scratcher Replacement Pads Review: Worth It? (2026)"
 meta_description: "Honest review of Cat Scratcher Replacement Pads for Active Play. 4.7★ from 235 ratings. Do they hold up to aggressive scratching? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DGSSL72C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-7pzHjodL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense, double-sided corrugated cardboard that holds up to aggressive clawing without shedding chunks everywhere"
   - "Universal fit — works with most standard 18x13-inch scratcher bases, not just one brand"
   - "Catnip included in the box, which actually helps redirect scratching to the pad immediately"
-cons:
+cons: 
   - "Cardboard fibers still scatter on the floor — not a dust-free solution, just less messy than cheaper pads"
   - "No adhesive backing; active cats can shift the pad around the base during intense scratching sessions"
+
 ---
 
 If your cat treats a scratching pad like a personal demolition project, you've felt the pain of buying replacements that disintegrate in three days. These Cat Scratcher Replacement Pads for Active Play are built for that specific problem — and based on 235 Amazon ratings averaging 4.7 stars, they're doing something right. But are they actually different from the generic cardboard rectangles you've already tried? Let's dig in.

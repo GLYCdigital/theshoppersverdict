@@ -1,4 +1,5 @@
 ---
+
 title: "Olympus Myco 97% Pure Gypsum Powder â€“ High Solubility Calc"
 seo_title: "Olympus Myco 97% Pure Gypsum Powder â€“ High Solub Review"
 meta_description: "Our full olympus myco 97% pure gypsum powder â€“ high solubility calc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D32DYDY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jCl3PWjjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Gypsum is one of those products gardeners either swear by or have never touched.** If you're dealing with hard, cracked clay soil that turns to concrete when dry and soup when wet, the Olympus Myco 97% Pure Gypsum Powder is the kind of amendment that actually delivers on its label claim. At 4.8 stars from 240 ratings, this isn't an unknown quantity — it's a proven dirt fixer with a high solubility rating that matters more than most people realize.

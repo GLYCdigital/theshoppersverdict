@@ -1,7 +1,8 @@
 ---
-title: "LG 32\" Ultragear 4K UHD Glossy OLED Gaming Monitor, Dual-Mod"
-seo_title: "LG 32\" Ultragear 4K UHD Glossy OLED Gaming Monitor Review"
-meta_description: "Our full lg 32\" ultragear 4k uhd glossy oled gaming monitor, dual-mod review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "LG 32\ Ultragear 4K UHD Glossy OLED Gaming Monitor, Dual-Mod"
+seo_title: "LG 32\ Ultragear 4K UHD Glossy OLED Gaming Monitor Review"
+meta_description: "Our full lg 32\ ultragear 4k uhd glossy oled gaming monitor, dual-mod review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lg-32-ultragear-4k-uhd-glossy-oled-gaming-monitor-dual-mode-165hz-b0fx4z-review"
 image_alt: "LG 32 Ultragear 4K UHD Glossy OLED Gaming Monitor, Dual-Mode 165Hz/330Hz, 0.03ms, G-SYNC, FreeSync Premium Pro, TrueBlac"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FX4ZQ36L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91bh639B1OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Dual-Mode Feature: Why It Matters

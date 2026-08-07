@@ -1,4 +1,5 @@
 ---
+
 title: "CoverGirl Trublend Skin Enhancer Balm Stick, 320 Rose Beam,"
 seo_title: "CoverGirl Trublend Balm Stick Review: Rose Beam Highlighter"
 meta_description: "Honest CoverGirl Trublend Skin Enhancer Balm Stick review in Rose Beam. Does this $10 vegan highlighter stick deliver glow without glitter? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DPGFBMXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+HyqteGmL._SL1500_.jpg"
-pros:
+pros: 
   - "Creamy balm texture blends in seconds with fingers or a sponge — no special tools required"
   - "Buildable sheer-to-medium glow that reads as lit-from-within rather than glittery or metallic"
   - "Vegan formula with a comfortable, skin-like feel that layers well over both powder and liquid foundations"
-cons:
+cons: 
   - "Twist-up mechanism can dispense too much product if you're not careful — easy to over-apply on the first use"
   - "Rose Beam shade leans cool-toned pink; warm or golden undertones may find it slightly ashy on deeper skin"
   - "Longevity is moderate — expect 4-5 hours before noticeable fading on oily skin without a setting spray"
+
 ---
 
 Let's cut through the noise: a $10 highlighter stick that actually delivers a believable, dewy glow instead of a glitter bomb. The CoverGirl Trublend Skin Enhancer Balm Stick in 320 Rose Beam has earned its 4.1-star average across 204 ratings, and after testing it against pricier cream highlighters, I understand why.

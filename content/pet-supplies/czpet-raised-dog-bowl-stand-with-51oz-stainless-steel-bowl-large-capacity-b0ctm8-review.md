@@ -1,4 +1,5 @@
 ---
+
 title: "CZPET Raised Dog Bowl Stand with 51oz Stainless Steel Bowl L"
 seo_title: "CZPET Raised Dog Bowl Stand L Review: 51oz Stainless Steel"
 meta_description: "CZPET Raised Dog Bowl Stand L review: 51oz stainless steel bowl, elevated design. Is it worth it? We break down build quality, sizing, and value."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CTM8RLW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wvZ3x8YfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 51oz stainless steel bowl — no plastic liner, fully removable and dishwasher-safe"
   - "Raised height genuinely helps large breeds eat without straining their neck"
   - "Stable base with non-slip feet; doesn't slide across tile or hardwood during enthusiastic eating"
-cons:
+cons: 
   - "Wood legs arrive unassembled and require a screwdriver; alignment can be finicky"
   - "At 51oz capacity, it's oversized for small or medium dogs — measure your dog before buying"
   - "No height adjustment; you're locked into one fixed elevation"
+
 ---
 
 If your dog inhales food like a vacuum cleaner and you're tired of bending down to place a bowl on the floor, this CZPET raised stand deserves a look. It's a simple concept executed reasonably well — but "reasonably" is doing some heavy lifting here.

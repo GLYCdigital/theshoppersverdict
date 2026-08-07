@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Durable Plastic 5 Tab Write & Erase Big Tab Dividers f"
 seo_title: "Avery Write & Erase Big Tab Dividers Review (2026)"
 meta_description: "Avery Durable Plastic 5 Tab Write & Erase Big Tab Dividers review: 4.8/5 stars. Are they worth it? Tested for durability, reusability, and real binder use."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BD5BWZ3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QUDi-n9wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty polypropylene resists tearing and liquid spills where paper dividers fail within weeks"
   - "Write & Erase tabs work with standard dry-erase markers, not just the included one — tested with Expo and off-brands"
   - "Big 1/3-cut tabs extend well past page edges, making indexing visible even in thick 3-inch binders"
-cons:
+cons: 
   - "Only 5 tabs per pack — if you need 10 or 12 sections, you're buying multiple sets, which adds up"
   - "Dry-erase ink smudges if you close the binder immediately after writing; needs about 30 seconds to set"
   - "No reinforced binding-edge strip like some premium dividers — the plastic is thick, but the punch holes aren't grommeted"
+
 ---
 
 Let me be direct: most dividers are an afterthought you grab in a three-pack at the office supply store, use for a semester, then throw away when the tabs tear off. The Avery Durable Plastic 5 Tab Write & Erase Big Tab Dividers are not that. They're the dividers you buy once, get annoyed at the price, then realize six months later you're still using the same set while your paper ones died in week three.

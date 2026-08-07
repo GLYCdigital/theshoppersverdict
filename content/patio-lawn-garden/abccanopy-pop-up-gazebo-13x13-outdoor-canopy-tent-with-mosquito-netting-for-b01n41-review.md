@@ -1,4 +1,5 @@
 ---
+
 title: "ABCCANOPY Pop Up Gazebo 13x13 - Outdoor Canopy Tent with Mos"
 seo_title: "ABCCANOPY 13x13 Pop Up Gazebo Review: Worth It? (2026)"
 meta_description: "ABCCANOPY 13x13 pop up gazebo with mosquito netting reviewed. Real pros, cons, and verdict. Is this 4-star canopy worth your money?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01N413ZYI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f97oct2kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True pop-up assembly — one person can have it standing in under 2 minutes with no tools"
   - "Mosquito netting is full-coverage with zippered doors, not just decorative mesh"
   - "13x13 footprint is genuinely roomy — fits a 10-person table setup comfortably"
-cons:
+cons: 
   - "Frame is aluminum alloy, which means it flexes noticeably in moderate wind — stake-down is mandatory"
   - "The included carry bag is thin and the zipper is the first thing to fail after a few uses"
+
 ---
 
 Let me be straight with you: the ABCCANOPY 13x13 Pop Up Gazebo is the canopy equivalent of a Swiss Army knife — incredibly convenient, genuinely useful, but not the heaviest-duty tool in the shed. After digging through 200 ratings and the spec sheet, here's the real story.

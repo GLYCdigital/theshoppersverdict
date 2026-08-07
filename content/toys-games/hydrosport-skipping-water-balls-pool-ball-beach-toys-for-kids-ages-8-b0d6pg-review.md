@@ -1,4 +1,5 @@
 ---
+
 title: "HydroSport Skipping Water Balls - Pool Ball - Beach Toys for"
 seo_title: "HydroSport Skipping Water Balls Review: Beach Fun or Gimmick?"
 meta_description: "HydroSport Skipping Water Balls review: do these pool balls actually skip? Tested for durability, kid appeal, and real beach performance."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6PGD2TQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91gJ-X4vIML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Skip technology actually works — balls ricochet 3-5 times with proper wrist snap, unlike flat stones or cheap alternatives"
   - "Soft foam core won't dent pool liners or sting on impact, making it safe for kids 8+ in crowded water"
   - "Vivid two-tone colors stay visible in choppy lake water and chlorinated pools"
-cons:
+cons: 
   - "Requires a learning curve — expect 10-15 minutes of frustrated throws before the skipping motion clicks"
   - "Foam exterior picks up sand and debris quickly; needs a rinse before storing to avoid grit buildup"
   - "Not suitable for small inflatable pools — needs at least a 10-foot diameter to get any real skipping action"
+
 ---
 
 If you've ever watched someone skip a flat stone across a lake and thought, "I wish I could do that without hunting for the perfect rock," the HydroSport Skipping Water Balls are aimed directly at you. This isn't a novelty pool toy you'll use twice and abandon. After 229 Amazon ratings averaging 4.6 stars, the consensus is clear: these balls actually deliver on their promise, with a few caveats worth knowing before you buy.

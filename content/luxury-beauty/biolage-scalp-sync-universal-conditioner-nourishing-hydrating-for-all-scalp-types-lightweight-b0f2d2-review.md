@@ -1,4 +1,5 @@
 ---
+
 title: "Biolage Scalp Sync Universal Conditioner - Nourishing & Hydr"
 seo_title: "Biolage Scalp Sync Conditioner Review: Nourishing & Hydrating"
 meta_description: "Biolage Scalp Sync Universal Conditioner review: Does this lightweight, scalp-friendly formula deliver hydration for all hair types? Real results, pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F2D2R6G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517F6B+G0bL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly lightweight — conditions without weighing down fine hair or leaving greasy residue"
   - "Salicylic acid and zinc PCA target scalp buildup while panthenol and glycerin hydrate strands"
   - "Works for sensitive scalps — no heavy fragrances or irritating sulfates"
-cons:
+cons: 
   - "Universal formula may not be rich enough for very dry, coarse, or curly hair needing deep moisture"
   - "The pump dispenser can be finicky and dispenses too much product at once"
   - "Price point sits at premium drugstore level — not a budget buy"
+
 ---
 
 Here is the review:

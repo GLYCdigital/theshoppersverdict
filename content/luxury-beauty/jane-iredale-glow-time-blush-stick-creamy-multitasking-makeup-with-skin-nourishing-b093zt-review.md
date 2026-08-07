@@ -1,4 +1,5 @@
 ---
+
 title: "jane iredale Glow Time Blush Stick | Creamy Multitasking Mak"
 seo_title: "jane iredale Glow Time Blush Stick | Creamy Multit Review"
 meta_description: "Our full jane iredale glow time blush stick | creamy multitasking mak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B093ZT9L2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PkJHG0fOL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "multitasking" beauty product that ends up doing one job poorly, you're right to be skeptical. The jane iredale Glow Time Blush Stick is different. It's a creamy, pigment-rich stick that actually performs on three fronts—cheeks, lips, and eyelids—without demanding a degree in makeup application. Priced as a luxury item but backed by 215 Amazon ratings at 4.3 stars, it's earned its place in my rotation. Here's the honest breakdown.

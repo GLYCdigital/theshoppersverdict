@@ -1,4 +1,5 @@
 ---
+
 title: "CHIYUNS White Magnetic Screen Door Mesh"
 seo_title: "CHIYUNS Magnetic Screen Door Review (2026): Worth It?"
 meta_description: "CHIYUNS White Magnetic Screen Door Mesh review: 4.6★ from 229 ratings. We test fit, magnets, and durability. See who should buy and who should skip."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKZJD2CK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714DdLlkF9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 7x8.5ft coverage fits most standard single doors without cutting — no measuring headaches"
   - "Reinforced center magnets snap shut reliably even after hundreds of openings, per multiple long-term reviews"
   - "Tacks and adhesive strips included — installs in under 10 minutes with zero tools"
-cons:
+cons: 
   - "White mesh shows dirt and paw prints noticeably faster than darker alternatives"
   - "Bottom gap can be 1-2 inches on uneven thresholds, letting in small insects"
   - "Not ideal for double doors or anything wider than 38 inches without DIY modification"
+
 ---
 
 **Bottom line: The CHIYUNS magnetic screen door delivers exactly what it promises — a tool-free, instant barrier against flies and mosquitoes — for under 10 minutes of your time. But it's not a permanent door replacement, and the white fabric will test your patience if you have pets.**

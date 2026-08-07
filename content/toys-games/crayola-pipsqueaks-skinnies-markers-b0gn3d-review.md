@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Pipsqueaks Skinnies Markers Review"
 seo_title: "Crayola Pipsqueaks Skinnies Markers Review (2026): Worth It?"
 meta_description: "Crayola Pipsqueaks Skinnies Markers review: tiny but mighty? We test grip, ink quality, and durability. Honest verdict for parents & teachers."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GN3DXJ7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gjmMkZNfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Skinnier barrel (about 30% thinner than standard Crayola markers) fits small hands and encourages proper tripod grip"
   - "True Crayola ink quality — vibrant, washable, and doesn't dry out quickly even with caps left off for short periods"
   - "Fine tip allows for detailed coloring and easier work in small spaces like coloring books with tight designs"
-cons:
+cons: 
   - "Short length means adult hands will cramp during extended use — these are strictly for kids"
   - "Caps are small and easy to lose; no cap storage built into the packaging"
+
 ---
 
 **The Little Marker That Teaches Big Lessons**

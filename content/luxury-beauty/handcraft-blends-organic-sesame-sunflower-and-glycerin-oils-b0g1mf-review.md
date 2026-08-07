@@ -1,4 +1,5 @@
 ---
+
 title: "Handcraft Blends Organic Sesame, Sunflower and Glycerin Oils"
 seo_title: "Handcraft Blends Organic Sesame, Sunflower and Gly Review"
 meta_description: "Our full handcraft blends organic sesame, sunflower and glycerin oils review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G1MF6KR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710+Fp2SHTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "organic oil" sets on Amazon are one decent oil padded with two bottles of filler. This Handcraft Blends trio isn't that. You get three genuinely different products — organic sesame oil, organic sunflower oil, and vegetable glycerin — each in its own 8-ounce amber glass bottle. That matters more than you'd think.

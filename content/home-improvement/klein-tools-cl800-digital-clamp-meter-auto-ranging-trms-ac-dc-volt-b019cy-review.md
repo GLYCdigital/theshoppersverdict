@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools CL800 Digital Clamp Meter, Auto Ranging TRMS, AC"
 seo_title: "Klein Tools CL800 Digital Clamp Meter, Auto Rangin Review"
 meta_description: "Our full klein tools cl800 digital clamp meter, auto ranging trms, ac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B019CY4FB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-nC-1TvVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a working electrician, you don't have time for a meter that lies to you. The Klein Tools CL800 isn't the flashiest clamp meter on the shelf, but it's the one that shows up on job sites for a reason. After digging through the specs, user feedback, and real-world performance data, here's the honest breakdown.

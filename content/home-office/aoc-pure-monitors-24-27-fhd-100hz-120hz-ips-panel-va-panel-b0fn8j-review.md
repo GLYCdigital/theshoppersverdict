@@ -1,4 +1,5 @@
 ---
+
 title: "AOC Pure Monitors 24 inch , 27 inch , FHD, 100Hz, 120Hz, IPS Panel, VA"
 seo_title: "AOC Pure Monitors Review: 24 inch  & 27 inch  FHD 100Hz/120Hz"
 meta_description: "Honest AOC Pure Monitors review: 24 inch  & 27 inch  FHD, 100Hz/120Hz refresh rates, IPS & VA panels. Real pros, cons, and buying advice before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN8J5GXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HtQ-bwDVL._AC_SL1000_.jpg"
-pros:
+pros: 
   - 100Hz (24 inch ") and 120Hz (27 inch ") refresh rates deliver visibly smoother scrolling and window management than standard 60Hz office displays
   - IPS panel option on the 27 inch " model offers accurate colors and wide viewing angles out of the box with minimal calibration
   - "FHD 1920x1080 resolution keeps text crisp at native scaling without Windows display scaling headaches on both sizes"
-cons:
+cons: 
   - VA panel variant on the 24 inch " shows noticeable color shifting when viewed from off-angles — fine for solo work, frustrating for screen sharing
   - "No height-adjustable stand on either size; you'll need a VESA arm or monitor riser for proper ergonomic positioning"
+
 ---
 
 **Skip the 60Hz office standard. Here's why this AOC lineup actually matters.**

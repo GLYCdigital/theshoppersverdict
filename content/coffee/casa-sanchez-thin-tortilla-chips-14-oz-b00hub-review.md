@@ -1,4 +1,5 @@
 ---
+
 title: "CASA SANCHEZ Thin Tortilla Chips, 14 OZ"
 seo_title: "Casa Sanchez Thin Tortilla Chips Review: Honest 2026 Verdict"
 meta_description: "Casa Sanchez Thin Tortilla Chips 14 oz review: crispy texture, real corn flavor, but packaging flaws. Read before you buy at 4.4 stars."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00HUB3JKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710o-18TvtL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly thin, crispy texture that holds up to dipping without shattering into dust"
   - "Clean corn flavor with noticeable salt presence — no stale oil aftertaste"
   - "14 oz bag is generous for the price point, competitive against national brands"
-cons:
+cons: 
   - "Bag arrives frequently crushed — chips are fragile and Amazon shipping is rough"
   - "No resealable zipper; chips go stale quickly if you don't finish the bag fast"
+
 ---
 
 Let’s cut to the chase: Casa Sanchez has been making tortilla chips in San Francisco since 1924, and this 14-ounce bag carries that legacy. But does a century-old family recipe actually translate to a better chip than the big-name competitors sitting next to it on the shelf? After digging through 220 ratings and the honest feedback baked into them, here’s what matters.

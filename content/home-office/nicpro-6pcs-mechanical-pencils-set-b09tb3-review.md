@@ -1,4 +1,5 @@
 ---
+
 title: "Nicpro 6PCS Mechanical Pencils Set"
 seo_title: "Nicpro 6PCS Mechanical Pencils Set Review: Verdict | TSV"
 meta_description: "Our full nicpro 6pcs mechanical pencils set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TB3ZQ6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819W64VtPuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still buying disposable plastic mechanical pencils from the office supply aisle, you're missing out. The Nicpro 6-piece set is the kind of upgrade that makes you wonder why you waited so long — and at a price point that undercuts single premium pencils from brands like Rotring or Pentel Graph Gear.

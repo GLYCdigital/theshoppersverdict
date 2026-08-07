@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP The Face Glue Setting Spray, Transfe"
 seo_title: "NYX PROFESSIONAL MAKEUP The Face Glue Setting Spra Review"
 meta_description: "Our full nyx professional makeup the face glue setting spray, transfe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHY9JSNV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iPS48350L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the hype. NYX calls this “The Face Glue” — a bold name for a $10–12 drugstore setting spray. After 220 Amazon ratings averaging 4.4 stars, shoppers are clearly having opinions. I tested it against the claims: transfer resistance, waterproof wear, and that elusive “glue” hold. Here’s what actually happens.

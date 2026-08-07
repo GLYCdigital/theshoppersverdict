@@ -1,4 +1,5 @@
 ---
+
 title: "Cherrysea Salad Container"
 seo_title: "Cherrysea Salad Container Review: Fresh Greens That Last"
 meta_description: "Cherrysea Salad Container review: Does this 4.2-star container keep greens crisp? We break down build quality, leaks, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B6W2NXYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m+CaBww7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Colander basket lifts out for draining and washing without dumping greens onto the counter"
   - "Lid seals tightly enough to keep salad crisp for 5-7 days in the fridge, per buyer reports"
   - "Clear BPA-free plastic lets you see contents at a glance — no guessing what's inside"
-cons:
+cons: 
   - "Not fully airtight — buyers report the seal is good but not leakproof for dressing"
   - "Larger heads of romaine need chopping to fit; whole-leaf storage isn't practical"
+
 ---
 
 Let's be honest about salad containers: most are overpriced plastic bowls with a fancy lid. The Cherrysea Salad Container actually does something different — it's a two-piece system with a perforated basket that sits inside a solid base. You wash greens in the basket, let them drain, then store everything in the fridge. Water collects in the bottom instead of turning your lettuce into a soggy mess.

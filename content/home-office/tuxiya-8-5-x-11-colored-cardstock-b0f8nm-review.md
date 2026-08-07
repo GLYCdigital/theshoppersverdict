@@ -1,7 +1,8 @@
 ---
-title: "TUXIYA 8.5\" X 11\" Colored Cardstock"
-seo_title: "TUXIYA 8.5\" X 11\" Colored Cardstock Review: Verdict | TSV"
-meta_description: "Our full tuxiya 8.5\" x 11\" colored cardstock review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "TUXIYA 8.5\ X 11\ Colored Cardstock"
+seo_title: "TUXIYA 8.5\ X 11\ Colored Cardstock Review: Verdict | TSV"
+meta_description: "Our full tuxiya 8.5\ x 11\ colored cardstock review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tuxiya-8-5-x-11-colored-cardstock-b0f8nm-review"
 image_alt: "TUXIYA 8.5 X 11 Colored Cardstock"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F8NMH7QG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UHioSsXLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **TUXIYA 8.5" X 11" Colored Cardstock** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

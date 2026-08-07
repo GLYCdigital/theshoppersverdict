@@ -1,4 +1,5 @@
 ---
+
 title: "Orthopedic Dog Bed for Large, Medium & Small Dogs - Soft, Wa"
 seo_title: "Orthopedic Dog Bed for Large, Medium & Small Dogs  Review"
 meta_description: "Our full orthopedic dog bed for large, medium & small dogs - soft, wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZP69G3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c-r-TMWEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your dog deserves better than a flat, pancaked bed that offers zero support for their aging joints. The Orthopedic Dog Bed for Large, Medium & Small Dogs promises to fix that with a 3-inch egg-crate foam core and a fully washable cover. After digging through 220 ratings and analyzing what actual buyers report, here's the real story.

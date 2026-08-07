@@ -1,4 +1,5 @@
 ---
+
 title: "MALORY Brass Outdoor Spot Lights,12V AC/DC Low Voltage LED L"
 seo_title: "MALORY Brass Outdoor Spot Lights,12V AC/DC Low Vol Review"
 meta_description: "Our full malory brass outdoor spot lights,12v ac/dc low voltage led l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BY2TRQ9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zjWpb4blL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most landscape lights under $30 are plastic with a cheap brass-colored coating that peels within a season. The MALORY Brass Outdoor Spot Lights aren't that. At $29.69 for a fixture that's actually milled from solid brass, this is one of those rare budget finds that punches well above its price point. But it's got quirks you should know about before you click buy.

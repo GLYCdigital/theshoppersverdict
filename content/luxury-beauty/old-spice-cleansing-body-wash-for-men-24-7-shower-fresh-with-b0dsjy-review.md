@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Cleansing Body Wash for Men, 24/7 Shower Fresh wit"
 seo_title: "Old Spice Cleansing Body Wash for Men, 24/7 Shower Review"
 meta_description: "Our full old spice cleansing body wash for men, 24/7 shower fresh wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSJYJ81W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7124Zbg82tL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 10-second version:** Old Spice 24/7 Shower Fresh is the rare body wash that delivers on its "all-day" promise without drying your skin into sandpaper. At 4.7 stars from 235 ratings, it's earned its spot in the shower caddy — but it's not for the fragrance-shy.

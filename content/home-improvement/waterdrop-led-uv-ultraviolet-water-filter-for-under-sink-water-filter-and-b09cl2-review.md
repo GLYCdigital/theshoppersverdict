@@ -1,4 +1,5 @@
 ---
+
 title: "Waterdrop LED UV Ultraviolet Water Filter for Under Sink Wat"
 seo_title: "Waterdrop LED UV Ultraviolet Water Filter for Unde Review"
 meta_description: "Our full waterdrop led uv ultraviolet water filter for under sink wat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09CL2YMY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XpexjUWNL._AC_SL1205_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Waterdrop LED UV Under-Sink Filter: The 4.2/5 Truth

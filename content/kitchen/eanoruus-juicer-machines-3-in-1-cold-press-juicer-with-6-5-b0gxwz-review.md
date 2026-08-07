@@ -1,4 +1,5 @@
 ---
+
 title: "EanOruus Juicer Machines, 3-in-1 Cold Press Juicer with 6.5 inch "
 seo_title: "EanOruus 3-in-1 Cold Press Juicer Review: Worth It?"
 meta_description: "EanOruus 3-in-1 juicer review: 6.5 inch  feed chute, masticating performance, and real tradeoffs. See if this budget cold press juicer fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXWZ5K1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AKLPLmtrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "6.5-inch wide feed chute accepts whole apples and large produce chunks, cutting prep time dramatically"
   - "True masticating (slow) auger design delivers visibly higher juice yield than centrifugal models, especially with leafy greens"
   - "3-in-1 functionality includes a sorbet maker attachment — not just a gimmick, it actually works with frozen bananas"
-cons:
+cons: 
   - "Assembly requires a firm grip — the auger and strainer basket need precise alignment or the unit won't lock into place"
   - "Pulp comes out quite dry, which is great for yield but means the machine struggles with very fibrous produce like celery unless cut into 1-inch pieces"
   - "No reverse button on the base unit; jams require manual disassembly to clear"
+
 ---
 
 **The EanOruus 3-in-1 Cold Press Juicer: A Wide-Mouth Contender That Mostly Delivers**

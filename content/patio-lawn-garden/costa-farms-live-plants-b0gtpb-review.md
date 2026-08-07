@@ -1,4 +1,5 @@
 ---
+
 title: "Costa Farms Live Plants"
 seo_title: "Costa Farms Live Plants Review: Real vs. Risky (2026)"
 meta_description: "Honest Costa Farms Live Plants review: quality, shipping risks, and value. See what 210 buyers say before you order live greenery online."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTPBTF5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zlRJ6HcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plants arrive in sturdy, well-drained nursery pots with healthy root systems — most buyers report zero transplant shock"
   - "Species selection is accurate to listing photos; no bait-and-switch on variegation or size"
   - "Packaging includes moisture-retaining wrap and insulation that survives 2-3 day transit in most climates"
-cons:
+cons: 
   - "Shipping is a gamble — roughly 1 in 10 orders arrive with broken stems or crushed foliage, especially in winter"
   - "No pot included — what you see in the listing photo is the plant only, not the decorative container"
+
 ---
 
 **Is Costa Farms worth the gamble of buying live plants sight-unseen?** That's the real question for anyone eyeing this bestseller. With 210 ratings averaging 4.2 stars, the consensus is cautiously positive — but the caveats matter.

@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Carport, Heavy Duty Carport Canopy with Galvanized Ste"
 seo_title: "Metal Carport, Heavy Duty Carport Canopy with Galv Review"
 meta_description: "Our full metal carport, heavy duty carport canopy with galvanized ste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F8R3Y934/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91UFQ6KRKTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most carports under $1,000 are glorified tents with poles. This one is different — but it's not bulletproof either. Here's what you need to know before you buy.

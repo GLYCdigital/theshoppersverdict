@@ -1,4 +1,5 @@
 ---
+
 title: "Black Pointe Bay Coffee, French Roast"
 seo_title: "Black Pointe Bay French Roast Review: Bold & Budget-Friendly"
 meta_description: "Honest Black Pointe Bay French Roast review: deep, smoky flavor, oily beans, great value. See pros, cons, and who should buy this dark roast."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F8QV28M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FgAkfhBSL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, smoky French roast profile with low acidity — smooth enough for black coffee drinkers"
   - "Oily, dark beans indicate a legit dark roast, not a medium masquerading as French"
   - "Consistently fresh — multiple buyers report roast dates within weeks of delivery"
-cons:
+cons: 
   - "Oily surface can clog super-automatic espresso machines with built-in grinders"
   - "Flavor skews one-dimensional; lacks the complexity of single-origin darks at higher price points"
+
 ---
 
 **Black Pointe Bay French Roast Review: The $20 Dark Roast That Doesn't Disappoint**

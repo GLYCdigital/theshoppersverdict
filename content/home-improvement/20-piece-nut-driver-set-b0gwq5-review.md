@@ -1,23 +1,25 @@
 ---
+
 title: "20-Piece Nut Driver Set — Full Review"
 seo_title: "20-Piece Nut Driver Set Review: 4.5-Star Kit Worth It?"
 meta_description: "Our 20-Piece Nut Driver Set review covers build quality, grip, and value. See pros, cons, and who should buy this 4.5-star kit."
 slug: "20-piece-nut-driver-set-b0gwq5-review"
 image_alt: "20-Piece Nut Driver Set with color-coded handles and steel shafts laid out on a workbench"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWQ5JT4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714EeNj6+xL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Color-coded handles make size identification instant during work"  
   - "Chrome vanadium shafts resist bending under heavy torque"  
   - "Cushioned grips stay comfortable during extended use"  
-cons:  
+cons: 
   - "No storage case included — loose drivers can get lost in a toolbox"  
   - "Sizes skip some common fractional steps like 3/8-inch"
+
 ---
 
 Look, you don't need 20 nut drivers. You need the right nut driver—and then a few backups for when you misplace it mid-project. This 20-piece set from Amazon’s generic hardware aisle covers that base and then some, earning a solid 4.5 stars from 225 buyers. But is it truly worth your cash, or just another drawer-filler? Let’s dig in.

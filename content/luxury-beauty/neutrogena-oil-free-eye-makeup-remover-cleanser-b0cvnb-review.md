@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena Oil-Free Eye Makeup Remover & Cleanser"
 seo_title: "Neutrogena Oil-Free Eye Makeup Remover & Cleanser Review:"
 meta_description: "Our full neutrogena oil-free eye makeup remover & cleanser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CVNBGXRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NR+pb7pfL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're dead tired, and the last thing you want is a 10-minute battle with stubborn waterproof mascara? This Neutrogena remover is the closest thing to a cheat code I've found. With a 4.7-star average across 235 ratings, it's clearly earning its keep on bathroom shelves. But is it actually worth the hype? Let's break it down.

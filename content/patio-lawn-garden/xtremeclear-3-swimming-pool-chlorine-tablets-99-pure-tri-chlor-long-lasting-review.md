@@ -1,18 +1,19 @@
 ---
-title: "Xtremeclear 3\" Swimming Pool Chlorine Tablets 99% Pure Tri-Chlor| Long Lasting & Slow Dissolving | Pro-Grade Pool Sanitizer | 5 Pounds Bucket"
-seo_title: "Xtremeclear 3\" Swimming Review: Verdict (4.7/5) | TSV"
+
+title: "Xtremeclear 3\ Swimming Pool Chlorine Tablets 99% Pure Tri-Chlor| Long Lasting & Slow Dissolving | Pro-Grade Pool Sanitizer | 5 Pounds Bucket"
+seo_title: "Xtremeclear 3\ Swimming Review: Verdict (4.7/5) | TSV"
 meta_description: "However the bucket it comes in is very sturdy and 3,652+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "xtremeclear-3-swimming-pool-chlorine-tablets-99-pure-tri-chlor-long-lasting-review"
 image_alt: "Xtremeclear 3 Swimming Pool Chlorine Tablets 99% Pure Tri-Chlor| Long Lasting & Slow Dissolving | Pro-Grade Pool Sanitiz"
-keywords:
+keywords: 
   - "xtremeclear 3 swimming review"
 verdict_score: 4.6
-faq:
-  - question: "What do buyers like most about the Xtremeclear 3\" Swimming Pool?"
+faq: 
+  - question: "What do buyers like most about the Xtremeclear 3\ Swimming Pool?"
     answer: "However the bucket it comes in is very sturdy and nice That is the most consistent positive theme across verified Amazon reviews for this product."
-  - question: "What are the downsides of the Xtremeclear 3\" Swimming Pool?"
+  - question: "What are the downsides of the Xtremeclear 3\ Swimming Pool?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
-  - question: "Should I buy the Xtremeclear 3\" Swimming Pool?"
+  - question: "Should I buy the Xtremeclear 3\ Swimming Pool?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the outdoor or garden product category."
 date: 2026-08-01
 price: 12.99
@@ -20,12 +21,13 @@ review_count: 3652
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHX4GJ5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hgU3sL4wL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "However the bucket it comes in is very sturdy and nice."
   - "The price felt fair for the quality, and so far they’ve kept my pool crystal clear with steady."
   - "Crystal Clear Pool Maintenance Made Simple I’ve been using the Xtremeclear 3” Swimming Pool Chlorine."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If you've priced pool chemicals at big-box stores lately, you know the sting. A 5-pound bucket of 3-inch tabs runs $18–$25 at most retail chains. The Xtremeclear version sits at $12.99. That's not a clearance typo — it's the going rate for a 99% pure tri-chlor tablet that does exactly what it claims. With 3,652 ratings and a 4.7-star average, this is one of the most-reviewed pool sanitizers on Amazon. Here's whether it's the right buy for your setup.

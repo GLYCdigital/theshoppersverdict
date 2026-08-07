@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Farmhouse Makeup Vanity Desk with Sliding Mirror, V"
 seo_title: "AMERLIFE Farmhouse Makeup Vanity Review: Sliding Mirror & Storage"
 meta_description: "AMERLIFE Farmhouse Makeup Vanity with sliding mirror: 4.5-star rated. Real user insights on assembly, storage, and build quality. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CY5TSVSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GxIBlTmGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sliding mirror panel reveals a hidden storage cubby behind it — doubles your usable surface without extra footprint"
   - "Sturdy solid wood legs and reinforced frame handle daily use better than typical flat-pack vanities in this price band"
   - "Three large fabric drawers plus two open side shelves give genuinely useful storage for makeup, tools, and accessories"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes; the sliding mirror track alignment is finicky and needs patience to get right"
   - "The included stool is functional but basic — no padding, and the seat height is fixed with no adjustment option"
   - "Fabric drawers won't stand up to heavy items like full-size hair dryers or stacked palettes; keep them to lighter gear"
+
 ---
 
 # AMERLIFE Farmhouse Makeup Vanity Desk with Sliding Mirror: The Smart-Space Solution

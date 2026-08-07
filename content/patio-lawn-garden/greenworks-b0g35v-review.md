@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks"
 seo_title: "Greenworks Review: Verdict | TSV"
 meta_description: "Our full greenworks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G35VSR97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HLzE5xToL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Greenworks Review: The 4.4-Star Lawn Tool That Actually Earns Its Rating

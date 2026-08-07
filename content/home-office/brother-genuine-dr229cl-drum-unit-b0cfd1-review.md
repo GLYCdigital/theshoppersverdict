@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine DR229CL Drum Unit"
 seo_title: "Brother DR229CL Drum Unit Review: Worth It? (2026)"
 meta_description: "Honest Brother DR229CL drum unit review: 12,000-page yield, genuine quality, print issues, and if it's worth the price for your HL-L3210CW or MFC-L3710CW."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CFD17L77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717yaAgV4RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine Brother print quality with zero aftermarket compatibility headaches"
   - "12,000-page yield that actually matches Brother's spec in real-world use"
   - "Tool-free installation — swap takes under two minutes"
-cons:
+cons: 
   - "Premium price vs. third-party drums that cost half as much"
   - "No reset chip included — won't work in some remanufactured toner situations"
+
 ---
 
 ## The Cheap Printer Trap Nobody Warns You About

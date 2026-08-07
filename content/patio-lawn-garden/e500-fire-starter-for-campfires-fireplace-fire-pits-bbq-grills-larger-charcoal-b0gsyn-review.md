@@ -1,4 +1,5 @@
 ---
+
 title: "E500 Fire Starter for Campfires, Fireplace, Fire Pits, BBQ,"
 seo_title: "E500 Fire Starter Review: Reliable Campfire & Grill Starter"
 meta_description: "Honest E500 Fire Starter review: Does it light campfires, fire pits, and BBQ charcoal fast? Tested performance, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSYNW9DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sO7DCpYEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lights quickly with a single match or lighter, even in damp conditions"
   - "Compact size stores easily in a camping bin or kitchen drawer"
   - "Long burn time gets a full chimney of charcoal or a log fire going without babysitting"
-cons:
+cons: 
   - "No storage case included — loose sticks can shed residue in a bag"
   - "Strong odor during initial burn, so keep it away from food until flames catch"
+
 ---
 
 If you’ve ever stood over a stubborn pile of damp wood, flicking a lighter until your thumb cramps, you know the pain this product is designed to solve. The E500 Fire Starter is a compact, wax-impregnated fire-starting block that claims to get campfires, fireplaces, fire pits, and BBQ charcoal burning fast — and with 235 ratings holding a 4.7-star average, it's clearly doing something right.

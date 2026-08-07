@@ -1,4 +1,5 @@
 ---
+
 title: "Ohuhu & Bobbie Goods Alcohol Markers, Co-branded 48-color Br"
 seo_title: "Ohuhu & Bobbie Goods Alcohol Markers, Co-branded 4 Review"
 meta_description: "Our full ohuhu & bobbie goods alcohol markers, co-branded 48-color br review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FGPW3P12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F91BtHD5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 48-color co-brand that actually earns its hype — but read this before you buy**

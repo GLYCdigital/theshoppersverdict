@@ -1,4 +1,5 @@
 ---
+
 title: "OKD Storage Cabinet, 32''W Farmhouse Kitchen Pantry With 2 B"
 seo_title: "OKD Storage Cabinet, 32''W Farmhouse Kitchen Pantr Review"
 meta_description: "Our full okd storage cabinet, 32''w farmhouse kitchen pantry with 2 b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D81YP327/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The OKD 32'' Farmhouse Pantry: Solid Storage With a Few Assembly Headaches**

@@ -1,4 +1,5 @@
 ---
+
 title: "paco rabanne One Million Royal"
 seo_title: "paco rabanne One Million Royal Review: Verdict | TSV"
 meta_description: "Our full paco rabanne one million royal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CPC8RRJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pnWm5BBVL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The One Million line has built a reputation on loud, confident, party-ready scents. Royal takes that DNA and pushes it into darker, boozier territory — and for most buyers, that's exactly what they want.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Nutella B-Ready, 36 ct,1.74 lbs"
 seo_title: "Nutella B-Ready, 36 ct,1.74 lbs Review: Verdict | TSV"
 meta_description: "Our full nutella b-ready, 36 ct,1.74 lbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1BPDB7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cT7N8ancL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: these are not coffee gear, and I'm not going to pretend otherwise. But if you're reading this because you want an honest take on whether the Nutella B-Ready 36-count box is worth your money, here's the real story.

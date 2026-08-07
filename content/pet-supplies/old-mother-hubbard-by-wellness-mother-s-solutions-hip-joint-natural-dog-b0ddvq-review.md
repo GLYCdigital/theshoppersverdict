@@ -1,4 +1,5 @@
 ---
+
 title: "Old Mother Hubbard by Wellness Mother's Solutions Hip & Join"
 seo_title: "Old Mother Hubbard by Wellness Mother's Solutions  Review"
 meta_description: "Our full old mother hubbard by wellness mother's solutions hip & join review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDVQRPQH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y5YIo3leL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog is slowing down on stairs or hesitating before jumping on the couch, you've probably started googling joint supplements. The market is flooded with options, but Old Mother Hubbard by Wellness Mother's Solutions Hip & Joint stands out for one reason: it actually contains meaningful doses of the two ingredients veterinarians recommend most — glucosamine and chondroitin.

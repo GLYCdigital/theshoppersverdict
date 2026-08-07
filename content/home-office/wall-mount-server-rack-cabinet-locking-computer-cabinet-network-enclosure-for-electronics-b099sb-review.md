@@ -1,4 +1,5 @@
 ---
+
 title: "Wall Mount Server Rack Cabinet Locking Computer Cabinet Netw"
 seo_title: "Wall Mount Server Rack Cabinet Locking Computer Ca Review"
 meta_description: "Our full wall mount server rack cabinet locking computer cabinet netw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B099SBY5QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6176CnqM2+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still balancing network gear on a wire shelf or stacking a switch on top of your printer, stop. This wall mount rack cabinet from the B099SB line solves the mess in one clean, lockable unit. At 4.4 stars from 220 buyers, it's clearly doing something right. Here's what that actually means for your install.

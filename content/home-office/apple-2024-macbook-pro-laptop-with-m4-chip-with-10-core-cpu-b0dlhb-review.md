@@ -1,4 +1,5 @@
 ---
+
 title: "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CP"
 seo_title: "Apple 2024 MacBook Pro M4 Review: Worth It? | 4.7★"
 meta_description: "Apple 2024 MacBook Pro M4 review: 10-core CPU performance, battery life, and real-world tradeoffs. Is it worth upgrading? Buy it or skip it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLHBN3G3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "M4 chip delivers roughly 20-25% faster multi-core performance than M3 for sustained workloads, not just short bursts"
   - "Battery life genuinely hits 18-22 hours on mixed office work — the 14-inch model with M4 is the new endurance king"
   - "Thunderbolt 4 ports on both sides plus HDMI and SDXC slot means zero dongle dependency for most creative workflows"
-cons:
+cons: 
   - "16GB base RAM is soldered and non-upgradable — you're locked in at purchase, so budget for 24GB if you run VMs or heavy browser tabs"
   - "Space Black finish shows fingerprints aggressively, especially around the palm rest and trackpad area"
   - "No Wi-Fi 7 — Apple stuck with Wi-Fi 6E, which is fine today but feels dated for a 2024 flagship at this price"
+
 ---
 
 ## The M4 MacBook Pro: The Pro Machine Most People Actually Need

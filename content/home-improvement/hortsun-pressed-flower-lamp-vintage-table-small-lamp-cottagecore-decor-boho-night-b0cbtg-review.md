@@ -1,4 +1,5 @@
 ---
+
 title: "Hortsun Pressed Flower Lamp Vintage Table Small Lamp Cottage"
 seo_title: "Hortsun Pressed Flower Lamp Vintage Table Small La Review"
 meta_description: "Our full hortsun pressed flower lamp vintage table small lamp cottage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBTGXBCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IWUPsXniL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the cottagecore accent your shelf's been missing?** The Hortsun Pressed Flower Lamp has been popping up all over my feed, and with a 4.6-star average across 229 ratings, it's clearly resonating. But here's the thing — this isn't a statement piece you buy for illumination. It's a mood piece, a conversation starter, a tiny botanical time capsule you plug in. Let me tell you exactly what you're getting before you click add to cart.

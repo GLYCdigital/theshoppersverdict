@@ -1,5 +1,6 @@
 ---
 
+
 title: "Amazon Basics Handleset with Shelby Lever - Single Cylinder"
 seo_title: "Amazon Basics Shelby Handleset Review: Solid Value or Skip?"
 meta_description: "Amazon Basics Handleset with Shelby Lever review: build quality, installation ease, security features, and honest downsides. Is this budget door handle worth it?"
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRNKV1B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CsT0qLp5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc die-cast construction feels substantial for the price — no hollow, tinny body like many budget handlesets"
   - "One-tool installation using only a Phillips screwdriver; adjustable latch backsets (2-3/8 inch  or 2-3/4 inch ) fit standard pre-drilled doors"
   - "Includes both keyed entry and matching interior dummy lever, so you get a coordinated set for under $50 inch"
-cons:
+cons: 
   - "Strike plate screws are soft — several buyers report stripping them during installation; replace with #8x3 inch  wood screws for a more secure bite"
   - "Latch bolt is not adjustable for door thickness beyond 1-3/8 inch  to 1-3/4 inch , so thicker exterior doors may need shimming"
   - "Finish is polished brass look, not true brass — expect it to tarnish or wear at contact points within 12-18 months of heavy use"
+
 
 ---
 

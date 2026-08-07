@@ -1,10 +1,11 @@
 ---
+
 title: "KitchenAid BCG111ER Blade Coffee Grinder Review: Style Meets Substance at $44.95"
 seo_title: "KitchenAid BCG111ER Grinder — 4.5★ | TSV"
 meta_description: "KitchenAid BCG111ER blade coffee grinder review: 4.5 stars, 14,812 ratings, $44.95. Classic design, quality build, reliable grinding. Read our verdict."
 slug: "kitchenaid-bcg111er-blade-coffee-grinder-review"
 image_alt: "KitchenAid BCG111ER blade coffee grinder in Empire Red with stainless steel blades and removable grinding cup"
-keywords:
+keywords: 
   - "KitchenAid BCG111ER review"
   - "KitchenAid blade coffee grinder"
   - "best electric coffee grinder"
@@ -16,18 +17,18 @@ amazon_rating: 4.5
 price: 44.95
 amazon_url: "https://www.amazon.com/dp/B006H41LX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513pMKuNb7L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Stunning KitchenAid design that complements any countertop"
   - "Stainless steel blades deliver consistent results for drip coffee"
   - "Deep grinding cup holds enough for 4-12 cups of coffee"
   - "Quality construction expected from KitchenAid"
   - "Simple operation with durable stainless steel build"
-cons:
+cons: 
   - "Blade grinder produces less consistent grind than burr alternatives"
   - "Requires manual shaking for even results"
   - "No built-in timer or auto-shutoff feature"
   - "Some users find the cord length limiting"
-faq:
+faq: 
   - question: "How many coffee beans does the KitchenAid BCG111ER hold?"
     answer: "The deep grinding cup holds a level 4 (minimum) to level 12 (maximum) of coffee beans, delivering enough grounds for 4-12 cups of coffee depending on your preferred strength."
   - question: "Is the KitchenAid BCG111ER easy to clean?"
@@ -37,6 +38,7 @@ faq:
   - question: "How loud is the KitchenAid blade grinder?"
     answer: "It produces the typical blade grinder noise level. Users describe it as acceptable and not overly loud compared to other blade grinders in this class."
 date: 2026-05-29
+
 ---
 
 **The $45 Blade Grinder That Most Drip Coffee Drinkers Actually Want**

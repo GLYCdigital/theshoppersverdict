@@ -1,4 +1,5 @@
 ---
+
 title: "Fineday Pond Filter, Anti-Clogging Cube Outdoor Mesh Water P"
 seo_title: "Fineday Pond Filter Review: Anti-Clogging Cube Pump Barrier"
 meta_description: "Honest Fineday Pond Filter review: Does the anti-clogging cube mesh protect pond pumps? Tested for debris, algae, and maintenance. Read before buying."
@@ -11,15 +12,16 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D77P9SBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M-unDnnXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Open-cell foam construction lets water flow freely while trapping leaves, pine needles, and string algae before they reach the impeller"
   - "Cube design holds its shape in moving water — no collapse or suction against the pump intake like flimsy bags"
   - "Zip closure and integrated drawstring make installation and cleaning genuinely easy, even with cold, wet hands"
-cons:
+cons: 
   - "Fine mesh can clog quickly in ponds with heavy algae blooms or fish waste — you'll be rinsing it every few days in peak summer"
   - "One size is not universal; larger pond pumps (1000+ GPH) may need two cubes or a custom wrap to get full coverage"
   - "Fine mesh can clog quickly in ponds with heavy algae blooms or fish waste — plan on rinsing every few days in peak summer"
   - "Single size fits most small-to-mid pumps but larger units (1000+ GPH) will need two cubes or partial wrap coverage"
+
 ---
 
 Let’s be direct: your pond pump is the most expensive thing sitting in that murky water, and it dies two ways — debris jamming the impeller or running dry because the intake is blocked. The Fineday Anti-Clogging Cube is a $15-ish insurance policy against both. But is it the right one for your setup? Here’s what 220 buyers and my own teardown of the design tell me.

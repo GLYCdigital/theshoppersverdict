@@ -1,4 +1,5 @@
 ---
+
 title: "Spice Bottles, Dabacc 20Pcs 7oz Clear Plastic Container Jars"
 seo_title: "Spice Bottles, Dabacc 20Pcs 7oz Clear Plastic Cont Review"
 meta_description: "Our full spice bottles, dabacc 20pcs 7oz clear plastic container jars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B089VXWBTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711YcIJBghL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Full Review:**

@@ -1,4 +1,5 @@
 ---
+
 title: "General Hydroponics MaxiGro Plant Food for Vigorous Growth"
 seo_title: "MaxiGro Plant Food Review: Dry Fertilizer That Works"
 meta_description: "Read our honest General Hydroponics MaxiGro review. See how this dry fertilizer performs for hydroponics and soil grows, plus real pros, cons, and buying tips."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B3TGMPRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-tNEqYM5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dry powder formula costs a fraction of liquid nutrients per gallon — one 2.2 lb bag makes up to 200 gallons"
   - "Complete 2-part NPK (10-5-15) with full calcium and magnesium — no separate CalMag purchase needed for most grows"
   - "Works across hydroponics, coco coir, and soil with simple mixing instructions"
-cons:
+cons: 
   - "Powder requires thorough mixing and can leave sediment if not fully dissolved"
   - "Not formulated for the flowering stage — you'll need MaxiBloom or another bloom nutrient for the second half of your grow"
+
 ---
 
 If you're growing peppers in coco coir on a balcony or running a recirculating hydro system in the basement, you've probably noticed the price of liquid nutrients creeping up every year. General Hydroponics MaxiGro cuts through that noise with a dry powder that delivers the same results at a fraction of the cost. It's the blue-collar workhorse of the nutrient world — and for good reason.

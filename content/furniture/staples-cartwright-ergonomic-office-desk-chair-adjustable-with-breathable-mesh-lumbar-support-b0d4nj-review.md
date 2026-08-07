@@ -1,4 +1,5 @@
 ---
+
 title: "STAPLES Cartwright Ergonomic Office Desk Chair, Adjustable w"
 seo_title: "STAPLES Cartwright Ergonomic Office Desk Chair, Ad Review"
 meta_description: "Our full staples cartwright ergonomic office desk chair, adjustable w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4NJYSHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718ccqUfmUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the listings: "ergonomic," "breathable mesh," "lumbar support." Most chairs under $300 throw those words around like confetti and deliver a lumpy cushion with a plastic shell. The STAPLES Cartwright is different — mostly. It's a mesh-back task chair that punches above its weight class on airflow and back support, but it makes you compromise on comfort in ways you need to know about before you click buy.

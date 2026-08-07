@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT SDS Hammer DCH273B Rotary Tool Only 20V Drill"
 seo_title: "DEWALT DCH273B Review: 20V SDS Rotary Hammer Drill"
 meta_description: "DEWALT DCH273B 20V SDS rotary hammer drill review: power, dust control, and real-world performance for concrete drilling. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MAX7MAE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615RRHpkEpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine rotary hammer power without the cord"
   - "Dust collection attachment (sold separately) keeps overhead drilling mess manageable"
   - "Three-mode selector (drill, hammer drill, hammer only) covers anchoring and chipping tasks"
-cons:
+cons: 
   - "Bare tool only — you'll need a 20V battery and charger you may not already own"
   - "AVS vibration control helps but doesn't eliminate fatigue on extended overhead work"
   - "Dust extraction setup adds bulk and cost if you want it"
+
 ---
 
 If you've ever tried drilling a 1/2-inch hole into cured concrete with a standard drill, you know the drill: smoke, sparks, a burnt bit, and a hole that's barely 3/8 deep. The DEWALT DCH273B is the answer to that frustration — a 20V SDS rotary hammer that brings real demolition-adjacent capability to the cordless platform. As shown in the product image, this is the bare tool version, so what you're getting is the hammer itself, not the battery ecosystem.

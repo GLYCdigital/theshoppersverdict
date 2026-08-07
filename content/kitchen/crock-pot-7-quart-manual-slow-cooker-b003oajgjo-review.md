@@ -1,4 +1,5 @@
 ---
+
 title: "Crock-Pot 7-Quart Manual Slow Cooker, Family Size Serves 8+ People"
 seo_title: "Crock-Pot 7-Quart Manual Slow Cooker Review — 4.6★ Classic at $58"
 meta_description: "Crock-Pot 7-Quart Manual Slow Cooker review: 61,497 reviews analyzed. Set-it-and-forget-it simplicity, removable stoneware, dishwasher safe. Is the $58.20 classic still worth it?"
@@ -11,23 +12,24 @@ review_count: 61497
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pKe7+88ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Set-it-and-forget-it simplicity with High, Low, and Warm settings"
   - "Removable stoneware insert is oven-safe up to 400°F and dishwasher safe"
   - "7-quart capacity easily serves 9+ or fits a 7-pound roast"
   - "No digital fluff to break — manual controls last for decades"
-cons:
+cons: 
   - "No programmable timer — you have to be home to turn it off"
   - "Stainless steel exterior gets hot during use"
   - "Stoneware is heavy and the lid doesn't latch for transport"
 
-faq:
+faq: 
   - question: "Is the Crock-Pot 7-Quart Manual Slow Cooker, Family Size Serves 8+  worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 The Crock-Pot 7-Quart Manual Slow Cooker is the slow cooker that doesn't try to be a smartphone. 61,497 Amazon reviews and decades of reliability make it the default choice for anyone who wants dinner ready without a degree in appliance programming. Here's what the reviews actually say.

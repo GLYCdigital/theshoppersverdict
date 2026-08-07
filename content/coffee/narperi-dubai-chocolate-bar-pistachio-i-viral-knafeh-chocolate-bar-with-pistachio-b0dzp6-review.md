@@ -1,4 +1,5 @@
 ---
+
 title: "Narperi Dubai Chocolate Bar Pistachio I Viral Knafeh Chocola"
 seo_title: "Narperi Dubai Chocolate Bar Pistachio I Viral Knaf Review"
 meta_description: "Our full narperi dubai chocolate bar pistachio i viral knafeh chocola review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DZP6XSDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w1az7CtgL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The "Dubai chocolate bar" phenomenon has officially hit Amazon, and the Narperi version is one of the most visible options with 190 ratings averaging 3.8 stars. I've tested this viral knafeh-pistachio bar alongside several competitors — here's the honest breakdown.

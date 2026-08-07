@@ -1,4 +1,5 @@
 ---
+
 title: "Quartet Glass Whiteboard, Magnetic Dry Erase White Board, Bl"
 seo_title: "Quartet Glass Whiteboard, Magnetic Dry Erase White Review"
 meta_description: "Our full quartet glass whiteboard, magnetic dry erase white board, bl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLBP1XD2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C4fYdJLML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a whiteboard that looks like a crime scene of ghosted marker stains, the Quartet Glass Whiteboard is a breath of fresh air — provided you're okay with wiping down fingerprints every other day.

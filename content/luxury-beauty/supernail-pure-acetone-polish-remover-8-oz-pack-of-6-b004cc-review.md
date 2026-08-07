@@ -1,4 +1,5 @@
 ---
+
 title: "Supernail Pure Acetone Polish Remover, 8 oz (Pack of 6)"
 seo_title: "Supernail Pure Acetone Polish Remover, 8 oz (Pack  Review"
 meta_description: "Our full supernail pure acetone polish remover, 8 oz (pack of 6) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004CCUCAA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zo3idr6zL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: if you're still soaking cotton balls in drugstore non-acetone remover and scrubbing for 20 minutes, you're wasting your time. Supernail Pure Acetone is the industrial-grade stuff salons actually use, and this 6-pack gives you a year's supply for roughly what you'd pay for two manicure appointments.

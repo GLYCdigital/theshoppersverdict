@@ -1,4 +1,5 @@
 ---
+
 title: "REESE'S Milk Chocolate Peanut Butter Cup Snack Size Bar Jumb"
 seo_title: "REESE'S Milk Chocolate Peanut Butter Cup Snack Siz Review"
 meta_description: "Our full reese's milk chocolate peanut butter cup snack size bar jumb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCN381K5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zekgeW2UL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # REESE'S Snack Size Peanut Butter Cups: The Jumbo Bag Reality Check

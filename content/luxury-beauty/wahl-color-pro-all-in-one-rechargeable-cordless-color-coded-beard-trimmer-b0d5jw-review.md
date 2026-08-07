@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl Color Pro All in One Rechargeable Cordless Color Coded "
 seo_title: "Wahl Color Pro All in One Rechargeable Cordless Co Review"
 meta_description: "Our full wahl color pro all in one rechargeable cordless color coded  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D5JW3NZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kDkB8-ePL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Wahl Color Pro All in One isn't trying to reinvent the wheel. It's trying to make the wheel color-coded so you stop guessing which guard is which. At 4.2 stars from 210 ratings, it's clearly working for most people — but let's talk about whether it's working for *you*.

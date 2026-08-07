@@ -1,7 +1,8 @@
 ---
-title: "Oneach 70\" Boho Floor Lamp with 3 Bulbs"
-seo_title: "Oneach 70\" Boho Floor Lamp with 3 Bulbs Review: Verdict |"
-meta_description: "Our full oneach 70\" boho floor lamp with 3 bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Oneach 70\ Boho Floor Lamp with 3 Bulbs"
+seo_title: "Oneach 70\ Boho Floor Lamp with 3 Bulbs Review: Verdict |"
+meta_description: "Our full oneach 70\ boho floor lamp with 3 bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "oneach-70-boho-floor-lamp-with-3-bulbs-b0flq8-review"
 image_alt: "Oneach 70 Boho Floor Lamp with 3 Bulbs"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FLQ83H74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WvFZ-N6NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Oneach 70" Boho Floor Lamp: The 3-Bulb Trick That Actually Works

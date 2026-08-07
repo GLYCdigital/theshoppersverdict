@@ -1,4 +1,5 @@
 ---
+
 title: "Anecdote 2026-2027 Planner: A Monthly, Weekly & Daily Planne"
 seo_title: "Anecdote 2026-2027 Planner Review: Worth It? [Honest]"
 meta_description: "Honest Anecdote 2026-2027 planner review: 18-month layout, paper quality, real-world durability, and who should (and shouldn't) buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0899NR1V4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5164rWWSMTL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Lay-flat binding that actually stays open on a desk without weights — rare in this price tier"
   - "Three distinct layout systems (monthly, weekly, daily) that don't bleed into each other, so you can use one or all three without redundancy"
   - "Thick 120gsm paper that handles fountain pens and heavy gel ink without ghosting through to the next page"
-cons:
+cons: 
   - "Daily pages start only in January 2026, so if you buy mid-cycle you'll have blank weekly spreads before the daily section begins"
   - "No built-in storage pockets — you'll need a separate sleeve for receipts, tickets, or loose notes"
   - "The elastic closure is functional but thin; it stretches noticeably after about four months of daily use"
+
 ---
 
 Here's the thing about the Anecdote 2026-2027 Planner: it's not trying to be your life coach. It's not a bullet journal, a habit tracker, or a vision board. It's a serious planning tool for people who actually need to organize their time across three different time horizons. And for the most part, it executes that job with quiet competence.

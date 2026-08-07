@@ -1,4 +1,5 @@
 ---
+
 title: "Staples Multipurpose Paper (Parent)"
 seo_title: "Staples Multipurpose Paper (Parent) Review: Verdict | TSV"
 meta_description: "Our full staples multipurpose paper (parent) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTBHPLWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bXiDG5cUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: multipurpose paper is the unglamorous workhorse of every office. You don’t buy it for excitement — you buy it because it needs to feed, print, and stack without drama. The Staples Multipurpose Paper (Parent) has earned a 4.8-star rating from 240 Amazon shoppers, which is rare for a commodity product. But does it live up to that hype, or are people just relieved their printer didn’t eat it?  

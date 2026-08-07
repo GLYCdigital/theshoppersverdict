@@ -1,4 +1,5 @@
 ---
+
 title: "Bimini Top Deck Hinge with Pin and Ring, 316 Stainless Steel"
 seo_title: "Bimini Top Deck Hinge Review: 316 Stainless Steel"
 meta_description: "Honest review of the 316 stainless steel Bimini top deck hinge with pin and ring. Real-world performance, fitment, and durability tested."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GPK46TDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C6wIsbVpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True 316 marine-grade stainless with a brushed finish that resists pitting in saltwater"
   - "Pin-and-ring design allows quick canopy removal without tools — ideal for trailering"
   - "Reinforced hinge plate with countersunk holes fits standard 1-inch Bimini tubing"
-cons:
+cons: 
   - "Pin can be stiff out of the box; needs a dab of marine grease for smooth operation"
   - "No mounting hardware included — you'll need to source #10 or 1/4-inch fasteners separately"
+
 ---
 
 If you've ever fought a Bimini top frame at the boat ramp, you already know the pain: corroded hinges, stripped pins, and that moment when the whole canvas assembly decides it's done being cooperative. This deck hinge from the 316 stainless steel lineup directly addresses that headache with a deceptively simple pin-and-ring design. Here's the honest breakdown after digging through specs, materials, and 240 verified buyer experiences.

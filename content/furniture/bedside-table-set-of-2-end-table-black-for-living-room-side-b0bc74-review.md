@@ -1,4 +1,5 @@
 ---
+
 title: "Bedside Table Set of 2, End Table Black for Living Room, Sid"
 seo_title: "Bedside Table Set of 2 Black End Tables Review (2026)"
 meta_description: "Honest review of a bedside table set of 2 in black. Weighing build quality, assembly, and real buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BC748VZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rrnycBJRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy particleboard frame with a clean matte black finish that resists fingerprints"
   - "Open lower shelf adds practical storage without bulky drawers or doors"
   - "Feet are pre-drilled and alignment is forgiving — most buyers assemble in under 20 minutes"
-cons:
+cons: 
   - "Particleboard construction means water damage is permanent — use coasters religiously"
   - "No cable management holes, so charging cords dangle visibly"
   - "Screws are soft metal; over-tightening strips the heads easily"
+
 ---
 
 Let’s be upfront: a set of two nightstands for the price of one is either a steal or a trap. After digging through 220 ratings and the spec sheet, this black end table set lands firmly in the first camp — with a few caveats you should know before checkout.

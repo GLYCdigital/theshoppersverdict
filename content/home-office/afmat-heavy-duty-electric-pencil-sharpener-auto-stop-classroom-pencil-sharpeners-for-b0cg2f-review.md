@@ -1,4 +1,5 @@
 ---
+
 title: "AFMAT Heavy Duty Electric Pencil Sharpener, Auto Stop Classr"
 seo_title: "AFMAT Heavy Duty Electric Pencil Sharpener Review (2026)"
 meta_description: "AFMAT heavy duty electric pencil sharpener review: auto-stop, 6-hole design, quiet motor. See real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG2F4JJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ijHYu0ckL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-stop mechanism prevents over-sharpening and snapped leads — works reliably across standard #2 and colored pencils"
   - "6-hole design fits standard, large, and jumbo pencils without needing adapter swaps"
   - "HEPA filter cartridge traps graphite dust, keeping desks and classrooms noticeably cleaner"
-cons:
+cons: 
   - "Bulky footprint at roughly 6.5 x 5 inches takes up meaningful desk real estate"
   - "Colored pencil cores can still crumble if you push too hard — the auto-stop doesn't catch every soft-lead pencil"
+
 ---
 
 If you've ever stood next to a cheap electric sharpener that whirs for ten seconds, grinds your pencil to a nub, and spews graphite dust across your desk, you already know why the AFMAT Heavy Duty Electric Pencil Sharpener exists. This is a machine built for the classroom or home office where pencils actually get used — not the kind that sits in a drawer for emergencies.

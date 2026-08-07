@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Matte Hop Color Ballpoint Pen"
 seo_title: "Pentel Matte Hop Color Ballpoint Pen Review: Verdict | TS"
 meta_description: "Our full pentel matte hop color ballpoint pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG2BR1X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RWHyWv29L._AC_SL1247_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pentel Matte Hop Color Ballpoint Pen is one of those products that looks like a simple stationery upgrade but quietly changes how you feel about writing. With a 4.4-star average across 220 Amazon ratings, it's clear this pen has found an audience — but is it right for you? Let's dig past the pretty colors and get to what matters.

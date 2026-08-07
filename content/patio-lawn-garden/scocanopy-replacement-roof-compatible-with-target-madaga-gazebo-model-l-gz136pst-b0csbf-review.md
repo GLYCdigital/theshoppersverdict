@@ -1,4 +1,5 @@
 ---
+
 title: "SCOCANOPY Replacement roof Compatible with Target Madaga Gaz"
 seo_title: "SCOCANOPY Replacement roof Compatible with Target  Review"
 meta_description: "Our full scocanopy replacement roof compatible with target madaga gaz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CSBF42HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611TmhXQkOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SCOCANOPY replacement roof is the part Target stopped selling — and for Madaga gazebo owners, that makes it either a lifesaver or a gamble. Here's the honest breakdown after digging through 215 verified ratings.**

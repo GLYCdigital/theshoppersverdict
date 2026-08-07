@@ -1,4 +1,5 @@
 ---
+
 title: "Aveda Botanical Repair Intensive Strengthening Masque Rich |"
 seo_title: "Aveda Botanical Repair Strengthening Masque Rich Review (2026)"
 meta_description: "Honest Aveda Botanical Repair Intensive Strengthening Masque Rich review: bond-building power, real results, costs, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FBS86JKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Zrxycu7GL._SL1500_.jpg"
-pros:
+pros: 
   - "Patented bond-building technology (plant-derived) visibly repairs split ends and breakage after 2–3 uses"
   - "Thick, buttery texture that actually penetrates — not a surface-coating mask"
   - "Free of silicones, parabens, and mineral oil; safe for color-treated hair"
-cons:
+cons: 
   - "Premium price point — roughly $40+ per 6.7 oz jar; cheaper drugstore masks exist"
   - "Scent is strongly botanical (lavender, rosemary, mint) — not for fragrance-sensitive users"
   - "Results fade after about 3–4 washes; needs weekly reapplication to maintain"
+
 ---
 
 ## The Bond-Builder That Doesn't Just Coat Your Hair

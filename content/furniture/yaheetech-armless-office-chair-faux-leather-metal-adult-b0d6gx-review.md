@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Armless Office Chair Faux Leather Metal Adult"
 seo_title: "Yaheetech Armless Office Chair Faux Leather Metal  Review"
 meta_description: "Our full yaheetech armless office chair faux leather metal adult review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6GX4DXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tAWTAaC6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a $100-ish office chair that doesn't look like it belongs in a dorm room. The Yaheetech Armless Office Chair has earned a 4.3-star rating across 215 Amazon reviews, and after digging into the specs and what buyers actually say, I can tell you exactly where it shines and where you'll feel the corners.

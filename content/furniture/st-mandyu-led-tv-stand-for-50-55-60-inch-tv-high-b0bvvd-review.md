@@ -1,4 +1,5 @@
 ---
+
 title: "St.Mandyu LED TV Stand for 50/55/60 inch TV, High Glossy Mod"
 seo_title: "St.Mandyu LED TV Stand for 50/55/60 inch TV, High  Review"
 meta_description: "Our full st.mandyu led tv stand for 50/55/60 inch tv, high glossy mod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BVVDJXGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QDowyiFJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most TV stands under $150 are flimsy, particleboard boxes that sag after a year. The St.Mandyu LED TV Stand for 50/55/60 inch TVs tries to break that mold with a high-gloss finish, tempered glass, and built-in LED lighting. At a 4.3-star average across 215 ratings, it’s clearly doing something right — but is it the right pick for your living room? Here’s what I found after digging through the specs, the praise, and the complaints.

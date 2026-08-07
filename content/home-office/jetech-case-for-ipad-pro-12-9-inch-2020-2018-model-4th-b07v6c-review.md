@@ -1,4 +1,5 @@
 ---
+
 title: "JETech Case for iPad Pro 12.9-Inch (2020/2018 Model, 4th/3rd"
 seo_title: "JETech Case for iPad Pro 12.9-Inch (2020/2018 Mode Review"
 meta_description: "Our full jetech case for ipad pro 12.9-inch (2020/2018 model, 4th/3rd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07V6CYQXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610XyO0XnhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the JETech case for the 12.9-inch iPad Pro is the budget option everyone recommends, and for good reason. But it's not without compromises. Here's what 215 Amazon reviewers (averaging 4.3 stars) actually think, and what you should know before you click buy.

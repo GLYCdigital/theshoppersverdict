@@ -1,4 +1,5 @@
 ---
+
 title: "Potanro E12 Incandescent Light Bulbs for Ceiling Fan, Pendan"
 seo_title: "Potanro E12 Incandescent Light Bulbs for Ceiling F Review"
 meta_description: "Our full potanro e12 incandescent light bulbs for ceiling fan, pendan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5YKKBQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V1h3hv5zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with a confession: I've reviewed hundreds of LED bulbs that promise "warm, incandescent-like" light, and almost all of them fall short. They skew orange, buzz on dimmers, or flicker at 40% brightness. The Potanro E12 incandescent bulbs don't have that problem — because they're the real thing. At 4.5 stars from 225 Amazon ratings, these small candelabra-base bulbs are quietly becoming the go-to for ceiling fans, pendants, and chandeliers. Here's the full breakdown.

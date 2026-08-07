@@ -1,4 +1,5 @@
 ---
+
 title: "Fanzir 2026 Flameless Candle with Remote Timer"
 seo_title: "Fanzir 2026 Flameless Candle Review: Remote Timer Tested"
 meta_description: "Hands-on Fanzir 2026 flameless candle review: remote timer, 3D flame realism, battery life, and real buyer feedback. Is it worth it for cozy lighting?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GCM8G2DX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yyW8XSmYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic 3D wick flame effect that genuinely looks like a real burning candle from across the room"
   - "10-key remote with 2/4/6/8-hour timer settings — one click sets it and forgets it"
   - "Warm 2700K glow with gentle flicker that doesn't strobe or look cheap"
-cons:
+cons: 
   - "Batteries not included — needs 2 C batteries per candle, which adds to initial cost"
   - "Remote must be pointed directly at the receiver; doesn't work through thick glass or around corners"
   - "Timer resets if you manually turn the candle off with the switch instead of the remote"
+
 ---
 
 **The Fanzir 2026 flameless candle isn't trying to fool anyone up close.** But from across the living room, with the warm 2700K glow flickering behind that realistic 3D wick, you'll do a double-take. That's exactly what this candle does well — and it's why 229 Amazon shoppers have pushed it to a 4.6-star average.

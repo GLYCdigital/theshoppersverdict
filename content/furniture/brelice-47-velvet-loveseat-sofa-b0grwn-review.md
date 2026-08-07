@@ -1,4 +1,5 @@
 ---
+
 title: "Brelice 47 inch  Velvet Loveseat Sofa"
 seo_title: "Brelice 47 inch  Velvet Loveseat Review: Is It Worth It?"
 meta_description: "Brelice 47 inch  velvet loveseat review: 4.5-star rated. We break down comfort, durability, assembly, and whether this compact sofa fits your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRWNKTJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UJBvskRcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine velvet upholstery with a soft, plush hand-feel that doesn't pill or shed after months of daily use"
   - "47-inch width fits through standard doorways and into apartments, dorms, and awkward corner layouts"
   - "Sturdy solid wood frame rated for 500+ lbs — holds up better than most sub-$400 loveseats"
-cons:
+cons: 
   - Seat depth is shallow (20 inches) — taller users over 5'10 inch " will find their knees elevated
   - "Back cushions are attached, not removable — makes deep cleaning and fluffing more difficult"
+
 ---
 
 If you're shopping for a loveseat under $400, you've probably seen the Brelice 47" Velvet Loveseat dominating search results with its 4.5-star average across 225 ratings. The question isn't whether it's popular — it's whether it deserves the hype. I've dug through the specs, the customer feedback, and the real-world complaints to give you the straight story.

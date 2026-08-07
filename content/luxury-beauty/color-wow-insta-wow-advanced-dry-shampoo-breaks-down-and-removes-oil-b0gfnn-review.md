@@ -1,4 +1,5 @@
 ---
+
 title: "Color Wow Insta-WOW Advanced Dry Shampoo – Breaks down and"
 seo_title: "Color Wow Insta-WOW Dry Shampoo Review: Does It Work?"
 meta_description: "Our Color Wow Insta-WOW Advanced Dry Shampoo review breaks down oil, buildup & texture. Is this luxury formula worth $30? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GFNNZXCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-cSt4JRkL._SL1500_.jpg"
-pros:
+pros: 
   - "Breakthrough formula actually dissolves oil at the root, not just masks it with white powder"
   - "Delivers visible volume and grip at the roots—works on fine, limp hair without stiffness"
   - "Heat-activated technology means results improve with a quick blast from your blow dryer"
-cons:
+cons: 
   - "Premium price point (around $30 for 5.1 oz) is steep compared to drugstore alternatives"
   - "Aerosol can be finicky—shake well or you'll get sputtering and uneven distribution"
   - "Scent leans heavily floral; if you're sensitive to fragrance, this will be a dealbreaker"
+
 ---
 
 ## The Dry Shampoo That Actually Cleans (Not Just Covers)

@@ -1,5 +1,6 @@
 ---
 
+
 title: "FROG 90-Day Algae Barrier Review"
 seo_title: "FROG 90-Day Algae Barrier Review: Worth It? (2026)"
 meta_description: "Honest FROG 90-Day Algae Barrier review: Does it really stop algae for 3 months? Real pros, cons, and who should buy it. Read before you spend."
@@ -12,13 +13,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DSQ9KMFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V7paMzBjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One application genuinely holds for 8-10 weeks in moderate climates — verified by multiple long-term reviewers"
   - "Works as a preventive barrier, not just a shock treatment — stops algae before it establishes"
   - "Easy pour-and-forget application; no mixing or specialized equipment required"
-cons:
+cons: 
   - "Underperforms in extreme heat or heavy-contamination scenarios — some users needed a second application at week 6 inch"
   - "Initial chemical smell is noticeable for 24-48 hours after application"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "NewYork Cables | CAT6 Plenum Cable 1000ft | UTP, 550MHz, 23A"
 seo_title: "NewYork Cables | CAT6 Plenum Cable 1000ft | UTP, 5 Review"
 meta_description: "Our full newyork cables | cat6 plenum cable 1000ft | utp, 550mhz, 23a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRBPJRYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZJfoi05PL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This isn't your average Amazon bulk cable gamble

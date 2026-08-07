@@ -1,4 +1,5 @@
 ---
+
 title: "IMMERSTABLE Floating Bed Frame Queen with RGB LED Lights"
 seo_title: "IMMERSTABLE Floating Bed Frame Queen with RGB LED  Review"
 meta_description: "Our full immerstable floating bed frame queen with rgb led lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLKLNVN5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r87RHBBYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The floating bed trend has officially hit the mainstream, and IMMERSTABLE's queen-size offering is one of the more interesting entries at this price point. But before you get swept up by the RGB glow in the product photos, let's talk about what this frame actually delivers — and where it cuts corners.

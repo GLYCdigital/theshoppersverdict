@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Pie, Frozen, Pizza Artisan 8 Cheese, 16.7 Ounce"
 seo_title: "Urban Pie, Frozen, Pizza Artisan 8 Cheese, 16.7 Ou Review"
 meta_description: "Our full urban pie, frozen, pizza artisan 8 cheese, 16.7 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQPG71MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91z1nTJ8NmL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested more frozen pizzas than I care to admit, and most of them taste like cardboard with ambition. The Urban Pie Artisan 8 Cheese is not that. It's also not a miracle — it's a solid, better-than-average frozen pie with a specific personality.

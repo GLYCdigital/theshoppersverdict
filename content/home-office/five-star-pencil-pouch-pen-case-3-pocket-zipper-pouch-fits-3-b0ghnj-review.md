@@ -1,4 +1,5 @@
 ---
+
 title: "Five Star Pencil Pouch, Pen Case, 3-Pocket Zipper Pouch, Fit"
 seo_title: "Five Star Pencil Pouch, Pen Case, 3-Pocket Zipper  Review"
 meta_description: "Our full five star pencil pouch, pen case, 3-pocket zipper pouch, fit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHNJRGP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xnypX4zfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most pencil pouches are either flimsy fabric sacks or hard plastic clamshells that crack within a semester. The Five Star 3-Pocket Zipper Pouch aims for a middle ground — a flat, flexible organizer that actually lets you *see* what's inside. With a 4.7-star average across 235 ratings, it's clearly doing something right. But is it the right pen case for your specific carry style? Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "5231EL1001C Filter"
 seo_title: "5231EL1001C Filter Review: Reliable Replacement Part"
 meta_description: "Honest 5231EL1001C filter review: build quality, real-world performance, and fit compatibility. See what 229 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4DJLRZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817870SjO4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style fit for compatible range hoods — no trimming or adapter needed"
   - "Sturdy aluminum mesh construction that holds up to repeated dishwasher cleaning"
   - "Noticeably improved airflow versus a clogged original, restoring suction power"
-cons:
+cons: 
   - "Not a universal filter — you must verify your hood model before ordering"
   - "Some buyers report minor cosmetic scuffs from shipping that don't affect function"
+
 ---
 
 Let’s be blunt: nobody gets excited about buying a replacement filter. You’re here because your range hood is wheezing, grease is building up, or you just moved into a place with a filter that looks like it survived a decade of stir-fry. The 5231EL1001C Filter is the part you hope fixes it without drama. Based on 229 ratings averaging 4.6 stars, it mostly does.

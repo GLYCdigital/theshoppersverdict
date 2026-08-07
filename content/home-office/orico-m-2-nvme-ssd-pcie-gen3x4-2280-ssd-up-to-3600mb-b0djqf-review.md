@@ -1,4 +1,5 @@
 ---
+
 title: "ORICO M.2 NVMe SSD, PCIe Gen3x4 2280 SSD - Up to 3600MB/s, I"
 seo_title: "ORICO M.2 NVMe SSD, PCIe Gen3x4 2280 SSD - Up to 3 Review"
 meta_description: "Our full orico m.2 nvme ssd, pcie gen3x4 2280 ssd - up to 3600mb/s, i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJQF9XYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I4U-PRbEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The Speed You Actually Notice

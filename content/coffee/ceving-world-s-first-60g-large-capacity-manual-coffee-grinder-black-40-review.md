@@ -1,16 +1,17 @@
 ---
+
 title: "CEVING World's First 60g Large Capacity Manual Coffee Grinder, Black | 40 External Settings, Portable Hand Coffee Bean Mill with Stainless Steel Conical Burr for Travel, Camping, Pour Over & Gift"
 seo_title: "CEVING World's First Review: Verdict (4.6/5) | TSV"
 meta_description: "The build quality feels solid, it produces a consistent grind, and the larger 590+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "ceving-world-s-first-60g-large-capacity-manual-coffee-grinder-black-40-review"
 image_alt: "CEVING Worlds First 60g Large Capacity Manual Coffee Grinder, Black | 40 External Settings, Portable Hand Coffee Bean Mi"
-keywords:
+keywords: 
   - "ceving worlds first review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the CEVING World's First 60g?"
     answer: "The build quality feels solid, it produces a consistent grind, and the larger capacity is a nice bonus if... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the CEVING World's First 60g?"
@@ -23,12 +24,13 @@ review_count: 590
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTHN8ZMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gAMt0ADFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The build quality feels solid, it produces a consistent grind."
   - "Overall, if you’re looking for an affordable hand grinder that delivers performance well above its p."
   - "I was hesitant to order it because it had relatively few reviews compared to some of the bigger name."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The 60g Grinder That Makes You Question Why You Paid $150 for a Hand Grinder**

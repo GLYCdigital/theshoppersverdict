@@ -1,4 +1,5 @@
 ---
+
 title: "LUE BONA Small Tufted Foot Stool, Ottoman Elegant Foot Stool"
 seo_title: "LUE BONA Small Tufted Foot Stool, Ottoman Elegant  Review"
 meta_description: "Our full lue bona small tufted foot stool, ottoman elegant foot stool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFSVRD85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91B+IhjYwPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the LUE BONA small tufted foot stool a stylish accent piece or just another Amazon impulse buy?** With 220 ratings averaging 4.4 stars, it's clearly finding homes. But before you click "add to cart," let's talk about what this ottoman actually does well — and where it could leave you underwhelmed.

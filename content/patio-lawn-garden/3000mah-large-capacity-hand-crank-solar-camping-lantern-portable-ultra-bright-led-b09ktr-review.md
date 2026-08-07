@@ -1,4 +1,5 @@
 ---
+
 title: "3000mAh Large Capacity Hand Crank Solar Camping Lantern, Por"
 seo_title: "3000mAh Hand Crank Solar Camping Lantern Review (2026)"
 meta_description: "Honest review of the 3000mAh hand crank solar camping lantern: brightness, battery life, build quality, and who should buy it. Real pros and cons."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09KTRX42J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kw+Icsj5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three charging methods (solar, crank, USB) mean you're never truly stuck in the dark—even after multi-day outages"
   - "The 3000mAh battery delivers genuinely useful runtime; roughly 8-10 hours on low, which covers a full night of camping"
   - "Built-in USB output port lets it double as an emergency phone charger, not just a light source"
-cons:
+cons: 
   - "Solar panel is small and slow—expect a full day of direct sun for maybe 30-40% charge, not a full top-up"
   - "Hand crank is effective but noisy; 2-3 minutes of cranking gives only about 15-20 minutes of light on medium"
   - "Plastic housing feels sturdy enough for camping but not rugged enough for serious drops onto rock or concrete"
+
 ---
 
 The 3000mAh hand crank solar camping lantern sits in that crowded middle ground of emergency gear—stuff that promises a lot and often delivers little. This one, surprisingly, mostly delivers. With 225 Amazon ratings averaging 4.5 stars, it's not just another cheap Chinese lantern. It's a legitimately useful piece of emergency kit that's earned its place in my go-bag, and likely yours too.

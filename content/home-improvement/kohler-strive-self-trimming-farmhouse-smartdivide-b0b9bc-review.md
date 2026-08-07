@@ -1,4 +1,5 @@
 ---
+
 title: "KOHLER Strive Self-Trimming Farmhouse SmartDivide"
 seo_title: "KOHLER Strive Self-Trimming Farmhouse SmartDivide Review:"
 meta_description: "Our full kohler strive self-trimming farmhouse smartdivide review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B9BCPD1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NFVpQc9vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **KOHLER Strive Self-Trimming Farmhouse SmartDivide** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

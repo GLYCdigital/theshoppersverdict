@@ -1,4 +1,5 @@
 ---
+
 title: "OASISHOME Pop-up Gazebo Instant Portable Canopy Tent 10'x10'"
 seo_title: "OASISHOME Pop-up Gazebo Instant Portable Canopy Te Review"
 meta_description: "Our full oasishome pop-up gazebo instant portable canopy tent 10'x10' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CK6VDWCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pFkHjHtvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The OASISHOME Pop-up Gazebo: A Solid Shade Solution With a Few Edges

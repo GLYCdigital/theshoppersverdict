@@ -1,4 +1,5 @@
 ---
+
 title: "casaWare 3pc Ultimate Commercial Weight Cookie Sheet Set, Tw"
 seo_title: "casaWare Cookie Sheet Set Review: Commercial Weight, 3PC"
 meta_description: "casaWare 3pc cookie sheet set review: commercial-weight aluminum, warps less, heats evenly. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TZV3H73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HHlYkNOlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge aluminum (4.3mm thick) resists warping even at 450°F"
   - "Two 15x10 inch half-sheets plus one 13x9 quarter-sheet covers most baking needs"
   - "Reinforced rolled edges make gripping with oven mitts genuinely easy"
-cons:
+cons: 
   - "Not non-stick — you'll need parchment or a good greasing routine"
   - "Hand-wash only; the dishwasher will leave water spots and dull the finish"
+
 ---
 
 If you've ever watched a cookie sheet bow in the middle of a hot oven, you know the frustration of thin, cheap bakeware. The casaWare 3pc Ultimate Commercial Weight Cookie Sheet Set is the answer to that specific, maddening problem. These are not your average department-store sheets. They're thick, heavy, and built like something from a restaurant kitchen — because that's exactly what they're designed to be.

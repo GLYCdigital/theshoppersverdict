@@ -1,4 +1,5 @@
 ---
+
 title: "Thrustmaster TH8A Shifter for PS5, PS4, Xbox Series X|S, PC "
 seo_title: "Thrustmaster TH8A Shifter for PS5, PS4, Xbox Serie Review"
 meta_description: "Our full thrustmaster th8a shifter for ps5, ps4, xbox series x|s, pc  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B005L0Z2BQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YKlHkm8KL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Thrustmaster TH8A isn't just another plastic toy bolted to your rig. It's the shifter that separates "playing a racing game" from "simulating a race car." And with 229 Amazon ratings averaging 4.6 stars, the community has spoken — but let's dig into whether it deserves your money.

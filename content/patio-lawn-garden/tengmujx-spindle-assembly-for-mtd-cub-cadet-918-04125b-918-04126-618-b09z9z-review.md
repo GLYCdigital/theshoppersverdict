@@ -1,4 +1,5 @@
 ---
+
 title: "TENGMUJX Spindle Assembly for MTD/Cub Cadet 918-04125b 918-0"
 seo_title: "TENGMUJX Spindle Assembly for MTD/Cub Cadet 918-04 Review"
 meta_description: "Our full tengmujx spindle assembly for mtd/cub cadet 918-04125b 918-0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09Z9ZWN9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712VhtVme1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When your MTD or Cub Cadet mower starts making that metallic grinding sound and the deck vibrates like a paint shaker, you’ve got a spindle problem. The TENGMUJX replacement spindle assembly (part numbers 918-04125B and 918-04126) is what you’re looking at to fix it. Based on 210 ratings averaging 4.2 stars, it’s a solid aftermarket option — but there are some things you need to know before you pull the trigger.

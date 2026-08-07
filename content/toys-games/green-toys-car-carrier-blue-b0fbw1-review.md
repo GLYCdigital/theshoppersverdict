@@ -1,4 +1,5 @@
 ---
+
 title: "Green Toys Car Carrier, Blue"
 seo_title: "Green Toys Car Carrier Review: Is It Worth It? (2026)"
 meta_description: "Green Toys Car Carrier review: eco-friendly, durable, and toddler-approved. Read pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FBW1FV7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wAuGBRcCL._AC_SL1031_.jpg"
-pros:
+pros: 
   - "100% recycled plastic construction — no BPA, phthalates, or coatings, safe for mouthing toddlers"
   - "Ramps fold down flat for easy loading and the carrier holds up to 4 standard-size toy cars (sold separately)"
   - "Survives real abuse — multiple buyers report dropping, throwing, and outdoor use with zero cracks"
-cons:
+cons: 
   - "Cars are NOT included — a common complaint from buyers who assumed otherwise"
   - "Ramps don't lock into place; they stay down once folded, which limits play variety"
+
 ---
 
 You've seen the photos: a chunky blue hauler with two little cars perched on its decks. Cute, right? But here's what the product images don't tell you — the cars are sold separately. That's the single biggest point of confusion among the 240 Amazon ratings, and it's worth knowing before you click buy.

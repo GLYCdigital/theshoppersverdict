@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Office Classic Task Chair with Sturdy Steel Frame fo"
 seo_title: "CLATINA Office Task Chair Review: Steel Frame Value"
 meta_description: "CLATINA Office Classic Task Chair review: sturdy steel frame, ergonomic mesh back, 4.0 rating. Is it worth it for home offices? Find out in our honest take."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BBW2NQV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zwkCKKtcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Steel frame rated for 300+ lbs with a 5-year warranty on the pneumatic lift mechanism"
   - "Breathable mesh back that actually keeps you cool during 8-hour work sessions"
   - "Tool-free assembly in under 15 minutes — no wrestling with allen keys and washers"
-cons:
+cons: 
   - "Seat cushion runs firm — not plush, so heavier users may feel the base after hour three"
   - "Armrests only adjust vertically, no width or angle tweaking for broader shoulders"
+
 ---
 
 Let’s skip the fluff: if you’re hunting for a sub-$150 task chair that won’t collapse by Christmas, the CLATINA Office Classic deserves a serious look. But “deserves a look” and “buy it blindly” are different things — here’s the real breakdown.

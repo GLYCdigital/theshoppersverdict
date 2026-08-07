@@ -1,15 +1,16 @@
 ---
+
 title: "Gerber Gear EAB Lite Pocket Razor Knife with Money Clip - EDC Gear Folding Stainless Steel Utility Knife with Box Cutter Blade for Everyday Carry"
 seo_title: "Gerber Gear EAB Lite Pocket Razor Knife with Money Review"
 meta_description: "Honest gerber gear eab lite pocket razor knife  review based on 16,357+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "gerber-gear-eab-lite-pocket-razor-knife-with-money-clip-edc-gear-review"
 image_alt: "Gerber Gear EAB Lite Pocket Razor Knife with Money Clip - EDC Gear Folding Stainless Steel Utility Knife with Box Cutter"
-keywords:
+keywords: 
   - "gerber gear eab review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What is the size of the Gerber Gear EAB Lite Pocket?"
     answer: "Yes — well-proportioned. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Is the Gerber Gear EAB Lite Pocket well-made?"
@@ -22,13 +23,14 @@ review_count: 16357
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002RILCLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QmUIkoLEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact and space-efficient"
   - "Solid build quality that holds up"
   - "Clean and practical design"
-cons:
+cons: 
   - "Some durability concerns over time"
   - "Customer Service"
+
 ---
 
 If you're shopping for a tool or home improvement product, you've probably noticed the Gerber Gear EAB Lite Pocket Razor.... After combing through 16,357 Amazon customer reviews, one thing is clear: reviewers consistently highlight its well-proportioned, space-conscious design as a key strength.

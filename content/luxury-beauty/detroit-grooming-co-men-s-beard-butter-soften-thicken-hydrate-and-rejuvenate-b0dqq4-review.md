@@ -1,4 +1,5 @@
 ---
+
 title: "Detroit Grooming Co. Men's Beard Butter - Soften, Thicken, H"
 seo_title: "Detroit Grooming Co. Beard Butter Review (2026): Worth It?"
 meta_description: "Honest Detroit Grooming Co. beard butter review: softening power, scent, and value. See if this luxury balm beats cheaper alternatives."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQQ4PB5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wNo3mwyHL._SL1500_.jpg"
-pros:
+pros: 
   - "Fast-absorbing formula that softens coarse beard hair within 10-15 minutes without greasy residue"
   - "Distinctive, masculine scent (notes of cedar and sandalwood) that lasts 4-6 hours but fades before clashing with cologne"
   - "Small-batch manufacturing visible in consistent texture — no separation or graininess across multiple jars"
-cons:
+cons: 
   - "At roughly $18-22 per 2oz tin, price per ounce runs 30-50% higher than comparable drugstore beard balms"
   - "Scent strength is polarizing — several reviewers report it's stronger than expected, which may overwhelm sensitive noses"
   - "Tin packaging is sturdy but the lid can be stubborn to open, especially with product residue on fingers"
+
 ---
 
 # Detroit Grooming Co. Beard Butter: The Working Man's Luxury?

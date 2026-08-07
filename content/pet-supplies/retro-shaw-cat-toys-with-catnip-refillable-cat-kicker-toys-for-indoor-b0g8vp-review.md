@@ -1,4 +1,5 @@
 ---
+
 title: "Retro Shaw Cat Toys with Catnip, Refillable Cat Kicker Toys "
 seo_title: "Retro Shaw Cat Toys with Catnip, Refillable Cat Ki Review"
 meta_description: "Our full retro shaw cat toys with catnip, refillable cat kicker toys  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G8VP8KN9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pQdVvOouL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: most cat toys are landfill fodder within three weeks. The Retro Shaw Cat Toys with Catnip earn their keep because they solve the single dumbest problem in the pet aisle — you shouldn't have to rebuy a whole toy just because the catnip went stale.

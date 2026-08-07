@@ -1,7 +1,8 @@
 ---
-title: "Pro Boat Super Sonicwake RC Boat 48\" 8S Self Righting BL RTR"
-seo_title: "Pro Boat Super Sonicwake RC Boat 48\" 8S Self Right Review"
-meta_description: "Our full pro boat super sonicwake rc boat 48\" 8s self righting bl rtr review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Pro Boat Super Sonicwake RC Boat 48\ 8S Self Righting BL RTR"
+seo_title: "Pro Boat Super Sonicwake RC Boat 48\ 8S Self Right Review"
+meta_description: "Our full pro boat super sonicwake rc boat 48\ 8s self righting bl rtr review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pro-boat-super-sonicwake-rc-boat-48-8s-self-righting-bl-rtr-b0dck8-review"
 image_alt: "Pro Boat Super Sonicwake RC Boat 48 8S Self Righting BL RTR Battery and Charger Not Included PRB08052"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DCK8TK5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610p6cjHSRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Pro Boat Super Sonicwake the 48-Inch Speed Monster You've Been Waiting For?

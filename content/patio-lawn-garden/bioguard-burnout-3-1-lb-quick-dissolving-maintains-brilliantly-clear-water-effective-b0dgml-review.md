@@ -1,4 +1,5 @@
 ---
+
 title: "BioGuard Burnout 3, 1 lb, Quick Dissolving, Maintains Brilli"
 seo_title: "BioGuard Burnout 3 Review: Quick Dissolving Pool Shock"
 meta_description: "BioGuard Burnout 3 review: 1 lb quick-dissolving pool shock. Real buyer feedback on clarity, algae control, and value. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DGML211K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-UVKlxNjL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Dissolves in roughly 5 minutes with no clouding or residue, even in cold water"
   - "1 lb dose treats 10,000 gallons effectively — one container is a full shock treatment"
   - "No chlorine stabilizer (cyanuric acid), so it won't artificially inflate your CYA levels"
-cons:
+cons: 
   - "1 lb container is single-use for most pools — frequent shockers will need to stock up"
   - "Not a slow-dissolve tablet; requires pre-dissolving in a bucket for plaster/gunite pools"
+
 ---
 
 **BioGuard Burnout 3 Review: The Quick-Dissolving Shock That Won't Mess With Your CYA**

@@ -1,4 +1,5 @@
 ---
+
 title: "Furniliving Modern Accent Chair Velvet Comfy Lounge Chairs f"
 seo_title: "Furniliving Modern Accent Chair Review: Velvet Comfort, 4.6 Stars"
 meta_description: "Furniliving velvet accent chair review: plush comfort, sturdy build, easy assembly. See pros, cons, and who should buy this 4.6-star lounge chair."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8N77FVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jQgmAwnNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-density foam cushioning with a deep, supportive seat that holds shape through daily use"
   - "Velvet upholstery feels premium and resists shedding — easy to vacuum and spot-clean"
   - "Tool-free assembly in under 10 minutes; pre-drilled legs screw in by hand"
-cons:
+cons: 
   - "Velvet shows light pressure marks and water spots easily — keep it away from direct sunlight and spills"
   - Compact dimensions (roughly 30 inch "H x 27 inch "W x 26 inch "D) won't suit taller or larger-framed users for long lounging sessions
+
 ---
 
 **Opening: The accent chair that actually earns its corner**

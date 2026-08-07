@@ -1,4 +1,5 @@
 ---
+
 title: "Slow Cooker Liners"
 seo_title: "Slow Cooker Liners Review: Verdict | TSV"
 meta_description: "Our full slow cooker liners review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0C38QHRYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gbhq7CgkL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what a slow cooker liner actually is: a thin plastic bag that promises to turn your least favorite chore—scrubbing dried chili off a ceramic insert—into a non-event. The concept is simple. The execution, as with most kitchen shortcuts, has a few wrinkles.

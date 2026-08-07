@@ -1,4 +1,5 @@
 ---
+
 title: "SQEQE Weighted Plush, Weighted Stuffed Animals, Weighted Plu"
 seo_title: "SQEQE Weighted Plush, Weighted Stuffed Animals, We Review"
 meta_description: "Our full sqeqe weighted plush, weighted stuffed animals, weighted plu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7RJ79DL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BLMxn9DjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The weighted blanket craze swept through, and now we’ve got weighted stuffed animals. The SQEQE Weighted Plush sits in a crowded category with a 4.4-star average across 220 ratings — solid, but not perfect. I’ve tested enough of these to tell you exactly where it lands and, more importantly, who should actually buy it.

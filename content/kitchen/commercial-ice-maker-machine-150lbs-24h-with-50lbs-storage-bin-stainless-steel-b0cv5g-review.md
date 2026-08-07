@@ -1,24 +1,26 @@
 ---
+
 title: "Commercial Ice Maker Machine 150LBS/24H with 50LBS Storage B"
 seo_title: "Commercial Ice Maker Machine 150LBS/24H Review (2026)"
 meta_description: "Honest review of the Commercial Ice Maker Machine 150LBS/24H with 50LBS storage bin. See pros, cons, and who should buy it before you spend."
 slug: "commercial-ice-maker-machine-150lbs-24h-with-50lbs-storage-bin-stainless-steel-b0cv5g-review"
 image_alt: "Stainless steel commercial ice maker machine with 50-pound storage bin and control panel"
-verdict_score: 3.3  
-date: 2026-08-06  
-price: null  
-review_count: 165  
-amazon_rating: 3.3  
+verdict_score: 3.3
+date: 2026-08-06
+price: null
+review_count: 165
+amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0CV5GRB7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zG3dP45vL._SL1500_.jpg"
-pros:  
+pros: 
   - "Produces up to 150 lbs of ice per day — genuinely fast for a countertop unit"  
   - "50-lb storage bin is large enough for busy kitchens or parties"  
   - "Self-cleaning cycle and removable bin make maintenance less of a chore"  
-cons:  
+cons: 
   - "Noisy — several buyers report it sounds like a small engine idling"  
   - "Reliability is spotty; multiple owners describe failures within 6 months"  
   - Bulky footprint (approx. 17"W x 15"D x 33"H) needs dedicated counter space
+
 ---
 
 # Commercial Ice Maker Machine 150LBS/24H with 50LBS Storage Bin: A Hard Look Before You Buy  

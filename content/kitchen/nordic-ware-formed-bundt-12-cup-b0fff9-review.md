@@ -1,4 +1,5 @@
 ---
+
 title: "Nordic Ware Formed Bundt, 12 Cup"
 seo_title: "Nordic Ware Formed Bundt, 12 Cup Review: Verdict | TSV"
 meta_description: "Our full nordic ware formed bundt, 12 cup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FFF959G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31DLpa4bvwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a kitchen product, the **Nordic Ware Formed Bundt, 12 Cup** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

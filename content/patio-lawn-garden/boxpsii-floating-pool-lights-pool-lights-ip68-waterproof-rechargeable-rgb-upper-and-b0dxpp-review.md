@@ -1,4 +1,5 @@
 ---
+
 title: "BOXPSII Floating Pool Lights, Pool Lights IP68 Waterproof, R"
 seo_title: "BOXPSII Floating Pool Lights Review: Honest IP68 Test"
 meta_description: "Our BOXPSII floating pool lights review covers IP68 waterproofing, RGB color modes, battery life, and real buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXPPFKL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c7MIIIecL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True IP68 rating — submersible and float-ready; survives chlorinated and saltwater pools"
   - "Rechargeable battery with 8–10 hour runtime per charge, enough for full evening use"
   - "Remote control included with 16 solid colors plus multiple flash/fade modes"
-cons:
+cons: 
   - "Charging takes 4–5 hours, so you can't quick-charge between back-to-back parties"
   - "Remote range drops to about 10–15 feet underwater; must operate before placing in pool"
   - "No auto-on/off sensor — you'll manually switch them on each time"
+
 ---
 
 So you've got a pool, and you've realized the built-in lighting is either nonexistent or about as exciting as a parking lot. The BOXPSII Floating Pool Lights are the kind of product that promises to turn your backyard into a resort with zero hardwiring. At 4.4 stars from 220 ratings, they're not perfect — but they're close enough that most buyers are genuinely impressed.

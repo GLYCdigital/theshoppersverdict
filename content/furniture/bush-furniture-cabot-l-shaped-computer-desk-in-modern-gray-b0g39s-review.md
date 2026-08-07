@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Furniture Cabot L Shaped Computer Desk in Modern Gray"
 seo_title: "Bush Furniture Cabot L Shaped Desk Review (2026): Worth It?"
 meta_description: "Honest Bush Furniture Cabot L Shaped Computer Desk review: build quality, assembly pain points, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G39SZG5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JgH1qB-yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious 60W x 60L footprint gives genuine dual-monitor workspace without dominating a room"
   - "Modern Gray laminate resists fingerprints and wipes clean easily, unlike cheaper matte finishes"
   - "Cable management ports and a lower CPU shelf keep the setup looking intentional, not chaotic"
-cons:
+cons: 
   - "Particle board construction means edge chipping if you overtighten screws during assembly"
   - "Rear corner panel is open, so visible cable clutter if you don't use the included management features"
   - "Assembly is a 2-hour project — budget for it, and bring a second person for panel alignment"
+
 ---
 
 Let's be direct about the Bush Furniture Cabot L Shaped Computer Desk: it's not heirloom furniture, and it doesn't pretend to be. What it *is* is one of the most practical corner desks you can buy under $300, and at 4.4 stars across 220 Amazon ratings, the consensus is clear — this desk nails the "home office without the home office budget" brief.

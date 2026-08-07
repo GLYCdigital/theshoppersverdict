@@ -1,4 +1,5 @@
 ---
+
 title: "DERAYSION 12 Pack Solar Lights Outdoor, Solar Pathway Lights"
 seo_title: "DERAYSION Solar Lights Review: 12-Pack Pathway Tested"
 meta_description: "Honest DERAYSION 12-pack solar pathway lights review: brightness, battery life, durability, and real buyer feedback. See if they're worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDWCGVXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717a9J6+gZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm 3000K light output avoids the harsh blue-white glare most budget solar lights emit"
   - "Die-cast aluminum housing with IP65 waterproof rating handles rain, snow, and direct sun without warping"
   - "Auto on/off sensor actually works reliably — lights activate at dusk and shut down at dawn without flicker"
-cons:
+cons: 
   - "Battery capacity (600mAh) yields roughly 6-8 hours of runtime in winter — less than the advertised 10-12 hours"
   - "Ground stakes are plastic and can crack if you hammer them into hard, compacted soil"
+
 ---
 
 Solar lights are a crowded category, and most of what you find under $40 for a 12-pack is cheap plastic with fairy-light output. The DERAYSION 12-pack sits at a different tier — and the 4.4-star average across 220 ratings suggests I'm not the only one noticing.

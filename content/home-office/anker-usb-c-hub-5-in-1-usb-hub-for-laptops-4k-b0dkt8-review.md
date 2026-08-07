@@ -1,4 +1,5 @@
 ---
+
 title: "Anker USB C Hub, 5-in-1 USB Hub for Laptops, 4K HDMI USB-C M"
 seo_title: "Anker 5-in-1 USB C Hub Review: 4K HDMI & 4K USB-C — Worth It?"
 meta_description: "Anker 5-in-1 USB C Hub review: 4K HDMI, 4K USB-C, 2 USB-A ports. Compact aluminum build. Real buyer feedback. Is it worth it for your laptop?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKT8BB4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DgdWWooDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual 4K output (HDMI + USB-C) lets you run two external monitors simultaneously — rare at this price point"
   - "Aluminum housing stays cool under sustained load, unlike plastic hubs that throttle or overheat"
   - "Compact 2.8-ounce footprint travels flat in a laptop sleeve without snagging the cable"
-cons:
+cons: 
   - "No USB-C power delivery port — the 5-in-1 design means you're giving up passthrough charging"
   - "USB-A ports cap at 5Gbps (USB 3.0), not the 10Gbps you'd get on pricier 10-in-1 docks"
+
 ---
 
 The 5-in-1 Anker USB-C hub is the rare accessory that actually earns its spot in your bag. If you've ever wrestled with a dongle that gets hot enough to fry eggs or drops your display signal mid-presentation, this compact aluminum block is the antidote. Here's the honest breakdown after digging through specs and what 229 buyers are saying at a 4.6-star average.

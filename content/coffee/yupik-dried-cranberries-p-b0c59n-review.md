@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Dried Cranberries_P"
 seo_title: "Yupik Dried Cranberries_P Review: Verdict | TSV"
 meta_description: "Our full yupik dried cranberries_p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C59NQZ5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716oyl0PXOL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most dried cranberries on Amazon are either rock-hard, overly sugared, or taste like cardboard. The Yupik 1kg bag sits at 4.6 stars across 229 ratings, which in the dried fruit category is genuinely rare. Here's whether it deserves your money.

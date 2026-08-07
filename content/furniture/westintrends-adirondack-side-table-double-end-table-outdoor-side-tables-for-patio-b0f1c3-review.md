@@ -1,4 +1,5 @@
 ---
+
 title: "WestinTrends Adirondack Side Table Double End Table, Outdoor"
 seo_title: "WestinTrends Adirondack Side Table Double End Tabl Review"
 meta_description: "Our full westintrends adirondack side table double end table, outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F1C3RYWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zLp02EUWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some outdoor furniture is built to be seen. This Westintrends Adirondack side table is built to be **used** — and that distinction matters more than you'd think.

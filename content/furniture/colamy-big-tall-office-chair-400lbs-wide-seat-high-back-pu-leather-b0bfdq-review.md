@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Big & Tall Office Chair 400lbs Wide Seat- High Back P"
 seo_title: "COLAMY Big & Tall Office Chair Review: 400lbs Tested (2026)"
 meta_description: "COLAMY Big & Tall office chair 400lbs capacity review: wide seat, high back, PU leather. Real buyer feedback, durability concerns, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BFDQTRKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o09DxRbzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 400lb weight capacity with reinforced steel frame and heavy-duty gas lift — not marketing fluff"
   - "22-inch wide seat and 21-inch deep cushion actually fit larger frames, unlike most 'big and tall' chairs that only widen the arms"
   - "Assembles in under 30 minutes with clearly labeled parts and an included hex wrench — no special tools needed"
-cons:
+cons: 
   - "PU leather upholstery can peel within 6-12 months in humid climates or with daily 8+ hour use — several long-term reviewers report this"
   - "Seat cushion is firm; if you prefer plush padding, you'll want a separate gel seat pad"
   - Armrests are fixed-height with only 2D adjustment (up/down and swivel), not full 4D — tall users over 6'4 inch " may find them slightly low
+
 ---
 
 If you're over 250 pounds, you know the drill: every "big and tall" chair on Amazon claims to support you, then the gas lift fails at month three or the seat feels like a park bench. The COLAMY Big & Tall Office Chair is one of the few that actually delivers on its 400-pound promise — but it's not without tradeoffs. Here's the honest breakdown after digging through 215 ratings and owner experiences.

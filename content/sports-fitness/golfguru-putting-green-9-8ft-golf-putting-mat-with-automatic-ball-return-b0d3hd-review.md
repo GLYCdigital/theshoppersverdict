@@ -1,4 +1,5 @@
 ---
+
 title: "Golfguru Putting Green, 9.8ft Golf Putting Mat with Automati"
 seo_title: "Golfguru Putting Green, 9.8ft Golf Putting Mat wit Review"
 meta_description: "Our full golfguru putting green, 9.8ft golf putting mat with automati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3HDX19M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oAz7ixkQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Golfguru 9.8ft Putting Mat is the rare practice tool that makes you want to putt another 50 balls when you said "just 10 more."**

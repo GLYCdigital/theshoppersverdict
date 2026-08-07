@@ -1,4 +1,5 @@
 ---
+
 title: "ZMISHIBO 18 Inch Socket Fan Light with Remote, 6 Speed 3 Col"
 seo_title: "ZMISHIBO 18 Inch Socket Fan Light with Remote, 6 S Review"
 meta_description: "Our full zmishibo 18 inch socket fan light with remote, 6 speed 3 col review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLVSYWGJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YCyXU0qfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a ceiling light socket that's doing nothing but holding a bare bulb, the ZMISHIBO 18-inch socket fan light is one of the smartest upgrades you can make without calling an electrician. This thing screws in like a lightbulb, gives you a real fan, and adds a dimmable LED light with three color temperatures. For under a hundred bucks, that's a lot of function.

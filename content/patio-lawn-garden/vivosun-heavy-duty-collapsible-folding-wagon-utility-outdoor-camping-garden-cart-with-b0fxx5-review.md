@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOSUN Heavy Duty Collapsible Folding Wagon Utility Outdoor"
 seo_title: "VIVOSUN Heavy Duty Collapsible Folding Wagon Utili Review"
 meta_description: "Our full vivosun heavy duty collapsible folding wagon utility outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXX5YJ83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZGJA4UWzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The VIVOSUN Heavy Duty Collapsible Folding Wagon is the kind of product that makes you wonder why you ever carried things by hand. With a 4.6-star average across 229 ratings, it's clearly earning its keep in driveways, campsites, and community gardens. But is it the right wagon for your specific hauling needs? Let's break down what you're actually getting.

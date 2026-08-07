@@ -1,4 +1,5 @@
 ---
+
 title: "Portable Car Cleaning Tools"
 seo_title: "Portable Car Cleaning Tools Review: Verdict | TSV"
 meta_description: "Our full portable car cleaning tools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GR6RRFWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RnBSnrHnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about car cleaning kits: most are either too cheap to trust or too expensive to justify. This 14-piece portable set sits in a sweet spot that 200 Amazon buyers have rated at 4.0 stars — and after digging through the feedback, I understand why.

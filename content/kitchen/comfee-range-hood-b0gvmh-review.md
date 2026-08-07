@@ -1,4 +1,5 @@
 ---
+
 title: "COMFEE' Range Hood"
 seo_title: "COMFEE' Range Hood Review: Honest Buyer's Guide (2026)"
 meta_description: "COMFEE' range hood review: real performance data, noise levels, install tips, and buyer complaints. See if this 4.2-star vent is worth your kitchen."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVMH7B5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Ductless and ducted installation options in one unit — works in apartments and homes alike"
   - "Stainless steel body resists fingerprints better than most budget hoods in this price range"
   - "Three-speed motor with memory function that remembers your last setting after power loss"
-cons:
+cons: 
   - "Filter is not dishwasher-safe despite what some listings claim — hand wash only or it warps"
   - "Light output is modest at best — fine for ambient glow, insufficient for serious cooking prep"
   - "Installation instructions are sparse; plan on a second person and a stud finder for the ducted setup"
+
 ---
 
 # COMFEE' Range Hood Review: Does This Budget Vent Actually Clear Smoke?

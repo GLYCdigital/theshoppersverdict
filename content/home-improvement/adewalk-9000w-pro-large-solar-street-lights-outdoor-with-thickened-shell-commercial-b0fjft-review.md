@@ -1,4 +1,5 @@
 ---
+
 title: "Adewalk 9000W Pro Large Solar Street Lights Outdoor with Thi"
 seo_title: "Adewalk 9000W Pro Solar Street Light Review (2026)"
 meta_description: "Honest Adewalk 9000W Pro solar street light review: brightness, battery life, build quality, and real buyer feedback. Is it worth it for large areas?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJFTNB45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZmxT21K-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely massive light output — 9000W equivalent LEDs with ~9000 lumens can illuminate a 2000+ sq ft area without dark corners"
   - "Thickened die-cast aluminum shell and IP66 rating hold up in heavy rain and high heat, based on multiple 6+ month owner reports"
   - "Remote control with 3 color temps (3000K/4500K/6500K) and adjustable timer modes gives real flexibility for security vs. ambiance"
-cons:
+cons: 
   - "Battery capacity (typically 30-40Ah) only delivers 8-10 hours on max brightness — winter or overcast days will cut that significantly"
   - "Mounting bracket feels less robust than the housing; several users report needing to reinforce the bolts for high-wind areas"
+
 ---
 
 **The Shopper's Verdict: Adewalk 9000W Pro Solar Street Light Review**

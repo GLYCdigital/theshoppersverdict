@@ -1,24 +1,26 @@
 ---
+
 title: "Acer Nitro 23.8 Inch Full HD 1920 x 1080 ZeroFrame Design IP"
 seo_title: "Acer Nitro 23.8 Inch FHD Monitor Review: ZeroFrame IPS Value"
 meta_description: "Acer Nitro 23.8-inch FHD ZeroFrame IPS monitor reviewed: crisp colors, thin bezels, 100Hz refresh. See pros, cons, and who should buy it."
 slug: "acer-nitro-23-8-inch-full-hd-1920-x-1080-zeroframe-design-b0dt1h-review"
 image_alt: "Acer Nitro 23.8-inch ZeroFrame IPS monitor on a desk showing vibrant FHD display"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT1HS4N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n4GQUY17L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "ZeroFrame bezels make it feel larger than 23.8 inches — great for multi-monitor setups"  
   - "100Hz refresh rate (not the usual 60Hz) at this price point is a genuine upgrade"  
   - "IPS panel delivers consistent colors from wide viewing angles — no washing out"  
-cons:  
+cons: 
   - "No height adjustment on the stand — you'll likely need a VESA arm for ergonomic comfort"  
   - "Speakers are weak (2W) — fine for alerts, not for media or calls"  
   - "Only one HDMI port, so cable management gets tight with multiple devices"
+
 ---
 
 **The 23.8-inch sweet spot just got a refresh-rate boost — but the stand might test your patience.**

@@ -1,4 +1,5 @@
 ---
+
 title: "APONUO Solar Post Cap Lights, 2-Modes Bright 4x4 Auto On/Off"
 seo_title: "APONUO Solar Post Cap Lights Review: 2-Mode 4x4 Deck Lights"
 meta_description: "Honest APONUO solar post cap lights review: 2 brightness modes, auto on/off, real battery life, and whether these 4x4 caps are worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CHP1SB7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HEcmJgYVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two distinct brightness modes (steady bright vs. dimmer extended) let you choose between max illumination or longer runtime"
   - "True 4x4 fit with a snug friction-fit base that doesn't require screws or adhesive"
   - "IP65 weatherproofing holds up through rain, snow, and direct sun exposure"
-cons:
+cons: 
   - "Battery capacity is modest (600mAh) — expect 4-6 hours on bright mode, not the advertised 8-10 in real conditions"
   - "Solar panel output drops noticeably in winter or shaded placements, so runtime varies significantly by location"
   - "Plastic housing feels lighter than premium aluminum caps — fine for the price, but not a heirloom-grade fixture"
+
 ---
 
 If you're staring at bare 4x4 post tops on a deck, fence, or porch, you already know the problem: they're dark, boring, and a tripping hazard at night. The APONUO Solar Post Cap Lights aim to fix that with a simple drop-on design, two brightness modes, and zero wiring. At 4.3 stars across 215 ratings, they're clearly working for a lot of people. But are they the right cap lights for your setup? Let's get into the specifics.

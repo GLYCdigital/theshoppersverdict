@@ -1,4 +1,5 @@
 ---
+
 title: "AAA 90036 Horizontal Triplex Plunger Replacement Pressure Wa"
 seo_title: "AAA 90036 Pressure Washer Pump Review: Worth It? (2026)"
 meta_description: "Is the AAA 90036 triplex plunger pump worth your money? Read our honest 4.2/5 review covering build quality, fitment, and real-world performance."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00TQLMNLI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JevWBcB6S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct bolt-on replacement for common Honda GX160/GX200 and Predator 212 engines with 3/4-inch keyed shafts"
   - "Solid brass pump head with stainless steel plungers resists corrosion far better than aluminum alternatives"
   - "Genuine 3200 PSI rating at 2.5 GPM — not an inflated spec like many budget pumps"
-cons:
+cons: 
   - "No thermal relief valve — you must run water through it within 60 seconds or risk internal damage"
   - "Inlet and outlet ports use metric threads; adapter fittings sold separately add $15–25 to total cost"
   - "Intermittent quality control — a handful of buyers report leaking seals out of the box"
+
 ---
 
 If your pressure washer pump just gave up mid-deck-cleaning, you're staring at a $200–400 repair bill for a machine that cost $300 new. The AAA 90036 horizontal triplex pump sidesteps that trap entirely. This is the component that resurrects dead pressure washers — and with 220 ratings averaging 4.4 stars, it's the most-discussed replacement pump in the budget tier. Here's what you actually need to know before clicking buy.

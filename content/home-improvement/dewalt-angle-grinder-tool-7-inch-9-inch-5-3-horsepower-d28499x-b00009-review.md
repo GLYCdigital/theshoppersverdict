@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Angle Grinder Tool, 7-Inch/9-Inch, 5.3-Horsepower (D28499X)"
 seo_title: "DEWALT 7/9-Inch Angle Grinder Review: D28499X Power Tested"
 meta_description: "DEWALT D28499X 7/9-inch angle grinder review: 5.3 HP, 6000 RPM cutting power tested. Real buyer feedback, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00009YUHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zotWPSjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5.3 HP motor delivers 6,000 RPM under load — cuts through 1/2-inch steel plate without bogging down"
   - "Tool-free adjustable guard with 360-degree rotation and detent positioning for fast work angle changes"
   - "Accepts both 7-inch and 9-inch wheels — one tool covers two size classes"
-cons:
+cons: 
   - "Weighs 12.5 pounds — genuinely heavy for overhead grinding; you'll feel it after 20 minutes"
   - "Requires 15-amp circuit and heavy-duty extension cord; standard household circuits may trip"
   - "No brake or electronic speed control — wheel keeps spinning for several seconds after trigger release"
+
 ---
 
 If you're shopping for a serious metal-fabrication grinder, the DEWALT D28499X is the tool you'll see on professional job sites. This isn't the 4.5-inch palm grinder you grab for weekend projects — it's a 12.5-pound brute designed for cutting thick steel, notching structural beams, and prepping heavy welds. The 4.3-star rating across 215 reviews reflects a tool that pros respect, even if a few quirks keep it from perfection.

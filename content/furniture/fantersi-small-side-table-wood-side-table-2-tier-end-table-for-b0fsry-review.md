@@ -1,4 +1,5 @@
 ---
+
 title: "FANTERSI Small Side Table, Wood Side Table 2-Tier, End Table"
 seo_title: "FANTERSI 2-Tier Wood Side Table Review (2026): Worth It?"
 meta_description: "Honest FANTERSI small side table review: 2-tier wood end table build quality, real dimensions, assembly ease, and who should buy it. 4.5-star rated."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSRYTC9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CvH++ndKL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Two-tier design actually useful — lower shelf holds real items, not just decorative"
   - "Wood construction with clean finish that doesn't look or feel like cheap particleboard"
   - "Assembly takes under 10 minutes with included hex wrench, no power tools needed"
-cons:
+cons: 
   - "Compact footprint means it won't fit large lamps or oversized mugs comfortably"
   - "No edge guard on lower shelf — small items can slide off if bumped"
+
 ---
 
 Let's be blunt: most side tables under $50 are disposable junk that wobble, scratch, and look like they came from a dollar store. The FANTERSI 2-Tier Wood Side Table sits in a slightly better category — and for most buyers, it's genuinely worth the space.

@@ -1,4 +1,5 @@
 ---
+
 title: "PetSafe Never Rust Wall Entry Pet Doors"
 seo_title: "PetSafe Never Rust Wall Entry Pet Doors Review: Verdict |"
 meta_description: "Our full petsafe never rust wall entry pet doors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9MHQ27Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sPQHWqNRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of replacing flimsy plastic pet doors every 18 months, the PetSafe Never Rust Wall Entry is the last one you'll likely buy. This is the heavy-duty option that actually lives up to its name, but it comes with an installation caveat you need to understand before committing.

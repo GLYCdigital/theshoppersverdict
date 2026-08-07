@@ -1,4 +1,5 @@
 ---
+
 title: "Townley Girl Beauty Mini Train Case Set Includes Lip Gloss T"
 seo_title: "Townley Girl Beauty Mini Train Case Set Includes L Review"
 meta_description: "Our full townley girl beauty mini train case set includes lip gloss t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FMFHTV6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QrGuXRzhL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: most kids' beauty sets are landfill fodder wrapped in pink plastic. The Townley Girl Beauty Mini Train Case is not that. With 229 ratings holding a 4.6-star average, this one earns its keep — but it's not without a quirk or two.

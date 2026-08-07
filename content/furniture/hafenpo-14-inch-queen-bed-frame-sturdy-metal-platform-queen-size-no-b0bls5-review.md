@@ -1,4 +1,5 @@
 ---
+
 title: "Hafenpo 14 Inch Queen Bed Frame - Sturdy Metal Platform Quee"
 seo_title: "Hafenpo 14 Inch Queen Bed Frame Review: Sturdy Metal Platform"
 meta_description: "Hafenpo 14 inch queen bed frame review: Is this metal platform bed worth it? We analyze sturdiness, assembly, and real customer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLS5PSJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W2Z9VkoeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14-inch under-bed clearance fits standard storage bins, maximizing small bedroom space"
   - "13 wooden slats plus 9 legs (including 5 center supports) eliminate the need for a box spring"
   - "Tool-free assembly with interlocking hooks — most buyers report under 15 minutes to set up"
-cons:
+cons: 
   - "No headboard attachment points — you cannot add one later without DIY modification"
   - "Slats are spaced 3 inches apart, which may not suit mattresses with very soft foam cores"
+
 ---
 
 At 4.6 stars across 229 ratings, the Hafenpo 14-inch queen platform bed frame has clearly found an audience. But what does that rating actually mean for your bedroom? Let's cut through the noise.

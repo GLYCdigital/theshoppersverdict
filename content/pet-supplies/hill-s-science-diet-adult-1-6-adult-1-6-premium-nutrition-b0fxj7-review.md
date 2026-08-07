@@ -1,4 +1,5 @@
 ---
+
 title: "Hill's Science Diet Adult 1-6, Adult 1-6 Premium Nutrition, "
 seo_title: "Hill's Science Diet Adult 1-6, Adult 1-6 Premium N Review"
 meta_description: "Our full hill's science diet adult 1-6, adult 1-6 premium nutrition,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXJ7NMPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iZeuouS6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hill's Science Diet Adult 1-6 Premium Nutrition: The Vet-Recommended Kibble That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS TUF Gaming VG279QM 27â€"
 seo_title: "ASUS TUF VG279QM Review: 280Hz Gaming Monitor Worth It?"
 meta_description: "ASUS TUF VG279QM 27-inch 280Hz monitor review: Fast IPS, ELMB sync, but stiff stand. Is it right for esports or work? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJFQWQ12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K3gAcUA-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "280Hz refresh rate with Fast IPS panel delivers genuinely smooth motion, especially in esports titles"
   - "ELMB Sync eliminates ghosting without the brightness penalty most blur-reduction modes suffer from"
   - "Excellent color accuracy out of the box (95% DCI-P3) with factory calibration that holds up for photo work"
-cons:
+cons: 
   - "Stand is a wobble-prone disappointment — the base flexes noticeably at 280Hz; plan on a VESA arm"
   - "HDR 400 is a checkbox feature, not a real HDR experience; stick to SDR content for best results"
+
 ---
 
 The 280Hz refresh rate is the headline, but here’s what nobody tells you about the ASUS TUF Gaming VG279QM: it’s not just a gaming monitor. The Fast IPS panel pushes 95% DCI-P3 coverage with factory calibration that actually holds up in photo editing. But the stand? It’s the weakest link in an otherwise solid package. Let me break down what you’re really getting for your money.

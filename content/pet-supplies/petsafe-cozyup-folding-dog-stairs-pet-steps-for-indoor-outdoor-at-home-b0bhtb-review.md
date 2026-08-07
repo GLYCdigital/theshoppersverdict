@@ -1,4 +1,5 @@
 ---
+
 title: "PetSafe CozyUp Folding Dog Stairs - Pet Steps for Indoor/Out"
 seo_title: "PetSafe CozyUp Folding Dog Stairs - Pet Steps for  Review"
 meta_description: "Our full petsafe cozyup folding dog stairs - pet steps for indoor/out review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHTBS5RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AmJtTx-NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has started hesitating before jumping onto the bed, you already know the problem. The PetSafe CozyUp Folding Dog Stairs is one of the more popular fixes on Amazon — sitting at a solid 4.2 out of 5 from 210 ratings — but the real question is whether it earns the spot next to your mattress. Here's what 210 buyers and I have to say.

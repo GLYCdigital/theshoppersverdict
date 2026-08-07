@@ -1,4 +1,5 @@
 ---
+
 title: "Jelly Belly SUGAR_CANDY"
 seo_title: "Jelly Belly SUGAR_CANDY Review: Verdict | TSV"
 meta_description: "Our full jelly belly sugar_candy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNSF36YL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/917RX8iifxL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: a coffee maker named after a candy brand raises eyebrows. But the Jelly Belly SUGAR_CANDY isn't a gimmick — it's a surprisingly competent drip machine that earned its 4.6-star rating from 229 buyers. I tested it for two weeks, and here's what actually matters.

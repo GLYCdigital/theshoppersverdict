@@ -1,23 +1,25 @@
 ---
+
 title: "63XL Ink Cartridges Black and Color Combo Pack Replacement f"
 seo_title: "63XL Ink Cartridges Combo Pack Review: Worth It? (2026)"
 meta_description: "Honest 63XL ink cartridge combo pack review: print quality, page yield, compatibility, and real buyer feedback. Is this HP 63 replacement worth your money?"
 slug: "63xl-ink-cartridges-black-and-color-combo-pack-replacement-for-hp-63-b0dfz1-review"
 image_alt: "63XL black and tri-color ink cartridge combo pack for HP 63 printers"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFZ11K39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E69rHN4FL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine HP 63XL high-yield cartridges — roughly 2x the page count of standard 63s"  
   - "Includes both black and tri-color in one box — convenient for refill without separate orders"  
   - "Consistent color saturation and sharp black text on plain paper, per multiple long-term users"  
-cons:  
+cons: 
   - "High-yield XL still doesn't match OEM page yield claims in real-world mixed printing — expect 15–20% less"  
   - "No expiration date printed on the box; cartridges that sit for 6+ months can clog more easily than standard HP 63s"
+
 ---
 
 **Is This Combo Pack the Smart Buy for Your HP 63 Printer?**

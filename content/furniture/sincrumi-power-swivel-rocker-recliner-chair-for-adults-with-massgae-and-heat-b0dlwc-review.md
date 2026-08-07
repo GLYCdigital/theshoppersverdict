@@ -1,4 +1,5 @@
 ---
+
 title: "SINCRUMI Power Swivel Rocker Recliner Chair for Adults with "
 seo_title: "SINCRUMI Power Swivel Rocker Recliner Chair for Ad Review"
 meta_description: "Our full sincrumi power swivel rocker recliner chair for adults with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLWCBZN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81naKCeNT-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SINCRUMI Power Swivel Rocker Recliner isn't trying to be a $2,000 La-Z-Boy.** It's a mid-priced power recliner that packs swivel, heat, massage, and near-flat recline into a package that's earned a solid 4.2 out of 5 from 210 Amazon shoppers. The question isn't whether it's the best recliner ever made — it's whether it's the right one for your living room and your back.

@@ -1,4 +1,5 @@
 ---
+
 title: "T3 Afar Lightweight Travel-Size Hair Dryer with Auto Dual Vo"
 seo_title: "T3 Afar Lightweight Travel-Size Hair Dryer with Au Review"
 meta_description: "Our full t3 afar lightweight travel-size hair dryer with auto dual vo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DK6QVQH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515ATQ0h-QL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you travel more than twice a year, you know the drill: hotel dryers that take 20 minutes on thick hair, or hauling your $200 full-size dryer and praying the voltage converter holds up. The T3 Afar tries to split that difference — a sub-pound, folding dryer that auto-switches voltage so you can plug into a Parisian bathroom outlet without a meltdown. It's a smart concept. The execution, though, comes with real tradeoffs you should weigh before checking out.

@@ -1,4 +1,5 @@
 ---
+
 title: "chiphy White Shade Floor Lamp Modern Design"
 seo_title: "chiphy White Shade Floor Lamp Review: Honest 2026 Verdict"
 meta_description: "chiphy white shade floor lamp review: modern design, sturdy base, warm light. See pros, cons, and who should buy this 4.3-star lamp."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B28THCTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YMVrxp9UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-way push-button switch on the pole lets you adjust brightness (low/medium/high) without fumbling for a cord"
   - "Fabric drum shade diffuses light evenly, eliminating harsh glare and hot spots common with plastic shades"
   - "Heavy 8-inch round base keeps the lamp stable even on carpet, and it arrives fully assembled except for the shade"
-cons:
+cons: 
   - "Shade is attached with simple tension rings that can slip if bumped hard, requiring periodic re-seating"
   - "No dimmer knob or remote — just the three preset brightness levels, which limits fine-tuning"
   - "White fabric shade shows dust and smudges quickly, especially in homes with pets or kids"
+
 ---
 
 Let me be blunt: most floor lamps under $60 are flimsy, top-heavy disasters that topple when your cat brushes past them. The chiphy White Shade Floor Lamp isn't that. It's a genuinely solid piece of lighting hardware that nails the basics — and does it without pretending to be something it's not.

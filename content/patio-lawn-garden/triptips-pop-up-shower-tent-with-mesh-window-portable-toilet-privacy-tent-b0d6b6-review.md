@@ -1,4 +1,5 @@
 ---
+
 title: "TRIPTIPS Pop Up Shower Tent with Mesh Window, Portable Toile"
 seo_title: "TRIPTIPS Pop Up Shower Tent with Mesh Window, Port Review"
 meta_description: "Our full triptips pop up shower tent with mesh window, portable toile review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6B6BLBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ub-TsXzUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 60-Second Setup That Actually Works

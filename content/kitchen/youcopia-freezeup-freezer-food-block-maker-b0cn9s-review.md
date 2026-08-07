@@ -1,4 +1,5 @@
 ---
+
 title: "YouCopia FreezeUp Freezer Food Block Maker"
 seo_title: "YouCopia FreezeUp Freezer Food Block Maker Review: Verdic"
 meta_description: "Our full youcopia freezeup freezer food block maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN9ST7CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mgiNZc-eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **YouCopia FreezeUp Freezer Food Block Maker Review: The Cure for Freezer-Bag Chaos**

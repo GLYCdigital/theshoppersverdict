@@ -1,4 +1,5 @@
 ---
+
 title: "FRANSITON 2-Handle Widespread Bathroom Sink Faucet with cUPC"
 seo_title: "FRANSITON 2-Handle Widespread Faucet Review (2026): Worth It?"
 meta_description: "Honest FRANSITON 2-handle widespread bathroom faucet review: build quality, installation, real buyer feedback, and who should buy it. 4.5★ rated."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCMMSNKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jiKAU6Y8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with cUPC certification — not cheap zinc alloy"
   - "Ceramic disc cartridges deliver smooth quarter-turn operation and drip-free shutoff"
   - "Genuine 3-hole widespread fit (8–16 inch adjustable centers) covers most existing sink layouts"
-cons:
+cons: 
   - "Supply lines are not included — need to buy braided hoses separately"
   - "Drain assembly sold separately; some buyers find this an unexpected extra cost"
   - "Finish is prone to water spots; requires regular wiping to maintain shine"
+
 ---
 
 Let's be direct about bathroom faucets: most of them are overpriced, underbuilt, or both. The FRANSITON 2-handle widespread faucet sits in a crowded mid-range category where you're gambling between a $40 builder-grade special and a $300 designer name. After digging through 225 ratings and the spec sheet, here's the real story.

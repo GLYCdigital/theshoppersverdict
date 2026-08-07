@@ -1,4 +1,5 @@
 ---
+
 title: "Arctic Farms Freeze Dried Ice Cream Bits Bagged and Boxed -"
 seo_title: "Arctic Farms Freeze Dried Ice Cream Bits Review (2026)"
 meta_description: "Arctic Farms Freeze Dried Ice Cream Bits review: crunchy, shelf-stable ice cream bites. See how they hold up, real taste tests, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5CW3VQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81daKZ7ppLL._SL1500_.jpg"
-pros:
+pros: 
   - "Crunchy, airy texture that doesn't melt or make a mess — genuinely shelf-stable at room temperature"
   - "Works as a cereal topper, ice cream mix-in, or standalone snack; resealable bag keeps bits fresh for weeks"
   - "Two flavors (vanilla and chocolate) in one box offers variety without committing to a full bag of one taste"
-cons:
+cons: 
   - "Sweetness level is dialed down compared to regular ice cream — some buyers find it almost bland"
   - "Bits are small and can get crushed into powder at the bottom of the bag during shipping"
   - "No clear serving size or nutrition panel printed on the bag itself — you'll need the box"
+
 ---
 
 # Arctic Farms Freeze Dried Ice Cream Bits: The Crunchy, Shelf-Stable Snack That Actually Delivers

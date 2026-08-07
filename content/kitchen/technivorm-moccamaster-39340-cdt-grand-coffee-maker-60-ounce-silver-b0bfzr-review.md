@@ -1,4 +1,5 @@
 ---
+
 title: "Technivorm Moccamaster 39340 CDT Grand Coffee Maker, 60 Ounc"
 seo_title: "Technivorm Moccamaster 39340 CDT Grand Coffee Make Review"
 meta_description: "Our full technivorm moccamaster 39340 cdt grand coffee maker, 60 ounc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BFZRSBND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-45KbsIYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Moccamaster 39340 CDT Grand is the coffee maker for people who've stopped believing a $50 drip machine can do the job.** It's a Dutch-built, hand-assembled, SCA-certified behemoth that brews a legitimate 60 ounces — not the watered-down "12-cup" nonsense most makers claim. But at this price, you're paying for precision, not convenience. Here's what that actually means.

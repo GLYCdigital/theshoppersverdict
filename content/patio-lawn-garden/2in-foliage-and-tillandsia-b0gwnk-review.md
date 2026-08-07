@@ -1,4 +1,5 @@
 ---
+
 title: "2in Foliage and Tillandsia"
 seo_title: "2in Foliage and Tillandsia Review: Worth It? | 2026 inch"
 meta_description: "Honest 2in Foliage and Tillandsia review: build quality, real buyer feedback, and who should buy. 3.8/5 rating analyzed for patio and garden shoppers."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GWNKLK7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p-WZJnKrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two distinct plant types (foliage + Tillandsia) in one purchase gives instant variety for small spaces"
   - "2-inch sizing is compact enough for terrariums, desktops, and fairy gardens"
   - "Air plants require no soil — forgiving for beginners who overwater"
-cons:
+cons: 
   - "3.8/5 rating signals inconsistency — some buyers report plants arriving damaged or dehydrated"
   - "No specific species names listed, so you can't verify exact care requirements before purchase"
   - "Tillandsia varieties are random — you may get duplicates if ordering multiples"
+
 ---
 
 **The Short Version: Decent Starter Set, But Manage Expectations**

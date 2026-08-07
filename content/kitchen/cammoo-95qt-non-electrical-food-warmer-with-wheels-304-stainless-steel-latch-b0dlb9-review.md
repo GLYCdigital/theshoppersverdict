@@ -1,4 +1,5 @@
 ---
+
 title: "CAMMOO 95Qt Non-Electrical Food Warmer with Wheels, 304 Stai"
 seo_title: "CAMMOO 95Qt Food Warmer Review: Worth It? (2026)"
 meta_description: "CAMMOO 95Qt non-electrical food warmer review: 304 stainless steel, wheels, real-world performance. Is this 4.7-star unit worth your money? Read before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLB9RV9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ih+Sz4y4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 304 stainless steel construction with double-wall insulation holds heat for 4-6 hours without electricity"
   - "95-quart capacity fits full-size hotel pans (up to 6 inches deep) — enough to feed 40-60 people from one unit"
   - "Lockable lid with gasket seal and four locking wheels make transport drip-free and genuinely easy"
-cons:
+cons: 
   - "Non-electric means you must preheat it with boiling water or hot rocks for 15-20 minutes before use — plan ahead"
   - "At 38+ lbs empty, it's not light; lifting it into a vehicle requires two people despite the wheels"
+
 ---
 
 **The 95-Quart Solution to Cold Buffet Food (If You Prep Right)**

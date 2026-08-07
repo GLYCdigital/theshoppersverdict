@@ -1,4 +1,5 @@
 ---
+
 title: "A.C. Legg, Inc. Blend 10 Sausage Seasoning, Breakfast Style, 8 oz"
 seo_title: "A.C. Legg Blend 10 Sausage Seasoning Review (2026)"
 meta_description: "Honest A.C. Legg Blend 10 Breakfast Sausage Seasoning review: flavor, yield, heat level, and who should buy. Real buyer feedback on this 4.7-star mix."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BSTP8YR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91qUVG1fQKL._SL1500_.jpg"
-pros:
+pros: 
   - "Seasoning ratio is dialed in at 1 oz per 5 lbs of meat — no guesswork, yields 40 lbs of sausage per bag"
   - "Balanced breakfast profile with sage forward, black pepper bite, and a subtle brown sugar sweetness that doesn't overpower"
   - "Works for both pan-fried patties and stuffed links without turning greasy or gritty"
-cons:
+cons: 
   - "Sage level is assertive — if you prefer mild breakfast sausage, this leans noticeably savory-herbal"
   - "8 oz bag is a bulk purchase; no smaller trial size available for first-time users"
+
 ---
 
 ## The Breakfast Sausage Seasoning That Actually Tastes Like Breakfast

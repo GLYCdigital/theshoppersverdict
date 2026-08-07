@@ -1,4 +1,5 @@
 ---
+
 title: "IIOPE Heavy Duty Flag Pole for Outside House â€“ 13-Gauge Ex"
 seo_title: "IIOPE Heavy Duty Flag Pole for Outside House â€“ 1 Review"
 meta_description: "Our full iiope heavy duty flag pole for outside house â€“ 13-gauge ex review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G394ZC9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ckurpjKBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A flag pole that doesn't wobble, rust, or embarrass you in a storm — here's the real story.**

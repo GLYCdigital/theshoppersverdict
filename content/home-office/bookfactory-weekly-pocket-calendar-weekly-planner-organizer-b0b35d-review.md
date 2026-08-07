@@ -1,4 +1,5 @@
 ---
+
 title: "BookFactory Weekly Pocket Calendar/Weekly Planner Organizer"
 seo_title: "BookFactory Weekly Pocket Planner Review (2026): Worth It?"
 meta_description: "BookFactory Weekly Pocket Calendar review: 4.7-star rated planner. Tested for durability, layout, and real-world portability. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B35DBH3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xjd7p38oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tear-resistant, waterproof synthetic paper survives pockets, bags, and coffee spills"
   - "Lays completely flat when open — no fighting to keep pages down while writing"
   - "Compact 4.5 x 6.5-inch size fits shirt pockets and small purses without bulk"
-cons:
+cons: 
   - "No monthly overview pages — only weekly spreads, so forward planning requires flipping"
   - "Synthetic paper doesn't take fountain pen ink well; stick to ballpoint or pencil"
+
 ---
 
 If you've ever pulled a soggy, dog-eared planner out of your back pocket, you already know why the BookFactory Weekly Pocket Calendar has 235 ratings and a 4.7-star average. This isn't a pretty desk accessory. It's a working tool built for people who actually carry their schedule into the field.

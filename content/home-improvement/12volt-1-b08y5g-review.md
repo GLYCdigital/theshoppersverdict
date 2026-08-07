@@ -1,4 +1,5 @@
 ---
+
 title: "12Volt-1 inch"
 seo_title: "12Volt-1 Review: Is This Cordless Tool Worth It?"
 meta_description: "Honest 12Volt-1 review: performance, build quality, and real buyer feedback. See if this 12V tool earns its 4.6-star rating before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08Y5GMG4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EvK5urJSL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Compact 12V form factor that fits into tight spaces where full-size 18V tools won't go"
   - "Consistent 4.6-star average across 229 ratings — buyers report reliable day-to-day performance"
   - "Battery life holds up for typical DIY and light professional tasks without the weight of a bigger platform"
-cons:
+cons: 
   - "12V platform lacks the torque for heavy-duty drilling into masonry or thick hardwood"
   - "No brushless motor option at this price point — expect some heat under sustained load"
+
 ---
 
 The 12Volt-1 sits in that awkward middle ground: not a heavy-duty contractor tool, not a toy. With a 4.6-star average across 229 ratings, it's clearly doing something right. The question is whether that something matches what you need.

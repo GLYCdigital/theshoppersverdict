@@ -1,4 +1,5 @@
 ---
+
 title: "ExtreSpo 47 inch  EZ Curl Bar Weight Lifting Bar, for Hip Thrusts"
 seo_title: "ExtreSpo 47 inch  EZ Curl Bar Review: Hip Thrusts & Squats"
 meta_description: "ExtreSpo 47 inch  EZ curl bar review: padded, multi-grip design for hip thrusts, squats & curls. See real pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC267BY5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fXKJHWFpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "47-inch length fits standard plates while being short enough for home gyms and tight spaces"
   - "Padded center section stays put during hip thrusts — no need to wrap a towel or buy a separate pad"
   - "Rotating sleeves reduce wrist and elbow strain during curls and pressing movements"
-cons:
+cons: 
   - "1-inch diameter only — won't fit Olympic plates without an adapter"
   - "Some buyers report the knurling is mild, which may not suit heavy deadlift-style gripping"
+
 ---
 
 If you've ever tried hip thrusts with a bare Olympic bar, you know the drill: bruising your hips, fighting the bar as it rolls, and improvising with a torn yoga mat. The ExtreSpo 47" EZ Curl Bar is designed to kill that problem in one move. It's a compact, padded, multi-purpose bar aimed squarely at glute work, but it pulls double duty for curls and light pressing. At 4.6 stars from 229 ratings, it's clearly clicking with a lot of home lifters. Here's the real breakdown.

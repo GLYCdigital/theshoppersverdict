@@ -1,4 +1,5 @@
 ---
+
 title: "36 PCS Disposable Serving Utensils for Party - 12 Set Includ"
 seo_title: "36 PCS Disposable Serving Utensils Review (2026): Worth It?"
 meta_description: "Honest review of the 36 PCS disposable serving utensils set — 12 forks, knives, spoons. Build quality, real party use, and who should buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D95BV5GV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JHE+8XptL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy black plastic that doesn't bend or snap during heavy use — noticeably thicker than standard dollar-store disposables"
   - "12 complete place settings (fork, knife, spoon each) means you're not scrambling to mix-and-match leftover pieces"
   - "Clean, uniform matte black finish that actually looks intentional at catered events or backyard BBQs"
-cons:
+cons: 
   - "Knife edge is disappointingly dull — struggles with anything tougher than room-temperature chicken"
   - "No tongs, serving spoons, or ladles included despite the 'serving utensils' name — this is strictly individual place settings"
   - "At roughly $1.30 per setting, you're paying a premium over basic white plastic for aesthetics alone"
+
 ---
 
 **Review Body:**

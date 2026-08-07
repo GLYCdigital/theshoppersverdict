@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart DCC-1200PRC Replacement Glass Carafe, 12-Cup, Blac"
 seo_title: "Cuisinart DCC-1200PRC Carafe Review: Worth It? [2026]"
 meta_description: "Honest Cuisinart DCC-1200PRC replacement carafe review: fit, durability, pour quality, and whether OEM glass beats cheaper knockoffs. Real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FN6TZY4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QrXMiAfDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM fit for DCC-1200 and DCC-1150 series brewers — no wobble, seats correctly on the warming plate"
   - "Thicker borosilicate-style glass than most third-party knockoffs; survives thermal shock from hot brew cycles"
   - "Ergonomic handle and drip-free pour spout redesigned compared to older Cuisinart carafes"
-cons:
+cons: 
   - "Genuine Cuisinart pricing runs 2–3x higher than compatible off-brand carafes on Amazon"
   - "Glass is still glass — a drop on tile will shatter it, so the 'durable' claims have limits"
   - "Lid gasket can loosen after 6+ months of daily dishwasher use, causing slow drips while pouring"
+
 ---
 
 Let me save you the research cycle: if you own a Cuisinart DCC-1200 or DCC-1150 brewer and your original carafe just met an untimely end against the counter edge, this is the one to buy. At 4.7 stars across 235 ratings, the DCC-1200PRC is the replacement part Cuisinart owners consistently recommend — and for good reason.

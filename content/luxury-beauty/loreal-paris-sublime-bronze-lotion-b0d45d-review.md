@@ -1,4 +1,5 @@
 ---
+
 title: "Loreal Paris Sublime Bronze Lotion"
 seo_title: "Loreal Paris Sublime Bronze Lotion Review: Verdict | TSV"
 meta_description: "Our full loreal paris sublime bronze lotion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D45DPF7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X6jclH03L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Loreal Paris Sublime Bronze Lotion is the rare drugstore self-tanner that behaves like a premium product — if you can get past the perfume. At 4.5 stars from 225 Amazon ratings, it's clearly working for most buyers. Here's the full picture before you commit.

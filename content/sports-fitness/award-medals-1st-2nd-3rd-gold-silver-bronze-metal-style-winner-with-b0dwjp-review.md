@@ -1,4 +1,5 @@
 ---
+
 title: "Award Medals 1st 2nd 3rd (Gold, Silver, Bronze) Metal Style"
 seo_title: "Award Medals 1st 2nd 3rd Review: Metal Gold Silver Bronze"
 meta_description: "Honest review of Award Medals 1st 2nd 3rd in metal style. Build quality, ribbon feel, engraving options, and whether they're worth it for your event."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DWJP7QNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91I-2wkrB5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast zinc alloy construction with a genuine weight (roughly 1.5 oz) that feels substantial, not like a cheap plastic toy"
   - "Distinctive ribbon colors (red/white/blue for 1st, red/white for 2nd, blue/white for 3rd) make podium placement instantly readable from across the finish line"
   - "Enamel-filled front and etched back panel allow for optional engraving—something many medals in this price range skip entirely"
-cons:
+cons: 
   - "The 'gold' and 'silver' are plated finishes, not solid metal—expect some wear at edges after frequent handling"
   - "Ribbons are serviceable but thin; they'll hold up for a single season but may fray if you're doing weekly events"
+
 ---
 
 Here's the thing about buying medals sight unseen: they almost always look better in the product photos than they do in your hand. That's why the **Award Medals 1st 2nd 3rd set** caught my attention—at a 4.7/5 average across 235 ratings, it's bucking that trend. But is it actually good, or just good enough? Let's break down what you're really getting.

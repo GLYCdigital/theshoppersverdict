@@ -1,4 +1,5 @@
 ---
+
 title: "ALORAIR 120 PPD Commercial Dehumidifiers, Crawl Space Baseme"
 seo_title: "ALORAIR 120 PPD Dehumidifier Review: Basement & Crawl Space"
 meta_description: "ALORAIR 120 PPD commercial dehumidifier review: real performance data, noise levels, and energy use. Does it dry 4,500 sq ft? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9RGZP39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6123DDqCD0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pulls 120 pints per day at saturation (90°F/90% RH) — actually moves water, not just claiming it"
   - "Built-in condensate pump lifts water 16 feet vertically, so no buckets or gravity drain required"
   - "Heavy-gauge galvanized steel shell holds up in unconditioned spaces where plastic units crack"
-cons:
+cons: 
   - "Weighs 93 pounds — you're not moving this upstairs solo without a dolly"
   - "At 61 dB it's louder than residential units; fine for a crawl space, annoying for a living area"
   - "Auto-defrost engages frequently below 60°F, which cuts effective capacity in cooler basements"
+
 ---
 
 ## This isn't a living-room appliance — and that's the point

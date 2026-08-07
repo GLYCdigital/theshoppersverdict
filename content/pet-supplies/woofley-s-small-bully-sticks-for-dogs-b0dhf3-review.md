@@ -1,4 +1,5 @@
 ---
+
 title: "Woofley's- Small Bully Sticks for Dogs"
 seo_title: "Woofley's- Small Bully Sticks for Dogs Review: Verdict | "
 meta_description: "Our full woofley's- small bully sticks for dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DHF38GXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CsDnaWn5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about bully sticks: they're the gold standard for aggressive chewers, but they come with baggage — smell, price, and the occasional splinter scare. Woofley's Small Bully Sticks claim to address the odor issue while delivering a safe chew for little jaws. After digging through 200 ratings and weighing the real-world feedback, here's the breakdown.

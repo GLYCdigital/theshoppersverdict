@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Antiperspirant & Deodorant for Men"
 seo_title: "Old Spice Antiperspirant & Deodorant for Men Review: Verd"
 meta_description: "Our full old spice antiperspirant & deodorant for men review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWRLR4SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dpYOXsniL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Old Spice Antiperspirant & Deodorant for Men: The 72-Hour Claim, Tested

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports MLB Jumbo Kids Plastic Baseball Bat - Backya"
 seo_title: "Franklin Sports MLB Jumbo Kids Bat Review: Worth It?"
 meta_description: "Franklin Sports MLB Jumbo Kids Plastic Baseball Bat review: 28-inch lightweight design, real MLB branding, and backyard durability. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08GKBGQ7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GkSKlHt9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Injection-molded plastic won't dent or crack like hollow aluminum bats, surviving years of wiffle ball and tee work"
   - "Full MLB team logos printed directly on the barrel—no cheap decals that peel after a week in the sun"
   - "Large 2.25-inch barrel diameter gives young hitters a bigger sweet spot and forgiving contact zone"
-cons:
+cons: 
   - "At 28 inches and 18.5 ounces, it's too heavy for 4-5 year olds—this is really a 6-10 year old bat"
   - "Plastic construction means zero pop; balls off the barrel sound and feel dead compared to wood or metal"
+
 ---
 
 **Bottom line up front:** If your kid is past the tee-ball stage but not ready for a $90 USA Baseball alloy bat, this Franklin jumbo bat is the backyard workhorse that actually holds up. It's not going to win any home run derbies, but it'll survive being left in the rain, slammed on the ground after a strikeout, and used as a lightsaber by your other kid.

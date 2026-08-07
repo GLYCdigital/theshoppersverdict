@@ -1,4 +1,5 @@
 ---
+
 title: "EMMA + OLIVER 4 Pack Plastic Stackable Pre-K/School Chairs w"
 seo_title: "EMMA + OLIVER 4-Pack Stackable School Chairs Review (2026)"
 meta_description: "Honest review of EMMA + OLIVER 4-pack stackable plastic school chairs. See how they hold up in classrooms, playrooms, and homes. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08Q1WSZ49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91l9rF7S9sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reinforced plastic frame holds up to 250 lbs — adults can sit without worry"
   - "Stackable design saves serious floor space; 4 chairs stack into roughly 2 feet of height"
   - "Scratch-resistant seat surface wipes clean with a damp cloth in seconds"
-cons:
+cons: 
   - "No floor glides — plastic legs can scuff hardwood if kids drag them"
   - "Slightly wobbly when used on carpet; best on flat, hard flooring"
   - "Assembly requires a screwdriver; hardware is included but not pre-installed"
+
 ---
 
 Let's be straight: most kids' chairs are flimsy plastic junk that wobble, crack, or tip over the first time a 5-year-old leans back. The EMMA + OLIVER 4-Pack isn't that. With a 4.8-star average across 240 ratings, this is the chair set that preschool teachers and parents keep buying — and for good reason.

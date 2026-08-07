@@ -1,4 +1,5 @@
 ---
+
 title: "EcoAqua Replacement Coffee Filter, Replacement for Jura® Cl"
 seo_title: "EcoAqua Replacement Jura Claris Filter Review (2026)"
 meta_description: "EcoAqua replacement coffee filter for Jura Claris: Does it match OEM performance? Our hands-on review covers filtration, fit, and value."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GL7JWKR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lFbd28s8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Costs roughly 40–50% less than OEM Jura Claris filters while using the same ion-exchange and activated carbon filtration media"
   - "Exact dimensional match for Jura Claris and Clearyl filter housings — twist-lock installs without shims or adapters"
   - "Consistent 4.0-star average across 200+ ratings, indicating reliable performance batch after batch"
-cons:
+cons: 
   - "No RFID chip means your Jura machine won't automatically track filter life — you'll need to set manual reminders"
   - "Filtration capacity rated at 50 liters vs. Jura's 60 liters, so replacement frequency is slightly higher"
+
 ---
 
 **The $15 Question: Can an Aftermarket Filter Match Jura's $30 OEM?**

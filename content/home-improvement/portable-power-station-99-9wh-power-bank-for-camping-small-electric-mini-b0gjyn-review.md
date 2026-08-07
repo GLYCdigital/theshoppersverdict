@@ -1,4 +1,5 @@
 ---
+
 title: "Portable Power Station 99.9Wh Power Bank for Camping, Small "
 seo_title: "Portable Power Station 99.9Wh Power Bank for Campi Review"
 meta_description: "Our full portable power station 99.9wh power bank for camping, small  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJYNNH9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+4GXfrXEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this tiny power station a camping essential or just another gadget? I tested it against real-world demands to find out.**

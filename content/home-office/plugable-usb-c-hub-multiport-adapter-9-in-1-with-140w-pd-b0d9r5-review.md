@@ -1,4 +1,5 @@
 ---
+
 title: "Plugable USB C Hub Multiport Adapter: 9-in-1 with 140W PD Ch"
 seo_title: "Plugable USB C Hub Multiport Adapter: 9-in-1 with  Review"
 meta_description: "Our full plugable usb c hub multiport adapter: 9-in-1 with 140w pd ch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9R5SNG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sf840GCVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The 9-in-1 USB-C Hub That Actually Delivers on Its Specs

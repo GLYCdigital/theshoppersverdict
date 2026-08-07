@@ -1,4 +1,5 @@
 ---
+
 title: "Auzev Solar Outdoor Wall Lights"
 seo_title: "Auzev Solar Wall Lights Review: Honest 2026 Verdict"
 meta_description: "Auzev solar outdoor wall lights reviewed: brightness, battery life, build quality, and real buyer feedback. Find out if they're worth it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZ6N41QX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pE2Hp-iML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm 3000K light with wide 120° beam spread covers entryways and patios effectively"
   - "IP65 weatherproof rating holds up through rain, snow, and direct sun exposure"
   - "Dusk-to-dawn sensor activates reliably without false triggering from passing cars"
-cons:
+cons: 
   - "Battery capacity (2000mAh) struggles to maintain full brightness through long winter nights"
   - "Mounting plate uses plastic anchors — brick and stucco installations will need upgraded hardware"
   - "Solar panel must face direct sunlight 6+ hours daily or runtime drops noticeably"
+
 ---
 
 Most solar wall lights are either cheap junk that dies in three months or overpriced fixtures that need a full day of sun to produce a pathetic glow. The Auzev Solar Outdoor Wall Lights sit somewhere in the middle — and for most homeowners, that's exactly the right spot.

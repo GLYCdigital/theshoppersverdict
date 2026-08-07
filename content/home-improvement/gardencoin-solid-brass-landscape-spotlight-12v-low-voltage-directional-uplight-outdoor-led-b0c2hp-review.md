@@ -1,4 +1,5 @@
 ---
+
 title: "Gardencoin Solid Brass Landscape Spotlight,12V Low Voltage D"
 seo_title: "Gardencoin Brass Landscape Spotlight Review (2026): Worth It?"
 meta_description: "Gardencoin 12V brass landscape spotlight review: build quality, beam performance, and whether this $40 uplight beats cheaper plastic rivals."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C2HP1997/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+FEvhXICL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined solid brass housing with sealed gaskets — rated IP65, survives heavy rain and sprinkler overspray without corrosion"
   - "Tool-free 360° rotation and 90° tilt with a locking collar that actually holds position in wind and freeze-thaw cycles"
   - "Accepts standard MR16/GU5.3 bulbs, so you can swap in warmer or brighter LEDs instead of being locked to the included 4W unit"
-cons:
+cons: 
   - "Included 4W bulb is modest — roughly 350 lumens — so it reads more as moonlight than a punchy uplight for tall trees"
   - No integrated junction box; you'll need a waterproof wire connector (sold separately) for the 18 inch pigtail, adding ~$8 to the real cost
   - "Brass finish is raw, not lacquered — it will patina to a darker bronze over 6–12 months, which some buyers misread as tarnishing"
+
 ---
 
 If you've bought cheap landscape lights before, you know the drill: plastic housing cracks by year two, the seal fails, water gets in, and you're digging up a dead fixture in the dark. The Gardencoin Solid Brass Spotlight is the antidote to that cycle — but it's not without a couple of gotchas that are worth knowing before you click buy.

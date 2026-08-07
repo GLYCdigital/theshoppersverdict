@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Accessories for Ninja"
 seo_title: "Air Fryer Accessories for Ninja Review: Worth It?"
 meta_description: "Air Fryer Accessories for Ninja review: 4.5-star rated accessory kit. See what's included, real performance, pros/cons, and if it fits your Ninja model."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYTXLJ21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619GC90s3AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Silicone liners are genuinely non-stick — eggs slide off without oil residue burning onto the basket"
   - "Expansion rack doubles cooking capacity without blocking airflow, so food crisps evenly on both layers"
   - "Accessories fit Ninja 5.5-8 qt models snugly with no wobble or rattling during the cooking cycle"
-cons:
+cons: 
   - "Silicone liners leave a soapy taste if not hand-washed with white vinegar after first few uses"
   - "Skewers are thinner than expected at 3mm — flimsy for heavy chicken thighs, fine for veggies"
   - "No storage bag included despite the price point; loose parts scratch the ceramic basket coating"
+
 ---
 
 Let’s be blunt: most air fryer accessory kits are Amazon junk — thin metal, loose fits, and liners that melt into your dinner. This set for Ninja models isn’t that. After 225 ratings averaging 4.5 stars, it’s earned a spot in my kitchen. Here’s the real breakdown.

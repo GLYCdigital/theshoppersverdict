@@ -1,23 +1,25 @@
 ---
+
 title: "Better Office Products 100-Pack All Occasion Greeting Cards,"
 seo_title: "Better Office Products 100-Pack Greeting Cards Review (2026)"
 meta_description: "Honest review of Better Office Products 100-pack all occasion greeting cards. See quality, value, and real buyer feedback before you buy."
 slug: "better-office-products-100-pack-all-occasion-greeting-cards-assorted-blank-note-b083f7-review"
 image_alt: "Assorted blank note cards with envelopes from Better Office Products 100-pack"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B083F7T52P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Imzpp94yL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "100 cards with matching envelopes — roughly $0.25 per card when priced under $25, which beats retail greeting card prices by 80%+"  
   - "Heavyweight 120gsm card stock takes pen, marker, and watercolor without bleed-through"  
   - "Assorted blank interiors mean you can use them for birthdays, thank-yous, or sympathy notes — no wasted wrong occasion cards"
-cons:  
+cons: 
   - "No foil, embossing, or specialty finishes — these are flat matte cards, not premium stationery"  
   - "Envelopes are standard weight (not lined) and feel thinner than the cards themselves"
+
 ---
 
 ## The 100-Card Answer to "I Forgot Another Birthday"

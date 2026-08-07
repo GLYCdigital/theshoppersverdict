@@ -1,4 +1,5 @@
 ---
+
 title: "Edible Markers, 11Pcs Ultra Fine Tip(0.5mm) Food Coloring Pe"
 seo_title: "Edible Markers Review: 11Pcs Ultra Fine Tip for Coffee Art"
 meta_description: "Edible Markers 11Pcs Ultra Fine Tip review: Do 0.5mm food coloring pens work for latte art & cookies? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08SCC9QGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZGCEGds7L._SL1500_.jpg"
-pros:
+pros: 
   - "True 0.5mm ultra-fine tip delivers crisp, hairline details — no blobbing or ink bleeding on royal icing or fondant"
   - "Double-ended design gives you 11 colors plus a spare fine tip on every pen, effectively 22 writing surfaces in one kit"
   - "Ink dries fast and doesn't smear on buttercream if you let it set 30–60 seconds before stacking or wrapping"
-cons:
+cons: 
   - "Ink flavor is noticeably bitter and artificial if you draw thick, saturated lines — keep to fine details, not large fills"
   - "Tips can dry out within 3–4 months even when capped, so don't stockpile; buy fresh for important projects"
+
 ---
 
 If you've ever tried to write "Happy Birthday" on a latte with a toothpick and cocoa powder, you know the struggle. These edible markers solve that problem — mostly. The 11-piece set from this brand has earned a 4.5-star average across 225 ratings, and after testing them on royal icing, fondant, and even a flat white, I get why people keep buying them. But there are quirks worth knowing before you add to cart.

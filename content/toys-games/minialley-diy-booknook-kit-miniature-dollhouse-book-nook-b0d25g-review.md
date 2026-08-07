@@ -1,4 +1,5 @@
 ---
+
 title: "MINIALLEY DIY Booknook Kit Miniature Dollhouse Book Nook"
 seo_title: "MINIALLEY DIY Booknook Kit Miniature Dollhouse Boo Review"
 meta_description: "Our full minialley diy booknook kit miniature dollhouse book nook review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D25GJLDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LzdmGHQmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've scrolled past those intricate miniature street scenes on social media and thought "I could never build that," the MINIALLEY DIY Booknook Kit might change your mind. This isn't a cheap cardboard cutout — it's a laser-cut wooden kit that assembles into a glowing, three-dimensional street vignette designed to nestle between your books. With a 4.7-star average across 235 ratings, it's clearly hitting a nerve with crafters. But is it genuinely beginner-friendly, or does it require a hobbyist's patience? Let's break down what you're actually getting.

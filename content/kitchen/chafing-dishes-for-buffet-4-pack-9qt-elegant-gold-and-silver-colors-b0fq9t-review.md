@@ -1,4 +1,5 @@
 ---
+
 title: "Chafing Dishes for Buffet 4 Pack, 9QT [Elegant Gold and Silv"
 seo_title: "Chafing Dishes for Buffet 4 Pack Review: 9QT Gold & Silver"
 meta_description: "Our honest chafing dishes for buffet 4 pack review: 9QT gold & silver set tested for heat retention, durability, and real event use. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQ9TRB2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cYY07QNSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Mirror-polished 18/8 stainless steel with rolled rims — no sharp edges, survives dishwasher cycles without spotting"
   - "9QT capacity per dish handles a full lasagna or 40+ meatballs; the 4-pack covers 60-80 guests comfortably"
   - "Lift-out pan and separate water pan make setup and teardown genuinely fast — no wrestling with stuck lids"
-cons:
+cons: 
   - "Gold and silver finishes show fingerprints immediately; expect to wipe them down mid-event if appearances matter"
   - "Fuel holders are shallow — standard 2-hour chafing fuel cans fit fine, but taller catering-grade cans wobble"
   - "Lids don't lock; carrying a loaded dish across a room requires two hands and a steady walk"
+
 ---
 
 Let's be direct: most chafing dish sets under $150 are flimsy, scratch-prone, and embarrass you at the one event you actually needed them for. This 4-pack from the Elegant Gold and Silver line isn't that set. After 225 ratings holding steady at 4.5 stars, it's earned a reputation as the reliable workhorse for home caterers and serious holiday hosts. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi II Botanical Rug"
 seo_title: "Loloi II Botanical Rug Review: Verdict | TSV"
 meta_description: "Our full loloi ii botanical rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1TYTZMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/911hZ1Hx5bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some rugs are made to be seen. The Loloi II Botanical Rug is made to be lived on. With a 4.8-star average across 240 Amazon ratings, this isn't a flash-in-the-pan trend piece — it's a workhorse with a pretty face. But before you hit "add to cart," let's talk about what you're actually getting.

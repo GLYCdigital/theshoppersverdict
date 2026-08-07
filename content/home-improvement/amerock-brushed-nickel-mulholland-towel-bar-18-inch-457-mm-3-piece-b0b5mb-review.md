@@ -1,4 +1,5 @@
 ---
+
 title: "Amerock | Brushed Nickel | Mulholland | Towel Bar | 18 inch"
 seo_title: "Amerock Mulholland Towel Bar Review: Brushed Nickel 18-Inch"
 meta_description: "Amerock Mulholland 18-inch towel bar review: brushed nickel finish, hidden screws, solid steel build. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5MBWWLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XslxKWjaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden mounting screws with snap-on rosettes give a clean, seamless look — no visible hardware"
   - "Solid zinc alloy construction with a genuine brushed nickel finish that resists fingerprints and water spots"
   - "18-inch bar fits standard stud spacing and includes all mounting hardware in the box"
-cons:
+cons: 
   - "No template included — you'll need a level and careful measuring to align the mounting brackets perfectly"
   - "Bar is fixed-length only; you can't cut it down if your wall space is tight"
+
 ---
 
 Towel bars seem simple until you install one that wobbles, tarnishes, or shows every screw head. The Amerock Mulholland 18-inch bar avoids all three pitfalls — and for most bathrooms, that's enough to make it a genuine upgrade over builder-grade hardware.

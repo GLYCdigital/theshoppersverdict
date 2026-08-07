@@ -1,4 +1,5 @@
 ---
+
 title: "ORCATORCH DC710 Scuba Dive Light Type C Rechargeable, 3000 L"
 seo_title: "ORCATORCH DC710 Scuba Dive Light Type C Rechargeab Review"
 meta_description: "Our full orcatorch dc710 scuba dive light type c rechargeable, 3000 l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2RML9CX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71go7WrZvFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. You're shopping for a dive light, not a flashlight that *claims* water resistance. The ORCATORCH DC710 earns its 4.7-star rating from 235 buyers because it delivers where it counts: honest lumens, real battery life, and a build that doesn't quit at depth.

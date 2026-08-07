@@ -1,4 +1,5 @@
 ---
+
 title: "NDS Rectangular Jumbo Box and Cover"
 seo_title: "NDS Rectangular Jumbo Box and Cover Review: Verdict | TSV"
 meta_description: "Our full nds rectangular jumbo box and cover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DXLGBL94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xOj1kFioL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dug up a lawn to reach a stuck irrigation valve, you already know why the NDS Rectangular Jumbo Box exists. This is the access hatch that keeps your shutoff valves, backflow preventers, or electrical splices reachable without a shovel. With a 4.8-star average across 240 ratings, it's clearly doing something right. Here's what that something actually is — and where it falls short.

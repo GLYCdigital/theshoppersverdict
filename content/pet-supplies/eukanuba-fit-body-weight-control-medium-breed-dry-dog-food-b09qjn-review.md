@@ -1,4 +1,5 @@
 ---
+
 title: "Eukanuba Fit Body Weight Control Medium Breed Dry Dog Food"
 seo_title: "Eukanuba Fit Body Weight Control Review (2026): Honest Look"
 meta_description: "Eukanuba Fit Body Weight Control Medium Breed review: Does it really manage weight? Ingredients, portion sizes, and real owner feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09QJN2K78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iOGQwmYmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "L-carnitine (50mg/kg) actively supports fat metabolism, not just calorie reduction"
   - "Portion-controlled feeding guide takes the guesswork out of weight management"
   - "High protein (25%) and fiber (4.5%) keep dogs satisfied between meals"
-cons:
+cons: 
   - "Contains chicken by-product meal — a dealbreaker for some owners"
   - "Medium breed formula only; small and large breed owners need to look elsewhere"
   - "Transition period can cause loose stools if you don't gradually switch over 7-10 days"
+
 ---
 
 Let’s be honest about weight management dog food: most of it is just a smaller portion of the same stuff with a fancy label. The Eukanuba Fit Body Weight Control Medium Breed formula is different, and I’ll explain exactly why after digging through the ingredient panel, the feeding guidelines, and what 229 verified buyers are actually saying.

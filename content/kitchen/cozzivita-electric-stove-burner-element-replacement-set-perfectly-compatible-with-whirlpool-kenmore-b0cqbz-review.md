@@ -1,23 +1,25 @@
 ---
+
 title: "COZZIVITA Electric Stove Burner Element Replacement Set-Perf"
 seo_title: "COZZIVITA Electric Burner Element Replacement Review (2026)"
 meta_description: "COZZIVITA electric stove burner element replacement set: honest review of fit, heat output, and durability for Whirlpool & Kenmore ranges."
 slug: "cozzivita-electric-stove-burner-element-replacement-set-perfectly-compatible-with-whirlpool-kenmore-b0cqbz-review"
 image_alt: "COZZIVITA electric stove burner element replacement set with coiled burners and drip pans on a countertop"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQBZPL8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nc3qv5wmL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True OEM-style fit for Whirlpool, Kenmore, and Maytag ranges — no bent prongs or filing needed"  
   - "Heats evenly and fast; reaches boiling in under 5 minutes on the 8-inch burner"  
   - "Solid drip pans included — thicker gauge steel than most aftermarket sets"  
-cons:  
+cons: 
   - "No temperature sensor in the 6-inch burner — it cycles on/off instead of holding a steady simmer"  
   - "Packaging is flimsy; two reviewers reported bent terminals in transit"
+
 ---
 
 You don’t think about your stove’s burner elements until one glows orange, pops, and dies mid-boil. Then you’re staring at a $250 service call or a $40 DIY fix. The COZZIVITA Electric Stove Burner Element Replacement Set is squarely in the latter camp — and for most Whirlpool, Kenmore, and Maytag coil-top ranges, it’s the right call. But it’s not flawless. Here’s what 220 Amazon buyers (4.4 stars) and my own teardown of the specs tell you before you hit “buy.”

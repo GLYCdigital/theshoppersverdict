@@ -1,4 +1,5 @@
 ---
+
 title: "Slip on Tub Spout with Diverter, Compatible with American St"
 seo_title: "Slip on Tub Spout with Diverter, Compatible with A Review"
 meta_description: "Our full slip on tub spout with diverter, compatible with american st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C81NQTWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-i0gEIrpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're replacing a crusty tub spout and the last thing you want is a plumbing call. This slip-on unit promises a five-minute swap with nothing but a hex key. For most people, it delivers exactly that. But "compatible with American Standard" needs a qualifier: it fits their *slip-fit* models, not the threaded ones. Check your existing spout for a set screw before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Perfect Cloud Mattresses"
 seo_title: "Perfect Cloud Mattresses Review: Verdict | TSV"
 meta_description: "Our full perfect cloud mattresses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07SBK3685/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kfk+UMddL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing fluff about "sleeping on a cloud." The Perfect Cloud Mattress, a bed-in-a-box from the folks at Perfect Cloud, has racked up 204 ratings on Amazon with a respectable 4.1-star average. At that price point, you're firmly in budget-to-mid-range territory. Is this the mattress that actually delivers on the promise of cloud-like sleep, or is it just another foam block with a catchy name? I've dug through the specs, the customer feedback, and the construction details. Here's the real story.

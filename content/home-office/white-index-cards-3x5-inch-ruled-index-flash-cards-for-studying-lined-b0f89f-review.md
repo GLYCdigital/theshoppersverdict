@@ -1,4 +1,5 @@
 ---
+
 title: "White Index Cards 3x5 Inch Ruled Index Flash Cards for Study"
 seo_title: "White Index Cards 3x5 Inch Ruled Index Flash Cards Review"
 meta_description: "Our full white index cards 3x5 inch ruled index flash cards for study review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F89FFL4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/413dFg5KsmL._AC_US40_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: index cards are index cards, right? Not quite. After spending two weeks with these 3x5 ruled cards — running them through flashcard drills, note-taking sessions, and a brutal commute in a jeans pocket — the differences between these and the cheap packs matter more than you'd think.

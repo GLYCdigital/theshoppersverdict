@@ -1,4 +1,5 @@
 ---
+
 title: "Xixini Farmhouse TV Stand for 65/60/55 Inch Tvs"
 seo_title: "Xixini Farmhouse TV Stand for 65/60/55 Inch Tvs Review: V"
 meta_description: "Our full xixini farmhouse tv stand for 65/60/55 inch tvs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTV5D1RP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MWGCTFPFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Xixini Farmhouse TV Stand is the furniture equivalent of a pair of well-fitted jeans: it doesn't reinvent anything, but it does what it's supposed to do, fits most situations, and doesn't embarrass you when company comes over. With a 4.4-star average across 220 ratings, it's clearly satisfying most buyers. But is it the right stand for *your* living room? Let's dig into the details.

@@ -1,17 +1,18 @@
 ---
+
 title: "Ninja Nutri-Blender Pro with Auto-iQ | For Smoothies, Shakes, Frozen Drinks, Salsa, Dips | (2) 24-oz. To-Go Cups & Spout Lids | 1100-Peak-Watt | Silver | BN401"
 seo_title: "Ninja Nutri-Blender Pro BN401 Review — 11,300+ Reviews"
 meta_description: "Our verdict on the Ninja Nutri-Blender Pro BN401: 11,352 real reviews. 1100-watt motor, Auto-iQ presets, 24 oz to-go cups. Best personal blender for $79.97?"
 slug: "ninja-nutri-blender-pro-with-auto-iq-for-smoothies-shakes-frozen-drinks-review"
 image_alt: "Ninja Nutri-Blender Pro with Auto-iQ, Silver, BN401"
-keywords:
+keywords: 
   - "ninja nutri blender pro review"
   - "ninja bn401 review"
   - "best personal blender"
   - "smoothie blender"
   - "ninja blender with to-go cups"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Can the Ninja Nutri-Blender Pro crush ice?"
     answer: "Yes — the 1100-watt motor handles ice, frozen fruit, and tough ingredients easily. Users report smooth, consistent results for frozen drinks and ice-based smoothies. The Auto-iQ programs pulse and blend automatically to optimize ice crushing."
   - question: "Are the Ninja cups dishwasher safe?"
@@ -26,16 +27,17 @@ review_count: 11352
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QXJ31WR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zqZV+WSbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1100-watt motor pulverizes ice, frozen fruit, and tough greens"
   - "Auto-iQ presets — one-touch blending with automatic pulsing"
   - "Two 24 oz to-go cups with spout lids — blend and go"
   - "Dishwasher-safe cups and blades — easy cleanup"
-cons:
+cons: 
   - "Loud — not ideal if others are sleeping nearby"
   - "60-second auto-shutoff — no manual timed blending"
   - "Cups show wear over time with daily dishwasher use"
   - "No full-size pitcher — limited to single-serve blending"
+
 ---
 
 # Ninja Nutri-Blender Pro Review: Personal-Size Power Without the Full-Size Price

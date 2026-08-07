@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Light Boards"
 seo_title: "Crayola Light Boards Review: Glow, Trace & Create (2026)"
 meta_description: "Crayola Light Boards review: bright tracing fun with real limits. See what 200+ buyers say about durability, brightness, and value before you buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FFF8QMWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Even, bright LED surface that's genuinely useful for tracing — not a gimmick"
   - "Lightweight and compact enough to toss in a backpack or diaper bag"
   - "Takes standard Crayola markers, so refills are cheap and everywhere"
-cons:
+cons: 
   - "Plastic housing feels thin; several buyers report cracks after a few weeks of normal kid handling"
   - "Markers included are dry quickly — budget for replacements on day one"
+
 ---
 
 If you've got a kid who loves to draw, the Crayola Light Boards look like an obvious win. A glowing trace-and-create surface, a stylus, some markers, and a brand name parents trust. But after digging through 200 ratings sitting at a solid but not spectacular 4.0 out of 5, the real story is more nuanced. It's a genuinely fun toy with some honest flaws you should know about before checkout.

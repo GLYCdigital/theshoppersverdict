@@ -1,4 +1,5 @@
 ---
+
 title: "CONCORD Stainless Steel Home Brew Kettle Stock Pot (Weldless"
 seo_title: "CONCORD 10 Gallon Stainless Brew Kettle Review (2026)"
 meta_description: "Honest CONCORD 10-gallon stainless brew kettle review: weldless fittings, build quality, heating performance, and who should buy it. Read before you brew."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BDJDR35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UhtOBG8BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply clad base (aluminum core) heats evenly on standard home stoves — no scorching or hot spots during boils"
   - "Weldless ball valve and thermometer come pre-installed and sealed; no soldering or extra parts needed"
   - "304 stainless steel with 1mm wall thickness — durable enough for years of all-grain batches"
-cons:
+cons: 
   - "Weldless fittings can develop slow drips if over-tightened or jostled during cleaning — check seals periodically"
   - "No volume markings inside the kettle — you'll need a sight glass or measuring stick for accurate batch volumes"
+
 ---
 
 If you're stepping up from stovetop extract brewing to full 5-gallon all-grain batches, you need three things: capacity, even heat, and a reliable drain system. The CONCORD 10-gallon stainless brew kettle delivers on all three at a price that won't make your wallet weep. With 220 ratings averaging 4.4 stars, it's clearly found its audience. But like any budget-friendly brew gear, it has quirks worth knowing before you click buy.

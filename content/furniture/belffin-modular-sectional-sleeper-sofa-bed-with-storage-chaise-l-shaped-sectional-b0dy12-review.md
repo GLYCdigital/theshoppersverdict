@@ -1,23 +1,25 @@
 ---
+
 title: "Belffin Modular Sectional Sleeper Sofa Bed with Storage Chai"
 seo_title: "Belffin Modular Sectional Sleeper Sofa Review (2026): 4.2 Stars"
 meta_description: "Belffin Modular Sectional Sleeper Sofa with storage chaise: honest 2026 review on comfort, assembly, and hidden bed. Is it worth $? Find out."
 slug: "belffin-modular-sectional-sleeper-sofa-bed-with-storage-chaise-l-shaped-sectional-b0dy12-review"
 image_alt: "Belffin L-shaped modular sectional sleeper sofa with storage chaise in gray fabric, shown in a modern living room"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DY12QVJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fxo2mTOlL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Hidden pull-out bed in the chaise actually sleeps two adults (not a kids-only feature)"  
   - "Modular pieces connect with sturdy metal brackets — no wobble once locked"  
   - "Storage compartment under chaise holds blankets or pillows without crushing them"  
-cons:  
+cons: 
   - "Fabric shows lint and pet hair; darker colors are a smart choice"  
   - "Assembly requires two people and about 90 minutes — not a solo afternoon project"
+
 ---
 
 **Opening hook**

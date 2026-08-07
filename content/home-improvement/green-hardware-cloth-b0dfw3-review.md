@@ -1,4 +1,5 @@
 ---
+
 title: "Green Hardware Cloth"
 seo_title: "Green Hardware Cloth Review: Verdict | TSV"
 meta_description: "Our full green hardware cloth review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFW3JTXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91yn57kohYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products overpromise and underdeliver. This hardware cloth does the opposite — it's a straightforward, well-made roll of PVC-coated wire mesh that does exactly what it says. With 225 ratings averaging 4.5 stars, it's clearly earning its keep in gardens, coops, and workshops across the country. But is it the right mesh for *your* project? Let's dig in.

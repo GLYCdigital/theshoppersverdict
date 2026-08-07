@@ -1,4 +1,5 @@
 ---
+
 title: "ESSENSON Air Dry Clay Review"
 seo_title: "ESSENSON Air Dry Clay Review (2026): Soft, Smooth, No-Bake"
 meta_description: "ESSENSON Air Dry Clay review: 24 colors, super soft texture, minimal cracking. See pros, cons, and who should buy this 4.7-star craft clay."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F48GCDXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V+A2fiyYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, pre-conditioned texture that requires minimal kneading — ready to sculpt straight out of the package"
   - "24 vibrant colors in one set, each block individually wrapped to preserve moisture between sessions"
   - "Dries to a matte finish with noticeably less cracking than typical craft-store air dry clays"
-cons:
+cons: 
   - "Blocks are small (roughly 1 oz each) — larger projects will require multiple sets or a different clay"
   - "Finished pieces are somewhat fragile when thin; delicate details like animal legs or flower petals can snap if dropped"
   - "No resealable storage container included — you'll need your own airtight box for long-term storage of unused portions"
+
 ---
 
 If you've ever wrestled with rock-hard clay that fights back or crumbles into dust, the ESSENSON Air Dry Clay set might feel like a small miracle. This 24-color kit has earned a 4.7-star average across 235 Amazon ratings, and the consensus is clear: this is one of the softest, most forgiving air dry clays at this price point. But is it the right clay for *your* project? Let's dig in.

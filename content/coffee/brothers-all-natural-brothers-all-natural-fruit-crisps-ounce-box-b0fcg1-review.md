@@ -1,4 +1,5 @@
 ---
+
 title: "Brothers-ALL-Natural Brothers-ALL-Natural Fruit Crisps, Ounc"
 seo_title: "Brothers-ALL-Natural Fruit Crisps Review: Crunchy Freeze-Dried Snack"
 meta_description: "Honest Brothers-ALL-Natural Fruit Crisps review: freeze-dried apple and strawberry snacks. Are they worth it? Texture, taste, and value covered."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FCG1CJN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zqjws-H4L._SL1500_.jpg"
-pros:
+pros: 
   - "100% real fruit with no added sugar, preservatives, or sulfites — just freeze-dried apples and strawberries"
   - "Light, crispy crunch that satisfies chip cravings while delivering a full serving of fruit per bag"
   - "Individual 0.42 oz snack packs make portion control effortless for lunchboxes, purses, or gym bags"
-cons:
+cons: 
   - "Small bags — 0.42 ounces each — which works for kids but may feel skimpy for adults wanting a substantial snack"
   - "Freeze-dried texture is delicate; some pieces arrive crumbled or powdery at the bottom of the bag"
   - "Price per ounce runs higher than fresh fruit or traditional dried fruit options"
+
 ---
 
 Let me cut to the chase: these are freeze-dried apple and strawberry crisps, not coffee gear. The product data says "coffee maker or coffee gear," but that's clearly a categorization error — this is a snack food. I'm reviewing it as what it actually is: a healthy, crunchy fruit snack that's been getting steady attention from Amazon shoppers.

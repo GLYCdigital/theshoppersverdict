@@ -1,4 +1,5 @@
 ---
+
 title: "Black Iron Hand Railing, Sturdy Safety Staircase Handrails W"
 seo_title: "Black Iron Hand Railing Review: Sturdy Wall-Mount Stair Rail"
 meta_description: "Honest review of the Black Iron Hand Railing — solid steel, 500-lb capacity, and easy install. See if this wall-mount stair rail fits your home."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B7L7XRJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61USXGC-YkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 48-inch steel rail rated for 500 lbs — tested beyond spec without flex"
   - "All mounting hardware and drill template included; installs in about 30 minutes with basic tools"
   - "Thick powder coat finish won't chip or scratch during installation"
-cons:
+cons: 
   - "Only available in 48-inch length — longer staircases need multiple rails, and the seam is visible"
   - "No handrail bracket covers included; exposed bolts show if you don't countersink carefully"
   - "Powder coat is matte black only — no option for bronze, white, or other finishes"
+
 ---
 
 ## This Handrail Doesn't Mess Around

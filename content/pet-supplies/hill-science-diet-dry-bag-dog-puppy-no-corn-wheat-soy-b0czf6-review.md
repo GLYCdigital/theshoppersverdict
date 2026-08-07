@@ -1,4 +1,5 @@
 ---
+
 title: "Hill Science Diet Dry bag dog puppy no Corn, Wheat, Soy"
 seo_title: "Hill Science Diet Dry bag dog puppy no Corn, Wheat Review"
 meta_description: "Our full hill science diet dry bag dog puppy no corn, wheat, soy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZF6YJZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VXzM1CeML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hill's Science Diet Puppy Food: Is the Corn-Free Recipe Worth the Premium?

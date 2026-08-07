@@ -1,4 +1,5 @@
 ---
+
 title: "EaseLife Sliding Pocket Door Hardware Kit,Commercial Grade,A"
 seo_title: "EaseLife Pocket Door Hardware Kit Review: Commercial-Grade Value"
 meta_description: "Is the EaseLife sliding pocket door hardware kit worth it? We analyze build quality, real user feedback, and installation fit for this 4.6-star-rated kit."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXPG1489/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7165VI86rrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-foot heavy-duty aluminum track with steel ball-bearing hangers rated for doors up to 220 lbs"
   - "Anti-jump safety stops and floor guides keep the door on track even with rough use"
   - "Includes both wood-screw and concrete-anchor mounting hardware—rare for this price point"
-cons:
+cons: 
   - "All exposed hardware is bright aluminum; the finish won't match dark or bronzed door pulls"
   - "No anti-slam soft-close mechanism—door will hit the frame if you let it go"
+
 ---
 
 If you’re staring down a pocket door installation, the hardware is where cheap kits go to die. The EaseLife commercial-grade kit has 229 Amazon ratings holding a 4.6 average—not spectacular, but solidly respectable for a category that usually collects 3-star frustration reviews. Here’s the real breakdown after digging through the specs and what buyers actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "WILSON A1030 Champion Series Baseballs Bucket (3 Dozen)"
 seo_title: "WILSON A1030 Champion Series Baseballs Bucket (3 D Review"
 meta_description: "Our full wilson a1030 champion series baseballs bucket (3 dozen) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000HVSOSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RZr7ebM2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WILSON A1030 Champion Series Baseballs Bucket (3 Dozen) Review

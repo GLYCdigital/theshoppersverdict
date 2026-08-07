@@ -1,4 +1,5 @@
 ---
+
 title: "Step2 85314 Game Time Sports Climber and Slide, Multicolor"
 seo_title: "Step2 85314 Game Time Sports Climber and Slide, Mu Review"
 meta_description: "Our full step2 85314 game time sports climber and slide, multicolor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5TNYMVF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EyndcGdWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Step2 Game Time Sports Climber and Slide is the rare backyard playset that actually delivers on its "three activities in one" promise without feeling cramped. For under $200 (when it's on sale, which is often), you're getting a slide, a climbing wall, and a basketball hoop that will genuinely occupy a 2-to-5-year-old for hours. But the 80-pound weight limit is the elephant in the room — this is a temporary purchase, not a "grow with them" investment.

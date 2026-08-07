@@ -1,7 +1,8 @@
 ---
-title: "MINKA-AIRE Stout 54\" 5-Blade LED Ceiling Fan"
-seo_title: "MINKA-AIRE Stout 54\" 5-Blade LED Ceiling Fan Review: Verd"
-meta_description: "Our full minka-aire stout 54\" 5-blade led ceiling fan review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MINKA-AIRE Stout 54\ 5-Blade LED Ceiling Fan"
+seo_title: "MINKA-AIRE Stout 54\ 5-Blade LED Ceiling Fan Review: Verd"
+meta_description: "Our full minka-aire stout 54\ 5-blade led ceiling fan review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "minka-aire-stout-54-5-blade-led-ceiling-fan-b0fts1-review"
 image_alt: "MINKA-AIRE Stout 54 5-Blade LED Ceiling Fan"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FTS1RCLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rlna5D56L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MINKA-AIRE Stout 54" doesn't look like a ceiling fan. That's the first thing you'll notice when you unbox it. With its clean lines, matte black finish, and integrated LED ring, it reads more like a modern light fixture that happens to move air. But looks are only half the story — here's what 210 buyers (averaging 4.2 stars) actually discovered after living with it.

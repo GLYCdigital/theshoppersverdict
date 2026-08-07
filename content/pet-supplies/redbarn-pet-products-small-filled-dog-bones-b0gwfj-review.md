@@ -1,4 +1,5 @@
 ---
+
 title: "Redbarn Pet Products Small Filled Dog Bones"
 seo_title: "Redbarn Pet Products Small Filled Dog Bones Review: Verdi"
 meta_description: "Our full redbarn pet products small filled dog bones review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWFJF6TN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618EvmaETGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the pet aisle noise. Redbarn’s Small Filled Dog Bones aren’t trying to reinvent dog treats — they’re trying to give you a safer, simpler alternative to rawhide, and for most small-dog owners, they succeed. With 210 ratings averaging 4.2 stars, this is a solid mid-tier option, not a miracle product. Here’s the real breakdown.

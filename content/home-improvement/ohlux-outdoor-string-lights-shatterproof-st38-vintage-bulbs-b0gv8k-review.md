@@ -1,4 +1,5 @@
 ---
+
 title: "OHLUX Outdoor String Lights Shatterproof ST38 Vintage Bulbs"
 seo_title: "OHLUX Outdoor String Lights Shatterproof ST38 Vint Review"
 meta_description: "Our full ohlux outdoor string lights shatterproof st38 vintage bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GV8K4KDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+6cpy31YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most outdoor string lights are a compromise. You either get that gorgeous vintage glass look and worry about shattered bulbs, or you buy indestructible plastic and lose the ambiance. The OHLUX ST38 set tries to give you both — shatterproof construction with that warm, Edison-style filament glow. After digging through 210 ratings and the spec sheet, here’s the honest picture.

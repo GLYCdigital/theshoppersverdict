@@ -1,4 +1,5 @@
 ---
+
 title: "Furinno Compact Desk, Gaming Desk with Shelves"
 seo_title: "Furinno Compact Desk Review: Gaming Desk with Shelves (2026)"
 meta_description: "Furinno Compact Desk with shelves review: Is this budget gaming desk worth it? Real pros, cons, assembly tips, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DNJSDRZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yc-npAi-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engineered wood frame with a 40-inch wide work surface fits tight corners without feeling cramped"
   - "Built-in monitor riser and two side shelves add vertical storage without taking extra floor space"
   - "Assembles in under 30 minutes with pre-drilled holes and an included hex wrench — no power tools needed"
-cons:
+cons: 
   - "Max weight rating around 50 lbs on the desktop means heavy dual-monitor setups will strain the particleboard"
   - "Wobble is noticeable at the top of the monitor riser if you type aggressively or rest elbows on the shelf"
   - "No cable management holes or grommets — you'll need zip ties to keep cords from dangling visibly"
+
 ---
 
 Let's be straight about the Furinno Compact Desk before you click "add to cart": this is a $60-ish budget desk that punches above its weight class for small spaces, but it's not built for a hardcore battlestation. At 4.1 stars from 204 ratings, buyers mostly agree — it's a smart, space-saving pick if you set your expectations correctly.

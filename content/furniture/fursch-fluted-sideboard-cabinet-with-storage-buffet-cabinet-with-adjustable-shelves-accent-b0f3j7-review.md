@@ -1,4 +1,5 @@
 ---
+
 title: "FurSch Fluted Sideboard Cabinet with Storage,Buffet Cabinet"
 seo_title: "FurSch Fluted Sideboard Cabinet Review: Is It Worth It?"
 meta_description: "FurSch Fluted Sideboard Cabinet review: 4.5-star rated buffet with adjustable shelves. Is it sturdy enough for daily use? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3J7B3HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81j05LacA8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fluted door design adds architectural interest that reads far more expensive than the price point"
   - "Adjustable shelves accommodate everything from wine bottles to stacked dinner plates"
   - "Assembly is genuinely straightforward with labeled parts and clear instructions"
-cons:
+cons: 
   - "Back panel is thin MDF — not ideal if you plan to push it against an uneven wall"
   - "White finish shows scuffs easily; consider a darker tone if you have kids or pets"
+
 ---
 
 Let me be direct: most sideboards under $400 look like flat-pack afterthoughts. The FurSch Fluted Sideboard isn't that. With 225 ratings averaging 4.5 stars, it's earning its place in dining rooms — and the fluted door fronts are the reason why.

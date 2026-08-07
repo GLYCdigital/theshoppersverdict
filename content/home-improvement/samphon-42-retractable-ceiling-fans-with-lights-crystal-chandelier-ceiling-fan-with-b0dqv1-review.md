@@ -1,7 +1,8 @@
 ---
-title: "SAMPHON 42\" Retractable Ceiling Fans with Lights, Crystal Ch"
-seo_title: "SAMPHON 42\" Retractable Ceiling Fans with Lights,  Review"
-meta_description: "Our full samphon 42\" retractable ceiling fans with lights, crystal ch review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SAMPHON 42\ Retractable Ceiling Fans with Lights, Crystal Ch"
+seo_title: "SAMPHON 42\ Retractable Ceiling Fans with Lights,  Review"
+meta_description: "Our full samphon 42\ retractable ceiling fans with lights, crystal ch review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "samphon-42-retractable-ceiling-fans-with-lights-crystal-chandelier-ceiling-fan-with-b0dqv1-review"
 image_alt: "SAMPHON 42 Retractable Ceiling Fans with Lights, Crystal Chandelier Ceiling Fan with Remote & APP Control, Modern Dimmab"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQV1M9HV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qNo5OEUIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SAMPHON 42” isn’t trying to hide that it’s a ceiling fan. It’s trying to hide that it *is* one. When the blades are retracted, this thing looks like a small crystal chandelier — which is the entire point. And for the most part, it pulls it off.

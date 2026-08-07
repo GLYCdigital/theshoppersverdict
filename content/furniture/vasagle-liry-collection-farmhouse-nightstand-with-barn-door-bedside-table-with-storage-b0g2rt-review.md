@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE LIRY Collection - Farmhouse Nightstand with Barn Doo"
 seo_title: "VASAGLE LIRY Collection - Farmhouse Nightstand wit Review"
 meta_description: "Our full vasagle liry collection - farmhouse nightstand with barn doo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2RT7HGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sPuHnrv8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same generic black nightstands for weeks, the VASAGLE LIRY Collection Farmhouse Nightstand is the visual break your bedroom needs. With its sliding barn door, warm oak-grain texture, and a 4.5-star average across 225 Amazon ratings, this piece promises farmhouse charm without the farmhouse price tag. But does the reality match the Pinterest-worthy product photos? I dug through verified buyer feedback and the spec sheet to find out.

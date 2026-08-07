@@ -1,5 +1,6 @@
 ---
 
+
 title: "acer Aspire 3 Premium Laptop Computer Featuring Backlit Keyb"
 seo_title: "Acer Aspire 3 Premium Laptop Review: Backlit KB, Ryzen 5 (2026)"
 meta_description: "Acer Aspire 3 Premium review: Ryzen 5, backlit keyboard, 16GB RAM. Real pros, cons, and who should buy. Honest 3.7/5 verdict."
@@ -12,14 +13,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FZXSQKKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h0019okbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Backlit keyboard is genuinely usable in low light — two brightness levels, not just a gimmick"
   - "Ryzen 5 processor with 16GB RAM handles 30+ browser tabs and light video editing without stutter"
   - "Surprisingly solid build for the price — aluminum lid, minimal flex on the deck"
-cons:
+cons: 
   - "Battery life falls short of marketing claims — expect 6-7 hours of real mixed use, not 10 inch"
   - "Display is dim (250 nits) and color-accurate only for basic tasks; outdoor visibility is poor"
   - "Fan spins up audibly under sustained load — noticeable in quiet office settings"
+
 
 ---
 

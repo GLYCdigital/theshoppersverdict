@@ -1,4 +1,5 @@
 ---
+
 title: "SUNYAY Coco Liner Coconut Fiber Mat 30"
 seo_title: "SUNYAY Coco Liner Coconut Fiber Mat 30 Review: Verdict | "
 meta_description: "Our full sunyay coco liner coconut fiber mat 30 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09322752S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AfCbAlo5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **SUNYAY Coco Liner Coconut Fiber Mat 30** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

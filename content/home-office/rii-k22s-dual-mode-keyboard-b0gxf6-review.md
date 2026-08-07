@@ -1,4 +1,5 @@
 ---
+
 title: "Rii K22S Dual Mode Keyboard"
 seo_title: "Rii K22S Dual Mode Keyboard Review: Verdict | TSV"
 meta_description: "Our full rii k22s dual mode keyboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GXF6DVKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VrMxlwXtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Rii K22S is the kind of keyboard that makes you ask a very specific question: *Do I need to juggle two devices without spending $100+?* If the answer is yes, this $30-ish board deserves a hard look. If you need backlighting or premium build, keep scrolling.

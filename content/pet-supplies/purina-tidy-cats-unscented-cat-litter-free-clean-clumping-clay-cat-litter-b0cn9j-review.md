@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Tidy Cats Unscented Cat Litter, Free & Clean Clumping"
 seo_title: "Purina Tidy Cats Unscented Cat Litter, Free & Clea Review"
 meta_description: "Our full purina tidy cats unscented cat litter, free & clean clumping review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CN9JWXVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NR--XG88L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Purina Tidy Cats Unscented Cat Litter, Free & Clean Clumping** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

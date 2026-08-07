@@ -1,4 +1,5 @@
 ---
+
 title: "Whitsunday Wagon Moko Compact Folding Collapsible Utility Fo"
 seo_title: "Whitsunday Wagon Moko Compact Folding Collapsible  Review"
 meta_description: "Our full whitsunday wagon moko compact folding collapsible utility fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B7LV21HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51P+hxWLvjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about utility wagons: most are either flimsy beach-cart junk or oversized behemoths that eat your trunk space. The Whitsunday Wagon Moko tries to split the difference — a compact collapsible hauler that promises 150 pounds of capacity in a package that folds down to roughly the size of a folded lawn chair. After digging through 225 Amazon ratings and the spec sheet, here's the real story.

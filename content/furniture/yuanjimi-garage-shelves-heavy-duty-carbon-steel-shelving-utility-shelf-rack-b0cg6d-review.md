@@ -1,4 +1,5 @@
 ---
+
 title: "Yuanjimi Garage Shelves - Heavy Duty Carbon Steel Shelving, "
 seo_title: "Yuanjimi Garage Shelves - Heavy Duty Carbon Steel  Review"
 meta_description: "Our full yuanjimi garage shelves - heavy duty carbon steel shelving,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CG6DWLMR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EfthUbeDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most garage shelving under $100 is flimsy wire racks that wobble the moment you lean a snow blower against them. The Yuanjimi heavy-duty carbon steel shelving unit isn't that. But it's also not a commercial-grade boltless rack. Here's where it actually lands.

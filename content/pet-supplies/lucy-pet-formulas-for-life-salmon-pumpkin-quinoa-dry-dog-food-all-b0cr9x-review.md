@@ -1,4 +1,5 @@
 ---
+
 title: "Lucy Pet Formulas for Life Salmon, Pumpkin, & Quinoa Dry Dog"
 seo_title: "Lucy Pet Formulas for Life Salmon, Pumpkin, & Quin Review"
 meta_description: "Our full lucy pet formulas for life salmon, pumpkin, & quinoa dry dog review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR9XTZDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xi052w7wL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your dog has a sensitive stomach, you've probably cycled through more "limited ingredient" bags than you care to count.** The Lucy Pet Formulas for Life Salmon, Pumpkin & Quinoa Dry Dog Food takes a different angle: instead of stripping ingredients down to nothing, it adds targeted ones — pumpkin for fiber, quinoa for digestible plant protein — to support gut health from the inside out. With 225 ratings averaging 4.5 stars, it's clearly working for a lot of owners. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fanfanwin Sleepover Party Supplies for Girl Spa Slumber Birt"
 seo_title: "Fanfanwin Sleepover Party Supplies Review (2026): Worth It?"
 meta_description: "Fanfanwin sleepover party supplies for girls: cozy throw blanket, spa-themed favors, and more. Read our honest 4.6-star review before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GLH978YY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813HeHPBEZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Oversized 50x60-inch throw blanket is genuinely soft — not the scratchy polyester you get with most party favors"
   - "Spa-themed accessories (face masks, nail stickers, scrunchies) are age-appropriate for 6-12 year olds"
   - "Everything arrives in one box — no separate shopping for goody bag fillers or decor"
-cons:
+cons: 
   - "Blanket prints may fade after first wash — hand wash cold to extend life"
   - "No paper invitations included despite the 'party supplies' branding"
+
 ---
 
 # Fanfanwin Sleepover Party Supplies Review: The Throw Blanket Steals the Show

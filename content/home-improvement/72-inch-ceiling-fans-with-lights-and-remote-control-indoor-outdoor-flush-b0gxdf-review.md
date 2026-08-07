@@ -1,4 +1,5 @@
 ---
+
 title: "72 inch Ceiling Fans with Lights and Remote Control,Indoor/O"
 seo_title: "72 Inch Ceiling Fan with Light Review: Indoor/Outdoor"
 meta_description: "Honest review of the 72 inch ceiling fan with lights & remote. Covers airflow, noise, installation, and whether this massive indoor/outdoor fan is worth it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXDFV14Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "True 72-inch sweep moves serious air — noticeable from across a large great room or covered patio"
   - "Flush-mount option fits low ceilings without sacrificing the massive blade span"
   - "Remote includes six speeds and a reverse function, giving you year-round utility"
-cons:
+cons: 
   - "Installation is a two-person job — the motor housing is heavy and awkward to lift solo"
   - "Light output is moderate, not a primary lighting source for a large space"
+
 ---
 
 Let's be direct: a 72-inch ceiling fan is a statement piece. This one isn't for a 10x10 bedroom. It's for the great room, the vaulted cabin ceiling, the covered porch where you actually entertain. If you're reading this, you already know you need something bigger than the standard 52-incher. The question is whether this particular fan delivers — and where it cuts corners.

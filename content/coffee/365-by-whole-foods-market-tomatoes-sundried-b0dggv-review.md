@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Tomatoes Sundried"
 seo_title: "365 Whole Foods Sundried Tomatoes Review: Worth It?"
 meta_description: "365 Whole Foods sundried tomatoes review: flavor, texture, and value. Is this pantry staple worth buying? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGGV54MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71phzlLBjLL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently meaty, chewy texture that holds up in hot dishes without turning to mush"
   - "Bright, tangy tomato flavor with no artificial preservatives or added sulfites"
   - "Reliable Whole Foods quality control across batches — no mushy or off-color pieces"
-cons:
+cons: 
   - "Oil-packed version can be overly greasy if you don't drain it properly before cooking"
   - "Some jars arrive with less tomato volume than expected relative to oil content"
+
 ---
 
 **Full Review Body:**

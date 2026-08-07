@@ -1,4 +1,5 @@
 ---
+
 title: "Bonelle_Candy: A Compact Coffee Maker Worth Your Counter Space?"
 seo_title: "Bonelle_Candy Review: Compact Coffee Maker With 4.5-Star Rating"
 meta_description: "Bonelle_Candy coffee maker review: performance, build quality, and real buyer feedback. See who should buy this compact brewer and who should skip it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1RN7G5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91131P5rG3L._SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint that fits under standard upper cabinets without sacrificing brew capacity"
   - "Consistent 200°F brew temperature that extracts full flavor from medium and dark roasts"
   - "Programmable timer with 24-hour advance scheduling that actually holds the setting"
-cons:
+cons: 
   - "Carafe lid is not fully drip-proof when pouring at a steep angle — a minor design flaw"
   - "No built-in water filter; hard-water users will need to descale more frequently"
   - "Brew basket is slightly shallow, making it prone to overflow with finely ground coffee"
+
 ---
 
 The Bonelle_Candy isn't trying to reinvent coffee brewing. It's a straightforward drip machine that nails the fundamentals — and that's exactly why it has earned a 4.5-star average across 225 ratings. If you've been burned by $300 machines with app connectivity that fails, this is the counter-argument.

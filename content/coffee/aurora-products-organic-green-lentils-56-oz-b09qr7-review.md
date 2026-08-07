@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aurora Products Organic Green Lentils, 56 OZ"
 seo_title: "Aurora Organic Green Lentils Review: 56oz Bag, Worth It?"
 meta_description: "Our honest Aurora Products Organic Green Lentils review covers texture, cook time, and value. Is this 56oz bag worth it? Read before you buy."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09QR799ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SjIHlD9wL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently clean — minimal stones or debris reported across 240+ ratings"
   - "Holds shape well after cooking; doesn't turn to mush in soups or salads"
   - "Genuine organic certification at a price that beats most grocery store bulk bins"
-cons:
+cons: 
   - "Cooking time runs longer than package suggests — expect 25-35 minutes, not 20 inch"
   - "Bag lacks a resealable zipper; you'll need your own container for long-term storage"
+
 
 ---
 

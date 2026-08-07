@@ -1,4 +1,5 @@
 ---
+
 title: "BeleePlanner Herbal Tea Bags"
 seo_title: "BeleePlanner Herbal Tea Bags Review: Worth It? | 2026 inch"
 meta_description: "BeleePlanner Herbal Tea Bags review: 4.3-star rated caffeine-free blend. Real taste tests, pros/cons, and who should buy. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTZ555T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uB42xDsdL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 100-count box breaks down to pennies per cup — serious value for daily drinkers"
   - "Individual foil wrappers keep each bag fresh and make office/desk storage practical"
   - "Caffeine-free blend works as an evening wind-down option without disrupting sleep"
-cons:
+cons: 
   - "Flavor intensity runs mild — heavy tea drinkers may need two bags per cup"
   - "No variety pack option at this price point — you're committing to one blend"
   - "Pyramid bags would improve steeping, but these are flat paper tea bags"
+
 ---
 
 Let's be direct: this is a tea product in a coffee gear review, and that's exactly the point. If you're a coffee drinker looking to cut back on caffeine after 2 PM, the BeleePlanner Herbal Tea Bags deserve a spot in your rotation. I've tested dozens of herbal teas as a coffee alternative, and here's the honest breakdown.

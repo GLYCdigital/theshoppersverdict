@@ -1,4 +1,5 @@
 ---
+
 title: "ATTITUDE Mineral Sunscreen for Kids, SPF 30, EWG Verified, B"
 seo_title: "ATTITUDE Mineral Sunscreen for Kids Review: SPF 30, EWG Verified"
 meta_description: "Honest ATTITUDE Mineral Sunscreen for Kids review: EWG Verified, SPF 30 broad-spectrum protection. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CXQ9DPDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iFjN+jovL._SL1500_.jpg"
-pros:
+pros: 
   - "EWG Verified with a short, plant-based ingredient list — no parabens, phenoxyethanol, or synthetic fragrances"
   - "Non-nano zinc oxide provides true broad-spectrum UVA/UVB protection that won't absorb into skin"
   - "Coral-reef safe formula in a recyclable sugarcane-based tube — genuinely eco-conscious packaging"
-cons:
+cons: 
   - "Leaves a visible white cast that takes 2–3 minutes of rubbing to blend, especially on deeper skin tones"
   - "Thick, heavy texture can feel greasy on hot days; not ideal for sweaty outdoor play without reapplication"
   - "At roughly $18–20 for 5 oz, it's pricier than drugstore mineral options like Thinkbaby or Blue Lizard"
+
 ---
 
 If you've spent any time reading sunscreen labels, you know most "kids" formulas are packed with chemical filters like avobenzone or oxybenzone — ingredients that absorb into the bloodstream and have questionable safety records. ATTITUDE Mineral Sunscreen for Kids takes a different route: 100% non-nano zinc oxide, EWG Verified, and a plant-based formula that's about as clean as it gets. But clean doesn't always mean pleasant to apply, and here's where this one gets interesting.

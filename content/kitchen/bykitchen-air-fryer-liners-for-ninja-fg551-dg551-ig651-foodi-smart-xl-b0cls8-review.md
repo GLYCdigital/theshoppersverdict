@@ -1,4 +1,5 @@
 ---
+
 title: "BYKITCHEN Air Fryer Liners for Ninja FG551/DG551/IG651 Foodi"
 seo_title: "BYKITCHEN Air Fryer Liners Review: Ninja Foodi Fit (2026)"
 meta_description: "BYKITCHEN air fryer liners for Ninja FG551/DG551/IG651 Foodi: Do they fit Smart XL models? Real testing, cleanup results, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLS81ZJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716SweNOIQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-cut for FG551/DG551/IG651 baskets — no curling edges or interference with the paddle stirrer"
   - "Genuine greaseproof parchment that holds up at 450°F without burning or flaking"
   - "Box of 100 gives you months of use for under the price of a single fast-food meal"
-cons:
+cons: 
   - "Only fits the 6.5-qt Smart XL models — not compatible with the smaller Foodi 5-qt baskets"
   - "Perforated design lets grease through, so the basket still needs a quick wipe most uses"
+
 ---
 
 If you own a Ninja Foodi Smart XL — the FG551, DG551, or IG651 — you already know the pain of scrubbing that nonstick basket after every single meal. The BYKITCHEN Air Fryer Liners are a 100-count box of pre-cut parchment rounds designed specifically for those 6.5-quart models. At 4.7 stars across 235 ratings, they're clearly doing something right. But do they actually fit the paddle stirrer? And are they worth the recurring cost? Here's the real breakdown.

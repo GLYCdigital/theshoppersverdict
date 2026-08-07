@@ -1,4 +1,5 @@
 ---
+
 title: "HASK Curl Care Shampoo + Conditioner Set with Coconut and Ar"
 seo_title: "HASK Curl Care Shampoo + Conditioner Set with Coco Review"
 meta_description: "Our full hask curl care shampoo + conditioner set with coconut and ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08NV3VPQT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YYe1O+heL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most drugstore curl lines are either too watery to do anything or so heavy they turn waves into grease. The HASK Curl Care set with coconut and argan oil sits in a rare sweet spot — it's affordable, it's sulfate-free, and it actually delivers on its promise of defined, touchable curls. With 229 ratings averaging 4.6 stars, the consensus is clear. But is it right for *your* hair? Here's what you need to know before you buy.

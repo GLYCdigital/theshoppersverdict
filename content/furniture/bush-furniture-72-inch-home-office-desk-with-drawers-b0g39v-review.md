@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Furniture 72-inch Home Office Desk with Drawers"
 seo_title: "Bush Furniture 72 inch Desk with Drawers Review (2026)"
 meta_description: "Honest Bush Furniture 72-inch Home Office Desk review: build quality, drawer space, assembly pain points, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G39V4NRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dzi-c4kUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 72-inch work surface fits dual monitors plus a laptop without crowding"
   - "Three storage zones (two drawers + open cubby) at a price that undercuts most comparable laminate desks"
   - "Cable management cutouts in the back panel route cords cleanly away from view"
-cons:
+cons: 
   - "Assembly is a 90-minute project — particleboard cam locks require patience and a power drill"
   - "Drawers are shallow (about 3 inches deep) — fine for files, useless for bulkier office gear"
   - "Light oak finish scuffs easily; a desk pad is almost mandatory if you actually use it"
+
 ---
 
 Let's cut through the noise: a 72-inch desk for the price of a nice dinner out sounds like a trap. It's not. The Bush Furniture 72-inch Home Office Desk with Drawers is one of the most honest values in the budget-to-midrange laminate desk category — but it's not without compromises.

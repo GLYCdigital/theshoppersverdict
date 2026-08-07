@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl USA Pet Friendly Waterless No Rinse Shampoo for Animals"
 seo_title: "Wahl USA Pet Friendly Waterless No Rinse Shampoo f Review"
 meta_description: "Our full wahl usa pet friendly waterless no rinse shampoo for animals review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC29LD59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rxt0ShYiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Wahl USA Pet Friendly Waterless No Rinse Shampoo for Animals Review: A Solid Shortcut Between Baths**

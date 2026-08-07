@@ -1,4 +1,5 @@
 ---
+
 title: "Ardell False Lashes, Naked Lashes with Invisiband"
 seo_title: "Ardell Naked Lashes Invisiband Review: Worth It?"
 meta_description: "Honest Ardell False Lashes Naked Lashes Invisiband review: comfort, wear time, and real results. See if these natural lashes earn their 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMFRLY3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618-Kak1y3L._SL1000_.jpg"
-pros:
+pros: 
   - "Invisiband technology creates a clear, flexible base that practically disappears on the lash line—no harsh black strip"
   - "Featherlight construction (under 0.1g per pair) means you genuinely forget you're wearing them"
   - "Natural gradient from short to long mimics real lash growth patterns, not the uniform strip look"
-cons:
+cons: 
   - "The delicate fibers can fray if you're rough with removal—needs a gentle touch and proper cleanser"
   - "Not ideal for hooded eyes; the flexible band can flip if your lid crease is deep"
+
 ---
 
 Let's be direct about false lashes: most of them look like you're wearing costume shop curtains on your eyelids. The Ardell Naked Lashes with Invisiband are different—they're designed to look like your lashes, just better. With a 4.5-star average across 225 ratings, the consensus backs this up, but there's nuance worth unpacking before you buy.

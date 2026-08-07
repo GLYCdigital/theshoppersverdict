@@ -1,4 +1,5 @@
 ---
+
 title: "Siemens GNF322RA 60-Amp, 3-Pole, 240V General Duty Compact S"
 seo_title: "Siemens GNF322RA 60-Amp, 3-Pole, 240V General Duty Review"
 meta_description: "Our full siemens gnf322ra 60-amp, 3-pole, 240v general duty compact s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07PNRB5N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yuzz-LKmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're wiring a sub-panel, a commercial HVAC unit, or a piece of three-phase equipment, the disconnect switch is the one component you don't want to cheap out on. The Siemens GNF322RA sits in the middle of the market — not the cheapest, not the priciest — but with 225 ratings averaging 4.5 stars, it's clearly earning its keep. Here's the honest breakdown after digging into the specs, the build, and what actual buyers are saying.

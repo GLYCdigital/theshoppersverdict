@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Glass Coffee Table with Storage, Coffee Tables for Li"
 seo_title: "VINGLI Glass Coffee Table with Storage, Coffee Tab Review"
 meta_description: "Our full vingli glass coffee table with storage, coffee tables for li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09RH2NMJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O4x2xzNQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee table that won't visually swallow your living room, the VINGLI Glass Coffee Table with Storage deserves a hard look. With a 4.6-star average from 229 Amazon ratings, it's clearly resonating with buyers — but is it the right pick for you? Here's what you need to know before you click "add to cart."

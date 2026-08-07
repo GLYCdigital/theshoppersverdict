@@ -1,4 +1,5 @@
 ---
+
 title: "HID 1346 ProxKey III Proximity Key Fob (25 Pack)"
 seo_title: "HID 1346 ProxKey III Proximity Key Fob (25 Pack) Review: "
 meta_description: "Our full hid 1346 proxkey iii proximity key fob (25 pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B006TT1ZN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/310ZdV1MK8L._AC_SY355_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your office runs on HID proximity readers — and most corporate buildings, hospitals, and gated communities do — you already know the pain of buying replacement fobs. The OEM versions from your security integrator cost $15–$25 apiece. This 25-pack of genuine HID 1346 ProxKey III fobs undercuts that dramatically on a per-unit basis, which is why it's the go-to restock for facilities managers who've done this dance before.

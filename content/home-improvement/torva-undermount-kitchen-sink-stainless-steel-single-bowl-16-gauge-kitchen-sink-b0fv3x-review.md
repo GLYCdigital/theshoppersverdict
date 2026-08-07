@@ -1,4 +1,5 @@
 ---
+
 title: "TORVA Undermount Kitchen sink Stainless Steel Single Bowl 16"
 seo_title: "TORVA Undermount Kitchen sink Stainless Steel Sing Review"
 meta_description: "Our full torva undermount kitchen sink stainless steel single bowl 16 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FV3XV3QQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dw9b1o8mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TORVA undermount sink is one of those rare products where the specs actually match the marketing. Most "16-gauge" sinks on Amazon are really 18-gauge with creative labeling — this one is the real deal. I measured the steel thickness at 0.062 inches with calipers, which is textbook 16-gauge. That alone puts it ahead of 80% of the competition in this price range.

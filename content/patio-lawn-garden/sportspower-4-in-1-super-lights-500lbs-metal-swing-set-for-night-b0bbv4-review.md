@@ -1,4 +1,5 @@
 ---
+
 title: "Sportspower 4-in-1 Super Lights 500LBS Metal Swing Set for N"
 seo_title: "Sportspower 4-in-1 Super Lights 500LBS Metal Swing Review"
 meta_description: "Our full sportspower 4-in-1 super lights 500lbs metal swing set for n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BBV4TNFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hKGBP-W3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 500-Pound Question: Can This Swing Set Actually Deliver?

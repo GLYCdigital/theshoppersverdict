@@ -1,4 +1,5 @@
 ---
+
 title: "BELLEZE 68 inch  Wood TV Stand with 36 inch  Electric Fireplace - Harp"
 seo_title: "BELLEZE 68 inch  TV Stand Fireplace Review: Is It Worth It?"
 meta_description: "BELLEZE 68 inch  wood TV stand with 36 inch  electric fireplace review: real buyer feedback, build quality, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5LWTLK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8108OlojUuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid engineered wood construction holds up to 200 lbs — real weight capacity, not a flimsy pressboard shell"
   - "36-inch flame panel with 12 color options and adjustable brightness/heat settings gives genuine customization"
   - "Cable management holes and open shelving make setup and organization noticeably easier than competitors"
-cons:
+cons: 
   - "Assembly takes 90+ minutes with two people — the instructions are dense and some screw holes require patience to align"
   - "Fireplace heater is supplemental (5,100 BTU) — won't warm a large open-concept room, only a focused area"
+
 ---
 
 # BELLEZE 68" Wood TV Stand with 36" Electric Fireplace: The Real Deal or Just Pretty Flames?

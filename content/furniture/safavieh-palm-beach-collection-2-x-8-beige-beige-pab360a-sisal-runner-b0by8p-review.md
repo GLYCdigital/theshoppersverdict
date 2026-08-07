@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Palm Beach Collection 2' x 8' Beige/Beige PAB360A S"
 seo_title: "SAFAVIEH Palm Beach Collection 2' x 8' Beige/Beige Review"
 meta_description: "Our full safavieh palm beach collection 2' x 8' beige/beige pab360a s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY8PG1X3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91FAxQNCvRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Natural-Look Runner That Actually Beats the Real Thing — With One Annoying Caveat**

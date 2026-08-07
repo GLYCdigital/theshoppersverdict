@@ -1,4 +1,5 @@
 ---
+
 title: "Tea Tree Lemon Sage Thickening Spray, Builds Body + Boosts V"
 seo_title: "Tea Tree Lemon Sage Thickening Spray, Builds Body  Review"
 meta_description: "Our full tea tree lemon sage thickening spray, builds body + boosts v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08F8LDYW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616DYy+M58L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you have fine, flat hair, you've probably bought a "volumizing" product that delivered nothing but disappointment and a sticky scalp. The Tea Tree Lemon Sage Thickening Spray from Paul Mitchell is not that product — but it's also not a miracle in a bottle. After digging through 220 ratings and the 4.4-star average, here's the real picture of what this spray does, what it doesn't, and whether it's worth your money.

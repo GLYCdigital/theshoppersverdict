@@ -1,4 +1,5 @@
 ---
+
 title: "Sprite, 12 fl oz, 24 Pack"
 seo_title: "Sprite, 12 fl oz, 24 Pack Review: Verdict | TSV"
 meta_description: "Our full sprite, 12 fl oz, 24 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01C2EK0PG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L-U7VakiL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: you already know what Sprite tastes like. The question isn't whether this lemon-lime soda is good — it's whether this specific 24-pack of 12 oz plastic bottles is the right way to buy it. After digging through 240 ratings and the physical specs, here's the real story.

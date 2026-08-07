@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN Tools Combination Square, Metal-Body, 6-Inch (1794468)"
 seo_title: "IRWIN Tools Combination Square, Metal-Body, 6-Inch Review"
 meta_description: "Our full irwin tools combination square, metal-body, 6-inch (1794468) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01E6DR3FQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XgfdfIAmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a carpenter or serious DIYer, you already know a combination square is the workhorse of layout tools. The IRWIN 6-inch metal-body version sits in a crowded field between budget plastic junk and $80 machinist-grade instruments. After putting it through framing, trim, and shop use, here's the honest breakdown.

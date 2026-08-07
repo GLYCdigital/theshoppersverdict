@@ -1,4 +1,5 @@
 ---
+
 title: "WOODBRIDGE Acrylic Freestanding Bathtub Contemporary Soaking"
 seo_title: "WOODBRIDGE Acrylic Freestanding Bathtub Contempora Review"
 meta_description: "Our full woodbridge acrylic freestanding bathtub contemporary soaking review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4PLTLPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YNu1MBKvS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. A freestanding tub is the centerpiece of a bathroom remodel, but it's also the item most likely to disappoint if you buy on looks alone. The WOODBRIDGE Contemporary Soaking Tub has earned a 4.5-star average across 225 Amazon ratings, which tells me it's doing something right. After digging into the specs, owner feedback, and the realities of installing one of these, here's what you need to know before dropping the cash.

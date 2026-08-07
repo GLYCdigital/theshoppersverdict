@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO 42 Inch Bathroom Vanity with Sink Combo, Modern Bathroo"
 seo_title: "DWVO 42 Inch Bathroom Vanity Review: Honest 2026 Look"
 meta_description: "DWVO 42-inch bathroom vanity with sink combo review: build quality, storage, assembly, and durability. Is this modern cabinet worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F6MVWTZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Sf8SuQPHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid plywood cabinet box with soft-close hinges and dovetail drawer construction — rare at this price point"
   - "Pre-drilled holes and labeled parts make assembly manageable for one person in about an hour"
   - "High-gloss ceramic sink resists staining and cleans easily; countertop surface holds up to daily use"
-cons:
+cons: 
   - "Back panel is thin hardboard, not plywood — moisture behind the cabinet can cause swelling over time"
   - "Hardware finish is brushed nickel that shows fingerprints; included faucet feels lightweight and cheap"
   - "No pre-cut holes for the drain or faucet in the ceramic top — you'll need a diamond drill bit for DIY install"
+
 ---
 
 **The DWVO 42-inch vanity is the Ikea alternative that's actually in stock — but you need to know what you're signing up for before you commit.**

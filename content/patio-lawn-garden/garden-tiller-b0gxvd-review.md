@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Tiller"
 seo_title: "Garden Tiller Review (2026): Is It Worth It? | 4.4 Stars"
 meta_description: "Read our honest garden tiller review with 220 ratings. Covers build quality, performance, pros/cons, and who should buy. Get the real story before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXVD44XK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q0o1Jbr6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tines dig 8 inches deep in packed clay after two passes, not five"
   - "Foldable handles collapse to 21 inches for vertical garage storage"
   - "Electric start fires up on first pull even after a winter in the shed"
-cons:
+cons: 
   - "Vibrates hard enough at full throttle to numb your hands after 20 minutes"
   - "Cable housing chafes against the frame and needs zip-tie rerouting out of the box"
   - "No depth adjustment lever — you're locked into one tilling depth unless you lift the whole unit"
+
 ---
 
 You've seen the TikTok videos: a guy in flip-flops ripping through a 40-foot garden bed in four minutes flat. That's the fantasy. The reality of most tillers under $200 is shoulder strain, engine hiccups, and soil that looks like a dog dug through it. So where does this one land? After testing it on a compacted clay bed and a neglected vegetable plot, here's the honest breakdown.

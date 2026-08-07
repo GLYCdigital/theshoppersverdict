@@ -1,4 +1,5 @@
 ---
+
 title: "HMVPL MVPL Crystal Floor Lamp with Shelves,Floor Lamps for L"
 seo_title: "HMVPL MVPL Crystal Floor Lamp with Shelves,Floor L Review"
 meta_description: "Our full hmvpl mvpl crystal floor lamp with shelves,floor lamps for l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRF5HXFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ve6Pe8pCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a floor lamp with shelves usually means one of two things — either the shelves are flimsy afterthoughts barely holding a paperback, or the whole piece looks like it escaped from a 1998 office clearance sale. The HMVPL MVPL Crystal Floor Lamp with Shelves splits the difference, and mostly lands on the right side.

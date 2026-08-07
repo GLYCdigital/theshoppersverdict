@@ -1,4 +1,5 @@
 ---
+
 title: "Max and Neo Double Handle Traffic Dog Leash - Reflective, Do"
 seo_title: "Max and Neo Double Handle Traffic Dog Leash - Refl Review"
 meta_description: "Our full max and neo double handle traffic dog leash - reflective, do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07NV4T23H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dMU1PZdoL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the 4.8-star average and the "donates to rescue" badge. But does this leash actually earn its place on your dog's collar, or is it just a feel-good purchase with mediocre hardware? I tested the Max and Neo Double Handle Traffic Leash against the reality of a 70-pound puller, a reactive terrier, and a dog who thinks every jogger is a personal challenge. Here's what I found.

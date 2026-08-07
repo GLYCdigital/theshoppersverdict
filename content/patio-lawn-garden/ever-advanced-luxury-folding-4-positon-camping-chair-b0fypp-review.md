@@ -1,4 +1,5 @@
 ---
+
 title: "EVER ADVANCED Luxury Folding 4 Positon Camping Chair"
 seo_title: "EVER ADVANCED Folding Camping Chair Review: 4 Positions"
 meta_description: "Read our honest EVER ADVANCED Luxury Folding 4 Position Camping Chair review. Is this 4.5-star patio chair worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FYPPJXVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Guq2LlA5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four-position reclining mechanism with a true lie-flat option — rare at this price point"
   - "Supportive high-back design (31 inches tall) with thick foam padding on seat and lumbar area"
   - "Sturdy steel frame rated to 330 lbs, with anti-sink feet that grip grass and sand"
-cons:
+cons: 
   - "At 13.7 lbs, this is a heavy chair to lug — not ideal for backpacking or long hikes"
   - "No integrated carry strap; you'll need the included carrying bag, which is snug to repack"
+
 ---
 
 Let's cut through the noise: most folding camp chairs under $100 are flimsy, shallow-seated, and collapse after one season. The EVER ADVANCED Luxury Folding 4 Position Camping Chair is not most camp chairs. Priced as a step above the budget bin, it promises the reclining versatility of chairs that cost twice as much. After digging through 225 ratings and the specs, here's what you're actually getting.

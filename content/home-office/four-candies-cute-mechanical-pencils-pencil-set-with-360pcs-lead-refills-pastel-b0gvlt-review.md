@@ -1,4 +1,5 @@
 ---
+
 title: "Four Candies Cute Mechanical Pencils, Pencil Set with 360PCS"
 seo_title: "Four Candies Cute Mechanical Pencils, Pencil Set w Review"
 meta_description: "Our full four candies cute mechanical pencils, pencil set with 360pcs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVLT1V2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ReICBVkQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cheap mechanical pencils: most of them are either disposable junk or they snap the lead the moment you look at them wrong. The Four Candies set, though, is trying something different — and it mostly works. With 235 ratings averaging 4.7 stars, this isn't a niche product. It's a workhorse set that's earned its place in backpacks and desk drawers. But is it worth your money? Let's break it down.

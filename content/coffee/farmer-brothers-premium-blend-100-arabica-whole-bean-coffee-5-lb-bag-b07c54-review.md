@@ -1,4 +1,5 @@
 ---
+
 title: "Farmer Brothers Premium Blend 100% Arabica Whole Bean Coffee"
 seo_title: "Farmer Brothers Premium Blend Coffee Review (5 lb)"
 meta_description: "Honest Farmer Brothers Premium Blend 100% Arabica whole bean coffee review: flavor, grind quality, value, and who should buy this 5 lb bag."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07C54X521/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UdVxuj+VL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100% Arabica beans with a smooth, medium roast profile that avoids the bitter bite of cheaper blends"
   - "Massive 5 lb bag works out to roughly half the per-pound cost of typical grocery store coffee"
   - "Beans are consistently uniform in size — grinds evenly in both burr and blade grinders"
-cons:
+cons: 
   - "No roast date printed on the bag, so you're guessing at freshness; large bag can go stale if you brew slowly"
   - "Flavor is straightforward and traditional — not for those hunting single-origin complexity or fruity notes"
+
 ---
 
 Some coffee bags scream "premium" with loud graphics and buzzwords. The Farmer Brothers Premium Blend does the opposite. It's a plain 5-pound bag with a classic diner-style logo, and it looks like something your uncle's breakfast spot keeps behind the counter. That's not an accident. This is restaurant coffee, sold direct to home drinkers who want a lot of decent coffee without paying boutique prices.

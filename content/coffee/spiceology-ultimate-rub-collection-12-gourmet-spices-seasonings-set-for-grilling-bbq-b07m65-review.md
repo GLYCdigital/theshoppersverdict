@@ -1,4 +1,5 @@
 ---
+
 title: "Spiceology â€“ Ultimate Rub Collection â€“ 12 Gourmet Spices"
 seo_title: "Spiceology â€“ Ultimate Rub Collection â€“ 12 Gour Review"
 meta_description: "Our full spiceology â€“ ultimate rub collection â€“ 12 gourmet spices review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07M65JH53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+gMGptR4L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: I've tested dozens of spice sets, and most are 80% filler — cumin, paprika, and salt mixed in slightly different ratios. The Spiceology Ultimate Rub Collection isn't that. This is a 12-jar set from a Spokane-based company that actually sources distinct, proprietary blends. At 4.7 stars across 235 ratings, it's earned its reputation.

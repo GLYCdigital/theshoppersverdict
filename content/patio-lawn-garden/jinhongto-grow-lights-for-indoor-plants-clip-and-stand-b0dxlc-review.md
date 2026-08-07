@@ -1,4 +1,5 @@
 ---
+
 title: "JINHONGTO Grow Lights for Indoor Plants Clip and Stand"
 seo_title: "JINHONGTO Grow Lights for Indoor Plants Clip and S Review"
 meta_description: "Our full jinhongto grow lights for indoor plants clip and stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXLCJLXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71in5fsesdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The dual-head design is the real selling point here

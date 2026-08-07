@@ -1,4 +1,5 @@
 ---
+
 title: "Freezing point Floating Shelves for Wall Set of 2 Natural Wo"
 seo_title: "Freezing Point Floating Shelves Review: Set of 2 Natural Wood"
 meta_description: "Honest Freezing Point floating shelves review: natural wood set of 2, 4.4-star rating. Build quality, weight limits, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQH2YH4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mRH05D+cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid natural wood construction with visible grain — not laminate or MDF"
   - "Hidden mounting bracket system creates a true floating look with no visible hardware"
   - "Pre-drilled holes and included templates make installation straightforward for most drywall setups"
-cons:
+cons: 
   - "Weight capacity is modest — keep heavy hardcover books off the ends"
   - "Natural wood finish varies between sets; don't expect a uniform stain match"
+
 ---
 
 Floating shelves are one of those products where the photos always look better than the reality. The Freezing Point set of two claims to deliver that clean, bracket-free aesthetic without requiring a contractor to install. After digging through 220 ratings and the spec sheet, here's what actually matters before you click buy.

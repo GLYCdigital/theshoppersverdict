@@ -1,4 +1,5 @@
 ---
+
 title: "ELYKEN Kitchen Pantry Cabinet, 72 inch  Tall Farmhouse Pantry Sto"
 seo_title: "ELYKEN 72 inch  Pantry Cabinet Review: Farmhouse Storage That Works"
 meta_description: "Honest ELYKEN 72 inch  tall farmhouse pantry cabinet review: build quality, assembly, storage capacity, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXVJZLDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mKt-cIIwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five adjustable shelves inside plus a large cabinet body give serious storage — roughly 20 cubic feet of usable space"
   - "Farmhouse X-panel doors and a matte finish look far more expensive than the price point suggests"
   - "Solid particleboard construction with anti-tip hardware included; holds up well under daily use"
-cons:
+cons: 
   - "Assembly is a two-person job and takes 60–90 minutes — the cam-lock system is straightforward but the cabinet is heavy"
   - "Back panel is thin fiberboard; you'll want to secure it to the wall if you have kids or pets"
   - "No soft-close hinges at this price — doors close with a solid thud unless you install dampers yourself"
+
 ---
 
 If your kitchen storage situation resembles a game of Tetris with canned goods, the ELYKEN 72" Tall Farmhouse Pantry Cabinet is worth a hard look. It's a freestanding tower that stands just over six feet tall, roughly 23.5 inches wide, and about 15.5 inches deep — dimensions that slide neatly into most standard kitchen gaps or laundry rooms. It won't replace a walk-in pantry, but it will give you a serious upgrade over stacked boxes and precariously balanced cereal towers.

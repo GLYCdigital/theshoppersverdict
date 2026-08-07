@@ -1,4 +1,5 @@
 ---
+
 title: "Outdoor Cap New York Yankees Adult Adjustable Officially Lic"
 seo_title: "Outdoor Cap New York Yankees Adult Adjustable Offi Review"
 meta_description: "Our full outdoor cap new york yankees adult adjustable officially lic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B003XORWT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KIbjpcXbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: you don't need another review telling you the Yankees are a good baseball team. You need to know if this specific hat is worth your money. After digging through 225 ratings and the product specs, here's the straight story.

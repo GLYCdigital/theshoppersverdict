@@ -1,4 +1,5 @@
 ---
+
 title: "Toemics Stainless Steel Utility Sink, Free Standing Kitchen "
 seo_title: "Toemics Stainless Steel Utility Sink, Free Standin Review"
 meta_description: "Our full toemics stainless steel utility sink, free standing kitchen  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FVX8MWZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w3U7C7HpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most freestanding utility sinks under $300 are flimsy sheet-metal boxes that wobble and rust within a year. The Toemics Stainless Steel Utility Sink isn't that, but it's also not the commercial-grade unit the listing photos suggest. It sits in an awkward middle ground — and for the right buyer, that's exactly where the value is.

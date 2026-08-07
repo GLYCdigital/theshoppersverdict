@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Surface Keyboard (2nd Edition)"
 seo_title: "Microsoft Surface Keyboard (2nd Edition) Review: Verdict "
 meta_description: "Our full microsoft surface keyboard (2nd edition) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9WXWDGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gDP3Jp0dL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Microsoft Surface Keyboard (2nd Edition) isn't a mechanical gaming board, and it doesn't pretend to be. What it *is* — for a specific type of buyer — is arguably the best wireless office keyboard you can buy for a Windows-centric workspace. I've spent three weeks typing thousands of words on this thing, and here's the unvarnished truth.

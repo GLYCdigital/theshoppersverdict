@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Adjustable Wrench"
 seo_title: "DURATECH Adjustable Wrench Review: Solid Buy or Skip?"
 meta_description: "DURATECH Adjustable Wrench review: 4.6-star rated. We test jaw grip, build quality, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3QGJ8QL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z7n9mSYgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Laser-etched measurement scale on the jaw is genuinely useful for pre-setting the gap before reaching into a tight spot"
   - "CR-V steel construction with a chrome-plated finish that resists corrosion and wipes clean easily"
   - "Comfortable bi-material handle with a hang hole — small touches that make daily use better"
-cons:
+cons: 
   - "No knuckle guard, so skinned knuckles are still a real risk on stubborn fasteners in tight spaces"
   - "The adjustment worm gear works smoothly but has minor play; it won't match a premium Swiss-style mechanism"
   - "Lacks a quick-release button — you'll be spinning the gear more than a few turns on bigger adjustments"
+
 ---
 
 # DURATECH Adjustable Wrench Review: A Budget-Friendly Workhorse That Gets the Job Done

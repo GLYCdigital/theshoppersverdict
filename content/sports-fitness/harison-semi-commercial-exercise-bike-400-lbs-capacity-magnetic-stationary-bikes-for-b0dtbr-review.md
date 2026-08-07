@@ -1,4 +1,5 @@
 ---
+
 title: "HARISON Semi-Commercial Exercise Bike 400 lbs Capacity, Magn"
 seo_title: "HARISON Semi-Commercial Exercise Bike 400 lbs Capa Review"
 meta_description: "Our full harison semi-commercial exercise bike 400 lbs capacity, magn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTBRYG7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HXQmLcC2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most exercise bikes under $400 are flimsy aluminum frames rated for 250 pounds with a sticker that says "heavy duty." The HARISON Semi-Commercial is different, at least on paper. It's rated for 400 pounds, has a welded steel frame, and the price reflects the "semi-commercial" positioning rather than the typical residential junk. But does it hold up when you actually ride it?

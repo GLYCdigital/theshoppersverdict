@@ -1,4 +1,5 @@
 ---
+
 title: "AreShark 9 FT Patio Umbrella for Outdoor, Outdoor Table Umbr"
 seo_title: "AreShark 9 FT Patio Umbrella Review: Solid Shade for Less"
 meta_description: "AreShark 9 FT patio umbrella review: 4.5-star rated. We test tilt, crank, and fabric. Is it worth your money? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2MFZHP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kemS8Q6YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Push-button tilt mechanism locks into 6 angles — no fiddly crank-and-tilt combos"
   - "Double-brushed 180g polyester fabric blocks heat better than cheaper 160g options"
   - "8 reinforced ribs with anti-corrosion coating handle light gusts without bending"
-cons:
+cons: 
   - "Pole diameter is 1.5 inches — won't fit standard 2-inch patio table bases without an adapter"
   - "Fabric is water-resistant but not waterproof; heavy rain will soak through eventually"
+
 ---
 
 If you've ever wrestled with a patio umbrella that won't tilt, drips on your guests, or collapses in a breeze, the AreShark 9 FT is worth a hard look. With 225 ratings averaging 4.5 stars, it's clearly doing something right. But is it right for *your* table? Let's dig into the details.

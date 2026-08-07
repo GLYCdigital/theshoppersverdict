@@ -1,23 +1,25 @@
 ---
+
 title: "Bundle x Joy Superfood Dog Treats Review: Salmon, Chicken & Beef"
 seo_title: "Bundle x Joy Superfood Dog Treats Review (2026): Salmon, Chicken, Beef"
 meta_description: "Honest Bundle x Joy Superfood Dog Treats review: salmon, chicken & beef jerky bars. 4.4-star rated. Ingredients, texture, picky eaters, pros & cons."
 slug: "bundle-x-joy-superfood-dog-treats-salmon-chicken-or-beef-jerky-bars-b0fvz2-review"
 image_alt: "Bundle x Joy Superfood Dog Treats — salmon, chicken, and beef jerky bars in a resealable pouch"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVZ2H3DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gLvqPjmLL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Single-ingredient protein (salmon, chicken, or beef) — no fillers, grains, or artificial additives"  
   - "Soft, chewy texture that breaks easily — works for senior dogs and small breeds"  
   - "Resealable pouch keeps treats fresh; 4.4-star average across 220+ ratings confirms consistency"  
-cons:  
+cons: 
   - "Strong fishy smell on the salmon variety — noticeable indoors and on your hands"  
   - "Pieces can vary in size — some arrive crumbled, especially in the beef batch"
+
 ---
 
 **Opening Hook: What Makes These Treats Worth Your Money?**  

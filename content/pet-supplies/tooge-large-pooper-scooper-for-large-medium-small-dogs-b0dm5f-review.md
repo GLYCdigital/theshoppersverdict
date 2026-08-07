@@ -1,4 +1,5 @@
 ---
+
 title: "TOOGE Large Pooper Scooper for Large Medium Small Dogs"
 seo_title: "TOOGE Large Pooper Scooper for Large Medium Small  Review"
 meta_description: "Our full tooge large pooper scooper for large medium small dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM5FBDS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BBycxd7fL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever played the "hover over the pile and pray" game with a flimsy scooper, you know the stakes. The TOOGE Large Pooper Scooper enters the ring claiming to end that nonsense — and for the most part, it delivers. With 220 ratings averaging 4.4 stars, it's clearly earning its keep in backyards across America. But is it the last scooper you'll ever buy? Let's dig in.

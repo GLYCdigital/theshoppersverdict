@@ -1,4 +1,5 @@
 ---
+
 title: "Gonhom 4 Pack A19 LED Green Light Bulb,9 Watt Green Lights E"
 seo_title: "Gonhom 4 Pack A19 LED Green Light Bulb,9 Watt Gree Review"
 meta_description: "Our full gonhom 4 pack a19 led green light bulb,9 watt green lights e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1X5VF1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Jj012G-jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for colored bulbs, you've probably seen the usual suspects: cheap plastic-coated LEDs that fade after a month, or party bulbs that look orange instead of red. The Gonhom 4-pack A19 LED green bulbs sit in a different lane. These are purpose-built colored bulbs with a frosted glass finish, and they deliver what they promise — consistent, saturated green light without the washed-out look you get from cheaper alternatives.

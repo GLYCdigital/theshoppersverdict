@@ -1,4 +1,5 @@
 ---
+
 title: "CamPingSurvivals 20/24/26 Inch Mountain Bike for Men/Women,"
 seo_title: "CamPingSurvivals Mountain Bike Review: Honest 2026 Verdict"
 meta_description: "CamPingSurvivals 20/24/26 inch mountain bike reviewed: build quality, ride comfort, and value for men & women. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DB5YRXPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OJVczEFJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Three frame sizes (20/24/26 inch) cover riders from roughly 4'8 inch " to 6'2 inch ", so families can buy one model for multiple heights.
   - "Front and rear suspension plus 2.1-inch knobby tires absorb trail chatter that would rattle a rigid commuter bike."
   - "Dual disc brakes (mechanical, not hydraulic) provide reliable stopping power in wet or muddy conditions where rim brakes fade."
-cons:
+cons: 
   - "Assembly takes 90 minutes to 2 hours even with the included tools; the brake calipers and derailleur arrive needing precise adjustment."
   - "At roughly 38-42 pounds depending on size, this is a heavy bike — expect a workout carrying it up stairs or loading onto a rack."
   - "The suspension fork is coil-spring only; it's fine for light trails but won't soak up aggressive drops or rock gardens."
+
 ---
 
 Let's cut through the listing photos and talk about what this CamPingSurvivals mountain bike actually delivers for $200-ish (price varies by size). With 204 ratings averaging 4.1 stars, it's clearly selling well — but is it the right bike for *you*? Here's the honest breakdown.

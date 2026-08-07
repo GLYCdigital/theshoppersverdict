@@ -1,4 +1,5 @@
 ---
+
 title: "Oneluck Cat Cage with Litter Box,4-Tier DIY Enclosures Large"
 seo_title: "Oneluck Cat Cage with Litter Box,4-Tier DIY Enclos Review"
 meta_description: "Our full oneluck cat cage with litter box,4-tier diy enclosures large review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FKTJXWGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91oCnGvvMEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Oneluck 4-Tier Cat Cage: Vertical Space That Actually Works — With a Few Caveats**

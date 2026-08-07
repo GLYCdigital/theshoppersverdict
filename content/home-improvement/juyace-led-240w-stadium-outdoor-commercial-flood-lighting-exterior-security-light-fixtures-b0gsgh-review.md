@@ -1,4 +1,5 @@
 ---
+
 title: "Juyace LED 240W Stadium Outdoor Commercial Flood Lighting Ex"
 seo_title: "Juyace LED 240W Stadium Outdoor Commercial Flood L Review"
 meta_description: "Our full juyace led 240w stadium outdoor commercial flood lighting ex review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSGHS5XY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BF7v17rWL._AC_SL1366_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Juyace LED 240W Stadium Flood Light: Commercial-Grade Brightness Without the Electrician

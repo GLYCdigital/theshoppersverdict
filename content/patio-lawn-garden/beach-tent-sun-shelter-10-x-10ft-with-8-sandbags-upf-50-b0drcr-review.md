@@ -1,4 +1,5 @@
 ---
+
 title: "Beach Tent Sun Shelter 10 x 10FT with 8 Sandbags, UPF 50+ Pr"
 seo_title: "Beach Tent Sun Shelter Review: 10x10 UPF 50+ Worth It?"
 meta_description: "Honest Beach Tent Sun Shelter 10x10FT review: UPF 50+ shade, 8 sandbags, real wind performance. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRCRPW5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuine 10x10 coverage—fits a family of four with gear, not the 'fits two' exaggeration common in cheap pop-ups"
   - "Eight sandbags included and pre-attached, saving you $20+ on separate weights"
   - "UPF 50+ fabric with silver coating blocks measurable heat, not just glare"
-cons:
+cons: 
   - "No side walls included; angled sun at 4 PM will sneak under the canopy"
   - "Poles are fiberglass, not aluminum—fine for calm days, questionable in steady 15+ mph wind"
   - "Carry bag is a tight squeeze; repacking takes two hands and patience"
+
 ---
 
 ## The 10x10 shade that actually delivers on its numbers

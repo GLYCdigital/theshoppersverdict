@@ -1,4 +1,5 @@
 ---
+
 title: "Sylvania 13W CFL T2 Spiral Light Bulb, 60W Equivalent, 850 L"
 seo_title: "Sylvania 13W CFL T2 Spiral Light Bulb, 60W Equival Review"
 meta_description: "Our full sylvania 13w cfl t2 spiral light bulb, 60w equivalent, 850 l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WTX5GF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Try-duUSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The last CFL you'll buy — or the first one that'll make you reconsider LED**

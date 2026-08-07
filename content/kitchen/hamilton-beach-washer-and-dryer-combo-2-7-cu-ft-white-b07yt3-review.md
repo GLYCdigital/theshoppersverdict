@@ -1,4 +1,5 @@
 ---
+
 title: "HAMILTON BEACH Washer and Dryer Combo 2.7 cu ft - White"
 seo_title: "HAMILTON BEACH Washer and Dryer Combo 2.7 cu ft -  Review"
 meta_description: "Our full hamilton beach washer and dryer combo 2.7 cu ft - white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B07YT3GPBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714YYTw25NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a 3.2-star average on 160 ratings should give you pause. But the Hamilton Beach 2.7 cu ft Washer/Dryer Combo isn't a bad machine — it's a niche machine, and it's only right for a specific kind of buyer. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "FDW Dining Chairs Set of 4 Dining Room Chairs for Home Kitch"
 seo_title: "FDW Dining Chairs Set of 4 Review: Honest Buyer's Guide"
 meta_description: "FDW Dining Chairs Set of 4 review: Real customer feedback on comfort, assembly, and durability. Is this budget-friendly set worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D8YF5VF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ox+9oYy4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood legs with cross-bracing that hold up to 250+ lbs despite the light frame"
   - "Easy 15-minute assembly with pre-drilled holes and all tools included"
   - "Fabric upholstery is stain-resistant and wipes clean with mild soap"
-cons:
+cons: 
   - "Seat cushion is firm — not plush — so extended sitting beyond 1-2 hours gets uncomfortable"
   - "Backrest sits low; tall users (6'+) report it hits mid-back rather than offering lumbar support"
+
 ---
 
 # FDW Dining Chairs Set of 4: The Budget Set That Doesn't Wobble

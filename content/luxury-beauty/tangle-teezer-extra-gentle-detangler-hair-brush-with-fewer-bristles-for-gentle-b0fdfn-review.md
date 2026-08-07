@@ -1,4 +1,5 @@
 ---
+
 title: "Tangle Teezer Extra Gentle Detangler Hair Brush, with Fewer "
 seo_title: "Tangle Teezer Extra Gentle Detangler Hair Brush, w Review"
 meta_description: "Our full tangle teezer extra gentle detangler hair brush, with fewer  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDFNDX75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710Bm36eJPL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got fine, fragile, or post-bleach hair, you already know the terror of a brush snagging mid-stroke. The Tangle Teezer Extra Gentle Detangler is designed specifically for that fear — and it mostly delivers.

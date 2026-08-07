@@ -1,7 +1,8 @@
 ---
-title: "HP Victus 15.6\" FHD 144Hz Gaming Laptop, AMD Ryzen 5-7535HS,"
-seo_title: "HP Victus 15.6\" FHD 144Hz Gaming Laptop, AMD Ryzen Review"
-meta_description: "Our full hp victus 15.6\" fhd 144hz gaming laptop, amd ryzen 5-7535hs, review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Victus 15.6\ FHD 144Hz Gaming Laptop, AMD Ryzen 5-7535HS,"
+seo_title: "HP Victus 15.6\ FHD 144Hz Gaming Laptop, AMD Ryzen Review"
+meta_description: "Our full hp victus 15.6\ fhd 144hz gaming laptop, amd ryzen 5-7535hs, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-victus-15-6-fhd-144hz-gaming-laptop-amd-ryzen-5-7535hs-b0dn1f-review"
 image_alt: "HP Victus 15.6 FHD 144Hz Gaming Laptop, AMD Ryzen 5-7535HS, AMD Radeon RX 6550M (Beats RTX 2050), Backlit Keyboard, Wind"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DN1FKJ39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MO09D2p8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the HP Victus 15.6 is the budget gaming laptop everyone recommends, and for good reason. At this price point—often dipping under $700 on sale—you're getting a 144Hz screen and a Ryzen 5 that punches well above its class. But it's not perfect, and the 4.2-star average from 210 ratings tells the real story: satisfied buyers who know exactly what they sacrificed for the price tag.

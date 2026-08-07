@@ -1,4 +1,5 @@
 ---
+
 title: "GE LED Light Bulbs, 65 Watt, Daylight, BR30 Indoor Floodligh"
 seo_title: "GE LED BR30 Floodlight Bulbs Review: 12-Pack Daylight (2026)"
 meta_description: "Honest GE LED BR30 daylight floodlight review: brightness, color accuracy, lifespan, and 12-pack value. See if these 65W-equivalent bulbs fit your recessed cans."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09LPL4DGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-m1VbDlzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5000K daylight output with CRI that makes colors look natural, not washed out"
   - "12-pack pricing lands well under $2 per bulb — legitimate value for whole-home retrofits"
   - "Instant-on at full brightness with zero flicker, even on dimmer switches rated for LED"
-cons:
+cons: 
   - "Daylight 5000K is unforgiving — shows every smudge, scratch, and dust speck on surfaces"
   - "Bulb diameter (5.06 inches) too wide for some older 5-inch recessed housings"
   - "No included dimmer compatibility guarantee — you'll need to check your specific switch model"
+
 ---
 
 If you're replacing incandescent BR30 floodlights in recessed cans, you already know the pain: yellow light, heat pouring down from the ceiling, and $8 electric bills just to light a hallway. These GE LED BR30s in daylight solve the heat problem and the color problem, but they bring their own quirks. Here's the real story after digging through specs and 229 verified buyer ratings.

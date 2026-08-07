@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Disney Frozen Toys, Elsa Fashion Doll & Accessory wit"
 seo_title: "Mattel Disney Frozen Toys, Elsa Fashion Doll & Acc Review"
 meta_description: "Our full mattel disney frozen toys, elsa fashion doll & accessory wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2BF33BG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YyFlrx3hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Is This The Elsa Doll Your Kid Actually Wants?

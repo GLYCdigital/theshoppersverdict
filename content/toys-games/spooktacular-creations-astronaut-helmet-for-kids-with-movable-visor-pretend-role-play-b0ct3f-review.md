@@ -1,4 +1,5 @@
 ---
+
 title: "Spooktacular Creations Astronaut Helmet for Kids with Movabl"
 seo_title: "Spooktacular Creations Astronaut Helmet for Kids w Review"
 meta_description: "Our full spooktacular creations astronaut helmet for kids with movabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CT3FDFKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qIknmd6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "TECKNET 2.4G Small Wireless Keyboard"
 seo_title: "TECKNET 2.4G Small Wireless Keyboard Review: Verdict | TS"
 meta_description: "Our full tecknet 2.4g small wireless keyboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLL7J7ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iWIJKFeBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The TECKNET 2.4G is a no-nonsense compact keyboard that nails the basics for under $25 — but it's not for everyone.**

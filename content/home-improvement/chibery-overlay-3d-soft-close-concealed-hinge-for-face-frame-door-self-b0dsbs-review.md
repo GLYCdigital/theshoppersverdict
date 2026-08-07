@@ -1,4 +1,5 @@
 ---
+
 title: "Chibery Overlay 3D Soft Close Concealed Hinge for Face Frame"
 seo_title: "Chibery Overlay 3D Hinge Review: Soft Close, 3D Adjustable"
 meta_description: "Chibery Overlay 3D Soft Close Concealed Hinge review: 4.7★ rated. Real-world fit, adjustment range, and soft-close performance for face frame cabinets."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSBSXL3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lrOg0JZkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3D adjustment (±2mm vertical, ±2mm horizontal, ±2mm depth) makes alignment on imperfect face frames genuinely achievable without shims"
   - "Soft-close mechanism engages reliably in the final 30 degrees of travel — no door slamming even on heavier shaker-style doors"
   - "Zinc alloy construction with anti-rust coating holds up in humid environments like bathrooms and laundry rooms"
-cons:
+cons: 
   - "No template guide or drilling jig included — you'll need your own 35mm Forstner bit and careful measurements for the cup depth"
   - "Mounting screws are soft steel; replace them with better quality screws if you're installing into particleboard or MDF"
+
 ---
 
 If you're building face frame cabinets, you already know the hinge problem: you need something that mounts to the frame *and* the door, adjusts in three planes, and doesn't slam shut every time someone walks by. The Chibery Overlay 3D Soft Close hinge attempts to solve all three. After checking the specs, the 4.7-star rating across 235 reviews, and how it actually behaves in real installations, here's the honest breakdown.

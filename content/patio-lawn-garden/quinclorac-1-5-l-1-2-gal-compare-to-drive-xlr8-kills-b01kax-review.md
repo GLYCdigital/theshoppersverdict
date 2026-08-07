@@ -1,4 +1,5 @@
 ---
+
 title: "Quinclorac 1.5 L -(1/2 gal.) Compare to Drive XLR8- Kills Cr"
 seo_title: "Quinclorac 1.5 L -(1/2 gal.) Compare to Drive XLR8 Review"
 meta_description: "Our full quinclorac 1.5 l -(1/2 gal.) compare to drive xlr8- kills cr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01KAXG7QC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cPd3haDcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at a crabgrass invasion and balking at Drive XLR8's $90-per-bottle price tag, this quinclorac 1.5L generic is the answer. Same active ingredient (75% quinclorac), same kill spectrum, roughly half the cost per ounce. But "generic" doesn't mean "identical" — here's what 225 Amazon reviewers (4.5 stars) actually discovered.

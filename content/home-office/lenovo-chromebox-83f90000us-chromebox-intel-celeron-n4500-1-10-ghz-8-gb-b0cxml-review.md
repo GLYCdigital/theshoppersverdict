@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo Chromebox 83F90000US Chromebox - Intel Celeron N4500 "
 seo_title: "Lenovo Chromebox 83F90000US Chromebox - Intel Cele Review"
 meta_description: "Our full lenovo chromebox 83f90000us chromebox - intel celeron n4500  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXMLVMPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gB4ypQiQL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Tiny Desktop That Replaced My Full-Size Tower

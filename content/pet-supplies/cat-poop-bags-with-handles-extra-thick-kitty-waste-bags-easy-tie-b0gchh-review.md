@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Poop Bags with Handles, Extra-Thick Kitty Waste Bags - E"
 seo_title: "Cat Poop Bags With Handles Review: Extra-Thick & Reliable"
 meta_description: "Honest review of extra-thick cat poop bags with handles. Are they leak-proof and worth buying? We break down durability, value, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GCHHRSDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lux+NYFJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Handles make tying and carrying mess-free — no fumbling with knots when the bag is full"
   - "Extra-thick material holds up against clumping litter and urine weight without tearing"
   - "Scent control is genuinely effective, not just a light perfume over the smell"
-cons:
+cons: 
   - "Roll refill format means you need a dispenser or somewhere to store the loose roll"
   - "Handle design adds bulk — you won't fit as many bags per inch as flat-style options"
+
 ---
 
 Let’s be honest: scooping the litter box is nobody’s favorite chore. But a good bag makes it tolerable. These extra-thick cat poop bags with handles have earned a 4.6-star average from 229 ratings — and after digging through what buyers actually say, the praise is mostly warranted.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmia Air Fryer 7 QT - Easy View Panoramic Window & Interi"
 seo_title: "Gourmia Air Fryer 7 QT - Easy View Panoramic Windo Review"
 meta_description: "Our full gourmia air fryer 7 qt - easy view panoramic window & interi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZXM5CYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w8oBjL+2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about air fryers: most of them are opaque black boxes that force you to slide the basket out mid-cook, lose all your heat, and squint at half-cooked food. The Gourmia 7 QT with its panoramic window and interior light tries to fix that. Does it work? Mostly, yes — with a few tradeoffs you should know about before you hit "add to cart."

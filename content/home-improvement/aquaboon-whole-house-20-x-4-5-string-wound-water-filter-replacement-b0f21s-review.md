@@ -1,4 +1,5 @@
 ---
+
 title: "Aquaboon Whole House 20 inch  x 4.5 inch  String Wound Water Filter Re"
 seo_title: "Aquaboon 20x4.5 String Wound Filter Review (2026)"
 meta_description: "Aquaboon 20 inch  x 4.5 inch  string wound whole house filter replacement: 4.6-star rated. We break down lifespan, pressure drop, and sediment removal."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F21SDP7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S3B3e+g9S._AC_SL1500_.jpg"
-pros:
+pros: 
   - Deep 20 inch " x 4.5 inch " format provides roughly 2-3x the dirt-holding capacity of standard 10 inch " filters, cutting replacement frequency
   - "String wound construction with graded density (loose outer, tight inner) traps both large debris and fine 5-micron particles"
   - "Polypropylene core resists channeling and collapse — holds shape under high flow without bypassing unfiltered water"
-cons:
+cons: 
   - "At 5-micron rating, it will restrict flow more than a 20- or 30-micron filter on high-demand households"
   - "No carbon media — this is sediment-only protection; you'll still need a separate carbon stage for taste/odor"
+
 ---
 
 If you're tired of replacing those little 10-inch filters every six weeks, this is the upgrade that buys you months, not weeks. The Aquaboon 20" x 4.5" string wound filter is a big-boy cartridge for whole-house systems, and at 4.6 stars across 229 ratings, it's earning its keep in real homes — not just marketing brochures.

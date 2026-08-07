@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 2 Year B2B Laptop Accident Protection Plan ($1500 -"
 seo_title: "ASURION 2-Year Laptop Accident Protection Review (2026)"
 meta_description: "ASURION 2-Year B2B Laptop Accident Protection Plan review: coverage details, claim process, deductibles, and whether it's worth the cost for business laptops."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D178GHZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CCjD0tREL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers drops, spills, and cracked screens — the three most common laptop failures — with no per-claim cap beyond the plan's purchase price tier"
   - "Claims can be filed entirely online with photo evidence; most approved claims ship a replacement within 3-5 business days"
   - "Transferable if you sell the laptop, which adds resale value for business fleets"
-cons:
+cons: 
   - "Non-refundable after 30 days, even if you never file a claim — you're betting on a failure that may not happen"
   - "Deductible of $99 per claim eats into the value for minor repairs like a $150 screen replacement"
   - "Does not cover cosmetic damage, so a dented corner with no functional issue won't qualify"
+
 ---
 
 **Is ASURION's 2-Year B2B Laptop Accident Protection Plan worth your money?**

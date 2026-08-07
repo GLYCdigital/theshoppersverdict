@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original Bluey 10-Inch HugMees - Medium-Sized "
 seo_title: "Squishmallows Original Bluey 10-Inch HugMees - Med Review"
 meta_description: "Our full squishmallows original bluey 10-inch hugmees - medium-sized  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTXL4CQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oKg-HlWhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid is obsessed with Bluey — and let's be honest, whose isn't — you've probably been eyeing this Squishmallows HugMees plush. The question is whether it's actually worth the money or just another licensed toy that'll end up in the donation bin by Christmas. I've spent time with this one, and here's the honest breakdown.

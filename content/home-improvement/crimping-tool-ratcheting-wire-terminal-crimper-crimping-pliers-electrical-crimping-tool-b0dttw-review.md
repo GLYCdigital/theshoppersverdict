@@ -1,4 +1,5 @@
 ---
+
 title: "Crimping Tool - Ratcheting Wire Terminal Crimper - Crimping"
 seo_title: "Ratcheting Wire Crimping Tool Review: Solid Terminal Crimps"
 meta_description: "Honest review of the ratcheting wire terminal crimper. See how it handles insulated and non-insulated connectors, build quality, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTTWS998/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V07s+9j9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ratcheting mechanism delivers consistent, full crimps without hand fatigue — no more half-squeezed terminals"
   - "Precision dies handle both insulated and non-insulated connectors from 22 AWG up to 10 AWG"
   - "Built-in ratchet release lever saves you from ruined connectors when you need to bail mid-crimp"
-cons:
+cons: 
   - "No color-coded or labeled dies — you'll need to reference the size chart until you memorize the positions"
   - "The wire cutter/stripper built into the handle is functional but not a replacement for a dedicated stripper"
+
 ---
 
 If you've ever squeezed a cheap pair of crimpers until your palm ached, only to produce a terminal that pulls off the wire with a light tug, you know the pain. That's exactly the problem this ratcheting wire terminal crimper solves. It's the tool that makes you wonder why you didn't buy it sooner.

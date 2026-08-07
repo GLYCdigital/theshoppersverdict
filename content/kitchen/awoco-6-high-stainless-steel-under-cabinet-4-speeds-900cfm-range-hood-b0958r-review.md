@@ -1,4 +1,5 @@
 ---
+
 title: "Awoco 6 inch  High Stainless Steel Under Cabinet 4 Speeds 900CFM"
 seo_title: "Awoco 6 inch  Under Cabinet Range Hood Review: 900CFM Power"
 meta_description: "Awoco 6 inch  high under cabinet range hood review: 900CFM, 4 speeds, stainless steel. Real pros, cons, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0958RLTSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716JM+pNwTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "900 CFM airflow actually clears smoke fast—not the typical under-cabinet weakling"
   - "6-inch height fits tight clearances where most hoods won't; true space-saver design"
   - "4 speeds give real control, and the lowest setting is genuinely quiet for simmering"
-cons:
+cons: 
   - "Installation requires ductwork confidence; recirculating kit sold separately and adds cost"
   - "At high speed, fan noise is substantial—expect conversation disruption, not background hum"
+
 ---
 
 Let's be clear about what the Awoco 6" High is: it's not another pretty face pretending to vent your kitchen. At 900 CFM, this thing moves air like a proper range hood should, not like the decorative 400 CFM boxes most under-cabinet models settle for. If you've ever seared a steak and watched smoke roll toward your smoke detector, you know exactly why that number matters.

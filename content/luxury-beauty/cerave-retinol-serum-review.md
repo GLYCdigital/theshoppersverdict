@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe Retinol Serum"
 seo_title: "CeraVe Retinol Serum Review: Pros, Cons & Results (2026)"
 meta_description: "Does CeraVe Retinol Serum actually smooth fine lines? Our expert review covers real results, ingredients, and who should buy it. 4.6/5 stars."
@@ -11,14 +12,15 @@ review_count: 56080
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zvPJqU7FL._SL1500_.jpg"
-pros:
+pros: 
   - "Encapsulated retinol delivers visible smoothing without the peeling and redness typical of retinol"
   - "MVE delivery technology releases moisture gradually — no dry patches even with nightly use"
   - "Fragrance-free, non-comedogenic formula that layers cleanly under SPF or moisturizer"
-cons:
+cons: 
   - "Results appear slowly — expect 6-10 weeks before fine lines visibly soften"
   - "Packaging doesn't indicate when the retinol degrades; write your purchase date on the bottle"
   - "Not strong enough for advanced users who need prescription-level results"
+
 ---
 
 ## This Might Be the Most Beginner-Friendly Retinol That Actually Works

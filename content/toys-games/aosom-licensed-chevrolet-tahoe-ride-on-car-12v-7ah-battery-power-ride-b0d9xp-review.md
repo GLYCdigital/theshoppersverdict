@@ -1,4 +1,5 @@
 ---
+
 title: "Aosom Licensed Chevrolet Tahoe Ride On Car, 12V 7AH Battery"
 seo_title: "Aosom Chevrolet Tahoe Ride On Car Review: 12V Power"
 meta_description: "Aosom Licensed Chevy Tahoe ride-on review: 12V 7AH battery, real features, honest downsides. Is it worth $300? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9XPL9GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BiImYK8PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine GM-licensed body with realistic Tahoe badging, chrome grille, and working doors — not a generic SUV shell"
   - "12V 7AH battery delivers roughly 60-90 minutes of continuous run time, noticeably better than the 4.5AH units on cheaper models"
   - "Dual 40W motors provide real torque for hills up to 15% grade and grass, not just flat pavement"
-cons:
+cons: 
   - "Assembly is a 2-hour project with 40+ bolts and fiddly door alignment — budget the time or pay someone"
   - "Plastic body panels scratch easily; the glossy paint shows driveway gravel marks within weeks of heavy use"
   - "Parent remote control has a 30-foot range and can lag through walls, which frustrates some buyers expecting full override control"
+
 ---
 
 ## A Licensed Tahoe That Actually Looks Like a Tahoe

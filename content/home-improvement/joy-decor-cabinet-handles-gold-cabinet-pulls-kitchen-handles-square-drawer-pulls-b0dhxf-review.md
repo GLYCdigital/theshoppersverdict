@@ -1,4 +1,5 @@
 ---
+
 title: "JOY DECOR Cabinet Handles, Gold Cabinet Pulls, Kitchen Handl"
 seo_title: "JOY DECOR Cabinet Handles, Gold Cabinet Pulls, Kit Review"
 meta_description: "Our full joy decor cabinet handles, gold cabinet pulls, kitchen handl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHXFCCLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UgnZaYvYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The gold hardware trend isn't going anywhere — and if you're shopping this category, you've probably already stared at a dozen listings wondering if the "gold" will look cheap or classy.** The JOY DECOR Cabinet Handles sit squarely in the upper tier of what you'll find at this price point, and the 4.6-star average across 229 ratings suggests most buyers agree. But let's dig into whether these pulls actually hold up — and who should skip them.

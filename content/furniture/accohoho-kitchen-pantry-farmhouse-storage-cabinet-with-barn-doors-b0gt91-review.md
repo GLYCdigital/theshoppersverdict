@@ -1,4 +1,5 @@
 ---
+
 title: "ACCOHOHO Kitchen Pantry, Farmhouse Storage Cabinet with Barn"
 seo_title: "ACCOHOHO Kitchen Pantry Review: Farmhouse Cabinet Worth It?"
 meta_description: "ACCOHOHO kitchen pantry farmhouse cabinet review: 4.4-star rated. We tested build quality, storage capacity, and assembly. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT91J2YQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m6fb94pjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sliding barn doors operate smoothly on the track — no swinging doors eating up floor space in tight kitchens"
   - "Three adjustable shelves per side give real flexibility for cereal boxes, small appliances, or stacked dinnerware"
   - "Sturdy MDF construction with a protective finish that resists fingerprints and wipes clean easily"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes with roughly 40 steps — plan for a patient afternoon, not a quick setup"
   - "The barn door hardware sits proud of the cabinet face, so it won't sit flush against a wall if you push it into a corner"
+
 ---
 
 Let's be blunt: most pantry cabinets under $200 are flimsy pressed-board nightmares that wobble when you look at them wrong. The ACCOHOHO Farmhouse Pantry isn't that. It's also not a heirloom-quality piece of furniture. It sits somewhere in the practical middle — and for a lot of kitchens, that's exactly the right spot.

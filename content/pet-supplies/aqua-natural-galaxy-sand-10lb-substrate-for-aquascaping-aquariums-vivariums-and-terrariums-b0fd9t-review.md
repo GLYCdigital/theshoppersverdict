@@ -1,4 +1,5 @@
 ---
+
 title: "Aqua Natural Galaxy Sand 10lb Substrate for aquascaping, Aqu"
 seo_title: "Aqua Natural Galaxy Sand 10lb Review: Aquascaping Substrate"
 meta_description: "Aqua Natural Galaxy Sand 10lb substrate review: coverage, grain size, and whether this dark sand suits planted tanks, cichlids, or shrimp. Real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FD9TWJG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IdQVEA+lS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dark, near-black color makes fish pop and hides mulm effectively — visually striking in any tank"
   - "Grain size is fine enough for rooted plants and burrowing species like corydoras, yet heavy enough not to cloud water when rinsed"
   - "Inert, pH-neutral composition works with freshwater, shrimp, and even African cichlid setups without altering water chemistry"
-cons:
+cons: 
   - "Requires thorough rinsing before use — multiple washes are needed to remove fine dust, and some buyers report cloudy water on day one"
   - "10lb bag covers only a modest footprint (roughly 1-2 inches in a 10-gallon tank), so larger aquariums need multiple bags"
   - "No added nutrients — this is purely aesthetic and structural substrate, not a planted-tank soil, so root tabs are essential for heavy plant growth"
+
 ---
 
 **The Dark Horse of Aquascaping Substrates**

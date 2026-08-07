@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers Review: Built for Pros"
 seo_title: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers Review (2026)"
 meta_description: "Review of Klein Tools D213-9NE-CR Lineman's Crimping Pliers. 4.8★ from 1,329 reviews. High-leverage, induction-hardened, made in USA. Real customer quotes included."
@@ -12,34 +13,35 @@ amazon_rating: 4.8
 review_count: 1329
 verdict_score: 4.6
 price: 91.66
-categories:
+categories: 
   - "Home Improvement"
   - "Tools"
   - "Electrical Tools"
-tags:
+tags: 
   - "lineman pliers"
   - "klein tools"
   - "crimping pliers"
   - "electrical tools"
   - "made in usa"
   - "home improvement"
-pros:
+pros: 
   - "American-made with flawless fit and finish; joint is machined flush and logo engravings line up perfectly"
   - "High-leverage design delivers 46% greater cutting and gripping power than standard pliers"
   - "Induction-hardened cutting knives provide years of service — users report 8+ years before dulling"
   - "Built-in crimping die behind hinge offers superior leverage for terminals, lugs, and non-insulated connectors"
   - "Cross-hatched knurled jaws and comfortable dipped handles provide excellent grip and control"
-cons:
+cons: 
   - "Cutting edge will dull eventually under heavy daily use — some pros replace twice a year"
   - "Premium price compared to imported options, though most users consider it worth the cost"
   - "Not designed for cutting hardened screws or nails; using it for that will damage the cutters"
-faq:
+faq: 
   - question: "What do users like most about the Klein Tools D213-9NE-CR Lineman's Pliers?"
     answer: "Users consistently praise the American-made quality with flawless fit and finish, the high-leverage design delivering 46% greater cutting power, and the built-in crimping die that makes terminal connections effortless. Many electricians report 8+ years of service before the cutting edges dull."
   - question: "What are the common complaints about this product?"
     answer: "The most common criticism is that the cutting edge will eventually dull under heavy daily use — some professional electricians replace them twice a year. The premium price compared to imported options is also noted, though most users consider it well worth the investment."
   - question: "Are the Klein D213-9NE-CR pliers worth the premium price?"
     answer: "Based on over 1,300 Amazon reviews with a 4.8/5 rating, the Klein D213-9NE-CR is widely regarded as the gold standard for lineman pliers. The 46% greater leverage, induction-hardened cutting knives, and genuine USA craftsmanship justify the price for professionals who depend on their tools daily."
+
 ---
 
 The Klein Tools D213-9NE-CR isn't just another pair of pliers — it's the tool that veteran electricians reach for day after day. With a **4.8-star rating** from over **1,329 Amazon reviews** and a price tag of **$91.66**, it sits firmly in professional territory. But does it deliver on its promise of superior leverage, long-lasting durability, and genuine American craftsmanship? We combed through the customer reviews to find out.

@@ -1,24 +1,26 @@
 ---
+
 title: "Clinique All About Shadow Eye Shadow Quad | Long Lasting, Cr"
 seo_title: "Clinique All About Shadow Quad Review: Long-Lasting Wear"
 meta_description: "Honest Clinique All About Shadow Eye Shadow Quad review: crease-resistant formula, blendability, and wear test results. See if this 4.5-star quad is worth it."
 slug: "clinique-all-about-shadow-eye-shadow-quad-long-lasting-crease-fade-resistant-b0dvqb-review"
 image_alt: "Clinique All About Shadow Eye Shadow Quad in compact with four neutral shades and mirror"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVQBW57K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hOyfQmjrL._SL1500_.jpg"
-pros:  
+pros: 
   - "Four well-curated neutral shades that actually work together for a complete eye look"  
   - "Crease-resistant formula holds up 8+ hours on oily lids without primer"  
   - "Buttery, blendable texture that applies evenly with fingers or brushes"  
-cons:  
+cons: 
   - "Shimmer shades have noticeable fallout during application – tap off excess"  
   - "No applicator included; you'll need your own brushes or sponges"  
   - "Color payoff is buildable, not intense – not ideal for dramatic looks"
+
 ---
 
 You know that moment when an eyeshadow quad promises "all about shadow" but delivers three chalky neutrals and one glitter bomb? Not this one. Clinique's All About Shadow Quad earns its 4.5-star Amazon rating with 225 reviews by doing exactly what it claims: long-lasting, crease-resistant color that flatters without fuss. As shown in the product image, it's a slim, mirrored compact that disappears into a makeup bag – but the real story is what's inside.

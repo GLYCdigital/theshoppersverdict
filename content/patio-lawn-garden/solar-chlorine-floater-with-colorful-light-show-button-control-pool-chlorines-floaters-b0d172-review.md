@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Chlorine Floater with Colorful Light Show, Button Cont"
 seo_title: "Solar Chlorine Floater with Colorful Light Show, B Review"
 meta_description: "Our full solar chlorine floater with colorful light show, button cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1724DNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81G1nQiCH4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A pool accessory that works while it entertains? Here’s the honest breakdown.**

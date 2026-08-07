@@ -1,4 +1,5 @@
 ---
+
 title: "Christian Dior Lacquer Lip Stick for Women"
 seo_title: "Dior Lacquer Lip Stick Review: Bold Color & Comfort"
 meta_description: "Honest Dior Lacquer Lip Stick review: glossy color, wear time, and shade range. See if this luxury lipstick justifies the price before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B079Z9RHHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1av9c8aa6L._SL1500_.jpg"
-pros:
+pros: 
   - "One-swipe pigmentation delivers true-to-tube color without layering"
   - "Comfortable, non-drying wear with a glossy lacquer finish that doesn't feel sticky"
   - "Solid 4-6 hour wear through coffee and light meals before needing touch-up"
-cons:
+cons: 
   - "Shade names don't always match online swatches — expect some variation"
   - "Transfers easily to cups and masks; not a transfer-proof formula"
+
 ---
 
 Let’s be honest: luxury lipstick is a splurge. The Dior Lacquer Lip Stick has to justify its price tag against drugstore options that cost a third as much. After digging through 225 Amazon ratings and analyzing what buyers actually say, here’s the real story.

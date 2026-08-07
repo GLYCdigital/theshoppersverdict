@@ -1,4 +1,5 @@
 ---
+
 title: "Legigo Premium Coco Coir Brick for Plants- 100% Organic Comp"
 seo_title: "Legigo Premium Coco Coir Brick for Plants- 100% Or Review"
 meta_description: "Our full legigo premium coco coir brick for plants- 100% organic comp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09VPVN9VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JqJDZJljL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a rock-hard block of peat moss or dealt with bags of soggy, mold-prone potting mix, the Legigo Premium Coco Coir Brick is the upgrade you didn't know you needed. This is a 650-gram compressed brick of 100% organic coconut coir — no fillers, no synthetic additives, just the fibrous husk of coconuts processed and compressed for shipping. At 4.5 stars across 225 ratings, it's clearly earning its keep in grow tents and garden sheds alike.

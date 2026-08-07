@@ -1,4 +1,5 @@
 ---
+
 title: "Covered Outdoor Gazebo Curtain"
 seo_title: "Covered Outdoor Gazebo Curtain Review: Real Buyer Insights"
 meta_description: "Covered Outdoor Gazebo Curtain review: 4.5-star rated with 225 reviews. See what buyers praise, where it falls short, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK38BN5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81as2vxmMAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Water-resistant fabric with reinforced top hem holds up through rainstorms without sagging"
   - "Full 360-degree coverage kit includes 4 panels, tie-backs, and rust-resistant grommets"
   - "UV-treated material blocks harsh afternoon sun while keeping airflow moving"
-cons:
+cons: 
   - "Panels run slightly long — buyers with shorter pergolas need to hem or fold the bottom"
   - "Light color shows pollen and dust quickly; plan on monthly washing"
+
 ---
 
 Let me cut through the listing photos and tell you what actually matters about the Covered Outdoor Gazebo Curtain: this is a privacy-and-shade solution that works, but it's not a set-and-forget purchase. With 225 ratings holding a 4.5-star average, the consensus is clear — these curtains do their job well, but they demand a bit of attention to fit and maintenance.

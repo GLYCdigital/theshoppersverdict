@@ -1,4 +1,5 @@
 ---
+
 title: "The Spice Way Cardamom Pods- (4 oz) Whole Green Cardamom Pod"
 seo_title: "The Spice Way Cardamom Pods- (4 oz) Whole Green Ca Review"
 meta_description: "Our full the spice way cardamom pods- (4 oz) whole green cardamom pod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08LCJHYKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bxjzCQ1uL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're grinding cardamom straight into your coffee beans or simmering it in chai, you already know the difference between fresh whole pods and that dusty pre-ground stuff. The Spice Way's 4 oz bag of whole green cardamom sits firmly on the fresh side — and for the price, it's hard to beat.

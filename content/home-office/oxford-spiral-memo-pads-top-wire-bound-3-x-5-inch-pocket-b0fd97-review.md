@@ -1,4 +1,5 @@
 ---
+
 title: "Oxford Spiral Memo Pads, Top Wire Bound, 3 x 5 Inch Pocket N"
 seo_title: "Oxford Spiral Memo Pads, Top Wire Bound, 3 x 5 Inc Review"
 meta_description: "Our full oxford spiral memo pads, top wire bound, 3 x 5 inch pocket n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD97CQFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JN3LyD2uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most pocket notepads are an afterthought. You grab a 99-cent spiral, scribble a few numbers, and the wire digs into your wrist until you throw it in a drawer. The Oxford 3x5 Top Wire Bound Memo Pads are not that. At 4.7 stars across 235 ratings, these have quietly become the default for people who actually use pocket notes daily. Here's why.

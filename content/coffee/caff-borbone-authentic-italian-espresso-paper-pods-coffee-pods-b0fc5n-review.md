@@ -1,4 +1,5 @@
 ---
+
 title: "Caffè Borbone - Authentic Italian Espresso Paper Pods - Cof"
 seo_title: "Caffè Borbone Espresso Pods Review: Real Italian Crema"
 meta_description: "Caffè Borbone paper espresso pods review: authentic Italian flavor, E.S.E. standard compatibility, crema quality, and honest downsides for 2026."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FC5N9F5N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K0A7gkqML._SL1200_.jpg"
-pros:
+pros: 
   - "Deep, chocolatey Neapolitan roast profile with genuine crema layer — not the thin foam you get from many pod systems"
   - "Paper pods are biodegradable and compostable, unlike plastic or aluminum capsules from Nespresso or Keurig"
   - "Consistent 7-gram dose per pod delivers reliable extraction across E.S.E.-standard machines"
-cons:
+cons: 
   - "Requires a specific E.S.E. (Easy Serving Espresso) pod machine — won't fit standard drip brewers or most Keurig models"
   - "Crema dissipates quickly if you let the espresso sit more than a minute; drink it fast for the full effect"
+
 ---
 
 # Caffè Borbone Espresso Paper Pods: The Real Neapolitan Deal or Just Hype?

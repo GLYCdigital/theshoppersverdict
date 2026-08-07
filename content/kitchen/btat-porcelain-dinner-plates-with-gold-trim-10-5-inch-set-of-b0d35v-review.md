@@ -1,4 +1,5 @@
 ---
+
 title: "BTaT Porcelain Dinner Plates with Gold Trim, 10.5 inch, Set"
 seo_title: "BTaT Porcelain Dinner Plates Review: Gold Trim, 10.5 Inch"
 meta_description: "BTaT porcelain dinner plates with gold trim reviewed: durability, microwave safety, and real-world use. See if this 10.5-inch set is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D35VL8C8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D27JDAhvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine porcelain construction — dense, chip-resistant, and heats evenly without hot spots"
   - "Genuine 22K gold trim that survives dishwasher cycles without fading or peeling"
   - "Generous 10.5-inch diameter with a subtle rim lip that keeps sauces contained"
-cons:
+cons: 
   - "Gold trim means no microwave use — a dealbreaker for some households"
   - "Not oven-safe above 300°F despite being porcelain; the gold finish limits heat exposure"
+
 ---
 
 ## The Gold Standard, or Just Gold-Plated Hype?

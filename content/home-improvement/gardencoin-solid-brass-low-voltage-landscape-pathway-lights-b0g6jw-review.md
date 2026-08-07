@@ -1,4 +1,5 @@
 ---
+
 title: "Gardencoin Solid Brass Low Voltage Landscape Pathway Lights"
 seo_title: "Gardencoin Solid Brass Path Lights Review (2026) | Worth It?"
 meta_description: "Gardencoin solid brass low voltage path lights review: durability, brightness, real buyer feedback. See pros, cons, and if they're worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6JW94MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T0AD-anyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid machined brass body with a clear protective lacquer — resists the green patina that plagues cheaper fixtures"
   - "Warm 2700K LED output that doesn't wash out — bright enough for safety, soft enough for ambiance"
   - "Tool-free angle adjustment (up to 20°) lets you aim light exactly where you need it"
-cons:
+cons: 
   - "Sold as a single light — buying a full pathway set gets expensive fast"
   - "No wiring or transformer included — you're paying for the fixture only"
   - "The included 10W bulbs are fixed; you can't swap in a brighter halogen later"
+
 ---
 
 Brass path lights are the classic move for a reason: they look expensive, they hold up for decades, and they don't scream “big-box special” at your front door. The Gardencoin solid brass low voltage pathway light nails the aesthetic — but is it worth the premium over the aluminum-and-plastic crowd? Short answer: for most homeowners, yes. Here's the long version.

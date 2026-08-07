@@ -1,4 +1,5 @@
 ---
+
 title: "Cesar Wet Dog Food Loaf in Sauce Rotisserie Chicken Flavor w"
 seo_title: "Cesar Wet Dog Food Loaf Rotisserie Chicken Review (2026)"
 meta_description: "Honest Cesar wet dog food loaf review: rotisserie chicken with bacon texture, ingredients, portion sizes, and value for small breeds."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPDJPPQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/81zn8M1TVaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Loaf-in-sauce texture is soft enough for senior dogs and small breeds with dental issues"
   - "Rotisserie chicken with bacon flavor smells genuinely appetizing — picky eaters respond well"
   - "Tray format makes portion control easy; no can opener or leftover storage hassle"
-cons:
+cons: 
   - "First ingredient is meat broth, not chicken — protein content is modest for the price"
   - "Contains carrageenan, which some owners actively avoid for digestive sensitivity"
   - "Small 3.5-oz trays run pricey per pound compared to larger wet food formats"
+
 ---
 
 **Bottom line up front:** If you've got a small-breed dog who turns their nose up at kibble, Cesar's Loaf in Sauce Rotisserie Chicken with Bacon is a convenient, reliably palatable option — but you're paying a premium for that convenience, and the ingredient list isn't as impressive as the flavor name suggests.

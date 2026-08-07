@@ -1,4 +1,5 @@
 ---
+
 title: "Freeman PSSCP Pneumatic 3 inch  Single-Pin Concrete Nailer with C"
 seo_title: "Freeman PSSCP Concrete Nailer Review: 3 inch  Pin Power"
 meta_description: "Freeman PSSCP pneumatic concrete nailer review: drives 3 inch  pins into concrete & steel. Real performance, jams, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B077D3ZNQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AAmCqgwLS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Drives 3-inch pins through poured concrete and block without predrilling — saves serious time on furring strips and framing"
   - "Weighs just 5.6 lbs with a compact 12-inch profile, so it reaches into tight stud bays where hammer-driven tools won't fit"
   - "Includes a blow-molded case, spare driver blade, and safety glasses — the extras you'd normally pay $20 more for"
-cons:
+cons: 
   - "Single-shot operation means loading a pin every cycle; no collated strip option for production work"
   - "Some units arrive with a sticky trigger mechanism that requires a break-in period of 50–100 shots"
+
 ---
 
 If you've ever spent an afternoon on your knees with a hammer and a pin driver, cussing at a bent nail and a bruised thumb, the Freeman PSSCP is the tool that makes you wonder why you waited so long. This pneumatic single-pin nailer punches 3-inch fasteners into cured concrete, block, and even light structural steel with a squeeze of the trigger — no predrilling, no masonry bit, no dust cloud. With 229 ratings holding a solid 4.6-star average, it's become the go-to for basement finishers and deck builders. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ylzyxal Ergonomic Office Desk Chair"
 seo_title: "Ylzyxal Ergonomic Office Chair Review (2026): Worth It?"
 meta_description: "Ylzyxal ergonomic office chair review: 4.3/5 stars from 441 ratings. Is this $100 chair worth it? We break down comfort, build quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 441
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F1CHX3D7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h6S4HQhRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine lumbar support with adjustable height mechanism — rare at the $100 price point"
   - "Breathable mesh back that prevents sweaty-back syndrome during 8+ hour sessions"
   - "Assembles in under 20 minutes with included hex wrench and clear instructions"
-cons:
+cons: 
   - "Seat cushion runs firm and compresses noticeably after 6 months of daily use"
   - "Armrests are fixed in position — no height or angle adjustment for taller users"
+
 ---
 
 Let me be blunt about the Ylzyxal Ergonomic Office Chair: it's a $100 chair that tries to act like a $300 chair. And honestly? It mostly pulls it off. But "mostly" is doing a lot of heavy lifting here, so let's break down exactly where the value lives and where the corners get cut.

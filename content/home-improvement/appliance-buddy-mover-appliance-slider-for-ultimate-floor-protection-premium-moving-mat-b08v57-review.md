@@ -1,4 +1,5 @@
 ---
+
 title: "Appliance Buddy/Mover - Appliance Slider for Ultimate Floor"
 seo_title: "Appliance Buddy Mover Review: Floor-Saving Slider Mat"
 meta_description: "Appliance Buddy/Mover slider mat review: Does it really protect floors when moving heavy appliances? Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08V57HP4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w5M3bGfXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 5mm felt-pad construction that actually protects hardwood, tile, and vinyl from scratches during heavy appliance moves"
   - "Large 28 x 20-inch surface area fits full-size refrigerators, washers, and stoves without needing to reposition constantly"
   - "Works on multiple floor types — hardwood, laminate, tile, carpet — so you don't need separate mats for different rooms"
-cons:
+cons: 
   - "Doesn't slide as effortlessly on thick, plush carpet — the felt grabs and requires more pulling force"
   - "Moving a 400+ pound appliance on a slope or incline is still tough; the mat reduces friction but doesn't eliminate gravity"
   - "At roughly 3.5 pounds, the mat itself is bulky to store when not in use"
+
 ---
 
 # Appliance Buddy/Mover Review: The $30 Floor-Saving Hack Worth Knowing

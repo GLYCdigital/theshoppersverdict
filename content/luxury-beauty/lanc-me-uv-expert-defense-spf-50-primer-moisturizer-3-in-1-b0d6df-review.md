@@ -1,4 +1,5 @@
 ---
+
 title: "LancÃ´me UV Expert Defense SPF 50+ Primer & Moisturizer | 3-"
 seo_title: "LancÃ´me UV Expert Defense SPF 50+ Primer & Moistu Review"
 meta_description: "Our full lancã´me uv expert defense spf 50+ primer & moisturizer | 3- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6DFRHJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WHwXbDKJL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lancôme UV Expert Defense SPF 50+ Review: Is This 3-in-1 Worth the Splurge?

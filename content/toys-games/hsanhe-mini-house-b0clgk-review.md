@@ -1,4 +1,5 @@
 ---
+
 title: "HSANHE Mini House"
 seo_title: "HSANHE Mini House Review: Worth It? (2026)"
 meta_description: "HSANHE Mini House review: 4.2/5 stars from 210 ratings. Is this dollhouse toy worth the money? Build quality, play value, and honest downsides."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CLGKKTYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U-SpAIooL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy wood construction that survives aggressive play — no flimsy plastic hinges to snap"
   - "Detailed miniature furniture pieces that actually stay put once assembled"
   - "Compact footprint fits on a standard bookshelf or desk without dominating the room"
-cons:
+cons: 
   - "Assembly requires patience — small screws and tight tolerances frustrate younger kids"
   - "Some paint application inconsistencies on interior walls straight from the box"
+
 ---
 
 The HSANHE Mini House sits in that crowded middle ground of dollhouse toys: not cheap enough to ignore quality, not expensive enough to promise perfection. At 4.2 stars from 210 ratings, the numbers say most buyers are satisfied. But the real question is whether this specific miniature house earns a spot in your home — and for which kid.

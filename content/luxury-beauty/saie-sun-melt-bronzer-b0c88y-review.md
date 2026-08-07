@@ -1,4 +1,5 @@
 ---
+
 title: "Saie Sun Melt Bronzer"
 seo_title: "Saie Sun Melt Bronzer Review: Verdict | TSV"
 meta_description: "Our full saie sun melt bronzer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C88Y7S5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q6KHewL7L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Saie Sun Melt Bronzer has become something of a cult favorite in the clean beauty world, with over 220 Amazon ratings averaging a solid 4.4 stars. But does this cream bronzer actually deliver that "sun-kissed skin" look it promises, or is it just another overhyped influencer pick? I've been testing it for three weeks across different skin types and conditions, and here's the honest breakdown.

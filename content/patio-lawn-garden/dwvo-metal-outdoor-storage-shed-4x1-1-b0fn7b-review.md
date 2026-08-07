@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Metal Outdoor Storage Shed 4x1: Compact Review"
 seo_title: "DWVO Metal Outdoor Storage Shed Review: 4x1 Compact"
 meta_description: "Honest DWVO Metal Outdoor Storage Shed 4x1 review: build quality, real capacity, assembly pain points, and who should buy this compact yard box."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FN7B3C61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Op4SDdrHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pre-punched holes and labeled panels cut assembly time to roughly 2 hours with two people"
   - "Galvanized steel panels with a baked-on finish resist rust better than most sub-$300 sheds"
   - "Sloped roof sheds rain and snow efficiently — no standing water pooling on the lid"
-cons:
+cons: 
   - "Floor is not included; you'll need to pour a slab or lay pavers to avoid rust on the base frame"
   - "Anchoring hardware is minimal — high-wind areas require extra stakes or screws"
+
 ---
 
 **Compact, sturdy, and honestly sized — but plan the foundation before you buy**

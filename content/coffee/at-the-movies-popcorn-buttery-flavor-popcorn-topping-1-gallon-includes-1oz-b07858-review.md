@@ -1,4 +1,5 @@
 ---
+
 title: "At-The-Movies-Popcorn® Buttery Flavor Popcorn Topping (1 Ga"
 seo_title: "At-The-Movies-Popcorn Buttery Topping Review: Real Theater Taste"
 meta_description: "Can a 1-gallon jug of liquid butter topping deliver movie theater popcorn at home? Our honest review covers flavor, value, and 220 real user ratings."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0785827P1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41N--6LagsL._SL1000_.jpg"
-pros:
+pros: 
   - "Authentic theater-style buttery flavor that clings evenly to popcorn without making it soggy"
   - "1-gallon jug (128 fl oz) delivers roughly 60-80 batches — far cheaper than bottled spray oils per use"
   - "Includes a free 1oz sample packet, letting you test the flavor before committing to the full jug"
-cons:
+cons: 
   - "Contains partially hydrogenated soybean oil (trans fat) — a dealbreaker for health-focused buyers"
   - "Thick consistency requires warming the bottle before use; pouring cold results in clumpy, uneven coverage"
+
 ---
 
 Let’s be honest: most “movie theater” popcorn kits at home are a letdown. That fake butter dust? Tastes like regret. That spray oil? Leaves half the kernels dry. So when a 1-gallon jug of liquid buttery topping shows up with 220 ratings averaging 4.4 stars, the real question is simple: does this actually nail the Cineplex experience, or is it another gimmick?

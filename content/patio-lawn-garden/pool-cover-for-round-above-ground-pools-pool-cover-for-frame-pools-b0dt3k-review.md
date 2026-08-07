@@ -1,4 +1,5 @@
 ---
+
 title: "Pool Cover for Round Above Ground Pools, Pool Cover for Fram"
 seo_title: "Pool Cover for Round Above Ground Pools, Pool Cove Review"
 meta_description: "Our full pool cover for round above ground pools, pool cover for fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DT3K95J3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WB1XlCnqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a round above-ground pool, you know the drill: every fall you wrestle with a tarp that rips, shifts, or turns into a giant puddle. This cover aims to fix that with a reinforced drawstring design at a mid-range price point. After digging through 204 ratings and the spec sheet, here's what actually matters.

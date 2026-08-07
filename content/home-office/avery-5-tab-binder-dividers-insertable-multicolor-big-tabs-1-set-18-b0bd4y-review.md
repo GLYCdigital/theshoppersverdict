@@ -1,4 +1,5 @@
 ---
+
 title: "Avery 5 Tab Binder Dividers Insertable Multicolor Big Tabs 1"
 seo_title: "Avery 5 Tab Binder Dividers Review: Insertable Big Tabs"
 meta_description: "Avery 5 Tab Insertable Binder Dividers reviewed: durable, customizable, and color-coded. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BD4YSVHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716kK3p0OTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavyweight 11pt paper resists tearing at the punch holes — a common failure point on cheap dividers"
   - "Big 1/2-tab cut extends well past page edges, making sections instantly identifiable without flipping"
   - "Insertable tabs let you print or handwrite labels with a standard 8.5x11 sheet — no special template required"
-cons:
+cons: 
   - "Only 5 tabs per set — you'll need multiple packs for binders with more than five sections"
   - "Plastic tab pockets are snug; thick cardstock labels take effort to slide in fully"
+
 ---
 
 ## Are These Dividers Actually Worth Your Desk Space?

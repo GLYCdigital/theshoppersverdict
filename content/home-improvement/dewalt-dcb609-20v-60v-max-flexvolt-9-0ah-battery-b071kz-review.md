@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCB609 20V/60V MAX FLEXVOLT 9.0Ah Battery"
 seo_title: "DEWALT DCB609 FLEXVOLT 9.0Ah Battery Review: Worth It?"
 meta_description: "DEWALT DCB609 FLEXVOLT 9.0Ah battery review: real runtime tests, compatibility with 20V & 60V tools, weight tradeoffs, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B071KZJCKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611nrKDiJRL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Switches automatically between 20V MAX and 60V MAX depending on the tool — one battery covers both platforms"
   - "Delivers roughly 3x the runtime of a standard 5.0Ah 20V pack on compatible tools"
   - "Built-in fuel gauge with 3 LEDs gives accurate charge status at a glance"
-cons:
+cons: 
   - "Heavy at 2.2 lbs — noticeably front-heavy on drills and impact drivers for overhead work"
   - "Expensive per battery; you'll feel the price if you need to buy several for a fleet"
   - "Doesn't fit some compact tools like the 12V line or older 18V XRP tools"
+
 ---
 
 ## The FLEXVOLT Battery That Thinks It's Two Batteries

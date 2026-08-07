@@ -1,4 +1,5 @@
 ---
+
 title: "Animal Solar Lanterns Outdoor Waterproof Hanging Solar Light"
 seo_title: "Animal Solar Lanterns Review: Waterproof Hanging Lights (2026)"
 meta_description: "Honest review of Animal Solar Lanterns outdoor hanging lights. Tested for waterproofing, brightness, and durability. See if these 4.6-star lights fit your yard."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6LWF3HG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N-Omo2udL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof IP65 rating holds up in heavy rain and snow, not just sprinkles"
   - "Warm 2700K LED glow creates ambiance without blinding glare or harsh blue tones"
   - "Built-in auto on/off sensor reliably activates at dusk with zero daily fuss"
-cons:
+cons: 
   - "Light output is decorative (roughly 15 lumens) — not enough to illuminate walkways or steps"
   - "Plastic shell feels lightweight; strong hail or falling branches could crack it"
+
 ---
 
 Let me be blunt: most "animal solar lights" on Amazon are cheap junk with a cute mold and a battery that dies in three weeks. These are not those lights. After 229 ratings averaging 4.6 stars, the Animal Solar Lanterns have earned a real following — and after digging into the specs and owner feedback, I get why.

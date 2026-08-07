@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Pride Artisan Ethnique for Unisex Eau de Parfum Spra"
 seo_title: "Lattafa Pride Artisan Ethnique for Unisex Eau de P Review"
 meta_description: "Our full lattafa pride artisan ethnique for unisex eau de parfum spra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGQ8R3HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-7ThS75ZL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Lattafa Pride Artisan Ethnique Review: A Smoky, Sophisticated Statement That Demands Confidence

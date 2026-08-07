@@ -1,4 +1,5 @@
 ---
+
 title: "0.5mm 6-in-1 Multicolor Ballpoint Pen 6 Colors Retractable B"
 seo_title: "6-in-1 Multicolor Pen Review: 0.5mm Retractable 6 Colors"
 meta_description: "Honest 6-in-1 multicolor ballpoint pen review: 0.5mm retractable design, 6 colors, real user feedback, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08FWPCKPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z5fGg1SPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six true colors (black, blue, red, green, purple, pink) in one slim pen body — no bulky barrel"
   - "0.5mm fine tip gives crisp, precise lines ideal for annotating documents and planner work"
   - "Reliable retractable mechanism with smooth color switching; ink dries quickly without smudging"
-cons:
+cons: 
   - "Individual color refills are hard to source separately — when one runs dry, you lose that color"
   - "Grip is slick plastic; extended writing sessions can cause hand fatigue without a rubberized zone"
+
 ---
 
 **Six colors. One pen. Zero excuses for black-and-blue monotony.**

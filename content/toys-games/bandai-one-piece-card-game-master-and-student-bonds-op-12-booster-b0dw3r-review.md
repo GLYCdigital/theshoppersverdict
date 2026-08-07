@@ -1,4 +1,5 @@
 ---
+
 title: "BANDAI ONE PIECE Card Game Master and Student Bonds (OP-12)"
 seo_title: "BANDAI ONE PIECE OP-12 Booster Review: Master & Student Bonds"
 meta_description: "BANDAI ONE PIECE Card Game OP-12 Master and Student Bonds booster review — card list, pull rates, build value, and who should buy. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DW3R4T9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rt+Gkfb3L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Strong Leader card lineup — Shanks, Rayleigh, and Luffy variants give multiple viable deck archetypes straight out of the box"
   - "Manga panel alternate arts are among the best-looking cards in the entire OPTCG lineup so far"
   - "Solid reprint value for staple cards like Red Roc and Gum-Gum Giant, making it easier for new players to fill out competitive decks"
-cons:
+cons: 
   - "Booster boxes have inconsistent hit rates — some buyers report 2-3 hits per box while others pull only 1, which feels bad at full MSRP"
   - "The set leans heavily into Red/Purple synergies; if you play Blue or Green decks, most of this set is dead weight for you"
   - "No guaranteed alt-art per box — Bandai's typical one-per-box pattern isn't consistent here, which frustrates collectors"
+
 ---
 
 # BANDAI ONE PIECE Card Game Master and Student Bonds (OP-12): The Mentor-Student Set That Delivers — With Caveats

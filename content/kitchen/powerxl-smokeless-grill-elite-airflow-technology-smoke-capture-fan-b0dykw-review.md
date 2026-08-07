@@ -1,4 +1,5 @@
 ---
+
 title: "PowerXL Smokeless Grill Elite, AirFlow Technology, Smoke Cap"
 seo_title: "PowerXL Smokeless Grill Elite, AirFlow Technology, Review"
 meta_description: "Our full powerxl smokeless grill elite, airflow technology, smoke cap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYKWWH7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41VXlqCD+5L._AC_SX355_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PowerXL Smokeless Grill Elite is trying to solve the oldest problem in apartment cooking: how do you get a proper sear without setting off every smoke detector in the building? With its AirFlow Technology and that distinctive Smoke Cap perched on top, this grill makes a bold promise. After spending time with it, here's what actually matters.

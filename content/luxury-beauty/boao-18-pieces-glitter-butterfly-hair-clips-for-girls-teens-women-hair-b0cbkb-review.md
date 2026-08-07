@@ -1,4 +1,5 @@
 ---
+
 title: "Boao 18 Pieces Glitter Butterfly Hair Clips for Girls Teens"
 seo_title: "Boao Butterfly Hair Clips Review: 18-Piece Set for Girls & Teens"
 meta_description: "Honest Boao 18-piece glitter butterfly hair clips review. Tested for grip, sparkle, and durability. See which hair types they work best for before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CBKBCMMR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81phL2xARfL._SL1500_.jpg"
-pros:
+pros: 
   - "Alligator-style clips with metal springs and rubberized grips hold firmly in fine or slippery hair without slipping"
   - "Glitter is sealed under a smooth resin coating so it won't flake off onto clothes or scalps"
   - "18 clips across 6 colors means enough variety for daily rotation, braids, or party styling"
-cons:
+cons: 
   - "Smaller clips (around 1.5 inches) struggle with thick or heavy hair sections — need two per side"
   - "Glitter finish can look more 'craft store' than 'luxury' under direct sunlight up close"
+
 ---
 
 Let's be direct about what these are: **butterfly-shaped alligator clips with glitter**. Not a luxury brand, not handcrafted Italian resin — but they don't need to be. At 4.6 stars across 229 ratings, the Boao 18-piece set earns its keep through sheer utility and charm.

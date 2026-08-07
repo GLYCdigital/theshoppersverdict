@@ -1,4 +1,5 @@
 ---
+
 title: "EXPERLAM Cube Storage Organizer - Solid Wood Bookshelf with"
 seo_title: "EXPERLAM Cube Storage Organizer Review: Solid Wood Shelf"
 meta_description: "Honest EXPERLAM Cube Storage Organizer review: solid wood bookshelf with storage bins. See pros, cons, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FG6VBQLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715rBVATbIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid wood construction (not particleboard) with visible grain and sturdy 15mm panels"
   - "Versatile 4-cube layout works as bookshelf, toy storage, or room divider — includes 2 fabric bins"
   - "Tool-free assembly takes under 15 minutes thanks to cam-lock joinery and pre-drilled holes"
-cons:
+cons: 
   - "Fabric bins are thin and may sag with heavy items — plan to replace them eventually"
   - "No wall-mounting hardware included; tall configuration needs anchoring for child safety"
+
 ---
 
 **The 4-Cube Solid Wood Shelf That Actually Earns Its 4.7 Stars**

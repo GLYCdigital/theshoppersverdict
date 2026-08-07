@@ -1,4 +1,5 @@
 ---
+
 title: "Crinkle Cutter Stainless Steel Potato Slicer Heavy Duty Wavy"
 seo_title: "Crinkle Cutter Review: Heavy Duty Stainless Steel Slicer"
 meta_description: "Is the heavy-duty stainless steel crinkle cutter worth it? Read our honest review covering performance, sharpness, and safety before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09XB2D5KG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71usHiIke5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Blade is genuinely sharp stainless steel that cuts through cold potatoes without cracking the wavy ridges."
   - "Ergonomic rubberized handle reduces hand strain during heavy prep sessions."
   - "Comes with a finger guard, which is rare in this price tier and prevents the most common kitchen injury."
-cons:
+cons: 
   - "Does not cut carrots or hard squash cleanly; they tend to snap rather than slice."
   - "Cuts are consistent in width but can be angled if you don't press straight down."
+
 ---
 
 **Skip the soggy frozen fries. This crinkle cutter actually makes the good stuff.**

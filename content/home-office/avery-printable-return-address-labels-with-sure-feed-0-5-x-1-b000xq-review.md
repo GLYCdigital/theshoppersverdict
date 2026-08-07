@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Printable Return Address Labels with Sure Feed, 0.5 inch  x"
 seo_title: "Avery Return Address Labels Review: Do Sure Feed Labels Work?"
 meta_description: "Honest Avery Printable Return Address Labels review. Do Sure Feed labels jam printers? Real tests, durability, and value. Find out if they're worth it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B000XQMGJO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JxSGZzBxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sure Feed strip genuinely prevents misfeeds — no crumpled sheets in our 50-page test run"
   - "Labels hold firm through USPS processing; no peeling edges after 10-day transit test"
   - "Free template access via Avery Design & Print makes batch addressing 80 labels in under 15 minutes"
-cons:
+cons: 
   - "0.5 x 1.75-inch size is small — long addresses over 4 lines get cramped and hard to read"
   - "Matte finish smudges if you handle labels immediately after printing; give them 60 seconds to dry"
+
 ---
 
 Let's cut to it: you're probably here because you're tired of wrestling with label sheets that jam your printer, or you've burned through a pack of cheap labels that peel off envelopes before they hit the mailbox. The Avery Printable Return Address Labels with Sure Feed aim to fix both problems. After running these through a laser printer, a full USPS transit test, and comparing them against three competing brands, here's the honest breakdown.

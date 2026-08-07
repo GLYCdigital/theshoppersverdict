@@ -1,4 +1,5 @@
 ---
+
 title: "DUcare Kabuki Makeup Brushes"
 seo_title: "DUcare Kabuki Makeup Brushes Review: Worth It? (2026)"
 meta_description: "Honest DUcare Kabuki makeup brush review: density, shedding, blending performance, and value. See if these luxury brushes beat the hype before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNR9XFN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IgQFqBjGL._SL1500_.jpg"
-pros:
+pros: 
   - "Dense, ultra-soft synthetic bristles that blend cream and powder products without streaks"
   - "Welded aluminum ferrules and weighted handles that feel substantially more premium than the price suggests"
   - "Zero shedding after multiple washes — bristles stay locked in place"
-cons:
+cons: 
   - "No individual brush names printed on handles; you must memorize which is which from the box"
   - "The smallest brush in the set is still fairly large — not ideal for precise under-eye concealer work"
+
 ---
 
 Let’s cut through the noise. There are roughly 47,000 kabuki brush sets on Amazon, and most of them shed like a winter coat, scratch your face, or fall apart after three washes. The DUcare Kabuki set is not most of them. Sitting at a 4.7-star average across 235 ratings, this is one of those rare budget-luxury finds that actually delivers on the “luxury” half of the promise.

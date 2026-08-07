@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Cracker Cracked Wheat, 10.6 Ounce"
 seo_title: "365 Cracked Wheat Review: Whole Foods Cracker, 10.6 oz"
 meta_description: "Honest 365 by Whole Foods Cracked Wheat review: taste, texture, and value. See if this 10.6-ounce cracker earns its 4.4-star rating before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPZPGVC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41X3zhCld7L._SL1000_.jpg"
-pros:
+pros: 
   - "Hearty, wheat-forward crunch that holds up to thick dips and spreads without shattering"
   - "Short, clean ingredient list—cracked wheat leads, no artificial preservatives"
   - "10.6-ounce box provides roughly 8 servings, a solid value at Whole Foods price points"
-cons:
+cons: 
   - "Texture skews dense and gritty—not the light, buttery cracker most shoppers expect"
   - "Flavor is savory-leaning with noticeable salt; sweeter palates may find it overpowering"
+
 ---
 
 Let’s be honest about what this cracker is: it’s not a snack. It’s a vehicle. The 365 by Whole Foods Market Cracked Wheat Cracker (10.6 ounces) is built for people who put serious toppings on serious crackers—and who want the cracker to hold its own, not just disappear.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bath & Body Works Body Lotion"
 seo_title: "Bath & Body Works Body Lotion Review: Deep Hydration (2026)"
 meta_description: "Our honest Bath & Body Works Body Lotion review: 4.8-star rated, 240 reviews. Does the formula deliver 24-hour hydration? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PHMPBNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6187JOclZQL._SL1500_.jpg"
-pros:
+pros: 
   - "Non-greasy formula absorbs in under 60 seconds — no sticky residue on clothes or sheets"
   - "Shea butter and hyaluronic acid deliver measurable moisture that lasts through a full workday"
   - "Pump bottle dispenses the right amount; no wasted product or messy caps"
-cons:
+cons: 
   - "Fragrance is strong and lingers — sensitive noses or allergy-prone skin should test first"
   - "Not ideal for extreme dry-skin cases; needs reapplication in arid climates or winter months"
+
 ---
 
 Some products promise luxury and deliver a thin, watery letdown. The Bath & Body Works Body Lotion is not that product. With a 4.8-star average across 240 Amazon ratings, this is the rare body lotion that actually earns its reputation — and its price tag. But it's not perfect, and whether it's right for you depends on how you use it.

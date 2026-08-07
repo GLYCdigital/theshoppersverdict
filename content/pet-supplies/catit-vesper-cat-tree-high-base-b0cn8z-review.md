@@ -1,24 +1,26 @@
 ---
+
 title: "Catit Vesper Cat Tree, High Base"
 seo_title: "Catit Vesper Cat Tree High Base Review: Worth It?"
 meta_description: "Honest Catit Vesper Cat Tree High Base review: build quality, stability, cat appeal, and drawbacks. See if this $100+ tower fits your home."
 slug: "catit-vesper-cat-tree-high-base-b0cn8z-review"
 image_alt: "Catit Vesper High Base cat tree with plush perches and sisal-wrapped posts"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN8Z2FJJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OOcmmttGL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Real wood base and sturdy 30-pound weight limit — actually stable for larger cats"  
   - "Replaceable sisal posts extend lifespan; no glue-on carpet that shreds in weeks"  
   - "Minimalist Scandinavian look that doesn't look like a cat toy in your living room"  
-cons:  
+cons: 
   - "Assembly requires a drill — screw holes are tight and predrilled alignment is off on some units"  
   - "Top perch is small (12.5 inches); big Maine Coons or chunky cats will hang off the edge"  
   - "No hideaway box or cave — this is a perch-and-scratch tower, not a full activity center"
+
 ---
 
 The Catit Vesper High Base is the cat tree that tries to be furniture instead of a furry eyesore. It mostly succeeds — but only if you know what you're giving up.

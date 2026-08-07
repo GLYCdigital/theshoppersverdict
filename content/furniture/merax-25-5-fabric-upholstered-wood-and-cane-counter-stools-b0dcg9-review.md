@@ -1,7 +1,8 @@
 ---
-title: "Merax 25.5\" Fabric Upholstered Wood and Cane Counter Stools"
-seo_title: "Merax 25.5\" Fabric Upholstered Wood and Cane Count Review"
-meta_description: "Our full merax 25.5\" fabric upholstered wood and cane counter stools review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Merax 25.5\ Fabric Upholstered Wood and Cane Counter Stools"
+seo_title: "Merax 25.5\ Fabric Upholstered Wood and Cane Count Review"
+meta_description: "Our full merax 25.5\ fabric upholstered wood and cane counter stools review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "merax-25-5-fabric-upholstered-wood-and-cane-counter-stools-b0dcg9-review"
 image_alt: "Merax 25.5 Fabric Upholstered Wood and Cane Counter Stools"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCG9HW5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91URDed7F-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The counter stool category is crowded with flimsy, assembly-required nightmares that wobble by week two. The Merax 25.5-inch Fabric Upholstered Wood and Cane Counter Stool stands out for one simple reason: it's built like furniture, not a temporary perch.

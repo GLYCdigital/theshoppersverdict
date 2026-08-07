@@ -1,4 +1,5 @@
 ---
+
 title: "PRODUCE Candy Heart Grapes, 16 OZ"
 seo_title: "PRODUCE Candy Heart Grapes, 16 OZ Review: Verdict | TSV"
 meta_description: "Our full produce candy heart grapes, 16 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09RQGT2RR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QCWkJIRpL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 16-ounce clamshell that's taken over grocery store produce sections — and your social media feed. PRODUCE Candy Heart Grapes have built a cult following for their sugar-sweet flavor profile. But do they justify the premium price? After testing multiple containers, here's the honest breakdown.**

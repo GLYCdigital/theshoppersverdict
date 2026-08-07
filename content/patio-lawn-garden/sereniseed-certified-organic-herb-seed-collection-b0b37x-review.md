@@ -1,4 +1,5 @@
 ---
+
 title: "Sereniseed Certified Organic Herb Seed Collection"
 seo_title: "Sereniseed Certified Organic Herb Seed Collection Review:"
 meta_description: "Our full sereniseed certified organic herb seed collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B37XYJ94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811nANw85hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the Sereniseed Certified Organic Herb Seed Collection: this is one of those rare Amazon garden products where the listing photos actually match what lands in your mailbox. The box is compact — about the size of a paperback — and holds ten individually sealed foil packets, each with a clear window showing the seed. No plastic blister packs that require scissors and patience. No flimsy paper envelopes that arrive crushed. Just a tidy, organized kit that makes sense for someone starting an herb garden for the first time or replacing a sad, expired collection from three seasons ago.

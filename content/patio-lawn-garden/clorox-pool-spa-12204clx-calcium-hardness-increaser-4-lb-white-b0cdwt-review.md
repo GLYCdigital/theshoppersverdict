@@ -1,4 +1,5 @@
 ---
+
 title: "Clorox Pool&Spa 12204CLX Calcium Hardness Increaser, 4 lb, W"
 seo_title: "Clorox Pool&Spa Calcium Hardness Increaser Review (4 lb)"
 meta_description: "Read our honest Clorox Pool&Spa 12204CLX Calcium Hardness Increaser review. See how this 4 lb formula restores pool water balance, plus pros, cons, and buying tips."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CDWTP1TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E4MrOqgkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dissolves quickly in skimmer or bucket without clumping, unlike some generic calcium chloride flakes"
   - "One 4 lb container treats 10,000 gallons, raising hardness by roughly 10 ppm — easy to calculate exact dosing"
   - "Compatible with all pool types including saltwater, vinyl liner, and fiberglass pools"
-cons:
+cons: 
   - "The plastic jug lid can be stubborn to reseal, risking moisture exposure if not pressed firmly"
   - "No measuring scoop included — you'll need a separate cup or scale for accurate dosing"
+
 ---
 
 # Clorox Pool&Spa 12204CLX Calcium Hardness Increaser Review

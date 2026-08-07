@@ -1,4 +1,5 @@
 ---
+
 title: "Annexfun"
 seo_title: "Annexfun Review: Is This Toy Worth the Hype? (2026)"
 meta_description: "Annexfun toy review: 4.7/5 rating from 235 shoppers. We break down build quality, play value, and who should buy it. Honest pros & cons inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY43HGJJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Se1cbioZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium ABS plastic that survives drops and rough play without cracking or splintering"
   - "Pieces snap together with satisfying, audible click — no loose connections mid-build"
   - "Clear, step-by-step instruction booklet that kids 8+ can follow independently"
-cons:
+cons: 
   - "Small accessory pieces are easy to lose — no storage bag included in the box"
   - "Color variety is limited to the palette shown; no expansion packs currently available"
+
 ---
 
 ## The Annexfun Toy That Actually Delivers

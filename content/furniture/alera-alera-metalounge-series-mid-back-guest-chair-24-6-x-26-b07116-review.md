@@ -1,4 +1,5 @@
 ---
+
 title: "Alera Alera metaLounge Series Mid-Back Guest Chair, 24.6 inch  x"
 seo_title: "Alera Alera metaLounge Series Mid-Back Guest Chair Review"
 meta_description: "Our full alera alera metalounge series mid-back guest chair, 24.6 inch  x  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B07116FR7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lYb5BW9yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **Alera Alera metaLounge Series Mid-Back Guest Chair, 24.6" x ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

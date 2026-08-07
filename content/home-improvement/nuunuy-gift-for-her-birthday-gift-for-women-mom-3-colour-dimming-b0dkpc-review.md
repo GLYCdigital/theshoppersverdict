@@ -1,4 +1,5 @@
 ---
+
 title: "NuuNuy Gift for Her,Birthday Gift for Women/Mom, 3-Colour Di"
 seo_title: "NuuNuy Gift for Her,Birthday Gift for Women/Mom, 3 Review"
 meta_description: "Our full nuunuy gift for her,birthday gift for women/mom, 3-colour di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DKPC6591/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717U-gzsirL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The NuuNuy 3-Colour Dimming Lamp: A Gift That Actually Gets Used**

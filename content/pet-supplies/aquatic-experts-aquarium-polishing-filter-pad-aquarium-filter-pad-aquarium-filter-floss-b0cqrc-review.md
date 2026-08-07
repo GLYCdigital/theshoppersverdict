@@ -1,4 +1,5 @@
 ---
+
 title: "Aquatic Experts Aquarium Polishing Filter Pad, Aquarium Filt"
 seo_title: "Aquatic Experts Polishing Filter Pad Review (2026): Worth It?"
 meta_description: "Aquatic Experts Aquarium Polishing Filter Pad review: Does this filter floss clear cloudy water? Real pros, cons & buying advice. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQRCPTND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bqc5aYH4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 20ppi foam traps fine particulates that mechanical sponges miss, clearing haze in 24-48 hours"
   - "Cuts cleanly with scissors to fit HOB, canister, or sump without fraying or shedding fibers"
   - "Reusable — rinses out easily under tap water and holds shape through repeated washings"
-cons:
+cons: 
   - "Fine pore structure can clog quickly in heavily stocked tanks, requiring rinsing every 3-4 days"
   - "Single pad may not be enough for larger canisters; you'll likely need two for a 55-gallon setup"
+
 ---
 
 # Is This the Polish Your Tank's Been Missing?

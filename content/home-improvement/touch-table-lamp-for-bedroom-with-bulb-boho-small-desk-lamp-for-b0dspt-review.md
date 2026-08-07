@@ -1,4 +1,5 @@
 ---
+
 title: "Touch Table Lamp For Bedroom with Bulb, Boho Small Desk Lamp"
 seo_title: "Touch Table Lamp For Bedroom with Bulb, Boho Small Review"
 meta_description: "Our full touch table lamp for bedroom with bulb, boho small desk lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSPTSQFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CYz20y0KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Touch Table Lamp for Bedroom Review: Does This Boho Lamp Deliver on Style and Function?

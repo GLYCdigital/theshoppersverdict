@@ -1,4 +1,5 @@
 ---
+
 title: "Nerds Candy, Grape & Strawberry, 1.65 Ounce Treat-Size Theat"
 seo_title: "Nerds Candy, Grape & Strawberry, 1.65 Ounce Treat- Review"
 meta_description: "Our full nerds candy, grape & strawberry, 1.65 ounce treat-size theat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00MODG1LI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91T9oFyW5eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: when you see "Nerds" on the shelf, you know exactly what you're getting. Tiny, crunchy, aggressively sweet sugar pellets that stick to your teeth and somehow disappear before you've finished the box. The Grape & Strawberry 1.65-ounce treat-size version is that same experience, just portioned for one person — or one movie theater visit.

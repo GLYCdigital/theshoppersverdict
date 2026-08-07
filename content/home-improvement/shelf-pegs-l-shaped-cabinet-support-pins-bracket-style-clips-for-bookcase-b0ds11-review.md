@@ -1,4 +1,5 @@
 ---
+
 title: "Shelf Pegs L-Shaped Cabinet Support Pins Bracket Style Clips"
 seo_title: "Shelf Pegs L-Shaped Cabinet Support Pins Bracket S Review"
 meta_description: "Our full shelf pegs l-shaped cabinet support pins bracket style clips review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DS1179YY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qAgL78BhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about shelf pegs: they're the most overlooked piece of hardware in your home. You never think about them until a shelf collapses under your cookbook collection. These L-shaped support pins from the B0DS11 listing aim to fix that problem with a bracket-style design that distributes weight better than the round plastic nubs most cabinets ship with. Here's the real story after digging through 220 ratings.

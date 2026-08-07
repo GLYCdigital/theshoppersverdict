@@ -1,4 +1,5 @@
 ---
+
 title: "NESIMY Super Bros Toys Night Light for Kids with Game Sound "
 seo_title: "NESIMY Super Bros Toys Night Light for Kids with G Review"
 meta_description: "Our full nesimy super bros toys night light for kids with game sound  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZX53M18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LYaiVhVLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest — most kids' night lights are either boring or gimmicky. The NESIMY Super Bros Toys Night Light tries to be neither, and for the most part, it succeeds. With 215 Amazon ratings averaging 4.3 stars, this little console-styled light has clearly found an audience. But is it worth your money, or is it just another plastic toy that'll end up in the drawer by week three?

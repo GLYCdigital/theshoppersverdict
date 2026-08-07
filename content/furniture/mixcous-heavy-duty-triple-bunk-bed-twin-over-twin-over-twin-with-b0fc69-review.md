@@ -1,4 +1,5 @@
 ---
+
 title: "Mixcous Heavy Duty Triple Bunk Bed, Twin Over Twin Over Twin"
 seo_title: "Mixcous Heavy Duty Triple Bunk Bed, Twin Over Twin Review"
 meta_description: "Our full mixcous heavy duty triple bunk bed, twin over twin over twin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FC69TWFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RI0vLJqWL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Three kids. One room. Zero floor space left.** That’s the problem the Mixcous Heavy Duty Triple Bunk Bed tries to solve, and honestly, it does solve it — with some serious caveats you need to hear before clicking buy.

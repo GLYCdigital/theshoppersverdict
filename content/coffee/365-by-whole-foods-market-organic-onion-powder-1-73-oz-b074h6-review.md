@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Onion Powder, 1.73 oz"
 seo_title: "365 Organic Onion Powder Review: Honest 2026 Buyer's Guide"
 meta_description: "Is 365 Organic Onion Powder worth it? Real review on flavor, texture, and value with 4.8/5 Amazon rating. Find out where it shines and falls short."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B074H6VR21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CGHlNyeBL._SL1000_.jpg"
-pros:
+pros: 
   - "Deep, roasted onion flavor that's noticeably fresher than grocery-store staples like McCormick or store brands"
   - "Glass jar with a tight-sealing metal lid — keeps moisture out and powder clump-free for months"
   - "Certified organic with no anti-caking agents or additives; just pure ground onion"
-cons:
+cons: 
   - "Small 1.73 oz size runs out fast if you cook with it daily — expect to repurchase every 3-4 weeks"
   - "Powder is finely ground, which means it can cake if you dip a wet spoon in (common with all onion powders, but worth noting)"
+
 ---
 
 # 365 by Whole Foods Market Organic Onion Powder Review: The Pantry Upgrade Worth Making?

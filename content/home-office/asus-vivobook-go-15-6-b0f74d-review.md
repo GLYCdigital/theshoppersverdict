@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Vivobook Go 15.6” Review: Budget Laptop With Real Tradeoffs"
 seo_title: "ASUS Vivobook Go 15.6” Review (2026): Worth It? | Honest Verdict"
 meta_description: "ASUS Vivobook Go 15.6” review: 4.3/5 from 215 buyers. We break down performance, build quality, and who should skip it. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F74D7JW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TfjqvF4YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 15.6-inch display in a chassis that weighs just 3.5 pounds — genuinely portable for the screen size"
   - "Physical number pad on the trackpad is a smart workaround for spreadsheet-heavy tasks"
   - "Battery life holds up for a full workday (8+ hours) under mixed office workloads"
-cons:
+cons: 
   - "Plastic build feels hollow around the keyboard deck — flex is noticeable when typing hard"
   - "Only 8GB of RAM soldered — you cannot upgrade it later, which limits long-term multitasking"
   - "Speakers are weak and tinny; fine for notifications, frustrating for media"
+
 ---
 
 **The ASUS Vivobook Go 15.6” is the laptop equivalent of a solid mid-tier sedan.** It won't turn heads, it won't win races, but it gets you to work every day without drama. With a 4.3-star average across 215 Amazon ratings, it's clearly doing something right for budget-conscious buyers. Here's the unvarnished truth after digging through specs, user feedback, and the realities of daily office use.

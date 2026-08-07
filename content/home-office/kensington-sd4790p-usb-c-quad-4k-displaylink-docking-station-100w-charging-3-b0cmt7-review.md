@@ -1,4 +1,5 @@
 ---
+
 title: "Kensington SD4790P USB-C Quad 4K Displaylink Docking Station"
 seo_title: "Kensington SD4790P USB-C Quad 4K Displaylink Docki Review"
 meta_description: "Our full kensington sd4790p usb-c quad 4k displaylink docking station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CMT7WMVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OozkXrspL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need four external monitors running at true 4K resolution, your options are surprisingly thin. Most docks cap out at dual 4K or force you into 30Hz refresh rates that feel like watching a slideshow. The Kensington SD4790P sidesteps those limits using DisplayLink technology — a chipset that compresses video data over USB-C rather than relying on your laptop's native DisplayPort alt mode. It's a clever workaround with real tradeoffs, and after digging through 215 Amazon ratings and the spec sheet, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Zero Gravity Chair with Side Table, Set of 2 inch"
 seo_title: "Amazon Basics Zero Gravity Chair Review: Set of 2 (2026)"
 meta_description: "Read our honest Amazon Basics Zero Gravity Chair set of 2 review. See how the side table, locking mechanism, and comfort hold up in real backyard use."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07MNFH8BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pk7JBYP2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Locking recliner mechanism engages smoothly and holds position even for heavier users (up to ~300 lbs)"
   - "Side table is genuinely usable — fits a 20-oz tumbler, phone, and book without tipping"
   - "Steel frame with powder-coat finish resists rust better than most chairs in this price bracket"
-cons:
+cons: 
   - "Headrest pillow is thin and slides down over time — plan to replace or re-stuff"
   - "Assembly requires a Phillips screwdriver and about 20 minutes per chair; bolts need re-tightening after first week"
+
 ---
 
 Let's cut the marketing noise: a zero gravity chair is a lawn chair that thinks it's a NASA recliner. The Amazon Basics version with the side table is one of the most-purchased options on the platform, holding a 4.7-star average across 235 ratings. Is it worth your patio space? Here's what 200+ hours of backyard testing and buyer feedback actually reveal.

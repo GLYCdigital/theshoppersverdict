@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns 6FT Rectangle Conference Table, 70.87L x 33.46W x"
 seo_title: "Tribesigns 6FT Rectangle Conference Table, 70.87L  Review"
 meta_description: "Our full tribesigns 6ft rectangle conference table, 70.87l x 33.46w x review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPD19DTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BXRra3b+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're outfitting a home office, a conference room, or a shared workspace, the Tribesigns 6FT Rectangle Conference Table sits in that sweet spot: big enough to actually hold a meeting, priced low enough to not blow the budget. But is it a "buy once, cry once" piece of furniture or a flimsy temp fix? Here's the real story after digging through specs and 220 verified buyer ratings.

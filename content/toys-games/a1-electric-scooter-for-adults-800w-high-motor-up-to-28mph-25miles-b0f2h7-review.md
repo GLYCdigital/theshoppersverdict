@@ -1,4 +1,5 @@
 ---
+
 title: "A1 Electric Scooter for Adults,800W High Motor Up to 28MPH&2"
 seo_title: "A1 Electric Scooter Review: 800W Motor, 28 MPH – Worth It?"
 meta_description: "Honest A1 electric scooter review: 800W motor, 28 MPH top speed, 25-mile range. Real buyer feedback on build quality, performance & value."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F2H73TLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eTseA--hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 28 MPH top speed with an 800W peak motor that handles moderate hills without bogging down"
   - "Dual suspension system (front spring + rear) smooths out cracked pavement and expansion joints noticeably"
   - "25-mile claimed range holds up reasonably well in real-world testing at moderate speeds (expect 18-20 miles)"
-cons:
+cons: 
   - "Assembly requires basic mechanical confidence; several buyers report misaligned brake calipers out of the box"
   - "No official IP rating — avoid puddles and wet roads despite the fender coverage"
   - "Solid 10-inch tires mean you feel every sharp edge; no pneumatic option for cushier rides"
+
 ---
 
 Is the A1 Electric Scooter a genuine commuter tool or just another budget toy with big numbers on the spec sheet? At 3.8 stars across 190 ratings, the truth sits somewhere in the middle. I've dug through the buyer feedback, cross-referenced the specs, and tested enough scooters to know what matters. Here's the unvarnished picture.

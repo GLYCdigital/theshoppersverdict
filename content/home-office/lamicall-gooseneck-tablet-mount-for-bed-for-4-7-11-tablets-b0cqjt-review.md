@@ -1,7 +1,8 @@
 ---
-title: "Lamicall Gooseneck Tablet Mount for Bed for 4.7-11\" Tablets"
+
+title: "Lamicall Gooseneck Tablet Mount for Bed for 4.7-11\ Tablets"
 seo_title: "Lamicall Gooseneck Tablet Mount for Bed for 4.7-11 Review"
-meta_description: "Our full lamicall gooseneck tablet mount for bed for 4.7-11\" tablets review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full lamicall gooseneck tablet mount for bed for 4.7-11\ tablets review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lamicall-gooseneck-tablet-mount-for-bed-for-4-7-11-tablets-b0cqjt-review"
 image_alt: "Lamicall Gooseneck Tablet Mount for Bed for 4.7-11 Tablets"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQJT1RNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qyKhv2aGS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever propped a tablet on your chest and watched it slide off at 2 a.m., you already know why the Lamicall Gooseneck Tablet Mount exists. This is a 31-inch flexible arm with a C-clamp on one end and a 4.7-11 inch device cradle on the other, designed to hover your screen exactly where you want it — over your face in bed, beside your desk, or clamped to a kitchen cabinet while you cook.

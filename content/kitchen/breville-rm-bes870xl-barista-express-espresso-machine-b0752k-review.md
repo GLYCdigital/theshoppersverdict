@@ -1,4 +1,5 @@
 ---
+
 title: "Breville RM-BES870XL Barista Express Espresso Machine"
 seo_title: "Breville Barista Express Review: Worth It in 2026?"
 meta_description: "Honest Breville RM-BES870XL Barista Express review: grinder, steam wand, espresso quality, and real buyer feedback. Is it worth $700+?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0752KVXS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ggVrgjjLL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Integrated conical burr grinder with 16 settings means you're grinding fresh for every shot — no separate grinder needed on your counter"
   - "The 15-bar Italian pump and 1600W thermocoil heating system deliver consistent temperature with rapid 3-second heat-up from standby"
   - "Manual microfoam steam wand produces genuinely latte-art-worthy milk texture once you practice — not the weak froth you get from pod machines"
-cons:
+cons: 
   - "The grinder, while convenient, struggles with very light roasts and can be inconsistent at finer settings — serious espresso hobbyists will outgrow it quickly"
   - "At roughly 13 inches wide and 25 pounds, this is a counter hog that needs real estate and a dedicated outlet — it's not sliding under upper cabinets easily"
+
 ---
 
 **The Breville Barista Express is the machine that made home espresso practical — but that doesn't mean it's perfect.**

@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE 2-Tier End Table, Side Table with Bottom Shelf, Nigh"
 seo_title: "VASAGLE 2-Tier End Table, Side Table with Bottom S Review"
 meta_description: "Our full vasagle 2-tier end table, side table with bottom shelf, nigh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJ35NBSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ezNPB6byL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most budget end tables are flimsy, wobbly disasters that you'll replace within a year. The VASAGLE 2-Tier End Table isn't that. With a 4.6-star average across 229 ratings, this compact side table has earned its place in countless living rooms and bedrooms. But is it the right pick for your space? Here's the real story.

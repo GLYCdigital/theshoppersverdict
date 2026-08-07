@@ -1,4 +1,5 @@
 ---
+
 title: "COMFEE"
 seo_title: "COMFEE Review: Is This Budget Kitchen Appliance Worth It?"
 meta_description: "COMFEE kitchen appliance review: 4.7-star rated at $66.34. Real performance, build quality, and downsides. Find out if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FY5NDWMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qUvfq4LxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Compact footprint (roughly 11 x 10 inches) fits easily under upper cabinets without sacrificing capacity"
   - "Even heat distribution across the cooking surface — no hot spots or cold zones during testing"
   - "Simple mechanical dial controls that are intuitive and easy to clean, unlike touch panels that smudge"
-cons:
+cons: 
   - "Exterior gets noticeably hot during extended use — keep clear of children and pets"
   - "Short power cord (about 2 feet) limits placement options on larger countertops"
+
 ---
 
 At $66.34, the COMFEE sits in that tricky middle ground — cheap enough to impulse-buy, expensive enough to make you wonder if you're getting a deal or a dud. After digging through 235 ratings (4.7 stars) and testing the unit myself, here's the honest picture.

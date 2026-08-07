@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Bed Frames Metal Platform Bed Mattress Foundation "
 seo_title: "Yaheetech Bed Frames Metal Platform Bed Mattress F Review"
 meta_description: "Our full yaheetech bed frames metal platform bed mattress foundation  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTK276ZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZDlUqq-YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're hunting for a bed frame that doesn't cost more than your mattress, the Yaheetech Metal Platform Bed keeps showing up in search results. With 220 ratings and a 4.4-star average, it's clearly doing something right. But is it actually a good frame, or just a cheap one? I dug into the specs, the customer feedback, and the real-world experience to give you the full picture before you click "buy."

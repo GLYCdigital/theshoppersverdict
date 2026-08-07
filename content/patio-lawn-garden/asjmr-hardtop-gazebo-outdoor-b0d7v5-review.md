@@ -1,4 +1,5 @@
 ---
+
 title: "ASJMR Hardtop Gazebo Outdoor"
 seo_title: "ASJMR Hardtop Gazebo Review: Is It Worth It? (2026)"
 meta_description: "ASJMR Hardtop Gazebo review: 4.6-star rated pergola with steel roof, rust-resistant frame, and easy assembly. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7V5J115/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716H-IjonnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-layer galvanized steel roof blocks UV rays and rain noise far better than fabric canopies"
   - "Pre-drilled, labeled frame parts cut assembly time to roughly 2–3 hours with two people"
   - "Mesh curtains included — not an upsell — with tie-backs for open or enclosed use"
-cons:
+cons: 
   - "No side walls included; you'll need separate panels if you want full rain/wind protection"
   - "Anchor bolts are basic; high-wind areas will require concrete footings or additional stakes"
+
 ---
 
 Let’s be blunt: most hardtop gazebos under $1,000 are flimsy metal tents that rattle in a breeze. The ASJMR Hardtop Gazebo isn’t that. With a 4.6-star average across 229 ratings, this is a rare budget-to-midrange option that actually delivers on the “hardtop” promise. Here’s the full story.

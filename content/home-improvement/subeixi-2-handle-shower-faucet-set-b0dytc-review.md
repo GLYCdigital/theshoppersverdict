@@ -1,4 +1,5 @@
 ---
+
 title: "SUBEIXI 2 Handle Shower Faucet Set"
 seo_title: "SUBEIXI 2 Handle Shower Faucet Set Review: Verdict | TSV"
 meta_description: "Our full subeixi 2 handle shower faucet set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYTCP4VK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P518gqucL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SUBEIXI 2 Handle Shower Faucet Set sits in that tricky middle ground: cheap enough to tempt you, substantial enough to make you wonder if it's actually decent. After digging through 210 ratings and the spec sheet, here's the real story.

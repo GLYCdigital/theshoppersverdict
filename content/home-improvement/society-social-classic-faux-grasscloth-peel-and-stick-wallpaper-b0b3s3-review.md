@@ -1,4 +1,5 @@
 ---
+
 title: "Society Social Classic Faux Grasscloth Peel and Stick Wallpa"
 seo_title: "Society Social Classic Faux Grasscloth Peel and St Review"
 meta_description: "Our full society social classic faux grasscloth peel and stick wallpa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0B3S36QVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fEgP8MwfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Pretty from a distance, fussy up close**

@@ -1,4 +1,5 @@
 ---
+
 title: "ABB Q-Line THQL1120AFP2 20A Single Pole Arc Fault Combinatio"
 seo_title: "ABB THQL1120AFP2 Review: 20A AFCI Breaker Worth It?"
 meta_description: "ABB Q-Line THQL1120AFP2 20A AFCI breaker review: real performance, compatibility, and installation tips for homeowners and electricians."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00DTP9TL4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X5kOJ7ZxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plug-on neutral design eliminates pigtail wires, making installation noticeably faster in Q-Line panels"
   - "Combination AFCI detects both series and parallel arcs, exceeding minimum code requirements for bedroom circuits"
   - "Consistent trip performance with no nuisance tripping reported across hundreds of residential installs"
-cons:
+cons: 
   - "Only fits ABB Q-Line panels — will not work in Square D, Eaton, or Siemens load centers without an adapter"
   - "No visible trip indicator light, so diagnosing a tripped circuit requires flipping the breaker manually"
+
 ---
 
 If you're wiring a bedroom, living room, or any living space built after 2008, arc fault protection isn't optional — it's code. The ABB Q-Line THQL1120AFP2 is a 20-amp single-pole combination AFCI breaker that's earned a 4.5-star average across 225 ratings. But before you add it to your cart, here's what you actually need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Culinary McCormick Culinary Bacon Flavored Bits"
 seo_title: "McCormick Culinary McCormick Culinary Bacon Flavor Review"
 meta_description: "Our full mccormick culinary mccormick culinary bacon flavored bits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7MTFCRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wf5Q8qzKL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **This isn't your grocery store bacon bits.** The McCormick Culinary Bacon Flavored Bits come in a 1.5-pound foodservice-style jar that looks like it belongs on a diner counter, not a home pantry shelf. If you've ever paid $4 for a tiny shaker of bacon bits that lasts two salads, this bulk container changes the math entirely.

@@ -1,4 +1,5 @@
 ---
+
 title: "CiWiVOKi Dog Steps for Couch"
 seo_title: "CiWiVOKi Dog Steps Review: Sturdy Foam Ramp for Small Pets"
 meta_description: "Our honest CiWiVOKi dog steps review: sturdy high-density foam, non-slip base, 3-step design for couches. See pros, cons, and if it fits your senior dog."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRRDPYFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814q-zM2XmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "High-density foam core holds firm under 70+ lb dogs without sagging or collapsing"
   - "Removable, machine-washable cover with zipper makes cleaning accidents a 5-minute job"
   - "Non-slip bottom grips hardwood and tile floors so the steps don't slide mid-jump"
-cons:
+cons: 
   - "Solid foam adds weight — at roughly 6 lbs it's not something you'll casually move between rooms"
   - "The 16-inch height works for standard couches but falls short for tall sectionals or high beds"
+
 ---
 
 If your senior dog has started hesitating before jumping onto the couch, you know that moment — the look, the crouch, the whimper. The CiWiVOKi Dog Steps for Couch aims to fix that. At $59.99 with a 4.5-star average across 225 ratings, it sits in the mid-range of pet stairs. But does it actually hold up to daily use, or is it just another foam wedge that slides across your floor?

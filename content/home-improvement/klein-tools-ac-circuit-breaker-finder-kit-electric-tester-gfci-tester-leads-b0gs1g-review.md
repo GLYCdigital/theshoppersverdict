@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools AC Circuit Breaker Finder Kit, Electric Tester, "
 seo_title: "Klein Tools AC Circuit Breaker Finder Kit, Electri Review"
 meta_description: "Our full klein tools ac circuit breaker finder kit, electric tester,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GS1G9FBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Fwsdb3NzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

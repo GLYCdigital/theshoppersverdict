@@ -1,23 +1,25 @@
 ---
+
 title: "INNOCHEER Pretend Makeup for Toddlers"
 seo_title: "INNOCHEER Pretend Makeup for Toddlers Review (2026)"
 meta_description: "Honest INNOCHEER Pretend Makeup for Toddlers review: safe, washable play cosmetics for ages 3+. See what parents love, what falls short, and if it's worth it."
 slug: "innocheer-pretend-makeup-for-toddlers-b0fxwm-review"
 image_alt: "INNOCHEER pretend makeup playset for toddlers with brush set and colorful compact case"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXWM3BSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zT3pZ8J6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Washable formula that actually comes off skin and clothes with soap and water — no scrubbing battles"  
   - "Compact, sturdy case with a mirror that survives toddler drops (most buyers report months of daily use)"  
   - "Color payoff is pigmented enough to feel 'real' but sheer enough that a 3-year-old can't look like a clown"  
-cons:  
+cons: 
   - "Brush quality is mediocre — bristles shed after a few weeks; plan to replace with a cheap craft brush"  
   - "Case latch is stiff for small hands; some toddlers need help opening it independently"
+
 ---
 
 **The "Mommy, I do my makeup!" moment is coming. The question is whether you're ready for the mess.**  

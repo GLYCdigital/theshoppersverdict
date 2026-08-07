@@ -1,4 +1,5 @@
 ---
+
 title: "ACTICLEAR-Muck-Reducer-Pond-Cleaner"
 seo_title: "ACTICLEAR Muck Reducer Review: Does It Clean Ponds?"
 meta_description: "Honest ACTICLEAR Muck Reducer pond cleaner review: bacterial treatment results, dosage, application tips, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DJSPS9CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Aewfbv4CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Live bacteria formula targets organic sludge at the pond floor rather than just clearing surface algae"
   - "Works in cooler water temperatures down to 50°F, extending the treatment season beyond summer"
   - "Safe for fish, plants, and wildlife when dosed per label — no harsh chemicals or dyes"
-cons:
+cons: 
   - "Results take 4–6 weeks for visibly thick muck; impatient users will be disappointed"
   - "Multiple doses required for heavily neglected ponds — one bottle rarely solves severe buildup"
   - "Liquid formula must be shaken vigorously before each use or bacteria settle and lose potency"
+
 ---
 
 **The Short Version:**

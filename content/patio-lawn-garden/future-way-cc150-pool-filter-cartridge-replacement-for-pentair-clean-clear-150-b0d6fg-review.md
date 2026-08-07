@@ -1,4 +1,5 @@
 ---
+
 title: "Future Way CC150 Pool Filter Cartridge Replacement for Penta"
 seo_title: "Future Way CC150 Pool Filter Review: Honest Verdict"
 meta_description: "Future Way CC150 pool filter cartridge for Pentair Clean & Clear: build quality, real-world performance, and whether this aftermarket replacement is worth it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D6FGLFS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Reinforced core and end caps hold up to repeated cleaning without collapsing or splitting"
   - "Pleat count and depth closely match OEM specs, so filtration performance stays consistent"
   - "Half the price of a Pentair branded cartridge with comparable lifespan"
-cons:
+cons: 
   - "No gasket or O-ring included — you'll need to reuse the old one or buy separately"
   - "Some units arrive slightly compressed from shipping and need a day to fully expand"
   - "Fits Pentair Clean & Clear 150 only — not the 200 or 420 models, despite similar naming"
+
 ---
 
 If you own a Pentair Clean & Clear 150, you already know the sting of buying OEM filter cartridges. The Future Way CC150 is an aftermarket replacement that promises the same filtration at a fraction of the cost. After digging through 200 ratings and the technical specs, here's the honest story.

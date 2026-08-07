@@ -1,4 +1,5 @@
 ---
+
 title: "Connecticut Electric UBIZ0230 Newly Manufactured Zinsco RC38 inch"
 seo_title: "Connecticut Electric UBIZ0230 Review: Zinsco RC38 Replacement"
 meta_description: "Connecticut Electric UBIZ0230 Zinsco RC38 replacement breaker review: fit, safety, reliability for vintage panels. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000BQS3I4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vnqWAYASL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Newly manufactured, not NOS — avoids decades-old internal components that can fail in vintage Zinsco breakers"
   - "Precise RC38 fitment for Zinsco panels — no modification or adapter needed on most standard bus stabs"
   - "UL-listed replacement, giving insurers and inspectors documented evidence of a code-compliant fix"
-cons:
+cons: 
   - "Priced well above generic breakers — you're paying for the Zinsco-specific tooling and UL certification"
   - "Not a cure for a fundamentally unsafe panel — if the bus bar shows scorching, this breaker won't fix that"
+
 ---
 
 If you own a home built between 1960 and 1980 with a Zinsco electrical panel, you already know the grim truth: finding replacement breakers is like hunting for a discontinued rifle cartridge. The Connecticut Electric UBIZ0230 RC38 is one of the few newly manufactured options that actually drops into those vintage panels — and with 229 ratings averaging 4.6 stars, it's clearly earning its keep. But before you click buy, understand exactly what you're getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Charles Leonard Fasteners, Round Head, Brass Plated"
 seo_title: "Charles Leonard Fasteners Review: Brass Round Head (2026)"
 meta_description: "Honest Charles Leonard brass-plated round head fasteners review: durability, sizing, real-world use, and who should buy. 4.7★ from 235 ratings."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8VT5NZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BLqG5y91L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brass plating holds up through repeated fastening cycles without flaking or rusting — noticeably better than cheaper nickel alternatives"
   - "Split-prong design bites into manila folders and cardstock cleanly, no bent tips or wasted fasteners in the box"
   - "Smooth round heads sit flat, so stacked documents don't catch or snag when you slide them across a desk"
-cons:
+cons: 
   - "No size marking on the box itself — you need to eyeball prong length, which is annoying if you're replacing a specific size"
   - "The box is basic and doesn't reseal securely; the flap pops open in a drawer, spilling fasteners everywhere"
+
 ---
 
 ## The Unsung Hero of Your Filing Cabinet

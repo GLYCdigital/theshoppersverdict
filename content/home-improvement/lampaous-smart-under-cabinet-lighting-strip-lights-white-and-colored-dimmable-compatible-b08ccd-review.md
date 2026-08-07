@@ -1,4 +1,5 @@
 ---
+
 title: "LAMPAOUS Smart Under Cabinet Lighting Strip Lights White and"
 seo_title: "LAMPAOUS Smart Under Cabinet Lighting Strip Lights Review"
 meta_description: "Our full lampaous smart under cabinet lighting strip lights white and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08CCD4BFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q2ibTNSSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LAMPAOUS Smart Under Cabinet Lighting Strip Lights: Kitchen Upgrade or Appliance Headache?

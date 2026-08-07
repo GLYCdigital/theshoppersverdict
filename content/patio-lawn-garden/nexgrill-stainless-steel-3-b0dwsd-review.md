@@ -1,4 +1,5 @@
 ---
+
 title: "Nexgrill Stainless Steel 3"
 seo_title: "Nexgrill Stainless Steel 3 Review: Verdict | TSV"
 meta_description: "Our full nexgrill stainless steel 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DWSDTK3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bM4cV+DcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the Nexgrill Stainless Steel 3 burner is the grill you buy when you want a real upgrade from a $99 special, but you’re not ready to drop flagship money on a Weber or Napoleon. At 4.1 stars across 204 Amazon ratings, it’s solidly mid-pack — which means the truth sits somewhere between “amazing value” and “you get what you pay for.” Here’s the breakdown after digging through owner feedback and spec sheets.

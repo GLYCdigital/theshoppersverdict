@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Specialty Coffee Maker Review"
 seo_title: "Ninja Specialty Coffee Maker Review: The Ultimate Brewer?"
 meta_description: "Our Ninja Specialty Coffee Maker review tests full coffee and espresso-style brewing. See how it performs as a drip machine and single-serve brewer."
@@ -14,7 +15,7 @@ image_alt: "Ninja Specialty Coffee Maker on a kitchen counter showing the carafe
 keywords: [Ninja Specialty Coffee Maker review, Ninja coffee maker, best drip coffee maker, Ninja specialty coffee maker vs Keurig, Ninja coffee maker with frother]
 pros: [Brewaa full 10-cup carafe and single-serve using ground coffee or pods, Built-in fold-away frother for lattes and cappuccinos, 6 brew styles including Classic Rich Over Ice and Specialty Brew, Programmable delay brew with 24-hour timer, Excellent value at $149.99 with nearly 20K positive reviews]
 cons: [Bulky footprint takes up significant counter space, No built-in grinder requires pre-ground or separate grinder, Water reservoir can be awkward to fill when positioned under cabinets]
-faq:
+faq: 
   - question: "Is the Ninja Specialty Coffee Maker worth it?"
     answer: "Absolutely. With a 4.6-star average from nearly 20,000 reviews, the Ninja Specialty Coffee Maker is one of the most popular coffee machines on the market. At $149.99, it replaces several appliances: a drip coffee maker, a single-serve brewer, and a milk frother. The brew quality is excellent across all modes, and the Specialty Brew function delivers noticeably richer coffee. If you want versatility without buying multiple machines, this is the best option at this price point."
   - question: "How does the Ninja Specialty Coffee Maker compare to a Keurig?"
@@ -25,6 +26,7 @@ faq:
     answer: "The Ninja Specialty Coffee Maker offers 4 cup sizes (full carafe, half carafe, travel mug, and single cup) and 6 brew styles: Classic, Rich, Over Ice, Specialty Brew, Cold Brew, and Cafe Forte. The Over Ice setting brews double-strength coffee designed to pour directly over ice without dilution. The Specialty Brew mode creates a concentrated shot perfect as a latte or cappuccino base."
   - question: "Does the Ninja Specialty Coffee Maker use K-Cups?"
     answer: "Yes — with the included Ninja Pod Adapter, you can use K-Cup pods in the single-serve side of the machine. This means you can enjoy your favorite K-Cup brands while also having the option to brew fresh grounds. It's the best of both worlds."
+
 ---
 
 # Ninja Specialty Coffee Maker Review: The 6-in-1 Brewer That Actually Delivers  

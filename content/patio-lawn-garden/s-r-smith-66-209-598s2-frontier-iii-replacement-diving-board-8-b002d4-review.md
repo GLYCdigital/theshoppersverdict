@@ -1,4 +1,5 @@
 ---
+
 title: "S.R. Smith 66-209-598S2 Frontier III Replacement Diving Boar"
 seo_title: "S.R. Smith 66-209-598S2 Frontier III Replacement D Review"
 meta_description: "Our full s.r. smith 66-209-598s2 frontier iii replacement diving boar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B002D48HME/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510Dsu3SZ+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a cracked, faded diving board and dreading the replacement cost, here's the honest truth: this S.R. Smith board is the right call for most homeowners, but it's not the cheapest option. At roughly $400–$450 depending on the seller, the Frontier III sits at the premium end of the replacement market. The question is whether the durability justifies the price tag. After digging through 225 ratings and the specs, I'd say yes — with a few caveats.

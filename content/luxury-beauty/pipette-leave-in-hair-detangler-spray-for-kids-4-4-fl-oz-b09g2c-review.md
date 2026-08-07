@@ -1,4 +1,5 @@
 ---
+
 title: "Pipette Leave-In Hair Detangler Spray for Kids, 4.4 Fl Oz, S"
 seo_title: "Pipette Leave-In Hair Detangler Spray for Kids, 4. Review"
 meta_description: "Our full pipette leave-in hair detangler spray for kids, 4.4 fl oz, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09G2CS91G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cTUlPlobL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: kids' detanglers are usually a chemistry lab of dimethicone, artificial strawberry scent, and enough alcohol to strip paint. The Pipette Leave-In Hair Detangler Spray is not that. This is a clean-formula spray that actually respects a child's scalp and hair — and at 4.4 fluid ounces, it's a compact bottle that travels well.

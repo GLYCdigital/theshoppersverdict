@@ -1,4 +1,5 @@
 ---
+
 title: "TECKNET Wired Mouse"
 seo_title: "TECKNET Wired Mouse Review: Verdict | TSV"
 meta_description: "Our full tecknet wired mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G12T5Q9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618ihEBwiSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **TECKNET Wired Mouse Review: The $10 Office Workhorse That Skips the Frills**

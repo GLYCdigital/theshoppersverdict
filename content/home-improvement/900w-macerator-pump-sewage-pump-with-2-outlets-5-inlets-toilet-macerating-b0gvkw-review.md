@@ -1,4 +1,5 @@
 ---
+
 title: "900W Macerator Pump, Sewage Pump with 2 Outlets/5 Inlets, To"
 seo_title: "900W Macerator Pump Review: 2 Outlets, 5 Inlets for Basement Bathrooms"
 meta_description: "Our 900W macerator pump review covers real-world performance, 2-outlet/5-inlet flexibility, noise levels, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVKWRLJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pqFuzGdpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "5 inlet ports and 2 outlets mean you can tie in a toilet, sink, and shower without buying a second unit or complex manifold kit"
   - "900W motor handles solids up to 2 inches and lifts waste vertically up to 30 feet — enough for most below-grade basement installs"
   - "Built-in check valve and 6L stainless steel tank reduce backflow risk and corrosion compared to plastic-only competitors"
-cons:
+cons: 
   - "Runs loud under full load — measured at 68 dB in the product video, which is noticeable in open basements or near bedrooms"
   - "No wireless float switch or alarm included — you'll need to buy a separate high-water alarm kit for unattended installations"
+
 ---
 
 ## This Pump Solves a Problem Most Homeowners Don't Know They Have

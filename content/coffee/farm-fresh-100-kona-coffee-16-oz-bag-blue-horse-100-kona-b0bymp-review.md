@@ -1,4 +1,5 @@
 ---
+
 title: "Farm-fresh: 100% Kona Coffee 16 oz Bag - Blue Horse 100% Kon"
 seo_title: "Blue Horse 100% Kona Coffee Review: Worth the Price?"
 meta_description: "Honest Blue Horse 100% Kona Coffee review: flavor, freshness, value. See if this 16 oz bag justifies its premium price before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYMPBZMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b0S8O6dML._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100% Kona beans — no blending with cheaper robusta or Brazilian arabica, which is rare at this price point"
   - "Roasted-to-order freshness; multiple buyers report receiving beans with roast dates within days of shipping"
   - "Smooth, low-acid cup with natural chocolate and macadamia notes that holds up in drip, pour-over, and French press"
-cons:
+cons: 
   - "Premium pricing — expect to pay $45–60 per 16 oz bag, roughly triple commodity coffee"
   - "Whole bean only; if you lack a decent grinder, you'll lose the nuance that justifies the cost"
   - "Lighter roast profile than some Kona fans expect — darker-roast loyalists may find it underwhelming"
+
 ---
 
 Let's be blunt: most "Kona" coffee sold in the U.S. is a lie. The Hawaiian legislature requires just 10% Kona beans for a bag to legally carry the name — the other 90% is often cheap filler from Central America or Asia. Blue Horse is one of the few brands that commits to 100% Kona, and that alone makes this 16 oz bag worth a serious look.

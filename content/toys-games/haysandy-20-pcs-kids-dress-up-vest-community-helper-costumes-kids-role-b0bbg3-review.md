@@ -1,4 +1,5 @@
 ---
+
 title: "Haysandy 20 PCS Kids Dress Up Vest Community Helper Costumes"
 seo_title: "Haysandy 20 PCS Kids Dress Up Vests Review: Community Helper Costumes"
 meta_description: "Honest Haysandy 20 PCS Kids Dress Up Vest review. 20 community helper costumes for preschool. See what's included, quality, sizing, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBG3FWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r4jsORgML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20 distinct vests cover 10 professions, so a whole preschool class stays engaged without fighting over the same costume"
   - "Machine-washable polyester with hook-and-loop closures — survives weekly dramatic play rotations"
   - "Includes coordinating hats and badges for each role, which doubles the play value"
-cons:
+cons: 
   - "Sizing runs small — vests fit typical 3–5 year olds, but taller 6-year-olds will find them snug"
   - "Thin material won't withstand rough daily play; expect seams to pull at the closures within months"
+
 ---
 
 If you run a preschool classroom, daycare, or just have a kid who cycles through career ambitions weekly, the Haysandy 20 PCS Dress Up Vest set solves a very specific problem: costume FOMO. With 20 vests covering 10 community helper roles, there's enough for an entire class to dress up simultaneously — no tears over who gets to be the firefighter.

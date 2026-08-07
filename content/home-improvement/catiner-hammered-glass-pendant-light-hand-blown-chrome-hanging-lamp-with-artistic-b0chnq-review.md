@@ -1,4 +1,5 @@
 ---
+
 title: "CATINER Hammered Glass Pendant Light, Hand-Blown Chrome Hang"
 seo_title: "CATINER Hammered Glass Pendant Light Review (2026): Worth It?"
 meta_description: "CATINER hammered glass pendant light review: hand-blown chrome finish, real buyer feedback, dimming quirks, and who should buy it. Verdict: 4.2/5."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHNQ8GVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V4pIxeKCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hand-blown glass with a hammered texture that diffuses light beautifully — no hot spots, no glare"
   - "Substantial chrome finish that doesn't show fingerprints or water spots as badly as standard polished chrome"
   - "Generous 59-inch adjustable cord gives you real flexibility for vaulted ceilings or low dining tables"
-cons:
+cons: 
   - "Bulb not included — and it's a specific E26 size that's easy to overlook when ordering"
   - "The hammered texture catches dust visibly; you'll be wiping it more often than a smooth glass shade"
   - "Hand-blown nature means each piece has slight asymmetry — a dealbreaker if you demand perfect symmetry"
+
 ---
 
 **The short version:** This isn't your builder-grade glass dome from the home center. The CATINER hammered glass pendant is a hand-blown piece that actually looks like it cost three times the price — if you're okay with the quirks that come with handmade glass.

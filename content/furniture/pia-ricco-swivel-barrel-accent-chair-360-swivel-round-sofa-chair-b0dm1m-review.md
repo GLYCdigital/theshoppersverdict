@@ -1,4 +1,5 @@
 ---
+
 title: "Pia Ricco Swivel Barrel Accent Chair, 360Â° Swivel Round Sof"
 seo_title: "Pia Ricco Swivel Barrel Accent Chair, 360Â° Swivel Review"
 meta_description: "Our full pia ricco swivel barrel accent chair, 360â° swivel round sof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DM1MBL3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AZoFJhjYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pia Ricco Swivel Barrel Accent Chair: A 360-Degree Twist on Comfort That Actually Delivers**

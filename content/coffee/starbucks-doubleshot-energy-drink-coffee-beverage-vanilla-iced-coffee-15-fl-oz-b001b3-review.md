@@ -1,4 +1,5 @@
 ---
+
 title: "Starbucks Doubleshot Energy Drink Coffee Beverage, Vanilla, "
 seo_title: "Starbucks Doubleshot Energy Drink Coffee Beverage, Review"
 meta_description: "Our full starbucks doubleshot energy drink coffee beverage, vanilla,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001B3UP96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815rkKblXwL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: a 15-ounce can of cold coffee with enough caffeine to wake up a hibernating bear. The Starbucks Doubleshot Energy in Vanilla isn't trying to be your morning pour-over. It's trying to replace your second cup, your afternoon Red Bull, and maybe your will to nap — and according to 235 Amazon reviewers averaging 4.7 stars, it mostly succeeds.

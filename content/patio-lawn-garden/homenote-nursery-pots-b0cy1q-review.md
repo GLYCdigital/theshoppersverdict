@@ -1,4 +1,5 @@
 ---
+
 title: "homenote Nursery Pots"
 seo_title: "homenote Nursery Pots Review: Verdict | TSV"
 meta_description: "Our full homenote nursery pots review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CY1Q7WRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oKZgbQ1XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever tried to wrestle a root-bound seedling out of a flimsy pot that splits down the side, you know the pain. The homenote Nursery Pots are built to end that frustration. With a 4.7-star average across 235 ratings, these aren’t just another disposable container — they’re a legit tool for anyone who propagates, starts seeds, or runs a small nursery operation from their patio.

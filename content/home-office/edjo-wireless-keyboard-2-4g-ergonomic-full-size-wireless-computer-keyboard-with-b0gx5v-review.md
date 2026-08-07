@@ -1,4 +1,5 @@
 ---
+
 title: "EDJO Wireless Keyboard, 2.4G Ergonomic Full Size Wireless Co"
 seo_title: "EDJO Wireless Keyboard Review: 2.4G Ergonomic Full-Size (2026)"
 meta_description: "EDJO 2.4G wireless keyboard review: full-size ergonomic layout, quiet keys, battery life, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GX5VBNZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YaWxxdZCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-size layout with dedicated number pad and arrow keys — rare in budget wireless boards"
   - "Genuinely quiet membrane keys that won't annoy coworkers in open offices"
   - "Simple plug-and-play 2.4G dongle with reliable 10-foot range and no Bluetooth pairing hassle"
-cons:
+cons: 
   - "No backlighting — you'll be hunting for keys in dim rooms"
   - "The glossy plastic top smudges easily and shows dust quickly"
+
 ---
 
 Let me cut through the listing copy. The EDJO Wireless Keyboard is a full-size 2.4G board that promises ergonomic comfort without the ergonomic price tag. At 4.4 stars across 220 ratings, it's clearly doing something right — but who is this actually for, and where does it cut corners? I dug into the specs and what real buyers are saying.

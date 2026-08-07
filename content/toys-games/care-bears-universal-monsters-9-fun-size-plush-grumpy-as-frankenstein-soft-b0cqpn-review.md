@@ -1,4 +1,5 @@
 ---
+
 title: "Care Bears Universal Monsters 9 inch  Fun Size Plush - Grumpy as Frankenstein"
 seo_title: "Care Bears Universal Monsters Plush Review: Grumpy Frankenstein"
 meta_description: "Honest Care Bears Universal Monsters 9 inch  Fun Size Plush review. Is Grumpy as Frankenstein worth it? Quality, size, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQPN43N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VQsV4fKsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely soft, high-quality plush fabric that holds up to repeated hugging and play"
   - "Clever design detail — Grumpy's signature scowl works perfectly with the Frankenstein bolts and stitched brow"
   - "9-inch size is ideal for display on shelves or desks without taking up too much space"
-cons:
+cons: 
   - "Costume elements (bolts, stitches) are printed, not embroidered — may peel with aggressive washing"
   - "Only one expression available — if you want a different monster mashup, you'll need to buy another bear"
+
 ---
 
 ## The Mashup You Didn't Know You Needed

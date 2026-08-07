@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse Lighting Widespan Industrial Ceiling Fan with R"
 seo_title: "Westinghouse Lighting Widespan Industrial Ceiling  Review"
 meta_description: "Our full westinghouse lighting widespan industrial ceiling fan with r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3G9K76H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51S+k3PgmGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need to move air across a 2,000-square-foot workshop, garage, or barn, the Westinghouse Widespan Industrial Ceiling Fan is one of the few residential-priced options that actually delivers commercial-grade airflow. At 4.2 stars from 210 Amazon ratings, it's not flawless, but it solves a problem most ceiling fans can't touch.

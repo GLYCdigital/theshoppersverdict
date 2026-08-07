@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Organic Raw Cacao Beans"
 seo_title: "Yupik Organic Raw Cacao Beans Review: Verdict | TSV"
 meta_description: "Our full yupik organic raw cacao beans review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GGS1KPPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715oRcS2brL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something right up front: these are not snacking beans. Yupik's Organic Raw Cacao Beans are a starting ingredient for people who want to make their own chocolate, brew cacao tea, or roast their own cacao nibs. If that's you, this 4.4-star rated bag (220 ratings) deserves a serious look. If you were hoping for sweet chocolate-covered treats, you've got the wrong product.

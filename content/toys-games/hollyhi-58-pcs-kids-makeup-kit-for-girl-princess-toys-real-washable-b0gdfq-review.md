@@ -1,4 +1,5 @@
 ---
+
 title: "Hollyhi 58 Pcs Kids Makeup Kit for Girl, Princess Toys Real"
 seo_title: "Hollyhi 58 Pcs Kids Makeup Kit Review: Real, Washable Fun"
 meta_description: "Honest Hollyhi 58 Pcs Kids Makeup Kit review: real, washable cosmetics for girls. See what 229+ buyers say, plus pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GDFQZDF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GbQQka0TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real, washable cosmetics (not chalky play-dough) that actually apply smoothly and rinse off with soap and water"
   - "58 pieces for the price — includes eyeshadows, lip glosses, blushes, 12 nail polishes, brushes, and a sturdy carrying case"
   - "Case doubles as a storage organizer and travel kit; latches securely and survives being dropped"
-cons:
+cons: 
   - "Nail polish is the weakest link — thin formula, chips within hours, and some parents found it hard to fully remove"
   - "Eyeshadow pans are small and lightly pigmented; older kids (10+) may find the color payoff underwhelming"
 cons_text: "The real gap here is the nail polish. It's watery, takes two coats to look like anything, and chips before dinner. For kids who just want the experience, fine. But if your daughter expects polish that lasts a school day, you'll be disappointed."
+
 ---
 
 If you've ever bought a "kids makeup set" that turned out to be chalky pressed powder and plastic lipstick that snaps on first use, you know the drill. The **Hollyhi 58 Pcs Kids Makeup Kit** is not that set. This is real, wearable, washable cosmetics designed for small faces — and at 4.6 stars across 229 ratings, it's earning its keep in birthday-party rotation and quiet afternoons alike.

@@ -1,4 +1,5 @@
 ---
+
 title: "Traeger Grills Signature Blend 100% All-Natural Wood Pellets"
 seo_title: "Traeger Grills Signature Blend 100% All-Natural Wo Review"
 meta_description: "Our full traeger grills signature blend 100% all-natural wood pellets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHP1WF5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There's a reason Traeger's Signature Blend is the default fuel for more than a million pellet grills. It just works. But at a price premium over store-brand alternatives, you deserve to know exactly what you're paying for before you grab a 20-pound bag.

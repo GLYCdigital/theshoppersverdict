@@ -1,4 +1,5 @@
 ---
+
 title: "eufy Security Video Doorbell Add-On Chime, Indoor Chime, Req"
 seo_title: "eufy Security Add-On Chime Review: Worth It? (2026)"
 meta_description: "eufy Security Video Doorbell Add-On Chime review: Does this indoor chime deliver loud alerts? We test volume, setup, and compatibility."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CJC7WJYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MhZk2b9sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Plug-and-play setup takes under two minutes with the eufy Security app"
   - "Adjustable volume up to 90dB — genuinely audible from the basement or garage"
   - "8 selectable chime tones let you differentiate front door from back door"
-cons:
+cons: 
   - "Requires an existing eufy doorbell; useless as a standalone device"
   - "Bulky white plastic housing won't win design awards in a modern home"
   - "No battery option — must stay tethered to a wall outlet near your router"
+
 ---
 
 You've got a eufy doorbell, and you've already missed three packages because you didn't hear the chime from the kitchen. This add-on chime exists for exactly that problem — but is it the fix you need, or just another gadget that'll gather dust? Let's get into it.

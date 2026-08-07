@@ -1,4 +1,5 @@
 ---
+
 title: "Beach Shell Collecting Set, Sand Toys with 2 Collapsible Buc"
 seo_title: "Beach Shell Collecting Set Review: Collapsible Sand Toys"
 meta_description: "Honest review of the Beach Shell Collecting Set with 2 collapsible buckets. Real buyer feedback, pros/cons, and who should buy this 4.7-star sand toy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5GS1HPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816sD38zSfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Collapsible buckets fold flat, saving serious trunk space — a rare feature at this price point"
   - "Shark-tooth sifter design actually works for separating shells from sand without dumping everything out"
   - "Sturdy enough for aggressive digging; handles don't snap off after one beach trip"
-cons:
+cons: 
   - "Buckets hold less volume than rigid alternatives once collapsed — you'll make more trips to the water line"
   - "Bright colors fade noticeably after a few hours in direct UV sun; cosmetic only, not structural"
+
 ---
 
 **Review Body:**

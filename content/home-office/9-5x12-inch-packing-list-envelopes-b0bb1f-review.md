@@ -1,4 +1,5 @@
 ---
+
 title: "9.5x12 Inch Packing List Envelopes – 4.6 Star Review"
 seo_title: "9.5x12 Packing List Envelopes Review: Honest 4.6 Star Look"
 meta_description: "Read our 9.5x12 packing list envelopes review. Strong adhesive, clear poly material, and durable build. See if they fit your shipping needs."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BB1FKRQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51X+qayae7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 2.2 mil poly material resists tearing during rough transit, unlike flimsy 1-mil bags"
   - "Aggressive adhesive strip holds firmly to corrugated boxes and poly mailers without edge lifting"
   - "Peel-and-stick design eliminates tape guns and speeds up packing workflow significantly"
-cons:
+cons: 
   - "Clear plastic can show scratching or scuffing on heavily handled parcels, slightly reducing scan readability"
   - "9.5x12 size is overkill for small bubble mailers; you'll waste material on compact shipments"
+
 ---
 
 **The 9.5x12 Inch Packing List Envelope: The Unsung Hero of Shipping Ops**

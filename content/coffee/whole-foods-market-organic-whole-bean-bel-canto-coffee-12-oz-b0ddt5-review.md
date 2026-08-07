@@ -1,4 +1,5 @@
 ---
+
 title: "WHOLE FOODS MARKET Organic Whole Bean Bel Canto Coffee, 12 O"
 seo_title: "WHOLE FOODS MARKET Organic Whole Bean Bel Canto Co Review"
 meta_description: "Our full whole foods market organic whole bean bel canto coffee, 12 o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDT5R55W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DDtUfHX8L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Whole Foods Bel Canto Coffee Review: Is This Organic Whole Bean Worth It?**

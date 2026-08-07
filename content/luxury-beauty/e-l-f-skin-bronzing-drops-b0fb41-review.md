@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. SKIN Bronzing Drops"
 seo_title: "e.l.f. SKIN Bronzing Drops Review: Glow Worth It?"
 meta_description: "Honest e.l.f. SKIN Bronzing Drops review: blendability, shade range, and lasting power tested. See if this $14 serum earns its 4.4-star rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FB41BGYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QYP4UK-mL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable sheer-to-medium bronze that layers without turning muddy or orange"
   - "Silicone-free, fragrance-free formula with squalane and niacinamide — doesn't break down foundation"
   - "One dropper bottle lasts 3-4 months with daily use; mix into moisturizer for full-body glow"
-cons:
+cons: 
   - "Shade range is limited to two depths; deeper skin tones will find 'Deep' too light for bronzing"
   - "Dropper dispenses too quickly — you'll waste product if you're not careful on the first squeeze"
+
 ---
 
 Let's cut through the hype. The e.l.f. SKIN Bronzing Drops have been all over TikTok, and at a fraction of the price of the $40+ serums they're clearly inspired by. The real question is whether they actually deliver a believable glow or just a streaky mess. I've tested these for two weeks, mixed them into five different base products, and worn them through a full work day. Here's what I found.

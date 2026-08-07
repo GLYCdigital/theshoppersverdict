@@ -1,4 +1,5 @@
 ---
+
 title: "Cheardia Tent Stakes Heavy Duty, 10.25 Inch Yard Stakes Non-"
 seo_title: "Cheardia Tent Stakes Review: Heavy Duty 10.25 inch  Yard Stakes"
 meta_description: "Cheardia 10.25 inch  heavy duty tent stakes review: rust-resistant, 4.8★ from 240 buyers. Do they hold in wind & hard soil? Find out if they're worth it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DQWXQV25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b2petN4CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10.25-inch length bites deep enough for soft lawn soil and loose gravel, not just surface anchoring"
   - "Non-rust coating holds up through rain and sprinkler exposure — no orange streaks after a season"
   - "Triple-pronged head design gives you a solid striking surface without bending on impact"
-cons:
+cons: 
   - "At 10.25 inches, they're overkill for lightweight pop-up canopies or small tarps — you'll want shorter stakes for those"
   - "The coating can chip if you hammer them into rocky ground at an angle, exposing bare metal underneath"
+
 ---
 
 Let's be blunt: most tent stakes are flimsy wire that bends the moment you hit a root. The Cheardia Heavy Duty 10.25-inch stakes are a different animal entirely. With a 4.8-star average across 240 ratings, these have clearly earned their reputation — but are they right for *your* setup? Here's what you need to know before clicking buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "oTTRPGo Miniatures Carrying Transport Display Storage Case.M"
 seo_title: "oTTRPGo Miniatures Carrying Transport Display Stor Review"
 meta_description: "Our full ottrpgo miniatures carrying transport display storage case.m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQTFBBV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YZLbSItaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever opened a foam case to find your Chaos Lord's spikey bits snapped off or your Intercessor's gun barrel bent at a sad angle, you already know the pain this case is trying to solve.

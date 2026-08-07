@@ -1,4 +1,5 @@
 ---
+
 title: "ORICO 2.5 SSD SATA to 3.5 Hard Drive Adapter Internal Drive "
 seo_title: "ORICO 2.5 SSD SATA to 3.5 Hard Drive Adapter Inter Review"
 meta_description: "Our full orico 2.5 ssd sata to 3.5 hard drive adapter internal drive  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7QXRP3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W306-vAbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $8 fix that saves you from buying a whole new case.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Golein Hybrid Mattress"
 seo_title: "Golein Hybrid Mattress Review: Worth It? (2026)"
 meta_description: "Honest Golein Hybrid Mattress review: 4.5-star rated. We break down comfort, durability, edge support, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9WCJ7PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KiUudfcXL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine hybrid construction — pocketed coils plus multiple foam layers, not a cheap all-foam imposter"
   - "Excellent motion isolation for a hybrid; coil system is individually wrapped to minimize transfer"
   - "Noticeably cooler sleep surface than typical memory foam beds thanks to the breathable quilted cover"
-cons:
+cons: 
   - "Edge support is average — you'll feel some sinkage when sitting directly on the border"
   - "Off-gassing smell lingers 48-72 hours, longer than the 24-hour window the listing suggests"
+
 ---
 
 **The Golein Hybrid Mattress** is sitting at a solid 4.5 stars from 225 Amazon ratings, which in the mattress category means it's doing something right. But here's the thing about bed-in-a-box hybrids — there are dozens of them, and most are forgettable. This one isn't. Here's why.

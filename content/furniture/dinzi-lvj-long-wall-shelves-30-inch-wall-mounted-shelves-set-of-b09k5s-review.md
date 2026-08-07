@@ -1,4 +1,5 @@
 ---
+
 title: "DINZI LVJ Long Wall Shelves, 30 Inch Wall Mounted Shelves Se"
 seo_title: "DINZI LVJ 30-Inch Wall Shelves Review: Solid & Sleek"
 meta_description: "Read our honest DINZI LVJ 30-inch wall shelf review. We tested the 4.7-star rated floating shelves for build quality, weight capacity, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09K5STZSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VyKRTt-ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hidden bracket design creates a true floating look; hardware recesses cleanly into the wall plate"
   - "Thick 0.6-inch MDF board with laminated finish resists water rings and scratches better than raw wood"
   - "Perforated steel mounting bar distributes weight evenly, allowing for heavier books without sagging"
-cons:
+cons: 
   - "Screws and drywall anchors included are basic; you'll want upgraded anchors for plaster or old drywall"
   - "The 30-inch length is fixed—no option to cut down if you have narrow wall space"
+
 ---
 
 The struggle is real: you need storage, but bulky bookcases make a small room feel like a closet. Floating shelves are the obvious fix, but cheap ones wobble, and expensive solid wood ones cost as much as a night out. The DINZI LVJ 30-inch wall shelf sits right in the middle of that gap—and for most shoppers, it hits the sweet spot.

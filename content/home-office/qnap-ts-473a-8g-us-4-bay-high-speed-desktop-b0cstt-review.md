@@ -1,4 +1,5 @@
 ---
+
 title: "QNAP TS-473A-8G-US 4 Bay High-Speed Desktop"
 seo_title: "QNAP TS-473A-8G-US 4 Bay High-Speed Desktop Review: Verdi"
 meta_description: "Our full qnap ts-473a-8g-us 4 bay high-speed desktop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CSTTLCNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41OZigKv-lL._AC_SL1320_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most 4-bay NAS units under $700 are powered by low-end ARM chips that choke on Docker containers and struggle with 4K Plex transcodes. The QNAP TS-473A-8G-US is not that machine. It's a legitimate server that happens to sit on your desk.

@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena Healthy Skin"
 seo_title: "Neutrogena Healthy Skin Review: Verdict | TSV"
 meta_description: "Our full neutrogena healthy skin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08413PJBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KUjokMh8L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Neutrogena Healthy Skin is the quiet overachiever of the drugstore skincare aisle. It doesn't scream for attention with trendy packaging or viral marketing. Instead, it delivers what most luxury brands charge triple for: a gentle chemical exfoliant, a solid moisturizer, and a skin-brightening effect in one unassuming pump bottle. With a 4.4-star average across 220 Amazon ratings, this is one of those rare products where the hype and the reality actually line up.

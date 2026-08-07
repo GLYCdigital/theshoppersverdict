@@ -1,4 +1,5 @@
 ---
+
 title: "LEMERO 245XL Ink Cartridge PG-245 CL-246 Replacement for Can"
 seo_title: "LEMERO 245XL Ink Cartridge PG-245 CL-246 Replaceme Review"
 meta_description: "Our full lemero 245xl ink cartridge pg-245 cl-246 replacement for can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PHT9MH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ShQgA6jlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the ink cartridge noise. Canon's proprietary 245/246 cartridges are notoriously expensive, and the aftermarket is littered with junk that leaks, throws error codes, or prints streaky garbage. The LEMERO 245XL set claims to fix all that at roughly half the price. I've dug through the specs, user reports, and the 4.6-star aggregate across 229 ratings to see if it holds up.

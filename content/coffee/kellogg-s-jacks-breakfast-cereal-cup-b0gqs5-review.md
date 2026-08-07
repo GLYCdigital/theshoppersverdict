@@ -1,4 +1,5 @@
 ---
+
 title: "Kellogg's Jacks Breakfast Cereal Cup"
 seo_title: "Kellogg's Jacks Breakfast Cereal Cup Review: Verdict | TS"
 meta_description: "Our full kellogg's jacks breakfast cereal cup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GQS5NR98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qZ6PlEabL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: Kellogg's Jacks Breakfast Cereal Cup is a cereal that skipped the bowl. It's a cup of cereal you can eat anywhere — car, desk, couch — without hauling a bowl and spoon around. At 4.8 stars across 240 ratings, people clearly like it. But is it worth the premium over a regular box of cereal? That's the real question.

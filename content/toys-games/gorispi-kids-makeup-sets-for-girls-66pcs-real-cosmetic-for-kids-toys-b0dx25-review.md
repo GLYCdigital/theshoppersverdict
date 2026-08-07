@@ -1,4 +1,5 @@
 ---
+
 title: "GORISPI Kids Makeup Sets for Girls, 66pcs Real Cosmetic for"
 seo_title: "GORISPI Kids Makeup Set Review: 66pcs Real Cosmetics Tested"
 meta_description: "GORISPI 66pc kids makeup set review: real cosmetics, washable formulas, and accessories. See what parents praise and what falls short before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DX259T4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hqHjZZR7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "66-piece set includes real, washable cosmetics — not just plastic play props"
   - "Color-coded compartments keep everything organized; case latches securely"
   - "Formulas are gentle, fragrance-free, and remove easily with soap and water"
-cons:
+cons: 
   - "Eyeshadow and blush powders can be dusty; light application needed to avoid fallout"
   - "Some lip gloss tubes are small and caps can loosen with rough handling"
+
 ---
 
 If your kid has been begging for “real makeup” and you’ve been dodging it because you don’t want glitter bombs and stained carpets, the GORISPI Kids Makeup Set is the compromise that actually works. This is not a plastic playset with pretend compacts. It’s a 66-piece kit of genuine, washable cosmetics sized for small hands and young faces — and at a 4.6-star average across 229 ratings, it’s clearly hitting the mark for most families.

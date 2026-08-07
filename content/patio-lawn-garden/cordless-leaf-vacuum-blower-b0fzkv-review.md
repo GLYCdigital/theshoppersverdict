@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Leaf Vacuum Blower"
 seo_title: "Cordless Leaf Vacuum Blower Review: 3.3-Star Reality Check"
 meta_description: "Honest cordless leaf vacuum blower review: battery life, suction power, and real user feedback. See if this 3.3-star yard tool earns a spot in your garage."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0FZKVSMQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gLDtuesZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless freedom with no extension cord tangles or gas engine maintenance"
   - "Mulching ratio reduces leaf volume significantly, cutting bag-emptying frequency"
   - "Lightweight enough for most users to handle one-handed during extended use"
-cons:
+cons: 
   - "Battery runtime falls short of advertised claims under heavy, wet-leaf conditions"
   - "Suction power drops noticeably when bag fills past half capacity"
   - "Plastic housing feels less durable than corded or gas rivals at similar price points"
+
 ---
 
 If you're shopping for a cordless leaf vacuum, the 3.3-star average across 165 ratings should already tell you something: this isn't a game-changer. But it's also not a dud. The real question is whether its convenience outweighs its compromises for your specific yard. Let's dig into what buyers actually experienced.

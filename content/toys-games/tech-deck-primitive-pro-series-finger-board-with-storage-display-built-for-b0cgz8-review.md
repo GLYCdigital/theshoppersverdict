@@ -1,4 +1,5 @@
 ---
+
 title: "TECH DECK, Primitive Pro Series Finger Board with Storage Di"
 seo_title: "TECH DECK, Primitive Pro Series Finger Board with  Review"
 meta_description: "Our full tech deck, primitive pro series finger board with storage di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGZ83D7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TDkeYgD2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Tech Deck's Primitive Pro Series: it's not your little brother's fingerboard. This is the one that makes you wonder why you ever settled for the $5 plastic versions from the checkout aisle. At first glance, it looks like a toy — and sure, it is — but the build quality punches well above the price point. With 225 ratings averaging 4.5 stars, the consensus is clear: this is the fingerboard to grab if you're serious (or semi-serious) about your tabletop shredding.

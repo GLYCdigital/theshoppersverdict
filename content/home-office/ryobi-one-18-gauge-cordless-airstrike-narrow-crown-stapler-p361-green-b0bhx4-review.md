@@ -1,4 +1,5 @@
 ---
+
 title: "RYOBI ONE+ 18-Gauge Cordless AirStrike Narrow Crown Stapler "
 seo_title: "RYOBI ONE+ 18-Gauge Cordless AirStrike Narrow Crow Review"
 meta_description: "Our full ryobi one+ 18-gauge cordless airstrike narrow crown stapler  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHX4WVGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PqQ4ftkgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dragged an air compressor up a ladder just to shoot a few crown staples into trim, you already know the pain. The RYOBI ONE+ 18-Gauge AirStrike Narrow Crown Stapler (model P361) promises to eliminate that entire setup ritual. After spending time with it, I can tell you: it mostly delivers — with a few caveats worth knowing before you buy.

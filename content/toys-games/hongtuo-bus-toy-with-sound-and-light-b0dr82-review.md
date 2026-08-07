@@ -1,4 +1,5 @@
 ---
+
 title: "HONGTUO Bus Toy with Sound and Light"
 seo_title: "HONGTUO Bus Toy with Sound and Light Review (2026)"
 meta_description: "Honest HONGTUO Bus Toy with Sound and Light review: features, durability, and real buyer feedback. Is this 4.1-star toy worth it for your toddler?"
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DR82J2HY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71elPH2QpbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy ABS plastic body survives toddler drops — multiple buyers report it holding up after months of daily play"
   - "Two volume modes (quiet/loud) with realistic engine sounds and flashing headlights that actually engage young kids"
   - "Working push-and-go friction motor means no batteries needed for movement — just for the sound/light functions"
-cons:
+cons: 
   - "Sound effects are repetitive — one reviewer called them 'annoying after the first hour' with no music option beyond two built-in tunes"
   - "Battery compartment requires a Phillips screwdriver to access; parents replacing batteries will need one handy"
+
 ---
 
 Let me be direct: you've seen a hundred toy buses on Amazon, and most are cheap plastic junk that breaks before the gift receipt expires. The HONGTUO Bus Toy with Sound and Light isn't that — but it's also not the premium wooden toy your Instagram feed keeps pushing. Here's what 204 reviewers at 4.1 stars actually think.

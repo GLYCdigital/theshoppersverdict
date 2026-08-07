@@ -1,4 +1,5 @@
 ---
+
 title: "WOODBRIDGE Solid Surface Shower Base with Recessed Trench Si"
 seo_title: "WOODBRIDGE Solid Surface Shower Base with Recessed Review"
 meta_description: "Our full woodbridge solid surface shower base with recessed trench si review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSVSZ3JF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wk+G9ZpTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re remodeling a bathroom and want a shower floor that doesn’t look like every other builder-grade white pan, the WOODBRIDGE Solid Surface Shower Base with Recessed Trench Drain deserves a hard look. It’s not cheap, and it’s not light, but it solves two common shower complaints—standing water and ugly center drains—in one clean package.

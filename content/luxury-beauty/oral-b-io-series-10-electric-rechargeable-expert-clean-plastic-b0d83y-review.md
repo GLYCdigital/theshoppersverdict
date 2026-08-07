@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B io series 10 electric rechargeable expert clean plast"
 seo_title: "Oral-B io series 10 electric rechargeable expert c Review"
 meta_description: "Our full oral-b io series 10 electric rechargeable expert clean plast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D83YZBX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fhD0rZ+WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Oral-B iO Series 10: Luxury Toothbrushing, But Is It Worth $300?

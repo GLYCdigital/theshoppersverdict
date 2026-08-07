@@ -1,10 +1,11 @@
 ---
+
 title: "Vari ComfortEdge 72x30 Electric Standing Desk Review: Premium Build, Premium Price"
 seo_title: "Vari ComfortEdge Standing Desk — Worth $999? | TSV"
 meta_description: "Vari ComfortEdge 72x30 electric standing desk review: 4.7 stars, 221 ratings, $999. Premium build with sloped ComfortEdge, memory presets, and 180 lb capacity."
 slug: "vari-comfortedge-electric-standing-desk-review"
 image_alt: "Vari ComfortEdge 72x30 inch electric standing desk in walnut with black frame and sloped ComfortEdge front"
-keywords:
+keywords: 
   - "Vari ComfortEdge review"
   - "best standing desk 2026"
   - "VariDesk electric review"
@@ -16,18 +17,18 @@ amazon_rating: 4.7
 price: 999
 amazon_url: "https://www.amazon.com/dp/B0CT94Z191/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MxoohBcyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional build quality — heavy, sturdy, and wobble-free at standing height"
   - "Smooth, silent height adjustment with programmable memory presets"
   - "ComfortEdge sloped front edge reduces wrist pressure during typing"
   - "Tool-free assembly — easier than most desks at half the price"
   - "180 lb weight capacity handles multiple monitors and accessories"
-cons:
+cons: 
   - "$999 price point is steep compared to competitors"
   - "Heavy — delivery and setup requires two people"
   - "Some finish variations reported between batches"
   - "Limited color options compared to mass-market brands"
-faq:
+faq: 
   - question: "Is the Vari ComfortEdge standing desk stable at maximum height?"
     answer: "Yes. Multiple reviewers confirm the desk is 'very stable' and doesn't wobble even at full standing height. The heavy construction contributes to stability."
   - question: "How easy is the Vari ComfortEdge to assemble?"
@@ -37,6 +38,7 @@ faq:
   - question: "Is the Vari ComfortEdge worth $999?"
     answer: "Reviewers who spent the money are overwhelmingly satisfied. Multiple owners describe the quality as 'beyond expectations' and 'top-notch.' The price reflects the premium build materials and smooth lifting mechanism."
 date: 2026-05-28
+
 ---
 
 The $999 sitting question: is the Vari ComfortEdge 72x30 worth triple the price of a budget standing desk? After digging through 221 Amazon ratings and the spec sheet, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "gfJules Certified Gluten Free All Purpose Flour | No Grit | "
 seo_title: "gfJules Certified Gluten Free All Purpose Flour |  Review"
 meta_description: "Our full gfjules certified gluten free all purpose flour | no grit |  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01N81E0FC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PJjQe4Y7L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the gluten-free flour that finally doesn't taste like it's gluten-free? Let's dig in.**

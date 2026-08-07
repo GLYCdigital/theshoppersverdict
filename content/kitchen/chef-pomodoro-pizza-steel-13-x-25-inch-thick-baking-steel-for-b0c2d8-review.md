@@ -1,4 +1,5 @@
 ---
+
 title: "Chef Pomodoro Pizza Steel - 13 x .25 Inch Thick, Baking Stee"
 seo_title: "Chef Pomodoro Pizza Steel Review: 13x.25-Inch Baking Steel"
 meta_description: "Chef Pomodoro Pizza Steel 13x0.25-inch review: Does this $53 baking steel rival restaurant ovens? Heat tests, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2D8KV6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813txap5uEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers 3-4x the thermal conductivity of a pizza stone at half the price of most steels"
   - "True 1/4-inch thickness (not 3.8mm like some 'quarter-inch' competitors) — verified by multiple buyers"
   - "Seasoning holds up through repeated high-heat use; no rust reported after months of ownership"
-cons:
+cons: 
   - "13x13-inch surface is tight for 14-inch pizzas; you'll need to shape smaller or accept overhang"
   - "Weighs 13 pounds — requires a pre-heated oven to support the thermal mass, not a quick preheat"
   - "Arrives with a protective oil coating that needs a full wash-off before first use; skip this and you'll get a smoky mess"
+
 ---
 
 **Bottom line: The Chef Pomodoro Pizza Steel delivers 90% of a $200 baking steel's performance for $53. But it's not set-and-forget — you need a 60-minute preheat and a willingness to handle 13 pounds of hot metal.**

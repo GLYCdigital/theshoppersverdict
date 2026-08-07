@@ -1,4 +1,5 @@
 ---
+
 title: "FORTNIGHT BEDDING Fabric Mattress with 3- Inch Foam for RV,"
 seo_title: "FORTNIGHT BEDDING 3-Inch Foam RV Mattress Review"
 meta_description: "Honest FORTNIGHT BEDDING 3-inch foam RV mattress review: comfort, durability, real buyer feedback, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CYQXPRVL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eCCYbqUfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-fold design packs down to a fraction of its size, making it genuinely stowable in tight RV cabinets or car trunks"
   - "3-inch high-density foam provides meaningful cushioning over hard surfaces like RV dinette conversions or truck beds"
   - "Removable, machine-washable fabric cover addresses the #1 complaint with cheap foam mattresses — hygiene"
-cons:
+cons: 
   - "At only 3 inches, side sleepers may feel the hard surface beneath during extended use — this is a supplement, not a replacement for a real mattress"
   - "No built-in handle or carrying strap, which makes maneuvering the unfolded 74-inch length awkward when solo"
+
 ---
 
 If you've ever slept on an RV's stock dinette-conversion bed, you know the drill: a thin vinyl pad over a hard table surface, and you wake up feeling like you've been folded in half. The FORTNIGHT BEDDING Fabric Mattress with 3-Inch Foam is designed to fix exactly that problem. The question is whether a 3-inch slab of foam can actually deliver a decent night's sleep — or if it's just another gimmick that ends up in a landfill.

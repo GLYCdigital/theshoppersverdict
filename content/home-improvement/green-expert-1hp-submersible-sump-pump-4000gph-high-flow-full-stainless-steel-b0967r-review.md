@@ -1,4 +1,5 @@
 ---
+
 title: "Green Expert 1HP Submersible Sump Pump 4000GPH High Flow Ful"
 seo_title: "Green Expert 1HP Submersible Sump Pump 4000GPH Hig Review"
 meta_description: "Our full green expert 1hp submersible sump pump 4000gph high flow ful review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0967RL93B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RO36A2aHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 1HP pump that actually earns its horsepower rating — but it demands the right setup.**

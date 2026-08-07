@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Weather Resistant Bike Security Cable Lock, 70 inch"
 seo_title: "Amazon Basics Bike Cable Lock Review: 70-Inch Security"
 meta_description: "Amazon Basics 70-inch bike cable lock review: 8mm braided steel, weather-resistant vinyl. Real buyer feedback, pros/cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07T3F6JST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LqEmzPdzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "70-inch length lets you secure both wheels and frame to most bike racks, poles, or fences without contortions"
   - "8mm braided steel core with weather-resistant vinyl coating resists cutting attempts and protects your bike's paint"
   - "Four-digit combination lock means no keys to lose or carry while riding"
-cons:
+cons: 
   - "Combination wheels are small and can be fiddly to dial in low light or with gloved hands"
   - "A cable lock at this price is a deterrent, not a replacement for a U-lock in high-theft urban areas"
+
 ---
 
 Let's be direct: a $20 cable lock isn't going to stop a determined thief with bolt cutters. But that's not what the Amazon Basics Weather Resistant Bike Security Cable Lock is for. It's for the 90% of riders who park in decent neighborhoods, at gyms, or outside coffee shops for 45 minutes. For that job, this 70-inch lock punches well above its price tag.

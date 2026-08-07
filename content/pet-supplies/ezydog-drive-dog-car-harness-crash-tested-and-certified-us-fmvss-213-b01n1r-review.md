@@ -1,4 +1,5 @@
 ---
+
 title: "EzyDog Drive Dog Car Harness – Crash Tested and Certified"
 seo_title: "EzyDog Drive Dog Car Harness Review: Crash Tested (2026)"
 meta_description: "EzyDog Drive Dog Car Harness review: crash-tested, FMVSS 213 certified. Is it worth it? Real pros, cons, and buying advice for your dog."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01N1RMRCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kO0oAWpSL._AC_SL1412_.jpg"
-pros:
+pros: 
   - "Passes the strict US FMVSS 213 crash test standard — one of the few harnesses that actually holds up in a 30-mph sled test, not just a marketing claim"
   - "Tough 316 stainless steel buckles and forged aluminum attachment ring won't corrode or snap under load"
   - "Four adjustment points give a genuinely custom fit across chest and girth, so it stays put in a collision"
-cons:
+cons: 
   - "At roughly $70–$80, it's priced like a premium product — you're paying for certified safety, not luxury padding"
   - "No built-in tether included; you'll need to buy EzyDog's seatbelt attachment separately, which adds to the total cost"
   - "Some buyers report the chest pad can slide out of position on deep-chested breeds like Greyhounds if not tightened precisely"
+
 ---
 
 Let's cut through the noise: most "crash-tested" dog harnesses on Amazon have never seen a crash test. The EzyDog Drive is different. It's one of the few harnesses certified to the US Federal Motor Vehicle Safety Standard (FMVSS) 213 — the same standard used for child car seats. That's not a marketing gimmick; that's a 30-mph sled test with a real crash dummy. If you've ever watched a dog become a projectile in a fender-bender, you know why this matters.

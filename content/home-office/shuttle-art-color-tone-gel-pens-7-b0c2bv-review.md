@@ -1,4 +1,5 @@
 ---
+
 title: "Shuttle Art Color Tone Gel Pens*7"
 seo_title: "Shuttle Art Color Tone Gel Pens*7 Review: Verdict | TSV"
 meta_description: "Our full shuttle art color tone gel pens*7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C2BVL58M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DAcRWD+vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: the office supply aisle is crowded with gel pen packs that promise the world and deliver dry, scratchy disappointment. The Shuttle Art Color Tone Gel Pens*7 sits in a curious middle ground — it’s not a premium Japanese import, but it’s also not the dollar-store clearance bin. With a 4.2-star average across 210 ratings, it’s clearly doing something right. The question is whether it belongs in your desk drawer.

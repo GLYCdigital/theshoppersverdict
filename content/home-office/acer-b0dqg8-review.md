@@ -1,4 +1,5 @@
 ---
+
 title: "acer"
 seo_title: "Acer B0DQG8 Office Gear Review: Is It Worth Buying?"
 meta_description: "Acer B0DQG8 office workspace gear review: build quality, performance, real buyer feedback, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQG8PWWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91K9SyGiyzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build with quality materials that hold up under daily use"
   - "Practical design that fits most standard home office setups"
   - "Smooth performance for everyday productivity tasks"
-cons:
+cons: 
   - "Limited adjustability options compared to premium alternatives"
   - "Some buyers report packaging damage during shipping"
+
 ---
 
 # Acer B0DQG8 Review: The Practical Office Upgrade That Delivers

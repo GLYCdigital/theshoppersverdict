@@ -1,4 +1,5 @@
 ---
+
 title: "French Market Coffee Pods"
 seo_title: "French Market Coffee Pods Review: Real Chicory Coffee in K-Cups"
 meta_description: "Honest French Market Coffee Pods review: rich chicory blend, bold flavor, real coffee kick. See if these K-Cups beat your daily brew."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBHT4V2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mozilla.org/images/I/81ZTRjGVlOL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine New Orleans-style chicory blend — not a weak imitation, the roasted chicory comes through clearly in every cup"
   - "Surprisingly bold body for a K-Cup; holds up to milk and sweetener without turning watery"
   - "Consistent 8-ounce brew cycle — each pod delivers the same rich crema and dark roast profile"
-cons:
+cons: 
   - "Chicory-forward flavor divides opinion; if you're strictly a purist single-origin drinker, this isn't your cup"
   - "Some users report slight sediment at the bottom of the mug, a tradeoff of the real ground chicory"
+
 ---
 
 If you've ever had café au lait in New Orleans, you know that chicory coffee hits different — earthy, slightly sweet, with a roasted depth that regular beans just don't touch. French Market Coffee Pods bring that experience to your Keurig, and at 4.5 stars across 225 ratings, they're clearly doing something right. The question is whether that bold, bitter-sweet profile translates to a single-serve pod without losing the magic. Short answer: mostly yes, with a couple of caveats worth knowing before you buy.

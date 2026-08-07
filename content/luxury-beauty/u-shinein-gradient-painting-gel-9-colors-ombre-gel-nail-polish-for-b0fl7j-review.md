@@ -1,4 +1,5 @@
 ---
+
 title: "U-Shinein Gradient Painting Gel, 9 Colors Ombre Gel Nail Pol"
 seo_title: "U-Shinein Gradient Painting Gel, 9 Colors Ombre Ge Review"
 meta_description: "Our full u-shinein gradient painting gel, 9 colors ombre gel nail pol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FL7J23YY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jQNZU4+iL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've ever tried to paint an ombre nail with regular polish and ended up with something that looks like a kindergartner's finger painting, this set is designed specifically to fix that problem. The U-Shinein Gradient Painting Gel is a 9-color system built around one simple idea: gradient nails shouldn't require a nail school diploma. At 4.5 stars from 225 raters, it's clearly working for most people — but there are a few things you should know before you add it to your cart.

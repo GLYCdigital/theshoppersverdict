@@ -1,4 +1,5 @@
 ---
+
 title: "YumEarth Chewys Parent"
 seo_title: "YumEarth Chewys Parent Review: Verdict | TSV"
 meta_description: "Our full yumearth chewys parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G4SFNFYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Je1j9uMlL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most kids' candy is a chemistry experiment wrapped in a colorful label. Red 40, Yellow 5, corn syrup, artificial everything. As a parent, you read the ingredient list and feel your soul leave your body. That's why YumEarth Chewys have built a loyal following — they're the lollipop that doesn't make you cringe when your kid asks for a treat.

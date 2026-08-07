@@ -1,4 +1,5 @@
 ---
+
 title: "Moen S112BG Collection 10-Inch Single Function Showerhead wi"
 seo_title: "Moen S112BG Collection 10-Inch Single Function Sho Review"
 meta_description: "Our full moen s112bg collection 10-inch single function showerhead wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09SDW427W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wTB5BQdIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Moen S112BG Collection 10-Inch Showerhead Review: Does Bigger Actually Mean Better?

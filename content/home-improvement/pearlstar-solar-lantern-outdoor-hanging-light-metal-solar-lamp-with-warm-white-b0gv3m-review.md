@@ -1,4 +1,5 @@
 ---
+
 title: "pearlstar Solar Lantern Outdoor Hanging Light Metal Solar La"
 seo_title: "pearlstar Solar Lantern Outdoor Hanging Light Meta Review"
 meta_description: "Our full pearlstar solar lantern outdoor hanging light metal solar la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GV3MTL3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hZ4xxbM9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of solar lights that look like glowing plastic mushrooms, the pearlstar Solar Lantern is a serious upgrade. This is a metal-bodied hanging lantern with cutout geometric patterns that project warm light onto your patio, deck, or pergola. At 4.3 stars across 215 ratings, it's clearly doing something right — but it's not without tradeoffs. Here's the honest breakdown before you spend your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Comnova 600D Wood Pellet Grill Cover for Traeger - Waterproo"
 seo_title: "Comnova 600D Wood Pellet Grill Cover Review (2026)"
 meta_description: "Comnova 600D pellet grill cover review: waterproof 600D material, fits Traeger & Pit Boss. Real pros, cons, and buying advice from 210 ratings."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C55N8CZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eNycHeUpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 600D polyester with a waterproof coating that holds up through heavy rain without soaking through"
   - "Adjustable hem cords on both sides let you cinch it tight, so it won't blow off in gusty conditions"
   - "Fits Traeger Ironwood, Pro Series, and Pit Boss units up to roughly 50 inches wide without being baggy"
-cons:
+cons: 
   - "No built-in venting — in humid climates, trapped moisture can cause mildew if the grill is stored hot"
   - "The buckle straps are functional but feel a bit flimsy compared to the cover's overall build quality"
+
 ---
 
 If you've dropped $800–$1,500 on a pellet grill, the last thing you want is to watch the hopper lid rust or the paint bubble after one wet season. The Comnova 600D Wood Pellet Grill Cover is aimed squarely at that problem. At 4.2 stars from 210 Amazon ratings, it's not the flashiest cover on the market — but it's a solid, no-nonsense option that does the job without costing Pit Boss money.

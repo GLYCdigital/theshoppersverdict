@@ -1,4 +1,5 @@
 ---
+
 title: "Osprey mens Stratos"
 seo_title: "Osprey mens Stratos Review: Verdict | TSV"
 meta_description: "Our full osprey mens stratos review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDBNTHXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WvDA4qw3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever finished a hike with a sweat-soaked back and aching shoulders, the Osprey Stratos is the pack that fixes both problems at once. With 235 Amazon ratings averaging 4.7 stars, this is one of the most consistently praised hiking packs in its class. But it's not perfect, and I'll tell you exactly where it falls short.

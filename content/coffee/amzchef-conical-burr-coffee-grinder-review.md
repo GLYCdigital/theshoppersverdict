@@ -1,24 +1,26 @@
 ---
+
 title: "AMZCHEF Conical Burr Coffee Grinder"
 seo_title: "AMZCHEF Conical Burr Grinder Review: Worth It? (2026)"
 meta_description: "AMZCHEF conical burr grinder review: 40 grind settings, stainless steel build, $81 price. See how it performs vs. pricier grinders."
 slug: "amzchef-conical-burr-coffee-grinder-review"
 image_alt: "AMZCHEF conical burr coffee grinder with stainless steel body and grind size dial"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: 80.98  
-review_count: 24  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: 80.98
+review_count: 24
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GV4DLW3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613i1RZrERL._AC_SL1402_.jpg"
-pros:  
+pros: 
   - "40 grind settings from espresso-fine to French press-coarse with consistent conical burr results"  
   - "Stainless steel conical burrs hold alignment better than ceramic at this price point"  
   - "Quiet operation — measured under 70dB during grinding, noticeably quieter than typical blade grinders"  
-cons:  
+cons: 
   - "Static cling on the catch cup can scatter fines; use the included brush or a drop of water on beans"  
   - "No timed dosing — you'll weigh beans before grinding for repeatable results"  
   - "Grind dial markings feel slightly vague between settings 10–20; count clicks for precision"
+
 ---
 
 **AMZCHEF Conical Burr Coffee Grinder Review: The $81 Grinder That Punches Above Its Weight**

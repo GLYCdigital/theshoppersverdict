@@ -1,4 +1,5 @@
 ---
+
 title: "Danner Men's Vicious 8 inch  NMT"
 seo_title: "Danner Men's Vicious 8 inch  NMT Review: 2.9-Star Work Boot"
 meta_description: "Danner Men's Vicious 8 inch  NMT review: Durable build but comfort issues plague this work boot. See real owner feedback and who should skip it."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.9
 amazon_url: "https://www.amazon.com/dp/B00IQ3FO0O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X5R6EfCFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-grain leather upper with triple-stitched seams holds up to serious abrasion"
   - "Aggressive 8-inch height and gusseted tongue keep debris out in tall grass or mud"
   - "Electrical hazard rating and non-marking outsole make it a legitimate safety option"
-cons:
+cons: 
   - "Not waterproof despite the 'NMT' (non-membrane) designation — owners report wet socks in morning dew"
   - "Stiff break-in period of 2–3 weeks; several buyers report heel blistering before the leather softens"
   - "Inconsistent sizing — many owners advise going a full half-size down, but width runs narrow"
+
 ---
 
 **The 2.9-star reality check: a tough boot that misses the mark for most buyers**

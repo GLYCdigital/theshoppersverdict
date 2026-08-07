@@ -1,4 +1,5 @@
 ---
+
 title: "Azzaro Wanted Eau de Toilette - Vibrant & Irresistible Mens"
 seo_title: "Azzaro Wanted EDT Review: Woody Citrus Powerhouse for Men"
 meta_description: "Azzaro Wanted EDT review: bold ginger, lemon, and cedar in a versatile daily driver. See performance, longevity, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNC87J8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vkCkwti0L._SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive ginger and lemon opening that cuts through heat and humidity without turning sour"
   - "Cedar and vetiver base delivers 8-10 hour longevity on skin, outperforming most EDTs at this price"
   - "Versatile enough for office, dates, and gym — the 'compliment magnet' reputation is earned"
-cons:
+cons: 
   - "Projection is loud for the first 2 hours — overspraying gets you flagged as 'that guy' in tight spaces"
   - "The ginger-forward opening can read as sharp or synthetic to noses used to sweeter designer scents"
+
 ---
 
 **Azzaro Wanted EDT Review: The Ginger Bomb That Earns Its Hype**

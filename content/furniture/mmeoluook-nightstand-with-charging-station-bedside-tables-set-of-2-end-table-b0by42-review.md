@@ -1,4 +1,5 @@
 ---
+
 title: "MMEOLUOOK Nightstand with Charging Station, Bedside Tables S"
 seo_title: "MMEOLUOOK Nightstand with Charging Station, Bedsid Review"
 meta_description: "Our full mmeoluook nightstand with charging station, bedside tables s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BY42C14M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hxhKTX-xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MMEOLUOOK Nightstand solves a problem most bedside tables ignore: where do your devices actually go at night?**

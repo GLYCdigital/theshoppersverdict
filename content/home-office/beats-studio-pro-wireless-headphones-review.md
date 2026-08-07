@@ -1,4 +1,5 @@
 ---
+
 title: "Beats Studio Pro"
 seo_title: "Beats Studio Pro Review: Best Office Headphones in 2026?"
 meta_description: "Beats Studio Pro review: premium noise-canceling headphones for office work. 4.5★ from 27K+ buyers. Real pros, cons & verdict inside."
@@ -11,13 +12,14 @@ review_count: 27651
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8PR4W22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u-OaDSfQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-hour battery life with ANC on — two full work weeks before charging"
   - "USB-C wired mode with lossless audio for zero-latency video editing calls"
   - "Class-leading noise cancellation at $169.95 — blocks office HVAC and open-floor chatter"
-cons:
+cons: 
   - "No auto-pause when you take them off — you'll waste battery in meetings"
   - "Ear cushions run warm after 2+ hours in summer months"
+
 ---
 
 The Beats Studio Pro has quietly become one of the best values in office headphones. At $169.95 — down from a $349.99 launch price — these sit squarely in "premium workhorse" territory. With 27,651 Amazon ratings holding a 4.5-star average, the crowd has spoken. Here's what you need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rectangle Chair Leg Floor Protectors"
 seo_title: "Rectangle Chair Leg Floor Protectors Review: Verdict | TS"
 meta_description: "Our full rectangle chair leg floor protectors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9274WFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lMR0nvvSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've dragged that dining chair one too many times, and the scratch on your hardwood floor is a permanent reminder. Rectangle chair legs are the worst offenders — round pads don't cover them, and the corners dig in. These rectangle chair leg floor protectors from Amazon (B0D9274WFD) claim to solve exactly that problem. With 225 ratings holding a solid 4.5 out of 5, they're worth a closer look before you spend another dollar on floor repair.

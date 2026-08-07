@@ -1,4 +1,5 @@
 ---
+
 title: "Nestl Zero Gravity Chairs, Patio Lounge Chair Outdoor with P"
 seo_title: "Nestl Zero Gravity Chairs, Patio Lounge Chair Outd Review"
 meta_description: "Our full nestl zero gravity chairs, patio lounge chair outdoor with p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F7RYH3PJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oLP4275jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've tried a zero gravity chair before and found the mesh straps digging into your back, the Nestl version solves that with actual padding. At 4.5 stars across 225 ratings, it's not a perfect chair — but for the price, it punches well above its weight class for backyard lounging.

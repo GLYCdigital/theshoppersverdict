@@ -1,4 +1,5 @@
 ---
+
 title: "JPSOR Multicolor Pen"
 seo_title: "JPSOR Multicolor Pen Review: Verdict | TSV"
 meta_description: "Our full jpsor multicolor pen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FK9W3BBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g24UA+-KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fumbled through a drawer full of single-color pens trying to find the right one mid-thought, the JPSOR Multicolor Pen is the fix. It's a 6-in-1 retractable ballpoint that packs red, blue, black, green, purple, and pink into a body barely thicker than a standard pen. At 4.4 stars from 220 ratings, it's clearly earning its keep — but let's look past the average and see if it's right for your workflow.

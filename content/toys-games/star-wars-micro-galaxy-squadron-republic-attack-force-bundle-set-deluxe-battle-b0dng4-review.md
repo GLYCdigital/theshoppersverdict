@@ -1,4 +1,5 @@
 ---
+
 title: "Star Wars Micro Galaxy Squadron Republic Attack Force Bundle"
 seo_title: "Star Wars Micro Galaxy Squadron Republic Attack Fo Review"
 meta_description: "Our full star wars micro galaxy squadron republic attack force bundle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DNG4F3F2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZRVwHTjLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you've been eyeing the Micro Galaxy Squadron line but haven't jumped in, this Republic Attack Force bundle is the strongest entry point yet. It's a complete 3.75-inch-scale battle scene in one box — two iconic Republic vehicles, seven figures, and enough play value to justify the price even before you start mixing in other sets.

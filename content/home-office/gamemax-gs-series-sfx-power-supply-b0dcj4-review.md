@@ -1,4 +1,5 @@
 ---
+
 title: "GAMEMAX GS Series SFX Power Supply"
 seo_title: "GAMEMAX GS Series SFX Power Supply Review: Verdict | TSV"
 meta_description: "Our full gamemax gs series sfx power supply review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DCJ4B54L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pM5Tj1UAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The Small PSU That Tries Hard (But Isn't Quiet About It)**  

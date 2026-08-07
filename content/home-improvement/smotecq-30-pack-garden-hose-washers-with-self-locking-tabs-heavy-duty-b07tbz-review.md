@@ -1,4 +1,5 @@
 ---
+
 title: "SmoTecQ 30 Pack Garden Hose Washers with Self-Locking Tabs -"
 seo_title: "SmoTecQ 30 Pack Garden Hose Washers with Self-Lock Review"
 meta_description: "Our full smotecq 30 pack garden hose washers with self-locking tabs - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TBZ9C71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bQSjPuzBL._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody thinks about hose washers until the moment water sprays up your forearm while you're trying to water the tomatoes. That's exactly when you need a pack like this — and SmoTecQ's 30-count set with self-locking tabs is designed to solve that problem permanently.

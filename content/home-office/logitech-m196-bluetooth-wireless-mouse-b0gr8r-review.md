@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech M196 Bluetooth Wireless Mouse,"
 seo_title: "Logitech M196 Bluetooth Wireless Mouse, Review: Verdict |"
 meta_description: "Our full logitech m196 bluetooth wireless mouse, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GR8R1LDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y0zPErIxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech M196 is the mouse you buy when you're tired of dongles, tired of charging cables, and tired of waking up your roommate with click-clacks at 2 AM. It's a $20-ish Bluetooth-only pointer that skips the receiver entirely and relies on a single AA battery for up to two years. But "cheap and simple" cuts both ways — and the M196's shortcuts might matter more to you than the savings.

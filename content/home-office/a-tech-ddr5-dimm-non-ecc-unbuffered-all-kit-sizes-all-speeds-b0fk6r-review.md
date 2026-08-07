@@ -1,4 +1,5 @@
 ---
+
 title: "A-Tech | DDR5 DIMM Non-ECC Unbuffered | All Kit Sizes All Sp"
 seo_title: "A-Tech DDR5 RAM Review: Honest Look at Kits & Speeds (2026)"
 meta_description: "A-Tech DDR5 DIMM Non-ECC unbuffered memory reviewed: performance, compatibility, and value across kit sizes. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FK6RHG2Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IN1p6KREL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine DDR5-5600 performance with XMP/EXPO support at a price that undercuts major brands by 15–25%"
   - "Aluminum heat spreaders keep temps 8–10°C lower than bare PCB modules under sustained load"
   - "Broad compatibility across Intel 12th-gen through current and AMD AM5 boards — verified in buyer photos"
-cons:
+cons: 
   - "No RGB options; if you need lighting, look elsewhere — this is a function-over-form stick"
   - "Lifetime warranty is solid, but A-Tech's RMA process requires shipping to CA at your cost upfront"
   - "Speed ratings vary by kit; the 4800MT/s base kits leave performance on the table for newer CPUs"
+
 ---
 
 ## The RAM upgrade that doesn't make you pay for branding

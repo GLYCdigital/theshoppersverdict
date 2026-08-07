@@ -1,5 +1,6 @@
 ---
 
+
 title: "HarworLife Magnetic Tiles, Diamond Magnetic Blocks Building"
 seo_title: "HarworLife Magnetic Tiles Review: Diamond Blocks STEM Toy"
 meta_description: "HarworLife Magnetic Tiles review: 4.8-star diamond magnet blocks for STEM play. See what 240 buyers love, real drawbacks, and who should buy."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FV2N9BQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SkqNkvj6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Strong neodymium magnets hold towers and bridges steady through active play sessions"
   - "Unique diamond-shaped pieces unlock geometric builds standard square sets can't achieve"
   - "At $29.99, you get 48 pieces with a storage bag — roughly 62 cents per tile"
-cons:
+cons: 
   - "Small pieces (1.5-inch diamonds) present a choking hazard for kids under 3 inch"
   - "No baseplates or wheels included, so moving vehicles and flat foundations require separate sets"
+
 
 ---
 

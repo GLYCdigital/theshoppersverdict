@@ -1,4 +1,5 @@
 ---
+
 title: "Space Saving Kitchen Gadgets"
 seo_title: "Space Saving Kitchen Gadgets Review: Verdict | TSV"
 meta_description: "Our full space saving kitchen gadgets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9GJS18J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-RAF8KwNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "space-saving" kitchen gadgets are gimmicks that end up in a donation bin by spring. This set — roughly 12 pieces of collapsible and nesting cookware — is different, though not perfect. With a 4.7-star average across 235 ratings, the consensus is clear: these earn their keep in small kitchens, RVs, and dorm rooms. Here's the real breakdown.

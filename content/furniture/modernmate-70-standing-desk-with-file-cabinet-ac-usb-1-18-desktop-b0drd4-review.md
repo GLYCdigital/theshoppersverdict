@@ -1,7 +1,8 @@
 ---
-title: "ModernMate 70\" Standing Desk with File Cabinet, AC/USB, 1.18"
-seo_title: "ModernMate 70\" Standing Desk with File Cabinet, AC Review"
-meta_description: "Our full modernmate 70\" standing desk with file cabinet, ac/usb, 1.18 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "ModernMate 70\ Standing Desk with File Cabinet, AC/USB, 1.18"
+seo_title: "ModernMate 70\ Standing Desk with File Cabinet, AC Review"
+meta_description: "Our full modernmate 70\ standing desk with file cabinet, ac/usb, 1.18 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "modernmate-70-standing-desk-with-file-cabinet-ac-usb-1-18-desktop-b0drd4-review"
 image_alt: "ModernMate 70 Standing Desk with File Cabinet, AC/USB, 1.18 Desktop, L Shaped Height Adjustable Desk, Electric Stand Up "
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DRD4Z168/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814FoQD0VQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the ModernMate 70" Standing Desk with File Cabinet the all-in-one solution your home office has been missing? Or does the integrated storage compromise the standing desk experience? After digging through 204 ratings and the spec sheet, here's what actually matters.**

@@ -1,4 +1,5 @@
 ---
+
 title: "AOBEN AB7335 & AB7335D IMPACT & BATTERY"
 seo_title: "AOBEN AB7335 & AB7335D Impact Driver Review (2026)"
 meta_description: "Honest AOBEN AB7335 & AB7335D impact driver & battery review: power, runtime, build quality, and real buyer feedback. Is this budget tool worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7MGRQ3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Lu51OlKjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine impact force for driving 3-inch deck screws without pre-drilling"
   - "Two-battery kit means you're never stuck mid-project waiting for a charge"
   - "LED work light with decent positioning — actually illuminates the fastener, not just the surface"
-cons:
+cons: 
   - "Chuck accepts only 1/4-inch hex bits — no 3/8 or 1/2-inch drill chuck adapter included"
   - "Battery gauge is a simple 3-LED system; doesn't give precise remaining runtime percentage"
+
 ---
 
 Let me be blunt: the AOBEN AB7335 & AB7335D combo isn't a Milwaukee or DeWalt, and it doesn't pretend to be. But at this price point, it punches well above its weight class for homeowners, DIYers, and weekend warriors. Here's what 220 Amazon reviewers at 4.4 stars are actually saying — and what they're glossing over.

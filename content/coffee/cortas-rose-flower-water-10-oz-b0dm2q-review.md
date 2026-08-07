@@ -1,4 +1,5 @@
 ---
+
 title: "CORTAS Rose Flower Water, 10 OZ"
 seo_title: "CORTAS Rose Flower Water Review (2026): Real Buyer Verdict"
 meta_description: "CORTAS Rose Flower Water 10 OZ review: flavor, uses, and limits. See if this 4.6-star pantry staple deserves a spot in your kitchen."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM2Q5J1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OlvHzGxqL._SL1500_.jpg"
-pros:
+pros: 
   - "Concentrated formula — a little goes a long way; one bottle lasts months with regular use"
   - "Clean, floral aroma without artificial perfume notes; tastes like actual rose petals"
   - "Versatile beyond coffee — works in cocktails, lemonades, baked goods, and skincare"
-cons:
+cons: 
   - "10 oz bottle is smaller than it looks; heavy users will repurchase sooner than expected"
   - "Flavor can turn bitter if over-measured — precision matters, especially in coffee"
+
 ---
 
 Let's be honest: rose water in a coffee review feels like a stretch. But if you've been chasing that lavender latte at your local café and wondering why your home version falls flat, this is the missing ingredient. CORTAS Rose Flower Water isn't a coffee maker — it's the flavor hack that makes your morning brew taste like a $9 artisanal drink. Here's the real story after digging through 229 ratings.

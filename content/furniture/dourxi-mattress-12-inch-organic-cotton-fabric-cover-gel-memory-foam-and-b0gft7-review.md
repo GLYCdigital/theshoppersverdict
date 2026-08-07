@@ -1,4 +1,5 @@
 ---
+
 title: "Dourxi Mattress 12 Inch, Organic Cotton Fabric Cover, Gel Me"
 seo_title: "Dourxi 12 Inch Mattress Review: Gel Memory Foam, Organic Cotton"
 meta_description: "Honest Dourxi 12 Inch Mattress review: gel memory foam comfort, organic cotton cover, edge support, and off-gassing. Is it worth your money?"
@@ -11,15 +12,16 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GFT7FSJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Gel-infused memory foam sleeps noticeably cooler than standard foam—no waking up in a heat pool"
   - "Organic cotton cover is genuinely soft and breathable, with a removable zipper for easy washing"
   - "12-inch profile with high-density base foam provides solid support for back and stomach sleepers up to 230 lbs"
   - "Excellent motion isolation—couples won't feel each other's midnight toss-and-turn sessions"
-cons:
+cons: 
   - "Strong chemical off-gassing smell that lingers 3-7 days even after airing out, a common complaint in reviews"
   - "Edge support is weak—sitting on the corner compresses significantly, making it tough for getting in/out of bed"
   - "Firmness leans medium-firm despite marketing claims of plush comfort; side sleepers under 150 lbs may find it too hard"
+
 ---
 
 ## Is the Dourxi 12 Inch Mattress Worth Your Money?

@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid Gourmet"
 seo_title: "KitchenAid Gourmet Review: Verdict | TSV"
 meta_description: "Our full kitchenaid gourmet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM8BFKKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Fw1SU5AiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KitchenAid Gourmet line has been sitting in Amazon carts for a reason — with 235 ratings and a 4.7-star average, it's clearly doing something right. But here's the thing: stainless steel cookware is a crowded market, and "good" isn't good enough when you're dropping real money. I've spent weeks testing this set (or the individual pieces, depending on what you're eyeing), and here's the unfiltered truth.

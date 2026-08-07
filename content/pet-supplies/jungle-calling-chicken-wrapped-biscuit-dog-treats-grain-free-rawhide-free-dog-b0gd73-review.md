@@ -1,4 +1,5 @@
 ---
+
 title: "Jungle Calling Chicken Wrapped Biscuit Dog Treats, Grain-Fre"
 seo_title: "Jungle Calling Chicken Wrapped Biscuit Dog Treats, Review"
 meta_description: "Our full jungle calling chicken wrapped biscuit dog treats, grain-fre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GD73ML5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61THehEVxjL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the treat your dog will actually finish — or leave under the couch?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Drinking Fountains"
 seo_title: "Pet Drinking Fountains Review: Verdict | TSV"
 meta_description: "Our full pet drinking fountains review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FG2SZ425/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oX295YE4L._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me guess why you're here. Your cat keeps staring at the water bowl like it's personally offended her, or your dog drinks so loudly you can hear it from the next room. Either way, you've heard that moving water encourages pets to hydrate more — and you're wondering if this fountain actually delivers or if it's just another plastic box that'll gather dust by next month.

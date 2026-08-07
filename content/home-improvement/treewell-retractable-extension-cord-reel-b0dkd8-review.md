@@ -1,4 +1,5 @@
 ---
+
 title: "TREEWELL Retractable Extension Cord Reel"
 seo_title: "TREEWELL Retractable Extension Cord Reel Review: Verdict "
 meta_description: "Our full treewell retractable extension cord reel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKD8CV83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SQwxkVoWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most retractable cord reels under $80 are junk. Thin wire, flimsy ratchets, and mounting brackets that bend under their own weight. The TREEWELL reel is not that. It's not perfect either, but after digging through 220+ ratings and the spec sheet, here's what actually matters.

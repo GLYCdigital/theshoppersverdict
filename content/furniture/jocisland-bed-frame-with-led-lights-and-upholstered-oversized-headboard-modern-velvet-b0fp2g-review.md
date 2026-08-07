@@ -1,4 +1,5 @@
 ---
+
 title: "Jocisland Bed Frame with LED Lights and Upholstered Oversize"
 seo_title: "Jocisland Bed Frame with LED Lights and Upholstere Review"
 meta_description: "Our full jocisland bed frame with led lights and upholstered oversize review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FP2G94SL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q0ag2u3-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Jocisland bed frame worth your money, or is it just another LED gimmick?** I've dug through 220+ Amazon ratings (averaging 4.4 stars) and the real customer photos to give you the straight story on this upholstered bed with integrated lighting.

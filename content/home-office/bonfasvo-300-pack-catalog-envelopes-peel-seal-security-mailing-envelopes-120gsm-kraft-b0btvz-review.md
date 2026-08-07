@@ -1,4 +1,5 @@
 ---
+
 title: "Bonfasvo 300 Pack Catalog Envelopes Peel & Seal Security Mai"
 seo_title: "Bonfasvo 300 Pack Catalog Envelopes Review (2026): Worth It?"
 meta_description: "Bonfasvo 300-pack peel & seal security envelopes review: 120gsm kraft durability, tamper-proof design, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTVZ5CGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61M6EGbyOFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "120gsm kraft paper is noticeably thicker than standard 80-90gsm envelopes — survives postal sorting without tearing"
   - "Peel-and-seal strip is genuinely strong; no licking, no tape, and the bond holds through transit"
   - "Security tint pattern obscures document text — you can't read checks or invoices through the envelope"
-cons:
+cons: 
   - "At 28.99 for 300 units, per-envelope cost is about 9.7 cents — pricier than plain white bulk packs"
   - "Kraft color means address labels or handwritten ink can look washed out if you use light-colored pens"
+
 ---
 
 Let's be honest: most bulk envelope purchases end in regret. Either the paper feels like tissue, the glue fails mid-transit, or you're stuck with 200 envelopes that tear when you stuff them. The Bonfasvo 300-pack avoids all three traps, and at 4.6 stars across 229 ratings, it's earned its place in the office-supply rotation.

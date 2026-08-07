@@ -1,4 +1,5 @@
 ---
+
 title: "Jean Paul Gaultier Divine"
 seo_title: "Jean Paul Gaultier Divine Review: Verdict | TSV"
 meta_description: "Our full jean paul gaultier divine review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNRHW8H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tciJocAlL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one that almost got away.** Jean Paul Gaultier's Divine launched with a fraction of the hype of its predecessors, Scandal and La Belle. But at 225 Amazon ratings and a 4.5-star average, it's quietly building a cult following. And after testing it for two weeks, I get it. This isn't a safe flanker. It's a weird, salty, caramel-laced statement piece that demands attention — even if it doesn't always deliver everything it promises.

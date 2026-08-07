@@ -1,4 +1,5 @@
 ---
+
 title: "Rozlchar Power Spreader Compatible for 20V & 18V Battery, Se"
 seo_title: "Rozlchar Power Spreader Compatible for 20V & 18V B Review"
 meta_description: "Our full rozlchar power spreader compatible for 20v & 18v battery, se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSHDQY8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718vRVTNzlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the Rozlchar Power Spreader is the smart-money move if you already own a 20V or 18V drill battery. It turns a manual broadcast spreader into a powered unit without forcing you to buy into another proprietary battery system. But it's not without quirks, and I'll get to those.

@@ -1,4 +1,5 @@
 ---
+
 title: "3 Inch Gel Memory Foam Mattress Topper California King"
 seo_title: "3 Inch Gel Memory Foam Topper Review: Worth It? (CA King)"
 meta_description: "Honest 3-inch gel memory foam mattress topper review for California King beds. Covers comfort, heat retention, durability & who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0BZ42CMF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BhTH4tsEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3-inch thickness transforms a worn mattress — most buyers report feeling the difference immediately"
   - "Gel-infused top layer helps with heat dissipation better than standard memory foam toppers"
   - "Fits California King beds without awkward gaps; edges align flush with the frame"
-cons:
+cons: 
   - "Strong chemical odor out of the box that takes 48-72 hours to fully dissipate"
   - "No straps or corner anchors — the topper can shift if you toss and turn or have an adjustable base"
   - "Soft-medium density isn't ideal for heavier sleepers (over 200 lbs) who need firmer support"
+
 ---
 
 **Is this 3-inch gel topper the fix for your tired California King mattress — or just another slab of foam that'll flatten in six months? I dug through 195 Amazon ratings and the specs to give you the straight answer.**

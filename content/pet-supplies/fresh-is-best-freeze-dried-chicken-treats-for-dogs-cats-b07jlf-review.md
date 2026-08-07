@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Is Best - Freeze Dried Chicken Treats for Dogs & Cats"
 seo_title: "Fresh Is Best Freeze Dried Chicken Treats Review (2026)"
 meta_description: "Honest Fresh Is Best freeze dried chicken treats review: 2-ingredient recipe, texture, picky eaters, and value. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07JLFZSSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814QesPQVxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Single-ingredient USDA chicken breast — no fillers, preservatives, or added sodium"
   - "Soft, crumbly texture that crushes easily for training or topping kibble"
   - "Works for both dogs and cats, which simplifies multi-pet households"
-cons:
+cons: 
   - "Pieces vary in size; some arrive as dusty crumbles rather than uniform chunks"
   - "Bag isn't resealable — you'll need a clip or transfer jar to keep them fresh"
   - "Price per ounce runs higher than jerky-style treats with similar protein content"
+
 ---
 
 **The Short Version**

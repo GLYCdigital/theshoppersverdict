@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach 35032 Professional Style Electric Deep Fryer,"
 seo_title: "Hamilton Beach 35032 Professional Style Electric D Review"
 meta_description: "Our full hamilton beach 35032 professional style electric deep fryer, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08H5S1R6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ADRpBl8hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to fry a whole chicken for a family dinner in a 4-cup mini fryer, you know the frustration: overcrowding, uneven browning, and oil splatter that takes 20 minutes to clean up. The Hamilton Beach 35032 is built to end that cycle. This is an 1800-watt, 16-cup capacity machine aimed at people who take frying seriously—not just occasional mozzarella stick nights.

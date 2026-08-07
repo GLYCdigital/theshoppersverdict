@@ -1,4 +1,5 @@
 ---
+
 title: "Olay Retinol"
 seo_title: "Olay Retinol Review: Verdict | TSV"
 meta_description: "Our full olay retinol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GMFX9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j9DSAv3AL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: Olay Retinol 24 is one of the most-purchased drugstore retinol creams on Amazon, holding a 4.6-star average across 229 ratings. But with so many retinol options flooding the market — from The Ordinary's serums to prescription tretinoin — does this one actually earn its spot in your nightly routine? I've analyzed the formulation, dug through buyer feedback, and compared it against the competition. Here's the real story.

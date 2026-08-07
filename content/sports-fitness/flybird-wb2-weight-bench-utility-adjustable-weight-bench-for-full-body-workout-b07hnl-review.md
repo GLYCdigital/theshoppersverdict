@@ -1,4 +1,5 @@
 ---
+
 title: "FLYBIRD WB2 Weight Bench, Utility Adjustable Weight Bench fo"
 seo_title: "FLYBIRD WB2 Weight Bench Review: Worth It? (2026)"
 meta_description: "FLYBIRD WB2 adjustable weight bench review: 4.5-star rated. We test stability, build quality, and value. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07HNLBZ4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bgtCxtAfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 1.2mm commercial-grade steel frame rated to 800 lbs — no wobble even with heavy dumbbells"
   - "7 backrest angles (0-85°) plus 4 seat positions, so you can hit incline, flat, and decline presses"
   - "Assembles in under 20 minutes with included tools; pre-drilled holes align cleanly"
-cons:
+cons: 
   - "Pad is 11.5 inches wide — fine for most, but broader-shouldered lifters may want more support"
   - "No leg roller attachment for decline work, so you'll need a spotter for heavy decline presses"
+
 ---
 
 You've seen the FLYBIRD WB2 clogging your Instagram feed. It's the budget bench every fitness influencer seems to own. But is it actually good, or just cheap enough to ignore the flaws? I spent three weeks hammering this thing with heavy dumbbell presses, Bulgarian split squats, and more incline variations than I care to count. Here's the unfiltered truth.

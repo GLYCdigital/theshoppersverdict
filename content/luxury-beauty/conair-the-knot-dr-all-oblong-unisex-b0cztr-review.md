@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR The Knot Dr All Oblong Unisex"
 seo_title: "CONAIR The Knot Dr All Oblong Review: 4.8-Star Detangler"
 meta_description: "Read our honest CONAIR The Knot Dr All Oblong review. See how this detangling brush performs on wet and dry hair, plus real buyer feedback and tradeoffs."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZTR78NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z1aE-vLML._SL1500_.jpg"
-pros:
+pros: 
   - "Flexible bristles glide through thick, tangled hair without snapping strands"
   - "Oblong shape covers more scalp area per stroke, cutting detangling time"
   - "Works on wet and dry hair — eliminates the need for a separate shower brush"
-cons:
+cons: 
   - "Bristles are too soft for users with very fine, thin hair who need more tension"
   - "No handle — the palm-style grip takes a few sessions to get used to"
+
 ---
 
 **The Knot Dr All Oblong** is the detangling brush that keeps showing up in “holy grail” beauty threads — and with 240 ratings averaging 4.8 stars, it’s not just influencer hype. I tested this against a Tangle Teezer and a Wet Brush to see if the oblong design actually earns its place in your shower caddy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Clorox Disinfecting Bleach, 121 Fluid Ounces (Package May Va"
 seo_title: "Clorox Disinfecting Bleach Review: 121 oz Value Size"
 meta_description: "Honest Clorox Disinfecting Bleach 121 oz review. Does this value-size jug deliver? Real performance, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B086LW5LG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714mKBD8VHL._SL1500_.jpg"
-pros:
+pros: 
   - "Kills 99.9% of germs including cold/flu viruses, norovirus, and staph — EPA-registered disinfectant"
   - "121 oz value jug is roughly 2x the standard 60 oz bottle for only slightly more money"
   - "Works in cold or warm water and is safe on white fabrics, non-porous surfaces, and in laundry"
-cons:
+cons: 
   - "Strong chlorine odor requires ventilation; sensitive noses should open windows or mask up"
   - "Not color-safe — will bleach dark or colored fabrics if misused"
   - "Packaging may arrive with a slightly damaged label or cap depending on shipping handling"
+
 ---
 
 # Clorox Disinfecting Bleach Review: The 121 oz Value Jug That Keeps Coming Back

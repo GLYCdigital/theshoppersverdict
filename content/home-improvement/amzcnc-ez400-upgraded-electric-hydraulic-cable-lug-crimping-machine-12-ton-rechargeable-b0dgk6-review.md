@@ -1,4 +1,5 @@
 ---
+
 title: "AMZCNC EZ400 Upgraded Electric Hydraulic Cable Lug Crimping"
 seo_title: "AMZCNC EZ400 Crimping Tool Review: 12-Ton Power"
 meta_description: "Honest AMZCNC EZ400 electric hydraulic crimping tool review: 12-ton power, battery life, die quality, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DGK6Z47K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eucPuvovL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers a genuine 12 tons of crimping force — handles 10 AWG up to 400 MCM copper lugs cleanly"
   - "Cordless operation with a swivel head that reaches tight panel spaces where hydraulic hand pumps won't fit"
   - "Auto-retract and kickback stop function prevent die jamming and reduce user fatigue on long runs"
-cons:
+cons: 
   - "Battery life is mediocre — heavy users report needing a second pack for full-day jobs; one is included, not two"
   - "No carrying case in the base kit, and the dies are unlabeled, forcing you to measure before each crimp"
+
 ---
 
 **The Short Version**

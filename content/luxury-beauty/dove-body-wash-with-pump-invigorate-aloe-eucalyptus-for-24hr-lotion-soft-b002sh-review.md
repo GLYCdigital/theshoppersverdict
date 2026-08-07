@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Body Wash with Pump Invigorate Aloe & Eucalyptus For 24 inch"
 seo_title: "Dove Body Wash Pump Review: Aloe & Eucalyptus for Soft Skin"
 meta_description: "Our honest Dove Body Wash with Pump review: does Aloe & Eucalyptus deliver 24-hour moisture? Real pros, cons & verdict on this 4.7-star favorite."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002SHRA3I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712BWn-+mgL._SL1500_.jpg"
-pros:
+pros: 
   - "Pump dispenser delivers the right amount one-handed — no slippery bottle fumbling in the shower"
   - "NutriumMoisture technology with stearic acid actually leaves skin feeling conditioned, not stripped"
   - "Aloe and eucalyptus scent is invigorating without being overpowering or perfumey"
-cons:
+cons: 
   - "Scent fades quickly — don't expect aromatherapy to last after you rinse"
   - "Not a true deep-cleanse option; light formula struggles with heavy sweat or sunscreen buildup"
+
 ---
 
 ## The Pump That Changes Everything

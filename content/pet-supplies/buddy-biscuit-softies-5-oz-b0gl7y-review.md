@@ -1,4 +1,5 @@
 ---
+
 title: "Buddy Biscuit Softies 5 oz"
 seo_title: "Buddy Biscuit Softies Review: Are These Soft Dog Treats Worth It?"
 meta_description: "Honest Buddy Biscuit Softies 5 oz review: ingredients, texture, and value. See what 229 dog owners say before you buy these soft baked treats."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL7YGQ8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IC-QQrFpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft, chewy texture that works for senior dogs, puppies, and dogs with dental issues"
   - "Made in the USA with limited, recognizable ingredients and no corn, wheat, or soy"
   - "Small 5 oz bag is ideal for training sessions or testing before committing to a larger size"
-cons:
+cons: 
   - "Small 5 oz bag won't last long for medium and large breed owners — you'll be reordering frequently"
   - "Some picky eaters may turn up their noses at the texture if they're accustomed to crunchy biscuits"
+
 ---
 
 If your dog is a senior, has dental problems, or simply refuses to crunch another hard biscuit, the Buddy Biscuit Softies are the treat equivalent of a warm chocolate chip cookie — soft, chewy, and gone in three seconds flat. This 5 oz bag has earned a solid 4.6-star average across 229 ratings, and after digging through the feedback, the consensus is clear: these soft-baked treats deliver exactly what they promise.

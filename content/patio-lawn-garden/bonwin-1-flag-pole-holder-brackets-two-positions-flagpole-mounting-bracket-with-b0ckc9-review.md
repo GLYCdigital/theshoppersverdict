@@ -1,4 +1,5 @@
 ---
+
 title: "BONWIN 1 inch  Flag Pole Holder Brackets, Two Positions Flagpole"
 seo_title: "BONWIN 1 inch  Flag Pole Holder Brackets Review (2026): Two Positions"
 meta_description: "BONWIN 1 inch  flag pole holder brackets review: sturdy 2-position mounting for home walls. Real pros, cons, and fit guidance from 235 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKC9DXR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uOu7gYwqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty steel with a powder-coated finish that resists rust and weathering through multiple seasons"
   - "Two preset angles (45° and 90°) give flexibility for siding, brick, or eave mounting without extra hardware"
   - "Fits standard 1-inch diameter poles snugly; no wobble or rattling even in gusty conditions"
-cons:
+cons: 
   - "Screws and anchors are not included — you'll need to source your own masonry or wood fasteners"
   - "The 45° position puts the flag closer to the wall, which can cause the fabric to brush against siding on longer poles"
+
 ---
 
 If you've ever watched a flag wrap itself around a pole because the bracket forced it flat against the house, you know the frustration. The BONWIN 1" Flag Pole Holder Brackets solve that with a simple but effective design: two fixed positions that let you angle the pole away from your wall. It's a small product, but it does exactly what it promises — and does it well enough to earn a 4.7-star average from 235 Amazon shoppers.

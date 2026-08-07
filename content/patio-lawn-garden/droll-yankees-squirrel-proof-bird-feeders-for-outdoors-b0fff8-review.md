@@ -1,4 +1,5 @@
 ---
+
 title: "Droll Yankees Squirrel Proof Bird Feeders for Outdoors"
 seo_title: "Droll Yankees Squirrel Proof Bird Feeder Review (2026)"
 meta_description: "Honest Droll Yankees squirrel proof bird feeder review: build quality, weight-activated perch performance, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FFF814YZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RSax83EqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weight-activated perch closes seed ports for squirrels but lets birds feed freely"
   - "All-metal and polycarbonate build handles years of weather without rust or UV degradation"
   - "Tool-free disassembly makes cleaning and seed refills genuinely fast"
-cons:
+cons: 
   - "Large-bodied birds like grackles and starlings can trigger the perch mechanism"
   - "Seed capacity is modest for a feeder at this price point"
   - "No built-in baffle — mounting pole placement matters more than with other designs"
+
 ---
 
 If you've fought the squirrel war for more than one season, you know the score: most "squirrel-proof" feeders are really just "squirrel-delayed" feeders. The Droll Yankees model earns its claim differently — it uses a weight-activated perch system that physically closes the seed ports when anything heavier than a typical songbird lands. That's a mechanical solution, not a gimmick, and it's why this feeder holds a respectable 4.3 rating across 215 Amazon reviews.

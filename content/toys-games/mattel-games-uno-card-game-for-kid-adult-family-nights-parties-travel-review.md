@@ -1,13 +1,14 @@
 ---
+
 title: "Mattel Games UNO Card Game for Kid, Adult & Family Nights & Parties, Travel & Vacations, Color Blind Accessible & Customizable Deck (Amazon Exclusive)"
 seo_title: "Mattel Games UNO Review: Verdict (4.8/5) | TSV"
 meta_description: "Otherwise, the quality of the cards and tin are both 60,456+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "mattel-games-uno-card-game-for-kid-adult-family-nights-parties-travel-review"
 image_alt: "Mattel Games UNO Card Game for Kid, Adult & Family Nights & Parties, Travel & Vacations, Color Blind Accessible & Custom"
-keywords:
+keywords: 
   - "mattel games uno review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Mattel Games UNO Card?"
     answer: "Otherwise, the quality of the cards and tin are both great That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Mattel Games UNO Card?"
@@ -20,12 +21,13 @@ review_count: 60456
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07P6MZPK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tVL-E4lkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Otherwise, the quality of the cards and tin are both great."
   - "This way, she can play a simple game that also helps her work on her memory skills."
   - "People spend more than that on two iced coffees."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 # UNO Finally Fixed Its Biggest Problem — And It's Brilliant

@@ -1,4 +1,5 @@
 ---
+
 title: "Elkay Gauge Stainless Steel Double Bowl Top Mount Kitchen Si"
 seo_title: "Elkay Gauge Double Bowl Kitchen Sink Review (2026)"
 meta_description: "Honest Elkay Gauge stainless steel double bowl top mount sink review: build quality, noise, installation, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B6QPHLQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gjne5BuML._AC_SL1200_.jpg"
-pros:
+pros: 
   - "18-gauge stainless steel is thick enough to resist denting and warping, with a satin finish that hides water spots"
   - "Sound-absorbing pads and undercoating significantly reduce dishwasher and disposal noise — a rare feature at this price"
   - "Generous 9-inch bowl depth handles stockpots and sheet pans without splashing onto the counter"
-cons:
+cons: 
   - "Top-mount clips are fiddly to align; the included template is thin and tears if you're not careful"
   - "No faucet holes pre-drilled — you'll need to drill or use a deck-mount faucet, which surprises some buyers"
   - "The center divider is fixed and takes up ~3 inches of usable width, making the smaller bowl tight for colanders"
+
 ---
 
 Let's cut through the noise: a kitchen sink is one of those purchases you touch every single day for a decade. Get it wrong and you're staring at scratches, dents, and rattling pans every morning. The Elkay Gauge double bowl top mount has been a consistent bestseller for a reason, but it's not without compromises. Here's the real story after digging through 220 verified ratings (4.4 stars) and the spec sheet.

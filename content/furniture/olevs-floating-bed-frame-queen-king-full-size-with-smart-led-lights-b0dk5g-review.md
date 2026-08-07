@@ -1,4 +1,5 @@
 ---
+
 title: "OLEVS Floating Bed Frame Queen King Full Size with Smart LED"
 seo_title: "OLEVS Floating Bed Frame Queen King Full Size with Review"
 meta_description: "Our full olevs floating bed frame queen king full size with smart led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK5GPHPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jqRNt+4kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the hype. A floating bed frame is a bold design statement—it makes your bedroom look like a high-end hotel suite without the renovation cost. The OLEVS Floating Bed Frame with Smart LED promises that aesthetic plus ambient lighting. But at 4.2 stars across 210 ratings, is it a genuinely good buy, or just a pretty picture?

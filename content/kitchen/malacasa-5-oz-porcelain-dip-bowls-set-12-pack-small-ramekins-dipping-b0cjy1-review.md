@@ -1,4 +1,5 @@
 ---
+
 title: "MALACASA 5 oz Porcelain Dip Bowls Set, 12 Pack Small Ramekin"
 seo_title: "MALACASA 5 oz Porcelain Dip Bowls Set, 12 Pack Sma Review"
 meta_description: "Our full malacasa 5 oz porcelain dip bowls set, 12 pack small ramekin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJY1GSRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617mB60rKEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever served a dip in a cereal bowl or watched your sauce go cold in a cheap ceramic dish, you know the struggle. The MALACASA 5 oz Porcelain Dip Bowls Set is the kind of purchase that feels boring until you use it — then you wonder how you lived without a dozen of them.

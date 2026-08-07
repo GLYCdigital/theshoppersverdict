@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns Outdoor Hanging Decor Lantern,Waterproof Holl"
 seo_title: "Solar Lanterns Outdoor Hanging Decor Lantern,Water Review"
 meta_description: "Our full solar lanterns outdoor hanging decor lantern,waterproof holl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C346TZYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uMsC-qhZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Solar Lanterns Outdoor Hanging Decor: Do the Shadow Patterns Justify the Hype?

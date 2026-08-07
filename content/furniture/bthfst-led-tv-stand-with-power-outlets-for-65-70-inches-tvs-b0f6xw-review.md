@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST LED TV Stand with Power Outlets for 65 70 Inches TVs,"
 seo_title: "BTHFST LED TV Stand Review: Power Outlets & 65-70 inch  Fit"
 meta_description: "Honest BTHFST LED TV Stand review: power outlets, cable management, 65-70 inch  fit. Real pros, cons & who should buy. 4.2/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F6XWRPNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P+P1+KTML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in power outlets and USB ports on the back panel eliminate the need for a separate surge protector"
   - "Cable management holes and rear cutouts keep wires hidden even with a soundbar mounted"
   - "Rated for TVs up to 70 inches with a 132-pound capacity — actually matches the spec sheet"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with 20+ bolts; the included hex wrench is too small for comfortable torque"
   - "The glossy black finish shows fingerprints and dust immediately — keep a microfiber cloth handy"
   - "Pre-drilled holes for the optional center mount don't align with some VESA patterns over 400x400"
+
 ---
 
 # BTHFST LED TV Stand: Power Where You Need It, But Bring Patience

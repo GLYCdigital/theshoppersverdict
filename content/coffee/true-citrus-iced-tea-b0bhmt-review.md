@@ -1,4 +1,5 @@
 ---
+
 title: "True Citrus Iced Tea"
 seo_title: "True Citrus Iced Tea Review: Verdict | TSV"
 meta_description: "Our full true citrus iced tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHMT36YG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tg-iSnoxL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: True Citrus Iced Tea isn't actually tea. It's a powdered drink mix with tea flavoring. But if you're looking for a zero-sugar, instant cold beverage that tastes like a lightly sweetened Arnold Palmer, this 4.2-star rated canister (210+ Amazon reviews) might be exactly what your kitchen needs.

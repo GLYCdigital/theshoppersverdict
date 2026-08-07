@@ -1,4 +1,5 @@
 ---
+
 title: "3 Pack 18/8 Stainless Steel Colander Sieves(5-Quart, 4-Quart"
 seo_title: "3 Pack Stainless Steel Colanders Review: 5 & 4 Quart Set"
 meta_description: "Honest review of the 3-pack 18/8 stainless steel colander set. Tested for draining pasta, washing produce, and build quality. See who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B095P14H7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91zvWNK2KdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three usable sizes (5-quart, 4-quart, plus a small one) cover everything from pasta to berries"
   - "18/8 stainless steel won't react with acidic foods like tomatoes or citrus"
   - "Sturdy riveted handles stay cool and provide a secure grip even when full"
-cons:
+cons: 
   - "No rubberized base — the bottom can scratch delicate countertops if you're careless"
   - "Small perforations mean slower draining for large pasta shapes like rigatoni"
+
 ---
 
 If you're still draining spaghetti with a pot lid and a prayer, stop. This three-piece stainless steel colander set from Amazon’s catalog is the kind of basic kitchen upgrade that quietly fixes a dozen small annoyances. With a 4.8-star average across 240 ratings, it’s clearly resonating with home cooks. But is it actually worth the counter space? I tested the set for a week of heavy meal prep — here's the unfiltered breakdown.

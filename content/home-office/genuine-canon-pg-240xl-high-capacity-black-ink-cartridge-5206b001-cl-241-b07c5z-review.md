@@ -1,4 +1,5 @@
 ---
+
 title: "Genuine Canon PG-240XL High Capacity Black Ink Cartridge (52"
 seo_title: "Genuine Canon PG-240XL High Capacity Black Ink Car Review"
 meta_description: "Our full genuine canon pg-240xl high capacity black ink cartridge (52 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07C5Z4ZH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K2LuGEZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Ink cartridges are the quiet budget-killers of home printing. You buy a $50 printer, then spend $60 a year keeping it fed. The Canon PG-240XL exists to soften that blow — but does the "XL" label actually deliver, or is it just marketing? After digging into specs, customer experiences, and the math, here's the real story.

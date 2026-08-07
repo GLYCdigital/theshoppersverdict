@@ -1,4 +1,5 @@
 ---
+
 title: "USEHOTI LC401XL Black Ink Cartridges, Compatible with MFC-J1"
 seo_title: "USEHOTI LC401XL Black Ink Cartridges, Compatible w Review"
 meta_description: "Our full usehoti lc401xl black ink cartridges, compatible with mfc-j1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D353X3H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613uWUc5yLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Bottom Line First

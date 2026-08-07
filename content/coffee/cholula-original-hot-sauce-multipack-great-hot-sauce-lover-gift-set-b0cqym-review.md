@@ -1,4 +1,5 @@
 ---
+
 title: "Cholula Original Hot Sauce Multipack (Great Hot Sauce Lover"
 seo_title: "Cholula Original Multipack Review: Worth the Buy? | 2026"
 meta_description: "Honest Cholula Original Hot Sauce Multipack review: flavor, heat level, value, and who should buy. See pros, cons, and verdict before you order."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQYMD9CF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81paqZ0g+jL._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced heat from arbol peppers that builds slowly without overpowering food flavor"
   - "12-ounce bottles offer substantially better per-ounce value than the standard 5-ounce size"
   - "Wide-mouth cap pours cleanly with minimal drips, unlike many competing hot sauces"
-cons:
+cons: 
   - "No cap for the included gift box means bottles can arrive with cosmetic label scuffs"
   - "Heat level (about 3,600 Scoville) is mild for dedicated chiliheads seeking serious burn"
+
 ---
 
 # Cholula Original Hot Sauce Multipack: The Crowd-Pleaser That Actually Delivers

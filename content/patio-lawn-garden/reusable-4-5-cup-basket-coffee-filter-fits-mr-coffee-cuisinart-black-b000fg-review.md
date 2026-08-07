@@ -1,4 +1,5 @@
 ---
+
 title: "Reusable 4-5 Cup Basket Coffee Filter Fits Mr. Coffee, Cuisi"
 seo_title: "Reusable 4-5 Cup Basket Coffee Filter Fits Mr. Cof Review"
 meta_description: "Our full reusable 4-5 cup basket coffee filter fits mr. coffee, cuisi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000FG8TNE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oy-a+FX4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: if you brew a pot of coffee every morning, you're burning through roughly 365 paper filters a year. At $5–8 per 100-pack, that's $20–30 annually for something you throw away. This reusable basket filter — sized for 4–5 cup brewers like Mr. Coffee and Cuisinart — eliminates that recurring cost entirely. But does it actually hold up? I've tested it against paper filters side by side, and here's what matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Cheese Grater, Salad Maker with 5 Replaceable Multi"
 seo_title: "Electric Cheese Grater & Salad Maker Review: 5 Blades, 250W"
 meta_description: "Honest review of the 250W electric cheese grater with 5 interchangeable blades. See how it handles hard cheese, veggies, and salads — plus real downsides."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0DJPDH1BF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jJF7UFJML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five genuinely different blade inserts cover shredding, grating, slicing, and spiralizing — no second gadget needed"
   - "250W motor powers through hard cheeses like Parmigiano-Reggiano without stalling or overheating"
   - "Fully disassembles for cleaning; all food-contact parts are dishwasher safe"
-cons:
+cons: 
   - "Larger footprint than a manual box grater — needs dedicated cabinet or counter space"
   - "Soft cheeses (fresh mozzarella, brie) will gum up the blades; this is a hard-cheese tool"
   - "No storage case included for the five blades — loose pieces in a drawer risk getting lost"
+
 ---
 
 # Electric Cheese Grater & Salad Maker Review: One Motor, Five Blades, Zero Arm Fatigue

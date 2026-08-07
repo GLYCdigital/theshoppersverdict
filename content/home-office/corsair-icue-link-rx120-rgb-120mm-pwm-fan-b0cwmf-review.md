@@ -1,4 +1,5 @@
 ---
+
 title: "CORSAIR iCUE Link RX120 RGB 120mm PWM-Fan"
 seo_title: "CORSAIR iCUE Link RX120 RGB Review: Quiet 120mm Fan"
 meta_description: "CORSAIR iCUE Link RX120 RGB 120mm PWM fan review: 4.6/5 stars. Real performance data, noise levels, and iCUE Link ecosystem compatibility tested."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWMFP3PC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81otoCub03L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnetic dome bearing delivers 600-2400 RPM range with zero wobble even at max speed"
   - "Daisy-chainable via single iCUE Link connector — one cable for power, PWM, and RGB"
   - "Airflow-focused blades push 74.2 CFM at 36.8 dBA, competitive with premium rivals"
-cons:
+cons: 
   - "Requires iCUE Link System Hub (sold separately) — adds $30+ to effective cost if new to ecosystem"
   - "RGB lighting is vibrant but the fan frame's plastic feels less premium than Noctua or Phanteks options"
+
 ---
 
 The CORSAIR iCUE Link RX120 RGB isn't just another 120mm fan — it's a statement about how PC cooling should work in 2026. With 229 Amazon ratings holding a 4.6-star average, this fan has clearly earned its place in thousands of builds. But here's the real question: is it worth the premium over simpler fans, or are you paying for the RGB glow?

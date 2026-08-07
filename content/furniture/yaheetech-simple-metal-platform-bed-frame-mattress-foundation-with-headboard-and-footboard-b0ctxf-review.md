@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Simple Metal Platform Bed Frame Mattress Foundatio"
 seo_title: "Yaheetech Simple Metal Platform Bed Frame Mattress Review"
 meta_description: "Our full yaheetech simple metal platform bed frame mattress foundatio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CTXFGX48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LHLqQvgiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A metal platform bed frame is supposed to be boring. It holds your mattress up, clears the floor for storage, and doesn't squeak. The Yaheetech Simple Metal Platform Bed Frame does exactly that — and then does it quietly, affordably, and without requiring a PhD in hex-key engineering.

@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER Coffee Maker"
 seo_title: "BLACK+DECKER Coffee Maker Review: Honest Buyer's Guide"
 meta_description: "Read our honest BLACK+DECKER Coffee Maker review. See real pros, cons, and buyer feedback before you buy. Find out if it's worth it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F153SMQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812Hb1XRaaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Simple, intuitive controls — no menu diving, just a single switch and brew button"
   - "Compact footprint fits under standard upper cabinets without hogging counter space"
   - "Glass carafe with clear measurement markings and a comfortable, non-drip pour spout"
-cons:
+cons: 
   - "No programmable timer on the base model — you can't set it to brew before you wake up"
   - "Carafe lid is a bit stiff to remove for cleaning; requires a firm twist"
   - "Brew basket is non-removable on some versions, making deep cleaning awkward"
+
 ---
 
 Let's be blunt: there are coffee makers that cost more than your monthly phone bill, and then there's the BLACK+DECKER Coffee Maker. This one sits firmly in the "just make the damn coffee" camp — and for a lot of people, that's exactly right. With 215 ratings averaging 4.3 stars, it's clearly doing something right. But is it the right brewer for *your* kitchen? Here's what you need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Field Master Baseball + Softball Glove - Fie"
 seo_title: "Franklin Field Master Glove Review: Worth It? (2026)"
 meta_description: "Honest Franklin Sports Field Master Baseball + Softball Glove review: build quality, sizing, break-in time, and who should buy it. Real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1V77TYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fYMXy3jlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero break-in period — glove is playable right out of the box, which is rare at this price"
   - "Dual baseball/softball compatibility with a wide, deep pocket that handles both ball sizes"
   - "Adjustable wrist strap with padded backing locks in place without slipping during play"
-cons:
+cons: 
   - "Leather feel is synthetic and stiff in cold weather — below 50°F it gets noticeably harder"
   - "Finger stalls run slightly shallow for adult men with larger hands; try before you buy if possible"
+
 ---
 
 If you're shopping for a glove that won't destroy your wallet but still needs to survive a season of weekend catch or youth league play, the Franklin Sports Field Master deserves a hard look. With 225 ratings averaging 4.5 stars, it's clearly doing something right — but let's dig into whether it's the right glove for *your* specific situation.

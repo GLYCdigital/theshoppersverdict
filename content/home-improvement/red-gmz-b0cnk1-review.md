@@ -1,4 +1,5 @@
 ---
+
 title: "RED GMZ"
 seo_title: "RED GMZ Review: Verdict | TSV"
 meta_description: "Our full red gmz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNK1D96X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616D+jH-5BL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---|
 | **Brand** | RED |
 | **Category** | Tool / Hardware |

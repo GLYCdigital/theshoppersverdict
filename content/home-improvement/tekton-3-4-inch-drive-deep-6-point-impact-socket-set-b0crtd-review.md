@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 3/4 Inch Drive Deep 6-Point Impact Socket Set"
 seo_title: "TEKTON 3/4 Inch Drive Deep 6-Point Impact Socket S Review"
 meta_description: "Our full tekton 3/4 inch drive deep 6-point impact socket set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRTD6H6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dSv6K-aJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever snapped a cheap impact socket on a stuck lug nut or rounded off a stubborn bolt, you already know why the TEKTON 3/4-inch Drive Deep 6-Point Impact Socket Set deserves a hard look. This is the set you buy when you're done replacing tools that fail at the worst possible moment — usually with your truck jacked up and a deadline looming.

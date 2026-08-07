@@ -1,4 +1,5 @@
 ---
+
 title: "by Elizabeth Taylor Gardenia Eau de Parfum - SPRAY Oz"
 seo_title: "Elizabeth Taylor Gardenia Eau de Parfum Review (2026)"
 meta_description: "Honest Elizabeth Taylor Gardenia Eau de Parfum review: longevity, sillage, value. Is this vintage floral worth it in 2026? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BPL25L9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nfqfDy-7L._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic, heady gardenia soliflore — rare in modern designer fragrance where the note is usually synthetic or blended away"
   - "Strong projection for the price point; 3-4 sprays last 6-8 hours on skin, longer on clothing"
   - "Elegant vintage-style presentation with a heavy glass bottle that feels more expensive than its price suggests"
-cons:
+cons: 
   - "Fragrance is linear — no real top/heart/base evolution, so expect the same scent from first spray to dry-down"
   - "Can turn powdery or slightly soapy on certain skin chemistries, especially in humid weather"
   - "Not blind-buy safe — the vintage floral profile is polarizing among younger shoppers accustomed to sweet or fresh scents"
+
 ---
 
 **The 4.3-star Amazon rating on this Elizabeth Taylor release isn't an accident.** Gardenia Eau de Parfum sits in that rare category of celebrity fragrances that outlived its marketing campaign because the juice itself earned the loyalty. After testing it for two weeks, I understand why 215 buyers took the time to rate it — and why the consensus hovers at a solid 4.3 rather than a perfect 5. This is a fragrance with genuine character, but it demands a specific wearer.

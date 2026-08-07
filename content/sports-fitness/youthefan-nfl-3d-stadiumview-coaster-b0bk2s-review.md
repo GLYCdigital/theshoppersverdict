@@ -1,4 +1,5 @@
 ---
+
 title: "YouTheFan NFL 3D StadiumView Coaster"
 seo_title: "YouTheFan NFL 3D StadiumView Coaster Review: Verdict | TS"
 meta_description: "Our full youthefan nfl 3d stadiumview coaster review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BK2SQRSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xclG6rL6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sports-themed drinkware is a trap. You pay $25 for a logo slapped on a cheap pint glass, and it lives in a drawer until someone's dad visits. The YouTheFan NFL 3D StadiumView Coaster is not that. This thing actually commits to the bit.

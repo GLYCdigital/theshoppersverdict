@@ -1,4 +1,5 @@
 ---
+
 title: "COSLUS 2 Pack Cordless Water Flosser, C20(F5020E)"
 seo_title: "COSLUS C20 Water Flosser Review: 2-Pack Value Worth It?"
 meta_description: "COSLUS C20 2-pack cordless water flosser review: 2200mAh battery, 300ml tank, 4 modes. Is the 2-pack value real? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F597KKWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713KubvJXKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "300ml detachable water tank — one fill handles a full floss session without refills, even with the 2-pack's higher capacity needs"
   - "IPX7 waterproof rating means you can use it in the shower without worrying about moisture damage"
   - "4 cleaning modes (Normal, Soft, Pulse, Custom) with 4 pressure levels each — genuinely useful for sensitive gums, not just marketing gimmicks"
-cons:
+cons: 
   - "Nozzle storage is minimal — only 2 tips fit in the built-in compartment, so the included 8 nozzles need external organization"
   - "USB charging cable is short (about 3 feet) — you'll likely need an extension or charge near a computer rather than a bathroom outlet"
+
 ---
 
 Let's be direct: you don't need a water flosser that costs as much as a dentist visit. But the COSLUS C20 2-pack sits in that sweet spot where the price per unit makes it competitive with single units from bigger names like Waterpik — if the performance holds up. After digging through 225 ratings and the spec sheet, here's what actually matters.

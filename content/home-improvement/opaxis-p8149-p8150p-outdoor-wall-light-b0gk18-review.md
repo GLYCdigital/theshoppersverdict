@@ -1,4 +1,5 @@
 ---
+
 title: "OPAXIS P8149 P8150P Outdoor Wall Light"
 seo_title: "OPAXIS P8149 P8150P Outdoor Wall Light Review: Verdict | "
 meta_description: "Our full opaxis p8149 p8150p outdoor wall light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK18DVJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ze-uPj2gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most outdoor wall lights are either cheap plastic junk that yellows in a year or architectural-grade fixtures that cost more than your monthly grocery bill. The OPAXIS P8149/P8150P sits in that sweet spot between the two — and with 229 ratings averaging 4.6 stars, it's clear shoppers have noticed. Here's the unvarnished truth after digging through spec sheets, buyer feedback, and installation reports.

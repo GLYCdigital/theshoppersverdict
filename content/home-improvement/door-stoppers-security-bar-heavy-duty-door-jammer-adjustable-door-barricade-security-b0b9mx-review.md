@@ -1,4 +1,5 @@
 ---
+
 title: "Door Stoppers Security Bar - Heavy Duty Door Jammer - Adjust"
 seo_title: "Door Stoppers Security Bar Review: Heavy Duty Door Jammer"
 meta_description: "Door Stoppers Security Bar review: heavy-duty adjustable door jammer for home security. Does it actually stop break-ins? Full breakdown inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B9MXHDNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Fits door gaps from 29 to 45 inches with a simple twist-lock adjustment — no measuring or tools required"
   - "Solid steel construction with rubberized end caps that grip both door and floor without scratching"
   - "Installs in under five seconds and removes instantly — no permanent mounting hardware"
-cons:
+cons: 
   - "Doesn't work on sliding glass doors or doors with very high thresholds over 1.5 inches"
   - "The adjustment collar can feel stiff on first use until it loosens up"
+
 ---
 
 You've seen the viral videos — someone kicks a door open in under three seconds. The deadbolt? Useless. The chain? A joke. That's why a door jammer that physically blocks the door from opening makes sense. The Door Stoppers Security Bar is exactly that: a heavy-duty steel bar that wedges between your door and the floor, turning a standard entry door into something that requires serious force to breach.

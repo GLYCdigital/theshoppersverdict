@@ -1,4 +1,5 @@
 ---
+
 title: "Glitzhome Accent Armchair"
 seo_title: "Glitzhome Accent Armchair Review: Stylish Comfort or Miss?"
 meta_description: "Honest Glitzhome Accent Armchair review: build quality, comfort, real buyer feedback. Is this 4.5-star chair worth your money? Find out now."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B094CGDY7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l+4CFXn0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy hardwood frame with reinforced corner blocks — no wobble even after months of daily use"
   - "High-density foam cushioning that holds its shape; several buyers report zero sagging after a year"
   - "Versatile mid-century aesthetic that photographs well and pairs with both modern and traditional decor"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and about 20 minutes — legs arrive detached"
   - "Seat depth runs shallow (roughly 20 inches); taller users (6'+) report their knees sit higher than ideal"
+
 ---
 
 Let's cut through the staging and filtered photos. The Glitzhome Accent Armchair is one of those Amazon furniture pieces that racks up 225 ratings and holds a 4.5-star average — which means either it's genuinely decent, or the reviews are padded with early-bird enthusiasm. After digging through the feedback and examining the specs, here's the real story.

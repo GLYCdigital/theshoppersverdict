@@ -1,4 +1,5 @@
 ---
+
 title: "McKillans Pressure Washer Extension Wands"
 seo_title: "McKillans Pressure Washer Extension Wands Review: Verdict"
 meta_description: "Our full mckillans pressure washer extension wands review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BTT3DN5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CXM8sDNJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood on a ladder trying to blast second-story gutters while balancing a pressure washer wand in one hand, you know the pain. The McKillans Pressure Washer Extension Wands set is designed to end that circus act. At 4.7 stars from 235 ratings, it's clearly doing something right — but let's dig into whether it's right for you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Front Load Washer Door Prop, Removable Washer Door Stopper w"
 seo_title: "Front Load Washer Door Prop, Removable Washer Door Review"
 meta_description: "Our full front load washer door prop, removable washer door stopper w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNQD83QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OuWgmTYzL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that musty smell that creeps out of a front-load washer a few months in? It’s not your detergent — it’s the door gasket staying damp. Leaving the door wide open works, but it blocks the hallway and looks sloppy. This little plastic wedge solves that exact problem. It’s not flashy, but after 235 ratings at 4.7 stars, it’s clearly doing something right.

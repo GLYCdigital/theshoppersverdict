@@ -1,4 +1,5 @@
 ---
+
 title: "Fabulis Folding Bed with Mattress, Portable Foldable Bed for"
 seo_title: "Fabulis Folding Bed Review: Portable Guest Bed Tested (2026)"
 meta_description: "Honest Fabulis Folding Bed review: Build quality, comfort, and real guest-bed performance. See who should buy it and who should skip it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GMHRMHKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JoFSAohAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-size 4-inch mattress included, not a thin camping pad — real sleep support for adults up to 6 feet"
   - "Folds to roughly the width of a large suitcase with a locking mechanism; stores upright in a closet"
   - "Steel frame with 10 reinforced legs distributes weight evenly — no sagging in the middle at 200+ lbs"
-cons:
+cons: 
   - "At 45+ pounds, it's 'portable' in the sense that it rolls, not that you'd carry it up stairs easily"
   - "Mattress cover is not removable for washing — plan on a fitted sheet or mattress protector from day one"
   - "Assembly requires attaching legs with a hex key; budget 15–20 minutes, not the 'no-tools' claim in some listings"
+
 ---
 
 Let's cut through the listing photos. A folding bed is a simple promise: give guests a real night's sleep, then disappear into a closet until the next visitor. The Fabulis Folding Bed with Mattress mostly delivers on that promise — with a few caveats worth knowing before you click buy.

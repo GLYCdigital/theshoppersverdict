@@ -1,4 +1,5 @@
 ---
+
 title: "DIRYZON Semi Flush Ceiling Light"
 seo_title: "DIRYZON Semi Flush Ceiling Light Review: Worth It?"
 meta_description: "DIRYZON semi flush ceiling light review: 4.7-star rated. Is this modern LED fixture worth your money? We break down pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DKWFNTGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41K1Mbz1ibL._AC_SL1099_.jpg"
-pros:
+pros: 
   - "Integrated LED array rated for 50,000 hours — no bulb replacements for over a decade of typical evening use"
   - "Three color temperature settings (3000K/4000K/5000K) switchable via wall switch, so you're not locked into one mood"
   - "Low-profile 4.5-inch height fits snugly on 8-foot ceilings without feeling claustrophobic"
-cons:
+cons: 
   - "Non-replaceable LED board means the whole unit is trash when the diodes eventually fail — no DIY fix"
   - "Color temperature switching requires cycling the wall switch within 5 seconds, which is awkward if you have a dimmer installed"
+
 ---
 
 You've stared at that bare ceiling medallion long enough. The DIRYZON Semi Flush Ceiling Light is the kind of fixture that makes you wonder why you waited so long to upgrade. But with 235 ratings averaging 4.7 stars, the real question isn't whether it's good — it's whether it's right for your room, your ceiling height, and your wiring situation.

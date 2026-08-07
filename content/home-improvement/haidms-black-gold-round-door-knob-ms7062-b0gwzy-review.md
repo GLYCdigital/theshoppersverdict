@@ -1,4 +1,5 @@
 ---
+
 title: "Haidms Black Gold Round Door Knob MS7062"
 seo_title: "Haidms Black Gold Round Door Knob MS7062 Review: Verdict "
 meta_description: "Our full haidms black gold round door knob ms7062 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWZYL6X9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vzPx677UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most “black gold” door knobs under $30 are painted zinc with a finish that flakes off by month three. The Haidms MS7062 is not that. This is a solid brass knob with a PVD (physical vapor deposition) coating — the same process used on high-end faucets — and it shows in the hand. The turn is weighted, the latch retracts cleanly, and the finish has a subtle depth that photographs well but looks even better in person.

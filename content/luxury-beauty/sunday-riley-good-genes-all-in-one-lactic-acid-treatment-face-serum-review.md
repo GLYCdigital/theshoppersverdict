@@ -1,16 +1,17 @@
 ---
+
 title: "Sunday Riley Good Genes All-in-One Lactic Acid Treatment Face Serum"
 seo_title: "Sunday Riley Good Genes All-in-One Lactic Acid Tre Review"
 meta_description: "Our full sunday riley good genes all-in-one lactic acid treatment face serum. Read real Amazon customer insights, pros, cons, and our verdict. 3,245+ reviews"
 slug: "sunday-riley-good-genes-all-in-one-lactic-acid-treatment-face-serum-review"
 image_alt: "Sunday Riley Good Genes All-in-One Lactic Acid Treatment Face Serum"
-keywords:
+keywords: 
   - "sunday riley good review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the Sunday Riley Good Genes All-in-One Lactic Acid Treatment Face Serum?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 3245
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0037LRZHA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614T2q9ASeL._SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 If you're shopping for a sunday riley good genes all in one lactic acid treatment face serum, the Sunday Riley Good Genes All-in-One Lactic Acid Treatment Face Serum has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.

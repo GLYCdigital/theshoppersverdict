@@ -1,4 +1,5 @@
 ---
+
 title: "American Hydro Systems RR1 Rid O' Rust 2X Concentration Stai"
 seo_title: "Rid O' Rust 2X Review: Does This Stain Preventer Work? (2026)"
 meta_description: "Read our honest American Hydro Systems RR1 Rid O' Rust 2X review. Does this concentrated rust stain remover work on concrete & siding? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06Y4684XR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CuGKDg0UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2X concentration means you dilute it—one bottle goes significantly further than ready-to-use sprays"
   - "Works on multiple surfaces including concrete, vinyl siding, and roofing without bleaching or damaging"
   - "Effective on both surface rust stains and deeper set-in mineral deposits from irrigation or well water"
-cons:
+cons: 
   - "Requires mixing and a garden sprayer—not a grab-and-go trigger bottle solution"
   - "Strong chemical odor during application; needs proper ventilation and gloves"
   - "Stubborn, years-old stains may need a second application or longer dwell time"
+
 ---
 
 If rust stains are turning your driveway into an abstract art project you never asked for, you've probably tried bleach, pressure washing, and maybe some praying. Here's the real question: does Rid O' Rust 2X actually work, or is it just another bottle of hope? After digging through 229 ratings and 4.6 stars, here's what you need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Celestial Seasonings Sleepytime Herbal Tea"
 seo_title: "Celestial Seasonings Sleepytime Tea Review: Worth It?"
 meta_description: "Honest Celestial Seasonings Sleepytime herbal tea review: flavor, sleep benefits, caffeine-free verdict, and who should buy it. Real buyer insights included."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNMKCD9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Cp2zG1CVL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, calming flavor across every batch — chamomile-forward with a soft mint finish"
   - "Caffeine-free and naturally soothing; reliable wind-down routine for most drinkers"
   - "Massive 40-bag count gives strong per-cup value compared to single-serve tea options"
-cons:
+cons: 
   - "Chamomile dominates — if you dislike chamomile, skip this entirely"
   - "Boxes are lightweight cardboard; bags aren't individually wrapped, so freshness drops after opening"
   - "Sweetness is subtle — don't expect any natural sweetness like some fruit-based night teas"
+
 ---
 
 **The 40-Bag Box That Built a Bedtime Ritual**

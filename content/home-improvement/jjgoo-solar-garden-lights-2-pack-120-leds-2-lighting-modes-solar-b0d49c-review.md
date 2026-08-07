@@ -1,4 +1,5 @@
 ---
+
 title: "JJGoo Solar Garden Lights, 2 Pack 120 LEDs 2 Lighting Modes "
 seo_title: "JJGoo Solar Garden Lights, 2 Pack 120 LEDs 2 Light Review"
 meta_description: "Our full jjgoo solar garden lights, 2 pack 120 leds 2 lighting modes  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D49C9DH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xH4gQxIFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 2-pack solar light that actually lights up your garden — not just decorates it**

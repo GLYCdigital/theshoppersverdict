@@ -1,4 +1,5 @@
 ---
+
 title: "WORX Cordless String Trimmer & Lawn Edger, Electric Weed Wac"
 seo_title: "WORX Cordless String Trimmer & Lawn Edger, Electri Review"
 meta_description: "Our full worx cordless string trimmer & lawn edger, electric weed wac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRV42J8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The WORX Weed Wac isn't a revolution — it's a refinement.** If you've wrestled with a gas trimmer that won't start or a corded unit that tangles every 30 feet, this 20V cordless 2-in-1 deserves a hard look. With 215 Amazon ratings averaging 4.3 stars, it's clearly doing something right. But "good for the price" and "right for your yard" aren't always the same thing.

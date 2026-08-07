@@ -1,4 +1,5 @@
 ---
+
 title: "MAZEL Tour GS Men's Golf Putter,Right Handed,Golf Head Cover"
 seo_title: "MAZEL Tour GS Men's Golf Putter,Right Handed,Golf  Review"
 meta_description: "Our full mazel tour gs men's golf putter,right handed,golf head cover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRMVS941/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514-VMLXaJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

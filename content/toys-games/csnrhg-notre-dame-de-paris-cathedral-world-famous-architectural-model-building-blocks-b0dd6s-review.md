@@ -1,4 +1,5 @@
 ---
+
 title: "CSNRHG Notre-Dame de Paris Cathedral World Famous Architectu"
 seo_title: "CSNRHG Notre-Dame Cathedral Building Blocks Review (4.2★)"
 meta_description: "Honest CSNRHG Notre-Dame de Paris Cathedral building set review: piece count, build difficulty, accuracy vs. real cathedral, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DD6SM2Y8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714D2i4IBcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Recognizable silhouette with accurate twin towers, rose window, and flying buttresses that read as Notre-Dame from across a room"
   - "Sturdy baseplate and locking mechanism hold up to handling — this isn't a display-only piece that falls apart if you dust it"
   - "Good value per piece count compared to licensed architectural sets of similar scale"
-cons:
+cons: 
   - "Instructions are printed small and occasionally ambiguous around the spire assembly — expect to backtrack a few steps"
   - "Some pieces arrive with minor molding flash that needs trimming before they seat flush, particularly on the darker stone-colored bricks"
   - "No minifigures or interior detail — this is a pure exterior shell, so don't expect a playable cathedral interior"
+
 ---
 
 If you've ever stood in front of Notre-Dame de Paris and thought, "I'd like to own that but in tiny brick form," the CSNRHG architectural model delivers exactly that — with a few caveats worth knowing before checkout.

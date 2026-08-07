@@ -1,4 +1,5 @@
 ---
+
 title: "Tecmojo Wall Mount Open Frame Network Rack, Swing Out Hinged"
 seo_title: "Tecmojo Wall Mount Open Frame Network Rack, Swing  Review"
 meta_description: "Our full tecmojo wall mount open frame network rack, swing out hinged review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZRSK5RW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pm+L+bfNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a patch panel out of a fixed wall rack just to reach the back of a switch, the Tecmojo Wall Mount Open Frame Rack's swing-out hinge is going to feel like a revelation. This isn't a revolutionary concept — hinged racks have existed for years — but the execution here matters. The hinge arms are welded steel, not bolted plates, and the rack swings open a full 180 degrees, locking into place so you can work on both sides of your equipment without holding it with one hand.

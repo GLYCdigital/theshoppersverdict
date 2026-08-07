@@ -1,4 +1,5 @@
 ---
+
 title: "IOTXY Freestanding Open Cubes Bookcase - Floor Standing Wood"
 seo_title: "IOTXY Freestanding Open Cubes Bookcase - Floor Sta Review"
 meta_description: "Our full iotxy freestanding open cubes bookcase - floor standing wood review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6HTM92P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-f8GsaVfL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped for cube storage before, you know the drill: cheap fiberboard, cam locks that strip, and a shelf that sways if you look at it wrong. The IOTXY Freestanding Open Cubes Bookcase takes a different path. It's real wood, it stands on its own without wall anchors, and it's built like something you'd actually keep for more than a rental lease.

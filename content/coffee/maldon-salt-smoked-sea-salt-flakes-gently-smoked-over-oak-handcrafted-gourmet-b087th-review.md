@@ -1,4 +1,5 @@
 ---
+
 title: "Maldon Salt, Smoked Sea Salt Flakes, Gently Smoked Over Oak,"
 seo_title: "Maldon Salt, Smoked Sea Salt Flakes, Gently Smoked Review"
 meta_description: "Our full maldon salt, smoked sea salt flakes, gently smoked over oak, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B087THHHRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hcfo3d1ML._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Smoked salt is one of those ingredients that sounds like a gimmick until you actually use it properly. Maldon's Smoked Sea Salt Flakes aren't a novelty — they're a legitimate finishing tool that earns its spot in your kitchen. Here's the real story after working with this jar for several weeks.

@@ -1,4 +1,5 @@
 ---
+
 title: "COBIZI 10x20 Pop up Canopy Without Sidewall Heavy Duty Comme"
 seo_title: "COBIZI 10x20 Canopy Review: Heavy Duty Pop Up (2026)"
 meta_description: "Honest COBIZI 10x20 pop-up canopy review: build quality, wind resistance, real buyer feedback, and who should buy it. Get the facts before you spend."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GY46GK4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuine 10x20 coverage with a reinforced steel frame that handles gusty conditions better than most sub-$400 canopies"
   - "One-piece roof design means no center pole — full walk-in height throughout, unlike cheaper multi-pole units"
   - "Includes 8 stake-down points and 4 ratchet tie-down straps; buyers report it staying put in moderate storms"
-cons:
+cons: 
   - "At roughly 85 lbs, this is not a solo setup — two people minimum, and the carry bag is mediocre at best"
   - "No sidewalls included (obviously), so diagonal rain and low-angle sun will get you; plan accordingly"
   - Peak height of 11'6 inch " sounds great but the legs taper to 8'10 inch " at the corners — tall folks will duck at the edges
+
 ---
 
 # COBIZI 10x20 Pop-Up Canopy: The Big-Top Workhorse That Punches Above Its Price

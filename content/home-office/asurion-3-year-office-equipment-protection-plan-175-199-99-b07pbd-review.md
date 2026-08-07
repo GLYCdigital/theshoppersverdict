@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Office Equipment Protection Plan ($175 - $199 inch"
 seo_title: "ASURION 3-Year Office Equipment Plan Review (2026)"
 meta_description: "ASURION 3-Year Office Equipment Protection Plan review: coverage details, claim process, real customer feedback. Is it worth $175-$199?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07PBD7QP5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71apgxaYy-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers accidental damage from day one — no waiting period, unlike many manufacturer warranties"
   - "Claims handled directly through Amazon; replacement often shipped before you return the broken unit"
   - "Valid for 3 full years with no deductibles or hidden per-claim fees"
-cons:
+cons: 
   - "Does not cover pre-existing damage or issues caused by intentional misuse or neglect"
   - "The $175-$199 price point can approach 30-40% of the item's value on cheaper equipment — run the math first"
+
 ---
 
 **Is the ASURION 3-Year Office Equipment Protection Plan worth the $175–$199 price tag, or are you just buying peace of mind you'll never use?** I've dug through 215 Amazon ratings (4.3 stars), customer claim stories, and the fine print so you don't have to.

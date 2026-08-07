@@ -1,4 +1,5 @@
 ---
+
 title: "Gritin Book Light Rechargeable, Reading Light Lamp Clip on B"
 seo_title: "Gritin Book Light Rechargeable, Reading Light Lamp Review"
 meta_description: "Our full gritin book light rechargeable, reading light lamp clip on b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ513B79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eOReaTZhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: the Gritin Book Light is the kind of product you buy for $20, use every night for six months, and then wonder how you ever managed without it. With 240 ratings and a 4.8 average on Amazon, it's already earned its place as a top seller. But does it deserve *your* money? I dug into the specs, the customer feedback, and the real-world quirks to give you the honest breakdown.

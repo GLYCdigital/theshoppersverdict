@@ -1,4 +1,5 @@
 ---
+
 title: "Portable Cat Travel Litter Box with Leak-Proof Zipped Lid to"
 seo_title: "Portable Cat Travel Litter Box with Leak-Proof Zip Review"
 meta_description: "Our full portable cat travel litter box with leak-proof zipped lid to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08P1HV5C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hUni+TJyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-Star Travel Litter Box That Actually Holds Up on the Road — Mostly**

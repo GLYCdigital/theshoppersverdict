@@ -1,4 +1,5 @@
 ---
+
 title: "Annabelle Skinny Mascara, Black, Award-Winning Mascara, New"
 seo_title: "Annabelle Skinny Mascara Review: Does It Deliver? (2026)"
 meta_description: "Annabelle Skinny Mascara review: We tested this award-winning, eco-friendly mascara for length, smudging, and wear. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQ3WPCQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5127oNBCHHL._SL1500_.jpg"
-pros:
+pros: 
   - "Slim precision wand coats every lash from root to tip without clumping, even on lower lashes"
   - "Long-wearing formula survives 10+ hours without smudging or flaking on most skin types"
   - "Eco-conscious packaging with recycled materials at a drugstore price point"
-cons:
+cons: 
   - "Not volumizing — this is strictly a lengthening and defining mascara; skip it if you want dramatic thickness"
   - "Removal requires an oil-based cleanser; stubborn against water and standard face wash"
   - "Formula can dry out faster than competitors — expect 3 months of peak performance, not 6"
+
 ---
 
 # Annabelle Skinny Mascara Review: Precision Length Without the Clump

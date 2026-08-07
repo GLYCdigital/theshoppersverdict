@@ -1,4 +1,5 @@
 ---
+
 title: "EMSCO Group Hose Hiders"
 seo_title: "EMSCO Group Hose Hiders Review: Smart Garden Storage"
 meta_description: "EMSCO Group Hose Hiders review: Durable 2-pack garden hose storage with UV protection. See pros, cons, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F2KT9B27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C+noGbRJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy resin construction resists cracking and UV damage better than cheap plastic alternatives"
   - "Holds up to 125 feet of standard 5/8-inch hose without kinking or tangling"
   - "Natural stone-look finish blends into landscaping instead of screaming 'storage box'"
-cons:
+cons: 
   - "Assembly requires a screwdriver and about 15 minutes—not tool-free despite the simple design"
   - "Lid doesn't latch shut, so strong winds can flip it open if the hose isn't fully seated"
+
 ---
 
 Let's be honest: most garden hose storage looks like a plastic toadstool vomited in your yard. The EMSCO Group Hose Hiders take a different approach—they look like decorative stone planters until you lift the lid and find 125 feet of coiled hose hiding inside. That's the pitch, anyway. After digging through 204 ratings and the real-world feedback, here's what actually matters.

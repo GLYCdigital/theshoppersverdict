@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Magnolia Home by Joanna Gaines x Jones Rug"
 seo_title: "Loloi Magnolia Home by Joanna Gaines x Jones Rug Review: "
 meta_description: "Our full loloi magnolia home by joanna gaines x jones rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CX3469QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DQ3EoyufL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Loloi Magnolia Home by Joanna Gaines x Jones Rug Review: Style That Outperforms the Build

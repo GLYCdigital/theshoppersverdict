@@ -1,4 +1,5 @@
 ---
+
 title: "Baseball Rebounder Net,4x4.5FT Multi-Sport Pitch Back Reboun"
 seo_title: "Baseball Rebounder Net Review: 4x4.5FT Multi-Sport Pitch Back"
 meta_description: "Honest review of the 4x4.5FT Baseball Rebounder Net. Tested for durability, bounce-back accuracy, and multi-sport use. See who it's for and who should skip."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FW3XLM6J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YrjUVTibL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Heavy-duty 1.5-inch steel frame holds up to hard line drives without flexing or tipping"
   - "Adjustable 5-position angle system lets you dial in grounders, line drives, or pop flies"
   - "Four reinforced ground stakes and sandbag pockets keep it planted on grass or turf"
-cons:
+cons: 
   - "Assembly requires a hex wrench (included) and about 20 minutes — not tool-free"
   - "Tension straps need re-tightening after the first few heavy sessions as the net breaks in"
+
 ---
 
 Let’s cut through the noise: a 4x4.5-foot rebounder is a niche purchase. It’s too small for serious batting cage work, but too specialized for casual backyard catch. So who is this actually for? If you’re a solo player who wants 50-100 quality reps without chasing balls, this multi-sport pitch back earns its place. If you’re expecting a full cage experience, you’ll be disappointed.

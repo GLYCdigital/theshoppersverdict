@@ -1,4 +1,5 @@
 ---
+
 title: "LE TAUCI Planter with Acacia Wood Stand, Ceramic Planter for"
 seo_title: "LE TAUCI Planter with Acacia Wood Stand, Ceramic P Review"
 meta_description: "Our full le tauci planter with acacia wood stand, ceramic planter for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDB8KCZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l8G1bOidL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the planter that finally makes your fiddle leaf fig look expensive? Or just another overpriced pot that chips by week two?**

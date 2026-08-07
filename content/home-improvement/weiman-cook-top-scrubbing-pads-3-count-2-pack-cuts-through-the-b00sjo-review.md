@@ -1,4 +1,5 @@
 ---
+
 title: "Weiman Cook Top Scrubbing Pads, 3 Count, 2 Pack Cuts Through"
 seo_title: "Weiman Cook Top Scrubbing Pads, 3 Count, 2 Pack Cu Review"
 meta_description: "Our full weiman cook top scrubbing pads, 3 count, 2 pack cuts through review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00SJO3MPO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CFwli91nL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your glass cooktop looks less like a smooth, glossy surface and more like a crime scene from a particularly aggressive pancake incident, you're in the right place. The Weiman Cook Top Scrubbing Pads are a targeted solution for one of the most frustrating kitchen chores: removing burnt-on, carbonized gunk without destroying the surface you're cleaning. Let's see if they live up to the hype.

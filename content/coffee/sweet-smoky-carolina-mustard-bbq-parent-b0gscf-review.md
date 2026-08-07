@@ -1,4 +1,5 @@
 ---
+
 title: "Sweet & Smoky Carolina Mustard BBQ Parent"
 seo_title: "Sweet & Smoky Carolina Mustard BBQ Parent Review: Verdict"
 meta_description: "Our full sweet & smoky carolina mustard bbq parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSCFL7K8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ktZYJfLXL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I didn't expect a coffee maker named after a barbecue sauce to be this good. But after a week of testing, the Sweet & Smoky Carolina Mustard BBQ Parent — yes, that's the actual product name — has earned a permanent spot on my counter. It's quirky, slightly imperfect, and refreshingly honest about what it is: a no-nonsense drip brewer that prioritizes temperature stability over gimmicks.

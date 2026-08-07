@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST Upholstered LED Bed Frame with 3 Storage Drawers, Hid"
 seo_title: "BTHFST LED Bed Frame Review: Storage Drawers & Hidden Headboard"
 meta_description: "Honest BTHFST upholstered LED bed frame review: 3 storage drawers, hidden storage headboard, build quality, assembly, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6YBBDKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810cQt60VeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three full-width under-bed drawers on metal glides that actually roll smoothly on carpet"
   - "Hidden headboard compartment with USB ports — genuinely useful for small bedrooms"
   - "LED lighting with remote control and multiple color/mode options, not just a single-color strip"
-cons:
+cons: 
   - "Assembly is a two-person job and takes 2-3 hours; drawer alignment requires patience"
   - "Upholstered fabric is light-colored on some versions and shows marks — order a darker shade if you have pets"
+
 ---
 
 Let's be direct: most bed frames under $400 are either flimsy metal skeletons that squeak or particleboard boxes that sag. The BTHFST Upholstered LED Bed Frame sits in a weird middle zone — it tries to do a lot (storage, lighting, upholstery) and mostly succeeds. With 220 ratings averaging 4.4 stars, buyers are generally happy. Here's the full picture before you commit.

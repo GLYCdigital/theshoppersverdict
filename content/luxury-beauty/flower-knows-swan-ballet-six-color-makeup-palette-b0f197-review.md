@@ -1,4 +1,5 @@
 ---
+
 title: "Flower Knows Swan Ballet Six-Color Makeup Palette"
 seo_title: "Flower Knows Swan Ballet Six-Color Makeup Palette Review:"
 meta_description: "Our full flower knows swan ballet six-color makeup palette review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F197GXYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dDmVX2w+L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This is the palette you buy with your heart, not your head. And honestly, that's fine — as long as you know what you're getting.

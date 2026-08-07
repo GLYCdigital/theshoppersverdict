@@ -1,4 +1,5 @@
 ---
+
 title: "Tiella 800CBL5PN-LED, Accent Electronic Low Volt Surface Tra"
 seo_title: "Tiella 800CBL5PN-LED, Accent Electronic Low Volt S Review"
 meta_description: "Our full tiella 800cbl5pn-led, accent electronic low volt surface tra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B002N2W90M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S6w5lfXIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you want museum-quality accent lighting without visible transformers cluttering your ceiling, the Tiella 800CBL5PN-LED delivers on looks. But this isn't a weekend warrior project — it demands electrical know-how and the right dimmer. Here's what 195 buyers found.

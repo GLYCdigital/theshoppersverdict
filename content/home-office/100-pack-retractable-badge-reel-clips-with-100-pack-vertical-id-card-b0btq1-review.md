@@ -1,4 +1,5 @@
 ---
+
 title: "100 Pack Retractable Badge Reel Clips with 100 Pack Vertical"
 seo_title: "100 Pack Retractable Badge Reel Clips Review (2026)"
 meta_description: "Honest review of 100-pack retractable badge reel clips with vertical ID holders. Tested durability, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTQ16XBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715KC5OmI2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100 reels plus 100 vertical holders means zero reordering for a full year at most workplaces"
   - "Metal belt clip and reinforced nylon cord hold up to daily tugging without snapping"
   - "Universal sizing fits standard CR80 ID cards and most lanyard slots"
-cons:
+cons: 
   - "Some units arrive with inconsistent retraction tension — a few reels pull back slower than others"
   - "Vertical holders lack a thumb slot, making card removal noticeably fiddlier than horizontal versions"
+
 ---
 
 If you're responsible for onboarding, events, or any workplace that issues ID badges, you already know the pain: badge reels break, get lost, and you're constantly reordering. The 100-pack retractable badge reel clips with matching vertical holders aims to end that cycle. At roughly $0.50–$0.70 per complete set (reel plus holder), it's a bulk buy that actually makes financial sense — but does the quality hold up across a hundred units?

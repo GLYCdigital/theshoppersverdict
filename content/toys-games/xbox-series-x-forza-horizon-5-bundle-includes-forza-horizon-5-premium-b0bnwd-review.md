@@ -1,4 +1,5 @@
 ---
+
 title: "Xbox Series X â€“ Forza Horizon 5 Bundle â€“ Includes Forza "
 seo_title: "Xbox Series X â€“ Forza Horizon 5 Bundle â€“ Inclu Review"
 meta_description: "Our full xbox series x â€“ forza horizon 5 bundle â€“ includes forza  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNWDC18R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AbYCAvr-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a Series X and Forza Horizon 5 is on your radar, this bundle is the smartest way to buy both. Let's be clear about what you're getting: a $499 console plus a game that normally costs $99 for the Premium Edition. You're effectively getting the game's full package at a discount, and the console itself remains the most powerful mainstream option on the market.

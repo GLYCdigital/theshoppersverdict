@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Light Bulbs for Indoor Home and Chicken Coop, Outdoor "
 seo_title: "Solar Light Bulbs for Indoor Home and Chicken Coop Review"
 meta_description: "Our full solar light bulbs for indoor home and chicken coop, outdoor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DPHRVXZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fwlqog3pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Solar lighting that actually works where you need it—if you're honest about its limits.**

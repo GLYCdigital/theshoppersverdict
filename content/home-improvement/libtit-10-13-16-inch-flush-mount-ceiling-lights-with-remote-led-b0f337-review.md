@@ -1,4 +1,5 @@
 ---
+
 title: "libtit 10/13/16 Inch Flush Mount Ceiling Lights with Remote,"
 seo_title: "libtit 10/13/16 Inch Flush Mount Ceiling Lights wi Review"
 meta_description: "Our full libtit 10/13/16 inch flush mount ceiling lights with remote, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F337V3VY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The libtit flush mount series is the kind of ceiling light that looks simple in photos but reveals its value in daily use. With a 4.0-star average across 200 ratings, it's not perfect — but for a remote-controlled LED fixture under $50 per unit, it punches well above its weight class.

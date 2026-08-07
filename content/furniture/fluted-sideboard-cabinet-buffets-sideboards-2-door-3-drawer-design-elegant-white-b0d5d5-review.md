@@ -1,4 +1,5 @@
 ---
+
 title: "Fluted Sideboard Cabinet, Buffets & Sideboards, 2 Door 3 Dra"
 seo_title: "Fluted Sideboard Cabinet Review: 2-Door 3-Drawer Storage for Dining Rooms"
 meta_description: "We tested the fluted sideboard cabinet with 2 doors and 3 drawers. See how it holds up for dining room storage, plus honest pros, cons, and buying tips."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5D5R4M3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716lrX66zFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fluted detailing on the door fronts adds architectural interest that reads far more expensive than the price point"
   - "Three smooth-gliding drawers provide genuinely usable cutlery and linen storage while the two cabinets below hold taller serving pieces"
   - "Assembly is manageable for one person in about 45 minutes with all hardware labeled and included"
-cons:
+cons: 
   - "The white finish is prone to showing fingerprints and smudges, especially on the fluted grooves — plan on wiping it down weekly"
   - "The backing is thin particleboard that can bow if you overload the lower cabinets with heavy platters"
   - "No soft-close hinges; doors can slam shut if you're not careful, which is disappointing at this price"
+
 ---
 
 If you've been scrolling past dozens of bland, boxy sideboards wondering why they all look the same, this fluted option actually stands out. The vertical grooves on the door fronts catch light and create shadow lines that give the piece a custom, designer look — the kind you'd expect to pay triple for at a boutique furniture store. But does the storage behind that pretty face hold up? After digging through 215 Amazon ratings and the real-world feedback from buyers, here's the honest breakdown.

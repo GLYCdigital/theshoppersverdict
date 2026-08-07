@@ -1,4 +1,5 @@
 ---
+
 title: "Spice Guru Kits"
 seo_title: "Spice Guru Kits Review: Verdict | TSV"
 meta_description: "Our full spice guru kits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4NKHJ5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wxmF3mzTL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Spice Guru Kits: it's not trying to be the flashiest coffee gear on your counter. It's solving a problem you didn't know you had — until you've ground cardamom in your burr grinder and your next morning pour-over tastes like chai.

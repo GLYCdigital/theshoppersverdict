@@ -1,4 +1,5 @@
 ---
+
 title: "Tuff Mutt Hands-Free Waist Leash for Dog Walking, Running an"
 seo_title: "Tuff Mutt Hands-Free Waist Leash for Dog Walking,  Review"
 meta_description: "Our full tuff mutt hands-free waist leash for dog walking, running an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01CJ54A5O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WZ6nK6X8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever been yanked mid-stride by a leash wrapped around your wrist, you already know why the hands-free category exists. The Tuff Mutt Hands-Free Waist Leash has carved out a solid reputation among runners and hikers — 229 ratings deep at a 4.6 average. But is it the right hands-free leash for *your* dog? Let's break down what you're actually getting.

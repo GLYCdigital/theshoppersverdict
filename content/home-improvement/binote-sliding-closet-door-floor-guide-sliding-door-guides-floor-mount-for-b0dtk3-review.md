@@ -1,4 +1,5 @@
 ---
+
 title: "BINOTE Sliding Closet Door Floor Guide, Sliding Door Guides"
 seo_title: "BINOTE Sliding Door Floor Guide Review (2026): Does It Work?"
 meta_description: "Honest BINOTE sliding closet door floor guide review: build quality, fit, installation tips, and real buyer feedback. Is this 4.5-star guide worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTK3H6HW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yJZYyTwPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal construction with a smooth nylon bushing — no cheap plastic rollers that crack within months"
   - Universal fit works on most standard 1-3/8 inch " and 1-3/4 inch " interior doors without special tools
   - "Low-profile base sits flush enough that it won't trip you or catch a vacuum head"
-cons:
+cons: 
   - "Screws included are soft — replace them with #8 pan heads if you're mounting into hardwood"
   - "Not suitable for carpeted floors; needs a hard surface or a cutout to mount flush"
+
 ---
 
 Let me be blunt: sliding closet doors are the most neglected piece of hardware in most homes. They rattle, they swing off track, and they scratch the floor. The BINOTE floor guide is a $10-ish fix that solves the worst of those problems — but it's not a magic bullet. Here's the real story after digging through 225 ratings and the actual product specs.

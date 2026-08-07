@@ -1,4 +1,5 @@
 ---
+
 title: "GameSir G7 SE Officially Licensed Xbox One Controller With H"
 seo_title: "GameSir G7 SE Xbox Controller Review: Hall Effect Sticks"
 meta_description: "GameSir G7 SE Xbox One controller review: Hall effect sticks, official license, and 4.4-star rating. Is it worth the money? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CT3BXRLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514qW-ohcvL._SL1000_.jpg"
-pros:
+pros: 
   - "Hall effect joysticks eliminate stick drift permanently — no potentiometers to wear out"
   - "Officially licensed for Xbox Series X/S and Xbox One, so it works natively without adapters"
   - "Rear mappable buttons and trigger locks give competitive edge at a budget price"
-cons:
+cons: 
   - "Wired-only design limits setup flexibility if your console sits far from your couch"
   - "No wireless option or Bluetooth — strictly USB-C connection required"
   - "Some users report the included 3m cable can disconnect if bent sharply at the controller port"
+
 ---
 
 ## The Controller That Kills Stick Drift — Finally

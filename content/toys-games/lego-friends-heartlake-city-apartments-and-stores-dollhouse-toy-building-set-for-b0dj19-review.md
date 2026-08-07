@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Friends Heartlake City Apartments and Stores Dollhouse "
 seo_title: "LEGO Friends Heartlake City Apartments and Stores  Review"
 meta_description: "Our full lego friends heartlake city apartments and stores dollhouse  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ198HKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817rDNUF13L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** This is the LEGO Friends set that actually delivers on the "city" promise. Four stories of apartments above three storefronts, connected by a working elevator and a slide that drops minidolls from the top floor to the street. It's big, it's busy, and it's exactly what a LEGO Friends fan who's outgrown the small sets wants.

@@ -1,4 +1,5 @@
 ---
+
 title: "HEIXSMT Fingerprint Door knobs 196-FBA"
 seo_title: "HEIXSMT Fingerprint Door knobs 196-FBA Review: Verdict | "
 meta_description: "Our full heixsmt fingerprint door knobs 196-fba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F9T12Z9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610-xHjUxlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HEIXSMT Fingerprint Door Knob 196-FBA answers a simple question: do you actually need a $200 smart lock, or does a $50 fingerprint knob do the job? After digging through 210 ratings and the spec sheet, here's the real story.**

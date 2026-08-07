@@ -1,16 +1,17 @@
 ---
+
 title: "LEGO Technic Land Rover Defender 42110 Building Kit (2573 Pieces)"
 seo_title: "LEGO Technic Land Rover Defender 42110 Review: Verdict (4.8/5) | TSV"
 meta_description: "Honest LEGO Technic Land Rover Defender 42110 review 3,713+ reviews analyzed. Real pros, cons, working gearbox, and our verdict."
 slug: "lego-technic-land-rover-defender-42110-building-kit-2573-pieces-review"
 image_alt: "LEGO Technic Land Rover Defender 42110 Building Kit (2573 Pieces) - completed model showing detailed design"
-keywords:
+keywords: 
   - "LEGO Technic Land Rover Defender review"
   - "42110 building kit review"
   - "LEGO Technic car set"
   - "best LEGO Technic sets"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Is the LEGO Technic Land Rover Defender 42110 a retired set?"
     answer: "Yes, the LEGO Technic Land Rover Defender 42110 has been retired, but it may still be found through third-party Amazon vendors. As one reviewer noted: 'This Lego kit has been retired. It may still be found through Amazon vendors.' Despite retirement, it remains a sought-after collector piece."
   - question: "How long does it take to build the LEGO Technic Land Rover Defender?"
@@ -23,15 +24,16 @@ review_count: 3713
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZF5F5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CYDvbxLlS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Working 4-speed sequential gearbox with hi/lo ranges"
   - "Detailed inline 6-cylinder engine with moving pistons"
   - "Excellent display piece with authentic Land Rover design"
   - "Clear, logical instructions despite complexity"
-cons:
+cons: 
   - "Retired set — harder to find at retail pricing"
   - "Some builders report occasional missing pieces"
   - "Challenging build for younger teens under 16"
+
 ---
 
 **Is the LEGO Technic Land Rover Defender 42110 worth $340?** I've built this 2,573-piece set, and it's both brilliant and frustrating — sometimes within the same hour. Here's the honest breakdown.

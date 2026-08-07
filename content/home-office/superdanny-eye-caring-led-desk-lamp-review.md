@@ -1,16 +1,17 @@
 ---
+
 title: "SUPERDANNY Eye-Caring LED Desk Lamp 360° Flexible Gooseneck Work Lamp with Desk Side Clamp Touch Control 3 Light Colors Smooth Dimming Task Lighting Reading Light for Home Office College Dorm, White"
 seo_title: "SUPERDANNY Desk Lamp Review — 4.6★ Clamp at .98 | TSV"
 meta_description: "SUPERDANNY eye-caring LED desk lamp review: 667 reviews analyzed. 360° gooseneck, touch control, 3 colors, clamp design. Budget lamp that punches way above i"
 slug: "superdanny-eye-caring-led-desk-lamp-review"
 image_alt: "SUPERDANNY Eye-Caring LED Desk Lamp 360° Flexible Gooseneck Work Lamp Desk Side Clamp Touch Control 3 Light Colors Smoot"
-keywords:
+keywords: 
   - "superdanny eye-caring led desk lamp 360° review"
   - "superdanny home office review"
   - "superdanny eye caring led desk lamp review"
   - "best home office desk lamp"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Does the SUPERDANNY lamp work for video calls and streaming?"
     answer: "Yes. The light is bright enough for green screens and webcam lighting without being harsh on the eyes. Streamers and remote workers report excellent results."
   - question: "How does the clamp attach to the desk?"
@@ -23,13 +24,14 @@ review_count: 667
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4KRS3Y6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ylUtxFYWL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Internal cable routing through the gooseneck — premium detail at this price"
   - "Sturdy metal construction with no plastic flex or wobble"
   - "Touch control with smooth dimming across 3 color temperatures"
-cons:
+cons: 
   - "Only 3 color modes — fewer than some competitors at similar prices"
   - "Gooseneck may not be tall enough for very large monitors"
+
 ---
 
 The SUPERDANNY Eye-Caring LED Desk Lamp costs .98. That's less than dinner for two at a mid-tier restaurant. It has a 360° gooseneck, clamp mount, touch control, 3 color modes, and smooth dimming. 667 reviews averaging 4.6 stars. What's the catch?

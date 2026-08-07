@@ -1,4 +1,5 @@
 ---
+
 title: "Gazillion Bubbles Original Premium Bubble Solution 1L - Gian"
 seo_title: "Gazillion Bubbles Solution 1L Review: Best Bubble Mix?"
 meta_description: "Gazillion Bubbles Original Premium Solution 1L review: Does this giant bubble refill beat cheap store brands? Tested for longevity, viscosity, and tear-free safety."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B35MVVK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z8kAxMX-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably thicker viscosity than dollar-store mixes—bubbles hold shape longer and survive gentle breezes"
   - "Tear-free and non-toxic formula, a practical pick for toddlers who inevitably get solution in their eyes"
   - "One liter stretches across dozens of refills; heavy users report months of daily play from a single bottle"
-cons:
+cons: 
   - "The included wand is flimsy—buy a proper bubble wand separately if you want serious bubble sizes"
   - "Slightly pricier per ounce than generic refills, though the performance gap justifies the cost for most buyers"
+
 ---
 
 Some bubble solutions pop before they ever get off the wand. That's not this one. Gazillion Bubbles Original Premium Solution in the 1-liter size has earned its 4.7-star rating across 235 Amazon reviews for one simple reason: it actually works. The formula is noticeably thicker than the watery stuff you find at dollar stores, which means bigger bubbles, longer lifespans, and less frustration for the kid holding the wand.

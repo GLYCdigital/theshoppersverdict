@@ -1,4 +1,5 @@
 ---
+
 title: "DIY Lash Extension Kit 804Pcs D Curl Individual Lash Cluster"
 seo_title: "DIY Lash Extension Kit 804Pcs D Curl Review (2026)"
 meta_description: "Honest review of the 804Pcs DIY lash extension kit with D curl clusters. See what 225 buyers say about adhesion, wear time, and value before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFYC1HZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Xaa2fuOZL._SL1500_.jpg"
-pros:
+pros: 
   - "804 individual D-curl clusters across multiple lengths (8-14mm) give enough product for 8-12 full applications"
   - "Bond and seal duo included — no separate lash glue purchase required for first several weeks"
   - "Featherweight 0.05mm thickness clusters blend invisibly with natural lashes when applied correctly"
-cons:
+cons: 
   - "DIY application learning curve is steep; first attempts often look uneven or clumpy"
   - "Bond holds 3-5 days with oil-free cleansing, not the 2-week claim many reviewers expected"
   - "No remover included — you'll need to buy one separately or wait for natural shedding"
+
 ---
 
 Let's be direct about what this is: a full lash extension starter kit that costs less than a single salon fill, and it delivers surprisingly well — **if** you have the patience to learn the technique.

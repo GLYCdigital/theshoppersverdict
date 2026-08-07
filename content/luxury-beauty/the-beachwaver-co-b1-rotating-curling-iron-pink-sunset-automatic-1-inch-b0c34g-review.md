@@ -1,4 +1,5 @@
 ---
+
 title: "The Beachwaver Co. B1 Rotating Curling Iron - Pink Sunset | "
 seo_title: "The Beachwaver Co. B1 Rotating Curling Iron - Pink Review"
 meta_description: "Our full the beachwaver co. b1 rotating curling iron - pink sunset |  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C34GJWNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510AckgXJXL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most “automatic” curling irons are gimmicks that tangle hair and collect dust. The Beachwaver Co. B1 is the exception that built a cult following — and the Pink Sunset edition makes it the prettiest version yet. But at this price, you deserve to know exactly what you’re getting before you tap “buy.”

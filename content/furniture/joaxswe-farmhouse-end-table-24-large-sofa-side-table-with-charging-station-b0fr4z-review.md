@@ -1,7 +1,8 @@
 ---
-title: "Joaxswe Farmhouse End Table,24\" Large Sofa Side Table with C"
-seo_title: "Joaxswe Farmhouse End Table,24\" Large Sofa Side Ta Review"
-meta_description: "Our full joaxswe farmhouse end table,24\" large sofa side table with c review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Joaxswe Farmhouse End Table,24\ Large Sofa Side Table with C"
+seo_title: "Joaxswe Farmhouse End Table,24\ Large Sofa Side Ta Review"
+meta_description: "Our full joaxswe farmhouse end table,24\ large sofa side table with c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "joaxswe-farmhouse-end-table-24-large-sofa-side-table-with-charging-station-b0fr4z-review"
 image_alt: "Joaxswe Farmhouse End Table,24 Large Sofa Side Table with Charging Station Glass Barn Door,Wood Nightstand with Adjustab"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FR4ZDHRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RvKS1MMtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most end tables lie to you. They call themselves "large" when they can barely hold a coffee mug and a remote. The Joaxswe Farmhouse End Table doesn't do that. At 24 inches across, this thing actually earns the description — and the built-in charging station makes it genuinely useful rather than just another place to stack magazines.

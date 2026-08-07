@@ -1,4 +1,5 @@
 ---
+
 title: "Sanpaint Garden Hose Splitter 2 Way Heavy Duty, Y Connector "
 seo_title: "Sanpaint Garden Hose Splitter 2 Way Heavy Duty, Y  Review"
 meta_description: "Our full sanpaint garden hose splitter 2 way heavy duty, y connector  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9HNFP1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IXhDgfCML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some garden hose splitters are nothing more than plastic junk with brass-colored paint. The Sanpaint 2-Way Heavy Duty Y Connector isn't that. With a 4.6-star average across 229 ratings, this is the kind of tool that quietly does its job for years — provided you understand what you're buying before you twist it onto your spigot.

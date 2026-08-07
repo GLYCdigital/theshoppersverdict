@@ -1,4 +1,5 @@
 ---
+
 title: "Soft Touch Orthopedic Dog Bed for Large Dogs Washable, Suppo"
 seo_title: "Soft Touch Orthopedic Dog Bed for Large Dogs Washa Review"
 meta_description: "Our full soft touch orthopedic dog bed for large dogs washable, suppo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9L7TMH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nRygFXh3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your large-breed dog has started favoring one leg when they get up, or you're tired of replacing beds that flatten into pancake shapes within weeks, this Soft Touch orthopedic bed deserves a hard look. With a 4.7-star average across 235 ratings, it's clearly doing something right — but let's dig into whether it's right for your specific dog.

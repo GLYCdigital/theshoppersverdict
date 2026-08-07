@@ -1,4 +1,5 @@
 ---
+
 title: "Coffeezone Vintage Design 12 oz Ceramic Latte Art Cappuccino"
 seo_title: "Coffeezone Vintage 12 oz Ceramic Latte Art Cup Review"
 meta_description: "Coffeezone Vintage 12 oz ceramic latte art cup review: thick walls, wide mouth, and a 4.6-star rating. Is it worth your counter space? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09BCQC99V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514drPoK94L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Thick 8mm ceramic walls retain heat noticeably longer than standard diner mugs"
   - "Generous 5-inch diameter mouth gives real room for rosetta and tulip pour patterns"
   - "Speckled vintage glaze hides hard water stains and coffee rings between washes"
-cons:
+cons: 
   - "Hand-wash only — the reactive glaze will craze and dull in a dishwasher"
   - "12 oz capacity runs large for true cappuccino; classic 6 oz is more authentic"
+
 ---
 
 Let’s cut to the chase: if you’re dropping $20 on a single mug, it better earn its spot on your counter. The Coffeezone Vintage Design 12 oz Ceramic Latte Art Cappuccino cup does — mostly. Here’s the real story after handling the specs and digging through 229 verified buyer experiences.

@@ -1,4 +1,5 @@
 ---
+
 title: "BOKT Vintage Sphere Pendant Lighting Over Island for Dining"
 seo_title: "BOKT Vintage Sphere Pendant Review: Island Lighting Tested"
 meta_description: "Honest BOKT Vintage Sphere Pendant review: build quality, light output, installation tips, and who should buy. Real buyer feedback on this 4.3-star fixture."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CXXQB6RD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xk9j84NHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reversible mounting lets you hang it as a bowl (light up) or dome (light down) — genuinely two fixtures in one"
   - "Solid 6.3-inch steel shade with a brushed antique finish that hides fingerprints and smudges far better than polished options"
   - "Fully dimmable when paired with compatible bulbs and a dimmer switch — buyer reports confirm smooth 10–100% range"
-cons:
+cons: 
   - "Bulbs not included — you'll spend an extra $15–25 on Edison-style bulbs to get the advertised vintage look"
   - "Installation requires hardwiring; no plug-in option exists, so renters or DIY novices need a licensed electrician"
+
 ---
 
 If you've been scrolling past a dozen "farmhouse" pendants that all look identical, the BOKT Vintage Sphere stops the thumb. This isn't a revolutionary design — it's a 6.3-inch steel sphere with an antique brass finish and a glass diffuser that sits inside the shade. What makes it notable is execution: the materials feel denser than the price suggests, and the reversible mounting genuinely changes the character of the light. It's the kind of fixture that looks like it costs $150, not whatever the current listing price happens to be.

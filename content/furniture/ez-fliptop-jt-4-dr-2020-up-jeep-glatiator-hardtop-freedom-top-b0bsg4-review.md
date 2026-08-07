@@ -1,4 +1,5 @@
 ---
+
 title: "EZ FlipTop JT 4 Dr 2020 & up Jeep Glatiator Hardtop Freedom"
 seo_title: "EZ FlipTop JT Hardtop Review: 2020+ Gladiator Freedom Panels"
 meta_description: "EZ FlipTop JT hardtop review for 2020+ Jeep Gladiator. Real owner feedback on freedom panels, build quality, and fit. See if this 4.9-star top is worth it."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BSG4SC96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+TVf24RhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-back freedom panels give open-air driving without fully removing the top — takes under 30 seconds from inside the cab"
   - "Fiberglass shell matches factory Gladiator texture and contours; owners report no wind noise increase at highway speeds"
   - "Comes fully assembled with hardware included — no drilling or cutting required for a factory-look install"
-cons:
+cons: 
   - "Flipping panels requires clearing rear seat headrests first; tall passengers in the back seat will lose headroom"
   - "At roughly 90 pounds, two people are needed for the initial install — not a solo job"
+
 ---
 
 The EZ FlipTop JT isn't the first aftermarket hardtop for the Gladiator, but it's the first one that actually solves the freedom panel hassle. If you've ever wrestled a factory hardtop panel off your Jeep, wedged it into the storage bag, and prayed it didn't scratch the paint, you already know why 245 buyers gave this thing 4.9 stars.

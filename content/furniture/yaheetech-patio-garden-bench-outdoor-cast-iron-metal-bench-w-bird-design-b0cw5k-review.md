@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Patio Garden Bench Outdoor Cast Iron Metal Bench, "
 seo_title: "Yaheetech Patio Garden Bench Outdoor Cast Iron Met Review"
 meta_description: "Our full yaheetech patio garden bench outdoor cast iron metal bench,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW5KQJ3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+-IqJFJDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Yaheetech Cast Iron Garden Bench: A 30-Pound Statement Piece That Actually Delivers**

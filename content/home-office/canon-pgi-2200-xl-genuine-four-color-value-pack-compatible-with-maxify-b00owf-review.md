@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PGI-2200 XL Genuine Four Color Value Pack, Compatible"
 seo_title: "Canon PGI-2200 XL Value Pack Review: 4-Color XL Inks"
 meta_description: "Canon PGI-2200 XL Genuine Four Color Value Pack review: real-world page yields, print quality, and cost per page for Maxify printers."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00OWFISEE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WJsMDCS5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine Canon ink means zero chip errors or compatibility warnings — installs cleanly every time"
   - "XL cartridges deliver roughly double the page yield of standard PGI-2200, lowering cost per page"
   - "Pigment-based inks produce smudge-resistant, water-resistant text that holds up on plain paper"
-cons:
+cons: 
   - "Premium price over third-party remanufactured options — you pay for the Canon name"
   - "No individual color replacement in this pack — if one color runs dry early, you're stuck with three full cartridges"
+
 ---
 
 Let's be direct: if you own a Canon Maxify printer, you already know the PGI-2200 cartridge situation is both a blessing and a curse. The blessing? These pigment-based tanks deliver some of the sharpest, most water-resistant text you'll get from an inkjet. The curse? Canon's proprietary chips mean you can't just grab any cheap knockoff without risking error messages, wasted paper, and a printer that suddenly thinks it's possessed.

@@ -1,4 +1,5 @@
 ---
+
 title: "Maison Alhambra"
 seo_title: "Maison Alhambra Review: Verdict | TSV"
 meta_description: "Our full maison alhambra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP1YJBV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m-GcUddGL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: Maison Alhambra has built a reputation in fragrance communities as the budget house that punches way above its weight class. With a 4.3-star average across 215 Amazon ratings, the consensus is clear — but is this luxury-adjacent pick worth your money? I tested it extensively, and here's the unvarnished truth.

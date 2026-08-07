@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair Hydro X Series, XL8, Performance Coolant, 1L"
 seo_title: "Corsair Hydro X XL8 Coolant Review: Is It Worth It?"
 meta_description: "Corsair Hydro X XL8 coolant review: honest look at performance, longevity, and value. See what 235 buyers say before you build your loop."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09VRQTDVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714H51HaYzS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-mixed at 1L — no dilution math or distilled water mixing required, just pour and bleed"
   - "Non-conductive formula protects components if a fitting leaks during installation"
   - "Zero-maintenance claim holds up for most users — no particulate buildup reported in long-term use"
-cons:
+cons: 
   - "Clear fluid only in the 1L size — colored variants cost more per liter and sell in smaller bottles"
   - "Premium price per liter compared to generic coolant, though you're paying for the non-conductive chemistry"
+
 ---
 
 If you're building a custom loop, the coolant is the one component you shouldn't cheap out on. A $15 gamble can turn into a $1,500 paperweight if it corrodes your blocks or conducts where it shouldn't. The Corsair Hydro X Series XL8 sits at the sweet spot of the market — priced like a premium product but with a reputation that justifies it. After digging through 235 ratings and the technical specs, here's what you actually need to know.

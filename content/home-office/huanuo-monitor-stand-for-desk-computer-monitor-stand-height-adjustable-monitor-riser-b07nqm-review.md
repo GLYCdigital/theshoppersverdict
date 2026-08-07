@@ -1,4 +1,5 @@
 ---
+
 title: "HUANUO Monitor Stand for Desk, Computer Monitor Stand Height"
 seo_title: "HUANUO Monitor Stand for Desk, Computer Monitor St Review"
 meta_description: "Our full huanuo monitor stand for desk, computer monitor stand height review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07NQMC2RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fpdVNC1xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Height-Adjustable Riser That Actually Fixes Neck Pain

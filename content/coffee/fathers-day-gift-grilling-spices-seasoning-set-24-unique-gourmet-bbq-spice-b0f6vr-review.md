@@ -1,4 +1,5 @@
 ---
+
 title: "Fathers Day Gift - Grilling Spices & Seasoning Set - 24 Uniq"
 seo_title: "Grilling Spices Set Review: 24 Unique Seasonings for Dad"
 meta_description: "Honest review of the 24-jar grilling spice set for Father's Day. Great variety, solid value, but check jar sizes. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F6VR75ZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DZ+zTZYML._SL1500_.jpg"
-pros:
+pros: 
   - "24 distinct blends cover everything from steak rubs to poultry seasoning — no filler duplicates"
   - "Shaker jars are resealable and small enough to grab straight from the crate to the grill"
   - "Crate-style wooden box doubles as countertop storage; looks intentional, not cluttered"
-cons:
+cons: 
   - "Jars hold roughly 1.5 oz each — enough for several cooks, not a year-long supply"
   - "No heat-level indicator on the labels; some 'smoky' blends have more kick than expected"
+
 ---
 
 If your dad already owns three aprons, two grill thermometers, and a spatula collection that would make a pro chef jealous, here's the gift that won't end up in next year's garage sale. This 24-jar grilling spice set has earned a 4.7-star average from 235 Amazon ratings — and for once, the hype mostly holds up. But before you hit buy, let's talk about what's actually in the crate.

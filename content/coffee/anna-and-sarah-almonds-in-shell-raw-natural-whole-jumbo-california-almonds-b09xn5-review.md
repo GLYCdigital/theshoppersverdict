@@ -1,4 +1,5 @@
 ---
+
 title: "Anna and Sarah Almonds In Shell, Raw, Natural, Whole, Jumbo"
 seo_title: "Anna and Sarah Almonds In Shell Review: Jumbo Raw Nuts"
 meta_description: "Honest Anna and Sarah in-shell almonds review: jumbo size, cracking ease, freshness, and value. See who should buy and who should skip."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09XN5PBXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S7Uphr8KL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely jumbo kernels inside — most shells contain large, plump almonds, not the shriveled bits you get from bargain bags"
   - "Shells crack cleanly with a standard nutcracker, minimal shard debris and very few duds per 2-pound bag"
   - "Fresh, sweet raw flavor with no rancid or stale notes — consistent across multiple purchases per buyer reports"
-cons:
+cons: 
   - "Some bags arrive with up to 10–15% of shells already cracked or split, which accelerates spoilage if you don't eat through them quickly"
   - "Inconsistent bag weights — a few buyers report receiving closer to 28 ounces than the advertised 32 ounces"
   - "No resealable closure on the bag, so you'll need your own storage container to keep them fresh long-term"
+
 ---
 
 Let's be clear about what we're dealing with here: this is a 2-pound bag of raw almonds still in their shells. No roasting, no salting, no flavoring. Just nuts. If that sounds boring, you're not the target audience. If that sounds like the most satisfying snack you can eat with your hands while watching a movie, keep reading.

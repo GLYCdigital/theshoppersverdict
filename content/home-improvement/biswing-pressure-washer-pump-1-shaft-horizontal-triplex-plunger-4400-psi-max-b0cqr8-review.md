@@ -1,24 +1,26 @@
 ---
+
 title: "Biswing Pressure Washer Pump, 1 inch  Shaft Horizontal Triplex Pl"
 seo_title: "Biswing Pressure Washer Pump Review: 1″ Shaft Triplex Plunger"
 meta_description: "Biswing 1″ shaft horizontal triplex plunger pump review: 4400 PSI max, real-world performance, durability, and who should buy it."
 slug: "biswing-pressure-washer-pump-1-shaft-horizontal-triplex-plunger-4400-psi-max-b0cqr8-review"
 image_alt: "Biswing horizontal triplex plunger pressure washer pump with 1 inch shaft"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQR8M46L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712isqoconL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 4400 PSI max rating with a 1″ solid shaft that fits most horizontal-shaft gas engines without an adapter"  
   - "Triplex ceramic plunger design delivers smoother, more consistent pressure than axial pumps — less pulsing"  
   - "Replaceable inlet/outlet fittings and a clear maintenance path; most owners report easy rebuilds"  
-cons:  
+cons: 
   - "No thermal relief valve included — you must add one if your pressure washer lacks it, or risk overheating in continuous use"  
   - "Some units arrive with loose oil fill cap or minor shipping oil seepage; check before first startup"  
   - "Rated for intermittent duty (30–45 min max) — not for commercial or all-day use"
+
 ---
 
 Let’s cut to the chase: if you’re replacing a dead pump on a 4,000+ PSI gas pressure washer, the Biswing horizontal triplex plunger pump is one of the most direct, budget-sensible options on Amazon right now. It’s not flashy. It’s not premium. But it does the job, and the 4.3-star rating from over 200 buyers reflects a product that mostly works as advertised.

@@ -1,5 +1,6 @@
 ---
-title: "AE86 15.6\" 2-in-1 Laptop | 16GB DDR4 RAM 512GB Storage | AMD"
+
+title: "AE86 15.6\ 2-in-1 Laptop | 16GB DDR4 RAM 512GB Storage | AMD"
 seo_title: "AE86 15.6 2-in-1 Laptop Review: 16GB RAM, AMD Power"
 meta_description: "Honest AE86 15.6 2-in-1 laptop review: 16GB DDR4 RAM, 512GB SSD, AMD processor. Real performance, build quality, and who should buy it."
 slug: "ae86-15-6-2-in-1-laptop-16gb-ddr4-ram-512gb-storage-b0f4qs-review"
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F4QSNH42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61drqy8soKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 16GB DDR4 RAM handles 20+ browser tabs and office suites without stuttering"
   - "Full 360-degree hinge converts to tablet/tent mode for presentations or watching media"
   - "512GB SSD boots Windows in under 15 seconds and provides ample file storage"
-cons:
+cons: 
   - "AMD processor lacks the graphical muscle for gaming or heavy video editing"
   - "Battery life averages 5-6 hours — short of the 8-10 hours office users expect"
   - "Plastic chassis flexes near the keyboard deck; feels less premium than price suggests"
+
 ---
 
 ## The AE86 2-in-1: A Budget Convertible That Gets the Job Done — With Caveats

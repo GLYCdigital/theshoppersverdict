@@ -1,4 +1,5 @@
 ---
+
 title: "Malibu C Malibu C Wellness Shampoo Conditioner Liter Duo"
 seo_title: "Malibu C Malibu C Wellness Shampoo Conditioner Lit Review"
 meta_description: "Our full malibu c malibu c wellness shampoo conditioner liter duo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMFM7JCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CZAZSduWL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the "wellness" marketing. The Malibu C Wellness Shampoo Conditioner Liter Duo is a hard-water fixer disguised as a luxury hair care set. If your shower water leaves your hair feeling like straw, this is one of the few over-the-counter options that actually addresses the root cause rather than just slathering on silicones.

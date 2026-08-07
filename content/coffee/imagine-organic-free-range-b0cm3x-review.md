@@ -1,4 +1,5 @@
 ---
+
 title: "Imagine Organic Free Range"
 seo_title: "Imagine Organic Free Range Review: Verdict | TSV"
 meta_description: "Our full imagine organic free range review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CM3XDMYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715CbBsXDfL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most "organic free range" coffee labels are marketing theater. The beans don't know they're free range. But Imagine's offering earns its 4.5-star average across 225 ratings for one specific reason — it brews consistently well across every method I threw at it.

@@ -1,4 +1,5 @@
 ---
+
 title: "SUNCOZE Outdoor Sectional Furniture, Outdoor Patio Furniture"
 seo_title: "SUNCOZE Outdoor Sectional Furniture, Outdoor Patio Review"
 meta_description: "Our full suncoze outdoor sectional furniture, outdoor patio furniture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DFTPSW8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OHRPQ4ZQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.7-Star Truth About the SUNCOZE Outdoor Sectional**

@@ -1,4 +1,5 @@
 ---
+
 title: "AKABIKE Blocking Shield Pad/Stick for Football Tackling, Bas"
 seo_title: "AKABIKE Blocking Shield Pad Review: Football & MMA Gear"
 meta_description: "AKABIKE blocking shield pad review: durable football tackling dummy for youth drills, basketball defense, and martial arts. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F8P966S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6112JwDL4pL._AC_SL1292_.jpg"
-pros:
+pros: 
   - "Thick multi-layer foam padding absorbs hard hits without transferring force to the holder's hands"
   - "Ergonomic grip handles on both sides allow for quick repositioning during fast-paced drills"
   - "Versatile enough for football tackling, basketball box-out practice, and MMA striking defense"
-cons:
+cons: 
   - "Cover material is smooth vinyl — can get slippery when hands sweat during extended sessions"
   - "No included carry strap; you'll need to buy a bag or sling for transport between fields"
+
 ---
 
 You know that drill — the one where you hold the pad and pray the running back doesn't break your wrist. The AKABIKE Blocking Shield Pad/Stick takes that fear off the table. This isn't a flimsy foam pillow pretending to be training gear. It's a legit tackling dummy that holds up to real contact, whether you're coaching youth football, running basketball box-out drills, or working striking defense in MMA.

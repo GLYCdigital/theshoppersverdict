@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Zero Gravity Chairs, Set of 2 Portable Recliner "
 seo_title: "Sweetcrispy Zero Gravity Chairs, Set of 2 Portable Review"
 meta_description: "Our full sweetcrispy zero gravity chairs, set of 2 portable recliner  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHZR16B7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cmyeu1+KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sweetcrispy Zero Gravity Chair Set: Two Chairs, Zero Gimmicks — Here's the Real Deal**

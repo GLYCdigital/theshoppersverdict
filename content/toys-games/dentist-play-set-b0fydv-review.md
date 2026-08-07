@@ -1,4 +1,5 @@
 ---
+
 title: "Dentist Play Set"
 seo_title: "Dentist Play Set Review: Is This Toy Drill Worth It?"
 meta_description: "We review the Dentist Play Set for kids. See what's inside, how the drill performs, and if it's worth the hype. Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FYDVCHD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719whSZVK9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Battery-powered drill actually vibrates and rotates, adding realism without being scary for toddlers"
   - "Included patient head with openable mouth makes solo play easy — no sibling required for role-play"
   - "Storage bag keeps the 15+ pieces organized, which parents will appreciate more than kids will"
-cons:
+cons: 
   - "Plastic tools feel light and hollow; aggressive kids could crack the drill casing if dropped"
   - "Batteries for the drill are not included (requires 2 AAA), so have spares ready on day one"
+
 ---
 
 If your kid has ever stared at you with a flashlight and a plastic spatula demanding to "check your teeth," you already know the drill (pun intended). The Dentist Play Set is the upgrade that turns that chaotic impulse into structured pretend play. With 225 ratings and a solid 4.5-star average, it’s clearly filling a cavity in the toy market — but is it worth the shelf space?

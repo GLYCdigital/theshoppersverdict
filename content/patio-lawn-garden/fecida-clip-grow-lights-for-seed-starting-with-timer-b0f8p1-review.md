@@ -1,4 +1,5 @@
 ---
+
 title: "FECiDA Clip Grow Lights for Seed Starting with Timer"
 seo_title: "FECiDA Clip Grow Light Review: Seed Starting With Timer (2026)"
 meta_description: "FECiDA Clip Grow Lights for Seed Starting with Timer: 4.6-star rated LED bars. Read our honest review on brightness, build, and real seedling results."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8P1RVKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GgfpGVL8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Daisy-chainable up to 6 units from a single outlet, so you can light an entire shelf setup without a power strip jungle"
   - "Built-in 3/6/12-hour timer with memory function — unplug it and it remembers the last setting when power returns"
   - "Full-spectrum LEDs with 10 dimmable brightness levels, giving you fine control from germination to transplant"
-cons:
+cons: 
   - "Clips max out at roughly 0.6 inches thick — they won't grip thicker wire shelving or wooden boards without shims"
   - "Cords between daisy-chained units are only about 4 feet, which can force awkward placement on wider shelves"
   - "No auto-off when the clip is detached; the timer keeps running even if the light is unplugged from the bar"
+
 ---
 
 Let’s cut to the chase: most clip-on grow lights are either too weak to actually start seeds or too bulky to fit anywhere useful. The FECiDA Clip Grow Light sits in a rare sweet spot — strong enough for real germination, compact enough to clip onto a standard wire shelf, and smart enough to run itself. After 229 ratings averaging 4.6 stars, the consensus is clear: this thing works. But it’s not perfect, and you need to know where it cuts corners before you buy.

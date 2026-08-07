@@ -1,4 +1,5 @@
 ---
+
 title: "Hikole 24v Kids Ride on Car with Width Seat, 2 Seater Batter"
 seo_title: "Hikole 24V 2-Seater Ride On Car Review: Worth It?"
 meta_description: "Hikole 24V 2-seater ride-on car review: power, battery life, and real parent feedback. See if this wide-seat electric car fits your kids."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GS5DFBPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71og+g5W66L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 24V dual-motor system delivers real torque, handles mild grass and inclines without bogging down"
   - "Wide bench seat fits two kids or one bigger child comfortably — most 2-seaters in this class feel cramped"
   - "Dual glove boxes, cup holders, and a working horn/MP3 input give it a genuinely car-like feel kids love"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes even with clear instructions; the front wheel alignment can be finicky"
   - "Battery life drops noticeably with two riders — expect 45–60 minutes max, not the advertised 2 hours"
   - "Plastic body panels feel thin around the wheel wells; aggressive curb-jumping can crack them"
+
 ---
 
 If you've got two kids close in age, you already know the problem: most "2-seater" ride-ons are really one kid plus a passenger who barely fits. The Hikole 24V actually solves that with a genuinely wide bench seat. But is the rest of the package worth your money? After digging through 220 ratings and the spec sheet, here's the real story.

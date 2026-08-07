@@ -1,4 +1,5 @@
 ---
+
 title: "mirrea H Type Track Lighting Head to E26 Medium Screw Base A"
 seo_title: "mirrea H Type Track Lighting Head to E26 Medium Sc Review"
 meta_description: "Our full mirrea h type track lighting head to e26 medium screw base a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GDSTHPRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jPi+14ULL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got an old H-type track system gathering dust, the mirrea E26 adapter is the cheap resurrection kit you've been looking for. This little head converts your dated track fixtures into something that accepts any modern screw-base bulb — no electrician required. But is it worth the $15-ish price tag with 220 ratings behind it? Let's dig in.

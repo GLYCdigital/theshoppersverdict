@@ -1,4 +1,5 @@
 ---
+
 title: "ORBIT Bubblemint Sugar-Free Chewing Gum Bulk Pack, 2 Bags - "
 seo_title: "ORBIT Bubblemint Sugar-Free Chewing Gum Bulk Pack, Review"
 meta_description: "Our full orbit bubblemint sugar-free chewing gum bulk pack, 2 bags -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGTQMVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713N7kqozUL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: you're not here for a gourmet coffee review. You want to know if this bulk ORBIT Bubblemint pack is worth your money and whether the gum actually delivers. I've chewed through enough of this stuff to give you the straight story.

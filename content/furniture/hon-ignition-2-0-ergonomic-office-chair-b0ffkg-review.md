@@ -1,4 +1,5 @@
 ---
+
 title: "HON Ignition 2.0 Ergonomic Office Chair"
 seo_title: "HON Ignition 2.0 Ergonomic Office Chair Review: Verdict |"
 meta_description: "Our full hon ignition 2.0 ergonomic office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFKG9JZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71geMGpUnsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most office chairs under $300 are disposable junk with wobbly gas lifts and padding that flattens in six months. The HON Ignition 2.0 isn't that. It's also not a $1,200 Herman Miller. It sits in a genuinely useful middle ground — and with a 4.4-star average across 220 ratings, owners mostly agree.

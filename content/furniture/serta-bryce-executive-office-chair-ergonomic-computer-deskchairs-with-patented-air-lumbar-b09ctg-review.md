@@ -1,4 +1,5 @@
 ---
+
 title: "Serta Bryce Executive Office Chair, Ergonomic Computer DeskC"
 seo_title: "Serta Bryce Executive Office Chair, Ergonomic Comp Review"
 meta_description: "Our full serta bryce executive office chair, ergonomic computer deskc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09CTG6WLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wHC85AyvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Serta Bryce Executive Office Chair walks a tightrope between "budget chair that'll fall apart" and "investment piece that costs a car payment." At its price point, it leans heavily toward the latter — mostly. Here's what you actually need to know before you click buy.

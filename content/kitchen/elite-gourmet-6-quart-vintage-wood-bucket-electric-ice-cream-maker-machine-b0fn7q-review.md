@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet 6 Quart Vintage Wood Bucket, Electric Ice Crea"
 seo_title: "Elite Gourmet 6 Qt Ice Cream Maker Review: Worth It?"
 meta_description: "Honest Elite Gourmet 6 Quart Vintage Wood Bucket electric ice cream maker review: performance, freezing times, noise level, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FN7QCYCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AN6zC5RTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six-quart capacity actually delivers 4 quarts of finished ice cream — enough for a serious party crowd"
   - "The vintage wood bucket look is real wood, not cheap plastic print; hides the electric motor well"
   - "Dual-motor design churns consistently without stalling even on thick, custard-heavy bases"
-cons:
+cons: 
   - "You must pre-freeze the canister for 24+ hours — it won't fit in most standard freezer shelves upright"
   - "The wood bucket is purely decorative; it adds visual charm but zero insulation value"
   - "No automatic shutoff — you'll need to monitor churning yourself or risk over-churning into butter"
+
 ---
 
 Let me be blunt about the Elite Gourmet 6 Quart Vintage Wood Bucket electric ice cream maker: this is a machine with a split personality. It wants to be a nostalgic, farmhouse-chic centerpiece for your kitchen counter, but underneath that wooden shell, it's a serious, high-capacity workhorse. The tension between those two identities creates some real tradeoffs — and some genuine wins.

@@ -1,4 +1,5 @@
 ---
+
 title: "Heinz Tomato Ketchup, 14 oz Bottle"
 seo_title: "Heinz Tomato Ketchup, 14 oz Bottle Review: Verdict | TSV"
 meta_description: "Our full heinz tomato ketchup, 14 oz bottle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0005YKO8E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HRg2S2fbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest — ketchup is the most contested condiment in America, and Heinz is the name everyone throws around. But does the 14 oz bottle actually deliver, or is it just brand inertia? I've tested this against generics and the "fancy" organic options, and the results might surprise you.

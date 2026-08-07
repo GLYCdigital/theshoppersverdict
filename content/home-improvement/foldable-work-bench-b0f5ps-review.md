@@ -1,4 +1,5 @@
 ---
+
 title: "Foldable Work Bench"
 seo_title: "Foldable Work Bench Review: Solid Support or Gimmick?"
 meta_description: "Read our honest foldable work bench review covering stability, weight capacity, and portability. Is it worth the money? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5PSLXHD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WnWAIjk5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sturdy construction — steel frame and reinforced legs hold up to serious sawing and planing without wobble"
   - "Clamping system works as advertised; holds odd-shaped workpieces securely without marring the surface"
   - "Folds flat in under 30 seconds without tools — stores easily in a closet or behind a door"
-cons:
+cons: 
   - "At roughly 30 pounds, it's not ultralight — fine for garage-to-driveway moves but not something you want to haul to jobsites daily"
   - "The vise capacity tops out around 4 inches; thicker stock like 6x6 posts won't fit the clamps"
+
 ---
 
 A foldable work bench is one of those tools that looks like a gimmick until you actually need one. Then it's the difference between cutting 2x4s on sawhorses and a wobbling cinder block, or actually having a stable surface at the exact height you need. This one, with a 4.7-star average across 235 ratings, has clearly earned its place in a lot of garages. Here's the real story.

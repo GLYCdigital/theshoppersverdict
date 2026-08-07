@@ -1,4 +1,5 @@
 ---
+
 title: "Qrooper Toss and Catch Game Set, Toys for Kids Ages 4-8, Cam"
 seo_title: "Qrooper Toss and Catch Game Set, Toys for Kids Age Review"
 meta_description: "Our full qrooper toss and catch game set, toys for kids ages 4-8, cam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DG8ZDKVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fv-y-Kz-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Qrooper Toss and Catch Game Set Review: Is This the Best First Catch Toy for Your 4-8 Year Old?**

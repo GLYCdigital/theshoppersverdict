@@ -1,4 +1,5 @@
 ---
+
 title: "HOOPLE Flag Pole Holder for Outside House, Flag Holder, Flag"
 seo_title: "HOOPLE Flag Pole Holder for Outside House, Flag Ho Review"
 meta_description: "Our full hoople flag pole holder for outside house, flag holder, flag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTK4FYR9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715q9hyEPAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most flag pole holders are flimsy pieces of stamped metal that corrode within a season. The HOOPLE Flag Pole Holder for Outside House is not that. With a 4.6-star average across 229 ratings, this bracket has earned its place on thousands of porches. But is it right for your specific setup? Here’s the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Northriver Casting Enamel Cast Iron Bread Pan Loaf Pan COLOR"
 seo_title: "Northriver Casting Enamel Cast Iron Bread Pan Loaf Review"
 meta_description: "Our full northriver casting enamel cast iron bread pan loaf pan color review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DNBGXLX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tx64ZEZJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Heavyweight Champion of Home Bread Baking

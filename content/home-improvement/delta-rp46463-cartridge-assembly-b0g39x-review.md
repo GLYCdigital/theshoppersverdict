@@ -1,4 +1,5 @@
 ---
+
 title: "Delta RP46463 Cartridge Assembly,"
 seo_title: "Delta RP46463 Cartridge Review: Fix That Drip in Minutes"
 meta_description: "Delta RP46463 cartridge review: Does this $20 replacement stop faucet drips? Real pros, cons, and installation tips from 225 verified buyers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G39X9BVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616TMdWQAYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drops into any Delta two-handle faucet — no specialized tools beyond a hex key and pliers"
   - "Nylon housing with brass stem resists mineral buildup better than older plastic-only versions"
   - "Consistent water flow with no chattering or pressure loss even at 60 PSI"
-cons:
+cons: 
   - "Only fits Delta faucets — universal brands like Moen or Pfister need their own cartridges"
   - "No o-rings or grease included; you'll buy a tube of faucet grease separately"
+
 ---
 
 A dripping faucet isn't just annoying — it's literally money going down the drain. A single leaky hot water handle can waste thousands of gallons a year. That's where the Delta RP46463 cartridge assembly comes in. This is the replacement part for virtually every two-handle Delta faucet made since the 1990s, and at roughly $20, it's the cheapest fix you'll find short of calling a plumber (who'll charge you $150 minimum).

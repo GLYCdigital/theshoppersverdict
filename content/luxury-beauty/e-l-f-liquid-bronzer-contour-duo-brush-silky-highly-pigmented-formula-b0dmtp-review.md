@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Liquid Bronzer & Contour Duo Brush, Silky Highly Pigm"
 seo_title: "e.l.f. Liquid Bronzer & Contour Duo Brush Review (2026)"
 meta_description: "Honest e.l.f. Liquid Bronzer & Contour Duo Brush review: silky, highly pigmented formula, dual-ended brush, blendability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMTP4XG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yzI8EUWEL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual-ended design pairs a precision contour tip with a fluffy blend brush — no separate tools needed"
   - "Highly pigmented formula means one drop covers both cheeks; a single tube lasts months"
   - "Silky, non-sticky texture dries down to a natural skin-like finish without patchiness"
-cons:
+cons: 
   - "Shade range is limited to 4 options — deeper skin tones may struggle to find a match"
   - "Liquid can separate slightly if stored upright for long periods; needs a shake before each use"
+
 ---
 
 **The $10 bronzer that makes $40 formulas look like a ripoff**

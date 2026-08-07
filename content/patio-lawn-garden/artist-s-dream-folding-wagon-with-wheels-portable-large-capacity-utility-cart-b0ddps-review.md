@@ -1,4 +1,5 @@
 ---
+
 title: "ARTIST'S DREAM Folding Wagon With Wheels - Portable Large Ca"
 seo_title: "ARTIST'S DREAM Folding Wagon Review (2026): Worth It?"
 meta_description: "Honest ARTIST'S DREAM folding wagon review: capacity, durability, real user feedback. Is this portable cart worth your money? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDPSX6VQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V8Y-m0ywL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Collapsible design folds flat in seconds with one-hand pull strap, storing upright in tight spaces"
   - "All-terrain wheels with front swivel locks handle grass, gravel, and uneven patio pavers without tipping"
   - "Rigid internal frame holds shape even when overloaded — no sagging floor like cheaper wagons"
-cons:
+cons: 
   - "No brake system on rear wheels — wagon can roll on slopes when parked (several users flagged this)"
   - "Folded dimensions still bulky at 8 inches thick; won't fit under most car seats or compact trunks"
   - Handle height fixed at 39 inches — taller users (6'2 inch+) will hunch when pulling
+
 ---
 
 The folding wagon market is crowded with flimsy lookalikes that collapse at the first bump. The ARTIST'S DREAM Folding Wagon, sitting at 4.4 stars across 220 ratings, claims to be different. After digging through customer feedback and examining the specs, here's the honest story.

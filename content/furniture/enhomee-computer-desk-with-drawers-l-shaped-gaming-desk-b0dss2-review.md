@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee Computer Desk with Drawers L Shaped Gaming Desk"
 seo_title: "EnHomee L Shaped Desk Review: Drawers, Value, 2026 inch"
 meta_description: "Honest EnHomee L-shaped gaming desk review: build quality, drawer storage, assembly time, and who should buy it. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSS2S25G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91G1aEtAypL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated dual storage drawers with smooth metal slides — genuinely useful, not decorative"
   - "Generous L-shaped footprint with a large 54.3-inch main surface that fits dual monitors plus peripherals"
   - "Reversible L-configuration lets you set up left or right to match your room layout"
-cons:
+cons: 
   - "Assembling the drawer slides correctly is fiddly — budget 60-90 minutes and read the manual twice"
   - "Particle board construction means you should avoid over-torquing screws or the holes will strip"
+
 ---
 
 **The EnHomee L-Shaped Desk: More Than Just Another Corner Clutter Catcher**

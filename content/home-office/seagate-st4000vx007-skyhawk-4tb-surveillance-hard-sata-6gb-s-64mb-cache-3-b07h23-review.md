@@ -1,4 +1,5 @@
 ---
+
 title: "SEAGATE ST4000VX007 Skyhawk 4TB Surveillance Hard SATA 6Gb/s"
 seo_title: "SEAGATE ST4000VX007 Skyhawk 4TB Surveillance Hard  Review"
 meta_description: "Our full seagate st4000vx007 skyhawk 4tb surveillance hard sata 6gb/s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07H231394/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C+v0x4vbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Seagate SkyHawk 4TB (ST4000VX007) isn't a flashy product. It's a workhorse — a purpose-built 3.5-inch drive designed to sit inside a network video recorder (NVR) or digital video recorder (DVR) and write surveillance footage around the clock. If you're building a security system for a home, small office, or retail space, this is the kind of component that quietly determines whether your footage is there when you need it.

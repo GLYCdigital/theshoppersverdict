@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Junior Lollipop Rings, Mickey Mouse, Minnie, and Plut"
 seo_title: "Disney Junior Lollipop Rings Review: Mickey, Minnie & Pluto"
 meta_description: "Honest Disney Junior Lollipop Rings review: individually wrapped candy rings featuring Mickey, Minnie & Pluto. See what 229 buyers say about flavor, value, and party use."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CY3L9DPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815OHBY1pAL._SL1500_.jpg"
-pros:
+pros: 
   - "Individually wrapped rings keep candy fresh and make handing out at parties, classrooms, or goody bags mess-free"
   - "Three character designs — Mickey, Minnie, and Pluto — give variety that kids actually get excited about"
   - "Solid candy ring construction that doesn't crack or shatter easily when little hands squeeze them"
-cons:
+cons: 
   - "Smaller than they look in photos — each ring is roughly the size of a quarter, so portion expectations should be adjusted"
   - "Flavor is generic fruit punch with no distinct character-specific taste differences"
+
 ---
 
 Look, I'm not going to pretend these Disney Junior Lollipop Rings are gourmet confectionery. They're not. But if you're shopping for a kids' party, classroom reward, or stocking stuffer, these little character rings do exactly what they need to do — and the 4.6-star rating from 229 buyers backs that up.

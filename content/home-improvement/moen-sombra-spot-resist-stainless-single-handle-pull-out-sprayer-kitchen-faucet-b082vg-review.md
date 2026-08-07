@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Sombra Spot Resist Stainless Single-Handle Pull-Out Spr"
 seo_title: "Moen Sombra Spot Resist Stainless Single-Handle Pu Review"
 meta_description: "Our full moen sombra spot resist stainless single-handle pull-out spr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B082VGZXX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512YamQnGOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Moen Sombra is the kitchen faucet equivalent of buying a Toyota Camry — it won't make your guests gasp, but it'll start every morning for a decade without drama. With a 4.6-star average across 229 Amazon ratings, it's clearly doing something right. Here's what that something is, and where it falls short.

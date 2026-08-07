@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO 4-Tier AV Media Stand, Media Console with Charging St"
 seo_title: "HOOBRO 4-Tier AV Media Stand, Media Console with C Review"
 meta_description: "Our full hoobro 4-tier av media stand, media console with charging st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHR7139D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cRa+i1G2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the HOOBRO 4-Tier AV Media Stand isn't trying to be a $900 piece of walnut furniture. It's a functional, open-concept media console that nails the essentials — including a built-in charging station — for a price that won't make you wince. Here's the breakdown after digging through 215 Amazon ratings and the specs.

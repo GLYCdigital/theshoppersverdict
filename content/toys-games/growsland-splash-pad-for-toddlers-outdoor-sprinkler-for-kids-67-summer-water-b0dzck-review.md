@@ -1,4 +1,5 @@
 ---
+
 title: "Growsland Splash Pad for Toddlers, Outdoor Sprinkler for Kid"
 seo_title: "Growsland Splash Pad Review: Toddler Water Fun Tested"
 meta_description: "Honest Growsland Splash Pad review for toddlers. Covers durability, setup, safety, and real buyer feedback. Is this outdoor sprinkler worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZCKH9BD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DKlylDFLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Anti-slip textured bottom stays put on grass and concrete, even with kids running on it wet"
   - "Thick 0.4mm PVC material resists punctures from toys and rough play, outlasting cheaper splash pads"
   - "Quick-connect hose adapter means setup takes under 60 seconds — no tools or wrestling with clamps"
-cons:
+cons: 
   - "Small puddle forms in the center where water pools, which can get slippery for unsteady toddlers"
   - "Not a heavy-duty inflatable — it's a flat mat, so older kids (6+) may find it boring quickly"
+
 ---
 
 Let me be blunt: most toddler splash pads are disposable junk that tear before July. The Growsland Splash Pad is not that. With 215 ratings holding a solid 4.3 average, this one has staying power. But is it right for your backyard? Here's what I found after digging through the specs and real buyer experiences.

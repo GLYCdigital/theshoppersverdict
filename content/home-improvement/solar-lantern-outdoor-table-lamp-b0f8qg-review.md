@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lantern Outdoor Table Lamp"
 seo_title: "Solar Lantern Outdoor Table Lamp Review: Verdict | TSV"
 meta_description: "Our full solar lantern outdoor table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8QG18LB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jGPy-aaFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve browsed solar lighting on Amazon lately, you know the category is a swamp of identical-looking fixtures with inflated claims. This solar lantern table lamp stands apart for one simple reason: real owners confirm it does what it promises. With 220 ratings averaging 4.4 stars, it’s not perfect — but it might be the right pick for your patio, deck, or entryway.

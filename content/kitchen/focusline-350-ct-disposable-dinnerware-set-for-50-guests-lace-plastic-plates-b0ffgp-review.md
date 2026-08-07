@@ -1,4 +1,5 @@
 ---
+
 title: "FOCUSLINE 350 Ct Disposable Dinnerware Set for 50 Guests, La"
 seo_title: "FOCUSLINE 350 Ct Disposable Dinnerware Set Review (2026)"
 meta_description: "Honest FOCUSLINE 350 ct disposable dinnerware set review: 50-guest capacity, durability, leakage test, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FFGPBC5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vUvJbnjXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plates actually hold up to hot, greasy foods without bending or leaking through — verified by multiple long-term reviewers"
   - "The lace embossed pattern looks genuinely premium, not like cheap party plates; guests routinely mistake them for real ceramic"
   - "Complete 350-piece kit covers 50 guests with zero overlap — plates, bowls, cutlery, and napkins all accounted for"
-cons:
+cons: 
   - "Knives are noticeably flimsier than forks and spoons — they struggle with steak or anything requiring real cutting force"
   - "No cups included in the set — you'll need to buy drinkware separately, which is a surprise given the 'complete' positioning"
   - "The scalloped plate edges collect food residue in the crevices; hand-washing leftovers before recycling is a minor annoyance"
+
 ---
 
 Let’s cut through the party-supply aisle noise. You’ve seen those flimsy foam plates that buckle under a scoop of baked beans. The FOCUSLINE 350 Ct Disposable Dinnerware Set is not that. At 4.7 stars from 235 Amazon ratings, this is the set that shows up when you’re feeding 50 people and don’t want to apologize for the plates.

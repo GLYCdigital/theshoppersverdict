@@ -1,4 +1,5 @@
 ---
+
 title: "L'OrÃ©al Paris Colour Riche Eye La Palette Eye Shadow"
 seo_title: "L'OrÃ©al Paris Colour Riche Eye La Palette Eye Sha Review"
 meta_description: "Our full l'orã©al paris colour riche eye la palette eye shadow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00H2MZ5QI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91f81AkN2KL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # L'Oréal Paris Colour Riche Eye La Palette: Solid, But Know What You're Buying

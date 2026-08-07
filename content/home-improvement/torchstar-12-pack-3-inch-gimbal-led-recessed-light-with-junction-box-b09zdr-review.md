@@ -1,4 +1,5 @@
 ---
+
 title: "TORCHSTAR 12-Pack 3 Inch Gimbal LED Recessed Light with Junc"
 seo_title: "TORCHSTAR 12-Pack 3 Inch Gimbal LED Recessed Light Review"
 meta_description: "Our full torchstar 12-pack 3 inch gimbal led recessed light with junc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZDR4Z41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-sUMJAPIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wired a traditional recessed can, you know the drill: housing, separate trim, bulb, then balancing the spring clips while lying on your back. TORCHSTAR's 3-inch gimbal recessed light kills that whole song-and-dance — each unit has the LED module, gimbal, and junction box fused into one 3-inch package. At 4.6 stars across 229 ratings, it's not just convenient; it's genuinely well-reviewed. Here's the real breakdown.

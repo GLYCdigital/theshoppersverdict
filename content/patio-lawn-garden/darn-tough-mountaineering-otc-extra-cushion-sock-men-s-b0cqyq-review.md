@@ -1,4 +1,5 @@
 ---
+
 title: "Darn Tough Mountaineering OTC Extra Cushion Sock - Men's"
 seo_title: "Darn Tough Mountaineering Sock Review: OTC Extra Cushion"
 meta_description: "Darn Tough Mountaineering OTC Extra Cushion sock review: 4.8-star rated, lifetime warranty, merino wool comfort. Is it worth $30? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQYQPD33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1IbWoR+sOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Unconditional lifetime warranty backs a true workhorse sock"
   - "Over-the-calf height and extra cushioning prevent boot chafe on long hikes"
   - "Merino wool blend manages moisture and odor far better than cotton"
-cons:
+cons: 
   - "Premium price point, typically $28–$32 per pair"
   - "Extra cushioning runs warm in summer or on high-output trails"
   - "Some users report sizing runs slightly large, especially in the calf"
+
 ---
 
 Let’s cut through the noise: the Darn Tough Mountaineering OTC Extra Cushion sock is the pair you’ll grab when the trail gets serious. With a 4.8-star average across 240 Amazon ratings, this isn’t a flash-in-the-pan novelty product. It’s a purpose-built hiking sock with a lifetime warranty, and for anyone logging real miles in boots, it earns its reputation.

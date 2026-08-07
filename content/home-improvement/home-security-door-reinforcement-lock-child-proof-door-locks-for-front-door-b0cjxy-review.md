@@ -1,4 +1,5 @@
 ---
+
 title: "Home Security Door Reinforcement Lock - Child Proof Door Loc"
 seo_title: "Home Security Door Reinforcement Lock - Child Proo Review"
 meta_description: "Our full home security door reinforcement lock - child proof door loc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJXYRJ8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613RrK0e3EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 Fix That Actually Stops a Determined Toddler**

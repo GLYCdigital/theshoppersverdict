@@ -1,4 +1,5 @@
 ---
+
 title: "Lyromix Dog Kennel Outdoor with Roof and Openable Feeding Do"
 seo_title: "Lyromix Dog Kennel Outdoor with Roof and Openable  Review"
 meta_description: "Our full lyromix dog kennel outdoor with roof and openable feeding do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FJF9567F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ud9SoYJrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 3.6-star average on 180 ratings tells you one thing immediately: this kennel is a mixed bag. Some owners swear by it. Others wanted to throw the Allen wrench across the yard. Here's the honest breakdown so you know which camp you'll land in.

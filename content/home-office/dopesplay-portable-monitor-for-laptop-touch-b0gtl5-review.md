@@ -1,4 +1,5 @@
 ---
+
 title: "Dopesplay Portable Monitor for Laptop Touch"
 seo_title: "Dopesplay Portable Touch Monitor Review: Worth It?"
 meta_description: "Dopesplay portable touch monitor review: 15.6-inch IPS display, USB-C connectivity, and touch performance. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GTL5W18P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WIU0n7OcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10-point capacitive touch works with Windows, Android, and Switch — no driver installation needed for basic display output"
   - "Dual USB-C ports plus mini-HDMI give real flexibility for connecting modern laptops, older machines, and gaming consoles"
   - "1920x1080 IPS panel at 60Hz delivers sharp text and accurate enough colors for spreadsheet work and media consumption"
-cons:
+cons: 
   - "Touch function requires a separate USB-C data cable on many laptops — the single-cable setup only works with full-featured USB-C ports"
   - "Built-in speakers are genuinely weak, topping out around 70dB with tinny audio that's fine for alerts but poor for video"
   - "HDR support is nominal — the 300-nit panel lacks the brightness range to make HDR content look meaningfully different from SDR"
+
 ---
 
 Let me cut through the marketing language: the Dopesplay Portable Monitor for Laptop Touch is a 15.6-inch IPS panel with a 1920x1080 resolution, 60Hz refresh rate, and 10-point capacitive touch. At roughly 1.7 pounds with a thickness around 0.3 inches, it's genuinely portable — it'll slide into a laptop bag's tablet sleeve without complaint. The aluminum alloy body feels more premium than the price point suggests, and the included smart cover doubles as a stand with three viewing angles.

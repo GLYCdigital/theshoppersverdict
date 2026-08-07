@@ -1,4 +1,5 @@
 ---
+
 title: "Senior Grain Free Dog Food"
 seo_title: "Senior Grain Free Dog Food Review: Verdict | TSV"
 meta_description: "Our full senior grain free dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08LPXB1VS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YTrwSkJ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your dog's golden years come with a specific set of problems: creaky joints, fading teeth, and a gut that's pickier than it used to be. This Senior Grain Free formula aims to address all three, and with 229 Amazon ratings averaging 4.6 stars, it's clearly hitting the mark for many owners. But is it right for *your* senior?

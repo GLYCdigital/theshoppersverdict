@@ -1,4 +1,5 @@
 ---
+
 title: "DOTS Individually Wrapped Candy Holiday"
 seo_title: "DOTS Individually Wrapped Candy Holiday Review (2026)"
 meta_description: "DOTS Individually Wrapped Candy Holiday review: real shopper insights on portion control, freshness, and value. Is this 4.7-star candy worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWK5D3NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wNvO4bSjL._SL1200_.jpg"
-pros:
+pros: 
   - "Individual wrapping keeps candy fresh for months and makes portion control effortless"
   - "Holiday-themed packaging works well for stocking stuffers, advent calendars, and party favors"
   - "Classic DOTS flavor profile (strawberry, cherry, orange, grape, lemon) remains consistent batch to batch"
-cons:
+cons: 
   - "No variety in texture — all gumdrops, so if you want chocolate or hard candy this isn't it"
   - "Individual wrappers create more waste than bulk bags; eco-conscious buyers may balk"
   - "Holiday packaging means off-season pricing can spike; buy ahead or wait for clearance"
+
 ---
 
 Let's be direct about what this is: DOTS individually wrapped candy in holiday packaging. It's not coffee gear. It's not a gadget. It's a bag of gumdrops that solves a specific problem — and it solves it well enough to earn a 4.7-star average across 235 ratings.

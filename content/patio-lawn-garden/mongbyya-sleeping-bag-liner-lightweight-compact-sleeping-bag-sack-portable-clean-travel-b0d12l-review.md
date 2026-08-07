@@ -1,4 +1,5 @@
 ---
+
 title: "MongByYa Sleeping Bag Liner Lightweight Compact Sleeping Bag"
 seo_title: "MongByYa Sleeping Bag Liner Lightweight Compact Sl Review"
 meta_description: "Our full mongbyya sleeping bag liner lightweight compact sleeping bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D12L8KSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YESLXC6dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MongByYa Sleeping Bag Liner solves a problem most travelers don't realize they have until 2 AM in a questionable hostel: you don't want to sleep directly on that mattress. This $26 liner adds a clean, comfortable barrier between you and whatever has happened on that surface before you arrived. After testing it across a long weekend of camping and a hotel stay, here's the honest breakdown.

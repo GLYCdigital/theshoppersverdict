@@ -1,4 +1,5 @@
 ---
+
 title: "Tully's Coffee House Blend, K-Cup for Keurig Brewers"
 seo_title: "Tully's Coffee House Blend, K-Cup for Keurig Brewe Review"
 meta_description: "Our full tully's coffee house blend, k-cup for keurig brewers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B006P5R5O8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DN8Df0c1L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've had one too many Keurig cups that taste like hot brown water. You want something that actually delivers café-level flavor without leaving the house. Tully's Coffee House Blend is one of the few K-Cups that consistently threads that needle — and with a 4.7-star average across 235 ratings, I'm not the only one saying it.

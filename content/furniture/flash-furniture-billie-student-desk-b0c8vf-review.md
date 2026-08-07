@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture Billie Student Desk Review"
 seo_title: "Flash Furniture Billie Student Desk Review (2026): Worth It?"
 meta_description: "Flash Furniture Billie Student Desk review: sturdy steel frame, 4.6-star rating. See real pros, cons, and who should buy this compact study desk."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8VFGGF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ysHkk-1JS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-width steel modesty panel adds genuine rigidity — no wobble even with heavy writing pressure"
   - "Cable management slot at the rear keeps chargers and laptop cords organized without extra accessories"
   - "Laminate surface resists scratches and wipes clean easily — survives markers, coffee rings, and glue sticks"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 30 minutes — bolts are small and easy to drop"
   - No height adjustment — fixed at 29 inches, which may be low for taller teens or adults over 5'10 inch "
+
 ---
 
 Let's be blunt: most budget student desks are flimsy, wobbly disasters that collapse under the weight of a single textbook. The Flash Furniture Billie Student Desk isn't that. With 229 ratings and a 4.6-star average, this compact workhorse has earned its reputation. But is it right for your kid's bedroom, dorm room, or home office corner? Here's the real story after digging through what buyers actually say.

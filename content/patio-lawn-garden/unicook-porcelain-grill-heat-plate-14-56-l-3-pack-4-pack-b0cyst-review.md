@@ -1,7 +1,8 @@
 ---
-title: "Unicook Porcelain Grill Heat Plate 14.56\" L, 3 Pack,4 Pack,5"
-seo_title: "Unicook Porcelain Grill Heat Plate 14.56\" L, 3 Pac Review"
-meta_description: "Our full unicook porcelain grill heat plate 14.56\" l, 3 pack,4 pack,5 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Unicook Porcelain Grill Heat Plate 14.56\ L, 3 Pack,4 Pack,5"
+seo_title: "Unicook Porcelain Grill Heat Plate 14.56\ L, 3 Pac Review"
+meta_description: "Our full unicook porcelain grill heat plate 14.56\ l, 3 pack,4 pack,5 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "unicook-porcelain-grill-heat-plate-14-56-l-3-pack-4-pack-b0cyst-review"
 image_alt: "Unicook Porcelain Grill Heat Plate 14.56 L, 3 Pack,4 Pack,5 Pack, 6 Pack"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYST19F7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71skvM3m1IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Unicook Porcelain Grill Heat Plate: The Replacement Part You Didn't Know You Needed

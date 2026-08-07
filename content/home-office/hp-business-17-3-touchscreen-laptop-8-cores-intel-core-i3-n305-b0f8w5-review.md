@@ -1,7 +1,8 @@
 ---
-title: "HP Business 17.3\" Touchscreen Laptop, 8-Cores Intel Core i3-"
-seo_title: "HP Business 17.3\" Touchscreen Laptop, 8-Cores Inte Review"
-meta_description: "Our full hp business 17.3\" touchscreen laptop, 8-cores intel core i3- review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Business 17.3\ Touchscreen Laptop, 8-Cores Intel Core i3-"
+seo_title: "HP Business 17.3\ Touchscreen Laptop, 8-Cores Inte Review"
+meta_description: "Our full hp business 17.3\ touchscreen laptop, 8-cores intel core i3- review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-business-17-3-touchscreen-laptop-8-cores-intel-core-i3-n305-b0f8w5-review"
 image_alt: "HP Business 17.3 Touchscreen Laptop, 8-Cores Intel Core i3-N305, Webcam, HDMI, Wi-Fi 6, Windows 11 Pro, Silver"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F8W5S8JT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TU4tp180L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 17.3-inch laptop under $500 usually means compromises. Big screen, weak internals. But the HP Business 17.3" Touchscreen flips part of that script with the 8-core Intel Core i3-N305 — a chip that's genuinely more capable than the Celeron or Pentium processors most budget big-screens ship with. After digging through 210 ratings and the spec sheet, here's the real story.

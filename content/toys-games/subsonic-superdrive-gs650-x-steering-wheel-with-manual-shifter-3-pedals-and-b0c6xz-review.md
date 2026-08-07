@@ -1,4 +1,5 @@
 ---
+
 title: "SUBSONIC - Superdrive GS650-X Steering Wheel with Manual Shi"
 seo_title: "SUBSONIC - Superdrive GS650-X Steering Wheel with  Review"
 meta_description: "Our full subsonic - superdrive gs650-x steering wheel with manual shi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0C6XZBQ58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712ZdU6uvcL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SUBSONIC Superdrive GS650-X is the rare budget racing wheel that actually has force feedback — not the "rumble-in-a-box" fake stuff you get from most wheels under $150. It's not a Logitech G923 killer, but if you're coming from a controller and want to feel the road without emptying your wallet, this deserves a hard look.

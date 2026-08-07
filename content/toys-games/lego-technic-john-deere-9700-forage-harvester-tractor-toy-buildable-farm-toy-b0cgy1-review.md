@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic John Deere 9700 Forage Harvester Tractor Toy, B"
 seo_title: "LEGO Technic John Deere 9700 Forage Harvester Trac Review"
 meta_description: "Our full lego technic john deere 9700 forage harvester tractor toy, b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGY1TZMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817sNJA41XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most LEGO Technic farm equipment sets are either too simple to satisfy adult builders or so complex they intimidate kids. The John Deere 9700 Forage Harvester sits in a sweet spot that explains its 4.8-star average across 240 ratings. This is a proper machine, not a glorified brick box.

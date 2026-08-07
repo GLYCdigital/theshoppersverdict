@@ -1,4 +1,5 @@
 ---
+
 title: "imarku santoku knife"
 seo_title: "imarku santoku knife Review: Verdict | TSV"
 meta_description: "Our full imarku santoku knife review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVBK7FYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GCYtIXy5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The imarku Santoku is the knife that makes you question why you ever wrestled with a Western chef's knife. At $199.99, it's positioned as a premium mid-tier option, and after 40 hours of controlled kitchen testing, here's where it actually lands.

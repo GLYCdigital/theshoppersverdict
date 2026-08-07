@@ -1,4 +1,5 @@
 ---
+
 title: "XPG CORE Reactor Watt 80 Plus Gold Certified Fully Modular P"
 seo_title: "XPG CORE Reactor Watt 80 Plus Gold Certified Fully Review"
 meta_description: "Our full xpg core reactor watt 80 plus gold certified fully modular p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07Z8J8QM5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91avQrPddEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **XPG CORE Reactor Watt 80 Plus Gold Certified Fully Modular P** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

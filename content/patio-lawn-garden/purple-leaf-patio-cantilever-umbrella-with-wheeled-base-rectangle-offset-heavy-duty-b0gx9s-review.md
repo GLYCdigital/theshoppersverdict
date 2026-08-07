@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Patio Cantilever Umbrella with Wheeled Base Rect"
 seo_title: "PURPLE LEAF Patio Cantilever Umbrella with Wheeled Review"
 meta_description: "Our full purple leaf patio cantilever umbrella with wheeled base rect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GX9S56TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ua1yfE30L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cantilever umbrellas are a compromise. You either get a cheap offset frame that wobbles in a light breeze, or you pay premium prices for a base that weighs more than your grill. The PURPLE LEAF Rectangular Cantilever Umbrella sits somewhere more interesting — it's the first offset umbrella in this price tier that actually solves the two biggest problems shoppers complain about: stability and repositioning.

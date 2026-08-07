@@ -1,4 +1,5 @@
 ---
+
 title: "Bath & Body Works Champagne Toast Fine Fragrance Mist, Body"
 seo_title: "Champagne Toast Fine Fragrance Mist Review (2026)"
 meta_description: "Bath & Body Works Champagne Toast Fine Fragrance Mist review: scent, longevity, value. Is this 4.7-star body spray worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09XT4QB6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x2feS+IvL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, effervescent scent that layers well with matching lotion and shower gel"
   - "8 fl oz bottle delivers months of daily use at a fraction of designer perfume cost"
   - "Lightweight mist formula won't stain clothing or trigger headaches like heavier sprays"
-cons:
+cons: 
   - "Longevity is modest — expect 2-4 hours before needing reapplication"
   - "Scent leans sweet and fruity, which may read too youthful for some preferences"
+
 ---
 
 You know that feeling when you open a bottle of something and it instantly transports you? That's the entire game with Bath & Body Works Champagne Toast Fine Fragrance Mist. It's been a core lineup staple for over a decade, and with 235 ratings averaging 4.7 stars, it's clearly doing something right. But is it worth your money, or just another pretty bottle on the shelf?

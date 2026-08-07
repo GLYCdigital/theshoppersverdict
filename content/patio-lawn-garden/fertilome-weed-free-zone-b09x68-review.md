@@ -1,4 +1,5 @@
 ---
+
 title: "Fertilome Weed Free Zone"
 seo_title: "Fertilome Weed Free Zone Review: Does It Kill Weeds?"
 meta_description: "Fertilome Weed Free Zone review: 4.3/5 rated weed killer. Does it handle clover, dandelions, and tough broadleaf weeds? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09X686CFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mm7+EI2gL._SL1500_.jpg"
-pros:
+pros: 
   - "Kills over 200 broadleaf weeds including clover, dandelions, and poison ivy without harming established lawns"
   - "Visible results in 24-48 hours, with complete kill typically within 1-2 weeks"
   - "Available in multiple formats (ready-to-spray, concentrate, granule) to fit different yard sizes and sprayer setups"
-cons:
+cons: 
   - "Not effective on grassy weeds like crabgrass — you'll need a separate product for those"
   - "Chemical odor is noticeable for a few hours after application; keep kids and pets off the lawn until dry"
+
 ---
 
 You've got clover creeping through the fescue, dandelions staging a takeover, and you're tired of hand-pulling. Fertilome Weed Free Zone is the broadleaf herbicide that keeps showing up in lawn care forums — and with a 4.3-star average across 215 Amazon ratings, it's earned a reputation. Here's what you need to know before you buy.

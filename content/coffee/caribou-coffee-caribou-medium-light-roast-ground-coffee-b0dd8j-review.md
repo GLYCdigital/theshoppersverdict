@@ -1,4 +1,5 @@
 ---
+
 title: "Caribou Coffee Caribou Medium Light Roast Ground Coffee"
 seo_title: "Caribou Coffee Medium Light Roast Review (2026): Worth It?"
 meta_description: "Caribou Coffee Medium Light Roast ground coffee review: taste, aroma, brew methods, and value. See if this 4.6-star blend belongs in your cart."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD8JKCV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CJn+sthkL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, citrusy flavor profile that holds up in drip brewers without turning bitter"
   - "Consistent medium-light roast works for both black coffee drinkers and those who add milk"
   - "Resealable bag with a strong aroma that fills the room on opening"
-cons:
+cons: 
   - "Ground size is optimized for drip — French press users will get sediment and a muddier cup"
   - "Lighter roast means less body; dark roast loyalists may find it thin"
   - "No roast date printed on the bag, so freshness is a gamble depending on stock rotation"
+
 ---
 
 Caribou Coffee's Medium Light Roast is the kind of coffee that makes you question why you've been settling for supermarket staples. With 229 ratings holding a steady 4.6-star average, this isn't a flashy single-origin microlot — it's a dependable, everyday ground coffee that delivers exactly what the bag promises. But is it worth your counter space? Let's dig in.

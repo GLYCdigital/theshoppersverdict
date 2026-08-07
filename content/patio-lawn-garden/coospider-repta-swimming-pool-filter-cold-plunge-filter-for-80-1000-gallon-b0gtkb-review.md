@@ -1,4 +1,5 @@
 ---
+
 title: "coospider-repta Swimming Pool Filter,Cold Plunge Filter for"
 seo_title: "coospider-repta Pool Filter Review: Cold Plunge Ready?"
 meta_description: "coospider-repta swimming pool filter review: 3.9★ rated. Does this cold plunge filter deliver clean water? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GTKBNYMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ze0lpemDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cartridge filtration with 12V DC pump rated for 80-1000 gallon setups — quiet enough for indoor cold plunge use"
   - "Compact footprint (roughly 10x8x6 inches) fits tight spaces beside plunge tubs without bulky hoses"
   - "Includes both 3/4-inch and 1-inch hose adapters, so it works with standard pool tubing and DIY plunge setups"
-cons:
+cons: 
   - "Flow rate drops noticeably once the cartridge loads up — you'll be rinsing it every 3-5 days with heavy use"
   - "Hose barbs feel thin; several buyers report cracks forming at the connection points after a few weeks"
   - "No UV or ozone sterilization — this is filtration only, so you still need chemical maintenance for algae control"
+
 ---
 
 You've seen the cold plunge trend. You've priced the $3,000 all-in-one tubs. Then you found this little filter for a fraction of that, wondering if it can actually keep a plunge tub clean. Short answer: it can — with caveats that matter.

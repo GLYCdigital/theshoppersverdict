@@ -1,4 +1,5 @@
 ---
+
 title: "Haidms Self Closing Door Hinges 4 Inch Residential Heavy-Dut"
 seo_title: "Haidms Self Closing Door Hinges 4 Inch Residential Review"
 meta_description: "Our full haidms self closing door hinges 4 inch residential heavy-dut review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2J11NZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616dv9Bl+-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Haidms Self Closing Door Hinges: The 4-Inch Spring Hinge That Actually Works

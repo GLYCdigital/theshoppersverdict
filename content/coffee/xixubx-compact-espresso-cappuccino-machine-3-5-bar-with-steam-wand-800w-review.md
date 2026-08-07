@@ -1,16 +1,17 @@
 ---
+
 title: "XIXUBX Compact Espresso & Cappuccino Machine, 3.5 Bar with Steam Wand | 800W Fast Heating, Safety Lock & Tritan Cup, One-Touch 4-Cup Brewing & Powerful Steam for Latte, Black for Home & Office"
 seo_title: "XIXUBX Compact Espresso Review: Verdict (4.2/5) | TSV"
 meta_description: "Easy to use, heats up fast, and the steam wand does the job for milk 924+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "xixubx-compact-espresso-cappuccino-machine-3-5-bar-with-steam-wand-800w-review"
 image_alt: "XIXUBX Compact Espresso & Cappuccino Machine, 3.5 Bar with Steam Wand | 800W Fast Heating, Safety Lock & Tritan Cup, One"
-keywords:
+keywords: 
   - "xixubx compact espresso review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the XIXUBX Compact Espresso &?"
     answer: "Easy to use, heats up fast, and the steam wand does the job for milk foam That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the XIXUBX Compact Espresso &?"
@@ -23,12 +24,13 @@ review_count: 924
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F12TWP55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LRzhM2V9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy to use, heats up fast."
   - "It offers great value for the price and looks nice on the countertop."
   - "It's compact, easy to use, and makes rich."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 # The $50 Espresso Machine That's Honest About What It Is

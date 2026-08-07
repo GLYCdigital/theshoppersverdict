@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Supersoft 2021 Golf Balls"
 seo_title: "Callaway Supersoft 2021 Review: Best Soft Feel Golf Ball?"
 meta_description: "Callaway Supersoft 2021 golf balls review: ultra-low compression, high launch, and straight flight. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C47K8LX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614GZEoGhKL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Ultra-low 38 compression core delivers noticeably soft feel on all shots, especially putts and chips"
   - "Hex aerodynamic pattern promotes straight, stable ball flight even in crosswinds"
   - "Durable cover holds up well for 3-5 rounds without scuffing, unlike many soft balls"
-cons:
+cons: 
   - "Not for high swing speeds — players over 100 mph will lose distance and see excess spin"
   - "Limited color options in standard 12-pack; yellow and orange sell out quickly"
+
 ---
 
 If you've ever gripped a premium tour ball and thought, "I'm not good enough for this," the Callaway Supersoft is the ball that says otherwise. It's the best-selling soft feel ball on the market for a reason, and the 2021 version refined the formula that made the original a cult favorite.

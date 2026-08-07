@@ -1,4 +1,5 @@
 ---
+
 title: "AFLUXE Women's Perfume 3.4 Fl Oz Fragrance for Daily Eleganc"
 seo_title: "AFLUXE Women's Perfume Review: Daily Elegance Worth It?"
 meta_description: "AFLUXE Women's Perfume 3.4 Fl Oz review: scent profile, longevity, value. Is this daily elegance fragrance worth your money? Find out here."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GWGXKWF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b7Nu+9LwL._SL1500_.jpg"
-pros:
+pros: 
   - "Large 3.4 fl oz bottle at a budget-friendly price point"
   - "Versatile floral scent that transitions from office to evening"
   - "Glass bottle with secure sprayer — travel-friendly, leak-resistant"
-cons:
+cons: 
   - "Longevity is inconsistent — 3–5 hours on skin, not the 8+ advertised"
   - "Scent projection is intimate, not a head-turner"
+
 ---
 
 ## The $25 Question: Can It Deliver Daily Elegance?

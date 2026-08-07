@@ -1,4 +1,5 @@
 ---
+
 title: "CHI Keratin Flex Finish Hair Spray"
 seo_title: "CHI Keratin Flex Finish Hair Spray Review (2026): Is It Worth It?"
 meta_description: "CHI Keratin Flex Finish Hair Spray review: Does this flexible-hold spray deliver shine without crunch? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8KLLDB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/417A9TT5PuL._SL1024_.jpg"
-pros:
+pros: 
   - "Keratin-infused formula delivers flexible, brushable hold without stiffness or white flakes"
   - "Humidity-resistant finish that keeps curls and waves defined for 8+ hours"
   - "Heat-protectant properties up to 400°F, doubling as a pre-styling shield"
-cons:
+cons: 
   - "Scent is strong and lingers — floral-amber profile won't suit fragrance-sensitive users"
   - "Spray nozzle can clog if you don't rinse it after each use, especially with heavy product buildup"
+
 ---
 
 **The 10-Second Hook**

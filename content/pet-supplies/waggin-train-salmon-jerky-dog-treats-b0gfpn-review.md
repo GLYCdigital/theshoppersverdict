@@ -1,4 +1,5 @@
 ---
+
 title: "Waggin' Train Salmon Jerky Dog Treats"
 seo_title: "Waggin' Train Salmon Jerky Dog Treats Review: Verdict | T"
 meta_description: "Our full waggin' train salmon jerky dog treats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GFPN2LM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7118B2kikfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.7-star salmon jerky that's actually just salmon — but that fish smell is no joke.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Ingersoll Rand Angle Sander"
 seo_title: "Ingersoll Rand Angle Sander Review: Verdict | TSV"
 meta_description: "Our full ingersoll rand angle sander review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDY6793H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yszFGLb4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Ingersoll Rand Angle Sander is a workhorse for body shops and serious DIYers who already own a real compressor. It's not a toy, and it's not for someone with a 2-gallon pancake unit. If you've got the air volume to feed it, this sander delivers smooth, vibration-controlled performance that justifies its reputation.

@@ -1,4 +1,5 @@
 ---
+
 title: "ORIJEN Grain Free High Protein Premium Dry Cat Food"
 seo_title: "ORIJEN Grain Free High Protein Premium Dry Cat Foo Review"
 meta_description: "Our full orijen grain free high protein premium dry cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY3SWVWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jSQq7ZDCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cat food bags talk a big game about "meat-first" recipes. ORIJEN actually backs it up. This Grain Free High Protein formula leads with deboned chicken, turkey, and whole herring as the first three ingredients — not corn, not wheat, not vague "meat meal." If your cat turns up their nose at kibble that smells like sawdust, this is a different animal entirely.

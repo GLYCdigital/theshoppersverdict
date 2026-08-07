@@ -1,4 +1,5 @@
 ---
+
 title: "Chihee Hammock Chair Hanging Seat 2 Pillows Included,Durable"
 seo_title: "Chihee Hammock Chair Review: Durable Hanging Seat With Pillows"
 meta_description: "Chihee Hammock Chair review: Is this durable hanging seat with 2 pillows worth it? Real buyer feedback, weight capacity, comfort, and setup analysis."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08TWBGSLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715-vlzQrIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Metal spreader bar keeps the chair fully open — no shoulder squeeze or fabric wrapping around you"
   - "Two thick, removable pillows included and secured with ties so they don't slide mid-swing"
   - "Heavy-duty 400 lb weight capacity holds up for adults and kids without sagging"
-cons:
+cons: 
   - "Hardware for ceiling mount isn't included — you'll need to buy heavy-duty hooks separately"
   - "Pillow covers aren't removable for washing, so spot-clean only"
+
 ---
 
 ## The Chihee Hammock Chair: Actually Comfortable, Not Just Another Swing

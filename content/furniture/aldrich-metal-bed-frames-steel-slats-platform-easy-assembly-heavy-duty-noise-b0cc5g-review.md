@@ -1,4 +1,5 @@
 ---
+
 title: "ALDRICH Metal Bed Frames - Steel Slats Platform, Easy Assemb"
 seo_title: "ALDRICH Metal Bed Frames Review (2026): Steel Slats Platform"
 meta_description: "Honest ALDRICH metal bed frame review: steel slats, easy assembly, noise-free design. See pros, cons, and who should buy this 4.6-star platform."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC5GQ2V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vruTfonnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel slat platform eliminates box spring need and holds up to 1,200 lbs without bowing"
   - "Tool-free assembly takes under 15 minutes with interlocking frame pieces"
   - "Rubberized contact points between slats and frame eliminate squeaking"
-cons:
+cons: 
   - "Low-profile design sits close to floor — under-bed storage is limited to about 6 inches"
   - "Sharp metal corners on the frame can snag bedding or scratch legs if you bump into them"
+
 ---
 
 **Bottom line: A $100-ish metal frame that does everything a $300 platform bed does — if you don't need under-bed storage.**

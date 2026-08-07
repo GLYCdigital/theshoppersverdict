@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 4 Year Kitchen Protection Plan ($1500 - $1999.99)"
 seo_title: "ASURION Kitchen Protection Plan Review: Worth It?"
 meta_description: "Is the ASURION 4-year kitchen protection plan worth $1500-$1999? Honest review of coverage, claims process, and real customer experiences."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B08F7YXB5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5179luWipKL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures after the manufacturer's warranty expires — parts and labor included"
   - "Claims process is entirely digital; file via Amazon account, no phone calls or repair shop visits required"
   - "Pro-rated refund available if you cancel within the first 30 days, even with no claim filed"
-cons:
+cons: 
   - "Numerous coverage exclusions — cosmetic damage, pre-existing conditions, and intentional misuse are not covered"
   - "Multiple reports of claim denials for 'wear and tear' on items that failed within months of purchase"
   - "Coverage is tied to the original purchaser; it does not transfer if you sell or gift the appliance"
+
 ---
 
 **Review Body:**

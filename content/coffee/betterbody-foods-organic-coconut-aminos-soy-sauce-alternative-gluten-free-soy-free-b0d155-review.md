@@ -1,4 +1,5 @@
 ---
+
 title: "BetterBody Foods Organic Coconut Aminos, Soy Sauce Alternati"
 seo_title: "BetterBody Foods Coconut Aminos Review: Best Soy Sauce Swap?"
 meta_description: "BetterBody Foods Organic Coconut Aminos review: taste, sodium, uses. Is this gluten-free soy sauce alternative worth it? Find out in our honest verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D155ZQXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-YKdh+asL._SL1500_.jpg"
-pros:
+pros: 
   - "Real coconut sap base with 73% less sodium than leading soy sauce"
   - "Clean, balanced umami — no artificial soy sauce flavor or vinegar bite"
   - "Organic certified, gluten-free, soy-free, and non-GMO verified"
-cons:
+cons: 
   - "Thinner consistency than soy sauce; needs a splash more to get the same coating"
   - "Price per ounce runs higher than conventional soy sauce brands"
+
 ---
 
 Let’s be blunt: most soy sauce alternatives taste like salty brown water with a grudge. BetterBody Foods Organic Coconut Aminos is not that. With a 4.7-star average across 235 ratings, this bottle has earned its place in my pantry — and likely yours, if you’re dodging soy or gluten.

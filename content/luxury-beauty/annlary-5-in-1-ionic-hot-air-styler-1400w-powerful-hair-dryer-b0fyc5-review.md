@@ -1,4 +1,5 @@
 ---
+
 title: "Annlary 5 in 1 Ionic Hot Air Styler, 1400W Powerful Hair Dry"
 seo_title: "Annlary 5 in 1 Hot Air Styler Review: Worth It? (2026)"
 meta_description: "Annlary 5 in 1 Ionic Hot Air Styler review: 1400W power, 5 attachments, 4.4-star rating. Does it replace your dryer AND curler? Read before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYC5TZXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bqsX44mwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five attachments (round brush, paddle brush, concentrator, two curling barrels) cover nearly every styling need in one tool — no separate dryer and curler required"
   - "1400W motor with ionic technology delivers fast dry times and noticeably smoother, less frizzy results even on thick or coarse hair"
   - "Dual voltage (110-240V) makes it a legitimate travel companion for international trips without a converter"
-cons:
+cons: 
   - "Heavier than a standard hair dryer at roughly 1.5 lbs — arm fatigue is real during extended styling sessions"
   - "Attachments lock in place with a firm twist but can loosen slightly during aggressive brushing; you'll need to re-tighten mid-style"
   - "No cool-shot button — the lowest heat setting is warm, which means your set won't lock in as firmly as with a dedicated cool blast"
+
 ---
 
 The Annlary 5 in 1 Ionic Hot Air Styler sits in the crowded "air styler" category, competing with the Dyson Airwrap and Revlon One-Step. But at a fraction of those prices, does it actually deliver? After digging through 220 ratings (4.4/5 average) and testing the mechanics, here's the honest breakdown.

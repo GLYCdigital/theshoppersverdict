@@ -1,4 +1,5 @@
 ---
+
 title: "LLNEDL 3/8 Impact Socket Set 95pc Red & Black"
 seo_title: "LLNEDL 3/8 Impact Socket Set 95pc Red & Black Review: Ver"
 meta_description: "Our full llnedl 3/8 impact socket set 95pc red & black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMHQDYB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yAio-2eNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 95-Piece Impact Socket Set That Actually Respects Your Budget**

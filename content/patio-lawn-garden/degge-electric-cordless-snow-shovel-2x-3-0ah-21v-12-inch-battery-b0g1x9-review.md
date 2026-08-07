@@ -1,4 +1,5 @@
 ---
+
 title: "DEGGE Electric Cordless Snow Shovel, 2X 3.0Ah/ 21V/ 12-Inch"
 seo_title: "DEGGE Cordless Snow Shovel Review: 2X 3.0Ah Battery Power"
 meta_description: "DEGGE 21V cordless snow shovel with 2X 3.0Ah batteries: our honest review covers power, runtime, and real-world snow clearing performance."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G1X9ZP9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t+OyzkCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 3.0Ah batteries provide genuinely useful runtime — roughly 40-50 minutes total, enough for a typical two-car driveway in light snow"
   - "12-inch clearing width and 6-inch intake depth handle moderate snowfalls without bogging down"
   - "Tool-free assembly and 12.5-pound weight make it accessible for seniors and anyone avoiding heavy gas equipment"
-cons:
+cons: 
   - "No headlight — pre-dawn and evening clearing requires a well-lit driveway or a flashlight"
   - "Plastic auger housing feels less durable than metal on comparable units; avoid gravel surfaces"
   - "Struggles with wet, heavy snow over 6 inches deep — this is a light-duty tool, not a snowblower replacement"
+
 ---
 
 **The DEGGE 21V cordless snow shovel is the Goldilocks option for light snow — not too weak, not overkill. Here's who should buy it (and who absolutely shouldn't).**

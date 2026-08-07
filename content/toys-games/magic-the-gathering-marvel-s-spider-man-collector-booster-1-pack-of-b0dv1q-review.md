@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering | Marvel's Spider-Man - Collector Boost"
 seo_title: "Magic: The Gathering | Marvel's Spider-Man - Colle Review"
 meta_description: "Our full magic: the gathering | marvel's spider-man - collector boost review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DV1Q7B26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ONZnCdTYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Should You Chase the Web-Slinger's Rare Cards?**

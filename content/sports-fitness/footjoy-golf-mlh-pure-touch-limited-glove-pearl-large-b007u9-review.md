@@ -1,4 +1,5 @@
 ---
+
 title: "FootJoy Golf MLH Pure Touch Limited Glove Pearl Large"
 seo_title: "FootJoy Pure Touch Limited Golf Glove Review: Pearl Large"
 meta_description: "FootJoy Pure Touch Limited golf glove review: premium Cabretta leather, MLH fit, Pearl Large. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007U91OT0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mOFGqmRHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium Pittards Cabretta leather offers exceptional grip in dry conditions without the stiffness of cheaper synthetics"
   - "MLH (Men's Large Hand) sizing runs true and accommodates golfers with wider palms better than standard Large gloves"
   - "Perforated finger panels and elasticized cuff keep hands cool and secure through 18 holes"
-cons:
+cons: 
   - "Not a wet-weather glove — grip degrades noticeably in humidity or light rain"
   - "Premium leather means it wears faster than synthetic gloves; expect 5–8 rounds before thinning at high-wear zones"
+
 ---
 
 Let me be blunt: if you're a single-digit handicap who treats your glove like a disposable tool, stop reading. This isn't for you. But if you're the golfer who notices the difference between a glove that grips and a glove that *grips* — the kind of difference that separates a flushed 4-iron from a pushed miss — the FootJoy Pure Touch Limited deserves your attention.

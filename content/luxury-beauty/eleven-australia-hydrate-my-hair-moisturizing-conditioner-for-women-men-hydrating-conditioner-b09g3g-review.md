@@ -1,4 +1,5 @@
 ---
+
 title: "ELEVEN AUSTRALIA Hydrate My Hair Moisturizing Conditioner fo"
 seo_title: "ELEVEN Australia Hydrate Conditioner Review: Worth It? (2026)"
 meta_description: "ELEVEN Australia Hydrate My Hair Conditioner review: deep hydration, slip, and shine for dry hair. See pros, cons, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09G3GWG3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510cisiV0sL._SL1272_.jpg"
-pros:
+pros: 
   - "Delivers instant slip and detangling on thick, coarse hair without weighing it down"
   - "Coconut-derived surfactants and vitamin E provide real moisture — not just surface shine"
   - "Pump dispenser (500ml size) makes application easy even with wet, slippery hands"
-cons:
+cons: 
   - "Fragrance is strong and lingers — sensitive noses may find it overpowering"
   - "Not enough hydration for severely damaged or over-processed hair; needs a mask"
+
 ---
 
 Let's be blunt: most conditioners in the salon-adjacent price range are 80% marketing and 20% silicones that coat your hair like plastic wrap. The ELEVEN Australia Hydrate My Hair Conditioner actually does what the label promises — but it's not magic in a bottle, and you should know exactly what you're buying before you hit checkout.

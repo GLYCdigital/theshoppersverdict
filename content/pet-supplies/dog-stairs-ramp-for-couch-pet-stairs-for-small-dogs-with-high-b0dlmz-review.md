@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Stairs Ramp for Couch Pet Stairs for Small Dogs with Hig"
 seo_title: "Dog Stairs Ramp for Couch Review: Small Dog Steps That Work"
 meta_description: "Honest review of the Dog Stairs Ramp for Couch for small dogs. Tested for stability, grip, and ease of cleaning. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLMZV654/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ClIMR7fmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-density foam core holds firm under 20+ lb dogs without sagging or collapsing at the middle seam"
   - "Removable, machine-washable cover with a real non-slip bottom — doesn't slide on leather or hardwood"
   - "Three-step design with wide treads suits senior dogs who can't manage steep angled ramps"
-cons:
+cons: 
   - "Cover zipper sits on the underside edge — if you have a chewer, they may find it before you do"
   - "At roughly 18 inches tall, it's best for standard couches and beds; taller sectionals may need the two-pack"
   - "Foam core takes a full 24 hours to fully expand after unboxing — plan ahead, not a same-day solution"
+
 ---
 
 If your small dog has started hesitating before jumping off the couch — or worse, yelps when they land — you need stairs. Not the flimsy collapsible kind that wobble, but something with actual structure. The Dog Stairs Ramp for Couch (technically a three-step stair, despite the product name) is built with a high-density foam core wrapped in a textured fabric cover. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's what that something is.

@@ -1,4 +1,5 @@
 ---
+
 title: "70 inch  Sofa Living Room Couch, Velvet Deep Couches for Small Sp"
 seo_title: "70-Inch Velvet Sofa Review: Deep Couch for Small Spaces"
 meta_description: "Honest 70-inch velvet sofa review: deep seats, compact footprint, but assembly and fabric concerns revealed. Is it right for your space?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DY7W8XHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yuaSLR1pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 70-inch width fits through standard doorways and into apartments where full-size sofas won't"
   - "Deep 24-inch seat depth allows proper lounging despite the compact footprint"
   - "Velvet upholstery has a premium look that punches above the price point"
-cons:
+cons: 
   - "Assembly requires two people; reported alignment issues with pre-drilled holes"
   - "Velvet shows pet hair, dust, and compression marks easily — not low-maintenance"
   - "Seat cushions are firm initially and take weeks to break in"
+
 ---
 
 Let's be direct: a 70-inch sofa is a compromise. You're trading the sprawl of a full-size couch for something that actually fits through your doorframe and leaves room to walk around your living room. The question isn't whether it's as comfortable as a $2,000 sectional — it isn't. The question is whether it delivers enough comfort and quality for what you're paying.

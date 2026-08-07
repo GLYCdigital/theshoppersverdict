@@ -1,4 +1,5 @@
 ---
+
 title: "Thule 910XT Passage 2 Bike Trunk Mount Carrier,Black"
 seo_title: "Thule 910XT Passage 2 Bike Trunk Mount Carrier,Bla Review"
 meta_description: "Our full thule 910xt passage 2 bike trunk mount carrier,black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00152QOAC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X619SHsPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Thule 910XT Passage 2 is the Swiss Army knife of trunk-mounted bike carriers — but it's not without a few nicks. With a 4.1-star rating across 204 reviews, it's a solid performer, but the real question is whether it's the right fit for *your* car and *your* bikes. Here's the honest breakdown.

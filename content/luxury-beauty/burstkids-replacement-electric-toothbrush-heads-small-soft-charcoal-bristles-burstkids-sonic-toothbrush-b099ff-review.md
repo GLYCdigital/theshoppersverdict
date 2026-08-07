@@ -1,4 +1,5 @@
 ---
+
 title: "BURSTkids Replacement Electric Toothbrush Heads, Small, Soft"
 seo_title: "BURSTkids Replacement Toothbrush Heads Review (2026): Soft, Small"
 meta_description: "Honest BURSTkids replacement brush head review: soft charcoal bristles, small size, real parent feedback. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B099FFZRX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UKMFlYb8L._SL1500_.jpg"
-pros:
+pros: 
   - "Charcoal-infused bristles that actually stay soft and don't harbor odors, even after months of use"
   - "Compact head size (about 15% smaller than standard) that fits small mouths without gagging"
   - "Compatible with BURSTkids sonic handle and most standard BURST handles, so one subscription works for the whole family"
-cons:
+cons: 
   - "No individual wrappers — all four heads ship loose in one bag, which can be a hygiene concern for some parents"
   - "Bristle wear indicator is subtle; you'll need to track your own 3-month replacement schedule"
+
 ---
 
 **The short version:** If your kid fights brushing, the brush head is often the problem, not the kid. The BURSTkids replacement heads solve the two biggest complaints parents have with electric toothbrushes for children — they're genuinely small enough to fit a child's mouth comfortably, and the soft charcoal bristles are gentle enough for sensitive gums while still doing the cleaning job. At 4.8 stars from 240 ratings, this is one of those rare products where the hype mostly matches reality.

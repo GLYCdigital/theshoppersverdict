@@ -1,4 +1,5 @@
 ---
+
 title: "FUBBLES NO Spill Funfiniti Bubble Machine | Blows One Hour o"
 seo_title: "FUBBLES Funfiniti Bubble Machine Review: 1-Hour Non-Stop Bubbles"
 meta_description: "Honest FUBBLES Funfiniti bubble machine review: 1-hour run time, no-spill design, and real parent feedback. Is it worth buying for backyard fun?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0B1PSGNZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c3a2pCbNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 60-minute continuous run time on a single fill — no mid-play refills"
   - "No-spill reservoir design actually works when tipped or bumped by kids"
   - "Produces dense clouds of small-to-medium bubbles, not just a weak trickle"
-cons:
+cons: 
   - "Bubble output can slow noticeably if the included solution gets low or slightly diluted"
   - "Fan noise is louder than expected — noticeable in quieter backyard settings"
   - "Requires frequent cleaning of the nozzle area to prevent clogging from dried solution"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "FLEXISPOT Electric Drafting Table Adjustable Height 47.2 inch x23 inch"
 seo_title: "FLEXISPOT Electric Drafting Table Review: Height Adjustable 47.2 inch x23 inch"
 meta_description: "FLEXISPOT electric drafting table review: 47.2 inch x23 adjustable height standing desk. Real pros, cons, and buyer verdicts for artists and architects."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B094HWZ3NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713uyE5vZNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Electric height adjustment from 28 inch " to 46 inch " with memory presets — genuinely useful for switching between sitting and standing work
   - "Tilting tabletop (0° to 45°) locks solidly at any angle, so it works as both a flat desk and a proper drafting surface"
   - "Steel frame and 154 lb weight capacity handle heavy books, monitors, and art supplies without wobble at standing height"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with two people — the instructions are adequate but the cable management tray is fiddly"
   - Tabletop is 47.2 inch " wide, which feels cramped for dual-monitor setups alongside drawing supplies
   - "No built-in USB ports or power outlets — you'll need a separate power strip for chargers and accessories"
+
 ---
 
 If you're an artist, architect, or someone who splits their day between drawing and typing, you know the struggle: drafting tables are either too low, too fixed, or too flimsy. The FLEXISPOT Electric Drafting Table 47.2"x23" tries to solve all three problems at once. Does it deliver? Mostly yes — with a few caveats worth knowing before you buy.

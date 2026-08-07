@@ -1,4 +1,5 @@
 ---
+
 title: "FIOTOK Gamecube Controller, Classic Wired Controller for Wii"
 seo_title: "FIOTOK Gamecube Controller, Classic Wired Controll Review"
 meta_description: "Our full fiotok gamecube controller, classic wired controller for wii review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B082GFFYF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tSeu7dVZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut straight to it: the FIOTOK Gamecube Controller looks like a nostalgia bomb, but does it play like one? At 4.3 stars from 215 ratings, there's a signal in the noise. This is a third-party controller for the Wii and original Gamecube, and it's priced to compete with used OEM pads. Here's what you're actually getting.

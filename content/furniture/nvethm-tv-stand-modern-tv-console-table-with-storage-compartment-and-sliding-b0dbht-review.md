@@ -1,4 +1,5 @@
 ---
+
 title: "NVETHM TV Stand, Modern TV Console Table with Storage Compar"
 seo_title: "NVETHM TV Stand, Modern TV Console Table with Stor Review"
 meta_description: "Our full nvethm tv stand, modern tv console table with storage compar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0DBHTPCL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s8DNGFeIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nvethm TV Stand Review: Does the Sliding-Door Console Deliver?

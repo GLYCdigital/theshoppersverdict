@@ -1,16 +1,17 @@
 ---
+
 title: "STASH Earl's Delight Latte - Dairy Free Plant Based Black Tea Concentrate - Caffeinated - 32 fl oz, 5 Servings"
 seo_title: "STASH Earl's Delight Latte Review: Verdict (3.7/5) | TSV"
 meta_description: "Our honest STASH Earl's Delight Latte review: real buyer quotes on the almond flavor, sweetness level, and London fog taste. Is this dairy-free tea concentrate worth $5.99? Verdict inside."
 slug: "stash-earls-delight-latte-dairy-free-plant-based-black-tea-concentrate-review"
 image_alt: "STASH Earl's Delight Latte dairy-free black tea concentrate bottle"
-keywords:
+keywords: 
   - "stash earls delight latte review"
   - "earl grey latte concentrate"
   - "london fog tea concentrate"
   - "dairy free tea latte"
 verdict_score: 3.7
-faq:
+faq: 
   - question: "Does STASH Earl's Delight Latte taste like a London fog?"
     answer: "For many buyers, yes — one reviewer said it 'tastes just like a London fog' and makes it cheaper and easier at home. But the almond flavoring is polarizing: some love it, while others describe it as tasting like maraschino cherry juice."
   - question: "Is STASH Earl's Delight Latte too sweet?"
@@ -24,14 +25,15 @@ review_count: 131
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B006E9RWL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yNt-4etGL._SL1500_.jpg"
-pros:
+pros: 
   - "Convenient, cheaper homemade London fog than a coffee shop"
   - "Complex flavor with a pleasant almond note, per fans"
   - "Works for dirty London fog lattes with espresso"
-cons:
+cons: 
   - "Too sweet for several buyers, even diluted 50/50 with milk"
   - "Almond flavoring is polarizing — some find it unpleasant"
   - "Tastes flat with non-dairy milk, per one reviewer"
+
 ---
 
 If you've ever stared at a box of shelf-stable latte concentrate and wondered whether it'll taste like sweetened tea-flavored water or an actual café drink, you're not alone. The STASH Earl's Delight Latte sits somewhere in between — and for $5.99, that's not necessarily a bad place to be.

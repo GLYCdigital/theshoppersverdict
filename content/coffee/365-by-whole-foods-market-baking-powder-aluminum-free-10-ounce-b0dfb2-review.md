@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Baking Powder Aluminum Free, 10 O"
 seo_title: "365 Whole Foods Baking Powder Review: Aluminum-Free Choice"
 meta_description: "365 Whole Foods aluminum-free baking powder review: 10 oz can, double-acting, no metallic aftertaste. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFB2X5XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HAtoKA3XL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Double-acting formula provides reliable rise in both mixing and oven heat"
   - "No aluminum compounds means no metallic aftertaste in baked goods"
   - "10-ounce resealable can holds up well with proper storage"
-cons:
+cons: 
   - "Price per ounce runs higher than store-brand aluminum varieties"
   - "Not sold in bulk sizes — heavy bakers will repurchase frequently"
+
 ---
 
 Let’s be honest: baking powder isn’t the most exciting purchase you’ll make this week. But if you’ve ever bitten into a muffin that tasted faintly of tin foil, you know why this matters. The 365 by Whole Foods Market aluminum-free baking powder exists to solve one specific problem — that metallic bitterness that comes from sodium aluminum sulfate, a common leavening agent in cheaper powders. And for most home bakers, it does the job admirably.

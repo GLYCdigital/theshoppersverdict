@@ -1,4 +1,5 @@
 ---
+
 title: "EFEFIELD Pex A Female NPT Drop-ear Elbow"
 seo_title: "EFEFIELD Pex A Drop-Ear Elbow Review: Solid Fit or Skip?"
 meta_description: "Honest EFEFIELD Pex A female NPT drop-ear elbow review. Tested for fit, durability, and leak-free performance. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCSTCW6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C9KodwWAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined brass body with clean, burr-free NPT threads that seat properly without galling"
   - "Drop-ear tab is thick enough to handle snug mounting without bending under torque"
   - "Consistent Pex A expansion-ring depth — no guessing when the ring is seated correctly"
-cons:
+cons: 
   - "No integrated shutoff or drain feature — you'll need separate valves for service points"
   - "Brass finish shows water spots and handling marks quickly; cosmetic only, not functional"
   - "Packaging is utilitarian — no sizing stickers, so keep your own labels handy on the job site"
+
 ---
 
 If you're roughing in a shower valve or stub-out for a wall-mounted toilet, the connection between your Pex A tubing and the fixture is where most leaks happen. The EFEFIELD Pex A Female NPT Drop-ear Elbow attacks exactly that weak point. With 235 ratings and a 4.7-star average, it's earned a reputation — but let's dig into whether it's the right fitting for your specific project.

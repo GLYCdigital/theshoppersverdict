@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Tidy Cats Breeze Litter System Cat Refill Bundle - 7."
 seo_title: "Purina Tidy Cats Breeze Litter System Cat Refill B Review"
 meta_description: "Our full purina tidy cats breeze litter system cat refill bundle - 7. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07H9ZPVVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s--zgvIbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re tired of clay litter dust coating every surface in your bathroom, the Purina Tidy Cats Breeze Litter System Refill Bundle deserves a hard look. This isn’t a typical litter refill—it’s a two-part system that separates urine from solid waste using large zeolite pellets on top and absorbent pads below. The 4.8-star average across 240 ratings suggests it works for most households, but it’s not a universal fit. Here’s what you actually need to know before you buy.

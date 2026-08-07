@@ -1,4 +1,5 @@
 ---
+
 title: "Pasta Pot with Strainer Lid - 5.5 Quart Large Spaghetti Pot "
 seo_title: "Pasta Pot with Strainer Lid - 5.5 Quart Large Spag Review"
 meta_description: "Our full pasta pot with strainer lid - 5.5 quart large spaghetti pot  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G3V12M68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jK9kyLdxL._AC_SL1056_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The One-Pot Pasta Hack That Actually Works

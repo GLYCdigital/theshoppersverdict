@@ -1,16 +1,17 @@
 ---
+
 title: "HP 910XL Black High-Yield Ink Cartridge | Works with OfficeJet 8010, 8020 Series, OfficeJet Pro 8020, 8030 Series | Eligible for Instant Ink | 3YL65AN"
 seo_title: "HP 910XL Black High-Yield Ink Cartridge | Works wi Review"
 meta_description: "Honest hp 910xl black high-yield ink cartridge  review based on 22,128+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "hp-910xl-black-high-yield-ink-cartridge-works-with-officejet-8010-8020-review"
 image_alt: "HP 910XL Black High-Yield Ink Cartridge | Works with OfficeJet 8010, 8020 Series, OfficeJet Pro 8020, 8030 Series | Elig"
-keywords:
+keywords: 
   - "hp 910xl black review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the HP 910XL Black High-Yield Ink?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the HP 910XL Black High-Yield Ink?"
@@ -23,10 +24,11 @@ review_count: 22128
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07N3FYTW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Eh6P5WfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 **The $73 question: Is the HP 910XL worth the premium over generics?**

@@ -1,4 +1,5 @@
 ---
+
 title: "PAUFUL Boho Light Fixture, 3-Light Farmhouse Rattan Ceiling "
 seo_title: "PAUFUL Boho Light Fixture, 3-Light Farmhouse Ratta Review"
 meta_description: "Our full pauful boho light fixture, 3-light farmhouse rattan ceiling  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMD2YMSN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uwhRuNz+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your living room reads more "cookie-cutter builder grade" than "curated Airbnb," the PAUFUL 3-light rattan ceiling fixture is the cheapest personality upgrade you'll find. This isn't a statement piece that screams for attention — it's the kind of warm, textured lighting that makes guests ask where you got it.

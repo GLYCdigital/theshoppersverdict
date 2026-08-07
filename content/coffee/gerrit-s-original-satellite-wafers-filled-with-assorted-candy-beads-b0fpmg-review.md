@@ -1,4 +1,5 @@
 ---
+
 title: "Gerrit's Original Satellite Wafers, Filled with Assorted Can"
 seo_title: "Gerrit's Original Satellite Wafers, Filled with As Review"
 meta_description: "Our full gerrit's original satellite wafers, filled with assorted can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FPMG7G99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Jlyv1+jLL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another grocery-store wafer tin, or does Gerrit's actually deliver?**

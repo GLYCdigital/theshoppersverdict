@@ -1,4 +1,5 @@
 ---
+
 title: "Approgreent 3 Drawer File Cabinet for Home Office, Under Des"
 seo_title: "Approgreent 3 Drawer File Cabinet Review: Under-Desk Storage"
 meta_description: "Approgreent 3-drawer file cabinet review: compact under-desk storage, smooth casters, and real filing capacity. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G58QFKSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qGaRZt-6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Letter-size hanging files fit without bending, and the top drawer accommodates a shallow tray for pens and sticky notes"
   - "Full-extension ball-bearing slides let you reach the back of each drawer without the cabinet tipping forward"
   - "Assembles in roughly 15 minutes with the included hex wrench; all holes aligned properly on the first try"
-cons:
+cons: 
   - "The metal body dents if you bump it with a chair or vacuum — not a heavy-gauge steel cabinet"
   - "Casters are small (about 1.5 inches) and roll smoothly on hard floors but catch on thick carpet edges"
+
 ---
 
 **The under-desk file cabinet that actually fits under your desk — and doesn't wobble.**

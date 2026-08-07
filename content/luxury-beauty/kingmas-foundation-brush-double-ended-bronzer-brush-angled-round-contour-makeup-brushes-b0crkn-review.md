@@ -1,4 +1,5 @@
 ---
+
 title: "KINGMAS Foundation Brush, Double Ended Bronzer Brush Angled "
 seo_title: "KINGMAS Foundation Brush, Double Ended Bronzer Bru Review"
 meta_description: "Our full kingmas foundation brush, double ended bronzer brush angled  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRKNVT93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U8gZIvqdL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KINGMAS Double Ended Foundation and Bronzer Brush is one of those products that makes you wonder why more brands don't do this. Two essential face brushes joined at the hip, sharing one handle. At first glance it seems like a space-saving gimmick. After testing, it's clear the design actually works — provided you understand what you're buying.

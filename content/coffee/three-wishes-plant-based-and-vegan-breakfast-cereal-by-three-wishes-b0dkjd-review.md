@@ -1,4 +1,5 @@
 ---
+
 title: "Three Wishes Plant-Based and Vegan Breakfast Cereal by Three"
 seo_title: "Three Wishes Plant-Based and Vegan Breakfast Cerea Review"
 meta_description: "Our full three wishes plant-based and vegan breakfast cereal by three review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DKJD9412/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8105U2u9U3L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most plant-based cereals taste like someone blended cardboard with sawdust and called it breakfast. Three Wishes breaks that pattern — mostly. After testing this grain-free cereal across a week of breakfasts, here's what you need to know before spending your money.

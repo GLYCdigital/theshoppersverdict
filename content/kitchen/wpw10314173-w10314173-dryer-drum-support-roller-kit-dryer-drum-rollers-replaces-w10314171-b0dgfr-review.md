@@ -1,4 +1,5 @@
 ---
+
 title: "WPW10314173 W10314173 Dryer Drum Support Roller Kit Dryer Dr"
 seo_title: "WPW10314173 W10314173 Dryer Drum Support Roller Ki Review"
 meta_description: "Our full wpw10314173 w10314173 dryer drum support roller kit dryer dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGFRS8Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L+XRng6FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dryer started sounding like a jet engine during the spin cycle — or worse, thumping like a washing machine with a brick inside — you're likely looking at worn drum support rollers. The WPW10314173 kit addresses exactly that failure point. After digging through 229 ratings and the engineering specs, here's what you need to know before you spend a dime.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blake's Seed Based Crispy Treats – Nut Free, Gluten Free"
 seo_title: "Blake's Seed Based Crispy Treats Review: Nut-Free Snack"
 meta_description: "Honest Blake's Seed Based Crispy Treats review: nut-free, gluten-free rice crisps. Texture, taste, and allergen safety tested. See who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8WJGVP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814jBcL4cIL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly free of the top 9 allergens — made in a dedicated nut-free facility with seed-based binding, not oat or wheat"
   - "Holds together better than homemade rice crispy treats; the sunflower seed butter gives it a sturdy, non-crumbly bite"
   - "Individually wrapped portions (1.1 oz each) make lunchbox packing and portion control genuinely easy"
-cons:
+cons: 
   - "Sweetness level is moderate — candy-bar fans will find these less indulgent than traditional marshmallow treats"
   - "Texture leans dense and chewy rather than light and airy; some buyers describe it as 'heavy' for a crispy treat"
   - "Price per ounce runs roughly 30-40% higher than standard rice crispy treats, a premium for the allergen-safe positioning"
+
 ---
 
 Let's be direct: most "free-from" snacks taste like cardboard wearing a health halo. Blake's Seed Based Crispy Treats are not that. With a 4.2-star average across 210 ratings, these bars have earned a legitimate following among allergy households — but they're not a one-to-one swap for the marshmallow treats you grew up with.

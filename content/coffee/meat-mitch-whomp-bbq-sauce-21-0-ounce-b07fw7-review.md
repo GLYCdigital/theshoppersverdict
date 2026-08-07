@@ -1,4 +1,5 @@
 ---
+
 title: "Meat Mitch WHOMP BBQ Sauce, 21.0 Ounce"
 seo_title: "Meat Mitch WHOMP BBQ Sauce, 21.0 Ounce Review: Verdict | "
 meta_description: "Our full meat mitch whomp bbq sauce, 21.0 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07FW7KWTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XW+VuGvTL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested dozens of BBQ sauces, and most of them blur together into a sweet, smoky, vaguely tomatoey haze. Meat Mitch WHOMP is not one of those sauces. This is the sauce that competition barbecue teams actually use — and it tastes like it.

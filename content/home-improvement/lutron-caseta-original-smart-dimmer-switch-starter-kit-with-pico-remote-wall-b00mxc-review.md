@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Caseta Original Smart Dimmer Switch Starter Kit, with"
 seo_title: "Lutron Caseta Original Smart Dimmer Switch Starter Review"
 meta_description: "Our full lutron caseta original smart dimmer switch starter kit, with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00MXCRAX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715MPVDVhJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some smart home products feel like they were designed by software engineers who've never touched a wall box. The Lutron Caseta Original Starter Kit isn't one of them. After 229 ratings averaging 4.6 stars, this is the dimmer switch that keeps showing up in "just buy this one" threads — and for good reason.

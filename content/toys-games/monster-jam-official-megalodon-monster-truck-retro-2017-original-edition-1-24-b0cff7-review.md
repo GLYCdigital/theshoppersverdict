@@ -1,4 +1,5 @@
 ---
+
 title: "Monster Jam, Official Megalodon Monster Truck - Retro 2017 O"
 seo_title: "Monster Jam, Official Megalodon Monster Truck - Re Review"
 meta_description: "Our full monster jam, official megalodon monster truck - retro 2017 o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CFF7B279/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814EaUS7x9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Monster Jam, Official Megalodon Monster Truck - Retro 2017 O** is the truck that made shark-themed monster trucks cool before it was trendy. This 1:24 scale die-cast replica of the original Megalodon — the one with the gnarly tooth-filled jaws and that unmistakable retro paint scheme — has racked up a 4.8-star average across 240 ratings. That kind of consistency doesn't happen by accident. Here's the real story on whether it belongs in your cart.

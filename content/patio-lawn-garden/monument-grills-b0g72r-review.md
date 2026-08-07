@@ -1,4 +1,5 @@
 ---
+
 title: "Monument Grills"
 seo_title: "Monument Grills Review: Verdict | TSV"
 meta_description: "Our full monument grills review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G72R98XK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fIC-k87nL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Monument Grills** sits in a strange spot in the gas grill market: it's not the cheapest option, not the flashiest, and not a big-box-store household name. Yet 225 Amazon reviewers have pushed it to a 4.5-star average, which says something. After digging through the specs and owner feedback, here's what I found.

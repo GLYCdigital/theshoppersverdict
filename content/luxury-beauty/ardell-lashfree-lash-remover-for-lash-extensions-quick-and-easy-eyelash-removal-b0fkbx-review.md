@@ -1,4 +1,5 @@
 ---
+
 title: "Ardell LashFree Lash Remover for Lash Extensions - Quick and"
 seo_title: "Ardell LashFree Lash Remover Review: Does It Work? (2026)"
 meta_description: "Ardell LashFree Lash Remover review: 3.8/5 stars. We tested the gel formula on extensions, lashes, and glue. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FKBXSSW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KjAGiDYYL._SL1500_.jpg"
-pros:
+pros: 
   - "Gel formula clings to extensions without dripping into eyes — a major safety win"
   - "Dissolves adhesive in 5-10 minutes, even on stubborn waterproof glue"
   - "Works on individual lashes and strip lashes, saving a salon trip"
-cons:
+cons: 
   - "Strong chemical odor that lingers; some users report eye irritation"
   - "Not effective on all adhesive types — cyanoacrylate-heavy glues resist it"
   - "Requires careful brush application; sloppy use can sting if it contacts the waterline"
+
 ---
 
 **Opening Hook**

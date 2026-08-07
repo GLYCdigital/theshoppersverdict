@@ -1,4 +1,5 @@
 ---
+
 title: "GyroVu Fillable Table Lamp, Bedside Lamp with Clear Glass Fi"
 seo_title: "GyroVu Fillable Table Lamp, Bedside Lamp with Clea Review"
 meta_description: "Our full gyrovu fillable table lamp, bedside lamp with clear glass fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C861JS2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iGlGPPZRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: a lamp you can fill with anything sounds like a gimmick. But the GyroVu Fillable Table Lamp actually pulls it off — mostly because the glass base is substantial enough to feel like a real decor piece, not a craft project.

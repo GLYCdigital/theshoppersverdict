@@ -1,4 +1,5 @@
 ---
+
 title: "Discontinued - Mocha"
 seo_title: "Discontinued Mocha Review: Still Worth Buying? | 4.3 Stars"
 meta_description: "Discontinued Mocha coffee gear review: 4.3/5 from 215 buyers. See if this marked-down brewer still delivers value or if you should look elsewhere."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFS2N9ZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rIMEJxRJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rich, concentrated brew that rivals stovetop moka pots without the watch-the-clock fuss"
   - "Compact footprint fits under standard upper cabinets — roughly 6.5 inches wide"
   - "Simple mechanical operation with no digital display to fail or confuse"
-cons:
+cons: 
   - "Discontinued status means zero manufacturer warranty support going forward"
   - "Small 3-cup capacity limits batch brewing for households of more than two"
   - "Stainless exterior shows fingerprints and water spots quickly"
+
 ---
 
 There's a particular sadness to reviewing a product that's already been pulled from the lineup. The "Discontinued - Mocha" carries a 4.3-star average across 215 Amazon ratings, which tells you this wasn't a dud that failed — it was a niche product that probably got replaced by a newer model. But here's the thing: discontinued doesn't mean worthless. In fact, if you can find one at a markdown, this might be the smartest coffee purchase you make this year.

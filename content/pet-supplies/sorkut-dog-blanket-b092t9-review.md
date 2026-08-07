@@ -1,4 +1,5 @@
 ---
+
 title: "SORKUT Dog Blanket"
 seo_title: "SORKUT Dog Blanket Review: Verdict | TSV"
 meta_description: "Our full sorkut dog blanket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B092T9GRS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PVMb9RDnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your couch is currently a fur-covered battleground and your dog treats every blanket like a personal burrow, the SORKUT Dog Blanket is worth a serious look. This isn't another flimsy throw that slides off the sofa the moment your pup stands up. With 225 ratings averaging 4.5 stars, it's quietly become a favorite among owners who need something that survives both muddy paws and machine washing.

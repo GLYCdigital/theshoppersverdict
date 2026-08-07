@@ -1,4 +1,5 @@
 ---
+
 title: "HOMSHADE Outdoor Patio Umbrella - Market Table Pool Deck Umb"
 seo_title: "HOMSHADE Outdoor Patio Umbrella - Market Table Poo Review"
 meta_description: "Our full homshade outdoor patio umbrella - market table pool deck umb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F43TJV2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+e-oZryyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most patio umbrellas under $100 are disposable junk that lasts one season. The HOMSHADE Outdoor Patio Umbrella isn't that. With a 4.6-star average across 229 ratings, this market-style umbrella is earning its place on decks and pool patios — but it's not without tradeoffs. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "tewei LED Outdoor Wall Sconce Dusk to Dawn Outdoor Lighting,"
 seo_title: "tewei LED Outdoor Wall Sconce Dusk to Dawn Outdoor Review"
 meta_description: "Our full tewei led outdoor wall sconce dusk to dawn outdoor lighting, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQK1FBBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qO5YrfifL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Smartwo 22PCS Wooden Makeup Toy Set,Toddler Makeup Kit,Cute "
 seo_title: "Smartwo 22PCS Wooden Makeup Toy Set,Toddler Makeup Review"
 meta_description: "Our full smartwo 22pcs wooden makeup toy set,toddler makeup kit,cute  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCHDPLJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JBBOrOqYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a toddler grab your real lipstick and head for the wall, you already know why this category exists. The Smartwo 22PCS Wooden Makeup Toy Set is designed to redirect that impulse into something that won't ruin your couch or require a trip to urgent care. But is it actually worth the money, or is it just another plastic toy that'll be forgotten by Tuesday? Here's the real breakdown.

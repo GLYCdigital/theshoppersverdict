@@ -1,4 +1,5 @@
 ---
+
 title: "LINSY HOME Farmhouse TV Stand for 65 Inch TV, Wood TV Stand "
 seo_title: "LINSY HOME Farmhouse TV Stand for 65 Inch TV, Wood Review"
 meta_description: "Our full linsy home farmhouse tv stand for 65 inch tv, wood tv stand  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FP3499YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N23iE-C+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've scrolled past a dozen "farmhouse" TV stands that all look identical, this LINSY HOME unit might make you stop. The combination of a wood veneer top, two sliding barn doors, and clean lines gives it a presence that typically costs $100 more. At 4.6 stars across 229 ratings, buyers are mostly happy — but let's talk about what that rating really means.

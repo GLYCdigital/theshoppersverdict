@@ -1,4 +1,5 @@
 ---
+
 title: "Naturehike KOTA 4/6/8 Person Camping Tent, Double Layer Wate"
 seo_title: "Naturehike KOTA 4/6/8 Person Camping Tent, Double  Review"
 meta_description: "Our full naturehike kota 4/6/8 person camping tent, double layer wate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYF7FKX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kE5CDDvML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What the KOTA line gets right — and where it cuts corners**

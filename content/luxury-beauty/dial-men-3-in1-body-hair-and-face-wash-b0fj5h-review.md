@@ -1,4 +1,5 @@
 ---
+
 title: "Dial Men 3 in1 Body, Hair and Face Wash"
 seo_title: "Dial Men 3-in-1 Body, Hair & Face Wash Review (2026)"
 meta_description: "Dial Men 3-in-1 Body, Hair and Face Wash review: Does this 4.6-star shower gel deliver? Real user feedback, pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ5HZT7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cCsE7AtWL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely effective as a 3-in-1 — lathers well on hair and face without stripping skin"
   - "Strong, masculine scent that lingers subtly for hours without being overpowering"
   - "Generous bottle size with a flip-top cap that dispenses the right amount — no waste"
-cons:
+cons: 
   - "Not ideal for guys with sensitive skin or eczema — the fragrance can irritate"
   - "Can leave hair feeling slightly dry if you have coarse or curly texture"
+
 ---
 
 **The Short Version: A Solid Workhorse That Actually Does Three Jobs**

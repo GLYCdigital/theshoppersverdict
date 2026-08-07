@@ -1,4 +1,5 @@
 ---
+
 title: "21 inch  Set of 2 Touch Control Table Lamps with 2 USB & AC Outle"
 seo_title: "21 inch  Touch Control Table Lamps Review: USB & AC Outlets (2026)"
 meta_description: "Honest review of 21 inch  set of 2 touch table lamps with USB & AC outlets. See real pros, cons, and who should buy. Rated 4.6/5 by 229 shoppers."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTCVDJ3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gD4d+B3kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three brightness levels via touch sensor — no fiddly knobs or switches to hunt for in the dark"
   - "Each lamp packs 2 USB ports and 1 AC outlet, turning a nightstand into a charging station"
   - "21-inch height with weighted base suits bedside, desk, or living room end tables"
-cons:
+cons: 
   - "The AC outlet is on the lamp base, not the side — bulky plugs can tip the lamp if the base isn't weighted"
   - "No color temperature adjustment; you're locked into a warm-ish white light"
   - "Touch sensor can be finicky if you have sweaty hands or if the lamp's surface is dusty"
+
 ---
 
 ## A lamp that earns its spot on your nightstand

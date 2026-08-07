@@ -1,4 +1,5 @@
 ---
+
 title: "HEBE Outdoor Rug for Patios Clearance Waterproof Patio Mat P"
 seo_title: "HEBE Outdoor Rug for Patios Clearance Waterproof P Review"
 meta_description: "Our full hebe outdoor rug for patios clearance waterproof patio mat p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJL6PBN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BizD9ZcoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this rug is: it's not a soft, plush indoor carpet you'll want to nap on. It's a hard-working, weather-beating outdoor mat that does exactly what it claims — and does it well enough that 4.4 out of 5 stars across 220 ratings feels earned.

@@ -1,11 +1,12 @@
 ---
+
 title: "Amazon Basics Office Stapler with 1000 Staples, 25 Sheet Capacity, Non-Slip, Black, Home Office"
 seo_title: "Amazon Basics Stapler Review — 4.6★ At $6.31, It Just Works"
 meta_description: "Amazon Basics stapler review: 52,636 reviews analyzed. 25-sheet capacity, non-slip base, 1000 staples included. The ultimate budget office staple."
 slug: "amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-non-slip-review"
 image_alt: "Amazon Basics Office Stapler with 1000 Staples, 25 Sheet Capacity, Non-Slip, Black"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Can the Amazon Basics stapler actually handle 25 sheets?"
     answer: "Reviewers confirm it handles 25 sheets and sometimes more. One reviewer successfully stapled 29 sheets with sufficient crimp to hold them together. It's reliable within its rated capacity."
   - question: "Does the stapler jam frequently?"
@@ -16,16 +17,17 @@ review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORqgJajrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional value at $6.31 — cheaper than lunch, lasts for years"
   - "25-sheet capacity is accurate and occasionally exceeds spec"
   - "Non-slip rubber base stays put on the desk during use"
   - "Comes with 1000 staples included — truly ready out of the box"
   - "Over 52,000 reviews with 4.6 stars — one of the most reviewed staplers ever"
-cons:
+cons: 
   - "All-plastic construction — not built for heavy daily institutional use"
   - "Basic design lacks the satisfying heft of a metal office stapler"
   - "Best suited for home or light office use, not high-volume environments"
+
 ---
 
 ## Performance: Where It Excels

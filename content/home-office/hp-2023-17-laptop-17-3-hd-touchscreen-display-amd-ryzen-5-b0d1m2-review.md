@@ -1,7 +1,8 @@
 ---
-title: "HP 2023 17 Laptop, 17.3\" HD+ Touchscreen Display, AMD Ryzen "
-seo_title: "HP 2023 17 Laptop, 17.3\" HD+ Touchscreen Display,  Review"
-meta_description: "Our full hp 2023 17 laptop, 17.3\" hd+ touchscreen display, amd ryzen  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 2023 17 Laptop, 17.3\ HD+ Touchscreen Display, AMD Ryzen "
+seo_title: "HP 2023 17 Laptop, 17.3\ HD+ Touchscreen Display,  Review"
+meta_description: "Our full hp 2023 17 laptop, 17.3\ hd+ touchscreen display, amd ryzen  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-2023-17-laptop-17-3-hd-touchscreen-display-amd-ryzen-5-b0d1m2-review"
 image_alt: "HP 2023 17 Laptop, 17.3 HD+ Touchscreen Display, AMD Ryzen 5 7530U Processor (Beats i7-1165G7), HDMI, Backlit KB, Webcam"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1M2H6QK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WYNdD6-yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Big laptops are a niche. Most people want 14 or 15 inches because they're portable enough to carry. The HP 2023 17-inch with an AMD Ryzen 5 processor is not for those people. This is for someone who wants a desktop replacement that occasionally leaves the house. And for that buyer, it delivers where it matters.

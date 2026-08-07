@@ -1,4 +1,5 @@
 ---
+
 title: "FANTIAN Aquarium Sand. Mini Fish Tank Sand Gravel Substrate"
 seo_title: "FANTIAN Aquarium Sand Review: Honest 2026 Buyer's Guide"
 meta_description: "FANTIAN Aquarium Sand review: natural look, easy cleanup, plant-friendly. See pros, cons, and who should buy this 4.5-star substrate."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1YS9RGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/919gWDsTLlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fine, uniform grain (~1-2mm) that settles quickly and won't cloud water after a proper rinse"
   - "Natural beige tone brightens nano tanks without the sterile look of white sand"
   - "Dense enough to stay put — doesn't get sucked into siphon tubes during water changes"
-cons:
+cons: 
   - "Not suitable for burrowing fish like corydoras or loaches — grain is too fine and compacts"
   - "Requires 3-5 thorough rinses before use; skipping this turns your tank milky for days"
+
 ---
 
 Let's be direct: most aquarium sand under $20 is a gamble. Either it arrives with debris, clouds your tank for a week, or looks like playground filler. The FANTIAN Aquarium Sand sidesteps most of those traps — but it's not for everyone. Here's the breakdown after digging through 225 ratings and the specs that actually matter.

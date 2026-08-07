@@ -1,4 +1,5 @@
 ---
+
 title: "Maxx Action 19'â€™ 2-N-1 Motorized Dig Rig â€“ Excavator and"
 seo_title: "Maxx Action 19'â€™ 2-N-1 Motorized Dig Rig â€“ Exc Review"
 meta_description: "Our full maxx action 19'â€™ 2-n-1 motorized dig rig â€“ excavator and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCXFP7VT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PjY1WIAxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "motorized" construction toys are glorified plastic boxes with wheels that beep and spin. The Maxx Action 19' 2-N-1 Motorized Dig Rig is not that. This thing actually digs.

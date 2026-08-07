@@ -1,4 +1,5 @@
 ---
+
 title: "Matte Black Shower Faucet Set with Tub Spout"
 seo_title: "Matte Black Shower Faucet Set with Tub Spout Review: Verd"
 meta_description: "Our full matte black shower faucet set with tub spout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DMP5B5JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rhx0MDOgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re remodeling a bathroom and want that modern matte black look without paying boutique-brand prices, this shower faucet set deserves a close look. It’s a complete trim kit — shower head, arm, handheld sprayer, tub spout, and handles — but there’s a catch you need to know before you commit. Let’s break down what you’re actually getting for your money.

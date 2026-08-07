@@ -1,4 +1,5 @@
 ---
+
 title: "AmirLans Bathroom Faucet Single Hole"
 seo_title: "AmirLans Bathroom Faucet Review: Worth It? (2026)"
 meta_description: "Honest AmirLans bathroom faucet review: build quality, install ease, real buyer feedback. Is this single-hole brass faucet worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDQ53L4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UuQt4s46L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid brass body and metal drain assembly — no plastic where it matters"
   - "Pre-attached water lines with brass nuts make installation under 30 minutes for most DIYers"
   - "Ceramic disc cartridge delivers smooth quarter-turn handle operation with no drip"
-cons:
+cons: 
   - "Deck plate for 3-hole sinks sold separately — easy to miss in product photos"
   - "Brushed nickel finish shows hard water spots more than chrome or matte black"
   - "Lift rod for pop-up drain feels slightly thin; handle with care during install"
+
 ---
 
 Let's be blunt: most faucets under $60 are disposable chrome-plated plastic. The AmirLans single-hole bathroom faucet isn't that. With a 4.6-star average from 229 ratings, this one's earning its place in bathrooms where people actually care about how the hardware feels.

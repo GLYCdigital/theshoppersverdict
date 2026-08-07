@@ -1,4 +1,5 @@
 ---
+
 title: "Elmer's All Purpose School Glue"
 seo_title: "Elmer's All Purpose School Glue Review (2026): Does It Hold Up?"
 meta_description: "Honest Elmer's All Purpose School Glue review: washability, drying time, and value. See real pros, cons, and who should buy it before you add to cart."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GSBPF8CK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Washes out of most fabrics with plain water, even after drying"
   - "Dries clear and flexible, so it won't crack on paper or poster board"
   - "The 4 oz squeeze bottle gives you precise tip control for small craft details"
-cons:
+cons: 
   - "Drying time runs 2–4 minutes, which feels slow for impatient kids"
   - "The cap can clog if you don't wipe the tip after each use"
+
 ---
 
 Let's be direct: Elmer's All Purpose School Glue is not a miracle adhesive. It won't bond metal, it won't fix a broken chair, and it won't survive a trip through the washing machine on a glued-on patch. But for paper, cardboard, felt, and the chaos of elementary school craft projects, it's still the benchmark — and for good reason.

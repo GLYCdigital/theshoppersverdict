@@ -1,4 +1,5 @@
 ---
+
 title: "LuxLumin LED Night Light, Night Lights Plug into Wall with D"
 seo_title: "LuxLumin LED Night Light, Night Lights Plug into W Review"
 meta_description: "Our full luxlumin led night light, night lights plug into wall with d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B095JSD1NH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CpFvuI07L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most night lights are either blindingly bright or so dim they're useless. The LuxLumin LED Night Light sits in a rare sweet spot — it's actually good at being a night light. With a 4.6-star average across 229 ratings, it's clear this isn't a flash-in-the-pan gimmick product. It's a straightforward plug-in light that does exactly what it promises, and for many shoppers that's worth the price of admission.

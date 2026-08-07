@@ -1,7 +1,8 @@
 ---
-title: "IRIS USA 2-in-1 Elevated Dog Bowls 9\" H with Airtight Pet Fo"
-seo_title: "IRIS USA 2-in-1 Elevated Dog Bowls 9\" H with Airti Review"
-meta_description: "Our full iris usa 2-in-1 elevated dog bowls 9\" h with airtight pet fo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "IRIS USA 2-in-1 Elevated Dog Bowls 9\ H with Airtight Pet Fo"
+seo_title: "IRIS USA 2-in-1 Elevated Dog Bowls 9\ H with Airti Review"
+meta_description: "Our full iris usa 2-in-1 elevated dog bowls 9\ h with airtight pet fo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "iris-usa-2-in-1-elevated-dog-bowls-9-h-with-airtight-b0d52z-review"
 image_alt: "IRIS USA 2-in-1 Elevated Dog Bowls 9 H with Airtight Pet Food Storage Container"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D52ZZ13X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LsO+e5+jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-star rating on this IRIS USA elevated feeder isn't hype — it's one of the few combo units that actually gets the storage half right.** Most "elevated bowl with storage" products fail because the container isn't truly airtight, or the stand wobbles. This one solves both problems, though not without a couple of quirks worth knowing before checkout.

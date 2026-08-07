@@ -1,4 +1,5 @@
 ---
+
 title: "HP 307A Yellow Toner Cartridge | Works Color LaserJet Profes"
 seo_title: "HP 307A Yellow Toner Cartridge | Works Color Laser Review"
 meta_description: "Our full hp 307a yellow toner cartridge | works color laserjet profes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B002RKWXWE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YNIEzmPWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The color that makes or breaks a marketing deck**

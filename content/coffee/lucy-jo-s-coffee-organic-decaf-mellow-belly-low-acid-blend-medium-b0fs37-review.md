@@ -1,4 +1,5 @@
 ---
+
 title: "Lucy Jo's Coffee, Organic Decaf Mellow Belly Low Acid Blend,"
 seo_title: "Lucy Jo's Coffee, Organic Decaf Mellow Belly Low A Review"
 meta_description: "Our full lucy jo's coffee, organic decaf mellow belly low acid blend, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FS37ZDCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mePuBWOyL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Decaf coffee gets a bad rap, and mostly it's deserved. Most decaf tastes like hot brown water with a grudge. But Lucy Jo's has carved out a niche with their Mellow Belly blend that's worth a hard look if your stomach has been staging protests against your morning ritual.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bme Coffee Group"
 seo_title: "Bme Coffee Group Review: Is This Set Worth It? (2026)"
 meta_description: "Bme Coffee Group review: honest look at build quality, real-world use, and value. See what 220+ Amazon buyers say before you commit."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJZPR144/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/images/I/711ZjDYso6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood frame that doesn't wobble or creak under daily use"
   - "Finish resists fingerprints and water rings — no coasters required in most cases"
   - "Assembly takes under 30 minutes with clearly labeled parts and included tools"
-cons:
+cons: 
   - "Darker finish shows dust and pet hair more readily than lighter alternatives"
   - "Lower shelf clearance limits storage to smaller baskets or books"
+
 ---
 
 ## Is the Bme Coffee Group Actually Worth Your Living Room Space?

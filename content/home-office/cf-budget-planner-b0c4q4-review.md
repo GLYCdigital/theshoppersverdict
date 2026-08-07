@@ -1,4 +1,5 @@
 ---
+
 title: "CF Budget Planner"
 seo_title: "CF Budget Planner Review (2026): Honest Look at This Budget Book"
 meta_description: "Read our CF Budget Planner review: monthly & weekly layouts, paper quality, durability, and who should buy. Real pros, cons, and ratings."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4Q427VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fHepQ-QqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lay-flat spiral binding that actually stays open on a desk — no fighting to keep your place while writing"
   - "Thick 100gsm paper that holds up to gel pens and mild highlighters without ghosting or bleed-through"
   - "Dedicated bill tracker and savings goal section in the monthly spread — not just a generic calendar with lines"
-cons:
+cons: 
   - "Cover is a soft matte laminate that scuffs easily — shows wear within a few weeks if tossed in a bag"
   - "Weekly layout has a single notes column that gets cramped if you track multiple income streams"
+
 ---
 
 **Is the CF Budget Planner actually worth buying, or is it just another notebook with "budget" printed on the cover? I've been testing one for six weeks — here's the honest breakdown.**

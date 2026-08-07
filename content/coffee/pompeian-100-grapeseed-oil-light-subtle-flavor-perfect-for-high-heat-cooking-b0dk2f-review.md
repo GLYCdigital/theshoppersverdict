@@ -1,4 +1,5 @@
 ---
+
 title: "Pompeian 100% Grapeseed Oil, Light, Subtle Flavor, Perfect f"
 seo_title: "Pompeian 100% Grapeseed Oil, Light, Subtle Flavor, Review"
 meta_description: "Our full pompeian 100% grapeseed oil, light, subtle flavor, perfect f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK2F8QDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: you don't need another cooking oil that sits in your pantry for two years. But if you've burned through cheap olive oil trying to get a proper sear on a steak, this grapeseed oil might be the workhorse you're missing.

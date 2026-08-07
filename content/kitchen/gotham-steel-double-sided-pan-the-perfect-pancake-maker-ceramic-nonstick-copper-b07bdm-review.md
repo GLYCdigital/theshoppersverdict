@@ -1,4 +1,5 @@
 ---
+
 title: "Gotham Steel Double Sided Pan, The Perfect Pancake Maker â€“"
 seo_title: "Gotham Steel Double Sided Pan, The Perfect Pancake Review"
 meta_description: "Our full gotham steel double sided pan, the perfect pancake maker â€“ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07BDMHQR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IqSLuuVsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "pancake maker" gadgets are gimmicks that end up in a donation box by February. The Gotham Steel Double Sided Pan is different — it actually solves a real problem. Flipping pancakes without a spatula means no more broken edges, no batter splatter on the stovetop, and no nervous hovering while your breakfast does a half-flip. But this clever design comes with a few tradeoffs you need to know about before you hit buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "JOY DECOR Cabinet Pulls Drawer Knobs Kitchen Cabinet Knobs S"
 seo_title: "JOY DECOR Cabinet Pulls Drawer Knobs Kitchen Cabin Review"
 meta_description: "Our full joy decor cabinet pulls drawer knobs kitchen cabinet knobs s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPHR6P71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VGs3R4ZtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Skip the fancy showroom, not the hardware.**

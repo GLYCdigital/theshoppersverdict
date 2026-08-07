@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Zenbook Duo Laptop, Dual 14â€"
 seo_title: "ASUS Zenbook Duo Laptop Review: Dual 14â€³ Screen Honest Take"
 meta_description: "ASUS Zenbook Duo dual 14â€³ laptop review: Is the dual-screen productivity boost worth the compromises? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DWVDWR2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Pefr1q26L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 14-inch OLED displays create a genuinely usable 19.8-inch vertical workspace when stacked"
   - "Detachable Bluetooth keyboard with integrated trackpad works seamlessly in both laptop and dual-screen modes"
   - "Built-in kickstand on the rear panel enables stable desktop-style positioning on any flat surface"
-cons:
+cons: 
   - "Battery life suffers badly in dual-screen mode — expect 4-5 hours max, not the 10+ ASUS claims"
   - "At 3.5 pounds with the keyboard attached, it's heavier than most 14-inch ultrabooks"
   - "Software quirks with window snapping and app scaling on the dual display setup frustrate daily use"
+
 ---
 
 The ASUS Zenbook Duo is the laptop equivalent of ordering a double cheeseburger and getting two patties stacked with cheese in between. It's ambitious, occasionally brilliant, and leaves you wondering why everyone else isn't doing it this way. But after 170 Amazon ratings averaging just 3.4 stars, the honeymoon phase clearly wears off for a lot of owners. Here's the real story.

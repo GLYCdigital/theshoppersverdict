@@ -1,4 +1,5 @@
 ---
+
 title: "Fire Starters for Indoor Fireplace, Wood Stove, Campfire"
 seo_title: "Fire Starters for Fireplace & Wood Stove Review (2026)"
 meta_description: "Honest review of fire starters for indoor fireplaces, wood stoves & campfires. 4.7★ rated. See how they perform, what buyers love, and where they fall short."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSK6QDJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V52gPXKuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lights reliably with a single match — no kindling pyramid needed"
   - "Burns hot enough to catch seasoned hardwood in under 10 minutes"
   - "Low smoke and minimal odor, suitable for indoor fireplace use"
-cons:
+cons: 
   - "Each starter is single-use; heavy users will go through boxes quickly"
   - "Not ideal for damp or green wood — still requires dry, seasoned logs"
+
 ---
 
 If you've ever spent ten frustrating minutes nursing a fire with crumpled newspaper, only to watch it die in a puff of smoke, you already know why fire starters exist. These compact ignition blocks promise to eliminate that ritual entirely. The question isn't whether they work — it's whether they're worth the money versus the old-fashioned approach.

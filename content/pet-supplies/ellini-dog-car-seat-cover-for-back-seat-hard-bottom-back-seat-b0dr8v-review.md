@@ -1,4 +1,5 @@
 ---
+
 title: "ELLINI Dog Car Seat Cover for Back Seat, Hard Bottom Back Se"
 seo_title: "ELLINI Dog Car Seat Cover Review: Hard Bottom Back Seat"
 meta_description: "ELLINI dog car seat cover with hard bottom: durable, waterproof, easy install. Read our honest review of pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR8VKDQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jZQUXaU6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hard bottom panel prevents dogs from sinking into seat crevices — a genuine structural advantage over flimsy fabric-only covers"
   - "Three-layer construction (PVC backing, quilted padding, Oxford fabric) holds up to claws and repeated washing"
   - "Side flaps and seat anchors actually stay put on most SUVs and sedans, per consistent buyer feedback"
-cons:
+cons: 
   - "Not a true hammock style — gap between seat back and bottom can let small dogs slip through to the floor"
   - "Folding it back down for human passengers takes effort; the rigid base doesn't compress neatly"
   - "Some buyers report the 600D Oxford fabric feels thinner than expected for the price point"
+
 ---
 
 **If you've ever watched your dog post up in the back seat like they own the place — claws digging into leather, shedding a new sweater's worth of fur per mile — you know the drill. The ELLINI Dog Car Seat Cover is built for exactly that chaos, and it's one of the better hard-bottom options under $60.**

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Hogwarts Castle: Charms Class Building Toy"
 seo_title: "LEGO Harry Potter Hogwarts Castle: Charms Class Bu Review"
 meta_description: "Our full lego harry potter hogwarts castle: charms class building toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1BV2TX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zTexg-o7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Harry Potter Hogwarts Castle: Charms Class is the rare set that understands what makes a play scene memorable. It's not the sprawling castle exterior or the minifigure count — it's that one magical moment where a feather floats. LEGO nailed that moment here, and it elevates a modest 300-piece build into something genuinely delightful.

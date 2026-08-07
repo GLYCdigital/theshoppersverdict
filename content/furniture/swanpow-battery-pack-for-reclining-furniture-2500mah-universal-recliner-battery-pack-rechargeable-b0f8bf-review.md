@@ -1,4 +1,5 @@
 ---
+
 title: "SWANPOW Battery Pack for Reclining Furniture, 2500mAh Univer"
 seo_title: "SWANPOW Battery Pack for Reclining Furniture, 2500 Review"
 meta_description: "Our full swanpow battery pack for reclining furniture, 2500mah univer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F8BFBNFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PsN993QUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you own a power recliner, you've probably cursed the wall wart transformer that forces you to position furniture within arm's reach of an outlet. The SWANPOW 2500mAh battery pack promises to cut that cord permanently. It mostly delivers — with some asterisks you need to know about before clicking buy.

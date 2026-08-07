@@ -1,4 +1,5 @@
 ---
+
 title: "Lâ€™OrÃ©al Paris L'OrÃ©al Paris Infallible 8 HR Pro Gloss"
 seo_title: "Lâ€™OrÃ©al Paris L'OrÃ©al Paris Infallible 8 HR Pr Review"
 meta_description: "Our full lâ€™orã©al paris l'orã©al paris infallible 8 hr pro gloss review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B004ECDQ06/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hTD6uObxL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be real: the lip gloss market is a battlefield. You’ve got $40 luxury tubes that dry out in an hour, and $5 drugstore options that glue your lips together. The L’Oréal Paris Infallible 8 HR Pro Gloss sits in the middle, promising the impossible — eight hours of shine without the sticky mess. After digging through 215 ratings and testing the formula myself, here’s the honest breakdown. 

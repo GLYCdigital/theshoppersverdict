@@ -1,4 +1,5 @@
 ---
+
 title: "Sinyeenglon Cobalt Drill Bits Set for Hardened Metal and Sta"
 seo_title: "Sinyeenglon Cobalt Drill Bits Set for Hardened Met Review"
 meta_description: "Our full sinyeenglon cobalt drill bits set for hardened metal and sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHVLC93F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AfQETVgYL._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 99-piece cobalt set that punches above its price — but only if you know its limits.**

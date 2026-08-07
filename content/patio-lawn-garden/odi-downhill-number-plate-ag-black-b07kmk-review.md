@@ -1,4 +1,5 @@
 ---
+
 title: "ODI Downhill Number Plate, Ag, Black"
 seo_title: "ODI Downhill Number Plate, Ag, Black Review: Verdict | TS"
 meta_description: "Our full odi downhill number plate, ag, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07KMKMMZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kSSIG3r+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this is a number plate for your dirt bike or mountain bike, not a patio ornament. But since you're here, you probably already know that. The question is whether ODI's Downhill Number Plate in Ag Black is worth your money when there are cheaper generic options on Amazon. After digging through 240 ratings and the real-world feedback behind that 4.8-star average, here's what I found.

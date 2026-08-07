@@ -1,4 +1,5 @@
 ---
+
 title: "Groxkox Cat Carrier for 2 Cats, Foldable Double Cat and Dog"
 seo_title: "Groxkox Cat Carrier for 2 Cats Review (2026): Worth It?"
 meta_description: "Groxkox foldable double cat carrier review: roomy for two cats, sturdy build, easy storage. See pros, cons, and if it fits your multi-pet needs."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F87J86DP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hUlm6WHkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Genuinely roomy interior (roughly 20 inch "L x 12.5 inch "W x 12.5 inch "H) fits two adult cats without shoulder-to-shoulder cramping
   - "Folds completely flat in seconds — no tools, no wrestling with zippers to collapse it"
   - "Top-loading zipper door is a lifesaver for anxious cats who refuse to be pushed through a front opening"
-cons:
+cons: 
   - "Soft-sided construction means no hard shell protection for car crash safety — this is a carrier, not a crash-tested crate"
   - "Side mesh is well-ventilated but not chew-proof; a determined escape artist can claw through it"
   - "Carry handles are padded but thin — loaded with two 10lb cats, they dig into your hands on long walks"
+
 ---
 
 **The dual-cat carrier is a niche product. Most are either flimsy tents or oversized duffels that sag in the middle. The Groxkox Foldable Double Carrier actually gets the geometry right — and at 4.7 stars across 235 ratings, owners agree it solves the "two cats, one vet visit" problem without turning into a wrestling match.**

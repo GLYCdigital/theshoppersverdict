@@ -1,16 +1,17 @@
 ---
+
 title: "VIVO Dark Gray 32 inch Standing Desk Converter, DESK-V000KG | Height Adjustable, Stand Up Desk Riser, Wide Keyboard Tray, Dual Monitor and Laptop Workstation, Black Frame, K Series"
 seo_title: "VIVO Dark Gray Review: Verdict (4.6/5) | TSV"
 meta_description: "Excellent quality & sturdy after 2 15,578+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "vivo-dark-gray-32-inch-standing-desk-converter-desk-v000kg-height-adjustable-review"
 image_alt: "VIVO Dark Gray 32 inch Standing Desk Converter, DESK-V000KG | Height Adjustable, Stand Up Desk Riser, Wide Keyboard Tray"
-keywords:
+keywords: 
   - "vivo dark gray review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the VIVO Dark Gray 32?"
     answer: "Excellent quality & sturdy after 2 years That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the VIVO Dark Gray 32?"
@@ -24,12 +25,13 @@ review_count: 15578
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C514C64X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BUqPctePL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Excellent quality & sturdy after 2 years."
   - "I actually love this and it's worth the money."
   - "High quality desk converter for a good price Excellent monitor stand for the money."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let’s cut through the noise. The VIVO DESK-V000KG is one of the most-purchased standing desk converters on Amazon, with over 15,500 ratings holding a 4.6-star average. At $54, it undercuts most competitors by $30–50. But does "budget-friendly" mean "flimsy"? I tested it against the claims, dug through hundreds of verified buyer experiences, and here’s the honest breakdown.

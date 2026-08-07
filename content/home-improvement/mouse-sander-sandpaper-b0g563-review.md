@@ -1,4 +1,5 @@
 ---
+
 title: "Mouse Sander Sandpaper"
 seo_title: "Mouse Sander Sandpaper Review: Verdict | TSV"
 meta_description: "Our full mouse sander sandpaper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G5638P82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XEF3b9snL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a mouse sander (the triangular-headed detail tool that's saved every DIYer's wrists), you already know the pain: finding sandpaper that actually fits, stays attached, and doesn't disintegrate after ten minutes. This 30-sheet kit from B0G5638P82 wants to be that answer. With a 4.7-star average across 235 ratings, it's clearly earning its keep in a lot of workshops. But is it worth swapping from whatever you're currently using? Let's dig into the specifics.

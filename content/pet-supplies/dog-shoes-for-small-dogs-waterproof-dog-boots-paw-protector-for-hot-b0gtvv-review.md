@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Shoes for Small Dogs, Waterproof Dog Boots Paw Protector"
 seo_title: "Dog Shoes for Small Dogs Review: Waterproof Boots Tested"
 meta_description: "Honest review of waterproof dog boots for small dogs. We tested fit, grip, and durability. See if these paw protectors are worth buying."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GTVV11J7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V-+L76rOL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof upper with sealed seams — tested in puddles and wet grass without leakage"
   - "Reflective strips on all four boots improve visibility for early morning or evening walks"
   - "Anti-slip rubber sole pattern provides solid traction on wet pavement and hardwood floors"
-cons:
+cons: 
   - "Sizing runs small — measure carefully, and many buyers report needing to size up one full size"
   - "Straps use Velcro that can loosen during vigorous activity; some dogs shook them off mid-run"
   - "Not breathable — extended wear causes moisture buildup inside, which can irritate sensitive paws"
+
 ---
 
 Let's be direct about these dog boots: they're a solid budget-friendly option for occasional protection, but they're not the final word in canine footwear. With a 3.8-star average across 190 ratings, the feedback splits between owners whose small dogs took to them immediately and those who fought the fit. Here's what you actually need to know.

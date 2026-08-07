@@ -1,4 +1,5 @@
 ---
+
 title: "Seco-Larm SD-995C Fail-Secure or Fail-Safe Electric Door Str"
 seo_title: "Seco-Larm SD-995C Fail-Secure or Fail-Safe Electri Review"
 meta_description: "Our full seco-larm sd-995c fail-secure or fail-safe electric door str review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B001DPV29Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51P6lyRQQDL._AC_SL1003_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're securing a door that absolutely must not fail open during a power outage — think a server room, gun safe, or medication closet — the Seco-Larm SD-995C deserves a hard look. This isn't a smart lock with apps and fingerprint readers; it's a workhorse access control component designed to be hidden inside a door frame and triggered by a keypad, card reader, or push button.

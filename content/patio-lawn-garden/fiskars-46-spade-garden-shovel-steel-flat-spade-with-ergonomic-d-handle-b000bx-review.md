@@ -1,4 +1,5 @@
 ---
+
 title: "Fiskars 46 inch  Spade Garden Shovel, Steel Flat Spade with Ergon"
 seo_title: "Fiskars 46 inch  Spade Garden Shovel Review: Worth It? [2026]"
 meta_description: "Fiskars 46 inch  steel flat spade review: 4.7★ rated. Tested for digging, edging & transplanting. Real pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000BX4SLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zkB4U0YBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heat-treated, rust-resistant steel blade holds a sharp edge through rocky soil without bending"
   - "46-inch length with ergonomic D-handle reduces back strain during extended digging sessions"
   - "Oversized foot treads give solid purchase even in wet, muddy conditions"
-cons:
+cons: 
   - "Heavier than fiberglass-handled competitors at roughly 5.5 pounds — noticeable on long jobs"
   - "Handle lacks a cushioned grip, which can become uncomfortable for users with larger hands"
+
 ---
 
 **The Fiskars 46-Inch Steel Flat Spade: The $40 Digging Tool That Outworks Shovels Twice Its Price**

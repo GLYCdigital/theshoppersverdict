@@ -1,7 +1,8 @@
 ---
-title: "JOINICE Console Tables with Drawers,43\" Entryway Table with "
-seo_title: "JOINICE Console Tables with Drawers,43\" Entryway T Review"
-meta_description: "Our full joinice console tables with drawers,43\" entryway table with  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JOINICE Console Tables with Drawers,43\ Entryway Table with "
+seo_title: "JOINICE Console Tables with Drawers,43\ Entryway T Review"
+meta_description: "Our full joinice console tables with drawers,43\ entryway table with  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "joinice-console-tables-with-drawers-43-entryway-table-with-shelf-and-solid-b0fx2r-review"
 image_alt: "JOINICE Console Tables with Drawers,43 Entryway Table with Shelf and Solid Wood Legs,Narrow Long Sofa Table with Storage"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX2RFDJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nsiPh4oJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most console tables under $150 are glorified cardboard with a wood-print sticker. The JOINICE 43" entryway table isn't that. It's a legitimately solid piece of furniture that happens to cost less than a nice dinner out for two.

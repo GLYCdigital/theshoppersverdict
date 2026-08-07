@@ -1,4 +1,5 @@
 ---
+
 title: "2532-20 M12 Pro PEX Expander Tool with 1/2 in. - 1 in. RAPID"
 seo_title: "Milwaukee 2532-20 M12 PEX Expander Tool Review (2026)"
 meta_description: "Milwaukee 2532-20 M12 Pro PEX Expander Tool review: speed, battery life, and real-world performance for 1/2 to 1-inch expansions. Is it worth $400+?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08X1PTG17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dxXcyiRGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "RAPID head cuts expansion time roughly in half vs. standard heads — 1/2-inch joints take about 2 seconds per cycle"
   - "Brushless M12 motor holds up on 40+ joint days; one 4.0 Ah battery handles a full rough-in"
   - "Interchangeable heads (1/2, 3/4, 1-inch) swap in under 10 seconds with no tools"
-cons:
+cons: 
   - "Expensive outlay — expect to pay $400+ for the bare tool, plus separate heads and batteries"
   - "Not for stainless steel PEX or PEX-A rings — only works with Uponor/Wirsbo-style PEX-A tubing"
   - "No belt clip or case included; you'll need to buy the kit version for a hard case"
+
 ---
 
 If you've ever fought a manual PEX-A expander for an hour, you already know why Milwaukee's M12 Pro PEX Expander exists. This is the cordless tool that turns a sweaty, forearm-burning chore into a two-second squeeze of a trigger. But at this price point, you're not buying a toy — you're buying a professional-grade investment. Here's the full breakdown after digging through 229 verified ratings and real plumber feedback.

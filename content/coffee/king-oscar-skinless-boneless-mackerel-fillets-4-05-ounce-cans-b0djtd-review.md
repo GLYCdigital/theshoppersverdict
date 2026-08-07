@@ -1,4 +1,5 @@
 ---
+
 title: "King Oscar Skinless & Boneless Mackerel Fillets, 4.05-Ounce "
 seo_title: "King Oscar Skinless & Boneless Mackerel Fillets, 4 Review"
 meta_description: "Our full king oscar skinless & boneless mackerel fillets, 4.05-ounce  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJTDCWSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ab85CXq6L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most canned fish is a compromise. You trade flavor for convenience, texture for shelf stability. King Oscar's skinless and boneless mackerel fillets try to close that gap — and for the most part, they succeed.

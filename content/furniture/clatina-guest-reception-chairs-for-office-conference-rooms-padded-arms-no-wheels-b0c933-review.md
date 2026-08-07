@@ -1,4 +1,5 @@
 ---
+
 title: "CLATINA Guest Reception Chairs for Office & Conference Rooms"
 seo_title: "CLATINA Guest Reception Chairs Review: Honest 2026 Verdict"
 meta_description: "CLATINA guest reception chairs review: durability, comfort, and assembly insights from real buyers. Is this 4.0-star office chair worth it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C9335CLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/51saluCIwiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy steel frame rated for 350 lbs — noticeably more solid than comparably priced reception chairs"
   - "Padded armrests are genuinely comfortable for extended meetings, not just decorative"
   - "Easy 10-minute assembly with all tools included and clear instructions"
-cons:
+cons: 
   - "No lumbar support — lower back fatigue sets in after 2+ hours of continuous sitting"
   - "Fabric upholstery shows lint and dust quickly in high-traffic waiting areas"
   - Fixed arm height may feel too tall for shorter users (under 5'4\")
+
 ---
 
 ## The $150 Question: Can a Budget Reception Chair Look Like a Million Bucks?

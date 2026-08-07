@@ -1,4 +1,5 @@
 ---
+
 title: "Pyrex 7211-PC 6 Cup Blue Food Storage Replacement Lid (2-Pac"
 seo_title: "Pyrex 7211-PC 6 Cup Blue Food Storage Replacement  Review"
 meta_description: "Our full pyrex 7211-pc 6 cup blue food storage replacement lid (2-pac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0166LD81Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YoW3RBYAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about replacement lids: they're rarely exciting, but they're often the difference between a $12 fix and a $30 new set. The Pyrex 7211-PC 6 Cup Blue Food Storage Replacement Lid 2-Pack addresses the most common kitchen frustration — mismatched or cracked lids — and does exactly what it claims. Here's the breakdown.

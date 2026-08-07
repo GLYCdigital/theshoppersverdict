@@ -1,4 +1,5 @@
 ---
+
 title: "GEEKOM xt13 pro"
 seo_title: "GEEKOM xt13 pro Review: Verdict | TSV"
 meta_description: "Our full geekom xt13 pro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FF4Q17GC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YqSeRcz7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Little Box That Thinks It's a Desktop

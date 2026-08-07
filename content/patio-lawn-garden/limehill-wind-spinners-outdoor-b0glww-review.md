@@ -1,4 +1,5 @@
 ---
+
 title: "LimeHill Wind Spinners Outdoor"
 seo_title: "LimeHill Wind Spinners Outdoor Review: Verdict | TSV"
 meta_description: "Our full limehill wind spinners outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GLWW3XZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hLdPGE7IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've watched a cheap wind spinner seize up after two weeks of sun, you know the frustration. The LimeHill Wind Spinners Outdoor promises to be different — and with a 4.5-star average across 225 ratings, it's earning that reputation. But is it actually built for the long haul, or just another pretty ornament that'll collect dust by fall? I dug into the specs, the build, and what real buyers are saying to give you the straight answer.

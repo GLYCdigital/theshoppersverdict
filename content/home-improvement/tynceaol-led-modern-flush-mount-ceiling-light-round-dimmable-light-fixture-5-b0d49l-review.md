@@ -1,4 +1,5 @@
 ---
+
 title: "TYNCEAOL LED Modern Flush Mount Ceiling Light Round Dimmable"
 seo_title: "TYNCEAOL LED Modern Flush Mount Ceiling Light Roun Review"
 meta_description: "Our full tynceaol led modern flush mount ceiling light round dimmable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D49LF331/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l0dL2UlrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about ceiling lights: most are either ugly, complicated to install, or both. The TYNCEAOL LED Modern Flush Mount skips the drama. It's a 12-inch round disc, just over an inch thick, that screws to a standard junction box and gives you clean, adjustable light. At 4.5 stars across 225 ratings, it's clearly doing something right. Here's the full breakdown.

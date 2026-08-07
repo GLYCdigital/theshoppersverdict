@@ -1,4 +1,5 @@
 ---
+
 title: "California Air Tools 2.0 HP Ultra Quiet and Oil-Free Air Com"
 seo_title: "California Air Tools 2.0 HP Review: Ultra Quiet Air Compressor"
 meta_description: "California Air Tools 2.0 HP ultra quiet air compressor review: real decibel tests, oil-free maintenance, and honest tradeoffs for DIYers and pros."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C3VQ2C2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+3w0tTZTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely quiet operation at ~70 dB — you can hold a conversation next to it running"
   - "Oil-free pump means zero maintenance and no oil mist on your workpieces"
   - "Dual quick-connect couplers let two tools run simultaneously without swapping fittings"
-cons:
+cons: 
   - "At 2.0 HP, it's not a production workhorse — brad nailers and inflators yes, continuous sandblasting no"
   - "The 8-gallon tank means frequent cycling on larger tools; recovery time feels slow under heavy draw"
   - "Rubber feet help but don't fully eliminate vibration transfer on hard shop floors"
+
 ---
 
 If you've ever flinched when a compressor kicks on, this California Air Tools unit is the antidote. The 2.0 HP oil-free model promises garage-friendly noise levels, and for once, the marketing matches reality. At roughly 70 decibels — about the volume of a normal conversation or a dishwasher — you can actually run this thing while on the phone without shouting. That alone puts it in a different class from the typical 90+ dB screamers that dominate the budget aisle.

@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel"
 seo_title: "Mattel Review: Verdict | TSV"
 meta_description: "Our full mattel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5J8BV7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 4.7-star average across 235 ratings tells you most buyers walked away happy. But what exactly are they happy about — and who should skip this one?** I dug through verified purchase feedback and looked at the physical product details to give you the straight story.

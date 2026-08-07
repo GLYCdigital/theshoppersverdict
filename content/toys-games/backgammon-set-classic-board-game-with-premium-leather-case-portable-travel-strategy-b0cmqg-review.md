@@ -1,4 +1,5 @@
 ---
+
 title: "Backgammon Set - Classic Board Game with Premium Leather Cas"
 seo_title: "Backgammon Set Review: Premium Leather Travel Case Game"
 meta_description: "Honest review of this premium leather backgammon set. Is it worth the price? We cover build quality, portability, and gameplay feel."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMQGZ46B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QPleHHBHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine leather exterior with stitched seams that feels far more expensive than the price point suggests"
   - "Magnetic closure keeps the case securely shut during travel — no loose checkers rattling around"
   - "Felt-lined interior playing surface provides smooth dice rolls and quiet gameplay"
-cons:
+cons: 
   - "Checkers are on the smaller side (about 1 inch diameter), which can be fiddly for players with larger hands"
   - "Dice cups are basic plastic rather than leather-wrapped — a slight mismatch with the premium exterior"
   - "Board lies flat but has a slight center crease from folding that takes a few sessions to relax"
+
 ---
 
 # Backgammon Set Review: Does This Leather Travel Case Deliver?

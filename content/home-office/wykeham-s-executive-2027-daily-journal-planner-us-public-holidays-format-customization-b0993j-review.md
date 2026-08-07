@@ -1,4 +1,5 @@
 ---
+
 title: "Wykeham's Executive 2027 Daily Journal Planner â€“ US Public"
 seo_title: "Wykeham's Executive 2027 Daily Journal Planner â€“ Review"
 meta_description: "Our full wykeham's executive 2027 daily journal planner â€“ us public review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0993JH8TT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81agNLzL9hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If you live by your calendar and write in it daily, this is the last planner you'll buy for 2027. Just don't plan on stuffing it in a slim briefcase.**

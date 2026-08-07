@@ -1,4 +1,5 @@
 ---
+
 title: "Rico Industries NFL Football 15oz Matte Black Bistro Mug - F"
 seo_title: "Rico Industries NFL Football 15oz Matte Black Bist Review"
 meta_description: "Our full rico industries nfl football 15oz matte black bistro mug - f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C6N39B1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61116Q3gWFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the pregame hype and talk about what this mug actually does. The Rico Industries NFL Football 15oz Matte Black Bistro Mug is a licensed team mug that’s trying to be more than a shelf ornament. After digging through 240 ratings averaging 4.8 stars, the consensus is clear: this is a legitimate daily-driver mug, not just a gameday prop.

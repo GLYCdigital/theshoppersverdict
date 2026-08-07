@@ -1,4 +1,5 @@
 ---
+
 title: "Nostalgia 3-in-1 Breakfast Station"
 seo_title: "Nostalgia 3-in-1 Breakfast Station Review: Verdict | TSV"
 meta_description: "Our full nostalgia 3-in-1 breakfast station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FB98NRS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lmAJp3fdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Real-World Performance: The Good, the OK, and the Weird

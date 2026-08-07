@@ -1,4 +1,5 @@
 ---
+
 title: "Sondiko Oval Bread Proofing Basket, Handmade Banneton Bread "
 seo_title: "Sondiko Oval Bread Proofing Basket, Handmade Banne Review"
 meta_description: "Our full sondiko oval bread proofing basket, handmade banneton bread  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D2P3346H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m4+Jx+qpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the banneton that finally replaces your bowl-and-towel setup?**

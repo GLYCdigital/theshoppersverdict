@@ -1,4 +1,5 @@
 ---
+
 title: "Jiahz 32 PCS LED Foam Glow Sticks Bulk, Glow in The Dark Par"
 seo_title: "Jiahz 32 PCS LED Foam Glow Sticks Bulk, Glow in Th Review"
 meta_description: "Our full jiahz 32 pcs led foam glow sticks bulk, glow in the dark par review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BV6GSBJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O7JHr0EZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Jiahz 32 PCS LED Foam Glow Sticks: The Party Purchase That Actually Saves You Money

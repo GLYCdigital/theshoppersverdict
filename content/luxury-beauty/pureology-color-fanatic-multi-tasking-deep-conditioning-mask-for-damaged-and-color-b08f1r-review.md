@@ -1,4 +1,5 @@
 ---
+
 title: "Pureology Color Fanatic Multi-Tasking Deep-Conditioning Mask"
 seo_title: "Pureology Color Fanatic Multi-Tasking Deep-Conditi Review"
 meta_description: "Our full pureology color fanatic multi-tasking deep-conditioning mask review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08F1R82ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YYf4T6fmL._SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most deep conditioners for color-treated hair are either too heavy (weighing down fine strands) or too watery (doing nothing). The Pureology Color Fanatic Multi-Tasking Mask sits in a rare middle ground — it's a true treatment that respects both your color investment and your hair's structural integrity.

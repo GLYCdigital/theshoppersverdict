@@ -1,4 +1,5 @@
 ---
+
 title: "Anastasia Beverly Hills Professional Makeup Brush - High-Per"
 seo_title: "Anastasia Beverly Hills Brush Review: Worth the Hype? (2026)"
 meta_description: "Honest Anastasia Beverly Hills professional makeup brush review: performance, build quality, and whether this luxury tool earns its price tag. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QBCGWQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31Ir-RZyj+L._SL1500_.jpg"
-pros:
+pros: 
   - "Dense, precision-cut synthetic bristles that pick up and deposit product evenly without absorbing excess foundation"
   - "Featherlight aluminum ferrule and balanced handle weight that reduces hand fatigue during extended blending"
   - "Cruelty-free synthetic fibers that clean thoroughly in under 60 seconds with no shedding or warping after repeated washes"
-cons:
+cons: 
   - "Premium price point that sits well above comparable drugstore synthetic brushes with similar performance"
   - "No protective sleeve or case included, which means the bristles can splay in a makeup bag without careful storage"
   - "The handle's matte finish shows fingerprints and foundation smudges quickly, requiring regular wiping to keep it looking clean"
+
 ---
 
 **The $25 question: Does an Anastasia Beverly Hills brush actually outperform the $8 one from the drugstore?** After putting this through daily wear, multiple washes, and side-by-side comparison, the answer is more nuanced than you'd expect.

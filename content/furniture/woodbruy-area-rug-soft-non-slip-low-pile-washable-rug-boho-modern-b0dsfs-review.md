@@ -1,4 +1,5 @@
 ---
+
 title: "woodbruy Area Rug, Soft Non Slip Low Pile Washable Rug, Boho"
 seo_title: "woodbruy Area Rug, Soft Non Slip Low Pile Washable Review"
 meta_description: "Our full woodbruy area rug, soft non slip low pile washable rug, boho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSFSTSMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jNHP5u1LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-star washable boho rug that actually survives the washing machine — here's the full story.**

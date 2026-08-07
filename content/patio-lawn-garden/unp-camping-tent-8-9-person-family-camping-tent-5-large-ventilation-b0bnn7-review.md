@@ -1,4 +1,5 @@
 ---
+
 title: "UNP Camping Tent 8/9 Person, Family Camping Tent, 5 Large Ve"
 seo_title: "UNP Camping Tent 8/9 Person, Family Camping Tent,  Review"
 meta_description: "Our full unp camping tent 8/9 person, family camping tent, 5 large ve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BNN7K859/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pc1BGcZFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, an 8-person tent for under $200 is a gamble. Either you get something that survives one summer, or you get the tent your family actually uses for the next five years. The UNP Camping Tent sits firmly in the second category — with a few compromises you need to know about before you click buy.

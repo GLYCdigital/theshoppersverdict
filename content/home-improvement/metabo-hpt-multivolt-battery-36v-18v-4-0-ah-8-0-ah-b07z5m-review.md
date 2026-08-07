@@ -1,4 +1,5 @@
 ---
+
 title: "Metabo HPT MultiVolt Battery | 36V/18V, 4.0 Ah/8.0 Ah, Lithi"
 seo_title: "Metabo HPT MultiVolt Battery | 36V/18V, 4.0 Ah/8.0 Review"
 meta_description: "Our full metabo hpt multivolt battery | 36v/18v, 4.0 ah/8.0 ah, lithi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07Z5M1MZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BO+vecbeL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're already invested in Metabo HPT's 36V platform, this battery is the backbone of the system. But here's the twist that makes it interesting: pop this same pack into an 18V tool, and you get a 4.0Ah battery. Run it in a 36V tool, and it delivers 8.0Ah. That's the MultiVolt party trick, and it's genuinely useful if you own tools on both voltages.

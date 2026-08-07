@@ -1,4 +1,5 @@
 ---
+
 title: "aoole Folding Chair, 700 lb Weight Capacity,Indoor/Outdoor H"
 seo_title: "aoole Folding Chair 700 lb Review: Heavy-Duty & Portable"
 meta_description: "aoole folding chair 700 lb weight capacity review: sturdy steel frame, indoor/outdoor versatility. Real buyer feedback on comfort, portability & value."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFYGYRBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7139Ig+lOJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "700 lb weight capacity with reinforced steel cross-bracing — genuine heavy-duty rating, not marketing puff"
   - "Folds flat to roughly 4 inches thick; weighs about 12 lbs, making it manageable for trunk storage"
   - "Padded seat and backrest with breathable mesh fabric that holds up to outdoor sun exposure without cracking"
-cons:
+cons: 
   - "No carry handle or shoulder strap — awkward to lug one-handed across a parking lot"
   - "Fixed seat height (about 19 inches) means taller users may find the sitting position slightly low"
   - "Lacks a cup holder or side armrests, so it's purely a utility chair, not a lounger"
+
 ---
 
 # aoole Folding Chair 700 lb Weight Capacity Review: Built for the Bigger Guest

@@ -1,4 +1,5 @@
 ---
+
 title: "DEERC RC Plane SQN-022 inch"
 seo_title: "DEERC RC Plane SQN-022 Review: Is It Worth It? (2026)"
 meta_description: "DEERC RC Plane SQN-022 review: real pros, cons, flight performance, and who should buy. Honest verdict from a 4.2-star rated RC glider."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FF26PCV4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Durable EPP foam construction handles hard crashes without breaking — beginners won't cry after a rough landing"
   - "One-key takeoff and landing make first flights genuinely easy, even for kids or total novices"
   - "Dual 2.4GHz motors provide enough thrust for outdoor loops and gliding, not just toy-grade puttering"
-cons:
+cons: 
   - "No spare propellers included — the stock props are brittle and will bend on repeated nose-in crashes"
   - "Battery life is short at roughly 8–10 minutes per charge, and the USB cable charges slowly (40+ minutes)"
   - "Requires calm wind conditions under 5 mph; anything breezier and the lightweight airframe gets tossed around"
+
 ---
 
 Let's cut through the marketing: the DEERC RC Plane SQN-022 is a $60-ish foam glider that promises "one-key stunts" and beginner-friendly flight. Does it deliver? Mostly yes — with caveats you should know before checkout.

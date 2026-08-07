@@ -1,4 +1,5 @@
 ---
+
 title: "ABCCANOPY Outdoor Winter Gazebo, Premium Instant Pop Up Cano"
 seo_title: "ABCCANOPY Winter Gazebo Review: Instant Pop-Up Canopy"
 meta_description: "Read our honest ABCCANOPY Outdoor Winter Gazebo review. Instant pop-up design, sturdy build, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFGW2DGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614D7SUaNPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True instant setup — one-person pop-up assembly in under a minute, no tools required"
   - "Dual-layer 300D Oxford fabric with PU coating handles snow, rain, and UV without leaking"
   - "Sturdy 25mm steel frame with cross-bracing holds up in real wind, not just calm days"
-cons:
+cons: 
   - "Sold as a winter gazebo, but the base poles lack a solid anchoring system — you MUST stake or sandbag it in open areas"
   - "The zippered door panels are a bit finicky at the corners; some buyers report alignment issues over time"
   - "At roughly 60 lbs, it's 'portable' only if you have a truck or SUV — not a casual carry-to-the-park canopy"
+
 ---
 
 Is the ABCCANOPY Winter Gazebo a legit four-season shelter, or just another pop-up that folds the first time the wind sneezes? With 220 ratings averaging 4.4 stars, the crowd is mostly happy. But "mostly" isn't "all." Here's what you actually need to know before you pull the trigger.

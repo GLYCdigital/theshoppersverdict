@@ -1,23 +1,25 @@
 ---
+
 title: "Airhead Mable Towable Tube for Boating, 1-4 Rider Inflatable"
 seo_title: "Airhead Mable Towable Tube Review: 1-4 Rider Boat Tube (2026)"
 meta_description: "Airhead Mable towable tube review: 4.0-star rated 1-4 rider inflatable. Tested for speed, comfort, and durability. See pros, cons, and who should buy."
 slug: "airhead-mable-towable-tube-for-boating-1-4-rider-inflatable-boat-tube-b0gxx6-review"
 image_alt: "Airhead Mable towable tube for boating with 1-4 rider capacity, colorful inflatable deck and tow harness"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXX6Q87J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "Thick 20-gauge PVC with double-stitched seams handles rough water without leaking"  
   - "Four padded neoprene handles and a full perimeter grab rope give every rider a secure grip"  
   - "Quick-connect tow harness with 1,500-pound test line attaches in under 30 seconds"  
-cons:  
+cons: 
   - "No Boston valve — uses standard Halkey-Roberts valve, requiring an adapter for some pumps"  
   - "At 76 pounds inflated weight, it's a two-person lift to drag up a boat ramp"
+
 ---
 
 **The Airhead Mable isn't just another donut tube.** With a 4.0-star average across 200 ratings, it's the rare inflatable that earns its keep on rough water. But here's the twist: it's not the tube for everyone. Let me break down exactly who should throw this in the boat and who should keep shopping.

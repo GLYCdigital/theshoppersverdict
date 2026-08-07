@@ -1,4 +1,5 @@
 ---
+
 title: "RALGEND Farmhouse End Table with Charging Station, 24'' Sofa"
 seo_title: "RALGEND Farmhouse End Table with Charging Station, Review"
 meta_description: "Our full ralgend farmhouse end table with charging station, 24'' sofa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GY44XLVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91kbOK1Dw9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most end tables are dumb. They hold your coffee and collect dust, and that's about it. The RALGEND Farmhouse End Table with Charging Station actually earns its spot next to your sofa by solving the one problem every couch potato faces — where to plug in your phone, tablet, and lamp without a tangle of extension cords.

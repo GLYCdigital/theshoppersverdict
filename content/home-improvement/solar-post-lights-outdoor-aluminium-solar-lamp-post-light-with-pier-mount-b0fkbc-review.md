@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Post Lights Outdoor, Aluminium Solar Lamp Post Light w"
 seo_title: "Solar Post Lights Outdoor, Aluminium Solar Lamp Po Review"
 meta_description: "Our full solar post lights outdoor, aluminium solar lamp post light w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FKBCNXN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EIGKWr7KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most solar post lights under $50 are plastic junk that yellows within one season. This aluminium unit from the B0FKBC listing is a different animal — but it's not perfect. Here's what 215 buyers and my own hands-on analysis reveal.

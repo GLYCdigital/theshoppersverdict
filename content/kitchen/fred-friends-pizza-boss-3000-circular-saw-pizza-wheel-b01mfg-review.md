@@ -1,4 +1,5 @@
 ---
+
 title: "Fred & Friends PIZZA BOSS 3000 Circular Saw Pizza Wheel"
 seo_title: "Fred & Friends PIZZA BOSS 3000 Circular Saw Pizza  Review"
 meta_description: "Our full fred & friends pizza boss 3000 circular saw pizza wheel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01MFGOKKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t0G1abnbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Is the Fred & Friends PIZZA BOSS 3000 a gimmick that ends up in a drawer, or does it actually earn its place on your counter? I’ve tested this circular-saw-styled pizza wheel against standard cutters and cheap rollers, and here’s the honest breakdown.

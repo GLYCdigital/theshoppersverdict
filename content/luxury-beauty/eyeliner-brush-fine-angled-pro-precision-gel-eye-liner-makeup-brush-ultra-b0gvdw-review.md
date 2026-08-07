@@ -1,4 +1,5 @@
 ---
+
 title: "Eyeliner Brush Fine Angled - PRO Precision Gel Eye Liner Mak"
 seo_title: "PRO Precision Angled Eyeliner Brush Review (2026)"
 meta_description: "PRO Precision Fine Angled Eyeliner Brush review: 4.5★ rated. Does this ultra-fine brush deliver crisp gel liner wings? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVDWNT1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51szih-pLCL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-fine synthetic bristles hold their edge wash after wash — no fraying or splaying after months of daily gel liner use"
   - "Angled tip hits that sweet spot between precision and speed; crisp wings in one pass without needing a cotton swab to clean up"
   - "Handle length and weight are balanced for controlled, steady strokes — feels like a proper artist's brush, not a cheap applicator"
-cons:
+cons: 
   - "Bristles are stiff enough for gel and cream formulas but too firm for loose powder shadow — you'll need a separate brush for that"
   - "No protective cap included; the fine tip can bend if tossed loose in a makeup bag without care"
+
 ---
 
 **The $15 Brush That Makes You Look Like You Know What You're Doing**

@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Makeup Kit for Girls Toys"
 seo_title: "Kids Makeup Kit for Girls Toys Review: Verdict | TSV"
 meta_description: "Our full kids makeup kit for girls toys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DNZDML46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k9bLurCZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Makeup Kit That Won’t End Up in a Drawer?

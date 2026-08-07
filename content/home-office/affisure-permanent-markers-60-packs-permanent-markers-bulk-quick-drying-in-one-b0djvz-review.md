@@ -1,4 +1,5 @@
 ---
+
 title: "Affisure Permanent markers, 60 packs permanent markers bulk,"
 seo_title: "Affisure Permanent Markers 60 Pack Review: Bulk Value Tested"
 meta_description: "Affisure 60-pack permanent markers review: Do these bulk markers deliver? We test durability, ink flow, and value. See if they beat Sharpie."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJVZH47H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MMFzwgWdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "60 markers for roughly the price of 8–10 Sharpies — per-unit cost is hard to beat"
   - "Quick-dry ink that doesn't smear on glossy surfaces like plastic or laminated paper"
   - "Chisel tip works for both broad strokes and fine detail, with surprisingly consistent flow"
-cons:
+cons: 
   - "Not truly permanent on all surfaces — fades noticeably on fabric after a couple washes"
   - "Some caps arrive loose; a few markers dried out within 3–4 months of regular use"
+
 ---
 
 # Affisure Permanent Markers 60-Pack Review: Bulk Value That Actually Works?

@@ -1,4 +1,5 @@
 ---
+
 title: "Gumballs for Gumball Machine - 1 Inch Candy Filled Gumballs"
 seo_title: "Gumballs for Gumball Machine - 1 Inch Candy Filled Review"
 meta_description: "Our full gumballs for gumball machine - 1 inch candy filled gumballs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CF7RCB5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pMCLqzHfL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### What’s in the Box (or Bag)

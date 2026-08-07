@@ -1,4 +1,5 @@
 ---
+
 title: "LEISURE TIME 45450 Jet Clean"
 seo_title: "LEISURE TIME 45450 Jet Clean Review: Verdict | TSV"
 meta_description: "Our full leisure time 45450 jet clean review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BX9SSX7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nO+q2MllL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: if you've got white floaty bits drifting out of your spa jets, you don't need a new pump or expensive plumbing work. You need this bottle. The LEISURE TIME 45450 Jet Clean is the fix for one of the most annoying hot tub problems — biofilm and gunk lodged deep inside the jet assemblies where ordinary surface cleaners can't reach.

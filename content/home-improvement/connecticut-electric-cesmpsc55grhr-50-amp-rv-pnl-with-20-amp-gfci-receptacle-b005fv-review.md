@@ -1,4 +1,5 @@
 ---
+
 title: "Connecticut Electric CESMPSC55GRHR 50-Amp RV PNL with 20-Amp"
 seo_title: "Connecticut Electric CESMPSC55GRHR Review: 50-Amp RV Panel"
 meta_description: "Connecticut Electric CESMPSC55GRHR 50-Amp RV panel review: pre-wired GFCI, 4.6★ rating. Is it worth it? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B005FVNGBE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EfC1R2w8L._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fully pre-wired from the factory — no internal wiring needed; just mount, connect your feed, and plug in"
   - "Includes both a 50-amp 125/250V RV receptacle and a separate 20-amp GFCI outlet in one weatherproof enclosure"
   - "Durable die-cast aluminum housing with a lockable hasp for theft and tamper resistance"
-cons:
+cons: 
   - "Input feed wiring must be 6-gauge copper for the 50-amp side; some buyers underestimate the cost of proper wire and breaker"
   - "The included GFCI is a standard duplex outlet, not a dedicated RV pedestal style — you'll need a cover plate for it"
   - "No built-in main breaker; you must supply your own 50-amp double-pole breaker at the source panel"
+
 ---
 
 If you're wiring up a dedicated RV hookup at home, you've probably stared at a wall of breaker boxes, receptacles, and conduit fittings wondering where to start. The Connecticut Electric CESMPSC55GRHR takes most of that guesswork off your plate by arriving fully assembled and pre-wired. I've torn down enough electrical gear to say this plainly: this is one of the smarter buys in the RV power pedestal category.

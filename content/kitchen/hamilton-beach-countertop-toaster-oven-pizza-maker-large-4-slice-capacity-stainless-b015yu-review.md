@@ -1,4 +1,5 @@
 ---
+
 title: "Hamilton Beach Countertop Toaster Oven & Pizza Maker Large 4"
 seo_title: "Hamilton Beach Countertop Toaster Oven & Pizza Mak Review"
 meta_description: "Our full hamilton beach countertop toaster oven & pizza maker large 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B015YUDYVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tGjwkmX6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook**  

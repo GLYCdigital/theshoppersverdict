@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot, G2 Gel Ink Refills, Bold Point 1.0 mm, G2 Pen Refills"
 seo_title: "Pilot, G2 Gel Ink Refills, Bold Point 1.0 mm, G2 P Review"
 meta_description: "Our full pilot, g2 gel ink refills, bold point 1.0 mm, g2 pen refills review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C2DLP4JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AJ21O5BkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've been there. You find a pen you love — the Pilot G2 body, that satisfying click, the balance in your hand — and then the ink runs dry. Most people toss the whole pen. That's a waste, because the refill is the real workhorse here. The Pilot G2 Gel Ink Refills in Bold 1.0mm are the budget-savvy move for anyone who's already committed to the G2 ecosystem.

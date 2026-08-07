@@ -1,4 +1,5 @@
 ---
+
 title: "Delonghi Ecp3120 Espresso coffee maker"
 seo_title: "DeLonghi ECP3120 Review: Solid Budget Espresso (2026)"
 meta_description: "DeLonghi ECP3120 review: 15-bar pump, manual wand, 35oz tank. Is this budget espresso maker worth it? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CXYL341W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+no1f4JyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15-bar Italian pump delivers proper crema at a price point under $150 — not just pressurized fake foam"
   - "Dual-function filter basket (single and double shot) lets you dose 7g or 14g without swapping accessories"
   - "Removable 35-ounce water tank with a clear level window — actually easy to refill and monitor"
-cons:
+cons: 
   - "Manual steam wand is finicky; you need to purge it and practice the angle or you'll get watery foam instead of microtexture"
   - "No 3-way solenoid valve means wet pucks — you'll be knocking out soggy coffee discs every shot"
   - "Plastic drip tray feels thin and can crack if you torque the portafilter too hard while locking it in"
+
 ---
 
 ## The Budget Espresso Machine That Punches Above Its Weight — With a Catch

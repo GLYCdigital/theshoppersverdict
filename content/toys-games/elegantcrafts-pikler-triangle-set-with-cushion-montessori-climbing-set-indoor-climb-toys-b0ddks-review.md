@@ -1,4 +1,5 @@
 ---
+
 title: "ElegantCrafts Pikler Triangle Set with Cushion, Montessori C"
 seo_title: "ElegantCrafts Pikler Triangle Set Review: Worth It? (2026)"
 meta_description: "ElegantCrafts Pikler Triangle Set with Cushion review: solid wood build, 4.8-star rating. We break down safety, assembly, and who should buy this Montessori climber."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DDKSB74Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qIL6lG7qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid birch plywood construction rated for 110 lbs — handles two kids climbing simultaneously without wobble"
   - "Folds flat to under 6 inches for storage; no tools needed for the fold mechanism"
   - "Cushion pad is 2 inches thick with a removable, machine-washable cover — a genuine safety upgrade over bare-wood rivals"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes; the included hex wrench is cheap and strips easily on the 20+ bolts"
   - "Climbing rungs are 1.2 inches apart at the base, which feels too wide for children under 18 months"
   - "Ramp locks into place with a single wooden peg — older toddlers can dislodge it if they kick hard enough"
+
 ---
 
 # ElegantCrafts Pikler Triangle Set with Cushion, Montessori C

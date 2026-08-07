@@ -1,4 +1,5 @@
 ---
+
 title: "STAPLES Hyken Chair (Parent)"
 seo_title: "STAPLES Hyken Chair (Parent) Review: Verdict | TSV"
 meta_description: "Our full staples hyken chair (parent) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GNBN4FPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gBofJz8yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The STAPLES Hyken is one of those chairs that keeps showing up in "best ergonomic chair under $200" lists — and with 220 ratings holding a 4.4-star average, there's clearly something to it. But as someone who's tested a lot of office chairs, I know ratings don't tell the whole story. Here's what you actually get.

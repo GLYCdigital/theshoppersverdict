@@ -1,4 +1,5 @@
 ---
+
 title: "Bobbi Brown Vitamin Enriched Face Base | 2-in-1 Moisturizer"
 seo_title: "Bobbi Brown Vitamin Enriched Face Base Review (2026): Worth It?"
 meta_description: "Honest Bobbi Brown Vitamin Enriched Face Base review: Does this 2-in-1 moisturizer & primer justify the luxury price? Real results, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FMHXJHD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Genuinely hydrating formula with shea butter and vitamin E that preps skin without feeling greasy — foundation glides on noticeably smoother"
   - "The grapefruit scent is subtle and refreshing, not overpowering like many luxury moisturizers"
   - "A little goes a long way — most users report a single jar lasting 4-6 months with daily use"
-cons:
+cons: 
   - "At this price point, the 50ml jar is small — you're paying premium for a product that's essentially a moisturizer-primer hybrid"
   - "Not ideal for very oily skin types — several reviewers report it can feel heavy by midday in humid conditions"
+
 ---
 
 # Bobbi Brown Vitamin Enriched Face Base: The $70 Question

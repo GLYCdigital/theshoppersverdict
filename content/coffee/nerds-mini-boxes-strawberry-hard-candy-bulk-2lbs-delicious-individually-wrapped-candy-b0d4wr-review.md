@@ -1,4 +1,5 @@
 ---
+
 title: "Nerds Mini Boxes Strawberry Hard Candy, Bulk (2lbs) â€“ Deli"
 seo_title: "Nerds Mini Boxes Strawberry Hard Candy, Bulk (2lbs Review"
 meta_description: "Our full nerds mini boxes strawberry hard candy, bulk (2lbs) â€“ deli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4WRYJQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A14Q64pm39L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: this is a candy review, not a coffee gear review. The product data says "coffee maker or coffee gear," but that's clearly a categorization error — what we're actually looking at is a 2-pound bulk bag of Nerds Mini Boxes in Strawberry. So let's review what's actually in the box.

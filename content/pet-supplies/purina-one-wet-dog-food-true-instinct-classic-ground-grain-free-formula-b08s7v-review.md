@@ -1,4 +1,5 @@
 ---
+
 title: "Purina ONE Wet Dog Food True Instinct Classic Ground Grain-F"
 seo_title: "Purina ONE Wet Dog Food True Instinct Classic Grou Review"
 meta_description: "Our full purina one wet dog food true instinct classic ground grain-f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08S7VCMCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l-0qQr4cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-star wet food that actually delivers on its "True Instinct" promise — mostly.**

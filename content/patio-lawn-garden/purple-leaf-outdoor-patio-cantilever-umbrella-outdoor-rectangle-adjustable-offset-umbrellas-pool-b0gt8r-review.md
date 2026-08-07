@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Outdoor Patio Cantilever Umbrella Outdoor Rectan"
 seo_title: "PURPLE LEAF Outdoor Patio Cantilever Umbrella Outd Review"
 meta_description: "Our full purple leaf outdoor patio cantilever umbrella outdoor rectan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GT8RF7DZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AjMsh3+jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some patio umbrellas are just a big stick with a shade on top. The PURPLE LEAF Outdoor Patio Cantilever Umbrella is not that. This 10-foot offset umbrella is engineered to solve the most annoying problem in backyard shading: the center pole that makes you choose between sitting in the sun or straddling a metal pole.

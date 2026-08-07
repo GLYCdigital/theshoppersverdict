@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCK594P2 20V Max* XR 5-Tool Combo Kit"
 seo_title: "DEWALT DCK594P2 5-Tool Combo Kit Review (2026)"
 meta_description: "DEWALT DCK594P2 5-tool combo kit review: real performance data on drill, impact, saw, grinder, light. Is it worth $500+? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SNL9LMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ny27rL4OL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "XR brushless motors deliver real power — the compact drill punches well above its size class"
   - "Two 5Ah batteries included, not the 2Ah starters most kits ship with"
   - "Tools share the same 20V platform, so you can expand without buying new chargers"
-cons:
+cons: 
   - "No bag included — you'll need to buy a case or tool bag separately"
   - "Circular saw lacks a rafter hook and has a slightly awkward blade-wrench storage"
   - "Worklight is bright but consumes battery fast; not ideal for extended job-site use"
+
 ---
 
 If you're a homeowner who's tired of corded tools or a pro looking to standardize on one platform, the DEWALT DCK594P2 5-tool combo kit deserves a hard look. This is not the entry-level set DEWALT sells to beginners — it's the XR (eXtreme Runtime) line, which means brushless motors, better electronics, and batteries that actually last. And with 235 Amazon ratings averaging 4.7 stars, buyers are clearly getting what they paid for.

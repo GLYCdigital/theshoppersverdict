@@ -1,17 +1,18 @@
 ---
+
 title: "FIMEI 12-Cup Food Processor Review"
 seo_title: "FIMEI 12-Cup Food Processor Review: Verdict (4.4/5) | The Shopper's Verdict"
 meta_description: "FIMEI 12-Cup Food Processor review: 75 Amazon reviews analyzed. 600W motor, slicing, shredding, chopping, pureeing, dough mixing. Large feed chute. Real pros, cons, and our verdict on this $110 food processor."
 slug: "fimei-12-cup-food-processor-review"
 image_alt: "FIMEI 12-Cup Food Processor - 600W Electric Vegetable Chopper with Large Feed Chute and Dishwasher Safe Bowl"
-keywords:
+keywords: 
   - "FIMEI food processor review"
   - "best food processor under $150"
   - "12 cup food chopper"
   - "electric vegetable slicer"
   - "FIMEI chopper review"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "Is the FIMEI food processor easy to use?"
     answer: "Yes. Reviewers consistently describe it as easy to operate. One noted 'I have not used it very much yet but it is very easy to operate. Blended my food just as I intended.' The controls are straightforward, though the instructions could be clearer."
   - question: "Does it handle dough mixing well?"
@@ -26,7 +27,7 @@ review_count: 75
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08CHFH1BZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Av7ELKREL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "600W motor provides solid power for most food processing tasks"
   - "12-cup capacity is generous for family-sized meal prep"
   - "Includes slicing, shredding, chopping, pureeing, and dough mixing"
@@ -34,12 +35,13 @@ pros:
   - "Dishwasher safe bowl and attachments for easy cleanup"
   - "Lightweight and easy to move around the kitchen"
   - "Quieter than many competitors in this price range"
-cons:
+cons: 
   - "Instruction manual is poorly written — blade orientation not clearly explained"
   - "Packaging can make removal difficult and potentially dangerous"
   - "Blade protective cover can come loose during shipping"
   - "Limited track record — only 75 reviews available"
   - "Instructions lack clarity on reversible blade functionality"
+
 ---
 
 ## FIMEI 12-Cup Food Processor: Capable Kitchen Helper with a Few Rough Edges

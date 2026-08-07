@@ -1,4 +1,5 @@
 ---
+
 title: "evpct Eye Shadow Quad Palette Makeup"
 seo_title: "evpct Eye Shadow Quad Palette Review: Worth It? (2026)"
 meta_description: "Honest evpct Eye Shadow Quad Palette review: pigment payoff, blendability, fallout, and who should buy. Real buyer feedback at 4.2 stars."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1FVX3ZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71194FjUbuL._SL1000_.jpg"
-pros:
+pros: 
   - "Buttery, highly pigmented mattes that blend without patchiness — rare at this price point"
   - "Compact magnetic closure case with a full-size mirror, ideal for travel and touch-ups"
   - "Four shades are thoughtfully curated for a complete eye look — no wasted pans"
-cons:
+cons: 
   - "Shimmer shades have noticeable fallout; apply with a damp brush or fingertip for best results"
   - "No applicator included — you'll need your own brushes"
+
 ---
 
 # evpct Eye Shadow Quad Palette Makeup: A Surprisingly Refined Compact

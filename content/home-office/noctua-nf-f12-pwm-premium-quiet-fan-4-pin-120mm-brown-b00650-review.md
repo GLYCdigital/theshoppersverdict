@@ -1,4 +1,5 @@
 ---
+
 title: "Noctua NF-F12 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown)"
 seo_title: "Noctua NF-F12 PWM, Premium Quiet Fan, 4-Pin (120mm Review"
 meta_description: "Our full noctua nf-f12 pwm, premium quiet fan, 4-pin (120mm, brown) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00650P2ZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mSPKcv89L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: the Noctua NF-F12 PWM is not the fan you buy because it looks cool. It's the fan you buy because you're tired of hearing your PC sound like a jet engine during a spreadsheet marathon. That brown and cream color scheme is a badge of function-over-form, and after 240 Amazon ratings averaging 4.8 stars, it's clear that message resonates with people who actually care about their workspace noise floor.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fishboy Upgraded Collapsible Stool, 400lbs Max Weight, Light"
 seo_title: "Fishboy Collapsible Stool Review: 400lbs Rated, Portable"
 meta_description: "Honest Fishboy collapsible stool review: 400lb capacity, lightweight aluminum, 3 height settings. See what 225+ Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0869KLLLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UFoIHa1jL._AC_SL1207_.jpg"
-pros:
+pros: 
   - "Genuine 400lb capacity tested by multiple buyers — not marketing fluff"
   - "Folds to roughly the size of a water bottle, weighs about 2.2lbs — genuinely packable"
   - Three locking height positions (roughly 13.8 inch "/17.7 inch "/20.5 inch ") adapt to different tasks
-cons:
+cons: 
   - "No padding on the seat — fine for short sits, uncomfortable beyond 20-30 minutes"
   - "Locking mechanism requires deliberate force to engage; some buyers report it sticks"
   - "Feet lack rubber grips — can slide on smooth floors if you shift weight suddenly"
+
 ---
 
 # Fishboy Collapsible Stool Review: Is This 400lb-Rated Portable Seat Actually Worth It?

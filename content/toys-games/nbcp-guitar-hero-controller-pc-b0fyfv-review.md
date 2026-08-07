@@ -1,4 +1,5 @@
 ---
+
 title: "NBCP Guitar Hero Controller PC"
 seo_title: "NBCP Guitar Hero Controller PC Review: Verdict | TSV"
 meta_description: "Our full nbcp guitar hero controller pc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FYFV7H74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MnTspESIL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The used market for Guitar Hero controllers is a wasteland of overpriced, sticky-fretted relics from 2008. So when a new wireless option pops up on Amazon for PC players, it deserves a serious look. The NBCP Guitar Hero Controller PC is aiming squarely at Clone Hero fans who don't want to gamble on eBay. After digging through 190 ratings and the technical specs, here's the real story.

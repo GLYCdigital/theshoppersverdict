@@ -1,4 +1,5 @@
 ---
+
 title: "Control Solutions Inc. 82004319 Eraser Weed & Grass Killer C"
 seo_title: "Eraser Weed & Grass Killer C Review: Honest Verdict (2026)"
 meta_description: "Control Solutions Eraser Weed & Grass Killer C review: Does this 1-gallon concentrate work? Coverage, speed, and value analyzed. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001D1FU28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z9GRFbBAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kills weeds down to the roots in 2-4 weeks — not just top-growth burn like many contact herbicides"
   - "1 gallon concentrate makes 21 gallons of ready-to-use spray — exceptional cost per application"
   - "Rainfast in just 2 hours, so you're not racing the weather forecast"
-cons:
+cons: 
   - "Full results take 2-4 weeks — impatient gardeners may think it's not working early on"
   - "It's a non-selective herbicide — one drift and your prized perennials are gone"
   - "Requires surfactant for best results on waxy-leaf weeds; not included in the jug"
+
 ---
 
 You're staring at a fence line strangled by poison ivy, or a gravel driveway sprouting crabgrass like it's going out of style. You want it dead — permanently. That's exactly what Control Solutions Eraser Weed & Grass Killer C promises, and with 229 ratings averaging 4.6 stars, it's delivering for most people. But let's cut through the label claims and talk about what this concentrate actually does, how fast, and where it'll bite you.

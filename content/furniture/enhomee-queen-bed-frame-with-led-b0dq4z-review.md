@@ -1,4 +1,5 @@
 ---
+
 title: "EnHomee Queen Bed Frame with Led"
 seo_title: "EnHomee Queen Bed Frame with LED Review (2026): Worth It?"
 meta_description: "Honest EnHomee Queen Bed Frame with LED review: build quality, assembly, lighting performance & real buyer feedback. Is this budget-friendly frame worth it?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ4ZHNPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819pWpYV+aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated LED lighting with multiple color modes and remote control adds genuine ambiance without requiring separate strip lights"
   - "Heavy-duty steel frame with center support bars rated for substantial weight — no creaking reported by most buyers"
   - "No box spring needed — the wooden slat system supports a mattress directly, saving you $150-$300 on a foundation"
-cons:
+cons: 
   - "LED strips are non-replaceable if they fail — you'll need to contact customer service rather than swapping a bulb"
   - "Assembly requires two people and takes 45-60 minutes; the headboard is heavy and awkward to lift solo"
   - "Some buyers report the remote control range is limited to about 15 feet and requires line-of-sight"
+
 ---
 
 The EnHomee Queen Bed Frame with LED sits in a crowded market segment: budget-friendly bed frames with lighting features. At 4.2 stars from 210 Amazon ratings, it's not blowing anyone's mind, but it's also not generating the kind of return-heavy complaints you see with cheaper frames. Here's what you're actually getting.

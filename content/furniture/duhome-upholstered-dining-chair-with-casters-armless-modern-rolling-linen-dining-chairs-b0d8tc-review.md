@@ -1,4 +1,5 @@
 ---
+
 title: "DUHOME Upholstered Dining Chair with Casters,Armless Modern"
 seo_title: "DUHOME Rolling Dining Chair Review: Casters & Comfort (2026)"
 meta_description: "Honest DUHOME upholstered dining chair with casters review. We test comfort, wheel glide, and durability of this armless modern rolling chair."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8TC2CY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ll7PbmI-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth-rolling casters that glide on hardwood and tile without leaving scuff marks"
   - "Generous 2.4-inch thick foam seat cushion that stays supportive through long meals"
   - "Tool-free assembly takes under five minutes — no wrench required"
-cons:
+cons: 
   - "Casters don't lock, so chair drifts on sloped floors or when kids push off from the table"
   - "Linen-blend upholstery shows lint and crumbs; needs weekly vacuuming to look clean"
+
 ---
 
 Let's be honest: most rolling dining chairs look like they escaped from a waiting room. The DUHOME Upholstered Dining Chair with Casters breaks that mold — it actually looks like a proper dining chair that happens to roll. And after 225 ratings averaging 4.5 stars, it's clearly filling a real need for people who hate scraping chair legs across their floors.

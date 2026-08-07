@@ -1,4 +1,5 @@
 ---
+
 title: "AMOSIJOY Cat Sill Window Perch Sturdy Cat Window Hammock wit"
 seo_title: "AMOSIJOY Cat Window Perch Review: Sturdy, Cats Love It"
 meta_description: "AMOSIJOY cat window perch review: sturdy wood & metal build, easy install, supports 50 lbs. See why cats love this hammock & its one real flaw."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZKNL6ZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YzAJKb5fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real wood shelf (not particleboard) with a 50 lb weight rating — handles multiple cats or a chunky Maine Coon"
   - "Metal mounting brackets with 4 screws per side; stays rock-solid even with aggressive jump-landings"
   - "Removable, machine-washable fleece pad — no more scrubbing cat hair off a glued-on cushion"
-cons:
+cons: 
   - "Requires a windowsill with at least 2.5 inches of flat surface; won't fit flush-mount or casement windows"
   - "Screws and anchors are included but cheap — replace with drywall anchors for plaster walls"
   - "Pad is thin (about 0.5 inch); older cats with arthritis may prefer a thicker cushion added on top"
+
 ---
 
 If your cat has ever sat staring out a window for 20 straight minutes, you know the struggle: they want the view, you want your furniture intact. The AMOSIJOY Cat Sill Window Perch is a $35-ish solution that actually holds up — and after 235 ratings averaging 4.7 stars, it's clear I'm not the only one whose cat approved.

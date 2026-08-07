@@ -1,4 +1,5 @@
 ---
+
 title: "Pressed Powder Deep Pigment Brilliant Lust Luxury Bold Singl"
 seo_title: "Pressed Powder Deep Pigment Brilliant Lust Luxury  Review"
 meta_description: "Our full pressed powder deep pigment brilliant lust luxury bold singl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07WH7T8NH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HARh1DscL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this is: a single-pan pressed eyeshadow that delivers the kind of pigment punch you normally have to spend $30+ per shade to get. The name is a mouthful — Pressed Powder Deep Pigment Brilliant Lust Luxury Bold Single — but the performance mostly backs up the hype.

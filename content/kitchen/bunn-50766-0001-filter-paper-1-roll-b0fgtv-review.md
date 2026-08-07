@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN 50766.0001 Filter, Paper 1 Roll"
 seo_title: "BUNN 50766.0001 Filter Paper Review: Worth It? (2026)"
 meta_description: "Honest BUNN 50766.0001 paper filter review. See real pros, cons, and buyer feedback on this commercial-grade roll. Is it worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGTVQBC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CxN1d7OvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fits all BUNN commercial and home brewers using the 'paper roll' system — no cutting or folding needed"
   - "One roll yields roughly 100 cups of coffee, making it one of the cheapest per-cup filter options available"
   - "Thicker paper than standard basket filters; holds up under fast brew cycles without tearing or collapsing"
-cons:
+cons: 
   - "Only compatible with BUNN machines that take the roll format — won't fit standard #4 cone or flat basket brewers"
   - "No individual perforations; you tear off your own sheet, which can be messy if you're in a hurry"
   - "Packaging is bare-bones; roll can arrive slightly compressed in shipping, though it rebounds fine"
+
 ---
 
 **Bottom line up front:** If you own a BUNN brewer that takes the roll-style filter, this is the filter you should be buying. It's not flashy, it's not exciting, and it's not going to win any design awards. But it does exactly what a coffee filter should do — let water through while keeping every speck of grounds out of your cup — and it does it consistently for about 4 cents per pot.

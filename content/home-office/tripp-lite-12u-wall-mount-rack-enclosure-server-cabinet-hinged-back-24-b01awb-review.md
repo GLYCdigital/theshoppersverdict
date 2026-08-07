@@ -1,4 +1,5 @@
 ---
+
 title: "Tripp Lite 12U Wall Mount Rack Enclosure Server Cabinet, Hin"
 seo_title: "Tripp Lite 12U Wall Mount Rack Enclosure Server Ca Review"
 meta_description: "Our full tripp lite 12u wall mount rack enclosure server cabinet, hin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B01AWB37T2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D6jv4yAKL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

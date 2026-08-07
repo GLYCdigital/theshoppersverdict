@@ -1,4 +1,5 @@
 ---
+
 title: "MaxGear Acrylic Sign Holder 8.5 x 11 inches Clear Wall Mount"
 seo_title: "MaxGear Acrylic Sign Holder 8.5 x 11 inches Clear  Review"
 meta_description: "Our full maxgear acrylic sign holder 8.5 x 11 inches clear wall mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D14TKMX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IrX3T0qOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Somewhere between a cheap plastic sleeve and a $50 custom frame sits the MaxGear Acrylic Sign Holder. At 8.5 x 11 inches with a wall-mount design, it solves a genuinely annoying problem: how to display menus, safety notices, or certificates without them looking like they're taped to the wall. After digging through the 229 ratings and the specs, here's the honest story.

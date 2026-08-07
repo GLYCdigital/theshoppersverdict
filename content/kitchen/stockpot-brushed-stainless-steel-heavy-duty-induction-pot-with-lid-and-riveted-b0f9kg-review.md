@@ -1,4 +1,5 @@
 ---
+
 title: "Stockpot â€“ Brushed Stainless Steel â€“ Heavy Duty Inductio"
 seo_title: "Stockpot â€“ Brushed Stainless Steel â€“ Heavy Dut Review"
 meta_description: "Our full stockpot â€“ brushed stainless steel â€“ heavy duty inductio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9KG1SCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oGHVPZP0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap stockpot warp on an induction burner, you know the frustration. This 12-quart brushed stainless steel pot from the B0F9KG series is built to take that abuse and keep cooking — and at $39.99, it's priced like a budget option while performing like something double the cost.

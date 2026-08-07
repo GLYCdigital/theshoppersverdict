@@ -1,4 +1,5 @@
 ---
+
 title: "BELLEBOOST Flat Back Rhinestones Gems for Crafts and Nail"
 seo_title: "BELLEBOOST Flat Back Rhinestones Review: Are They Worth It?"
 meta_description: "Honest BELLEBOOST flat back rhinestones review: shine, adhesion, sizes, and durability tested. See if these gems earn their 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4KCXR4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media.magazine.com/images/I/915kDV8VKKL._SL1500_.jpg"
-pros:
+pros: 
   - "Crystal-grade cut delivers genuine sparkle under direct and diffuse light — not cloudy or milky like cheaper acrylic stones"
   - "Flat back design sits flush against nail polish and craft surfaces, reducing snagging and accidental pop-off"
   - "Color consistency across the pack — no mismatched batches or dull outliers among smaller sizes"
-cons:
+cons: 
   - "Adhesive is not included; you'll need a separate nail glue or craft adhesive, which adds to the effective cost"
   - "The smallest sizes (ss3–ss5) are genuinely tiny and require tweezers and steady hands to place cleanly"
+
 ---
 
 ## The Sparkle That Delivers — With One Catch

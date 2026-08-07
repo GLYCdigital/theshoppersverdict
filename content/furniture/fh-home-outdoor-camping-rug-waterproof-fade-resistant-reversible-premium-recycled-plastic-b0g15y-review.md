@@ -1,4 +1,5 @@
 ---
+
 title: "FH Home Outdoor Camping Rug - Waterproof, Fade Resistant, Re"
 seo_title: "FH Home Outdoor Camping Rug Review: Waterproof & Reversible"
 meta_description: "FH Home Outdoor Camping Rug review: Is this waterproof, fade-resistant, reversible mat worth it? Real pros, cons, and verdict for campers."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G15YWSRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91aVKOQjwHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True two-sided design — flip between solid and patterned surfaces depending on your campsite aesthetic or dirt situation"
   - "Recycled plastic construction shrugs off mud, morning dew, and spilled coffee without soaking through"
   - "Fade resistance holds up across multiple seasons of direct sun exposure"
-cons:
+cons: 
   - "No included stakes or corner loops — you'll need to buy your own if wind is a factor"
   - "Recycled plastic texture is rougher than a traditional indoor rug; barefoot-sensitive folks may want shoes"
+
 ---
 
 Let's be honest about what a camping rug actually has to do. It needs to keep dirt and moisture out of your tent, survive being thrown in the back of a truck, and not disintegrate after one season of UV exposure. The FH Home Outdoor Camping Rug checks most of those boxes — and a few it doesn't have to.

@@ -1,4 +1,5 @@
 ---
+
 title: "Acrylic Nail Art Kit-Nail Art Manicure Set Acrylic Powder Br"
 seo_title: "Acrylic Nail Kit Review: Is This Manicure Set Worth It?"
 meta_description: "Honest review of the Acrylic Nail Art Kit with acrylic powder, brush & glitter. See what 220+ Amazon shoppers say before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BWN5BXYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BJhaQSWeL._SL1500_.jpg"
-pros:
+pros: 
   - "Complete starter system with 12+ colors, monomer liquid, brush, and tools — no separate purchases needed for beginners"
   - "Brush holds monomer well without shedding, critical for clean acrylic application"
   - "Compact travel-friendly case keeps powders organized and sealed"
-cons:
+cons: 
   - "Liquid monomer has strong fumes — needs ventilation, not ideal for small spaces"
   - "Powder colors dry slightly lighter than they appear in the jar"
   - "No acrylic primer included despite what some listing images suggest"
+
 ---
 
 Let me be blunt: most acrylic kits under $50 are a gamble. You’re either getting chalky powders that crumble or a brush that sheds bristles into your nail bed. This one, with its 4.4-star average across 220 ratings, actually earns its place on your shelf. But it’s not without quirks.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon Scarlet & Violet 151 Booster Pack"
 seo_title: "Pokemon Scarlet & Violet 151 Booster Pack Review: Verdict"
 meta_description: "Our full pokemon scarlet & violet 151 booster pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJ7P9LBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xLNoYarcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pokemon 151 set is the most hyped release in modern Pokemon TCG history — and for once, the hype is mostly justified.** This booster pack is your entry ticket to the set that brought back the original Kanto starters, full-art versions of every Gen 1 Pokemon, and some of the most beautiful illustration rares ever printed.

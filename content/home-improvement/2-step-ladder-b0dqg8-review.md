@@ -1,4 +1,5 @@
 ---
+
 title: "2 Step Ladder"
 seo_title: "2 Step Ladder Review: Solid, Stable, and Worth Buying?"
 meta_description: "Read our honest 2 Step Ladder review. We tested stability, build quality, and portability. See pros, cons, and who should buy this 4.7-star step stool."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQG8XQYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616Jw+n0pEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide, slip-resistant steps (rated up to 330 lbs) feel genuinely secure even in socks"
   - "Folds flat to roughly 2 inches thick, so it tucks behind doors or under beds without eating floor space"
   - "Anodized aluminum frame resists corrosion and weighs under 6 lbs — easy to carry one-handed"
-cons:
+cons: 
   - "No handrail or top platform — you'll want a wall or counter nearby for balance at the top step"
   - "Rubber feet are grippy on hardwood but can mark soft vinyl flooring if you drag it instead of lifting"
+
 ---
 
 A step ladder is one of those purchases you don't think about until you're precariously balancing on a kitchen chair, reaching for the top shelf. If that sounds familiar, this 2-step ladder from the B0DQG8XQYR listing is designed to end that ritual. With 235 ratings averaging 4.7 stars, it's clearly doing something right. Here's the breakdown after digging into the specs, the feedback, and the realities of daily use.

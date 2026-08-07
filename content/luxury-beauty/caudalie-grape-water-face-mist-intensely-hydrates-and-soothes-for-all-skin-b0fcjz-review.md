@@ -1,4 +1,5 @@
 ---
+
 title: "Caudalie Grape Water Face Mist, Intensely Hydrates and Soothes"
 seo_title: "Caudalie Grape Water Review: Hydrating Face Mist for All Skin"
 meta_description: "Is Caudalie Grape Water Face Mist worth it? Our honest review covers hydration, soothing benefits, and if this cult-favorite spray delivers."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FCJZCWWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EgNUI5jGL._SL1500_.jpg"
-pros:
+pros: 
   - "100% organic grape water with zero added fragrance, alcohol, or preservatives — genuinely gentle for reactive skin"
   - "Finely atomized mist that delivers even, drenching coverage without pooling or dripping"
   - "Clinically proven hydration boost at 30 minutes with a cooling effect that calms redness and post-sun irritation"
-cons:
+cons: 
   - "Price per ounce is steep — you're paying luxury-brand markup for what is essentially grape water with electrolytes"
   - "Hydration is temporary; you'll need a moisturizer on top within 20-30 minutes or skin can feel tighter than before"
+
 ---
 
 # Caudalie Grape Water Face Mist: Is This Cult-Favorite Spray Worth the Hype?

@@ -1,4 +1,5 @@
 ---
+
 title: "SWEED - Cloud Mascara | Vegan, Cruelty-Free, Clean Beauty (0"
 seo_title: "SWEED - Cloud Mascara | Vegan, Cruelty-Free, Clean Review"
 meta_description: "Our full sweed - cloud mascara | vegan, cruelty-free, clean beauty (0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CQTGXNMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yQRcvdUgL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the “clean beauty” marketing haze. SWEED’s Cloud Mascara has 204 ratings sitting at 4.1 stars, and that split between “loving it” and “meh” tells you something useful: this is a specific tool for a specific lash type, not a one-size-fits-all miracle.

@@ -1,4 +1,5 @@
 ---
+
 title: "MULANDI LED Landscape Bollard Pathway Light, 2W, DC 12V Low "
 seo_title: "MULANDI LED Landscape Bollard Pathway Light, 2W, D Review"
 meta_description: "Our full mulandi led landscape bollard pathway light, 2w, dc 12v low  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GBWZWY46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A0N-MrG+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase. If you're shopping for low-voltage landscape lighting, you've seen dozens of bollard options ranging from cheap plastic sticks to $100+ brass fixtures. The MULANDI 2W LED bollard sits somewhere in the middle — and that's exactly where the smart money lands.

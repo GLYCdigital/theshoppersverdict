@@ -1,4 +1,5 @@
 ---
+
 title: "EZ Pools Muriatic Acid for Swimming Pools & Spas – Pack of"
 seo_title: "EZ Pools Muriatic Acid Review: 4-Gal Pack for Pool Care"
 meta_description: "Honest EZ Pools muriatic acid review: strength, safety, value. See if this 4-gallon pack beats generic hardware store acid for pool pH control."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVDD7CN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818DkyIhMCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-strength 31.45% HCl concentration — matches pool-pro grade, not the diluted stuff at big-box stores"
   - "Four 1-gallon jugs with child-resistant caps and vapor-seal liners; no leaks in transit, per multiple buyers"
   - "Consistent performance batch to batch — lowers pH and total alkalinity predictably, no surprise strength variations"
-cons:
+cons: 
   - "No built-in pour spout — you'll need a separate acid dispenser or careful pouring to avoid splashes"
   - "Shipping weight is heavy (over 36 lbs for the case); expect a workout bringing it to the equipment pad"
   - "Fumes are potent when opening — work outdoors with eye protection, even with the cap sealed"
+
 ---
 
 **If you're serious about pool chemistry, you already know muriatic acid is the workhorse for lowering pH and total alkalinity. The question is which bottle to grab. The EZ Pools 4-gallon pack makes a compelling case — but let's dig into whether it earns a permanent spot in your chemical shed.**

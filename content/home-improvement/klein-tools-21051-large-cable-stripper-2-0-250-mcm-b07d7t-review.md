@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools 21051 Large Cable Stripper (2/0-250 MCM)"
 seo_title: "Klein Tools 21051 Large Cable Stripper (2/0-250 MC Review"
 meta_description: "Our full klein tools 21051 large cable stripper (2/0-250 mcm) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D7TZ3LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AqtzVpYFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you strip large gauge cable more than twice a month, the Klein Tools 21051 will pay for itself in saved knuckles and ruined conductors.** This is the kind of tool that looks simple in the product image but has genuinely thoughtful engineering hiding in plain sight. It's not the cheapest option on Amazon, but it's the one working electricians tend to recommend when asked.

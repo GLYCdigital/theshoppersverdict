@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Power Grip Primer"
 seo_title: "e.l.f. Power Grip Primer Review (2026): Does It Hold?"
 meta_description: "Honest e.l.f. Power Grip Primer review: 4.6/5 from 229 ratings. Does the jelly texture really grip makeup? Real pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FF5SBTRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NzSiYxxCL._SL1500_.jpg"
-pros:
+pros: 
   - "Immediate tacky grip that holds foundation in place for 8+ hours on normal-to-combo skin"
   - "The 1.35 oz tube has a hygienic pump (not a jar) that dispenses the perfect pea-sized amount"
   - "Niacinamide in the formula offers light skincare benefits while the primer grips—two birds, one step"
-cons:
+cons: 
   - "The sticky jelly texture feels tacky for 2-3 minutes after application—uncomfortable if you're rushing"
   - "Can pill if you layer a water-based moisturizer underneath; needs careful skincare compatibility"
+
 ---
 
 ## The $10 Primer That Thinks It's Luxury

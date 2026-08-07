@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture Beverly 5 inch  x 22 inch  Restaurant Table T-Base wit"
 seo_title: "Flash Furniture Beverly T-Base Table Review (2026) | Honest"
 meta_description: "Flash Furniture Beverly 5 inch x22 inch  restaurant table T-base review: real build quality, wobble test, and who should buy. 4.6/5 from 229 buyers."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FB9LZ163/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bFKBB7J8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Commercial-grade 16-gauge steel T-base with welded crossbar — no assembly wobble, tested stable at full extension"
   - "5-inch-wide by 22-inch-long footprint fits tight bar tops and narrow counters without sacrificing leg room"
   - "Pre-drilled mounting holes match standard 16-inch tabletop brackets, so installation takes under 10 minutes"
-cons:
+cons: 
   - "No height adjustment — fixed at 29 inches, which is short for ADA-compliant counter-height setups"
   - "Black powder coat scratches if you drag the base across tile; use felt pads or lift when moving"
+
 ---
 
 Let's cut through the listing photos. You're looking at a restaurant table base because you need something that won't fold, sag, or embarrass you when a customer leans on it. The Flash Furniture Beverly T-base claims commercial durability at a price that undercuts most hospital-grade competitors. Does it deliver?

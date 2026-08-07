@@ -1,4 +1,5 @@
 ---
+
 title: "chanbrick Sunflower Building Set Flowers with Vase Botanical"
 seo_title: "chanbrick Sunflower Building Set Review: 1009-Piece Botanical"
 meta_description: "chanbrick Sunflower Building Set review: 1009-piece botanical flower kit with vase. Is it worth it? Build quality, value, and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4XRDYJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m5XA5r7XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1009 pieces deliver a substantial, multi-hour build with real display presence — not a 20-minute throwaway"
   - "Interlocking brick compatibility means you can mix with other major brick brands for custom arrangements"
   - "Vase design is genuinely attractive — frosted/clear aesthetic works as permanent decor, not just a toy"
-cons:
+cons: 
   - "No numbered bags — you'll be sorting 1,000+ pieces by color before you start building"
   - "Instructions are printed small and occasionally ambiguous on color matching; expect to double-check a few steps"
   - "Petals and stems can feel slightly loose at connection points; once arranged, avoid heavy handling"
+
 ---
 
 Let me be straight with you: I've built dozens of brick-based flower sets, and most of them end up in a drawer within a week. The chanbrick Sunflower Building Set is not that. This 1,009-piece botanical kit actually earns its place on a shelf.

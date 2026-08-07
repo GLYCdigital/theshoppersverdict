@@ -1,4 +1,5 @@
 ---
+
 title: "Hongcoral 8.2'x4.8' Inflatable Dome Rocker Water Bouncer, 66 inch"
 seo_title: "Hongcoral 8.2'x4.8' Dome Water Bouncer Review (2026)"
 meta_description: "Hongcoral 8.2'x4.8' inflatable dome water bouncer review: 660lb capacity, 3-person rocker. Real owner feedback, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CMCYWRG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p9SXJrBBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "660lb weight capacity means three average adults (or four kids) can bounce simultaneously without bottoming out"
   - "Dome rocker design creates a genuine tipping/rocking motion on waves—not just a flat stationary pad"
   - "Includes heavy-duty repair kit and separate air chambers, so a single puncture won't sink the whole bouncer"
-cons:
+cons: 
   - "Requires a manual or electric pump with a large-volume output; the included hand pump takes 15+ minutes to reach firmness"
   - "At 38 lbs packed, it's not a quick carry—you'll want the carry bag close by and a second person for transport"
   - "The anchor straps need real stakes or sandbags; the included ones are light and pull free in choppy water"
+
 ---
 
 If you've watched kids (or adults) on a lake trampoline and thought, "that looks fun but I don't want to bolt a platform to my dock," the Hongcoral 8.2'x4.8' Inflatable Dome Rocker Water Bouncer is the middle ground. It's a floating bounce pad with a curved, rocker-style base that tips and tilts with the waves—more dynamic than a flat mat, less commitment than a permanent dock-mounted unit. At 4.2 stars from 210 ratings, it's clearly working for most buyers. Here's the honest breakdown before you drop your cash.

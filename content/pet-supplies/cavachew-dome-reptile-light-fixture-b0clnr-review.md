@@ -1,4 +1,5 @@
 ---
+
 title: "CAVACHEW Dome Reptile Light Fixture"
 seo_title: "CAVACHEW Dome Reptile Light Review: 4.4-Star Heat Lamp"
 meta_description: "CAVACHEW dome reptile light fixture review: 8.5-inch aluminum reflector, dual bulb support, and durable build. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLNR8HZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6134hMPBK8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual ceramic sockets allow simultaneous heat and UVB bulbs — no second fixture needed"
   - "8.5-inch aluminum reflector maximizes heat output and coverage for 40-gallon tanks"
   - "Flush-mount design sits directly on mesh lids, reducing heat loss and light gap"
-cons:
+cons: 
   - "No built-in dimmer or thermostat — you'll need an external controller for temperature regulation"
   - "Dual bulbs pull up to 150W combined, which may trip older household circuits if other high-wattage devices run on the same line"
+
 ---
 
 The CAVACHEW Dome Reptile Light Fixture is the kind of product that makes you wonder why other manufacturers overcomplicate things. It's a simple aluminum dome with two ceramic sockets, a plug, and a clamp. That's it. But in the reptile keeping world, simplicity done right is worth its weight in crickets.

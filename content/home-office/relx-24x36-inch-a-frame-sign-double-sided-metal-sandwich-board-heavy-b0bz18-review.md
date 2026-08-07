@@ -1,4 +1,5 @@
 ---
+
 title: "Relx 24x36 Inch A Frame Sign, Double-Sided Metal Sandwich Bo"
 seo_title: "Relx 24x36 Inch A Frame Sign, Double-Sided Metal S Review"
 meta_description: "Our full relx 24x36 inch a frame sign, double-sided metal sandwich bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BZ18CB8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IgFm64SML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most A-frame signs under $100 are flimsy plastic contraptions that blow over in a light breeze or crack at the hinge within a month. The Relx 24x36 A-frame sign is not that. It's a serious piece of promotional hardware aimed at businesses that need daily outdoor visibility, not a weekend yard sale accessory.

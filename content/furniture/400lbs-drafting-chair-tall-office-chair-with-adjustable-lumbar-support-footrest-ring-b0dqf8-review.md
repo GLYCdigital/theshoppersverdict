@@ -1,4 +1,5 @@
 ---
+
 title: "400LBS Drafting Chair, Tall Office Chair with Adjustable Lum"
 seo_title: "400LBS Drafting Chair Review: Tall Office Chair Tested"
 meta_description: "Honest 400LBS Drafting Chair review: tall office chair with adjustable lumbar support and footrest. Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQF8GY43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LJM5SVGTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 400-pound weight capacity with reinforced steel frame and wide seat base — rare at this price point"
   - "Footrest ring is a functional addition, not a gimmick — it actually reduces leg fatigue during long sitting sessions"
   - "Adjustable lumbar support that moves vertically and in depth, not just a fixed bump glued to the backrest"
-cons:
+cons: 
   - "Assembly takes a solid 30–40 minutes; the gas lift cylinder requires significant force to insert and align"
   - "Seat cushion runs firm — excellent for posture, but if you prefer plush seating, you'll want a separate pad"
   - "Armrests are height-adjustable but lack width or angle adjustment, which limits custom fit for broader frames"
+
 ---
 
 # The 400LBS Drafting Chair: A Tall Task Chair That Actually Means Business

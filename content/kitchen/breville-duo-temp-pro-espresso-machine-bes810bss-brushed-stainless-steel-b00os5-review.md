@@ -1,4 +1,5 @@
 ---
+
 title: "Breville Duo Temp Pro Espresso Machine BES810BSS, Brushed St"
 seo_title: "Breville Duo Temp Pro Review: BES810BSS Worth It?"
 meta_description: "Breville Duo Temp Pro BES810BSS review: 4.5-star espresso machine with digital temperature control. Is it worth the price? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00OS5MTCA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Nkrkx8UkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Digital temperature control (PID) delivers stable 200°F extraction — a feature usually reserved for machines twice the price"
   - "Low-pressure pre-infusion gradually ramps up to 9 bars, pulling noticeably sweeter, more balanced shots than cheaper pumps"
   - "Dual-wall and single-wall filter baskets included, so beginners can use pressurized baskets while pros dial in with unpressurized ones"
-cons:
+cons: 
   - "No built-in grinder — you'll need to budget another $150–$200 for a decent burr grinder or you're wasting the machine's potential"
   - "Steam wand is a single-hole design; it's capable but slower than dual-hole wands on pricier models, and it's not the easiest to master"
+
 ---
 
 # Breville Duo Temp Pro Espresso Machine BES810BSS: The 4.6-Star Workhorse That Respects Your Coffee

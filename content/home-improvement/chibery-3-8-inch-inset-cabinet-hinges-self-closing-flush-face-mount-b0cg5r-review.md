@@ -1,4 +1,5 @@
 ---
+
 title: "Chibery 3/8 Inch Inset Cabinet Hinges, Self Closing Flush Fa"
 seo_title: "Chibery 3/8 Inset Cabinet Hinges Review: Self-Closing Flush Mount"
 meta_description: "Honest Chibery 3/8 inch inset cabinet hinges review. Self-closing flush face mount hardware tested for fit, finish, and durability. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CG5R4D4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hX40Ij32L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3/8-inch inset offset measured across multiple samples — doors sit flush as advertised, no shimming required"
   - "Self-closing mechanism is firm but not jarring; doors close quietly with a controlled final pull"
   - "Solid zinc alloy construction with a smooth satin nickel finish that resists fingerprints and smudges"
-cons:
+cons: 
   - "Screws included are soft — replace with #6 x 1/2-inch cabinet screws if installing into hardwood or MDF"
   - "No template included; you'll need to measure and mark hinge positions yourself"
   - "Finish is slightly lighter than some brushed nickel fixtures — test against existing hardware before buying a full set"
+
 ---
 
 Let me start with a blunt observation: most cabinet hinges under $15 a pair are junk. Loose pins, sloppy tolerances, finish that flakes after three months. The Chibery 3/8-inch inset hinges are not that. They're also not perfect. Here's the full breakdown after handling a set and reading through what 229 other buyers had to say.

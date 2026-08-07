@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Harvey's Chicken/Beef & Garden Veggies Dog Food, Human G"
 seo_title: "Dr. Harvey's Dog Food Review: Human-Grade Chicken & Veggies"
 meta_description: "Dr. Harvey's Chicken/Beef & Garden Veggies dog food review: Is this human-grade mix worth it? See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D8S7NNVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812fAb5gluL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly human-grade ingredients with no fillers, artificial preservatives, or rendered meals"
   - "Dehydrated formula stores easily and rehydrates in minutes with warm water"
   - "Adjustable protein options (chicken or beef) let you rotate without changing base veggies"
-cons:
+cons: 
   - "Requires refrigeration after rehydration and must be used within 3 days"
   - "Dehydrated mix is pricier per serving than most kibble brands"
   - "Transition period needed — some dogs experience loose stool for the first week"
+
 ---
 
 You've read the fine print on a dozen dog food bags, and you're still not sure what's actually inside. That's where Dr. Harvey's Chicken/Beef & Garden Veggies stands apart — because the ingredient list reads like something you'd find in your own kitchen, not a rendering plant.

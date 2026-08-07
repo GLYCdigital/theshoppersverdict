@@ -1,4 +1,5 @@
 ---
+
 title: "Rani Mustard Oil (Kachi Ghani) Parent"
 seo_title: "Rani Mustard Oil (Kachi Ghani) Parent Review: Verdict | T"
 meta_description: "Our full rani mustard oil (kachi ghani) parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLP12PHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v6SeIThuL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some oils are background players. This one is a lead actor. Rani's Kachi Ghani mustard oil doesn't whisper — it announces itself with a sharp, sinus-clearing punch the moment the cap comes off. If you grew up with Indian cooking, that smell is instant nostalgia. If you didn't, it might take a minute to appreciate. Either way, this is an oil with a distinct personality, and that's exactly the point.

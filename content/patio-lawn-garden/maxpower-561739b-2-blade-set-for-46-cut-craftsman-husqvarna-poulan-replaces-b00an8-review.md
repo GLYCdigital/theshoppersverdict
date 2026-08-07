@@ -1,7 +1,8 @@
 ---
-title: "MaxPower 561739B 2 Blade Set for 46\" Cut Craftsman, Husqvarn"
-seo_title: "MaxPower 561739B 2 Blade Set for 46\" Cut Craftsman Review"
-meta_description: "Our full maxpower 561739b 2 blade set for 46\" cut craftsman, husqvarn review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MaxPower 561739B 2 Blade Set for 46\ Cut Craftsman, Husqvarn"
+seo_title: "MaxPower 561739B 2 Blade Set for 46\ Cut Craftsman Review"
+meta_description: "Our full maxpower 561739b 2 blade set for 46\ cut craftsman, husqvarn review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "maxpower-561739b-2-blade-set-for-46-cut-craftsman-husqvarna-poulan-replaces-b00an8-review"
 image_alt: "MaxPower 561739B 2 Blade Set for 46 Cut Craftsman, Husqvarna, Poulan Replaces OEM no. 405380, 594892801, 532405380, CMXG"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00AN89UPU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51J3YpW11uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the dealership markup. The MaxPower 561739B is a two-pack of 46-inch deck blades that replaces OEM part numbers like the Craftsman 138679, Husqvarna 532138679, and Poulan 532138679. If you've priced those at a dealer recently, you know a single blade can run $35–$50. This set gets you two for less than that, and from the 235 ratings averaging 4.7 stars, most shoppers are finding the trade-off worth it.

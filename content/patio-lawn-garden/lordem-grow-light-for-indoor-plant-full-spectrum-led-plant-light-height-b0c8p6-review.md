@@ -1,4 +1,5 @@
 ---
+
 title: "LORDEM Grow Light for Indoor Plant, Full Spectrum LED Plant "
 seo_title: "LORDEM Grow Light for Indoor Plant, Full Spectrum  Review"
 meta_description: "Our full lordem grow light for indoor plant, full spectrum led plant  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C8P6YQX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713u+wi92KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more seedlings than you care to admit, the LORDEM grow light is the kind of product that makes you wonder why you didn't buy it sooner. This isn't a novelty purple LED strip — it's a serious full-spectrum panel with an adjustable stand, built for people who want to stop relying on a sunny windowsill that delivers about six hours of weak winter light.

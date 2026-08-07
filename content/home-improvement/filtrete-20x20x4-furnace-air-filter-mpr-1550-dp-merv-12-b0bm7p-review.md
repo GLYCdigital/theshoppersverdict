@@ -1,4 +1,5 @@
 ---
+
 title: "Filtrete 20x20x4 Furnace Air Filter MPR 1550 DP MERV 12 inch"
 seo_title: "Filtrete 20x20x4 MPR 1550 MERV 12 Filter Review (2026)"
 meta_description: "Honest Filtrete 20x20x4 MERV 12 filter review: MPR 1550 performance, airflow tradeoffs, real owner feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BM7PT9KH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812FDtnwBUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4-inch deep pleats mean 12+ months of service life, not the 90-day cycle of 1-inch filters"
   - "MPR 1550 captures visible dust, pollen, smoke, and microscopic particles—verified third-party MERV 12 rating"
   - "Cardboard frame holds its shape during installation; media won't collapse under normal static pressure"
-cons:
+cons: 
   - "High filtration efficiency restricts airflow noticeably—not ideal for older furnaces or undersized returns"
   - "Premium price point runs roughly 2–3x what a basic fiberglass filter costs per year"
+
 ---
 
 # Filtrete 20x20x4 Furnace Air Filter MPR 1550 DP MERV 12

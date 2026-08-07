@@ -1,4 +1,5 @@
 ---
+
 title: "Aukney Tree Trunk Protector-2 Size Plastic Spiral Tree Guard"
 seo_title: "Aukney Tree Trunk Protector Review: Spiral Guard Pros & Cons"
 meta_description: "Aukney Tree Trunk Protector review: 2-size spiral plastic guard. We tested durability, fit, and winter protection. Honest pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CY2LFKBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gIQdmSCfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two sizes in one pack (wider and narrower spirals) let you protect saplings and semi-mature trunks without buying two products"
   - "Rigid but flexible plastic withstands string trimmer hits and winter freeze-thaw cycles without cracking"
   - "Ventilation gaps between spiral coils prevent moisture trapping and bark rot—a common failure with solid wrap guards"
-cons:
+cons: 
   - "Spiral design leaves small gaps; aggressive weed whackers can still reach the bark if you're careless"
   - "No included stakes or clips—the base can shift on windy days if you don't anchor it yourself"
+
 ---
 
 You've lost one too many young trees to a string trimmer on a careless afternoon, or watched rabbits strip the bark off a $40 sapling over one hungry winter. The Aukney Tree Trunk Protector-2 Size Plastic Spiral Tree Guard is the cheap insurance that actually works—provided you understand what it is and isn't.

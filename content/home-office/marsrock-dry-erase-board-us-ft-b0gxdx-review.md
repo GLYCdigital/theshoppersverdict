@@ -1,4 +1,5 @@
 ---
+
 title: "Marsrock Dry Erase Board US FT"
 seo_title: "Marsrock Dry Erase Board US FT Review: Verdict | TSV"
 meta_description: "Our full marsrock dry erase board us ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXDXZPK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710vGhNKIfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A whiteboard is a whiteboard, right? Not quite.** After 229 ratings averaging 4.6 stars, the Marsrock Dry Erase Board has clearly earned its place in home offices and conference rooms across the country. But does it live up to the hype, or is it riding on a wave of generous reviews? I've dug through the specs, the customer feedback, and the common complaints to give you the real story before you drop your cash.

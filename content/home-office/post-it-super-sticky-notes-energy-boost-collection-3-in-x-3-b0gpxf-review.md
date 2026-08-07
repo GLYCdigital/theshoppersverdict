@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Super Sticky Notes, Energy Boost Collection, 3 in x "
 seo_title: "Post-it Super Sticky Notes, Energy Boost Collectio Review"
 meta_description: "Our full post-it super sticky notes, energy boost collection, 3 in x  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GPXF9C4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KNFb-wE7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most sticky notes are junk. The adhesive fails by Tuesday, the paper curls at the corners, and the colors are so washed out you can't tell the yellow from the beige. The Post-it Super Sticky Energy Boost Collection is not most sticky notes. Here's the real story after using these for three weeks straight.

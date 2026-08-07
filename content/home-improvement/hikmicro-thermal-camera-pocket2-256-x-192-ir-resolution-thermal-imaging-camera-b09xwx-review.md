@@ -1,4 +1,5 @@
 ---
+
 title: "HIKMICRO Thermal Camera Pocket2 256 x 192 IR Resolution Ther"
 seo_title: "HIKMICRO Thermal Camera Pocket2 256 x 192 IR Resol Review"
 meta_description: "Our full hikmicro thermal camera pocket2 256 x 192 ir resolution ther review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09XWXS3P3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EPf2FIziL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hikmicro Pocket2 Thermal Camera Review: Serious Thermal Resolution Without the Serious Price

@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Business Furniture Studio C 3 Drawer Mobile File Cabine"
 seo_title: "Bush Studio C 3-Drawer Mobile File Cabinet Review (2026)"
 meta_description: "Honest Bush Business Furniture Studio C 3 Drawer Mobile File Cabinet review: build quality, assembly, real-world use, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DHHH78MF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Gxffr1xrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-extension ball-bearing slides on all three drawers — file drawer holds letter/legal hanging files without sag"
   - "Locking top drawer with two keys secures sensitive documents; keyed differently from typical office furniture locks"
   - "Laminate top is scratch-resistant and supports a monitor or printer — doubles as a small side table"
-cons:
+cons: 
   - "Assembly requires ~45–60 minutes; cam-lock hardware is finicky and one misaligned dowel means disassembly"
   - "Casters are plastic and roll fine on carpet but can scratch hardwood — consider felt pads underneath"
   - "File drawer depth is 14.5 inches — won't fit some oversized expanding files or suspension bars wider than standard"
+
 ---
 
 Let's be direct: a mobile file cabinet is the least glamorous purchase in any home office. But get it wrong and you're fighting a drawer that sticks, wheels that wobble, or a lock that jams at the worst moment. The Bush Business Furniture Studio C 3-Drawer Mobile File Cabinet sits in a crowded field, yet it keeps showing up in "recommended" lists for a reason. Here's what 204 Amazon reviewers (4.1 stars) and my own teardown of the specs tell you before you click buy.

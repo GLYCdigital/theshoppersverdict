@@ -1,4 +1,5 @@
 ---
+
 title: "Pylex 11052 11070 Sliding Gate Kit, Black"
 seo_title: "Pylex 11052 11070 Sliding Gate Kit, Black Review: Verdict"
 meta_description: "Our full pylex 11052 11070 sliding gate kit, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0797JRJ76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fHmWnoa8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a sliding gate and you've priced out individual rollers, track, and brackets, you already know the sting. The Pylex 11052 11070 Sliding Gate Kit bundles the critical hardware into one box, and at 4.4 stars from 220 buyers, it's clearly doing something right. The question is whether it's the right kit for *your* gate.

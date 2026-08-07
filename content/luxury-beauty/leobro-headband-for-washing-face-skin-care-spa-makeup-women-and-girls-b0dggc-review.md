@@ -1,4 +1,5 @@
 ---
+
 title: "LEOBRO Headband for Washing Face, Skin Care, Spa, Makeup - W"
 seo_title: "LEOBRO Headband for Washing Face, Skin Care, Spa,  Review"
 meta_description: "Our full leobro headband for washing face, skin care, spa, makeup - w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DGGCKP95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qw15s++ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A damp neckline, water dripping down your arms, and hair escaping to stick to your cleanser — every skincare routine's annoying reality. The LEOBRO Headband for Washing Face aims to kill all three problems at once. After digging through 235 ratings averaging 4.7 stars, this little terry cloth band is doing something right.

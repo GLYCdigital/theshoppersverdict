@@ -1,16 +1,17 @@
 ---
+
 title: "Desktronic HomePro Standing Desk 80x30 — Made in Europe, Ergonomic Sit Stand Home Office Desk, Electric Height Adjustable, Dual Motor, USB & USB-C Charging, Wobble-Free, Touchscreen, 3 Memory Presets"
 seo_title: "Desktronic HomePro Standing Review: Verdict (4.8/5) | TSV"
 meta_description: "Overall appears to be very 909+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "desktronic-homepro-standing-desk-80x30-made-in-europe-ergonomic-sit-stand-home-review"
 image_alt: "Desktronic HomePro Standing Desk 80x30 — Made in Europe, Ergonomic Sit Stand Home Office Desk, Electric Height Adjustabl"
-keywords:
+keywords: 
   - "desktronic homepro standing review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Desktronic HomePro Standing Desk?"
     answer: "Overall appears to be very sturdy That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Desktronic HomePro Standing Desk?"
@@ -23,12 +24,13 @@ review_count: 909
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G8ZPGFYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G-S2yPmoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Overall appears to be very sturdy."
   - "Beautiful and sturdy This desk is beautiful and the table-top is perfect."
   - "Very sturdy, great quality."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The $119 Standing Desk That Thinks It's a $500 One — Mostly**

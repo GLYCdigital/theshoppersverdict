@@ -1,23 +1,25 @@
 ---
+
 title: "GalnFu Bed Frame with 4 Storage Drawers, Upholstered Platfor"
 seo_title: "GalnFu Bed Frame Review: Storage Drawers & Charging Ports"
 meta_description: "GalnFu Bed Frame with 4 storage drawers: sturdy build, USB ports, but assembly quirks. Read our honest 4.2/5 review before buying."
 slug: "galnfu-bed-frame-with-4-storage-drawers-upholstered-platform-bed-with-charging-b0g25q-review"
 image_alt: "GalnFu upholstered platform bed frame with four storage drawers and USB charging ports"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G25QGGQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916YuOpreIL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Four deep, roller-glide drawers that actually fit a queen-size comforter folded flat"  
   - "Built-in USB-A and USB-C ports on both sides — no nightstand outlet hunt"  
   - "Tool-free drawer assembly with pre-drilled holes; total build time ~45 minutes solo"  
-cons:  
+cons: 
   - "Headboard is a thin, hollow-core panel — push on it and you'll feel flex"  
   - "Drawer runners are plastic, not ball-bearing; they squeak after ~6 months of daily use"
+
 ---
 
 If you're shopping for a bed frame that doubles as storage, the GalnFu with four drawers is a serious contender — but it's not without compromise. With 220 ratings averaging 4.4 stars, buyers mostly love the utility. Here's what that rating doesn't tell you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Landmok 12 Inch Deep Floating Shelves for Wall"
 seo_title: "Landmok 12 Inch Deep Floating Shelves for Wall Review: Ve"
 meta_description: "Our full landmok 12 inch deep floating shelves for wall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTVKGWDM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+rwNgS3WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

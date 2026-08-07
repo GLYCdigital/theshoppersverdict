@@ -1,4 +1,5 @@
 ---
+
 title: "LayinSun Outdoor Patio Furniture Set, Rattan Wicker Sectiona"
 seo_title: "LayinSun Outdoor Patio Furniture Set, Rattan Wicke Review"
 meta_description: "Our full layinsun outdoor patio furniture set, rattan wicker sectiona review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK73PKL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91A5-YrCHSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the LayinSun Rattan Wicker Sectional Worth Your Patio Space?

@@ -1,4 +1,5 @@
 ---
+
 title: "Burt’s Bees Lavender Vanilla Lip Sleeping Masks lip treatm"
 seo_title: "Burt’s Bees Lavender Vanilla Lip Mask Review (2026)"
 meta_description: "Burt’s Bees Lavender Vanilla Lip Sleeping Mask review: overnight hydration, real results, and who should buy. Honest 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZV4ZVV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IjVIjfAuL._SL1500_.jpg"
-pros:
+pros: 
   - "Beeswax base creates a true occlusive seal that lasts through the night — not a thin balm that disappears in 20 minutes"
   - "Lavender vanilla scent is calming, not synthetic — feels like aromatherapy before bed"
   - "No petroleum jelly, parabens, or phthalates — clean formula that actually performs"
-cons:
+cons: 
   - "Jar packaging requires a finger or spatula — not the most hygienic option for travel"
   - "Scent is noticeable — if you dislike lavender, this won't convert you"
   - "Thick texture takes a few minutes to absorb; not ideal if you hate any residue on lips"
+
 ---
 
 ### The Overnight Lip Treatment That Actually Earns Its Name

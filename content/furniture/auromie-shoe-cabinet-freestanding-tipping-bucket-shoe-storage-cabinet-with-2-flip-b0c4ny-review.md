@@ -1,4 +1,5 @@
 ---
+
 title: "Auromie Shoe Cabinet, Freestanding Tipping Bucket Shoe Stora"
 seo_title: "Auromie Shoe Cabinet Review: Tipping Bucket Storage (2026)"
 meta_description: "Honest Auromie Shoe Cabinet review: 2 flip-drawer freestanding unit, build quality, real capacity, and who should buy it. 4.4-star rated."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4NY3QK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tGMHXZ8BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Two-tier tipping bucket design holds 8-10 pairs of adult shoes in a 23.6 inch " wide footprint — ideal for tight entryways
   - "Flip-down drawers open outward, so you can access shoes without pulling the cabinet away from the wall"
   - "Sturdy particleboard construction with a smooth, water-resistant finish that wipes clean easily"
-cons:
+cons: 
   - "Assembly requires patience — roughly 45-60 minutes with 20+ screws and cam locks; included hex key is flimsy"
   - "Flat-heeled boots and tall sneakers won't fit; max shoe height is around 5 inches per bucket"
   - "Cabinet is top-heavy when fully loaded; wall anchoring is strongly recommended if you have kids or pets"
+
 ---
 
 If your entryway looks like a shoe explosion, the Auromie Shoe Cabinet is a space-saving solution that actually works — with a few caveats you should know about before you buy.

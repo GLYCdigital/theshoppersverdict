@@ -1,4 +1,5 @@
 ---
+
 title: "OutVue Fire Pit Ring, Firepit Ring"
 seo_title: "OutVue Fire Pit Ring, Firepit Ring Review: Verdict | TSV"
 meta_description: "Our full outvue fire pit ring, firepit ring review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPKK22QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516Cj3JRUeL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a 4.6-star fire pit ring for a reason. It's heavy-duty, smartly engineered, and priced to make sense for anyone building a permanent fire feature — but it's not a complete kit.**

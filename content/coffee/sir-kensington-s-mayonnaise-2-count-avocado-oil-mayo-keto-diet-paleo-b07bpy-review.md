@@ -1,4 +1,5 @@
 ---
+
 title: "Sir Kensington's Mayonnaise 2 Count Avocado Oil Mayo Keto Di"
 seo_title: "Sir Kensington's Mayonnaise 2 Count Avocado Oil Ma Review"
 meta_description: "Our full sir kensington's mayonnaise 2 count avocado oil mayo keto di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07BPYK9CV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PJCO0zyUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **First things first: this is not your grocery-store mayo.** Sir Kensington's Avocado Oil Mayonnaise comes in a 2-pack of 12-ounce squeeze bottles, and it's aimed squarely at shoppers who read ingredient labels and flinch at soybean oil. The brand built its name on condiments that taste like someone actually cooked them, and this mayo follows that playbook — but with a few tradeoffs you should know about before you add it to your cart.

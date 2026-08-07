@@ -1,4 +1,5 @@
 ---
+
 title: "Brizled RGB Color Changing Christmas Lights"
 seo_title: "Brizled RGB Christmas Lights Review: Smart & Colorful"
 meta_description: "Honest Brizled RGB Christmas lights review: 16 color options, app control, durability. See pros, cons, and if these smart lights fit your holiday setup."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CP5Q7D41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817u15inGRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 static colors plus multiple dynamic modes (fade, flash, smooth transition) accessible via included remote"
   - "Built-in memory function restores last color/pattern setting when power returns"
   - "IP44 weatherproof rating handles rain and snow for outdoor seasonal use"
-cons:
+cons: 
   - "Remote requires line-of-sight; controller placement on the string limits where you can mount the receiver"
   - "Advertised 100-foot length measures closer to 95 feet of illuminated wire once you account for the lead cord"
+
 ---
 
 When you're stringing lights across a roofline or wrapping a 12-foot pine, the last thing you want is a single-color strand that forces you to climb a ladder twice. The Brizled RGB Color Changing Christmas Lights solve that with a remote that cycles through 16 colors and a half-dozen dynamic modes from the ground. But does the convenience hold up over a full season? I dug through the spec sheet, the user feedback, and the practical realities of hanging these to give you the straight story.

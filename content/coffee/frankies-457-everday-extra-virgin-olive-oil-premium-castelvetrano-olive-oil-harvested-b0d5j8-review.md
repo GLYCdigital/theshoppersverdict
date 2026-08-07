@@ -1,4 +1,5 @@
 ---
+
 title: "Frankies 457 Everday Extra Virgin Olive Oil - Premium Castel"
 seo_title: "Frankies 457 EVOO Review: Castelvetrano Olive Oil Worth It?"
 meta_description: "Frankies 457 Everyday EVOO review: Is this premium Castelvetrano olive oil worth the price? We test flavor, freshness, and value for home cooks."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5J8Q3W5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ldaPZOIQL._SL1500_.jpg"
-pros:
+pros: 
   - "Fresh, peppery finish with genuine Castelvetrano olive character — tastes like it was pressed recently, not sitting on a shelf"
   - "Harvest date printed on bottle (October 2025 for current batch), so you know exactly how old your oil is"
   - "Balanced flavor that works for both finishing and cooking — doesn't turn bitter when heated"
-cons:
+cons: 
   - "Price per ounce runs higher than supermarket EVOO; this is a premium buy, not a daily cooking workhorse"
   - "Dark glass bottle is great for protecting the oil but makes it hard to see how much is left"
   - "Some batches may show sediment at the bottom — natural but off-putting if you're not expecting it"
+
 ---
 
 You don't need to be a sommelier to taste the difference between this and the $8 bottle at your grocery store. Frankies 457 Everyday Extra Virgin Olive Oil isn't trying to reinvent the category — it's just doing the basics exceptionally well. And after testing it for three weeks across salads, pasta, and even a high-heat roast, I understand why it holds a 4.6-star average from 229 Amazon ratings.

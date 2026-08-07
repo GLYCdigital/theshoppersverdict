@@ -1,4 +1,5 @@
 ---
+
 title: "Forceatt Tent for 2 and 3 Person is Waterproof and Windproof"
 seo_title: "Forceatt Tent 2/3 Person Review: Waterproof & Windproof"
 meta_description: "Forceatt 2/3 person tent review: Is it truly waterproof and windproof? We break down build quality, real-world performance, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNT9FK31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514BxWiGK9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-layer rainfly with taped seams and a 3000mm PU coating that genuinely holds up in sustained downpours"
   - "DAC-style aluminum poles (not fiberglass) keep the structure rigid in 30+ mph gusts without flexing or snapping"
   - "Two large D-shaped doors and vestibules — rare at this price point, making entry and gear storage far easier than single-door rivals"
-cons:
+cons: 
   - "Packaged weight of 6.8 lbs is heavy for backpacking; this is a car-camping tent, not a trail shelter"
   - "Ventilation relies on mesh panels that can frost up in cold weather unless you keep the fly partially open"
+
 ---
 
 If you’re shopping for a budget tent that promises waterproofing and wind resistance, the Forceatt 2/3 person model makes a bold claim. After digging through 229 verified reviews and the spec sheet, here’s the honest breakdown.

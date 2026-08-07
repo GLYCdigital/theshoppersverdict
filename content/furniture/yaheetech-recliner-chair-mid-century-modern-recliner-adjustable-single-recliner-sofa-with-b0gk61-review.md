@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Recliner Chair Mid-Century Modern Recliner Adjusta"
 seo_title: "Yaheetech Recliner Chair Mid-Century Modern Reclin Review"
 meta_description: "Our full yaheetech recliner chair mid-century modern recliner adjusta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GK61ZJ83/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fH7g7R0zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $200 Mid-Century Recliner That Actually Looks the Part

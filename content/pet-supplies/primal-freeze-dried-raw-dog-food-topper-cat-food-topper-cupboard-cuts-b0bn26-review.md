@@ -1,4 +1,5 @@
 ---
+
 title: "Primal Freeze Dried Raw Dog Food Topper & Cat Food Topper, C"
 seo_title: "Primal Freeze Dried Raw Dog Food Topper & Cat Food Review"
 meta_description: "Our full primal freeze dried raw dog food topper & cat food topper, c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BN26MZ91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fFYK1l7eL._AC_SL1269_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Raw Truth About This Topper**

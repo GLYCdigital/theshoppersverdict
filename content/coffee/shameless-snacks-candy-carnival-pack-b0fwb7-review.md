@@ -1,4 +1,5 @@
 ---
+
 title: "Shameless Snacks Candy Carnival Pack"
 seo_title: "Shameless Snacks Candy Carnival Pack Review: Verdict | TS"
 meta_description: "Our full shameless snacks candy carnival pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FWB79RT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kw+EgrhtL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut straight to it: the Shameless Snacks Candy Carnival Pack isn’t trying to be subtle. It’s a collection of small-batch candy creations that lean into nostalgia but crank the flavor dial past 10. If you’re tired of the same mass-produced chocolate bars and want something with actual personality, this is worth your attention. I’ve tested all the flavors in the assortment, and here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "A Strong Heart Wet Dog Food, 5.5 oz Cans"
 seo_title: "A Strong Heart Wet Dog Food Review: Honest Look at 5.5 oz Cans"
 meta_description: "Read our A Strong Heart wet dog food review. We analyze ingredients, texture, picky eater results, and value across 210 Amazon ratings. Is it right for your dog?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F3KWB8JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81snHLlLEWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth pâté texture that mixes easily with kibble or medication without turning into a crumbly mess"
   - "High moisture content (78%) helps picky drinkers stay hydrated, especially senior dogs"
   - "Single-serve 5.5 oz cans portion cleanly for 10-25 lb dogs with no waste"
-cons:
+cons: 
   - "Strong fish-forward aroma that lingers in the bowl and kitchen for hours after feeding"
   - "Some batches reported inconsistent chunk sizes — occasionally larger liver pieces than expected"
+
 ---
 
 **A Strong Heart Wet Dog Food, 5.5 oz Cans Review: Real Talk for Picky Pups**

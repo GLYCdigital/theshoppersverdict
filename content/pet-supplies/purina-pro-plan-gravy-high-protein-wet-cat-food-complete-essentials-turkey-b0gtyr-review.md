@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Gravy, High Protein Wet Cat Food, Complete E"
 seo_title: "Purina Pro Plan Gravy, High Protein Wet Cat Food,  Review"
 meta_description: "Our full purina pro plan gravy, high protein wet cat food, complete e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTYR3XSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q2YNn-LZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Purina Pro Plan Gravy: Is This the High-Protein Wet Food Your Cat Will Actually Eat?

@@ -1,4 +1,5 @@
 ---
+
 title: "AMHANCIBLE C Shaped End Table Set of 2, C Tables for Sofa, S"
 seo_title: "AMHANCIBLE C Table Set of 2 Review: Worth It? (2026)"
 meta_description: "Honest AMHANCIBLE C-shaped end table set review: build quality, sofa clearance, stability, and real buyer feedback. Is this $60 couch table worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXPHY3TN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FeUbXcUDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10.2-inch sofa clearance — slides fully under most couches, putting the tabletop right at armrest height"
   - "Sturdy steel frame with X-brace under the top; holds a 15-pound monitor without visible flex"
   - "Set of 2 means one for each side of the couch — no fighting over the coffee table"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver; the included Allen wrench strips easily if you overtighten"
   - "Matte black finish scuffs if you drag metal objects across it — use a coaster for heavy mugs"
   - "No adjustable feet; on uneven carpet the table rocks slightly (shim or felt pads fix it)"
+
 ---
 
 If you've ever balanced a laptop on your knees while reaching for a coffee mug, you know the pain this product is designed to solve. The AMHANCIBLE C-shaped end table set promises sofa-side convenience without the bulk of a traditional end table. At 4.6 stars across 229 ratings, it's clearly working for most buyers. But is it worth your money? Let's break it down.

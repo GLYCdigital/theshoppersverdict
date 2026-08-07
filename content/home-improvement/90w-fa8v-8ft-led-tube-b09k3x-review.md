@@ -1,4 +1,5 @@
 ---
+
 title: "90W FA8V 8FT LED Tube Review: Honest Look at Brightness & Value"
 seo_title: "90W FA8V 8FT LED Tube Review: Bright, Efficient, Worth It?"
 meta_description: "Our 90W FA8V 8FT LED Tube review covers real brightness, installation quirks, and value. See if this 4.7-star shop light fits your garage or workshop."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09K3XX8Y1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uEgINGhLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 90W output delivers ~11,000 lumens — genuinely brighter than most 8ft LED replacements"
   - "FA8V double-ended wiring works with existing shunted or non-shunted tombstones (no rewiring needed)"
   - "Frosted cover eliminates harsh glare and strip-light pixelation at eye level"
-cons:
+cons: 
   - "Hardwired installation only — no plug-and-play option for standard outlets"
   - "Bulky 8ft housing makes single-person ceiling mounting awkward without a helper or extra clips"
   - "Color temperature is fixed at 5000K — no warm white option for living spaces"
+
 ---
 
 **The 8-foot LED tube market is crowded with underpowered wannabes. This 90W FA8V is not one of them.**

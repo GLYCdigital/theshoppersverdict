@@ -1,4 +1,5 @@
 ---
+
 title: "Greenies Pill Pockets Small Size Soft Dog Treats for Tablets"
 seo_title: "Greenies Pill Pockets Small Review: Do They Work? (2026)"
 meta_description: "Honest Greenies Pill Pockets Small review: Do they really hide pills? Flavor, effectiveness, and value tested. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQDB6F1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A02UVSF8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pliable, dough-like texture that molds tightly around pills and stays sealed — no crumbling or falling apart mid-throw"
   - "Strong savory aroma that effectively masks most tablet smells; dogs rarely detect the hidden medication"
   - "Small size fits 10-25 lb dogs but works for picky eaters of any size who prefer a smaller treat"
-cons:
+cons: 
   - "Expensive per-treat compared to DIY alternatives like cream cheese or peanut butter — you're paying for convenience"
   - "Some dogs with sensitive stomachs may experience digestive upset if given multiple pockets daily for chronic meds"
   - "Not suitable for capsules larger than standard size; bigger pills require the Large formula instead"
+
 ---
 
 If you've ever wrestled a reluctant dog into submission just to get a heartworm pill down their throat, you already know the pain. Greenies Pill Pockets are the most recognized solution to that daily battle — but do they actually work, or are you just paying for overpriced dough?

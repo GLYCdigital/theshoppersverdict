@@ -1,4 +1,5 @@
 ---
+
 title: "SerBion B10 Light Bulbs"
 seo_title: "SerBion B10 Light Bulbs Review: Verdict | TSV"
 meta_description: "Our full serbion b10 light bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHTRPZT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615Ncjm5LhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about chandelier bulbs: most are either too dim, too cold, or they die within six months. The SerBion B10 aims to fix all three — and it mostly does. After testing these in a ceiling fan, a bathroom vanity, and a wall sconce, here's what 225 Amazon reviewers and I actually think.

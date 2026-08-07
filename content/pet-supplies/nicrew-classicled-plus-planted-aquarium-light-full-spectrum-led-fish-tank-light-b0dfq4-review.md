@@ -1,4 +1,5 @@
 ---
+
 title: "NICREW ClassicLED Plus Planted Aquarium Light, Full Spectrum"
 seo_title: "NICREW ClassicLED Plus Planted Aquarium Light, Ful Review"
 meta_description: "Our full nicrew classicled plus planted aquarium light, full spectrum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFQ4BW4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nHRG3AZXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced planted tank lights lately, you know the good ones run $100–$200. The NICREW ClassicLED Plus sits in a much friendlier bracket, yet it's getting 4.6 stars from 229 buyers. That kind of consensus deserves a closer look.

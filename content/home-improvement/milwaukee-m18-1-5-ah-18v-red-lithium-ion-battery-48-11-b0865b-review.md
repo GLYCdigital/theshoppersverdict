@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee M18 1.5 Ah 18V Red Lithium Ion Battery 48.11.1815 "
 seo_title: "Milwaukee M18 1.5 Ah 18V Red Lithium Ion Battery 4 Review"
 meta_description: "Our full milwaukee m18 1.5 ah 18v red lithium ion battery 48.11.1815  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0865B343D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r-bYFGAHL._AC_SL1074_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever held a Milwaukee M18 drill with a 5.0 Ah brick bolted to the bottom, you know the struggle. It’s front-heavy, awkward in tight corners, and makes your wrist ache by hour two. The M18 1.5 Ah battery (model 48.11.1815) is Milwaukee’s answer to that problem — a compact, featherweight pack that prioritizes balance and maneuverability over raw endurance. But is it a smart buy or a compromise you’ll regret?

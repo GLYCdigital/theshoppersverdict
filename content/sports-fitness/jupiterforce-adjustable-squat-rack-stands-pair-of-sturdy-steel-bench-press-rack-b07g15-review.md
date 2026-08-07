@@ -1,4 +1,5 @@
 ---
+
 title: "JupiterForce Adjustable Squat Rack Stands Pair of Sturdy Ste"
 seo_title: "JupiterForce Adjustable Squat Rack Stands Pair of  Review"
 meta_description: "Our full jupiterforce adjustable squat rack stands pair of sturdy ste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07G15M76Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hYlDsiI5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $150 Squat Stand That Doesn't Feel Like One

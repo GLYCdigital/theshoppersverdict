@@ -1,4 +1,5 @@
 ---
+
 title: "Super Screen 17/14 - Weather & Pet Proof Screen - Clear View"
 seo_title: "Super Screen 17/14 - Weather & Pet Proof Screen -  Review"
 meta_description: "Our full super screen 17/14 - weather & pet proof screen - clear view review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BN6ZKQ4V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X2mIP6ZkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a dog that treats your porch screen like a doorbell, you've probably already gone through two or three "pet-proof" screens that failed anyway. The Super Screen 17/14 is a different animal — literally. This isn't fiberglass mesh with a fancy name slapped on the package. The 17/14 designation refers to the actual weave density: 17 strands per inch in one direction, 14 in the other, using a thicker 0.011-inch PET-coated polyester strand. That's roughly double the strand thickness of standard screen material.

@@ -1,4 +1,5 @@
 ---
+
 title: "ECLIPSE Sugarfree Gum"
 seo_title: "ECLIPSE Sugarfree Gum Review: Freshens Coffee Breath in 2026 inch"
 meta_description: "Honest ECLIPSE Sugarfree Gum review: how this mint gum fights coffee breath, its texture, flavor longevity, and whether it beats the competition."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB66QZJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IlOu1wO-L._SL1001_.jpg"
-pros:
+pros: 
   - "Intense peppermint oil flavor that genuinely masks coffee breath for 15+ minutes"
   - "Firm pellet texture holds up — doesn't turn to mush after 10 minutes of chewing"
   - "Sugar-free formula with sorbitol and xylitol that doesn't trigger a sticky sugar coating"
-cons:
+cons: 
   - "Flavor fades faster than premium brands like Ice Breakers — expect ~15 minutes of full intensity"
   - "Small 50-piece bottle means frequent repurchasing for daily coffee drinkers"
   - "Some users report a slightly medicinal aftertaste from the peppermint oil concentration"
+
 ---
 
 Let's be honest: you clicked this because you're a coffee person, and coffee breath is the tax you pay for that third espresso. ECLIPSE Sugarfree Gum is the product that claims to solve it. Here's the real story.

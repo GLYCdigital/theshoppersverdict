@@ -1,4 +1,5 @@
 ---
+
 title: "essence | Jelly Grip Hydrating Primer | Hydrates Skin & Grip"
 seo_title: "essence Jelly Grip Hydrating Primer Review (2026): Does It Work?"
 meta_description: "Honest essence Jelly Grip Hydrating Primer review: hydration, grip, wear test results, and who should buy it. Real buyer feedback at 4.4 stars."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQKFTGH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kTG6vKSeL._SL1200_.jpg"
-pros:
+pros: 
   - "Delivers a visible hydration boost with glycerin and aloe — skin feels bouncy, not tacky, under makeup"
   - "Grip formula actually holds foundation in place through 8+ hours, even on oily T-zones"
   - "Fragrance-free and cruelty-free, priced under $10 — rare combo in the grip primer category"
-cons:
+cons: 
   - "Jelly texture can pill if you apply too much or layer over thick moisturizers — use a thin, even layer"
   - "Not a pore-blurring or mattifying primer; if you need oil control, this is the wrong tool"
   - "Tube packaging makes it hard to get the last 10% out, and the cap can crack if dropped"
+
 ---
 
 **The $8 primer that makes foundation actually stay put — with a hydration kick that surprised me**

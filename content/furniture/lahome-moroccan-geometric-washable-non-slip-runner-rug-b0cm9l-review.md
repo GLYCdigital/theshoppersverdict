@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Moroccan Geometric Washable Non-Slip Runner Rug"
 seo_title: "Lahome Moroccan Geometric Washable Non-Slip Runner Review"
 meta_description: "Our full lahome moroccan geometric washable non-slip runner rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM9LNXR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mSStqp+EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: hallway rugs take a beating. Doorway traffic, pet paws, coffee spills — the wrong runner ends up stained, slipping, or curling at the edges within a month. The Lahome Moroccan Geometric Washable Runner gets the fundamentals right, and at 4.4 stars from 220 ratings, buyers mostly agree. But it’s not flawless, and you should know exactly what you’re getting before you click.

@@ -1,4 +1,5 @@
 ---
+
 title: "De Cecco Extra Virgin Olive Oil, Classico"
 seo_title: "De Cecco Extra Virgin Olive Oil Classico Review (2026)"
 meta_description: "Honest De Cecco Extra Virgin Olive Oil Classico review: flavor, freshness, value. See how it stacks up for cooking & finishing before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C41NHM49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FSAzIUFgL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, peppery finish that holds up in high-heat cooking without turning bitter"
   - "Consistent quality batch-to-batch — a 100-year-old miller's reputation you can taste"
   - "Versatile enough for both sautéing and raw finishing; one bottle covers most kitchen needs"
-cons:
+cons: 
   - "Plastic bottle cap can drip if you pour too fast — pour slowly or use a spout"
   - "Milder than single-estate Italian oils; not the most complex for dedicated EVOO connoisseurs"
+
 ---
 
 Let's be honest: most supermarket olive oil is a gamble. You're either getting something that tastes like nothing, or worse, something that burns and turns acrid the second it hits a hot pan. De Cecco's Classico EVOO isn't trying to be the most artisanal bottle on the shelf — but it's trying to be the most reliable, and it largely succeeds.

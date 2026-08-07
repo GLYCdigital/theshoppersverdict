@@ -1,4 +1,5 @@
 ---
+
 title: "U.S. Pool Supply Octopus Suction Pool Cleaner, Inground Auto"
 seo_title: "U.S. Pool Supply Octopus Suction Pool Cleaner, Ing Review"
 meta_description: "Our full u.s. pool supply octopus suction pool cleaner, inground auto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FDXPGVG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zdP7YEXWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The U.S. Pool Supply Octopus is the budget-friendly contender in the suction-side automatic cleaner arena. At roughly half the price of a Polaris or Hayward, it promises similar results. But does it deliver, or is this a case of "you get what you pay for"? After digging through 185 ratings averaging 3.7 stars, here's the real picture.

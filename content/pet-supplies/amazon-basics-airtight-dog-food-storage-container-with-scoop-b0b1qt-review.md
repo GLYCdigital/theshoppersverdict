@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Airtight Dog Food Storage Container with Scoop"
 seo_title: "Amazon Basics Dog Food Storage Container Review (2026)"
 meta_description: "Amazon Basics Airtight Dog Food Storage Container with Scoop review: capacity, seal quality, durability, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B1QT9CX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FPEVsopCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely airtight seal — keeps kibble fresh and deters ants and pantry moths"
   - "Large 40-pound capacity with smooth-gliding wheels, so you're not lifting a heavy bin every feeding"
   - "Transparent body lets you see food level at a glance — no guessing or opening the lid"
-cons:
+cons: 
   - "Lid isn't hinged; you'll need a flat surface nearby to rest it while scooping"
   - "Plastic feels thinner on the sidewalls than premium bins, so don't stack anything heavy on top"
   - "The included scoop has no handle hook — it can slide into the food if not anchored properly"
+
 ---
 
 If you've ever dealt with a torn 30-pound bag of kibble leaking onto your laundry room floor, or worse — found ants marching through a flimsy plastic bin — you already know why food storage matters. The Amazon Basics Airtight Dog Food Storage Container with Scoop is trying to solve that problem for under $40. Here's the real story after digging through 220 ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Energise Automatic Chicken Coop Door, Programmable Timer"
 seo_title: "Sun Energise Automatic Chicken Coop Door, Programm Review"
 meta_description: "Our full sun energise automatic chicken coop door, programmable timer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GCMSQT33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718CzWOssiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of racing home before dusk to shut the coop door — or worse, doing the 6 a.m. waddle out in pajamas to let the girls out — an automatic door is a genuine quality-of-life upgrade. The Sun Energise Automatic Chicken Coop Door aims to solve that with a programmable timer, a light sensor, and a price point that undercuts the big names. After digging through 210 ratings and the spec sheet, here's the real story.

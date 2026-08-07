@@ -1,4 +1,5 @@
 ---
+
 title: "Finishes Group for Profile Number R7629 inch"
 seo_title: "Finishes Group R7629 Review: Is It Worth It? (2026)"
 meta_description: "Honest Finishes Group for Profile Number R7629 review. See how this hardware component performs, real buyer feedback, and whether it fits your project."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY61L75Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619adbLKyqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multiple finish options in one set — matches existing hardware without ordering separate pieces"
   - "Precision-machined edges that seat flush against the profile, no gaps or wobble"
   - "Corrosion-resistant coating holds up in humid environments like bathrooms and kitchens"
-cons:
+cons: 
   - "No color swatches included — you're matching by online photos, which can be off"
   - "Installation requires a specific hex key size not included in the package"
+
 ---
 
 ## Is This Just Another Hardware Accessory, or the Missing Piece?

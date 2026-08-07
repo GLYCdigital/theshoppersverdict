@@ -1,4 +1,5 @@
 ---
+
 title: "DARKROCK 3-Pack 120mm Black Computer Case Fans High Performa"
 seo_title: "DARKROCK 120mm Case Fans 3-Pack Review (2026): Worth It?"
 meta_description: "DARKROCK 3-pack 120mm case fans review: quiet cooling, PWM control, and value. See real pros, cons, and if they fit your build."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CD7P3S8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zy9rUrX6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "PWM daisy-chain design lets you run all three fans off a single motherboard header — no hub required"
   - "Rated under 25 dBA at max speed, with hydraulic bearings that stay quiet past 6 months of use"
   - "Included 20 rubber anti-vibration pads actually work — no case rattle at 1500 RPM"
-cons:
+cons: 
   - "No RGB lighting whatsoever — if you want glow, look elsewhere"
   - "Cables are stiff and a bit short at 12 inches; routing through large full-tower cases takes planning"
+
 ---
 
 Let me save you 20 minutes of spec-sheet digging. The DARKROCK 3-pack of 120mm fans is a straightforward, no-nonsense cooling kit that does exactly what it promises — move air quietly without breaking your budget. It's not flashy, and that's precisely the point.

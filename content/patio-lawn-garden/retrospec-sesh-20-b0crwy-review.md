@@ -1,4 +1,5 @@
 ---
+
 title: "Retrospec Sesh 20â€"
 seo_title: "Retrospec Sesh 20â€ Review: Verdict | TSV"
 meta_description: "Our full retrospec sesh 20â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRWYBY4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AcVEQj0yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Retrospec Sesh 20â€ is a cruiser that knows exactly what it is — and what it isn't.** If you're expecting a mountain bike or a commuter, look elsewhere. But if you want a laid-back, comfortable ride for flat neighborhoods, beach paths, or just cruising the patio and driveway, this thing delivers.

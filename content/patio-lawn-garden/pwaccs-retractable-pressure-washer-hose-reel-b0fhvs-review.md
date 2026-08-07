@@ -1,4 +1,5 @@
 ---
+
 title: "PWACCS Retractable Pressure Washer Hose Reel"
 seo_title: "PWACCS Retractable Pressure Washer Hose Reel Review: Verd"
 meta_description: "Our full pwaccs retractable pressure washer hose reel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FHVSX8P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FlRFBUGGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still tripping over a tangled pressure washer hose coiled on your garage floor, the PWACCS Retractable Pressure Washer Hose Reel at $103.99 is a strong candidate to fix that problem. It's not the cheapest option out there, but it's also not the flimsiest. With 210 ratings averaging 4.2 stars, buyers generally agree it does the job well — with a few caveats worth knowing before you commit.

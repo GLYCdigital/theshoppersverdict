@@ -1,4 +1,5 @@
 ---
+
 title: "Amzgachfktch Electric Cooktop 30 Inch"
 seo_title: "Amzgachfktch 30 Inch Electric Cooktop Review (2026)"
 meta_description: "Honest Amzgachfktch 30-inch electric cooktop review: 4.1-star rating, real performance data, heating speed, and who should buy it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GTQT2TM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vP42afZcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four radiant burners with a 9-inch 1800W power element that actually boils water fast"
   - "Zero-clearance drop-in design fits standard 30-inch cutouts without custom cabinetry work"
   - "Twin hot-surface indicator lights per burner — one for power, one for residual heat — a safety touch most budget cooktops skip"
-cons:
+cons: 
   - "Ceramic glass smudges easily; you'll be wiping it after nearly every meal"
   - "No bridge element or flex zone, so griddle pans won't heat evenly across two burners"
   - "Touch controls require deliberate presses — occasionally unresponsive if fingers are slightly damp"
+
 ---
 
 ## The Budget Cooktop That Actually Cooks

@@ -1,4 +1,5 @@
 ---
+
 title: "Orly Builder In A Bottle Soak-Off Sculpting Gel For Quick Na"
 seo_title: "Orly Builder In A Bottle Soak-Off Sculpting Gel Fo Review"
 meta_description: "Our full orly builder in a bottle soak-off sculpting gel for quick na review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07K7Y23F3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OyWTC+piL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This is the product that claims to replace your salon dip powder appointments and your at-home nail strengthener collection in one bottle. After digging through 229 ratings and the real experiences behind them, here's the honest story on Orly's Builder In A Bottle.

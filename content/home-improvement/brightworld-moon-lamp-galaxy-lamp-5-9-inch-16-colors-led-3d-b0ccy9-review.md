@@ -1,4 +1,5 @@
 ---
+
 title: "BRIGHTWORLD Moon Lamp Galaxy Lamp 5.9 inch 16 Colors LED 3D"
 seo_title: "BRIGHTWORLD Moon Lamp Review: 16 Colors, 3D Realism (2026)"
 meta_description: "BRIGHTWORLD Moon Lamp Galaxy Lamp review: 5.9-inch 3D moon with 16 colors. Real customer pros, cons, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCY9XHNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812Aebmt6rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3D lunar surface detail from NASA imagery — not a smooth plastic ball"
   - "16 color modes plus dimming, with touch controls that actually work"
   - "Runs on USB or 3x AAA batteries — placement flexibility most lamps lack"
-cons:
+cons: 
   - "Battery mode drains cells fast — expect a few nights before swapping"
   - "Touch sensor on the base is sensitive; brushing it while adjusting can skip colors"
+
 ---
 
 You've seen those glow-in-the-dark moon globes that look like a ping-pong ball with craters painted on. The BRIGHTWORLD Moon Lamp is not that. At 5.9 inches, this is a proper lunar replica that uses NASA's topographic data to emboss real craters and maria into the surface. Set it on a nightstand and it looks like a tiny moon hovering in the dark — not a novelty toy.

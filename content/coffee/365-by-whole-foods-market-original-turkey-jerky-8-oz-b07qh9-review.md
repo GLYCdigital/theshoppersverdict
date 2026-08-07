@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Original Turkey Jerky, 8 OZ"
 seo_title: "365 Whole Foods Turkey Jerky Review: Honest Verdict"
 meta_description: "365 by Whole Foods Original Turkey Jerky reviewed: taste, texture, nutrition, and value. Is this 8 oz bag worth it? Our honest 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07QH9S6PT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41rYdgu2-LL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Clean ingredient list — turkey, cane sugar, sea salt, spices. No nitrates, MSG, or artificial preservatives"
   - "Solid protein punch at 9g per 1oz serving with only 70 calories"
   - "Consistently tender, easy-to-chew texture — not the rock-hard jerky you get from beef brands"
-cons:
+cons: 
   - "Sweet flavor profile leans heavily on cane sugar; savory jerky purists may find it too sweet"
   - "8 oz bag is smaller than it looks once opened — roughly 8 servings, and the price per ounce runs higher than commodity beef jerky"
+
 ---
 
 **The Whole Foods Turkey Jerky That Actually Tastes Like Turkey**

@@ -1,4 +1,5 @@
 ---
+
 title: "New Primal Buffalo Chicken Meat Sticks"
 seo_title: "New Primal Buffalo Chicken Meat Sticks Review: Verdict | "
 meta_description: "Our full new primal buffalo chicken meat sticks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6VR3G8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E+R2ZpAYL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: I didn't expect to be impressed by a chicken stick in a buffalo sauce flavor. Most meat snacks in this category are either overly processed, taste like cardboard with seasoning dust, or cost more per ounce than a steak dinner. The New Primal Buffalo Chicken Meat Sticks are none of those things — and they've earned their 4.6-star rating across 229 Amazon reviews.

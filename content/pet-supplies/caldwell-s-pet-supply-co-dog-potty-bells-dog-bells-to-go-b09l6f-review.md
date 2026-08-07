@@ -1,4 +1,5 @@
 ---
+
 title: "Caldwell's Pet Supply Co. Dog Potty Bells, Dog Bells to Go O"
 seo_title: "Caldwell's Dog Potty Bells Review: Honest 2026 Verdict"
 meta_description: "Our Caldwell's Dog Potty Bells review covers training effectiveness, build quality, and real customer feedback. See if these bells end accidents or end up in the drawer."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09L6FV34F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sLLjcDnHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel bells produce a clear, audible ring that dogs learn quickly — most owners report success within 1–2 weeks"
   - "Adjustable leather strap fits virtually any door handle or knob without tools or permanent mounting"
   - "Includes a training guide and bell-muting option for nighttime, which most competing potty bells don't offer"
-cons:
+cons: 
   - "Leather strap can stretch over time with heavy-use dogs, requiring occasional retightening"
   - "Bells are on the louder side — sensitive owners or apartment dwellers with thin walls may find the ring startling"
+
 ---
 
 **The "Go Outside" Signal Your Dog Actually Understands**

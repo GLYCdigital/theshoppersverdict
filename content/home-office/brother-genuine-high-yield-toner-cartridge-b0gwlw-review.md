@@ -1,23 +1,25 @@
 ---
+
 title: "Brother Genuine High Yield Toner Cartridge"
 seo_title: "Brother Genuine High Yield Toner Review (2026): Worth It?"
 meta_description: "Brother Genuine High Yield Toner: 3,000-page capacity, crisp text, zero smudging. Is OEM worth the premium? Read our honest review."
 slug: "brother-genuine-high-yield-toner-cartridge-b0gwlw-review"
 image_alt: "Brother Genuine High Yield Toner Cartridge TN-760 next to printed test pages"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWLWDMQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TbrRbxrFL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "3,000-page yield per cartridge — nearly double the standard TN-730, dropping cost-per-page to ~2.5¢"  
   - "OEM chip integrates flawlessly with Brother firmware — no 'toner low' false alarms or reset hacks"  
   - "Consistent black density at 2,400 dpi equivalent; no streaking even on 20-lb bond paper"  
-cons:  
+cons: 
   - "Premium price versus third-party clones — you pay 30–40% more upfront for reliability"  
   - "No recycling program included in-box; you'll need to find a local drop-off for the spent cartridge"
+
 ---
 
 Let’s cut to the chase: if you own a Brother HL-L2350DW, MFC-L2710DW, or any printer in the 2300/2700 series, you’ve hit the classic fork in the road. Do you save $15 on a generic cartridge from a brand you’ve never heard of, or pay the premium for Brother’s own TN-760? I tested the Brother Genuine High Yield cartridge over three weeks of real office abuse — dense text docs, label sheets, even a misplaced photo print. Here’s what actually matters.

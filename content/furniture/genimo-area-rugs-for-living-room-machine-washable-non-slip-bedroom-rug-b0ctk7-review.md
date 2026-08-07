@@ -1,4 +1,5 @@
 ---
+
 title: "GENIMO Area Rugs for Living Room, Machine Washable Non-Slip"
 seo_title: "GENIMO Area Rugs Review: Washable, Non-Slip for Living Room"
 meta_description: "Honest GENIMO area rug review: machine washable, non-slip backing, real-world durability. See what buyers love & hate before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTK7XR4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n5RomCtwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True machine-washable construction — survives repeated washer cycles without fraying or shedding"
   - "Non-slip backing that actually grips hardwood and tile, not just carpet"
   - "Low-profile, reversible design that lies flat without curling corners"
-cons:
+cons: 
   - "Thinner than traditional plush rugs — minimal cushioning underfoot"
   - "Limited color depth; pattern can look slightly washed out in bright sunlight"
+
 ---
 
 If you've ever wrestled a stained 8x10 rug into a rental car for a $40 trip to the dry cleaner, the GENIMO Area Rug is about to change your life. This is a rug built around one idea: you should be able to throw it in the washing machine and get on with your day. And for the most part, it delivers.

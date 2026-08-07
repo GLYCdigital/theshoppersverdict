@@ -1,4 +1,5 @@
 ---
+
 title: "4 Pack Self Tanning Mitt Applicator Kit, with Self Tanner Mi"
 seo_title: "4 Pack Self Tanning Mitt Kit Review: Flawless Application"
 meta_description: "Honest review of the 4 Pack Self Tanning Mitt Applicator Kit with Self Tanner. See if these reusable mitts deliver streak-free results before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BM92V3YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619mQkZsjhL._SL1500_.jpg"
-pros:
+pros: 
   - "Four mitts for the price of one premium brand — each is double-sided and fully reusable, so the cost-per-use drops sharply after the first few applications"
   - "The plush velour texture distributes self-tanner evenly across large areas like legs and back without soaking up excess product"
   - "Latex-free elastic cuff keeps the mitt secure on hands of different sizes, preventing slipping mid-application"
-cons:
+cons: 
   - "Mitts require thorough hand-washing with soap after every use — residual tanner will stain the fabric if left sitting overnight"
   - "No waterproof barrier between layers, so the tanning formula can bleed through to your palm during heavier applications"
+
 ---
 
 Let me be direct: if you're still using bare hands to apply self-tanner, you're actively sabotaging your results. Orange palms, streaky shins, blotchy elbows — all of it traces back to poor application. This 4-pack from Amazon's essentials aisle aims to fix that without the premium markup of name-brand mitts. After testing them across multiple tanning sessions, here's the honest breakdown.

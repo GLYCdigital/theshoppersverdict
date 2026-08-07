@@ -1,4 +1,5 @@
 ---
+
 title: "Pit Boss BBQ Cover"
 seo_title: "Pit Boss BBQ Cover Review: Verdict | TSV"
 meta_description: "Our full pit boss bbq cover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00YOMALEA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613kYFGe4gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your grill is a $500+ investment. A $40 cover is cheap insurance — but only if it actually fits and survives more than one season. After digging through 235 ratings and the spec sheet, here's the real story on the Pit Boss BBQ Cover.

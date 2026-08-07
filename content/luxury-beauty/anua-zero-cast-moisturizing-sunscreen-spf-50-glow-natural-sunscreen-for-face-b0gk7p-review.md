@@ -1,4 +1,5 @@
 ---
+
 title: "Anua Zero-Cast Moisturizing Sunscreen SPF 50, Glow Natural S"
 seo_title: "Anua Zero-Cast Sunscreen SPF 50 Review: Glow, No White Cast"
 meta_description: "Honest Anua Zero-Cast Moisturizing Sunscreen SPF 50 review: dewy glow, zero white cast, reef-safe formula. Real buyer feedback & skin-type advice."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK7PR9MQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q5eqTwzPL._SL1500_.jpg"
-pros:
+pros: 
   - "Chemical UV filters (avobenzone, octocrylene) absorb without leaving any white cast on deeper skin tones"
   - "Ginseng water and ceramide complex pull double duty — hydration and barrier support in one layer"
   - "Sits cleanly under makeup with no pilling, confirmed by multiple reviewers"
-cons:
+cons: 
   - "Dewy finish can read greasy on very oily skin, especially in humid climates"
   - "No PA++++ rating listed — just SPF 50, which leaves UVA protection claims vague"
+
 ---
 
 If you've sworn off chemical sunscreens because they sting your eyes or leave that weird orange tint, the Anua Zero-Cast Moisturizing Sunscreen SPF 50 might change your mind. This Korean beauty import has quietly amassed 229 ratings averaging 4.6 stars, and the buzz centers on one thing: a genuine glow that doesn't look like you dipped your face in oil.

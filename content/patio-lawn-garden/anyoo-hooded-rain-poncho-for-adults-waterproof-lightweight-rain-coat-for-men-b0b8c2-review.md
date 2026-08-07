@@ -1,4 +1,5 @@
 ---
+
 title: "ANYOO Hooded Rain Poncho for Adults Waterproof Lightweight R"
 seo_title: "ANYOO Hooded Rain Poncho Review: Waterproof & Lightweight"
 meta_description: "ANYOO Hooded Rain Poncho review: Is this lightweight waterproof poncho worth it? Tested for coverage, durability & packability. Read our 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B8C2SVJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XP-hlcTeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full side snaps allow wearable coverage down to mid-calf while still fitting in a 6x4 inch stuff sack"
   - "Sealed seams and PU-coated 210T polyester hold up in sustained downpours, not just light drizzle"
   - "Oversized hood with drawcord stays put in wind without obstructing peripheral vision"
-cons:
+cons: 
   - "No pit zips or venting—you will sweat if walking briskly in warm rain above 70°F"
   - "Snaps at the wrists are finicky with gloves on; requires two hands to secure"
+
 ---
 
 Let’s be direct: most rain ponchos under $25 are glorified trash bags. The ANYOO Hooded Rain Poncho, however, is the exception that earns its 4.6-star rating across 229 reviews. I’ve tested this against garden soakers, festival downpours, and surprise mountain squalls—here’s the honest breakdown.

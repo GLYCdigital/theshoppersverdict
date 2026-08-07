@@ -1,4 +1,5 @@
 ---
+
 title: "RIUVAO LED Corn Light Bulb 200w Equivalent 2500 Lumen 5000K "
 seo_title: "RIUVAO LED Corn Light Bulb 200w Equivalent 2500 Lu Review"
 meta_description: "Our full riuvao led corn light bulb 200w equivalent 2500 lumen 5000k  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BN7812RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71atbS74wpL._AC_SL1341_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a 150W-equivalent halogen floodlight that turns your garage into a sauna, the RIUVAO LED corn bulb is the antidote. This isn't your grandfather's corn lamp — it's a compact cylinder packed with 2500 lumens of cool daylight (5000K) that punches well above its physical size. At roughly 20W actual draw, it replaces a 200W incandescent in output while sipping power like a nightlight.

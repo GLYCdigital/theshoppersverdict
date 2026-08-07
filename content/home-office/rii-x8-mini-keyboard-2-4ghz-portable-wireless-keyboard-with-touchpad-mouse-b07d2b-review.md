@@ -1,4 +1,5 @@
 ---
+
 title: "Rii X8 Mini Keyboard,2.4GHz Portable Wireless Keyboard with "
 seo_title: "Rii X8 Mini Keyboard,2.4GHz Portable Wireless Keyb Review"
 meta_description: "Our full rii x8 mini keyboard,2.4ghz portable wireless keyboard with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07D2BG6R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711MbtClUXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the Rii X8 is not a keyboard you'll write your novel on. It's a remote control with letters. And once you understand that, it's actually quite good at what it does.

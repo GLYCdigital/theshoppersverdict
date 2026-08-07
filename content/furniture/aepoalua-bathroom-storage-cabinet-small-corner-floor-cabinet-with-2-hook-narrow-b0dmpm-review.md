@@ -1,4 +1,5 @@
 ---
+
 title: "AEPOALUA Bathroom Storage Cabinet, Small Corner Floor Cabinet"
 seo_title: "AEPOALUA Corner Bathroom Storage Cabinet Review (2026)"
 meta_description: "Honest AEPOALUA bathroom storage cabinet review: narrow corner floor design, 2 hooks, real user feedback, and who should buy it. Read before you order."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMPMGT1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/media/images/I/61TMvO9fmOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Narrow footprint (roughly 11.8 inch " wide) tucks into corners where standard cabinets won't fit — reclaims dead space
   - "Two integrated side hooks add towel or robe storage without extra wall mounting"
   - "Solid MDF construction with a waterproof finish that holds up in humid bathroom conditions"
-cons:
+cons: 
   - "Assembly requires patience — roughly 30–45 minutes with multiple small screws and no pre-drilled pilot holes on some panels"
   - Interior shelf height is fixed; tall bottles (over 10 inch ") won't fit on the lower shelf
   - "Back panel is thin fiberboard — don't overload it or lean heavy items against it"
+
 ---
 
 If your bathroom has that awkward corner that swallows floor space and collects dust, the AEPOALUA Small Corner Floor Cabinet is aimed squarely at you. This narrow tower is designed to slip into the dead zone next to a toilet or beside a pedestal sink, giving you closed storage where you previously had nothing but wasted square footage.

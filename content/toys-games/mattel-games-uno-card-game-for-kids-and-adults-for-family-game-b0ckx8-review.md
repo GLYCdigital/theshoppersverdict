@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Games UNO, Card Game for Kids and Adults for Family G"
 seo_title: "Mattel Games UNO, Card Game for Kids and Adults fo Review"
 meta_description: "Our full mattel games uno, card game for kids and adults for family g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKX8FBP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You already know how to play UNO. That's the point. This is the 108-card classic that's been settling family arguments and starting new ones since 1971 — and Mattel's current production run keeps the formula intact while fixing a few small annoyances. If you're shopping for a game that actually gets played, not shelved, this is the benchmark.

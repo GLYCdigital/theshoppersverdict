@@ -1,4 +1,5 @@
 ---
+
 title: "XMCOSY+ Outdoor Wall Lights, Smart LED Porch Lights Outdoor,"
 seo_title: "XMCOSY+ Outdoor Wall Lights, Smart LED Porch Light Review"
 meta_description: "Our full xmcosy+ outdoor wall lights, smart led porch lights outdoor, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FY36R9K7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QybJEYWtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of the same warm-white porch light and want your entryway to actually feel like *yours* at night, the XMCOSY+ Smart LED Outdoor Wall Light is worth a hard look. It's not the cheapest sconce on Amazon, but it packs a color-tunable RGBCW LED array, app control, and solid weatherproofing into a fixture that looks more expensive than it usually sells for.

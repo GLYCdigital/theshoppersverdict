@@ -1,4 +1,5 @@
 ---
+
 title: "Oven Igniter for Gas Stove,Oven Igniter"
 seo_title: "Oven Igniter for Gas Stove,Oven Igniter Review: Verdict |"
 meta_description: "Our full oven igniter for gas stove,oven igniter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F3XH9XKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wQdoheN+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your gas oven clicks endlessly but never lights, you already know the diagnosis: the igniter is dead. The only question is whether this $20-ish replacement does the job without turning your Saturday into a plumbing-style nightmare. After digging through 215 ratings and the spec sheet, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "LG 27U631A-B 27-inch QHD (2560 x 1440) IPS Computer Monitor,"
 seo_title: "LG 27U631A-B 27-inch QHD (2560 x 1440) IPS Compute Review"
 meta_description: "Our full lg 27u631a-b 27-inch qhd (2560 x 1440) ips computer monitor, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2CKZJ7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6108mgCPGzS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LG 27U631A-B Review: The QHD Sweet Spot for Serious Desk Work

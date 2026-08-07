@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Inspiron15 3530 Touchscreen Business Laptop - Intel 10-"
 seo_title: "Dell Inspiron 15 3530 Touchscreen Review: Worth It? (2026)"
 meta_description: "Dell Inspiron 15 3530 touchscreen laptop review: Core i7 performance, battery life, display quality, and real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F25P9B26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ytHWY6pTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Responsive 10-point touchscreen with 250-nit brightness that works well for pinch-zoom and stylus-free navigation"
   - "Intel Core i7-1355U delivers snappy everyday performance for Office, Chrome, and video calls without fan noise"
   - "Full-size keyboard with number pad plus comfortable palm rest — genuinely usable for long typing sessions"
-cons:
+cons: 
   - "Battery life averages only 5–6 hours under real-world use, not the 8+ hours Dell advertises"
   - "Reduced to 8GB RAM in many configurations — soldered, so you cannot upgrade later"
   - "Display is 1920x1080 but colors look washed out; 45% NTSC coverage means photo editing is off the table"
+
 ---
 
 Let me be straight with you: the Dell Inspiron 15 3530 Touchscreen is a laptop that checks a lot of boxes on paper but stumbles on execution. With a 3.4-star average across 170 ratings, buyers are clearly split. I've dug through the spec sheet, the user feedback, and the real-world tradeoffs. Here's what you need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Givenchy Ysatis Eau De Toilette Spray For Women, 3.3 Fl Oz"
 seo_title: "Givenchy Ysatis Eau De Toilette Spray For Women, 3 Review"
 meta_description: "Our full givenchy ysatis eau de toilette spray for women, 3.3 fl oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B000UI9H0G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617yH3JD10L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've heard about the legendary fragrances of the 1980s — Giorgio, Obsession, Poison. Givenchy Ysatis belongs in that same conversation, but it's the one people tend to forget. That's a mistake. This is a bold, uncompromising floral chypre that doesn't apologize for its intensity, and for the right person, it's absolutely worth your attention.

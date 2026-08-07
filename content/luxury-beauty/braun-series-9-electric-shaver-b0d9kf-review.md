@@ -1,24 +1,26 @@
 ---
+
 title: "Braun Series 9 Electric Shaver"
 seo_title: "Braun Series 9 Review: Is It Worth $300? (2026)"
 meta_description: "Braun Series 9 review: 4.6-star rated luxury shaver. We test the 5-blade Sonic system, battery life, and skin comfort. See who should buy it."
 slug: "braun-series-9-electric-shaver-b0d9kf-review"
 image_alt: "Braun Series 9 electric shaver with charging dock and cleaning station"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9KF1VKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81anHR+nkXL._SL1500_.jpg"
-pros:  
+pros: 
   - "Four cutting elements + one skin guard lift flat-lying hairs, not just trim them"  
   - "110-minute runtime per charge — roughly 3 weeks of daily shaves"  
   - "Wet/dry with a fully sealed head you can rinse under the tap"  
-cons:  
+cons: 
   - "Cleaning station refills cost $15–20 every 6–8 weeks — a real recurring expense"  
   - "At 5.8 oz it's heavier than the Series 7; not ideal for travel"  
   - "The 10-hour charging time if you drain it fully is painfully slow"
+
 ---
 
 I've tested nearly every premium foil shaver on the market, and the Braun Series 9 sits in a weird spot: it's the most expensive in Braun's lineup, yet it's also the one I'd recommend to the most people. At $250–300 street price, it's a luxury buy — but for guys with sensitive skin or thick, coarse beards, it's the closest thing to a sure thing.

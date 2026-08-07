@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet 41918-SS Angular Modern Grab Bar"
 seo_title: "Delta Faucet 41918-SS Grab Bar Review: Modern Safety"
 meta_description: "Delta Faucet 41918-SS Angular Modern Grab Bar review: 4.6/5 stars. Is this stainless steel safety bar worth it? Weight capacity, install tips, and honest downsides."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FYQV3Y8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BLC88pPfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "311 lb weight capacity with 16-gauge stainless steel construction — actually built for real support, not decorative"
   - "Angular 45-degree design gives it a modern look that doesn't scream 'hospital bathroom' like straight grab bars do"
   - "ADA-compliant 1.25-inch diameter and 1.5-inch wall clearance work for both residential and commercial use"
-cons:
+cons: 
   - "Mounting screws included are decent, but you'll want heavy-duty anchors for drywall — the bar is only as strong as what's behind it"
   - "Brushed stainless shows water spots and fingerprints more than oil-rubbed bronze finishes in humid bathrooms"
+
 ---
 
 ## The Grab Bar That Doesn't Look Like a Hospital Prop

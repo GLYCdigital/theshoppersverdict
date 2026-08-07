@@ -1,4 +1,5 @@
 ---
+
 title: "Poolife MPT Extra Pool Chlorine Tablets - Multi-Functional 3"
 seo_title: "Poolife MPT Extra Pool Chlorine Tablets - Multi-Fu Review"
 meta_description: "Our full poolife mpt extra pool chlorine tablets - multi-functional 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01789ZFK0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+6RD6SAxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 3-in-1 Tab That Actually Does What It Claims

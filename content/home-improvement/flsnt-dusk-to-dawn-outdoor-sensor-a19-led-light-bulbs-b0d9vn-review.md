@@ -1,4 +1,5 @@
 ---
+
 title: "FLSNT Dusk to Dawn Outdoor Sensor A19 LED Light Bulbs"
 seo_title: "FLSNT Dusk to Dawn A19 LED Bulb Review (2026): Smart & Reliable"
 meta_description: "FLSNT Dusk to Dawn A19 LED bulb review: auto on/off, energy-efficient, 4.4★ rated. See real pros, cons, and if it's right for your porch."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9VN8Y8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QVlRRPWfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True hands-free operation — no timer programming, no app setup, just screw it in and it works from dusk to dawn"
   - "Built-in photocell sensor is surprisingly accurate; most buyers report zero false triggers from car headlights or porch lights"
   - "Warm 2700K light output flatters home exteriors without the harsh blue cast of cheaper motion-sensor LEDs"
-cons:
+cons: 
   - "Sensor requires direct ambient light — installing under a deep covered porch or inside a shaded lantern can cause erratic cycling"
   - "Some units develop a faint hum after 6-8 months of continuous nightly use, per long-term buyer reports"
+
 ---
 
 **The Short Version**

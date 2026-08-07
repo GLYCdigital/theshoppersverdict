@@ -1,4 +1,5 @@
 ---
+
 title: "ROOJER Crocodile Inflatable Water Slide for Kids Backyard 8-"
 seo_title: "ROOJER Crocodile Inflatable Water Slide for Kids B Review"
 meta_description: "Our full roojer crocodile inflatable water slide for kids backyard 8- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2HLK2R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W39IXV-vL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the backyard water toy your kids will beg you to set up every single morning — and honestly, you won't mind.**

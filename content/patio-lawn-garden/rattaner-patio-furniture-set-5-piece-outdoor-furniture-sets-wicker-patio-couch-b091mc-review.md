@@ -1,4 +1,5 @@
 ---
+
 title: "Rattaner Patio Furniture Set 5-Piece Outdoor Furniture Sets "
 seo_title: "Rattaner Patio Furniture Set 5-Piece Outdoor Furni Review"
 meta_description: "Our full rattaner patio furniture set 5-piece outdoor furniture sets  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B091MCY7KL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PLBVjZOgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most patio sets under $700 look great in the product photos and fall apart by August. The Rattaner 5-piece set has managed to hold a 4.5-star average across 225 ratings, which suggests it's doing something right. After digging through buyer feedback and examining the specs, here's the real story.

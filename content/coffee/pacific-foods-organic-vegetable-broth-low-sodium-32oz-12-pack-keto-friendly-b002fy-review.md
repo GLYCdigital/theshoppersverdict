@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Foods Organic Vegetable Broth, Low Sodium, 32oz, 12-"
 seo_title: "Pacific Foods Organic Vegetable Broth, Low Sodium, Review"
 meta_description: "Our full pacific foods organic vegetable broth, low sodium, 32oz, 12- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B002FYJTTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d8CAF6gSL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a case of 12 cartons, wondering if you're committing to a year of watery soup. Here's the honest math on Pacific Foods Organic Vegetable Broth, Low Sodium — the 4.5-star workhorse that's been a pantry staple for home cooks who actually read labels.

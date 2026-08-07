@@ -1,4 +1,5 @@
 ---
+
 title: "Barrington 3-in-1 Combination Game Table 54â€"
 seo_title: "Barrington 3-in-1 Game Table Review: Solid or Skip?"
 meta_description: "Honest Barrington 3-in-1 Combination Game Table 54â€ review: foam top issues, sturdy legs, and if this multi-game table is worth your money."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0B7SKXF3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813x6mM9YPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three full-size game surfaces in one footprint — great for tight spaces"
   - "Solid MDF construction with reinforced leg brackets that handle adult play"
   - "Tool-free top swap takes under a minute once assembled"
-cons:
+cons: 
   - "Foosball rods are hollow and bend under hard play; players report warping"
   - "Air hockey top is thin laminate that scratches easily with standard pucks"
   - "Assembly requires two people — one to hold panels, one to bolt; ~2 hours"
+
 ---
 
 **The 3-in-1 promise is real, but the execution is uneven.** The Barrington 54-inch combination table packs three games into one unit, which sounds great for a basement or game room. The reality: you get a solid pool table, a serviceable foosball table, and an air hockey top that feels like an afterthought. Here’s the breakdown after digging through 175 ratings and owner reports.

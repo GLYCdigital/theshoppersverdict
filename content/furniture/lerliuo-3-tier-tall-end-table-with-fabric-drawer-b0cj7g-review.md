@@ -1,4 +1,5 @@
 ---
+
 title: "Lerliuo 3 Tier Tall End Table with Fabric Drawer"
 seo_title: "Lerliuo 3 Tier Tall End Table with Fabric Drawer Review: "
 meta_description: "Our full lerliuo 3 tier tall end table with fabric drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ7GFLFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GImmRGHnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Lerliuo 3 Tier Tall End Table the space-saving fix your living room needs?** After digging through 229 ratings and the spec sheet, here’s the real deal.

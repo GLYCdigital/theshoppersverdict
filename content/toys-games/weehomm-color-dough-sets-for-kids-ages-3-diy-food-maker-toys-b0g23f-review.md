@@ -1,4 +1,5 @@
 ---
+
 title: "WeeHomm Color Dough Sets for Kids Ages 3+ DIY Food Maker Toy"
 seo_title: "WeeHomm Color Dough Sets for Kids Ages 3+ DIY Food Review"
 meta_description: "Our full weehomm color dough sets for kids ages 3+ diy food maker toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G23F9356/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pETaKMZNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The WeeHomm Color Dough Set is the kind of toy that either becomes a kitchen-table staple or ends up shoved in a closet by week two. After digging through 215 ratings and the 4.3-star average, here's the real story.

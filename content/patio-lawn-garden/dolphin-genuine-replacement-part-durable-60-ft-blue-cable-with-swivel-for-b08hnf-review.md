@@ -1,4 +1,5 @@
 ---
+
 title: "Dolphin Genuine Replacement Part — Durable 60 FT Blue Cabl"
 seo_title: "Dolphin 60 Ft Blue Cable Review: Durable Swivel Replacement"
 meta_description: "Dolphin genuine 60 ft blue cable replacement for robotic pool cleaners. 4.3/5 rating. Tested for durability, swivel performance, and fit. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08HNFFQ1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P4y8M0HKL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine Dolphin part — guaranteed correct gauge wiring and connector fit for most Dolphin models"
   - "60-foot length gives real working range on average pools without tangling stress"
   - "Swivel joint is properly sealed; several buyers report it outlasting the original cable"
-cons:
+cons: 
   - "Price is 30-50% higher than third-party alternatives, and there's no visible branding on the cable itself"
   - "Connector compatibility is model-specific — check your unit before ordering, returns are a hassle"
+
 ---
 
 Let's cut through the noise. If you own a Dolphin robotic pool cleaner, the cable is the part most likely to fail — usually from UV damage, kinking, or the swivel seizing up. The question isn't *if* you'll need a replacement, it's whether the genuine Dolphin part is worth the premium over the Amazon specials. After digging through 215 ratings (4.3 stars average) and the engineering specs, here's the honest breakdown.

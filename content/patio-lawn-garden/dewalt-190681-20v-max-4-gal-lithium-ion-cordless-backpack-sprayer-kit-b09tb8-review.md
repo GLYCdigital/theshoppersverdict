@@ -1,4 +1,5 @@
 ---
+
 title: "Dewalt 190681 20V MAX 4 gal. Lithium-ion Cordless Backpack S"
 seo_title: "Dewalt 190681 Backpack Sprayer Review: 4-Gal Cordless"
 meta_description: "Dewalt 190681 20V MAX backpack sprayer review: 4-gal capacity, cordless freedom, real-world performance. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09TB8NSZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Agbtx2GOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Self-priming diaphragm pump delivers 0.4 GPM at up to 60 PSI—no hand pumping, no pressure drop mid-tank"
   - "Fully compatible with existing 20V MAX batteries and chargers; runs 3–5 tanks on a single 5Ah charge"
   - "48-inch brass wand with adjustable nozzle covers broad swaths without constant repositioning"
-cons:
+cons: 
   - "Straps lack substantial padding; extended wear with a full 35-lb tank gets uncomfortable"
   - "Battery and charger sold separately—adds $100+ if you're not already in the 20V MAX ecosystem"
+
 ---
 
 If you've ever spent an afternoon hand-pumping a 2-gallon sprayer, you know the rhythm: pump, spray, pump, spray, curse under your breath, pump again. The Dewalt 190681 kills that cycle entirely. It's a battery-powered backpack sprayer that maintains constant pressure from the first trigger pull to the last, and at 4 gallons, it's sized for serious work—not just spot-treating a dandelion or two.

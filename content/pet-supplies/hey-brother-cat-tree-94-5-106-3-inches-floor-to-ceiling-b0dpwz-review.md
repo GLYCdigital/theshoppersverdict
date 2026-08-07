@@ -1,4 +1,5 @@
 ---
+
 title: "Hey-brother Cat Tree, 94.5-106.3 Inches Floor to Ceiling Cat"
 seo_title: "Hey-brother Cat Tree, 94.5-106.3 Inches Floor to C Review"
 meta_description: "Our full hey-brother cat tree, 94.5-106.3 inches floor to ceiling cat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPWZDLPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VbDoX4IOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a ceiling-hugging cat that treats your curtain rods like a jungle gym, you already know the problem: most cat trees top out around 60 inches, leaving your feline with no vertical outlet except your shelves. The Hey-brother Cat Tree solves that with a floor-to-ceiling tension design that spans 94.5 to 106.3 inches — basically filling the entire height of a standard room. But does it hold up to real cat abuse? After digging through 220 ratings (4.4 stars), here’s the honest breakdown.

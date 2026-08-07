@@ -1,4 +1,5 @@
 ---
+
 title: "Flex Tape, Original Thick Flexible Rubberized Waterproof Tap"
 seo_title: "Flex Tape Review: Does the Rubberized Leak Patch Work?"
 meta_description: "Honest Flex Tape review: test results, real customer feedback, and whether this rubberized waterproof tape actually seals leaks. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXFX6N2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kYTEf9vdL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof seal on clean, dry surfaces — holds pressure on hoses and pipes"
   - "Thick 3.5mm rubberized construction conforms to irregular shapes, not just flat patches"
   - "Works on wet surfaces when pressed hard, which most tapes won't do"
-cons:
+cons: 
   - "Adhesive fails on dirty, oily, or previously sealed surfaces — surface prep is make-or-break"
   - "UV degradation over months of outdoor exposure; it's a temporary fix, not permanent"
   - "Difficult to remove cleanly; leaves sticky residue that requires solvent to lift"
+
 ---
 
 Let's be clear about what Flex Tape is before you buy: it's a heavily marketed, rubberized, waterproof tape that's genuinely good at one thing — stopping leaks fast. The infomercials oversell it. The physics mostly check out. Here's what 200 Amazon reviewers and my own testing actually say.

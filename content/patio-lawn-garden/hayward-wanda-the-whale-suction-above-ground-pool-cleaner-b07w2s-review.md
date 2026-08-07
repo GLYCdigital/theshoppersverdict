@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward Wanda The Whale Suction Above-Ground Pool Cleaner"
 seo_title: "Hayward Wanda The Whale Suction Above-Ground Pool  Review"
 meta_description: "Our full hayward wanda the whale suction above-ground pool cleaner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07W2S4KWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615YSAKnbLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an above-ground pool, you already know the drill: brushing walls, vacuuming floors, and wrestling with a manual vacuum head. The Hayward Wanda the Whale promises to end that chore. At a 4.0-star average across 200 ratings, it's not perfect — but it might be the best $150-ish you'll spend on pool maintenance this season. Let me tell you why.

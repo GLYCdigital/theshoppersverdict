@@ -1,4 +1,5 @@
 ---
+
 title: "Virbac C.E.T.Â® Enzymatic Toothpaste| Tartar & Plaque Contro"
 seo_title: "Virbac C.E.T.Â® Enzymatic Toothpaste| Tartar & Pla Review"
 meta_description: "Our full virbac c.e.t.â® enzymatic toothpaste| tartar & plaque contro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B089PSZ856/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-gx5t6RNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most dog owners know the drill: you buy toothpaste, your dog smells it, turns their head, and suddenly you're wrestling a 60-pound animal for a chance to touch their teeth. The Virbac C.E.T. line has been the vet-recommended standard for years, and this enzymatic formula is why. But does it actually fight tartar, or is it just expensive breath freshener? Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Topbuti Home Security Door Lock, 2 Pack Latch Guard Clasp Fr"
 seo_title: "Topbuti Home Security Door Lock, 2 Pack Latch Guar Review"
 meta_description: "Our full topbuti home security door lock, 2 pack latch guard clasp fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09N3MM1R3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nbtxPOHML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Does a $15 latch guard actually stop someone from kicking in your door? Short answer: it buys you time, and sometimes that's everything.**

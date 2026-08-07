@@ -1,4 +1,5 @@
 ---
+
 title: "Oemgenuine Dell_3450_i5_Parent"
 seo_title: "Oemgenuine Dell_3450_i5_Parent Review: Verdict | TSV"
 meta_description: "Our full oemgenuine dell_3450_i5_parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4THQM6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F5TaqEE5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The Office Workhorse That Doesn't Try to Impress**

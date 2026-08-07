@@ -1,7 +1,8 @@
 ---
-title: "Hlivelood 76\" Height Farmhouse Desk with Sliding Door Hutch,"
-seo_title: "Hlivelood 76\" Height Farmhouse Desk with Sliding D Review"
-meta_description: "Our full hlivelood 76\" height farmhouse desk with sliding door hutch, review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Hlivelood 76\ Height Farmhouse Desk with Sliding Door Hutch,"
+seo_title: "Hlivelood 76\ Height Farmhouse Desk with Sliding D Review"
+meta_description: "Our full hlivelood 76\ height farmhouse desk with sliding door hutch, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hlivelood-76-height-farmhouse-desk-with-sliding-door-hutch-wood-office-executive-b0dph4-review"
 image_alt: "Hlivelood 76 Height Farmhouse Desk with Sliding Door Hutch, Wood Office Executive Workstation Computer Desk with Chargin"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DPH4CV3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813FQ99VmRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The Hlivelood 76" Farmhouse Desk with Sliding Door Hutch is a storage-heavy workspace that looks far more expensive than it is — if you're patient with assembly. At 3.9 stars from 195 ratings, it's a solid value for home offices that need vertical organization, but it's not built for heavy-duty use.**

@@ -1,4 +1,5 @@
 ---
+
 title: "FCMP Outdoor IM4000 Dual Chamber Tumbling Composter"
 seo_title: "FCMP Outdoor IM4000 Review: Dual Chamber Composter (2026)"
 meta_description: "Honest FCMP Outdoor IM4000 review: Is the dual chamber tumbling composter worth it? Real pros, cons, capacity, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WFH98J9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wqvS0KtaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two 18.5-gallon chambers let you batch-compost while the other cures"
   - "Galvanized steel axle and reinforced frame hold up to heavy use"
   - "Assembles in under 30 minutes with clear, labeled parts"
-cons:
+cons: 
   - "Small access doors make removing finished compost awkward"
   - "Plastic panels can warp slightly if exposed to extreme summer heat"
+
 ---
 
 If you've been tossing kitchen scraps into a pile that never seems to break down, the FCMP Outdoor IM4000 might be the fix. This dual-chamber tumbling composter is one of the most popular units on Amazon with 225 ratings and a 4.5-star average — and for good reason. But it's not perfect, and I'll tell you exactly where it falls short.

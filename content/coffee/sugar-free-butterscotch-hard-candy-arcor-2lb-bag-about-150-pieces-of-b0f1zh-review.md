@@ -1,4 +1,5 @@
 ---
+
 title: "Sugar Free Butterscotch Hard Candy Arcor - 2LB Bag (About 15"
 seo_title: "Sugar Free Butterscotch Hard Candy Arcor - 2LB Bag Review"
 meta_description: "Our full sugar free butterscotch hard candy arcor - 2lb bag (about 15 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F1ZHDBQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81li6wTbRsL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sugar-free hard candies taste like regret wrapped in wax paper. So when a 2-pound bag of sugar-free butterscotch pulls a 4.7-star average from 235 ratings, that's not luck — that's a product doing something right. Arcor, an Argentine confectionery giant, has been making this recipe for decades, and it shows.

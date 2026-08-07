@@ -1,4 +1,5 @@
 ---
+
 title: "Jet-Puffed S'more Vanilla Marshmallows, 21 Oz"
 seo_title: "Jet-Puffed S'more Vanilla Marshmallows, 21 Oz Review: Ver"
 meta_description: "Our full jet-puffed s'more vanilla marshmallows, 21 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D15BL6TC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZLeXpC1yL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Jet-Puffed S'more Vanilla Marshmallows, 21 Oz: The Honest Review

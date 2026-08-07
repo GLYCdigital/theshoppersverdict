@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Baseball Cap, Dog Cat Summer Beach Visor Hat with Ear Ho"
 seo_title: "Dog Baseball Cap Review: Beach Visor Hat With Ear Holes"
 meta_description: "Honest review of the Dog Baseball Cap with ear holes. Is it comfortable for pets? Read real pros, cons, and buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D4MD5T9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Y+J5rFIwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ear holes are genuinely functional — they let natural ears stand up without folding, which most pet hats get wrong"
   - "Adjustable chin strap with stopper keeps the hat on during active movement, not just for photos"
   - "Lightweight cotton-poly blend fabric is breathable enough for warm weather without trapping heat"
-cons:
+cons: 
   - "One-size-fits-most claim is optimistic — brachycephalic breeds (pugs, Frenchies) will struggle with fit regardless of adjustment"
   - "No UPF rating stated despite 'summer visor' positioning; it shades eyes but isn't guaranteed sun protection"
   - "Some buyers report the brim flops forward on dogs with shorter snouts, partially blocking vision"
+
 ---
 
 Let's be honest: most pet hats are pure Instagram props. You put them on, snap the photo, and the dog shakes it off in four seconds. This one is different — not because it's high fashion, but because it actually respects a dog's anatomy. The ear holes are the selling point here, and they're done right.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ohuhu Alcohol Markers 48 Pastel Colors: AP Certificated Doub"
 seo_title: "Ohuhu Alcohol Markers 48 Pastel Colors: AP Certifi Review"
 meta_description: "Our full ohuhu alcohol markers 48 pastel colors: ap certificated doub review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09BJD2VJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b6nPZlYuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Pastel markers are a gamble. Too many sets look soft and dreamy in the product photos, then arrive looking like washed-out crayons. The Ohuhu 48 Pastel set doesn't do that. These are genuinely pigmented pastels — think butter yellow, dusty rose, and muted teal that actually read as pastel without disappearing into the paper.

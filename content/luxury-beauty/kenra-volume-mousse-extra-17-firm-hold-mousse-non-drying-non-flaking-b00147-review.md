@@ -1,4 +1,5 @@
 ---
+
 title: "Kenra Volume Mousse Extra 17 | Firm Hold Mousse | Non-drying"
 seo_title: "Kenra Volume Mousse Extra 17 | Firm Hold Mousse |  Review"
 meta_description: "Our full kenra volume mousse extra 17 | firm hold mousse | non-drying review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00147QL8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610aBsK0rtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about mousse: most firm-hold formulas are a trade-off. You get the lift, but you pay for it with crunchy, straw-like hair that flakes by noon. The Kenra Volume Mousse Extra 17 claims to break that cycle — and based on 225 Amazon ratings averaging 4.5 stars, it might actually do it.

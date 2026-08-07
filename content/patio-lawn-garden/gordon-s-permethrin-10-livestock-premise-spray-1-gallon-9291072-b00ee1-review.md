@@ -1,4 +1,5 @@
 ---
+
 title: "GORDON'S Permethrin 10 Livestock & Premise Spray, 1 Gallon, "
 seo_title: "GORDON'S Permethrin 10 Livestock & Premise Spray,  Review"
 meta_description: "Our full gordon's permethrin 10 livestock & premise spray, 1 gallon,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00EE17S9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qczEiEstL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're battling ticks, fleas, or flies around livestock or barns, you want a product that actually works — not something that smells nice and does nothing. GORDON'S Permethrin 10 is the working person's insecticide. It's not fancy, not pretty, and the jug looks like it came from a farm supply warehouse. That's exactly why it earns its 4.7-star rating from 235 buyers.

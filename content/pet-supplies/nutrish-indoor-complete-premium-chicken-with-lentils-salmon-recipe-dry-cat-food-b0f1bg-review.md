@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrish Indoor Complete Premium Chicken with Lentils & Salmo"
 seo_title: "Nutrish Indoor Complete Premium Chicken with Lenti Review"
 meta_description: "Our full nutrish indoor complete premium chicken with lentils & salmo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1BG5BVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+n19g-cPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat spends 20 hours a day horizontal, their dietary needs are different than a barn cat's. **Nutrish Indoor Complete** targets that specific lifestyle — and with 229 ratings averaging 4.6 stars, it's clearly resonating with owners of sedentary felines. But is it actually delivering on its promises, or just marketing buzzwords in a bag?

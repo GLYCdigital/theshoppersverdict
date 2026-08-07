@@ -1,4 +1,5 @@
 ---
+
 title: "BONSEN 150-Sheet Autofeed Paper Shredder for Office, 60 Mins"
 seo_title: "BONSEN 150-Sheet Autofeed Shredder Review (2026): Worth It?"
 meta_description: "BONSEN 150-sheet autofeed shredder review: 60-min continuous run, P-4 security, 5-gal bin. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DLN6W48L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nSS6A6KgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 60-minute continuous run time — no cooldown mid-project"
   - "150-sheet autofeed tray actually works without jamming when loaded correctly"
   - "P-4 cross-cut security level is appropriate for confidential business documents"
-cons:
+cons: 
   - "Manual feed slot is limited to 6 sheets; autofeed is the only way to handle bulk"
   - "Bin capacity (5 gallons) fills fast given the 150-sheet tray"
   - "Some units report noise levels higher than the 58 dB spec"
+
 ---
 
 If you've ever stood over a shredder feeding documents one by one for forty-five minutes, you know the pain. The BONSEN 150-Sheet Autofeed Shredder aims to eliminate that entirely. The pitch is simple: load a stack of up to 150 sheets into the tray, press a button, and walk away. At 4.0 stars across 200 ratings, it's not perfect — but for the right buyer, it's a legitimate workflow upgrade.

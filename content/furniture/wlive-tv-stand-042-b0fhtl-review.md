@@ -1,4 +1,5 @@
 ---
+
 title: "WLIVE TV Stand 042"
 seo_title: "WLIVE TV Stand 042 Review: Verdict | TSV"
 meta_description: "Our full wlive tv stand 042 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHTL9NTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iDxFl3wJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The TV stand that actually thinks about your cables

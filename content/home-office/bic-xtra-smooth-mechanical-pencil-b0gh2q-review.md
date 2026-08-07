@@ -1,4 +1,5 @@
 ---
+
 title: "BIC Xtra Smooth Mechanical Pencil"
 seo_title: "BIC Xtra Smooth Mechanical Pencil Review (2026): Worth It?"
 meta_description: "BIC Xtra Smooth Mechanical Pencil review: comfort grip, smooth writing, durability tested. See pros, cons, and who should buy this 0.7mm workhorse."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GH2QSR6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "0.7mm lead resists snapping during fast writing, unlike thinner 0.5mm options"
   - "Cushioned comfort grip runs nearly the full barrel length, reducing finger fatigue"
   - "Twist-up eraser is surprisingly long and actually works, not a decorative afterthought"
-cons:
+cons: 
   - "Single lead refill inside means you'll need to buy a separate pack almost immediately"
   - "Plastic barrel feels hollow and flexes under heavy-handed writers"
+
 ---
 
 The BIC Xtra Smooth isn't trying to be a luxury writing instrument. It's trying to be the pencil you grab when you need to fill out forms, scribble margin notes, and survive a double shift without your hand cramping. And for the most part, it succeeds — with a few caveats worth knowing before you stock up.

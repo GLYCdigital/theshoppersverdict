@@ -1,23 +1,25 @@
 ---
+
 title: "ELEAMY Wrist Weights with Thumb Loops Lock for Women & Men,"
 seo_title: "ELEAMY Wrist Weights Review: Thumb Loop Lock, 2026 inch  "
 meta_description: "ELEAMY wrist weights with thumb loops lock: secure fit, breathable fabric, adjustable weight. Read our honest 2026 review before you buy."
 slug: "eleamy-wrist-weights-with-thumb-loops-lock-for-women-men-0-5lb-b0dcv9-review"
 image_alt: "ELEAMY wrist weights with thumb loops, adjustable strap, and breathable mesh fabric shown in product photo"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCV9LV25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N+5D4DucL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Thumb loop locks the weight in place — zero sliding even during fast arm movements or jumping jacks"  
   - "Adjustable Velcro strap fits wrists from roughly 5.5 to 9 inches, so it works for petite women and larger men"  
   - "Breathable mesh fabric and even weight distribution prevent hot spots during 30+ minute sessions"  
-cons:  
+cons: 
   - "No weight options beyond the listed 0.5 lb per pair — you can’t increase resistance without buying another set"  
   - "Velcro can snag on knit or fleece sleeves if you wear them over long layers"
+
 ---
 
 If you’ve ever worn cheap wrist weights that slide down to your knuckles mid-burpee, you know the frustration. The ELEAMY Wrist Weights with Thumb Loops Lock solve that specific problem with a deceptively simple design — and a 4.5-star average across 225 ratings suggests they’re doing it right.

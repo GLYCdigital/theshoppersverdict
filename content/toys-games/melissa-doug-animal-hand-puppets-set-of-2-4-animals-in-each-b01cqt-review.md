@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Animal Hand Puppets (Set of 2, 4 Animals in E"
 seo_title: "Melissa & Doug Animal Hand Puppets (Set of 2, 4 An Review"
 meta_description: "Our full melissa & doug animal hand puppets (set of 2, 4 animals in e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01CQTWNN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812Lu9TILsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

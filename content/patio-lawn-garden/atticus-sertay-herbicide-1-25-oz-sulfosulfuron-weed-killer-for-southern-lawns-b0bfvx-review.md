@@ -1,4 +1,5 @@
 ---
+
 title: "Atticus Sertay Herbicide (1.25 oz) - Sulfosulfuron Weed Kill"
 seo_title: "Atticus Sertay Herbicide Review: Sulfosulfuron for Southern Lawns"
 meta_description: "Honest Atticus Sertay herbicide review: sulfosulfuron weed killer for bermudagrass, zoysia. Coverage, mixing, and results from 215+ buyer ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BFVXMGMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KwmBoJtLL._SL1080_.jpg"
-pros:
+pros: 
   - "Kills tough grassy weeds like ryegrass, poa annua, and fescue that most selective herbicides miss"
   - "1.25 oz bottle treats up to 1 acre — far more coverage per dollar than big-box liquid options"
   - "Safe on established bermudagrass, zoysia, and St. Augustine when applied at labeled rates"
-cons:
+cons: 
   - "Requires a surfactant — not included — or you risk uneven coverage and wasted product"
   - "Slow visible results; expect 2-3 weeks before weeds fully die back, not instant knockdown"
+
 ---
 
 If you manage a warm-season lawn in the South, you already know the frustration: you spray a standard selective herbicide, and the broadleaf weeds die, but the grassy weeds — the ryegrass, the poa annua, the tall fescue clumps — just laugh at you. That’s exactly the gap Atticus Sertay fills. This is a sulfosulfuron-based herbicide, the same active ingredient found in the professional-grade Certainty, but at a fraction of the price per acre.

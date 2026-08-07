@@ -1,4 +1,5 @@
 ---
+
 title: "Maison Alhambra Jean Lowe - Azure for Unisex - 3.4 oz EDP Sp"
 seo_title: "Maison Alhambra Jean Lowe - Azure for Unisex - 3.4 Review"
 meta_description: "Our full maison alhambra jean lowe - azure for unisex - 3.4 oz edp sp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKJLR4VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zWFNXhHOL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Maison Alhambra Jean Lowe Azure: The Budget Freshie That Punches Above Its Weight

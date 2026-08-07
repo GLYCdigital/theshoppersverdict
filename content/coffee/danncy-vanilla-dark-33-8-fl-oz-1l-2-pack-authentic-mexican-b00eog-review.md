@@ -1,4 +1,5 @@
 ---
+
 title: "Danncy Vanilla Dark 33.8 fl oz (1L) 2 Pack Authentic Mexican"
 seo_title: "Danncy Vanilla Dark Review: Authentic Mexican Coffee 2-Pack"
 meta_description: "Danncy Vanilla Dark 2-pack review: Rich Mexican coffee with vanilla notes. See pros, cons, and who should buy this 33.8 oz value pack."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00EOGVJMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QbBTEdgAL._SL1500_.jpg"
-pros:
+pros: 
   - "Two full 1-liter bottles — genuine value for daily drinkers"
   - "Deep, roasty coffee with natural vanilla sweetness, not artificial extract"
   - "Ready to drink cold or hot — no brewing or measuring required"
-cons:
+cons: 
   - "Sweetness level is fixed — you can't dial it down if you prefer black coffee"
   - "Some batches have inconsistent intensity between bottles"
+
 ---
 
 You're looking at a 2-pack of pre-made Mexican coffee, not beans or grounds. That's the first thing to understand before you click buy. The Danncy Vanilla Dark comes as two 33.8 fl oz (1 liter) bottles of ready-to-drink coffee — the kind of thing you pour over ice or heat up when you don't want to fire up the brewer.

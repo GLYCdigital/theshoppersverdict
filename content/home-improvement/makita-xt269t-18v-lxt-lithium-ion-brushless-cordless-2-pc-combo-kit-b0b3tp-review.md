@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XT269T 18V LXT Lithium-Ion Brushless Cordless 2-Pc. C"
 seo_title: "Makita XT269T 18V LXT Lithium-Ion Brushless Cordle Review"
 meta_description: "Our full makita xt269t 18v lxt lithium-ion brushless cordless 2-pc. c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B3TPS62X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PoM0jZ+PL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the Makita XT269T is not the cheapest 18V combo kit on Amazon. It's not even the flashiest. But if you're a serious DIYer or a working professional who's tired of burning through brushed motors, this two-piece set is the one to beat.

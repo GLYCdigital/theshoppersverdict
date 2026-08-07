@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine Standard Yield Toner Cartridge, TN630, Repla"
 seo_title: "Brother TN630 Toner Review: Is the Genuine Cartridge Worth It?"
 meta_description: "Brother TN630 toner cartridge review: page yield, print quality, cost per page, and real buyer feedback. See if the genuine cartridge is right for you."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9FS1YL3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MKvR+r3CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Brother OEM formulation prevents drum damage and maintains crisp 600x600 dpi output"
   - "1200-page standard yield fits low-volume users without paying for pages you won't use"
   - "Tool-free drop-in installation works with Brother's internal toner sensor for accurate low-ink alerts"
-cons:
+cons: 
   - "Standard yield means roughly half the pages of the TN660 high-yield cartridge"
   - "Cost per page runs higher than third-party options despite the OEM quality premium"
+
 ---
 
 If you own a Brother HL-L2300D, DCP-L2520DW, or any printer in that family, you already know the brand's reputation for reliability. The TN630 is the standard-yield cartridge that keeps those workhorses running. At 4.7 stars from 235 Amazon ratings, buyers are clearly satisfied — but is this cartridge worth the OEM premium over third-party alternatives? Let's break down what you're actually paying for.

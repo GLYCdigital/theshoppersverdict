@@ -1,23 +1,25 @@
 ---
+
 title: "ALINK 200 and 500-Pack Black Flexible Drinking Straws"
 seo_title: "ALINK Flexible Straws Review: Bulk Black Drinking Straws"
 meta_description: "ALINK 200/500-pack black flexible straws reviewed: durability, bendability, value. See real pros, cons, and who should buy these bulk straws."
 slug: "alink-200-and-500-pack-black-flexible-drinking-straws-b0928d-review"
 image_alt: "Bulk black flexible drinking straws from ALINK in 200 and 500 pack sizes"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0928DTJRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VEGvLTe-L._AC_SL1495_.jpg"
-pros:  
+pros: 
   - "Strong, food-grade polypropylene that doesn't crack or split at the bendy joint"  
   - "Wide 8mm opening handles smoothies, boba, and thick shakes without clogging"  
   - "Black color hides coffee stains and looks sharp for bars, diners, or themed parties"  
-cons:  
+cons: 
   - "Individually wrapped — wasteful if you're using them at home for daily drinks"  
   - "Flexible segment is slightly stiff for the first few uses; takes a bit of pressure to bend"
+
 ---
 
 If you've ever watched a straw crack mid-sip and dump ice down your shirt, you know cheap straws aren't worth the savings. The ALINK 200 and 500-Pack Black Flexible Drinking Straws are the opposite of that frustration — built like proper barware, not disposable afterthoughts. At a 4.7-star average from 235 ratings, these are quietly becoming the go-to bulk straw for anyone tired of flimsy white alternatives.

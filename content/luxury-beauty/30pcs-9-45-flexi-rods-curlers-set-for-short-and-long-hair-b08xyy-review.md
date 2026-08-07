@@ -1,4 +1,5 @@
 ---
+
 title: "30PCS 9.45 inch  Flexi Rods Curlers Set for Short and Long Hair,"
 seo_title: "30PCS 9.45 inch  Flexi Rods Curlers Set Review (2026)"
 meta_description: "Honest review of the 30PCS 9.45 inch  Flexi Rods Curlers Set. See how these heatless curlers perform on short & long hair, plus real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08XYYPM9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71an-ar3-7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heatless design eliminates heat damage entirely — works with damp or dry hair"
   - "30 pieces gives you enough rods for full-head styles even on thick or long hair"
   - "Soft foam core with flexible wire bends easily and holds shape without pulling scalp"
-cons:
+cons: 
   - "9.45-inch length is too short for very long hair (past mid-back) to wrap full-length curls"
   - "Results vary significantly with hair type — fine hair may need product hold to prevent drooping"
+
 ---
 
 ## The $15 Heatless Curl Solution That Actually Works (Mostly)

@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER Crisp 'N Bake Air Fryer Toaster Oven Combo, 12 inch"
 seo_title: "BLACK+DECKER Crisp 'N Bake Air Fryer Toaster Oven Review"
 meta_description: "BLACK+DECKER Crisp 'N Bake Air Fryer Toaster Oven: 12-in-1 countertop combo tested. Real pros, cons, and who should buy it. 4.2-star verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXF9LRQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kvcOciGRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Replaces up to 12 appliances with true air fry, convection bake, broil, toast, and keep-warm functions in one footprint"
   - "Large 12-slice capacity fits a 12-inch pizza or whole chicken, punching above its countertop size"
   - "Includes crumb tray, wire rack, and air fry basket — no hidden accessory purchases needed"
-cons:
+cons: 
   - "No interior light, so checking food mid-cycle means opening the door and losing heat"
   - "Basket and tray are hand-wash only; no dishwasher-safe parts"
   - "Controls are dial-based, so precise temperature setting requires manual attention"
+
 ---
 
 The BLACK+DECKER Crisp 'N Bake isn't trying to be the prettiest appliance on your counter. It's trying to be the only one that earns a permanent spot there. At 4.2 stars across 210 Amazon ratings, this 12-in-1 combo is a pragmatic answer for anyone drowning in single-purpose gadgets. But before you clear shelf space, let's talk about what it actually does — and where it cuts corners.

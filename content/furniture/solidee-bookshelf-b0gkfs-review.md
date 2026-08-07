@@ -1,4 +1,5 @@
 ---
+
 title: "SOLIDEE Bookshelf"
 seo_title: "SOLIDEE Bookshelf Review: Verdict | TSV"
 meta_description: "Our full solidee bookshelf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GKFSYKQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712GI+EijgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SOLIDEE Bookshelf sits in a crowded market of cheap, wobbly storage units that lean like the Tower of Pisa after a month. But this 5-tier unit—roughly 60 inches tall with 11.8-inch deep shelves—has earned a 4.2-star average across 210 ratings, which suggests it's doing something right. After digging through the specs and owner feedback, here's the honest breakdown.

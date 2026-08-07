@@ -1,4 +1,5 @@
 ---
+
 title: "MalloMe Camping Lantern - Lanterns for Power Outages, Campin"
 seo_title: "MalloMe Camping Lantern - Lanterns for Power Outag Review"
 meta_description: "Our full mallome camping lantern - lanterns for power outages, campin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6MBQKWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-65j-4YCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most camping lanterns are either blindingly bright for 20 minutes or dim enough to read by for a week. The MalloMe Camping Lantern tries to split that difference, and for the most part, it actually pulls it off.

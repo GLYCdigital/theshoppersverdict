@@ -1,4 +1,5 @@
 ---
+
 title: "Philips U-Bent High Lumen Linear Fluorescent Light Bulb, 280"
 seo_title: "Philips U-Bent High Lumen Linear Fluorescent Light Review"
 meta_description: "Our full philips u-bent high lumen linear fluorescent light bulb, 280 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BS9GNQWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51M6Hhi8-tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still running fluorescent troffers in a garage, workshop, or commercial space, you already know the pain: the fixture works fine, but the bulbs are dim, flickering, or dead. The Philips U-Bent High Lumen Linear Fluorescent bulb (model 2800, roughly 46 watts) is a direct answer for that specific problem — but it's not a universal fix. Here's what you need to know before you buy.

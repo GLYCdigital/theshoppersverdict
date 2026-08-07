@@ -1,7 +1,8 @@
 ---
-title: "NATIONAL GEOGRAPHIC Metal Detector for Kids - 7.4\" Waterproo"
-seo_title: "NATIONAL GEOGRAPHIC Metal Detector for Kids - 7.4\" Review"
-meta_description: "Our full national geographic metal detector for kids - 7.4\" waterproo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "NATIONAL GEOGRAPHIC Metal Detector for Kids - 7.4\ Waterproo"
+seo_title: "NATIONAL GEOGRAPHIC Metal Detector for Kids - 7.4\ Review"
+meta_description: "Our full national geographic metal detector for kids - 7.4\ waterproo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "national-geographic-metal-detector-for-kids-7-4-waterproof-metal-detector-coil-b0c4c7-review"
 image_alt: "NATIONAL GEOGRAPHIC Metal Detector for Kids - 7.4 Waterproof Metal Detector Coil, Lightweight Gold Detector with Pinpoin"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4C7YMXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KrwtGce9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the metal detector that turns your backyard into an adventure zone, or just another toy that gathers dust by August? After digging through 220 ratings and real parent feedback, here's the honest breakdown.**

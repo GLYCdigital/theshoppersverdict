@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters 80Gbps DisplayPort 2.1 Cable, DP80 Cable with"
 seo_title: "Cable Matters DP80 Cable Review: 80Gbps DisplayPort 2.1 inch"
 meta_description: "Cable Matters 80Gbps DisplayPort 2.1 cable review: real-world DP80 performance, 16K support, build quality, and who actually needs this cable."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVH82PZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ufUDQQRwL._SL1500_.jpg"
-pros:
+pros: 
   - "Full 80Gbps UHBR20 bandwidth with VESA-certified DP80 compliance"
   - "16K 60Hz and 8K 120Hz support with DSC 1.2a for future-proofing"
   - "Braided nylon jacket with 30AWG tinned copper conductors and triple shielding"
-cons:
+cons: 
   - "Overkill for anyone with DisplayPort 1.4 devices — no backward compatibility benefit"
   - "No cable management clip or velcro strap included in the package"
+
 ---
 
 Let me save you some money right now: if your monitor and GPU both top out at DisplayPort 1.4, you don't need this cable. But if you've already jumped to a 4K 240Hz or 8K display with DisplayPort 2.1 inputs, this Cable Matters DP80 cable is the one I'd actually recommend — and I've tested enough cables to be picky.

@@ -1,4 +1,5 @@
 ---
+
 title: "Indomie Mi Goreng Instant Stir Fry Noodles"
 seo_title: "Indomie Mi Goreng Instant Stir Fry Noodles Review: Verdic"
 meta_description: "Our full indomie mi goreng instant stir fry noodles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07KD7NGG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qFoOpSjEL._SL1200_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Real-world performance: the texture is the story**

@@ -1,4 +1,5 @@
 ---
+
 title: "Gobena Coffee 5lb Fair Trade Organic Certified Honduran Grou"
 seo_title: "Gobena Coffee 5lb Fair Trade Organic Certified Hon Review"
 meta_description: "Our full gobena coffee 5lb fair trade organic certified honduran grou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01M04HKMA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41V-IdHkuWL._SX342_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 5-pound bag of coffee is a commitment.** Most people buy 12-ounce bags without thinking, then hit the reorder button every ten days. Gobena's 5lb Fair Trade Organic Honduran Ground flips that script — one purchase, roughly 160 cups, and a price per pound that undercuts most specialty roasters by a mile. But a big bag only makes sense if the coffee inside is actually worth drinking every single morning. After digging through 215 ratings and what buyers actually say, here's the real story.

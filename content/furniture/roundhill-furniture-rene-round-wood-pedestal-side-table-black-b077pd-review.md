@@ -1,4 +1,5 @@
 ---
+
 title: "Roundhill Furniture Rene Round Wood Pedestal Side Table, Bla"
 seo_title: "Roundhill Furniture Rene Round Wood Pedestal Side  Review"
 meta_description: "Our full roundhill furniture rene round wood pedestal side table, bla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B077PD43MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ReOopKvyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Roundhill Rene side table proves that a pedestal design doesn't have to cost a fortune or fall apart in a year.** At 4.6 stars across 229 Amazon ratings, this little black table has clearly earned its place in thousands of living rooms. But is it right for yours? Let's get into the specifics.

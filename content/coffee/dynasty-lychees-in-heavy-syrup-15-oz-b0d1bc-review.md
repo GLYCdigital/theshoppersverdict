@@ -1,4 +1,5 @@
 ---
+
 title: "Dynasty Lychees In Heavy Syrup, 15 Oz"
 seo_title: "Dynasty Lychees in Heavy Syrup Review: Worth It? (2026)"
 meta_description: "Honest Dynasty Lychees in Heavy Syrup review: taste, texture, syrup ratio, and value. See if this 15 oz can is worth buying for desserts and drinks."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1BCRRB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ksVfiIe0L._SL1500_.jpg"
-pros:
+pros: 
   - "Whole, firm lychees that hold their shape — no mushy broken fruit"
   - "Heavy syrup is properly sweet without being cloying; good ratio of fruit to liquid"
   - "Consistent quality across cans — no variance in size or ripeness"
-cons:
+cons: 
   - "Only 15 oz — roughly 8-10 lychees per can; price per ounce runs high"
   - "Heavy syrup is a sugar bomb if you're watching intake; no light syrup option"
   - "Some buyers report occasional cans with tougher, less aromatic fruit"
+
 ---
 
 Let's be honest: you're not buying canned lychees because you want a health food. You're buying them because you want that floral, perfume-like sweetness that fresh lychee gives you — without the hassle of peeling a dozen of them. The Dynasty Lychees in Heavy Syrup, 15 oz, sits in a crowded field of canned lychee options, and at 4.4 stars across 220 ratings, it's clearly doing something right. But is it the right can for your kitchen? Let's dig in.

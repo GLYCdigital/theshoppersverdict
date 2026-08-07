@@ -1,4 +1,5 @@
 ---
+
 title: "Freshcut Paper Dahlia Sunrise"
 seo_title: "Freshcut Paper Dahlia Sunrise Review: 3D Pop-Up Card"
 meta_description: "Freshcut Paper Dahlia Sunrise 3D pop-up card review: stunning paper art, but is it worth $12.95? Honest look at build quality, gift appeal, and value."
@@ -11,13 +12,14 @@ review_count: 4617
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GBZ91WFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oHZ6IgwmL._AC_SY300_SX300_QL70_FMwebp_.jpg"
-pros:
+pros: 
   - "Intricate laser-cut layers create genuine depth — the dahlia appears to float inches above the card base"
   - "Sturdy 300gsm card stock holds up to repeated opening and closing without creasing or tearing"
   - "Flat-packed envelope means it ships safely and arrives gift-ready without a bulky box"
-cons:
+cons: 
   - "At $12.95 plus shipping, it's a premium price for something that's fundamentally a card you'll likely discard"
   - "The dark blue background, while striking, can make the card feel more like decor than a traditional greeting card"
+
 ---
 
 You're looking at a $13 piece of paper that 4,617 Amazon shoppers have rated 4.8 stars. That's not a typo. The Freshcut Paper Dahlia Sunrise has cracked the code on turning a greeting card into something people actually keep — and I'll tell you straight up whether it earns a spot on your desk or in the recycling bin.

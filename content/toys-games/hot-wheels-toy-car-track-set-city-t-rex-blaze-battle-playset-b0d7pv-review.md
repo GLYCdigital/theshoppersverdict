@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels Toy Car Track Set, City T-Rex Blaze Battle Playse"
 seo_title: "Hot Wheels City T-Rex Blaze Battle Playset Review (2026)"
 meta_description: "Our honest Hot Wheels City T-Rex Blaze Battle Playset review: build quality, play value, and if it's worth buying for your kid. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7PVKGG7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ydhDntmXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Motorized T-Rex head actually chomps and lifts cars — real kinetic action, not just a static decoration"
   - "Two distinct play modes (battle and speed track) keep interest alive longer than single-function sets"
   - "Tool-free assembly clicks together in under 10 minutes; no losing tiny screws in the carpet"
-cons:
+cons: 
   - "Requires 3 AA batteries for the motorized dino — not included, which catches parents off guard at gift time"
   - "Track sections are shorter than the box implies; taller kids may find the play area cramped on a floor"
+
 ---
 
 Some toy sets promise action and deliver a glorified parking lot. The Hot Wheels City T-Rex Blaze Battle Playset is not that. The centerpiece — a motorized T-Rex head that actually lunges, chomps, and flips cars — is the kind of mechanical payoff that separates a memorable toy from a dust collector. With a 4.6-star average across 229 ratings, it's clearly resonating with the 4-to-8 crowd and their parents. But let's break down whether it earns a spot under your tree or in your cart.

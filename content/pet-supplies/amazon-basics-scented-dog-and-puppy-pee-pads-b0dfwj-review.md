@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Scented Dog and Puppy Pee Pads Review"
 seo_title: "Amazon Basics Scented Pee Pads Review: Real Buyer Insights"
 meta_description: "Honest Amazon Basics Scented Dog & Puppy Pee Pads review: absorbency, scent control, sizing, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFWJMPDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media.michelin.com/images/I/71763EYHZxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Scented formula actually neutralizes ammonia odors between changes, not just masking them"
   - "5-layer construction with rapid-absorbing core handles multiple accidents without leaking through"
   - "Built-in attractant speeds up potty training for puppies and senior dogs with bladder issues"
-cons:
+cons: 
   - "Scent is noticeable up close — some dogs (and owners) may be sensitive to the fragrance"
   - "Thinner than premium brands like Simple Solution; heavy overnight use may require mid-night changes"
+
 ---
 
 Let’s cut through the marketing. You’re looking at pee pads, and you want to know if the Amazon Basics Scented version is worth your money — or if you should spring for the pricier brands. I’ve dug through the specs, the 220+ ratings, and what real buyers are saying. Here’s the honest breakdown.

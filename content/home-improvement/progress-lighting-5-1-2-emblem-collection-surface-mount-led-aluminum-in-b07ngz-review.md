@@ -1,7 +1,8 @@
 ---
-title: "Progress Lighting 5-1/2\" Emblem Collection Surface Mount LED"
-seo_title: "Progress Lighting 5-1/2\" Emblem Collection Surface Review"
-meta_description: "Our full progress lighting 5-1/2\" emblem collection surface mount led review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Progress Lighting 5-1/2\ Emblem Collection Surface Mount LED"
+seo_title: "Progress Lighting 5-1/2\ Emblem Collection Surface Review"
+meta_description: "Our full progress lighting 5-1/2\ emblem collection surface mount led review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "progress-lighting-5-1-2-emblem-collection-surface-mount-led-aluminum-in-b07ngz-review"
 image_alt: "Progress Lighting 5-1/2 Emblem Collection Surface Mount LED, Aluminum in White"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07NGZG9HX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518jvAVHdvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a ceiling and thought, "that boob light has to go," the Progress Lighting Emblem Collection surface mount is the kind of fixture that makes that decision easy. This is a 5-1/2-inch round, low-profile LED that sells itself on one thing: simplicity done right. At 4.6 stars across 229 ratings, it's not a controversial buy — but it's not perfect either. Here's the full story.

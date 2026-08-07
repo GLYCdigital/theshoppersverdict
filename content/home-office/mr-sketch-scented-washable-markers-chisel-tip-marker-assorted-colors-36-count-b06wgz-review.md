@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Sketch Scented Washable Markers, Chisel Tip Marker, Asso"
 seo_title: "Mr. Sketch Scented Washable Markers, Chisel Tip Ma Review"
 meta_description: "Our full mr. sketch scented washable markers, chisel tip marker, asso review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06WGZYF2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lNjPC-7SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the Mr. Sketch Scented Washable Markers: these are not your average classroom marker. They're the ones that actually make people stop and ask what you're using. With 240 ratings holding a 4.8 average, this 36-count chisel tip set has earned its spot in classrooms, home offices, and creative spaces. But before you add to cart, here's what you need to know.

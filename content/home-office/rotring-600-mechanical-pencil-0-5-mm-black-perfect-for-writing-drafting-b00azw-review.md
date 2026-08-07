@@ -1,4 +1,5 @@
 ---
+
 title: "Rotring 600 Mechanical Pencil, 0.5 mm, Black - Perfect for W"
 seo_title: "Rotring 600 Mechanical Pencil, 0.5 mm, Black - Per Review"
 meta_description: "Our full rotring 600 mechanical pencil, 0.5 mm, black - perfect for w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00AZWYUA4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r1EyIvQLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Rotring 600 is the mechanical pencil equivalent of a precision instrument. It's the pencil you see in architects' videos, on designers' desks, and in "best of" lists — and for good reason. But at its price point, is it genuinely better, or just heavier? After handling one and reading through the buyer feedback, here's the honest picture.

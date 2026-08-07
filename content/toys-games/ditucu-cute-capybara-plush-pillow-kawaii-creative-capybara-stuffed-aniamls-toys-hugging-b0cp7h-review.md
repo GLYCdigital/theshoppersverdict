@@ -1,4 +1,5 @@
 ---
+
 title: "Ditucu Cute Capybara Plush Pillow Kawaii Creative Capybara S"
 seo_title: "Ditucu Capybara Plush Pillow Review: Kawaii Hugging Stuffed Animal"
 meta_description: "Ditucu capybara plush pillow review: Is this kawaii hugging stuffed animal worth it? Sizing, softness, durability, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP7H5XN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RQDXRJUbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely soft short-pile fabric that holds up to machine washing without pilling"
   - "Long wrap-around arms make it functional as a sleep pillow, not just decor"
   - "Facial embroidery is clean and symmetrical — no crooked eyes or misaligned nose"
-cons:
+cons: 
   - "S size runs smaller than product photos suggest — roughly 15 inches, not a full body pillow"
   - "Lighter weight filling; compresses noticeably under adult head pressure"
   - "No zipper or removable cover — spot cleaning only for the inner stuffing"
+
 ---
 
 ## The capybara plush that's actually earning its 4.6 stars

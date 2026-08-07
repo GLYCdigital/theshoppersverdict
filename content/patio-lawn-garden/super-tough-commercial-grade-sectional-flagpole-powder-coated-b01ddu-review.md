@@ -1,4 +1,5 @@
 ---
+
 title: "Super Tough Commercial Grade Sectional Flagpole Powder Coate"
 seo_title: "Super Tough Commercial Grade Sectional Flagpole Po Review"
 meta_description: "Our full super tough commercial grade sectional flagpole powder coate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01DDU4LLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TxN0CGMsL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Flagpole Actually "Super Tough"? Let's Talk.

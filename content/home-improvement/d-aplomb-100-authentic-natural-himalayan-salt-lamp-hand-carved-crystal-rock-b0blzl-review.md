@@ -1,4 +1,5 @@
 ---
+
 title: "d'aplomb 100% Authentic Natural Himalayan Salt Lamp; Hand Ca"
 seo_title: "d'aplomb Himalayan Salt Lamp Review: Honest 2026 Verdict"
 meta_description: "Hand-carved Himalayan salt lamp review: real light output, weight, humidity concerns, and whether this 4.7-star lamp is worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLZL75SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/61U-4Xl24sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hand-carved salt crystal — each piece visibly unique with natural veining, not a pressed composite block"
   - "Warm amber glow at 15W is bright enough to function as a low-level night light without being harsh"
   - "Includes both a dimmer switch and spare bulb, which most competitors in this price tier skip"
-cons:
+cons: 
   - "Salt is hygroscopic — on humid days it sweats; you'll need the included tray and regular wiping to protect surfaces"
   - "Cord is only 5 feet long; placement options are limited unless you use an extension cord"
   - "Color varies significantly between units — some arrive much lighter or more orange than product photos suggest"
+
 ---
 
 The d'aplomb Himalayan salt lamp sits in a crowded category full of pressed-salt fakes and weak 7W bulbs that barely glow. This one, based on my hands-on assessment and the 235 Amazon ratings averaging 4.7 stars, is the real deal — with a couple of caveats worth knowing before you buy.

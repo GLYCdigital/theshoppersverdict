@@ -1,4 +1,5 @@
 ---
+
 title: "DITEC Triton 2.0 Teak Protectant, Marine Teak Oil and Sealer"
 seo_title: "DITEC Triton 2.0 Teak Protectant Review: Marine Oil & Sealer"
 meta_description: "DITEC Triton 2.0 marine teak oil review: 4.1-star rated sealer that restores and protects boat decks. Read real pros, cons, and buying verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GHDSLSJZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AASacBMUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Penetrates deep into weathered teak, restoring golden honey tones after a single coat"
   - "Dries to a low-sheen satin finish that doesn't leave the sticky residue common with cheap tung-oil blends"
   - "UV inhibitors actually slow graying — multiple reviewers report 4-6 months of protection in direct sun"
-cons:
+cons: 
   - "Strong solvent odor requires ventilation and a respirator for indoor or below-deck applications"
   - "Single 32-oz bottle covers only roughly 100 sq ft — large boat decks need two bottles"
+
 ---
 
 If you own a boat with teak trim, you know the drill: leave it bare and it turns that tired, chalky gray within a season. Slap on the wrong sealer and you're dealing with a tacky surface that collects dust and peels by August. The DITEC Triton 2.0 Teak Protectant sits in the middle of that spectrum — and for most owners, it's the sweet spot. Here's the honest breakdown after digging through 204 ratings and customer experiences.

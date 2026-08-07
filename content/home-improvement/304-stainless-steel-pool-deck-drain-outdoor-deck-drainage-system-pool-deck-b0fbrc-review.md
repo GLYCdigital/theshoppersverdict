@@ -1,4 +1,5 @@
 ---
+
 title: "304 Stainless Steel Pool Deck Drain,Outdoor Deck Drainage Sy"
 seo_title: "304 Stainless Steel Pool Deck Drain Review: Worth It? | 2026 inch"
 meta_description: "Honest 304 stainless steel pool deck drain review. Tested for rust, clogging, and fit. See pros, cons, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBRCN53R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AWHP4H0iL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 304 stainless steel resists rust and corrosion even in chlorinated pool water"
   - "Low-profile flange sits flush with deck surface, eliminating trip hazards"
   - "Slotted grate pattern handles high water flow while trapping larger debris"
-cons:
+cons: 
   - "No drain pipe adapter included — you'll need to source your own connector"
   - "Screws included are basic stainless; upgrade to marine-grade if you're near saltwater"
+
 ---
 
 Let's be blunt: most deck drains are ugly plastic afterthoughts that crack within two seasons and collect algae like it's their job. This 304 stainless steel unit is not that. It's the drain you actually notice — because you don't notice it at all. That's the point.

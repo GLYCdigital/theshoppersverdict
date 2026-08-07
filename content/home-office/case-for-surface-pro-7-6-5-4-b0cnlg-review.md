@@ -1,4 +1,5 @@
 ---
+
 title: "Case for Surface Pro 7 6 5 4 inch"
 seo_title: "Case for Surface Pro 7 6 5 4 Review: Sturdy Shell, Real Grip"
 meta_description: "Best Surface Pro 7/6/5/4 case? Our honest review covers the 4.3-star shell's drop protection, kickstand access, and where it falls short."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNLGTL7Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q8dBDvvoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise cutouts for kickstand, camera, and ports — no need to remove the case for daily use"
   - "Textured soft-touch back adds genuine grip, reducing slips on desks and lap surfaces"
   - "Compatible across four generations (Pro 4 through 7) with identical dimensions"
-cons:
+cons: 
   - "Adds noticeable bulk — the tablet becomes noticeably heavier and thicker in hand"
   - "Does not include a screen protector or stylus holder; those are separate purchases"
   - "The soft-touch coating picks up fingerprints and smudges easily on darker colors"
+
 ---
 
 **Is this the case that finally makes your Surface Pro feel protected without being a hassle?** At $19.99, this shell case has racked up 215 ratings with a solid 4.3-star average. I’ve spent time with it on a Surface Pro 7, and here’s the honest breakdown before you click “buy.”

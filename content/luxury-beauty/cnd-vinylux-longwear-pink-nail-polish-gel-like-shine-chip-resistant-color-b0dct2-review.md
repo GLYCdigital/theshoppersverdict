@@ -1,4 +1,5 @@
 ---
+
 title: "CND Vinylux Longwear Pink Nail Polish, Gel-like Shine & Chip"
 seo_title: "CND Vinylux Pink Nail Polish Review: Gel-Like Shine, Real Wear"
 meta_description: "CND Vinylux Longwear Pink Nail Polish review: salon-grade gel-like shine without a lamp. Honest pros, cons, and wear-test results from 210+ Amazon ratings."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DCT2NW7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U71fTxL3L._SL1500_.jpg"
-pros:
+pros: 
   - "Two-step system delivers genuine gel-like shine that lasts 7+ days without UV light"
   - "Self-leveling formula applies smoothly with minimal streaking, even for non-dominant hand work"
   - "Removes with regular polish remover — no soaking, filing, or damage to natural nails"
-cons:
+cons: 
   - "Requires the matching CND Vinylux Weekly Top Coat to achieve advertised chip resistance (sold separately)"
   - "Some pink shades run sheer; needs three coats for full opacity depending on the color"
   - "Bottle design lacks a wide brush handle, making grip awkward for those with arthritis or hand fatigue"
+
 ---
 
 If you've ever paid $50 for a gel manicure only to watch it chip by day four, you already understand the appeal of CND Vinylux. This is the polish that promises the look and wear of gel — minus the UV lamp, the soaking, and the damage to your nail beds. The question is whether it actually delivers. After combing through real user experiences and weighing the 4.2-star average across 210 ratings, here's the honest breakdown.

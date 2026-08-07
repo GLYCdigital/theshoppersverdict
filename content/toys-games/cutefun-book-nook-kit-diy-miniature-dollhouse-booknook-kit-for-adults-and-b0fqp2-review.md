@@ -1,4 +1,5 @@
 ---
+
 title: "Cutefun Book Nook Kit, DIY Miniature Dollhouse Booknook Kit"
 seo_title: "Cutefun Book Nook Kit Review: Best DIY Miniature for Adults"
 meta_description: "Hands-on Cutefun Book Nook Kit review: build quality, lighting, difficulty level, and real buyer feedback. Is this $34 DIY miniature worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQP2K33Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ieo7gvxRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pre-cut wooden pieces fit precisely — no sanding or forcing parts together, according to multiple verified buyers"
   - "Battery-powered LED strip wiring is pre-soldered and color-coded, so you don't need soldering skills"
   - "Step-by-step illustrated manual with numbered parts bags makes assembly manageable in 2-3 evening sessions"
-cons:
+cons: 
   - "Tiny accessories like books and teacups require tweezers and patience — not ideal for shaky hands"
   - "Glue applicator tip clogs easily; buyers recommend buying a separate precision glue bottle"
+
 ---
 
 Let me be straight with you: most $34 DIY craft kits are either insultingly simple or frustratingly fiddly. The Cutefun Book Nook Kit sits in a rare sweet spot — it's genuinely engaging without making you want to throw tweezers across the room. With a 4.7-star average across 235 ratings, it's clearly doing something right. Here's the real story after digging through buyer experiences and the kit's actual specs.

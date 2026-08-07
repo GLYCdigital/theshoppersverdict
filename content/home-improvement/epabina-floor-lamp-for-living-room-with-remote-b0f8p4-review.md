@@ -1,4 +1,5 @@
 ---
+
 title: "EPABINA Floor Lamp for Living Room with Remote"
 seo_title: "EPABINA Floor Lamp Review: Remote-Controlled Living Room Lighting"
 meta_description: "EPABINA Floor Lamp review: remote control, 3 color temps, dimmable. Is this 4.6-star lamp worth it for your living room? Read our honest take."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8P4FXJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713uPZ1Tz8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True hands-free convenience with a responsive remote that works from across the room"
   - "Three color temperatures (3000K/4000K/6000K) plus stepless dimming — covers everything from cozy movie nights to focused reading"
   - "Solid 5.9-foot metal pole and weighted base; no wobble even on carpet"
-cons:
+cons: 
   - "Remote is IR-based, not RF — it needs a clear line of sight to the lamp's receiver"
   - "Assembly takes about 20 minutes; the shade is a bit fiddly to snap into place"
   - "No smart home integration — if you wanted Alexa/HomeKit control, this isn't it"
+
 ---
 
 **The Short Version:** If you're tired of getting off the couch to adjust your lighting, the EPABINA floor lamp delivers exactly what it promises — a sturdy, good-looking lamp that you control from your seat. It's not the cheapest option out there, but the build quality and remote responsiveness justify the price for most buyers.

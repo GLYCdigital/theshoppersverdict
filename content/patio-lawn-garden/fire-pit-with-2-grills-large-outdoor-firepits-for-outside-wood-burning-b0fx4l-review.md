@@ -1,4 +1,5 @@
 ---
+
 title: "Fire Pit with 2 Grills, Large Outdoor Firepits for Outside,"
 seo_title: "Fire Pit with 2 Grills Review: Large Outdoor Firepit for Patio"
 meta_description: "Honest review of the large outdoor fire pit with 2 cooking grills. 4.4★ rated. Read real pros, cons, and who should buy before spending."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FX4LP5Y8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sZwczl-QL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two separate adjustable grill grates let you cook at different heights — sear steaks while slow-cooking veggies"
   - "Large 30-inch fire bowl easily handles full-size logs without constant splitting"
   - "Solid steel construction with heat-resistant paint holds up to regular weekend use"
-cons:
+cons: 
   - "No spark screen included — you'll need to buy one separately if you have kids or nearby structures"
   - "Assembly requires two people; the bowl is heavy and awkward to flip into place alone"
   - "Grill grates are thin gauge steel and may warp over time with high-heat cooking"
+
 ---
 
 **The Two-Grill Fire Pit That Does Double Duty**

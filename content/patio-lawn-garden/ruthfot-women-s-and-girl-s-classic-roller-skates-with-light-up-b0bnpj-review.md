@@ -1,4 +1,5 @@
 ---
+
 title: "Ruthfot Women's and Girl's Classic Roller Skates with Light "
 seo_title: "Ruthfot Women's and Girl's Classic Roller Skates w Review"
 meta_description: "Our full ruthfot women's and girl's classic roller skates with light  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNPJH7LB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MI5niYWCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Are These Light-Up Skates Actually Worth Your Money?

@@ -1,4 +1,5 @@
 ---
+
 title: "AKASUKI Table Lamp for Bedroom, 3 Way Dimmable Touch Lamp wi"
 seo_title: "AKASUKI Table Lamp Review: 3-Way Touch Dimmable Bedside Light"
 meta_description: "Honest AKASUKI touch table lamp review: 3-way dimming, dual USB ports, build quality, and real buyer feedback. Is it worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GD76KDSP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X0gz5FX1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct brightness levels via touch — no fumbling for a switch at 2 AM"
   - "Dual USB ports built into the base actually charge at useful speeds"
   - "Solid, weighted base that won't tip over when you bump the nightstand"
-cons:
+cons: 
   - "Touch sensor can be overly sensitive — brushing the base while reaching for your phone cycles the brightness"
   - "Light output at the lowest setting is still brighter than some competing lamps"
+
 ---
 
 Let's be honest: most $30 lamps are junk. The AKASUKI Table Lamp isn't most lamps.

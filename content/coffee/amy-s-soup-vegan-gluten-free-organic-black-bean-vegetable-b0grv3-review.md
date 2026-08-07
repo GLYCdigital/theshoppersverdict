@@ -1,4 +1,5 @@
 ---
+
 title: "Amy's Soup, Vegan, Gluten Free, Organic Black Bean Vegetable"
 seo_title: "Amy's Black Bean Vegetable Soup Review: Vegan & GF"
 meta_description: "Honest Amy's Organic Black Bean Vegetable Soup review: taste, texture, nutrition, and value. See if this vegan gluten-free soup is worth buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRV3KJHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H3QKmgOPL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean organic ingredients with no added sugar — just 2g per serving"
   - "Thick, hearty texture with actual black beans and corn chunks, not watery broth"
   - "Certified gluten-free and vegan, making it safe for multiple dietary restrictions"
-cons:
+cons: 
   - "Sodium runs high at 480mg per serving — nearly a quarter of your daily value"
   - "Some buyers report inconsistent bean-to-liquid ratio between cans"
   - "Mild spice profile; won't satisfy those seeking a bold, smoky black bean flavor"
+
 ---
 
 Let me be straight with you: this is a pantry staple that doesn't taste like one. Amy's Organic Black Bean Vegetable Soup punches well above its canned-soup weight class, and the 4.5-star average across 225 ratings reflects that. But it's not perfect, and you deserve to know exactly where it shines and where it disappoints before you add it to your cart.

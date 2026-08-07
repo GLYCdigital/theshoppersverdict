@@ -1,4 +1,5 @@
 ---
+
 title: "wet n wild MegaGlo Dual-Ended Contour Stick Cruelty-Free"
 seo_title: "wet n wild MegaGlo Dual-Ended Contour Stick Cruelt Review"
 meta_description: "Our full wet n wild megaglo dual-ended contour stick cruelty-free review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1VH82QV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I-ObTpF0L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the wet n wild MegaGlo Dual-Ended Contour Stick is the rare drugstore product that genuinely delivers on its promise. It's not perfect, but at this price point, it punches absurdly above its weight class.

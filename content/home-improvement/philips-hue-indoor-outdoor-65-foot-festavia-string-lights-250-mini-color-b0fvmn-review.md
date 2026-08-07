@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Hue Indoor/Outdoor 65-Foot Festavia String Lights - "
 seo_title: "Philips Hue Indoor/Outdoor 65-Foot Festavia String Review"
 meta_description: "Our full philips hue indoor/outdoor 65-foot festavia string lights -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FVMNPBYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uq6raLm3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: you don't buy 65 feet of Philips Hue Festavia lights because you need to light a patio. You buy them because you want the best-looking, most controllable string lights on the market, and you're willing to pay for that. At $130–$180 depending on sales, these aren't impulse purchases. But after 225 Amazon reviews averaging 4.5 stars, the consensus is clear: these deliver.

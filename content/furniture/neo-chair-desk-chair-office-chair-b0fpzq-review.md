@@ -1,4 +1,5 @@
 ---
+
 title: "NEO Chair Desk Chair Office Chair"
 seo_title: "NEO Chair Desk Chair Office Chair Review: Verdict | TSV"
 meta_description: "Our full neo chair desk chair office chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPZQMW2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c9OLQKkEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling through endless office chair listings, you've likely hit the same wall: everything under $200 looks like it'll collapse by month two, and everything over $500 demands you remortgage your home office. The NEO Chair sits in that awkward middle ground, claiming to deliver ergonomic support without the premium markup. After digging through the specs and 220 verified buyer ratings, here's the real story.

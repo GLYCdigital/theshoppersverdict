@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Life Purified Water"
 seo_title: "Pure Life Purified Water Review: Verdict | TSV"
 meta_description: "Our full pure life purified water review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKGH1P7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71thCnuvLSS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: water is 98% of your coffee. Most people obsess over beans and grinders while pouring in tap water that's fighting the extraction the entire way. Pure Life Purified Water won't win barista championships, but at roughly $1 per gallon, it might be the cheapest upgrade to your morning brew you'll ever make.

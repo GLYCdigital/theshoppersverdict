@@ -1,4 +1,5 @@
 ---
+
 title: "TBMLC Rised Garden Bed 2'x2'x1' Round Elevated Planter Box f"
 seo_title: "TBMLC Rised Garden Bed 2'x2'x1' Round Elevated Pla Review"
 meta_description: "Our full tbmlc rised garden bed 2'x2'x1' round elevated planter box f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3FMV52V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lrA0yUFtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a small patio, a balcony, or just a corner of the yard that needs a proper growing space, the TBMLC 2'x2'x1' Round Elevated Planter Box is worth a hard look. But before you click buy, understand what this compact bed is — and isn't — capable of.

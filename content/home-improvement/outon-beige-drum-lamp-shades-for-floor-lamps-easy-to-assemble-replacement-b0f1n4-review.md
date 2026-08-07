@@ -1,4 +1,5 @@
 ---
+
 title: "OUTON Beige Drum Lamp Shades for Floor Lamps, Easy to Assemb"
 seo_title: "OUTON Beige Drum Lamp Shades for Floor Lamps, Easy Review"
 meta_description: "Our full outon beige drum lamp shades for floor lamps, easy to assemb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1N4R4X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RzDO0HNiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OUTON beige drum shade is the kind of product that makes you wonder why you lived with that harsh, naked floor lamp bulb for so long. It's not fancy. It's not expensive. But it solves a specific problem—glaring, unflattering light in a living room corner—without requiring a degree in lamp anatomy to install. Here's the honest breakdown after digging through the specs, customer feedback, and real-world use patterns.

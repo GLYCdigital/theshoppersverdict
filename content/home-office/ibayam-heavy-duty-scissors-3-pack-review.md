@@ -1,4 +1,5 @@
 ---
+
 title: "iBayam Heavy Duty Scissors 3-Pack"
 seo_title: "iBayam Heavy Duty Scissors 3-Pack Review: Worth It?"
 meta_description: "iBayam Heavy Duty Scissors 3-Pack review: Sharp titanium blades, 3 sizes, under $10. See real pros, cons, and who should buy these 4.8-star shears."
@@ -11,14 +12,15 @@ review_count: 85889
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iVyRt2AfL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Titanium-coated blades stay sharp through cardboard, plastic packaging, and fabric without rusting"
   - Three sizes (8.5 inch ", 7.5 inch ", 5.5 inch ") cover everything from kitchen prep to precision paper cutting
   - "Ergonomic, asymmetrical handles reduce hand fatigue during extended cutting sessions"
-cons:
+cons: 
   - "Not truly 'heavy duty' for cutting thick materials like leather or multiple layers of denim"
   - "Screw pivot can loosen over time with heavy use; requires periodic tightening"
   - Smaller 5.5 inch " pair feels flimsier than the larger two, with thinner blade stock
+
 ---
 
 You don't need to spend $30 on a single pair of scissors. The iBayam 3-pack proves it — for $9.99, you get three titanium-coated shears that handle 90% of what most households and offices throw at them. With 85,889 ratings and a 4.8-star average, this is one of the most-reviewed scissor sets on Amazon. Here's the honest breakdown after examining the build, the materials, and what buyers actually say.

@@ -1,4 +1,5 @@
 ---
+
 title: "amFilm 3 Pack Screen Protector for ASUS ROG Xbox Ally X/ROG"
 seo_title: "amFilm ROG Ally X Screen Protector Review (2026): 3-Pack Value"
 meta_description: "Honest amFilm 3-pack screen protector review for ASUS ROG Ally X. Tempered glass clarity, easy install, edge fit issues. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6T7QK9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U+gVnQmRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three protectors in one box at a price that beats single-pack competitors — you get a spare for when the first one gets scratched or cracked"
   - "Precisely cut with cutouts for the Ally X's front-facing camera and light sensor, so nothing important gets covered"
   - "Oleophobic coating actually resists fingerprints well — smudges wipe off with a single pass of a microfiber cloth"
-cons:
+cons: 
   - "Edges don't fully seal down on the Ally X's slightly curved display — you'll see a thin silver line of air along the perimeter"
   - "No alignment frame included in the box, which makes a perfectly centered install harder than it should be for a $15+ product"
+
 ---
 
 ## The $13 Insurance Policy Your ROG Ally X Desperately Needs

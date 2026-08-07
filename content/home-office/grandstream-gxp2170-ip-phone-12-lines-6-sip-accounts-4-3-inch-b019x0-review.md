@@ -1,4 +1,5 @@
 ---
+
 title: "Grandstream GXP2170 IP Phone | 12 Lines, 6 SIP Accounts | 4."
 seo_title: "Grandstream GXP2170 IP Phone | 12 Lines, 6 SIP Acc Review"
 meta_description: "Our full grandstream gxp2170 ip phone | 12 lines, 6 sip accounts | 4. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B019X06IFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kAR2gz84S._AC_SL1112_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: if you're shopping for a desk phone in 2026, you're likely either replacing a fleet, outfitting a new office, or trying to get a receptionist off a headset that's been held together with tape. The Grandstream GXP2170 has been around for years, and that longevity says something — but it also means you need to know what you're walking into.

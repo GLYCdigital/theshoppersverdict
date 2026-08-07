@@ -1,4 +1,5 @@
 ---
+
 title: "12-Cup Replacement Glass Carafe Pot Compatible with Hamilton"
 seo_title: "12-Cup Hamilton Replacement Carafe Review: Honest Look"
 meta_description: "Honest 12-cup replacement glass carafe review for Hamilton coffee makers. Real buyer feedback, fit concerns, durability, and value compared."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CNCWKNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hIQpA7v-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thicker glass than Hamilton's OEM carafe — noticeably less fragile during handling and washing"
   - "Precise fit for 12-cup Hamilton models — lid seals snugly without the wobble common in generic carafes"
   - "Clear measurement markings on both sides, readable from either angle on the hot plate"
-cons:
+cons: 
   - "Not compatible with all Hamilton models — verify your exact model number before ordering; some older brewers need the 4-cup version"
   - "Handle feels slightly narrower than OEM — larger hands may find gripping less comfortable when full"
+
 ---
 
 Dropping a glass carafe is a rite of passage for coffee drinkers — that sickening crash, the shards everywhere, and the sudden realization that your brewer is a useless paperweight until you find a replacement. If you're here, you've likely been there. The good news: this 12-cup replacement carafe from a third-party manufacturer is one of the better options I've tested for Hamilton brewers, and at roughly half the price of OEM parts, it deserves a serious look.

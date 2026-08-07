@@ -1,4 +1,5 @@
 ---
+
 title: "Clip on Lampshade Adapter, Lamp Shade Light Bulb Clip Adapte"
 seo_title: "Clip on Lampshade Adapter Review: Fits Bulbs, Easy Install"
 meta_description: "Honest review of the Clip on Lampshade Adapter: Does it hold shades securely? We tested fit, durability, and real buyer feedback. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B2DHNJW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518T2Te+fOL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Three clip sizes (small/medium/large) cover most standard bulbs from A19 to A21 without swapping adapters"
   - "Metal spring clips grip firmly — shades don't wobble or slide, even with slight bumps"
   - "Works on flush-mount ceiling fixtures and floor lamps, turning a bare bulb into a shaded light in seconds"
-cons:
+cons: 
   - "Clip arms can scratch softener bulb glass if you force them onto oversized bulbs — install gently"
   - "No locking mechanism; heavy or wide shades can pull the clip off if the bulb isn't vertical"
   - "Finial nut is small and easy to drop during installation — have a magnet tray handy"
+
 ---
 
 ## The $10 Fix That Saves You From Buying a Whole New Lamp

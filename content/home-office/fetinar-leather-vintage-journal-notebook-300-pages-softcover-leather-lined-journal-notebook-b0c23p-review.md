@@ -1,4 +1,5 @@
 ---
+
 title: "Fetinar Leather Vintage Journal Notebook,300 Pages Softcover"
 seo_title: "Fetinar Leather Vintage Journal Notebook,300 Pages Review"
 meta_description: "Our full fetinar leather vintage journal notebook,300 pages softcover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C23PZZXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AYVcMeKIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "vintage leather" journals on Amazon are faux leather wrapped around recycled pulp. The Fetinar is not that. It's a genuine cowhide cover with a rustic, unfinished edge that looks like it was pulled from a workshop floor, not a factory line. At 300 pages, it's also twice the thickness of most competitors in this price range. If you're a daily journaler who burns through notebooks in six weeks, that page count alone justifies a look.

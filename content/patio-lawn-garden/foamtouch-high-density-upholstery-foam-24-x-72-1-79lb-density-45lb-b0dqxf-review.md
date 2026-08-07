@@ -1,4 +1,5 @@
 ---
+
 title: "FoamTouch High Density Upholstery Foam (24 inch  x 72 inch ), 1.79LB D"
 seo_title: "FoamTouch High Density Foam Review: 24x72 1.79LB for Patio"
 meta_description: "Honest FoamTouch 24x72 high density foam review. Is the 1.79LB D cushion foam right for your patio furniture? Real pros, cons & buyer verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQXFCR84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+pGJJosrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 1.79 lb density with clean, factory-cut 24x72 surface — dimensions match listing"
   - "Rebounds quickly after compression; holds shape through humid outdoor conditions"
   - "Cuts cleanly with an electric knife for DIY cushion projects without crumbling"
-cons:
+cons: 
   - "Ships tightly compressed in a vacuum bag — requires 24-48 hours to fully expand"
   - "Firm ILD rating is too stiff for backrests; best suited for seat cushions"
+
 ---
 
 The problem with most replacement foam on Amazon is that you never know if you're getting genuine high-density material or something that feels like a flattened sponge by August. FoamTouch's 24" x 72" slab is different — and here's why it matters for your patio.

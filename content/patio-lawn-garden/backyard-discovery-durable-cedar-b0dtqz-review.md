@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery Durable Cedar"
 seo_title: "Backyard Discovery Durable Cedar Review: Honest 2026 Verdict"
 meta_description: "Backyard Discovery Durable Cedar reviewed: real build quality, assembly time, and longevity. Find out if this 4.5-star patio pick is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTQZJH69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WalAuw2kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kiln-dried cedar resists rot and insect damage naturally — no chemical treatments needed"
   - "Pre-drilled panels and color-coded hardware cut assembly time to roughly 4-6 hours for two people"
   - "Vented gables and floor runners keep air moving and tools dry, even in humid climates"
-cons:
+cons: 
   - "Cedar will weather to a silver-gray patina within months unless you apply a sealer immediately"
   - "Floor is included but requires level ground; DIYers report needing a gravel or paver base for best results"
+
 ---
 
 Cedar is having a moment in outdoor storage, and the Backyard Discovery Durable Cedar is why. At 4.5 stars across 225 ratings, it's not just another resin box from the big-box aisle — it's a genuinely better-looking, longer-lasting option for anyone tired of warped plastic panels and rusted metal sheds.

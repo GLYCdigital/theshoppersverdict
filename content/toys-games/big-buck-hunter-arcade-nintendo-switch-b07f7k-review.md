@@ -1,4 +1,5 @@
 ---
+
 title: "Big Buck Hunter Arcade (Nintendo Switch)"
 seo_title: "Big Buck Hunter Arcade Switch Review: Best Light Gun Option?"
 meta_description: "Big Buck Hunter Arcade on Switch review: 4.2-star rated hunting game. Is the motion control worth it? Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07F7KNGP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n-g1HunvL._SL1500_.jpg"
-pros:
+pros: 
   - "Motion-controlled aiming via Joy-Cons actually works — no IR sensor bar required"
   - "Faithful port of the arcade classic with all 20+ real-world buck species and multiple real hunting regions"
   - "Four-player local co-op makes it a genuine party game, not a solo grind"
-cons:
+cons: 
   - "Motion controls drift and need frequent recalibration mid-game — buyers report resetting aim every few rounds"
   - "No online multiplayer at all — strictly local play, which limits long-term replay value"
   - "Visuals are dated even by Switch standards; it looks like a mid-2000s arcade port, not a modern title"
+
 ---
 
 # Big Buck Hunter Arcade (Nintendo Switch): Does the Classic Arcade Shooter Translate to Console?

@@ -1,4 +1,5 @@
 ---
+
 title: "AFI, Nantucket Solid Wood Panel Headboard"
 seo_title: "AFI Nantucket Solid Wood Headboard Review: Worth It?"
 meta_description: "AFI Nantucket Solid Wood Panel Headboard review: real build quality, sizing issues, and whether this 4.3-star headboard fits your bedroom."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DN33WCKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lD1V6k-EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid wood construction (not MDF or particleboard) at a mid-range price point"
   - "Crisp, paneled design that reads as custom millwork rather than budget furniture"
   - "Multiple sizes available with straightforward assembly that most buyers finish in under 30 minutes"
-cons:
+cons: 
   - "Some buyers report finish inconsistency between the headboard and footboard/bed frame pieces"
   - "Sizing can run slightly large — measure your mattress and frame before ordering"
   - "Not compatible with adjustable bed frames without modification"
+
 ---
 
 The AFI Nantucket Solid Wood Panel Headboard is the rare budget-conscious furniture piece that doesn't scream "budget." At a 4.3-star average across 215 ratings, it's clearly satisfying most buyers — but the real question is whether it'll work for your specific setup. Here's the honest breakdown.

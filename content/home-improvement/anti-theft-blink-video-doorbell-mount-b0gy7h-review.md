@@ -1,4 +1,5 @@
 ---
+
 title: "Anti-Theft Blink Video Doorbell Mount"
 seo_title: "Anti-Theft Blink Doorbell Mount Review: Worth It?"
 meta_description: "Our honest Anti-Theft Blink Video Doorbell Mount review: build quality, installation, security features, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GY7HGM77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FXUFUnsTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid aluminum construction with a powder-coated finish that resists weather and UV damage"
   - "Tamper-resistant Torx security screws require a specialized bit not included in standard toolkits"
   - "Works with existing Blink mounting holes — no drilling or modification to the doorbell itself"
-cons:
+cons: 
   - "Security screw bit is not included — you'll need to buy a Torx set separately"
   - "The mount adds roughly 0.75 inches to the doorbell's depth, which can interfere with some angled mounting positions"
+
 ---
 
 Let's cut straight to it: a $35–$50 video doorbell is a tempting target for thieves, especially in apartment buildings or homes where the doorbell sits within arm's reach of the sidewalk. The Anti-Theft Blink Video Doorbell Mount exists to solve that exact problem — but does it actually work, or is it just a chunk of metal with a scary name?

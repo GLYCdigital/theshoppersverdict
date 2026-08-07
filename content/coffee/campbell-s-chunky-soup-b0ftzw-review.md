@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's Chunky Soup"
 seo_title: "Campbell's Chunky Soup Review: Is It Worth It? (2026)"
 meta_description: "Campbell's Chunky Soup review: real taste tests, sodium levels, portion sizes, and value. See if this pantry staple earns its 4.4-star rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FTZWQT9F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zncN0k8EL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 18.8oz can delivers actual chunks of meat and vegetables—not broth-heavy filler like standard condensed soups"
   - "Ready in 3 minutes on stovetop or 90 seconds in microwave; no water needed, unlike traditional Campbell's condensed lines"
   - "18g protein per can makes it a legitimate quick lunch option, not just a side dish"
-cons:
+cons: 
   - "Sodium runs 890mg per can—nearly 40% of daily recommended intake—a real concern for anyone watching blood pressure"
   - "Shelf-stable taste is noticeably salt-forward; fresh-made soup or premium brands like Progresso often taste less processed"
+
 ---
 
 # Campbell's Chunky Soup Review: Hearty Convenience or Salt Bomb?

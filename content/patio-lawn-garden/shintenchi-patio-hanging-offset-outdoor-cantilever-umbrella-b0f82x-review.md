@@ -1,4 +1,5 @@
 ---
+
 title: "Shintenchi Patio, Hanging Offset, Outdoor Cantilever Umbrell"
 seo_title: "Shintenchi Patio, Hanging Offset, Outdoor Cantilev Review"
 meta_description: "Our full shintenchi patio, hanging offset, outdoor cantilever umbrell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F82XQ66F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61z8xJaffRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Shintenchi cantilever umbrella solves the classic patio problem — overhead shade without a pole smack in the middle of your conversation circle. It's a solid mid-tier offset umbrella that performs well in calm conditions but demands you budget extra for a proper base if you live anywhere with regular wind.

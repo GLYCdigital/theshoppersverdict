@@ -1,4 +1,5 @@
 ---
+
 title: "ER Kang Cable Station Wall Mount, 18in Pulley Tower, Dual Pu"
 seo_title: "ER Kang Cable Station Wall Mount Review: 18in Pulley Tower"
 meta_description: "ER Kang Cable Station Wall Mount 18in Pulley Tower review: build quality, pulley smoothness, mounting requirements, and who should buy this dual pulley system."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZ3LRVRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QGquqjv8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Buttery-smooth dual pulley rotation with sealed bearings — no catching or jerking even at slow, controlled tempos"
   - "18-inch boom arm holds its position under heavy load without sagging, thanks to the reinforced steel hinge plate"
   - "Universal 2x4 mounting footprint fits standard garage studs with zero modification — most buyers install in under 30 minutes"
-cons:
+cons: 
   - "Mounting hardware included is adequate but not premium — plan to upgrade the lag bolts if mounting into concrete"
   - "The included pulley covers are plastic; they work fine but feel less durable than the steel frame underneath"
+
 ---
 
 If you've priced a wall-mounted cable station lately, you know the good ones start around $300 and climb fast. The ER Kang Cable Station Wall Mount undercuts that by a mile while delivering the same core functionality. But does "same functionality" mean "same quality"? After digging through 240 verified ratings and the spec sheet, here's the honest breakdown.

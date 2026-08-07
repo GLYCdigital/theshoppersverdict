@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair iCUE Link PWM Fan Single Pack – Dual Light Loops"
 seo_title: "Corsair iCUE Link PWM Fan Review: Dual Light Loops (2026)"
 meta_description: "Corsair iCUE Link PWM fan single pack review: dual light loops, daisy-chain simplicity, and real-world cooling performance. Is it worth the premium?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7D4QPWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UFCPrBVAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Daisy-chain connectors eliminate the cable spaghetti of traditional fan setups — one cable runs power and RGB to multiple fans"
   - "Dual light loops deliver 34 RGB LEDs per fan with smooth, vibrant color transitions that look premium in person"
   - "Magnetic dome bearing rated for 175,000 hours MTTF — this fan will outlive your PC build"
-cons:
+cons: 
   - "Requires the iCUE Link System Hub (sold separately) — a single fan is useless without the £40+ hub investment"
   - "No performance specs printed on the box — you'll need to dig online for static pressure and airflow numbers"
+
 ---
 
 **The premium fan that forces you into Corsair's ecosystem — is it worth it?**

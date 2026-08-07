@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST LED Nightstand with Charging Station, Large Night Sta"
 seo_title: "BTHFST LED Nightstand with Charging Station Review (2026)"
 meta_description: "BTHFST LED nightstand with charging station review: 3 drawers, USB ports, and smart lighting. Is it worth it? Real pros, cons, and verdict."
@@ -11,15 +12,16 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CM42YQW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+yRAtcHQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in charging station with 2 USB ports and 2 AC outlets saves wall space and keeps cables organized"
   - "LED strip lighting with multiple color options and remote control adds functional ambient light"
   - "Three full-size drawers provide surprisingly generous storage for a nightstand"
   - "Sturdy particleboard construction with a water-resistant finish that handles daily wear"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes and requires two people to align drawer slides correctly"
   - "LED lights run on a separate power adapter, adding one more cable to manage"
   - "Charging station is on the back panel — you'll need to reach behind to plug in devices"
+
 ---
 
 Let's be honest about nightstands: most are either cheap particleboard boxes that wobble or overpriced solid-wood pieces that cost more than your mattress. The BTHFST LED Nightstand with Charging Station tries to hit a smarter middle ground — storage, built-in power, and ambient lighting for under what you'd pay for a basic dresser from a big-box store. After digging through 200 ratings and the spec sheet, here's what actually matters.

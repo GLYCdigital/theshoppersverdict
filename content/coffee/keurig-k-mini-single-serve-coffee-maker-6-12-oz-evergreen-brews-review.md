@@ -1,16 +1,17 @@
 ---
+
 title: "Keurig K Mini Single Serve Coffee Maker, 6 12 Oz, Evergreen | Brews 6-12 Oz with K-Cup Pods, Removable Drip Tray Fits Travel Mugs Up to 7 in, Compact under 5 in Wide"
 seo_title: "Keurig K Mini Review: Verdict (4.0/5) | TSV"
 meta_description: "It is a quality coffeemaker and a good 219+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "keurig-k-mini-single-serve-coffee-maker-6-12-oz-evergreen-brews-review"
 image_alt: "Keurig K Mini Single Serve Coffee Maker, 6 12 Oz, Evergreen | Brews 6-12 Oz with K-Cup Pods, Removable Drip Tray Fits Tr"
-keywords:
+keywords: 
   - "keurig k mini review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Keurig K Mini Single?"
     answer: "It is a quality coffeemaker and a good value That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Keurig K Mini Single?"
@@ -23,12 +24,13 @@ review_count: 219
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B46C5H4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613wb2ffuRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It is a quality coffeemaker and a good value."
   - "It is easy to use."
   - "Compact, brews quickly with a few downsides Nice compact coffee maker."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If counter space is a premium and you just want a reliable cup of coffee without a 12-step brewing ritual, the Keurig K Mini is worth a hard look. At $49.99, it's not the cheapest single-serve machine out there, but it's also not trying to be. It's trying to be the smallest, simplest, most no-nonsense K-Cup brewer you can buy — and for the most part, it succeeds.

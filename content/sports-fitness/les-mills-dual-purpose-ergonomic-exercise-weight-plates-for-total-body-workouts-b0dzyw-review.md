@@ -1,4 +1,5 @@
 ---
+
 title: "Les Millsâ„¢ Dual Purpose Ergonomic Exercise Weight Plates f"
 seo_title: "Les Millsâ„¢ Dual Purpose Ergonomic Exercise Weigh Review"
 meta_description: "Our full les millsâ„¢ dual purpose ergonomic exercise weight plates f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DZYWGSPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612-T-B3aUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most weight plates are dumb iron. You load them, you lift them, you rack them. That's the whole job. The Les Mills Dual Purpose Ergonomic plates try to be smarter — and honestly, they mostly succeed. With a 4.8-star average across 240 ratings, these aren't niche equipment for gym rats only. They're designed for the growing crowd of people training at home who want one set of plates that does more than just sit on a bar.

@@ -1,4 +1,5 @@
 ---
+
 title: "MayBee Beehive Box Langstroth Deep Brood Box Dipped in 100% "
 seo_title: "MayBee Beehive Box Langstroth Deep Brood Box Dippe Review"
 meta_description: "Our full maybee beehive box langstroth deep brood box dipped in 100%  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCCVCVS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A70S660zL._AC_SL1050_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $35 Box That Could Save Your Bees' Winter

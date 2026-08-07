@@ -1,23 +1,25 @@
 ---
+
 title: "EltaMD Foaming Facial Cleanser Face Wash"
 seo_title: "EltaMD Foaming Facial Cleanser Review (2026): Worth It?"
 meta_description: "Honest EltaMD Foaming Facial Cleanser review: does this gentle foaming wash live up to the hype? Real pros, cons, and who should buy it."
 slug: "eltamd-foaming-facial-cleanser-face-wash-b0dzd3-review"
 image_alt: "EltaMD Foaming Facial Cleanser pump bottle with foam texture"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZD3RTNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-sZVz0GSL._SL1500_.jpg"
-pros:  
+pros: 
   - "Foams rich and airy without stripping skin — no tight or squeaky feeling afterward"  
   - "Pump dispenser delivers exactly one hand's worth of product, so a single bottle lasts 2+ months"  
   - "Fragrance-free and sulfate-free, making it safe for post-procedure or compromised skin barriers"  
-cons:  
+cons: 
   - "Price per ounce runs high compared to drugstore foaming cleansers (roughly $1.20/oz)"  
   - "Not effective at removing heavy makeup or sunscreen — you'll need a first-step cleanser or oil balm"
+
 ---
 
 If you've had a dermatologist recommend EltaMD, you already know the brand's reputation. But the **Foaming Facial Cleanser** is the one product in their lineup that doesn't get the same spotlight as their famous UV Clear sunscreen. That's a mistake. After testing this for three weeks straight, I can tell you exactly why it belongs on your shelf — and the few reasons it might not.

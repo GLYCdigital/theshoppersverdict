@@ -1,4 +1,5 @@
 ---
+
 title: "Ralbay LED Modern Bathroom Vanity Lights Modern Acrylic Bath"
 seo_title: "Ralbay LED Modern Bathroom Vanity Lights Modern Ac Review"
 meta_description: "Our full ralbay led modern bathroom vanity lights modern acrylic bath review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBM2NY3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+DXFCVqWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a ceiling fixture that throws shadows across your face every time you shave or apply makeup, this Ralbay vanity light fixes that specific problem. It's a hardwired, integrated-LED bar that mounts above or beside your mirror, and it does one thing really well: spread even, shadow-free light exactly where you need it.

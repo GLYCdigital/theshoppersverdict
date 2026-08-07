@@ -1,4 +1,5 @@
 ---
+
 title: "OSP Home Furnishings Kaylee Spindle Accent Chair with Antiqu"
 seo_title: "OSP Home Furnishings Kaylee Spindle Accent Chair w Review"
 meta_description: "Our full osp home furnishings kaylee spindle accent chair with antiqu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQQP8L9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LVREuDgEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OSP Home Furnishings Kaylee Spindle Accent Chair walks a fine line. It's styled like a piece from a farmhouse catalog, priced like a budget find, and built with more solid wood than you'd expect at this price point. After digging through 220 ratings and the specs, here's the real story.

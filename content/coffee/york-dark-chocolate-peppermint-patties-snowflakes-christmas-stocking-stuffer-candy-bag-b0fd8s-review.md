@@ -1,4 +1,5 @@
 ---
+
 title: "YORK Dark Chocolate Peppermint Patties Snowflakes, Christmas"
 seo_title: "YORK Dark Chocolate Peppermint Patties Snowflakes, Review"
 meta_description: "Our full york dark chocolate peppermint patties snowflakes, christmas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8S6MJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X05VkECjL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## York Dark Chocolate Peppermint Patties Snowflakes: Festive Format, Familiar Flavor

@@ -1,4 +1,5 @@
 ---
+
 title: "Mizuno Men's Comp Golf Glove"
 seo_title: "Mizuno Men's Comp Golf Glove Review: Verdict | TSV"
 meta_description: "Our full mizuno men's comp golf glove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYPGHL7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XaP9edKcL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Mizuno Men's Comp Golf Glove Review: The Understated Workhorse That Won't Break the Bank**

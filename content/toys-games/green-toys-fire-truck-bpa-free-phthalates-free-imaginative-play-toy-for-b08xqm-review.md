@@ -1,23 +1,25 @@
 ---
+
 title: "Green Toys Fire Truck - BPA Free, Phthalates Free Imaginativ"
 seo_title: "Green Toys Fire Truck Review: Safe, Durable, Eco-Friendly"
 meta_description: "Green Toys Fire Truck review: BPA-free, phthalate-free, and built tough. See why 240+ parents rate it 4.8 stars. Real pros, cons, and buying advice."
 slug: "green-toys-fire-truck-bpa-free-phthalates-free-imaginative-play-toy-for-b08xqm-review"
 image_alt: "Green Toys Fire Truck in red and yellow with movable ladder, made from recycled plastic"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08XQMY6HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-m8pwnEKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Made from 100% recycled plastic milk jugs — no BPA, phthalates, or PVC, and it’s dishwasher-safe"  
   - "Chunky, rounded design handles toddler drops and outdoor abuse without cracking or sharp edges"  
   - "Working ladder and spinning siren light add real play value without batteries or noise"  
-cons:  
+cons: 
   - "No sound effects or moving parts beyond the ladder — older kids may outgrow it fast"  
   - "Wheels are plastic-on-plastic, so it’s louder on hardwood floors than you’d expect"
+
 ---
 
 **The Green Toys Fire Truck: The Toddler-Proof Fire Engine That Won’t End Up in a Landfill**

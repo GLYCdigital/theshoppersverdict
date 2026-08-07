@@ -1,4 +1,5 @@
 ---
+
 title: "Wella Professionals Invigo Nutri-Enrich Mask Deep Nourishing"
 seo_title: "Wella Professionals Invigo Nutri-Enrich Mask Deep  Review"
 meta_description: "Our full wella professionals invigo nutri-enrich mask deep nourishing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CH3YWY8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i1Pb7JO-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most drugstore hair masks are glorified conditioners. The Wella Invigo Nutri-Enrich Mask is not that. This is a professional-grade treatment that behaves like it belongs in a salon backbar — because it does. Wella's Invigo line targets specific hair stressors, and this Nutri-Enrich iteration is engineered for one job: pulling dry, brittle, chemically-stressed hair back from the brink.

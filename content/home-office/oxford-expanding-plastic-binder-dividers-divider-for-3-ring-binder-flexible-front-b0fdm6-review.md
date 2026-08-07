@@ -1,4 +1,5 @@
 ---
+
 title: "Oxford Expanding Plastic Binder Dividers, Divider for 3 Ring"
 seo_title: "Oxford Expanding Plastic Binder Dividers, Divider  Review"
 meta_description: "Our full oxford expanding plastic binder dividers, divider for 3 ring review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDM6TYZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lbgBpdZpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a paper divider rip clean out of a three-ring binder two weeks into a semester, you know the pain. The Oxford Expanding Plastic Binder Dividers are engineered specifically to solve that problem — and they mostly succeed.

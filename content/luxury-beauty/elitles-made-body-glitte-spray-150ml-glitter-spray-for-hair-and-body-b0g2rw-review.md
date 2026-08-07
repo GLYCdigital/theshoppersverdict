@@ -1,4 +1,5 @@
 ---
+
 title: "Elitles Made Body Glitter Spray Review: 150ML Hair & Body Shimmer"
 seo_title: "Elitles Made Body Glitter Spray Review (2026): Is It Worth It?"
 meta_description: "Honest Elitles Made Body Glitter Spray review: 150ML glitter spray for hair & body. Tested for fallout, longevity & shimmer payoff. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G2RWC3BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814Se81DdWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fine-mist nozzle delivers even, buildable glitter without clumping or wet spots"
   - "Dries quickly with minimal fallout — glitter stays put through a full evening"
   - "Works on both hair and skin, cutting down the number of products you need"
-cons:
+cons: 
   - "Scent is noticeable and sweet — not ideal if you're sensitive to fragrance"
   - "Removal requires shampoo or body wash; it doesn't just brush out"
   - "150ML bottle may feel small for frequent festival or event use"
+
 ---
 
 Here's the honest truth about glitter sprays: most of them either dump glitter chunks all over your shoulders or dry into a stiff, flaky mess. The Elitles Made Body Glitter Spray manages to avoid both traps, and that's exactly why it's sitting at 4.2 stars across 210 ratings. But before you add it to your cart, there are a few things you need to know.

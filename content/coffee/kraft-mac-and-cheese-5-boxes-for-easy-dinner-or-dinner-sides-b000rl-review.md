@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft Mac and Cheese, 5 Boxes, for Easy Dinner or Dinner Sid"
 seo_title: "Kraft Mac and Cheese, 5 Boxes, for Easy Dinner or  Review"
 meta_description: "Our full kraft mac and cheese, 5 boxes, for easy dinner or dinner sid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000RLR0JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816lKoPKueL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the nostalgia: Kraft Mac and Cheese isn't gourmet, and it's not pretending to be. But this five-box bundle earns its 4.8-star rating from 240 buyers for one simple reason — it delivers exactly what it promises, every single time. As shown in the product image, you're getting five identical 7.25-ounce boxes of the Original recipe, the ones with the iconic blue box that hasn't changed in decades.

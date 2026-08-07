@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Spatula Silicone Spatula Set - Cuttte 2pcs Small Makeup"
 seo_title: "Mini Spatula Silicone Spatula Set - Cuttte 2pcs Sm Review"
 meta_description: "Our full mini spatula silicone spatula set - cuttte 2pcs small makeup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09XDYPXMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Df7um0-yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever gouged a $60 moisturizer jar with a cotton swab trying to get the last quarter-ounce out, this Cuttte mini spatula set is about to become your best friend. These two 6.7-inch scrapers (one flat, one angled) are marketed for makeup, but they're honestly just as useful in the kitchen—and at 4.7 stars across 235 ratings, shoppers seem to agree.

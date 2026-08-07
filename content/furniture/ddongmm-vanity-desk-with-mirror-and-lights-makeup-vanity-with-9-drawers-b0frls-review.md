@@ -1,4 +1,5 @@
 ---
+
 title: "DDONGMM Vanity Desk with Mirror and Lights, Makeup Vanity wi"
 seo_title: "DDONGMM Vanity Desk Review: 9-Drawer Lighted Makeup Table"
 meta_description: "Honest DDONGMM vanity desk review: 9 drawers, 3-color LED mirror, build quality, assembly time, and who should buy it. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRLSRM5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pkKYqrGdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three-color adjustable LED mirror with dimmable touch controls (warm, natural, cool)"
   - "Nine functional drawers — not just decorative — with smooth metal slides rated for daily use"
   - "Solid engineered wood frame with a waterproof, scratch-resistant surface that cleans up in seconds"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes even with two people; drawer alignment is fiddly"
   - Mirror is not height-adjustable — tall users (over 5'8 inch ") will need to add a stool or riser
   - "LED power cord is short (about 4 feet), so placement near an outlet is mandatory"
+
 ---
 
 **Is the DDONGMM Vanity Desk the storage-heavy, Hollywood-style setup your bedroom has been missing — or just another wobbly Amazon special? I dug through 220 ratings and the spec sheet to find out.**

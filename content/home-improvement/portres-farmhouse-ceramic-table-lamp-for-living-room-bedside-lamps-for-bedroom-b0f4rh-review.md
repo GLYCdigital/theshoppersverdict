@@ -1,4 +1,5 @@
 ---
+
 title: "PORTRES Farmhouse Ceramic Table Lamp for Living Room Bedside"
 seo_title: "PORTRES Farmhouse Ceramic Table Lamp for Living Ro Review"
 meta_description: "Our full portres farmhouse ceramic table lamp for living room bedside review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4RHMNZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lJTW5HkCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the farmhouse-chic marketing for a second. The PORTRES ceramic table lamp is a solid, no-nonsense piece of lighting that earns its 4.4-star rating through honest construction rather than flashy features. Here's what you need to know before you add it to your cart.

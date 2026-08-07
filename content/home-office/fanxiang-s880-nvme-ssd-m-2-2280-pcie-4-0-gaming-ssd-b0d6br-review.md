@@ -1,4 +1,5 @@
 ---
+
 title: "fanxiang S880 NVMe SSD M.2 2280 PCIe 4.0 Gaming SSD"
 seo_title: "fanxiang S880 NVMe SSD M.2 2280 PCIe 4.0 Gaming SS Review"
 meta_description: "Our full fanxiang s880 nvme ssd m.2 2280 pcie 4.0 gaming ssd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6BRDB9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51l1+tMIEGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # fanxiang S880 NVMe SSD Review: Budget PCIe 4.0 Speed Without the Brand Tax

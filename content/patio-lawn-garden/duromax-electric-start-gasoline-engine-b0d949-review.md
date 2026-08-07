@@ -1,4 +1,5 @@
 ---
+
 title: "DuroMax Electric Start Gasoline Engine"
 seo_title: "DuroMax Electric Start Engine Review: Worth It? (2026)"
 meta_description: "DuroMax Electric Start Gasoline Engine review: real power, easy starts, but check noise levels. Honest pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D949NC6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dPIhOdQPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Electric start eliminates pull-cord frustration — one button and it fires up reliably, even after sitting for weeks"
   - "Genuine 7 HP (196cc) OHV engine delivers consistent torque for log splitters, pressure washers, and tillers"
   - "Cast iron cylinder sleeve extends engine life significantly compared to aluminum-sleeve competitors"
-cons:
+cons: 
   - "Battery and charger are NOT included — an extra $40-60 you must budget for immediately"
   - "Noticeably louder than comparable Honda or Yamaha engines at full throttle; hearing protection is mandatory"
   - "Oil not included in the box, which catches many first-time buyers off guard"
+
 ---
 
 Let me be direct about the DuroMax Electric Start Gasoline Engine: this is a workhorse, not a showhorse. If you're tired of yanking a pull cord 15 times before your log splitter or pressure washer roars to life, the electric start alone justifies a serious look. But there are a few things you need to know before clicking "add to cart."

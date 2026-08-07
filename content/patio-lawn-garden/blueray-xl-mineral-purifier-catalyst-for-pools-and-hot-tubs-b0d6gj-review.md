@@ -1,4 +1,5 @@
 ---
+
 title: "Blueray XL - Mineral Purifier & Catalyst for Pools and Hot T"
 seo_title: "Blueray XL Pool Mineral Purifier Review: Cut Chlorine 80%"
 meta_description: "Blueray XL mineral purifier review: Does this copper-silver catalyst really cut chlorine needs? Real specs, buyer feedback, and honest verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GJM33F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81ZBMJbiDIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drops chlorine demand by 60–80% once the mineral bed activates (typically 2–3 weeks)"
   - "Eliminates the harsh chemical smell and eye burn that heavy chlorine dosing causes"
   - "Works for both pools and hot tubs — one unit covers up to 25,000 gallons"
-cons:
+cons: 
   - "Not a standalone sanitizer — you still need a residual oxidizer (chlorine, bromine, or peroxide)"
   - "Initial activation period means you won't see full benefits for the first few weeks"
   - "Requires quarterly cartridge replacement (~$60–80 per year in ongoing costs)"
+
 ---
 
 If you're tired of that chemical fog hanging over your pool or the chlorine smell that lingers on your skin after a hot tub soak, the Blueray XL promises a different path. It's a mineral purifier that uses copper and silver ions to handle the heavy lifting so your chlorine does less work. With a 4.6-star average across 229 ratings, it's clearly winning converts — but it's not the plug-and-play miracle some listings imply.

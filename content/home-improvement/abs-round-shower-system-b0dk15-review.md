@@ -1,4 +1,5 @@
 ---
+
 title: "ABS Round Shower System"
 seo_title: "ABS Round Shower System Review: Honest Buyer's Guide"
 meta_description: "Read our honest ABS Round Shower System review. See real pros, cons, and buyer feedback before you install. 4.5/5 rating on Amazon."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK15HYLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sAl4jvd2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pressure-balanced valve maintains consistent water temperature even when toilet flushes"
   - "Full 10-inch ABS rainfall head delivers wide, even coverage without the weight of metal units"
   - "Complete kit includes valve, trim, head, wand, and hose — no hidden parts to buy separately"
-cons:
+cons: 
   - "ABS plastic body feels less premium than brass or stainless steel for the same price range"
   - "Installation requires access behind the wall for the valve body, making retrofits more complex"
+
 ---
 
 # ABS Round Shower System Review: Plenty of Coverage, Minimal Hassle

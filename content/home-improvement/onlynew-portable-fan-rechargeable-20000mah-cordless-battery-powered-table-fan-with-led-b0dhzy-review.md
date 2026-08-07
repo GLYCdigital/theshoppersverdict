@@ -1,4 +1,5 @@
 ---
+
 title: "ONLYNEW Portable Fan Rechargeable, 20000mAh Cordless Battery"
 seo_title: "ONLYNEW Portable Fan Rechargeable, 20000mAh Cordle Review"
 meta_description: "Our full onlynew portable fan rechargeable, 20000mah cordless battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHZYBFQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aC7zM4tZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever sweated through a power outage or baked inside a tent in July, you know the problem with most portable fans: they die before you do. The ONLYNEW Portable Fan takes a different approach — it stuffs a 20000mAh battery into a cordless unit that claims to run for up to 60 hours. That's not marketing math; that's real staying power. Here's what 225 Amazon reviewers at 4.5 stars actually think after using it.

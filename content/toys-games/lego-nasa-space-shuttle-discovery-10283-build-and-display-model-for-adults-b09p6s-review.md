@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NASA Space Shuttle Discovery 10283 Build and Display Mo"
 seo_title: "LEGO NASA Space Shuttle Discovery 10283 Build and  Review"
 meta_description: "Our full lego nasa space shuttle discovery 10283 build and display mo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09P6SJHHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZXqmiNH1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **LEGO NASA Space Shuttle Discovery 10283 Build and Display Mo** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

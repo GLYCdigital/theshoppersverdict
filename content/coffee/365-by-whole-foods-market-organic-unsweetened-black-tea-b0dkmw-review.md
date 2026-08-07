@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Unsweetened Black Tea"
 seo_title: "365 Organic Black Tea Review: Honest Buyer's Guide"
 meta_description: "Read our 365 by Whole Foods Market Organic Unsweetened Black Tea review. 4.2/5 rating. Taste, strength, value, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DKMW7S9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512pdUkv+IL._SL1000_.jpg"
-pros:
+pros: 
   - "Clean, single-origin organic black tea taste with no bitterness even after 4+ minutes of steeping"
   - "Individually wrapped bags keep tea fresh and make it ideal for office or travel use"
   - "Surprisingly robust caffeine kick for an unsweetened tea — comparable to a light coffee"
-cons:
+cons: 
   - "No string or tag on the tea bags — you'll need a spoon or your fingers to fish them out"
   - "Flavor profile leans earthy/malty rather than bright or floral — not for Darjeeling fans"
+
 ---
 
 ## The Budget Organic Tea That Actually Tastes Like Tea

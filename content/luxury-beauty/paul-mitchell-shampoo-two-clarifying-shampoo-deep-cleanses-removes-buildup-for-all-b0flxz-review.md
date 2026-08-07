@@ -1,4 +1,5 @@
 ---
+
 title: "Paul Mitchell Shampoo Two, Clarifying Shampoo, Deep Cleanses"
 seo_title: "Paul Mitchell Shampoo Two, Clarifying Shampoo, Dee Review"
 meta_description: "Our full paul mitchell shampoo two, clarifying shampoo, deep cleanses review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLXZ5798/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mwA9q+tLL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dumped half a bottle of "moisturizing" shampoo into your palm hoping to fix limp, dull hair, you already know the problem: buildup. Styling products, hard water minerals, and even your own natural oils coat the strand over time, and no amount of creamy sulfate-free washing will cut through it. Paul Mitchell Shampoo Two is the blunt instrument that solves this — a professional-grade clarifying wash that's been a salon staple for decades.

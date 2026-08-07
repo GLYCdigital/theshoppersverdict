@@ -1,4 +1,5 @@
 ---
+
 title: "Eyrosa Solar Outdoor Lights, 10 Pack Solar Pathway Lights Ou"
 seo_title: "Eyrosa Solar Outdoor Lights Review: 10-Pack Worth It?"
 meta_description: "Honest Eyrosa solar pathway lights review: brightness, build quality, waterproofing, battery life, and real buyer feedback. See if this 10-pack delivers value."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GL37GSN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WKVM1OgHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm 3000K light output that actually illuminates walkways rather than just marking edges"
   - "Full 10-pack at a price point that undercuts most 4-packs from big brands"
   - "IP65 waterproofing with sealed seams that survived heavy rain in multiple owner reports"
-cons:
+cons: 
   - "Plastic housing feels lighter-duty than premium metal fixtures — rough handling could crack it"
   - "Battery life drops noticeably in winter months or overcast stretches, like most solar units"
   - "Auto on/off sensor needs 3-4 full sunny days to calibrate before run time stabilizes"
+
 ---
 
 If you're tired of tripping over garden hoses at dusk, the Eyrosa 10-pack of solar pathway lights deserves a hard look. At 4.5 stars from 225 buyers, this set isn't just another cheap Amazon solar gamble — it's the kind of purchase that either saves you $80 or teaches you why you should have spent it. Here's what 10 of these stakes actually do once you get them home.

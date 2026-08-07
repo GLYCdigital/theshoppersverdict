@@ -1,4 +1,5 @@
 ---
+
 title: "GAINO Lawn Aerator & Aerator Lawn Tool - Manual Yard Aerator"
 seo_title: "GAINO Lawn Aerator Review: Manual Yard Aerator (2026)"
 meta_description: "Read our GAINO manual lawn aerator review. Tested for build quality, soil penetration, and ease of use. See if this spike aerator fits your yard."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DTTM1S4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dib2JePbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four hollow steel spikes penetrate compacted clay without bending, even in dry soil"
   - Adjustable handle height accommodates users from 5'2 inch " to 6'4 inch " without back strain
   - "Solid steel foot bar distributes weight evenly, so you can drive the tines with one stomp"
-cons:
+cons: 
   - "No core plug removal — this is a spike aerator, so it compacts soil at the edges of each hole"
   - "Handle grip is basic foam; after 45 minutes of use, hot spots develop on the palms"
+
 ---
 
 Let me be direct: a manual lawn aerator is one of those tools that looks simple but separates the good designs from the gimmicks within the first ten minutes of use. The GAINO Lawn Aerator sits firmly in the "good design" camp, though it has a few compromises worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "JumpFlex Hero Round Outdoor Backyard Trampoline with Net Saf"
 seo_title: "JumpFlex Hero Round Outdoor Backyard Trampoline wi Review"
 meta_description: "Our full jumpflex hero round outdoor backyard trampoline with net saf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWRTKFMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7147bWVAHTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The JumpFlex Hero: The Backyard Trampoline That Actually Respects Your Time**

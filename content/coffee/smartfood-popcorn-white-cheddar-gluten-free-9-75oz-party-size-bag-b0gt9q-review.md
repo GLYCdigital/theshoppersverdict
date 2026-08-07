@@ -1,4 +1,5 @@
 ---
+
 title: "Smartfood Popcorn, White Cheddar, Gluten Free, 9.75oz Party "
 seo_title: "Smartfood Popcorn, White Cheddar, Gluten Free, 9.7 Review"
 meta_description: "Our full smartfood popcorn, white cheddar, gluten free, 9.75oz party  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GT9QFLKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZBAzygDCL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with a confession: I've burned through more bags of Smartfood White Cheddar than I care to admit. The 9.75oz party size is the version I grab when I know I'll have company — or when I'm being honest with myself about how much popcorn I'll eat alone over a weekend.

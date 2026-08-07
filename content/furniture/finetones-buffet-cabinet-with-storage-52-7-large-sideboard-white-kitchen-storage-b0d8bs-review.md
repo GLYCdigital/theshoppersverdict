@@ -1,4 +1,5 @@
 ---
+
 title: "FINETONES Buffet Cabinet With Storage, 52.7 inch  Large Sideboard"
 seo_title: "FINETONES Buffet Cabinet Review: 52.7 inch  Sideboard Tested"
 meta_description: "FINETONES 52.7 inch  buffet cabinet review: 225+ ratings at 4.5 stars. Solid build, ample storage, honest pros & cons. See who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8BS66LV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T6QgvvvsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-door design with adjustable shelves — interior height runs about 13 inches per shelf, enough for stacked dinner plates or a stand mixer"
   - "Pre-drilled cam lock assembly points are exceptionally precise; most buyers report full assembly in 45–60 minutes with the included hex wrench"
   - "MDF frame wrapped in a matte, scratch-resistant laminate that doesn't show fingerprints — a real plus in high-traffic dining areas"
-cons:
+cons: 
   - "Back panel is thin fiberboard held by small pins — you'll want to secure it with the included screws or it can rattle after a year of use"
   - "No soft-close hinges at this price point; the doors close with a solid thunk unless you install dampers yourself"
+
 ---
 
 If you've been scrolling past a dozen generic sideboards that all look like they'd topple if you looked at them wrong, here's why the FINETONES 52.7-inch buffet cabinet might actually merit a spot in your dining room.

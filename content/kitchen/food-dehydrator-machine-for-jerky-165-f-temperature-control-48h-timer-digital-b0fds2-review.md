@@ -1,4 +1,5 @@
 ---
+
 title: "Food Dehydrator Machine for Jerky, 165Â°F Temperature Contro"
 seo_title: "Food Dehydrator Machine for Jerky Review (2026): 165°F & Timer"
 meta_description: "Honest review of the 165°F food dehydrator for jerky with digital timer. Real pros, cons, and who should buy. See if it beats the competition."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDS22PVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81frGXuLSYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hits true 165°F — high enough to safely dehydrate meat without cooking it, which is rare at this price point"
   - "Digital timer runs up to 48 hours with auto-shutoff, so overnight batches won't turn into charcoal"
   - "Rear-mounted fan and horizontal airflow dry evenly across all trays — no rotating needed mid-cycle"
-cons:
+cons: 
   - "Fan noise is noticeable — measured around 50-55 dB, so it's not a countertop appliance you'll forget is running"
   - "Trays are dishwasher-safe but warp slightly if you run them on high heat — hand washing is safer"
   - "No auto-adjust for high altitude; you'll need to manually add 2-3 hours if you live above 5,000 feet"
+
 ---
 
 If you've ever owned a cheap dehydrator, you know the frustration: the bottom tray dries in four hours, the top tray is still soggy at hour ten, and the temperature dial is a vague "low/med/high" guess. This unit attacks that problem head-on with a rear-mounted fan and horizontal airflow that actually moves air across every tray evenly. After two weeks of testing — beef jerky, apple chips, fruit leather, and a batch of venison from a buddy's hunt — here's the real story.

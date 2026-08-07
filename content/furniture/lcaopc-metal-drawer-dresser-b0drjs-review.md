@@ -1,4 +1,5 @@
 ---
+
 title: "LCAOPC Metal Drawer Dresser"
 seo_title: "LCAOPC Metal Drawer Dresser Review: Verdict | TSV"
 meta_description: "Our full lcaopc metal drawer dresser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DRJS9XST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y7tpZd9sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A metal dresser under $100 usually screams “dorm room compromise.” The LCAOPC Metal Drawer Dresser sits in a slightly better spot — it’s genuinely sturdier than the cheap particleboard alternatives, but it still has the classic fabric-drawer tradeoffs you need to know about before you click buy.

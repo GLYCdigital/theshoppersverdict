@@ -1,4 +1,5 @@
 ---
+
 title: "LIFETIME Products Crank Adjust In Ground Basketball Tempered"
 seo_title: "LIFETIME Products Crank Adjust In Ground Basketbal Review"
 meta_description: "Our full lifetime products crank adjust in ground basketball tempered review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B018M2KEG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pm+v9WO3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LIFETIME crank-adjust in-ground hoop is the answer for families tired of portable hoops that wobble on every shot. But it's a serious commitment — both in concrete and assembly time. Here's what you need to know before you break ground in your driveway.

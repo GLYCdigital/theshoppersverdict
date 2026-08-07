@@ -1,4 +1,5 @@
 ---
+
 title: "Basco Deluxe 56 inch  to 58 inch  Framed Sliding Glass Tub Door obscur"
 seo_title: "Basco Deluxe 56-58 inch  Sliding Tub Door Review: Worth It?"
 meta_description: "Basco Deluxe 56 inch  to 58 inch  framed sliding tub door review: build quality, installation ease, privacy glass pros/cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01G37Z5I0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YfECOssaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Obscure glass provides genuine privacy without a curtain — no more foggy liner sticking to your legs"
   - Fits 56 inch " to 58 inch " openings with adjustment built into the frame, not shims you have to cut
   - "Aluminum frame with factory-installed rollers glides smoothly right out of the box"
-cons:
+cons: 
   - "Installation is a two-person job — the assembled unit is heavy and awkward for solo DIYers"
   - "Obscure glass texture makes water spots more visible than clear glass; you'll wipe it down more often"
   - "No towel bar included — expect to buy one separately if your old door had one"
+
 ---
 
 # Basco Deluxe Sliding Tub Door Review: Solid Privacy, But Bring a Friend to Install It

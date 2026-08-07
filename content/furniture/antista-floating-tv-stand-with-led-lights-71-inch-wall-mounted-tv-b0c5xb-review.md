@@ -1,4 +1,5 @@
 ---
+
 title: "ANTISTA Floating TV Stand with Led Lights, 71 inch Wall Moun"
 seo_title: "ANTISTA Floating TV Stand Review: 71-Inch Wall Mount LED"
 meta_description: "Honest ANTISTA 71-inch floating TV stand review: build quality, LED lighting, mounting difficulty, and whether this wall-mounted unit is worth your money."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C5XB919N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fpInXw4DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid particleboard construction with a sturdy 6-point wall mount system rated for TVs up to 110 lbs"
   - "Full-width RGB LED strip with remote control — 16 colors, 4 brightness levels, and music-sync mode"
   - "Open shelving design accommodates soundbars up to 4 inches tall and most AV receivers without clearance issues"
-cons:
+cons: 
   - "LED strip is adhesive-backed only — several buyers report it peeling from the bottom edge within 3-6 months"
   - "Cable management channels are shallow; thick HDMI or power cables won't fit flush behind the unit"
+
 ---
 
 # ANTISTA Floating TV Stand with LED Lights: Wall-Mounted Style That Demands a Stud Finder

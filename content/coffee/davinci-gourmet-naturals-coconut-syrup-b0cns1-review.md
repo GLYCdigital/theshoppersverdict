@@ -1,4 +1,5 @@
 ---
+
 title: "DaVinci Gourmet Naturals Coconut Syrup"
 seo_title: "DaVinci Gourmet Naturals Coconut Syrup Review (2026)"
 meta_description: "Honest DaVinci Gourmet Naturals Coconut Syrup review: taste, uses, and limitations. See if this 25.4-oz bottle deserves a spot in your coffee bar."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNS1X49C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wGYmnjOyL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, natural coconut flavor that tastes like fresh coconut meat, not sunscreen or artificial candy"
   - "Works hot or cold — dissolves easily in iced lattes without clumping or sinking"
   - "No high-fructose corn syrup or artificial colors; sweetened with cane sugar"
-cons:
+cons: 
   - "Pump not included — you'll need to buy one separately or pour carefully"
   - "Flavor is subtle in milk-heavy drinks; you may need 2 tablespoons per 16-oz latte"
   - "Some buyers report the cap can leak if stored on its side"
+
 ---
 
 If you've ever ordered a coconut latte at a café and wondered why it tastes like a piña colada candle, you know the struggle. DaVinci Gourmet Naturals Coconut Syrup aims to fix that. It's the syrup baristas reach for when they want coconut flavor that actually tastes like coconut — not artificial suntan lotion. After 225 ratings holding a solid 4.5-star average, it's clearly doing something right. Here's the honest breakdown.

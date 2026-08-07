@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Korean Cooking Korean Stone Bowl (Dolsot), Sizzling Ho"
 seo_title: "Crazy Korean Cooking Dolsot Review: Sizzling Bibimbap Bowl"
 meta_description: "Crazy Korean Cooking stone bowl (dolsot) review: Does this sizzling pot deliver crispy bibimbap rice? We test heat retention, size, and durability."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07CPW2427/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xDQQmh7VS._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine stoneware that creates a deep, crispy rice crust (nurungji) in under 5 minutes on a gas stove"
   - "Thick 1.5cm walls retain heat so aggressively that food keeps sizzling 10+ minutes after you pull it off the burner"
   - "Comes with wooden serving coasters and a silicone lid — thoughtful touches you don't get with cheaper clay pots"
-cons:
+cons: 
   - "Requires hand-washing only; the stone absorbs oil and soap residue if you're not diligent, leaving a faint taste on first reuse"
   - "Small 4.5-inch diameter means you can't pack it full — one egg, rice, and a few toppings max before it overflows"
+
 ---
 
 You've seen the YouTube videos: that perfect Korean stone bowl where the rice crackles and crisps into a golden crust while the egg still wobbles on top. The Crazy Korean Cooking dolsot promises exactly that. After two weeks of making bibimbap, doenjang jjigae, and even fried rice in this thing, here's what you need to know before you spend your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Samtop Remote Control Excavator Toys, 11 Channel 1:20 RC Con"
 seo_title: "Samtop Remote Control Excavator Toys, 11 Channel 1 Review"
 meta_description: "Our full samtop remote control excavator toys, 11 channel 1:20 rc con review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMZY3F54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HDFsnwEiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Samtop 11-Channel RC Excavator is one of those rare toys that genuinely surprises you. At 1:20 scale, it's big enough to feel substantial in hand — roughly 17 inches long — but what sets it apart is the control scheme. This isn't a single-button "do the thing" toy. Dual joysticks give you independent control over the tracks, the 360° rotating cab, the boom arm, and the bucket. If you've ever watched a real excavator operator and wondered what those levers do, this toy answers that question with surprising fidelity.

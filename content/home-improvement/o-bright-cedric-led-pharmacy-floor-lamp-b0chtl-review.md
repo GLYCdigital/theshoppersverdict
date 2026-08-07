@@ -1,4 +1,5 @@
 ---
+
 title: "Oâ€™Bright Cedric - LED Pharmacy Floor Lamp"
 seo_title: "Oâ€™Bright Cedric - LED Pharmacy Floor Lamp Review: Verdi"
 meta_description: "Our full oâ€™bright cedric - led pharmacy floor lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CHTLTBD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qCbQMEs+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The O’Bright Cedric isn’t your grandfather’s pharmacy lamp. It’s a modern LED floor lamp that borrows the classic adjustable-arm silhouette but swaps the incandescent bulb for a 12W LED array pushing 1100 lumens. That’s roughly equivalent to a 75W incandescent—bright enough to read fine print, detail a model car, or inspect a solder joint. At 4.3 stars across 215 ratings, it’s clearly earning its keep in most homes. But let’s dig into whether it earns a spot in yours.

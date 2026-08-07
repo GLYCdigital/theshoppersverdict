@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS Outdoor Garden Hose Sprinkler Water Timer"
 seo_title: "DEWENWILS Garden Hose Sprinkler Timer Review (2026)"
 meta_description: "Honest DEWENWILS outdoor water timer review: dual outlets, rain delay, brass fittings. See pros, cons, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FFB8ZV9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M5phYBgfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual independent outlets let you run two zones with separate schedules from one spigot"
   - "Brass inlet and outlet fittings hold up far better than the plastic threads found on cheaper timers"
   - "IP54 weather resistance plus a protective cover flap keeps the display functional through real rain"
-cons:
+cons: 
   - "No Wi-Fi or app control — you're limited to the onboard buttons and screen"
   - "Some users report the threads can bind if you overtighten; hand-tighten only"
   - "Battery life is decent but not stellar — expect to swap AAs mid-season if you run frequent cycles"
+
 ---
 
 If you're still getting up at 5:45 AM to move a sprinkler before work, this review is for you. The DEWENWILS Outdoor Garden Hose Sprinkler Water Timer promises to automate the drudgery of lawn watering for around $30–$40. After digging through 200 ratings and the spec sheet, here's the real story — including where it frustrates.

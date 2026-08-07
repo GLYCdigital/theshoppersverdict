@@ -1,4 +1,5 @@
 ---
+
 title: "Laura Mercier Caviar Tightline Eyeliner: Long Lasting Color,"
 seo_title: "Laura Mercier Caviar Tightline Eyeliner: Long Last Review"
 meta_description: "Our full laura mercier caviar tightline eyeliner: long lasting color, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJC2K7ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TtvG8MezL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The tightline is the most unforgiving makeup move there is.** Miss the waterline by a hair and you've got a gap. Jab yourself and you're crying for ten minutes. Laura Mercier's Caviar Tightline Eyeliner claims to solve this with a precision tip and a gel formula that's "crease-proof" and "waterproof." Does it deliver? After digging through 204 ratings and testing the mechanics, here's the real story.

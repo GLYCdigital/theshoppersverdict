@@ -1,4 +1,5 @@
 ---
+
 title: "ACANA Large Breed Dry Dog Food"
 seo_title: "ACANA Large Breed Dog Food Review (2026): Worth It?"
 meta_description: "Honest ACANA Large Breed Dry Dog Food review: ingredients, portion sizes, and whether this premium kibble justifies its price for big dogs."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHB71S1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LfQ2n6wfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First five ingredients are all animal proteins (deboned chicken, chicken meal, turkey meal, whole herring, and chicken liver) — genuinely meat-forward formula"
   - "Kibble size and shape designed specifically for large breed jaws, with moderate calorie density (around 370 kcal/cup) to support healthy growth in puppies and weight maintenance in adults"
   - "Includes glucosamine and chondroitin from natural sources (chicken cartilage and fish) rather than synthetic supplements"
-cons:
+cons: 
   - "Significantly more expensive per pound than most large-breed kibbles — expect to pay 30-50% more than brands like Purina Pro Plan or Hill's"
   - "Contains pea starch and lentil fiber as carbohydrate sources, which some dogs with sensitive stomachs may struggle to digest"
   - "No grain-free option for owners who prefer that; this formula includes whole oats and barley, though that's actually a plus for most dogs"
+
 ---
 
 **The $90 Question: Is ACANA Large Breed Worth the Premium?**

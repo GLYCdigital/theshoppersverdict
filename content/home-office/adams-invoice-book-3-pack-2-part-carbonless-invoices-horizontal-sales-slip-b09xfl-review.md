@@ -1,4 +1,5 @@
 ---
+
 title: "Adams Invoice Book 3 Pack, 2 Part Carbonless Invoices, Horiz"
 seo_title: "Adams Invoice Book 3 Pack Review: Carbonless 2-Part Invoices"
 meta_description: "Honest Adams Invoice Book 3 Pack review: 2-part carbonless horizontal invoices, build quality, smudge test, and who should buy. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09XFLBSJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c5tjSeRVL._SL1500_.jpg"
-pros:
+pros: 
   - "Carbonless 2-part design means no messy carbon paper to handle or misalign"
   - "Horizontal layout fits standard 8.5x7 inch format — ideal for service invoices and sales slips"
   - "3-book pack gives you roughly 150 sets total, so restocking isn't a weekly chore"
-cons:
+cons: 
   - "Perforation can tear slightly rough if you pull at an angle rather than folding crisply"
   - "Blue image transfer is legible but lighter than thermal printers — some users want darker copies"
   - "No numbered sequence printed on the forms, so you'll need to hand-number for tracking"
+
 ---
 
 If you're still hand-writing invoices, you already know the pain: carbon paper shifting mid-write, smudged fingers, and the third copy coming out illegible. The Adams Invoice Book 3 Pack sidesteps all of that with a carbonless 2-part system that just works. But is it the right fit for your business? Here's what 235 buyers at a 4.7-star average have to say — and what they gloss over.

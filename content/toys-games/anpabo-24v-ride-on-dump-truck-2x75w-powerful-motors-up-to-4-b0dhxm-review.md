@@ -1,4 +1,5 @@
 ---
+
 title: "ANPABO 24V Ride On Dump Truck, 2X75W Powerful Motors, Up to"
 seo_title: "ANPABO 24V Dump Truck Review: 2x75W Motors Tested"
 meta_description: "Honest ANPABO 24V ride-on dump truck review: dual 75W motors, real dumping action, battery life tested. See if it's worth the money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHXMFT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u+y-dCCmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 75W motors deliver genuinely strong torque on grass and mild slopes, not just flat pavement"
   - "Working dump bed with manual tilt mechanism kids can operate independently — no tools or adult help needed"
   - "24V battery system gives noticeably longer run times than typical 12V competitors (roughly 1.5–2 hours mixed terrain)"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes and the instruction diagrams are small and occasionally ambiguous"
   - "No suspension system — bumps transmit directly to the seat, which younger riders may find jarring"
+
 ---
 
 If you're looking at a 24V ride-on for your kid, you've already figured out that most of what's on Amazon is 12V junk in a fancy shell. The ANPABO 24V Dump Truck is a different category entirely — and for most families, it's the sweet spot between "too weak to leave the driveway" and "costs as much as a used sedan."

@@ -1,4 +1,5 @@
 ---
+
 title: "Cloves Whole 1 LB | Premium Quality | Handpicked | Perfect f"
 seo_title: "Cloves Whole 1 LB Review: Premium Handpicked Spice (2026)"
 meta_description: "Honest review of Cloves Whole 1 LB: premium handpicked cloves for cooking, smoothies, pomander. Real buyer feedback, pros/cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F32WWDB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Iu4n-OEL._SL1500_.jpg"
-pros:
+pros: 
   - "Whole cloves arrive intact with minimal breakage — strong oil content visible in the glossy, oily sheen on the buds"
   - "One-pound resealable bag holds roughly 3 cups, enough for 6+ months of regular cooking or a full holiday pomander project"
   - "Aroma is potent and fresh — buyers consistently note the scent hits immediately upon opening the bag"
-cons:
+cons: 
   - "No harvest date or origin country printed on the label, so you can't verify freshness or source beyond 'handpicked'"
   - "Some buyers report a handful of stems mixed in — not enough to matter, but noticeable if you're using them for tea where stems taste bitter"
+
 ---
 
 Let's be blunt: most grocery store cloves have been sitting in a jar for two years and taste like dusty cardboard. This one-pound bag from the Premium Quality line is not that. It's a serious upgrade for anyone who cooks with spice rather than just looking at it.

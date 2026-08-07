@@ -1,4 +1,5 @@
 ---
+
 title: "Berrilys FRUIT"
 seo_title: "Berrilys FRUIT Review: Is It Worth It? (2026)"
 meta_description: "Berrilys FRUIT review: 4.2-star coffee gear with 210 ratings. See real pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5ZHX6XH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X9ykIf8+L._SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint fits easily under standard kitchen cabinets — verified in multiple customer photos"
   - "Consistent 4.2-star rating across 210 reviews suggests dependable build quality"
   - "Simple, tool-free assembly that buyers say takes under 5 minutes out of the box"
-cons:
+cons: 
   - "No included measuring scoop — several reviewers mention needing to buy one separately"
   - "Carafe markings are faint and hard to read in low light, per multiple customer complaints"
+
 ---
 
 Let me be straight with you: the **Berrilys FRUIT** is not a flashy, feature-packed machine. It's not going to brew espresso, froth milk, or connect to your phone. What it *does* do — based on 210 Amazon ratings averaging 4.2 stars — is make a solid cup of coffee without fuss. But is "fuss-free" enough to justify your money? Let's dig in.

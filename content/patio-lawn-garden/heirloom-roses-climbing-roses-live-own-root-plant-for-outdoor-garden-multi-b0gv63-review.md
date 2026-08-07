@@ -1,4 +1,5 @@
 ---
+
 title: "Heirloom Roses Climbing Roses, Live Own Root Plant for Outdo"
 seo_title: "Heirloom Roses Climbing Roses, Live Own Root Plant Review"
 meta_description: "Our full heirloom roses climbing roses, live own root plant for outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GV63FR4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ymL2DAdLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about climbing roses: most box store options are grafted plants with weak root systems that send up rootstock canes and bloom in the wrong color by year two. Heirloom Roses takes a different approach — own-root plants grown from cuttings rather than grafted onto hardy rootstock. That's the headline feature here, and it matters for anyone who's been burned by a "mystery rose" that didn't match the tag.

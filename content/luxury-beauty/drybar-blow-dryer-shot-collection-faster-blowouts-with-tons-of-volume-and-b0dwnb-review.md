@@ -1,4 +1,5 @@
 ---
+
 title: "Drybar Blow-Dryer Shot Collection | Faster Blowouts with Ton"
 seo_title: "Drybar Blow-Dryer Shot Collection Review: Faster Blowouts?"
 meta_description: "Drybar Blow-Dryer Shot Collection review: Does this pre-blowout spray speed up drying and add volume? Real results, ingredients, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DWNBZ1K1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61letscN0OL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably cuts blow-dry time on thick or heavy hair — most reviewers report 20-30% faster drying"
   - "Heat protectant built in, so you get two steps in one spray"
   - "Doesn't leave hair crunchy or stiff — flexibility and movement stay intact"
-cons:
+cons: 
   - "Scent is strong and lingers — if you're sensitive to fragrance, this will bother you"
   - "Volume benefits are modest for fine hair; this is more about speed than lift"
   - "Smaller 4.5oz bottle runs out quickly if you have long or dense hair"
+
 ---
 
 Let me be blunt: most "faster blowout" sprays are marketing dressed up in a pretty bottle. The Drybar Blow-Dryer Shot Collection, though, actually does something measurable — it cuts drying time without turning your hair into a straw-like mess. Here's the full picture after digging through 204 ratings and the ingredient list.

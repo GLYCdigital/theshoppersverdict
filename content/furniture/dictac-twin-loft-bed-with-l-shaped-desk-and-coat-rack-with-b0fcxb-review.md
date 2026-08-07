@@ -1,4 +1,5 @@
 ---
+
 title: "DICTAC Twin Loft Bed with L-Shaped Desk and Coat Rack with 2 inch"
 seo_title: "DICTAC Twin Loft Bed with L-Shaped Desk Review (2026)"
 meta_description: "DICTAC Twin Loft Bed with L-Shaped Desk: sturdy steel frame, smart storage, 4.4★ rating. We tested it. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FCXBSPTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FJkfT7r7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-length guard rails plus built-in ladder on the side — safer than most loft beds in this price bracket"
   - "L-shaped desk layout actually fits a monitor and homework spread without crowding the sleep area"
   - "Coat rack and shelf add vertical storage without eating into the footprint"
-cons:
+cons: 
   - "Assembly is genuinely a two-person job and will take 3–4 hours even with the labeled parts"
   - "Twin-size only — no room for a full or XL mattress if your kid grows into needing more space"
+
 ---
 
 ## Is this loft bed actually worth the floor space?

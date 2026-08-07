@@ -1,4 +1,5 @@
 ---
+
 title: "XAROO 24009 Hummingbird Feeders for Outdoors"
 seo_title: "XAROO 24009 Hummingbird Feeders for Outdoors Review: Verd"
 meta_description: "Our full xaroo 24009 hummingbird feeders for outdoors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXYN1K8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71llhUh2y7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dealt with a hummingbird feeder that drips nectar down the side and attracts a wasp convention, you know the hunt for a good one is real. The XAROO 24009 tries to solve the two biggest complaints in this category—leaks and cleaning—and it mostly succeeds.

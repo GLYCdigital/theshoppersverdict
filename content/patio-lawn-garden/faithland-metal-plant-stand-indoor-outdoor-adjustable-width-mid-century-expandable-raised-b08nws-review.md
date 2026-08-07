@@ -1,4 +1,5 @@
 ---
+
 title: "FaithLand Metal Plant Stand Indoor Outdoor, Adjustable Width"
 seo_title: "FaithLand Metal Plant Stand Review: Adjustable & Sturdy"
 meta_description: "Honest FaithLand metal plant stand review: adjustable width, indoor/outdoor durability, real buyer feedback, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08NWS7FV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81s3eAOGMxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expandable width fits 3–4 pots of varying sizes on a single tier"
   - "Sturdy all-metal construction handles heavy ceramic pots without wobble"
   - "Mid-century design works in both living rooms and covered porches"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver — no hex key included"
   - "Feet lack rubber pads, so add felt protectors for hardwood floors"
+
 ---
 
 If you've ever tried to arrange a collection of potted plants in a corner that's too narrow for a standard shelf, you already know the frustration. The FaithLand Metal Plant Stand tackles that problem directly with an adjustable-width design that stretches to fit your space — and it's earned a 4.7-star average across 235 ratings for good reason.

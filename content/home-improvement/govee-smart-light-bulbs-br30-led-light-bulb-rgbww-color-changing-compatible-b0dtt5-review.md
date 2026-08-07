@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Smart Light Bulbs, BR30 LED Light Bulb, RGBWW Color Ch"
 seo_title: "Govee Smart Light Bulbs, BR30 LED Light Bulb, RGBW Review"
 meta_description: "Our full govee smart light bulbs, br30 led light bulb, rgbww color ch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTT5B3P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61US+b82Z1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're remodeling a basement, upgrading a media room, or just tired of staring at the same warm-white glow from your recessed cans, the Govee BR30 smart bulb deserves a hard look. This is a floodlight-format RGBWW bulb aimed squarely at homeowners who want color control without replacing their entire fixture ecosystem. At a 4.6-star average across 229 ratings, it's clearly earning its keep — but let's talk about what that rating actually means for your specific setup.

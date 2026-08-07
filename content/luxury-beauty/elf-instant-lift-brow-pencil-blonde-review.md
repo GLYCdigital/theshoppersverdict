@@ -1,16 +1,17 @@
 ---
+
 title: "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Precise, Fine Tip, Blonde"
 seo_title: "e.l.f. Instant Lift Brow Pencil Review — 4.6★ at $9.57"
 meta_description: "e.l.f. Instant Lift Brow Pencil review: 14,358 reviews analyzed. Dual-sided brow pencil with fine tip and spoolie. Drugstore price with premium performance."
 slug: "elf-instant-lift-brow-pencil-blonde-review"
 image_alt: "e.l.f. Instant Lift Brow Pencil, Dual-Sided, Precise, Fine Tip, Shapes, Defines, Fills Brows, Blonde"
-keywords:
+keywords: 
   - "e.l.f. instant lift brow pencil review"
   - "elf brow pencil review"
   - "best drugstore brow pencil"
   - "eyebrow makeup review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the e.l.f. Instant Lift Brow Pencil good for beginners?"
     answer: "Yes. The fine tip allows small, hair-like strokes, and the spoolie brush on the other end blends everything out. It's very forgiving for anyone learning to do their brows."
   - question: "Does the Blonde shade work for light hair?"
@@ -23,13 +24,14 @@ review_count: 14358
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PBQZ3KF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51q4yBqcL0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fine tip creates hair-like strokes that look natural"
   - "Dual-sided design with spoolie saves time and products"
   - "Drugstore price with prestige-grade performance"
-cons:
+cons: 
   - "Not as long-wearing as higher-end brow products"
   - "Limited shade range compared to premium brands"
+
 ---
 
 You can spend $40 on a luxury brow pencil and still get smudged, waxy lines by 3 PM. Or you can spend $9.57 on the e.l.f. Instant Lift Brow Pencil and get the kind of precise, natural-looking brows that make people ask if you got them microbladed. I've tested both ends of the spectrum, and this little dual-sided tool is the one I keep reaching for — not because it's cheap, but because it works.

@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees 100% Natural Beeswax Hand Salve, 3 Oz (Package M"
 seo_title: "Burt's Bees Hand Salve Review: Does It Actually Work? (2026)"
 meta_description: "Honest Burt's Bees 100% Natural Beeswax Hand Salve review: ingredients, real results, and who should buy it. See if this 4.7-star classic is worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGNFDB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LPO1vBpvL._SL1500_.jpg"
-pros:
+pros: 
   - "Four-ingredient formula (olive oil, beeswax, honey, rosemary extract) — no synthetic fragrances or petroleum derivatives"
   - "Creates a durable protective barrier that survives handwashing better than most lotions"
   - "3 oz tin lasts 2-3 months with daily use — strong value despite the premium price"
-cons:
+cons: 
   - "Thick, tacky texture takes 5-10 minutes to fully absorb — not ideal for right before typing or handling papers"
   - "Strong herbal scent from rosemary extract that some find medicinal rather than pleasant"
+
 ---
 
 Let me be direct: most hand creams are 90% water, marketing, and regret. Burt's Bees Hand Salve is not that. This 3 oz tin contains four ingredients — olive oil, beeswax, honey, and rosemary extract — and that simplicity is exactly why it has earned a 4.7-star average across 235 Amazon ratings.

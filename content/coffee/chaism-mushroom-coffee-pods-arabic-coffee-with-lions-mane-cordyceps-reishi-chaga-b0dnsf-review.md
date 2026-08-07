@@ -1,4 +1,5 @@
 ---
+
 title: "Chaism Mushroom Coffee Pods - Arabic Coffee with Lions Mane,"
 seo_title: "Chaism Mushroom Coffee Pods Review: Arabic Coffee & Lions Mane"
 meta_description: "Chaism Mushroom Coffee Pods review: Arabic coffee with Lions Mane, Cordyceps, Reishi & Chaga. Real taste test, pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNSF3JBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KYJpIPU6L._SL1500_.jpg"
-pros:
+pros: 
   - "Four functional mushroom strains (Lions Mane, Cordyceps, Reishi, Chaga) in a single pod — rare in the coffee pod market"
   - "Cardamom-spiced Arabic coffee profile that actually tastes like coffee, not dirt or medicine"
   - "Compatible with most single-serve brewers including Keurig 2.0 systems"
-cons:
+cons: 
   - "Each pod runs roughly $1.50–$2.00 — noticeably pricier than standard K-Cups"
   - "The spice-forward flavor won't suit black-coffee purists who prefer a clean, unadulterated roast"
   - "Mushroom extract dosage per cup is modest; don't expect a dramatic cognitive shift"
+
 ---
 
 # Chaism Mushroom Coffee Pods Review: Does the Arabic Coffee + Lions Mane Blend Deliver?

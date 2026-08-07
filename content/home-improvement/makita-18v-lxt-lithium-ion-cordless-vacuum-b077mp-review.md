@@ -1,4 +1,5 @@
 ---
+
 title: "Makita 18V LXT Lithium-Ion Cordless Vacuum"
 seo_title: "Makita 18V LXT Lithium-Ion Cordless Vacuum Review: Verdic"
 meta_description: "Our full makita 18v lxt lithium-ion cordless vacuum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B077MPQLL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517Putv4zVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita 18V LXT Cordless Vacuum (model XCV04Z) is the tool you grab when you're tired of dragging a shop vac around a job site but still want actual suction — not the weak whisper of a car vac. With 220 Amazon ratings averaging 4.4 stars, it's clearly earning its keep in workshops and service vans. But it's not a miracle worker. Here's the honest breakdown.

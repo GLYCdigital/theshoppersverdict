@@ -1,4 +1,5 @@
 ---
+
 title: "Little People Collector Itâ€™s Always Sunny in Philadelphia "
 seo_title: "Little People Collector Itâ€™s Always Sunny in Phi Review"
 meta_description: "Our full little people collector itâ€™s always sunny in philadelphia  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D9MKDWRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hivtAM-bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Gang's All Here — In Tiny Plastic Form**

@@ -1,4 +1,5 @@
 ---
+
 title: "COFFEE POOP DISPENSER"
 seo_title: "COFFEE POOP DISPENSER Review: Is This Pet Cleanup Tool Worth It?"
 meta_description: "Read our honest COFFEE POOP DISPENSER review. See how this odor-control pet waste holder works, what buyers love, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1NKWRC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TJbmY45lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine odor seal — activated charcoal filter in lid neutralizes smells, not just masks them"
   - "Bag-dispensing slot on the side means you never fumble for a roll mid-walk"
   - "Compact 3.5-inch diameter fits standard cup holders and leash pockets"
-cons:
+cons: 
   - "Small capacity — holds roughly 10-12 bags before needing a dump, so high-traffic households empty it often"
   - "Charcoal filter needs replacement every 2-3 months, an added recurring cost"
   - "Not fully leakproof if you toss in a bag that's already been punctured"
+
 ---
 
 **The $20 Question: Does a poop dispenser actually need to look like a coffee cup?**

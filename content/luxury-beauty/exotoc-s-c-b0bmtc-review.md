@@ -1,4 +1,5 @@
 ---
+
 title: "EXOTOC S/C"
 seo_title: "EXOTOC S/C Review: Luxury Skincare Worth It? (2026)"
 meta_description: "EXOTOC S/C luxury skincare review: real results, ingredients, and buyer feedback. See if this 4.5-star cream delivers or disappoints."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMTCVPDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7142BR7PkHL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeable firming and hydration within 2 weeks of daily use"
   - "Lightweight texture that absorbs fully — no greasy residue or pilling under makeup"
   - "Fragrance-free formula that didn't irritate sensitive or reactive skin types"
-cons:
+cons: 
   - "Premium price point with no travel size option to test before committing"
   - "Jar packaging exposes the formula to air and fingers, risking oxidation over time"
   - "Results plateau after the first month — don't expect dramatic transformation beyond initial improvement"
+
 ---
 
 The luxury skincare market is crowded with overpriced jars promising miracles. EXOTOC S/C sits firmly in that premium tier, but does it actually deliver? With 225 ratings averaging 4.5 stars, the consensus suggests this one earns its shelf space. Here's the unvarnished breakdown.

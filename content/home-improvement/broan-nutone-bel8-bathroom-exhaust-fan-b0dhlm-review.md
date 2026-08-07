@@ -1,4 +1,5 @@
 ---
+
 title: "Broan-NuTone BEL8 Bathroom Exhaust Fan"
 seo_title: "Broan-NuTone BEL8 Review: Quiet Bath Fan for Small Baths"
 meta_description: "Broan-NuTone BEL8 bathroom exhaust fan review: 110 CFM, low-sone operation, easy install. See if this budget-friendly vent suits your small bath."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHLM8V22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b7xdWXFcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "110 CFM airflow rating exceeds ASHRAE 62.2 requirements for baths up to 100 sq ft, clearing steam fast"
   - "1.0 sone noise rating — quiet enough for conversation-level background hum, not a jet engine"
   - "Universal 4-inch duct connector and included mounting ears make retrofit swaps straightforward"
-cons:
+cons: 
   - "No built-in humidity sensor — you'll need a separate timer switch or wall control for auto-off"
   - "Plastic housing feels less premium than metal competitors; careful with screw torque to avoid stripping"
   - "Light kit sold separately — the housing is pre-wired but you must buy the compatible BEL8L light module"
+
 ---
 
 **The Bottom Line Up Front:** If you need to vent a small-to-medium bathroom without dropping $150+ on a smart fan, the Broan-NuTone BEL8 delivers 110 CFM of real airflow at a noise level you can actually live with. It's not flashy, it won't talk to your phone, and it won't automatically detect your post-shower steam — but for straightforward, reliable ventilation at a sensible price, it's hard to beat.

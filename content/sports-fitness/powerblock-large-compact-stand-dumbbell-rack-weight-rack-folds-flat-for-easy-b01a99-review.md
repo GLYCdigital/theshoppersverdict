@@ -1,4 +1,5 @@
 ---
+
 title: "PowerBlock Large Compact Stand, Dumbbell Rack & Weight Rack,"
 seo_title: "PowerBlock Large Compact Stand, Dumbbell Rack & We Review"
 meta_description: "Our full powerblock large compact stand, dumbbell rack & weight rack, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01A9981M0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sP7C-de2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own PowerBlock adjustable dumbbells, you already know the problem: where do you put the thing between sets? Setting it on the floor risks scratching the weight plates and bending over for every rep. The PowerBlock Large Compact Stand solves that — mostly.

@@ -1,4 +1,5 @@
 ---
+
 title: "QLLY Adjustable Square Table Leg, 24-40 inch, 60-100cm, Home"
 seo_title: "QLLY Adjustable Square Table Leg, 24-40 inch, 60-1 Review"
 meta_description: "Our full qlly adjustable square table leg, 24-40 inch, 60-100cm, home review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C373X1KN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31bBb2gevWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The QLLY Adjustable Square Table Leg Review: A Solid Workhorse That Requires a Little Effort**

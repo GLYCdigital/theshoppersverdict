@@ -1,4 +1,5 @@
 ---
+
 title: "budrash 942-04308 Mower Blades Fit for Cub-Cadet Troy Bilt 4 inch"
 seo_title: "budrash 942-04308 Mower Blades Review: Cub Cadet Fit"
 meta_description: "Honest budrash 942-04308 mower blades review for Cub Cadet Troy Bilt 42-inch decks. Covers fit, steel quality, cutting performance, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DB5TQ3DS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DrOGBiBkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heat-treated steel holds an edge noticeably longer than OEM blades through a full season of weekly cuts"
   - "Precision center hole and spindle pattern matches Cub Cadet/Troy Bilt 42-inch decks with zero modification needed"
   - "Balanced out of the box — no vibration at full throttle on most mower decks"
-cons:
+cons: 
   - "Paint finish chips off quickly in the first few cuts, which looks cosmetic but doesn't affect performance"
   - "Not ideal for mulching — these are primarily lift-and-discharge blades despite some marketing claims"
+
 ---
 
 **The Short Version: If you own a Cub Cadet or Troy Bilt with a 42-inch deck, these blades are a straight swap that cuts clean and lasts. Here's the full breakdown.**

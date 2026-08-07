@@ -1,4 +1,5 @@
 ---
+
 title: "Findosom Dish Drying Mat"
 seo_title: "Findosom Dish Drying Mat Review: Worth It? (2026)"
 meta_description: "Findosom Dish Drying Mat review: fast-drying, absorbent, and compact. We test durability, water resistance, and real-world use. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQX4BVC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kr7y8s03L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Absorbs water surprisingly fast — most dishes are touch-dry in under 30 minutes without leaving puddles on the counter"
   - "Two-layer design with a waterproof TPU backing that actually stays put on granite and butcher block surfaces"
   - "Large 17x24-inch surface fits a full dinner load; rolls up compactly for storage between uses"
-cons:
+cons: 
   - "Smooth texture means stemware and small glasses can slide if you set them down at an angle"
   - "Thin profile offers zero cushioning — heavy cast iron or sharp utensils can leave permanent crease marks"
+
 ---
 
 The Findosom Dish Drying Mat is one of those products that sounds boring on paper but quietly solves a real kitchen problem: the soggy, mildewy cotton towel you've been using as a drying rack alternative. At 4.7 stars across 235 ratings, it's clearly earning its keep in real kitchens. But is it actually better than just letting dishes air-dry on a rack? Here's what I found after putting it through a week of heavy use.

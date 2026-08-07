@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Powered Sprayer 2 Gallon, Upgrade Powerful Electric"
 seo_title: "Battery Powered Sprayer 2 Gallon Review: Is It Worth It?"
 meta_description: "Honest review of the 2-gallon battery powered sprayer. Real-world performance, battery life, pros/cons, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FD4C7WBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UlGgWghcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rechargeable lithium battery eliminates hand-pumping fatigue — holds charge for roughly 2 full tanks on a single charge"
   - "Adjustable brass nozzle delivers a fine mist to a 10+ foot stream, covering a 2-gallon tank in about 8 minutes"
   - "Transparent tank with gallon markings makes mixing chemicals and spotting remaining volume easy"
-cons:
+cons: 
   - "The 12-inch wand is short — tall users will bend over for low crops or ground-level spraying"
   - "Battery is not removable and takes 4-6 hours to fully recharge, so plan ahead for big jobs"
+
 ---
 
 Let's be honest: hand-pumping a sprayer for 20 minutes is a workout you didn't sign up for. The 2-gallon battery-powered sprayer aims to kill that chore permanently. With 204 ratings and a 4.1-star average, it's not perfect — but for the price, it solves the most annoying part of lawn and garden maintenance.

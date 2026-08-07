@@ -1,4 +1,5 @@
 ---
+
 title: "World Globe with Illuminated Constellations â€“ 13â€"
 seo_title: "World Globe with Illuminated Constellations â€“ 13 Review"
 meta_description: "Our full world globe with illuminated constellations â€“ 13â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01M1SA2AU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xQ35o+pyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've reviewed a lot of "educational" globes that are really just inflatable beach balls with country names printed on them. This one is different. The 13-inch illuminated constellation globe from Educational Insights actually tries to be two products in one — a functional political globe and a rudimentary star projector — and for the most part, it pulls it off.

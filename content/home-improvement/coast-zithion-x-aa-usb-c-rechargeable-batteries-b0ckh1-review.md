@@ -1,4 +1,5 @@
 ---
+
 title: "Coast ZITHION-X AA USB-C Rechargeable Batteries"
 seo_title: "Coast ZITHION-X AA USB-C Batteries Review: Worth It?"
 meta_description: "Coast ZITHION-X AA USB-C rechargeable batteries reviewed: capacity, charging speed, real-world performance, and who should buy them."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKH1P1H1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KWNAuDxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Integrated USB-C port means no separate charger needed — charge directly in the battery"
   - "High 2550mAh capacity outperforms standard NiMH rechargeables for high-drain devices"
   - "1.5V constant voltage output keeps devices running at full power until the very end"
-cons:
+cons: 
   - "Slower charging than a dedicated charger — expect 2-3 hours per battery via USB-C"
   - "Priced at a premium over traditional NiMH batteries plus charger combos"
   - "No charge indicator light on the battery itself, so you won't know when it's full"
+
 ---
 
 Let's be honest: most rechargeable AA batteries are a pain. You buy a charger, keep track of which batteries are charged, and hope the thing actually delivers the voltage your device needs. The Coast ZITHION-X tries to eliminate that entire workflow by putting the charging port right on the battery. Here's the thing — it mostly works.

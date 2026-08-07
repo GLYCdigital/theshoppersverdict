@@ -1,4 +1,5 @@
 ---
+
 title: "FoxFlame Solar Torch Lights"
 seo_title: "FoxFlame Solar Torch Lights Review: Worth It? (2026)"
 meta_description: "FoxFlame Solar Torch Lights review: 4.2-star rated flame-effect path lights. Real-world performance, battery life, and durability tested."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G3J33KRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MbFVIbDeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flickering flame effect looks genuinely realistic — not the cheap LED strobe you see on budget sets"
   - "Aluminum housing with weatherproofing holds up through rain and frost, per multiple long-term owner reports"
   - "Easy ground-stake installation with no wiring; solar panel charges reliably even in partial shade"
-cons:
+cons: 
   - "Battery life runs 6-8 hours max on a good charge; winter months cut that closer to 4-5 hours"
   - "Plastic flame tip is the weak point — cracked on one unit after a hard freeze per one reviewer"
   - "Light output is ambient, not functional; don't expect to illuminate a walkway for safety purposes"
+
 ---
 
 **FoxFlame Solar Torch Lights Review: Flicker That Impresses, But Manage Your Expectations**

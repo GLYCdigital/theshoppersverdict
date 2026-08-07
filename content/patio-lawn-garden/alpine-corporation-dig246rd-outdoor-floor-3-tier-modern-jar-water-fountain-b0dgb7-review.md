@@ -1,4 +1,5 @@
 ---
+
 title: "Alpine Corporation DIG246RD Outdoor Floor 3-Tier Modern Jar"
 seo_title: "Alpine Corporation 3-Tier Jar Fountain Review (2026)"
 meta_description: "Honest Alpine Corporation DIG246RD 3-tier jar fountain review: build quality, flow rate, noise level, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DGB74QCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v8SbeI7aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-tier cascading design creates a genuinely soothing water sound without the roar of larger fountains"
   - "Fiberglass composite construction is lighter than cast stone, making it easy to reposition without sacrificing durability"
   - "Complete kit includes pump, tubing, and LED light — no hidden accessories to buy separately"
-cons:
+cons: 
   - "Assembly requires careful alignment of the tiers; the water stream can miss the center bowl if the top tier shifts even slightly"
   - "The included pump's flow rate is not adjustable, which limits your control over sound volume and splash"
+
 ---
 
 Let's be direct: most outdoor fountains under $150 are flimsy plastic that cracks within a season. The Alpine Corporation DIG246RD isn't that. But it also isn't a hand-carved granite masterpiece. Here's what 204 Amazon buyers (averaging 4.1 stars) actually experienced — and whether this jar fountain belongs in your yard.

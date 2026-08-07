@@ -1,4 +1,5 @@
 ---
+
 title: "hooga Circadian Rhythm Full Spectrum LED Light Bulb - 2700K,"
 seo_title: "hooga Circadian Rhythm Full Spectrum LED Light Bul Review"
 meta_description: "Our full hooga circadian rhythm full spectrum led light bulb - 2700k, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGVXGSKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zw7fr8w9L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # hooga Circadian Rhythm Full Spectrum LED Light Bulb – 2700K Review

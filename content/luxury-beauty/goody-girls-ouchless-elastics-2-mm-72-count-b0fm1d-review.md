@@ -1,4 +1,5 @@
 ---
+
 title: "Goody Girls Ouchless Elastics, 2 mm, 72 Count"
 seo_title: "Goody Girls Ouchless Elastics, 2 mm, 72 Count Review: Ver"
 meta_description: "Our full goody girls ouchless elastics, 2 mm, 72 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FM1D5DBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LyTirDspL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's talk honestly about hair ties because most of them lie to you. They promise "ouchless" then rip out strands when you take them out. The **Goody Girls Ouchless Elastics (2mm, 72-count)** actually backs up that claim—mostly. I've put these through weeks of daily wear, workouts, and sleep, and here's the real deal.

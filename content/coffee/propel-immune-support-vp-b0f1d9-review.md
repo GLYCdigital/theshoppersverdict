@@ -1,4 +1,5 @@
 ---
+
 title: "Propel Immune Support VP"
 seo_title: "Propel Immune Support VP Review: Verdict | TSV"
 meta_description: "Our full propel immune support vp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F1D9JM4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819XIJa22HL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Propel Immune Support VP has 240 Amazon ratings sitting at a 4.8 average, which in the coffee gear world is a strong signal. But ratings don’t tell you whether this machine fits *your* counter, your morning routine, or your patience level. I’ve dug into the specs, the build, and what owners actually say across weeks of use. Here’s the real story.

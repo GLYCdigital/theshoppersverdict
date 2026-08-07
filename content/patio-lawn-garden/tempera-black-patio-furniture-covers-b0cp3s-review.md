@@ -1,4 +1,5 @@
 ---
+
 title: "Tempera Black Patio Furniture Covers"
 seo_title: "Tempera Black Patio Furniture Covers Review: Verdict | TS"
 meta_description: "Our full tempera black patio furniture covers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP3SYKV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pfnwnTOPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Tempera Black Patio Furniture Covers Review: Honest Look After 220 Ratings**

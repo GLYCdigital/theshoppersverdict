@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B iO Brush Head"
 seo_title: "Oral-B iO Brush Head Review: Verdict | TSV"
 meta_description: "Our full oral-b io brush head review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BKNNG5CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PtuRo2oOL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The Oral-B iO brush head is the only replacement head that works with the iO electric toothbrush line — and that’s both its greatest strength and its biggest catch. With a 4.6-star average across 229 ratings, buyers are mostly satisfied, but there are real tradeoffs worth knowing before you commit to this ecosystem.

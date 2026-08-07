@@ -1,4 +1,5 @@
 ---
+
 title: "BESTINNKITS Smart Coffee Cup Warmer Set, Auto On/Off Gravity"
 seo_title: "BESTINNKITS Smart Coffee Warmer Review: Auto On/Off"
 meta_description: "BESTINNKITS Smart Coffee Cup Warmer Set review: Does gravity auto on/off work? Tested for heat, safety, and real-world use. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSB6G2W2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618eNa1lhPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gravity sensor turns the plate on when the mug is set down and off when lifted — no buttons, no forgotten burners"
   - "Heats to 131–140°F and holds that range, which is ideal for sipping rather than scalding"
   - "Includes a ceramic mug with a flat, ferromagnetic base designed specifically for the induction plate"
-cons:
+cons: 
   - "Only works with the included mug or other induction-compatible steel-bottomed cups — standard ceramic mugs won't heat"
   - "The 8W draw is slow to raise cold coffee to temperature; it maintains heat better than it warms"
   - "Cord is short at roughly 3 feet, which limits placement options on deeper counters"
+
 ---
 
 **Is the BESTINNKITS Smart Coffee Cup Warmer Set a gimmick or a genuine desk upgrade?** After digging through 215 ratings and the spec sheet, the answer is: mostly genuine, with one significant catch you need to know before buying.

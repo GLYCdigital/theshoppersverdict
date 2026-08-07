@@ -1,4 +1,5 @@
 ---
+
 title: "Prextex Plastic Pretend Play Kitchen Set - Multi-Color Kitch"
 seo_title: "Prextex Plastic Pretend Play Kitchen Set - Multi-C Review"
 meta_description: "Our full prextex plastic pretend play kitchen set - multi-color kitch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJDJDM2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UWFpwlpQL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most pretend kitchens under $80 are flimsy, overpriced plastic that falls apart by month two. The Prextex Multi-Color Kitchen Set isn't that — but it's also not the heirloom-quality wooden setup you'll pass down to grandkids. It sits somewhere in the middle, and for the price, that's actually a sweet spot. Here's the real breakdown after digging through 220 ratings and customer feedback.

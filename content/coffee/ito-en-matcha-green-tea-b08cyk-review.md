@@ -1,4 +1,5 @@
 ---
+
 title: "Ito En Matcha Green Tea"
 seo_title: "Ito En Matcha Green Tea Review: Verdict | TSV"
 meta_description: "Our full ito en matcha green tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08CYKF8VS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qGnP60vhL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most matcha sold on Amazon tastes like grass clippings steeped in regret. Ito En’s Ceremonial Blend isn’t that. This is the matcha I keep coming back to after testing a dozen brands, and here’s why it deserves a spot in your pantry.

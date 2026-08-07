@@ -1,4 +1,5 @@
 ---
+
 title: "Homieasy Side Table"
 seo_title: "Homieasy Side Table Review: Verdict | TSV"
 meta_description: "Our full homieasy side table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D22YV9SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x2bPWddZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about side tables: most are either wobbly junk that collapses under a heavy book or oversized behemoths that swallow your living room. The Homieasy Side Table sits in a rare middle ground — a compact, genuinely stable piece that does exactly what it promises without pretending to be something it isn’t.

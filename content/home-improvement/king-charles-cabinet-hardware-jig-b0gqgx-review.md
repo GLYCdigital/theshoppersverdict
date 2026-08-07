@@ -1,4 +1,5 @@
 ---
+
 title: "King&Charles Cabinet Hardware Jig"
 seo_title: "King&Charles Cabinet Hardware Jig Review: Verdict | TSV"
 meta_description: "Our full king&charles cabinet hardware jig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GQGXSRQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zMHmoDSGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever installed cabinet pulls by measuring each hole with a tape measure and praying your pencil marks line up, you know the pain: one hole slightly low, one handle crooked, and suddenly your $300 cabinet reface job looks like a middle school woodshop project. The King&Charles Cabinet Hardware Jig exists to eliminate that anxiety. At roughly $30–35, it's not the cheapest template on Amazon, but it's significantly less than the $60+ Bosch or Milescraft alternatives. The real question is whether it delivers precision without the premium price.

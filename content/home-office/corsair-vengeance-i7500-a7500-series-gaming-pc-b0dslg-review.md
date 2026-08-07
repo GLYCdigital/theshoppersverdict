@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair Vengeance i7500 a7500 Series Gaming PC"
 seo_title: "Corsair Vengeance i7500 Review: RTX 4070 Power in 2026"
 meta_description: "Corsair Vengeance i7500 gaming PC review: RTX 4070 performance, i7-14700F CPU, and cooling examined. See if this $1,800 prebuilt is worth it."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DSLGFC3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718wSaTw2YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Excellent 1440p and 4K gaming performance from RTX 4070 Super paired with i7-14700F"
   - "Tool-less side panel and swing-out dust filters make upgrades genuinely easy"
   - "Quiet operation under load — liquid cooling keeps fan noise below 40dB in most scenarios"
-cons:
+cons: 
   - "Proprietary motherboard and PSU limit future upgrade paths to GPU and storage only"
   - "Only 1TB storage fills fast with modern game installs; second M.2 slot requires removal of GPU"
   - "Multiple reports of DOA units and inconsistent quality control on early production runs"
+
 ---
 
 # Corsair Vengeance i7500 Review: A Prebuilt That Gets the Big Things Right

@@ -1,4 +1,5 @@
 ---
+
 title: "HARRIS DE-FG4P Diatom Diatomaceous Earth Food Grade, 4lb w/F"
 seo_title: "HARRIS DE-FG4P Diatom Diatomaceous Earth Food Grad Review"
 meta_description: "Our full harris de-fg4p diatom diatomaceous earth food grade, 4lb w/f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09YXHCXXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819TnlK40bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: diatomaceous earth isn’t a magic bullet, but when used correctly, it’s one of the most reliable non-toxic pest controls you can buy. The HARRIS DE-FG4P 4lb food grade version with the included duster is the configuration most homeowners actually need, and at 4.6 stars from 229 ratings, the consensus backs that up.

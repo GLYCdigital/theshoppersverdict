@@ -1,4 +1,5 @@
 ---
+
 title: "Elevated Raised Dog Cot - Indoor/Outdoor Pet Bed for Dogs"
 seo_title: "Elevated Raised Dog Cot Review: Worth It? (2026)"
 meta_description: "Honest Elevated Raised Dog Cot review: breathable mesh, sturdy frame, easy cleanup. See pros, cons, and who should buy this indoor/outdoor pet bed."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D541VM39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W24Z1mqJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely breathable mesh keeps dogs cool in summer heat — a real upgrade over plush beds that trap body heat"
   - "Quick-dry fabric handles muddy paws, pool water, and accidents without soaking through; hose it off and it's clean"
   - "Sturdy steel frame holds up to 50+ lbs without sagging, even with enthusiastic jumpers"
-cons:
+cons: 
   - "Assembly requires a screwdriver and about 15 minutes of patience — legs don't click into place instantly"
   - "No padding on the mesh surface; dogs used to thick orthopedic beds may need a transition period"
+
 ---
 
 **Is this elevated cot actually worth your money, or is it just another Amazon pet gadget?** After digging through 225 ratings and the product specs, here's the straight story on this raised dog bed.

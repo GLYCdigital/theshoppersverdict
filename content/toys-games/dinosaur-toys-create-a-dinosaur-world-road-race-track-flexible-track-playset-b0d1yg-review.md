@@ -1,4 +1,5 @@
 ---
+
 title: "Dinosaur Toys, Create A Dinosaur World Road Race Track, Flex"
 seo_title: "Dinosaur World Road Race Track Review: Flex Track Playset"
 meta_description: "Honest Dinosaur World Road Race Track review: flexible track, launcher cars, and dino figures. See if this 4.6-star playset is worth the buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1YGQQ51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91k7B-giGPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely flexible track segments bend, twist, and lock into vertical loops — not just cosmetic curves"
   - "Launcher mechanism sends cars through the T-Rex mouth with enough force to complete full circuits"
   - "Dinosaur figures are solid, detailed PVC with articulated jaws, not cheap hollow plastic"
-cons:
+cons: 
   - "Track connectors require firm pressure to snap — small hands (under 5) will need adult help"
   - "Cars occasionally derail at high-speed loop exits if track isn't perfectly aligned"
   - "No storage solution included; loose pieces scatter fast once playtime ends"
+
 ---
 
 **The short version:** If your kid is obsessed with dinosaurs *and* cars — that specific Venn diagram overlap — this playset nails it. The flexible track system is the real differentiator here. It's not another rigid plastic oval. You can bend, twist, and stack the track into loops, ramps, and figure-eights that actually hold their shape. At 4.6 stars from 229 ratings, it's clearly resonating with families, but let's get into the specifics before you hit buy.

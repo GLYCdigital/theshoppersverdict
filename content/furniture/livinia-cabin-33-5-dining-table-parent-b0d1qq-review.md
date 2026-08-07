@@ -1,7 +1,8 @@
 ---
-title: "Livinia Cabin 33.5\" Dining Table Parent"
-seo_title: "Livinia Cabin 33.5\" Dining Table Parent Review: Verdict |"
-meta_description: "Our full livinia cabin 33.5\" dining table parent review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Livinia Cabin 33.5\ Dining Table Parent"
+seo_title: "Livinia Cabin 33.5\ Dining Table Parent Review: Verdict |"
+meta_description: "Our full livinia cabin 33.5\ dining table parent review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "livinia-cabin-33-5-dining-table-parent-b0d1qq-review"
 image_alt: "Livinia Cabin 33.5 Dining Table Parent"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1QQ6XMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tI4VUcTXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're shopping for a small-space dining table and you're tired of flimsy particle-board junk, the Livinia Cabin 33.5" is worth a hard look. It's not perfect — the finish is delicate and there's no expansion option — but for apartments, breakfast nooks, and kitchens where every inch matters, this table delivers surprising substance at a reasonable price point.

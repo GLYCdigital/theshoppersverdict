@@ -1,4 +1,5 @@
 ---
+
 title: "OC Orange-Casual Stackable Patio Dining Chairs, Outdoor Acac"
 seo_title: "OC Orange-Casual Stackable Patio Dining Chairs, Ou Review"
 meta_description: "Our full oc orange-casual stackable patio dining chairs, outdoor acac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CB3RMGXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aonlUbpnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped outdoor seating lately, you know the market splits into two camps: flimsy resin chairs that blow over in a breeze, and hardwood sets that cost as much as a weekend getaway. The OC Orange-Casual stackable patio dining chair tries to split the difference—solid acacia construction with a stackable design at a mid-range price point. After digging through 220 ratings and the spec sheet, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Better Office Products Sales Order Book, 6 Pack Sales Order"
 seo_title: "Better Office Products Sales Order Book Review (6-Pack)"
 meta_description: "Honest Better Office Products Sales Order Book review: 6-pack carbonless order forms, build quality, real user feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083G88TL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XILtX9kJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Carbonless paper works reliably — no smudging or transfer issues even with ballpoint pens"
   - "Each book contains 50 triplicate forms with numbered pages for easy tracking"
   - "Sturdy chipboard backing provides a firm writing surface in the field"
-cons:
+cons: 
   - "Forms are 8.5 x 11 inches — bulky for apron pockets or small service bags"
   - "Carbonless coating can transfer onto fingers if you handle sheets repeatedly"
   - "No duplicate option — you're locked into triplicate format only"
+
 ---
 
 If you're still scribbling orders on loose scraps or wrestling with a clunky tablet in the field, the Better Office Products Sales Order Book 6-Pack deserves a hard look. This isn't a glamorous purchase — it's a workhorse tool for contractors, delivery drivers, and small business owners who need a paper trail that doesn't fail. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's the unvarnished truth after digging into the specs and user experiences.

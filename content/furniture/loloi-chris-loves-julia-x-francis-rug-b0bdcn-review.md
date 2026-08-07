@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Chris Loves Julia x Francis Rug"
 seo_title: "Loloi Chris Loves Julia x Francis Rug Review: Verdict | T"
 meta_description: "Our full loloi chris loves julia x francis rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BDCNJ4VY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wNnAzmgqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: buying a rug online is a gamble. The colors are never quite right, the pile is thinner than the photos suggest, and you’re stuck with a 40-pound roll you have to return. The Loloi Chris Loves Julia x Francis Rug tries to solve that by being the safest bet in the designer-collab space. Here’s whether it actually lands.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Kai's Dragon Spinjitzu Spinner - Spinning Blade"
 seo_title: "LEGO NINJAGO Kai's Dragon Spinjitzu Spinner - Spin Review"
 meta_description: "Our full lego ninjago kai's dragon spinjitzu spinner - spinning blade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ19C6MR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z5DM8RNmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If your kid is deep in the Ninjago rabbit hole, this is the best spinner LEGO has put out in years — but it's a one-trick pony unless you grab a second one.**

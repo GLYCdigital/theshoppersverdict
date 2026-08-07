@@ -1,4 +1,5 @@
 ---
+
 title: "Apevia SPIRIT600W Spirit 600W ATX Power Supply with Auto-The"
 seo_title: "Apevia SPIRIT600W Review: Budget 600W PSU Worth It?"
 meta_description: "Apevia SPIRIT600W 600W ATX PSU review: 120mm auto-thermally controlled fan, 80 Plus certification, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9VGG83Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WltVT24PL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Auto-thermally controlled 120mm fan keeps noise down during light loads, spins up only when needed"
   - "Fully sleeved cables included — rare at this price point, makes cable management cleaner"
   - "Solid +12V rail output (540W) handles mid-range GPUs and modern CPUs without issue"
-cons:
+cons: 
   - "Non-modular design means excess cables need tucking away in the case"
   - "No 80 Plus certification — efficiency is decent but unverified, expect slightly higher idle draw"
   - "SATA/Molex cables are stiff, making routing in tight cases more effort than it should be"
+
 ---
 
 Let's be direct about power supplies: they're the least glamorous part of a build, and the one component people cheap out on—then regret. The Apevia SPIRIT600W sits firmly in budget territory, and with 215 ratings averaging 4.3 stars, it's clearly finding buyers. But is it the right PSU for *your* build, or a fire hazard waiting to happen? Here's the real breakdown.

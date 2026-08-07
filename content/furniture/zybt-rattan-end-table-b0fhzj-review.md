@@ -1,4 +1,5 @@
 ---
+
 title: "ZYBT Rattan End Table"
 seo_title: "ZYBT Rattan End Table Review: Verdict | TSV"
 meta_description: "Our full zybt rattan end table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FHZJG442/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d4aUY1B4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ZYBT Rattan End Table is the kind of piece that looks great in the listing photos and mostly delivers in person — but with a few caveats worth knowing before you hit buy. At a 3.8-star average across 190 ratings, it's clear this table has found an audience. It's also clear that audience has some mixed feelings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Scratcher Toys Reversible Scratching Post Board for Indo"
 seo_title: "Cat Scratcher Toys Reversible Scratching Post Review (2026)"
 meta_description: "Honest review of the reversible cardboard cat scratcher board. Does it hold up to daily clawing? We break down durability, value, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVK726KK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DaXFHsEUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reversible design doubles lifespan — flip it over when one side gets shredded"
   - "Dense corrugated cardboard holds up to aggressive scratching without collapsing"
   - "Includes loose catnip to lure picky cats to the pad immediately"
-cons:
+cons: 
   - "Cardboard shreds will accumulate around the pad — you'll be vacuuming regularly"
   - "Not a vertical scratcher — cats that prefer tall posts may ignore it"
+
 ---
 
 Let's be honest about what a cardboard scratcher actually is: a disposable impulse purchase you hope your cat doesn't ignore. This reversible board from Amazon's catalog has earned a 4.5-star average across 225 ratings, which suggests it's doing something right. But here's the real question — does it actually save your sofa, or is it just another box your cat sits in?

@@ -1,4 +1,5 @@
 ---
+
 title: "Cleveland Golf HB Soft 2 Putter (Model 1)"
 seo_title: "Cleveland Golf HB Soft 2 Putter Review: Soft Feel, Real Results"
 meta_description: "Cleveland Golf HB Soft 2 Putter (Model 1) review: 4.6/5 rating. Tested for feel, alignment, and forgiveness. Who should buy it, who should skip it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFVK4QV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31lGHVf4RDL._AC_US40_.jpg"
-pros:
+pros: 
   - "Higher MOI than most blade putters — mis-hits still roll out with surprising pace consistency"
   - "White-hot alignment stripe stands out at address, making setup repeatable in under two seconds"
   - "Milled face delivers genuinely soft feel without sacrificing distance control on fast greens"
-cons:
+cons: 
   - "Head is noticeably heavier than traditional blade putters — takes a few rounds to recalibrate touch"
   - "Stock grip is polarizing; some buyers swap it out immediately for a larger pistol grip"
+
 ---
 
 Let’s be honest about putters: most of them don’t actually fix your stroke. The Cleveland Golf HB Soft 2 (Model 1) is different — not because it magically makes you a better putter, but because it forgives the mistakes you already make. With a 4.6/5 rating across 229 Amazon reviews, this is one of the most consistently praised mallet-style putters under $150. Here’s the real story.

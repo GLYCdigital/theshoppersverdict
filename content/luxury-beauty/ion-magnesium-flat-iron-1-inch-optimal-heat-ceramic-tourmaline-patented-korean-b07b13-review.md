@@ -1,4 +1,5 @@
 ---
+
 title: "Ion Magnesium Flat Iron 1 Inch, Optimal Heat, Ceramic Tourma"
 seo_title: "Ion Magnesium Flat Iron 1 Inch, Optimal Heat, Cera Review"
 meta_description: "Our full ion magnesium flat iron 1 inch, optimal heat, ceramic tourma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07B13RP8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hVHE5ld0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ion Magnesium Flat Iron 1 Inch Review: Is This Korean Beauty Secret Worth $80+?

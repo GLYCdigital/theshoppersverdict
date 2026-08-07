@@ -1,4 +1,5 @@
 ---
+
 title: "Kangaroo - Multiplayers Strategy Checker Board Game for Kids"
 seo_title: "Kangaroo - Multiplayers Strategy Checker Board Gam Review"
 meta_description: "Our full kangaroo - multiplayers strategy checker board game for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01819WCK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FEdZBCLsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most checkerboards are a two-player affair. The Kangaroo Multiplayers Strategy Checker Board Game flips that convention by squeezing four players onto one board — and that single design decision changes how the game plays in your living room. Instead of one kid gloating over a win while the other sulks, you get a free-for-all that keeps everyone at the table until the last piece falls.

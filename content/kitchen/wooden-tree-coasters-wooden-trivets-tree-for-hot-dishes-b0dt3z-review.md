@@ -1,4 +1,5 @@
 ---
+
 title: "Wooden Tree Coasters, Wooden Trivets Tree for Hot Dishes"
 seo_title: "Wooden Tree Coasters, Wooden Trivets Tree for Hot  Review"
 meta_description: "Our full wooden tree coasters, wooden trivets tree for hot dishes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DT3ZX2RQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510KRjZOHSL._AC_SL1056_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of burnt rings on a walnut table or warped silicone trivets that slide under a hot Dutch oven, these wooden tree coasters and trivets earn a serious look. The set pairs function with a rustic look that actually fits most kitchens — not just farmhouse-themed ones.

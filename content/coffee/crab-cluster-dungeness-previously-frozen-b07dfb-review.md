@@ -1,4 +1,5 @@
 ---
+
 title: "Crab Cluster Dungeness Previously Frozen"
 seo_title: "Crab Cluster Dungeness Review: Is Previously Frozen Worth It?"
 meta_description: "Honest Crab Cluster Dungeness Previously Frozen review: taste, texture, thawing tips, and whether frozen crab matches fresh. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DFBDS9N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vzynWsHsL._SL1000_.jpg"
-pros:
+pros: 
   - "Sweet, clean flavor that holds up well after thawing — noticeably better than most frozen crab options"
   - "Substantial cluster size with meaty legs and a decent amount of body meat for the price point"
   - "Thaws quickly and evenly in the refrigerator overnight without turning mushy or watery"
-cons:
+cons: 
   - "Some clusters arrive with broken or cracked shells from shipping, which can make extraction messier"
   - "Not all batches are created equal — occasional inconsistency in meat fill and saltiness between orders"
+
 ---
 
 Let's be straight with each other. You're looking at a previously frozen Dungeness crab cluster, and you're wondering if it's worth your money. Here's what I found after digging through customer feedback and breaking down what this product actually delivers.

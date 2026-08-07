@@ -1,4 +1,5 @@
 ---
+
 title: "First Saturday Lime Insect Deterrent| Monthly Insect Shield|"
 seo_title: "First Saturday Lime Insect Deterrent Review (2026): Does It Work?"
 meta_description: "First Saturday Lime Insect Deterrent review: Real test results on fleas, ticks, roaches & ants. See pros, cons, and who should buy this 4.7-star insect shield."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4NCMHK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611llSSpnwL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Kills and repels 7+ insect types including roaches, ants, fleas, ticks, silverfish, and earwigs without synthetic chemicals"
   - "One 25-lb bag covers roughly 5,000 sq ft with a single monthly application — no weekly re-spraying"
   - "Safe around kids and pets once dry; doubles as a calcium-rich lawn treatment that greens up grass"
-cons:
+cons: 
   - "Needs to stay dry to remain effective — rain or sprinkler runoff washes it into the soil, requiring reapplication"
   - "Fine powder can drift in wind during application; wear a mask and pick a calm day"
   - "Not a quick knock-down killer — takes 24–72 hours to see results versus instant chemical sprays"
+
 ---
 
 **First Saturday Lime Insect Deterrent Review: The 20-Minute Monthly Fix for Your Yard**

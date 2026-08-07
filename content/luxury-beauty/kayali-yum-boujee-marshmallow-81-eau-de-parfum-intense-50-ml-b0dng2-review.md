@@ -1,4 +1,5 @@
 ---
+
 title: "KAYALI Yum Boujee Marshmallow 81 Eau de Parfum Intense, 50 m"
 seo_title: "KAYALI Yum Boujee Marshmallow 81 Eau de Parfum Int Review"
 meta_description: "Our full kayali yum boujee marshmallow 81 eau de parfum intense, 50 m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNG2RPGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LvVls5UlL._SL1280_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the preamble: if you’re on this page, you already know Kayali’s Yum line has a stranglehold on the gourmand-fragrance community. The question isn’t *whether* **Yum Boujee Marshmallow 81** smells good — it’s whether the “Intense” concentration justifies the premium over the original, and whether it earns a spot in a rotation that probably already has three other pink-juice perfumes. After testing this 50ml bottle for two weeks, here’s the honest breakdown.

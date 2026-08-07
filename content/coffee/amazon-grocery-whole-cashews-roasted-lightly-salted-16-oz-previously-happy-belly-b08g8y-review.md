@@ -1,23 +1,25 @@
 ---
+
 title: "Amazon Grocery, Whole Cashews, Roasted & Lightly Salted, 16 inch  "
 seo_title: "Amazon Grocery Whole Cashews Review: 16 oz Roasted & Salted"
 meta_description: "Honest review of Amazon Grocery Whole Cashews (16 oz). Crunchy, lightly salted, and value-priced—but watch for broken pieces. Read before you buy."
 slug: "amazon-grocery-whole-cashews-roasted-lightly-salted-16-oz-previously-happy-belly-b08g8y-review"
 image_alt: "Amazon Grocery Whole Cashews 16 oz bag, roasted and lightly salted"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08G8YYFYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GHBRs2VKL._SL1500_.jpg"
-pros:  
+pros: 
   - "Consistent roasting — even golden-brown color, no burnt or raw batches reported"  
   - "Light salt level hits the sweet spot — enhances flavor without masking the cashew's natural sweetness"  
   - "Resealable 16 oz bag keeps nuts fresh for 2+ weeks if stored properly"  
-cons:  
+cons: 
   - "Expect a fair amount of broken pieces and cashew dust at the bottom — not the 'whole' you'd hope for"  
   - "Roast can be slightly inconsistent between bags — some arrive darker and more oily than others"
+
 ---
 
 You're not buying these for the packaging. You're buying them because you want a big bag of decent cashews delivered to your door without paying premium brand prices. Amazon Grocery's Whole Cashews — previously sold under the Happy Belly label — deliver exactly that, with a few caveats worth knowing before you add to cart.

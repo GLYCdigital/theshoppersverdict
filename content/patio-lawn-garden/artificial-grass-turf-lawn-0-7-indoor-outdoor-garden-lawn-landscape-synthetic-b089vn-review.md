@@ -1,23 +1,25 @@
 ---
+
 title: "Artificial Grass Turf Lawn, 0.7 inch  Indoor Outdoor Garden Lawn"
 seo_title: "Artificial Grass Turf 0.7 inch  Review: Honest Buyer's Guide"
 meta_description: "Read our honest Artificial Grass Turf Lawn 0.7 inch  review. See real pros, cons, and who should buy. 4.5-star rated, 225 reviews. Is it worth it?"
 slug: "artificial-grass-turf-lawn-0-7-indoor-outdoor-garden-lawn-landscape-synthetic-b089vn-review"
 image_alt: "Close-up of 0.7-inch pile artificial grass turf showing realistic green blades and drainage holes"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B089VN4W12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qi7C4y-uL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Realistic 0.7-inch pile with natural two-tone green coloring that doesn't look plastic from 3 feet away"  
   - "True 5×5-foot coverage (25 sq ft) — many budget turfs run small; measured ours at 60×60 inches"  
   - "Drainage holes every 2 inches mean it actually sheds rainwater, not puddle like cheaper mats"  
-cons:  
+cons: 
   - "Backing is thin polypropylene — on concrete it slides unless you use adhesive or heavy pavers"  
   - "Initial 'factory smell' lasts 3–5 days indoors even after airing out; outdoor use is fine"
+
 ---
 
 Artificial grass is one of those purchases where you get what you pay for — and at this price point, you're not getting the $4/sq ft landscaping-grade stuff. But here's the thing: this 0.7-inch turf from B089VN4W12 punches well above its weight class for small projects. After two weeks of testing it on a balcony, a dog run, and a kids' play area, here's the honest breakdown.

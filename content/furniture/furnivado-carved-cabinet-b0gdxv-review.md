@@ -1,4 +1,5 @@
 ---
+
 title: "Furnivado Carved Cabinet"
 seo_title: "Furnivado Carved Cabinet Review: Worth It? | 2026 inch"
 meta_description: "Honest Furnivado Carved Cabinet review: build quality, real-world storage, and whether this carved accent piece justifies its price."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GDXVNPLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jUlzeLbvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hand-carved mango wood front — no plastic or MDF veneer tricks here"
   - "Two spacious interior shelves behind each door, rated to hold 30+ lbs each"
   - "Antique brass-toned hardware that actually matches the carved aesthetic"
-cons:
+cons: 
   - "Assembly requires patience — the door hinges are finicky to align perfectly"
   - "Strong varnish smell lingers for 3–5 days even after airing out"
+
 ---
 
 Most carved accent cabinets under $500 are either flimsy MDF with a "carved" print or imported pieces that rattle apart in a year. The Furnivado Carved Cabinet sits somewhere more interesting: it’s a solid mango wood piece with actual hand-carved detailing, and the 4.4-star average across 220 ratings suggests it’s not just another drop-shipped gamble. But does the craftsmanship hold up to daily use? Here’s the breakdown after digging through buyer reports and the spec sheet.

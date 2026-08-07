@@ -1,4 +1,5 @@
 ---
+
 title: "BaBylissPRO Nano Titanium Ultra-Thin 1-1/2-Inch Flat Iron Ha"
 seo_title: "BaBylissPRO Nano Titanium Flat Iron Review: Worth It?"
 meta_description: "BaBylissPRO Nano Titanium Ultra-Thin 1-1/2-Inch flat iron review: 4.7-star rated. Tested for performance, heat, and frizz control. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCWJ5J4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bNbCGm8xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heats to 450°F in under 30 seconds with 50 temperature settings for precise control"
   - "Ultra-thin 1.5-inch titanium plates glide through thick hair with fewer passes"
   - "Dual-voltage and 30-minute auto-shutoff make it travel-safe for international use"
-cons:
+cons: 
   - "Plates run hot — beginners may risk heat damage without a heat protectant"
   - "No swivel cord tension relief, so the 9-foot cord can tangle if you move around a lot"
+
 ---
 
 **Is the BaBylissPRO Nano Titanium Ultra-Thin Flat Iron Worth $150+ of Your Hair's Future?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Alera Square Plastic Folding Table, 36w X 36d X 29.25h, Whit"
 seo_title: "Alera Square Folding Table Review: 36x36 White Plastic Workhorse"
 meta_description: "Read our honest Alera Square Plastic Folding Table review. 36x36 white surface, 4.6-star rating. Is this utility table right for your office or home? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07N7TXN9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JDLrTIUYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 36x36 square surface gives 9 square feet of workspace — significantly more usable area than a standard 6-foot rectangular table"
   - "One-piece blow-molded plastic top is waterproof, stain-resistant, and wipes clean with no seams or crevices"
   - "29.25-inch height matches standard office desks, so it works as a temporary workstation — not just a banquet table"
-cons:
+cons: 
   - "At roughly 30 pounds, it's not a true one-hand carry; awkward to haul up stairs solo"
   - "The plastic top can flex slightly in the center under heavy weight, so it's not ideal for supporting heavy equipment"
   - "No adjustable height legs — what you see is what you get, so it won't work for standing-height tasks"
+
 ---
 
 ## The Square Deal: Why This Table Earns Its 4.6 Stars

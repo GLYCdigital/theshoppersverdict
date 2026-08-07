@@ -1,4 +1,5 @@
 ---
+
 title: "Aerostar MERV Pleated Air Filter, 1 Pack, AC Furnace Filters"
 seo_title: "Aerostar MERV Air Filter Review: 1-Pack Furnace Filter"
 meta_description: "Honest Aerostar MERV pleated air filter review: build quality, airflow, real customer feedback, and who should buy. See if this 1-pack furnace filter is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08MVK22Q9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713zDFwwShL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deep 4-inch pleats provide 2-3x more surface area than standard 1-inch filters, meaning longer life between swaps."
   - "Cardboard frame stays rigid and square even in high-humidity basements — no warping or collapsing into the blower."
   - "Consistent MERV rating across sizes; the filtration performance matches the spec sheet, not just the marketing."
-cons:
+cons: 
   - "Higher MERV ratings (13+) can restrict airflow in older or undersized HVAC systems, potentially straining the blower."
   - "Sold as a single pack — you'll pay a per-unit premium compared to buying a 6-pack or 12-pack of the same filter."
+
 ---
 
 The average furnace filter is a $8 afterthought you grab at the hardware store while buying lightbulbs. The Aerostar MERV pleated filter is not that. This is a component that actually affects your indoor air quality, your energy bill, and whether your HVAC system lives to see its 15th birthday. Here's the breakdown after digging through the specs and what 225 buyers are actually saying.

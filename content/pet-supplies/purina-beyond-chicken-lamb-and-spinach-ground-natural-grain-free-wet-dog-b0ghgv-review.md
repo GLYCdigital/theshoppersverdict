@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Beyond Chicken, Lamb and Spinach Ground Natural Grain"
 seo_title: "Purina Beyond Chicken, Lamb and Spinach Ground Nat Review"
 meta_description: "Our full purina beyond chicken, lamb and spinach ground natural grain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHGVHM5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bk-1rNT8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time reading dog food labels, you know the drill: corn, by-products, "meat and animal derivatives" — vague junk that makes you wonder what you're actually feeding. Purina Beyond's Chicken, Lamb and Spinach Ground Natural Grain cuts through that noise. It's a wet food that actually shows its ingredients in the name, and for the price, it delivers.

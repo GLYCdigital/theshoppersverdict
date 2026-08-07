@@ -1,4 +1,5 @@
 ---
+
 title: "AFMAT Fully Automatic Colored Pencil Sharpener, 7-11.5mm, Au"
 seo_title: "AFMAT Automatic Colored Pencil Sharpener Review (2026)"
 meta_description: "AFMAT auto colored pencil sharpener review: 7-11.5mm capacity, auto in/out, 4.5★ from 225 shoppers. Does it handle soft cores? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG1ZSQF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gpeVONvKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Auto in/out mechanism handles the full 7-11.5mm range without jamming, including jumbo art pencils"
   - "3-stage adjustable point selector gives real control for fine detail vs. shading work"
   - "Hexagonal barrel clutch grips securely — no slipping or wobble on triangular pencils either"
-cons:
+cons: 
   - "Battery-powered (4xAA) — no AC adapter option, so artists burning through colored pencils will eat batteries"
   - "Whines at high RPM — audible in a quiet studio; not silent like premium electric sharpeners"
   - "Occasional core breakage on ultra-soft pastel pencils (B8+ range) if you push too fast"
+
 ---
 
 ## The AFMAT Auto Sharpener: Finally, a Machine That Respects Colored Pencils

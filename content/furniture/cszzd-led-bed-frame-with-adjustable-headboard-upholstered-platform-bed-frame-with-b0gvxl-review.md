@@ -1,4 +1,5 @@
 ---
+
 title: "CSZZD LED Bed Frame with Adjustable Headboard, Upholstered P"
 seo_title: "CSZZD LED Bed Frame Review: Adjustable Headboard & Smart Lighting"
 meta_description: "Honest CSZZD LED bed frame review: adjustable headboard, upholstered platform, LED lighting. Real pros, cons, and buyer advice for your bedroom."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVXLRTMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KV3GWA3AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable headboard angles (0-90°) let you switch between reading, watching TV, and sleeping positions without extra pillows"
   - "Integrated LED lighting with remote control — 20+ colors, brightness levels, and a timer function that actually works"
   - "Tool-free assembly in under 45 minutes; all parts labeled, hex wrench included"
-cons:
+cons: 
   - "LED strip is not replaceable if it fails — it's embedded in the headboard frame, and several buyers report dimming after 8-10 months"
   - "Upholstered fabric is light gray only; no darker color options for those who worry about stains from pets or kids"
   - "Weight capacity is 500 lbs, but the center support bar sits low — tall users may find the middle feels slightly softer than the edges"
+
 ---
 
 Let me cut through the noise on this one. The CSZZD LED Bed Frame with Adjustable Headboard is one of those products that looks fantastic in the listing photos, and for once, it mostly delivers. I've spent time digging through all 225 ratings (4.5 stars), and here's what you need to know before you pull the trigger.

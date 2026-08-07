@@ -1,4 +1,5 @@
 ---
+
 title: "Atticus Torocity Herbicide (1 Gal) - (Compare to Tenacity) -"
 seo_title: "Atticus Torocity Herbicide Review: Tenacity Alternative"
 meta_description: "Honest Atticus Torocity herbicide review. Is this mesotrione concentrate a worthy Tenacity comparison? Coverage, results, and downsides examined."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BY3LW4HT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OnRuIKqgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1 gallon treats up to 4 acres at standard rates — roughly 4x the volume of a typical 8oz Tenacity bottle for similar cost"
   - "Same active ingredient (mesotrione 40%) as name-brand Tenacity, so it works on crabgrass, clover, and 40+ other weeds"
   - "Safe for established cool-season turf like fescue, rye, and bluegrass when applied per label"
-cons:
+cons: 
   - "Requires a surfactant (not included) or you'll get uneven coverage and wasted product"
   - "Whitening effect on weeds can last 2-3 weeks before die-off — impatient homeowners may think it failed"
   - "No measuring cup included; you'll need a graduated syringe for accurate mixing at small lawn sizes"
+
 ---
 
 If you've priced out Tenacity lately, you know it hurts. Atticus Torocity is the generic mesotrione option that's been gaining traction on Amazon — and for good reason. But is it actually a 1:1 replacement, or are you trading performance for savings? Here's what 210 buyers at 4.2 stars are really saying.

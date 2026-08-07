@@ -1,7 +1,8 @@
 ---
-title: "NovorikX 60V Cordless String Trimmer 17\" Trimmer Weed Wacker"
-seo_title: "NovorikX 60V Cordless String Trimmer 17\" Trimmer W Review"
-meta_description: "Our full novorikx 60v cordless string trimmer 17\" trimmer weed wacker review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "NovorikX 60V Cordless String Trimmer 17\ Trimmer Weed Wacker"
+seo_title: "NovorikX 60V Cordless String Trimmer 17\ Trimmer W Review"
+meta_description: "Our full novorikx 60v cordless string trimmer 17\ trimmer weed wacker review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "novorikx-60v-cordless-string-trimmer-17-trimmer-weed-wacker-2-speed-brushless-b0dpk8-review"
 image_alt: "NovorikX 60V Cordless String Trimmer 17 Trimmer Weed Wacker, 2-Speed Brushless Weed Eater, Attachment Capable, 5.0Ah Bat"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DPK8C3ZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613P6KSXJ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a 17-inch cutting swath and a 60V brushless motor on paper, the NovorikX cordless trimmer looks like a serious contender. But 185 Amazon ratings averaging 3.7 stars tell a more complicated story. I've dug through the specs, the buyer feedback, and the real-world complaints to give you the straight answer on whether this weed wacker earns a spot in your garage.

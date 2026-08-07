@@ -1,4 +1,5 @@
 ---
+
 title: "Ticket to Ride First Journey Board Game | Board Game for Kid"
 seo_title: "Ticket to Ride First Journey Board Game | Board Ga Review"
 meta_description: "Our full ticket to ride first journey board game | board game for kid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BFG2KFXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S5Km93bhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've played the original Ticket to Ride and wondered when your kid can join in, First Journey is the answer — but it's a stepping stone, not a destination.

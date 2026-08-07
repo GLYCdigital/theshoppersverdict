@@ -1,4 +1,5 @@
 ---
+
 title: "Smashbox Photo Finish Intensify 24 Hour EyeShadow Primer | N"
 seo_title: "Smashbox Photo Finish Intensify 24 Hour EyeShadow  Review"
 meta_description: "Our full smashbox photo finish intensify 24 hour eyeshadow primer | n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BDLY73WB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K5dKHANML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about eye primers: most are either too greasy to hold shadow or so drying they crease your lids by lunch. The Smashbox Photo Finish Intensify 24 Hour EyeShadow Primer sits in a rare middle ground, and after testing it across humid afternoons, sweaty gym sessions, and one very long wedding day, I understand why it holds a 4.5-star rating from 225 Amazon reviewers.

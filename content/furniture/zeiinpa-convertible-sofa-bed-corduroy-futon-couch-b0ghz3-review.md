@@ -1,4 +1,5 @@
 ---
+
 title: "ZEIINPA Convertible Sofa Bed,Corduroy Futon Couch"
 seo_title: "ZEIINPA Convertible Sofa Bed,Corduroy Futon Couch Review:"
 meta_description: "Our full zeiinpa convertible sofa bed,corduroy futon couch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHZ37585/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZVvfSUApL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most convertible sofas under $300 are flimsy, ugly, or both. The ZEIINPA Convertible Sofa Bed bucks that trend in some surprising ways — and stumbles in a few predictable ones. After digging through 225 ratings and the specs, here's the real story.

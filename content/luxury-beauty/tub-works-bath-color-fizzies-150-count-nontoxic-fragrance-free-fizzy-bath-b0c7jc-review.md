@@ -1,4 +1,5 @@
 ---
+
 title: "Tub WorksÂ® Bath Color Fizzies, 150 Count | Nontoxic & Fragr"
 seo_title: "Tub WorksÂ® Bath Color Fizzies, 150 Count | Nontox Review"
 meta_description: "Our full tub worksâ® bath color fizzies, 150 count | nontoxic & fragr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7JCXX7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I3HuqUv+L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most bath color tablets are either overpriced for what they deliver or so packed with synthetic dyes and fragrance that they defeat the purpose of a relaxing soak. The Tub Works Bath Color Fizzies sit in a sweeter spot: 150 nontoxic, fragrance-free fizzies that turn your tub into a kaleidoscope without turning your skin into a science experiment. At a 4.4-star average across 220 ratings, they've clearly earned their keep — but they're not for everyone.

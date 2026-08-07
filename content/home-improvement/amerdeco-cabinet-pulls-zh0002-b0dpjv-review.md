@@ -1,4 +1,5 @@
 ---
+
 title: "Amerdeco Cabinet Pulls ZH0002 inch"
 seo_title: "Amerdeco Cabinet Pulls ZH0002 Review: Worth It? (2026)"
 meta_description: "Amerdeco Cabinet Pulls ZH0002 review: 4.7-star rated hardware. Real pros, cons, and buying advice for your kitchen remodel."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPJVD79T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kUO+m8keS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machined 304 stainless steel with a consistent brushed finish that resists fingerprints and smudging"
   - "Included mounting template and stainless screws make installation straightforward for DIYers"
   - Multiple sizes (3 inch ", 4 inch ", 5 inch ", 6 inch ", 8 inch ", 12 inch ") let you mix-and-match for upper and lower cabinets
-cons:
+cons: 
   - "Center-to-center spacing is non-standard (96mm, 128mm) on some sizes — measure before drilling"
   - "No rubber backing pads included; metal-on-wood contact can scuff cabinet faces over time"
+
 ---
 
 **Bottom line up front:** The Amerdeco ZH0002 pulls are the rare hardware upgrade that delivers exactly what it promises — clean lines, solid weight, and a finish that doesn't show every fingerprint. At 4.7 stars across 235 ratings, buyers agree. But there's a measurement gotcha you need to know before you drill.

@@ -1,4 +1,5 @@
 ---
+
 title: "Landscape Edging Border with Plastic Spikes"
 seo_title: "Landscape Edging Border with Plastic Spikes Review: Verdi"
 meta_description: "Our full landscape edging border with plastic spikes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKP2KC1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71td+MOC0EL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most landscape edging is a pain in the back. You're either wrestling with rolled steel that springs back in your face, or digging a trench deep enough to bury a body. So when something claims to install by simply hammering it into the ground, I'm skeptical. This plastic spike border actually delivers on that promise, with a few caveats worth knowing before you buy.

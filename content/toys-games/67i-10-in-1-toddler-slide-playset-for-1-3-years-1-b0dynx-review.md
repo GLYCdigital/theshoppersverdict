@@ -1,4 +1,5 @@
 ---
+
 title: "67i 10 in 1 Toddler Slide Playset for 1-3 Years - 1-Hour Eas"
 seo_title: "67i 10-in-1 Toddler Slide Playset Review (2026): Worth It?"
 meta_description: "Honest 67i 10-in-1 toddler slide playset review for ages 1-3. Tested for safety, assembly time, and play value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYNXJPZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ok+NIhhNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10 distinct play modes (slide, basketball, tunnel, hideout, steps) pack real variety into a compact 63L x 21W x 31H inch footprint"
   - "Assembly genuinely takes under an hour — most buyers report 30-45 minutes with zero tools required"
   - "HDPE plastic feels sturdy and holds up to daily indoor use; supports up to 110 lbs so older siblings can join in"
-cons:
+cons: 
   - "Slide surface is short and gentle — adventurous 3-year-olds may outgrow the sliding thrill within months"
   - "Basketball hoop is flimsy plastic that can snap off if a toddler hangs on it; needs supervision"
   - "No floor padding included — you'll need a soft mat underneath for hardwood or tile safety"
+
 ---
 
 **Bottom line:** This 67i 10-in-1 playset is a smart indoor investment for families with 1-3 year olds who need to burn energy without leaving the house. It's not a permanent fixture — but for roughly 18 months of daily use, it earns its keep.

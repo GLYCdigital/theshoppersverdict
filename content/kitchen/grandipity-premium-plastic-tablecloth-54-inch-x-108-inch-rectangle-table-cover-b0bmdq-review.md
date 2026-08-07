@@ -1,4 +1,5 @@
 ---
+
 title: "Grandipity Premium Plastic Tablecloth 54 Inch x 108 Inch Rec"
 seo_title: "Grandipity Premium Plastic Tablecloth 54 Inch x 10 Review"
 meta_description: "Our full grandipity premium plastic tablecloth 54 inch x 108 inch rec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMDQX8WG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aNFusQtKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Plastic Tablecloth Actually Worth It?

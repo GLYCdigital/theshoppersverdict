@@ -1,4 +1,5 @@
 ---
+
 title: "Novilla Mattress Queen Size, 12 Inch Queen Size Hybrid Mattr"
 seo_title: "Novilla Mattress Queen Size, 12 Inch Queen Size Hy Review"
 meta_description: "Our full novilla mattress queen size, 12 inch queen size hybrid mattr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6YXV4T3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q0FNS0lgL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Novilla 12-inch queen hybrid the right bed for your money, or just another boxed mattress that promises more than it delivers? After digging through 220 ratings and the construction specs, here's what actually matters.**

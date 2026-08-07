@@ -1,4 +1,5 @@
 ---
+
 title: "Baker's Signature Air Fryer Paper Liners 120-Pack"
 seo_title: "Baker's Signature Air Fryer Liners Review (120-Pack)"
 meta_description: "Honest Baker's Signature air fryer paper liners review: 120-pack, fit, durability, and cleanup tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 24510
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6Y8NYK1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b6E1JVs-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Perforated design allows air circulation while catching grease, so food cooks evenly without sitting in drippings"
   - "True 8-inch square size fits most 4-6 quart baskets without the curling or up-the-walls misfit cheaper liners have"
   - "Sturdy parchment weight handles heavy items like chicken thighs and frozen mozzarella sticks without tearing on removal"
-cons:
+cons: 
   - "Not compatible with basket-style air fryers that have a center prong or raised rack — you'll need to trim or skip them"
   - "For 120 sheets at $11.99, that's about 10 cents per liner; cheaper generic packs exist, but they're thinner and tear more"
+
 ---
 
 The air fryer is arguably the most-used appliance in my kitchen. The cleaning after? The least favorite part of my day. Baker's Signature's 120-pack of paper liners promises to fix that for $11.99. After two weeks of daily use across two different air fryer models, here's the honest breakdown.

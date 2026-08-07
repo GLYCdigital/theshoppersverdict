@@ -1,4 +1,5 @@
 ---
+
 title: "Ed Hardy Tanning Aquaholic - Coconut Surge Natural Bronzer T"
 seo_title: "Ed Hardy Coconut Surge Bronzer Review: Worth It?"
 meta_description: "Read our honest Ed Hardy Tanning Aquaholic Coconut Surge Natural Bronzer review. See how this bronzing tanning lotion performs, its scent, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GGCL94L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M1j4TGkPL._SL1500_.jpg"
-pros:
+pros: 
   - "Immediate bronzer with a natural, buildable golden tone — no orange cast or streaking"
   - "Coconut scent is genuinely pleasant, not artificial or overpowering, and fades quickly after tanning"
   - "Contains skin-nourishing ingredients like coconut oil and shea butter that leave skin soft, not sticky"
-cons:
+cons: 
   - "No tingling sensation — if you want a 'hot' tanning experience, this isn't it"
   - "Bronzer can transfer to clothing if you don't wait 10-15 minutes before getting dressed"
+
 ---
 
 # Ed Hardy Tanning Aquaholic Coconut Surge: The Bronzer That Delivers What It Promises

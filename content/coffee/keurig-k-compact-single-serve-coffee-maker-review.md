@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K-Compact Single-Serve Coffee Maker"
 seo_title: "Keurig K-Compact Review: Is This Mini Coffee Maker Worth It?"
 meta_description: "Our Keurig K-Compact review covers brew sizes, water tank capacity, and real buyer feedback. See who should buy this space-saving coffee maker."
@@ -11,13 +12,14 @@ review_count: 11194
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BV9HKMNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6134AqFiL3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "42oz removable reservoir with drip tray that accommodates travel mugs up to 7 inches tall"
   - "Three brew sizes (6, 8, 10oz) with fast 1-minute brew time and automatic shutoff after 2 minutes"
   - "Surprisingly compact 12.8-inch footprint that fits under standard kitchen cabinets"
-cons:
+cons: 
   - "No strength control or temperature settings — you get one brew profile, period"
   - "The 42oz tank needs refilling every 3-4 cups depending on your selected size"
+
 ---
 
 The Keurig K-Compact answers a simple question: what if you stripped away everything but the essentials? At $69.99, it's not the cheapest single-serve brewer out there, but it undercuts Keurig's full-size models by a solid $30-60. The tradeoff? You lose programmability, a larger reservoir, and the tall carafe-friendly design. For many households, that's a fair deal. For others, it'll feel like paying for less.

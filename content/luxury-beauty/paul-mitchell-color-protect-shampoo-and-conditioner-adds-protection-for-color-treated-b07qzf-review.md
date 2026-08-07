@@ -1,4 +1,5 @@
 ---
+
 title: "Paul Mitchell Color Protect Shampoo and Conditioner, Adds Pr"
 seo_title: "Paul Mitchell Color Protect Shampoo and Conditione Review"
 meta_description: "Our full paul mitchell color protect shampoo and conditioner, adds pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QZF24JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Vp1Oa4zIL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: if you've paid good money for salon color, the last thing you want is a $5 shampoo stripping it out in three washes. The Paul Mitchell Color Protect Duo is positioned squarely at that problem, and at a 4.6-star average across 229 ratings, it's clearly earning its keep for most buyers. But is it the right color-care system for *your* hair? Here's the breakdown.

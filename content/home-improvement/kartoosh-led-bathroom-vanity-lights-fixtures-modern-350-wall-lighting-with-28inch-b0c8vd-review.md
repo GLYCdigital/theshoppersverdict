@@ -1,4 +1,5 @@
 ---
+
 title: "KARTOOSH LED Bathroom Vanity Lights Fixtures Modern 350Â° Wa"
 seo_title: "KARTOOSH LED Bathroom Vanity Lights Fixtures Moder Review"
 meta_description: "Our full kartoosh led bathroom vanity lights fixtures modern 350â° wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C8VDB6WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s3ULy5eDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The KARTOOSH LED vanity light is a genuinely useful fixture for anyone tired of shadows across their face while getting ready. The 350° rotating heads are the headline feature, and they deliver. But it's hardwired, fixed at 4000K, and not for everyone. Here's the full breakdown.

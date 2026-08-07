@@ -1,4 +1,5 @@
 ---
+
 title: "Gisou Honey Infused Leave-In Conditioner â€“ Detangling, Hyd"
 seo_title: "Gisou Honey Infused Leave-In Conditioner â€“ Detan Review"
 meta_description: "Our full gisou honey infused leave-in conditioner â€“ detangling, hyd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09F56QPTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uxtiNIoGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: when a brand founder has 3.5 million Instagram followers and her last name is on the bottle, you brace for overpriced hype. But the Gisou Honey Infused Leave-In Conditioner has earned a 4.4-star average across 220 Amazon ratings — which suggests there's substance behind the aesthetic. After digging into the formula, the ingredients, and what actual buyers keep repeating in their reviews, here's the real story.

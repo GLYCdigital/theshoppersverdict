@@ -1,7 +1,8 @@
 ---
-title: "WOODTIME 86.6\" W Dining Table for 8-10 People, Versatile Mod"
-seo_title: "WOODTIME 86.6\" W Dining Table for 8-10 People, Ver Review"
-meta_description: "Our full woodtime 86.6\" w dining table for 8-10 people, versatile mod review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "WOODTIME 86.6\ W Dining Table for 8-10 People, Versatile Mod"
+seo_title: "WOODTIME 86.6\ W Dining Table for 8-10 People, Ver Review"
+meta_description: "Our full woodtime 86.6\ w dining table for 8-10 people, versatile mod review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "woodtime-86-6-w-dining-table-for-8-10-people-versatile-modern-b0ghy1-review"
 image_alt: "WOODTIME 86.6 W Dining Table for 8-10 People, Versatile Modern Wooden Dinner Table Kitchen Table for Dining Room"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHY16G85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jW4AX8cQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a table that seats eight without making your dining room feel like a banquet hall, the WOODTIME 86.6" hits a sweet spot. At just over seven feet wide, it's substantial — but not so massive that it dominates a standard 12x14-foot room. Here's the honest breakdown after digging through 210 ratings and the spec sheet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aothia Desk Pad"
 seo_title: "Aothia Desk Pad Review: $9 Mousepad That Protects Your Desk"
 meta_description: "Aothia Desk Pad review: 4.6-star rated, $8.99 desk protector. Is the non-slip surface worth it? We break down durability, size options, and who should buy."
@@ -11,14 +12,15 @@ review_count: 77004
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XADFHuLDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3mm natural rubber base grips hard surfaces without sliding — even during frantic gaming sessions"
   - "Stitched edges hold up after months of daily use, unlike cheaper pads that fray within weeks"
   - "Waterproof PU leather surface wipes clean with a damp cloth — coffee spills don't soak in"
-cons:
+cons: 
   - "New-pad smell lingers for a few days — air it out before putting it on your desk"
   - "Thinner than premium pads at 3mm, so minor desk imperfections can telegraph through"
   - "Standard size (31.5 x 15.7 inches) is tight for dual-monitor setups with a full keyboard"
+
 ---
 
 # Aothia Desk Pad Review: The $9 Desk Upgrade That Actually Works

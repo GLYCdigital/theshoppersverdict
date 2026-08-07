@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT TOUGHSYSTEM 2.0, Large Tool Box, 22 in, 110 lbs. Capa"
 seo_title: "DEWALT TOUGHSYSTEM 2.0 Large Tool Box Review: Worth It?"
 meta_description: "DEWALT TOUGHSYSTEM 2.0 Large Tool Box review: 110 lbs capacity, 22-inch build, tough latches, real-world testing. Is it worth $100+? Find out."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08D3LX8HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HPaoIjRJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Metal-reinforced corner brackets and heavy-duty latches handle real job-site abuse without cracking"
   - "110-pound capacity is conservative — the base plate and column connections are genuinely overbuilt"
   - "IP65-rated weather seal keeps dust and rain out, not just marketing jargon"
-cons:
+cons: 
   - "The handle sits slightly high when stacked — can bump your knuckles on the box above if you're tall"
   - "No built-in organizer tray in the lid; small parts will swim around unless you buy the separate divider kit"
+
 ---
 
 The DEWALT TOUGHSYSTEM 2.0 Large Tool Box is the box you buy when you're done replacing cheap plastic totes every six months. It's the 22-inch workhorse of DEWALT's modular storage lineup, rated to carry 110 pounds and built like a miniature shipping container. But at this price point, you need to know exactly what you're getting.

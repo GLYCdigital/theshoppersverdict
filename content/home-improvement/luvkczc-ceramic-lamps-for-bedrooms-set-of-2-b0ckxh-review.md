@@ -1,4 +1,5 @@
 ---
+
 title: "Luvkczc Ceramic Lamps for Bedrooms Set of 2"
 seo_title: "Luvkczc Ceramic Lamps for Bedrooms Set of 2 Review: Verdi"
 meta_description: "Our full luvkczc ceramic lamps for bedrooms set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKXHKVBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+hC0Mc5KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same flat-pack, particleboard bedside lamps that all look like they came from the same Chinese warehouse, the Luvkczc Ceramic Lamps set is a genuine departure. These are actual kiln-fired ceramic bases — the kind with heft and a hand-finished glaze — not hollow plastic shells dressed up to look expensive. At 4.7 stars across 235 ratings, the set has earned its keep in bedrooms that need more than a bare bulb on a nightstand.

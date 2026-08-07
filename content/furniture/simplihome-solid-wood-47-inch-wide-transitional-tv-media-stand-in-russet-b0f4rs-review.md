@@ -1,4 +1,5 @@
 ---
+
 title: "SIMPLIHOME Solid Wood 47 inch Wide Transitional TV Media Sta"
 seo_title: "SIMPLIHOME Solid Wood 47 inch Wide Transitional TV Review"
 meta_description: "Our full simplihome solid wood 47 inch wide transitional tv media sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F4RS3JL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZYcoYHFhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: finding a TV stand under $400 that's actually solid wood — not veneer over particleboard — is like finding parking at a mall on Black Friday. The SIMPLIHOME 47-inch Transitional Media Stand is one of the few exceptions. I've tested it, I've lived with it, and here's the honest breakdown.

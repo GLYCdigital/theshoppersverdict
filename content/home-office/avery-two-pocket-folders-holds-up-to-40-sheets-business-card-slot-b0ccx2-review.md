@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Two Pocket Folders, Holds up to 40 Sheets, Business Ca"
 seo_title: "Avery Two Pocket Folders Review: 40-Sheet Capacity & Business Card Slot"
 meta_description: "Honest Avery Two Pocket Folders review: 4.7/5 rating, 40-sheet capacity, business card slot. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCX2NWHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812p6w7GxLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavyweight 11pt stock resists curling and survives repeated trips in a briefcase or backpack"
   - "Integrated business card slot on the front cover eliminates the need for separate label holders"
   - "Reinforced bottom edge prevents the classic split-seam failure you get with cheap folders"
-cons:
+cons: 
   - "Only 40-sheet capacity — if you routinely carry thicker reports, you'll need the 70-sheet version"
   - "Assorted color packs mean you can't guarantee all one color if you need a uniform look"
+
 ---
 
 If you've ever watched a "budget" folder split apart at the bottom seam three weeks into a semester or a sales quarter, you know the value of one that doesn't. The **Avery Two Pocket Folders** (the version with the business card slot, model B0CCX2NWHN) are the unassuming workhorses of office organization — and at 4.7 stars across 235 ratings, they've earned their reputation. Here's the real breakdown after examining the specs and what actual buyers report.

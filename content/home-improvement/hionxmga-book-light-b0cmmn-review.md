@@ -1,4 +1,5 @@
 ---
+
 title: "HIONXMGA Book Light"
 seo_title: "HIONXMGA Book Light Review: Verdict | TSV"
 meta_description: "Our full hionxmga book light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMMNRCKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gXjiJLEKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: I've tested a dozen book lights that claim to be "the last one you'll ever buy." Most end up in a drawer within a month. The HIONXMGA Book Light is different — but not perfect. Here's the honest breakdown.

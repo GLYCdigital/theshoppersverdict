@@ -1,4 +1,5 @@
 ---
+
 title: "Jean Paul Gaultier Ultra Male oz Eau de Toilette Intense Spr"
 seo_title: "Jean Paul Gaultier Ultra Male oz Eau de Toilette I Review"
 meta_description: "Our full jean paul gaultier ultra male oz eau de toilette intense spr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C61CPH6J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515vGYyvBzL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that guy at the party whose scent you can still smell on your jacket the next morning? That's Jean Paul Gaultier Ultra Male Intense. This isn't a subtle "skin scent" for close encounters — it's a fragrance that announces itself before you enter the room and lingers long after you've left.

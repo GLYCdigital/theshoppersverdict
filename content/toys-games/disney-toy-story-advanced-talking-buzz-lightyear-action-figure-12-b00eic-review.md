@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Toy Story Advanced Talking Buzz Lightyear Action Figu"
 seo_title: "Buzz Lightyear Talking Action Figure Review (2026)"
 meta_description: "Honest Disney Toy Story Advanced Talking Buzz Lightyear review: 20+ phrases, wing motion, build quality, and who should buy it. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00EICQSG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813BQa+gBDL._AC_SL1440_.jpg"
-pros:
+pros: 
   - "20+ movie-accurate phrases with authentic Tim Allen voice recordings, not cheap soundalikes"
   - "Working wings that deploy with a satisfying spring mechanism — durable enough for repeated use"
   - "Laser light projection actually works and adds real play value beyond just posing"
-cons:
+cons: 
   - "Wing mechanism can feel stiff on some units — younger kids may need adult help deploying them"
   - "No space ranger helmet included, which limits the 'full suit' display options"
   - "Voice activation can be overly sensitive — accidental phrases trigger during rough play"
+
 ---
 
 **Is this the Buzz Lightyear your kid has been begging for? Here's the honest breakdown before you add to cart.**

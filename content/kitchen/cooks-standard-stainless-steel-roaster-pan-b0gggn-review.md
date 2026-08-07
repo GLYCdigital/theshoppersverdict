@@ -1,4 +1,5 @@
 ---
+
 title: "Cooks Standard Stainless Steel Roaster Pan"
 seo_title: "Cooks Standard Roaster Pan Review: 16-Inch Deep Pan"
 meta_description: "Read our Cooks Standard stainless steel roaster pan review. 16-inch deep pan with rack, even heating, and easy cleanup. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GGGN87ZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b7uWXtngL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply construction with aluminum core delivers even heat without hot spots — turkey cooks uniformly edge to edge"
   - "Deep 3.5-inch walls prevent splatter and hold pan drippings for gravy without overflow"
   - "Stainless steel is induction-compatible and oven-safe to 600°F, unlike nonstick roasters that fail above 450°F"
-cons:
+cons: 
   - "Stainless steel requires more elbow grease for stuck-on drippings than nonstick alternatives"
   - "No helper handles — the pan gets heavy with a 20-pound turkey, so two hands (or two people) are essential"
+
 ---
 
 If you've roasted a turkey in one of those flimsy disposable foil pans, you know the drill: the bird cooks unevenly, the pan buckles when you lift it, and carving turns into a balancing act. The Cooks Standard Stainless Steel Roaster Pan is the permanent fix for that annual chaos. With a 4.8-star average across 240 ratings, it's clearly winning over home cooks — but is it the right roaster for your kitchen? Here's the full picture.

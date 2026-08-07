@@ -1,4 +1,5 @@
 ---
+
 title: "Maple99 Raised Garden Bed with Legs 48x24x30 - Natural Cedar"
 seo_title: "Maple99 Raised Garden Bed with Legs 48x24x30 - Nat Review"
 meta_description: "Our full maple99 raised garden bed with legs 48x24x30 - natural cedar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C62D5QPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mcCjcm84L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Maple99 Raised Garden Bed is the rare elevated planter that actually looks like furniture. Most beds in this category are either flimsy metal troughs that dent on assembly or pressure-treated pine that leaches chemicals into your soil. This one is solid cedar, built on four real legs, and at 48x24x30 inches it clears the bar for both durability and accessibility. Here's the honest breakdown.

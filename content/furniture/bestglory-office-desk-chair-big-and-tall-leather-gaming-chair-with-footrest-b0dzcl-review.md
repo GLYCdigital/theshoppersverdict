@@ -1,4 +1,5 @@
 ---
+
 title: "BestGlory Office Desk Chair, Big and Tall Leather Gaming Cha"
 seo_title: "BestGlory Big & Tall Leather Gaming Chair Review: Worth It?"
 meta_description: "Honest BestGlory big & tall leather gaming chair review: comfort, build, footrest, and who should buy. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZCLJ9ZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F-uMF3AfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely wide seat (22 inches) and 400-lb weight capacity — rare at this price point"
   - "Retractable footrest is surprisingly sturdy and actually extends far enough for taller users"
   - "Padded armrests and thick lumbar support hold up well over months of daily use"
-cons:
+cons: 
   - "Leather is bonded, not genuine — expect peeling in high-friction areas after 12-18 months"
   - "Assembly takes 45+ minutes; the included hex wrench strips easily under torque"
   - "Seat cushion runs firm initially — needs a 2-week break-in period before judging comfort"
+
 ---
 
 # BestGlory Office Desk Chair, Big and Tall Leather Gaming Cha

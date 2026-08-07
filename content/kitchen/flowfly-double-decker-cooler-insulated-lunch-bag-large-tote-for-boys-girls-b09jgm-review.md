@@ -1,4 +1,5 @@
 ---
+
 title: "FlowFly Double Decker Cooler Insulated Lunch Bag Large Tote"
 seo_title: "FlowFly Double Decker Cooler Lunch Bag Review (2026)"
 meta_description: "Read our honest FlowFly Double Decker Cooler lunch bag review. Is this $18.59 insulated tote worth it? Tested for leaks, insulation, and durability."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09JGM81P6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SxR-ncv8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True double-decker design keeps hot and cold items separated — a rare feature at this price point"
   - "Leak-proof PEVA lining survives real-world abuse; buyers report wiping out spills without seepage"
   - "Fits a full 12-can case in the bottom compartment with room for snacks on top"
-cons:
+cons: 
   - "Exterior is a fabric magnet for crumbs and pet hair — darker colors show everything"
   - "Shoulder strap pad is thin; heavy loads dig in after 15+ minutes of walking"
+
 ---
 
 You've probably bought a lunch bag that claimed "double decker" and actually meant "one big bag with a flimsy divider." The FlowFly Double Decker isn't that. This $18.59 tote has two genuinely separate zippered compartments stacked vertically — and for the price, it's the best organizational value I've tested in this category all year. Here's why it earns a 4.6.

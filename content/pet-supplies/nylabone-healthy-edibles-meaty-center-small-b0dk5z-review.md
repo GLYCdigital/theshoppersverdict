@@ -1,4 +1,5 @@
 ---
+
 title: "Nylabone Healthy Edibles Meaty Center Small"
 seo_title: "Nylabone Healthy Edibles Meaty Center Small Review: Verdi"
 meta_description: "Our full nylabone healthy edibles meaty center small review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK5Z7T3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pIp4xQURL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about dog chews: most are either rock-hard synthetics your 8-pound Yorkie ignores or flimsy rawhide that ends up stuck to your ceiling. The Nylabone Healthy Edibles Meaty Center Small sits in a smarter middle ground—an edible chew with enough structure to occupy a small dog without requiring a chainsaw to break down.

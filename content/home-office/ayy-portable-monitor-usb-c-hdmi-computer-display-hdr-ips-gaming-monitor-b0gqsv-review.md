@@ -1,4 +1,5 @@
 ---
+
 title: "AYY Portable Monitor USB-C/HDMI Computer Display, HDR IPS Ga"
 seo_title: "AYY Portable Monitor Review: USB-C/HDMI HDR IPS Display"
 meta_description: "AYY Portable Monitor USB-C/HDMI review: 4.6-star rated HDR IPS display. Is it worth it for travel, gaming, or dual-screen work? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQSV8CW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uts35W75L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single USB-C cable carries both video and power — no wall adapter needed when connected to a laptop"
   - "IPS panel with 100% sRGB coverage delivers punchy, color-accurate visuals out of the box"
   - "Weighs under 2 pounds with a magnetic smart cover that doubles as a stand"
-cons:
+cons: 
   - "Built-in speakers are weak — fine for notifications, terrible for media consumption"
   - "HDR is more marketing than substance; brightness tops out around 300 nits, so don't expect true HDR punch"
+
 ---
 
 Let's cut through the noise. The AYY Portable Monitor is one of those products that sounds too convenient to be genuinely good — a 15.6-inch IPS display you can toss in a bag and power with a single USB-C cable. But with 229 ratings averaging 4.6 stars, someone's doing something right. I spent a week with it as my secondary display for work, travel, and a few late-night gaming sessions. Here's what I found.

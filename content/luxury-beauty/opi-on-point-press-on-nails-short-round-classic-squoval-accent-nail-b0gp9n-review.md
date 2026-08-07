@@ -1,4 +1,5 @@
 ---
+
 title: "OPI On Point Press On Nails | Short Round Classic, Squoval &"
 seo_title: "OPI On Point Press On Nails | Short Round Classic, Review"
 meta_description: "Our full opi on point press on nails | short round classic, squoval & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GP9NPYT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BJxFbumVL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 OPI owns the salon polish game. So when they stepped into the press-on space, expectations were high. The **OPI On Point Short Round set** delivers on the polish quality — but the delivery system has some rough edges. Here's what 185 ratings at 3.7 stars actually tell you.

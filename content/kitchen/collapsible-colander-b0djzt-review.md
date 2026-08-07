@@ -1,4 +1,5 @@
 ---
+
 title: "Collapsible Colander"
 seo_title: "Collapsible Colander Review: Space-Saving Strainer Tested"
 meta_description: "Honest collapsible colander review: Does the space-saving silicone strainer hold up? Real performance, durability concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJZTG7BN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eLrX2QelL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Collapses flat to roughly 1.5 inches thick, freeing up serious drawer and cabinet space"
   - "Heat-resistant silicone frame (up to 450°F) won't warp or melt against hot pots"
   - "Built-in measurement markings on the interior make it double as a prep bowl"
-cons:
+cons: 
   - "Flexible silicone arms can buckle under heavy loads — a full 2 pounds of pasta risks spills"
   - "Staining from tomato-based sauces is a real issue; not all discoloration washes out"
   - "Drain holes are smaller than traditional metal colanders, slowing water flow noticeably"
+
 ---
 
 **The space-saving pitch is real. The durability question is where it gets interesting.**

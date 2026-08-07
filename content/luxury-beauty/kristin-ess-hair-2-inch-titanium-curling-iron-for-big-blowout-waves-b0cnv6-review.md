@@ -1,4 +1,5 @@
 ---
+
 title: "Kristin Ess Hair 2 Inch Titanium Curling Iron for Big Blowou"
 seo_title: "Kristin Ess Hair 2 Inch Titanium Curling Iron for  Review"
 meta_description: "Our full kristin ess hair 2 inch titanium curling iron for big blowou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNV685WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YBJJ2QzlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a salon blowout and wondered why your at-home waves fall flat by lunchtime, the Kristin Ess 2-Inch Titanium Curling Iron is aimed directly at you. This is a tool built for one specific job: loose, voluminous, "I just left the salon" waves — not tight ringlets, not beachy texture. And for that one job, it does remarkably well.

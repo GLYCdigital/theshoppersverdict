@@ -1,4 +1,5 @@
 ---
+
 title: "MATERESSES Twin Size Mattress Gel Memory Foam Bed Mattress i"
 seo_title: "MATERESSES Twin Size Mattress Gel Memory Foam Bed  Review"
 meta_description: "Our full materesses twin size mattress gel memory foam bed mattress i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DN1PQ7DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qzwI5ZpoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a twin mattress on a budget, you've probably noticed the market is flooded with bed-in-a-box options that all look identical. The **Materesses Twin Size Gel Memory Foam Mattress** stands out for one simple reason: it's aggressively priced, and the gel-infused top layer addresses the most common complaint about cheap memory foam — sleeping hot.

@@ -1,4 +1,5 @@
 ---
+
 title: "GeekShare Portable Carrying Case Compatible with Switch 2 (2 inch"
 seo_title: "GeekShare Switch 2 Carrying Case Review (2025): Worth It?"
 meta_description: "Honest GeekShare Switch 2 carrying case review: fit, protection, storage, and real buyer feedback. Is this 4.8-star case worth your money?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GTTK9T8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SGpVexYDL._SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts for Switch 2's larger body and updated rail placement—no wiggling or forced fit"
   - "Rigid EVA shell with a soft microfiber interior that actually cushions the screen and sticks"
   - "Holds 10 game cards and has a mesh pocket for cables or earbuds without adding bulk"
-cons:
+cons: 
   - "No dedicated slot for the Switch 2 dock—this is strictly a handheld-travel case, not an all-in-one"
   - "The zipper pull is small; buyers with larger hands or arthritis may find it fiddly to grip"
+
 ---
 
 The Nintendo Switch 2 is bigger, heavier, and more expensive than its predecessor—which means the "cheap sleeve" approach from 2017 isn't going to cut it. The GeekShare Portable Carrying Case is designed specifically for the new console's dimensions, and with a 4.8-star average across 240 ratings, it's clearly resonating with early adopters. But is it actually protecting your $450 investment, or just another generic pouch with a logo slapped on it? I dug into the specs and buyer feedback to find out.

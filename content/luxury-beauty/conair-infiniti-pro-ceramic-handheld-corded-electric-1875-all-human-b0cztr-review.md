@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR Infiniti Pro Ceramic Handheld Corded Electric 1875 Al"
 seo_title: "CONAIR Infiniti Pro Ceramic Hair Dryer Review (2026)"
 meta_description: "Honest CONAIR Infiniti Pro Ceramic 1875W dryer review: performance, heat control, durability, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZTRJJP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612Kgj6yX1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 1875W motor delivers fast drying even on thick, coarse hair — most buyers report cutting dry time by 30-40%"
   - "Ceramic technology distributes heat evenly, reducing hot spots that cause damage and frizz"
   - "Three heat settings plus a dedicated cool-shot button give real control for styling, not just drying"
-cons:
+cons: 
   - "Cord is a standard 6 feet — adequate but short if your outlet is far from a mirror"
   - "No diffuser included in the base model, which disappoints curly-haired buyers expecting one"
   - "Gets noticeably warm on the barrel during extended use; not burning, but noticeable"
+
 ---
 
 # CONAIR Infiniti Pro Ceramic Handheld Corded Electric 1875 Al Review

@@ -1,4 +1,5 @@
 ---
+
 title: "ATTACK SHARK X3 Lightweight Wireless Gaming Mouse with Tri-M"
 seo_title: "ATTACK SHARK X3 Review: Lightweight Wireless Gaming Mouse (2026)"
 meta_description: "ATTACK SHARK X3 review: 54g wireless gaming mouse with tri-mode connectivity. See real pros, cons, and if it's worth buying for FPS or office use."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSZQSTPV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MkZYyUCzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "54g honeycomb shell is genuinely featherlight — arm fatigue disappears during long sessions"
   - "Tri-mode connectivity (2.4GHz dongle, Bluetooth, USB-C wired) covers every setup from desktop to laptop to tablet"
   - "PAW3395 sensor with 26,000 DPI tracks flawlessly on both cloth pads and bare desks"
-cons:
+cons: 
   - "Honeycomb shell collects dust and debris — you'll be cleaning it weekly if you eat at your desk"
   - "Side buttons are shallow with a mushy click; not ideal for MMO players who bind everything"
   - "No on-board profile storage — your DPI settings vanish if you switch devices without the software running"
+
 ---
 
 The ATTACK SHARK X3 is the kind of mouse that makes you question why you ever paid $150 for a "premium" gaming peripheral. At 54 grams, it's lighter than most wired mice on the market — and it costs a fraction of what you'd expect for a tri-mode wireless setup. But light weight and a low price tag don't automatically mean "buy it." Let me break down what you're actually getting.

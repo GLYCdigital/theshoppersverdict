@@ -1,4 +1,5 @@
 ---
+
 title: "E7018 3/32 inch  1/8 inch  5/32 inch  Premium Arc Welding Rods Carbon Steel"
 seo_title: "E7018 Welding Rods 3/32 1/8 5/32 Review: Honest Look"
 meta_description: "E7018 3/32 inch  1/8 inch  5/32 inch  welding rods reviewed: real-world arc stability, slag removal, and value. See if these premium rods beat the big brands."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07TTD64RC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+8+qQuxJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely low-hydrogen flux coating that runs smooth on AC and DC — no spatter tantrums on dirty steel"
   - "Three-pack versatility (3/32, 1/8, 5/32) covers sheet metal through heavy structural work without buying separate boxes"
   - "Slag peels off in long ribbons, not chipped fragments — saves serious cleanup time on multi-pass welds"
-cons:
+cons: 
   - "5/32 rods demand a beefy 180A+ machine; hobbyist 140A units will stall out and stick"
   - "Flux coating absorbs moisture quickly — you'll need a rod oven or sealed storage if you don't burn through the box in a few weeks"
+
 ---
 
 If you've ever burned through a cheap box of 7018s that sputtered, stuck, and left you chipping slag for an hour, you know the difference a properly manufactured rod makes. This three-size bundle from the E7018 premium line sits squarely in the "good enough for professional work, priced for serious hobbyists" sweet spot. At 4.3 stars across 215 ratings, it's not perfect — but the complaints are mostly about storage discipline, not rod quality.

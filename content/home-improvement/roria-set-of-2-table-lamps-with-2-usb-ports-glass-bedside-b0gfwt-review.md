@@ -1,4 +1,5 @@
 ---
+
 title: "RORIA Set of 2 Table Lamps with 2 USB Ports, Glass Bedside L"
 seo_title: "RORIA Set of 2 Table Lamps with 2 USB Ports, Glass Review"
 meta_description: "Our full roria set of 2 table lamps with 2 usb ports, glass bedside l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFWT3HX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YFqpd+vGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The RORIA 2-pack bedside lamps solve a problem most lamp sets ignore — where do you plug in your phone? With two USB ports built into each lamp's base, this set eliminates the need for separate wall chargers on both sides of the bed. At 4.5 stars across 225 ratings, buyers are mostly happy, but there are some specifics worth knowing before you click buy.

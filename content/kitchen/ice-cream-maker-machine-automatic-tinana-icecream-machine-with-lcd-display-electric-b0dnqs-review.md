@@ -1,4 +1,5 @@
 ---
+
 title: "Ice Cream Maker Machine Automatic: TINANA Icecream Machine w"
 seo_title: "Ice Cream Maker Machine Automatic: TINANA Icecream Review"
 meta_description: "Our full ice cream maker machine automatic: tinana icecream machine w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DNQS8GDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BymlgwYkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TINANA Automatic Ice Cream Maker: A Compressor Machine That Almost Gets It Right

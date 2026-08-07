@@ -1,4 +1,5 @@
 ---
+
 title: "brfaixla Wagon Wheel Chandelier Light Fixture for Living Din"
 seo_title: "brfaixla Wagon Wheel Chandelier Review: Rustic Farmhouse Lighting"
 meta_description: "Read our honest brfaixla wagon wheel chandelier review. Real buyer feedback on build quality, installation, and brightness for dining rooms and living spaces."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D47M1TQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WK6tNuujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six-light design with genuine wood-toned wheel body — delivers the rustic farmhouse look without paying custom-rustic prices"
   - "Adjustable hanging height (up to ~59 inches) with all mounting hardware included, so it works on both 8-foot and vaulted ceilings"
   - "Compatible with dimmable bulbs and sloped-ceiling adapters, giving you flexibility most budget chandeliers lack"
-cons:
+cons: 
   - "Bulbs not included — factor $18–$30 for six Edison-style LEDs into your total cost"
   - "Wheel spokes are decorative, not structural — don't expect to hang anything from them"
   - "Some buyers report the included chain links feel slightly thin; replace with heavier chain if you're a perfectionist"
+
 ---
 
 If you've priced rustic farmhouse chandeliers at big-box stores lately, you know the drill: $400 for something made of stamped metal and fake wood. The brfaixla Wagon Wheel Chandelier undercuts that dramatically — and from the 4.5-star average across 225 ratings, it's not doing it by cutting corners where it matters.

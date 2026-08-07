@@ -1,4 +1,5 @@
 ---
+
 title: "OLD BAY Seasoning"
 seo_title: "OLD BAY Seasoning Review: Verdict | TSV"
 meta_description: "Our full old bay seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DBGNNX8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Az9c0x6rL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: OLD BAY isn’t a coffee maker. It’s not even coffee gear. But if you’re shopping this page, you already know what it is — the iconic yellow tin that’s been seasoning Maryland crab boils since 1939. The question isn’t *what* it is. It’s whether this 6-ounce shaker earns its 4.8-star rating from 240 buyers. Short answer: mostly yes, with one caveat.

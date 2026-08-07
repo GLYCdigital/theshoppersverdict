@@ -1,4 +1,5 @@
 ---
+
 title: "ENSO SENKA Frameless Pivot Shower Door, 1/4 inch  (6mm) Clear SGC"
 seo_title: "ENSO SENKA Frameless Pivot Shower Door Review: Is It Worth It?"
 meta_description: "Honest ENSO SENKA frameless pivot shower door review: 1/4 inch  tempered glass, build quality, installation tips, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVVD57SQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xCSLGvI4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - True 1/4 inch " (6mm) tempered glass with SGC certification — this is heavy-duty, not the flimsy 3/8 inch " aluminum-framed stuff
   - "Pivot hinge allows 90° inward and outward swing, making bathroom access easier than sliding doors"
   - "Clear glass with protective coating resists water spots and soap scum buildup noticeably longer"
-cons:
+cons: 
   - "Installation is not for beginners — the pivot hinge requires precise wall alignment or the door won't close flush"
   - "No towel bar or handle included in some kits; you'll need to buy a separate one if you want one"
   - "Glass is heavy (approx. 60-70 lbs); solo installation is risky without a second person or glass suction cups"
+
 ---
 
 **The Short Version**

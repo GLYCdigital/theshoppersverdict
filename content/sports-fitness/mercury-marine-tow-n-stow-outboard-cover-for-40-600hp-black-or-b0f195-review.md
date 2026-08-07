@@ -1,4 +1,5 @@
 ---
+
 title: "MERCURY Marine Tow N Stow Outboard Cover for 40-600hp, Black"
 seo_title: "MERCURY Marine Tow N Stow Outboard Cover for 40-60 Review"
 meta_description: "Our full mercury marine tow n stow outboard cover for 40-600hp, black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F195P9R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ir-lh8vDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're trailering a boat with an outboard over 40hp, you already know the drill: uncovered motors catch road grime, rock chips, and enough bugs to form a small ecosystem. The MERCURY Marine Tow N Stow cover aims to fix that with a simple promise — protect your outboard while towing, and stow it in the included bag when you're on the water. After digging through 235 ratings averaging 4.7 stars, here's the real story.

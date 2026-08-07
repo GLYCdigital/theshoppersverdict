@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Air Impact Wrench Air Impact Gun Lightweight Pneumatic"
 seo_title: "VEVOR Air Impact Wrench Air Impact Gun Lightweight Review"
 meta_description: "Our full vevor air impact wrench air impact gun lightweight pneumatic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C1ZKR8B2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61knd-QdCfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a seized lug nut using a 10-pound behemoth that vibrates your fillings loose, you know the pain. The VEVOR Air Impact Wrench aims to fix that with a lightweight composite body and genuine twin-hammer guts. At 4.7 pounds with 450 ft-lb of max torque, this isn't a toy — it's a serious contender for anyone who works on vehicles or equipment without wanting to drain their bank account on a Snap-On.

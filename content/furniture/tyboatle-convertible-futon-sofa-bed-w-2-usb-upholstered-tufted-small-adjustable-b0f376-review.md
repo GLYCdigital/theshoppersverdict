@@ -1,4 +1,5 @@
 ---
+
 title: "TYBOATLE Convertible Futon Sofa Bed w/ 2 USB, Upholstered Tu"
 seo_title: "TYBOATLE Convertible Futon Sofa Bed w/ 2 USB, Upho Review"
 meta_description: "Our full tyboatle convertible futon sofa bed w/ 2 usb, upholstered tu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F3762T5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GdGOygXvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TYBOATLE Convertible Futon Sofa Bed is the kind of product that makes you question why you'd spend four figures on a sleeper sofa. With a 4.0-star average across 200+ ratings, it's clearly earning its keep in apartments, home offices, and guest rooms. But "convertible" furniture always carries tradeoffs — and this one has a few worth knowing before you click buy.

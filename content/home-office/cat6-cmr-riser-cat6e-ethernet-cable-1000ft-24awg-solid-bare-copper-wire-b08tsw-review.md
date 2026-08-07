@@ -1,4 +1,5 @@
 ---
+
 title: "Cat6 CMR Riser (CAT6e) Ethernet Cable 1000ft, 24AWG, Solid B"
 seo_title: "Cat6 CMR Riser Ethernet Cable 1000ft Review (2026)"
 meta_description: "Honest Cat6 CMR riser cable review: 1000ft spool, 24AWG solid bare copper. Is it worth it for home runs? Real pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08TSWJJLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616CDey+cwL._SL1500_.jpg"
-pros:
+pros: 
   - "True 24AWG solid bare copper — passes verification tests, not CCA (copper-clad aluminum) masquerading as copper"
   - "CMR riser rating means you can legally pull this through walls and vertical shafts in most residential and commercial settings"
   - "Consistent 550MHz bandwidth rating and clean terminations with standard RJ45 connectors — no surprises at the punchdown block"
-cons:
+cons: 
   - "The spool has a bit of coil memory — you'll need to let it relax or pull with tension to get straight runs"
   - "No pull box or dispenser included; a 1000ft spool is heavy and awkward to handle solo without a spool roller"
   - "Jacket is slightly stiff in cold environments, making termination more tedious when pulling in winter conditions"
+
 ---
 
 If you're running ethernet through walls, ceilings, or between floors, you don't have the luxury of grabbing whatever patch cable is on sale. You need riser-rated, solid conductor cable that passes inspection and delivers gigabit speeds for decades. This Cat6 CMR spool from the B08TSW listing is exactly that kind of product — and it earns its 4.7-star average across 235 ratings.

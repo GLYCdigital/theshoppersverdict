@@ -1,4 +1,5 @@
 ---
+
 title: "Asustor Lockerstor NAS Network Storage Enclosure"
 seo_title: "Asustor Lockerstor NAS Review: Fast, Durable, Not Perfect"
 meta_description: "Asustor Lockerstor NAS review: 10GbE speed, sturdy build, but setup headaches and app issues. Read before you buy this network storage enclosure."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B09W2PQMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81netJNXqUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 10GbE ports deliver genuinely fast transfer speeds — real-world users report 800+ MB/s with SSDs"
   - "Tool-less drive bays with metal construction feel premium and survive heavy use"
   - "Four M.2 NVMe slots for cache or tiered storage — rare at this price point"
-cons:
+cons: 
   - "ADM operating system feels dated and buggy; several reviewers report random disconnects and app crashes"
   - "Fan noise is noticeable at default settings — you'll hear it in a quiet office"
   - "Setup requires patience; the initial configuration wizard confuses more than it helps"
+
 ---
 
 ## Is the Asustor Lockerstor Worth Your Office Budget?

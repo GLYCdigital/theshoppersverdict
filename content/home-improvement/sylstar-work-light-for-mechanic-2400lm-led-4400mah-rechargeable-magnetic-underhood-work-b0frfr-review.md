@@ -1,4 +1,5 @@
 ---
+
 title: "SYLSTAR Work Light for Mechanic, 2400LM LED, 4400mAh Recharg"
 seo_title: "SYLSTAR Work Light for Mechanic, 2400LM LED, 4400m Review"
 meta_description: "Our full sylstar work light for mechanic, 2400lm led, 4400mah recharg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRFRG684/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wOcFDapRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SYLSTAR Work Light for Mechanic: A Bright, Hands-Free Option That Almost Gets It All Right  

@@ -1,4 +1,5 @@
 ---
+
 title: "4x4 Pyramid Plastic Post Caps SD801 inch"
 seo_title: "4x4 Pyramid Post Caps Review: SD801 Plastic Cap Verdict"
 meta_description: "Honest SD801 4x4 pyramid post cap review: build quality, UV durability, fit, and real buyer feedback. Is this plastic cap worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1F6FFY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CHlmFGfKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Snap-fit design means zero tools or adhesive needed for installation"
   - "UV-stabilized plastic resists fading and cracking in direct sun"
   - "Fits standard 4x4 posts with a snug, weather-shedding pyramid profile"
-cons:
+cons: 
   - "Plastic can feel lightweight compared to metal or composite alternatives"
   - "Not designed for load-bearing — purely decorative cap"
+
 ---
 
 Some products you buy because they're exciting. You buy a post cap because you want your fence line to stop looking like a row of amputated toothpicks. The 4x4 Pyramid Plastic Post Cap SD801 does exactly that, and it does it without requiring a single tool, tube of adhesive, or trip to the hardware store for the thing you forgot. That's the entire value proposition, and for most buyers, it's enough.

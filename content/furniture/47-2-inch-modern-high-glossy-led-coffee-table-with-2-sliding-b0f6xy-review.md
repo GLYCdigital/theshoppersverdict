@@ -1,4 +1,5 @@
 ---
+
 title: "47.2 inch Modern High Glossy LED Coffee Table with 2 Sliding"
 seo_title: "47.2 Inch LED Coffee Table Review: High Gloss, 2 Sliding Doors"
 meta_description: "Honest 47.2 inch high gloss LED coffee table review with sliding doors. See real pros, cons, and buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6XY4NB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81njiTHH1ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in LED lighting with multiple color modes and remote control — genuinely transforms the room's ambiance"
   - "High-gloss finish and clean lines give a premium look that rivals tables costing twice as much"
   - "Two sliding doors provide tool-free access to hidden storage while keeping a sleek, seamless front"
-cons:
+cons: 
   - "Fingerprints and dust show up quickly on the glossy surface — plan on wiping it down weekly"
   - "LED wiring isn't fully concealed underneath; cable management requires some DIY effort to look clean"
   - "Assembly takes 45–60 minutes with two people; the sliding door track alignment is finicky"
+
 ---
 
 If you've ever walked into a showroom and seen one of those glowing coffee tables that looks like it belongs in a modern art museum, you know the price tag usually comes with four figures. This 47.2-inch high-gloss LED coffee table undercuts that dramatically. But does it deliver the same effect? After digging through 215 ratings averaging 4.3 stars, here's what you need to know.

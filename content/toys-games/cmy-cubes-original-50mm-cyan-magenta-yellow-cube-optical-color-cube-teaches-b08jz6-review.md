@@ -1,4 +1,5 @@
 ---
+
 title: "CMY Cubes Original (50mm) - Cyan, Magenta & Yellow Cube - Op"
 seo_title: "CMY Cubes Original 50mm Review: Optical Color Cube Magic"
 meta_description: "Our CMY Cubes Original 50mm review: a hands-on look at the cyan, magenta & yellow optical cube. See how it teaches color theory with real-world use."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08JZ6Z4F2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610veMlaiML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precision-cut acrylic creates crisp, saturated color shadows that are genuinely mesmerizing"
   - "Tactile, satisfying 50mm size — substantial weight that feels premium in hand"
   - "Doubles as a striking desk sculpture when not being used as a teaching tool"
-cons:
+cons: 
   - "At $29.95, it's priced as a novelty — not a budget impulse buy"
   - "Best effect requires direct sunlight or a strong bright light source; dim rooms dull the magic"
   - "Scratches easily if dropped on hard surfaces — acrylic, not glass"
+
 ---
 
 Let me be upfront: this is a 50mm cube of precision-cut acrylic that costs thirty bucks. If that sounds like a gimmick, you're not wrong — but you're also missing the point. The CMY Cubes Original is one of those rare objects that makes you feel like a kid again, even as it quietly teaches you something about physics and perception.

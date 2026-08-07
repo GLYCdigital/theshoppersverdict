@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco LED Recessed Lighting"
 seo_title: "Sunco LED Recessed Lighting Review: Verdict | TSV"
 meta_description: "Our full sunco led recessed lighting review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCVV9BMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711f3h3QYjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a ceiling full of holes and wondering which cans to drop in, this Sunco 6-inch retrofit kit deserves a hard look. With 225 Amazon ratings averaging 4.5 stars, it's not a niche product — it's a mainstream pick for DIYers and electricians alike. But the 4.5-star average hides some noise. Let me separate what matters from what doesn't.

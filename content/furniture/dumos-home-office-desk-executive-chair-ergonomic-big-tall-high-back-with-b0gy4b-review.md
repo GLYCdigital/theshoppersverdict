@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Home Office Desk Executive Chair - Ergonomic Big Tall"
 seo_title: "DUMOS Big & Tall Executive Chair Review (2026): Worth It?"
 meta_description: "DUMOS ergonomic big & tall executive chair review: 4.6★ from 229 ratings. Does it hold 400 lbs? Is it comfy for 8-hour days? Honest pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GY4BRKNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N+N2JyygL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide 22.4-inch seat and 400-lb weight capacity actually accommodate larger frames — rare at this price point"
   - "Thick high-density foam padding (4 inches in the seat) holds up through full workdays without bottoming out"
   - "Headrest, lumbar support, and adjustable armrests all move independently — real ergonomic range, not just marketing buzzwords"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes and the Allen wrench included is flimsy — grab your own hex set before starting"
   - "Armrests adjust up/down but not in/out or side-to-side, so very broad shoulders may find them slightly narrow"
   - "PU leather is durable but doesn't breathe like mesh — expect a warm backside during summer months"
+
 ---
 
 ## The Big & Tall Chair That Doesn't Treat You Like an Afterthought

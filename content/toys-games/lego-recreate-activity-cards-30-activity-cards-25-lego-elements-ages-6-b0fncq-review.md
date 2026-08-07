@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Recreate Activity Cards â€“ 30+ Activity Cards & 25 Leg"
 seo_title: "Lego Recreate Activity Cards â€“ 30+ Activity Card Review"
 meta_description: "Our full lego recreate activity cards â€“ 30+ activity cards & 25 leg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNCQRD3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7137dllSgcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The LEGO activity set that actually makes kids think

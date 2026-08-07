@@ -1,4 +1,5 @@
 ---
+
 title: "JOLLY PARTY Clear Plastic Cups With Lids for Iced Cold Drink"
 seo_title: "JOLLY PARTY Clear Plastic Cups With Lids for Iced  Review"
 meta_description: "Our full jolly party clear plastic cups with lids for iced cold drink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CMCS6HY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BnQstk+SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JOLLY PARTY Clear Plastic Cups With Lids: The Party Cup That Actually Holds Up

@@ -1,4 +1,5 @@
 ---
+
 title: "Magnetic Fishing Game for Kids 3-5 4-8, Water Table Bathtub "
 seo_title: "Magnetic Fishing Game for Kids 3-5 4-8, Water Tabl Review"
 meta_description: "Our full magnetic fishing game for kids 3-5 4-8, water table bathtub  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMFBNJV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81raEjN8+OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the bathtub toy that finally gets your kid to stop splashing you in the face? Maybe. Here's the honest breakdown.**

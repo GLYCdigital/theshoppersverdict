@@ -1,4 +1,5 @@
 ---
+
 title: "Ergear Monitor Mount for Most 13-32 inch  Computer Screens up to"
 seo_title: "Ergear Monitor Mount Review: 13-32 inch  Gas Spring Arm (2026)"
 meta_description: "Ergear Monitor Mount review: 4.5-star gas spring arm for 13-32 inch  screens. Real ergonomics, sturdy build, honest limits. Is it right for your desk?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0859J9FYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51saA53a92L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gas spring mechanism holds position firmly across full tilt/swivel range — no sagging even with 27-inch panels"
   - "C-clamp and grommet mounting options included; clamp fits desks up to 3.15 inches thick"
   - "Integrated cable management channels keep cords hidden inside the arm, not dangling behind your desk"
-cons:
+cons: 
   - "VESA plate uses a single large screw to secure the monitor — installation is easier with two people"
   - "Spring tension adjustment requires an Allen key, and the sweet spot is finicky for ultrawide or extra-heavy monitors near the 17.6 lb limit"
   - "Arm reach is 19 inches max — fine for standard desks, but shallow for deep standing desks or corner setups"
+
 ---
 
 The Ergear Monitor Mount for Most 13-32" Computer Screens up to 17.6 lbs is the kind of product that quietly solves a daily annoyance. If you're still propping your monitor on stacked books or a stock stand that forces your neck into a permanent forward tilt, this gas-spring arm is a legitimate upgrade. At 4.5 stars across 225 ratings, it's not a perfect product — but for under $40, it punches well above its price point. Here's the real breakdown.

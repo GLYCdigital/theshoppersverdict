@@ -1,16 +1,17 @@
 ---
+
 title: "Softsoap Antibacterial Liquid Hand Soap, Kitchen and Bathroom Hand Soap, White Tea and Berry Scent, 50 fl oz Refill"
 seo_title: "Softsoap Antibacterial Liquid Hand Soap, Kitchen a Review"
 meta_description: "Honest softsoap antibacterial liquid hand soap, review based on 21,351+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "softsoap-antibacterial-liquid-hand-soap-kitchen-and-bathroom-hand-soap-white-tea-review"
 image_alt: "Softsoap Antibacterial Liquid Hand Soap, Kitchen and Bathroom Hand Soap, White Tea and Berry Scent, 50 fl oz Refill"
-keywords:
+keywords: 
   - "softsoap antibacterial liquid review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Softsoap Antibacterial Liquid Hand Soap?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the Softsoap Antibacterial Liquid Hand Soap?"
@@ -23,10 +24,11 @@ review_count: 21351
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081FFRGZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dOBNh0ThL._SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 **Is Softsoap's 50 oz antibacterial refill actually worth your $7.75? Let's break down the math first.** That's about 16 cents per ounce — for an antibacterial formula from a brand with 21,000+ ratings and a 4.6-star average. You're looking at roughly three to four months of hand washing for the price of one restaurant meal. That's the headline here.

@@ -1,24 +1,26 @@
 ---
+
 title: "Camille Rose Curlaide Moisture Butter– Curly Hair Cream wi"
 seo_title: "Camille Rose Curlaide Moisture Butter Review (2026): Worth It?"
 meta_description: "Honest Camille Rose Curlaide Moisture Butter review: green tea & jojoba formula, curl definition, hydration test, pros/cons, and who should buy it."
 slug: "camille-rose-curlaide-moisture-butter-curly-hair-cream-with-green-tea-jojoba-b0grwq-review"
 image_alt: "Camille Rose Curlaide Moisture Butter in jar with green tea and jojoba oil ingredients visible"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRWQYBDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nyJ1rfrYL._SL1500_.jpg"
-pros:  
+pros: 
   - "Green tea extract and jojoba oil provide deep, lasting moisture without heavy buildup"  
   - "Defines curls and coils with soft hold — no crunch or flaking after drying"  
   - "Fragrance is subtle and natural, dissipates quickly without competing with your perfume"  
-cons:  
+cons: 
   - "Thick butter texture requires warming between palms before application — impatient users will struggle"  
   - "Small 8oz jar runs out fast for thick, waist-length hair (expect 6-8 uses)"  
   - "Not ideal for fine, loose waves — can weigh them down if over-applied"
+
 ---
 
 If you’ve ever watched a curly-haired influencer smooth a butter into soaking-wet hair and wondered if the results are real, Camille Rose’s Curlaide Moisture Butter is the product that actually delivers. This is a rich, green-tea-infused cream that does what most curl products only promise: hydrate without the crunch, define without the cast, and soften without the grease. But it’s not a one-size-fits-all miracle — and the texture requires a learning curve.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nintendo Switch (OLED model) with Neon Blue and Neon Red Joy"
 seo_title: "Nintendo Switch (OLED model) with Neon Blue and Ne Review"
 meta_description: "Our full nintendo switch (oled model) with neon blue and neon red joy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F23DNLZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kjXatIUqL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: if you already own a Switch, the OLED model is a tough sell. But if you’re buying your first one — or upgrading from the original 2017 launch unit — this is the version to get. Here’s why.

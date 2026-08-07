@@ -1,4 +1,5 @@
 ---
+
 title: "Eventek 20000mAh Rechargeable LED Camping Lantern - Ultra Br"
 seo_title: "Eventek 20000mAh LED Camping Lantern Review: Is It Worth It?"
 meta_description: "Read our honest Eventek 20000mAh LED camping lantern review. Covers battery life, brightness, durability, and real buyer feedback. Find out if it's right for you."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HMWDNVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JV5t3ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive 20000mAh battery doubles as a power bank — charges a smartphone roughly 4-5 times"
   - "Four brightness modes plus SOS strobe, ranging from a dim 100-lumen mode for tent reading to a blinding 1000-lumen max"
   - "IPX5 water resistance handles rain and splashes without flinching"
-cons:
+cons: 
   - "At 1.2 pounds, it's noticeably heavier than single-purpose lanterns — backpackers will feel the weight"
   - "The included micro-USB cable feels dated; you'll want your own USB-C or a faster wall adapter for the 8-hour full charge"
+
 ---
 
 **The Eventek 20000mAh Lantern: A Powerhouse That Does Double Duty**

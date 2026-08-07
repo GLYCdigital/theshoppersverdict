@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 06006 Kitchen Kettle Multi-Cooker, Steamer, Deep Frye"
 seo_title: "Presto 06006 Kitchen Kettle Multi-Cooker, Steamer, Review"
 meta_description: "Our full presto 06006 kitchen kettle multi-cooker, steamer, deep frye review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B002JM202I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712UxkUOoRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a cabinet full of single-purpose gadgets — a steamer, a fryer, a stockpot — the Presto 06006 Kitchen Kettle makes a compelling argument for consolidation. This 6-quart electric multi-cooker promises to handle deep frying, steaming, boiling, and simmering in a single countertop unit. At 4.6 stars across 229 ratings, it's clearly earning its keep in real kitchens. But "versatile" doesn't automatically mean "perfect." Let's dig into what this kettle actually does well, where it stumbles, and whether it deserves a spot on your counter.

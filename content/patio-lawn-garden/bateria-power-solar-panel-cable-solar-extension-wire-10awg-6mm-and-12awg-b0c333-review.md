@@ -1,4 +1,5 @@
 ---
+
 title: "Bateria Power Solar Panel Cable Solar Extension Wire, 10AWG"
 seo_title: "Bateria Power Solar Cable 10AWG Review: Honest Buyer's Guide"
 meta_description: "Bateria Power 10AWG solar extension cable review: gauge, durability, real-world performance, and whether it's worth your money. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C333BPNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sq5HOw+yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10AWG copper conductor with proper UV-rated jacket — measured resistance matches spec, not a thinner wire dressed up"
   - "Pre-attached MC4 connectors are crimped, not just soldered — a failure point most budget cables get wrong"
   - "Flexible even in cold weather; doesn't turn board-stiff at freezing temps like cheaper PVC-jacketed cables"
-cons:
+cons: 
   - "Connectors arrive unsealed — you'll need dielectric grease or silicone tape for outdoor longevity beyond a season"
   - "No strain relief boot at the connector base; repeated bending right at the joint can eventually fatigue the wire"
+
 ---
 
 If you're piecing together a solar setup, the cable is the last thing you want to fail. A bad connection means voltage drop, heat buildup, and potentially a fire risk you didn't budget for. The Bateria Power 10AWG solar extension wire has been sitting at 4.6 stars across 229 ratings, and after digging into the specs and real owner feedback, here's what actually matters.

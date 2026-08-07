@@ -1,4 +1,5 @@
 ---
+
 title: "Weathermatic S20P light duty solenoid"
 seo_title: "Weathermatic S20P light duty solenoid Review: Verdict | T"
 meta_description: "Our full weathermatic s20p light duty solenoid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00065QQDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BqiVxCb3L._AC_SL1355_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $15 Fix That Ends a 5 AM Flood

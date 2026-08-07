@@ -1,4 +1,5 @@
 ---
+
 title: "camuucci Battery Operated Wall Sconces Set of 2 Rechargeable"
 seo_title: "camuucci Battery Wall Sconces Review: Rechargeable Set of 2 (2026)"
 meta_description: "camuucci battery operated wall sconces set of 2 rechargeable review: bright, warm light, easy install, no wiring. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTHY65B7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yQfBaHUGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "USB-C rechargeable batteries eliminate the constant AA replacement cycle—one charge lasts weeks with daily use"
   - "Three color temperatures (3000K/4000K/6500K) plus stepless dimming give real control over ambiance, not just on/off"
   - "Strong adhesive mounting plate holds securely on painted drywall and tile; screws included for heavier surfaces"
-cons:
+cons: 
   - "Touch controls are on the fixture body itself—if mounted high (above 6 feet), reaching the sensor becomes awkward"
   - "Warm light at lowest dim setting has a slight amber cast, not a pure candlelight glow some users expect"
+
 ---
 
 Let me be direct: most battery-powered sconces are cheap plastic gimmicks that die in a month. The camuucci set of two is not that. With 229 ratings averaging 4.6 stars, this is one of the better cordless lighting options I’ve seen in this category. But it’s not perfect, and you need to know exactly where it fits before buying.

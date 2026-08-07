@@ -1,4 +1,5 @@
 ---
+
 title: "Licorice Twist Strawberry Bulk Pack 2 Pound - Individually W"
 seo_title: "Licorice Twist Strawberry Bulk Pack 2 Pound - Indi Review"
 meta_description: "Our full licorice twist strawberry bulk pack 2 pound - individually w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DFDJ8BYP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xeoIPYMOL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Licorice Twist Strawberry Bulk Pack 2 Pound: A Sweet Deal With a Sticky Catch

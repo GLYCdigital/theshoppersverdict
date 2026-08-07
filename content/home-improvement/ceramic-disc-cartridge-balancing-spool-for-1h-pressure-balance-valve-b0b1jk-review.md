@@ -1,23 +1,25 @@
 ---
+
 title: "Ceramic Disc Cartridge & Balancing Spool for 1H Pressure Bal"
 seo_title: "Ceramic Disc Cartridge & Balancing Spool Review (2026)"
 meta_description: "Honest review of the Ceramic Disc Cartridge & Balancing Spool for 1H Pressure Balance valves. Build quality, fit, pros/cons, and who should buy."
 slug: "ceramic-disc-cartridge-balancing-spool-for-1h-pressure-balance-valve-b0b1jk-review"
 image_alt: "Ceramic disc cartridge and balancing spool replacement part for 1H pressure balance valve"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B1JK3ZPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7149P9ZFlOL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Precise ceramic disc pairing delivers smooth, consistent temperature adjustment"  
   - "Balancing spool is machined to tight tolerances—no slop in the stem"  
   - "Direct OEM-style replacement for most 1H pressure balance valves (e.g., Moen, Delta)"  
-cons:  
+cons: 
   - "No installation hardware included—you'll need the original screws and clips"  
   - "Some users report slight variance in spool length across batches (0.5mm)"
+
 ---
 
 If your shower suddenly turns scalding hot when someone flushes a toilet, the problem isn’t your water heater—it’s the balancing spool inside your pressure balance valve. This replacement cartridge and spool kit is the fix, and at under $20, it beats paying a plumber $150 for the same job.

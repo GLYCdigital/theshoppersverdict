@@ -1,4 +1,5 @@
 ---
+
 title: "Krispy Kreme Doughnuts Ground Coffee"
 seo_title: "Krispy Kreme Doughnuts Ground Coffee Review: Verdict | TS"
 meta_description: "Our full krispy kreme doughnuts ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCK2JCPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F4rx9gKZS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the gimmick: Krispy Kreme's ground coffee isn't trying to be a third-wave, single-origin pour-over experience. It's a $12 bag of commercial medium roast designed to deliver a comforting, slightly sweet cup that nods to the brand's glazed doughnuts. And honestly? It mostly succeeds.

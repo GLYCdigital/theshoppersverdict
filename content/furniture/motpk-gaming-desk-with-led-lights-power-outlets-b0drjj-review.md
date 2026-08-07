@@ -1,4 +1,5 @@
 ---
+
 title: "MOTPK Gaming Desk with LED Lights & Power Outlets"
 seo_title: "MOTPK Gaming Desk with LED Lights & Power Outlets Review:"
 meta_description: "Our full motpk gaming desk with led lights & power outlets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRJJTQP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sPIo5PSrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 So you’re shopping for a gaming desk, and every listing looks the same: black rectangle, RGB strip, “sturdy steel frame.” The MOTPK Gaming Desk with LED Lights & Power Outlets is trying to stand out from that crowd — and for the most part, it actually does. With a 4.7-star average across 235 ratings, this is a desk that’s earning its keep in real gaming rooms. But is it the right one for yours? Let’s break it down.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lonsince Black Undermount Kitchen Sink,16 Gauge Stainless St"
 seo_title: "Lonsince Black Undermount Kitchen Sink,16 Gauge St Review"
 meta_description: "Our full lonsince black undermount kitchen sink,16 gauge stainless st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FKSTFHZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RISf+DHZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lonscale Black Undermount Kitchen Sink: The Dark Horse of Budget Stainless

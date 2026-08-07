@@ -1,4 +1,5 @@
 ---
+
 title: "Dardoo Racing Simulator Cockpit Frame with Black Seat Fit fo"
 seo_title: "Dardoo Racing Simulator Cockpit Review: Solid Budget Rig for Moza"
 meta_description: "Dardoo Racing Simulator Cockpit Frame with Black Seat review: sturdy build, Moza compatibility, real-world performance, and honest tradeoffs for sim racers."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BJ6Y2X8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BwtKYLfzL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-drilled mounting holes for Moza, Fanatec, and Logitech bases — no drilling or adapter plates needed"
   - "Steel tube frame with powder-coated finish handles direct-drive wheels up to 10Nm without flex"
   - Sliding seat rail and adjustable pedal plate accommodate drivers from 5'4 inch " to 6'3 inch "
-cons:
+cons: 
   - "Assembly takes 2-3 hours with unclear instructions — bring patience and your own Allen keys"
   - "Seat padding is thin; long sessions need a cushion or aftermarket seat upgrade"
   - "No casters included — plan to bolt it down or lift the 55-pound frame to move it"
+
 ---
 
 You've dropped $500+ on a direct-drive wheel base, and now it's clamped to a wobbly desk that shakes like a washing machine on spin cycle. The Dardoo Racing Simulator Cockpit Frame with Black Seat exists to fix that exact problem — without demanding the $1,000+ price tag of aluminum extrusion rigs from name brands.

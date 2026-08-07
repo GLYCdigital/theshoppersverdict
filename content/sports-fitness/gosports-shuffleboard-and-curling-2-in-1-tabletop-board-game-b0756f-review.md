@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Shuffleboard and Curling 2 in 1 Tabletop Board Game"
 seo_title: "GoSports Shuffleboard and Curling 2 in 1 Tabletop  Review"
 meta_description: "Our full gosports shuffleboard and curling 2 in 1 tabletop board game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0756FZ4S2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lucehLJEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most 2-in-1 tabletop games are a compromise where both modes feel like afterthoughts. The GoSports Shuffleboard and Curling combo is the exception — it's actually two complete games sharing one well-built board. After 235 Amazon ratings holding a 4.7-star average, the consensus is clear: this thing delivers.

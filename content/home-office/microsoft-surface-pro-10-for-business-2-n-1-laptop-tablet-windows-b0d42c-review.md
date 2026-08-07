@@ -1,4 +1,5 @@
 ---
+
 title: "Microsoft Surface Pro 10 for Business, 2-n-1 Laptop/Tablet, "
 seo_title: "Microsoft Surface Pro 10 for Business, 2-n-1 Lapto Review"
 meta_description: "Our full microsoft surface pro 10 for business, 2-n-1 laptop/tablet,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0D42CJXTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617mLPA83fL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Surface Pro 10 for Business isn't a laptop.** It's a tablet that *becomes* a laptop when you're willing to pay extra. That's the first thing to understand before you spend your money.

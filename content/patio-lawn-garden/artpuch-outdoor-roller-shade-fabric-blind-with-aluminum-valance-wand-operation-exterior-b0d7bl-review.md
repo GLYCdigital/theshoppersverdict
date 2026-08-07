@@ -1,4 +1,5 @@
 ---
+
 title: "Artpuch Outdoor Roller Shade Fabric Blind with Aluminum Valance – Honest Review"
 seo_title: "Artpuch Outdoor Roller Shade Review: Best Patio Blind?"
 meta_description: "Our Artpuch outdoor roller shade review covers fabric quality, aluminum valance durability, and real-world performance. See if it beats cheap patio blinds."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7BLNC9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ys07PaN2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 230 GSM fabric blocks wind and heat effectively, not the sheer mesh most budget blinds use"
   - "Wand operation means no tangled cords — smooth even after months of daily use"
   - "Aluminum valance actually stays put in gusts, unlike flimsy plastic trims on competitors"
-cons:
+cons: 
   - "Mounting hardware feels basic for the price — upgrade to stainless lag bolts if your patio sees heavy weather"
   - "Width tolerance is tight; you'll need exact measurements or you'll see light gaps on the sides"
+
 ---
 
 Most patio shades under $100 are glorified mosquito netting. The Artpuch Outdoor Roller Shade isn't that. With a 4.7-star average across 235 ratings, this is the shade that people actually keep installed after the novelty wears off. Here's the real story after digging through the specs and owner feedback.

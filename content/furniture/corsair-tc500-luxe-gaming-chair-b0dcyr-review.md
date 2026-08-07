@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair TC500 Luxe Gaming Chair"
 seo_title: "Corsair TC500 Luxe Review: Worth It or Overpriced?"
 meta_description: "Our honest Corsair TC500 Luxe gaming chair review covers comfort, build quality, and whether this $500+ chair justifies its price for tall users."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DCYR5GGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711g77v7S1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely supportive plush cushioning with cold-cure foam that holds up better than most gaming chairs at this price"
   - "Robust steel frame rated for 396 lbs with a 4-class hydraulic lift — rare in this category"
   - "4D armrests with metal reinforcement actually stay put during aggressive gaming sessions"
-cons:
+cons: 
   - "Assembly is genuinely frustrating — the side covers require significant force to snap into place and alignment is finicky"
   - "Seat base is wide but shallow; taller users report thigh support runs short despite the chair's overall size"
   - "Leatherette (PU) upholstery can get sticky in warm rooms; ventilation is minimal compared to mesh alternatives"
+
 ---
 
 # Corsair TC500 Luxe Gaming Chair Review: Premium Comfort, Assembly Headaches

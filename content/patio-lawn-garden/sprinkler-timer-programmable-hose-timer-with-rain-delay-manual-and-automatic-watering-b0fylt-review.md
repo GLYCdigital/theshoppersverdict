@@ -1,4 +1,5 @@
 ---
+
 title: "Sprinkler Timer, Programmable Hose Timer with Rain Delay, Ma"
 seo_title: "Sprinkler Timer, Programmable Hose Timer with Rain Review"
 meta_description: "Our full sprinkler timer, programmable hose timer with rain delay, ma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FYLTV5MS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F6AQbsYmL._AC_SL1461_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most hose timers under $40 are plastic junk that leaks or dies by August. This one's different—not perfect, but different. With a 4.2-star average across 210 ratings, the Ma programmable hose timer earns its place on your spigot for one big reason: it does the basics exceptionally well and skips the gimmicks you'll never use.

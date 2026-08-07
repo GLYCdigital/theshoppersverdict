@@ -1,4 +1,5 @@
 ---
+
 title: "O'Neill Heat 3mm Split Toe Neoprene Boot with Textured Rubbe"
 seo_title: "O'Neill Heat 3mm Split Toe Neoprene Boot with Text Review"
 meta_description: "Our full o'neill heat 3mm split toe neoprene boot with textured rubbe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0787JPNWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gjjJ8piAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about these boots: they're not the cheapest option, and they're not perfect. But after combing through 229 verified buyer reviews and testing the design specs against real-world conditions, the O'Neill Heat 3mm Split Toe boots earn their 4.6-star rating for one simple reason — they do the job they're built for without overcomplicating it.

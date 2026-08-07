@@ -1,4 +1,5 @@
 ---
+
 title: "Maui Moisture Lightweight Hydration + Hibiscus Shampoo + Con"
 seo_title: "Maui Moisture Lightweight Hydration + Hibiscus Sha Review"
 meta_description: "Our full maui moisture lightweight hydration + hibiscus shampoo + con review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09QVN27YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f1HRRn0OL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "hydrating" shampoos are a lie. They coat your hair in silicones, give you that fake slip, and call it moisture. The Maui Moisture Lightweight Hydration + Hibiscus duo doesn't do that. And that's precisely why it's earned a 4.5-star rating across 225 Amazon reviews.

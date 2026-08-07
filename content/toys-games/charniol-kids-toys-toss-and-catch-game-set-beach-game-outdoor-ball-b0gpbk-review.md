@@ -1,4 +1,5 @@
 ---
+
 title: "Charniol Kids Toys Toss and Catch Game Set Beach Game Outdoo"
 seo_title: "Charniol Toss & Catch Game Set Review: Beach Fun for Kids"
 meta_description: "Honest Charniol Kids Toss and Catch Game Set review: build quality, real-world play, and whether this beach toy is worth your money at 4.2 stars."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GPBKZKL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YhuX5TH3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Velcro paddles grab the ball reliably even with wild throws from younger kids"
   - "Lightweight design (under 8 oz per paddle) makes it easy for ages 4-7 to handle"
   - "Ball has a soft foam core — no sting when it hits bare skin"
-cons:
+cons: 
   - "Paddles are hollow plastic; a hard throw can crack them on concrete"
   - "Velcro loses grip strength after heavy sand exposure at the beach"
   - "Only one ball included — expect to buy spares if you play near water"
+
 ---
 
 If you've ever watched a 5-year-old try to catch a tennis ball, you know the struggle. The Charniol Toss and Catch Game Set solves that problem with the oldest trick in the kid-toy playbook: Velcro. But does it hold up beyond the first beach trip? I dug through 210 ratings and the product specs to give you the real picture.

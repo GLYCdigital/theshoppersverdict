@@ -1,17 +1,18 @@
 ---
+
 title: "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB Soft, Yellow, 12-Pack"
 seo_title: "Ticonderoga Pencils Review: The Gold Standard for 100+ Years (4.8★)"
 meta_description: "Ticonderoga #2 pencils review. 4.8 stars from 68,000+ ratings. The pencil that teachers, artists, and test-takers have trusted for generations. Still the best."
 slug: "ticonderoga-pencils-review"
 image_alt: "Classic yellow Ticonderoga wood-cased #2 pencils, pre-sharpened, 12-pack"
-keywords:
+keywords: 
   - "Ticonderoga pencils review"
   - "best #2 pencils"
   - "Ticonderoga vs Dixon pencils"
   - "classroom pencils"
   - "pre-sharpened pencils"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Are Ticonderoga pencils still made in the USA?"
     answer: "No. Modern Ticonderoga pencils are manufactured in China and Mexico. Quality can vary between production batches, but the proprietary graphite formula remains consistent."
   - question: "Do Ticonderoga pencils sharpen well?"
@@ -26,16 +27,17 @@ review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GqVVIzKKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Proprietary graphite formula writes smoother, darker, and more consistently than generic brands"
   - "Incense-cedar wood sharpens cleanly without splintering or cracking"
   - "Erasers actually erase — no smudging or tearing the paper"
   - "Pre-sharpened and ready to use out of the box"
-cons:
+cons: 
   - "No longer made in the USA — manufacturing moved to China and Mexico"
   - "Quality control varies between production batches"
   - "Packaging doesn't reliably indicate country of origin"
   - "Slightly more expensive than generic or store-brand pencils"
+
 ---
 
 Some products achieve icon status through marketing. Ticonderoga pencils earned it the hard way — by being the pencil that teachers recommended, parents bought, and students used for over a century. There's a reason "Ticonderoga" is synonymous with "good pencil."

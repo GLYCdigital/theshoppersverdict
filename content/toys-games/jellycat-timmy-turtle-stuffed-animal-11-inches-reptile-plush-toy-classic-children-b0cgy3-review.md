@@ -1,4 +1,5 @@
 ---
+
 title: "Jellycat Timmy Turtle Stuffed Animal, 11 inches - Reptile Pl"
 seo_title: "Jellycat Timmy Turtle Stuffed Animal, 11 inches -  Review"
 meta_description: "Our full jellycat timmy turtle stuffed animal, 11 inches - reptile pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGY322FQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VlXt9HloL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Jellycat Timmy Turtle: The $35 Turtle That Actually Earns Its Keep**

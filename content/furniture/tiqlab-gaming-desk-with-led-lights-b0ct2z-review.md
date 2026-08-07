@@ -1,4 +1,5 @@
 ---
+
 title: "TIQLAB Gaming Desk with LED Lights"
 seo_title: "TIQLAB Gaming Desk with LED Lights Review: Verdict | TSV"
 meta_description: "Our full tiqlab gaming desk with led lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CT2Z8QHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+BDFd3E3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred "gaming desks" on Amazon. Most are cheap particleboard with a strip of RGB tape hot-glued to the back edge. The TIQLAB Gaming Desk sits a notch above that crowd — but it's not without its quirks. Here's what 220 buyers at a 4.4-star average are actually saying, and what I found digging into the details.

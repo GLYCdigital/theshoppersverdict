@@ -1,4 +1,5 @@
 ---
+
 title: "LVSOMT Bar Cabinet with Wine Rack and Glass Holder"
 seo_title: "LVSOMT Bar Cabinet with Wine Rack and Glass Holder Review"
 meta_description: "Our full lvsomt bar cabinet with wine rack and glass holder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B094MZMZ2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PtRtU9kVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lvsomt Bar Cabinet With Wine Rack And Glass Holder B094Mz Review

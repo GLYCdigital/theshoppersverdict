@@ -1,4 +1,5 @@
 ---
+
 title: "Fiskars Garden Harvest Basket - Container for Gardening and"
 seo_title: "Fiskars Garden Harvest Basket Review: Tool Caddy & Container"
 meta_description: "Fiskars Garden Harvest Basket review: sturdy tool caddy with removable bucket liner. See pros, cons, and who should buy this 4.8-star garden essential."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08Q8N7PBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uZMVEHMcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable liner makes transferring harvest to kitchen or compost a one-step dump — no digging through the basket"
   - "Side tool caddy holds trowel, pruners, and gloves upright, so you're not fumbling mid-task"
   - "Structured fabric walls keep shape even when half-empty; won't collapse like flimsy canvas totes"
-cons:
+cons: 
   - "Tool caddy is fixed on one side — left-handed gardeners may find the layout awkward"
   - "Not waterproof; wet produce or morning dew will soak through the fabric walls"
+
 ---
 
 You know that moment mid-harvest when you've got tomatoes in one hand, pruners in the other, and nowhere to put anything without bending over for the tenth time? The Fiskars Garden Harvest Basket solves exactly that. With a 4.8-star average across 240 ratings, this isn't a gimmick — it's a purpose-built tool that earns its place in the garden.

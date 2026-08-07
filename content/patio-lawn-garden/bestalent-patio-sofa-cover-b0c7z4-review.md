@@ -1,4 +1,5 @@
 ---
+
 title: "Bestalent Patio Sofa Cover"
 seo_title: "Bestalent Patio Sofa Cover Review: Is It Worth It?"
 meta_description: "Read our honest Bestalent Patio Sofa Cover review. We tested water resistance, fit, and durability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C7Z4D5T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Cz-CJfwRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 300D Oxford fabric with a water-repellent coating that handles heavy rain without soaking through"
   - "Adjustable hem straps and a drawstring closure keep the cover snug even in gusty conditions"
   - "Built-in air vents reduce interior condensation, preventing mildew and mold buildup on cushions"
-cons:
+cons: 
   - "Not completely waterproof — prolonged downpours can cause minor seepage through the seams"
   - "The beige color shows dirt and pollen quickly, requiring more frequent cleaning than darker covers"
+
 ---
 
 If you've spent real money on a patio sofa, you know the drill: leave it uncovered through one rainy season and you're shopping for replacement cushions. The Bestalent Patio Sofa Cover aims to prevent that scenario without costing as much as a new cushion set. Here's what I found after digging into the specs and buyer feedback.

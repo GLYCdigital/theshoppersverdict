@@ -1,4 +1,5 @@
 ---
+
 title: "DGSL Foam Insulation Tape, Weather Stripping Door Seal Strip"
 seo_title: "DGSL Foam Insulation Tape Review: Does It Seal Drafts?"
 meta_description: "Honest DGSL Foam Insulation Tape review: 4.3-star weather stripping for doors & windows. Tested adhesion, compression, and real draft-blocking results."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B086Y78HJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Cgnxq2RpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong 3M adhesive backing that holds on textured and painted surfaces without peeling"
   - "Genuine compression recovery — returns to shape after repeated door closures"
   - "Cuts cleanly with scissors for precise corner fits without tearing"
-cons:
+cons: 
   - "Thickness options matter — too-thick tape can make doors hard to latch"
   - "Not UV-stable for prolonged outdoor exposure on south-facing doors"
   - "Single roll may not cover standard exterior doors completely"
+
 ---
 
 # DGSL Foam Insulation Tape, Weather Stripping Door Seal Strip Review

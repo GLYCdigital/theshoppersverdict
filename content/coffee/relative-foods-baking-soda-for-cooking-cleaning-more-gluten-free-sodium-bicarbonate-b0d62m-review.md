@@ -1,4 +1,5 @@
 ---
+
 title: "Relative Foods Baking Soda for Cooking, cleaning, & More - G"
 seo_title: "Relative Foods Baking Soda for Cooking, cleaning,  Review"
 meta_description: "Our full relative foods baking soda for cooking, cleaning, & more - g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D62M3WTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813zB6K33+L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

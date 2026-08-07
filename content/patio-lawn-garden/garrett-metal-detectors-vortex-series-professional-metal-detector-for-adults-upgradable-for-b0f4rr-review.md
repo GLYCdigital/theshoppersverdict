@@ -1,4 +1,5 @@
 ---
+
 title: "Garrett Metal Detectors Vortex Series - Professional Metal D"
 seo_title: "Garrett Vortex Series Metal Detector Review (2026): Worth It?"
 meta_description: "Garrett Vortex Series metal detector review: performance, build quality, and real user feedback. Is this upgradable detector worth $300+? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F4RRPN7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HWgIFaK1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multi-frequency tech (5kHz–20kHz) hits targets in mineralized soil that single-frequency detectors miss entirely"
   - "Upgradable platform — buy the base VX1 and swap in a new coil or software update later without buying a whole new unit"
   - "Factory-tuned preset modes (Park, Field, Beach) work well enough for beginners but remain fully adjustable for experienced users"
-cons:
+cons: 
   - "Coil cover and wireless headphones are sold separately — another $80–100 on top of the already premium price"
   - "LCD screen is hard to read in direct sunlight; you'll be squinting at the target ID numbers on bright days"
   - "Learning curve for manual ground balance — the auto-balance works, but serious relic hunters will need to read the manual twice"
+
 ---
 
 **Skip the cheap detectors. Here's why the Garrett Vortex is worth the upgrade.**

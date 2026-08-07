@@ -1,4 +1,5 @@
 ---
+
 title: "OREO Sandwich Cookies"
 seo_title: "OREO Sandwich Cookies Review: Verdict | TSV"
 meta_description: "Our full oreo sandwich cookies review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FV27B5B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ljTcdWOQL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the obvious: you already know what an OREO tastes like. The real question for anyone browsing this listing is whether the sandwich cookie earns its place next to your coffee maker — and at $4–6 per family-size package, whether it justifies the spend versus cheaper generics.

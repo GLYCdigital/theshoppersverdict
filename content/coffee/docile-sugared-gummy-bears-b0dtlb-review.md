@@ -1,4 +1,5 @@
 ---
+
 title: "Docile Sugared Gummy Bears"
 seo_title: "Docile Sugared Gummy Bears Review: Are They Worth It?"
 meta_description: "Docile Sugared Gummy Bears review: texture, flavor, and value. See what 204 Amazon buyers say before you buy. Honest pros and cons inside."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTLBM35N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SoQpcAPRL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 2-pound bag holds up well — no crushed or melted bears in transit"
   - "Sugar coating is applied evenly, not clumpy or sparse like many budget gummies"
   - "Firm, chewy texture that holds its shape instead of dissolving into mush"
-cons:
+cons: 
   - "Flavor profile leans heavily on lemon-lime; cherry and orange are harder to distinguish"
   - "Sugar crystals can crystallize further if the bag isn't resealed tightly"
+
 ---
 
 **The Short Version**

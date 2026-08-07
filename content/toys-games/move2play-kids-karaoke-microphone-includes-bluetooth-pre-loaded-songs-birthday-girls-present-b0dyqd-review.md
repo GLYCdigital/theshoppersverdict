@@ -1,4 +1,5 @@
 ---
+
 title: "Move2Play, Kids Karaoke Microphone | Includes Bluetooth & Pr"
 seo_title: "Move2Play, Kids Karaoke Microphone | Includes Blue Review"
 meta_description: "Our full move2play, kids karaoke microphone | includes bluetooth & pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYQDH98G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nIXfNKwSS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Finding a kids' toy that actually gets used past the first week is like finding a unicorn. Most gifts end up in the bin by Sunday. The Move2Play Karaoke Microphone, though, is different. At $29.99 with a 4.6-star average across 229 ratings, this little pink mic is earning its keep in living rooms everywhere. Here's the honest breakdown before you hit "add to cart."

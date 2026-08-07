@@ -1,4 +1,5 @@
 ---
+
 title: "Direct Burial Unmetered Pedestal Mount RV Power Outlet – 5 inch"
 seo_title: "Direct Burial RV Power Outlet Review: 50/30/20 Amp"
 meta_description: "Honest review of the Direct Burial Unmetered Pedestal Mount RV Power Outlet. Real performance, wiring quirks, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DTR9R989/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NikLXErvL._SL1500_.jpg"
-pros:
+pros: 
   - "True direct burial rated enclosure with sealed gaskets — no separate weatherproof box needed"
   - "All three receptacles (50A/30A/20A) on one pedestal, so you can power a big rig and a second vehicle simultaneously"
   - "Aluminum housing with powder coat finish holds up to sun and salt air better than plastic alternatives"
-cons:
+cons: 
   - "Terminal lugs are small — 6 AWG wire is a tight fit, and 4 AWG won't work without modification"
   - "No included mounting hardware or breakers — you'll spend extra on a GFCI breaker and anchor bolts"
   - "Some units arrive with misaligned receptacle faceplates that require disassembly to fix"
+
 ---
 
 If you're wiring a permanent RV site, a temporary camp pad, or a barn outlet for your fifth wheel, this pedestal looks like the obvious choice at first glance. Three receptacles on one post, direct burial rated, and a price that undercuts the big box stores. But after digging through 210 ratings and the installation details, here's what you need to know before you bury this thing in the ground.

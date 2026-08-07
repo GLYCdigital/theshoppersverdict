@@ -1,4 +1,5 @@
 ---
+
 title: "Camp Field Camping Folding Aluminum Table with Adjustable Le"
 seo_title: "Camp Field Folding Aluminum Table Review: Is It Worth It?"
 meta_description: "Camp Field folding aluminum table review: adjustable legs, portability, and durability tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9BXVXRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M0SjRcjkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable leg heights (roughly 16–28 inches) let it serve as both a low coffee table and a standard dining height surface"
   - "Aluminum top with roll-up slats drains water and sheds debris — no pooling after rain"
   - "Carry bag with shoulder strap keeps the 6–7 lb table easy to transport to campsites or tailgates"
-cons:
+cons: 
   - "The aluminum surface dents if you drop heavy cast-iron cookware on it — it's not a workbench"
   - "Leg locks require a firm push to seat properly; some users note they can slip if not fully engaged"
   - "At roughly 24 x 18 inches folded, it's compact but not pocket-sized — better for car camping than backpacking"
+
 ---
 
 **The Camp Field Folding Aluminum Table: A Lightweight Workhorse with One Big Question**

@@ -1,4 +1,5 @@
 ---
+
 title: "Viking Culinary 3-Ply Stainless Steel Hammered Copper Clad C"
 seo_title: "Viking Culinary 3-Ply Stainless Steel Hammered Cop Review"
 meta_description: "Our full viking culinary 3-ply stainless steel hammered copper clad c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CY4XF4ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CyxUl1pdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Copper-Clad Cookware That Cooks Like a Pro — If You Can Handle the Maintenance**

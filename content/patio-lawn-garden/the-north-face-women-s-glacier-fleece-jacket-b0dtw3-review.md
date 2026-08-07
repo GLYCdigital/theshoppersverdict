@@ -1,4 +1,5 @@
 ---
+
 title: "The North Face Women's Glacier Fleece Jacket"
 seo_title: "The North Face Women's Glacier Fleece Jacket Review: Verd"
 meta_description: "Our full the north face women's glacier fleece jacket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTW3FSS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cgYsKvRAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a fleece jacket for a patio. You buy it because you're headed outside — to the garden at 7 a.m., on a trail before the sun's over the ridge, or to the fire pit when the breeze picks up. The North Face Women's Glacier Fleece Jacket sits squarely in that sweet spot: warm enough to cut the chill, light enough to forget you're wearing it.

@@ -1,23 +1,25 @@
 ---
+
 title: "Anastasia Beverly Hills Lash Brag Mascara – Long-Wearing C"
 seo_title: "Lash Brag Mascara Review: Clump-Free, Long-Wearing? (2026)"
 meta_description: "Honest Anastasia Beverly Hills Lash Brag Mascara review: Does it deliver clump-free volume? Real wear tests, pros, cons, and who should buy it."
 slug: "anastasia-beverly-hills-lash-brag-mascara-long-wearing-clump-free-formula-for-b0fxn3-review"
 image_alt: "Anastasia Beverly Hills Lash Brag Mascara tube with wand visible, showing bristle design"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FXN38XS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-oVeL8+bL._SL1200_.jpg"
-pros:  
+pros: 
   - "Sculpted hourglass wand separates lashes without the spidery clumping typical of volume formulas"  
   - "Holds a curl for 10+ hours even on straight, stubborn lashes — verified in humid conditions"  
   - "Doesn't flake or smudge during workouts or long wear; removes cleanly with warm water and gentle pressure"  
-cons:  
+cons: 
   - "Formula dries out noticeably faster than drugstore mascaras — expect replacement every 6–8 weeks"  
   - "First coat looks natural, but layering beyond two passes gets heavy and stiff, requiring a lash comb"
+
 ---
 
 Mascara is the one product where luxury pricing often feels like a scam. You're paying for packaging and a name, while a $9 tube from the drugstore outperforms it. So when Anastasia Beverly Hills — a brand known for brow game, not lash game — dropped the Lash Brag Mascara, I was skeptical. Two weeks of daily wear later, I'm genuinely impressed. Here's the honest breakdown.

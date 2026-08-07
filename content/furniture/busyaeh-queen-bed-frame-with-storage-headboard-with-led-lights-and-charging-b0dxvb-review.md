@@ -1,4 +1,5 @@
 ---
+
 title: "busyaeh Queen Bed Frame with Storage Headboard with LED Ligh"
 seo_title: "busyaeh Queen Bed Frame Review: Storage & LED Headboard"
 meta_description: "Honest busyaeh queen bed frame review: storage headboard, LED lights, charging ports. Real pros, cons, and verdict for smart shoppers."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXVBS79B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EthI4X63L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four USB ports and two AC outlets built directly into the headboard—charges phones, lamps, and tablets without hunting for wall sockets"
   - "LED lights with adjustable brightness and color modes create real ambience, not just a gimmick"
   - "Two large storage compartments in the headboard actually fit books, glasses, and a tablet—not just decorative space"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes with two people; the headboard is heavy and awkward to lift solo"
   - "LED light remote is small and easy to misplace; no app control or smart-home integration"
+
 ---
 
 # busyaeh Queen Bed Frame: Storage, Lights, and Charging—Does It Deliver?

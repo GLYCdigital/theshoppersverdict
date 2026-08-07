@@ -1,4 +1,5 @@
 ---
+
 title: "Retractable Dog Leash 18.2 ft â€“ Chew Proof Cable Included "
 seo_title: "Retractable Dog Leash 18.2 ft â€“ Chew Proof Cable Review"
 meta_description: "Our full retractable dog leash 18.2 ft â€“ chew proof cable included  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZGPYGKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jIyuUx6ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog treats every leash like a chew toy, you've probably thrown away more nylon straps than you'd care to count. This retractable leash aims to end that cycle with a steel cable core that laughs at gnawing teeth. But does the 18.2-foot reach and chew-proof construction justify swapping out your current setup? I've put this through real-world paces to give you the straight answer.

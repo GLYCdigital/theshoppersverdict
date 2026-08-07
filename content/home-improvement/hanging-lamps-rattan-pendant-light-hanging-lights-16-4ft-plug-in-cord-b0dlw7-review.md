@@ -1,4 +1,5 @@
 ---
+
 title: "Hanging Lamps Rattan Pendant Light: Hanging Lights 16.4ft Pl"
 seo_title: "Hanging Lamps Rattan Pendant Light: Hanging Lights Review"
 meta_description: "Our full hanging lamps rattan pendant light: hanging lights 16.4ft pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLW7KY5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MOqx70mKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. If you’ve been scrolling through pendant lights for weeks, you already know the drill: hardwiring costs money, most cords are laughably short, and anything with “boho” in the name costs triple what it should. This rattan pendant from Hanging Lamps sidesteps most of that nonsense — but it’s not perfect.

@@ -1,4 +1,5 @@
 ---
+
 title: "30 Count Latte Pods Variety Pack. 6 Top Flavors - Vanilla, C"
 seo_title: "Latte Pods Variety Pack Review: 30 Pods, 6 Flavors (2026)"
 meta_description: "Honest review of 30-count latte pods variety pack with 6 flavors. Compare vanilla, caramel & mocha. See what 225 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQ5G6Q4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613eFoCHGSL._SL1080_.jpg"
-pros:
+pros: 
   - "Six distinct flavors per box — vanilla, caramel, mocha, and three more — so you're not locked into one profile for 30 straight cups"
   - "Compatible with standard single-serve brewers (Keurig-style), so no proprietary machine needed"
   - "Consistent 4.5-star rating across 225 reviews suggests reliable quality, not a one-batch wonder"
-cons:
+cons: 
   - "No caffeine strength labeling per pod — if you're sensitive, you're guessing until you brew"
   - "Variety pack means your favorite flavor runs out first; no way to order single-flavor refills in the same box"
+
 ---
 
 # 30 Count Latte Pods Variety Pack: The Flavor Rotation Your Morning Routine Needs

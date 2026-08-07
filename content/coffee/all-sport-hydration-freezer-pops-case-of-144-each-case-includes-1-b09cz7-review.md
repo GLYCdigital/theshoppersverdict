@@ -1,4 +1,5 @@
 ---
+
 title: "All Sport Hydration Freezer Pops (Case of 144) - Each Case i"
 seo_title: "All Sport Freezer Pops Review: 144-Count Hydration Popsicles"
 meta_description: "Honest All Sport Hydration Freezer Pops review: 144-count case, taste, texture, and value. See if these electrolyte popsicles beat Gatorade for kids and athletes."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CZ7Y7GG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WmkGGAd1L._SL1280_.jpg"
-pros:
+pros: 
   - "Electrolyte formula with 5 key minerals per pop — not just sugar water"
   - "144 individually wrapped pops in one case — works out to roughly 30 cents per serving"
   - "Freezes solid in about 3-4 hours with no icy crystals or watery separation"
-cons:
+cons: 
   - "Pops are smaller than standard freezer pops — kids may want two"
   - "Flavor intensity is mild; those expecting Gatorade-level sweetness will be disappointed"
+
 ---
 
 Look, I've tested enough "hydration" products to know that most are just sugar water wearing a sports drink costume. The All Sport Hydration Freezer Pops are different — and that's both their strength and their weakness.

@@ -1,17 +1,18 @@
 ---
+
 title: "Nespresso Capsules Original Line, Kazaar Intenso, Dark Roast Coffee, 50 Count"
 seo_title: "Nespresso Kazaar Intenso Review: The Strongest Pod (4.8★)"
 meta_description: "Nespresso Kazaar Intenso review. 4.8 stars from 3,650+ ratings. Intensity 13 dark roast with cocoa and vanilla notes. The pod that wakes you up."
 slug: "nespresso-kazaar-intenso-review"
 image_alt: "Nespresso Original Line Kazaar Intenso capsules 50-count, dark roast espresso pods"
-keywords:
+keywords: 
   - "Nespresso Kazaar review"
   - "Nespresso Kazaar Intenso"
   - "best Nespresso pods for strong coffee"
   - "Nespresso intensity 13"
   - "Nespresso dark roast review"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "What intensity is Nespresso Kazaar?"
     answer: "Kazaar is rated Intensity 13 out of 14 on the Nespresso scale. It's one of the strongest Original Line capsules available, designed for those who want a bold, full-bodied espresso with a thick crema."
   - question: "Does Nespresso Kazaar taste bitter?"
@@ -26,16 +27,17 @@ review_count: 3652
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00O6FU8TI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fluhieJ1L._SL1500_.jpg"
-pros:
+pros: 
   - "Intense, bold flavor without bitterness or burnt aftertaste"
   - "Beautiful, consistent crema — thick and golden every time"
   - "Hints of cocoa and vanilla add complexity to the dark roast profile"
   - "One capsule delivers serious caffeine — most reviewers need only one"
-cons:
+cons: 
   - "Intensity 13 may be too strong for casual coffee drinkers"
   - "Premium pricing compared to drip coffee or bulk grounds"
   - "Nespresso Original Line machines required — not compatible with Vertuo"
   - "At ~$0.90 per capsule, daily use adds up fast"
+
 ---
 
 There's a moment, about 10 seconds into the first sip of a Nespresso Kazaar, where you realize you've been underselling what a coffee pod can do.

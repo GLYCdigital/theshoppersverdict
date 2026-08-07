@@ -1,4 +1,5 @@
 ---
+
 title: "POLY & BARK Paxton Parent"
 seo_title: "POLY & BARK Paxton Parent Review: Verdict | TSV"
 meta_description: "Our full poly & bark paxton parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FQRNWTJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TbXN8xf2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most furniture in this price range is particleboard wrapped in good intentions. The POLY & BARK Paxton Parent isn’t that. With 240 ratings averaging 4.8 stars, this piece has earned its reputation — but it’s not perfect, and you should know exactly what you’re getting before you buy.

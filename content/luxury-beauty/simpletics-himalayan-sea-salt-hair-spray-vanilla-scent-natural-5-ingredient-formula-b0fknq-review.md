@@ -1,4 +1,5 @@
 ---
+
 title: "Simpletics Himalayan Sea Salt Hair Spray (Vanilla Scent) â€“"
 seo_title: "Simpletics Himalayan Sea Salt Hair Spray (Vanilla  Review"
 meta_description: "Our full simpletics himalayan sea salt hair spray (vanilla scent) â€“ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKNQ6HSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ylI8Vl-oL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 5-Ingredient Beach Wave Spray That Actually Respects Your Hair**

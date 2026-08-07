@@ -1,4 +1,5 @@
 ---
+
 title: "Tanologist Face and Body Drops - Illuminating Self Tan Drops"
 seo_title: "Tanologist Face and Body Drops - Illuminating Self Review"
 meta_description: "Our full tanologist face and body drops - illuminating self tan drops review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0915MQ4BP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ee2wZLYFL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the influencer hype for a second. Tanologist's Face and Body Drops have been all over social media, and with 210 ratings averaging 4.2 stars, there's clearly something here. But is this the customizable glow-up it claims to be, or just another TikTok trend that disappoints in real life? I tested it for two weeks to find out.

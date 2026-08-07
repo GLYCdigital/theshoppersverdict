@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DC Batman: The Classic TV Series Batmobile, DC Collecti"
 seo_title: "LEGO DC Batman: The Classic TV Series Batmobile, D Review"
 meta_description: "Our full lego dc batman: the classic tv series batmobile, dc collecti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYM31FMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710KDg7C51L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you grew up watching Adam West punch villains with on-screen "POW!" and "BAM!" graphics, this LEGO set is aimed squarely at your nostalgia. But is it worth the premium price tag, or is it just another overpriced licensed build? I've analyzed the specs, buyer feedback, and the actual build experience to give you the straight answer.

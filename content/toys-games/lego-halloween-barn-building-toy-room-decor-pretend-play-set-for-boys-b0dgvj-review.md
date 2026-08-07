@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Halloween Barn Building Toy - Room Decor & Pretend Play"
 seo_title: "LEGO Halloween Barn Building Toy - Room Decor & Pr Review"
 meta_description: "Our full lego halloween barn building toy - room decor & pretend play review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DGVJX2JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715KjCCeVsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stared at a LEGO set and thought "that's cute, but where would I actually put it?" — this Halloween Barn is the answer. It's one of those rare builds that earns its keep on a shelf for two months of the year, then transforms into a play piece your kids will actually use. I've tested a lot of seasonal LEGO releases, and this one punches well above its piece count.

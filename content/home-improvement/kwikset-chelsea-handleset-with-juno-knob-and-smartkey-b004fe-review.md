@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Chelsea Handleset with Juno Knob and SmartKey"
 seo_title: "Kwikset Chelsea Handleset with Juno Knob and Smart Review"
 meta_description: "Our full kwikset chelsea handleset with juno knob and smartkey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B004FEFVZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a0l58EN9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're holding a front-door handleset and it feels like a toy? This isn't that. The Kwikset Chelsea weighs enough to feel serious, and the SmartKey cylinder is the headline feature that actually delivers on its promise.

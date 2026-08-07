@@ -1,23 +1,25 @@
 ---
+
 title: "ALPHONSE Lash Clusters DIY Individual Lashes Cluster Eyelash"
 seo_title: "ALPHONSE Lash Clusters Review: DIY Individual Lashes (2026)"
 meta_description: "Honest ALPHONSE Lash Clusters review: DIY individual lash clusters for beginners. Real results, adhesive tips, and who should skip this set."
 slug: "alphonse-lash-clusters-diy-individual-lashes-cluster-eyelash-extensions-for-beginners-pesta-b0fc6j-review"
 image_alt: "ALPHONSE Lash Clusters DIY individual lash extensions in a compact kit with applicator"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FC6J4GYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HGGR0B0sL._SL1500_.jpg"
-pros:  
+pros: 
   - "Includes 5 cluster lengths (8–14mm) plus 36 clusters per tray — enough for 15+ full sets"  
   - "Bond and seal duo dries clear and holds 5–7 days even with oily lids when applied correctly"  
   - "Featherlight 0.07mm thickness — looks natural, not spidery, even at the 14mm max length"  
-cons:  
+cons: 
   - "Glue wand is too thick for precise placement near the inner corner — use your own fine-tip applicator"  
   - "Cluster bands are slightly stiff; they require 10–15 seconds of finger-pressing to blend, not the 5 seconds claimed"
+
 ---
 
 Let me save you $40 and two hours of frustration: if you have zero patience for fiddly beauty work, skip this kit. But if you’re willing to treat lash application like a mini meditation session, the ALPHONSE Lash Clusters deliver salon-adjacent results at a fraction of the price. I’ve tested six DIY lash brands this year, and here’s the unfiltered breakdown.

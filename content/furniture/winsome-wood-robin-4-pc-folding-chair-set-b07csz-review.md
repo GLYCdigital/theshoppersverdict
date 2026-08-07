@@ -1,4 +1,5 @@
 ---
+
 title: "Winsome Wood Robin 4-PC Folding Chair Set"
 seo_title: "Winsome Wood Robin 4-PC Folding Chair Set Review: Verdict"
 meta_description: "Our full winsome wood robin 4-pc folding chair set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSZW69F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71625lWNVVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need extra seating that doesn't permanently eat your floor space, the Winsome Wood Robin 4-PC Folding Chair Set is worth a serious look. This isn't your average flimsy folding chair — it's built from solid acacia wood, a hardwood that punches well above its price class. But before you click buy, there are a few things you should know.

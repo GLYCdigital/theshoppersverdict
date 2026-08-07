@@ -1,5 +1,6 @@
 ---
 
+
 title: "acer Aspire 16 AI Copilot+ PC | 16 inch  WUXGA 120Hz Multi-Touch"
 seo_title: "Acer Aspire 16 AI Copilot+ PC Review: 120Hz Touchscreen"
 meta_description: "Acer Aspire 16 AI Copilot+ PC review: WUXGA 120Hz touch display, AI features, and real-world performance. See pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F196M26K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NoF2JV5oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-inch WUXGA 120Hz touchscreen is genuinely sharp and fluid — rare at this price point"
   - "Copilot+ AI features (live captions, Windows Studio Effects) actually work and feel useful for productivity"
   - "Solid aluminum build with a comfortable backlit keyboard and generous port selection including Thunderbolt 4 inch"
-cons:
+cons: 
   - "Battery life hovers around 7 hours in real use — short of the 12+ hour claims"
   - "Integrated graphics struggle with anything beyond light gaming or video editing"
   - "Fan noise becomes noticeable under sustained load, especially during firmware updates or heavy multitasking"
+
 
 ---
 

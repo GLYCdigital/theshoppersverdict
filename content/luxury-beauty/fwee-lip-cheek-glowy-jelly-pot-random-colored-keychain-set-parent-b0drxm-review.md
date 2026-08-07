@@ -1,4 +1,5 @@
 ---
+
 title: "fwee Lip&Cheek Glowy Jelly Pot + Random Colored Keychain SET"
 seo_title: "fwee Lip&Cheek Glowy Jelly Pot + Random Colored Ke Review"
 meta_description: "Our full fwee lip&cheek glowy jelly pot + random colored keychain set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRXMT8SQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UvmBa9C6L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The K-Beauty Jelly That Earned Its Hype — Mostly**

@@ -1,4 +1,5 @@
 ---
+
 title: "Super Cedar FIRESTARTERS for Wood Stoves, Campfires, Grill P"
 seo_title: "Super Cedar FIRESTARTERS for Wood Stoves, Campfire Review"
 meta_description: "Our full super cedar firestarters for wood stoves, campfires, grill p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB7FW12F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91I8Iv6iDXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've lit more fires than I care to count, and I'll say this plainly: most firestarters are overpriced sawdust with a gimmick. The Super Cedar FIRESTARTERS are different — not because they're flashy, but because they actually work. With a 4.7-star average across 235 ratings, these little discs have earned their reputation. Here's the honest breakdown.

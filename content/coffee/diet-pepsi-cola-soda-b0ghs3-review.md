@@ -1,4 +1,5 @@
 ---
+
 title: "Diet Pepsi Cola Soda"
 seo_title: "Diet Pepsi Cola Soda Review: Worth Buying in 2026?"
 meta_description: "Our Diet Pepsi Cola Soda review covers taste, carbonation, and value. See what 235 buyers say before you buy this 4.7-star soda."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHS3DCDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cNn1uBL+L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent carbonation that survives shipping — no flat, warm cans out of the box"
   - "Crisp, clean cola taste with zero sugar aftertaste that plagues generic diet sodas"
   - "Reliable 12-pack packaging that arrives intact, with sturdy cardboard dividers"
-cons:
+cons: 
   - "Price per ounce runs higher than store-brand alternatives; you're paying for the name"
   - "Some buyers report cans arriving dented when the outer box gets crushed in transit"
+
 ---
 
 **The Short Version: Is Diet Pepsi Still the King of Zero-Calorie Cola?**

@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Raised Garden Bed Kit with Gloves, Ground Nails, Su"
 seo_title: "YITAHOME Raised Garden Bed Kit with Gloves, Ground Review"
 meta_description: "Our full yitahome raised garden bed kit with gloves, ground nails, su review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GMH9LYGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rW15valXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced raised garden beds lately, you know the market splits into two camps: cheap flimsy beds that buckle after one season, and $200+ cedar kits that require a second mortgage. The YITAHOME Raised Garden Bed Kit slides into the middle — and for most home gardeners, that's exactly the sweet spot.

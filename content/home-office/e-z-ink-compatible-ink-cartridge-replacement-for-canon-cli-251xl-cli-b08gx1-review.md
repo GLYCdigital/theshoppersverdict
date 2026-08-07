@@ -1,4 +1,5 @@
 ---
+
 title: "E-Z Ink Compatible Ink Cartridge Replacement for Canon CLI-2 inch"
 seo_title: "E-Z Ink CLI-2 Cartridge Review: Reliable Canon Alternative"
 meta_description: "Read our honest E-Z Ink compatible Canon CLI-2 cartridge review. Covers print quality, page yield, smudge issues, and whether this budget ink beats OEM."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GX1YQRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z+Et8Sj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Costs roughly 60-70% less than Canon OEM CLI-2 cartridges while maintaining comparable color accuracy on glossy photo paper"
   - "Chip recognition works flawlessly in Pixma printers — no error messages, no 'non-genuine ink' warnings during installation"
   - "Packaging includes a resealable foil bag with moisture barrier, keeping unused cartridges fresh for months between swaps"
-cons:
+cons: 
   - "Black ink runs slightly warm/gray compared to OEM — noticeable in high-contrast text documents if you're picky about pure blacks"
   - "Page yield runs 10-15% below Canon's rated numbers, especially on the photo black cartridge with heavy borderless printing"
+
 ---
 
 # E-Z Ink Compatible Ink Cartridge Replacement for Canon CLI-2 Review

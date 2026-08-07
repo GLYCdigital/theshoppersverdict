@@ -1,4 +1,5 @@
 ---
+
 title: "Bulk Buy: Tombow Mono Adhesive Refill Permanent Value Pack 3"
 seo_title: "Tombow Mono Adhesive Refill Value Pack Review (2026)"
 meta_description: "Tombow Mono Adhesive Refill Permanent Value Pack 3 review: 3 refills, strong bond, no wrinkles. Is the bulk buy worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BBM3VHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R64wuFr2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each refill delivers roughly 30 feet of adhesive tape — that's 90 feet total across the three-pack, which outlasts most glue sticks by a mile."
   - "The permanent bond formula dries clear and won't wrinkle paper, even on thin printer stock or delicate cardstock."
   - "Refills snap into any Tombow Mono Adhesive applicator (the blue or gold bodies) in under five seconds — no tools, no mess."
-cons:
+cons: 
   - "You need the separate applicator body to use these — the refills don't come with a dispenser, and the body costs $6-8 extra."
   - "Permanent formula means zero repositioning margin. Once the tape hits the paper, it's stuck. If you misalign, you're starting over."
   - "Tape width is fixed at 8.4mm — fine for most tasks, but too narrow for large poster-board mounting or scrapbook backgrounds."
+
 ---
 
 **Full Review Body:**

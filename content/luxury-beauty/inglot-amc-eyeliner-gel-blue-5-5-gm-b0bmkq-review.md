@@ -1,4 +1,5 @@
 ---
+
 title: "Inglot Amc Eyeliner Gel, Blue, 5.5 Gm"
 seo_title: "Inglot Amc Eyeliner Gel, Blue, 5.5 Gm Review: Verdict | T"
 meta_description: "Our full inglot amc eyeliner gel, blue, 5.5 gm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMKQRS4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hsHRH34JS._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Blue eyeliner is a commitment. Most formulas read cheap—either chalky like a 2004 body shimmer or streaky like a kid's watercolor set. The Inglot AMC Gel Eyeliner in Blue avoids both traps. This is the cobalt that looks like it was pressed from a crushed sapphire, and it stays put through things that would make lesser liners run for cover.

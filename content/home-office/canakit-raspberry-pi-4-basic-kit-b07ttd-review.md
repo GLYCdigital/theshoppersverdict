@@ -1,4 +1,5 @@
 ---
+
 title: "CanaKit Raspberry Pi 4 Basic Kit"
 seo_title: "CanaKit Raspberry Pi 4 Basic Kit Review (2026): Worth It?"
 meta_description: "CanaKit Raspberry Pi 4 Basic Kit review: performance, build quality, what's included, and who should buy. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07TTDWW2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91FuQ5CZhpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes genuine Raspberry Pi 4 (4GB or 8GB) with official USB-C power supply — no third-party adapter that might cause under-voltage warnings"
   - "Pre-applied heat sinks and fan case keep thermals in check even under sustained load; no throttling during extended use"
   - "CanaKit's pre-formatted microSD card with NOOBS means you're booting into Raspberry Pi OS within 10 minutes of opening the box"
-cons:
+cons: 
   - "No microSD card reader included — you'll need one to re-flash the card if you want a different OS or need to recover from a corrupted install"
   - "Fan is audible at full speed; not silent if you're using it as a desktop replacement in a quiet room"
   - "Basic kit lacks the power button and extra GPIO accessories found in the more expensive CanaKit bundles"
+
 ---
 
 The Raspberry Pi 4 is the Swiss Army knife of the single-board computer world. But buying a bare Pi board is only half the story — you still need a power supply, a case, heat sinks, and an OS. That's where the CanaKit Raspberry Pi 4 Basic Kit comes in. It bundles everything you need to go from box to booted desktop in under fifteen minutes.

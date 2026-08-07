@@ -1,4 +1,5 @@
 ---
+
 title: "Sebastian Professional Potion 9 Wearable Hair Styling Treatm"
 seo_title: "Sebastian Professional Potion 9 Wearable Hair Styl Review"
 meta_description: "Our full sebastian professional potion 9 wearable hair styling treatm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D188CN5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ct3gJbd2L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Sebastian Professional Potion 9 Review: The One-Bottle Styling Workhorse**

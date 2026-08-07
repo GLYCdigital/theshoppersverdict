@@ -1,4 +1,5 @@
 ---
+
 title: "Vego garden Herb Planter Box with Trellis Self-Watering Roll"
 seo_title: "Vego garden Herb Planter Box with Trellis Self-Wat Review"
 meta_description: "Our full vego garden herb planter box with trellis self-watering roll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CTT7ZXLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zAywS9XiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more basil plants than you'd like to admit, the **Vego Garden Herb Planter Box with Trellis and Self-Watering Roll** might be the safety net you've been looking for. This isn't a flimsy cedar box or a cheap resin trough — it's a welded steel unit that actually looks like it belongs on a patio, not in a landfill.

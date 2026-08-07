@@ -1,4 +1,5 @@
 ---
+
 title: "Seafood Tools Lobster Crab Crackers Crab Crackers and Tools "
 seo_title: "Seafood Tools Lobster Crab Crackers Crab Crackers  Review"
 meta_description: "Our full seafood tools lobster crab crackers crab crackers and tools  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJRK367B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hcBPwAVBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance: Does It Actually Crack Shells?

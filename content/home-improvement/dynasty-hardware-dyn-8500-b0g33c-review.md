@@ -1,4 +1,5 @@
 ---
+
 title: "DYNASTY HARDWARE DYN-8500 inch"
 seo_title: "DYNASTY HARDWARE DYN-8500 Review: Is It Worth It?"
 meta_description: "Honest DYNASTY HARDWARE DYN-8500 review: build quality, real-world performance, and who should buy it. 4.5/5 rating analyzed."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G33C124R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/515LzflvZaL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Machined aluminum housing that holds up to drops without binding internal components"
   - "Adjustable depth stop with positive detents — no tools needed to change settings"
   - "Compatible with standard 1/4-inch hex accessories across major brands"
-cons:
+cons: 
   - "Included carrying case is thin ABS plastic with a flimsy latch that will wear out"
   - "No belt clip included in the box — you'll pay extra for the accessory"
+
 ---
 
 Let me be blunt: the DYNASTY HARDWARE DYN-8500 is one of those products that looks generic in the product photos but surprises you the first time you actually torque on it. With 225 ratings averaging 4.5 stars, this isn't a flashy flagship — it's a workhorse. And after digging into what owners actually say, here's the real story.

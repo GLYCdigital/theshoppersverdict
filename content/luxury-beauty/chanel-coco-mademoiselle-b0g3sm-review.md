@@ -1,4 +1,5 @@
 ---
+
 title: "CHANEL Coco Mademoiselle"
 seo_title: "CHANEL Coco Mademoiselle Review: Worth the Hype? (2026)"
 meta_description: "Our honest CHANEL Coco Mademoiselle review covers longevity, sillage, and value. See if this iconic Eau de Parfum lives up to the 4.3-star rating."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G3SMJ53D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w5d7Qu0L._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8-10 hours on skin, 12+ on clothing"
   - "Versatile scent profile that transitions from office to evening without feeling heavy"
   - "High-quality ingredients with a refined, non-synthetic dry-down"
-cons:
+cons: 
   - "High price point — this is a significant investment for most shoppers"
   - "Sillage is moderate-to-strong, so it may overwhelm in close quarters"
   - "Not a unique scent — many affordable dupes exist that capture the general vibe"
+
 ---
 
 **The $150 Question: Is CHANEL Coco Mademoiselle Worth It?**

@@ -1,4 +1,5 @@
 ---
+
 title: "LyLmLe LED Pool Lights for Above Ground Pools with APP Contr"
 seo_title: "LyLmLe LED Pool Lights for Above Ground Pools with Review"
 meta_description: "Our full lylmle led pool lights for above ground pools with app contr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GS4MPPVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ixRwrNo2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the smart upgrade your above-ground pool needs, or just another gimmick that'll float away?** With 215 ratings averaging 4.3 stars, the LyLmLe LED Pool Light has clearly found an audience. But here's what I actually found digging through the specs and real buyer feedback.

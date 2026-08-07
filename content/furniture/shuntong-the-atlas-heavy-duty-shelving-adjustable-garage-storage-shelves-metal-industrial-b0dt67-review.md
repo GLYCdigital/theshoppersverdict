@@ -1,4 +1,5 @@
 ---
+
 title: "Shuntong The Atlas Heavy Duty Shelving, Adjustable Garage St"
 seo_title: "Shuntong The Atlas Heavy Duty Shelving, Adjustable Review"
 meta_description: "Our full shuntong the atlas heavy duty shelving, adjustable garage st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT674LFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ej-wU42IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Atlas isn't flashy. It's just honest steel.

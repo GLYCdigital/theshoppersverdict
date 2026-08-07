@@ -1,4 +1,5 @@
 ---
+
 title: "Outsidepride Irish Moss Ground Cover Seeds - Perennial Low G"
 seo_title: "Outsidepride Irish Moss Ground Cover Seeds - Peren Review"
 meta_description: "Our full outsidepride irish moss ground cover seeds - perennial low g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0737B9X4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716bGJlQMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: Irish moss (*Sagina subulata*) is one of the most finicky ground covers you can grow from seed. The 3.2-star rating on Amazon isn't a surprise — this product gets bought by people expecting "moss in a month" and gets abandoned by people who don't realize they're signing up for a 90-day patience project.

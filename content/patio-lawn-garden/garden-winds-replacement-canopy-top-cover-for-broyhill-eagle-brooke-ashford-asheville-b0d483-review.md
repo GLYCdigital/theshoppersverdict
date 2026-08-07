@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Winds Replacement Canopy Top Cover for Broyhill Eagle"
 seo_title: "Garden Winds Broyhill Eagle Canopy Review (2026): Worth It?"
 meta_description: "Honest Garden Winds replacement canopy review for Broyhill Eagle patio swings. Real pros, cons, and fit issues before you buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D483DBW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41OALB9670L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "UV-resistant polyester fabric with water-repellent coating handles afternoon sun and light rain"
   - "Reinforced webbing loops and heavy-duty stitching at stress points prevent premature tearing"
   - "Fits Broyhill Eagle, Brooke, Ashford, and Asheville models — one canopy, multiple swing frames"
-cons:
+cons: 
   - "Not waterproof — heavy downpours will soak through eventually despite the coating"
   - "Color can fade noticeably after a full season in direct southern sun"
   - "Some buyers report the straps need adjustment to get a taught, wrinkle-free fit"
+
 ---
 
 If your Broyhill Eagle swing frame is still solid but the original canopy has turned into a sun-bleached rag, this Garden Winds replacement is probably on your shortlist. Here's the honest breakdown before you click buy.

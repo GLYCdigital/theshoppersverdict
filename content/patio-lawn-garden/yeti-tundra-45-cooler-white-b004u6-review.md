@@ -1,4 +1,5 @@
 ---
+
 title: "YETI Tundra 45 Cooler, White"
 seo_title: "YETI Tundra 45 Cooler, White Review: Verdict | TSV"
 meta_description: "Our full yeti tundra 45 cooler, white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004U6MHV0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Y-wdmgTgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the hype: the YETI Tundra 45 is the most overpriced, over-engineered, and utterly indispensable cooler you’ll ever own. That’s not a contradiction — it’s the reality of what you’re buying.

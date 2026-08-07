@@ -1,4 +1,5 @@
 ---
+
 title: "Sportneer Adjustable Ankle Weights Set - 1 Pair (2-10 lbs) R"
 seo_title: "Sportneer Adjustable Ankle Weights Set - 1 Pair (2 Review"
 meta_description: "Our full sportneer adjustable ankle weights set - 1 pair (2-10 lbs) r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08B1K16LJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wFDFx-g3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook: Is this the last ankle weight set you'll ever need?**

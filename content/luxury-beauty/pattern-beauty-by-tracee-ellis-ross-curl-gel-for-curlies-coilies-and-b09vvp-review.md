@@ -1,4 +1,5 @@
 ---
+
 title: "PATTERN Beauty by Tracee Ellis Ross Curl Gel for Curlies, Co"
 seo_title: "PATTERN Beauty by Tracee Ellis Ross Curl Gel for C Review"
 meta_description: "Our full pattern beauty by tracee ellis ross curl gel for curlies, co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09VVPNT98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kdLidGJpL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the celebrity-brand noise. PATTERN Beauty isn't another influencer cash grab — Tracee Ellis Ross built this line specifically for textured hair (3A through 4C), and the Curl Gel is the product that keeps showing up in "best of" lists. At 4.5 stars across 225 ratings, it's clearly doing something right. But is it *your* something? Here's the honest breakdown.

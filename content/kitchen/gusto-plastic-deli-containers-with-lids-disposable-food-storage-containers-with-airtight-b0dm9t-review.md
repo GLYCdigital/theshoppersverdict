@@ -1,4 +1,5 @@
 ---
+
 title: "GUSTO Plastic Deli Containers with Lids - Disposable Food St"
 seo_title: "GUSTO Plastic Deli Containers with Lids - Disposab Review"
 meta_description: "Our full gusto plastic deli containers with lids - disposable food st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM9TWNY5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DkFqL94lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most deli containers are flimsy, leaky, and destined for the recycling bin after one use. The GUSTO set tries to be different — and for the most part, it succeeds.

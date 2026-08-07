@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Tomatoes Whole Peeled Organic, 28 inch"
 seo_title: "365 Whole Foods Organic Tomatoes Review: Worth It?"
 meta_description: "365 Whole Foods organic whole peeled tomatoes review: flavor, texture, value vs. San Marzano. See if these 28-oz cans earn a spot in your pantry."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D5JMDMP1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V-V4+6fML._SL1000_.jpg"
-pros:
+pros: 
   - "Bright, balanced tomato flavor with low acidity that holds up in long-simmered sauces"
   - "Firm whole peeled tomatoes that keep their shape when crushed by hand, not mush"
   - "Clean organic ingredient list — just tomatoes, tomato juice, and a touch of salt"
-cons:
+cons: 
   - "Cans arrive occasionally dented due to minimal packaging in multi-packs"
   - "Not San Marzano — lacks that specific smoky-sweet complexity for purists"
   - "No pull-tab lid; you'll need a can opener every time"
+
 ---
 
 Let's be honest: most canned tomatoes in the U.S. are a race to the bottom — watery pulp, metallic aftertaste, and a vague "tomato-ish" flavor that dies the second it hits a hot pan. The 365 by Whole Foods Market Organic Whole Peeled Tomatoes are not that. At 4.8 stars across 240 ratings, these cans have quietly become a pantry staple for home cooks who actually care what goes into their Sunday gravy. Here's the real story after cracking open several cans.

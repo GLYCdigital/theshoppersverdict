@@ -1,4 +1,5 @@
 ---
+
 title: "Fig & Leaf 9-Inch Round Pans - OPS"
 seo_title: "Fig & Leaf 9-Inch Round Pans Review: Worth It? (2026)"
 meta_description: "Fig & Leaf 9-inch round pans review: 4.6-star rated bakeware. We test durability, nonstick performance, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08B3GY1XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+GzjD9-UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 9-inch diameter with 2.25-inch walls — proper depth for layered cakes, not shallow cookie sheets"
   - "Nonstick coating holds up through 100+ bakes without flaking or chipping when hand-washed"
   - "Even heat distribution with no hot spots; cakes brown uniformly edge-to-center"
-cons:
+cons: 
   - "Not dishwasher-safe despite what some buyers assume — hand-washing is mandatory"
   - "Dark coating makes crusts darker faster; you'll need to shave 5-10°F off oven temps"
+
 ---
 
 Let's be honest: most bakeware under $25 is a gamble. You either get pans that warp after three uses, or ones that release cakes so poorly you're eating crumbs with a fork. The Fig & Leaf 9-Inch Round Pans sit in that budget tier, yet they've earned a 4.6-star average from 229 ratings. That's not accidental.

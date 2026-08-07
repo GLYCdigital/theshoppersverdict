@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward W3S244T2 Pool Sand Filter"
 seo_title: "Hayward W3S244T2 Pool Sand Filter Review: Verdict | TSV"
 meta_description: "Our full hayward w3s244t2 pool sand filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09173JBGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qXUUV4cEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a cloudy above-ground pool and dreading another cartridge cleaning session, the Hayward W3S244T2 deserves your attention. This is the 19-inch ProSeries sand filter rated for above-ground pools up to 18,000 gallons — and after digging through 215 Amazon reviews, I can tell you exactly where it shines and where it'll test your patience.

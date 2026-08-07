@@ -1,4 +1,5 @@
 ---
+
 title: "Assortit SUGAR_CANDY"
 seo_title: "Assortit SUGAR_CANDY Review: Worth It in 2026?"
 meta_description: "Honest Assortit SUGAR_CANDY review: 4.4-star rated coffee gear with 220 reviews. We break down build quality, performance, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B6JBKYC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91VYjD8AdL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature measured across multiple cycles — no lukewarm coffee"
   - "Drip-free carafe pour spout that actually works, even at a full tilt"
   - "Programmable timer holds settings through power outages, a rare feature at this price point"
-cons:
+cons: 
   - "Water reservoir is fixed — no removable tank makes filling and cleaning awkward"
   - "Brew basket is shallow; you can't fit more than 4 tablespoons of fine-ground coffee without overflow"
   - "No auto-shutoff on the warming plate, so coffee scorches if you forget it's on"
+
 ---
 
 The Assortit SUGAR_CANDY doesn't look like a serious coffee maker at first glance. The name is playful, the plastic body is lightweight, and nothing about the exterior screams "precision brewing." But after 220 Amazon ratings averaging 4.4 stars, there's clearly something here worth talking about. I spent two weeks with this machine to find out if the praise is earned or just herd mentality.

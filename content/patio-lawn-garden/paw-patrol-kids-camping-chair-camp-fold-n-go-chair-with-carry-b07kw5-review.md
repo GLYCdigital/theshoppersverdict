@@ -1,4 +1,5 @@
 ---
+
 title: "Paw Patrol Kids Camping Chair, Camp Fold N Go Chair with Car"
 seo_title: "Paw Patrol Kids Camping Chair, Camp Fold N Go Chai Review"
 meta_description: "Our full paw patrol kids camping chair, camp fold n go chair with car review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07KW5SJDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N8trZ0-CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your toddler is obsessed with Chase, Marshall, and the rest of the Paw Patrol crew, this chair is going to be a hit. But is it actually built to survive the chaos of camping trips, backyard barbecues, and living room movie nights? After digging through 225 ratings and the construction details, here's the real story.

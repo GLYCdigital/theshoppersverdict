@@ -1,4 +1,5 @@
 ---
+
 title: "(16 Pack) Lined Sticky Notes 3x3 in Ruled Stickies Super Sti"
 seo_title: "Lined Sticky Notes 3x3 Review: 16-Pack Super Sticking Power"
 meta_description: "Read our honest 3x3 lined sticky notes review: 16-pack ruled stickies with super sticking power, real customer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5M28Y2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mSKgrzeQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely strong adhesive — notes stay put on vertical surfaces and survive repeated repositioning without losing tack"
   - "Ruled lines are crisp and evenly spaced, making handwriting look neater and keeping list items aligned"
   - "16 pads per pack works out to a solid per-pad value, especially for classroom or office bulk use"
-cons:
+cons: 
   - "Paper is on the thinner side — aggressive writing with a heavy hand can leave indentations on the next sheet"
   - "Color assortment leans heavily on neon tones; if you prefer muted pastels, this pack isn't it"
+
 ---
 
 If you've ever watched a sticky note curl off your monitor and drift to the floor, you know the frustration. The "Super Sticking Power" claim on this 16-pack of 3x3 ruled stickies is bold marketing — but based on 225 ratings averaging 4.5 stars, it's one of the few promises that actually holds up.

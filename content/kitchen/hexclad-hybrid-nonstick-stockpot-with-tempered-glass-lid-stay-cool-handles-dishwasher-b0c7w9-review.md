@@ -1,4 +1,5 @@
 ---
+
 title: "HexClad Hybrid Nonstick Stockpot with Tempered Glass Lid, St"
 seo_title: "HexClad Hybrid Nonstick Stockpot with Tempered Gla Review"
 meta_description: "Our full hexclad hybrid nonstick stockpot with tempered glass lid, st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7W9WYM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KxT7sWUNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HexClad name carries serious weight in the cookware world—partly because Gordon Ramsay’s face is attached to it, but mostly because the hybrid surface actually delivers on its promise. This 8-quart stockpot is the workhorse of the line, and after digging through 235 ratings and the specs, here’s the real story for anyone about to drop serious money on a pot.

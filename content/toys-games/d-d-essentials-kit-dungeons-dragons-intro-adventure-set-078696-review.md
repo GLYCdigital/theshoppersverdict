@@ -1,4 +1,5 @@
 ---
+
 title: "D&D Essentials Kit (Dungeons & Dragons Intro Adventure Set)"
 seo_title: "D&D Essentials Kit Review (2026): Best Starter Set?"
 meta_description: "D&D Essentials Kit review: 4.8-star rated intro adventure set. Covers contents, gameplay, pros/cons, and whether it beats the Starter Set."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/0786966831/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710Ixn4byUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes a full 64-page adventure (Dragon of Icespire Peak) plus a 32-page rulebook — enough for 10+ sessions of play"
   - "Comes with 11 dice, 6 pre-generated character sheets, and 81 cards for magic items, quests, and conditions"
   - "Sidekick rules let 1-2 players run a full campaign without a Dungeon Master — rare for starter products"
-cons:
+cons: 
   - "Adventure is more linear than the Starter Set's Lost Mine of Phandelver — less freedom for sandbox-style groups"
   - "No battle map or miniatures included, despite combat-heavy encounters in the quests"
   - "Character creation rules are stripped down — you can't build custom characters without the Player's Handbook"
+
 ---
 
 # D&D Essentials Kit Review: The Best Way to Start Dungeons & Dragons in 2026?

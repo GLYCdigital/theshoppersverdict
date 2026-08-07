@@ -1,4 +1,5 @@
 ---
+
 title: "FOOING Solar Garden Fireworks Lights Outdoor, Solar Powered"
 seo_title: "FOOING Solar Fireworks Lights Review: 2-Mode Garden Decor"
 meta_description: "FOOING Solar Garden Fireworks Lights review: 4.4★ rated. 2 lighting modes, waterproof build, real buyer feedback. Find out if these yard lights deliver."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FKM2KM33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817itTISC0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two distinct lighting modes (warm white steady + multicolor flashing) give real versatility for holidays vs. everyday ambiance"
   - "IP65 waterproof rating means they survive rain, snow, and sprinkler overspray without failing"
   - "No wiring required — stake them in the ground, let them charge 6-8 hours, and they run 8-10 hours automatically"
-cons:
+cons: 
   - "Solar panel output is modest; buyers in shaded yards or winter climates report shorter burn times than advertised"
   - "Plastic stakes feel lightweight — they work fine in soil but won't hold up to aggressive weed-whacker encounters"
+
 ---
 
 **FOOING Solar Garden Fireworks Lights Review: Do These 2-Mode Stakes Actually Deliver?**

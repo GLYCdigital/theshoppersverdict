@@ -1,4 +1,5 @@
 ---
+
 title: "Osprey Daylite Wheeled Duffel Bag"
 seo_title: "Osprey Daylite Wheeled Duffel Bag Review: Verdict | TSV"
 meta_description: "Our full osprey daylite wheeled duffel bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D92KKJXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AYUo7APJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Osprey Daylite Wheeled Duffel Bag is a hybrid that actually works — but it's not for everyone.**

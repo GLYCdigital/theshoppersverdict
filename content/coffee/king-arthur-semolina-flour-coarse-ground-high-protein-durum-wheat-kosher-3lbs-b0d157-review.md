@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur Semolina Flour, Coarse Ground, High Protein Duru"
 seo_title: "King Arthur Semolina Flour, Coarse Ground, High Pr Review"
 meta_description: "Our full king arthur semolina flour, coarse ground, high protein duru review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D157N8K2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61plbbPyTxL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "semolina" you find on grocery shelves is actually fine durum flour. King Arthur's offering is the real thing — coarse ground, high-protein durum wheat that behaves noticeably different in your hands. If you've been making pasta with the wrong stuff, this bag will change your kitchen.

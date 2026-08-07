@@ -1,4 +1,5 @@
 ---
+
 title: "Walker's Shortbread Fingers, Pure Butter Shortbread Cookies,"
 seo_title: "Walker's Shortbread Fingers, Pure Butter Shortbrea Review"
 meta_description: "Our full walker's shortbread fingers, pure butter shortbread cookies, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTYV7GTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZbWYyltBL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'm going to be straight with you: I've tested a lot of "premium" shortbread in the name of research, and most of it tastes like sweetened sawdust with delusions of grandeur. Walker's is not that. This Scottish brand has been making shortbread since 1898, and the Fingers — those iconic rectangular bars — are the reason the company became a household name. Here's the real story after putting a box through its paces.

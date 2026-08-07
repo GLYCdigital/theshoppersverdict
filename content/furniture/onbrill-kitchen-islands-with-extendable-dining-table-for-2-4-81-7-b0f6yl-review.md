@@ -1,4 +1,5 @@
 ---
+
 title: "ONBRILL Kitchen Islands with Extendable Dining Table for 2-4"
 seo_title: "ONBRILL Kitchen Islands with Extendable Dining Tab Review"
 meta_description: "Our full onbrill kitchen islands with extendable dining table for 2-4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6YL9K7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815uFDHbinL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s talk about the ONBRILL Kitchen Island with Extendable Dining Table. If you're living in an apartment, condo, or any kitchen where counter space is a luxury, this piece promises to be your multitasking savior. But 4.3 stars across 215 ratings tells me some buyers are thrilled and others are wrestling with tradeoffs. Here’s the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Allsmartlife 2x2 LED Flat Panel Light, 0-10V Dimmable, 5CCT"
 seo_title: "Allsmartlife 2x2 LED Flat Panel Review: Dimmable & 5CCT"
 meta_description: "Honest Allsmartlife 2x2 LED flat panel light review: 0-10V dimming, 5 color temps, brightness, install ease, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7973NS9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IqPPw6xsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five selectable color temperatures (2700K-5000K) via a single switch — no separate bulbs or modules needed"
   - "True 0-10V dimming with low-end control that actually drops to near-dark, not just 50% flicker"
   - "Ships with both a flush-mount frame and suspension cables, covering drop-ceiling and drywall installs"
-cons:
+cons: 
   - "Driver box is bulky — can be a tight squeeze in shallow plenums above grid ceilings"
   - "Color selectable switch is on the driver, not the panel face — awkward if you need to re-adjust after install"
+
 ---
 
 If you're retrofitting a drop ceiling or finishing a basement, most 2x2 LED panels force you to pick one color temperature and pray you like it. The Allsmartlife 2x2 breaks that pattern with a five-position CCT switch on the driver, letting you dial in 2700K, 3000K, 3500K, 4000K, or 5000K before you lock it into the grid. Combined with genuine 0-10V dimming, this is a panel that actually adapts to the room instead of the other way around.

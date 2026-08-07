@@ -1,4 +1,5 @@
 ---
+
 title: "ORICO 1TB mSATA SSD, SATA III 6Gbps 3D NAND Internal Solid S"
 seo_title: "ORICO 1TB mSATA SSD, SATA III 6Gbps 3D NAND Intern Review"
 meta_description: "Our full orico 1tb msata ssd, sata iii 6gbps 3d nand internal solid s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZH7F5RL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dt2VoJy+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the mSATA Upgrade Your Old Laptop Needs?

@@ -1,4 +1,5 @@
 ---
+
 title: "API TAP Water Conditioner Aquarium Water Conditioner"
 seo_title: "API TAP Water Conditioner Review: Safe Aquarium Water"
 meta_description: "Honest API TAP Water Conditioner review: detoxifies heavy metals instantly, safe for fish, and removes chlorine. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQHZCRSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51d67ZRnQIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Removes chlorine, chloramine, AND detoxifies heavy metals in one dose — no need for a separate metal remover"
   - "Works instantly on contact; fish can be added immediately after water changes"
   - "Slime coat protection helps stressed fish recover faster during tank maintenance"
-cons:
+cons: 
   - "Dosing cap is small — easy to over-pour if you're not paying attention"
   - "No built-in pH buffer; you'll still need separate products if your tap water runs extreme"
   - "1-gallon bottle lacks a measuring line, so precise dosing for nano tanks takes math"
+
 ---
 
 If you've ever lost a fish to a water change, you know the sinking feeling. Chlorine burns gills, chloramine binds to blood cells, and heavy metals silently poison your tank. API TAP Water Conditioner claims to fix all three in one squeeze. After digging through 235 Amazon reviews and the product specs, here's the real story.

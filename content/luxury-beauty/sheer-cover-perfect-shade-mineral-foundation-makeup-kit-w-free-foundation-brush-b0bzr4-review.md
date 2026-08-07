@@ -1,4 +1,5 @@
 ---
+
 title: "Sheer Cover Perfect Shade - Mineral Foundation Makeup Kit w "
 seo_title: "Sheer Cover Perfect Shade - Mineral Foundation Mak Review"
 meta_description: "Our full sheer cover perfect shade - mineral foundation makeup kit w  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZR4KFZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+Otlvtt5L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "mineral" foundations on Amazon are just pressed talc with a marketing sticker. The Sheer Cover Perfect Shade kit is not that. With 225 ratings averaging 4.5 stars, this is one of the more legitimate entries in the mineral makeup space — but it's not without tradeoffs.

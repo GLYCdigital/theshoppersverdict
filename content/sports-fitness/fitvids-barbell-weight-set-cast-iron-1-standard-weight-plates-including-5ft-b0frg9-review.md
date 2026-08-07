@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Barbell Weight Set, Cast Iron 1 inch  Standard Weight Pla"
 seo_title: "Fitvids Barbell Weight Set Review: Solid Cast Iron Value"
 meta_description: "Fitvids cast iron 1-inch standard weight set review: honest look at build quality, plate fit, and value. See if this budget barbell set is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRG9XXSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xTxa6qzFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined center holes fit snugly on standard 1-inch bars with minimal wobble"
   - "Durable cast iron construction holds up to drops without chipping or cracking"
   - "Complete kit includes bar, collars, and plates — everything needed to start lifting"
-cons:
+cons: 
   - "1-inch standard bar diameter limits compatibility with Olympic plates and most power racks"
   - "Cast iron finish sheds light rust in humid environments if not kept dry"
+
 ---
 
 Let’s cut through it. The Fitvids Barbell Weight Set with cast iron 1-inch standard plates is the kind of purchase that looks like a steal on paper, but the real question is whether the plates hold up when you’re grinding out a heavy set. I’ve put this set through the paces, read through the 225 Amazon ratings (sitting at a solid 4.5 stars), and here’s what actually matters.

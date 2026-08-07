@@ -1,4 +1,5 @@
 ---
+
 title: "Veraste Collapsible Crate for Medium Dogs, Portable 4-Door F"
 seo_title: "Veraste Collapsible Crate for Medium Dogs, Portabl Review"
 meta_description: "Our full veraste collapsible crate for medium dogs, portable 4-door f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D83LF1CH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jEnhRIFKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Multi-Door Math: Is More Access Actually Better?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Cabinet Hardware Jig Adjustable Drill Guide"
 seo_title: "Cabinet Hardware Jig Review: Adjustable Drill Guide for Knobs & Pulls"
 meta_description: "Cabinet Hardware Jig Adjustable Drill Guide review: precise hole drilling for knobs and pulls, durable build, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09FSVXXMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z2M-H4GeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Self-centering spring-loaded drill bushing keeps holes perfectly aligned on cabinet faces and drawer fronts"
   - "Adjustable sliding arms handle both knob (single-hole) and pull (two-hole) layouts from 1 to 8 inches apart"
   - "Built-in bubble level and edge guide eliminate guesswork for new DIYers and pros alike"
-cons:
+cons: 
   - "No built-in depth stop — you'll need to mark your drill bit or use tape to avoid blowing through thin veneer"
   - "Plastic body feels solid but won't survive a drop onto concrete; treat it as a bench tool, not a job-site beater"
+
 ---
 
 If you've ever installed cabinet pulls by measuring, marking, and praying your drill bit doesn't wander, you know the pain. One misaligned hole turns a $200 cabinet door into a frustrating redo. This adjustable drill jig aims to kill that problem permanently. After digging through 225 ratings and the mechanics of how it actually works, here's the honest breakdown.

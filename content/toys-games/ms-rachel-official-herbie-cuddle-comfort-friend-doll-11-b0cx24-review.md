@@ -1,4 +1,5 @@
 ---
+
 title: "Ms. Rachel Official Herbie Cuddle & Comfort Friend Doll, 11â"
 seo_title: "Ms. Rachel Official Herbie Cuddle & Comfort Friend Review"
 meta_description: "Our full ms. rachel official herbie cuddle & comfort friend doll, 11â review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX2451MG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+75NtvSbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Comfort Doll That Actually Gets Cuddled

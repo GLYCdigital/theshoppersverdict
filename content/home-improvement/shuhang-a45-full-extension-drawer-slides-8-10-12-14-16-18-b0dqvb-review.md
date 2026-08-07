@@ -1,4 +1,5 @@
 ---
+
 title: "SHUHANG A45 Full Extension Drawer Slides 8 10 12 14 16 18 20"
 seo_title: "SHUHANG A45 Full Extension Drawer Slides 8 10 12 1 Review"
 meta_description: "Our full shuhang a45 full extension drawer slides 8 10 12 14 16 18 20 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQVBDLRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41TZHLh9t-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You're Actually Getting**

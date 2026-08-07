@@ -1,4 +1,5 @@
 ---
+
 title: "HEAD Tour Team Tennis Backpack 2 Racquet Carrying Bag w/ Pad"
 seo_title: "HEAD Tour Team Tennis Backpack 2 Racquet Carrying  Review"
 meta_description: "Our full head tour team tennis backpack 2 racquet carrying bag w/ pad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0856BHDGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xsJzuQJQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tennis bags scream "weekend warrior." This one whispers "I've played long enough to know what I actually need." The HEAD Tour Team Backpack hits that sweet spot for the club player who wants real protection without hauling a duffel bag the size of a carry-on. At 4.7 stars across 235 ratings, it's clearly doing something right.

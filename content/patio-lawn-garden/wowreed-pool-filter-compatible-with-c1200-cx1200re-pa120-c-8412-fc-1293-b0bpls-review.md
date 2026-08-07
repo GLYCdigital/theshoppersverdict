@@ -1,4 +1,5 @@
 ---
+
 title: "Wowreed Pool Filter Compatible with C1200, cx1200re, PA120, "
 seo_title: "Wowreed Pool Filter Compatible with C1200, cx1200r Review"
 meta_description: "Our full wowreed pool filter compatible with c1200, cx1200re, pa120,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BPLSR371/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mpWa6SmsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Wowreed Pool Filter the Smart Replacement or a False Economy?

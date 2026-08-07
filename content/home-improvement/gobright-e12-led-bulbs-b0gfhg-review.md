@@ -1,4 +1,5 @@
 ---
+
 title: "GoBright E12 LED Bulbs"
 seo_title: "GoBright E12 LED Bulbs Review: Verdict | TSV"
 meta_description: "Our full gobright e12 led bulbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFHGBK23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aCO12YfZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Candelabra-base bulbs are a pain point for most homeowners. The fixtures they go into — chandeliers, sconces, ceiling fans — are awkward to reach, and the bulbs themselves are often dim, ugly, or dead within six months. The GoBright E12 LED bulbs aim to fix that with a compact glass envelope and a claimed 15,000-hour lifespan. After digging through the specs and what real buyers are saying across 229 ratings, here's the honest picture.

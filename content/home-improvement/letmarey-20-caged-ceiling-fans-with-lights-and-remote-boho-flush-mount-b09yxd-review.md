@@ -1,7 +1,8 @@
 ---
-title: "Letmarey 20\" Caged Ceiling Fans with Lights and Remote, Boho"
-seo_title: "Letmarey 20\" Caged Ceiling Fans with Lights and Re Review"
-meta_description: "Our full letmarey 20\" caged ceiling fans with lights and remote, boho review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Letmarey 20\ Caged Ceiling Fans with Lights and Remote, Boho"
+seo_title: "Letmarey 20\ Caged Ceiling Fans with Lights and Re Review"
+meta_description: "Our full letmarey 20\ caged ceiling fans with lights and remote, boho review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "letmarey-20-caged-ceiling-fans-with-lights-and-remote-boho-flush-mount-b09yxd-review"
 image_alt: "Letmarey 20 Caged Ceiling Fans with Lights and Remote, Boho Flush Mount Ceiling Fan with Light, Low Profile Chandelier 6"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YXDCMJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718UeclgrJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The Letmarey 20" caged ceiling fan is proof that "small space" doesn't have to mean "ugly ceiling fixture." It's a flush-mount boho statement piece that actually moves air — not just a decorative light with a motor bolted on. At 4.4 stars across 220 ratings, buyers mostly love it, but there are two tradeoffs you should know about before you commit.

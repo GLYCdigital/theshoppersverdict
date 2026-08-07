@@ -1,4 +1,5 @@
 ---
+
 title: "Crescent Lufkin 5/8 inch  X 6' Red End® Engineer's Scale Wood Ru"
 seo_title: "Crescent Lufkin Red End Engineer's Scale Review (2026)"
 meta_description: "Honest Crescent Lufkin 5/8 inch  x 6' Red End Engineer's Scale wood rule review: durability, legibility, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00002N5LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814hzgc+KAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided 10/50 and 20/40 engineer's scales printed in crisp, high-contrast black on white"
   - "Solid hardwood body with metal edge strips that resist warping and protect against drops"
   - "Red End® lacquer coating seals the wood and keeps the markings legible for years"
-cons:
+cons: 
   - "Printed graduations can wear off near the zero edge with heavy daily use"
   - "No hook or standoff at the end — you'll need a sharp pencil or scribe for precise measurements"
   - "Lighter than metal rules, so it can shift on slick blueprints without a non-slip backing"
+
 ---
 
 If you've ever tried to read a rolled-up, crinkled set of engineering drawings with a flimsy plastic scale, you know the frustration. The Crescent Lufkin Red End® Engineer's Scale is the tool that older draftsmen swear by — and after testing it against a stack of blueprints, I understand why. This is a no-nonsense wooden rule built for people who measure for a living, not for weekend DIYers who need a straight edge once a year.

@@ -1,4 +1,5 @@
 ---
+
 title: "ShineTech Double Head Led Desk Lamp for Home Office"
 seo_title: "ShineTech Double Head Led Desk Lamp for Home Offic Review"
 meta_description: "Our full shinetech double head led desk lamp for home office review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVHBG96W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ePCgxgE-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most LED desk lamps under $50 are variations of the same boring single-arm design. The ShineTech Double Head LED Desk Lamp is not that. It's a dual-arm lighting rig that actually solves a real problem — task lighting shadows. If you've ever tried to read a spec sheet or solder a board under a single overhead lamp, you know exactly what I mean.

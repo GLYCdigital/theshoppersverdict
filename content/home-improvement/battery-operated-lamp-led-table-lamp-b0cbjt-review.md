@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Operated Lamp LED Table Lamp"
 seo_title: "Battery Operated Lamp LED Table Lamp Review (2026)"
 meta_description: "Honest battery operated lamp LED table lamp review: brightness, battery life, build quality, and who should buy it. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CBJTF1T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z-4yAjnzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation — runs on 3 D batteries, so placement is unlimited"
   - "Three brightness levels (low/med/high) with a single touch control"
   - "Sturdy weighted base prevents tipping, even with the adjustable gooseneck fully extended"
-cons:
+cons: 
   - "Battery drain is real — expect roughly 20–25 hours on high, so keep spares handy"
   - "No USB-C or wall adapter option; it's batteries-only, which adds long-term cost"
   - "Light is warm-toned only (3000K) — not ideal if you prefer cool daylight for tasks"
+
 ---
 
 If you've ever wrestled with an extension cord to get light into a closet, a camper, or a windowless corner, you already know why this battery-operated LED table lamp exists. It's a simple concept — a gooseneck lamp that runs on D batteries instead of a wall outlet — and at 4.1 stars from 204 ratings, it's clearly finding its audience. But "battery-operated" carries tradeoffs, and you deserve the full picture before you click buy.

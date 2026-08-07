@@ -1,4 +1,5 @@
 ---
+
 title: "FlexiSpot EN2 Standing Desk Review: The Electric Base Worth Buying?"
 seo_title: "FlexiSpot EN2 Standing Desk Review (2026): Budget Electric"
 meta_description: "Our FlexiSpot EN2 standing desk review covers motor performance, stability, and value. Is this budget electric sit-stand desk worth buying?"
@@ -12,15 +13,15 @@ amazon_url: "https://www.amazon.com/dp/B07H2WGFQN?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717OHX3si4L._AC_SL1500_.jpg"
 image_alt: "FlexiSpot EN2 electric standing desk in office setting with dual monitors"
 keywords: [FlexiSpot EN2 review, standing desk, electric height adjustable desk, budget standing desk, sit stand desk]
-pros:
+pros: 
   - "Smooth and quiet dual-motor lift"
   - "Exceptional value at $219.99"
   - "Stable at both sitting and standing heights"
-cons:
+cons: 
   - "Desktop top sold separately"
   - "No memory presets on the basic controller"
   - "Cable management tray is basic"
-faq:
+faq: 
   - question: "What weight capacity does the FlexiSpot EN2 have?"
     answer: "The EN2 frame supports up to 275 lbs (125 kg), including the desktop and all equipment. That's enough for a dual-monitor setup, a laptop, a monitor arm, and accessories."
   - question: "Can you buy the EN2 with a desktop?"
@@ -28,7 +29,8 @@ faq:
   - question: "How fast does the EN2 raise and lower?"
     answer: "The dual motors move at about 1.5 inches per second. Going from sitting (29 inches) to standing (48 inches) takes roughly 13 seconds — fast enough not to feel tedious."
   - question: "How tall is the EN2 at minimum height?"
-    answer: "The frame adjusts from 28.3 inches to 48.4 inches (without a desktop). With a 1-inch desktop, the sitting height is about 29.3 inches, suitable for users 5'0\" and taller."
+    answer: "The frame adjusts from 28.3 inches to 48.4 inches (without a desktop). With a 1-inch desktop, the sitting height is about 29.3 inches, suitable for users 5'0\ and taller."
+
 ---
 
 The standing desk market is crowded with $400+ options that promise the world and deliver a wobbly plank. Then there's the FlexiSpot EN2 — a $219.99 electric standing desk that's racked up 4,413 ratings and held a 4.6-star average. The question isn't whether it's good. It's whether it's *good enough* for your specific setup. Here's the honest breakdown.

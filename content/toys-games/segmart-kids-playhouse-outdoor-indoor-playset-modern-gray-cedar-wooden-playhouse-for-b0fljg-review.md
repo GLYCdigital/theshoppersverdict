@@ -1,4 +1,5 @@
 ---
+
 title: "Segmart Kids Playhouse â€“ Outdoor & Indoor Playset, Modern "
 seo_title: "Segmart Kids Playhouse â€“ Outdoor & Indoor Playse Review"
 meta_description: "Our full segmart kids playhouse â€“ outdoor & indoor playset, modern  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLJG1SFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717rPnaAfKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Segmart Kids Playhouse isn't the cheapest wooden playset you'll find, and it's not the biggest either. But after digging through 229 ratings at a 4.6 average, it's clear this one hits a sweet spot most competitors miss: it actually looks good in your yard.

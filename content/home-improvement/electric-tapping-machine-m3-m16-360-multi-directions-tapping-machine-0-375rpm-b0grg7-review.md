@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Tapping Machine M3-M16,360° Multi-directions Tappi"
 seo_title: "Electric Tapping Machine M3-M16 Review: 360° Power Tapper"
 meta_description: "Electric tapping machine M3-M16 review: 360° multi-directional tapping, 0-375 RPM. See real pros, cons, and who should buy this bench or handheld tapper."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRG7YWDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41XZ8DE39GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Handles M3 through M16 taps with adjustable 0-375 RPM for precise control on varied materials"
   - "360° multi-directional arm lets you tap vertically, horizontally, or at awkward angles without repositioning the workpiece"
   - "Built-in depth stop and automatic reverse reduce tap breakage, a major cost saver"
-cons:
+cons: 
   - "Requires a solid bench or floor stand—the arm's leverage amplifies any wobble in your setup"
   - "Chuck changeover between tap sizes takes a few minutes; no quick-release collet system"
   - "At $389, it's a serious investment for hobbyists who only tap a few holes per month"
+
 ---
 
 If you've ever snapped a tap off inside a $200 workpiece, you already know why this machine exists. The Electric Tapping Machine M3-M16 with its 360° multi-directional arm is the tool that turns a nerve-wracking manual operation into a controlled, repeatable process. After digging through 235 ratings and the spec sheet, here's the real story for anyone considering this $389 investment.

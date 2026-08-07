@@ -1,4 +1,5 @@
 ---
+
 title: "Funko League of Legends Arcane - Jinx Vinyl Figur 1602 Unise"
 seo_title: "Funko Jinx Arcane Review: Is This POP Worth It? (2026)"
 meta_description: "Funko League of Legends Arcane Jinx POP review: detailed look at paint, sculpt, and stability. See what 240 buyers rate 4.8 stars and who should skip it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G4M2FT33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718IFH61UkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Nail-gun accessory is molded separately and slots into her hand — no glue-gun warping like earlier Funko releases"
   - "Box art uses the actual Arcane key art, not the generic League splash — collectors who display in-box will notice the difference"
   - "Hair sculpt has layered paint gradients (blue-to-teal) that match the show's color grading, not flat plastic"
-cons:
+cons: 
   - "Stands about 4.1 inches tall, slightly shorter than standard 4.5-inch POPs — line-up purists may find her undersized"
   - "Pigtails are thin and can bend if the figure is shipped in soft packaging without a protector"
+
 ---
 
 If you've watched *Arcane*, you know Jinx doesn't do subtle. This Funko POP captures the post-time-skip version — the one with the glowing pink eyes, the ratty braids, and that permanent smirk that says "I have a plan and it involves explosives." At 4.8 stars from 240 Amazon ratings, it's clearly doing something right. But let's talk about what that something actually is.

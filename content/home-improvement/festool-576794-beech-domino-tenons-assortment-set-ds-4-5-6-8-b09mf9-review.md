@@ -1,4 +1,5 @@
 ---
+
 title: "Festool 576794 Beech DOMINO Tenons Assortment Set DS 4/5/6/8 inch"
 seo_title: "Festool 576794 DOMINO Tenons Review: DS 4/5/6/8 Set"
 meta_description: "Festool 576794 Beech DOMINO Tenons DS 4/5/6/8 review: 229 ratings, 4.6 stars. Sizing, fit, real-world performance, and honest downsides for woodworkers."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MF9F31L/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mozilla.org/images/I/81d3mUVgU-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-milled beech with consistent, tight tolerances — joints fit without slop or forcing"
   - "Six different tenon sizes (4x20, 5x30, 6x40, 8x50, plus 5x25 and 6x30) cover nearly every joinery scenario in one box"
   - "Beech takes glue evenly and compresses slightly under clamping pressure, creating rock-solid domino joints"
-cons:
+cons: 
   - "Expensive per-tenon compared to generic alternatives — you're paying for Festool's QC and convenience"
   - "Assortment pack lacks the most commonly used 10x50 size, so heavy-duty frame builders will need a separate purchase"
   - "Plastic storage case is functional but not dust-sealed — shop debris can get inside if you're not careful"
+
 ---
 
 Let's be direct: If you own a Festool DOMINO joiner, you already know the tenons are the consumable that keeps your shop running. The 576794 assortment is the one box that covers most of what you'll actually build — but it's not perfect, and you should know exactly what you're getting before you drop the cash.

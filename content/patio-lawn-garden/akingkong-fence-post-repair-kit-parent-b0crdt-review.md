@@ -1,4 +1,5 @@
 ---
+
 title: "AKingKong Fence Post Repair Kit Parent"
 seo_title: "AKingKong Fence Post Repair Kit Review (2026): Worth It?"
 meta_description: "AKingKong Fence Post Repair Kit review: Does this steel brace fix rotted posts without concrete? 4.6-star rating, real buyer feedback, and honest pros/cons."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRDTJYM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/819lXgoR2ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge galvanized steel brackets that actually support the post rather than just wrapping it"
   - "No concrete mixing or digging required — installs in under an hour with basic hand tools"
   - "Adjustable design accommodates both 4x4 and 6x6 posts, saving you from buying two kits"
-cons:
+cons: 
   - "Ground spike installation requires significant hammering force; rocky soil will test your patience"
   - "Bracket bolts are metric — you'll need a 13mm socket, not the standard 1/2-inch most homeowners own"
+
 ---
 
 A rotted fence post is the kind of problem that starts as a small lean and ends with your entire panel sagging into the neighbor's yard. The AKingKong Fence Post Repair Kit promises a fix without digging out the old concrete footer. After digging through 229 ratings and the reported experiences, here's what you actually need to know before buying.

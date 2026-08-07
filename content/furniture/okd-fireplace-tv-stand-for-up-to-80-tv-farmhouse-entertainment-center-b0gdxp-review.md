@@ -1,4 +1,5 @@
 ---
+
 title: "OKD Fireplace TV Stand for up-to-80 TV, Farmhouse Entertainm"
 seo_title: "OKD Fireplace TV Stand for up-to-80 TV, Farmhouse  Review"
 meta_description: "Our full okd fireplace tv stand for up-to-80 tv, farmhouse entertainm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GDXPWF2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916nLaog5kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A Farmhouse Statement That Actually Handles Big Screens

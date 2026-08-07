@@ -1,23 +1,25 @@
 ---
+
 title: "eos 100% Natural & Organic Lip Balm Sticks - Strawberry Sorb"
 seo_title: "eos Strawberry Sorb Lip Balm Review: Natural Hydration"
 meta_description: "Read our eos 100% Natural & Organic Strawberry Sorb Lip Balm Stick review. See if this 4.7-star balm delivers all-day moisture without the chemicals."
 slug: "eos-100-natural-organic-lip-balm-sticks-strawberry-sorbet-all-day-moisture-b01mf6-review"
 image_alt: "eos 100% Natural Organic Lip Balm Stick in Strawberry Sorb with visible texture and packaging"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MF63BCU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MJHz-oFXL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Certified organic shea butter and coconut oil deliver true 8-hour moisture without greasy film"  
   - "Twist-up stick format is hygienic — no finger dipping like the classic eos egg balms"  
   - "Subtle strawberry scent from natural flavors, not artificial perfume"  
-cons:  
+cons: 
   - "Stick can soften and bend in hot pockets or cars — keep it upright"  
   - "Not medicated; won't fix severely cracked lips, just maintains healthy ones"
+
 ---
 
 **The eos Strawberry Sorb Lip Balm Stick is what happens when a brand known for novelty eggs finally gets serious about ingredients.** This isn't the glossy, tinted stuff you find at the checkout counter. It's a no-nonsense stick that leans hard into certified organic butters and oils, and for the 235 Amazon shoppers who rated it 4.7 stars, it's working.

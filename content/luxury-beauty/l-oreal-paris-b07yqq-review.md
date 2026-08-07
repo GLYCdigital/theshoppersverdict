@@ -1,4 +1,5 @@
 ---
+
 title: "L'Oreal Paris"
 seo_title: "L'Oreal Paris Review: Verdict | TSV"
 meta_description: "Our full l'oreal paris review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07YQQV77G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NOA7AiyIL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # L'Oreal Paris: The 4.2-Star Skincare Product That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Air Duster-380000RPM Compressed Air Duster, Super H"
 seo_title: "Electric Air Duster 380000RPM Review: Worth It? | Super H"
 meta_description: "Our Electric Air Duster 380000RPM Super H review covers power, noise, battery life, and real buyer feedback. See if this cordless blower beats canned air."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DV4B4RPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615mh6YR0kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "380,000 RPM brushless motor delivers genuinely powerful airflow that clears dust and debris from tight electronics in seconds"
   - "Cordless and rechargeable — no more buying disposable canned air or hunting for an outlet near your desk"
   - "Comes with multiple nozzle attachments and a filter kit, making it versatile for keyboards, PC internals, camera gear, and car interiors"
-cons:
+cons: 
   - "Battery life is short at full power — expect roughly 10-15 minutes of continuous use before needing a recharge"
   - "Noticeably loud at top speed; several users report it's uncomfortable for extended use without hearing protection"
   - "Build quality feels plasticky and the trigger can be stiff on some units, causing hand fatigue during longer cleaning sessions"
+
 ---
 
 If you've ever choked on a cloud of bitter canned air while trying to evict dust from a keyboard, the Electric Air Duster Super H is your exit ramp. Priced to compete with roughly 15 cans of compressed air, this cordless blower promises endless dust-free computing. But at 3.5 stars from 175 ratings, the reality is more complicated. Let's cut through the static.

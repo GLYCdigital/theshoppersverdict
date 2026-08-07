@@ -1,4 +1,5 @@
 ---
+
 title: "Curls Blueberry Bliss Control Jelly - Define & Defrizz"
 seo_title: "Curls Blueberry Bliss Control Jelly Review (2026): Define & Defrizz"
 meta_description: "Honest Curls Blueberry Bliss Control Jelly review: Does it define curls without crunch? We break down performance, scent, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CK9G5RQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bJCCyF+ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Alcohol-free formula with blueberry extract and aloe vera that hydrates while it holds, not just stiffening hair in place"
   - "Medium-to-strong hold that creates a cast but scrunches out to soft, defined curls without crunch or flaking"
   - "Fruity, natural blueberry scent that's noticeable but fades quickly — no lingering perfume smell"
-cons:
+cons: 
   - "Jar packaging requires scooping with fingers, which is less hygienic than a pump and can introduce bacteria over time"
   - "Not strong enough for coily or ultra-tight textures on humid days — you'll need a stronger gel on top for all-day hold"
+
 ---
 
 **Is this the jelly that finally gives you defined curls without the crunch?** After digging through 220 Amazon ratings and testing the formula myself, here's the real deal on Curls Blueberry Bliss Control Jelly.

@@ -1,4 +1,5 @@
 ---
+
 title: "BXROIU Fairy Lights Battery Operated, Silver Wire Chains 8 M"
 seo_title: "BXROIU Fairy Lights Review: 8M Silver Wire Battery String"
 meta_description: "BXROIU fairy lights review: 8M silver wire chain, battery operated, 8 modes. Real buyer feedback on durability, brightness, and battery life."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0875N2XBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711IDD98O3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 lighting modes including steady on, flashing, and fading — controlled from a single button on the battery pack"
   - "Flexible 8-meter silver wire that holds its shape for wrapping, twisting, and crafting without kinking"
   - "Battery-operated design with timer function; runs on 3 AA batteries (not included) for true portability"
-cons:
+cons: 
   - "Batteries not included — factor in an extra $5–8 for a set of quality AAs"
   - "Silver wire is thin (approximately 0.3mm); it can snap if you bend it sharply at the same point repeatedly"
   - "Light output is warm and cozy, not bright — these are accent lights, not task lighting"
+
 ---
 
 # BXROIU Fairy Lights: The 8-Meter Silver Wire Set That Actually Earns Its Keep

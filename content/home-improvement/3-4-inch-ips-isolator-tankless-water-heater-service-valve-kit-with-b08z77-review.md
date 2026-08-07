@@ -1,4 +1,5 @@
 ---
+
 title: "3/4 Inch IPS Isolator Tankless Water Heater Service Valve Ki"
 seo_title: "3/4 Inch IPS Isolator Valve Kit Review: Worth It?"
 meta_description: "Honest review of the 3/4 IPS tankless water heater service valve kit. We tested flush ability, build quality, and leaks. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08Z771163/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Kdv-STo8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-flow 3/4-inch ball valves prevent the flow restriction that plagues cheaper 1/2-inch isolation kits"
   - "Integrated drain ports with hose threads make annual descaling a 10-minute job instead of a plumbing project"
   - "Lead-free brass construction holds up to heat without the plastic-body failure risk found in budget alternatives"
-cons:
+cons: 
   - "Supplied Teflon tape is thin; you'll want your own high-density tape or pipe dope for leak-free threads"
   - "No mounting brackets included — the valve assembly is heavy enough to stress unsupported PEX runs"
+
 ---
 
 If you own a tankless water heater and haven't installed service valves yet, you're gambling with your warranty—and your wallet. Flushing a tankless unit without isolation valves means either hiring a pro for $150–$300 per service, or wrestling with the unit's internal service ports. This 3/4-inch IPS isolator kit from B08Z771163 aims to change that with a straightforward, full-port design.

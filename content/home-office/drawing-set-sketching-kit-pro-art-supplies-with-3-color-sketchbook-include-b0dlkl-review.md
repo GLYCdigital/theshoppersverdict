@@ -1,4 +1,5 @@
 ---
+
 title: "Drawing Set Sketching Kit, Pro Art Supplies with 3-Color Ske"
 seo_title: "Drawing Set Sketching Kit Review: Pro Art Supplies Tested"
 meta_description: "Honest Drawing Set Sketching Kit review: pro art supplies with 3-color sketchbook tested for quality, value & performance. See if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLKLW2RN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RIZQ6LouL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes 72-piece kit with 3-color sketchbook — enough variety to cover graphite, charcoal, and colored work without buying supplements"
   - "Professional-grade graphite pencils (12 hardnesses from 6B to 6H) that layer and blend smoothly without excessive smudging"
   - "Carrying case with elastic loops keeps every tool organized — no more digging through a cluttered drawer mid-sketch"
-cons:
+cons: 
   - "Charcoal sticks arrive brittle — several Amazon reviewers reported breakage in transit; handle with care when unpacking"
   - "Blending stumps are shorter than standard art-store versions (about 4 inches vs 6), which limits control on larger drawings"
+
 ---
 
 # Drawing Set Sketching Kit Review: Is This 72-Piece Pro Art Set Worth Your Money?

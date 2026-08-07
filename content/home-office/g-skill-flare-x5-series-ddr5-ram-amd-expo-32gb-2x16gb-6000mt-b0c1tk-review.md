@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Flare X5 Series DDR5 RAM (AMD EXPO) 32GB (2x16GB) 60"
 seo_title: "G.SKILL Flare X5 Series DDR5 RAM (AMD EXPO) 32GB ( Review"
 meta_description: "Our full g.skill flare x5 series ddr5 ram (amd expo) 32gb (2x16gb) 60 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1TKSDKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wPLbOcDwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building an AMD Ryzen system and want RAM that simply works without spending hours in BIOS menus, the G.SKILL Flare X5 32GB (2x16GB) DDR5-6000 kit is the memory most enthusiasts end up recommending. And with a 4.7-star average across 235 ratings, the crowd agrees. But is it the right pick for your specific build? Let's dig into the details.

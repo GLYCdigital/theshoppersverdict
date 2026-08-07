@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK 59mm Baked Balance-n-Brighten Foundati"
 seo_title: "LAURA GELLER NEW YORK 59mm Baked Balance-n-Brighte Review"
 meta_description: "Our full laura geller new york 59mm baked balance-n-brighten foundati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CNSF4B1B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7198OGBXvoL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The one-compact wonder that actually delivers — if you find your shade.**

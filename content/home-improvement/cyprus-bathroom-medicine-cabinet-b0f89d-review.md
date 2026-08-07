@@ -1,4 +1,5 @@
 ---
+
 title: "Cyprus Bathroom Medicine Cabinet"
 seo_title: "Cyprus Bathroom Medicine Cabinet Review: Pros, Cons & Verdict"
 meta_description: "Honest Cyprus Bathroom Medicine Cabinet review: build quality, storage capacity, installation tips, and who should buy it. Read before you purchase."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F89DHKFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512EOKPOa-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Recessed or surface-mount design with aluminum frame resists moisture better than MDF competitors"
   - "Tempered glass mirrors on interior shelves prevent shattering hazards in humid bathrooms"
   - "Soft-close hinge mechanism rated for 50,000 cycles — noticeably quieter than standard spring hinges"
-cons:
+cons: 
   - "Installation template is printed on thin paper that tears easily; measure twice before cutting drywall"
   - "Interior depth is shallower than the exterior dimensions suggest — tall bottles won't stand upright on top shelf"
+
 ---
 
 The Cyprus Bathroom Medicine Cabinet sits in that awkward middle ground — not the cheapest option on Amazon, not the premium one either. But after digging through 204 ratings and the spec sheet, this is a cabinet that gets the fundamentals right where many budget competitors cut corners. Here's the real breakdown.

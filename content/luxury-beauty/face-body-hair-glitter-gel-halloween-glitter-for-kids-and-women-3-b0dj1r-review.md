@@ -1,4 +1,5 @@
 ---
+
 title: "Face, Body & Hair Glitter Gel – Halloween Glitter for Kids"
 seo_title: "Face Body Hair Glitter Gel Review: Halloween Sparkle for Kids"
 meta_description: "Honest review of the Face, Body & Hair Glitter Gel for kids. Is this Halloween glitter worth buying? We test application, staying power, and cleanup."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJ1R2VTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717dzz2zfPL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Fine-milled glitter suspended in gel that actually stays put for 6-8 hours without flaking onto clothes"
   - "Squeeze tube with precision tip makes controlled application easy for parents doing kids' Halloween makeup"
   - "Washes off with soap and water — no scrubbing, no glitter fallout in the bathroom sink for days"
-cons:
+cons: 
   - "Clear gel dries with a slightly tacky feel that some kids notice on skin for the first few minutes"
   - "Single 1.7oz tube won't cover a full body look; better suited for faces, cheeks, and hair streaks"
+
 ---
 
 Let's be honest about kids' glitter products: most of them are a craft-store disaster waiting to happen. That's why this Face, Body & Hair Glitter Gel from the Halloween Glitter collection deserves a closer look. With a 4.6-star average across 229 ratings, it's clearly doing something right — but is it the right glitter gel for your specific Halloween plans? Here's what I found digging through the specs and real customer experiences.

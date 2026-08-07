@@ -1,4 +1,5 @@
 ---
+
 title: "Potassium Chloride Powder 2 Pound - Sodium Free Salt Substit"
 seo_title: "Potassium Chloride Powder 2 Pound - Sodium Free Sa Review"
 meta_description: "Our full potassium chloride powder 2 pound - sodium free salt substit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWKP7V71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eOCs+l5QL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: this is a 2-pound bag of pure potassium chloride powder. It's not fancy. It's not flavored. But for anyone on a sodium-restricted diet — or managing blood pressure — it's a legitimate workhorse that delivers exactly what it promises.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon TCG: Scarlet & Violetâ€”Journey Together Elite Train"
 seo_title: "Pokemon TCG: Scarlet & Violetâ€”Journey Together E Review"
 meta_description: "Our full pokemon tcg: scarlet & violetâ€”journey together elite train review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSLY7DZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817Nd3hqAVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pokemon Company knows exactly what they're doing with the Journey Together Elite Trainer Box. This is the set where they finally leaned hard into the trainer-and-Pokemon dynamic, and the ETB format is the best way to experience it without dropping hundreds on booster boxes. At 4.5 stars across 225 ratings, it's clearly landing well—but let's talk about what that rating actually means for your money.

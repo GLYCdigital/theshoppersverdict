@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Safe TakeRoot Rooting Hormone for Plants, 2-Ounce (1 inch"
 seo_title: "Garden Safe TakeRoot Rooting Hormone Review (2026): Does It Work?"
 meta_description: "Honest Garden Safe TakeRoot rooting hormone review: real results, application tips, and who should buy it. See pros, cons, and verdict for this 4.6-star product."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07BXY943N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41EMYarMoIL._SX342_.jpg"
-pros:
+pros: 
   - "Contains 0.1% indole-3-butyric acid (IBA) — a proven, systemic rooting compound that penetrates the cutting rather than just coating it"
   - "Powers through stubborn woody cuttings like roses, hydrangeas, and fruit trees that fail with cheaper talc-based powders"
   - "2-ounce container lasts for hundreds of cuttings — at roughly $8 per bottle, that's pennies per propagation attempt"
-cons:
+cons: 
   - "No fungicide included — if your cuttings are prone to rot, you'll need to dip in a separate anti-fungal treatment first"
   - "The powder can clump if the container isn't sealed tightly after each use, wasting product and making application uneven"
+
 ---
 
 You've probably killed a few cuttings in your day. We all have. You snip a promising branch, stick it in soil, water it faithfully — and two weeks later it's a brown, mushy disappointment. The difference between that failure and a thriving new plant often comes down to one thing: rooting hormone. And Garden Safe TakeRoot is one of the most consistently recommended options in the category, with a 4.6-star average across 229 Amazon ratings.

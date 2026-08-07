@@ -1,4 +1,5 @@
 ---
+
 title: "365 EVERYDAY VALUE Snack Pack-Mini Sandwich Crackers"
 seo_title: "365 Mini Sandwich Crackers Review: Worth It? (2026)"
 meta_description: "Honest 365 Everyday Value Mini Sandwich Crackers review: taste, texture, portion sizes, and value. See if these snack packs beat name brands."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RSS8KMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NclkpJ3VL._SL1000_.jpg"
-pros:
+pros: 
   - "Portable 1.5 oz snack packs are perfectly sized for lunchboxes, desk drawers, or hiking packs"
   - "Crispy, buttery crackers with a well-balanced cheddar filling that doesn't taste artificial"
   - "Lower sodium than comparable name-brand sandwich crackers (around 190mg per serving)"
-cons:
+cons: 
   - "Packaging says 'Mini' but cracker size is standard — don't expect bite-sized pieces"
   - "Slight risk of broken crackers in transit, especially in colder weather when the cheese hardens"
   - "Only available in cheddar flavor — no variety pack option for picky households"
+
 ---
 
 Let's be blunt: the snack cracker aisle is a graveyard of overpriced, under-filled boxes. So when a store brand like 365 Everyday Value steps up with a Mini Sandwich Crackers pack that's pulling a 4.5-star average from 225 Amazon ratings, that's worth a closer look. Here's the real story after digging through the specs and what buyers actually say.

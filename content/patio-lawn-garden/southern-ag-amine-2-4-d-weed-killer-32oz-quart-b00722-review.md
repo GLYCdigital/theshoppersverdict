@@ -1,4 +1,5 @@
 ---
+
 title: "Southern Ag Amine 2,4-D WEED KILLER, 32oz - Quart"
 seo_title: "Southern Ag Amine 2,4-D WEED KILLER, 32oz - Quart Review:"
 meta_description: "Our full southern ag amine 2,4-d weed killer, 32oz - quart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0072289CA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fLAeT5GZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Image Alt:** Southern Ag Amine 2,4-D Weed Killer 32oz quart bottle with sprayer on green lawn

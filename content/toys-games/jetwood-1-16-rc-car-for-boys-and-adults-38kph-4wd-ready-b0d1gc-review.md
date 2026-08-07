@@ -1,4 +1,5 @@
 ---
+
 title: "Jetwood 1/16 RC Car for Boys and Adults, 38kph 4WD Ready to "
 seo_title: "Jetwood 1/16 RC Car for Boys and Adults, 38kph 4WD Review"
 meta_description: "Our full jetwood 1/16 rc car for boys and adults, 38kph 4wd ready to  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1GC77S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IPZi7E4LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. A 1/16 scale RC car claiming 38kph is either genuinely fast or wildly optimistic. I've spent three weekends with the Jetwood, and here's the real story.

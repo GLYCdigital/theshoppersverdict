@@ -1,4 +1,5 @@
 ---
+
 title: "H HABIBI Perfume for Men - 2.5 oz (75ML)"
 seo_title: "H HABIBI Perfume for Men - 2.5 oz (75ML) Review: Verdict "
 meta_description: "Our full h habibi perfume for men - 2.5 oz (75ml) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FJGJ8JT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t6gXKK3EL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Verdict in One Paragraph

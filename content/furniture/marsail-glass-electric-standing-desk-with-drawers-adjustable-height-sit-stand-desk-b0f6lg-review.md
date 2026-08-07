@@ -1,4 +1,5 @@
 ---
+
 title: "Marsail Glass Electric Standing Desk with Drawers, Adjustabl"
 seo_title: "Marsail Glass Electric Standing Desk with Drawers, Review"
 meta_description: "Our full marsail glass electric standing desk with drawers, adjustabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F6LGGCXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-9q46ToLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Marsail Glass Electric Standing Desk with Drawers looks like a showpiece, but does it hold up as a daily driver? I dug into the specs, the build, and what early buyers are saying to give you the straight story before you drop serious cash on a sit-stand desk.**

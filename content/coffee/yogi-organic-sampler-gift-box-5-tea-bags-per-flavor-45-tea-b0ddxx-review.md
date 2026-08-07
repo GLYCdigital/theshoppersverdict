@@ -1,4 +1,5 @@
 ---
+
 title: "Yogi Organic Sampler Gift Box-5 Tea Bags per Flavor (45 Tea "
 seo_title: "Yogi Organic Sampler Gift Box-5 Tea Bags per Flavo Review"
 meta_description: "Our full yogi organic sampler gift box-5 tea bags per flavor (45 tea  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDXX6LC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UkRfliHfL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most tea samplers are a rip-off. You get 12 bags of flavors nobody wants, wrapped in a box that falls apart by Tuesday. The Yogi Organic Sampler Gift Box is not that. With 9 flavors and 45 total tea bags (5 per flavor), this is one of the more honest samplers I've tested — but it's not without quirks.

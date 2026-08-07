@@ -1,4 +1,5 @@
 ---
+
 title: "RyzzRooa 8K HDMI 2.1 Cables, High Speed HDMI ARC/eARC Cable "
 seo_title: "RyzzRooa 8K HDMI 2.1 Cables, High Speed HDMI ARC/e Review"
 meta_description: "Our full ryzzrooa 8k hdmi 2.1 cables, high speed hdmi arc/earc cable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D6Y8YRNV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I0E1zCO1L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 cable that makes $200 cables look silly — but it's not perfect.**

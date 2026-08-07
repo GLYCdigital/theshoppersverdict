@@ -1,4 +1,5 @@
 ---
+
 title: "COZIWOW Large Wooden Cat Cage with Perches and Condos, Play"
 seo_title: "COZIWOW Large Wooden Cat Cage Review: Worth It? (2026)"
 meta_description: "Honest COZIWOW Large Wooden Cat Cage review: 4.2★ from 210 ratings. Real pros, cons, sizing tips & who should buy. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G3PRCF67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ADb1Z4IUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid pine wood frame with real plywood panels — far sturdier than the wire-and-fabric cages at similar price points"
   - "Three levels with two enclosed condos and multiple perches give multi-cat households actual vertical space"
   - "Front and side doors plus removable bottom tray make cleaning and cat access genuinely convenient"
-cons:
+cons: 
   - "Assembly is a two-person job — takes 1–2 hours and the included hex key will test your patience"
   - "Floor footprint is substantial (roughly 3×2 feet); it won't fit tight apartments or small corners"
   - "Wood finish scratches easily if your cat is a serious clawer — expect visible marks within weeks"
+
 ---
 
 **If you're shopping for a cat cage that doesn't look like a temporary prison, the COZIWOW Large Wooden Cat Cage deserves a hard look.** At 4.2 stars from 210 Amazon ratings, it's not perfect — but for multi-cat households or owners who need to confine a cat safely (post-surgery, new kitten integration, or just to protect furniture), this is one of the better-built options I've seen under $200.

@@ -1,4 +1,5 @@
 ---
+
 title: "G.SKILL Trident Z5 Neo RGB Series DDR5 RAM (AMD Expo & Intel"
 seo_title: "G.SKILL Trident Z5 Neo RGB Series DDR5 RAM (AMD Ex Review"
 meta_description: "Our full g.skill trident z5 neo rgb series ddr5 ram (amd expo & intel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C4G6XQQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41QmmgbhbrL._AC_US40_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the RGB hype for a second. The G.SKILL Trident Z5 Neo series has become the default recommendation for AMD Ryzen builds for a reason — but it’s not the only DDR5 kit on the shelf. After digging through 240 Amazon ratings (4.8 stars) and testing the modules myself, here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Seachoice Universal Boat Motor Flusher, Muff Style"
 seo_title: "Seachoice Universal Boat Motor Flusher, Muff Style Review"
 meta_description: "Our full seachoice universal boat motor flusher, muff style review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C5SYKS9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rpi+BkaVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Flushing your outboard after every saltwater trip is non-negotiable. But hauling the boat to a ramp just to run fresh water through the motor is a pain. The Seachoice Universal Boat Motor Flusher solves that with a simple muff-style design that clamps over the water intake. At roughly $20, it's cheap insurance against a corroded cooling system. The question is whether it actually seals tight enough to do the job.

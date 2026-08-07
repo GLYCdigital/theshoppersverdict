@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts 2 Gallon Lithium-Ion Power Wand Backpack Sprayer for "
 seo_title: "Scotts 2 Gallon Lithium-Ion Power Wand Backpack Sp Review"
 meta_description: "Our full scotts 2 gallon lithium-ion power wand backpack sprayer for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQRB8RVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PjQKhFvKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of pumping a manual sprayer 50 times per minute and still getting a weak, sputtering stream, the Scotts 2 Gallon Lithium-Ion Power Wand Backpack Sprayer solves that problem. It's not perfect, but it's the most convenient way to treat a suburban lawn without dragging a hose-end sprayer around.

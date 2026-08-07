@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Pinto Beans, 16 Ounce"
 seo_title: "365 Organic Pinto Beans Review: Worth It? (2026)"
 meta_description: "365 by Whole Foods Market Organic Pinto Beans review: texture, cook time, value vs. name brands. See if this 16-oz bag earns its 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFB4SKWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VL43fyR0L._SL1000_.jpg"
-pros:
+pros: 
   - "Uniform bean size means even cooking — no mushy half-beans mixed with crunchy ones after a standard soak"
   - "Low sodium content (10mg per serving) gives you full control over seasoning without the tinny taste canned beans carry"
   - "USDA Organic certification verified through Whole Foods' own quality standards, not just a label slapped on"
-cons:
+cons: 
   - "Some batches arrive with more split beans and broken pieces than premium single-origin brands — cosmetic issue, not functional"
   - "Cooking time runs 15-20 minutes longer than the package suggests if you skip the overnight soak"
+
 ---
 
 Let me be blunt: most grocery store beans are a gamble. You buy a bag, soak them, cook them for two hours, and end up with a pot of uneven mush. The 365 by Whole Foods Market Organic Pinto Beans are the rare bag that actually behaves predictably. Here's why this $3-ish bag has earned a 4.7-star average across 235 ratings — and where it stumbles.

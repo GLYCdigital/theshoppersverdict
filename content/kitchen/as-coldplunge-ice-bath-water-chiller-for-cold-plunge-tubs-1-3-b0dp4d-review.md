@@ -1,24 +1,26 @@
 ---
+
 title: "AS ColdPlunge Ice Bath Water Chiller for Cold Plunge Tubs, 1 inch  "
 seo_title: "AS ColdPlunge Ice Bath Chiller Review: Worth It? (2026)"
 meta_description: "AS ColdPlunge Ice Bath Water Chiller review: cooling power, noise, durability, and real buyer feedback. Is this 3.6-star chiller worth your money?"
 slug: "as-coldplunge-ice-bath-water-chiller-for-cold-plunge-tubs-1-3-b0dp4d-review"
 image_alt: "AS ColdPlunge ice bath water chiller unit with hoses connected to a cold plunge tub"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 180  
-amazon_rating: 3.6  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 180
+amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DP4D4V4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ET2C+I4bL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Cools 100-gallon tubs from 70°F to 45°F in under 8 hours (verified by multiple buyers)"  
   - "Titanium heat exchanger resists corrosion from ozone and bromine — no premature pinhole leaks"  
   - "Quiet operation at ~55 dB — you can hold a conversation next to it"  
-cons:  
+cons: 
   - "No built-in filtration or UV sanitizer — you’ll need to buy a separate pump/filter setup"  
   - "Wi-Fi app is clunky and frequently drops connection — most users just use the manual controls"  
   - "Customer service response times average 48+ hours, and replacement parts are backordered"
+
 ---
 
 # AS ColdPlunge Ice Bath Water Chiller — Cold Therapy Without the Ice Run

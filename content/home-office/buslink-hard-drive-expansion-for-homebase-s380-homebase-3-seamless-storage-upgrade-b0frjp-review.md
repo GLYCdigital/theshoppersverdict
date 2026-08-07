@@ -1,23 +1,25 @@
 ---
+
 title: "BUSlink Hard Drive Expansion for HomeBase S380 (HomeBase 3)"
 seo_title: "BUSlink HomeBase S380 Hard Drive Review: Worth It?"
 meta_description: "BUSlink Hard Drive Expansion for HomeBase S380: Does it deliver real storage gains? Read our honest review covering speed, compatibility, and value."
 slug: "buslink-hard-drive-expansion-for-homebase-s380-homebase-3-seamless-storage-upgrade-b0frjp-review"
 image_alt: "BUSlink hard drive expansion unit connected to Eufy HomeBase S380 with storage capacity indicator"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FRJPL1WG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51m1lJz0B1L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Plug-and-play setup with zero configuration — format and go in under 5 minutes"  
   - "Reliable sustained write speeds for continuous 24/7 security camera recording"  
   - "Compact footprint that sits flush beside the HomeBase without cable clutter"  
-cons:  
+cons: 
   - "Requires a USB-A connection — no USB-C option for newer setups"  
   - "Drive caddie is plastic; feels less premium than the HomeBase itself"
+
 ---
 
 If you own a Eufy HomeBase S380 (HomeBase 3), you already know the pain: 16GB of onboard storage fills up fast when you’ve got multiple 4K cameras recording around the clock. The BUSlink Hard Drive Expansion exists to solve exactly that problem — but does it actually deliver? After digging through 215 ratings and real user experiences, here’s the straight story.

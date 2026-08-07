@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Cat Tree with Litter Box Enclosure"
 seo_title: "YITAHOME Cat Tree with Litter Box Enclosure Review: Verdi"
 meta_description: "Our full yitahome cat tree with litter box enclosure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FF52XJFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AZVKfCT1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of looking at a plastic litter box squatting in your living room, the YITAHOME Cat Tree with Litter Box Enclosure is trying to solve the exact problem you've got. This 4.4-star rated unit (220+ ratings) combines a multi-level cat condo with a hidden litter box compartment — one piece of furniture instead of two ugly ones.

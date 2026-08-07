@@ -1,7 +1,8 @@
 ---
-title: "Tiny Arcade Atari 2600 3.5\" Mini Retro Game - Playable Conso"
-seo_title: "Tiny Arcade Atari 2600 3.5\" Mini Retro Game - Play Review"
-meta_description: "Our full tiny arcade atari 2600 3.5\" mini retro game - playable conso review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tiny Arcade Atari 2600 3.5\ Mini Retro Game - Playable Conso"
+seo_title: "Tiny Arcade Atari 2600 3.5\ Mini Retro Game - Play Review"
+meta_description: "Our full tiny arcade atari 2600 3.5\ mini retro game - playable conso review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tiny-arcade-atari-2600-3-5-mini-retro-game-playable-console-tv-b09d3k-review"
 image_alt: "Tiny Arcade Atari 2600 3.5 Mini Retro Game - Playable Console & TV w/ Real Gameplay & Sound-10 Classic Video Games: Pac-"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09D3KGWRD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lcGfSFIPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Tiny Arcade Atari 2600 is the kind of product that looks like a novelty desk toy but actually delivers a surprisingly authentic retro gaming experience. It's roughly the size of a deck of cards, weighs next to nothing, and features a working joystick, two push buttons, and a 3.5-inch color LCD screen. For $25–$30, it's the cheapest way to legally play five Atari classics without emulation headaches or hunting down a working 1977 console.

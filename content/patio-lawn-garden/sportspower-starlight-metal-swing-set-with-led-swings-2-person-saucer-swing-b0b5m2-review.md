@@ -1,4 +1,5 @@
 ---
+
 title: "Sportspower Starlight Metal Swing Set with LED Swings, 2-Per"
 seo_title: "Sportspower Starlight Metal Swing Set with LED Swi Review"
 meta_description: "Our full sportspower starlight metal swing set with led swings, 2-per review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5M2K3SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r1K4pFHTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

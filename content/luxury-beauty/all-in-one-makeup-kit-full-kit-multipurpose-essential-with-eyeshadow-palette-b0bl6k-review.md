@@ -1,4 +1,5 @@
 ---
+
 title: "All in One Makeup Kit Full Kit Multipurpose Essential with E"
 seo_title: "All in One Makeup Kit Review: Worth It? Honest 2026 Verdict"
 meta_description: "Honest All in One Makeup Kit review: 225+ ratings at 4.5 stars. Build quality, real-world performance, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BL6KNZ6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81h9V6GWm3L._SL1500_.jpg"
-pros:
+pros: 
   - "Complete kit includes eyeshadow palette, blush, bronzer, lip colors, and full brush set — no need to buy anything separately for travel or gifting"
   - "Pigmentation is genuinely impressive for the price point; shimmers apply with one swipe, mattes build without patchiness"
   - "Compact magnetic closure case with mirror stays shut in luggage and holds up to daily use without hinge failure"
-cons:
+cons: 
   - "Brush quality is functional but not professional-grade — bristles are soft yet shed slightly during first two weeks of use"
   - "Shade range leans warm-toned; cool undertones will find the bronzer and neutral shades pull orange"
+
 ---
 
 Let's cut through the noise. The **All in One Makeup Kit Full Kit Multipurpose Essential with E** is exactly what it claims to be: a complete vanity in a single case. But "complete" doesn't automatically mean "good." After digging through 225 ratings and the spec sheet, here's what actually matters before you hit buy.

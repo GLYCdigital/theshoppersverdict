@@ -1,23 +1,25 @@
 ---
+
 title: "GCI Outdoor Chair"
 seo_title: "GCI Outdoor Chair Review: Built to Last or Overhyped?"
 meta_description: "Honest GCI Outdoor Chair review: comfort, durability, and real-world testing. Is this 4.4-star chair worth your patio budget? Find out now."
 slug: "gci-outdoor-chair-b0dr2t-review"
 image_alt: "GCI Outdoor Chair with padded armrests and mesh back, sitting on a patio"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DR2T2BJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gMKXNL4sL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Steel frame with powder coating resists rust through multiple rainy seasons"  
   - "Reclining backrest locks into 4 positions — actually works while seated"  
   - "Padded armrests are wide enough for a drink or phone without wobbling"  
-cons:  
+cons: 
   - "At 12.5 lbs, this is heavier than most folding camp chairs — not ideal for long carries"  
   - "No cup holder built-in; the flat armrests double as one but drinks slide on slopes"
+
 ---
 
 **Opening Hook**  

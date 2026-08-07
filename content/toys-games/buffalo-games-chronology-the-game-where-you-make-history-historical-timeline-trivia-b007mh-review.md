@@ -1,4 +1,5 @@
 ---
+
 title: "Buffalo Games - Chronology - The Game Where You Make History"
 seo_title: "Chronology Game Review: Is It Worth It? (2026)"
 meta_description: "Honest Buffalo Games Chronology review: gameplay, replayability, and fit for history buffs. See pros, cons, and who should buy this 4.8-star game."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B007MHIYFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IHbdB1wFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plays perfectly with 2 players — rare for party-style trivia games"
   - "Cards are built into the timeline mechanic, so there's no memorization or 'dead card' frustration"
   - "Easy to learn in under 5 minutes, but strategy deepens with every round"
-cons:
+cons: 
   - "The included deck has a finite number of cards — after 20+ plays, you'll want an expansion"
   - "Dates are American-centric; non-US players may feel left out of several rounds"
+
 ---
 
 **The History Game That Actually Makes You Think**

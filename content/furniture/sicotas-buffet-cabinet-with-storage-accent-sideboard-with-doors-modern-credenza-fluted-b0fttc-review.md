@@ -1,4 +1,5 @@
 ---
+
 title: "SICOTAS Buffet Cabinet with Storage Accent Sideboard with Do"
 seo_title: "SICOTAS Buffet Cabinet with Storage Accent Sideboa Review"
 meta_description: "Our full sicotas buffet cabinet with storage accent sideboard with do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FTTCQCQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814E4jkmHeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SICOTAS Buffet Cabinet: A Credenza That Actually Earns Its Spot in Your Dining Room**  

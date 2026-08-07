@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS 40 Inch Office Small Computer Desk Modern Simple Style"
 seo_title: "DUMOS 40 Inch Computer Desk Review: Compact & Sturdy (2026)"
 meta_description: "Read our DUMOS 40 Inch Office Computer Desk review. We analyze build quality, space-saving design, and real user feedback to see if this compact desk is right for you."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQKQ5MND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FJvkFr5qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced steel frame and thick particleboard handle heavy monitors without wobble, a rarity at this price point."
   - "The 40-inch width fits tight spaces like dorm rooms and studio apartments, but still leaves room for a laptop and a 24-inch monitor."
   - "Assembly is genuinely tool-free for the legs; the included wrench and cam locks get you set up in about 15 minutes."
-cons:
+cons: 
   - "The 'modern simple style' means it's visually plain; don't expect a premium wood grain finish—it's a matte laminate that shows fingerprints."
   - "No cable management tray or grommet holes, so you'll need to zip-tie cords to the frame to keep things tidy."
   - "The 40-inch depth is shallow (about 20 inches), making it a tight fit for deep monitors with large stands."
+
 ---
 
 **Is this the compact desk that actually holds up, or just another wobbly particleboard nightmare?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Iris Queen 12A Straight 13x4 HD Lace Front Human Hair Wigs P"
 seo_title: "Iris Queen 12A Straight 13x4 HD Lace Front Human H Review"
 meta_description: "Our full iris queen 12a straight 13x4 hd lace front human hair wigs p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09TDLQ137/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V7rv12UNL._SL1100_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Iris Queen 12A Straight 13x4 HD Lace Front Wig: The Real Story Behind That 4.2-Star Rating

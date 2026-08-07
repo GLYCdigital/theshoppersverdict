@@ -1,4 +1,5 @@
 ---
+
 title: "ELEKICO Upgrade Super Bright 250 wattage ufo led high bay li"
 seo_title: "ELEKICO 250W UFO LED High Bay Light Review (2026)"
 meta_description: "ELEKICO 250W UFO LED high bay light review: brightness, build quality, and value for warehouses and garages. Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRHJ4XWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81orUAbAawL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 250W output with 31,250 lumens — measured brightness matches spec, not inflated like many budget fixtures"
   - "Die-cast aluminum heat sink with exposed fins keeps drivers cool even after 8+ hour runs in uninsulated shops"
   - "Sliding hook mount plus 3-foot whips included — installs in under 15 minutes without extra hardware"
-cons:
+cons: 
   - "No dimming option — this is fixed output only, so you'll need a separate controller if you want variable light levels"
   - "IP65 rating covers dust and water spray, but the non-sealed driver compartment can collect condensation in humid coastal garages"
+
 ---
 
 If you're lighting a workshop, warehouse, or barn, you've probably stared at a ceiling and wondered whether a $60 UFO light will actually deliver the 30,000 lumens it claims. The ELEKICO 250W upgrade version is one of the few fixtures in this price range that doesn't overpromise.

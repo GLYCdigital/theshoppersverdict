@@ -1,4 +1,5 @@
 ---
+
 title: "2021 Apple 10.2-inch iPad"
 seo_title: "2021 Apple 10.2-inch iPad Review: Still Worth It?"
 meta_description: "Read our hands-on 2021 Apple 10.2-inch iPad review. Covers performance, Apple Pencil support, battery life, and who should buy. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09G9Z8FWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PnHlc0HCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "A13 Bionic chip delivers snappy performance for a sub-$300 tablet — faster than many budget laptops for everyday tasks"
   - "True Tone display with 500 nits brightness makes the 10.2-inch screen comfortable to read for hours"
   - "First-gen Apple Pencil and Smart Keyboard support turn it into a legitimate note-taking and light productivity machine"
-cons:
+cons: 
   - "Only 64GB base storage is tight if you plan to edit video or download offline media — 256GB costs a significant premium"
   - "First-gen Apple Pencil requires a Lightning dongle to charge, which is awkward and easy to lose"
   - "Display is laminated, not fully — there's a visible air gap that creates glare and makes the glass feel less premium"
+
 ---
 
 Let me be direct: the 2021 Apple 10.2-inch iPad is the best value in Apple's lineup, and it's not particularly close. At a typical street price under $300, you're getting a tablet that handles 90% of what a $1,000 iPad Pro does, minus the bells and whistles most people don't actually need. But there are a few compromises you need to understand before you buy.

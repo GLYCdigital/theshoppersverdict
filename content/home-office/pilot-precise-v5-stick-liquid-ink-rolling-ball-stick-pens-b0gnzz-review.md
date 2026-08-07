@@ -1,4 +1,5 @@
 ---
+
 title: "PILOT Precise V5 Stick Liquid Ink Rolling Ball Stick Pens"
 seo_title: "PILOT Precise V5 Stick Liquid Ink Rolling Ball Sti Review"
 meta_description: "Our full pilot precise v5 stick liquid ink rolling ball stick pens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GNZZFKCW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hwy-cYtAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the PILOT Precise V5 Stick is the pen that office workers recommend to each other in hushed tones, and with a 4.8/5 rating across 240 reviews, the crowd has spoken. But is it actually worth your money, or just another hyped writing instrument? I've put this through real-world testing — long writing sessions, margin notes, checkbook entries, and the dreaded highlighter test.

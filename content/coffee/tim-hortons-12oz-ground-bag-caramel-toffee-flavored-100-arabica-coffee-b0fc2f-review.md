@@ -1,4 +1,5 @@
 ---
+
 title: "Tim Hortons 12oz Ground Bag, Caramel Toffee Flavored 100% Ar"
 seo_title: "Tim Hortons 12oz Ground Bag, Caramel Toffee Flavor Review"
 meta_description: "Our full tim hortons 12oz ground bag, caramel toffee flavored 100% ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FC2F72P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HRJRC5aGL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the Tim Hortons nostalgia for a second. Yes, this is the Canadian chain's coffee. Yes, the branding is cozy and familiar. But what matters is what's in the 12-ounce bag: 100% Arabica beans ground and infused with caramel toffee flavoring. At 4.5 stars across 225 ratings, it's clearly finding an audience. The question is whether that audience should include you.

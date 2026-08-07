@@ -1,4 +1,5 @@
 ---
+
 title: "Large Size Automatic Chicken Coop Door Solar - Powered Auto "
 seo_title: "Large Size Automatic Chicken Coop Door Solar - Pow Review"
 meta_description: "Our full large size automatic chicken coop door solar - powered auto  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQCSVXY5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CgxVikaAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of waking up at dawn to let the girls out — or worse, losing a bird to a predator because you forgot to shut the door — an automatic coop door is a genuine quality-of-life upgrade. The Large Size Automatic Chicken Coop Door Solar is one of the more popular options on Amazon right now, holding a 4.3-star average across 215 ratings. But popularity doesn't equal perfection. Here's what you need to know before handing over your money.

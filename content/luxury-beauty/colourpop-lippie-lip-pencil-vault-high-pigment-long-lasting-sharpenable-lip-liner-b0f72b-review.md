@@ -1,4 +1,5 @@
 ---
+
 title: "ColourPop Lippie Lip Pencil Vault - High-Pigment, Long-Lasti"
 seo_title: "ColourPop Lippie Vault Review: 24 Lip Liners Worth It? (2026)"
 meta_description: "ColourPop Lippie Lip Pencil Vault review: 24 high-pigment liners for $29. Real swatches, wear test results, and honest downsides. Find out if this set is worth buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F72BT5XT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+gin1ZDLL._SL1500_.jpg"
-pros:
+pros: 
   - "24 full-size lip liners for $29 — roughly $1.20 per pencil, far cheaper than buying individually"
   - "Creamy, non-drying formula that glides on without tugging and layers well under gloss or lipstick"
   - "Shade range spans nudes, pinks, reds, berries, and deeper tones — genuinely versatile for most skin tones"
-cons:
+cons: 
   - "No sharpener included in the vault; you'll need to buy one separately since these are sharpenable pencils"
   - "A few of the lighter nude shades can look chalky on deeper skin tones — test before committing to a full look"
   - "The cardboard packaging is functional but not travel-friendly; pencils can roll around loose once opened"
+
 ---
 
 **Is the ColourPop Lippie Lip Pencil Vault the best bang-for-your-buck lip product on Amazon right now? At $29 for 24 full-size pencils, the math is compelling. But quantity doesn't always equal quality. Here's the honest breakdown after working through this set.**

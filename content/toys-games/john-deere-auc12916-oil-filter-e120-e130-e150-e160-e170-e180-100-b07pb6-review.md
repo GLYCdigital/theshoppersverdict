@@ -1,4 +1,5 @@
 ---
+
 title: "John Deere AUC12916 Oil Filter E120 E130 E150 E160 E170 E180"
 seo_title: "John Deere AUC12916 Oil Filter E120 E130 E150 E160 Review"
 meta_description: "Our full john deere auc12916 oil filter e120 e130 e150 e160 e170 e180 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PB62D67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JXc9HjYvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Filter Your Dealer Would Sell You — Minus the Markup

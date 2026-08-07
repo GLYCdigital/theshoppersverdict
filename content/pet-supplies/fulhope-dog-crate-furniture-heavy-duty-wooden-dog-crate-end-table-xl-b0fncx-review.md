@@ -1,4 +1,5 @@
 ---
+
 title: "Fulhope Dog Crate Furniture, Heavy Duty Wooden Dog Crate End"
 seo_title: "Fulhope Dog Crate Furniture Review: Heavy Duty Wooden End Table"
 meta_description: "Honest Fulhope Dog Crate Furniture review: heavy-duty wooden end table crate for XL dogs. Build quality, sizing, real owner feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FNCXSVCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/911-w0-OgSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid fir wood frame with 0.5-inch thick panels — noticeably sturdier than the flimsy MDF crates at this price"
   - "Dual sliding doors (front and side) give flexible placement options for tight corners or alongside furniture"
   - "Assembles with hex bolts and cam locks, not staples — holds up to rambunctious chewers better than budget alternatives"
-cons:
+cons: 
   - "At roughly 90 lbs, it's a two-person assembly job; the instructions are sparse and some holes require slight persuasion"
   - "The 'heavy duty' claim applies to the frame, not the wire door — determined chewers can bend the latch plate over time"
+
 ---
 
 If you've ever tried to hide a wire dog crate in a living room, you know the struggle: that gleaming metal cage screams "dog kennel" louder than your Lab snores. The Fulhope Dog Crate Furniture attempts to solve that by wrapping a functional crate in a piece of actual furniture. The question is whether it holds up to real dog life, not just Instagram staging. After digging through 215 ratings and owner experiences, here's the honest breakdown.

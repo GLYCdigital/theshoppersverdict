@@ -1,7 +1,8 @@
 ---
-title: "Hykolity 2 in 1 Fire Pit with Grill, Large 31\" Wood Burning "
-seo_title: "Hykolity 2 in 1 Fire Pit with Grill, Large 31\" Woo Review"
-meta_description: "Our full hykolity 2 in 1 fire pit with grill, large 31\" wood burning  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Hykolity 2 in 1 Fire Pit with Grill, Large 31\ Wood Burning "
+seo_title: "Hykolity 2 in 1 Fire Pit with Grill, Large 31\ Woo Review"
+meta_description: "Our full hykolity 2 in 1 fire pit with grill, large 31\ wood burning  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hykolity-2-in-1-fire-pit-with-grill-large-31-wood-burning-b08h4x-review"
 image_alt: "Hykolity 2 in 1 Fire Pit with Grill, Large 31 Wood Burning Fire Pit with Swivel Cooking Grate Outdoor Firepit for Backya"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08H4XH1B2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bmdALB69L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced standalone fire pits and separate grill grates lately, you know the combo game is where the value lives. The Hykolity 2 in 1 earns its 4.7-star rating by doing both jobs respectably — not perfectly — but at a price point that makes the compromises easy to accept.

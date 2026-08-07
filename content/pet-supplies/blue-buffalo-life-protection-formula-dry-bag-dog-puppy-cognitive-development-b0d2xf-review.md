@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE BUFFALO Life Protection Formula Dry Bag Dog Puppy Cogni"
 seo_title: "Blue Buffalo Life Protection Puppy Review: Real Results"
 meta_description: "Blue Buffalo Life Protection Puppy food review: DHA for cognitive development, real meat first, 4.6 stars. Is it worth the price? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2XFRG4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PWekXcQXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real deboned chicken is the first ingredient — no poultry by-product meal or corn, wheat, soy fillers"
   - "DHA and ARA included specifically for puppy cognitive and retinal development — backed by research"
   - "LifeSource Bits contain a precise blend of antioxidants, vitamins, and minerals that survive the cooking process"
-cons:
+cons: 
   - "Significantly pricier than grocery store brands — expect to pay a premium for the ingredient quality"
   - "Some puppies with sensitive stomachs may need a gradual transition over 7-10 days to avoid loose stools"
   - "The kibble size runs small — fine for toy breeds, but larger puppies like Labs may inhale it without chewing"
+
 ---
 
 # Blue Buffalo Life Protection Formula Puppy: Worth the Premium?

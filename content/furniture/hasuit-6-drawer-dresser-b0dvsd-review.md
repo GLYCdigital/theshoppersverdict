@@ -1,4 +1,5 @@
 ---
+
 title: "Hasuit 6 Drawer Dresser"
 seo_title: "Hasuit 6 Drawer Dresser Review: Worth It? (2026)"
 meta_description: "Honest Hasuit 6 Drawer Dresser review: build quality, storage capacity, assembly ease, and real buyer feedback. See if this budget dresser fits your bedroom."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DVSDJ7CS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Six full-width drawers provide genuinely useful storage for a compact footprint — roughly 30 inches wide with deep 18-inch drawer depth"
   - "Pre-drilled holes and labeled parts cut assembly time to about 45 minutes for most buyers, per multiple verified reviews"
   - "The wood-grain finish resists fingerprints and cleans easily, a practical upgrade over raw MDF dressers in this price band"
-cons:
+cons: 
   - "Drawer slides are basic metal guides that can misalign if the frame shifts — several reviewers note drawers sticking after a few months of heavy use"
   - "The back panel is thin fiberboard that arrives vulnerable to damage in shipping; some buyers report corner cracks on delivery"
   - "Maximum weight capacity per drawer is modest, so this won't handle stacks of heavy sweaters or denim without sagging concerns"
+
 ---
 
 The Hasuit 6 Drawer Dresser sits in that tricky middle zone of furniture shopping: cheap enough to tempt you, expensive enough that you'll be annoyed if it falls apart. After digging through 190 ratings and what buyers actually say, here's the real picture.

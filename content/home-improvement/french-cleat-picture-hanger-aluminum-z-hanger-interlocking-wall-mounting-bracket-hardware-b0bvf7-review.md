@@ -1,4 +1,5 @@
 ---
+
 title: "French Cleat Picture Hanger, Aluminum Z Hanger Interlocking"
 seo_title: "French Cleat Picture Hanger Review: Aluminum Z Hanger (2026)"
 meta_description: "Honest review of the aluminum French cleat Z hanger. 4.6/5 from 229 ratings. Tested for weight capacity, wall grip, and ease of install. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BVF78YGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zNbkm0+QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 6063 aluminum construction—no flex or bending even under heavy loads"
   - "Self-locking interlock design prevents the frame from being accidentally knocked off the wall"
   - "Works with any standard 3/4-inch thick frame—no modification or special rabbet depth needed"
-cons:
+cons: 
   - "Screws included are short (about 3/4 inch)—you'll want longer ones for drywall without a stud"
   - "Not suitable for frames over roughly 40 pounds without additional wall anchors"
   - "The visible aluminum edge is bright and industrial—may not suit ultra-formal or antique frames"
+
 ---
 
 The problem with most picture hangers is that they fail quietly. You hang a 20-pound frame, walk away, and three weeks later you hear the crash at 2 a.m. This French cleat system from the aluminum Z hanger category solves that with a design that's been used in cabinetmaking for decades—just miniaturized for picture frames.

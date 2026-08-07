@@ -1,4 +1,5 @@
 ---
+
 title: "Kenmore"
 seo_title: "Kenmore Review: Verdict | TSV"
 meta_description: "Our full kenmore review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F6RZ22SG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+6XRYLW3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Kenmore carries a name that's been on American appliances for over a century. When you see it on something for your yard, you expect the same durability as their refrigerators and washers. The reality here is more complicated — and that's exactly what you need to know before clicking buy.

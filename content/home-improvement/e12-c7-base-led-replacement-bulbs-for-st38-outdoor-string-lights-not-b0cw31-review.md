@@ -1,4 +1,5 @@
 ---
+
 title: "E12/C7 Base LED Replacement Bulbs for ST38 Outdoor String Li"
 seo_title: "E12/C7 LED ST38 Replacement Bulbs Review (2026)"
 meta_description: "Honest E12/C7 LED ST38 replacement bulb review: brightness, durability, heat, and fit for outdoor string lights. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW31LWMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VAn4FysgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True ST38 shape fits existing string light sockets without wobble or loose contacts"
   - "Warm 2700K output matches traditional incandescent glow — no harsh blue-white cast"
   - "Shatterproof plastic lens survives patio drops and weather exposure"
-cons:
+cons: 
   - "Plastic lens noticeably lighter than glass — feel is different if you're used to vintage bulbs"
   - "Not dimmable, so don't pair with smart dimmer switches expecting smooth fade"
+
 ---
 
 Let's cut through the noise: if you own ST38-style outdoor string lights, you know the pain of replacing burnt-out bulbs one by one, hoping the next pack actually fits and looks right. These E12/C7 base LED replacements from Amazon's universal listing tackle that exact problem — and for the most part, they nail it.

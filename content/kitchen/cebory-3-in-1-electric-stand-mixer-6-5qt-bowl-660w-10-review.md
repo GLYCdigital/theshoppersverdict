@@ -1,4 +1,5 @@
 ---
+
 title: "CEBORY 3-IN-1 Electric Stand Mixer, 6.5QT Bowl 660W 10-Speed Kitchen Mixer, Household Food Mixers include Dough Hook, Beater and Whisk, Bread Cake Mixer for Baking and Most Home Cooks, Almond Cream"
 seo_title: "CEBORY 3-in-1 Stand Mixer Review: 6.5QT 660W Power"
 meta_description: "CEBORY 6.5QT stand mixer review: 660W motor, 10 speeds, 3 attachments. Does this $130 mixer handle bread dough? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 732
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9NYJL46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715SoiPcK0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "660W motor genuinely kneads stiff bread dough without bogging down — verified by multiple owner reports"
   - "6.5QT stainless steel bowl is dishwasher-safe and large enough for double batch cookies or 2kg of bread dough"
   - "Tilt-head design with 10 speeds gives precise control; almond cream finish looks far more expensive than the $130 price"
-cons:
+cons: 
   - "No timer or auto-shutoff — you'll need to watch the clock yourself for long proofing or kneading cycles"
   - "Some buyers report the included pouring shield fits loosely and can vibrate off at higher speeds"
   - "No splash guard attachment sold separately — replacement parts are limited if you lose an accessory"
+
 ---
 
 If you've priced a KitchenAid lately, you know the sting of a $400+ mixer sitting in your cart. The CEBORY 3-in-1 Electric Stand Mixer undercuts that by roughly 70% — and from the 732 Amazon ratings averaging 4.4 stars, it's not just a cheap knockoff. The question isn't whether it's as good as a KitchenAid. It's whether it's good enough for *your* kitchen. After digging through real owner experiences, here's the honest picture.

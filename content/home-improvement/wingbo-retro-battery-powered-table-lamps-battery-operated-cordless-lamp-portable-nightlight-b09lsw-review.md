@@ -1,4 +1,5 @@
 ---
+
 title: "WINGBO Retro Battery Powered Table Lamps, Battery Operated C"
 seo_title: "WINGBO Retro Battery Powered Table Lamps, Battery  Review"
 meta_description: "Our full wingbo retro battery powered table lamps, battery operated c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09LSWYY11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AVG7qVdIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this WINGBO lamp actually is: a cleverly designed, old-school-looking portable light that solves a very specific problem. If you've got a corner that needs illumination but no outlet nearby — a bookshelf, a porch table, a bathroom vanity, a camping setup — this retro-styled cordless lamp earns its keep. At 4.5 stars across 225 ratings, buyers are mostly happy. Here's the real story.

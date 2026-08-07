@@ -1,4 +1,5 @@
 ---
+
 title: "GEAROLL 43300 Pneumatic Fan Clutch Wrench, 8PCS Fan Clutch R"
 seo_title: "GEAROLL 43300 Fan Clutch Wrench Kit Review (2026)"
 meta_description: "GEAROLL 43300 8-piece pneumatic fan clutch wrench kit review: build quality, real-world performance, fitment issues, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSFK2YFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NlyGV1QpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes both 36mm and 32mm fan clutch wrenches plus holding tools — covers most domestic and Asian vehicles in one kit"
   - "Chrome vanadium steel construction holds up to impact wrench use without rounding or flexing"
   - The 3/8 inch drive adapter on the holding tool lets you brace against the engine block instead of fighting the pulley by hand
-cons:
+cons: 
   - "Some sockets have shallow engagement that can slip on worn or aftermarket fan clutch nuts"
   - "No blow-molded case — pieces arrive loose in a plastic bag, easy to lose in a crowded toolbox"
+
 ---
 
 If you've ever fought a spinning water pump pulley with a chisel and a prayer, you already know why the GEAROLL 43300 kit exists. This 8-piece pneumatic fan clutch wrench set promises to make one of the most annoying DIY jobs on trucks and SUVs genuinely straightforward. After digging through 220 ratings and the specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yogaret Rechargeable Table Lamp for Restaurant Dinner"
 seo_title: "Yogaret Rechargeable Table Lamp for Restaurant Din Review"
 meta_description: "Our full yogaret rechargeable table lamp for restaurant dinner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBHTPFTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YFnxcwNkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most rechargeable table lamps are either cheap plastic junk that dies in an hour or overpriced designer pieces that belong in a catalog, not a working restaurant. The Yogaret Rechargeable Table Lamp sits somewhere more interesting—and for $30–40 (depending on current pricing), it earns its place on your tables.

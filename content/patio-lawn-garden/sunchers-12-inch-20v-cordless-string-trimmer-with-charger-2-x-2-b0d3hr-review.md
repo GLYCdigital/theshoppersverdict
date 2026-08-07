@@ -1,4 +1,5 @@
 ---
+
 title: "SUNCHERS 12-inch 20V Cordless String Trimmer with Charger, 2"
 seo_title: "SUNCHERS 12-inch 20V Cordless String Trimmer with  Review"
 meta_description: "Our full sunchers 12-inch 20v cordless string trimmer with charger, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3HRZP5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SvFEskHwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a $60-ish cordless trimmer with two batteries sounds like a gimmick until you've actually pushed it through a season of weekly edge work. The SUNCHERS 12-inch 20V unit (model B0D3HRZP5W) sits in the budget-to-midrange sweet spot, and after combing through 210+ verified ratings and the spec sheet, here's the real story.

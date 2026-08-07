@@ -1,4 +1,5 @@
 ---
+
 title: "maylit Under Cabinet Lights Plug in, Thin Under Cabinet Ligh"
 seo_title: "maylit Under Cabinet Lights Plug in, Thin Under Ca Review"
 meta_description: "Our full maylit under cabinet lights plug in, thin under cabinet ligh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BRXPCCD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kf4gI98wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: under-cabinet lighting is one of those upgrades that sounds simple until you're contorting under your sink trying to fish a hardwired transformer through a 2-inch gap. The maylit plug-in bars sidestep that entirely. No electrician, no junction boxes, no dimmer switch wiring — just stick, plug in, and flip the switch. At 4.3 stars across 215 ratings, it's clearly working for most buyers. But is it the right solution for *your* kitchen?

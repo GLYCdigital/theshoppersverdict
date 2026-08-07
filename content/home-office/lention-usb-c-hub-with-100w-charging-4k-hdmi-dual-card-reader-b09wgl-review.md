@@ -1,4 +1,5 @@
 ---
+
 title: "LENTION USB C Hub with 100W Charging, 4K HDMI, Dual Card Rea"
 seo_title: "LENTION USB C Hub with 100W Charging, 4K HDMI, Dua Review"
 meta_description: "Our full lention usb c hub with 100w charging, 4k hdmi, dual card rea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09WGLYK12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BXTX5VUIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most USB-C hubs under $40 are a compromise wrapped in aluminum. The LENTION USB C Hub — the one with the 100W charging passthrough and dual card reader — is trying to be the exception. After digging through 229 Amazon ratings averaging 4.6 stars, here's what actually matters if you're about to spend your money.

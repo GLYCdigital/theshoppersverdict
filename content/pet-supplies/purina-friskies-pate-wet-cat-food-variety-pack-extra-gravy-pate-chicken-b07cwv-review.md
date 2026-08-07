@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Pate Wet Cat Food Variety Pack, Extra Gravy "
 seo_title: "Purina Friskies Pate Wet Cat Food Variety Pack, Ex Review"
 meta_description: "Our full purina friskies pate wet cat food variety pack, extra gravy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07CWVYH2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91EIjqyoQZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats mealtime like a hostage negotiation, the Purina Friskies Pate Extra Gravy variety pack is the olive branch. With a 4.6-star average across 229 Amazon ratings, this 32-can case isn't trying to be gourmet — it's trying to get food into your cat's bowl without a standoff. And for most households, it works.

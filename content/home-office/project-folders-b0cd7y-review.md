@@ -1,4 +1,5 @@
 ---
+
 title: "Project folders"
 seo_title: "Project folders Review: Verdict | TSV"
 meta_description: "Our full project folders review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CD7YM89V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ahleJZiIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most project folders are the office equivalent of a paper bag. They hold stuff, technically, but one overstuffed week and the seams split, the tabs tear, and your "organized" system becomes a pile of sad cardboard. So when a set of folders pulls a 4.7 average across 235 ratings, I pay attention. These aren't the flimsy dollar-store kind. Here's what you're actually getting.

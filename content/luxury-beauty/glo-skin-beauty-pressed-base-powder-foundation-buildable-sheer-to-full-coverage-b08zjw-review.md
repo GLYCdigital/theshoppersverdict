@@ -1,4 +1,5 @@
 ---
+
 title: "Glo Skin Beauty Pressed Base Powder Foundation â€“ Buildable"
 seo_title: "Glo Skin Beauty Pressed Base Powder Foundation â€“ Review"
 meta_description: "Our full glo skin beauty pressed base powder foundation â€“ buildable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08ZJWSPMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rHlkgjZyL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve written off pressed powder foundations as cakey relics of the 90s, the Glo Skin Beauty Pressed Base Powder Foundation might change your mind. This isn’t your drugstore matte brick. It’s a mineral-based, buildable powder that actually behaves like a foundation — and with a 4.5-star average across 225 Amazon ratings, I’m not the only one impressed.

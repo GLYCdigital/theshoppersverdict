@@ -1,4 +1,5 @@
 ---
+
 title: "GE 3-Outlet Extension Cord with Multiple Outlets 6 Ft Extens"
 seo_title: "GE 3-Outlet Extension Cord Review: 6 Ft, 3 Outlets"
 meta_description: "GE 3-outlet extension cord 6 ft: tested for durability, safety, and everyday use. See why 235 buyers rate it 4.7 stars. Read our full verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBJPKRXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d+VAJRfPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flat, low-profile plug sits flush against the wall — fits behind furniture without bending the cord"
   - "Three grounded outlets spaced wide enough for bulky adapters and wall warts"
   - "6-foot cord length hits the sweet spot for nightstands, desks, and workshop benches"
-cons:
+cons: 
   - "No surge protection — this is a plain power strip, not a protector for expensive electronics"
   - "Lightweight plastic housing won't survive being stepped on or crushed under heavy furniture"
   - "Only 3 outlets — if you need 6 or more, look at a traditional power strip instead"
+
 ---
 
 **The 6-foot extension cord is the Goldilocks of power accessories — too short and you're hunting for another outlet; too long and you're wrangling cable spaghetti. GE's 3-outlet version lands right in the middle, and with a 4.7-star average across 235 ratings, it's clearly doing something right. But is it the right cord for your specific setup? Let's dig in.**

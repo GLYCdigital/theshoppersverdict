@@ -1,4 +1,5 @@
 ---
+
 title: "Amazing Abby - Bubbly - Plastic Pitcher (64 oz, 2 Quart), Cl"
 seo_title: "Amazing Abby Bubbly Pitcher Review: 64 oz Clear Plastic"
 meta_description: "Honest Amazing Abby Bubbly 64 oz plastic pitcher review: build quality, leaks, dishwasher safety, and real buyer feedback. Is it worth $15?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B085KYGCBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NUxJ6Gg7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely leak-proof lid with a tight silicone gasket — no drips when tilted or stored on its side"
   - "Durable BPA-free Tritan plastic that survives drops without cracking or clouding"
   - "64 oz capacity fits a full 2-quart batch of iced tea, lemonade, or infused water"
-cons:
+cons: 
   - "Hand-wash only despite the marketing — top-rack dishwasher cycles warp the lid seal over time"
   - "No measurement markings on the side, so tracking volume requires a separate measuring cup"
   - "Ice cubes clatter loudly when pouring; the spout lacks a strainer to block chunks"
+
 ---
 
 The Amazing Abby Bubbly 64 oz pitcher looks like a rebranded version of every clear plastic pitcher you've seen on Amazon. But after digging through 220 ratings and testing the build specs, it earns its 4.4-star average for one simple reason: it actually seals. If you've ever had a pitcher drip condensation down your fridge shelves or leak when you tilt it to pour, you know how rare that is.

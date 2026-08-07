@@ -1,4 +1,5 @@
 ---
+
 title: "Monstera Plant Food â€“ Liquid Fertilizer for Bigger Split L"
 seo_title: "Monstera Plant Food â€“ Liquid Fertilizer for Bigg Review"
 meta_description: "Our full monstera plant food â€“ liquid fertilizer for bigger split l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BRTHVZCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zY2o5KroL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Monstera Plant Food â€“ Liquid Fertilizer for Bigger Split L** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

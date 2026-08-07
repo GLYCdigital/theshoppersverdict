@@ -1,4 +1,5 @@
 ---
+
 title: "Weekly To Do List Notepad, Undated Planner with 52 Sheets, D"
 seo_title: "Weekly To Do List Notepad, Undated Planner with 52 Review"
 meta_description: "Our full weekly to do list notepad, undated planner with 52 sheets, d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G2Y44VWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CuMnuh94L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Weekly To Do List Notepad isn't trying to replace your phone, your calendar app, or your bullet journal. It's a focused, physical tool for one job: getting your week out of your head and onto paper. And after 240 Amazon ratings averaging 4.8 stars, it's clearly doing that job well for most people. But is it right for your workflow? Here's what you need to know before you click buy.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Silicone Electrical Wire 10 awg to 22awg Extension Cable Wir"
 seo_title: "Silicone Electrical Wire 10 awg to 22awg Extension Review"
 meta_description: "Our full silicone electrical wire 10 awg to 22awg extension cable wir review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07FMN5XNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81j9K-7zVeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Silicone Electrical Wire 10 AWG to 22 AWG Extension Cable: The Flexibility King

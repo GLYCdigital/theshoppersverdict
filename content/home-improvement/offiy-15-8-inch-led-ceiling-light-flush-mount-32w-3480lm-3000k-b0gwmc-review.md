@@ -1,4 +1,5 @@
 ---
+
 title: "OFFIY 15.8 Inch Led Ceiling Light Flush Mount, 32W, 3480LM, "
 seo_title: "OFFIY 15.8 Inch Led Ceiling Light Flush Mount, 32W Review"
 meta_description: "Our full offiy 15.8 inch led ceiling light flush mount, 32w, 3480lm,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWMC2G14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AKqXrmUaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the spec-sheet noise. The OFFIY 15.8-inch LED flush mount claims 3480 lumens from 32 watts, and after digging through 220 ratings and buyer photos, the numbers mostly hold up. That's roughly 109 lumens per watt — efficiency that puts it ahead of many big-box store options at similar prices. But efficiency alone doesn't make a ceiling light worth your Saturday afternoon. Here's what actually matters.

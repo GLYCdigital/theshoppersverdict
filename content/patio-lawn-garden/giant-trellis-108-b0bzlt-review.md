@@ -1,4 +1,5 @@
 ---
+
 title: "Giant Trellis, 108″"
 seo_title: "Giant Trellis 108″ Review: Sturdy Climbing Support"
 meta_description: "Honest Giant Trellis 108″ review: build quality, real-world use, and buyer feedback. Is this $125 trellis worth it for climbers? Find out."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BZLTNR4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CzO-ecg3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 9-foot height supports aggressive climbers like pole beans and morning glories without topping out mid-season"
   - "Powder-coated steel frame resists rust far better than the bare-galvanized options at this price point"
   - "Assembles in under 20 minutes with no special tools — just a Phillips head and a steady hand"
-cons:
+cons: 
   - "Base legs are narrow; you'll want to stake or anchor it in exposed, windy spots"
   - "Grid spacing is 8 inches — too wide for delicate tendril climbers like sweet peas without additional netting"
+
 ---
 
 Let's be direct: most trellises sold on Amazon are flimsy, 5-foot afterthoughts that buckle under a heavy cucumber vine by August. This 108-inch Giant Trellis isn't that. At nine feet tall and $124.95, it's a serious piece of vertical gardening infrastructure — but it's not without compromises.

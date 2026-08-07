@@ -1,4 +1,5 @@
 ---
+
 title: "Australian Gold"
 seo_title: "Australian Gold Review: Is This Luxury Skincare Worth It?"
 meta_description: "Our honest Australian Gold review covers real results, ingredients, and value. See what 229 Amazon ratings reveal before you buy this luxury skincare."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYGL2MD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61om6RJFWNL._SL1500_.jpg"
-pros:
+pros: 
   - "Antioxidant-rich formula with kakadu plum and finger lime extracts — clinically backed ingredients, not filler"
   - "Fast-absorbing texture that layers cleanly under makeup or SPF without pilling or greasy residue"
   - "Visible brightness within 2-3 weeks for most users, per consistent Amazon feedback"
-cons:
+cons: 
   - "Premium price point — expect to pay luxury-brand territory for a 50ml jar"
   - "Fragrance is present and noticeable — sensitive noses or reactive skin should patch test first"
   - "Jar packaging exposes the formula to air each use, which can accelerate oxidation of active ingredients"
+
 ---
 
 # Australian Gold Review: Luxury Skincare That Actually Delivers

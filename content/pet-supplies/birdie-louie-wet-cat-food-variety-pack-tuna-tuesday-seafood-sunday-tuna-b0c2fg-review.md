@@ -1,4 +1,5 @@
 ---
+
 title: "Birdie & Louie Wet Cat Food Variety Pack Tuna Tuesday/Seafoo"
 seo_title: "Birdie & Louie Wet Cat Food Review: Tuna Variety Pack (2026)"
 meta_description: "Honest Birdie & Louie wet cat food review: Tuna Tuesday & Seafood Sunday variety pack. Texture, ingredients, picky eaters, and value — tested by real cat owners."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C2FG9JST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I40w+Q6yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High moisture content (~78%) that supports urinary tract health — noticeably more broth than competitors at similar price"
   - "First ingredient is real tuna, not broth or by-products; grain-free formula works for sensitive stomachs"
   - "Variety pack with 12 cans means you can test both flavors before committing to a case of one"
-cons:
+cons: 
   - "Strong fishy aroma that lingers in the bowl — sensitive noses in small kitchens will notice"
   - "Some cats reject the chunkier texture; it's pâté-style but with visible flakes, not a smooth mousse"
+
 ---
 
 **Birdie & Louie Wet Cat Food Variety Pack Review: Is This Tuna Duo Worth the Hype?**

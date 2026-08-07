@@ -1,4 +1,5 @@
 ---
+
 title: "26oz Ribbed Glass Tumbler with Handle & Lid â€“ 2-Pack Large"
 seo_title: "26oz Ribbed Glass Tumbler with Handle & Lid Review (2-Pack)"
 meta_description: "Honest review of the 26oz ribbed glass tumbler 2-pack. Real customer feedback on durability, lid fit, and insulation. Is this large glass cup worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FM3SY73C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LELFOEegL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty borosilicate glass that survives dishwasher cycles and drops without shattering (per multiple verified reviews)"
   - "The 26oz capacity actually fits a full can of soda plus ice, or a standard iced coffee without overflow"
   - "Silicone seal in the lid is removable and actually stays put — no frustrating popping out during washing"
-cons:
+cons: 
   - "Not insulated — glass sweats heavily with cold drinks, leaving condensation rings unless you use the included bamboo lid"
   - "Handle is decorative more than functional for larger hands; it's dainty relative to the glass weight"
+
 ---
 
 ## The 26oz Glass Tumbler That's Surprisingly Tough

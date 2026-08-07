@@ -1,7 +1,8 @@
 ---
-title: "Greenworks 0.065\" Single Line Auto-Feed String Trimmer Spool"
-seo_title: "Greenworks 0.065\" Single Line Auto-Feed String Tri Review"
-meta_description: "Our full greenworks 0.065\" single line auto-feed string trimmer spool review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Greenworks 0.065\ Single Line Auto-Feed String Trimmer Spool"
+seo_title: "Greenworks 0.065\ Single Line Auto-Feed String Tri Review"
+meta_description: "Our full greenworks 0.065\ single line auto-feed string trimmer spool review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "greenworks-0-065-single-line-auto-feed-string-trimmer-spools-6-pack-b0bsr5-review"
 image_alt: "Greenworks 0.065 Single Line Auto-Feed String Trimmer Spools (6-Pack) + Replacement Spool Cover"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BSR5VGSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uYKWyTqlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight: trimmer line is a consumable, and most of us just grab whatever's cheap at the hardware store. The Greenworks 0.065" Single Line Auto-Feed Spool 6-pack asks you to pay a little more for the convenience of pre-wound spools that actually fit your machine. Is it worth it? After digging through 215 ratings (4.3 stars) and the spec sheet, here's the real story.

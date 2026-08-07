@@ -1,4 +1,5 @@
 ---
+
 title: "YIBEN 2Pack Rechargeable Cordless Table Lamp, Portable Power"
 seo_title: "YIBEN 2Pack Rechargeable Cordless Table Lamp, Port Review"
 meta_description: "Our full yiben 2pack rechargeable cordless table lamp, portable power review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6X4N9N7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KR4C6tgfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YIBEN 2Pack Cordless Table Lamp: A Genuine Workhorse That Earns Its Spot**

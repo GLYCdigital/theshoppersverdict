@@ -1,4 +1,5 @@
 ---
+
 title: "Ezcasch Canvas Tarp"
 seo_title: "Ezcasch Canvas Tarp Review: Heavy-Duty Protection for $30 inch"
 meta_description: "Ezcasch Canvas Tarp review: Is this $30 heavy-duty tarp worth it? We analyze durability, waterproofing, and real buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF7NYGKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GH1tyhEqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 12oz cotton duck canvas — not a plastic-coated polyester knockoff"
   - "Reinforced double-stitched hems with rust-resistant brass grommets every 24 inches"
   - "Breathable material prevents condensation buildup under covers"
-cons:
+cons: 
   - "Not fully waterproof — heavy rain will eventually soak through"
   - "Mildew risk if stored damp; requires drying before folding"
   - "Initial chemical smell from waterproofing treatment lasts a few days"
+
 ---
 
 The $30 tarp market is a wasteland of flimsy blue plastic that tears the first time the wind picks up. So when something labeled "canvas" shows up at that price point, skepticism is warranted. After digging through 225 ratings and examining the specs, the Ezcasch Canvas Tarp is a legitimately different animal — with some caveats you need to know before buying.

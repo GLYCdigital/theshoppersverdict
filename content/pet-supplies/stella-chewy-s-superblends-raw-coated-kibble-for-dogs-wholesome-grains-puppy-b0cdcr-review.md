@@ -1,4 +1,5 @@
 ---
+
 title: "Stella & Chewy's SuperBlends Raw Coated Kibble for Dogs Whol"
 seo_title: "Stella & Chewy's SuperBlends Raw Coated Kibble for Review"
 meta_description: "Our full stella & chewy's superblends raw coated kibble for dogs whol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDCR3F5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rdrd8-2PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Stella & Chewy's SuperBlends Raw Coated Kibble: Is the Raw Hype Worth the Price?**  

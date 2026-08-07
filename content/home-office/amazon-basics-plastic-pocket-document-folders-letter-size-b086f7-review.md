@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Plastic Pocket Document Folders, Letter Size"
 seo_title: "Amazon Basics Plastic Pocket Folders Review (2026): Worth It?"
 meta_description: "Amazon Basics plastic pocket folders review: see if these letter-size document holders survive daily use. Real pros, cons, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B086F7GVCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S2KcQRFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy polypropylene material resists tearing and water splashes better than paper folders"
   - "Full-length welded seams prevent documents from sliding out the bottom edge"
   - "Assorted color pack makes color-coding projects without labels genuinely easy"
-cons:
+cons: 
   - "Plastic surface shows fingerprints and scuffs quickly, especially darker colors"
   - "No built-in fastener — loose sheets can shift if folder is carried vertically"
+
 ---
 
 Let's be honest: a folder is a folder until the day it dumps 40 pages of tax documents onto a parking lot. That's when you realize not all folders are created equal. The Amazon Basics Plastic Pocket Document Folders sit in that weird middle ground — cheap enough to buy in bulk, sturdy enough to actually trust.

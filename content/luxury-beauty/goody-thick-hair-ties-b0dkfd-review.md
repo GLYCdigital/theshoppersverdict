@@ -1,4 +1,5 @@
 ---
+
 title: "Goody Thick Hair Ties"
 seo_title: "Goody Thick Hair Ties Review: Verdict | TSV"
 meta_description: "Our full goody thick hair ties review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DKFDLRR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o+L+PZvgL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got thick, heavy, or waist-length hair, you already know the struggle: every elastic either snaps mid-twist or slides down your ponytail by lunch. The Goody Thick Hair Ties claim to solve that specific problem — and after digging through 235 ratings and the buyer feedback attached to them, here's the real story.

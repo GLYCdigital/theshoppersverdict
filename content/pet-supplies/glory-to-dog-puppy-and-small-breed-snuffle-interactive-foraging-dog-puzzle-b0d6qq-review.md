@@ -1,24 +1,26 @@
 ---
+
 title: "Glory To Dog Puppy and Small Breed Snuffle Interactive Forag"
 seo_title: "Glory To Dog Snuffle Mat Review: Best for Small Breeds?"
 meta_description: "Honest Glory To Dog snuffle mat review: does it hold up to heavy chewing? We test durability, cleaning, and engagement for puppies & small breeds."
 slug: "glory-to-dog-puppy-and-small-breed-snuffle-interactive-foraging-dog-puzzle-b0d6qq-review"
 image_alt: "Glory To Dog snuffle mat with fleece strips and non-slip rubber base for small breed dogs"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D6QQP398/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NbsYhFXGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Fleece strips are tightly knotted and survive moderate chewing (verified by multiple reviewers)"  
   - "Non-slip rubber base stays put on hardwood and tile, even with excited small dogs"  
   - "Slower eating for gulpers — many owners report meal times stretching from 30 seconds to 10+ minutes"  
-cons:  
+cons: 
   - "Not for heavy chewers — the fleece can fray if your dog deliberately shreds rather than sniffs"  
   - "Hand wash only, and drying takes 24+ hours; no machine-wash shortcut"  
   - "Fleece sheds lint during the first few uses; you'll want to shake it outside before first use"
+
 ---
 
 **Is the Glory To Dog Snuffle Mat Worth It for Your Small Breed? Honest Hands-On Review**

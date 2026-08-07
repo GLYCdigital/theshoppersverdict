@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Chrome Grip Encased Hex Dumbbells â€“ Hand Weights W"
 seo_title: "Yes4All Chrome Grip Encased Hex Dumbbells â€“ Hand Review"
 meta_description: "Our full yes4all chrome grip encased hex dumbbells â€“ hand weights w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CSFNPGXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HnXwhZOcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $17 Dumbbell That Doesn't Feel Cheap**

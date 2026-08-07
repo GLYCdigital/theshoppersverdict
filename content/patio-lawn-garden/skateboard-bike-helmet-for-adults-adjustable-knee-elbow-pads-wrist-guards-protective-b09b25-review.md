@@ -1,4 +1,5 @@
 ---
+
 title: "Skateboard Bike Helmet for Adults Adjustable Knee Elbow Pads"
 seo_title: "Skateboard Bike Helmet for Adults Adjustable Knee  Review"
 meta_description: "Our full skateboard bike helmet for adults adjustable knee elbow pads review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09B256VYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Urj4rWERL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **Skateboard Bike Helmet for Adults Adjustable Knee Elbow Pads** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

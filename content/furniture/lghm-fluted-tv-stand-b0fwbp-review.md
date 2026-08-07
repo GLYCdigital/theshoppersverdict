@@ -1,4 +1,5 @@
 ---
+
 title: "LGHM Fluted TV Stand"
 seo_title: "LGHM Fluted TV Stand Review: Verdict | TSV"
 meta_description: "Our full lghm fluted tv stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FWBPGW3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811PQU7NuOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The fluted trend, minus the boutique price tag

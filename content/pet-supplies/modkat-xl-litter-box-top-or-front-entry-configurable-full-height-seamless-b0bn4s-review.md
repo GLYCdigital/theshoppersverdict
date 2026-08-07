@@ -1,4 +1,5 @@
 ---
+
 title: "ModkatÂ® XL Litter Box, Top or Front-Entry Configurable, Ful"
 seo_title: "ModkatÂ® XL Litter Box, Top or Front-Entry Configu Review"
 meta_description: "Our full modkatâ® xl litter box, top or front-entry configurable, ful review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BN4S8QZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ELMl8qZLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most litter boxes are plastic tubs with a hole cut in them. The Modkat XL is not that. At nearly triple the price of a standard hooded box, it has to justify itself. After digging through 229 ratings averaging 4.6 stars, here's the real story.

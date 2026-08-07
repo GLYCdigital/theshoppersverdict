@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Tulum Collection Area Rug - 10' x 13', Ivory & Grey"
 seo_title: "SAFAVIEH Tulum Collection Area Rug - 10' x 13', Iv Review"
 meta_description: "Our full safavieh tulum collection area rug - 10' x 13', ivory & grey review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP7TDVMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91mwWROp3HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10x13 rug is a commitment. It dominates your living room, dictates your color palette, and if you get it wrong, you're living with the mistake for years. So let's cut through the marketing photos and talk about what the SAFAVIEH Tulum Collection rug actually delivers for the money.

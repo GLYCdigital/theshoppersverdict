@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Pen Window Marker: Liquid Chalk Pens for Glass, Whiteb"
 seo_title: "Glass Pen Window Marker: Liquid Chalk Pens for Gla Review"
 meta_description: "Our full glass pen window marker: liquid chalk pens for glass, whiteb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CCSQRJH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hzfQAVSCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to write a drive-through menu with a standard dry-erase marker, you know the pain: faint lines, skipping ink, and that weird squeak on glass. The Glass Pen Window Marker set is built specifically to fix that. And for the most part, it does.

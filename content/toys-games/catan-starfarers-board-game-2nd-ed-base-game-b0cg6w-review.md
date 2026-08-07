@@ -1,4 +1,5 @@
 ---
+
 title: "CATAN Starfarers Board Game 2nd Ed. (Base Game)"
 seo_title: "CATAN Starfarers 2nd Ed Review: Worth It? (2026)"
 meta_description: "Read our honest CATAN Starfarers Board Game 2nd Ed review. Deep space trading, aliens, and epic voyages — see if this 4.7-star game is worth your table time."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CG6W24XS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P6P4XP5FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modular spaceships you physically assemble and upgrade with colored rings — tactile payoff that makes progression feel earned"
   - "Alien encounter system adds genuine narrative flavor without derailing the core Catan resource loop"
   - "Supports 3-4 players out of the box with asymmetric starting positions that reward different strategies"
-cons:
+cons: 
   - "Setup takes 20-30 minutes — the board, tokens, and ship components are extensive and need sorting"
   - "Downtime between turns can drag at 4 players, especially mid-game when everyone's calculating trade routes"
   - "Rulebook buries key clarifications (like encounter timing) in dense paragraphs — expect a first-play rules lookup"
+
 ---
 
 **CATAN Starfarers** isn't just Catan in space. It's Catan with a spaceship you actually assemble, an alien diplomacy system that doesn't feel bolted on, and a resource economy that forces you to think in three dimensions. If you've played the original and wondered what it'd feel like with actual stakes, this is it.

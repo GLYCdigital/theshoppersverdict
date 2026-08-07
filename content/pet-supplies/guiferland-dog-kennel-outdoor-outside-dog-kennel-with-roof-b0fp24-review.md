@@ -1,4 +1,5 @@
 ---
+
 title: "Guiferland Dog Kennel Outdoor, Outside Dog Kennel with Roof"
 seo_title: "Guiferland Dog Kennel Outdoor Review: Worth It? [2026]"
 meta_description: "Honest Guiferland outdoor dog kennel review: build quality, real-world durability, sizing, and who should buy it. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FP24BWLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tKIhnXLAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel frame and wire mesh resist rust far better than painted alternatives in wet climates"
   - "Sloped metal roof sheds rain and snow effectively — no sagging or pooling reported even after heavy storms"
   - "Modular panel design assembles with basic hand tools in under an hour; one person can manage it"
-cons:
+cons: 
   - "No floor panel included — you'll need to lay pavers, concrete, or gravel to prevent digging underneath"
   - "Door latch is functional but basic; determined escape artists may work it loose over time"
+
 ---
 
 If your dog lives outdoors even part-time, you already know the problem with most kennels: they rust, they sag, and they turn into mud pits after one rainstorm. The Guiferland Dog Kennel Outdoor tries to solve that with a galvanized steel frame and a real sloped roof — and for the most part, it delivers.

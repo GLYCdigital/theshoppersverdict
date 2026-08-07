@@ -1,4 +1,5 @@
 ---
+
 title: "EROMMY Hardtop Double Roof Metal Gazebo with Anti-Rust Coati"
 seo_title: "EROMMY Hardtop Double Roof Gazebo Review (2026): Worth It?"
 meta_description: "EROMMY hardtop double roof metal gazebo review: anti-rust coating, assembly, wind resistance. Is this 4.1-star patio cover worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GQ9N5M4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WBZmk2c4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Double-layer steel roof blocks sun and rain noticeably better than single-panel hardtops; interior stays 10-15°F cooler"
   - "Anti-rust coating actually holds up — multiple buyers report no corrosion after 6+ months of outdoor exposure"
   - "Solid 14-gauge steel frame with cross-bracing feels rigid; doesn't wobble in moderate wind"
-cons:
+cons: 
   - "Assembly is a 4-6 hour two-person job; some bolts align poorly and require persuasion with a rubber mallet"
   - "No side walls or mosquito netting included — you'll spend another $80-150 for privacy or bug protection"
   - "Roof panels can creak and pop during temperature swings as the metal expands and contracts"
+
 ---
 
 A hardtop gazebo is a permanent commitment. You're not unzipping a canopy when a storm rolls in — this thing is bolted to your patio, and it needs to survive summer sun, winter ice, and whatever else gets thrown at it. The EROMMY Hardtop Double Roof Metal Gazebo has been on my radar because it's one of the few sub-$1,000 options with a true double-layer roof and an anti-rust coating that isn't just marketing speak. Here's what you need to know before you commit.

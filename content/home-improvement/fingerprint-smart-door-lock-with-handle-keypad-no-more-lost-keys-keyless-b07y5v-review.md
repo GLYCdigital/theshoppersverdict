@@ -1,4 +1,5 @@
 ---
+
 title: "Fingerprint Smart Door Lock with Handle & Keypad – No More"
 seo_title: "Fingerprint Smart Door Lock Review: Keypad & Handle Access"
 meta_description: "Hands-on Fingerprint Smart Door Lock review: biometric speed, keypad backup, and installation fit. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07Y5V15SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cQsOTh8lL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fingerprint read is fast — typically under 1 second once your print is registered properly"
   - "Keypad backup means you're never locked out if the sensor gets wet or dirty"
   - "Solid zinc-alloy body with a smooth handle pull that feels more expensive than the price point"
-cons:
+cons: 
   - "No Wi-Fi or Bluetooth — you won't get remote access or app notifications"
   - Installation requires a 2-3/8 inch " or 2-3/4 inch " backset door; non-standard doors will need extra drilling
+
 ---
 
 **Fingerprint Smart Door Lock Review: The Keyless Upgrade That Actually Works**

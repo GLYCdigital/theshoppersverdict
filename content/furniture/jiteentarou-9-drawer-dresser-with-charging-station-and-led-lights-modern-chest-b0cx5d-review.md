@@ -1,4 +1,5 @@
 ---
+
 title: "jiteentarou 9 Drawer Dresser with Charging Station and LED L"
 seo_title: "jiteentarou 9 Drawer Dresser with Charging Station Review"
 meta_description: "Our full jiteentarou 9 drawer dresser with charging station and led l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CX5DR992/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818SV2kuO4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what the jiteentarou 9 Drawer Dresser actually is: a budget-friendly storage solution that tries to punch above its weight class with LED lights and a charging station. At a 4.2-star average across 210 ratings, it's earning its keep for most buyers — but there are tradeoffs you should know about before you click add to cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Capacitor Battery Spot Welder, AWithZ UF20B 10.5KW Spot Weld"
 seo_title: "AWithZ UF20B Spot Welder Review: 10.5KW Capacitor Power"
 meta_description: "AWithZ UF20B 10.5KW capacitor spot welder review: real-world performance, build quality, and whether this 4.6-star welder is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT5L3VQ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CFPUISe7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10.5kW peak output delivers consistent, burn-free welds on 0.15mm nickel strips and 0.3mm pure nickel"
   - "Dual-pulse welding mode with 10 adjustable levels gives fine control for battery pack builders"
   - "Built-in LCD screen shows real-time voltage and weld status—no guesswork mid-project"
-cons:
+cons: 
   - "Included probe cables are stiff in cold environments, making precise placement awkward"
   - "No carrying case in the box—you'll need to source your own if you travel between job sites"
+
 ---
 
 If you're building battery packs—whether for e-bikes, power tools, or custom electronics—you already know the pain of cold solder joints and melted heat shrink. The AWithZ UF20B capacitor spot welder promises to eliminate that frustration with 10.5kW of peak power delivered in precise pulses. After digging through 229 ratings and the technical specs, here's my honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "sunnex Workout Gloves for Women - Breathable Weight Lifting "
 seo_title: "sunnex Workout Gloves for Women - Breathable Weigh Review"
 meta_description: "Our full sunnex workout gloves for women - breathable weight lifting  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BNLF2594/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yvE4EjsUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**  

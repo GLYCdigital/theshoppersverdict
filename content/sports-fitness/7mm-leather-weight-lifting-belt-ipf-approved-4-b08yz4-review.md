@@ -1,4 +1,5 @@
 ---
+
 title: "7mm Leather Weight Lifting Belt (IPF Approved) – 4”"
 seo_title: "7mm Leather Lifting Belt Review: IPF-Approved Support"
 meta_description: "Honest 7mm leather weight lifting belt review. IPF-approved 4” design, real user feedback, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08YZ4261S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BV2BGB9qL._AC_SL1072_.jpg"
-pros:
+pros: 
   - "Genuine 7mm leather with zero flex — holds intra-abdominal pressure exactly like a stiff powerlifting belt should"
   - "4-inch uniform width passes IPF spec sheets, so it's competition-legal for raw and equipped lifters"
   - "Single-prong buckle with double-stitched holes — no tearing after months of heavy sessions"
-cons:
+cons: 
   - "Break-in period is brutal; expect 2-3 weeks of discomfort before the leather molds to your hips"
   - "Runs small — order one size up from your waist measurement or you'll be returning it"
+
 ---
 
 **The Short Version: This is a serious tool for serious lifters. Not a fashion accessory.**

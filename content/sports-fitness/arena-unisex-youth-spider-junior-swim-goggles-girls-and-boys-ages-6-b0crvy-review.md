@@ -1,4 +1,5 @@
 ---
+
 title: "ARENA Unisex Youth Spider Junior Swim Goggles Girls and Boys"
 seo_title: "ARENA Spider Junior Swim Goggles Review: Best for Ages 6-12 inch"
 meta_description: "ARENA Spider Junior swim goggles review: 4.5-star rated youth goggles with anti-fog, UV protection & great seal. See pros, cons & fit advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRVYZNR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wVgY4SbUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Mirrored, UV-protective lenses hold up to outdoor swims without fogging for 15-20 sessions"
   - "Adjustable split strap and nose bridge sizes fit narrow 6-year-old faces up to broader 12-year-old heads"
   - "Shatter-resistant polycarbonate lenses with silicone gasket seal firmly without suction-cup headaches"
-cons:
+cons: 
   - "Lens tint is dark — poor choice for indoor pools with dim lighting or cloudy-day outdoor practice"
   - "Nose bridge clips require parent help to swap; kids under 8 often can't adjust them solo"
+
 ---
 
 **Bottom line up front:** If your 6-to-12-year-old is serious enough about swimming to complain about foggy lenses and leaky seals, the ARENA Spider Junior is the pair to buy. It's not the cheapest youth goggle on Amazon, but it's the one that actually works for consistent training — not just poolside splashing.

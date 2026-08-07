@@ -1,4 +1,5 @@
 ---
+
 title: "Sweese Butter Dish with Handle Cover Design - Porcelain"
 seo_title: "Sweese Butter Dish with Handle Cover Design - Porc Review"
 meta_description: "Our full sweese butter dish with handle cover design - porcelain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B083GLXH5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61esxAwjYHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Butter dishes are one of those purchases you don't think about until you've owned a bad one — a plastic lid that warps, a base that stains yellow, or a cover that flips off every time you grab it. The Sweese Porcelain Butter Dish with Handle Cover Design takes direct aim at that last frustration, and for the most part, it hits the target.

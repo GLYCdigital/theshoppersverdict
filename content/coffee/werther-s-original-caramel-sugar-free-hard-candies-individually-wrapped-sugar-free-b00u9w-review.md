@@ -1,4 +1,5 @@
 ---
+
 title: "Werther's Original Caramel Sugar Free Hard Candies - Individ"
 seo_title: "Werther's Original Caramel Sugar Free Hard Candies Review"
 meta_description: "Our full werther's original caramel sugar free hard candies - individ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00U9WCF8E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YHDdUhjYL._SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sugar-Free Caramel That Actually Tastes Like the Real Thing**

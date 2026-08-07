@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Side Table, Round Accent End Table with Sturdy X-Shap"
 seo_title: "HOOBRO Side Table, Round Accent End Table with Stu Review"
 meta_description: "Our full hoobro side table, round accent end table with sturdy x-shap review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX4SZ58V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G3GO7EZ5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about the end table market: most sub-$50 options are wobbly, particleboard disasters that you'll replace within a year. The Hoobro Round Accent Side Table isn't that. It's not a piece of heirloom furniture either, but it sits in a sweet spot that most budget tables miss entirely.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blink Doorbell Mount, Anti-Theft Doorbell Camera Mount for B"
 seo_title: "Blink Doorbell Mount Review: Anti-Theft Bracket Worth It?"
 meta_description: "Honest Blink Doorbell Mount review: anti-theft design, build quality, and real-world performance. See if this bracket is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXDYM6Z7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pv24yOy8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tamper-resistant security screws require a specialty bit, so casual thieves can't pop the doorbell off with a flathead"
   - "Compatible with both Blink Video Doorbell and Blink Video Doorbell Plus without needing extra adapters"
   - "Wedge design allows up to 30-degree angle adjustment for better motion detection coverage down porches and walkways"
-cons:
+cons: 
   - "Security screws are double-edged — if you lose the included wrench, removal becomes a frustrating ordeal"
   - "No weatherproof gasket included, so you'll want to add a thin layer of silicone caulk around the base for exterior installs"
+
 ---
 
 Somewhere between "my doorbell got stolen" and "my doorbell sees nothing but the neighbor's mailbox" is where this mount lives. The Blink Doorbell Mount with anti-theft hardware tries to solve two problems at once, and for the most part, it delivers.

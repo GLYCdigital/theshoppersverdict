@@ -1,4 +1,5 @@
 ---
+
 title: "MEWTOGO Extra Large Bird Parrot Toys - Wooden Multicolored B"
 seo_title: "MEWTOGO Extra Large Bird Parrot Toys - Wooden Mult Review"
 meta_description: "Our full mewtogo extra large bird parrot toys - wooden multicolored b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7P5XV52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X6ypQlIhL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another chew toy, or the real deal for a destructive bird?**

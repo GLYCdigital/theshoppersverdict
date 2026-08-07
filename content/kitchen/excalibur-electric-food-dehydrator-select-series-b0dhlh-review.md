@@ -1,23 +1,25 @@
 ---
+
 title: "Excalibur Electric Food Dehydrator Select Series"
 seo_title: "Excalibur Select Dehydrator Review: Is It Worth It? (2026)"
 meta_description: "Excalibur Select Series dehydrator review: 9-tray capacity, fan-driven drying, thermostat control. Real pros, cons, and who should buy it."
 slug: "excalibur-electric-food-dehydrator-select-series-b0dhlh-review"
 image_alt: "Excalibur Select Series 9-tray electric food dehydrator with clear trays and rear fan"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHLHHGRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8144x3SV5yL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Rear-mounted fan and horizontal airflow dry evenly across all 9 trays — no rotating trays needed mid-cycle"  
   - "Adjustable thermostat from 105°F to 165°F gives real control for jerky, herbs, and fruit leathers"  
   - "Clear polycarbonate trays and see-through door let you monitor progress without opening and losing heat"  
-cons:  
+cons: 
   - "At roughly 17 pounds and 16 inches deep, it's a countertop hog — you'll need dedicated storage space"  
   - "The included mesh sheets are fine, but you'll want to buy extra non-stick sheets for fruit leathers; the trays are prone to staining"
+
 ---
 
 # Excalibur Electric Food Dehydrator Select Series: The 9-Tray Workhorse That Earns Its Keep

@@ -1,7 +1,8 @@
 ---
-title: "Gumball Machine for Kids 8.5\" - Coin Operated Bubble Gum Mac"
-seo_title: "Gumball Machine for Kids 8.5\" - Coin Operated Bubb Review"
-meta_description: "Our full gumball machine for kids 8.5\" - coin operated bubble gum mac review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Gumball Machine for Kids 8.5\ - Coin Operated Bubble Gum Mac"
+seo_title: "Gumball Machine for Kids 8.5\ - Coin Operated Bubb Review"
+meta_description: "Our full gumball machine for kids 8.5\ - coin operated bubble gum mac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gumball-machine-for-kids-8-5-coin-operated-bubble-gum-machine-and-b0d4td-review"
 image_alt: "Gumball Machine for Kids 8.5 - Coin Operated Bubble Gum Machine and Toy Bank - Candy Machine Dispenser Includes 85 Gum B"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D4TDJQB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q8TJrbwhL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You remember the gumball machine at the pizza parlor — that satisfying *clunk* of a quarter dropping, the twist, the candy rolling down the chute. This 8.5-inch coin-operated model from B0D4TDJQB4 tries to bottle that nostalgia for your living room. But does it deliver real play value or just another plastic toy that collects dust by week two? Here's what 190 Amazon buyers learned after spending time with it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rayogale Battery Operated Wall Sconce with Clear Lampshade"
 seo_title: "Rayogale Battery Operated Wall Sconce with Clear L Review"
 meta_description: "Our full rayogale battery operated wall sconce with clear lampshade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWZXTYBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713uYOkQihL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most battery-operated wall sconces look like cheap plastic afterthoughts. The Rayogale with its clear glass shade is not that. It actually looks like a real light fixture — because, functionally, it is one. It just doesn't need an electrician to install it.

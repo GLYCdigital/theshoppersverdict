@@ -1,4 +1,5 @@
 ---
+
 title: "Premium Cut Purple Orchids (Support Small Business)"
 seo_title: "Premium Cut Purple Orchids (Support Small Business Review"
 meta_description: "Our full premium cut purple orchids (support small business) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DCWMYY49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t2M5duWeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're shopping for cut orchids on Amazon. That's a gamble — flowers are fragile, shipping is rough, and you can't inspect the stems before they arrive. So the real question isn't whether these purple orchids are beautiful. It's whether they arrive looking like the product images or like something the delivery truck ran over.

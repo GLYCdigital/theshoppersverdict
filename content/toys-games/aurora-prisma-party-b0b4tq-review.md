@@ -1,4 +1,5 @@
 ---
+
 title: "Aurora - Prisma Party"
 seo_title: "Aurora Prisma Party Review: Is This Light-Up Game Worth It?"
 meta_description: "Honest Aurora Prisma Party review: gameplay, build quality, and real buyer feedback. See if this 4.8-star party game fits your family game night."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B4TQ5C39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fVC4XtDdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Light-up prism core creates genuinely unique visual gameplay you don't see in other party games"
   - "Plays in under 20 minutes — tight pacing that keeps even distracted players engaged"
   - "Accommodates 2-6 players with simple rules that take under a minute to explain"
-cons:
+cons: 
   - "Requires 3 AAA batteries (not included) and chews through them faster than you'd expect at higher brightness"
   - "The plastic light core feels slightly hollow and could crack if dropped on hard floors"
   - "Limited replay depth for serious gamers — this is casual fun, not a strategy title"
+
 ---
 
 ## Is Aurora - Prisma Party Actually Fun, or Just Pretty Lights?

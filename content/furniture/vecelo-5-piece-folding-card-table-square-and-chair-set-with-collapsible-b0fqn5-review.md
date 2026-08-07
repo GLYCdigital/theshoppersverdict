@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO 5-Piece Folding Card Table Square and Chair Set with "
 seo_title: "VECELO 5-Piece Folding Card Table Square and Chair Review"
 meta_description: "Our full vecelo 5-piece folding card table square and chair set with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FQN5K2QB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615ma2XRBbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever hosted game night with mismatched folding chairs and a wobbly TV tray, you know the pain. The VECELO 5-Piece Folding Card Table and Chair Set aims to solve that with a coordinated, collapsible package that disappears into a closet when the party's over. At 4.6 stars from 229 ratings, it's clearly doing something right — but is it worth your money? Let's get into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "Juno LED Downlight, Adjustable Trim, Switchable CCT 2700K, 3"
 seo_title: "Juno LED Downlight, Adjustable Trim, Switchable CC Review"
 meta_description: "Our full juno led downlight, adjustable trim, switchable cct 2700k, 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D8TK3YXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Garll0vaL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you're tired of buying three different downlights for your kitchen, hallway, and living room, Juno's switchable CCT fixture just made your shopping list a lot shorter.** This is one of those rare products that actually solves a real problem: guessing wrong on color temperature and living with it for a decade. With a 4.7-star average across 235 ratings, it's clearly working for most buyers. But let me break down exactly what you're getting before you commit.

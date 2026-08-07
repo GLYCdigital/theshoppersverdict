@@ -1,4 +1,5 @@
 ---
+
 title: "Acovy Picture Ledge Shelf, MDF Wood Floating Shelves Set of"
 seo_title: "Acovy Picture Ledge Shelf Review: MDF Floating Shelves"
 meta_description: "Honest Acovy Picture Ledge Shelf review: MDF floating shelves set. Real buyer feedback, pros/cons, sizing tips, and who should buy these 4.7-star ledges."
@@ -11,15 +12,16 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D8J24RKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I2-uRrVVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True picture ledge design with a 1-inch raised lip — frames lean back naturally without sliding off, unlike flat floating shelves"
   - "Pre-drilled keyhole brackets make mounting straightforward; hardware included covers both stud and drywall installation"
   - "Clean, minimalist MDF construction with a smooth white finish that hides minor scuffs well"
-cons:
+cons: 
   - "MDF material means the 8.6-inch depth flexes slightly if you load it with heavy hardcover books — stick to frames and lightweight decor"
   - "Keyhole slots are fixed at 16 inches apart; if your studs aren't standard spacing, you'll need to use the included drywall anchors"
   - "MDF material flexes slightly under heavy loads like hardcover books — stick to frames and lightweight decor"
   - "Keyhole slots are fixed at 16 inches apart; non-standard stud spacing means relying on drywall anchors"
+
 ---
 
 If you're tired of shelves that look like floating blocks of wood, the Acovy Picture Ledge Set solves a specific problem: it actually holds pictures. The raised lip along the front edge (about 1 inch) keeps framed photos leaning at a natural angle without needing easels or museum putty. That's the whole point, and it does it well.

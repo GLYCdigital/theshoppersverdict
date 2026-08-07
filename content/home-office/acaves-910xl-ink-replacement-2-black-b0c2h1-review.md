@@ -1,4 +1,5 @@
 ---
+
 title: "Acaves 910XL Ink Replacement, 2 Black"
 seo_title: "Acaves 910XL Ink Review: 2-Pack Black Worth It?"
 meta_description: "Honest Acaves 910XL ink review: 2 black cartridges tested for page yield, print quality, and compatibility. See if this budget option beats OEM."
@@ -11,13 +12,14 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0C2H1MN5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ADbKIYi7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 50% cost savings per page compared to HP 910XL OEM cartridges"
   - "Chip recognizes correctly out of the box — no firmware errors on most HP models"
   - "Consistent black text output with no streaking during first 200 pages tested"
-cons:
+cons: 
   - "Page yield falls short of the 2,000-page claim — realistic output is 1,600–1,700 pages"
   - "Ink pooling on heavy cardstock; best for plain paper, not photo or textured media"
+
 ---
 
 ## The Budget Ink Gamble That Mostly Pays Off

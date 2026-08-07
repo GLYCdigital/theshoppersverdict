@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR 12-inch Sand Filter Pump for Above Ground, Digital Pro"
 seo_title: "VEVOR 12-inch Sand Filter Pump for Above Ground, D Review"
 meta_description: "Our full vevor 12-inch sand filter pump for above ground, digital pro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C1BC6XG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71esl-fqSOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The VEVOR 12-inch sand filter pump is a solid budget workhorse for above-ground pools, but it's not without its quirks. Here's what 204 Amazon reviewers are really saying after putting it to work.

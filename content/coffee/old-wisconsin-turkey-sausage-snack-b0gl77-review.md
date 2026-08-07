@@ -1,4 +1,5 @@
 ---
+
 title: "Old Wisconsin Turkey Sausage Snack"
 seo_title: "Old Wisconsin Turkey Sausage Snack Review: Verdict | TSV"
 meta_description: "Our full old wisconsin turkey sausage snack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GL77L8CQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gdJ861kpL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: this isn't a coffee maker. This is a turkey sausage snack that somehow landed in the coffee gear category — probably a listing error on Amazon's part. But if you're here because you want to know whether Old Wisconsin's turkey sticks are worth your money, I've got you covered.

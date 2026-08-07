@@ -1,4 +1,5 @@
 ---
+
 title: "AWQM Dining Table Set"
 seo_title: "AWQM Dining Table Set Review: Worth It? (2026)"
 meta_description: "Honest AWQM Dining Table Set review: build quality, real-world use, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFW1YM4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nkPKhfx1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid MDF and rubberwood construction that doesn't wobble, even on uneven floors"
   - "Assembly takes about 45 minutes with clear, labeled parts and included hex wrench"
   - "Chairs are surprisingly comfortable with contoured seats and supportive backrests"
-cons:
+cons: 
   - "Tabletop scratches fairly easily — use placemats and coasters from day one"
   - "Fabric seat cushions are not removable for washing, which is a hassle with kids"
   - "Leg levelers are plastic and can strip if you overtighten them during setup"
+
 ---
 
 A dining table is one of those purchases where you feel the difference between "cheap" and "budget-smart" every single meal. The AWQM Dining Table Set sits firmly in the budget-smart camp — but only if you go in knowing what you're getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "YIHUA 948DQ-I Solder Fume Extractor Fan Solder Smoke Absorbe"
 seo_title: "YIHUA 948DQ-I Solder Fume Extractor Fan Solder Smo Review"
 meta_description: "Our full yihua 948dq-i solder fume extractor fan solder smoke absorbe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BNN8BXJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718wOk6m2DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most cheap fume extractors are just fans with a foam pad, pushing toxic solder smoke around your bench while making you feel productive. The YIHUA 948DQ-I is a step above that — but is it worth the premium over the $20 generic options? I tested it against real soldering sessions, checked the filter stack, and read through what 220 Amazon buyers actually said. Here's the honest breakdown.

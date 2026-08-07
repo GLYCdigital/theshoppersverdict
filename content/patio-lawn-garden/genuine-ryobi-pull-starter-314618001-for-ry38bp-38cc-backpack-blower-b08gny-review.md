@@ -1,4 +1,5 @@
 ---
+
 title: "Genuine Ryobi Pull Starter 314618001 for RY38BP 38cc Backpac"
 seo_title: "Genuine Ryobi Pull Starter 314618001 Review: Fixes RY38BP"
 meta_description: "Honest review of the Genuine Ryobi Pull Starter 314618001 for the 38cc Backpac. See if this OEM replacement fixes your starting issues and if it's worth the price."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GNYQF67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PDlGmXyGS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "True OEM fit — bolts directly onto the RY38BP without modification or adapter plates"
   - "Complete assembly includes the housing, rope, handle, and spring pre-installed — no fiddly rewinding"
   - "Heavy-duty construction that holds up to the high compression of a 38cc two-stroke engine"
-cons:
+cons: 
   - "Premium OEM price tag — aftermarket clones run about half the cost"
   - "You'll need a Torx T20 and T25 bit; not included in the box"
   - "Rope is a bit short at roughly 45 inches — some users report the handle doesn't quite reach full extension"
+
 ---
 
 If your Ryobi RY38BP backpack blower has started fighting you every time you yank the cord — or worse, the rope snapped mid-leaf-pile — you're looking at the right part. This is the genuine OEM pull starter assembly, part number 314618001, and it's the direct fix for a frustratingly common failure point on these otherwise solid 38cc backpack units.

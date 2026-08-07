@@ -1,7 +1,8 @@
 ---
-title: "MEKOH Pressure Washer Hose Reel 3/8\"x350ft, 5000PSI Hand Cra"
-seo_title: "MEKOH Pressure Washer Hose Reel 3/8\"x350ft, 5000PS Review"
-meta_description: "Our full mekoh pressure washer hose reel 3/8\"x350ft, 5000psi hand cra review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MEKOH Pressure Washer Hose Reel 3/8\x350ft, 5000PSI Hand Cra"
+seo_title: "MEKOH Pressure Washer Hose Reel 3/8\x350ft, 5000PS Review"
+meta_description: "Our full mekoh pressure washer hose reel 3/8\x350ft, 5000psi hand cra review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mekoh-pressure-washer-hose-reel-3-8-x350ft-5000psi-hand-crank-power-b0fs6v-review"
 image_alt: "MEKOH Pressure Washer Hose Reel 3/8x350ft, 5000PSI Hand Crank Power Washer Hose Reel for 1/4x455ft, Heavy Duty Steel Hos"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FS6VC6VP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719bJPXkO4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of dragging 100 feet of coiled hose across your driveway, the MEKOH 3/8" x 350ft pressure washer hose reel is the kind of upgrade that makes you wonder why you waited. This isn't a flimsy plastic spool—it's a steel-framed workhorse rated for 5000PSI, and at 4.1 stars from 204 Amazon buyers, it's earned a reputation.

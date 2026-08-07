@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Multi Series Garbage Disposals"
 seo_title: "Moen Multi Series Garbage Disposals Review: Verdict | TSV"
 meta_description: "Our full moen multi series garbage disposals review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPB7XMRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41lNoptxJ6L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Moen Multi Series Garbage Disposals: The 0.9 HP Workhorse That Won’t Shout About It**

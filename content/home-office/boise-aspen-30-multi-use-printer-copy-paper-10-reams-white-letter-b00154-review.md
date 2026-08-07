@@ -1,4 +1,5 @@
 ---
+
 title: "Boise ASPEN 30 Multi-Use Printer & Copy Paper, 10 Reams, Whi"
 seo_title: "Boise ASPEN 30 Paper Review: 10-Ream Value Worth It?"
 meta_description: "Boise ASPEN 30 multi-use copy paper reviewed: brightness, weight, jam resistance, and 10-ream value. See if this budget pick suits your office."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00154Z0L4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TyE8BeO5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brightness rating of 92 GE makes it noticeably crisper than basic 84-86 GE budget papers"
   - "10-ream case works out to roughly 5,000 sheets — enough for a small office for months"
   - "Handles double-sided printing without ghosting or bleed-through on standard inkjets"
-cons:
+cons: 
   - "20 lb weight feels slightly flimsy for high-end brochures or legal documents"
   - "Sheets have a subtle tooth that can cause minor misfeeds in older, high-volume copiers"
+
 ---
 
 Let’s be honest: copy paper is the least glamorous purchase you’ll make this quarter. But when you’re burning through 5,000 sheets a month, the difference between a paper that jams and one that sails through matters more than your coffee roast. The Boise ASPEN 30 Multi-Use Paper, sold in a 10-ream case, sits squarely in the “value but not junk” zone — and for most offices, that’s exactly the right call.

@@ -1,4 +1,5 @@
 ---
+
 title: "MXwcy 2 Pack Solar Lights Outdoor with Plant Stands"
 seo_title: "MXwcy 2 Pack Solar Lights Outdoor with Plant Stand Review"
 meta_description: "Our full mxwcy 2 pack solar lights outdoor with plant stands review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMZXK5VM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+5b8h14PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever tried to line a walkway with solar lights and then found yourself buying separate planters to make it look intentional, this MXwcy 2-pack solves that problem in one purchase. It’s a hybrid: a weather-resistant planter box with a solar light mounted on top. That sounds gimmicky, but at 4.6 stars across 229 ratings, it’s clearly earning its keep.

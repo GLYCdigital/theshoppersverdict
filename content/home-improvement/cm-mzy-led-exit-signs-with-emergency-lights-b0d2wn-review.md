@@ -1,4 +1,5 @@
 ---
+
 title: "CM MZY LED Exit Signs with Emergency Lights"
 seo_title: "CM MZY LED Exit Signs Review: Honest 2026 Look"
 meta_description: "CM MZY LED exit signs with emergency lights reviewed: brightness, battery life, installation, and real buyer feedback. Is this 4.6-star unit worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2WN6GRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617eYd8vYXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 3W LED emergency heads swivel 360° and tilt, covering hallways and stairwells without extra fixtures"
   - "Self-diagnostic battery test function with visible LED indicator — catches failures before inspections"
   - "Ultra-slim 0.8-inch aluminum housing that mounts flush; included template and hardware speed up install"
-cons:
+cons: 
   - "Battery compartment requires a screwdriver to access; monthly testing means digging out a tool every time"
   - "The included mounting screws feel light-gauge — plan to swap for drywall anchors on hollow walls"
+
 ---
 
 Let’s get one thing straight: an exit sign isn’t a purchase you make because you’re excited. You buy it because code requires it, an inspector flagged it, or you’re opening a space and need to check a box. That means the review criteria are different — reliability, install ease, and whether it’ll pass inspection without fuss. The CM MZY LED Exit Sign with Emergency Lights checks those boxes, but not without a quirk or two.

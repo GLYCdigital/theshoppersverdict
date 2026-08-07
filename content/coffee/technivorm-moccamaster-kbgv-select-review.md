@@ -1,4 +1,5 @@
 ---
+
 title: "Technivorm Moccamaster KBGV Select Review"
 seo_title: "Technivorm Moccamaster KBGV Select Review: Worth $349?"
 meta_description: "Technivorm Moccamaster KBGV Select review: 4.2★ from 4,851 buyers. Is this $349 brewer worth it? Real performance, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 4851
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXKL8CT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x+azaTAoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews a full 40 oz carafe in under 6 minutes at the SCAA-recommended 195–205°F"
   - "9-hole aluminum brew arm distributes water evenly over coffee grounds — no channeling, no bitter over-extraction"
   - "Manual drip-stop lets you pour a cup mid-brew without flooding the carafe"
-cons:
+cons: 
   - "Glass carafe is thin and fragile — several owners report cracks from routine washing"
   - "No auto-off timer or programmability; you get one switch and a manual on/off"
   - "Plastic water reservoir and brew basket feel dated for a $349 price point"
+
 ---
 
 **The $349 Moccamaster: Overpriced Icon or Genuine Daily Driver?**

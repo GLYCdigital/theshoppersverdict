@@ -1,4 +1,5 @@
 ---
+
 title: "Carport Replacement Canopy Cover"
 seo_title: "Carport Replacement Canopy Cover Review: Worth It? (2026)"
 meta_description: "Honest carport replacement canopy cover review: durability, fit, wind resistance, and value. See what 200 buyers say before you spend."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CHJ5X667/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517qxY8zH4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 180g PE material with UV coating holds up in sustained sun and sheds moderate rain without sagging"
   - "Pre-punched grommet holes align with standard 10x20 carport frames — most buyers report 20-minute installation solo"
   - "Reinforced webbing along all seams and corners prevents the common rip-at-the-grommet failure mode"
-cons:
+cons: 
   - "Wind rating is optimistic — several buyers report torn straps or lifted corners in gusts above 35 mph"
   - "Color fades noticeably within 6–8 months, especially the green and blue options despite the UV claim"
+
 ---
 
 If your carport frame has been standing naked since last winter, you already know the calculus: a new cover costs less than half of a full replacement unit, and installation is an afternoon job, not a weekend project. This canopy replacement sits squarely in that value zone — but the 4.0-star average across 200 ratings tells you there's nuance. Here's the real story after digging through buyer experiences.

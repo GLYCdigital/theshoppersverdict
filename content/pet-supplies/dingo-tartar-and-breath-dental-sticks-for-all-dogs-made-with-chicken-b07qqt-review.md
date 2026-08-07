@@ -1,4 +1,5 @@
 ---
+
 title: "Dingo Tartar and Breath Dental Sticks for All Dogs, Made wit"
 seo_title: "Dingo Tartar & Breath Dental Sticks Review (2026): Worth It?"
 meta_description: "Honest Dingo Tartar and Breath Dental Sticks review: real dog owner feedback, ingredient analysis, and whether these treats actually fight plaque."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07QQTG299/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OND81yaPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crunchy texture with ridges that mechanically scrape plaque while dogs chew"
   - "Chicken flavor is genuinely appealing — most dogs take to them immediately"
   - "No rawhide, no artificial colors, and a reasonable price point compared to vet dental diets"
-cons:
+cons: 
   - "Sticks are on the smaller side — large breeds will finish one in under a minute"
   - "Some dogs with sensitive stomachs may experience loose stools if given daily"
+
 ---
 
 Let me be direct: most dental chews are overpriced biscuits that do nothing. The Dingo Tartar and Breath sticks aren’t magic, but they actually do what they claim — mechanically scraping teeth while satisfying your dog’s need to chew. After digging through 220 ratings and the ingredient list, here’s what you need to know.

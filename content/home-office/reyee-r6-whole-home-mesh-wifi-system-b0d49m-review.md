@@ -1,4 +1,5 @@
 ---
+
 title: "Reyee R6 Whole Home Mesh WiFi System"
 seo_title: "Reyee R6 Whole Home Mesh WiFi System Review: Verdict | TS"
 meta_description: "Our full reyee r6 whole home mesh wifi system review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D49M8L8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CFlba4OJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the Reyee R6: it's not the mesh system you've heard about from your tech-obsessed friend, and that's exactly why it might be the one you should buy.

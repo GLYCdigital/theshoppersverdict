@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 9/7.5 ft Patio Umbrella with Tassels, Fringe Porta"
 seo_title: "Yaheetech 9/7.5 ft Patio Umbrella with Tassels, Fr Review"
 meta_description: "Our full yaheetech 9/7.5 ft patio umbrella with tassels, fringe porta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWK8ZVMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712l75cwjCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a cheap patio umbrella that flipped inside out at the first gust of wind or shed tassels all over your deck, you know the pain. The Yaheetech 9/7.5 ft Patio Umbrella with Tassels and Fringe sits in a crowded field of lookalikes, but a 4.5-star average across 225 ratings suggests it's doing something right. After digging through buyer feedback and examining the specs, here's the real story.

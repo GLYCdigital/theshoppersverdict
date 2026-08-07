@@ -1,4 +1,5 @@
 ---
+
 title: "MUJOO Washable Area Rugs for Living Room Non Slip Throw Carp"
 seo_title: "MUJOO Washable Area Rugs for Living Room Non Slip  Review"
 meta_description: "Our full mujoo washable area rugs for living room non slip throw carp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJ2TZ6FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8158i6dPtUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what the MUJOO washable area rug is: a practical, low-maintenance floor covering for people who don't want to baby their decor. It's not a plush statement piece, and it doesn't pretend to be. At roughly 4.1 stars across 204 ratings, it's earning its keep in real homes — and the feedback tells a consistent story.

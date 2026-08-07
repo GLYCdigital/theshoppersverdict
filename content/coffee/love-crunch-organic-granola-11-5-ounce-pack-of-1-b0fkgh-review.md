@@ -1,4 +1,5 @@
 ---
+
 title: "Love Crunch Organic Granola, 11.5 Ounce (Pack of 1)"
 seo_title: "Love Crunch Organic Granola, 11.5 Ounce (Pack of 1 Review"
 meta_description: "Our full love crunch organic granola, 11.5 ounce (pack of 1) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKGH645H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715AdnbLyvL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this granola actually worth your money, or is it just another overpriced organic snack? I tested it for a week straight — here's the honest breakdown.**

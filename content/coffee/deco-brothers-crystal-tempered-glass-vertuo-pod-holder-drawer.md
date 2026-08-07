@@ -1,4 +1,5 @@
 ---
+
 title: "DecoBrothers Crystal Tempered Glass Vertuo Pod Holder Drawer"
 seo_title: "DecoBrothers Vertuo Pod Holder Drawer Review (2026)"
 meta_description: "DecoBrothers Crystal Tempered Glass Vertuo Pod Holder Drawer review: 4.7★ from 35K+ ratings. Real capacity, build quality, fit, and honest downsides."
@@ -11,13 +12,14 @@ review_count: 35254
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NW+BixqML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Holds 40 Vertuo pods in a clear tempered glass drawer that slides smoothly on full-extension rails"
   - "Crystal-clear glass top lets you see every pod at a glance — no digging through dark drawers"
   - "Solid 4.5-pound build with a brushed stainless steel frame that doesn't flex or wobble"
-cons:
+cons: 
   - "Only fits standard VertuoLine pods — the larger Vertuo XL carafe sizes won't fit without removing the insert"
   - "Glass surface smudges easily; you'll be wiping it down weekly if you care about fingerprints"
+
 ---
 
 If you own a Vertuo machine, you already know the problem: those bulky pods eat counter space and vanish into dark cabinets. The DecoBrothers Crystal Tempered Glass Pod Holder Drawer solves that with something surprisingly simple — a clear glass top that lets you see all 40 pods at a glance.

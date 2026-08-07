@@ -1,4 +1,5 @@
 ---
+
 title: "ROYMELO Glass Sliding Barn Door Slab with Hardware Kit Inclu"
 seo_title: "ROYMELO Glass Sliding Barn Door Slab with Hardware Review"
 meta_description: "Our full roymelo glass sliding barn door slab with hardware kit inclu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FHW4DZZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617XDVwXFvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The ROYMELO Glass Sliding Barn Door — a 70-pound statement piece that will either elevate your hallway or test your patience during installation. There's no middle ground here.**

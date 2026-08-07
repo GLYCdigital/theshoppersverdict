@@ -1,4 +1,5 @@
 ---
+
 title: "Gitrah Vanity Chair for Makeup Room - Round Velvet Ottoman T"
 seo_title: "Gitrah Vanity Chair Review: Tufted Velvet Ottoman Stool (2026)"
 meta_description: "Gitrah Vanity Chair review: 4.5-star round velvet ottoman for makeup rooms. Real pros, cons, and who should buy. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWYH9RYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619CVsGP7fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Generous 15.7-inch seat height fits most standard vanity tables (28-30 inches) without needing a riser"
   - "Full upholstered velvet with dense foam padding — no hard plywood edge digging into your thighs"
   - "360-degree swivel with smooth ball bearings; doesn't wobble even on carpet"
-cons:
+cons: 
   - "Assembly requires an Allen wrench (included) but the legs can cross-thread if you rush it"
   - "Velvet shows lint and pet hair quickly — you'll want a fabric shaver or lint roller nearby"
   - "No adjustable height; if your vanity is taller than 31 inches, this stool sits too low"
+
 ---
 
 **Opening Hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "Mars Explo Firewood Rack Cover - Wood Storage Tarp, Log Rack"
 seo_title: "Mars Explo Firewood Rack Cover - Wood Storage Tarp Review"
 meta_description: "Our full mars explo firewood rack cover - wood storage tarp, log rack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL9V1XWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ADp4HP5EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Mars Explo Firewood Rack Cover isn’t the cheapest tarp you’ll find — but it might be the last one you’ll buy.** If you’ve ever watched a cheap blue tarp flap to shreds in a March storm or had your “seasoned” oak turn green from trapped moisture, you know the stakes. This cover is built for people who treat firewood like an investment, not an afterthought.

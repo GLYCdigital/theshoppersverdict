@@ -1,4 +1,5 @@
 ---
+
 title: "Suncast Hose Handler Wall-Mounted Reel for Outdoor Garden St"
 seo_title: "Suncast Hose Handler Wall-Mounted Reel for Outdoor Review"
 meta_description: "Our full suncast hose handler wall-mounted reel for outdoor garden st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWXKS5YB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nga2IoFjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most wall-mounted hose reels are either cheap plastic that cracks by year two or overpriced metal units that cost more than your sprinkler system. The Suncast Hose Handler sits in the middle, and for most homeowners, that's exactly the right spot.

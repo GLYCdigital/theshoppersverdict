@@ -1,4 +1,5 @@
 ---
+
 title: "Oh! Nuts Fruit Slices Sugar Candy - 5lb Bulk Bag | Tradition"
 seo_title: "Oh! Nuts Fruit Slices Sugar Candy - 5lb Bulk Bag | Review"
 meta_description: "Our full oh! nuts fruit slices sugar candy - 5lb bulk bag | tradition review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0B3N635L5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mxxo522bL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: these aren't the bright, neon fruit slices you remember from childhood gas stations. The Oh! Nuts version leans closer to the old-fashioned, naturally-colored gumdrop-style candy your grandparents kept in a crystal dish. That's either exactly what you want or a dealbreaker, and this review will help you figure out which camp you're in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ailbiuko Air Coupler & Plug Kit,45 Pcs 1/4 inch  NPT Air Tool Fit"
 seo_title: "Ailbiuko Air Coupler Plug Kit Review: 45-Piece NPT Set"
 meta_description: "Ailbiuko 45-piece air coupler & plug kit review: 1/4 inch  NPT brass fittings, 4.6-star rating. See real performance, leaks, and compatibility."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4Q8N665/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y40vin6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "45 pieces cover the most common coupler/plug sizes for home and pro shops"
   - "Brass bodies and hardened steel balls hold up to daily use without seizing"
   - "Color-coded bands make identifying flow rates at a glance"
-cons:
+cons: 
   - "No O-rings included in the kit despite the name suggesting full fittings"
   - "Case latches feel flimsy; it won't survive a drop on concrete"
   - "Some users report needing pliers to disconnect under high line pressure"
+
 ---
 
 If you've ever stood at a hardware store staring at a pegboard of air fittings, wondering which coupler mates with which plug, this kit is the answer to a question you didn't know you had. The Ailbiuko 45-piece set covers the two most common industrial standards—Type C (the automotive standard) and the European-style industrial couplers—in both male and female configurations. It's the kind of purchase that saves you three separate trips to the store and a box of mismatched fittings in your garage.

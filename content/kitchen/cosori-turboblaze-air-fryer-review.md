@@ -1,4 +1,5 @@
 ---
+
 title: "Cosori 9-in-1 TurboBlaze Air Fryer 6 Qt"
 seo_title: "Cosori TurboBlaze Air Fryer Review: 6 Qt, 9-in-1 inch"
 meta_description: "Cosori TurboBlaze 6 Qt air fryer review: 9-in-1 functions, 450°F max heat, 5-min preheat. See if it beats the Pro II. Honest pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 19790
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C33CHG99/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R9sA3IyBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Max 450°F heat with 5-minute preheat — noticeably faster than the 400°F limit on the older Cosori Pro II"
   - "Square 6-quart basket fits a 5-pound chicken or a full frozen pizza without the shaking blind spots round baskets create"
   - "9 presets plus a 12-hour keep-warm mode that actually holds food crispy, not soggy"
-cons:
+cons: 
   - "Controls are entirely touch-based — no physical dial for temperature; some users report accidental presses when the unit vibrates"
   - "Basket nonstick coating is PTFE-based; if you're avoiding PFAS, you need a different air fryer"
   - "Fan noise at 62 dB during max cook is louder than average; fine for open kitchens, annoying in studio apartments"
+
 ---
 
 The Cosori TurboBlaze is the air fryer I'd buy if I were starting over today — but it's not perfect. After 19,790 Amazon ratings averaging 4.8 stars, the consensus is clear: this thing cooks fast and cooks evenly. The real question is whether the upgrades over Cosori's own Pro II justify the $100 price tag. Short answer: yes, with caveats.

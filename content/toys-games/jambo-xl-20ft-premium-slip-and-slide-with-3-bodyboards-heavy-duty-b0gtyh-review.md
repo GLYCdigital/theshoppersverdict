@@ -1,4 +1,5 @@
 ---
+
 title: "JAMBO XL 20Ft Premium Slip and Slide with 3 Bodyboards, Heav"
 seo_title: "JAMBO XL 20Ft Premium Slip and Slide with 3 Bodybo Review"
 meta_description: "Our full jambo xl 20ft premium slip and slide with 3 bodyboards, heav review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GTYHQ9SZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IJla1DKeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The JAMBO XL 20Ft isn't just another cheap slip-and-slide that disintegrates by July. Here's the full breakdown before you spend.**

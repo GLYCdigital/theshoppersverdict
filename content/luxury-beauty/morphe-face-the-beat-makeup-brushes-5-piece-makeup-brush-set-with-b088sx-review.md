@@ -1,4 +1,5 @@
 ---
+
 title: "Morphe Face The Beat Makeup Brushes - 5 Piece Makeup Brush S"
 seo_title: "Morphe Face The Beat Makeup Brushes - 5 Piece Make Review"
 meta_description: "Our full morphe face the beat makeup brushes - 5 piece makeup brush s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B088SXB8VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sAN6hXkJL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Morphe Face The Beat Makeup Brushes: A 5-Piece Set That Actually Earns Its Spot

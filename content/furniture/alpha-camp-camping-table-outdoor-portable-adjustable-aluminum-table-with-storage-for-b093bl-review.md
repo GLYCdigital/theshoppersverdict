@@ -1,4 +1,5 @@
 ---
+
 title: "ALPHA CAMP Camping Table Outdoor Portable Adjustable Aluminu"
 seo_title: "ALPHA CAMP Camping Table Review: Portable, Adjustable, Worth It?"
 meta_description: "Read our honest ALPHA CAMP camping table review: build quality, real-world use, pros, cons, and who should buy. 4.5-star rated portable table."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B093BL7Q6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y6n-ahh8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Aluminum top and legs weigh roughly 5 pounds, but the adjustable height mechanism feels solid—no wobble even at max height"
   - "Carry bag has a shoulder strap and side handle, making hauling it from car to campsite genuinely one-handed"
   - "Height adjusts from about 15 to 27 inches, covering both ground-sitting and chair-height use without tools"
-cons:
+cons: 
   - "Rolled edges on the tabletop catch crumbs and small debris; you'll need to wipe them out individually"
   - "The included storage pouch is more of a mesh pocket—fine for napkins and keys, not for heavier gear"
   - "Tabletop surface shows scratches from metal cookware; use a mat if you're picky about cosmetics"
+
 ---
 
 **The ALPHA CAMP Camping Table: A lightweight workhorse with a few honest compromises**

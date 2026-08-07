@@ -1,4 +1,5 @@
 ---
+
 title: "COLAVITA Colavita - Premium Selection - First Cold Pressed"
 seo_title: "COLAVITA First Cold Pressed Review: Premium Olive Oil"
 meta_description: "COLAVITA Premium Selection First Cold Pressed review: rich flavor, smooth finish, and 4.8-star rating. Is it worth it? Here's our honest take."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9H6ZRHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K698ejyRL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, peppery finish that actually tastes like fresh olives — not flat or oily"
   - "Versatile enough for both finishing dishes and everyday cooking without turning bitter when heated"
   - "Consistent quality batch to batch; Colavita's sourcing shows in the color and aroma"
-cons:
+cons: 
   - "Plastic cap can be stiff on first open; easy to over-pour if you're not careful"
   - "No harvest date printed on the bottle — only a best-by date, which matters for freshness purists"
+
 ---
 
 Let's be blunt: most supermarket olive oil tastes like it was filtered through a gym sock. COLAVITA Premium Selection First Cold Pressed is not that. This is the bottle that makes you understand why Italians get emotional about their olive oil.

@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Linda Platform"
 seo_title: "Zinus Linda Platform Review: Verdict | TSV"
 meta_description: "Our full zinus linda platform review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B095WP423X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Ml9iCWclS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $200 Bed Frame That Doesn't Feel Like One

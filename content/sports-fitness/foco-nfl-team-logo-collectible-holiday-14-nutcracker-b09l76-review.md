@@ -1,4 +1,5 @@
 ---
+
 title: "foco NFL Team Logo Collectible Holiday 14 inch  Nutcracker"
 seo_title: "foco NFL Nutcracker Review: Is This Team Collectible Worth It?"
 meta_description: "foco NFL Team Logo Nutcracker review: 14-inch collectible with real team colors. See pros, cons, and whether it's worth $40 for fans."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09L76G381/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bfbb3CUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Officially licensed NFL product — team logos and colors are accurate, not generic approximations"
   - "Solid 14-inch height with sturdy wooden construction that holds up year after year"
   - "Real working nutcracker mechanism, not just a decorative statue"
-cons:
+cons: 
   - "Limited to about half the NFL teams — if your squad isn't in the lineup, you're out of luck"
   - "Paint chipping on the face and hands reported by several buyers after a season or two of display"
+
 ---
 
 Let's be honest: a nutcracker is a weird thing to buy for a football fan. But the foco NFL Team Logo Collectible Holiday 14" Nutcracker isn't just a novelty — it's become a legitimate holiday tradition for NFL households. Here's what 225 buyers at 4.5 stars are actually saying.

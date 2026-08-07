@@ -1,4 +1,5 @@
 ---
+
 title: "Dan&Darci Dino Soap Making Kit for Kids, Dinosaur Science To"
 seo_title: "Dan&Darci Dino Soap Making Kit Review: Science Fun for Kids"
 meta_description: "Our honest Dan&Darci Dino Soap Making Kit review: melt-and-pour dinosaur soap craft for kids. See what's inside, real buyer feedback, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07Z75PRFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818En+cSIDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete kit includes melting pot, molds, and enough glycerin soap base for 10+ finished bars"
   - "Melt-and-pour method is genuinely safe for kids 6+ with minimal adult supervision"
   - "Dinosaur molds produce detailed shapes that actually pop out cleanly"
-cons:
+cons: 
   - "Microwave heating step still requires adult help — not fully independent for younger kids"
   - "Scent and color options are limited to what's in the box; refills sold separately"
+
 ---
 
 Let's be blunt: most "science kits for kids" are 80% packaging and 20% activity. The Dan&Darci Dino Soap Making Kit is a refreshing exception. With 215 ratings averaging 4.3 stars, this kit has earned its place in the crowded STEM toy market — but it's not without a few quirks worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ruoysun 14 Inch Queen Size Mattresses, Gel Foam Queen Mattre"
 seo_title: "Ruoysun 14 Inch Queen Size Mattresses, Gel Foam Qu Review"
 meta_description: "Our full ruoysun 14 inch queen size mattresses, gel foam queen mattre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F9YHLBQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LvatV4eDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the bed-in-a-box noise. The Ruoysun 14-inch queen is competing in the most crowded category on Amazon, and it's doing it with a spec sheet that looks better than its $400-ish price tag suggests. But does the 4.0-star average tell the real story? Here's what you need to know before you hit buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Delta"
 seo_title: "Delta Review: Honest Look at This 4.5-Star Tool"
 meta_description: "Delta tool review: Performance, build quality, durability, real buyer feedback. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXR1VG2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d1NPo7JNL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Machined aluminum gear housing holds up to repeated heavy torque without flex or stripped teeth"
   - "Variable-speed trigger gives genuine control from 0 to full RPM — no dead zone at low speeds"
   - "Ergonomic grip with rubber overmold stays comfortable during extended use, even with work gloves"
-cons:
+cons: 
   - "Charger and battery sold separately — adds $60–$90 to the real cost if you're starting fresh"
   - "Slightly heavier than comparable brushless models at 4.2 lbs; noticeable on overhead work"
   - "No belt clip or bit holder included in the box — minor annoyance you'll need to solve yourself"
+
 ---
 
 If you're here because the name "Delta" caught your eye, you already know the reputation. The question is whether this specific tool lives up to it — or whether you're just paying for the badge. After digging through 225 ratings averaging 4.5 stars and looking hard at the build specs, here's what you actually need to know.

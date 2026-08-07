@@ -1,4 +1,5 @@
 ---
+
 title: "OREO Cakesters Soft Snack Cakes, 5-2.02 oz Snack Packs"
 seo_title: "OREO Cakesters Soft Snack Cakes, 5-2.02 oz Snack P Review"
 meta_description: "Our full oreo cakesters soft snack cakes, 5-2.02 oz snack packs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J1X5KFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J-6Lk80tL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about something upfront: these are not cookies. They're not trying to be cookies. OREO Cakesters are a completely different animal — soft, squishy sandwich cakes that swap the classic snap for a texture closer to a Hostess cupcake. And for what they are, they nail it.

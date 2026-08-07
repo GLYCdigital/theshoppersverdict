@@ -1,4 +1,5 @@
 ---
+
 title: "Container Furniture Direct 90 inch  Curved Sofa with Throw Pillow"
 seo_title: "Container Furniture Direct 90 inch  Curved Sofa Review (2026)"
 meta_description: "Container Furniture Direct 90 inch  Curved Sofa review: 4.4-star rated 4-seater with deep seats, sturdy frame, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB1CPL6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dH1j3WNvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "90-inch width fits three to four adults comfortably without dominating a standard living room"
   - "Curved back and deep 22-inch seat depth provide genuine lounging support, not just looks"
   - "Sturdy hardwood frame and high-density foam hold up to daily use — several buyers report no sagging after 6+ months"
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes; the backrest sections can be finicky to align"
   - "Fabric is a magnet for pet hair and shows light spills quickly — consider a protective spray"
+
 ---
 
 **A 90-inch curved sofa that actually delivers on comfort — if you can handle the assembly.**

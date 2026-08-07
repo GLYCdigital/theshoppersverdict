@@ -1,5 +1,6 @@
 ---
 
+
 title: "E-Z Ink Compatible TN221 TN225 Toner Cartridge Replacement f"
 seo_title: "E-Z Ink TN221 TN225 Toner Review: Budget 4-Pack for Brother"
 meta_description: "E-Z Ink TN221/TN225 compatible toner 4-pack review: print quality, yield, and reliability for Brother printers at $38.89. Is it worth skipping OEM?"
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNMSL1GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71attEIiqFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Costs roughly 60% less than OEM Brother cartridges while delivering comparable yield (1,200 pages for TN221, 3,000 for TN225)"
   - "Chip pre-installed and recognized instantly by Brother printers — no firmware workarounds or error codes reported by most buyers"
   - "Four-cartridge bundle covers both standard and high-yield slots, making it a complete replacement set for under $40 inch"
-cons:
+cons: 
   - "Toner is slightly lighter than OEM — acceptable for drafts but noticeable if you print dense graphics or photos"
   - "A small minority of units arrive with loose drums or require a firm shake before installation to distribute toner evenly"
+
 
 ---
 

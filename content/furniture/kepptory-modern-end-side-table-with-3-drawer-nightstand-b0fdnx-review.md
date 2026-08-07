@@ -1,4 +1,5 @@
 ---
+
 title: "kepptory Modern End Side Table with 3 Drawer Nightstand"
 seo_title: "kepptory Modern End Side Table with 3 Drawer Night Review"
 meta_description: "Our full kepptory modern end side table with 3 drawer nightstand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDNXT6GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sMAS8wmVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about nightstands: most under $150 are flimsy cardboard-adjacent boxes with drawers that stick, wobble, or simply fall apart within a year. The kepptory Modern End Side Table with 3 Drawer Nightstand sits slightly above that bargain bin tier. It's not heirloom furniture, but it's a genuinely functional piece that understands what a nightstand needs to do. With 215 ratings averaging 4.3 stars, it's clearly earning its keep in real bedrooms.

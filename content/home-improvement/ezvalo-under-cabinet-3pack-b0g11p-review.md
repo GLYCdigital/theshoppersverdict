@@ -1,4 +1,5 @@
 ---
+
 title: "EZVALO Under Cabinet, 3Pack"
 seo_title: "EZVALO Under Cabinet 3Pack Review: Bright, Motion-Activated"
 meta_description: "EZVALO Under Cabinet 3Pack review: USB-rechargeable motion-sensor lights with 3 color temps. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G11PDWTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mQCl-NGaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperature modes (3000K/4500K/6000K) let you match existing kitchen lighting without buying separate fixtures"
   - "Magnetic mounting plate means you can pop the light off to recharge — no need to unscrew anything from the cabinet underside"
   - "1200mAh battery per light delivers roughly 4-5 hours of continuous use on a single charge, which is solid for a puck light"
-cons:
+cons: 
   - "Motion sensor range is about 3 feet — you'll need to reach under the cabinet directly, not just walk into the room, to trigger it"
   - "The 3-pack only covers a single standard sink area or a small counter; larger kitchens will need two sets"
+
 ---
 
 If you've ever fumbled for a spice jar in the dark recesses under your upper cabinets, you already know why the EZVALO Under Cabinet 3Pack exists. This isn't a fancy hardwired installation — it's a magnetic, rechargeable puck light that sticks where you need it and charges via USB-C when it dies. The question is whether three of them solve your lighting problem or just tease you with what's possible.

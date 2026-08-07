@@ -1,4 +1,5 @@
 ---
+
 title: "Fuwidvia 3 Pack Airplane Launcher Toys, 13.2'' LED Foam Glid"
 seo_title: "Fuwidvia 3-Pack LED Foam Airplane Launcher Review (2026)"
 meta_description: "Our Fuwidvia 3-pack LED foam airplane launcher review: 13.2-inch gliders, LED lights, safety-tested foam. See real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCRYYK4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vex+UqD4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three complete planes and launchers per box — enough for siblings or group play without buying extras"
   - "LED lights actually visible at dusk, extending usable playtime beyond daylight hours"
   - "Flexible EPP foam survives crashes that would snap plastic gliders"
-cons:
+cons: 
   - "Foam planes are light — a stiff breeze can carry them off course or into trees"
   - "Batteries for the LED lights are not included and require a small screwdriver to install"
   - "Launcher bands wear out after heavy use and aren't sold separately"
+
 ---
 
 **The 30-second version:** The Fuwidvia 3-pack airplane launcher set delivers exactly what it promises — three foam gliders that fly surprisingly far, light up in the dark, and survive the inevitable crashes that come with kids launching things. At 4.4 stars from 220+ ratings, it's a solid backyard toy, but not without a few frustrations.

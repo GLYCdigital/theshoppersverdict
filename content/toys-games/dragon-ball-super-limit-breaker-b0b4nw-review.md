@@ -1,4 +1,5 @@
 ---
+
 title: "Dragon Ball Super Limit Breaker"
 seo_title: "Dragon Ball Super Limit Breaker Review: Worth It? (2026)"
 meta_description: "Dragon Ball Super Limit Breaker review: 4.7★ rated action figure set. We break down build quality, articulation, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B4NWTNCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LAeIfkGrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Excellent articulation across all included figures — full range of motion at shoulders, hips, and knees for dynamic battle poses"
   - "Paint application is clean and accurate to the anime, with no sloppy edge work on the character faces or gi details"
   - "Sturdy construction that holds poses well over time — no loose joints even after extended display"
-cons:
+cons: 
   - "Accessories are limited to effect parts only — no alternate hands or faces included in the box"
   - "Smaller scale than the standard S.H.Figuarts line, which may clash with existing collections"
+
 ---
 
 Let me be direct with you: if you're a Dragon Ball collector, you've probably been burned before by figures that look incredible in the product images but feel like cheap plastic in hand. The **Dragon Ball Super Limit Breaker** set is not that. It's not perfect, but it's a legitimate contender for your shelf space.

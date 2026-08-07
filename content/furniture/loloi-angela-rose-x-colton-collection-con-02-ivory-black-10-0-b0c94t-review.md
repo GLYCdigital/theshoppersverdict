@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi Angela Rose x Colton Collection CON-02 Ivory/Black 10'"
 seo_title: "Loloi Angela Rose x Colton Collection CON-02 Ivory Review"
 meta_description: "Our full loloi angela rose x colton collection con-02 ivory/black 10' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0C94TBLV4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LO68jmBAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Loloi Angela Rose x Colton Collection CON-02 is a rug that photographs beautifully and frustrates in practice. With a 3.4-star average across 170 ratings, this is a polarizing piece — and after digging into the specifics, it's clear why.

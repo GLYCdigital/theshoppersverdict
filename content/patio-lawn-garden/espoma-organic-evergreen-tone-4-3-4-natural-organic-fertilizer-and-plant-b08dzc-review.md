@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Evergreen-Tone 4-3-4 Natural & Organic Fertil"
 seo_title: "Espoma Evergreen-Tone 4-3-4 Review: Best Organic Fertilizer?"
 meta_description: "Espoma Organic Evergreen-Tone 4-3-4 review: Does this natural fertilizer green up pines, spruce & arborvitae? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08DZCL834/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WXik+pj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bio-tone microbes in the formula break down nutrients slowly, feeding evergreens for up to 3 months per application"
   - "Zero odor and no burn risk — safe for new plantings and established trees alike, even in hot, dry conditions"
   - "Covers roughly 100 square feet per 4-pound bag at the recommended rate, making it economical for small yards"
-cons:
+cons: 
   - "The 4-pound bag runs out fast if you have more than a few mature trees — bulk buyers will want the larger 18-pound option"
   - "Results aren't instant — it takes 3-4 weeks to see visible greening, which frustrates shoppers expecting a quick fix"
   - "Not formulated for acid-loving blueberries or azaleas; this is strictly for evergreens and conifers"
+
 ---
 
 Evergreens are the backbone of most landscapes — the privacy screen, the windbreak, the year-round structure. But when they start yellowing, it's panic time. Before you reach for a chemical drench or a bag of synthetic salts, there's a gentler option that's earned a 4.6-star average from 229 buyers. Here's the real story on Espoma Organic Evergreen-Tone.

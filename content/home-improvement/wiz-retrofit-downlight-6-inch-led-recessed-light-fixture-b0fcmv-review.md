@@ -1,4 +1,5 @@
 ---
+
 title: "WiZ Retrofit Downlight - 6 inch LED Recessed Light Fixture"
 seo_title: "WiZ Retrofit Downlight - 6 inch LED Recessed Light Review"
 meta_description: "Our full wiz retrofit downlight - 6 inch led recessed light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCMVWTXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mxCZleFVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: if you've got old recessed cans with dated, buzzing bulbs and you've been eyeing smart lighting, the WiZ Retrofit Downlight is one of the most straightforward upgrades you can make. It's not the cheapest retrofit on the market, and it's not perfect, but for most homeowners, it hits the sweet spot between "smart" and "practical."

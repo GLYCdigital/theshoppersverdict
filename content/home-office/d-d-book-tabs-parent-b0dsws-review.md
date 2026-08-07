@@ -1,4 +1,5 @@
 ---
+
 title: "D&D Book Tabs Parent"
 seo_title: "D&D Book Tabs Review: 4.7-Star Index Tabs for Rulebooks"
 meta_description: "D&D Book Tabs Parent review: Durable, repositionable index tabs for rulebooks and manuals. See how these 4.7-star tabs hold up in real play sessions."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSWSPP4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gEzbpDDQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Repeatedly repositionable adhesive leaves no residue even after 20+ applications on glossy rulebook pages"
   - "Ultra-thin 0.1mm film won't add bulk — book still closes flush with 40+ tabs installed"
   - "Laminated write-on surface works with standard ballpoint and fine-tip permanent markers without smearing"
-cons:
+cons: 
   - "Only 40 tabs per pack — heavy D&D players with multiple manuals will need a second order"
   - "Smaller than standard Post-it flags at 0.5 inches; text labels need neat handwriting or they get cramped"
+
 ---
 
 Somewhere around your third session of flipping through the Dungeon Master's Guide looking for the grappling rules, you realize something: you need tabs. The D&D Book Tabs Parent pack (about $16.65) is a purpose-built answer — a set of 40 laminated index tabs designed specifically for the thick, glossy pages of tabletop RPG rulebooks. At 4.7 stars from 235 ratings, it's clearly solving a real problem. Here's the honest rundown after testing.

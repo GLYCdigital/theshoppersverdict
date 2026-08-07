@@ -1,4 +1,5 @@
 ---
+
 title: "Gafete Waterproof Double Hammock with Stand for Outside Heav"
 seo_title: "Gafete Double Hammock with Stand Review (2026): Worth It?"
 meta_description: "Honest Gafete waterproof double hammock with stand review: build quality, weight capacity, comfort, and real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHQB2RKB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bqugv1KFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof 210T polyester fabric — rain beads up and rolls off, no soaking through"
   - "Sturdy 10-foot steel stand with anti-rust coating holds up in humid climates without wobbling"
   - "Tool-free assembly in under 15 minutes — no confusing hardware or stripped bolts"
-cons:
+cons: 
   - "Stand's weight capacity (450 lbs) is split between two people; combined weight above 400 lbs makes the frame creak"
   - "Fabric is water-resistant but not breathable — gets sweaty on hot, humid afternoons"
   - "Pillow straps are positioned oddly; they bunch up the fabric if you actually use the included pillows"
+
 ---
 
 A hammock that claims "waterproof" usually means one of two things: a cheap vinyl tarp that turns into a sauna, or a fabric that technically repels water but falls apart after one season. The Gafete Double Hammock with Stand sits somewhere in the middle — and for most buyers, that's exactly the sweet spot.

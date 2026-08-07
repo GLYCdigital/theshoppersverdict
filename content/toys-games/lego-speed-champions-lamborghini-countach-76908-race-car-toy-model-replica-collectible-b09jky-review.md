@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Speed Champions Lamborghini Countach 76908, Race Car To"
 seo_title: "Lego Speed Champions Lamborghini Countach 76908, R Review"
 meta_description: "Our full lego speed champions lamborghini countach 76908, race car to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B09JKY1FPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81josLY53WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you grew up staring at Lamborghini posters on your bedroom wall, this Lego Speed Champions set hits a specific nostalgia nerve. The Countach is the poster car of the 1980s — all sharp angles and absurd presence — and Lego's 8-stud-wide version captures that better than any previous attempt. It's not just a toy; it's a tiny piece of automotive history you can rebuild in under an hour.

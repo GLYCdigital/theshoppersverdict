@@ -1,4 +1,5 @@
 ---
+
 title: "Assortment gumballs"
 seo_title: "Assortment Gumballs Review: Are They Worth It? | 2026 inch"
 meta_description: "Honest review of Assortment gumballs for your gumball machine. We break down flavor variety, quality, value, and what real buyers say. 4.5/5 stars."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXG321T2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TgPi8t0XL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, hard candy shell that doesn't shatter or crack in the machine — even after weeks of sitting"
   - "Genuinely varied color distribution, not just 80% red with a few stragglers"
   - "Resealable, heavy-duty bag that actually keeps gumballs fresh between refills"
-cons:
+cons: 
   - "Flavor intensity is mild; if you want sour or punchy fruit, this isn't it"
   - "No clear count on the bag — you're estimating by weight, so portioning for multiple machines is guesswork"
+
 ---
 
 If you own a gumball machine, you know the struggle: you buy a bag of "assorted" gumballs and get 300 red ones, 40 blues, and maybe a green if you're lucky. That's not what you're getting here.

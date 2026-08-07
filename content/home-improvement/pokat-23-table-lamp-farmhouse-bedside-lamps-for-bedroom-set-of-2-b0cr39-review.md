@@ -1,7 +1,8 @@
 ---
-title: "PoKat 23\" Table Lamp, Farmhouse Bedside Lamps for Bedroom Se"
-seo_title: "PoKat 23\" Table Lamp, Farmhouse Bedside Lamps for  Review"
-meta_description: "Our full pokat 23\" table lamp, farmhouse bedside lamps for bedroom se review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "PoKat 23\ Table Lamp, Farmhouse Bedside Lamps for Bedroom Se"
+seo_title: "PoKat 23\ Table Lamp, Farmhouse Bedside Lamps for  Review"
+meta_description: "Our full pokat 23\ table lamp, farmhouse bedside lamps for bedroom se review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pokat-23-table-lamp-farmhouse-bedside-lamps-for-bedroom-set-of-2-b0cr39-review"
 image_alt: "PoKat 23 Table Lamp, Farmhouse Bedside Lamps for Bedroom Set of 2, Ceramic End Table Lamps for Living Room, Contemporary"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CR39LD3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c9YMDtbAL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # PoKat 23" Table Lamp, Farmhouse Bedside Lamps for Bedroom Se

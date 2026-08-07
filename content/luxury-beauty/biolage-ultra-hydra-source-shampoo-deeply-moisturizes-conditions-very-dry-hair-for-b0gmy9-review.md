@@ -1,23 +1,25 @@
 ---
+
 title: "Biolage Ultra Hydra Source Shampoo – Deeply Moisturizes & Co"
 seo_title: "Biolage Ultra Hydra Source Shampoo Review: Deep Hydration for Dry Hair"
 meta_description: "Read our honest Biolage Ultra Hydra Source Shampoo review. Does it truly moisturize very dry hair? We break down results, scent, and value for 4.7-star rated formula."
 slug: "biolage-ultra-hydra-source-shampoo-deeply-moisturizes-conditions-very-dry-hair-for-b0gmy9-review"
 image_alt: "Biolage Ultra Hydra Source Shampoo bottle with aloe vera formula for very dry hair"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMY9P3Z5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tN6+r17XL._SL1500_.jpg"
-pros:  
+pros: 
   - "Aloe vera, manuka honey, and agar extract visibly smooth rough cuticles without heavy buildup"  
   - "Sulfate-free formula cleanses effectively without stripping color-treated or chemically processed hair"  
   - "Salon-quality lather in hard water—a rare feat for a moisturizing shampoo"  
-cons:  
+cons: 
   - "Fragrance is strong and lingers—sensitive noses may find it overpowering"  
   - "Thicker consistency requires warm water to spread evenly; cold rinses leave residue"
+
 ---
 
 If your hair drinks moisture like a sponge and still feels like straw by noon, you've probably cycled through a dozen "hydrating" shampoos that delivered nothing but disappointment. The Biolage Ultra Hydra Source Shampoo is different—not because it's magic, but because it actually understands what very dry hair needs: humectants that pull water in, not heavy oils that sit on top.

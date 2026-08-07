@@ -1,4 +1,5 @@
 ---
+
 title: "Polyfit Adjustable Kettlebell | 5 lb - 12 lb | Kettlebells W"
 seo_title: "Polyfit Adjustable Kettlebell | 5 lb - 12 lb | Ket Review"
 meta_description: "Our full polyfit adjustable kettlebell | 5 lb - 12 lb | kettlebells w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHD4TX8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xbM2kBqyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for your first kettlebell or trying to build a home gym in a cramped apartment, the Polyfit Adjustable Kettlebell is the kind of product that makes you wonder why more companies don't do this. It replaces an entire rack of fixed-weight bells with a single unit that adjusts from 5 to 12 lb in 2.5 lb increments. At 4.8 stars across 240 ratings, buyers are clearly getting something right — but there are limits to what a 12 lb cap means for your training.

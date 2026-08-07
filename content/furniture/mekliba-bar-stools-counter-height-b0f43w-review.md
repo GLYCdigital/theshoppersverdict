@@ -1,4 +1,5 @@
 ---
+
 title: "MEKLIBA Bar Stools Counter Height"
 seo_title: "MEKLIBA Bar Stools Counter Height Review: Verdict | TSV"
 meta_description: "Our full mekliba bar stools counter height review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F43WD277/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yUyVuZFOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen island is standard counter height (36 inches), you've likely waded through hundreds of stool listings that all look the same. The MEKLIBA Counter Height Bar Stools stand out for one simple reason: they don't wobble. That's not a given at this price point, and it's the first thing you'll notice when you sit down. Let's get into the details.

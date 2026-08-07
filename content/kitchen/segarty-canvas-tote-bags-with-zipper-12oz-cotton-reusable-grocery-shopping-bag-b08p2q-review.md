@@ -1,4 +1,5 @@
 ---
+
 title: "Segarty Canvas Tote Bags with Zipper, 12Oz Cotton Reusable G"
 seo_title: "Segarty Canvas Tote Bags with Zipper, 12Oz Cotton  Review"
 meta_description: "Our full segarty canvas tote bags with zipper, 12oz cotton reusable g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08P2QYDRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p7jOuh+KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Segarty Canvas Tote Bags with Zipper Review: The 12oz Cotton Workhorse

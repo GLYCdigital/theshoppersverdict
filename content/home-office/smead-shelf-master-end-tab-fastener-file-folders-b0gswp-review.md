@@ -1,4 +1,5 @@
 ---
+
 title: "Smead Shelf-Master End Tab Fastener File Folders"
 seo_title: "Smead Shelf-Master End Tab Fastener File Folders Review: "
 meta_description: "Our full smead shelf-master end tab fastener file folders review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSWPYX13/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AVzxbVXhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about file folders: most are flimsy cardboard that buckle the moment you add a second staple. The Smead Shelf-Master End Tab Fastener File Folders are not that. With a 4.7-star average across 235 ratings, this is the folder you buy when you’re tired of re-filing the same paperwork twice a year.

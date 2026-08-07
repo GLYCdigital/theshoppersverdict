@@ -1,4 +1,5 @@
 ---
+
 title: "DJI Expansion Battery 2000, 2048Wh High-Capacity Expansion B"
 seo_title: "DJI Expansion Battery 2000 Review: 2048Wh Power Station"
 meta_description: "DJI Expansion Battery 2000 review: 2048Wh capacity, 2000W output, and seamless integration with the DJI Power 2000. Is it worth the premium? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKFW7ZVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GdpUiAdLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Doubles your DJI Power 2000 capacity to 4096Wh without extra cables or messy DIY wiring"
   - "Charges from 0-100% in under 2 hours via the main unit's fast AC input"
   - "Seamless hot-swap design with zero downtime when connecting to the base station"
-cons:
+cons: 
   - "Only works with the DJI Power 2000 — no standalone AC outlets or USB ports on the expansion unit itself"
   - "At ~40 lbs, it's heavy and the handle placement makes two-person carries awkward"
   - "Premium price per watt-hour compared to standalone power stations with similar capacity"
+
 ---
 
 ## The Smartest Way to Double Your Backup Power

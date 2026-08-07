@@ -1,4 +1,5 @@
 ---
+
 title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/s, Interna"
 seo_title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/ Review"
 meta_description: "Our full fanxiangnvme ssd pcie gen4 m.2 ssd, up to 5200 mb/s, interna review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2QLYQ2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pS27vJ21L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/s, Interna"
 seo_title: "fanxiang NVMe SSD Gen4 Review: 5200 MB/s Speed"

@@ -1,4 +1,5 @@
 ---
+
 title: "INFINITI PRO CONAIR 3-in-1 Styling Hair Dryer, 1875W Blow Dr"
 seo_title: "INFINITI PRO CONAIR 3-in-1 Styling Hair Dryer, 187 Review"
 meta_description: "Our full infiniti pro conair 3-in-1 styling hair dryer, 1875w blow dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B074PTZCNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K1ZarHQyL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # INFINITI PRO CONAIR 3-in-1 Styling Hair Dryer Review: One Tool, Three Jobs — Does It Deliver?

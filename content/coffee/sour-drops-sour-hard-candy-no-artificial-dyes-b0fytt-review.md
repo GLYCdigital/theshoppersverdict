@@ -1,4 +1,5 @@
 ---
+
 title: "Sour Drops - Sour Hard Candy - No Artificial Dyes"
 seo_title: "Sour Drops - Sour Hard Candy - No Artificial Dyes Review:"
 meta_description: "Our full sour drops - sour hard candy - no artificial dyes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYTT3P6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aC7GPuGhL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever scanned a candy label and put it back because the ingredient list reads like a chemistry exam, Sour Drops is the answer you've been looking for. This isn't another gimmicky "clean" candy that sacrifices flavor for virtue — it delivers a genuinely aggressive sour punch while skipping the Red 40 and Yellow 5 that dominate the category. At 4.4 stars across 220 ratings, it's clearly connecting with shoppers who want the tang without the toxins.

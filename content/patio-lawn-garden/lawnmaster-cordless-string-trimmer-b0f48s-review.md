@@ -1,4 +1,5 @@
 ---
+
 title: "LawnMaster Cordless String Trimmer"
 seo_title: "LawnMaster Cordless String Trimmer Review: Verdict | TSV"
 meta_description: "Our full lawnmaster cordless string trimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F48S1ZNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ihhk70+jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The LawnMaster Cordless String Trimmer is the right tool for a specific person — the homeowner with a quarter-acre or less who's tired of pulling cords and mixing fuel. It won't replace a commercial-grade gas trimmer, and it's not trying to. For $100–$130 (check current pricing), you get a lightweight, low-maintenance edger that handles routine lawn upkeep without the headache. The 4.1-star average across 204 ratings reflects that reality: solid performance for the price, with predictable compromises.

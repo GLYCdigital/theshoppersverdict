@@ -1,23 +1,25 @@
 ---
+
 title: "Aclorol COB LED Light Strip for Home"
 seo_title: "Aclorol COB LED Light Strip Review: Worth It? (2026)"
 meta_description: "Honest Aclorol COB LED light strip review: brightness, install ease, and value. See pros, cons, and who should buy before you spend."
 slug: "aclorol-cob-led-light-strip-for-home-b0fj5n-review"
 image_alt: "Aclorol COB LED light strip installed under a kitchen cabinet showing even, shadow-free illumination"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJ5NLSCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UfAgg9AeL._AC_SL1200_.jpg"
-pros:  
+pros: 
   - "COB (chip-on-board) design delivers a continuous, shadow-free light line—no visible LED dots even at close range"  
   - "Adhesive backing holds firmly on clean surfaces; included clips add extra security for corners or vertical runs"  
   - "Cuttable at marked intervals (usually every 1–2 inches) so you can size it to exact cabinet or shelf lengths"  
-cons:  
+cons: 
   - "No dimmer or remote in the base package—you'll need a separate controller for brightness adjustments"  
   - "Adhesive is one-time use; repositioning after initial stick requires new tape or clips (not included in all kits)"
+
 ---
 
 If you’ve ever installed a standard LED strip and cringed at the dotted, “spotlight” effect under your cabinets, the Aclorol COB light strip is the fix. Unlike older SMD strips that place individual diodes every few inches, this uses chip-on-board technology—a continuous line of light that looks more like a slim fluorescent tube than a string of Christmas lights. At 4.4 stars from 220 ratings, it’s not perfect, but for under-cabinet task lighting, shelving, or TV backlighting, it punches well above its price point.

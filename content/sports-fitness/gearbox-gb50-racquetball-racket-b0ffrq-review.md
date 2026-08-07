@@ -1,4 +1,5 @@
 ---
+
 title: "Gearbox GB50 Racquetball Racket"
 seo_title: "Gearbox GB50 Racquetball Racket Review: Verdict | TSV"
 meta_description: "Our full gearbox gb50 racquetball racket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FFRQ2TQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jB48ccTyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Gearbox GB50 doesn't whisper. It's a racket designed for one thing: putting the ball through the back wall. If you're an intermediate or advanced player who lives on power serves and aggressive ceiling-ball attacks, this frame deserves a serious look. But it's not forgiving, and it's not for everyone.

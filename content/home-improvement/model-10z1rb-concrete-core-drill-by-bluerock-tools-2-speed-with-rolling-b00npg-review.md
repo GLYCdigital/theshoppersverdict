@@ -1,4 +1,5 @@
 ---
+
 title: "Model 10Z1RB Concrete Core Drill by BLUEROCK Tools - 2 Speed"
 seo_title: "Model 10Z1RB Concrete Core Drill by BLUEROCK Tools Review"
 meta_description: "Our full model 10z1rb concrete core drill by bluerock tools - 2 speed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00NPGQ4BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oBOJeikDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to punch a 4-inch hole through foundation concrete with a hammer drill and a spade bit, you already know the pain: an hour of vibration, clouds of silica dust, and a ragged hole that's barely usable. The BLUEROCK Tools Model 10Z1RB exists to end that nonsense. This is a purpose-built core drilling rig, not a multitool compromise, and that focus is exactly why it holds a 4.5-star average across 225 verified ratings.

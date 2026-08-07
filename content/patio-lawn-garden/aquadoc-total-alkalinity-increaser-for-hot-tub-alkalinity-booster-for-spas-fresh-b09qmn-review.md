@@ -1,4 +1,5 @@
 ---
+
 title: "AquaDoc Total Alkalinity Increaser for Hot Tub - Alkalinity"
 seo_title: "AquaDoc Alkalinity Increaser Review: Hot Tub Booster"
 meta_description: "AquaDoc Total Alkalinity Increaser for hot tubs: Does it stabilize pH? Real buyer reviews, dosage tips, and honest verdict on this spa chemical booster."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09QMNS8KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bZHoosDEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves quickly in warm spa water with minimal cloudiness — most users report clear water within 30 minutes"
   - "One 2.5-lb bucket treats roughly 10,000 gallons, making it economical for weekly maintenance"
   - "No fillers or dyes; pure sodium bicarbonate formulation that won't foam or stain spa surfaces"
-cons:
+cons: 
   - "No measuring scoop included — you'll need your own teaspoon or kitchen measure for accurate dosing"
   - "Sodium bicarbonate can cause temporary whitish film on heater elements if poured directly into the skimmer"
+
 ---
 
 **Review Body:**

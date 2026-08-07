@@ -1,4 +1,5 @@
 ---
+
 title: "Learning Resources Rock 'n Gem Surprise, Sorting, Matching &"
 seo_title: "Learning Resources Rock 'n Gem Surprise, Sorting,  Review"
 meta_description: "Our full learning resources rock 'n gem surprise, sorting, matching & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08DR8M6S5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LG40-ACHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a toddler who loves to smash things, the Learning Resources Rock 'n Gem Surprise turns that destructive energy into something productive. This sorting and matching activity set has earned a 4.8-star average across 240 Amazon ratings, and after digging into what buyers actually say, the praise is largely deserved — with a few caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Alessi Autentico, Premium Seasoned Risotto, Italian Arborio"
 seo_title: "Alessi Autentico Risotto Review: Seasoned Arborio Rice"
 meta_description: "Alessi Autentico seasoned Arborio risotto review: flavor, texture, prep ease, and value. See if this 8oz Italian rice earns its 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DGP1YZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZJ+DPIm-L._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-measured seasoning packet delivers consistent, restaurant-level flavor without a pantry restock"
   - "True Italian Arborio rice with proper starch release — creamy texture without constant stirring"
   - "Ready in under 20 minutes with a forgiving one-pot method that tolerates busy cooks"
-cons:
+cons: 
   - "8 oz pouch yields only about 3 servings — small households may finish it in one sitting"
   - "Seasoning is assertive; those on low-sodium diets will find it too salty right out of the box"
+
 ---
 
 This isn't your average boxed rice. Alessi Autentico Premium Seasoned Risotto skips the powdered cheese packet and gimmicky "just add water" shortcuts. What you get is actual Italian Arborio rice — the short-grain variety with the high starch content that gives risotto its signature creamy bite — paired with a thoughtfully blended seasoning mix. At 4.6 stars across 229 Amazon ratings, it's clearly earning its keep in real kitchens.

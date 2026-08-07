@@ -1,4 +1,5 @@
 ---
+
 title: "Slay The Spire: The Board Game - Cooperative Fantasy Board G"
 seo_title: "Slay The Spire: The Board Game - Cooperative Fanta Review"
 meta_description: "Our full slay the spire: the board game - cooperative fantasy board g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8LZ6W9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810uUzqbiPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've sunk 200 hours into the digital Slay the Spire, you already know the question: can a deckbuilding roguelike survive the jump to cardboard? The short answer is yes — but with some caveats. This board game adaptation doesn't just copy the video game; it re-engineers it for a tabletop format, and mostly succeeds.

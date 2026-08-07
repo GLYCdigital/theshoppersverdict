@@ -1,23 +1,25 @@
 ---
+
 title: "Biigzzia Gaming Chair Office Chair"
 seo_title: "Biigzzia Gaming Chair Review: Honest Verdict for 2026 inch  "
 meta_description: "Biigzzia gaming chair review: 4.4-star rated. Tested comfort, build, and value. See who should buy it, who should skip, and real buyer feedback."
 slug: "biigzzia-gaming-chair-office-chair-b0cwr9-review"
 image_alt: "Biigzzia gaming chair in black with lumbar support and adjustable armrests"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CWR9SYLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HVXP1TKPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Solid steel frame and heavy-duty gas lift rated for 300+ lbs — no wobble at full height"  
   - "Multi-directional 3D armrests (up/down, left/right, rotate) that actually stay put once adjusted"  
   - "Thick cold-cure foam padding — holds shape after 6+ hour sessions, unlike cheaper mesh rivals"  
-cons:  
+cons: 
   - "Assembly takes 25–35 minutes; the included hex wrench strips easily on the seat bolts"  
   - "Fake leather (PU) gets sticky in non-AC rooms during summer — fabric version is the better pick for hot climates"
+
 ---
 
 **Opening Hook**  

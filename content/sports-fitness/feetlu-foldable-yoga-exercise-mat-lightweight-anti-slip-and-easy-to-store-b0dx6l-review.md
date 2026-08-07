@@ -1,4 +1,5 @@
 ---
+
 title: "Feetlu Foldable Yoga Exercise Mat – Lightweight, Anti-Slip"
 seo_title: "Feetlu Foldable Yoga Mat Review: Lightweight & Anti-Slip (2026)"
 meta_description: "Feetlu Foldable Yoga Mat review: Is this lightweight, anti-slip mat worth it? We break down grip, portability, real user feedback, and who it suits."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DX6LFZTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PLeWcUfBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely foldable design (not just rollable) — stores flat in a closet or under a bed without curling at the edges"
   - "Textured TPE surface provides solid grip in downward dog and hot yoga sessions without being sticky or tacky"
   - "Weighs roughly 2.5 lbs — light enough to carry in a tote bag, dense enough not to slide on hardwood"
-cons:
+cons: 
   - "Thinner than standard 6mm mats at 5mm — kneecaps may complain during long floor poses like camel or pigeon"
   - "Fold creases take a few sessions to flatten out completely; expect some bumps in the first week"
+
 ---
 
 **The Verdict: A Smart Middle Ground Between Travel Mat and Studio Mat**

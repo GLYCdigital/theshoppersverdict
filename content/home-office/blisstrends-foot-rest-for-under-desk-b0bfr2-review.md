@@ -1,4 +1,5 @@
 ---
+
 title: "BlissTrends Foot Rest for Under Desk"
 seo_title: "BlissTrends Foot Rest Review: Worth It? (2026)"
 meta_description: "BlissTrends Foot Rest for Under Desk review: 4.4-star rating, 220+ reviews. We test comfort, height options, and build quality. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFR2XXPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x+otHOTeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three adjustable height angles (15°, 30°, 45°) let you find the exact leg position that kills lower-back fatigue"
   - "Textured non-slip top surface actually grips socks and bare feet — no sliding around mid-task"
   - "Anti-tip base with rubber feet stays planted on carpet and hardwood; doesn't scoot when you shift weight"
-cons:
+cons: 
   - "Height adjustment is a manual two-step process — you lift the top plate and slide the support bar, not a one-touch lever"
   - At roughly 17 x 13 inches, it's compact; taller users (6'2 inch+) may want a longer platform for full leg support
+
 ---
 
 Skip the part where you jam a cardboard box under your desk. The BlissTrends Foot Rest is a legit upgrade for anyone who's logged a full work week and felt it in their hamstrings. With 220 ratings averaging 4.4 stars, it's clearly doing something right. Here's what I found after putting it through real desk sessions.

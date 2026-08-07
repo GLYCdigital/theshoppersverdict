@@ -1,4 +1,5 @@
 ---
+
 title: "Dunwell Photo Album Refill Pages - (4x6), 3-Ring Binder Phot"
 seo_title: "Dunwell Photo Refill Pages Review: 4x6 Binder Pockets"
 meta_description: "Dunwell 4x6 photo refill pages for 3-ring binders: top-loading, archival-safe pockets. Read our honest review of durability, fit, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9D7CFH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cfijKZ2eL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy 8-mil clear polypropylene resists tearing and stays flat, unlike flimsy 3-mil pages"
   - "Top-loading design lets you swap photos without removing the page from the binder"
   - "Acid-free and archival-safe, so your prints won't yellow or stick over time"
-cons:
+cons: 
   - "Only fits 1.5-inch or larger 3-ring binders — standard 1-inch binders won't close properly"
   - "No black backing; photos can show through on the reverse side if you only fill one slot"
+
 ---
 
 If you're still stuffing loose 4x6 prints into shoeboxes, the Dunwell Photo Album Refill Pages are the $9 fix you didn't know you needed. This 30-count pack of top-loading, archival-safe pockets turns any 3-ring binder into a proper photo album — no adhesive, no magnets, no mess. At 4.7 stars from 235 ratings, it's clearly working for most people. But let's talk about whether it'll work for you.

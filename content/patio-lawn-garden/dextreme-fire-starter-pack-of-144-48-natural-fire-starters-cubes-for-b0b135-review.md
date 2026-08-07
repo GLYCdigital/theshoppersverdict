@@ -1,4 +1,5 @@
 ---
+
 title: "Dextreme Fire Starter Pack of 144/48 Natural Fire Starters C"
 seo_title: "Dextreme Fire Starters Review: 144 Natural Cubes Tested"
 meta_description: "Dextreme Fire Starter pack of 144 natural cubes reviewed: burn time, smoke, chimney use, and value. See if these eco-friendly starters beat newspaper."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B135YHX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-DHmQcoFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Each 1.5-inch cube burns 10-12 minutes with a steady, hot flame that reliably ignites charcoal without lighter fluid"
   - "Made from compressed sawdust and food-grade paraffin wax — no chemical smell, safe for cooking fires"
   - "Weatherproof packaging survives rain and humidity; cubes don't crumble or absorb moisture in storage"
-cons:
+cons: 
   - "No individual wrapper means cubes can leave waxy residue on fingers when handling"
   - "The 144-count bulk bag costs more upfront than a cheap chimney starter, though per-use cost is lower"
   - "Cubes produce moderate smoke during the first 30 seconds before the flame stabilizes"
+
 ---
 
 Let's cut through the noise: starting a charcoal chimney shouldn't require a chemistry degree, a pile of crumpled newspaper, and a prayer. The Dextreme Fire Starter pack of 144 natural cubes aims to make that ritual obsolete. After 220 Amazon ratings averaging 4.4 stars, these little sawdust-and-wax bricks have a following. Here's whether they deserve your money.

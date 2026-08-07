@@ -1,4 +1,5 @@
 ---
+
 title: "Brizled Solar Fence Lights Outdoor"
 seo_title: "Brizled Solar Fence Lights Review: Bright, Durable, Worth It?"
 meta_description: "Honest Brizled Solar Fence Lights review: brightness, battery life, build quality, and real owner feedback. Is this 4.5-star pick worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXTQMLZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uVqt2BQEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three brightness modes (dim, medium, bright) let you stretch battery life from 6 to 12+ hours depending on season"
   - "IP65 weatherproof rating with aluminum housing — handles rain, snow, and direct sun without cracking or fading"
   - "Tool-free installation via included screws or adhesive plates; each light is independent so one failure doesn't kill a string"
-cons:
+cons: 
   - "Solar panel is integrated into the fixture — if your fence sits in deep shade most of the day, runtime will be disappointing"
   - "Warm white only — no cool white or color-changing options for those wanting a modern or festive look"
+
 ---
 
 If your fence line turns into a black void the moment the sun goes down, you've probably already searched "solar fence lights" and waded through a sea of cheap plastic options. The Brizled Solar Fence Lights sit at a 4.5-star average across 225 ratings, and after digging through what owners actually say, there's a clear reason: these are built like a slightly more serious tool than the typical big-box solar novelty.

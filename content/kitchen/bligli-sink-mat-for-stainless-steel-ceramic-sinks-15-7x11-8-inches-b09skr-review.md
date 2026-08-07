@@ -1,4 +1,5 @@
 ---
+
 title: "Bligli Sink Mat for Stainless Steel/Ceramic Sinks, 15.7x11.8 inch"
 seo_title: "Bligli Sink Mat Review: Scratch-Proof 15.7x11.8 Protection"
 meta_description: "Honest Bligli sink mat review: Does this 15.7x11.8 silicone mat protect stainless & ceramic sinks? Tested for fit, drainage & durability. Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09SKRS2Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UEHYucytL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 5mm silicone cushion actually absorbs impact from dropped glassware and heavy cast iron"
   - "Raised diamond-grid pattern lifts dishes off the sink floor, allowing full water drainage and airflow"
   - "Non-slip backing grips wet stainless and ceramic surfaces without sliding during scrubbing"
-cons:
+cons: 
   - "15.7x11.8 size covers only about half of a standard double-basin — you may need two for full coverage"
   - "Light-colored variants show hard-water stains and food residue quickly; dark colors hide it better"
+
 ---
 
 If you've ever winced at the sound of a ceramic plate clinking against stainless steel, this mat is the quiet upgrade your sink needs. But here's the catch — its 15.7x11.8-inch footprint won't cover your whole basin, and that's the first thing to know before you click buy.

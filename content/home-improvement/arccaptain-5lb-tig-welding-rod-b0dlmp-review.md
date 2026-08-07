@@ -1,23 +1,25 @@
 ---
+
 title: "ARCCAPTAIN 5LB TIG Welding Rod Review"
 seo_title: "ARCCAPTAIN 5LB TIG Welding Rod Review: Worth It?"
 meta_description: "ARCCAPTAIN 5LB TIG welding rod review: real performance, steel & aluminum options, downsides, and who should buy. 4.6/5 verdict from 235 ratings."
 slug: "arccaptain-5lb-tig-welding-rod-b0dlmp-review"
 image_alt: "ARCCAPTAIN 5LB TIG welding rod bundle with steel and aluminum filler rods"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLMPXXT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rMKKeO+GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Clean, consistent rod diameter with minimal surface contamination — less cleanup between passes"  
   - "5-pound bundle covers multiple jobs; ER70S-6 and ER4043 options handle steel and aluminum"  
   - "Straight, uniform rods feed smoothly through standard TIG torches without jamming"  
-cons:  
+cons: 
   - "No color-coding or labels on individual rods — you must track which bundle is which"  
   - "Thin-wall aluminum rods can bend if you're heavy-handed with the collet"
+
 ---
 
 If you've burned through a few overpriced 1-pound packs of TIG rod, you already know the pain: inconsistent diameter, rust spots, and the constant re-grinding to get a clean tip. The ARCCAPTAIN 5LB TIG Welding Rod bundle aims to fix that by giving you serious volume at a practical price point. Here’s the breakdown after handling the rods, checking the specs, and reading through 235 verified buyer experiences.

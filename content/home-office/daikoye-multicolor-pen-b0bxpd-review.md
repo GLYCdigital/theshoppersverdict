@@ -1,4 +1,5 @@
 ---
+
 title: "DAIKOYE Multicolor pen"
 seo_title: "DAIKOYE Multicolor Pen Review: 8 Colors in One, Worth It?"
 meta_description: "DAIKOYE Multicolor pen review: 8 retractable ink colors in one barrel. Tested for smoothness, smudge resistance, and daily desk use. See pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BXPDC6X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nd48Q4aiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Eight retractable colors in one barrel — no more digging through a pencil case for a highlighter or red pen"
   - "Knurled metal grip section keeps fingers from slipping during long note-taking sessions"
   - "0.7mm ballpoint writes cleanly on cheap office paper without bleed-through or ghosting"
-cons:
+cons: 
   - "Barrel is noticeably thicker than a standard pen — cramped hands will feel it after extended use"
   - "Color mechanism requires a firm click; soft presses sometimes skip past the intended color"
+
 ---
 
 Let’s be honest: most multicolor pens are gimmicks. They’re either built like a toy, write like a dried-out marker, or both. The DAIKOYE Multicolor Pen, however, is trying something different. With eight retractable colors packed into a single aluminum barrel, it’s aiming to be the only pen you need on your desk. Does it pull that off? Mostly, yes — with a few caveats worth knowing before you click "add to cart."

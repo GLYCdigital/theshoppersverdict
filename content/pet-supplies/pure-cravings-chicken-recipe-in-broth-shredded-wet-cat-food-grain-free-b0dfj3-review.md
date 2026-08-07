@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Cravings Chicken Recipe in Broth, Shredded Wet Cat Food"
 seo_title: "Pure Cravings Chicken Recipe in Broth, Shredded We Review"
 meta_description: "Our full pure cravings chicken recipe in broth, shredded wet cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DFJ3FVGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IyNfLP60L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat turns up its nose at pâté and demands visible meat, Pure Cravings Chicken Recipe in Broth is worth a serious look. This shredded wet food comes in 3-ounce pouches and delivers exactly what the name promises: identifiable chicken shreds suspended in a light broth. For finicky felines who eat with their eyes first, that visual appeal matters — and it's the reason this product holds a solid 4.1-star average across 204 ratings.

@@ -1,16 +1,17 @@
 ---
+
 title: "Burr Coffee Grinder with Anti-Static Technology, Electric Conical Bean Grinder with Touch Screen & 60 Settings for Espresso to French Press, 1-60s Timer & 1-8 Cup Dosing, Stainless Steel, Black"
 seo_title: "Burr Coffee Grinder Review: Verdict (4.2/5) | TSV"
 meta_description: "It's easy to use, quiet, and offers many grind size settings, making it 73+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "burr-coffee-grinder-with-anti-static-technology-electric-conical-bean-grinder-with-review"
 image_alt: "Burr Coffee Grinder with Anti-Static Technology, Electric Conical Bean Grinder with Touch Screen & 60 Settings for Espre"
-keywords:
+keywords: 
   - "burr coffee grinder review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Burr Coffee Grinder with?"
     answer: "It's easy to use, quiet, and offers many grind size settings, making it perfect for different brewing met... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Burr Coffee Grinder with?"
@@ -23,12 +24,13 @@ review_count: 73
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GM71GW4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jkuii4NCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It's easy to use, quiet, and offers many grind size settings."
   - "It is quiet, and it grinds very evenly."
   - "It is simple to use, works efficiently."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 # Burr Coffee Grinder with Anti-Static Technology: The $80 Grinder That Punches Above Its Weight

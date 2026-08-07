@@ -1,4 +1,5 @@
 ---
+
 title: "Avocahom Folding Fish Cleaning Table Portable Camping Sink T"
 seo_title: "Avocahom Folding Fish Cleaning Table Review: Camp Sink"
 meta_description: "Avocahom folding fish cleaning table review: portable camp sink with faucet, drainage. Tested for stability, weight, and cleanup. Honest verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BL34RXFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p97VEoU-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gravity-fed faucet works without batteries or pumps — just fill the 5-gallon tank and get steady water flow"
   - "Folds flat to roughly the size of a briefcase; weighs about 12 pounds, so it's actually portable, not just technically foldable"
   - "Drainage hose connects to standard 5-gallon bucket threads — no adapter hunting required"
-cons:
+cons: 
   - "Legs feel wobbly on uneven ground; you'll want a level campsite or a small shim under one foot"
   - "Tabletop is a single molded plastic piece — no cutting board surface, so you'll scratch it if you're aggressive with fillet knives"
+
 ---
 
 You've cleaned one too many fish on a log, hunched over a cooler, or balanced a cutting board on your tailgate. That's the problem the Avocahom Folding Fish Cleaning Table solves. It's a self-contained, gravity-fed cleaning station that packs flat and sets up in under a minute. At 4.5 stars from 225 Amazon shoppers, it's clearly earning its keep in campers' rigs — but it's not without quirks. Here's the honest breakdown before you spend.

@@ -1,4 +1,5 @@
 ---
+
 title: "PANKAY Portable Toilet with Pop up Privacy Tent, X Large Cam"
 seo_title: "PANKAY Portable Toilet with Pop up Privacy Tent, X Review"
 meta_description: "Our full pankay portable toilet with pop up privacy tent, x large cam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C3TCL8BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZHR1MujyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # PANKAY Portable Toilet with Pop-Up Privacy Tent: The Honest Field Test

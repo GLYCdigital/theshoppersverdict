@@ -1,4 +1,5 @@
 ---
+
 title: "KLSS Black Pendant Light Fixture for Kitchen Island"
 seo_title: "KLSS Black Pendant Light Fixture for Kitchen Islan Review"
 meta_description: "Our full klss black pendant light fixture for kitchen island review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7T3VDPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41gIm9gk3wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: if you're staring at a bare ceiling over your kitchen island, the KLSS black pendant is the kind of fixture that gets installed and immediately makes you wonder why you waited so long. With a 4.6 average across 229 ratings, it's clearly doing something right. Here's what that something actually is.

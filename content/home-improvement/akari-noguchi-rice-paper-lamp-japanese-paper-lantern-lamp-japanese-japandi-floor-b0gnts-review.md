@@ -1,23 +1,25 @@
 ---
+
 title: "Akari Noguchi Rice Paper Lamp â€¢ Japanese Paper Lantern Lam"
 seo_title: "Akari Noguchi Rice Paper Lamp Review: Warm Japandi Glow"
 meta_description: "Akari Noguchi rice paper lamp review: build quality, light output, and whether this Japandi floor lamp justifies the hype. Honest buyer's verdict."
 slug: "akari-noguchi-rice-paper-lamp-japanese-paper-lantern-lamp-japanese-japandi-floor-b0gnts-review"
 image_alt: "Akari Noguchi rice paper lamp glowing warmly in a modern Japandi living room"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GNTS44PL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bWflpQ-oL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine washi paper shade creates soft, diffused light with no hot spots"  
   - "Solid bamboo frame holds up to daily use without warping or creaking"  
   - "True to Noguchi's minimalist proportions — 27 inches tall, 18-inch diameter base"  
-cons:  
+cons: 
   - "Bulb not included; needs a specific E26 LED (standard incandescent runs too hot)"  
   - "Paper shade is delicate — punctures easily if brushed by pets or vacuum edges"
+
 ---
 
 # Akari Noguchi Rice Paper Lamp Review: Is the Japandi Icon Worth the Hype?

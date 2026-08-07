@@ -1,4 +1,5 @@
 ---
+
 title: "QPAU Inflatable Football Toss Game for Pool â€“ Water Footba"
 seo_title: "QPAU Inflatable Football Toss Game for Pool â€“ Wa Review"
 meta_description: "Our full qpau inflatable football toss game for pool â€“ water footba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXG1L4FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811iMbU0VKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your pool days have devolved into floating on a noodle and staring at the sky, the QPAU Inflatable Football Toss Game might be the shake-up you need. This is a floating target game with three scoring holes, four water footballs, and a whole lot of competitive potential. At 4.5 stars from 225 ratings, it's clearly landing well with most buyers. But is it worth your money? Let's break down what you actually get.

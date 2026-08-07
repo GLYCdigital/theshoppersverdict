@@ -1,4 +1,5 @@
 ---
+
 title: "Peasur Solar Motion Lights Outdoor, Solar Security Light wit"
 seo_title: "Peasur Solar Motion Lights Outdoor, Solar Security Review"
 meta_description: "Our full peasur solar motion lights outdoor, solar security light wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9DF54YY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UBi3UFViL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cheap solar lights: most are disposable junk that stop charging by October. The Peasur Solar Motion Lights at $7.99 for a 3-pack sit in a different category — they're the budget pick that actually delivers.

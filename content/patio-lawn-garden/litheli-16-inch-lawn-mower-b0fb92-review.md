@@ -1,4 +1,5 @@
 ---
+
 title: "Litheli 16 inch Lawn Mower"
 seo_title: "Litheli 16 inch Lawn Mower Review: Verdict | TSV"
 meta_description: "Our full litheli 16 inch lawn mower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB92ZFQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-IrS1HemL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Litheli 16-inch lawn mower a genuine budget win, or just another cordless also-ran?** With a 4.1-star average across 204 ratings, the numbers say it's doing something right. But numbers don't tell you whether it'll actually finish your yard on one charge. Let's dig in.

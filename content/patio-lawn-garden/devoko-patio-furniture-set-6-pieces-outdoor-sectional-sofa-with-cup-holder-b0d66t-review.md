@@ -1,4 +1,5 @@
 ---
+
 title: "Devoko Patio Furniture Set,6 Pieces Outdoor Sectional Sofa w"
 seo_title: "Devoko 6-Piece Outdoor Sectional Review: Worth It?"
 meta_description: "Devoko 6-piece outdoor sectional sofa review: build quality, comfort, assembly, and real buyer feedback. Is this patio set worth your money?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D66TT96J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PtxpMJ1zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modular 6-piece design with 2 cup holders built into the armrests — genuinely functional, not decorative"
   - "Textilene mesh seating that drains water and dries fast, resisting mold in humid climates"
   - "Frames are powder-coated steel with rust-resistant finish, not cheap aluminum that bends"
-cons:
+cons: 
   - "Assembly requires two people and about 90 minutes; the allen wrench included is low quality"
   - "Cushions are on the firm side — if you want plush lounging, these won't deliver"
   - "No storage option; cushions must be brought inside or covered during heavy rain"
+
 ---
 
 # Devoko 6-Piece Outdoor Sectional: A Solid Mid-Range Patio Upgrade

@@ -1,4 +1,5 @@
 ---
+
 title: "Masthome Cookie Jar, 1 Gallon Glass Jar with Lid, Wide Mouth"
 seo_title: "Masthome Cookie Jar, 1 Gallon Glass Jar with Lid,  Review"
 meta_description: "Our full masthome cookie jar, 1 gallon glass jar with lid, wide mouth review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G5MFQ615/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71esF54kvFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Masthome Cookie Jar Worth $46? A Shopper's Honest Take

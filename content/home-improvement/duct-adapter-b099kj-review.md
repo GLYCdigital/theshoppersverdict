@@ -1,4 +1,5 @@
 ---
+
 title: "Duct Adapter"
 seo_title: "Duct Adapter Review: Smart HVAC Connector (2026)"
 meta_description: "Read our honest Duct Adapter review: build quality, fit, real-world performance, and who should buy it. See pros, cons, and user feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B099KJC6B1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u84y7hcKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge galvanized steel collar holds its shape under tension — no crushing or warping when flex hose is clamped tight"
   - "Universal 4-inch round fitting matches both standard flex duct and rigid metal pipe, eliminating adapter guesswork"
   - "Pre-drilled tabs and a smooth inner lip make securing with foil tape or zip ties fast, even in tight attic spaces"
-cons:
+cons: 
   - "Lacks an integrated damper — if you need airflow control, you'll buy a separate inline unit"
   - "No gasket included; sealing to irregular duct openings requires extra mastic or foil tape for airtight joints"
+
 ---
 
 If you've ever wrestled with a floppy flex duct and a metal collar that won't stay put, you know the frustration. This Duct Adapter aims to be the last connector you'll buy for your 4-inch runs, and for the most part, it delivers. With 220 ratings and a solid 4.4-star average, it's clearly earning its keep in HVAC installs, dryer vent hookups, and bathroom exhaust retrofits. But is it the universal solution the listing implies? Let's dig into the details.

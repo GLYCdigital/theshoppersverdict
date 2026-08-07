@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman Countertop Microwave Oven cook"
 seo_title: "Chefman Countertop Microwave Review (2026): Is It Worth It?"
 meta_description: "Honest Chefman countertop microwave review: performance, build quality, and real buyer feedback. See who should buy it and who should skip it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CBVSNC5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613qU-MfIjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact footprint (about 0.7 cu ft) fits tight countertops without sacrificing a usable 10-inch turntable"
   - "Preset one-touch buttons for popcorn, potato, and beverage actually work — not just decorative labels"
   - "Child safety lock and stainless steel exterior resist fingerprints better than most budget microwaves"
-cons:
+cons: 
   - "700 watts is on the low end — expect longer cook times than your old 1000W+ unit"
   - "The interior light is dim; hard to check doneness mid-cycle without opening the door"
   - "No convection or grilling modes — this is strictly a basic microwave, not a multi-function unit"
+
 ---
 
 **The Chefman Countertop Microwave: Small Footprint, Honest Performance**

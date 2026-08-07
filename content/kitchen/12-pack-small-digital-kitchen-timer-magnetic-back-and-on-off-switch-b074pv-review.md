@@ -1,4 +1,5 @@
 ---
+
 title: "12 Pack Small Digital Kitchen Timer Magnetic Back and ON/Off"
 seo_title: "12 Pack Digital Kitchen Timer Review: Magnetic, ON/Off Switch"
 meta_description: "Honest review of the 12-pack magnetic digital kitchen timer with ON/Off switch. Compact, loud, and reliable. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B074PV9Y7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ij8NIAt7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Loud 80dB alarm that's audible through walls and over running water"
   - "True ON/OFF switch on each unit — no accidental battery drain"
   - "Strong magnetic back that holds firmly on fridges, ovens, and range hoods"
-cons:
+cons: 
   - "No count-up mode — countdown only, which limits kitchen use cases"
   - "Plastic body feels light; rough handling could crack the casing"
+
 ---
 
 ## Twelve timers, zero excuses for burnt toast

@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M12. BRUSHLESS Pruning Shears"
 seo_title: "Milwaukee Electric - M12. BRUSHLESS Pruning Shears Review"
 meta_description: "Our full milwaukee electric - m12. brushless pruning shears review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CR5N3BCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kjDTTVBuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you're pruning more than a few rose bushes a season, manual pruners will wreck your hands. The Milwaukee M12 Brushless Pruning Shears solve that problem with a 1.25-inch cutting capacity and a trigger that does all the work. But at this price point, you need to know exactly what you're getting before you commit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Galaxy Tab A8 Android Tablet, 10.5â€"
 seo_title: "Samsung Galaxy Tab A8 Android Tablet, 10.5â€ Review: Verd"
 meta_description: "Our full samsung galaxy tab a8 android tablet, 10.5â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09P29VXG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61krikJxTmL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Budget Tablet That Actually Earns Its Place on Your Desk

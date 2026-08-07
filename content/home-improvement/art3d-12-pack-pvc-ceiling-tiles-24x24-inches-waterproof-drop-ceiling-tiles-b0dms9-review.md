@@ -1,4 +1,5 @@
 ---
+
 title: "Art3d 12 Pack PVC Ceiling Tiles 24x24 Inches Waterproof Drop"
 seo_title: "Art3d PVC Ceiling Tiles Review: 12 Pack 24x24 Waterproof Drop"
 meta_description: "Honest Art3d 12 Pack PVC Ceiling Tiles review. See how these 24x24 waterproof drop tiles perform, install, and hold up. Read pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMS9KDB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DPJ6GG9FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof — won't sag, warp, or stain even in humid basements or bathrooms where mineral fiber tiles fail"
   - "Each 24x24 tile weighs about 1.5 lbs, so one person can install an entire 12-pack ceiling without help"
   - "Cuts cleanly with a utility knife or tin snips, and the white PVC finish needs no painting or sealing"
-cons:
+cons: 
   - "The glossy white surface shows dust and fingerprints more readily than textured mineral fiber tiles"
   - "At roughly $3 per square foot, it costs noticeably more than traditional acoustic ceiling tiles"
+
 ---
 
 If you're staring at a stained, sagging drop ceiling and dreading the replacement cost, the Art3d 12 Pack PVC Ceiling Tiles deserve a hard look. These 24x24-inch waterproof tiles solve the two biggest problems with standard ceiling tiles: moisture damage and weight. But they're not a perfect drop-in replacement for everyone, and the tradeoffs matter.

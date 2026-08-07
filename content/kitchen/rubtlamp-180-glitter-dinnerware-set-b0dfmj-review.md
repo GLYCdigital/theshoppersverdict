@@ -1,4 +1,5 @@
 ---
+
 title: "Rubtlamp 180 Glitter Dinnerware Set"
 seo_title: "Rubtlamp 180 Glitter Dinnerware Set Review: Verdict | TSV"
 meta_description: "Our full rubtlamp 180 glitter dinnerware set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFMJNJC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91dnF0qBS8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of plain white plates that show every fork scratch, the Rubtlamp 180 Glitter Dinnerware Set is the dinner party flex you didn't know you needed. But — and this is a real but — it's not for everyone. Here's the unvarnished truth after digging through 235 Amazon ratings and closely examining the specs.

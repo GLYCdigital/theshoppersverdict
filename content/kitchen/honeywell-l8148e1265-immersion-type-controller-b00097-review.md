@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell L8148E1265 Immersion-Type Controller"
 seo_title: "Honeywell L8148E1265 Immersion-Type Controller Review: Ve"
 meta_description: "Our full honeywell l8148e1265 immersion-type controller review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0009726K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bGboUBX6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: this isn't a glamorous kitchen gadget. The Honeywell L8148E1265 is the kind of part you only think about when your boiler stops firing in January. But if you are here, you are likely holding a dead aquastat or a service tech just quoted you $400 to swap one. Here is what you actually need to know before you buy.

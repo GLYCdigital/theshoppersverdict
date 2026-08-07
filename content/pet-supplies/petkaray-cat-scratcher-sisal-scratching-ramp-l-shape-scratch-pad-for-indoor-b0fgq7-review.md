@@ -1,4 +1,5 @@
 ---
+
 title: "PETKARAY Cat Scratcher, Sisal Scratching Ramp, L Shape Scrat"
 seo_title: "PETKARAY Cat Scratcher, Sisal Scratching Ramp, L S Review"
 meta_description: "Our full petkaray cat scratcher, sisal scratching ramp, l shape scrat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FGQ75S1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vvS-kNQhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cat destroy a $40 vertical post in three weeks, you know the real battle isn't about *whether* they scratch—it's about *what* you can get them to scratch instead of your couch. The PETKARAY Cat Scratcher takes a different angle, literally. This L-shaped sisal ramp lies flat against the floor, inviting your cat to stretch, dig, and claw horizontally rather than vertically. For apartment dwellers and multi-cat households, that positioning is genuinely smart. But is the build quality worth your money at a 3.9-star average? Let's break down what 195 buyers actually got.

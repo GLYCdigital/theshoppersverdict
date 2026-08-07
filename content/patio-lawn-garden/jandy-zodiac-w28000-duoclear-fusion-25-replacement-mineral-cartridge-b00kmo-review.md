@@ -1,4 +1,5 @@
 ---
+
 title: "Jandy Zodiac W28000 Duoclear & Fusion 25 Replacement Mineral"
 seo_title: "Jandy Zodiac W28000 Duoclear & Fusion 25 Replaceme Review"
 meta_description: "Our full jandy zodiac w28000 duoclear & fusion 25 replacement mineral review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00KMOK748/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SJLXENw3L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If you own a Jandy Zodiac Duoclear or Fusion 25 mineral pool system, this W28000 cartridge is the only replacement you should consider. It's the genuine OEM part, it drops right in with zero fuss, and it genuinely cuts your chlorine consumption by more than half. The 4.7-star rating across 235 reviews isn't inflated — this is one of those boring, essential pool parts that just works.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aquatec 5851-7E12-J574 0.7 GPM 60 PSI 3/8 inch JG 115V Deliv"
 seo_title: "Aquatec 5851-7E12-J574 Review: Compact 12V Pump for RVs & Gardens"
 meta_description: "Honest Aquatec 5851-7E12-J574 review: 0.7 GPM, 60 PSI diaphragm pump. See real-world performance, noise levels, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B007KDXH5U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715SmRP+tJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Self-priming up to 6 feet — pulls water from a tank without a gravity feed setup"
   - "Compact footprint (7.5 x 4 x 3.5 inches) fits in tight RV bays or under sinks"
   - "John Guest push-to-connect fittings mean zero tools needed for installation"
-cons:
+cons: 
   - "No pressure switch — pump runs continuously whenever powered, so you need a relay or manual switch"
   - "0.7 GPM is slow for showering; fine for faucets but don't expect a strong stream"
   - "Audible whine at 60 PSI — noticeable in a quiet camper at night"
+
 ---
 
 **If you're building a 12V water system for a camper van, greenhouse misting rig, or off-grid cabin, the Aquatec 5851-7E12-J574 is a workhorse that most owners install and forget.** But it's not a plug-and-play appliance. Here's what 220 buyers (averaging 4.4 stars) learned the hard way, so you don't have to.

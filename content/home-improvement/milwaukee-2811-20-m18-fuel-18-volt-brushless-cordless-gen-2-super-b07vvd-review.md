@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 2811-20 M18 FUEL 18-Volt Brushless Cordless GEN 2 "
 seo_title: "Milwaukee 2811-20 M18 FUEL 18-Volt Brushless Cordl Review"
 meta_description: "Our full milwaukee 2811-20 m18 fuel 18-volt brushless cordless gen 2  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VVDYKJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jToSJk5+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The hammer drill that made me stop reaching for my corded

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DUPLO Bluey: Blueyâ€™s Family House with Memory Game - "
 seo_title: "LEGO DUPLO Bluey: Blueyâ€™s Family House with Memo Review"
 meta_description: "Our full lego duplo bluey: blueyâ€™s family house with memory game -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DRW4WWVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KhtxLxX7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your toddler has discovered Bluey — and let's be honest, what toddler hasn't — this LEGO DUPLO set is probably already on your radar. The question is whether it earns the $80-ish price tag or if you're better off with a cheaper Bluey figure pack and some generic blocks. I've spent time with this set, dug through the 245 Amazon ratings, and here's what actually matters.

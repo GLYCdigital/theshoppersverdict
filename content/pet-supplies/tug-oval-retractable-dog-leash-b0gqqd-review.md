@@ -1,4 +1,5 @@
 ---
+
 title: "TUG Oval Retractable Dog Leash"
 seo_title: "TUG Oval Retractable Dog Leash Review: Verdict | TSV"
 meta_description: "Our full tug oval retractable dog leash review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQQDNZG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E8yYhAznL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most retractable leashes are the same plastic box with a string inside. The TUG Oval actually tries to be different. The question is whether those differences matter enough to justify swapping out what's already clipped to your dog's collar.

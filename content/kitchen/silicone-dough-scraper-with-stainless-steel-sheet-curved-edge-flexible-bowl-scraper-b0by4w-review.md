@@ -1,4 +1,5 @@
 ---
+
 title: "Silicone Dough Scraper with Stainless Steel Sheet, Curved Ed"
 seo_title: "Silicone Dough Scraper with Stainless Steel Sheet, Review"
 meta_description: "Our full silicone dough scraper with stainless steel sheet, curved ed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BY4W6KDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518UAQGz3hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Bowl Scraper That Finally Does What Plastic Can't

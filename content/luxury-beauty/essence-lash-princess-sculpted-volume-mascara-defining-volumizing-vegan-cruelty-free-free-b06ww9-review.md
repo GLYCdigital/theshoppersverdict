@@ -1,4 +1,5 @@
 ---
+
 title: "essence | Lash Princess Sculpted Volume Mascara | Defining &"
 seo_title: "essence Lash Princess Mascara Review: Worth the Hype? (2026)"
 meta_description: "Honest essence Lash Princess Sculpted Volume Mascara review: Does this budget tube rival luxury formulas? Real results, smudge tests, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B06WW9SJ5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HLmRuVZvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dramatic, fiber-free volume in one coat — no flaking or fallout by midday"
   - "Curved wand grips every lash, including short inner corners, without stabbing"
   - "Vegan and cruelty-free formula that holds a curl through humidity for 8+ hours"
-cons:
+cons: 
   - "Can clump if you apply more than two coats — the formula is *thick*"
   - "Not waterproof; tears or rain will leave you raccoon-eyed"
   - "Tube dries out faster than prestige mascaras — replace every 2-3 months"
+
 ---
 
 Let's be direct: a $5 mascara has no business performing like this. The essence Lash Princess Sculpted Volume Mascara has become the internet's favorite budget beauty secret, and after testing it against tubes that cost eight times as much, I understand why. This is the rare product where the hype is actually justified.

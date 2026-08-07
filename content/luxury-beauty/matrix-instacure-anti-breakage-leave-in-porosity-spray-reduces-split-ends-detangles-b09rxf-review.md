@@ -1,4 +1,5 @@
 ---
+
 title: "Matrix Instacure Anti-Breakage Leave-In Porosity Spray - Red"
 seo_title: "Matrix Instacure Anti-Breakage Leave-In Porosity S Review"
 meta_description: "Our full matrix instacure anti-breakage leave-in porosity spray - red review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09RXFR2NS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sTehDL73L._SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hair snaps when you look at it, you've probably tried a dozen "repair" products that promised miracles and delivered sticky, weighed-down strands. The Matrix Instacure Anti-Breakage Leave-In Porosity Spray takes a different angle: instead of pretending to rebuild hair from the inside, it works on the outside, sealing split ends and smoothing the cuticle so breakage physically has less to grab onto.

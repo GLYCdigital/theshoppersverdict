@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN 299-Piece Socket Set, Includes Deep, Shallow Socke"
 seo_title: "CRAFTSMAN 299-Piece Socket Set Review: Deep & Shallow Sockets"
 meta_description: "CRAFTSMAN 299-Piece Socket Set review: deep & shallow sockets, hex, Torx, slotted. Build quality, value, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B1LSLSP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-FHSo5RqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full SAE and metric coverage from 1/4-inch and 3/8-inch drive with both deep and shallow profiles"
   - "Quick-release ratchets with 72-tooth mechanisms that grab bolts even in tight engine bays"
   - "Laser-etched size markings that stay legible after years of shop use and solvent exposure"
-cons:
+cons: 
   - "Case latches feel flimsy for the weight; one reviewer reported a hinge cracking after six months of heavy use"
   - "No 1/2-inch drive sockets included — you'll need a separate set for axle nuts and suspension work"
+
 ---
 
 **Is this the last socket set you'll ever buy? Probably not. But it might be the only one you need for weekend projects.**

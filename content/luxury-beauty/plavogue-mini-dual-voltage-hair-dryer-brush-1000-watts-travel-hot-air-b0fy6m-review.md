@@ -1,4 +1,5 @@
 ---
+
 title: "PLAVOGUE Mini Dual Voltage Hair Dryer Brush, 1000 Watts Trav"
 seo_title: "PLAVOGUE Mini Dual Voltage Hair Dryer Brush, 1000  Review"
 meta_description: "Our full plavogue mini dual voltage hair dryer brush, 1000 watts trav review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FY6MPXJP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tyZEQmoVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most travel hair tools force you to pick between power and portability. The PLAVOGUE Mini Dual Voltage Hair Dryer Brush tries to give you both in a package that fits in a toiletry bag. At 1000 watts with a foldable handle and worldwide voltage compatibility, it's a serious contender for anyone who refuses to pack a full-size hot air brush. But does it actually style well, or is it just another gadget that looks good in the product photos and underdelivers in your hotel bathroom?

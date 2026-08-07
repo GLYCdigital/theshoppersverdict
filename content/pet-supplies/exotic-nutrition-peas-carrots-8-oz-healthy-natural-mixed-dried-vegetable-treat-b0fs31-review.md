@@ -1,4 +1,5 @@
 ---
+
 title: "Exotic Nutrition Peas & Carrots 8 oz. - Healthy Natural Mixe"
 seo_title: "Exotic Nutrition Peas & Carrots Review: Is It Worth It?"
 meta_description: "Honest Exotic Nutrition Peas & Carrots 8 oz. review. See what 240+ buyers say about this natural dried veggie treat for small pets. Pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FS31DD8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IIh-Ti1DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single-ingredient dried peas and carrots — no added salt, sugar, or preservatives"
   - "Crunchy texture that doubles as a boredom buster and dental aid for small pets"
   - "Sealed 8 oz. resealable pouch keeps contents fresh for months"
-cons:
+cons: 
   - "8 oz. is small for larger parrots or multiple small animals — you'll reorder quickly"
   - "Some pieces are rock-hard; older pets or those with dental issues may struggle"
   - "No nutrient analysis or guaranteed analysis printed on the label"
+
 ---
 
 **Frontmatter complete. Review body follows:**

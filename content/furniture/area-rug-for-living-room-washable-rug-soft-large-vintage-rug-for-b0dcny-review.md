@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug for Living Room - Washable Rug Soft Large Vintage R"
 seo_title: "Washable Vintage Area Rug Review: Soft, Large, Worth It?"
 meta_description: "Honest review of the washable vintage area rug for living rooms. Is it soft, durable, and easy to clean? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCNY55DT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fBbj4bmSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without fraying or losing pile density"
   - "Low-profile 0.2-inch pile height lies flat under furniture and doesn't catch vacuum edges or robot vacuums"
   - "Vintage-wash pattern hides pet hair, crumbs, and everyday foot traffic between deep cleanings"
-cons:
+cons: 
   - "Synthetic polypropylene backing can feel slippery on hardwood floors without a separate rug pad"
   - "Initial chemical smell lingers for 3-5 days even after airing out, which may bother sensitive noses"
   - "Thin construction offers minimal cushioning underfoot — not the rug for standing on kitchen floors for long periods"
+
 ---
 
 Let's be honest about area rugs: most are either beautiful but impractical, or practical but ugly. This washable vintage rug from Amazon's budget-friendly lineup tries to split the difference, and after digging through 225 ratings and the product specs, I've got a clear picture of where it wins and where it compromises.

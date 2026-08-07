@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Wave A Frame Flip Up Ladder for 48 to 54-in Deep Above"
 seo_title: "Blue Wave A Frame Flip Up Ladder Review: Read Before Buying"
 meta_description: "Honest Blue Wave A Frame Flip Up Ladder review for 48-54 inch pools. Real buyer complaints, fit issues, and who should skip this 2.3-star ladder."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.3
 amazon_url: "https://www.amazon.com/dp/B00E89TKZA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PutqmvZuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-up gate mechanism meets most local pool safety codes for barrier compliance"
   - "Galvanized steel frame holds up well against rust and corrosion in chlorinated water"
   - "Universal mounting brackets fit both 48-inch and 52-inch pool walls without drilling"
-cons:
+cons: 
   - "Notably wobbly when wet — multiple buyers report instability with children climbing"
   - "Flimsy plastic steps flex under adult weight and crack within one season"
   - "Mounting hardware strips easily; instructions are vague with minimal diagrams"
+
 ---
 
 **The 2.3-star pool ladder that might still make sense for you**

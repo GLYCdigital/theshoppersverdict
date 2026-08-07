@@ -1,4 +1,5 @@
 ---
+
 title: "Le Crueset Measuring Cups"
 seo_title: "Le Crueset Measuring Cups Review: Verdict | TSV"
 meta_description: "Our full le crueset measuring cups review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXMCQD19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7165TEmXPPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Le Creuset Measuring Cups Review: Are These $80 Stoneware Cups Worth It?**

@@ -1,4 +1,5 @@
 ---
+
 title: "MOZA GS V2P Racing Steering Wheel for PC, 300mm GT driving W"
 seo_title: "MOZA GS V2P Racing Steering Wheel for PC, 300mm GT Review"
 meta_description: "Our full moza gs v2p racing steering wheel for pc, 300mm gt driving w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHHJ6J3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aaE5XSHXL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the sim racing hype. The MOZA GS V2P isn't a budget toy — it's a serious piece of kit aimed at PC racers who've outgrown entry-level wheels. At 300mm, it's the same diameter as a real GT3 car's wheel, and that's exactly who MOZA is targeting: sim racers who want to feel like they're driving a race car, not a gaming peripheral.

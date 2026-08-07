@@ -1,4 +1,5 @@
 ---
+
 title: "Aigidusansu Jurassic Dinosaur Micro Blocks Set, 1530pcs Tyra"
 seo_title: "Aigidusansu Dino Micro Blocks Review: 1530pcs T-Rex Set"
 meta_description: "Honest Aigidusansu Jurassic Dinosaur Micro Blocks review: 1530-piece T-Rex set. Build quality, difficulty, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPPS79CY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l3Z10jLjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1530 pieces deliver a substantial, display-worthy T-Rex that stands roughly 8 inches tall when completed"
   - "Micro-block precision means tight clutch power — finished model holds pose without sagging or collapsing"
   - "Comes with numbered bags and a full-color instruction booklet that actually makes sense"
-cons:
+cons: 
   - "Micro blocks are small — roughly half the size of standard bricks — so this is not a set for young kids or anyone with limited dexterity"
   - "No baseplate included; the T-Rex's feet are flat but the model can wobble on uneven surfaces"
   - "A few buyers reported missing pieces, though Aigidusansu's customer service replaces them if you reach out"
+
 ---
 
 You've seen the product image: a snarling Tyrannosaurus Rex built from hundreds of tiny plastic bricks, head thrown back mid-roar. It looks impressive. What the image doesn't tell you is that this is a **micro** block set — meaning each piece is roughly half the size of a standard Lego brick. That's the first thing to know before you buy.

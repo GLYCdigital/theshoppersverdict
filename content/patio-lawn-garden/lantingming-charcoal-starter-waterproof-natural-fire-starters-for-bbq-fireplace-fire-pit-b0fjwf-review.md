@@ -1,4 +1,5 @@
 ---
+
 title: "LantingMing Charcoal Starter, Waterproof - Natural Fire Star"
 seo_title: "LantingMing Charcoal Starter, Waterproof - Natural Review"
 meta_description: "Our full lantingming charcoal starter, waterproof - natural fire star review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJWFFY46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H2ikbtWSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever fought with soggy newspaper, a drizzle of lighter fluid, and a chimney that just won’t catch, you know the pain. The LantingMing Charcoal Starter takes that frustration out of the equation. These waterproof, natural fire-starting cubes are engineered for one job: getting your coals hot fast, no matter the weather.

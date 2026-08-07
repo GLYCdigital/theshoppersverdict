@@ -1,4 +1,5 @@
 ---
+
 title: "HP Flagship 17 Touchscreen Business Student Laptop - AMD Ryz"
 seo_title: "HP Flagship 17 Touchscreen Business Student Laptop Review"
 meta_description: "Our full hp flagship 17 touchscreen business student laptop - amd ryz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTLRRC2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819naRRUuaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Honest Take on HP's Big-Screen Budget Workhorse**

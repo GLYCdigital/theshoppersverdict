@@ -1,4 +1,5 @@
 ---
+
 title: "P&P CHEF Saucepan Small Pot, Stainless Steel Saucepan with L"
 seo_title: "P&P CHEF Saucepan Small Pot, Stainless Steel Sauce Review"
 meta_description: "Our full p&p chef saucepan small pot, stainless steel saucepan with l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZPG5WFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kQA8lnx6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **P&P CHEF Saucepan Small Pot Review: Is This $30 Stainless Steel Pan Worth Your Kitchen Drawer Space?**

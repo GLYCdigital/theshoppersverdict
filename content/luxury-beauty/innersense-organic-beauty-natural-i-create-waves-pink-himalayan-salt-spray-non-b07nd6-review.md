@@ -1,4 +1,5 @@
 ---
+
 title: "INNERSENSE Organic Beauty - Natural I Create Waves Pink Hima"
 seo_title: "INNERSENSE Organic Beauty - Natural I Create Waves Review"
 meta_description: "Our full innersense organic beauty - natural i create waves pink hima review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07ND6DYF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514lllAUu6L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $30 Salt Spray That Actually Respects Your Hair**

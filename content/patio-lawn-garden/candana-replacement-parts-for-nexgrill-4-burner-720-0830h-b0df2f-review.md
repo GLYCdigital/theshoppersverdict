@@ -1,4 +1,5 @@
 ---
+
 title: "CANDANA Replacement Parts for Nexgrill 4 Burner 720-0830H"
 seo_title: "CANDANA Nexgrill 720-0830H Replacement Parts Review (2026)"
 meta_description: "CANDANA replacement parts for Nexgrill 4 burner 720-0830H reviewed: fit, build quality, flame output, and whether it beats OEM. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF2FD1SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WL604w5jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct bolt-on fit for the 720-0830H — no drilling, bending, or modification required"
   - "Heavier-gauge stainless than the original Nexgrill parts, with noticeably better weld quality"
   - "Complete set includes burners, heat tents, and drip shields — priced well below OEM replacement"
-cons:
+cons: 
   - "Carrier-style connectors are snug; you'll need a firm push and possibly a mallet to seat them fully"
   - "No ignition components included — if your igniter is also failing, you'll need a separate order"
+
 ---
 
 If your Nexgrill 720-0830H is four or five years old, you already know the drill: the burners corrode, the heat tents rust through, and suddenly your $400 grill is a sad metal box that won't hold even heat. The CANDANA replacement kit is designed to fix exactly that — and based on 229 Amazon ratings averaging 4.6 stars, it's doing the job for a lot of people.

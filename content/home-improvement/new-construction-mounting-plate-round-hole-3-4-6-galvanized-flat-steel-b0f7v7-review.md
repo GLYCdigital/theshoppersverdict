@@ -1,7 +1,8 @@
 ---
-title: "New Construction Mounting Plate Round Hole 3\" 4\" 6\" Galvaniz"
-seo_title: "New Construction Mounting Plate Round Hole 3\" 4\" 6 Review"
-meta_description: "Our full new construction mounting plate round hole 3\" 4\" 6\" galvaniz review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "New Construction Mounting Plate Round Hole 3\ 4\ 6\ Galvaniz"
+seo_title: "New Construction Mounting Plate Round Hole 3\ 4\ 6 Review"
+meta_description: "Our full new construction mounting plate round hole 3\ 4\ 6\ galvaniz review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "new-construction-mounting-plate-round-hole-3-4-6-galvanized-flat-steel-b0f7v7-review"
 image_alt: "New Construction Mounting Plate Round Hole 3 4 6 Galvanized Flat Steel Rough-in Fixture Bracket for LED recessed"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F7V79N57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sbf5ZNtDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Don't Overthink Rough-In Mounting

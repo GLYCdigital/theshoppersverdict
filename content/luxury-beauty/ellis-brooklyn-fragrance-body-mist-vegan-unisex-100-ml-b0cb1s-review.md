@@ -1,4 +1,5 @@
 ---
+
 title: "Ellis Brooklyn Fragrance Body Mist - Vegan Unisex 100 ml"
 seo_title: "Ellis Brooklyn Body Mist Review: Vegan Unisex 100ml"
 meta_description: "Ellis Brooklyn Fragrance Body Mist vegan unisex 100ml review: scent longevity, layering tips, and who should buy. Honest 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CB1SR6Y8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-RedE7yML._SL1500_.jpg"
-pros:
+pros: 
   - "True unisex composition — neither sweet nor musky, works across skin chemistries"
   - "Vegan and clean formula with no phthalates or parabens, verified on label"
   - "100ml bottle at body-mist price point offers solid value for Ellis Brooklyn's luxury positioning"
-cons:
+cons: 
   - "Longevity is modest — expect 2–3 hours before reapplication, not all-day wear"
   - "Scent projection is intimate; this stays close to skin, not a room-filler"
+
 ---
 
 Let's cut through the fragrance marketing noise. Ellis Brooklyn positions itself as a clean-luxury house, and this unisex body mist in the 100ml size sits at an interesting crossroads: it's cheaper than their eau de parfums, but is it actually worth your money? After digging through 204 Amazon ratings (averaging 4.1 stars) and pulling apart the formulation details, here's the real story.

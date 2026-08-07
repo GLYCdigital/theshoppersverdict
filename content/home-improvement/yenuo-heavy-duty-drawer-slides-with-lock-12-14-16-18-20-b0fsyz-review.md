@@ -1,4 +1,5 @@
 ---
+
 title: "YENUO Heavy Duty Drawer Slides with Lock 12 14 16 18 20 22 2"
 seo_title: "YENUO Heavy Duty Drawer Slides with Lock 12 14 16  Review"
 meta_description: "Our full yenuo heavy duty drawer slides with lock 12 14 16 18 20 22 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSYZW9GR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w1yU9k4dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever had a fully-loaded drawer slide out mid-drive in a service truck, or watched a workshop drawer creep open on a sloped garage floor, you already know why locking slides matter. The YENUO Heavy Duty Drawer Slides with Lock aim to solve exactly that problem — and based on 225 ratings averaging 4.5 stars, they're doing something right.

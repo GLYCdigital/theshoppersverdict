@@ -1,4 +1,5 @@
 ---
+
 title: "0-30 PSI Adjustable High Pressure Propane Regulator hose, wi"
 seo_title: "0-30 PSI Adjustable Propane Regulator Hose Review (2026)"
 meta_description: "Honest review of the 0-30 PSI adjustable high-pressure propane regulator hose. See pros, cons, and who should buy this versatile patio accessory."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDQC8PT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y81UpURuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 0-30 PSI adjustment range with a readable gauge for dialing in flame output precisely"
   - Includes both 3/8 inch and 1/4 inch NPT adapters, covering most propane appliances and burners
   - "Heavy-duty rubber hose stays flexible in cold weather, unlike cheaper vinyl alternatives"
-cons:
+cons: 
   - "Gauge accuracy drifts slightly at the extreme low end (below 2 PSI), making fine adjustments tricky"
   - "No wrench included, so you'll need your own tools for a leak-tight installation"
+
 ---
 
 If you're running a propane-powered turkey fryer, patio heater, or a custom burner setup, you already know the frustration of a regulator that gives you all-or-nothing flame control. This 0-30 PSI adjustable high-pressure propane regulator hose from the manufacturer behind the B0FDQC8PT2 listing aims to fix that — and for the most part, it delivers.

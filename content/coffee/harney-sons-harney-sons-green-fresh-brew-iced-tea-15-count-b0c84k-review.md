@@ -1,4 +1,5 @@
 ---
+
 title: "Harney & Sons Harney Sons Green Fresh Brew Iced Tea 15 Count"
 seo_title: "Harney & Sons Harney Sons Green Fresh Brew Iced Te Review"
 meta_description: "Our full harney & sons harney sons green fresh brew iced tea 15 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C84KHTKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E609JezfL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most “iced tea” you buy at the grocery store is powdered sugar with tea-flavored dust. Harney & Sons Green Fresh Brew is not that. This is a box of 15 family-size muslin bags that each brew a full two gallons of actual green tea — loose-leaf quality, scaled for a pitcher.

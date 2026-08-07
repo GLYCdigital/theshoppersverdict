@@ -1,7 +1,8 @@
 ---
-title: "SZHLUX 28\" Pooper Scooper"
-seo_title: "SZHLUX 28\" Pooper Scooper Review: Verdict | TSV"
-meta_description: "Our full szhlux 28\" pooper scooper review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SZHLUX 28\ Pooper Scooper"
+seo_title: "SZHLUX 28\ Pooper Scooper Review: Verdict | TSV"
+meta_description: "Our full szhlux 28\ pooper scooper review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "szhlux-28-pooper-scooper-b0fmmy-review"
 image_alt: "SZHLUX 28 Pooper Scooper"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMMY43TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610C16AVstL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I've tested more pooper scoopers than I care to admit. Most are flimsy plastic junk that snap by week three, or they're so short you're basically doing yoga poses to reach the ground. The SZHLUX 28" breaks that pattern — and at 4.5 stars across 225 ratings, I'm not the only one who noticed.

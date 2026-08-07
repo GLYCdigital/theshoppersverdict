@@ -1,4 +1,5 @@
 ---
+
 title: "TMKB Falcon M1SE Ultralight Honeycomb Gaming Mouse"
 seo_title: "TMKB Falcon M1SE Ultralight Honeycomb Gaming Mouse Review"
 meta_description: "Our full tmkb falcon m1se ultralight honeycomb gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSDZNPQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pPJDsn8bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TMKB Falcon M1SE is the kind of mouse that makes you question why you've been lugging around a 100-gram brick for years. At 58 grams, it's lighter than most wireless earbuds cases, and that weight difference becomes immediately obvious the moment you pick it up. But is ultralight worth the tradeoffs? After spending time with it, here's the honest picture.

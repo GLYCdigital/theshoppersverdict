@@ -1,4 +1,5 @@
 ---
+
 title: "Andis 23330 Professional AGC Super 2-Speed Horse Clipper wit"
 seo_title: "Andis 23330 AGC Super 2-Speed Horse Clipper Review (2026)"
 meta_description: "Honest Andis 23330 AGC Super 2-Speed horse clipper review: power, heat, noise, blade compatibility. Is it worth $200+? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BRBS2JPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qEclOBQBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2-speed motor (3,400/4,400 RPM) that handles thick winter coats without bogging down"
   - "Cool-running operation even after 30+ minutes of continuous body clipping — no burning smell or hot housing"
   - "Fits standard AGC detachable blades, so most owners already have a full set of #10, #15, and #30 blades on hand"
-cons:
+cons: 
   - "Heavy at 3.4 lbs — arm fatigue is real during full-body clips on multiple horses"
   - "Corded only; no battery option, and the 8-foot cord can feel restrictive in large barn aisles"
+
 ---
 
 If you're shopping for a horse clipper that won't quit halfway through a full body clip, the Andis 23330 AGC Super 2-Speed has likely crossed your radar. With 220 ratings averaging 4.4 stars, it's one of the most trusted names in equine grooming. But is it worth the investment for your specific situation? Let's dig past the marketing and get to what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jellycat Bartholomew Bear Stuffed Animal"
 seo_title: "Jellycat Bartholomew Bear Stuffed Animal Review: Verdict "
 meta_description: "Our full jellycat bartholomew bear stuffed animal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C951WVW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cvp+ZIBCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $40 bear that broke my skepticism**

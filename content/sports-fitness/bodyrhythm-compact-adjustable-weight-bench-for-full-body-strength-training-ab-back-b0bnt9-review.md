@@ -1,4 +1,5 @@
 ---
+
 title: "BODYRHYTHM Compact Adjustable Weight Bench for Full Body Str"
 seo_title: "BODYRHYTHM Adjustable Weight Bench Review (2026): Compact & Sturdy"
 meta_description: "BODYRHYTHM Compact Adjustable Weight Bench review: 7 back positions, 500-lb capacity, space-saving design. See pros, cons & who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BNT9GZBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t5tW9UZDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "7-position adjustable backrest from flat to 85° incline, locking securely with pop-pin adjustment"
   - "Rated to 500 lbs (300 lb user + 200 lb weight) with a sturdy triangular steel frame that doesn't wobble mid-set"
   - Compact footprint (33.5 inch " L x 16 inch " D) folds flat for storage — fits in closets or under beds
-cons:
+cons: 
   - "Foam leg roller is narrow and can dig into hamstrings during decline crunches — add a towel for comfort"
   - "Assembly requires a hex key and takes 20–30 minutes; some users report the included instructions are minimal"
   - "Seat pad doesn't adjust independently — you're locked into the backrest angle's companion seat position"
+
 ---
 
 Let's be blunt: most cheap adjustable benches wobble like a nervous first-timer at the squat rack. The BODYRHYTHM Compact Adjustable Weight Bench is not most cheap benches. At 4.1 stars from 204 Amazon ratings, it's quietly earning a reputation as the budget bench that doesn't feel like a budget bench — with a few quirks you should know about before clicking buy.

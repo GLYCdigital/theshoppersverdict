@@ -1,4 +1,5 @@
 ---
+
 title: "2025 Upgraded Rechargeable Outdoor Bug Zappers Cordless"
 seo_title: "2025 Rechargeable Outdoor Bug Zapper Review: Cordless"
 meta_description: "Honest review of the 2025 upgraded cordless bug zapper. Tested for coverage, battery, and rain resistance. See if it beats the mosquitoes."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FGV3BRQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91i5Gsxqt1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation with a 3600mAh battery that lasted 14 hours in my patio test on a single charge"
   - "IP65 weatherproof rating means it survived a full thunderstorm without tripping or shorting"
   - "Dual-mode operation — USB-C charging plus optional solar panel keeps it topped off without running extension cords"
-cons:
+cons: 
   - "Coverage is realistically 400–600 sq ft, not the 1,500 sq ft claimed; effective range drops sharply beyond 10 feet"
   - "The mosquito attractant lure needs replacing every 3–4 weeks for peak performance, adding ongoing cost"
+
 ---
 
 ## The 2025 Upgraded Cordless Bug Zapper: Actually Worth Your Patio Space?

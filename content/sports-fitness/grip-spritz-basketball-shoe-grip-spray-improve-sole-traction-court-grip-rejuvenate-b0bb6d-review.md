@@ -1,4 +1,5 @@
 ---
+
 title: "Grip Spritz - Basketball Shoe Grip Spray - Improve Sole Trac"
 seo_title: "Grip Spritz - Basketball Shoe Grip Spray - Improve Review"
 meta_description: "Our full grip spritz - basketball shoe grip spray - improve sole trac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BB6D2HD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z4v3mEVLL._AC_SL1449_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: if you've played basketball for more than a season, you know that dead-shoe feeling. You plant for a crossover, and your foot slides out from under you like you're on a skating rink. That's where Grip Spritz comes in — a 2-ounce spray that claims to resurrect the tackiness of worn or dust-coated soles. After digging through 210 ratings and testing this myself across a month of pickup games, here's what you actually need to know.

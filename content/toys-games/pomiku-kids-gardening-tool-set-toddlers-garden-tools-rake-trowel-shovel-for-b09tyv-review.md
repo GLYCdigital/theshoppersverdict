@@ -1,4 +1,5 @@
 ---
+
 title: "POMIKU Kids Gardening Tool Set, Toddlers Garden Tools, Rake,"
 seo_title: "POMIKU Kids Gardening Tool Set, Toddlers Garden To Review"
 meta_description: "Our full pomiku kids gardening tool set, toddlers garden tools, rake, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TYV7LLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j6cAThYML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most kids' gardening sets are plastic junk that snaps the first time a toddler actually tries to dig. The POMIKU set is not that. And at $26.99, it better not be.

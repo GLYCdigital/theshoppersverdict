@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Backyard Water Toy Game for Kids & Family - Carniva"
 seo_title: "GoSports Backyard Water Toy Game Review: Carnival Splash Tower"
 meta_description: "GoSports Carnival Splash Tower review: A fun backyard water game for kids. See how it holds up, what buyers love, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPXVXTL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O--CaqWML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy steel frame holds up to aggressive play — no tipping over even with older kids slamming the targets"
   - "Sets up in under 5 minutes without tools; the included ground stakes actually stay put on grass"
   - "Targets flip and reset instantly, so there's zero downtime between turns — keeps the line moving"
-cons:
+cons: 
   - "Base needs to be filled with water or sand to stay stable on hard surfaces; on pavement it can slide"
   - "The splash effect is more of a spray than a dramatic drench — younger kids may expect a bigger soak"
+
 ---
 
 The GoSports Carnival Splash Tower is the kind of toy that looks simple in the product photos but reveals its real value in the chaos of a hot summer afternoon. It's a freestanding water game where kids throw balls at flip-up targets, and when they hit, a burst of water sprays the successful thrower. Simple concept. But execution matters, and here's where this one earns its keep.

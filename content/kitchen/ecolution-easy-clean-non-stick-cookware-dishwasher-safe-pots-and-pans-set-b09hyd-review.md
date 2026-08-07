@@ -1,4 +1,5 @@
 ---
+
 title: "Ecolution Easy Clean Non-Stick Cookware, Dishwasher Safe Pot"
 seo_title: "Ecolution Easy Clean Non-Stick Cookware Review (2026): Dishwasher Safe?"
 meta_description: "Ecolution Easy Clean Non-Stick cookware review: Is the dishwasher-safe pot worth it? Tested for warping, scratching & cleanup. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09HYDDCS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8163COvg-sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely dishwasher-safe non-stick coating — survived 30+ cycles without peeling or degrading"
   - "Aluminum core heats evenly with no hot spots; sauce consistency was uniform across the pan"
   - "Cool-touch stainless handles stay comfortable on gas, electric, and induction tops"
-cons:
+cons: 
   - "Lid fits snugly but doesn't have a steam vent — watch for boil-overs at high heat"
   - "Coating is scratch-resistant, not scratch-proof; metal utensils will eventually mark it"
+
 ---
 
 **The Dishwasher-Safe Non-Stick That Actually Holds Up**

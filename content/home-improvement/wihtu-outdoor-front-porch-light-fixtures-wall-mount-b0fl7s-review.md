@@ -1,4 +1,5 @@
 ---
+
 title: "WIHTU Outdoor Front Porch Light Fixtures Wall Mount"
 seo_title: "WIHTU Outdoor Front Porch Light Fixtures Wall Moun Review"
 meta_description: "Our full wihtu outdoor front porch light fixtures wall mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL7STSPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iJd7+Ct8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most $40–$60 outdoor light fixtures on Amazon are cheap stamped steel that rusts within a year. The WIHTU wall mount lantern isn't that. With a 4.6-star average across 229 ratings, this fixture earns its score through genuinely decent construction and a design that doesn't look like it fell off a builder-grade truck.

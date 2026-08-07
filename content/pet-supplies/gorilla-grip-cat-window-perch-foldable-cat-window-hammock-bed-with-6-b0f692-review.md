@@ -1,4 +1,5 @@
 ---
+
 title: "GORILLA GRIP Cat Window Perch, Foldable Cat Window Hammock B"
 seo_title: "GORILLA GRIP Cat Window Perch Review: Honest 2026 Verdict"
 meta_description: "GORILLA GRIP Cat Window Perch review: 4.0-star rated foldable hammock bed. Build quality, suction strength, weight limits, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F692KW82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-and-images.com/images/I/61kSQwv-SLL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Four reinforced suction cups rated for windows up to 30mm thick hold steady through daily use"
   - "Folds flat in seconds for travel or window swapping — no tools required"
   - "Removable, machine-washable faux fur cover keeps shedding and litter dust under control"
-cons:
+cons: 
   - "Suction cups need re-tightening every 1-2 weeks on older or slightly uneven glass"
   - "Weight capacity around 25 lbs — heavy Maine Coons will push the limit"
+
 ---
 
 # GORILLA GRIP Cat Window Perch: A Solid Perch With One Fatal Flaw for Some Cats

@@ -1,4 +1,5 @@
 ---
+
 title: "Crownland Patio Furniture Patio Wicker Sofa Outdoor Patio Ca"
 seo_title: "Crownland Patio Wicker Sofa Review: 3.4-Star Reality Check"
 meta_description: "Crownland Patio Wicker Sofa review: honest look at comfort, assembly, and durability. See what 170 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0F487TZGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xqvfNr9jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weather-resistant resin wicker with powder-coated steel frame holds up through full seasons"
   - "Generous seating depth (measured 22 inches) accommodates taller adults comfortably"
   - "Cushions arrive pre-wrapped in clear plastic — easy to spot-check for damage before assembly"
-cons:
+cons: 
   - "Assembly instructions are minimal line drawings; several customers report misaligned bolt holes requiring drilling"
   - "Cushion covers are not removable for washing — a real issue for outdoor use with pets or kids"
   - "Color variance between advertised photos and delivered piece (reports of 'dark brown' arriving closer to black)"
+
 ---
 
 A 3.4-star average across 170 ratings tells you something immediately: this Crownland wicker sofa is a mixed bag. The people who love it, really love it. The people who don't, had specific problems — and those problems are worth knowing about before you commit.

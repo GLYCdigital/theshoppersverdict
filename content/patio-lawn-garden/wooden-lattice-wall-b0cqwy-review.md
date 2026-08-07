@@ -1,4 +1,5 @@
 ---
+
 title: "Wooden Lattice Wall"
 seo_title: "Wooden Lattice Wall Review: Verdict | TSV"
 meta_description: "Our full wooden lattice wall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQWYSN8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aPD4hWWNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a lattice panel and thinking, "How much can I really screw this up?" Fair question. The answer: less than you'd think with this one, but there are a couple of gotchas worth knowing before you hand over your money.

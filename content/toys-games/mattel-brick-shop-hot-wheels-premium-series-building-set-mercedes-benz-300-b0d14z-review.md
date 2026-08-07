@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Brick Shop Hot Wheels Premium Series Building Set, Me"
 seo_title: "Mattel Brick Shop Hot Wheels Premium Series Buildi Review"
 meta_description: "Our full mattel brick shop hot wheels premium series building set, me review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D14ZKC2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ySr9FSeJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the brick-built Hot Wheels set that finally gets it right?**

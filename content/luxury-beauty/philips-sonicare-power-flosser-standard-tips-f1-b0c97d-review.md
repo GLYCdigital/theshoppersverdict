@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Sonicare Power Flosser Standard Tips (F1)"
 seo_title: "Philips Sonicare Power Flosser Standard Tips (F1) Review:"
 meta_description: "Our full philips sonicare power flosser standard tips (f1) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C97DCF51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61re-RfuARL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: replacement heads are the boring but necessary tax you pay for owning a power flosser. The Philips Sonicare Power Flosser Standard Tips (F1) are the consumable that keeps your investment alive — and at 4.6 stars across 229 ratings, they're doing something right. But are they actually worth your money, or are you just paying the Philips tax?

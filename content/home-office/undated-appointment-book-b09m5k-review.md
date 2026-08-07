@@ -1,4 +1,5 @@
 ---
+
 title: "Undated appointment book"
 seo_title: "Undated appointment book Review: Verdict | TSV"
 meta_description: "Our full undated appointment book review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M5K6XG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X+PttQFqL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most planners punish you for falling off the wagon. Miss three weeks in January and you're staring at blank pages until June, or worse, you abandon the whole thing. That's the core problem this undated appointment book solves, and it's why 229 Amazon reviewers have pushed it to a 4.6-star average.

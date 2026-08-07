@@ -1,4 +1,5 @@
 ---
+
 title: "ESR 2 Pack Screen Protector for iPad A16/10th, iPad Air 11/1 inch"
 seo_title: "ESR iPad Screen Protector Review: 2-Pack, A16 & 10th Gen"
 meta_description: "ESR 2-pack iPad screen protector review: tempered glass clarity, easy install, edge gaps. Is it worth it for A16/10th gen & Air 11? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXXQTM1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xsEfJ5K7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes two tempered glass protectors plus an alignment frame that makes bubble-free installation genuinely foolproof"
   - "Covers the full display with precise cutouts for the front camera and Face ID sensors — no interference with True Tone or brightness"
   - "Oleophobic coating holds up well against fingerprints; the surface stays slick for Apple Pencil use without drag"
-cons:
+cons: 
   - "Edges leave a slight gap from the iPad frame — dust can collect there over time, though it prevents edge chipping"
   - "The first protector in the pack is more likely to crack on impact than a thicker 0.5mm option; it's thin at 0.33mm"
+
 ---
 
 You're about to drop $50+ on an Apple Pencil and another $30 on a case, so why cheap out on the one thing that actually touches your screen every day? The ESR 2 Pack Screen Protector for iPad A16/10th Gen and iPad Air 11" is the kind of accessory that doesn't get you excited — until you realize it's doing its job perfectly. With a 4.5-star average across 225 ratings, it's clearly doing something right. Let's break down whether it's the right glass for your tablet.

@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Vertical Shoe Rack for Front Door Entryway, Wooden Sh"
 seo_title: "HOOBRO Vertical Shoe Rack for Front Door Entryway, Review"
 meta_description: "Our full hoobro vertical shoe rack for front door entryway, wooden sh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5CXDY5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-uyYugQkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: if your entryway is a tight 10-inch gap between the door and the coat closet, the HOOBRO Vertical Shoe Rack is one of the few options that actually fits. Most vertical racks at this price point are closer to 15 inches wide. This one is built for the awkward sliver of space most of us just fill with a pile of sneakers.

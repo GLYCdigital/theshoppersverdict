@@ -1,4 +1,5 @@
 ---
+
 title: "Kratos Commercial Hot Topping Warmer and Dispenser - TD1"
 seo_title: "Kratos Commercial Hot Topping Warmer and Dispenser Review"
 meta_description: "Our full kratos commercial hot topping warmer and dispenser - td1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DGV9BCM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iv0TtbJpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever worked a concession stand or a diner kitchen, you know the pain of a hot fudge warmer that scorches the bottom, a cheese pump that clogs, or a caramel dispenser that drips sticky trails across your prep area. The Kratos Commercial Hot Topping Warmer and Dispenser TD1 is built specifically to solve those three problems — and for the most part, it does. But it's not without its quirks, and whether it's right for you depends entirely on your setup.

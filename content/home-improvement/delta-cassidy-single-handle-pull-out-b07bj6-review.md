@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Cassidy Single-Handle Pull-Out"
 seo_title: "Delta Cassidy Single-Handle Pull-Out Review (2026): Worth It?"
 meta_description: "Honest Delta Cassidy pull-out faucet review: build quality, spray performance, Diamond Seal tech, and real buyer complaints. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07BJ626VM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AAILFB1DL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Diamond Seal ceramic disc cartridge — no washers to wear out, backed by a lifetime warranty"
   - "MagnetiLock docking keeps the spray wand securely in place; no drooping head"
   - "Soap dispenser included in the deck plate — one less hole to drill or cap"
-cons:
+cons: 
   - "Pull-down hose is stiff when new; takes a few weeks to loosen up"
   - "Single-hole install requires the included deck plate — won't fit existing 3-hole setups without adapters"
   - "Some buyers report the chrome finish shows water spots more than brushed nickel"
+
 ---
 
 **The Delta Cassidy isn't the flashiest faucet on the shelf — but it's the one that'll still be working in a decade.**

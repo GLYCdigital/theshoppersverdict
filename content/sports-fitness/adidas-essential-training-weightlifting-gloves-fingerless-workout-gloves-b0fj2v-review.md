@@ -1,4 +1,5 @@
 ---
+
 title: "adidas Essential Training & Weightlifting Gloves, Fingerless"
 seo_title: "adidas Essential Training Gloves Review (2026): Worth It?"
 meta_description: "adidas Essential Training & Weightlifting Gloves review: padded palm, breathable back, secure fit. See pros, cons, and who should buy these fingerless gloves."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FJ2VCBRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lbfZx7l7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense, contoured gel padding across the palm protects against barbell pressure without feeling bulky"
   - "Breathable mesh upper with perforated ventilation keeps hands noticeably cooler during high-rep sets"
   - "Secure hook-and-loop wrist strap with a pull tab gives a locked-in fit that doesn't shift mid-lift"
-cons:
+cons: 
   - "No finger loops means the gloves can slide slightly during heavy deadlifts or pull-ups"
   - "Sizing runs small — most buyers should order one size up from their usual glove size"
+
 ---
 
 The adidas Essential Training Gloves sit in a crowded market. Every brand from Harbinger to Nike makes a fingerless lifting glove with gel padding and a wrist strap. So why does this one hold a 4.2-star rating across 210 reviews? Because adidas got the fundamentals right — good padding, solid materials, and a fit that works for most gym-goers. But "most" isn't "all," and there are a couple of tradeoffs worth knowing before you hand over your money.

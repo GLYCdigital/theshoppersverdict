@@ -1,4 +1,5 @@
 ---
+
 title: "QIYIZM Boho Plug in Pendant Light Hanging Lights with Plug i"
 seo_title: "QIYIZM Boho Plug in Pendant Light Hanging Lights w Review"
 meta_description: "Our full qiyizm boho plug in pendant light hanging lights with plug i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQ24P7C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710pmnBa5oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing those $200+ designer rattan pendants but your apartment has zero ceiling wiring, stop scrolling. The QIYIZM Boho Plug-In Pendant Light delivers that organic, warm-textured look for a fraction of the cost — and it installs about as easily as plugging in a lamp. With 235 ratings averaging 4.7 stars, this is one of the more popular no-electrician-required lighting options on Amazon right now. Here's the full picture before you buy.

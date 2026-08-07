@@ -1,4 +1,5 @@
 ---
+
 title: "UQGVML Sectional Couch for Living Room, L Shaped Modular Sec"
 seo_title: "UQGVML Sectional Couch for Living Room, L Shaped M Review"
 meta_description: "Our full uqgvml sectional couch for living room, l shaped modular sec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FX4BSMH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8189YRAToRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Uqgvml Sectional Couch Review: Modular L-Shaped Sofa Worth Your Living Room?

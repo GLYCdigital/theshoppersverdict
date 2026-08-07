@@ -1,4 +1,5 @@
 ---
+
 title: "Somduy Rolling Makeup Case with Drawer, Makeup Train Case, 4"
 seo_title: "Somduy Rolling Makeup Case with Drawer, Makeup Tra Review"
 meta_description: "Our full somduy rolling makeup case with drawer, makeup train case, 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZSTJQYJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u9Nthn1QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the last makeup case you'll buy?

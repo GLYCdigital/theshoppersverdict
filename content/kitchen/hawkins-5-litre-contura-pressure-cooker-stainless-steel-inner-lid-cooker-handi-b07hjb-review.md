@@ -1,4 +1,5 @@
 ---
+
 title: "Hawkins 5 Litre Contura Pressure Cooker, Stainless Steel Inn"
 seo_title: "Hawkins 5 Litre Contura Pressure Cooker, Stainless Review"
 meta_description: "Our full hawkins 5 litre contura pressure cooker, stainless steel inn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HJBLZGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C0FnrxldL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The Hawkins Contura 5-litre is a workhorse for serious home cooks who want speed without an electric appliance hogging counter space. But it's not for everyone — especially if you cook on induction.

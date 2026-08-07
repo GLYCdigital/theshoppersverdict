@@ -1,4 +1,5 @@
 ---
+
 title: "Palmer's Cocoa Butter Skin Therapy Cleansing Facial Oil, Gen"
 seo_title: "Palmer's Cocoa Butter Skin Therapy Cleansing Facia Review"
 meta_description: "Our full palmer's cocoa butter skin therapy cleansing facial oil, gen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CT55NFQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HfT42iXlL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about cleansing oils: most either strip your skin like paint thinner or leave a greasy film that makes you wonder if you actually washed your face. Palmer's Cocoa Butter Skin Therapy Cleansing Facial Oil sits in that sweet middle spot — and with 229 ratings averaging 4.6 stars, it's earning real loyalty.

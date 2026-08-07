@@ -1,4 +1,5 @@
 ---
+
 title: "Seneca Pink Lady Apple Chips | Made from Fresh-Harvested Pin"
 seo_title: "Seneca Pink Lady Apple Chips | Made from Fresh-Har Review"
 meta_description: "Our full seneca pink lady apple chips | made from fresh-harvested pin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBKMLV5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SoC2z6GaL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about what most "apple chips" on Amazon actually are: soggy, cinnamon-dusted apple slices that taste more like artificial flavoring than fruit. The Seneca Pink Lady Apple Chips are not that. This is a single-ingredient snack — literally just Pink Lady apples that have been washed, sliced thin, and dried until they shatter like a cracker.

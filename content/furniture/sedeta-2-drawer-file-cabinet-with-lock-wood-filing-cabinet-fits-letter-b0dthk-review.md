@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA 2 Drawer File Cabinet with Lock, Wood Filing Cabinet "
 seo_title: "SEDETA 2 Drawer File Cabinet with Lock, Wood Filin Review"
 meta_description: "Our full sedeta 2 drawer file cabinet with lock, wood filing cabinet  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTHKDZV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UyRp2-zyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been hunting for a file cabinet that doesn’t look like it was rescued from a 1980s office liquidation sale, the SEDETA 2 Drawer File Cabinet deserves a look. This is a compact, mid-century-inspired wood unit that actually blends into a home office or bedroom corner. At 4.1 stars across 204 ratings, it’s not perfect — but for the price point, it solves a very specific problem: storing hanging files without sacrificing aesthetics.

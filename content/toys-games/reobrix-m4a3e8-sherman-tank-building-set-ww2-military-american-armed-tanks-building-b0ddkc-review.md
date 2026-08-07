@@ -1,4 +1,5 @@
 ---
+
 title: "Reobrix M4A3E8 Sherman Tank Building Set,WW2 Military Americ"
 seo_title: "Reobrix M4A3E8 Sherman Tank Building Set,WW2 Milit Review"
 meta_description: "Our full reobrix m4a3e8 sherman tank building set,ww2 military americ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDKCBH7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lRr3MBHnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Brick-Built Sherman That Actually Rolls — But Check the Fine Print**

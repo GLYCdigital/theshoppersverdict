@@ -1,4 +1,5 @@
 ---
+
 title: "GAN 251 M Air, 2x2 Magnetic Speed Cube Stickerless 251 Mini"
 seo_title: "GAN 251 M Air 2x2 Review: Is This Mini Speed Cube Worth It?"
 meta_description: "GAN 251 M Air 2x2 magnetic speed cube review: performance, build quality, and honest downsides. See if this stickerless mini cube fits your solving style."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09574FD1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41r9dGbzITL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Weighs just 57 grams — nearly half the weight of standard 2x2s, which makes it genuinely comfortable for long practice sessions"
   - "The 42-magnet system gives a crisp, tactile snap on every turn without feeling mushy — a big upgrade from the 8-magnet budget cubes"
   - "Factory setup is excellent — the adjustment system lets you fine-tune tension in 0.2mm increments without disassembling the cube"
-cons:
+cons: 
   - "The 51mm size is noticeably smaller than the standard 57mm — if you have large hands, this will feel cramped for the first few days"
   - "The frosted stickerless plastic shows fingerprints and smudges quickly; you'll be wiping it down more often than you'd like"
+
 ---
 
 **The 2x2 that made me question my main** — that's what I kept thinking during the two weeks I spent with the GAN 251 M Air.

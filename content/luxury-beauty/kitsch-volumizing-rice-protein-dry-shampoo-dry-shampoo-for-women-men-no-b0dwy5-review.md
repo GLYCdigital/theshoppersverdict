@@ -1,4 +1,5 @@
 ---
+
 title: "Kitsch Volumizing Rice Protein Dry Shampoo - Dry Shampoo for"
 seo_title: "Kitsch Volumizing Rice Protein Dry Shampoo - Dry S Review"
 meta_description: "Our full kitsch volumizing rice protein dry shampoo - dry shampoo for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DWY54DTC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rj2bFgryL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about dry shampoo: most formulas just swap greasy roots for a chalky, white-rooted mess. The Kitsch Volumizing Rice Protein Dry Shampoo tries to do something different — it promises volume, not just oil control. After digging through 200 ratings and the ingredient list, here's the real story.

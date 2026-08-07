@@ -1,4 +1,5 @@
 ---
+
 title: "BIRASIL Raised Garden Beds"
 seo_title: "BIRASIL Raised Garden Beds Review: Worth It? (2026)"
 meta_description: "Honest BIRASIL raised garden bed review: build quality, real-world performance, and who should buy. 4.2/5 from 210 ratings. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B5L52KNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61us2S48OJL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Heavy-duty galvanized steel panels (0.8mm thick) resist rust far better than the thin powder-coated alternatives at similar price points"
   - "Tool-free assembly with rounded-edge bolts — sets up in under 15 minutes without stripping screws or cutting fingers"
   - "Open-bottom design preserves soil drainage and lets earthworms in, while the included liner prevents soil loss through gaps"
-cons:
+cons: 
   - "Hardware holes align imperfectly on some units — you may need to coax panels into place with a rubber mallet"
   - "Corners are sharp enough to snag clothing or skin if you brush against them while weeding"
+
 ---
 
 ## The 15-Minute Garden Upgrade That Actually Delivers

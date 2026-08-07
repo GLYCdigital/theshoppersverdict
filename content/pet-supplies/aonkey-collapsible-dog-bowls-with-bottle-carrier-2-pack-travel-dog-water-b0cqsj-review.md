@@ -1,4 +1,5 @@
 ---
+
 title: "Aonkey Collapsible Dog Bowls with Bottle Carrier, 2 Pack Tra"
 seo_title: "Aonkey Collapsible Dog Bowls Review: 2-Pack Travel Set"
 meta_description: "Honest Aonkey collapsible dog bowls with bottle carrier review. 4.8-star rated 2-pack travel set — portability, leaks, and durability tested."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQSJ67KV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jSluAyC5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "600ml squeeze bottle with one-handed valve operation — no unscrewing caps mid-walk"
   - "Silicone bowls collapse flat to under an inch thick, fitting in a pocket or clipped to a belt loop"
   - "Carabiner and strap system holds both bowls and bottle together as one unit"
-cons:
+cons: 
   - "Silicone bowls are flexible enough that heavy dogs can tip them on uneven ground"
   - "Bottle lacks insulation — water warms up fast on summer hikes"
+
 ---
 
 Let’s be honest about what most portable dog bowls get wrong: they’re either bulky plastic contraptions that take up half your backpack, or flimsy foldable discs that blow away the second your dog looks at them. The Aonkey Collapsible Dog Bowls with Bottle Carrier tries to solve both problems at once — and for the most part, it actually does.

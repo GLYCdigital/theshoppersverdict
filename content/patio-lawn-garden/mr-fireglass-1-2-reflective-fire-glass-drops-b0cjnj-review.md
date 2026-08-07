@@ -1,7 +1,8 @@
 ---
-title: "Mr. Fireglass 1/2\" Reflective Fire Glass Drops"
-seo_title: "Mr. Fireglass 1/2\" Reflective Fire Glass Drops Review: Ve"
-meta_description: "Our full mr. fireglass 1/2\" reflective fire glass drops review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Mr. Fireglass 1/2\ Reflective Fire Glass Drops"
+seo_title: "Mr. Fireglass 1/2\ Reflective Fire Glass Drops Review: Ve"
+meta_description: "Our full mr. fireglass 1/2\ reflective fire glass drops review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mr-fireglass-1-2-reflective-fire-glass-drops-b0cjnj-review"
 image_alt: "Mr. Fireglass 1/2 Reflective Fire Glass Drops"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJNJPX6J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LWa5MAuJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dropped $40 on fire glass that arrived looking like crushed beer bottles, you know the disappointment. The Mr. Fireglass 1/2" Reflective Drops are a different story — but they're not perfect. Here's what 235 buyers at a 4.7 average actually get for their money.

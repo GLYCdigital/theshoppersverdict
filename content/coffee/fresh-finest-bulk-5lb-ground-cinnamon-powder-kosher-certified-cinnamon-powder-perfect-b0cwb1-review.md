@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Finest Bulk 5LB Ground Cinnamon Powder - Kosher Certif"
 seo_title: "Fresh Finest 5LB Ground Cinnamon Review (2026): Worth It?"
 meta_description: "Fresh Finest 5LB ground cinnamon powder review: aroma, potency, value, and uses. Is this bulk kosher-certified spice worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWB1ZKJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k8HrdD-NL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely potent aroma that holds up in baked goods — not the faded, dusty stuff you get in grocery store jars"
   - "Resealable 5lb pouch with sturdy zip closure that actually keeps the powder fresh and clump-free for months"
   - "Kosher certified with no added sugars or fillers — clean ingredient list for a bulk commodity spice"
-cons:
+cons: 
   - "No scoop or measuring spoon included — you'll need to transfer to your own container for daily use"
   - "Powder is fine enough to create dust when poured quickly — open carefully over the sink or bowl"
+
 ---
 
 **Fresh Finest Bulk 5LB Ground Cinnamon Powder – The Bulk Spice That Actually Tastes Like Cinnamon**

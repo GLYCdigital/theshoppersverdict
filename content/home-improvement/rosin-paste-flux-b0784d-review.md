@@ -1,4 +1,5 @@
 ---
+
 title: "Rosin Paste Flux"
 seo_title: "Rosin Paste Flux Review: Verdict | TSV"
 meta_description: "Our full rosin paste flux review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0784DMNJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RJKpeUGCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a solder joint that refuses to wet, you already know the frustration. Liquid flux evaporates before it does its job. Paste flux sits there and works. This rosin paste flux in a syringe-style applicator is the fix for exactly that problem — and with a 4.7 average across 235 ratings, it's clearly earning its keep in hobbyist and pro benches alike.

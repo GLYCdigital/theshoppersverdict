@@ -1,4 +1,5 @@
 ---
+
 title: "SOLIGT Extra Thick Heavy Duty 10 Pack Seed Starting Trays - "
 seo_title: "SOLIGT Extra Thick Heavy Duty 10 Pack Seed Startin Review"
 meta_description: "Our full soligt extra thick heavy duty 10 pack seed starting trays -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVX4Z23Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VMvolNh7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most seed starting trays are disposable junk. You buy them, they crack by week two, and you're left holding a sagging mess of wet soil. The SOLIGT Extra Thick Heavy Duty 10-Pack aims to be the exception. Does it deliver? Mostly yes — with a few caveats worth knowing before you click buy.

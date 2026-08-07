@@ -1,4 +1,5 @@
 ---
+
 title: "Rear Grease Gate for Blackstone Griddle, Griddle Grease Gate"
 seo_title: "Rear Grease Gate for Blackstone Griddle, Griddle G Review"
 meta_description: "Our full rear grease gate for blackstone griddle, griddle grease gate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLB7PMCN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fyxg90rpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve cooked on a Blackstone for more than a week, you know the struggle: diced onions, stray rice grains, and crumbling sausage all migrate toward the rear grease trough — then clog the drain hole and sit there burning until you scrape them out with a spatula and a lot of swearing. The Rear Grease Gate for Blackstone Griddle is a $15-ish piece of stainless steel that claims to end that. After testing it across a dozen cooks, here’s the honest breakdown.

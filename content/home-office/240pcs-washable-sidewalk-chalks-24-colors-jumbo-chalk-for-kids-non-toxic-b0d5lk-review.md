@@ -1,4 +1,5 @@
 ---
+
 title: "240PCS Washable Sidewalk Chalks, 24 Colors Jumbo Chalk for K"
 seo_title: "240PCS Washable Sidewalk Chalk Review: 24 Colors for Kids"
 meta_description: "Honest review of 240PCS washable sidewalk chalk with 24 vibrant colors. Tested for washability, durability, and value. See if it's right for your kids."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D5LKGRQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yBmJAFPRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Each of the 24 colors has 10 sticks — enough for a whole classroom or multiple kids without fighting over the good shades"
   - "Jumbo thickness (roughly 1 inch diameter) holds up to aggressive drawing and doesn't snap in little hands like skinny crayon-style chalk"
   - "Washes off concrete, asphalt, and patio stone with just water — no scrubbing or chemical cleaners needed"
-cons:
+cons: 
   - "Cardboard storage box is flimsy and won't survive daily use — plan on transferring to a plastic bin or bucket"
   - "Dust is fine and powdery; if your kid is a chalk crusher, you'll want to use it outside only, not on a screened porch"
+
 ---
 
 If you've ever watched a box of sidewalk chalk disintegrate within 48 hours of purchase — snapped sticks, pale colors, and a toddler crying because the blue broke again — you know the struggle. This 240-piece set from the B0D5LKGRQN listing is designed to solve that specific problem. Here's the honest breakdown after looking at what 240 buyers are saying.

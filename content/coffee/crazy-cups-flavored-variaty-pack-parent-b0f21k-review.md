@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Cups Flavored Variaty pack Parent"
 seo_title: "Crazy Cups Flavored Variety Pack Review: Worth It?"
 meta_description: "Honest Crazy Cups flavored variety pack review: flavors, strength, compatibility with Keurig, and real buyer feedback. Is this sampler worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F21KJVR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HUYjwxx1L._SL1000_.jpg"
-pros:
+pros: 
   - "Mix of classic and dessert-inspired flavors (e.g., butter pecan, cinnamon roll) that actually taste distinct, not muddled."
   - "Compatible with standard Keurig 1.0 and 2.0 brewers — no adapter needed, unlike some third-party pods."
   - "Individually wrapped cups keep freshness locked in, which matters if you stretch the box over a month."
-cons:
+cons: 
   - "Coffee strength leans medium-light; dark-roast lovers will find it thin, even on the 6-oz setting."
   - "No flavor list printed on the box exterior in some shipments — you have to open the sleeve to see what you're getting."
+
 ---
 
 ## The sampler that actually makes you feel like you're at a dessert buffet

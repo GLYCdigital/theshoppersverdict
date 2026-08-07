@@ -1,4 +1,5 @@
 ---
+
 title: "Hikole 24V Ride on Toys for Big Kids, 2 Seater Electric Mons"
 seo_title: "Hikole 24V 2-Seater Ride On Toy Review: Big Kids Tested"
 meta_description: "Honest Hikole 24V 2-seater ride-on toy review for big kids. Tested performance, battery life, real buyer feedback, and who should buy it. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D91J698N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719P1KhcHwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 24V system with dual motors handles hills and grass that cheap 12V ride-ons can't touch"
   - "Seats two kids up to 130 lbs combined — rare at this price point"
   - "Parent remote control with 2.4G signal gives real override for safety"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes and the included wrench is junk — grab your own socket set"
   - "Battery life drops noticeably when carrying two kids on grass; expect closer to 45 minutes"
+
 ---
 
 Most ride-on toys for "big kids" are a joke — a 12V motor barely strong enough to move a 5-year-old on flat pavement. The Hikole 24V 2-Seater Electric Monster Truck is not that. This thing has actual torque, actual suspension, and a battery that doesn't quit after ten minutes. If your kids are aging out of plastic Power Wheels but aren't ready for a gas-powered go-kart, this is the sweet spot.

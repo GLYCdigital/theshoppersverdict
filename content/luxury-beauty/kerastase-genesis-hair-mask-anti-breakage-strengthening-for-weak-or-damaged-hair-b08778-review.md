@@ -1,4 +1,5 @@
 ---
+
 title: "KERASTASE Genesis Hair Mask | Anti-Breakage & Strengthening "
 seo_title: "KERASTASE Genesis Hair Mask | Anti-Breakage & Stre Review"
 meta_description: "Our full kerastase genesis hair mask | anti-breakage & strengthening  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0877818P3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5112odTgVJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with a confession: I'm typically skeptical of luxury hair masks that promise to "rebuild" damaged hair. Most are overpriced conditioners with pretty packaging. The Kerastase Genesis mask is different — and the 4.7-star average across 235 ratings suggests I'm not alone in that assessment.

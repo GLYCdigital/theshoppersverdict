@@ -1,4 +1,5 @@
 ---
+
 title: "Fontana(â„¢) Caramel Sauce, 63 fl oz"
 seo_title: "Fontana Caramel Sauce Review: Worth It for Home Baristas?"
 meta_description: "Honest Fontana Caramel Sauce review: 63 fl oz pump bottle for coffee drinks. Flavor, consistency, value, and real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B004UJ09ZI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P4u9oNOWL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine caramel flavor with real sugar — not artificial syrup taste"
   - "63 fl oz pump bottle matches coffee shop portions; two pumps sweeten a 16 oz latte"
   - "Thick consistency that sinks into espresso instead of floating like thin syrups"
-cons:
+cons: 
   - "Requires refrigeration after opening, which can cause separation and clogging in the pump"
   - "No ingredient list on the Amazon listing — buyers must check bottle label for allergens"
   - "Some batches arrive with damaged pumps or leaking seals in transit"
+
 ---
 
 **Fontana Caramel Sauce Review: The Coffee Shop Pump for Your Home Bar**

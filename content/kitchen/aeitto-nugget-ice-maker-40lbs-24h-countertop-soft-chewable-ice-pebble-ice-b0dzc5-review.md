@@ -1,4 +1,5 @@
 ---
+
 title: "Aeitto Nugget Ice Maker 40Lbs/24H, Countertop Soft Chewable"
 seo_title: "Aeitto Nugget Ice Maker Review: 40Lbs/24H Countertop Unit"
 meta_description: "Honest Aeitto Nugget Ice Maker review: 40 lbs/day output, chewable pebble ice, but 3.5-star Amazon rating reveals noise and durability concerns."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DZC5YMDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71moXo7lx+L._SL1500_.jpg"
-pros:
+pros: 
   - "Produces genuine nugget ice — soft, chewable, and holds up well in drinks without diluting them fast"
   - "40 lbs/24h rated capacity is realistic for countertop units; first batch arrives in under 15 minutes"
   - "Self-cleaning function and removable parts make maintenance noticeably easier than cheaper rivals"
-cons:
+cons: 
   - "Noise level is significant — expect a constant hum around 55-60 dB that's noticeable in open kitchens"
   - "Ice storage bin lacks insulation; nuggets start melting within 20-30 minutes if not transferred"
   - "Several recent reviews report premature compressor failure at the 4-6 month mark"
+
 ---
 
 **The Aeitto Nugget Ice Maker delivers the good stuff — real, chewable nugget ice — but it comes with compromises you need to know about before you click "buy."**

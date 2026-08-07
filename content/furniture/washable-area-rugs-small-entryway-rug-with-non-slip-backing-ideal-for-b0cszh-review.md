@@ -1,4 +1,5 @@
 ---
+
 title: "Washable Area Rugs, Small Entryway Rug with Non-Slip Backing"
 seo_title: "Washable Area Rugs, Small Entryway Rug with Non-Sl Review"
 meta_description: "Our full washable area rugs, small entryway rug with non-slip backing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSZH4JX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bSMn7fCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If you're tired of rugs that slide across your entryway or fall apart after one cycle in the washing machine, this washable area rug earns its place at your door. It's not plush, it's not luxurious — but it does exactly what a small entryway rug should do, and it survives washing without turning into a crumpled mess.

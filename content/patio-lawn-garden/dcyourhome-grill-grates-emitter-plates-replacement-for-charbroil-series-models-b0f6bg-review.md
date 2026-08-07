@@ -1,4 +1,5 @@
 ---
+
 title: "DcYourHome Grill Grates & Emitter Plates Replacement for Cha"
 seo_title: "DcYourHome Grill Grates & Emitter Plates Review (2026)"
 meta_description: "DcYourHome replacement grill grates & emitter plates: Do they fit CharBroil? Read our honest 4.6-star review, fitment details, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6BG6FPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81B09XjRwhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact-fit replacement for popular CharBroil 3-burner models — no modification needed"
   - "Thick steel construction with porcelain coating resists rust and cleans up easily"
   - "Lava rock-style emitter plates distribute heat evenly and protect burners from drippings"
-cons:
+cons: 
   - "Porcelain coating can chip if you scrape aggressively with metal tools"
   - "Not universal — must confirm your grill's exact model number before ordering"
   - "Lava rock emitters retain heat longer, which can surprise you on first preheat"
+
 ---
 
 Let's be honest: nothing kills a grilling season faster than rusted-out grates and emitter plates that have disintegrated into flaky shrapnel. If you own a CharBroil 3-burner gas grill, you've likely hit this wall. The OEM replacement parts cost almost as much as a new grill, which is why aftermarket options like the DcYourHome set have become the go-to fix. With 229 ratings and a solid 4.6 average, it's worth a closer look before you drop another $60 on a new grill.

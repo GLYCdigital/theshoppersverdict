@@ -1,4 +1,5 @@
 ---
+
 title: "PeckCamÂ® Bird Feeder with Camera+Solar Panel 32G Card 2K HD"
 seo_title: "PeckCamÂ® Bird Feeder with Camera+Solar Panel 32G  Review"
 meta_description: "Our full peckcamâ® bird feeder with camera+solar panel 32g card 2k hd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQ8TH48L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RuhUkTu7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the listing photos: a sleek feeder with a camera lens staring at the seed tray, promising 2K HD bird videos delivered to your phone. The PeckCam delivers on that promise — mostly. But there are a few things the marketing images don't tell you, and knowing them before you buy will save you an afternoon of frustration.

@@ -1,4 +1,5 @@
 ---
+
 title: "FANDAMEI Nail Art Tools, Nail Brush, 15 PCS Nail Art Brushes"
 seo_title: "FANDAMEI Nail Art Brushes Review: 15-Piece Set Worth It?"
 meta_description: "FANDAMEI 15-piece nail art brush set review: quality, durability, and value. See if this $8.99 kit beats premium brands before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FKH3P8G6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714MhbDjiUL._SL1500_.jpg"
-pros:
+pros: 
   - "15 distinct brush shapes cover everything from fine-line striping to broad gradient coverage — no gap in the set"
   - "Synthetic nylon bristles hold their shape after acetone cleaning, unlike cheaper sets that splay within weeks"
   - "Ergonomic aluminum handles with anti-slip grip rings make detailed work comfortable for 30+ minute sessions"
-cons:
+cons: 
   - "Bristles shed slightly on first use — wash with warm water and gentle soap before first application"
   - "Thin liner brush tips are delicate; they'll bend permanently if you press too hard or store them tip-down"
   - "No protective cap for every brush — the case holds them, but loose storage risks damage"
+
 ---
 
 ## Is a $9 Brush Set Actually Worth Your Time?

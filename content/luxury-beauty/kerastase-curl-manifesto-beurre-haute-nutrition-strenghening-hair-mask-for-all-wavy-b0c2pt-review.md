@@ -1,4 +1,5 @@
 ---
+
 title: "Kerastase Curl Manifesto Beurre Haute Nutrition Strenghening"
 seo_title: "Kerastase Curl Manifesto Beurre Haute Nutrition St Review"
 meta_description: "Our full kerastase curl manifesto beurre haute nutrition strenghening review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2PTGZDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615VA874fxL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent $30 on a "curl cream" that left your hair crunchy by noon, you already know the frustration. The Kerastase Curl Manifesto Beurre Haute Nutrition Strengthening mask sits at the opposite end of that spectrum — it's the luxury option that actually behaves like one. After testing it across a week of wash days, here's what I found.

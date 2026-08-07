@@ -1,23 +1,25 @@
 ---
+
 title: "Ceylon Cinnamon Powder (1LB) | 100% CERTIFIED Organic | Fres"
 seo_title: "Ceylon Cinnamon Powder Review: Organic 1LB Bag Worth It?"
 meta_description: "Honest Ceylon cinnamon powder review: 1LB organic, fresh-ground from Sri Lanka. See pros, cons, real buyer feedback, and who should buy it."
 slug: "ceylon-cinnamon-powder-1lb-100-certified-organic-freshly-ground-premium-sri-lanka-b07k77-review"
 image_alt: "Bag of certified organic Ceylon cinnamon powder from Sri Lanka, 1 pound size"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07K77LNB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91jtyv0R7WL._SL1500_.jpg"
-pros:  
+pros: 
   - "True Ceylon (Cinnamomum verum) — low coumarin, safer for daily use than cassia"  
   - "1LB resealable bag holds freshness; aroma is potent and sweet, not harsh"  
   - "Fine, consistent grind that dissolves well in coffee, oatmeal, and baking"  
-cons:  
+cons: 
   - "Bag lacks a scoop or pour spout — easy to over-pour if you're not careful"  
   - "Some batches arrive slightly clumpy due to natural oils; needs a shake before use"
+
 ---
 
 If you're still buying that dusty cinnamon jar from the grocery store, stop. That's almost certainly cassia — the cheaper, stronger cousin that contains coumarin, a compound linked to liver concerns when consumed daily. This Ceylon powder from Fres is the real deal: verified *Cinnamomum verum*, grown in Sri Lanka, and certified organic. For anyone sprinkling cinnamon into coffee, smoothies, or oatmeal every morning, swapping to true Ceylon isn't a luxury — it's a health upgrade.

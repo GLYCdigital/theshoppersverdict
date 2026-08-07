@@ -1,23 +1,25 @@
 ---
+
 title: "Amazon Basics Multi-Purpose Bench Scraper, Stainless Steel D"
 seo_title: "Amazon Basics Bench Scraper Review: Dough Cutter & More"
 meta_description: "Our Amazon Basics Multi-Purpose Bench Scraper review: stainless steel, measurement marks, easy cleanup. See pros, cons, and who should buy this $7 gadget."
 slug: "amazon-basics-multi-purpose-bench-scraper-stainless-steel-dough-cutter-with-measurement-b07255-review"
 image_alt: "Amazon Basics stainless steel bench scraper with measurement markings and wooden handle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 7.22  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: 7.22
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07255T6SW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nA+D6C2OL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Stainless steel blade resists rust and cleans in seconds"  
   - "Measurement marks in inches and centimeters for precise dough portioning"  
   - "Comfortable wooden handle with solid grip — no slipping mid-cut"  
-cons:  
+cons: 
   - "Blade edge isn't razor-sharp — won't slice through very stiff bread dough cleanly"  
   - "Wooden handle requires hand-washing to avoid cracking over time"
+
 ---
 
 Let’s be honest: most $7 kitchen gadgets end up in a drawer, forgotten. The Amazon Basics Multi-Purpose Bench Scraper is not that gadget. With 240 ratings and a 4.8-star average, it’s outperforming tools that cost five times as much. But is it actually good, or just cheap and popular? I tested it against my usual suspects — a Danish dough whisk, a metal pastry cutter, and a dedicated dough scraper — to give you the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Evergreen Monogram Large Coir Doormat"
 seo_title: "Evergreen Monogram Coir Doormat Review (2026): Worth It?"
 meta_description: "Honest Evergreen Monogram Large Coir Doormat review: durability, shedding, sizing, and style. See if this 4.4-star mat fits your entryway."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJH8375Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P7RBtTlYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine coir construction scrapes dirt effectively without scratching tile or hardwood"
   - "Large 30x18 footprint covers wide entryways; monogram is crisply printed, not cheaply stenciled"
   - "Thick 1-inch pile stays flat out of the box — no curling corners like cheaper mats"
-cons:
+cons: 
   - "Sheds noticeably for the first 2–3 weeks; expect coir fibers on your porch and shoes"
   - "Not ideal for covered areas only — heavy rain soaks through and can stain concrete underneath"
   - "Monogram color options are limited to black or brown; no bold custom colors"
+
 ---
 
 **Opening: The doormat that actually does its job**

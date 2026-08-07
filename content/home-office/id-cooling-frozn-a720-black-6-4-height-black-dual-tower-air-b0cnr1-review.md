@@ -1,7 +1,8 @@
 ---
-title: "ID-COOLING FROZN A720 Black - 6.4\" Height Black Dual-Tower A"
-seo_title: "ID-COOLING FROZN A720 Black - 6.4\" Height Black Du Review"
-meta_description: "Our full id-cooling frozn a720 black - 6.4\" height black dual-tower a review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "ID-COOLING FROZN A720 Black - 6.4\ Height Black Dual-Tower A"
+seo_title: "ID-COOLING FROZN A720 Black - 6.4\ Height Black Du Review"
+meta_description: "Our full id-cooling frozn a720 black - 6.4\ height black dual-tower a review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "id-cooling-frozn-a720-black-6-4-height-black-dual-tower-air-b0cnr1-review"
 image_alt: "ID-COOLING FROZN A720 Black - 6.4 Height Black Dual-Tower Air CPU Cooler, 7Ã—Ð¤6mm Heatpipes, Dual 140x140x25mm FDB Fans"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNR1YGH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qw3eN+meL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ID-COOLING FROZN A720 isn't the flashiest cooler on the shelf, but it's the one you'll forget about — and that's the point. At 6.4 inches tall, this dual-tower air cooler targets the sweet spot between tower coolers that struggle with modern CPUs and 280mm AIOs that cost twice as much. After 225 ratings averaging 4.5 stars, the verdict is clear: this thing punches well above its price tag.

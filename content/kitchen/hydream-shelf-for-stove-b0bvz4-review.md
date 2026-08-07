@@ -1,4 +1,5 @@
 ---
+
 title: "Hydream Shelf for stove"
 seo_title: "Hydream Shelf for stove Review: Verdict | TSV"
 meta_description: "Our full hydream shelf for stove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVZ4T5BG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dMollKQgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you cook regularly, you know the struggle: counter space vanishes the moment you pull out a cutting board, and the space above your stove is just dead air. The Hydream Shelf for stove turns that wasted vertical gap into two usable tiers, and with 225 ratings averaging 4.5 stars, it's clearly earning its keep in real kitchens.

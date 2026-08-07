@@ -1,4 +1,5 @@
 ---
+
 title: "Frito-Lay Bold Mega Mix Cube 42ct"
 seo_title: "Frito-Lay Bold Mega Mix Cube 42ct Review: Worth It?"
 meta_description: "Frito-Lay Bold Mega Mix Cube 42ct review: 4.8-star snack variety pack. We break down portions, flavor balance, and value for parties and snacking."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BF734NF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-WdsfLbgL._SL1500_.jpg"
-pros:
+pros: 
   - "42 individually wrapped bags in one cube — genuinely convenient for grabbing and going"
   - "Bold flavor lineup (Flamin' Hot, Cool Ranch, Spicy Sweet Chili) covers serious snackers, not just plain-jane chip fans"
   - "Cube box design is sturdy and stackable — works as a pantry organizer or party centerpiece"
-cons:
+cons: 
   - "No variety control — you get what Frito-Lay sends, and some buyers report heavier Doritos than Cheetos ratios"
   - "Individual bags are the standard 'lunchbox' size (about 1 oz), not the bigger share bags — portion shock if you expected more"
   - "Cube is bulky for small kitchens or apartments with limited cabinet space"
+
 ---
 
 Let's be honest: you don't need me to tell you what a Frito-Lay chip tastes like. You've eaten Flamin' Hot Cheetos at 2 a.m. You know the crunch of Cool Ranch Doritos. What you actually need to know is whether this 42-count Mega Mix Cube is worth your money, how the variety breaks down, and whether the cube format is genius or just another box to trip over.

@@ -1,4 +1,5 @@
 ---
+
 title: "Happy Being Nutrient-Rich White Tea â€“ Infused with Turmeri"
 seo_title: "Happy Being Nutrient-Rich White Tea â€“ Infused wi Review"
 meta_description: "Our full happy being nutrient-rich white tea â€“ infused with turmeri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0D2J6DTM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wDaVsK5ZL._SL1050_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 3.5-star tea that quietly does what it claims — if you can get past the packaging roulette.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All Powder Coated Kettlebell, Cast Iron Core Kettlebells"
 seo_title: "Yes4All Powder Coated Kettlebell, Cast Iron Core K Review"
 meta_description: "Our full yes4all powder coated kettlebell, cast iron core kettlebells review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FRNBXT7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C60jBOlbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for your first or fifth kettlebell, the Yes4All Powder Coated model keeps showing up for a reason. At 4.6 stars from 229 ratings, it’s not flashy — but it’s doing the job right for most home gym owners. The question isn’t whether it’s a decent bell. It’s whether it fits *your* training style.

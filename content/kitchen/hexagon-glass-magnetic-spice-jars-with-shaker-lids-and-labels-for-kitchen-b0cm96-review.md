@@ -1,4 +1,5 @@
 ---
+
 title: "Hexagon Glass Magnetic Spice Jars with Shaker Lids and Label"
 seo_title: "Hexagon Glass Magnetic Spice Jars with Shaker Lids Review"
 meta_description: "Our full hexagon glass magnetic spice jars with shaker lids and label review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM96WTWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H+Rl0jGiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict on These Hexagon Glass Magnetic Spice Jars**

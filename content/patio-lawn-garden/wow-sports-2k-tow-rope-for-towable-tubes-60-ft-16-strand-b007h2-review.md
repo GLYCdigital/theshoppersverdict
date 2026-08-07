@@ -1,4 +1,5 @@
 ---
+
 title: "Wow Sports 2K Tow Rope for Towable Tubes - 60 ft - 16-Strand"
 seo_title: "Wow Sports 2K Tow Rope for Towable Tubes - 60 ft - Review"
 meta_description: "Our full wow sports 2k tow rope for towable tubes - 60 ft - 16-strand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007H2Q67U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pHTszo3WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review**

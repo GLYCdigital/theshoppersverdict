@@ -1,4 +1,5 @@
 ---
+
 title: "120 Sheets Parchment Paper for Certificates, 8.5 inch  x 11 inch , 100 inch"
 seo_title: "120 Sheets Parchment Paper for Certificates Review (2026)"
 meta_description: "Honest review of 120-sheet parchment certificate paper, 8.5x11, 100gsm. Tested print quality, durability, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYTH5XQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iPohVu07L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100gsm weight gives a substantial, premium feel without being too thick for home printers"
   - "Both inkjet and laser compatible — verified with multiple printer types in testing"
   - "Consistent vintage parchment texture and color across all 120 sheets, no blotching or uneven spots"
-cons:
+cons: 
   - "Not acid-free — long-term archival use may yellow over decades"
   - "Texture can cause minor ink smearing on high-saturation graphics if printed too quickly"
+
 ---
 
 Let's cut through the noise. If you're shopping for parchment certificate paper, you've probably seen a dozen options that all look identical in the listing photos. This one from the 120-sheet pack at 8.5" x 11" and 100gsm is different — and I'll tell you exactly how after testing it.

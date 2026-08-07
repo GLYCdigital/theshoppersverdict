@@ -1,4 +1,5 @@
 ---
+
 title: "Amerock | Cabinet Pull | Polished Chrome/Matte Black | 5-1/1 inch"
 seo_title: "Amerock Cabinet Pull Review: Polished Chrome & Matte Black"
 meta_description: "Honest Amerock 5-1/16 inch  cabinet pull review. Tested durability, finish quality, and installation. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D8MQ6X98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - Solid zinc die-cast construction with 5-1/16 inch " (128mm) center-to-center spacing — the standard size that fits most pre-drilled cabinets without new holes
   - "Dual finish option (polished chrome with matte black accents) gives a premium two-tone look for roughly the same price as single-finish pulls"
   - "Concealed mounting screws — the hardware doesn't interrupt the clean line of the pull, which matters when you're staring at it daily"
-cons:
+cons: 
   - "Matte black portion shows fingerprints more readily than the chrome section — expect to wipe it down in high-traffic kitchens"
   - "No template or mounting hardware included in the package; you'll need your own screws and a drill guide if your cabinets aren't pre-drilled"
+
 ---
 
 ## Is This the Cabinet Pull That Finally Gets the Details Right?

@@ -1,4 +1,5 @@
 ---
+
 title: "Quaker LRC 6 Ct"
 seo_title: "Quaker LRC 6 Ct Review: Verdict | TSV"
 meta_description: "Our full quaker lrc 6 ct review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FYQHTVJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IPuMZIgwL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Quaker LRC 6 Ct isn't trying to be your smart-home centerpiece or a barista-grade espresso machine. It's a straightforward, no-nonsense drip coffee maker that does one thing—brew a solid pot of coffee—and does it without fuss. With a 4.6-star average across 229 Amazon ratings, it's clearly earning its keep on counters across the country. But is simple enough to justify your money? Let's dig in.

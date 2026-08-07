@@ -1,7 +1,8 @@
 ---
-title: "HOKYHOKY Fluted Console Table with Drawers, Modern 47.1\" Ent"
+
+title: "HOKYHOKY Fluted Console Table with Drawers, Modern 47.1\ Ent"
 seo_title: "HOKYHOKY Fluted Console Table with Drawers, Modern Review"
-meta_description: "Our full hokyhoky fluted console table with drawers, modern 47.1\" ent review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full hokyhoky fluted console table with drawers, modern 47.1\ ent review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hokyhoky-fluted-console-table-with-drawers-modern-47-1-entryway-table-with-b0dq84-review"
 image_alt: "HOKYHOKY Fluted Console Table with Drawers, Modern 47.1 Entryway Table with Storage Shelf, Boho Narrow Skinny Behind Cou"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ84BQBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EYpZm2ywL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The fluted furniture trend is everywhere, but most pieces at this price cut corners — flimsy veneer, wobbly legs, drawers that stick. The HOKYHOKY 47.1-inch console table doesn't cut all of them, but it cuts fewer than you'd expect. After digging through 220 ratings and the construction details, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market, Tomato Paste Double Concentrated,"
 seo_title: "365 Tomato Paste Double Concentrated Review (2026)"
 meta_description: "Honest 365 By Whole Foods Market Tomato Paste Double Concentrated review: flavor, texture, value vs. brands. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9P5H55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517kfaJ6CkL._SL1000_.jpg"
-pros:
+pros: 
   - "Double-concentrated means half the paste delivers twice the tomato depth — a little goes a long way in sauces and braises"
   - "Packaged in a squeeze tube, not a can, so no waste, no metal aftertaste, and it stays fresh in the fridge for weeks"
   - "Made from organic tomatoes with no added salt, sugar, or preservatives — just pure cooked-down tomato"
-cons:
+cons: 
   - "The 5-ounce tube is smaller than standard 6-ounce cans, so heavy users will repurchase more often"
   - "No added salt means you must season aggressively — this isn't a shortcut paste for quick weeknight cooking"
   - "Tube opening can clog if you don't wipe it clean after each squeeze, which gets annoying mid-recipe"
+
 ---
 
 **The 365 Tomato Paste That Outperforms Its Price Tag**

@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmanity Honey Drops Made With Lavender Honey, 7 oz Jar, H"
 seo_title: "Gourmanity Honey Drops Made With Lavender Honey, 7 Review"
 meta_description: "Our full gourmanity honey drops made with lavender honey, 7 oz jar, h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRKWLFLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GMk5uko1L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Gourmanity Honey Drops Made With Lavender Honey: The Coffee Lover’s Sweetener You Didn’t Know You Needed

@@ -1,4 +1,5 @@
 ---
+
 title: "Xgunion Trimmer Spool Line for Worx 14 Pack WA0010 Edger Spo"
 seo_title: "Xgunion Trimmer Spool Line for Worx 14 Pack WA0010 Review"
 meta_description: "Our full xgunion trimmer spool line for worx 14 pack wa0010 edger spo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNJP7LYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iq2mb+B2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Worx edger, you already know the pain: the WA0010 spools are proprietary, and the OEM replacements feel overpriced for what's essentially a few feet of nylon line. The Xgunion 14-pack undercuts that cost dramatically — but does it actually hold up? I tested these against a season of real edging, and here's the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Legends Series Spider-Man, Spider-Man 3 Collectible 6"
 seo_title: "Marvel Legends Series Spider-Man, Spider-Man 3 Col Review"
 meta_description: "Our full marvel legends series spider-man, spider-man 3 collectible 6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9ZZBBGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jDP8S+ZbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: if you're a Spider-Man collector, you already know the Marvel Legends Series has been hit-or-miss with movie figures. The Spider-Man 3 black suit version, however, is one of those rare releases that gets it mostly right. I've handled dozens of Legends figures over the years, and this one earns its place on the shelf — with a few caveats worth knowing before you click buy.

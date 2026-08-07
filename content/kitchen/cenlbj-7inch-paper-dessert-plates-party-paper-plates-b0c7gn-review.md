@@ -1,4 +1,5 @@
 ---
+
 title: "CENLBJ 7inch paper dessert plates,party paper plates"
 seo_title: "CENLBJ 7-Inch Paper Dessert Plates Review (2026): Sturdy Party Plates"
 meta_description: "CENLBJ 7-inch paper dessert plates review: 4.7-star rated party plates. We test durability, soak-through resistance, and value. Are they worth buying?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7GN7WMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gqVwdQZBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sturdy — 7-inch plates hold up under loaded slices of cake or heaped appetizers without bending or tearing"
   - "Coated surface resists grease and moisture soak-through for at least 2 hours of heavy use"
   - "Attractive printed pattern that doesn't smudge or fade, even with oily foods"
-cons:
+cons: 
   - "No microwave-safe claim — these are paper, not molded fiber, so don't plan on reheating leftovers on them"
   - "7-inch size is dessert-plate territory; too small for full meals or serving platters"
   - "Packaging can arrive with crushed edges on the bottom plates if the box gets smooshed in transit"
+
 ---
 
 Let's be blunt: most paper plates are flimsy nonsense that collapse under a single slice of cheesecake. The CENLBJ 7-inch dessert plates are not that. At 4.7 stars across 235 ratings, these have earned their spot in the party-supply rotation. Here's the real story after digging through customer feedback and the product specs.

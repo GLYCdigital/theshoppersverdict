@@ -1,4 +1,5 @@
 ---
+
 title: "Wemily 10x3 ft Softball Pitching Mat with Mound - Antifade T"
 seo_title: "Wemily 10x3 ft Softball Pitching Mat with Mound -  Review"
 meta_description: "Our full wemily 10x3 ft softball pitching mat with mound - antifade t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT8LCJBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SfNOsbRhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pitching mats on Amazon are glorified doormats with a white stripe painted on. The Wemily 10x3 ft Softball Pitching Mat with Mound is different — it actually has a raised mound built into the turf, not just a printed graphic. At 4.4 stars from 220 ratings, it's clearly earning its keep in backyards from Texas to Ohio. Here's the real breakdown.

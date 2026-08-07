@@ -1,4 +1,5 @@
 ---
+
 title: "JFWOD Organic Vermiculite Perlite Granules for Plants and Ga"
 seo_title: "JFWOD Organic Vermiculite Perlite Granules for Pla Review"
 meta_description: "Our full jfwod organic vermiculite perlite granules for plants and ga review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GP7XTBGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pIlNiVCiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Solid 2-in-1 Soil Amendment That Earns Its Place in Your Garden Shed — With One Storage Caveat**

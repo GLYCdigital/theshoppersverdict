@@ -1,4 +1,5 @@
 ---
+
 title: "MILAOSHU Rechargeable Flashlights 90000 High Lumens - 2 Pack"
 seo_title: "MILAOSHU Rechargeable Flashlights 90000 High Lumen Review"
 meta_description: "Our full milaoshu rechargeable flashlights 90000 high lumens - 2 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09WKBCP3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R7XllpNGL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **MILAOSHU Rechargeable Flashlights 90000 High Lumens - 2 Pack** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "TBBGA Cordless Table Lamps Rechargeable, Portable Battery Op"
 seo_title: "TBBGA Cordless Table Lamps Rechargeable, Portable  Review"
 meta_description: "Our full tbbga cordless table lamps rechargeable, portable battery op review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDC51KMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kKCdKL6OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tripped over an extension cord running across a patio, or wrestled with a lamp that needs an outlet within arm's reach, you already know why cordless lighting makes sense. The TBBGA Cordless Table Lamp is a battery-powered light that promises to kill the cord problem entirely. After digging through the specs and 235 verified buyer ratings (4.7 stars), here's the real story.

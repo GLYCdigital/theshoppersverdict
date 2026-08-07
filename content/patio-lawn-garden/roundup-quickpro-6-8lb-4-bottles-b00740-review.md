@@ -1,4 +1,5 @@
 ---
+
 title: "Roundup Quickpro 6.8lb 4 Bottles"
 seo_title: "Roundup Quickpro 6.8lb 4 Bottles Review: Verdict | TSV"
 meta_description: "Our full roundup quickpro 6.8lb 4 bottles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B007404UI2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81veyvZ+b8L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front:** If you've got a serious weed problem — think fence lines, gravel driveways, or that patch of poison ivy behind the shed — Roundup Quickpro is the professional-grade answer. This isn't the watered-down stuff in a spray bottle at the grocery store. With a 4.7-star average across 235 ratings, it's a proven performer, but it demands respect and a bit of setup work.

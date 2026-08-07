@@ -1,4 +1,5 @@
 ---
+
 title: "Instinct Flaked EntrÃ©e Wet Cat Food"
 seo_title: "Instinct Flaked EntrÃ©e Wet Cat Food Review: Verdict | TS"
 meta_description: "Our full instinct flaked entrã©e wet cat food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FC32ZTXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51snNWLCDLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: your cat is a tiny carnivore with opinions, and feeding them is a negotiation. The Instinct Flaked Entrée line is trying to end that negotiation with a high-protein, limited-ingredient formula that skips the junk. After digging through 220+ ratings and owner experiences, here's what actually matters.

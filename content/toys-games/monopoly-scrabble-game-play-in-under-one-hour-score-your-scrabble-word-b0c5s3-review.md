@@ -1,4 +1,5 @@
 ---
+
 title: "Monopoly Scrabble Game, Play in Under ONE Hour, Score Your S"
 seo_title: "Monopoly Scrabble Game, Play in Under ONE Hour, Sc Review"
 meta_description: "Our full monopoly scrabble game, play in under one hour, score your s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5S343NP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91S3w9nqoUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The classic argument about whether Monopoly or Scrabble is the better family game just got a mediator — and it plays in one sitting.**

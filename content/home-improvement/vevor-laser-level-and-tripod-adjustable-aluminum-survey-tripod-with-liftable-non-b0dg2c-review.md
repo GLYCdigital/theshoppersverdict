@@ -1,4 +1,5 @@
 ---
+
 title: "VEVOR Laser Level and Tripod - Adjustable Aluminum Survey Tr"
 seo_title: "VEVOR Laser Level and Tripod - Adjustable Aluminum Review"
 meta_description: "Our full vevor laser level and tripod - adjustable aluminum survey tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DG2CQL6H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RZ3UtcJsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VEVOR Laser Level & Tripod isn't the cheapest option on Amazon — but it might be the last one you buy.**

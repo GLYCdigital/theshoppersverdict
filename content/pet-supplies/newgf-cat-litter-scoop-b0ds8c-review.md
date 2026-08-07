@@ -1,4 +1,5 @@
 ---
+
 title: "NewGF cat Litter Scoop"
 seo_title: "NewGF cat Litter Scoop Review: Verdict | TSV"
 meta_description: "Our full newgf cat litter scoop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DS8CRBRR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dItDTvi1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NewGF cat litter scoop is the kind of purchase you don't think about until you're standing over a litter box at 7 AM, wrestling with a flimsy plastic scoop that bends like cooked spaghetti. If that sounds familiar, this 4.6-star rated scoop (229 ratings) deserves a closer look. It's not flashy, but it solves the two biggest litter scoop frustrations: bending handles and inefficient sifting.

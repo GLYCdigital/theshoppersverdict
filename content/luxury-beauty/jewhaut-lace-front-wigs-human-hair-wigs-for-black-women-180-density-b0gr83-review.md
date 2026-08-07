@@ -1,4 +1,5 @@
 ---
+
 title: "Jewhaut Lace Front Wigs Human Hair Wigs for Black Women 180%"
 seo_title: "Jewhaut Lace Front Wigs Human Hair Wigs for Black  Review"
 meta_description: "Our full jewhaut lace front wigs human hair wigs for black women 180% review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GR8323NG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qn6ZE8EWL._SL1200_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 180% Density Question Nobody Answers Directly

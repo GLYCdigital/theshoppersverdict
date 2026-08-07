@@ -1,4 +1,5 @@
 ---
+
 title: "DEKOPRO 12V Drill Set, Hand Tool Set with Drill"
 seo_title: "DEKOPRO 12V Drill Set Review: 2026 Hands-On Verdict"
 meta_description: "DEKOPRO 12V drill set review: 112-piece kit with hand tools. Tested for power, build, and value. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GNKJCQKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EIl6hYt3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "112-piece kit covers both drilling and driving plus sockets — buy one set, not three"
   - "Variable speed trigger with 18+1 torque clutch handles everything from drywall screws to pilot holes"
   - "Compact 12V form factor weighs under 2.5 lbs — genuinely comfortable for overhead work"
-cons:
+cons: 
   - "Battery is 1.5Ah — expect 45–60 minutes of intermittent use before a recharge"
   - "Case hinges feel thin; handle with care if you toss it in a truck bed"
   - "No second battery included — buy a spare if you're doing marathon projects"
+
 ---
 
 **Bottom line up front:** The DEKOPRO 12V Drill Set isn't going to replace your corded hammer drill for framing work. But for 90% of what a homeowner, renter, or weekend DIYer actually does — assembling furniture, hanging curtain rods, driving deck screws, drilling into drywall and softwood — this kit is the one you grab off the shelf. At 4.8 stars from 240 ratings, the consensus is clear: this is the set to beat in its class.

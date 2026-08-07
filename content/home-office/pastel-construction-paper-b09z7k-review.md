@@ -1,4 +1,5 @@
 ---
+
 title: "Pastel Construction Paper"
 seo_title: "Pastel Construction Paper Review: Verdict | TSV"
 meta_description: "Our full pastel construction paper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09Z7KYM4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xTEFIRZ5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Pastel construction paper is one of those purchases that seems simple until you open the pack and realize half the sheets are the shade of a faded napkin. This set from the B09Z7K listing gets the basics right — but "right" depends entirely on what you plan to cut, fold, and glue.

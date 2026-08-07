@@ -1,4 +1,5 @@
 ---
+
 title: "Acer SB242Y EBI 23.8 inch  Full HD (1920 x 1080) IPS Zero-Frame G"
 seo_title: "Acer SB242Y EBI Review: 23.8 inch  1080p IPS Monitor for Work"
 meta_description: "Acer SB242Y EBI 23.8 inch  Full HD IPS monitor review: zero-frame design, 100Hz refresh, and eye-care features. See if this budget office display is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GH7T4VB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W3Z9F7YYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100Hz refresh rate at 1080p — noticeably smoother scrolling than the typical 60Hz office panel"
   - "Zero-frame design with a 178° viewing angle; IPS colors hold up from any position"
   - "Built-in 2W speakers and VESA mountable — more flexibility than most budget monitors offer"
-cons:
+cons: 
   - "Stand offers tilt only — no height adjustment or swivel, so you'll likely need a monitor arm"
   - "Speakers are weak and tinny — fine for alerts, not for media consumption"
+
 ---
 
 The Acer SB242Y EBI sits in the most crowded category in tech: the budget 24-inch office monitor. Dozens of panels compete for the same $80–$110 price point, most offering the same 1080p resolution on a 60Hz panel with a flimsy stand. Acer’s play here is simple — bump the refresh rate to 100Hz and keep the price competitive. That single spec change makes this one of the smarter buys in its class, provided your expectations stay realistic.

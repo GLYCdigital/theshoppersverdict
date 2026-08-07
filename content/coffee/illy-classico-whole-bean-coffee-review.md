@@ -1,4 +1,5 @@
 ---
+
 title: "illy Classico Whole Bean Coffee"
 seo_title: "illy Classico Whole Bean Coffee Review: Worth It? (2026)"
 meta_description: "Honest illy Classico Whole Bean Coffee review: taste, grind quality, value. Is this 4.6-star espresso blend worth $90? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 6307
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZFPup5lBL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent medium roast with zero bitterness — smooth enough to drink black"
   - "Pressurized cans lock in freshness for months, not weeks"
   - "Reliable quality across every batch — no stale or burnt bags in 6,300+ reviews"
-cons:
+cons: 
   - "Premium price — you're paying for the brand and the can, not just beans"
   - "Classico is a mild, middle-of-the-road profile — not for dark roast lovers"
   - "Single-origin purists will want more complexity than this blend offers"
+
 ---
 
 **Is illy Classico worth $90 for a coffee that plays it safe? Here's the honest breakdown after digging through 6,300+ verified buyer experiences.**

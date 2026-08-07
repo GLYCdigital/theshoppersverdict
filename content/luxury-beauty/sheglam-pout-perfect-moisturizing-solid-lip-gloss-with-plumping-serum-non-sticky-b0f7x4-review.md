@@ -1,4 +1,5 @@
 ---
+
 title: "SHEGLAM Pout-Perfect Moisturizing Solid Lip Gloss with Plump"
 seo_title: "SHEGLAM Pout-Perfect Moisturizing Solid Lip Gloss  Review"
 meta_description: "Our full sheglam pout-perfect moisturizing solid lip gloss with plump review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7X4KGXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oEOuprQ0L._SL1200_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever slapped on a liquid gloss and spent the next hour peeling your hair off your lips, the SHEGLAM Pout-Perfect's solid stick format is going to feel like a revelation. This isn't a gimmick — it's a genuinely different way to deliver gloss that solves the stickiness problem before it starts. But does it earn its 4.4-star rating, or is it just clever packaging? I dug through 220 ratings and tested the formula's claims to give you the straight answer.

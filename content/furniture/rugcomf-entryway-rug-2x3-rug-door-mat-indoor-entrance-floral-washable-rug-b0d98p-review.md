@@ -1,4 +1,5 @@
 ---
+
 title: "Rugcomf Entryway Rug 2x3 Rug Door Mat Indoor Entrance Floral"
 seo_title: "Rugcomf Entryway Rug 2x3 Rug Door Mat Indoor Entra Review"
 meta_description: "Our full rugcomf entryway rug 2x3 rug door mat indoor entrance floral review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D98PQCM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SXssCebIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Rugcomf Entryway Rug 2x3 has earned a solid 4.6-star average across 229 ratings — and the math makes sense. This isn't a luxury statement piece; it's a hard-working, washable floor cover designed for the specific chaos of an indoor entrance. If you're tired of replacing door mats every season because they curl, slide, or disintegrate in the wash, this one deserves a closer look.

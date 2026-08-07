@@ -1,4 +1,5 @@
 ---
+
 title: "Stella & Chewyâ€™s Freeze-Dried Raw Wild Weenies Dog Treats "
 seo_title: "Stella & Chewyâ€™s Freeze-Dried Raw Wild Weenies D Review"
 meta_description: "Our full stella & chewyâ€™s freeze-dried raw wild weenies dog treats  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBLMF35Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Lyq6b6bpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your dog turns up their nose at chalky store-bought biscuits, these freeze-dried raw weenies might be the reset button you need.**

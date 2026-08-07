@@ -1,4 +1,5 @@
 ---
+
 title: "Ello Oasis 40 oz Tumbler with Handle & Retracting Straw | Re"
 seo_title: "Ello Oasis 40 oz Tumbler Review: Worth It? (2026)"
 meta_description: "Ello Oasis 40 oz tumbler review: retracting straw, handle, insulation tested. Real pros, cons & verdict for hot & cold drinks."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FKBRHJKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vhfXyWfkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Retracting straw mechanism keeps the drinking surface covered when not in use—genuinely splash-proof in car cup holders"
   - "40 oz capacity means one fill covers a full workday or a long patio session without a fridge run"
   - "Double-wall vacuum insulation holds ice 18-24 hours in real-world testing, not just marketing claims"
-cons:
+cons: 
   - "Retracting straw adds moving parts that can stick or get gritty if you don't rinse after every use"
   - "40 oz size makes it heavy when full (about 3 lbs)—top-heavy in some car cup holders"
   - "No lid lock or carry loop, so you're trusting the slide mechanism in a packed bag"
+
 ---
 
 The Ello Oasis 40 oz tumbler isn't trying to reinvent the insulated mug—it's trying to fix the one thing that annoys you about every other one: the open hole that spills when you toss it on the passenger seat. That retracting straw is the hook, and after digging through 200 ratings and the design specs, I can tell you whether it actually holds up.

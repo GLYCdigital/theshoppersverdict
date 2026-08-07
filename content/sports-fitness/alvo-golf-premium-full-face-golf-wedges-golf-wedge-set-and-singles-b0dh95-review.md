@@ -1,4 +1,5 @@
 ---
+
 title: "ALVO GOLF - Premium Full Face Golf Wedges, Golf Wedge Set an"
 seo_title: "ALVO GOLF Full Face Wedges Review: Premium Feel, Real Results"
 meta_description: "Read our honest ALVO GOLF full face wedge review. See how these premium wedges perform on spin, feel, and forgiveness. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH95ZVQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qpYepmxmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-face groove pattern extends to the hosel, delivering consistent spin on off-center strikes and open-face flop shots"
   - "Premium 8620 carbon steel head with a soft, forged-like feel at impact — rare at this price point"
   - "Progressive bounce and sole grind options (56°, 58°, 60°) make it genuinely versatile from tight fairways to bunkers"
-cons:
+cons: 
   - "Stock grips are thin and slick for players who prefer midsize or corded options — plan on a regrip"
   - "No custom loft/lie adjustment available at purchase; you'll need a fitter for fine-tuning"
+
 ---
 
 The ALVO GOLF full face wedge set is the kind of product that makes you question why you ever paid $180 for a single Vokey. At a fraction of that cost, these wedges deliver the modern full-face design that tour pros have made standard — but with a few tradeoffs you should know about before you click buy. After digging through 235 ratings and the spec sheet, here's what actually matters.

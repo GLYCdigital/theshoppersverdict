@@ -1,4 +1,5 @@
 ---
+
 title: "Lowrance 000-14489-001 Active Imaging 3-In-1 Transducer"
 seo_title: "Lowrance 000-14489-001 Active Imaging 3-In-1 Trans Review"
 meta_description: "Our full lowrance 000-14489-001 active imaging 3-in-1 transducer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GMNLRPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41hDE1ZJWOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running an older Lowrance HDS or Elite unit and wondering whether the Active Imaging 3-in-1 transducer is a worthwhile upgrade, the short answer is yes — with a caveat about mounting. This isn't a drop-in replacement for every boat, but for anglers who want SideScan, DownScan, and CHIRP sonar from a single transducer, it delivers serious imaging capability for the price.

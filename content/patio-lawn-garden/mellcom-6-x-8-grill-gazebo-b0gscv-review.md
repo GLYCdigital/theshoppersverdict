@@ -1,4 +1,5 @@
 ---
+
 title: "MELLCOM 6' x 8' Grill Gazebo"
 seo_title: "MELLCOM 6' x 8' Grill Gazebo Review: Verdict | TSV"
 meta_description: "Our full mellcom 6' x 8' grill gazebo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSCVTRR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xv58iluML._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A grill gazebo that actually respects your BBQ — if you know its limits.**

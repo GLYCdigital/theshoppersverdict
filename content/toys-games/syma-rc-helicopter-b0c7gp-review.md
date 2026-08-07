@@ -1,4 +1,5 @@
 ---
+
 title: "SYMA RC Helicopter"
 seo_title: "SYMA RC Helicopter Review: Verdict | TSV"
 meta_description: "Our full syma rc helicopter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C7GP4447/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jx4Si2a3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a first RC helicopter, you've probably seen a dozen cheap options that promise "easy flight" and deliver a broken pile of plastic after one crash. The SYMA RC Helicopter sits at a 4.2-star average across 210 ratings, which tells you something important: it's not perfect, but it consistently does what it's supposed to do. Let's break down whether that's enough for your money.

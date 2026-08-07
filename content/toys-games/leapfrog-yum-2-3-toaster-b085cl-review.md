@@ -1,4 +1,5 @@
 ---
+
 title: "LeapFrog Yum-2-3 Toaster"
 seo_title: "LeapFrog Yum-2-3 Toaster Review: Verdict | TSV"
 meta_description: "Our full leapfrog yum-2-3 toaster review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B085CL7DLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61unwsCIdtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most pretend-play toys are glorified plastic junk that break within a week. The LeapFrog Yum-2-3 Toaster isn't that. With a 4.8-star average across 240 ratings, this little toaster has earned its place in the toy box. Here's the real story after digging through customer feedback and examining what it actually does.

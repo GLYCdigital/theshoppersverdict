@@ -1,4 +1,5 @@
 ---
+
 title: "HON Wave Ergonomic Office Chair Mesh Back Computer Desk Chai"
 seo_title: "HON Wave Ergonomic Office Chair Mesh Back Computer Review"
 meta_description: "Our full hon wave ergonomic office chair mesh back computer desk chai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CY67ZP8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-tiXqSH9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HON Wave is the chair you buy when you want 80% of a Herman Miller’s ergonomics for about a third of the price. It’s not flashy, it doesn’t have a celebrity designer name, and the box isn’t going to impress your Instagram followers. But after 220 Amazon ratings averaging 4.4 stars, it’s clearly doing something right for people who sit for a living.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nikotek Laser Level Self-Leveling Green Beam Horizontal and "
 seo_title: "Nikotek Laser Level Self-Leveling Green Beam Horiz Review"
 meta_description: "Our full nikotek laser level self-leveling green beam horizontal and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY51YSZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615OrJjSX1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the Nikotek self-leveling green beam laser is a genuinely capable tool for indoor residential work, but it's not the outdoor powerhouse the marketing implies. I've spent time with units in this class, and here's what actually matters.

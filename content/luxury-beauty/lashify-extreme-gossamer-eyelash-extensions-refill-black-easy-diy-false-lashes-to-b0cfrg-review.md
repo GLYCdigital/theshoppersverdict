@@ -1,4 +1,5 @@
 ---
+
 title: "Lashify Extreme Gossamer Eyelash Extensions Refill, Black, E"
 seo_title: "Lashify Extreme Gossamer Eyelash Extensions Refill Review"
 meta_description: "Our full lashify extreme gossamer eyelash extensions refill, black, e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CFRGWTP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qunN1dW6L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: $40+ for a handful of tiny lash clusters feels absurd until you actually wear them. Lashify's Extreme Gossamer Refill in Black, size E, is the brand's longest, most dramatic option — and it's not for the faint of heart or the shaky of hand.

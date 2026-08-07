@@ -1,4 +1,5 @@
 ---
+
 title: "Edge Control Gel for 4C Hair Braiding Hair Gel Firm Hold, Ha"
 seo_title: "Edge Control Gel for 4C Hair Review: Firm Hold That Lasts"
 meta_description: "Honest Edge Control Gel for 4C Hair review: firm hold, no flakes, and how it performs on braided styles. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GQLJHNWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eHvJq2vQL._SL1500_.jpg"
-pros:
+pros: 
   - "Firm hold that survives humidity and sweat without flaking or whitening"
   - "Water-based formula with natural ingredients — no drying alcohols that stiffen 4C hair into brittle strands"
   - "Works on both freshly washed hair and edges that need refreshing between washes"
-cons:
+cons: 
   - "The hold is so strong that it can feel tacky if you apply more than a pea-sized amount"
   - "Scent is noticeable for the first 15-20 minutes — not unpleasant, but not fragrance-free either"
+
 ---
 
 Finding an edge control that actually respects 4C hair texture is like finding a stylist who doesn't cringe at your shrinkage. Most gels either dry into a crunchy helmet or melt into nothing by lunch. This one threads the needle — mostly.

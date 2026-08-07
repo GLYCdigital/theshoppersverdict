@@ -1,4 +1,5 @@
 ---
+
 title: "msi Thin A15 15.6â€"
 seo_title: "msi Thin A15 15.6â€ Review: Verdict | TSV"
 meta_description: "Our full msi thin a15 15.6â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXV97Q74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fr-EEsp6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about the MSI Thin A15: it's a gaming laptop that's increasingly being bought for office work, and that's not a bad thing — if you know what you're sacrificing.

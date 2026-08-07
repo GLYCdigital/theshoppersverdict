@@ -1,4 +1,5 @@
 ---
+
 title: "FLYBIRD Olympic Adjustable Weight Bench, with Bench Press Ra"
 seo_title: "FLYBIRD Olympic Adjustable Bench Review: Is It Worth It?"
 meta_description: "FLYBIRD Olympic Adjustable Weight Bench review: durability, comfort, and value. See if this 4.4-star bench press rack fits your home gym."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G52BLVKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Khl1cHfSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True Olympic-size 1-inch bar catches with J-hooks, so your standard barbell fits without adapters"
   - "10 backrest positions plus 4 seat angles cover everything from flat presses to 85-degree shoulder work"
   - "Assembled footprint stays compact at roughly 60 x 24 inches, fitting most garage gym corners"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with 30+ bolts; the included Allen wrench is too short for good leverage"
   - "At 70+ pounds, moving it between rooms is a two-person job despite the transport wheels"
   - Leg extension pad sits high for shorter users; anyone under 5'6 inch " may feel the pivot point misaligned
+
 ---
 
 **Is the FLYBIRD Olympic Adjustable Weight Bench the all-in-one station your home gym has been missing? Let's cut through the marketing and look at what actually matters — steel thickness, pad stability, and whether that preacher curl attachment sees real use or becomes a dust collector.**

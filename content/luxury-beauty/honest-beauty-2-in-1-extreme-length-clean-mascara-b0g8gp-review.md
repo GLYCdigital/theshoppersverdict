@@ -1,4 +1,5 @@
 ---
+
 title: "Honest Beauty 2-in-1 Extreme Length Clean Mascara"
 seo_title: "Honest Beauty 2-in-1 Extreme Length Clean Mascara Review:"
 meta_description: "Our full honest beauty 2-in-1 extreme length clean mascara review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G8GPTHLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NrksH227L._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Honest Truth About "Clean" Mascara That Actually Works**

@@ -1,4 +1,5 @@
 ---
+
 title: "Globlazer Extra Large Cat Tower, 81-inch Tall Cat Tree for B"
 seo_title: "Globlazer 81-Inch Cat Tower Review: Big Cats, Big Value"
 meta_description: "Globlazer Extra Large Cat Tower review: 81-inch cat tree for big breeds. Real owners share pros, cons, and whether it's worth it at 4.6 stars."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ1MXSBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KT2uRqUsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for big breeds — extra-wide platforms and reinforced base hold up to 20+ lb cats without wobble"
   - "Dense sisal-wrapped posts on all climbing surfaces, not just the two main columns"
   - "Tool-free assembly takes most owners under 20 minutes with clear, labeled parts"
-cons:
+cons: 
   - "Top perch lacks a safety lip — small kittens or rambunctious cats can slide off during zoomies"
   - "Carpet material shows fur and dust quickly; you'll need a lint roller handy"
+
 ---
 
 Let's be blunt: most cat towers are built for 8-pound cats. If you own a Maine Coon, a chunky orange tabby, or a cat that thinks it's a mountain lion, you know the struggle of watching a flimsy tower wobble every time they jump. The Globlazer Extra Large Cat Tower at 81 inches tall is specifically engineered to fix that problem — and based on 229 ratings averaging 4.6 stars, it's mostly succeeding.

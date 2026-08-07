@@ -1,4 +1,5 @@
 ---
+
 title: "Donyang Wood-Cased #2 HB Pencils, Pre-Sharpened, with Top Er"
 seo_title: "Donyang #2 HB Pencils Review: Pre-Sharpened, Bulk Value"
 meta_description: "Hands-on Donyang wood-cased #2 HB pencils review: pre-sharpened points, top erasers, and bulk pricing. See how they stack up for school and office."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHRGJ8GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ij2EP1evL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pre-sharpened points survive shipping — no broken tips in the box, ready to write immediately"
   - "Hexagonal barrel prevents rolling off desks; erasers are firmly seated and don't detach mid-use"
   - "Consistent HB core grades — no hard or soft duds across the bulk pack, lines stay uniform"
-cons:
+cons: 
   - "Wood casing splinters occasionally when sharpening with cheap handheld sharpeners — use a quality sharpener"
   - "Eraser quality is average; it smudges more than a dedicated block eraser, so keep a separate one on hand"
+
 ---
 
 Let's cut through the noise. You're looking at a bulk pack of pencils, and the real question is simple: will these survive a school year, a standardized test, or a month of heavy note-taking without breaking your budget or your patience? The Donyang Wood-Cased #2 HB Pencils, pre-sharpened with top erasers, come with a 4.8-star rating across 240 reviews. Here's the honest breakdown.

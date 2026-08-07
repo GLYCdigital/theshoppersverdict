@@ -1,4 +1,5 @@
 ---
+
 title: "Caudalie Resveratrol-Lift Instant Firming Retinol Alternativ"
 seo_title: "Caudalie Resveratrol-Lift Retinol Alternative Review (2026)"
 meta_description: "Our honest Caudalie Resveratrol-Lift Instant Firming Retinol Alternative review: does this vegan bakuchiol serum firm skin without irritation? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6VWQL18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fOXzhOXFL._SL1500_.jpg"
-pros:
+pros: 
   - "Visible firming and smoothing effects within 2–3 weeks of nightly use, not just instant blurring"
   - "Zero irritation, redness, or peeling — a genuine alternative for retinol-sensitive skin"
   - "Refillable glass bottle design cuts packaging waste by 62% and saves money on refills"
-cons:
+cons: 
   - "Scent is strong — synthetic grape and floral notes linger; fragrance-sensitive skin may react"
   - "Price per ounce is steep even for luxury skincare; refills help but initial buy-in is high"
   - "Texture feels tacky for 5–10 minutes after application before it fully absorbs"
+
 ---
 
 If you've sworn off retinol because of the peeling, redness, and the two-week "purging" phase that makes you look worse before you look better, this Caudalie serum is the closest thing I've found to a genuine swap — not a watered-down compromise.

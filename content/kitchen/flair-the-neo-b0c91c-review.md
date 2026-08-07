@@ -1,4 +1,5 @@
 ---
+
 title: "Flair The NEO"
 seo_title: "Flair The NEO Review: Manual Espresso Worth It? (2026)"
 meta_description: "Flair The NEO manual espresso maker review: build quality, pressure, crema, and ease of use. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C91CPH79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lMpWioWzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Produces genuine 9-bar pressure with a lever — real espresso crema without electric pumps"
   - "Fully manual means zero maintenance, no descaling, and it works anywhere (camping, travel, power outages)"
   - "Build quality is exceptional — stainless steel and aluminum components feel like they'll outlast a decade of use"
-cons:
+cons: 
   - "Steep learning curve; first 5-10 shots will be undrinkable while you dial in grind size and pressure"
   - "No temperature control — you must preheat the cylinder manually with boiling water or you'll get sour, under-extracted shots"
   - "Small 2oz capacity means you can't pull a lungo or Americano directly; you'll need to dilute after"
+
 ---
 
 # Flair The NEO Review: Manual Espresso That Punches Above Its Price

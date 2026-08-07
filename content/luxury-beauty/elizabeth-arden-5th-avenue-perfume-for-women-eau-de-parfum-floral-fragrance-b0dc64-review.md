@@ -1,4 +1,5 @@
 ---
+
 title: "Elizabeth Arden 5th Avenue Perfume for Women, Eau de Parfum,"
 seo_title: "Elizabeth Arden 5th Avenue Perfume Review (2026): Worth It?"
 meta_description: "Honest Elizabeth Arden 5th Avenue Eau de Parfum review: scent profile, longevity, sillage, and who should buy this classic floral. 4.7-star rated."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC64V68W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XHfWXBcsL._SL1500_.jpg"
-pros:
+pros: 
   - "Elegant, office-safe floral that layers well without overwhelming — rare at this price"
   - "Solid 6-8 hour longevity on skin for an EDP, with close but pleasant sillage"
   - "Versatile across seasons; works as a daytime signature scent, not just evening wear"
-cons:
+cons: 
   - "Opens with a sharp aldehydic burst that may read dated to younger noses"
   - "Projection drops noticeably after the first two hours — not a room-filler"
   - "Packaging feels lightweight; the gold cap is plastic, not metal as photos suggest"
+
 ---
 
 **Elizabeth Arden 5th Avenue Perfume: A Classic That Earned Its 4.7 Stars — But Know the Tradeoffs**

@@ -1,4 +1,5 @@
 ---
+
 title: "Scenekoy ZL005-006 Floor Lamp"
 seo_title: "Scenekoy ZL005-006 Floor Lamp Review: Verdict | TSV"
 meta_description: "Our full scenekoy zl005-006 floor lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8Z9M6L3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YXx5aDFpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Scenekoy ZL005-006 isn't trying to reinvent the floor lamp. It's trying to do the basics — bright, adjustable light, stable build, modern look — and do them well enough that you stop thinking about the lamp entirely. At $119.99 with a 4.5-star average across 225 ratings, it's competing in a crowded field of LED torchiere-style lamps. Here's the honest breakdown.

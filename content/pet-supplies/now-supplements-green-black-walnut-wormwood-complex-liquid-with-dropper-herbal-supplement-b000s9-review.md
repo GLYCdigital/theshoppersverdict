@@ -1,4 +1,5 @@
 ---
+
 title: "NOW Supplements, Green Black Walnut Wormwood Complex Liquid "
 seo_title: "NOW Supplements, Green Black Walnut Wormwood Compl Review"
 meta_description: "Our full now supplements, green black walnut wormwood complex liquid  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000S92RNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rc56d5QfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be clear about what this is before you click buy: this is not a dewormer in the conventional sense, and it’s not FDA-approved for veterinary use. What it *is* is a 2-fluid-ounce liquid herbal formula that hundreds of pet owners have used as part of a broader parasite-cleanse protocol. The question is whether it actually works — and who it's right for.

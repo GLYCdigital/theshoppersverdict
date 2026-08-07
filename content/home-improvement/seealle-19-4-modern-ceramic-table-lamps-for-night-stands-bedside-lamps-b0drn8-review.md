@@ -1,7 +1,8 @@
 ---
-title: "Seealle 19.4\" Modern Ceramic Table Lamps for Night Stands - "
-seo_title: "Seealle 19.4\" Modern Ceramic Table Lamps for Night Review"
-meta_description: "Our full seealle 19.4\" modern ceramic table lamps for night stands -  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Seealle 19.4\ Modern Ceramic Table Lamps for Night Stands - "
+seo_title: "Seealle 19.4\ Modern Ceramic Table Lamps for Night Review"
+meta_description: "Our full seealle 19.4\ modern ceramic table lamps for night stands -  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "seealle-19-4-modern-ceramic-table-lamps-for-night-stands-bedside-lamps-b0drn8-review"
 image_alt: "Seealle 19.4 Modern Ceramic Table Lamps for Night Stands - Bedside Lamps Set of 2 for Nightstand, Bedroom Lamp for Livin"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRN8RYG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ins6qRKmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: you've seen a hundred "modern" table lamps on Amazon, and most of them feel like they'd snap in a stiff breeze. The Seealle 19.4" ceramic table lamp isn't that. With a 4.5-star average across 225 ratings, it's earned its place on nightstands for a reason — and it has a couple of quirks worth knowing before you hit "add to cart."

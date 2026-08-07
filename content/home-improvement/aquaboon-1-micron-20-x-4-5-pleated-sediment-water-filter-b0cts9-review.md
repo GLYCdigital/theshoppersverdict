@@ -1,4 +1,5 @@
 ---
+
 title: "Aquaboon 1 Micron 20 inch  x 4.5 inch  Pleated Sediment Water Filter"
 seo_title: "Aquaboon 1 Micron 20x4.5 Sediment Filter Review (2026)"
 meta_description: "Aquaboon 1 Micron 20x4.5 pleated sediment filter review: real-world performance, lifespan, and fitment. See if it beats standard spun filters."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTS99R2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C8VvNCzbS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 1-micron rating with pleated surface area roughly 4x a standard spun filter, meaning longer service life between changes"
   - "Washable and reusable — hose it down and reinstall, unlike polypropylene spun filters that clog permanently"
   - Fits standard 20 inch " x 4.5 inch " housings with 1 inch " NPT connections; works with most whole-house filter systems from iSpring, Aquasana, and Pentek
-cons:
+cons: 
   - "At 1 micron, it will clog faster than 5- or 30-micron alternatives if you have heavy iron or silt — expect 2-3 month changes on problem wells"
   - "Pleats can trap fine sediment deep in the folds; aggressive hosing won't fully restore flow, so replacement is still inevitable"
+
 ---
 
 # Aquaboon 1 Micron 20" x 4.5" Pleated Sediment Water Filter Review

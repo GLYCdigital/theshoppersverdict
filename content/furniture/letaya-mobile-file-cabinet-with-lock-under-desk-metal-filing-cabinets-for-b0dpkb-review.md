@@ -1,4 +1,5 @@
 ---
+
 title: "Letaya Mobile File Cabinet with Lock,Under Desk Metal Filing"
 seo_title: "Letaya Mobile File Cabinet with Lock,Under Desk Me Review"
 meta_description: "Our full letaya mobile file cabinet with lock,under desk metal filing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPKBQ7QL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jF6SFZ3PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most under-desk file cabinets under $100 are flimsy sheet metal with casters that wobble and locks that a paperclip could defeat. The Letaya Mobile File Cabinet isn't that. It's a genuinely functional piece of office furniture that earned its 4.5-star rating across 225 reviews. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "ANNQUAN Motorized Pop Up Countertop Receptacle with 15W Wire"
 seo_title: "ANNQUAN Motorized Pop Up Receptacle Review: Worth It?"
 meta_description: "ANNQUAN motorized pop-up countertop receptacle review: 15W wireless charging, 20W USB-C, motorized lift. Real pros, cons & buying advice."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTJT77DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619oUEWXefL._SL1500_.jpg"
-pros:
+pros: 
   - "True motorized lift — one-touch operation raises and lowers the unit smoothly, no manual yanking or wobbling"
   - "15W Qi wireless charging pad actually works through phone cases and stays cool during extended use"
   - "Solid aluminum housing with IP44 splash resistance makes it genuinely viable for kitchen islands and wet bars"
-cons:
+cons: 
   - "Installation requires a 3.15-inch diameter cutout — larger than many competing pop-ups, so measure your countertop before committing"
   - "Wireless charging only works when the unit is fully raised; you can't charge through the closed lid"
   - "Motor noise is audible but not annoying — a low hum that lasts about 2 seconds during lift/lower cycles"
+
 ---
 
 If you've ever watched a pop-up outlet struggle to rise, wobble halfway up, or just plain fail after six months, you know the category has a reliability problem. The ANNQUAN Motorized Pop Up Countertop Receptacle is trying to be the exception — and based on 225 ratings averaging 4.5 stars, it's mostly succeeding.

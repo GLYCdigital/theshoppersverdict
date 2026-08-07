@@ -1,7 +1,8 @@
 ---
-title: "Ingersoll Rand 315G Straight Line Air Sander, 2.75\" x 17.5\" "
+
+title: "Ingersoll Rand 315G Straight Line Air Sander, 2.75\ x 17.5\ "
 seo_title: "Ingersoll Rand 315G Straight Line Air Sander, 2.75 Review"
-meta_description: "Our full ingersoll rand 315g straight line air sander, 2.75\" x 17.5\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full ingersoll rand 315g straight line air sander, 2.75\ x 17.5\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ingersoll-rand-315g-straight-line-air-sander-2-75-x-17-5-b0057d-review"
 image_alt: "Ingersoll Rand 315G Straight Line Air Sander, 2.75 x 17.5 Pad, 3000 SPM"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0057D8I5E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fcP7Kz9JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to block-sand a quarter panel with a palm sander, you already know the frustration: uneven pressure, skipped spots, and fingers cramping after ten minutes. The Ingersoll Rand 315G straight line air sander exists to eliminate that pain. This is a dedicated body-shop tool built for one job — long, flat, straight-line sanding — and it does that job exceptionally well.

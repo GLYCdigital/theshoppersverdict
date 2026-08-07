@@ -1,4 +1,5 @@
 ---
+
 title: "Camp Chef SG60 Griddle Cover Review: Real Protection"
 seo_title: "Camp Chef SG60 Griddle Cover Review (2026): Worth It?"
 meta_description: "Camp Chef SG60 Professional Griddle Cover review: real protection for two-burner griddles. See how it fits, holds up, and what buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08FDNTKLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IdfV69CcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty 600D polyester with a waterproof PVC backing—actually blocks rain, not just dew"
   - "Precision fit for Camp Chef 2-burner griddles (SG24, SG30, SGX models) with no flapping in wind"
   - "Includes a storage bag and buckled straps that hold tight through storms"
-cons:
+cons: 
   - "Pricier than generic 48-inch covers, though the material justifies most of the gap"
   - "Not designed for 3-burner or pro-style 36-inch griddles—measure before buying"
+
 ---
 
 You just dropped serious money on a Camp Chef flat-top griddle. The last thing you want is a rust-streaked cooking surface next spring because you cheaped out on a $20 tarp. The Camp Chef SG60 Professional True Seasoned Steel Griddle Cover is the factory-made solution—but is it worth the premium over generic covers? After digging through 235 ratings and the build specs, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wissotzky Tea Ginger Turmeric Spiced Chai - Pack of 50 Tea B"
 seo_title: "Wissotzky Tea Ginger Turmeric Spiced Chai - Pack o Review"
 meta_description: "Our full wissotzky tea ginger turmeric spiced chai - pack of 50 tea b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08CSKQN37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dwHxPtTLL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Wissotzky Tea Ginger Turmeric Spiced Chai: The 50-Bag Box That Actually Tastes Like Spice

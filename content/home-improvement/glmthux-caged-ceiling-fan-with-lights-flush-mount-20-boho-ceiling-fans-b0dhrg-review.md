@@ -1,7 +1,8 @@
 ---
-title: "Glmthux Caged Ceiling Fan with Lights, Flush Mount 20\" Boho "
+
+title: "Glmthux Caged Ceiling Fan with Lights, Flush Mount 20\ Boho "
 seo_title: "Glmthux Caged Ceiling Fan with Lights, Flush Mount Review"
-meta_description: "Our full glmthux caged ceiling fan with lights, flush mount 20\" boho  review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full glmthux caged ceiling fan with lights, flush mount 20\ boho  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "glmthux-caged-ceiling-fan-with-lights-flush-mount-20-boho-ceiling-fans-b0dhrg-review"
 image_alt: "Glmthux Caged Ceiling Fan with Lights, Flush Mount 20 Boho Ceiling Fans with Lights Remote Control, Low Profile Fabric B"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHRGT2GG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ejTy8X3uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this fan is: a 20-inch flush mount built for rooms where a standard ceiling fan physically won't work. If you've got 8-foot ceilings, a low-slope attic conversion, or a hallway that swallows light fixtures whole, the Glmthux Caged Boho is worth a hard look. At 229 ratings and a 4.6 average, it's clearly earning its keep in homes like yours — but it's not without quirks.

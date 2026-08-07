@@ -1,4 +1,5 @@
 ---
+
 title: "HOKYHOKY Reclaimed Solid Wood Bench"
 seo_title: "HOKYHOKY Reclaimed Solid Wood Bench Review: Verdict | TSV"
 meta_description: "Our full hokyhoky reclaimed solid wood bench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FM85MJ1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dcc-+Ot3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most “wood” benches sold on Amazon are particleboard wrapped in a photo of wood grain. The HOKYHOKY Reclaimed Solid Wood Bench is not that. Whether that’s a good thing depends entirely on what you expect from a piece of furniture.

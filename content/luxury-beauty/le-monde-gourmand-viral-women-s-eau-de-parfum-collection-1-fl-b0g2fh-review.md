@@ -1,4 +1,5 @@
 ---
+
 title: "Le Monde Gourmand Viral Womenâ€™s Eau de Parfum Collection, "
 seo_title: "Le Monde Gourmand Viral Womenâ€™s Eau de Parfum Co Review"
 meta_description: "Our full le monde gourmand viral womenâ€™s eau de parfum collection,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G2FHB29T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z2n8y-87L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the TikTok hype. The Le Monde Gourmand Viral Collection has been everywhere on social media, promising bakery-level deliciousness in a bottle. But does the reality match the algorithm? I tested this set for two weeks, and here's what you actually need to know before spending your money.

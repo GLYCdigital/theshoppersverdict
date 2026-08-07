@@ -1,4 +1,5 @@
 ---
+
 title: "Kaweco Fountain Pen Ink Cartridges"
 seo_title: "Kaweco Fountain Pen Ink Cartridges Review: Verdict | TSV"
 meta_description: "Our full kaweco fountain pen ink cartridges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F66SHTG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516IBWEo7ZL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most fountain pen users eventually hit the same wall: bottled ink is cheaper per milliliter but demands a messy ritual of filling converters and cleaning nibs. Cartridges exist to solve that problem, but they usually sacrifice color depth and flow consistency. The Kaweco Fountain Pen Ink Cartridges aim to split the difference — and based on my testing and 229 Amazon ratings averaging 4.6 stars, they mostly succeed.

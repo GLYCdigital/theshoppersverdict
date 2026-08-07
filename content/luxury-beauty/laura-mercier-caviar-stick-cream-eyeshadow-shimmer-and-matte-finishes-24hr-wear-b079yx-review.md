@@ -1,4 +1,5 @@
 ---
+
 title: "Laura Mercier Caviar Stick Cream Eyeshadow: Shimmer and Matt"
 seo_title: "Laura Mercier Caviar Stick Cream Eyeshadow: Shimme Review"
 meta_description: "Our full laura mercier caviar stick cream eyeshadow: shimmer and matt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B079YXZPBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+wHQXMaRL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you're rushing out the door and your eyeshadow creases by noon? That's the exact problem the Laura Mercier Caviar Stick aims to eliminate — and for the most part, it delivers. This isn't a trend-chasing formula; it's been a cult favorite for over a decade, and this dual-ended version packs both shimmer and matte finishes into one sleek stick. At roughly $32 per stick, it's a luxury investment. Here's what you actually get for your money.

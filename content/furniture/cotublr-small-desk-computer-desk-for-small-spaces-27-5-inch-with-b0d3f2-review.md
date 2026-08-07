@@ -1,4 +1,5 @@
 ---
+
 title: "COTUBLR Small Desk, Computer Desk for Small Spaces, 27.5 Inc"
 seo_title: "COTUBLR Small Desk Review: 27.5-Inch Space Saver (2026)"
 meta_description: "COTUBLR 27.5-inch small desk review: sturdy build, compact footprint, real buyer feedback. Is this the right space-saving computer desk? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3F244FJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CO5sv-JbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "27.5-inch width fits tight corners, dorm rooms, and studio apartments where standard 40-48 inch desks simply won't work"
   - "Includes a raised monitor shelf and side storage cubby — rare at this size, adds vertical workspace without expanding footprint"
   - "Assembles in roughly 15-20 minutes with clearly labeled parts and an included hex wrench; no extra tools required"
-cons:
+cons: 
   - "27.5-inch depth of 15.7 inches won't accommodate large monitors over 24 inches or full-size keyboards with wrist rests comfortably"
   - "Particle board top is moisture-sensitive — a spilled drink left unattended will warp the surface permanently"
+
 ---
 
 **The 27.5-Inch Desk That Actually Respects Your Space**

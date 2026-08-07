@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Daily Cleanse Everyday Shampoo"
 seo_title: "Kids Daily Cleanse Everyday Shampoo Review: Verdict | TSV"
 meta_description: "Our full kids daily cleanse everyday shampoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B83PK7P7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZQWt0I7PL._SL1000_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's skip the pleasantries: most kids' shampoos are either harsh detergents in cartoon bottles or watery "natural" formulas that leave hair greasy by lunchtime. The Kids Daily Cleanse Everyday Shampoo tries to split that difference — and for most families, it actually works.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS The SFF-Ready Prime GeForce RTX™ GDDR7 OC Edition"
 seo_title: "ASUS Prime GeForce RTX GDDR7 OC Review: SFF Powerhouse"
 meta_description: "ASUS Prime GeForce RTX GDDR7 OC Edition review: Is this SFF-ready GPU worth it? Real benchmarks, cooling tests, and buyer feedback for small-form-factor builds."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVWLJ2SC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sgsFqwLKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2.5-slot design fits most ITX cases without sacrificing cooling performance"
   - "GDDR7 memory delivers noticeably faster bandwidth than previous generation cards"
   - "Dual-ball bearing fans with 0dB mode run silent during office and light workloads"
-cons:
+cons: 
   - "No factory overclock toggle — OC mode requires manual tuning in ASUS GPU Tweak III"
   - "Lacks a backplate reinforcement bracket, so heavy coolers may sag in vertical mounts"
   - "Fan curve defaults to aggressive RPM at 60°C, audible under sustained gaming loads"
+
 ---
 
 **Small form factor. Big expectations.** That's the promise of the ASUS Prime GeForce RTX GDDR7 OC Edition — a card designed for compact builds that don't want to compromise on performance. After 225 Amazon ratings averaging 4.5 stars, the consensus is clear: this card mostly delivers, but it's not without quirks.

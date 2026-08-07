@@ -1,4 +1,5 @@
 ---
+
 title: "877max 893max Set"
 seo_title: "877max 893max Set Review: Worth It? Honest Buyer's Guide"
 meta_description: "Our 877max 893max Set review covers real-world performance, build quality, and buyer feedback. See pros, cons, and who should buy before spending."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRKX48WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BKB04pO2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Milwaukee tool quality with the power and durability contractors expect"
   - "Two-tool bundle covers both driving and cutting tasks without needing separate purchases"
   - "Battery platform compatibility means existing M18 users can swap tools without new chargers"
-cons:
+cons: 
   - "No batteries or charger included in base set — hidden cost if you're not already in the M18 system"
   - "Bare tool packaging can feel sparse; no carry bag or bit set included"
+
 ---
 
 If you're shopping the 877max 893max Set, you're looking at two Milwaukee M18 tools bundled together — the 2853-20 impact driver and the 2833-20 circular saw, based on the model numbers. This is a professional-grade combo aimed at contractors and serious DIYers. Here's the honest breakdown before you click buy.

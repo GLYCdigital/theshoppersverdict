@@ -1,23 +1,25 @@
 ---
+
 title: "GDGZQD Semi-Frameless Sliding Shower Door W: 48 x H:72 Inche"
 seo_title: "GDGZQD Semi-Frameless Sliding Shower Door Review (48x72)"
 meta_description: "Honest GDGZQD 48x72 semi-frameless sliding shower door review: build quality, installation tips, real buyer feedback, and who should buy it."
 slug: "gdgzqd-semi-frameless-sliding-shower-door-w-48-x-h-72-inches-b0gfy3-review"
 image_alt: "GDGZQD semi-frameless sliding shower door in brushed nickel, 48 inch width by 72 inch height"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFY3KLDK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f2AjcQfEL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tempered 5/16 inch  glass with a smooth, easy-clean coating that resists hard water spots"
   - "Fully adjustable 47.25 inch –48.5 inch  width range fits slightly out-of-square openings without shims"
   - "Premium brushed nickel finish on the aluminum frame — no fingerprints, no flaking after 6 months"  
-cons:  
+cons: 
   - "Bottom track requires absolutely level floor; even a 1/8 inch  slope causes the door to self-close"
   - "Glass arrives with a thin protective film that's a pain to peel off if left on for more than a week"
+
 ---
 
 # GDGZQD Semi-Frameless Sliding Shower Door Review: The $300 Upgrade That Feels Like $800  

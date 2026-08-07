@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie Off-Road Vehicle, Purple with Pink Seats and Rolling"
 seo_title: "Barbie Off-Road Vehicle Review: Purple Pink Seats Toy"
 meta_description: "Honest Barbie Off-Road Vehicle review: rugged purple SUV with pink seats, rolling wheels. See what 240 buyers rate 4.8 stars. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07XD6F2XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d6kbF9e1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chunky treaded tires and suspension-style design handle carpet, tile, and outdoor pavement without tipping"
   - "Two-door opening with working hood adds play value — Barbie actually fits inside, unlike smaller budget doll cars"
   - "Purple body with pink seats matches current Barbie aesthetic; sturdy enough for aggressive 3-7 year old play"
-cons:
+cons: 
   - "No sound effects or lights — purely a push vehicle, which may disappoint kids used to electronic features"
   - "Doll seatbelt is decorative only; Barbie can slide out during dramatic off-road maneuvers"
   - "Plastic wheels pick up hair and debris on carpet; needs occasional cleaning to roll smoothly"
+
 ---
 
 # Barbie Off-Road Vehicle Review: The Purple SUV That Earned Its 4.8 Stars

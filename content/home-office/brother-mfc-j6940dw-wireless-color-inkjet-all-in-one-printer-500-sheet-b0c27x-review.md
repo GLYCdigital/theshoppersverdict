@@ -1,4 +1,5 @@
 ---
+
 title: "Brother MFC-J6940DW Wireless Color Inkjet All-in-One Printer"
 seo_title: "Brother MFC-J6940DW Review: 500-Sheet Inkjet Workhorse"
 meta_description: "Honest Brother MFC-J6940DW review: wireless color inkjet all-in-one with 500-sheet capacity. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C27XJQMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ez2RpcEcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "500-sheet total paper capacity split across two cassettes — rare for inkjet at this price, means fewer refill interruptions"
   - "Auto-duplex printing and scanning come standard, plus a 50-sheet ADF for multi-page jobs"
   - "Ink cost per page is genuinely low with high-yield cartridges — roughly 3 cents for mono, 8 cents for color"
-cons:
+cons: 
   - "No automatic document feeder for duplex scanning — you'll flip pages manually for two-sided scans"
   - "Print speed drops noticeably on high-quality color settings, so heavy photo work will test your patience"
   - "Setup requires a USB cable for initial configuration despite the wireless branding — a minor annoyance"
+
 ---
 
 The Brother MFC-J6940DW is the office printer that doesn't want to be noticed. It's a big, boxy, no-drama workhorse that sits in the corner and churns out documents without complaint. If you're running a small business, a home office with serious volume, or a satellite workspace, this machine deserves a hard look — but it's not for everyone.

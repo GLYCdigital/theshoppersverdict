@@ -1,4 +1,5 @@
 ---
+
 title: "ROYHOME Modern Abstract Area Rug Non Slip Washable Rug"
 seo_title: "ROYHOME Modern Abstract Area Rug Non Slip Washable Review"
 meta_description: "Our full royhome modern abstract area rug non slip washable rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DBZ99DXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HdZJyLyoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "washable" rugs on Amazon are glorified bath mats with a pattern printed on them. The ROYHOME Modern Abstract Area Rug claims to be different — and after digging through 220 ratings and the construction details, it mostly delivers. But "mostly" comes with caveats you need before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Roastery Coast - Daily Nuts Just Roasted Almonds | Almonds B"
 seo_title: "Roastery Coast - Daily Nuts Just Roasted Almonds | Review"
 meta_description: "Our full roastery coast - daily nuts just roasted almonds | almonds b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0792M7J4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71amycTGxjL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "roasted" almonds you buy at the grocery store are roasted in cottonseed or peanut oil, then dusted with salt to hide the fact they've been sitting in a warehouse for eight months. 

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Antiseptic Mouthwash, Mint Review"
 seo_title: "Amazon Basics Antiseptic Mouthwash Mint Review (2026)"
 meta_description: "Honest Amazon Basics Antiseptic Mouthwash Mint review: kills germs, fresh taste, low cost. See pros, cons, and if it beats Listerine."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B41V5XGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wFMjWajjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Delivers the full 0.09% cetylpyridinium chloride (CPC) antiseptic dose at roughly half the price of name-brand equivalents"
   - "Mint flavor is noticeably less harsh than Listerine—no alcohol burn, but still leaves a clean, fresh sensation"
   - "The 1-liter bottle with a metered dosing cap lasts about 2 months with twice-daily use"
-cons:
+cons: 
   - "The flavor leans sweeter than clinical mouthwashes; some users with strong mint preferences may find it artificial-tasting"
   - "No fluoride included—if cavity protection is your priority, this isn't your primary rinse"
+
 ---
 
 Let’s cut through the noise: mouthwash is one of the few categories where the store brand genuinely competes with the premium names. The Amazon Basics Antiseptic Mouthwash in Mint has earned a 4.6-star average across 229 ratings, and after examining the formulation, that score makes sense. Here’s what you’re actually getting.

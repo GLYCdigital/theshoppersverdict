@@ -1,4 +1,5 @@
 ---
+
 title: "Douglas Steward Australian Shepherd Dog Plush Stuffed Animal"
 seo_title: "Douglas Steward Australian Shepherd Dog Plush Review"
 meta_description: "Honest Douglas Steward Australian Shepherd plush review: realistic detail, soft fur, sizing, durability concerns. Is it worth $30? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003IEUAZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qm7gRaqyL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Remarkably realistic Australian Shepherd markings and facial expression that actually looks like the breed"
   - "Durable double-layer construction that holds up to daily hugging and light roughhousing"
   - "Soft, dense fur that doesn't shed or mat easily — even after machine washing"
-cons:
+cons: 
   - "Priced noticeably higher than comparable 12-inch plush dogs from lesser-known brands"
   - "Sits upright only when propped; legs lack the stiffness to support standing poses"
+
 ---
 
 Some plush dogs look like a generic "dog-shaped object." The Douglas Steward Australian Shepherd is not that. From the moment you pull it from the box, the breed-specific detail is striking — the merle-patterned coat, the alert ear set, the thoughtfully placed white blaze down the nose. This is a stuffed animal designed by someone who actually knows Australian Shepherds, and for the 4.4-star rating across 220 Amazon reviews, that authenticity matters.

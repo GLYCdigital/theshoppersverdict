@@ -1,4 +1,5 @@
 ---
+
 title: "Double Donut Donut Shop Coffee Pods, Coffee Pods Donut Shop"
 seo_title: "Double Donut Donut Shop Coffee Pods Review (2026): Worth It?"
 meta_description: "Honest Double Donut Donut Shop coffee pods review: taste, strength, and value. See how these medium roast pods compare to Dunkin and McCafé before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHW7P2N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xj81GXICL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth medium roast with genuine donut-shop sweetness — no bitterness even in black coffee"
   - "Works reliably in all standard K-Cup brewers including off-brands; no puncturing issues"
   - "Comes in a 48-count bulk box that undercuts Dunkin and McCafé per-pod pricing"
-cons:
+cons: 
   - "Aroma is noticeably muted compared to freshly ground competitors; smells more like instant than brewed"
   - "Flavor thins out if you brew larger than 8oz — stick to the small cup setting for best results"
   - "Packaging is flimsy; pods can crack if you drop the box or store it under heavy items"
+
 ---
 
 **The Short Version**: If you want that classic glazed-donut-shop coffee flavor without paying Dunkin prices, Double Donut's pods deliver. But they're not gourmet — treat them as a budget-friendly daily driver, not a specialty treat.

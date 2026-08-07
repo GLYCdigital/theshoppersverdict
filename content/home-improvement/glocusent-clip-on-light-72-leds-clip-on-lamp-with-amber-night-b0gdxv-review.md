@@ -1,4 +1,5 @@
 ---
+
 title: "Glocusent Clip on Light, 72 LEDs Clip on Lamp with Amber Nig"
 seo_title: "Glocusent Clip on Light, 72 LEDs Clip on Lamp with Review"
 meta_description: "Our full glocusent clip on light, 72 leds clip on lamp with amber nig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GDXVMFLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611tsBYZTZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Glocusent clip-on light solves a problem most desk lamps ignore: what do you do when you need light exactly where your book, keyboard, or knitting sits — and you don't want to light up the whole room? With 72 LEDs packed into a compact clip housing, this thing throws a surprisingly wide, even beam. But the real question is whether the amber night mode and USB-C charging justify the price point. After digging through the specs and 225 buyer ratings, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "LOL Surprise OMG Royal Bee Fashion Doll with Multiple Surpri"
 seo_title: "LOL Surprise OMG Royal Bee Fashion Doll with Multi Review"
 meta_description: "Our full lol surprise omg royal bee fashion doll with multiple surpri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BN6RJH3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BlMaCxYyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the LOL Surprise OMG Royal Bee worth the hype (and the price)?**

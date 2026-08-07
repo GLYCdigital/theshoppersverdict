@@ -1,4 +1,5 @@
 ---
+
 title: "Nordic Pure 20x20x1 (19 1/2 x 19 1/2 x 3/4) Pleated MERV,Air"
 seo_title: "Nordic Pure 20x20x1 (19 1/2 x 19 1/2 x 3/4) Pleate Review"
 meta_description: "Our full nordic pure 20x20x1 (19 1/2 x 19 1/2 x 3/4) pleated merv,air review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX7HN8N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bn-45m7KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most air filters on Amazon are either cheap fiberglass junk that barely catches dust bunnies, or overpriced "high-MERV" panels that choke your HVAC system and make your energy bill spike. The Nordic Pure 20x20x1 sits in the sensible middle ground — and with a 4.6-star average across 229 ratings, it's clearly doing something right.

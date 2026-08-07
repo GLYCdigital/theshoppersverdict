@@ -1,4 +1,5 @@
 ---
+
 title: "Synology RackStation Plus"
 seo_title: "Synology RackStation Plus Review: Verdict | TSV"
 meta_description: "Our full synology rackstation plus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNRMXV79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41tOjhuO0nL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Synology RackStation Plus the workhorse your rack needs?

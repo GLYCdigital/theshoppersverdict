@@ -1,4 +1,5 @@
 ---
+
 title: "WORX 12 Amp 7.5â€™â€™ Electric Lawn Edger & Trencher, Corded"
 seo_title: "WORX 12 Amp 7.5â€™â€™ Electric Lawn Edger & Trench Review"
 meta_description: "Our full worx 12 amp 7.5â€™â€™ electric lawn edger & trencher, corded review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00Q6EH7DW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511Qi-88TmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your lawn edges look like a beaver's snack bar—ragged, overgrown, and creeping onto the driveway—you know the pain of fighting grass with a string trimmer. The WORX 12 Amp Electric Edger & Trencher exists to end that fight. It's a corded tool that trades convenience for raw, consistent power, and after digging through 220 ratings averaging 4.4 stars, here's what actually matters.

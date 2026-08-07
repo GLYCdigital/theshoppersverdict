@@ -1,4 +1,5 @@
 ---
+
 title: "Wooster Brush Q3211 2 inch Shortcut Angle Sash Paintbrush, P"
 seo_title: "Wooster Brush Q3211 2 inch Shortcut Angle Sash Pai Review"
 meta_description: "Our full wooster brush q3211 2 inch shortcut angle sash paintbrush, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01FVGUU3O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L12UARevL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Wooster Shortcut: A Precision Brush That Earns Its Name

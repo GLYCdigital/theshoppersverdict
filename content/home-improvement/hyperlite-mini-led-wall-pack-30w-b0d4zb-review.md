@@ -1,4 +1,5 @@
 ---
+
 title: "HYPERLITE Mini LED Wall Pack 30W"
 seo_title: "HYPERLITE Mini LED Wall Pack 30W Review: Verdict | TSV"
 meta_description: "Our full hyperlite mini led wall pack 30w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4ZBD78N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dqOsuZSiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wall packs look like they belong on a loading dock, not your home. The HYPERLITE Mini LED Wall Pack 30W tries to split the difference — small enough for a residential garage, tough enough for commercial use. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's what that something is.

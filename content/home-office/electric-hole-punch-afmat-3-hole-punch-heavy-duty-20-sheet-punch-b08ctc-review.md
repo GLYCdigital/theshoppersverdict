@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Hole Punch, AFMAT 3 Hole Punch Heavy Duty, 20-Sheet"
 seo_title: "AFMAT Electric 3-Hole Punch Review: 20-Sheet Heavy Duty"
 meta_description: "Read our honest AFMAT electric hole punch review. Does the 20-sheet heavy duty 3-hole punch deliver? Real performance, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08CTCXZ38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WMjWGqsmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Punches 20 sheets of 20 lb bond paper in under 2 seconds with zero hand fatigue"
   - "Built-in paper chip tray catches all confetti — no more cleaning desk debris"
   - "Adjustable paper guide ensures consistent hole spacing across multiple sheets"
-cons:
+cons: 
   - "Requires an AC outlet — no battery or USB-C option for on-the-go use"
   - "Punching capacity drops noticeably with cardstock or laminated paper (stick to 10 sheets)"
   - "Plastic housing feels less premium than the price suggests compared to metal rivals"
+
 ---
 
 If you've ever punched 200 sheets for a client binder with a manual three-hole punch, you know the forearm burn. The AFMAT Electric 3-Hole Punch promises to end that misery for about what you'd spend on two mediocre lunches. At 4.7 stars across 235 ratings, it's clearly doing something right. But is it the right hole punch for *your* desk?

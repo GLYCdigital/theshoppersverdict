@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports 5 ftx4 ftPRO Golf Practice Hitting Mat, Includes 5 "
 seo_title: "GoSports 5 ftx4 ftPRO Golf Practice Hitting Mat, I Review"
 meta_description: "Our full gosports 5 ftx4 ftpro golf practice hitting mat, includes 5  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B099G19SP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91CD-A0k0mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GoSports 5x4 ftPRO Golf Practice Hitting Mat Review: Five Inserts, Zero Excuses

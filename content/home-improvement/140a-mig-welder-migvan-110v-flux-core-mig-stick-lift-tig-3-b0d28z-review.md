@@ -1,4 +1,5 @@
 ---
+
 title: "140A MIG Welder, MIGVAN 110V Flux Core MIG/Stick/Lift TIG 3 inch"
 seo_title: "MIGVAN 140A MIG Welder Review: 110V Multi-Process Tested"
 meta_description: "MIGVAN 140A MIG welder review: 110V flux core, stick & lift TIG in one unit. Real performance data, buyer feedback, and honest downsides before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D28Z5YYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h3u6A5jNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three processes in one compact 110V unit — flux core, stick, and lift TIG — without needing a 220V circuit"
   - "Digital voltage display and 20-step wire speed dial give repeatable settings once you dial in your material"
   - "Dual voltage capability (110V/220V) with adapter means this machine grows with you if you upgrade shop power later"
-cons:
+cons: 
   - "Lift TIG requires a separate torch you must buy — it's not included in the box despite being advertised"
   - "Duty cycle is limited to 60% at 90A; sustained heavy welding on 1/4-inch steel will trigger thermal shutdown"
   - "Ground clamp and stinger are entry-level quality — plan to upgrade both for consistent arc starts"
+
 ---
 
 The 140A MIGVAN is the Swiss Army knife of budget welders, but that knife comes with a few dull edges. At 4.4 stars across 220 ratings, it's clearly doing something right — but let's cut through the marketing and talk about what this machine actually delivers for your money.

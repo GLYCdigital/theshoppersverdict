@@ -1,4 +1,5 @@
 ---
+
 title: "SOLPEX Solar Ground Lights, 8 LED Solar Lights Outdoor Water"
 seo_title: "SOLPEX Solar Ground Lights, 8 LED Solar Lights Out Review"
 meta_description: "Our full solpex solar ground lights, 8 led solar lights outdoor water review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKZ8SRW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rcVanZgBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most solar ground lights are junk. They glow faintly for two hours, die in a rainstorm, or both. The SOLPEX 8-LED set is not that. With a 4.3-star average across 215 Amazon ratings, these are a legitimate step up in the budget landscape lighting category — but they're not without compromises.

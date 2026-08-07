@@ -1,4 +1,5 @@
 ---
+
 title: "Kodiak Cakes Muffin Baking Mix, Blueberry Lemon"
 seo_title: "Kodiak Cakes Muffin Baking Mix, Blueberry Lemon Review: V"
 meta_description: "Our full kodiak cakes muffin baking mix, blueberry lemon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL16NMFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916rdk6soDL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear up front: this is a pancake mix brand that decided to make muffin mix, and it mostly works. But if you’re expecting fluffy, cupcake-like blueberry muffins, you’ll be disappointed. If you want a high-protein, filling, actual-breakfast muffin that doesn’t taste like cardboard, this is worth your time.

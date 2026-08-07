@@ -1,4 +1,5 @@
 ---
+
 title: "COMSDY Dining Room Light"
 seo_title: "COMSDY Dining Room Light Review: Modern LED Chandelier"
 meta_description: "COMSDY dining room light review: Is this modern LED chandelier worth it? Real buyer feedback, brightness, installation tips, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FPFWWZWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GE0BUs3SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED module means no separate bulbs to buy — saves roughly $30–50 over traditional multi-bulb chandeliers in the first year"
   - "Dimmable range goes low enough for intimate dinners (down to roughly 10% brightness) without flicker at mid-range settings"
   - "Slim profile at just 4.5 inches tall — works under standard 8-foot ceilings without feeling cramped"
-cons:
+cons: 
   - "Hardwired LED module cannot be replaced if it fails after the warranty period — you're replacing the whole fixture"
   - "Mounting plate is finicky with older electrical boxes; several buyers report needing a second person to align the canopy"
+
 ---
 
 ## The "Postcard Modern" That Actually Ships

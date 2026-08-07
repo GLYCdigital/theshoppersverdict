@@ -1,4 +1,5 @@
 ---
+
 title: "POPOSOAP Pond Waterfall Spillway with Pond Filter Kit"
 seo_title: "POPOSOAP Pond Waterfall Spillway with Pond Filter  Review"
 meta_description: "Our full poposoap pond waterfall spillway with pond filter kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GR9HT8JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OhXhEz+PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're building a small backyard pond and want to kill two birds with one stone—waterfall aesthetics and biological filtration—the POPOSOAP Pond Waterfall Spillway is a solid mid-range pick. But before you buy, measure your pump's output and tubing diameter. This unit has specific requirements that might trip you up.

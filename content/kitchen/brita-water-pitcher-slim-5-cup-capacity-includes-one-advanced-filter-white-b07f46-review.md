@@ -1,4 +1,5 @@
 ---
+
 title: "Brita Water Pitcher, Slim, 5 Cup Capacity, Includes One Adva"
 seo_title: "Brita Slim 5-Cup Pitcher Review: Worth It in 2026?"
 meta_description: "Brita Slim 5-Cup Pitcher review: honest verdict on filtration speed, fridge fit, and filter life. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07F46P3WX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812JRTvo6RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits on narrow fridge shelves and door bins — under 5 inches wide at the base"
   - "Includes one Advanced filter (rated for 40 gallons or 2 months) right in the box"
   - "Flow rate is noticeably faster than older Brita models — full pitcher in under 3 minutes"
-cons:
+cons: 
   - "5-cup capacity means refilling multiple times daily for households of 3+"
   - "Lid isn't hinged; you have to fully remove it to refill, which gets annoying"
   - "No electronic filter indicator — you'll need to track 40-gallon/2-month replacement manually"
+
 ---
 
 Let’s be blunt: if you’re shopping for a water pitcher, you’ve already seen a dozen options with fancy features — LED counters, magnetic lids, subscription filters. The Brita Slim 5-Cup does none of that. It’s a basic, narrow pitcher that costs less than a fast-food lunch. And for most people, that’s exactly the right call.

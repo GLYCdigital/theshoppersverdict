@@ -1,4 +1,5 @@
 ---
+
 title: "dolria LED Chandelier Dimmable for High Ceilings for Living"
 seo_title: "dolria LED Chandelier Review: Dimmable High Ceiling Light"
 meta_description: "Honest dolria LED chandelier review: dimmable, 4.6-star rated. See pros, cons, and who should buy this modern high-ceiling fixture."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQYD2CTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718YOADZAcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dimmable range (10%-100%) with most standard LED wall dimmers — no flicker at low settings"
   - "Integrated LED array rated for 50,000 hours — no bulbs to replace, ever"
   - "Sleek linear design that works in stairwells, entryways, and 2-story great rooms without looking bulky"
-cons:
+cons: 
   - "Installation is not beginner-friendly — needs two people and a sturdy ladder for high ceilings"
   - "Light is cool-toned (4000K) — not ideal if you prefer warm, cozy ambient lighting"
   - "No remote or smart home integration included — dimming requires a compatible wall switch"
+
 ---
 
 If you've got a two-story foyer or a stairwell that swallows light, you know the struggle: most chandeliers hang awkwardly, cast shadows, or require a ladder gymnastics routine just to change a bulb. The dolria LED Chandelier aims to solve that with a slim, integrated LED bar design that reaches down to where you actually need light. At 4.6 stars across 229 ratings, it's clearly doing something right. Here's the full story after digging into spec sheets and real buyer feedback.

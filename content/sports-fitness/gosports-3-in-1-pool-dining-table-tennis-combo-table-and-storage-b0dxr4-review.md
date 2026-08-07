@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports 3 in 1 Pool, Dining, & Table Tennis Combo Table and"
 seo_title: "GoSports 3 in 1 Pool, Dining, & Table Tennis Combo Review"
 meta_description: "Our full gosports 3 in 1 pool, dining, & table tennis combo table and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DXR4QT2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fVD-ZBndL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GoSports 3-in-1 combo table is the Swiss Army knife of game room furniture. It’s also a 200-pound reminder that multi-function products often require multi-level patience. I’ve spent time with this unit, and here’s what matters if you’re considering it for your basement, rec room, or garage.

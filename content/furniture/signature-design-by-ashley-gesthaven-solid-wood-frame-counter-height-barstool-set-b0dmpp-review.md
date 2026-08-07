@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Gesthaven Solid Wood Frame Counte"
 seo_title: "Signature Design by Ashley Gesthaven Solid Wood Fr Review"
 meta_description: "Our full signature design by ashley gesthaven solid wood frame counte review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMPP9L2R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Woykset9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced solid wood seating lately, you know the pain: anything with actual wood construction starts around $150 per stool, and that's before shipping. The Signature Design by Ashley Gesthaven counter height stool undercuts that — significantly — while still carrying the Ashley Furniture name. That combination alone makes it worth a close look. Here's the real story after digging through 225 verified buyer ratings.

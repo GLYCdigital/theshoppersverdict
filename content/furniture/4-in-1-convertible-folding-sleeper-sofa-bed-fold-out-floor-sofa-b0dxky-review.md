@@ -1,4 +1,5 @@
 ---
+
 title: "4-in-1 Convertible Folding Sleeper Sofa Bed, Fold Out Floor"
 seo_title: "4-in-1 Folding Sleeper Sofa Bed Review: Worth It?"
 meta_description: "Honest 4-in-1 Convertible Folding Sleeper Sofa Bed review: comfort, durability, and real buyer feedback. Is this fold-out floor sofa worth your money?"
@@ -11,15 +12,16 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXKYLN9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813yB7YCe2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 4-in-1 versatility — converts between sofa, lounger, floor chair, and flat bed without tools or complicated mechanisms"
   - "High-density foam core holds up to 300+ lbs and resists sagging better than similarly priced inflatable or low-density alternatives"
   - "Machine-washable, zippered cover makes cleanup practical — critical for a floor-level piece that collects dust and pet hair"
   - "Folds flat for storage and weighs under 20 lbs, so one person can move it between rooms or stash it in a closet"
-cons:
+cons: 
   - "Low-profile design sits close to the floor — not ideal for anyone with knee or back issues who struggles to get up from ground level"
   - No built-in lumbar support; extended sitting sessions (2+ hours) can feel firm, especially for taller users over 5'10 inch "
   - "Cover is removable but not waterproof — spills soak through to the foam quickly unless you add a separate mattress protector"
+
 ---
 
 ## The "everything chair" that actually delivers — with caveats

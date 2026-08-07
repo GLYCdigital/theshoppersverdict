@@ -1,4 +1,5 @@
 ---
+
 title: "Smeg 50's Retro Stand Mixer"
 seo_title: "Smeg 50's Retro Stand Mixer Review: Verdict | TSV"
 meta_description: "Our full smeg 50's retro stand mixer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FS6FR6BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cqBd3CtNL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about the elephant in the room: you're not buying the Smeg 50's Retro Stand Mixer because you need another kitchen appliance. You're buying it because it looks like it belongs in a 1950s soda fountain and makes your countertop look like a styled photoshoot. And that's fine — as long as you know what you're getting into.

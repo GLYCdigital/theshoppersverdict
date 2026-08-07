@@ -1,4 +1,5 @@
 ---
+
 title: "365W Solar Panels Monocrystalline, Grade A Solar Cell, Water"
 seo_title: "365W Monocrystalline Solar Panel Review: Worth It? | 2026 inch"
 meta_description: "Honest 365W monocrystalline solar panel review: efficiency, waterproofing, real output, and installation. See if it fits your off-grid or patio setup."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CMZRGMVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZQHEgbdaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 365W output potential with 144 half-cut monocrystalline cells — strong for its physical footprint"
   - "IP68 waterproof rating with anodized aluminum frame; handles rain, snow, and coastal salt air without corrosion"
   - "Pre-drilled mounting holes and standard 39.4-inch MC4 cables make DIY ground or patio installation straightforward"
-cons:
+cons: 
   - "No mounting brackets or charge controller included — you'll spend extra on those, which pushes total cost up"
   - "Output drops noticeably in overcast or shaded conditions; real-world wattage often lands 15-20% below the 365W spec"
   - "Thin 1.4mm tempered glass feels vulnerable to hail or heavy branch impact despite the rugged frame"
+
 ---
 
 **The Short Version: A solid mid-tier panel that delivers honest power, but don't expect the marketing hype to match real-world output.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Livilord 3-Tier Over The Toilet Storage, Freestanding Metal "
 seo_title: "Livilord 3-Tier Over The Toilet Storage, Freestand Review"
 meta_description: "Our full livilord 3-tier over the toilet storage, freestanding metal  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSJDZLPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vn4sSEPNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about bathroom storage: most over-the-toilet units are flimsy particle board disasters that sag within six months. The Livilord 3-Tier is not that. It's a welded steel frame with wire shelves, and that single material choice solves the biggest problems in this category.

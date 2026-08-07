@@ -1,4 +1,5 @@
 ---
+
 title: "Assorted Chocolate Variety Pack - Individually Wrapped Party"
 seo_title: "Assorted Chocolate Variety Pack Review: Party Mix Worth It?"
 meta_description: "Honest review of the Assorted Chocolate Variety Pack: flavors, quality, and value. See if this individually wrapped party assortment earns a spot on your table."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CQPF15MC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715D-+paFYL._SL1080_.jpg"
-pros:
+pros: 
   - "Truly individually wrapped pieces — hygienic for shared office or party settings"
   - "Decent mix of milk, dark, and filled varieties gives serving flexibility"
   - "Sturdy packaging survives shipping without crushed or melted chocolates (per most feedback)"
-cons:
+cons: 
   - "No ingredient list or flavor key included — you're guessing what's inside each wrapper"
   - "Quality skews toward 'grocery store' chocolate, not premium craft confections"
   - "Portion size per piece is small — roughly one-bite, which may underwhelm dessert expectations"
+
 ---
 
 **The Short Version**

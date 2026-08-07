@@ -1,4 +1,5 @@
 ---
+
 title: "Boiled Linseed Oil 500ml - Gloss Finish for Wood Furniture"
 seo_title: "Boiled Linseed Oil 500ml Review: Gloss Finish for Wood"
 meta_description: "Honest Boiled Linseed Oil 500ml review: gloss finish results, coverage, drying time, and drawbacks. See if this wood finish is right for your furniture."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5BCTGZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L0bVCtFJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine gloss finish that deepens wood grain without the plastic look of polyurethane"
   - "500ml bottle covers roughly 25-30 square feet in two coats — solid value for furniture projects"
   - "Dries tack-free in 24 hours with proper thin coats, faster than raw linseed oil"
-cons:
+cons: 
   - "Requires 3-4 thin coats for best results; one thick coat will stay sticky for days"
   - "Flammable rags are a genuine fire hazard — you must dispose of them properly or air-dry flat"
+
 ---
 
 Let's talk about boiled linseed oil — the finish that's been reviving wood furniture since before your grandfather was born. This 500ml bottle from an Amazon house brand has racked up 229 ratings at 4.6 stars, and after digging into what buyers actually say, the praise is mostly earned. But there's a learning curve, and I'm going to tell you exactly what it is.

@@ -1,4 +1,5 @@
 ---
+
 title: "Buyagn 100ft LED Rope Lights"
 seo_title: "Buyagn 100ft LED Rope Lights Review (2026): Worth It?"
 meta_description: "Honest Buyagn 100ft LED rope lights review: brightness, durability, and real customer feedback. Is this 4.5-star lighting kit right for your home?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08L4NKB6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ymmzp1yrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 100ft length with 4mm thick copper wire core that holds shape well around corners and curves"
   - "IP65 waterproof rating means outdoor installation survives rain, snow, and direct sun exposure"
   - "8 color modes and 4 brightness levels controlled from a simple inline remote — no app required"
-cons:
+cons: 
   - "Adhesive backing is weak on textured surfaces; you'll need clips or zip ties for permanent installs"
   - "Cannot be cut to custom lengths — every cut kills the entire strand, so measure your run before buying"
+
 ---
 
 Let's be honest about rope lights: most are either too dim to matter or too flimsy to survive a season outdoors. The Buyagn 100ft LED set sits in a rare middle ground — it's bright enough to actually light a patio, and the build quality justifies the 4.5-star average across 225 ratings. But it's not without quirks.

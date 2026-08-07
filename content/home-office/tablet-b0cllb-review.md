@@ -1,4 +1,5 @@
 ---
+
 title: "Tablet"
 seo_title: "Tablet Review: Verdict | TSV"
 meta_description: "Our full tablet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLLBYXJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zdsKao1KL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.4-star tablet that quietly does the job — if you set expectations right**

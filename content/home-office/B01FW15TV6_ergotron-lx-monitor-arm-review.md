@@ -1,4 +1,5 @@
 ---
+
 title: "Ergotron LX Monitor Arm Single Monitor Desk Mount"
 seo_title: "Ergotron LX Monitor Arm Review: Worth It in 2026?"
 meta_description: "Ergotron LX Monitor Arm review: 4.6/5 from 2,374 ratings. Does this $196 arm justify its price? Real-world testing, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 2374
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01FW15TV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71epZvL8jiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports up to 25 lbs with smooth, friction-held articulation that stays put at any angle"
   - "Built-in cable management channels keep wires routed cleanly along the arm"
   - "10-year warranty — one of the longest in the monitor arm category"
-cons:
+cons: 
   - "C-clamp mounting limits desk compatibility — needs a flat rear edge at least 2.4 inches deep"
   - "VESA plate uses a captive screw design that makes mounting heavier monitors a two-person job"
   - "No gas-spring assist — relies on a tension counterbalance you dial in with a hex key"
+
 ---
 
 Let’s cut through the noise: the Ergotron LX is the monitor arm that every cheaper brand claims to be. It’s been the office standard for over a decade, and with 2,374 Amazon ratings holding a 4.6-star average, the consensus is loud. But at $195.99, it costs two to three times more than the generic arms flooding the market. Is the premium justified? After testing it against three sub-$100 competitors, the short answer is yes — with caveats.

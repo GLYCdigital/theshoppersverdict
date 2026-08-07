@@ -1,4 +1,5 @@
 ---
+
 title: "Antimo Caputo Chef's Flour 2.2 LB - Italian Double Zero 00 -"
 seo_title: "Caputo Chef's Flour 00 Review: Real Italian Pizza Dough"
 meta_description: "Caputo Chef's Flour 00 review: 4.6-star-rated Italian double zero flour. See how it performs for pizza, bread, and pasta. Honest pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB8V9VG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FMG9xRCSL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic Neapolitan-style 00 flour with 12.5% protein — strong enough for 24-48 hour cold ferments without turning into a sticky mess"
   - "Fine, silky milling absorbs water predictably; yields a dough that stretches thin without tearing, even for home oven bakes at 500°F"
   - "Comes in a 2.2 lb (1 kg) resealable bag — a practical trial size before committing to the standard 11 lb bulk sack"
-cons:
+cons: 
   - "Price per pound is notably higher than the 11 lb bag; you're paying a premium for the smaller format"
   - "No added malt or diastatic enzymes, so home bakers using standard yeast may need slightly longer proofing times than with bread flour"
   - "The resealable zipper can fail after a few opens — keep a clip on hand if you don't bake daily"
+
 ---
 
 If you've ever wondered why your homemade pizza crust doesn't taste like the one from that corner pizzeria, the flour is usually the answer. Antimo Caputo Chef's Flour is the same 00-grade flour used across Naples, and it's the single most impactful ingredient swap you can make without buying a wood-fired oven.

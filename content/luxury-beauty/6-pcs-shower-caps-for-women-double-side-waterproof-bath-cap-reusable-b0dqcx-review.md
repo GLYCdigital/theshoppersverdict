@@ -1,4 +1,5 @@
 ---
+
 title: "6 PCS Shower Caps for Women, Double Side Waterproof Bath Cap"
 seo_title: "6 PCS Shower Caps for Women Review: Double-Sided & Waterproof"
 meta_description: "Honest 6 PCS Shower Caps for Women review: double-sided waterproof design, real fit tests, durability checks, and who should buy. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQCX21TB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rN4TGoXLL._SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided waterproof construction with a soft cotton interior and PVC-coated exterior — keeps hair dry without the crinkle-sound problem"
   - "Generous fit that accommodates thick, curly, or long hair without squeezing the forehead or leaving red marks"
   - "Six caps per pack means you can rotate them while others dry — practical for daily showering or travel"
-cons:
+cons: 
   - "Elastic band is snug on larger head sizes (22+ inches) — some buyers report needing to stretch it out first"
   - "Not ideal for deep-conditioning treatments — the interior lining absorbs product rather than trapping heat"
+
 ---
 
 ## The $15 Shower Cap That Finally Gets the Job Done

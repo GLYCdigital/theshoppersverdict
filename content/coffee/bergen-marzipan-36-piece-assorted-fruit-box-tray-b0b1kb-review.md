@@ -1,4 +1,5 @@
 ---
+
 title: "Bergen Marzipan 36 Piece Assorted Fruit Box Tray"
 seo_title: "Bergen Marzipan 36 Piece Assorted Fruit Box Tray Review"
 meta_description: "Bergen Marzipan 36 Piece Assorted Fruit Box Tray review: taste, texture, packaging, and value. See if this Scandinavian treat is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B1KBVF6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xAASUA6dL._SL1000_.jpg"
-pros:
+pros: 
   - "Authentic Scandinavian marzipan with 35% almond content — noticeably richer than grocery-store almond paste imposters"
   - "36 individually wrapped pieces in a sturdy presentation tray — ready for gifting or entertaining without extra assembly"
   - "Balanced sweetness with real fruit flavorings; the lemon and raspberry pieces are standout performers"
-cons:
+cons: 
   - "No ingredient list or allergen information printed on the outer box — a real issue for nut-allergy households"
   - "Texture leans soft and almost cake-like rather than firm; traditionalists expecting dense, sliceable marzipan may be disappointed"
   - "Fruit shapes look more like blobs than fruits — charming to some, but don't expect lifelike detailing"
+
 ---
 
 Listen, I review coffee gear for a living. So when a marzipan box shows up in my queue, I had questions. But here's the thing — this Bergen Marzipan tray keeps showing up in "frequently bought together" with espresso machines and pour-over kits. Why? Because marzipan and dark roast is a classic Scandinavian pairing, and this is the box people actually buy. With 215 ratings holding a steady 4.3, I wanted to know if it earned that spot.

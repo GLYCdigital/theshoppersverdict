@@ -1,4 +1,5 @@
 ---
+
 title: "SALERM - 21 Jasmine and Amber - 200 ml - Leave-In Mask and C"
 seo_title: "SALERM - 21 Jasmine and Amber - 200 ml - Leave-In  Review"
 meta_description: "Our full salerm - 21 jasmine and amber - 200 ml - leave-in mask and c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B073B32W3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613i4TjarvL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-Second Hook**

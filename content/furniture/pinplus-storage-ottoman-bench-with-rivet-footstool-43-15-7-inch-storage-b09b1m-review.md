@@ -1,4 +1,5 @@
 ---
+
 title: "PINPLUS Storage Ottoman Bench with Rivet Footstool 43/15.7 i"
 seo_title: "PINPLUS Storage Ottoman Bench with Rivet Footstool Review"
 meta_description: "Our full pinplus storage ottoman bench with rivet footstool 43/15.7 i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09B1M6NYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/513QFB8KLwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 43-inch ottoman that does triple duty — but read this before you buy**

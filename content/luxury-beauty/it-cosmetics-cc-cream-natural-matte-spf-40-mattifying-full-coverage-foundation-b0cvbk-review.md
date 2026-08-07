@@ -1,4 +1,5 @@
 ---
+
 title: "IT Cosmetics CC+ Cream Natural Matte SPF 40 - Mattifying Ful"
 seo_title: "IT Cosmetics CC+ Cream Natural Matte SPF 40 - Matt Review"
 meta_description: "Our full it cosmetics cc+ cream natural matte spf 40 - mattifying ful review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CVBKVTG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VrxyCJr1L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-second version:** This is a rare hybrid — a CC cream that actually delivers full, foundation-level coverage while keeping the skincare benefits and SPF. The matte finish is real, not the "dewy then oily by noon" situation you get from most tinted moisturizers. But it's not foolproof; the fast-drying formula demands technique.

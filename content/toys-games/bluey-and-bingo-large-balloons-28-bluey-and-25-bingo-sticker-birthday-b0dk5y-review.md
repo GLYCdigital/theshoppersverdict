@@ -1,7 +1,8 @@
 ---
-title: "Bluey and Bingo Large Balloons | 28\" Bluey and 25\" Bingo | S"
-seo_title: "Bluey & Bingo Large Balloons Review: 28\" & 25\" Party Set"
-meta_description: "Honest Bluey and Bingo large balloons review: 28\" Bluey and 25\" Bingo foil balloons. Are they worth 4.7 stars? We break down quality, size, and value."
+
+title: "Bluey and Bingo Large Balloons | 28\ Bluey and 25\ Bingo | S"
+seo_title: "Bluey & Bingo Large Balloons Review: 28\ & 25\ Party Set"
+meta_description: "Honest Bluey and Bingo large balloons review: 28\ Bluey and 25\ Bingo foil balloons. Are they worth 4.7 stars? We break down quality, size, and value."
 slug: "bluey-and-bingo-large-balloons-28-bluey-and-25-bingo-sticker-birthday-b0dk5y-review"
 image_alt: "Bluey and Bingo large foil balloons, 28 inch Bluey and 25 inch Bingo, birthday party decoration set"
 verdict_score: 4.6
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK5YMMMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719n4qORgdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True-to-character artwork — Bluey and Bingo are instantly recognizable, not off-brand knockoffs"
   - Large 28\" and 25\" sizes give real visual impact without needing a balloon column or arch
   - "Self-sealing foil construction holds helium for days, not hours — most buyers report 3-5 days of float"
-cons:
+cons: 
   - "Packaged flat and folded — creases can be stubborn and may never fully disappear even after inflation"
   - "Only two balloons in the set — if you're decorating a full party room, you'll need to buy multiple sets or supplement"
   - "No string or ribbon included — you'll need to supply your own for ceiling hanging or table anchoring"
+
 ---
 
 **Review Body:**

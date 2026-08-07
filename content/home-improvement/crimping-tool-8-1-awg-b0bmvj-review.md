@@ -1,4 +1,5 @@
 ---
+
 title: "Crimping tool 8-1 AWG"
 seo_title: "Crimping Tool 8-1 AWG Review: Heavy-Duty Wire Crimper"
 meta_description: "Honest review of the 8-1 AWG crimping tool. Tested on battery cables, lugs & terminals. See pros, cons, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BMVJLYWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lmKk79H0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full ratcheting mechanism produces consistent, factory-grade crimps every time — no guesswork on pressure"
   - "Interchangeable dies cover 8 AWG down to 1 AWG, handling battery cables, welding leads, and heavy audio wire"
   - "Compound leverage design means even smaller hands can crush 1 AWG lugs without a bench vise"
-cons:
+cons: 
   - "No storage case included — dies rattle loose in a toolbox unless you rig your own organizer"
   - "Die change requires a small hex key that's easy to lose (and not magnetized to the tool)"
+
 ---
 
 **Review Body:**

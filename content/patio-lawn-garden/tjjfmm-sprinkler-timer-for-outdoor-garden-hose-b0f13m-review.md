@@ -1,4 +1,5 @@
 ---
+
 title: "TJJFMM Sprinkler Timer for Outdoor Garden Hose"
 seo_title: "TJJFMM Sprinkler Timer for Outdoor Garden Hose Review: Ve"
 meta_description: "Our full tjjfmm sprinkler timer for outdoor garden hose review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.4
 amazon_url: "https://www.amazon.com/dp/B0F13MN4P7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 2.4-star average across 150 ratings tells you something upfront: this timer has problems. But the 3.3 verdict score I'm giving it suggests the full picture is more complicated than a straight fail. Here's what I found digging through the feedback and testing reports.

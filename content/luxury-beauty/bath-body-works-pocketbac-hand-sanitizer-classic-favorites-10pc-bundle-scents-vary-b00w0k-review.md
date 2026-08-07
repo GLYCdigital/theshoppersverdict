@@ -1,4 +1,5 @@
 ---
+
 title: "Bath & Body Works PocketBac Hand Sanitizer Classic Favorites"
 seo_title: "Bath & Body Works PocketBac Review: 10-Pack Classic Scents"
 meta_description: "Honest Bath & Body Works PocketBac hand sanitizer review: scent variety, staying power, and value. See if this 10-pack is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00W0KK6PM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fL-4x8AFL._SL1500_.jpg"
-pros:
+pros: 
   - "Actual fragrance payoff — these smell like perfumes, not rubbing alcohol"
   - "Travel-friendly 1 fl oz size fits pockets, purses, and car cup holders"
   - "Moisturizing formula doesn't leave that tight, chalky film"
-cons:
+cons: 
   - "Scents are random — you don't get to choose your specific favorites"
   - "Sells out frequently; third-party prices can spike 2–3x retail"
   - "Strong fragrance may trigger sensitive noses or migraine-prone buyers"
+
 ---
 
 Let's be honest: most hand sanitizers smell like a hospital waiting room and leave your hands feeling like you just washed them with sandpaper. The Bath & Body Works PocketBac Classic Favorites bundle exists specifically to fix that problem. With a 4.3-star average across 215 ratings, it's clearly doing something right — but the "scents vary" caveat means you're gambling a bit on which fragrances show up at your door.

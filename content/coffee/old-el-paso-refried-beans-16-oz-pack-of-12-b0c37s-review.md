@@ -1,4 +1,5 @@
 ---
+
 title: "Old El Paso Refried Beans, 16 oz. (Pack of 12)"
 seo_title: "Old El Paso Refried Beans, 16 oz. (Pack of 12) Review: Ve"
 meta_description: "Our full old el paso refried beans, 16 oz. (pack of 12) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C37SFFVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81a-KgDwsaL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be real: you’re not here because you’re curious about the nuanced terroir of pinto beans. You’re here because you’ve got a taco night habit, a hungry family, or a deep desire to never run out of the one side dish that makes fajitas feel complete. The Old El Paso Refried Beans 16 oz. pack of 12 is the bulk-buy answer to that. Here’s the honest breakdown.

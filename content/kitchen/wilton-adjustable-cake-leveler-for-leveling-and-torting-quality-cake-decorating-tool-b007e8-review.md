@@ -1,4 +1,5 @@
 ---
+
 title: "Wilton Adjustable Cake Leveler - For Leveling and Torting - "
 seo_title: "Wilton Adjustable Cake Leveler - For Leveling and  Review"
 meta_description: "Our full wilton adjustable cake leveler - for leveling and torting -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B007E8KCFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ozGXnoVeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some bakers swear by a serrated knife and a steady hand. Others have learned the hard way that freehand leveling is a gamble — one wobbly slice and your three-layer masterpiece leans like the Tower of Pisa. The Wilton Adjustable Cake Leveler exists for the second group. After testing it on chiffon, chocolate, and a stubbornly dense carrot cake, here's the honest breakdown.

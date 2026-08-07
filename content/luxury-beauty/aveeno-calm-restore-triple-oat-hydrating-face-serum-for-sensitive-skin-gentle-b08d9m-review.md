@@ -1,4 +1,5 @@
 ---
+
 title: "Aveeno Calm + Restore Triple Oat Hydrating Face Serum for Se"
 seo_title: "Aveeno Triple Oat Serum Review: Gentle Hydration for Sensitive Skin"
 meta_description: "Aveeno Calm + Restore Triple Oat Hydrating Serum review: real results for sensitive skin. 4.5-star rated, fragrance-free, 72-hour hydration. Honest pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08D9MVRXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d0RSQHRXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fragrance-free formula with prebiotic oat, oat oil, and oat extract — genuinely soothing for reactive skin, not just marketing"
   - "Silky water-cream texture absorbs in under 30 seconds without pilling under sunscreen or makeup"
   - "Clinically shown to boost skin's moisture barrier by 47% in 24 hours — visible plumpness by day 3 of daily use"
-cons:
+cons: 
   - "1.7 oz bottle with dropper runs out in 5-6 weeks of twice-daily use — expensive per-ounce for a drugstore brand"
   - "Too lightweight for very dry or winter-parched skin; you'll still need a heavier moisturizer on top"
   - "Dropper dispenses inconsistently — sometimes a full pump, sometimes just a film, making it hard to gauge daily usage"
+
 ---
 
 If your skin throws a tantrum at the first hint of fragrance, essential oils, or "revolutionary" actives, you already know the struggle: most hydrating serums are either too watery to matter or so loaded with botanical extracts they leave you red and stinging. The Aveeno Calm + Restore Triple Oat Hydrating Face Serum sits squarely in the "finally, someone gets it" category. It's not flashy, but it works — quietly, consistently, and without drama.

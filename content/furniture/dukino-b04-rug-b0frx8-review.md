@@ -1,4 +1,5 @@
 ---
+
 title: "DUKINO B04 Rug"
 seo_title: "DUKINO B04 Rug Review: Is This 4.5-Star Rug Worth It?"
 meta_description: "Honest DUKINO B04 Rug review: durability, shedding, cleaning, and value. See real buyer feedback before you buy this 4.5-star area rug."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRX8WCVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kMrvZho7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-profile 0.4-inch pile makes it ideal under dining tables and doors without catching"
   - "Machine-washable construction that actually survives repeated cleanings according to buyer reports"
   - "Skid-resistant latex backing holds firm on hardwood and tile without a separate pad"
-cons:
+cons: 
   - "Initial chemical odor lingers 3-5 days even after airing out per multiple reviews"
   - "Not plush underfoot — this is a flatweave-style feel, not a fluffy shag"
+
 ---
 
 Let me be upfront: the DUKINO B04 isn't trying to be the plushest rug in your house. What it *is* trying to be is the most practical one — and based on 225 ratings averaging 4.5 stars, it's succeeding for most buyers.

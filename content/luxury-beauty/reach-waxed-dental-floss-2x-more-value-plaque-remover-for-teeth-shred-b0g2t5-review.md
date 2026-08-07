@@ -1,4 +1,5 @@
 ---
+
 title: "REACH Waxed Dental Floss, 2X More Value, Plaque Remover for "
 seo_title: "REACH Waxed Dental Floss, 2X More Value, Plaque Re Review"
 meta_description: "Our full reach waxed dental floss, 2x more value, plaque remover for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G2T5BFM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vm9WwcMaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. You're looking at REACH Waxed Dental Floss in the "2X More Value" pack, and you're probably wondering one thing: is this just a bigger spool of the same old floss, or does it actually perform? After 225 ratings averaging 4.5 stars, the crowd has spoken. Here's the real story.

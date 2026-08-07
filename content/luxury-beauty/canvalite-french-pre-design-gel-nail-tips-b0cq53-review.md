@@ -1,4 +1,5 @@
 ---
+
 title: "Canvalite French Pre-Design Gel Nail Tips"
 seo_title: "Canvalite French Gel Nail Tips Review: Worth It? (2026)"
 meta_description: "Canvalite French pre-design gel nail tips reviewed: 4.2★ from 210 ratings. Do they last? Easy to apply? We tested them — here's the honest truth."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQ53JZBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ou+s1CNOL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-designed French fade means zero painting skill required — the gradient is already baked in"
   - "Full coverage tips (not half-cover) that look like a $60 salon gel manicure from arm's length"
   - "Comes with 24 nails across 12 sizes, so you can actually find a fit for narrow or wide nail beds"
-cons:
+cons: 
   - "No glue or adhesive tabs included — you'll spend another $8–12 on a separate bonder"
   - "The pre-designed tip stops short of the cuticle line on shorter nail beds, creating a visible ledge"
   - "Sizing runs small — several reviewers report needing to size up from their usual press-on size"
+
 ---
 
 Let's be blunt: most "pre-designed" nail tips are a scam. They're just regular tips with a printed pattern that looks like a sticker once it's on. The Canvalite French set is different — and that difference is exactly why 210 Amazon shoppers have pushed it to a 4.2-star average.

@@ -1,4 +1,5 @@
 ---
+
 title: "Golden King Crab Legs"
 seo_title: "Golden King Crab Legs Review: Verdict | TSV"
 meta_description: "Our full golden king crab legs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07F6CP548/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pMb9fI1oL._SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Golden King Crab Legs Review: The Real Story on This 4.3-Star Seafood Staple

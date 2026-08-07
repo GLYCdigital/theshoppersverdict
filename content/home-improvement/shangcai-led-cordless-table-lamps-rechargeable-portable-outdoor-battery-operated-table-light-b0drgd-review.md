@@ -1,4 +1,5 @@
 ---
+
 title: "SHANGCAI LED Cordless Table Lamps Rechargeable - Portable Ou"
 seo_title: "SHANGCAI LED Cordless Table Lamps Rechargeable - P Review"
 meta_description: "Our full shangcai led cordless table lamps rechargeable - portable ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRGDWJ5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pAjqQtiQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the SHANGCAI LED Cordless Table Lamp is a $30-ish light that performs like it costs twice that. With 229 ratings averaging 4.6 stars, it's clearly doing something right. But "cordless" doesn't mean "perfect," and there are a few things you should know before you hit buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "SYOKAMI Japanese Kitchen Knife, 8.2 Inch Chef Knife, Carbon Steel Kiritsuke"
 seo_title: "SYOKAMI Kiritsuke Knife Review: 8.2 inch  Carbon Steel Chef Knife"
 meta_description: "SYOKAMI 8.2-inch carbon steel kiritsuke knife review: razor-sharp edge, traditional Japanese profile, and honest tradeoffs. Is this $37 chef knife worth it?"
@@ -11,13 +12,14 @@ review_count: 904
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F3J4FBWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712tpZm3CzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-tang, high-carbon steel blade (HRC 60-61) takes a screaming-sharp edge at a fraction of Japanese knife boutique pricing"
   - "Genuine kiritsuke profile — flat edge and squared tip — gives you precision push-cutting and rock-chopping in one tool"
   - "Octagonal walnut wood handle is comfortable for both pinch and hammer grips, with zero flex through the tang"
-cons:
+cons: 
   - "Carbon steel WILL patina and rust if left wet — this is not a dishwasher-safe, set-it-and-forget-it knife"
   - "No bolster means your fingers sit close to the edge; beginners need to mind their grip on the squared-off tip"
+
 ---
 
 # SYOKAMI Japanese Kitchen Knife Review: The $37 Kiritsuke That Punches Above Its Weight

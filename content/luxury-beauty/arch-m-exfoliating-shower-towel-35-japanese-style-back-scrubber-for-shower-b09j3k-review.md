@@ -1,4 +1,5 @@
 ---
+
 title: "ARCH&M Exfoliating Shower Towel – 35 inch  Japanese-Style Back"
 seo_title: "ARCH&M Exfoliating Shower Towel Review: 35 inch  Japanese Scrubber"
 meta_description: "Honest ARCH&M Exfoliating Shower Towel review: does this 35 inch  Japanese-style back scrubber deliver smooth skin? Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09J3KWN8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8168iAOdZDL._SL1500_.jpg"
-pros:
+pros: 
   - "Full 35-inch length with grippy ends lets you reach every part of your back without a helper"
   - "Dense nylon weave provides genuine exfoliation — you feel it working, not just rubbing soap"
   - "Dries fast and rinses clean; no musty smell between uses like loofahs develop"
-cons:
+cons: 
   - "Too aggressive for daily use on sensitive skin — 2–3 times per week is the realistic max"
   - "Requires a learning curve to get the tension right; too loose and it won't exfoliate effectively"
+
 ---
 
 Let's be honest about back exfoliation: most tools are either too flimsy to do anything or too awkward to use properly. The ARCH&M 35-inch Japanese-style towel sits in a different category — it's a strip of densely woven nylon that demands you learn a specific technique, then rewards you with the smoothest back you've had since you stopped being able to reach it.

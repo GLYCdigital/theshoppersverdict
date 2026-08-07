@@ -1,4 +1,5 @@
 ---
+
 title: "dilitego Lined Journal Notebook for Women Men, 256 Numbered"
 seo_title: "dilitego Lined Journal Review: 256 Numbered Pages Worth It?"
 meta_description: "dilitego lined journal notebook review: 256 numbered pages, lay-flat binding, thick paper. See pros, cons, and who should buy this 4.8-star journal."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D4LR1HG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813mz+43iEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 100gsm paper handles fountain pens and most gel inks without ghosting or bleed-through"
   - "Numbered pages plus a built-in index table make it genuinely functional for bullet journaling and archiving"
   - "Lay-flat binding holds pages open without weights — rare at this price point"
-cons:
+cons: 
   - "Elastic closure band feels slightly tight when the journal is full, straining the cover"
   - "Only one ribbon bookmark — a second would help with the index-to-page navigation"
   - "No pen loop on the cover, despite the marketing photos suggesting otherwise"
+
 ---
 
 Let me be blunt: most journals in this price range are either pretty but useless (paper so thin your pen bleeds through four pages) or functional but ugly. The dilitego Lined Journal actually tries to be both, and for the most part, it pulls it off.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market Ground Pork NAE, 16 OZ"
 seo_title: "365 Whole Foods Ground Pork NAE Review: Worth It?"
 meta_description: "365 by Whole Foods Ground Pork NAE 16 oz review: quality, taste, and value. See if this no-antibiotics pork earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPLGMVK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611e9Y0gRdL._SL1000_.jpg"
-pros:
+pros: 
   - "Consistently fresh, mild flavor with no gamey aftertaste — works across recipes from breakfast sausage to bolognese"
   - "NAE (no antibiotics ever) certification verified by Whole Foods' strict sourcing standards, not just marketing puff"
   - "Clean 16-oz tray with minimal purge liquid — you're paying for meat, not water"
-cons:
+cons: 
   - "No percentage label for lean-to-fat ratio printed on pack — you'll need to eyeball it (typically runs around 70/30)"
   - "Price per pound runs higher than conventional store-brand ground pork at standard grocers"
   - "Packaging tray can leak at the seal if frozen and thawed — transfer to a zip-top bag before freezing"
+
 ---
 
 Let's cut through the noise. You're looking at ground pork, and the first thing you need to know is that this isn't your average supermarket tube. The 365 by Whole Foods Market Ground Pork NAE (No Antibiotics Ever) has carved out a loyal following with a 4.7-star average across 235 ratings. Here's whether it belongs in your cart.

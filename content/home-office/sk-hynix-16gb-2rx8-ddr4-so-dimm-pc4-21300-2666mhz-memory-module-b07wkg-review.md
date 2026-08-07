@@ -1,4 +1,5 @@
 ---
+
 title: "SK HYNIX 16GB 2RX8 DDR4 SO-DIMM PC4-21300 2666MHZ Memory Mod"
 seo_title: "SK HYNIX 16GB 2RX8 DDR4 SO-DIMM PC4-21300 2666MHZ  Review"
 meta_description: "Our full sk hynix 16gb 2rx8 ddr4 so-dimm pc4-21300 2666mhz memory mod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07WKGM4KT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613TcU8pzDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The quiet workhorse your laptop has been begging for**

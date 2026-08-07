@@ -1,4 +1,5 @@
 ---
+
 title: "4 slice Toasters"
 seo_title: "4 Slice Toasters Review: Worth It? Honest Buyer's Guide"
 meta_description: "Read our honest 4 slice toasters review. We break down performance, build quality, and value to help you decide if this kitchen appliance is worth buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DTH5WQT2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EUTpda8CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Extra-wide slots handle bagels, thick sourdough, and artisan bread without forcing or tearing"
   - "Independent toasting controls for each pair of slots let you toast one side while keeping the other warm"
   - "Crumb tray slides out from the front for quick cleanup without flipping the toaster over"
-cons:
+cons: 
   - "The exterior gets noticeably hot during heavy use — keep it away from cabinets and kids"
   - "Frozen bagel setting runs long; you'll need to hover to avoid over-toasting on the first cycle"
+
 ---
 
 **4 Slice Toasters: The Family-Size Workhorse That Gets Breakfast Done**

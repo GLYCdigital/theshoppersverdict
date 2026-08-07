@@ -1,4 +1,5 @@
 ---
+
 title: "FOOMAN Outdoor String Lights, IP65 Waterproof Commercial Gra"
 seo_title: "FOOMAN Outdoor String Lights Review: IP65 Commercial Grade"
 meta_description: "Honest FOOMAN outdoor string lights review: IP65 waterproof, commercial-grade patio lights. See pros, cons, real buyer feedback, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BK99PYSS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gctLpU6bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True commercial-grade build with heavy-duty 16AWG wiring and reinforced sockets that hold bulbs firmly"
   - "IP65 weatherproof rating with sealed sockets and rubber gaskets — survives rain, snow, and coastal humidity"
   - "Warm 2700K glow from the included 1W LED bulbs looks like classic incandescent without the power bill"
-cons:
+cons: 
   - "Bulbs are non-replaceable with standard E26 — you're locked into FOOMAN's proprietary fit"
   - "Only 25 feet per set — larger patios will need multiple sets, and the connectors are bulky"
+
 ---
 
 Look, most string lights you find on Amazon are glorified holiday decorations. The FOOMAN Outdoor String Lights are not that. With a 4.6/5 rating across 229 reviews, these are built like the commercial-grade fixtures you'd see hanging over a restaurant patio — and they're priced to make that an option for homeowners, too.

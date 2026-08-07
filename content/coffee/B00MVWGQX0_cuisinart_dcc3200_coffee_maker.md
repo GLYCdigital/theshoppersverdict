@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart DCC-3200 PerfecTemp Coffee Maker"
 seo_title: "Cuisinart DCC-3200 Review: Is It Worth It? (2026)"
 meta_description: "Cuisinart DCC-3200 PerfecTemp review: 12-cup programmable brewer with fast brew time and hot plate. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 43350
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71io+Gh4ApL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews a full 12-cup pot in roughly 7–8 minutes — noticeably faster than most drip machines at this price"
   - "Heating element holds coffee at 195–200°F, which actually preserves flavor instead of scorching it"
   - "Brew pause feature lets you pour a cup mid-cycle without flooding the base or dripping everywhere"
-cons:
+cons: 
   - "Carafe is glass and fragile; several long-term owners report cracks after 12–18 months of daily use"
   - "No auto-shutoff for the warming plate — coffee can bake into a bitter mess if you forget to turn it off"
   - "Water window is on the side and hard to read in low light; you'll likely use the markings on the carafe instead"
+
 ---
 
 If you've bought drip coffee makers before, you know the pattern: $40 machine works great for six months, then the heating element dies or the brew gets weak and watery. The Cuisinart DCC-3200 PerfecTemp sits in a different tier — it's the machine people recommend when they're tired of replacing cheap brewers. With 43,350+ Amazon ratings holding a 4.5-star average, it's clearly doing something right. The real question is whether it earns that reputation for you.

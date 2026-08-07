@@ -1,4 +1,5 @@
 ---
+
 title: "Care Bears x Wicked 2-Pack - Love-a-Lot Bear Review"
 seo_title: "Care Bears x Wicked 2-Pack Review: Love-a-Lot Bear & Glinda"
 meta_description: "Care Bears x Wicked 2-Pack review: Love-a-Lot Bear as Glinda & Share Bear as Elphaba. Cute crossover plush, but is it worth it? Read our honest take."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DX2M1DHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RxIR6WQnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Clever character design — Love-a-Lot Bear's heart belly badge doubles as Glinda's iconic look with a pink crown and gown details"
   - "High-quality plush material that holds up to repeated hugging; embroidered features won't peel or fade like printed ones"
   - "Two-bear set delivers real value for collectors — buying them separately would cost noticeably more"
-cons:
+cons: 
   - "Purely decorative — no sound chips, no interactive features, just plush. Younger kids may lose interest quickly"
   - "Smaller than standard Care Bears — roughly 10 inches tall, which surprises some buyers expecting the classic 12-inch size"
+
 ---
 
 Two iconic brands collide in this Care Bears x Wicked 2-pack, and honestly, it's a match made in crossover heaven. The set pairs Love-a-Lot Bear as Glinda with Share Bear as Elphaba, and the design team clearly had fun with the concept. Love-a-Lot's signature heart belly badge gets a sparkly pink makeover with a tiny crown, while Share Bear rocks Elphaba's black hat and cape. The product images don't do the details justice — in person, the costume elements are sewn in, not printed on, which makes a huge difference in how premium these feel.

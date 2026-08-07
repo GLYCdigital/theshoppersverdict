@@ -1,4 +1,5 @@
 ---
+
 title: "JandCase Night Lights Plug into Wall, Dusk to Dawn Sensor,"
 seo_title: "JandCase Night Lights Plug into Wall, Dusk to Dawn Review"
 meta_description: "Our full jandcase night lights plug into wall, dusk to dawn sensor, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FSKY8BVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810ncVlHRyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Plug-and-Forget Night Light That Actually Works

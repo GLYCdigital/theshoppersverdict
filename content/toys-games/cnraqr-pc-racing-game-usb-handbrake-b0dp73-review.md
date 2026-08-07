@@ -1,5 +1,6 @@
 ---
 
+
 title: "CNRAQR PC Racing Game USB Handbrake"
 seo_title: "CNRAQR USB Handbrake Review: Budget Sim Racing Essential"
 meta_description: "CNRAQR PC racing handbrake review: build quality, compatibility, and real-world drift performance at $69.99. Is it worth it for sim racers?"
@@ -12,14 +13,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP73ZRGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R+h2MBHtL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall effect sensor delivers precise, wear-free input for under $70 inch"
   - "Plug-and-play USB connection works with PC, PS3/PS4, and Switch without driver hassle"
   - "Adjustable resistance knob lets you tune pull weight from feather-light to stiff"
-cons:
+cons: 
   - "Metal base plate lacks pre-drilled holes for standard 8020 rigs — you'll need a clamp or DIY mount"
   - "Lever travel is shorter than high-end units; rally purists may want more throw"
   - "Brake axis registers as a joystick button, requiring mapping tweaks in some sims"
+
 
 ---
 

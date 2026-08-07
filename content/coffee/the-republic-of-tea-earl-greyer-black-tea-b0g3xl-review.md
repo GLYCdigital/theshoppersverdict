@@ -1,4 +1,5 @@
 ---
+
 title: "The Republic of Tea - Earl Greyer Black Tea"
 seo_title: "The Republic of Tea - Earl Greyer Black Tea Review: Verdi"
 meta_description: "Our full the republic of tea - earl greyer black tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3XLDWPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615K4YSx+0L._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some teas are polite. This one has opinions. The Republic of Tea's Earl Greyer leans into its name — it's a bolder, more caffeinated take on the classic Earl Grey, and it's been earning 4.7 stars from 235 Amazon reviewers for good reason.

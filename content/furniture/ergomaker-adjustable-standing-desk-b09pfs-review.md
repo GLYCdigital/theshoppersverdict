@@ -1,4 +1,5 @@
 ---
+
 title: "ERGOMAKER Adjustable Standing Desk"
 seo_title: "ERGOMAKER Adjustable Standing Desk Review: Worth It in 2026?"
 meta_description: "Honest ERGOMAKER Adjustable Standing Desk review: stability, motor noise, assembly, and real buyer feedback. See if this budget sit-stand desk delivers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09PFSNCY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R1r-4cEZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor lift system handles up to 155 lbs with smooth, quiet operation — rare at this price point"
   - Solid steel frame with crossbar support gives minimal wobble even at full 48.4 inch " standing height
   - "Three programmable height presets on the LED controller make switching positions genuinely effortless"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes and requires two people — the frame is heavy and awkward to flip solo"
   - "Desktop is engineered wood, not solid — susceptible to scratches and minor water damage if you skip a mat"
   - "Cable management tray is flimsy and poorly positioned; most buyers end up buying a third-party solution"
+
 ---
 
 # ERGOMAKER Adjustable Standing Desk Review: The Budget Sit-Stand Desk That Actually Holds Up

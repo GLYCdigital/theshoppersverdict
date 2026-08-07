@@ -1,4 +1,5 @@
 ---
+
 title: "SunHeater Round Solar Pool Cover - Blue Bubble Thermal Blank"
 seo_title: "SunHeater Round Solar Pool Cover - Blue Bubble The Review"
 meta_description: "Our full sunheater round solar pool cover - blue bubble thermal blank review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9R9CQQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71joRNyYPkL._AC_SL1020_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an above-ground pool, you already know the math: a heater costs $50–$100 a month in electricity, and the sun is free. The SunHeater Round Solar Pool Cover is designed to capture that free energy. But does a piece of blue bubble wrap actually work? I tested it across a full swim season to give you the straight answer.

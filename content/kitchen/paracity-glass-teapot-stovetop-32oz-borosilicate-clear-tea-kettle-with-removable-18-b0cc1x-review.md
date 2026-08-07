@@ -1,4 +1,5 @@
 ---
+
 title: "PARACITY Glass Teapot Stovetop 32OZ, Borosilicate Clear Tea "
 seo_title: "PARACITY Glass Teapot Stovetop 32OZ, Borosilicate  Review"
 meta_description: "Our full paracity glass teapot stovetop 32oz, borosilicate clear tea  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CC1XQ4XR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UWNZ1VVxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: a 32-ounce borosilicate glass teapot designed for direct stovetop use. Not a kettle with a whistle. Not an electric unit. A teapot you put on the burner, which means you need to pay attention. That's the tradeoff baked into the design — and for many buyers, it's exactly why they bought it.

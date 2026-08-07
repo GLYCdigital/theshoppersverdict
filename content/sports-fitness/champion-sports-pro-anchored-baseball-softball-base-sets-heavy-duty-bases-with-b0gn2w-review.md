@@ -1,4 +1,5 @@
 ---
+
 title: "Champion Sports Pro Anchored Baseball/Softball Base Sets - H Review"
 seo_title: "Champion Sports Pro Anchored Base Sets Review (2026)"
 meta_description: "Champion Sports Pro Anchored Baseball/Softball Base Sets review: real-world performance, durability concerns, and who should buy these 4.0-star bases."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GN2WPS72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gpYWZrHzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 4-base set (1st, 2nd, 3rd, home) with heavy-duty ground anchors — no separate anchor kit to buy"
   - "15-inch square bases with 1-inch thickness meet regulation sizes for most youth and recreational leagues"
   - "Anchored design keeps bases planted during hard slides and aggressive play — no shifting mid-game"
-cons:
+cons: 
   - "Metal stakes can bend if driven into hard or rocky soil — consider pre-drilling or using a rubber mallet"
   - "Some buyers report the vinyl surface scuffs quickly on abrasive field dirt, though it doesn't affect function"
+
 ---
 
 Let's be direct about what these are: Champion Sports Pro Anchored Base Sets are the workhorse bases you see on rec-league diamonds and practice fields across the country. They're not fancy, they're not pro-grade MLB replicas, and that's exactly the point. With a 4.0-star average across 200 ratings, they've clearly earned their reputation—but they're not without quirks.

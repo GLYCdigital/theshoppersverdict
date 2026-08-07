@@ -1,4 +1,5 @@
 ---
+
 title: "Estée Lauder Gentle Liquid Eye Makeup Remover | Oil-Free &"
 seo_title: "Estée Lauder Gentle Eye Makeup Remover Review (2026)"
 meta_description: "Honest Estée Lauder Gentle Liquid Eye Makeup Remover review: oil-free formula, removes waterproof makeup, no residue. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001UN6B8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xkwuaAAeL._SL1500_.jpg"
-pros:
+pros: 
   - "Oil-free formula removes waterproof mascara without greasy residue or blurred vision"
   - "Gentle enough for sensitive eyes and contact lens wearers — no stinging reported"
   - "Two-phase liquid separates cleanly; a few shakes delivers effective, low-friction removal"
-cons:
+cons: 
   - "Must shake well before each use or you get watery, ineffective results"
   - "Higher price per ounce than drugstore removers — luxury cost for similar function"
   - "Small bottle opening can waste product if you're heavy-handed with cotton pads"
+
 ---
 
 If you've ever woken up with raccoon eyes after "gentle" makeup removers failed you, this Estée Lauder bottle deserves a spot on your shelf. The Gentle Liquid Eye Makeup Remover has earned a 4.7-star average across 235 Amazon ratings — and after digging into what buyers actually say, I understand why. It's not cheap, but it solves a specific problem: removing stubborn, waterproof eye makeup without the oily aftermath that blurs your vision or leaves your eye area feeling like a deep fryer.

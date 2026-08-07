@@ -1,4 +1,5 @@
 ---
+
 title: "YZHZOM Small Natural Driftwood for Aquarium Styling Carefull"
 seo_title: "YZHZOM Small Natural Driftwood for Aquarium Stylin Review"
 meta_description: "Our full yzhzom small natural driftwood for aquarium styling carefull review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWJYCKZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713upm4WdzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What’s in the Bag**

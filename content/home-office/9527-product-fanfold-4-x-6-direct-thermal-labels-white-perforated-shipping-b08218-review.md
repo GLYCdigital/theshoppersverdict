@@ -1,4 +1,5 @@
 ---
+
 title: "9527 Product Fanfold 4 x 6 Direct Thermal Labels White Perfo"
 seo_title: "9527 Fanfold 4x6 Thermal Labels Review: Worth It?"
 meta_description: "Honest review of 9527 Product Fanfold 4x6 direct thermal labels: perforation quality, adhesion, printer compatibility, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08218SCYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PU3lUxBiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fanfold design eliminates roll loading — just drop the stack in and feed the first label"
   - "Strong adhesive holds firmly on cardboard and poly mailers without peeling edges"
   - "Perforation tears cleanly with minimal ripping, even when tearing one-handed"
-cons:
+cons: 
   - "Labels occasionally arrive with minor edge scuffs from shipping compression"
   - "Not compatible with printers requiring rolled labels — fanfold only"
   - "Core-less design means you'll need a printer with a rear or top feed path"
+
 ---
 
 If you're shipping more than a few packages a week, you already know the pain: a thermal label roll runs out mid-batch, the printer jams on the curl, or you're wrestling a half-empty roll that refuses to feed straight. The 9527 Product Fanfold 4x6 Direct Thermal Labels sidestep that entire mess. Instead of a roll, you get a flat, accordion-folded stack that sits in a tray and feeds straight through. It's a small design change that saves real time — no re-rolling, no curl, no end-of-roll drama.

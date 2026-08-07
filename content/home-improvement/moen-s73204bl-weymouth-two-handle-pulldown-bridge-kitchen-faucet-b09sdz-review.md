@@ -1,4 +1,5 @@
 ---
+
 title: "Moen S73204BL Weymouth Two Handle Pulldown Bridge Kitchen Fa"
 seo_title: "Moen S73204BL Weymouth Two Handle Pulldown Bridge  Review"
 meta_description: "Our full moen s73204bl weymouth two handle pulldown bridge kitchen fa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09SDZ3XRJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RQf-T8aAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Moen Weymouth S73204BL is the rare kitchen faucet that actually delivers on the promise of form meeting function. At 4.7 stars from 235 ratings, it's earned its reputation — but it's not perfect. Here's the unvarnished truth before you spend your money.

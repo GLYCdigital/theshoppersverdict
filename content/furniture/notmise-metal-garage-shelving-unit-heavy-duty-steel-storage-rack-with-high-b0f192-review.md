@@ -1,4 +1,5 @@
 ---
+
 title: "Notmise Metal Garage Shelving Unit, Heavy Duty Steel Storage"
 seo_title: "Notmise Metal Garage Shelving Unit, Heavy Duty Ste Review"
 meta_description: "Our full notmise metal garage shelving unit, heavy duty steel storage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F192KN2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NwlpWEesL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Notmise Metal Garage Shelving Unit: A Solid Storage Workhorse, With One Safety Caveat

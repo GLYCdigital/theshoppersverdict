@@ -1,4 +1,5 @@
 ---
+
 title: "AMERICAN CREW Matte Clay Spray 5.1 Fl Oz (Pack of 1)"
 seo_title: "AMERICAN CREW Matte Clay Spray Review: Does It Work?"
 meta_description: "Honest AMERICAN CREW Matte Clay Spray review: 4.5-star rated. Does this hybrid clay-spray deliver matte hold? Real user feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C51YYDZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71062oBRKfL._SL1500_.jpg"
-pros:
+pros: 
   - "Hybrid spray format delivers clay-level texture without the sticky palm mess of traditional pomades or clays"
   - "Dries down to a true matte finish — no greasy shine even after hours of wear"
   - "Easy washout with just water; no heavy buildup or flaking by end of day"
-cons:
+cons: 
   - "Hold is medium at best — won't tame thick, coarse, or very long hair without layering with another product"
   - "Scent is divisive — some find the barbershop fragrance too strong for the first 15 minutes"
+
 ---
 
 Let’s be honest about men’s styling products: most either glue your hair into a helmet or disappear by lunch. The AMERICAN CREW Matte Clay Spray tries to split the difference — and after digging through 225 ratings and the formulation, it mostly succeeds, but with some caveats worth knowing before you click buy.

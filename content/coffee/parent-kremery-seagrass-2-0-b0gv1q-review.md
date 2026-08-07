@@ -1,4 +1,5 @@
 ---
+
 title: "Parent - Kremery Seagrass 2.0"
 seo_title: "Parent - Kremery Seagrass 2.0 Review: Verdict | TSV"
 meta_description: "Our full parent - kremery seagrass 2.0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GV1QY2DL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-s0QnMlfL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most coffee makers under $100 look like they were designed by an appliance committee that hates aesthetics. The Kremery Seagrass 2.0 is different — and that's precisely why it's got 210 ratings hovering at a solid 4.2 stars. But pretty wrapping doesn't brew good coffee by itself. Here's what you're actually getting.

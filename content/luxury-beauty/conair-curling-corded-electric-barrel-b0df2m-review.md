@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR Curling Corded Electric Barrel"
 seo_title: "CONAIR Curling Barrel Review: Is It Worth It? (2026)"
 meta_description: "Read our honest CONAIR Curling Corded Electric Barrel review. We tested heat, hold, and damage. See pros, cons, and if it beats the Dyson."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF2MGMFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611Y+fEuWCL._SL1500_.jpg"
-pros:
+pros: 
   - "Dual-voltage design with 30-second heat-up to 400°F, ideal for travel"
   - "Tourmaline ceramic barrel reduces frizz without stripping natural oils"
   - "Tangle-free swivel cord and auto-shutoff after 60 minutes"
-cons:
+cons: 
   - "No temperature display — just a dial with vague low/medium/high markers"
   - "Cool tip stays warm after 5 minutes of continuous use"
+
 ---
 
 Let’s be blunt: most curling irons under $50 are trash. They snag, they burn, they quit. The CONAIR Curling Corded Electric Barrel isn’t that — but it’s also not the luxury tool the “electric barrel” branding suggests. Here’s who should actually buy this.

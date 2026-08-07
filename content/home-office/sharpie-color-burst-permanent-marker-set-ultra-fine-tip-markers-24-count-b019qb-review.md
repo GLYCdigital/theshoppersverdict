@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie Color Burst Permanent Marker Set, Ultra-Fine Tip Mar"
 seo_title: "Sharpie Color Burst Permanent Marker Set, Ultra-Fi Review"
 meta_description: "Our full sharpie color burst permanent marker set, ultra-fine tip mar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B019QBPDS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8115UK31g9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sharpie Color Burst 24-pack is the rare marker set that actually earns its "ultra-fine" label — and then some.**

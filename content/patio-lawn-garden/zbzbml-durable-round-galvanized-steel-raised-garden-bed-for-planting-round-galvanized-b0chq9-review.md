@@ -1,4 +1,5 @@
 ---
+
 title: "zbzbml Durable Round Galvanized Steel Raised Garden Bed for "
 seo_title: "zbzbml Durable Round Galvanized Steel Raised Garde Review"
 meta_description: "Our full zbzbml durable round galvanized steel raised garden bed for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHQ94SXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IWtR6ar+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Round Raised Bed Worth Your Backyard Space?

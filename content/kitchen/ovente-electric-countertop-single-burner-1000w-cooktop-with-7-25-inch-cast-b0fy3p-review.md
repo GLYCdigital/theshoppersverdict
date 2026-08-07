@@ -1,4 +1,5 @@
 ---
+
 title: "OVENTE Electric Countertop Single Burner, 1000W Cooktop with"
 seo_title: "OVENTE Electric Countertop Single Burner, 1000W Co Review"
 meta_description: "Our full ovente electric countertop single burner, 1000w cooktop with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FY3PFX44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ISP8YLhYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you live in a dorm, camp in an RV, or just need a backup burner when your main stove is full, the OVENTE Electric Countertop Single Burner is the kind of no-frills workhorse that gets the job done. But it's not without compromises. Here's the honest breakdown after digging through what 204 Amazon reviewers are saying.

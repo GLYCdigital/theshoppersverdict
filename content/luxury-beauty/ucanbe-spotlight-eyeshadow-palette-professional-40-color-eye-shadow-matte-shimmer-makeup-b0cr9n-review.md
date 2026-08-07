@@ -1,4 +1,5 @@
 ---
+
 title: "UCANBE Spotlight Eyeshadow Palette Professional 40 Color Eye"
 seo_title: "UCANBE Spotlight Eyeshadow Palette Professional 40 Review"
 meta_description: "Our full ucanbe spotlight eyeshadow palette professional 40 color eye review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CR9NSLFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M1vJWmUSL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the UCANBE Spotlight Palette a genuine pro-grade tool or just another 40-shade impulse buy? After digging through 229 ratings and the actual shade layout, here's the honest breakdown.**

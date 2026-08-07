@@ -1,24 +1,26 @@
 ---
+
 title: "Dell Inspiron 15.6 inch  Touchscreen Laptop - Win 11 Pro, Office"
 seo_title: "Dell Inspiron 15.6 Touchscreen Laptop Review (2026): Worth It?"
 meta_description: "Dell Inspiron 15.6 touchscreen laptop with Win 11 Pro & Office: real-world performance, battery life, and drawbacks. Read our honest review before you buy."
 slug: "dell-inspiron-15-6-touchscreen-laptop-win-11-pro-office-lifetime-license-b0f4kt-review"
 image_alt: "Dell Inspiron 15.6-inch touchscreen laptop showing Windows 11 Pro desktop with Office apps open"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 180  
-amazon_rating: 3.6  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 180
+amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0F4KT9KG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71818rH96XL._AC_SL1080_.jpg"
-pros:  
+pros: 
   - "Genuine lifetime license for Windows 11 Pro AND Microsoft Office — no subscriptions, no renewal nagging"  
   - "15.6-inch touchscreen with 1080p resolution is bright and responsive for the price"  
   - "Upgradeable RAM and storage via accessible bottom panel — rare in this class"  
-cons:  
+cons: 
   - "Battery life is mediocre — expect 5–6 hours of mixed use, not the full workday"  
   - "Plastic build feels hollow; the lid flexes noticeably under pressure"  
   - "Some units arrive with bloatware pre-installed (McAfee, Dell extras) that slow first boot"
+
 ---
 
 # Dell Inspiron 15.6" Touchscreen Laptop Review: The Office Workhorse With a Catch  

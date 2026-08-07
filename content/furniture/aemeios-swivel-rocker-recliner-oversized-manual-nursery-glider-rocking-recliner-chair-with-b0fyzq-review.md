@@ -1,4 +1,5 @@
 ---
+
 title: "AEMEIOS Swivel Rocker Recliner, Oversized Manual Nursery Gli"
 seo_title: "AEMEIOS Swivel Rocker Recliner Review: Oversized Comfort for Nurseries"
 meta_description: "Honest AEMEIOS swivel rocker recliner review: 4.7★ rated oversized manual glider for nurseries. Build quality, comfort, and real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYZQ2P1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KtdjxL7-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Genuinely oversized seat and backrest — accommodates tall users (6'2 inch "+) without the cramped feel of most nursery gliders
   - "Smooth 360-degree swivel paired with a gentle rocking motion that doesn't jerk or squeak, even after months of nightly use"
   - "Manual recline lever is stiff enough to hold position but easy enough for one-handed operation while holding a baby"
-cons:
+cons: 
   - "Assembly requires two people — the base and chair body are heavy, and aligning the mounting brackets solo is frustrating"
   - "The fabric shows lint and pet hair quickly; a lint roller becomes a permanent nursery accessory"
   - "No lumbar support pad included — the lower back curve is adequate but not supportive for marathon 2-hour feeding sessions"
+
 ---
 
 If you're shopping for a nursery chair, you've probably noticed that most gliders treat "oversized" as a suggestion. The AEMEIOS Swivel Rocker Recliner actually delivers on that promise — and at 4.7 stars across 235 ratings, it's earned a spot in plenty of nurseries. But is it the right chair for *your* late-night feeding sessions? Let's break down what you're actually getting.

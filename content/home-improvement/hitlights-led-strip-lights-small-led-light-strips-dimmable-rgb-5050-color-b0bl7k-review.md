@@ -1,4 +1,5 @@
 ---
+
 title: "HitLights LED Strip Lights, Small LED Light Strips Dimmable,"
 seo_title: "HitLights LED Strip Lights, Small LED Light Strips Review"
 meta_description: "Our full hitlights led strip lights, small led light strips dimmable, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL7KFP4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FGbEdX5rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to the chase: most LED strip lights under $20 are either too dim to be useful or so gimmicky with app controls that you spend more time troubleshooting than lighting. The HitLights Small LED Strip Lights (the 5050 dimmable version) sidestep both traps. With a 4.3-star average across 215 ratings, these are a solid, no-nonsense pick for anyone who just wants light where they need it — without a smart-home ecosystem attached.  

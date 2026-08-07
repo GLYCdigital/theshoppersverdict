@@ -1,4 +1,5 @@
 ---
+
 title: "Wonderskin 1440 Longwear Eyeliner, Eyeliner Pencils, Waterpr"
 seo_title: "Wonderskin 1440 Longwear Eyeliner, Eyeliner Pencil Review"
 meta_description: "Our full wonderskin 1440 longwear eyeliner, eyeliner pencils, waterpr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DQBHF2T4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xdd4e4pOL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.7-star reality check: This eyeliner nails longevity but stumbles on execution.**

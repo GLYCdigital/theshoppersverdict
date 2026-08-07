@@ -1,4 +1,5 @@
 ---
+
 title: "ThermoMate ESB Electric Mini Tank Water Heater"
 seo_title: "ThermoMate ESB Electric Mini Tank Water Heater Review: Ve"
 meta_description: "Our full thermomate esb electric mini tank water heater review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D95RPG15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41a5DhuPQML._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. If you're shopping for a mini tank water heater, you've likely seen a dozen brands with identical white housings and nearly identical specs. The ThermoMate ESB looks like all of them at first glance. But after digging into the details — and what 215 Amazon reviewers actually experienced — there's one thing that separates it from the budget pack: **the brass fittings and the 120V convenience that doesn't sacrifice recovery speed.**

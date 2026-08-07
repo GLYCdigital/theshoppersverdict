@@ -1,4 +1,5 @@
 ---
+
 title: "JONATHAN Y Pata Hand Woven Chunky Jute Indoor Area -Rug"
 seo_title: "JONATHAN Y Pata Hand Woven Chunky Jute Indoor Area Review"
 meta_description: "Our full jonathan y pata hand woven chunky jute indoor area -rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CZ7MX3YB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ACQ3O101L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **JONATHAN Y Pata Hand Woven Chunky Jute Area Rug Review: Natural Texture With Real Tradeoffs**

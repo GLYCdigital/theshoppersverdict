@@ -1,4 +1,5 @@
 ---
+
 title: "Dummy Parent 1 inch"
 seo_title: "Dummy Parent 1 Review: Is This Toy Worth Buying?"
 meta_description: "Read our honest Dummy Parent 1 review. See real pros, cons, and buyer feedback on this 4.7-star toy before you spend your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SRWRH5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J-uEoQ6WL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction that holds up to aggressive play — no loose parts after weeks of use"
   - "Intuitive design that kids pick up without needing instructions"
   - "Good size for small hands, roughly 8 inches across, easy to grip and carry"
-cons:
+cons: 
   - "Batteries not included, and it drains them faster than expected during heavy use"
   - "Sound effects are on the loud side with no volume control — a real issue for parents"
+
 ---
 
 Let’s skip the preamble. The Dummy Parent 1 has earned a 4.7-star average across 235 Amazon ratings, and that kind of consistency usually means one of two things: a genuinely great product, or a lot of forgiving reviewers. After digging through the feedback and looking at what this toy actually does, I’m landing closer to the first option — with some caveats worth knowing before you hit “add to cart.”

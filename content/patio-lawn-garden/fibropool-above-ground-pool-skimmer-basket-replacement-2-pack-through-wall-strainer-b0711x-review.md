@@ -1,4 +1,5 @@
 ---
+
 title: "FibroPool Above Ground Pool Skimmer Basket Replacement 2 Pac"
 seo_title: "FibroPool Skimmer Basket Replacement 2-Pack Review (2026)"
 meta_description: "Honest FibroPool skimmer basket replacement review: fit, durability, and value for above-ground pools. Real buyer feedback on the 2-pack."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0711X5D47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712wnvA8ZHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise fit for standard Hayward and Pentair above-ground skimmer bodies — drop-in replacement, no modification needed"
   - "Sturdy polypropylene build that resists cracking from UV exposure and winter freezing"
   - "Two baskets for the price of one — practical backup when one gets lost or damaged mid-season"
-cons:
+cons: 
   - "Not compatible with Intex or Bestway soft-sided pool skimmers — measure your opening before ordering"
   - "Handle is a bit shallow; some users with larger hands report it's awkward to grip when wet"
+
 ---
 
 Let’s cut to it: if you own an above-ground pool with a through-wall skimmer, your basket is the unsung hero of your filtration system. It catches leaves, bugs, and sunscreen-scum before they wreck your pump. When it cracks, warps, or vanishes (they float, you know), you need a replacement that actually fits. The FibroPool 2-Pack claims to be that answer. Here’s the real story after digging through 220 ratings and the product specs.

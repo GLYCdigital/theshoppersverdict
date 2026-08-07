@@ -1,4 +1,5 @@
 ---
+
 title: "Brooklyn Beans Coffee Pods-Compatible with Keurig K Cup Brew"
 seo_title: "Brooklyn Beans Coffee Pods Review: Keurig-Compatible"
 meta_description: "Brooklyn Beans Coffee Pods review: Keurig-compatible, 4.2 stars. Taste, strength, value, and drawbacks—honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK7T7VGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SAOsrXIlL._SL1500_.jpg"
-pros:
+pros: 
   - "Strong, bold roast profile that holds up even when brewed as a large cup—no watery dilution"
   - "Compatible with standard Keurig 2.0 and 1.0 brewers, plus many off-brand K-Cup clones"
   - "Consistent flavor across multiple boxes; no stale or weak batches reported in recent reviews"
-cons:
+cons: 
   - "Each pod holds noticeably less coffee than a standard K-Cup, so the brew tastes thinner if you use the 10oz or 12oz setting"
   - "Packaging is plain and minimal—no resealable bag, and the box can crush during shipping"
+
 ---
 
 # Brooklyn Beans Coffee Pods: A Bold Brooklyn Attitude in Your Keurig

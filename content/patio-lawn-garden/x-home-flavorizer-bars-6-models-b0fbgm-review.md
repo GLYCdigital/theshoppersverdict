@@ -1,4 +1,5 @@
 ---
+
 title: "X Home Flavorizer Bars,6 Models"
 seo_title: "X Home Flavorizer Bars,6 Models Review: Verdict | TSV"
 meta_description: "Our full x home flavorizer bars,6 models review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBGMC32F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S-toS0G5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your gas grill's flavorizer bars are flaking rust onto your burger patties, you're at the point of no return. Replacing them is cheaper than a new grill, but only if you buy the right set. The X Home Flavorizer Bars (6 models) is one of the most popular replacement options on Amazon with a 4.7-star average from 235 ratings. Here's what you need to know before clicking buy.

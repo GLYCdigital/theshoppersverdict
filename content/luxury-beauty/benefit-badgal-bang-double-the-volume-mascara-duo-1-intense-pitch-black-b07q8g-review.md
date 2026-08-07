@@ -1,4 +1,5 @@
 ---
+
 title: "Benefit Badgal Bang! Double The Volume Mascara Duo #1 Intens"
 seo_title: "Benefit Badgal Bang! Mascara Duo Review: Real Volume Test"
 meta_description: "Honest Benefit Badgal Bang! Double The Volume Mascara Duo review: does the 2-pack deliver lash volume without clumping? Real buyer feedback, pros, cons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07Q8GLYYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gXfo8de4L._SL1500_.jpg"
-pros:
+pros: 
   - "Two full-size 0.3 oz tubes — effectively 2x the product of a single mascara purchase"
   - "The proprietary 'Zero-G' formula uses nylon fibers that add measurable volume without the heavy, droopy feeling"
   - "The tapered rubber brush grabs even short, straight lashes at the root and holds a curl through a full workday"
-cons:
+cons: 
   - "Formula runs wetter than most volumizing mascaras — requires 20-30 seconds of blinking before it sets, or you risk transfer on hooded lids"
   - "Not a lengthening mascara — if you want dramatic length, this is the wrong tube; it's strictly volume and density"
+
 ---
 
 **The hook:** Most "double volume" mascara sets are a marketing trick — one full-size tube and a travel-size afterthought. This Benefit Badgal Bang! duo actually gives you two full 0.3-ounce tubes in the Intense Pitch Black shade. That's roughly 60 days of daily wear per tube, so you're getting about four months of mascara for the price of what a single premium tube typically costs. That math alone makes it worth a look.

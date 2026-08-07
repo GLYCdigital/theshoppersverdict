@@ -1,4 +1,5 @@
 ---
+
 title: "AWEASROY Fire Starter Pack for Fireplace"
 seo_title: "AWEASROY Fire Starter Pack Review: Honest 2026 Verdict"
 meta_description: "AWEASROY Fire Starter Pack review: 4.2/5 verdict. Long-burning, weatherproof fire starters for fireplace, campfire, or wood stove. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BVB9BSWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71khlApeJyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Each starter burns 12–15 minutes with a hot, steady flame — enough to catch even damp hardwood"
   - "Weatherproof packaging survives humid garages and damp sheds without degrading"
   - "Nearly odorless burn — no chemical smell lingering in the room after the fire catches"
-cons:
+cons: 
   - "Blocks are smaller than some competitors — fireplaces with extra-deep fireboxes may need two per start"
   - "No resealable bag — once opened, the box is vulnerable to moisture despite the weatherproof claim"
+
 ---
 
 Let's be honest about fire starters: most are either sawdust-and-wax pucks that fizzle out or chemical-soaked bricks that smell like a parking garage. The AWEASROY Fire Starter Pack sits somewhere in the middle, and for most homeowners, that's exactly the right place.

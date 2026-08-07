@@ -1,4 +1,5 @@
 ---
+
 title: "HUANUO Standing Desk Frame with 220lbs Powerful Brushless Mo"
 seo_title: "HUANUO Standing Desk Frame with 220lbs Powerful Br Review"
 meta_description: "Our full huanuo standing desk frame with 220lbs powerful brushless mo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZNRYPVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G3pYXKxgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a standing desk frame, you've probably noticed a flood of options between $150 and $400. Most promise stability and smooth operation but deliver wobbly tops and motors that sound like a blender. The HUANUO frame with its 220lb brushless motor setup is trying to be the exception. After digging through 235 verified ratings and analyzing the specs, here's what actually matters.

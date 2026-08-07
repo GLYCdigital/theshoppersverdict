@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Keyboard and Mouse Combo for iPad"
 seo_title: "Wireless Keyboard and Mouse Combo for iPad Review: Verdic"
 meta_description: "Our full wireless keyboard and mouse combo for ipad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYTMQTJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iRjGVBP6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this is: a wireless keyboard and mouse combo built specifically for iPad users who type more than they tap. The 4.4-star average across 220 ratings tells a consistent story — people who need a physical typing setup for their iPad generally like this one, with a few caveats worth knowing before you click buy.

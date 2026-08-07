@@ -1,4 +1,5 @@
 ---
+
 title: "Steinzeit Butter Dish"
 seo_title: "Steinzeit Butter Dish Review: Verdict | TSV"
 meta_description: "Our full steinzeit butter dish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXVBLHMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CIxkiqRzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Steinzeit Butter Dish: The $30 Butter Keeper That Actually Works**

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Animal Solar Lanterns Outdoor Waterproof Hanging Solar Light"
 seo_title: "Animal Solar Lanterns Review: Waterproof Hanging Lights (2026)"
 meta_description: "Honest review of Animal Solar Lanterns outdoor hanging lights. Waterproof, solar-powered, 4.6★ from 229 ratings. See pros, cons, and who should buy."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHWVTTC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pAXWBAGcl._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterproofing (IP65 rating) that survives rain, snow, and direct hose spray without internal fogging"
   - "Warm 3000K LED glow that projects animal silhouettes onto nearby surfaces for a layered lighting effect"
   - "Stainless steel hanging hook and reinforced seam construction that holds up through multiple seasons"
-cons:
+cons: 
   - "Battery capacity is modest — expect 6-8 hours of light on a full charge, not the advertised 10-12 inch"
   - "Solar panel efficiency drops noticeably in shaded spots; needs direct sun for 4+ hours to perform"
+
 
 ---
 

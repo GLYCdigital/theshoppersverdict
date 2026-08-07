@@ -1,23 +1,25 @@
 ---
+
 title: "EnerGel RTX Retractable Liquid Gel Pen"
 seo_title: "EnerGel RTX Review: Smooth Gel Pen Worth It? 2026 inch  "
 meta_description: "EnerGel RTX retractable gel pen review: 0.5mm/0.7mm tip, quick-dry ink, comfortable grip. See pros, cons, and who should buy."
 slug: "energel-rtx-retractable-liquid-gel-pen-b0dcwt-review"
 image_alt: "Pentel EnerGel RTX retractable liquid gel pen with metal clip and rubber grip"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DCWT7FKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hTik90IaL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Quick-dry liquid gel ink that resists smudging even for lefties"  
   - "Smooth, skip-free writing with a comfortable latex-free grip"  
   - "Retractable design with metal clip — no lost caps, pocket-safe"  
-cons:  
+cons: 
   - "Ink runs out faster than oil-based ballpoints under heavy use"  
   - "0.5mm tip can feel scratchy on textured paper for some users"
+
 ---
 
 **Is the Pentel EnerGel RTX actually the “best gel pen under $10” that office-supply forums keep crowing about? After 240 Amazon ratings averaging 4.8 stars, the numbers say yes. But numbers don’t tell you how it feels when you’re signing a contract or scribbling margin notes for three hours straight. I’ve tested this pen against the Uni-ball Signo and Pilot G2 — here’s the honest breakdown.**

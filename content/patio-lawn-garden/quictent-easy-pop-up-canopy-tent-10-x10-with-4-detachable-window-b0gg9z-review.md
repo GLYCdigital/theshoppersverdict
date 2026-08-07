@@ -1,4 +1,5 @@
 ---
+
 title: "Quictent Easy Pop up Canopy Tent 10'x10' with 4 Detachable W"
 seo_title: "Quictent Easy Pop up Canopy Tent 10'x10' with 4 De Review"
 meta_description: "Our full quictent easy pop up canopy tent 10'x10' with 4 detachable w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GG9ZQYT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-uZCpz5xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some canopies promise "easy setup" and deliver a wrestling match with bent poles and tangled fabric. The Quictent 10x10 doesn't do that. It pops open in about 60 seconds, and the detachable window walls — the headline feature — actually work as advertised. But there's a catch for anyone expecting a fortress against the elements. Let's break down what 204 Amazon reviewers (4.1 stars) are really saying.

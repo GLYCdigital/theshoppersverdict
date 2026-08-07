@@ -1,4 +1,5 @@
 ---
+
 title: "TiZOÂ® Mineral Sun Defense | Tinted | Broad Spectrum SPF 50 "
 seo_title: "TiZOÂ® Mineral Sun Defense | Tinted | Broad Spectr Review"
 meta_description: "Our full tizoâ® mineral sun defense | tinted | broad spectrum spf 50  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C416TXFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GYaasxu1L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $50 Sunscreen That Thinks It's a Foundation — Does It Deliver?**

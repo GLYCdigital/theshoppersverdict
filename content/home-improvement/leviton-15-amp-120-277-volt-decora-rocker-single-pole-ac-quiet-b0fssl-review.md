@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton 15 Amp, 120/277 Volt, Decora Rocker Single-Pole AC Q"
 seo_title: "Leviton 15 Amp, 120/277 Volt, Decora Rocker Single Review"
 meta_description: "Our full leviton 15 amp, 120/277 volt, decora rocker single-pole ac q review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSSL6L1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517seuocu0L._SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most people don't think about light switches until one starts buzzing, feeling loose, or dying entirely. That's usually when they grab whatever's cheapest at the big-box store and move on. The Leviton Decora rocker switch, though, is a different animal — it's the switch electricians spec when they want something that won't come back to bite them. With a 4.7 average across 235 Amazon ratings, it's clear homeowners have caught on too. But is it worth upgrading your existing switches for? Let's dig in.

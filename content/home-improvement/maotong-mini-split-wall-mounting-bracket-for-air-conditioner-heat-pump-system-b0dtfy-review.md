@@ -1,4 +1,5 @@
 ---
+
 title: "Maotong Mini Split Wall Mounting Bracket for Air Conditioner"
 seo_title: "Maotong Mini Split Wall Mounting Bracket for Air C Review"
 meta_description: "Our full maotong mini split wall mounting bracket for air conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTFYJCC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61k4AkVnPzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched an HVAC tech charge $400 to hang a mini split head, you already know the value of a good wall bracket. The Maotong Mini Split Wall Mounting Bracket is the kind of product that separates DIY homeowners from people who overpay for simple work. But is it actually good enough to trust with a $1,200 Daikin hanging on your wall? I dug through the specs, the build quality, and what 225 buyers are saying to find out.

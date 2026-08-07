@@ -1,4 +1,5 @@
 ---
+
 title: "Zswanbei Flush Mount Ceiling Fans with Lights"
 seo_title: "Zswanbei Flush Mount Ceiling Fans with Lights Review: Ver"
 meta_description: "Our full zswanbei flush mount ceiling fans with lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8PY9F5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iS8-GemvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got an 8-foot ceiling in a bedroom or basement, the Zswanbei Flush Mount Ceiling Fan with Lights is the answer to a problem you didn't know you had. Most ceiling fans hang 12 inches or more, which turns a standard room into a head-bumping hazard. This one sits almost flush — just 9.5 inches of clearance from ceiling to blade tip — and it brings a serious punch of light and airflow for the footprint. With a 4.5-star average across 225 ratings, it's clearly earning its keep in real homes. But let's talk about whether it's right for yours.

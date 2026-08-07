@@ -1,4 +1,5 @@
 ---
+
 title: "Two Tumbleweeds Meal Planning Pad"
 seo_title: "Two Tumbleweeds Meal Planning Pad Review: Verdict | TSV"
 meta_description: "Our full two tumbleweeds meal planning pad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB23QMQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61StkNSG-rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most meal planning pads are either flimsy notepads or overengineered binders that cost three times as much. The Two Tumbleweeds Meal Planning Pad sits in a sweet spot: it's a $10, no-nonsense weekly planner that actually holds up on the fridge. After digging through 235 ratings and testing the layout against real kitchen workflows, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin SportsBasketball Pass Back Rebounder"
 seo_title: "Franklin Sports Pass Back Rebounder Review (2026)"
 meta_description: "Franklin Sports Pass Back Rebounder review: Build quality, bounce consistency, and who it's actually for. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DVWLSCH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LgRhaU5hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Trampoline-tight mesh surface returns chest passes with real velocity — harder than most flat boards"
   - "Folds flat for storage; assembled unit weighs under 15 lbs so you can drag it around the driveway"
   - "Works on grass, concrete, and gym floors thanks to the wide H-base frame"
-cons:
+cons: 
   - "Not adjustable for angle — you're locked into the one rebound trajectory out of the box"
   - "Balls that hit the metal frame edge rattle loudly and can bounce unpredictably"
   - "Stakes for outdoor use are basic; strong gusts or aggressive passes can shift it on soft ground"
+
 ---
 
 If you're a solo player trying to sharpen your passing without a partner, the **Franklin Sports Pass Back Rebounder** is one of the more affordable ways to get hundreds of quality reps in a single session. It won't simulate game-speed decision-making, but as a mechanical repetition tool, it does the job — with a few caveats worth knowing before you click buy.

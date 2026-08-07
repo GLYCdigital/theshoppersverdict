@@ -1,4 +1,5 @@
 ---
+
 title: "Magetic Window Screen 1"
 seo_title: "Magetic Window Screen 1 Review: Verdict | TSV"
 meta_description: "Our full magetic window screen 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09Z2G42BZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oCopLu6JL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be real about the magnetic window screen. It’s a simple product with a simple job: keep bugs out while letting air in. At 4.1 stars from 204 ratings, it’s clearly working for most people. But as with any adhesive-mounted product, the devil is in your window frame.

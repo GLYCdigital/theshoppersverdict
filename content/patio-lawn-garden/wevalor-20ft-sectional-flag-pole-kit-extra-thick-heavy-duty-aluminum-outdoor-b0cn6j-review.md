@@ -1,4 +1,5 @@
 ---
+
 title: "WeValor 20FT Sectional Flag Pole Kit, Extra Thick Heavy Duty"
 seo_title: "WeValor 20FT Sectional Flag Pole Kit, Extra Thick  Review"
 meta_description: "Our full wevalor 20ft sectional flag pole kit, extra thick heavy duty review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CN6J1TBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mx9fr5k5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A 20-foot flag pole that won't snap in a storm, but brings its own weight to the party.** At 4.1 stars from 204 buyers, the WeValor 20FT Sectional Kit is the rare budget-priced pole that doesn't feel like a compromise. But before you click buy, know what you're getting into.

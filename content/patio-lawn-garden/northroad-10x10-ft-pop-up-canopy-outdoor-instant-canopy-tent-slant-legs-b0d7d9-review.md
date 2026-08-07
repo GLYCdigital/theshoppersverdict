@@ -1,4 +1,5 @@
 ---
+
 title: "Northroad 10X10 FT Pop Up Canopy, Outdoor Instant Canopy Ten"
 seo_title: "Northroad 10X10 FT Pop Up Canopy, Outdoor Instant  Review"
 meta_description: "Our full northroad 10x10 ft pop up canopy, outdoor instant canopy ten review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D7D9QLM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IkxoFQMxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $100 question: Is the Northroad 10x10 actually built to last?

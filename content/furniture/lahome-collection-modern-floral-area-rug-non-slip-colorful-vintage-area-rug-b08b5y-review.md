@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Collection Modern Floral Area Rug - Non-Slip Colorful"
 seo_title: "Lahome Collection Modern Floral Area Rug - Non-Sli Review"
 meta_description: "Our full lahome collection modern floral area rug - non-slip colorful review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08B5Y46VG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816LNKTpLdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is a solid, budget-friendly floral rug that prioritizes practicality over luxury. At 4.2 stars from 210 ratings, it's not perfect — but for the price, it outperforms most rugs in its category.**

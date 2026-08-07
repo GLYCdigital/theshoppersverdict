@@ -1,4 +1,5 @@
 ---
+
 title: "Camila Paris AD66/2 French Side Combs Large 2 Pack Curved To"
 seo_title: "Camila Paris French Side Combs Review: Large Curved Tortoise"
 meta_description: "Camila Paris AD66/2 French side combs review: large curved tortoise combs for styling. See pros, cons, and if this 2-pack is worth it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CZV5BM29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P1WAECHAL._SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 4-inch length with smooth, rounded teeth that glide through thick hair without snagging"
   - "Genuine tortoise-shell acetate finish that looks expensive and pairs well with both casual and formal styles"
   - "Curved shape follows the contour of the head naturally, holding French twists and side-swept styles securely"
-cons:
+cons: 
   - "Slightly slick finish can cause the comb to slide out of very fine or freshly blow-dried hair"
   - "Large size may overwhelm smaller heads or short hair — check the dimensions before buying"
+
 ---
 
 **The Camila Paris AD66/2 French Side Combs: Big, Beautiful, and Almost Perfect**

@@ -1,4 +1,5 @@
 ---
+
 title: "APOXCON Coffee Maker with Clear Brew Progress Knob Coffee po"
 seo_title: "APOXCON Coffee Maker Review: Brew Progress Knob Worth It?"
 meta_description: "APOXCON coffee maker review: clear brew progress knob, real-world performance, and honest downsides. See if this 4.0-star brewer fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G49FX1HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zruLbRYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Visible brew progress knob lets you watch extraction without opening the lid or guessing"
   - "Simple, no-nonsense controls — one switch, one knob, nothing to overcomplicate"
   - "Compact footprint fits under standard upper cabinets with room to spare"
-cons:
+cons: 
   - "Carafe lid doesn't seal tightly — drips if you tilt it too far while pouring"
   - "No auto-shutoff timer; you'll need to remember to turn it off manually"
   - "Warming plate runs hot enough to scorch coffee left on it past 40 minutes"
+
 ---
 
 Most coffee makers treat brewing like a black box. You press a button, wait, and hope for the best. The APOXCON Coffee Maker with Clear Brew Progress Knob takes a different approach — it lets you watch the entire extraction happen through a transparent window on the brew basket. That single design choice tells you a lot about what this machine is: a straightforward, no-drama brewer for people who actually care about their morning cup but don't want to fuss with a $300 gadget.

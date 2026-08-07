@@ -1,4 +1,5 @@
 ---
+
 title: "TUTOTAK Bookshelf, 8-Tier Tall Book Shelf"
 seo_title: "TUTOTAK Bookshelf, 8-Tier Tall Book Shelf Review: Verdict"
 meta_description: "Our full tutotak bookshelf, 8-tier tall book shelf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FF4B9HWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vwcO-pBPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need vertical storage that doesn't demand drilling into your walls, the TUTOTAK 8-Tier Bookshelf is a serious contender. This is a tall, narrow unit — roughly 11.8 inches deep and 23.6 inches wide, standing around 70 inches high — that maximizes floor space without feeling like a towering monolith in a small apartment. But "tall" also means "top-heavy," so let's talk about what you're actually getting before you click buy.

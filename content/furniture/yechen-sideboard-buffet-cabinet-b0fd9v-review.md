@@ -1,4 +1,5 @@
 ---
+
 title: "Yechen Sideboard Buffet Cabinet"
 seo_title: "Yechen Sideboard Buffet Cabinet Review: Verdict | TSV"
 meta_description: "Our full yechen sideboard buffet cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD9VW3PF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nGAiojgrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A sideboard is one of those pieces you don't think about until you're staring at a dining room cluttered with serving dishes, extra tableware, and the random pile of mail that has nowhere else to go. The Yechen Sideboard Buffet Cabinet enters that picture as a budget-friendly storage solution with a few design twists that make it genuinely interesting — and a few quirks you should know about before you hit "Add to Cart."

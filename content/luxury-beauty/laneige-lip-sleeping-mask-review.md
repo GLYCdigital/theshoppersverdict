@@ -1,4 +1,5 @@
 ---
+
 title: "LANEIGE Lip Sleeping Mask Berry Review: Is This Viral Lip Treatment Worth the Hype?"
 seo_title: "LANEIGE Lip Sleeping Mask Review 2026: Best Overnight Lip Treatment?"
 meta_description: "Our honest LANEIGE Lip Sleeping Mask Berry review. Real customer insights on this viral overnight lip treatment. See pros, cons, who should buy."
@@ -11,34 +12,35 @@ image_alt: "LANEIGE Lip Sleeping Mask Berry in pink jar with applicator and berr
 amazon_rating: 4.6
 review_count: 35666
 verdict_score: 8.8
-categories:
+categories: 
   - luxury-beauty
   - skincare
-tags:
+tags: 
   - LANEIGE
   - lip mask
   - lip sleeping mask
   - overnight lip treatment
   - Korean skincare
   - B07XXPHQZK
-pros:
+pros: 
   - "Noticeable overnight hydration — visibly softer, smoother lips by morning"
   - "Smooth, non-sticky texture that wears comfortably through the night without migration"
   - "Berry scent is pleasant without being overpowering — a genuine sensory treat"
   - "Long-lasting single jar (20g) for 6+ months of nightly use"
   - "Viral-level popularity with 35,000+ reviews for a reason — the formula genuinely works"
-cons:
+cons: 
   - "Premium pricing for a lip product — $15 for a small jar feels expensive at first glance"
   - "Scented version may irritate extremely sensitive lips — stick to the unscented if reactive"
   - "Not an overnight miracle cure for chronically chapped lips; requires consistent nightly use"
   - "Pot packaging is hygienically questionable for some — dipping a finger in a shared jar"
-faq:
+faq: 
   - question: "How long does a LANEIGE Lip Sleeping Mask jar last?"
     answer: "A 20g jar lasts approximately 6-8 months with nightly use, making the cost per use about /bin/zsh.08."
   - question: "Does the LANEIGE Lip Sleeping Mask really work?"
     answer: "Yes, consistent nightly use produces visibly softer, smoother, more hydrated lips. The formula combines hyaluronic acid, shea butter, and berry fruit complex."
   - question: "Is the LANEIGE Lip Sleeping Mask scented?"
     answer: "The Berry version has a pleasant berry scent. For sensitive lips, LANEIGE offers unscented versions like Grapefruit or Sweet Candy."
+
 ---
 
 # LANEIGE Lip Sleeping Mask Berry Review: Is This Viral Lip Treatment Worth the Hype?

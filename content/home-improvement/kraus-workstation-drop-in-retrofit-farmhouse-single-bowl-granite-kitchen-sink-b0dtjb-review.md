@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus Workstation Drop In Retrofit Farmhouse Single Bowl Gra"
 seo_title: "Kraus Workstation Drop In Retrofit Farmhouse Singl Review"
 meta_description: "Our full kraus workstation drop in retrofit farmhouse single bowl gra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DTJBKF2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819fxgpWCvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: if you want the apron-front farmhouse look but your contractor just told you "that means ripping out your cabinets," the Kraus Workstation Drop-In Retrofit Farmhouse sink is the workaround you've been hoping for. But "retrofit" comes with strings, and you need to know exactly what you're signing up for before you hand over your credit card.

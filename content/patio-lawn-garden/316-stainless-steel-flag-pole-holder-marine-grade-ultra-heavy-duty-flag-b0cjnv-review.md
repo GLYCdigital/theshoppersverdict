@@ -1,4 +1,5 @@
 ---
+
 title: "316 Stainless Steel Flag Pole Holder, Marine Grade Ultra Hea"
 seo_title: "316 Stainless Flag Pole Holder Review: Marine Grade Tested"
 meta_description: "Honest review of the 316 marine-grade stainless flag pole holder. Build quality, real-world durability, and whether it's worth the premium price."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJNVP48N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hG5PIpqVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 316 marine-grade stainless — resists salt corrosion where 304 will pit within months"
   - "Oversized 2-inch collar depth grips standard flag poles securely without wobble"
   - "Pre-drilled 4-hole base pattern with included stainless bolts simplifies installation"
-cons:
+cons: 
   - "Premium price — costs 2-3x more than basic 304 steel mounts"
   - "No rubber gasket included — you'll want to add one to prevent water ingress behind the mount"
   - "Satin finish shows fingerprints more readily than brushed or powder-coated alternatives"
+
 ---
 
 Most flag pole holders are an afterthought — a $15 piece of stamped steel you bolt to the garage and forget about until it rusts. This one is different, and if you live anywhere near salt water, snow, or actual weather, that difference matters.

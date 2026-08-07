@@ -1,4 +1,5 @@
 ---
+
 title: "CHITA Swivel Barrel Chair, Modern Comfy Accent Chair for Liv"
 seo_title: "CHITA Swivel Barrel Chair Review: Modern Comfort for Living Rooms"
 meta_description: "Read our honest CHITA Swivel Barrel Chair review — 360° swivel, compact design, real customer feedback, and who should buy it. Rating 4.6/5."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3F8QLTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Kw9PO4YZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360° swivel base is genuinely smooth and quiet — no wobble even on hardwood floors"
   - "Compact 28-inch footprint fits corners and small apartments without feeling cramped"
   - "High-density foam seat holds its shape after months of daily use"
-cons:
+cons: 
   - "Assembly requires an Allen wrench that isn't included — budget 20 minutes and your own tools"
   - "Backrest is on the firmer side; not ideal if you want to sink in for marathon TV sessions"
+
 ---
 
 The CHITA Swivel Barrel Chair is the kind of piece that makes you wonder why every accent chair doesn't swivel. It's compact, modern, and — after 225 Amazon ratings averaging 4.5 stars — clearly doing something right. But is it worth the floor space? Let's dig into what you're actually getting.

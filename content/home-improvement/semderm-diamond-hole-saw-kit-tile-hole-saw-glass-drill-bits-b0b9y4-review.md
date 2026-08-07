@@ -1,4 +1,5 @@
 ---
+
 title: "Semderm Diamond Hole Saw Kit, Tile Hole Saw Glass Drill bits"
 seo_title: "Semderm Diamond Hole Saw Kit, Tile Hole Saw Glass  Review"
 meta_description: "Our full semderm diamond hole saw kit, tile hole saw glass drill bits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9Y4VLX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fK7FgktvL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're installing a new shower fixture or running a line through a porcelain backsplash, you know the drill: carbide-tipped bits skate across glazed tile and shatter glass. The Semderm Diamond Hole Saw Kit takes a different approach — electroplated diamond grit bonded to steel barrels. But does this $30-ish kit actually hold up on real tile, or is it another disposable import that dies halfway through the job? I tested it against ceramic, porcelain, and glass to find out.

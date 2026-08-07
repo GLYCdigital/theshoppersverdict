@@ -1,4 +1,5 @@
 ---
+
 title: "TREATLIFE Smart Dimmer Plug Outdoor Smart Plug Works with Al"
 seo_title: "TREATLIFE Smart Dimmer Plug Outdoor Smart Plug Wor Review"
 meta_description: "Our full treatlife smart dimmer plug outdoor smart plug works with al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086V3S2Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hshpK0rbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most outdoor smart plugs are glorified on/off switches. The TREATLIFE Smart Dimmer Plug is different — it actually dims. That single feature makes it worth a serious look for anyone with string lights, landscape lighting, or holiday displays. But as with any budget-friendly smart home gear, there are tradeoffs you need to know about before you buy.

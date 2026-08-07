@@ -1,4 +1,5 @@
 ---
+
 title: "Cuzi Gourmet - Pizza Stone Set"
 seo_title: "Cuzi Gourmet Pizza Stone Set Review: Worth It? (2026)"
 meta_description: "Read our honest Cuzi Gourmet Pizza Stone Set review. We tested heat retention, durability, and crust crispiness. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09JZTW5QK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zt-a+qKFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 15mm cordierite stone retains heat aggressively, producing leopard-spotted, blistered crusts comparable to a 700°F deck oven"
   - "Set includes a bamboo peel, silicone pizza cutter, and a useful cloth cover — not the usual throwaway accessories"
   - "Stainless steel carrying frame with feet makes transferring a loaded stone safer than wrestling with a bare slab"
-cons:
+cons: 
   - "At roughly 12 pounds, the stone and frame combo is heavy; expect a slow preheat of 45–60 minutes to reach full temperature"
   - "The included bamboo peel is functional but small — a 12-inch pizza barely fits, so you'll want a larger metal peel for launching 14-inch pies"
   - "Some units arrive with minor surface pitting or hairline cracks in the cordierite; inspect immediately and return if the damage affects structural integrity"
+
 ---
 
 If you've eaten pizza from a proper wood-fired oven, you know the difference between a crust that's merely browned and one that's blistered, chewy, and crackly. That signature texture comes from intense, even heat radiating from a thermal mass — which is exactly what the Cuzi Gourmet Pizza Stone Set aims to replicate in a home oven. After spending a month making weekly pies, here's the honest breakdown.

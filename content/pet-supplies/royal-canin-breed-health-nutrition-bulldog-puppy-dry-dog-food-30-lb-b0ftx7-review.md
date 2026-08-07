@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin Breed Health Nutrition Bulldog Puppy Dry Dog Foo"
 seo_title: "Royal Canin Breed Health Nutrition Bulldog Puppy D Review"
 meta_description: "Our full royal canin breed health nutrition bulldog puppy dry dog foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTX7GX79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719jeIu0f9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Bulldog Puppy Feeding Problem — Solved?

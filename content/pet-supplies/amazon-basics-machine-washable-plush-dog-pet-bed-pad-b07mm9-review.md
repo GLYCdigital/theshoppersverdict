@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Machine Washable Plush Dog Pet Bed Pad"
 seo_title: "Amazon Basics Plush Dog Bed Pad Review (2026): Worth It?"
 meta_description: "Amazon Basics Plush Dog Bed Pad review: Is this machine-washable pet bed worth it? Sizing, durability, real owner feedback. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07MM9YQV9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l23J7oE6L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Machine washable and dryer-safe — survives repeated wash cycles without clumping or losing shape"
   - "Non-slip bottom keeps pad anchored on hardwood, tile, and carpet"
   - "Genuinely plush 3-inch loft — small dogs sink in, older dogs get joint relief"
-cons:
+cons: 
   - "No waterproof liner — accidents soak through to the floor"
   - "Faux fur surface traps fur and dander; needs frequent vacuuming between washes"
   - "Thinner than it appears in product photos for large sizes — measure before buying"
+
 ---
 
 # Amazon Basics Machine Washable Plush Dog Pet Bed Pad Review

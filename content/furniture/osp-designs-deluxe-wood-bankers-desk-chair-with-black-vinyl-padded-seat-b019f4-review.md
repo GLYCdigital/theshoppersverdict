@@ -1,4 +1,5 @@
 ---
+
 title: "OSP Designs Deluxe Wood Bankers Desk Chair with Black Vinyl "
 seo_title: "OSP Designs Deluxe Wood Bankers Desk Chair with Bl Review"
 meta_description: "Our full osp designs deluxe wood bankers desk chair with black vinyl  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B019F43VMA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aNaK-FA+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # OSP Designs Deluxe Wood Bankers Desk Chair with Black Vinyl: A Classic That Actually Delivers

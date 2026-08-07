@@ -1,4 +1,5 @@
 ---
+
 title: "TOTTE Ice Maker Countertop, Self-Cleaning, Ice Maker Machine"
 seo_title: "TOTTE Ice Maker Countertop, Self-Cleaning, Ice Mak Review"
 meta_description: "Our full totte ice maker countertop, self-cleaning, ice maker machine review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DY7K14V4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wV6s0Hu2L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **TOTTE Ice Maker Countertop Review: Fast Ice, But Does It Hold Up?**

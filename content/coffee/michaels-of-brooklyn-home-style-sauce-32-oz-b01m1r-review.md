@@ -1,4 +1,5 @@
 ---
+
 title: "Michaels Of Brooklyn Home Style Sauce, 32 Oz"
 seo_title: "Michaels Of Brooklyn Home Style Sauce, 32 Oz Review: Verd"
 meta_description: "Our full michaels of brooklyn home style sauce, 32 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01M1RN0G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cvT9OoOhL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Michaels Of Brooklyn Home Style Sauce, 32 Oz: A Jar That Actually Tastes Homemade

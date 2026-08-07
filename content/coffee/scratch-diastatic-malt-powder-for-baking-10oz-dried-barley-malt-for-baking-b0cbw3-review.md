@@ -1,4 +1,5 @@
 ---
+
 title: "Scratch Diastatic Malt Powder for Baking - (10oz) Dried Barl"
 seo_title: "Scratch Diastatic Malt Powder for Baking - (10oz)  Review"
 meta_description: "Our full scratch diastatic malt powder for baking - (10oz) dried barl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBW3D9T7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h5dSJKxxL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most home bakers discover diastatic malt powder the hard way: their baguettes come out pale, their pizza dough ferments too slowly, and their sourdough loaves bake up dense with a crust the color of cardboard. Scratch's 10oz dried barley malt is the fix for all three problems—and it's earned a 4.7-star rating from 235 buyers for good reason.

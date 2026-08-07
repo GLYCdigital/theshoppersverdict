@@ -1,4 +1,5 @@
 ---
+
 title: "G.T. Water Products, Inc. Master Plunger Shorty"
 seo_title: "G.T. Water Master Plunger Shorty Review: Does It Work?"
 meta_description: "Honest G.T. Water Products Master Plunger Shorty review: real performance data, pros/cons, and who should buy this compact toilet plunger for home use."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B006UO88B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XLfgxqAfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-action flange head seals tighter than flat cups on most toilets"
   - "Heavy-duty rubber withstands harsh chemicals and repeated use"
   - "Shorty handle fits under sinks and in tight cabinets for storage"
-cons:
+cons: 
   - "Short handle requires more bending — rough on bad backs"
   - "Not designed for sink or shower drains; toilet-only tool"
+
 ---
 
 A plunger is one of those things you don't think about until you desperately need it. And when that moment hits, the cheap round-cup plunger from the dollar store will fail you. That's where the G.T. Water Products Master Plunger Shorty earns its keep.

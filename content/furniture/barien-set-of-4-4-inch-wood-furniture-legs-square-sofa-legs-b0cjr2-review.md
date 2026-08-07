@@ -1,4 +1,5 @@
 ---
+
 title: "BARIEN (Set of 4) 4 inch Wood Furniture Legs - Square Sofa L"
 seo_title: "BARIEN (Set of 4) 4 inch Wood Furniture Legs - Squ Review"
 meta_description: "Our full barien (set of 4) 4 inch wood furniture legs - square sofa l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJR2HC4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xVwRCdziL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **BARIEN (Set of 4) 4 inch Wood Furniture Legs - Square Sofa L** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,15 +1,16 @@
 ---
+
 title: "KitchenAid 7 Quart Bowl-Lift Stand Mixer with Accessories, KSM70SKXX, Dried Rose Review"
 seo_title: "KitchenAid 7 Quart Review: Verdict (3.8/5) | TSV"
 meta_description: "Honest kitchenaid 7 quart bowl-lift s review 2,527+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "kitchenaid-7-quart-bowl-lift-stand-mixer-with-accessories-ksm70skxx-dried-rose-review"
 image_alt: "KitchenAid 7 Quart Bowl-Lift Stand Mixer with Accessories, KSM70SKXX, Dried Rose Review"
-keywords:
+keywords: 
   - "kitchenaid 7 quart review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 3.7
-faq:
+faq: 
   - question: "What are the downsides of the KitchenAid 7 Quart Bowl-Lift?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the KitchenAid 7 Quart Bowl-Lift?"
@@ -20,10 +21,11 @@ review_count: 2527
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BRNVPK1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qkJOuIqmL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The KitchenAid 7 Quart Bowl-Lift Stand Mixer isn't a first mixer. It's the upgrade you buy when you've killed a tilt-head kneading dense sourdough, or when holiday baking means four batches of sugar cookies before noon. At $644.95, it's a serious investment — and with a 3.8-star average across 2,527 ratings, not everyone's thrilled. Here's the real picture.

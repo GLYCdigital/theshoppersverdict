@@ -1,4 +1,5 @@
 ---
+
 title: "Dishwasher Countertop dishwasher Portable small automatic cl"
 seo_title: "Countertop Dishwasher Review: 4 Cleaning Modes & Drying"
 meta_description: "Honest countertop dishwasher review: 4 cleaning modes, drying performance, capacity limits, and real buyer feedback. Is this portable dishwasher worth it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FCC5HSNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EC47CxRUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compact footprint — fits on standard countertops without blocking sink access"
   - "Four distinct wash modes give real flexibility for light rinses to heavy-duty pots"
   - "Built-in drying cycle actually works for plastics, not just dishes"
-cons:
+cons: 
   - "No hard water treatment — you'll battle spots and film in mineral-heavy water areas"
   - "Drain hose setup requires a faucet adapter that doesn't fit all aerators"
   - "Loading capacity is honest for singles/couples, but tight for families of 4+"
+
 ---
 
 If you've been hand-washing dishes for years because you rent, live in a small space, or just can't justify a full-size unit, you've probably stared at countertop dishwashers wondering if they're actually worth the counter space. The 4.0-star average across 200 ratings tells you this one isn't perfect. But after digging through the feedback and the specs, it's clear this unit solves a real problem for the right person.

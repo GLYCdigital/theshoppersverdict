@@ -1,4 +1,5 @@
 ---
+
 title: "aboxoo Metal Kids Bookshelf Freestanding for Kid's Room"
 seo_title: "aboxoo Metal Kids Bookshelf Review: Sturdy, Safe & Stylish (2026)"
 meta_description: "Read our honest aboxoo Metal Kids Bookshelf review. We tested the freestanding design, safety features, and storage capacity for toddler & preschool rooms."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW2YJB32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EI4RaMwRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Front-facing display shelves let toddlers see book covers, which actually encourages independent reading choices"
   - "Welded steel frame rated for 50+ lbs per shelf — holds board books and heavy hardcovers without bowing"
   - "Anti-tip wall anchor included and pre-drilled holes make mounting straightforward"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and takes ~30 minutes; the Allen wrench included is too short for comfortable torque"
   - "White finish scuffs easily — expect visible marks if you have an aggressive climber"
+
 ---
 
 Somewhere around the third time I watched my two-year-old empty an entire toy bin onto the floor to find one specific board book, I realized the problem wasn't her attention span — it was the storage. Books stacked spine-out in a deep bin might as well be invisible to a toddler. The **aboxoo Metal Kids Bookshelf** solves that with a front-facing display design that puts covers front and center. After two months in a house with a preschooler and a 1-year-old, here's the honest breakdown.

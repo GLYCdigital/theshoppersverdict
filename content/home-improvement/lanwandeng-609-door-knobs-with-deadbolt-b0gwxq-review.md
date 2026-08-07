@@ -1,4 +1,5 @@
 ---
+
 title: "Lanwandeng 609 Door Knobs with Deadbolt"
 seo_title: "Lanwandeng 609 Door Knobs with Deadbolt Review: Verdict |"
 meta_description: "Our full lanwandeng 609 door knobs with deadbolt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWXQGPBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HtWjO4G+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Lanwandeng 609 Door Knobs with Deadbolt** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

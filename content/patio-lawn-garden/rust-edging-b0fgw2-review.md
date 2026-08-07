@@ -1,4 +1,5 @@
 ---
+
 title: "Rust Edging"
 seo_title: "Rust Edging Review: Verdict | TSV"
 meta_description: "Our full rust edging review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGW2WNM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PThxH1ujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most garden edging is flimsy plastic that cracks in two winters or cheap metal that rusts into orange streaks you didn’t ask for. The Rust Edging product in question takes the opposite approach — it’s deliberately rusted, made from heavy steel, and built to look better as it ages. With a 4.6-star average across 229 ratings, it’s clearly doing something right. Here’s the real story.

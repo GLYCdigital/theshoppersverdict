@@ -1,4 +1,5 @@
 ---
+
 title: "Blulu C Channel Steel Metal Bracing Hidden C Bracket for Tab"
 seo_title: "Blulu C Channel Steel Bracket Review: Hidden Table Support"
 meta_description: "Honest Blulu C channel steel bracket review: hidden table-top bracing, build quality, real-world use, and who should buy. 4.5-star rated."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLVCGW6J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61b1Gs+SjjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12-gauge steel construction with black oxide finish resists rust and handles heavy loads without flexing"
   - "Hidden design mounts flush to the underside of tabletops, so no visible hardware ruins your furniture lines"
   - "Pre-drilled countersunk holes accept standard #8 or #10 wood screws for a secure, rattle-free fit"
-cons:
+cons: 
   - "No mounting screws included—you'll need to supply your own, which is an extra trip to the hardware store"
   - "The 1.5-inch width can be too narrow for some thicker butcher-block or edge-glued panels without shimming"
   - "Black oxide finish scuffs easily if you drag tools across it during installation"
+
 ---
 
 ## The Hidden Workhorse Your Tabletop Has Been Missing

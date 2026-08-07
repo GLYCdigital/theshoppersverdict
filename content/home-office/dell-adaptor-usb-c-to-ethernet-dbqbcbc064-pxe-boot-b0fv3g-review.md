@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Adaptor USB-C to Ethernet, DBQBCBC064 (PXE Boot)"
 seo_title: "Dell USB-C to Ethernet Adapter DBQBCBC064 Review (2026)"
 meta_description: "Dell DBQBCBC064 USB-C to Ethernet adapter review: PXE boot support, Realtek chipset, build quality, and whether it's worth the premium over generic dongles."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FV3GTW3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41EZRG9nUuL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Native PXE boot support — rare among USB-C Ethernet dongles, essential for IT provisioning and bare-metal imaging"
   - "Realtek RTL8153 chipset delivers stable gigabit throughput without driver headaches on Windows, macOS, and Linux"
   - "Compact aluminum housing with reinforced strain relief at both connectors; survives daily bag carry"
-cons:
+cons: 
   - "Cable is permanently attached at 15cm — short enough to dangle awkwardly from some laptop setups"
   - "Premium pricing vs. generic USB-C dongles; you're paying for PXE certification and Dell validation"
+
 ---
 
 If you've ever tried to network-boot a modern laptop, you know the pain. Most USB-C Ethernet adapters simply don't expose the option ROM needed for PXE boot. The Dell DBQBCBC064 is one of the few that does — and that alone justifies its existence for IT pros. But is it worth carrying for everyday wired networking? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "CXWXC Road/MTB Bike Pedals - Aluminum Alloy Bicycle Pedals -"
 seo_title: "CXWXC Aluminum Bike Pedals Review: Road & MTB Tested"
 meta_description: "CXWXC aluminum bike pedals review: 4.7-star rated road & MTB pedals tested for grip, weight, and durability. See if they fit your ride."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08T6Q4YJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ypNcmqFNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full CNC-machined 6061 aluminum body delivers true durability at a sub-$30 price point—no plastic composites here"
   - "Sealed cartridge bearings with DU bushings spin smoothly and keep water and grit out during muddy trail rides"
   - "10 replaceable steel pins per side offer serious grip for flat-pedal riders, even in wet conditions"
-cons:
+cons: 
   - "Platform is compact (105mm x 105mm) and may feel cramped for riders with US size 11+ shoes"
   - "No serviceable bearing cups—once the sealed cartridge wears out after heavy use, you're replacing the pedal, not rebuilding it"
+
 ---
 
 Let's cut through the noise: most pedals under $30 are either plastic boats with terrible bearings or aluminum traps that chew up your shins. The CXWXC Road/MTB pedals sit in that crowded budget bracket, yet they've pulled a 4.7-star average from 235 buyers. After digging through the specs and customer feedback, here's the real story.

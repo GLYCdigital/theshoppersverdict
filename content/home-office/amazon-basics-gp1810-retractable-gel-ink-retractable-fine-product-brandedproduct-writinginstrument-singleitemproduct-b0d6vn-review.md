@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Gp1810 Retractable Gel Ink Retractable Fine Pr"
 seo_title: "Amazon Basics GP1810 Gel Pen Review: Fine Point Tested"
 meta_description: "Amazon Basics GP1810 retractable gel pens reviewed: smooth fine-point ink, comfortable grip, and real-world durability tested. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6VNKJP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ssiU4tFaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, consistent 0.7mm gel ink that dries quickly without smudging — tested on standard copy paper"
   - "Retractable design with a solid metal clip that survives daily pocket carry without bending"
   - "Comfortable rubberized grip zone that stays put even during long note-taking sessions"
-cons:
+cons: 
   - "Ink runs out noticeably faster than comparable ballpoints — expect roughly 2-3 weeks of heavy daily use"
   - "The click mechanism can feel slightly stiff for the first dozen actuations before loosening up"
+
 ---
 
 Let's be direct: the Amazon Basics GP1810 is the office-drawer equivalent of a solid mid-tier sedan. It won't turn heads, but it starts every morning and gets you where you need to go. After 220 ratings averaging 4.4 stars, the consensus is clear — these are dependable workhorses, not luxury instruments. Here's what you actually need to know before adding a box to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "ARRYNTHEON Landscape Edging Kit 6.7 in Tall Decorative Doubl"
 seo_title: "ARRYNTHEON Landscape Edging Kit Review: 6.7in Tall (2026)"
 meta_description: "Honest ARRYNTHEON landscape edging kit review: 6.7-inch tall decorative double-sided panels. Real pros, cons, and buyer feedback to help you decide."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BCQT9V7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7157SPAzvIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "6.7-inch height actually contains mulch and soil effectively—tall enough to make a visible border without looking like a retaining wall"
   - "Double-sided design means both faces look finished, so you can install it facing either direction depending on your sight lines"
   - "Interlocking panels click together securely; no additional connectors or hardware required beyond the included stakes"
-cons:
+cons: 
   - "Stakes are thinner than expected; several buyers report bending them during installation in compacted or rocky soil"
   - "The 'wood' texture is molded plastic—convincing from a distance but obviously synthetic up close, especially in direct sunlight"
   - "Panels can warp slightly in extreme heat if installed too tightly; need room for thermal expansion"
+
 ---
 
 Let's be direct: most landscape edging under $50 is flimsy, ugly, or both. The ARRYNTHEON 6.7-inch kit tries to be the exception—and for the most part, it pulls it off. With a 4.4-star average across 220 ratings, this is a solid middle-ground option for gardeners who want the look of a defined border without committing to steel, stone, or concrete. Here's what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jocisland LED Bed Frame Velvet Upholstered Platform Bed with"
 seo_title: "Jocisland LED Bed Frame Velvet Upholstered Platfor Review"
 meta_description: "Our full jocisland led bed frame velvet upholstered platform bed with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR9X9MSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kfDfAc0UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Jocisland LED Bed Frame Worth Your Bedroom Budget?

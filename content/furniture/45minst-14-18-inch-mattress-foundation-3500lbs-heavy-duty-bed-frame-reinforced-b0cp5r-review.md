@@ -1,4 +1,5 @@
 ---
+
 title: "45MinST 14 18 Inch Mattress Foundation/ 3500lbs Heavy Duty B"
 seo_title: "45MinST 14/18-Inch Heavy Duty Bed Frame Review (3500 lbs)"
 meta_description: "45MinST 14/18-inch mattress foundation review: 3500-lb capacity, tool-free assembly, 13-inch under-bed clearance. Is this steel platform bed frame worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP5R4WX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QDPQWL24L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "13.8 inches of under-bed clearance on the 18-inch model — fits large storage bins and robot vacuums"
   - "Reinforced steel construction with 9 legs (Queen) rated to 3,500 lbs — genuinely overbuilt, not marketing fluff"
   - "Tool-free assembly in under 15 minutes using locking pins and slotted connectors"
-cons:
+cons: 
   - "No headboard attachment points — if you want a headboard, you'll need to rig one or buy a separate adapter"
   - "Metal slats can squeak if not fully locked into place; the locking pins require firm pressure to seat correctly"
   - "The 14-inch option sits low — not ideal if you prefer a high bed or have mobility issues"
+
 ---
 
 ## The 3,500-Pound Question: Does This Budget Platform Frame Actually Deliver?

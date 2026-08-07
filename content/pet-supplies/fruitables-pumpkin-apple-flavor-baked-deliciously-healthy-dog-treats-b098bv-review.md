@@ -1,4 +1,5 @@
 ---
+
 title: "Fruitables Pumpkin & Apple Flavor Baked Deliciously Healthy"
 seo_title: "Fruitables Pumpkin & Apple Dog Treats Review (2026)"
 meta_description: "Honest Fruitables Pumpkin & Apple dog treats review: 4.6★ rating, 3-calorie crunch, real ingredients. See pros, cons, and which dogs love them."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B098BVYCZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NXwDXreDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Only 3 calories per treat — makes training sessions guilt-free even for small breeds"
   - "First ingredient is real pumpkin, not corn or wheat fillers you see in most grocery-store treats"
   - "Crunchy texture that actually helps scrape plaque while satisfying the need to chew"
-cons:
+cons: 
   - "Small 5-ounce bag goes fast if you have a large breed — you'll be reordering weekly"
   - "Some picky dogs turn up their noses at the earthy pumpkin flavor profile"
   - "No resealable zipper on the standard pouch — treats can go stale if you don't transfer them"
+
 ---
 
 **If you've read the ingredient list on most commercial dog treats, you know the drill: corn, wheat, by-products, artificial colors. Fruitables Pumpkin & Apple Baked treats flip that script with a first ingredient that's actually a vegetable.** These crunchy little bites have racked up a 4.6-star average across 229 Amazon ratings, and after digging into what buyers actually say, the praise is mostly deserved.

@@ -1,4 +1,5 @@
 ---
+
 title: "4'' x 6'' Card Protectors Trading Cards Shipping Supplies, G"
 seo_title: "4x6 Card Protectors Review: Trading Card Shipping Supplies"
 meta_description: "Honest review of 4x6 card protectors for trading card shipping. See how these graded card sleeves hold up, what buyers love, and who should buy."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BXXC48GS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eDnnuM4pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits BGS, PSA, and CGC graded slabs snugly — no rattling or sliding inside the sleeve"
   - "Thick 4-mil material holds up through USPS handling without tearing or creasing"
   - "Self-seal adhesive flap is strong enough for repeated resealing during inventory checks"
-cons:
+cons: 
   - "The adhesive flap can stick to the card sleeve itself if you're not careful when pulling it closed"
   - "No rigid backing included — you'll still need a cardboard mailer for actual shipping protection"
   - "The 4x6 size works for standard slabs but won't fit oversized or custom encapsulation cases"
+
 ---
 
 If you sell graded trading cards on eBay or ship slabs to friends across the country, you already know the pain: a PSA slab sliding around inside a bubble mailer is a cracked case waiting to happen. These 4" x 6" card protectors from G are the cheap insurance that keeps your slabs looking like they just came back from grading.

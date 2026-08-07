@@ -1,4 +1,5 @@
 ---
+
 title: "attwood 8803LP2 EPA and CARB Certified 3-Gallon Portable Mar"
 seo_title: "Attwood 8803LP2 3-Gallon Marine Fuel Tank Review (2026)"
 meta_description: "Attwood 8803LP2 3-gallon portable marine fuel tank review: EPA/CARB certified, leak-proof cap, durable build. Real buyer feedback on fit and fumes."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07MT7G794/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mFqm9h0PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Leak-proof valve and gasket design holds up against fuel expansion without weeping"
   - "Fits standard 1/4-inch fuel lines on most outboards up to 15hp without adapters"
   - "Rigid HDPE shell resists dents and UV damage better than cheaper blow-molded tanks"
-cons:
+cons: 
   - "No fuel gauge — you'll be guessing with a dipstick or shake test"
   - "Cap threads are shallow; cross-threading is easy if you rush reattachment"
+
 ---
 
 **The Attwood 8803LP2 is the quiet workhorse of portable marine fuel tanks — but it's not without quirks.** With 215 Amazon ratings holding at 4.3 stars, this 3-gallon jug has earned its reputation among small-boat owners. I've spent time with the specs and buyer feedback to give you the straight story before you drop cash on a new fuel tank.

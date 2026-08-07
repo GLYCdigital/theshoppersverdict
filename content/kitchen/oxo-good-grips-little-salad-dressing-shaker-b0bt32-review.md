@@ -1,4 +1,5 @@
 ---
+
 title: "OXO Good Grips Little Salad Dressing Shaker"
 seo_title: "OXO Good Grips Little Salad Dressing Shaker Review: Verdi"
 meta_description: "Our full oxo good grips little salad dressing shaker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BT323KMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618NgIVHEhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OXO Good Grips Little Salad Dressing Shaker solves a problem you didn't realize you had: making vinaigrette without dirtying three separate measuring cups. At 8 ounces, it's compact enough to live in your fridge door, and the integrated measurements mean you can eyeball ratios directly in the bottle. But is it worth the counter space? Let's break it down.

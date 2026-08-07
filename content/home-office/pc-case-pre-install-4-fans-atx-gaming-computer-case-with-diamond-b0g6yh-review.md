@@ -1,4 +1,5 @@
 ---
+
 title: "PC Case Pre-Install 4 Fans, ATX Gaming Computer Case with Di"
 seo_title: "PC Case Pre-Install 4 Fans, ATX Gaming Computer Ca Review"
 meta_description: "Our full pc case pre-install 4 fans, atx gaming computer case with di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G6YHBY6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91f1zzxQH8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: A Budget Case That Actually Cares About Airflow**

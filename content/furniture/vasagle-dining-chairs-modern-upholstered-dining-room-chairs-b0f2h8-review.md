@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Dining Chairs, Modern Upholstered Dining Room Chairs"
 seo_title: "VASAGLE Dining Chairs, Modern Upholstered Dining R Review"
 meta_description: "Our full vasagle dining chairs, modern upholstered dining room chairs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F2H87YPV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rVQdWPdML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for dining chairs under $100, you've likely seen the VASAGLE modern upholstered option. It's the kind of chair that pops up in "mid-century modern" search results and looks great in lifestyle photos. But looks are one thing — sitting through a long dinner is another. Here's the honest breakdown.

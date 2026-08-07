@@ -1,4 +1,5 @@
 ---
+
 title: "FURNJOYLIFE White Makeup Vanity Desk with Lighted Mirror & P"
 seo_title: "FURNJOYLIFE Makeup Vanity Desk Review: Lighted Mirror, 3 Colors"
 meta_description: "Read our honest FURNJOYLIFE white makeup vanity desk review. See how the lighted mirror, power outlets, and 3 color modes perform for daily use."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D76KXH5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HIp7ZPRNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three adjustable color lighting modes (warm, natural, cool) with dimmable brightness — genuinely useful for matching different environments"
   - "Built-in power outlets and USB ports let you charge devices without hunting for wall adapters"
   - "Sturdy metal frame and thick engineered wood top hold up better than budget vanity desks in this price range"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with clear but numerous steps; you'll want a second person for the mirror attachment"
   - "The included stool is functional but basic — cushion is thin and won't win any comfort awards for long sessions"
   - "White finish scratches visibly; consider a clear protective mat if you're heavy-handed with jewelry or metal tools"
+
 ---
 
 ## The $150 question: Is this vanity worth your bathroom counter space?

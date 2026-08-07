@@ -1,4 +1,5 @@
 ---
+
 title: "Svater G40 String Lights"
 seo_title: "Svater G40 String Lights Review: Verdict | TSV"
 meta_description: "Our full svater g40 string lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSXCJDWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J12xwVnXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The G40 string light market is crowded with flimsy options that sag after one season. The Svater G40 set is trying to be the exception. At 4.5 stars across 225 ratings, it's clearly doing something right. Here's what you need to know before you spend your money.

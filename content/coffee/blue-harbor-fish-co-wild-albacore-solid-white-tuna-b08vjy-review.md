@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Harbor Fish Co. Wild Albacore Solid White Tuna"
 seo_title: "Blue Harbor Fish Co. Wild Albacore Tuna Review (2026)"
 meta_description: "Blue Harbor Fish Co. Wild Albacore Solid White Tuna review: premium pole-and-line caught tuna, 4.6/5 stars. Is it worth the price? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08VJYRF48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71929KznzQL._SL1500_.jpg"
-pros:
+pros: 
   - "Pole-and-line caught albacore with no added fillers or dark meat — consistently firm, clean-tasting chunks"
   - "High Omega-3 content (1,250mg per serving) verified by third-party testing, not just marketing claims"
   - "BPA-free can lining and simple ingredient list (just tuna, water, salt) for clean eating"
-cons:
+cons: 
   - "Pricier than standard chunk light tuna — expect to pay a premium for the quality"
   - "Some cans arrive with less liquid than expected, making it drier than conventional packed tuna"
+
 ---
 
 Let's cut through the noise: most canned tuna is a race to the bottom on price, and you taste it. Blue Harbor Fish Co. takes the opposite approach — and at 4.6 stars across 229 ratings, shoppers are noticing. But is this premium albacore actually worth the upcharge, or are you paying for packaging? I dug into the specs, the sourcing claims, and what real buyers are saying.

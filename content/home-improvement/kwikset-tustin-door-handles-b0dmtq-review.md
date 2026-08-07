@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Tustin Door Handles"
 seo_title: "Kwikset Tustin Door Handles Review: Verdict | TSV"
 meta_description: "Our full kwikset tustin door handles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DMTQL2XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ra4TMFMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most door handles are an afterthought. You install them, forget them, and only notice them when they rattle or the finish starts peeling. The Kwikset Tustin is not that handle. With a 4.8-star average across 240 ratings, it's quietly becoming the default choice for homeowners who want modern style without paying boutique hardware prices. But is it actually worth your money, or is that rating inflated by low expectations? I dug into the specs, the build, and real buyer feedback to find out.

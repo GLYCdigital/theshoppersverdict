@@ -1,4 +1,5 @@
 ---
+
 title: "Feed Garden Galvanized Landscape Staples Inflatable Stakes 1"
 seo_title: "Feed Garden Landscape Staples Review: 11-Gauge Anti-Rust Stakes"
 meta_description: "Feed Garden Galvanized Landscape Staples review: 11-gauge anti-rust stakes for inflatables, weed barriers & more. 235 ratings, 4.7 stars. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGX22CD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616xvFNUzYL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Thick 11-gauge wire holds firmly in tough soil without bending, unlike cheaper 9-gauge stakes that twist on impact"
   - "Genuine galvanized coating resists rust through multiple seasons — no orange streaks staining your lawn or fabric"
   - "Sharp pointed tips and 6-inch length penetrate compacted ground and sod with minimal hammering effort"
-cons:
+cons: 
   - "At 6 inches, they're overkill for lightweight weed barrier cloth — shorter 4-inch stakes work fine and cost less"
   - "The head is narrow; you'll need a mallet with a small striking face or a rubber mallet to hit it squarely"
   - "No included storage case — you'll need to keep them in a bucket or bag to avoid stabbing yourself when digging them out"
+
 ---
 
 Let me be blunt: most landscape staples are flimsy pieces of wire that bend on the first rock they hit. The Feed Garden Galvanized Landscape Staples are not that. At 11-gauge thickness — that's roughly 3mm of solid steel — these are the heavy hitters of the stake world. They're designed for inflatable yard decorations that tug against their tethers in wind, and for landscape fabric that needs to stay put through rain and foot traffic.

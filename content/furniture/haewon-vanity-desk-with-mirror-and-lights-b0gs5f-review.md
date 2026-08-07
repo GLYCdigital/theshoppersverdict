@@ -1,4 +1,5 @@
 ---
+
 title: "Haewon Vanity Desk with Mirror and Lights"
 seo_title: "Haewon Vanity Desk with Mirror and Lights Review (2026)"
 meta_description: "Honest Haewon vanity desk review: lighted mirror, build quality, assembly, and who should buy it. Real pros/cons from 210 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS5F7R36/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sJ0PdojzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three-color temperature LED bulbs around the mirror deliver flattering, adjustable light for makeup application — rare at this price point"
   - "Dual fabric drawers on each side provide genuinely useful storage for brushes, palettes, and jewelry without taking up floor space"
   - "Assembled footprint is compact (about 40 inches wide), fitting smaller bedrooms and apartments that can't accommodate full-size vanities"
-cons:
+cons: 
   - "Assembly requires patience — multiple buyers report 60–90 minutes of work and confusingly labeled hardware bags"
   - The included stool is functional but basic; the padded seat is thin, and taller users (5'8 inch+) may find the 17-inch seat height low
+
 ---
 
 **The Haewon Vanity Desk with Mirror and Lights hits a sweet spot that's surprisingly rare in the sub-$150 vanity category: it actually delivers on the "Hollywood glam" aesthetic without falling apart after three months of daily use.** With 210 Amazon ratings averaging 4.2 stars, it's clearly resonating with a specific buyer — someone who wants the lighted-mirror look but doesn't have the budget (or the square footage) for a full-size dressing table. As shown in the product image, you're getting a compact 40-inch-wide desk, a lighted mirror, two fabric drawers per side, and a matching stool. For $129.99, that's a lot of hardware. But is it *good* hardware? Let's break it down.

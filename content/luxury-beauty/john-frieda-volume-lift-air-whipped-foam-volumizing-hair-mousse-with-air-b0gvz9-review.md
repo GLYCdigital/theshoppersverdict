@@ -1,4 +1,5 @@
 ---
+
 title: "John Frieda Volume Lift Air Whipped Foam, Volumizing Hair Mo"
 seo_title: "John Frieda Volume Lift Air Whipped Foam, Volumizi Review"
 meta_description: "Our full john frieda volume lift air whipped foam, volumizing hair mo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVZ9BLHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nXFWossaL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The John Frieda Volume Lift Air Whipped Foam has been sitting in my testing rotation for three weeks now, and I've put it through the paces — humid commutes, gym sessions, and one particularly brutal desk-day hair flattening. At 4.2 stars across 210 Amazon ratings, it's not a cult classic, but it's earning its keep. Here's the real story.

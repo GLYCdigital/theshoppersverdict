@@ -1,4 +1,5 @@
 ---
+
 title: "Decorative Fences"
 seo_title: "Decorative Fences Review: Worth It? | 2026 Buyer's Guide"
 meta_description: "Honest Decorative Fences review: 3.7/5 rating from 185 shoppers. We break down build quality, installation, and whether these $28 panels deliver."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DF29J8YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iOgUHg7cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lightweight, tool-free assembly — panels press together in under 10 minutes"
   - "Weather-resistant coating holds up through rain and UV exposure without rust"
   - "Flexible design lets you configure straight lines, corners, or circular beds"
-cons:
+cons: 
   - "Stakes are shorter than expected — need concrete or extra anchoring in soft soil"
   - "Color varies between batches — some panels arrive darker or lighter than photos"
   - "Not sturdy enough for pets — purely decorative, won't contain a dog"
+
 ---
 
 Let's be direct: at $27.99, you're not buying a privacy fence. You're buying garden aesthetics — and for that purpose, these decorative panels mostly deliver. But with a 3.7-star average across 185 ratings, there's clearly a split between shoppers who got exactly what they wanted and those who expected more structure.

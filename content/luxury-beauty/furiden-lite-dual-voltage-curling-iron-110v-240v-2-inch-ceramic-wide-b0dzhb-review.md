@@ -1,4 +1,5 @@
 ---
+
 title: "FURIDEN Lite Dual-Voltage Curling Iron: 110V-240V 2 Inch Cer"
 seo_title: "FURIDEN Lite Dual-Voltage Curling Iron: 110V-240V  Review"
 meta_description: "Our full furiden lite dual-voltage curling iron: 110v-240v 2 inch cer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DZHBMNWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w3Vr+eyKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Travel-Friendly Curling Iron That Actually Works Overseas

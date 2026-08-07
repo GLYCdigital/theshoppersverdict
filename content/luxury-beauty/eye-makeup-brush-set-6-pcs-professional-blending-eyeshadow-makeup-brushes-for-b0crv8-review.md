@@ -1,4 +1,5 @@
 ---
+
 title: "Eye Makeup Brush Set, 6 Pcs Professional Blending Eyeshadow"
 seo_title: "Eye Makeup Brush Set Review: 6 Pc Pro Blending Brushes"
 meta_description: "Honest review of the 6-piece professional eye makeup brush set. See how these blending brushes perform, what buyers love, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRV84811/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jOfUzGdtL._SL1200_.jpg"
-pros:
+pros: 
   - "Dense yet soft synthetic bristles that blend shadow without absorbing excess pigment — one pass and colors diffuse evenly"
   - "Ergonomic aluminum handles with a comfortable weight that gives you control without hand fatigue during longer application sessions"
   - "Includes a dedicated crease brush with a precise tapered point that fits the natural eye socket, not just a generic fluffy blender"
-cons:
+cons: 
   - "No protective case or travel pouch included — the brushes arrive loose in a simple box, so you'll need your own storage"
   - "The smallest detail brush is a bit flimsy; it works well but lacks the structural stiffness of the larger brushes in the set"
+
 ---
 
 Six brushes. Zero fluff. That's what you're getting with this eye makeup brush set, and honestly, that's refreshing. Most brush kits pad themselves with duplicates or one brush you'll never touch. This set doesn't do that — every brush here earns its place in your makeup bag.

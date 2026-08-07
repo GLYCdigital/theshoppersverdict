@@ -1,4 +1,5 @@
 ---
+
 title: "jane iredale Beyond Matte Lip Fixation Lip Stain | Long-Last"
 seo_title: "jane iredale Beyond Matte Lip Fixation Lip Stain | Review"
 meta_description: "Our full jane iredale beyond matte lip fixation lip stain | long-last review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B5BV2H7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dfQe1HHXL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most "long-lasting" lip stains are either drying paint or they vanish after your first sip of coffee. The jane iredale Beyond Matte Lip Fixation sits in a rare middle ground — a clean, weightless stain that actually survives real life. I've tested it through breakfast, mid-morning coffee, and a two-hour client meeting. The verdict? Impressive, but not without caveats.

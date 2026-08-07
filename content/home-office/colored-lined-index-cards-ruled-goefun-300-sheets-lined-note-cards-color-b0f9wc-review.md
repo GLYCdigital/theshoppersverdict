@@ -1,4 +1,5 @@
 ---
+
 title: "Colored Lined Index Cards Ruled-Goefun 300 Sheets Lined Note"
 seo_title: "Colored Lined Index Cards Review: Goefun 300 Sheets Worth It?"
 meta_description: "Goefun colored lined index cards review: 300 sheets, 5 colors, ruled format. Are they durable? Do they bleed? Read our honest verdict before buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9WCVQLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7133K9Nc7aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "300 sheets per box means 60 cards in each of 5 colors — a full semester of study cards without restocking"
   - "Ruled lines are actually dark enough to see but light enough to write over cleanly"
   - "Stiff 300gsm cardstock holds up to heavy handling, backpack abuse, and repeated flipping"
-cons:
+cons: 
   - "Colors are muted pastels, not vibrant — if you want neon for color-coding, look elsewhere"
   - "Some buyers report the pink and yellow shades are close enough to confuse at a glance in low light"
+
 ---
 
 Most index cards are an afterthought—flimsy, off-white, and forgettable. The Goefun Colored Lined Index Cards are not that. With 300 sheets, five colors, and a ruled format that actually respects your handwriting, these cards are built for one thing: serious study sessions.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aoxun Outdoor Storage Shed with Window, Resin Shed with Floo"
 seo_title: "Aoxun Outdoor Storage Shed Review: Resin Build, Real Flaws"
 meta_description: "Aoxun Outdoor Storage Shed with Window review: resin construction, floor included, but assembly headaches. Is it worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GDX9PF88/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91yFtTqsBUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes a solid resin floor — rare at this price point, keeps tools off wet ground"
   - "Pre-cut window and ventilation slats provide natural light without added cost"
   - "Lockable doors with reinforced hinges add real security for a resin unit"
-cons:
+cons: 
   - "Assembly is a multi-hour project; panels align imperfectly and need muscle"
   - "Roof panels can warp or gap in direct summer heat if not perfectly seated"
   - "No anchoring hardware included — must buy stakes or screws separately"
+
 ---
 
 If you need a weather-resistant shed under $500, the Aoxun Outdoor Storage Shed with Window is on your radar. But here's the honest truth: this 3.7-star resin shed is a solid value with some assembly frustrations baked in. Let me break down what you're actually getting.

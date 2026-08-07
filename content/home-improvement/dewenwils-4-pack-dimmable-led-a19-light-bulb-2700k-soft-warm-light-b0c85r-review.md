@@ -1,4 +1,5 @@
 ---
+
 title: "DEWENWILS 4-Pack Dimmable LED A19 Light Bulb, 2700K Soft War"
 seo_title: "DEWENWILS 4-Pack Dimmable LED A19 Bulb Review (2026)"
 meta_description: "DEWENWILS 4-pack dimmable LED A19 bulbs in 2700K soft white: real dimming performance, energy savings, and build quality tested. Honest buyer's guide."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C85RX5D9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m8WUYVImL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2700K color temperature with no green tint at low dim levels — rare under $2.50/bulb"
   - "Smooth, flicker-free dimming down to roughly 10% output on most leading-edge dimmers"
   - "Solid 15,000-hour rated lifespan with a 3-year warranty, backed by a real company"
-cons:
+cons: 
   - "Slightly larger A19 footprint (4.8 inches) — may not fit tight enclosed fixtures"
   - "Warm-up delay of 1–2 seconds when switched on from cold — noticeable in hallways"
   - "Not compatible with trailing-edge dimmers or smart dimmer switches without neutral wires"
+
 ---
 
 You’re staring at a shelf full of LED bulbs that all claim “dimmable” and “soft white.” Most of them buzz, flicker, or turn an ugly shade of gray when you dial them down. The DEWENWILS 4-pack A19s in 2700K are not those bulbs — but they’re not perfect either. Here’s what you actually need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "7-0-20 Summer Lawn and Turf Stress Granular Fertilizer Blend"
 seo_title: "7-0-20 Summer Lawn Fertilizer Review: Does It Beat Heat Stress?"
 meta_description: "Read our honest 7-0-20 Summer Lawn and Turf Stress Granular Fertilizer review. Does the high-potassium blend really protect grass in heat? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09X62J981/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YradGm8SL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Zero-nitrogen formula means no growth surge during heat — your mower stays in the shed longer"
   - "High potassium ratio (20%) strengthens cell walls, improving drought and traffic tolerance"
   - "Covers roughly 5,000 sq ft per bag at the standard 5 lbs/1,000 sq ft rate"
-cons:
+cons: 
   - "Not a complete fertilizer — you'll need a separate nitrogen source in cooler months"
   - "Granules can clump if stored in humid conditions; break apart before spreading"
   - "No iron or micronutrients, so it won't green up a yellowing lawn on its own"
+
 ---
 
 ## The Summer Savior Your Lawn Actually Needs

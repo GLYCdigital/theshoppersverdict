@@ -1,4 +1,5 @@
 ---
+
 title: "Anna and Sarah Premium Georgian Raw Fresh Pecans in Shell"
 seo_title: "Anna & Sarah Pecans in Shell Review: Worth It? (2026)"
 meta_description: "Honest Anna and Sarah Georgian pecans in shell review. Flavor, freshness, cracking ease, and value compared. See if these raw pecans are worth buying."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08K1T182V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q1QyvnIxL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently fresh, sweet nutmeat with that true Georgia pecan flavor — no rancid or stale batches reported"
   - "Shells crack cleanly with a standard nutcracker, yielding mostly intact halves rather than shattered pieces"
   - "Generous 2-pound bag size with minimal debris or broken shell fragments in the packaging"
-cons:
+cons: 
   - "Inconsistent sizing between bags — some arrive with noticeably smaller nuts mixed in with the jumbo ones"
   - "No resalable zipper on the bag, so you'll need your own airtight container for long-term storage"
+
 ---
 
 Look, I've tested a lot of in-shell pecans over the years, and most of them taste like they've been sitting in a warehouse since the last administration. The Anna and Sarah Premium Georgian Raw Fresh Pecans are not those pecans. These are the real deal — sweet, buttery, and genuinely fresh — which is why they've held a solid 4.1-star average across 204 ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "SYOKZEY RC Cars Remote Control Car, Double Sided 360Â°Flip 4"
 seo_title: "SYOKZEY RC Cars Remote Control Car, Double Sided 3 Review"
 meta_description: "Our full syokzey rc cars remote control car, double sided 360â°flip 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2XT99FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jJr8K9G2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Stunt Car That Actually Lands on Its Wheels

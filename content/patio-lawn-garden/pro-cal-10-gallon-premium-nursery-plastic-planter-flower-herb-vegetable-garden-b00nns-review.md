@@ -1,4 +1,5 @@
 ---
+
 title: "Pro Cal 10 Gallon Premium Nursery Plastic Planter Flower Her"
 seo_title: "Pro Cal 10 Gallon Premium Nursery Plastic Planter  Review"
 meta_description: "Our full pro cal 10 gallon premium nursery plastic planter flower her review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00NNS3ORM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uIvGh2VGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced out 10-gallon nursery pots lately, you know they shouldn't cost $15 each. The Pro Cal 10 Gallon Premium Nursery Planter undercuts most big-box store options while holding up to real outdoor abuse. But it's not without tradeoffs. Here's what you actually get.

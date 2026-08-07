@@ -1,4 +1,5 @@
 ---
+
 title: "ONBRILL 10 FT Patio Umbrella, 3 Tier Outdoor Table Umbrella "
 seo_title: "ONBRILL 10 FT Patio Umbrella, 3 Tier Outdoor Table Review"
 meta_description: "Our full onbrill 10 ft patio umbrella, 3 tier outdoor table umbrella  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYJZHHTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6112jjJG2IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most patio umbrellas under $100 are junk. Thin poles, flimsy ribs, canopies that flap in a light breeze. The ONBRILL 10 FT 3-Tier model sits in that price bracket, but it’s trying harder than most. The question is whether the extra engineering justifies the purchase—or if you’re better off spending more on a premium unit.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Vivobook OLED Laptop"
 seo_title: "ASUS Vivobook OLED Laptop Review (2026): Worth It?"
 meta_description: "Honest ASUS Vivobook OLED Laptop review: display quality, battery life, performance, and real buyer feedback. Find out if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F1V2S3Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oaZyun9jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "OLED panel delivers true blacks and vivid color — noticeably better than IPS at this price point"
   - "Surprisingly lightweight at 3.1 lbs with a slim profile that fits standard laptop sleeves"
   - "Full HDMI port and USB-C with PD support — no dongle needed for most office setups"
-cons:
+cons: 
   - "Battery life takes a hit with the OLED panel — expect 5-6 hours of mixed use, not the 8+ advertised"
   - "Keyboard deck flexes noticeably under pressure; typing aggressively can feel spongy"
   - "Fan noise spikes under sustained loads — audible in quiet office environments"
+
 ---
 
 The ASUS Vivobook OLED is the laptop that makes you question why you ever settled for a standard IPS screen. But before you hit "Add to Cart," understand this: that gorgeous display comes with tradeoffs you need to know about.

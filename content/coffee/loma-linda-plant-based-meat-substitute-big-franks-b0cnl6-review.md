@@ -1,4 +1,5 @@
 ---
+
 title: "Loma Linda - Plant-Based Meat Substitute| Big Franks"
 seo_title: "Loma Linda - Plant-Based Meat Substitute| Big Fran Review"
 meta_description: "Our full loma linda - plant-based meat substitute| big franks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNL6LG58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u92Su3giL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've tested more plant-based hot dogs than I care to count, and most of them taste like someone seasoned a rubber band. The Loma Linda Big Franks are different — and the 4.6-star average across 229 ratings tells me I'm not the only one who noticed.

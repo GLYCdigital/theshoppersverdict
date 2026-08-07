@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Oscillating Tool for Dewalt 20V Battery, 6 Variable Speed Brushless Motor B0DSBZGTP3 Review"
 seo_title: "Cordless Oscillating Tool for Dewalt 20V Battery: Review"
 meta_description: "Honest review of the cordless oscillating tool for Dewalt 20V batteries — 6 speeds, brushless motor, real performance and pitfalls."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSBZGTP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GxPski5zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Uses genuine Dewalt 20V batteries — no proprietary battery system or adapter guesswork"
   - "Six speed settings (8,000–20,000 OPM) give real control for sanding vs. cutting"
   - "Brushless motor delivers solid runtime — several buyers report cutting through hardwood on a single 2Ah charge"
-cons:
+cons: 
   - "Accessory mounting requires a hex wrench — no universal OIS quick-release system"
   - "Slightly heavier than OEM Dewalt models at 3.2 lbs, noticeable during overhead work"
   - "No included accessories in the box — budget extra for blades and sanding pads"
+
 ---
 
 **The bare-tool gamble that mostly pays off**

@@ -1,4 +1,5 @@
 ---
+
 title: "Evolution Fresh, Juice Superfruit Greens Organic, 44 Fl Oz"
 seo_title: "Evolution Fresh Superfruit Greens Review: Worth It? (2026)"
 meta_description: "Evolution Fresh Superfruit Greens Organic Juice review: taste, nutrition, value. See if this 44 oz cold-pressed blend beats store brands before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D1YRB58Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71szowe2uNL._SL1500_.jpg"
-pros:
+pros: 
   - "HPP cold-pressed process preserves nutrients and fresh flavor without heat pasteurization"
   - "13g of greens and 2 full fruit servings per 8 oz glass — genuinely nutrient-dense"
   - "No added sugar, no artificial anything — sweetened only by whole fruit purees"
-cons:
+cons: 
   - "Pricey at roughly $1.50–$2.00 per serving compared to conventional green juices"
   - "Bottle must stay refrigerated and has a short shelf life (~30 days) — hard to stock up"
   - "Tart, earthy flavor profile won't appeal to those expecting a sweet fruit juice"
+
 ---
 
 # Evolution Fresh Superfruit Greens Organic — The Honest Review

@@ -1,4 +1,5 @@
 ---
+
 title: "Calloway Mills 107781729 Dandelion Doormat 17 inch  x 29 inch "
 seo_title: "Calloway Mills Dandelion Doormat Review: 17x29 Tested"
 meta_description: "Honest Calloway Mills 107781729 Dandelion Doormat review: durability, water resistance, and real-world use. Is the 17x29 worth it? Find out."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTZ5BW45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/91rW2O+OZ9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 100% coir construction scrapes mud and debris effectively — no need to double-up with a secondary mat"
   - "Latex backing keeps the mat flat on concrete, tile, or wood without curling at the edges"
-cons:
+cons: 
   - "Coir fibers shed noticeably for the first 2–3 weeks — you'll sweep your porch daily until it settles"
   - "Not ideal for covered entryways only; heavy rain soaks through the natural fiber and can stain light concrete"
+
 ---
 
 **The Short Version: A Classic Coir Mat That Does Its Job — With One Caveat**

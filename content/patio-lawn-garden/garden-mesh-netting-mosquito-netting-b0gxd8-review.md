@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Mesh Netting Mosquito Netting"
 seo_title: "Garden Mesh Netting Mosquito Netting Review (2026)"
 meta_description: "Honest Garden Mesh Netting Mosquito Netting review: coverage, durability, and real buyer feedback. Is it worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXD8SVPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A34-+z5rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fine mesh blocks mosquitoes, aphids, and cabbage moths while still letting through ~85% of sunlight and adequate airflow for plant health"
   - "Lightweight polyethylene material (roughly 25g/m² density) drapes easily over hoops or frames without crushing seedlings"
   - "Buyers consistently report it survives a full growing season outdoors, including wind and rain exposure"
-cons:
+cons: 
   - "No grommets or reinforced edges — you'll need to source your own stakes, clips, or rocks to anchor it down"
   - "At 1.5m width, it's narrow enough that covering a 4x8 raised bed requires buying multiple panels and overlapping seams"
   - "The mesh is thin enough that determined birds can eventually peck through if they really want your berries"
+
 ---
 
 # Garden Mesh Netting Mosquito Netting Review: The $20 Fix for Pest-Free Plants

@@ -1,4 +1,5 @@
 ---
+
 title: "Blank Printable Business Cards 3.5 x 2, Perforated Card Stoc"
 seo_title: "Blank Printable Business Cards 3.5x2 Review: Perforated Stock"
 meta_description: "Honest review of blank perforated business card stock (3.5x2). Tested print quality, tear-out ease, and jamming. See if these cards fit your home office."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D49HCZ8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Syd1EME5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, clean perforation that tears without ragged edges or paper dust"
   - "Heavyweight 110lb card stock holds ink well without bleed-through on standard printers"
   - "Precisely cut to 3.5 x 2 inches — no trimming needed after printing"
-cons:
+cons: 
   - "Not compatible with laser printers that use fuser oil — smudging can occur"
   - "Perforations weaken the sheet; rough handling during printing can cause premature separation"
+
 ---
 
 Let's be direct: most blank business card stock is either too flimsy to feel professional or so thick it jams your printer. This 3.5 x 2 perforated card stock sits in a rare sweet spot — heavy enough to pass the "thumb test" when you hand one over, yet flexible enough to feed through a standard inkjet or laser printer without a fight.

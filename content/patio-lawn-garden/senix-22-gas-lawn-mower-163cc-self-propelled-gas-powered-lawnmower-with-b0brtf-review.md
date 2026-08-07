@@ -1,7 +1,8 @@
 ---
-title: "SENIX 22\" Gas Lawn Mower, 163cc Self Propelled Gas Powered L"
-seo_title: "SENIX 22\" Gas Lawn Mower, 163cc Self Propelled Gas Review"
-meta_description: "Our full senix 22\" gas lawn mower, 163cc self propelled gas powered l review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SENIX 22\ Gas Lawn Mower, 163cc Self Propelled Gas Powered L"
+seo_title: "SENIX 22\ Gas Lawn Mower, 163cc Self Propelled Gas Review"
+meta_description: "Our full senix 22\ gas lawn mower, 163cc self propelled gas powered l review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "senix-22-gas-lawn-mower-163cc-self-propelled-gas-powered-lawnmower-with-b0brtf-review"
 image_alt: "SENIX 22 Gas Lawn Mower, 163cc Self Propelled Gas Powered Lawnmower with B&S 4-Cycle Engine, 3-in-1 Walk-Behind Push Law"
 verdict_score: 3.7
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0BRTFZ197/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C0l07vISL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about the SENIX 22" gas mower: it's a budget-friendly workhorse with a few rough edges that you need to know about before handing over your money. At 3.9 stars across 195 ratings, the owner consensus is clear — this mower delivers where it counts, but it's not without compromise.

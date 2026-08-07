@@ -1,4 +1,5 @@
 ---
+
 title: "Corelle 6-Piece 18oz Round Bowls Vitrelle Triple Layer Glass"
 seo_title: "Corelle 18oz Round Bowls Review: 6-Piece Vitrelle Glass Set"
 meta_description: "Honest Corelle 18oz round bowls review: Vitrelle triple-layer glass durability, chip resistance, real-world use. Is this 6-piece set worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FM3FQ8RT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TP67SD-RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally thin and light — each 18oz bowl weighs roughly half of comparable ceramic, yet survives drops that shatter stoneware"
   - "Triple-layer Vitrelle construction resists thermal shock; safe for microwave, oven to 350°F, freezer, and dishwasher without crazing"
   - "Stackable flat profile saves serious cabinet space — six bowls take up barely more room than one standard cereal bowl"
-cons:
+cons: 
   - "Slick glossy surface means stacked bowls can slide; requires a grippy liner or careful handling if you store them in tall stacks"
   - "Thinness feels 'cheap' to some first-time users — no heft or warmth, and the 18oz capacity runs large for modest portion eaters"
+
 ---
 
 # Corelle 6-Piece 18oz Round Bowls: The Bowl That Quietly Outlasts Your Other Dinnerware

@@ -1,4 +1,5 @@
 ---
+
 title: "Dr Teal's Epsom Salt Soaking Solution Review"
 seo_title: "Dr Teal's Epsom Salt Soaking Solution Review (2026)"
 meta_description: "Honest Dr Teal's Epsom Salt Soaking Solution review: scent strength, dissolving speed, skin feel, and whether this 5-lb bag is worth $18."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GSGYN6VJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CmW6QJYgL._SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves completely in hot water within 2–3 minutes — no gritty residue stuck to the tub floor"
   - "Scent is noticeable but not cloying; lavender comes through clearly without smelling synthetic"
   - "Skin feels soft afterward, not stripped or dry — no need for a post-bath lotion marathon"
-cons:
+cons: 
   - "The 5-lb resealable bag is awkward to pour from one-handed; you will spill salt on the floor"
   - "Scent fades quickly in a large garden tub — need 2 cups minimum to smell anything at all"
+
 ---
 
 Let's be honest about bath salts: most are just magnesium sulfate with a few drops of fragrance oil and a marketing budget. Dr Teal's asks $18 for a 5-pound bag, which puts it at a premium over generic drugstore Epsom salt. The question is whether the upgrade is real or just packaging. After testing this across a standard bathtub and a deeper soaking tub, here's what actually matters.

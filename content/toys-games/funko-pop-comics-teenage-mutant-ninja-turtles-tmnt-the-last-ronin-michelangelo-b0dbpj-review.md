@@ -1,4 +1,5 @@
 ---
+
 title: "Funko Pop! Comics: Teenage Mutant Ninja Turtles (TMNT) The Last Ronin Michelangelo Review"
 seo_title: "Funko Pop! TMNT The Last Ronin Michelangelo Review (2026)"
 meta_description: "Honest Funko Pop! Comics TMNT The Last Ronin Michelangelo review: paint quality, sculpt detail, box condition, and if it's worth adding to your collection."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBPJCCG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mcyQ0JF0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Detailed sculpt captures the gritty Last Ronin aesthetic, not a lazy repaint"
   - "Sturdy box with clear window — arrives mint for in-box collectors"
   - "Weathered paint apps on the shell and bandana add genuine depth"
-cons:
+cons: 
   - "Head is slightly oversized even for Funko proportions — display angle matters"
   - "No chase variant or glow-in-the-dark option for completionists"
+
 ---
 
 Let’s be blunt: most Funko Pop! releases are the same mold with a new paint job. The Last Ronin Michelangelo isn’t that. This one actually earns its shelf space.

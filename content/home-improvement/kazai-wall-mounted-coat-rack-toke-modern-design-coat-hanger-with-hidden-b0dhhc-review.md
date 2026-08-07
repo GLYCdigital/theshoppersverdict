@@ -1,4 +1,5 @@
 ---
+
 title: "Kazai Wall-Mounted Coat Rack 'Toke' | Modern Design Coat Han"
 seo_title: "Kazai Wall-Mounted Coat Rack 'Toke' | Modern Desig Review"
 meta_description: "Our full kazai wall-mounted coat rack 'toke' | modern design coat han review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHHCYRFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jTqUwqB+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most entryway coat racks scream for attention. They jut out into your hallway, snag your sleeves, and collect dust on their exposed rails. The Kazai 'Toke' takes the opposite approach—it hides its function entirely. What looks like a sleek floating shelf is actually a triple-hook system that keeps coats, bags, and umbrellas tucked neatly against the wall. It's a clever illusion, but does the design hold up under daily use? After digging into the specs, user feedback, and the physical constraints of installing it, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sceptre 22-Inch Screen LED-Lit Monitor"
 seo_title: "Sceptre 22-Inch Screen LED-Lit Monitor Review: Verdict | "
 meta_description: "Our full sceptre 22-inch screen led-lit monitor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00WMWYUN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lk0-zrhsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: when you search "cheap monitor" on Amazon, you're rolling dice. Some budget panels look like they were fished out of a 2008 office liquidation sale. The Sceptre 22-inch LED-lit monitor, however, has quietly racked up 225 ratings at a 4.5-star average — and after digging into what buyers actually say, it's clear this isn't just another disposable display.

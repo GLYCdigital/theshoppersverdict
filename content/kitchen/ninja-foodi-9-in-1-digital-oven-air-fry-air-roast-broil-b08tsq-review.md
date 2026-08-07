@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Foodi 9-in-1 Digital Oven Air Fry, Air Roast/ Broil, B"
 seo_title: "Ninja Foodi 9-in-1 Digital Oven Air Fry, Air Roast Review"
 meta_description: "Our full ninja foodi 9-in-1 digital oven air fry, air roast/ broil, b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08TSQ3ML9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GrezWrsBL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Ninja Foodi 9-in-1 is the countertop oven that makes your full-size range feel obsolete — but only if you actually use more than the air fry button.**

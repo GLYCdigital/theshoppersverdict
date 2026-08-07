@@ -1,7 +1,8 @@
 ---
-title: "SUNEE Spiral Notebooks, 1-Subject, College Ruled Paper, 8\" x"
+
+title: "SUNEE Spiral Notebooks, 1-Subject, College Ruled Paper, 8\ x"
 seo_title: "SUNEE Spiral Notebooks, 1-Subject, College Ruled P Review"
-meta_description: "Our full sunee spiral notebooks, 1-subject, college ruled paper, 8\" x review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full sunee spiral notebooks, 1-subject, college ruled paper, 8\ x review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sunee-spiral-notebooks-1-subject-college-ruled-paper-8-x-10-1-b0fhw4-review"
 image_alt: "SUNEE Spiral Notebooks, 1-Subject, College Ruled Paper, 8 x 10-1/2, 70 Sheets per Notebook, Assorted Pastel Colors Spira"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FHW47QT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718M7pKnCoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most spiral notebooks are disposable junk you buy in August and hate by October. The SUNEE 1-Subject College Ruled notebook isn't that. With a 4.7-star average across 235 ratings, this is the rare budget notebook that actually respects your penmanship.

@@ -1,4 +1,5 @@
 ---
+
 title: "RooTrimmer Plant Trays and Pots"
 seo_title: "RooTrimmer Plant Trays and Pots Review: Verdict | TSV"
 meta_description: "Our full rootrimmer plant trays and pots review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F8BD3SD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QcI6I+ZDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most plant trays are flimsy pieces of disposable plastic that crack by the second season. The RooTrimmer set aims to be the exception. With 235 ratings averaging 4.7 stars, it’s clearly doing something right — but is it worth your money? After digging through the specs and real buyer feedback, here’s the honest breakdown.

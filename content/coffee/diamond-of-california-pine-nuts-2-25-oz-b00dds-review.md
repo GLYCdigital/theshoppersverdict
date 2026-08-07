@@ -1,4 +1,5 @@
 ---
+
 title: "Diamond of California Pine Nuts, 2.25 oz"
 seo_title: "Diamond of California Pine Nuts Review: Worth It? (2026)"
 meta_description: "Diamond of California Pine Nuts 2.25 oz review: flavor, freshness, and value. See real buyer feedback and whether these pine nuts are worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00DDSDKPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oot6esaeL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently fresh, sweet flavor with no rancid or bitter batches reported"
   - "Resealable stand-up pouch actually keeps nuts fresh for weeks if stored properly"
   - "Reliable size for pesto — one bag matches most standard recipes"
-cons:
+cons: 
   - "2.25 oz is a small amount for the price; pine nuts are inherently expensive"
   - "Some buyers received bags with broken pieces rather than whole nuts"
   - "No roasting — these are raw, so you'll need to toast them yourself for maximum flavor"
+
 ---
 
 ## The $12 Problem That's Actually Worth Solving

@@ -1,4 +1,5 @@
 ---
+
 title: "CONAIR Foldable Led Indicator Handheld Corded Electric 1875 inch"
 seo_title: "CONAIR Foldable LED Hair Dryer Review (2026): Is It Worth It?"
 meta_description: "CONAIR Foldable LED Indicator 1875W hair dryer review: performance, heat settings, noise, and value. See if this corded dryer suits your hair type."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZTQGLWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G-5WlUFWL._SL1500_.jpg"
-pros:
+pros: 
   - "Foldable handle with a secure locking hinge — packs flat for travel without compromising grip during use"
   - "LED indicator ring glows in three colors (blue/cool, purple/warm, red/hot) so you always know which heat setting is active"
   - "1875W motor delivers genuinely fast drying for the price point — most users report 5-7 minute dry times on medium-length hair"
-cons:
+cons: 
   - "No diffuser or concentrator nozzle included — you'll need to buy attachments separately if you have curly or precision-styling needs"
   - "Cord is a fixed 6 feet — shorter than many competitors, which limits reach from outlets in older bathrooms"
   - "Fan speed and heat are locked to a single toggle — you can't independently adjust airflow vs. temperature for fine hair"
+
 ---
 
 Let's be blunt: most hair dryers under $30 are either loud, weak, or both. The CONAIR Foldable LED Indicator 1875W sits in that budget tier, yet it's pulling a 4.4-star average from 220+ buyers. That's not an accident. Here's what's actually going on with this dryer, and who should—and shouldn't—buy it.

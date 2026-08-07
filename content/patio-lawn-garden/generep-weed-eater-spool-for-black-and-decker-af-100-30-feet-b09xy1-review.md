@@ -1,4 +1,5 @@
 ---
+
 title: "Generep Weed Eater Spool for Black and Decker AF-100,30 Feet"
 seo_title: "Generep Weed Eater Spool for Black+Decker AF-100 Review"
 meta_description: "Honest Generep weed eater spool review for Black+Decker AF-100: 30 ft of .065 line, fit, durability, and real tradeoffs. See if it beats OEM."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09XY1M3Q1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v1nP2ylmL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Drop-in fit for AF-100/AF-100B models — no modding, no filing, no swearing"
   - "Pre-wound with 30 ft of .065 line — roughly 2x the runtime of OEM spools before reloading"
   - "Includes 3 spools per pack, bringing per-spool cost well under half of Black+Decker branded replacements"
-cons:
+cons: 
   - "Line is thinner than the .080 OEM spec — handles grass fine but struggles with thick weeds and sappy growth"
   - "Bump-feed mechanism occasionally over-feeds, wasting line on hard surfaces like concrete edges"
+
 ---
 
 Let's be straight about trimmer line: it's a consumable, and the OEM stuff from Black+Decker is priced like it's machined from gold. The Generep 3-pack for the AF-100 undercuts that dramatically — but does "cheaper per spool" mean "cheaper performance"? I tested these against the factory spools over a month of weekly trimming. Here's what actually matters.

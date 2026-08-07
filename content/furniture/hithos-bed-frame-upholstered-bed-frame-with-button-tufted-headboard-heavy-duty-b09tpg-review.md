@@ -1,4 +1,5 @@
 ---
+
 title: "HITHOS Bed Frame, Upholstered Bed Frame with Button Tufted H"
 seo_title: "HITHOS Bed Frame, Upholstered Bed Frame with Butto Review"
 meta_description: "Our full hithos bed frame, upholstered bed frame with button tufted h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09TPGQLMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bQzNLH6RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HITHOS Bed Frame Review: Does the Button-Tufted Headboard Deliver?

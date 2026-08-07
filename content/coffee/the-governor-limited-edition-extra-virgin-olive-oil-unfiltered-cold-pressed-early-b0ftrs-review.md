@@ -1,4 +1,5 @@
 ---
+
 title: "The Governor Limited Edition Extra Virgin Olive Oil - Unfilt"
 seo_title: "The Governor Limited Edition Extra Virgin Olive Oi Review"
 meta_description: "Our full the governor limited edition extra virgin olive oil - unfilt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTRS4K11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QPlMg0MHL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

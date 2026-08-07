@@ -1,4 +1,5 @@
 ---
+
 title: "Chef-mate Canned Food"
 seo_title: "Chef-mate Canned Food Review: Is It Worth It? (2026)"
 meta_description: "Chef-mate canned food review: real buyer feedback, ingredient quality, and value. See if this pantry staple earns its 4.5-star rating before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVZ2TSKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dwsZDjIML._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent texture and flavor across multiple batches — rare for canned food"
   - "No artificial preservatives or fillers; clean ingredient label"
   - "Convenient single-serve sizing that actually fits in standard cup holders"
-cons:
+cons: 
   - "Sodium content runs higher than fresh equivalents — check labels if you're watching intake"
   - "Limited flavor variety compared to refrigerated competitors"
   - "Price per ounce is steeper than bulk canned options at warehouse clubs"
+
 ---
 
 **Review Body:**

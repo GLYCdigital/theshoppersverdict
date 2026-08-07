@@ -1,4 +1,5 @@
 ---
+
 title: "VANoopee 5-Color LED Track Lighting Heads H Type Track Light"
 seo_title: "VANoopee 5-Color LED Track Lighting Heads H Type T Review"
 meta_description: "Our full vanoopee 5-color led track lighting heads h type track light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C2CJN86S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EMMGIusdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Five colors, one track head — but is it actually useful?

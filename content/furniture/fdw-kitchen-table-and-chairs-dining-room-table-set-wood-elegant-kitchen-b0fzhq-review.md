@@ -1,4 +1,5 @@
 ---
+
 title: "FDW Kitchen Table and Chairs Dining Room Table Set,Wood Eleg"
 seo_title: "FDW Kitchen Table and Chairs Set Review: Wood Eleg (2026)"
 meta_description: "FDW Wood Eleg kitchen table and chairs set review: real buyer feedback, build quality, assembly, sizing, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FZHQR3X3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jSjZPt+pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid engineered wood tabletop with a smooth, easy-clean finish that holds up to daily meals"
   - "Chairs arrive fully assembled — only the table legs need attaching, cutting setup time to under 30 minutes"
   - "Compact footprint fits snugly in apartments and eat-in kitchens without feeling cramped"
-cons:
+cons: 
   - "Upholstered seats are on the firm side; extended sitting sessions can get uncomfortable"
   - "Table wobbles slightly on uneven floors unless you use the included floor levelers"
+
 ---
 
 ## The $300-ish dining set that punches above its price — with one catch

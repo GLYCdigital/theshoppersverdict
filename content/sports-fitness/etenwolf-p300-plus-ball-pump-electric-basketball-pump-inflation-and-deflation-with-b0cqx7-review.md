@@ -1,4 +1,5 @@
 ---
+
 title: "ETENWOLF P300 Plus Ball Pump, Electric Basketball Pump Infla"
 seo_title: "ETENWOLF P300 Plus Review: Best Electric Ball Pump?"
 meta_description: "ETENWOLF P300 Plus electric ball pump review: fast inflation, auto-stop, deflate mode. Real buyer feedback on reliability, battery life, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQX73LHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xQttl84KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-stop at preset PSI is accurate to within 0.5 PSI — no more over-inflating balls in the middle of a game"
   - "Built-in deflate valve works fast, dropping a basketball from 8 PSI to flat in under 20 seconds"
   - "USB-C charging means you're not hunting for a proprietary cable when the battery dies"
-cons:
+cons: 
   - "Nozzle is a bit short for deep valve stems on some soccer balls — you'll need to push firmly to get a good seal"
   - "Battery indicator only has three lights, so you can't tell if you're at 40% or 60% remaining"
+
 ---
 
 The ETENWOLF P300 Plus is the kind of product that makes you wonder why you ever wrestled with a hand pump in a parking lot before a game. It's a compact, rechargeable electric pump that handles inflation and deflation for basketballs, soccer balls, volleyballs, and footballs with a digital pressure readout and auto-stop function. At 4.6 stars across 229 ratings, it's clearly doing something right — but let's dig into whether it's worth your money.

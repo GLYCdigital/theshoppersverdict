@@ -1,4 +1,5 @@
 ---
+
 title: "Omega-3 Fish Oil for Dogs and Cats - Better Than Salmon Oil "
 seo_title: "Omega-3 Fish Oil for Dogs and Cats - Better Than S Review"
 meta_description: "Our full omega-3 fish oil for dogs and cats - better than salmon oil  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZN6Y1Q2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ugz-+gvfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** This isn't your average salmon oil. It's a molecularly distilled fish oil (typically anchovy, sardine, and mackerel) that delivers *actual* EPA and DHA — the omega-3s that matter for joints, skin, and heart health. Most salmon oils on Amazon are low in DHA and high in Omega-6. This one flips that. At 4.4 stars from 220 ratings, it's solid but not perfect.

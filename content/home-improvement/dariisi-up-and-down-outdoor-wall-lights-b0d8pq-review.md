@@ -1,4 +1,5 @@
 ---
+
 title: "DARIISI Up and Down Outdoor Wall Lights"
 seo_title: "DARIISI Up and Down Outdoor Wall Lights Review (2026)"
 meta_description: "Honest DARIISI up and down outdoor wall lights review: build quality, brightness, installation, and real buyer feedback. See if they're worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8PQNH73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cnBINYTyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with anti-rust finish — holds up in coastal and humid climates"
   - "Warm 3000K light output creates a dramatic architectural wash without harsh glare"
   - "Tool-free access to the E26 socket — swapping bulbs takes under 30 seconds"
-cons:
+cons: 
   - "Bulbs not included — factor in the cost of two quality LED bulbs per fixture"
   - "Mounting plate is thinner than the housing — take care not to overtighten screws"
   - "The motion-sensor version resets to default settings after power outages"
+
 ---
 
 **The short version:** These DARIISI wall sconces deliver a high-end architectural lighting effect for a fraction of custom lighting costs. At 4.4 stars from 220 ratings, they're not perfect — but for the price, the visual payoff is genuinely impressive.

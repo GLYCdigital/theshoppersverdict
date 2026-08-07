@@ -1,4 +1,5 @@
 ---
+
 title: "AMERISUN Lawn Mower 003 inch"
 seo_title: "AMERISUN Lawn Mower 003 Review: Honest Look at the 3.7-Star Mower"
 meta_description: "AMERISUN Lawn Mower 003 review: Real performance data, buyer complaints, and who should buy. 185 ratings at 3.7 stars—get the facts before you buy."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GVYGWMVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Lightweight aluminum deck (roughly 35 lbs) makes it genuinely easy to push and maneuver on flat ground"
   - "Cuts cleanly on grass up to 3 inches tall when the blade is kept sharp—no tearing or ragged edges"
   - "Folds flat for storage in under 30 seconds; fits upright in a 2-foot-wide gap between shelves"
-cons:
+cons: 
   - "Plastic wheel hubs are the first failure point—multiple buyers report cracks within 10–15 uses on uneven terrain"
   - "Cutting height adjustment requires a wrench and feels flimsy; the lever bends if you force it"
   - "No grass catcher included despite product images showing one—separate $25 purchase required"
+
 ---
 
 The AMERISUN Lawn Mower 003 sits in that awkward middle ground: affordable enough to tempt you, rated poorly enough to make you pause. With 185 Amazon ratings averaging 3.7 stars, the real question isn't whether it works—it's whether it works *for your specific yard*. Here's what I found digging through the specs, the praise, and the complaints.

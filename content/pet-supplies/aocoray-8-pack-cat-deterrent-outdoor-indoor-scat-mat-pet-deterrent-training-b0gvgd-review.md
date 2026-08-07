@@ -1,34 +1,36 @@
 ---
 
-**seo_title:** "Aocoray Scat Mat Review: 8-Pack Cat Deterrent That Works"
 
-**meta_description:** "Honest Aocoray 8-pack scat mat review: does this indoor/outdoor cat deterrent actually stop scratching and digging? Tested pros, cons, and verdict."
+seo_title: "Aocoray Scat Mat Review: 8-Pack Cat Deterrent That Works"
 
-**image_alt:** "Aocoray 8-pack cat deterrent scat mats laid out on grass with flexible plastic spikes visible"
+meta_description: "Honest Aocoray 8-pack scat mat review: does this indoor/outdoor cat deterrent actually stop scratching and digging? Tested pros, cons, and verdict."
 
-**verdict_score:** 4.2
+image_alt: "Aocoray 8-pack cat deterrent scat mats laid out on grass with flexible plastic spikes visible"
 
-**date:** 2026-08-06
+verdict_score: 4.2
 
-**price:** null
+date: 2026-08-06
 
-**review_count:** 200
+price: null
 
-**amazon_rating:** 4.0
+review_count: 200
 
-**amazon_url:** "https://www.amazon.com/dp/B0GVGDB51S/?tag=tsvglyc-20"
+amazon_rating: 4.0
 
-**amazon_image:** "https://m.media-amazon.com/images/I/71AYZATsj5L._AC_SL1454_.jpg"
+amazon_url: "https://www.amazon.com/dp/B0GVGDB51S/?tag=tsvglyc-20"
 
-**pros:**
+amazon_image: "https://m.media-amazon.com/images/I/71AYZATsj5L._AC_SL1454_.jpg"
+
+pros: 
 - 8 mats cover roughly 16 square feet — enough for multiple problem zones without buying two packs
 - Flexible PVC spikes that don't snag fur or harm paws — just annoy, which is exactly the point
 - Works double-duty: outdoor garden protection and indoor furniture/surface training
 
-**cons:**
+cons: 
 - Spikes flatten permanently if heavy furniture or a 20+ lb pet sits on them for extended periods
 - No adhesive backing included — mats slide on smooth floors unless you tape or weigh them down
 - Scent-free design means some determined cats will eventually test the boundaries and may push through
+
 
 ---
 **The Real Story on the Aocoray Scat Mat**

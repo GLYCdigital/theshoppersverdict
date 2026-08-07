@@ -1,4 +1,5 @@
 ---
+
 title: "Konlite - Full-Cutoff LED Wall Pack, Selectable Wattage & CC"
 seo_title: "Konlite - Full-Cutoff LED Wall Pack, Selectable Wa Review"
 meta_description: "Our full konlite - full-cutoff led wall pack, selectable wattage & cc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D6WKMWWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BJEwPtatL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever installed a wall pack only to realize the color temperature is a cold, alien blue when you wanted warm, or the light blasts upward into your neighbor's bedroom window, you know the pain. The Konlite Full-Cutoff LED Wall Pack aims to end that frustration with a simple, practical design — and for the most part, it delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Faucet Full and Extended Sets"
 seo_title: "Faucet Full and Extended Sets Review: Worth It? (2026)"
 meta_description: "Honest Faucet Full and Extended Sets review: build quality, fit, real buyer feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DLLKCDP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813s0kggsjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Includes both standard and extended-length supply lines (typically 12 inch " and 20 inch ") so you can handle most rough-in depths without a second trip to the hardware store
   - "Braided stainless steel construction on the supply lines resists kinking and corrosion better than bare rubber hoses"
   - Universal 3/8 inch " compression fittings and 1/2 inch " IPS adapters cover the vast majority of US sink and faucet connections
-cons:
+cons: 
   - "Gasket quality is inconsistent — several buyers report the included rubber washers degrading or splitting within the first year"
   - "No Teflon tape or thread sealant included in the box, which is a minor annoyance for a 'full set' marketed as installation-ready"
+
 ---
 
 If you've ever stood under a sink with a supply line that's two inches too short, you know the drill: another trip to the hardware store, another $8 for a single hose, another hour of your Saturday gone. The Faucet Full and Extended Sets — listed on Amazon as B0DLLKCDP6 — tries to eliminate that trip by bundling both standard and extended-length lines in one package. At 4.3 stars from 215 ratings, it's clearly helping a lot of DIYers. But is it the kit you want under your sink for the next decade?

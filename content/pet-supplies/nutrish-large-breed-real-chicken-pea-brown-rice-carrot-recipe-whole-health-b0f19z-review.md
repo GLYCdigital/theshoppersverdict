@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrish Large Breed Real Chicken, Pea, Brown Rice & Carrot R"
 seo_title: "Nutrish Large Breed Real Chicken, Pea, Brown Rice  Review"
 meta_description: "Our full nutrish large breed real chicken, pea, brown rice & carrot r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F19ZNX6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b+l2M3DiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a 90-pound Labrador who acts like a hoover, you already know the drill: large-breed food isn't just about portion size. It's about kibble geometry, protein quality, and whether your dog actually digests what you're paying for. The Nutrish Large Breed Real Chicken recipe claims to hit those marks without the boutique price tag. Here's what I found after digging through the ingredient panel, buyer feedback, and the fine print.

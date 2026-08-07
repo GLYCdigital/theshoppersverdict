@@ -1,4 +1,5 @@
 ---
+
 title: "Retro Sours | Hard Tangy Candy | Brought To You By Iconic Ca"
 seo_title: "Retro Sours | Hard Tangy Candy | Brought To You By Review"
 meta_description: "Our full retro sours | hard tangy candy | brought to you by iconic ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGNKF64L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R6pz24EYL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested dozens of "retro" candies that trade on nostalgia but deliver nothing but sugar dust and disappointment. Retro Sours from Iconic Candy isn't that. This is a hard candy that actually commits to its name.

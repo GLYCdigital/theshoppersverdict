@@ -1,4 +1,5 @@
 ---
+
 title: "KEMA Jute Braided Area Rug, Rustic Vintage Braided Reversibl"
 seo_title: "KEMA Jute Braided Area Rug, Rustic Vintage Braided Review"
 meta_description: "Our full kema jute braided area rug, rustic vintage braided reversibl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCG72B39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916+GW5-HTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past a dozen machine-made rugs that all look like they came from the same factory, the KEMA Jute Braided Area Rug is a different animal entirely. It's the kind of rug that makes a room feel like it has a history — even if you just pulled it out of a box. At 4.6 stars across 229 ratings, it's not a perfect product, but it's a genuinely good one for the right buyer. Here's the real story.

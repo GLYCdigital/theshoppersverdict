@@ -1,4 +1,5 @@
 ---
+
 title: "Makita MAC320Q Quiet Series 1-1/2 HP, 3 Gallon, Oil-Free, El"
 seo_title: "Makita MAC320Q Quiet Series 1-1/2 HP, 3 Gallon, Oi Review"
 meta_description: "Our full makita mac320q quiet series 1-1/2 hp, 3 gallon, oil-free, el review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084LZPF49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ysr7cxYpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Makita MAC320Q: The Quiet Compressor That Respects Your Ears

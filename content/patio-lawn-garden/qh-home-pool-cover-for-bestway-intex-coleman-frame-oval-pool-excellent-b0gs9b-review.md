@@ -1,4 +1,5 @@
 ---
+
 title: "QH.HOME Pool Cover for Bestway/Intex/Coleman Frame Oval Pool"
 seo_title: "QH.HOME Pool Cover for Bestway/Intex/Coleman Frame Review"
 meta_description: "Our full qh.home pool cover for bestway/intex/coleman frame oval pool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS9B3GF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D9zF9mX-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

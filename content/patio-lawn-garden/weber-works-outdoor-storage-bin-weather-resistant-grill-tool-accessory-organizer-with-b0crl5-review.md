@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Works Outdoor Storage Bin â€“ Weatherâ€‘Resistant Gril"
 seo_title: "Weber Works Outdoor Storage Bin â€“ Weatherâ€‘Resi Review"
 meta_description: "Our full weber works outdoor storage bin â€“ weatherâ€‘resistant gril review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRL5B7V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wjM5v0QML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Weber Works Outdoor Storage Bin** solves a problem every griller knows: the pile of tongs, spatulas, charcoal bags, and chimney starters that never seems to have a home. With a 4.5-star average across 225 Amazon ratings, it's clearly connecting with buyers. But is it worth your patio space? Here's what you actually need to know.

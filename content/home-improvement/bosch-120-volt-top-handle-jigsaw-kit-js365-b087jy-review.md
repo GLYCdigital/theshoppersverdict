@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch 120-Volt Top-Handle Jigsaw Kit JS365 inch"
 seo_title: "Bosch JS365 Jigsaw Review: Top-Handle Power & Precision"
 meta_description: "Bosch JS365 top-handle jigsaw review: 7.5-Amp power, tool-free blade change, precision cutting. See pros, cons, and who should buy this 4.7-star kit."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087JYXX6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V7nN7OFIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Constant Response circuitry maintains blade speed under heavy load — no bogging down in hardwood"
   - "Tool-free blade change with lever-action chuck works with T-shank blades, swaps in under 5 seconds"
   - "4-stage orbital action dial lets you dial in cut quality vs. speed for different materials"
-cons:
+cons: 
   - "Blade guard visibility is mediocre — the transparent guard collects sawdust and obscures the cut line"
   - "No built-in LED work light, which is surprising at this price point"
   - "Carrying case is decent but bulky; doesn't fit neatly into a standard toolbox drawer"
+
 ---
 
 The Bosch JS365 isn't the flashiest jigsaw on the shelf. No LED light. No fancy dust blower. But after 235 Amazon reviewers gave it 4.7 stars, there's clearly something right here. The short version: this is a professional-grade cutting tool that prioritizes performance over gimmicks. If you need clean, accurate curves in wood, laminate, or metal, this deserves a hard look.

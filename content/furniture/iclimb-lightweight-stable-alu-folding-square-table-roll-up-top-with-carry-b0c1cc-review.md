@@ -1,4 +1,5 @@
 ---
+
 title: "iClimb Lightweight Stable Alu. Folding Square Table Roll Up "
 seo_title: "iClimb Lightweight Stable Alu. Folding Square Tabl Review"
 meta_description: "Our full iclimb lightweight stable alu. folding square table roll up  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1CCR3MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61is+vfvmxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a bulky folding table at a campsite or tailgate, you already know the problem: they're heavy, awkward to carry, and take up half your trunk. The iClimb Lightweight Stable Alu. Folding Square Table Roll Up takes a different approach — instead of folding, it rolls. That simple design choice makes this one of the most packable tables I've tested in this category, and with 235 Amazon ratings averaging 4.7 stars, I'm not alone in that assessment.

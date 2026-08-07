@@ -1,4 +1,5 @@
 ---
+
 title: "Lightbiz LED Wall Mounted Lights 2 Pcs with Remote, Wall Sco"
 seo_title: "Lightbiz LED Wall Mounted Lights 2 Pcs with Remote Review"
 meta_description: "Our full lightbiz led wall mounted lights 2 pcs with remote, wall sco review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0C3B4R4WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614NdSLxvVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lightbiz LED Wall Mounted Lights: A Decent Sconce Set With a Catch

@@ -1,4 +1,5 @@
 ---
+
 title: "DWANTON Dog Crate Furniture with Cushion, Wooden Dog Crate w"
 seo_title: "DWANTON Dog Crate Furniture Review: Wooden Double-Door Crate"
 meta_description: "Honest DWANTON dog crate furniture review: build quality, sizing, cushion comfort, and real owner feedback. Is this wooden double-door crate worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZ9CC2R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m6PnpBbnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid MDF construction with a protective finish that resists scratches and is easy to wipe clean"
   - "Double-door design — side entry for everyday use, front door for when you need full crate access"
   - "Included cushion is thicker than most bundled crate pads (about 2 inches) and has a removable, washable cover"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes with ~20 screws; holes occasionally misalign on the side panels"
   - "No ventilation gaps on the back panel — airflow is limited to the front and side door openings"
   - "The included cushion fits snugly but not anchored; some dogs will push it around before settling"
+
 ---
 
 If you're tired of looking at an ugly wire cage in your living room, the DWANTON Dog Crate Furniture is the kind of product that makes you wonder why you didn't switch sooner. It's a wooden crate cabinet that actually looks like a piece of furniture — because it is one. But before you drop your money, let's talk about what you're really getting.

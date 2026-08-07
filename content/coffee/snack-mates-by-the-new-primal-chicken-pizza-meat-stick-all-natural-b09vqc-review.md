@@ -1,4 +1,5 @@
 ---
+
 title: "Snack Mates by The New Primal, Chicken Pizza Meat Stick, All"
 seo_title: "Snack Mates by The New Primal, Chicken Pizza Meat  Review"
 meta_description: "Our full snack mates by the new primal, chicken pizza meat stick, all review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09VQCFLBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YgAfYKsYL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most meat snacks marketed as "better for you" are just expensive beef sticks with a virtue-signaling label. The New Primal's Snack Mates Chicken Pizza version is different — but not in the ways you'd expect.

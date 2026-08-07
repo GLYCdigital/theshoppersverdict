@@ -1,4 +1,5 @@
 ---
+
 title: "KOLET 4 in Square and Round Ball Bearing Door Hinge"
 seo_title: "KOLET 4 in Square and Round Ball Bearing Door Hing Review"
 meta_description: "Our full kolet 4 in square and round ball bearing door hinge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F92JFVLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81T-+gsIB+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a sagging interior door that scrapes the frame, you already know why hinges matter more than most people think. The KOLET 4-inch ball bearing hinge is aimed squarely at homeowners who want commercial-grade performance without the commercial-grade markup. At 4.7 stars across 235 ratings, it's clearly doing something right. Here's what that something is.

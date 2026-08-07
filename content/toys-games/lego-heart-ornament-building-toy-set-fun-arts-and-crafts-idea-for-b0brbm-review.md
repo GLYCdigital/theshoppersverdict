@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Heart Ornament Building Toy Set - Fun Arts and Crafts I"
 seo_title: "LEGO Heart Ornament Building Toy Set - Fun Arts an Review"
 meta_description: "Our full lego heart ornament building toy set - fun arts and crafts i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BRBMNN93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816191cAjDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what this is: the LEGO Heart Ornament is not a build that will challenge anyone past elementary school. It's a craft project disguised as a LEGO set, and once you accept that framing, it's genuinely charming. 

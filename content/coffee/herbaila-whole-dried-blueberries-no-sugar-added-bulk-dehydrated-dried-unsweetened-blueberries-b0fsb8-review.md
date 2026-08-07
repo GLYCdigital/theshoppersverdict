@@ -1,4 +1,5 @@
 ---
+
 title: "Herbaila Whole Dried Blueberries, No Sugar Added, Bulk, Dehy"
 seo_title: "Herbaila Whole Dried Blueberries, No Sugar Added,  Review"
 meta_description: "Our full herbaila whole dried blueberries, no sugar added, bulk, dehy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSB8QX9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rXnjlIQ5S._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the dried fruit aisle confusion. Most “healthy” dried blueberries you’ll find are actually sweetened with apple juice concentrate or cane sugar — sometimes up to 30% added sugar by weight. Herbaila’s whole dried blueberries skip that entirely. The ingredient list is one word: blueberries. No oil, no sulfur dioxide, no maltodextrin. That’s the headline.

@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Water pitcher with lid and Spout"
 seo_title: "Glass Water pitcher with lid and Spout Review: Verdict | "
 meta_description: "Our full glass water pitcher with lid and spout review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CY28R6QD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516SIEr3beL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco BR30 Light Bulbs LED"
 seo_title: "Sunco BR30 Light Bulbs LED Review: Verdict | TSV"
 meta_description: "Our full sunco br30 light bulbs led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVQ42LKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DNhzR+6-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the LED aisle noise. Most BR30 bulbs under $3 a piece are a gamble — you’re rolling dice on color temperature consistency, dimmer compatibility, and whether they’ll buzz like a trapped wasp. The Sunco BR30s sit in a middle price tier, and after digging through 229 verified ratings and the technical specs, here’s the honest breakdown.

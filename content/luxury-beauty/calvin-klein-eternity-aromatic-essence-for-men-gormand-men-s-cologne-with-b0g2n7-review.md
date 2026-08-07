@@ -1,4 +1,5 @@
 ---
+
 title: "Calvin Klein Eternity Aromatic Essence for Men – Gormand M"
 seo_title: "Calvin Klein Eternity Aromatic Essence Review: Worth It?"
 meta_description: "Our honest Calvin Klein Eternity Aromatic Essence for Men review covers performance, longevity, and value. See if this gourmand scent earns its 4.4-star rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G2N7DYBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TER7WAS7L._SL1500_.jpg"
-pros:
+pros: 
   - "Complex gourmand-woody blend that transitions smoothly from sweet opening to a dry, sophisticated cedar base"
   - "Strong sillage for the price point — 2-3 sprays last 6-8 hours on skin, longer on clothing"
   - "Versatile enough for both office wear and evening occasions without being overpowering"
-cons:
+cons: 
   - "The sweet almond/tonka opening may read as too dessert-like for those who prefer purely fresh or aquatic scents"
   - "Performance drops noticeably in high heat — expect 3-4 hours max in summer humidity"
+
 ---
 
 Calvin Klein's Eternity line has been a department store staple since 1988, but the Aromatic Essence flanker takes a sharp left turn from the original's clean, soapy character. This "Gormand M" interpretation leans into something richer, darker, and frankly more interesting. At a 4.4-star average across 220 ratings, it's clearly resonating — but it's also not the safe blind-buy the Eternity name might suggest.

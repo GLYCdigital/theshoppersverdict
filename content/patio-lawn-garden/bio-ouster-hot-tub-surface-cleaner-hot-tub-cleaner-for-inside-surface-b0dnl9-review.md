@@ -1,4 +1,5 @@
 ---
+
 title: "Bio Ouster Hot Tub Surface Cleaner - Hot Tub Cleaner for Ins"
 seo_title: "Bio Ouster Hot Tub Surface Cleaner Review (2026): Does It Work?"
 meta_description: "We tested Bio Ouster Hot Tub Surface Cleaner. See how it tackles scum lines, buildup, and grime. Honest pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNL9TK44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719DRRFnT4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Non-abrasive formula safely lifts scum lines off acrylic and vinyl spa shells without scratching"
   - "Spray-and-wipe application cuts cleaning time to roughly 10 minutes for a standard 4-person tub"
   - "No harsh chlorine smell or lingering chemical residue that requires a full drain-and-refill"
-cons:
+cons: 
   - "Doesn't dissolve heavy calcium or hard water scale — you'll need a dedicated descaler for that"
   - "Spray nozzle can clog if the bottle isn't rinsed after use, per some long-term buyer reports"
+
 ---
 
 ## The Scum Line Struggle Is Real — Here's a Cleaner That Gets It

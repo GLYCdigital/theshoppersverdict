@@ -1,4 +1,5 @@
 ---
+
 title: "MOZA CS V2P Racing Wheel for PC Gaming Steering Wheel, 13 In"
 seo_title: "MOZA CS V2P Racing Wheel for PC Gaming Steering Wh Review"
 meta_description: "Our full moza cs v2p racing wheel for pc gaming steering wheel, 13 in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DHHL365D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L-RisypZL._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a standalone PC racing wheel, you already know the market splits into two camps: toy-grade plastic with springy force feedback, and serious sim hardware that demands a second mortgage. The MOZA CS V2P sits firmly in the second camp, but it's the price-to-performance math that makes it interesting. At 4.9 stars across 245 Amazon ratings, buyers are overwhelmingly satisfied — but let's dig into whether that enthusiasm is justified or just early-adopter hype.

@@ -1,4 +1,5 @@
 ---
+
 title: "SIEMENS Q230GF 30 Amp 2-Pole Ground Fault Circuit Breaker (G"
 seo_title: "SIEMENS Q230GF 30 Amp 2-Pole Ground Fault Circuit  Review"
 meta_description: "Our full siemens q230gf 30 amp 2-pole ground fault circuit breaker (g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDVLGJ9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NVDI7A0tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you're wiring a hot tub, pool equipment, or any outdoor 240V circuit, this is the breaker you want — and the one your inspector wants to see. The Q230GF is Siemens' workhorse 30-amp, 2-pole GFCI, and after digging through 229 verified ratings, the 4.6-star average holds up. But it's not plug-and-play for every panel, and there's a motor-load quirk worth knowing before you buy.

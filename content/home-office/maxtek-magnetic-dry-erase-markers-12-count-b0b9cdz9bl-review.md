@@ -1,17 +1,18 @@
 ---
+
 title: "maxtek Magnetic Dry Erase Markers — 12 Count, Fine Tip, Low Odor"
 seo_title: "maxtek Dry Erase Markers Review | The Shopper's Verdict"
 meta_description: "12 vibrant markers with magnetic caps for $6.99. Read our maxtek dry erase markers review — 4.4 stars from 12,500+ users. Low odor and great value."
 slug: "maxtek-magnetic-dry-erase-markers-12-count-b0b9cdz9bl-review"
 image_alt: "maxtek Magnetic Dry Erase Markers with Eraser - 12 count, 10 colors, fine tip, low odor"
-keywords:
+keywords: 
   - "maxtek dry erase markers review"
   - "magnetic whiteboard markers"
   - "fine tip dry erase markers"
   - "low odor whiteboard markers"
   - "best budget dry erase markers"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Do the magnetic caps really stick to the board?"
     answer: "Yes. Each cap has a small magnet embedded in the back. They stick to any magnetic whiteboard, which means you don't have to hunt for loose pens or worry about them rolling off the tray. The magnet strength is sufficient for the cap itself but not strong enough to hold additional items."
   - question: "Do these markers wipe off cleanly?"
@@ -24,14 +25,15 @@ review_count: 12591
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9CDZ9BL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ITu80rAZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic caps stick to the whiteboard surface — no lost markers, no rolling off the tray"
   - "Fine tip gives clean, readable lines — great for lists, notes, and small whiteboard writing"
   - "Low odor formula means no headache-inducing fumes during extended brainstorming sessions"
-cons:
+cons: 
   - "Red marker is closer to pink than red — noticeable weakness in an otherwise bold set"
   - "Included eraser is small — fine for quick fixes, tedious for full-board erasing"
   - "Magnet size is small and could be more robust for heavy-duty sticking"
+
 ---
 
 Here’s the thing about dry erase markers: most are either cheap and useless, or expensive and still frustrating. The maxtek Magnetic set sits in a sweet spot—12 markers for under seven bucks. But does "cheap" mean "disposable garbage"? Based on 12,591 Amazon ratings averaging 4.4 stars, the answer is more nuanced than you'd expect.

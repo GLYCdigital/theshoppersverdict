@@ -1,23 +1,25 @@
 ---
+
 title: "13 Pack Unicorn Dual Color Butter Slime Kit,Soft & Non-Stick"
 seo_title: "13 Pack Unicorn Butter Slime Kit Review: Soft, Non-Stick Fun"
 meta_description: "Honest 13 Pack Unicorn Dual Color Butter Slime Kit review: texture, value, mess factor, and who should buy it. Real buyer feedback included."
 slug: "13-pack-unicorn-dual-color-butter-slime-kit-soft-non-sticky-diy-b0cs31-review"
 image_alt: "13 pack unicorn dual color butter slime kit with pastel containers and sparkle toppings"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CS31DFM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8139lu1pnZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "13 separate 3.5-ounce containers — enough for group play or birthday party favors"  
   - "Dual-color swirl in each tub means no mixing required for a marbled look"  
   - "Butter slime base is genuinely soft and spreadable, not stiff or rubbery"  
-cons:  
+cons: 
   - "Scent is faintly chemical — not strong, but noticeable up close"  
   - "Some containers arrived slightly underfilled per recent buyer reports"
+
 ---
 
 # 13 Pack Unicorn Dual Color Butter Slime Kit Review: Is It Worth Your Money?

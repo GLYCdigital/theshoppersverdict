@@ -1,7 +1,8 @@
 ---
-title: "Multi-Fuel Pizza Oven Outdoor, 12\" Portable Wood and Gas Fir"
-seo_title: "Multi-Fuel Pizza Oven Outdoor, 12\" Portable Wood a Review"
-meta_description: "Our full multi-fuel pizza oven outdoor, 12\" portable wood and gas fir review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Multi-Fuel Pizza Oven Outdoor, 12\ Portable Wood and Gas Fir"
+seo_title: "Multi-Fuel Pizza Oven Outdoor, 12\ Portable Wood a Review"
+meta_description: "Our full multi-fuel pizza oven outdoor, 12\ portable wood and gas fir review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "multi-fuel-pizza-oven-outdoor-12-portable-wood-and-gas-fired-pizza-b0dhvh-review"
 image_alt: "Multi-Fuel Pizza Oven Outdoor, 12 Portable Wood and Gas Fired Pizza Oven with Thermometer,Gas Hose & Pizza Stone,Heats u"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHVHPD1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KzFIfdjlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the 12-inch multi-fuel pizza oven market: there are a lot of $99 gas-only boxes that make decent flatbread, and there are serious wood-fired beasts that cost four figures. This one sits in the middle — and that's exactly where most people actually want to be. Let's break down whether the compromise works.

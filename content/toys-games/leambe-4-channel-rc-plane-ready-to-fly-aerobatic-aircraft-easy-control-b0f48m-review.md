@@ -1,4 +1,5 @@
 ---
+
 title: "LEAMBE 4 Channel RC Plane - Ready to Fly Aerobatic Aircraft,"
 seo_title: "LEAMBE 4 Channel RC Plane - Ready to Fly Aerobatic Review"
 meta_description: "Our full leambe 4 channel rc plane - ready to fly aerobatic aircraft, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F48MSVTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7171qZpq9mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The LEAMBE 4 Channel RC Plane promises aerobatic capability at a price point that makes you wonder what's compromised. After digging into 204 buyer experiences and the hardware specs, here's what actually matters.

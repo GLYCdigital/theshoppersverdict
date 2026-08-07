@@ -1,4 +1,5 @@
 ---
+
 title: "Pacifica Pineapple Curls Refresher Mist - Curl Refresher Spr"
 seo_title: "Pacifica Pineapple Curls Refresher Mist - Curl Ref Review"
 meta_description: "Our full pacifica pineapple curls refresher mist - curl refresher spr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHGHXFMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C59e-9S8L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $12 curl refresher that actually does something — most don't**

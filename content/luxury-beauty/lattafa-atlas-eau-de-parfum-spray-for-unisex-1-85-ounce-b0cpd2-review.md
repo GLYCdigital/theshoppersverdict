@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Atlas Eau de Parfum Spray for Unisex, 1.85 Ounce"
 seo_title: "Lattafa Atlas Eau de Parfum Spray for Unisex, 1.85 Review"
 meta_description: "Our full lattafa atlas eau de parfum spray for unisex, 1.85 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPD2T5RK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I4UPiKbZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lattafa Atlas Eau de Parfum Spray: The Aquatic Beast That Demands Respect

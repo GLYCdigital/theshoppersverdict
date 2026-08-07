@@ -1,4 +1,5 @@
 ---
+
 title: "Dongar Dash Cam Power Adapter (12-pin Type A) - Compatible w"
 seo_title: "Dongar 12-Pin Dash Cam Adapter Review: Clean Install"
 meta_description: "Dongar 12-pin Type A dash cam power adapter review: hidden wiring, no cigarette lighter clutter. See if it fits your vehicle and if it's worth it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DMW3DML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nW0dPpUNL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Taps into existing rearview mirror harness — zero wire splicing or fuse tapping required"
   - "Turns on/off with ignition, no parasitic drain on your battery when parked"
   - "Compact 5V/2A output is enough to power virtually any dash cam on the market"
-cons:
+cons: 
   - "Only fits vehicles with the specific 12-pin mirror connector — compatibility check is mandatory before buying"
   - "Cable length (roughly 12 inches) may be short for cameras mounted low on the windshield"
   - "No USB-C option — uses a standard micro-USB or mini-USB pigtail depending on version"
+
 ---
 
 If you've ever run a dash cam power cable down your A-pillar, under the dash, and into the cigarette lighter, you know the pain: visible wires, loose trim clips, and that one rattle that never goes away. The Dongar 12-pin Type A adapter eliminates that entire hassle by pulling power straight from your rearview mirror's existing harness. It's the cleanest install you'll do this year — provided your vehicle is on the compatibility list.

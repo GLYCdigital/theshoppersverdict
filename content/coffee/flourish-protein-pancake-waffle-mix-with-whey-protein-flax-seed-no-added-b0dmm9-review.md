@@ -1,4 +1,5 @@
 ---
+
 title: "Flourish Protein Pancake & Waffle Mix, with Whey Protein & F"
 seo_title: "Flourish Protein Pancake Mix Review: Worth It? (2026)"
 meta_description: "Flourish Protein Pancake & Waffle Mix review: macros, taste, texture, and value. See if this whey protein blend delivers or disappoints."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMM96WTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zn7oolIPL._SL1500_.jpg"
-pros:
+pros: 
   - "20g protein per serving with a clean whey isolate blend that actually mixes smooth — no chalky grit"
   - "Flax seed adds a subtle nutty depth and 4g fiber, which helps the texture stay moist rather than rubbery"
   - "Works equally well as pancakes or waffles without needing added oil — the batter is forgiving"
-cons:
+cons: 
   - "Price per serving runs noticeably higher than standard pancake mixes — you're paying for the protein premium"
   - "The flavor leans mildly sweet but has a faint stevia aftertaste that some palates will notice"
   - "Mix can clump if you don't whisk thoroughly — a fork won't cut it, you need a proper whisk or blender"
+
 ---
 
 Let me be blunt: most protein pancake mixes taste like cardboard dust dressed up with fake sugar. The Flourish Protein Pancake & Waffle Mix isn't that. It's also not a magic breakfast that tastes exactly like IHOP — but it's genuinely close, and for the macros, that's worth something.

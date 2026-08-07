@@ -1,4 +1,5 @@
 ---
+
 title: "WLIVE Wood Night Stand with 3 Drawers"
 seo_title: "WLIVE Wood Night Stand with 3 Drawers Review: Verdict | T"
 meta_description: "Our full wlive wood night stand with 3 drawers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZCQF25L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RsOSZhJoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the listing photos and give you the real story on this WLIVE night stand, because 4.5 stars across 225 ratings tells you it's popular — but not *why*.

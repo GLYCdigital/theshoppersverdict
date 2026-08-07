@@ -1,4 +1,5 @@
 ---
+
 title: "HXBOAUVS Night Stand White"
 seo_title: "HXBOAUVS Night Stand White Review: Verdict | TSV"
 meta_description: "Our full hxboauvs night stand white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4X89SWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S7kMW+FkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped for a white nightstand lately, you know the market is flooded with flimsy particleboard boxes that wobble the first time you lean on them. The HXBOAUVS Night Stand White is not that. With a 4.7-star average across 235 ratings, this one earns its place next to your bed — but not without a couple of caveats worth knowing before you click buy.

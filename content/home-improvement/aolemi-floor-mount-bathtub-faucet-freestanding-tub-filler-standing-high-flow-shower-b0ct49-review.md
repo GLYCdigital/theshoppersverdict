@@ -1,4 +1,5 @@
 ---
+
 title: "Aolemi Floor Mount Bathtub Faucet Freestanding Tub Filler St"
 seo_title: "Aolemi Floor Mount Tub Filler Review: High-Flow & Solid"
 meta_description: "Read our honest Aolemi floor mount bathtub faucet review. Covers build quality, flow rate, installation, and fit for freestanding tubs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CT497V9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517o5NrchwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a heavy, premium feel that resists wobble once mounted"
   - "High-flow spout fills a standard tub in under 3 minutes — no trickle effect"
   - "Includes both a hand shower and a diverter, adding real utility beyond basic fillers"
-cons:
+cons: 
   - "Floor flange screws are exposed and can loosen over time if not thread-locked — plan for maintenance"
   - "No shut-off valve on the unit itself; you'll need to install one in the supply line for easy service"
   - "Hand shower hose is 59 inches — adequate but not generous for larger soaking tubs"
+
 ---
 
 **The Aolemi Floor Mount Bathtub Faucet isn't the cheapest freestanding filler on Amazon, and it's not the most expensive either. It sits right in the sweet spot where buyers expect real metal, real flow, and real durability. After digging through 215 ratings and the spec sheet, here's what you're actually getting.**

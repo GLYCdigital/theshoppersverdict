@@ -1,4 +1,5 @@
 ---
+
 title: "USB Side Table Lamp"
 seo_title: "USB Side Table Lamp Review: Verdict | TSV"
 meta_description: "Our full usb side table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2VC25ZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nJVIKYhOL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The USB Side Table Lamp** sits in that odd category of products that shouldn't be remarkable but somehow is. At 4.4 stars across 220 ratings, it's clearly doing something right. After testing one for a week in my home office and another on my nightstand, I understand why.

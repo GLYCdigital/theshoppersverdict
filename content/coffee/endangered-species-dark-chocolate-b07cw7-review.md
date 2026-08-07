@@ -1,4 +1,5 @@
 ---
+
 title: "Endangered Species Dark Chocolate"
 seo_title: "Endangered Species Dark Chocolate Review: Rich & Ethical"
 meta_description: "Our honest Endangered Species Dark Chocolate review: bold 72% cacao flavor, ethical sourcing, and eco-friendly packaging. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07CW7MPV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jT3IFI73L._SL1500_.jpg"
-pros:
+pros: 
   - "72% cacao delivers bold, complex flavor without excessive sweetness"
   - "10% of net profits donated to wildlife conservation partners"
   - "Fair-trade certified and non-GMO verified with recyclable packaging"
-cons:
+cons: 
   - "Some buyers find the 3-ounce bar small for the premium price point"
   - "Dark chocolate intensity may be too bitter for milk chocolate fans"
+
 ---
 
 ## The Chocolate Bar That Gives Back — Without Skimping on Taste

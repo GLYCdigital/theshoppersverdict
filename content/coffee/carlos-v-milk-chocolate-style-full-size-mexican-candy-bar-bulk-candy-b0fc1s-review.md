@@ -1,4 +1,5 @@
 ---
+
 title: "Carlos V Milk Chocolate Style Full-Size Mexican Candy Bar, B"
 seo_title: "Carlos V Mexican Candy Bar Review: Full-Size Bulk Buy"
 meta_description: "Honest Carlos V Milk Chocolate Style bar review: taste, texture, bulk value, and who should buy. Real buyer feedback on this Mexican classic."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FC1SNCSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8121RHUn4fL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic Mexican chocolate flavor with a distinct rice-krisp crunch that sets it apart from American candy bars"
   - "Full-size format delivers roughly 40% more chocolate per bar than the familiar mini version"
   - "Bulk packaging protects bars well during shipping, with consistent quality reported across multiple orders"
-cons:
+cons: 
   - "Texture leans toward crumbly rather than creamy — buyers expecting a smooth Hershey-style melt may be disappointed"
   - "Sugar content is noticeable; the bar is sweeter than typical US milk chocolate, which could be a turnoff for some"
+
 ---
 
 Let's be direct about what this is: the Carlos V bar is Mexico's best-selling chocolate, and for good reason. But it's not the same experience as a Hershey's or a Cadbury. If you've only had the tiny version of this bar that shows up in piñata candy bags, the full-size format is a different animal entirely.

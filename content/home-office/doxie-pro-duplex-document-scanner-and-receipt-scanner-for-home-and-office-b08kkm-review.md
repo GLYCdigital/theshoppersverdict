@@ -1,4 +1,5 @@
 ---
+
 title: "Doxie Pro - Duplex Document Scanner and Receipt Scanner for"
 seo_title: "Doxie Pro Scanner Review: Duplex Document & Receipt Scanning"
 meta_description: "Honest Doxie Pro duplex scanner review: speed, OCR quality, and battery life tested. See if this portable receipt scanner is worth the price."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KKMYRBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pBoQpNTCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True duplex scanning in a battery-powered portable — no outlet needed, scans both sides of receipts and documents simultaneously"
   - "Built-in OCR and searchable PDF output that actually works — searches find text inside scanned receipts, not just filenames"
   - "Automatic date-stamping and file organization based on document type — receipts, invoices, and photos get sorted without manual tagging"
-cons:
+cons: 
   - "Feeder handles only standard paper widths — oversized receipts, thick cards, or folded documents require pre-trimming or manual flattening"
   - "No Wi-Fi or cloud sync built in — you're tethered to a USB cable for transfers, though the bundled software compensates somewhat"
   - "Scan speed of 8 pages per minute feels slow if you're digitizing a full filing cabinet — this is a daily-use scanner, not a batch digitizer"
+
 ---
 
 # Doxie Pro Review: The Battery-Powered Duplex Scanner That Kills Paper Clutter

@@ -1,4 +1,5 @@
 ---
+
 title: "Albott Folding Chair Rack 12 Tables or 84 Chairs Storage 110 inch"
 seo_title: "Albott Folding Chair Rack Review: Heavy-Duty Storage for 84 Chairs"
 meta_description: "Read our Albott Folding Chair Rack review: holds 12 tables or 84 chairs, 1,100-lb capacity. See pros, cons, and who should buy this steel storage cart."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTJZL4P8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8159XLqOWSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1,100-lb load rating actually holds up — welded steel frame doesn't flex under a full stack of chairs"
   - "Moves smoothly on 5-inch locking casters, even when loaded to capacity on concrete floors"
   - "Floor-mounted base keeps the center of gravity low enough to prevent tipping during transport"
-cons:
+cons: 
   - "Assembly requires two people — the crossbars are heavy and awkward to align solo"
   - "No included straps or tie-downs, so chairs can shift during movement unless you secure them yourself"
+
 ---
 
 If your church, school, or event hall has a storage closet that looks like a game of 3D Tetris every time someone breaks down the folding chairs, you already know the pain this rack solves. The Albott Folding Chair Rack is a purpose-built steel cart that claims to hold 12 folding tables or 84 chairs — and after digging through 220 ratings and the spec sheet, here's the real story.

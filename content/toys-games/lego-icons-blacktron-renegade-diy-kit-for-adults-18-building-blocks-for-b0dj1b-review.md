@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons Blacktron Renegade - DIY Kit for Adults 18+ - Bui"
 seo_title: "LEGO Icons Blacktron Renegade - DIY Kit for Adults Review"
 meta_description: "Our full lego icons blacktron renegade - diy kit for adults 18+ - bui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1BW82N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zuRZSQH5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1987 original Blacktron Renegade was the spaceship that made every kid on the playground jealous. This adult-targeted LEGO Icons reissue doesn't just nod to that legacy — it rebuilds it with modern techniques while keeping the aggressive, angular menace intact.**

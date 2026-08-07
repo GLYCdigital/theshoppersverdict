@@ -1,4 +1,5 @@
 ---
+
 title: "PEKREWS Pool Cue Case, Soft Pool Stick Case 1x1 Holds 1 Butt"
 seo_title: "PEKREWS Pool Cue Case, Soft Pool Stick Case 1x1 Ho Review"
 meta_description: "Our full pekrews pool cue case, soft pool stick case 1x1 holds 1 butt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRVPRKXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xNEf-thtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're hauling a single 2-piece cue to league night, you don't need a hard-shell vault. You need something that keeps the shaft from rattling against the butt, holds your chalk, and doesn't fall apart after three months. The PEKREWS 1x1 soft case does exactly that — and at this price point, it's hard to argue with the math.

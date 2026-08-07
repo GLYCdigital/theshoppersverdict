@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Dry Shampoo"
 seo_title: "Batiste Dry Shampoo Review: Is It Worth It? (2026)"
 meta_description: "Our honest Batiste Dry Shampoo review covers real results, build quality, and who should buy. See pros, cons, and the final verdict before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCVDJGYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hdJbMAMoL._SL1500_.jpg"
-pros:
+pros: 
   - "Absorbs oil in under 60 seconds with no visible white residue on darker hair when brushed through"
   - "Packaging delivers a fine, even mist that doesn't clog or sputter mid-canister"
   - "Scent is fresh and clean without being overpowering or perfumey"
-cons:
+cons: 
   - "Smaller canisters run out faster than expected if you use it daily (about 3 weeks of regular use)"
   - "Needs 60–90 seconds to fully settle before brushing, which isn't ideal for rushed mornings"
+
 ---
 
 Let's be honest about dry shampoo: most of them either leave you looking powdered, smelling like a candle aisle, or simply don't cut the grease. Batiste has been the category standard for years, and this particular version holds up to that reputation. But is it the right pick for your hair type and routine? Here's what 229 Amazon reviewers and my own hands-on testing actually reveal.

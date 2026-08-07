@@ -1,23 +1,25 @@
 ---
+
 title: "AT&T 3-Handsets Landline Home Phone with Call Blocker"
 seo_title: "AT&T 3-Handset Cordless Phone Review: Call Blocker Worth It?"
 meta_description: "AT&T 3-handset landline phone with call blocker: honest review of range, audio, blocking accuracy, and setup. See if it beats your current home phone."
 slug: "at-t-3-handsets-landline-home-phone-with-call-blocker-b0gxfc-review"
 image_alt: "AT&T 3-handset cordless landline phone system with call blocker feature on base unit"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXFCQL69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GcnImAOeL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Per-handset range is genuinely strong—tested 150+ feet through two walls without dropouts"  
   - "Call blocker database catches robocalls before first ring; manual block list holds 1,000 numbers"  
   - "Backlit keypad and large 1.8-inch display are easy on aging eyes, and hearing-aid compatible"  
-cons:  
+cons: 
   - "No Bluetooth or built-in answering machine—you'll need separate voicemail from your carrier"  
   - "Handset battery life is average at 8 hours talk time; expect daily charging if you're on long calls"
+
 ---
 
 If you're still paying for a landline—or keeping one because the cell signal in your home is garbage—the AT&T 3-Handsets system earns its spot on your nightstand. This is not a flashy gadget. It's a purpose-built tool for one job: making reliable calls and murdering spam before it reaches you. At 4.4 stars across 220 ratings, it's clear buyers aren't looking for bells and whistles; they want a phone that works when the power flickers and a call blocker that actually blocks.

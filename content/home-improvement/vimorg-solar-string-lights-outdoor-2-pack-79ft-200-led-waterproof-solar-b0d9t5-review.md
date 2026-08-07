@@ -1,4 +1,5 @@
 ---
+
 title: "Vimorg Solar String Lights Outdoor, 2 Pack 79FT 200 LED Wate"
 seo_title: "Vimorg Solar String Lights Outdoor, 2 Pack 79FT 20 Review"
 meta_description: "Our full vimorg solar string lights outdoor, 2 pack 79ft 200 led wate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9T5R5G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pu088lkqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most solar string lights under $30 are disposable junk that dies after one season. The Vimorg 2-pack is not that — but it's also not a permanent lighting solution. Here's what 215 Amazon reviewers (averaging 4.3 stars) and my own research tell you before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "BYZOOM FITNESS Pure Series Adjustable Dumbbell - 12.5/25/27."
 seo_title: "BYZOOM Pure Series Adjustable Dumbbell Review (2026)"
 meta_description: "Honest BYZOOM Pure Series adjustable dumbbell review: 12.5-27.5 lb range, build quality, and real user feedback. See who it's for and who should skip it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D12NH2GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NgSKfA9OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Steel-reinforced nylon core and polyurethane shell resist cracking — the two most common failure points on cheap adjustable dumbbells"
   - "Increments of 2.5 lb from 12.5 to 27.5 lb, which matters for progressive overload on lateral raises and curls"
   - "Knurled chrome handle with ergonomic contour feels solid even during high-rep sets"
-cons:
+cons: 
   - "Adjustment dial is stiff out of the box — several users report needing two hands to turn it initially"
   - "Cradle takes up roughly 20 inches of floor space; not ideal for tiny apartments"
   - "Top weight of 27.5 lb per dumbbell won't challenge intermediate lifters on compound moves"
+
 ---
 
 Most adjustable dumbbells under $200 are either flimsy plastic traps or metal slabs that destroy your floors. The BYZOOM Pure Series sits in a middle zone that's surprisingly well-executed — if you understand what it's actually for.

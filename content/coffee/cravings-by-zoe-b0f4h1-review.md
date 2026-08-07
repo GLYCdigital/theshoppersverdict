@@ -1,4 +1,5 @@
 ---
+
 title: "Cravings by Zoe"
 seo_title: "Cravings by Zoe Review: Is This Coffee Gear Worth It?"
 meta_description: "Cravings by Zoe review: 4.5-star coffee gear with 225 ratings. We break down build quality, real user feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4H1R6BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Inre7Q5fL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brewing temperature delivers full extraction without bitterness"
   - "40-ounce capacity fits 5 standard mugs — enough for a household, not a diner"
   - "Thermal carafe keeps coffee hot for 2+ hours without a burner that scorches the bottom"
-cons:
+cons: 
   - "No programmable timer — you can't wake up to fresh coffee already brewed"
   - "Carafe lid requires a deliberate twist to seal; some users report drips if not fully seated"
+
 ---
 
 # Cravings by Zoe: A Coffee Maker That Respects the Bean

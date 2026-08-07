@@ -1,4 +1,5 @@
 ---
+
 title: "Azzsy Case for iPad 10th Generation 10.9 Inch 2022, Heavy Du"
 seo_title: "Azzsy iPad 10th Gen Case Review: Heavy Duty 2022 inch"
 meta_description: "Azzsy iPad 10th gen case review: heavy-duty build, built-in pencil holder, kickstand tested. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5B7F246/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E81Lug+0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-layer construction (hard polycarbonate shell + soft TPU bumper) absorbs drops without adding excessive bulk"
   - "Built-in Apple Pencil holder on the side keeps the stylus secure and charged, eliminating the need for a separate sleeve"
   - "Integrated kickstand locks into multiple viewing angles and stays put during typing — no flimsy folding flap here"
-cons:
+cons: 
   - "The raised bezel around the screen is substantial; it protects well but makes edge swipes from the sides noticeably harder"
   - "The case adds roughly 0.4 inches to the iPad's width, so it won't fit snugly in slim laptop sleeves or the original iPad box"
+
 ---
 
 If you've ever watched a $449 iPad slide off a desk and hit tile, you know the feeling. The Azzsy Heavy Duty Case for the iPad 10th Generation (10.9-inch, 2022 model) is built by people who apparently have lived that nightmare. This is not a slim folio that whispers "protection" — it's a proper armored shell that screams it, and for the price, it's one of the most practical accessories you can bolt onto Apple's base tablet.

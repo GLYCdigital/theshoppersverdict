@@ -1,4 +1,5 @@
 ---
+
 title: "MaxGear Magnetic Dry Erase White Board, Hanging Planner Boar"
 seo_title: "MaxGear Magnetic Dry Erase White Board, Hanging Pl Review"
 meta_description: "Our full maxgear magnetic dry erase white board, hanging planner boar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRCWDLZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s45FQZhuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.5-Star White Board That Actually Earned Its Rating**

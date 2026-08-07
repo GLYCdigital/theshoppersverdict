@@ -1,4 +1,5 @@
 ---
+
 title: "Food Sealer Vacuum Sealer Bags"
 seo_title: "Food Sealer Vacuum Sealer Bags Review: Verdict | TSV"
 meta_description: "Our full food sealer vacuum sealer bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8T2S842/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PzbIYoDKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about vacuum sealer bags: most of them are the same extruded plastic, repackaged with different logos. This set from the Food Sealer brand actually does a few things differently — and one of those differences matters a lot if you seal wet foods.

@@ -1,4 +1,5 @@
 ---
+
 title: "LCRBOL Coffee Table with Storage, Boho Dining Table with Flu"
 seo_title: "LCRBOL Coffee Table with Storage, Boho Dining Tabl Review"
 meta_description: "Our full lcrbol coffee table with storage, boho dining table with flu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHRSMTFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81geMw9bAXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a product that claims to be three things at once: coffee table, dining table, and storage solution. The Lcrbol boho table with its fluted drawer is trying to solve the small-space puzzle, and on paper, it makes sense. The real question is whether the execution matches the ambition.

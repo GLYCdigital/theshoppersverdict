@@ -1,4 +1,5 @@
 ---
+
 title: "Arctic Char Fillet Farm Raised"
 seo_title: "Arctic Char Fillet Farm Raised Review: Is It Worth It?"
 meta_description: "Arctic Char Fillet Farm Raised review: taste, texture, and value. See how this versatile fish compares to salmon and trout before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0787W89LS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fZtadcMaL._SL1500_.jpg"
-pros:
+pros: 
   - "Mild, buttery flavor that's less fishy than salmon — approachable for seafood skeptics"
   - "Firm, flaky texture holds up well to grilling, pan-searing, or broiling without falling apart"
   - "Consistently arrives vacuum-sealed and fresh, with minimal bones to pick through"
-cons:
+cons: 
   - "Farm-raised origin means the color is naturally pale — don't expect the deep orange of wild salmon"
   - "Skin-on fillets can be thin at the tail end, which makes even cooking slightly tricky"
+
 ---
 
 **Arctic Char Fillet Farm Raised — The Salmon Alternative That Deserves Your Attention**

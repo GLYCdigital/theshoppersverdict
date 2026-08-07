@@ -1,4 +1,5 @@
 ---
+
 title: "Bobbi Brown Long-Wear Cream Liner Stick | Non-Creasing, Pigm"
 seo_title: "Bobbi Brown Long-Wear Cream Liner Stick Review (2026): Is It Worth It?"
 meta_description: "Honest Bobbi Brown Long-Wear Cream Liner Stick review: pigmentation, wear time, smudge test, and who should buy. See real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FMJ9GDCJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611XS4mfAWL._SL1500_.jpg"
-pros:
+pros: 
   - "Glides on smoothly without tugging, even over primer-free lids"
   - "True 10+ hour wear with zero creasing on oily eyelids"
   - "Intense pigment payoff in one pass — no layering needed"
-cons:
+cons: 
   - "Requires sharpening; the soft formula wastes product in the sharpener"
   - "Not completely waterproof despite the claim — smudges under heavy tears"
+
 ---
 
 Let's cut to the chase: Bobbi Brown's Long-Wear Cream Liner Stick has a 4.4-star average across 220 Amazon ratings, and for once, the hype mostly checks out. This isn't a pencil that demands three passes to deposit color. One swipe delivers a dense, matte black that stays put through a workday, a workout, and then some.

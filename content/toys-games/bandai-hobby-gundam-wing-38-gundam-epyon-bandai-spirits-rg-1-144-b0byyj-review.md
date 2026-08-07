@@ -1,4 +1,5 @@
 ---
+
 title: "Bandai Hobby - Gundam Wing - #38 Gundam Epyon, Bandai Spirit"
 seo_title: "Gundam Epyon RG 1/144 Review: Bandai's Best Build?"
 meta_description: "Our honest Bandai Gundam Epyon RG 1/144 review covers build quality, articulation, and flaws. See if this 4.9-star kit deserves your money."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BYYJHHWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qt-+oq+4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-molded inner frame with advanced MS Joint tech delivers rock-solid articulation right out of the box"
   - "Heat rod whip comes with 15 segments of posable wire — a build detail most RG kits skip entirely"
   - "Color-accurate injection molding means zero paint required for a show-accurate finish"
-cons:
+cons: 
   - "Some armor panels pop off the shoulder joints during posing — need a dab of glue or careful handling"
   - "The transformation to flight form is finicky; the leg locks don't hold as securely as advertised"
+
 ---
 
 If you've built any of the older Real Grade kits, you know the struggle: tiny parts, fragile joints, and a build that tests your patience more than your skill. The RG Gundam Epyon breaks that mold in a way that makes it one of the most satisfying 1/144 builds Bandai has released in years. This is the kit that finally does Zechs Merquise's crimson mobile suit justice.

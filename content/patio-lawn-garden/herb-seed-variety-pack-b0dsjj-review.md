@@ -1,4 +1,5 @@
 ---
+
 title: "Herb Seed Variety Pack"
 seo_title: "Herb Seed Variety Pack Review: Verdict | TSV"
 meta_description: "Our full herb seed variety pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSJJZ454/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91o5EZSrCCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a garden center staring at $4 packets of basil and wondered why a full herb garden costs $60, this variety pack is the answer. Ten culinary herbs, generous seed counts, and a 4.5-star average across 225 ratings suggest this kit earns its place on your counter. But not all seed packs are created equal — here's what actually happens when you open the envelopes.

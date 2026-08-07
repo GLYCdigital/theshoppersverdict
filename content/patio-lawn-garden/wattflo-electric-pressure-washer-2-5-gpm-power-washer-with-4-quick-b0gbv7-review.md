@@ -1,4 +1,5 @@
 ---
+
 title: "WattFlo Electric Pressure Washer - 2.5 GPM Power Washer with"
 seo_title: "WattFlo Electric Pressure Washer - 2.5 GPM Power W Review"
 meta_description: "Our full wattflo electric pressure washer - 2.5 gpm power washer with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GBV7R3PV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZlQnEhWLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever spent 40 minutes with a weak 1.2 GPM electric washer just to do a driveway, you already know the pain. The WattFlo Electric Pressure Washer's headline number — 2.5 GPM — is the reason it deserves your attention. That's roughly double the flow rate of most corded units in this price class, and flow is what actually moves dirt. Pressure gets the credit, but GPM does the work.

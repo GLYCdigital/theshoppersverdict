@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGOO Upgraded 37 in 1 Sensor Modules Kit with Tutorial Com"
 seo_title: "ELEGOO 37 in 1 Sensor Kit Review: Arduino Starter Bundle (2026)"
 meta_description: "ELEGOO 37 in 1 Sensor Modules Kit review: 37 components, C++ tutorials, and solid build quality. Perfect for Arduino beginners and STEM classrooms."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MG49ZQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kUWb6ky0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Includes 37 individual modules — every sensor has its own breakout board, so no messy breadboard wiring for basic tests"
   - "The 100+ page PDF tutorial covers real C++ code with wiring diagrams, not just vague pinout charts"
   - "All components arrive in a labeled foam case — you can find the LM35 temp sensor without dumping the whole box"
-cons:
+cons: 
   - "Jumper wires are stiff and cheap — expect to replace them within a few months of regular use"
   - "No Arduino board included — this is purely a sensor kit, so factor in an Uno or Mega if you don't own one"
+
 ---
 
 If you're staring at an Arduino board wondering what to actually do with it, this kit is the answer. The ELEGOO Upgraded 37 in 1 Sensor Modules Kit isn't just a grab bag of components — it's a structured introduction to physical computing that takes you from blinking an LED to reading a joystick axis, all without burning out a single pin.

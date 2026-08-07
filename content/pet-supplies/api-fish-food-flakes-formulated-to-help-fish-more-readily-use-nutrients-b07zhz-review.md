@@ -1,4 +1,5 @@
 ---
+
 title: "API FISH FOOD FLAKES, Formulated to help fish more readily u"
 seo_title: "API Fish Food Flakes Review: Worth It? 2026 Buyer's Guide"
 meta_description: "Honest API Fish Food Flakes review: Does the nutrient-rich formula actually boost color and health? Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07ZHZCG34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716mH95cajL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Highly digestible formula means less waste and clearer water — multiple buyers note their tanks stay cleaner longer"
   - "Visible color enhancement within 2–3 weeks for red, orange, and yellow fish species"
   - "Flake size works for both small tetras and medium cichlids without needing to crush"
-cons:
+cons: 
   - "No clear ingredient percentage breakdown on the label — transparency is limited for a 'formulated' product"
   - "Some fish initially refuse flakes if they're used to pellets; transition period required"
+
 ---
 
 # API Fish Food Flakes Review: A Nutrient-Dense Option That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Beauty Bar Soap Deep Exfoliating Charcoal Powder & Glyc"
 seo_title: "Dove Exfoliating Charcoal Beauty Bar Review: Worth It? (2026)"
 meta_description: "Our honest Dove Beauty Bar Deep Exfoliating Charcoal & Glycerin review. Does it actually exfoliate without drying skin? Find out what 235 buyers say."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHH1GPND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CsB8A7u1L._SL1500_.jpg"
-pros:
+pros: 
   - "Real charcoal granules provide physical exfoliation without the harsh scratchiness of walnut-shell scrubs"
   - "Keeps Dove's signature ¼ moisturizing cream formula, so it cleanses deep without stripping skin barrier"
   - "14-bar bulk pack lands around $0.60–0.70 per bar, undercutting most specialty exfoliating soaps"
-cons:
+cons: 
   - "Physical exfoliation is mild — heavy-duty exfoliation fans will need a separate scrub for feet or elbows"
   - "Charcoal can leave a faint gray residue on white towels if not rinsed completely off skin"
+
 ---
 
 # Dove Beauty Bar Deep Exfoliating Charcoal & Glycerin: The Gentle Exfoliator That Actually Moisturizes

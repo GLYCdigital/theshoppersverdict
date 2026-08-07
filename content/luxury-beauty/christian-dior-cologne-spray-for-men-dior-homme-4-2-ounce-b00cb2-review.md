@@ -1,4 +1,5 @@
 ---
+
 title: "Christian Dior Cologne Spray for Men, Dior Homme, 4.2 Ounce"
 seo_title: "Dior Homme Cologne Review (2026): Worth It? | 4.2 oz"
 meta_description: "Dior Homme cologne review: iris-forward, sophisticated scent. See how it performs, who it suits, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00CB2JF9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/312j7BG9otL._SS40_.jpg"
-pros:
+pros: 
   - "Iris-and-cedar opening is genuinely distinctive — nothing else in Dior's lineup smells like this"
   - "4.2 oz bottle at this price point undercuts most department store counter pricing"
   - "Sillage is moderate but refined; projects for 2–3 hours without being obnoxious"
-cons:
+cons: 
   - "Longevity clocks in around 4–6 hours on skin — not an all-day performer"
   - "The powdery iris dry-down won't appeal to fans of fresh, aquatic, or sweet fragrances"
+
 ---
 
 **The Dior Homme scent is an anomaly in the designer fragrance world.** It's not a fresh blue scent, not a sweet gourmand, and not a loud club bomb. It's an iris-forward composition that smells like lipstick, cedar, and quiet confidence. If you're tired of smelling like every other guy in the elevator, this is worth your attention. But it comes with tradeoffs you need to know about before dropping serious money.

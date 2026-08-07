@@ -1,4 +1,5 @@
 ---
+
 title: "All in One Makeup Kit for Women Full Kit, Make Up Gift Set f"
 seo_title: "All in One Makeup Kit Review: Worth It in 2026?"
 meta_description: "Our honest All in One Makeup Kit for Women review: 4.5-star rated full makeup gift set. See what's inside, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4PPV9G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HaA+DweLL._SL1200_.jpg"
-pros:
+pros: 
   - "Complete 40+ piece set includes eyeshadow, blush, lip colors, brushes, and applicators — genuinely everything needed for a full face in one box"
   - "High-pigment formulas that hold up well through an 8-hour workday without significant creasing or fading"
   - "Premium, sturdy case with mirror and organized compartments — doubles as a travel kit, not flimsy packaging"
-cons:
+cons: 
   - "Shade range is limited; deeper skin tones will find few usable options beyond neutral browns and nudes"
   - "Brush quality is functional but not professional-grade — synthetic bristles shed slightly after repeated washing"
+
 ---
 
 **This 40-Piece Beauty Arsenal Is Either a Great Gift or a Glorified Paperweight — Here's the Truth**

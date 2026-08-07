@@ -1,4 +1,5 @@
 ---
+
 title: "Stomp Rocket Ultra Rocket Refills - Replacement Foam-Tipped "
 seo_title: "Stomp Rocket Ultra Rocket Refills - Replacement Fo Review"
 meta_description: "Our full stomp rocket ultra rocket refills - replacement foam-tipped  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GMSPS2VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711Y0vQM5UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you already own a Stomp Rocket Ultra launcher, you know the drill: the original rockets eventually disappear into a neighbor's yard, crack on a driveway, or get chewed by the dog. This 4-pack of replacement foam-tipped rockets is the official fix, and it's a solid one — with a few caveats worth knowing before you click buy.

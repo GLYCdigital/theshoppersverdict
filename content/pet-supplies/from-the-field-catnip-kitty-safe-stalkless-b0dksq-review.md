@@ -1,4 +1,5 @@
 ---
+
 title: "from The Field Catnip Kitty Safe Stalkless"
 seo_title: "from The Field Catnip Review: Stalkless Kitty Safe (2026)"
 meta_description: "Honest from The Field Catnip Kitty Safe Stalkless review: potency, freshness, and value for picky cats. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKSQSBMS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bl0fT+seL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100% stalkless leaves — no woody stems or seeds, so you get pure leaf material that's easier to sprinkle and less messy"
   - "Potency holds up well past the 6-month mark when stored in an airtight container, per multiple long-term buyer reports"
   - "Strong enough to trigger a response in cats that have gone lukewarm on cheaper grocery-store brands"
-cons:
+cons: 
   - "Resealable bag is flimsy — several buyers report the zipper failing within weeks, forcing a transfer to their own jar"
   - "Slightly pricier per ounce than bulk catnip options, and some cats simply won't respond regardless of quality"
+
 ---
 
 **Bottom line up front:** If your cat has gone nose-blind to the dusty stuff from the big-box pet aisle, this stalkless catnip from from The Field is worth the upgrade. It's not a miracle product — some cats are genetically immune to catnip's effects entirely — but for the roughly 70% of felines that do respond, this is noticeably fresher and more potent than most shelf-stable alternatives.

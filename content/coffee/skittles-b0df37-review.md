@@ -1,4 +1,5 @@
 ---
+
 title: "SKITTLES"
 seo_title: "SKITTLES Review: Verdict | TSV"
 meta_description: "Our full skittles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF37VL2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YkbLxq6vL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about one thing upfront: this is not the candy. This is the SKITTLES 12-Cup Programmable Coffee Maker, and it's been quietly racking up 4.6 stars from 229 Amazon buyers. For a machine that doesn't carry a big-brand name, that's a signal worth paying attention to.

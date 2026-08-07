@@ -1,4 +1,5 @@
 ---
+
 title: "Babish High-Carbon 1.4116 German Steel Full Tang Forged Cutl"
 seo_title: "Babish German Steel Knife Review: Full Tang Forged Performance"
 meta_description: "Babish High-Carbon 1.4116 German Steel knife review: full tang forged edge retention, balance, and value. See how this chef's knife performs in real kitchens."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTN3Y3CD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S9Qr0jI5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full tang forged construction with triple-riveted handle feels rock-solid in hand"
   - "1.4116 German steel takes a razor edge and holds it through heavy prep sessions"
   - "Ergonomic handle geometry suits both pinch-grip and handle-grip users"
-cons:
+cons: 
   - "Blade is slightly thicker than Japanese-style knives, so delicate slicing isn't its forte"
   - "No bolster means the balance point sits forward — some users may find it handle-heavy"
+
 ---
 
 If you've watched Andrew Rea's *Binging with Babish* videos, you know the man takes kitchen tools seriously. The question is whether his namesake knife line delivers on that same standard — or just rides the influencer brand wave. After handling the Babish High-Carbon 1.4116 German Steel Full Tang Forged chef's knife, I can tell you this: it's a legitimate piece of cutlery, not merch.

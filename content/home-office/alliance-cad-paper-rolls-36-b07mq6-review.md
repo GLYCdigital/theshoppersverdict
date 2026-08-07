@@ -1,4 +1,5 @@
 ---
+
 title: "Alliance CAD Paper Rolls, 36â€"
 seo_title: "Alliance CAD Paper Rolls 36 Review: 4.9-Star Plotter Paper"
 meta_description: "Alliance CAD Paper Rolls 36 review: 4.9-star rated plotter paper. Bond weight, clean feeds, crisp lines. Real buyer feedback on quality and value."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B07MQ6LL3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nf06hIjOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 36-inch width with clean, straight cuts — no edge wandering that jams large-format plotters"
   - "20-pound bond weight handles heavy ink saturation without bleed-through on architectural line work"
   - "Core is snug and grippy — feeds smoothly on HP, Canon, and Epson roll-fed machines"
-cons:
+cons: 
   - "Single-roll packaging means you're reordering more often than multi-pack alternatives"
   - "Not coated for waterproofing — fine for blueprints, poor for outdoor site plans exposed to moisture"
+
 ---
 
 If you feed a large-format plotter for a living, you know the pain of cheap paper: curl at the edges, feed misalignment, and ink that bleeds into a fuzzy mess. The Alliance CAD Paper Rolls in 36-inch width sidestep most of that nonsense. With a 4.9-star average across 245 ratings, this is one of those quiet workhorse products that architects, engineers, and print shops keep coming back to.

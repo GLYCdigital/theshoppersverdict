@@ -1,4 +1,5 @@
 ---
+
 title: "Physicians Formula Butter Glow"
 seo_title: "Physicians Formula Butter Glow Review: Verdict | TSV"
 meta_description: "Our full physicians formula butter glow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D2PHN3N6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ojGwd3PZL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bronzer that made "butter" a verb — but does it live up to the hype?**

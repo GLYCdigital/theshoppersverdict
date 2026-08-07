@@ -1,4 +1,5 @@
 ---
+
 title: "KARAMAG Bathroom Vessel Sink Drop In Bathroom Sink Semi Rece"
 seo_title: "KARAMAG Bathroom Vessel Sink Drop In Bathroom Sink Review"
 meta_description: "Our full karamag bathroom vessel sink drop in bathroom sink semi rece review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4JXY92T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ePgBU+rSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you want the sculptural look of a vessel sink but don't want to lose your entire countertop to a bowl sitting on top, the KARAMAG semi-recessed drop-in is the compromise you've been hunting for. With a 4.6-star average across 229 ratings, this sink has clearly found its audience. The question is whether it belongs in your bathroom remodel.

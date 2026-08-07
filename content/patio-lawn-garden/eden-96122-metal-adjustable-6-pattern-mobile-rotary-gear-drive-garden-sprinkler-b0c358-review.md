@@ -1,4 +1,5 @@
 ---
+
 title: "Eden 96122 Metal Adjustable 6-Pattern Mobile Rotary Gear Dri"
 seo_title: "Eden 96122 Metal Rotary Sprinkler Review (2026): 6 Patterns"
 meta_description: "Eden 96122 metal rotary sprinkler review: 6 spray patterns, mobile base, all-metal gears. See pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C358H22J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614Iqt1t+QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-metal gear drive and brass nozzle resist wear, unlike plastic-impeller sprinklers that strip within a season"
   - "Six distinct patterns (including a targeted jet for garden beds) cover everything from 5x5 ft patches to 40 ft circles"
   - "Wheeled base with 4-position height adjustment makes moving between zones genuinely one-handed"
-cons:
+cons: 
   - "No shut-off valve at the sprinkler head — you'll walk back to the faucet every time you switch zones"
   - "The 6-pattern dial requires firm pressure; gloved hands may fumble the small selector knob"
+
 ---
 
 ## The sprinkler that actually earns its spot in the shed

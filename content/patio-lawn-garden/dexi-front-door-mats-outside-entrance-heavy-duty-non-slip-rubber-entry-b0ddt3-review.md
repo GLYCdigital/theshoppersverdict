@@ -1,4 +1,5 @@
 ---
+
 title: "DEXI Front Door Mats Outside Entrance, Heavy Duty Non-Slip R"
 seo_title: "DEXI Front Door Mats Review: Heavy Duty & Non-Slip (2026)"
 meta_description: "Honest DEXI front door mat review: heavy-duty rubber, non-slip grip, real-world durability. See what 180 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DDT3KHRR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w-T77YyXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick rubber backing grips wet concrete and tile without sliding, even in heavy rain"
   - "Low-profile beveled edges eliminate tripping hazards at door thresholds"
   - "Aggressive scraper surface actually removes mud and gravel from boot treads"
-cons:
+cons: 
   - "Sizes run small — order one size up from your door width for proper coverage"
   - "Edges can curl after a few months of direct afternoon sun exposure"
   - "Black color shows salt residue and pollen streaks quickly in winter months"
+
 ---
 
 Let me cut to the chase: the DEXI Front Door Mat is a solid mid-tier entry mat that does its one job well — scraping dirt off boots — but it's not the last mat you'll ever buy. With 180 ratings averaging 3.6 stars, the feedback splits between buyers who love the grip and those frustrated by premature curling. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cuisinart Double Burner Griddle"
 seo_title: "Cuisinart Double Burner Griddle Review: Worth It? (2026)"
 meta_description: "Honest Cuisinart Double Burner Griddle review: 4.7★ from 235 ratings. Tested for pancakes, eggs & bacon. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVPBPKX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cTrh-hP1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 20-inch cooking surface spans two burners without a cold spot in the middle"
   - "Consistent, even heat distribution across the entire griddle—no scorched edges or raw centers"
   - "Dishwasher-safe and warp-resistant heavy-gauge steel construction"
-cons:
+cons: 
   - "No grease trap or drip channel—rendered bacon fat pools at the edges"
   - "Handles stay cool but the griddle itself gets extremely hot; needs careful storage"
+
 ---
 
 ### The breakfast game-changer you didn’t know you needed

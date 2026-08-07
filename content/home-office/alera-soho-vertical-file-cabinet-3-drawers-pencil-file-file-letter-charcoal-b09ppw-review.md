@@ -1,4 +1,5 @@
 ---
+
 title: "Alera Soho Vertical File Cabinet, 3 Drawers: Pencil/File/Fil"
 seo_title: "Alera Soho 3-Drawer File Cabinet Review (2026): Is It Worth It?"
 meta_description: "Honest Alera Soho 3-drawer vertical file cabinet review: build quality, drawer capacity, assembly pain points, and who should buy it. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09PPW1PPV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qn3Hbs-3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - Three distinct drawer types (pencil, file, letter) in one compact 18.5 inch " W x 24.25 inch " D footprint — rare versatility for a vertical cabinet
   - "Full-extension ball-bearing slides on the file drawers let you access the entire hanging file depth without straining"
   - "Assembled cabinet weight of 86 lbs with all-steel construction gives it a stable, anchored feel — it won't tip when the top drawer is loaded"
-cons:
+cons: 
   - "Assembled weight of 86 lbs means shipping damage is a real risk — inspect the box corners before signing for delivery"
   - The pencil drawer is shallow (2.25 inch " interior height) — it handles pens and small supplies, not binders or bulky tech
   - "Assembly requires a Phillips head screwdriver and about 45–60 minutes; the drawer slides need precise alignment or they'll bind"
+
 ---
 
 If you've ever tried to cram hanging files into a standard 2-drawer cabinet, you know the pain. The Alera Soho 3-drawer vertical file cabinet solves a specific problem: it gives you a dedicated pencil drawer up top, a full letter-size file drawer in the middle, and another file drawer below — all in a footprint that's narrower than most desks.

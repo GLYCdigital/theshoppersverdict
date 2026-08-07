@@ -1,4 +1,5 @@
 ---
+
 title: "Duorest Folding Floor Chair, Latex Seat, System with Twin Ba"
 seo_title: "Duorest Folding Floor Chair Review: Latex Seat Comfort"
 meta_description: "Duorest folding floor chair review: latex seat, twin backrests, posture support. See if this $159 chair is worth it for floor sitters."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BZS3D18H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lsdr19I6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin backrest panels move independently, letting you twist and reach without losing lumbar contact"
   - "Genuine latex seat cushion (not foam) that holds up and doesn't flatten after months of daily floor sitting"
   - "Folds flat to roughly the thickness of a yoga mat — tucks under a couch or in a closet"
-cons:
+cons: 
   - "At $159, it's 3-4x the cost of a basic floor chair, and the frame is plastic, not wood or metal"
   - "No built-in carry handle, which makes hauling it between rooms more awkward than it should be"
+
 ---
 
 If you sit on the floor for more than 20 minutes at a time, you already know the problem: your hips tighten, your lower back starts complaining, and you end up slumped against whatever's behind you. The Duorest Folding Floor Chair attacks this with a genuinely clever mechanism — twin backrest panels that move independently as you shift. But at $159, it's competing against $40 floor chairs that are simple and fine. Here's who should actually pay the premium.

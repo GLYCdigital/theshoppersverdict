@@ -1,4 +1,5 @@
 ---
+
 title: "Allclad Aluminum Non Stick Ha1 Stockpot cooking pot"
 seo_title: "All-Clad HA1 Nonstick Stockpot Review: Worth It? (2026)"
 meta_description: "Read our honest All-Clad HA1 nonstick stockpot review. See how the hard-anodized aluminum, 8-quart capacity, and oven-safe lid perform in real kitchens."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYGYN4FV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DimdUbhoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hard-anodized aluminum body distributes heat evenly without hot spots, even on large 8-quart batches"
   - "PTFE-free nonstick coating releases eggs, rice, and sticky sauces with zero oil"
   - "Oven-safe up to 500°F including the lid, so you can start on the stovetop and finish in the oven"
-cons:
+cons: 
   - "Not induction-compatible — the aluminum base won't work on induction cooktops"
   - "Hand-wash only; dishwasher detergent will degrade the nonstick coating over time"
   - "The lid gets hot during long simmers — always use a potholder, not the handle"
+
 ---
 
 # All-Clad HA1 Nonstick Stockpot Review: A Serious Stockpot for Serious Cooks

@@ -1,4 +1,5 @@
 ---
+
 title: "Tul Retractable Gel Pens 0.5mm Needle Point, Blue 4/pk"
 seo_title: "Tul Retractable Gel Pens 0.5mm Needle Point, Blue  Review"
 meta_description: "Our full tul retractable gel pens 0.5mm needle point, blue 4/pk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GLH9F121/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n5Km2cqRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most gel pens fall into one of two camps: the cheap ones that skip and blob, or the premium ones that cost as much as a latte per pen. The Tul Retractable Gel Pen sits somewhere in the middle — and for many users, it hits a sweet spot that justifies the price.

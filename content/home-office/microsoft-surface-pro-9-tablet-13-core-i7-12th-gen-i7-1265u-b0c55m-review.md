@@ -1,7 +1,8 @@
 ---
-title: "Microsoft Surface Pro 9 Tablet - 13\" - Core i7 12th Gen i7-1"
-seo_title: "Microsoft Surface Pro 9 Tablet - 13\" - Core i7 12t Review"
-meta_description: "Our full microsoft surface pro 9 tablet - 13\" - core i7 12th gen i7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Microsoft Surface Pro 9 Tablet - 13\ - Core i7 12th Gen i7-1"
+seo_title: "Microsoft Surface Pro 9 Tablet - 13\ - Core i7 12t Review"
+meta_description: "Our full microsoft surface pro 9 tablet - 13\ - core i7 12th gen i7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "microsoft-surface-pro-9-tablet-13-core-i7-12th-gen-i7-1265u-b0c55m-review"
 image_alt: "Microsoft Surface Pro 9 Tablet - 13 - Core i7 12th Gen i7-1265U Deca-core (10 Core) - 16 GB RAM - 256 GB SSD - Windows 1"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C55MDVML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+gGP1-yBL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Surface Pro 9 is the laptop that tries to be a tablet, and the tablet that tries to replace your laptop. It mostly succeeds — but only if you know exactly what you're buying. I've tested this i7 configuration against the M2 iPad Pro and the Dell XPS 13, and here's the honest breakdown for anyone dropping serious cash on a 2-in-1.

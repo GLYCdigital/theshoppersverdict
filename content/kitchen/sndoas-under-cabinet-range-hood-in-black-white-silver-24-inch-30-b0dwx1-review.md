@@ -1,4 +1,5 @@
 ---
+
 title: "SNDOAS Under Cabinet Range Hood in Black/White/Silver 24 inc"
 seo_title: "SNDOAS Under Cabinet Range Hood in Black/White/Sil Review"
 meta_description: "Our full sndoas under cabinet range hood in black/white/silver 24 inc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWX1TZMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61--lDcK6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most range hoods under $150 are noisy, weak, and look like they were stamped out of tin foil. The SNDOAS 24-inch under cabinet model isn't trying to be a premium Italian appliance — but it's quietly outperforming its price class in the ways that actually matter.

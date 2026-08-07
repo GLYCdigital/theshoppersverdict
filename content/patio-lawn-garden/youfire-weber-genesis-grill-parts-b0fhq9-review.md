@@ -1,4 +1,5 @@
 ---
+
 title: "YOUFIRE Weber Genesis Grill Parts"
 seo_title: "YOUFIRE Weber Genesis Grill Parts Review: Verdict | TSV"
 meta_description: "Our full youfire weber genesis grill parts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FHQ9PVXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L4GF-OHwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Weber Genesis has hit that sad stage where the grates flake rust onto your ribeyes and the flavorizer bars are more hole than metal, you've got a choice: drop $300+ on a new grill or replace the guts for a fraction of that. The YOUFIRE Weber Genesis Grill Parts kit is the budget-friendly middle path — and it mostly delivers.

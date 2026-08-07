@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Daneri Pull-Out Kitchen Faucet"
 seo_title: "Delta Daneri Pull-Out Kitchen Faucet Review (2026)"
 meta_description: "Honest Delta Daneri pull-out kitchen faucet review: Touch-Clean nozzles, ShieldSpray technology, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9QZGZ6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WowNLKZfL._AC_SL1215_.jpg"
-pros:
+pros: 
   - "ShieldSpray technology delivers a powerful rinse without the messy splash-back that plagues most pull-out sprayers"
   - "Touch-Clean rubber nozzles let you wipe away calcium and hard-water buildup with a finger — no soaking in vinegar"
   - "Magnetic docking system snaps the spray wand back securely every time; no drooping wand"
-cons:
+cons: 
   - "Single-handle design means no separate hot/cold volume control — temperature and flow are tied to the same lever"
   - "No soap dispenser or side-sprayer option on this model; you'll need to buy a deck plate separately if your sink has 4 holes"
+
 ---
 
 The Delta Daneri is the kitchen faucet that makes you wonder why you put up with your old one for so long. With 225 ratings holding steady at 4.5 stars, it's not a flashy novelty — it's a workhorse that quietly does the job right. Here's the full breakdown before you hand over your credit card.

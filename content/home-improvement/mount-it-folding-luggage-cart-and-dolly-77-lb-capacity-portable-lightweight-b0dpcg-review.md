@@ -1,4 +1,5 @@
 ---
+
 title: "Mount-It! Folding Luggage Cart and Dolly | 77 Lb Capacity | "
 seo_title: "Mount-It! Folding Luggage Cart and Dolly | 77 Lb C Review"
 meta_description: "Our full mount-it! folding luggage cart and dolly | 77 lb capacity |  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPCGT45S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H09SOswGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The folding luggage cart is a classic "you don't know you need it until you need it" product. And the Mount-It! version is one of the more popular picks on Amazon right now, sitting at a solid 4.2 stars from 210 ratings. But is it actually worth your money, or is it just another cheap import that'll bend on the second load? I've dug through the specs, the customer feedback, and the real-world quirks. Here's the honest breakdown.

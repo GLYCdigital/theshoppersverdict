@@ -1,4 +1,5 @@
 ---
+
 title: "Ooly Puffy Paint Neon Gel Pens Set of 6, 3D Foam Texture Pai"
 seo_title: "Ooly Puffy Paint Neon Gel Pens Set of 6, 3D Foam T Review"
 meta_description: "Our full ooly puffy paint neon gel pens set of 6, 3d foam texture pai review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DG9B4P1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VFYIReX-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever squeezed a tube of puffy fabric paint as a kid, you already know the appeal of the Ooly Puffy Paint Neon Gel Pens. These aren't your standard gel pens. Each one deposits a thick, dimensional line of neon color that rises off the page as it dries — think 3D printing with a pen, but messier and more playful. The set of six includes the classic neon lineup: pink, orange, yellow, green, blue, and purple. As shown in the product image, the pens feature a clear barrel so you can watch the paint level drop as you work, plus a fine-tip nozzle designed for detail work.

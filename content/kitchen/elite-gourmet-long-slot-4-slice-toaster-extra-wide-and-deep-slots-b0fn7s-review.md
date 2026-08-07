@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet Long Slot 4 Slice Toaster, Extra Wide and Deep"
 seo_title: "Elite Gourmet Long Slot 4 Slice Toaster Review (2026)"
 meta_description: "Honest Elite Gourmet Long Slot 4 Slice Toaster review: extra-wide deep slots, bagel function, real-world performance. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FN7SWR84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gEwzp1k6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide 1.5-inch slots handle artisan bread, thick bagels, and Texas toast without forcing"
   - "Independent levers per slot pair let you toast 2 slices while leaving the other side off"
   - "Frozen and bagel functions are genuinely effective, not gimmicks"
-cons:
+cons: 
   - "Housing is mostly plastic and picks up fingerprints quickly"
   - "No cancel button on some units — you must wait out the cycle"
   - "Cord is shorter than ideal for counter corners (about 24 inches)"
+
 ---
 
 Most 4-slice toasters cheat you. They cram two standard-width slots side by side and call it a day. The Elite Gourmet Long Slot 4 Slice Toaster actually delivers on the "extra wide and deep" promise in its name — and that makes all the difference if you've ever fought a bagel into a narrow slot or watched sourdough get stuck halfway down.

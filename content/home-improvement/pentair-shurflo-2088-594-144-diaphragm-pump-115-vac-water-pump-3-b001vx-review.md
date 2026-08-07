@@ -1,4 +1,5 @@
 ---
+
 title: "PENTAIR SHURFLO 2088-594-144 Diaphragm Pump, 115 VAC Water P"
 seo_title: "PENTAIR SHURFLO 2088-594-144 Diaphragm Pump, 115 V Review"
 meta_description: "Our full pentair shurflo 2088-594-144 diaphragm pump, 115 vac water p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B001VXRQGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jKiP8VG-L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need to move water reliably without babysitting a pump, the PENTAIR SHURFLO 2088-594-144 earns its reputation. This is a workhorse diaphragm pump designed for continuous-duty applications like RV water systems, small boats, or light irrigation — not a toy for occasional use. With 225 ratings averaging 4.5 stars, it's clear this pump has proven itself in the field. Here's what you need to know before you buy.

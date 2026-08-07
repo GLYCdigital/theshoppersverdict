@@ -1,4 +1,5 @@
 ---
+
 title: "JXQTLINGMU Farmhouse Electric Fireplace TV Stand for TVs up "
 seo_title: "JXQTLINGMU Farmhouse Electric Fireplace TV Stand f Review"
 meta_description: "Our full jxqtlingmu farmhouse electric fireplace tv stand for tvs up  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F48M33SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VWVQHA4xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JXQTLINGMU Farmhouse Electric Fireplace TV Stand: Real-World Test After 220 Reviews

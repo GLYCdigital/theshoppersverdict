@@ -1,4 +1,5 @@
 ---
+
 title: "Okuma Ceymar Graphite Lightweight All Purpose 8BB Spinning R"
 seo_title: "Okuma Ceymar Graphite Lightweight All Purpose 8BB  Review"
 meta_description: "Our full okuma ceymar graphite lightweight all purpose 8bb spinning r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWN78YHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oCL8PLYXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing noise. The Okuma Ceymar has been a budget spinning reel staple for years, and the current generation with 8 ball bearings keeps that reputation alive. At 4.7 stars from 235 Amazon buyers, it's clearly doing something right. But is it the right reel for *your* fishing? Here's the honest breakdown.

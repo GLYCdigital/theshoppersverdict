@@ -1,7 +1,8 @@
 ---
-title: "SortRax Plastic High Capacity Hanging File Folders, 4\" Expan"
+
+title: "SortRax Plastic High Capacity Hanging File Folders, 4\ Expan"
 seo_title: "SortRax Plastic High Capacity Hanging File Folders Review"
-meta_description: "Our full sortrax plastic high capacity hanging file folders, 4\" expan review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full sortrax plastic high capacity hanging file folders, 4\ expan review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sortrax-plastic-high-capacity-hanging-file-folders-4-expanding-b0d9qq-review"
 image_alt: "SortRax Plastic High Capacity Hanging File Folders, 4 Expanding"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9QQFSKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yiOOoET6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most hanging file folders are flimsy afterthoughts that sag, tear, or collapse into an unlabeled mess within six months. The SortRax Plastic High Capacity version is not that. At 4.5 stars across 225 ratings, it's solving a real problem — namely, that standard letter-size hanging folders hold maybe 150 sheets before they bow and jam your drawer.

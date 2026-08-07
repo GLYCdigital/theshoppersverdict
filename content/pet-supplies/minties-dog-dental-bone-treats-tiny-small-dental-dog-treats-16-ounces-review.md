@@ -1,16 +1,17 @@
 ---
+
 title: "Minties Dog Dental Bone Treats, Tiny/Small Dental Dog Treats, 16 Ounces, Cleans Teeth, Fight Bad Breath, Removes Plaque and Tartar, 40 Count"
 seo_title: "Minties Dog Dental Review: Verdict (4.5/5) | TSV"
 meta_description: "Solid Little Dental Chew Solid little dental chews for small 36,607+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "minties-dog-dental-bone-treats-tiny-small-dental-dog-treats-16-ounces-review"
 image_alt: "Minties Dog Dental Bone Treats, Tiny/Small Dental Dog Treats, 16 Ounces, Cleans Teeth, Fight Bad Breath, Removes Plaque "
-keywords:
+keywords: 
   - "minties dog dental review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Minties Dog Dental Bone?"
     answer: "Solid Little Dental Chew Solid little dental chews for small dogs That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Minties Dog Dental Bone?"
@@ -23,12 +24,13 @@ review_count: 36607
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B076YLYVW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OPBDvpTRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid Little Dental Chew Solid little dental chews for small dogs."
   - "Also 80 count goes fast if you’re giving one daily to multiple dogs."
   - "The 100 count pack is great value and lasts a long time."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be honest: most "dental" dog treats are glorified biscuits. Dogs chew them for 30 seconds, swallow, and you've spent $20 on breath that still smells like a dumpster. The Minties Tiny/Small Dental Bone Treats are different — and the 36,600+ ratings on Amazon back that up. But at $26.52 for a 16-ounce bag, are they worth the premium? Here's the real breakdown.

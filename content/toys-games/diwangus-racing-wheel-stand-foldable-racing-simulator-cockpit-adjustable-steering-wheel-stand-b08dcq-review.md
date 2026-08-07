@@ -1,4 +1,5 @@
 ---
+
 title: "DIWANGUS Racing Wheel Stand Foldable Racing Simulator Cockpi"
 seo_title: "DIWANGUS Racing Wheel Stand Review: Foldable & Sturdy"
 meta_description: "DIWANGUS foldable racing wheel stand review: sturdy steel frame, adjustable height, pedal tray included. See if it fits your Logitech or Thrustmaster."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DCQTXS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6121qo-BudL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat in under 30 seconds — stores in a closet or under a desk without tools"
   - "Steel frame with anti-slip rubber feet holds firm even under aggressive FFB wheels"
   - "Three adjustable height positions and a 15-degree tilt range fit most chair heights"
-cons:
+cons: 
   - "No gear shifter mount included — you'll need to buy the add-on separately"
   - "Pedal tray has no angle adjustment; flat-footed pedal sets can feel awkward"
+
 ---
 
 If you’ve been clamping your wheel to a desk and praying the whole rig doesn’t slide mid-race, the DIWANGUS Racing Wheel Stand is the upgrade you’re actually looking for. This isn’t a full cockpit—no seat, no monitor mount—but it solves the two biggest problems casual sim racers face: stability and storage. At 4.5 stars across 225 ratings, it’s clearly doing something right. Here’s the honest breakdown.

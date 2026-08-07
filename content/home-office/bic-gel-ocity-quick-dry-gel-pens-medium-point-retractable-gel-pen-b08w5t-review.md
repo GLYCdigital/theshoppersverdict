@@ -1,4 +1,5 @@
 ---
+
 title: "BIC Gel-Ocity Quick Dry Gel Pens, Medium Point Retractable G"
 seo_title: "BIC Gel-Ocity Quick Dry Pens Review: Do They Smear?"
 meta_description: "BIC Gel-Ocity Quick Dry Gel Pens review: fast-drying ink, comfortable grip, and no smudges. See if these medium point pens beat the competition."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08W5TVKPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Ink dries in under 2 seconds — genuinely smear-proof for lefties and fast writers"
   - "Smooth medium 0.7mm tip delivers consistent, dark lines without skipping"
   - "Ergonomic rubberized grip reduces hand fatigue during long writing sessions"
-cons:
+cons: 
   - "Ink runs out faster than comparable ballpoints — expect 2-3 weeks of daily use"
   - "Color selection skews toward basic hues; no pastel or metallic options in this pack"
+
 ---
 
 Let’s cut to the chase: gel pens are either smudge factories or scratchy disappointments. The BIC Gel-Ocity Quick Dry pens claim to fix both problems. After testing them against a stack of sticky notes, legal pads, and a left-handed writer’s worst nightmare (glossy paper), here’s the real story.

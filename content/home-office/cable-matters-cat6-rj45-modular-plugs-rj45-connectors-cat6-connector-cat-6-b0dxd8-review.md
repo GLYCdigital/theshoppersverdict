@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters CAT6 RJ45 Modular Plugs (RJ45 Connectors / Cat"
 seo_title: "Cable Matters CAT6 RJ45 Plugs Review (2026): Worth It?"
 meta_description: "Cable Matters CAT6 RJ45 modular plugs reviewed: build quality, termination ease, real user feedback, and who should buy. 4.6/5 rating breakdown."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXD8Y9LN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715gBlYzSnL._SL1500_.jpg"
-pros:
+pros: 
   - "Gold-plated contacts that hold up to repeated re-termination without corrosion or signal loss"
   - "Clear strain-relief boot design lets you visually verify wire order before you crimp"
   - "Compatible with both solid and stranded 23-26 AWG cable, so you don't need separate inventory"
-cons:
+cons: 
   - "No pass-through design — you'll need the wire-trimming method or a staggered-load technique for best results"
   - "The latch tab feels slightly thinner than premium alternatives; rough handling in patch panels could snap it"
+
 ---
 
 If you're terminating your own Ethernet runs, you already know the pain of cheap RJ45 plugs: contacts that bend, housings that crack mid-crimp, and terminations that pass a continuity test but fail under load. The Cable Matters CAT6 RJ45 Modular Plugs sit in the crowded mid-tier of the connector market, and after digging through the specs and 229 verified buyer ratings (averaging 4.6 stars), here's the honest picture.

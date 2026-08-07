@@ -1,4 +1,5 @@
 ---
+
 title: "GSM Brands Quarterback (QB) Play Wristband - Youth Size - Pr"
 seo_title: "GSM Brands Quarterback (QB) Play Wristband - Youth Review"
 meta_description: "Our full gsm brands quarterback (qb) play wristband - youth size - pr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07KNWLHK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/918h1CSE65L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your young quarterback is still cupping his hand over his mouth to shout plays that half the huddle can't hear, this wristband is the cheapest upgrade you'll make all season. The GSM Brands QB Play Wristband in youth size does exactly one thing — holds the play call where the QB can see it — and it does that job with zero drama. At 4.7 stars across 235 ratings, it's the quiet workhorse of the football sideline.

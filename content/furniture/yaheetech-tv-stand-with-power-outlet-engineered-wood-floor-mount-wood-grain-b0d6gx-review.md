@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Tv Stand With Power Outlet Engineered Wood Floor M"
 seo_title: "Yaheetech Tv Stand With Power Outlet Engineered Wo Review"
 meta_description: "Our full yaheetech tv stand with power outlet engineered wood floor m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6GXCR3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+bSLXcBvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of crawling behind your TV stand to reach a power strip buried in a nest of cables, the Yaheetech TV Stand with Power Outlet is worth a serious look. At 4.7 stars across 235 ratings, this unit sits firmly in the "buy with confidence" category — but it's not without a few honest compromises.

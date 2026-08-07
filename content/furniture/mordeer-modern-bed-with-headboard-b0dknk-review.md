@@ -1,4 +1,5 @@
 ---
+
 title: "MORDEER Modern Bed with Headboard"
 seo_title: "MORDEER Modern Bed with Headboard Review: Verdict | TSV"
 meta_description: "Our full mordeer modern bed with headboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0DKNK6GVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8197Aa0ieDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MORDEER Modern Bed with Headboard: A Budget Frame That Splits Opinion

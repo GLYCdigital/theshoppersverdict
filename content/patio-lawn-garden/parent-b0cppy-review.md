@@ -1,4 +1,5 @@
 ---
+
 title: "Parent"
 seo_title: "Parent Review: Verdict | TSV"
 meta_description: "Our full parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPPYP21Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ajgqr8jqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most patio products in this price range feel like they were designed to survive one season, maybe two. The Parent isn't that. With 240 ratings averaging 4.8 stars, this is one of those rare finds that earns its reputation through consistent, boring reliability — the kind of product people forget they own because it never gives them a reason to complain.

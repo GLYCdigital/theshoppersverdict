@@ -1,16 +1,17 @@
 ---
+
 title: "TOYO ST-350R 2-Tier Tool Box"
 seo_title: "TOYO ST-350R 2-Tier Tool Box Review: Verdict | TSV"
 meta_description: "Our full toyo st-350r 2-tier tool box. Read real Amazon customer insights, pros, cons, and our verdict. 256+ reviews analyzed."
 slug: "toyo-st-350r-2-tier-tool-box-review"
 image_alt: "TOYO ST-350R 2-Tier Tool Box"
-keywords:
+keywords: 
   - "toyo st350r 2tier review"
   - "home improvement review"
   - "best tool review"
   - "diy project"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the TOYO ST-350R 2-Tier Tool Box?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,14 +24,15 @@ review_count: 256
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09Z7Y1ZYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sP8U1G-+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made in Japan — classic steel construction with beautiful industrial design"
   - "Double-sided opening, 2-tier layout with sliding accessory tray"
   - 'Compact (13.8" x 6.3") yet stores a surprising amount; 33 lbs load capacity'
   - "Smooth-opening mechanism, feels solid and well-built"
-cons:
+cons: 
   - "Amazon packaging is bare-minimum — first unit often arrives dented"
   - "$143 is premium pricing for a compact box; not a budget option"
+
 ---
 
 The TOYO ST-350R isn't just another toolbox — it's a Japanese design classic that happens to be practical. Made from pressed steel with a distinctive two-tier cantilever opening, it's as much a statement piece as it is a storage solution. But at $143.25, does the quality justify the premium? We analysed real Amazon reviews across five countries to find out.

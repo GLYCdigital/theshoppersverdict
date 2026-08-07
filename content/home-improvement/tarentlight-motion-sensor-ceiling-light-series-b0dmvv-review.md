@@ -1,4 +1,5 @@
 ---
+
 title: "Tarentlight Motion Sensor Ceiling Light Series"
 seo_title: "Tarentlight Motion Sensor Ceiling Light Series Review: Ve"
 meta_description: "Our full tarentlight motion sensor ceiling light series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMVVWX17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7116ueIG0nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: you walk into a garage, pantry, or laundry room with your hands full, and you're fumbling for a wall switch or pulling a string. The Tarentlight Motion Sensor Ceiling Light Series eliminates that dance entirely. This is a flush-mounted LED fixture with a built-in PIR motion sensor, designed to light up automatically when you enter the room and shut off after you leave.

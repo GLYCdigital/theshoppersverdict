@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Pendant Lighting, Hanging Ceiling Light"
 seo_title: "Nathan James Pendant Lighting, Hanging Ceiling Lig Review"
 meta_description: "Our full nathan james pendant lighting, hanging ceiling light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHWH1D48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HnlPtVJFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Nathan James Pendant Lighting, Hanging Ceiling Light** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

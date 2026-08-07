@@ -1,4 +1,5 @@
 ---
+
 title: "MALOL Upholstered Dining Chairs -3109"
 seo_title: "MALOL Upholstered Dining Chairs -3109 Review: Verdict | T"
 meta_description: "Our full malol upholstered dining chairs -3109 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GG3MG7KR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The MALOL Upholstered Dining Chair: A Solid Mid-Range Pick That Doesn't Try Too Hard

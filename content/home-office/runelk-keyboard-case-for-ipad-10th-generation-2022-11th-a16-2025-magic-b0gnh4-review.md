@@ -1,4 +1,5 @@
 ---
+
 title: "runelk Keyboard Case for iPad 10th Generation 2022 & 11th (A"
 seo_title: "runelk Keyboard Case for iPad 10th Generation 2022 Review"
 meta_description: "Our full runelk keyboard case for ipad 10th generation 2022 & 11th (a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GNH4CG9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UQZn1edeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review**

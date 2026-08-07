@@ -1,4 +1,5 @@
 ---
+
 title: "Upgraded Airpot Coffee Carafe with Double Pump, Stainless St"
 seo_title: "Upgraded Airpot Coffee Carafe with Double Pump, St Review"
 meta_description: "Our full upgraded airpot coffee carafe with double pump, stainless st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FV2W8JDJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WVEQSKL0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still decanting coffee from a glass carafe into a thermos every morning, you're doing extra work for no reason. This upgraded airpot with a double pump system consolidates your entire coffee service into one insulated vessel that holds heat, dispenses cleanly, and sits on your counter looking professional. At 4.5 stars from 225 Amazon shoppers, it's clearly doing something right. Here's the full picture.

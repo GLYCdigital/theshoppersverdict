@@ -1,4 +1,5 @@
 ---
+
 title: "OSULLOC Cold Brew Tea Variation"
 seo_title: "OSULLOC Cold Brew Tea Variation Review: Verdict | TSV"
 meta_description: "Our full osulloc cold brew tea variation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FGGVLF1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51N2lVDNTzL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # OSULLOC Cold Brew Tea Variation Review: Is This Premium Korean Tea Worth Your Money?

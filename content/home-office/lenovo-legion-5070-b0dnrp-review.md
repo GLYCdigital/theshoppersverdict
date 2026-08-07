@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo Legion 5070"
 seo_title: "Lenovo Legion 5070 Review: Verdict | TSV"
 meta_description: "Our full lenovo legion 5070 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DNRPV5DK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z1Zr-XCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lenovo Legion 5070 isn't trying to be your creative workstation centerpiece or your esports tournament rig. It's aiming for a simpler target: a QHD monitor that does most things well without emptying your wallet. After digging through 195 ratings and the spec sheet, here's what actually matters.

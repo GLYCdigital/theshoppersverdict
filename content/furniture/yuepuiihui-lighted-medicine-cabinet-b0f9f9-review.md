@@ -1,4 +1,5 @@
 ---
+
 title: "YUEPUIIHUI Lighted Medicine Cabinet"
 seo_title: "YUEPUIIHUI Lighted Medicine Cabinet Review: Verdict | TSV"
 meta_description: "Our full yuepuiihui lighted medicine cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9F9G2Y8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712QWGYYrVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a lighted medicine cabinet is a luxury upgrade that most people get wrong. The YUEPUIIHUI version, with its 4.3-star average across 215 ratings, is trying to hit a sweet spot between builder-grade functionality and hotel-bathroom aesthetics. After digging through the specs and what actual owners are saying, here's the honest breakdown.

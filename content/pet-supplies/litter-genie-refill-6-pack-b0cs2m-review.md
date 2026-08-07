@@ -1,4 +1,5 @@
 ---
+
 title: "Litter Genie Refill - 6 Pack"
 seo_title: "Litter Genie Refill - 6 Pack Review: Verdict | TSV"
 meta_description: "Our full litter genie refill - 6 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CS2MGD3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RZLh-ErqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Litter Genie pail, you already know the dirty secret: the magic is in the refill, not the plastic bucket. The question is whether these third-party cartridges hold up — or leave you with a smelly mess and a clogged pail. After a month of daily scooping with the Litter Genie Refill 6 Pack, here's the honest breakdown.

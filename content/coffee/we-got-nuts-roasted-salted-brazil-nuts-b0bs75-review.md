@@ -1,4 +1,5 @@
 ---
+
 title: "We Got Nuts, Roasted Salted Brazil Nuts"
 seo_title: "We Got Nuts, Roasted Salted Brazil Nuts Review: Verdict |"
 meta_description: "Our full we got nuts, roasted salted brazil nuts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BS75B7DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+VpeT1h8L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about Brazil nuts: most commercial bags taste like stale cardboard with a hint of oil. We Got Nuts breaks that pattern, and after working through a full bag, I understand why this one holds a 4.4-star rating across 220 reviews.

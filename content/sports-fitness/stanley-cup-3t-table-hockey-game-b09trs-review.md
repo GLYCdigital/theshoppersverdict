@@ -1,4 +1,5 @@
 ---
+
 title: "Stanley Cup 3T Table Hockey Game"
 seo_title: "Stanley Cup 3T Table Hockey Game Review: Verdict | TSV"
 meta_description: "Our full stanley cup 3t table hockey game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09TRSHZC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HSE4peg5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you grew up playing foosball-adjacent table hockey at a friend's basement, you know the drill: cheap rods that stick, players that spin loose, and a puck that spends more time on the floor than in play. The **Stanley Cup 3T Table Hockey Game** aims to fix that formula for under $50, and honestly, it mostly succeeds.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEM Products BigBite 16-Tray Stainless Steel Dehydrator, Foo"
 seo_title: "LEM Products BigBite 16-Tray Stainless Steel Dehyd Review"
 meta_description: "Our full lem products bigbite 16-tray stainless steel dehydrator, foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJMW7YBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ImUbihtRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LEM Products BigBite 16-Tray Dehydrator Review: Is This the Last Dehydrator You'll Buy?

@@ -1,4 +1,5 @@
 ---
+
 title: "Fredbeck Brown Barn Door with Hardware"
 seo_title: "Fredbeck Brown Barn Door Review: Hardware Included"
 meta_description: "Fredbeck Brown Barn Door with Hardware review: solid build, smooth glide, easy install. See pros, cons, and who should buy this 4.1-star rated door."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FNWLNZB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qHKRB0ERL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete kit — door, rail, rollers, floor guide, and stoppers all ship together; no piecemeal sourcing"
   - "Pre-drilled holes and included hardware cut install time to roughly 90 minutes for two people"
   - "Solid engineered wood core resists warping better than solid pine in humid climates"
-cons:
+cons: 
   - "Finish is a flat matte brown that shows fingerprints and smudges — plan on wiping it down weekly"
   - "Rail brackets are fixed-length; if your wall studs aren't perfectly spaced, you'll need shims or toggle bolts"
+
 ---
 
 ## Why this barn door is worth your attention

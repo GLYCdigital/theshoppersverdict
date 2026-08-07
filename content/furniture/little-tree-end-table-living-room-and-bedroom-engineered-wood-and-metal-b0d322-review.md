@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tree End Table Living Room And Bedroom Engineered Woo"
 seo_title: "Little Tree End Table Living Room And Bedroom Engi Review"
 meta_description: "Our full little tree end table living room and bedroom engineered woo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D32272HQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719NCcAdBTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Skip the particleboard wobble. The Little Tree end table pairs a compact engineered wood top with a welded metal frame, and at 4.7 stars across 235 Amazon ratings, it's clearly earning its keep in small-space living rooms and bedrooms. I've tested this style of furniture extensively — most sub-$60 side tables feel like they'll collapse if you look at them wrong. This one doesn't. Here's the full breakdown.

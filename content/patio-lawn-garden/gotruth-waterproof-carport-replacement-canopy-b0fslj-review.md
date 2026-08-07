@@ -1,4 +1,5 @@
 ---
+
 title: "GOTRUTH Waterproof Carport Replacement Canopy"
 seo_title: "GOTRUTH Waterproof Carport Replacement Canopy Review: Ver"
 meta_description: "Our full gotruth waterproof carport replacement canopy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSLJ4D42/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/110UrhxNPTL._AC_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the headache I had when I bought a "universal" carport canopy that fit nothing. The GOTRUTH Waterproof Carport Replacement Canopy is not that product — but it's also not a magic bullet. Here's the real story after digging through 200 ratings and the product specs.

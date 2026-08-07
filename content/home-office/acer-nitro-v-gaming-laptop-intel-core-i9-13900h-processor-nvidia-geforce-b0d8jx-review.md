@@ -1,4 +1,5 @@
 ---
+
 title: "Acer Nitro V Gaming Laptop | Intel Core i9-13900H Processor"
 seo_title: "Acer Nitro V Review: i9-13900H Gaming Laptop Worth It?"
 meta_description: "Our Acer Nitro V gaming laptop review covers the Intel Core i9-13900H, RTX graphics, thermals, and battery life. See if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8JXHZTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "13th-gen Core i9-13900H delivers desktop-class performance for heavy workloads and modern games"
   - "Aggressive NitroSense cooling keeps temps manageable even during extended gaming sessions"
   - "MUX switch and 165Hz display combo provides a genuine competitive edge for esports titles"
-cons:
+cons: 
   - "Plastic chassis flexes under pressure and picks up fingerprints quickly"
   - "512GB SSD fills fast with modern game installs — budget for an upgrade"
   - "Battery life hovers around 4-5 hours for general use, less under load"
+
 ---
 
 Let me be direct: the Acer Nitro V with the Intel Core i9-13900H is the best value in gaming laptops right now, but it comes with compromises you need to know about before you hit that buy button.

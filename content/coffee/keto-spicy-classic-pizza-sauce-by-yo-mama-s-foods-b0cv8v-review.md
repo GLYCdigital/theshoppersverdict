@@ -1,4 +1,5 @@
 ---
+
 title: "Keto Spicy & Classic Pizza Sauce by Yo Mama's Foods"
 seo_title: "Keto Spicy & Classic Pizza Sauce by Yo Mama's Food Review"
 meta_description: "Our full keto spicy & classic pizza sauce by yo mama's foods review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV8VCN6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lReASdetL._SL1080_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve found the keto pizza sauce with 220 Amazon ratings and a 4.4-star average. Here’s the real question: does it actually taste like pizza sauce, or does it taste like a compromise?

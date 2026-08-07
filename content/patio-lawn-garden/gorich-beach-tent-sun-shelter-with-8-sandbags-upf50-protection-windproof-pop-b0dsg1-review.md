@@ -1,4 +1,5 @@
 ---
+
 title: "Gorich Beach Tent Sun Shelter with 8 Sandbags, UPF50+ Protec"
 seo_title: "Gorich Beach Tent Sun Shelter with 8 Sandbags, UPF Review"
 meta_description: "Our full gorich beach tent sun shelter with 8 sandbags, upf50+ protec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSG1N9ZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aMHgjHesL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the Gorich Beach Tent: it's the rare budget shelter that treats wind seriously, and that's exactly why it's earned a 4.1-star average across 204 ratings. Most pop-up canopies in this price range are glorified umbrellas. This one is engineered like a small fortress, and the eight sandbags are the headline feature that actually delivers.

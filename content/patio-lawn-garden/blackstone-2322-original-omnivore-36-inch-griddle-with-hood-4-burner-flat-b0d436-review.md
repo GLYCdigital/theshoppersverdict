@@ -1,4 +1,5 @@
 ---
+
 title: "Blackstone 2322 Original Omnivore 36 Inch Griddle with Hood,"
 seo_title: "Blackstone 2322 Omnivore 36 inch Griddle Review (2026)"
 meta_description: "Honest Blackstone 2322 Original Omnivore 36-inch griddle review: 4-burner performance, hood benefits, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D43656DS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xR8eEEWpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Omnivore plate heats evenly across all 36 inches with fewer hot spots than older Blackstone models"
   - "Hood traps heat for faster preheat and makes cold-weather cooking genuinely viable"
   - "Rear grease management system with removable tray simplifies cleanup vs. front chute designs"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes and the included hardware can be finicky"
   - "No built-in air fryer or side shelf — you're paying for cooktop real estate, not extras"
   - "Hood prop rod feels flimsy; several owners report it bending after months of use"
+
 ---
 
 If you've been eyeing a flat-top griddle for weekend breakfasts or backyard smash burgers, the Blackstone 2322 Original Omnivore 36" is the model that keeps showing up in "best of" lists. With 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right. But is it the right griddle for *you*? Let's break down what the Omnivore plate actually changes, where the hood earns its keep, and what buyers wish they'd known before unboxing.

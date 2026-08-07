@@ -1,4 +1,5 @@
 ---
+
 title: "Command Medium and Large Picture Hanging Strips, Damage Free"
 seo_title: "Command Picture Hanging Strips Review: Do They Really Work?"
 meta_description: "Honest Command Medium & Large Picture Hanging Strips review. Tested for weight limits, wall damage, and holding power. See if they're worth $19.59."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6Q9444Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BY7P6xoEL._SL1500_.jpg"
-pros:
+pros: 
   - "Medium strips hold up to 12 lbs per set; large strips hold 16 lbs — enough for framed posters, small mirrors, and shadow boxes"
   - "Removal is genuinely damage-free when you follow the 30-second stretch-and-pull method — no nail holes, no spackle, no touch-up paint"
   - "Works on painted drywall, smooth wood, tile, glass, and fiberglass — versatile beyond just apartment walls"
-cons:
+cons: 
   - "Not reusable — once you pull the release tab, the adhesive is dead. Plan your placement carefully"
   - "Won't bond to textured walls, wallpaper, or unfinished wood; if your walls are orange-peel or knockdown, look elsewhere"
   - "Weight limits assume a perfectly clean surface — dust, grease, or humidity can cause premature failure if you skip the alcohol wipe step"
+
 ---
 
 # Command Medium and Large Picture Hanging Strips, Damage Free Review: The Rental-Saver That Actually Works

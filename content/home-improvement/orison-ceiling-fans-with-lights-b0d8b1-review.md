@@ -1,4 +1,5 @@
 ---
+
 title: "Orison Ceiling Fans with Lights"
 seo_title: "Orison Ceiling Fans with Lights Review: Verdict | TSV"
 meta_description: "Our full orison ceiling fans with lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8B1PBXJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MjPF4wffL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Orison Ceiling Fans with Lights** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blueprint Bryan Johnson Extra Virgin Olive Oil"
 seo_title: "Blueprint Bryan Johnson Olive Oil Review: Worth It?"
 meta_description: "Blueprint Bryan Johnson Extra Virgin Olive Oil review: polyphenol content, taste, price vs. quality. Is this $30+ EVOO worth it for daily use?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1Q4TXGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41AWccCKbLL._SL1296_.jpg"
-pros:
+pros: 
   - "High polyphenol content (400+ ppm) verified on the label — measurable, not marketing fluff"
   - "Harvest date printed on bottle, not a 'best by' date — actual freshness transparency"
   - "Third-party tested for purity and rancidity (DAGs, PPP, FFA levels)"
-cons:
+cons: 
   - "Premium price point — roughly double what you'd pay for decent grocery store EVOO"
   - "Bold, peppery finish may be too aggressive for delicate dishes or people new to high-polyphenol oils"
   - "Small 500ml bottle; heavy daily users will reorder frequently"
+
 ---
 
 Let's be blunt: most "premium" olive oil on Amazon is bottled marketing. You're paying for a pretty label and a story. The Blueprint Bryan Johnson Extra Virgin Olive Oil is different — it puts the receipts on the bottle. Whether that justifies the price tag is the real question.

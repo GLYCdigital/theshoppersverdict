@@ -1,4 +1,5 @@
 ---
+
 title: "IWEGGO Android 14 Tablet with Keyboard 10 Inch 2 in 1 Tablet"
 seo_title: "IWEGGO Android 14 Tablet with Keyboard 10 Inch 2 i Review"
 meta_description: "Our full iweggo android 14 tablet with keyboard 10 inch 2 in 1 tablet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CPT5GKSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719CEKbBc3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $59 "Laptop" That Actually Works — With Caveats

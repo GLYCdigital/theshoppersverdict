@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Patio Umbrella Market Umbrella Patio Table Umbre"
 seo_title: "PURPLE LEAF Patio Umbrella Market Umbrella Patio T Review"
 meta_description: "Our full purple leaf patio umbrella market umbrella patio table umbre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQ4D3V7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81slcqNZxnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A patio umbrella is one of those purchases where you get exactly what you pay for — until you don't. The PURPLE LEAF Market Umbrella sits in a crowded middle tier, but 229 ratings averaging 4.6 stars suggest it's punching above its price point. After digging through buyer feedback and examining the specs, here's the real story.

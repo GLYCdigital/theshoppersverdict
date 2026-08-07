@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama 3768 Cabinet Hardware Kitchen Cabinet Pulls"
 seo_title: "Asidrama 3768 Cabinet Pulls Review: Worth It? (2026)"
 meta_description: "Honest Asidrama 3768 cabinet pulls review: solid stainless steel bar pulls, easy T-bar installation, and where they fall short. See if they fit your kitchen remodel."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB832SQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41l0Y4geZzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid 18/8 stainless steel construction with a brushed finish that resists fingerprints — noticeably denser than cheaper zinc alloy pulls"
   - "T-bar mounting design hides screws completely, giving a clean, seamless look that rivals pulls at twice the price"
   - "Multiple size options (3-inch up to 12-inch) let you match uppers, lowers, and drawers without mixing styles"
-cons:
+cons: 
   - "No template included in the box — you'll need to measure carefully or buy a jig separately for multi-hole installation"
   - "Brushed finish shows water spots on dark cabinet fronts more readily than oil-rubbed bronze alternatives"
+
 ---
 
 The Asidrama 3768 cabinet pulls are the kind of hardware that makes you realize how much your old knobs were dragging down the whole kitchen. At 4.7 stars across 235 ratings, this is a solid mid-tier option that sits comfortably between bargain-bin pulls and the premium stuff at big-box stores. Here's what you actually need to know before you buy.

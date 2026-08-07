@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet Sandwich Panini Maker Grilled Cheese Machine"
 seo_title: "Elite Gourmet Panini Maker Review: Worth It? (2026)"
 meta_description: "Honest Elite Gourmet Sandwich Panini Maker review: performance, durability, and real buyer feedback. See if this budget grilled cheese machine delivers."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DGMQX2L3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dsVwWSOYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual nonstick plates with a floating hinge that adjusts to thick sandwiches and melts without crushing"
   - "Compact footprint (roughly 9x12 inches closed) that stores upright to save counter space"
   - "Heats up fast — most buyers report ready-to-cook in under 3 minutes"
-cons:
+cons: 
   - "No temperature control — just on/off, so browning consistency requires trial and error"
   - "Cord is short at about 2 feet, limiting where you can position it on the counter"
   - "The indicator light is dim and hard to see in bright kitchens"
+
 ---
 
 # Elite Gourmet Sandwich Panini Maker Grilled Cheese Machine: A Budget Champ With Quirks

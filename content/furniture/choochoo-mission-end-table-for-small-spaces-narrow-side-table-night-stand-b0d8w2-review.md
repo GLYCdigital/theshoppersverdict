@@ -1,4 +1,5 @@
 ---
+
 title: "ChooChoo Mission End Table for Small Spaces, Narrow Side Tab"
 seo_title: "ChooChoo Mission End Table Review: Narrow Side Table (2026)"
 meta_description: "ChooChoo Mission End Table review: a narrow side table for small spaces. Real buyer feedback, build quality, and who should buy it. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8W2XVHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wuQz-24YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True narrow footprint (roughly 12-inch depth) fits tight hallway gaps and beside-bed spaces where standard end tables won't"
   - "Solid wood construction with mission-style joinery — not the flimsy particleboard you usually get at this price"
   - "Open lower shelf adds practical storage without making the piece feel bulky or visually heavy"
-cons:
+cons: 
   - "Assembly requires patience — the included hex wrench works but is small and easy to strip if you overtighten"
   - "Only one finish option available; if you need a specific wood tone match, you may be out of luck"
+
 ---
 
 **The ChooChoo Mission End Table solves a problem most furniture makers ignore: what do you put in a 12-inch gap?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Mikolo M4 2.0 Smith Machine, 2200lbs Squat Rack with LAT-Pul"
 seo_title: "Mikolo M4 2.0 Smith Machine, 2200lbs Squat Rack wi Review"
 meta_description: "Our full mikolo m4 2.0 smith machine, 2200lbs squat rack with lat-pul review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3JCHC33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yw+V4bQdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 2,200-Pound Question: Is This Smith Machine Actually Worth Your Garage Space?

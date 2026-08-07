@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* 3-Tool Combo Kit, Brushless Cordless Router"
 seo_title: "DEWALT 20V MAX 3-Tool Combo Kit Review: Router, Drill & Driver"
 meta_description: "Read our hands-on DEWALT 20V MAX 3-Tool Brushless Combo Kit review covering the cordless router, drill, and impact driver. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CTGNXGSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p0bLHJrbL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless router delivers surprising power for trim work, with variable speed dial (8,000–24,000 RPM) and LED light ring"
   - "Drill and impact driver share the same 20V MAX batteries, so the kit covers 90% of everyday jobs without swapping platforms"
   - "Compact router base (5.4 inches tall) fits between studs and reaches tight cabinet interiors where corded models won't go"
-cons:
+cons: 
   - "Router lacks a plunge base — you're limited to edge profiling and flush trimming unless you buy the optional plunge attachment separately"
   - "Kit ships with only two batteries and a single charger, so heavy all-day routing sessions will require a third pack or a pause to recharge"
   - "No carrying bag included; the three tools rattle loose in a drawer unless you supply your own case"
+
 ---
 
 If you've been eyeing a cordless router but hesitated because battery tools "just don't have the guts," this DEWALT 20V MAX 3-Tool Combo Kit is the argument you've been waiting for. The star here isn't the drill or impact driver — it's the brushless compact router that makes this kit genuinely different from the stack of generic drill/driver bundles clogging every hardware aisle.

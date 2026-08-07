@@ -1,4 +1,5 @@
 ---
+
 title: "Pacer GTX 500 Performance Speed Roller Skates"
 seo_title: "Pacer GTX 500 Performance Speed Roller Skates Review: Ver"
 meta_description: "Our full pacer gtx 500 performance speed roller skates review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMW294F9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zEZDuM9lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pacer GTX 500 isn't the flashiest speed skate on the market, and it doesn't pretend to be. What it delivers is honest, repeatable performance for skaters who want to build real speed without dropping $300+ on boutique gear. After digging through 225 ratings and the actual build specs, here's what you're really getting.

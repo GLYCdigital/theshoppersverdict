@@ -1,4 +1,5 @@
 ---
+
 title: "GREENSTELL Headboard for Bed with 60,000 DIY Color of LED Li"
 seo_title: "GREENSTELL Headboard Review: 60K-Color LED Bed Backdrop"
 meta_description: "GREENSTELL LED headboard review: 60,000 DIY colors, dimmable app control, and easy mount. See pros, cons, and who should buy this 4.6-star pick."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVMXN3D6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sMCnUlnYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 60,000-color LED matrix with app and remote control — no separate light strip needed"
   - "Tool-free mounting hardware fits both standard and adjustable bed frames"
   - "Built-in memory function restores your last color and brightness on power-up"
-cons:
+cons: 
   - "Wiring must be routed along the frame — no cordless option for floating beds"
   - "App setup requires 2.4GHz Wi-Fi only; 5GHz networks won't pair"
+
 ---
 
 If you've been scrolling past those glowing headboard photos on Instagram wondering if they're worth the hype, the GREENSTELL LED headboard is the real deal — with a few caveats worth knowing before checkout.

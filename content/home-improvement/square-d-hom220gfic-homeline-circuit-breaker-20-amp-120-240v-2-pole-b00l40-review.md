@@ -1,4 +1,5 @@
 ---
+
 title: "Square D - HOM220GFIC Homeline Circuit Breaker, 20-Amp, 120/"
 seo_title: "Square D - HOM220GFIC Homeline Circuit Breaker, 20 Review"
 meta_description: "Our full square d - hom220gfic homeline circuit breaker, 20-amp, 120/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00L40PKFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tuEmmlt9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Square D HOM220GFIC is the breaker you want when "good enough" isn't. But it'll cost you.**

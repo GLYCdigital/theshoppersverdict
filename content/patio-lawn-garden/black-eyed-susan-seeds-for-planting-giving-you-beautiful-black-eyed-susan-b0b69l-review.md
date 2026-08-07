@@ -1,23 +1,25 @@
 ---
+
 title: "Black Eyed Susan Seeds for Planting, Giving You Beautiful Bl"
 seo_title: "Black Eyed Susan Seeds Review: Worth Planting? | 2026 inch  "
 meta_description: "Honest Black Eyed Susan seeds review: germination rates, bloom quality, and drawbacks. See if these wildflower seeds deserve your garden space."
 slug: "black-eyed-susan-seeds-for-planting-giving-you-beautiful-black-eyed-susan-b0b69l-review"
 image_alt: "Black Eyed Susan seeds packet with bright yellow daisy-like flowers blooming in a sunny garden bed"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B69LSZ65/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n+UVo7YhL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Seeds germinate reliably in 7–14 days when soil temps hit 70°F — no cold stratification needed for most zones"  
   - "Packet contains roughly 500+ seeds, enough for a 4x6 foot bed or a dozen large containers"  
   - "Perennial in zones 3–9, meaning one planting returns year after year with minimal fuss"  
-cons:  
+cons: 
   - "Inconsistent seed count between batches — some buyers reported half-empty packets"  
   - "First-year bloom is sparse; plants focus energy on root development before flowering heavily"
+
 ---
 
 **Opening Hook**  

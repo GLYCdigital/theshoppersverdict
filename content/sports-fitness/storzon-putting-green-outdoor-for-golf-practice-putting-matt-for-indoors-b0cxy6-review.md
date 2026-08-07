@@ -1,4 +1,5 @@
 ---
+
 title: "STORZON Putting Green Outdoor for Golf Practice Putting Matt"
 seo_title: "STORZON Putting Green Outdoor for Golf Practice Pu Review"
 meta_description: "Our full storzon putting green outdoor for golf practice putting matt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CXY67S89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sC4KxFsSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The putting mat that actually respects your carpet

@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Basics Grain-Free, Limited Ingredient Diet, Tur"
 seo_title: "Blue Buffalo Basics Turkey Review: Limited Ingredient Win"
 meta_description: "Blue Buffalo Basics Grain-Free Turkey: limited ingredient diet for sensitive dogs. Full review of pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MAX48CV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712TK+bdj6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single animal protein (turkey) and limited ingredient list — genuinely helpful for dogs with food sensitivities"
   - "Includes LifeSource Bits — a precise blend of antioxidants, vitamins, and minerals that survive the cooking process"
   - "No chicken, beef, corn, wheat, soy, dairy, or eggs — eliminates the most common canine allergens in one shot"
-cons:
+cons: 
   - "Grain-free formula means higher fat content — not ideal for overweight dogs or those with pancreatitis history"
   - "The kibble size runs small for large breed dogs; some owners report their big dogs inhale it without chewing"
   - "Price per pound runs higher than standard Blue Buffalo lines — you pay a premium for the limited ingredient approach"
+
 ---
 
 If your dog's stomach flips every time you switch proteins, or you've spent months playing detective with elimination diets, this Blue Buffalo Basics Turkey recipe deserves a hard look. It's not the cheapest bag on the shelf — but for dogs with genuine food sensitivities, it might be the last bag you need to try.

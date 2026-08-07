@@ -1,4 +1,5 @@
 ---
+
 title: "Windyun 8 Pack Kids Teepee Tent for Slumber Party with Mattr"
 seo_title: "Windyun 8 Pack Kids Teepee Tent for Slumber Party  Review"
 meta_description: "Our full windyun 8 pack kids teepee tent for slumber party with mattr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CTCCBK85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LnqXOOKGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Frontmatter complete. Now the review body:**

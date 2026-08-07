@@ -1,24 +1,26 @@
 ---
+
 title: "FAGAGA Accent Chair, Mid-Century Modern Armchair with Solid Wood Frame Review"
 seo_title: "FAGAGA Accent Chair Review: Solid Wood Mid-Century Armchair (2026)"
 meta_description: "FAGAGA mid-century accent chair with solid wood frame: 4.2-star rated. Read our honest review on comfort, build quality, and who should buy it."
 slug: "fagaga-accent-chair-mid-century-modern-armchair-with-solid-wood-frame-b0ggzm-review"
 image_alt: "FAGAGA mid-century modern accent chair with solid wood frame in fabric upholstery"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GGZM56RY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811ov9VGp6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Solid rubberwood legs with reinforced cross-bracing — no wobble on hardwood floors"  
   - "High-density foam seat (4.5-inch thick) holds shape after months of daily use"  
   - "Assembly under 10 minutes with the included hex wrench — no tools needed"  
-cons:  
+cons: 
   - "Backrest is fixed at a fairly upright 102° angle — not ideal for lounging or napping"  
   - "Fabric is a magnet for pet hair; a lint roller becomes a permanent fixture"  
   - "Armrests are on the narrow side (5.5 inches wide) — not comfortable for broad-shouldered users"
+
 ---
 
 **The FAGAGA Accent Chair: A Solid, Honest Mid-Century Pick — With One Big Caveat**

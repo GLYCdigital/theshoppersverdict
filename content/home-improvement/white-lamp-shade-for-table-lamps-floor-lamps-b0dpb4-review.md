@@ -1,4 +1,5 @@
 ---
+
 title: "white lamp shade for table lamps floor lamps"
 seo_title: "white lamp shade for table lamps floor lamps Review: Verd"
 meta_description: "Our full white lamp shade for table lamps floor lamps review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPB4WMLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iwhKHxeGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products you overthink. A lamp shade isn't one of them — you just need something that fits, looks decent, and doesn't turn your living room into a dentist's office. This white lamp shade for table lamps and floor lamps has 220 ratings averaging 4.4 stars, which tells me it's doing the basics right for most people. Here's the breakdown after digging into what buyers actually say.

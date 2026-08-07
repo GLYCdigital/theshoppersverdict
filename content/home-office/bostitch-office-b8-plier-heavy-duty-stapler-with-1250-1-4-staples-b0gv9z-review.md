@@ -1,4 +1,5 @@
 ---
+
 title: "Bostitch Office B8 Plier Heavy Duty Stapler with 1250 1/4 inch  Staples"
 seo_title: "Bostitch B8 Plier Stapler Review: Heavy Duty, Real Grip"
 meta_description: "Bostitch B8 plier stapler review: 4.6/5 from 229 buyers. Tested for grip strength, staple capacity, and jamming. Is it worth it for heavy-duty stapling?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GV9ZJKR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UmbecvCgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plier grip design multiplies hand strength — staples through 20+ pages without crushing your palm"
   - "Comes with 1250 staples included, so you're operational out of the box"
   - "All-steel construction with a jam-release mechanism that actually works"
-cons:
+cons: 
   - "No built-in staple remover — you'll need a separate tool for undoing mistakes"
   - "Bulky for a desk drawer; the plier shape doesn't store as flat as a standard stapler"
   - "Loading requires a firm push to seat the staple strip correctly — first-timers may think it's jammed"
+
 ---
 
 Most staplers are a compromise. The cheap plastic ones bend on page five. The heavy-duty desk models need two hands and a grunt. The Bostitch B8 plier stapler sits in a third category — a tool that uses leverage instead of brute force. After testing it against thick booklets, card stock, and the occasional stubborn receipt, here's the honest picture.

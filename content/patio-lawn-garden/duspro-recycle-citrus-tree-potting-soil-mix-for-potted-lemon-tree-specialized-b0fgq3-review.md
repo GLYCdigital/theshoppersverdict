@@ -1,4 +1,5 @@
 ---
+
 title: "DUSPRO Recycle Citrus Tree Potting Soil Mix for Potted Lemon"
 seo_title: "DUSPRO Citrus Tree Potting Soil Review (2026): Worth It?"
 meta_description: "DUSPRO Recycle Citrus Tree Potting Soil Mix review: drainage, pH, and nutrition for potted lemons. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGQ3FB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oUwmU3AcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-mixed with perlite and pine bark for drainage that citrus roots actually need"
   - "Slight acidic pH (5.5–6.5) matched to lemon/calamondin requirements"
   - "Includes slow-release fertilizer, so no immediate feeding needed"
-cons:
+cons: 
   - "Bag size smaller than expected — about 8 quarts, not a full cubic foot"
   - "Some buyers report fungus gnats in the bag; let it dry between waterings"
   - "No resealable closure on the bag — plan a storage container"
+
 ---
 
 If you’ve ever watched a potted lemon tree turn yellow, drop leaves, or simply refuse to fruit, the problem is almost never the tree — it’s the soil. Standard potting mixes hold too much water, suffocate citrus roots, and slowly raise pH until the plant can’t absorb iron. The DUSPRO Recycle Citrus Tree Potting Soil Mix is built specifically to avoid those failures. At 4.4 stars across 220 ratings, it’s not perfect, but it is one of the few bagged mixes that actually respect what citrus needs.

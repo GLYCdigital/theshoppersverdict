@@ -1,4 +1,5 @@
 ---
+
 title: "Eight Saints Retinol Skin Care Serum Treatment For Firming F"
 seo_title: "Eight Saints Retinol Serum Review: Firming Face & Eye Treatment"
 meta_description: "Read our honest Eight Saints retinol serum review. Does this firming face & eye treatment deliver results? We analyze ingredients, real user feedback & value."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6C9MXRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TdJEFcpaL._SL1500_.jpg"
-pros:
+pros: 
   - "Encapsulated retinol delivers visible firming without the harsh peeling or redness common with OTC retinoids"
   - "Multi-peptide complex targets both face and delicate eye area — rare in a single serum at this price point"
   - "Fragrance-free formula with squalane and hyaluronic acid buffers dryness, making it suitable for sensitive skin types"
-cons:
+cons: 
   - "No concentration percentage listed on packaging — you're trusting their proprietary blend without knowing exact retinol strength"
   - "Glass bottle is heavy and the dropper can dispense too much product, wasting expensive serum"
   - "Results take 8-12 weeks of consistent use; impatient users may give up before seeing firming benefits"
+
 ---
 
 ## The Retinol Serum That Skips the Purge Phase

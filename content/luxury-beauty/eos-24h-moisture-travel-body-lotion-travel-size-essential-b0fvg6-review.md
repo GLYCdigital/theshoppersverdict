@@ -1,4 +1,5 @@
 ---
+
 title: "eos 24H Moisture Travel Body Lotion - Travel Size Essential"
 seo_title: "eos 24H Moisture Travel Body Lotion Review (2026)"
 meta_description: "Honest eos 24H Moisture Travel Body Lotion review: 2oz TSA-friendly size, 24-hour hydration, shea butter formula. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVG6TB9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qqay3qFNL._SL1500_.jpg"
-pros:
+pros: 
   - "2oz bottle fits TSA carry-on limits without a zip-top bag"
   - "24-hour formula uses shea butter and squalane — not just water-based filler"
   - "Fast-absorbing, no greasy residue even on post-shower damp skin"
-cons:
+cons: 
   - "Scent options are limited compared to the full-size lineup"
   - "Small bottle runs out fast if you use it daily on full body"
+
 ---
 
 **Opening: The travel-size lotion that actually respects your carry-on**

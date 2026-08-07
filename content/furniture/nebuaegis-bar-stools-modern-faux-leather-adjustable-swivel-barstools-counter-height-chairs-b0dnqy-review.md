@@ -1,4 +1,5 @@
 ---
+
 title: "Nebuaegis Bar Stools, Modern Faux Leather Adjustable Swivel "
 seo_title: "Nebuaegis Bar Stools, Modern Faux Leather Adjustab Review"
 meta_description: "Our full nebuaegis bar stools, modern faux leather adjustable swivel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNQYHXZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QoStEVRYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A $100-ish swivel stool that punches above its price, but read the fine print on the backrest.**

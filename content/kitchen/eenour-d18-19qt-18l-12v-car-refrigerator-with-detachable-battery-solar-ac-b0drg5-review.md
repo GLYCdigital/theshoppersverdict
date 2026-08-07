@@ -1,4 +1,5 @@
 ---
+
 title: "EENOUR D18 19Qt/18L 12V Car Refrigerator with Detachable Battery"
 seo_title: "EENOUR D18 19Qt Car Refrigerator Review: 12V + Detachable Battery"
 meta_description: "Honest EENOUR D18 19Qt/18L car fridge review: 12V cooling, detachable battery, solar input. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DRG5JLMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71onHFV+G5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Detachable 12V battery lets you run the fridge for hours away from the car, then swap in a charged spare"
   - "Dual-zone cooling down to -4°F with a compressor that handles both freezing and fridge temps in one 18L unit"
   - "Three power inputs (12V DC, AC adapter, solar) make it genuinely flexible for road trips, camping, and emergency use"
-cons:
+cons: 
   - "18L capacity is tight — fits about 12 cans or a few meal-prep containers, not a family's weekly groceries"
   - "Build quality is mid-tier; some buyers report the latch and hinge feel flimsy after months of regular use"
   - "Battery runtime is decent but not stellar — around 4-6 hours at fridge temps, shorter if you're freezing"
+
 ---
 
 # EENOUR D18 19Qt/18L 12V Car Refrigerator with Detachable Battery: A Compact Cooler That Tries to Do It All

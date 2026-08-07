@@ -1,4 +1,5 @@
 ---
+
 title: "Acaxin LED Refrigerator Light Bulb 4W 40Watt Equivalent, Wat"
 seo_title: "Acaxin LED Refrigerator Bulb Review: Worth It? [2026]"
 meta_description: "Honest Acaxin LED refrigerator light bulb review: 4W (40W equiv), waterproof E26 base. Does it last? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07TPSFWHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LGh5yjteL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Runs genuinely cool — doesn't heat up fridge interior or wilt produce near the bulb"
   - "True waterproofing (IP65-rated) holds up in freezer/fridge condensation zones"
   - "Compact A15 shape fits under shelves and inside tight OEM enclosures"
-cons:
+cons: 
   - "Light output is warm (3000K) — noticeably yellower than most OEM fridge bulbs"
   - "E26 base won't fit older fridges with candelabra (E12) sockets without an adapter"
+
 ---
 
 Let’s be blunt: the bulb that came with your refrigerator was designed to fail. Most OEM incandescent fridge bulbs burn hot, waste energy, and die within a year. The Acaxin 4W LED is the replacement shoppers keep gravitating toward — 4.7 stars across 235 ratings — but is it actually the right swap for *your* fridge? Here’s the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cash Acme 3/4 Inch Tank Booster Water Heater with Thermostat"
 seo_title: "Cash Acme 3/4 Tank Booster Water Heater Review (2026)"
 meta_description: "Cash Acme 3/4 Tank Booster review: Does this thermostatic mixing valve deliver hotter water safely? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01CIRY99A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w+0KxXboL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crank your tank to 140°F+ for extra capacity while the valve blends cold water down to a safe 120°F at the tap"
   - "Solid brass body with 3/4-inch NPT connections handles high flow rates without noticeable pressure drop"
   - "Simple dial adjustment with locking nut — set it once and forget it for months"
-cons:
+cons: 
   - "No integrated check valves — you'll need to buy them separately if your local code requires them"
   - "The adjustment dial has no temperature scale markings; you'll need a thermometer to dial in the exact output"
   - "At 3/4-inch size, it's overkill for single-fixture applications and under-sized for whole-house setups with two bathrooms running simultaneously"
+
 ---
 
 **The Sleeper Upgrade That Makes Your Water Heater Feel Bigger**

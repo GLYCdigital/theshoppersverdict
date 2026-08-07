@@ -1,4 +1,5 @@
 ---
+
 title: "Dorai Home Stone Plant Pots Saucer Set - Diatomite Water-Abs"
 seo_title: "Dorai Stone Plant Pots Saucer Set Review: Diatomite Trays"
 meta_description: "Honest Dorai Home Stone Plant Pots Saucer Set review: Do diatomite water-absorbing trays really prevent overwatering? Tested, rated 4.6/5."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BSP3BR17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SAsdRA3XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diatomite stone absorbs standing water in under 60 seconds, eliminating soggy saucer bottoms that attract gnats"
   - "Matching pot and saucer set looks like a single sculpted stone piece — far more polished than plastic drip trays"
   - "Durable, scratch-resistant mineral surface won't stain or yellow like resin alternatives"
-cons:
+cons: 
   - "At roughly 2.5 lbs per set, these are noticeably heavy — not ideal for hanging planters or frequent rearrangement"
   - "The light stone color shows mineral deposits from hard water; you'll need to wipe them down periodically"
   - "No drainage hole in the pot itself — you must use it as a cachepot with a nursery liner"
+
 ---
 
 If you've ever lifted a plant to find a saucer full of mosquito larvae and murky water, you already know the problem this product solves. The **Dorai Home Stone Plant Pots Saucer Set** replaces the standard plastic drip tray with a block of compressed diatomite — the same mineral used in their popular bath mats — that wicks moisture away from your plant's base and lets it evaporate. It's a genuinely clever solution to one of indoor gardening's most annoying problems, and at 4.6 stars across 229 ratings, it's earning its keep in real homes.

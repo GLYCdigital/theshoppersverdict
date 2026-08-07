@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Super-Thin Open End Wrench Set"
 seo_title: "DURATECH Super-Thin Wrench Set Review: Pros, Cons & Fit"
 meta_description: "DURATECH Super-Thin Open End Wrench Set review: 4.6/5 stars. Are the slim jaws worth it for tight spaces? Real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1F2LFJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819jjW4GcVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jaw thickness around 5mm lets you grip fasteners where standard wrenches physically won't fit"
   - "Chrome vanadium steel with full polish resists corrosion and cleans up easily"
   - "Laser-etched sizing on both sides stays legible even after grease and grime buildup"
-cons:
+cons: 
   - "Thin profile means less torque capacity — don't use these for stubborn, rusted bolts"
   - "No anti-slip or offset design; jaws can slip on rounded fasteners if you lean hard"
+
 ---
 
 **The 4.6-star DURATECH Super-Thin wrench set is for one specific job: reaching nuts and bolts in gaps where your standard wrench laughs at you.** If you've ever cursed while trying to tighten a hydraulic fitting or a hose clamp buried deep in an engine bay, this is the set that ends that frustration.

@@ -1,4 +1,5 @@
 ---
+
 title: "ARRMA RC Truck 1/8 KRATON 4X4 6S BLX BRUSHLESS V6 Speed Truc"
 seo_title: "ARRMA Kraton 6S BLX V6 Review: Is It Worth the Hype?"
 meta_description: "Our honest ARRMA Kraton 6S BLX V6 review covers speed, durability, and real-world bash performance. See if this 1/8 scale truck is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F2K7PD3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712CDUoaCIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Speex 6S brushless system hits 60+ mph out of the box with zero upgrades needed"
   - "Reinforced chassis and metal diff cases that survive repeated 30-foot sends"
   - "Waterproof electronics let you run through mud, snow, and puddles without worry"
-cons:
+cons: 
   - "Stock tires balloon badly at top speed, reducing stability and control"
   - "Spektrum SLT2 radio feels basic for a $500+ truck; no telemetry or fine-tune options"
+
 ---
 
 If you've watched ARRMA Kraton videos and thought "that's just marketing hype," let me stop you right there. This truck actually does what the footage shows. The 1/8 KRATON 4X4 6S BLX V6 is a legitimate 60+ mph basher that takes a beating and keeps asking for more. That's not a claim I make lightly — this is the V6 refresh of a platform that's been the gold standard in ready-to-run monster trucks for years.

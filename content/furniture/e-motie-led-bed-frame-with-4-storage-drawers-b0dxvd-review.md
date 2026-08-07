@@ -1,4 +1,5 @@
 ---
+
 title: "E-Motie LED Bed Frame with 4 Storage Drawers"
 seo_title: "E-Motie LED Bed Frame Review: Storage + Style (2026)"
 meta_description: "E-Motie LED bed frame with 4 drawers reviewed: build quality, LED brightness, storage capacity, assembly pain points, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXVDS77D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+DgByFSNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four full-width drawers glide on metal tracks — no sagging even when loaded with blankets and off-season clothes"
   - "LED strips run the full perimeter with 16-color options and adjustable brightness via included remote, not a phone app"
   - "Steel slat system rated for 800+ lbs — no box spring needed, which offsets the higher upfront cost"
-cons:
+cons: 
   - "Assembly is a two-person job and took most buyers 60–90 minutes despite the labeled parts"
   - "Remote uses an IR sensor — it must be pointed at the headboard, which is awkward if you mount the remote on a nightstand"
   - "Drawers have no soft-close mechanism; they thunk if you let them go"
+
 ---
 
 **Opening: The storage-first bed frame that doesn't look like a dorm room**

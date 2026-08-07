@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Kierreys Swivel Chair"
 seo_title: "Signature Design by Ashley Kierreys Swivel Chair Review: "
 meta_description: "Our full signature design by ashley kierreys swivel chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DXXDHYXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hxkL6B-kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most swivel chairs under $300 are junk. The Signature Design by Ashley Kierreys isn't that — but it's not a premium piece either. At 4.4 stars from 220 ratings, it's sitting comfortably in the "solid value" category, and for most buyers, that's exactly the right call.

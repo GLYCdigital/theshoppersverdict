@@ -1,4 +1,5 @@
 ---
+
 title: "Jordan's Skinny Syrups Sugar Free Coffee Syrup"
 seo_title: "Jordan's Skinny Syrups Sugar Free Coffee Syrup Review: Ve"
 meta_description: "Our full jordan's skinny syrups sugar free coffee syrup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FGD4VDRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PHL7bu+EL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about sugar-free coffee syrups: most taste like chemically sweetened regret. Jordan's Skinny Syrups is the exception that's earned a 4.3-star average across 215 Amazon ratings — and for good reason. But it's not perfect, and here's what you need to know before you add it to your cart.

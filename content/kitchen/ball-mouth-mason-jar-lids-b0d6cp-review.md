@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Mouth Mason Jar Lids"
 seo_title: "Ball Mouth Mason Jar Lids Review: Dependable Seals"
 meta_description: "Our Ball Mouth Mason Jar Lids review covers sealing reliability, reuse limits, and canning performance. See real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6CP2GF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kGztp7gYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Consistent sealing compound thickness across the batch — fewer failed seals than off-brand alternatives"
   - "Pre-formed threads align cleanly with both Ball and Kerr jars without cross-threading"
   - "The white enamel coating resists chipping and staining even after multiple hot-water bath cycles"
-cons:
+cons: 
   - "Lids-only packaging means you'll need to source rings separately if you don't have spares"
   - "Single-use design for canning purposes — don't expect reliable re-seals after the first processing run"
+
 ---
 
 Let's cut through the noise: a mason jar lid is not exciting. But a lid that fails at 2 AM when your pressure canner is running? That's a catastrophe. Ball has been making these for over a century, and the current production run holds up to that legacy — with a few caveats worth knowing before you add to cart.

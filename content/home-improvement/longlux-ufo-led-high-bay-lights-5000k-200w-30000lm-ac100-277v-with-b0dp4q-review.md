@@ -1,4 +1,5 @@
 ---
+
 title: "LONGLUX UFO LED High Bay Lights 5000K 200W 30000LM AC100-277"
 seo_title: "LONGLUX UFO LED High Bay Lights 5000K 200W 30000LM Review"
 meta_description: "Our full longlux ufo led high bay lights 5000k 200w 30000lm ac100-277 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP4Q5P1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-QVek13wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a warehouse, workshop, or garage with 15-foot-plus ceilings, you already know the drill: fluorescent tubes die young, and cheap UFO lights either hum, flicker, or claim 30,000 lumens while delivering half that. The LONGLUX UFO LED High Bay Light at 200W and 5000K is the rare budget fixture that actually delivers on its spec sheet. After digging through 229 ratings (4.6 stars) and cross-referencing independent lumen tests, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "YMCRLUX Zoomable LED Reading Lights for Bed Headboard, Clip "
 seo_title: "YMCRLUX Zoomable LED Reading Lights for Bed Headbo Review"
 meta_description: "Our full ymcrlux zoomable led reading lights for bed headboard, clip  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFJL2CFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hNvQiIH-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most clip-on reading lights under $25 are disposable junk. The YMCRLUX Zoomable LED Reading Light is not that. It's a genuinely useful tool for anyone who reads in bed, works on a laptop in the dark, or needs focused task lighting without waking a partner. But it's not perfect, and you should know exactly what you're getting before you hit buy.

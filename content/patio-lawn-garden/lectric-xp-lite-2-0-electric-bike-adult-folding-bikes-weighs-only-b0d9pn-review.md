@@ -1,4 +1,5 @@
 ---
+
 title: "LECTRIC XPâ„¢ Lite 2.0 Electric Bike | Adult Folding Bikes -"
 seo_title: "LECTRIC XPâ„¢ Lite 2.0 Electric Bike | Adult Foldi Review"
 meta_description: "Our full lectric xpâ„¢ lite 2.0 electric bike | adult folding bikes - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D9PNJ747/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i30C6U-aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LECTRIC XP Lite 2.0 is the rare folding e-bike that doesn't feel like a compromise.** Most sub-$1,000 folders are either too heavy to carry, too weak to climb, or too flimsy to trust at 20 mph. This one threads the needle—but it's not perfect. Here's what 200 Amazon buyers and my own testing reveal.

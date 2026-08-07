@@ -1,4 +1,5 @@
 ---
+
 title: "XSG Black Gel Pens[0.5mm]ï¼ŒExtra fine point pens Ballpoint "
 seo_title: "XSG Black Gel Pens[0.5mm]ï¼ŒExtra fine point pens  Review"
 meta_description: "Our full xsg black gel pens[0.5mm]ï¼œextra fine point pens ballpoint  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0993FCCB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j+niCzQoS._AC_SL1401_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that feeling when you pick up a pen and it just *works*? No skipping, no blobs, no hand cramps after a page of notes. The XSG Black Gel Pens (0.5mm extra fine point) are trying to be that pen for under a dollar each. After testing a full 12-pack against my usual rotation — and digging through 235 Amazon ratings — here’s the honest breakdown.

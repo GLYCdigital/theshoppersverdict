@@ -1,4 +1,5 @@
 ---
+
 title: "Marcy Utility Slant Board Exercise Bench for Strength Traini"
 seo_title: "Marcy Utility Slant Board Exercise Bench for Stren Review"
 meta_description: "Our full marcy utility slant board exercise bench for strength traini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2HXFPYZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A6CaBalbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Marcy Utility Slant Board: A Budget-Friendly Core Crusher With One Big Flaw**

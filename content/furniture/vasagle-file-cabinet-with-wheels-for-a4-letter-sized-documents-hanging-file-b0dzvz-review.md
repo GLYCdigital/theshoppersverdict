@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE File Cabinet, with Wheels, for A4, Letter Sized Docu"
 seo_title: "VASAGLE File Cabinet, with Wheels, for A4, Letter  Review"
 meta_description: "Our full vasagle file cabinet, with wheels, for a4, letter sized docu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DZVZMF86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-7+uvh5vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your filing system has devolved into a teetering stack of manila folders on the floor, the VASAGLE File Cabinet with Wheels is a practical, space-conscious fix. This isn't a showpiece — it's a workhorse designed for A4 and US Letter hanging files, and at a 4.1-star average across 204 ratings, it's clearly earning its keep in home offices and studios. But before you click buy, let's talk about what it actually does well and where it cuts corners.

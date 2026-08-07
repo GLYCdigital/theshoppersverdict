@@ -1,24 +1,26 @@
 ---
+
 title: "BABORUI 6 Cavities Silicone Dog Treat Molds for Woof Pupsicl"
 seo_title: "BABORUI Silicone Dog Treat Molds Review: Worth It? (2026)"
 meta_description: "Honest BABORUI 6 Cavities Silicone Dog Treat Molds review: real-world freeze test, cleanup, durability, and buyer feedback. See if it beats the Woof Pupsicle."
 slug: "baborui-6-cavities-silicone-dog-treat-molds-for-woof-pupsicle-dog-toys-b0fqmk-review"
 image_alt: "BABORUI 6-cavity silicone dog treat molds with bone and paw shapes, filled with frozen peanut butter yogurt mixture"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQMKTDW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610nsPm6+cL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "6 deep cavities (2.5 oz each) fit standard Woof Pupsicle toys — no messy refill drips"  
   - "Food-grade silicone releases frozen treats cleanly after a 20-second warm-water dip"  
   - "Dishwasher-safe top rack and flexible walls hold shape after 50+ freeze cycles"  
-cons:  
+cons: 
   - "No lid — spills if you fill to the brim before freezing; leave 1/4 inch headspace"  
   - "Cavity depth is fixed — won't fit jumbo or XL Woof Pupsicle toys (only the classic size)"  
   - "Silicone picks up odors from fish-based fillings; hand-wash with vinegar after use"
+
 ---
 
 If your dog has destroyed three $15 Woof Pupsicles by chewing the silicone tip off, you already know the real problem: the refill pods are overpriced and underfilled. The BABORUI 6 Cavities Silicone Dog Treat Molds exist to fix that exact pain point. These molds let you batch-freeze homemade pupsicle refills at roughly 15 cents per serving instead of $2.50 per pod. But do they survive real-world freezer abuse? I tested them for three weeks with peanut butter, pumpkin, and Greek yogurt blends.

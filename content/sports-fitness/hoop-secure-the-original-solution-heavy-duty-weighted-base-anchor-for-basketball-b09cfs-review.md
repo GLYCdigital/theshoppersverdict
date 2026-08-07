@@ -1,4 +1,5 @@
 ---
+
 title: "Hoop Secure - The Original Solution - Heavy Duty Weighted Ba"
 seo_title: "Hoop Secure - The Original Solution - Heavy Duty W Review"
 meta_description: "Our full hoop secure - the original solution - heavy duty weighted ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CFSQP89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CySjwHGWL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The "Hoop Secure" Weighted Base Anchor: The $40 Fix That Stops Your Hoop From Becoming a Missile**

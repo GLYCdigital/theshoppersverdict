@@ -1,16 +1,17 @@
 ---
+
 title: "Ninja 12-Cup Programmable Coffee Brewer, 2 Brew Styles, Adjustable Warm Plate, 60oz Water Reservoir, Delay Brew - Black/Stainless Steel"
 seo_title: "Ninja 12-Cup Programmable Coffee Brewer, 2 Brew St Review"
 meta_description: "Honest ninja 12-cup programmable coffee brewer, review based on 28,709+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "ninja-12-cup-programmable-coffee-brewer-2-brew-styles-adjustable-warm-plate-review"
 image_alt: "Ninja 12-Cup Programmable Coffee Brewer, 2 Brew Styles, Adjustable Warm Plate, 60oz Water Reservoir, Delay Brew - Black/"
-keywords:
+keywords: 
   - "ninja 12cup programmable review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Is the Ninja 12-Cup Programmable Coffee Brewer easy to set up?"
     answer: "Yes — straightforward to set up. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the Ninja 12-Cup Programmable Coffee Brewer?"
@@ -23,13 +24,14 @@ review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+HcYgDo1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy to set up and use"
   - "Good performance for the price range"
   - "Clean and practical design"
-cons:
+cons: 
   - "Missing some advanced features"
   - "Priced higher than similar options"
+
 ---
 
 If you're shopping for a coffee maker or brewer, you've probably noticed the Ninja 12-Cup Programmable Coffee Brewer, 2.... After combing through 28,709 Amazon customer reviews, one thing is clear: reviewers consistently highlight its straightforward setup and daily use as a key strength.

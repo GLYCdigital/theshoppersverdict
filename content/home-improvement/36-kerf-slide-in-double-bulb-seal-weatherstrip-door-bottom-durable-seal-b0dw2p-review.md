@@ -1,4 +1,5 @@
 ---
+
 title: "36 inch  Kerf Slide-in Double Bulb Seal Weatherstrip Door Bottom"
 seo_title: "36 inch  Kerf Slide-in Double Bulb Weatherstrip Review"
 meta_description: "Honest 36 inch  kerf slide-in double bulb seal weatherstrip review: fit, durability, and draft-blocking performance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DW2PRS7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41JATTZnk+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Slides into existing kerf slot in under two minutes — no screws, nails, or adhesive required"
   - "Dual hollow bulb design compresses evenly to seal gaps up to 1/2 inch on uneven floors"
   - "Flexible vinyl stays pliable down to freezing temps without cracking or losing its shape"
-cons:
+cons: 
   - "Must be cut to fit most doors; a sharp utility knife and straightedge are essential — not scored"
   - "Hollow bulbs can collapse permanently if the door drags or the gap is too tight"
+
 ---
 
 A 36-inch piece of vinyl shouldn't be this interesting. But when it's the only thing standing between your living room and a drafty winter porch, it earns attention. This kerf slide-in double bulb seal is one of those unglamorous fixes that quietly solves a problem you've been ignoring.

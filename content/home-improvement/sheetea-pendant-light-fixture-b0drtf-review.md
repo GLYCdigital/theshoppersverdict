@@ -1,4 +1,5 @@
 ---
+
 title: "Sheetea Pendant Light Fixture"
 seo_title: "Sheetea Pendant Light Fixture Review: Verdict | TSV"
 meta_description: "Our full sheetea pendant light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRTFN48X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71teK1cz5PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me get straight to it: the Sheetea Pendant Light is the rare budget fixture that doesn't *look* like a budget fixture. At $30–$40 depending on configuration, it's competing with builder-grade junk that usually ends up in the "replace this later" pile. But 240 Amazon reviewers averaging 4.8 stars suggests this one's different. I've spent time with it, and here's the honest breakdown.

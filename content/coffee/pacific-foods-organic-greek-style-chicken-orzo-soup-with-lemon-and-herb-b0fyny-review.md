@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Foods Organic Greek-Style Chicken Orzo Soup With Lem"
 seo_title: "Pacific Foods Organic Greek-Style Chicken Orzo Sou Review"
 meta_description: "Our full pacific foods organic greek-style chicken orzo soup with lem review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FYNY34YQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813pedMWWaL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about shelf-stable soups: most taste like the can they came in. Pacific Foods' Organic Greek-Style Chicken Orzo Soup breaks that mold — mostly. This is a soup that actually delivers on its lemon-herb promise, with a broth that tastes bright and fresh rather than metallic or flat. But it's not without tradeoffs, and the price point means you'll want to know exactly what you're getting before you stock up.

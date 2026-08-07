@@ -1,4 +1,5 @@
 ---
+
 title: "Razer BlackWidow V4"
 seo_title: "Razer BlackWidow V4 Review: Verdict | TSV"
 meta_description: "Our full razer blackwidow v4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CCBX7F8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wsrt05uLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Razer BlackWidow V4 isn't trying to be your grandfather's clacky green-switch monster. This 75% board is Razer's most serious attempt yet to court the enthusiast keyboard crowd—and it mostly works. But "mostly" is doing a lot of work at this price.

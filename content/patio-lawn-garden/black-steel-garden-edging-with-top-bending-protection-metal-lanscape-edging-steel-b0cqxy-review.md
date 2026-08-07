@@ -1,4 +1,5 @@
 ---
+
 title: "Black Steel Garden Edging with Top Bending Protection Metal"
 seo_title: "Black Steel Garden Edging Review: Top Bending Protection (2026)"
 meta_description: "Honest review of black steel garden edging with top bending protection. Real pros, cons, and buying advice for clean lawn borders. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQXYRPLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pOSV-mNLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 2mm steel with rolled top edge resists bending from foot traffic and mower contact — a real upgrade over flimsy 1mm options"
   - "Pre-punched slots align easily for overlapping joints, making curves and corners cleaner than most DIY edging systems"
   - "Black powder coat finish blends into mulch and soil visually, hiding the metal while keeping a crisp border line"
-cons:
+cons: 
   - "Steel stakes sold separately — budget another $20–30 for a full install, which isn't obvious from the main listing"
   - "Arrives with sharp cut ends at the factory seams; gloves are mandatory during handling and cutting"
   - "Powder coat scratches on rocky soil or if you hammer directly on the top edge — use a rubber mallet or wood block"
+
 ---
 
 If you've fought with flimsy plastic edging that pops out every spring or thin steel strips that buckle under a single misplaced footstep, this black steel edging is the upgrade you've been looking for. The "top bending protection" isn't just marketing language — it's a rolled lip along the top edge that adds serious rigidity and prevents the most common failure point in metal edging.

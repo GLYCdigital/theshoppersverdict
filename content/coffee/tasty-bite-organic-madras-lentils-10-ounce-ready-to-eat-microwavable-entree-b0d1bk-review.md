@@ -1,4 +1,5 @@
 ---
+
 title: "Tasty Bite Organic Madras Lentils, 10 Ounce, Ready to Eat, M"
 seo_title: "Tasty Bite Organic Madras Lentils, 10 Ounce, Ready Review"
 meta_description: "Our full tasty bite organic madras lentils, 10 ounce, ready to eat, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1BKZJX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714jXm0yiZL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 90-Second Indian Entree That Actually Tastes Like Someone Cooked It**

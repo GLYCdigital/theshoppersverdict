@@ -1,4 +1,5 @@
 ---
+
 title: "Bratz 2025 Limited Edition Bratzaversary Jade Collector Doll"
 seo_title: "Bratz 2025 Jade Collector Doll Review: Worth It?"
 meta_description: "Bratz 2025 Bratzaversary Jade Collector Doll review: articulation, packaging, value. Is this 20th-anniversary tribute worth $60? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D9BMDVTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z3JokzWoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full articulation at 17 points — elbows, wrists, and double-jointed knees that actually hold poses"
   - "Sculpted metallic silver outfit with real zippers and layered fabric — not the usual printed-on details"
   - "Certificate of authenticity and numbered base make it a genuine collector piece, not a mass-retail cash grab"
-cons:
+cons: 
   - "At roughly $60, it's 3x the price of a standard Bratz doll with no extra outfits or accessories"
   - "The silver metallic fabric shows fingerprints and scuffs easily right out of the box"
   - "Hair rooting is thinner than expected in the back — visible scalp when styled in certain ponytails"
+
 ---
 
 Let's be honest about what the Bratz 2025 Bratzaversary Jade Collector Doll really is: a love letter to fans who've been there since 2001, packaged with a premium price tag that demands scrutiny. This isn't the $15 aisle-clearer your kid grabs on impulse. At roughly $60, it's a deliberate purchase — and after handling one for a week, here's what that money actually buys you.

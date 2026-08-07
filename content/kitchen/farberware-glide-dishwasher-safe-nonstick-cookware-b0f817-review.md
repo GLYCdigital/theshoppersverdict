@@ -1,4 +1,5 @@
 ---
+
 title: "Farberware Glide Dishwasher Safe Nonstick Cookware"
 seo_title: "Farberware Glide Nonstick Cookware Review: Worth It? (2026)"
 meta_description: "Our Farberware Glide nonstick cookware review covers durability, dishwasher safety, and real performance. See if this budget set beats pricier brands."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F817M82X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BBqt0MmFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely dishwasher-safe nonstick that survives repeated cycles without peeling — rare at this price point"
   - "Glide coating releases eggs and fish with almost zero oil; food slides off like it's on ice"
   - "Comfortable, stay-cool silicone handles that stay put even when the pan is screaming hot"
-cons:
+cons: 
   - "Not induction-compatible — buyers with induction cooktops need to look elsewhere immediately"
   - "Exterior scratches easily; metal utensils and abrasive sponges will leave visible marks fast"
+
 ---
 
 ## The $60 Question: Can Budget Nonstick Actually Survive the Dishwasher?

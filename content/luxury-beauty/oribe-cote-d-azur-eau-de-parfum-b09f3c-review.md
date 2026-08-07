@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Cote d'Azur Eau de Parfum"
 seo_title: "Oribe Cote d'Azur Eau de Parfum Review: Verdict | TSV"
 meta_description: "Our full oribe cote d'azur eau de parfum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09F3C8MPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51d--3n5IRL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Oribe built its name on haircare that smells expensive. The Cote d'Azur Eau de Parfum takes that signature Mediterranean scent and turns it into something you wear on your skin. The question isn't whether it smells good — it does. The question is whether it justifies the premium over the dozens of other neroli-forward fragrances on the market.

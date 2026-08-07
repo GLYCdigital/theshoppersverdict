@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Torque Screwdriver Set with Storage, 1 inch  Phillips,"
 seo_title: "CRAFTSMAN Torque Screwdriver Set Review: 2026 Buyer's Guide"
 meta_description: "CRAFTSMAN Torque Screwdriver Set review: 4.6/5 stars from 229 buyers. Tested for precision torque, bit storage, and durability. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8DXD4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8144CQmqsFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable torque dial from 2 to 18 in-lb with audible click — precise enough for electronics and small appliance work"
   - "Sliding storage case holds 15 bits internally; no loose magnetic bits rattling in a drawer"
   - "Cushioned grip with rubber overmold reduces hand fatigue on repetitive jobs"
-cons:
+cons: 
   - "Torque range tops out at 18 in-lb — not suitable for automotive or heavy machinery fasteners"
   - "Case latch feels slightly flimsy; handle with care if you toss it in a tool bag"
   - "Bit selection skews heavily toward Phillips (6 bits) with only 2 slotted options"
+
 ---
 
 If you've ever stripped a laptop screw or cracked a plastic standoff because your "precision" driver was really just a skinny screwdriver, you already know why torque control matters. The CRAFTSMAN Torque Screwdriver Set with Storage isn't trying to be your do-everything toolbox centerpiece — it's a calibrated instrument for the jobs where feel matters more than brute force. With a 4.6-star average across 229 ratings, it's earning its keep in hobbyist and pro workshops alike. Here's the honest breakdown.

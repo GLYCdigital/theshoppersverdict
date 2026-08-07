@@ -1,4 +1,5 @@
 ---
+
 title: "Pooqla LED Marquee Letter Lights, Light Up Pink Letters Glit"
 seo_title: "Pooqla LED Marquee Letter Lights, Light Up Pink Le Review"
 meta_description: "Our full pooqla led marquee letter lights, light up pink letters glit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FF1XLZ16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vn1uyHmXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: a pink glitter marquee letter isn't a tool in the traditional sense. But if you're setting up a wedding backdrop, decorating a nursery, or staging a storefront display, this Pooqla LED letter is a tool for the job — and a surprisingly well-made one at that.

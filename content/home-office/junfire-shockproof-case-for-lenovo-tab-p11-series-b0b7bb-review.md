@@ -1,4 +1,5 @@
 ---
+
 title: "Junfire Shockproof Case for Lenovo Tab P11 Series"
 seo_title: "Junfire Shockproof Case for Lenovo Tab P11 Series Review:"
 meta_description: "Our full junfire shockproof case for lenovo tab p11 series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B7BB6XPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dszRUSLxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lenovo Tab P11 is a solid mid-range workhorse, but it's also a fragile slab of glass and aluminum that doesn't survive drops well. The Junfire Shockproof Case exists to fix exactly that problem — and with 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it the right protection for your specific workflow? Let's dig in.

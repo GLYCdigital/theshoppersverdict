@@ -1,4 +1,5 @@
 ---
+
 title: "Dingo Goof Balls, Chicken, 4.2 Ounce (Pack of 6)"
 seo_title: "Dingo Goof Balls Chicken Review: Worth It? (2026)"
 meta_description: "Dingo Goof Balls Chicken dog treats review: 4.6★ from 229 buyers. We break down texture, smell, value, and which dogs love them most."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHS352G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7196vaXPMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense, chewy texture that holds up to aggressive chewers without crumbling into sharp shards"
   - "Strong chicken scent that actually attracts picky eaters — not the typical bland 'meat-ish' smell"
   - "Six-pack value means you get 25.2 ounces total, which lasts moderate chewers several weeks"
-cons:
+cons: 
   - "Made with wheat flour as a primary binder — not suitable for dogs with grain sensitivities"
   - "At 4.2 ounces per bag, the individual packs feel small for the price point"
   - "Texture softens noticeably when left out — store in a resealable bag or they get stale fast"
+
 ---
 
 **Dingo Goof Balls, Chicken, 4.2 Ounce (Pack of 6)** has carved out a solid niche in the crowded dog treat market — and a 4.6-star average across 229 ratings tells you real buyers are finding something to love. But these quirky, ball-shaped chews aren't for every dog. Here's the breakdown.

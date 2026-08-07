@@ -1,4 +1,5 @@
 ---
+
 title: "Tonka Retro Mighty Dump Truck - Collector's Edition"
 seo_title: "Tonka Retro Mighty Dump Truck - Collector's Editio Review"
 meta_description: "Our full tonka retro mighty dump truck - collector's edition review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DDYM5ZY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715CaIO1fNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Tonka Retro Mighty Dump Truck is a deliberate throwback, and that's exactly its appeal. It's not trying to be a high-tech RC monster truck with app control and LED underglow. This is the truck your dad or grandpa played with — and it's built the same way.

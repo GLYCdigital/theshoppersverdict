@@ -1,7 +1,8 @@
 ---
-title: "Mr. Tortilla Big Big Burrito Wraps - 12-13\" - Small-Batch Ar"
-seo_title: "Mr. Tortilla Big Big Burrito Wraps - 12-13\" - Smal Review"
-meta_description: "Our full mr. tortilla big big burrito wraps - 12-13\" - small-batch ar review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Mr. Tortilla Big Big Burrito Wraps - 12-13\ - Small-Batch Ar"
+seo_title: "Mr. Tortilla Big Big Burrito Wraps - 12-13\ - Smal Review"
+meta_description: "Our full mr. tortilla big big burrito wraps - 12-13\ - small-batch ar review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mr-tortilla-big-big-burrito-wraps-12-13-small-batch-artisan-tortillas-b0cv5w-review"
 image_alt: "Mr. Tortilla Big Big Burrito Wraps - 12-13 - Small-Batch Artisan Tortillas, Restaurant Size, Made with Avocado Oil - Veg"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CV5W8J8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OoIhcAw-L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most low-carb tortillas taste like pressed cardboard with ambition. The Mr. Tortilla Big Big Burrito Wraps are different — but they're not perfect. Here's what you need to know before spending your money.

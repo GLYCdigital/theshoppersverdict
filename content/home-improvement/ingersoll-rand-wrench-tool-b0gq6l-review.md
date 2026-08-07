@@ -1,4 +1,5 @@
 ---
+
 title: "Ingersoll Rand Wrench Tool"
 seo_title: "Ingersoll Rand Wrench Tool Review: Verdict | TSV"
 meta_description: "Our full ingersoll rand wrench tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQ6LWXMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512MpsYSnjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about hand tools: most of them are forgettable. You buy them, they sit in a drawer, and you forget they exist until a bolt strips. The Ingersoll Rand wrench tool is different—not because it's flashy, but because it's built like the company actually respects your time and your knuckles.

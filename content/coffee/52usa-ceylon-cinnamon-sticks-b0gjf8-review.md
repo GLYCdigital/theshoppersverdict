@@ -1,4 +1,5 @@
 ---
+
 title: "52USA Ceylon Cinnamon Sticks Review"
 seo_title: "52USA Ceylon Cinnamon Sticks Review: Real Ceylon or Fake?"
 meta_description: "Honest 52USA Ceylon Cinnamon Sticks review: real Ceylon vs cassia, aroma, freshness, and how it performs in coffee. Find out if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJF8R1V1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61teP4aKt8L._SL1500_.jpg"
-pros:
+pros: 
   - "Thin, multi-layered quills confirm true Ceylon (Cinnamomum verum) rather than cheaper cassia — the papery layers are visible right in the bag"
   - "Sweet, delicate aroma with citrus notes that infuses coffee without the harsh bite of cassia"
   - "Whole sticks stay fragrant for months when stored properly; one stick can be reused 2–3 times in a drip brewer"
-cons:
+cons: 
   - "Not uniformly sized — some sticks arrive broken into smaller pieces, which matters if you need long sticks for garnish or gift jars"
   - "Packaging is a simple resealable pouch, not a rigid jar; sticks can crush in transit if you're not careful"
+
 ---
 
 **The Real Ceylon Test: Does 52USA Pass It?**

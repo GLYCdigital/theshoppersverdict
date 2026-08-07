@@ -1,4 +1,5 @@
 ---
+
 title: "Temptations MixUps Crunchy and Soft Cat Treats, Surfer's Del"
 seo_title: "Temptations MixUps Crunchy and Soft Cat Treats, Su Review"
 meta_description: "Our full temptations mixups crunchy and soft cat treats, surfer's del review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVR344BJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dDrk0SVoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cat treats: most are either crunchy kibble bites or soft, stinky morsels. Temptations MixUps Surfer's Del tries to have it both ways—and according to 240 Amazon reviewers averaging 4.8 stars, it mostly works.

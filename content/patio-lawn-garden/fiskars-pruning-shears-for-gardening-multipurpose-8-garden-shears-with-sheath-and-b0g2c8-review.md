@@ -1,4 +1,5 @@
 ---
+
 title: "Fiskars Pruning Shears for Gardening, Multipurpose 8 inch  Garden"
 seo_title: "Fiskars 8 inch  Pruning Shears Review: Multipurpose Garden Tool"
 meta_description: "Honest Fiskars 8 inch  pruning shears review: build quality, cutting performance, and real buyer feedback. See pros, cons, and who should buy."
@@ -9,15 +10,16 @@ date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
-pros:
+pros: 
   - "Fully hardened precision-ground steel blade stays sharp through heavy seasonal use"
   - "Low-friction coating prevents sap and debris from gumming up the cutting action"
   - "Ergonomic handle design with non-slip grip reduces hand fatigue during extended pruning sessions"
-cons:
+cons: 
   - "Blade replacement isn't straightforward; you'll likely buy a new tool rather than a replacement part"
   - "Maximum cutting capacity is 1/2-inch diameter — anything thicker requires a lopper or saw"
 amazon_url: "https://www.amazon.com/dp/B0G2C8MVPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qzzgNQJ5L._AC_SL1500_.jpg"
+
 ---
 
 Look, pruning shears are the most boring tool in your shed until the moment they aren't — the moment you're wrist-deep in overgrown roses and the cheap pair you bought at the hardware store folds on a half-inch branch. That's where the Fiskars 8" Multipurpose Pruning Shears come in. With a 4.6-star average across 229 Amazon ratings, this is the pair that keeps showing up in "best garden tools" conversations. Here's whether it deserves the hype.

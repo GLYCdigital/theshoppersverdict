@@ -1,4 +1,5 @@
 ---
+
 title: "La Roche-Posay Anthelios Cooling Water Sunscreen Lotion for "
 seo_title: "La Roche-Posay Anthelios Cooling Water Sunscreen L Review"
 meta_description: "Our full la roche-posay anthelios cooling water sunscreen lotion for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9X3X82X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hR73l-cfL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most high-SPF sunscreens feel like sunscreen. Greasy, sticky, or that chalky residue that makes you look like you lost a fight with a bag of flour. The La Roche-Posay Anthelios Cooling Water Sunscreen Lotion is not most sunscreens.

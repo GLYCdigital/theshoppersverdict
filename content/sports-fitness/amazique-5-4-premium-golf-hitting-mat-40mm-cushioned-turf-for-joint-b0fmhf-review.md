@@ -1,4 +1,5 @@
 ---
+
 title: "Amazique 5×4 Premium Golf Hitting Mat — 40mm Cushioned Tu"
 seo_title: "Amazique 5×4 Golf Hitting Mat Review: Cushioned 40mm Turf (2026)"
 meta_description: "Amazique 5×4 Premium Golf Hitting Mat review: 40mm cushioned turf protects joints, holds tees, and survives thousands of swings. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FMHFS58F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hrkYuT-PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40mm cushioned underlay genuinely absorbs impact — your elbows and wrists will thank you after 100 balls"
   - "Full 5x4 foot surface gives you room to stand, align, and swing without feeling cramped on a tiny mat"
   - "Turf holds up to repeated wedge and iron shots without shredding or leaving bald patches"
-cons:
+cons: 
   - "At roughly 30 pounds, this is a heavy mat — you won't be casually moving it between garage and yard"
   - "The turf texture plays slightly firmer than real fairway grass; you'll need to adjust your expectations on feel"
   - "No tee holder built into the mat — you'll need a separate tee system for driver practice"
+
 ---
 
 # Amazique 5×4 Premium Golf Hitting Mat Review: Does the 40mm Cushion Actually Protect Your Joints?

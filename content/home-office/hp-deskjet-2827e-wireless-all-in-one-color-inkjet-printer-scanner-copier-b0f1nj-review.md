@@ -1,4 +1,5 @@
 ---
+
 title: "HP DeskJet 2827e Wireless All-in-One Color Inkjet Printer, S"
 seo_title: "HP DeskJet 2827e Wireless All-in-One Color Inkjet  Review"
 meta_description: "Our full hp deskjet 2827e wireless all-in-one color inkjet printer, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F1NJ75D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g0ZhtFErL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP DeskJet 2827e is the kind of printer that looks like a steal at first glance — an all-in-one with wireless printing, scanning, and copying for under $100. But here's the catch that every budget printer buyer needs to hear: the machine is cheap because HP makes money on the ink. That tradeoff defines every interaction you'll have with this device.

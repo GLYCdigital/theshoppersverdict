@@ -1,4 +1,5 @@
 ---
+
 title: "RESCUE! VisiLureÂ® TrapStik for Wasps, Mud Daubers, Carpente"
 seo_title: "RESCUE! VisiLureÂ® TrapStik for Wasps, Mud Daubers Review"
 meta_description: "Our full rescue! visilureâ® trapstik for wasps, mud daubers, carpente review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07RT23SKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xpv2V+X6S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've got wasps buzzing your deck or carpenter bees drilling into your fascia, you need a solution that works *now* — not a spray that kills one bug at a time.** The RESCUE! VisiLure TrapStik is a mechanical trap that doesn't mess around with poisons. It's a simple, brutal, and effective design: a bright yellow sticky panel that pests can't resist landing on, and once they're on, they're done.

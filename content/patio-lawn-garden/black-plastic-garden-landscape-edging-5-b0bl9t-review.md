@@ -1,4 +1,5 @@
 ---
+
 title: "Black Plastic Garden Landscape Edging, 5″"
 seo_title: "Black Plastic Garden Edging 5″ Review: Worth It? (2026)"
 meta_description: "Honest review of 5″ black plastic landscape edging. Real pros, cons, and buyer feedback. Is it sturdy enough for your garden beds? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL9TQVGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tg3epiYKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flexible coil bends easily around curves and tight radii without kinking"
   - "At 5 inches tall, it provides a clean, low-profile barrier that hides in mulch"
   - "Sturdy enough to hold back grass and creeping roots when properly staked"
-cons:
+cons: 
   - "Arrives tightly coiled; needs to sit in the sun or warm water to relax before install"
   - "Top edge is sharp — wear gloves during installation to avoid cuts"
+
 ---
 
 ## The $30 Garden Edging That Finally Stays Put

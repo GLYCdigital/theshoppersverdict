@@ -1,4 +1,5 @@
 ---
+
 title: "Solo Stove Shield - Durable Stainless Steel Spark Protector "
 seo_title: "Solo Stove Shield - Durable Stainless Steel Spark  Review"
 meta_description: "Our full solo stove shield - durable stainless steel spark protector  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B1JHWY1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MZ9IEGyNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Solo Stove Bonfire, you already know it throws heat like a furnace — and sparks like a sparkler on the Fourth of July. The **Solo Stove Shield** is the brand’s answer to that: a stainless steel mesh cap that keeps flying embers off your deck, your jeans, and your neighbor’s patience. After testing it through a dozen burns, here’s the honest breakdown.

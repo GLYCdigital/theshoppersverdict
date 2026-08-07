@@ -1,4 +1,5 @@
 ---
+
 title: "Albaugh Gly Star Plus Herbicide (2.5 Gallons) Glyphosate Con"
 seo_title: "Albaugh Gly Star Plus Review: 41% Glyphosate Concentrate"
 meta_description: "Read our honest Albaugh Gly Star Plus 2.5-gallon review. Compare this 41% glyphosate concentrate to Roundup, coverage, mixing, and value."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BSNZNF7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GVfBI3-oL._SL1500_.jpg"
-pros:
+pros: 
   - "Full 41% glyphosate concentration matches name-brand Roundup at roughly half the per-gallon cost"
   - "2.5-gallon jug mixes to 85+ gallons of finished spray — enough to cover 1–2 acres"
   - "Non-selective systemic action kills weeds to the roots, including tough perennials like poison ivy and bermudagrass"
-cons:
+cons: 
   - "No surfactant included — you'll need to buy a separate wetting agent for waxy-leaf weeds"
   - "Jug has no measuring cap or pump; you'll want a graduated container and transfer pump for accurate mixing"
   - "Heavy at 22+ pounds when full — plan your storage space before ordering"
+
 ---
 
 Let me skip the pleasantries: if you're paying name-brand prices for glyphosate concentrate, you're burning money. The Albaugh Gly Star Plus 2.5-gallon jug delivers the exact same active ingredient — 41% glyphosate, isopropylamine salt — as the big orange bottle, at roughly half the cost per ounce. That's the headline. Here's whether it actually holds up.

@@ -1,4 +1,5 @@
 ---
+
 title: "Control Solutions Eraser A/P Weed & Grass Killer 41% Concent"
 seo_title: "Eraser A/P 41% Concentrate Review: Heavy-Duty Weed Killer"
 meta_description: "Our Control Solutions Eraser A/P 41% concentrate review covers real-world performance, mixing ratios, and value. See if this glyphosate formula is right for you."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XC3NSRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LvCjDGFwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "41% glyphosate concentration matches name-brand Roundup at roughly half the cost per gallon of mixed spray"
   - "Surfactant already included in the formula—no need to buy a separate wetting agent for most applications"
   - "2.5-gallon size covers up to 3,200 square feet at standard 3-ounce-per-gallon mixing rate"
-cons:
+cons: 
   - "No measuring cap included—buyers must supply their own measuring device, which is a genuine oversight"
   - "Non-selective formula kills everything it touches, including desirable turf and ornamentals if overspray drifts"
   - "Strong chemical odor during mixing requires gloves and eye protection; not a casual grab-and-go product"
+
 ---
 
 Let’s cut through the noise: if you’re facing a field of bindweed, poison ivy, or a gravel driveway that looks like a jungle, you don’t need another “eco-friendly” spray that works in three weeks. You need something that kills roots dead. The Control Solutions Eraser A/P is that something—a 41% glyphosate concentrate that does exactly what the label promises, and at a price that makes the big-name brands look like a tax on your ignorance.

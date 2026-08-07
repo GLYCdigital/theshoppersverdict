@@ -1,4 +1,5 @@
 ---
+
 title: "FONMY Mandala Wind Spinner Garden Decorations"
 seo_title: "FONMY Mandala Wind Spinner Review: 2026 Honest Verdict"
 meta_description: "FONMY Mandala Wind Spinner review: 4.6★ rated. Tested for durability, spin performance & rust resistance. Find out if this garden art is worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TX1DYC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r1kSo8zrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Laser-cut mandala pattern is genuinely intricate — creates a kaleidoscope light show when the sun hits it, not just a flat metal disc"
   - "Double-bearing spinner mechanism keeps it turning in breezes as light as 5-7 mph, while heavier gusts produce a satisfying, smooth rotation without wobble"
   - "Dual-sided powder coating resists chipping and fading; multiple buyers report leaving it out through full seasons without visible rust"
-cons:
+cons: 
   - "Stake is thinner than the head — in loose or sandy soil, it can lean under its own weight; consider a heavier garden stake for exposed locations"
   - "Some units arrive with a slight bend in the outer ring from shipping; usually fixable by hand-bending back, but worth inspecting on arrival"
+
 ---
 
 If you’ve ever watched a wind spinner seize up after two weeks in the elements, you know the frustration. The FONMY Mandala Wind Spinner claims to solve that with dual bearings and a powder-coated finish. After digging through 229 ratings (sitting at a healthy 4.6 out of 5), here’s the real story.

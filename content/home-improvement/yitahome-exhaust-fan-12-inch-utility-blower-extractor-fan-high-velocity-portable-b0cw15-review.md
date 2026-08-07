@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Exhaust Fan 12 Inch, Utility Blower Extractor Fan H"
 seo_title: "YITAHOME Exhaust Fan 12 Inch, Utility Blower Extra Review"
 meta_description: "Our full yitahome exhaust fan 12 inch, utility blower extractor fan h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW152HGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RLfGcxdiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 

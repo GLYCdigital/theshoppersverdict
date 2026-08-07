@@ -1,4 +1,5 @@
 ---
+
 title: "NextWall Palm Silhouette Coastal Peel and Stick Wallpaper"
 seo_title: "NextWall Palm Silhouette Coastal Peel and Stick Wa Review"
 meta_description: "Our full nextwall palm silhouette coastal peel and stick wallpaper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08SP5GVKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YM5k10qmL._AC_SL1425_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # NextWall Palm Silhouette Coastal Peel and Stick Wallpaper Review

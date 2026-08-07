@@ -1,7 +1,8 @@
 ---
-title: "HP Envy 2-in-1 Laptop, 14\" FHD Touchscreen Display, Intel Co"
-seo_title: "HP Envy 2-in-1 Laptop, 14\" FHD Touchscreen Display Review"
-meta_description: "Our full hp envy 2-in-1 laptop, 14\" fhd touchscreen display, intel co review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Envy 2-in-1 Laptop, 14\ FHD Touchscreen Display, Intel Co"
+seo_title: "HP Envy 2-in-1 Laptop, 14\ FHD Touchscreen Display Review"
+meta_description: "Our full hp envy 2-in-1 laptop, 14\ fhd touchscreen display, intel co review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-envy-2-in-1-laptop-14-fhd-touchscreen-display-intel-core-b0d1yx-review"
 image_alt: "HP Envy 2-in-1 Laptop, 14 FHD Touchscreen Display, Intel Core 7-150U (10-Cores Beats i7-1355U), WiFi 6E, Backlit KB, FP "
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1YX2KFL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P00TcqDOL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Envy 2-in-1 14" sits in a crowded lane: every manufacturer makes a convertible laptop, and most of them are mediocre. This one isn't. After 210 Amazon ratings averaging 4.2 stars, the consensus is clear — it's a genuinely good hybrid that just misses greatness. Here's the breakdown.

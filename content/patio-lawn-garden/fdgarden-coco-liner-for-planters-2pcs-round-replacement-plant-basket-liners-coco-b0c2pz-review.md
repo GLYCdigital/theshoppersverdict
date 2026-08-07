@@ -1,4 +1,5 @@
 ---
+
 title: "FDGARDEN Coco Liner for planters, 2PCS Round Replacement Pla"
 seo_title: "FDGARDEN Coco Liner Review: 2-Pack Planter Liners Worth It?"
 meta_description: "Honest FDGARDEN Coco Liner review: 2-pack round replacement liners. Real-world fit, durability, and drainage tested. See if these coconut fiber liners beat wire baskets."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2PZFX2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e06dftmbL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Thick, densely packed natural coir that holds moisture without turning to soup — roots stay aerated"
   - "True-to-size fit for standard 12-inch wire hanging baskets; no trimming or wrestling required"
   - "Decomposes at a predictable rate — roughly one full growing season before needing replacement"
-cons:
+cons: 
   - "No pre-cut drainage holes; you'll need scissors or a knife to open the bottom for water flow"
   - "Some units arrive with loose fibers shedding in the box — messy but harmless to plants"
+
 ---
 
 **Opening Hook: The $10 Question**

@@ -1,4 +1,5 @@
 ---
+
 title: "Johnson Level & Tool Heavy Duty Aluminum Box Level"
 seo_title: "Johnson Level & Tool Heavy Duty Aluminum Box Level Review"
 meta_description: "Our full johnson level & tool heavy duty aluminum box level review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DHKX8B5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815R+mUR3IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some tools you buy for precision. Others you buy for punishment. The Johnson Heavy Duty Aluminum Box Level sits somewhere in between — a workhorse that'll take a beating but might test your patience before it earns your trust.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 7.5FT/9FT/10FT Garden Table Umbrella with 30lb Pat"
 seo_title: "Yaheetech 7.5FT/9FT/10FT Garden Table Umbrella wit Review"
 meta_description: "Our full yaheetech 7.5ft/9ft/10ft garden table umbrella with 30lb pat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GPX949TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jxej6PywL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Yaheetech Garden Table Umbrella isn't the flashiest patio purchase you'll make this year, but it might be the most practical. Here's the thing: most umbrellas in this price range force you to buy the base separately, and that's where the real cost hides. Yaheetech bundles a 30lb base with the canopy, which changes the value equation significantly. Let's break down what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kikkoman Kikkoman Miso Soup 1 Oz"
 seo_title: "Kikkoman Kikkoman Miso Soup 1 Oz Review: Verdict | TSV"
 meta_description: "Our full kikkoman kikkoman miso soup 1 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7JGM42J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91PPzgptYXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most instant soup packets taste like salty disappointment. Kikkoman’s Miso Soup doesn’t. This 1 oz packet delivers legit umami depth that’ll make you double-check the packaging. As shown in the product image, it’s a no-frills foil packet — but what’s inside punches well above its weight.

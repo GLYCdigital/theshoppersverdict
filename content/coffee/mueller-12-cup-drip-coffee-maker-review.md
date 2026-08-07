@@ -1,4 +1,5 @@
 ---
+
 title: "Mueller 12-Cup Drip Coffee Maker"
 seo_title: "Mueller 12-Cup Drip Coffee Maker Review (2026): Worth It?"
 meta_description: "Honest Mueller 12-Cup Drip Coffee Maker review: build quality, brew speed, real user complaints, and who should buy this $30 machine."
@@ -11,14 +12,15 @@ review_count: 8406
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BM3C13B6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VrdDpSW-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews a full 12 cups in under 10 minutes — genuinely faster than most $60 machines"
   - "Pause-and-pour feature works without dripping down the side of the carafe"
   - "Reusable gold-tone filter included, saving you $15+/year on paper filters"
-cons:
+cons: 
   - "Carafe lid is not fully leak-proof when pouring at a steep angle"
   - "No auto-shutoff timer for the warming plate — it stays on until you turn it off"
   - "Brew temperature runs slightly cool (~185°F), which affects extraction for dark roasts"
+
 ---
 
 # Mueller 12-Cup Drip Coffee Maker: A $30 Machine That Outperforms Its Price Tag

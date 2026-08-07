@@ -1,5 +1,6 @@
 ---
 
+
 title: "Corsair MP600 Elite PCIe Gen4 x4 NVMe SSD"
 seo_title: "Corsair MP600 Elite Gen4 NVMe SSD Review (2026)"
 meta_description: "Corsair MP600 Elite Gen4 NVMe SSD review: 7,000MB/s reads, low-profile heatsink, real-world performance. See if it's worth your upgrade."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHGZ8LNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rEhck0iRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "7,000MB/s sequential reads and 6,200MB/s writes — genuinely fast for Gen4 inch"
   - "Low-profile aluminum heatsink fits PS5 and most laptops without clearance issues"
   - "Consistent sustained write performance thanks to 2GB DRAM cache on 2TB model"
-cons:
+cons: 
   - "No bundled cloning software — you'll need to download a free tool separately"
   - "Heatsink is non-removable; won't fit ultra-slim ultrabooks with 2280-only slots"
+
 
 ---
 

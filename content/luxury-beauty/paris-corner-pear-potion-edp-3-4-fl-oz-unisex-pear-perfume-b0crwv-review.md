@@ -1,4 +1,5 @@
 ---
+
 title: "Paris Corner | Pear.Potion EDP 3.4 Fl Oz | Unisex Pear Perfu"
 seo_title: "Paris Corner | Pear.Potion EDP 3.4 Fl Oz | Unisex  Review"
 meta_description: "Our full paris corner | pear.potion edp 3.4 fl oz | unisex pear perfu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CRWV85J8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bAFQI-O-L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Paris Corner's Pear.Potion the juicy, wearable pear fragrance it claims to be — or just another generic fruity designer dupe? Here's the real breakdown after digging through 215 ratings and buyer feedback.**

@@ -1,4 +1,5 @@
 ---
+
 title: "DEVAISE 3 Drawer File Cabinet with Lock, Small Rolling Filin"
 seo_title: "DEVAISE 3 Drawer File Cabinet Review: Worth It? (2026)"
 meta_description: "Honest DEVAISE 3 drawer file cabinet review: lock quality, rolling mobility, assembly ease, and real buyer feedback. See if this small filing cabinet fits your home office."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GK7Y7D95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HQg9zWEjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled out of the box — literally zero assembly required, which is rare at this price point"
   - "Ball-bearing drawer slides handle the rated 33 lbs per drawer smoothly, even with dense hanging files"
   - Compact footprint (15.4 inch " D x 15.7 inch " W x 25.6 inch " H) tucks under most desks and standard-height worksurfaces
-cons:
+cons: 
   - "The locking mechanism only secures the top drawer — the lower two drawers remain accessible when locked"
   - "Metal construction feels lightweight; several buyers report dents and scratches arriving from shipping"
   - Casters are small (2 inch ") and don't roll well on carpet — effectively a stationary cabinet on anything but hard floors
+
 ---
 
 Let's be blunt: a 3.9-star average across 195 ratings tells you this cabinet has a split personality. Some buyers call it the best $80 they've spent on their home office. Others describe a wobbly metal box that arrived dented. Both are right — and the truth depends entirely on what you need it for.

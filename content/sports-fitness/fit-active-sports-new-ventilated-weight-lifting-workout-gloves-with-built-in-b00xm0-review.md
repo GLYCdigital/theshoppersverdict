@@ -1,4 +1,5 @@
 ---
+
 title: "Fit Active Sports New Ventilated Weight Lifting Workout Glov"
 seo_title: "Fit Active Sports Ventilated Lifting Gloves Review (2026)"
 meta_description: "Honest Fit Active Sports ventilated weight lifting gloves review: breathability, grip, durability, sizing, and who should buy. 4.5-star rated."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00XM0MA2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7103NHYCp3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ventilated mesh backing keeps palms dry even during high-rep sets — a real upgrade over cheap neoprene gloves"
   - "Double-stitched padded palm holds up past 6 months of heavy barbell and dumbbell work"
   - "Adjustable hook-and-loop wrist strap provides solid support without cutting off circulation"
-cons:
+cons: 
   - "Sizing runs small — order one size up unless you want a fight getting them on"
   - "No gel padding on the thumb — some users report hot spots during long deadlift sessions"
+
 ---
 
 **Skip the callus rips. These gloves actually hold up.**

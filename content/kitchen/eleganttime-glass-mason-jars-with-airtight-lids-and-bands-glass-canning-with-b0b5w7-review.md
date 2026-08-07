@@ -1,4 +1,5 @@
 ---
+
 title: "eleganttime Glass Mason Jars with Airtight Lids and Bands Gl"
 seo_title: "eleganttime Glass Mason Jars Review: Airtight Lids Tested"
 meta_description: "Honest eleganttime Glass Mason Jars review: 4.7-star rated canning jars with airtight lids. Real durability tests, sizing details, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B5W75RVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DzXTZWmYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, heavy-duty glass that survives repeated dishwasher cycles and boiling water baths without clouding or chipping"
   - "True airtight seal with a satisfying pop — tested leak-proof upside down with liquids for 24 hours"
   - "Standard mouth sizing means replacement lids and accessories from Ball or Kerr fit perfectly"
-cons:
+cons: 
   - "Lids are not fully stainless — the insert is metal but the outer band can show water spots if left to air dry"
   - "No measurement markings on the glass, which some buyers expected for meal prep use"
+
 ---
 
 You can spot a cheap mason jar the moment you heft it — thin glass, flimsy bands, lids that don't seat right. The eleganttime set isn't that. These jars have a substantial weight to them that signals quality before you even twist a lid. But are they worth your money versus the classic Ball jars your grandmother used? Let's dig in.

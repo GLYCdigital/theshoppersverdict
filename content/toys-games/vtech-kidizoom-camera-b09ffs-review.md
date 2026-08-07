@@ -1,4 +1,5 @@
 ---
+
 title: "VTech KidiZoom Camera"
 seo_title: "VTech KidiZoom Camera Review: Verdict | TSV"
 meta_description: "Our full vtech kidizoom camera review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09FFSGXGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UwcE6dVuS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VTech KidiZoom Camera isn't a real camera. That's exactly why it's the right one to buy.**

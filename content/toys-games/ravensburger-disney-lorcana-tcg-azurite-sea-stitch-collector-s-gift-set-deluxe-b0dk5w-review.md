@@ -1,4 +1,5 @@
 ---
+
 title: "Ravensburger Disney Lorcana TCG: Azurite Sea Stitch Collecto"
 seo_title: "Ravensburger Disney Lorcana TCG: Azurite Sea Stitc Review"
 meta_description: "Our full ravensburger disney lorcana tcg: azurite sea stitch collecto review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK5WC19T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+bI0nqBPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing the Disney Lorcana TCG scene, the Azurite Sea Stitch Collector's Gift Set Deluxe is the kind of product that makes you pause at checkout. It's not a booster box, not a starter deck — it's something in between that tries to serve both collectors and players.

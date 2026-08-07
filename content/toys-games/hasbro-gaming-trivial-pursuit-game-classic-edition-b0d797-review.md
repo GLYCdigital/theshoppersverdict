@@ -1,4 +1,5 @@
 ---
+
 title: "Hasbro Gaming Trivial Pursuit Game: Classic Edition"
 seo_title: "Hasbro Trivial Pursuit Classic Review: Worth It in 2026?"
 meta_description: "Unbiased Hasbro Trivial Pursuit Classic Edition review: gameplay, build quality, real buyer feedback, and if it's worth your money in 2026."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D797QPY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dzZLi9ivL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Classic 6-category trivia format with 2,400 questions across 400 cards — the real deal, not a watered-down version"
   - "Solid game board and sturdy cardstock that holds up to repeated use; wedges snap into place with a satisfying click"
   - "Plays 2-6 players in roughly 60-90 minutes, making it a solid centerpiece for game night without dragging on"
-cons:
+cons: 
   - "Questions skew heavily toward Boomers/Gen X pop culture and history — younger players will be at a clear disadvantage"
   - "Card categories are color-coded but not labeled on the cards themselves, so you have to remember the color key"
   - "No included card storage tray; the cards can get messy in the box between games"
+
 ---
 
 # Hasbro Gaming Trivial Pursuit Game: Classic Edition Review

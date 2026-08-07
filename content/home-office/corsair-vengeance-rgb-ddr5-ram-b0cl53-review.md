@@ -1,4 +1,5 @@
 ---
+
 title: "CORSAIR Vengeance RGB DDR5 RAM"
 seo_title: "CORSAIR Vengeance RGB DDR5 RAM Review (2026): Worth It?"
 meta_description: "Honest CORSAIR Vengeance RGB DDR5 RAM review: performance, heat spreader quality, noise, and value. See real benchmarks and buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CL538VV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D2DDpDITL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Aggressive XMP 3.0 profiles hit advertised 6000MT/s speeds reliably on AM5 and Intel 12th/13th/14th-gen boards"
   - "Dual heat spreader design with aluminum cap actually keeps DDR5 cool under sustained loads — hand-touch test confirms it"
   - "iCUE software gives per-module RGB control with 10+ lighting presets, including temperature-reactive modes"
-cons:
+cons: 
   - "Tall 44mm heat spreaders block clearance for large tower coolers — check your CPU cooler clearance before buying"
   - "No Intel XMP 3.0 profile for AMD EXPO boards out of the box — manual tuning needed on some Ryzen 7000/9000 builds"
   - "iCUE software runs heavy in the background, eating 200-400MB RAM and occasionally needing a reboot after driver updates"
+
 ---
 
 The CORSAIR Vengeance RGB DDR5 RAM sits in an interesting spot. It's not the fastest kit on the market, nor the cheapest, but it's consistently one of the best-selling DDR5 options on Amazon — and with a 4.8/5 rating across 240 reviews, buyers are clearly satisfied. The question is whether it deserves a spot in *your* build.

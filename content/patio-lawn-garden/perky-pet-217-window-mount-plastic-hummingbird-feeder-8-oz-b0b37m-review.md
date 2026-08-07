@@ -1,4 +1,5 @@
 ---
+
 title: "Perky-Pet 217 Window Mount Plastic Hummingbird Feeder â€“ 8 "
 seo_title: "Perky-Pet 217 Window Mount Plastic Hummingbird Fee Review"
 meta_description: "Our full perky-pet 217 window mount plastic hummingbird feeder â€“ 8  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B37M6MMR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a hummingbird hover at a feeder from across the yard and wished you could see its iridescent throat up close, the Perky-Pet 217 is the answer. This is a feeder designed for one thing: putting hummingbirds literally inches from your face while you sip your morning coffee. And for the most part, it delivers.

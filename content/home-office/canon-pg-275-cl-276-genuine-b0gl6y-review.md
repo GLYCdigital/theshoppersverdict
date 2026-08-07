@@ -1,5 +1,6 @@
 ---
 
+
 title: "Canon PG-275 / CL-276 Genuine"
 seo_title: "Canon PG-275 CL-276 Review: Genuine Ink Worth It?"
 meta_description: "Canon PG-275/CL-276 genuine ink review: print quality, page yield, cost per page. Is OEM worth the premium over third-party? Find out."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL6YR9RF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816ne-0W7FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Canon formulation prevents printhead clogging and maintains warranty coverage — third-party inks void it"
   - "Consistent, smudge-resistant output on plain paper with accurate color reproduction from the CL-276 inch"
   - "Simple tool-free installation — cartridges click in place in under 60 seconds"
-cons:
+cons: 
   - "High cost per page (~$0.09 black, ~$0.19 color) makes this painful for high-volume printing"
   - "CL-276 color cartridge yields only 180 pages — you'll replace it 3x as often as the black"
   - "No high-yield XL option for this cartridge family on Amazon — you're locked into standard capacity"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Primula Stewart Whistling Stovetop Tea"
 seo_title: "Primula Stewart Whistling Stovetop Tea Review: Verdict | "
 meta_description: "Our full primula stewart whistling stovetop tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9PQC9QG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lFr2rBXuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most stovetop kettles under $40 are flimsy tin disguises with a whistle that sounds like a dying mouse. The Primula Stewart is not that. But it's also not perfect, and you deserve to know exactly where it cuts corners before you hand over your money.

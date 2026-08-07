@@ -1,4 +1,5 @@
 ---
+
 title: "3 Swords Germany – brand quality 4 piece manicure pedicure"
 seo_title: "3 Swords Germany Manicure Pedicure Set Review (2026)"
 meta_description: "Honest 3 Swords Germany 4-piece manicure pedicure set review: Solingen steel quality, real-world performance, and whether this luxury kit is worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0799JNH6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ec0I1JvGL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Solingen forged stainless steel — edges hold sharpness far longer than generic kits"
   - "Ergonomic handles with substantial weight; tools feel balanced in hand, not flimsy"
   - "Compact leather-look case keeps all four pieces organized and travel-ready"
-cons:
+cons: 
   - "No nail clipper included — this is a filing/cuticle-focused kit, not a full grooming set"
   - "Case hinge feels slightly stiff initially; needs a bit of breaking in"
   - "Price point sits above drugstore alternatives — you're paying for German craftsmanship"
+
 ---
 
 Some tools you buy for a season. Others you buy for a decade. The 3 Swords Germany 4-piece manicure pedicure set falls firmly into the second category — provided you understand what it is and what it isn't.

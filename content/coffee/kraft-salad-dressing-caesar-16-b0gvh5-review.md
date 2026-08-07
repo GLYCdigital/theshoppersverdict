@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft Salad Dressing, Caesar, 16"
 seo_title: "Kraft Salad Dressing, Caesar, 16 Review: Verdict | TSV"
 meta_description: "Our full kraft salad dressing, caesar, 16 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVH5GCDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rHbMzVbML._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The Caesar you’ll actually finish**

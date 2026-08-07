@@ -1,4 +1,5 @@
 ---
+
 title: "cemtip Hybrid Mattress in a Boxï¼Œ Medium Firm Feel"
 seo_title: "cemtip Hybrid Mattress Review: Medium Firm Comfort"
 meta_description: "Honest cemtip hybrid mattress in a box review: medium firm feel, edge support, and motion isolation tested. See if it's right for you."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GS55DVRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xcSjoHeKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True medium-firm feel that suits back and stomach sleepers without feeling like a plank"
   - "Pocketed coil base provides legit edge support and minimal motion transfer for couples"
   - "Breathable quilted cover plus gel-infused foam layer runs cooler than typical bed-in-a-box"
-cons:
+cons: 
   - "Off-gassing smell lingers 24-48 hours after unboxing despite claims of quick dissipation"
   - "No handles on the sides, making repositioning a chore once it's expanded"
+
 ---
 
 The bed-in-a-box market is crowded with options that all promise the same thing: perfect sleep at a discount price. The cemtip Hybrid Mattress in a Box with its medium firm feel actually delivers something rare — a balanced profile that doesn't force you to pick between support and pressure relief. After digging through 229 ratings averaging 4.6 stars, here's what you need to know before you drop your money.

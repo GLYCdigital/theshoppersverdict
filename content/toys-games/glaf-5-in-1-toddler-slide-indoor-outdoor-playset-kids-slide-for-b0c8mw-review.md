@@ -1,4 +1,5 @@
 ---
+
 title: "Glaf 5 in 1 Toddler Slide Indoor Outdoor Playset Kids Slide"
 seo_title: "Glaf 5-in-1 Toddler Slide Review: Worth It? (2026)"
 meta_description: "Read our honest Glaf 5-in-1 Toddler Slide review. We break down assembly, safety, and value for indoor/outdoor play. See if it beats the competition."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C8MWKWMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nyyCp6G3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five distinct activities (slide, basketball, steering wheel, tunnel, peek-a-boo) that actually hold a toddler’s attention for more than a week."
   - "Compact footprint fits in most living rooms but is sturdy enough for backyard use on grass."
   - "Basketball hoop and steering wheel are positioned at the correct height for 1–3 year olds, not just decorative add-ons."
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 30–45 minutes; the tabs can be finicky to align on the first try."
   - "The slide surface is fast—great for older toddlers, but 12-month-olds will need a spotter at the bottom until they master the climb."
+
 ---
 
 **Is the Glaf 5-in-1 the ultimate living-room jungle gym, or just another plastic monstrosity that collects dust by week three?**

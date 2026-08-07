@@ -1,4 +1,5 @@
 ---
+
 title: "Antetek Twin Daybed with Pop Up Trundle & Wireless Charging,"
 seo_title: "Antetek Twin Daybed with Pop Up Trundle Review (2026)"
 meta_description: "Antetek Twin Daybed with pop-up trundle & wireless charging reviewed: build quality, comfort, hidden downsides, and who should buy it. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9673GGR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DWJ2PvciL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pop-up trundle raises to match main bed height — no uneven sleeping surfaces like most trundles"
   - "Built-in wireless charging pad and USB ports in the armrest actually work — no separate adapter needed"
   - "Sturdy steel frame rated for 600 lbs combined; doesn't wobble when used as a sofa"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with two people; hardware is plentiful but instructions are minimal"
   - "Upholstery is a magnet for pet hair and lint — needs regular vacuuming to look clean"
   - "Wireless charger requires the included AC adapter plugged into a nearby outlet, limiting placement options"
+
 ---
 
 If you're shopping for a daybed that pulls double (or triple) duty — guest bed, living room seating, kids' sleepover station — the Antetek Twin Daybed with Pop Up Trundle is worth a hard look. The headline feature here isn't just the trundle; it's that this trundle pops *up* to match the main bed's height, so you're not putting a guest on a mattress that sits six inches off the floor like most trundles. That single design choice separates this from a dozen cheaper competitors.

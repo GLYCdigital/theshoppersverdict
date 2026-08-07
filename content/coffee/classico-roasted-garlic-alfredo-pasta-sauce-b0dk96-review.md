@@ -1,4 +1,5 @@
 ---
+
 title: "Classico Roasted Garlic Alfredo Pasta Sauce"
 seo_title: "Classico Roasted Garlic Alfredo Sauce Review (2026)"
 meta_description: "Honest Classico Roasted Garlic Alfredo sauce review: flavor, texture, value, and how it compares to jarred competitors. See who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK96P2YZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Lk0xYmcgL._SL1500_.jpg"
-pros:
+pros: 
   - "Roasted garlic flavor is forward and savory without being sharp or bitter — a genuine step up from generic 'garlic powder' alfredos"
   - "Creamy, clingy texture that coats fettuccine evenly; doesn't break or separate when reheated in a pan"
   - "15-ounce jar is generous for two hearty servings or three modest ones — good value at typical grocery pricing"
-cons:
+cons: 
   - "Sodium runs high (roughly 370mg per half-cup); anyone watching blood pressure will want to balance portions"
   - "Parmesan note is subtle — if you want a sharp cheese-forward alfredo, you'll need to add your own grated Parmigiano"
+
 ---
 
 # Classico Roasted Garlic Alfredo Pasta Sauce: Worth the Hype?

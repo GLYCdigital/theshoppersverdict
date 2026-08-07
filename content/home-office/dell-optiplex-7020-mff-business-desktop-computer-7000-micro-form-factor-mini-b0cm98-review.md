@@ -1,4 +1,5 @@
 ---
+
 title: "Dell OptiPlex 7020 MFF Business Desktop Computer, 7000 Micro"
 seo_title: "Dell OptiPlex 7020 MFF Review: Is This Tiny PC Worth It? (2026)"
 meta_description: "Our Dell OptiPlex 7020 MFF review covers performance, build quality, and real-world tradeoffs. See who should buy this compact business desktop and who should skip it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CM9823D8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yAD4jiReL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Micro form factor (about 7 inches square) mounts behind a monitor or under a desk, freeing up serious desk space"
   - "Reliable Intel Core processor performance for office workloads — spreadsheets, browsers, and video calls handle without stutter"
   - "Tool-less chassis access makes RAM and SSD upgrades a five-minute job for anyone with basic DIY comfort"
-cons:
+cons: 
   - "Integrated graphics only — this is not a machine for gaming, video editing, or heavy creative work"
   - "Limited port selection compared to the larger OptiPlex tower variants; you'll likely need a USB hub for peripherals"
   - "Bulk of the 4.0 rating comes from buyers who found the included SSD small; expect to budget for a storage upgrade"
+
 ---
 
 If your desk currently looks like a spaghetti junction of cables, monitors, and a tower that's too big for the space, the Dell OptiPlex 7020 MFF deserves a hard look. This is the "Micro Form Factor" version of Dell's workhorse business line — a machine roughly the size of a hardcover book that Dell sells by the pallet to corporations. But you don't need an IT department to appreciate what it does.

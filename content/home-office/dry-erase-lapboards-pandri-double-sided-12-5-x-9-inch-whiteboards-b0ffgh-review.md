@@ -1,4 +1,5 @@
 ---
+
 title: "Dry Erase LapBoards, PANDRI Double Sided 12.5 x 9 Inch White"
 seo_title: "PANDRI Double Sided Dry Erase LapBoards Review (2026)"
 meta_description: "Honest PANDRI dry erase lapboard review: double-sided 12.5x9 whiteboard. Tested for ghosting, durability, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FFGHTDWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EgvW0lxUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely double-sided — both surfaces erase cleanly without ghosting, even after marker sits for hours"
   - "Rigid 3mm thick board doesn't flex or bend during lap use or wall mounting"
   - "Rounded corners and smooth edges make it safe for kids while keeping a professional look"
-cons:
+cons: 
   - "No pen tray or holder built into the board — small accessories can get misplaced"
   - "Only 2 markers and 1 mini eraser included, so you'll likely buy more supplies quickly"
+
 ---
 
 Let's be blunt: most dry erase boards under $20 are flimsy, ghost-stained disappointments that make you regret the purchase within a week. The PANDRI Double Sided 12.5 x 9 Inch White LapBoard isn't that. Here's the real story after digging through 235 ratings and testing the specs.

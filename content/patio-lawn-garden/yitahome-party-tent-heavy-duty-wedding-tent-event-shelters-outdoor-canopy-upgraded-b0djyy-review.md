@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME Party Tent Heavy Duty Wedding Tent Event Shelters O"
 seo_title: "YITAHOME Party Tent Heavy Duty Wedding Tent Event  Review"
 meta_description: "Our full yitahome party tent heavy duty wedding tent event shelters o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJYYSYMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WuKJYFD5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A canopy that actually respects your event—and your money.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Douglas Spunky Hedgehog Plush Stuffed Animal"
 seo_title: "Douglas Spunky Hedgehog Plush Review: Soft, Realistic & Cute"
 meta_description: "Douglas Spunky Hedgehog plush review: realistic details, soft fur, and durable build. See if this 4.8-star stuffed animal is worth buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00W8LBTMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JDJd3f5PL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Realistic hedgehog sculpting with airbrushed details that look far more premium than the price point suggests"
   - "Soft, dense polyester fill holds shape well even after aggressive hugging and machine washing"
   - "Sturdy construction with reinforced stitching on the ears and feet — no loose threads after months of play"
-cons:
+cons: 
   - "Smaller than photos suggest — roughly the size of a large adult hand, not a lap companion"
   - "Spiky texture on the back may feel odd to sensory-sensitive kids who prefer ultra-smooth plush"
+
 ---
 
 **A Plush That Actually Looks Like a Hedgehog — Not a Ball of Brown Fluff**

@@ -1,23 +1,25 @@
 ---
+
 title: "6 Inch Clay Pot for Plant with Saucer, Flower Pot with Tray,"
 seo_title: "6 Inch Clay Pot with Saucer Review: Honest Verdict"
 meta_description: "Read our 6 inch clay pot with saucer review. Classic terracotta, drain hole, tray included. See pros, cons, and who should buy it."
 slug: "6-inch-clay-pot-for-plant-with-saucer-flower-pot-with-tray-b0bjvm-review"
 image_alt: "6 inch terracotta clay flower pot with matching saucer tray"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJVMMWRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R1ld5UJsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Classic terracotta look with a functional drainage hole and matching saucer"  
   - "Sturdy 6-inch size fits most countertops, shelves, and small patio tables"  
   - "Attractive matte finish that ages well — no glossy plastic vibe"  
-cons:  
+cons: 
   - "Terracotta is porous; can develop white mineral stains over time"  
   - "Saucer is shallow — heavy watering can overflow if you're not careful"
+
 ---
 
 If you’re after that timeless, earthy look for your succulents or herbs, this 6-inch clay pot with saucer delivers exactly what the photo promises. No surprises, no gimmicks — just a solid terracotta pot that does its job. But is it worth your money? Let’s break it down.

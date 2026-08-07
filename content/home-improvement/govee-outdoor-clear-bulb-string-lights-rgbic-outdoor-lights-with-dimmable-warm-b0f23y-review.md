@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Outdoor Clear Bulb String Lights, RGBIC Outdoor Lights"
 seo_title: "Govee Outdoor Clear Bulb String Lights, RGBIC Outd Review"
 meta_description: "Our full govee outdoor clear bulb string lights, rgbic outdoor lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F23Y462Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XsKYAoC+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most outdoor string lights are either cheap incandescent throwaways or overpriced "smart" bulbs that only do one color at a time. The Govee Outdoor Clear Bulb String Lights try to split that difference with RGBIC tech — and for the most part, they nail it.

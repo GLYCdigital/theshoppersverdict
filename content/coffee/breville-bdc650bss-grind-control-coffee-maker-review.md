@@ -1,17 +1,18 @@
 ---
+
 title: "Breville BDC650BSS Grind Control Coffee Maker With Grinder, Brushed Stainless Steel, Thermal Carafe Review"
 seo_title: "Breville Grind Control Review: Verdict on the Polarizing 3.5★ Machine (6,540 Reviews)"
 meta_description: "Breville BDC650BSS Grind Control coffee maker review: 6,540 Amazon reviews average just 3.5 stars. Integrated grinder, Steep and Release, thermal carafe. Real pros, cons, and our honest verdict on this $400 machine."
 slug: "breville-bdc650bss-grind-control-coffee-maker-review"
 image_alt: "Breville BDC650BSS Grind Control Coffee Maker with integrated grinder and thermal carafe in brushed stainless steel"
-keywords:
+keywords: 
   - "Breville Grind Control review"
   - "Breville BDC650BSS review"
   - "coffee maker with grinder review"
   - "Breville Grind Control problems"
   - "best grind and brew coffee maker"
 verdict_score: 3.6
-faq:
+faq: 
   - question: "Is the Breville Grind Control worth it at $400?"
     answer: "Only if you will actually use the integrated grinder and want the freshest possible drip coffee from a single appliance. The Steep and Release cycle produces a fuller, more aromatic cup than any pre-ground machine in this class. But 3.5 stars from 6,540 reviews tells you the experience is inconsistent — grinder jams and carafe temperature complaints are real. If you want set-and-forget reliability, cheaper machines deliver it; if you want the best-tasting drip coffee from one box, this is the machine — when it cooperates."
   - question: "Why does the Breville Grind Control have such a low rating?"
@@ -26,18 +27,19 @@ review_count: 6540
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B00VGGVQCI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615cLyCGSML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine integrated conical burr grinder — whole beans to cup in one machine"
   - "Steep and Release brewing extracts noticeably fuller, more aromatic flavor"
   - "8 strength settings that genuinely change the cup, not marketing noise"
   - "Thermal carafe keeps coffee hot without a burner, so nothing tastes burnt"
   - "Pre-ground bypass option adds flexibility for decaf or emergency grounds"
-cons:
+cons: 
   - "3.5 stars from 6,540 reviews is a red flag — unusually low for Breville"
   - "Grinder jams are a recurring complaint with oily or dark-roast beans"
   - "Steep and Release cycle is slower than a standard drip brew"
   - "Thermal carafe runs cooler than expected by the third hour"
   - "$400 is premium money for a machine with reliability complaints"
+
 ---
 
 The Breville BDC650BSS Grind Control is a coffee maker with an identity crisis — and that's exactly why it sits at a lukewarm 3.5 stars across 6,540 Amazon ratings. It's not a bad machine. It's also not the $400 game-changer Breville wants you to believe it is. Here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Acedeck Portable Gym Timer Clock: Fitness Digital Clock with"
 seo_title: "Acedeck Gym Timer Clock Review: Strong Magnet & Remote (2026)"
 meta_description: "Honest Acedeck portable gym timer clock review: big display, strong magnet, remote control. See pros, cons, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7XS43JL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BIrUMpUlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large 7-inch LED display visible from across a commercial gym floor, even in bright lighting"
   - "Strong magnetic back that holds securely to squat racks, treadmills, and steel beams without slipping"
   - "Remote control works up to 30 feet away, so you can start/stop intervals from the floor or your phone"
-cons:
+cons: 
   - "No built-in rechargeable battery — requires 3x AAA batteries (not included) and remote needs a separate coin cell"
   - "Magnet is strong but won't stick to aluminum or painted non-ferrous surfaces, limiting placement options"
   - "Countdown mode beeps at 3 seconds but lacks a loud final alarm for large group classes"
+
 ---
 
 # Acedeck Portable Gym Timer Clock: Fitness Digital Clock with Strong Magnet & Remote

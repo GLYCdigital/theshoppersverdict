@@ -1,4 +1,5 @@
 ---
+
 title: "SUNLONG Dorm Room Essential Clip on Light Wall-Mounted, 3 Co"
 seo_title: "SUNLONG Dorm Room Essential Clip on Light Wall-Mou Review"
 meta_description: "Our full sunlong dorm room essential clip on light wall-mounted, 3 co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BMPNQ5PJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WS9sc0b5L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 dorm lamp that actually earns its spot on your headboard**

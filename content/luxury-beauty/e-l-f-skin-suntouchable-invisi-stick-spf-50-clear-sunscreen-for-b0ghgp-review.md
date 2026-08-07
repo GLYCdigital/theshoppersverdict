@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. SKIN Suntouchable Invisi-Stick SPF 50, Clear Sunscree"
 seo_title: "e.l.f. Suntouchable Invisi-Stick SPF 50 Review (2026): Clear, No White Cast"
 meta_description: "Honest e.l.f. Suntouchable Invisi-Stick SPF 50 review: clear formula, no white cast, works with makeup. See pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGPGKGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6198S0mIbUL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly transparent formula — no white cast even on deeper skin tones"
   - "Solid 2-ounce stick delivers full SPF 50 coverage without greasy residue"
   - "Sits cleanly under makeup; doesn't pill or disturb foundation"
-cons:
+cons: 
   - "Clear gel means you can't see where you've applied — easy to miss spots"
   - "Light citrus scent may bother sensitive noses"
+
 ---
 
 Let's cut through the noise: most sunscreen sticks are a compromise. You either get a thick, chalky white cast that makes you look like a ghost, or you get a greasy mess that slides off before lunch. The e.l.f. SKIN Suntouchable Invisi-Stick SPF 50 sidesteps both traps — and at $13, it's punching well above its price point.

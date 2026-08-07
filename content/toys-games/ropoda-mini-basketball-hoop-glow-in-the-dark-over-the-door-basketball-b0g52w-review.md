@@ -1,4 +1,5 @@
 ---
+
 title: "ropoda Mini Basketball Hoop - Glow in The Dark, Over The Doo"
 seo_title: "ropoda Mini Basketball Hoop - Glow in The Dark, Ov Review"
 meta_description: "Our full ropoda mini basketball hoop - glow in the dark, over the doo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G52WNX5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710qWC2L8IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wanted a basketball hoop that doesn't require a driveway, a drill, or a landlord's permission, the **ropoda Mini Basketball Hoop** is the kind of product that sounds too simple to be good. But here's the thing: it's actually well-executed for what it is. With a **4.4/5 rating across 220 Amazon reviews**, this glow-in-the-dark over-the-door hoop has carved out a real niche. The question isn't whether it's fun — it's whether it'll hold up to your household's specific brand of chaos.

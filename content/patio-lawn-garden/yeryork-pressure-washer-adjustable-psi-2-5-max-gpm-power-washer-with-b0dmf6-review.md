@@ -1,4 +1,5 @@
 ---
+
 title: "YERYORK Pressure Washer, Adjustable PSI 2.5 Max GPM, Power W"
 seo_title: "YERYORK Pressure Washer, Adjustable PSI 2.5 Max GP Review"
 meta_description: "Our full yeryork pressure washer, adjustable psi 2.5 max gpm, power w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DMF6N4JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aEZ-OPGPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The YERYORK Pressure Washer sits in a crowded market segment where $150–$250 electric washers all promise the same thing: enough punch to strip grime without the maintenance headaches of a gas unit. The difference here is the adjustable PSI dial and a legit 2.5 GPM flow rate — specs that sound good on paper but only matter if the pump holds up. After digging through 190 ratings averaging 3.8 stars, here's the real story.

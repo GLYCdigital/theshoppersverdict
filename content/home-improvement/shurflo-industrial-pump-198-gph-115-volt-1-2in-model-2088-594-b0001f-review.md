@@ -1,4 +1,5 @@
 ---
+
 title: "SHURflo Industrial Pump - 198 GPH, 115 Volt, 1/2in., Model# "
 seo_title: "SHURflo Industrial Pump - 198 GPH, 115 Volt, 1/2in Review"
 meta_description: "Our full shurflo industrial pump - 198 gph, 115 volt, 1/2in., model#  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0001FAA5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sN+xE1PKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SHURflo Industrial Pump Review: Is This 198 GPH Workhorse Worth Your Money?

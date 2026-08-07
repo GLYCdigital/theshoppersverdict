@@ -1,4 +1,5 @@
 ---
+
 title: "AmorArc 16oz large coffee mugs set of 6 inch"
 seo_title: "AmorArc 16oz Coffee Mugs Review: Worth It? (2026)"
 meta_description: "Honest AmorArc 16oz coffee mug set review: capacity, durability, and real buyer feedback. See if this 6-pack is worth your money before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQVJ5SCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jU9lkHj8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 16oz capacity — fits a full grande-sized coffee plus room for cream, unlike many 'large' mugs that max out around 12oz"
   - "Thick, sturdy ceramic walls that hold heat noticeably longer than thin diner-style mugs"
   - "Generous handle design fits four fingers comfortably, even for larger hands"
-cons:
+cons: 
   - "Not microwave-safe for extended heating — the glaze can get extremely hot while the mug stays cool, creating a burn risk"
   - "Dishwasher safe, but the colored exterior glaze may fade slightly after 100+ hot wash cycles"
+
 ---
 
 # AmorArc 16oz Large Coffee Mugs Set of 6: Big Enough to Matter

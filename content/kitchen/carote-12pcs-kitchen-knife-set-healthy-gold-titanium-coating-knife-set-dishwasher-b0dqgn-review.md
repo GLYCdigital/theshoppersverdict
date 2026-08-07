@@ -1,4 +1,5 @@
 ---
+
 title: "CAROTE 12PCS Kitchen Knife Set, Healthy Gold Titanium Coatin"
 seo_title: "CAROTE 12PC Knife Set Review: Gold Titanium Worth It?"
 meta_description: "CAROTE 12PC gold titanium knife set review: sharpness, durability, dishwasher safety, and value. See real pros, cons, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQGNWCNC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gUCt3uu8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely razor-sharp out of the box — glides through tomatoes and peppers without crushing them"
   - "Gold titanium coating resists sticking and staining noticeably better than bare steel knives"
   - "Full tang construction with triple-riveted handles gives a balanced, substantial feel for the price"
-cons:
+cons: 
   - "Gold coating will show micro-scratches with heavy use on ceramic plates — purely cosmetic but visible"
   - "Included shears feel flimsy compared to the knives; fine for herbs, not for breaking down poultry"
   - "Knife block takes up more counter space than a magnetic strip or in-drawer organizer"
+
 ---
 
 Let’s be honest about knife sets: most are 80% filler and 20% knives you actually use. The CAROTE 12-piece set flips that ratio. For around the price of a single mid-tier chef’s knife, you get a full block that actually performs. I’ve spent three weeks abusing this set in a home kitchen — here’s what matters.

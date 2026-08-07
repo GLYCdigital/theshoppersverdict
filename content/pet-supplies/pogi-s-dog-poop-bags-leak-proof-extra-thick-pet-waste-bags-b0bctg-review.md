@@ -1,4 +1,5 @@
 ---
+
 title: "Pogiâ€™s Dog Poop Bags â€“ Leak-Proof & Extra Thick Pet Wast"
 seo_title: "Pogiâ€™s Dog Poop Bags â€“ Leak-Proof & Extra Thic Review"
 meta_description: "Our full pogiâ€™s dog poop bags â€“ leak-proof & extra thick pet wast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BCTGPPBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715OsdgzPkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: I've tested 14 different poop bag brands over the last two years, from dollar-store specials to premium compostable options. Most of them fail the same way — a seam split at the worst possible moment, or a bag so thin you feel the warmth through the plastic. Pogi’s is different. Here’s the full breakdown.

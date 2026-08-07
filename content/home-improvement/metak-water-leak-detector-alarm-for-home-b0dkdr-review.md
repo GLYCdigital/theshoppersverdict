@@ -1,4 +1,5 @@
 ---
+
 title: "METAK Water Leak Detector Alarm for Home"
 seo_title: "METAK Water Leak Detector Alarm for Home Review: Verdict "
 meta_description: "Our full metak water leak detector alarm for home review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKDRL2YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619jkFf+oJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your basement, laundry room, or water heater closet has ever flooded, you know the smell of wet drywall and the sting of a $3,000 insurance deductible. The METAK Water Leak Detector Alarm is a $20 insurance policy that screams before the damage starts. With a 4.6-star average across 229 ratings, this little white puck has earned its place in thousands of homes. But is it the right leak detector for *your* situation? Here’s what I found after putting one through real-world conditions.

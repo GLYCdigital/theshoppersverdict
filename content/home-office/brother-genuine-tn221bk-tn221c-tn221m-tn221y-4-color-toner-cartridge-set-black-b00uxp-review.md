@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine TN221BK, TN221C, TN221M, TN221Y 4-Color Tone"
 seo_title: "Brother TN221 Toner Set Review: Worth It? (2026)"
 meta_description: "Honest Brother TN221 4-color toner set review: print quality, page yield, cost per page, and whether OEM is worth it over third-party."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00UXPF3V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dGwz6DuwL._AC_SL1323_.jpg"
-pros:
+pros: 
   - "Genuine Brother chemistry delivers accurate, consistent color matching across all four cartridges — no banding or streaking"
   - "Chip communicates true remaining toner levels to the printer, so you're never blindsided by a mid-job outage"
   - "One box covers the full CMYK set — cheaper than buying cartridges individually, and you're not paying for color you don't need yet"
-cons:
+cons: 
   - "Black is rated for 1,400 pages while colors are only 1,000 — heavy text printing burns through the BK cartridge faster than the rest"
   - "Premium OEM pricing means roughly 60-80% more per page than compatible cartridges from third-party brands"
+
 ---
 
 **Review Body:**

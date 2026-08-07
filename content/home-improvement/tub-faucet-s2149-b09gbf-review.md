@@ -1,4 +1,5 @@
 ---
+
 title: "Tub Faucet S2149"
 seo_title: "Tub Faucet S2149 Review: Verdict | TSV"
 meta_description: "Our full tub faucet s2149 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09GBFN1FS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Kq6qjDUtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Tub Faucet S2149: A No-Nonsense Look at a 4.3-Star Performer

@@ -1,17 +1,18 @@
 ---
+
 title: "BUNN GRB Velocity Brew 10-Cup Home Coffee Brewer"
 seo_title: "BUNN Velocity Brew 10-Cup Review: 4.6★ Coffee in 3 Minutes"
 meta_description: "Our full BUNN GRB Velocity Brew review. 4.6 stars from 17,000+ ratings. Brews a full pot in 3 minutes, keeps coffee hot, and lasts 10+ years. Read the verdict."
 slug: "bunn-velocity-brew-10-cup-review"
 image_alt: "BUNN GRB Velocity Brew 10-Cup Home Coffee Brewer in black with glass carafe"
-keywords:
+keywords: 
   - "BUNN Velocity Brew review"
   - "BUNN coffee maker 10 cup"
   - "best fast drip coffee maker"
   - "BUNN GRB review"
   - "commercial grade coffee maker home"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "How fast does the BUNN Velocity Brew brew coffee?"
     answer: "The BUNN Velocity Brew brews a full 10-cup pot in about 3 minutes. It keeps water hot in an internal reservoir at all times, so there's no heating delay — just pour water, add grounds, and brew."
   - question: "Does the BUNN Velocity Brew keep coffee hot?"
@@ -26,15 +27,16 @@ review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c-0mF4CjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 10-cup pot brewed in just 3 minutes — faster than any digital brewer at this price"
   - "Built like a tank; owners routinely report 10-15 year lifespans with minimal maintenance"
   - "Simple, analog controls — no touchscreens or programming to fight with"
   - "Hot water always available, not just for coffee but for tea, oatmeal, or instant soup"
-cons:
+cons: 
   - "First 2-3 pots run cool while the internal reservoir primes to full temperature"
   - "No programmable timer, clock, or auto-shutoff — it's on when you turn it on"
   - "Spray head requires periodic unscrewing and cleaning to maintain flow"
+
 ---
 
 If you've ever watched a standard drip machine dribble out a pot over six agonizing minutes, the BUNN Velocity Brew will feel like cheating. This thing doesn't brew coffee so much as it summons it. The secret is a constantly heated internal water tank — the same concept BUNN has used in commercial diners for decades — that holds water at near-boiling temperatures, ready to dump through your grounds the moment you pour in fresh water.

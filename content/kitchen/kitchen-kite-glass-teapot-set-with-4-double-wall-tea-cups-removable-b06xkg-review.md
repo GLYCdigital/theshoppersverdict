@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen Kite Glass Teapot Set with 4 Double Wall Tea Cups & "
 seo_title: "Kitchen Kite Glass Teapot Set with 4 Double Wall T Review"
 meta_description: "Our full kitchen kite glass teapot set with 4 double wall tea cups &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06XKGB4D6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KO+-wuWsL._AC_SL1384_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the prettiest teapot set on Amazon that actually works?** After digging through 229 ratings and testing the geometry of this thing, here's the real picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "GE MSWF Refrigerator Water Filter | Certified to Reduce Lead"
 seo_title: "GE MSWF Refrigerator Water Filter | Certified to R Review"
 meta_description: "Our full ge mswf refrigerator water filter | certified to reduce lead review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00126NABC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WOMr2qFaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the filter aisle confusion. You've got three options: the knockoff on Amazon for $12, the store brand for $18, or this GE MSWF OEM cartridge that typically runs $35-45. Here's what the extra money actually buys you — and where it doesn't matter.

@@ -1,4 +1,5 @@
 ---
+
 title: "MAD SHARK Paring Knife Paring Knives, Small Kitchen Knife, U"
 seo_title: "MAD SHARK Paring Knife Paring Knives, Small Kitche Review"
 meta_description: "Our full mad shark paring knife paring knives, small kitchen knife, u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DXFDT9RK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yjazhyL+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $12 knife that shames your $200 set — but only if you're realistic about it.**

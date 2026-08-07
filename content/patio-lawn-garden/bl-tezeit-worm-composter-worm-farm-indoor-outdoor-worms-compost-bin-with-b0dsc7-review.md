@@ -1,4 +1,5 @@
 ---
+
 title: "Blütezeit Worm Composter, Worm Farm Indoor & Outdoor, Worms"
 seo_title: "Blütezeit Worm Composter Review: Indoor & Outdoor Worm Farm"
 meta_description: "Honest Blütezeit Worm Composter review: Is this indoor/outdoor worm farm worth it? Stackable trays, drainage, real user feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSC799XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717RKkz-dBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stackable tray design makes harvesting worm castings nearly effortless — worms migrate upward naturally"
   - "Sturdy 10-gallon capacity fits under most kitchen sinks or on a balcony without taking over your space"
   - "Built-in spigot drains leachate tea, giving you liquid fertilizer without disturbing the worm bedding"
-cons:
+cons: 
   - "Assembly instructions are minimal — you'll likely need to watch a video to get the trays seated correctly"
   - "Plastic feels slightly thinner than premium worm farms; aggressive handling during harvest could crack a tray"
+
 ---
 
 If you've been eyeing vermicomposting but stalled on the mess, the smell, or the "what do I do with the worms" confusion, the Blütezeit Worm Composter is the system that removes most of those excuses. It's a stacked-tray worm farm designed for both indoor and outdoor use, and at roughly the size of a small cooler, it fits where you actually live — not just where you garden.

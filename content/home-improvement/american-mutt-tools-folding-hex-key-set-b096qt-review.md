@@ -1,4 +1,5 @@
 ---
+
 title: "AMERICAN MUTT TOOLS Folding Hex Key Set Review"
 seo_title: "AMERICAN MUTT TOOLS Folding Hex Key Set Review (2026)"
 meta_description: "Honest AMERICAN MUTT TOOLS folding hex key set review: build quality, comfort, durability, and real-world performance. See if this 4.5-star set is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B096QT6FJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OwoDEJHHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Black oxide coating resists rust and provides better grip than bare chrome keys"
   - "Reversible hinge design means the long end is always available for high-torque work"
   - "Keys lock firmly open at 180 degrees — no floppy, fidget-spinner nonsense mid-task"
-cons:
+cons: 
   - "Size markings are laser-etched; they'll wear off with heavy use in a toolbox drawer"
   - "The SAE set tops out at 3/8-inch, so larger fasteners need a separate set"
+
 ---
 
 Let's cut the chase: most folding hex key sets are either cheap gimmicks that fold at the worst moment, or overpriced name-brand tools that cost more than the bike they're meant to fix. The AMERICAN MUTT TOOLS folding set sits in a comfortable middle ground, and after 225 reviewers weighed in at 4.5 stars, it's clear this one earns its keep.

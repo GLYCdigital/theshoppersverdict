@@ -1,4 +1,5 @@
 ---
+
 title: "[Newest] 4392067 Dryer Repair Kit and W10837240 Dryer Idler "
 seo_title: "[Newest] 4392067 Dryer Repair Kit and W10837240 Dr Review"
 meta_description: "Our full [newest] 4392067 dryer repair kit and w10837240 dryer idler  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B48X1K71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wJfNcwc0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A dryer that squeals like a tortured bird every time it runs isn't just annoying — it's a warning. That noise is almost always the idler pulley or the belt, and this two-part kit from the "Newest" line targets exactly those failure points. But does it actually fix the problem, or just quiet it temporarily?

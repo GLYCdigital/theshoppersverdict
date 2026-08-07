@@ -1,4 +1,5 @@
 ---
+
 title: "AKM 72 Pcs JIC 37° Flare Cap and Plug Kit Hose Tube and Pip"
 seo_title: "AKM 72 Pcs JIC 37° Flare Cap & Plug Kit Review"
 meta_description: "AKM 72-piece JIC 37° flare cap and plug kit review: sizes, fit, durability, and value. Is this $57 hydraulic fitting set worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BKZHH563/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r-d7HZJsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Actual machined steel construction with zinc plating — not cheap aluminum or plastic that deforms on first torque"
   - "Covers -4 through -16 AN sizes (both caps and plugs), which spans nearly every common hydraulic and automotive application"
   - "Hex flats are properly sized for standard wrenches, so you don't need crow's foot adapters for tight spots"
-cons:
+cons: 
   - "No size markings stamped on the fittings themselves — you'll need the included chart or a caliper to sort them after they're mixed in a drawer"
   - "The blow-molded case is functional but flimsy; the latches feel like they'll wear out after a year of shop use"
+
 ---
 
 If you work on hydraulic systems, you already know the pain: you pull a hose off a pump, and immediately dirt and moisture get into the open port. Then you scramble through your shop looking for a cap that fits. The AKM 72-piece JIC 37° flare cap and plug kit aims to end that scavenger hunt. Here's what you actually get for $57.

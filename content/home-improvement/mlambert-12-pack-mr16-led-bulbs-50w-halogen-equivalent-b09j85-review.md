@@ -1,4 +1,5 @@
 ---
+
 title: "Mlambert 12 Pack MR16 LED Bulbs 50W Halogen Equivalent"
 seo_title: "Mlambert 12 Pack MR16 LED Bulbs 50W Halogen Equiva Review"
 meta_description: "Our full mlambert 12 pack mr16 led bulbs 50w halogen equivalent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J85ZYF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712sqdDbUzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still paying for 50-watt halogen MR16s, you're literally burning money every time you flip a switch. The Mlambert 12-pack replaces those energy hogs with 5.5-watt LEDs that put out the same 500 lumens — roughly a 90% energy reduction per fixture. But as with any MR16 retrofit, the real question isn't brightness. It's whether your existing transformer can handle them. Let's dig into that.

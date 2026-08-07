@@ -1,4 +1,5 @@
 ---
+
 title: "AMD Ryzen 7 5700 8-Core, 16-Thread Desktop Processor"
 seo_title: "AMD Ryzen 7 5700 Review: Best Budget 8-Core CPU for Work"
 meta_description: "AMD Ryzen 7 5700 review: Is this 8-core, 16-thread AM4 processor worth it for office builds? Benchmarks, thermals, and buying advice inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ4HPJYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jxHGiiiNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 cores and 16 threads at a sub-$200 price point — genuine multi-tasking muscle for spreadsheet-heavy workflows"
   - "65W TDP runs cool on stock cooler; quiet operation in office environments"
   - "AM4 socket compatibility means cheap upgrades for existing B450/B550 motherboard owners"
-cons:
+cons: 
   - "No integrated graphics — you must have a discrete GPU, which adds cost to a budget office build"
   - "PCIe 3.0 only, not 4.0 — minor bottleneck for fast NVMe SSDs and future GPU upgrades"
+
 ---
 
 The AMD Ryzen 7 5700 is the processor people forget about. Sandwiched between the ubiquitous Ryzen 5 5600 and the enthusiast-grade Ryzen 7 5700X, this 8-core chip gets overlooked. But for a specific type of buyer — the person building a serious productivity machine without burning cash — this might be the smartest AM4 purchase available in 2026.

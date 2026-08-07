@@ -1,4 +1,5 @@
 ---
+
 title: "Bones Coffee Company Medium Ground-Whole Roast Low Acid Arab"
 seo_title: "Bones Coffee Low Acid Arabica Review: Worth It? (2026)"
 meta_description: "Bones Coffee low acid Arabica review: smooth medium roast, whole bean or ground. See real pros, cons, and who should buy this 4.6-star coffee."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXMT5N5J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PzPP4JinL._SL1500_.jpg"
-pros:
+pros: 
   - "Low acid process preserves flavor — no bitter or sour bite, even for sensitive stomachs"
   - "Versatile grind options (whole bean, medium ground) suit drip, pour-over, and French press"
   - "Consistent 4.6-star rating across 229 reviews — buyers repeatedly praise smoothness"
-cons:
+cons: 
   - "Medium roast may taste flat to drinkers who prefer dark, bold, or smoky profiles"
   - "No single-origin transparency — blend origin isn't disclosed on the bag"
   - "Price-per-ounce runs higher than grocery-store commodity beans, though competitive for low-acid specialty"
+
 ---
 
 Let's be honest: most "low acid" coffees taste like punishment. They're over-roasted to hide defects, or they strip out the compounds that give coffee its character. Bones Coffee Company's Medium Roast Low Acid Arabica isn't that. It's a genuinely drinkable daily coffee that happens to be gentle on your stomach — and that's a harder trick than most roasters pull off.

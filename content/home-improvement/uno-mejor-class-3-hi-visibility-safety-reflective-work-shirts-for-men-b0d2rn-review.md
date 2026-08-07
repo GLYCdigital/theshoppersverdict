@@ -1,4 +1,5 @@
 ---
+
 title: "Uno Mejor Class 3 Hi Visibility Safety Reflective Work Shirt"
 seo_title: "Uno Mejor Class 3 Hi Visibility Safety Reflective  Review"
 meta_description: "Our full uno mejor class 3 hi visibility safety reflective work shirt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2RNHPPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lLtvWhCmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever worn a cheap hi-vis shirt that disintegrates after three washes, you know the drill. The Uno Mejor Class 3 work shirt isn't that shirt. At 4.4 stars across 220 ratings, it's carving out a reputation among road crews, warehouse workers, and anyone who needs to be seen at dawn or dusk. But is it worth your money? Let's break it down.

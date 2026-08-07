@@ -1,4 +1,5 @@
 ---
+
 title: "BlueWood Pikler Triangle Set"
 seo_title: "BlueWood Pikler Triangle Review: Indoor Climbing for Toddlers"
 meta_description: "Honest BlueWood Pikler Triangle Set review: build quality, safety, real parent feedback, and who should buy this $150+ Montessori climber."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXFPS35H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YFmhxLGOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid birch plywood construction with rounded edges — no splinters reported in 200+ reviews"
   - "Folds flat to under 6 inches for storage, yet holds up to 110 lbs of active climbing"
   - "Ramp converts to both a slide and a climbing bridge, doubling the play value"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes with 20+ bolts — not a 5-minute setup despite the tool-free claim"
   - "No anti-slip pads on the base legs; slides on hardwood floors unless you add your own grip"
+
 ---
 
 # BlueWood Pikler Triangle Set Review: Is This Montessori Climber Worth the Hype?

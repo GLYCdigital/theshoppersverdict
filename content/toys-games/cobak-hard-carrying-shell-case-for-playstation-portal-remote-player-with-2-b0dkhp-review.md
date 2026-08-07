@@ -1,4 +1,5 @@
 ---
+
 title: "CoBak Hard Carrying Shell Case for PlayStation Portal Remote"
 seo_title: "CoBak Hard Carrying Shell Case for PS Portal Review (2026)"
 meta_description: "Honest CoBak hard shell case review for PS Portal Remote: fit, protection, storage, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DKHPM7P9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-HYS2AwyL._SL1500_.jpg"
-pros:
+pros: 
   - "Precision-molded interior holds the Portal snugly with zero wiggle, even during drops"
   - "Dual zipper pulls and reinforced stitching at stress points outlast cheap alternatives"
   - "Extra mesh pocket fits the charging cable and a USB-C brick without bulging the shell"
-cons:
+cons: 
   - "Slightly bulky for jacket pockets — this is a backpack case, not a pocket sleeve"
   - "No dedicated slot for earbuds; they'll float loose in the mesh compartment"
+
 ---
 
 You just dropped $200 on a PlayStation Portal. The last thing you need is a cracked screen because you tossed it in a backpack next to your keys. The CoBak Hard Carrying Shell Case exists to prevent exactly that — and with 235 ratings averaging 4.7 stars, it's clearly doing something right. Here's the real breakdown after digging through buyer feedback and examining the build.

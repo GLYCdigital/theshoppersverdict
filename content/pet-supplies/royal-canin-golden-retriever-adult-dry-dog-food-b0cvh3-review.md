@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin Golden Retriever Adult Dry Dog Food"
 seo_title: "Royal Canin Golden Retriever Adult Dry Dog Food Review: V"
 meta_description: "Our full royal canin golden retriever adult dry dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CVH3PR7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zB4JwTeAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've owned a Golden Retriever, you already know the two biggest feeding challenges: they inhale food like a vacuum cleaner, and they're genetically prone to joint issues. Royal Canin's breed-specific formula tackles both head-on — but it comes at a premium price. Here's the honest breakdown after digging into the specs, the ingredients, and what 220 Amazon reviewers actually say.

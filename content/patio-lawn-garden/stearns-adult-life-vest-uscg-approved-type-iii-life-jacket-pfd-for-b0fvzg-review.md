@@ -1,4 +1,5 @@
 ---
+
 title: "Stearns Adult Life Vest, USCG Approved Type III Life Jacket,"
 seo_title: "Stearns Adult Life Vest, USCG Approved Type III Li Review"
 meta_description: "Our full stearns adult life vest, uscg approved type iii life jacket, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVZG83WR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717r8aHkP-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Stearns Adult Life Vest sits in that awkward middle ground: cheap enough to buy without guilt, quality enough that you won't regret it. It's not the lightest, not the most feature-packed, but with 229 ratings averaging 4.6 stars, it's clearly doing something right. Let's break down whether it's the right PFD for your water activities.

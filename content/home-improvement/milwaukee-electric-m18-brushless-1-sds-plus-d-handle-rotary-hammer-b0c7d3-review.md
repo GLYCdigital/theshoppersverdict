@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M18. BRUSHLESS 1. SDS Plus D-Handle Rot"
 seo_title: "Milwaukee Electric - M18. BRUSHLESS 1. SDS Plus D- Review"
 meta_description: "Our full milwaukee electric - m18. brushless 1. sds plus d-handle rot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7D35F6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ceszr7KkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Milwaukee M18 Brushless 1" SDS Plus D-Handle Rotary Hammer is the tool you rent from Home Depot for a weekend — then immediately buy after the first hole. It's that good. With 235 ratings averaging 4.7 stars, this is one of those rare tools where the hype mostly checks out. But it's not perfect, and at this price point, you deserve the full story before you commit.

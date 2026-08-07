@@ -1,4 +1,5 @@
 ---
+
 title: "Opiesit Gaming Chair, Computer Gaming Chairs with Footrest, "
 seo_title: "Opiesit Gaming Chair, Computer Gaming Chairs with  Review"
 meta_description: "Our full opiesit gaming chair, computer gaming chairs with footrest,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FNMW5WXM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YVkINmCcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Opiesit Gaming Chair Computer Gaming Chairs With Footrest Linkage Armrests And Lumbar B0Fnmw Review"
 seo_title: "Opiesit Gaming Chair Review: Footrest & Lumbar Support"

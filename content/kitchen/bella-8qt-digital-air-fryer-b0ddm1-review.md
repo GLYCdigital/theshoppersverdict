@@ -1,4 +1,5 @@
 ---
+
 title: "Bella 8qt Digital Air Fryer"
 seo_title: "Bella 8qt Digital Air Fryer Review: Worth It in 2026?"
 meta_description: "Honest Bella 8qt Digital Air Fryer review: 8-quart capacity, 8 presets, real-world performance tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDM151D4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gi0OuMhKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 8-quart capacity handles a whole 5-pound chicken or 3 pounds of fries without crowding"
   - "Digital touchscreen with 8 one-touch presets that actually match cook times (not just decorative buttons)"
   - "Dishwasher-safe basket and crisper plate with nonstick coating that survives repeated washes"
-cons:
+cons: 
   - "Unit is bulky — 15 inches deep means it won't fit under most standard upper cabinets"
   - "Basket handle gets warm during long roasts; you'll want a mitt or towel for anything over 30 minutes"
+
 ---
 
 ## The 8-Quart Air Fryer That Actually Earns the Counter Space

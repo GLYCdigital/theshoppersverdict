@@ -1,4 +1,5 @@
 ---
+
 title: "PetSafe Drinkwell Pet Fountain - Cat & Dog Hydration Station"
 seo_title: "PetSafe Drinkwell Pet Fountain - Cat & Dog Hydrati Review"
 meta_description: "Our full petsafe drinkwell pet fountain - cat & dog hydration station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08QTC6TDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xQYEm8SfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **PetSafe Drinkwell Pet Fountain - Cat & Dog Hydration Station** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

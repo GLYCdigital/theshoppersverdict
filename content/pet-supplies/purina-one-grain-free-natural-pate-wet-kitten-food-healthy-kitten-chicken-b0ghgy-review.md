@@ -1,4 +1,5 @@
 ---
+
 title: "Purina ONE Grain Free, Natural Pate Wet Kitten Food, Healthy"
 seo_title: "Purina ONE Grain Free, Natural Pate Wet Kitten Foo Review"
 meta_description: "Our full purina one grain free, natural pate wet kitten food, healthy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGYFW7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xPThVHZDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Right First Food for Your Kitten?

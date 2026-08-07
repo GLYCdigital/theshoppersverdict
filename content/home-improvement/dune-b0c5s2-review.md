@@ -1,4 +1,5 @@
 ---
+
 title: "Dune™"
 seo_title: "Dune™ Review: Is This Tool Worth Your Money? (2026)"
 meta_description: "Our Dune™ review covers real-world performance, build quality, and value. See what 210 Amazon buyers say before you spend a cent."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5S2WRQH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JkQOJexiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid aluminum-alloy construction holds up to repeated drops on job sites"
   - "Ergonomic grip reduces hand fatigue during 30+ minute continuous use sessions"
   - "Compatible with standard 1/4-inch hex bits — no proprietary locking system to fight"
-cons:
+cons: 
   - "Included carrying case feels flimsy; zipper snags after roughly a dozen open/close cycles"
   - "No belt clip or lanyard loop, which is an odd omission for a tool marketed toward tradespeople"
+
 ---
 
 **The Dune™ isn't a household name. Not yet. But with a 4.2-star average across 210 Amazon ratings, it's quietly building a reputation. The question is whether that reputation holds up when you're actually using it — not just unboxing it.**

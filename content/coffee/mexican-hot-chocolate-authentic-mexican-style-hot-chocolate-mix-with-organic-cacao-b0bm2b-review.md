@@ -1,4 +1,5 @@
 ---
+
 title: "Mexican Hot Chocolate, Authentic Mexican Style Hot Chocolate"
 seo_title: "Mexican Hot Chocolate, Authentic Mexican Style Hot Review"
 meta_description: "Our full mexican hot chocolate, authentic mexican style hot chocolate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BM2BKG16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FiM3vuzkL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Image Alt:** Bag of authentic Mexican hot chocolate mix with organic cacao, showing dark powder and cinnamon sticks.

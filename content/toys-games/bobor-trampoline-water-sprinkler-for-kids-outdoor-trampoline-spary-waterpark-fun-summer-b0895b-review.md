@@ -1,4 +1,5 @@
 ---
+
 title: "Bobor Trampoline Water Sprinkler for Kids, Outdoor Trampolin"
 seo_title: "Bobor Trampoline Water Sprinkler Review: Worth It? (2026)"
 meta_description: "Honest Bobor trampoline water sprinkler review: cools kids down, fits most trampolines, but has a few quirks. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0895BXXF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k-ZsCy+mS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Universal fit — attaches to most round and rectangular trampoline frames up to 14 feet without tools, using the included zip ties and Velcro straps"
   - "Full-coverage spray pattern — 12 nozzles create a dome of water that covers the entire jumping surface, not just one corner"
   - "Tool-free 5-minute install — connects to any standard garden hose with the included adapter and stays secure during aggressive bouncing"
-cons:
+cons: 
   - "Hose drag is real — the weight of a connected garden hose pulls on the frame and can kink the water line if your spigot is far from the trampoline"
   - "Water pressure dependent — buyers with low household water pressure report weak spray and gaps in coverage, especially on larger trampolines"
   - "No shut-off valve on the unit — you must walk back to the spigot to stop the water, which gets old fast"
+
 ---
 
 # Bobor Trampoline Water Sprinkler Review: The Cheapest Way to Turn Bouncing Into a Water Park

@@ -1,4 +1,5 @@
 ---
+
 title: "Epson PictureMate PM-400 Wireless Compact Color Photo Printe"
 seo_title: "Epson PictureMate PM-400 Review: Best Compact Photo Printer?"
 meta_description: "Epson PictureMate PM-400 review: Is this wireless compact photo printer worth it? Real-world print quality, speed, ink costs, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B014KU0RIA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615vgGcPB0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True borderless 4x6 prints at 5760x1440 dpi with pigment inks that resist fading and water damage for decades"
   - "Compact 12.6 x 6.9 x 4.6-inch footprint fits on a shelf, yet delivers lab-quality output rivaling retail kiosks"
   - "Wi-Fi Direct, Ethernet, and USB host port give flexible connection options beyond standard wireless printing"
-cons:
+cons: 
   - "Print speeds of 36 seconds per 4x6 photo feel sluggish when batch-printing 20+ images"
   - "Proprietary 50-sheet photo paper packs are the only cost-effective ink option, locking you into Epson's consumables"
+
 ---
 
 The Epson PictureMate PM-400 sits in a strange middle ground. It's not a pocket printer like the Canon Zoemini, and it's not a full-office multifunction. It does exactly one thing — print gorgeous 4x6 borderless photos — and it does that one thing exceptionally well. If you're tired of paying $0.50 per print at CVS or dealing with the muddy colors from a budget inkjet, this compact photo lab might be the answer.

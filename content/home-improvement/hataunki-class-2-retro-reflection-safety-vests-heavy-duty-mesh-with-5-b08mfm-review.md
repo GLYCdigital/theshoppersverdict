@@ -1,4 +1,5 @@
 ---
+
 title: "HATAUNKI Class 2 Retro-Reflection Safety Vests Heavy Duty Me"
 seo_title: "HATAUNKI Class 2 Retro-Reflection Safety Vests Hea Review"
 meta_description: "Our full hataunki class 2 retro-reflection safety vests heavy duty me review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MFMHW28/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W0GL7tFdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bottom line up front:** If you're working roadside, in a warehouse, or anywhere near moving vehicles, this HATAUNKI Class 2 vest is the one you want. It's not flashy, but it does exactly what a safety vest should do — make you impossible to miss — without falling apart after a few weeks. At 4.7 stars from 235 buyers, the consensus is clear: this is a legit piece of PPE, not a cheap giveaway vest.

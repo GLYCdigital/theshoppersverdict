@@ -1,4 +1,5 @@
 ---
+
 title: "Outfunny Kids Ride on Car Toy, 12V Electric Car for Kids wit"
 seo_title: "Outfunny Kids Ride on Car Toy, 12V Electric Car fo Review"
 meta_description: "Our full outfunny kids ride on car toy, 12v electric car for kids wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJ4ZN97X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719IoFuQfML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Outfunny 12V ride-on car a smart buy, or just another plastic toy that'll sit in the garage by August? Let's break it down.**

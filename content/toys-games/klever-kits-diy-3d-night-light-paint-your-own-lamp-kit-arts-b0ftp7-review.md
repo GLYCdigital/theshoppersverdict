@@ -1,4 +1,5 @@
 ---
+
 title: "Klever Kits DIY 3D Night Light, Paint Your Own Lamp Kit Arts"
 seo_title: "Klever Kits DIY 3D Night Light, Paint Your Own Lam Review"
 meta_description: "Our full klever kits diy 3d night light, paint your own lamp kit arts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTP71VDG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bay0XocTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the honest question every parent or gift-giver should ask before buying a craft kit: *Will this actually get finished, or will it end up half-painted in a drawer?* The Klever Kits DIY 3D Night Light has a strong answer — and with a 4.6-star average across 229 ratings, most buyers are finishing theirs and liking the result.

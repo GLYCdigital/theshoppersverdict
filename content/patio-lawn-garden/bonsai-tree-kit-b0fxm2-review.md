@@ -1,4 +1,5 @@
 ---
+
 title: "Bonsai Tree Kit"
 seo_title: "Bonsai Tree Kit Review: Complete Starter Set for Beginners"
 meta_description: "Honest Bonsai Tree Kit review: seeds, tools, and pots tested. See what 220+ Amazon buyers say before you buy this beginner-friendly set."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FXM29MHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81++ZuZ4eYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four tree species (juniper, black pine, Japanese maple, wisteria) gives real variety for the price — most kits ship one species only"
   - "Ceramic pot with drainage tray and humidity dome actually supports germination, unlike the plastic throwaways in cheaper sets"
   - "Illustrated 40-page guide covers stratification, pruning, and wiring — genuinely useful for first-timers, not a photocopied insert"
-cons:
+cons: 
   - "Germination is slow and uneven — expect 2-8 weeks for sprouts, and some seeds simply won't take despite perfect care"
   - "The included scissors are too blunt for precise root pruning; budget $15 for proper bonsai shears"
   - "No grow light included, so northern-climate buyers need a sunny south window or supplemental lighting in winter"
+
 ---
 
 If you've ever admired a centuries-old bonsai and thought "I could never do that," this kit is the reality check you need — in the best way. Priced competitively against single-species kits, the Bonsai Tree Kit bundles four tree varieties, a real ceramic pot, and a genuinely helpful guide. At 4.4 stars from 220 ratings, it's not perfect, but it's the most honest introduction to bonsai I've tested.

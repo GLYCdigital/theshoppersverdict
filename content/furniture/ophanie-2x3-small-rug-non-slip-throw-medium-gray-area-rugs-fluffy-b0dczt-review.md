@@ -1,4 +1,5 @@
 ---
+
 title: "Ophanie 2x3 Small Rug Non Slip Throw Medium Gray Area Rugs, "
 seo_title: "Ophanie 2x3 Small Rug Non Slip Throw Medium Gray A Review"
 meta_description: "Our full ophanie 2x3 small rug non slip throw medium gray area rugs,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DCZTP68L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A4KCjqfjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Ophanie 2x3 Small Rug the non-slip solution your entryway needs — or just another fluffy throw that slides around?** With 204 ratings averaging a solid 4.1 stars, this medium gray area rug has clearly found its audience. But as anyone who's bought a cheap rug online knows, ratings don't tell the whole story. I dug through buyer feedback and tested the specs to give you the real picture before you hit "add to cart."

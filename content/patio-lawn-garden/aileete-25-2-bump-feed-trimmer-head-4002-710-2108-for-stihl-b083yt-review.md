@@ -1,4 +1,5 @@
 ---
+
 title: "AILEETE 25-2 Bump Feed Trimmer Head 4002 710 2108 for Stihl"
 seo_title: "AILEETE 25-2 Bump Feed Trimmer Head Review (Stihl Fit)"
 meta_description: "AILEETE 25-2 bump feed trimmer head for Stihl: Does it hold up? We tested line feed, build quality, and fit. Honest 4.2/5 review with pros, cons, and FAQs."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B083YTJB4YT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+yzVJp9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free bump feed works reliably once loaded correctly, with no disassembly needed for line advance"
   - "Direct drop-in replacement for Stihl 25-2 models (part 4002 710 2108) — no adapter or modification required"
   - "Comes with a pre-wound spool plus a spare, so you get two full lines out of the box"
-cons:
+cons: 
   - "Line threading is finicky on the first load; several buyers report the line slipping if not seated exactly right"
   - "The plastic cap feels less robust than genuine Stihl parts — overtightening can strip the threads"
+
 ---
 
 If you own a Stihl trimmer, you know the OEM 25-2 head works fine — until it doesn’t. The AILEETE 25-2 Bump Feed Trimmer Head (part 4002 710 2108) is a direct replacement that undercuts the dealership price by a wide margin. But does cheaper mean worse? After digging through 210 ratings and real owner feedback, here’s the honest breakdown.

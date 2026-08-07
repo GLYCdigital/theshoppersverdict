@@ -1,4 +1,5 @@
 ---
+
 title: "Ingersoll-Rand 23474661 Pressure Switch for Single Stage Com"
 seo_title: "Ingersoll-Rand 23474661 Pressure Switch for Single Review"
 meta_description: "Our full ingersoll-rand 23474661 pressure switch for single stage com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01JS2G5MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ghdZVGkBL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The honest truth about the Ingersoll-Rand 23474661 pressure switch:** If you own an Ingersoll-Rand SS3 or SS5 single-stage compressor and the tank won't hold pressure or the motor won't kick on, this is the exact part you need. It's the OEM replacement — not a knockoff, not a "universal fit" that requires creative wiring. But it's also not a one-size-fits-all solution, and knowing that before you buy saves you a return trip.

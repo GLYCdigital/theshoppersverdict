@@ -1,4 +1,5 @@
 ---
+
 title: "Large Inflatable Pool with Pump - 165'' x 76'' x 22'' Oversi"
 seo_title: "Large Inflatable Pool with Pump - 165'' x 76'' x 2 Review"
 meta_description: "Our full large inflatable pool with pump - 165'' x 76'' x 22'' oversi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DY444LF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+FIPvd9PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 165'' inflatable pool that's either a backyard win or a frustrating chore — here's the truth**

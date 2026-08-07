@@ -1,4 +1,5 @@
 ---
+
 title: "2025 Topps Series 1 Baseball Trading Card MLB Jumbo Fat Pack"
 seo_title: "2025 Topps Series 1 Jumbo Fat Pack Review: Worth It?"
 meta_description: "Honest 2025 Topps Series 1 Jumbo Fat Pack review: card quality, hit rates, rookie chase, and value for collectors. Is this box worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DX4D4NQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WRgjcyyjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo format delivers 46 cards per pack — roughly 2.5x a standard pack for the same per-card value"
   - "Strong rookie class headlined by Paul Skenes and Jackson Holliday makes the chase legitimately exciting"
   - "Topps quality control on centering and corners has noticeably improved over the past two production cycles"
-cons:
+cons: 
   - "No guaranteed autograph or relic in this format — you're buying strictly for base, inserts, and rookie parallels"
   - "Retail packaging means parallel odds are significantly worse than hobby boxes for the same money"
   - "Base card design is clean but conservative — veteran collectors may find it visually similar to 2023 and 2024"
+
 ---
 
 ## The $30 Gamble That Actually Pays Off (Mostly)

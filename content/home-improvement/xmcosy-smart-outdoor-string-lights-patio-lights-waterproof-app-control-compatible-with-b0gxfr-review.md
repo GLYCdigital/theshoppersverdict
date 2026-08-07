@@ -1,4 +1,5 @@
 ---
+
 title: "XMCOSY+ Smart Outdoor String Lights, Patio Lights Waterproof"
 seo_title: "XMCOSY+ Smart Outdoor String Lights, Patio Lights  Review"
 meta_description: "Our full xmcosy+ smart outdoor string lights, patio lights waterproof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXFRPQB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NG-yHfAaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "smart" string lights on Amazon are either overpriced dumb bulbs with a $3 remote glued on, or they're genuinely smart but fall apart after one humid summer. The XMCOSY+ set sits in a rarer category — it actually does what it claims, with a few frustrating caveats worth knowing before you buy.

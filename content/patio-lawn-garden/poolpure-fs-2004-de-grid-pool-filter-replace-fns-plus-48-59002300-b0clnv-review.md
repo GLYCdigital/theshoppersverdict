@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPUREÂ® FS-2004 DE Grid Pool Filter Replace FNS Plus 48, "
 seo_title: "POOLPUREÂ® FS-2004 DE Grid Pool Filter Replace FNS Review"
 meta_description: "Our full poolpureâ® fs-2004 de grid pool filter replace fns plus 48,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLNVRXPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uvjsi6L8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Pentair FNS Plus 48, you already know the pain of paying $200+ for OEM replacement grids. The POOLPURE FS-2004 steps into that gap at roughly half the price, and after digging through 235 ratings averaging 4.7 stars, the story is consistent: this is the aftermarket DE grid set that actually works.

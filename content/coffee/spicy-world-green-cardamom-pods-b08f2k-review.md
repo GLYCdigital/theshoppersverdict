@@ -1,4 +1,5 @@
 ---
+
 title: "Spicy World Green Cardamom Pods"
 seo_title: "Spicy World Green Cardamom Pods Review: Verdict | TSV"
 meta_description: "Our full spicy world green cardamom pods review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08F2KSRPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WUWz6XbmL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever added stale, dusty cardamom powder to your coffee and wondered why it tasted like nothing, these whole green pods from Spicy World are the fix. This isn't a coffee maker or a grinder — it's the ingredient that makes your morning cup actually worth brewing. With 225 ratings holding a solid 4.5 stars, these pods have earned their place in the pantry of anyone serious about spiced coffee or chai.

@@ -1,4 +1,5 @@
 ---
+
 title: "OPI Nail Envy Nail Strengthener | Clear & Opaque CrÃ¨me Nail"
 seo_title: "OPI Nail Envy Nail Strengthener | Clear & Opaque C Review"
 meta_description: "Our full opi nail envy nail strengthener | clear & opaque crã¨me nail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C5Y4HRCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-S4eYtghL._SL1000_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **OPI Nail Envy: The 4.2-Star Truth About This Cult-Favorite Strengthener**

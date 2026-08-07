@@ -1,4 +1,5 @@
 ---
+
 title: "YANYCN LED Black Light, Outdoor Blacklight Flood Light with "
 seo_title: "YANYCN LED Black Light, Outdoor Blacklight Flood L Review"
 meta_description: "Our full yanycn led black light, outdoor blacklight flood light with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DD3D7NYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716ExYyJCCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # YANYCN LED Black Light Review: Does This Outdoor Floodlight Actually Deliver UV Punch?

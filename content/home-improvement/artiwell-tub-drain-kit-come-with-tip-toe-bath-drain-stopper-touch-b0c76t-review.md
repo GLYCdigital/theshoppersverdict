@@ -1,4 +1,5 @@
 ---
+
 title: "Artiwell Tub Drain Kit Come with Tip-Toe Bath Drain Stopper,"
 seo_title: "Artiwell Tub Drain Kit Review: Tip-Toe Stopper Tested"
 meta_description: "Honest Artiwell tub drain kit review: Does the tip-toe stopper fit standard tubs? We tested installation, sealing, and durability. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C76TXNSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GPAIYScML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Universal fit works with both 1-1/4 inch " and 1-1/2 inch " drain openings — most kits force you to pick one
   - "Machined brass body with brushed nickel finish resists water spots and fingerprints better than chrome"
   - "Tool-free installation takes under 10 minutes — no plumber's putty required if your existing flange is clean"
-cons:
+cons: 
   - "Tip-toe mechanism can stick if hard water deposits build up — you'll need to clean it monthly"
   - "Overflow plate screws are soft brass; overtightening strips them easily"
+
 ---
 
 Let's be direct about the Artiwell Tub Drain Kit: it's a solid mid-tier replacement that solves the most annoying bathroom problem — a drain stopper that either won't seal or won't open. But before you click buy, understand what you're actually getting.

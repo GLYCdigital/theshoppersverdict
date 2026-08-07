@@ -1,4 +1,5 @@
 ---
+
 title: "Washable Area Rugs for Living Room: Bedroom Rug Vintage Larg"
 seo_title: "Washable Area Rugs for Living Room: Bedroom Rug Vi Review"
 meta_description: "Our full washable area rugs for living room: bedroom rug vintage larg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FH2LS9R7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810eO3Lm14L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most washable rugs under $150 are a compromise: you either get a pattern that looks like a cheap hotel carpet, or a texture that feels like burlap. This vintage-style option from Amazon’s catalog sits at a 4.6-star average across 229 ratings, which suggests it’s doing something right. I’ve spent time digging through the buyer feedback, weighing the specs, and comparing it to the usual suspects in this category. Here’s the straight story.

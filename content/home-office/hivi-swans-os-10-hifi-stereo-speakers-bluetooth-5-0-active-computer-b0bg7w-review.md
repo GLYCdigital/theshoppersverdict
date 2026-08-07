@@ -1,4 +1,5 @@
 ---
+
 title: "HiVi-Swans OS-10 HiFi Stereo Speakers, Bluetooth 5.0 Active "
 seo_title: "HiVi-Swans OS-10 HiFi Stereo Speakers, Bluetooth 5 Review"
 meta_description: "Our full hivi-swans os-10 hifi stereo speakers, bluetooth 5.0 active  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BG7WWWC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wzNogLo+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HiVi-Swans OS-10 Review: The $171 Desk Speakers That Punch Way Above Their Size

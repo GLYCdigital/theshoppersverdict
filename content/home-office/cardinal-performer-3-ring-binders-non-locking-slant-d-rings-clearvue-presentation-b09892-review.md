@@ -1,4 +1,5 @@
 ---
+
 title: "Cardinal Performer 3-Ring Binders, Non-Locking Slant-D Rings"
 seo_title: "Cardinal Performer 3-Ring Binders Review: Durable Slant-D"
 meta_description: "Cardinal Performer 3-ring binders with non-locking slant-D rings: our honest review covers capacity, durability, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09892G3N8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tMPG6aZ6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Rings open smoothly with a gentle pull and hold documents securely without snagging pages"
   - "Rigid 120pt chipboard covers resist bending and warping even in packed briefcases"
   - "ClearVue overlay lets you customize covers without adhesive labels that peel or yellow"
-cons:
+cons: 
   - "Non-locking rings can pop open if you drop the binder or overstuff it past capacity"
   - "Back-mounted rings reduce usable writing space when the binder is open flat"
+
 ---
 
 Some binders are an afterthought — something you grab because it's cheap and functional. The Cardinal Performer 3-Ring Binder is not that. With a 4.6-star average across 229 ratings, this is the binder people actually recommend to coworkers. And after testing one for a few weeks, I understand why.

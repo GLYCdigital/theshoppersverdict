@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Computer Desk with 5 Drawer"
 seo_title: "Tribesigns Computer Desk with 5 Drawer Review: Verdict | "
 meta_description: "Our full tribesigns computer desk with 5 drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6ZWT1JF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810Uz2yWAtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most desks under $200 are wobbly, particleboard nightmares that sag within a year. The Tribesigns Computer Desk with 5 Drawer isn’t that — but it’s not a heirloom piece either. After digging through 220 ratings and multiple verified buyer accounts, here’s the real story.

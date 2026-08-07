@@ -1,4 +1,5 @@
 ---
+
 title: "Countertop Support Bracket,Free Hanging T Bracket,Solid Heav"
 seo_title: "Countertop Support Bracket Review: Solid Heavy-Duty T Bracket (2026)"
 meta_description: "Honest review of the Countertop Support Bracket T-style. Is this heavy-duty free-hanging bracket worth it? Real pros, cons & buyer verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQ6MFXM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hY+8EsitL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick solid steel construction with a clean powder-coated finish—no sharp edges or flimsy feel"
   - "T-bracket design distributes load across a wider surface, preventing sag on deep overhangs"
   - "Hardware included is actually usable; no immediate trip to the hardware store required"
-cons:
+cons: 
   - "Only one size option listed clearly; larger overhangs may need two brackets, which adds cost"
   - "Black finish scuffs easily if you drag tools across it during installation"
+
 ---
 
 You don’t buy a countertop support bracket because you’re bored. You buy it because you’ve got a granite slab hanging over your bar stools, and you’re tired of wondering if it’s going to crack. The **Countertop Support Bracket (Free Hanging T Bracket)** is the sort of unglamorous hardware that saves you from a very expensive disaster. With a 4.7-star average across 235 ratings, it’s clearly earning its keep in kitchens, laundry rooms, and workshop benches. But is it the right bracket for your specific setup? Let’s dig in.

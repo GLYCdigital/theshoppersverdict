@@ -1,4 +1,5 @@
 ---
+
 title: "Muse Garden Hummingbird Feeder for Outdoors, Hand Blown Glas"
 seo_title: "Muse Garden Hummingbird Feeder for Outdoors, Hand  Review"
 meta_description: "Our full muse garden hummingbird feeder for outdoors, hand blown glas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07ST9BJ5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710qibrzeVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about hummingbird feeders: most of them are either pretty or functional, rarely both. The Muse Garden hand-blown glass feeder tries to be both, and after digging through 235 Amazon ratings and the specs, here’s what you need to know before you hang this thing.

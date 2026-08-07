@@ -1,4 +1,5 @@
 ---
+
 title: "EMMA + OLIVER School House Back Wooden Restaurant Dining Cha"
 seo_title: "EMMA + OLIVER School House Dining Chair Review (2026)"
 meta_description: "EMMA + OLIVER School House dining chair review: Is this solid wood restaurant-grade chair worth it? Real pros, cons, and buying advice inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08PZFPJN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NSYrBlG5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame with mortise-and-tenon joinery — genuinely commercial-grade, not pressboard"
   - "Stackable design stores 4-5 chairs in the space of one, ideal for tight dining areas"
   - "14-inch seat height works for standard 29-30 inch tables; weight capacity rated at 300+ lbs"
-cons:
+cons: 
   - "No assembly required but the packaging is heavy — plan for a second person to haul the box"
   - "Unfinished wood option requires sealing; raw surface shows water rings easily if skipped"
   - "Slightly wide footprint (18.5 inches) may feel bulky in narrow eat-in kitchens"
+
 ---
 
 If you've ever bought a "solid wood" dining chair online only to discover it's actually rubberwood veneer over MDF, you'll appreciate what EMMA + OLIVER is doing here. The School House Back chair is one of those rare Amazon furniture finds that doesn't cut corners where it counts — the frame is solid hardwood, the joints are proper mortise-and-tenon, and the whole thing weighs about 18 pounds of honest material. At $80–$100 per chair (price fluctuates), that's a value proposition worth examining closely.

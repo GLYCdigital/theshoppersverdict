@@ -1,4 +1,5 @@
 ---
+
 title: "TISHLED Typewriter Style Mechanical Gaming Keyboard White LE"
 seo_title: "TISHLED Typewriter Style Mechanical Gaming Keyboar Review"
 meta_description: "Our full tishled typewriter style mechanical gaming keyboard white le review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DKCQ9SFB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mjzJn1bqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TISHLED Typewriter Style Mechanical Gaming Keyboard White LE** is a head-turner. As shown in the product image, it’s got that vintage round-keycap aesthetic with a modern twist — white chassis, chrome-ringed keys, and a clean, minimalist look that stands out on any desk. But this isn’t just a pretty face. With 200 ratings averaging 4.0 stars, it’s clearly finding buyers. The real question: does the retro charm hold up under daily typing and gaming abuse? I’ve dug through the specs, user feedback, and the physical design to give you the unvarnished truth.

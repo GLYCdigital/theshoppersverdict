@@ -1,4 +1,5 @@
 ---
+
 title: "CPX Pro Carbon Fiber Pickleball Paddle - Professional Grade,"
 seo_title: "CPX Pro Carbon Fiber Pickleball Paddle Review (2026): Worth It?"
 meta_description: "CPX Pro carbon fiber pickleball paddle review: pros, cons, durability, and who should buy. See if this 4.7-star paddle suits your game in 2026."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSX7G5YX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ahXsw3ThL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "USAPA-approved 16mm honeycomb core delivers a soft, controlled feel at the kitchen line without sacrificing pop on drives"
   - "Matte carbon fiber face generates consistent spin (measured ~2,100 RPM in independent tests) even after 200+ hours of play"
   - "Comes with a thermal-sealed edge guard that has held up to repeated court scrapes without peeling or separating"
-cons:
+cons: 
   - "The 4.25-inch grip circumference runs small — players with larger hands will need an overgrip or a different paddle"
   - "No paddle cover or carry case included at this price point, which feels like a corner cut compared to competitors"
+
 ---
 
 The pickleball paddle market is absolutely flooded right now. Every brand claims "pro-level" performance, and most of them are selling you the same generic Chinese factory mold with a different logo. So when the CPX Pro Carbon Fiber paddle showed up with a 4.7-star average across 235 ratings, I was skeptical. After spending three weeks with it — including league play and open rec sessions — here's the honest breakdown.

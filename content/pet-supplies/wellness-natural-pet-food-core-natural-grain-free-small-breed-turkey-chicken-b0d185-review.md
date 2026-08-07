@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness Natural Pet Food CORE Natural Grain-Free Small Bree"
 seo_title: "Wellness Natural Pet Food CORE Natural Grain-Free  Review"
 meta_description: "Our full wellness natural pet food core natural grain-free small bree review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D185DTQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zPtjfAHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Small breed dogs have small stomachs, fast metabolisms, and big opinions about their food. The Wellness CORE Natural Grain-Free Small Breed formula with turkey and chicken is trying to hit a specific sweet spot: high-protein nutrition in a kibble small enough that a 6-pound Yorkie doesn't have to work overtime to chew it. With 225 Amazon ratings averaging 4.5 stars, the consensus is mostly positive. Here's what you're actually getting.

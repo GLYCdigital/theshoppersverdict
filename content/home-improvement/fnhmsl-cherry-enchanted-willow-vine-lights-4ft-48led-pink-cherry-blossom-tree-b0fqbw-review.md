@@ -1,4 +1,5 @@
 ---
+
 title: "FNHMSL Cherry Enchanted Willow Vine Lights, 4FT 48LED Pink Cherry Blossom Tree Review"
 seo_title: "FNHMSL Cherry Willow Vine Lights Review: 4FT 48LED"
 meta_description: "Honest FNHMSL Cherry Enchanted Willow Vine Lights review: 4FT, 48 warm pink LEDs, bendable branches, remote & timer. Pros, cons, real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FQBWNJW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F0ZuVoKcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Realistic bendable branches with 48 warm pink LEDs that cast a soft, romantic glow — not harsh or Christmas-y"
   - "Remote control with 8 modes and a 6-hour timer works reliably from across the room"
   - "Battery-operated (3x AA, not included) so you can place it anywhere without hunting for an outlet"
-cons:
+cons: 
   - "Branches arrive compressed and need 10-15 minutes of patient fluffing to look full; some users report shedding petals"
   - "Battery life is modest — expect roughly 20-30 hours on steady mode, less on brighter settings"
   - "No USB power option; if you want it on daily, you'll be swapping batteries often"
+
 ---
 
 **Is this 4-foot cherry blossom tree worth your money, or just another Amazon lighting gamble? After digging through 204 ratings and real buyer photos, here's the honest breakdown.**

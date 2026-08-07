@@ -1,4 +1,5 @@
 ---
+
 title: "Games Workshop Warhammer 40k - Tyranids Warriors"
 seo_title: "Tyranids Warriors Review: Best Synapse Unit for 40k"
 meta_description: "Games Workshop Tyranids Warriors review: build quality, assembly, and tabletop value. Is this kit worth your points and money? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09WZDVY29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O0cwkJfKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multipart kit builds three warriors with 40+ interchangeable weapon options"
   - "Excellent poseability for dynamic, non-repetitive swarm units"
   - "Updated sculpts with crisp chitin detail that paints up fast"
-cons:
+cons: 
   - "Small scything talons are brittle and snap during assembly"
   - "Requires plastic glue and hobby tools — not a snap-fit kit"
+
 ---
 
 If you're building a Tyranids army, the Warriors are your synapse backbone — the unit that keeps your horde from devolving into a mindless, un-buffable blob. This kit is the modern replacement for the old 2001-era sculpts, and it's a massive upgrade. But it's also not a beginner-friendly box. Here's what 229 Amazon reviewers (averaging 4.6 stars) are actually saying, and what you need to know before you buy.

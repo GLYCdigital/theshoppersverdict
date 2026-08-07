@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Tools Pro Artist 2400 Turbo Ceramic + Ionic Hair Dryer |"
 seo_title: "Hot Tools Pro Artist 2400 Turbo Ceramic + Ionic Ha Review"
 meta_description: "Our full hot tools pro artist 2400 turbo ceramic + ionic hair dryer | review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01D0JZGQU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mYVCOOckL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hot Tools Pro Artist 2400 Turbo: The Workhorse Dryer That Earns Its Keep

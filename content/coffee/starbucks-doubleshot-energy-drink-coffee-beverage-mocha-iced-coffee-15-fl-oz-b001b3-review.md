@@ -1,4 +1,5 @@
 ---
+
 title: "Starbucks Doubleshot Energy Drink Coffee Beverage, Mocha, Ic"
 seo_title: "Starbucks Doubleshot Energy Drink Coffee Beverage, Review"
 meta_description: "Our full starbucks doubleshot energy drink coffee beverage, mocha, ic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001B3UPQE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zP0tPRovL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Starbucks Doubleshot Energy Mocha Review: The Canned Coffee That Actually Tastes Like Coffee

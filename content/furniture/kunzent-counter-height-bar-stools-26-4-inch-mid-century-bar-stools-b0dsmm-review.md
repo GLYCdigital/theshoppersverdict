@@ -1,4 +1,5 @@
 ---
+
 title: "KUNZENT Counter Height Bar Stools - 26.4 inch Mid Century Ba"
 seo_title: "KUNZENT Counter Height Bar Stools - 26.4 inch Mid  Review"
 meta_description: "Our full kunzent counter height bar stools - 26.4 inch mid century ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSMMFP2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710oGku+m0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most bar stools under $100 are wobbly, squeaky, or look like they came from a cafeteria liquidation sale. The KUNZENT 26.4-inch counter stool isn't that. It's a legitimately well-built piece of mid-century furniture that happens to cost less than a night out for two.

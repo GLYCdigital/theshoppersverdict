@@ -1,4 +1,5 @@
 ---
+
 title: "Tritard Coastal Area Rugs for Living Room Bedroom"
 seo_title: "Tritard Coastal Area Rugs for Living Room Bedroom Review:"
 meta_description: "Our full tritard coastal area rugs for living room bedroom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9FKLP7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1EUoRR1jZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $29.99 price tag on the Tritard Coastal Area Rug immediately raises a question: is this a bargain or a trap? After digging through 210 ratings and testing the construction details, the answer is surprisingly nuanced. This isn't a heirloom-quality piece — it's a smart, budget-friendly solution for specific spaces.

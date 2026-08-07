@@ -1,4 +1,5 @@
 ---
+
 title: "BestOffice 22 Gallons Automatic Sensor Large Kitchen Trash C"
 seo_title: "BestOffice 22-Gallon Sensor Trash Can Review (2026)"
 meta_description: "Honest BestOffice 22-gallon automatic sensor trash can review: motion lid speed, odor control, battery life, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSZLG59M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MO8MjCxjL._SL1500_.jpg"
-pros:
+pros: 
   - "22-gallon capacity actually fits a full standard 13-gallon bag without bag hang-over — rare for this price tier"
   - "Motion sensor opens in under 0.3 seconds and has a 12-inch detection range that doesn't false-trigger on pets"
   - "Lid seals tightly with a silicone gasket, which genuinely contains cooking odors better than most open-top cans"
-cons:
+cons: 
   - "Manual button is stiff and awkwardly placed on the back — you'll rely on the sensor, which drains batteries faster"
   - "Not fingerprint-proof; brushed stainless finish smudges noticeably and needs regular wiping"
+
 ---
 
 If you've ever wrestled a bulging trash bag out of a too-small can while the lid slams shut on your forearm, you already know why the BestOffice 22-gallon automatic sensor can exists. This is a big-bin solution for households that generate serious waste — families, home cooks, people who meal prep. The question isn't whether you need 22 gallons. It's whether this $60-ish can (price fluctuates; check current) executes the basics reliably enough to justify the counter space it'll swallow.

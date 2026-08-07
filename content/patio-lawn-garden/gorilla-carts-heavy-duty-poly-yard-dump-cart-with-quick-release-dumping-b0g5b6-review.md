@@ -1,4 +1,5 @@
 ---
+
 title: "Gorilla Carts Heavy-Duty Poly Yard Dump Cart with Quick-Rele"
 seo_title: "Gorilla Carts Heavy-Duty Poly Yard Dump Cart with  Review"
 meta_description: "Our full gorilla carts heavy-duty poly yard dump cart with quick-rele review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G5B6PPQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r+vX-hd-L._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Gorilla Carts Heavy-Duty Poly Yard Dump Cart is the kind of tool that makes you wonder how you ever hauled mulch in a wheelbarrow. With a 600-pound capacity, a genuinely functional quick-release dump, and wheels that actually roll over lumpy grass, this cart solves the three biggest frustrations of yard work hauling. But it’s not perfect — and depending on your property, one missing feature could be a dealbreaker.

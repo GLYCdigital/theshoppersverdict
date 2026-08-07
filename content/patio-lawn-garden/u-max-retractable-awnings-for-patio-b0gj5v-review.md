@@ -1,4 +1,5 @@
 ---
+
 title: "U-MAX Retractable Awnings for Patio"
 seo_title: "U-MAX Retractable Awnings for Patio Review: Verdict | TSV"
 meta_description: "Our full u-max retractable awnings for patio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GJ5VTSC1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fh5kGhzgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The U-MAX Retractable Awning solves a real problem: that brutal afternoon sun that turns your patio into a convection oven from 2 to 6 PM. At 4.1 stars from 204 ratings, it's not perfect — but for most homeowners, it's a solid mid-tier option that costs a fraction of permanent aluminum structures. I've dug through the buyer feedback, the specs, and the common failure points. Here's what you need to know before you click "add to cart."

@@ -1,4 +1,5 @@
 ---
+
 title: "4yoreelves-sugar candy-heart candy"
 seo_title: "4yoreelves Sugar Candy Review: Sweet Coffee Companion"
 meta_description: "Honest 4yoreelves sugar candy-heart candy review: a charming coffee companion for sweetening your brew. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FH6X1NND/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81d3Zk0fSKL._SL1500_.jpg"
-pros:
+pros: 
   - "Heart-shaped candy dissolves cleanly in hot coffee without clumping or leaving gritty residue"
   - "Portion-controlled sweetness — each piece equals roughly one teaspoon of sugar, so you can dial in your brew precisely"
   - "Attractive presentation that doubles as a gift or tabletop accent for coffee stations"
-cons:
+cons: 
   - "Flavor is one-dimensional — only traditional sugar sweetness with no vanilla, caramel, or spice notes"
   - "Packaging is a single resealable bag; no individual wrappers, so candy can clump in humid environments"
+
 ---
 
 Let me be blunt: a 4.4-star rating on a sugar candy product in the coffee gear category raised my eyebrows too. But after digging through 220 ratings and examining what this product actually does, there's a legitimate story here worth telling.

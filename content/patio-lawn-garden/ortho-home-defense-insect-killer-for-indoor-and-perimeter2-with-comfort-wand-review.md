@@ -1,13 +1,14 @@
 ---
+
 title: "Ortho Home Defense Insect Killer for Indoor and Perimeter2 with Comfort Wand - Ready-To-Use Bug Spray, Kills Ants, Cockroaches & Spiders, 1.33 gal."
 seo_title: "Ortho Home Defense Insect Killer for Indoor and Pe Review"
 meta_description: "Honest ortho home defense insect killer for ind review based on 18,436+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "ortho-home-defense-insect-killer-for-indoor-and-perimeter2-with-comfort-wand-review"
 image_alt: "Ortho Home Defense Insect Killer for Indoor and Perimeter2 with Comfort Wand - Ready-To-Use Bug Spray, Kills Ants, Cockr"
-keywords:
+keywords: 
   - "ortho home defense review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Does the Ortho Home Defense Insect Killer perform well?"
     answer: "Yes — performs reliably. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Is the Ortho Home Defense Insect Killer well-made?"
@@ -20,12 +21,13 @@ review_count: 18436
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01N0TGJHB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717MxeY-OpL._SL1500_.jpg"
-pros:
+pros: 
   - "Good performance for the price range"
   - "Easy to set up and use"
   - "Great value for the price"
-cons:
+cons: 
   - "Some durability concerns over time"
+
 ---
 
 If you're shopping for a outdoor or garden product, you've probably noticed the Ortho Home Defense Insect Killer for.... After combing through 18,436 Amazon customer reviews, one thing is clear: reviewers consistently highlight its reliable, consistent performance as a key strength.

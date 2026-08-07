@@ -1,4 +1,5 @@
 ---
+
 title: "Gama Sonic Outdoor Solar Light Fixture and Pole"
 seo_title: "Gama Sonic Solar Light Fixture & Pole Review (2026)"
 meta_description: "Honest Gama Sonic outdoor solar light fixture and pole review: brightness, build quality, battery life, and who should buy it. Real buyer insights."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09XWRRSQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pbjzhukjL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn operation with a built-in light sensor that reliably ignores streetlights and porch lights"
   - "The pole is solid, powder-coated aluminum — not the flimsy hollow plastic most competitors ship"
   - "Replaceable battery means the fixture isn't a landfill-bound paperweight when the cell degrades after 2–3 years"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 45 minutes; the included allen wrench is too soft for the bolts"
   - "Light output (roughly 100 lumens from the integrated LED) is adequate for ambiance but won't flood a driveway"
+
 ---
 
 Let me be upfront: most solar light fixtures in this price range are disposable junk. The Gama Sonic Outdoor Solar Light Fixture and Pole isn't that — but it's also not the bright, security-grade floodlight some listings imply. With a 4.3-star average across 215 ratings, it's a solid mid-tier pick for homeowners who want a permanent-feeling light without running conduit. Here's the real breakdown.

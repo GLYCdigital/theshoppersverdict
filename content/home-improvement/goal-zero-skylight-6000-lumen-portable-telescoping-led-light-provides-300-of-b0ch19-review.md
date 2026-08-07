@@ -1,4 +1,5 @@
 ---
+
 title: "Goal Zero Skylight â€“ 6000-Lumen Portable Telescoping LED L"
 seo_title: "Goal Zero Skylight â€“ 6000-Lumen Portable Telesco Review"
 meta_description: "Our full goal zero skylight â€“ 6000-lumen portable telescoping led l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CH19THR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51R9IG7214L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Goal Zero Skylight Review: Is This 6000-Lumen Telescoping Light Worth It?

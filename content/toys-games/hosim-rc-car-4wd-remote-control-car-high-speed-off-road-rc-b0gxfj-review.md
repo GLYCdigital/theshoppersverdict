@@ -1,4 +1,5 @@
 ---
+
 title: "Hosim RC Car 4WD Remote Control Car High Speed Off Road RC T"
 seo_title: "Hosim RC Car 4WD Review: High-Speed Off-Road Fun"
 meta_description: "Hosim RC Car 4WD review: high-speed off-road performance, durability, and value. See what 204 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GXFJD95T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NEiip-H7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 4-wheel drive with independent suspension handles grass, gravel, and packed dirt without bogging down"
   - "Two rechargeable batteries included — roughly 40+ minutes of run time, which is rare at this price point"
   - "Durable chassis and oil-filled shocks survive hard crashes that would crack cheaper RC cars"
-cons:
+cons: 
   - "Remote feels plasticky and requires line-of-sight; range drops significantly beyond 80 feet"
   - "Plastic gears strip under aggressive use — buy a metal gear set if your kid drives like a maniac"
   - "Assembly required out of the box (wheels, antenna, battery tray) — not truly 'ready to run' despite the claim"
+
 ---
 
 ## Is the Hosim 4WD RC Car Worth Your Money?

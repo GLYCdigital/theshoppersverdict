@@ -1,4 +1,5 @@
 ---
+
 title: "HOMOTEK Privacy Pocket Door Pull without Switch Plate"
 seo_title: "HOMOTEK Privacy Pocket Door Pull without Switch Pl Review"
 meta_description: "Our full homotek privacy pocket door pull without switch plate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3QMZDKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kYJruQvNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Flush Pull That Actually Does Something

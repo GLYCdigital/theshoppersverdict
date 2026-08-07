@@ -1,4 +1,5 @@
 ---
+
 title: "Adewalk 5000W Solar Lights Outdoor - 7000K LED Solar Street"
 seo_title: "Adewalk 5000W Solar Lights Review: Worth It? (2026)"
 meta_description: "Adewalk 5000W solar street light review: 7000K LED brightness, motion sensor, and real-world performance. Is it worth it? See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FX3RD66G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7145iGMOsSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Separate solar panel design lets you mount the light in shade while the panel gets full sun — a huge flexibility win most integrated units can't offer."
   - "7000K cool white output genuinely floods large areas; the 5000W rating translates to roughly 5000 lumens, enough to light a two-car driveway or backyard corner."
   - "IP66 weather sealing holds up in rain and snow based on long-term owner reports, with no reported water ingress or corrosion issues."
-cons:
+cons: 
   - "The remote control is required to change modes — no onboard buttons — and it's easy to misplace since the unit ships with no storage slot."
   - "Battery capacity (typically 12–15Ah) means cloudy days in winter can drop runtime to 4–6 hours, even with the 5000W panel."
   - "Mounting hardware is generic; the included brackets feel thin for a light this size, so you'll want to use your own bolts for permanent installs."
+
 ---
 
 **Bottom line up front:** The Adewalk 5000W solar street light is a serious piece of hardware for anyone needing to illuminate a driveway, barn yard, or dark corner of a property without running electrical lines. It's not perfect — the remote dependency and winter battery drain are real annoyances — but for the price, it outperforms most integrated solar floodlights I've tested. Here's the full breakdown.

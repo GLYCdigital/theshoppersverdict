@@ -1,4 +1,5 @@
 ---
+
 title: "Brooder Box for Chicks,with Sliding Door,Table Legs,2 Types"
 seo_title: "Brooder Box for Chicks Review: Sliding Door & Table Legs"
 meta_description: "Honest brooder box for chicks review covering the sliding door, table legs, and two sizes. See what buyers love and where it falls short before buying."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DRG13L3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mQv+9WiOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sliding door gives you two-way access without lifting the entire lid — genuinely handy for daily feeding and cleaning"
   - "Raised table legs keep the brooder off cold floors, which matters more than most first-time chick owners realize"
   - "Comes in two size configurations, so you can match it to your flock size instead of settling for one-size-fits-all"
-cons:
+cons: 
   - "Assembly requires a screwdriver and patience; several buyers report misaligned pre-drilled holes"
   - "The included hardware feels light-gauge — fine for chicks, but don't expect it to survive multiple seasons of heavy use"
   - "3.8-star average reflects real complaints about gaps in the sliding door track letting bedding escape"
+
 ---
 
 **Is this the brooder that actually makes chick-raising easier, or just another Pinterest-worthy box that falls apart by week three?**

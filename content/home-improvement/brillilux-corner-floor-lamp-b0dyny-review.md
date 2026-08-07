@@ -1,4 +1,5 @@
 ---
+
 title: "BrilliLux Corner Floor Lamp"
 seo_title: "BrilliLux Corner Floor Lamp Review: Smart Fit for Tight Spaces"
 meta_description: "Read our BrilliLux Corner Floor Lamp review — 4.2/5 rating. We test build quality, light output, and whether this space-saving design fits your living room."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYNYJJXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hiytg99QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "L-shaped base tucks flush into corners, reclaiming up to 12 inches of floor space vs. standard tripod lamps"
   - "Three-color temperature settings (3000K/4000K/6500K) with a foot pedal switch — no bending or fumbling in the dark"
   - "Sturdy 11-pound weighted base handles carpet without tipping, unlike lighter budget alternatives"
-cons:
+cons: 
   - "Included 9W LED bulb is adequate but not blinding — larger rooms may want a brighter third-party replacement"
   - "Foot pedal switch has no dimming function; you're locked into fixed brightness levels"
   - "Assembly requires a Phillips screwdriver and about 15 minutes — not fully tool-free despite packaging claims"
+
 ---
 
 If your living room is a Tetris puzzle of furniture, you know the pain: floor lamps eat floor space. The BrilliLux Corner Floor Lamp attacks that problem with a flat, L-shaped base designed to slide flush against two walls. As shown in the product image, the slim profile hugs the junction where baseboards meet, freeing up the walkway a traditional tripod would block. It's a genuinely smart solution for apartments, narrow reading nooks, and anyone tired of stubbing toes on lamp legs.

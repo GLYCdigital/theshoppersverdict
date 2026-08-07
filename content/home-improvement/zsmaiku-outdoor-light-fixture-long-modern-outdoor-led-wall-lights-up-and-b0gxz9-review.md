@@ -1,4 +1,5 @@
 ---
+
 title: "ZSMAIKU Outdoor Light Fixture,Long Modern Outdoor Led Wall L"
 seo_title: "ZSMAIKU Outdoor Light Fixture,Long Modern Outdoor  Review"
 meta_description: "Our full zsmaiku outdoor light fixture,long modern outdoor led wall l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXZ9QZKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fQSL8t9mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The long, horizontal wall light that actually flatters your house — if you measure twice first.**

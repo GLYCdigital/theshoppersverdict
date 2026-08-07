@@ -1,4 +1,5 @@
 ---
+
 title: "Furhaven Cooling Gel Dog Bed"
 seo_title: "Furhaven Cooling Gel Dog Bed Review: Worth It? (2026)"
 meta_description: "Furhaven Cooling Gel Dog Bed review: 4.4-star rated. Does the gel foam actually keep dogs cool? Tested for durability, cleaning, and comfort."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK42LGV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oFo1EuKLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gel-infused foam layer actually draws heat away from the dog's body — not just a gimmick"
   - "Removable, machine-washable cover with zipper holds up to repeated washing"
   - "Raised bolster rim provides head support and a sense of security for anxious dogs"
-cons:
+cons: 
   - "Gel layer loses noticeable cooling effectiveness after 4-6 hours of continuous use"
   - "Not truly waterproof — accidents soak through to the foam core"
+
 ---
 
 **The Furhaven Cooling Gel Dog Bed: Does It Beat the Summer Heat or Just Look Like It?**

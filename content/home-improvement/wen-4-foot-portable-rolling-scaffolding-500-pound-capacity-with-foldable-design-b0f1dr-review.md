@@ -1,4 +1,5 @@
 ---
+
 title: "Wen 4-Foot Portable Rolling Scaffolding, 500-Pound-Capacity "
 seo_title: "Wen 4-Foot Portable Rolling Scaffolding, 500-Pound Review"
 meta_description: "Our full wen 4-foot portable rolling scaffolding, 500-pound-capacity  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1DRXYKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UxQAqeCJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced on a wobbly step stool with a paint roller in one hand and a prayer in the other, you already know why the Wen 4-Foot Portable Rolling Scaffolding deserves a serious look. This is the tool that turns a two-hour ceiling job into a 30-minute one — and it does it without requiring a pickup truck to transport.

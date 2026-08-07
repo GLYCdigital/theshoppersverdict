@@ -1,4 +1,5 @@
 ---
+
 title: "Del Monte FRUIT CUP Snacks, Family Pack, No Sugar Added, 12-"
 seo_title: "Del Monte Fruit Cup Snacks 12-Pack Review: No Sugar Added"
 meta_description: "Honest Del Monte Fruit Cup Snacks 12-pack review. Are no-sugar-added fruit cups worth it? Flavor, texture, and value compared. Real buyer verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHGXM59N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b0UrrngqL._SL1500_.jpg"
-pros:
+pros: 
   - "Fruit stays firm and recognizable — not mushy puree — even after months in the pantry"
   - "No artificial sweeteners; uses sucralose which avoids the bitter aftertaste of stevia blends"
   - "Consistent 4-ounce portion size makes calorie counting straightforward at roughly 40 calories per cup"
-cons:
+cons: 
   - "Sucralose aftertaste is noticeable to some — if you're sensitive to artificial sweeteners, this matters"
   - "Only 12 cups in the family pack; heavy snackers will burn through this quickly"
   - "Assorted pack means you can't choose your mix — peach lovers get stuck with pear cups"
+
 ---
 
 # Del Monte Fruit Cup Snacks: The No-Sugar-Added Lunchbox Hero

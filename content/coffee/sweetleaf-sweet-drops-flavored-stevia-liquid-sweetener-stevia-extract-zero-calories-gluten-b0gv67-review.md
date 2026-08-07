@@ -1,4 +1,5 @@
 ---
+
 title: "SweetLeaf Sweet Drops - Flavored Stevia Liquid Sweetener, St"
 seo_title: "SweetLeaf Sweet Drops - Flavored Stevia Liquid Swe Review"
 meta_description: "Our full sweetleaf sweet drops - flavored stevia liquid sweetener, st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GV678173/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bs3ZVbrwL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still squeezing pink packets into your coffee, you're missing out on the biggest upgrade in zero-calorie sweetening. SweetLeaf Sweet Drops aren't new — they've been a barista counter staple for years — but this flavored variety pack (the "St" in the title refers to the Stevia Clear and assorted flavors bundle) is what finally makes the switch worth it.

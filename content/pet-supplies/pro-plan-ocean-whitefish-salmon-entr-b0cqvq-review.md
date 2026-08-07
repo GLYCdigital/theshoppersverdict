@@ -1,4 +1,5 @@
 ---
+
 title: "Pro Plan Ocean Whitefish & Salmon Entré¥"
 seo_title: "Pro Plan Ocean Whitefish & Salmon Entré¥ Review: Verdict "
 meta_description: "Our full pro plan ocean whitefish & salmon entré¥ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQVQP5RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RKOgeTbOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about why this review exists: your cat is a tiny dictator with a discerning palate, and you're tired of wasting money on food they sniff once and reject. Pro Plan Ocean Whitefish & Salmon Entré has earned a solid 4.3-star average across 215 ratings on Amazon, and the verdict score of 4.2 reflects that most cats genuinely like this stuff. But there's more nuance than the star rating suggests.

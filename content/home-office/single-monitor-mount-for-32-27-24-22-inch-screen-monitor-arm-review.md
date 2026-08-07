@@ -1,16 +1,17 @@
 ---
+
 title: "Single Monitor Mount for 32 27 24 22 inch Screen, Monitor Arm Holds 4.4-22 lbs, Monitor Desk Mount, Gaming & Home Office Use, VESA 75x75mm & 100x100mm, Freelift Pro White"
 seo_title: "Single Monitor Mount Review: Verdict (4.2/5) | TSV"
 meta_description: "It looks great on my 399+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "single-monitor-mount-for-32-27-24-22-inch-screen-monitor-arm-review"
 image_alt: "Single Monitor Mount for 32 27 24 22 inch Screen, Monitor Arm Holds 4.4-22 lbs, Monitor Desk Mount, Gaming & Home Office"
-keywords:
+keywords: 
   - "single monitor mount review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Single Monitor Mount for?"
     answer: "It looks great on my desk That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Single Monitor Mount for?"
@@ -24,11 +25,12 @@ review_count: 399
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMF6THBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N1gE80Y4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It looks great on my desk."
   - "It’s sturdy and holds my monitor firmly in place, yet it’s flexible enough to adjust height, tilt."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The Single Monitor Mount for 32 is a popular choice - with 399 Amazon reviews behind it. Here is what buyers actually say.

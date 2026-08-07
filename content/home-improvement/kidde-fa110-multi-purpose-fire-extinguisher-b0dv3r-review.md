@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde FA110 Multi Purpose Fire Extinguisher"
 seo_title: "Kidde FA110 Multi Purpose Fire Extinguisher Review: Verdi"
 meta_description: "Our full kidde fa110 multi purpose fire extinguisher review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DV3RM4XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y7IFmmw4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most people buy a fire extinguisher the way they buy insurance — reluctantly, and usually after a near-miss. The Kidde FA110 aims to remove every excuse for not having one within reach. At 2.4 pounds, this is the extinguisher you'll actually keep in the kitchen drawer instead of buried in the garage. But does light weight mean light protection? Here's the real story.

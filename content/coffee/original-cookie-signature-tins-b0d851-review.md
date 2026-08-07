@@ -1,4 +1,5 @@
 ---
+
 title: "Original Cookie Signature Tins"
 seo_title: "Original Cookie Signature Tins Review: Verdict | TSV"
 meta_description: "Our full original cookie signature tins review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D851Q2MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SBgkbBSYL._SL1100_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the nostalgia. You’re looking at these tins because they look like something your grandmother kept on a shelf — and that’s exactly the appeal. But are they worth your money, or just another pretty box that falls apart?

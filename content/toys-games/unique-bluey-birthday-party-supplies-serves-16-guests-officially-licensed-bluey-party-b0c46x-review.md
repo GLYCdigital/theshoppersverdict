@@ -1,4 +1,5 @@
 ---
+
 title: "Unique Bluey Birthday Party Supplies | Serves 16 Guests | Of"
 seo_title: "Unique Bluey Birthday Party Supplies | Serves 16 G Review"
 meta_description: "Our full unique bluey birthday party supplies | serves 16 guests | of review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C46XLVVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Zdi21AMsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most licensed kids' party supplies are overpriced cardboard with a cartoon slapped on it. This Bluey set is different — but it's not perfect. Here's what you actually get before you spend your money.

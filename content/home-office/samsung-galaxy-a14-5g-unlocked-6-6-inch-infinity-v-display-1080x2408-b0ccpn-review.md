@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung Galaxy A14 5G Unlocked, 6.6-Inch Infinity-V Display,"
 seo_title: "Samsung Galaxy A14 5G Unlocked, 6.6-Inch Infinity- Review"
 meta_description: "Our full samsung galaxy a14 5g unlocked, 6.6-inch infinity-v display, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CCPNDQCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51drJV2ZGCL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Samsung Galaxy A14 5G isn't trying to be your flagship. It's trying to be the phone you don't think twice about tossing in a work bag, and for the most part, it succeeds. But "most part" is doing some heavy lifting here — let's break down what you're actually getting.

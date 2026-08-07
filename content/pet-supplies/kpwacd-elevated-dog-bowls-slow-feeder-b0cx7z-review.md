@@ -1,4 +1,5 @@
 ---
+
 title: "KPWACD Elevated Dog Bowls Slow Feeder"
 seo_title: "KPWACD Elevated Dog Bowls Slow Feeder Review: Verdict | T"
 meta_description: "Our full kpwacd elevated dog bowls slow feeder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CX7ZP44Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MAnhcybCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Does Your Dog Actually Need This? Here's the Real Answer

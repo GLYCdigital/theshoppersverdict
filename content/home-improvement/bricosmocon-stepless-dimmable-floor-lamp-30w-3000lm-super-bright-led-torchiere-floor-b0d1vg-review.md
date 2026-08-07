@@ -1,4 +1,5 @@
 ---
+
 title: "Bricosmocon Stepless Dimmable Floor Lamp,30W 3000LM Super Br"
 seo_title: "Bricosmocon Dimmable Floor Lamp Review: 30W 3000LM LED Torchiere"
 meta_description: "Honest Bricosmocon stepless dimmable floor lamp review: 30W 3000LM output, build quality, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1VGFFH7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UyvBW8JjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3000LM output — genuinely replaces a 200W incandescent torchiere, not marketing math"
   - "Stepless dimming from 10% to 100% with a rotary knob that has satisfying tactile detents"
   - "Color temperature switch (3000K/4000K/6500K) actually changes the LED array, not a cheap filter"
-cons:
+cons: 
   - "Base is weighted but not bolted — on plush carpet it can tip if you have rambunctious pets"
   - "Rotary dimmer is on the cord, not the pole — you'll bend down every time you adjust"
   - "No remote or smart home integration at this price point, which some buyers expect"
+
 ---
 
 # The Bricosmocon 30W Floor Lamp: When a Torchiere Actually Torches

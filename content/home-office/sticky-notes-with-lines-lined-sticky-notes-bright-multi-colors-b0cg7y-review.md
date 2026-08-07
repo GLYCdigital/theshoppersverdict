@@ -1,4 +1,5 @@
 ---
+
 title: "Sticky Notes with Lines Lined Sticky Notes Bright Multi Colo"
 seo_title: "Sticky Notes with Lines Lined Sticky Notes Bright  Review"
 meta_description: "Our full sticky notes with lines lined sticky notes bright multi colo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG7YFRGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fEqLRpyVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: you grab a sticky note, scribble a thought, and it immediately becomes illegible wallpaper because the lines are too faint to guide your writing. These lined sticky notes from the bright multi-color pack solve that specific annoyance — mostly.

@@ -1,4 +1,5 @@
 ---
+
 title: "8pcs Window Box Planter, 17 inch x7 inch x6.3 inch  Flower Window Boxes, Re"
 seo_title: "8pcs Window Box Planter Review: 17x7x6.3 Flower Boxes Worth It?"
 meta_description: "Honest review of the 8pcs Window Box Planter set (17 inch x7 inch x6.3 inch ). Real buyer feedback, build quality, drainage, and who should buy these flower boxes."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BH45ZZTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YCJefaSAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Eight planters for roughly the price of two or three single boxes — serious per-unit savings"
   - "Built-in drainage holes prevent root rot without needing to drill your own"
   - "Lightweight plastic construction easy to mount on railings, fences, or window sills"
-cons:
+cons: 
   - At 6.3 inch " deep, root space is limited — skip deep-rooted perennials or large tomatoes
   - "No mounting hardware included, so plan to source your own screws or brackets"
   - "Thin walls may crack if over-tightened or left in freezing temps with wet soil"
+
 ---
 
 **Opening Hook**

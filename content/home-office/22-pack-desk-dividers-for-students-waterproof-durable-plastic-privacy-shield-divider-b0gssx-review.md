@@ -1,4 +1,5 @@
 ---
+
 title: "22-Pack Desk Dividers for Students - Waterproof & Durable Pl"
 seo_title: "22-Pack Desk Dividers Review: Waterproof Student Privacy Shields"
 meta_description: "Honest 22-Pack Desk Dividers for Students review: waterproof, durable plastic privacy shields. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSSXD3VB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711qoBRFB-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "22 dividers per pack — enough for a full classroom of 20+ students with spares for replacements"
   - "Genuinely waterproof — wipes clean with sanitizer without warping or smearing"
   - "Sturdy corrugated plastic construction that survives repeated use and storage between tests"
-cons:
+cons: 
   - "No adhesive or base weight included — dividers can slide if desks are tilted or students fidget"
   - "Packaging may arrive compressed; a few buyers noted creases that take time to flatten out"
+
 ---
 
 Let me be blunt: most classroom desk dividers are flimsy cardboard that disintegrates the first time a student sneezes on them. This 22-pack from the waterproof plastic category is a different animal entirely, and after digging through 225 ratings at 4.5 stars, I can tell you exactly why teachers keep coming back to it.

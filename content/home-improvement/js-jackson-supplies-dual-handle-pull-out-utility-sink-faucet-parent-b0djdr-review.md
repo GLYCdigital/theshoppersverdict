@@ -1,4 +1,5 @@
 ---
+
 title: "JS Jackson Supplies Dual Handle Pull Out Utility-Sink Faucet"
 seo_title: "JS Jackson Supplies Dual Handle Pull Out Utility-S Review"
 meta_description: "Our full js jackson supplies dual handle pull out utility-sink faucet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJDR1CGM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nhp96s5EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Utility sinks get abused. They wash paintbrushes, muddy boots, mop heads, and whatever else you drag in from the garage. The JS Jackson Supplies Dual Handle Pull Out Utility-Sink Faucet is built for that punishment — mostly. Here's what 210 Amazon ratings at 4.2 stars actually tell you, and what they don't.

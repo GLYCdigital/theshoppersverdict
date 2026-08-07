@@ -1,4 +1,5 @@
 ---
+
 title: "Bushnell Wingman View Golf GPS Speaker"
 seo_title: "Bushnell Wingman View Review: GPS + Speaker Combo"
 meta_description: "Bushnell Wingman View review: GPS distances, Bluetooth speaker, and mini scoreboard in one. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJC2XV53/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Built-in mini LED scoreboard and shot distance calculator visible from 10+ feet"
   - "Magnetic cart mount holds securely on any metal surface, adjusts for aiming"
   - "BoomBox 360° speaker delivers surprisingly full sound for its compact size"
-cons:
+cons: 
   - "Battery life drops to roughly 4 hours when using GPS and speaker simultaneously"
   - "No physical buttons — all controls require the app or voice commands"
+
 ---
 
 **The Bushnell Wingman View is the rare golf gadget that actually earns its spot in your cart.** It’s not just another speaker that happens to have GPS slapped on it. The Wingman View packs a front-facing mini scoreboard, shot distance calculator, and a 360-degree speaker into a magnetic pod that clips to your cart’s frame. At 4.0 stars from 200+ ratings, it’s not perfect — but for the golfer who wants yardages and tunes without juggling three devices, it’s the best all-in-one I’ve tested this season.

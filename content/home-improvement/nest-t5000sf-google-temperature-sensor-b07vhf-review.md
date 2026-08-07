@@ -1,4 +1,5 @@
 ---
+
 title: "Nest T5000SF Google Temperature Sensor"
 seo_title: "Nest T5000SF Google Temperature Sensor Review: Verdict | "
 meta_description: "Our full nest t5000sf google temperature sensor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VHFNKQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6156ph13zPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your upstairs hallway is an icebox while your living room feels like a sauna, the Nest T5000SF is the $40 fix you've been circling. This tiny white puck—about the size of a stack of four quarters—does one thing: it tells your Nest thermostat what the temperature actually is in the room where you spend your time, not just where the thermostat happens to be mounted.

@@ -1,4 +1,5 @@
 ---
+
 title: "CHOEZON Bar Table, Kitchen Dining Table with Power Outlet an"
 seo_title: "CHOEZON Bar Table Review: Power Outlet & Footrest Dining"
 meta_description: "Honest CHOEZON bar table review: 4.6/5 rated kitchen dining table with built-in power outlets and footrest. Is it worth it for small spaces? Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FQCDF426/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images.com/images/I/81qjwzRLAwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in power outlets and USB ports at table height eliminate the need for extension cords in kitchens and apartments"
   - "Rustic industrial design with sturdy steel frame supports up to 220 lbs without wobble"
   - "Footrest bar adds genuine comfort for counter-height seating — rare feature at this price point"
-cons:
+cons: 
   - "Assembly requires two people and takes roughly an hour — the power outlet wiring adds complexity"
   - "The wire-brushed MDF top scratches more easily than solid wood; use coasters"
   - "No shelf or storage below despite the open design — wasted space if you need it"
+
 ---
 
 **Is the CHOEZON Bar Table a smart buy or just another trendy piece of furniture that underdelivers?** At 4.6 stars from 229 ratings, it's clearly impressing most buyers. But here's what you actually need to know before adding it to your cart.

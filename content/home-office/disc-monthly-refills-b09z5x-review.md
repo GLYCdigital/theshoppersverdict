@@ -1,4 +1,5 @@
 ---
+
 title: "Disc Monthly Refills"
 seo_title: "Disc Monthly Refills Review: Honest 2026 Verdict"
 meta_description: "Our Disc Monthly Refills review covers performance, paper quality, and real buyer feedback. See who should buy and who should skip in 2026."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Z5XM3XQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lNLhwVPmL._AC_SL1250_.jpg"
-pros:
+pros: 
   - "Heavyweight 100gsm paper that holds up to fountain pens and gel ink without ghosting"
   - "Pre-punched holes align perfectly with standard discbound systems (Arc, TUL, Office Depot)"
   - "Refill bundle includes monthly, weekly, and note pages — enough for a full quarter of planning"
-cons:
+cons: 
   - "No undated option — if you skip a month, you're left with wasted pages"
   - "Cover material feels plasticky compared to leather or fabric alternatives at similar price points"
+
 ---
 
 If you're deep in the discbound ecosystem, you already know the pain: proprietary refills that cost a small fortune and arrive with misaligned punches. The Disc Monthly Refills set out to fix that, and based on 235 Amazon ratings averaging 4.7 stars, it mostly succeeds. Here's the honest breakdown before you hit "add to cart."

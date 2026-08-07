@@ -1,7 +1,8 @@
 ---
-title: "YAMATIC 3/8\" Pressure Washer Hose, 4200 PSI Non Markingrepla"
-seo_title: "YAMATIC 3/8\" Pressure Washer Hose, 4200 PSI Non Ma Review"
-meta_description: "Our full yamatic 3/8\" pressure washer hose, 4200 psi non markingrepla review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "YAMATIC 3/8\ Pressure Washer Hose, 4200 PSI Non Markingrepla"
+seo_title: "YAMATIC 3/8\ Pressure Washer Hose, 4200 PSI Non Ma Review"
+meta_description: "Our full yamatic 3/8\ pressure washer hose, 4200 psi non markingrepla review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yamatic-3-8-pressure-washer-hose-4200-psi-non-markingreplacement-hose-for-b0f3jk-review"
 image_alt: "YAMATIC 3/8 Pressure Washer Hose, 4200 PSI Non Markingreplacement hose for Hot/Cold Water Rubber Wire Braided"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3JKXJNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KEOsjSl-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've replaced one OEM pressure washer hose already, you know the drill: factory hoses are short, stiff in cold weather, and leave ugly black scuff marks on everything they touch. The YAMATIC 3/8" Non-Marking hose is built to fix that specific annoyance — and it mostly delivers.

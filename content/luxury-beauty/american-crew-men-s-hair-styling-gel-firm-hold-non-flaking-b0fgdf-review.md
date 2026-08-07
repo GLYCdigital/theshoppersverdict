@@ -1,4 +1,5 @@
 ---
+
 title: "AMERICAN CREW Men's Hair Styling Gel, Firm Hold, Non-Flaking"
 seo_title: "AMERICAN CREW Firm Hold Gel Review: Non-Flaking (2026)"
 meta_description: "Honest AMERICAN CREW Firm Hold Gel review: Does it really non-flake? Tested for hold, shine, and washout. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGDFZ9J3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nt-lngxcL._SL1500_.jpg"
-pros:
+pros: 
   - "Firm hold that actually lasts 8+ hours without stiffening into a helmet — hair stays movable, not crunchy"
   - "Zero flaking even after a full workday; no white residue on shoulders or in the hairline"
   - "Rinses out cleanly with just water — no sticky buildup or need for double shampooing"
-cons:
+cons: 
   - "Scent is stronger than typical salon gels — a classic barbershop cologne that lingers for hours"
   - "Can feel slightly tacky during application if you use more than a dime-sized amount"
   - "Not ideal for very fine or thinning hair — the firm hold formula can weigh strands down"
+
 ---
 
 Let's cut through the noise: most firm-hold gels either turn your hair into a crunchy helmet or flake off by noon like dandruff. AMERICAN CREW's Firm Hold Gel sits in a rare middle ground — it delivers real hold without those two deal-breakers. With 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it the right gel for *your* hair? Here's what I found after putting it through real-world testing.

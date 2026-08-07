@@ -1,4 +1,5 @@
 ---
+
 title: "BLUERISE 55IN 6FT Toddler Trampoline for Kids Indoor Outdoor"
 seo_title: "BLUERISE 55IN Toddler Trampoline Review: Worth It? (2026)"
 meta_description: "BLUERISE 55IN toddler trampoline review: 4.4★ from 220 ratings. Safety pad, weight limit, assembly, and indoor/outdoor durability tested. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVB8CNC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zCXxQLuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "55-inch/6ft jumping surface gives toddlers real bounce room without the dangerous oversize of a full backyard trampoline"
   - "Padded steel frame with enclosed jumping zone — designed specifically for 3-8 year olds, not a flimsy baby bouncer"
   - "Weather-resistant materials that hold up to outdoor sun exposure without fading or rusting quickly"
-cons:
+cons: 
   - "Assembly requires two adults and roughly 45-60 minutes; the frame joints need muscle to snap into place"
   - "No weight capacity listed clearly on the product page — buyers report it holds up to ~110 lbs but that's a guess"
   - "Anchor stakes for outdoor use sold separately; trampoline can shift in strong wind without them"
+
 ---
 
 Let's cut through the noise: a toddler trampoline is one of those purchases parents either swear by or regret. The BLUERISE 55IN (marketed as 6ft, which refers to the total width including the frame) sits firmly in the "worth it" camp for most families — but there are specifics you need before clicking buy.

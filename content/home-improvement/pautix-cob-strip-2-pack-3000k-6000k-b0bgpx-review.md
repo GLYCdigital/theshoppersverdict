@@ -1,4 +1,5 @@
 ---
+
 title: "PAUTIX COB Strip 2-Pack 3000K-6000K"
 seo_title: "PAUTIX COB Strip 2-Pack 3000K-6000K Review: Verdict | TSV"
 meta_description: "Our full pautix cob strip 2-pack 3000k-6000k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BGPX7W15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+8U6uVrlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PAUTIX COB Strip 2-Pack solves a problem every DIYer knows: you need bright, even light exactly where your head isn't. Whether it's under a sink, inside a cabinet, or clamped to a workbench, these 12-inch COB strips deliver a legitimately impressive 2000 lumens from a package that fits in a jacket pocket. After 229 ratings averaging 4.6 stars, the consensus is clear — but there are some tradeoffs worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bounce House, Inflatable Bounce House for Kids 3-12, Bouncy"
 seo_title: "Bounce House Inflatable for Kids Review: Worth It? (2026)"
 meta_description: "Honest Bounce House inflatable for kids 3-12 review: setup, durability, safety, and real buyer feedback. Is this bouncy castle worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQBY6DPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CBWYuws6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade 420D Oxford cloth holds up to rough play without punctures or seam tears"
   - "Blower motor runs quietly enough for indoor use and inflates the whole unit in under 60 seconds"
   - "Weight capacity of 550 lbs comfortably fits 4-6 kids at once without sagging or deflating"
-cons:
+cons: 
   - "No blower cover or carry bag included in the box — you'll need to buy one separately"
   - "Anchor stakes are short and bend easily on hard or rocky ground"
+
 ---
 
 Let's cut through the noise: there are roughly 400 inflatable bounce houses on Amazon, and most of them share the same DNA — thin fabric, weak seams, and a blower that sounds like a lawnmower having a panic attack. This one is different, and the 4.5-star rating across 225 reviews backs that up.

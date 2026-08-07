@@ -1,4 +1,5 @@
 ---
+
 title: "ExcelSteel Heavy Duty Handles and"
 seo_title: "ExcelSteel Heavy Duty Handles Review: Worth It? (2026)"
 meta_description: "ExcelSteel Heavy Duty Handles review: 4.5-star rated replacement handles. Do they fit your cookware? Real pros, cons, and buying advice inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00555EUF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zFesl+oeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid stainless steel and phenolic construction at a price well below OEM replacements"
   - "Two handle sizes plus knobs in one kit — covers most standard pots, pans, and lids"
   - "Hardware included; most buyers report a 10-minute install with basic tools"
-cons:
+cons: 
   - "Screw posts are fixed length — won't fit ultra-thick copper-core or cast iron cookware"
   - "No instructions included; you'll need to figure out orientation of washers and lock washers yourself"
+
 ---
 
 Somewhere in the back of your cabinet is a perfectly good pot with a wobbly, stripped, or melted handle. Replacing it through the manufacturer costs $15 to $25 plus shipping — if they even sell the part. The ExcelSteel Heavy Duty Handles kit sidesteps that entire ordeal for roughly the price of a fast-food lunch. After digging through 225 Amazon ratings and the construction details, here's the real story.

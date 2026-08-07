@@ -1,4 +1,5 @@
 ---
+
 title: "Roar Organic Electrolyte Infusions"
 seo_title: "Roar Organic Electrolyte Infusions Review: Verdict | TSV"
 meta_description: "Our full roar organic electrolyte infusions review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSS2RZ78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A5-o+lpJL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most electrolyte drinks fall into one of two camps: they taste like melted candy and pack 20 grams of sugar, or they deliver clean ingredients but drink like chalky water. The Roar Organic Electrolyte Infusions sit in a rare middle ground — and the 4.6-star average across 229 ratings suggests I'm not the only one who noticed.

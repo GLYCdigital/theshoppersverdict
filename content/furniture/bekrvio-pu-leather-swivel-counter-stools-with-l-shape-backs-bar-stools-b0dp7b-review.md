@@ -1,4 +1,5 @@
 ---
+
 title: "Bekrvio PU Leather Swivel Counter Stools with L Shape Backs,"
 seo_title: "Bekrvio PU Leather Swivel Counter Stools Review (2026)"
 meta_description: "Honest Bekrvio PU Leather Swivel Counter Stools review: comfort, build quality, assembly, and who should buy these L-back bar stools."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP7B35K3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l2iqDmo9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360-degree swivel with smooth ball bearings and a 150-pound weight capacity tested by multiple reviewers"
   - "PU leather upholstery over thick foam (reportedly 2-3 inches) that holds up to daily use without cracking"
   - "L-shaped backrest provides genuine lumbar support — not just decorative, unlike many stools in this price range"
-cons:
+cons: 
   - "Assembly requires an Allen wrench (included) and about 20 minutes per stool — not tool-free, despite some listings implying otherwise"
   - Footrest is fixed at one height; taller users (over 6'2 inch ") may find it slightly low for optimal leg comfort
+
 ---
 
 **Bekrvio PU Leather Swivel Counter Stools with L-Shaped Backs Review: Comfort That Swivels, Support That Stays**

@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Juno Knob and Deadbolt Combo Pack"
 seo_title: "Kwikset Juno Knob and Deadbolt Combo Pack Review: Verdict"
 meta_description: "Our full kwikset juno knob and deadbolt combo pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2QRDVKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oenQ01z2L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance & Real-World Use**

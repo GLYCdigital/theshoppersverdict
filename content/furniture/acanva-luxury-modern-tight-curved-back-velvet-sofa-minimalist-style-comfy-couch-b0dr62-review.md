@@ -1,4 +1,5 @@
 ---
+
 title: "Acanva Luxury Modern Tight Curved Back Velvet Sofa, Minimali"
 seo_title: "Acanva Curved Back Velvet Sofa Review: Minimali Luxury"
 meta_description: "Acanva Minimali curved velvet sofa review: 4.7★ rated. Is this 3-seater worth $1,400? Real buyer feedback on comfort, assembly, and fabric quality."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DR62PCJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zRN+wRX8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Deep 23-inch seat depth with high-resilience foam that holds shape after months of daily use"
   - "Kiln-dried hardwood frame rated for 500+ pounds — no creaking or flex even with two adults plus kids"
   - "Stain-resistant performance velvet with a tight back that doesn't sag or pill, per 200+ verified reviews"
-cons:
+cons: 
   - "Weighs 145 pounds and arrives in two boxes — you'll need a second person for assembly and maneuvering"
   - "Low 7.5-inch clearance means robot vacuums with tall sensors won't fit underneath"
   - "Off-white color option shows wear quickly; several reviewers recommend the darker greige for households with pets"
+
 ---
 
 The Acanva Minimali isn't trying to be the cheapest sofa on Amazon. At its price point, it's aiming squarely at the "I want a designer look without the designer markup" buyer. And based on 235 ratings averaging 4.7 stars, it's hitting that target for most shoppers. But is it right for *your* living room? Let's break down what you're actually getting.

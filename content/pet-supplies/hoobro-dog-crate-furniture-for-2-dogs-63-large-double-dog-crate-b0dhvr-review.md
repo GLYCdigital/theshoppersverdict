@@ -1,7 +1,8 @@
 ---
-title: "HOOBRO Dog Crate Furniture for 2 Dogs, 63\" Large Double Dog "
-seo_title: "HOOBRO Dog Crate Furniture for 2 Dogs, 63\" Large D Review"
-meta_description: "Our full hoobro dog crate furniture for 2 dogs, 63\" large double dog  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HOOBRO Dog Crate Furniture for 2 Dogs, 63\ Large Double Dog "
+seo_title: "HOOBRO Dog Crate Furniture for 2 Dogs, 63\ Large D Review"
+meta_description: "Our full hoobro dog crate furniture for 2 dogs, 63\ large double dog  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hoobro-dog-crate-furniture-for-2-dogs-63-large-double-dog-crate-b0dhvr-review"
 image_alt: "HOOBRO Dog Crate Furniture for 2 Dogs, 63 Large Double Dog Crate Furniture with Divider, Wooden Indoor Kennel TV Stand f"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHVR9HSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+Zon2tYJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOOBRO Dog Crate Furniture for 2 Dogs, 63" Large Double Dog — An Honest Deep Dive

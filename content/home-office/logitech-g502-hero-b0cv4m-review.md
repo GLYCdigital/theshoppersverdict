@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech G502 Hero"
 seo_title: "Logitech G502 Hero Review: Verdict | TSV"
 meta_description: "Our full logitech g502 hero review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CV4M5QXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PNyeVCKZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech G502 Hero sits in an odd spot: marketed as a gaming mouse, but it's become the default recommendation for anyone who spends 40+ hours a week in spreadsheets, CAD software, or code editors. At 4.7 stars from 235 Amazon ratings, it's clearly doing something right. Let me tell you what that something is.

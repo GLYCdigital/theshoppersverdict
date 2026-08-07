@@ -1,4 +1,5 @@
 ---
+
 title: "MerryXD T13 Action Figure"
 seo_title: "MerryXD T13 Action Figure Review: Verdict | TSV"
 meta_description: "Our full merryxd t13 action figure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZ2QKVGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D93i1Y7NL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The MerryXD T13 is an action figure that’s been sitting at a solid 4.3-star average across 215 Amazon ratings, and after digging through what buyers actually say, here’s the real story.

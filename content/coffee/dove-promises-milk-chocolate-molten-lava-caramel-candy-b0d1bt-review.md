@@ -1,23 +1,25 @@
 ---
+
 title: "DOVE PROMISES Milk Chocolate Molten Lava Caramel Candy"
 seo_title: "DOVE PROMISES Molten Lava Caramel Candy Review (2026)"
 meta_description: "Honest DOVE PROMISES Milk Chocolate Molten Lava Caramel Candy review: rich flavor, texture, and value. See pros, cons, and who should buy."
 slug: "dove-promises-milk-chocolate-molten-lava-caramel-candy-b0d1bt-review"
 image_alt: "DOVE PROMISES Milk Chocolate Molten Lava Caramel Candy wrapped pieces"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1BTHGCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615ynhhzEuL._SL1000_.jpg"
-pros:  
+pros: 
   - "Molten caramel center stays soft and gooey — no hard, crystallized filling"  
   - "Milk chocolate is genuinely creamy with a smooth melt, not waxy"  
   - "Individually wrapped pieces — easy portion control and lunchbox friendly"  
-cons:  
+cons: 
   - "Caramel is sweet; can be cloying if you eat more than two at once"  
   - "Pieces are small — a bag goes fast if you're sharing"
+
 ---
 
 # DOVE PROMISES Milk Chocolate Molten Lava Caramel Candy: Worth the Hype?

@@ -1,4 +1,5 @@
 ---
+
 title: "Amco Rub-a-Way Bar, Stainless Steel Odor Absorber (4 inch  x 2.25 inch"
 seo_title: "Amco Rub-a-Way Bar Review: Does It Remove Garlic & Onion Odors?"
 meta_description: "Amco Rub-a-Way Bar review: real results on garlic, onion, and fish odors. See pros, cons, and who should buy this stainless steel odor remover."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G3SQDFY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oBKUZ9vQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Effectively neutralizes garlic, onion, and fish odors in under 60 seconds with plain tap water"
   - "Compact 4-inch bar fits in most utensil drawers or hangs near the sink without taking counter space"
   - "No chemicals, no refills, no batteries — a one-time purchase that lasts for years"
-cons:
+cons: 
   - "Requires running water to activate — won't work dry or with hand sanitizer"
   - "Does nothing for smoke, garbage, or other non-food household odors despite the 'odor absorber' label"
+
 ---
 
 You've just finished mincing garlic and your fingers smell like a pizzeria dumpster. Soap doesn't touch it. Lemon juice barely helps. You've tried rubbing your hands on the sink's stainless steel edge—sometimes it works, sometimes it doesn't. The Amco Rub-a-Way Bar is that sink trick, refined into a purpose-built tool. At roughly the size of a large candy bar (4 inches by 2.25 inches), it's a slab of 18/8 stainless steel that promises to strip stubborn food odors from your skin. After digging through 225 ratings and testing the science behind it, here's the real story.

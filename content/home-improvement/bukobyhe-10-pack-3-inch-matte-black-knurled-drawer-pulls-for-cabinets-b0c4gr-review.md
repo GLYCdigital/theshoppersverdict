@@ -1,4 +1,5 @@
 ---
+
 title: "BUKOBYHE 10 Pack 3-Inch Matte Black Knurled Drawer Pulls for"
 seo_title: "BUKOBYHE Knurled Drawer Pulls Review: 10-Pack Worth It?"
 meta_description: "Honest BUKOBYHE 3-inch matte black knurled drawer pulls review. Real buyer feedback on finish, grip, hardware quality, and installation. Is this 10-pack worth your money?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C4GR2ML7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515NOavz9fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent matte black finish across all 10 pulls — no shade variation or peeling reported after months of use"
   - "Smooth, hand-polished knurled texture provides excellent grip even with wet or greasy hands"
   - "Includes both 1-inch and 1.25-inch screws plus Allen wrench, so installation is truly tool-free out of the box"
-cons:
+cons: 
   - "3-inch center-to-center spacing is a non-standard size — measure existing holes before buying or you'll be drilling new ones"
   - "Several buyers report the knurling is more decorative than functional; it's less aggressive than expected, more of a subtle texture"
   - "No template included for marking screw holes, which slows down multi-pull installations"
+
 ---
 
 **Review Body**

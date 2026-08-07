@@ -1,4 +1,5 @@
 ---
+
 title: "SKIL SC5364-00 PWRJump PWRCore 40 150W 40V Charger"
 seo_title: "SKIL SC5364-00 PWRJump PWRCore 40 150W 40V Charger Review"
 meta_description: "Our full skil sc5364-00 pwrjump pwrcore 40 150w 40v charger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4ZM9Z2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jCskHKcpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a 40V SKIL tool and you're still using the charger that came in the box, you're leaving time on the table. The SKIL SC5364-00 PWRJump PWRCore 40 150W charger is the brand's answer to the "why is my battery still charging" problem. It pushes 150 watts into compatible PWRCore 40 batteries, which translates to noticeably faster turnarounds between cuts, trims, and blows.

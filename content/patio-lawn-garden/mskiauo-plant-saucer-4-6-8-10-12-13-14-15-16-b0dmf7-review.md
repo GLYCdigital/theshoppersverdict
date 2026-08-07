@@ -1,4 +1,5 @@
 ---
+
 title: "MSKIAUO Plant Saucer 4 6 8 10 12 13 14 15 16 18 inch H"
 seo_title: "MSKIAUO Plant Saucer 4 6 8 10 12 13 14 15 16 18 in Review"
 meta_description: "Our full mskiauo plant saucer 4 6 8 10 12 13 14 15 16 18 inch h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMF7DYQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819RGJbOo7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever woken up to a ring of water damage on your hardwood floor or watched your favorite ceramic pot crack from sitting in a puddle, you already know why saucers matter. The MSKIAUO Plant Saucer set doesn't reinvent the wheel—it just makes it round, sturdy, and available in every size you'll actually need.

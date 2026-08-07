@@ -1,4 +1,5 @@
 ---
+
 title: "beetles 6 Jelly Colors Gel Nail Polish Set"
 seo_title: "beetles 6 Jelly Colors Gel Polish Set Review (2026)"
 meta_description: "Honest beetles 6 Jelly Colors Gel Nail Polish Set review: translucent shades, wear time, application tips, and who should buy. 4.4-star rated."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSVXMBYY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PmGV9YyUL._SL1500_.jpg"
-pros:
+pros: 
   - "Six distinct jelly shades with true see-through depth — not just sheer versions of opaque colors"
   - "Self-leveling formula that smooths out brush strokes within seconds, even for shaky hands"
   - "Per-bottle 0.5 fl oz capacity gives roughly 15-20 manicures per color — solid value at the set price"
-cons:
+cons: 
   - "Requires 3 thin coats minimum for even opacity on longer nails — the jelly effect means visible nail line unless you build layers patiently"
   - "No base or top coat included, and beetles' own top coat is basically mandatory — standard top coats smudge the jelly finish"
   - "Color payoff varies dramatically by shade — the pink and peach are sheerer than the purple and blue, so results differ per finger if you're not careful"
+
 ---
 
 If you've been scrolling past jelly nail sets because they look like a gimmick, let me stop you: this is not the watery, streaky mess you're imagining. The beetles 6 Jelly Colors Gel Nail Polish Set delivers exactly what the category promises — translucent, glossy color that looks like stained glass on your nails. But this is a gel polish, which means you're signing up for a specific routine, not just a swipe-and-go experience.

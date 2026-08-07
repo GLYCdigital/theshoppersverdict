@@ -1,4 +1,5 @@
 ---
+
 title: "PAWUP Freeze Dried Minnows&Salmon Cats&Dogs Treats"
 seo_title: "PAWUP Freeze Dried Minnows&Salmon Cats&Dogs Treats Review"
 meta_description: "Our full pawup freeze dried minnows&salmon cats&dogs treats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWRMP8TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oPzBrySCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If your cat turns their nose up at every treat you've tried, or your dog needs a high-value reward that isn't a greasy meat stick, PAWUP's freeze-dried minnows and salmon are worth a shot. At 4.4 stars from 220 ratings, it's not a perfect product — but it's a genuinely useful one for pets who need protein-dense, single-ingredient motivation.

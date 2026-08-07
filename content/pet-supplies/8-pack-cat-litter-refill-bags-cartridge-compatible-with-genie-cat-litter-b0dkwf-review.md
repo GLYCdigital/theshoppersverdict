@@ -1,4 +1,5 @@
 ---
+
 title: "8 Pack Cat Litter Refill Bags Cartridge Compatible with Geni"
 seo_title: "8 Pack Cat Litter Refill Bags Review (2026): Compatible with Genie"
 meta_description: "Honest review of the 8-pack cat litter refill bags for Genie litter systems. Are they worth it? We break down fit, durability, and real user feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKWFHLBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CZZzisuFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Substantial cost savings versus Genie-brand cartridges—often 30-50% cheaper per bag without sacrificing basic function"
   - "Thick, puncture-resistant film that holds up to clumping litter and sharp crystal edges without tearing during removal"
   - "Universal sizing fits both the standard Genie and the larger Genie XL models, reducing order mistakes"
-cons:
+cons: 
   - "Fragrance-free only—if your cat's waste is particularly potent, you'll need to pair this with a separate deodorizer or odor-control spray"
   - "The cardboard cartridge core is less rigid than OEM, so inserting the bag into the unit takes a bit more care to avoid crimping"
+
 ---
 
 **Stop overpaying for the Genie's name-brand refills.** If you own one of those popular Genie litter containment units, you already know the dirty secret: the replacement cartridges cost nearly as much as a bag of decent cat litter. This 8-pack of compatible refills exists to fix that exact problem. Let's dig into whether the savings are worth any compromises.

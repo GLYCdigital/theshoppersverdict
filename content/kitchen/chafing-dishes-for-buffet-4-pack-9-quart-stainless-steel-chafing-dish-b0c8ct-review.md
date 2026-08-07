@@ -1,4 +1,5 @@
 ---
+
 title: "Chafing Dishes for Buffet 4 Pack, 9 Quart Stainless Steel Ch"
 seo_title: "Chafing Dishes for Buffet 4 Pack Review: 9 Quart Steel"
 meta_description: "Honest review of the 4-pack 9-quart stainless steel chafing dishes for buffet service. Build quality, heat retention, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8CTNQ2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ua71vN4XL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 18/10 stainless steel holds up to commercial use without warping or denting"
   - "9-quart capacity per dish — actually fits a full tray of lasagna or a large roast, not a glorified casserole dish"
   - "Fuel holders sit low enough that the gel cans stay put and don't tip, even when guests bump the table"
-cons:
+cons: 
   - "No carrying handles on the food pans themselves — you'll need oven mitts to move them when hot"
   - "Lids don't lock down, so transport between kitchen and buffet line requires care"
+
 ---
 
 Let me save you some scrolling: if you're hosting Thanksgiving for 20 or running a weekend catering gig, this 4-pack of 9-quart chafing dishes is the real deal. At 4.5 stars across 225 ratings, it's not perfect — but for the price, it's the best value I've seen in this category all year.

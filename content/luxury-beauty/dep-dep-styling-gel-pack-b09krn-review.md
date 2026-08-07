@@ -1,4 +1,5 @@
 ---
+
 title: "Dep Dep Styling Gel Pack"
 seo_title: "Dep Dep Styling Gel Pack Review: 4.7-Star Skincare Results"
 meta_description: "Read our honest Dep Dep Styling Gel Pack review: texture, hydration results, and whether this luxury gel is worth the price. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KRN32LZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jBkWRcKKL._SL1500_.jpg"
-pros:
+pros: 
   - "Cushiony gel texture that absorbs fully in under 60 seconds with zero tacky residue"
   - "Visible plumping effect on fine lines within 2 weeks of consistent morning use"
   - "Fragrance-free formula that earned 4.7 stars from 235 reviewers — rare for luxury skincare"
-cons:
+cons: 
   - "Generous 50ml jar runs out fast if you use it twice daily — budget for a 3-month cycle"
   - "The cooling sensation is subtle, not the dramatic 'ice facial' some reviewers expected"
+
 ---
 
 # Is the Dep Dep Styling Gel Pack Actually Worth the Luxury Price?

@@ -1,4 +1,5 @@
 ---
+
 title: "Spektrum AR8360T+ 8 Channel AS3X+ & Safe Telemetry Receiver,"
 seo_title: "Spektrum AR8360T+ 8 Channel AS3X+ & Safe Telemetry Review"
 meta_description: "Our full spektrum ar8360t+ 8 channel as3x+ & safe telemetry receiver, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D9P4N3TL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vlfcvtDEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're flying anything larger than a UMX park flyer, the receiver is the nervous system of your aircraft. The Spektrum AR8360T+ packs AS3X+ stabilization, SAFE flight envelopes, and full telemetry into a 17-gram package that's become the default upgrade for sport and scale models. With a 4.8-star average across 240 ratings, it's clearly doing something right — but it's not plug-and-play for everyone.

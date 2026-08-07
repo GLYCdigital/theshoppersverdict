@@ -1,4 +1,5 @@
 ---
+
 title: "ikalido Metal Canopy Bed Frame, Modern Four-Poster Platform "
 seo_title: "ikalido Metal Canopy Bed Frame, Modern Four-Poster Review"
 meta_description: "Our full ikalido metal canopy bed frame, modern four-poster platform  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8JGLHWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wANtxUQsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A canopy bed used to mean heavy carved wood and a bedroom that felt like a castle. The ikalido Metal Canopy Bed Frame flips that script completely — it's a modern four-poster that's actually light enough to move across a room by yourself, but built sturdy enough that you won't regret skipping the box spring.

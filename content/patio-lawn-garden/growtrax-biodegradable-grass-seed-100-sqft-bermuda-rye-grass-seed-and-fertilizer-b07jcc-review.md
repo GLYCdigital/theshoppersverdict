@@ -1,4 +1,5 @@
 ---
+
 title: "Growtrax Biodegradable Grass Seed - 100 SQFT Bermuda Rye - G"
 seo_title: "Growtrax Biodegradable Grass Seed - 100 SQFT Bermu Review"
 meta_description: "Our full growtrax biodegradable grass seed - 100 sqft bermuda rye - g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B07JCCQB7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KImykROgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Growtrax Biodegradable Grass Seed Review: A Convenient 2-in-1 Patch Solution, But Read This Before Buying**

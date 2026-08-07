@@ -1,4 +1,5 @@
 ---
+
 title: "FDD Weather Stripping 50ftSS"
 seo_title: "FDD Weather Stripping 50ft Review: Worth It? (2026)"
 meta_description: "FDD Weather Stripping 50ft review: Does this silicone seal strip stop drafts? We break down adhesion, durability, and real buyer feedback at 4.2 stars."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CPS27QQF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RVeyxDDuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Self-adhesive silicone with strong 3M backing — holds on wood, metal, and painted surfaces without screws"
   - "50-foot roll covers 2–3 standard doors or a full window set, with a sloped seal that blocks drafts and noise"
   - "Flexible enough to bend around corners and curves, yet dense enough to compress and fill uneven gaps up to 0.35 inches"
-cons:
+cons: 
   - "Adhesive requires a clean, dry surface at 60°F+ or it peels within weeks — cold-weather installs fail"
   - "Not paintable; once applied, it stays gray/black and collects dust in high-traffic areas"
+
 ---
 
 Let’s be blunt: most weather stripping is cheap foam that crumbles in a year. The FDD Weather Stripping 50ftSS is a different animal — a silicone rubber tube with a sloped compression seal, not a squishy sponge. At 4.2 stars across 210 ratings, it’s clearly doing something right. But is it the right fix for your drafty door? That depends on how honest you are about your door frame’s condition.

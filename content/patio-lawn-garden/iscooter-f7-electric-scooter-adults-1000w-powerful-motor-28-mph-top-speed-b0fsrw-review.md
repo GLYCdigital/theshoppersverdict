@@ -1,4 +1,5 @@
 ---
+
 title: "iScooter F7 Electric Scooter Adults, 1000W Powerful Motor, 2"
 seo_title: "iScooter F7 Electric Scooter Adults, 1000W Powerfu Review"
 meta_description: "Our full iscooter f7 electric scooter adults, 1000w powerful motor, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FSRWH94W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+BoV7xCLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The iScooter F7 Isn't a Toy — It's a Real Commuter Machine With Real Tradeoffs

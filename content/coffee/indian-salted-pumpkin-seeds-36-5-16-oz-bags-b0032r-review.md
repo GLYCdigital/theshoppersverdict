@@ -1,4 +1,5 @@
 ---
+
 title: "Indian Salted Pumpkin Seeds (36-5/16 oz. bags)"
 seo_title: "Indian Salted Pumpkin Seeds (36-5/16 oz. bags) Review: Ve"
 meta_description: "Our full indian salted pumpkin seeds (36-5/16 oz. bags) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0032RFGWA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WwwDATulL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Indian Salted Pumpkin Seeds (36-5/16 oz. bags) Review

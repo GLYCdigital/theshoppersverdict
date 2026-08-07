@@ -1,4 +1,5 @@
 ---
+
 title: "Traditional Medicinals Tea, Organic Detox"
 seo_title: "Traditional Medicinals Tea, Organic Detox Review: Verdict"
 meta_description: "Our full traditional medicinals tea, organic detox review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFP3HZKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714STU8SxtL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about something before we start: a cup of tea is not a detox. Your liver and kidneys do that job whether you buy this box or not. What Traditional Medicinals *does* sell here is a well-made, organic herbal blend that supports hydration and digestion while tasting genuinely good. That's worth reviewing honestly.

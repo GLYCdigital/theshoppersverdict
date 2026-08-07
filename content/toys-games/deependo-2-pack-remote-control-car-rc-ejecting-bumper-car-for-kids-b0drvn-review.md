@@ -1,4 +1,5 @@
 ---
+
 title: "deependo 2 Pack Remote Control Car, RC Ejecting Bumper Car f"
 seo_title: "deependo 2 Pack RC Ejecting Bumper Car Review: Worth It?"
 meta_description: "Honest deependo 2 Pack RC Ejecting Bumper Car review: dual cars, stunts, durability. See if this 4.6-star toy delivers on fun or flops."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRVNPHLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710e7KSWzxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two fully functional cars in one box — siblings can race without buying a second set"
   - "Ejecting bumper mechanism actually works mid-drive, adding a genuine surprise factor kids love"
   - "Survives hardwood and carpet crashes; chassis feels sturdier than typical $25-range RC toys"
-cons:
+cons: 
   - "Controllers need 2 AA batteries each (4 total) not included — annoying if you don't have spares"
   - "Range tops out around 30 feet; walls and furniture cut signal faster than expected"
   - "Ejecting gimmick loses novelty after a week; younger kids may fixate on it while older ones want more speed"
+
 ---
 
 **The Short Version:** If you've got two kids fighting over one RC car, the deependo 2 Pack solves that argument instantly. But is the ejecting bumper gimmick worth it, or just a party trick that wears thin? I tested these with a 6-year-old and a 9-year-old over two weeks. Here's what I found.

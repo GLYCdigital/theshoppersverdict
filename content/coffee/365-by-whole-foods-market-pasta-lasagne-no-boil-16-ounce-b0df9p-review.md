@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Pasta Lasagne No Boil, 16 Ounce"
 seo_title: "365 No Boil Lasagne Review: Worth It? (2026)"
 meta_description: "365 by Whole Foods No Boil Lasagne review: texture, cooking tips, and real buyer feedback. See if this 16-oz box beats traditional noodles."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF9PBJWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YXnkKoqaL._SL1500_.jpg"
-pros:
+pros: 
   - "No boiling required — saves 20-30 minutes and eliminates the sticky-noodle mess"
   - "Consistent rectangular sheets fit a standard 9x13 pan without trimming"
   - "Holds structure after baking — layers slice cleanly, no mushy collapse"
-cons:
+cons: 
   - "Requires extra sauce moisture; dry lasagna or skimpy sauce yields chewy edges"
   - "Some boxes arrive with broken sheets due to thin, brittle dry pasta"
+
 ---
 
 Let’s be blunt: no-boil lasagna noodles are a convenience gamble. Some brands turn into a pasty brick; others stay rigid no matter how long they bake. The 365 by Whole Foods Market version, though, has earned a 4.5-star average across 225 Amazon ratings — and after digging into what buyers actually say, the praise is largely justified. This is the rare no-boil noodle that behaves like the real thing, provided you respect its one non-negotiable rule: sauce-to-pasta ratio.

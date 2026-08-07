@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik California Walnuts"
 seo_title: "Yupik California Walnuts Review: Verdict | TSV"
 meta_description: "Our full yupik california walnuts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNTVQ2NV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zWVbKOiYL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most bagged walnuts taste like they've been sitting in a warehouse since the Bush administration. The Yupik California Walnuts aren't that. In fact, they're noticeably better than the generic store-brand bags you've probably been settling for.

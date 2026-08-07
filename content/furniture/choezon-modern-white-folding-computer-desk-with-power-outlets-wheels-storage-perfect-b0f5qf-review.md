@@ -1,4 +1,5 @@
 ---
+
 title: "CHOEZON Modern White Folding Computer Desk with Power Outlet"
 seo_title: "CHOEZON Folding Computer Desk Review: White Desk with Power"
 meta_description: "Honest CHOEZON folding desk review: white computer desk with power outlet, wheels, and storage. See pros, cons, and who should buy it."
@@ -11,15 +12,16 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F5QF99V7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Tyv0EHlFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True fold-flat design drops to roughly 4 inches thick — slides under a bed or behind a door when not in use"
   - "Built-in power strip with two AC outlets and dual USB ports saves you from crawling under the desk to find a socket"
   - "Locking caster wheels on all four legs make it genuinely mobile; lock them for typing stability, unlock to roll it to a new room"
   - "Integrated storage shelf and side pocket organizer handle the typical desk clutter — papers, cables, a tablet"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 20 minutes of attention; the instructions are diagram-only with no written steps"
   - "The white laminate surface shows scuffs and pen marks quickly; you'll want a desk pad or mat if you write directly on it"
   - "Stability at full height is acceptable but not rock-solid — it wobbles slightly when you type aggressively on a mechanical keyboard"
+
 ---
 
 Some desks pretend to be portable. This one actually folds flat enough to stash behind a door, and it brings power outlets with it. The CHOEZON Modern White Folding Computer Desk isn't trying to be your forever desk — it's trying to be the desk that works when you need it and disappears when you don't. At 4.3 stars across 215 ratings, it's clearly hitting that mark for most buyers. Here's the full picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "64.17 in Tall Arched Display Cabinet with Acrylic Glass Door"
 seo_title: "Tall Arched Display Cabinet Review: Acrylic Glass Door, 64 Inch"
 meta_description: "Honest 64.17 in Tall Arched Display Cabinet review: build quality, acrylic vs glass, assembly, storage capacity, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FG7YWYMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lH5WKkicL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Arched top adds architectural interest without eating floor space — fits tight corners at just 15.7 inches deep"
   - "Acrylic door panels are shatterproof and roughly 60% lighter than tempered glass, making solo assembly manageable"
   - "Four adjustable shelves let you reconfigure for tall vases, stacked books, or collectible figurines"
-cons:
+cons: 
   - "Acrylic scratches more easily than real glass — use a microfiber cloth only, no paper towels"
   - "Back panel is thin MDF; anchors to the wall are essential if you have kids or pets"
   - "No soft-close hinge mechanism; door closes with a firm thud if you let it go"
+
 ---
 
 If you've been hunting for a display cabinet that doesn't dominate your room like a hulking china hutch, this 64-inch arched model from the B0FG7YWYMQ line is worth a serious look. The curved top softens the silhouette — it reads more like a statement piece than storage furniture. At roughly 64 inches tall and just under 16 inches deep, it fits neatly against a hallway wall or beside a dining table without hogging walkway space. With 215 Amazon ratings averaging 4.3 stars, the consensus is clear: this cabinet delivers solid value, with a few caveats worth knowing before checkout.

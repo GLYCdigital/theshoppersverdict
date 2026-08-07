@@ -1,4 +1,5 @@
 ---
+
 title: "HAIBOXING 1:18 Scale RC Monster Truck 18859 Green 36km/h Spe"
 seo_title: "HAIBOXING 18859 RC Monster Truck Review: 36km/h Speed Test"
 meta_description: "HAIBOXING 1:18 RC monster truck review: 36km/h brushless speed, durable build, real off-road performance. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY34XNSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZoGZAbXIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 36km/h top speed straight from the box — no $50 battery upgrade required"
   - "Full ball bearings and oil-filled shocks on a $100-class truck — rare at this price point"
   - "3-wire metal-gear steering servo handles real abuse without stripping"
-cons:
+cons: 
   - "Stock battery only gives 10-12 minutes of hard run time — buy a second pack immediately"
   - "Plastic differential gears will eventually need replacement if you jump it hard consistently"
   - "Body clips are stiff and small; gloved hands will struggle during winter bashing"
+
 ---
 
 **The 36km/h Claim Is Real — Here's What That Actually Means for Your Money**

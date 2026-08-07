@@ -1,4 +1,5 @@
 ---
+
 title: "E-Z Flow Air Filter"
 seo_title: "E-Z Flow Air Filter Review: Honest Look Before Buying"
 meta_description: "E-Z Flow Air Filter review: Is this 4.6-star filter worth it? We break down performance, fit, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01L1BNFXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9121bafAhfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Noticeably improved airflow compared to OEM restrictors — measurable difference on multimeters and combustion testers"
   - "Reusable, washable filter media saves money over time; most buyers report 2+ years of use before replacement"
   - "Simple 10-minute install with basic hand tools — no special brackets or adapters needed for standard mounting points"
-cons:
+cons: 
   - "Filter oil must be applied manually after cleaning; skip this step and you'll pull dust straight through the media"
   - "Not a true cold-air intake — you're upgrading flow, not dropping intake temperatures dramatically"
+
 ---
 
 Let's be direct: most aftermarket air filters are snake oil wrapped in chrome. The E-Z Flow Air Filter isn't that. With a 4.6-star average across 229 ratings, this is one of those rare upgrades that delivers measurable — not just audible — gains. Here's the full breakdown before you spend.

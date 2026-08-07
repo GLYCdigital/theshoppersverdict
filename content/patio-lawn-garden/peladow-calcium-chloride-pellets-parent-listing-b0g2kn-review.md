@@ -1,4 +1,5 @@
 ---
+
 title: "Peladow Calcium Chloride Pellets Parent Listing"
 seo_title: "Peladow Calcium Chloride Pellets Parent Listing Review: V"
 meta_description: "Our full peladow calcium chloride pellets parent listing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2KNFXLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ve7bO6oxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the heavy-duty ice melter for people who are tired of re-salting their driveway three times per storm.** Peladow calcium chloride pellets aren't the cheapest option on the shelf, but they're the one that actually works when temperatures plunge below zero.

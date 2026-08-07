@@ -1,4 +1,5 @@
 ---
+
 title: "40 cu/ft 100% Argon Welding Gas Cylinder Tank CGA 580 - FULL"
 seo_title: "40 cu/ft Argon Cylinder Review: Full Tank CGA 580 inch"
 meta_description: "Honest review of the 40 cu/ft 100% Argon welding cylinder (CGA 580). Full tank, build quality, TIG/MIG suitability, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00I4Z69S0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51g42L7NpxL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Delivered actually full — verified 40 cu/ft at 2,000+ psi, not a partially filled 'rental swap'"
   - "CGA 580 valve is standard for argon, so it threads directly onto most TIG/MIG regulators without adapters"
   - "Solid steel construction with a stamped hydrostatic test date, giving confidence for years of refills"
-cons:
+cons: 
   - "Shipping weight is hefty at roughly 60+ lbs — plan for freight-style handling, not a doorstep drop"
   - "No built-in handle or cap; you'll need to buy a valve protector or carry it by the neck (awkward)"
   - "Local refill exchanges may swap your owned tank for a rental — keep your receipt and insist on a fill, not a swap"
+
 ---
 
 If you're a hobbyist welder tired of renting tanks or making trips to the supply shop every time you run dry, a 40 cu/ft argon cylinder is the sweet spot between portability and runtime. This one arrives full, which is rarer than you'd think — many sellers ship "full" tanks that are actually at 80% or worse. This one checks out.

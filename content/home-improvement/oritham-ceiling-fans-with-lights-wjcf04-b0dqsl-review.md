@@ -1,4 +1,5 @@
 ---
+
 title: "ORITHAM Ceiling Fans with Lights WJCF04"
 seo_title: "ORITHAM Ceiling Fans with Lights WJCF04 Review: Verdict |"
 meta_description: "Our full oritham ceiling fans with lights wjcf04 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQSL737D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qn5K7Ci6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ORITHAM Ceiling Fans with Lights WJCF04: The Quiet Overachiever or Just Another Ceiling Fan?

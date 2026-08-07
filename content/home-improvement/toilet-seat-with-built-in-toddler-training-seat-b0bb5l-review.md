@@ -1,4 +1,5 @@
 ---
+
 title: "Toilet Seat with Built-In Toddler Training Seat"
 seo_title: "Toilet Seat with Built-In Toddler Training Seat Review: V"
 meta_description: "Our full toilet seat with built-in toddler training seat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BB5LB3CD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/4124WuN492L._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The 2-in-1 Toilet Seat That Actually Simplifies Potty Training

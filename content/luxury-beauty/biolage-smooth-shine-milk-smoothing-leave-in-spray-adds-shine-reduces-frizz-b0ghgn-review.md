@@ -1,4 +1,5 @@
 ---
+
 title: "Biolage Smooth Shine Milk - Smoothing Leave-In Spray, Adds S"
 seo_title: "Biolage Smooth Shine Milk Review: Does It Tame Frizz?"
 meta_description: "Honest Biolage Smooth Shine Milk review: real results on frizz, shine, and smoothness. See pros, cons, and who should buy this leave-in spray."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGNG5M1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QvWk4g57L._SL1500_.jpg"
-pros:
+pros: 
   - "Instantly smooths flyaways without heavy buildup, even on fine hair"
   - "Heat protectant up to 450°F — one product does double duty"
   - "Lightweight milk texture absorbs fast; no crunchy or sticky finish"
-cons:
+cons: 
   - "Scent is fairly strong and lingers — sensitive noses may object"
   - "Not enough control for very thick, coarse, or high-humidity frizz"
   - "Smaller 6.8 oz bottle; heavy users will repurchase often"
+
 ---
 
 ### The Short Version

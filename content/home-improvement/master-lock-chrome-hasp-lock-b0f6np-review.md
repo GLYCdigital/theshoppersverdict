@@ -1,4 +1,5 @@
 ---
+
 title: "Master Lock Chrome Hasp Lock,"
 seo_title: "Master Lock Chrome Hasp Lock, Review: Verdict | TSV"
 meta_description: "Our full master lock chrome hasp lock, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F6NP52YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kCxSuPSCL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: this is a hasp, not a lock. If you buy it expecting the Master Lock logo to mean it secures itself, you'll be disappointed. But if you pair it with a solid padlock, this is one of the most thoughtfully designed hasps I've tested in this price range.  

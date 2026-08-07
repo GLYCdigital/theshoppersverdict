@@ -1,4 +1,5 @@
 ---
+
 title: "KOHLER K-99259-CP"
 seo_title: "KOHLER K-99259-CP Review: Verdict | TSV"
 meta_description: "Our full kohler k-99259-cp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B084SHWZ1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hrv17boML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve priced bathroom faucets lately, you know the gap between a $40 builder-grade special and a $150+ Kohler is more than just the logo. The K-99259-CP sits firmly in the “buy once, cry once” territory. Here’s the real question: does it justify the premium over the cheap stuff? After digging through 204 ratings and the spec sheet, here’s what you need to know.

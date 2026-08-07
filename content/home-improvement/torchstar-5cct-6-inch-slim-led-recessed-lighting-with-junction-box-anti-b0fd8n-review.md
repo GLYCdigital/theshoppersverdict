@@ -1,4 +1,5 @@
 ---
+
 title: "TORCHSTAR 5CCT 6 Inch Slim LED Recessed Lighting with Juncti"
 seo_title: "TORCHSTAR 5CCT 6 Inch Slim LED Recessed Lighting w Review"
 meta_description: "Our full torchstar 5cct 6 inch slim led recessed lighting with juncti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8N6Z4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YjXEo3k1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance and Build Quality**

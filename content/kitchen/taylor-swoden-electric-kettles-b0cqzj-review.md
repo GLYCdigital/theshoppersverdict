@@ -1,4 +1,5 @@
 ---
+
 title: "Taylor Swoden Electric Kettles"
 seo_title: "Taylor Swoden Electric Kettles Review: Verdict | TSV"
 meta_description: "Our full taylor swoden electric kettles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQZJ7TDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NIX9xc6pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most electric kettles under $50 are the same plastic-bodied appliance with a different logo slapped on. The Taylor Swoden Electric Kettle isn't that — and that's precisely why it has earned a 4.6 out of 5 from 229 Amazon buyers.

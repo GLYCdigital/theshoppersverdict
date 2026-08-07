@@ -1,4 +1,5 @@
 ---
+
 title: "Nelyrho Crucible Tongs Set with 2 Graphite Crucibles for Mel"
 seo_title: "Nelyrho Crucible Tongs Set with 2 Graphite Crucibl Review"
 meta_description: "Our full nelyrho crucible tongs set with 2 graphite crucibles for mel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZDGWN1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hvS3hI6+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're melting metal at home — whether it's aluminum cans, copper scrap, or gold for jewelry casting — you already know the pain of wrestling a crucible with pliers that weren't built for the job. The Nelyrho Crucible Tongs Set aims to fix that with a dedicated grip and two graphite crucibles. It's a niche purchase, but for the right buyer, it's a solid upgrade.

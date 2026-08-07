@@ -1,4 +1,5 @@
 ---
+
 title: "Stanbroil Round Fire Pit Kit"
 seo_title: "Stanbroil Round Fire Pit Kit Review: Verdict | TSV"
 meta_description: "Our full stanbroil round fire pit kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1RBXB12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611qv666y3L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: a fire pit is only as good as its steel. The **Stanbroil Round Fire Pit Kit** doesn't mess around with thin gauge metal that rusts out after one season. This is a 3mm thick steel bowl and ring — that's roughly 1/8 inch, which is noticeably beefier than the 1mm–1.5mm you'll find on most sub-$100 pits. At 30 inches across, it's a proper backyard centerpiece, not a glorified campfire tray.

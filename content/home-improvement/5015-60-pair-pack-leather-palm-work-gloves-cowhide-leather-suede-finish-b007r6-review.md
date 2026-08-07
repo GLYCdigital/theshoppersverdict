@@ -1,4 +1,5 @@
 ---
+
 title: "5015 60 Pair Pack Leather palm work gloves cowhide leather s"
 seo_title: "5015 60 Pair Pack Leather Palm Work Gloves Review"
 meta_description: "Honest review of the 5015 60 Pair Pack cowhide leather palm work gloves. Are they a bulk bargain or a false economy? Real-world testing, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B007R6N20U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gMA1Xce9L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Genuine cowhide leather palm and fingers — not bonded or synthetic, so grip improves with sweat and wear"
   - "Costs well under $1.50 per pair at bulk pricing, making them disposable enough for daily jobsite rotation"
   - "Reinforced thumb crotch and double-stitched seams in high-stress areas prevent the usual early blowouts"
-cons:
+cons: 
   - "No sizing options — one-size-fits-most runs large, which is a real problem for smaller hands"
   - "Leather is on the thinner side (~0.8mm); fine for handling lumber and drywall, but not for heavy masonry or rebar work"
   - "Suede finish picks up dirt and stains quickly — they look rough after a single shift, though function is unaffected"
+
 ---
 
 **Review Body**

@@ -1,4 +1,5 @@
 ---
+
 title: "VIISAN Flatbed Scanner"
 seo_title: "VIISAN Flatbed Scanner Review: Verdict | TSV"
 meta_description: "Our full viisan flatbed scanner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DLKLKP1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gAmRdJIYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about flatbed scanners: most people buy them, use them twice, and shove them in a closet. The VIISAN Flatbed Scanner tries to break that cycle with speed and simplicity at a budget price point. But does it deliver enough to earn a permanent spot on your desk? Here's what I found after putting it through real-world testing.

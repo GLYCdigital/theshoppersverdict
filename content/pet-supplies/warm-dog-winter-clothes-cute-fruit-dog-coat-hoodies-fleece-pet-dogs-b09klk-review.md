@@ -1,4 +1,5 @@
 ---
+
 title: "Warm Dog Winter Clothes Cute Fruit Dog Coat Hoodies Fleece P"
 seo_title: "Warm Dog Winter Clothes Cute Fruit Dog Coat Hoodie Review"
 meta_description: "Our full warm dog winter clothes cute fruit dog coat hoodies fleece p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09KLK752B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WLtkLZ0kL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most dog sweaters on Amazon are glorified t-shirts with a print slapped on them. This one, surprisingly, is not that.

@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE PLFPA100N Pool Filter Replaces PA100N, PA100N-4, Un"
 seo_title: "POOLPURE PLFPA100N Pool Filter Replaces PA100N, PA Review"
 meta_description: "Our full poolpure plfpa100n pool filter replaces pa100n, pa100n-4, un review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09F6RDG9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z528UuSUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: pool filter cartridges are the most boring purchase you'll make all summer. But getting it wrong means a green pool and a wasted weekend. I've tested the POOLPURE PLFPA100N against the OEM Hayward PA100N, and here's what actually matters.

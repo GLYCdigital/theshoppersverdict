@@ -1,4 +1,5 @@
 ---
+
 title: "Macally Small Bluetooth Keyboard for Tablet and Phone - Univ"
 seo_title: "Macally Small Bluetooth Keyboard for Tablet and Ph Review"
 meta_description: "Our full macally small bluetooth keyboard for tablet and phone - univ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09R6V6KLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sQIhhygxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most compact keyboards make you choose between portability and usability. The Macally Small Bluetooth Keyboard tries to sidestep that tradeoff by shrinking the chassis while keeping the keys full-size. For the most part, it works — with a few compromises you should know about before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Greenies Supplement Hip & Joint Soft Chews Adult Dog Joint S"
 seo_title: "Greenies Hip & Joint Soft Chews Review: Do They Work?"
 meta_description: "Honest Greenies Hip & Joint Soft Chews review: ingredients, effectiveness, palatability, and value. See if these 4.6-star dog supplements are worth it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNQJVGL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c5LxDn0ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft chew texture that most dogs accept readily, even picky eaters"
   - "Includes glucosamine, chondroitin, and omega-3s in a Greenies-branded formula"
   - "Easy dosing split line for adjusting between 25–50 lb and 50–100 lb dogs"
-cons:
+cons: 
   - "Priced at a premium compared to generic joint chews with similar active ingredients"
   - "Contains wheat and other grains — not suitable for dogs with grain sensitivities"
   - "Effectiveness varies; some owners report needing 4–6 weeks before visible improvement"
+
 ---
 
 **If your dog is starting to slow down on stairs or hesitates before jumping on the couch, joint support is probably on your mind. The question is whether Greenies' entry into the hip and joint supplement space is worth the premium over the dozens of competing chews on Amazon. After digging into the formula, the feedback, and the price point, here's the honest picture.**

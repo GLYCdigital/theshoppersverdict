@@ -1,4 +1,5 @@
 ---
+
 title: "VERSACE MAN EAU FRAICHE by Gianni Versace EDT SPRAY"
 seo_title: "VERSACE MAN EAU FRAICHE by Gianni Versace EDT SPRA Review"
 meta_description: "Our full versace man eau fraiche by gianni versace edt spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00WXP607C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N9AYoHTvL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Summer Fragrance That Actually Earns Its Keep

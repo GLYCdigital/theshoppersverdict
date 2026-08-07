@@ -1,4 +1,5 @@
 ---
+
 title: "Itâ€™s Skinny Pastaâ€“ Low Carb, Gluten-Free Konjac Pasta, K"
 seo_title: "Itâ€™s Skinny Pastaâ€“ Low Carb, Gluten-Free Konja Review"
 meta_description: "Our full itâ€™s skinny pastaâ€“ low carb, gluten-free konjac pasta, k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CJM6698K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tgGCZUcgL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: It’s Not Pasta, But It’s Close Enough for Keto**  

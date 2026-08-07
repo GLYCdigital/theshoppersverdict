@@ -1,4 +1,5 @@
 ---
+
 title: "B BENRON A Z T E C Rug"
 seo_title: "B BENRON A Z T E C Rug Review: Bold Boho Floor Décor"
 meta_description: "Honest B BENRON A Z T E C Rug review: bold geometric design, soft texture, and durability tested. See pros, cons, and who should buy this 4.2-star rug."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJXQ1PX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pPulzrbrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-woven polypropylene pile that holds up to high-traffic areas without visible matting"
   - "Bold, high-contrast Aztec pattern that reads clearly in both small and large rooms"
   - "Low 0.3-inch pile height — vacuum-friendly and works with standard door clearances"
-cons:
+cons: 
   - "Backing is thin and can slide on hardwood without a separate rug pad"
   - "Pattern is strictly black and white — no colorway options for warmer décor schemes"
+
 ---
 
 If you've been scrolling past a hundred beige rugs wondering why nothing has any personality, the B BENRON A Z T E C Rug is the design-forward alternative you've been hunting. This isn't a subtle floor covering that whispers — it's a bold, geometric statement piece that anchors a room the moment it's unrolled. But before you hit "Add to Cart," let's talk about whether it actually performs as well as it looks.

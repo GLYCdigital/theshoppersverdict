@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH GWS12V-30N 12V Max Brushless 3 In. Angle Grinder (Bare"
 seo_title: "BOSCH GWS12V-30N 12V Max Brushless 3 In. Angle Grinder Review"
 meta_description: "BOSCH GWS12V-30N 12V Max brushless 3-inch angle grinder review: compact power, real tradeoffs. Is this $139 bare tool worth it for DIYers? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09LX43LC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IoFPPymYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compact — 12V platform keeps it under 2 lbs, usable one-handed in tight spots"
   - "Brushless motor delivers surprising cut speed for the size; no loss under load"
   - "Tool-free wheel changes and slim grip make it a precision cutter, not a brute-force grinder"
-cons:
+cons: 
   - "Bare tool only — no battery or charger included, and 12V batteries aren't interchangeable with 18V Bosch lines"
   - "3-inch wheel limit means you're not cutting through thick stock or doing heavy stock removal"
   - "No speed dial — single-speed operation limits control on softer materials"
+
 ---
 
 **The Little Grinder That Can — If You Set Realistic Expectations**

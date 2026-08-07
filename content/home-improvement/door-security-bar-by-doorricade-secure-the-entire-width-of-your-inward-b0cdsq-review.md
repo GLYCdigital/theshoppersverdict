@@ -1,4 +1,5 @@
 ---
+
 title: "Door Security Bar-by Doorricade-Secure The Entire Width of Y"
 seo_title: "Doorricade Door Security Bar Review: Full Width Protection"
 meta_description: "Doorricade door security bar review: full-width inward door reinforcement. See real customer feedback, fit notes, and whether this $50 lock is worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDSQMN58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CpJwShyhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-width steel bar spreads force across entire door frame, not just a single strike plate point"
   - "Tool-free install — adjustable tension system works in under a minute without drilling"
   - "Folds flat against door when not engaged, so it doesn't block exits or get in the way"
-cons:
+cons: 
   - "Only fits inward-opening doors; outward-opening doors need a completely different solution"
   - "Door gap must be 1/2-inch or less — older homes with sagging hinges may need shimming first"
+
 ---
 
 Most door jamb reinforcement bars are a joke. They're basically a stick you wedge under the knob — a determined kick snaps them in half. The Doorricade takes a different approach, and it's one that actually makes sense. Instead of bracing the knob, this bar spans the full width of the door, transferring force from a kick or pry attempt directly into the door frame's strongest points. That's a fundamentally better design, and it's why this thing holds a 4.6-star average across 229 Amazon ratings.

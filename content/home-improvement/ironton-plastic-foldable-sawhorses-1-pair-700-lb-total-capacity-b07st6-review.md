@@ -1,4 +1,5 @@
 ---
+
 title: "Ironton Plastic Foldable Sawhorses, 1 Pair - 700-Lb. Total C"
 seo_title: "Ironton Plastic Foldable Sawhorses, 1 Pair - 700-L Review"
 meta_description: "Our full ironton plastic foldable sawhorses, 1 pair - 700-lb. total c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07ST65FZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B-sjQKwEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a wobbly metal sawhorse that folds up mid-cut, you know the frustration. The Ironton Plastic Foldable Sawhorses aim to fix that with a rigid plastic frame, a 700-pound combined rating, and a price that undercuts most wooden alternatives. After digging through 215 ratings and testing the geometry against real workshop scenarios, here's the honest breakdown.

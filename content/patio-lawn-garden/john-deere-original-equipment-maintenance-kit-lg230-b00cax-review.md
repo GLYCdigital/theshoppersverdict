@@ -1,4 +1,5 @@
 ---
+
 title: "John Deere Original Equipment Maintenance Kit #LG230"
 seo_title: "John Deere Original Equipment Maintenance Kit #LG2 Review"
 meta_description: "Our full john deere original equipment maintenance kit #lg230 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00CAXDN22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ctZsS07aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a John Deere riding mower with a 100-series or X300-series engine, the #LG230 maintenance kit is the shortcut to skipping the parts-store runaround. It bundles five genuine OEM service items into one box, so you don't have to cross-reference part numbers or gamble on aftermarket filters that might not seat right. At 4.8 stars across 240 ratings, it's clearly doing something right — but let's break down exactly what you're getting and where it falls short.

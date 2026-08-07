@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Super Sticky Lined Notes,"
 seo_title: "Post-it Super Sticky Lined Notes, Review: Verdict | TSV"
 meta_description: "Our full post-it super sticky lined notes, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD8GHR26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7168rZ+YowL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most sticky notes are garbage. They curl at the edges, slide off your monitor by lunch, and the adhesive turns into a dust magnet after one reposition. The Post-it Super Sticky Lined Notes aren't those notes. Here's the breakdown after putting a few pads through real desk duty.

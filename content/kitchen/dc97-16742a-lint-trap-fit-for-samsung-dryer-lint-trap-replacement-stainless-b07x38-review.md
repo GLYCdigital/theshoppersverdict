@@ -1,4 +1,5 @@
 ---
+
 title: "DC97-16742A Lint Trap fit for Samsung Dryer Lint Trap Replac"
 seo_title: "DC97-16742A Lint Trap Review: Fits Samsung Dryers Perfectly"
 meta_description: "DC97-16742A lint trap replacement for Samsung dryers: Does it fit, filter well, and last? Read our honest review with real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07X3875ZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VUze5CSOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise fit for Samsung DV42/DV56 series dryers—no sanding or forcing required"
   - "Stainless steel mesh catches finer lint particles than OEM plastic screens, reducing dryer vent buildup"
   - "Rigid frame holds its shape through repeated handling and cleaning"
-cons:
+cons: 
   - "Not compatible with all Samsung models—check your dryer's exact model number before ordering"
   - "Mesh can clog faster than OEM screens if you dry high-lint items like towels or fleece blankets"
+
 ---
 
 Let's be blunt: a lint trap is the most boring part of your dryer, but it's also the one that keeps your house from burning down. When the original on your Samsung starts warping or the mesh tears, you need a replacement that actually fits—not one that requires a hammer and prayers. This DC97-16742A replacement has earned a 4.2-star average across 210 ratings, and after digging into the details, here's what that rating really means.

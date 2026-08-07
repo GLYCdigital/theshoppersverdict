@@ -1,4 +1,5 @@
 ---
+
 title: "RentACoopâ€¯5 Gallonâ€¯Chickenâ€¯Waterer withâ€¯6 Auto-Fill "
 seo_title: "RentACoopâ€¯5 Gallonâ€¯Chickenâ€¯Waterer withâ€¯6  Review"
 meta_description: "Our full rentacoopâ€¯5 gallonâ€¯chickenâ€¯waterer withâ€¯6 auto-fill  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXGY2WWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6105U7PsrVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of hauling a 3-gallon bell drinker out to the coop twice a day in July, the RentACoop 5 Gallon Chicken Waterer with 6 Auto-Fill cups deserves a serious look. This is a gravity-fed system that swaps constant refilling for a set-and-forget approach—and for most backyard flocks, it delivers on that promise. But as with anything that involves plastic threads and moving parts, there are a few things you need to know before you buy.

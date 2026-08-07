@@ -1,4 +1,5 @@
 ---
+
 title: "Uphome Tufted Cotton Washable Rug Geometric Boho Throw Rugs "
 seo_title: "Uphome Tufted Cotton Washable Rug Geometric Boho T Review"
 meta_description: "Our full uphome tufted cotton washable rug geometric boho throw rugs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLHGDPYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mh1g0fuYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Uphome Tufted Cotton Washable Rug Review: Is This Boho Throw Rug Worth Your Floor Space?

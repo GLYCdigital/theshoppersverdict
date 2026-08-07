@@ -1,4 +1,5 @@
 ---
+
 title: "Rexulqo Modular Sectional Sofa with All Seats Storage"
 seo_title: "Rexulqo Modular Sectional Sofa with All Seats Stor Review"
 meta_description: "Our full rexulqo modular sectional sofa with all seats storage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F343K4BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810q9U5MkFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The couch that hides your clutter — but does it hide its flaws?**

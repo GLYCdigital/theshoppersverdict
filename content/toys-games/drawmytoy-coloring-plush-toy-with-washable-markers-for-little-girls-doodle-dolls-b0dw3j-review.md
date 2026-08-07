@@ -1,4 +1,5 @@
 ---
+
 title: "DRAWMYTOY Coloring Plush Toy with Washable Markers for Littl"
 seo_title: "DRAWMYTOY Coloring Plush Toy Review: Washable Markers for Kids"
 meta_description: "DRAWMYTOY coloring plush toy with washable markers: a 4.6-star rated creative toy. Read our honest review on durability, ink quality, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DW3J829F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CaxhRYDIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Markers are genuinely washable — ink comes out of clothes and skin with just soap and water, even after drying"
   - "Plush material takes color well without bleeding, so designs stay crisp and don't smear into a muddy mess"
   - "Dolls are soft and huggable enough to double as a comfort toy once the coloring novelty wears off"
-cons:
+cons: 
   - "Ink does fade slightly after repeated washing, so the same doll won't stay vibrant forever"
   - "Only 6 marker colors included — kids who want a full rainbow palette will need to buy more"
+
 ---
 
 If you've ever handed a toddler a coloring book and a marker set, you know the drill: five minutes of focused artistry, then the markers migrate to the walls, the dog, and your white sofa. The DRAWMYTOY Coloring Plush Toy is designed to short-circuit that chaos — and based on 229 ratings averaging 4.6 stars, it's working for most families. But is it actually worth the shelf space? Let's dig in.

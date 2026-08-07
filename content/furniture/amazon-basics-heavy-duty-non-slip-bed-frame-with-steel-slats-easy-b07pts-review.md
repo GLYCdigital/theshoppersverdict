@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Heavy Duty Non-Slip Bed Frame with Steel Slats"
 seo_title: "Amazon Basics Heavy Duty Bed Frame Review: Non-Slip Steel Slats"
 meta_description: "Amazon Basics Heavy Duty Non-Slip Bed Frame review: steel slats, tool-free setup, 1,400-lb capacity. See what 225 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07PTS45F1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mJR8eaAtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly in under 15 minutes — no wrench or screwdriver required"
   - "Steel slats spaced 2.5 inches apart eliminate the need for a box spring"
   - "Non-slip strips on every slat keep the mattress firmly in place, even with adjustable bases"
-cons:
+cons: 
   - "Low-profile design (12.5-inch clearance) may not suit shoppers wanting under-bed storage space"
   - "No center support legs on the Queen/King versions — heavier sleepers may notice slight flex"
+
 ---
 
 ## The $70 Bed Frame That Actually Does Its Job

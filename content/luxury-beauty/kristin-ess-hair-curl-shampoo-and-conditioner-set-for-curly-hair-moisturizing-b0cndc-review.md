@@ -1,4 +1,5 @@
 ---
+
 title: "Kristin Ess Hair Curl Shampoo and Conditioner Set for Curly "
 seo_title: "Kristin Ess Hair Curl Shampoo and Conditioner Set  Review"
 meta_description: "Our full kristin ess hair curl shampoo and conditioner set for curly  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNDCRV3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MYzkT4s-L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've cycled through a dozen curly hair products that promised hydration and delivered crunchy, frizzy disappointment, the Kristin Ess Curl Shampoo and Conditioner Set deserves a spot on your shortlist. This isn't a miracle cure — no shampoo is — but it's a genuinely well-formulated duo that gets the fundamentals right.

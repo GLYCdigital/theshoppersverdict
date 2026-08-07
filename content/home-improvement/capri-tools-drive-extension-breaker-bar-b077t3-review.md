@@ -1,4 +1,5 @@
 ---
+
 title: "Capri Tools Drive Extension Breaker Bar"
 seo_title: "Capri Tools Drive Extension Breaker Bar Review (2026)"
 meta_description: "Capri Tools drive extension breaker bar review: build quality, torque specs, real buyer feedback. Is this 4.5-star tool worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B077T3Y4VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51B+IyNQ5dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Chrome vanadium steel construction with full polished finish resists corrosion and cleans up easily"
   - "Reinforced drive head adds thickness exactly where breaker bars snap — rated for 1,000+ ft-lbs"
   - "Knurled grip section and anti-slip handle work even with greasy hands"
-cons:
+cons: 
   - "No locking mechanism on the drive head — socket can slide off if you angle the bar"
   - "At 24 inches, it won't fit in tight engine bays; you'll need a compact ratchet for access work"
+
 ---
 
 Let me be direct: most breaker bars under $40 are either flimsy stamped steel or so cheaply chromed they rust after one humid garage season. The Capri Tools drive extension breaker bar isn't most breaker bars.

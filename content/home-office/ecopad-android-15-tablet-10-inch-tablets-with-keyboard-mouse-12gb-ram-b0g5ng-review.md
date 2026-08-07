@@ -1,4 +1,5 @@
 ---
+
 title: "ECOPAD Android 15 Tablet, 10 Inch Tablets with Keyboard Mous"
 seo_title: "ECOPAD Android 15 Tablet Review: 10-Inch with Keyboard & Mouse"
 meta_description: "ECOPAD Android 15 tablet review: 10-inch screen, keyboard case, and mouse. Is the 12GB RAM worth it for work? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G5NGJTZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TIm-ACq-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full Android 15 OS with 12GB RAM (8GB + 4GB expansion) handles multitasking without the lag you get on budget tablets"
   - "Keyboard case and mouse included in the box — no separate accessories to buy for basic productivity work"
   - "10-inch 1280x800 IPS display with wide viewing angles; adequate brightness for indoor office use"
-cons:
+cons: 
   - "Display resolution tops out at 1280x800 — noticeably softer than 2K panels when reading dense PDFs or spreadsheets"
   - "Battery life averages 6-7 hours of mixed use, short of the all-day claims; heavy video streaming drains it faster"
   - "The included mouse is basic and slightly cramped for larger hands; plan to swap it out for your own"
+
 ---
 
 **Is the ECOPAD Android 15 Tablet the budget productivity device you've been hunting for, or another cheap Android slab that promises more than it delivers?**

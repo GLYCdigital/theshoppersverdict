@@ -1,4 +1,5 @@
 ---
+
 title: "URBAN COLLECTION Valentine for Women Eau De Parfum - Amber F"
 seo_title: "URBAN COLLECTION Valentine for Women Eau De Parfum Review"
 meta_description: "Our full urban collection valentine for women eau de parfum - amber f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLYYLFNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OKDJaTMHL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # URBAN COLLECTION Valentine for Women Eau De Parfum Review: Is This Amber Floral Worth Your Money?

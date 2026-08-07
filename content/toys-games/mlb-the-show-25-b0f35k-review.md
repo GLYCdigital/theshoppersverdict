@@ -1,4 +1,5 @@
 ---
+
 title: "MLB The Show 25"
 seo_title: "MLB The Show 25 Review: Verdict | TSV"
 meta_description: "Our full mlb the show 25 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F35KQVJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8178pO4LdxL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The baseball simulation crown has sat on Sony San Diego's head for years now, and MLB The Show 25 doesn't surrender it. But here's the thing about annual sports titles: you're not just paying for roster updates. You're paying for whether the developers actually listened. This year, they mostly did.

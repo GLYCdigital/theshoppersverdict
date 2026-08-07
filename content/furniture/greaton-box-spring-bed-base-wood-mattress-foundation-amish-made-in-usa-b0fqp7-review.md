@@ -1,4 +1,5 @@
 ---
+
 title: "Greaton, Box Spring Bed Base, Wood Mattress Foundation – A"
 seo_title: "Greaton Wood Box Spring Review: Amish-Made Bed Base"
 meta_description: "Honest Greaton box spring review: Amish-made wood foundation, 4.6★ rating. Build quality, real user feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FQP7DWJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l4yGpHmPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood slats spaced closely enough to support foam and latex mattresses without a bunkie board"
   - "Amish-made in the USA with actual wood construction — not the hollow cardboard-and-fabric shell most box springs use"
   - "Tool-free assembly takes under 10 minutes; folds for easy moving and storage"
-cons:
+cons: 
   - "At roughly 30 pounds, it's heavier than metal box springs — awkward for one person to carry upstairs"
   - "No built-in storage or adjustable head position; this is a strictly flat, static foundation"
+
 ---
 
 Most "box springs" sold today are a lie. Pop open the fabric on a typical $100 foundation and you'll find a cardboard honeycomb frame with a few token metal wires. It's not built to last — it's built to be invisible. The Greaton Wood Mattress Foundation is the exception, and it's worth understanding exactly what you're paying for.

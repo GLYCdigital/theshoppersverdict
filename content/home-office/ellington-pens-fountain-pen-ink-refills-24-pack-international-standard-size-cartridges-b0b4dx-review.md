@@ -1,4 +1,5 @@
 ---
+
 title: "ELLINGTON PENS Fountain Pen Ink Refills - 24 Pack Internatio"
 seo_title: "ELLINGTON PENS Ink Refills Review: 24-Pack Value for Fountain Pens"
 meta_description: "ELLINGTON PENS 24-pack fountain pen ink refills review: international standard size, color quality, compatibility, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B4DX9M9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n1Q774yhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine international standard size — fits most European and Asian fountain pens without adapters"
   - "24 cartridges in 12 colors gives real variety for under typical retail per-cartridge pricing"
   - "Ink flows consistently with saturated, non-patchy color even on cheaper paper"
-cons:
+cons: 
   - "Some colors (especially pastels) run lighter than the packaging suggests"
   - "Cartridges lack the brass ball bearing found in premium brands like Waterman — may need occasional shaking"
+
 ---
 
 Let me be blunt: if you're using a fountain pen that takes international standard cartridges, you're probably tired of paying $8 for a box of six at the office supply store. The ELLINGTON PENS 24-pack undercuts that pricing dramatically while promising 12 distinct colors. But does the ink itself hold up, or are you just buying colorful water? I tested these across three pens and two paper types to find out.

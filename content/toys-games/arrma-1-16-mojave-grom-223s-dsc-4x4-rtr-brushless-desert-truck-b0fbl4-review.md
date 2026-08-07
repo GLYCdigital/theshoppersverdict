@@ -1,4 +1,5 @@
 ---
+
 title: "ARRMA 1/16 Mojave GROM 223S DSC 4X4 RTR Brushless Desert Tru"
 seo_title: "ARRMA 1/16 Mojave GROM 223S Review: Brushless 4X4 RC Truck"
 meta_description: "Our ARRMA 1/16 Mojave GROM 223S review covers speed, durability, and real-world handling. Is this brushless 4X4 RTR desert truck worth $200+? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBL45B9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LSI8HdJQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spektrum 223S brushless motor hits 30+ mph out of the box with 2S LiPo"
   - "DSC (Dynamic Stability Control) makes throttle control manageable for newer drivers"
   - "Durable composite chassis and oil-filled shocks survive hard landings"
-cons:
+cons: 
   - "Only comes with a NiMH battery — you'll need to buy a 2S LiPo and charger for full speed"
   - "Small 1/16 scale means it struggles on tall grass and rough terrain"
   - "Spektrum transmitter feels basic; no telemetry without extra modules"
+
 ---
 
 Let me be straight with you: the ARRMA Mojave GROM isn't the cheapest RC truck you'll find, and it's not the biggest. But if you're looking for a ready-to-run brushless truck that punches way above its size class, this little desert basher deserves a serious look.

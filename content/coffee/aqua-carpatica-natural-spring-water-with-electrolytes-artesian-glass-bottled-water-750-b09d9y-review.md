@@ -1,4 +1,5 @@
 ---
+
 title: "AQUA Carpatica Natural Spring Water with Electrolytes, Artes"
 seo_title: "AQUA Carpatica Spring Water Review: Electrolytes Worth It?"
 meta_description: "AQUA Carpatica Natural Spring Water with Electrolytes review: taste, sourcing, glass bottles, and value. Is this artesian water worth the premium?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09D9YKRRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711rY5sTjBL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, mineral-balanced taste with no plastic aftertaste thanks to glass bottles"
   - "Naturally occurring electrolytes (calcium, magnesium, potassium) without added flavoring or sweeteners"
   - "Low sodium content (1.7 mg/L) makes it suitable for restricted diets"
-cons:
+cons: 
   - "Premium pricing per bottle — roughly double standard spring water costs"
   - "Glass bottles are heavy and fragile for travel or gym bags"
   - "750ml size is awkward for standard cup holders"
+
 ---
 
 **The Bottom Line Up Front:** If you're someone who actually tastes the difference in water — and you're tired of plastic bottles leaching flavor into your hydration — AQUA Carpatica is a legitimate upgrade. But it's a luxury, not a necessity, and the price reflects that.

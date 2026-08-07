@@ -1,4 +1,5 @@
 ---
+
 title: "Amerdeco Cabinet Pulls 2910I"
 seo_title: "Amerdeco Cabinet Pulls 2910I Review: Worth It? (2026)"
 meta_description: "Amerdeco Cabinet Pulls 2910I review: 4.6-star rated bar pulls. Are they solid or cheap? Real-world testing, finish quality, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKJPZMDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PFUmVhfHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 3-inch (76mm) screw spacing fits standard pre-drilled cabinet holes — no re-drilling needed"
   - "Zinc alloy construction with a consistent brushed finish that resists fingerprints"
   - "Includes stainless steel mounting screws sized correctly for 3/4-inch cabinet faces"
-cons:
+cons: 
   - "No template included — you'll need to measure carefully if drilling new holes"
   - "The brushed nickel finish is slightly lighter than some competing pulls, which may clash with warm-toned hardware"
+
 ---
 
 Let's be honest: cabinet pulls are the jewelry of a kitchen. Get them wrong and every cabinet door screams "budget remodel." Get them right and people assume you spent five figures on the whole renovation. The Amerdeco 2910I pulls sit firmly in the latter camp — if you measure correctly.

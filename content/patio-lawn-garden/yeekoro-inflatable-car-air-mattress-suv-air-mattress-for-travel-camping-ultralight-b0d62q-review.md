@@ -1,4 +1,5 @@
 ---
+
 title: "YEEKORO Inflatable Car Air Mattress, SUV Air Mattress for Tr"
 seo_title: "YEEKORO Inflatable Car Air Mattress, SUV Air Mattr Review"
 meta_description: "Our full yeekoro inflatable car air mattress, suv air mattress for tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D62QBXB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Chyh-VnQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The YEEKORO Inflatable Car Air Mattress is the rare camping accessory that actually solves the problem it's designed for — but only if your SUV's cargo area cooperates.**

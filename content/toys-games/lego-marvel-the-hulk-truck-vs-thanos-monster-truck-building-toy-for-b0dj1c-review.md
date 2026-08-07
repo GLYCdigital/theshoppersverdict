@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Marvel The Hulk Truck vs. Thanos - Monster Truck Buildi"
 seo_title: "LEGO Marvel The Hulk Truck vs. Thanos - Monster Tr Review"
 meta_description: "Our full lego marvel the hulk truck vs. thanos - monster truck buildi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1CSHXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hEbGJ-oAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO Marvel The Hulk Truck vs. Thanos set (set number 76272) answers a question nobody asked but everybody secretly wanted: what if the Hulk drove a monster truck straight at Thanos? It's exactly as ridiculous and fun as it sounds. With 240 Amazon ratings averaging 4.8 stars, this set has found its audience — and for good reason.

@@ -1,4 +1,5 @@
 ---
+
 title: "AlpineReach Trellis Netting 5 x 15 Feet Heavy Duty Polyester"
 seo_title: "AlpineReach Trellis Netting Review: Heavy Duty 5x15 Support"
 meta_description: "Honest AlpineReach Trellis Netting 5x15 review: durable polyester build, UV resistance, and real buyer feedback. Is it worth it for your garden?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B084YZTG2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mhJsnoA0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely heavy-duty 300D polyester that holds up through full growing seasons without fraying or sagging"
   - "Generous 5x15 ft coverage with 6-inch grid spacing that works for cucumbers, peas, beans, and even lighter melons"
   - "UV-stabilized material that resists sun damage — several buyers report two-plus seasons of outdoor use"
-cons:
+cons: 
   - "White color shows dirt and algae staining quickly in humid climates; green version hides grime better"
   - "No tensioning hardware included — you'll need zip ties or staples for a taut installation"
   - "Large 6-inch grid is too wide for delicate tendrils like sweet peas or morning glories without added support"
+
 ---
 
 Let's be blunt: most trellis netting is flimsy green string that disintegrates by August. The AlpineReach 5x15 Heavy Duty Polyester netting is not that, and that's precisely why it holds a 4.6-star rating across 229 Amazon reviews.

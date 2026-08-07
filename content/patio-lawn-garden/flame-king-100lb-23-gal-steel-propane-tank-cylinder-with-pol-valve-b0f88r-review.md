@@ -1,4 +1,5 @@
 ---
+
 title: "Flame King 100LB (23 Gal) Steel Propane Tank Cylinder with P"
 seo_title: "Flame King 100LB Propane Tank Review: Worth It?"
 meta_description: "Read our honest Flame King 100LB steel propane tank review. Real specs, buyer feedback, and whether this 23-gallon cylinder fits your patio heating needs."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F88R4XNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XT8z4E-7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 100lb capacity (23.6 gallons water volume) — not a shaved-down '95lb' like some budget imports"
   - "Heavy-duty 0.06-inch steel wall with welded foot ring; holds up to outdoor elements without rusting through"
   - "Compatible with standard POL valve — no adapter needed for most residential regulators"
-cons:
+cons: 
   - "Weighs 68 lbs empty — you'll need a hand truck or a strong back to move it when full (168 lbs total)"
   - "No built-in gauge — you'll be guessing how much fuel remains unless you weigh it or buy a separate indicator"
   - "Some units arrive with cosmetic scuffs from shipping; does not affect function but worth noting"
+
 ---
 
 **The Flame King 100LB (23 Gal) Steel Propane Tank Cylinder with P** — a 68-pound steel beast that holds roughly 23.6 gallons of propane, enough to run a 40,000 BTU patio heater for about 50 hours straight. That's the headline. The question is whether this tank earns its keep in your backyard setup.

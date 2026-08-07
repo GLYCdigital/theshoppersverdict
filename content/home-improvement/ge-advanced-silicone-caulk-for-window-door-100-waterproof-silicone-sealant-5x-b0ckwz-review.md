@@ -1,4 +1,5 @@
 ---
+
 title: "GE Advanced Silicone Caulk for Window & Door - 100% Waterpro"
 seo_title: "GE Advanced Silicone Caulk Review: 100% Waterproof Sealant"
 meta_description: "Honest GE Advanced Silicone Caulk for Window & Door review: 100% waterproof sealant performance, durability, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKWZ5N7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/911H7bVOWEL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely 100% waterproof formula that holds up in standing water and high-moisture zones without degrading"
   - "Superior adhesion to non-porous surfaces like glass, aluminum, vinyl, and painted trim — where many hybrid sealants fail"
   - "Tooling and skin-over time is forgiving — you get roughly 5-10 minutes to work the bead before it sets"
-cons:
+cons: 
   - "Not paintable — you must mask off adjacent surfaces carefully or accept the glossy finished bead"
   - "Acetoxy cure releases a strong vinegar odor for 24-48 hours; poor choice for occupied indoor spaces without ventilation"
   - "Once cured, removal is brutal — mistakes require scraping, solvent, and patience to undo"
+
 ---
 
 If you've ever watched water seep past a window frame or felt a draft whistle through a door gap, you know the stakes. A failed seal isn't just annoying — it's rot, mold, and energy loss. GE's Advanced Silicone for Window & Door claims to be the last tube you'll need for exterior waterproofing. After digging through 235 ratings averaging 4.7 stars, the consensus is clear: this is a serious performer, but it demands respect during application.

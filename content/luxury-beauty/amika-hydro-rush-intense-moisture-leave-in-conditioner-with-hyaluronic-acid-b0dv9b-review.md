@@ -1,4 +1,5 @@
 ---
+
 title: "amika Hydro Rush Intense Moisture Leave-In Conditioner with"
 seo_title: "amika Hydro Rush Leave-In Conditioner Review (2026)"
 meta_description: "Honest amika Hydro Rush Intense Moisture Leave-In Conditioner review: does the hyaluronic acid formula deliver? Pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DV9BRS6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lbtpxYmkL._SL1500_.jpg"
-pros:
+pros: 
   - "Hyaluronic acid at a meaningful concentration actually penetrates the cortex — most leave-ins just coat the cuticle"
   - "Sea buckthorn oil provides omega-7 fatty acids that calm frizz without the greasy, heavy feel of argan or coconut oils"
   - "Silicone-free formula means no buildup — you can use it daily without that dreaded crunchy day-three texture"
-cons:
+cons: 
   - "The pump dispenser is finicky — it spits product in awkward bursts rather than a smooth stream, wasting a bit each use"
   - "Scent is polarizing — it's a strong floral-citrus blend that fades after an hour, but some reviewers find it overwhelming at application"
   - "At the luxury price point, the 5.3 oz bottle runs out faster than you'd expect if you have thick or long hair"
+
 ---
 
 **The $30 question: does a leave-in conditioner actually need hyaluronic acid, or is amika just riding the skincare trend?**

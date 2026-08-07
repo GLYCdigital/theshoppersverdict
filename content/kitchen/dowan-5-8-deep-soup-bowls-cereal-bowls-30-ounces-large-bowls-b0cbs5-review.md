@@ -1,4 +1,5 @@
 ---
+
 title: "DOWAN 5.8 inch  Deep Soup Bowls & Cereal Bowls - 30 Ounces Large"
 seo_title: "DOWAN 30 oz Deep Soup Bowls Review (2026): Worth It?"
 meta_description: "DOWAN 5.8 inch  deep soup bowls hold 30 oz. We tested durability, microwave safety, and stackability. Read our honest review before buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBS5SZ11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oYDWr4kIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 30-ounce capacity handles full soup portions, cereal with milk, or large salads without spillage"
   - "Thick, chip-resistant ceramic with a smooth glaze that holds up to daily dishwasher use"
   - "Deep 2.4-inch walls and a wide 5.8-inch base make them stable and easy to grip"
-cons:
+cons: 
   - "At 1.4 pounds each, they're noticeably heavier than standard cereal bowls"
   - "The glaze is glossy, so visible water spots if you don't dry them promptly"
   - "Only sold in sets of four — no single-bowl option to test before committing"
+
 ---
 
 ## The 30-Ounce Bowl That Actually Means It

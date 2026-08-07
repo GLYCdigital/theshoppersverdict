@@ -1,4 +1,5 @@
 ---
+
 title: "Gardner Pet Dog Bowls Stainless Steel No Spill Water Bowl, S"
 seo_title: "Gardner Pet No Spill Water Bowl Review: Does It Work?"
 meta_description: "Tested: Gardner Pet stainless steel no-spill water bowl for small dogs. Real pros, cons, and whether it stops messy drinking. Read our verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRZYWHQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DEb88M1pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Floating disc design genuinely cuts splashing by 80-90% with eager drinkers"
   - "Heavy-gauge stainless steel base won't tip, even with a 20 lb dog pushing it"
   - "Dishwasher-safe and completely rust-proof — no plastic parts to harbor bacteria"
-cons:
+cons: 
   - "Small size (10 oz) only suits toy and small breeds; medium dogs will drain it fast"
   - "Floating disc needs a deep-enough water level to work; if it's low, splashing returns"
   - "No rubber base ring — slides on smooth tile floors when dog drinks aggressively"
+
 ---
 
 If your dog drinks like a fire hose aimed at the floor, you've already mopped up enough frustration to justify this purchase. The Gardner Pet Stainless Steel No Spill Water Bowl (Small) is a 10-ounce solution to a very specific problem: dogs that splash more water than they swallow. 

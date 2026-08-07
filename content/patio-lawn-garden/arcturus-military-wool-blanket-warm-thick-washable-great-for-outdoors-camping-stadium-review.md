@@ -1,13 +1,14 @@
 ---
+
 title: "Arcturus Military Wool Blanket - Warm, Thick, Washable - Great for Outdoors, Camping, Stadium Blanket, Picnics, Travel - Car & Bushcraft Survival Kits"
 seo_title: "Arcturus Military Wool Review: Verdict (4.6/5) | TSV"
 meta_description: "Great value for great blanket This blanket is a perfect size to use around the 17,723+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "arcturus-military-wool-blanket-warm-thick-washable-great-for-outdoors-camping-stadium-review"
 image_alt: "Arcturus Military Wool Blanket - Warm, Thick, Washable - Great for Outdoors, Camping, Stadium Blanket, Picnics, Travel -"
-keywords:
+keywords: 
   - "arcturus military wool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Arcturus Military Wool Blanket?"
     answer: "Great value for great blanket This blanket is a perfect size to use around the house, in the car, camping... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Arcturus Military Wool Blanket?"
@@ -20,12 +21,13 @@ review_count: 17723
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D7JC76Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WeiP+XeYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value for great blanket This blanket is a perfect size to use around the house, in the car."
   - "I know that's just the strong smell of lanolin and how my nose interprets it."
   - "5 lbs), and feels very high quality."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 **title:** "Arcturus Military Wool Blanket - Warm, Thick, Washable - Great for Outdoors, Camping, Stadium Blanket, Picnics, Travel - Car & Bushcraft Survival Kits"
 **seo_title:** "Arcturus Military Wool Blanket Review: 4.6/5, Worth It?"

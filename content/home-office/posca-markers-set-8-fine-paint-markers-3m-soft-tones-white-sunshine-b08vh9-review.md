@@ -1,4 +1,5 @@
 ---
+
 title: "Posca Markers Set, 8 Fine Paint Markers 3M â€“ Soft Tones â€"
 seo_title: "Posca Markers Set, 8 Fine Paint Markers 3M â€“ Sof Review"
 meta_description: "Our full posca markers set, 8 fine paint markers 3m â€“ soft tones â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08VH9LLWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816qkuIg5SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: you’re here because you’ve seen Posca markers all over Instagram and Pinterest, and you want to know if the 8-piece Soft Tones set is worth $20-something of your money. Short answer: yes, with caveats. Here’s the full picture.

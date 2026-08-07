@@ -1,4 +1,5 @@
 ---
+
 title: "YOTTOY Little Blue Truck Collection"
 seo_title: "YOTTOY Little Blue Truck Collection Review: Verdict | TSV"
 meta_description: "Our full yottoy little blue truck collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G4XGQ89F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810HIoI+-GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your toddler has worn out their copy of *Little Blue Truck* — the one with the beeping horn and the mud-splattered pages — this YOTTOY collection is the natural next step. It's the book brought to three dimensions, sized for small hands and hard floors. But is it worth the shelf space? Here's what 220 Amazon reviewers at 4.4 stars have to say, plus what I found digging into the details.

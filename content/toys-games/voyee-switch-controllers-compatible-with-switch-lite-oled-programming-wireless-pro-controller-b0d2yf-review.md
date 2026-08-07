@@ -1,4 +1,5 @@
 ---
+
 title: "VOYEE Switch Controllers Compatible with Switch/Lite/OLED, P"
 seo_title: "VOYEE Switch Controllers Compatible with Switch/Li Review"
 meta_description: "Our full voyee switch controllers compatible with switch/lite/oled, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2YFD32Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719KUW25MQL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $19 Switch Controller That Makes the Pro Controller Look Overpriced (Almost)**

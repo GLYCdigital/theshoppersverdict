@@ -1,4 +1,5 @@
 ---
+
 title: "Dobyns Rods Maverick Series"
 seo_title: "Dobyns Rods Maverick Series Review: Worth It? (2026)"
 meta_description: "Dobyns Rods Maverick Series review: 4.3/5 from 215 anglers. We break down build quality, action, and whether this budget-friendly rod beats the hype."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6MKQJ7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41BWaUq01tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Dobyns backbone at a sub-$100 price point — same family DNA as the Champion series"
   - "Sensitive IM6 graphite blank that transmits bottom structure and light bites clearly"
   - "Quality cork handle with solid reel seat that doesn't twist under heavy hooksets"
-cons:
+cons: 
   - "Guides are single-foot and lighter gauge than higher-end Dobyns — braid anglers should check alignment"
   - "Tip section runs slightly soft on some models, which can hurt hook penetration on frogs/jigs"
   - "No rod sleeve or tube included — you'll want to protect it during transport"
+
 ---
 
 Let's get one thing straight: The Dobyns name carries weight in bass fishing circles. Gary Dobyns built a reputation on the Champion and Fury series — rods that tournament anglers trust with $500 combos. The Maverick Series is Dobyns' answer to the budget-conscious weekend warrior. The question isn't whether it's a good rod. It's whether it's a *Dobyns* rod, or just a logo slapped on an import blank.

@@ -1,4 +1,5 @@
 ---
+
 title: "Redragon Wireless Gaming Mouse-M901"
 seo_title: "Redragon Wireless Gaming Mouse-M901 Review: Verdict | TSV"
 meta_description: "Our full redragon wireless gaming mouse-m901 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSY2WHT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E5jxmrTxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Redragon M901 isn't trying to be subtle.** With a 12-button layout that looks like a fighter jet cockpit and RGB lighting that could double as a nightlight, this mouse screams "gamer" from across the desk. But here's the thing that surprised me after digging through 220 verified buyer reviews: it's actually a sleeper hit for office productivity.

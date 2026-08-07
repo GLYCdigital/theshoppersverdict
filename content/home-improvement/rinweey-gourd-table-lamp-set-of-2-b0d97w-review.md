@@ -1,4 +1,5 @@
 ---
+
 title: "Rinweey Gourd Table lamp Set of 2"
 seo_title: "Rinweey Gourd Table lamp Set of 2 Review: Verdict | TSV"
 meta_description: "Our full rinweey gourd table lamp set of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D97W7MQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617BNCRkcEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The gourd lamp is a design classic for a reason — that rounded, organic silhouette softens a room in a way angular modern fixtures just can't. The Rinweey set of two aims to deliver that look without the boutique price tag. After digging through 220 ratings and the product specs, here's the honest picture.

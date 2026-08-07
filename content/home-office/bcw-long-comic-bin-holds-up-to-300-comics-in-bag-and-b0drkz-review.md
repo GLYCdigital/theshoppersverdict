@@ -1,4 +1,5 @@
 ---
+
 title: "BCW Long Comic Bin - Holds Up to 300 Comics in Bag and Board"
 seo_title: "BCW Long Comic Bin Review: 300 Comic Storage Solution"
 meta_description: "BCW Long Comic Bin review: holds 300 bagged comics, stacks securely, solid build. See if this affordable storage box fits your collection."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRKZSY2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eYEunwYCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True long-box dimensions sized for modern bag-and-board comics, not the old penny-press era"
   - "Double-wall corrugated cardboard gives real rigidity — no sagging even with a full load"
   - "Stackable design with a reinforced lid that doesn't crush the comics underneath"
-cons:
+cons: 
   - "No handles — carrying a full bin means gripping the edges, which gets awkward fast"
   - "Cardboard construction means moisture is the enemy; basement storage will eventually ruin your books"
+
 ---
 
 If you're a comic collector, you know the drill: long boxes were designed in an era when comics were thinner, smaller, and arguably less precious. The BCW Long Comic Bin updates that math. It's built to hold up to 300 bagged-and-boarded modern comics in a box that actually fits them without bowing at the sides or crushing the bottom issues under the weight of the stack.

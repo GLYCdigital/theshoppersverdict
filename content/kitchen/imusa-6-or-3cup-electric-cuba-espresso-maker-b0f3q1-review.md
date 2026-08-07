@@ -1,4 +1,5 @@
 ---
+
 title: "Imusa 6 or 3cup Electric Cuba Espresso Maker"
 seo_title: "Imusa 6 or 3cup Electric Cuba Espresso Maker Review: Verd"
 meta_description: "Our full imusa 6 or 3cup electric cuba espresso maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F3Q11JC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610v3wdyHBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a Cuban abuela make café cubano on a stovetop _cafetera_, you know the ritual: dark espresso brewed with sugar whipped into a creamy _espumita_. The Imusa Electric Cuba Espresso Maker tries to bottle that experience into a plug-in countertop appliance. After testing the 6-cup version and checking 235 Amazon reviews (4.7 stars), here's the honest picture.

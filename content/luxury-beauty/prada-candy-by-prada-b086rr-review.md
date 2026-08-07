@@ -1,4 +1,5 @@
 ---
+
 title: "Prada Candy by Prada"
 seo_title: "Prada Candy by Prada Review: Verdict | TSV"
 meta_description: "Our full prada candy by prada review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B086RRGZ7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hpr0Pt0jL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Prada Candy is the fragrance equivalent of a designer handbag that's been in your rotation for a decade — it's not new, not trendy, but it still gets compliments every single time you wear it.** With a 4.6-star average from 229 Amazon ratings, this 2011 release from the house of Prada has quietly become a cult classic in the gourmand category. But is it worth your money in 2026, or is it just nostalgia in a bottle?

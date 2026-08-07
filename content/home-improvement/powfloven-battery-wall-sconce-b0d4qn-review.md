@@ -1,4 +1,5 @@
 ---
+
 title: "Powfloven Battery Wall Sconce"
 seo_title: "Powfloven Battery Wall Sconce Review: Verdict | TSV"
 meta_description: "Our full powfloven battery wall sconce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4QNG4YD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UauO+8I2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most battery wall sconces are garbage. They look like cheap plastic pucks with a cold blue glow that belongs in a dentist's office. The Powfloven Battery Wall Sconce is not that. At 4.4 stars across 220 ratings, it's earned its place — but it's not perfect either. Here's what you need to know before you pull the trigger.

@@ -1,4 +1,5 @@
 ---
+
 title: "S14 2W LED Edison Bulb"
 seo_title: "S14 2W LED Edison Bulb Review: Verdict | TSV"
 meta_description: "Our full s14 2w led edison bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL4DQFNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S2Lnz335L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # S14 2W LED Edison Bulb: The Vintage Look Without the Energy Bill

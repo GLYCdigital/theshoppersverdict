@@ -1,4 +1,5 @@
 ---
+
 title: "Varpoolfaye Swimming Pool Heat Pump Electric Pool Heater for"
 seo_title: "Varpoolfaye Swimming Pool Heat Pump Electric Pool  Review"
 meta_description: "Our full varpoolfaye swimming pool heat pump electric pool heater for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0GXHMDMZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IxYKJtpqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a 3.4-star average across 170 ratings tells you this pool heater has a split personality. Some owners swear by it. Others are frustrated. Here's the real story.

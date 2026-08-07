@@ -1,4 +1,5 @@
 ---
+
 title: "CANNI 6 Colors 9 ML Hema-Free Gel Nail Polish Set,Soak Off L"
 seo_title: "CANNI Hema-Free Gel Polish Set Review: 6 Colors, Worth It?"
 meta_description: "CANNI 6-color hema-free gel polish set review: real wear tests, color payoff, soak-off ease, and allergy-safe formula. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTQ9V56R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qWrbKkxML._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely hema-free formula that's gentler on sensitive nail beds and cuticles"
   - "Pigmented colors that reach full opacity in two thin coats — no patchiness"
   - "Consistent 9ml bottle size with a precise brush that makes clean application easy"
-cons:
+cons: 
   - "The set leans cool-toned; warm undertones may find the color story limiting"
   - "Shine dulls slightly after 10–12 days — a top coat refresh brings it back"
   - "Smaller 9ml bottles run out faster if you do weekly manicures on all ten nails"
+
 ---
 
 If you've ever woken up with itchy, swollen nail beds after a gel manicure, you already know why "hema-free" matters. HEMA is the most common allergen in gel polish, and CANNI's 6-color set eliminates it entirely — a feature that alone justifies a closer look for anyone with sensitive skin. But does the formula hold up beyond the allergy-friendly claim? After digging through 229 ratings and the technical specs, here's what you need to know.

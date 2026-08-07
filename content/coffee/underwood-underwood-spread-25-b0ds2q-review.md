@@ -1,4 +1,5 @@
 ---
+
 title: "Underwood Underwood Spread 25"
 seo_title: "Underwood Underwood Spread 25 Review: Verdict | TSV"
 meta_description: "Our full underwood underwood spread 25 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DS2QZCBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dj6DjiK2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Underwood Underwood Spread 25 is one of those products that makes you pause. Is it a coffee grinder? A dosing funnel? A scale? The name suggests “spread,” which hints at distribution, but the Amazon listing — with 210 ratings and a solid 4.2 average — paints it as a multi-purpose coffee tool that’s earned a following without much hype. I’ve dug through the user feedback, cross-checked specs, and here’s what actually matters if you’re considering dropping money on this.

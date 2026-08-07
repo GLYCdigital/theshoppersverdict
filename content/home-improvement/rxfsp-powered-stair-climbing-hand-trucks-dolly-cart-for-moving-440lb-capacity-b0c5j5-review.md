@@ -1,4 +1,5 @@
 ---
+
 title: "RXFSP Powered Stair Climbing Hand Trucks Dolly Cart for Movi"
 seo_title: "RXFSP Powered Stair Climbing Hand Trucks Dolly Car Review"
 meta_description: "Our full rxfsp powered stair climbing hand trucks dolly cart for movi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0C5J5PH9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MXEU7x9ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # RXFSP Powered Stair Climbing Hand Truck Review: Does the 440lb Electric Dolly Earn Its Keep?

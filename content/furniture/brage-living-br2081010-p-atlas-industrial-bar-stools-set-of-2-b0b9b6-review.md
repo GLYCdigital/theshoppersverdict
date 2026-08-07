@@ -1,4 +1,5 @@
 ---
+
 title: "Brage Living BR2081010-P Atlas Industrial Bar Stools (Set of"
 seo_title: "Brage Living Atlas Bar Stools Review: Industrial Set of 2 inch"
 meta_description: "Brage Living Atlas industrial bar stools review: sturdy steel frame, wood seat, 30-inch height. Read pros, cons, and who should buy before ordering."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B9B64YF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QGp2rqmIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel welded frame with powder-coated finish resists chipping and rust, even in high-traffic kitchens"
   - "Solid acacia wood seat with natural grain variation — no two stools look identical"
   - "Tool-free assembly takes under 5 minutes per stool; pre-drilled holes align correctly"
-cons:
+cons: 
   - "No footrest padding — the round steel bar can feel hard on bare feet during long sits"
   - "Seat measures 13 inches wide, which runs narrow for larger users or anyone who likes to sprawl"
   - "Screws can loosen after 2-3 months of daily use; plan on retightening with a hex key periodically"
+
 ---
 
 Let's be direct: most bar stools under $150 are wobbly, fake-wood disasters that look like they came from a college dorm liquidation sale. The Brage Living Atlas set of two is not that. It's a legitimately decent industrial stool that earns its 4.6-star rating — with a few caveats worth knowing before you hit "add to cart."

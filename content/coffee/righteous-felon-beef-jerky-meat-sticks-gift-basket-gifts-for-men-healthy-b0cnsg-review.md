@@ -1,4 +1,5 @@
 ---
+
 title: "Righteous Felon Beef Jerky + Meat Sticks, Gift Basket, Gifts"
 seo_title: "Righteous Felon Beef Jerky + Meat Sticks, Gift Bas Review"
 meta_description: "Our full righteous felon beef jerky + meat sticks, gift basket, gifts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNSGM8HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pJQi05I-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most beef jerky gift baskets are what you buy when you forgot a birthday and need something that looks thoughtful without requiring thought. The Righteous Felon Beef Jerky + Meat Sticks Gift Basket tries to be the exception. Does it pull it off?

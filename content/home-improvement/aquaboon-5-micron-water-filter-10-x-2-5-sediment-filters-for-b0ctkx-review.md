@@ -1,23 +1,25 @@
 ---
+
 title: "Aquaboon 5 Micron Water Filter 10 inch  x 2.5 inch  - Sediment Filters"
 seo_title: "Aquaboon 5 Micron Sediment Filter Review: Worth It?"
 meta_description: "Aquaboon 5 Micron 10 inch  x 2.5 inch  sediment filter review: real-world performance, build quality, and who should buy it. See pros, cons, and verdict."
 slug: "aquaboon-5-micron-water-filter-10-x-2-5-sediment-filters-for-b0ctkx-review"
 image_alt: "Aquaboon 5 micron sediment water filter cartridge 10 inch x 2.5 inch"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTKXPJRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8143IlBlBxL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 5-micron nominal rating with consistent depth filtration—catches fine sand, rust, and silt without clogging prematurely."  
   - "Reinforced polypropylene core prevents collapse under pressure, even in whole-house setups with 40+ PSI."  
   - "Fits standard 10 inch  x 2.5 inch  housings from iSpring, Aquasana, and most generic brands—no adapter needed."
-cons:  
+cons: 
   - "No built-in gasket or O-ring included—you'll need to reuse or buy one separately if your housing doesn't have one."  
   - "At higher flow rates (above 8 GPM), filtration efficiency drops noticeably for sub-10-micron particles."
+
 ---
 
 If you're on well water or dealing with rusty municipal supply, a sediment filter is your first line of defense. The Aquaboon 5 Micron 10" x 2.5" cartridge is one of the more popular options on Amazon—235 ratings, 4.7 stars—and for good reason. But is it the right filter for *your* setup? Let's break it down.

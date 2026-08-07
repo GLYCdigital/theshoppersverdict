@@ -1,4 +1,5 @@
 ---
+
 title: "Battery Operated Wall Sconces Set of Two, Rechargeable Wall"
 seo_title: "Battery Operated Wall Sconces Review: Rechargeable Set of Two (2026)"
 meta_description: "Honest review of battery operated wall sconces set of two with remote. Tested for brightness, battery life & install. Is this $80 rechargeable pair worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1MYD8QT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k9eLxQ6-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True wireless install — adhesive strips hold securely, no drywall anchors needed for most mounting locations"
   - "Separate warm/cool color temperature modes plus dimmable brightness levels, controlled via included remote"
   - "Built-in rechargeable batteries charge via USB-C, eliminating ongoing battery replacement costs"
-cons:
+cons: 
   - "Remote requires line-of-sight to the sensor — placement behind furniture or in corners can cause intermittent response"
   - "Adhesive backing struggles on heavily textured wallpaper or rough plaster; screws included but require drilling"
+
 ---
 
 If you've been staring at dangling wires, patched drywall holes, or the sad gap where a hardwired sconce used to be, this rechargeable pair from Amazon's B0F1MYD8QT listing is aimed squarely at you. At $79.95 for two lights with a remote, it's not the cheapest cordless option out there — but after digging through 225 ratings and the 4.5-star average, the real question is whether it earns that premium. Short answer: mostly yes, with a couple of caveats worth knowing before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "XIAPIA Tricycles for 1-3 Year Olds, 5 in 1 Toddler Balance B"
 seo_title: "XIAPIA Tricycles for 1-3 Year Olds, 5 in 1 Toddler Review"
 meta_description: "Our full xiapia tricycles for 1-3 year olds, 5 in 1 toddler balance b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D48XZHCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xvHkOaCQL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # XIAPIA 5-in-1 Toddler Tricycle: One Bike That Grows With Them?

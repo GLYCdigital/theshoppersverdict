@@ -1,4 +1,5 @@
 ---
+
 title: "Acer USB Hub 4 Ports, Multiple USB 3.0 Hub, USBA Splitter fo"
 seo_title: "Acer USB 3.0 Hub Review: 4-Port Splitter Worth It?"
 meta_description: "Hands-on Acer USB 3.0 hub review: speed, build quality, and real-world performance. Is this 4-port splitter right for your desk setup? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR3R8V9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B4vVPIQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact aluminum body stays cool even with four devices drawing power simultaneously"
   - "True USB 3.0 speeds — sustained 380-400 MB/s transfers on SSD-to-SSD copies"
   - "Individual port spacing is wide enough for chunky flash drives and thick cables"
-cons:
+cons: 
   - "No power adapter included — bus-powered only, so high-draw devices like external HDDs may stutter"
   - "Cable is permanently attached at 11.8 inches; you can't swap it for a longer one"
+
 ---
 
 Here's the thing about USB hubs: most are cheap plastic afterthoughts that introduce more problems than they solve. The Acer 4-Port USB 3.0 Hub, however, has earned a 4.5-star average from 225 Amazon reviewers for a reason. It does exactly what a hub should do — nothing more, nothing less — and it does it reliably.

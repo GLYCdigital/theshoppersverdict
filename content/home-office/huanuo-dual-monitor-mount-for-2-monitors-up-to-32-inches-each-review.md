@@ -1,16 +1,17 @@
 ---
+
 title: "HUANUO Dual Monitor Mount for 2 Monitors up to 32 inches, Each Arm Holds Max 22lbs, Dual Monitor Stand with Advanced System, Height-Adjustable/Tilt/Swivel/Rotate, VESA Standard 75mm or 100mm"
 seo_title: "HUANUO Dual Monitor Review: Verdict (4.6/5) | TSV"
 meta_description: "That alone should say how satisfied I am with the quality and 963+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "huanuo-dual-monitor-mount-for-2-monitors-up-to-32-inches-each-review"
 image_alt: "HUANUO Dual Monitor Mount for 2 Monitors up to 32 inches, Each Arm Holds Max 22lbs, Dual Monitor Stand with Advanced Sys"
-keywords:
+keywords: 
   - "huanuo dual monitor review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the HUANUO Dual Monitor Mount?"
     answer: "That alone should say how satisfied I am with the quality and performance That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the HUANUO Dual Monitor Mount?"
@@ -24,12 +25,13 @@ review_count: 963
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMT59SX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Er3spvzBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "That alone should say how satisfied I am with the quality and performance."
   - "Installation was straightforward."
   - "Decent range of movement, not too heavy."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The HUANUO Dual Monitor Mount for is a popular choice - with 963 Amazon reviews behind it. Here is what buyers actually say.

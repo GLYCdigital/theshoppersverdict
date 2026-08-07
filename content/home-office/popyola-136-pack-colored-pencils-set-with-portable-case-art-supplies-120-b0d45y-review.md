@@ -1,4 +1,5 @@
 ---
+
 title: "POPYOLA 136 Pack Colored Pencils Set with Portable Case, Art"
 seo_title: "POPYOLA 136 Pack Colored Pencils Set with Portable Review"
 meta_description: "Our full popyola 136 pack colored pencils set with portable case, art review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D45YFTJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zBShbaURL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is 136 pencils overkill, or exactly what you need?** For anyone who's ever hunted through a 24-pack for that *one* specific sage green, the POPYOLA 136 Pack Colored Pencils Set is a serious upgrade. This isn't a set padded with 40 shades of near-identical white — buyers who counted confirm all 136 slots are filled with distinct colors. At a 4.7-star average across 235 ratings, it's clearly earning its keep in classrooms, home studios, and bullet journal drawers.

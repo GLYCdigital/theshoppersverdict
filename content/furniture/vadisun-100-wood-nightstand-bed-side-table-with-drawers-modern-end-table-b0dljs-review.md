@@ -1,4 +1,5 @@
 ---
+
 title: "Vadisun 100% Wood Nightstand, Bed Side Table with Drawers, M"
 seo_title: "Vadisun 100% Wood Nightstand, Bed Side Table with  Review"
 meta_description: "Our full vadisun 100% wood nightstand, bed side table with drawers, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLJSTQQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ppmz0JROL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Vadisun 100% Wood Nightstand Actually Worth Your Money?

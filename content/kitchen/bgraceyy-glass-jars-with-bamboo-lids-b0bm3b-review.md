@@ -1,4 +1,5 @@
 ---
+
 title: "BGraceyy Glass Jars with Bamboo Lids"
 seo_title: "BGraceyy Glass Jars Review: Bamboo Lid Storage (2026)"
 meta_description: "BGraceyy glass jars with bamboo lids review: 4.5-star rated airtight storage. Tested for leaks, durability, and kitchen organization. Honest pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BM3BSLNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810qxCoJuSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass won't shatter when you drop a spoon on it or pour boiling liquids in for sterilization"
   - "Silicone gasket under the bamboo lid creates a genuinely airtight seal — tested with water upside down, zero leaks"
   - "Multiple size options (4oz to 64oz) with uniform lid diameters, so mixing and matching is hassle-free"
-cons:
+cons: 
   - "Bamboo lids can absorb moisture and warp if you run them through the dishwasher — hand-wash only"
   - "No measurement markings on the glass, so portioning dry ingredients requires a separate measuring cup"
+
 ---
 
 Let's be honest: most glass jar sets on Amazon are either flimsy, leaky, or too pretty to actually use. The BGraceyy set claims to solve all three problems with thick borosilicate glass and natural bamboo lids. After digging through 225 ratings averaging 4.5 stars, here's the real story.

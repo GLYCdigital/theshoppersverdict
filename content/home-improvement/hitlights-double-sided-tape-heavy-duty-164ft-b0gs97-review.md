@@ -1,4 +1,5 @@
 ---
+
 title: "HitLights Double Sided Tape Heavy Duty 164FT"
 seo_title: "HitLights Double Sided Tape Heavy Duty 164FT Review: Verd"
 meta_description: "Our full hitlights double sided tape heavy duty 164ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GS97PYD5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T86OCVXlL._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most double-sided tapes from Amazon are glorified Scotch tape with a markup. The HitLights 164FT Heavy Duty option isn't that. With a 4.5-star average across 225 ratings, this is one of those rare accessory products that actually solves the problem it claims to — keeping LED strips and trim firmly attached without screws or clips.

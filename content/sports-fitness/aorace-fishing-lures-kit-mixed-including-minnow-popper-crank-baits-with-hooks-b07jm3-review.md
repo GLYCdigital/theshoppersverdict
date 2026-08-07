@@ -1,5 +1,6 @@
 ---
 
+
 title: "Aorace Fishing Lures Kit Mixed Including Minnow Popper Crank"
 seo_title: "Aorace Fishing Lures Kit Review: 30-Piece Set Worth It?"
 meta_description: "Honest Aorace Fishing Lures Kit review: 30 mixed hard baits with treble hooks. We test durability, action, and value. See what anglers really say."
@@ -12,14 +13,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07JM3KXNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51kLDTZMQSL._AC_US40_.jpg"
-pros:
+pros: 
   - "30-lure assortment covers topwater, diving, and suspending presentations for under $30 inch"
   - "Factory treble hooks are surprisingly sharp and hold up on bass and pike"
   - "Each lure arrives in its own compartmentalized case with snap rings included"
-cons:
+cons: 
   - "Action is inconsistent across the set — some crankbaits roll instead of tracking straight"
   - "Paint chips quickly on rocky bottoms; expect touch-ups after a few outings"
   - "No size chart included — hook sizes vary randomly between lures"
+
 
 ---
 

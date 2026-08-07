@@ -1,4 +1,5 @@
 ---
+
 title: "EXPO Dry Erase Markers, Whiteboard Markers with Low Odor Ink"
 seo_title: "EXPO Dry Erase Markers Review: Low Odor Fine Tip (2026)"
 meta_description: "EXPO Dry Erase Markers review: Are low-odor fine tips worth it? Tested for vibrancy, smudging & durability. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09K3CYNP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tEbvYUTHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Vibrant, saturated ink that stays legible even after weeks on the board"
   - "Fine tip delivers crisp, consistent lines that hold shape under pressure"
   - "Truly low-odor—usable in closed offices and classrooms without eye watering"
-cons:
+cons: 
   - "Caps can crack if dropped on hard floors; replacement caps are hard to source"
   - "Fine tip runs dry noticeably faster than chisel-tip EXPO markers under daily use"
+
 ---
 
 Let me be blunt: if you've bought generic whiteboard markers to save a few bucks and regretted it, you already know why EXPO owns this category. But the specific question here is whether the **low-odor fine tip** variant justifies its premium over the standard chisel-tip pack. After putting a set through three weeks of daily meeting-room abuse, here's the real story.

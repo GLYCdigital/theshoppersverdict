@@ -1,4 +1,5 @@
 ---
+
 title: "Fibre-Metal Hard Hat"
 seo_title: "Fibre-Metal Hard Hat Review: Is It Worth Buying? (2026)"
 meta_description: "Fibre-Metal Hard Hat review: 4.6/5 rating, 229 reviews. We break down durability, comfort, sizing, and who should buy this construction helmet."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PH36RNG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TimKV6aVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight fiberglass shell (under 14 oz) that doesn't fatigue your neck on 10-hour shifts"
   - "Six-point ratchet suspension distributes impact pressure evenly across the skull"
   - "Meets ANSI Z89.1 Type 1 Class E and G standards for electrical and impact protection"
-cons:
+cons: 
   - "No built-in sweatband — you'll need to buy one separately for hot weather work"
   - "Sizing runs large; workers with smaller heads (under 6.5) will need the optional chin strap or adult-small version"
+
 ---
 
 Let's be blunt: most hard hats under $30 feel like plastic bowls strapped to your skull. The Fibre-Metal Hard Hat isn't most hard hats. With a 4.6-star average across 229 ratings, this is the helmet you see on seasoned ironworkers and electricians — not weekend DIYers. Here's the real breakdown.

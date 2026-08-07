@@ -1,4 +1,5 @@
 ---
+
 title: "18th Birthday Decorations for Girls, Including 18th Tiara an"
 seo_title: "18th Birthday Decorations Review: Tiara & Sash Set (2026)"
 meta_description: "Honest 18th birthday decorations review: tiara, sash, and accessories. See what 229 buyers say about quality, fit, and value before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D17Y6W47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81qRQ0f2e5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tiara has adjustable sizing band that fits most teen/adult head circumferences without pinching"
   - "Sash material is thick satin with stitched letters — not heat-pressed vinyl that peels after one wear"
   - "Complete set includes tiara, sash, button, and cake topper — no need to buy extras separately"
-cons:
+cons: 
   - "Cake topper is lightweight plastic that looks cheaper in person than in product photos"
   - "Tiara stones are glued, not prong-set — a few buyers reported losing a gem after rough handling"
+
 ---
 
 Let’s be real: most “18th birthday” decoration sets on Amazon are cheap, disposable junk that looks great in the stock photo and falls apart before the cake is cut. This set from the B0D17Y6W47 listing is not that — but it’s also not a heirloom-quality piece. Here’s the breakdown after digging through 229 ratings and real buyer feedback.

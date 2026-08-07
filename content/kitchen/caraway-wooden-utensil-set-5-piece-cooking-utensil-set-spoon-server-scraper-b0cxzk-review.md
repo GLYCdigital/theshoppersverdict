@@ -1,4 +1,5 @@
 ---
+
 title: "Caraway Wooden Utensil Set - 5 Piece Cooking Utensil Set - S"
 seo_title: "Caraway Wooden Utensil Set Review: 5-Piece Set Worth It?"
 meta_description: "Caraway 5-piece wooden utensil set review: solid acacia construction, non-scratch design, and ergonomic handles. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXZK7899/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wOiwlCAjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid acacia wood construction — no hollow handles, no wobble, substantial heft"
   - "Ergonomic, rounded handles that stay comfortable during 30+ minute cooking sessions"
   - "Versatile 5-piece kit covers 90% of daily cooking tasks without redundant pieces"
-cons:
+cons: 
   - "Not dishwasher safe; requires hand washing and periodic oiling to prevent cracking"
   - "Spatula edge is slightly thick for delicate flipping tasks like thin fish fillets"
+
 ---
 
 The Caraway Wooden Utensil Set has been making the rounds in cooking circles, and with a 4.5-star average across 225 Amazon ratings, it's clearly earning its reputation. But is this 5-piece set worth your money, or are you just paying for the brand name? I spent time with this set to give you the honest breakdown.

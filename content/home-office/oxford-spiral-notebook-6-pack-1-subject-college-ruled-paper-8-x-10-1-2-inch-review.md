@@ -1,17 +1,18 @@
 ---
+
 title: "Oxford Spiral Notebook 6 Pack, 1 Subject, College Ruled Paper, 8 x 10-1/2 Inch, Color Assortment May Vary"
 seo_title: "Oxford Spiral Notebook 6-Pack Review — 4.8★ Best College Ruled Notebooks at $26"
 meta_description: "Oxford Spiral Notebook 6-Pack review: 42,639 reviews analyzed. College-ruled, 70 sheets each, 3-hole punched, micro-perforated. Are these the best budget notebooks for students?"
 slug: "oxford-spiral-notebook-6-pack-1-subject-college-ruled-paper-8-x-10-1-2-inch-review"
 image_alt: "Oxford Spiral Notebook 6 Pack College Ruled Assorted Colors"
-keywords:
+keywords: 
   - "oxford spiral notebook review"
   - "oxford 6 pack notebook review"
   - "best college ruled notebook"
   - "oxford spiral notebook 65007 review"
   - "budget notebooks for students"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Does the Oxford spiral notebook paper bleed through with gel pens?"
     answer: "Minimal bleeding and ghosting. The paper is thick enough for gel and ballpoint pens on both sides. One long-term reviewer noted there's 'minimal bleed-through, so I can write on both sides without fear of ghosting.'"
   - question: "Are Oxford notebooks 3-hole punched?"
@@ -24,16 +25,17 @@ review_count: 42639
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00D3OR58A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71weJCNs6vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, smooth paper that handles gel pens without bleeding"
   - "Micro-perforated sheets tear cleanly for binder filing"
   - "3-hole punched — ready to archive straight from the notebook"
   - "Assorted colors for subject-coding without labels"
   - "Spiral binding lies flat and doesn't snag in backpacks"
-cons:
+cons: 
   - "No dividers or interior pockets — strictly notebooks"
   - "Color assortment varies between orders"
   - "Cover designs may not match listing photos"
+
 ---
 
 The Oxford Spiral Notebook 6-Pack is the unsung hero of back-to-school season. 42,639 Amazon reviews averaging 4.8 stars — and a five-star rating that's survived scrutiny from students in the US, Canada, Mexico, Australia, and Saudi Arabia. That's not just good. That's universal.

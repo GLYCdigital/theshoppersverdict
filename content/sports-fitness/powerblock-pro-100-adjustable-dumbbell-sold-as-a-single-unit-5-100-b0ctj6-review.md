@@ -1,4 +1,5 @@
 ---
+
 title: "PowerBlock Pro 100 Adjustable Dumbbell, Sold As A Single Uni"
 seo_title: "PowerBlock Pro 100 Adjustable Dumbbell, Sold As A  Review"
 meta_description: "Our full powerblock pro 100 adjustable dumbbell, sold as a single uni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTJ627VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PIczo7D-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PowerBlock Pro 100 solves the biggest problem in home gyms: space.** If you've got a rack of fixed dumbbells taking up an entire corner, this single unit replaces pairs 5 through 100 — that's 19 weight increments in one steel block. At 4.4 stars from 220 ratings, it's clearly doing something right. But it's not perfect, and the tradeoffs matter more for some lifters than others.

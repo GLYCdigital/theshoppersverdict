@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCS566 20V Circular Saw, 20V Cordless Brushless 6.5 inch "
 seo_title: "DEWALT DCS566 20V Circular Saw Review: 6.5 inch  Brushless Power"
 meta_description: "DEWALT DCS566 20V brushless circular saw review: 6.5 inch  blade, lightweight design, real pros & cons. See if this cordless saw fits your jobsite."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4XZWVP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DDKfOTWlL._AC_SL1012_.jpg"
-pros:
+pros: 
   - 11.2 lbs with battery — noticeably lighter than full-size 7-1/4 inch " saws, reduces fatigue on overhead cuts
   - "Brushless motor delivers genuine 5,150 RPM — handles pressure-treated lumber and hardwood without bogging down"
   - Integrated dust port connects to standard 1-1/4 inch " shop vac hose and keeps cut line visible
-cons:
+cons: 
   - 6-1/2 inch " blade caps max depth at 2-1/8 inch " — won't chew through 2x material in one pass when beveled
   - "No electric brake — blade spins down for several seconds after trigger release, which slows repeated plunge cuts"
   - "Rafter hook placement feels awkward for left-handed users and sits close to the auxiliary handle"
+
 ---
 
 If you've ever wrestled a full-size 7-1/4" circular saw up a ladder one-handed, you already know why the DEWALT DCS566 exists. This 6-1/2" brushless saw trims over a pound of weight and a full inch of blade diameter off the standard form factor — and for most residential framing and sheathing work, you won't miss the difference. What you trade in cutting depth, you get back in control and battery runtime.

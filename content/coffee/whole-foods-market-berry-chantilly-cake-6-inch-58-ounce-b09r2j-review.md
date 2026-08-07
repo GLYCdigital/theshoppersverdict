@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market, Berry Chantilly Cake 6 Inch, 58 Ounce"
 seo_title: "Whole Foods Market, Berry Chantilly Cake 6 Inch, 5 Review"
 meta_description: "Our full whole foods market, berry chantilly cake 6 inch, 58 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09R2J9M3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WMm6dU0+L._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this is a grocery store cake that costs as much as a decent dinner out. So the question isn't *is it good* — it's *is it worth it*. After digging through 229 ratings and multiple verified buyer experiences, here's the real story.

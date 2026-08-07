@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola My First Triangular Crayons 8ct"
 seo_title: "Crayola My First Triangular Crayons Review (2026): Worth It?"
 meta_description: "Crayola My First Triangular Crayons 8ct review: ergonomic design, durability, and washability tested. See pros, cons, and if they're right for your toddler."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B006E5TILW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U7HkEQFIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Chunky triangular barrel fits small hands naturally and prevents rolling off tables"
   - "Ultra-durable formula resists snapping even under aggressive toddler pressure"
   - "True Crayola pigments — colors are vivid and consistent across the 8-count set"
-cons:
+cons: 
   - "Only 8 colors means limited variety for older toddlers who want more range"
   - "Paper wrapper peels easily and can become a choking hazard if not supervised"
   - "Not truly washable from all fabrics — some colors leave faint stains on cotton"
+
 ---
 
 If you've watched a 1-year-old try to grip a standard crayon, you already know the problem: those thin cylinders roll away, snap under pressure, and frustrate tiny hands. Crayola's My First Triangular Crayons were designed specifically to solve that. And for the most part, they deliver exactly what parents of toddlers need — with a few caveats worth knowing before you add them to your cart.

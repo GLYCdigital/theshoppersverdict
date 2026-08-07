@@ -1,4 +1,5 @@
 ---
+
 title: "GarveeHome Washable Rug Bow Rug"
 seo_title: "GarveeHome Washable Bow Rug Review: Is It Worth It?"
 meta_description: "GarveeHome Washable Rug Bow Rug review: 4.6-star rated. We test durability, stain resistance & real-world use. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9YWQJZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81twz3dNmtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without fraying or shedding"
   - "Non-slip latex backing holds firm on hardwood and tile — no rug pad needed for most floors"
   - "Low-profile 0.3-inch pile sits flush under doors and chairs, won't trip walkers or catch chair wheels"
-cons:
+cons: 
   - "Synthetic fibers feel less plush underfoot than wool or cotton — not ideal for lounging on the floor"
   - "Thin profile means heavy furniture leaves temporary indentations that take hours to recover"
+
 ---
 
 ## Is the GarveeHome Bow Rug actually washable — or just "technically washable"?

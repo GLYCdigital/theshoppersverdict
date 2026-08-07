@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Round Cocktail Table"
 seo_title: "VASAGLE Round Cocktail Table Review: Verdict | TSV"
 meta_description: "Our full vasagle round cocktail table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GC87ZFBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P6FIFjGnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A round cocktail table is one of those pieces that looks simple but gets judged hard the moment it arrives. The VASAGLE Round Cocktail Table has been sitting at a solid 4.4 stars across 220 ratings, which tells you it's doing something right. But is it the right table for your living room? I dug through the specs, the owner feedback, and the real-world complaints to give you the straight answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "DIYSET Bed Frame Queen Size with Headboard, Upholstered Plat"
 seo_title: "DIYSET Queen Bed Frame Review: Upholstered Platform with Headboard"
 meta_description: "DIYSET queen bed frame with headboard reviewed: sturdy platform design, easy assembly, real buyer feedback. Is this upholstered bed worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CZ6MCPQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91J5UY6lIwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly takes under 30 minutes — genuinely rare in this category"
   - "Solid wood slats spaced 2.5 inches apart, supporting up to 800 lbs without a box spring"
   - "Tufted headboard with dense foam padding provides real back support for sitting up in bed"
-cons:
+cons: 
   - "Fabric is a magnet for pet hair and lint — lighter colors show everything"
   - "No under-bed clearance for storage bins; platform sits flush to the floor"
+
 ---
 
 **The DIYSET queen bed frame at 4.0 stars with 200 ratings tells a story of a solid budget pick with a couple of honest tradeoffs. Let's break down whether it actually earns a spot in your bedroom.**

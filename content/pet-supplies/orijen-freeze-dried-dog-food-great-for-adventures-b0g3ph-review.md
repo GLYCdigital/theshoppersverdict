@@ -1,4 +1,5 @@
 ---
+
 title: "ORIJEN Freeze Dried Dog Food, Great for Adventures"
 seo_title: "ORIJEN Freeze Dried Dog Food, Great for Adventures Review"
 meta_description: "Our full orijen freeze dried dog food, great for adventures review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G3PH4ZBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aQ2sWB2TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing: ORIJEN has built a reputation on biologically appropriate, whole-prey nutrition, and this freeze-dried formula delivers on that promise. But "Great for Adventures" isn't just a tagline — it's a functional claim that holds up in the field. Here's what 225 buyers at 4.5 stars are actually saying, and what you need to know before spending premium dollars.

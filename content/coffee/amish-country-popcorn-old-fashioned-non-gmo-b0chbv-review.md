@@ -1,4 +1,5 @@
 ---
+
 title: "Amish Country Popcorn | Old Fashioned, Non-GMO"
 seo_title: "Amish Country Popcorn Review: Non-GMO, Old-Fashioned"
 meta_description: "Amish Country Popcorn review: Non-GMO, old-fashioned kernels with 4.3★ rating. See real pros, cons, and who should buy this 5-lb bag."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CHBVTYBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GRW177OvL._SL1500_.jpg"
-pros:
+pros: 
   - "High pop yield with minimal unpopped kernels — most reviewers report 95%+ pop rates"
   - "Clean, buttery flavor without artificial additives; genuinely non-GMO verified"
   - "5-pound bulk bag offers strong per-ounce value for frequent poppers"
-cons:
+cons: 
   - "No resealable closure — kernels can go stale if you don't transfer to an airtight container"
   - "Some batches arrive with significant hull fragments; hull-less fans may be disappointed"
+
 ---
 
 If you're reading this, you probably don't need me to tell you that movie theater popcorn tastes like a chemistry experiment. What you need is a reliable, everyday kernel that pops consistently, tastes clean, and doesn't cost a fortune per batch. Amish Country Popcorn's old-fashioned non-GMO offering has been quietly building a following on Amazon — 215 ratings, 4.3 stars — and the reviews tell a surprisingly consistent story.

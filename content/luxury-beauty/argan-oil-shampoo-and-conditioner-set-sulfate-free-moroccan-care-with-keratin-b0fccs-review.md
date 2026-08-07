@@ -1,4 +1,5 @@
 ---
+
 title: "Argan Oil Shampoo and Conditioner Set - Sulfate Free Morocca"
 seo_title: "Argan Oil Shampoo & Conditioner Set Review (2026): Sulfate-Free"
 meta_description: "Honest Morocca argan oil shampoo & conditioner set review: Does this sulfate-free duo with keratin deliver soft, shiny hair? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCCSLJXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81n9c3CnbTL._SL1500_.jpg"
-pros:
+pros: 
   - "Pump dispensers on both bottles — no wrestling with flip caps mid-shower, and you control the amount precisely."
   - "Noticeably softer, more manageable hair within 2–3 washes, even on color-treated strands."
   - "Sulfate-free formula cleanses without stripping; lather is modest but effective."
-cons:
+cons: 
   - "Scent is strong and sweet (Moroccan oil–like) — lingers for hours; sensitive noses may find it overpowering."
   - "Conditioner is thick; you'll need to emulsify in palms first or it sits on the hair shaft."
   - "No visible biotin or keratin benefit for severely damaged hair — this is maintenance, not repair."
+
 ---
 
 If your hair is screaming for hydration but you're not ready to drop $60 on a single salon bottle, this Morocca duo is worth a hard look. At a 4.5-star average across 225 ratings, it's not just another pretty pump bottle — it's a legit contender in the sulfate-free space. Here's the unvarnished truth.

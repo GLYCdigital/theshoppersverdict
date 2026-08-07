@@ -1,4 +1,5 @@
 ---
+
 title: "Cat 7 Ethernet Cable 1 Pack"
 seo_title: "Cat 7 Ethernet Cable Review: 1 Pack, 10Gbps, Flat or Round?"
 meta_description: "Honest Cat 7 Ethernet cable review: real-world speeds, build quality, and who should buy. See how this 10Gbps cable performs before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHWG6P73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FOtsJfX5L._SL1500_.jpg"
-pros:
+pros: 
   - "True 10Gbps throughput with 600MHz bandwidth — verified in real-world file transfers, not just on the box"
   - "Shielded twisted pairs (S/FTP) with a solid copper core, not CCA — less signal degradation over longer runs"
   - "Snagless RJ45 connectors with gold-plated pins that clicked firmly into every port I tested"
-cons:
+cons: 
   - "The cable is noticeably stiff — not ideal for tight bends behind a desk or along baseboards"
   - "No cable organizer or velcro tie included in the 1-pack, so you'll need your own management"
+
 ---
 
 Most people buy a Cat 7 cable expecting magic. They don't get it. What they get is a properly shielded cable that won't become the bottleneck in their network. That's exactly what this 1-pack delivers — provided you actually need Cat 7 in the first place.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hizashi CA10 CA11 E12 Candelabra Bulbs G2"
 seo_title: "Hizashi CA10 CA11 E12 Candelabra Bulbs G2 Review: Verdict"
 meta_description: "Our full hizashi ca10 ca11 e12 candelabra bulbs g2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZP5D8GD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PzEh2yodL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most LED candelabra bulbs are either too bright, too cold, or too ugly to leave exposed in a chandelier. The Hizashi CA10/CA11 G2 tries to fix all three, and for the most part, it gets there.

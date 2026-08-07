@@ -1,4 +1,5 @@
 ---
+
 title: "PayLessHere Dining Table Set for Small Spaces Kitchen Table "
 seo_title: "PayLessHere Dining Table Set for Small Spaces Kitc Review"
 meta_description: "Our full paylesshere dining table set for small spaces kitchen table  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CL43YL3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vLh8drQkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: shopping for a small-space dining set usually means choosing between something flimsy that looks good or something sturdy that eats your entire floor plan. The PayLessHere Dining Table Set tries to split that difference — and for most buyers, it largely succeeds. Here's what you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "KindTail PAWD Collapsible Puppy and Dog Crate + Washable Bed"
 seo_title: "KindTail PAWD Collapsible Puppy and Dog Crate + Wa Review"
 meta_description: "Our full kindtail pawd collapsible puppy and dog crate + washable bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09D8KSWTV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NF6excC3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **KindTail PAWD Collapsible Puppy and Dog Crate + Washable Bed Review: Stylish, Portable, but Know Its Limits**

@@ -1,4 +1,5 @@
 ---
+
 title: "Wooden Salt and Pepper Grinder Set"
 seo_title: "Wooden Salt and Pepper Grinder Set Review: Verdict | TSV"
 meta_description: "Our full wooden salt and pepper grinder set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQKY418C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612tWCKtdIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most salt and pepper grinders on Amazon are either cheap acrylic cylinders that crack in six months or overpriced electric units with motors that whine louder than they grind. This wooden set sits in the middle, and after spending a week using it daily, I can tell you exactly where it earns its keep and where it frustrates.

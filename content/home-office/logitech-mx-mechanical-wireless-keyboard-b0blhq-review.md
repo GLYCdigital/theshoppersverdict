@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech MX Mechanical Wireless Keyboard"
 seo_title: "Logitech MX Mechanical Wireless Keyboard Review: Verdict "
 meta_description: "Our full logitech mx mechanical wireless keyboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BLHQC95V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ge3d+MQwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing a mechanical keyboard but dread the idea of your coworkers hearing every keystroke from three cubicles away, the Logitech MX Mechanical is the compromise you've been waiting for. This is a keyboard built for people who want tactile feedback without the noise — and it mostly delivers.

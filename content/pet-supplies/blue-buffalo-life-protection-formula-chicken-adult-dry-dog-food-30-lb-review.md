@@ -1,16 +1,17 @@
 ---
+
 title: "Blue Buffalo Life Protection Formula Chicken Adult Dry Dog Food, 30 lb | Real Chicken #1 Ingredient, Supports Immunity with Antioxidant-Rich LifeSource Bits, Promotes Healthy Muscle Development"
 seo_title: "Blue Buffalo Life Review: Verdict (4.7/5) | TSV"
 meta_description: "Great quality food that my dog 29,471+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "blue-buffalo-life-protection-formula-chicken-adult-dry-dog-food-30-lb-review"
 image_alt: "Blue Buffalo Life Protection Formula Chicken Adult Dry Dog Food, 30 lb | Real Chicken #1 Ingredient, Supports Immunity w"
-keywords:
+keywords: 
   - "blue buffalo life review"
   - "pet supplies review"
   - "best pet product"
   - "dog essentials"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Blue Buffalo Life Protection?"
     answer: "Great quality food that my dog loves That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Blue Buffalo Life Protection?"
@@ -24,12 +25,13 @@ review_count: 29471
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0009YWKUA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z7v7yEKVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great quality food that my dog loves."
   - "As far as fresh food for dogs."
   - "Great quality dog food Blue Buffalo Life Protection Formula Adult Dry Dog Food is a great choice for."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 You know the drill: You're standing in the pet aisle, staring at 47 bags of kibble, and every single one claims to be "premium." Blue Buffalo Life Protection Formula Chicken is one of the most-bought dog foods on Amazon for a reason — nearly 30,000 ratings and a 4.7 average. But popularity isn't proof. Let's break down what you're actually paying for.

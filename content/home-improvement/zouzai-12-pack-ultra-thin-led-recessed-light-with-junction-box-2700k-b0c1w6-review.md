@@ -1,4 +1,5 @@
 ---
+
 title: "zouzai 12 Pack Ultra-Thin LED Recessed Light with Junction B"
 seo_title: "zouzai 12 Pack Ultra-Thin LED Recessed Light with  Review"
 meta_description: "Our full zouzai 12 pack ultra-thin led recessed light with junction b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1W6K8B3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NmbK0xnAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Slim Light That Actually Delivers Warmth

@@ -1,7 +1,8 @@
 ---
-title: "Lenovo IdeaPad 5i 2-in-1 Laptop, 14\" WUXGA Touchscreen, Inte"
-seo_title: "Lenovo IdeaPad 5i 2-in-1 Laptop, 14\" WUXGA Touchsc Review"
-meta_description: "Our full lenovo ideapad 5i 2-in-1 laptop, 14\" wuxga touchscreen, inte review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo IdeaPad 5i 2-in-1 Laptop, 14\ WUXGA Touchscreen, Inte"
+seo_title: "Lenovo IdeaPad 5i 2-in-1 Laptop, 14\ WUXGA Touchsc Review"
+meta_description: "Our full lenovo ideapad 5i 2-in-1 laptop, 14\ wuxga touchscreen, inte review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-ideapad-5i-2-in-1-laptop-14-wuxga-touchscreen-intel-12-b0g1yl-review"
 image_alt: "Lenovo IdeaPad 5i 2-in-1 Laptop, 14 WUXGA Touchscreen, Intel 12-core Ultra 5 225U AI up to 4.8GHz, 8GB LPDDR5 RAM, 512GB"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G1YL5435/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EKKBLuZYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 2-in-1 That Actually Gets Work Done**

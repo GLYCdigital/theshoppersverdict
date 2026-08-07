@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Mechanics Tool Set, Metric, 3/8 Inch Drive, 10 Pie"
 seo_title: "CRAFTSMAN Mechanics Tool Set Review: 3/8″ Metric 10-Piece"
 meta_description: "CRAFTSMAN 3/8″ drive metric mechanics tool set review: build quality, durability, and whether this 10-piece set earns its 4.8-star rating."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPZGTYMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710T4FgUWlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-polish chrome vanadium steel construction resists corrosion and wipes clean easily"
   - "120-tooth ratchet with 3-degree swing arc fits tight engine bay spaces"
   - "Laser-etched size markings stay legible after heavy use and grease exposure"
-cons:
+cons: 
   - "Metric-only sizing limits usefulness for DIYers working on older American vehicles"
   - "No extension bar or universal joint included — you'll need to buy those separately"
+
 ---
 
 Let me be direct: if you're shopping for a 3/8-inch drive metric socket set, you've probably already owned a cheap set that rounded a bolt at the worst possible moment. This CRAFTSMAN 10-piece set is not that set.

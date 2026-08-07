@@ -1,4 +1,5 @@
 ---
+
 title: "Brick Popper - Separator Tool - World's Fastest Brick Remove"
 seo_title: "Brick Popper Separator Tool Review: Fast Brick Removal"
 meta_description: "Brick Popper Separator Tool review: Does it really speed up brick removal? We test durability, ease of use, and value for LEGO fans."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BN286WYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zBjdxHRJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Splits stubborn 2x4 and larger bricks in a single squeeze with minimal effort"
   - "Ergonomic grip and wide jaw design protect fingernails from prying damage"
   - "Works on multiple brands of interlocking bricks, not just the name-brand ones"
-cons:
+cons: 
   - "Too bulky for separating tiny 1x1 or 1x2 bricks where the orange standard tool excels"
   - "Premium price compared to the $3 official brick separator"
+
 ---
 
 Let's be honest: prying apart stuck building bricks is the least fun part of any build. You've either got the classic orange tool that takes three attempts per brick, or you're using your teeth and regretting it. The Brick Popper claims to be the "world's fastest brick remover," and after testing it against a pile of stubborn 2x4s, that's not just marketing hype.

@@ -1,23 +1,25 @@
 ---
+
 title: "Hot Wheels Monster Trucks Stunt Tire Playset Review"
 seo_title: "Hot Wheels Monster Trucks Stunt Tire Playset Review (2026)"
 meta_description: "Honest Hot Wheels Monster Trucks Stunt Tire Playset review: build quality, stunt performance, and who should buy it. Rating 4.6/5."
 slug: "hot-wheels-monster-trucks-stunt-tire-playset-b0czsd-review"
 image_alt: "Hot Wheels Monster Trucks Stunt Tire Playset with launcher and giant tire obstacle"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZSDPFP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WMZ43-OlL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Launcher sends trucks through the tire with satisfying pop — works with most standard Monster Trucks, not just Hot Wheels-branded ones"  
   - "Tire is chunky, rubbery, and durable — survived a month of daily abuse from a 6-year-old without cracking"  
   - "Setup takes under 2 minutes and packs flat for storage — no tools, no screws"  
-cons:  
+cons: 
   - "The launcher requires a hard, flat surface to work reliably; on carpet or grass, trucks stall halfway"  
   - "Only one truck included — you'll want at least one more to get the full crash-and-bash effect"
+
 ---
 
 If your kid has ever watched a monster truck rally and immediately tried to launch a toy car off the couch, this playset speaks their language. The Hot Wheels Monster Trucks Stunt Tire is a single-obstacle launcher that does one thing — sends a truck flying through a giant rubber tire — and does it well enough to earn a 4.7 average from 235 Amazon reviewers. But "well enough" comes with conditions, and I'll get to those.

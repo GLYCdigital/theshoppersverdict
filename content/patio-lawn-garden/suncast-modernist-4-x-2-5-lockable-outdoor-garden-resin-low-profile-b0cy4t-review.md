@@ -1,4 +1,5 @@
 ---
+
 title: "Suncast Modernist 4' x 2.5' Lockable Outdoor Garden Resin Lo"
 seo_title: "Suncast Modernist 4' x 2.5' Lockable Outdoor Garde Review"
 meta_description: "Our full suncast modernist 4' x 2.5' lockable outdoor garden resin lo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CY4TZZ6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uVx37ktjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at a cluttered patio wondering where to hide the cushions, garden hose, and the kids' sidewalk chalk, the Suncast Modernist 4' x 2.5' deck box is a serious contender. It's not the cheapest option out there, but it might be the last one you need to buy.

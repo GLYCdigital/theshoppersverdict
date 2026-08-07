@@ -1,4 +1,5 @@
 ---
+
 title: "WLIVE Fabric Dresser TV Stand with 8 Drawers, LED Light, Pow"
 seo_title: "WLIVE Fabric Dresser TV Stand with 8 Drawers, LED  Review"
 meta_description: "Our full wlive fabric dresser tv stand with 8 drawers, led light, pow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6VH35TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qBjQ59ylL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The WLIVE Fabric Dresser TV Stand isn't trying to be heirloom furniture — and that's exactly why it works.**

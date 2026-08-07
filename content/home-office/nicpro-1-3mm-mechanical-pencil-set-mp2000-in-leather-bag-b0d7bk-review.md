@@ -1,4 +1,5 @@
 ---
+
 title: "Nicpro 1.3MM Mechanical Pencil Set MP2000 in Leather Bag"
 seo_title: "Nicpro 1.3MM Mechanical Pencil Set MP2000 in Leath Review"
 meta_description: "Our full nicpro 1.3mm mechanical pencil set mp2000 in leather bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7BK3T9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81X5-GjLXeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a 0.5mm lead snap on the third word of an important note, the Nicpro MP2000 set is designed as your answer. This is a mechanical pencil built for people who press hard, write fast, and are tired of babysitting delicate lead.

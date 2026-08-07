@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Fancy Feast Chicken Feast Classic Grain Free Wet Cat "
 seo_title: "Purina Fancy Feast Chicken Feast Classic Grain Fre Review"
 meta_description: "Our full purina fancy feast chicken feast classic grain free wet cat  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0012KH08M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uWL3UYSZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the pet food aisle wondering whether that 79-cent can is actually good for your cat, this review is for you. The Purina Fancy Feast Chicken Feast Classic has been a fridge staple in millions of homes for decades — but popularity alone doesn't make it nutritionally sound. Let's dig into what's actually in the can.

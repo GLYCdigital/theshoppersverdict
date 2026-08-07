@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde Hardwired Smoke & Carbon Monoxide Detector, 10-Year Ba"
 seo_title: "Kidde Hardwired Smoke & Carbon Monoxide Detector,  Review"
 meta_description: "Our full kidde hardwired smoke & carbon monoxide detector, 10-year ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXWP63F1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m5jCMLdzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A 10-Year Fire Safety Commitment That Actually Speaks to You**

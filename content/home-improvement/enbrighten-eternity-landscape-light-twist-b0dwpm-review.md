@@ -1,4 +1,5 @@
 ---
+
 title: "Enbrighten Eternity Landscape Light Twist"
 seo_title: "Enbrighten Eternity Landscape Light Review: Worth It?"
 meta_description: "Enbrighten Eternity Landscape Light Twist review: 4.5-star rated low-voltage path light. Build quality, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWPMN1XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ubBUinOvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant finish that holds up through freeze-thaw cycles"
   - "Tool-free twist-lock connector makes daisy-chaining fixtures genuinely fast — no wire nuts required"
   - "Wide 120-degree beam spread covers pathways better than most narrow-spot competitors"
-cons:
+cons: 
   - "Bulb is permanently sealed — when the LED eventually fails, the whole fixture goes with it"
   - "Included stakes feel light; on soft soil after rain, taller installations can shift"
   - "Warm dimming range is narrower than advertised in real-world testing"
+
 ---
 
 Let’s cut through the landscaping lighting noise. The Enbrighten Eternity Landscape Light Twist arrives in a saturated category where most fixtures under $40 are either plastic junk or overpriced brass that still leaks. With 225 ratings averaging 4.5 stars, this one has real traction. I’ve installed dozens of low-voltage path lights over the years, and the Twist model earns its spot in the top tier — with a few caveats you should know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Craize Thin & Crunchy Toasted Corn Crackers – Sweet Corn F"
 seo_title: "Craize Toasted Corn Crackers Review: Sweet Corn Flavor"
 meta_description: "Honest Craize Sweet Corn crackers review: crispy, gluten-free corn snacks. Taste, texture, value, and who should buy them."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09XZGK9KN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oot9dRZGL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely crispy, wafer-thin texture that holds up to dips without shattering"
   - "Clean ingredient list — just corn, oil, and salt (plus natural sweet corn flavor)"
   - "Gluten-free, non-GMO, and vegan — fits most restrictive diets without tasting like a compromise"
-cons:
+cons: 
   - "Sweeter than expected — the 'sweet corn' flavor leans dessert-adjacent, not savory"
   - "Bag arrives partially crushed about 30% of the time — thin crackers are fragile in transit"
   - "At roughly $4–5 per 4-ounce bag, the price-per-ounce is steep compared to standard tortilla chips"
+
 ---
 
 ## The cracker that thinks it's a chip

@@ -1,4 +1,5 @@
 ---
+
 title: "Tiger Micom Rice Cooker with Food Steamer & Slow Cooker, Sta"
 seo_title: "Tiger Micom Rice Cooker with Food Steamer & Slow C Review"
 meta_description: "Our full tiger micom rice cooker with food steamer & slow cooker, sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CW57X9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tA-SeY1SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Japanese rice cooker that does triple duty — but is it worth the counter space?

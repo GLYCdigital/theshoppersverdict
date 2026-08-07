@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's Chunky Soup"
 seo_title: "Campbell's Chunky Soup Review: Is It Worth It? (2026)"
 meta_description: "Campbell's Chunky Soup review: hearty portions, bold flavors, but high sodium. See if this pantry staple earns its 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FYN65PWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Svxel3DmL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 18.8oz can delivers actual chunks of beef and chicken, not just broth"
   - "Consistent hearty texture that holds up to microwaving without going mushy"
   - "24 flavors rotate well; the New England Clam Chowder is a standout"
-cons:
+cons: 
   - "Sodium levels run 790-890mg per can — a real concern if you watch salt intake"
   - "Some flavors (looking at you, Chicken Noodle) taste noticeably thinner than others"
+
 ---
 
 Let's be honest — the category says "coffee maker or coffee gear," but you're here because you typed "Campbell's Chunky Soup" into Amazon and got a 4.5-star product page. I'm not going to pretend this is a pour-over kettle. This is a canned soup. And as a canned soup, it's one of the best-selling, most-reviewed options on the platform. Here's what 225 Amazon buyers and my own spoon have to say.

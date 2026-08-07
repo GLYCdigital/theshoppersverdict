@@ -1,4 +1,5 @@
 ---
+
 title: "Eastman Dishwasher Installation Kit, 6 inch"
 seo_title: "Eastman Dishwasher Installation Kit 6 Review: Worth It?"
 meta_description: "Eastman Dishwasher Installation Kit 6 review: Is this all-in-one kit worth it? We break down quality, fit, and what buyers really say before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F815DL59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yc1yFC64L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Includes both 3/8-inch compression and 1/2-inch FIP supply line fittings, covering most standard US installations without extra trips to the hardware store"
   - "Braided stainless steel supply lines are 6 feet long with a 90-degree elbow on one end, making tight under-sink connections significantly easier"
   - "Drain hose is 6 feet with a built-in check valve, preventing backflow issues that cause standing water in the sump"
-cons:
+cons: 
   - "Does not include a power cord, which is a separate purchase for most dishwasher models"
   - "The included brass T-fitting is not compatible with PEX plumbing systems without buying an additional adapter"
+
 ---
 
 If you're staring at a new dishwasher still in the box and a pile of loose fittings that don't seem to go together, the Eastman Dishwasher Installation Kit, 6 is designed to end that confusion. This kit consolidates the essential connections—water supply, drain line, and mounting hardware—into one package. But is consolidating worth it versus piecing together parts from the hardware store? Let's break down what you actually get and where it earns its 4.7-star rating.

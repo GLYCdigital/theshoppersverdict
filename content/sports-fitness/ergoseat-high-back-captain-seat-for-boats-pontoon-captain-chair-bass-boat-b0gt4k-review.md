@@ -1,4 +1,5 @@
 ---
+
 title: "ERGOSEAT High Back Captain Seat for Boats Pontoon Captain Ch"
 seo_title: "ERGOSEAT High Back Captain Seat Review (2026): Worth It?"
 meta_description: "ERGOSEAT High Back Captain Seat review: 4.0★ from 200 ratings. Is it comfy for long days on the water? We break down build, comfort & value."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT4KBFKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71qwzU0Wt2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flip-up bolster lets you stand while driving at speed without fighting the seat sides"
   - "Thick 4-inch foam padding holds up on rough water — no bottoming out after a season"
   - "Universal 5-bolt mounting pattern fits most swivel bases and pedestals right out of the box"
-cons:
+cons: 
   - "Armrests sit low and narrow — bigger frames will feel squeezed on long runs"
   - "Vinyl runs hot in direct sun and needs regular conditioning to avoid cracking"
+
 ---
 
 If you spend more than an afternoon at the helm, you know the difference between a seat that holds you and one that just holds you up. The ERGOSEAT High Back Captain Seat sits in the middle — better than the stock foam slab most pontoons ship with, but not quite the luxury throne the marketing photos imply. With 200 ratings averaging 4.0 stars, the consensus is clear: this is a solid upgrade with a couple of real compromises.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot G2 Premium Retractable Gel-Ink Rolling Ball Pens, Bold"
 seo_title: "Pilot G2 Premium Retractable Gel-Ink Rolling Ball  Review"
 meta_description: "Our full pilot g2 premium retractable gel-ink rolling ball pens, bold review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G22MS3T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L4ZV5bJIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pilot G2 is the default recommendation when someone asks "what pen should I buy?" — and for good reason. But the Premium Bold version adds a twist worth examining before you spend.**

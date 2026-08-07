@@ -1,4 +1,5 @@
 ---
+
 title: "CHOEZON Storage Chest, Wooden Storage Bench, Storage Trunk w"
 seo_title: "CHOEZON Storage Chest Review: Wooden Bench & Trunk"
 meta_description: "Honest CHOEZON storage chest review: build quality, safety hinge, real-world use. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJMBD15B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uXFP8I6sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gas-piston safety hinge prevents the heavy lid from slamming shut on small fingers — a genuine child-safety feature, not a gimmick"
   - "Solid engineered wood construction rated to support a seated adult, so it works as both storage and seating"
   - "Neutral finish options blend into entryways, bedrooms, and playrooms without looking like a toy box"
-cons:
+cons: 
   - "Assembly requires patience; the included hex wrench is functional but cheap, and some buyers report misaligned pre-drilled holes"
   - "At roughly 30 pounds, it's not meant to be moved frequently once assembled — pick its spot before building"
+
 ---
 
 **A storage trunk that pulls double duty — but read this before you buy**

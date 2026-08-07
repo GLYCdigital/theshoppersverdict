@@ -1,4 +1,5 @@
 ---
+
 title: "MU Pilates Reformer, Foldable Reformer Pilates Machine & Equ"
 seo_title: "MU Pilates Reformer, Foldable Reformer Pilates Mac Review"
 meta_description: "Our full mu pilates reformer, foldable reformer pilates machine & equ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DN4JQ4XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ksGDz3DjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about home reformers: most are either cheap junk that wobbles or $2,000+ studio clones that require a spare room. The MU Pilates Reformer tries to split that difference at a mid-range price point. Here's what you're actually getting.

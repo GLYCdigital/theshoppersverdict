@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Sprout Pruners"
 seo_title: "Modern Sprout Pruners Review: Verdict | TSV"
 meta_description: "Our full modern sprout pruners review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMRQRX5W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I1Tz5m5sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought with dull, rusty pruners that crush stems instead of cutting them, you know the frustration. The Modern Sprout Pruners aim to fix that with Japanese stainless steel blades and a design that actually fits your hand. After testing these against my usual go-to pair, here's the honest breakdown.

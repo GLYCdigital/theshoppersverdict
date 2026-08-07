@@ -1,4 +1,5 @@
 ---
+
 title: "Arcedo Waterproof Outside Lounge Chair Covers 2 Pack, Heavy"
 seo_title: "Arcedo Waterproof Lounge Chair Covers Review (2-Pack, Heavy)"
 meta_description: "Arcedo waterproof lounge chair covers review: durable 2-pack, true waterproofing, real-world fit on chaise lounges. Honest pros, cons, and buying verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08W39L21P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sV4FYWA8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterproofing — water beads and rolls off, no soaking through after heavy rain"
   - "Built-in air vents reduce interior condensation, preventing mildew on cushions"
   - "Strong buckled straps keep covers secured even in gusty conditions"
-cons:
+cons: 
   - "Fabric runs slightly small on extra-wide or extra-tall chaise lounges — measure first"
   - "No built-in handle or storage bag, which makes off-season storage clumsier"
+
 ---
 
 Let's be blunt: most patio furniture covers are glorified plastic bags that disintegrate after one season. The Arcedo 2-pack is not that. After digging through 220 verified ratings and the spec sheet, here's what actually matters before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Spray, Squirt & Squeegee Play Set - Pretend P"
 seo_title: "Melissa & Doug Spray, Squirt & Squeegee Play Set - Review"
 meta_description: "Our full melissa & doug spray, squirt & squeegee play set - pretend p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B012WE77UM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EktvMIS1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most pretend cleaning sets are cheap plastic junk that breaks within a week. This one isn't. The Melissa & Doug Spray, Squirt & Squeegee Play Set has earned its 4.8-star rating across 240 reviews because it nails the one thing that matters most — it makes pretend play feel real enough that kids actually stay engaged.

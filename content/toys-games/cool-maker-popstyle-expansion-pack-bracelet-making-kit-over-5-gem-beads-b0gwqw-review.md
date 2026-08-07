@@ -1,4 +1,5 @@
 ---
+
 title: "Cool Maker, PopStyle Expansion Pack, Bracelet Making Kit, Ov"
 seo_title: "Cool Maker PopStyle Expansion Pack Review: Worth It? (2026)"
 meta_description: "Cool Maker PopStyle Expansion Pack review: gem beads, bracelet-making fun. See what buyers love, what falls short, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWQWTFPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sBkHf17DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pops into the base Cool Maker PopStyle machine for zero-mess bracelet making — no glue, no clips"
   - "Over 5 gem bead varieties included, giving kids real design flexibility beyond the starter kit"
   - "Extra bands and connectors mean the kit stays useful long after the first project is done"
-cons:
+cons: 
   - "Requires the separate PopStyle starter machine — this expansion pack alone won't make bracelets"
   - "Beads are small; younger kids (under 8) will likely need adult help to avoid frustration"
   - "Some buyers report the pop-out mechanism needs a firm push to seat beads securely"
+
 ---
 
 If you've already got the Cool Maker PopStyle starter set sitting in the craft bin, the expansion pack is the natural next step. But here's the catch — this is strictly an add-on. You need the base machine (sold separately) for any of this to work. That's not a flaw, but it's the first thing to know before you click add to cart.

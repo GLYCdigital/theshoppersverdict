@@ -1,4 +1,5 @@
 ---
+
 title: "Frozen Toys for Girls Mini Karaoke Machine for Kids Princess"
 seo_title: "Frozen Karaoke Machine for Girls Review: Is It Worth It?"
 meta_description: "Honest Frozen mini karaoke machine review for girls. Tested mic quality, Bluetooth, and durability. See if this princess toy delivers before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F294ZSM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fj+3mzY2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in Frozen songs and sound effects that actually sync with the character theme, not just generic kids' tunes"
   - "Surprisingly sturdy construction for the price point — survives typical toddler drops without cracking"
   - "Bluetooth pairing works within 10 seconds on both iOS and Android, and the mic volume is adjustable separately from music"
-cons:
+cons: 
   - "Battery life runs about 3-4 hours of continuous use, so keep the charging cable handy for road trips"
   - "The included microphones are on the smaller side — better for ages 3-6 than older kids with bigger hands"
+
 ---
 
 Let me be direct: most kids' karaoke machines are cheap plastic noise-makers that die within a month. This Frozen-themed one from the current Amazon lineup is different — and the 4.6-star average across 229 ratings backs that up.

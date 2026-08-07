@@ -1,4 +1,5 @@
 ---
+
 title: "DASH Shaved Ice Maker and Slushie Machine,Multi-Purpose Ice"
 seo_title: "DASH Shaved Ice Maker Review: Slushies & Snow Cones"
 meta_description: "DASH Shaved Ice Maker review: Does this multi-purpose ice shaver deliver fluffy snow cones? We tested performance, noise, and cleanup. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F559CC9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KSa2O15zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Shaves regular ice cubes from your freezer tray — no need to buy bagged ice or freeze special blocks"
   - "Compact footprint (roughly 8 x 10 inches) fits under standard upper cabinets without hogging counter space"
   - "Includes two reusable shave cups and a pour spout for transferring ice to snow cone molds or slushie glasses"
-cons:
+cons: 
   - "Motor bogs down if you overload the chute — you must feed ice cubes one at a time, which slows down big batches"
   - "Shaved ice melts fast if you don't serve immediately; there's no built-in ice storage bin, just the collection cup"
   - "Plastic housing feels light and a bit flimsy; aggressive pushing can crack the ice hopper lid"
+
 ---
 
 If you've priced snow cone syrup lately, you know the markup is criminal. The DASH Shaved Ice Maker and Slushie Machine promises to fix that for under what a single carnival visit costs. But does a $30-ish countertop gadget actually deliver fluffy, snow-cone-quality ice — or just crushed chunks that melt before you grab a spoon? I tested it with standard freezer cubes, bagged ice, and even tried the slushie function. Here's the honest breakdown.

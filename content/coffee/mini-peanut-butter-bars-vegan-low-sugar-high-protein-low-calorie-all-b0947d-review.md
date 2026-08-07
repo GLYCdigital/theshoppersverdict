@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Peanut Butter Bars â€“ Vegan, Low Sugar, High Protein, "
 seo_title: "Mini Peanut Butter Bars â€“ Vegan, Low Sugar, High Review"
 meta_description: "Our full mini peanut butter bars â€“ vegan, low sugar, high protein,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0947D976Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eX81PI9LL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The snack that actually fits your macros — if you can stop at one**

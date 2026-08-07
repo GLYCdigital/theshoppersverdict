@@ -1,4 +1,5 @@
 ---
+
 title: "#8 Double Window Security Check Envelopes, No.8 Double Windo"
 seo_title: "#8 Double Window Security Envelopes Review: Check & Invoice Mailers"
 meta_description: "Honest #8 double window security check envelope review. See if these 3.5x6.5 mailers with tinted security lining are worth buying for billing."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B085VV4BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DMk-tjZ3L._AC_SL1468_.jpg"
-pros:
+pros: 
   - "Double security tint makes check amounts illegible even under bright light"
   - "Two windows align perfectly for standard #8 check and return address layouts"
   - "Self-seal adhesive strip holds firmly after one press — no licking, no moisture"
-cons:
+cons: 
   - "Paper is lighter weight than premium brands — thin enough to feel flimsy"
   - "Windows are slightly narrower than some check formats; oversized checks may shift"
+
 ---
 
 You're about to mail invoices, payroll, or client checks. The last thing you need is a check that shows through the envelope like a billboard. That's the job these #8 double window security envelopes are built for — and after digging through 235 ratings and the spec sheet, here's what actually matters before you buy.

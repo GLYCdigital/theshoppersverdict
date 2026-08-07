@@ -1,4 +1,5 @@
 ---
+
 title: "Aneken AL-139 Counterfeit Bill Detector with 2.8 inch  Digital Sc"
 seo_title: "Aneken AL-139 Review: Accurate Bill Detector for Small Business"
 meta_description: "Honest Aneken AL-139 counterfeit bill detector review: 2.8 inch  screen, dual UV/MG detection, real-world accuracy, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3WSCKV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wk1GFSzQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual UV and magnetic ink detection catches both modern polymer bills and older US currency designs"
   - "2.8-inch color display shows denomination and detection results clearly, even in bright retail lighting"
   - "Compact footprint (roughly the size of a thick novel) fits on cramped registers without blocking card readers"
-cons:
+cons: 
   - "Manual feed slot only — no auto-stacking hopper, so processing a large cash drawer takes a few minutes"
   - "Power adapter is short (about 3 feet); placement near an outlet is mandatory unless you use batteries"
+
 ---
 
 Walk into any small business that handles cash daily, and you'll find a pile of counterfeit-detection tools that range from the useless (the marker that bleeds on everything) to the overkill (a $600 machine built for casino floors). The Aneken AL-139 sits squarely in the middle — a compact, dual-method detector that most independent retailers and food vendors actually need. After reviewing the specs, user feedback, and the 4.2-star average across 210 ratings, here's the real picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "GO&SO Bell Lamp Shades (Petal Edge Braid) Scalloped Lamp Sha"
 seo_title: "GO&SO Bell Lamp Shades (Petal Edge Braid) Scallope Review"
 meta_description: "Our full go&so bell lamp shades (petal edge braid) scalloped lamp sha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJJFSZJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ldMp7mKDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most replacement lamp shades look like afterthoughts. You buy them, they sit crooked, the trim frays, or they cast a shadow that makes your living room feel like a interrogation room. The GO&SO Bell Lamp Shade with Petal Edge Braid is not that shade. It’s the one that makes you notice the lamp again — in a good way.

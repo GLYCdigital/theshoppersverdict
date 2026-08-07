@@ -1,4 +1,5 @@
 ---
+
 title: "Transformers Age of The Primes Combaticon Onslaught, Command"
 seo_title: "Transformers Age of The Primes Combaticon Onslaugh Review"
 meta_description: "Our full transformers age of the primes combaticon onslaught, command review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FJQNQGCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ukpRPjQWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Combaticons are finally getting the Commander-class treatment they deserve, and Onslaught leads the charge. If you've been waiting for a definitive Bruticus torso that doesn't compromise on presence, this Age of the Primes release is the one you've been circling. But at this price point, you need to know exactly what you're getting before you commit.

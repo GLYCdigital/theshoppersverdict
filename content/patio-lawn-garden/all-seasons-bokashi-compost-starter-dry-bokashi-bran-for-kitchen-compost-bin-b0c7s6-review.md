@@ -1,4 +1,5 @@
 ---
+
 title: "All Seasons Bokashi Compost Starter - Dry Bokashi Bran for K"
 seo_title: "All Seasons Bokashi Compost Starter Review (2026): Worth It?"
 meta_description: "Honest All Seasons Bokashi Compost Starter review: Does this dry bran really speed up kitchen composting? Tested performance, smells, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7S67T32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816R8bX8C-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Inoculated with 12+ effective microorganism strains — actively ferments food waste rather than just masking odors like cheaper bran brands"
   - "Dry, scoopable texture makes layering in a bokashi bin genuinely mess-free compared to wet or clumpy alternatives"
   - "One 5.5-lb bag handles roughly 3 months of daily kitchen scraps for a standard 5-gallon bin — strong value per use"
-cons:
+cons: 
   - "Requires consistent layering (about 2 tbsp per inch of waste) — skipping layers leads to sour smells and slower breakdown"
   - "No resealable closure on the bag; you'll want a clip or transfer to a container or the bran absorbs humidity and clumps"
+
 ---
 
 If you've ever opened a compost bin and been hit with the smell of rotting vegetables rather than earthy soil, you know the struggle. The All Seasons Bokashi Compost Starter takes a different approach — it doesn't just cover up odors, it actively ferments your kitchen scraps using a proprietary blend of effective microorganisms. After testing this dry bran for several weeks, here's the honest breakdown.

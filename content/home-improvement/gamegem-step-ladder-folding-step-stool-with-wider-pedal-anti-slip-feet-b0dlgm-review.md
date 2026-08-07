@@ -1,4 +1,5 @@
 ---
+
 title: "GameGem Step Ladder, Folding Step Stool with Wider Pedal, An"
 seo_title: "GameGem Step Ladder Review: Wider Pedal, Anti-Slip Feet"
 meta_description: "GameGem folding step stool review: wider pedal, anti-slip feet, 330-lb capacity. Is it worth it? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLGMFTJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xs8RTMF2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Wider-than-average pedal (roughly 13 inches across) gives your whole foot a stable platform — not just the ball of your foot"
   - "Anti-slip rubber feet grip tile, hardwood, and concrete without scratching; ladder stays planted even on smooth kitchen floors"
   - "Folds flat to about 2 inches thick — slides under a sofa or into a pantry gap without eating floor space"
-cons:
+cons: 
   - No handrail or top handle — if you're over 5'8 inch or need to reach above eye level, you'll want a taller ladder with a grab bar
   - "Compact step height (around 9 inches) means it's a step stool, not a ladder — don't buy this expecting to change a ceiling light"
+
 ---
 
 The GameGem folding step stool solves a problem most ladder manufacturers ignore: your foot shouldn't hang off the edge when you're reaching for the top shelf. At 4.7 stars from 235 Amazon ratings, this compact stool has clearly found its audience. But it's not for everyone. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Furniture Key West 2 Drawer Lateral File Cabinet in Dark Gray Review"
 seo_title: "Bush Furniture Key West Lateral File Cabinet Review (2026)"
 meta_description: "Honest Bush Furniture Key West 2 Drawer Lateral File Cabinet review: build quality, real-world use, pros/cons, and who should buy it. 4.4-star rated."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJH88W6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61okMXIJf6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled shipping — no tools, no frustration, usable in minutes"
   - "Solid wood top and drawer fronts at a price point where most competitors use particleboard"
   - "Full-extension ball-bearing slides let you reach files in the back without a fishing expedition"
-cons:
+cons: 
   - "Dark Gray finish shows fingerprints and dust quickly — keep a microfiber cloth nearby"
   - "Rated for letter-size files only; legal-size hanging folders won't fit without bending"
+
 ---
 
 Let's be blunt: most lateral file cabinets under $300 are flimsy metal boxes or particleboard nightmares that wobble the first time you pull a drawer. The Bush Furniture Key West 2 Drawer Lateral File Cabinet in Dark Gray is neither of those things. With 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right — and after digging into what buyers actually say, here's the real story.

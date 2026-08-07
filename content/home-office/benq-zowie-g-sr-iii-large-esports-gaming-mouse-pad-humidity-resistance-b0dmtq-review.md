@@ -1,4 +1,5 @@
 ---
+
 title: "BenQ Zowie G-SR III Large Esports Gaming Mouse Pad, Humidity"
 seo_title: "BenQ Zowie G-SR III Review: Humidity-Resistant Pad for Gamers"
 meta_description: "BenQ Zowie G-SR III Large mouse pad review: testing glide, humidity resistance, and durability. Is this esports pad worth $60? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMTQ9922/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61euQMBogoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Industry-leading humidity resistance keeps glide consistent through sweaty hands and humid rooms"
   - "Dense 3.5mm base with stitched edges flattens immediately and stays flat on any desk"
   - "Balanced control surface hits the sweet spot between speed and stopping power for tactical shooters"
-cons:
+cons: 
   - "Large size (510×470mm) won't fit shallow desks or small setups"
   - "Distinctive rubber smell lingers for several days out of the box"
   - "Surface texture is rougher than older G-SR models — takes getting used to"
+
 ---
 
 Let's be direct: the BenQ Zowie G-SR III is the mouse pad that competitive FPS players have been asking for since 2019. The original G-SR was legendary but had a fatal flaw — it turned into a swamp when humidity spiked. The G-SR III fixes that with a redesigned surface that resists moisture absorption. But at a premium price with a rough texture, is it worth upgrading? Here's what 220 buyers and my own research say.

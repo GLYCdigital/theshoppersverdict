@@ -1,4 +1,5 @@
 ---
+
 title: "Pemberly Row 3-Piece Traditional Solid Wood Breakfast Nook S"
 seo_title: "Pemberly Row 3-Piece Traditional Solid Wood Breakf Review"
 meta_description: "Our full pemberly row 3-piece traditional solid wood breakfast nook s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FB87Q9LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511oRwnIaIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a breakfast nook, you've probably seen a dozen sets that look identical online. Here's what separates the Pemberly Row 3-Piece Traditional Solid Wood set from the pack: it's actually solid wood, and both benches hide storage underneath. That combination is rarer than you'd think in the under-$600 furniture zone.

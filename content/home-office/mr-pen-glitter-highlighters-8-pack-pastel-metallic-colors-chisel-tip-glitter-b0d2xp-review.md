@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Pen- Glitter Highlighters, 8 Pack, Pastel & Metallic Col"
 seo_title: "Mr. Pen- Glitter Highlighters, 8 Pack, Pastel & Me Review"
 meta_description: "Our full mr. pen- glitter highlighters, 8 pack, pastel & metallic col review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2XPJ9WJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FpsWUqj3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most glitter highlighters are a gimmick. You buy them, swipe across a page, and get a faint shimmer that disappears under office lighting. The Mr. Pen Glitter Highlighters, 8 Pack, are not that. These actually deliver visible sparkle — real glitter suspended in the ink, not just a pearlescent sheen. At 4.5 stars from 225 Amazon ratings, they’ve earned a following among bullet journalers and students. Here’s the full story.

@@ -1,4 +1,5 @@
 ---
+
 title: "True Strike Pro Football Kicking Tee - Ultimate Football Tee"
 seo_title: "True Strike Pro Football Kicking Tee - Ultimate Fo Review"
 meta_description: "Our full true strike pro football kicking tee - ultimate football tee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DN1Q1TGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S3hzV3-kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Kicking tees are a dime a dozen. Most are flimsy plastic blocks that crack by midseason or wobble when you need them most. The True Strike Pro claims to be different. After digging through 229 ratings and the specs, here's the real story.

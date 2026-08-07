@@ -1,4 +1,5 @@
 ---
+
 title: "Office Depot Extra Bright Copy Paper, 8 1/2in. x 11in., 20 L"
 seo_title: "Office Depot Extra Bright Copy Paper, 8 1/2in. x 1 Review"
 meta_description: "Our full office depot extra bright copy paper, 8 1/2in. x 11in., 20 l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00006IDRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VbZitEVcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: copy paper is about as exciting as printer ink, but that doesn’t mean you should grab the cheapest ream on the shelf. The **Office Depot Extra Bright Copy Paper (8.5 x 11, 20 lb)** sits in a sweet spot—bright enough for professional-looking documents without the premium markup of 98-brightness brands. With a 4.6-star average across 229 ratings, it’s clearly doing something right. Here’s the real breakdown.

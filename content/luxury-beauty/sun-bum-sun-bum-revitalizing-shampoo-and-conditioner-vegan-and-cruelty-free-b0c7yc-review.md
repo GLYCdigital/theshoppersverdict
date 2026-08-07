@@ -1,4 +1,5 @@
 ---
+
 title: "Sun Bum Sun Bum Revitalizing Shampoo and Conditioner Vegan a"
 seo_title: "Sun Bum Sun Bum Revitalizing Shampoo and Condition Review"
 meta_description: "Our full sun bum sun bum revitalizing shampoo and conditioner vegan a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7YCGYP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IPLfHs3uL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'm going to be straight with you: the hair care aisle is a minefield of overpriced, over-perfumed bottles that promise "revitalization" and deliver a greasy scalp. So when Sun Bum — a brand better known for sunscreen — dropped a shampoo and conditioner duo, I was skeptical. After digging through 225 ratings and testing the formulas myself, here's the honest breakdown.

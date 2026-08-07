@@ -1,4 +1,5 @@
 ---
+
 title: "Goodman Mini-Split AC/Heating System E-Series | 18 SEER2, 90"
 seo_title: "Goodman Mini-Split AC/Heating System E-Series | 18 Review"
 meta_description: "Our full goodman mini-split ac/heating system e-series | 18 seer2, 90 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW7CYR6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61z7TqgBIUL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a mini-split, you've probably noticed the price gap between budget brands and the premium Japanese names. The Goodman E-Series sits right in that middle ground — and for many homeowners, it's the sweet spot. Here's what you actually need to know before you commit.

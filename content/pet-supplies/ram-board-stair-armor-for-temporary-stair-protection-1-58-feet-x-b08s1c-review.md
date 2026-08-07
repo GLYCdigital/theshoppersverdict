@@ -1,4 +1,5 @@
 ---
+
 title: "Ram Board Stair Armor for Temporary Stair Protection, 1.58 f"
 seo_title: "Ram Board Stair Armor for Temporary Stair Protecti Review"
 meta_description: "Our full ram board stair armor for temporary stair protection, 1.58 f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08S1CC21L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-2JfblLNL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Ram Board Stair Armor Review: Does This 1.58-Ft Roll Actually Protect Your Stairs?

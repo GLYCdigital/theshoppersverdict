@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Realyn French Country Youth 6 Dra"
 seo_title: "Signature Design by Ashley Realyn French Country Y Review"
 meta_description: "Our full signature design by ashley realyn french country youth 6 dra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFPJ79NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+gqei6sbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Signature Design by Ashley Realyn French Country Youth 6-Drawer Dresser** is the rare piece of kids' furniture that doesn't look like it belongs in a kids' room. At first glance, it reads as a proper antique-inspired French country piece — the chipped gray finish, the curved bun feet, the scalloped top edge. Then you open a drawer and realize it's built for the chaos of actual childhood.

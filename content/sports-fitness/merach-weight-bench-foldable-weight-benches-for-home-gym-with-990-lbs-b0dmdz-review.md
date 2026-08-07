@@ -1,4 +1,5 @@
 ---
+
 title: "MERACH Weight Bench, Foldable Weight Benches for Home Gym wi"
 seo_title: "MERACH Weight Bench, Foldable Weight Benches for H Review"
 meta_description: "Our full merach weight bench, foldable weight benches for home gym wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMDZDFGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711x+zQ4qDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MERACH Foldable Weight Bench: A 990-lb Promise That Mostly Delivers**

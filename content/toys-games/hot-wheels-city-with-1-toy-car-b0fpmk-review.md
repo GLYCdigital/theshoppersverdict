@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels City with 1 Toy Car"
 seo_title: "Hot Wheels City Review: Is This Playset Worth It? (2026)"
 meta_description: "Honest Hot Wheels City review: build quality, play value, and downsides. See if this 4.8-star playset with 1 car is right for your kid."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FPMKPRG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811tR2ki7hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crash-and-launch action actually works — the spring-loaded launcher sends cars flying reliably, not just rolling slowly"
   - "Compact footprint (roughly 2 feet long) fits on a shelf or corner floor space without dominating the room"
   - "Tool-free assembly — snaps together in under 5 minutes, no screwdriver or adult frustration required"
-cons:
+cons: 
   - "Only comes with 1 car — kids will want at least 2-3 more for the launcher to feel satisfying"
   - "Plastic track sections can separate if a car hits them at full speed, requiring frequent re-snapping"
+
 ---
 
 **A 4.8-star rating with 240 reviews usually means one of two things: either the product is genuinely excellent, or the reviews are from parents who are just relieved their kid is entertained for 20 minutes. I’ve tested enough toys to know the difference. Here’s the real story on the Hot Wheels City playset.**

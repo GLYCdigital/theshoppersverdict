@@ -1,4 +1,5 @@
 ---
+
 title: "Harvopu Compatible for iPad Air 11 inch & Air 5th/ Air 4th G"
 seo_title: "Harvopu Compatible for iPad Air 11 inch & Air 5th/ Review"
 meta_description: "Our full harvopu compatible for ipad air 11 inch & air 5th/ air 4th g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7RQWXF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fE4GaEDOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about this case: it's not trying to be the thinnest thing you'll ever slap on an iPad. It's trying to survive. And on that front, the Harvopu case for iPad Air (covering the 11-inch M2/M3, plus the 4th and 5th gen models) mostly delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Brass Solid Bar (10-Pack) Cabinet Handles 3 inch  Hole C"
 seo_title: "Franklin Brass Solid Bar Handles Review: 10-Pack Value (2026)"
 meta_description: "Franklin Brass Solid Bar 10-pack cabinet handles review: build quality, finish durability, and installation tips. Is this 3-inch bar pull worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FZJNPTQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613OALKLOeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a continuous metal bar — no hollow feel or flex when pulled"
   - "Three-inch hole center spacing fits the vast majority of existing cabinet drillings, making this a true drop-in replacement"
   - "Includes mounting screws and a template in the box, so you won't make a second trip to the hardware store"
-cons:
+cons: 
   - "Finish options are limited to basic brushed nickel and oil-rubbed bronze — no matte black or champagne bronze available"
   - "Screws included are standard Phillips; a Torx head would have been nicer for higher torque without stripping"
   - "No plastic spacer washers included, so on thinner cabinet doors the screws can bottom out before snugging down"
+
 ---
 
 Let's be honest about cabinet hardware: most of it is overpriced junk designed to look good in a render and fall apart in year two. The Franklin Brass Solid Bar 10-pack sits in a different category. At roughly $2.50 per handle (when you catch it on sale), it's priced like the disposable stuff but built like something that costs twice as much.

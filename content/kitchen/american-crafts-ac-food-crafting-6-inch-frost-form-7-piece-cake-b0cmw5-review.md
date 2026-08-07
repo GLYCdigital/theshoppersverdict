@@ -1,4 +1,5 @@
 ---
+
 title: "American Crafts AC Food Crafting 6-Inch Frost Form 7-Piece C"
 seo_title: "American Crafts 6-Inch Frost Form Review: Worth It? (2026)"
 meta_description: "Honest American Crafts 6-Inch Frost Form 7-piece review: build quality, real baking results, who should buy it, and where it falls short. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CMW5LWZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XYBBnfxpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes 5 distinct texture stencils plus a smoothing scraper and reusable storage case — everything needed for patterned buttercream in one box"
   - "Stencils are rigid enough to hold shape against cold frosting without buckling, even on the sides of a 6-inch cake"
   - "Food-grade PET plastic is dishwasher-safe on the top rack, making cleanup genuinely easy"
-cons:
+cons: 
   - "Only fits 6-inch cakes — anything larger requires buying a separate kit, which adds cost"
   - "Texture patterns can drag or smudge if your frosting isn't chilled to near-stiff consistency first"
   - "No printed instructions included; you'll need to watch a video tutorial to get the technique right"
+
 ---
 
 If you've ever watched a bakery pipe a perfect basketweave or chevron pattern onto a cake and thought "I could do that," the American Crafts AC Food Crafting 6-Inch Frost Form kit is here to test that theory. This 7-piece set promises bakery-style textured frosting without the years of piping practice — but does it actually deliver, or does it just create frosting art for people with more patience than skill?

@@ -1,4 +1,5 @@
 ---
+
 title: "BarberPub 59.5 inch  Waiting Room Bench, Faux Leather Office Gues"
 seo_title: "BarberPub 59.5 inch  Waiting Room Bench Review: Worth It?"
 meta_description: "BarberPub 59.5 inch  waiting room bench review: real buyer feedback on faux leather durability, assembly, and comfort. Is this reception bench worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TS37Q1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VRGWTlZAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Three-seat capacity (59.5 inch " width) fits standard reception areas without overwhelming small lobbies
   - "High-density foam cushioning holds up under daily use based on 229 ratings averaging 4.6 stars"
   - "Faux leather surface wipes clean with a damp cloth — practical for high-traffic waiting rooms"
-cons:
+cons: 
   - "Faux leather can feel stiff initially and may crack over 2-3 years in very hot or dry climates"
   - "Assembly requires two people to flip the bench upright safely — do not attempt solo"
+
 ---
 
 If you run a barbershop, dental office, or any business where people wait, you already know the drill: cheap waiting chairs wobble, fabric seats stain, and guests judge your operation by what they sit on. The BarberPub 59.5" Waiting Room Bench aims to solve that with a three-seat faux leather design that looks far more expensive than it costs. With 229 ratings averaging 4.6 out of 5, this bench has clearly found an audience. But is it right for *your* space? Let's dig in.

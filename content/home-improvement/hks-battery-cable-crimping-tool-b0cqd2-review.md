@@ -1,4 +1,5 @@
 ---
+
 title: "HKS Battery Cable Crimping Tool"
 seo_title: "HKS Battery Cable Crimping Tool Review: Verdict | TSV"
 meta_description: "Our full hks battery cable crimping tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQD2XC3M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zNNFu20wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever crushed a battery lug with a hammer-and-punch setup or watched a cheap crimper spit out a half-pressed connector, you know the pain. The HKS Battery Cable Crimping Tool is aimed squarely at that frustration. With 220 ratings averaging 4.4 stars, it's clearly earning its keep in garages and marine shops. But is it the right crimper for your specific work? Let's dig into what this tool actually delivers.

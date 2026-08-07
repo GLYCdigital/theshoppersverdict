@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf 300 Pro Laser Rangefinder"
 seo_title: "Callaway Golf 300 Pro Review: Is It Worth It? (2026)"
 meta_description: "Callaway Golf 300 Pro laser rangefinder review: 6x magnification, slope mode, and accuracy tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMJQ2SJG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71coixLMpNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slope mode with 1-yard accuracy on measured distances, confirmed by multiple user tests"
   - "6x magnification with crisp, bright optics that hold up in low-light conditions"
   - "Rapid target acquisition — locks onto the flag in under a second without hunting"
-cons:
+cons: 
   - "No vibration alert on the standard model; you rely solely on the digital readout"
   - "Battery door feels flimsy and can pop open if dropped in the cart cup holder"
+
 ---
 
 The Callaway 300 Pro is the rangefinder that keeps showing up in "best value" lists, and after testing it against pricier Bushnells and older Nikon models, I get why. It hits the accuracy benchmarks that matter — within 1 yard at 200+ feet — while undercutting the premium competition by a solid margin. But it's not perfect, and the compromises are worth knowing before you click buy.

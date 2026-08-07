@@ -1,4 +1,5 @@
 ---
+
 title: "Play Tent with Mat, Star Light Large Kids Playhouse with Win"
 seo_title: "Play Tent with Mat, Star Light Large Kids Playhous Review"
 meta_description: "Our full play tent with mat, star light large kids playhouse with win review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYF8J1GQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j3q9o0h7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this tent a magical hideaway or just another plastic fortress that collapses after a week? I tested the Play Tent with Mat and Star Light to find out.**

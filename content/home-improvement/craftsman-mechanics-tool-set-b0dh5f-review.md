@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Mechanics Tool Set"
 seo_title: "CRAFTSMAN Mechanics Tool Set Review (2026): Worth It?"
 meta_description: "CRAFTSMAN Mechanics Tool Set review: 4.7-star rated. See what's inside, build quality, pros/cons, and who should buy this 200+ piece socket set."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH5FSYT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sihLLyYVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full-polish chrome vanadium sockets resist rust and wipe clean easily, even after brake dust exposure"
   - "Quick-release ratchets with 90-tooth mechanism require only 4 degrees of swing — fits tight engine bays"
   - "Laser-etched size markings stay legible after months of shop use, unlike stamped sets that wear off"
-cons:
+cons: 
   - "Case latches feel flimsy; one reviewer reported a latch cracking after a drop from a workbench"
   - "No 10mm deep-well socket in SAE sizes — an odd omission for a mechanics-focused kit"
+
 ---
 
 Here's the thing about the CRAFTSMAN Mechanics Tool Set: it's not trying to be the fanciest set on the shelf. It's trying to be the one you grab without thinking for the next decade. And based on 235 ratings averaging 4.7 stars, it's mostly pulling that off.

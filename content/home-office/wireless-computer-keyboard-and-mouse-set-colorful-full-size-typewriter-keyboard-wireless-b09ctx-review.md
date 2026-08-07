@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Computer Keyboard and Mouse Set, Colorful Full Size"
 seo_title: "Wireless Computer Keyboard and Mouse Set, Colorful Review"
 meta_description: "Our full wireless computer keyboard and mouse set, colorful full size review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09CTX6DZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610du7DU4GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # This Colorful Wireless Keyboard Set Looks Cute — But Is It Actually Good?

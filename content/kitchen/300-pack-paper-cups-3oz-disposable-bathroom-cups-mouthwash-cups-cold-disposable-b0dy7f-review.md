@@ -1,4 +1,5 @@
 ---
+
 title: "[300 Pack] Paper Cups, 3oz Disposable Bathroom Cups, Mouthwa"
 seo_title: "3oz Disposable Paper Cups Review: 300-Pack Bathroom Essential"
 meta_description: "Honest 300-pack 3oz paper cup review: perfect for mouthwash, meds, and bathroom rinsing. See pros, cons, and who should buy these disposable cups."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY7FBNT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Kvi4KhRBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3oz capacity — holds a standard mouthwash capful with room to spare"
   - "Wax-lined interior prevents soggy collapse mid-rinse, even with cold water"
   - "300-count bulk pack works out to roughly 2 cents per cup"
-cons:
+cons: 
   - "No hot-liquid rating — don't use for coffee or tea top-ups"
   - "Thin paper means they crush easily if you grip too hard"
+
 ---
 
 Let’s be honest: you don’t buy a 300-pack of 3oz paper cups because you’re excited. You buy them because you’re tired of fighting with a slippery glass in the bathroom, or because your kids treat the medicine cup like a frisbee. The question is whether this particular stack of cups earns the drawer space. After digging through the specs and 229 buyer ratings, here’s the real story.

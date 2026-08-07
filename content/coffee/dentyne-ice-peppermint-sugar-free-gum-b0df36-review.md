@@ -1,4 +1,5 @@
 ---
+
 title: "Dentyne Ice Peppermint Sugar Free Gum"
 seo_title: "Dentyne Ice Peppermint Gum Review: Worth It? (2026)"
 meta_description: "Dentyne Ice Peppermint Sugar Free Gum review: intense cooling, long-lasting flavor, and real-world performance. Is it worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF36TX85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K2nO497pL._SL1500_.jpg"
-pros:
+pros: 
   - "Intense cooling sensation that actually lasts 10-15 minutes, not the typical 3-4 minute fade most gums hit"
   - "Pellets stay firm and chewy without turning to mush or crumbling, even after 20 minutes of active chewing"
   - "Sugar-free formula with xylitol doesn't leave that sticky sugar coating on your teeth that other gums do"
-cons:
+cons: 
   - "Cooling is aggressive — if you're sensitive to menthol or mint, this will overwhelm you fast"
   - "Flavor drops off noticeably after 15 minutes, so you'll be reaching for a fresh piece sooner than with pricier long-lasting gums"
+
 ---
 
 Let me be honest upfront: Dentyne Ice Peppermint has been around for decades, and for good reason. But with 229 Amazon ratings sitting at a strong 4.6/5, I wanted to see if this gum actually earns its reputation or if it's coasting on nostalgia. I chewed through an entire bottle over two weeks to give you the straight story.

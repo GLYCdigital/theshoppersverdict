@@ -1,4 +1,5 @@
 ---
+
 title: "Beetles Gel Base and Top Coat Set, 2pcs 10ml Shine Finish an"
 seo_title: "Beetles Gel Base & Top Coat Set Review (2026): Worth It?"
 meta_description: "Honest Beetles Gel Base and Top Coat Set review: 4.5-star rated, 10ml shine finish. Does it last? We tested wear, shrinkage, and value. Read before buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FM2C3RW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d9sr6iQZL._SL1500_.jpg"
-pros:
+pros: 
   - "High-gloss, non-yellowing top coat holds shine for 2+ weeks without dulling"
   - "Self-leveling base coat minimizes brush strokes, reducing filing time"
   - "Low-viscosity formula spreads thin — two 10ml bottles outlast typical 15ml drugstore sets"
-cons:
+cons: 
   - "10ml bottles are smaller than salon standard 15ml — heavy users repurchase monthly"
   - "Requires full 60-second LED cure; UV lamps (6-9W) leave tacky residue"
   - "No included cleanser or wipes — need separate isopropyl alcohol to remove inhibition layer"
+
 ---
 
 **The 10ml bottle that outlasts the 15ml competition — if your lamp is strong enough.**

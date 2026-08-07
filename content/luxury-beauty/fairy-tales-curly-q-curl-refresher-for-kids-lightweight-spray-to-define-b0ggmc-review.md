@@ -1,23 +1,25 @@
 ---
+
 title: "Fairy Tales Curly-Q Curl Refresher for Kids - Lightweight Sp"
 seo_title: "Fairy Tales Curly-Q Curl Refresher Review (2026) | Kids' Spray"
 meta_description: "Honest Fairy Tales Curly-Q Curl Refresher review: Does this kids' lightweight spray define curls without crunch? Read pros, cons, and verdict."
 slug: "fairy-tales-curly-q-curl-refresher-for-kids-lightweight-spray-to-define-b0ggmc-review"
 image_alt: "Fairy Tales Curly-Q Curl Refresher for Kids spray bottle with curly hair definition"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GGMC61QC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61plmpj61BL._SL1500_.jpg"
-pros:  
+pros: 
   - "Damp or dry refresh works in under 30 seconds — no re-wetting needed"  
   - "Lightweight formula with aloe and shea butter; no crunchy cast, even on fine toddler curls"  
   - "Free of sulfates, parabens, and phthalates — gentle enough for daily use on sensitive scalps"  
-cons:  
+cons: 
   - "Scent is strong — a sweet citrus-vanilla that lingers for hours; kids with fragrance sensitivities may object"  
   - "Small 6 oz bottle; you'll repurchase monthly if you use it daily on thick or long hair"
+
 ---
 
 **Is this the curl refresher your kid's hair has been begging for?** If you've wrestled with a preschooler's frizzy bed-head at 7 AM, you know the struggle: too much water makes limp strings, too little makes a dandelion puff. Fairy Tales Curly-Q Curl Refresher aims to fix that with a spray that revives curls on damp *or* dry hair. At 4.5 stars from 225 Amazon ratings, it's clearly working for many families — but it's not perfect. Here's the honest breakdown.

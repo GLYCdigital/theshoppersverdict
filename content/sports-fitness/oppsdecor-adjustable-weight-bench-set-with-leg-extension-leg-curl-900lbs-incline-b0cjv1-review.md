@@ -1,4 +1,5 @@
 ---
+
 title: "OPPSDECOR Adjustable Weight Bench Set with Leg Extension & L"
 seo_title: "OPPSDECOR Adjustable Weight Bench Set with Leg Ext Review"
 meta_description: "Our full oppsdecor adjustable weight bench set with leg extension & l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJV1ZFH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xtVUjYvXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Surprisingly Serious Home Gym Workhorse

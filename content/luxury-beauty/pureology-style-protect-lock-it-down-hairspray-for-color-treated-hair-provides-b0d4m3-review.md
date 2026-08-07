@@ -1,4 +1,5 @@
 ---
+
 title: "Pureology Style + Protect Lock It Down Hairspray For Color-T"
 seo_title: "Pureology Style + Protect Lock It Down Hairspray F Review"
 meta_description: "Our full pureology style + protect lock it down hairspray for color-t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4M341J1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41OFsXRhbCL._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've dropped $300 on dimensional balayage, the last thing you want is a hairspray that strips your toner or leaves your ends feeling like straw. Pureology's Lock It Down promises flexible, color-safe hold — and after digging through 225 Amazon ratings, the consensus is clear: this is a serious contender for anyone treating their hair color like an investment.

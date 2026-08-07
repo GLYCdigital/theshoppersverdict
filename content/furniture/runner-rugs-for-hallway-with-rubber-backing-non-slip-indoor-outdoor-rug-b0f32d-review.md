@@ -1,4 +1,5 @@
 ---
+
 title: "Runner Rugs for Hallway with Rubber Backing, Non Slip Indoor"
 seo_title: "Runner Rugs for Hallway with Rubber Backing, Non S Review"
 meta_description: "Our full runner rugs for hallway with rubber backing, non slip indoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F32D3WKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715vz9g7AFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The hallway workhorse that actually stays put

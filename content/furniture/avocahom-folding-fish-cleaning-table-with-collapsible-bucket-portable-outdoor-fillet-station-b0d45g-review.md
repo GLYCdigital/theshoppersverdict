@@ -1,4 +1,5 @@
 ---
+
 title: "Avocahom Folding Fish Cleaning Table with Collapsible Bucket"
 seo_title: "Avocahom Folding Fish Cleaning Table Review (2026): Worth It?"
 meta_description: "Avocahom folding fish cleaning table review: sturdy steel frame, collapsible bucket, easy cleanup. See pros, cons & who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D45G961D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jlEsJ5RVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1.2mm thick stainless steel tabletop resists rust and cleans in seconds with a hose"
   - "Folds flat to roughly 4 inches thick — fits behind a truck seat or in a garage corner"
   - "Detachable collapsible bucket with reinforced rim catches scraps without tipping over"
-cons:
+cons: 
   - "Legs lack rubber feet — table will slide on smooth concrete or garage floors"
   - "Bucket is 5 gallons, not the 7-gallon capacity advertised in some listings"
+
 ---
 
 Some products solve a problem you didn't realize you had. Before the Avocahom Folding Fish Cleaning Table, my "system" was a wobbly plastic folding table, a cutting board balanced on a cooler, and a five-gallon bucket that always seemed to be on the other side of the yard. This table consolidates all of that into one unit that sets up in under a minute. At 4.4 stars across 220 ratings, it's clearly doing something right — but it's not without a few rough edges.

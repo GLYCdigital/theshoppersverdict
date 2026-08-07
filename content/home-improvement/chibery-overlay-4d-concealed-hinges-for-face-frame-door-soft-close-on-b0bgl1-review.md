@@ -1,4 +1,5 @@
 ---
+
 title: "Chibery Overlay 4D Concealed Hinges for Face Frame Door, Sof"
 seo_title: "Chibery 4D Concealed Hinges Review: Soft-Close Face Frame"
 meta_description: "Chibery 4D concealed hinges for face frame doors: adjustable, soft-close, 235+ ratings at 4.7 stars. Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGL1YJVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rZYdESCQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "4D adjustability (up/down, left/right, in/out) makes alignment effortless on face frames that aren't perfectly square"
   - "Soft-close mechanism actually works — no slamming, even on heavier solid-wood doors"
   - "Self-closing function is strong enough to fully seat the door without needing a separate catch"
-cons:
+cons: 
   - "Face-frame-specific design means they won't work on frameless (European-style) cabinetry without adapters"
   - "The included mounting screws are soft — swap them for better quality if you're driving into hard maple or oak"
   - "No template included; you'll need to measure carefully or buy a hinge jig separately"
+
 ---
 
 If you’ve ever fought with a face-frame cabinet door that sags, rubs, or won’t stay shut, you know the pain. The Chibery Overlay 4D Concealed Hinges are designed to end that battle — and based on 235 Amazon ratings averaging 4.7 stars, they’re doing it well for most buyers.

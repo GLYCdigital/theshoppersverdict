@@ -1,4 +1,5 @@
 ---
+
 title: "MXCSE Wall Shelves, Wall Mounted Bookshelves, DIY Floating S"
 seo_title: "MXCSE Wall Shelves, Wall Mounted Bookshelves, DIY  Review"
 meta_description: "Our full mxcse wall shelves, wall mounted bookshelves, diy floating s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX56SCSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xQYnaQn0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MXCSE Wall Shelves: The DIY Floating Shelf That Actually Looks Expensive

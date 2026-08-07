@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 100LB Rubber Coated Hex Dumbbell Weight Set and Stor"
 seo_title: "Fitvids 100LB Dumbbell Set Review: Worth It? 2026 inch"
 meta_description: "Fitvids 100LB rubber hex dumbbell set review: 5 pairs with rack, 4.1★ rating. Pros, cons, and who should buy. Honest buy-or-skip verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CHG4HNC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HRBRQkjcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five pairs (5, 10, 15, 20, 25 lbs) cover progressive overload for beginners to early-intermediate lifters without switching racks"
   - "Rubber coating keeps the hex heads quiet on the rack and protects hardwood or tile floors from dents and scuffs"
   - "The A-frame storage rack is compact (roughly 2 feet wide) and holds all ten dumbbells securely in contoured cradles"
-cons:
+cons: 
   - "25 lb pair is the ceiling — anyone lifting past that will need a second set or adjustable dumbbells, making this a finite investment"
   - "Some buyers report a mild chemical smell from the rubber that takes a few days of airing out to dissipate"
   - "The knurling is light — if you're used to aggressive, competition-grade grip texture, these will feel slippery during heavy sets"
+
 ---
 
 Let me be straight with you: the Fitvids 100LB Rubber Coated Hex Dumbbell Set is the home-gym equivalent of a solid used sedan. It's not flashy, it won't impress your gym-rat friends, but it does exactly what it promises with zero drama. If you're outfitting a garage or spare room and want a complete weight setup without dropping $500+ on a single adjustable pair, this is the pragmatic play.

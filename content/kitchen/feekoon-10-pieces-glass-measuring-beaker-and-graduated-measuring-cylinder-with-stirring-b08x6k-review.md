@@ -1,4 +1,5 @@
 ---
+
 title: "Feekoon 10 Pieces Glass Measuring Beaker and Graduated Measu"
 seo_title: "Feekoon Glass Measuring Beakers Review: 10-Piece Set (2026)"
 meta_description: "Feekoon 10-piece glass beaker & graduated cylinder set reviewed: borosilicate durability, accuracy, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08X6KP8PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7185RsGF3gS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True borosilicate glass (3.3) handles thermal shock from boiling liquids to cold water without cracking"
   - "Includes both beakers (50mL–2000mL) AND graduated cylinders (10mL–500mL) — covers every measurement range a home chemist needs"
   - "Double scale markings (mL and oz) in durable white enamel that survive dishwasher cycles"
-cons:
+cons: 
   - "Pour spouts are shallow — expect drips down the side when transferring high-viscosity liquids"
   - "No storage case; the 2000mL beaker is bulky and glass-on-glass contact in a drawer risks chipping"
   - "The 10mL and 25mL cylinders are too narrow for standard stirring rods — you'll need the included rods only for larger vessels"
+
 ---
 
 # Feekoon 10-Piece Glass Beaker & Graduated Cylinder Set Review: Lab-Grade Accuracy for Your Kitchen

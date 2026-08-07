@@ -1,4 +1,5 @@
 ---
+
 title: "Petra Max Rock Glue for Landscaping - Wide Coverage & Pet Sa"
 seo_title: "Petra Max Rock Glue for Landscaping - Wide Coverag Review"
 meta_description: "Our full petra max rock glue for landscaping - wide coverage & pet sa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DPL91MPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81plK1iS20L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. Rock glue for landscaping is one of those products that sounds simple — squeeze, stick, done — but in practice, most formulas fail within a season. The Petra Max Rock Glue positions itself as the wide-coverage, pet-safe answer. After digging through 195 ratings and testing the claims against real-world physics, here’s where it actually lands.

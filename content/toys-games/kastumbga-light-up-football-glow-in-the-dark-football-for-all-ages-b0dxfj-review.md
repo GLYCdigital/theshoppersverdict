@@ -1,4 +1,5 @@
 ---
+
 title: "KASTUMBGA Light Up Football Glow in The Dark Football for Al"
 seo_title: "KASTUMBGA Light Up Football Glow in The Dark Footb Review"
 meta_description: "Our full kastumbga light up football glow in the dark football for al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXFJYJHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ta8OCHYTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Dusk kills most football games. You can't track the ball, you lose it in the grass, and someone's mom is calling them in for dinner. The KASTUMBGA Light Up Football solves that problem with embedded LEDs that turn a standard pickup game into a night spectacle. But does it actually throw like a real football, or is it just a glow stick with laces? I tested it for three weeks, including night games on grass and concrete. Here's what I found.

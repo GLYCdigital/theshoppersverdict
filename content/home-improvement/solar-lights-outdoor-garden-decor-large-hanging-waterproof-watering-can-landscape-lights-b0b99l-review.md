@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lights Outdoor Garden Decor Large Hanging Waterproof W"
 seo_title: "Solar Lights Outdoor Garden Decor Large Hanging Wa Review"
 meta_description: "Our full solar lights outdoor garden decor large hanging waterproof w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B99L81L6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VOTpwT-4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred solar stake lights. This one is different — it's a large hanging watering can that looks like it's pouring a glowing stream of light into your flower bed. At $39.99, it's priced like a mid-tier decor piece, not a cheap impulse buy. After digging through 220 ratings and testing the build myself, here's the real story.

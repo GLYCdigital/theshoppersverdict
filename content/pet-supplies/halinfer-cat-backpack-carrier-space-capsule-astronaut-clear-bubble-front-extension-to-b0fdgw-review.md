@@ -1,4 +1,5 @@
 ---
+
 title: "halinfer Cat Backpack Carrier, Space Capsule Astronaut Clear"
 seo_title: "halinfer Cat Backpack Carrier Review: Space Capsule for Travel"
 meta_description: "Honest halinfer Cat Backpack Carrier review: bubble dome visibility, ventilation, comfort for cats & owners. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDGW25YQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713T5TCfQML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid, scratch-resistant bubble dome gives your cat a 180-degree view without the flimsy sagging seen on cheaper capsule carriers"
   - "Three-sided mesh ventilation panels plus rear airflow window prevent overheating even on warm days — a common failure point for enclosed bubble packs"
   - "Removable fleece pad and interior safety tether clip make cleaning and vet-visit restraint genuinely practical"
-cons:
+cons: 
   - "At roughly 12 x 10 x 16 inches internally, it's snug for 12+ lb cats — larger breeds will feel cramped on longer trips"
   - "The backpack straps lack substantial padding; extended walking with a heavy cat can dig into shoulders"
   - "Bubble dome fogs up quickly in humid conditions — you'll need to crack a side vent for airflow"
+
 ---
 
 If you're tired of wrestling your cat into a dark, zippered duffel while it yowls like you're committing a felony, the halinfer Cat Backpack Carrier is the upgrade that actually makes sense. This isn't a gimmick — the clear "astronaut" dome isn't just for Instagram likes. It's a functional design that reduces your cat's anxiety by letting them see what's happening around them. With 220 ratings averaging 4.4 stars, it's clearly working for most buyers. But it's not perfect for every cat or every owner. Here's the real breakdown.

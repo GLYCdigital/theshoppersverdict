@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Roasted Coffee, Decaf & Half-Caf K-Cup Pods for Keurig"
 seo_title: "Fresh Roasted Decaf & Half-Caf K-Cup Review (2026)"
 meta_description: "Honest review of Fresh Roasted Coffee decaf & half-caf K-Cups for Keurig. Real flavor tests, caffeine content, and value breakdown before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKT2CSG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pUy4ulsrL._SL1000_.jpg"
-pros:
+pros: 
   - "Swiss Water decaf process means no chemical aftertaste — a genuine differentiator in the K-Cup space"
   - "Half-caf option is rare and genuinely useful for afternoon cups without the 2 AM ceiling stare"
   - "Fully recyclable pods with a separate foil seal — better than most major brands"
-cons:
+cons: 
   - "Half-caf pods are inconsistent batch-to-batch; sometimes you get closer to full caf"
   - "No strength control on the roast — you're locked into their medium profile"
   - "Price per pod runs 20–30% higher than mainstream decaf k-cups"
+
 ---
 
 Most decaf coffee tastes like the manufacturer apologized for something. The beans are often over-roasted to hide defects, or they go through chemical decaffeination processes that leave a faint solvent note you can't un-taste once you know what it is. Fresh Roasted Coffee's approach is different: they use the Swiss Water Process (activated carbon, zero chemicals) and they're transparent about the roast dates on the bag. But does that actually translate into a better cup when you're brewing through a Keurig at 7 AM? I put both the decaf and half-caf pods through a week of testing to find out.

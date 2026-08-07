@@ -1,4 +1,5 @@
 ---
+
 title: "AEVBSOY Pirate Treasure Chest Toys Kids Storage Pirate Treas"
 seo_title: "AEVBSOY Pirate Treasure Chest Review: Toy Storage That Excites"
 meta_description: "Honest AEVBSOY pirate treasure chest toy review: sturdy wood construction, 4.6-star rating, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09TVZDQSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fLberCOIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid pine wood construction with metal hinges — survives being sat on by a 6-year-old"
   - "Generous 13.4 x 7.5 x 6.3-inch interior swallows LEGO sets, Matchbox cars, or dress-up accessories"
   - "Classic pirate aesthetics — faux brass hardware and rope handle — that actually appeal to kids, not just parents"
-cons:
+cons: 
   - "Wood edges aren't sanded perfectly smooth; a quick pass with fine sandpaper recommended before handing to toddlers"
   - "Hasp latch is decorative more than functional — it won't lock securely, so curious fingers will get in easily"
   - "The painted skull design can chip if the chest gets dropped on hard floors repeatedly"
+
 ---
 
 # AEVBSOY Pirate Treasure Chest Review: Does This Toy Storage Box Deliver Real Value?

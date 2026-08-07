@@ -1,4 +1,5 @@
 ---
+
 title: "Crest Toothpaste Cavity Protection Regular (Pack of 3)"
 seo_title: "Crest Cavity Protection Toothpaste Review (Pack of 3) – 2026 inch"
 meta_description: "Honest Crest Cavity Protection Toothpaste review: fluoride formula, taste, value for money. See if this 3-pack is worth buying in 2026."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00E4MPC26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/416E3yyek3L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sodium fluoride at 0.243% (1,100 ppm) — clinically proven cavity protection without prescription-strength pricing"
   - "Classic 'regular' mint flavor is mild and clean — no harsh cooling agents that burn sensitive mouths"
   - "Pack of 3 delivers roughly 6 months of brushing for one person at a meaningful per-ounce discount"
-cons:
+cons: 
   - "No whitening, sensitivity relief, or tartar control — this is a single-purpose product, so you'll need a second toothpaste for those concerns"
   - "ADA seal is present but the tube is standard 4.6 oz — smaller than the 6 oz 'family' sizes from competing brands"
+
 ---
 
 Let's be honest about what Crest Cavity Protection actually is: it's the most unglamorous, dependable product in your bathroom. No charcoal. No sparkle. No 12-in-1 marketing nonsense. Just sodium fluoride doing what sodium fluoride does — and doing it well enough to earn a 4.8-star average across 240 Amazon ratings.

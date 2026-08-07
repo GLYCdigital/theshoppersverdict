@@ -1,4 +1,5 @@
 ---
+
 title: "Spanish Serrano Ham Bone in from Spain 14-17 lb with Stand &"
 seo_title: "Spanish Serrano Ham Bone in from Spain 14-17 lb wi Review"
 meta_description: "Our full spanish serrano ham bone in from spain 14-17 lb with stand & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07B44JGNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812S1Sb-0qL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Spanish Serrano Ham Bone-in with Stand: The Ultimate Ham Lover's Test

@@ -1,4 +1,5 @@
 ---
+
 title: "Extra Long & Wide Thick Yoga Mat for Tall Men & Women, 84''"
 seo_title: "Extra Long & Wide Thick Yoga Mat Review (84'') for Tall Users"
 meta_description: "Honest review of the 84'' extra long & wide thick yoga mat for tall men & women. See if it holds up to daily practice, plus real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FJXL7F2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yierY4AFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Full 84-inch length covers a 6'5 inch " frame entirely — no more hands or feet sliding off the mat
   - "Thick cushioning (likely 8mm+) protects knees and wrists during floor poses without sacrificing stability"
   - "Extra width gives room for wide-legged stances and vinyasa transitions without edge curling"
-cons:
+cons: 
   - "Heavy and bulky to carry — this is a home mat, not a travel companion"
   - "Thicker cushioning means balance poses like tree or warrior III feel slightly less grounded"
+
 ---
 
 If you're over 6 feet tall, you already know the struggle: every "standard" 68-inch yoga mat leaves your heels hanging off the back edge and your palms searching for grip at the front. This 84-inch mat addresses that exact problem — and based on 235 ratings averaging 4.7 stars, it's solving it well for a lot of tall practitioners.

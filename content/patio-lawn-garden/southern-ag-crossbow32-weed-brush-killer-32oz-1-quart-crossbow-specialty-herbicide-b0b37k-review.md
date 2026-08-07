@@ -1,4 +1,5 @@
 ---
+
 title: "Southern Ag CROSSBOW32 Weed & Brush Killer, 32oz-1 Quart Cro"
 seo_title: "Southern Ag CROSSBOW32 Weed & Brush Killer, 32oz-1 Review"
 meta_description: "Our full southern ag crossbow32 weed & brush killer, 32oz-1 quart cro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B37KZSXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PUeYBJ-SL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a fence line strangled by wild blackberry, a drainage ditch full of poison ivy, or a patch of multiflora rose that laughs at your string trimmer, you don’t need another “weed killer.” You need a brush killer. Southern Ag’s Crossbow32 is the kind of product land managers and farmers have relied on for years — and the 4.6-star average across 229 ratings suggests weekend warriors are catching on.

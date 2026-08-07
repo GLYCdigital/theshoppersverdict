@@ -1,4 +1,5 @@
 ---
+
 title: "PACEARTH 40 Inch Saucer Tree Swing Flying 660lb Weight Capac"
 seo_title: "PACEARTH 40 Inch Saucer Tree Swing Flying 660lb We Review"
 meta_description: "Our full pacearth 40 inch saucer tree swing flying 660lb weight capac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09GVV1J5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uIz5oaswL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: most saucer swings under $50 are flimsy, single-person afterthoughts that sag after a season. The PACEARTH 40-inch isn't that. With a 660-pound weight rating and a frame that actually backs it up, this is the rare budget swing that adults can use without feeling like they're testing the manufacturer's claims.

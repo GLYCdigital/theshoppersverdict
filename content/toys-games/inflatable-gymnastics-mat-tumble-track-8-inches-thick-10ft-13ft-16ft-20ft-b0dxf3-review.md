@@ -1,4 +1,5 @@
 ---
+
 title: "Inflatable Gymnastics Mat Tumble Track (8 Inches Thick) - 10 inch"
 seo_title: "Inflatable Gymnastics Mat Tumble Track Review (8 inch  Thick)"
 meta_description: "Honest review of the 8-inch thick inflatable tumble track. Tested for durability, bounce, and safety. See real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXF3X1MQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tKnyF1rlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8-inch air chamber provides genuine bounce for back handsprings and tumbling passes, not just a padded crash mat"
   - "Commercial-grade PVC with reinforced internal baffles holds air well; multiple buyers report months of daily use without leaks"
   - "Electric pump included fills the 10-foot track in under 3 minutes — no manual pumping or huffing"
-cons:
+cons: 
   - "No carrying bag included; the deflated mat folds into a bulky 30-pound bundle that's awkward to store or transport"
   - "Surface gets slippery with bare feet when sweaty; gym chalk or socks recommended for serious training"
   - "Patch kit is basic — a single small patch with no adhesive instructions if you puncture it on gravel or rough ground"
+
 ---
 
 The 8-inch inflatable tumble track is the rare piece of home gym equipment that actually delivers on its promise. At 4.6 stars from 229 ratings, this isn't a cheap pool float dressed up as a training tool — it's a legit apparatus that gymnasts, cheerleaders, and martial artists can use daily.

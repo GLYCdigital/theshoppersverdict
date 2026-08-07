@@ -1,4 +1,5 @@
 ---
+
 title: "ELF Eyeliner Liquid Smudge Proof Review"
 seo_title: "ELF Liquid Smudge Proof Eyeliner Review (2026): Worth It?"
 meta_description: "Honest ELF liquid smudge proof eyeliner review: does it last all day? Real user feedback, pros, cons, and who should buy it. 4.6/5 rating breakdown."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4HYKND7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AiHBqDDML._SL1500_.jpg"
-pros:
+pros: 
   - "Precision brush tip delivers razor-thin lines without dragging or skipping, even on hooded lids"
   - "Dries down to a true waterproof finish that survives tears, sweat, and oily lids without flaking"
   - "Pigment is deeply saturated in one pass — no layering needed for a crisp black wing"
-cons:
+cons: 
   - "The formula sets fast; you have roughly 10 seconds to correct mistakes before it locks in permanently"
   - "Removal requires an oil-based cleanser — standard micellar water will leave faint residue behind"
+
 ---
 
 **The $9 eyeliner that outperforms luxury brands? Let's dig into the ELF Liquid Smudge Proof Eyeliner.**

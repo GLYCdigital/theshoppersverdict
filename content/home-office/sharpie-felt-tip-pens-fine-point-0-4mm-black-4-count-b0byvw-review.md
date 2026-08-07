@@ -1,4 +1,5 @@
 ---
+
 title: "SHARPIE Felt Tip Pens, Fine Point (0.4mm), Black, 4 Count"
 seo_title: "SHARPIE Felt Tip Pens, Fine Point (0.4mm), Black,  Review"
 meta_description: "Our full sharpie felt tip pens, fine point (0.4mm), black, 4 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYVW59GS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610Pd+ehlsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SHARPIE fine point felt pen is the quiet overachiever of the office drawer.** Most people grab the classic chisel-tip SHARPIE without thinking, but this 0.4mm version is a different animal — it writes like a technical pen but carries the permanence and ink density you expect from the SHARPIE name. If you do any precision work — sketching, journaling, labeling small electronics, or marking up drafts — this is worth a serious look.

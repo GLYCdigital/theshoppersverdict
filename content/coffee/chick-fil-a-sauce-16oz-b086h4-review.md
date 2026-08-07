@@ -1,4 +1,5 @@
 ---
+
 title: "Chick-fil-A Sauce 16oz"
 seo_title: "Chick-fil-A Sauce 16oz Review: Worth the Hype?"
 meta_description: "Our honest Chick-fil-A Sauce 16oz review: smoky-sweet flavor, real-world uses, and whether the bottle beats dipping cups. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B086H49RT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xfBrVPIkL._SL1000_.jpg"
-pros:
+pros: 
   - "Exactly replicates the restaurant sauce — same smoky, sweet, tangy balance you get in the foil pouches"
   - "16oz bottle delivers roughly 32 servings, cutting per-use cost by over 60% compared to individual packets"
   - "Thick, clingy texture that stays put on nuggets, fries, and sandwiches without dripping everywhere"
-cons:
+cons: 
   - "Must be refrigerated after opening, which can dull the flavor slightly if you prefer it at room temperature"
   - "No resealable cap on the original bottle — you'll want to transfer it to a squeeze bottle for easy dispensing"
+
 ---
 
 **The Short Version**

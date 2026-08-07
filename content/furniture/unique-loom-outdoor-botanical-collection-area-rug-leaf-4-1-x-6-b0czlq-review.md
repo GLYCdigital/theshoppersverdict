@@ -1,4 +1,5 @@
 ---
+
 title: "Unique Loom Outdoor Botanical Collection Area Rug - Leaf (4'"
 seo_title: "Unique Loom Outdoor Botanical Collection Area Rug  Review"
 meta_description: "Our full unique loom outdoor botanical collection area rug - leaf (4' review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZLQFFDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1eE3KNfgWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $200 outdoor rug disintegrate after one season of sun and rain, you know the drill: cheap polypropylene fades to a sad pastel, edges fray, and the whole thing ends up in a landfill by August. The Unique Loom Outdoor Botanical Collection Leaf rug is not that rug. After digging through 225 ratings and the spec sheet, here's the real story on this 4'x6' workhorse.

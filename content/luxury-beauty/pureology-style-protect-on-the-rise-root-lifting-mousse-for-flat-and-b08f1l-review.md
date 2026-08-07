@@ -1,4 +1,5 @@
 ---
+
 title: "Pureology Style + Protect On The Rise Root Lifting Mousse Fo"
 seo_title: "Pureology Style + Protect On The Rise Root Lifting Review"
 meta_description: "Our full pureology style + protect on the rise root lifting mousse fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08F1LYFD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SH+KjjlPL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most root-lifting mousses are either sticky, crunchy, or evaporate by lunch. Pureology’s On The Rise claims to fix all three while also protecting hair from heat. After digging through 220 Amazon ratings (4.4 stars) and testing the formula myself, here’s the real deal.

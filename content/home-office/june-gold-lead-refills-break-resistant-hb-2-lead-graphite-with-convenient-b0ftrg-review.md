@@ -1,4 +1,5 @@
 ---
+
 title: "June Gold Lead Refills Break Resistant HB #2 Lead (Graphite)"
 seo_title: "June Gold Lead Refills Break Resistant HB #2 Lead  Review"
 meta_description: "Our full june gold lead refills break resistant hb #2 lead (graphite) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTRGG1W7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lWPrKZRBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Mechanical pencil lead is one of those purchases you don't think about until you're hunched over a notebook, pressing down hard, and the lead snaps for the third time in five minutes. June Gold's Break Resistant HB #2 refills aim to end that frustration. After digging through 229 ratings and testing the claims against what users actually report, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Mammoth 180Â° Gate Hinge Self-Closing Aluminium Silver Anodi"
 seo_title: "Mammoth 180Â° Gate Hinge Self-Closing Aluminium Si Review"
 meta_description: "Our full mammoth 180â° gate hinge self-closing aluminium silver anodi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09W48Y1HJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Bt-mkK0sL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most self-closing gate hinges are a compromise. You get the convenience of the gate shutting itself, but you sacrifice opening range — most cap out around 90 to 110 degrees. The Mammoth 180° hinge solves that specific annoyance with a full half-circle swing. That alone makes it worth a look if you've ever wrestled a wheelbarrow through a gate that wouldn't open flat.

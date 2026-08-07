@@ -1,4 +1,5 @@
 ---
+
 title: "WSMKSZ 10/13inch Large Hanging Planters for Outdoor Indoor P"
 seo_title: "WSMKSZ 10/13inch Large Hanging Planters for Outdoo Review"
 meta_description: "Our full wsmksz 10/13inch large hanging planters for outdoor indoor p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRL8GFY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xzo12KIDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a root-bound plant into a flimsy basket that cracks by August, the WSMKSZ 10/13-inch hanging planter is the antidote. This isn't a decorative afterthought — it's a working container built for serious trailing growth, and with 235 ratings averaging 4.7 stars, it's clearly earning its place on patios.

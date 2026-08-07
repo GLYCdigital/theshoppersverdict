@@ -1,4 +1,5 @@
 ---
+
 title: "Magnetic Shelf for Fridge with Wood Lid, Fruit Potato and On"
 seo_title: "Magnetic Shelf for Fridge with Wood Lid, Fruit Pot Review"
 meta_description: "Our full magnetic shelf for fridge with wood lid, fruit potato and on review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DM17J9WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S2b8vn54L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Refrigerator Real Estate Problem, Solved

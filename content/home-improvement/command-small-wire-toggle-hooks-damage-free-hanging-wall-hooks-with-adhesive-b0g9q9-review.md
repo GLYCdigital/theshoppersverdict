@@ -1,4 +1,5 @@
 ---
+
 title: "Command Small Wire Toggle Hooks, Damage Free Hanging Wall Ho"
 seo_title: "Command Small Wire Toggle Hooks Review: Do They Really Hold?"
 meta_description: "Tested: Command Small Wire Toggle Hooks hold up to 12 lbs without damaging walls. Real-user pros, cons, and who should buy these adhesive hooks."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G9Q9GT49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7197f1OyLNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 12 lb weight capacity per hook — holds small tools, lanterns, and kitchen utensils without pulling off painted drywall"
   - "Includes 4 strips per hook (2 pre-installed, 2 refill), so each hook is effectively reusable twice before needing refills"
   - "Wire toggle design keeps items 1.5 inches off the wall — enough clearance for mug handles and small baskets without scraping paint"
-cons:
+cons: 
   - "Adhesive strips require a full 60 minutes of pressure before load — a minor install delay that impatient users will notice"
   - "Not designed for textured walls, wallpaper, or temps above 115°F — limits placement flexibility in older homes"
   - "Small size (2.4 x 1.1 inches) won't accommodate anything larger than a standard mug hook or lightweight tool hanger"
+
 ---
 
 # Command Small Wire Toggle Hooks Review: Small Hooks, Real Holding Power

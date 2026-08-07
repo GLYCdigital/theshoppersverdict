@@ -1,4 +1,5 @@
 ---
+
 title: "HOGOKIDS Space Roller Coaster Building Toy 926PCS Coaster Bu"
 seo_title: "HOGOKIDS Space Roller Coaster Review: 926-Piece Build"
 meta_description: "HOGOKIDS Space Roller Coaster 926-piece building set review: motorized lift, chain function, and compatibility. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CZDRBSLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816bnK8MDcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Motorized chain lift actually works — cars climb and coast without manual pushing"
   - "926 pieces deliver roughly 4-6 hours of focused build time for a patient 10+ year old"
   - "Compatible with standard building bricks, so you can integrate it into existing collections"
-cons:
+cons: 
   - "Paper instructions are dense; some steps are visually ambiguous — expect to backtrack occasionally"
   - "Track sections snap together tightly but can separate if the cars derail at speed, which happens more than you'd like"
   - "No color-coded bags — all 926 pieces are loose in one bag, so sorting is mandatory before you start"
+
 ---
 
 The HOGOKIDS Space Roller Coaster is a 926-piece building set that promises a motorized coaster with a space theme. The question isn't whether it looks cool on the box — it does. The question is whether it delivers on the "roller coaster" part and survives the build. Here's what you need to know before handing this to a kid (or keeping it for yourself).

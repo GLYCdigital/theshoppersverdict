@@ -1,4 +1,5 @@
 ---
+
 title: "Lexar JumpDrive Dual Drive Flash Drive for Storage Expansion"
 seo_title: "Lexar JumpDrive Dual Drive Flash Drive for Storage Review"
 meta_description: "Our full lexar jumpdrive dual drive flash drive for storage expansion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQCQ9PRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FUhcpLlFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got a phone full of photos, a laptop with 40GB of free space left, and a nagging feeling you should back things up before the next OS update. The Lexar JumpDrive Dual Drive sits right in that gap — a pocket-sized bridge between USB-C and USB-A that costs less than a dinner out.

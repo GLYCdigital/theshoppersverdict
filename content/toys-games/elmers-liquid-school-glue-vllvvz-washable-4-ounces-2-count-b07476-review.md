@@ -1,4 +1,5 @@
 ---
+
 title: "Elmers Liquid School Glue VLLVvz, Washable, 4 Ounces, 2 Coun"
 seo_title: "Elmer's Liquid School Glue Review: Washable 4oz 2-Pack"
 meta_description: "Elmer's Liquid School Glue 2-pack review: Is this washable 4oz glue worth buying? We tested stickiness, clean-up, and value for crafts & school."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B074762X1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41lE3U4JLLL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "PVA formula actually washes out of fabric and skin with warm water — no scrubbing or solvent needed"
   - "Squeeze bottle with flip-top cap dispenses a controlled bead, reducing mess for kids"
   - "Dries clear and flexible, which matters for paper crafts that get folded or handled"
-cons:
+cons: 
   - "4-ounce bottles run out fast for serious crafters — expect to buy multiples for a school year"
   - "Drying time is moderate; impatient kids can smudge wet glue if they touch it too soon"
+
 ---
 
 You know the drill. It's Sunday night, your kid announces the diorama is due tomorrow, and you're staring at a dried-out crusty bottle of something that used to be glue. Elmer's Liquid School Glue in the 2-pack of 4-ounce bottles is the product designed to prevent that specific panic. At 4.8 stars from 240 Amazon ratings, it's clearly doing something right. But let's break down whether it deserves a spot in your supply drawer or if you're just paying for the brand name.

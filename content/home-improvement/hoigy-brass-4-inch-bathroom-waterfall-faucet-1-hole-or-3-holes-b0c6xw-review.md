@@ -1,4 +1,5 @@
 ---
+
 title: "HOIGY Brass 4 Inch Bathroom Waterfall Faucet 1 Hole or 3 Hol"
 seo_title: "HOIGY Brass 4 Inch Bathroom Waterfall Faucet 1 Hol Review"
 meta_description: "Our full hoigy brass 4 inch bathroom waterfall faucet 1 hole or 3 hol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6XWCLNN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71usTDpVr0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling through waterfall faucets and seeing nothing but zinc alloy and plastic internals, the HOIGY Brass 4-Inch is the first one that made me stop and read the fine print. It’s a genuine brass body with a wide, 4-inch spout that lays water out like a glass ribbon. At a 4.7-star average across 235 ratings, buyers are clearly happy — but as with any waterfall design, there are a few installation realities you need to know before you commit.

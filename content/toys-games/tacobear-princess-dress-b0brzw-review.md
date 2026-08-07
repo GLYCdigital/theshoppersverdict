@@ -1,4 +1,5 @@
 ---
+
 title: "Tacobear Princess Dress"
 seo_title: "Tacobear Princess Dress Review: Verdict | TSV"
 meta_description: "Our full tacobear princess dress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BRZWYTTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wMCNB3HqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a toddler's face light up when they spot a sparkly princess gown, you know exactly who the Tacobear Princess Dress is for. This is the dress-up costume that's racked up 235 ratings at a 4.7-star average — and honestly, it earns most of them.

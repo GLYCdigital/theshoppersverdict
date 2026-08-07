@@ -1,16 +1,17 @@
 ---
+
 title: "Keurig K Supreme Smart Single Serve Coffee Maker, Multistream (Black) | Brewid and Multistream Tech, WI-FI App Control, Brews 6-12 Oz, 66 Oz Removable Reservoir, Black"
 seo_title: "Keurig K Supreme Review: Verdict (3.9/5) | TSV"
 meta_description: "Honest keurig k supreme smart single  review 2,012+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "keurig-k-supreme-smart-single-serve-coffee-maker-multistream-black-brewid-and-review"
 image_alt: "Keurig K Supreme Smart Single Serve Coffee Maker, Multistream (Black) | Brewid and Multistream Tech, WI-FI App Control, "
-keywords:
+keywords: 
   - "keurig k supreme review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 3.7
-faq:
+faq: 
   - question: "What are the downsides of the Keurig K Supreme Smart?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the Keurig K Supreme Smart?"
@@ -21,10 +22,11 @@ review_count: 2012
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0B5W1YJN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZKEjT85pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The Smart Keurig That (Mostly) Justifies the Hype — If You Don't Mind the App Hiccups**

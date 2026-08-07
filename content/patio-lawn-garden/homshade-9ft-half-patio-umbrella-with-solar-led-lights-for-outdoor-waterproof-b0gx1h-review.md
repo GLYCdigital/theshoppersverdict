@@ -1,4 +1,5 @@
 ---
+
 title: "HOMSHADE 9FT Half Patio Umbrella with Solar LED Lights for O"
 seo_title: "HOMSHADE 9FT Half Patio Umbrella with Solar LED Li Review"
 meta_description: "Our full homshade 9ft half patio umbrella with solar led lights for o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GX1HMD6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71haf65SnyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your patio has a wall, fence, or railing doing absolutely nothing, the HOMSHADE 9FT Half Patio Umbrella turns dead space into shade. This isn't a gimmick. The half-umbrella design (a full circle sliced in half) mounts flush against a vertical surface, which means you're not sacrificing three feet of walkway to a center pole. As shown in the product image, the umbrella's flat back edge presses against the wall while the canopy arcs outward, covering a table or seating area without towering over it.

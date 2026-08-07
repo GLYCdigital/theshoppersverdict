@@ -1,4 +1,5 @@
 ---
+
 title: "QRRICA Plant PotsSelf Watering Pots, Plastic Planters with D"
 seo_title: "QRRICA Plant PotsSelf Watering Pots, Plastic Plant Review"
 meta_description: "Our full qrrica plant potsself watering pots, plastic planters with d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMVZV5KS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615rQxUwkzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever come home to a wilted fern because you forgot to water it for three days, the QRRICA self-watering pot is the quiet insurance policy your plant collection needs. With a 4.7-star average from 235 Amazon ratings, this isn't a gimmick — it's a genuinely functional planter that solves a real problem. Here's the breakdown before you spend.

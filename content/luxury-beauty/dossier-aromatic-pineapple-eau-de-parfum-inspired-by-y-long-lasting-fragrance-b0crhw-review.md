@@ -1,4 +1,5 @@
 ---
+
 title: "Dossier - Aromatic Pineapple - Eau de Parfum - Inspired by Y"
 seo_title: "Dossier Aromatic Pineapple Review: Worth It? (2026)"
 meta_description: "Dossier Aromatic Pineapple EDP review: Does this Y-inspired dupe deliver? Honest look at longevity, sillage, and value vs. the original."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRHWRP8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61neYwI8QGL._SL1500_.jpg"
-pros:
+pros: 
   - "Fragrance concentration is true extrait-level — one spray lasts 8+ hours on skin"
   - "Captures the pineapple-bright opening of the designer original at roughly one-third the price"
   - "Clean, vegan formula with no phthalates — sensitive noses won't get that chemical burn"
-cons:
+cons: 
   - "Projects softer than the original — don't expect the same room-filling sillage"
   - "Dry-down leans more woody than fruity; pineapple fades after the first hour"
   - "Bottle is utilitarian plastic, not the heavy glass you'd get from the designer house"
+
 ---
 
 **Bottom line upfront:** If you love the juicy pineapple-bomb opening of the Yves Saint Laurent original but refuse to drop $200+ on a bottle, Dossier's Aromatic Pineapple delivers about 85% of the experience for a fraction of the price. Here's the honest breakdown.

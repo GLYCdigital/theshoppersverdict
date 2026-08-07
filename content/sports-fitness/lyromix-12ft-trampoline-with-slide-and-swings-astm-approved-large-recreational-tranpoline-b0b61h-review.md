@@ -1,4 +1,5 @@
 ---
+
 title: "Lyromix 12FT Trampoline with Slide and Swings, ASTM Approved"
 seo_title: "Lyromix 12FT Trampoline with Slide and Swings, AST Review"
 meta_description: "Our full lyromix 12ft trampoline with slide and swings, astm approved review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B61H6BZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L30DhPE1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lyromix 12FT Trampoline with Slide and Swings** is what happens when a backyard toy company decides to give you everything at once. It's a trampoline. It's a slide. It's a swing set. And at 12 feet wide with a 6-foot-tall enclosure, it's not a compromise toy — it's a genuine backyard centerpiece. But before you drop serious money, let's talk about what you're actually getting.

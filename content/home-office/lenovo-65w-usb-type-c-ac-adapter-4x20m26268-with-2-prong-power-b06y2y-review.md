@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo 65w USB Type C Ac Adapter 4X20M26268 With 2 Prong Pow"
 seo_title: "Lenovo 65w USB Type C Ac Adapter 4X20M26268 With 2 Review"
 meta_description: "Our full lenovo 65w usb type c ac adapter 4x20m26268 with 2 prong pow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06Y2YPWSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JNTap5fiL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most USB-C chargers on Amazon are generic boxes that might fry your motherboard. This Lenovo 65W adapter is the real OEM part, and that alone justifies a serious look if you own a compatible Lenovo laptop.

@@ -1,4 +1,5 @@
 ---
+
 title: "13 inch  Bird Feeder Rain Guard, Hummingbird Feeder Shade Dome Co"
 seo_title: "13 inch  Bird Feeder Rain Guard Review: Shade Dome Cover Tested"
 meta_description: "Honest 13 inch  bird feeder rain guard review: Does this shade dome protect nectar from rain and sun? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FH2M2744/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612qkvkjDZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 13-inch diameter provides real coverage for most standard feeders, not just token shade"
   - "UV-resistant clear acrylic keeps visibility high while blocking harsh afternoon sun"
   - "Universal hanging hardware fits both shepherd's hooks and branch mounts without tools"
-cons:
+cons: 
   - "Lightweight design can spin in strong gusts, requiring the included stabilizer hook to be used properly"
   - "Squirrels can still reach feeders mounted too close to branches despite the dome's width"
+
 ---
 
 If you've ever watched a summer thunderstorm ruin a fresh batch of nectar, you already know the pain this product solves. The 13-inch Bird Feeder Rain Guard from Shade Dome Co is a clear acrylic canopy that mounts above your feeder to keep rain out and harsh sun off. At 4.4 stars from 220 ratings, it's a solid performer — but let's break down whether it actually earns a spot in your yard.

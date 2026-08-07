@@ -1,4 +1,5 @@
 ---
+
 title: "Seagate One Ultra Touch, Portable External Hard Drive, Porta"
 seo_title: "Seagate One Ultra Touch, Portable External Hard Dr Review"
 meta_description: "Our full seagate one ultra touch, portable external hard drive, porta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F916CVKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eBuhkDs0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Seagate One Ultra Touch is a handsome, dependable portable hard drive that nails the basics — but it won't blow you away with speed.** With 220 ratings averaging 4.4 stars, it's clearly doing something right. Here's what you need to know before you buy.

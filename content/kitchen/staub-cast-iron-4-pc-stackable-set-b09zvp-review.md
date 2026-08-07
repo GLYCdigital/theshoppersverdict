@@ -1,4 +1,5 @@
 ---
+
 title: "STAUB Cast Iron 4-pc Stackable Set"
 seo_title: "STAUB Cast Iron 4-pc Stackable Set Review: Verdict | TSV"
 meta_description: "Our full staub cast iron 4-pc stackable set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B09ZVP7QQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X7hnoi9mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The space-saving secret that actually works**

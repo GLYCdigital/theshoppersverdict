@@ -1,4 +1,5 @@
 ---
+
 title: "Seatylock FoldyLock Mini Folding Bike Lock - Patented Lightw"
 seo_title: "Seatylock FoldyLock Mini Folding Bike Lock - Paten Review"
 meta_description: "Our full seatylock foldylock mini folding bike lock - patented lightw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLP3PDVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eFiBWUuGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Patented Folding Lock That Actually Rides With You**

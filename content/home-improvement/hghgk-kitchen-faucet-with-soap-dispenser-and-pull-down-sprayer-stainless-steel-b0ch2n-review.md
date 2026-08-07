@@ -1,4 +1,5 @@
 ---
+
 title: "HGHGK Kitchen Faucet with Soap Dispenser and Pull Down Spray"
 seo_title: "HGHGK Kitchen Faucet with Soap Dispenser and Pull  Review"
 meta_description: "Our full hghgk kitchen faucet with soap dispenser and pull down spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CH2NQPGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517WeO8fBDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most kitchen faucets under $150 are a gamble. Some are wobbly metal sculptures that drip from day one. Others look great but spray water everywhere except where you aim. The HGHGK Kitchen Faucet with Soap Dispenser sits somewhere in the middle — and for a lot of shoppers, "middle" is exactly where the value lives.

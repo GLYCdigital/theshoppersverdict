@@ -1,4 +1,5 @@
 ---
+
 title: "Lash Brushes with Container Disposable Mascara Wands"
 seo_title: "Lash Brushes with Container Disposable Mascara Wan Review"
 meta_description: "Our full lash brushes with container disposable mascara wands review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FXF7SDJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZJFQS391L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $15 Upgrade Your Lash Game Didn't Know It Needed

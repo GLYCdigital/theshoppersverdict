@@ -1,4 +1,5 @@
 ---
+
 title: "Goproauto 6 Inch Indoor Planter Pots with Drainage Hole and "
 seo_title: "Goproauto 6 Inch Indoor Planter Pots with Drainage Review"
 meta_description: "Our full goproauto 6 inch indoor planter pots with drainage hole and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDFJ98DH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-F3kf6PPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more houseplants than you care to admit, the culprit is usually waterlogged roots. The Goproauto 6-inch indoor planter pots attack that problem directly with functional drainage and a saucer that actually fits. At a 4.7-star average across 235 ratings, these pots have earned their reputation — but they're not perfect. Here's the breakdown.

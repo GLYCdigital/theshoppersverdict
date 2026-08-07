@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons The Lord of The Rings: Sauron's Helmet - Building"
 seo_title: "LEGO Icons The Lord of The Rings: Sauron's Helmet  Review"
 meta_description: "Our full lego icons the lord of the rings: sauron's helmet - building review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FMYW4C7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rERLiKyAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Sauron's Helmet: The Dark Lord Gets the LEGO Treatment

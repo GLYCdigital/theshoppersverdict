@@ -1,4 +1,5 @@
 ---
+
 title: "APONUO Solar Post Cap Lights,2-Modes Bright 5x5 Vinyl Fence"
 seo_title: "APONUO Solar Post Cap Lights Review: Bright 5x5 Vinyl Fence"
 meta_description: "APONUO solar post cap lights for 5x5 vinyl fence posts reviewed. Real brightness, battery life, and durability tested. See if these 2-mode lights are worth it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CX976WKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PUrASvy1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5x5 fit with a snug base that doesn't wobble or slide off in wind"
   - "Two genuinely useful modes — steady warm white and slow fade — not gimmick modes"
   - "Solar panel is angled and large enough to charge even on partially shaded fences"
-cons:
+cons: 
   - "Battery life drops noticeably in winter months — expect 4-5 hours instead of 8+"
   - "Plastic housing feels less premium than aluminum alternatives at similar price"
   - "No remote or timer; you get the two modes and that's it"
+
 ---
 
 Let's be direct: most solar post cap lights under $30 are junk. They flicker, die after two months, or look like cheap plastic tumors on your fence line. The APONUO 5x5 solar post cap lights aren't perfect, but they're a solid step above the bargain-bin crowd — and for most vinyl fence owners, they're worth your attention.

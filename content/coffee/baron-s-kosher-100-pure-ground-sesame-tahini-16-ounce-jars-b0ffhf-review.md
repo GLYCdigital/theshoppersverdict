@@ -1,4 +1,5 @@
 ---
+
 title: "Baron's Kosher 100% Pure Ground Sesame Tahini 16-ounce Jars"
 seo_title: "Baron's Tahini Review: 100% Pure Ground Sesame 16-Ounce Jars"
 meta_description: "Baron's Kosher 100% Pure Ground Sesame Tahini review: Is this 16-ounce jar worth it? Real texture, taste, and value analysis with buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFHF172T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ob51quGOL._SL1500_.jpg"
-pros:
+pros: 
   - "Single-ingredient purity — just ground sesame, no added oils, salt, or preservatives"
   - "Consistently smooth, pourable texture straight from the jar without gritty separation"
   - "Strong roasted sesame aroma with balanced bitterness that works in sweet and savory recipes"
-cons:
+cons: 
   - "Oil separation requires vigorous stirring — first-time users often think the jar is spoiled"
   - "No resealable safety seal under the lid, so check the freshness date before purchase"
+
 ---
 
 **What you're actually getting**

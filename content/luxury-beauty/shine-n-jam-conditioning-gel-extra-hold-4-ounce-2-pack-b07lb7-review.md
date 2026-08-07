@@ -1,4 +1,5 @@
 ---
+
 title: "Shine N Jam Conditioning Gel Extra Hold 4 Ounce (2 Pack)"
 seo_title: "Shine N Jam Conditioning Gel Extra Hold 4 Ounce (2 Review"
 meta_description: "Our full shine n jam conditioning gel extra hold 4 ounce (2 pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07LB79R9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J-SRAEDZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Shine N Jam Conditioning Gel Extra Hold: The Sleek-Edges Standard, Finally in a 2-Pack

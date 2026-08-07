@@ -1,4 +1,5 @@
 ---
+
 title: "Beautiful Hourly To Do Planner Notebook - Easily Organize Yo"
 seo_title: "Beautiful Hourly To Do Planner Review: Worth It in 2026?"
 meta_description: "Our honest Beautiful Hourly To Do Planner Notebook review: layout, paper quality, durability, and who should buy. See if this 4.8-star planner fits your workflow."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C2PYVDTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dgq8SCTDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hourly timeline layout (6 AM–9 PM) actually forces time-blocking discipline, not just a vague to-do list"
   - "Thick 100gsm paper handles gel pens and mild highlighters without bleed-through or ghosting"
   - "Lay-flat spiral binding stays open on a desk without weights — tested with one hand"
-cons:
+cons: 
   - "No undated option — if you skip a week, you waste pages or live with blank spaces"
   - "Cover is soft-touch matte that scuffs easily in a bag; shows wear within two weeks of daily carry"
+
 ---
 
 If you've bought a "productivity planner" before, you know the pattern: beautiful cover, 40 pages of motivational quotes, and a daily spread that's just a blank box with the word "Tasks" printed above it. The **Beautiful Hourly To Do Planner Notebook** takes the opposite approach. It's a time-blocking tool disguised as a pretty notebook — and for most people, that's exactly what actually works.

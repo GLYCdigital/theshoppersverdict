@@ -1,4 +1,5 @@
 ---
+
 title: "ARCORA Clothes Hook"
 seo_title: "ARCORA Clothes Hook Review: Heavy-Duty Wall Mount (2026)"
 meta_description: "ARCORA Clothes Hook review: Is this 4.7-star heavy-duty wall hook worth it? Real-world testing on build, grip, and installation. Buy it or skip it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09H2SRC6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XNGE9uwyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Zinc alloy construction with a matte black finish that resists fingerprints and corrosion far better than cheap chrome hooks"
   - "Generous 3.5-inch projection clears bulky winter coats without the hook pulling away from the wall"
   - "Rubber padding on the contact points prevents scratches on clothing and eliminates metal-on-metal rattling"
-cons:
+cons: 
   - "Screws included are adequate but not premium — upgrade to drywall anchors if mounting in hollow drywall without studs"
   - "The matte finish shows chalky dust and hard water spots in bathrooms more visibly than gloss alternatives"
+
 ---
 
 Most wall hooks are an afterthought — flimsy chrome things that bend under a wet towel and pull out of drywall by spring. The ARCORA Clothes Hook isn't that. This is a serious piece of hardware dressed up like a minimalist home accessory, and after 235 Amazon ratings averaging 4.7 stars, buyers clearly agree it's more than just a pretty face.

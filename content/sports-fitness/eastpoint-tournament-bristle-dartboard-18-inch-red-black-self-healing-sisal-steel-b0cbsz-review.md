@@ -1,4 +1,5 @@
 ---
+
 title: "EastPoint Tournament Bristle Dartboard - 18-Inch, Red/Black"
 seo_title: "EastPoint Tournament Dartboard Review: Real Sisal, Real Value"
 meta_description: "EastPoint Tournament Bristle Dartboard review: self-healing sisal, steel spider, and round wire. Is this 18-inch board worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CBSZBV7X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817lyaFk7UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dense, self-healing sisal fibers hold up well to steel-tip darts — one reviewer noted the board 'bounces back nicely' after months of daily play"
   - "Rotatable bullseye and number ring extend lifespan significantly; the staple-free bullseye reduces bounce-outs on your most valuable target"
   - "Comes with two sets of brass darts, wall mounting hardware, and a scoreboard — a complete starter package at a competitive price"
-cons:
+cons: 
   - "The round wire spider sits slightly proud of the surface, which causes occasional bounce-outs on tight double and triple shots"
   - "Included brass darts are lightweight (around 18g) and feel flimsy; serious players will want to upgrade to tungsten within weeks"
+
 ---
 
 **Is this the budget dartboard that actually plays like a tournament board? Or just another piece of wall art? I mounted it, threw 200 darts at it, and dug through the buyer feedback to give you the honest read.**

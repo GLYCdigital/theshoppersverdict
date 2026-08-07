@@ -1,4 +1,5 @@
 ---
+
 title: "Umisu 13 QT Roll Top Chafing Dish Buffet Set, Stainless Stee"
 seo_title: "Umisu 13 QT Roll Top Chafing Dish Buffet Set, Stai Review"
 meta_description: "Our full umisu 13 qt roll top chafing dish buffet set, stainless stee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CDPVY527/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Oug75MtBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Umisu 13 QT Roll Top Chafing Dish Buffet Set Review: Built for Real Events, Not Just Display

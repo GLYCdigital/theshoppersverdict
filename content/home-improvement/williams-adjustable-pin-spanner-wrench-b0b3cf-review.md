@@ -1,4 +1,5 @@
 ---
+
 title: "Williams Adjustable Pin Spanner Wrench"
 seo_title: "Williams Adjustable Pin Spanner Wrench Review: Verdict | "
 meta_description: "Our full williams adjustable pin spanner wrench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3CF1BWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y+NtZkUCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hook: One Tool That Replaces a Drawer Full of Specialized Wrenches**

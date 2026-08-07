@@ -1,4 +1,5 @@
 ---
+
 title: "GreenPan Clearview"
 seo_title: "GreenPan Clearview Review: Verdict | TSV"
 meta_description: "Our full greenpan clearview review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3JXYL3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5107A302deL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what the GreenPan Clearview is: a 10-piece ceramic nonstick set with a gimmick that actually works. The glass lids aren't just for show — they're the reason you'd pick this over the dozen other $130 cookware sets on Amazon.

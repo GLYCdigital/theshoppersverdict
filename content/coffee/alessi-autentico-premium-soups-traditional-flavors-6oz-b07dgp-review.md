@@ -1,4 +1,5 @@
 ---
+
 title: "Alessi Autentico Premium Soups, Traditional Flavors, 6oz"
 seo_title: "Alessi Autentico Soups Review: Worth It? (2026)"
 meta_description: "Honest Alessi Autentico Premium Soups review: flavor, texture, value. See what 225+ buyers say before you spend. Real verdict inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07DGPX3XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gH-kGiMiL._SL1500_.jpg"
-pros:
+pros: 
   - "Uses Italian-grown organic legumes and vegetables — noticeably fresher taste than standard canned soups"
   - "Clean ingredient list with no added sugar or artificial preservatives; just sea salt and olive oil"
   - "6oz single-serve cans are perfect for portion control, lunchboxes, or emergency pantry backup"
-cons:
+cons: 
   - "Small 6oz size means you'll need two cans for a full meal — price per ounce runs higher than bulk options"
   - "Texture leans rustic and brothy, not creamy — if you expect a thick, pureed soup, you'll be disappointed"
   - "Some flavors, particularly the lentil varieties, can be under-seasoned for American palates"
+
 ---
 
 Let's get one thing straight: this is not your grandmother's canned soup. Alessi Autentico Premium Soups come in a squat 6oz can that looks more like a fancy tomato paste tin than a meal. But that small package hides some serious Italian cooking pedigree, and after going through three flavors with a critical spoon, I can tell you exactly where this earns its 4.5-star rating — and where it stumbles.

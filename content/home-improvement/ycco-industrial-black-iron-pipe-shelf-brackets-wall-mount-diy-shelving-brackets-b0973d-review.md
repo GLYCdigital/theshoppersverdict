@@ -1,4 +1,5 @@
 ---
+
 title: "YCCO Industrial Black Iron Pipe Shelf Brackets Wall Mount DI"
 seo_title: "YCCO Industrial Black Iron Pipe Shelf Brackets Wal Review"
 meta_description: "Our full ycco industrial black iron pipe shelf brackets wall mount di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0973D533G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SQWmrk7qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building industrial-style shelving, you've probably stared at a dozen bracket options that all look identical in the product photos. The YCCO black iron pipe brackets stand apart because they're actually built from real steel, not the spun-metal or zinc alloy stuff that bends under a load of paperbacks. At 4.8 stars across 240 ratings, these have earned their reputation — but let's talk about what that rating really means.

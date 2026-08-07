@@ -1,4 +1,5 @@
 ---
+
 title: "TempPro TP08B 500FT Wireless Meat Thermometer for Grilling S"
 seo_title: "TempPro TP08B 500FT Wireless Meat Thermometer for  Review"
 meta_description: "Our full temppro tp08b 500ft wireless meat thermometer for grilling s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B014DAVHSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j23x+oDeL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # TempPro TP08B 500FT Wireless Meat Thermometer: The $40 Tool That Earns Its Keep

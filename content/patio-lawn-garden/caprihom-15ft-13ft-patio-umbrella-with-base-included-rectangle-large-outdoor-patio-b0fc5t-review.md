@@ -1,4 +1,5 @@
 ---
+
 title: "Caprihom 15FT/13FT Patio Umbrella with Base Included, Rectan"
 seo_title: "Caprihom 15FT Patio Umbrella Review: Base Included, Worth It?"
 meta_description: "Honest Caprihom 15FT/13FT patio umbrella review with base. Covers coverage, wind resistance, assembly, and durability. See if it fits your deck."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FC5T7PJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x-Alt-9JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 15-foot span provides genuine full-table coverage for 8-10 person dining sets"
   - "Base included — saves $80-100 versus buying a comparable cross-base separately"
   - "Crank lift and tilt mechanism operates smoothly even with the large canopy"
-cons:
+cons: 
   - "Base is hollow plastic; must fill with sand or water or the umbrella will tip in moderate breeze"
   - "Pole is two-piece with a seam — can wobble slightly at full extension in gusty conditions"
   - "Fabric is polyester, not solution-dyed; expect noticeable fading after 2-3 full sun seasons"
+
 ---
 
 Let me save you some scrolling. The Caprihom 15FT/13FT patio umbrella is the rare case where the "base included" claim isn't marketing fluff — it's actually the reason to buy this over competitors.

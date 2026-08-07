@@ -1,4 +1,5 @@
 ---
+
 title: "Bigzzia Ab Machine, 5-in-1 Adjustable Ab Workout Bench Core"
 seo_title: "Bigzzia Ab Machine Review: 5-in-1 Adjustable Ab Bench"
 meta_description: "Honest Bigzzia Ab Machine review: 5-in-1 adjustable ab bench for core workouts. See pros, cons, and who should buy this 4.4-star fitness gear."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN6F8X3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dpf-zywCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five distinct positions (flat, decline, sit-up, leg raise, dip) replace multiple pieces of equipment in one compact frame"
   - "Steel frame with foam rollers holds up to routine use without wobble, even during decline crunches"
   - "Folds flat for storage — practical for apartments or home gyms under 50 sq ft"
-cons:
+cons: 
   - "Assembly requires a hex wrench and patience; some buyers report misaligned holes that take extra effort to bolt together"
   - "No adjustable backrest angle beyond the preset positions — taller users (6'+) may find the bench length limiting for full extension"
+
 ---
 
 If you've been scrolling past the same three ab gadgets on Amazon — the wheel, the rocker, the "as seen on TV" contraption — the Bigzzia 5-in-1 Ab Bench is a different animal. It's a legitimate piece of equipment that swaps gimmicks for gravity. Here's the real story after digging through 220 ratings and the spec sheet.

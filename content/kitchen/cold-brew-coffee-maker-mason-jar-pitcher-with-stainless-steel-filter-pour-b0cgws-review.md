@@ -1,4 +1,5 @@
 ---
+
 title: "Cold Brew Coffee Maker,Mason Jar Pitcher with Stainless Stee"
 seo_title: "Cold Brew Coffee Maker Mason Jar Pitcher Review (2026)"
 meta_description: "Honest review of the Cold Brew Coffee Maker Mason Jar Pitcher with stainless steel filter. 4.5-star rated. Does it brew better than store-bought?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGWS34G3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xvbzgWWoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reusable stainless steel mesh filter eliminates paper filter waste and catches fine grounds without clogging"
   - "Mason jar design doubles as serving pitcher — no transfer needed, fits standard fridge doors"
   - "Borosilicate glass resists thermal shock; won't crack when washing right after a brew cycle"
-cons:
+cons: 
   - "1-quart capacity yields only about 4 cups of concentrate — heavy daily drinkers may need two batches"
   - "Mesh filter requires immediate rinsing; dried coffee oils make cleanup noticeably harder"
+
 ---
 
 Let's be direct: most cold brew makers are over-engineered plastic contraptions that cost $40 and break by August. This one is different. It's a thick mason jar with a stainless steel filter basket dropped inside. That's it. And that simplicity is exactly why it works.

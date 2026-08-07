@@ -1,4 +1,5 @@
 ---
+
 title: "R RUCKERCO Led Desk Lamp Dimmable Desk Light Reading Lamp 3 "
 seo_title: "R RUCKERCO Led Desk Lamp Dimmable Desk Light Readi Review"
 meta_description: "Our full r ruckerco led desk lamp dimmable desk light reading lamp 3  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CNZS9RRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fJyc-FZ3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a cheap LED desk lamp only to watch the gooseneck droop like a tired flower within a month, you already know the struggle this category is infamous for. The R RUCKERCO LED Desk Lamp — awkward product title and all — actually addresses that complaint head-on. With 220 ratings averaging 4.4 stars, it's clear this lamp has found an audience among people who need focused task lighting without spending premium money. But is it worth your desk space? Here's the honest breakdown.

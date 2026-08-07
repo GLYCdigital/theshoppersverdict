@@ -1,4 +1,5 @@
 ---
+
 title: "Viking Revolution Mens Solid Colognes 0.5 Oz - Men Solid Per"
 seo_title: "Viking Revolution Mens Solid Colognes 0.5 Oz - Men Review"
 meta_description: "Our full viking revolution mens solid colognes 0.5 oz - men solid per review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G5PSJLBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OHOtSq59L._SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'll cut straight to it: solid cologne is a different beast than spray. Most men try it once, smear on too much, and write it off as a gimmick. That's a mistake — because when used correctly, a quality solid like the Viking Revolution 0.5 oz tin outperforms sprays in durability and convenience. Here's the real breakdown.

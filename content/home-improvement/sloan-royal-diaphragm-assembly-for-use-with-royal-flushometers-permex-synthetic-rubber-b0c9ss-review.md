@@ -1,4 +1,5 @@
 ---
+
 title: "Sloan Royal Diaphragm Assembly - For use with Royal Flushome"
 seo_title: "Sloan Royal Diaphragm Assembly - For use with Roya Review"
 meta_description: "Our full sloan royal diaphragm assembly - for use with royal flushome review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C9SSJYSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zLDRBKEaL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a Sloan Royal flushometer that's running continuously, ghost-flushing at 2 a.m., or delivering a weak half-hearted flush, the problem is almost certainly the diaphragm assembly. This genuine Sloan replacement is the part that fixes it. It's not glamorous, but it's the difference between a toilet that works and one that wastes hundreds of gallons a month.

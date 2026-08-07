@@ -1,4 +1,5 @@
 ---
+
 title: "Lufeiya 32 40 Computer Desk with Drawers, Home Office Work W"
 seo_title: "Lufeiya 32 40 Computer Desk with Drawers, Home Off Review"
 meta_description: "Our full lufeiya 32 40 computer desk with drawers, home office work w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CL332TDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xl9YRqm+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most desks under $100 are wobbly particleboard nightmares held together by hope and cam locks. The Lufeiya 32/40 Computer Desk is not that. It's not a premium standing desk either, but for a home office or dorm setup, it punches well above its price point. With a 4.5-star average across 225 ratings, the consensus is clear — this desk gets the job done without the usual cheap-desk compromises.

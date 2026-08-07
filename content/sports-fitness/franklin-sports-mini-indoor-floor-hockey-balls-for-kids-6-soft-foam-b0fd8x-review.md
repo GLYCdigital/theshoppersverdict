@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Mini - Indoor Floor Hockey Balls for Kids -"
 seo_title: "Franklin Sports Mini Floor Hockey Balls Review (2026): Soft Foam"
 meta_description: "Franklin Sports Mini indoor floor hockey balls review: soft foam, kid-safe, 4.7★. Tested for bounce, durability, and indoor use. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD8XLVBT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xz4U5ko4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft foam construction won't dent walls, scratch hardwood, or leave welts on shins"
   - "Low-bounce design keeps play grounded — no chasing balls over the couch every 30 seconds"
   - "Set of 6 means backups when one inevitably rolls under the fridge"
-cons:
+cons: 
   - "Too light to replicate real puck glide on carpet — plays better on hard floors"
   - "Foam compresses permanently if a kid sits on one or a dog gets to it"
+
 ---
 
 **The honest scoop on these foam pucks before you buy a 6-pack**

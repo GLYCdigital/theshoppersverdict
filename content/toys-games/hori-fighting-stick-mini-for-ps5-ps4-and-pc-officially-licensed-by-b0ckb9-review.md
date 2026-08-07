@@ -1,4 +1,5 @@
 ---
+
 title: "HORI Fighting Stick Mini for PS5, PS4, and PC - Officially L"
 seo_title: "HORI Fighting Stick Mini Review: PS5, PS4 & PC Arcade Stick"
 meta_description: "HORI Fighting Stick Mini review: compact licensed arcade stick for PS5, PS4 & PC. See build quality, button feel, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKB9WK3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MWGBaYQIL._SL1500_.jpg"
-pros:
+pros: 
   - "Official Sony license means zero compatibility headaches on PS5 and PS4 — plug in and it works"
   - "Compact size (roughly 13 x 9 inches) makes it genuinely portable for locals and travel"
   - "Solid build with a metal base plate that keeps it planted during intense matches"
-cons:
+cons: 
   - "Mini size means palm-rest space is tight — players with larger hands will feel cramped"
   - "Stock HAYABUSA-style buttons are responsive but louder than silent alternatives"
   - "No headphone jack or extra function buttons you'd find on full-size sticks"
+
 ---
 
 Let's be blunt: most "mini" arcade sticks are toys. The HORI Fighting Stick Mini for PS5, PS4, and PC is the exception that proves the rule. At roughly 13 inches wide and weighing just over 3 pounds, this officially licensed stick packs most of what you'd want from a full-size fight stick into something that actually fits in a backpack. But "most" is the operative word — and whether that's enough depends entirely on who you are.

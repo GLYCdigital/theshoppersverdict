@@ -1,4 +1,5 @@
 ---
+
 title: "Pelican Catch Mode 110 Kayak"
 seo_title: "Pelican Catch Mode 110 Kayak Review: Verdict | TSV"
 meta_description: "Our full pelican catch mode 110 kayak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8J945JP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DbSmsvnfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. The Pelican Catch Mode 110 is a 10-foot-2-inch fishing kayak that weighs 64 pounds dry and carries a 350-pound capacity. That's the spec sheet. Here's what actually matters on the water.

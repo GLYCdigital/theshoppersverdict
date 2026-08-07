@@ -1,4 +1,5 @@
 ---
+
 title: "SodaStream Dishwasher Safe 1L Classic DWS Carbonating Bottle"
 seo_title: "SodaStream Dishwasher Safe 1L Classic DWS Carbonat Review"
 meta_description: "Our full sodastream dishwasher safe 1l classic dws carbonating bottle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FG2KW149/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LP746EuDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: the bottle that came with your SodaStream was probably fine for about a year. Then the threads started feeling gritty, the cap seal gave up, and your sparkling water went flat by Tuesday. That's the gap this dishwasher-safe replacement is designed to fill.

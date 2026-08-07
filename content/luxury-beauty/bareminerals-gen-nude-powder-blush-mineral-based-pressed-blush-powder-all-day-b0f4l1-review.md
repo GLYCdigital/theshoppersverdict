@@ -1,4 +1,5 @@
 ---
+
 title: "bareMinerals Gen Nude Powder Blush, Mineral-Based Pressed Bl"
 seo_title: "bareMinerals Gen Nude Blush Review: 4.6/5 Verdict (2026)"
 meta_description: "Honest bareMinerals Gen Nude Powder Blush review: mineral formula, wear time, shade payoff, and who should buy it. Real pros, cons, and FAQ."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4L1RKF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kq0JEmYAL._SL1500_.jpg"
-pros:
+pros: 
   - "Weightless mineral formula blends in seconds without clinging to dry patches"
   - "Buildable sheer-to-medium coverage that reads as natural, not painted"
   - "Soft matte finish survives 8+ hours without oxidizing or settling into pores"
-cons:
+cons: 
   - "Price sits at luxury tier for a single 0.21 oz compact"
   - "Deeper skin tones may find the shade range limited — only 6 options"
   - "Pressed formula can develop hard pan if applied with a dense synthetic brush"
+
 ---
 
 Let’s cut straight to it: the bareMinerals Gen Nude Powder Blush has 229 ratings averaging 4.6 stars, and for once, the hype mostly checks out. This isn't a pigment-bomb blush that screams for attention. It's the quiet overachiever of the makeup bag — the one that makes people ask if you're "naturally glowing" instead of "wearing a lot of blush."

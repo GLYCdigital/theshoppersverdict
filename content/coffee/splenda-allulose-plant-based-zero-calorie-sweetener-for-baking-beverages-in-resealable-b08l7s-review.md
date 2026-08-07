@@ -1,4 +1,5 @@
 ---
+
 title: "SPLENDA Allulose, Plant Based Zero Calorie Sweetener For Bak"
 seo_title: "SPLENDA Allulose, Plant Based Zero Calorie Sweeten Review"
 meta_description: "Our full splenda allulose, plant based zero calorie sweetener for bak review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08L7S5B6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LwABtUckL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Sugar Replacement That Actually Bakes Like Sugar**

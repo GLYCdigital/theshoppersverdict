@@ -1,4 +1,5 @@
 ---
+
 title: "Cheerwing UDI Large Brushless RC Racing Boat"
 seo_title: "Cheerwing UDI Large Brushless RC Boat Review (2026)"
 meta_description: "Cheerwing UDI brushless RC boat review: 4.3-star rated self-righting racer. Is it worth $150+? Speed tests, battery life, durability concerns revealed."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B083YWWK6T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/1/71hp1Y+VPBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Self-righting hull flips itself back over in seconds — no swim retrieve"
   - "Brushless motor delivers genuine 30+ mph with a 2S LiPo included"
   - "Waterproof electronics and cooling system handle sustained full-throttle runs"
-cons:
+cons: 
   - "Plastic hull flexes on hard impacts — cracked hulls reported at high speed"
   - "Stock propeller is brittle; keep spares or upgrade to metal immediately"
   - "Battery hatch seal needs regular silicone grease to stay watertight"
+
 ---
 
 Let me just say this upfront: the Cheerwing UDI Large Brushless RC Racing Boat is the boat you buy when you're done with toys and ready for something that actually scares you a little at full throttle. At roughly 26 inches long, this isn't a bathtub cruiser. It's a legitimate performance watercraft that hits speeds in the 30-35 mph range straight out of the box. But before you drop your cash, there are a few things you absolutely need to know.

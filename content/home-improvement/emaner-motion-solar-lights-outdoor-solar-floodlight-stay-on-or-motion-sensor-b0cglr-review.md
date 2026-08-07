@@ -1,4 +1,5 @@
 ---
+
 title: "EMANER Motion Solar Lights Outdoor, Solar Floodlight, Stay O"
 seo_title: "EMANER Motion Solar Lights Review: Stay-On Floodlight Tested"
 meta_description: "Our EMANER motion solar light review covers brightness, battery life, and PIR range. See if this outdoor floodlight beats cheaper rivals in the 4.2-star rating."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CGLRL8YZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716dqcVP6sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True stay-on mode that holds 40% brightness all night, not just a dim trickle — most budget solar floods skip this"
   - "Detachable solar panel with 16.4ft cable lets you mount panels in sun while aiming lights at dark corners"
   - "IP65 weatherproofing with aluminum housing holds up in rain and snow, per multiple owner reports"
-cons:
+cons: 
   - "Motion detection range (~26ft) is shorter than advertised, and the sensor angle misses wide driveways"
   - "Battery capacity drops noticeably after 6-8 months in cold climates, requiring winter recharging"
+
 ---
 
 Most solar floodlights promise "motion activated security" but give you a flashlight that dies by midnight. The EMANER Motion Solar Lights take a different route — they offer a genuine **stay-on mode** that keeps your yard visible all night at 40% brightness, then jumps to full power when something crosses the PIR sensor. At 4.2 stars across 210 ratings, it's not perfect. But for a $40-ish dual-head floodlight with a detachable panel, it outworks several $70 rivals I've tested.

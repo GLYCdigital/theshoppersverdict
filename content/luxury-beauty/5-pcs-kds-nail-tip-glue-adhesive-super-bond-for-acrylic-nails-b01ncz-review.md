@@ -1,4 +1,5 @@
 ---
+
 title: "5 pcs KDS Nail Tip Glue - Adhesive Super Bond for Acrylic Na"
 seo_title: "KDS Nail Tip Glue Review: Super Bond for Acrylics (2026)"
 meta_description: "Honest KDS Nail Tip Glue review: Does this 5-pack super bond adhesive hold acrylic tips? Real pros, cons, and who should buy it. 4.5/5 rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01NCZVOB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511gVAmNLOL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Five tubes means you're never stuck mid-manicure — each tube lasts 15-20 full sets"
   - "Thick viscosity grabs tips instantly, no sliding or repositioning needed"
   - "Dries crystal clear — no yellowing or chalky residue even under sheer polish"
-cons:
+cons: 
   - "The brush applicator clogs if you don't wipe the neck clean after every use"
   - "Bond is so aggressive that misaligned tips are nearly impossible to remove without acetone soak-off"
+
 ---
 
 Let's be real about nail glue: most of it is either watery garbage that takes forever to set or industrial-strength cement that fuses your fingers together. The KDS Nail Tip Glue 5-pack sits in a rare sweet spot — strong enough for full acrylic sets but manageable enough for at-home use. After digging through 225 ratings and the actual product specs, here's what you need to know before adding this to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Purex Sta-Flo Liquid Starch, 64 Ounce"
 seo_title: "Purex Sta-Flo Liquid Starch, 64 Ounce Review: Verdict | T"
 meta_description: "Our full purex sta-flo liquid starch, 64 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0042SWOHI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h9bcctb9L._AC_SL1340_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a floppy crochet snowflake or a quilt that won't hold its shape, you already know the struggle. Purex Sta-Flo Liquid Starch has been the quiet workhorse in craft rooms and laundry rooms for decades, and at 4.6 stars across 229 ratings, it's clearly doing something right. But is it actually worth your shelf space? Let's dig in.

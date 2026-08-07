@@ -1,4 +1,5 @@
 ---
+
 title: "Ciokea HDPE Outdoor Dining Set 7-Piece Patio Table and Chair"
 seo_title: "Ciokea HDPE Outdoor Dining Set Review: 7-Piece Patio Set"
 meta_description: "Ciokea HDPE outdoor dining set 7-piece review: solid plastic construction, but assembly and comfort issues. Read before you buy this patio table set."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DZP69D7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "True high-density polyethylene construction — won't rust, peel, or splinter like wood or metal sets in this price range"
   - "Chairs stack for compact storage when you need the patio space back"
   - "Weather-resistant build handles direct sun and rain without fading or warping"
-cons:
+cons: 
   - "Assembly requires significant time — multiple buyers report 2+ hours with confusing hardware labeling"
   - "Chairs run narrow and rigid; larger users report discomfort after 30 minutes of sitting"
   - "Table surface shows scratches and scuffs more easily than expected from HDPE"
+
 ---
 
 **The Short Version: Should You Buy the Ciokea 7-Piece HDPE Set?**

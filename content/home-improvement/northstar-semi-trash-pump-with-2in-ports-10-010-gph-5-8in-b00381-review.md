@@ -1,4 +1,5 @@
 ---
+
 title: "NorthStar Semi-Trash Pump with 2in Ports, 10,010 GPH, 5/8in "
 seo_title: "NorthStar Semi-Trash Pump with 2in Ports, 10,010 G Review"
 meta_description: "Our full northstar semi-trash pump with 2in ports, 10,010 gph, 5/8in  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00381Z288/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g84OSipCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a backyard flood turn into a week-long headache, you know the difference between a pump that *works* and a pump that *works when it matters*. The NorthStar Semi-Trash Pump sits firmly in the second category — but it comes with some quirks you need to know about before you drop your money.

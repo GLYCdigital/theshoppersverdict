@@ -1,4 +1,5 @@
 ---
+
 title: "GymCope Extra Large Exercise Mat, 10'x6'/9'x6'/8'x6'/7'x5'/6"
 seo_title: "GymCope Extra Large Exercise Mat, 10'x6'/9'x6'/8'x Review"
 meta_description: "Our full gymcope extra large exercise mat, 10'x6'/9'x6'/8'x6'/7'x5'/6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSNFL3WH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ip9eETa4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GymCope Extra Large Exercise Mat: The Floor-Saving Solution Most Brands Ignore

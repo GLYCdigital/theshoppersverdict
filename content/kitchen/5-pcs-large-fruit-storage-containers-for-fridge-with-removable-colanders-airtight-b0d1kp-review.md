@@ -1,4 +1,5 @@
 ---
+
 title: "5 PCS Large Fruit Storage Containers for Fridge with Removab"
 seo_title: "5 PCS Large Fruit Storage Containers for Fridge Review"
 meta_description: "Honest review of 5 PCS large fruit storage containers with removable colanders. See how they hold up, what buyers love, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1KPS9LP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81flBUebNaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable colander insert keeps berries and grapes off pooled moisture — produce lasts noticeably longer"
   - "Large capacity (each holds over 2 quarts) fits a full pound of strawberries or a whole head of lettuce"
   - "Airtight lids with silicone gaskets lock in freshness without being impossible to open"
-cons:
+cons: 
   - "Tall profile won't fit on every fridge shelf — measure your clearance before ordering"
   - "Not fully leakproof despite the gasket seal; tilting or flipping can cause drips"
   - "Hand-wash only; top-rack dishwasher use warped the lid on one unit after three cycles"
+
 ---
 
 You've thrown away one too many bags of slimy strawberries and wilted cilantro. I get it — leafy greens and berries are the most expensive things you'll toss. These 5 PCS Large Fruit Storage Containers with removable colanders are designed to fix exactly that problem. Here's whether they actually do.

@@ -1,4 +1,5 @@
 ---
+
 title: "Eastern Jungle Gym Easy 1-2-3 A-Frame 2 Brackets for Swing S"
 seo_title: "Eastern Jungle Gym A-Frame Brackets Review: Build a Swing Set"
 meta_description: "Honest Eastern Jungle Gym Easy 1-2-3 A-Frame 2 Brackets review. Sturdy hardware, easy assembly, real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B091F8VFFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711kh0NE-nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel brackets with 3/8-inch hardware hold up to weather without rusting"
   - "Works with standard 4x4 and 6x6 lumber — no custom cutting or welding needed"
   - "Pre-drilled holes and included bolts make a weekend DIY project into a 2-hour job"
-cons:
+cons: 
   - "You must supply your own lumber and swings — brackets only, not a complete set"
   - "Legs sit at a fixed 60-degree angle; you can't adjust stance for uneven ground"
+
 ---
 
 Let's be direct: you're not buying a swing set here. You're buying the **hardware that makes a swing set possible**. The Eastern Jungle Gym Easy 1-2-3 A-Frame Brackets are the metal skeleton that turns two-by-fours from your local lumber yard into a backyard swing frame sturdy enough for kids who test physics daily. At 4.7 stars across 235 ratings, this is one of the most consistently praised pieces of swing set hardware on Amazon — and after digging into what buyers actually say, the praise is earned.

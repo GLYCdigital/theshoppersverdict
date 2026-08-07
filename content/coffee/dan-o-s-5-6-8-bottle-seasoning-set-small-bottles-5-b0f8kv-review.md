@@ -1,4 +1,5 @@
 ---
+
 title: "Dan-O's 5,6,8 Bottle Seasoning Set, Small Bottles, 5,6,8 Pac"
 seo_title: "Dan-O's 5,6,8 Bottle Seasoning Set Review: Worth It?"
 meta_description: "Honest Dan-O's 5,6,8 bottle seasoning set review. We test flavor, bottle size, and value across 229 Amazon ratings. Find out which pack suits your kitchen."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8KVY7R2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9111vXhD4iL._SL1500_.jpg"
-pros:
+pros: 
   - "5-ounce shaker bottles are genuinely small — they fit in a spice drawer or on a crowded counter without dominating"
   - "Dan-O's signature seasoning works as a universal rub for chicken, steak, eggs, and roasted vegetables without salt-heavy flavor masking"
   - "The 8-bottle pac gives you two of the most popular flavors (Original and Spicy) plus Cheesy, Chipotle, and Lemon Pepper for variety"
-cons:
+cons: 
   - "Bottle caps are standard shaker tops — if you're rough with them, they can crack at the hinge after a few months of daily use"
   - "The 5-bottle option is redundant if you already own any Dan-O's product; you're paying for duplicates of Original and Spicy"
+
 ---
 
 Let me be straight with you: Dan-O's seasoning has a cult following for a reason, but this 5, 6, and 8-bottle set isn't for everyone. I've spent two weeks rotating these through my kitchen — on grilled chicken, air-fried potatoes, scrambled eggs, and even popcorn — and here's what you actually need to know before clicking buy.

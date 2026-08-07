@@ -1,4 +1,5 @@
 ---
+
 title: "WELLFUNTIME Inflatable Jumping Castle with Large Climbing Wa"
 seo_title: "WELLFUNTIME Inflatable Jumping Castle with Large C Review"
 meta_description: "Our full wellfuntime inflatable jumping castle with large climbing wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0C4XTM7V3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H18k51eJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** This bounce house does exactly what it promises — keeps kids entertained for hours — but it's not the $300 premium unit Amazon’s algorithm wants you to believe. At the sub-$200 price point (when on sale), it's a solid value with one major caveat: you must manage expectations about durability and noise.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bergeon 7825 Spring Bar Tweezer Lug Removal Fitting Tool"
 seo_title: "Bergeon 7825 Spring Bar Tweezer Review: Worth It?"
 meta_description: "Honest Bergeon 7825 spring bar tweezer review: precision Swiss build, real-world performance, and whether it beats cheaper alternatives. Read before buying."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07FVJXQ89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G-y4i2e-L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Precision-machined Swiss steel tips that grip spring bars without slipping or scratching lugs"
   - "The fork end holds the spring bar securely during reinstallation — no more launching tiny parts across the room"
   - "Solid, weighted build that feels like a proper watchmaker's tool, not a cheap Amazon special"
-cons:
+cons: 
   - "Significantly pricier than generic alternatives — you're paying for the Bergeon name"
   - "The pointed tip takes practice to master; beginners may scratch a lug before getting the angle right"
+
 ---
 
 Let me be blunt: changing a watch strap with a $5 Amazon tool is how you end up with a scratched lug and a spring bar that's now living in your carpet. The Bergeon 7825 is the tool that's supposed to end that frustration. Does it? Mostly yes — with a few caveats.

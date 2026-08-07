@@ -1,4 +1,5 @@
 ---
+
 title: "Gigabit Ethernet Splitter 1 to 2 - Network Splitter RJ45 Int"
 seo_title: "Gigabit Ethernet Splitter 1 to 2 - Network Splitte Review"
 meta_description: "Our full gigabit ethernet splitter 1 to 2 - network splitter rj45 int review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D66XVPW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XhGQ7WRbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the naming confusion first. This isn't a "splitter" in the old-school sense — the kind that forces two devices to share one cable and fight over bandwidth. The **Gigabit Ethernet Splitter 1 to 2** is actually a two-port network adapter that takes a single incoming Ethernet cable and gives you two full-speed RJ45 outputs. That's a meaningful difference, and it's why this little box earns its 4.5-star average across 225 Amazon ratings.

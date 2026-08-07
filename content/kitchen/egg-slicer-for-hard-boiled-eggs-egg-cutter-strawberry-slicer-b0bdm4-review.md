@@ -1,4 +1,5 @@
 ---
+
 title: "Egg Slicer for Hard Boiled Eggs Egg Cutter Strawberry Slicer"
 seo_title: "Egg Slicer for Hard Boiled Eggs Review (2026): Worth It?"
 meta_description: "Honest egg slicer review: 4.5-star rated egg cutter & strawberry slicer. Tested for durability, clean cuts & ease of cleaning. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BDM4TL6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ekhdALR5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel wires slice through eggs cleanly without crushing the yolk or squishing the white"
   - "Built-in strawberry/button mushroom cutter on the base adds genuine versatility beyond just eggs"
   - "Sturdy ABS plastic frame with a comfortable grip — no flexing or cracking under pressure"
-cons:
+cons: 
   - "Wires are not replaceable; if one snaps, you're buying a whole new slicer"
   - "The strawberry cutter leaves a small core piece behind — you'll need a paring knife for perfection"
   - "Top-heavy design can tip if you press too hard on a large egg; requires a steady hand"
+
 ---
 
 I've tested a lot of egg slicers that promised clean cuts and delivered mushy yolks. This one actually does what it says.

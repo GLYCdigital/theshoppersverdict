@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 72.5in Ocean-Themed Large Cat Tree, Multi-Level Ca"
 seo_title: "Yaheetech 72.5in Ocean-Themed Large Cat Tree, Mult Review"
 meta_description: "Our full yaheetech 72.5in ocean-themed large cat tree, multi-level ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CL9ZLL6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wQiwSJBAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa like a personal scratching post and your bookshelf like a climbing gym, the Yaheetech 72.5-inch ocean-themed cat tree is a serious contender for the throne. This multi-level tower packs a lot of vertical real estate into a footprint that won't swallow your living room. But is it actually stable enough for a 15-pound Maine Coon to launch off at 3 AM? Let's dig in.

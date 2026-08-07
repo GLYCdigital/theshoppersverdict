@@ -1,4 +1,5 @@
 ---
+
 title: "ED Hardy Skulls & Roses FOR MEN Eau De Toilette Spray oz"
 seo_title: "ED Hardy Skulls & Roses for Men Review: Bold EDT (2026)"
 meta_description: "ED Hardy Skulls & Roses for Men review: bold, tattoo-inspired EDT. Longevity, sillage, value. Is it worth it? 229 ratings, 4.6 stars. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CF4GCJSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RP6kIhFHL._SL1000_.jpg"
-pros:
+pros: 
   - "Distinctive, masculine blend of rose and spice that actually wears well — not a generic designer copy"
   - "Strong projection for the first 2–3 hours with 6–8 hour total longevity on skin"
   - "Bottle design matches the brand's tattoo aesthetic — looks like a collector's piece on a dresser"
-cons:
+cons: 
   - "Rose note may read as 'old-fashioned' to younger buyers expecting something sweeter or fresher"
   - "Sillage is loud — two sprays max or you'll overwhelm a small room"
+
 ---
 
 Some fragrances whisper. This one walks in wearing a leather jacket and doesn't apologize for it. The ED Hardy Skulls & Roses for Men Eau de Toilette is a statement piece — both visually and olfactorily — and after testing it across workdays, evenings, and one very humid outdoor event, I can tell you exactly what you're getting before you drop your money.

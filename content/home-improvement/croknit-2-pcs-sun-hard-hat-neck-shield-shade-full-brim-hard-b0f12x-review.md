@@ -1,4 +1,5 @@
 ---
+
 title: "Croknit 2 Pcs Sun Hard Hat Neck Shield Shade Full Brim Hard"
 seo_title: "Croknit Sun Hard Hat Neck Shield Review: Worth It?"
 meta_description: "Croknit 2-pack sun hard hat neck shield review: real coverage, fit, durability. See if this full-brim shade accessory earns its 4.1-star rating."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F12XLQY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q3BF99XkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two-piece set means you get a spare or can outfit two hats for roughly the cost of one branded accessory"
   - "Adjustable elastic cord with toggle cinches tight enough to stay put in wind without choking"
   - "Full-brim contour wraps around the sides, blocking sun that angled rays sneak past standard drapes"
-cons:
+cons: 
   - "Snaps are the weak link—several buyers report them popping off after a few weeks of daily use"
   - "No hard brim insert included; the shade relies on your existing hard hat's brim for structure"
+
 ---
 
 If you've spent a summer afternoon on a road crew or framing a roof in July, you know the drill: your hard hat blocks the top of your head, but your neck, ears, and the sides of your face take a beating. Sunburn on the back of your neck isn't just painful—it's a distraction that can cost you focus on the job. The Croknit 2-Pack Sun Hard Hat Neck Shield aims to fix that gap with a simple, affordable drape that clips onto your existing full-brim hard hat.

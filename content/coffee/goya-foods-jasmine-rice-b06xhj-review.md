@@ -1,4 +1,5 @@
 ---
+
 title: "Goya Foods Jasmine Rice"
 seo_title: "Goya Foods Jasmine Rice Review: Verdict | TSV"
 meta_description: "Our full goya foods jasmine rice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06XHJVZTC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rn+OlLM2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: jasmine rice is the most forgiving staple in your kitchen, and Goya's version earns its 4.8-star rating through consistency. After testing this bag across rice cookers, stovetop pots, and even a microwave hack, I can tell you exactly where it shines and where it stumbles.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lundberg Basmati Rice, Long Grain White Rice - Non-Sticky, F"
 seo_title: "Lundberg Basmati Rice, Long Grain White Rice - Non Review"
 meta_description: "Our full lundberg basmati rice, long grain white rice - non-sticky, f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0019LWJ58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DJQtd157L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most white rice is boring. It’s a vehicle for curry, a bed for stir-fry. Lundberg’s Basmati is different — and after testing it across three cooking methods, I understand why this bag has earned a 4.6-star average from 229 Amazon shoppers.

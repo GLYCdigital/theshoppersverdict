@@ -1,4 +1,5 @@
 ---
+
 title: "Brother TZe231 Label Tape"
 seo_title: "Brother TZe231 Label Tape Review: Worth It? (2026)"
 meta_description: "Honest Brother TZe231 label tape review: durability, print quality, compatibility, and real buyer feedback. Is this 0.94-inch tape worth your money?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FW5P775R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuine Brother TZe series construction with a protective laminate layer that resists water, oil, and fading — not a cheap third-party clone"
   - "0.94-inch width is the sweet spot for cable labels, file tabs, and equipment tags — wide enough for readable text, narrow enough for tight spaces"
   - "Consistent, smudge-proof print output on Brother P-Touch and QL label makers when paired with compatible devices"
-cons:
+cons: 
   - "Price per cartridge runs noticeably higher than generic alternatives — you're paying for the Brother name and the lamination quality"
   - "Only 26 feet per cartridge — heavy users will burn through these quickly, and there's no bulk-pack option at this width"
+
 ---
 
 Let's be blunt about label tape: most of it is garbage. Third-party cartridges jam, fade within months, or peel off within a week. The Brother TZe231 sits at a higher price point precisely because it doesn't do any of that. But is it worth the premium? Here's what 200 Amazon reviewers and my own teardown of the specs tell you.

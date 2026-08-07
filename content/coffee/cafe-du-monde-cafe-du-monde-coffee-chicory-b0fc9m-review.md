@@ -1,4 +1,5 @@
 ---
+
 title: "Cafe Du Monde Cafe Du Monde Coffee Chicory"
 seo_title: "Cafe Du Monde Coffee Chicory Review: Real New Orleans Taste"
 meta_description: "Honest Cafe Du Monde Coffee Chicory review: flavor, grind, brewing tips, and whether this iconic New Orleans coffee lives up to the hype."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC9M721M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nJnlLPcpL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic New Orleans chicory blend with a distinctive roasted, slightly bitter-sweet flavor you can't find elsewhere"
   - "Strong, bold roast that stands up to milk — perfect for cafe au lait style drinks"
   - "Generous canister size that keeps well if stored properly"
-cons:
+cons: 
   - "Pre-ground texture is inconsistent — some bags have a mix of fine dust and coarser chunks that can clog drip brewers"
   - "Chicory flavor is polarizing — if you don't like earthy, slightly woody notes, this isn't the coffee for you"
+
 ---
 
 There are two kinds of coffee drinkers in this world: those who've had Cafe Du Monde's signature chicory blend and those who haven't yet discovered what they're missing. With 229 Amazon ratings averaging 4.6 stars, this iconic New Orleans coffee has built a loyal following — and for good reason.

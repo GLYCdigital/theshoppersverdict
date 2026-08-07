@@ -1,4 +1,5 @@
 ---
+
 title: "Albott Bed Frame with 49 inch  Slatted Headboard, Farmhouse Platf"
 seo_title: "Albott Farmhouse Bed Frame Review: Honest 2026 Verdict"
 meta_description: "Albott bed frame with 49 inch  slatted headboard review: solid wood build, assembly quirks, and real buyer feedback. Is this farmhouse platform bed worth it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G1R4V916/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71itYuIkS8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine solid wood slatted headboard adds farmhouse character you don't get from veneer or MDF frames at similar prices"
   - "No box spring needed — integrated slat system supports a mattress directly, saving you $100+ and simplifying setup"
   - 49 inch " headboard height creates a strong visual anchor in the room, especially for taller ceilings or statement bedding
-cons:
+cons: 
   - "Assembly is a two-person job with roughly 30–45 minutes of work; some buyers report alignment fussiness on the side rails"
   - "Wood finish is matte and can scratch if you drag heavy items across it — use furniture pads under lamps or decor"
+
 ---
 
 **The farmhouse look without the barn-raising headache — mostly.**

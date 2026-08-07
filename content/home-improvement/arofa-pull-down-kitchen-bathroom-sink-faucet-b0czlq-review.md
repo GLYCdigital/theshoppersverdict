@@ -1,4 +1,5 @@
 ---
+
 title: "Arofa Pull Down Kitchen & Bathroom Sink Faucet"
 seo_title: "Arofa Pull Down Sink Faucet Review (2026): Is It Worth It?"
 meta_description: "Arofa Pull Down Kitchen & Bathroom Sink Faucet review: 4.7★ rated. Real pros, cons, and buyer feedback. Is this dual-function faucet right for your sink?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZLQYP9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51w214rHr6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-function pull-down sprayer with magnetic docking that actually stays put"
   - "Solid brass body and ceramic cartridge — no plastic internals at the water path"
   - "Tool-free installation with pre-attached supply lines saves 30+ minutes versus typical faucets"
-cons:
+cons: 
   - "Spray head hose length (24 inches) feels short for deep farmhouse sinks"
   - "Finish shows water spots more readily than oil-rubbed bronze alternatives"
+
 ---
 
 ## The Short Version

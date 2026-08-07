@@ -1,4 +1,5 @@
 ---
+
 title: "ROTTOGOON Dimmable Floor Lamp, Arc Floor Lamps for Living Ro"
 seo_title: "ROTTOGOON Dimmable Floor Lamp, Arc Floor Lamps for Review"
 meta_description: "Our full rottogoon dimmable floor lamp, arc floor lamps for living ro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9DYGCJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ct4DhVx1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The ROTTOGOON arc floor lamp is the rare piece of lighting that solves the two biggest problems with arc lamps — instability and limited dimming — without charging designer-brand prices. At 4.5 stars across 225 ratings, it's clear this one's doing something right. But there's a catch with the bulb situation that might surprise you.

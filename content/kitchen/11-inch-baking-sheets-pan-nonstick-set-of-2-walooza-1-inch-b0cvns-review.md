@@ -1,4 +1,5 @@
 ---
+
 title: "11 Inch Baking Sheets Pan Nonstick Set of 2, Walooza 1-inch"
 seo_title: "Walooza 11-Inch Baking Sheets Review: Nonstick Set of 2 inch"
 meta_description: "Walooza 11-inch nonstick baking sheets set of 2: 1-inch rims, warp-resistant steel, easy release. Honest review with pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CVNS78TG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BiRna5vlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1-inch rims catch drips and contain roasted vegetables without spillover"
   - "Nonstick coating releases cookies and pastries cleanly with minimal oil"
   - "Warp-resistant steel construction holds shape at 400°F+"
-cons:
+cons: 
   - "11-inch size is smaller than standard half-sheet pans — check your oven and recipes"
   - "Coating requires hand washing; dishwasher will degrade it over time"
+
 ---
 
 **The Walooza 11-inch baking sheets deliver solid performance at a budget-friendly price point, but the size is the real story here.**

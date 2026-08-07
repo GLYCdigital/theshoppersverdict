@@ -1,4 +1,5 @@
 ---
+
 title: "OEC Vented Splatter Guard Microwave Glass Cover Lid with eas"
 seo_title: "OEC Vented Splatter Guard Microwave Glass Cover Li Review"
 meta_description: "Our full oec vented splatter guard microwave glass cover lid with eas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BQ3268RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zJQ0VSyLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you a $15 mistake and a decade of scrubbing dried marinara off your microwave's ceiling: the **OEC Vented Splatter Guard** is the rare kitchen gadget that does exactly one job and does it properly. It's a glass lid, that's it. No electronics, no gimmicks. And that's precisely why it works.

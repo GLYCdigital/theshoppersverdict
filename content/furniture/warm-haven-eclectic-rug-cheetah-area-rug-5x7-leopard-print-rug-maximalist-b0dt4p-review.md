@@ -1,4 +1,5 @@
 ---
+
 title: "WARM HAVEN Eclectic Rug, Cheetah Area Rug 5x7 Leopard Print "
 seo_title: "WARM HAVEN Eclectic Rug, Cheetah Area Rug 5x7 Leop Review"
 meta_description: "Our full warm haven eclectic rug, cheetah area rug 5x7 leopard print  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DT4P2D92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pPdiF2SKL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a cheetah-print rug to blend in. The WARM HAVEN Eclectic 5x7 makes that clear the second you unroll it — this is a statement piece with a high-contrast, dark-on-cream pattern that reads boldly from across the room. At 4.1 stars across 204 ratings, it's not perfect, but for the price point, it's a legitimate way to inject maximalist energy into a neutral space.

@@ -1,4 +1,5 @@
 ---
+
 title: "NYX PROFESSIONAL MAKEUP Wonder Stick"
 seo_title: "NYX PROFESSIONAL MAKEUP Wonder Stick Review: Verdict | TS"
 meta_description: "Our full nyx professional makeup wonder stick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B73QSSS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e3Iw1QJZL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $10 contour stick that actually delivers — if you nail the shade match**

@@ -1,4 +1,5 @@
 ---
+
 title: "Sculpey: Original Sculpey Clay: White - 1 lb - Polymer Oven "
 seo_title: "Sculpey: Original Sculpey Clay: White - 1 lb - Pol Review"
 meta_description: "Our full sculpey: original sculpey clay: white - 1 lb - polymer oven  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B008R86AOW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+iykd5TcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with rock-hard polymer clay that fights back, Original Sculpey White is the opposite experience. This 1 lb block is soft, almost buttery, ready to condition and shape within seconds of opening the package. It's the clay that got countless crafters started — and for good reason.

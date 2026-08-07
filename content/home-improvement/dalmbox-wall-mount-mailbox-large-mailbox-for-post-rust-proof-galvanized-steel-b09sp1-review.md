@@ -1,4 +1,5 @@
 ---
+
 title: "Dalmbox Wall-Mount Mailbox Large Mailbox for Post Rust-Proof"
 seo_title: "Dalmbox Wall-Mount Mailbox Review: Rust-Proof Large Box"
 meta_description: "Dalmbox wall-mount mailbox review: Is this rust-proof galvanized steel box worth it? Real buyer feedback, size specs, and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SP1WPQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hW8kCZTrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gauge of galvanized steel resists rust through coastal winters and salt air"
   - "Large capacity fits magazine-sized mailers and small parcels flush"
   - "Mounting hardware included with a template that actually lines up"
-cons:
+cons: 
   - "White finish shows grime quickly; needs periodic wipe-down"
   - "No lock on the door — package thieves can open it freely"
   - "Pre-drilled holes are fixed; no vertical adjustment after mounting"
+
 ---
 
 Most wall-mounted mailboxes look like they were designed in 1987 and stamped out of tin foil. The Dalmbox isn't that. It's a genuinely large, galvanized steel box that takes actual punishment from weather and still looks presentable after a year of rain, snow, and afternoon sun. Here's the full breakdown.

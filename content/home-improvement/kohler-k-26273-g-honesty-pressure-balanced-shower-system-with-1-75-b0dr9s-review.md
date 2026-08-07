@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler K-26273-G Honesty Pressure Balanced Shower System wit"
 seo_title: "Kohler K-26273-G Honesty Pressure Balanced Shower  Review"
 meta_description: "Our full kohler k-26273-g honesty pressure balanced shower system wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.6
 amazon_url: "https://www.amazon.com/dp/B0DR9SS9CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514iyj3HHsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

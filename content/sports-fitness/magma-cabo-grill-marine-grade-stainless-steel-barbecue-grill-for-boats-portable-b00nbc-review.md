@@ -1,4 +1,5 @@
 ---
+
 title: "Magma Cabo Grill - Marine-Grade Stainless Steel Barbecue Gri"
 seo_title: "Magma Cabo Grill - Marine-Grade Stainless Steel Ba Review"
 meta_description: "Our full magma cabo grill - marine-grade stainless steel barbecue gri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00NBC04CI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RV5fgQUML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most boat grills are toys. Flimsy chrome-plated wire racks, undersized burners that struggle against wind, and legs that buckle the first time you set them on a dock cleat. The Magma Cabo Grill isn't that. It's the grill you see mounted on serious offshore boats — the ones that actually cook meals, not just heat up hot dogs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Haranuo Office Chair, Ergonomic Executive Conference Room Ch"
 seo_title: "Haranuo Office Chair Review: Worth It? Honest 2026 Verdict"
 meta_description: "Haranuo ergonomic executive chair review: ribbed leather, lumbar support, comfort tested. See pros, cons, and who should buy. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GVPFKQW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GWroPO3EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ribbed leather upholstery with high-density foam that holds shape after months of daily use — no sagging or visible wear reported"
   - "Tool-free assembly takes under 10 minutes; all bolts pre-aligned and the backrest clicks into place without wrestling"
   - "Adjustable lumbar support actually engages — you feel it press into your lower back, not just a decorative bump on the frame"
-cons:
+cons: 
   - Seat depth is fixed at roughly 19 inches — taller users (6'2 inch "+) will find the edge of the seat pressing into the back of their knees
   - "Armrests are height-adjustable but lack forward/backward or pivot movement, limiting ergonomic customization for varied desk heights"
   - "Leather-look upholstery traps heat; expect a sweaty back during summer months without air conditioning"
+
 ---
 
 **The Haranuo Office Chair is the rare budget executive chair that takes lumbar support seriously.** Most chairs in this price range bolt on a foam pad and call it ergonomics. This one has actual adjustable tension in the lumbar region, and that alone puts it ahead of the pack. But at 4.0 stars across 200 ratings, buyers have mixed feelings — and I'll tell you exactly why.

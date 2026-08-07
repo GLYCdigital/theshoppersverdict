@@ -1,4 +1,5 @@
 ---
+
 title: "kevala Extra Virgin Organic Sesame Oil Fl Oz"
 seo_title: "kevala Extra Virgin Organic Sesame Oil Fl Oz Review: Verd"
 meta_description: "Our full kevala extra virgin organic sesame oil fl oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2PGJT2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R4RxQDZrL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've bought sesame oil before. It was probably that amber bottle in the Asian aisle — mass-produced, toasted, and one-dimensional. The kevala Extra Virgin Organic Sesame Oil is not that. This is the unhurried, small-batch cousin that shows up to the dinner party with actual character. And at 4.7 stars from 235 ratings, I'm clearly not the only one who noticed.

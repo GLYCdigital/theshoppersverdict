@@ -1,4 +1,5 @@
 ---
+
 title: "Pacific Foods Organic Vegetable Broth"
 seo_title: "Pacific Foods Organic Vegetable Broth Review: Verdict | T"
 meta_description: "Our full pacific foods organic vegetable broth review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DW99LTNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oMKzoUDbL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 First, a necessary correction. The product data says this is a coffee maker or coffee gear. It is not. This is a carton of organic vegetable broth. If you're here looking for espresso machine advice, you've taken a wrong turn. But if you cook — and especially if you're tired of broths that taste like salty water with a vague hint of "vegetable" — keep reading. This might be the pantry staple you didn't know you needed.

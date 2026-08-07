@@ -1,4 +1,5 @@
 ---
+
 title: "Ravensburger Disney Villainous Strategy Board Game for Age 1"
 seo_title: "Ravensburger Disney Villainous Strategy Board Game Review"
 meta_description: "Our full ravensburger disney villainous strategy board game for age 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DLGD9K6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812e09Wqh8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Disney Villainous: The Strategy Game That Makes You the Bad Guy**

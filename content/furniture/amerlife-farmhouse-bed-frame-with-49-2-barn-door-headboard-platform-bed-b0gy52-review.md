@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Farmhouse Bed Frame with 49.2 inch  Barn Door Headboard,"
 seo_title: "AMERLIFE Farmhouse Bed Frame Review: Barn Door Headboard"
 meta_description: "Honest AMERLIFE farmhouse bed frame review: barn door headboard, platform build, assembly, durability. See if this 4.0-star bed fits your bedroom."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY529VRY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tMaA+lJEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "49.2-inch sliding barn door headboard with functional track — genuine farmhouse focal point, not a cheap decal"
   - "Platform design eliminates box spring need; center support bars prevent sagging on queen/king sizes"
   - "Solid pine wood frame rated for 800+ lbs; headboard connects with metal brackets, not flimsy dowels"
-cons:
+cons: 
   - "Assembly runs 45–60 minutes with 3+ people; barn door track alignment is finicky if floor isn't level"
   - "Pre-drilled holes on side rails don't match all mattress heights — thick 14-inch mattresses sit higher than the barn door lip"
+
 ---
 
 The AMERLIFE Farmhouse Bed Frame with a 49.2" barn door headboard is the piece you buy when you want your bedroom to look like a restored 1890s farmhouse but don't want to pay custom woodworker prices. At 4.0 stars across 200 ratings, it's good but not flawless. Here's what you actually get.

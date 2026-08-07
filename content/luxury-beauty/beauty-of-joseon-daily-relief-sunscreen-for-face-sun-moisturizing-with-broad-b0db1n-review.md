@@ -1,4 +1,5 @@
 ---
+
 title: "Beauty of Joseon Daily Relief Sunscreen for face Sun moistur"
 seo_title: "Beauty of Joseon Daily Relief Sunscreen Review (2026) | SPF 50+"
 meta_description: "Beauty of Joseon Daily Relief Sunscreen review: rice-based SPF 50+ that hydrates without white cast. See if this K-beauty favorite earns its 4.5-star rating."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB1NPDNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg"
-pros:
+pros: 
   - "Silky, lotion-like texture that layers cleanly under makeup with zero white cast on deeper skin tones"
   - "Rice extract and probiotics actually moisturize — most days you can skip a separate moisturizer underneath"
   - "Chemical UV filters (avobenzone, homosalate, octocrylene) absorb quickly without pilling or greasy residue"
-cons:
+cons: 
   - "Small 50ml tube runs out fast if you apply the recommended 2-finger amount daily — expect ~4 weeks of use"
   - "Contains fragrance and essential oils (lavender, rosemary) — sensitive skin types may react"
   - "Not water-resistant; this is a daily urban sunscreen, not a beach or gym companion"
+
 ---
 
 Beauty of Joseon has become a K-beauty darling for good reason, and the Daily Relief Sunscreen is the product that put this brand on the map. But does the hype hold up for real-world shoppers? After digging through 225 Amazon ratings and the ingredient list, here's the honest breakdown.

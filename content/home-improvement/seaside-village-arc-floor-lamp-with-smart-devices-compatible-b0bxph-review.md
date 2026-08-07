@@ -1,4 +1,5 @@
 ---
+
 title: "Seaside village Arc Floor lamp with Smart Devices Compatible"
 seo_title: "Seaside village Arc Floor lamp with Smart Devices  Review"
 meta_description: "Our full seaside village arc floor lamp with smart devices compatible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXPHFSJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S1Z2lro6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Arc Lamp That Actually Plays Nice With Your Smart Home

@@ -1,4 +1,5 @@
 ---
+
 title: "CITYLE 1500LBS Capacity No-Gap Design 8 10 12 14 15 16 FT Re"
 seo_title: "CITYLE 1500LBS Resistance Bands Review: No-Gap Design"
 meta_description: "CITYLE 1500LBS resistance bands with no-gap design — read our honest review covering durability, grip, and whether these heavy-duty bands deliver real value."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C5RJNYL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81d9nk4++yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 1500LBS combined rating across the set — not inflated like many budget bands"
   - "No-gap layered design prevents the dreaded pinching/snapping at connection points"
   - "Length options (8–16 ft) accommodate exercises from floor work to full overhead pulls"
-cons:
+cons: 
   - "Individual band resistance isn't printed on the bands themselves — you'll need to reference the included chart"
   - "Carrying case is basic nylon; won't survive heavy travel abuse long-term"
+
 ---
 
 # CITYLE 1500LBS Resistance Bands Review: Heavy-Duty Pulling Power Without the Pinch

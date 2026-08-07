@@ -1,4 +1,5 @@
 ---
+
 title: "Aveeno Daily Moisturizing Body Wash for Dry Skin with Soothi"
 seo_title: "Aveeno Daily Moisturizing Body Wash Review: Dry Skin Savior"
 meta_description: "Our Aveeno Daily Moisturizing Body Wash review covers its oat-based formula, lather quality, and whether it truly relieves dry, itchy skin. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5DHJ995/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T7TAzXszL._SL1500_.jpg"
-pros:
+pros: 
   - "Prebiotic oat formula genuinely calms itchy, tight skin within days — not just while you're in the shower"
   - "Rinses clean without that slippery film most 'moisturizing' washes leave behind"
   - "Fragrance-free and dye-free, making it a safe bet for sensitive and eczema-prone skin"
-cons:
+cons: 
   - "The lather is thinner than traditional body washes — you'll need more product per wash than you might expect"
   - "If you want a strong, lingering scent, this isn't it. It's completely fragrance-free, which some shoppers find disappointing"
+
 ---
 
 Let me be blunt: most body washes that claim to moisturize are lying. They coat your skin in a greasy residue, call it hydration, and leave you feeling like you showered in lotion. The Aveeno Daily Moisturizing Body Wash with Soothing Oat doesn't do that. It actually works — and that's why it's earned a 4.7 average from 235 Amazon reviewers.

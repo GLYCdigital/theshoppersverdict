@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels Monster Trucks"
 seo_title: "Hot Wheels Monster Trucks Review (2026): Worth It?"
 meta_description: "Hot Wheels Monster Trucks review: 4.8-star toy tested for durability, crashes, and play value. See if these trucks survive real kids before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FW19B5GS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KuTsKHMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Giant foam tires absorb hard crashes without snapping axles — a top complaint with other monster truck lines"
   - "Die-cast chassis gives real heft (about 8 oz per truck) so launches feel satisfying rather than flimsy"
   - "Works on carpet, tile, and pavement — not limited to smooth surfaces like many track-based toys"
-cons:
+cons: 
   - "No launcher or ramp included in the base set — you're paying for trucks only, not a playset"
   - "Paint chips on the body shell after repeated hard impacts (cosmetic only, but collectors will notice)"
   - "Batteries not required — that's great — but there's no sound or light features for kids who expect sensory feedback"
+
 ---
 
 # Hot Wheels Monster Trucks: The 4.8-Star Toy That Actually Survives Kids

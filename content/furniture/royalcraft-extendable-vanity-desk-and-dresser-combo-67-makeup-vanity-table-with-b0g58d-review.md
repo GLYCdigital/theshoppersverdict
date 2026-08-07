@@ -1,7 +1,8 @@
 ---
-title: "RoyalCraft Extendable Vanity Desk and Dresser Combo, 67\" Mak"
+
+title: "RoyalCraft Extendable Vanity Desk and Dresser Combo, 67\ Mak"
 seo_title: "RoyalCraft Extendable Vanity Desk and Dresser Comb Review"
-meta_description: "Our full royalcraft extendable vanity desk and dresser combo, 67\" mak review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full royalcraft extendable vanity desk and dresser combo, 67\ mak review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "royalcraft-extendable-vanity-desk-and-dresser-combo-67-makeup-vanity-table-with-b0g58d-review"
 image_alt: "RoyalCraft Extendable Vanity Desk and Dresser Combo, 67 Makeup Vanity Table with Drawers and 3 Side Shelves, Wood Dressi"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G58DYG9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XT-HwlhIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The RoyalCraft 67" Extendable Vanity Desk and Dresser Combo: One piece of furniture that actually earns its floor space**

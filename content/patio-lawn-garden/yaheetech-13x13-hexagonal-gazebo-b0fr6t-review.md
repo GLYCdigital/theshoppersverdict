@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 13x13 Hexagonal Gazebo"
 seo_title: "Yaheetech 13x13 Hexagonal Gazebo Review: Verdict | TSV"
 meta_description: "Our full yaheetech 13x13 hexagonal gazebo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR6TQVQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51g3bERIsPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 13x13 footprint sounds small on paper, but in person this hexagonal gazebo dominates a patio. It's not the cheapest option in this size class, and it's not the most premium either — it sits in that practical middle where most shoppers actually live. After digging through 210 ratings and the spec sheet, here's what you're really getting.

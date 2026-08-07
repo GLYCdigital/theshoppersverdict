@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market Organic Ranch Dressing"
 seo_title: "365 Whole Foods Organic Ranch Dressing Review (2026)"
 meta_description: "Honest 365 by Whole Foods Organic Ranch Dressing review: taste, ingredients, texture, and value. See how it compares to Hidden Valley before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D1VRTPG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zo0m7PSfL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean organic ingredient list with no artificial preservatives, flavors, or colors"
   - "Noticeably thicker, creamier texture than mass-market ranch dressings"
   - "Balanced tang from cultured buttermilk without the cloying sweetness of competitors"
-cons:
+cons: 
   - "Separates noticeably when refrigerated — requires vigorous shaking every use"
   - "Herb pieces (parsley, dill) can clump and clog the bottle opening as you near the bottom"
   - "Milder garlic profile won't satisfy those who want an aggressive, punchy ranch flavor"
+
 ---
 
 You've seen the bottle with the clean green label in the refrigerated section. But does 365 by Whole Foods Market Organic Ranch Dressing actually deliver on taste, or is it just another overpriced "clean" label that sacrifices flavor for virtue?

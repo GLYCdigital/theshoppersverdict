@@ -1,4 +1,5 @@
 ---
+
 title: "HAIXIANG LED Pendant Lighting, Crystal Mini Pendant Light Fi"
 seo_title: "HAIXIANG LED Pendant Lighting, Crystal Mini Pendan Review"
 meta_description: "Our full haixiang led pendant lighting, crystal mini pendant light fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0893WQVDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511LTc3H5ML._AC_SL1091_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook**  

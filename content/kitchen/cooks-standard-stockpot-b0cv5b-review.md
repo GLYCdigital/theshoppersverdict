@@ -1,4 +1,5 @@
 ---
+
 title: "Cooks Standard Stockpot Review"
 seo_title: "Cooks Standard Stockpot Review: Is It Worth It? (2026)"
 meta_description: "Honest Cooks Standard Stockpot review: 4.7/5 rating, tri-ply build, real-world performance. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CV5BB8Y2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b+ECetl8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply aluminum core heats evenly across the base and walls, eliminating hot spots for consistent simmering"
   - "Riveted, stay-cool stainless handles feel solid and stay secure even when the pot is fully loaded"
   - "Oven-safe up to 500°F including the lid, so you can start on the stovetop and finish in the oven"
-cons:
+cons: 
   - "No pour spouts on the rim — transferring broth or stock requires a ladle or careful tilting"
   - "Stainless exterior shows fingerprints and water spots quickly; expect to polish after every use"
+
 ---
 
 A stockpot is one of those purchases you make once and live with for a decade. The Cooks Standard Stockpot has been floating around Amazon with a 4.7-star average across 235 ratings, and it's earned that reputation for a reason. But before you add it to your cart, there are a few things you should know — some of which the product photos won't tell you.

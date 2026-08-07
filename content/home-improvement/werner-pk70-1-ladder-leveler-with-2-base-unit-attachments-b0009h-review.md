@@ -1,4 +1,5 @@
 ---
+
 title: "Werner PK70-1 Ladder Leveler with 2-Base Unit Attachments"
 seo_title: "Werner PK70-1 Ladder Leveler with 2-Base Unit Atta Review"
 meta_description: "Our full werner pk70-1 ladder leveler with 2-base unit attachments review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0009H5SHO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SaY2Z3fSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever set up an extension ladder on a sloped driveway, a flower bed, or uneven dirt and felt that sickening wobble as you climbed, you already know the problem. The Werner PK70-1 attacks that problem head-on with a pair of heavy-duty leveling feet that bolt onto your ladder's rails. At 4.6 stars from 229 Amazon ratings, it's clearly doing something right. Here's the honest breakdown.

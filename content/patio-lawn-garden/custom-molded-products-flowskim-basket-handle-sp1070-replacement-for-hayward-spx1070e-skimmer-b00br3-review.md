@@ -1,4 +1,5 @@
 ---
+
 title: "Custom Molded Products Flowskim Basket Handle SP1070 - Repla"
 seo_title: "Flowskim Basket Handle SP1070 Review: Perfect Hayward Replacement"
 meta_description: "Our honest Flowskim Basket Handle SP1070 review: durability, fit with Hayward skimmers, real buyer feedback, and whether it beats the OEM part."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00BR3WTDA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619rpgr0QWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Injection-molded from the same grade polypropylene as OEM, so it flexes without snapping when you lift a full basket"
   - "Exact dimensional match to Hayward SPX1070E — drops in without filing, bending, or forcing"
   - "Priced at roughly half the cost of the Hayward-branded handle, making it a smart replacement for aging skimmer baskets"
-cons:
+cons: 
   - "Not compatible with Pentair or Jandy skimmers — this is strictly for Hayward SP1070/SP1071 series baskets"
   - "Handle color is a slightly brighter white than older, sun-faded baskets, so it may stand out cosmetically"
   - "Fine for residential use, but the plastic won't survive repeated abuse like dropping the basket on concrete"
+
 ---
 
 Let me save you 20 minutes of online searching: if you own a Hayward skimmer with a cracked or broken basket handle, this is the replacement you want. The Custom Molded Products Flowskim Basket Handle SP1070 is a direct drop-in for the OEM Hayward SPX1070E part, and it costs less than what your pool supply store will charge for the branded version.

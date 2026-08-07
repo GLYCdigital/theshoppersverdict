@@ -1,4 +1,5 @@
 ---
+
 title: "EaseLife Sliding Barn Door Hardware Track Kit with 12'' Hand"
 seo_title: "EaseLife Sliding Barn Door Hardware Review (2026): Worth It?"
 meta_description: "EaseLife sliding barn door track kit review: 6.6ft steel rail, 12 inch  handle, smooth nylon wheels. Is it sturdy enough? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C69CZ2P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71THvsTSmZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-drilled rail with 12.6mm holes aligns perfectly with standard 6.6ft door widths — no custom drilling needed"
   - "Nylon-lined wheels glide silently even on hollow-core doors up to 110 lbs; no jerky start-stop motion"
   - "Anti-jump pins and floor guide included — door stays on track even if someone slams it"
-cons:
+cons: 
   - "Mounting hardware only accommodates drywall with studs; plaster or tile installs require separate anchors"
   - "12-inch handle is fixed length — no adjustment if you prefer a shorter or longer grip"
   - "Rail finish is matte black only; no oil-rubbed bronze or nickel options at this price point"
+
 ---
 
 **Opening: The $90 question — does budget barn door hardware actually hold up?**

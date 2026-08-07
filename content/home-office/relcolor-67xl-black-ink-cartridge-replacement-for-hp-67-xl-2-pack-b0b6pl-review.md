@@ -1,4 +1,5 @@
 ---
+
 title: "Relcolor 67XL Black Ink Cartridge Replacement for HP 67 XL 2"
 seo_title: "Relcolor 67XL Black Ink Cartridge Replacement for  Review"
 meta_description: "Our full relcolor 67xl black ink cartridge replacement for hp 67 xl 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B6PLJ3GS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719BjEqBOJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Relcolor 67XL Black Ink Cartridge Replacement for HP 67 XL 2: The $37 Question

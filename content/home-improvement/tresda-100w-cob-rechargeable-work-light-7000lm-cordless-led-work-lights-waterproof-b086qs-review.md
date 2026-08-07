@@ -1,4 +1,5 @@
 ---
+
 title: "Tresda 100W COB Rechargeable Work Light, 7000LM Cordless LED"
 seo_title: "Tresda 100W COB Rechargeable Work Light, 7000LM Co Review"
 meta_description: "Our full tresda 100w cob rechargeable work light, 7000lm cordless led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086QSKL4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FrDMmhBGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Tresda 100W COB Rechargeable Work Light: Real Brightness, Real Battery, Real Tradeoffs

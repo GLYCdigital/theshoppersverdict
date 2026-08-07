@@ -1,5 +1,6 @@
 ---
 
+
 title: "Amazon Basics 34 inch Portable Sturdy Folding Dining Table w"
 seo_title: "Amazon Basics 34 inch  Folding Dining Table Review (2026)"
 meta_description: "Honest Amazon Basics 34-inch folding dining table review: build quality, real-world use, weight capacity, and who should buy it. 4.7-star rated."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1C8CY8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61buIMzL-6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel frame with a 220-lb weight capacity — genuinely stable, not wobbly like most folding tables under $60 inch"
   - "Genuinely one-hand fold mechanism with a locking latch; stores flat at just 2 inches thick"
   - "Scratch-resistant laminate surface that wipes clean — no staining after coffee or grease spills"
-cons:
+cons: 
   - "34-inch height is fixed — no adjustable legs, so it's not ideal for counter-height bar stool seating"
   - "At 16.5 lbs it's portable but not light; carrying handle helps but you won't want to haul it up three flights of stairs daily"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Bateso Large Toy Storage Organizer, Montessori Bookshelf, Ki"
 seo_title: "Bateso Large Toy Storage Organizer Review (2026): Worth It?"
 meta_description: "Honest Bateso Large Toy Storage Organizer review: 4.5-star Montessori bookshelf. Build quality, real-world use, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DY7P8CM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JAIUc0mpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine wood construction with rounded corners, not particleboard — survives toddler abuse"
   - "Five separate compartments handle both books and toys without looking cluttered"
   - "Anti-tip wall anchor included; assembly takes under 20 minutes with labeled parts"
-cons:
+cons: 
   - "Wood arrives with a slight factory smell that needs 2-3 days to air out"
   - "No backing panel on the lower shelves — small items can slide out the back"
+
 ---
 
 ## The Montessori Shelf That Actually Earns Its Keep

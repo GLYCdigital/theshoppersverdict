@@ -1,4 +1,5 @@
 ---
+
 title: "Depets Cat Feather Wand Toy, 5PCS Assorted Feather Refills w"
 seo_title: "Depets Cat Feather Wand Toy Review: 5 Refills, 4.2/5 Rating"
 meta_description: "Our Depets Cat Feather Wand Toy review: 5 assorted refills, bell attachment, 4.3-star Amazon rating. Is it worth buying? Find out pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C38CSHK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MVHMYzf5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "5 interchangeable feather refills give you weeks of variety before a cat gets bored"
   - "Bell attachment adds audible stimulation that triggers prey drive effectively"
   - "Flexible wand tip whips naturally, mimicking bird/bug movement patterns cats find irresistible"
-cons:
+cons: 
   - "Feathers shed and fray quickly under aggressive chewers — plan for replacements"
   - "Wand shaft is hollow aluminum that bends permanently if a cat lands on it mid-swing"
+
 ---
 
 **The $12 question: Does your cat actually need another wand toy?**

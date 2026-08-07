@@ -1,7 +1,8 @@
 ---
-title: "HTH 42038 Super 3\" Chlorinating Tablets Swimming Pool Chlori"
-seo_title: "HTH 42038 Super 3\" Chlorinating Tablets Swimming P Review"
-meta_description: "Our full hth 42038 super 3\" chlorinating tablets swimming pool chlori review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HTH 42038 Super 3\ Chlorinating Tablets Swimming Pool Chlori"
+seo_title: "HTH 42038 Super 3\ Chlorinating Tablets Swimming P Review"
+meta_description: "Our full hth 42038 super 3\ chlorinating tablets swimming pool chlori review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hth-42038-super-3-chlorinating-tablets-swimming-pool-chlorine-15-lbs-b083x4-review"
 image_alt: "HTH 42038 Super 3 Chlorinating Tablets Swimming Pool Chlorine, 15 lbs"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B083X4ZSQ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8198MbSLwUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: pool care is a chore, and the right sanitizer makes the difference between a weekend of floating and a chemistry nightmare. The HTH 42038 Super 3" Chlorinating Tablets are the workhorse option most pool owners land on — 15 pounds of slow-dissolving trichlor tabs that handle the heavy lifting. With 225 ratings holding a 4.5-star average, it's clearly doing something right. Here's the unvarnished breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "MIAOMEIO 12 inch Flush Mount Ceiling Light, 2-Light Close to"
 seo_title: "MIAOMEIO 12 inch Flush Mount Ceiling Light, 2-Ligh Review"
 meta_description: "Our full miaomeio 12 inch flush mount ceiling light, 2-light close to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7W8SZW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AkmV9S2BL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: Most flush mounts under $50 are cheap stamped metal with a plastic shade that yellows in a year. The MIAOMEIO 12-inch is not that fixture. With 225 ratings and a 4.5-star average, it’s earned a reputation as the quiet overachiever of the close-to-ceiling category. Here’s the full breakdown after digging through specs, buyer feedback, and the real-world tradeoffs.

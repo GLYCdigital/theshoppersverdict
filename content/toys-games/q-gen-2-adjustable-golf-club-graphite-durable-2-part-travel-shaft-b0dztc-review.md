@@ -1,4 +1,5 @@
 ---
+
 title: "Q Gen 2 Adjustable Golf Club (Graphite) - Durable 2-Part Tra"
 seo_title: "Q Gen 2 Adjustable Golf Club (Graphite) - Durable  Review"
 meta_description: "Our full q gen 2 adjustable golf club (graphite) - durable 2-part tra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0DZTCCZVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vNklpyZIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a 3.1-star average across 155 ratings tells you something before you even open the box. The Q Gen 2 Adjustable Golf Club has a genuinely clever concept — a graphite shaft that splits into two pieces for travel — but the execution has left a trail of frustrated buyers. Here's the real story.

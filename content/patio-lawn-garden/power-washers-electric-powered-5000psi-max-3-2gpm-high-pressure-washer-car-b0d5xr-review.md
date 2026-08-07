@@ -1,4 +1,5 @@
 ---
+
 title: "Power Washers Electric Powered 5000PSI-max 3.2GPM High Press"
 seo_title: "Power Washers Electric Powered 5000PSI-max 3.2GPM  Review"
 meta_description: "Our full power washers electric powered 5000psi-max 3.2gpm high press review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D5XRY628/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HzrexVtbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some time: if you're shopping by the "5000 PSI" number on the box, you're already looking at this the wrong way. This electric pressure washer from Amazon's budget tier is a solid mid-range cleaner, but it's not the industrial beast the packaging suggests. Here's what 190 buyers and my own research actually reveal.

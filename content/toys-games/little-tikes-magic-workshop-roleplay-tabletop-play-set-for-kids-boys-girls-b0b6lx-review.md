@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Magic Workshop Roleplay Tabletop Play Set for K"
 seo_title: "Little Tikes Magic Workshop Roleplay Tabletop Play Review"
 meta_description: "Our full little tikes magic workshop roleplay tabletop play set for k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6LXJNVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S2ZUkbUiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of toys that need batteries, make noise at 6 AM, and break by Tuesday, this Little Tikes Magic Workshop might be your answer. It's a simple, sturdy, imagination-driven playset that's been a hit with the 3-6 crowd. But it's not without flaws.

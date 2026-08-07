@@ -1,4 +1,5 @@
 ---
+
 title: "Raaka Chocolate 100% Cacao, Sugar Free Dark Chocolate | Gour"
 seo_title: "Raaka Chocolate 100% Cacao, Sugar Free Dark Chocol Review"
 meta_description: "Our full raaka chocolate 100% cacao, sugar free dark chocolate | gour review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0B3VQ6V9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717JgUb1MHL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This Isn't Chocolate. It's Cacao, Full Stop.

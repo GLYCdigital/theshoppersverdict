@@ -1,4 +1,5 @@
 ---
+
 title: "Cadet Bully Hide Sticks Large"
 seo_title: "Cadet Bully Hide Sticks Large Review: Worth It? (2026)"
 meta_description: "Cadet Bully Hide Sticks Large review: Are these 6-inch chews safe & long-lasting? We analyze texture, odor, value, and buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSLNJ4PF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t9rg0aP3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Braided texture lasts significantly longer than flat rawhide or single-layer bully sticks"
   - "Noticeably lower odor than traditional bully sticks — indoor-friendly for most owners"
   - "Fully digestible beef hide with no rawhide, bleach, or artificial additives"
-cons:
+cons: 
   - "Not indestructible — aggressive power chewers may finish one in under 20 minutes"
   - "Calorie-dense; owners of overweight dogs need to account for the extra intake"
+
 ---
 
 If you've ever tossed a traditional bully stick to a dog who's done with it in nine minutes flat, you already know the frustration — and the cost. The Cadet Bully Hide Sticks Large take a different approach: instead of a single dense muscle, they're made from braided beef hide that forces your dog to work for every bite. Whether that translates to lasting value or just a longer wait for the inevitable mess is what we're here to sort out.

@@ -1,4 +1,5 @@
 ---
+
 title: "Leopmase RC Plane 4 Channel Remote Control Airplane - F-22 R"
 seo_title: "Leopmase RC Plane 4 Channel Remote Control Airplan Review"
 meta_description: "Our full leopmase rc plane 4 channel remote control airplane - f-22 r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DXFGD8LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FiFdVpEmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A fighter jet that actually flies — with caveats**

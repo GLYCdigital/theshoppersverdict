@@ -1,7 +1,8 @@
 ---
-title: "JXQTLINGMU Farmhouse TV Stand for 80 Inch TV, 32\" Tall Enter"
-seo_title: "JXQTLINGMU Farmhouse TV Stand for 80 Inch TV, 32\"  Review"
-meta_description: "Our full jxqtlingmu farmhouse tv stand for 80 inch tv, 32\" tall enter review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JXQTLINGMU Farmhouse TV Stand for 80 Inch TV, 32\ Tall Enter"
+seo_title: "JXQTLINGMU Farmhouse TV Stand for 80 Inch TV, 32\  Review"
+meta_description: "Our full jxqtlingmu farmhouse tv stand for 80 inch tv, 32\ tall enter review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "jxqtlingmu-farmhouse-tv-stand-for-80-inch-tv-32-tall-entertainment-center-b0dn9b-review"
 image_alt: "JXQTLINGMU Farmhouse TV Stand for 80 Inch TV, 32 Tall Entertainment Center w/Drawer & Sliding Barn Door, Highboy Media C"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DN9BRGFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/912K5cUlyDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped for TV stands lately, you know the struggle: everything under 30 inches tall forces you to mount the TV or crane your neck. The JXQTLINGMU Farmhouse TV Stand breaks that pattern at a genuine 32 inches — high enough that your eyes land naturally on the center of the screen from a standard sofa. That alone makes it worth a look for anyone with a 65- to 80-inch television.

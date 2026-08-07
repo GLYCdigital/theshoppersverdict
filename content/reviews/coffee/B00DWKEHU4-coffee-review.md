@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K155 Office Pro Review: Commercial-Grade K-Cup Brewing Worth the Price?"
 seo_title: "Keurig K155 Office Pro Review 2026: Commercial K-Cup Brewer Tested"
 meta_description: "Our full Keurig K155 Office Pro review. Real customer insights on the commercial single-cup K-Cup brewer for offices. 90oz reservoir, fast brew, 5 brew sizes. See pros, cons, and who should buy."
@@ -13,10 +14,10 @@ amazon_rating: 4.4
 review_count: 4977
 verdict_score: 7.5
 badge: "Top Rated"
-categories:
+categories: 
   - kitchen
   - coffee
-tags:
+tags: 
   - Keurig
   - K155
   - Office Pro
@@ -24,25 +25,26 @@ tags:
   - coffee maker
   - commercial
   - B00DWKEHU4
-pros:
+pros: 
   - "Brews up to 35 cups per tank — great for busy offices"
   - "Fast brew cycle with minimal wait time"
   - "Commercial-grade build feels sturdy and durable"
   - "Multiple cup size options (4 oz, 6 oz, 8 oz, 10 oz)"
   - "Simple setup and straightforward daily operation"
-cons:
+cons: 
   - "Notably expensive at $355 — overkill for home use"
   - "No 12 oz brewing option, even on cheaper Keurig models"
   - "Reliability concerns reported within the first year of use"
   - "Reservoir needs draining if machine sits unused to avoid buildup"
   - "Customer support experiences are mixed when issues arise"
-faq:
+faq: 
   - question: "Can the K155 Office Pro brew 12 oz cups?"
     answer: "No. The K155 maxes out at 10 ounces, which is an odd omission at this price point since cheaper Keurig models offer 12 oz brewing."
   - question: "Is the Keurig K155 Office Pro good for home use?"
     answer: "It's overkill for most homes. The 90-ounce reservoir and commercial build make more sense for an office or high-traffic shared space. A standard Keurig at half the price serves home users better."
   - question: "What size is the water reservoir on the K155?"
     answer: "90 ounces, rated for up to 35 cups per fill. This is one of the machine's standout features — significantly larger than home models."
+
 ---
 
 # Keurig K155 Office Pro Single Cup Commercial K-Cup Pod Coffee Maker Review

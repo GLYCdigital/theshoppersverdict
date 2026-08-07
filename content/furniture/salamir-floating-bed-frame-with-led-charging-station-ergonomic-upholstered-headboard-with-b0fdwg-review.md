@@ -1,4 +1,5 @@
 ---
+
 title: "Salamir Floating Bed Frame with LED & Charging Station, Ergo"
 seo_title: "Salamir Floating Bed Frame with LED & Charging Sta Review"
 meta_description: "Our full salamir floating bed frame with led & charging station, ergo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDWGK8RP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81E8Oq5iUFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the product-page hype. The Salamir Floating Bed Frame with LED and Charging Station is a mid-priced bed frame that promises a lot: ambient lighting, built-in power, and that coveted "floating" aesthetic. At 225 ratings and a 4.5-star average, it's clearly doing something right. Here's what that rating actually means for you.

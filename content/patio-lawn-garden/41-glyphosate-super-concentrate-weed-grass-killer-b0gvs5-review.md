@@ -1,4 +1,5 @@
 ---
+
 title: "41% Glyphosate Super Concentrate Weed & Grass Killer"
 seo_title: "41% Glyphosate Super Concentrate Review: Does It Work?"
 meta_description: "Our honest 41% Glyphosate Super Concentrate review covers real-world weed control, mixing ratios, safety, and value. See if this 41% glyphosate killer is right for your yard."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVS5X255/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kTa6cHWuL._SL1500_.jpg"
-pros:
+pros: 
   - "41% glyphosate concentration matches the strongest commercial formulations — one bottle dilutes into up to 85 gallons of ready-to-use spray"
   - "Kills weeds down to the root system in 7–14 days, including perennial grasses and tough broadleafs like poison ivy and Canadian thistle"
   - "Economical for large properties — a single pint costs roughly the same as one 32-oz bottle of ready-to-use spray but covers 10x the area"
-cons:
+cons: 
   - "Requires separate sprayer and careful measuring; no built-in applicator means more setup and cleanup time"
   - "Non-selective — any drift onto ornamentals, vegetables, or lawn grass will kill them just as effectively as the weeds"
+
 ---
 
 ## The 41% Glyphosate Super Concentrate: Heavy-Duty Weed Control Without the Retail Markup

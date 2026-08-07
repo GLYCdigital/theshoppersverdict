@@ -1,10 +1,11 @@
 ---
+
 title: "KRUPS F203 Electric Coffee and Spice Grinder Review: 20 Years of Consistency"
 seo_title: "KRUPS F203 Coffee Grinder — Budget Icon (Tested) | TSV"
 meta_description: "KRUPS F203 electric coffee grinder review: 70,893 ratings, 4.4 stars, $19.99. Is this $20 blade grinder still worth buying in 2026? Read our verdict."
 slug: "krups-f203-electric-coffee-grinder-review"
 image_alt: "KRUPS F203 Precision Electric Coffee Grinder in black with stainless steel blades and clear lid"
-keywords:
+keywords: 
   - "KRUPS F203 review"
   - "best budget coffee grinder 2026"
   - "KRUPS coffee grinder"
@@ -16,18 +17,18 @@ amazon_rating: 4.4
 price: 19.99
 amazon_url: "https://www.amazon.com/dp/B00004SPEU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wscxhIsyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Unmatched durability — many users report 15-20 year lifespans"
   - "Simple one-touch operation with consistent blade grind"
   - "Compact footprint fits any kitchen counter"
   - "Versatile — handles coffee beans, spices, herbs, and seeds equally well"
   - "Championed by America's Test Kitchen for value"
-cons:
+cons: 
   - "Blade grind is less consistent than burr grinders for espresso"
   - "Interior can be tricky to clean between different grinds"
   - "Small 3 oz capacity limits batch size"
   - "No grind size adjustment — timing controls coarseness"
-faq:
+faq: 
   - question: "How long does the KRUPS F203 electric coffee grinder last?"
     answer: "Many reviewers report 15-20 years of regular use. Several users replaced theirs only after the first one was 'friend-napped' or knocked off the counter — not because it wore out."
   - question: "Can the KRUPS F203 grind spices and seeds?"
@@ -37,6 +38,7 @@ faq:
   - question: "Does the KRUPS F203 produce consistent coffee grinds?"
     answer: "For drip coffee, French press, and pour-over, the grind consistency is excellent. For espresso, a burr grinder would be more precise, but most home users find the F203 perfectly adequate."
 date: 2026-05-28
+
 ---
 
 **The $20 grinder that's been in 70,000+ kitchens — here's the honest truth about the KRUPS F203.**

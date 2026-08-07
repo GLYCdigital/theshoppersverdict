@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Featuring Wild Kratts, Fruit Juic"
 seo_title: "365 Whole Foods Wild Kratts Fruit Juice Review: Real Taste"
 meta_description: "Honest 365 by Whole Foods Wild Kratts Fruit Juice review: taste, sugar content, and kid appeal. See if this lemonade earns its 4.4-star rating."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DC144N5H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GOST3tKcL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean ingredient list with no artificial colors, flavors, or high-fructose corn syrup"
   - "Wild Kratts branding actually resonates with kids — makes lunchbox packing easier"
   - "Balanced sweet-tart lemonade flavor that isn't cloying or overly acidic"
-cons:
+cons: 
   - "Still contains 13g of added sugar per serving — not a low-sugar option despite the health halo"
   - "Single-serve cartons are small (6.75 oz) — older kids may want two"
   - "Availability fluctuates on Amazon; subscription is the reliable way to keep it stocked"
+
 ---
 
 Let me be upfront: this is a juice box with a cartoon animal on it. But it's also a 4.4-star product with 220 ratings, and there's a reason parents keep repurchasing it. I've broken down exactly what you're paying for — and where the hype falls short.

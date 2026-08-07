@@ -1,4 +1,5 @@
 ---
+
 title: "TOOWELL Motion Sensor Ceiling Light Battery Operated Indoor/"
 seo_title: "TOOWELL Motion Sensor Ceiling Light Battery Operat Review"
 meta_description: "Our full toowell motion sensor ceiling light battery operated indoor/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPT4SX6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51O91Gzt8qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a dark hallway, a closet with no overhead wiring, or a stairwell that's a trip hazard after sunset, the TOOWELL Motion Sensor Ceiling Light is the kind of product that makes you wonder why every rental apartment doesn't ship with one. This is a battery-operated LED puck that sticks to your ceiling and lights up when you walk under it. No electrician. No junction box. No permission from your landlord. But before you buy three of them, let's talk about what this light actually does well — and where it'll leave you squinting.

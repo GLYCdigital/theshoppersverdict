@@ -1,4 +1,5 @@
 ---
+
 title: "CLOROX® Pool&SPA™ Shock XTRABLUE®2 inch"
 seo_title: "CLOROX Pool Shock XTRABLUE2 Review: Fast-Acting Clarity (2026)"
 meta_description: "Our CLOROX Pool&SPA Shock XTRABLUE2 review covers real performance, oxidation power, and value. See if this 4.8-star pool shock is right for your water."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVR4Q3QZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DyCyKHxRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dissolves fast with minimal clouding — water is swimmable in as little as 15 minutes"
   - "XTRABLUE2 technology combines chlorine shock with a blue clarifier, eliminating the need for a separate flocculant"
   - "Works in under 15 minutes on organic contaminants like algae, sunscreen, and body oils"
-cons:
+cons: 
   - "Higher upfront cost per pound than plain calcium hypochlorite shock"
   - "Blue dye can temporarily tint pool surfaces if you overdose or add directly over a light-colored liner"
   - "Not stabilized — you'll need to add cyanuric acid separately for outdoor pools in full sun"
+
 ---
 
 # CLOROX® Pool&SPA™ Shock XTRABLUE®2: The Two-in-One Shock That Actually Earns Its Keep

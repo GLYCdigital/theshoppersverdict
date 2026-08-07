@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics No. 1 Paper Clips"
 seo_title: "Amazon Basics No. 1 Paper Clips Review (2026): Worth It?"
 meta_description: "Amazon Basics No. 1 Paper Clips review: 4.7-star rated, 200-count box. Are they strong enough? We test durability, finish, and value."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B076D91XNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816YAMwhoyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 1-inch size with smooth, snag-free wire ends"
   - "Genuine steel core holds up to 15 sheets without permanent bending"
   - "200-count box offers better per-clip value than retail store packs"
-cons:
+cons: 
   - "No anti-rust coating — avoid humid environments or long-term storage"
   - "Thin gauge wire feels flimsy when clipping thick cardstock"
   - "Basic cardboard box has no resealable closure, clips can spill"
+
 ---
 
 Let’s be honest: paper clips are the unsung workhorses of any desk. You don't think about them until the cheap ones snap in half or leave rust stains on a client contract. The Amazon Basics No. 1 Paper Clips aim to be the quiet, dependable option — and at 4.7 stars from 235 ratings, they're clearly doing something right.

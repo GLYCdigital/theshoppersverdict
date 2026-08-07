@@ -1,4 +1,5 @@
 ---
+
 title: "El Pastor skewer for sharwama"
 seo_title: "El Pastor Skewer for Shawarma Review: Worth It? (2026)"
 meta_description: "Honest El Pastor skewer for shawarma review: build quality, real-world cooking results, and who should buy it. 4.3-star verdict inside."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSG5HMQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71naY8FIjNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full stainless steel construction that won't rust or leach into acidic marinades like the al pastor pineapple-based ones"
   - "Fits both standard oven racks and most countertop rotisserie units, so you're not locked into one cooking method"
   - "Drip tray actually catches the juices — no hourly foil-wrapping gymnastics to keep your oven from becoming a smoke detector trigger"
-cons:
+cons: 
   - "Skewer shaft is 12 inches — too tall for compact toaster ovens or standard home ovens with the rack in the middle position"
   - "The included base plate is thin; it can wobble on uneven counter surfaces when loaded with 5+ pounds of meat"
+
 ---
 
 If you've ever watched a taquero slice thin, crisp-edged layers off a vertical trompo and thought, "I could do that at home," this skewer is the piece of gear that makes it plausible. The El Pastor skewer for shawarma is a purpose-built vertical rotisserie attachment designed to turn your standard oven — or countertop rotisserie — into a proper spit-roasting setup. It's not a gimmick; it's a legitimately useful tool for anyone who cooks al pastor, shawarma, gyro meat, or even stacked chicken thighs on a regular basis.

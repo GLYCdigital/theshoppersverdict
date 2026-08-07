@@ -1,4 +1,5 @@
 ---
+
 title: "Dragonfly Solar Lanterns Outdoor Waterproof Hanging Sunflowe"
 seo_title: "Dragonfly Solar Lanterns Review: Waterproof Hanging Sunflower Lights"
 meta_description: "Honest Dragonfly solar lanterns review: waterproof hanging sunflower lights rated 4.6/5. Real performance, durability, and buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1N9BMWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810HOdcve4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine waterproofing that survives rain, sprinklers, and winter weather without shorting out"
   - "Warm amber glow from the sunflower face creates real ambiance, not harsh LED blue-white light"
   - "Sturdy metal stem and hook construction — these don't feel like disposable seasonal decorations"
-cons:
+cons: 
   - "Solar panel output means brightness depends heavily on direct sun exposure; shady spots get dim results"
   - "Plastic sunflower petals can yellow after extended UV exposure in hot climates"
   - "Switch placement on the battery compartment is fiddly to reach once hung"
+
 ---
 
 **The Short Version: These Dragonfly solar lanterns actually deliver what the product photos promise — warm, cheerful sunflower lighting that holds up outdoors. At a 4.6/5 from 229 ratings, they're not perfect, but for the price, they're a genuinely solid buy.**

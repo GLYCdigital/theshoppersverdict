@@ -1,4 +1,5 @@
 ---
+
 title: "Alitte Colored Legal Pads 12 pack"
 seo_title: "Alitte Colored Legal Pads 12 Pack Review: Worth It? (2026)"
 meta_description: "Read our honest Alitte Colored Legal Pads 12 pack review. Tested for bleed-through, durability & color accuracy. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7QR4QL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7112IOlrxdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "12 distinct colors in one pack — actual color variety, not just 4 shades of pastel"
   - "50 sheets per pad with sturdy chipboard backing that survives backpack abuse"
   - "Perforated pages tear cleanly without ripping or leaving jagged edges"
-cons:
+cons: 
   - "Paper is on the thinner side — heavy gel pens and markers will ghost through"
   - "No color coding on the back cover — you have to flip to the top to identify colors when stacked"
+
 ---
 
 Let me be direct: most colored legal pad multipacks are a disappointment. You get eight pads, but four of them are variations of "off-white" and "slightly more off-white." The Alitte 12-pack doesn't pull that trick. As shown in the product image, you're getting twelve genuinely distinct colors — from bright pink and lime green to deep blue and purple. That alone puts it ahead of most competitors in the $20–$30 range.

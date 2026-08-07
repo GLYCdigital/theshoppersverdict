@@ -1,4 +1,5 @@
 ---
+
 title: "Large Print Wireless Keyboard and Mouse - 7 Colors Backlit K"
 seo_title: "Large Print Wireless Keyboard and Mouse - 7 Colors Review"
 meta_description: "Our full large print wireless keyboard and mouse - 7 colors backlit k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CYC3QHWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F6JYTRdQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this keyboard is not built for gamers, programmers, or anyone who types 80 words per minute for a living. It's built for someone who's tired of squinting at their keyboard. And for that person — the one with aging eyes, low-light offices, or just a preference for big, obvious keys — this large print wireless keyboard and mouse combo is a genuinely thoughtful piece of gear.

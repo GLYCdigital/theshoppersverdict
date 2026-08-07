@@ -1,4 +1,5 @@
 ---
+
 title: "Grow More All Season's Fertilizer - Water Soluble Plant Fert"
 seo_title: "Grow More All Season's Fertilizer - Water Soluble  Review"
 meta_description: "Our full grow more all season's fertilizer - water soluble plant fert review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CX9N76BW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YEXs0Qb5L._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you're tired of paying premium prices for water-soluble fertilizer that's 90% the same chemistry, Grow More All Season's delivers the goods at a working-person's price. For the money, this is the best balanced 20-20-20 I've tested this season.

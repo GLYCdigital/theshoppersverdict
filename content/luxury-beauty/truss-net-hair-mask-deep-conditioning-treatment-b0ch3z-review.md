@@ -1,4 +1,5 @@
 ---
+
 title: "TRUSS Net Hair Mask - Deep Conditioning Treatment"
 seo_title: "TRUSS Net Hair Mask - Deep Conditioning Treatment Review:"
 meta_description: "Our full truss net hair mask - deep conditioning treatment review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CH3ZVCXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614VOgLQisL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: $57 for a hair mask is a serious commitment. But TRUSS Net isn't your average drugstore deep conditioner, and the 4.7-star average across 235 ratings suggests something worth investigating. I've dug through the customer feedback, analyzed the ingredient profile, and tested this against other salon-grade masks in its class. Here's what you need to know before spending.

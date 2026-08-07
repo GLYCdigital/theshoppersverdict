@@ -1,4 +1,5 @@
 ---
+
 title: "Lipoliftco Garden Hose 100FT, Non-Expanding, Lightweight Hos"
 seo_title: "Lipoliftco Garden Hose 100FT, Non-Expanding, Light Review"
 meta_description: "Our full lipoliftco garden hose 100ft, non-expanding, lightweight hos review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DYN9CZW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kcDPmDYPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 100-foot hose that's actually light enough to haul around? That's the promise. Here's whether the Lipoliftco delivers without the leaks.

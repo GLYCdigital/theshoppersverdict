@@ -1,4 +1,5 @@
 ---
+
 title: "QLXTeltd Black Wagon Wheel Chandelier with Glass Shade, Blac"
 seo_title: "QLXTeltd Black Wagon Wheel Chandelier with Glass S Review"
 meta_description: "Our full qlxteltd black wagon wheel chandelier with glass shade, blac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJP9CLXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MuQpokhaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The QLXTeltd Black Wagon Wheel Chandelier is the kind of statement piece that makes you rework an entire room's decor around it. If you're shopping for a farmhouse or rustic-industrial fixture that doesn't scream "builder grade," this one earns its place in your cart — but only if your ceiling height cooperates.

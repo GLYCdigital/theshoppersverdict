@@ -1,4 +1,5 @@
 ---
+
 title: "Caliart Outline Glitter Markers, Shimmer Metallic Glitter Pe"
 seo_title: "Caliart Outline Glitter Markers Review: Shimmer Pens Tested"
 meta_description: "Caliart Outline Glitter Markers reviewed: do shimmer metallic pens hold up? Real testing on bleed, smudge, and sparkle. 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DL6BDHKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8144cCJvMIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-tip design (0.4mm fine + 1-2mm brush) gives both precise outlining and broad shimmer fills in one pen"
   - "Genuine glitter particles suspended in quick-dry ink — not just metallic dye that fades to gray"
   - "Survives smudge testing at 30 seconds on standard copy paper; no ghosting on 80gsm stock"
-cons:
+cons: 
   - "Glitter settles fast — you'll shake 10-15 seconds before every use or get watery, pigment-light strokes"
   - "Not waterproof; a stray coffee ring or highlighter pass will smear the shimmer"
   - "Ink runs dry faster than expected on porous cardstock (roughly 30% fewer linear feet than standard markers)"
+
 ---
 
 Let's cut through the glitter haze. The Caliart Outline Glitter Markers aren't just another metallic pen that promises sparkle and delivers faint gray scribbles. These actually carry real shimmer — but they demand a bit of maintenance to earn their keep.

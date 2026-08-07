@@ -1,4 +1,5 @@
 ---
+
 title: "360 Lighting Romeo 23 1/2 inch  High Jar Small Farmhouse Rustic N"
 seo_title: "360 Lighting Romeo Farmhouse Jar Light Review (4.6/5)"
 meta_description: "Honest 360 Lighting Romeo farmhouse jar light review: build quality, sizing, mounting details, and whether this rustic wall sconce fits your space."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNS6R5CX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91wsI2TAY3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "23.5-inch height makes a genuine statement — this is not a token accent piece, it anchors a wall properly"
   - "Seeded glass jar diffuses light warmly without harsh glare, and the natural wood tone pairs well with both gray and beige farmhouse palettes"
   - "Damp-rated construction handles covered outdoor spaces like porches, not just indoor hallways"
-cons:
+cons: 
   - "Requires a 4-inch round junction box — standard 3-inch boxes won't fit, and the canopy doesn't hide mistakes"
   - "Bulbs are exposed through the clear glass, so a cheap LED filament bulb will ruin the aesthetic instantly"
+
 ---
 
 Let me be upfront: most "farmhouse" lighting on Amazon is the same matte-black-and-wood cookie cutter. The 360 Lighting Romeo is not that. At 23.5 inches tall, this jar-style sconce has actual presence. It reads more like a small lantern than a wall light, and that changes how you use it.

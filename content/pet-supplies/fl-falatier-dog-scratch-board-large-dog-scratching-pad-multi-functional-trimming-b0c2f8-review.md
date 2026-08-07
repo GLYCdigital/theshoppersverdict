@@ -1,4 +1,5 @@
 ---
+
 title: "FL Falatier Dog Scratch Board Large Dog Scratching Pad Multi"
 seo_title: "FL Falatier Dog Scratch Board Review: Large Scratching Pad Tested"
 meta_description: "Honest FL Falatier Dog Scratch Board Large review. Does this multi-functional scratching pad protect floors & trim nails? Real buyer insights inside."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C2F8D2F5/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/71bNkPfKALL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Large 20x14 inch surface actually fits big breeds like Labs and shepherds, unlike most boards sized for small dogs"
   - "Self-trimming design with replaceable sandpaper sheets saves roughly $15-25 per month on professional nail trims"
   - "Anti-slip silicone backing holds firm on hardwood and tile — no sliding even with an excited 70 lb dog"
-cons:
+cons: 
   - "Sandpaper sheets wear out after 4-6 weeks with heavy daily use; replacements cost about $10 per pack"
   - "Requires consistent training to redirect scratching from furniture — not a magic solution for dogs that already scratch doors or drywall"
+
 ---
 
 If your 60-pound Labrador has turned your hardwood floors into a skate rink and your baseboards into kindling, the FL Falatier Dog Scratch Board Large is worth a hard look. This isn't another flimsy cardboard scratcher. It's a 20 x 14 inch rigid board with a self-trimming sandpaper surface designed to do double duty: give your dog an approved outlet for scratching while quietly filing down those daggers on their paws.

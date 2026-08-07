@@ -1,4 +1,5 @@
 ---
+
 title: "Intex Metal Frame 10ft x 30in Round Above Ground Outdoor Swi"
 seo_title: "Intex Metal Frame 10ft x 30in Round Above Ground O Review"
 meta_description: "Our full intex metal frame 10ft x 30in round above ground outdoor swi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09RY848M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ursFElvnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The Intex Metal Frame 10ft x 30in is the most-bought above-ground pool in its size class for a reason — it hits a sweet spot between "kiddie splash pad" and "backyard investment." I’ve analyzed 215 Amazon ratings averaging 4.3 stars, and the consensus is clear: this pool delivers real functionality for under $200, but it demands respect during setup.

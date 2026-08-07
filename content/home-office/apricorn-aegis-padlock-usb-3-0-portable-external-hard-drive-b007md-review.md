@@ -1,4 +1,5 @@
 ---
+
 title: "Apricorn Aegis Padlock USB 3.0 Portable External Hard Drive"
 seo_title: "Apricorn Aegis Padlock Review: Hardware-Encrypted USB 3.0 Drive"
 meta_description: "Apricorn Aegis Padlock USB 3.0 review: PIN-locked, hardware-encrypted portable drive. Is it worth the premium? Real-world testing & honest verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B007MD2EKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qPXlIgMHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real hardware AES-256 encryption with onboard keypad — no software to install or bypass"
   - "Rugged aluminum casing with IP57 rating; survives drops and water exposure"
   - "Admin PIN + user PIN dual-mode access control works flawlessly across Windows, Mac, and Linux"
-cons:
+cons: 
   - "USB 3.0 only — no USB-C cable included despite modern laptop ports"
   - "Keypad is stiff at first; needs deliberate presses, especially with cold fingers"
   - "No SSD option below 500GB — the 1TB HDD model tops out around 120MB/s read speeds"
+
 ---
 
 **The Apricorn Aegis Padlock doesn't care about your feelings. It cares about your data.** This is a hardware-encrypted portable drive that asks for a PIN before it even spins up its platters. No software. No drivers. No "cloud key management." Just a rubberized keypad on a brushed aluminum slab that looks like it escaped from a government surplus auction.

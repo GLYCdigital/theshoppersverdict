@@ -1,4 +1,5 @@
 ---
+
 title: "Wimbix Queen Cushion Convertible Sofa Sleeper with Pillows,S"
 seo_title: "Wimbix Queen Cushion Convertible Sofa Sleeper with Review"
 meta_description: "Our full wimbix queen cushion convertible sofa sleeper with pillows,s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FP4MT2HB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91QijUWGndL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Wimbix Queen Convertible Sofa Sleeper: A Genuine Guest Bed Disguised as a Couch**

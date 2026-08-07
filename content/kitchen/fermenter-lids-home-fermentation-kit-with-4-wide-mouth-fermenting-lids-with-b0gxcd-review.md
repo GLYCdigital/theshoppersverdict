@@ -1,4 +1,5 @@
 ---
+
 title: "Fermenter lids - Home Fermentation Kit With 4 Wide Mouth Fer"
 seo_title: "Fermenter Lids Review: Wide Mouth Fermentation Kit Worth It?"
 meta_description: "Honest Fermenter Lids review: 4 wide mouth fermenting lids for mason jars. Performance, airlock design, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXCDMSFG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713GXnRazRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True airlock system lets CO₂ escape without letting oxygen in — no burping required"
   - "Four-lid kit covers multiple jars at once, so you can ferment different batches simultaneously"
   - "Silicone gasket creates a tight seal that holds up to repeated use without warping"
-cons:
+cons: 
   - "Only fits wide mouth mason jars — standard mouth jars are incompatible"
   - "Silicone gaskets need occasional cleaning to prevent mold buildup between batches"
+
 ---
 
 If you've ever fermented vegetables in a mason jar with a regular lid, you know the drill: burp it twice a day, pray the brine doesn't overflow, and hope you don't come home to a exploded jar. This kit eliminates that entire headache.

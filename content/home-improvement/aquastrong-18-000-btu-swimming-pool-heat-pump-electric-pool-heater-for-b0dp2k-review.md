@@ -1,4 +1,5 @@
 ---
+
 title: "Aquastrong 18,000 BTU Swimming Pool Heat Pump Electric Pool"
 seo_title: "Aquastrong 18,000 BTU Pool Heat Pump Review: Worth It?"
 meta_description: "Aquastrong 18,000 BTU pool heat pump review: 2.6/5 rating. We analyze performance, noise, and reliability to help you decide before buying."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.6
 amazon_url: "https://www.amazon.com/dp/B0DP2KXCFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VkNIcBDkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely quiet operation at 45-48 dB — quieter than most gas heaters"
   - "Titanium heat exchanger resists corrosion from saltwater pools"
   - "Copeland-style rotary compressor provides solid heating output for above-ground pools up to 800 sq ft"
-cons:
+cons: 
   - "Alarmingly high failure rate — multiple buyers report units dying within 3-6 months"
   - "Customer service is nearly impossible to reach; warranty claims drag on for weeks"
   - "Digital display and control board vulnerable to moisture damage even with cover installed"
+
 ---
 
 Let’s call this what it is: a 2.6-star average across 150 ratings tells you something important. The Aquastrong 18,000 BTU pool heat pump has a real problem with reliability. But here’s the twist — many of the negative reviews come from buyers who *loved* the unit while it worked. That’s the frustrating paradox with this one.

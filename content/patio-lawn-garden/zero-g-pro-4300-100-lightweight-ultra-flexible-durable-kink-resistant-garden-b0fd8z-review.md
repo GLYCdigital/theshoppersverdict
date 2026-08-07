@@ -1,4 +1,5 @@
 ---
+
 title: "zero-G Pro, 4300-100, Lightweight, Ultra Flexible, Durable, "
 seo_title: "zero-G Pro, 4300-100, Lightweight, Ultra Flexible, Review"
 meta_description: "Our full zero-g pro, 4300-100, lightweight, ultra flexible, durable,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD8Z4MZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iW1OpdUEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If I had to sum up the zero-G Pro 4300-100 in one sentence: it's the hose you'll actually want to use every day, because it doesn't fight you. But it's not the hose you'll hand down to your grandkids.

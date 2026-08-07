@@ -1,4 +1,5 @@
 ---
+
 title: "Dish Wipes | 100% Biodegradable Pre-Moistened Food-Safe Camp"
 seo_title: "Dish Wipes Review: Biodegradable Food-Safe Camp Wipes"
 meta_description: "Honest Dish Wipes review: Are these 100% biodegradable, food-safe camp wipes worth it? Tested for cleaning power, eco-claims, and real-world use."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BY73BJMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aPJW1wCwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Truly compostable material breaks down in ~4 weeks, unlike 'flushable' wipes that clog systems"
   - "Food-safe formula means no chemical aftertaste on cookware — critical for camp coffee and cast iron"
   - "Thick, textured wipe holds up to greasy pans without tearing mid-scrub"
-cons:
+cons: 
   - "Each wipe is single-use; heavy cooking sessions can burn through a pack fast"
   - "Resealable pouch loses stickiness after repeated opening in dusty conditions"
   - "Not a full replacement for soap and water on heavily caked-on messes"
+
 ---
 
 Let's be clear about what these wipes are not: they're not a gimmick, and they're not a full dishwashing substitute. But for anyone who's ever scrubbed a greasy cast iron skillet with a pine needle and regret, these 100% biodegradable pre-moistened wipes solve a very specific problem — and they solve it well.

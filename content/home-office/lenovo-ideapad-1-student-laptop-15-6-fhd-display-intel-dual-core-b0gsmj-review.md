@@ -1,7 +1,8 @@
 ---
-title: "Lenovo IdeaPad 1 Student Laptop, 15.6\" FHD Display, Intel Du"
-seo_title: "Lenovo IdeaPad 1 Student Laptop, 15.6\" FHD Display Review"
-meta_description: "Our full lenovo ideapad 1 student laptop, 15.6\" fhd display, intel du review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo IdeaPad 1 Student Laptop, 15.6\ FHD Display, Intel Du"
+seo_title: "Lenovo IdeaPad 1 Student Laptop, 15.6\ FHD Display Review"
+meta_description: "Our full lenovo ideapad 1 student laptop, 15.6\ fhd display, intel du review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-ideapad-1-student-laptop-15-6-fhd-display-intel-dual-core-b0gsmj-review"
 image_alt: "Lenovo IdeaPad 1 Student Laptop, 15.6 FHD Display, Intel Dual Core Processor, 1 Year Office 365, Wi-Fi 6, SD Card Reader"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSMJWX26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MC0412PeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $300 laptop that doesn't feel like a punishment**

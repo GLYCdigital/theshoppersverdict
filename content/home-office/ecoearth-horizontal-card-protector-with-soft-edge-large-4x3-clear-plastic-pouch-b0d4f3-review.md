@@ -1,4 +1,5 @@
 ---
+
 title: "EcoEarth Horizontal Card Protector with Soft Edge (Large 4x3"
 seo_title: "EcoEarth Horizontal Card Protector Review: Soft Edge, Large 4x3"
 meta_description: "EcoEarth Horizontal Card Protector review: soft-edge design, large 4x3 size, clear plastic. See if this $3.99 badge holder is worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4F3ZZCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+JyRH5jbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Soft-edge design prevents cracked corners and skin irritation — a real upgrade over rigid plastic pouches"
   - "Horizontal 4x3 orientation fits standard ID badges and access cards without folding or trimming"
   - "Clear PVC material stays transparent even after months of daily badge swiping and pocket storage"
-cons:
+cons: 
   - "Single pouch — at $3.99 you're paying for one, not a multi-pack"
   - "No reinforced slot — the top opening can stretch slightly with aggressive daily insertions"
+
 ---
 
 Let's be direct: a $3.99 card protector shouldn't be this good. The EcoEarth Horizontal Card Protector with Soft Edge solves a problem you didn't know you had — until you've dealt with a rigid plastic badge holder that cracks after two weeks and leaves a red mark on your hip.

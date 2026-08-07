@@ -1,4 +1,5 @@
 ---
+
 title: "JXQTLINGMU King Farmhouse Wood Bed Frame with Sliding Barn D"
 seo_title: "JXQTLINGMU King Farmhouse Wood Bed Frame with Slid Review"
 meta_description: "Our full jxqtlingmu king farmhouse wood bed frame with sliding barn d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CT363MGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Uqm16jedL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JXQTLINGMU King Farmhouse Wood Bed Frame: Barn Door Storage That Actually Works

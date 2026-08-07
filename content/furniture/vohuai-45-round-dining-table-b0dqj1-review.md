@@ -1,4 +1,5 @@
 ---
+
 title: "Vohuai 45'' Round Dining Table"
 seo_title: "Vohuai 45'' Round Dining Table Review: Verdict | TSV"
 meta_description: "Our full vohuai 45'' round dining table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQJ1QLTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81C0ehN-UiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for a round dining table under $300, the Vohuai 45'' has likely popped up in your search — and with a 4.7-star average across 235 ratings, it’s clearly earning its keep in real homes. But is it actually worth your money, or is that rating inflated by early buyers who just unboxed something shiny? Let’s dig in.

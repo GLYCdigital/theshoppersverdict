@@ -1,4 +1,5 @@
 ---
+
 title: "Elegant Bathroom Sink Faucet Single Hole,AUU Waterfall Matte"
 seo_title: "AUU Waterfall Matte Black Faucet Review: Honest Verdict"
 meta_description: "AUU waterfall bathroom faucet review: matte black finish, single-hole install, real performance data. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKFJL3HD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711Ew+ubV7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine waterfall stream — wide, smooth flow without splashing, even at low water pressure"
   - "Matte black finish resists fingerprints and water spots far better than chrome or brushed nickel"
   - "Solid brass construction with ceramic cartridge; no wobble or play in the handle after months of daily use"
-cons:
+cons: 
   - "Waterfall spout creates a wider stream that can bounce off shallow or small vessel sinks — measure your basin depth first"
   - "No pop-up drain assembly included; you'll need to buy one separately unless your sink already has one"
+
 ---
 
 The AUU Waterfall Matte faucet is one of those products that looks dramatically more expensive than it actually is. In the product image, you see a sleek, minimalist silhouette with a wide, flat spout that promises a cinematic water flow. The real question is whether it delivers that experience without driving you crazy during installation or daily use. After digging through 225 ratings and the specifics of this single-hole design, here's what actually matters.

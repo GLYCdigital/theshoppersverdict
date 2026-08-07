@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGRP Blank Wall Plate Cover, 1-Gang Screwless Blank Outlet"
 seo_title: "ELEGRP Blank Wall Plate Review: Screwless 1-Gang Cover"
 meta_description: "ELEGRP 1-gang screwless blank wall plate: smooth low-profile design, easy snap-on install, durable ABS. Honest review of pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DS2FFG3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rEZZ6gT8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free snap-on installation with hidden mounting screws — no visible hardware once the cover clicks into place"
   - "Low-profile design sits nearly flush against the wall, eliminating the bulky raised look of standard plates"
   - "Durable ABS plastic with a smooth, gloss finish that resists yellowing and wipes clean easily"
-cons:
+cons: 
   - "No screw access once installed — you must pry the cover off with a flathead screwdriver to remove it, which risks scuffing if you're careless"
   - "Glossy finish shows fingerprints and smudges more readily than matte alternatives"
+
 ---
 
 If you've got a junction box that needs covering — maybe a retired outlet, a splice point, or a spot where a fixture used to hang — the ELEGRP 1-Gang Screwless Blank Wall Plate is the cleanest way to close it off. This isn't the flimsy $0.79 contractor special from the hardware store. It's a step up in both looks and build quality, and at 4.6 stars across 229 ratings, buyers are mostly impressed. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "ADVOKAIR Hammock Chair Large 70.9 inch x47.2 inch , 32% Bigger XXL Han"
 seo_title: "ADVOKAIR Hammock Chair Review: Is the XXL Worth It?"
 meta_description: "ADVOKAIR XXL hammock chair review: 70.9 inch x47.2 inch  cotton hanging chair. Real user feedback, durability concerns, and who should buy. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMX2SNPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+LiErw5xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Genuinely oversized 70.9 inch "x47.2 inch " cotton canvas — fits taller adults and kids together without feeling cramped
   - "Double-stitched seams and reinforced stress points hold up to regular daily use, per multiple long-term reviewers"
   - "Spreader bar keeps the chair open and stable — no spinning or flipping when you sit down"
-cons:
+cons: 
   - "No hardware included — you must buy a ceiling mount or stand separately, which adds $30–50 to the total cost"
   - "Cotton fabric wrinkles and shows dust easily; not ideal for uncovered outdoor use in humid climates"
+
 ---
 
 ## The XXL Hammock Chair That Actually Delivers on "Big"

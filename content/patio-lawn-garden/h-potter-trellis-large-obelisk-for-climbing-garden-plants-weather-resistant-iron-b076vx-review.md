@@ -1,4 +1,5 @@
 ---
+
 title: "H Potter Trellis Large Obelisk for Climbing Garden Plants We"
 seo_title: "H Potter Trellis Large Obelisk for Climbing Garden Review"
 meta_description: "Our full h potter trellis large obelisk for climbing garden plants we review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B076VXS4KX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fHuyf3PLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The tall one that actually stays put

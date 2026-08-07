@@ -1,4 +1,5 @@
 ---
+
 title: "Saker Portable Electric Welding Machine,110V Portable Welder"
 seo_title: "Saker Portable Electric Welding Machine,110V Porta Review"
 meta_description: "Our full saker portable electric welding machine,110v portable welder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVNBNFQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PxrWG+GOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: a $100-ish 110V welder that claims IGBT inverter technology is easy to dismiss as a toy. But the Saker portable welder has earned a 4.3-star average across 215 Amazon ratings for a reason — it punches well above its weight class for light-duty repair work, provided you understand what it is and what it isn't.

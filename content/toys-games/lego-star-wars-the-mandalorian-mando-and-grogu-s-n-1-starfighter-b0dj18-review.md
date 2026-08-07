@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: The Mandalorian Mando and Grogu's N-1 Starfi"
 seo_title: "LEGO Star Wars: The Mandalorian Mando and Grogu's  Review"
 meta_description: "Our full lego star wars: the mandalorian mando and grogu's n-1 starfi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ187VXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l3Ueg3pHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What's Actually in the Box**

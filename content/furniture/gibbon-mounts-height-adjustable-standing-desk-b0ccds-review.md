@@ -1,4 +1,5 @@
 ---
+
 title: "Gibbon Mounts Height Adjustable Standing Desk"
 seo_title: "Gibbon Mounts Standing Desk Review: Worth It? (2026)"
 meta_description: "Gibbon Mounts Height Adjustable Standing Desk review: 4.5-star rated sit-stand desk. Real specs, buyer feedback, and honest verdict on stability, assembly, and value."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCDSCMP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ttliez7HL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-motor lift handles heavy loads smoothly with less wobble at max height"
   - "Solid 1-inch thick desktop surface resists scratches and feels premium"
   - "Three preset memory buttons make switching between sitting and standing seamless"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with 20+ screws; cable management tray is basic"
   - "Anti-collision sensor occasionally false-triggers when bumping the desk mid-motion"
+
 ---
 
 **The Bottom Line Up Front:** The Gibbon Mounts Height Adjustable Standing Desk is a legitimately well-built sit-stand desk that punches above its price point — but it's not perfect, and whether it's right for you depends on how much you value stability versus simplicity.

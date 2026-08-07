@@ -1,4 +1,5 @@
 ---
+
 title: "Renogy 200W 400W Portable Solar Panel Foldable Solar Blanket"
 seo_title: "Renogy 200W 400W Portable Solar Panel Foldable Sol Review"
 meta_description: "Our full renogy 200w 400w portable solar panel foldable solar blanket review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4Q96N9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t8QDK1rJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a foldable solar blanket that costs more per watt than a rooftop array. Is the convenience premium worth it? Let's cut through the marketing.

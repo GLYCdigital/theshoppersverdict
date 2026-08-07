@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST Twin Bed Frames with Headboard & Charging Station, LE"
 seo_title: "BTHFST Twin Bed Frame Review: Headboard & Charging Station (2026)"
 meta_description: "Honest BTHFST twin bed frame review: LED headboard, charging station, build quality, and real user feedback. Is this $100-ish frame worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6D28152/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UzJCWI15L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in USB and USB-C ports on the headboard — no more reaching for a wall adapter behind the bed"
   - "LED headboard lighting with remote control adds actual ambient functionality, not just decoration"
   - "Tool-free assembly in under 30 minutes for most buyers, with all hardware labeled clearly"
-cons:
+cons: 
   - "Under-bed clearance is tight — standard storage bins won't fit; only flat, low-profile containers work"
   - "LED light strip is non-replaceable if it fails after the warranty period; soldered into the headboard"
   - "Headboard is a lightweight composite, not solid wood — don't lean heavy shelves against it"
+
 ---
 
 **Bottom line: This twin bed frame packs surprising value — a charging station, LED lighting, and a headboard in one package that assembles in minutes. But it's built for function over luxury, and the storage limitations might catch some shoppers off guard.**

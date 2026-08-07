@@ -1,4 +1,5 @@
 ---
+
 title: "3 Wheels Kick Scooter for Kids Teens Ages 6-18 Years Extral"
 seo_title: "Extral 3-Wheel Kick Scooter Review: Is It Worth It? (2026)"
 meta_description: "Honest Extral 3-wheel kick scooter review for kids & teens ages 6-18. Tested stability, build quality, and real rider feedback. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNR1XL8D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61caaAsHllL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grow-with-me adjustable handlebar spans roughly 28 to 37 inches, genuinely fitting a 6-year-old and a 14-year-old with the same unit"
   - "Front two-wheel design with lean-to-steer mechanism gives beginners real stability without sacrificing turning radius"
   - "Solid aluminum deck and PU wheels handle sidewalk cracks and uneven pavement without the rattling you get on cheap plastic scooters"
-cons:
+cons: 
   - "No rear fender brake — stopping relies on the rear foot brake, which takes younger kids a week or two to master confidently"
   - "Assembly requires a hex wrench (included), but the steering column tension isn't adjustable post-assembly, so if it feels loose out of the box, you're stuck with it"
+
 ---
 
 Let's be honest about the kids' scooter market: most of it is disposable plastic junk that wobbles apart by summer's end. The Extral 3-wheel kick scooter is not that. With a 4.6-star average across 229 ratings, this thing is punching above its price class — and after digging into what owners actually say, I understand why.

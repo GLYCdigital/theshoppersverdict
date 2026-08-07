@@ -1,4 +1,5 @@
 ---
+
 title: "Earthwise Reusable Mesh Produce Bags - Washable Set of 9 Pre"
 seo_title: "Earthwise Reusable Mesh Produce Bags Review (2026): Set of 9 inch"
 meta_description: "Earthwise Reusable Mesh Produce Bags set of 9: honest review of durability, washability & value. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08KLHVCDL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IEmbJwfNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Transparent 90gsm mesh lets cashiers see items without opening — speeds up checkout"
   - "Double-stitched seams and reinforced drawstring hold up to heavy citrus and potatoes"
   - "Pre-printed tare weight (0.35 oz) on each bag saves time at self-checkout scales"
-cons:
+cons: 
   - "No color-coding options — all nine bags look identical, so sorting by category is guesswork"
   - "Drawstring cords are thin; cinching too aggressively can stress the channel stitching"
+
 ---
 
 The Earthwise Reusable Mesh Produce Bags aren't the flashiest kitchen gadget you'll buy this year. But after 235 Amazon ratings averaging 4.7 stars, they might be the one you actually use every single week. Here's the real story.

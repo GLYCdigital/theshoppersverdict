@@ -1,4 +1,5 @@
 ---
+
 title: "BELEEV V3 Scooter for Kids with Light-Up Wheels & Stem & Dec"
 seo_title: "BELEEV V3 Kids Scooter Review: Light-Up Wheels, Real Ride"
 meta_description: "Our BELEEV V3 scooter review covers the light-up wheels, adjustable stem, and deck quality. See if this 4.3-star kids scooter is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4CPK324/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bpg0I1bLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Light-up wheels that activate on motion (no batteries) and are genuinely visible in daylight, not just dusk"
   - "Adjustable stem height spans roughly 28 to 34 inches, accommodating kids roughly 4 to 10 years old"
   - "Wide, textured deck with a non-slip grip strip that gives younger riders a stable standing platform"
-cons:
+cons: 
   - "Front wheel can develop a subtle wobble after a few months of hard curb-hopping; the headset nut needs occasional tightening"
   - "Assembly takes about 15 minutes with the included Allen wrench, but the handlebar clamp bolts strip easily if over-tightened"
   - "Weight limit is 110 lbs — older or larger kids will quickly outgrow this, so factor in longevity before buying"
+
 ---
 
 **Is the BELEEV V3 the right first "real" scooter for your kid, or just another glowing toy that'll end up in the garage by September?** With 215 Amazon ratings averaging 4.3 stars, it's clearly doing something right. Here's the honest breakdown after putting this through the wringer of daily neighborhood rides, driveway races, and the inevitable sidewalk crash test.

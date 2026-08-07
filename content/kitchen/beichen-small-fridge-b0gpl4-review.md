@@ -1,4 +1,5 @@
 ---
+
 title: "BEICHEN Small fridge"
 seo_title: "BEICHEN Small Fridge Review: Compact Powerhouse for 2026 inch"
 meta_description: "Honest BEICHEN small fridge review: performance, noise, real-world testing, and who should buy. See if this 4.4-star compact refrigerator fits your space."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GPL4JRVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p9v8-i7NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thermoelectric cooling runs whisper-quiet at 28 dB — silent enough for a bedroom or office"
   - "True dual-zone climate control with separate thermostats for fridge and freezer sections"
   - "12V/24V DC adapter included — works in cars, trucks, and RVs without an inverter"
-cons:
+cons: 
   - "Thermoelectric system drops to 36°F below ambient — not a real freezer for long-term storage"
   - "No interior light, which makes late-night grabbing frustrating in dark spaces"
   - "Single-hinge door design requires 4+ inches of side clearance to open fully"
+
 ---
 
 **Bottom line:** The BEICHEN small fridge is a solid choice for bedrooms, offices, and road trips — but it's not a true freezer replacement.

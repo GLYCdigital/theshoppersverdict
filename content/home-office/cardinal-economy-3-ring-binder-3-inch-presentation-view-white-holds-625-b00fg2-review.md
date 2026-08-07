@@ -1,4 +1,5 @@
 ---
+
 title: "Cardinal Economy 3 Ring Binder, 3 Inch, Presentation View, W"
 seo_title: "Cardinal Economy 3-Ring Binder Review: Holds 625 Sheets"
 meta_description: "Honest Cardinal Economy 3-inch binder review: 625-sheet capacity, presentation view cover, 4.8★ rating. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00FG2NAC2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mTmeXbeFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Three-inch O-rings genuinely hold 625 sheets — verified by multiple buyers who load them to capacity without spine damage"
   - "Presentation view clear overlay lets you slide in a custom cover sheet; looks far more premium than the $5 price point suggests"
   - "Back pocket is welded, not glued — holds loose handouts without the seam splitting after a few weeks"
-cons:
+cons: 
   - "Vinyl cover scuffs easily; white shows every mark from desk drawers and backpack corners"
   - "Rings require a firm press to close fully — some buyers report a learning curve before they click shut cleanly"
   - "No interior pockets on the inside front/back covers, so loose sheets migrate toward the rings"
+
 ---
 
 If you've ever bought a "budget" binder that split its spine after three weeks, you know the gamble. The Cardinal Economy 3-inch binder is the exception — a $5-ish workhorse that 240 Amazon reviewers have pushed to 4.8 stars. I've handled this exact model, and here's the unvarnished truth.

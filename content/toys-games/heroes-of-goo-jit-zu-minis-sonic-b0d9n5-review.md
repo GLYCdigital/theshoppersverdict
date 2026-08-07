@@ -1,4 +1,5 @@
 ---
+
 title: "Heroes of Goo JIT Zu Minis Sonic"
 seo_title: "Heroes of Goo JIT Zu Minis Sonic Review: Stretchy Fun or Gimmick?"
 meta_description: "Read our honest Heroes of Goo JIT Zu Minis Sonic review. Is the stretchy putty figure worth it? Find pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9N52KLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuinely satisfying squish-and-stretch texture that holds up to aggressive play"
   - "Mini size (roughly 3 inches) fits small hands and travels well in pockets or backpacks"
   - "Sonic likeness is recognizable — blue spikes, red shoes, and that classic smirk are all there"
-cons:
+cons: 
   - "Goo will pick up lint, pet hair, and dust quickly — it needs frequent cleaning"
   - "Not a toy for kids who prefer structured play; there's no real 'game' beyond the sensory manipulation"
   - "Small parts mean it's not suitable for children under 3, and some buyers report the outer shell cracking if bent too hard"
+
 ---
 
 **Is this just another licensed toy cash-in, or does the Goo JIT Zu Minis Sonic actually deliver on its squishy promise?** After digging through 220 ratings and the product specs, here's the real picture.

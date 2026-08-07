@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell R8184G4009 International Oil Burner Control"
 seo_title: "Honeywell R8184G4009 International Oil Burner Cont Review"
 meta_description: "Our full honeywell r8184g4009 international oil burner control review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0006UPOAK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E0E6MiSrL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your oil burner's ignition control has finally given up after a decade or two of faithful service, you're staring down a freezing house and a decision. The **Honeywell R8184G4009** is the part most HVAC techs reach for first — and with 225 Amazon ratings averaging 4.5 stars, it's clearly earning its reputation in the field.

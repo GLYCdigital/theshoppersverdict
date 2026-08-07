@@ -1,4 +1,5 @@
 ---
+
 title: "AEULYTIR Wagon Wheel Chandelier Modern Farmhouse"
 seo_title: "AEULYTIR Wagon Wheel Chandelier Review: Farmhouse Lighting"
 meta_description: "AEULYTIR wagon wheel chandelier review: 4.7-star farmhouse lighting. Build quality, installation, sizing, and honest tradeoffs before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FKZK9L2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71No3Np3y2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel frame with a true matte black finish that resists chipping during install"
   - "Seeded glass shades diffuse light evenly — no harsh hotspots or glare at dining height"
   - "Fully adjustable hanging height (fits 8-10 ft ceilings) with all mounting hardware included"
-cons:
+cons: 
   - "Bulbs not included — budget for 6 Edison bulbs separately (around $15-20 extra)"
   - "Wagon wheel spokes are not removable, making the 26-inch width a tight fit for narrow stairwells"
+
 ---
 
 If you've been scrolling past the same five drum shades and generic LED flush mounts, the AEULYTIR Wagon Wheel Chandelier is the design risk worth taking. This isn't a subtle piece. It's a 26-inch statement that anchors a dining room, foyer, or farmhouse kitchen with genuine rustic character — not the mass-produced "pretend rustic" you see everywhere else.

@@ -1,4 +1,5 @@
 ---
+
 title: "Escuminac Canadian Maple Syrup 500ml | Extra Rare Amber Grad"
 seo_title: "Escuminac Extra Rare Maple Syrup Review: Worth It?"
 meta_description: "Escuminac Extra Rare Amber maple syrup 500ml review: rich taste, smooth texture, but pricey. Is this premium Canadian syrup worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N5Y20XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51U09-7WWWL._SL1065_.jpg"
-pros:
+pros: 
   - "Deep, complex caramel notes that hold up in coffee without getting lost"
   - "Thicker body than grocery-store syrup — a little goes noticeably further"
   - "Clean glass bottle with a pour spout that doesn't drip or mess"
-cons:
+cons: 
   - "Premium price — roughly double per ounce versus standard grade A syrup"
   - "The 'Extra Rare' designation is marketing; it's a legit amber grade but not scarce"
+
 ---
 
 ## This syrup made me rethink what I put in my coffee

@@ -1,4 +1,5 @@
 ---
+
 title: "Under Armour Adult Performance Tech Crew Socks (3 and 6 Pack"
 seo_title: "Under Armour Adult Performance Tech Crew Socks (3  Review"
 meta_description: "Our full under armour adult performance tech crew socks (3 and 6 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07TNRFVJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nRUBkNuIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some socks are an afterthought. These aren't. The Under Armour Performance Tech Crew Socks have quietly become a training-bag staple, and with a 4.7-star average across 235 Amazon ratings, they're earning their reputation the hard way — through repeated use.

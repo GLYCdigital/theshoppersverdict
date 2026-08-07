@@ -1,4 +1,5 @@
 ---
+
 title: "WIFFLE Ball Baseballs Official Size 12 Pack"
 seo_title: "WIFFLE Ball Baseballs Official Size 12 Pack Review: Verdi"
 meta_description: "Our full wiffle ball baseballs official size 12 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07DFS12X9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rfiBLHlVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **WIFFLE Ball Baseballs Official Size 12 Pack Review: The Backyard Classic, Done Right**

@@ -1,4 +1,5 @@
 ---
+
 title: "DOUXO® Skin & Coat SPA - Ultra-Safe Multipurpose Wipes for"
 seo_title: "DOUXO Skin & Coat SPA Wipes Review: Safe for Dogs & Cats"
 meta_description: "DOUXO Skin & Coat SPA wipes review: Vet-recommended, ultra-safe multipurpose wipes for dogs and cats. See how they handle dirt, dander, and odor."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQF511TX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nWXEVA2fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly multipurpose—safe for face, paws, body, and even sensitive skin without rinsing"
   - "Vet-developed formula with phytosphingosine that supports the skin barrier while cleaning"
   - "Large, thick wipes that don't tear mid-use or dry out between uses"
-cons:
+cons: 
   - "Price per wipe runs higher than basic baby-wipe alternatives"
   - "Scent is mild but present—some cats may object to any fragrance"
+
 ---
 
 Let’s be honest about pet wipes: most are glorified wet paper towels. The DOUXO Skin & Coat SPA wipes are different, and the 4.6-star rating from 229 buyers backs that up. This is a veterinary-developed formula from a brand that actually understands canine and feline skin biology, not a gimmick product riding the "natural pet care" wave.

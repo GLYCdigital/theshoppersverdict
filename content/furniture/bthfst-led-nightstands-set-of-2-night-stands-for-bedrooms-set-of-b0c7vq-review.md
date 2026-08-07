@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST LED Nightstands Set of 2,Night Stands for Bedrooms Se"
 seo_title: "BTHFST LED Nightstands Review: Set of 2 Worth It?"
 meta_description: "BTHFST LED nightstands set of 2 reviewed: build quality, USB ports, RGB lighting, assembly, and value. Real buyer feedback with honest pros and cons."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7VQ6FWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dlqmGnjOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two USB and two Type-C charging ports built into each nightstand — no bulky adapters needed"
   - "Adjustable RGB lighting with remote control and memory function; can also set to warm white for a classic look"
   - "Sturdy particleboard construction with a 250 lb weight capacity per unit — holds up better than most at this price"
-cons:
+cons: 
   - "LED strips are not individually addressable — the whole unit cycles colors together, limiting custom effects"
   - "Assembly takes 30–40 minutes per nightstand despite simple instructions; all 16 screws per unit must be hand-tightened"
   - "Lighting remote requires line-of-sight from the front — awkward if nightstands sit beside a tall bed"
+
 ---
 
 **The BTHFST LED Nightstands Set of 2** walks a fine line between gimmick and genuinely useful. After digging through 225 ratings and the specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "COVLON Small Drink Round Martini Table, Drum End Side Metal"
 seo_title: "COVLON Martini Table Review: Small Drum End Side Metal"
 meta_description: "COVLON small drink martini table review: 4.4-star drum end side metal table. Sturdy build, compact size, real buyer feedback. Is it worth $90?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXPTMR2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718fh60sV5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "14-inch diameter fits tight corners and narrow sofa gaps without dominating the room"
   - "All-metal construction with reinforced cross-brace — no wobble even on carpet"
   - "Scratch-resistant powder coat finish that handles daily drink rings and spills"
-cons:
+cons: 
   - "No adjustable feet — slight wobble on uneven hardwood floors"
   - "14-inch top is genuinely small; don't expect to fit a full dinner plate plus glass"
+
 ---
 
 Let me be direct about the COVLON Small Drink Round Martini Table: it's a 14-inch metal drum table that does exactly one job, and it does it well. At $89.97, you're paying for solid construction and a specific footprint — not versatility. Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "LG 32GQ750-B Ultragear Gaming Monitor 4K 32-Inch UHD 1ms (Gt"
 seo_title: "LG 32GQ750-B Ultragear Gaming Monitor 4K 32-Inch U Review"
 meta_description: "Our full lg 32gq750-b ultragear gaming monitor 4k 32-inch uhd 1ms (gt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DW57DR4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713p9cNj+ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4K gaming sweet spot — if your GPU can handle it

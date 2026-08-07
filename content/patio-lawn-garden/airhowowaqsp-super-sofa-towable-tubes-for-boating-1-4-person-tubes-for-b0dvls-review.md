@@ -1,4 +1,5 @@
 ---
+
 title: "Airhowowaqsp Super Sofa Towable Tubes for Boating 1-4 Person"
 seo_title: "Airhowowaqsp Super Sofa Towable Tube Review: 1-4 Person Boat Towable"
 meta_description: "Honest Airhowowaqsp Super Sofa towable tube review: 4.4-star rated 1-4 person boat towable. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DVLS7WZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718Y5aYc+SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 840D nylon cover with double-stitched seams holds up to repeated impacts"
   - "Boston valve inflates in under 5 minutes with a standard pump; deflates fast for storage"
   - "Tow harness with adjustable bridle keeps the tube stable at speeds up to 20 mph"
-cons:
+cons: 
   - "At 7.5 feet long, it's bulky — needs a large ski locker or garage space when deflated"
   - "No built-in handles for the middle riders; only the outer two positions have grips"
+
 ---
 
 # Airhowowaqsp Super Sofa Towable Tube Review: A 4-Person Sofa That Earns Its Spot on Your Boat

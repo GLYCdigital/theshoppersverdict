@@ -1,4 +1,5 @@
 ---
+
 title: "SA-TF04WH Wall Mount Tub Filler with Hand Shower"
 seo_title: "SA-TF04WH Wall Mount Tub Filler with Hand Shower Review: "
 meta_description: "Our full sa-tf04wh wall mount tub filler with hand shower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CV429N87/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xXrjGBZHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A wall-mounted tub filler solves a specific problem: you want a clean, freestanding look without the floor-mount hardware that collects dust and makes mopping a nightmare. The SA-TF04WH takes that concept and executes it with surprising competence for the price point. But before you pull out the drywall saw, there are a few things you need to know.

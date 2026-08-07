@@ -1,4 +1,5 @@
 ---
+
 title: "Wiggle Worm 100% Pure Worm Castings Plus Worm Egg Material, "
 seo_title: "Wiggle Worm 100% Pure Worm Castings Plus Worm Egg  Review"
 meta_description: "Our full wiggle worm 100% pure worm castings plus worm egg material,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYJYCSM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QznIM0GIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most bagged "organic" soil amendments are basically compost with a fancy label. The Wiggle Worm 100% Pure Worm Castings Plus Worm Egg Material is different — and it starts with what's actually in the bag.

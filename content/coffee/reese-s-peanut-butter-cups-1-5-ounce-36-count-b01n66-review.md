@@ -1,4 +1,5 @@
 ---
+
 title: "Reese's Peanut Butter Cups (1.5 Ounce, 36 Count)"
 seo_title: "Reese's Peanut Butter Cups (1.5 Ounce, 36 Count) Review: "
 meta_description: "Our full reese's peanut butter cups (1.5 ounce, 36 count) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01N66CQGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g0IeNXTQL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: Is 36 Cups of Reese's Actually a Good Idea?**

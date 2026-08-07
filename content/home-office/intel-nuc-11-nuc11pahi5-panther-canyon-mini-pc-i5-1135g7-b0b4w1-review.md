@@ -1,4 +1,5 @@
 ---
+
 title: "Intel NUC 11 NUC11PAHI5 Panther Canyon Mini PC, i5-1135G7"
 seo_title: "Intel NUC 11 NUC11PAHI5 Panther Canyon Mini PC, i5 Review"
 meta_description: "Our full intel nuc 11 nuc11pahi5 panther canyon mini pc, i5-1135g7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B4W1S3DG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IWjJcvdlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a mini PC that doesn't compromise on everyday speed, the Intel NUC 11 Panther Canyon NUC11PAHI5 deserves a hard look. This is the i5-1135G7 version — a quad-core Tiger Lake chip with Iris Xe graphics — and it's quietly become the go-to for people who want a full desktop experience in a box the size of a paperback. But it's not for everyone, and the 4.2-star rating from 210 reviewers tells you there are tradeoffs. Here's the real story.

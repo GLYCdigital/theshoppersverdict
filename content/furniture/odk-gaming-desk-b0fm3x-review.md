@@ -1,4 +1,5 @@
 ---
+
 title: "ODK Gaming Desk"
 seo_title: "ODK Gaming Desk Review: Verdict | TSV"
 meta_description: "Our full odk gaming desk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FM3XX4GJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JAc6pW8-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut straight to it: the ODK Gaming Desk is the rare budget-to-midrange desk that doesn't feel like a compromise. At 4.6 stars across 229 ratings, it's clearly earning its keep. But is it right for *your* setup? Here's the honest breakdown after digging through specs, buyer feedback, and real-world use.

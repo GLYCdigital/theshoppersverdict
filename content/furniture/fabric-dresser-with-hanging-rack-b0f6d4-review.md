@@ -1,4 +1,5 @@
 ---
+
 title: "Fabric Dresser with Hanging Rack"
 seo_title: "Fabric Dresser with Hanging Rack Review: Is It Worth It?"
 meta_description: "Our honest Fabric Dresser with Hanging Rack review: build quality, real-world use, pros, cons, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F6D4SYPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m3tNX2SCL._CR0,0,720,720_._FMjpg_._SL34_.jpg"
-pros:
+pros: 
   - "Steel hanging bar supports heavy garments without bowing — a rare find at this price point"
   - "Fabric drawers slide smoothly on reinforced tracks, not flimsy plastic runners"
   - "Assembles in under 20 minutes with labeled parts and a hex key that actually fits"
-cons:
+cons: 
   - "Fabric drawer boxes lack rigid structure — overstuffing causes sagging over time"
   - "No included wall anchor, which is a safety concern for top-heavy loading"
   - "Top surface scratches easily — you'll want a protective cover for anything heavier than a lamp"
+
 ---
 
 Let's be direct about this Fabric Dresser with Hanging Rack: it's solving a real problem. You've got a small bedroom, a rental with weird closet space, or a dorm room that's fighting you. You need storage that holds both folded clothes and hanging items without taking up the footprint of two separate pieces. This unit does that. The question is whether it does it well enough to justify your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "FINETONES 8 Drawer Dresser, Chest of Drawers Nursery Dresser"
 seo_title: "FINETONES 8 Drawer Dresser Review: Solid Nursery Storage"
 meta_description: "Read our honest FINETONES 8 Drawer Dresser review. Solid wood construction, spacious storage, and real buyer feedback. Is it right for your nursery?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM28YJZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eSK4JfK2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 spacious drawers with a mix of wooden and fabric construction — plenty of room for baby clothes, diapers, and accessories"
   - "Solid wood top and frame that feels sturdier than the price point suggests"
   - "Smooth-glide drawer tracks that hold up to daily use without sticking"
-cons:
+cons: 
   - "Some buyers report assembly takes 2+ hours with unclear instructions"
   - "Fabric drawers are not as rigid as wooden ones — heavier items can cause sagging over time"
+
 ---
 
 ## The 8-Drawer Solution Your Nursery Actually Needs

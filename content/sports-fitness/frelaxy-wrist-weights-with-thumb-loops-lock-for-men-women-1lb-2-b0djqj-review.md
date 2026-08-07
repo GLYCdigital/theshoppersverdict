@@ -1,4 +1,5 @@
 ---
+
 title: "Frelaxy Wrist Weights with Thumb Loops Lock for Men Women 1l"
 seo_title: "Frelaxy Wrist Weights Review: Thumb Loop Lock, 1lb Pair"
 meta_description: "Frelaxy 1lb wrist weights with thumb loop lock: our honest review covers fit, durability, and real workout use. See if they're worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJQJMJTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DceS0pjvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thumb loop lock keeps weights anchored — no sliding down your forearm mid-set"
   - "Adjustable strap fits wrists from roughly 6 to 10 inches, so most adults won't need to size up"
   - "Breathable neoprene shell with secure stitching holds up to daily cardio and walking workouts"
-cons:
+cons: 
   - "Only 1lb per wrist — too light for serious strength training or progressive overload"
   - "Thumb loop can feel restrictive during full-range push-up or plank variations"
+
 ---
 
 Alright, let's talk about the Frelaxy Wrist Weights with Thumb Loops. These 1-pound bands have racked up a solid 4.6 out of 5 stars from 229 Amazon shoppers, and honestly, the rating holds up — but not for the reasons you might think. If you're expecting to build biceps with these, you're shopping wrong. If you want to add resistance to a walk, a run, or a HIIT session without your weights sliding into your elbows, this is a genuinely smart buy.

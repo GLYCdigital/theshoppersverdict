@@ -1,4 +1,5 @@
 ---
+
 title: "Monorail 2-Bike Platform"
 seo_title: "Monorail 2-Bike Platform Review: Verdict | TSV"
 meta_description: "Our full monorail 2-bike platform review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B089BMLF55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wd-qJM4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about bike storage: most racks are either flimsy hooks that scratch your frame or floor stands that eat garage space. The Monorail 2-Bike Platform takes a different approach — it mounts to the wall, holds two bikes vertically, and claims to fit everything from a kid's BMX to a 70-pound e-bike. At 4.7 stars from 235 ratings, it's clearly doing something right. But is it the right rack for *your* garage?

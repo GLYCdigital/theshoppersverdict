@@ -1,4 +1,5 @@
 ---
+
 title: "KOBALTS 140 MPH 80-Volt 80v 630-CFM Lithium Ion Brushless Co"
 seo_title: "KOBALTS 140 MPH 80-Volt 80v 630-CFM Lithium Ion Br Review"
 meta_description: "Our full kobalts 140 mph 80-volt 80v 630-cfm lithium ion brushless co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GZKDLLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VLpWLm3RL._AC_SL1290_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The KOBALTS 140 MPH 80V blower isn't trying to be cute. It's a serious tool for people whose yards laugh at 40-volt leaf blowers. With 630 CFM of air volume and a brushless motor that refuses to quit, this is the kind of machine that makes you question why you ever wrestled with an extension cord. But there's a catch hiding in the fine print, and you need to know about it before you commit.

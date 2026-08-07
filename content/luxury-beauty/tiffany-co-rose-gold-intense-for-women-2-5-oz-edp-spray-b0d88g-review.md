@@ -1,4 +1,5 @@
 ---
+
 title: "Tiffany & Co. Rose Gold Intense for Women - 2.5 oz EDP Spray"
 seo_title: "Tiffany & Co. Rose Gold Intense for Women - 2.5 oz Review"
 meta_description: "Our full tiffany & co. rose gold intense for women - 2.5 oz edp spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D88GFZZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Qjq1+BZaL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: you're not buying this for the juice alone. You're buying the name — and the question is whether the fragrance inside the iconic Tiffany blue box actually earns its keep. After spending time with the 2.5 oz EDP, here's my honest take.

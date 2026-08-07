@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Pro Golf Hitting Mat for Indoor and Outdoor Practic"
 seo_title: "GoSports Pro Golf Hitting Mat for Indoor and Outdo Review"
 meta_description: "Our full gosports pro golf hitting mat for indoor and outdoor practic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3XS9FB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nHiTZqNFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "GoSports Pro Golf Hitting Mat for Indoor and Outdoor Practic"
 seo_title: "GoSports Pro Golf Hitting Mat Review: Honest 2026 Verdict"

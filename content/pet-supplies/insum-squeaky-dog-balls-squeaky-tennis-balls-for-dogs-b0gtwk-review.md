@@ -1,4 +1,5 @@
 ---
+
 title: "INSUM Squeaky Dog Balls - Squeaky Tennis Balls for Dogs"
 seo_title: "INSUM Squeaky Dog Balls - Squeaky Tennis Balls for Review"
 meta_description: "Our full insum squeaky dog balls - squeaky tennis balls for dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTWKCL92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tf+i3t9mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most squeaky tennis balls for dogs are either too flimsy to last a week or too hard to be safe for indoor fetch. The INSUM Squeaky Dog Balls sit in a genuinely useful middle ground, and the 4.5-star rating across 225 reviews reflects that. But before you add them to your cart, here's what you actually need to know.

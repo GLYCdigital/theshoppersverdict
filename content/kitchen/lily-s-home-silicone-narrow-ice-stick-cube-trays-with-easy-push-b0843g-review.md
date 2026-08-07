@@ -1,4 +1,5 @@
 ---
+
 title: "Lily's Home Silicone Narrow Ice Stick Cube Trays with Easy P"
 seo_title: "Lily's Home Silicone Narrow Ice Stick Cube Trays w Review"
 meta_description: "Our full lily's home silicone narrow ice stick cube trays with easy p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0843GXCRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YJwVJKmoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Ice Stick Tray That Finally Fits Your Water Bottle — Mostly**

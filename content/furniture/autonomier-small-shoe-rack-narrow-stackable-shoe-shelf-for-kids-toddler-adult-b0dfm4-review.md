@@ -1,4 +1,5 @@
 ---
+
 title: "Autonomier Small Shoe Rack, Narrow Stackable Shoe Shelf for"
 seo_title: "Autonomier Small Shoe Rack Review: Stackable, Narrow, Worth It?"
 meta_description: "Honest Autonomier Small Shoe Rack review: stackable narrow design, real-world durability, and who should buy it. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFM4S2BH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iqdKDbruL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly narrow footprint (under 10 inches deep) fits tight entryways, closets, and behind doors"
   - "Modular stacking system lets you scale from 2 to 6+ tiers without tools"
   - "Solid steel frame with rust-resistant coating holds up in humid conditions"
-cons:
+cons: 
   - "Each tier only fits 2–3 pairs of adult shoes; large boots or heels won't fit"
   - "Stacked units can wobble if you don't secure them to the wall at 4+ tiers"
   - "Assembly requires a screwdriver — not fully tool-free despite the simple design"
+
 ---
 
 ## The space-saving shoe rack that actually earns its spot

@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity LED Shop Light Fixture, V Shape Integrated T8 LED T"
 seo_title: "hykolity LED Shop Light Fixture, V Shape Integrate Review"
 meta_description: "Our full hykolity led shop light fixture, v shape integrated t8 led t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9GQPZ2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7180YEhZpqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Garage lighting is the most ignored upgrade in home improvement. You'll drop $300 on a workbench but keep squinting under a single 60-watt bulb. The hykolity V-shape T8 fixture is the fix for that — if you're willing to wire it in.

@@ -1,23 +1,25 @@
 ---
+
 title: "EJIAXIN Clip on Desk Lamp for Home Office - Small LED Touch"
 seo_title: "EJIAXIN Clip on Desk Lamp Review: Small LED Touch Light"
 meta_description: "EJIAXIN clip on desk lamp review: compact LED touch light with 3 brightness levels. See pros, cons, and who should buy it."
 slug: "ejiaxin-clip-on-desk-lamp-for-home-office-small-led-touch-dimmable-b0dcg5-review"
 image_alt: "EJIAXIN small LED touch clip on desk lamp attached to a desk edge with adjustable arm"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCG5HY31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qv8SQ7zUL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Clamp opens wide enough for desks up to 2 inches thick, holds firm without wobble"  
   - "Three touch-controlled brightness levels with a memory function that saves your last setting"  
   - "Gooseneck arm stays exactly where you bend it — no drooping over time"  
-cons:  
+cons: 
   - "Light coverage is narrow — about a 10-inch pool, so it won't light a whole desk"  
   - "USB cable is only 4 feet long, which may require an extension cord for taller setups"
+
 ---
 
 If your desk setup is missing one thing, it's probably targeted light that doesn't eat up surface space. The EJIAXIN Clip on Desk Lamp solves that with a form factor that's almost invisible until you need it. At 4.4 stars across 220 ratings, it's not flashy — it's just practical. Here's the real story.

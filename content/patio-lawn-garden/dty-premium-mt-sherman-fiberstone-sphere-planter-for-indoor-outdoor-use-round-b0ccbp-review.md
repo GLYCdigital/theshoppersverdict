@@ -1,4 +1,5 @@
 ---
+
 title: "DTY Mt Sherman Fiberstone Sphere Planter Review"
 seo_title: "DTY Mt Sherman Fiberstone Sphere Planter Review (2026)"
 meta_description: "DTY Mt Sherman Fiberstone Sphere Planter review: Is this 4.6-star indoor planter worth it? Real buyer feedback, pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCBPNP2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612mTY36YYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fiberstone composite is dramatically lighter than ceramic or concrete — you can move it without a dolly"
   - "Smooth, sealed interior allows planting directly without a separate liner pot"
   - "UV-stable finish holds color outdoors without fading or chalking after a season"
-cons:
+cons: 
   - "No drainage hole included — you'll need to drill one or use it as a cachepot for outdoor use"
   - "The 14-inch size is smaller in person than some product photos suggest"
   - "Surface texture can show hard water spots if you top-water with tap water"
+
 ---
 
 **The DTY Mt Sherman Sphere Planter is the rare decor piece that looks like a $300 designer buy but costs a fraction of that. The catch? You need to know what you're getting into before you commit.**

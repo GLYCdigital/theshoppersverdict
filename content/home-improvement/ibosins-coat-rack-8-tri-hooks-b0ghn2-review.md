@@ -1,4 +1,5 @@
 ---
+
 title: "IBosins Coat Rack 8 Tri-Hooks"
 seo_title: "IBosins Coat Rack 8 Tri-Hooks Review: Verdict | TSV"
 meta_description: "Our full ibosins coat rack 8 tri-hooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHN21TL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tXGKELVuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most wall-mounted coat racks are either flimsy wire contraptions that wobble the moment you hang a wet winter jacket, or they’re so bulky they dominate your entryway. The IBosins Coat Rack 8 Tri-Hooks sits somewhere comfortably in the middle — and for most households, that’s exactly the right spot.

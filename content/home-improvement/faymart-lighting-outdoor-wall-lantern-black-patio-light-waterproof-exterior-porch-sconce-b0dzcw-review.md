@@ -1,4 +1,5 @@
 ---
+
 title: "Faymart lighting Outdoor Wall Lantern - Black Patio Light, W"
 seo_title: "Faymart Outdoor Wall Lantern Review: Waterproof Black Sconce"
 meta_description: "Honest Faymart Outdoor Wall Lantern review: waterproof black patio sconce with 4.7★ rating. Build quality, light output, installation tips & who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZCWY8Y6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719SLrs-wBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant black finish that holds up to coastal humidity and rain without rusting"
   - "Clear seeded glass panels diffuse light evenly — no harsh hotspots, just a warm, welcoming glow"
   - "Straightforward 3-wire installation with included mounting hardware and a gasket that seals tight against the wall"
-cons:
+cons: 
   - "Seeded glass is fragile during handling — two reviewers reported chips near the screw holes during installation"
   - "Bulb not included — you'll need a standard E26 base bulb, and the fixture is picky about LED sizes (long bulbs stick out)"
   - "No dusk-to-dawn sensor or smart home integration at this price point — it's a plain, manual fixture"
+
 ---
 
 Let's cut through the lighting aisle noise. The Faymart Outdoor Wall Lantern is exactly what it looks like in the product image: a straightforward, black, die-cast aluminum sconce that doesn't try to be clever. And that's largely why it works.

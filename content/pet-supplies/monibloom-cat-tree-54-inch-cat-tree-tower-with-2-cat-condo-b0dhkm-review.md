@@ -1,4 +1,5 @@
 ---
+
 title: "MoNiBloom Cat Tree, 54 Inch Cat Tree Tower with 2 Cat Condo,"
 seo_title: "MoNiBloom Cat Tree, 54 Inch Cat Tree Tower with 2  Review"
 meta_description: "Our full monibloom cat tree, 54 inch cat tree tower with 2 cat condo, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHKM5QSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611pkSPcQ-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa like a scratching post and your bookshelf like a penthouse, you're in the market for a cat tree. The MoNiBloom 54-inch tower with two condos is the kind of product that looks like a bargain on paper — but does it survive contact with an actual cat? I've dug through the specs, the 220 Amazon ratings, and what buyers actually say to give you the straight story.

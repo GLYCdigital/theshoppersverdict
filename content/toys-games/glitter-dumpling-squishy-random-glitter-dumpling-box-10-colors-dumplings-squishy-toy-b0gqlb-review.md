@@ -1,4 +1,5 @@
 ---
+
 title: "Glitter Dumpling Squishy - Random Glitter Dumpling Box, 10 C"
 seo_title: "Glitter Dumpling Squishy Review: 10-Pack Squishies Worth It?"
 meta_description: "Honest Glitter Dumpling Squishy review: 10 random dumpling squishies. We break down quality, scent, durability, and if the 3.1-star rating is fair."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0GQLBKNBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Each dumpling is individually wrapped, making them viable as party favors or blind-bag style gifts"
   - "Soft, slow-rising polyurethane foam that recovers shape well after aggressive squeezing"
   - "Pleasant, light fruit scent — not overpowering like many cheap squishies"
-cons:
+cons: 
   - "Random assortment means you'll likely get duplicates; no way to specify or trade colors"
   - "Scent fades noticeably within 2-3 weeks of regular handling"
   - "Smaller than expected at roughly 2 inches — considerably smaller than product photos suggest"
+
 ---
 
 You're looking at a 3.1-star average across 155 ratings, and that's probably fair. Here's the thing about the Glitter Dumpling Squishy box: it's not a bad product, but it's a product that sets expectations it can't quite meet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Viewsun Solar Post Lights"
 seo_title: "Viewsun Solar Post Lights Review: Verdict | TSV"
 meta_description: "Our full viewsun solar post lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1TCYY7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tBkU1K0iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you some scrolling: the Viewsun Solar Post Light is a solid mid-tier option for homeowners who want reliable accent lighting on a deck, fence, or gate post — provided you manage your expectations about brightness.

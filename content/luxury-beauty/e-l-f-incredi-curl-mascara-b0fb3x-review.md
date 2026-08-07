@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Incredi-Curl Mascara"
 seo_title: "e.l.f. Incredi-Curl Mascara Review: Does It Actually Curl?"
 meta_description: "Honest e.l.f. Incredi-Curl Mascara review — does this budget curling mascara hold a lash lift all day? Tested on straight lashes, smudge-checked. Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB3XK19C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611KeFQH1mL._SL1500_.jpg"
-pros:
+pros: 
   - "Curl holds visibly through a 10-hour day on naturally straight lashes"
   - "Formula is buildable to dramatic volume without clumping or flaking"
   - "Curl-lock polymer technology is legit — no need for a lash curler first"
-cons:
+cons: 
   - "Packaging is plain for a product positioned as prestige-level — cheap-feeling tube"
   - "Does not hold a curl on stubbornly straight or downward-pointing lashes for everyone"
   - "Removal requires oil-based makeup remover — waterproof formula is tenacious"
+
 ---
 
 Let's cut through the noise: e.l.f. calls the Incredi-Curl Mascara their "first-ever Curl-Lock Mascara," and at a drugstore price point, that's a bold claim. I tested it for two weeks on uncurled, stick-straight lashes — the ultimate stress test. Here's what actually happened.

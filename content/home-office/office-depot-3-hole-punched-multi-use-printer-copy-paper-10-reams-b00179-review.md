@@ -1,4 +1,5 @@
 ---
+
 title: "Office DepotÂ® 3-Hole Punched Multi-Use Printer & Copy Paper"
 seo_title: "Office DepotÂ® 3-Hole Punched Multi-Use Printer &  Review"
 meta_description: "Our full office depotâ® 3-hole punched multi-use printer & copy paper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00179CH54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i3rBI5SYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: buying copy paper is about as exciting as watching paint dry. But if you’re the person who prints meeting agendas, student handouts, or client proposals, the **Office Depot® 3-Hole Punched Multi-Use Paper** deserves more than a glance. It solves one of the most annoying office tasks — manually punching three holes into every single page so it fits a binder. This paper arrives pre-punched, which sounds trivial until you’ve spent 20 minutes feeding sheets through a hole punch that jams halfway through a 50-page packet.

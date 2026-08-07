@@ -1,4 +1,5 @@
 ---
+
 title: "UOUZ 12 inch Large Self Watering Pots, Plastic Planters with"
 seo_title: "UOUZ 12 inch Large Self Watering Pots, Plastic Pla Review"
 meta_description: "Our full uouz 12 inch large self watering pots, plastic planters with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BX4HZSCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g9sEEdcJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The UOUZ 12-inch self-watering planter is a legitimately well-engineered pot that solves the two biggest problems with cheap self-watering systems — algae and inaccurate water level readings. At 4.6 stars across 229 ratings, it's not perfect, but it's one of the few planters in this class I'd actually recommend for outdoor use.

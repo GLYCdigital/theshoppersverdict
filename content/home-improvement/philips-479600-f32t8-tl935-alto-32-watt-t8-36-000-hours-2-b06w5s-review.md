@@ -1,4 +1,5 @@
 ---
+
 title: "Philips 479600 - F32T8/TL935/ALTO - 32 Watt - T8 - 36,000 Ho"
 seo_title: "Philips 479600 - F32T8/TL935/ALTO - 32 Watt - T8 - Review"
 meta_description: "Our full philips 479600 - f32t8/tl935/alto - 32 watt - t8 - 36,000 ho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B06W5SDGLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41WsMauMH9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're managing a commercial space or a workshop with T8 fixtures, you've likely stared down a ceiling full of dead or dying fluorescent tubes and wondered if there's a better option. The Philips 479600 — a 32-watt, 4-foot T8 with a 36,000-hour rated life — is a serious contender, but it's not a universal drop-in. Here's what you need to know before you buy a case.

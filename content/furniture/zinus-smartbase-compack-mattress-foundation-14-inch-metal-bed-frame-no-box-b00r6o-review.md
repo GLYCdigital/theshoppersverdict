@@ -1,4 +1,5 @@
 ---
+
 title: "ZINUS SmartBase Compack Mattress Foundation, 14 Inch Metal B"
 seo_title: "ZINUS SmartBase Compack Mattress Foundation, 14 In Review"
 meta_description: "Our full zinus smartbase compack mattress foundation, 14 inch metal b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00R6OXJWE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HVicYQMCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ZINUS SmartBase Compack isn't glamorous. It's a welded steel rectangle with snap-in legs and a black fabric skirt. But after assembling dozens of bed frames over the years, I can tell you this: boring is exactly what you want from a foundation. This one replaces both a box spring and a traditional metal frame — you set the SmartBase on the floor, snap in the legs, and drop your mattress directly on top.

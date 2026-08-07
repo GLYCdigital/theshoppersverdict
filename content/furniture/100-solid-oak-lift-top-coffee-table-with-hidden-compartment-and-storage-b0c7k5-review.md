@@ -1,4 +1,5 @@
 ---
+
 title: "100% Solid Oak Lift Top Coffee Table with Hidden Compartment"
 seo_title: "Solid Oak Lift Top Coffee Table Review: Hidden Storage, Real Wood"
 meta_description: "Honest review of the 100% Solid Oak Lift Top Coffee Table. Real customer feedback on the hidden compartment, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7K5DMK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y+qfrgBDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 100% solid oak construction — not veneer or MDF wrapped in photo paper"
   - "Gas-lift mechanism is smooth and locks securely at multiple heights for laptop or dining use"
   - "Hidden compartment is generous enough for two large blankets or a full board game collection"
-cons:
+cons: 
   - "Solid oak means heavy — expect 60+ lbs and plan for two-person assembly"
   - "Finish is matte and light; darkens noticeably with oils from hands over time unless sealed"
   - "The lift mechanism sits center-aft, which slightly limits legroom when sitting directly in front"
+
 ---
 
 If you've been burned by "wood" furniture that's actually particleboard with a wood-print sticker, this lift-top coffee table is the antidote. It's genuinely 100% solid oak — no veneer, no MDF, no photo-finish trickery. At 4.4 stars from 220 ratings, it's not perfect, but it's one of the few tables in this category that will outlive your sofa.

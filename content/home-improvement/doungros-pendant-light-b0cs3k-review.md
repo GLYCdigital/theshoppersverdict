@@ -1,4 +1,5 @@
 ---
+
 title: "DoungRos Pendant Light"
 seo_title: "DoungRos Pendant Light Review: Honest Buyer's Guide"
 meta_description: "DoungRos Pendant Light review: Build quality, brightness, and installation insights from 204 ratings. Is it worth your money? Find out here."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CS3KQ4FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dQApQGHhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully dimmable with standard dimmer switches, no flicker down to 10% brightness"
   - "Tool-free installation with a quick-connect wiring system that takes under 15 minutes"
   - "Seeded glass shade diffuses light evenly, eliminating harsh hotspots"
-cons:
+cons: 
   - "Canopy is slightly shallow at 1.2 inches, making it tight for older junction boxes"
   - "Cord length is fixed at 59 inches — you'll need a chain extension kit for vaulted ceilings"
+
 ---
 
 The DoungRos Pendant Light has been sitting in my cart for three weeks before I finally pulled the trigger. With 204 ratings averaging 4.1 stars, I knew it wasn't perfect — but the price point and the seeded glass design kept pulling me back. Here's what I found after living with it for a month.

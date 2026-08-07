@@ -1,4 +1,5 @@
 ---
+
 title: "Bath And Body Works Wallflower Fragrance Refill (Assorted, P"
 seo_title: "Bath and Body Works Wallflower Refill Review: Worth It? (2026)"
 meta_description: "Honest Bath and Body Works Wallflower Fragrance Refill review: scent strength, lasting power, and value. See if this assorted pack is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CBQR2B4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91T7IwTqyoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent scent throw that fills an average 15x15 room within 30 minutes"
   - "Refill cartridges last 4-6 weeks at standard heat setting — better than most Glade or Air Wick alternatives"
   - "Assorted pack lets you test four distinct fragrance families without committing to full-size bottles"
-cons:
+cons: 
   - "No way to select specific scents in the assorted pack — you get what Amazon sends you"
   - "Some buyers report the fragrance weakens noticeably after week three, not the full advertised lifespan"
+
 ---
 
 # Bath and Body Works Wallflower Refill: The Honest Breakdown

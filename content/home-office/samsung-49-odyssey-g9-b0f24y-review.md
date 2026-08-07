@@ -1,7 +1,8 @@
 ---
-title: "SAMSUNG 49\" Odyssey G9"
-seo_title: "SAMSUNG 49\" Odyssey G9 Review: Verdict | TSV"
-meta_description: "Our full samsung 49\" odyssey g9 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SAMSUNG 49\ Odyssey G9"
+seo_title: "SAMSUNG 49\ Odyssey G9 Review: Verdict | TSV"
+meta_description: "Our full samsung 49\ odyssey g9 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "samsung-49-odyssey-g9-b0f24y-review"
 image_alt: "SAMSUNG 49 Odyssey G9"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F24YJWQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IC-Ryb-HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the hype: the SAMSUNG 49" Odyssey G9 isn't just a monitor — it's a command center. But before you clear off your entire desk, you need to know what you're actually getting for your money.

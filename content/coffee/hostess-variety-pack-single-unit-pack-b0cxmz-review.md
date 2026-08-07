@@ -1,4 +1,5 @@
 ---
+
 title: "Hostess Variety Pack Single Unit Pack"
 seo_title: "Hostess Variety Pack Single Unit Pack Review: Verdict | T"
 meta_description: "Our full hostess variety pack single unit pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CXMZVB37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-56lUzD7L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hostess Variety Pack: A Solid Coffee Companion, If You Can Get Past the Logistics**

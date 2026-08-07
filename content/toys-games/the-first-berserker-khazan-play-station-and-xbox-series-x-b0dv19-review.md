@@ -1,4 +1,5 @@
 ---
+
 title: "The First Berserker: Khazan - Play Station And Xbox Series X"
 seo_title: "The First Berserker: Khazan - Play Station And Xbo Review"
 meta_description: "Our full the first berserker: khazan - play station and xbox series x review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DV19FPPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HjuAbrBvL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The First Berserker: Khazan — A Brutal, Beautiful Grind That Respects Your Time (Mostly)

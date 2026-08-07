@@ -1,4 +1,5 @@
 ---
+
 title: "Gazelle Tents Tents T3X Hub Tent"
 seo_title: "Gazelle T3X Hub Tent Review: 2026 Hands-On Verdict"
 meta_description: "Gazelle T3X Hub Tent review: 4.0-star rated hub tent. We break down setup speed, build quality, weather resistance & who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FQMSC2FR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "True 90-second setup with the hub system — no poles to thread, no guesswork"
   - Stand-up height of 6'6 inch " inside, which is rare in this tent class
   - "Heavy 300D fabric walls hold up to wind and repeated pack/unpack cycles"
-cons:
+cons: 
   - "Packed weight of 24 pounds makes it a car-camp or basecamp shelter, not a backpacking tent"
   - "Factory seam sealing is inconsistent — plan to reapply seam sealer before wet trips"
+
 ---
 
 The Gazelle T3X Hub Tent is the shelter that makes every other tent feel like a chore. If you’ve ever stood in a muddy field at dusk, wrestling with pole sleeves while your partner holds a flashlight, you already understand why the hub design matters. This tent pops up in about 90 seconds — not a marketing exaggeration. The hub arms unfold like an umbrella, and the structure locks into place with a satisfying click. That alone justifies a look, but the T3X has more going on than just party tricks.

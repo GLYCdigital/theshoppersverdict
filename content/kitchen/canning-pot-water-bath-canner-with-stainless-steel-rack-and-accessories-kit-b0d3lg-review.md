@@ -1,4 +1,5 @@
 ---
+
 title: "Canning Pot Water Bath Canner with Stainless Steel Rack and"
 seo_title: "Canning Pot Water Bath Canner Review: Worth It? (2026)"
 meta_description: "Honest review of the Canning Pot Water Bath Canner with stainless steel rack. Capacity, durability, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3LG4C6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71veTMlnycL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Clad aluminum core in the base heats evenly and holds temperature better than thin stainless pots — critical for safe water bath processing"
   - "Rack is genuinely stainless steel (not plated) and lifts cleanly with sturdy handles; no rust after repeated use"
   - "Glass lid lets you monitor rolling boil without lifting and losing heat"
-cons:
+cons: 
   - "Listed capacity is optimistic — you're realistically processing 7–8 quart jars, not 9, when water displacement is factored in"
   - "Handles stay cool longer than expected; use mitts even after the pot has been off the burner for a few minutes"
   - "No pouring spouts on the rim; transferring hot water after canning requires a ladle or careful tilt"
+
 ---
 
 If you're eyeing this water bath canner because the price beats the Ball or Granite Ware options, here's the honest breakdown before you click buy.

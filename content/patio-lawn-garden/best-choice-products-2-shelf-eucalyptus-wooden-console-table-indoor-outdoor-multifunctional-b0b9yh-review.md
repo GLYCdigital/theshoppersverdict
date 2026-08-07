@@ -1,4 +1,5 @@
 ---
+
 title: "Best Choice Products 2-Shelf Eucalyptus Wooden Console Table"
 seo_title: "Best Choice Eucalyptus Console Table Review: 2-Shelf, Indoor/Outdoor"
 meta_description: "Best Choice Products 2-Shelf Eucalyptus Console Table review: durable hardwood, 2-tier design, indoor/outdoor versatility. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B9YH3KFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bxwBMLHZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid eucalyptus hardwood frame that holds up outdoors without warping or splitting — confirmed by multiple owners with 12+ months of patio use"
   - "Two full-length shelves add genuine storage versatility; works as a plant stand, entryway catch-all, or bar cart"
   - "Easy 15-minute assembly with pre-drilled holes and included hex wrench; no extra tools required"
-cons:
+cons: 
   - "Unfinished wood requires immediate sealing or oiling if placed outside — skipping this leads to gray weathering within weeks"
   - "No anti-tip wall anchor included; tall profile with a narrow footprint can wobble on uneven surfaces"
+
 ---
 
 The Best Choice Products 2-Shelf Eucalyptus Wooden Console Table sits in that sweet spot of patio furniture: cheap enough to replace without guilt, solid enough that you won't need to. At 4.6 stars across 229 ratings, it's clearly doing something right. Let me tell you what that something is — and where it falls short.

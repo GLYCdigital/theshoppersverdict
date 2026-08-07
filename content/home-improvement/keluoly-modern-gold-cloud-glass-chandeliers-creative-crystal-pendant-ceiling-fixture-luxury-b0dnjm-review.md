@@ -1,4 +1,5 @@
 ---
+
 title: "KELUOLY Modern Gold Cloud Glass Chandeliers, Creative Crysta"
 seo_title: "KELUOLY Modern Gold Cloud Glass Chandeliers, Creat Review"
 meta_description: "Our full keluoly modern gold cloud glass chandeliers, creative crysta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNJM8FKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A4szcLZaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's talk about that ceiling light you've been staring at. The KELUOLY Modern Gold Cloud Glass Chandelier has been floating around Amazon with a respectable 4.6-star average from 229 shoppers. Here's the honest breakdown before you drop money on it.

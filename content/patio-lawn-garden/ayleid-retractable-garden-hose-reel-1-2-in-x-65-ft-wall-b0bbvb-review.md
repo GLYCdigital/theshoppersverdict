@@ -1,24 +1,26 @@
 ---
+
 title: "Ayleid Retractable Garden Hose Reel,1/2 in x 65 ft Wall Moun"
 seo_title: "Ayleid Retractable Garden Hose Reel Review (65 ft Wall Mount)"
 meta_description: "Honest Ayleid retractable garden hose reel review: 65 ft wall mount, auto-rewind, build quality, leaks, and who should buy it. Real buyer feedback."
 slug: "ayleid-retractable-garden-hose-reel-1-2-in-x-65-ft-wall-b0bbvb-review"
 image_alt: "Ayleid 65 ft retractable garden hose reel mounted on a wall with hose extended"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BBVBFL57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fyoB87sPL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Smooth auto-rewind with adjustable stopper — no wrestling with tangled hose"  
   - "Solid steel frame and 1/2-inch hose handle full residential water pressure without kinking"  
   - "65-foot reach covers most mid-size yards; wall mount saves floor space"  
-cons:  
+cons: 
   - "Wall mount requires solid studs — drywall anchors won't hold under tension"  
   - "Some units arrive with a slightly stiff swivel; needs a few cycles to loosen"  
   - "Hose is not kink-proof at extreme bends near the reel outlet"
+
 ---
 
 **You're tired of dragging a 50-foot hose across the driveway, untangling it, then hand-coiling it wet and muddy. The Ayleid 65-foot retractable reel promises to fix that. Does it deliver? Mostly yes — with a few caveats worth knowing before you drill into your wall.**

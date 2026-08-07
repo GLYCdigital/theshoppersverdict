@@ -1,4 +1,5 @@
 ---
+
 title: "DM Furniture Storage Bench 2436 inch"
 seo_title: "DM Furniture Storage Bench 2436 Review: Worth It?"
 meta_description: "DM Furniture Storage Bench 2436 review: 4.8-star rated entryway bench. Real-world testing on assembly, storage capacity, durability. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVVV84DK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kfi-SrLoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "40-inch wide seating surface actually fits two adults comfortably, not a cramped 36-inch compromise"
   - "Gas piston lid stays open on its own — no propping, no slammed fingers when loading shoes"
   - "Solid 3/4-inch MDF construction with reinforced corner brackets; holds 400+ lbs without flex"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with 28 bolts; the included hex wrench is flimsy, bring your own driver"
   - "Cushion is 2 inches thick foam — comfortable for quick shoe changes but firm for long sitting sessions"
   - "Interior depth is 14 inches, which swallows boots but wastes vertical space if you store small items"
+
 ---
 
 The entryway bench is the most lied-about piece of furniture in American homes. Either it's a wobbly particleboard hazard that collapses under real weight, or it's a glorified shoe rack with a cushion stapled on top. The DM Furniture Storage Bench 2436 claims to be the exception — a genuine two-person seat with a functional 60-liter storage compartment underneath. After testing it for two weeks in a high-traffic household, here's the honest breakdown.

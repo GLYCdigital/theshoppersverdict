@@ -1,4 +1,5 @@
 ---
+
 title: "12 Pack Sublimation Tumblers Flat Edge Blanks Skinny Straigh"
 seo_title: "12 Pack Sublimation Tumblers Review: Flat Edge Skinny Straight (2026)"
 meta_description: "Hands-on review of the 12 Pack Sublimation Tumblers Flat Edge Blanks. Are these 20oz skinny straight stainless tumblers worth it for crafters? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJY93GP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y64VJT2VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Uniform 20oz skinny straight profile with flat edges that press cleanly without ghosting or wrap gaps"
   - "Genuine stainless steel construction with a consistent polyester coating that takes full-color sublimation evenly"
   - "Costs roughly $3.30 per blank — significantly cheaper than buying single tumblers from craft stores"
-cons:
+cons: 
   - "No lids or straws included — you'll need to purchase those separately if you plan to sell these as finished products"
   - "The coating is sensitive to over-pressing; exceeding 400°F for more than 60 seconds can cause yellowing"
+
 ---
 
 **Skip the craft store markup — these blanks deliver pro results at wholesale prices.**

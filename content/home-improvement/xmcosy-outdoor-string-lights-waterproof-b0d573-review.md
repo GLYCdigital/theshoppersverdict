@@ -1,4 +1,5 @@
 ---
+
 title: "XMCOSY+ Outdoor String Lights Waterproof"
 seo_title: "XMCOSY+ Outdoor String Lights Waterproof Review: Verdict "
 meta_description: "Our full xmcosy+ outdoor string lights waterproof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5735GDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IVpQ+WydL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the patio-lighting noise. You've seen the cheap sets at big-box stores — thin wire, plastic sockets that crack after one winter, and bulbs that flicker like they're possessed. The XMCOSY+ outdoor string lights aren't those. At 4.5 stars across 225 ratings, these are the lights people actually keep up year-round. Here's the honest breakdown.

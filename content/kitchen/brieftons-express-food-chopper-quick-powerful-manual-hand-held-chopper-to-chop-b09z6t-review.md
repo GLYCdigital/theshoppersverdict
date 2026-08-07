@@ -1,4 +1,5 @@
 ---
+
 title: "Brieftons Express Food Chopper: Quick & Powerful Manual Hand"
 seo_title: "Brieftons Express Food Chopper Review: Is It Worth It? (2026)"
 meta_description: "Brieftons Express Food Chopper review: Powerful manual hand chopper for onions, nuts, herbs. See real pros, cons, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09Z6TWCWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VaUSMwktL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pull-cord design chops a cup of onions in 5-6 pulls with zero electricity needed"
   - "Stainless steel blades stay sharp through months of daily use without rusting"
   - "Compact 1.2-cup capacity fits in a drawer and cleans in under 30 seconds"
-cons:
+cons: 
   - "Small capacity means batch prep for large meals requires multiple rounds"
   - "Cord mechanism can stick if you pull at odd angles, needing a firm straight yank"
+
 ---
 
 **The Brieftons Express Food Chopper: A Manual Workhorse That Actually Earns Its Counter Space**

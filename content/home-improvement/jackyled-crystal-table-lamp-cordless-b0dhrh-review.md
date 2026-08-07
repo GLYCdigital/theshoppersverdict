@@ -1,4 +1,5 @@
 ---
+
 title: "JACKYLED Crystal Table Lamp Cordless"
 seo_title: "JACKYLED Crystal Table Lamp Cordless Review: Verdict | TS"
 meta_description: "Our full jackyled crystal table lamp cordless review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHRHYS4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a-SA+SgaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen a dozen cordless lamps that look great in the product photos and turn out to be hollow plastic with a weak LED taped inside. The JACKYLED Crystal Table Lamp is not that. For roughly the price of a nice dinner out, this thing delivers actual crystal, a real battery, and enough design polish to sit on a nightstand or patio table without embarrassment.

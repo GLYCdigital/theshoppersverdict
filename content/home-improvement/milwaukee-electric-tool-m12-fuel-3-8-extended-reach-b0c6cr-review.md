@@ -1,7 +1,8 @@
 ---
-title: "Milwaukee Electric Tool M12 Fuel 3/8\" Extended Reach"
-seo_title: "Milwaukee Electric Tool M12 Fuel 3/8\" Extended Rea Review"
-meta_description: "Our full milwaukee electric tool m12 fuel 3/8\" extended reach review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Milwaukee Electric Tool M12 Fuel 3/8\ Extended Reach"
+seo_title: "Milwaukee Electric Tool M12 Fuel 3/8\ Extended Rea Review"
+meta_description: "Our full milwaukee electric tool m12 fuel 3/8\ extended reach review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-electric-tool-m12-fuel-3-8-extended-reach-b0c6cr-review"
 image_alt: "Milwaukee Electric Tool M12 Fuel 3/8 Extended Reach"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6CR1SCZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/4132v4-1UIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Milwaukee M12 Fuel 3/8" Extended Reach ratchet is the tool you reach for when a standard ratchet physically won't fit. As shown in the product image, the extended shaft and compact head are the whole story here — this thing is built for tight engine bays, deep valve covers, and those cursed bolts buried behind the intake manifold.

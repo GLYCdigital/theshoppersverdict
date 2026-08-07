@@ -1,4 +1,5 @@
 ---
+
 title: "Sharp El1197Piii Plastic Battery Powered Business calculator"
 seo_title: "Sharp El1197Piii Plastic Battery Powered Business  Review"
 meta_description: "Our full sharp el1197piii plastic battery powered business calculator review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D328F3LZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31uQcQimQTL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Sharp EL1197PIII isn't trying to be the flashiest calculator on your desk. It's trying to be the one that still works in year five, prints a receipt you can actually read, and doesn't require a PhD to operate. After digging through 235 Amazon ratings and the specs, here's the real story.

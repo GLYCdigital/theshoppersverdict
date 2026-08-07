@@ -1,4 +1,5 @@
 ---
+
 title: "Gigabit PoE to USB-C Power and Data Adapter â€“ IEEE 802.3 P"
 seo_title: "Gigabit PoE to USB-C Power and Data Adapter â€“ IE Review"
 meta_description: "Our full gigabit poe to usb-c power and data adapter â€“ ieee 802.3 p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1N825KD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LtnBLezEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your desk is a spaghetti mess of power bricks and USB-C chargers, this PoE adapter quietly solves a problem you didn't know you had. Instead of running both an Ethernet cable and a wall charger to your tablet, mini PC, or phone, this single adapter pulls power and data from one PoE switch port. At 4.4 stars across 220 ratings, it's clearly working for a lot of people — but let's talk about whether it'll work for you.

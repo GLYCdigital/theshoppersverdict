@@ -1,4 +1,5 @@
 ---
+
 title: "New Portable Golf Putting Mat, Mini Golf - Putting Green Ind"
 seo_title: "New Portable Golf Putting Mat, Mini Golf - Putting Review"
 meta_description: "Our full new portable golf putting mat, mini golf - putting green ind review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CY1V2KTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KDB06lwYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a cheap putting mat online, you know the drill: thin carpet, ball bounces like a ping-pong ball, and the whole thing curls up the moment you set it down. This portable mini putting green is not that. It's a legitimately functional training aid that happens to fold up small enough to stash behind a door.

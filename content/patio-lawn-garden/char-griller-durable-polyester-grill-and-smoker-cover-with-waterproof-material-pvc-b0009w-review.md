@@ -1,4 +1,5 @@
 ---
+
 title: "Char-Griller Durable Polyester Grill and Smoker Cover with"
 seo_title: "Char-Griller Grill Cover Review: Waterproof & Durable"
 meta_description: "Char-Griller polyester grill cover review: waterproof, heat-resistant, fits most grills. Real pros, cons, and fit advice from 240 verified ratings."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0009WRIUO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DeEB9nGQS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterproof protection — the PVC-backed polyester sheds rain completely, not just water-resistant"
   - "Fits generously over most 4-6 burner grills and offset smokers with room to spare"
   - "Reinforced handles and air vents prevent wind lift-off and interior condensation buildup"
-cons:
+cons: 
   - "Material feels thinner than premium covers — don't expect heavy canvas durability for 5+ years"
   - "No adjustable drawstring or buckles; the elastic hem does the work, which can loosen over time"
   - "Limited color options — black only, which shows dust and bird droppings quickly"
+
 ---
 
 Let me cut through the noise: a grill cover is the cheapest insurance you'll ever buy for a $500+ grill. The Char-Griller Durable Polyester Grill and Smoker Cover is the kind of product that sits in the "buy it and forget it" category — but only if you understand what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wood Guillotine Paper Cutter, Heavy Duty Paper Trimmer with "
 seo_title: "Wood Guillotine Paper Cutter, Heavy Duty Paper Tri Review"
 meta_description: "Our full wood guillotine paper cutter, heavy duty paper trimmer with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DH84NHFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jz2WCZ4SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: this is a **decent guillotine cutter for home offices and light craft rooms**, but it's not the industrial workhorse the "heavy duty" label implies. At 4.3 stars from 215 reviews, buyers generally agree — but the caveats matter.

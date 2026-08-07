@@ -1,4 +1,5 @@
 ---
+
 title: "Got2B Curled Flexible Curl Foam, 6.7 Fl Oz, Hair Mousse for "
 seo_title: "Got2B Curled Flexible Curl Foam, 6.7 Fl Oz, Hair M Review"
 meta_description: "Our full got2b curled flexible curl foam, 6.7 fl oz, hair mousse for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMPYPL1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JkCrmToAL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever used a curl mousse that left your hair feeling like a helmet, you know the struggle. Got2B's Curled Flexible Curl Foam tries to fix that — and for the most part, it actually does. This isn't a miracle in a bottle, but it's close for the price point.

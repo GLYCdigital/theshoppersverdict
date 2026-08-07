@@ -1,4 +1,5 @@
 ---
+
 title: "Ahmad Tea English Tea No. 1 Teabags"
 seo_title: "Ahmad Tea English Tea No. 1 Review: Bold Breakfast Brew"
 meta_description: "Ahmad Tea English No. 1 teabags reviewed: bold Assam-Ceylon blend, 4.7-star rating, and honest downsides. See if this brisk cuppa beats PG Tips."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CK6BV2BG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hT9TFGSLL._SL1500_.jpg"
-pros:
+pros: 
   - "Brisk, malty Assam-Ceylon blend that stands up to milk without going bitter"
   - "Individually wrapped teabags keep freshness locked in for months"
   - "Strong second steep — most bagged teas give up after one use"
-cons:
+cons: 
   - "No string or tag on the teabags — you'll fish it out with a spoon"
   - "Packaging is a simple cardboard box; no resealable inner pouch"
   - "Caffeine kick is assertive — not ideal for late-afternoon sipping"
+
 ---
 
 Let's be blunt: most supermarket tea bags taste like dusty afterthoughts. Ahmad Tea's English No. 1 isn't that. This is a proper builder's brew that's earned its 4.7-star rating across 235 reviews — and after steeping a few dozen cups, I understand why.

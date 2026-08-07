@@ -1,4 +1,5 @@
 ---
+
 title: "(Backlit Version)REIIE H9+ Mini Keyboard,2.4GHz Wireless Min"
 seo_title: "REIIE H9+ Mini Keyboard Review: Backlit Wireless Handheld"
 meta_description: "REIIE H9+ mini keyboard review: backlit, 2.4GHz wireless handheld remote for HTPC, smart TV, and presentations. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B06X9J8NG4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BbC8N-e1L._AC_SL1298_.jpg"
-pros:
+pros: 
   - "Backlit keys with three brightness levels — actually usable in a dark home theater room"
   - "Built-in rechargeable battery with USB charging cable included; no AA hunting"
   - "Plug-and-play 2.4GHz USB receiver works with Windows, Android, and most smart TVs"
-cons:
+cons: 
   - "Touchpad is small and occasionally registers accidental taps while typing"
   - "Build feels plasticky — not a daily-driver keyboard for heavy typing sessions"
   - "Receiver is tiny and easy to lose; no storage slot on the keyboard itself"
+
 ---
 
 **The REIIE H9+ is the kind of gadget you don't realize you need until you're fumbling with a TV remote trying to type a Netflix search.** This backlit mini keyboard packs a full QWERTY layout, a touchpad, and media controls into a form factor smaller than a TV remote. After digging through 215 Amazon ratings and the specs, here's the honest breakdown.

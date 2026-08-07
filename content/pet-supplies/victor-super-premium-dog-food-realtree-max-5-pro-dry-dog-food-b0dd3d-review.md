@@ -1,4 +1,5 @@
 ---
+
 title: "Victor Super Premium Dog Food â€“ Realtree MAX-5 PRO Dry Dog"
 seo_title: "Victor Super Premium Dog Food â€“ Realtree MAX-5 P Review"
 meta_description: "Our full victor super premium dog food â€“ realtree max-5 pro dry dog review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DD3DB3J6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uoO+VSLbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The high-octane fuel your hunting dog actually needs

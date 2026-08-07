@@ -1,4 +1,5 @@
 ---
+
 title: "WILLOVE Faux Leather Mid-Century Modern Couch"
 seo_title: "WILLOVE Faux Leather Mid-Century Modern Couch Review: Ver"
 meta_description: "Our full willove faux leather mid-century modern couch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCNX29XF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QLCKXzZ-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A mid-century modern couch under $500 usually screams "particle board and regret." The WILLOVE Faux Leather version doesn't. With 229 ratings averaging 4.6 stars, this is one of those rare budget finds that actually respects the design language it borrows. The splayed wooden legs, clean lines, and that warm caramel-brown faux leather are all present and accounted for. But is it a couch you'll want to keep for years, or just until the novelty fades? Let's dig into the details.

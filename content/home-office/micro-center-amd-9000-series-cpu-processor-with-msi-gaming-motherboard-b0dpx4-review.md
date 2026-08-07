@@ -1,4 +1,5 @@
 ---
+
 title: "Micro Center AMD 9000 Series CPU Processor with MSI Gaming M"
 seo_title: "Micro Center AMD 9000 Series CPU Processor with MS Review"
 meta_description: "Our full micro center amd 9000 series cpu processor with msi gaming m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPX4XP7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sj7z48prL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. You're looking at the Micro Center AMD 9000 Series CPU Processor with MSI Gaming M bundle, and you're probably wondering one thing: is this actually a deal, or is it just two products shrink-wrapped together?

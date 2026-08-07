@@ -1,4 +1,5 @@
 ---
+
 title: "PROYAMA Multi Functional Trimming Tools"
 seo_title: "PROYAMA Multi Functional Trimming Tools Review: Verdict |"
 meta_description: "Our full proyama multi functional trimming tools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GHTSG3MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jFnugcaYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever stared at a shed full of single-purpose garden tools and wondered why you own four different blades that all do roughly the same job, the PROYAMA Multi Functional Trimming Tools set is aimed squarely at you. This 3-in-1 system tries to replace your hand sickle, grass edger, and pruning saw with one handle and three interchangeable heads. At a 4.0-star average across 200 ratings, it’s not perfect — but the core design is genuinely clever.

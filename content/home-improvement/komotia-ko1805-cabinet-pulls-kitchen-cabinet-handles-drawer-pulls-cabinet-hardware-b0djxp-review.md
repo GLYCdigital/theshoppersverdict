@@ -1,4 +1,5 @@
 ---
+
 title: "KOMOTIA KO1805 Cabinet Pulls Kitchen Cabinet Handles Drawer "
 seo_title: "KOMOTIA KO1805 Cabinet Pulls Kitchen Cabinet Handl Review"
 meta_description: "Our full komotia ko1805 cabinet pulls kitchen cabinet handles drawer  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJXPBH8H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61P+W6aFeNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about cabinet hardware: it’s the jewelry of your kitchen. You can spend thousands on quartz countertops and custom cabinetry, but if the pulls look cheap, the whole room reads cheap. The KOMOTIA KO1805 pulls aim to fix that without the boutique price tag. After digging through 235 buyer ratings and the specs, here’s the real story.

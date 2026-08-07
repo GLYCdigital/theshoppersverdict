@@ -1,4 +1,5 @@
 ---
+
 title: "279838 Dryer Heating Element for Whirlpool Kenmore Maytag Am"
 seo_title: "279838 Dryer Heating Element Review: Worth It? | 4.2 Stars"
 meta_description: "Honest 279838 dryer heating element review for Whirlpool, Kenmore, Maytag, Amana, Roper. Real performance data, fitment notes, and buyer verdicts."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D4F3QTD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k9SSWOwaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style fitment for Whirlpool-built dryers — no modification needed on most models"
   - "Heats to 4,500-5,000W range consistently, restoring original dry times"
   - "Includes thermal fuse and hi-limit thermostat, saving $15-20 vs buying separately"
-cons:
+cons: 
   - "No wiring diagram included in box — you'll need the manual or a YouTube video"
   - "Some units ship with slightly bent mounting tabs; bend back carefully before install"
+
 ---
 
 **The $35 Fix That Saves You From a $600 Dryer**

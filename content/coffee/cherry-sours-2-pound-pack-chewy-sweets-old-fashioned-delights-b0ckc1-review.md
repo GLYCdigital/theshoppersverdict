@@ -1,4 +1,5 @@
 ---
+
 title: "Cherry Sours | 2-Pound Pack | Chewy Sweets | Old-Fashioned D"
 seo_title: "Cherry Sours 2-Pound Review: Chewy Old-Fashioned Candy"
 meta_description: "Cherry Sours 2-pound pack review: Are these chewy old-fashioned sweets worth it? Flavor, texture, value, and honest downsides from 204 ratings."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CKC18VHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XpGFLOCEL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine sour-then-sweet cherry flavor that hits the old-fashioned candy niche without artificial cherry medicine taste"
   - "2-pound bulk bag is real value — roughly 3x the candy you get in standard 8-10 oz retail bags"
   - "Chewy texture holds up — pieces stay soft for weeks when stored properly, unlike some bulk candies that turn rock-hard"
-cons:
+cons: 
   - "Sour coating is inconsistent — some pieces arrive nearly bare while others are aggressively tart, which annoys flavor purists"
   - "No resealable closure on the bag — you'll need a clip or transfer container to keep them fresh"
+
 ---
 
 Let's be honest about what this is: a two-pound bag of chewy cherry candies that tastes like the stuff your grandpa kept in a dish by the recliner. If that's what you're after, this delivers. If you're expecting modern, glossy, perfectly-uniform gummies, you'll be disappointed — and that's okay.

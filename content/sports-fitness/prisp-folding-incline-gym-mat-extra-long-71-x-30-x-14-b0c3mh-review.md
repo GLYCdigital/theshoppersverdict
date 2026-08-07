@@ -1,4 +1,5 @@
 ---
+
 title: "PRISP Folding Incline Gym Mat - Extra Long 71 x 30 x 14 in W"
 seo_title: "PRISP Folding Incline Gym Mat - Extra Long 71 x 30 Review"
 meta_description: "Our full prisp folding incline gym mat - extra long 71 x 30 x 14 in w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3MHR8JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ivJQMlcAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a sports & fitness product, the **PRISP Folding Incline Gym Mat - Extra Long 71 x 30 x 14 in W** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

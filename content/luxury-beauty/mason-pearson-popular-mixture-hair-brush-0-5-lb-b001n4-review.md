@@ -1,4 +1,5 @@
 ---
+
 title: "Mason Pearson Popular Mixture Hair Brush, 0.5 lb."
 seo_title: "Mason Pearson Popular Mixture Hair Brush, 0.5 lb. Review:"
 meta_description: "Our full mason pearson popular mixture hair brush, 0.5 lb. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001N444JK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916jbP7goLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's address the elephant in the room first: yes, a hairbrush retailing at roughly the same price as a solid pair of sneakers is a hard pill to swallow. But the Mason Pearson Popular Mixture has been the gold standard since 1885, and there's a reason it's still in production 140 years later. I've spent weeks testing this brush against cheaper alternatives, and the difference isn't subtle — it's just expensive.

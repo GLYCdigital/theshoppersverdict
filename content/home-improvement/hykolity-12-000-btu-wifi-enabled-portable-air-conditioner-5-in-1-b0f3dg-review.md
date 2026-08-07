@@ -1,4 +1,5 @@
 ---
+
 title: "Hykolity 12,000 BTU WiFi Enabled Portable Air Conditioner, 5"
 seo_title: "Hykolity 12,000 BTU WiFi Enabled Portable Air Cond Review"
 meta_description: "Our full hykolity 12,000 btu wifi enabled portable air conditioner, 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3DGHRRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Inhg09YlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 12,000 BTU portable AC that actually earns its "smart" label

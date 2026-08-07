@@ -1,4 +1,5 @@
 ---
+
 title: "Kelty Grand Mesa 2P or 4P Backpacking Tent â€“ 3 Season Camp"
 seo_title: "Kelty Grand Mesa 2P or 4P Backpacking Tent â€“ 3 S Review"
 meta_description: "Our full kelty grand mesa 2p or 4p backpacking tent â€“ 3 season camp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B083BPN3RR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E9BVyZM6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $180 tent that punches above its weight — until the wind picks up.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Marvis Cinnamon Mint Toothpaste"
 seo_title: "Marvis Cinnamon Mint Toothpaste Review: Verdict | TSV"
 meta_description: "Our full marvis cinnamon mint toothpaste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWR8521Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71868TqH42L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most toothpaste is boring. You squeeze it on the brush, it foams, you spit, done. The Marvis Cinnamon Mint Toothpaste is not that. This Italian-made tube has developed a cult following for a reason — it's the rare daily product that makes you actually look forward to brushing. But at a luxury price point, does it deliver enough to justify the splurge? I've tested it for three weeks, and here's the real story.

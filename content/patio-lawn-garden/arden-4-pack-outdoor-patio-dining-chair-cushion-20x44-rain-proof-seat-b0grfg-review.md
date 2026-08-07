@@ -1,4 +1,5 @@
 ---
+
 title: "Arden 4-Pack Outdoor Patio Dining Chair Cushion, 20x44, Rain"
 seo_title: "Arden 4-Pack Patio Chair Cushion Review (20x44, Rain)"
 meta_description: "Honest Arden 4-pack outdoor dining chair cushion review: 20x44 fit, Rain color, comfort, durability, and real buyer feedback. See who should buy."
@@ -11,16 +12,17 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRFG8G9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91apixFWY6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 20x44 inch coverage fits standard deep-seat dining chairs without overhang or gaps"
   - "Rain color is a true slate blue-gray that hides pollen and light dirt between cleanings"
   - "1.5-inch thick foam provides firm support that doesn't flatten after a full season of use"
   - "Ties are sewn into the seam, not just tacked on, so they hold up to repeated tying and untying"
   - "Fabric repels water effectively enough that cushions dry quickly after a passing shower"
-cons:
+cons: 
   - "No zippered cover means you cannot remove the fabric for machine washing — spot clean only"
   - "Foam is on the firmer side; if you prefer plush, sink-in seating, these will feel too hard"
   - "Color may appear slightly darker in person than in product photos, especially in shaded patios"
+
 ---
 
 **Buying a 4-pack of outdoor cushions is a commitment.** You're not just testing one seat — you're committing to the look and feel of your entire dining set. The Arden 4-Pack Outdoor Patio Dining Chair Cushion in Rain has earned a 4.6-star rating from 229 buyers, and after digging through the specs and real owner feedback, I can tell you exactly where this cushion shines and where it'll disappoint.

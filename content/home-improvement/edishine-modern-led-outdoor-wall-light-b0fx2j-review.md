@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Modern LED Outdoor Wall Light"
 seo_title: "EDISHINE LED Outdoor Wall Light Review: Worth It?"
 meta_description: "EDISHINE modern LED outdoor wall light review — build quality, brightness, and real buyer feedback. Is this sleek fixture worth your money?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX2JB9B3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gg2AsGpPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True modern minimalist design — clean geometric lines that don't look cheap from the street"
   - "Integrated LED array is genuinely bright (rated for 1200+ lumens depending on color temp) with no bulb replacement needed"
   - "Durable aluminum housing with powder-coat finish resists rust and UV fading better than plastic rivals"
-cons:
+cons: 
   - "Hardwired only — no battery or solar option, so you need an existing junction box and basic wiring comfort"
   - "Some buyers report the motion sensor's range (if equipped) is conservative; it may not trigger until you're within 15–20 feet"
   - "No color temperature switch on some versions — you're locked to whatever 3000K or 5000K you order"
+
 ---
 
 **The Honest Review**

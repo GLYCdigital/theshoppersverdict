@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie It Takes Two Camping Playset with Tent, 2 Barbie Doll"
 seo_title: "Barbie It Takes Two Camping Playset Review: 2 Dolls, Tent"
 meta_description: "Honest Barbie It Takes Two Camping Playset review: 2 dolls, fold-out tent, campfire. See pros, cons, and who should buy this 4.8-star set."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09NLD2MNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R9HPuJ-nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two full Barbie dolls included — Malibu and Brooklyn — each with camping outfits and shoes"
   - "Tent folds open into a playset with interior sleeping bags, campfire, and accessories for immediate storytelling"
   - "Dolls have posable knees and elbows, allowing natural sitting positions around the campfire"
-cons:
+cons: 
   - "Tent is not a standalone structure — it's a fold-out playset, not a pop-up tent kids can enter"
   - "Pieces are small and can be easily lost; no storage bag included for the accessories"
   - "No additional outfits — the dolls come dressed only, limiting wardrobe-swap play"
+
 ---
 
 **Is this the Barbie camping set that finally delivers on the outdoor adventure fantasy — or just another playset that looks better in the box than in a kid's hands?**

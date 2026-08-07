@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks 24V Brushless Hedge Trimmer"
 seo_title: "Greenworks 24V Brushless Hedge Trimmer Review: Verdict | "
 meta_description: "Our full greenworks 24v brushless hedge trimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY3XBS2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v+nCE0hDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Greenworks 24V Brushless Hedge Trimmer sits in that awkward middle ground: not the cheapest corded option, not the brute-force gas machine. But after digging through 220 ratings and the spec sheet, this is the one I'd actually recommend to most homeowners. Here's why.

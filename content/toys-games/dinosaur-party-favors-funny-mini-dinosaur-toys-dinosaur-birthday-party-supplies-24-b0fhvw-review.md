@@ -1,4 +1,5 @@
 ---
+
 title: "Dinosaur Party Favors Funny Mini Dinosaur Toys Dinosaur Birt"
 seo_title: "Dinosaur Party Favors Review: 24-Pack Mini Toy Set (2026)"
 meta_description: "Honest review of the 24-pack funny mini dinosaur toys party favors. Are they worth buying for birthday goodie bags? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FHVW6WHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rUDTxvqNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid PVC construction with no sharp edges — safe for 3+ kids"
   - "24 individually wrapped pieces — enough for two full party classes or backup spares"
   - "Funny, expressive faces that kids actually gravitate toward"
-cons:
+cons: 
   - "At under 2 inches tall, these are smaller than the photos suggest"
   - "Paint details vary slightly between individual figures — not collector-grade"
   - "No storage container included; you'll need your own bag or bin"
+
 ---
 
 Planning a dinosaur-themed birthday party? You've probably stared at a dozen different "party favor" listings, wondering if you're about to buy 24 pieces of flimsy plastic that'll snap before the cake is cut. I've dug through the specs, the customer feedback, and the real-world photos on this 24-pack to give you the straight story.

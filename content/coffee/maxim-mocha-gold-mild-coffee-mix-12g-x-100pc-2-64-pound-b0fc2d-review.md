@@ -1,4 +1,5 @@
 ---
+
 title: "Maxim Mocha Gold Mild Coffee Mix 12g X 100pc (2.64 Pound)"
 seo_title: "Maxim Mocha Gold Mild Coffee Mix 12g X 100pc (2.64 Review"
 meta_description: "Our full maxim mocha gold mild coffee mix 12g x 100pc (2.64 pound) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FC2D3M4W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611RBE8h78L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "FIRE RIOT Aluminum Deep Fryer Pots"
 seo_title: "FIRE RIOT Aluminum Deep Fryer Pot Review (2026): Worth It?"
 meta_description: "Honest FIRE RIOT aluminum deep fryer pot review: build quality, heat distribution, real buyer feedback, and who should buy it. 4.5-star rated."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWQBRJTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sEK-oQf-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3mm aluminum walls heat evenly and recover temp fast after adding cold food"
   - "Includes both a 10-quart pot and 7.5-quart pot — two sizes for different batch frying"
   - "Steel basket with fine mesh handles everything from wings to fritters without sticking"
-cons:
+cons: 
   - "Uninsulated aluminum handles transfer heat — you will need gloves or mitts every time"
   - "No lid included — oil splatters on the stovetop unless you improvise a cover"
+
 ---
 
 Some people buy a turkey fryer for one holiday meal and then let it rust in the garage. The FIRE RIOT Aluminum Deep Fryer Pots are not that purchase. This is a two-pot set aimed at people who fry often enough that a flimsy enameled pot from the big-box store stops cutting it. And at 4.5 stars across 225 ratings, buyers are mostly confirming what the specs suggest: this thing is built to work, not to look pretty.

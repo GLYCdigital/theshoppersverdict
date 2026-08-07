@@ -1,4 +1,5 @@
 ---
+
 title: "Comllen Sink Review"
 seo_title: "Comllen Sink Review (2026): Honest Buyer's Guide"
 meta_description: "Comllen Sink review: Real-world performance, build quality, and value. See what 215 buyers say before you buy. Pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GV4KRGKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vXi47jduL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-gauge stainless steel construction resists dents and warping during heavy daily use"
   - "Sound-dampening pads and undercoating reduce clatter to a dull thud, not a ring"
   - "Undermount design with zero-radius corners gives a clean, modern look that's easy to wipe down"
-cons:
+cons: 
   - "Zero-radius corners trap debris at the bottom edges — you'll need a brush to get them truly clean"
   - "Package arrives unboxed with no protective film on the basin; minor scratches in transit are not uncommon"
   - "No drain assembly or mounting clips included — factor in an extra $30–50 in parts"
+
 ---
 
 If you're staring down a kitchen remodel and the sink aisle at the big-box store is making your eyes glaze over, the Comllen Sink deserves a hard look. With a 4.3-star average from 215 buyers, it's not the most talked-about option out there — but the people who bought it are mostly glad they did. Here's what you're actually getting.

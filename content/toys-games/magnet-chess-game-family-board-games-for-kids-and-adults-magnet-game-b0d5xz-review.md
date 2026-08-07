@@ -1,4 +1,5 @@
 ---
+
 title: "Magnet Chess Game, Family Board Games for Kids and Adults, M"
 seo_title: "Magnet Chess Game, Family Board Games for Kids and Review"
 meta_description: "Our full magnet chess game, family board games for kids and adults, m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5XZCR54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717AdcP9UlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Chess Set That Actually Survives the Car Ride**

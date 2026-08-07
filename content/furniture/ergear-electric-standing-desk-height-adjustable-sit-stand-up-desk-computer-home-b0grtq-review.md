@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Electric Standing Desk, Height Adjustable Sit Stand U"
 seo_title: "ErGear Electric Standing Desk Review: 4.4-Star Sit-Stand Desk"
 meta_description: "ErGear Electric Standing Desk review: 4.4-star rated U-frame sit-stand desk. Dual motors, 3 memory presets, 275-lb capacity. Is it worth it? Read our verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRTQC8VX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KuL9+LQzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor system lifts up to 275 lbs smoothly, handles triple-monitor setups without hesitation"
   - "U-shaped steel frame with crossbar provides rock-solid stability even at max height"
   - "Three programmable memory presets make switching between sitting and standing positions genuinely effortless"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes despite claims of 'easy' setup; cable management tray is an afterthought"
   - "Controller buttons feel plasticky and the LED display is dim in bright rooms"
   - "No built-in USB ports or power outlets — budget another $30-50 for a clamp-on power strip"
+
 ---
 
 Let's cut through the noise: the electric standing desk market is flooded with wobbly, underpowered options that shake like a leaf at standing height. The ErGear Electric Standing Desk with its U-shaped frame is not one of those. After digging through the specs, customer feedback, and the 4.4-star average across 220 ratings, here's the real story.

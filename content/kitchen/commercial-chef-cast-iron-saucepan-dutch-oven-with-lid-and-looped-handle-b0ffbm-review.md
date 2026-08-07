@@ -1,4 +1,5 @@
 ---
+
 title: "COMMERCIAL CHEF Cast Iron Saucepan, Dutch Oven with Lid and"
 seo_title: "COMMERCIAL CHEF Cast Iron Dutch Oven Review (2026)"
 meta_description: "COMMERCIAL CHEF cast iron saucepan review: 4.4-star rated Dutch oven with lid. Is it worth it? Heat retention, seasoning, and real buyer feedback covered."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFBM3HLT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-lvY+rzzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Excellent heat retention for its price point — sears and simmers evenly without hotspots"
   - "Looped side handles make oven-to-table transitions genuinely safe, even with mitts"
   - "Pre-seasoned surface improves with use; most buyers report non-stick behavior after 3-4 cooks"
-cons:
+cons: 
   - "Averaging just under 6 lbs empty — this is a heavy saucepan; not for weak wrists"
   - "Enamel-free exterior requires full seasoning maintenance or rust will develop quickly"
+
 ---
 
 **The Shopper's Verdict: COMMERCIAL CHEF Cast Iron Saucepan Review — Heavy Duty, Light on Price**

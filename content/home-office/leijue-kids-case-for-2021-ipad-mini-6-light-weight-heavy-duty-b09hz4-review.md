@@ -1,4 +1,5 @@
 ---
+
 title: "LeiJue Kids Case for 2021 iPad mini 6, Light Weight Heavy Du"
 seo_title: "LeiJue Kids Case for 2021 iPad mini 6, Light Weigh Review"
 meta_description: "Our full leijue kids case for 2021 ipad mini 6, light weight heavy du review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09HZ45TJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q523-tpVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: if you’re shopping for a kids’ iPad case, you’re not looking for style. You’re looking for the difference between a cracked screen and a $300 repair bill. The LeiJue Kids Case for the 2021 iPad mini 6 (8.3-inch, model A2567/A2568/A2569) understands that assignment. It’s not pretty, but it’s purposeful — and at 4.5 stars from 225 ratings, it’s clearly doing something right.

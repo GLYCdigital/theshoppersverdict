@@ -1,4 +1,5 @@
 ---
+
 title: "ChaoLeHo Natural Slate Stone Rocks Fish Tank Decor Rocks for"
 seo_title: "ChaoLeHo Slate Stone Rocks Review: Aquarium Decor 2026 inch"
 meta_description: "Honest ChaoLeHo natural slate rock review: build quality, safety for fish, stacking versatility, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DH3NVGJK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DRw+pDV3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flake naturally into thin, stackable layers — no chiseling or breaking required for most builds"
   - "Neutral gray-slate tones blend with live plants and dark substrates without leaching or altering pH"
   - "Smooth edges reduce injury risk to bottom-dwellers like corydoras and loaches"
-cons:
+cons: 
   - "Weight varies noticeably between pieces — a 10-pound box might yield only 5-6 large slabs, not the 10-12 some expect"
   - "Surface dust requires thorough rinsing before placement; skipping this clouds the tank for days"
+
 ---
 
 Slate is the workhorse of natural aquascaping. It's not flashy like dragon stone or dramatic like lava rock, but it does something those can't — it stacks. Real, unprocessed slate flakes into thin, stable layers that let you build caves, terraces, and overhangs without a single drop of aquarium-safe glue. That's exactly what ChaoLeHo's offering promises, and after digging through 225 ratings and the real-world experiences behind them, here's the honest picture.

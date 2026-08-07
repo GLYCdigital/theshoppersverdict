@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Norelco OneBlade 360 Face + Body Hybrid Electric Tri"
 seo_title: "Philips Norelco OneBlade 360 Face + Body Hybrid El Review"
 meta_description: "Our full philips norelco oneblade 360 face + body hybrid electric tri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNXT6FWQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LUdMebTZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the honest truth about the Philips Norelco OneBlade 360: it's the closest thing to a "does everything" grooming tool that actually delivers. This isn't a razor, it's not a beard trimmer, and it's not a body groomer — it's all three, and it does each job respectably. With 229 Amazon ratings averaging 4.6 stars, the consensus is clear, but let's dig into whether it earns a spot in your routine.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bingoday LED Nightstand Set 2 LED Bedside Tables for Bedroom"
 seo_title: "Bingoday LED Nightstand Set Review: 2-Piece Bedside Tables"
 meta_description: "Bingoday LED Nightstand Set 2 review: Smart bedside tables with RGB lighting, USB ports & drawers. See real pros, cons & who should buy this 4.3-star set."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CY1M9M91/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y+Dw9KZTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in RGB LED strips with remote control — 16 colors plus brightness modes create real ambience, not just a gimmick"
   - "Two USB ports and one Type-C port per nightstand, so both sides of the bed get charging without fighting over outlets"
   - "Sliding drawer with soft-close glides handles daily use smoothly; the open shelf below adds catch-all storage"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes per unit; the LED wiring must be threaded carefully through pre-drilled holes or the light strips won't align"
   - "MDF board construction feels solid but won't survive a move — expect particle-board edges to chip if you disassemble and reassemble"
   - "Remote control uses an IR sensor that requires line-of-sight; if the nightstand sits low and the bed blocks the sensor, you'll need to lean over to change colors"
+
 ---
 
 **The short version:** The Bingoday LED Nightstand Set gives you two functional, good-looking bedside tables with genuinely useful lighting and charging — at a price point that undercuts most "smart furniture." At 4.3 stars from 215 ratings, it's not perfect, but for most buyers, the tradeoffs are worth it.

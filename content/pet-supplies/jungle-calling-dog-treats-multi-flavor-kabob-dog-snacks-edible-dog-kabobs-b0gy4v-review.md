@@ -1,4 +1,5 @@
 ---
+
 title: "Jungle Calling Dog Treats, Multi-Flavor Kabob Dog Snacks, Ed"
 seo_title: "Jungle Calling Dog Treats, Multi-Flavor Kabob Dog  Review"
 meta_description: "Our full jungle calling dog treats, multi-flavor kabob dog snacks, ed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GY4V87YX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715kfkfNf1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what most "dog kabobs" on Amazon actually are: a plastic stick with a few dried meat bits glued on. The Jungle Calling Multi-Flavor Kabob Dog Snacks are different — the entire thing, stick included, is edible. That single design choice puts them ahead of most of the category.

@@ -1,4 +1,5 @@
 ---
+
 title: "Liftmaster 98022 Premium Series Jackshaft Garage Door Opener"
 seo_title: "Liftmaster 98022 Premium Series Jackshaft Garage D Review"
 meta_description: "Our full liftmaster 98022 premium series jackshaft garage door opener review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVP9BFFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Z50OZ01tL._AC_SL1302_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Liftmaster 98022 is the closest thing to a "set it and forget it" garage door opener — if your door can handle it.**

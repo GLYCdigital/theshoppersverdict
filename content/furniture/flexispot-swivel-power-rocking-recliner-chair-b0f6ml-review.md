@@ -1,4 +1,5 @@
 ---
+
 title: "FLEXISPOT Swivel Power Rocking Recliner Chair"
 seo_title: "FLEXISPOT Swivel Power Recliner Review: Worth It? (2026)"
 meta_description: "Honest FLEXISPOT Swivel Power Rocking Recliner review: comfort, build quality, and real buyer feedback. See who should buy it and who should skip."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6MLSF5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F1Whbm05L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smooth 360-degree swivel plus power recline and rock functions in one motorized unit — rare combo at this price"
   - "Genuine full-grain leather on seating surfaces with reinforced stitching, not bonded leather that peels in 18 months"
   - "USB-C and USB-A charging ports built into the armrest — actually useful, not decorative"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with two people; the base mechanism is heavy and awkward to align solo"
   - "Recline is not fully flat — maxes out around 140 degrees, so power napping fully reclined isn't possible"
   - "Leather gets warm after 2+ hours of sitting; no built-in ventilation or cooling feature"
+
 ---
 
 # FLEXISPOT Swivel Power Rocking Recliner Chair: The Multi-Tasker That Actually Delivers

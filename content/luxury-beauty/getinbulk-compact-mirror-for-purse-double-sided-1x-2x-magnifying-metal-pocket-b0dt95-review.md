@@ -1,4 +1,5 @@
 ---
+
 title: "Getinbulk Compact Mirror for Purse, Double-Sided 1X/2X Magni"
 seo_title: "Getinbulk Compact Mirror for Purse, Double-Sided 1 Review"
 meta_description: "Our full getinbulk compact mirror for purse, double-sided 1x/2x magni review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DT95YJL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41k0W+HFRFL._SL1200_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dug through a bottomless purse for a mirror only to find a scratched, useless piece of plastic, the Getinbulk Compact Mirror is the upgrade you've been putting off. With a 4.7-star average across 235 ratings, this little metal compact has clearly found its audience. The question is whether it deserves a spot in your bag.

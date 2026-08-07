@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 2-Inch Olympic Cast Iron Plate Weight Plate Set with"
 seo_title: "Fitvids 2-Inch Olympic Cast Iron Plates Review (2026)"
 meta_description: "Fitvids 2-inch Olympic cast iron weight plates reviewed: durability, accuracy, and value. See real pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYGHRY9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sVk8br38L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid cast iron construction with clean machining around the center hole — no sharp burrs or wobble on the bar"
   - "Standard 2-inch Olympic sizing fits all major barbells; the 1-inch lip keeps plates snug during deadlifts"
   - "Includes two spring clamps that actually hold — no sliding mid-set like cheap collars"
-cons:
+cons: 
   - "Finish is bare iron, so expect surface rust if you train in a humid garage without oiling them"
   - "Weight tolerance is roughly ±3%, so your '45' might actually be 44 or 46 pounds — fine for most, annoying for powerlifters"
   - "No rubber coating or bumper protection — dropping these on a hard floor will chip both the plates and your flooring"
+
 ---
 
 Let's cut through the noise. If you're shopping for Olympic plates under $2 per pound, you're looking at three options: used junk from Craigslist, rubber-coated stuff that smells like a tire fire, or bare cast iron like the Fitvids set. I've trained on all three, and here's the honest breakdown of what the Fitvids 2-inch plates deliver for the money.

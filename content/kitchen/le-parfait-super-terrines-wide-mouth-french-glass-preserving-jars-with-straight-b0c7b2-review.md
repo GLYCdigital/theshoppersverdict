@@ -1,4 +1,5 @@
 ---
+
 title: "Le Parfait Super Terrines - Wide Mouth French Glass Preservi"
 seo_title: "Le Parfait Super Terrines - Wide Mouth French Glas Review"
 meta_description: "Our full le parfait super terrines - wide mouth french glass preservi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7B293LX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812xI1WxViL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The French Jar That Makes Mason Jars Look Like Amateurs

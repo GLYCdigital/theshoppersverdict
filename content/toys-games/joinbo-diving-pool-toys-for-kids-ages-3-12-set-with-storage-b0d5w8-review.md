@@ -1,4 +1,5 @@
 ---
+
 title: "JOINBO Diving Pool Toys for Kids Ages 3-12 Set with Storage "
 seo_title: "JOINBO Diving Pool Toys for Kids Ages 3-12 Set wit Review"
 meta_description: "Our full joinbo diving pool toys for kids ages 3-12 set with storage  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5W8KMHG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CNdfCFZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the diving toy set that will actually get your kids off the pool steps? Or just another plastic bundle that sinks to the bottom and gets ignored?** After digging through 225 ratings and the product specs, here’s the real breakdown.

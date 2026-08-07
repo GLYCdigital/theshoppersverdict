@@ -1,4 +1,5 @@
 ---
+
 title: "Cavender's All Purpose Greek Seasoning 5 lbs Tub Bulk"
 seo_title: "Cavender's Greek Seasoning 5 lb Tub Review (2026)"
 meta_description: "Honest Cavender's All Purpose Greek Seasoning 5 lbs tub review: flavor, value, salt content, and who should buy this bulk size."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B000QA4YS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TIGUxA27L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5-pound tub delivers roughly 40% savings per ounce versus the standard 4.9 oz jar"
   - "Salt-forward Mediterranean blend works as a one-stop rub for meats, veggies, and marinades"
   - "Resealable tub with sturdy handle survives heavy kitchen use without cracking"
-cons:
+cons: 
   - "Aggressive salt content means you must dial back added salt in recipes or risk over-seasoning"
   - "Bulk size requires proper dry storage; humidity will clump the blend within weeks"
+
 ---
 
 Let's be upfront: this is a spice blend, not a coffee maker. But if you've clicked here, you're likely one of the 245 shoppers who rated this 5-pound tub of Cavender's Greek seasoning 4.9 out of 5 stars — and you want to know if it's worth the counter space. The short answer: yes, but with one significant caveat about salt.

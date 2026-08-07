@@ -1,4 +1,5 @@
 ---
+
 title: "Bil-Jac Picky No More Small Breed Dry Dog Food"
 seo_title: "Bil-Jac Picky No More Review: Small Breed Dry Food"
 meta_description: "Bil-Jac Picky No More Small Breed review: taste-coated kibble for fussy eaters. Real owner feedback, nutrition facts, and buying advice."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVPFKH5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QhW2kVFDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Proprietary taste-coating process that genuinely entices picky eaters — most reviewers report dogs finishing bowls within days"
   - "Small kibble size (about 8mm) is ideal for toy and small breeds, with a soft texture that's easy for seniors with dental issues"
   - "Made in the USA with real chicken as the first ingredient and no artificial preservatives, colors, or flavors"
-cons:
+cons: 
   - "Chicken fat is listed as the second ingredient — dogs with poultry sensitivities may react"
   - "Corn and brewers rice are prominent fillers, which is surprising at this price point"
   - "Bag size options are limited (6-lb and 12-lb only), so large multi-dog households will burn through it quickly"
+
 ---
 
 **The Hook: When Your Dog Turns Up Their Nose at Dinner**

@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 06858 16-Inch Slimline Electric Skillet with Glass Co"
 seo_title: "Presto 06858 16-Inch Slimline Electric Skillet wit Review"
 meta_description: "Our full presto 06858 16-inch slimline electric skillet with glass co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01GD1JSJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z9+SDSM7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a deep electric skillet with high walls, you know the frustration: food steams instead of sears, spatulas can't reach the corners, and flipping a pancake requires a wrist contortionist. The Presto 06858 Slimline solves that by shaving the sides down to 2.75 inches — and it's the reason this 16-inch model has earned a 4.6-star average across 229 ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Harney & Sons Fine Teas Decaffeinated Earl Grey with Bergamo"
 seo_title: "Harney & Sons Fine Teas Decaffeinated Earl Grey wi Review"
 meta_description: "Our full harney & sons fine teas decaffeinated earl grey with bergamo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07FCS2BTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E0-u8t-IL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I get it. Most decaf teas taste like hot water that once waved at a tea leaf. So when Harney & Sons claims their decaffeinated Earl Grey delivers "the same great flavor" as the original, my skepticism was fully armed. But after steeping through an entire box of these, I'm here to tell you the claim mostly holds up.

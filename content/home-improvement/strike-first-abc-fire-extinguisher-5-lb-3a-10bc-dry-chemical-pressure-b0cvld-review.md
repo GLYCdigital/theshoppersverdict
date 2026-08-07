@@ -1,4 +1,5 @@
 ---
+
 title: "Strike First ABC Fire Extinguisher 5 lb | 3A:10BC Dry Chemic"
 seo_title: "Strike First ABC Fire Extinguisher 5 lb | 3A:10BC  Review"
 meta_description: "Our full strike first abc fire extinguisher 5 lb | 3a:10bc dry chemic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0CVLD6XDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cr+Dl1wML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The last thing you want to discover during a kitchen fire is that your extinguisher is a decorative plastic toy.** The Strike First 5 lb ABC unit isn't that. It's a legitimate piece of fire safety equipment that's earned a perfect 5.0 rating across 250 Amazon reviews — and after digging into what buyers actually say, that rating holds up.

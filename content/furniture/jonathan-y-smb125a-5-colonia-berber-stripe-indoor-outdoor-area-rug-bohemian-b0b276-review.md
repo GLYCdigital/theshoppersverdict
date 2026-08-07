@@ -1,4 +1,5 @@
 ---
+
 title: "Jonathan Y SMB125A-5 Colonia Berber Stripe Indoor Outdoor Ar"
 seo_title: "Jonathan Y SMB125A-5 Colonia Berber Stripe Indoor  Review"
 meta_description: "Our full jonathan y smb125a-5 colonia berber stripe indoor outdoor ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B276DPQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1inGPKCkpS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some rugs are furniture. This one is armor. The Jonathan Y Colonia Berber Stripe is a flatweave polypropylene rug designed to absorb whatever life throws at it — spilled coffee on the patio, muddy dog paws in the mudroom, kids eating goldfish crackers in the playroom — and still look put-together when guests arrive.

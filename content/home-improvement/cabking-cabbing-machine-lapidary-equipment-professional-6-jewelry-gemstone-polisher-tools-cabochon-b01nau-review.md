@@ -1,4 +1,5 @@
 ---
+
 title: "CabKing Cabbing Machine Lapidary Equipment – Professional"
 seo_title: "CabKing Cabbing Machine Review: Worth It? (2026)"
 meta_description: "CabKing cabbing machine review: 6-wheel lapidary grinder/polisher. Real pros, cons, and buyer feedback. Is this $1,000+ investment worth it?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01NAU8SIQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81phiTbJKBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six diamond wheels (80 to 14,000 grit) cover shaping through final polish without changing wheels"
   - "1/2 HP sealed motor runs quietly and handles hard stones like agate and jasper without bogging down"
   - "Built-in water coolant system with recirculating pump keeps stones cool and dust-free"
-cons:
+cons: 
   - "Splash shields leave gaps—expect wet floors; you'll want a drip tray or apron"
   - "At roughly 40 lbs, it's portable but not truly bench-top; needs a sturdy dedicated stand"
   - "Setup requires minor assembly and the manual is sparse—plan for a YouTube tutorial session"
+
 ---
 
 If you're cutting cabochons seriously, you already know the pain of switching wheels between grits mid-project. The CabKing 6-wheel system eliminates that shuffle entirely. It's not cheap, and it's not perfect, but after 240 Amazon ratings averaging 4.8 stars, this machine has earned its reputation as the workhorse of hobbyist lapidary.

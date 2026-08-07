@@ -1,13 +1,14 @@
 ---
+
 title: "GCI Outdoor Sunshade Backpack Beach Chair | Reclining Folding Canopy Chair with Durable Armrests, Drink Holder & Carry Straps, Perfect for Beach Trips & Picnics — Saybrook Blue"
 seo_title: "GCI Outdoor Sunshade Review: Verdict (4.4/5) | TSV"
 meta_description: "Very good 1,876+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "gci-outdoor-sunshade-backpack-beach-chair-reclining-folding-canopy-chair-with-durable-review"
 image_alt: "GCI Outdoor Sunshade Backpack Beach Chair | Reclining Folding Canopy Chair with Durable Armrests, Drink Holder & Carry S"
-keywords:
+keywords: 
   - "gci outdoor sunshade review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the GCI Outdoor Sunshade Backpack?"
     answer: "Very good quality That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the GCI Outdoor Sunshade Backpack?"
@@ -21,12 +22,13 @@ review_count: 1876
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BC3BMVKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uu2YWEoYL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Very good quality."
   - "Compact, perfect shade, the sun shade is so adjustable , full coverage or none, easy to carry."
   - "Good quality and comfortable."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 You know that moment at the beach when the sun shifts, and suddenly you're either squinting or dragging your chair ten feet to reclaim shade? The GCI Outdoor Sunshade Backpack Beach Chair eliminates that whole dance. This is a reclining folding chair with a built-in canopy that adjusts to five positions, so you can chase shade without moving your seat. At $94.99, it's pricier than a standard beach chair — but it's also replacing both a chair and an umbrella. Here's the honest breakdown after digging through 1,876 ratings and the specs that matter.

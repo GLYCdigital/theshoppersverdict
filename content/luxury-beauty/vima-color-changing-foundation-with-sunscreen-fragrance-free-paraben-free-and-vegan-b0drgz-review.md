@@ -1,4 +1,5 @@
 ---
+
 title: "Vima Color Changing Foundation with Sunscreen â€“ Fragrance-"
 seo_title: "Vima Color Changing Foundation with Sunscreen â€“  Review"
 meta_description: "Our full vima color changing foundation with sunscreen â€“ fragrance- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DRGZSLSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51v1fCNJJCL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The Self-Adjusting Foundation That's Smart But Not Universal

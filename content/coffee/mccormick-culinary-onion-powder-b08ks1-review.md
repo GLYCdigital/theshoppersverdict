@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Culinary Onion Powder"
 seo_title: "McCormick Culinary Onion Powder Review: Verdict | TSV"
 meta_description: "Our full mccormick culinary onion powder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08KS1XRWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bavTSouBL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what this is: a massive jar of onion powder for people who cook a lot. If you're a once-a-week stir-fry kind of cook, McCormick's Culinary line is overkill. But if you're feeding a family, meal-prepping, or making your own spice blends, this 17-ounce container changes the economics of your pantry.

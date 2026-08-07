@@ -1,4 +1,5 @@
 ---
+
 title: "Samsung 32â€"
 seo_title: "Samsung 32â€ Review: Verdict | TSV"
 meta_description: "Our full samsung 32â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FF59SR6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jeLFLYgwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Samsung 32â€ Review: The Big-Screen Budget Pick That Gets the Job Done

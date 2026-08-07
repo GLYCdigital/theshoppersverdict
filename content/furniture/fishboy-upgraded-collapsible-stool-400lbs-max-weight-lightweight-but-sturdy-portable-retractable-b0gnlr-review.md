@@ -1,4 +1,5 @@
 ---
+
 title: "Fishboy Upgraded Collapsible Stool, 400lbs Max Weight, Light"
 seo_title: "Fishboy Collapsible Stool Review: 400lbs Capacity, Portable"
 meta_description: "Fishboy Upgraded Collapsible Stool review: 400lbs capacity, lightweight, portable. See how this retractable stool performs for camping, fishing, and home use."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GNLRTY3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cVCn72jdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 400lb weight capacity with reinforced aluminum alloy frame and non-slip rubber feet that grip on wet surfaces"
   - "Folds down to roughly the size of a thick paperback book — fits in a backpack side pocket or car door storage"
   - "Quick-release locking mechanism engages with a satisfying click; no pinching fingers during setup or collapse"
-cons:
+cons: 
   - "Seat surface is only about 10 inches in diameter — fine for sitting, not for lounging or shifting weight around"
   - "Locking collar requires deliberate force to release; users with arthritis or limited hand strength may struggle"
+
 ---
 
 The Fishboy Upgraded Collapsible Stool solves a problem you didn't know you had — until you're standing in a long line, squatting at a campsite, or sitting on a damp log wishing you'd brought a chair. This isn't a gimmick product. It's a genuinely useful piece of portable furniture that earns its spot in your trunk or backpack.

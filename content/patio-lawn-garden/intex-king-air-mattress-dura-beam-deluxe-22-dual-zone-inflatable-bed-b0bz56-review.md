@@ -1,7 +1,8 @@
 ---
-title: "Intex King Air Mattress, Dura-Beam Deluxe 22\" Dual Zone Infl"
-seo_title: "Intex King Air Mattress, Dura-Beam Deluxe 22\" Dual Review"
-meta_description: "Our full intex king air mattress, dura-beam deluxe 22\" dual zone infl review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Intex King Air Mattress, Dura-Beam Deluxe 22\ Dual Zone Infl"
+seo_title: "Intex King Air Mattress, Dura-Beam Deluxe 22\ Dual Review"
+meta_description: "Our full intex king air mattress, dura-beam deluxe 22\ dual zone infl review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "intex-king-air-mattress-dura-beam-deluxe-22-dual-zone-inflatable-bed-b0bz56-review"
 image_alt: "Intex King Air Mattress, Dura-Beam Deluxe 22 Dual Zone Inflatable Bed with Built-in Pump"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BZ563Z8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612uQlfk4hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Intex Dura-Beam Deluxe 22” King is the air mattress equivalent of a mid-size sedan: unglamorous, reliable, and far more comfortable than anything in its price bracket. But it comes with quirks you need to know before you hit "add to cart."

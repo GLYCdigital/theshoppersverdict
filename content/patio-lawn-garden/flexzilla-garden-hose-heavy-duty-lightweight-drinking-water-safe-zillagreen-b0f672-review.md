@@ -1,4 +1,5 @@
 ---
+
 title: "Flexzilla Garden Hose, Heavy Duty, Lightweight, Drinking Wat"
 seo_title: "Flexzilla Garden Hose Review: Lightweight & Drinking Water Safe"
 meta_description: "Our Flexzilla garden hose review covers the hybrid polymer build, drinking water safety, kink resistance, and whether this 4.2-star hose is worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F672MD46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61++3b0W0zL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Hybrid polymer construction stays flexible down to sub-zero temps, unlike rubber hoses that stiffen"
   - "Drinking water safe (NSF/ANSI 61 certified) with a leak-free O-ring design at the fittings"
   - "Weighs roughly 30% less than comparable rubber hoses, making it easier to drag around beds and borders"
-cons:
+cons: 
   - "Bright green exterior shows dirt and algae stains quickly, especially if left in sunlight"
   - "Fittings are aluminum, not solid brass—prone to corrosion if you leave it connected to a spigot year-round"
+
 ---
 
 Let's cut through the noise: the Flexzilla is the hose that gardeners with bad backs buy, and then they tell their neighbors. This is the drinking-water-safe version of the brand's legendary hybrid polymer hose—the one that doesn't fight you every time you drag it across a driveway. Here's the full story after digging through 210 ratings and the spec sheet.

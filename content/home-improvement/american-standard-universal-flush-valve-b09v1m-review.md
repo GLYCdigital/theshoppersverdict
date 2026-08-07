@@ -1,24 +1,26 @@
 ---
+
 title: "American Standard Universal Flush Valve Review"
 seo_title: "American Standard Universal Flush Valve Review (2026): Worth It?"
 meta_description: "American Standard Universal Flush Valve review: 4.2★ from 210 ratings. Does it fit your toilet? We break down pros, cons, and who should buy."
 slug: "american-standard-universal-flush-valve-b09v1m-review"
 image_alt: "American Standard Universal Flush Valve installed in a toilet tank, showing the brass body and flapper mechanism"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09V1M6SZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6173SspV09L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Brass body with robust construction — noticeably heavier and more durable than plastic OEM valves"  
   - "Universal height design fits most standard 2-inch flush valve toilets, reducing the need for exact model matching"  
   - "Includes both flapper and seal, so you replace the whole assembly in one shot — no piecemeal repairs"  
-cons:  
+cons: 
   - "The flapper chain is short; if your tank lever sits low, you'll need to add a link or buy an extension"  
   - "Some buyers report the rubber seal doesn't seat perfectly on older, mineral-crusted flush valve openings — cleaning the mating surface is mandatory"  
   - "No instructions included. If you're not handy, watch a YouTube video first or you'll likely install it upside down like 20% of reviewers did"
+
 ---
 
 If you're staring at a toilet that runs all night, the American Standard Universal Flush Valve is the kind of part that either solves your problem in 20 minutes or sends you back to the hardware store muttering. At 4.2 stars from 210 ratings, it's a solid middle-ground fix — but "universal" doesn't mean "idiot-proof." Here's what you actually need to know before buying.

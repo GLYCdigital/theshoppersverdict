@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Sticky Easel Pads, 25 x 30-Inch"
 seo_title: "Amazon Basics Sticky Easel Pads Review: 25 x 30-Inch"
 meta_description: "Honest Amazon Basics Sticky Easel Pads review: 25x30-inch sheets, adhesive strength, paper quality, real buyer feedback. Is this flip chart worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHF4381R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wnAjroyWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine stick-and-stay adhesive that holds to drywall and whiteboards for hours without peeling"
   - "Bright white 25x30-inch sheets with decent 60gsm weight — no marker bleed-through"
   - "Perforation tears cleanly every time, no jagged edges wasting sheets"
-cons:
+cons: 
   - "Adhesive weakens noticeably on textured or painted cinderblock walls"
   - "Only 20 sheets per pad — heavier users will burn through them fast"
   - "Paper curls at corners after a day on the wall; fine for sessions, not for permanent displays"
+
 ---
 
 **The $20 Brainstorming Workhorse That Just Works**

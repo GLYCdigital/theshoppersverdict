@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools AEPJS1 Bluetooth Speaker, Wireless Portable Jobs"
 seo_title: "Klein Tools AEPJS1 Bluetooth Speaker, Wireless Por Review"
 meta_description: "Our full klein tools aepjs1 bluetooth speaker, wireless portable jobs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N8TMMK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51etMYZasQL._AC_US40_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the speaker you throw in a tool bag, not the one you put on a shelf in your living room.** The Klein Tools AEPJS1 is built for the jobsite first and the backyard second. It's a speaker that understands sawdust, rain spatter, and the occasional drop off a ladder — because it's designed to take all three and keep playing.

@@ -1,4 +1,5 @@
 ---
+
 title: "Philips LED Flicker-Free BR30 Flood Light Bulb, Non-Dimmable"
 seo_title: "Philips LED Flicker-Free BR30 Flood Light Bulb, No Review"
 meta_description: "Our full philips led flicker-free br30 flood light bulb, non-dimmable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGLF8J6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519ORdJi6yL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's a scenario: you've just swapped every recessed can in your kitchen to LED, and now you're getting a headache every time you cook. That's not coincidence — that's flicker. Most budget LED bulbs pulse at 60-120 times per second, and your brain registers it even if your eyes don't. The Philips LED Flicker-Free BR30 Flood Light Bulb is engineered specifically to eliminate that problem. After digging through the 235 Amazon ratings (4.7 stars) and the technical specs, here's what you need to know before buying.

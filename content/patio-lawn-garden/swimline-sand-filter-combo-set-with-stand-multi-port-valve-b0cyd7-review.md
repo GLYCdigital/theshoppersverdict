@@ -1,4 +1,5 @@
 ---
+
 title: "Swimline Sand Filter Combo Set with Stand & Multi Port Valve"
 seo_title: "Swimline Sand Filter Combo Set with Stand & Multi  Review"
 meta_description: "Our full swimline sand filter combo set with stand & multi port valve review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CYD7SHBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812yy3cApfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about what this Swimline combo set actually is: a complete above-ground pool filtration system that cuts out the guesswork. No separate pump, filter, stand, and hose shopping. One box, one order, and if you read this review first, no surprises.

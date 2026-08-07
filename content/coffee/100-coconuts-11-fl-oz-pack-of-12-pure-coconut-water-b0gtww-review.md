@@ -1,4 +1,5 @@
 ---
+
 title: "100 Coconuts 11 Fl Oz Pack Of 12 Pure Coconut Water B0Gtww Review"
 seo_title: "100 Coconuts Coconut Water 12-Pack Review (2026)"
 meta_description: "Honest 100 Coconuts 11 fl oz 12-pack review: taste, purity, value. See how this pure coconut water stacks up for hydration and everyday drinking."
@@ -11,14 +12,15 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/None/?tag=tsvglyc-20"
 amazon_image: ""
-pros:
+pros: 
   - "11 fl oz single-serve size fits lunchboxes and gym bags without waste"
   - "Pure coconut water with no added sugar, concentrates, or preservatives"
   - "12-pack case offers solid per-ounce value for daily hydration"
-cons:
+cons: 
   - "Early reviews are thin — only 4.0 average from a limited pool, so long-term consistency is unproven"
   - "No sweetened or flavored variants for those who find plain coconut water earthy"
   - "Shelf-stable packaging means it may lack the fresh-taste edge of refrigerated brands"
+
 ---
 
 If you’re scanning Amazon for a clean, no-nonsense coconut water, the **100 Coconuts 11 Fl Oz Pack of 12** looks like the obvious buy: twelve single-serve cartons, one ingredient, zero sugar. But with only a 4.0-star average from a small review pool, you’re right to wonder if it’s genuinely good or just adequately fine. Here’s what the specs and early feedback actually tell you.

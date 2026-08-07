@@ -1,4 +1,5 @@
 ---
+
 title: "Nokta Simplex Ultra Waterproof Metal Detector with Carbon Fi"
 seo_title: "Nokta Simplex Ultra Waterproof Metal Detector with Review"
 meta_description: "Our full nokta simplex ultra waterproof metal detector with carbon fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLCM5WLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KJ1pXJLrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some metal detectors make you choose between land hunting and water hunting. The Nokta Simplex Ultra tries to be both, and for the most part, it pulls it off. This is the latest iteration in Nokta's Simplex line, and the headline upgrade here is the carbon fiber shaft and the fully waterproof design that extends to the control box — not just the coil.

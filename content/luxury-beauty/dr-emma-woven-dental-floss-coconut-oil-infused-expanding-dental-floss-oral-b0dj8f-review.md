@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Emma Woven Dental Floss Coconut Oil Infused Expanding Dental Floss Review"
 seo_title: "Dr. Emma Woven Dental Floss Review: Coconut Oil Infused"
 meta_description: "Honest Dr. Emma woven dental floss review: coconut oil-infused expanding floss. Does it beat standard floss? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJ8FBKQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u5ZR+imDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expanding woven texture grips plaque better than flat tape floss, especially between tight molars"
   - "Coconut oil infusion isn't a gimmick—it makes gliding between teeth noticeably smoother without waxy residue"
   - "Single-strand woven construction resists shredding and fraying on sharp or crowded teeth"
-cons:
+cons: 
   - "At roughly $10–12 per 30-yard spool, it costs 3–4x more than standard drugstore floss"
   - "The dispenser lid can pop off if dropped—not travel-bag friendly without a backup case"
+
 ---
 
 Most floss is an afterthought. You grab whatever's on sale, tolerate the waxed tape that snaps between tight teeth, and move on. Dr. Emma's woven, coconut oil-infused floss makes you reconsider that routine. It's priced like a luxury item, but the question is whether the experience justifies the premium. After testing it against the standard options, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bamworld Rattan Coffee Table"
 seo_title: "Bamworld Rattan Coffee Table Review: Stylish & Sturdy"
 meta_description: "Read our honest Bamworld Rattan Coffee Table review: real build quality, durability issues, and who should buy this 4.7-star boho piece."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLXX54ZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91XjoRkgh3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hand-woven natural rattan over a solid mango wood frame — genuinely beautiful texture that photos don't fully capture"
   - "Assembles in under 15 minutes with just the included Allen wrench; no extra tools needed"
   - "Sturdy enough for daily use at 35 lbs — won't wobble or shift on carpet or hardwood"
-cons:
+cons: 
   - "The natural rattan finish shows water rings and scratches easily — you'll want coasters and felt pads from day one"
   - "Legs arrive with pre-drilled holes that occasionally misalign by a few millimeters, requiring gentle persuasion to fit"
+
 ---
 
 If you've been scrolling past the same mass-produced glass-and-chrome coffee tables, the Bamworld Rattan Coffee Table stops the scroll for a reason. This isn't a veneer or a print — it's actual hand-woven rattan stretched over a solid mango wood frame. The piece weighs about 35 pounds, which tells you immediately this isn't hollow particle board. It's priced to compete with big-box store tables, but it looks like something you'd find in a boutique furniture shop charging triple.

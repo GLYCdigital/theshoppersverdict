@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward W560 PoolVac Navigator Standard Leaf Canister"
 seo_title: "Hayward W560 PoolVac Navigator Standard Leaf Canis Review"
 meta_description: "Our full hayward w560 poolvac navigator standard leaf canister review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000EW6EGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7160RQiKM8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Hayward PoolVac Navigator spends more time circling the shallow end than actually cleaning, the problem might not be the cleaner — it's the tiny 1-quart leaf bag it ships with. The W560 Standard Leaf Canister is Hayward's own answer to that limitation, and at 4.5 stars from 225 ratings, it's clearly working for most owners. But is it the upgrade your pool actually needs, or just another $40 accessory that ends up in a drawer? Let's break it down.

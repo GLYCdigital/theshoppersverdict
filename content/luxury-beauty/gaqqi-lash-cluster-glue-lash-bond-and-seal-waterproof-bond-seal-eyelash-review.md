@@ -1,16 +1,17 @@
 ---
+
 title: "GAQQI Lash Cluster Glue, Lash Bond and Seal Waterproof, Bond & Seal Eyelash Glue for Clusters, Eyelash Adhesive Black Long-Lasting 72H, Latex-Free（5ml+5ml）"
 seo_title: "GAQQI Lash Cluster Glue, Lash Bond and Seal Waterp Review"
 meta_description: "Our full gaqqi lash cluster glue, lash bond and seal waterproof, bond & seal eyelash glue for clusters, eyelash adhesive black long-lasting 72h, latex-free（5"
 slug: "gaqqi-lash-cluster-glue-lash-bond-and-seal-waterproof-bond-seal-eyelash-review"
 image_alt: "GAQQI Lash Cluster Glue, Lash Bond and Seal Waterproof, Bond & Seal Eyelash Glue for Clusters, Eyelash Adhesive Black Lo"
-keywords:
+keywords: 
   - "gaqqi lash cluster review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the GAQQI Lash Cluster Glue, Lash Bond and Seal Waterproof, Bond & Seal Eyelash Glue for Clusters, Eyelash Adhesive Black Long-Lasting 72H, Latex-Free（5ml+5ml）?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 3334
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8BB4338/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QfeLLL8OL._SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 Let me be honest right out of the gate: most lash cluster glues on Amazon are either too watery to hold or too thick to work with. The GAQQI Bond & Seal set manages to thread that needle — and with 3,334 ratings sitting at a respectable 4.3 stars, it's clearly doing something right. At $12.99 for two 5ml tubes, it's positioned as an affordable alternative to the $30+ salon-grade kits, but does it actually perform like one? I dug into the reviews, the formula specs, and the real-world complaints to give you the full picture.

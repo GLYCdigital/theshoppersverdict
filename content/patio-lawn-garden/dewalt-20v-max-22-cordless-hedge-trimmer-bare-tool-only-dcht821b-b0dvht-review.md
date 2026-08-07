@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX 22 inch  Cordless Hedge Trimmer, Bare Tool Only (D"
 seo_title: "DEWALT 20V MAX 22 inch  Hedge Trimmer Review (2026): Worth It?"
 meta_description: "DEWALT 20V MAX 22 inch  cordless hedge trimmer review: 4.7/5 rating. Real performance, battery life, and if the bare tool is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DVHTSWX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41rB95TV+aL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "22-inch dual-action hardened steel blades cut cleanly through 1/2-inch branches without stalling, even on mature hedges"
   - "Weighs just 5.6 lbs with battery — noticeably lighter than gas alternatives, reducing arm fatigue during 30+ minute trimming sessions"
   - "Full-wrap auxiliary handle with 180-degree rotating rear grip gives comfortable control for vertical, horizontal, and angled cuts"
-cons:
+cons: 
   - "Bare tool only — no battery or charger included, so first-time DEWALT buyers face $150+ in additional costs"
   - "Blade guard is flimsy and rattles during use; several owners report replacing it within the first season"
+
 ---
 
 If you're already invested in DEWALT's 20V MAX system, this trimmer is a no-brainer. If you're not, the hidden costs might give you pause. Let's dig into what 235 Amazon reviewers at 4.7 stars are actually saying — and what they're not.

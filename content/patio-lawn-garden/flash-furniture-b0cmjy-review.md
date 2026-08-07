@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture"
 seo_title: "Flash Furniture Patio Review: Worth It? (2026) | Verdict"
 meta_description: "Flash Furniture patio set review: 4.0-star rated with 200+ reviews. We break down build quality, comfort, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CMJYTML3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71esu6CTk1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade steel frame rated for 300+ lbs per seat, not flimsy residential tubing"
   - "UV-protected fabric cushions that survived 18 months of direct sun without fading"
   - "Assembly under 45 minutes with included hex wrench — no specialty tools needed"
-cons:
+cons: 
   - "Cushions are firmer than typical residential sets — some buyers find them too rigid"
   - "No included cover despite the $400+ price point — budget an extra $35 for protection"
+
 ---
 
 Let me be blunt: most patio furniture under $500 is a gamble. You're either getting rust-prone frames or cushions that look like deflated balloons by August. The Flash Furniture set sits in that crowded middle ground, but it's doing something different with its commercial-grade bones.

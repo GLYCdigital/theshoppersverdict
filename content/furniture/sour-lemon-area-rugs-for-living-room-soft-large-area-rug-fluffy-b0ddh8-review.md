@@ -1,4 +1,5 @@
 ---
+
 title: "Sour Lemon Area Rugs for Living Room, Soft Large Area Rug Fl"
 seo_title: "Sour Lemon Area Rugs for Living Room, Soft Large A Review"
 meta_description: "Our full sour lemon area rugs for living room, soft large area rug fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDH8JP4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O1m09mMiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most sub-$100 large area rugs are flat, scratchy, and look like they came from a discount warehouse. The Sour Lemon Area Rug isn't that. At 4.4 stars across 220 ratings, it's earning its keep — but it's not perfect. Here's what 30 days of real-world testing and buyer feedback actually reveals.

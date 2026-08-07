@@ -1,4 +1,5 @@
 ---
+
 title: "Cooler Master Elite 301 Lite Micro-ATX High Airflow Minimali"
 seo_title: "Cooler Master Elite 301 Lite Review: Micro-ATX Airflow Case"
 meta_description: "Cooler Master Elite 301 Lite Micro-ATX case review: airflow, build quality, and value. See if this minimalist PC case fits your next build."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FY41BVVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gOYul6tcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Mesh front panel delivers exceptional airflow with stock dual 120mm fans keeping GPU temps 5-8°C lower than closed-front cases"
   - "Tool-free tempered glass side panel with swing-open hinge — no screws to lose, no magnetic catches to fail"
   - "Generous 363mm GPU clearance fits virtually any triple-fan card, plus a PSU shroud with visible branding window"
-cons:
+cons: 
   - "Only two fan mounts on top; 240mm radiator support means no room for push-pull setups without sacrificing rear exhaust"
   - "Front panel I/O lacks USB-C — a noticeable omission for a case this modern, requiring an adapter for newer motherboards"
+
 ---
 
 If you're building a micro-ATX rig and want something that breathes without looking like a gamer's fever dream, the Cooler Master Elite 301 Lite deserves a hard look. It's a case that understands the assignment: high airflow, clean lines, and no unnecessary bulk. After digging through 240 ratings averaging 4.8 stars, the consensus is clear — this is a solid foundation for a mid-range build that won't choke your components.

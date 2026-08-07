@@ -1,4 +1,5 @@
 ---
+
 title: "Socomi Pink Cheesecloth Table Runner Summer Boho 120 inch"
 seo_title: "Socomi Pink Cheesecloth Table Runner Review (2026) | Boho 120 inch"
 meta_description: "Honest Socomi Pink Cheesecloth Table Runner review: fabric quality, real photos, washing results, and whether this $9 boho runner holds up. Read before buying."
@@ -11,13 +12,14 @@ review_count: 6815
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rnDkuAHzL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine cheesecloth texture — soft, breathable, and gets softer after every wash"
   - "120-inch length fits most 6-8 person tables with elegant drape on both ends"
   - "Lint-free after first wash; color holds through repeated laundering"
-cons:
+cons: 
   - "Wrinkles badly if left in dryer too long — must remove promptly or iron on low"
   - "Sheer weave shows table stains underneath; needs a liner for dark or patterned tables"
+
 ---
 
 You don't need to spend $40 on a linen runner to get that airy, coastal-farmhouse look. At $8.99, the Socomi Pink Cheesecloth Table Runner is the kind of find that makes you wonder why you ever paid more. With 6,815 ratings holding a 4.8-star average, this isn't a niche product — it's a proven crowd-pleaser. Here's the honest breakdown after examining the specs and what real buyers report.

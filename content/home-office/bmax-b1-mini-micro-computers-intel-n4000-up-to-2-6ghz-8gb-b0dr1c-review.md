@@ -1,4 +1,5 @@
 ---
+
 title: "Bmax B1 Mini Micro Computers, Intel N4000 Up to 2.6GHz, 8GB"
 seo_title: "Bmax B1 Mini PC Review: Intel N4000, 8GB RAM (2026)"
 meta_description: "Bmax B1 mini PC review: Intel N4000, 8GB RAM. Is this $150-class micro desktop worth it for office work? Real benchmarks, buyer feedback, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DR1CL7T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zhCwlhQEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 4K HDMI output with stable 60Hz refresh — rare at this price point"
   - "Fanless design (SSD version) means zero noise — silent operation even under sustained load"
   - "12V/2A DC power input, not USB-C — actually more reliable for 24/7 kiosk or server use"
-cons:
+cons: 
   - "N4000 is a 6W dual-core — expect 2015-era laptop performance, not a desktop replacement"
   - "eMMC storage version bottlenecks badly under multitasking; pay extra for the SSD model"
   - "Wi-Fi is 2.4GHz only — 5GHz networks require a USB adapter or ethernet"
+
 ---
 
 ## The $150 question: Can a dual-core Celeron actually run your office?

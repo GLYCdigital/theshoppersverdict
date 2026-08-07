@@ -1,4 +1,5 @@
 ---
+
 title: "Bur-Cam 506532SS Â¾ HP dual application jet pump"
 seo_title: "Bur-Cam 506532SS Jet Pump Review: 3/4 HP Honest Look"
 meta_description: "Bur-Cam 506532SS 3/4 HP dual application jet pump review: performance, build quality, common failures, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B003AJDNRU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VYBf6+iZS._SL1200_.jpg"
-pros:
+pros: 
   - "Stainless steel casing resists corrosion far better than cast iron pumps in sandy or acidic well water"
   - "Dual application design works for both shallow (25 ft) and deep (65 ft) well setups with minimal reconfiguration"
   - "Genuine 3/4 HP motor delivers 12.4 GPM at 40 PSI — enough for a 2-3 bedroom home with average water use"
-cons:
+cons: 
   - "Impelers and diffusers are plastic — several buyers report premature wear when drawing from sandy wells"
   - "Priming port is small and awkwardly placed; refilling takes patience and a funnel with a flexible hose"
+
 ---
 
 If you're shopping for a shallow or deep well pump on a budget, the Bur-Cam 506532SS is probably on your shortlist — it's one of the more visible 3/4 HP options on Amazon with nearly 200 ratings. The question is whether a $200-ish pump can actually handle the daily grind of household water delivery. Here's the honest breakdown.

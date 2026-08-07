@@ -1,24 +1,26 @@
 ---
+
 title: "Big Green Leaves Indoor Plant Food – 4X Concentrated House"
 seo_title: "Big Green Leaves Indoor Plant Food Review: 4X Concentrated (2026)"
 meta_description: "Honest Big Green Leaves Indoor Plant Food review: 4X concentrated houseplant fertilizer with seaweed. See pros, cons, and who should buy it."
 slug: "big-green-leaves-indoor-plant-food-4x-concentrated-houseplant-fertilizer-with-sea-b09q79-review"
 image_alt: "Big Green Leaves 4X concentrated indoor plant food bottle with dropper cap next to healthy potted houseplants"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Q79LRLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YAdWP2-aL._SL1500_.jpg"
-pros:  
+pros: 
   - "4X concentration means one 8oz bottle makes 32 gallons – roughly a year of feeding for a 20-plant home"  
   - "Seaweed-based formula (Ascophyllum nodosum) delivers natural cytokinins for root growth, not just NPK"  
   - "Dropper cap measures exact doses – no guesswork, no mess, works for tiny succulents to large monstera"  
-cons:  
+cons: 
   - "No clear N-P-K ratio printed on the label – you'll find it only in the product Q&A (2-1-1), which frustrates data-driven growers"  
   - "Light fishy odor on first open – dissipates after mixing but noticeable if you're sensitive"  
   - "Not organic-certified; contains synthetic chelated micronutrients, so strict organic gardeners should look elsewhere"
+
 ---
 
 If you've killed a fern or two, you already know the problem: most houseplant fertilizers are either too weak (you're watering every week and seeing nothing) or too strong (brown tips, salt buildup, dead roots). Big Green Leaves takes a different approach — a 4X concentrated liquid that you dilute yourself, with a seaweed base that does more than just pump nitrogen. Here's the honest breakdown after digging through real user feedback and the label's fine print.

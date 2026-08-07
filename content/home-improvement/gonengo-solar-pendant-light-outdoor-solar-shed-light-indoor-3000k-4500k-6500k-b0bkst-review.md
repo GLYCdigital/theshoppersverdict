@@ -1,4 +1,5 @@
 ---
+
 title: "Gonengo Solar Pendant Light Outdoor - Solar Shed Light Indoo"
 seo_title: "Gonengo Solar Pendant Light Outdoor - Solar Shed L Review"
 meta_description: "Our full gonengo solar pendant light outdoor - solar shed light indoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BKSTQCPQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fBlLnCfBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict Score: 4.2/5 — A genuinely useful solar light with one major caveat**

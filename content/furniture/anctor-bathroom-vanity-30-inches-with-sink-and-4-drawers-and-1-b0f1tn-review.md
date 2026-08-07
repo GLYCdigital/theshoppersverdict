@@ -1,4 +1,5 @@
 ---
+
 title: "ANCTOR Bathroom Vanity 30 Inches with Sink and 4 Drawers and"
 seo_title: "ANCTOR 30-Inch Bathroom Vanity Review: 4 Drawers + Sink"
 meta_description: "Honest ANCTOR 30-inch bathroom vanity review: 4 drawers, ceramic sink, solid wood build. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F1TNPDWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719AYoSS6xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood frame with plywood drawer boxes — more durable than the MDF-particleboard hybrid most competitors use at this price"
   - "Genuine soft-close drawer slides on all four drawers, not just the top pair"
   - "Ceramic countertop with integrated sink feels premium and wipes clean easily"
-cons:
+cons: 
   - "No pre-drilled holes for faucet installation — you'll need a drill and steady hands, or pay a plumber"
   - "Drawer depth is shallow (roughly 4.5 inches interior), so tall bottles won't stand upright"
   - "Assembly takes 60–90 minutes and requires two people for the countertop — the ceramic top is heavy and easy to chip during install"
+
 ---
 
 **Bottom line:** The ANCTOR 30-inch bathroom vanity is a solid mid-tier pick that gets the fundamentals right — real wood, soft-close drawers, and a quality ceramic top — but cuts corners on installation convenience and drawer depth. It's ideal if you're handy and want a durable vanity under $500, but renters or plumbing novices should think twice.

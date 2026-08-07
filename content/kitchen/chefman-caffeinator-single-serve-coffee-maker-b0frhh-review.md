@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman Caffeinator Single Serve Coffee Maker"
 seo_title: "Chefman Caffeinator Review: Single Serve Coffee Maker (2026)"
 meta_description: "Honest Chefman Caffeinator review: brew size flexibility, build quality, and real buyer feedback. See if this budget single-serve fits your morning routine."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FRHHK1NY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ppU6ytmsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews 6, 8, 10, or 12 ounces — actual portion control, not just a single fixed cup"
   - "Compatible with both ground coffee (reusable basket) and K-Cup style pods, giving you flexibility depending on your budget or mood"
   - "Compact footprint at roughly 11 inches deep, fits under standard upper cabinets without sacrificing counter space"
-cons:
+cons: 
   - "No automatic shut-off timer — the machine stays powered until you remember to turn it off"
   - "Some buyers report the drip tray is too shallow for taller travel mugs, causing splash-back during the brew cycle"
   - "The included scoop is tiny and unmarked; you'll want your own measuring spoon for consistent strength"
+
 ---
 
 **The $40 Coffee Maker That Actually Breaks the K-Cup Tax**

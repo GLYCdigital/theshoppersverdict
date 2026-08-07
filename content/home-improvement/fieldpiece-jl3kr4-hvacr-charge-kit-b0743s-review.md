@@ -1,4 +1,5 @@
 ---
+
 title: "Fieldpiece JL3KR4 HVACR Charge Kit"
 seo_title: "Fieldpiece JL3KR4 Review: HVACR Charge Kit Worth It?"
 meta_description: "Fieldpiece JL3KR4 HVACR Charge Kit review: accuracy, build quality, and real-world performance. See pros, cons, and if this kit fits your service needs."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0743SVJ9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71htn4QNKjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Displays superheat and subcooling simultaneously on a large backlit screen — no mental math required in the field"
   - "Built-in micron gauge reads down to 1 micron, eliminating the need to carry a separate vacuum gauge"
   - "Includes Job Link clamps with wireless range up to 500 feet, so you can monitor readings from the condensing unit"
-cons:
+cons: 
   - "Requires the separate Fieldpiece Job Link app for full data logging — it's free, but another setup step on site"
   - "The included hoses are quality but stiff in cold weather, making tight spaces more awkward than premium red/blue hose sets"
   - "Batteries drain faster than expected when the backlight stays on default; plan to dim it for long service calls"
+
 ---
 
 If you're still juggling a manual manifold, a separate thermometer, and a pocket calculator to figure out superheat, you're losing billable time. The Fieldpiece JL3KR4 HVACR Charge Kit exists to fix exactly that. This is a complete wireless charging and diagnostic system that puts superheat, subcooling, and micron readings on one screen — and after 235 Amazon ratings holding at 4.7 stars, the market has spoken. Here's the real breakdown.

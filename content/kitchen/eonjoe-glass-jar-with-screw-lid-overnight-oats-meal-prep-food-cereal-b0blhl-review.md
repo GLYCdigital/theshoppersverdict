@@ -1,4 +1,5 @@
 ---
+
 title: "EONJOE Glass Jar with Screw Lid Overnight Oats Meal Prep Foo"
 seo_title: "EONJOE Glass Jar Screw Lid Review: Overnight Oats Prep"
 meta_description: "EONJOE glass jars with screw lids for overnight oats—durable, leak-proof, and meal-prep ready. Read our honest 4.6-star review with pros, cons, and FAQ."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLHL2KQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51unZs-B+yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass that survives fridge-to-microwave transitions without shattering"
   - "True leak-proof seal — shake your oats upside down without a single drop escaping"
   - "Measurement markings on the side take the guesswork out of portioning"
-cons:
+cons: 
   - "Lids are plastic, not glass — some buyers prefer all-glass construction for pure food contact"
   - "No carrying handle or sleeve; hot jars need a towel or mitt"
+
 ---
 
 Let’s cut through the noise. You’re here because you’ve seen the 4.6-star average and 229 ratings on Amazon, and you want to know if the EONJOE Glass Jar with Screw Lid is actually worth your money for overnight oats and meal prep. Short answer: mostly yes, with a few caveats worth knowing before you hit “add to cart.”

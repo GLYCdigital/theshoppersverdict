@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BJE200XL Juice Fountain Compact Centrifugal Machine"
 seo_title: "Breville BJE200XL Review: Compact Juicer That Delivers"
 meta_description: "Breville BJE200XL Juice Fountain Compact review: 4.5-star centrifugal juicer praised for speed, easy cleanup, and small footprint. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000MDHH06/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lXEv3tnoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "700-watt motor delivers fast, efficient juice extraction — most users report a full glass in under 5 seconds"
   - "Compact footprint (roughly 10 x 8 inches) fits under standard upper cabinets without sacrificing feed chute size"
   - "Three-second quick-release pulp bin and dishwasher-safe parts make cleanup genuinely painless"
-cons:
+cons: 
   - "Centrifugal design means juice oxidizes fast — drink within 20 minutes or you'll notice separation and flavor loss"
   - "No variable speed control; the single 12,000 RPM setting can bruise leafy greens and produce foamier juice"
+
 ---
 
 **The Real Story on Breville's Compact Juicer**

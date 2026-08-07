@@ -1,4 +1,5 @@
 ---
+
 title: "Eletorot Patio Umbrella Lights - Rechargeable Outdoor Lights"
 seo_title: "Eletorot Patio Umbrella Lights Review (2026): 28 LED Rechargeable"
 meta_description: "Eletorot Patio Umbrella Lights review: 28 LED rechargeable lights with remote & 3 modes. Real buyer feedback, battery life tests, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ6RGM2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715i+dD6NqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "28 warm-white LEDs deliver genuinely even light across a 9-ft umbrella — no dark hotspots on the table surface"
   - "Tool-free strap mounting takes under 2 minutes; works on round and square poles up to 1.5 inches"
   - "Rechargeable battery with 3 brightness modes (and a remote) means no extension cords or wall outlet required"
-cons:
+cons: 
   - "Battery life on the highest setting runs closer to 5 hours than the advertised 8 — plan for dimmer mode during long dinners"
   - "Remote requires line-of-sight to the control box; if your umbrella pole is thick, expect to lean in to change modes"
+
 ---
 
 Let's be honest about patio lighting: most of it is either solar-powered junk that dies by 9 PM or a tangle of extension cords that creates a tripping hazard. The Eletorot Patio Umbrella Lights sidestep both problems with a simple, rechargeable design that clips directly to your umbrella ribs. After digging through 220 ratings and the spec sheet, here's what actually matters before you buy.

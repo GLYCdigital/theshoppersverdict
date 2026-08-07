@@ -1,4 +1,5 @@
 ---
+
 title: "Akkerds for New iPad Air 13 Inch Case M2 2024 with Pencil Ho"
 seo_title: "Akkerds iPad Air 13 Case M2 2024 Review: Pencil Holder + Stand"
 meta_description: "Akkerds iPad Air 13-inch case M2 2024 review: keyboard-free folio with Pencil holder, multi-angle stand, and solid drop protection. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3LT1L3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BtfmS97hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and secure magnetic closure that keep the iPad Air 13 M2 firmly seated even with daily handling"
   - "Dedicated Apple Pencil slot with a protective flap — the Pencil stays put in a bag, unlike magnetic-only cases"
   - "Multi-angle folding stand is rigid enough for lap use, not just desk typing"
-cons:
+cons: 
   - "Adds noticeable bulk — the front cover is thick and the case isn't the lightest option at roughly 1.2 lbs"
   - "No auto sleep/wake if you buy the version without the magnetic front — check the listing carefully"
+
 ---
 
 The iPad Air 13-inch M2 is a big, thin, expensive slab of glass and aluminum. You need a case that handles the size without turning it into a tablet-shaped brick. The Akkerds folio does that — mostly. Here's what 225 buyers at a 4.5 average are actually saying, and what they're not.

@@ -1,4 +1,5 @@
 ---
+
 title: "Shaved Ice Machine"
 seo_title: "Shaved Ice Machine Review: Verdict | TSV"
 meta_description: "Our full shaved ice machine review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.9
 amazon_url: "https://www.amazon.com/dp/B0F4WZBKZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BgerNOatL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Snow Cone Dream vs. The 2.9-Star Reality

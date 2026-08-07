@@ -1,4 +1,5 @@
 ---
+
 title: "Shop Succulents Coastal Succulent Bulk Plant Pack Collection"
 seo_title: "Shop Succulents Coastal Succulent Bulk Plant Pack  Review"
 meta_description: "Our full shop succulents coastal succulent bulk plant pack collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GFSK3CZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xUbYqouZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**  

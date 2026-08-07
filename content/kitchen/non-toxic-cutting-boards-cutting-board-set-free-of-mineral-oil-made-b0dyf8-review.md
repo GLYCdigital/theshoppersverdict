@@ -1,4 +1,5 @@
 ---
+
 title: "Non Toxic Cutting Boards - Cutting Board Set Free of Mineral"
 seo_title: "Non Toxic Cutting Boards - Cutting Board Set Free  Review"
 meta_description: "Our full non toxic cutting boards - cutting board set free of mineral review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DYF8D6WJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KpUonm-oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The mineral oil-free claim is real — here's what that actually means

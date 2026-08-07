@@ -1,4 +1,5 @@
 ---
+
 title: "JMEXSUSS Globe String Lights"
 seo_title: "JMEXSUSS Globe String Lights Review: Verdict | TSV"
 meta_description: "Our full jmexsuss globe string lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGHPF7HM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MLmihZFwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JMEXSUSS Globe String Lights: The 48-Foot Patio Upgrade That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "DNP Print Media for DS-RX1HS High Speed Dye Sub Printer - 4x"
 seo_title: "DNP Print Media for DS-RX1HS Review: Worth It? (2026)"
 meta_description: "DNP Print Media for DS-RX1HS review: real-world speed, print quality, and costs. See if this 4x6 paper kit delivers for photo businesses."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VZ1HC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518bVpVx2tL._AC_SL1022_.jpg"
-pros:
+pros: 
   - "Consistent, lab-grade color output with zero banding or streaking across full 500-print rolls"
   - "Genuine OEM formulation means no clogged print heads or wasted paper — cheaper third-party kits void warranty"
   - "Glossy, water-resistant finish that's dry to the touch in under 10 seconds — critical for event photo booths"
-cons:
+cons: 
   - "Premium OEM pricing stings at roughly $0.30–$0.35 per 4x6 print depending on current Amazon price"
   - "No starter roll included — you'll burn one of the two rolls just calibrating the printer if you're new to dye sub"
   - "Only 4x6 size in this bundle — larger formats require separate, pricier media kits"
+
 ---
 
 If you're running a photo booth, event photography side hustle, or a high-volume portrait studio, you already know the dirty secret of dye sublimation printing: the printer is the cheap part. The ongoing cost of paper and ribbon is where the real money goes — and where cheap knockoff media can quietly destroy your profit margin in wasted prints and service calls. This DNP kit for the DS-RX1HS is the OEM solution, and it earns its premium price tag — most of the time.

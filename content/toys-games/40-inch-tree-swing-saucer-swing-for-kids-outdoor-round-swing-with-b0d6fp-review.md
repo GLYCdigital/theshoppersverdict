@@ -1,4 +1,5 @@
 ---
+
 title: "40 Inch Tree Swing, Saucer Swing for Kids Outdoor, Round Swi"
 seo_title: "40 Inch Tree Swing Review: Saucer Swing for Kids Outdoor"
 meta_description: "Read our honest 40-inch saucer swing review. We tested durability, weight limits, and comfort. See real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6FPFTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71wkzjjxQXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely 40 inches of sitting space — fits two kids or one adult comfortably without the fabric sagging to the ground"
   - "Heavy-duty 1000D Oxford cloth with reinforced stitching holds up to real backyard abuse, not just gentle swinging"
   - "Easy 2-minute install with included heavy-duty straps that wrap around branches up to 12 inches thick"
-cons:
+cons: 
   - "The metal spreader ring digs into thighs when swinging solo at full speed — padding is minimal"
   - "Straps are long; low branches under 8 feet will leave the swing dragging on the ground"
+
 ---
 
 ## This Saucer Swing Actually Delivers on Its Promises

@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Organic Golden Flax Seeds, 2.2 lb"
 seo_title: "Yupik Organic Golden Flax Seeds, 2.2 lb Review: Verdict |"
 meta_description: "Our full yupik organic golden flax seeds, 2.2 lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07W7ZL19N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MEQ5MLUQL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a 2.2-pound bag of seeds that could change how you bake, blend, and even how you think about omega-3s. The Yupik Organic Golden Flax Seeds have earned a 4.7-star rating from 235 Amazon shoppers, and after digging into the details, here's what separates this bag from the bargain-bin flax at your grocery store.

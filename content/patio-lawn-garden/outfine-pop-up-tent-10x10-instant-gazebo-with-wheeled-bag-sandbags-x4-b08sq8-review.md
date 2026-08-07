@@ -1,4 +1,5 @@
 ---
+
 title: "OUTFINE Pop-up Tent 10x10 Instant Gazebo with Wheeled Bag, S"
 seo_title: "OUTFINE Pop-up Tent 10x10 Instant Gazebo with Whee Review"
 meta_description: "Our full outfine pop-up tent 10x10 instant gazebo with wheeled bag, s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08SQ8MW6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uY0tqdQfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pop-up gazebos under $200 are either flimsy junk or a two-person frustration puzzle. The OUTFINE 10x10 sits in a sweet spot — it's genuinely instant and genuinely affordable, but it has limits you need to know before you buy.

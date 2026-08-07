@@ -1,4 +1,5 @@
 ---
+
 title: "Brage Living PU Leather Dining Chairs with Metal Legs Set of"
 seo_title: "Brage Living PU Leather Dining Chairs Review (2026)"
 meta_description: "Honest Brage Living PU leather dining chair review: comfort, build quality, metal legs, real buyer feedback. Is the 4.5-star set worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPSLJ2F7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Vav8OYuwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine PU leather upholstery with high-density foam cushioning that holds shape through daily use"
   - "Welded steel legs with rubber floor protectors — no scratched hardwood after six weeks of testing"
   - "Tool-free assembly in under 10 minutes; all hardware and hex wrench included in the box"
-cons:
+cons: 
   - "Sits firm out of the box; cushion breaks in over 2–3 weeks but never becomes plush"
   - "Backrest is upright (100° angle) — not a lounger, better for dining than conversation"
   - "Light color options show denim transfer; dark shades are the safer everyday choice"
+
 ---
 
 The Brage Living PU Leather Dining Chairs with Metal Legs are the IKEA alternative that actually holds up. I've tested dozens of sub-$100 dining chairs, and most squeak by month two. This set of two? After six weeks of daily breakfasts, work-from-home lunches, and a few long dinner parties, they still look like they arrived yesterday.

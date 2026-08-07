@@ -1,4 +1,5 @@
 ---
+
 title: "Dolce&Gabbana Parfume Original, Eau de Toilette Spray, For W"
 seo_title: "Dolce&Gabbana Parfume Original EDT Review: Worth It?"
 meta_description: "Dolce&Gabbana Parfume Original EDT review: scent profile, longevity, sillage, and value. See if this 4.5-star women's fragrance deserves your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07L6VP224/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rp4qkjMpL._SL1500_.jpg"
-pros:
+pros: 
   - "Complex, evolving scent profile — opens with fresh Sicilian mandarin and neroli, dries down to a warm, creamy sandalwood and vanilla base that lasts 6-8 hours on skin"
   - "Versatile enough for both daytime wear and evening events without feeling heavy or cloying"
   - "Authentic Dolce&Gabbana quality — the bottle is substantial glass with a magnetic cap, and the sprayer atomizes evenly without wasting product"
-cons:
+cons: 
   - "As an EDT rather than EDP, longevity is moderate — expect 4-6 hours before needing a reapplication, especially if you have dry skin"
   - "The initial 10-15 minutes have an alcohol-forward opening that can smell sharp before the floral notes fully develop"
   - "Price point sits at premium fragrance levels, and there's no travel-size option — you're committing to the 100ml bottle"
+
 ---
 
 Let's be direct: this is not the Dolce&Gabbana fragrance most people think of when they hear the brand name. This is *Parfume Original* — the lighter, brighter cousin to the iconic *The One*. And honestly, that's exactly what makes it worth your attention.

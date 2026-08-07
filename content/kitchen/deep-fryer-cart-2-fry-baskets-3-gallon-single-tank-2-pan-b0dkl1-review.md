@@ -1,4 +1,5 @@
 ---
+
 title: "Deep Fryer Cart | 2 Fry Baskets | 3 Gallon Single Tank | 2 P"
 seo_title: "Deep Fryer Cart Review: 3-Gallon Tank, 2 Baskets — Worth It?"
 meta_description: "Honest Deep Fryer Cart review: 3-gallon single tank, 2 fry baskets. Real pros, cons, and who should buy. See if this commercial fryer cart fits your kitchen."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0DKL1Z6G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617bdW86yoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "3-gallon oil capacity handles high-volume frying without constant refills"
   - "Two large baskets let you fry different foods simultaneously"
   - "Integrated cart design adds mobility and storage that standalone fryers lack"
-cons:
+cons: 
   - "Temperature control reported as inconsistent by multiple buyers"
   - "Oil drainage valve placement makes cleanup awkward and messy"
   - "Heating element recovery time is slow for heavy continuous use"
+
 ---
 
 **Review Body:**

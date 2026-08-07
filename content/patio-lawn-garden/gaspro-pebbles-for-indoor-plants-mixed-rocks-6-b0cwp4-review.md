@@ -1,4 +1,5 @@
 ---
+
 title: "GASPRO Pebbles for Indoor Plants, Mixed Rocks 6 inch"
 seo_title: "GASPRO Pebbles for Indoor Plants Review: Worth It? (2026)"
 meta_description: "GASPRO mixed pebbles for indoor plants: 6 lb bag of polished river rocks. Read our honest review on coverage, drainage, and best uses."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWP4R6LT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r-aD9YXNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Consistent 0.5–1 inch size range, so the rocks don't look like a random gravel dump"
   - "Tumbled smooth — no sharp edges that could damage plant stems or scratch surfaces"
   - "Washes clean with minimal dust residue, saving you prep time before application"
-cons:
+cons: 
   - "6 lb bag covers less area than expected — about 1–2 small pots per bag if you want a full 1-inch layer"
   - "Color mix varies between batches; some bags lean heavily gray with fewer warm tones"
+
 ---
 
 Let's be honest about decorative pebbles: they're not the sexiest purchase you'll make for your plants, but they're one of the most practical. The GASPRO Mixed Rocks 6 has 229 ratings averaging 4.6 stars, and after digging through the feedback, here's what you actually need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dee Best Strawberry Flavored Red String Licorice Candy | Mou"
 seo_title: "Dee Best Strawberry Licorice Review: Worth Buying? (2026)"
 meta_description: "Dee Best strawberry red string licorice review: soft, chewy texture, bold flavor. See if this 4.1-star candy earns a spot in your snack drawer."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07NS6ZPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716ZSafacNL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely soft texture that stays pliable — doesn't turn rock-hard after opening"
   - "Strawberry flavor is bold and tangy without the artificial cough-syrup aftertaste"
   - "Twisted string format pulls apart cleanly, making it easy to share or portion"
-cons:
+cons: 
   - "Some bags arrive with strands stuck together in a clump, requiring careful separation"
   - "Sugar coating can be inconsistent — some pieces are dustier than others"
   - "Not a true sour candy despite some reviewers expecting a tart kick"
+
 ---
 
 Let me be upfront: I've tested dozens of licorice brands, and most "strawberry" versions taste like someone waved a strawberry near a vat of red dye. Dee Best's offering is different — and mostly in a good way.

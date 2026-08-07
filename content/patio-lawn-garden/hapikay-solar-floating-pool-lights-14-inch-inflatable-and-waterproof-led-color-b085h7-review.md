@@ -1,4 +1,5 @@
 ---
+
 title: "HAPIKAY Solar Floating Pool Lights - 14 Inch Inflatable and "
 seo_title: "HAPIKAY Solar Floating Pool Lights - 14 Inch Infla Review"
 meta_description: "Our full hapikay solar floating pool lights - 14 inch inflatable and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B085H783TW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zG2hY25yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the fluff: most solar pool lights are either too dim to see from the patio or too flimsy to survive a season. The HAPIKAY 14-inch inflatable spheres sit firmly in the middle — and for most backyard owners, that’s exactly the sweet spot.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gellen Latex Tape for Nails"
 seo_title: "Gellen Latex Tape for Nails Review: Verdict | TSV"
 meta_description: "Our full gellen latex tape for nails review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FL2K7ZXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61u7u-8Al2L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you: I've reviewed dozens of "liquid latex" nail barriers over the years, and most of them are overpriced acetone in a fancy bottle. The Gellen Latex Tape for Nails is different — but it's not perfect either. Here's the real story before you spend your money.

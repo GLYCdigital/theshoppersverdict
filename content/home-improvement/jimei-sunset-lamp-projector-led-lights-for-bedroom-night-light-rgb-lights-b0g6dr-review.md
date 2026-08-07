@@ -1,4 +1,5 @@
 ---
+
 title: "JIMEI Sunset Lamp Projector Led Lights for Bedroom Night Lig"
 seo_title: "JIMEI Sunset Lamp Projector Led Lights for Bedroom Review"
 meta_description: "Our full jimei sunset lamp projector led lights for bedroom night lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G6DR319F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PKlNpAa5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most sunset lamps are cheap plastic gimmicks that look great in Amazon photos and disappointing on your actual wall. The JIMEI Sunset Lamp Projector is not that. It's also not a $200 professional lighting rig. It sits somewhere in the middle — and for most buyers, that's exactly the right spot.

@@ -1,4 +1,5 @@
 ---
+
 title: "Banana Boat Sport Sunscreen for Face, SPF 50, 3Fl Oz, Banana"
 seo_title: "Banana Boat Sport Sunscreen SPF 50 Face Review (2026)"
 meta_description: "Honest Banana Boat Sport Sunscreen SPF 50 face review: sweat-resistant, lightweight, non-greasy. Real pros, cons & who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGVCJ4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614GYwTxTWL._SL1500_.jpg"
-pros:
+pros: 
   - "Powerful 80-minute water/sweat resistance that actually holds up through intense workouts and beach days"
   - "Featherlight, non-comedogenic formula that doesn't leave white cast or greasy residue — even on darker skin tones"
   - "Compact 3 fl oz tube is TSA-friendly and fits easily in a gym bag or hiking pack"
-cons:
+cons: 
   - "Bottle runs out fast if you're applying the recommended 2mg/cm² amount daily — plan to repurchase monthly"
   - "Scent is noticeable and distinctly 'sunscreen' — not ideal for fragrance-sensitive users"
   - "No moisturizing ingredients, so dry skin types will need a separate hydrating layer underneath"
+
 ---
 
 **The face sunscreen that actually survives a 10-mile run — without looking like you're wearing a mask.**

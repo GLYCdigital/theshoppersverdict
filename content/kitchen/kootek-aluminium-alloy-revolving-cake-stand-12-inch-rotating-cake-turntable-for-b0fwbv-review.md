@@ -1,4 +1,5 @@
 ---
+
 title: "Kootek Aluminium Alloy Revolving Cake Stand 12 Inch Rotating"
 seo_title: "Kootek Aluminium Alloy Revolving Cake Stand 12 Inc Review"
 meta_description: "Our full kootek aluminium alloy revolving cake stand 12 inch rotating review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FWBVMHCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lRZufnEQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a lazy Susan that wobbles mid-stroke or a plastic turntable that flexes under a heavy cake, you know the pain. The Kootek 12-inch revolving cake stand aims to end that struggle with a build that feels more like a machine tool than a baking accessory. At 4.9 stars from 245 ratings, it's clearly doing something right — but let's dig into whether it's the right tool for your kitchen.

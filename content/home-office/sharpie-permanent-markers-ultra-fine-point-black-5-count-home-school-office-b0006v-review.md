@@ -1,4 +1,5 @@
 ---
+
 title: "Sharpie Permanent Markers, Ultra Fine Point, Black, 5 Count "
 seo_title: "Sharpie Permanent Markers, Ultra Fine Point, Black Review"
 meta_description: "Our full sharpie permanent markers, ultra fine point, black, 5 count  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0006VPVSO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Drs18yFZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut the chase: you're looking at these because you need a marker that writes small, writes permanent, and doesn't bleed into illegibility. The Sharpie Ultra Fine Point in black does exactly that — and it's been doing it for decades for a reason.

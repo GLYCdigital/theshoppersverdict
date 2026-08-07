@@ -1,4 +1,5 @@
 ---
+
 title: "Rust-Oleum 207008 Marine Spar Varnish, Quart"
 seo_title: "Rust-Oleum 207008 Marine Spar Varnish, Quart Review: Verd"
 meta_description: "Our full rust-oleum 207008 marine spar varnish, quart review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09524CDTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u7fGf06jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're restoring a wooden boat, refinishing a front door, or protecting outdoor furniture that gets hammered by sun and rain, you've probably stared at the varnish aisle wondering if the premium stuff is worth the extra cash. The Rust-Oleum Marine Spar Varnish sits right in that middle ground—not the cheapest option, but nowhere near the high-end Epifanes or Pettit finishes. After digging through 235 ratings and the technical specs, here's what you actually need to know.

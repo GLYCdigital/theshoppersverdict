@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Star 70019 Garden Barrow Dual-Wheel Residential Wheel"
 seo_title: "Garden Star 70019 Garden Barrow Review: Dual-Wheel Cart"
 meta_description: "Garden Star 70019 dual-wheel garden barrow review: stability, build quality, and real buyer feedback. Is this residential wheel upgrade worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0743WZY9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nIMLqLg+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-inch pneumatic tires with steel rims absorb shock and roll smoothly over uneven lawn terrain"
   - "Pair of wheels eliminates tipping on slopes, making it far more stable than a single-wheel barrow"
   - "Bolt-on installation fits most standard wheelbarrow frames with common axle sizes"
-cons:
+cons: 
   - "Tires arrive fully inflated but can lose pressure over winter storage, requiring periodic top-ups"
   - "Slightly wider footprint makes navigating narrow garden paths or tight shed doorways more difficult"
   - "Not designed for heavy contractors' loads — rated for residential yard work, not construction"
+
 ---
 
 If you've ever wrestled a fully loaded single-wheel wheelbarrow up a muddy incline, you already know the problem: one wrong step and the whole load dumps sideways. The Garden Star 70019 attacks that issue directly with a second wheel, and based on 215 Amazon ratings averaging 4.3 stars, it's a fix that resonates.

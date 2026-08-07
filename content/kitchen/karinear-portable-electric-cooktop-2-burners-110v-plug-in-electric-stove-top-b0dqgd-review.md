@@ -1,4 +1,5 @@
 ---
+
 title: "Karinear Portable Electric Cooktop 2 Burners, 110v Plug in E"
 seo_title: "Karinear Portable Electric Cooktop 2 Burners, 110v Review"
 meta_description: "Our full karinear portable electric cooktop 2 burners, 110v plug in e review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQGDN29Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZyS7VRhpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a dorm room mini-fridge, an RV galley, or a rental kitchenette with exactly zero usable burners, the Karinear Portable Electric Cooktop is the workaround you've been hunting for. This dual-burner unit plugs straight into a standard 110V outlet — no electrician, no 220V line, no landlord permission slip. At roughly 22 inches wide and weighing in around 8 pounds, it's compact enough to stash in a cabinet between uses yet substantial enough to handle a real weeknight dinner.

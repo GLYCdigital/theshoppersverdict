@@ -1,4 +1,5 @@
 ---
+
 title: "Asvin Dog Bed, Cat Beds for Indoor Cats, Pet Bed for Puppy a"
 seo_title: "Asvin Dog Bed Review: Plush Comfort for Cats & Small Dogs"
 meta_description: "Honest Asvin Dog Bed review: plush comfort, machine-washable cover, and sizing tips for cats, puppies, and small breeds. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B098JX2XDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71658hykWdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided microfiber suede with thick 4-inch polyfill base — holds shape even after months of daily use"
   - "Removable, machine-washable cover with hidden zipper; dries fast without clumping or losing loft"
   - "Non-slip bottom keeps it anchored on hardwood and tile, which matters for anxious dogs that circle before lying down"
-cons:
+cons: 
   - "Not for heavy chewers or diggers — the plush material will tear if your dog treats it like a toy"
   - "Small size runs genuinely small; measure your pet's length before ordering, not just weight"
+
 ---
 
 **Is this the bed your cat will actually sleep in, or the one they'll ignore for a cardboard box?** I've tested enough pet beds to know the difference usually comes down to three things: fill density, fabric texture, and whether the base stays flat. The Asvin Dog Bed nails two of those and comes close on the third, which is why it holds a solid 4.5-star average across 225 Amazon ratings.

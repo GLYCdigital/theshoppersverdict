@@ -1,4 +1,5 @@
 ---
+
 title: "Little Tikes Cozy Truck Ride-On - Black"
 seo_title: "Little Tikes Cozy Truck Ride-On - Black Review: Verdict |"
 meta_description: "Our full little tikes cozy truck ride-on - black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C6NSGC35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81V0mnfEiZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Little Tikes Cozy Truck Ride-On - Black: The Ride-On That Grows With Your Toddler

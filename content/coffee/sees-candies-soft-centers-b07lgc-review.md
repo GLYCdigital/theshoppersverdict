@@ -1,4 +1,5 @@
 ---
+
 title: "Sees Candies Soft Centers"
 seo_title: "Sees Candies Soft Centers Review: Verdict | TSV"
 meta_description: "Our full sees candies soft centers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07LGCDY93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PnhRP2gRL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # See's Candies Soft Centers: The Box That Gets It Right
